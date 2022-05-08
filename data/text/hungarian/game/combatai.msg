@@ -3636,22 +3636,22 @@
 {70400}{}{Ah! My head!}
 {70401}{}{I think my ear's bleeding.}
 {70402}{}{C?o! I hope that didn't break my nose.}
-{70410}{}{C?o! My arm!}
+{70410}{}{Jaj! A kezem!}
 {70411}{}{A fenébe, nagyon fáj!}
 {70412}{}{At least it's not broken... I don't think.}
-{70420}{}{C?o! My arm!}
+{70420}{}{Jaj! A kezem!}
 {70421}{}{A fenébe, nagyon fáj!}
 {70422}{}{At least it's not broken... I don't think.}
 {70430}{}{I think I broke a rib.}
 {70431}{}{I won't die that easily.}
-{70432}{}{C?o! That hurt!}
+{70432}{}{Áu! Ez fájt!}
 {70440}{}{Not the legs!}
 {70441}{}{Ah! Right in the shin.}
 {70442}{}{That hurt, but at least I can still walk.}
 {70450}{}{Not the legs!}
 {70451}{}{Ah! Right in the shin.}
 {70452}{}{That hurt, but at least I can still walk.}
-{70460}{}{C?o! My eyes!}
+{70460}{}{Jaj!! A szemem!}
 {70461}{}{Cheap shot!}
 {70462}{}{Hey! I can't afford another eye surgery!}
 {70470}{}{I can't believe you just hit me there.}

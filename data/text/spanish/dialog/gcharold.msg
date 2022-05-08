@@ -2,7 +2,7 @@
 {101}{}{Ves a Harold.}
 {102}{}{Ves a un necrófago muy viejo pero aún lleno de vida.}
 {103}{hld1a}{Como te lo digo, el viejo Harold es un poquito lento para pillarlas al vuelo. Los dos hablando no arreglaríamos nada.}
-{104}{hld1b}{Ahh, ?no lindo. Simplemente no tengo tiempo para tratar de entender ya ahora.}
+{104}{hld1b}{Ahh, zno lindo. Simplemente no tengo tiempo para tratar de entender ya ahora.}
 {105}{hld1c}{Je je, qué cosas se ven. }
 {106}{hld2a}{Hola, piel suave. Me llamo Harold. Ayudo a mantener en marcha esta ciudad.}
 {107}{hld2a1}{¿Qué necesitas, joven?}
