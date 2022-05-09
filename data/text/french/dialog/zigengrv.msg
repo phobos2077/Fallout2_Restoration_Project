@@ -95,8 +95,8 @@
 {376}{}{« Carine Prosais : Est allée à l'université de droit W&M, maintenant c'est Carine Procès. »}
 {377}{}{« Sarah Smart : Orateur, auteur, professeur. De Amicitia. »}
 {378}{}{« Tim Winkle : Je ne tolère aucune hypocrisie sauf la mienne. »}
-{379}{}{« Jean Pichet : Roi de l'univers de la Reine Archie. »}
-{380}{}{« Ici repose Casey Donahue tué le 6/8/98 par un mutant nommé *loup de mer grincheux*. »}
+{379}{}{"Jughead - King of Queen Archie's World."}
+{380}{}{"R.I.P Casey Donahue. Died 8/6/98. Killed by Mutated Ill-Tempered Sea Bass."}
 {381}{}{« Christopher *Nightwing* Jones : Administrateur des fameux coups de boules saignants. »}
 {382}{}{« Jay Nielson, dit *pied de patate*. Musicien. Est mort à l'âge de 104 ans, en exécutant un solo de batterie. »}
 {383}{}{« Nitsa : La raison pour laquelle Charles n'a pas été chanceux. »}

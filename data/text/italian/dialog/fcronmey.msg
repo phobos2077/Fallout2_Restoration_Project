@@ -51,7 +51,7 @@
 {150}{}{Grazie. Ciao.}
 {151}{}{Hai fatto un grave errore a metterti contro il Capitano e i suoi amici...}
 {152}{}{How do you pilot this rig? Well, I see you already gassed her up. When you've taken care of everything else, just press the button. The computer will take care of the rest, if it's still working. It'll sail right out to the oil rig - unless that old sub blows it up. But at least you won't have to worry about the Enclave firing at you, because you've got the IFF transponder. Just make sure you've got what you need to access everything: FOB, working computer, and fuel. Easy enough, huh?}
-{153}{}{Oh, yeah. You gotta get the navigation computer working as well. I bet you'd find parts for it in one of those old vaults.}
+{153}{}{Ah, certo. Devi anche mettere in funzione il computer di navigazione. Scommetto che troverai il pezzo che ti serve in uno dei vecchi vault.}
 {154}{}{Mi fa piacere rivederti. Che cosa ti serve?}
 {155}{}{ ed e' li' che troverai le risposte che cerchi.}
 {156}{}{.}

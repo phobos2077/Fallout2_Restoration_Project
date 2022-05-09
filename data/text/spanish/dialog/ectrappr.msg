@@ -10,8 +10,8 @@
 {109}{}{No importa.}
 {110}{}{Uhg.}
 {111}{}{Esto es lo que tengo: }
-{112}{}{ pieles de gecko normal.}
-{113}{}{ pieles de gecko dorado.}
+{112}{}{regular gecko pelts.}
+{113}{}{golden gecko pelts.}
 {114}{}{Me quedaré con todo lo que tienes.}
 {115}{}{Quizás la próxima vez. Adiós.}
 {116}{}{Has hecho un buen negocio. Nos vemos.}

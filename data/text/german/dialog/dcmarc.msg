@@ -10,7 +10,7 @@
 {229}{}{Wir sind einfach gut.}
 {230}{}{Die haben wir sauber aufgemischt! Yeah!}
 {250}{}{Du musst mit Tyler reden, nicht mit mir, junge Dame.}
-{251}{}{Was ist denn los? Du musst hier mit Tyler über etwas reden.}
+{251}{}{What's up. You need something, you gotta talk to Tyler here.}
 {252}{}{Was starrst du denn?}
 {253}{}{Du musst mit Tyler reden, nicht mit mir, junger Mann.}
 {255}{}{Wir werden heute Abend mal so richtig aufmischen!}

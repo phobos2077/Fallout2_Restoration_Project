@@ -78,8 +78,7 @@
 {177}{}{Ti senti un po' strano. No, ti senti *molto* strano. In effetti, hai l'impressione che il tuo cuore stia accelerando e il mondo rallentando e non sai cosa sta succedendo e nessuno puo' aiutarti perche' non sai di cosa si tratta oh no attento! AAAAAAH! STAI IMPAZZENDO!!!}
 {178}{}{Fai una smorfia sentendone il sapore e poi ti rendi conto che brucia mentre scende nello stomaco. Ahia. AHIA. AHIA!! Ti sta aprendo in due le interiora! }
 {179}{}{Un po' terroso, ma riesci a mandarlo giu'. Stranamente, adesso ti senti un po' meglio.}
-{180}{}{Ahh, what the hell. Despite the looks of it, you down the nasty brew. You immediately begin
- spitting and gagging. You've been irradiated!}
+{180}{}{Ahh, che diavolo. Nonostante il suo aspetto, ingoi la sgradevole tisana. Immediatamente cominci a sputare e a boccheggiare. Sei stato contaminato!}
 {181}{}{[FATTO]}
 {182}{}{Bene... d'accordo. Ricordando le cose che bevevi da piccolo, rovesci la bottiglia e lasci che il liquido scorra nella tua gola. Il tuo stomaco si torce non appena il liquido lo raggiunge. Ti senti come se ti avesse punto un radscorpione.}
 {183}{}{Ehi, sembra acqua, per cui deve essere altrettanto buona, no? Non appena quella roba raggiunge la tua gola, ti accorgi di aver fatto un errore. Questa roba BRUCIA. Il dolore ti tormenta per molto, molto tempo.}

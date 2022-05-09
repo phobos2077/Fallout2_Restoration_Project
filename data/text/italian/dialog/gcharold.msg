@@ -2,7 +2,7 @@
 {101}{}{Vedi Harold.}
 {102}{}{Vedi un ghoul anziano ma dall'aspetto ancora vitale.}
 {103}{hld1a}{Devo dire che anche il vecchio Harold ha un po' troppa polvere, nella sua soffitta. Se ci mettessimo a parlare, non otterremmo un gran che, noi due.}
-{104}{hld1b}{Ahh, ain't you cute. I just don't have time to try understanding ya right now.}
+{104}{hld1b}{Ahh, davvero carino. Adesso non ho tempo da perdere a cercar di capire quello che dici.}
 {105}{hld1c}{Eh eh, davvero divertente. }
 {106}{hld2a}{Ehila', pelle-liscia. Mi chiamo Harold. Aiuto questa citta' a tirare avanti.}
 {107}{hld2a1}{Cosa ti serve, ragazzo?}
@@ -40,7 +40,7 @@
 {139}{}{Accidenti.}
 {140}{hld7}{Uh, puoi ben dirlo. Sono riuscito a sistemare le cose in tempo, ma stavolta siamo arrivati ad un passo dalla fine. Hanno bisogno di qualcuno che li controlli.}
 {141}{}{E' una fortuna che tu sia qui ad aiutarli.}
-{142}{hld8}{Who'd a thought I'd be making things right? Although if we don't get a Hydroelectric Magnetosphere Regulator pretty damn quick, there is gonna be trouble.}
+{142}{hld8}{Chi l'avrebbe mai detto che un giorno avrei fatto qualcosa di giusto? Ad ogni modo, se non ci procureremo in fretta un Regolatore Idroelettrico di Magnetosfera, saranno guai.}
 {143}{}{Cosa diavolo e' un Regolatore Idro-magna-quelchele'?}
 {144}{}{Hmm, sembra proprio un bel problema. Lascia che ti chieda qualcos'altro.}
 {145}{}{Guai? Che tipo di guai?}
@@ -54,7 +54,7 @@
 {153}{}{Grazie. Spero di essere un degno erede del mio antenato. Dato che sono qui, lascia che ti chieda qualcos'altro che potrebbe essermi d'aiuto.}
 {154}{}{E' stato un piacere. Lascia che ti chieda qualcos'altro.}
 {155}{}{Beh, e' una cosa normale per me. Adesso devo proprio andare, pero'. Persone da salvare, mostri da trucidare, disastri da prevenire, sai, questo genere di cose. Ci vediamo.}
-{156}{hld14}{You cut with the dull edge of the knife, don't ya? You don't look like an orange peel left in the sun all day. Your skin's still soft and purty. }
+{156}{hld14}{Di solito tagli con la parte opposta alla lama, vero? Non hai l'aspetto di una buccia d'arancia lasciata al sole per un giorno intero. La tua pelle e' ancora liscia e morbida.}
 {157}{}{Uno a zero per te. Spero che la mia prossima domanda sia un po' piu' sensata.}
 {158}{}{Oh. Certo. Ehi, lascia che ti chieda qualcos'altro.}
 {159}{}{Farai meglio a non farti venire strane idee riguardo alla mia pelle morbida.}

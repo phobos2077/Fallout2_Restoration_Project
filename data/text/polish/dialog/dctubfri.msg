@@ -1,4 +1,4 @@
-{100}{}{Widzisz ćpunkę.}
+{100}{}{Widzisz narkomana.}
 {110}{}{Widzisz naćpaną dziwkę.}
 {111}{}{Widzisz jedną z naćpanych dziwek Tubby'ego.}
 {150}{}{Wydaje się, że należy do kręgu przyjaciół Tubby'ego.}

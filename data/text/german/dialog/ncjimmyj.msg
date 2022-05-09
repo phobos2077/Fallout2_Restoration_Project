@@ -42,7 +42,7 @@
 {282}{}{LOSLASSEN, LOS--}
 {283}{}{He Mann, das mit "Jimmy Js Methode" und so hört sich ja toll an. Ich hatte dazu nämlich ein paar Fra--}
 {284}{}{Nein, glaub ich nicht -}
-{290}{}{Ich wusste doch, dass du zurückkommen würdest, wusste ich einfach! Hat Jagged Jimmy J nicht gesagt, was seine METHODE ist? Mach die Leute glücklich, dann enttäuschen sie dich auch nicht. Also Pilot... was kann Jagged Jimmy J heute für dich tun?}
+{290}{}{Knew you'd be back, knew it! Didn't Jagged Jimmy J say that it would be that WAY? Keep 'em happy, and they'll never let you down. So my pilot friend... what can Jagged Jimmy J do for you today?}
 {291}{}{Na also, wenn das nicht mein "Freund" der Pilot ist... kommst du wieder, weil du was Bestimmtes von Jagged Jimmy BRAUCHST?}
 {292}{}{Ähm... Vergessen, was wollen sagen. Jetzt gehen}
 {294}{}{Wir handeln Sachen? GERNE Sachen}

@@ -38,8 +38,7 @@
 {137}{}{Parla con Bill, come sempre.}
 {138}{}{Okay.}
 {139}{}{Dopo quel che e' successo a Chad? Non credo proprio. Altro?}
-{140}{}{We're here. Here's your $500. If you want to come back, we leave at the end of the day. You'll
- earn the money on the way back, too, if you want it. One way or another, though, we're leaving then.}
+{140}{}{Siamo arrivati. Ecco i tuoi 500$. Se vuoi tornare indietro, noi partiamo alla fine della giornata. Ti pagheremo anche per il viaggio di ritorno, se vuoi. In un modo o nell'altro, comunque, partiremo per allora.}
 {141}{}{Ci vediamo.}
 {142}{}{Sei pronto per partire?}
 {143}{}{Grazie. Ecco i tuoi 500$. Se vuoi un altro lavoro, parla con Bill.}

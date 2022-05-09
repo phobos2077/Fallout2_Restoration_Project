@@ -316,7 +316,7 @@
 {415}{}{Return when all is done.}
 {416}{}{Great work, soldier. Here's your $750 -- a small price to pay for a village full of new servants. You've done Vault City a great service.}
 {417}{}{Wait -- You never said anything about making the villagers your servants.}
-{418}{}{Whatever. Goodbye.}
+{418}{}{Vabbe'. Arrivederci.}
 {419}{}{It's for their own good. Once they're servants of Vault City, there'll be no need for them to strife for survival. They'll be fed and taken care of. In return, they'll work for the good of the City. Everyone wins.}
 {420}{}{But it's slavery!}
 {421}{}{It's not slavery, but a mutually beneficial co-existence, a symbiosis so to speak.}

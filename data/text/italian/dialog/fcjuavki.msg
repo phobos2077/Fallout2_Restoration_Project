@@ -19,7 +19,7 @@
 {118}{}{Lui: Ah, hai visto? Gli insegnamenti dell'Hub hanno dimostrato ancora una volta il loro valore!}
 {119}{}{Ho delle domande da farvi.}
 {120}{}{Grazie! Ciao!}
-{121}{}{Her: Why, we were in the movie business in New Reno. We made hundreds of films, many of them classics, like "Top Bun," "Frisky Bizness," and "Days of Rubber". That's what makes us celebrities.}
+{121}{}{Lei: Beh, eravamo delle stelle del mondo del cinema a New Reno. Abbiamo girato centinaia di film, molti dei quali sono dei veri classici, come "Top Bun", "Frisky Bizness",  "Days of Rubber". E' questo che ci rende delle celebrita'. }
 {122}{}{Lui: E questo, facendo anche tu parte di quel mondo, dovresti gia' saperlo.}
 {123}{}{E' bello poter finalmente dare un volto a quei nomi.}
 {124}{}{E chi se ne frega se VOI l'appoggiate? Non dovrei essere libero di fare le mie scelte da solo?}
@@ -92,7 +92,7 @@
 {191}{}{Lui: Hai preso una di quelle decisioni che cambiano la vita. Lei: E purtroppo, era quella sbagliata. Entrambi: Guardie! Guardie!}
 {192}{}{Dannazione.}
 {193}{}{Lui: Salve, }
-{194}{}{Adesso che sono un Hubologista che cosa faccio?}
+{194}{}{So what do I do now that I'm a Hubologist?}
 {195}{}{Cosa devo fare per entrare nel vostro gruppo?}
 {196}{}{E' tutto quello che volevo sapere. Ci vediamo!}
 {197}{}{}

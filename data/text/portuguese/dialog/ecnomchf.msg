@@ -1,4 +1,4 @@
-{100}{}{Você vê um nômade chefe.}
+{100}{}{Você vê um nômade.}
 {101}{}{Ele parece ser um nômade chefe.}
 {102}{}{Por seu vestido e a maneira como ele se desenvolve, ele deve ser um líder de algum tipo.}
 {103}{}{Ah, um viajante. Seja bem-vindo a minha humilde tenda. Tire a máscara do infinito calor da terra.}

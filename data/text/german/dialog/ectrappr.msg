@@ -10,8 +10,8 @@
 {109}{}{Macht nichts.}
 {110}{}{Agh.}
 {111}{}{Das ist, was ich habe: }
-{112}{}{normale Geckohäute.}
-{113}{}{goldene Geckohäute.}
+{112}{}{regular gecko pelts.}
+{113}{}{golden gecko pelts.}
 {114}{}{Ich nehm alle.}
 {115}{}{Vielleicht nächstes Mal. Tschüss.}
 {116}{}{War nett, mit dir Geschäfte zu machen. Bis dann.}

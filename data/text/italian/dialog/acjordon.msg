@@ -1,7 +1,7 @@
 {100}{}{Vedi Jordan che fa roteare la sua lancia, come al solito.}
 {101}{}{Vedi Jordan che fa roteare la sua lancia, come al solito.}
-{102}{}{Good luck! I must get back to my training.}
-{103}{}{Hello Chosen One. I see you're in need of a little training. Can I be of help?}
+{102}{}{Buona fortuna!  Devo tornare ad allenarmi.}
+{103}{}{Salve, Prescelto. Vedo che hai bisogno di un po' di allenamento. Posso aiutarti?}
 {104}{}{Bene.}
 {105}{}{No, Grazie.}
 {106}{}{Ci servira' solo un po' di tempo.}

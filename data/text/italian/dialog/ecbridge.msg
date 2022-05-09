@@ -65,7 +65,7 @@
 {164}{}{Esatto. Prego...}
 {165}{}{Graffie}
 {166}{}{Ole'}
-{167}{}{Oh, thank you. Thank you very much.}
+{167}{}{Oh, grazie. Grazie davvero.}
 {168}{}{Non lo so questo!}
 {169}{}{Il giocatore viene disintegrato.}
 {170}{}{Heh-heh.}

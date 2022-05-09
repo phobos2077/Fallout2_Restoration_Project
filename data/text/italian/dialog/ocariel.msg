@@ -1,6 +1,6 @@
 {100}{}{Vedi una piccola, esile donna che indossa un prendisole di velluto blu.}
 {101}{}{Vedi Ariel, la vedova.}
-{102}{}{You see a short, slender woman wearing a blue velvet sun dress. She appears to be sad.}
+{102}{}{Vedi una piccola, esile donna che indossa un prendisole di velluto blu. Sembra triste.}
 {103}{}{Salve, io sono Ariel. Non mi pare di averti mai visto prima. Chi sei?}
 {104}{}{Me }
 {105}{}{Uh... tu sembrare triste. Perche'?}

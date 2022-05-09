@@ -1,4 +1,4 @@
-{100}{}{You see a nomad chieftain.}
+{100}{}{Vedi un nomade.}
 {101}{}{Sembra essere il capo nomade.}
 {102}{}{Dal vestito e da come si atteggia, diresti che si tratta di un capo.}
 {103}{}{Ah, un viaggiatore. Siate benvenuto nella mia umile tenda. Prendetevi un po' d'ombra, fugace rifugio dall'infinito calore della terra.}

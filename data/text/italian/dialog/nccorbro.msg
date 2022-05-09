@@ -186,7 +186,7 @@
 {652}{}{Questo? Questo e' il Golden Globes, uno studio CINEMATOGRAFICO, tesoro, l'unico presente a Reno, e probabilmente l'UNICO al mondo ad essere ancora in piedi, capito? Ora: hai intenzione di sfinirmi con le tue chiacchiere, oppure vuoi un lavoro?}
 {653}{}{Questo vecchio posto? Questo e' il Golden Globes, uno studio CINEMATOGRAFICO, probabilmente l'UNICO al mondo ad essere ancora in piedi. Ma basta parlare di questo posto... stai cercando lavoro, amico? Abbiamo BISOGNO di talenti come te.}
 {654}{}{Questo vecchio posto? Questo e' il Golden Globes, uno studio CINEMATOGRAFICO, probabilmente l'UNICO al mondo ad essere ancora in piedi. Ma basta parlare di questo posto... stai cercando lavoro, tettine d'oro?}
-{655}{}{How do you "film?" I mean, c'mon... you'd need cameras, film, projectors... where would you get all that stuff?}
+{655}{}{Come fate a girare i film? Voglio dire, dai... avete bisogno di telecamere, pellicola, proiettori... dove potreste mai trovare tutta questa roba?}
 {657}{}{No grazie. Devo andare.}
 {658}{}{Volevo solo controllare. Mi sono sentito un po' svuotato, ultimamente.}
 {670}{}{Siamo fortunati... NON abbiamo BISOGNO di quelle stronzate risalenti all'eta' della pietra. Siamo entrati in possesso un proiettore pornogra... ehm... OLOgrafico FUNZIONANTE.}

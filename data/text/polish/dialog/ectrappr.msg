@@ -10,8 +10,8 @@
 {109}{}{Nieważne.}
 {110}{}{Ug.}
 {111}{}{Oto co mam: }
-{112}{}{x skóra zwykłego gekona.}
-{113}{}{x skóra złocistego gekona.}
+{112}{}{regular gecko pelts.}
+{113}{}{golden gecko pelts.}
 {114}{}{Wezmę wszystko.}
 {115}{}{Może innym razem. Pa.}
 {116}{}{Miło robić z tobą interesów. Trzymaj się.}

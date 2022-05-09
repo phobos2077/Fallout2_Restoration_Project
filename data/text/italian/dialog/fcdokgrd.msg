@@ -12,7 +12,7 @@
 {210}{}{Everything. Don't try anything funny.}
 {211}{}{Can't you be any more specific?}
 {220}{}{No. Now back away, outsider.}
-{221}{}{Alright. Bye.}
+{221}{}{Okay. Ci vediamo.}
 {222}{}{Nobody tells me what to do. You're fucking dead!}
 {230}{}{And I need you to fuck right off. You're not permitted to use the motorboat, hell, you're a lao wai, not a Shi.}
 {231}{}{Listen, I'm in a desperate situation. If you don't let me use that motorboat, then my entire tribe could die.

@@ -78,9 +78,9 @@
 {354}{}{Scusami. Stavo solo cercando di impressionarti.}
 {360}{}{Smamma, prima che cambi idea.}
 {361}{}{Okay.}
-{370}{}{What? Oh, you must be looking for Mom's. You're one building off. She's in the building directly south. S-o-u-t-h. That way. [Aidan points out the door.]}
+{370}{}{Cosa? Oh, probabilmene stai cercando il locale di Mama. Hai sbagliato palazzo. Il locale si trova nell'edificio subito a sud di qui. S-U-D. Di la'. [Aidan indica un punto fuori dalla porta.]}
 {371}{}{Eh? Uh... Oh.}
-{380}{}{Ya look like ya might fit in, but Metzger's never hired a woman. Not sure why, but I doubt he's gonna start now.}
+{380}{}{Sembreresti avere le carte in regola per unirti a noi, ma Metzger non ha mai assunto donne. Non so perche', ma dubito che iniziera' a farlo con te.}
 {381}{}{Non sembri essere il tipo adatto. Diavolo, Metzger non ha mai assunto donne, prima d'ora. Non so perche', ma dubito che iniziera' a farlo con te.}
 {382}{}{Ti ho detto di parlare con Metzger.}
 {383}{}{Chi e' Metzger?}

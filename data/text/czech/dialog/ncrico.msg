@@ -9,7 +9,7 @@
 {179}{}{Klurgggg}
 {180}{}{Oog}
 {200}{}{Já kamarád Monte. TY kamarád Monte?}
-{201}{}{Já mlátit lidi. Monte øíkat kdo.}
+{201}{}{Me hit people Monte tell me to.}
 {202}{}{Já mlátit lidi.}
 {203}{}{Já mlátit lidi ruky jako hrát na buben.}
 {204}{}{Já rád mlátit.}

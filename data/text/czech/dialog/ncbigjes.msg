@@ -185,7 +185,7 @@
 {660}{}{Louis Salvatore je stále naživu, tak proè jsi tady?}
 {661}{}{(Kapka potu steèe Mordinovi dolù po tváøi.) Splnil jsi ten úkol, který jsem ti zadal? Je Louis Salvatore mrtvý?}
 {662}{}{Je mrtvý. Tvá rodina byla pomstìna, seòore Mordino.}
-{663}{}{Vrátím se, až ho zabiju.}
+{663}{}{No, I shall return when I have killed him.}
 {664}{}{Salvatore je velmi dobøe hlídán. O tuhle práci už nemám zájem.}
 {670}{}{Jestli... uteèeš od tohohle úkolu, tak tì nechám... ZABÍT.}
 {671}{}{No, když to øeknete takhle, tak to se radìji vrátím, až bude mrtvý.}

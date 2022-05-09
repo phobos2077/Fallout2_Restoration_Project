@@ -10,7 +10,7 @@
 {229}{}{Túl jók vagyunk.}
 {230}{}{Kibaszottul szétrúgtunk pár segget! Igen!!}
 {250}{}{Tylerrel kell beszélnie, nem velem, hölgyem.}
-{251}{}{What's up. You need something; you gotta talk to Tyler here.}
+{251}{}{Mi a pálya? Ha kell valami, akkor Tylerrel kell beszélned.}
 {252}{}{Mit nézel?}
 {253}{}{Tylerrel kell beszélnie, nem velem, uram.}
 {255}{}{Ma este szétrúgunk pár segget!}

@@ -14,7 +14,7 @@
 {113}{}{Non riconosci il Prescelto?}
 {114}{}{No.}
 {115}{}{Cosa ti interessa?}
-{116}{}{The reason I ask, you see, is because my wife is missing. I don't know where she is. She's been gone for days. I've asked around town, and no one has seen her. Can you find her for me?}
+{116}{}{La ragione per la quale te lo chiedo, vedi, e' che mia moglie e' scomparsa. E non so dove possa essere. Non la vedo da giorni. Ho chiesto notizie qui in giro, ma nessuno l'ha vista. Potresti cercarla per me?}
 {117}{}{Io cosa ne ricavo?}
 {118}{}{Daro' un'occhiata in giro. Che aspetto ha?}
 {119}{}{No. Sono occupato.}

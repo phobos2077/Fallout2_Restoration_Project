@@ -19,7 +19,7 @@
 {118}{}{Vorrei fissare un appuntamento con il vecchio Carlson. Conosci qualcuno che potrebbe aiutarmi?}
 {119}{}{Hai un GECK?}
 {120}{}{That's nice, stranger, but I ain't no charity.}
-{121}{}{Maybe. Just might have a Triveld x10 rifle scope - would fit just fine on a hunting rifle, if somebody was interested. Let it go cheap -- $500.}
+{121}{}{Forse. Avrei qui un mirino telescopico Triveld x10 - sta benissimo su un fucile da caccia, se sei interessato. Ti faccio un prezzo basso -- 500$.}
 {122}{}{Ehi, mi hai gia' ripulito abbastanza.}
 {123}{}{Sure, it's a deal.}
 {124}{}{No, grazie.}
@@ -29,7 +29,7 @@
 {128}{}{Io non dico nulla di Mr. Merk e spettegolare sul suo conto di certo non paga. Se hai delle domande, chiedi di lui al Rawhide.}
 {129}{}{Capisco.}
 {130}{}{Arrivederci.}
-{131}{}{Roger Westin? You mean that Congress guy? Got himself a spread out west of town. Brahmin man - big wheel in the Stockman's Association. He's always looking for hands, if you're wanting work.}
+{131}{}{Roger Westin? Intendi dire il tipo del Congresso? Ha una tenuta a ovest della citta'. Un brahminaro - un capoccia dell'Associazione Allevatori. E' sempre in cerca di braccianti, se hai bisogno di lavoro.}
 {132}{}{Capisco.}
 {133}{}{Arrivederci.}
 {134}{}{E' buffo che tu mi chieda una cosa del genere dopo quello che e' successo a Roger Westin. Io non ti ho detto nulla, ma giu' al Rawhide c'e' questo tipo, Merk, che forse potrebbe aiutarti.}

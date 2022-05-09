@@ -92,7 +92,7 @@
 {191}{}{Er: Du hast eine lebenswichtige Entscheidung getroffen. Sie: Und leider war es die falsche. Beide: Wache! Wache!}
 {192}{}{Verdammt.}
 {193}{}{Er: Ich grüße dich,}
-{194}{}{Und was mach ich jetzt, da ich Hubologe bin?}
+{194}{}{So what do I do now that I'm a Hubologist?}
 {195}{}{Wie kann ich mich mit euch zusammentun?}
 {196}{}{Das war's eigentlich, was ich wollte. Bis dann!}
 {197}{}{}

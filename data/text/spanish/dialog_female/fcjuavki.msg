@@ -92,7 +92,7 @@
 {191}{}{Él: Has tomado una decisión de las que cambian toda una vida. Ella: Y por desgracia, ha sido una equivocada. Ambos: ¡Guardias! ¡Guardias!}
 {192}{}{Maldición.}
 {193}{}{Él: Saludos, }
-{194}{}{Entonces, ¿qué voy a hacer ahora que soy una Hubologista?}
+{194}{}{So what do I do now that I'm a Hubologist?}
 {195}{}{¿Cómo puedo acostarme con vosotros?}
 {196}{}{Eso es todo lo que quería. Hasta luego!}
 {197}{}{}

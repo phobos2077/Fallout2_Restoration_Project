@@ -110,7 +110,7 @@
 {209}{}{Ma mi sono reso conto dei miei errori!}
 {210}{}{Adesso basta. E' ora di aprirti in due e vedere di cosa sei fatto...}
 {211}{}{D'accordo.}
-{212}{}{I have nothing to say to one of such foul disposition. Leave.}
+{212}{}{Non ho nulla da dire ad una persona che si macchia di azioni ripugnanti. Vattene.}
 {213}{}{Vuoi un'azione ripugnante? Te lo FACCIO VEDERE io cos'e', un'azione ripugnante...}
 {214}{}{Ho capito che la strada che avevo intrapreso era sbagliata. Sono venuto per pentirmi e per ascoltare il verbo!}
 {215}{}{Il mio cuore era lacerato al pensiero dell'inumanita' dell'uomo nei confronti dell'uomo!}

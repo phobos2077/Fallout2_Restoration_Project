@@ -29,7 +29,7 @@
 {128}{}{Sai qualcosa di un gruppo chiamato Enclave?}
 {129}{}{Sto cercando lavoro. Sai chi potrebbe darmene uno?}
 {130}{}{Come non detto. Non voglio farti perdere tempo.}
-{131}{}{Those bastards killed my brother and then said it was for the good of the people! I want them dead. If you can help, talk to Vortis.}
+{131}{}{Quei bastardi hanno ucciso mio fratello e poi hanno detto che l'han fatto per il bene della comunita'! Li voglio vedere morti. Se vuoi aiutare, parla con Vortis.}
 {132}{}{Mi sembra una buona idea.}
 {133}{}{Vortis, eh? Sei una vera fonte di saggezza. Cos'altro sai?}
 {134}{}{Giusto. Penso che lo faro' subito.}

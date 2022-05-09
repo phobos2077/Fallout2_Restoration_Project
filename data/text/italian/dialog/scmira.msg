@@ -96,7 +96,7 @@
 {195}{}{Me va ora.}
 {196}{}{Grazie - credo. Ascolta, hai tempo per una domanda?}
 {197}{}{Grazie. Volevo solo che tu lo sapessi.}
-{198}{}{You did what? Oh, if I wasn't on duty, I'd climb over this bar and... well, kiss you. The little prick deserved it. In fact, don't tell anyone but I was hoping to get some stupid ox to do the job for me. Had a little reward all set aside. It's yours now - as far as I'm concerned you earned it.}
+{198}{}{Che cosa hai fatto? Oh, se non fossi in servizio, scavalcherei questo bancone e... beh, ti darei un bacio. Quello stronzo se lo meritava. Infatti non dirlo a nessuno, ma speravo proprio di trovare uno stupido scimmione che facesse questo lavoro per me. Avevo persino preparato una piccola ricompensa. Adesso e' tua, te la sei meritata.}
 {199}{}{Grazie - credo. Ascolta, hai tempo per una domanda?}
 {200}{}{Grazie. Volevo solo che tu lo sapessi.}
 {201}{}{Dumbo, mi hai reso la donna piu' felice della zona! Ho un piccolo regalo per te, dietro al bancone. E' tutto tuo.}

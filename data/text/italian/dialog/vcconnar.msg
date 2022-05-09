@@ -22,7 +22,7 @@
 {121}{}{Certo, beh, comunque non tratto con la spazzatura come te.}
 {122}{}{Beh, noi non possiamo permettere che tu lo faccia.}
 {123}{}{Bisogna fare quello che bisogna fare.}
-{124}{}{You believed them at face value? You've a lot to learn about the world, friend.}
+{124}{}{E hai creduto a loro sulla parola? Hai un sacco di cose da imparare dal mondo, amico.}
 {125}{}{C'e' niente che possa fare per aiutarvi?}
 {126}{}{I tipi di Vault City non sono certo i piu' coraggiosi del mondo. Basta un po' di casino e scappano come conigli. Se avessimo un po' di armi, credo che potremmo tenerli a distanza.}
 {127}{}{I might be able to help you out, but guns aren't cheap. What sort of guns you looking for?}
@@ -86,7 +86,7 @@
 {201}{}{As it turns out, I'm already carrying all those guns. I suppose I could spare a few, but are you sure this is the best way to go about this?}
 {202}{}{I've got the guns you need, but honestly, I think there could be a better way to do this. There's a reasonable man on the council in Vault City, Senior Council Member McClure. I'm sure I could get him to convince the council to come to a peaceful solution.}
 {203}{}{Honestly, I think there could be a better way to do this. There's a reasonable man on the council in Vault City, Senior Council Member McClure. I'm sure I could get him to convince the council to come to a peaceful solution.}
-{205}{}{Ha! You really think any of those big shot council members give a damn about what happens to us? Don't be so naïve my friend, those bastards in Vault City can't be trusted. Now please, go find Joe in the Vault City courtyard. If he's not in the bar, then he's probably not far from it. Old Joe will know what to do. You can trust him. Please hurry.}
+{205}{}{Ha! You really think any of those big shot council members give a damn about what happens to us? Don't be so naive my friend, those bastards in Vault City can't be trusted. Now please, go find Joe in the Vault City courtyard. If he's not in the bar, then he's probably not far from it. Old Joe will know what to do. You can trust him. Please hurry.}
 {206}{}{Ok. I'll report back when I have some news.}
 {210}{}{Trust me, we've considered the alternative, but the only thing these Vault City bastards will respond to is violence. Now, will you give us the weapons? I'll pay $5,000 for em. No price can be set on freedom.}
 {211}{}{You do?! Excellent. Here, I'll give you $5,000 for those weapons. It's all the money we have, but there's no price too high for freedom. You've done us a great service, and shall always be welcome here.}
@@ -114,7 +114,7 @@
 {500}{}{Non scocciarmi.}
 {600}{}{What was the name of your contact in Vault City again?}
 {601}{}{Old Joe. As the name implies, he's a real old fella. You'll either find him in the courtyard bar or wandering nearby.}
-{602}{}{Alright, thanks.}
+{602}{}{Okay, grazie.}
 {603}{}{So, who exactly is he?}
 {604}{}{Old Joe's a real character, is who he is. Claims to be over a hundred years old, but I dunno if I buy it. He claims all sorts of things. Even says he helped save the world once. The guy's full of stories--I reckon most of em are bullshit, but they sure are entertaining. He keeps an eye on things in Vault City for us, and he does a damn fine job considering he's old as dirt and nearly blind.}
 {605}{}{Interesting. I must be going.}

@@ -1,4 +1,4 @@
-{100}{}{You see a short man with Jet-black hair and a nice smile.}
+{100}{}{Vedi un uomo basso con i capelli neri e un sorriso gentile.}
 {101}{}{Vedi Ascorti, il Sindaco di Redding.}
 {102}{}{Vedi un uomo ben vestito, ma dall'aspetto viscido.}
 {103}{}{Non stare li' impalato, amico.}

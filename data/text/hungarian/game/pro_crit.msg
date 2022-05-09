@@ -499,7 +499,7 @@
 {48100}{}{Speciális gekkó lény}
 {48200}{}{A Nagy Kaszás}
 {48300}{}{Frank Horrigan}
-{48301}{}{The President's Body Guard.}
+{48301}{}{The President's Bodyguard.}
 {48400}{}{Nessa}
 {48401}{}{The ghost of dead Nessa.}
 {48500}{}{Sámán}

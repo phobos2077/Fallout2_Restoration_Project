@@ -9,7 +9,7 @@
 {179}{}{Klurgggg}
 {180}{}{Oog}
 {200}{}{Yo amigo de Monte. ¿TÚ amigo de Monte?}
-{201}{}{Me golpeó a la gente. Monte me dice.}
+{201}{}{Me hit people Monte tell me to.}
 {202}{}{Me golpeó a la gente.}
 {203}{}{Me pegó con los puños como tocar el tambor.}
 {204}{}{Me gusta golpear.}

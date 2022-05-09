@@ -1,4 +1,4 @@
-{100}{}{You see a druggie.}
+{100}{}{You see a drug addict.}
 {110}{}{Egy Jet-kurva.}
 {111}{}{Tubby egyik Jet-kurvája.}
 {150}{}{Tubby egyik barátjának látszik. }

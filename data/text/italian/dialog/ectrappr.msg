@@ -10,8 +10,8 @@
 {109}{}{Nulla.}
 {110}{}{Ug.}
 {111}{}{Here's what I got: }
-{112}{}{ regular gecko pelts.}
-{113}{}{ golden gecko pelts.}
+{112}{}{pelli di gecko comune.}
+{113}{}{pelli di gecko dorato.}
 {114}{}{Prendo tutto quello che hai.}
 {115}{}{Magari la prossima volta. Ci vediamo.}
 {116}{}{E' bello fare affari con te. Ci si vede.}

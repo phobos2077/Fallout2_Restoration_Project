@@ -24,7 +24,7 @@
 {123}{}{L'hai riparata? Senza pezzi di ricambio? E' incredibile! Dove hai imparato a farlo?}
 {124}{}{Huh-huh!}
 {125}{}{Semplice abilita' manuale, ecco tutto.}
-{126}{}{I get it. You're one of those moron types - what do they call them? Idiot savants. Well look, idiot or not, you've earned a reward. RE-WARD - you. I give you pretty books. You see. Get money. Good... Not like you can read, after all.}
+{126}{}{Ho capito. Tu sei uno di quei tipi un po' stupidi - come si chiamano...? Idioti sapienti. Beh, senti, idiota o no, ti meriti una ricompensa. RI-COM-PEN-SA - tu. Ti do dei bei libri. Vedi? Prendi soldi. Bene... immagino tu non sappia leggere.}
 {127}{}{Guarda, non e' molto, ma ho qualche libro - vecchi manuali tecnici. Sono tuoi. Prendili.}
 {128}{}{Ehi, guarda, Toto. E' lo straniero che ci ha aiutati. Grazie ancora, mister.}
 {129}{}{Merda! La griglia e' completamente andata. Ci vorra' un sacco di tempo per ripararla. Non perdiamoci in chiacchiere. Vieni, Toto.}

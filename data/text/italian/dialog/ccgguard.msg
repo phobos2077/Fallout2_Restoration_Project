@@ -20,7 +20,7 @@
 {119}{}{Fottere. Me uccide.}
 {120}{}{Mi spiace, ho perso il mio pass e non so nulla a proposito di una parola d'ordine.}
 {121}{}{Affanculo te e tutti quelli che ti assomigliano!}
-{122}{gate5}{I suggest you leave this installation immediately and do not return here without proper authorization. Do I make myself clear?}
+{122}{gate5}{Ti suggerisco di allontanarti immediatamente da questa installazione e di non ritornarci senza autorizzazione. Sono stato chiaro?}
 {123}{}{Si'.}
 {124}{gate6a}{Capisco. Posso avere la parola d'ordine?}
 {125}{gate6b}{Capisco. (mette una mano sull'arma) Tutte le nuove reclute devono presentarsi qui da sole. Ti suggerisco di allontanarti immediatamente da questa installazione e di non tornarci col tuo seguito. Sono stato chiaro?}

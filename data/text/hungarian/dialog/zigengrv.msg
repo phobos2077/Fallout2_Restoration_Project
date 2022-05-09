@@ -95,8 +95,8 @@
 {376}{}{"Eileen Suh: Went to W&M Law School, Now it's Eileen Sue."}
 {377}{}{"Sarah Smart: Szónok, Író, Professzor, De Amicitia."}
 {378}{}{"Tim Winkle - I abide no hypocrisy but my own."}
-{379}{}{"Jughead - King of Queen Archie's World".}
-{380}{}{"R.I.P Casey Donahue, meghalt 1998 június 8-án. Gyilkosa egy feldühödött mutáns tengeri sügér volt."}
+{379}{}{"Jughead - King of Queen Archie's World."}
+{380}{}{"R.I.P Casey Donahue. Died 8/6/98. Killed by Mutated Ill-Tempered Sea Bass."}
 {381}{}{"Christopher 'Nightwing' Jones: administrator of the mushroom bruise."}
 {382}{}{"Jay "Krumplilábú" Nielson. Zenész. 104 éves korában egy dobszóló közben távozott közülünk." }
 {383}{}{"Nitsa - Charles őmiatta nem jutott jéghokihoz."}

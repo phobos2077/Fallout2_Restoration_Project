@@ -3,8 +3,7 @@
 {102}{}{Ha un qualche tipo di simbolo sul petto che e' diverso da tutti quelli che hai visto da queste parti. }
 {103}{}{<Skzzzt-spork> -l'armeria!}
 {104}{}{Cosa dia- <zzzzaaark!>>}
-{105}{}{(So, Sarge sent you. Something about needing power armor. Well, all I got is one in for
- maintenance. Might have a few problems still, so take it easy. Just sign here.)}
+{105}{}{(Allora... il 'Sergio' ti ha mandato qui. Mi pare abbia detto che hai bisogno di una Power-Armor. L'unica disponibile ha bisogno di essere riparata. Potrebbe darti qualche problema, per cui sta' attento. Metti una firma qui.)}
 {106}{}{Uh... Puoi ripetere?}
 {107}{}{Dev'esserci qualcosa che non va nella tua armatura.}
 {108}{}{Certo, lo faro'.}

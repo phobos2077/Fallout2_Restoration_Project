@@ -19,12 +19,12 @@
 {118}{}{No. Ho delle altre domande.}
 {119}{}{Si', certo.}
 {120}{}{Io sviluppo nuove tecnologie e in cambio becco una parte dei privilegi riservati al culto, se capisci cosa intendo.}
-{121}{}{Dunque tu non sei Hubologista?}
+{121}{}{So you're not a Hubologist?}
 {122}{}{Ho capito. Ho delle altre domande.}
 {123}{}{No. Che cosa intendi?}
 {124}{}{Quali nuove tecnologie hai sviluppato?}
 {125}{}{Forte e chiaro. Ci vediamo.}
-{126}{}{Well... I *guess* that'll have to do. It's a deal. Do you have the armor to be hardened on you?}
+{126}{}{Bene... *immagino* di essere costretto a farlo. Siamo d'accordo. Hai con te l'armatura da rinforzare?}
 {127}{}{Si'.}
 {128}{}{No.}
 {129}{}{Ottimo. Ti costera' 10.000$, sull'unghia, non trattabili. Mi servono delle apparecchiature nuove.}

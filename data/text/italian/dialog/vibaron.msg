@@ -6,7 +6,7 @@
 {203}{}{Nope. I'll be on my way now.}
 {204}{}{Robert Baron, huh? Ever think about going by Bobby Baron? That's got a nice bounce to it, don't you think?}
 {210}{}{I think your mom might've bounced you on your head a couple times. Now, do you want to trade, or not? I'm a busy man.}
-{220}{}{Alright. Anything else?}
+{220}{}{D'accordo. C'e' qualcos'altro?}
 {221}{}{Yes actually, I wanted to speak with you on behalf of a nearby village.}
 {222}{}{Nope. I'll be on my way now.}
 {230}{}{[He furrows his brow.] Village? Not sure what your--oh! Are you talking about that rat infested little shit-hole down the way?}

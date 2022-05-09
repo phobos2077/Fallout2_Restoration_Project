@@ -84,10 +84,7 @@
 {183}{}{Beh, spero che il tuo naso non sia troppo sensibile, allora. Quei minatori non amano molto l'acqua e il sapone.}
 {184}{}{Davvero? Forse la cosa non fa per me, allora. Grazie dell'offerta, pero'. Ci vediamo.}
 {185}{}{Non so come tu faccia a resistere, ma dubito che io potrei farcela. A non svenire, intendo. Addio.}
-{186}{}{[Fannie looks like a great weight has been lifted from her shoulders] Hey, it's you! Lou told
- me what you did. That stuff she slipped me sure made me sick, but I haven't felt a need fer Jet since
- then. (She kisses you on the cheek) I don't know how I can ever thank you... well, I do know *one* way.
- Whenever you're in the mood, just come on by; free of charge. (wink)}
+{186}{}{[Fannie sembra essersi tolta un gran peso dalle spalle] Ehi, sei tu! Lou mi ha raccontato quello che hai fatto. Quella roba che mi ha fatto bere mi ha fatto star male un casino, ma da quel giorno non ho piu' sentito il bisogno di farmi di Jet. (Ti bacia sulla guancia) Non so proprio come potrei ringraziarti... beh, un modo lo conoscerei... Quando ti vien voglia, passa pure a trovarmi. Offre la casa. (ti fa l'occhiolino)}
 {187}{}{Lo terro' a mente. Grazie, Fannie.}
 {188}{}{Grazie. (Ti bacia) Ricorda, per te offre sempre la casa. (ti fa l'occhiolino)}
 {189}{}{Ehila'! Vuoi passare un po' di tempo con Fannie? Offre la casa, naturalmente. (sorride maliziosa)}

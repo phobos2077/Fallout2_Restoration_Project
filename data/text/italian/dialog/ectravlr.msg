@@ -14,8 +14,7 @@
 {113}{}{Una miniera abbandonata.}
 {114}{}{An old, abandoned facility.}
 {115}{}{No, li' ci sono gia' stato. Grazie lo stesso.}
-{116}{}{New Reno -- now that's a great place to go. Sex, drugs and gambling. What more can one ask for?
- Here, let me show you where it is.}
+{116}{}{New Reno -- un gran bel posto dove andare. Sesso, droghe e gioco d'azzardo. Cosa si puo' chiedere di piu'? Ecco, lascia che ti mostri dove si trova.}
 {117}{}{Grazie. Ciao.}
 {118}{}{Vault City -- una citta' di idioti. Fatti crescere un dito in piu' e ti tratteranno come un mostro. Non ci sono mai andato, ma so dov'e'.}
 {119}{}{Grazie. Ciao.}

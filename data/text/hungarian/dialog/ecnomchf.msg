@@ -1,4 +1,4 @@
-{100}{}{You see a nomad chieftain.}
+{100}{}{You see a nomad.}
 {101}{}{He appears to be a nomad chieftain.}
 {102}{}{A ruhája és a viselkedése alapján valamiféle vezető lehet.}
 {103}{}{Ah, egy utazó. Légy üdvözölve szerény sátramban. Légy vendégem egy kis árnyékra a pusztaság szüntelen forróságában.}

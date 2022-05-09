@@ -14,7 +14,7 @@
 {116}{}{Oh-tay!}
 {117}{}{Portala di sotto. Mostrala ad AHS-7, che adesso e' a guardia dell'ingresso. Potra' prendere la lettera o condurti da AHS-9. Adesso posso tornare ad occuparmi del mio lavoro, Carne?}
 {118}{}{Bene.}
-{119}{}{You're not one of the brethren, and you're therefore not authorized to be here. Unless you're planning on joining us - which you may do by expressing your interest to AHS-7, who is at the guard post. Now, either get downstairs or get out of here.}
+{119}{}{Tu non sei uno dei nostri fratelli, e quindi non sei autorizzato a stare qui. A meno che tu non desideri unirti a noi - cosa che potresti fare esprimendo tale volonta' ad AHS-7, che sta di guardia all'ingresso. Adesso puoi scegliere: o vai al piano di sotto o te ne vai da qui.}
 {120}{}{D'accordo, d'accordo. Non c'e' bisogno di essere scortesi.}
 {121}{}{In realta', questi SONO affari miei. Questa e' la MIA nave e queste sono le MIE guardie - ora: chi sei e cosa ci fai qui?}
 {122}{}{Io sono }
@@ -58,7 +58,7 @@
 {191}{}{Ci vediamo, allora!}
 {192}{}{Per prima cosa, abbiamo bisogno degli schemi tecnici di un vertibird per assicurarci che l'aerodinamica sia corretta. Se te la senti di farlo, prova dagli Shi o nella base di Navarro.}
 {193}{}{Ricorda che stai cercando gli schemi tecnici del vertibird per noi. Puoi provare a cercarli dagli Shi o nella base di Navarro.}
-{194}{}{No one has been able to get plans for the vertibirds from the Shi, or from that old base in Navarro. Have you reconsidered helping us?}
+{194}{}{Nessuno e' riuscito a prelevare gli schemi tecnici dei vertibird dagli Shi o dalla base di Navarro. Ci hai ripensato?}
 {195}{}{Ricorda, recluta! Gli schemi tecnici sono nelle mani degli odiati Shi.}
 {196}{}{Ho gli schemi tecnici del vertibird.}
 {197}{}{Scordatelo.}

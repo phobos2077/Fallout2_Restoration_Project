@@ -75,9 +75,7 @@
 {323}{}{Posso farti un'altra domanda?}
 {324}{}{Addio.}
 {330}{}{Beh, dal momento che sei un cosi' buon cliente, ti faro' parte di un piccolo segreto. E' molto semplice, davvero - ho un distillatore. Un amico di una citta' qui vicino mi ha insegnato come costruirne uno. Allora, che ne dici di un altro goccetto?}
-{331}{}{Sorry, it's a trade secret. Plus, I don't really know you that well. I wouldn't
- want Frankie finding out. He's enough trouble as it is. Did you still want one? They
- really hit the spot.}
+{331}{}{Mi spiace, e' un segreto. In piu', non ti conosco poi cosi' bene. Non vorrei che Frankie lo scoprisse. Mi da' gia' abbastanza problemi anche adesso. Vuoi un altro bicchiere? Il mio whiskey e' proprio buono, vero?}
 {332}{}{Certo. Ne prendo un altro bicchiere.}
 {333}{}{Posso farti un'altra domanda?}
 {334}{}{Okay, grazie.}

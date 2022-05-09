@@ -10,7 +10,7 @@
 {109}{}{Hai delle informazioni per me sulla mia gente?}
 {110}{}{Oooh, le mie budella. Sto male. Sei pregato di lasciarmi in pace.}
 {111}{}{Ochei.}
-{112}{}{What's the matter with me? I'll tell you: It's that I got drunk last week, started gambling with Lao Chou, and lost. I was so blind drunk that I bet my spleen. Now he has it, and I need it back.}
+{112}{}{Cosa c'e' che non va? Te lo dico subito: c'e' che la settimana scorsa mi sono ubriacato, ho cominciato a giocare a carte con Lao Chou e ho perso. Ero cosi' sbronzo che ho scommesso la mia milza. Adesso ce l'ha lui, e io la rivorrei.}
 {113}{}{Hai VENDUTO la tua milza?}
 {114}{}{Ma che disdetta.}
 {115}{}{Devi essere proprio un imbecille.}
@@ -47,7 +47,7 @@
 {146}{}{No.}
 {147}{}{Apprezzo molto quello che stai facendo per me. Non lo dimentichero'.}
 {148}{}{Nessun problema.}
-{149}{}{Dude, I can't really get places without a lot of effort. If you can't help me, I'm screwed.}
+{149}{}{Ragazzo, andare in giro sarebbe uno sforzo troppo grande per me. Se non puoi aiutarmi tu, sono fottuto.}
 {150}{}{Bene. Andro' a parlare con Fung.}
 {151}{}{Bene. Tanto non me ne frega un cazzo di te.}
 {152}{}{Se tu potessi fare qualcosa... non so... ucciderlo, o convincerlo in qualche modo... senza milza moriro'.}

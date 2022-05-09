@@ -1,7 +1,6 @@
 {100}{}{Vedi un vecchio malinconico.}
 {101}{}{Vedi Dave, il "Sig. Depressione".}
-{102}{}{You see a grumpy, older man in his early sixties. He has a weathered face and looks as if he
- has had his fair share of abuse.}
+{102}{}{Vedi un uomo vecchio e burbero alle soglie dei sessant'anni. Ha una faccia consumata e sembra aver subito dei maltrattamenti.}
 {103}{}{Oh. Non avevo visto che eri li'.}
 {104}{}{Come no vedere? Me grande.}
 {105}{}{Sembrare triste. Perche'?}
@@ -15,10 +14,7 @@
 {113}{}{Ad esempio?}
 {114}{}{Bell'atteggiamento mentale. Cosa l'ha provocato?}
 {115}{}{Devo dire che preferirei essere da qualche altra parte.}
-{116}{}{I was born two months premature. When I was one, I was dropped on the porch. When I was two, I
- had pneumonia. When I was three, I got the chicken pox. When I was four, I fell down the stairs and broke
- six ribs. When I was five, my uncle was decapitated by a watermelon. When I was six, my parents hit me
- in the head with a shovel. When I was seven, I lost my right index finger to my pet rat.}
+{116}{}{Sono nato prematuro di due mesi. All'eta' di un anno, sono caduto dal balcone. All'eta' di due anni, ho avuto la polmonite. A tre anni, ho avuto la varicella. A quattro, sono caduto dalle scale e mi sono rotto sei costole. Quando avevo cinque anni, mio zio e' stato decapitato da un'anguria. Quando avevo sei anni, i miei genitori mi hanno dato un colpo in testa con un badile. All'eta' di sette anni, ho perso il mio dito indice destro a causa del mio ratto domestico.}
 {117}{}{Uh, me sentito qualcuno chiamare. Ciao!}
 {118}{}{Me spiacere cose brutte.}
 {119}{}{Passato brutto, no parlare. Cose bene ora?}
@@ -36,7 +32,7 @@
 {131}{}{Tu no parlare piu'. Me va.}
 {132}{}{Non voglio sentire una parola di piu'. Devo uscire di qui e andarmene il piu' lontano possibile da te. Addio.}
 {133}{}{Ti prego, dimmi che non hai dei figli.}
-{134}{}{Nope. When I turned twenty-two this strange fungus started to grow on my test...}
+{134}{}{No. Quando ho passato i ventidue anni, questo strano fungo ha cominciato a crescere sui miei test...}
 {135}{}{Arrg! Tu parlare no piu'! Me va!}
 {136}{}{Stop! Non voglio saperlo!}
 {137}{}{Oh. Ciao. Cosa posso fare per te?}

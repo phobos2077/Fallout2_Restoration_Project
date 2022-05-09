@@ -10,7 +10,7 @@
 {229}{}{Somos demasiado buenos.}
 {230}{}{¡Les hemos dado una buena! ¡Sí, joder!}
 {250}{}{Es con Tyler con quien tienes que hablar, no conmigo, nena.}
-{251}{}{Qué tal. Si necesitas algo, habla con Tyler.}
+{251}{}{What's up. You need something, you gotta talk to Tyler here.}
 {252}{}{¿Qué estás mirando?}
 {253}{}{Es con Tyler con quien tienes que hablar, no conmigo, amigo.}
 {255}{}{¡Vamos a darles una buena esta noche!}

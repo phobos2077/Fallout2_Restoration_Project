@@ -3635,7 +3635,7 @@
 {70363}{}{Hell, I almost feel sorry for you. Almost.}
 {70400}{}{Ah! My head!}
 {70401}{}{I think my ear's bleeding.}
-{70402}{}{C?o! I hope that didn't break my nose.}
+{70402}{}{Jaj! Remélem nem törte el az orrom.}
 {70410}{}{Jaj! A kezem!}
 {70411}{}{A fenébe, nagyon fáj!}
 {70412}{}{At least it's not broken... I don't think.}

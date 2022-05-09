@@ -95,8 +95,8 @@
 {376}{}{"Eileen Suh: Went to W&M Law School, Now it's Eileen Sue."}
 {377}{}{"Sarah Smart: Orator, Author, Professor, De Amicitia."}
 {378}{}{"Tim Winkle - I abide no hypocrisy but my own."}
-{379}{}{"Jughead - King of Queen Archie's World".}
-{380}{}{"R.I.P Casey Donahue Died 8/6/98 Killed by Mutated Ill-Tempered Sea Bass."}
+{379}{}{"Jughead - King of Queen Archie's World."}
+{380}{}{"R.I.P Casey Donahue. Died 8/6/98. Killed by Mutated Ill-Tempered Sea Bass."}
 {381}{}{"Christopher 'Nightwing' Jones: administrator of the mushroom bruise."}
 {382}{}{"Jay "Potato Feet" Nielson. Musician. Passed on at the age of 104, during a drum solo."}
 {383}{}{"Nitsa - The reason Charles didn't quite get hockey."}

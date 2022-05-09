@@ -34,7 +34,7 @@
 {181}{}{Úžasné.}
 {182}{}{No, nebudu tì zdržovat. Sbohem.}
 {190}{}{Samozøejmì by nebylo špatné, kdyby mi nìkdo pomohl, ale jak vidíš, nikdo jiný na tuhle práci nemá kvalifikaci. Vìtšinou nerozumí ani základùm.}
-{191}{}{Jak si nìkdo mùže myslet, že s tebou dokáže udržet krok?}
+{191}{}{How could anyone hope to keep up with you? You're above everyone.}
 {192}{}{Jsi opravdu speciální, o tom není pochyb. Sbohem.}
 {200}{}{Taky že nedokáže. Vidím, že tìmto vìcem opravdu rozumíš. Kdybych tady nemìl tolik práce, øídil bych celé Gecko. A vìø tomu, že bych to dìlal dobøe.}
 {201}{}{Ty bys chtìl ještì øídit mìsto?}
@@ -75,7 +75,7 @@
 {340}{}{Máš u sebe hydroelektrický regulátor magnetosféry?}
 {341}{}{Ty opravdu víš, co to je?}
 {342}{}{Samozøejmì. Jsi pøipraven ho nainstalovat?}
-{350}{}{Nepøekvapil jsem tì? Nikdy nezpochybòuj mé znalosti o jaderných elektrárnách. Vím o nich naprosto všechno.}
+{350}{}{Surprised? I told you that I know all about atomic power plants. You shoulda listened to me.}
 {351}{}{No, když víš, co to je, tak také urèitì víš, jak ho nainstalovat.}
 {352}{}{Myslím, že už tì nebudu poslouchat. Sbohem.}
 {360}{}{Samozøejmì, že vím. Pro nìkoho s mými zkušenostmi a talentem je to naprostá hraèka. Na regulátorech magnetosféry jsem byl odkojený, víš.}

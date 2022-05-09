@@ -75,7 +75,7 @@
 {174}{}{Yes!!}
 {175}{}{It's done. Just remember though, there's more to life than gaining enough experience points to reach the next level. There's a whole "real" world out there.
  Now that we have that out of the way, shall we try again?}
-{176}{}{Transcendency? Honestly, how do they expect me to spread the word out here when they don't even keep me up-to-date on the latest doctrine!?}
+{176}{}{Trascendenza? Per l'Hub! Come pensano che io possa diffondere il verbo quaggiu' se neanche mi danno un aggiornamento sulle nuove dottrine!?}
 {177}{}{(Continua)}
 {178}{}{Ti sei addormentato durante l'Indottrinamento? Hmmph - tu non sei uno degli Illuminati!}
 {179}{}{Quindi tu stai dicendo che esiste un qualche potere supremo che prima ci crea con uno scopo e che poi ci abbandona a noi stessi? Non posso credere che esista un essere cosi' insensibile. Vieni, abbraccia la fede della Chiesa dell'Hubologia. Lasciati guidare da noi per la giusta via.}

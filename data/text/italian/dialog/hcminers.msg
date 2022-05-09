@@ -10,15 +10,13 @@
 {109}{}{Chi sei?}
 {110}{}{Oh, perfetto. Un idiota. Colpito dalle radiazioni, eh, amico? Non riesco a capirti. Non posso aiutarti.}
 {111}{}{Ho detto che non ti posso aiutare! Va' a rompere le scatole a qualcun altro!}
-{112}{}{What's there to do? Well, the mine's shut down because we haven't got an air purifier that
- works. There's the saloon. There's the caravaneers, and there's the general store. That's about it.
- Wait... what were we talking about?}
+{112}{}{Cosa c'e' da fare? Beh, la miniera e' chiusa perche' non c'e' un purificatore d'aria che funzioni. C'e' il saloon. Ci sono i carovanieri e c'e' un emporio. E' tutto, piu' o meno. Aspetta... di cosa stavamo parlando?}
 {113}{}{Con chi devo parlare per saperne di piu' sulla miniera?}
 {114}{}{Dov'e' il saloon?}
 {115}{}{Dove sono i carovanieri?}
 {116}{}{Dov'e' l'emporio?}
 {117}{}{Grazie. Ciao.}
-{118}{}{Just one of the miners. Do you want someone important?}
+{118}{}{Sono solo uno dei minatori. Vuoi parlare con una persona importante?}
 {119}{}{Si'.}
 {120}{}{No.}
 {121}{}{Addio.}

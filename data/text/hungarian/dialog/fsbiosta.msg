@@ -33,9 +33,7 @@
 {132}{}{Genetikai program.}
 {133}{}{A közelmúlt személyes feljegyzései.}
 {134}{}{Vissza.}
-{135}{}{Dr. Wong: New head of Biology Project, in addition to Physics Research.
-                                                       Dr. Sheng: Biology Project Head until two months ago. One month sabbatical with new "botany sentience serum" accounted for; further absence a puzzle. Dr. Wong assumes control of Biology Program.
-                                           Dr. Long: Recently deceased via FEV serum.}
+{135}{}{Dr. Wong: A Biológia Projekt új feje, a Fizika-kutatás mellett. Dr. Sheng: Két hónappal ezelőttig ő volt a Biológia Projekt vezetője. Egy hónapos kutatóperiódus áll mögötte, mely az új "növénytanilag érzékeny szérum" kifejlesztését tűzte ki célul. Tartózkodási helye nem ismert. Dr. Wong: átvette a Biológia Program irányítását. Dr. Long: A közelmúltban hunyt el a FEV szérum hatására.}
 {136}{}{Botanika program.}
 {137}{}{Genetikai program.}
 {138}{}{Xeno program.}

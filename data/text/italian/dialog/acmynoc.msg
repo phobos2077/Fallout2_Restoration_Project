@@ -26,7 +26,7 @@
 {173}{}{La tua eccessiva sicurezza ci fa soffrire tutti! Addio!}
 {174}{}{Arrivederci.}
 {175}{}{Perche'? Guardati intorno -- il nostro villaggio muore. I campi avvizziscono e ogni giorno ci sono dei bambini e dei vecchi che muoiono. Devi portarci l'Eden prima che sia troppo tardi!}
-{176}{}{And I will take care of it. Goodbye.}
+{176}{}{Ci pensero' io. Arrivederci.}
 {177}{}{Io sono il Prescelto -- Io "devo" fare solo cio' che voglio. Addio.}
 {178}{}{Non ricordo il suo nome, so solo che era vecchio e rozzo -- troppo rozzo per avere delle buone maniere -- ma sapeva molte cose. Veniva da Klamath. Da est, come ho gia' detto.}
 {179}{}{Grazie, arrivederci.}

@@ -95,8 +95,8 @@
 {376}{}{"Eileen Suh: Fui a W&M de la Escuela de Derecho, Ahora es Eileen Demandar."}
 {377}{}{"Sarah Smart: Oradora, Autora, Profesora, De Amicitia".}
 {378}{}{"Tim Winkle - me quedaré sin hipocresía, sino la mía propia."}
-{379}{}{"Jughead - el Rey de la Reina Archie del Mundo".}
-{380}{}{"D.E.P Casey Donahue Muerto el 6/8/98  Asesinado por una lubina mutada de mal humor".}
+{379}{}{"Jughead - King of Queen Archie's World."}
+{380}{}{"R.I.P Casey Donahue. Died 8/6/98. Killed by Mutated Ill-Tempered Sea Bass."}
 {381}{}{"Christopher 'Nightwing' Jones: administrador de la seta moretón."}
 {382}{}{"Jay "Pie de Patata" Nielson.  Músico.  Falleció a los 104 años, durante un solo de tambor".}
 {383}{}{"Nitsa - La razón por la que Charles no entendió bien lo del hockey".}

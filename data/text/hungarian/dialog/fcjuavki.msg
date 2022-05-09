@@ -92,7 +92,7 @@
 {191}{}{A férfi: Maga most életre szóló döntést hozott. A nő: Sajnos, rossz döntés volt. Mindketten: Őrség! Őrség!}
 {192}{}{Fenébe!}
 {193}{}{A férfi: Üdvözöljök,}
-{194}{}{Szóval most, hogy Hubologista vagyok, mi a teendőm?}
+{194}{}{So what do I do now that I'm a Hubologist?}
 {195}{}{Hogyan tudnék magukkal összekovácsolódni?}
 {196}{}{Azt hiszem, ennél többet nem akartam. Minden jót!}
 {197}{}{}

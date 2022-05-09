@@ -191,9 +191,9 @@
  creates a good mix of women. Beyond that, there's not much to say. It's a simple village where we struggle to forge a
  simple existence.}
 {511}{}{Alright, thanks. Could I ask you something else?}
-{512}{}{Alright, thanks. Bye.}
+{512}{}{Okay, grazie. Ci vediamo.}
 {520}{}{Actually, Marli looks like he's having some trouble with the well. If you feel like helping, maybe you could go see what his problem is.}
-{521}{}{Alright, thanks. Bye.}
+{521}{}{Okay, grazie. Ci vediamo.}
 {522}{}{Alright, maybe I'll do that. But first, could I ask you something else?}
 {530}{}{Good to see you, friend. If you've got a moment, I could use your assistance again.}
 {531}{}{Good to see you again, girl. If you've got a moment, I could use your assistance.}

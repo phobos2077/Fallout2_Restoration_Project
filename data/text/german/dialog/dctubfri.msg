@@ -1,4 +1,4 @@
-{100}{}{Du siehst eine die Jet nimmt.}
+{100}{}{Du siehst einen Jetie.}
 {110}{}{Du siehst eine Jet-Prostituierte.}
 {111}{}{Du siehst eine von Tubbys Jet-Prostituierten.}
 {150}{}{Sie scheint eine Freundin von Tubby zu sein.}

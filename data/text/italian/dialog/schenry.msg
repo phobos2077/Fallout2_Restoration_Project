@@ -9,17 +9,17 @@
 {108}{}{Hai mai sentito parlare di un posto chiamato Enclave?}
 {109}{}{Non sono affari tuoi.}
 {110}{}{Hmm, sviluppo del cranio inferiore alla media... sviluppo intellettivo insufficiente. Tuttavia non ci sono evidenti mutazioni fisiche. No, temo tu non faccia al caso mio. Buona giornata.}
-{111}{}{The Chosen One? Of course, that makes sense. Interesting... I'm afraid I can't help you. I was assigned to cyber-genetics research, not the Vault Behavioral Project.}
+{111}{}{Il Prescelto? Certo, tutto questo ha un senso. Interessante... temo di non poterti aiutare. Prestavo servizio nel centro ricerche cyber-genetiche, non facevo parte del Progetto Comportamentale dei Vault.}
 {112}{}{Di cosa stai parlando?}
 {113}{}{Progetto Comportamentale dei Vault?}
 {114}{}{Cyber-genetica? Non ho mai trovato niente di simile nei libri che ho letto.}
 {115}{}{Giusto. Sei piu' matto del Cappellaio. Addio.}
 {116}{}{Oh cielo, ho gia' detto piu' di quello che avrei dovuto. Lasciamo perdere l'argomento e, se qualcuno ti chiede qualcosa, io non ti ho detto nulla.}
-{117}{}{Something about extreme sociological conditioning. Mind you, I thought it was all so much mumbo-jumbo, no real science in it at all. But I did hear something about 13 having to be improvised during the course of the experiment. Sloppy work, I'd say.}
+{117}{}{E' una cosa che riguarda il condizionamento sociologico portato agli estremi. Ho sempre pensato che si trattasse solo di una perdita di tempo, non certo di una cosa con solide basi scientifiche. Inoltre mi e' stato detto che nel corso dell'esperimento con il 13 sono stati addirittura costretti ad improvvisare. Un lavoro davvero fatto male, direi.}
 {118}{}{Esperimento? Quale esperimento?}
 {119}{}{Cosa mi sai dire della cyber-genetica?}
 {120}{}{E ti aspetti che io creda ad una sola parola che mi hai detto? Sei uno svitato.}
-{121}{}{Oh, it's a whole new field - very exciting. Why I'm working on some projects right now - a radical new concept for the mutant problem. You see, it's really quite simple - mutantcy isn't absolute. It can be cured.}
+{121}{}{Oh, e' un campo completamente inesplorato - davvero eccitante. Adesso sto lavorando ad alcuni progetti - sto studiando una soluzione radicale per il problema dei mutanti. Vedi, e' piuttosto semplice - l'esser mutanti non e' una condizione irreversibile. Si puo' curare. }
 {122}{}{Certo, i miei colleghi sempliciotti cercavano di risolvere il problema nella maniera piu' violenta possibile. Una purificazione, in parole povere. Ammetto che, all'inizio, mi sono trovato di fronte a parecchi problemi, ma adesso dovrei averli risolti... o almeno credo. }
 {123}{}{}
 {124}{}{Continua}
@@ -48,7 +48,7 @@
 {147}{}{E... ha funzionato?}
 {148}{}{L'ha ucciso! Avevi detto che li avrebbe curati!}
 {149}{}{E' morto, Jim.}
-{150}{}{You misunderstood. I said it would remove their mutagenic potential. The process does seem violent on the system, though. Oh well, more refining to do.}
+{150}{}{Hai capito male. Ho detto che avrebbe rimosso il loro potenziale mutagenico. Il processo sembra essere molto aggressivo sull'organismo... Oh beh, dovro' perfezionarlo ancora.}
 {151}{}{E la mia ricompensa?}
 {152}{}{Sei un mostro! Non voglio avere niente a che fare con te.}
 {153}{}{Vedo che ci sono ancora dei problemi. Beh, prova e riprova ancora.}

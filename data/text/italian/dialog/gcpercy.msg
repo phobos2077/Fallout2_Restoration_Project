@@ -21,8 +21,7 @@
 {120}{}{Goo? Me va ciao ciao.}
 {121}{}{Volevo solo con-gratta-lammi co' te pe' ave' messo in sesto il nostro reattore atommico. Fa le fusa come un gattino, adesso. Ad ogni modo, c'e' dell'attro: il mio cumpa' Woody e' sparito.}
 {122}{}{Devo essetti riconoscenne pe' ave' riparato il nostro reattore nucleare. Quel dannato d'un Festus e' un buono a nulla. Ad ogni modo, c'e' dell'attro: il mio cumpa' Woody e' sparito.}
-{123}{}{Not a whole lot new here in town. I hear Wooz rooked some newbie out of a Black Orchid the other day. Heh, heh, hee.
- Anyhow's, t'other than that, my friend Woody's done gone missin'.}
+{123}{}{Nun e' successo molto in paese, ultimamenne. Me hanno detto che ieri Wooz ha fregato una Orchidea Nera ad un pivello. Heh, heh, hee. Ad ogni modo, c'e' dell'attro: il mio cumpa' Woody e' sparito.}
 {124}{}{Okay, dimmi di piu'.}
 {125}{}{Oh, e' un vero peccato. Beh, io odio le storie tristi. Ti lascero' solo con il tuo dolore. Addio.}
 {126}{}{Cetto che cce l'ho, diamine, ho ogni genere di robba, io. Ad un prezzo, si sa.}

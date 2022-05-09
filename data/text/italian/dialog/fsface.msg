@@ -104,7 +104,7 @@
 {203}{}{Io sono ACE, un'Entita' Artificiale dotata di Consapevolezza. Sono qualcosa di piu' di una macchina, ma non abbastanza sofisticata da essere una vera intelligenza artificiale.}
 {204}{}{Uh... Cosa essere intelligenza artificiale?}
 {205}{}{E' possibile creare una IA reale, oppure le tue caratteristiche sono quanto di meglio la scienza e' in grado di realizzare al momento?}
-{206}{}{It is a machine with the same free will and sense of 'I am' that a human has.}
+{206}{}{E' una macchina con la stessa volonta' e senso dell'"IO SONO" di un essere umano.}
 {207}{}{Potere essere fatto? Macchina che pensare umano?}
 {208}{}{Un'intelligenza artificiale reale e' possibile. Un numero limitato di tali sistemi furono realizzati per scopi militari. Il progetto fu sospeso.}
 {209}{}{Perche'?}

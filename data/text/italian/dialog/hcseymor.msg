@@ -10,7 +10,7 @@
 {109}{}{Si', so parlare. Meglio di certa gente, sembrerebbe... Ti rivolgerei un sorriso anche subito, ma purtroppo non ho una bocca. [Ride] Senti, potresti farmi un grandissimo favore?}
 {110}{}{Ci'.}
 {111}{}{Nuh.}
-{112}{}{I'm looking for a better place to be. Right here is nice and all, but frankly, these plants aren't much for conversation. I was thinking over there, by the building with all the ghouls in it... Would you replant me?}
+{112}{}{Sto cercando un posto migliore dove stare. Qui e' bello e tutto il resto, ma, a dire il vero, queste piante non sono i compagni adatti per una bella chiacchierata. Stavo pensando di trasferirmi laggiu', vicino all'edificio con tutti quei ghoul all'interno... Mi trapianteresti, per cortesia?}
 {113}{}{Gi'!}
 {114}{}{Nuh!}
 {115}{}{Bene.}
@@ -31,9 +31,7 @@
 {130}{}{Meee-raviglioso! Sono davvero, davvero compiaciuto. Trova un badile e torna qui. Quando l'avrai fatto, forse ti faro' parte di un segreto. Amico mio, che tu possa continuare a fiorire.}
 {131}{}{Um, certo. Ci vediamo.}
 {132}{}{Ho cambiato idea.}
-{133}{}{Oh, yes, the Professor. He grew me from a tiny spore and nurtured me... but I realized from an early age that if I were to act as smart as I truly
- am, he'd cut me into pieces to examine me. So, I played dumb and got planted out here. It's nice... but I'd like to branch out a little.
- Y'know, maybe get planted someplace else...}
+{133}{}{Oh, si', il Professore. Mi ha cresciuto sin da quando ero una piccola spora e mi ha nutrito... ma sin dalla piu' tenera eta' ho compreso che se avessi mostrato appieno le mie doti intellettive, egli mi avrebbe fatto a pezzi per esaminarmi. Percio' ho fatto finta di essere stupida e per questo sono stata piantata qui. E' bello stare qui... ma mi piacerebbe cambiare ramo. Sai, essere trapiantata da qualche altra parte non sarebbe male...}
 {134}{}{"Cambiare ramo", eh?}
 {135}{}{Giusto. Che cosa vuoi?}
 {136}{}{Ah... aha. Devo andare. Ciao.}
@@ -60,9 +58,7 @@
 {157}{}{E' un peccato, un vero peccato. Spero che cambierai idea, prima o poi. Forse il polline della tua titubanza giungera' nuovamente a me portato dal vento. Buona giornata.}
 {158}{}{Uh.}
 {159}{}{Buona giornata, davvero.}
-{160}{}{Oooh... the soil here feels so... different. Cleaner, somehow. Probably because I don't have to share it with
- those other plants. Ahhh. Oh! Yes! If you ever run across the Professor and his scorpion, remember this chess
- maneuver: It's called the Flying Liver Attack, and the scorpion cannot stand against it.}
+{160}{}{Oooh... il suolo qui sembra cosi'... diverso. Piu' pulito, in qualche modo. Probabilmente perche' non devo dividerlo con quelle altre piante. Ahhh. Ah! Si'! Se dovessi mai imbatterti nel Professore e nel suo scorpione, ricorda questa mossa degli scacchi: e' chiamata "Attacco Fegato Volante", e lo scorpione non puo' opporvisi.}
 {161}{}{'Azie!}
 {162}{}{Grazie. La provero'. Ciao!}
 {163}{}{Vorrei anche dirti che ho saputo che Typhon, il ghoul che si trova in questo edificio, conosce il luogo dove si trova un tesoro. Forse un giorno potrebbe esserti utile.}

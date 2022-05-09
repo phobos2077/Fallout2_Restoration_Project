@@ -13,6 +13,6 @@
 {112}{}{Okay, okay! Cosa vuoi sapere? Ma non farmi male.}
 {113}{}{Vault 15 - tu dire.}
 {114}{}{Cosa sai a proposito del Vault 15?}
-{115}{}{Look, I'm just a guy, not the guy in charge - that's Darion. He's the one you want. He's got this thing about Shady Sands and that old bitch Tandi. He's got a hideout in Vault 15, even got the locals thinking he's on their side. That's all I know. Honest!}
+{115}{}{Senti, io sono solo uno stronzo qualsiasi, non sono il capo - quello e' Darion. E' lui la persona che cerchi. Ha una faccenda in sospeso con Shady Sands e con quella vecchia bagascia di Tandi. Si e' nascosto nel Vault 15 e le persone che vivono li' credono che stia dalla loro parte. Questo e' tutto quel che so. Giuro!}
 {116}{}{Davvero, non so altro! Ti ho detto tutto quello che so, te lo giuro! Non picchiarmi piu'.}
 {117}{}{Assolutamente no! Non cadro' nel tuo tranello. BANG! ...ucciso mentre scappava. Scordatelo!}

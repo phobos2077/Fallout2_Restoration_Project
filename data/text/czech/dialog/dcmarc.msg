@@ -10,7 +10,7 @@
 {229}{}{Jsme fakt dobrý.}
 {230}{}{Dostali pìknì na prdel! Jo kurva!}
 {250}{}{Promluv si s Tylerem, holka, ne se mnou.}
-{251}{}{Jak to jde? Jestli nìco potøebuješ, promluv si tady s Tylerem.}
+{251}{}{What's up. You need something, you gotta talk to Tyler here.}
 {252}{}{Na co èumíš?}
 {253}{}{Promluv si s Tylerem, chlape, ne se mnou.}
 {255}{}{Dnes v noci se chystáme nìkomu natrhnout prdel!}

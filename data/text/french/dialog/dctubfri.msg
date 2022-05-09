@@ -1,4 +1,4 @@
-{100}{}{Tu vois une junkie.}
+{100}{}{Tu vois un drogué.}
 {110}{}{Tu vois une prostituée fidèle au Jet.}
 {111}{}{Tu vois une prostituée fidèle au Jet, c'est une des filles de Dodu.}
 {150}{}{On dirait un ami de Dodu.}

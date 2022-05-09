@@ -10,8 +10,8 @@
 {109}{}{Ca ne fait rien.}
 {110}{}{Ug.}
 {111}{}{Voici ce que j'ai.}
-{112}{}{Des peaux de gecko ordinaires.}
-{113}{}{Des peaux de gecko dorées.}
+{112}{}{regular gecko pelts.}
+{113}{}{golden gecko pelts.}
 {114}{}{Je prends le tout.}
 {115}{}{La prochaine fois peut-être. Salut.}
 {116}{}{J'aime bien faire des affaires avec toi. A un de ces jours.}

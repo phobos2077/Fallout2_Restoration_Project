@@ -19,7 +19,7 @@
 {118}{}{Não. Eu tenho mais perguntas.}
 {119}{}{Sim, com certeza.}
 {120}{}{Eu desenvolvo novas tecnologias e recebo minha parte dos cultistas, se você entende o meu significado.}
-{121}{}{Então você não é um Hubologista?}
+{121}{}{So you're not a Hubologist?}
 {122}{}{Entendi. Eu tenho mais perguntas.}
 {123}{}{Não. O que você quer dizer?}
 {124}{}{Que nova tecnologia tem desenvolvido?}

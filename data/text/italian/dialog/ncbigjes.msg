@@ -185,7 +185,7 @@
 {660}{}{Louis Salvatore e' vivo. Perche' sei tornato?}
 {661}{}{(Una goccia di sudore scende lungo una guancia di Mordino.) Hai fatto quello che ti avevo chiesto? Louis Salvatore e' morto?}
 {662}{}{E' morto. La sua famiglia e' stata vendicata, Senor Mordino.}
-{663}{}{I shall return when I have killed him.}
+{663}{}{No, tornero' quando l'avro' ucciso.}
 {664}{}{Salvatore e' troppo ben sorvegliato. Mi vedo costretto a rinunciare al lavoro.}
 {670}{}{Se... rinunci a questo lavoro, saro' costretto ad... UCCIDERTI.}
 {671}{}{Dal momento che la metti su questo piano, tornero' quando sara' morto.}

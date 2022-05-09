@@ -10,8 +10,8 @@
 {109}{}{Zapomeò na to.}
 {110}{}{Eh.}
 {111}{}{Mám tohle: }
-{112}{}{ kùží geckona.}
-{113}{}{ kùží zlatého geckona.}
+{112}{}{regular gecko pelts.}
+{113}{}{golden gecko pelts.}
 {114}{}{Vezmu si všechno co máš.}
 {115}{}{Možná pøíštì. Nashle.}
 {116}{}{Bylo mi potìšením s tebou obchodovat. Zatím.}

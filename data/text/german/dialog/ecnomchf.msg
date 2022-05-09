@@ -1,4 +1,4 @@
-{100}{}{Du siehst einen Nomadenhäuptling.}
+{100}{}{Ein Nomade.}
 {101}{}{Er sieht wie ein Nomadenhäuptling aus.}
 {102}{}{Durch seine Kleidung und die Art wie er sie trägt, muss er eine Art Anführer sein.}
 {103}{}{Ah, ein Reisender. Seid in meinem bescheidenem Zelt willkommen. Schatte dich vor der nie Enden Hitze des Landes.}

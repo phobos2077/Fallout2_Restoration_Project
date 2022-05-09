@@ -15,11 +15,11 @@
 {114}{}{Ho delle altre domande.}
 {115}{}{Si', lo e'. Hai trovato qualcosa di interessante?}
 {116}{}{Si', lo e'. Andiamo.}
-{117}{}{I found the room I was in. I also found a room that looked like a fueling area. I didn't get much farther because of the monsters.}
+{117}{}{Ho trovato la stanza in cui mi ero nascosta. Ho anche trovato una stanza che sembrava una zona di rifornimento carburante. Non ho fatto molta altra strada a causa dei mostri.}
 {118}{}{Ho delle altre domande.}
 {119}{}{Da dove vieni?}
 {120}{}{Molto bene. E' tutto per ora.}
-{121}{}{I'm from a place south of the Boneyard and south of the Glow. We're not too far from the sea. I used to be a nanny, but then the kids mutated into monsters.}
+{121}{}{Vengo da un posto a sud del Boneyard e a sud del Glow. Non e' troppo distante dal mare. Facevo la babysitter, ma poi i bambini si sono trasformati in mostri.}
 {122}{}{Ho delle altre domande.}
 {123}{}{Come hai conosciuto Badger?}
 {124}{}{Affascinante. E' tutto per ora.}

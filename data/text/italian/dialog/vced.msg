@@ -5,7 +5,7 @@
 {104}{}{Per noi venditori di brahmin e' stata una stagione di magra.}
 {105}{}{Non ho idea da dove provenga tutto quel letame di brahmin. Sembra apparire dal nulla.}
 {106}{}{Beh, ehila', straniero. Sono Ed, il venditore locale di brahmin. Come posso aiutarti?}
-{107}{}{Good to see you again. What can I do you for?}
+{107}{}{Mi fa piacere rivederti. Cosa posso fare per te?}
 {108}{}{Conosci un mercante di nome Vic? Mi ha detto di aver acquistato da te questa fiaschetta proveniente da un Vault.}
 {109}{}{Conosci un mercante di nome Vic?}
 {110}{}{Il mio amico Vic qui presente dice di aver comprato una fiaschetta da te.}
@@ -59,9 +59,9 @@
 {158}{}{E' un posto "okay"... se riesci a sopportare i Cittadini. Non sono d'accordo con alcune delle loro idee, ma -ehi!- non si vive mica male, qua.}
 {159}{}{Avrei delle altre domande...}
 {160}{}{Capisco. Grazie per le informazioni. Arrivederci.}
-{161}{}{I sell brahmin to people who need them. Helps me pay rent on this place.}
+{161}{}{Vendo brahmin alle persone che ne hanno bisogno. Questo lavoro mi aiuta a pagare l'affitto di questo posto.}
 {162}{}{Avrei delle altre domande...}
 {163}{}{Capisco. Grazie per le informazioni. Arrivederci.}
-{164}{}{I got brahmin smarter than you. Move along.}
+{164}{}{Ho brahmin piu' intelligenti di te. Smamma.}
 {165}{}{Questo sembra il posto dove sta Ed. E' lui il tipo dal quale ho comprato quella fiaschetta.}
 {166}{}{Hai scoperto l'origine della fiaschetta.}

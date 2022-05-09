@@ -178,7 +178,7 @@
 {1500}{}{Hai guadagnato 10,000 punti esperienza!}
 {1501}{}{Rovine}
 {1502}{}{L'automobile e' a secco.}
-{1503}{}{This is a car. It doesn't look like it's running.}
+{1503}{}{Questa e' un'automobile. Non sembra funzionare.}
 {2998}{}{Incontri:}
 {2999}{}{Vuoi incontrare:}
 {3000}{}{Un gruppo di predoni.}

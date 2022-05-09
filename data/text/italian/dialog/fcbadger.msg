@@ -71,12 +71,12 @@
 {170}{}{Come rubare le caramelle ad un bambino. Non mi beccheranno mai. Cosa vuoi da loro?}
 {171}{}{Ottimo. Ho delle altre domande.}
 {172}{}{Ottimo. Tornero'.}
-{173}{}{I can get them. They're pretty protective of their info, and they've got some serious ice protecting their machines. Are you sure you want me to go after them?}
+{173}{}{Posso fregarli. Sono piuttosto protettivi nei confronti delle loro informazioni e hanno messo un bel po' di protezioni a difesa delle loro macchine. Sei sicuro di volere che penetri nei loro sistemi?}
 {174}{}{Beh, buona fortuna. Ho delle altre domande.}
 {175}{}{Buona fortuna. Tornero' piu' tardi.}
 {176}{}{Ehi, trova la mia ragazza e poi ne parleremo.}
 {177}{}{D'accordo... d'accordo...}
-{178}{}{She's dead? She's DEAD? How did she die? No, wait... don't tell me. Give me a few hours to get myself together.}
+{178}{}{E' morta? E' MORTA? Com'e' morta? No, aspetta... non dirmelo. Dammi qualche ora per riprendermi.}
 {179}{}{Certo, certo.}
 {180}{}{Riprenditi, Sparky. Abbiamo del lavoro da fare.}
 {181}{}{D'accordo. Adesso sto meglio.}
@@ -99,7 +99,7 @@
 {198}{}{Mi fa piacere vederti.}
 {199}{}{Sto cercando un po' di carburante.}
 {200}{}{Ho sentito dire che gli Hubologisti sono in possesso di un certo quantitativo di carburante. Potrei dare una sbirciatina nei loro computer per te.}
-{201}{}{The Shi have all the fuel around here. I could take a gander at their mainframe for you.}
+{201}{}{Gli Shi hanno il controllo su tutto il carburante della citta'. Potrei dare uno sguardo al loro mainframe per te.}
 {202}{}{Puoi farlo?}
 {203}{}{Cosa diavolo vuoi?}
 {204}{}{Badger il punk, suppongo?}
@@ -116,7 +116,7 @@
 {215}{}{Puoi trasferire il carburante dalle loro riserve alla petroliera?}
 {216}{}{Come non detto, lo faro' in un altro modo.}
 {217}{}{Nulla.}
-{218}{}{Alright. Check back with me in a day or so and I'll let you know.}
+{218}{}{Okay. Torna da me tra un giorno circa e ti faro' sapere.}
 {219}{}{Hai quello che ti ho chiesto?}
 {220}{}{Si', ho il carburante.}
 {221}{}{Si', ho gli schemi tecnici del vertibird.}

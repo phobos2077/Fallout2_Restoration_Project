@@ -92,7 +92,7 @@
 {191}{}{On: Udìlal jsi životní rozhodnutí. Ona: A bohužel to bylo špatné rozhodnutí. Oba: Stráže! Stráže!}
 {192}{}{Zatracenì.}
 {193}{}{On: Zdravím, }
-{194}{}{Takže co mám teï jako Hubologista dìlat?}
+{194}{}{So what do I do now that I'm a Hubologist?}
 {195}{}{Mùžu s vámi nìkdy nìco podniknout?}
 {196}{}{To bude nejspíš všechno. Zatím!}
 {197}{}{}

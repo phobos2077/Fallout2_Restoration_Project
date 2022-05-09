@@ -15,7 +15,7 @@
 {114}{}{E' dentro. Nel suo ufficio. E' sempre li'.}
 {115}{}{Dov'e' il suo ufficio?}
 {116}{}{Okay. Grazie.}
-{117}{}{By the water tank. I play over there sometimes. I peek on him while he's working.}
+{117}{}{Vicino al serbatoio d'acqua. A volte ci vado a giocare. Lo spio mentre lavora.}
 {118}{}{Sei un marmocchio piuttosto molesto, non e' vero?}
 {119}{}{Grazie bambino, mi sei stato di grande aiuto.}
 {120}{}{Tu non sei una persona gentile, tu sei una persona cattiva! Lo diro' al mio papa'!}

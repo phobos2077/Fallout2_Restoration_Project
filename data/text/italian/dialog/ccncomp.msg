@@ -6,7 +6,7 @@
 {105}{}{Andare a diavolo questa pupu'.}
 {106}{}{'Fanculo.}
 {107}{}{Prova a violare il sistema.}
-{108}{}{Welcome to the Enclave. You have limited system privileges at this time. For ease of use this system has been equipped with a common English parser. Please enter all requests as English sentences.}
+{108}{}{Benvenuti in EnclaveNet. In questo momento avete limitati privilegi di sistema. Per semplicita' d'uso questo sistema e' stato equipaggiato con un vocabolario italiano. Prego formulare le richieste sotto forma di frasi in lingua italiana.}
 {109}{}{Come posso aiutarvi?}
 {110}{}{Dove progetti per vertibird?}
 {111}{}{Dove base principale Enclave?}

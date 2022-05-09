@@ -19,7 +19,7 @@
 {215}{}{E cosi' vuoi festeggiare con un po' di Jet, eroe? Sei venuto nel posto giusto. Per te, OGNI COSA e' ad un prezzo speciale.}
 {216}{}{Il minimo che posso fare per te e' farti un prezzo di favore, eroe. E' il mio modo, nel mio piccolo, di ringraziarti per averci salvato la pelle.}
 {217}{}{Non c'e' niente di meglio di una bella dose di Jet dopo aver sconfitto l'Enclave, eh? Ho ragione, o no? Per te c'e' uno sconto su tutta la mia merce.}
-{218}{}{I got shit that'll help you kiss the sky, hero. And for you: a nice discount. How does that sound?}
+{218}{}{Ho della roba che ti aiutera' a toccare il cielo, eroe. E solo per te: un bello sconto. Cosa te ne pare?}
 {219}{}{Tu avere dolcetti? }
 {220}{}{-Allontanati-}
 {221}{}{Che cos'hai?}
@@ -27,7 +27,7 @@
 {230}{}{Ehi, ehi… Sono in presenza di un grande personaggio. Per TE, amico, c'e' lo sconto su tutta la mia merce. Parla di me con i tuoi amici, okay?}
 {231}{}{E cosi' ti vuoi divertire con un po' di Jet, amico? Sei venuto nel posto giusto. Per te, OGNI COSA e' ad un prezzo speciale.}
 {232}{}{Ho abbastanza Jet da mandarti in orbita, caro amico mio. E solo per te: uno sconto. Che ne dici di discutere del prezzo?}
-{233}{}{I got shit that'll help you kiss the sky, friend. And for you: a discount. That sound all right?}
+{233}{}{Ho della roba che ti aiutera' a toccare il cielo, eroe. E solo per te: uno sconto. Che ne dici?}
 {234}{}{Il minimo che posso fare per TE e' concederti un bello sconto, amico. E' solo il mio modo di essere gentile.}
 {235}{}{Tu hai classe, lo sai? Classe. E quando qualcuno della tua classe fa affari con me, io gli faccio sempre un bello sconto, lo sapevi?}
 {236}{}{Fammi sapere come posso aiutarti, amico. Dimmi cosa ti serve e io ti faro' i migliori prezzi della citta'.}

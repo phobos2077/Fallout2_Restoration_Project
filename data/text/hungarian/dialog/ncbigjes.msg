@@ -187,7 +187,7 @@
 {660}{}{Louis Salvatore még él. Miért vagy itt mégis?}
 {661}{}{(Mordino arcán végiggördül egy izzadságcsepp.) Megcsináltad, amit kértem? Louis Salvatore halott?}
 {662}{}{Jobban nem is lehetne. A családját ért sérelmet megbosszultam, Senor Mordino.}
-{663}{}{I shall return when I have killed him.}
+{663}{}{Még nem végeztem vele, ha kész vagyok, újra jövök.}
 {664}{}{Salvatore barátunkat kegyetlenül őrzik. Azt hiszem, vissza kell mondanom ezt a megbízatást.}
 {670}{}{Ha... visszatáncolsz, meg kell hogy... ÖLESSELEK.}
 {671}{}{Hát ha ez a tényállás, akkor inkább megpróbálok valamit.}

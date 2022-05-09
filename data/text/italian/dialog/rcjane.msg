@@ -73,7 +73,7 @@
 {172}{}{Le grandi lucertole mi spaventano. Sara' meglio che ne rimanga fuori. Grazie dell'avvertimento. Addio. (pensi, tra te e te) *Fiuuu, per un pelo.*}
 {173}{}{La cosa divertente e' lo scommettere sul risultato dell'incontro. Ecco come funziona. Tu vieni da me e mi dici che vuoi piazzare una scommessa. Io ti dico quali sono le due creature che combattono nell'incontro seguente e tu mi dici su quale delle due vuoi puntare i tuoi soldi.}
 {174}{}{Poi cosa?}
-{175}{}{Simple, if your critter wins you double your money. TRIPLE in the event of a first-round takedown! If your critter loses, then your money belongs to me. There are usually several fights each day. Until the stock of critters runs low, you can bet on all of 'em. But just one bet per fight. Oh, yeah, just to keep things nice an' easy, all bets are $100.}
+{175}{}{Semplice, se la tua creatura vince, ti becchi il doppio della tua puntata. Il TRIPLO, in caso di vittoria al primo round! Se la tua creatura perde, i tuoi soldi appartengono a me. Solitamente ci sono diversi incontri ogni giorno. Fino a quando il numero di creature non si abbassa troppo, puoi fare una scommessa in tutti gli incontri. Ma solo una per ognuno. Oh, certo, solo per mettere subito le cose in chiaro, tutte le puntate devono essere di 100$.}
 {176}{}{OK. Ho capito. Voglio provarci.}
 {177}{}{Capisco. Hmm, prima o poi ci provero', ma non adesso. Ci vediamo.}
 {178}{}{Questo sara' un vero massacro. }

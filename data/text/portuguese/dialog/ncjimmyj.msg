@@ -44,8 +44,7 @@
 {282}{}{EU VOU DEIXE-ME G--}
 {283}{}{Ei, o, uh, "Jeito Jimmy J" parece bom e tudo, e é por isso que eu tinha algumas pergunt--}
 {284}{}{Não, eu não penso assim -}
-{290}{}{Sabia que você voltaria, sabia! Jagged Jimmy J não disse que esse era o CAMINHO? Mantenha-os felizes e eles nunca o
- decepcionarão. Então meu amigo piloto... o que Jagged Jimmy J pode fazer por você hoje?}
+{290}{}{Knew you'd be back, knew it! Didn't Jagged Jimmy J say that it would be that WAY? Keep 'em happy, and they'll never let you down. So my pilot friend... what can Jagged Jimmy J do for you today?}
 {291}{}{Bem, bem, se não é meu "amigo" piloto... você está voltando por que PRECISA de algo do Jagged Jimmy?}
 {292}{}{Hum... Eu esqueci o que ia dizer. Vou indo}
 {294}{}{Negocia coisas? Eu GOSTO de coisas}

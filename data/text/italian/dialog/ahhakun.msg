@@ -33,7 +33,7 @@
 {132}{}{Ne sarei onorato, vostra sacralita'.}
 {133}{}{Mi hai chiesto di ripulire il tuo giardino dalle erbacce? In questo caso, okay.}
 {134}{}{Ad un prezzo.}
-{135}{hak006}{To ask payment for a gift will bring you less than the gift itself. I will give you such and add the lesson of your self-disappointment at the receiving.}
+{135}{hak006}{Chiedere un pagamento per un dono ti portera' meno che il dono stesso. Io comunque te lo daro', ma aggiungero' una lezione riguardo alla tua stessa delusione, al momento della riscossione.}
 {136}{}{Siamo d'accordo. Dov'e' il giardino?}
 {137}{}{Sai... un bel dono sarebbe PARLARE ITALIANO!}
 {138}{}{E se fossi io a darti una lezione su cos'e' la delusione e me ne andassi da qui? Ciao.}

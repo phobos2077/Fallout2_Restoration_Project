@@ -9,7 +9,7 @@
 {179}{}{Klörgggg}
 {180}{}{Úúg}
 {200}{}{Én Ittapiros barát. TE Ittapiros barát?}
-{201}{}{Me hit people. Monte tell me to.}
+{201}{}{Me hit people Monte tell me to.}
 {202}{}{Me hit people.}
 {203}{}{Me hit people with fists like playing drum.}
 {204}{}{Me like to hit.}

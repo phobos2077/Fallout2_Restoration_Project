@@ -83,9 +83,7 @@
 {182}{}{Beh, vedi, le miniere venivano scavate usando grandi macchinari. Diamine, quelle macchine sono fatte per durare. Entrambe le miniere avevano grosse scavatrici. Ma - ed e' qui che entrano in scena i soldi - quei dannati piccoli circuiti di controllo non erano cosi' resistenti. Adesso, nessuna delle due miniere ha un chip che funzioni. Heh-hee.}
 {183}{}{Non sono sicuro di capire di cosa tu stia parlando.}
 {184}{}{Piu' parti ci sono, piu' cose ci sono da rompere. Grazie dell'informazione. Ci vediamo.}
-{185}{}{Well, what I'm saying is that either mine owner would pay for one of these digger-control-chips.
- Heck, if they had a workin' machine and the other mine doesn't, they'd shut the other mine down - or
- buy 'em out - in no time.}
+{185}{}{Beh, quello che voglio dire e' che le due miniere sarebbero disposte a pagare una fortuna pur di mettere le mani su uno di quei circuiti di controllo per scavatrici. Diamine, se una miniera avesse una scavatrice funzionante e l'altra no, riuscirebbe in quattro e quattr'otto a far chiudere l'altra miniera, o a comprarla.}
 {186}{}{E' un vero peccato che nessuno sappia dove trovare uno di quei circuiti.}
 {187}{}{Devo scoprire quanto sarebbero disposti a pagare per un simile aggeggio. Grazie. Ci vediamo.}
 {188}{}{Alla malora tu e quelle tue dannate orecchie! Te l'ho detto dove devi cercare quel dannato circuito. Non hai ascoltato una sola parola di quello che ho detto? La miniera Wanamingo possedeva delle scavatrici e sono state usate finche' la miniera non e' stata chiusa. E' probabile che i circuiti siano ancora la' sotto, in attesa soltanto di qualcuno che li vada a prendere.}

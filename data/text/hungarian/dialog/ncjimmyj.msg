@@ -42,8 +42,7 @@
 {282}{}{ÉN MEGY ÉN MEGY HAGGYÁ MEN...}
 {283}{}{Hé, a... ööö... "Jimmy J. módszer" faszán hangzik, meg minden, viszont éppen erről szeretnék feltenni né...}
 {284}{}{Nem, nem hiszem...}
-{290}{}{Knew you'd be back, knew it! Didn't Jagged Jimmy J say that be the WAY? Keep 'em happy, and they'll never let you down. So
- my pilot friend... what can Jagged Jimmy J do for you today?}
+{290}{}{Knew you'd be back, knew it! Didn't Jagged Jimmy J say that it would be that WAY? Keep 'em happy, and they'll never let you down. So my pilot friend... what can Jagged Jimmy J do for you today?}
 {291}{}{Nocsak, nocsak, a mi kis pilótánk már megint erre jár... visszajöttél, mert szükséged van valamire Csipkés Jimmytől?}
 {292}{}{Ööö... Én elfelejt mit akar mondani. Menek}
 {294}{}{Üzletejjünk! Én szeret üzlet}

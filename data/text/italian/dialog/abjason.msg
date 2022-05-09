@@ -105,7 +105,7 @@
  someone there that loves a good game of Tragic.}
 {354}{}{Hey, I know someone in Gecko that loves a good game of Tragic. I could take you there.}
 {360}{}{Are we ready to go yet? I'm dying to know what kind of Tragic cards this guy's got.}
-{361}{}{Alright, let's go.}
+{361}{}{D'accordo, andiamo.}
 {362}{}{Non ancora. Te lo faro' sapere.}
 {370}{}{[Upon arriving in Gecko you introduce the young monk to Wooz. They quickly hit it off and begin comparing their
  Tragic card decks. You're about to leave when Brother Jason pulls himself away from Tragic long enough to have a word with you.]}

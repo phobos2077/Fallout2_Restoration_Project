@@ -19,7 +19,7 @@
 {118}{}{Nein. Ich habe noch Fragen.}
 {119}{}{Ja, sicher.}
 {120}{}{Ich entwickle neue Technologien und ich habe ganz gut Spaß mit den Kultlerinnen, wenn du verstehst, was ich meine!?}
-{121}{}{Du bist also kein Hubologe?}
+{121}{}{So you're not a Hubologist?}
 {122}{}{Alles klar. Ich habe noch weitere Fragen.}
 {123}{}{Nein. Was meinst du damit?}
 {124}{}{Was für neuen Technikkram hast du denn entwickelt?}

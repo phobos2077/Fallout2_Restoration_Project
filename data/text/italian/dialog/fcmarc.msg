@@ -11,7 +11,7 @@
 {110}{}{Nulla. Arrivederci.}
 {111}{}{Hmm. No, mi spiace, non posso aiutarti. Dovresti provare a chiedere a qualcun altro.}
 {112}{}{Anks?}
-{113}{}{I'm Marc. I'm the resident smart-ass and know-it-all. ::he smiles::}
+{113}{}{Sono Marc. Il Cervellone e signor "so-tutto" locale. ::sorride::}
 {114}{}{Oh. Ho delle altre domande.}
 {115}{}{Addio.}
 {116}{}{Questo e' il Vascello Marino Poseidon Valdez - chiamato anche VMP Valdez. Se vuoi saperne di piu' sul Valdez, la persona migliore cui chiedere informazioni e' il Capitano.}
@@ -25,7 +25,7 @@
 {124}{}{Il Capitano e' un vecchio soldato tutto d'un pezzo. Se ne sta lassu' e controlla la situazione. Ha una profonda conoscenza di questa nave.}
 {125}{}{Grazie. Ho delle altre domande.}
 {126}{}{Grazie. Ciao.}
-{127}{}{Oh, all over the wasteland. We'd heard things about San Francisco, passed down from our elders. Some of us have ancestors who used to live here before the great war. You want to hear more?}
+{127}{}{Oh, da ogni angolo delle Lande. Abbiamo sentito parlare di San Francisco grazie ai racconti tramandati dai nostri anziani. Alcuni di noi hanno antenati che vivevano qui prima della grande guerra. Vuoi saperne di piu'?}
 {128}{}{Si'.}
 {129}{}{No, ma vorrei chiederti qualcos'altro.}
 {130}{}{No, e' tutto.}

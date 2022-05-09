@@ -95,8 +95,8 @@
 {376}{}{"Eileen Suh: Went to W&M Law School, Now it's Eileen Sue."}
 {377}{}{"Sarah Smart: Øeèník, Autorka, Profesorka. Znala cenu pøátelství."}
 {378}{}{"Tim Winkle - I abide no hypocrisy but my own."}
-{379}{}{"Jughead - King of Queen Archie's World".}
-{380}{}{"R.I.P Casey Donahue zemøel 6.8.1998 Byl zabit zmutovaným a nevrlým moøským okounem."}
+{379}{}{"Jughead - King of Queen Archie's World."}
+{380}{}{"R.I.P Casey Donahue. Died 8/6/98. Killed by Mutated Ill-Tempered Sea Bass."}
 {381}{}{"Christopher 'Nightwing' Jones: administrator of the mushroom bruise."}
 {382}{}{"Jay "Bramborová noha" Nielson. Hudebník. Zemøel ve vìku 104 let, pøi bubnovém sólu."}
 {383}{}{"Nitsa - pøíèina toho, proè Charles nikdy nepochopil hokej."}

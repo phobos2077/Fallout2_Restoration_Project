@@ -42,7 +42,7 @@
 {282}{}{PUS JÁ CHTÍT J...}
 {283}{}{No, eh, Jimmyho styl zní sice skvìle, ale já se chci na nìco ze...}
 {284}{}{Ne, myslím, e ne...}
-{290}{}{Vìdìl jsem, e se vrátíš, vìdìl jsem to! Neøíkal to snad Poøezanej Jimmy J? Dohlídni na to, aby byli šastní a oni tì nikdy nezklamou. Take, mùj leteckej kámo... co pro tebe mùe dneska Poøezanej Jimmy J udìlat?}
+{290}{}{Knew you'd be back, knew it! Didn't Jagged Jimmy J say that it would be that WAY? Keep 'em happy, and they'll never let you down. So my pilot friend... what can Jagged Jimmy J do for you today?}
 {291}{}{Ale, jestlipak to není mùj leteckej "kámoš"... POTØEBUJEŠ snad nìco od Poøezanıho Jimma?}
 {292}{}{Eh... já zapomnìt co já chtít øíct. Já jít.}
 {294}{}{My vymìnit vìci? Já RÁD vìci.}

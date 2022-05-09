@@ -187,7 +187,7 @@
 {716}{}{Hmmm... Beh, credo che dovresti fermarti qui e metter via quelle carte. Credo che tu abbia giocato abbastanza, per oggi.}
 {717}{}{MAI! L'ACCOZZAGLIA NON SI FERMA MAI!}
 {718}{}{MOOAHAHAHAH!!! HO VINTOOOOOO!}
-{719}{}{NOO!! HOW COULD I HAVE LOST!? Ahhhgghhhgh.}
+{719}{}{NOO!! COME HO FATTO A PERDERE!?  Ahhhgghhhgh.}
 {720}{}{Gia'... fermarsi e' impossibile. Ma questa e' davvero l'ultima...}
 {721}{}{Esatto, Birra Gamma Gulp. Sei stupido o cosa?}
 {722}{}{Esatto. Una Gamma Gulp in arrivo.}

@@ -1,4 +1,4 @@
-{100}{}{Widzisz przywódcę Nomadów.}
+{100}{}{Widzisz Nomada.}
 {101}{}{On wygląda na przywódcę Nomadów.}
 {102}{}{Sądząc po stroju i sposobie zachowania, najprawdopodobniej jest przywódcą.}
 {103}{}{Oh, podróżnik. Bądź pozdrowiony, w moim skromnym namiocie. Skryj się w jego cieniu przed palącym słońcem pustkowi.}

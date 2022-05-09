@@ -56,7 +56,7 @@
 {155}{}{Davvero molto utile. Avrei delle altre domande.}
 {156}{}{Come fa a sapere tutto questo?}
 {157}{}{Vabbe'. Ci vediamo.}
-{158}{}{Child, I am AHS-9. I see many things that transpire in the fleshy world. Do you have more questions, or may I return to my meditations?}
+{158}{}{Figliolo, io sono AHS-9. Io vedo molte cose che trascendono il mondo sensibile. Hai altre domande, o posso tornare a meditare?}
 {159}{}{Altre domande.}
 {160}{}{Ritorni pure alle sue meditazioni. Ho finito.}
 {161}{}{Hai ucciso l'Imperatore e distrutto i suoi seguaci?}
@@ -82,7 +82,7 @@
 {181}{}{La mia controparte, l'Imperatore di Shi-Town, mi ha reso la vita un inferno. Vorrei che tu mettessi fine a questa situazione. In cambio, io mi assicurero' che tu possa arrivare dove desideri.}
 {182}{}{Puo' contarci, boss. Ci si vede.}
 {183}{}{Preferisco di no.}
-{184}{}{Seek out Badger, whose caustic presence holds those pathetic tanker vagrants together. Rid our fair city of him. When you have done so, visit AHS-7.}
+{184}{}{Trova Badger, la cui caustica presenza mantiene uniti quei patetici vagabondi che occupano la petroliera. Libera la nostra bella citta' da quel miserabile. Quando l'avrai fatto, va' da AHS-7.}
 {185}{}{Puo' contarci, boss. Ci si vede.}
 {186}{}{Preferisco di no.}
 {187}{}{Non mi pareva che la mia fosse una richiesta, figliolo. Uccidilo! E' un ordine!}

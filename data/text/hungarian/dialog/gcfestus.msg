@@ -34,7 +34,7 @@
 {181}{}{Mit mondjak?... le vagyok nyűgözve...}
 {182}{}{Igazán nem akarom feltartani. Viszlát!}
 {190}{}{Hát nem mondom, hogy nem kelne el egy kis segítség, de hát láthatod, hogy senki nem elég képzett ahhoz, amit csinálok. Még az alapokat sem képesek felfogni.}
-{191}{}{Hogy lehetne magával akárhogyis lépést tartani?}
+{191}{}{How could anyone hope to keep up with you? You're above everyone.}
 {192}{}{Hát maga aztán nem semmi, ez kétségtelen. Na, ég áldja!}
 {200}{}{Hát éppen ez az! Látom, ismered a dörgést. Ha nem lenne itt annyi munkám, én lennék Gekkó vezetője is. Abban biztos lehetsz, hogy volna foganatja.}
 {201}{}{A várost is átvenné?}
@@ -75,7 +75,7 @@
 {340}{}{Van nálad egy tartalék hidroelektromos magnetoszféra szabályozó?}
 {341}{}{Tudja egyáltalán, hogy mi az?}
 {342}{}{Van bizony. Gondolom, maga akarja üzembe helyezni...}
-{350}{}{Surprised? Never doubt my knowledge about atomic power plants. I know everything there is to know about them.}
+{350}{}{Meglepődtél? Mondtam már, hogy mindent tudok az atomerőművekről. Hallgatnod kellett volna rám.}
 {351}{}{Na, ha tudja, mi az, akkor gyerekjáték üzembe helyeznie.}
 {352}{}{Azt hiszem, már eddig is túl sokat hallgattam magát. Viszlát!}
 {360}{}{Of course I do. Why, that's just plain simple for someone of my experience and talent. I was

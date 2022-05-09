@@ -185,7 +185,7 @@
 {660}{}{Louis Salvatore żyje. Czemu jesteś z powrotem?}
 {661}{}{(Strużka potu ścieka po twarzy Mordina) Czy zrobiono, o co prosiłem? Louis Salvatore jest martwy?}
 {662}{}{Jest martwy. Twoja rodzina została pomszczona, Senor Mordino.}
-{663}{}{Nie, wrócę, gdy go zabiję.}
+{663}{}{No, I shall return when I have killed him.}
 {664}{}{Salvatore jest zbyt dobrze chroniony. Muszę niestety zrezygnować z tej pracy.}
 {670}{}{Jeśli... uciekniesz od tej pracy, każę cię... ZABIĆ.}
 {671}{}{Skoro tak stawiasz sprawę, wrócę, gdy tylko umrze.}

@@ -10,8 +10,8 @@
 {109}{}{Rá se ránts!}
 {110}{}{Aghhh!}
 {111}{}{Here's what I got: }
-{112}{}{ regular gecko pelts.}
-{113}{}{ golden gecko pelts.}
+{112}{}{gekkóbőr.}
+{113}{}{aranygekkó bőr.}
 {114}{}{Mindet megveszem.}
 {115}{}{Talán legközelebb. Viszlát!}
 {116}{}{Köszönöm a vásárlást. Viszlát legközelebb!}

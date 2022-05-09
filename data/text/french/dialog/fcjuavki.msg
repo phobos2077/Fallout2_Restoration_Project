@@ -92,7 +92,7 @@
 {191}{}{Lui : Tu as pris une décision qui va changer ta vie. Elle : Et hélas, ce n'était pas la bonne. Tous les deux : Gardes ! Gardes !}
 {192}{}{Putain.}
 {193}{}{Lui : Salutations, }
-{194}{}{Bon, eh bien, je fais quoi maintenant que je suis Hubologiste ?}
+{194}{}{So what do I do now that I'm a Hubologist?}
 {195}{}{Comment faire pour devenir comme vous ?}
 {196}{}{C'est à peu près tout ce que je voulais. Au revoir !}
 {197}{}{}

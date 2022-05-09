@@ -19,7 +19,7 @@
 {118}{}{Non. J'ai d'autres questions.}
 {119}{}{Ouais, bien sûr.}
 {120}{}{Je mets au point une nouvelle technologie et je prends ma part du gâteau sur les membres de la secte, si tu vois ce que je veux dire.}
-{121}{}{Alors comme ça, t'es pas Hubologiste ?}
+{121}{}{So you're not a Hubologist?}
 {122}{}{Je comprends. Mais dis-moi...}
 {123}{}{Non. Que veux-tu dire ?}
 {124}{}{Quel type de nouvelle technologie as-tu mis au point ?}

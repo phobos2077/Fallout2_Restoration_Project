@@ -1,7 +1,6 @@
 {100}{}{Vedi una bambina che indossa un vestito giallo.}
 {101}{}{Vedi Sandy, la bambina.}
-{102}{}{You see a small girl wearing a yellow dress with flowers on it. She appears to be meowing like
- a cat. She has on a name tag that says "Sandy".}
+{102}{}{Vedi una bambina che indossa un vestito giallo a fiori. Sta miagolando come un gatto e ha una targhetta con su scritto "Sandy".}
 {103}{}{Miao... miao... io sono un gatto. E ho dei poteri speciali che solo i gatti hanno. Cosa sei tu?}
 {104}{}{Me cane! Woof! Woof! Chi tu?}
 {105}{}{Urrrh? (espressione da cagnolino confuso)}

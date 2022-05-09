@@ -112,7 +112,7 @@
 {402}{}{Está muerto. Se lo comieron los geckos.}
 {403}{}{Yo, eh... le he visto. Dijo que se había ido con otra mujer. ¡Caray! Mira qué tarde es. Debo irme ya.}
 {404}{}{Eh, yo, eh, nosotros, es que... eh, no, aún no le he encontrado. Seguro que aparece cualquier día de estos. Bueno, adiós.}
-{410}{}{¿Comido por los geckos? No te creo. Los geckos nunca atraparían vivo a mi Smiley. Es demasiado buen trampero para morir así. Te equivocas.}
+{410}{}{Eaten by geckos? I just don't believe you. Geckos would never catch my Smiley, he's too good a trapper for that. You must be mistaken.}
 {411}{}{Si, probablemente tenga razón. Perdón por asustarla. Déjeme hacerle una pregunta.}
 {412}{}{No, le he visto, o más bien vi lo que quedaba de él. No fue algo agradable. Bueno, ya nos veremos. Adiós.}
 {413}{}{Supongo que ahí me ha pillado. Je, je, tan sólo estaba tomándole el, eh... pelo. Sí, eso es. Adiós.}

@@ -42,8 +42,7 @@
 {282}{}{ME VA LASCIARE ME ANDA --}
 {283}{}{Ehi, lo, ehm, "stile Jimmy J" sembra grandioso, ed e' per questo che vorrei farti delle doman--}
 {284}{}{No, non credo che --}
-{290}{}{Knew you'd be back, knew it! Didn't Jagged Jimmy J say that be the WAY? Keep 'em happy, and they'll never let you down. So
- my pilot friend... what can Jagged Jimmy J do for you today?}
+{290}{}{Sapevo che saresti tornato, lo sapevo! Jimmy J lo Sfregiato non te l'aveva detto che questo sarebbe stato il suo STILE? Fa' che siano sempre felici e loro non ti deluderanno. Allora, pilota... cosa puo' fare oggi per te Jimmy J lo Sfregiato?}
 {291}{}{Bene, bene... il mio amico "pilota"... sei tornato da queste parti perche' ti SERVE qualcosa da Jimmy lo Sfregiato, eh?}
 {292}{}{Um... Me dimenticato cosa stare per dire. Me va.}
 {294}{}{Noi scambiare roba? Me PIACE roba.}

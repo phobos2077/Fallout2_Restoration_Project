@@ -40,7 +40,7 @@
 {139}{}{Leggi 'Scambio'}
 {140}{}{Ritorna al Menu Principale}
 {141}{}{Esci}
-{142}{}{This is to confirm your video order for Debbie Does the Army and Deep Throat volume 1059. Your order should arrive by mail in 2-4 weeks. Thank you for your order.}
+{142}{}{La presente e' per confermare il suo ordine delle videocassette 'Debbie si fa l'esercito' e 'Gola Profonda, volume 1059'. Il suo ordine dovrebbe arrivarle via posta entro 2-4 settimane. La ringraziamo per il suo ordine.}
 {143}{}{Leggi altra posta}
 {144}{}{Esci}
 {145}{}{L'Evacuazione del Deposito Militare Sierra e' stata spostata di una settimana. Tutte le misure di sicurezza dovranno essere pronte per quel momento. Per ordine del Generale Clifton.}
@@ -48,7 +48,7 @@
 {147}{}{Esci}
 {148}{}{[Senti un leggero ronzio mentre del fumo comincia ad uscire dal terminale del computer. Ti sposti e osservi la tastiera sciogliersi in un mucchio di gelatina. Uhm... doveva trattarsi di uno dei quei virus dei quali hai sentito parlare.]}
 {149}{}{Esci}
-{150}{}{This is Klinger from the 8063rd. We're in desperate need of part number 102-53B. I've got a case of Chateau Lafayette 2155 if you could expedite the order. Get back to me ASAP.}
+{150}{}{Qui e' Klinger dell'8063simo. Abbiamo disperato bisogno del componente numero 102-53B.  Se lei potesse accelerare l'arrivo di tale pezzo, ho qui per lei una cassa di Chateau Lafayette 2155. Me lo invii il piu' presto possibile.}
 {151}{}{Leggi altra posta}
 {152}{}{Esci}
 {153}{}{[Che fortuna incredibile! Sei riuscito ad azzeccare la password corretta. "Tettone"]                                       Disattivazione Piastrelle Elettrificate in corso}

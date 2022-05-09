@@ -34,7 +34,7 @@
 {181}{}{Sono davvero impressionato.}
 {182}{}{Beh, non voglio trattenerti oltre. Ci vediamo.}
 {190}{}{Sarebbe bello poter avere un po' d'aiuto. Ma, vedi, nessun altro qui ha i requisiti necessari per fare quello che faccio io. Non riescono a capire neanche le basi, di quello che faccio!}
-{191}{}{How could anyone hope to keep up with you?}
+{191}{}{Come fa certa gente a pensare di poter essere al tuo livello? Tu sei superiore a tutti.}
 {192}{}{Sei davvero un tipo speciale, non ci sono dubbi. Ci vediamo.}
 {200}{}{E' proprio cosi'. Mi fa piacere che tu capisca al volo certe cose. Se io non fossi cosi' occupato con la centrale, governerei Gecko. E lascia che te lo dica, la governerei bene.}
 {201}{}{Vorresti governare anche la citta'?}
@@ -75,7 +75,7 @@
 {340}{}{Hai per caso un Regolatore Idroelettrico di Magnetosfera che ti avanza?}
 {341}{}{Quindi tu sai di cosa si tratta?}
 {342}{}{Certo. Sei pronto ad installarlo?}
-{350}{}{Surprised? Never doubt my knowledge about atomic power plants. I know everything there is to know about them.}
+{350}{}{Sei sorpreso? Ti ho ben detto che so tutto riguardo alle centrali nucleari. Avresti dovuto ascoltarmi.}
 {351}{}{Beh, dal momento che sai cos'e', saprai anche come si installa.}
 {352}{}{Credo di averti ascoltato anche troppo. Addio.}
 {360}{}{Certo che lo so. Beh, e' una vera sciocchezza per una persona con la mia esperienza e il mio talento. Quand'ero ancora un bambino ci sono stato svezzato, sui Regolatori di Magnetosfera.}

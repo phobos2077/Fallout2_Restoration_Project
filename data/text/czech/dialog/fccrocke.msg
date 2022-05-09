@@ -19,7 +19,7 @@
 {118}{}{Ne. Mám další otázky.}
 {119}{}{Jo, jistì.}
 {120}{}{Vyvinul jsem novou technologii a na oplátku si mùžu užít trochu kultistické lásky, jestli mi rozumíš.}
-{121}{}{Takže ty nejsi Hubologista?}
+{121}{}{So you're not a Hubologist?}
 {122}{}{Chápu. Mám další otázky.}
 {123}{}{Ne. Co tím myslíš?}
 {124}{}{Jakou novou technologii jsi vyvinul?}

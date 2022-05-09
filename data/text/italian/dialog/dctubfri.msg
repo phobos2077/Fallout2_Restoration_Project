@@ -1,4 +1,4 @@
-{100}{}{You see a druggie.}
+{100}{}{You see a drug addict.}
 {110}{}{Vedi uno schiavo del Jet.}
 {111}{}{Vedi uno schiavo del Jet di Tubby.}
 {150}{}{Sembra essere un amico di Tubby.}

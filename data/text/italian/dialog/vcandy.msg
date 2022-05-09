@@ -247,7 +247,7 @@
 {346}{}{Uh, beh, okay... ma ti ho gia' detto che potrebbe non essere molto sicuro.}
 {347}{}{ dollari per tutto il gruppo e possiamo procedere. La terapia non funzionera' sul tuo cervello robot, amico. Cosa ne dici?}
 {348}{}{Forte! Ho sempre desiderato di assomigliare a Kryten! Ecco i soldi e l'armatura.}
-{349}{}{All right. Here we go.}
+{349}{}{D'accordo. Procediamo.}
 {350}{}{Hai perso -4 PV Massimi.}
 {351}{}{Wahh? Me no sento ancora bene. Ora me andare a nanna.}
 {352}{}{Ugh...otay. Ciaoooo}

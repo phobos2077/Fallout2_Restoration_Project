@@ -10,7 +10,7 @@
 {229}{}{Siamo troppo forti.}
 {230}{}{Gli abbiamo fatto un fottuto culo cosi'! Cazzo, si'!}
 {250}{}{E' con Tyler che deve parlare, non con me, signorina.}
-{251}{}{What's up. You need something; you gotta talk to Tyler here.}
+{251}{}{Cosa c'e'? Se ti serve qualcosa, devi parlare con Tyler.}
 {252}{}{Che cos'hai da guardare?}
 {253}{}{E' con Tyler che devi parlare, non con me, amico.}
 {255}{}{Faremo un bel macello, stanotte!}

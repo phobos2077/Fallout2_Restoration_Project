@@ -19,7 +19,7 @@
 {118}{}{Nem. Kérdéseket akarok feltenni.}
 {119}{}{Valahogy úgy...}
 {120}{}{Új technológiák fejlesztésén dolgozom és azon vagyok, hogy néha leessen ez-az a kultistáktól, ha érti, mire gondolok.}
-{121}{}{Szóval maga nem Hubologista?}
+{121}{}{So you're not a Hubologist?}
 {122}{}{Fogom. Volna viszont még néhány kérdésem.}
 {123}{}{Nem. Mire gondol?}
 {124}{}{Miféle új technológiákat fejlesztett eddig?}

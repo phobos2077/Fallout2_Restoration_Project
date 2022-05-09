@@ -150,7 +150,7 @@
 {251}{}{Tessera Presidenziale di Sicurezza riconosciuta. Buongiorno, signor Presidente... Spegnimento d'Emergenza del Sistema di Sicurezza: inizializzazione in corso... Programma diagnostico approfondito: Esecuzione in corso. Alpha...Bravo...Charlie...}
 {252}{}{(Per qualche strana ragione non credo di volerlo fare adesso.) Indietro.}
 {253}{}{(Faro' meglio a sbrigarmi, intanto che questo coso sta ancora eseguendo quel programma diagnostico.) Esci.}
-{254}{}{Presidential Security Passkey not recognized. Access denied.}
+{254}{}{Tessera Presidenziale di Sicurezza non riconosciuta.  Accesso negato.}
 {255}{}{(Hmm, mi domando se, penetrando nei file d'accesso, sia possibile far credere allo scanner che io abbia la tessera. Credo che faro' un tentativo.)}
 {256}{}{(Oh beh... almeno ci ho provato.) Indietro.}
 {257}{}{Security Passkey Scanner malfunction noted... Reinitializing scanner...}
