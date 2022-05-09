@@ -13,8 +13,8 @@
 {109}{}{Never mind.}
 {110}{}{Ug.}
 {111}{}{Here's what I got: }
-{112}{}{ regular gecko pelts.}
-{113}{}{ golden gecko pelts.}
+{112}{}{regular gecko pelts.}
+{113}{}{golden gecko pelts.}
 {114}{}{I'll take all you got.}
 {115}{}{Maybe next time. Bye.}
 {116}{}{Nice doing business with ya. See you around.}

@@ -247,13 +247,13 @@ procedure Node003 begin
 
    // added by killap - expansion
    if (gecko_pelt_num == 0 and gecko_gold_pelt_num > 0) then
-      gecko_pelt_inv_msg := mstr(140) + gecko_gold_pelt_num + mstr(113);
+      gecko_pelt_inv_msg := mstr(140) + gecko_gold_pelt_num + " " + mstr(113);
    else if (gecko_pelt_num > 0 and gecko_gold_pelt_num == 0) then
-      gecko_pelt_inv_msg := mstr(141) + gecko_pelt_num + mstr(112);
+      gecko_pelt_inv_msg := mstr(141) + gecko_pelt_num + " " + mstr(112);
    else if (gecko_pelt_num == 0 and gecko_gold_pelt_num == 0) then
       gecko_pelt_inv_msg := mstr(142);
    else
-      gecko_pelt_inv_msg := mstr(111) + gecko_pelt_num + mstr(112) + " " + gecko_gold_pelt_num + mstr(113);
+      gecko_pelt_inv_msg := mstr(111) + " " + gecko_pelt_num + " " + mstr(112) + " " + gecko_gold_pelt_num + " " + mstr(113);
    // end added
 
    Reply(gecko_pelt_inv_msg);

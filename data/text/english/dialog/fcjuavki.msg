@@ -92,7 +92,7 @@
 {191}{}{Him: You made a life-altering decision. Her: And sadly, it was the wrong one. Both: Guards! Guards!}
 {192}{}{Damn.}
 {193}{}{Him: Greetings,}
-{194}{}{So what do I do now that I'm an Hubologist?}
+{194}{}{So what do I do now that I'm a Hubologist?}
 {195}{}{How can I hook up with you guys?}
 {196}{}{That's pretty much all I wanted. So long!}
 {197}{}{}

@@ -499,7 +499,7 @@
 {48100}{}{Special Gecko Critter}
 {48200}{}{Grim Reaper}
 {48300}{}{Frank Horrigan}
-{48301}{}{The President's Body Guard.}
+{48301}{}{The President's Bodyguard.}
 {48400}{}{Nessa}
 {48401}{}{The ghost of dead Nessa.}
 {48500}{}{Shaman}

@@ -296,7 +296,7 @@
 {660}{}{Louis Salvatore lives. Why have you returned?}
 {661}{}{(A bead of sweat trickles down the side of Mordino's face.) You have done as I asked? Louis Salvatore is dead?}
 {662}{}{He is dead. Your family is avenged, Senor Mordino.}
-{663}{}{I shall return when I have killed him.}
+{663}{}{No, I shall return when I have killed him.}
 {664}{}{Salvatore's too well-guarded. I'm going to have to cancel on this job.}
 
 # 40. TRY AND QUIT SALVATORE JOB (39)
@@ -366,7 +366,7 @@
  a deep, rattling breath.) I have NO work for you.}
 {771}{}{C'mon, give me a chance. Give me a job, any job... I can do it.}
 
-# 51. RAMIREZ IS A jethead (24)
+# 51. RAMIREZ IS A JETHEAD (24)
 {780}{}{Not everyone at the Stables... KNOWS they are test subjects.}
 {781}{}{Uh... come again?}
 {782}{}{Oh. Uh, about my payment then...}

@@ -53,7 +53,7 @@
 
 {190}{}{It sure would be nice to have some help. But, you see, no one else is qualified to do what I do.
  They don't even understand the basics of what I do.}
-{191}{}{How could anyone hope to keep up with you?}
+{191}{}{How could anyone hope to keep up with you? You're above everyone.}
 {192}{}{You're really special, no doubt about it. Goodbye.}
 
 {200}{}{You know I am. I can tell that you really understand things like this. If I weren't so busy here
@@ -126,7 +126,7 @@
 {341}{}{You actually know what that is?}
 {342}{}{Of course. Are you ready to install it?}
 
-{350}{}{Surprised? Never doubt my knowledge about atomic power plants. I know everything there is to know about them.}
+{350}{}{Surprised? I told you that I know all about atomic power plants. You shoulda listened to me.}
 {351}{}{Well, since you know what it is, you must know how to install it.}
 {352}{}{I think I've listened to you too much already. Goodbye.}
 

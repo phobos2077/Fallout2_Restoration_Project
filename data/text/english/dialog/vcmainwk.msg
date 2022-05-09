@@ -261,4 +261,3 @@
 {358}{}{}
 {359}{}{Hey, I have those tools you wanted.}
 {360}{}{It doesn't look like you have much of anything that I could tinker with. I mostly do pistols, rifles, that sort of thing.}
-

@@ -177,7 +177,7 @@
 {403}{}{I, uh, saw him. He said he was running off with another woman. Whoa! Look at the time. I've gotta run.}
 {404}{}{Uh, I, uh, we, that is... Uh, no. I'm still looking for him. I'm sure he'll show up any day now. Uh, Goodbye.}
 
-{410}{}{Eaten by geckos? I just don't believe you. Geckos would never catch my Smilely, he's too good a trapper for that. You must be mistaken.}
+{410}{}{Eaten by geckos? I just don't believe you. Geckos would never catch my Smiley, he's too good a trapper for that. You must be mistaken.}
 {411}{}{Yeah, you're probably right. Sorry for the scare. Let me ask you about something.}
 {412}{}{Nope, I saw him, or what was left of him anyway. Not a pretty sight. Well, see ya later. Goodbye.}
 {413}{}{I guess you've got me there. Heh, heh, I was just pulling your, ah, leg. Yeah, that's it. Well, Goodbye.}

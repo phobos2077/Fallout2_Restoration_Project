@@ -19,7 +19,7 @@
 {118}{}{No. I have more questions.}
 {119}{}{Yeah, sure.}
 {120}{}{I develop new technology and I get my share of cultist tail, if you catch my meaning.}
-{121}{}{So you're not an Hubologist?}
+{121}{}{So you're not a Hubologist?}
 {122}{}{I got it. I have more questions.}
 {123}{}{No. What do you mean?}
 {124}{}{What new tech have you developed?}

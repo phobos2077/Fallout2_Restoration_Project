@@ -66,8 +66,7 @@
 {5201}{}{! If you're lookin' to celebrate with some Jet, come talk to Jimmy J...}
 #related
 # 7. 2nd TIME, PLAYER GOT THE BULLSHIT SPEECH (WTG)
-{290}{}{Knew you'd be back, knew it! Didn't Jagged Jimmy J say that be the WAY? Keep 'em happy, and they'll never let you down. So
- my pilot friend... what can Jagged Jimmy J do for you today?}
+{290}{}{Knew you'd be back, knew it! Didn't Jagged Jimmy J say that it would be that WAY? Keep 'em happy, and they'll never let you down. So my pilot friend... what can Jagged Jimmy J do for you today?}
 {291}{}{Well, well, if it ain't my pilot "friend"...you comin' back round cause you NEED something from Jagged Jimmy?}
 {292}{}{Um... Me forgot what me goin' to say. Me go}
 {294}{}{We trad stuf? Me LIKE stuf}
