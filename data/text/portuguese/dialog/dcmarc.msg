@@ -10,7 +10,7 @@
 {229}{}{Nós somos muito bons.}
 {230}{}{Nós caralho chutamos algumas bundas! Foda-se!}
 {250}{}{Tyler é o único a falar, eu não, senhora.}
-{251}{}{What's up. You need something, you gotta talk to Tyler here.}
+{251}{}{Estás bem. Você precisa de algo; você tem que falar com Tyler aqui.}
 {252}{}{O que você está procurando?}
 {253}{}{Tyler é a pessoa com quem falar, não eu, cara.}
 {255}{}{Vamos arrasar hoje à noite!}

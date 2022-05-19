@@ -19,7 +19,7 @@
 {118}{}{No. Tengo más preguntas.}
 {119}{}{Sí, claro.}
 {120}{}{Desarrollo nuevas tecnologías y consigo mi trozo de la tarta cultista, no sé si me entiendes.}
-{121}{}{So you're not a Hubologist?}
+{121}{}{¿Así que no eres un Hubologista?}
 {122}{}{Entiendo. Tengo más preguntas.}
 {123}{}{No. ¿Qué quieres decir?}
 {124}{}{¿Qué nueva tecnología has desarrollado?}
