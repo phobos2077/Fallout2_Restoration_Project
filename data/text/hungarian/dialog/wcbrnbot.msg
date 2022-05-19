@@ -104,7 +104,8 @@
 {203}{}{Viszlát!}
 {204}{}{Biztonsági rendszer deaktiválva az 1. szinten.}
 {205}{}{Biztonsági rendszer deaktiválva a 2. szinten.}
-{206}{}{Deactivating all Security - Level 4}
+{206}{}{Biztonsági rendszer deaktiválva a 3. szinten.}
+{207}{}{Deactivating all Security - Level 4}
 {306}{}{[Ez a szerkentyű még hasznos lehet.]}
 {400}{}{Tedd el a fegyvert!}
 {410}{}{Brümmmmmm}

@@ -109,7 +109,8 @@
 {203}{}{Bywaj.}
 {204}{}{Wyłączanie systemów ochronnych - Poziom 1}
 {205}{}{Wyłączanie systemów ochronnych - Poziom 2}
-{206}{}{Deactivating all Security - Level 4}
+{206}{}{Wyłączanie systemów ochronnych - Poziom 3}
+{207}{}{Deactivating all Security - Level 4}
 {306}{}{[Ta kupa złomu może się przydać.]}
 {400}{}{Odłóż broń.}
 {410}{}{Whirrr}

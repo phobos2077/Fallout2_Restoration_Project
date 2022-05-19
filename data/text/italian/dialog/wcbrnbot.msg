@@ -104,7 +104,8 @@
 {203}{}{Addio.}
 {204}{}{Disattivazione completa sistemi di Sicurezza - Livello 1 - in corso...}
 {205}{}{Disattivazione completa sistemi di Sicurezza - Livello 2 - in corso...}
-{206}{}{Deactivating all Security - Level 4}
+{206}{}{Disattivazione completa sistemi di Sicurezza - Livello 3 - in corso...}
+{207}{}{Deactivating all Security - Level 4}
 {306}{}{[Questo marchingegno potrebbe rivelarsi utile.]}
 {400}{}{Metti via la tua arma.}
 {410}{}{Whirrr}

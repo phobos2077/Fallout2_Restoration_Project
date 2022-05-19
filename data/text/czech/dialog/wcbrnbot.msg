@@ -104,7 +104,8 @@
 {203}{}{Nashle.}
 {204}{}{Deaktivace bezpeènostních systémù - Úroveò 1}
 {205}{}{Deaktivace bezpeènostních systémù - Úroveò 2}
-{206}{}{Deactivating all Security - Level 4}
+{206}{}{Deaktivace bezpeènostních systémù - Úroveò 3}
+{207}{}{Deactivating all Security - Level 4}
 {306}{}{(Tahle mašinka by mohla být užiteèná.)}
 {400}{}{Odlož svou zbraò.}
 {410}{}{Bzzzzz}
