@@ -1,50 +1,50 @@
-{100}{}{Vidíš stùl na Black Jack.}
-{101}{}{Vidíš krupiéra Black Jacku.}
-{102}{}{Dáte si partièku Black Jacku? Minimální sázka je $}
+{100}{}{VidÃ­Å¡ stÅ¯l na Black Jack.}
+{101}{}{VidÃ­Å¡ krupiÃ©ra Black Jacku.}
+{102}{}{DÃ¡te si partiÄku Black Jacku? MinimÃ¡lnÃ­ sÃ¡zka je $}
 {103}{}{.}
-{104}{}{Jasnì.}
-{105}{}{Ne, díky.}
-{106}{}{CO? Blek ek?}
-{107}{}{Promiòte, ale myslím, e nemáte dost penìz na minimální vklad. Rádi vás tu uvidíme zpìt i s penìzi.}
-{108}{}{Dobøe, všechny vklady jsou vloeny.}
+{104}{}{JasnÄ›.}
+{105}{}{Ne, dÃ­ky.}
+{106}{}{CO? Blek Å½ek?}
+{107}{}{PromiÅˆte, ale myslÃ­m, Å¾e nemÃ¡te dost penÄ›z na minimÃ¡lnÃ­ vklad. RÃ¡di vÃ¡s tu uvidÃ­me zpÄ›t i s penÄ›zi.}
+{108}{}{DobÅ™e, vÅ¡echny vklady jsou vloÅ¾eny.}
 {109}{}{[Rozdat]}
-{110}{}{Tohle je stùl na Black Jack. Minimální vklad je $}
+{110}{}{Tohle je stÅ¯l na Black Jack. MinimÃ¡lnÃ­ vklad je $}
 {111}{}{.}
-{112}{}{Dostáváš }
+{112}{}{DostÃ¡vÃ¡Å¡ }
 {113}{}{ }
 {114}{}{, }
 {115}{}{ a }
 {116}{}{ barva: }
 {117}{}{. Black Jack}
-{118}{}{. Pøes}
+{118}{}{. PÅ™es}
 {119}{}{.}
-{120}{}{Krupiér má }
-{121}{}{[Více]}
-{122}{}{(Pøi míchání balíèku.) Chcete hrát znovu?}
-{123}{}{Promiòte, ale zdá se, e byla pøekroèena hranice vaší finanèní hotovosti. Musím vás poádat o odchod.}
-{124}{}{Vyhráváš kolo.}
-{125}{}{Krupiér vyhrává kolo.}
-{126}{}{Nerozhodnì.}
-{127}{}{Jistì, ádnı problém.}
-{128}{}{Já ti ukáu hranici!}
-{129}{}{Nemohu vám dále umonit hru. Prosím, opuste toto místo.}
+{120}{}{KrupiÃ©r mÃ¡ }
+{121}{}{[VÃ­ce]}
+{122}{}{(PÅ™i mÃ­chÃ¡nÃ­ balÃ­Äku.) Chcete hrÃ¡t znovu?}
+{123}{}{PromiÅˆte, ale zdÃ¡ se, Å¾e byla pÅ™ekroÄena hranice vaÅ¡Ã­ finanÄnÃ­ hotovosti. MusÃ­m vÃ¡s poÅ¾Ã¡dat o odchod.}
+{124}{}{VyhrÃ¡vÃ¡Å¡ kolo.}
+{125}{}{KrupiÃ©r vyhrÃ¡vÃ¡ kolo.}
+{126}{}{NerozhodnÄ›.}
+{127}{}{JistÄ›, Å¾Ã¡dnÃ½ problÃ©m.}
+{128}{}{JÃ¡ ti ukÃ¡Å¾u hranici!}
+{129}{}{Nemohu vÃ¡m dÃ¡le umoÅ¾nit hru. ProsÃ­m, opusÅ¥te toto mÃ­sto.}
 {130}{}{Och, pardon.}
-{131}{}{Vyhráváš $}
+{131}{}{VyhrÃ¡vÃ¡Å¡ $}
 {132}{}{.}
 {201}{}{eso}
 {202}{}{dva}
-{203}{}{tøi}
-{204}{}{ètyøi}
-{205}{}{pìt}
-{206}{}{šest}
+{203}{}{tÅ™i}
+{204}{}{ÄtyÅ™i}
+{205}{}{pÄ›t}
+{206}{}{Å¡est}
 {207}{}{sedm}
 {208}{}{osm}
-{209}{}{devìt}
+{209}{}{devÄ›t}
 {210}{}{deset}
 {211}{}{kluka}
-{212}{}{dámu}
-{213}{}{krále}
+{212}{}{dÃ¡mu}
+{213}{}{krÃ¡le}
 {251}{}{Srdce}
-{252}{}{Kára}
+{252}{}{KÃ¡ra}
 {253}{}{Piky}
-{254}{}{Køíe}
+{254}{}{KÅ™Ã­Å¾e}

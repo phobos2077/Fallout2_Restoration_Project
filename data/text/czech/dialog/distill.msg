@@ -1,4 +1,4 @@
-{100}{}{Vidíš destilátor.}
-{101}{}{Áááá, tak Becky má destilátor. Radìji to øeknu Frediemu.}
-{102}{}{Vidíš znièenı destilátor.}
-{103}{}{Destilátor byl znièen.}
+{100}{}{VidÃ­Å¡ destilÃ¡tor.}
+{101}{}{ÃÃ¡Ã¡Ã¡, tak Becky mÃ¡ destilÃ¡tor. RadÄ›ji to Å™eknu Frediemu.}
+{102}{}{VidÃ­Å¡ zniÄenÃ½ destilÃ¡tor.}
+{103}{}{DestilÃ¡tor byl zniÄen.}

@@ -1,12 +1,12 @@
-{100}{}{Vidíš vodní pumpu.}
-{101}{}{Vidíš velmi starou vodní pumpu. Vypadá, e nefunguje.}
-{102}{}{Vodní pumpa teï pracuje v poøádku.}
-{103}{}{K opravì tohoto stroje budeš potøebovat víc ne jen holé ruce. Moná by ti k namontování souèástky pomohlo nìjaké náøadí.}
-{104}{}{Podaøilo se ti opravit vodní pumpu.}
-{105}{}{Nepodaøilo se ti opravit vodní pumpu.}
-{106}{}{Podaøilo se ti zjistit, co je špatnì s vodní pumpou.}
-{200}{}{Otevíráš stroj a díváš se dovnitø. Vidíš spoustu zrezivìlıch soukolí a motorù. Na jednom z motorù je prasklina.}
-{201}{}{Pro dnešek skonèit.}
-{202}{}{Zjistit víc.}
-{203}{}{Po bliším prozkoumání zjišuješ, e prasklina není pøíèinou problému, ale spíš spoj, do kterého vedou dráty. Spoje jsou spálené léty pouívání. Tohle bude chtít kompletnì novı motor a taky novou sadu drátù, aby stroj mohl znovu pracovat.}
+{100}{}{VidÃ­Å¡ vodnÃ­ pumpu.}
+{101}{}{VidÃ­Å¡ velmi starou vodnÃ­ pumpu. VypadÃ¡, Å¾e nefunguje.}
+{102}{}{VodnÃ­ pumpa teÄ pracuje v poÅ™Ã¡dku.}
+{103}{}{K opravÄ› tohoto stroje budeÅ¡ potÅ™ebovat vÃ­c neÅ¾ jen holÃ© ruce. MoÅ¾nÃ¡ by ti k namontovÃ¡nÃ­ souÄÃ¡stky pomohlo nÄ›jakÃ© nÃ¡Å™adÃ­.}
+{104}{}{PodaÅ™ilo se ti opravit vodnÃ­ pumpu.}
+{105}{}{NepodaÅ™ilo se ti opravit vodnÃ­ pumpu.}
+{106}{}{PodaÅ™ilo se ti zjistit, co je Å¡patnÄ› s vodnÃ­ pumpou.}
+{200}{}{OtevÃ­rÃ¡Å¡ stroj a dÃ­vÃ¡Å¡ se dovnitÅ™. VidÃ­Å¡ spoustu zrezivÄ›lÃ½ch soukolÃ­ a motorÅ¯. Na jednom z motorÅ¯ je prasklina.}
+{201}{}{Pro dneÅ¡ek skonÄit.}
+{202}{}{Zjistit vÃ­c.}
+{203}{}{Po bliÅ¾Å¡Ã­m prozkoumÃ¡nÃ­ zjiÅ¡Å¥ujeÅ¡, Å¾e prasklina nenÃ­ pÅ™Ã­Äinou problÃ©mu, ale spÃ­Å¡ spoj, do kterÃ©ho vedou drÃ¡ty. Spoje jsou spÃ¡lenÃ© lÃ©ty pouÅ¾Ã­vÃ¡nÃ­. Tohle bude chtÃ­t kompletnÄ› novÃ½ motor a taky novou sadu drÃ¡tÅ¯, aby stroj mohl znovu pracovat.}
 {204}{}{Konec.}

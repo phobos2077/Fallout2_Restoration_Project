@@ -1,11 +1,11 @@
-{100}{}{Vidíš dítì vykøikující reklamní slogany.}
-{101}{}{Toto dítì, jak se zdá, je placeno za to, aby propagovalo urèitı druh turistické atrakce.}
-{500}{}{Uvidíte tajemnou mumii!}
-{501}{}{Uvidíte starobylı skvost!}
-{502}{}{Nefalšovaná mumie, právì teï!}
-{503}{}{Uvidíte egyptského prince!}
-{504}{}{Uvidíte Královnu Nilu!}
-{505}{}{Vstupte do skuteèného domu hrùzy!}
-{506}{}{Záhada Podsvìtí vynesena na svìtlo svìta!}
-{507}{}{Pøijïte, pøijïte všichni!}
-{508}{}{ivotní pøíleitost!}
+{100}{}{VidÃ­Å¡ dÃ­tÄ› vykÅ™ikujÃ­cÃ­ reklamnÃ­ slogany.}
+{101}{}{Toto dÃ­tÄ›, jak se zdÃ¡, je placeno za to, aby propagovalo urÄitÃ½ druh turistickÃ© atrakce.}
+{500}{}{UvidÃ­te tajemnou mumii!}
+{501}{}{UvidÃ­te starobylÃ½ skvost!}
+{502}{}{NefalÅ¡ovanÃ¡ mumie, prÃ¡vÄ› teÄ!}
+{503}{}{UvidÃ­te egyptskÃ©ho prince!}
+{504}{}{UvidÃ­te KrÃ¡lovnu Nilu!}
+{505}{}{Vstupte do skuteÄnÃ©ho domu hrÅ¯zy!}
+{506}{}{ZÃ¡hada PodsvÄ›tÃ­ vynesena na svÄ›tlo svÄ›ta!}
+{507}{}{PÅ™ijÄte, pÅ™ijÄte vÅ¡ichni!}
+{508}{}{Å½ivotnÃ­ pÅ™Ã­leÅ¾itost!}

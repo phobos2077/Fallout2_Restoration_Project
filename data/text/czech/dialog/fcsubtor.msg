@@ -1,6 +1,6 @@
-{100}{}{Vidíš torpéda.}
-{101}{}{Tyhle nebezpeènì vypadající zbranì jsou a po okraj naplnìny vıbušninami. Jejich povrch je úplnì zkorodovanı a vypadá to, e lodní šrouby kadou chvíli upadnou.}
-{200}{}{Navzdory svému vzhledu je tohle torpédo stále nebezpeèná zbraò. Volnı lodní šroub je ve skuteènosti nedílnou souèástí navigaèního systému, umoòující nevídanou manévrovatelnost. Vypadá to, e k vyøazení torpéd budeš muset pouít náøadí.}
-{210}{}{Díky dvìma stoletím rozkladu jde pohonnı systém snadno demontovat. Bìhem chvilky všechno sloíš dohromady, ale tentokrát je torpédo neschopné pohybu.}
-{211}{}{Rezí prorostlı pohonnı systém je pro tebe tìká vızva. Matice jsou zaseklé a nenapadá tì ádnı zpùsob, jak odmontovat lodní šroub bez toho, ani by nedošlo k tvému zranìní.}
-{220}{}{Podaøilo se ti umístit vıbušninu vedle nìkolika vysoce vıbušnıch torpéd. Vypadnout odsud není vùbec špatnı nápad.}
+{100}{}{VidÃ­Å¡ torpÃ©da.}
+{101}{}{Tyhle nebezpeÄnÄ› vypadajÃ­cÃ­ zbranÄ› jsou aÅ¾ po okraj naplnÄ›ny vÃ½buÅ¡ninami. Jejich povrch je ÃºplnÄ› zkorodovanÃ½ a vypadÃ¡ to, Å¾e lodnÃ­ Å¡rouby kaÅ¾dou chvÃ­li upadnou.}
+{200}{}{Navzdory svÃ©mu vzhledu je tohle torpÃ©do stÃ¡le nebezpeÄnÃ¡ zbraÅˆ. VolnÃ½ lodnÃ­ Å¡roub je ve skuteÄnosti nedÃ­lnou souÄÃ¡stÃ­ navigaÄnÃ­ho systÃ©mu, umoÅ¾ÅˆujÃ­cÃ­ nevÃ­danou manÃ©vrovatelnost. VypadÃ¡ to, Å¾e k vyÅ™azenÃ­ torpÃ©d budeÅ¡ muset pouÅ¾Ã­t nÃ¡Å™adÃ­.}
+{210}{}{DÃ­ky dvÄ›ma stoletÃ­m rozkladu jde pohonnÃ½ systÃ©m snadno demontovat. BÄ›hem chvilky vÅ¡echno sloÅ¾Ã­Å¡ dohromady, ale tentokrÃ¡t je torpÃ©do neschopnÃ© pohybu.}
+{211}{}{RezÃ­ prorostlÃ½ pohonnÃ½ systÃ©m je pro tebe tÄ›Å¾kÃ¡ vÃ½zva. Matice jsou zaseklÃ© a nenapadÃ¡ tÄ› Å¾Ã¡dnÃ½ zpÅ¯sob, jak odmontovat lodnÃ­ Å¡roub bez toho, aniÅ¾ by nedoÅ¡lo k tvÃ©mu zranÄ›nÃ­.}
+{220}{}{PodaÅ™ilo se ti umÃ­stit vÃ½buÅ¡ninu vedle nÄ›kolika vysoce vÃ½buÅ¡nÃ½ch torpÃ©d. Vypadnout odsud nenÃ­ vÅ¯bec Å¡patnÃ½ nÃ¡pad.}

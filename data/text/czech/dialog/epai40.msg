@@ -1,3 +1,3 @@
-{100}{}{Vidíš schody.}
-{101}{}{Vidíš pracovní schody.}
-{200}{}{Zdá se, e je pod nimi zával. Budeš si muset najít jinou cestu.}
+{100}{}{VidÃ­Å¡ schody.}
+{101}{}{VidÃ­Å¡ pracovnÃ­ schody.}
+{200}{}{ZdÃ¡ se, Å¾e je pod nimi zÃ¡val. BudeÅ¡ si muset najÃ­t jinou cestu.}

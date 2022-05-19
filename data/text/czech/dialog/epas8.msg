@@ -1,1 +1,1 @@
-{100}{}{Touhle ventilaèní šachtou by se šlo protáhnout. Vìtrák vypadá opotøebovanì, take urèitì pùjde nìjak zablokovat.}
+{100}{}{Touhle ventilaÄnÃ­ Å¡achtou by se Å¡lo protÃ¡hnout. VÄ›trÃ¡k vypadÃ¡ opotÅ™ebovanÄ›, takÅ¾e urÄitÄ› pÅ¯jde nÄ›jak zablokovat.}

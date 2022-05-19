@@ -1,33 +1,33 @@
-{100}{}{Vidíš znudìnou osobu v koené zbroji.}
-{101}{}{Vidíš Maxe, stráce karavany.}
-{102}{}{Vidíš zaprášenou, znudìnou osobu v koené zbroji. Podle zápachu brahmín a sebejisté chùze je jasné, e je stráce karavan.}
-{103}{}{Mùu ti nìjak pomoct?}
+{100}{}{VidÃ­Å¡ znudÄ›nou osobu v koÅ¾enÃ© zbroji.}
+{101}{}{VidÃ­Å¡ Maxe, strÃ¡Å¾ce karavany.}
+{102}{}{VidÃ­Å¡ zaprÃ¡Å¡enou, znudÄ›nou osobu v koÅ¾enÃ© zbroji. Podle zÃ¡pachu brahmÃ­n a sebejistÃ© chÅ¯ze je jasnÃ©, Å¾e je strÃ¡Å¾ce karavan.}
+{103}{}{MÅ¯Å¾u ti nÄ›jak pomoct?}
 {104}{}{He?}
-{105}{}{Já pracovat tady!}
+{105}{}{JÃ¡ pracovat tady!}
 {106}{}{Kdo jsi?}
-{107}{}{Co mi mùeš øíct o Chadovi?}
-{108}{}{S idioty nemám strpení. Promiò kámo, ale budeš si muset najít na hraní nìkoho jiného.}
+{107}{}{Co mi mÅ¯Å¾eÅ¡ Å™Ã­ct o Chadovi?}
+{108}{}{S idioty nemÃ¡m strpenÃ­. PromiÅˆ kÃ¡mo, ale budeÅ¡ si muset najÃ­t na hranÃ­ nÄ›koho jinÃ©ho.}
 {109}{}{::smrk::}
-{110}{}{Jsem Max, jeden ze strácù karavan.}
-{111}{}{Co mi mùeš øíct o Chadovi?}
-{112}{}{Dík. Naskle.}
-{113}{}{Upøímnì, nezáleí mi na nìm. Poslední dobou rozhazuje dost penìz. Teda jo, je správce karavan, take si samozøejmì bere vìtší podíl, to chápu, ale není monı, e by byl a *tak* ve vatì. Myslím, e by bylo *opravdu* zajímavı nahlédnout do jeho záznamù.}
-{114}{}{Marcus mi øekl, e podezøívá Chada z ulévání èásti penìz, které jsou urèené pro Broken Hills. Øekl jsem mu, e se na to podívám.}
-{115}{}{Dík. Naskle.}
-{116}{}{Díky. Jsem opravdu rád, e je to vyøízené. Ale mìl by sis teï hlídat záda.}
+{110}{}{Jsem Max, jeden ze strÃ¡Å¾cÅ¯ karavan.}
+{111}{}{Co mi mÅ¯Å¾eÅ¡ Å™Ã­ct o Chadovi?}
+{112}{}{DÃ­k. Naskle.}
+{113}{}{UpÅ™Ã­mnÄ›, nezÃ¡leÅ¾Ã­ mi na nÄ›m. PoslednÃ­ dobou rozhazuje dost penÄ›z. Teda jo, je sprÃ¡vce karavan, takÅ¾e si samozÅ™ejmÄ› bere vÄ›tÅ¡Ã­ podÃ­l, to chÃ¡pu, ale nenÃ­ moÅ¾nÃ½, Å¾e by byl aÅ¾ *tak* ve vatÄ›. MyslÃ­m, Å¾e by bylo *opravdu* zajÃ­mavÃ½ nahlÃ©dnout do jeho zÃ¡znamÅ¯.}
+{114}{}{Marcus mi Å™ekl, Å¾e podezÅ™Ã­vÃ¡ Chada z ulÃ©vÃ¡nÃ­ ÄÃ¡sti penÄ›z, kterÃ© jsou urÄenÃ© pro Broken Hills. Å˜ekl jsem mu, Å¾e se na to podÃ­vÃ¡m.}
+{115}{}{DÃ­k. Naskle.}
+{116}{}{DÃ­ky. Jsem opravdu rÃ¡d, Å¾e je to vyÅ™Ã­zenÃ©. Ale mÄ›l by sis teÄ hlÃ­dat zÃ¡da.}
 {117}{}{Nashle.}
-{118}{}{Nepøítel! Chcípni!}
+{118}{}{NepÅ™Ã­tel! ChcÃ­pni!}
 {119}{}{A sakra.}
-{120}{}{(Ztiší hlas a rozhlédne se kolem.) To bude ono. Na posledním uranovém svozu do Gecka jsem pracoval jako stráce a zaslechl jsem, jak se Chad hádá s jejich ghoulím zástupcem. Podle všeho Broken Hills nedávno zvıšilo cenu uranu a ten ghoul z toho nemìl radost. Potom jsem slyšel, jak mu Chad vysvìtluje, e naše zásoby uranu docházejí kvùli nedávné stávce horníkù, jenome ádná stávka nikdy neprobìhla.}
-{121}{}{Opravdu? Tak proè jsi o tom neøekl nic Marcusovi?}
-{122}{}{Blázníš? Chad má v tomhle mìstì velikı vliv a taky má spoustu pøátel. Kdy se ho pokusím prásknout, tak mì tu spousta lidí zaène nenávidìt a moná by mì i zabili.}
-{123}{}{Hmm, tak to nejspíš øeknu Marcusovi já. Stejnì tu nehodlám zùstat delší dobu.}
-{124}{}{Hele, dìlej si co chceš, jen mì do toho netahej.}
-{125}{}{ádnı problém. Nashle.}
-{126}{}{Vlastnì ještì nìco. Vím, e si Chad vede záznamy o kadé provedené transakci. Je tak trochu úchyl na záznamy. Vsadím se, e je a takovej blázen, e má dokonce i záznamy o všech penìzích, kterı si ulil. Problém je v tom, e všechny vìci drí hezky pod zámkem ve svım domì na druhı stranì mìsta a neexistuje ádnı zpùsob, jak se tam dostat, protoe jeho systém zámkù je pøíliš sloitı. Jen ti opìt pøipomenu, e jsme spolu nikdy nemluvili.}
-{127}{}{Já u si cestu najdu. Díky za informace.}
-{128}{}{Sloitı systém? A jak se tam mám teda dostat?}
-{129}{}{(Max se na chvíli zamyslí.) Dobøe, poslouchej. Vypadáš jako nìkdo, komu mùu vìøit. Dveøe do Chadova domu jsou uzamèené pomocí toho nejpokroèilejšího ne-elektronického systému zámkù, kterı vùbec existuje. Je to opravdovı krasavec. Vím to, protoe jsem ho sám navrhl. Víš, ještì ne jsem se stal strácem karavan, byl jsem zámeèník. A jeliko pøedpokládám, e se budeš chtít dostat do toho domu, tak ti ukáu, jak tyhle zámky vypáèit.}
-{130}{}{(O pìt minut pozdìji je Max s vysvìtlováním hotov.) Tak, to by mìlo staèit na to, aby ten zámek povolil. S tìmahle informacema ho zvládne vypáèit i úplnı blbec. A dávej si pozor. Jo a nikdy jsme nevedli tenhle rozhovor.}
-{131}{}{Neboj. Díky za informace.}
-{200}{}{Dozvídáš se o Chadovì nedávném ulévání penìz z karavan do Gecka.}
+{120}{}{(ZtiÅ¡Ã­ hlas a rozhlÃ©dne se kolem.) To bude ono. Na poslednÃ­m uranovÃ©m svozu do Gecka jsem pracoval jako strÃ¡Å¾ce a zaslechl jsem, jak se Chad hÃ¡dÃ¡ s jejich ghoulÃ­m zÃ¡stupcem. Podle vÅ¡eho Broken Hills nedÃ¡vno zvÃ½Å¡ilo cenu uranu a ten ghoul z toho nemÄ›l radost. Potom jsem slyÅ¡el, jak mu Chad vysvÄ›tluje, Å¾e naÅ¡e zÃ¡soby uranu dochÃ¡zejÃ­ kvÅ¯li nedÃ¡vnÃ© stÃ¡vce hornÃ­kÅ¯, jenomÅ¾e Å¾Ã¡dnÃ¡ stÃ¡vka nikdy neprobÄ›hla.}
+{121}{}{Opravdu? Tak proÄ jsi o tom neÅ™ekl nic Marcusovi?}
+{122}{}{BlÃ¡znÃ­Å¡? Chad mÃ¡ v tomhle mÄ›stÄ› velikÃ½ vliv a taky mÃ¡ spoustu pÅ™Ã¡tel. KdyÅ¾ se ho pokusÃ­m prÃ¡sknout, tak mÄ› tu spousta lidÃ­ zaÄne nenÃ¡vidÄ›t a moÅ¾nÃ¡ by mÄ› i zabili.}
+{123}{}{Hmm, tak to nejspÃ­Å¡ Å™eknu Marcusovi jÃ¡. StejnÄ› tu nehodlÃ¡m zÅ¯stat delÅ¡Ã­ dobu.}
+{124}{}{Hele, dÄ›lej si co chceÅ¡, jen mÄ› do toho netahej.}
+{125}{}{Å½Ã¡dnÃ½ problÃ©m. Nashle.}
+{126}{}{VlastnÄ› jeÅ¡tÄ› nÄ›co. VÃ­m, Å¾e si Chad vede zÃ¡znamy o kaÅ¾dÃ© provedenÃ© transakci. Je tak trochu Ãºchyl na zÃ¡znamy. VsadÃ­m se, Å¾e je aÅ¾ takovej blÃ¡zen, Å¾e mÃ¡ dokonce i zÃ¡znamy o vÅ¡ech penÄ›zÃ­ch, kterÃ½ si ulil. ProblÃ©m je v tom, Å¾e vÅ¡echny vÄ›ci drÅ¾Ã­ hezky pod zÃ¡mkem ve svÃ½m domÄ› na druhÃ½ stranÄ› mÄ›sta a neexistuje Å¾Ã¡dnÃ½ zpÅ¯sob, jak se tam dostat, protoÅ¾e jeho systÃ©m zÃ¡mkÅ¯ je pÅ™Ã­liÅ¡ sloÅ¾itÃ½. Jen ti opÄ›t pÅ™ipomenu, Å¾e jsme spolu nikdy nemluvili.}
+{127}{}{JÃ¡ uÅ¾ si cestu najdu. DÃ­ky za informace.}
+{128}{}{SloÅ¾itÃ½ systÃ©m? A jak se tam mÃ¡m teda dostat?}
+{129}{}{(Max se na chvÃ­li zamyslÃ­.) DobÅ™e, poslouchej. VypadÃ¡Å¡ jako nÄ›kdo, komu mÅ¯Å¾u vÄ›Å™it. DveÅ™e do Chadova domu jsou uzamÄenÃ© pomocÃ­ toho nejpokroÄilejÅ¡Ã­ho ne-elektronickÃ©ho systÃ©mu zÃ¡mkÅ¯, kterÃ½ vÅ¯bec existuje. Je to opravdovÃ½ krasavec. VÃ­m to, protoÅ¾e jsem ho sÃ¡m navrhl. VÃ­Å¡, jeÅ¡tÄ› neÅ¾ jsem se stal strÃ¡Å¾cem karavan, byl jsem zÃ¡meÄnÃ­k. A jelikoÅ¾ pÅ™edpoklÃ¡dÃ¡m, Å¾e se budeÅ¡ chtÃ­t dostat do toho domu, tak ti ukÃ¡Å¾u, jak tyhle zÃ¡mky vypÃ¡Äit.}
+{130}{}{(O pÄ›t minut pozdÄ›ji je Max s vysvÄ›tlovÃ¡nÃ­m hotov.) Tak, to by mÄ›lo staÄit na to, aby ten zÃ¡mek povolil. S tÄ›mahle informacema ho zvlÃ¡dne vypÃ¡Äit i ÃºplnÃ½ blbec. A dÃ¡vej si pozor. Jo a nikdy jsme nevedli tenhle rozhovor.}
+{131}{}{Neboj. DÃ­ky za informace.}
+{200}{}{DozvÃ­dÃ¡Å¡ se o ChadovÄ› nedÃ¡vnÃ©m ulÃ©vÃ¡nÃ­ penÄ›z z karavan do Gecka.}

@@ -1,42 +1,42 @@
-{100}{}{Dorazil jsi na pouštní planinu poblí New Rena.}
-{110}{}{Vidíš nìkolik beden naplnìnıch chemikáliemi.}
-{120}{}{Vidíš nìkolik beden plnıch chemikálií. Nedokáeš øíct, co je to za chemikálie, ale jsou zabalené VELICE peèlivì.}
-{130}{}{Vidíš Vertibird.}
-{140}{}{Vidíš vertibird... vylepšenı druh vrtulníku. Bohuel nemáš nejmenší ponìtí o tom, jak se takovı vertibird ovládá.}
-{150}{}{Nemáš ponìtí, jak ho ovládat.}
-{200}{}{(Z tìch chápkù mi bìhá mráz po zádech...)}
-{201}{}{Dr hubu. U jdou.}
-{202}{}{*Zztttt* Máte zboí, které poadujeme? *Zzzttt**}
-{203}{}{Ano, všechny chemikálie jsou tady. Mùete si je zkontrolovat.}
-{204}{}{*Zztttt* To nebude nutné. *Zzzttt**}
-{205}{}{*Zztttt* Víte, co se stane, pokud chemikálie nebudou splòovat námi poadované specifikace? *Zzzttt**}
-{206}{}{Ano, samozøejmì. Eh, pøivezli jste ty svìtelné zbranì...?}
-{207}{}{*Zztttt* Laserové zbranì jsou v našem nákladovém prostoru. *Zzzttt**}
-{208}{}{*Zztttt* Jejich odjišovací kódy vám pošleme, a budou chemikálie naloeny. *Zzzttt**}
-{209}{}{Eh... no... tak dobøe. Zaènìte nakládat, chlapi...}
+{100}{}{Dorazil jsi na pouÅ¡tnÃ­ planinu poblÃ­Å¾ New Rena.}
+{110}{}{VidÃ­Å¡ nÄ›kolik beden naplnÄ›nÃ½ch chemikÃ¡liemi.}
+{120}{}{VidÃ­Å¡ nÄ›kolik beden plnÃ½ch chemikÃ¡liÃ­. NedokÃ¡Å¾eÅ¡ Å™Ã­ct, co je to za chemikÃ¡lie, ale jsou zabalenÃ© VELICE peÄlivÄ›.}
+{130}{}{VidÃ­Å¡ Vertibird.}
+{140}{}{VidÃ­Å¡ vertibird... vylepÅ¡enÃ½ druh vrtulnÃ­ku. BohuÅ¾el nemÃ¡Å¡ nejmenÅ¡Ã­ ponÄ›tÃ­ o tom, jak se takovÃ½ vertibird ovlÃ¡dÃ¡.}
+{150}{}{NemÃ¡Å¡ ponÄ›tÃ­, jak ho ovlÃ¡dat.}
+{200}{}{(Z tÄ›ch chÃ¡pkÅ¯ mi bÄ›hÃ¡ mrÃ¡z po zÃ¡dech...)}
+{201}{}{DrÅ¾ hubu. UÅ¾ jdou.}
+{202}{}{*Zztttt* MÃ¡te zboÅ¾Ã­, kterÃ© poÅ¾adujeme? *Zzzttt**}
+{203}{}{Ano, vÅ¡echny chemikÃ¡lie jsou tady. MÅ¯Å¾ete si je zkontrolovat.}
+{204}{}{*Zztttt* To nebude nutnÃ©. *Zzzttt**}
+{205}{}{*Zztttt* VÃ­te, co se stane, pokud chemikÃ¡lie nebudou splÅˆovat nÃ¡mi poÅ¾adovanÃ© specifikace? *Zzzttt**}
+{206}{}{Ano, samozÅ™ejmÄ›. Eh, pÅ™ivezli jste ty svÄ›telnÃ© zbranÄ›...?}
+{207}{}{*Zztttt* LaserovÃ© zbranÄ› jsou v naÅ¡em nÃ¡kladovÃ©m prostoru. *Zzzttt**}
+{208}{}{*Zztttt* Jejich odjiÅ¡Å¥ovacÃ­ kÃ³dy vÃ¡m poÅ¡leme, aÅ¾ budou chemikÃ¡lie naloÅ¾eny. *Zzzttt**}
+{209}{}{Eh... no... tak dobÅ™e. ZaÄnÄ›te naklÃ¡dat, chlapi...}
 {210}{}{*Zztttt* Ne. *Zzzttt**}
-{211}{}{*Zztttt* My naloíme zboí. *Zzzttt**}
-{212}{}{Eh, dobøe... dobøe. Jistì. Uhnìte jim, chlapi.}
-{213}{}{Fajn, hotovo. Zbytek stráí mùe jít zpátky do Rena. Sejdeme se tam.}
-{250}{}{Hele! Nìkdo nás sleduje!}
+{211}{}{*Zztttt* My naloÅ¾Ã­me zboÅ¾Ã­. *Zzzttt**}
+{212}{}{Eh, dobÅ™e... dobÅ™e. JistÄ›. UhnÄ›te jim, chlapi.}
+{213}{}{Fajn, hotovo. Zbytek strÃ¡Å¾Ã­ mÅ¯Å¾e jÃ­t zpÃ¡tky do Rena. Sejdeme se tam.}
+{250}{}{Hele! NÄ›kdo nÃ¡s sleduje!}
 {251}{}{Zabte je!}
-{252}{}{Vypadá to, e tu máme špióna...!}
-{253}{}{*Zztttt* Mise zrušena. Bezpeènostní sekvence nákladu aktivována. *Zzzttt**}
-{254}{}{*Zztttt* Zlikvidujte nepøítele a vrate se na základnu. *Zzzttt**}
-{300}{}{Nechoï k tìm obrnìncùm. Oddìlají tì.}
-{301}{}{Vra se zpátky na místo.}
-{302}{}{Pøestaò tady pobíhat... ti obrnìnci to nemají moc rádi.}
-{350}{}{Do prdele! Co to dìláš, kreténe?!}
-{351}{}{Vra se zpátky na místo! Co to sakra dìl...?!}
-{352}{}{*Zztttt* Mise zrušena. Bezpeènostní sekvence nákladu aktivována. *Zzzttt**}
-{353}{}{*Zztttt* Zlikvidujte nepøítele a vrate se na základnu. *Zzzttt**}
-{400}{}{[Vypadá to, e tam jsou dveøe. Otevøít a vlézt dovnitø?]}
+{252}{}{VypadÃ¡ to, Å¾e tu mÃ¡me Å¡piÃ³na...!}
+{253}{}{*Zztttt* Mise zruÅ¡ena. BezpeÄnostnÃ­ sekvence nÃ¡kladu aktivovÃ¡na. *Zzzttt**}
+{254}{}{*Zztttt* Zlikvidujte nepÅ™Ã­tele a vraÅ¥te se na zÃ¡kladnu. *Zzzttt**}
+{300}{}{NechoÄ k tÄ›m obrnÄ›ncÅ¯m. OddÄ›lajÃ­ tÄ›.}
+{301}{}{VraÅ¥ se zpÃ¡tky na mÃ­sto.}
+{302}{}{PÅ™estaÅˆ tady pobÃ­hat... ti obrnÄ›nci to nemajÃ­ moc rÃ¡di.}
+{350}{}{Do prdele! Co to dÄ›lÃ¡Å¡, kretÃ©ne?!}
+{351}{}{VraÅ¥ se zpÃ¡tky na mÃ­sto! Co to sakra dÄ›l...?!}
+{352}{}{*Zztttt* Mise zruÅ¡ena. BezpeÄnostnÃ­ sekvence nÃ¡kladu aktivovÃ¡na. *Zzzttt**}
+{353}{}{*Zztttt* Zlikvidujte nepÅ™Ã­tele a vraÅ¥te se na zÃ¡kladnu. *Zzzttt**}
+{400}{}{[VypadÃ¡ to, Å¾e tam jsou dveÅ™e. OtevÅ™Ã­t a vlÃ©zt dovnitÅ™?]}
 {401}{}{Jo.}
 {402}{}{Odbelhat se.}
-{403}{}{[Vlézt do vertibirdu]}
-{404}{}{Necháš ho bıt.}
-{450}{}{(Jakmile vstoupíš dovnitø nákladového prostoru, zavøou se za tebou dveøe! Pokoušíš se je otevøít, ale nejde to. Pøemıšlíš, jak se odtamtud dostat, kdy tu najednou uslyšíš, jak obrnìnci nastupují do vertibirdu, kterı posléze vzlétne s tebou uvnitø!)}
+{403}{}{[VlÃ©zt do vertibirdu]}
+{404}{}{NechÃ¡Å¡ ho bÃ½t.}
+{450}{}{(Jakmile vstoupÃ­Å¡ dovnitÅ™ nÃ¡kladovÃ©ho prostoru, zavÅ™ou se za tebou dveÅ™e! PokouÅ¡Ã­Å¡ se je otevÅ™Ã­t, ale nejde to. PÅ™emÃ½Å¡lÃ­Å¡, jak se odtamtud dostat, kdyÅ¾ tu najednou uslyÅ¡Ã­Å¡, jak obrnÄ›nci nastupujÃ­ do vertibirdu, kterÃ½ poslÃ©ze vzlÃ©tne s tebou uvnitÅ™!)}
 {451}{}{Ajajaj.}
 {452}{}{A do prdele...}
-{500}{}{Tyto bedny jsou naplnìny tìkımi kovovımi kanystry. Podle toho, jak jsou peèlivì zabaleny, by se dalo usuzovat, e obsahují nìjaké nebezpeèné chemikálie.}
-{550}{}{Teï není nejlepší èas na rozhovor.}
+{500}{}{Tyto bedny jsou naplnÄ›ny tÄ›Å¾kÃ½mi kovovÃ½mi kanystry. Podle toho, jak jsou peÄlivÄ› zabaleny, by se dalo usuzovat, Å¾e obsahujÃ­ nÄ›jakÃ© nebezpeÄnÃ© chemikÃ¡lie.}
+{550}{}{TeÄ nenÃ­ nejlepÅ¡Ã­ Äas na rozhovor.}

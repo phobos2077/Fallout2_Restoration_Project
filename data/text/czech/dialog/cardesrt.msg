@@ -1,1 +1,1 @@
-{100}{}{Tvému autu došlo palivo. Urèitì s sebou vozíš náhradní èlánky, e?}
+{100}{}{TvÃ©mu autu doÅ¡lo palivo. UrÄitÄ› s sebou vozÃ­Å¡ nÃ¡hradnÃ­ ÄlÃ¡nky, Å¾e?}

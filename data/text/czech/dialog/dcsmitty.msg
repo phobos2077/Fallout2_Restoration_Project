@@ -1,92 +1,92 @@
-{100}{}{Vidíš umaštìného, starého chlápka.}
-{150}{}{Vidíš Smittyho, mechanika a majitele vrakovištì.}
-{151}{}{Vidíš umaštìného, starého chlápka ve špinavıch montérkách.}
-{200}{}{Varuju tì! Vypadni odsud, ne ti dám po rypáku!}
-{201}{}{Vypadni z mıho pozemku!}
-{202}{}{Zmiz z mıho pozemku!}
-{203}{}{Varuju tì, zmiz odsud.}
-{204}{}{Sakra, jdi ode mì.}
-{220}{}{Hej, zmiz z mıho pozemku.}
-{221}{}{Ty tam, pitomèe, vypadni odsud.}
+{100}{}{VidÃ­Å¡ umaÅ¡tÄ›nÃ©ho, starÃ©ho chlÃ¡pka.}
+{150}{}{VidÃ­Å¡ Smittyho, mechanika a majitele vrakoviÅ¡tÄ›.}
+{151}{}{VidÃ­Å¡ umaÅ¡tÄ›nÃ©ho, starÃ©ho chlÃ¡pka ve Å¡pinavÃ½ch montÃ©rkÃ¡ch.}
+{200}{}{Varuju tÄ›! Vypadni odsud, neÅ¾ ti dÃ¡m po rypÃ¡ku!}
+{201}{}{Vypadni z mÃ½ho pozemku!}
+{202}{}{Zmiz z mÃ½ho pozemku!}
+{203}{}{Varuju tÄ›, zmiz odsud.}
+{204}{}{Sakra, jdi ode mÄ›.}
+{220}{}{Hej, zmiz z mÃ½ho pozemku.}
+{221}{}{Ty tam, pitomÄe, vypadni odsud.}
 {222}{}{Zmiz, jdi, zmiz!}
-{223}{}{Nemám na tebe èas.}
-{224}{}{Promiò, myslím, e neumím mluvit imbecilštinou.}
-{240}{}{Nazdárek, chlapèe. Co pro tebe mùe starej Smitty udìlat?}
-{241}{}{Nazdárek, dìvèe. Co pro tebe mùe starej Smitty udìlat?}
-{242}{}{Tááke... co pro tebe mùu udìlat?}
-{243}{}{Jak to jde? Na tom jídle od Mámy jsem si fakt pochutnal. Díky. Co pro tebe mùe starej Smitty udìlat?}
-{244}{}{Jen mì zajímá, co tady dìláš.}
-{245}{}{Poslouchej, starochu, mám tuhle vìc z Gecka...}
-{246}{}{Hele, Smitty... zajímá mì to auto, co prodáváš.}
-{247}{}{Nesu ti jídlo od Mámy.}
-{248}{}{Poslouchej, starochu, mám tuhle vìc z Klamathu...}
-{249}{}{Jen se tak rozhlíím. Nashle, Smitty.}
-{260}{}{Uka, starej Smitty se na to podívá.}
-{261}{}{Jasnì, tady je to.}
-{262}{}{Vteøinku, nejdøív se chci na nìco zeptat.}
-{263}{}{Moná jindy. Sbohem, Smitty.}
-{280}{}{Uka, starej Smitty se na to podívá.}
-{281}{}{Jasnì, tady je to.}
-{282}{}{Vteøinku, nejdøív se chci na nìco zeptat.}
-{283}{}{Moná jindy. Sbohem, Smitty.}
-{300}{}{No, to vypadá jako starej kontrolér pøívodu energie. Hmm, vsadím se, e kdy tohle pøidìlám na starıho Highwaymana, tak bude pøíst jako koèka.}
+{223}{}{NemÃ¡m na tebe Äas.}
+{224}{}{PromiÅˆ, myslÃ­m, Å¾e neumÃ­m mluvit imbecilÅ¡tinou.}
+{240}{}{NazdÃ¡rek, chlapÄe. Co pro tebe mÅ¯Å¾e starej Smitty udÄ›lat?}
+{241}{}{NazdÃ¡rek, dÄ›vÄe. Co pro tebe mÅ¯Å¾e starej Smitty udÄ›lat?}
+{242}{}{TÃ¡Ã¡kÅ¾e... co pro tebe mÅ¯Å¾u udÄ›lat?}
+{243}{}{Jak to jde? Na tom jÃ­dle od MÃ¡my jsem si fakt pochutnal. DÃ­ky. Co pro tebe mÅ¯Å¾e starej Smitty udÄ›lat?}
+{244}{}{Jen mÄ› zajÃ­mÃ¡, co tady dÄ›lÃ¡Å¡.}
+{245}{}{Poslouchej, starochu, mÃ¡m tuhle vÄ›c z Gecka...}
+{246}{}{Hele, Smitty... zajÃ­mÃ¡ mÄ› to auto, co prodÃ¡vÃ¡Å¡.}
+{247}{}{Nesu ti jÃ­dlo od MÃ¡my.}
+{248}{}{Poslouchej, starochu, mÃ¡m tuhle vÄ›c z Klamathu...}
+{249}{}{Jen se tak rozhlÃ­Å¾Ã­m. Nashle, Smitty.}
+{260}{}{UkaÅ¾, starej Smitty se na to podÃ­vÃ¡.}
+{261}{}{JasnÄ›, tady je to.}
+{262}{}{VteÅ™inku, nejdÅ™Ã­v se chci na nÄ›co zeptat.}
+{263}{}{MoÅ¾nÃ¡ jindy. Sbohem, Smitty.}
+{280}{}{UkaÅ¾, starej Smitty se na to podÃ­vÃ¡.}
+{281}{}{JasnÄ›, tady je to.}
+{282}{}{VteÅ™inku, nejdÅ™Ã­v se chci na nÄ›co zeptat.}
+{283}{}{MoÅ¾nÃ¡ jindy. Sbohem, Smitty.}
+{300}{}{No, to vypadÃ¡ jako starej kontrolÃ©r pÅ™Ã­vodu energie. Hmm, vsadÃ­m se, Å¾e kdyÅ¾ tohle pÅ™idÄ›lÃ¡m na starÃ½ho Highwaymana, tak bude pÅ™Ã­st jako koÄka.}
 {301}{}{He?}
-{310}{}{Hmm, tohle vypadá pøesnì jako regulátor pøívodu energie. Kdybych mìl funkèní auto, tak by tahle vìcièka urèitì zvıšila poèet ujetıch mil.}
+{310}{}{Hmm, tohle vypadÃ¡ pÅ™esnÄ› jako regulÃ¡tor pÅ™Ã­vodu energie. Kdybych mÄ›l funkÄnÃ­ auto, tak by tahle vÄ›ciÄka urÄitÄ› zvÃ½Å¡ila poÄet ujetÃ½ch mil.}
 {311}{}{He?}
-{320}{}{To je od tebe moc šlechetnı. Díky moc. Tady máš nìco malıho, abych se ti aspoò trošku odvdìèil. V tìhlech konèinách se ti to bude urèitì hodit. (Podá ti Stimpak.)}
-{321}{}{Díky, Smitty. ádnı problém. Zatím.}
-{322}{}{Dobøe, ehhh... díky, ale já u jsem si pro jídlo skoèil k Mámì, take u ho nebudu potøebovat. Navíc je to úplnì studenı, jak se tak na to dívám.}
-{323}{}{Jejda. Víš, já nejsem normální roznašeè jídla. Ten je nemocnı a já za nìj zaskakuju. Mùu pøesto dostat alespoò nìjaké zkušenostní body?}
-{324}{}{Dobøe, omlouvám se, e jsem to zkonil. Doufám, e mì za to Máma nevyhodí! Opravdu tuhle práci potøebuju.}
-{325}{}{Je ti doufám jasné, e u nenabízíme jídlo gratis po 24 hodinách?}
-{326}{}{No, tak si ho sním sám.}
-{327}{}{Máma z toho nebude mít moc velkou radost.}
-{330}{}{No, víš, mám tohle auto, Chrysalis Motors Highwayman. Je to krasavec, co øíkáš? Øíkávalo se, e "Nic nemùe zastavit Highwaymana." Byly opravdu dobøe stavìnı.}
-{331}{}{Jo a co to má se mnou spoleèného?}
-{340}{}{Mnoo, víš, myslel jsem, e potøebuje novou baterku, ale co opravdu potøebuje je kontrolér pøívodu energie. Tyhle vìci se na tom vdycky dost kazily.}
-{341}{}{No, jeden mám u sebe.}
-{350}{}{Opravdu? Tak hele, udìlám ti nabídku. Ty mi dáš $2000 a já ti prodám to auto. Hernajs, dokonce ti tam namontuju i ten kontrolér pøívodu energie. Pobìí to jako novı. Navíc ti ho nabiju pomocí nìkolika speciálních mikro-fúzních èlánkù, kterı tu mám.}
-{351}{}{To zní dobøe. Tady jsou peníze a tady je ta souèástka.}
-{352}{}{Momentálnì o nìj nemám zájem. Radìji se chci na nìco zeptat.}
-{353}{}{Dej mi èas na rozmyšlenou. Zatím, Smitty.}
-{370}{}{Ze zaèátku ho moc nehoò a poèkej, ne se zahøeje.}
-{371}{}{Dobøe. Díky za radu, Smitty.}
-{380}{}{Hmm, je to dobrı, ale ne zas tak úplnì.}
+{320}{}{To je od tebe moc Å¡lechetnÃ½. DÃ­ky moc. Tady mÃ¡Å¡ nÄ›co malÃ½ho, abych se ti aspoÅˆ troÅ¡ku odvdÄ›Äil. V tÄ›hlech konÄinÃ¡ch se ti to bude urÄitÄ› hodit. (PodÃ¡ ti Stimpak.)}
+{321}{}{DÃ­ky, Smitty. Å½Ã¡dnÃ½ problÃ©m. ZatÃ­m.}
+{322}{}{DobÅ™e, ehhh... dÃ­ky, ale jÃ¡ uÅ¾ jsem si pro jÃ­dlo skoÄil k MÃ¡mÄ›, takÅ¾e uÅ¾ ho nebudu potÅ™ebovat. NavÃ­c je to ÃºplnÄ› studenÃ½, jak se tak na to dÃ­vÃ¡m.}
+{323}{}{Jejda. VÃ­Å¡, jÃ¡ nejsem normÃ¡lnÃ­ roznaÅ¡eÄ jÃ­dla. Ten je nemocnÃ½ a jÃ¡ za nÄ›j zaskakuju. MÅ¯Å¾u pÅ™esto dostat alespoÅˆ nÄ›jakÃ© zkuÅ¡enostnÃ­ body?}
+{324}{}{DobÅ™e, omlouvÃ¡m se, Å¾e jsem to zkonil. DoufÃ¡m, Å¾e mÄ› za to MÃ¡ma nevyhodÃ­! Opravdu tuhle prÃ¡ci potÅ™ebuju.}
+{325}{}{Je ti doufÃ¡m jasnÃ©, Å¾e uÅ¾ nenabÃ­zÃ­me jÃ­dlo gratis po 24 hodinÃ¡ch?}
+{326}{}{No, tak si ho snÃ­m sÃ¡m.}
+{327}{}{MÃ¡ma z toho nebude mÃ­t moc velkou radost.}
+{330}{}{No, vÃ­Å¡, mÃ¡m tohle auto, Chrysalis Motors Highwayman. Je to krasavec, co Å™Ã­kÃ¡Å¡? Å˜Ã­kÃ¡valo se, Å¾e "Nic nemÅ¯Å¾e zastavit Highwaymana." Byly opravdu dobÅ™e stavÄ›nÃ½.}
+{331}{}{Jo a co to mÃ¡ se mnou spoleÄnÃ©ho?}
+{340}{}{Mnoo, vÃ­Å¡, myslel jsem, Å¾e potÅ™ebuje novou baterku, ale co opravdu potÅ™ebuje je kontrolÃ©r pÅ™Ã­vodu energie. Tyhle vÄ›ci se na tom vÅ¾dycky dost kazily.}
+{341}{}{No, jeden mÃ¡m u sebe.}
+{350}{}{Opravdu? Tak hele, udÄ›lÃ¡m ti nabÃ­dku. Ty mi dÃ¡Å¡ $2000 a jÃ¡ ti prodÃ¡m to auto. Hernajs, dokonce ti tam namontuju i ten kontrolÃ©r pÅ™Ã­vodu energie. PobÄ›Å¾Ã­ to jako novÃ½. NavÃ­c ti ho nabiju pomocÃ­ nÄ›kolika speciÃ¡lnÃ­ch mikro-fÃºznÃ­ch ÄlÃ¡nkÅ¯, kterÃ½ tu mÃ¡m.}
+{351}{}{To znÃ­ dobÅ™e. Tady jsou penÃ­ze a tady je ta souÄÃ¡stka.}
+{352}{}{MomentÃ¡lnÄ› o nÄ›j nemÃ¡m zÃ¡jem. RadÄ›ji se chci na nÄ›co zeptat.}
+{353}{}{Dej mi Äas na rozmyÅ¡lenou. ZatÃ­m, Smitty.}
+{370}{}{Ze zaÄÃ¡tku ho moc nehoÅˆ a poÄkej, neÅ¾ se zahÅ™eje.}
+{371}{}{DobÅ™e. DÃ­ky za radu, Smitty.}
+{380}{}{Hmm, je to dobrÃ½, ale ne zas tak ÃºplnÄ›.}
 {381}{}{He?}
-{390}{}{Øíkám, e mít regulátor je sice hezkı, ale ty potøebuješ kontrolér pøívodu energie.}
-{391}{}{K èemu?}
-{400}{}{Protoe pokud bys mìl kontrolér a $2000, mohl bych opravit toho Chrysalis Motors Highwaymana, kterıho tady mám, a ty bys mohl stylovì odjet.}
-{401}{}{Opravdu? A kde najdu ten kontrolér pøívodu energie?}
-{410}{}{To je ale hloupá otázka. Nemyslíš, e kdybych to vìdìl, tak u bych tu dávno jezdil autem?}
-{411}{}{Hmm. Budu se muset po nìjakém podívat.}
-{420}{}{Dobrej nápad. A nìjakej najdeš, tak se vra. Jo a taky nezapomeò ty $2000.}
-{421}{}{To zní jako dobrı plán, Smitty. Chci se zeptat ještì na nìco jiného.}
-{422}{}{Jdu se teï po nìjakém podívat. Sbohem.}
-{430}{}{Tak jak ti to auto jezdí?}
-{431}{}{Vıbornì, Smitty. Ale našel jsem tohle a nevím, co s tím mám dìlat.}
-{432}{}{Skvìle, Smitty, je prostì perfektní. Poslyš, mám pro tebe jídlo. Pozornost od Mámy.}
-{433}{}{Opravdu dobøe, Smitty, opravdu dobøe. Díky. Zatím. Sbohem.}
-{450}{}{No, tohle je opravdu kontrolér pøívodu energie. Teï ujedeš s kadou baterií víc mil. Mùu ti to tam namontovat, kdy mi dáš øeknìme $750 za práci.}
-{451}{}{To vypadá jako dobrá nabídka, Smitty. Tady to máš i s penìzma.}
-{452}{}{Budu o tom pøemıšlet, Smitty. Zatím sbohem.}
-{460}{}{Vìtšinou jen dohlíím na tohle starı harampádí. Je tu jen jedna vìc, která za nìco stojí.}
+{390}{}{Å˜Ã­kÃ¡m, Å¾e mÃ­t regulÃ¡tor je sice hezkÃ½, ale ty potÅ™ebujeÅ¡ kontrolÃ©r pÅ™Ã­vodu energie.}
+{391}{}{K Äemu?}
+{400}{}{ProtoÅ¾e pokud bys mÄ›l kontrolÃ©r a $2000, mohl bych opravit toho Chrysalis Motors Highwaymana, kterÃ½ho tady mÃ¡m, a ty bys mohl stylovÄ› odjet.}
+{401}{}{Opravdu? A kde najdu ten kontrolÃ©r pÅ™Ã­vodu energie?}
+{410}{}{To je ale hloupÃ¡ otÃ¡zka. NemyslÃ­Å¡, Å¾e kdybych to vÄ›dÄ›l, tak uÅ¾ bych tu dÃ¡vno jezdil autem?}
+{411}{}{Hmm. Budu se muset po nÄ›jakÃ©m podÃ­vat.}
+{420}{}{Dobrej nÃ¡pad. AÅ¾ nÄ›jakej najdeÅ¡, tak se vraÅ¥. Jo a taky nezapomeÅˆ ty $2000.}
+{421}{}{To znÃ­ jako dobrÃ½ plÃ¡n, Smitty. Chci se zeptat jeÅ¡tÄ› na nÄ›co jinÃ©ho.}
+{422}{}{Jdu se teÄ po nÄ›jakÃ©m podÃ­vat. Sbohem.}
+{430}{}{Tak jak ti to auto jezdÃ­?}
+{431}{}{VÃ½bornÄ›, Smitty. Ale naÅ¡el jsem tohle a nevÃ­m, co s tÃ­m mÃ¡m dÄ›lat.}
+{432}{}{SkvÄ›le, Smitty, je prostÄ› perfektnÃ­. PoslyÅ¡, mÃ¡m pro tebe jÃ­dlo. Pozornost od MÃ¡my.}
+{433}{}{Opravdu dobÅ™e, Smitty, opravdu dobÅ™e. DÃ­ky. ZatÃ­m. Sbohem.}
+{450}{}{No, tohle je opravdu kontrolÃ©r pÅ™Ã­vodu energie. TeÄ ujedeÅ¡ s kaÅ¾dou bateriÃ­ vÃ­c mil. MÅ¯Å¾u ti to tam namontovat, kdyÅ¾ mi dÃ¡Å¡ Å™eknÄ›me $750 za prÃ¡ci.}
+{451}{}{To vypadÃ¡ jako dobrÃ¡ nabÃ­dka, Smitty. Tady to mÃ¡Å¡ i s penÄ›zma.}
+{452}{}{Budu o tom pÅ™emÃ½Å¡let, Smitty. ZatÃ­m sbohem.}
+{460}{}{VÄ›tÅ¡inou jen dohlÃ­Å¾Ã­m na tohle starÃ½ harampÃ¡dÃ­. Je tu jen jedna vÄ›c, kterÃ¡ za nÄ›co stojÃ­.}
 {461}{}{A co tam teda je?}
-{462}{}{Aha. Chci se ještì na nìco zeptat.}
-{470}{}{No pøece ten Chrysalis Motors Highwayman. Kdysi se øíkalo, e "Nic nemùe zastavit Highwaymana." Je perfektnì stavìnı, za to ti ruèím.}
-{471}{}{Hezkı. Jezdí to?}
-{480}{}{Pokud by to jezdilo, myslíš, e bych byl poøád v tıhle zasranı èásti mìsta?}
+{462}{}{Aha. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{470}{}{No pÅ™ece ten Chrysalis Motors Highwayman. Kdysi se Å™Ã­kalo, Å¾e "Nic nemÅ¯Å¾e zastavit Highwaymana." Je perfektnÄ› stavÄ›nÃ½, za to ti ruÄÃ­m.}
+{471}{}{HezkÃ½. JezdÃ­ to?}
+{480}{}{Pokud by to jezdilo, myslÃ­Å¡, Å¾e bych byl poÅ™Ã¡d v tÃ½hle zasranÃ½ ÄÃ¡sti mÄ›sta?}
 {481}{}{Eh, jo.}
-{482}{}{Myslím, e ne.}
-{490}{}{No, asi máš pravdu. U jsem se tu usadil.}
+{482}{}{MyslÃ­m, Å¾e ne.}
+{490}{}{No, asi mÃ¡Å¡ pravdu. UÅ¾ jsem se tu usadil.}
 {491}{}{Aha.}
-{500}{}{No, moná, e jo. U jsem si tady zvyknul.}
-{501}{}{Rozumím.}
-{510}{}{Klidnì bych to auto prodal. Pokud mi nìkdo pøinese baterku... vlastnì ani ne, eh, myslím, e budu hlavnì potøebovat kontrolér pøívodu energie. Jo, kdybych ho mìl, tak to auto prodám za $2000. A k tomu ještì navíc nainstaluju ten kontrolér, aby dobøe šlapalo.}
-{511}{}{To zní zajímavì. Vrátím se, pokud seenu ten kontrolér pøívodu energie. Chci se ještì na nìco zeptat.}
-{512}{}{Pokud ho najdu, vrátím se. Sbohem, Smitty.}
-{520}{}{A je to. Jako novej. Take, a ti dobøe šlape a dobøe se o nìj starej.}
-{521}{}{Budu. Díky, Smitty. Sbohem.}
-{600}{}{JDI SAKRA PRYÈ OD MİHO AUÁKU!}
-{650}{}{Nepøej si, abych tì ještì jednou chytil, jak se plííš okolo mıho auta.}
+{500}{}{No, moÅ¾nÃ¡, Å¾e jo. UÅ¾ jsem si tady zvyknul.}
+{501}{}{RozumÃ­m.}
+{510}{}{KlidnÄ› bych to auto prodal. Pokud mi nÄ›kdo pÅ™inese baterku... vlastnÄ› ani ne, eh, myslÃ­m, Å¾e budu hlavnÄ› potÅ™ebovat kontrolÃ©r pÅ™Ã­vodu energie. Jo, kdybych ho mÄ›l, tak to auto prodÃ¡m za $2000. A k tomu jeÅ¡tÄ› navÃ­c nainstaluju ten kontrolÃ©r, aby dobÅ™e Å¡lapalo.}
+{511}{}{To znÃ­ zajÃ­mavÄ›. VrÃ¡tÃ­m se, pokud seÅ¾enu ten kontrolÃ©r pÅ™Ã­vodu energie. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{512}{}{Pokud ho najdu, vrÃ¡tÃ­m se. Sbohem, Smitty.}
+{520}{}{A je to. Jako novej. TakÅ¾e, aÅ¥ ti dobÅ™e Å¡lape a dobÅ™e se o nÄ›j starej.}
+{521}{}{Budu. DÃ­ky, Smitty. Sbohem.}
+{600}{}{JDI SAKRA PRYÄŒ OD MÃHO AUÅ¤ÃKU!}
+{650}{}{NepÅ™ej si, abych tÄ› jeÅ¡tÄ› jednou chytil, jak se plÃ­Å¾Ã­Å¡ okolo mÃ½ho auta.}
 {651}{}{Neboj se.}
 {652}{}{Ehhh}

@@ -1,78 +1,78 @@
-{100}{}{Vidíš shrbeného mue v dlouhé róbì. Vypadá hluboce zamyšlenì.}
-{101}{}{Vidíš Stráce Svatynì.}
-{102}{}{Vidíš shrbeného mue v dlouhé róbì. Je mu kolem padesáti let a jeho tváø je jemná a nepoznamenaná. Vypadá to, e medituje.}
-{103}{}{Vítej, poutníku. Øíkají mi Gordon a jsem Stráce Svatynì. S èím ti mohu pomoci?}
-{104}{}{Svatynì?}
-{105}{}{Já ptát otázky?}
-{106}{}{Eh... já nevzpomínat. Naskle.}
-{107}{}{Rád tì poznávám, Gordone. Já jsem}
-{108}{}{Tomuhle øíkáš Svatynì? Ten, kterému je zasvìcena, se musí obracet v hrobì!}
-{109}{}{No, promiò, e ruším. U pùjdu.}
-{110}{}{Ano. Svatynì je místo k uctívání, které je obvykle zasvìcené bohu, svatému nebo jiné bytosti moci.}
-{111}{}{Aha. Dobøe. Já ptát otázky?}
-{112}{}{Dobøe. Ahoj.}
-{113}{}{Samozøejmì.}
-{114}{}{Co potøebujete vìdìt?}
-{115}{}{Svatynì pro kdo?}
+{100}{}{VidÃ­Å¡ shrbenÃ©ho muÅ¾e v dlouhÃ© rÃ³bÄ›. VypadÃ¡ hluboce zamyÅ¡lenÄ›.}
+{101}{}{VidÃ­Å¡ StrÃ¡Å¾ce SvatynÄ›.}
+{102}{}{VidÃ­Å¡ shrbenÃ©ho muÅ¾e v dlouhÃ© rÃ³bÄ›. Je mu kolem padesÃ¡ti let a jeho tvÃ¡Å™ je jemnÃ¡ a nepoznamenanÃ¡. VypadÃ¡ to, Å¾e medituje.}
+{103}{}{VÃ­tej, poutnÃ­ku. Å˜Ã­kajÃ­ mi Gordon a jsem StrÃ¡Å¾ce SvatynÄ›. S ÄÃ­m ti mohu pomoci?}
+{104}{}{SvatynÄ›?}
+{105}{}{JÃ¡ ptÃ¡t otÃ¡zky?}
+{106}{}{Eh... jÃ¡ nevzpomÃ­nat. Naskle.}
+{107}{}{RÃ¡d tÄ› poznÃ¡vÃ¡m, Gordone. JÃ¡ jsem}
+{108}{}{Tomuhle Å™Ã­kÃ¡Å¡ SvatynÄ›? Ten, kterÃ©mu je zasvÄ›cena, se musÃ­ obracet v hrobÄ›!}
+{109}{}{No, promiÅˆ, Å¾e ruÅ¡Ã­m. UÅ¾ pÅ¯jdu.}
+{110}{}{Ano. SvatynÄ› je mÃ­sto k uctÃ­vÃ¡nÃ­, kterÃ© je obvykle zasvÄ›cenÃ© bohu, svatÃ©mu nebo jinÃ© bytosti moci.}
+{111}{}{Aha. DobÅ™e. JÃ¡ ptÃ¡t otÃ¡zky?}
+{112}{}{DobÅ™e. Ahoj.}
+{113}{}{SamozÅ™ejmÄ›.}
+{114}{}{Co potÅ™ebujete vÄ›dÄ›t?}
+{115}{}{SvatynÄ› pro kdo?}
 {116}{}{Jak dlouho ty tady?}
-{117}{}{Páraèi špatní?}
-{118}{}{Proè ty zùstávat?}
-{119}{}{Já teï jít.}
-{120}{}{Komu je tahle svatynì zasvìcena?}
+{117}{}{PÃ¡raÄi Å¡patnÃ­?}
+{118}{}{ProÄ ty zÅ¯stÃ¡vat?}
+{119}{}{JÃ¡ teÄ jÃ­t.}
+{120}{}{Komu je tahle svatynÄ› zasvÄ›cena?}
 {121}{}{Jak dlouho tady jsi?}
-{122}{}{Co mi mùeš øíct o páraèích?}
-{123}{}{Proè tady setrváváš?}
-{124}{}{Díky, Gordone. Sbohem.}
-{125}{}{Tato svatynì je zasvìcena bezejmennému hrdinovi známému pouze jako Zakladatel. On, moná ona, byl zachráncem všech, jen zde ili pøed nìkolika desítkami let. Nevíme, co se stalo s naším zachráncem, ale on, nebo ona, ije stále v našich myslích a srdcích.}
-{126}{}{To hezkı.}
-{127}{}{Já dìkovat ty. Pápá.}
-{128}{}{To je pìknì ubohı! Svatynì pro nìkoho, na koho si ani nepamatujete!}
-{129}{}{Aha. No, mám ještì nìjaké otázky.}
-{130}{}{To je velmi chvályhodné, Gordone. Mùu se ještì na nìco zeptat?}
-{131}{}{il jsem v tomto vaultu celı svùj ivot. Vìtšinu tìch let jsem byl Strácem Svatynì.}
-{132}{}{Bıt tady pøed páraèi?}
-{133}{}{Aha. Potøebovat vìdìt víc.}
-{134}{}{Muset teï jít.}
-{135}{}{Jsi velmi oddanı mu. Mùu se ještì na nìco zeptat?}
-{136}{}{To je dlouhá doba. Mùeš mi odpovìdìt ještì na pár otázek?}
-{137}{}{Je jen na tobì, jak svùj ivot promarníš, kámo.}
-{138}{}{Take jsi tu byl, kdy to tu pøevzali páraèi?}
-{139}{}{Ne, mùj pøíteli, nebyl jsem tu. Odešel jsem pøed nìkolika mìsíci, abych se podíval na sochu Zakladatele vztyèenou na námìstí v NCR (New California Republic na vıchod odsud). Kdy jsem se vrátil do vaultu, páraèi tu u byli. Asi není tøeba zmiòovat, e jsem byl v šoku. Kadopádnì jsem pøesvìdèen, e oni nejsou odpovìdní za to, co se stalo místním obyvatelùm. Pokud náhodou touíš po více informacích o této záleitosti, vyhledej Gorise v knihovnì.}
-{140}{}{Dobøe, díky.}
-{141}{}{Dobøe, nashle.}
+{122}{}{Co mi mÅ¯Å¾eÅ¡ Å™Ã­ct o pÃ¡raÄÃ­ch?}
+{123}{}{ProÄ tady setrvÃ¡vÃ¡Å¡?}
+{124}{}{DÃ­ky, Gordone. Sbohem.}
+{125}{}{Tato svatynÄ› je zasvÄ›cena bezejmennÃ©mu hrdinovi znÃ¡mÃ©mu pouze jako Zakladatel. On, moÅ¾nÃ¡ ona, byl zachrÃ¡ncem vÅ¡ech, jenÅ¾ zde Å¾ili pÅ™ed nÄ›kolika desÃ­tkami let. NevÃ­me, co se stalo s naÅ¡Ã­m zachrÃ¡ncem, ale on, nebo ona, Å¾ije stÃ¡le v naÅ¡ich myslÃ­ch a srdcÃ­ch.}
+{126}{}{To hezkÃ½.}
+{127}{}{JÃ¡ dÄ›kovat ty. PÃ¡pÃ¡.}
+{128}{}{To je pÄ›knÄ› ubohÃ½! SvatynÄ› pro nÄ›koho, na koho si ani nepamatujete!}
+{129}{}{Aha. No, mÃ¡m jeÅ¡tÄ› nÄ›jakÃ© otÃ¡zky.}
+{130}{}{To je velmi chvÃ¡lyhodnÃ©, Gordone. MÅ¯Å¾u se jeÅ¡tÄ› na nÄ›co zeptat?}
+{131}{}{Å½il jsem v tomto vaultu celÃ½ svÅ¯j Å¾ivot. VÄ›tÅ¡inu tÄ›ch let jsem byl StrÃ¡Å¾cem SvatynÄ›.}
+{132}{}{BÃ½t tady pÅ™ed pÃ¡raÄi?}
+{133}{}{Aha. PotÅ™ebovat vÄ›dÄ›t vÃ­c.}
+{134}{}{Muset teÄ jÃ­t.}
+{135}{}{Jsi velmi oddanÃ½ muÅ¾. MÅ¯Å¾u se jeÅ¡tÄ› na nÄ›co zeptat?}
+{136}{}{To je dlouhÃ¡ doba. MÅ¯Å¾eÅ¡ mi odpovÄ›dÄ›t jeÅ¡tÄ› na pÃ¡r otÃ¡zek?}
+{137}{}{Je jen na tobÄ›, jak svÅ¯j Å¾ivot promarnÃ­Å¡, kÃ¡mo.}
+{138}{}{TakÅ¾e jsi tu byl, kdyÅ¾ to tu pÅ™evzali pÃ¡raÄi?}
+{139}{}{Ne, mÅ¯j pÅ™Ã­teli, nebyl jsem tu. OdeÅ¡el jsem pÅ™ed nÄ›kolika mÄ›sÃ­ci, abych se podÃ­val na sochu Zakladatele vztyÄenou na nÃ¡mÄ›stÃ­ v NCR (New California Republic na vÃ½chod odsud). KdyÅ¾ jsem se vrÃ¡til do vaultu, pÃ¡raÄi tu uÅ¾ byli. Asi nenÃ­ tÅ™eba zmiÅˆovat, Å¾e jsem byl v Å¡oku. KaÅ¾dopÃ¡dnÄ› jsem pÅ™esvÄ›dÄen, Å¾e oni nejsou odpovÄ›dnÃ­ za to, co se stalo mÃ­stnÃ­m obyvatelÅ¯m. Pokud nÃ¡hodou touÅ¾Ã­Å¡ po vÃ­ce informacÃ­ch o tÃ©to zÃ¡leÅ¾itosti, vyhledej Gorise v knihovnÄ›.}
+{140}{}{DobÅ™e, dÃ­ky.}
+{141}{}{DobÅ™e, nashle.}
 {142}{}{Budu si to pamatovat.}
-{143}{}{Nepotøebuju, abys mi øíkal, kam mám chodit nebo s kım si mám popovídat.}
-{144}{}{Dìkuju ti za pomoc. Mám ještì nìjaké otázky.}
-{145}{}{iji s páraèi u nìkolik mìsícù. Jednají se mnou a s ostatními lidmi, co tu ijí, èestnì a upøímnì. Vìøím jim a myslím, e ty budeš èasem také.}
-{146}{}{Eh... dobøe.}
-{147}{}{Hmmm. Já teï jít.}
-{148}{}{Dám jim šanci, ale prozatím budu na pochybách.}
-{149}{}{Ty mùeš klidnì ještìrkám vìøit, ale já si prozatím nechám svùj názor, pokud dovolíš.}
-{150}{}{Díky. Potøebuju vìdìt víc.}
-{151}{}{Moje místo je zde ve Svatyni. Dobrovolnì ji neopustím.}
+{143}{}{NepotÅ™ebuju, abys mi Å™Ã­kal, kam mÃ¡m chodit nebo s kÃ½m si mÃ¡m popovÃ­dat.}
+{144}{}{DÄ›kuju ti za pomoc. MÃ¡m jeÅ¡tÄ› nÄ›jakÃ© otÃ¡zky.}
+{145}{}{Å½iji s pÃ¡raÄi uÅ¾ nÄ›kolik mÄ›sÃ­cÅ¯. JednajÃ­ se mnou a s ostatnÃ­mi lidmi, co tu Å¾ijÃ­, ÄestnÄ› a upÅ™Ã­mnÄ›. VÄ›Å™Ã­m jim a myslÃ­m, Å¾e ty budeÅ¡ Äasem takÃ©.}
+{146}{}{Eh... dobÅ™e.}
+{147}{}{Hmmm. JÃ¡ teÄ jÃ­t.}
+{148}{}{DÃ¡m jim Å¡anci, ale prozatÃ­m budu na pochybÃ¡ch.}
+{149}{}{Ty mÅ¯Å¾eÅ¡ klidnÄ› jeÅ¡tÄ›rkÃ¡m vÄ›Å™it, ale jÃ¡ si prozatÃ­m nechÃ¡m svÅ¯j nÃ¡zor, pokud dovolÃ­Å¡.}
+{150}{}{DÃ­ky. PotÅ™ebuju vÄ›dÄ›t vÃ­c.}
+{151}{}{Moje mÃ­sto je zde ve Svatyni. DobrovolnÄ› ji neopustÃ­m.}
 {152}{}{Aha.}
-{153}{}{Já teï odejít.}
-{154}{}{Dobøe.}
-{155}{}{Buï jsi opravdu oddanı nebo pitomec. Sázím, e spíš pitomec!}
-{156}{}{Tvoje odhodlání je obdivuhodné.}
-{157}{}{Jsi hrubı a sprostı. Moná, e kdyby tu byla jedna ze stráí, drel bys jazyk za zuby.}
-{158}{}{U pøedtím jsem tì varoval, e nebudu tolerovat tvé hrubé chování. Oèividnì ses rozhodl ignorovat moje varování. (Gordon se podívá ke dveøím.) Stráe! Do Svatynì, prosím!}
-{159}{}{Take ty budeš neustále prudit. (Gordon se podívá ke dveøím) Stráe, prosím, odveïte odsud ten póvl.}
-{160}{}{Jen si zavolej ty svoje poskoky! Nakopu vás všechny do øiti ani nemrkneš.}
-{161}{}{Promiò, u budu dret jazyk za zuby.}
-{162}{}{Omlouvám se, Gordone. Promiò mi to prosím.}
-{163}{}{Omlouvám se. Trochu mi to ujelo. Prosím, odpus mi.}
-{164}{}{A sakra. Promiò.}
-{165}{}{Tìším se, a rozstøílím nìjakou ještìrku!}
-{166}{}{Stráe! Do Svatynì!}
+{153}{}{JÃ¡ teÄ odejÃ­t.}
+{154}{}{DobÅ™e.}
+{155}{}{BuÄ jsi opravdu oddanÃ½ nebo pitomec. SÃ¡zÃ­m, Å¾e spÃ­Å¡ pitomec!}
+{156}{}{Tvoje odhodlÃ¡nÃ­ je obdivuhodnÃ©.}
+{157}{}{Jsi hrubÃ½ a sprostÃ½. MoÅ¾nÃ¡, Å¾e kdyby tu byla jedna ze strÃ¡Å¾Ã­, drÅ¾el bys jazyk za zuby.}
+{158}{}{UÅ¾ pÅ™edtÃ­m jsem tÄ› varoval, Å¾e nebudu tolerovat tvÃ© hrubÃ© chovÃ¡nÃ­. OÄividnÄ› ses rozhodl ignorovat moje varovÃ¡nÃ­. (Gordon se podÃ­vÃ¡ ke dveÅ™Ã­m.) StrÃ¡Å¾e! Do SvatynÄ›, prosÃ­m!}
+{159}{}{TakÅ¾e ty budeÅ¡ neustÃ¡le prudit. (Gordon se podÃ­vÃ¡ ke dveÅ™Ã­m) StrÃ¡Å¾e, prosÃ­m, odveÄte odsud ten pÃ³vl.}
+{160}{}{Jen si zavolej ty svoje poskoky! Nakopu vÃ¡s vÅ¡echny do Å™iti ani nemrkneÅ¡.}
+{161}{}{PromiÅˆ, uÅ¾ budu drÅ¾et jazyk za zuby.}
+{162}{}{OmlouvÃ¡m se, Gordone. PromiÅˆ mi to prosÃ­m.}
+{163}{}{OmlouvÃ¡m se. Trochu mi to ujelo. ProsÃ­m, odpusÅ¥ mi.}
+{164}{}{A sakra. PromiÅˆ.}
+{165}{}{TÄ›Å¡Ã­m se, aÅ¾ rozstÅ™Ã­lÃ­m nÄ›jakou jeÅ¡tÄ›rku!}
+{166}{}{StrÃ¡Å¾e! Do SvatynÄ›!}
 {167}{}{}
 {168}{}{}
-{169}{}{Koukám, e u jsi tu zase. Dal jsem tì vyhodit jednou a mohu to udìlat zase. Stráe! Do Svatynì! Ten póvl je zpátky!}
+{169}{}{KoukÃ¡m, Å¾e uÅ¾ jsi tu zase. Dal jsem tÄ› vyhodit jednou a mohu to udÄ›lat zase. StrÃ¡Å¾e! Do SvatynÄ›! Ten pÃ³vl je zpÃ¡tky!}
 {170}{}{}
 {171}{}{}
-{172}{}{Vítej zpìt. Co pro tebe mohu udìlat?}
-{173}{}{Ptát otázka?}
-{174}{}{Já bıt tady pøedtím? Promiò. Muset jít.}
-{175}{}{Chci si s tebou ještì jednou popovídat.}
-{176}{}{Jen jsem tì chtìl pozdravit.}
-{177}{}{. Mùu se tì na nìco zeptat?}
+{172}{}{VÃ­tej zpÄ›t. Co pro tebe mohu udÄ›lat?}
+{173}{}{PtÃ¡t otÃ¡zka?}
+{174}{}{JÃ¡ bÃ½t tady pÅ™edtÃ­m? PromiÅˆ. Muset jÃ­t.}
+{175}{}{Chci si s tebou jeÅ¡tÄ› jednou popovÃ­dat.}
+{176}{}{Jen jsem tÄ› chtÄ›l pozdravit.}
+{177}{}{. MÅ¯Å¾u se tÄ› na nÄ›co zeptat?}

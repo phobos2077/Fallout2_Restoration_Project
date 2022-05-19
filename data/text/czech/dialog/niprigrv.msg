@@ -1,7 +1,7 @@
-{100}{}{V rakvi leí tìlo starého mue. Má proøízlé hrdlo.}
-{101}{}{V pevné døevìné rakvi leí tìlo starého mue. Vypadá to, e mu nìkdo proøízl hrdlo.}
-{150}{}{Prohledáváš Pritchardovo tìlo. Pøi sundávání bot si všimneš, e je podpatek na levé botì trochu volnı. Vypáèíš ho a uvnitø najdeš pomaèkanou mapu, která vede na místo zvané "A.S.S." Zapíšeš si pozici do Pip-Boye.}
-{200}{}{Na køíi stojí: "Zde leí Sam Pritchard: Byl tak uvanìnı, e jsme mu museli udìlat druhou pusu."}
-{250}{}{Nacházíš Pritchardùv hrob... a mapu k Armádnímu skladu Sierra.}
-{255}{}{Hmmm... to vypadá jako stopa.}
-{256}{}{Hmmm... dóbøe e mám papírek. Hajzlpapír u néjni.}
+{100}{}{V rakvi leÅ¾Ã­ tÄ›lo starÃ©ho muÅ¾e. MÃ¡ proÅ™Ã­zlÃ© hrdlo.}
+{101}{}{V pevnÃ© dÅ™evÄ›nÃ© rakvi leÅ¾Ã­ tÄ›lo starÃ©ho muÅ¾e. VypadÃ¡ to, Å¾e mu nÄ›kdo proÅ™Ã­zl hrdlo.}
+{150}{}{ProhledÃ¡vÃ¡Å¡ Pritchardovo tÄ›lo. PÅ™i sundÃ¡vÃ¡nÃ­ bot si vÅ¡imneÅ¡, Å¾e je podpatek na levÃ© botÄ› trochu volnÃ½. VypÃ¡ÄÃ­Å¡ ho a uvnitÅ™ najdeÅ¡ pomaÄkanou mapu, kterÃ¡ vede na mÃ­sto zvanÃ© "A.S.S." ZapÃ­Å¡eÅ¡ si pozici do Pip-Boye.}
+{200}{}{Na kÅ™Ã­Å¾i stojÃ­: "Zde leÅ¾Ã­ Sam Pritchard: Byl tak uÅ¾vanÄ›nÃ½, Å¾e jsme mu museli udÄ›lat druhou pusu."}
+{250}{}{NachÃ¡zÃ­Å¡ PritchardÅ¯v hrob... a mapu k ArmÃ¡dnÃ­mu skladu Sierra.}
+{255}{}{Hmmm... to vypadÃ¡ jako stopa.}
+{256}{}{Hmmm... dÃ³bÅ™e Å¾e mÃ¡m papÃ­rek. HajzlpapÃ­r uÅ¾ nÃ©jni.}

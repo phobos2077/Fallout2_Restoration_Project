@@ -1,17 +1,17 @@
-{100}{}{Vidíš dveøe.}
-{101}{}{Vypadají velice bytelnì.}
-{102}{}{Dveøe se ani nehnou.}
-{103}{}{(Všímáš si malé dírky ve dveøích, ze které jako by vycházel nìjakı hluk.) Haló?}
-{104}{}{Eh, haló?}
-{105}{}{Odkdy dveøe mluví?}
-{106}{}{Ehm, nazdárek.}
+{100}{}{VidÃ­Å¡ dveÅ™e.}
+{101}{}{VypadajÃ­ velice bytelnÄ›.}
+{102}{}{DveÅ™e se ani nehnou.}
+{103}{}{(VÅ¡Ã­mÃ¡Å¡ si malÃ© dÃ­rky ve dveÅ™Ã­ch, ze kterÃ© jako by vychÃ¡zel nÄ›jakÃ½ hluk.) HalÃ³?}
+{104}{}{Eh, halÃ³?}
+{105}{}{Odkdy dveÅ™e mluvÃ­?}
+{106}{}{Ehm, nazdÃ¡rek.}
 {107}{}{GANG PROBLEM LIMB.}
-{108}{}{Cvak... (Dveøe se odemknou.)}
-{109}{}{Promiò, ale nemáme zájem.}
-{110}{}{Dveøe jsou zavøené z druhé strany a nezdá se, e by se daly nìjak vypáèit.}
-{111}{}{Dveøe jsou zapuštìné do zárubnì a není moné nikam umístit past.}
-{112}{}{Dveøe pod nátlakem vrou a praskají.}
-{113}{}{Dveøe jsou ji odemèeny.}
-{114}{}{Nepøedstavuješ pro tyto dveøe ádnou vızvu.}
-{120}{}{Haló, hu hu?}
-{121}{}{Hehe, mluvicí dveøa. Ahoj!}
+{108}{}{Cvak... (DveÅ™e se odemknou.)}
+{109}{}{PromiÅˆ, ale nemÃ¡me zÃ¡jem.}
+{110}{}{DveÅ™e jsou zavÅ™enÃ© z druhÃ© strany a nezdÃ¡ se, Å¾e by se daly nÄ›jak vypÃ¡Äit.}
+{111}{}{DveÅ™e jsou zapuÅ¡tÄ›nÃ© do zÃ¡rubnÄ› a nenÃ­ moÅ¾nÃ© nikam umÃ­stit past.}
+{112}{}{DveÅ™e pod nÃ¡tlakem vrÅ¾ou a praskajÃ­.}
+{113}{}{DveÅ™e jsou jiÅ¾ odemÄeny.}
+{114}{}{NepÅ™edstavujeÅ¡ pro tyto dveÅ™e Å¾Ã¡dnou vÃ½zvu.}
+{120}{}{HalÃ³, hu hu?}
+{121}{}{Hehe, mluvicÃ­ dveÅ™a. Ahoj!}

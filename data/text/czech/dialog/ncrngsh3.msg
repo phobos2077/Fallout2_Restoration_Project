@@ -1,1 +1,1 @@
-{100}{}{Vstupuješ do hornaté oblasti, kde se nachází úkryt Rangerù.}
+{100}{}{VstupujeÅ¡ do hornatÃ© oblasti, kde se nachÃ¡zÃ­ Ãºkryt RangerÅ¯.}

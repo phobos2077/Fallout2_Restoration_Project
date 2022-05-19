@@ -1,4 +1,4 @@
-{100}{}{Vidíš strá.}
-{101}{}{Vypadá to, e je obchodníkova gorila.}
-{102}{}{Promluv si se šéfem, jestli nìco potøebuješ.}
-{103}{}{Nedìlej ádnı problémy, rozumíš?}
+{100}{}{VidÃ­Å¡ strÃ¡Å¾.}
+{101}{}{VypadÃ¡ to, Å¾e je obchodnÃ­kova gorila.}
+{102}{}{Promluv si se Å¡Ã©fem, jestli nÄ›co potÅ™ebujeÅ¡.}
+{103}{}{NedÄ›lej Å¾Ã¡dnÃ½ problÃ©my, rozumÃ­Å¡?}

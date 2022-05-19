@@ -1,1 +1,1 @@
-{100}{}{Vstupujeö do rozvodny vzduchu, vody a energie.}
+{100}{}{Vstupuje≈° do rozvodny vzduchu, vody a energie.}

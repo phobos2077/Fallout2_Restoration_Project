@@ -1,10 +1,10 @@
-{100}{}{Vidíš boxera.}
-{101}{}{Vidíš Mikea "dímaèku."}
-{150}{}{Jeho pae ti pøipomínají kmen stoletého dubu.}
-{151}{}{Kadá jeho pae pøipomíná hlaveò kanónu.}
-{152}{}{Kdy se hıbe, je to jako sledovat rozbouøenı oceán svalù.}
-{153}{}{Dívá se hladovì na tvé ucho.}
-{154}{}{Jeho tváø pøipomíná plátek syrového masa.}
+{100}{}{VidÃ­Å¡ boxera.}
+{101}{}{VidÃ­Å¡ Mikea "Å½dÃ­maÄku."}
+{150}{}{Jeho paÅ¾e ti pÅ™ipomÃ­najÃ­ kmen stoletÃ©ho dubu.}
+{151}{}{KaÅ¾dÃ¡ jeho paÅ¾e pÅ™ipomÃ­nÃ¡ hlaveÅˆ kanÃ³nu.}
+{152}{}{KdyÅ¾ se hÃ½be, je to jako sledovat rozbouÅ™enÃ½ oceÃ¡n svalÅ¯.}
+{153}{}{DÃ­vÃ¡ se hladovÄ› na tvÃ© ucho.}
+{154}{}{Jeho tvÃ¡Å™ pÅ™ipomÃ­nÃ¡ plÃ¡tek syrovÃ©ho masa.}
 {158}{}{Hurgghhh}
 {159}{}{Gunhrrhh.}
 {160}{}{Mike smash.}
@@ -23,11 +23,11 @@
 {173}{}{Snrggg.}
 {174}{}{Me hate Robbin' Givens.}
 {175}{}{Grrrrrgrrrrgrrr... grrr... grrr... grr! Grr! Grrr?}
-{176}{}{Co znamenat 'podíl na zisku'?}
-{200}{}{::Mike se schoulil, jakmile tì uvidìl::}
-{201}{}{::Mike zakòuèel, kdy si tì všiml::}
-{202}{}{::Mike zvedá ruce na znamení, e se vzdává::}
+{176}{}{Co znamenat 'podÃ­l na zisku'?}
+{200}{}{::Mike se schoulil, jakmile tÄ› uvidÄ›l::}
+{201}{}{::Mike zakÅˆuÄel, kdyÅ¾ si tÄ› vÅ¡iml::}
+{202}{}{::Mike zvedÃ¡ ruce na znamenÃ­, Å¾e se vzdÃ¡vÃ¡::}
 {203}{}{You cute.}
 {204}{}{Me like your ears.}
-{205}{}{Dost mluvit. Èas na postel.}
+{205}{}{Dost mluvit. ÄŒas na postel.}
 {206}{}{Robin? To ty?}

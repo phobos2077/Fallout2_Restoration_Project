@@ -1,9 +1,9 @@
-{100}{}{Vidíš podivnı stroj.}
-{101}{}{Tento stroj øídí holografickou projekci hologramu v této místnosti.}
+{100}{}{VidÃ­Å¡ podivnÃ½ stroj.}
+{101}{}{Tento stroj Å™Ã­dÃ­ holografickou projekci hologramu v tÃ©to mÃ­stnosti.}
 {103}{}{Chyba ve stroji byla nalezena a rychle opravena.}
-{104}{}{Tento stroj je u opravenı.}
-{105}{}{Vypadá to, e docházelo k rušení, které zpùsobovalo komolení hlasu hologramu.}
-{106}{}{Oprava tohoto stroje se zdá bıt pøíliš sloitá.}
-{107}{}{Co vùbec hledám?}
-{108}{}{Zatracenì. Tohle je na mì pøíliš sloité. Opravování prostì není moje silná stránka.}
-{109}{}{Zatracenì, dokonce i s tímhle náøadím je to pro mì pøíliš tìké. Opravování prostì není moje silná stránka.}
+{104}{}{Tento stroj je uÅ¾ opravenÃ½.}
+{105}{}{VypadÃ¡ to, Å¾e dochÃ¡zelo k ruÅ¡enÃ­, kterÃ© zpÅ¯sobovalo komolenÃ­ hlasu hologramu.}
+{106}{}{Oprava tohoto stroje se zdÃ¡ bÃ½t pÅ™Ã­liÅ¡ sloÅ¾itÃ¡.}
+{107}{}{Co vÅ¯bec hledÃ¡m?}
+{108}{}{ZatracenÄ›. Tohle je na mÄ› pÅ™Ã­liÅ¡ sloÅ¾itÃ©. OpravovÃ¡nÃ­ prostÄ› nenÃ­ moje silnÃ¡ strÃ¡nka.}
+{109}{}{ZatracenÄ›, dokonce i s tÃ­mhle nÃ¡Å™adÃ­m je to pro mÄ› pÅ™Ã­liÅ¡ tÄ›Å¾kÃ©. OpravovÃ¡nÃ­ prostÄ› nenÃ­ moje silnÃ¡ strÃ¡nka.}

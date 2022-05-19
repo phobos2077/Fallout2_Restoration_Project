@@ -1,11 +1,11 @@
-{100}{}{Vidíš vydìšeného pocestného.}
-{101}{}{Vidíš obchodníkova stráce.}
-{200}{}{ádné zbranì v blízkosti šéfa.}
-{201}{}{Nikdo nesmí k šéfovi ozbrojen.}
-{202}{}{Odlo tu zbraò, ne to do tebe napálím.}
-{203}{}{Odlo ty zbranì, nebo vypadni.}
-{250}{}{Varoval jsem tì... teï zaplatíš.}
-{300}{}{Promluv si se šéfem, ten ti pomùe.}
-{301}{}{Beru svou práci vánì. Zaèni si nìco s mım šéfem a je po tobì.}
-{302}{}{Vìtšinou se s mım šéfem dá vyjít.}
-{303}{}{Neopova se nìco šéfovi ukrást.}
+{100}{}{VidÃ­Å¡ vydÄ›Å¡enÃ©ho pocestnÃ©ho.}
+{101}{}{VidÃ­Å¡ obchodnÃ­kova strÃ¡Å¾ce.}
+{200}{}{Å½Ã¡dnÃ© zbranÄ› v blÃ­zkosti Å¡Ã©fa.}
+{201}{}{Nikdo nesmÃ­ k Å¡Ã©fovi ozbrojen.}
+{202}{}{OdloÅ¾ tu zbraÅˆ, neÅ¾ to do tebe napÃ¡lÃ­m.}
+{203}{}{OdloÅ¾ ty zbranÄ›, nebo vypadni.}
+{250}{}{Varoval jsem tÄ›... teÄ zaplatÃ­Å¡.}
+{300}{}{Promluv si se Å¡Ã©fem, ten ti pomÅ¯Å¾e.}
+{301}{}{Beru svou prÃ¡ci vÃ¡Å¾nÄ›. ZaÄni si nÄ›co s mÃ½m Å¡Ã©fem a je po tobÄ›.}
+{302}{}{VÄ›tÅ¡inou se s mÃ½m Å¡Ã©fem dÃ¡ vyjÃ­t.}
+{303}{}{NeopovaÅ¾ se nÄ›co Å¡Ã©fovi ukrÃ¡st.}

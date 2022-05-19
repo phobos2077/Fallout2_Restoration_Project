@@ -1,4 +1,4 @@
-{100}{}{Propadáš dírou do jeskynì pod tebou.}
-{101}{}{Vidíš díru v podlaze jeskynì.}
-{102}{}{ vidí díru v podlaze jeskynì.}
-{103}{}{Vidíš díru v podlaze jeskynì.}
+{100}{}{PropadÃ¡Å¡ dÃ­rou do jeskynÄ› pod tebou.}
+{101}{}{VidÃ­Å¡ dÃ­ru v podlaze jeskynÄ›.}
+{102}{}{ vidÃ­ dÃ­ru v podlaze jeskynÄ›.}
+{103}{}{VidÃ­Å¡ dÃ­ru v podlaze jeskynÄ›.}

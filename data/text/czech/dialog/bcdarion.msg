@@ -1,5 +1,5 @@
-{100}{}{Vidíš staršího mue.}
-{101}{}{Vidíš Dariona, vùdce bandy Novıch Khanù.}
-{102}{}{Vidíš staršího mue s øídkımi šedivımi vlasy. Vypadá to, e je na svùj vìk ve skvìlé kondici.}
-{103}{}{Tak koneènì jsi tady. Spasitel utiskovanıch, ochránce práva a symbol nadìje lidstva. Taková blbost! Poslyš, ještì ne zaèneš s tìma otravnıma vástama, chci ti øíct, e ti na nì seru. Take, co kdybysme se teï vykašlali na formality a pøešli rovnou k vìci a to máme z krku? Právì jsem se toti rozhodl, e z tebe udìlám rádlo pro mıho psa. Vem si ho, Èerte!}
+{100}{}{VidÃ­Å¡ starÅ¡Ã­ho muÅ¾e.}
+{101}{}{VidÃ­Å¡ Dariona, vÅ¯dce bandy NovÃ½ch KhanÅ¯.}
+{102}{}{VidÃ­Å¡ starÅ¡Ã­ho muÅ¾e s Å™Ã­dkÃ½mi Å¡edivÃ½mi vlasy. VypadÃ¡ to, Å¾e je na svÅ¯j vÄ›k ve skvÄ›lÃ© kondici.}
+{103}{}{Tak koneÄnÄ› jsi tady. Spasitel utiskovanÃ½ch, ochrÃ¡nce prÃ¡va a symbol nadÄ›je lidstva. TakovÃ¡ blbost! PoslyÅ¡, jeÅ¡tÄ› neÅ¾ zaÄneÅ¡ s tÄ›ma otravnÃ½ma Å¾vÃ¡stama, chci ti Å™Ã­ct, Å¾e ti na nÄ› seru. TakÅ¾e, co kdybysme se teÄ vykaÅ¡lali na formality a pÅ™eÅ¡li rovnou k vÄ›ci aÅ¥ to mÃ¡me z krku? PrÃ¡vÄ› jsem se totiÅ¾ rozhodl, Å¾e z tebe udÄ›lÃ¡m Å¾rÃ¡dlo pro mÃ½ho psa. Vem si ho, ÄŒerte!}
 {104}{}{Beru.}

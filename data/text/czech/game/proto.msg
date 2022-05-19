@@ -2,218 +2,218 @@
 {100}{}{Sklo}
 {101}{}{Kov}
 {102}{}{Plast}
-{103}{}{Døevo}
-{104}{}{Hlína}
-{105}{}{Kámen}
+{103}{}{DÅ™evo}
+{104}{}{HlÃ­na}
+{105}{}{KÃ¡men}
 {106}{}{Cement}
-{107}{}{Kùe}
+{107}{}{KÅ¯Å¾e}
 {150}{}{Zbroj}
 {151}{}{Kontejner}
 {152}{}{Droga}
-{153}{}{Zbraò}
-{154}{}{Støelivo}
-{155}{}{Rùzné}
-{156}{}{Klíè}
-{200}{}{Portál}
+{153}{}{ZbraÅˆ}
+{154}{}{StÅ™elivo}
+{155}{}{RÅ¯znÃ©}
+{156}{}{KlÃ­Ä}
+{200}{}{PortÃ¡l}
 {201}{}{Schody}
-{202}{}{Vıtah}
-{203}{}{Vrch ebøíku}
-{204}{}{Spodek ebøíku}
-{205}{}{Obecná scenérie}
-{250}{}{normální}
+{202}{}{VÃ½tah}
+{203}{}{Vrch Å¾ebÅ™Ã­ku}
+{204}{}{Spodek Å¾ebÅ™Ã­ku}
+{205}{}{ObecnÃ¡ scenÃ©rie}
+{250}{}{normÃ¡lnÃ­}
 {251}{}{laser}
-{252}{}{oheò}
+{252}{}{oheÅˆ}
 {253}{}{plazma}
-{254}{}{elektøina}
+{254}{}{elektÅ™ina}
 {255}{}{EMP}
 {256}{}{exploze}
-{300}{}{ádné}
+{300}{}{Å½Ã¡dnÃ©}
 {301}{}{Raketa}
-{302}{}{Náplò do plamenometu}
-{303}{}{Malı energetickı èlánek}
-{304}{}{Mikro-fúzní èlánek}
+{302}{}{NÃ¡plÅˆ do plamenometu}
+{303}{}{MalÃ½ energetickÃ½ ÄlÃ¡nek}
+{304}{}{Mikro-fÃºznÃ­ ÄlÃ¡nek}
 {305}{}{.223}
 {306}{}{5mm}
 {307}{}{.40}
 {308}{}{10mm}
 {309}{}{.44}
 {310}{}{14mm}
-{311}{}{Brokové náboje ráe 12}
+{311}{}{BrokovÃ© nÃ¡boje rÃ¡Å¾e 12}
 {312}{}{9mm}
 {313}{}{Broky}
 {314}{}{.45}
 {315}{}{2mm}
-{316}{}{4.7mm beznábojnicová}
-{317}{}{HN jehlová munice}
+{316}{}{4.7mm beznÃ¡bojnicovÃ¡}
+{317}{}{HN jehlovÃ¡ munice}
 {318}{}{7.62mm}
-{350}{}{Bìloch}
-{351}{}{Èernoch}
-{400}{}{Dvounohı}
-{401}{}{Ètyønohı}
-{402}{}{Robotickı}
-{450}{}{Mui}
-{451}{}{eny}
-{452}{}{Dìti}
+{350}{}{BÄ›loch}
+{351}{}{ÄŒernoch}
+{400}{}{DvounohÃ½}
+{401}{}{ÄŒtyÅ™nohÃ½}
+{402}{}{RobotickÃ½}
+{450}{}{MuÅ¾i}
+{451}{}{Å½eny}
+{452}{}{DÄ›ti}
 {453}{}{Super mutants}
-{454}{}{Ghoulové}
-{455}{}{Brahmína}
-{456}{}{Radškorpioni}
+{454}{}{GhoulovÃ©}
+{455}{}{BrahmÃ­na}
+{456}{}{RadÅ¡korpioni}
 {457}{}{Krysy}
-{458}{}{Floateøi}
-{459}{}{Kentauøi}
+{458}{}{FloateÅ™i}
+{459}{}{KentauÅ™i}
 {460}{}{Roboti}
 {461}{}{Psi}
-{462}{}{Mantisové}
+{462}{}{MantisovÃ©}
 {463}{}{Deathclaws}
 {464}{}{Rostlina}
-{465}{}{Tato øádka ukazuje, kolik muù jsi bìhem své cesty zabil.}
-{466}{}{Tato øádka ukazuje, kolik en jsi bìhem svého putování zabil.}
-{467}{}{Ten, kdo tenhle øádek vidí, by se nad sebou mìl vánì zamyslet. Jestli tì opravdu baví støílet do dìtí (i kdy jen na obrazovce poèítaèe), nebudeš asi docela v poøádku.}
-{468}{}{Poèet supermutantù, které jsi bìhem svého dobrodruství odstranil ze svìta.}
-{469}{}{Tato øádka ukazuje poèet ghoulù, muù a en, které jsi zabil bìhem svého putování.}
-{470}{}{Tato øádka ukazuje, kolik brahmín (zmutovanıch krav) jsi v prùbìhu hry nasekal do guláše.}
-{471}{}{Poèet rùznì zmutovanıch radškorpionù, které jsi bìhem svého putování odeslal na onen svìt.}
-{472}{}{Poèet zabitıch krys, na kterıch jsi provedl mechanickou deratizaci. Vèetnì všech genetickıch pøíbuznıch tohoto hlodavce.}
-{473}{}{Poèet floaterù, které jsi rozsekal na cucky.}
-{474}{}{Tvoje záøezy za mrtvé kentaury.}
-{475}{}{Poèet robotù, které jsi definitivnì poslal do køemíkového nebe.}
-{476}{}{Celkovı poèet psù expresnì odeslanıch do velkého psince v nebi.}
-{477}{}{Tato øádka ukazuje celkovı poèet mantisù nebo jim podobného, stejnì hnusného hmyzu, na kterém jsi provedl dùkladnou dezinsekci.}
-{478}{}{Tato øádka ti napoví, kolik jsi zlikvidoval páraèù, vèetnì všech jejich genetickıch pøíbuznıch.}
-{479}{}{Poèet kytek, které díky tobì u nikdy nezavoní.}
+{465}{}{Tato Å™Ã¡dka ukazuje, kolik muÅ¾Å¯ jsi bÄ›hem svÃ© cesty zabil.}
+{466}{}{Tato Å™Ã¡dka ukazuje, kolik Å¾en jsi bÄ›hem svÃ©ho putovÃ¡nÃ­ zabil.}
+{467}{}{Ten, kdo tenhle Å™Ã¡dek vidÃ­, by se nad sebou mÄ›l vÃ¡Å¾nÄ› zamyslet. Jestli tÄ› opravdu bavÃ­ stÅ™Ã­let do dÄ›tÃ­ (i kdyÅ¾ jen na obrazovce poÄÃ­taÄe), nebudeÅ¡ asi docela v poÅ™Ã¡dku.}
+{468}{}{PoÄet supermutantÅ¯, kterÃ© jsi bÄ›hem svÃ©ho dobrodruÅ¾stvÃ­ odstranil ze svÄ›ta.}
+{469}{}{Tato Å™Ã¡dka ukazuje poÄet ghoulÅ¯, muÅ¾Å¯ a Å¾en, kterÃ© jsi zabil bÄ›hem svÃ©ho putovÃ¡nÃ­.}
+{470}{}{Tato Å™Ã¡dka ukazuje, kolik brahmÃ­n (zmutovanÃ½ch krav) jsi v prÅ¯bÄ›hu hry nasekal do gulÃ¡Å¡e.}
+{471}{}{PoÄet rÅ¯znÄ› zmutovanÃ½ch radÅ¡korpionÅ¯, kterÃ© jsi bÄ›hem svÃ©ho putovÃ¡nÃ­ odeslal na onen svÄ›t.}
+{472}{}{PoÄet zabitÃ½ch krys, na kterÃ½ch jsi provedl mechanickou deratizaci. VÄetnÄ› vÅ¡ech genetickÃ½ch pÅ™Ã­buznÃ½ch tohoto hlodavce.}
+{473}{}{PoÄet floaterÅ¯, kterÃ© jsi rozsekal na cucky.}
+{474}{}{Tvoje zÃ¡Å™ezy za mrtvÃ© kentaury.}
+{475}{}{PoÄet robotÅ¯, kterÃ© jsi definitivnÄ› poslal do kÅ™emÃ­kovÃ©ho nebe.}
+{476}{}{CelkovÃ½ poÄet psÅ¯ expresnÄ› odeslanÃ½ch do velkÃ©ho psince v nebi.}
+{477}{}{Tato Å™Ã¡dka ukazuje celkovÃ½ poÄet mantisÅ¯ nebo jim podobnÃ©ho, stejnÄ› hnusnÃ©ho hmyzu, na kterÃ©m jsi provedl dÅ¯kladnou dezinsekci.}
+{478}{}{Tato Å™Ã¡dka ti napovÃ­, kolik jsi zlikvidoval pÃ¡raÄÅ¯, vÄetnÄ› vÅ¡ech jejich genetickÃ½ch pÅ™Ã­buznÃ½ch.}
+{479}{}{PoÄet kytek, kterÃ© dÃ­ky tobÄ› uÅ¾ nikdy nezavonÃ­.}
 {480}{}{%s.}
-{485}{}{Prohledáváš: %s.}
-{486}{}{Zavíráš: %s.}
-{487}{}{Zamèeno.}
+{485}{}{ProhledÃ¡vÃ¡Å¡: %s.}
+{486}{}{ZavÃ­rÃ¡Å¡: %s.}
+{487}{}{ZamÄeno.}
 {490}{}{%s.}
-{491}{}{Vidíš mrtvé tìlo. Je to %s.}
-{492}{}{Vidíš nìjaké pozùstatky. Je to %s.}
-{493}{}{Nic zvláštního nevidíš.}
+{491}{}{VidÃ­Å¡ mrtvÃ© tÄ›lo. Je to %s.}
+{492}{}{VidÃ­Å¡ nÄ›jakÃ© pozÅ¯statky. Je to %s.}
+{493}{}{Nic zvlÃ¡Å¡tnÃ­ho nevidÃ­Å¡.}
 {500}{}{po smrti}
-{501}{}{na umøení}
-{502}{}{prabídnì}
-{503}{}{zranìnì}
-{504}{}{v poøádku}
-{510}{}{Modifikátor TZ: %d}
-{511}{}{Modifikátor OVP: %d}
-{512}{}{Mod. poškození: %d/%d}
-{518}{}{Vypadáš: %s }
+{501}{}{na umÅ™enÃ­}
+{502}{}{prabÃ­dnÄ›}
+{503}{}{zranÄ›nÄ›}
+{504}{}{v poÅ™Ã¡dku}
+{510}{}{ModifikÃ¡tor TZ: %d}
+{511}{}{ModifikÃ¡tor OVP: %d}
+{512}{}{Mod. poÅ¡kozenÃ­: %d/%d}
+{518}{}{VypadÃ¡Å¡: %s }
 {519}{}{%s %s }
-{520}{}{Vypadáš: %s.}
+{520}{}{VypadÃ¡Å¡: %s.}
 {521}{}{%s %s.}
-{522}{}{Vypadá: %s }
-{523}{}{Vypadá: %s }
-{524}{}{Vypadá: %s }
-{525}{}{%s má %d/%d hit bodù.}
-{526}{}{Zásobník: %d/%d ran. Munice: %s.}
-{530}{}{a má zmrzaèené konèetiny.}
-{531}{}{ale má zmrzaèené konèetiny.}
-{532}{}{a má zmrzaèené konèetiny.}
-{533}{}{ale má zmrzaèené konèetiny.}
-{535}{}{Má %d/%d hit bodù}
-{536}{}{Má %d/%d hit bodù}
-{537}{}{Má %d/%d hit bodù}
-{540}{}{Váha: %d.}
-{541}{}{Váha: %d.}
+{522}{}{VypadÃ¡: %s }
+{523}{}{VypadÃ¡: %s }
+{524}{}{VypadÃ¡: %s }
+{525}{}{%s mÃ¡ %d/%d hit bodÅ¯.}
+{526}{}{ZÃ¡sobnÃ­k: %d/%d ran. Munice: %s.}
+{530}{}{a mÃ¡ zmrzaÄenÃ© konÄetiny.}
+{531}{}{ale mÃ¡ zmrzaÄenÃ© konÄetiny.}
+{532}{}{a mÃ¡ zmrzaÄenÃ© konÄetiny.}
+{533}{}{ale mÃ¡ zmrzaÄenÃ© konÄetiny.}
+{535}{}{MÃ¡ %d/%d hit bodÅ¯}
+{536}{}{MÃ¡ %d/%d hit bodÅ¯}
+{537}{}{MÃ¡ %d/%d hit bodÅ¯}
+{540}{}{VÃ¡ha: %d.}
+{541}{}{VÃ¡ha: %d.}
 {544}{}{, }
 {545}{}{.}
-{546}{}{ a drí pøedmìt: %s.}
-{547}{}{ a drí zbraò: %s s %d/%d náboji %s.}
-{548}{}{Vypadá to, e je auto momentálnì nefunkèní.}
-{549}{}{Energetickı zásobník auta ukazuje %d%%.}
+{546}{}{ a drÅ¾Ã­ pÅ™edmÄ›t: %s.}
+{547}{}{ a drÅ¾Ã­ zbraÅˆ: %s s %d/%d nÃ¡boji %s.}
+{548}{}{VypadÃ¡ to, Å¾e je auto momentÃ¡lnÄ› nefunkÄnÃ­.}
+{549}{}{EnergetickÃ½ zÃ¡sobnÃ­k auta ukazuje %d%%.}
 {550}{}{\nError: lookup_val out of range!}
 {551}{}{\nError: obj_examine: proto_ptr failed!}
-{580}{}{Pouíváš pøedmìt: %s.}
-{581}{}{Pouíváš pøedmìt: %s na objekt: %s.}
-{582}{}{Nic to nedìlá.}
-{583}{}{Ke svému zdìšení zjišuješ, e u se díváš jen na mrtvolu.}
-{584}{}{Kdy se sehneš, zjistíš, e u se díváš jen na mrtvolu.}
-{585}{}{Bohuel, pøíliš pozdì...}
+{580}{}{PouÅ¾Ã­vÃ¡Å¡ pÅ™edmÄ›t: %s.}
+{581}{}{PouÅ¾Ã­vÃ¡Å¡ pÅ™edmÄ›t: %s na objekt: %s.}
+{582}{}{Nic to nedÄ›lÃ¡.}
+{583}{}{Ke svÃ©mu zdÄ›Å¡enÃ­ zjiÅ¡Å¥ujeÅ¡, Å¾e uÅ¾ se dÃ­vÃ¡Å¡ jen na mrtvolu.}
+{584}{}{KdyÅ¾ se sehneÅ¡, zjistÃ­Å¡, Å¾e uÅ¾ se dÃ­vÃ¡Å¡ jen na mrtvolu.}
+{585}{}{BohuÅ¾el, pÅ™Ã­liÅ¡ pozdÄ›...}
 {586}{}{Na mrtvole ti to fungovat nebude.}
-{587}{}{Zapaluješ svìtlici.}
-{588}{}{Svìtlice je u zapálená.}
-{589}{}{Nastavuješ èasovaè.}
-{590}{}{Odpoèet u zaèal!}
-{595}{}{Doplòuješ do auta energii.}
-{596}{}{Zásobník auta je u plnı.}
-{597}{}{Vchod je zablokován.}
-{620}{}{Získáváš %d zkušenostních bodù za zabití nepøítele: %s.}
-{621}{}{%s získáváš %d zkušenostních bodù.}
-{622}{}{Za poraení nepøátel}
-{623}{}{Za likvidaci svıch protivníkù}
-{624}{}{Za vítìzství v boji}
-{625}{}{Za rozdrcení svıch nepøátel}
-{626}{}{Za znièení svıch nepøátel bez jediného utrpìného škrábnutí}
+{587}{}{ZapalujeÅ¡ svÄ›tlici.}
+{588}{}{SvÄ›tlice je uÅ¾ zapÃ¡lenÃ¡.}
+{589}{}{NastavujeÅ¡ ÄasovaÄ.}
+{590}{}{OdpoÄet uÅ¾ zaÄal!}
+{595}{}{DoplÅˆujeÅ¡ do auta energii.}
+{596}{}{ZÃ¡sobnÃ­k auta je uÅ¾ plnÃ½.}
+{597}{}{Vchod je zablokovÃ¡n.}
+{620}{}{ZÃ­skÃ¡vÃ¡Å¡ %d zkuÅ¡enostnÃ­ch bodÅ¯ za zabitÃ­ nepÅ™Ã­tele: %s.}
+{621}{}{%s zÃ­skÃ¡vÃ¡Å¡ %d zkuÅ¡enostnÃ­ch bodÅ¯.}
+{622}{}{Za poraÅ¾enÃ­ nepÅ™Ã¡tel}
+{623}{}{Za likvidaci svÃ½ch protivnÃ­kÅ¯}
+{624}{}{Za vÃ­tÄ›zstvÃ­ v boji}
+{625}{}{Za rozdrcenÃ­ svÃ½ch nepÅ™Ã¡tel}
+{626}{}{Za zniÄenÃ­ svÃ½ch nepÅ™Ã¡tel bez jedinÃ©ho utrpÄ›nÃ©ho Å¡krÃ¡bnutÃ­}
 {650}{}{[KONEC]}
-{651}{}{[Více]}
-{652}{}{Více}
-{653}{}{[Zpìt]}
-{654}{}{Zpìt.}
+{651}{}{[VÃ­ce]}
+{652}{}{VÃ­ce}
+{653}{}{[ZpÄ›t]}
+{654}{}{ZpÄ›t.}
 {655}{}{Jdi na to}
 {656}{}{Eh...}
-{660}{}{Nic nevidíš.}
-{661}{}{Pøíliš daleko.}
-{670}{}{Dobøe.}
-{671}{}{Jasnì.}
-{672}{}{Jak si pøeješ.}
-{673}{}{Jak myslíš.}
-{674}{}{Zkusím to.}
-{675}{}{Ne, to nemùu udìlat.}
-{676}{}{Myslím, e tohle nedokáu.}
-{677}{}{Òaf}
+{660}{}{Nic nevidÃ­Å¡.}
+{661}{}{PÅ™Ã­liÅ¡ daleko.}
+{670}{}{DobÅ™e.}
+{671}{}{JasnÄ›.}
+{672}{}{Jak si pÅ™ejeÅ¡.}
+{673}{}{Jak myslÃ­Å¡.}
+{674}{}{ZkusÃ­m to.}
+{675}{}{Ne, to nemÅ¯Å¾u udÄ›lat.}
+{676}{}{MyslÃ­m, Å¾e tohle nedokÃ¡Å¾u.}
+{677}{}{Å‡af}
 {678}{}{Haf!}
-{700}{}{Nemáš dostatek akèních bodù.}
-{800}{}{Pøeèetl sis celou knihu.}
-{801}{}{Nic nového ses nenauèil.}
-{802}{}{Získal jsi nové vìdecké poznatky.}
-{803}{}{Nauèil ses spoustu vìcí o opravování poškozené elektroniky.}
-{804}{}{Nauèil ses, jak lépe léèit zranìní.}
-{805}{}{Nauèil ses lépe zacházet se zbranìmi.}
-{806}{}{Nauèil ses, jak lépe pøeít v pustinì.}
-{900}{}{Zásoby z doktorského kuføíku u došly.}
-{901}{}{Zásoby ze soupravy první pomoci u došly.}
-{902}{}{V prùbìhu boje tohle udìlat nemùeš.}
+{700}{}{NemÃ¡Å¡ dostatek akÄnÃ­ch bodÅ¯.}
+{800}{}{PÅ™eÄetl sis celou knihu.}
+{801}{}{Nic novÃ©ho ses nenauÄil.}
+{802}{}{ZÃ­skal jsi novÃ© vÄ›deckÃ© poznatky.}
+{803}{}{NauÄil ses spoustu vÄ›cÃ­ o opravovÃ¡nÃ­ poÅ¡kozenÃ© elektroniky.}
+{804}{}{NauÄil ses, jak lÃ©pe lÃ©Äit zranÄ›nÃ­.}
+{805}{}{NauÄil ses lÃ©pe zachÃ¡zet se zbranÄ›mi.}
+{806}{}{NauÄil ses, jak lÃ©pe pÅ™eÅ¾Ã­t v pustinÄ›.}
+{900}{}{ZÃ¡soby z doktorskÃ©ho kufÅ™Ã­ku uÅ¾ doÅ¡ly.}
+{901}{}{ZÃ¡soby ze soupravy prvnÃ­ pomoci uÅ¾ doÅ¡ly.}
+{902}{}{V prÅ¯bÄ›hu boje tohle udÄ›lat nemÅ¯Å¾eÅ¡.}
 {903}{}{Tato osoba s tebou obchodovat nebude.}
-{904}{}{Tato osoba ti nemá co øíct.}
-{905}{}{Tento pøedmìt nemùeš sebrat. U toho víc neuneseš.}
-{910}{}{Zásoby ze záchranáøské brašny u došly.}
-{911}{}{Zásoby z polní lékaøské soupravy u došly.}
-{913}{}{Tenhle tvor nemùe nic nosit.}
-{1450}{}{Mui}
-{1451}{}{eny}
-{1452}{}{Dìti}
+{904}{}{Tato osoba ti nemÃ¡ co Å™Ã­ct.}
+{905}{}{Tento pÅ™edmÄ›t nemÅ¯Å¾eÅ¡ sebrat. UÅ¾ toho vÃ­c neuneseÅ¡.}
+{910}{}{ZÃ¡soby ze zÃ¡chranÃ¡Å™skÃ© braÅ¡ny uÅ¾ doÅ¡ly.}
+{911}{}{ZÃ¡soby z polnÃ­ lÃ©kaÅ™skÃ© soupravy uÅ¾ doÅ¡ly.}
+{913}{}{Tenhle tvor nemÅ¯Å¾e nic nosit.}
+{1450}{}{MuÅ¾i}
+{1451}{}{Å½eny}
+{1452}{}{DÄ›ti}
 {1453}{}{Supermutanti}
-{1454}{}{Ghoulové}
-{1455}{}{Brahmína}
-{1456}{}{Radškorpioni}
+{1454}{}{GhoulovÃ©}
+{1455}{}{BrahmÃ­na}
+{1456}{}{RadÅ¡korpioni}
 {1457}{}{Krysy}
-{1458}{}{Floateøi}
-{1459}{}{Kentauøi}
+{1458}{}{FloateÅ™i}
+{1459}{}{KentauÅ™i}
 {1460}{}{Roboti}
 {1461}{}{Psi}
-{1462}{}{Mantisové}
+{1462}{}{MantisovÃ©}
 {1463}{}{Deathclaws}
 {1464}{}{Rostliny}
 {1465}{}{Geckoni}
 {1466}{}{Alieni}
-{1467}{}{Obøí mravenci}
-{1468}{}{HZH - Hlavní Zápornı Hrdina}
-{1469}{}{Tato øádka ukazuje, kolik muù jsi bìhem své cesty zabil.}
-{1470}{}{Tato øádka ukazuje, kolik en jsi bìhem svého putování zabil.}
-{1471}{}{Ten, kdo tenhle øádek vidí, by se nad sebou mìl vánì zamyslet. Jestli tì opravdu baví støílet do dìtí (i kdy jen na obrazovce poèítaèe), nebudeš asi docela v poøádku.}
-{1472}{}{Poèet supermutantù, které jsi bìhem svého dobrodruství odstranil ze svìta.}
-{1473}{}{Tato øádka ukazuje poèet ghoulù, muù a en, které jsi zabil bìhem svého putování.}
-{1474}{}{Tato øádka ukazuje, kolik brahmín (zmutovanıch krav) jsi v prùbìhu hry nasekal do guláše.}
-{1475}{}{Poèet rùznì zmutovanıch radškorpionù, které jsi bìhem svého putování odeslal na onen svìt.}
-{1476}{}{Poèet zabitıch krys. Vèetnì všech genetickıch pøíbuznıch tohoto hlodavce.}
-{1477}{}{Poèet floaterù, které jsi rozsekal na cucky.}
-{1478}{}{Tvoje záøezy za mrtvé kentaury.}
-{1479}{}{Poèet robotù, které jsi definitivnì poslal do køemíkového nebe.}
-{1480}{}{Celkovı poèet psù expresnì odeslanıch do velkého psince v nebi.}
-{1481}{}{Tato øádka ukazuje celkovı poèet mantisù nebo jim podobného, stejnì hnusného hmyzu, na kterém jsi provedl dùkladnou dezinsekci.}
-{1482}{}{Tato øádka ti napoví, kolik jsi zlikvidoval páraèù, vèetnì všech jejich genetickıch pøíbuznıch.}
-{1483}{}{Poèet kytek, které díky tobì u nikdy nikomu nezavoní.}
-{1484}{}{Poèet ještìrek, které jsi vymazal z tváøe této planety.}
-{1485}{}{Poèet alienù, kteøí u pilotku Ripleyovou zaruèenì otravovat nebudou.}
-{1486}{}{Poèet pøíslušníkù rozsáhlého hmyzího rodu, které jsi exemplárnì potrestal.}
-{1487}{}{Poèet geneticky vyšlechtìnıch, kyborgizovanıch, úplnì zcvoklıch vradících agentù, které jsi kdy oddìlal.}
+{1467}{}{ObÅ™Ã­ mravenci}
+{1468}{}{HZH - HlavnÃ­ ZÃ¡pornÃ½ Hrdina}
+{1469}{}{Tato Å™Ã¡dka ukazuje, kolik muÅ¾Å¯ jsi bÄ›hem svÃ© cesty zabil.}
+{1470}{}{Tato Å™Ã¡dka ukazuje, kolik Å¾en jsi bÄ›hem svÃ©ho putovÃ¡nÃ­ zabil.}
+{1471}{}{Ten, kdo tenhle Å™Ã¡dek vidÃ­, by se nad sebou mÄ›l vÃ¡Å¾nÄ› zamyslet. Jestli tÄ› opravdu bavÃ­ stÅ™Ã­let do dÄ›tÃ­ (i kdyÅ¾ jen na obrazovce poÄÃ­taÄe), nebudeÅ¡ asi docela v poÅ™Ã¡dku.}
+{1472}{}{PoÄet supermutantÅ¯, kterÃ© jsi bÄ›hem svÃ©ho dobrodruÅ¾stvÃ­ odstranil ze svÄ›ta.}
+{1473}{}{Tato Å™Ã¡dka ukazuje poÄet ghoulÅ¯, muÅ¾Å¯ a Å¾en, kterÃ© jsi zabil bÄ›hem svÃ©ho putovÃ¡nÃ­.}
+{1474}{}{Tato Å™Ã¡dka ukazuje, kolik brahmÃ­n (zmutovanÃ½ch krav) jsi v prÅ¯bÄ›hu hry nasekal do gulÃ¡Å¡e.}
+{1475}{}{PoÄet rÅ¯znÄ› zmutovanÃ½ch radÅ¡korpionÅ¯, kterÃ© jsi bÄ›hem svÃ©ho putovÃ¡nÃ­ odeslal na onen svÄ›t.}
+{1476}{}{PoÄet zabitÃ½ch krys. VÄetnÄ› vÅ¡ech genetickÃ½ch pÅ™Ã­buznÃ½ch tohoto hlodavce.}
+{1477}{}{PoÄet floaterÅ¯, kterÃ© jsi rozsekal na cucky.}
+{1478}{}{Tvoje zÃ¡Å™ezy za mrtvÃ© kentaury.}
+{1479}{}{PoÄet robotÅ¯, kterÃ© jsi definitivnÄ› poslal do kÅ™emÃ­kovÃ©ho nebe.}
+{1480}{}{CelkovÃ½ poÄet psÅ¯ expresnÄ› odeslanÃ½ch do velkÃ©ho psince v nebi.}
+{1481}{}{Tato Å™Ã¡dka ukazuje celkovÃ½ poÄet mantisÅ¯ nebo jim podobnÃ©ho, stejnÄ› hnusnÃ©ho hmyzu, na kterÃ©m jsi provedl dÅ¯kladnou dezinsekci.}
+{1482}{}{Tato Å™Ã¡dka ti napovÃ­, kolik jsi zlikvidoval pÃ¡raÄÅ¯, vÄetnÄ› vÅ¡ech jejich genetickÃ½ch pÅ™Ã­buznÃ½ch.}
+{1483}{}{PoÄet kytek, kterÃ© dÃ­ky tobÄ› uÅ¾ nikdy nikomu nezavonÃ­.}
+{1484}{}{PoÄet jeÅ¡tÄ›rek, kterÃ© jsi vymazal z tvÃ¡Å™e tÃ©to planety.}
+{1485}{}{PoÄet alienÅ¯, kteÅ™Ã­ uÅ¾ pilotku Ripleyovou zaruÄenÄ› otravovat nebudou.}
+{1486}{}{PoÄet pÅ™Ã­sluÅ¡nÃ­kÅ¯ rozsÃ¡hlÃ©ho hmyzÃ­ho rodu, kterÃ© jsi exemplÃ¡rnÄ› potrestal.}
+{1487}{}{PoÄet geneticky vyÅ¡lechtÄ›nÃ½ch, kyborgizovanÃ½ch, ÃºplnÄ› zcvoklÃ½ch vraÅ¾dÃ­cÃ­ch agentÅ¯, kterÃ© jsi kdy oddÄ›lal.}

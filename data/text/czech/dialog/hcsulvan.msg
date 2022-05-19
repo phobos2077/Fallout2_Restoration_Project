@@ -1,65 +1,65 @@
-{100}{}{Vidíš vysokého prošedivìlého mue s korbelem piva.}
-{101}{}{Vidíš Johna L. Sullivana. Boxera.}
-{102}{}{Vidíš vysokého staršího mue se svalnatımi paemi a šedivım, dobøe udrovanım, oficírskım knírkem.}
-{103}{}{Myslím, e u máš dost.}
-{104}{}{Pro pána krále, ty jsi ale blbec.}
-{105}{}{Myslím, e bys Torra pìknì potrápil.}
-{106}{}{Radši padej, ty podivíne.}
-{107}{}{Ach jo, další divoch se slámou v botách.}
-{108}{}{(Zkušenım okem si tì prohlédne.) Ale, copak to tu máme? Zdá se, e ty toho o vìdì moc nevíš, co?}
-{109}{}{Kdy pohneš tím svım línym zadkem, moná tì nìco málo nauèím.}
-{110}{}{O èem to mluvíš?}
-{111}{}{No jo, jasnì, mistøe. Nashle. Moná...}
-{112}{}{No, je to jen mùj odbornı názor, ale z toho, jak se pohybuješ, usuzuju, e se máš ještì dost co uèit.}
-{113}{}{Uèit? A co?}
-{114}{}{To si nemyslím, starouši. Pochybuju, e *ty* mì mùeš nìco nauèit. Sbohem.}
-{115}{}{O vìdì. O sportovním umìní.}
-{116}{}{Eh, o umìní? Myslíš o magii!?! Mùeš mì nauèit nìjaká kouzla?}
-{117}{}{O èem to mluvíš?}
-{118}{}{(Ušklíbne se.) Jasan, mùu ti ledacos povìdìt o skøítcích, šotcích, sprigganech, vílách a tak. Máš zájem?}
-{119}{}{To zní skvìle. Pouè mì.}
-{120}{}{Box, to je chlapské umìní pìstního boje. To je to, co mám na mysli.}
-{121}{}{Box je muskı, eh, a enskı zpùsob boje beze zbranì. To je to, co mám na mysli.}
-{122}{}{No, moná, e s tím potøebuju trochu pomoct.}
-{123}{}{No, mám takovı dojem, e u mì nemùeš nic nauèit.}
-{124}{}{(Obrátí se k ostatním.) Slyšeli jste to? U tady iju dlouho, ale tohle jsem ještì nezail. Chce slyšet o bludièkách a goblinech. (Hoho, hahaha, haha-hehehe ::smìje se èím dál víc::) Na, chlapèe, dej si na mì panáka, to je tvùj lístek do øíše kouzelnıch skøítkù.}
-{125}{}{(Obrátí se k ostatním.) Slyšeli jste to? U tady iju dlouho, ale tohle jsem ještì nezail. Chce slyšet o bludièkách a goblinech. (Hoho, hahaha, haha-hehehe ::smìje se èím dál víc::) Na, dìvèe, dej si na mì panáka, to je tvùj lístek do øíše kouzelnıch skøítkù.}
-{126}{}{Potøebuju jenom chlast? To je skvìlé, díky za radu.}
-{127}{}{Mám takovı zvláštní pocit, e si ze mì dìláš srandu.}
-{128}{}{No, ten chlast je jen zaèátek. Pak musíš najít èarovnı vrch. (Mrkne na okolo sedící štamgasty.)}
+{100}{}{VidÃ­Å¡ vysokÃ©ho proÅ¡edivÄ›lÃ©ho muÅ¾e s korbelem piva.}
+{101}{}{VidÃ­Å¡ Johna L. Sullivana. Boxera.}
+{102}{}{VidÃ­Å¡ vysokÃ©ho starÅ¡Ã­ho muÅ¾e se svalnatÃ½mi paÅ¾emi a Å¡edivÃ½m, dobÅ™e udrÅ¾ovanÃ½m, oficÃ­rskÃ½m knÃ­rkem.}
+{103}{}{MyslÃ­m, Å¾e uÅ¾ mÃ¡Å¡ dost.}
+{104}{}{Pro pÃ¡na krÃ¡le, ty jsi ale blbec.}
+{105}{}{MyslÃ­m, Å¾e bys Torra pÄ›knÄ› potrÃ¡pil.}
+{106}{}{RadÅ¡i padej, ty podivÃ­ne.}
+{107}{}{Ach jo, dalÅ¡Ã­ divoch se slÃ¡mou v botÃ¡ch.}
+{108}{}{(ZkuÅ¡enÃ½m okem si tÄ› prohlÃ©dne.) Ale, copak to tu mÃ¡me? ZdÃ¡ se, Å¾e ty toho o vÄ›dÄ› moc nevÃ­Å¡, co?}
+{109}{}{KdyÅ¾ pohneÅ¡ tÃ­m svÃ½m lÃ­nym zadkem, moÅ¾nÃ¡ tÄ› nÄ›co mÃ¡lo nauÄÃ­m.}
+{110}{}{O Äem to mluvÃ­Å¡?}
+{111}{}{No jo, jasnÄ›, mistÅ™e. Nashle. MoÅ¾nÃ¡...}
+{112}{}{No, je to jen mÅ¯j odbornÃ½ nÃ¡zor, ale z toho, jak se pohybujeÅ¡, usuzuju, Å¾e se mÃ¡Å¡ jeÅ¡tÄ› dost co uÄit.}
+{113}{}{UÄit? A co?}
+{114}{}{To si nemyslÃ­m, starouÅ¡i. Pochybuju, Å¾e *ty* mÄ› mÅ¯Å¾eÅ¡ nÄ›co nauÄit. Sbohem.}
+{115}{}{O vÄ›dÄ›. O sportovnÃ­m umÄ›nÃ­.}
+{116}{}{Eh, o umÄ›nÃ­? MyslÃ­Å¡ o magii!?! MÅ¯Å¾eÅ¡ mÄ› nauÄit nÄ›jakÃ¡ kouzla?}
+{117}{}{O Äem to mluvÃ­Å¡?}
+{118}{}{(UÅ¡klÃ­bne se.) Jasan, mÅ¯Å¾u ti ledacos povÄ›dÄ›t o skÅ™Ã­tcÃ­ch, Å¡otcÃ­ch, sprigganech, vÃ­lÃ¡ch a tak. MÃ¡Å¡ zÃ¡jem?}
+{119}{}{To znÃ­ skvÄ›le. PouÄ mÄ›.}
+{120}{}{Box, to je chlapskÃ© umÄ›nÃ­ pÄ›stnÃ­ho boje. To je to, co mÃ¡m na mysli.}
+{121}{}{Box je muÅ¾skÃ½, eh, a Å¾enskÃ½ zpÅ¯sob boje beze zbranÄ›. To je to, co mÃ¡m na mysli.}
+{122}{}{No, moÅ¾nÃ¡, Å¾e s tÃ­m potÅ™ebuju trochu pomoct.}
+{123}{}{No, mÃ¡m takovÃ½ dojem, Å¾e uÅ¾ mÄ› nemÅ¯Å¾eÅ¡ nic nauÄit.}
+{124}{}{(ObrÃ¡tÃ­ se k ostatnÃ­m.) SlyÅ¡eli jste to? UÅ¾ tady Å¾iju dlouho, ale tohle jsem jeÅ¡tÄ› nezaÅ¾il. Chce slyÅ¡et o bludiÄkÃ¡ch a goblinech. (Hoho, hahaha, haha-hehehe ::smÄ›je se ÄÃ­m dÃ¡l vÃ­c::) Na, chlapÄe, dej si na mÄ› panÃ¡ka, to je tvÅ¯j lÃ­stek do Å™Ã­Å¡e kouzelnÃ½ch skÅ™Ã­tkÅ¯.}
+{125}{}{(ObrÃ¡tÃ­ se k ostatnÃ­m.) SlyÅ¡eli jste to? UÅ¾ tady Å¾iju dlouho, ale tohle jsem jeÅ¡tÄ› nezaÅ¾il. Chce slyÅ¡et o bludiÄkÃ¡ch a goblinech. (Hoho, hahaha, haha-hehehe ::smÄ›je se ÄÃ­m dÃ¡l vÃ­c::) Na, dÄ›vÄe, dej si na mÄ› panÃ¡ka, to je tvÅ¯j lÃ­stek do Å™Ã­Å¡e kouzelnÃ½ch skÅ™Ã­tkÅ¯.}
+{126}{}{PotÅ™ebuju jenom chlast? To je skvÄ›lÃ©, dÃ­ky za radu.}
+{127}{}{MÃ¡m takovÃ½ zvlÃ¡Å¡tnÃ­ pocit, Å¾e si ze mÄ› dÄ›lÃ¡Å¡ srandu.}
+{128}{}{No, ten chlast je jen zaÄÃ¡tek. Pak musÃ­Å¡ najÃ­t ÄarovnÃ½ vrch. (Mrkne na okolo sedÃ­cÃ­ Å¡tamgasty.)}
 {129}{}{A co pak?}
-{130}{}{No, vylezeš a úplnì nahoru, tam si sedneš na zadek a èekáš, dokud neuvidíš kouzelnej kruh v rosou tøpytící se trávì. A kdy pak skoèíš do toho kouzelnıho kruhu, budeš muset spolu se skøítkama tancovat a do rozbøesku. A kdy to pøeiješ, tak tì odnesou do svı kouzelnı skøítkozemì. (Heee, hahaha.)}
-{131}{}{Páni, jak jsi to všechno zjistil?}
-{132}{}{Tak se mi zdá, e si ze mì dìláš srandu.}
-{133}{}{No, mám to v krvi. Erin go bragh! (Lokne si z korbelu piva.)}
-{134}{}{Jasnì, Erin Kobra. Dobøe. Díky za radu. Poslyš, mùu se tì zeptat na nìco jiného?}
-{135}{}{Tak se mi zdá, e si ze mì dìláš srandu.}
-{136}{}{No, eh, vidím, e jsi zamìstnanı mu. Uvidíme se pozdìji. Sbohem.}
-{137}{}{(Prohlédne si tì.) No, moná. Moná. No dobøe, jak myslíš.}
-{138}{}{Dám si pozor. Sbohem.}
-{139}{}{No, moná jo. Ale vypadá to, e ty to bereš sportovnì. Dej si na mì pivko.}
-{140}{}{Dìkuju. Co jsi to øíkal o té vìdì?}
-{141}{}{Nechci od tebe ádné pivo. Vím toho víc, ne mì mùeš nauèit, ty starej oralo.}
-{142}{}{Dobøe, tak pojï ven a uvidíme, co tì dokáu nauèit. Uvidíme, jak se umíš otáèet...}
-{143}{}{Eh, dobøe.}
-{144}{}{Teï na to bohuel nemám èas. Sbohem.}
-{145}{}{(O nìkolik hodin pozdìji.) Tak teï u chápeš, v èem byly tvoje hlavní nedostatky?}
-{146}{}{Ano, chápu. Díky, e jsi obìtoval svùj èas, abys mi pomohl, Johne.}
-{147}{}{To bylo úasné. Tady máš $10 a dej si na mì pivo. To je to nejmenší, co pro tebe mùu udìlat.}
-{148}{}{Jo, asi jo. Díky. Sbohem.}
-{149}{}{Potìšení bylo na mı stranì. Opatruj se. A kdy se tì kdokoliv zeptá... øekni mu, e takhle bojovat tì nauèil staroch John Sullivan.}
-{150}{}{Jasnì, Johne. Díky. Sbohem.}
-{151}{}{Ne, ne, ne. Nechci od tebe ádnı peníze. Bylo pro mì potìšením ti pøedat moje znalosti. Dávej na sebe pozor. Máš v sobì potenciál.}
-{152}{}{To je skvìlé, ale chci se ještì na nìco zeptat. Kde ses nauèil takhle bojovat?}
-{153}{}{Díky, Johne. Sbohem.}
-{154}{}{To u je pìknì dávno. V dobì, kdy jsem byl ještì mladej koøen a moc jsem toho v hlavì nemìl. Na místì, co se jmenuje Reno. Dr se od toho místa dál.}
+{130}{}{No, vylezeÅ¡ aÅ¾ ÃºplnÄ› nahoru, tam si sedneÅ¡ na zadek a ÄekÃ¡Å¡, dokud neuvidÃ­Å¡ kouzelnej kruh v rosou tÅ™pytÃ­cÃ­ se trÃ¡vÄ›. A kdyÅ¾ pak skoÄÃ­Å¡ do toho kouzelnÃ½ho kruhu, budeÅ¡ muset spolu se skÅ™Ã­tkama tancovat aÅ¾ do rozbÅ™esku. A kdyÅ¾ to pÅ™eÅ¾ijeÅ¡, tak tÄ› odnesou do svÃ½ kouzelnÃ½ skÅ™Ã­tkozemÄ›. (Heee, hahaha.)}
+{131}{}{PÃ¡ni, jak jsi to vÅ¡echno zjistil?}
+{132}{}{Tak se mi zdÃ¡, Å¾e si ze mÄ› dÄ›lÃ¡Å¡ srandu.}
+{133}{}{No, mÃ¡m to v krvi. Erin go bragh! (Lokne si z korbelu piva.)}
+{134}{}{JasnÄ›, Erin Kobra. DobÅ™e. DÃ­ky za radu. PoslyÅ¡, mÅ¯Å¾u se tÄ› zeptat na nÄ›co jinÃ©ho?}
+{135}{}{Tak se mi zdÃ¡, Å¾e si ze mÄ› dÄ›lÃ¡Å¡ srandu.}
+{136}{}{No, eh, vidÃ­m, Å¾e jsi zamÄ›stnanÃ½ muÅ¾. UvidÃ­me se pozdÄ›ji. Sbohem.}
+{137}{}{(ProhlÃ©dne si tÄ›.) No, moÅ¾nÃ¡. MoÅ¾nÃ¡. No dobÅ™e, jak myslÃ­Å¡.}
+{138}{}{DÃ¡m si pozor. Sbohem.}
+{139}{}{No, moÅ¾nÃ¡ jo. Ale vypadÃ¡ to, Å¾e ty to bereÅ¡ sportovnÄ›. Dej si na mÄ› pivko.}
+{140}{}{DÄ›kuju. Co jsi to Å™Ã­kal o tÃ© vÄ›dÄ›?}
+{141}{}{Nechci od tebe Å¾Ã¡dnÃ© pivo. VÃ­m toho vÃ­c, neÅ¾ mÄ› mÅ¯Å¾eÅ¡ nauÄit, ty starej oÅ¾ralo.}
+{142}{}{DobÅ™e, tak pojÄ ven a uvidÃ­me, co tÄ› dokÃ¡Å¾u nauÄit. UvidÃ­me, jak se umÃ­Å¡ otÃ¡Äet...}
+{143}{}{Eh, dobÅ™e.}
+{144}{}{TeÄ na to bohuÅ¾el nemÃ¡m Äas. Sbohem.}
+{145}{}{(O nÄ›kolik hodin pozdÄ›ji.) Tak teÄ uÅ¾ chÃ¡peÅ¡, v Äem byly tvoje hlavnÃ­ nedostatky?}
+{146}{}{Ano, chÃ¡pu. DÃ­ky, Å¾e jsi obÄ›toval svÅ¯j Äas, abys mi pomohl, Johne.}
+{147}{}{To bylo ÃºÅ¾asnÃ©. Tady mÃ¡Å¡ $10 a dej si na mÄ› pivo. To je to nejmenÅ¡Ã­, co pro tebe mÅ¯Å¾u udÄ›lat.}
+{148}{}{Jo, asi jo. DÃ­ky. Sbohem.}
+{149}{}{PotÄ›Å¡enÃ­ bylo na mÃ½ stranÄ›. Opatruj se. A kdyÅ¾ se tÄ› kdokoliv zeptÃ¡... Å™ekni mu, Å¾e takhle bojovat tÄ› nauÄil staroch John Sullivan.}
+{150}{}{JasnÄ›, Johne. DÃ­ky. Sbohem.}
+{151}{}{Ne, ne, ne. Nechci od tebe Å¾Ã¡dnÃ½ penÃ­ze. Bylo pro mÄ› potÄ›Å¡enÃ­m ti pÅ™edat moje znalosti. DÃ¡vej na sebe pozor. MÃ¡Å¡ v sobÄ› potenciÃ¡l.}
+{152}{}{To je skvÄ›lÃ©, ale chci se jeÅ¡tÄ› na nÄ›co zeptat. Kde ses nauÄil takhle bojovat?}
+{153}{}{DÃ­ky, Johne. Sbohem.}
+{154}{}{To uÅ¾ je pÄ›knÄ› dÃ¡vno. V dobÄ›, kdyÅ¾ jsem byl jeÅ¡tÄ› mladej koÅ™en a moc jsem toho v hlavÄ› nemÄ›l. Na mÃ­stÄ›, co se jmenuje Reno. DrÅ¾ se od toho mÃ­sta dÃ¡l.}
 {155}{}{Kde je Reno?}
-{156}{}{Dobøe. Díky, Johne. Sbohem.}
-{157}{}{To ti nepovím. Raèi u bì a dávej na sebe bacha. Sbohem.}
-{158}{}{Ještì jednou díky a sbohem, Johne.}
-{159}{}{Zkus se vyhıbat prùserùm. Nauèil jsem tì všechno, co umím.}
-{160}{}{Díky. Pøedtím jsi øíkal nìco o nìjakém umìní?}
-{161}{}{Díky, Johne. Opravdu si toho cením. Sbohem.}
-{162}{}{Mìl jsem na mysli umìní pìstního boje. S tamtìma vìcma jsem si z tebe dìlal jen legraci. A teï se asi zase radši vrátím ke svımu korbelu. Hodnì štìstí.}
-{163}{}{Dobøe. Díky, Johne. Sbohem.}
-{164}{}{John Sullivan ti pomohl zlepšit tvé dovednosti v boji beze zbranì a v boji s chladnımi zbranìmi.}
+{156}{}{DobÅ™e. DÃ­ky, Johne. Sbohem.}
+{157}{}{To ti nepovÃ­m. RaÄi uÅ¾ bÄ›Å¾ a dÃ¡vej na sebe bacha. Sbohem.}
+{158}{}{JeÅ¡tÄ› jednou dÃ­ky a sbohem, Johne.}
+{159}{}{Zkus se vyhÃ½bat prÅ¯serÅ¯m. NauÄil jsem tÄ› vÅ¡echno, co umÃ­m.}
+{160}{}{DÃ­ky. PÅ™edtÃ­m jsi Å™Ã­kal nÄ›co o nÄ›jakÃ©m umÄ›nÃ­?}
+{161}{}{DÃ­ky, Johne. Opravdu si toho cenÃ­m. Sbohem.}
+{162}{}{MÄ›l jsem na mysli umÄ›nÃ­ pÄ›stnÃ­ho boje. S tamtÄ›ma vÄ›cma jsem si z tebe dÄ›lal jen legraci. A teÄ se asi zase radÅ¡i vrÃ¡tÃ­m ke svÃ½mu korbelu. HodnÄ› Å¡tÄ›stÃ­.}
+{163}{}{DobÅ™e. DÃ­ky, Johne. Sbohem.}
+{164}{}{John Sullivan ti pomohl zlepÅ¡it tvÃ© dovednosti v boji beze zbranÄ› a v boji s chladnÃ½mi zbranÄ›mi.}

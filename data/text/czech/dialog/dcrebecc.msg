@@ -1,174 +1,174 @@
-{100}{}{Vidíš velmi atraktivní mladou dámu.}
-{101}{}{Vidíš Rebeccu.}
-{150}{}{Vidíš Rebeccu, majitelku Beckyina Kasíno Baru.}
-{200}{}{Vítejte, já jsem Rebecca. Mùu vám nìco nalít? Jistì máte ízeò po takovém vıletì pustinou.}
-{201}{}{Zdravím! Chcete drink, nebo mì chcete jen pozdravit?}
-{202}{}{Ahoj! Jsem ráda, e jste zpátky. Máte nìjaké otázky, nebo tu jste na sklenku vynikající whiskey?}
-{203}{}{Jsem opravdu ráda, e vás vidím. Jak to jde? Potøebujete nìco?}
-{204}{}{Doufám, e se mému oblíbenému hostu dobøe daøí! Co pro vás dnes mùeme udìlat?}
-{205}{}{Dobrı den!}
-{206}{}{Pokadé vás vdy ráda vidím.}
-{207}{}{Ahoj! Dáte si drink? Nejlepší whiskey široko daleko!}
-{208}{}{Vítejte!}
-{209}{}{To jste vy! Myslela jsem si to. Co takhle drink, drahoušku?}
-{210}{}{Jste zpìt kvùli Rebeèinì talentu bavit hosty, nebo kvùli svìtoznámé whiskey?}
-{211}{}{Vítejte zpìt v Rebeèinì Baru a Kasínu. Jak vám mùu pomoct?}
-{212}{}{Dobrı den, jak vám mùeme pomoct?}
-{213}{}{Dáte si dnes nìco? Co takhle drink?}
-{214}{}{Máte chu na drink nebo nìco jiného?}
-{215}{}{Èím poslouím?}
-{216}{}{Zdravím. Co to bude?}
-{217}{}{Potøebujete nìco?}
-{218}{}{Ráda vás zase vidím. Jak vám dnes mùu pomoct?}
-{219}{}{Coe?}
+{100}{}{VidÃ­Å¡ velmi atraktivnÃ­ mladou dÃ¡mu.}
+{101}{}{VidÃ­Å¡ Rebeccu.}
+{150}{}{VidÃ­Å¡ Rebeccu, majitelku Beckyina KasÃ­no Baru.}
+{200}{}{VÃ­tejte, jÃ¡ jsem Rebecca. MÅ¯Å¾u vÃ¡m nÄ›co nalÃ­t? JistÄ› mÃ¡te Å¾Ã­zeÅˆ po takovÃ©m vÃ½letÄ› pustinou.}
+{201}{}{ZdravÃ­m! Chcete drink, nebo mÄ› chcete jen pozdravit?}
+{202}{}{Ahoj! Jsem rÃ¡da, Å¾e jste zpÃ¡tky. MÃ¡te nÄ›jakÃ© otÃ¡zky, nebo tu jste na sklenku vynikajÃ­cÃ­ whiskey?}
+{203}{}{Jsem opravdu rÃ¡da, Å¾e vÃ¡s vidÃ­m. Jak to jde? PotÅ™ebujete nÄ›co?}
+{204}{}{DoufÃ¡m, Å¾e se mÃ©mu oblÃ­benÃ©mu hostu dobÅ™e daÅ™Ã­! Co pro vÃ¡s dnes mÅ¯Å¾eme udÄ›lat?}
+{205}{}{DobrÃ½ den!}
+{206}{}{PokaÅ¾dÃ© vÃ¡s vÅ¾dy rÃ¡da vidÃ­m.}
+{207}{}{Ahoj! DÃ¡te si drink? NejlepÅ¡Ã­ whiskey Å¡iroko daleko!}
+{208}{}{VÃ­tejte!}
+{209}{}{To jste vy! Myslela jsem si to. Co takhle drink, drahouÅ¡ku?}
+{210}{}{Jste zpÄ›t kvÅ¯li RebeÄinÄ› talentu bavit hosty, nebo kvÅ¯li svÄ›toznÃ¡mÃ© whiskey?}
+{211}{}{VÃ­tejte zpÄ›t v RebeÄinÄ› Baru a KasÃ­nu. Jak vÃ¡m mÅ¯Å¾u pomoct?}
+{212}{}{DobrÃ½ den, jak vÃ¡m mÅ¯Å¾eme pomoct?}
+{213}{}{DÃ¡te si dnes nÄ›co? Co takhle drink?}
+{214}{}{MÃ¡te chuÅ¥ na drink nebo nÄ›co jinÃ©ho?}
+{215}{}{ÄŒÃ­m poslouÅ¾Ã­m?}
+{216}{}{ZdravÃ­m. Co to bude?}
+{217}{}{PotÅ™ebujete nÄ›co?}
+{218}{}{RÃ¡da vÃ¡s zase vidÃ­m. Jak vÃ¡m dnes mÅ¯Å¾u pomoct?}
+{219}{}{CoÅ¾e?}
 {220}{}{Ano?}
-{221}{}{A teï co?}
-{222}{}{Prosím struènì, dnes mám nároènı den. Co potøebujete?}
-{223}{}{Co pro vás mùu udìlat? Mám opravdu hodnì práce.}
-{224}{}{Jste tu kvùli drinku? Stoly jsou támhle.}
-{225}{}{Nemám dobrou náladu. Co to bude?}
-{226}{}{U jste zpátky? Take si pøeci jen dáte drink?}
-{240}{}{Jistì, fešáku.}
-{241}{}{Co potøebujete vìdìt?}
-{242}{}{S radostí.}
-{243}{}{Ale samozøejmì.}
-{244}{}{Jasnì.}
-{245}{}{Nevadí.}
-{246}{}{Pomùu, pokud to bude v mıch silách.}
-{247}{}{Samozøejmì, nebuïte smìšnı.}
+{221}{}{A teÄ co?}
+{222}{}{ProsÃ­m struÄnÄ›, dnes mÃ¡m nÃ¡roÄnÃ½ den. Co potÅ™ebujete?}
+{223}{}{Co pro vÃ¡s mÅ¯Å¾u udÄ›lat? MÃ¡m opravdu hodnÄ› prÃ¡ce.}
+{224}{}{Jste tu kvÅ¯li drinku? Stoly jsou tÃ¡mhle.}
+{225}{}{NemÃ¡m dobrou nÃ¡ladu. Co to bude?}
+{226}{}{UÅ¾ jste zpÃ¡tky? TakÅ¾e si pÅ™eci jen dÃ¡te drink?}
+{240}{}{JistÄ›, feÅ¡Ã¡ku.}
+{241}{}{Co potÅ™ebujete vÄ›dÄ›t?}
+{242}{}{S radostÃ­.}
+{243}{}{Ale samozÅ™ejmÄ›.}
+{244}{}{JasnÄ›.}
+{245}{}{NevadÃ­.}
+{246}{}{PomÅ¯Å¾u, pokud to bude v mÃ½ch silÃ¡ch.}
+{247}{}{SamozÅ™ejmÄ›, nebuÄte smÄ›Å¡nÃ½.}
 {248}{}{Cokoliv. O co se jednalo?}
-{249}{}{Udìlám vše pro to, abych vám pomohla. Co potøebujete vìdìt?}
+{249}{}{UdÄ›lÃ¡m vÅ¡e pro to, abych vÃ¡m pomohla. Co potÅ™ebujete vÄ›dÄ›t?}
 {250}{}{Ptej se.}
-{251}{}{Kdy na tom trváte.}
-{252}{}{U to tak vypadá.}
-{253}{}{Zkrate to. Mám ještì nìco na práci.}
-{254}{}{No, dobøe. O co jde?}
-{255}{}{Domnívám se, e ano.}
-{256}{}{Coe?}
-{257}{}{Ne, promiòte.}
-{258}{}{Teï ne.}
-{270}{}{Potøebuju drink.}
-{271}{}{Hledám obchodníka, kterı prodává vybavení z Vaultù.}
-{272}{}{Hledám obchodníka jménem Vic.}
-{273}{}{Nemáte nìjakou práci?}
-{274}{}{Co se tıèe té práce...}
-{275}{}{Nemáte pro mì nìjakou další práci?}
+{251}{}{KdyÅ¾ na tom trvÃ¡te.}
+{252}{}{UÅ¾ to tak vypadÃ¡.}
+{253}{}{ZkraÅ¥te to. MÃ¡m jeÅ¡tÄ› nÄ›co na prÃ¡ci.}
+{254}{}{No, dobÅ™e. O co jde?}
+{255}{}{DomnÃ­vÃ¡m se, Å¾e ano.}
+{256}{}{CoÅ¾e?}
+{257}{}{Ne, promiÅˆte.}
+{258}{}{TeÄ ne.}
+{270}{}{PotÅ™ebuju drink.}
+{271}{}{HledÃ¡m obchodnÃ­ka, kterÃ½ prodÃ¡vÃ¡ vybavenÃ­ z VaultÅ¯.}
+{272}{}{HledÃ¡m obchodnÃ­ka jmÃ©nem Vic.}
+{273}{}{NemÃ¡te nÄ›jakou prÃ¡ci?}
+{274}{}{Co se tÃ½Äe tÃ© prÃ¡ce...}
+{275}{}{NemÃ¡te pro mÄ› nÄ›jakou dalÅ¡Ã­ prÃ¡ci?}
 {276}{}{Nic. Nashle.}
-{277}{}{Whikí òam òam.}
+{277}{}{WhikÃ­ Åˆam Åˆam.}
 {278}{}{Maky maky?}
 {279}{}{Iho shasha.}
 {280}{}{Ee, pa.}
 {281}{}{Maky maky?}
-{300}{}{Whiskey je moje specialita. V rodinì Dyerù je to témìø tradice. Úètuji velmi nízkou cenu, pouze $5.}
-{301}{}{Drink stojí stále $5 a Dyerova rodina dìlá zatracenì nejlepší drinky na celém svìtì.}
-{302}{}{Jste v poøádku? Nechcete whiskey? Stojí jen $5.}
-{303}{}{Dám si drink.}
-{304}{}{Proè jsou tvoje drinky tak levné?}
+{300}{}{Whiskey je moje specialita. V rodinÄ› DyerÅ¯ je to tÃ©mÄ›Å™ tradice. ÃšÄtuji velmi nÃ­zkou cenu, pouze $5.}
+{301}{}{Drink stojÃ­ stÃ¡le $5 a Dyerova rodina dÄ›lÃ¡ zatracenÄ› nejlepÅ¡Ã­ drinky na celÃ©m svÄ›tÄ›.}
+{302}{}{Jste v poÅ™Ã¡dku? Nechcete whiskey? StojÃ­ jen $5.}
+{303}{}{DÃ¡m si drink.}
+{304}{}{ProÄ jsou tvoje drinky tak levnÃ©?}
 {305}{}{Dyer?}
-{306}{}{Mùu se na nìco zeptat?}
+{306}{}{MÅ¯Å¾u se na nÄ›co zeptat?}
 {307}{}{Nashle.}
-{308}{}{Whikí.}
+{308}{}{WhikÃ­.}
 {309}{}{Urka.}
-{320}{}{Och, to je rodinné jméno. Jméno Dyer je v barovém byznysu u léta... samozøejmì ještì z pøedváleèné doby.}
-{321}{}{Jak jsem øekla, je to mé rodné pøíjmení. Kdysi byly Dyerovy hospody, salóny a podobnì, po celém svìtì.}
-{322}{}{Dám si drink.}
-{323}{}{Mùu se ještì na nìco zeptat?}
+{320}{}{Och, to je rodinnÃ© jmÃ©no. JmÃ©no Dyer je v barovÃ©m byznysu uÅ¾ lÃ©ta... samozÅ™ejmÄ› jeÅ¡tÄ› z pÅ™edvÃ¡leÄnÃ© doby.}
+{321}{}{Jak jsem Å™ekla, je to mÃ© rodnÃ© pÅ™Ã­jmenÃ­. Kdysi byly Dyerovy hospody, salÃ³ny a podobnÄ›, po celÃ©m svÄ›tÄ›.}
+{322}{}{DÃ¡m si drink.}
+{323}{}{MÅ¯Å¾u se jeÅ¡tÄ› na nÄ›co zeptat?}
 {324}{}{Nashle.}
-{330}{}{No, jeliko jste tak dobrı zákazník, svìøím se vám s malım tajemstvím. Je to opravdu jednoduché. Mám destilátor a pøítel ze sousedního mìsta mì nauèil, jak pálit whiskey. Take, dáte si ještì jednu?}
-{331}{}{Nezlobte se, ale to je obchodní tajemství a navíc vás a tak dobøe neznám. Nechci, aby se to Frankie dozvìdìl, u tak dìlá dost problémù. Chcete ještì jednu? Je opravdu vynikající.}
-{332}{}{Jasnì, dám si ještì jednu.}
-{333}{}{Mùu se ještì na nìco zeptat?}
-{334}{}{Dobøe, díky.}
-{340}{}{Tady je. Díky moc.}
-{341}{}{Díky. Mùu se na nìco zeptat?}
-{342}{}{Dobøe, díky.}
-{343}{}{Dík.}
-{344}{}{Ptát?}
-{350}{}{Je mi líto, ale nemám.}
-{351}{}{Fred mi dluí $200. Jestli od nìj ty peníze nìjak vyberete, odmìním se vám.}
-{352}{}{Stále je tu ten dluh, kterı potøebuji vybrat.}
-{353}{}{Derek si pøed nìjakou dobou pùjèil jednu moji knihu. Zaplatím vám $80, kdy mi ji vrátíte.}
-{354}{}{Stále postrádám tu svoji knihu.}
-{355}{}{V èem je háèek?}
-{356}{}{Povídej dál.}
-{357}{}{Mùu se tì na nìco zeptat?}
+{330}{}{No, jelikoÅ¾ jste tak dobrÃ½ zÃ¡kaznÃ­k, svÄ›Å™Ã­m se vÃ¡m s malÃ½m tajemstvÃ­m. Je to opravdu jednoduchÃ©. MÃ¡m destilÃ¡tor a pÅ™Ã­tel ze sousednÃ­ho mÄ›sta mÄ› nauÄil, jak pÃ¡lit whiskey. TakÅ¾e, dÃ¡te si jeÅ¡tÄ› jednu?}
+{331}{}{Nezlobte se, ale to je obchodnÃ­ tajemstvÃ­ a navÃ­c vÃ¡s aÅ¾ tak dobÅ™e neznÃ¡m. Nechci, aby se to Frankie dozvÄ›dÄ›l, uÅ¾ tak dÄ›lÃ¡ dost problÃ©mÅ¯. Chcete jeÅ¡tÄ› jednu? Je opravdu vynikajÃ­cÃ­.}
+{332}{}{JasnÄ›, dÃ¡m si jeÅ¡tÄ› jednu.}
+{333}{}{MÅ¯Å¾u se jeÅ¡tÄ› na nÄ›co zeptat?}
+{334}{}{DobÅ™e, dÃ­ky.}
+{340}{}{Tady je. DÃ­ky moc.}
+{341}{}{DÃ­ky. MÅ¯Å¾u se na nÄ›co zeptat?}
+{342}{}{DobÅ™e, dÃ­ky.}
+{343}{}{DÃ­k.}
+{344}{}{PtÃ¡t?}
+{350}{}{Je mi lÃ­to, ale nemÃ¡m.}
+{351}{}{Fred mi dluÅ¾Ã­ $200. Jestli od nÄ›j ty penÃ­ze nÄ›jak vyberete, odmÄ›nÃ­m se vÃ¡m.}
+{352}{}{StÃ¡le je tu ten dluh, kterÃ½ potÅ™ebuji vybrat.}
+{353}{}{Derek si pÅ™ed nÄ›jakou dobou pÅ¯jÄil jednu moji knihu. ZaplatÃ­m vÃ¡m $80, kdyÅ¾ mi ji vrÃ¡tÃ­te.}
+{354}{}{StÃ¡le postrÃ¡dÃ¡m tu svoji knihu.}
+{355}{}{V Äem je hÃ¡Äek?}
+{356}{}{PovÃ­dej dÃ¡l.}
+{357}{}{MÅ¯Å¾u se tÄ› na nÄ›co zeptat?}
 {358}{}{Nashle.}
-{370}{}{Háèek? No, kdo nezná Freda, nepochopí. U pìknì dlouho mi dluí peníze. Odepsala bych to jako ztrátu, ale pokud to z nìho dostanete, budu pøekvapená... a vdìèná. Vím urèitì, e je nìkde tady ve mìstì.}
-{371}{}{Ta kniha se jmenuje "Levandule". Derek by se mìl vyskytovat nìkde u Mámy ve vıchodní èásti.}
-{372}{}{Uvidím, co se dá dìlat.}
-{373}{}{To zní jednoduše.}
-{374}{}{Mám ji u sebe.}
-{375}{}{Ještì se vrátím.}
-{385}{}{Podaøilo se vám to z nìj vymámit? Divila bych se kdyby ano.}
-{386}{}{Podaøilo se vám získat moji knihu? Doufám, e ji Derek neponièil.}
-{387}{}{Ano, podaøilo.}
-{388}{}{Je mi líto. Je mrtvı.}
-{389}{}{Bohuel ne a Derek je navíc mrtvı.}
-{390}{}{Je mi líto, ale je mrtvı.}
-{391}{}{Ano. Tady máte.}
-{392}{}{Ne, promiòte.}
-{400}{}{Nemùu tomu uvìøit. Jak se vám to podaøilo? No, to je jedno. Jsem jen ohromena, víte. Abych ukázala, jak jsem vám vdìèná, rozdìlím se s vámi na pùl. Ještì jednou dìkuji, bylo to od vás velmi šlechetné.}
-{401}{}{Ach, jsem tak ráda, e se našla… zde jsou vaše peníze. Dìkuji mnohokrát.}
-{402}{}{Není zaè.}
-{410}{}{Nemùu uvìøit, e jsou oba mrtví. Promiòte. Dìkuji vám za tuto informaci. A teï kdy mì omluvíte...}
-{411}{}{Nemùu uvìøit, e je mrtvı... po všech tìch letech.}
-{412}{}{Jasnì.}
+{370}{}{HÃ¡Äek? No, kdo neznÃ¡ Freda, nepochopÃ­. UÅ¾ pÄ›knÄ› dlouho mi dluÅ¾Ã­ penÃ­ze. Odepsala bych to jako ztrÃ¡tu, ale pokud to z nÄ›ho dostanete, budu pÅ™ekvapenÃ¡... a vdÄ›ÄnÃ¡. VÃ­m urÄitÄ›, Å¾e je nÄ›kde tady ve mÄ›stÄ›.}
+{371}{}{Ta kniha se jmenuje "Levandule". Derek by se mÄ›l vyskytovat nÄ›kde u MÃ¡my ve vÃ½chodnÃ­ ÄÃ¡sti.}
+{372}{}{UvidÃ­m, co se dÃ¡ dÄ›lat.}
+{373}{}{To znÃ­ jednoduÅ¡e.}
+{374}{}{MÃ¡m ji u sebe.}
+{375}{}{JeÅ¡tÄ› se vrÃ¡tÃ­m.}
+{385}{}{PodaÅ™ilo se vÃ¡m to z nÄ›j vymÃ¡mit? Divila bych se kdyby ano.}
+{386}{}{PodaÅ™ilo se vÃ¡m zÃ­skat moji knihu? DoufÃ¡m, Å¾e ji Derek neponiÄil.}
+{387}{}{Ano, podaÅ™ilo.}
+{388}{}{Je mi lÃ­to. Je mrtvÃ½.}
+{389}{}{BohuÅ¾el ne a Derek je navÃ­c mrtvÃ½.}
+{390}{}{Je mi lÃ­to, ale je mrtvÃ½.}
+{391}{}{Ano. Tady mÃ¡te.}
+{392}{}{Ne, promiÅˆte.}
+{400}{}{NemÅ¯Å¾u tomu uvÄ›Å™it. Jak se vÃ¡m to podaÅ™ilo? No, to je jedno. Jsem jen ohromena, vÃ­te. Abych ukÃ¡zala, jak jsem vÃ¡m vdÄ›ÄnÃ¡, rozdÄ›lÃ­m se s vÃ¡mi na pÅ¯l. JeÅ¡tÄ› jednou dÄ›kuji, bylo to od vÃ¡s velmi Å¡lechetnÃ©.}
+{401}{}{Ach, jsem tak rÃ¡da, Å¾e se naÅ¡laâ€¦ zde jsou vaÅ¡e penÃ­ze. DÄ›kuji mnohokrÃ¡t.}
+{402}{}{NenÃ­ zaÄ.}
+{410}{}{NemÅ¯Å¾u uvÄ›Å™it, Å¾e jsou oba mrtvÃ­. PromiÅˆte. DÄ›kuji vÃ¡m za tuto informaci. A teÄ kdyÅ¾ mÄ› omluvÃ­te...}
+{411}{}{NemÅ¯Å¾u uvÄ›Å™it, Å¾e je mrtvÃ½... po vÅ¡ech tÄ›ch letech.}
+{412}{}{JasnÄ›.}
 {413}{}{...}
-{420}{}{Jo, já vím, kdo to je. Vic je chlápek, kterého Metzger uvìznil.}
-{421}{}{Jo, znám Vica. Metzger ho strèil pod zámek. Ani nevím proè vlastnì.}
+{420}{}{Jo, jÃ¡ vÃ­m, kdo to je. Vic je chlÃ¡pek, kterÃ©ho Metzger uvÄ›znil.}
+{421}{}{Jo, znÃ¡m Vica. Metzger ho strÄil pod zÃ¡mek. Ani nevÃ­m proÄ vlastnÄ›.}
 {422}{}{Kdo je Metzger?}
-{423}{}{Mám další otázku.}
-{424}{}{Skvìlé! Nashle.}
-{430}{}{Pøicházíte do Denu a nevíte, kdo je Metzger? Je to známı otrokáø. Sídlí ve vıchodní èásti mìsta. Nemùete ho minout.}
-{431}{}{Mám další otázku.}
-{432}{}{Díky.}
+{423}{}{MÃ¡m dalÅ¡Ã­ otÃ¡zku.}
+{424}{}{SkvÄ›lÃ©! Nashle.}
+{430}{}{PÅ™ichÃ¡zÃ­te do Denu a nevÃ­te, kdo je Metzger? Je to znÃ¡mÃ½ otrokÃ¡Å™. SÃ­dlÃ­ ve vÃ½chodnÃ­ ÄÃ¡sti mÄ›sta. NemÅ¯Å¾ete ho minout.}
+{431}{}{MÃ¡m dalÅ¡Ã­ otÃ¡zku.}
+{432}{}{DÃ­ky.}
 {440}{}{Vrahu!}
-{441}{}{Vrahu dìtí!}
-{442}{}{Odejdìte prosím.}
-{443}{}{Takovım, jako jste vy, tu nenaléváme!}
-{444}{}{Bez boje mì nedostanete!}
-{450}{}{Buffy! Jsi to ty? Jak se ti daøí? Dlouho jsme se nevidìli!}
+{441}{}{Vrahu dÄ›tÃ­!}
+{442}{}{OdejdÄ›te prosÃ­m.}
+{443}{}{TakovÃ½m, jako jste vy, tu nenalÃ©vÃ¡me!}
+{444}{}{Bez boje mÄ› nedostanete!}
+{450}{}{Buffy! Jsi to ty? Jak se ti daÅ™Ã­? Dlouho jsme se nevidÄ›li!}
 {451}{}{He?}
 {452}{}{He?}
-{460}{}{Dave tì pozdravuje a byl by rád, kdyby tu mohl bıt osobnì, ale musel nìkam odbìhnout.}
-{461}{}{Kam vyrazíme?}
-{470}{}{Nìco kvùli komandu... nebo šel moná po komandu. Nevím to pøesnì, ale tıká se to nìèeho takového.}
+{460}{}{Dave tÄ› pozdravuje a byl by rÃ¡d, kdyby tu mohl bÃ½t osobnÄ›, ale musel nÄ›kam odbÄ›hnout.}
+{461}{}{Kam vyrazÃ­me?}
+{470}{}{NÄ›co kvÅ¯li komandu... nebo Å¡el moÅ¾nÃ¡ po komandu. NevÃ­m to pÅ™esnÄ›, ale tÃ½kÃ¡ se to nÄ›Äeho takovÃ©ho.}
 {471}{}{Aha.}
-{480}{}{Øekl, e ti mám tohle dát. Je to dar od rodiny Hendeeovıch. Mohlo by se ti to hodit.}
+{480}{}{Å˜ekl, Å¾e ti mÃ¡m tohle dÃ¡t. Je to dar od rodiny HendeeovÃ½ch. Mohlo by se ti to hodit.}
 {481}{}{Co to je?}
-{490}{}{Ále, jen nìjaké cetky. Tady máš. (Becky ti podá $1000, 5 Stimpakù, kovovou zbroj, Uzi, 5 zásobníkù, plazmovı granát a kvìtinu.)}
-{491}{}{Díky!}
-{500}{}{Není zaè. Schovávala jsem to jen pro tebe. No, radìji se vrátím do práce.}
-{501}{}{Díky, nashle.}
-{510}{}{Vy o tom nevíte? Je mrtvı! Ach, já vím, e by mì to nemìlo tìšit, ale on byl velmi zlı èlovìk.}
-{511}{}{Však také bojoval jako lev.}
-{512}{}{Mám otázku.}
+{490}{}{Ãle, jen nÄ›jakÃ© cetky. Tady mÃ¡Å¡. (Becky ti podÃ¡ $1000, 5 StimpakÅ¯, kovovou zbroj, Uzi, 5 zÃ¡sobnÃ­kÅ¯, plazmovÃ½ granÃ¡t a kvÄ›tinu.)}
+{491}{}{DÃ­ky!}
+{500}{}{NenÃ­ zaÄ. SchovÃ¡vala jsem to jen pro tebe. No, radÄ›ji se vrÃ¡tÃ­m do prÃ¡ce.}
+{501}{}{DÃ­ky, nashle.}
+{510}{}{Vy o tom nevÃ­te? Je mrtvÃ½! Ach, jÃ¡ vÃ­m, Å¾e by mÄ› to nemÄ›lo tÄ›Å¡it, ale on byl velmi zlÃ½ ÄlovÄ›k.}
+{511}{}{VÅ¡ak takÃ© bojoval jako lev.}
+{512}{}{MÃ¡m otÃ¡zku.}
 {513}{}{Ano, to byl. Sbohem.}
-{514}{}{ zabít!}
-{520}{}{Coe? Vy? Já... nevím, co øíct. Byl to takovı zlı èlovìk...}
-{521}{}{Podìkování by staèilo.}
+{514}{}{ zabÃ­t!}
+{520}{}{CoÅ¾e? Vy? JÃ¡... nevÃ­m, co Å™Ã­ct. Byl to takovÃ½ zlÃ½ ÄlovÄ›k...}
+{521}{}{PodÄ›kovÃ¡nÃ­ by staÄilo.}
 {522}{}{Ehm.}
-{530}{}{Ne, jen podìkování by nestaèilo. Vím, e to není správné, ale... tady, vezmìte si tyto peníze. (Becky ti podá 1000 dolarù.)}
-{531}{}{Nechte si ty peníze, Rebecco.}
-{532}{}{Mockrát dìkuju.}
-{533}{}{Dík!}
-{534}{}{Uch! Cheská pani.}
+{530}{}{Ne, jen podÄ›kovÃ¡nÃ­ by nestaÄilo. VÃ­m, Å¾e to nenÃ­ sprÃ¡vnÃ©, ale... tady, vezmÄ›te si tyto penÃ­ze. (Becky ti podÃ¡ 1000 dolarÅ¯.)}
+{531}{}{Nechte si ty penÃ­ze, Rebecco.}
+{532}{}{MockrÃ¡t dÄ›kuju.}
+{533}{}{DÃ­k!}
+{534}{}{Uch! CheskÃ¡ pani.}
 {540}{}{You are a wonderful man. Even though I don't condone your actions. You did the
  world a great service.}
 {541}{}{You are a wonderful woman. Even though I don't condone your actions. You did the
  world a great service.}
-{542}{}{Díky.}
-{550}{}{Nechceme vás tu. Prosím, odejdìte.}
-{551}{}{Odejdìte prosím.}
-{560}{}{Proè jste znièil mùj destilátor? Co jsem vám kdy udìlala?}
+{542}{}{DÃ­ky.}
+{550}{}{Nechceme vÃ¡s tu. ProsÃ­m, odejdÄ›te.}
+{551}{}{OdejdÄ›te prosÃ­m.}
+{560}{}{ProÄ jste zniÄil mÅ¯j destilÃ¡tor? Co jsem vÃ¡m kdy udÄ›lala?}
 {561}{}{Zaplatili mi za to.}
-{562}{}{Nemusím se nikomu zpovídat.}
-{563}{}{Nevím, o èem to mluvíte.}
-{564}{}{Nevadí.}
+{562}{}{NemusÃ­m se nikomu zpovÃ­dat.}
+{563}{}{NevÃ­m, o Äem to mluvÃ­te.}
+{564}{}{NevadÃ­.}
 {565}{}{Ooba gooba.}
-{570}{}{Opravdu? Urèitì vás do toho navezl ten lump Frankie. Tím jsem si jistá. Ale já si postavím novı, víte?}
-{571}{}{To je mi jedno. U mi za to zaplatili.}
+{570}{}{Opravdu? UrÄitÄ› vÃ¡s do toho navezl ten lump Frankie. TÃ­m jsem si jistÃ¡. Ale jÃ¡ si postavÃ­m novÃ½, vÃ­te?}
+{571}{}{To je mi jedno. UÅ¾ mi za to zaplatili.}
 {572}{}{No a co.}
-{573}{}{To mì nepøekvapuje.}
-{580}{}{Take vy jste také zbabìlec? To jsem si mohla myslet.}
+{573}{}{To mÄ› nepÅ™ekvapuje.}
+{580}{}{TakÅ¾e vy jste takÃ© zbabÄ›lec? To jsem si mohla myslet.}
 {581}{}{...}

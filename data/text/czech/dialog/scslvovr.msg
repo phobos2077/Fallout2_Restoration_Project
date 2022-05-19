@@ -1,50 +1,50 @@
-{100}{}{Vidíš mue s chladnım pohledem. V ruce drí samopal.}
-{101}{}{Vidíš dozorce otrokù.}
-{102}{}{Podle jeho tetování je zcela jasné, e je to otrokáø. Vypadá to, e má dozor nad stráemi.}
-{103}{}{Kdo sakra jseš? Nìjakej lupiè?}
-{104}{}{A hele, pøisluhovaè NCR! Na takovı tu mám speciální lék.}
-{105}{}{Vortisi, máme tu vetøelce!}
-{106}{}{Stráe! Poplach!}
-{107}{}{Co chceš?}
+{100}{}{VidÃ­Å¡ muÅ¾e s chladnÃ½m pohledem. V ruce drÅ¾Ã­ samopal.}
+{101}{}{VidÃ­Å¡ dozorce otrokÅ¯.}
+{102}{}{Podle jeho tetovÃ¡nÃ­ je zcela jasnÃ©, Å¾e je to otrokÃ¡Å™. VypadÃ¡ to, Å¾e mÃ¡ dozor nad strÃ¡Å¾emi.}
+{103}{}{Kdo sakra jseÅ¡? NÄ›jakej lupiÄ?}
+{104}{}{A hele, pÅ™isluhovaÄ NCR! Na takovÃ½ tu mÃ¡m speciÃ¡lnÃ­ lÃ©k.}
+{105}{}{Vortisi, mÃ¡me tu vetÅ™elce!}
+{106}{}{StrÃ¡Å¾e! Poplach!}
+{107}{}{Co chceÅ¡?}
 {108}{}{Kurg?}
-{109}{}{Co je tohle za místo?}
-{110}{}{Posílají mì Rangeøi.}
-{111}{}{Hledám majitele.}
-{112}{}{Bratøe otrokáøi, chci se na nìco zeptat.}
+{109}{}{Co je tohle za mÃ­sto?}
+{110}{}{PosÃ­lajÃ­ mÄ› RangeÅ™i.}
+{111}{}{HledÃ¡m majitele.}
+{112}{}{BratÅ™e otrokÃ¡Å™i, chci se na nÄ›co zeptat.}
 {113}{}{Pardon, to bude omyl.}
-{114}{}{Vypadni odsud. Tupejch stráí u mám dost!}
-{115}{}{Blbì vidíš nebo co? Tohle je ohrada pro otroky. Jestli chceš vìdìt víc, promluv si s Vortisem.}
+{114}{}{Vypadni odsud. Tupejch strÃ¡Å¾Ã­ uÅ¾ mÃ¡m dost!}
+{115}{}{BlbÄ› vidÃ­Å¡ nebo co? Tohle je ohrada pro otroky. Jestli chceÅ¡ vÄ›dÄ›t vÃ­c, promluv si s Vortisem.}
 {116}{}{Is that so? Well, I'm sending you back in a body bag.}
-{117}{}{To asi hledáš Vortise, toho starıho chlápka.}
+{117}{}{To asi hledÃ¡Å¡ Vortise, toho starÃ½ho chlÃ¡pka.}
 {118}{}{Thanks. Say, you seem like a bright guy. I'll bet you can help me out with a few questions.}
-{119}{}{Øíkáš starı chlápek, jo? Tak dobøe.}
-{120}{}{No, kdy to øekneš takhle, tak nemùu odmítnout. Co chceš vìdìt?}
-{121}{}{Díky, cizinèe.}
-{122}{}{Jen pro tvou informaci - vím toho víc, ne kolik si starej Vortis myslí.}
-{123}{}{No, udìlal jsem toho mnohem víc, ne si vìtšina lidí myslí, ale tuhle práci mám rád. Je pøíjemná a lehká.}
-{124}{}{Nevadí.}
-{125}{}{Co je za problém s tìmi Rangery?}
-{126}{}{Hledám Vault 13. Neslyšel jsi o nìm nìkdy?}
-{127}{}{Neslyšel jsi nìkdy o GECKu?}
-{128}{}{Nevíš nìco o organizaci zvané Enkláva?}
-{129}{}{Sháním práci. Nevíš o nìkom kdo najímá?}
-{130}{}{Zapomeò na to. U tì nechci zdrovat.}
-{131}{}{Ti bastardi mi zabili bratra a pak øekli, e to bylo pro dobro ostatních lidí! Chci je všechny zabít. Jestli mi chceš pomoct, promluv si s Vortisem.}
-{132}{}{To zní jako dobrı nápad.}
-{133}{}{Vortis, jo? Jsi úplnı pramen moudrosti. Co ještì víš?}
-{134}{}{Dobøe. Myslím, e si s ním hned teï pùjdu promluvit.}
-{135}{}{Kadej slyšel o Vaultu 13. Kdy jsem byl ještì malı dítì, tak jsme po nìm s kamarády mockrát pátrali. Má bejt nìkde na vıchod odsud, ale nikdy jsme ho nenašli.}
-{136}{}{Urèitì jste se opravdu moc snaili. A jeliko toho tolik víš, chci se ještì na nìco zeptat.}
-{137}{}{No, u musím jít.}
-{138}{}{Øíkáš GECK, jo? No, kdy jsem tenkrát pøed lety studoval technologii Vaultu, tak jsem o nìèem takovım èetl. Údajnì ho mìl mít kadej vault a mìla to bıt první vìc, která se mìla pouít a lidi vyjdou zpìt na povrch. Napøíklad Shady Sands vzniklo právì díky GECKu. Pomùe ti to nìjak?}
-{139}{}{Ty jsi studoval technologii Vaultu? Zajímavé. Poslyš, chci se ještì na nìco zeptat.}
-{140}{}{No, u musím jít.}
-{141}{}{Enkláva... no, máme ve mìstì doktora, kterej si øíká Henry. Jednu noc, kdy byl opilej, zaèal cosi blábolit o nìjakejch chlápcích, kterejm øíkal Enkláva.}
-{142}{}{To bylo to pøesnì to, co mì zajímalo. Jsi opravdu skvìle informovanı èlovìk.}
-{143}{}{To je všechno. U tì nebudu obtìovat. Díky.}
+{119}{}{Å˜Ã­kÃ¡Å¡ starÃ½ chlÃ¡pek, jo? Tak dobÅ™e.}
+{120}{}{No, kdyÅ¾ to Å™ekneÅ¡ takhle, tak nemÅ¯Å¾u odmÃ­tnout. Co chceÅ¡ vÄ›dÄ›t?}
+{121}{}{DÃ­ky, cizinÄe.}
+{122}{}{Jen pro tvou informaci - vÃ­m toho vÃ­c, neÅ¾ kolik si starej Vortis myslÃ­.}
+{123}{}{No, udÄ›lal jsem toho mnohem vÃ­c, neÅ¾ si vÄ›tÅ¡ina lidÃ­ myslÃ­, ale tuhle prÃ¡ci mÃ¡m rÃ¡d. Je pÅ™Ã­jemnÃ¡ a lehkÃ¡.}
+{124}{}{NevadÃ­.}
+{125}{}{Co je za problÃ©m s tÄ›mi Rangery?}
+{126}{}{HledÃ¡m Vault 13. NeslyÅ¡el jsi o nÄ›m nÄ›kdy?}
+{127}{}{NeslyÅ¡el jsi nÄ›kdy o GECKu?}
+{128}{}{NevÃ­Å¡ nÄ›co o organizaci zvanÃ© EnklÃ¡va?}
+{129}{}{ShÃ¡nÃ­m prÃ¡ci. NevÃ­Å¡ o nÄ›kom kdo najÃ­mÃ¡?}
+{130}{}{ZapomeÅˆ na to. UÅ¾ tÄ› nechci zdrÅ¾ovat.}
+{131}{}{Ti bastardi mi zabili bratra a pak Å™ekli, Å¾e to bylo pro dobro ostatnÃ­ch lidÃ­! Chci je vÅ¡echny zabÃ­t. Jestli mi chceÅ¡ pomoct, promluv si s Vortisem.}
+{132}{}{To znÃ­ jako dobrÃ½ nÃ¡pad.}
+{133}{}{Vortis, jo? Jsi ÃºplnÃ½ pramen moudrosti. Co jeÅ¡tÄ› vÃ­Å¡?}
+{134}{}{DobÅ™e. MyslÃ­m, Å¾e si s nÃ­m hned teÄ pÅ¯jdu promluvit.}
+{135}{}{KaÅ¾dej slyÅ¡el o Vaultu 13. KdyÅ¾ jsem byl jeÅ¡tÄ› malÃ½ dÃ­tÄ›, tak jsme po nÄ›m s kamarÃ¡dy mockrÃ¡t pÃ¡trali. MÃ¡ bejt nÄ›kde na vÃ½chod odsud, ale nikdy jsme ho nenaÅ¡li.}
+{136}{}{UrÄitÄ› jste se opravdu moc snaÅ¾ili. A jelikoÅ¾ toho tolik vÃ­Å¡, chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{137}{}{No, uÅ¾ musÃ­m jÃ­t.}
+{138}{}{Å˜Ã­kÃ¡Å¡ GECK, jo? No, kdyÅ¾ jsem tenkrÃ¡t pÅ™ed lety studoval technologii Vaultu, tak jsem o nÄ›Äem takovÃ½m Äetl. ÃšdajnÄ› ho mÄ›l mÃ­t kaÅ¾dej vault a mÄ›la to bÃ½t prvnÃ­ vÄ›c, kterÃ¡ se mÄ›la pouÅ¾Ã­t aÅ¾ lidi vyjdou zpÄ›t na povrch. NapÅ™Ã­klad Shady Sands vzniklo prÃ¡vÄ› dÃ­ky GECKu. PomÅ¯Å¾e ti to nÄ›jak?}
+{139}{}{Ty jsi studoval technologii Vaultu? ZajÃ­mavÃ©. PoslyÅ¡, chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{140}{}{No, uÅ¾ musÃ­m jÃ­t.}
+{141}{}{EnklÃ¡va... no, mÃ¡me ve mÄ›stÄ› doktora, kterej si Å™Ã­kÃ¡ Henry. Jednu noc, kdyÅ¾ byl opilej, zaÄal cosi blÃ¡bolit o nÄ›jakejch chlÃ¡pcÃ­ch, kterejm Å™Ã­kal EnklÃ¡va.}
+{142}{}{To bylo to pÅ™esnÄ› to, co mÄ› zajÃ­malo. Jsi opravdu skvÄ›le informovanÃ½ ÄlovÄ›k.}
+{143}{}{To je vÅ¡echno. UÅ¾ tÄ› nebudu obtÄ›Å¾ovat. DÃ­ky.}
 {144}{}{Me, I'm always on the lookout - problem is, nobody ever wants to hire a slaver anymore. Vortis, my boss, has got something hush-hush. And in town the ranchers at the Stockman's Association are always hiring plus Dorothy can always use a hand at the power plant if you got skills. Word is even President Tandi's looking for a specialist.}
-{145}{}{Páni, víš toho opravdu hodnì. Tebe by se èlovìk mohl ptát klidnì celı den.}
-{146}{}{Díky, pùjdu se jich zeptat.}
-{147}{}{Ufikni jim... však víš... pro mì, jo?}
-{148}{}{ádnı problém, ale chci se ještì na nìco zeptat.}
-{149}{}{Postarám se o nì, neboj.}
+{145}{}{PÃ¡ni, vÃ­Å¡ toho opravdu hodnÄ›. Tebe by se ÄlovÄ›k mohl ptÃ¡t klidnÄ› celÃ½ den.}
+{146}{}{DÃ­ky, pÅ¯jdu se jich zeptat.}
+{147}{}{Ufikni jim... vÅ¡ak vÃ­Å¡... pro mÄ›, jo?}
+{148}{}{Å½Ã¡dnÃ½ problÃ©m, ale chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{149}{}{PostarÃ¡m se o nÄ›, neboj.}

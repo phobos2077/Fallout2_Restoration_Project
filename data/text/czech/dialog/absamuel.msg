@@ -1,57 +1,57 @@
-{100}{}{Vídíš správce klášterního høbitova.}
-{101}{}{Vidíš bratra Samuela, správce høbitova.}
-{102}{}{Vypadá opile a trochu unavenì.}
-{200}{}{*škyt* Nazdar, jmenuju se Samuel. Co, eh, *škyt* tì sem pøivádí?}
-{201}{}{*škyt* Nazdárek.}
-{202}{}{Jenom se tu rozhlíím. To ty se staráš o tenhle høbitov?}
-{203}{}{Znáš Otce Tullyho?}
-{204}{}{Otec Tully, øíkáš? (Vypadá to, e úpornì pøemıšlí, aby si vzpomnìl.) Jo... vzpomínám si *škyt* na Tullyho. Jak se tomu chlapovi vede? Nevidìl jsem ho od tı doby, co ho odsud pøed mnoha lety vykopli. (Jak vzpomíná, objeví se mu ve tváøi opileckı úsmìv.) Øeknu ti, to byl pan srandista. Já a on dohromady, *škyt* to byla dvojka.}
-{205}{}{ije teï v New Renu a káe tam dobré slovo nebo nìco takového. Víš, jste si oba dost podobní.}
-{206}{}{New Reno, jo? (Opøe se o lopatu, vytáhne malou flašku a poøádnì si lokne.) Pamatuju se, e øíkal *škyt*, e se tam vydá. Jsem rád, e se tam v bezpeèí dostal. Vdycky *škyt* jsem toho chlápka mìl rád. Fakt srandista. Jestli ho znovu potkáš, øekni mu, e se má staroch Sammy poøád èile k svìtu.}
-{207}{}{Vyøídím. Mám ale ještì nìjaké otázky.}
-{208}{}{Vyøídím. Mìj se, Same.}
-{209}{}{Zapomeò na to. Omlouvám se za obtìování.}
-{210}{}{Vlastnì ti chci øíct, e tì pozdravuje. Urèitì ho od tebe budu pozdravovat. Mám ale ještì nìjaké otázky.}
-{211}{}{Vlastnì ti chci øíct, e tì pozdravuje. Urèitì ho od tebe budu pozdravovat. Mìj se, Same.}
-{300}{}{Co *škyt* chceš vìdìt?}
-{301}{}{Ty jsi správce høbitova?}
-{302}{}{Co mi mùeš øíct o Opatství?}
-{303}{}{Mùu ti s nìèím pomoct?}
-{400}{}{Ano, *škyt* starám se tady o ty hroby. Nikdo jinı to nechce *škyt* dìlat, take to strèili starımu Sammymu. Není to a tak špatnı, jak by se mohlo zdát. Jsou s tím spojenı jistı... ehm, vıhody, jestli mi rozumíš. (Ledabyle se usmìje a mrkne na tebe.)}
-{401}{}{Ne. Nerozumím a ani nechci. Nashle.}
-{402}{}{Ne, nerozumím. Povìz mi radìji o nìèem jiném. }
-{403}{}{Ne, nerozumím, ale jsem morbidnì zvìdavı...}
-{404}{}{Jasnì e jo! Nic mì nerajcuje tak jako shnilé mrtvoly.}
-{410}{}{Jsem na èerstvım vzduchu a není tady nikdo, kdo by øíkal starımu Sammymu, kdy má dost. Já sakra vím, kdy mám *škyt* dost... kdy je všechno vypitı! (Jeho chichotání se rychle zmìní ve strašlivı kašel. Potom, co vykašle plíci nebo dvì, se na tebe znovu usmìje jako sluníèko.)}
-{411}{}{Aha, jasnì, u chápu. (Vydechneš úlevou.) Povìz mi o nìèem jiném.}
-{420}{}{(Oèi se mu zdìšením rozšíøí a zdá se, e je najednou støízlivı.) Tak jsem to nemyslel, ty... ty ZRÙDO! SATANE! Jdi ode mì pryè! }
-{421}{}{Jak myslíš, ty starej oralej èuráku. Nevíš, o co pøicházíš.}
-{430}{}{Neèistı démone! Zmiz!}
-{500}{}{Opatství, no, je mùj domov *škyt* skoro celej mùj ivot. Kadej se tady *škyt* chová k ostatním hezky a kdokoliv je zde vítán, pokud nedìlá *škyt* ádnı problémy. Já sám netrávím moc èasu v kláš-*škyt*-klášteøe, ale vím, e v našich poèítaèích jsou uloenı všechny monı informace, kterı byly po celı léta shromaïovány. Moná by se ti *škyt* nìco z toho mohlo hodit.}
-{501}{}{Jak to, e netrávíš moc èasu v klášteøe? Jsi pøece mnich nebo ne?}
-{502}{}{(Ušklíbne se a odhalí ústa plná zkaenıch zubù.) No, *škyt* øeknìme, e ostatním mnichùm se *škyt* moc nelíbí moje, ehm, záliba *škyt* v pití.}
-{503}{}{To chápu. Mám ještì nìjaké otázky.}
-{504}{}{Asi jo. Zatím, Sammy.}
-{505}{}{Aha. Poslyš, u musím jít.}
-{600}{}{Hmm... *škyt* nech...nech mì chvíli pøemıšlet. Jo, moná by tu nìco bylo, jestli tì to zajímá.}
-{601}{}{Eh, zapomeò na to, Same. Musím u jít.}
-{602}{}{Jasnì, Same, co potøebuješ?}
-{603}{}{Posledních pár dní jsem si všiml *škyt*, e jsou nìkterı hroby rozkopanı. A u to dìlá kdokoliv, nevypadá to, e by se dostal nìjak hluboko, ale je to fakt *škyt* fuška zahazovat je zas zpátky.}
-{604}{}{Hmm, pokoušel ses pøijít na to, kdo by to mohl dìlat?}
-{605}{}{Jasnì *škyt* e jsem se pokoušel. Jednou v noci jsem tady byl do pùlnoci a nikdo se neukázal. Brzo jsem pak vytuhnul. Tipuju, e to bylo tím chlastem. (Zašklebí se, vytáhne flašku a mohutnì si lokne.) Take co *škyt* øíkáš, pomùeš mi?}
-{606}{}{Dobøe, uvidím co se dá dìlat. Nevíš ještì nìco, co by mi mohlo pomoct?}
-{607}{}{No, kdy u o tom mluvíš, vzpomínám si, e *škyt* pan Peterson øíkal nìco o tom, e slyšel nìjakı zvuky ze svıho pole. Moná o tom bude vìdìt víc. On a ta jeho malièká, hezká enuška bydlí támhle. (Ukáe na budovu jinì od høbitova.)}
-{608}{}{Uvidím, co se dá dìlat.}
-{609}{}{Myslím, e ti nepomùu. Musím u jít.}
-{700}{}{Podaøilo se mi vyøešit ten problém s vykopáváním hrobù. Nemìl bys s tím mít u ádné problémy.}
-{701}{}{No to je *škyt* dobrá zpráva. Jsem rád, e u nebudu padat do ádnıch otevøenıch *škyt* hrobù. Díky za pomoc.}
-{702}{}{Rádo se stalo. Chci se ještì na nìco zeptat.}
-{703}{}{Tak jo, mìj se.}
-{704}{}{Myslím, e ty otevøené hroby nejsou skuteènım dùvodem tvého padání, Samueli, ale nedìlej si s tím starosti.}
-{1000}{}{*Pískání*}
+{100}{}{VÃ­dÃ­Å¡ sprÃ¡vce klÃ¡Å¡ternÃ­ho hÅ™bitova.}
+{101}{}{VidÃ­Å¡ bratra Samuela, sprÃ¡vce hÅ™bitova.}
+{102}{}{VypadÃ¡ opile a trochu unavenÄ›.}
+{200}{}{*Å¡kyt* Nazdar, jmenuju se Samuel. Co, eh, *Å¡kyt* tÄ› sem pÅ™ivÃ¡dÃ­?}
+{201}{}{*Å¡kyt* NazdÃ¡rek.}
+{202}{}{Jenom se tu rozhlÃ­Å¾Ã­m. To ty se starÃ¡Å¡ o tenhle hÅ™bitov?}
+{203}{}{ZnÃ¡Å¡ Otce Tullyho?}
+{204}{}{Otec Tully, Å™Ã­kÃ¡Å¡? (VypadÃ¡ to, Å¾e ÃºpornÄ› pÅ™emÃ½Å¡lÃ­, aby si vzpomnÄ›l.) Jo... vzpomÃ­nÃ¡m si *Å¡kyt* na Tullyho. Jak se tomu chlapovi vede? NevidÄ›l jsem ho od tÃ½ doby, co ho odsud pÅ™ed mnoha lety vykopli. (Jak vzpomÃ­nÃ¡, objevÃ­ se mu ve tvÃ¡Å™i opileckÃ½ ÃºsmÄ›v.) Å˜eknu ti, to byl pan srandista. JÃ¡ a on dohromady, *Å¡kyt* to byla dvojka.}
+{205}{}{Å½ije teÄ v New Renu a kÃ¡Å¾e tam dobrÃ© slovo nebo nÄ›co takovÃ©ho. VÃ­Å¡, jste si oba dost podobnÃ­.}
+{206}{}{New Reno, jo? (OpÅ™e se o lopatu, vytÃ¡hne malou flaÅ¡ku a poÅ™Ã¡dnÄ› si lokne.) Pamatuju se, Å¾e Å™Ã­kal *Å¡kyt*, Å¾e se tam vydÃ¡. Jsem rÃ¡d, Å¾e se tam v bezpeÄÃ­ dostal. VÅ¾dycky *Å¡kyt* jsem toho chlÃ¡pka mÄ›l rÃ¡d. Fakt srandista. Jestli ho znovu potkÃ¡Å¡, Å™ekni mu, Å¾e se mÃ¡ staroch Sammy poÅ™Ã¡d Äile k svÄ›tu.}
+{207}{}{VyÅ™Ã­dÃ­m. MÃ¡m ale jeÅ¡tÄ› nÄ›jakÃ© otÃ¡zky.}
+{208}{}{VyÅ™Ã­dÃ­m. MÄ›j se, Same.}
+{209}{}{ZapomeÅˆ na to. OmlouvÃ¡m se za obtÄ›Å¾ovÃ¡nÃ­.}
+{210}{}{VlastnÄ› ti chci Å™Ã­ct, Å¾e tÄ› pozdravuje. UrÄitÄ› ho od tebe budu pozdravovat. MÃ¡m ale jeÅ¡tÄ› nÄ›jakÃ© otÃ¡zky.}
+{211}{}{VlastnÄ› ti chci Å™Ã­ct, Å¾e tÄ› pozdravuje. UrÄitÄ› ho od tebe budu pozdravovat. MÄ›j se, Same.}
+{300}{}{Co *Å¡kyt* chceÅ¡ vÄ›dÄ›t?}
+{301}{}{Ty jsi sprÃ¡vce hÅ™bitova?}
+{302}{}{Co mi mÅ¯Å¾eÅ¡ Å™Ã­ct o OpatstvÃ­?}
+{303}{}{MÅ¯Å¾u ti s nÄ›ÄÃ­m pomoct?}
+{400}{}{Ano, *Å¡kyt* starÃ¡m se tady o ty hroby. Nikdo jinÃ½ to nechce *Å¡kyt* dÄ›lat, takÅ¾e to strÄili starÃ½mu Sammymu. NenÃ­ to aÅ¾ tak Å¡patnÃ½, jak by se mohlo zdÃ¡t. Jsou s tÃ­m spojenÃ½ jistÃ½... ehm, vÃ½hody, jestli mi rozumÃ­Å¡. (Ledabyle se usmÄ›je a mrkne na tebe.)}
+{401}{}{Ne. NerozumÃ­m a ani nechci. Nashle.}
+{402}{}{Ne, nerozumÃ­m. PovÄ›z mi radÄ›ji o nÄ›Äem jinÃ©m. }
+{403}{}{Ne, nerozumÃ­m, ale jsem morbidnÄ› zvÄ›davÃ½...}
+{404}{}{JasnÄ› Å¾e jo! Nic mÄ› nerajcuje tak jako shnilÃ© mrtvoly.}
+{410}{}{Jsem na ÄerstvÃ½m vzduchu a nenÃ­ tady nikdo, kdo by Å™Ã­kal starÃ½mu Sammymu, kdy mÃ¡ dost. JÃ¡ sakra vÃ­m, kdy mÃ¡m *Å¡kyt* dost... kdyÅ¾ je vÅ¡echno vypitÃ½! (Jeho chichotÃ¡nÃ­ se rychle zmÄ›nÃ­ ve straÅ¡livÃ½ kaÅ¡el. Potom, co vykaÅ¡le plÃ­ci nebo dvÄ›, se na tebe znovu usmÄ›je jako slunÃ­Äko.)}
+{411}{}{Aha, jasnÄ›, uÅ¾ chÃ¡pu. (VydechneÅ¡ Ãºlevou.) PovÄ›z mi o nÄ›Äem jinÃ©m.}
+{420}{}{(OÄi se mu zdÄ›Å¡enÃ­m rozÅ¡Ã­Å™Ã­ a zdÃ¡ se, Å¾e je najednou stÅ™Ã­zlivÃ½.) Tak jsem to nemyslel, ty... ty ZRÅ®DO! SATANE! Jdi ode mÄ› pryÄ! }
+{421}{}{Jak myslÃ­Å¡, ty starej oÅ¾ralej ÄurÃ¡ku. NevÃ­Å¡, o co pÅ™ichÃ¡zÃ­Å¡.}
+{430}{}{NeÄistÃ½ dÃ©mone! Zmiz!}
+{500}{}{OpatstvÃ­, no, je mÅ¯j domov *Å¡kyt* skoro celej mÅ¯j Å¾ivot. KaÅ¾dej se tady *Å¡kyt* chovÃ¡ k ostatnÃ­m hezky a kdokoliv je zde vÃ­tÃ¡n, pokud nedÄ›lÃ¡ *Å¡kyt* Å¾Ã¡dnÃ½ problÃ©my. JÃ¡ sÃ¡m netrÃ¡vÃ­m moc Äasu v klÃ¡Å¡-*Å¡kyt*-klÃ¡Å¡teÅ™e, ale vÃ­m, Å¾e v naÅ¡ich poÄÃ­taÄÃ­ch jsou uloÅ¾enÃ½ vÅ¡echny moÅ¾nÃ½ informace, kterÃ½ byly po celÃ½ lÃ©ta shromaÅ¾ÄovÃ¡ny. MoÅ¾nÃ¡ by se ti *Å¡kyt* nÄ›co z toho mohlo hodit.}
+{501}{}{Jak to, Å¾e netrÃ¡vÃ­Å¡ moc Äasu v klÃ¡Å¡teÅ™e? Jsi pÅ™ece mnich nebo ne?}
+{502}{}{(UÅ¡klÃ­bne se a odhalÃ­ Ãºsta plnÃ¡ zkaÅ¾enÃ½ch zubÅ¯.) No, *Å¡kyt* Å™eknÄ›me, Å¾e ostatnÃ­m mnichÅ¯m se *Å¡kyt* moc nelÃ­bÃ­ moje, ehm, zÃ¡liba *Å¡kyt* v pitÃ­.}
+{503}{}{To chÃ¡pu. MÃ¡m jeÅ¡tÄ› nÄ›jakÃ© otÃ¡zky.}
+{504}{}{Asi jo. ZatÃ­m, Sammy.}
+{505}{}{Aha. PoslyÅ¡, uÅ¾ musÃ­m jÃ­t.}
+{600}{}{Hmm... *Å¡kyt* nech...nech mÄ› chvÃ­li pÅ™emÃ½Å¡let. Jo, moÅ¾nÃ¡ by tu nÄ›co bylo, jestli tÄ› to zajÃ­mÃ¡.}
+{601}{}{Eh, zapomeÅˆ na to, Same. MusÃ­m uÅ¾ jÃ­t.}
+{602}{}{JasnÄ›, Same, co potÅ™ebujeÅ¡?}
+{603}{}{PoslednÃ­ch pÃ¡r dnÃ­ jsem si vÅ¡iml *Å¡kyt*, Å¾e jsou nÄ›kterÃ½ hroby rozkopanÃ½. AÅ¥ uÅ¾ to dÄ›lÃ¡ kdokoliv, nevypadÃ¡ to, Å¾e by se dostal nÄ›jak hluboko, ale je to fakt *Å¡kyt* fuÅ¡ka zahazovat je zas zpÃ¡tky.}
+{604}{}{Hmm, pokouÅ¡el ses pÅ™ijÃ­t na to, kdo by to mohl dÄ›lat?}
+{605}{}{JasnÄ› *Å¡kyt* Å¾e jsem se pokouÅ¡el. Jednou v noci jsem tady byl do pÅ¯lnoci a nikdo se neukÃ¡zal. Brzo jsem pak vytuhnul. Tipuju, Å¾e to bylo tÃ­m chlastem. (ZaÅ¡klebÃ­ se, vytÃ¡hne flaÅ¡ku a mohutnÄ› si lokne.) TakÅ¾e co *Å¡kyt* Å™Ã­kÃ¡Å¡, pomÅ¯Å¾eÅ¡ mi?}
+{606}{}{DobÅ™e, uvidÃ­m co se dÃ¡ dÄ›lat. NevÃ­Å¡ jeÅ¡tÄ› nÄ›co, co by mi mohlo pomoct?}
+{607}{}{No, kdyÅ¾ uÅ¾ o tom mluvÃ­Å¡, vzpomÃ­nÃ¡m si, Å¾e *Å¡kyt* pan Peterson Å™Ã­kal nÄ›co o tom, Å¾e slyÅ¡el nÄ›jakÃ½ zvuky ze svÃ½ho pole. MoÅ¾nÃ¡ o tom bude vÄ›dÄ›t vÃ­c. On a ta jeho maliÄkÃ¡, hezkÃ¡ Å¾enuÅ¡ka bydlÃ­ tÃ¡mhle. (UkÃ¡Å¾e na budovu jiÅ¾nÄ› od hÅ™bitova.)}
+{608}{}{UvidÃ­m, co se dÃ¡ dÄ›lat.}
+{609}{}{MyslÃ­m, Å¾e ti nepomÅ¯Å¾u. MusÃ­m uÅ¾ jÃ­t.}
+{700}{}{PodaÅ™ilo se mi vyÅ™eÅ¡it ten problÃ©m s vykopÃ¡vÃ¡nÃ­m hrobÅ¯. NemÄ›l bys s tÃ­m mÃ­t uÅ¾ Å¾Ã¡dnÃ© problÃ©my.}
+{701}{}{No to je *Å¡kyt* dobrÃ¡ zprÃ¡va. Jsem rÃ¡d, Å¾e uÅ¾ nebudu padat do Å¾Ã¡dnÃ½ch otevÅ™enÃ½ch *Å¡kyt* hrobÅ¯. DÃ­ky za pomoc.}
+{702}{}{RÃ¡do se stalo. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{703}{}{Tak jo, mÄ›j se.}
+{704}{}{MyslÃ­m, Å¾e ty otevÅ™enÃ© hroby nejsou skuteÄnÃ½m dÅ¯vodem tvÃ©ho padÃ¡nÃ­, Samueli, ale nedÄ›lej si s tÃ­m starosti.}
+{1000}{}{*PÃ­skÃ¡nÃ­*}
 {1001}{}{*Kuc* *Kuc*}
-{1002}{}{*Chrchlání*}
+{1002}{}{*ChrchlÃ¡nÃ­*}
 {1003}{}{*Kuc*}
 {1004}{}{*Vzdych*}
-{1005}{}{*Škyt*}
-{2000}{}{To byl ale *škyt* dlouhı den. Pøijï ráno.}
+{1005}{}{*Å kyt*}
+{2000}{}{To byl ale *Å¡kyt* dlouhÃ½ den. PÅ™ijÄ rÃ¡no.}

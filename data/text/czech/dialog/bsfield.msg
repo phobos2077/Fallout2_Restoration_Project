@@ -1,4 +1,4 @@
-{150}{}{Nièeho uiteèného se ti nepodaøilo dosáhnout a ještì dostáváš zásah 50,000 volty. Alespoò se teï nemusíš holit.}
-{151}{}{Zdá se, e to na silové pole nemìlo ádnı vliv.}
-{152}{}{Silové pole je na 15 sekund vypnuto.}
-{200}{}{Ano, tímhle prochází spousta energie. Naštìstí toho necháváš døív, ne ti to kompletnì upálilo ruce.}
+{150}{}{NiÄeho uÅ¾iteÄnÃ©ho se ti nepodaÅ™ilo dosÃ¡hnout a jeÅ¡tÄ› dostÃ¡vÃ¡Å¡ zÃ¡sah 50,000 volty. AlespoÅˆ se teÄ nemusÃ­Å¡ holit.}
+{151}{}{ZdÃ¡ se, Å¾e to na silovÃ© pole nemÄ›lo Å¾Ã¡dnÃ½ vliv.}
+{152}{}{SilovÃ© pole je na 15 sekund vypnuto.}
+{200}{}{Ano, tÃ­mhle prochÃ¡zÃ­ spousta energie. NaÅ¡tÄ›stÃ­ toho nechÃ¡vÃ¡Å¡ dÅ™Ã­v, neÅ¾ ti to kompletnÄ› upÃ¡lilo ruce.}

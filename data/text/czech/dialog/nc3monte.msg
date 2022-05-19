@@ -1,271 +1,271 @@
-{100}{}{Vidíš rozdavaèe karet.}
-{101}{}{Vidíš "Tøi karty" Monteho.}
-{150}{}{Vidíš vyhublého mue s tváøí spálenou od slunce. Je hubenı jako proutek.}
-{151}{}{Vidíš "Tøi karty" Monteho. Prohlíí si ulici, zahlédne tì a pøikıvne.}
-{152}{}{Vidíš "Tøi karty" Monteho. Prohlíí si ulici, zahlédne tì a pøikıvne.}
-{200}{}{Nechápu, jak jsem mohl prohrát...}
-{201}{}{Jdi dál... Monte dnes nepracuje.}
-{202}{}{Podstrèil jsem snad špatnou kartu?}
-{203}{}{Jak to, e ten debilní divoch poøád vytahuje tu správnou kartu?}
-{205}{}{Heeeej! Hrdino! Jseš v pohodì, jseš fakt v pohodì.}
-{206}{}{::Ukáe ti vztyèenı palec::}
-{207}{}{::Usmívá se a pøikyvuje::}
-{208}{}{Dost dobrı, hrdino. Dost dobrı.}
-{215}{}{Kde jsou sakra moje karty? Vdy jsem je ještì pøed CHVÍLÍ mìl!}
-{216}{}{Zatracení skøítci klíèkorouti, teï jdou po mejch kartách.}
-{220}{}{Hej, kámo, vykašli se na kasína. Pojï si zahrát s Montem.}
-{221}{}{Nechceš si trochu zariskovat, kámo? Mám nejlepší kurzy v New Renu! No ták...}
-{222}{}{Hej, kámo. Vypadáš, e se na tebe lepí štìstí, pojï sem.}
-{223}{}{Nechce si nìkdo zahrát? Rychlı prachy, rychlı prachy.}
-{224}{}{Pojï sem a pojï si zahrát. Zrovna minule u mì chlápek lehce vyhrál 50 babek.}
-{225}{}{Je to jednoduchı, staèí uhádnout královnu, srdcovou královnu, a vyhraješ. A takhle jednoduchı to je.}
-{226}{}{Jseš alergickej na rychlı prachy? Tak pojï jsem.}
-{227}{}{Dneska kadej vyhrává... chceš bejt další?}
-{228}{}{Kasína tì akorát o všechno oškubou ani nevíš jak... Monte s tebou jedná fér a dá ti slušnou šanci.}
-{229}{}{Nechceš si trochu zariskovat, holka? Mám nejlepší kurzy v New Renu! No ták...}
-{230}{}{Jseš alergická na rychlı prachy, holka? Tak pojï jsem.}
-{231}{}{Hej, holka. Vypadáš, e se na tebe lepí štìstí, pojï sem.}
-{232}{}{Hej, holka, vykašli se na kasína. Pojï si zahrát s Montem.}
-{233}{}{Monte má dneska zavøenej krám, pøíteli, ztratil jsem svı blbı karty.}
-{234}{}{(Starı mu se usmìje a kùe kolem oèí se mu svraští.) Nechceš si zahrát, pøíteli?}
-{235}{}{(Starı mu se usmìje a kùe kolem oèí se mu svraští.) Nechceš si zahrát, holka?}
-{236}{}{(Starı mu se usmìje a kùe kolem oèí se mu svraští.) Nechceš si zahrát, hrdino?}
-{237}{}{(Monte se usmìje a kùe kolem oèí se mu svraští.) Nechceš si zahrát, pøíteli?}
-{238}{}{(Monte se usmìje a kùe kolem oèí se mu svraští.) Nechceš si zahrát, holka?}
-{239}{}{(Monte se usmìje a kùe kolem oèí se mu svraští.) Nechceš si zahrát, hrdino?}
-{240}{}{Tøi Karty Monte je jméno mé a stejnì tak se jmenuje i tahle hra. Práskni na stùl 20 babek a mùeme jít na to.}
-{241}{}{Ty podvodník. Ty nehrát fér.}
-{242}{}{Dobøe. Tady peníze, já nevìdìt kolik bıt 20, tak tady hrst.}
-{243}{}{Eh, já potìšen, ale já nechtít jít na TO... naaaaaskle.}
+{100}{}{VidÃ­Å¡ rozdavaÄe karet.}
+{101}{}{VidÃ­Å¡ "TÅ™i karty" Monteho.}
+{150}{}{VidÃ­Å¡ vyhublÃ©ho muÅ¾e s tvÃ¡Å™Ã­ spÃ¡lenou od slunce. Je hubenÃ½ jako proutek.}
+{151}{}{VidÃ­Å¡ "TÅ™i karty" Monteho. ProhlÃ­Å¾Ã­ si ulici, zahlÃ©dne tÄ› a pÅ™ikÃ½vne.}
+{152}{}{VidÃ­Å¡ "TÅ™i karty" Monteho. ProhlÃ­Å¾Ã­ si ulici, zahlÃ©dne tÄ› a pÅ™ikÃ½vne.}
+{200}{}{NechÃ¡pu, jak jsem mohl prohrÃ¡t...}
+{201}{}{Jdi dÃ¡l... Monte dnes nepracuje.}
+{202}{}{PodstrÄil jsem snad Å¡patnou kartu?}
+{203}{}{Jak to, Å¾e ten debilnÃ­ divoch poÅ™Ã¡d vytahuje tu sprÃ¡vnou kartu?}
+{205}{}{Heeeej! Hrdino! JseÅ¡ v pohodÄ›, jseÅ¡ fakt v pohodÄ›.}
+{206}{}{::UkÃ¡Å¾e ti vztyÄenÃ½ palec::}
+{207}{}{::UsmÃ­vÃ¡ se a pÅ™ikyvuje::}
+{208}{}{Dost dobrÃ½, hrdino. Dost dobrÃ½.}
+{215}{}{Kde jsou sakra moje karty? VÅ¾dyÅ¥ jsem je jeÅ¡tÄ› pÅ™ed CHVÃLÃ mÄ›l!}
+{216}{}{ZatracenÃ­ skÅ™Ã­tci klÃ­ÄkoÅ¾routi, teÄ jdou po mejch kartÃ¡ch.}
+{220}{}{Hej, kÃ¡mo, vykaÅ¡li se na kasÃ­na. PojÄ si zahrÃ¡t s Montem.}
+{221}{}{NechceÅ¡ si trochu zariskovat, kÃ¡mo? MÃ¡m nejlepÅ¡Ã­ kurzy v New Renu! No tÃ¡k...}
+{222}{}{Hej, kÃ¡mo. VypadÃ¡Å¡, Å¾e se na tebe lepÃ­ Å¡tÄ›stÃ­, pojÄ sem.}
+{223}{}{Nechce si nÄ›kdo zahrÃ¡t? RychlÃ½ prachy, rychlÃ½ prachy.}
+{224}{}{PojÄ sem a pojÄ si zahrÃ¡t. Zrovna minule u mÄ› chlÃ¡pek lehce vyhrÃ¡l 50 babek.}
+{225}{}{Je to jednoduchÃ½, staÄÃ­ uhÃ¡dnout krÃ¡lovnu, srdcovou krÃ¡lovnu, a vyhrajeÅ¡. AÅ¾ takhle jednoduchÃ½ to je.}
+{226}{}{JseÅ¡ alergickej na rychlÃ½ prachy? Tak pojÄ jsem.}
+{227}{}{Dneska kaÅ¾dej vyhrÃ¡vÃ¡... chceÅ¡ bejt dalÅ¡Ã­?}
+{228}{}{KasÃ­na tÄ› akorÃ¡t o vÅ¡echno oÅ¡kubou ani nevÃ­Å¡ jak... Monte s tebou jednÃ¡ fÃ©r a dÃ¡ ti sluÅ¡nou Å¡anci.}
+{229}{}{NechceÅ¡ si trochu zariskovat, holka? MÃ¡m nejlepÅ¡Ã­ kurzy v New Renu! No tÃ¡k...}
+{230}{}{JseÅ¡ alergickÃ¡ na rychlÃ½ prachy, holka? Tak pojÄ jsem.}
+{231}{}{Hej, holka. VypadÃ¡Å¡, Å¾e se na tebe lepÃ­ Å¡tÄ›stÃ­, pojÄ sem.}
+{232}{}{Hej, holka, vykaÅ¡li se na kasÃ­na. PojÄ si zahrÃ¡t s Montem.}
+{233}{}{Monte mÃ¡ dneska zavÅ™enej krÃ¡m, pÅ™Ã­teli, ztratil jsem svÃ½ blbÃ½ karty.}
+{234}{}{(StarÃ½ muÅ¾ se usmÄ›je a kÅ¯Å¾e kolem oÄÃ­ se mu svraÅ¡tÃ­.) NechceÅ¡ si zahrÃ¡t, pÅ™Ã­teli?}
+{235}{}{(StarÃ½ muÅ¾ se usmÄ›je a kÅ¯Å¾e kolem oÄÃ­ se mu svraÅ¡tÃ­.) NechceÅ¡ si zahrÃ¡t, holka?}
+{236}{}{(StarÃ½ muÅ¾ se usmÄ›je a kÅ¯Å¾e kolem oÄÃ­ se mu svraÅ¡tÃ­.) NechceÅ¡ si zahrÃ¡t, hrdino?}
+{237}{}{(Monte se usmÄ›je a kÅ¯Å¾e kolem oÄÃ­ se mu svraÅ¡tÃ­.) NechceÅ¡ si zahrÃ¡t, pÅ™Ã­teli?}
+{238}{}{(Monte se usmÄ›je a kÅ¯Å¾e kolem oÄÃ­ se mu svraÅ¡tÃ­.) NechceÅ¡ si zahrÃ¡t, holka?}
+{239}{}{(Monte se usmÄ›je a kÅ¯Å¾e kolem oÄÃ­ se mu svraÅ¡tÃ­.) NechceÅ¡ si zahrÃ¡t, hrdino?}
+{240}{}{TÅ™i Karty Monte je jmÃ©no mÃ© a stejnÄ› tak se jmenuje i tahle hra. PrÃ¡skni na stÅ¯l 20 babek a mÅ¯Å¾eme jÃ­t na to.}
+{241}{}{Ty podvodnÃ­k. Ty nehrÃ¡t fÃ©r.}
+{242}{}{DobÅ™e. Tady penÃ­ze, jÃ¡ nevÄ›dÄ›t kolik bÃ½t 20, tak tady hrst.}
+{243}{}{Eh, jÃ¡ potÄ›Å¡en, ale jÃ¡ nechtÃ­t jÃ­t na TO... naaaaaskle.}
 {244}{}{Odbelhat se.}
-{245}{}{Pojïme hrát.}
+{245}{}{PojÄme hrÃ¡t.}
 {246}{}{Eh, na co?}
-{247}{}{Znám tuhle hru. Pojïme hrát.}
-{248}{}{Tøi Karty Monte, jo? Otoèíš tøi karty lícem dolù, zamícháš je a já jednu vyberu. Pokud to bude ta správná karta, co nebude, protoe ji podstrèíš pøi míchání, tak vyhraju. Ne, díky, kámo.}
-{249}{}{Tøi Karty Monte, jo? Otoèíš tøi karty lícem dolù, zamícháš je a já jednu vyberu. Pokud to bude ta správná karta, co nebude, protoe ji podstrèíš pøi míchání, tak vyhraju. Ne, díky, kámo.}
-{250}{}{Dnes ne, díky.}
-{251}{}{Na co? No pøece na hru!}
-{252}{}{Podívej... (Ukazuje ti tøi karty.) ...jedna z nich je královna. Poloím je lícem dolù, zamíchám je a ty pak vybereš jednu, o které si myslíš, e je královna. Pokud uhodneš, vyhráváš.}
-{253}{}{Je to jednoduchı, kámo.}
-{254}{}{Je to jednoduchı, holka.}
-{255}{}{S podvodníkem jako ty nehraju.}
-{256}{}{Mùeš mi ještì jednou vysvìtlit pravidla?}
-{257}{}{To zní dost jednoduše. Pojïme hrát. Tady je 20 babek.}
-{258}{}{Dnes ne, díky.}
-{260}{}{(Dáš mu peníze, Monte pøikıvne, ukáe ti karty a poté je poloí na stùl a nìkolik vteøin s nimi míchá.)}
-{261}{}{Take... kde je královna, kámo?}
-{262}{}{Take... kde je královna, holka?}
-{263}{}{(Myslíš si, e je to ta nalevo.)}
-{264}{}{(Myslíš si, e je to ta uprostøed.)}
-{265}{}{(Myslíš si, e je to ta napravo.)}
-{266}{}{(Nevíš. Karty se hıbou pøíliš rychle.)}
-{267}{}{Lucka levaèka.}
-{268}{}{Zlatı støed.}
-{269}{}{Pøesnì pravá.}
+{247}{}{ZnÃ¡m tuhle hru. PojÄme hrÃ¡t.}
+{248}{}{TÅ™i Karty Monte, jo? OtoÄÃ­Å¡ tÅ™i karty lÃ­cem dolÅ¯, zamÃ­chÃ¡Å¡ je a jÃ¡ jednu vyberu. Pokud to bude ta sprÃ¡vnÃ¡ karta, coÅ¾ nebude, protoÅ¾e ji podstrÄÃ­Å¡ pÅ™i mÃ­chÃ¡nÃ­, tak vyhraju. Ne, dÃ­ky, kÃ¡mo.}
+{249}{}{TÅ™i Karty Monte, jo? OtoÄÃ­Å¡ tÅ™i karty lÃ­cem dolÅ¯, zamÃ­chÃ¡Å¡ je a jÃ¡ jednu vyberu. Pokud to bude ta sprÃ¡vnÃ¡ karta, coÅ¾ nebude, protoÅ¾e ji podstrÄÃ­Å¡ pÅ™i mÃ­chÃ¡nÃ­, tak vyhraju. Ne, dÃ­ky, kÃ¡mo.}
+{250}{}{Dnes ne, dÃ­ky.}
+{251}{}{Na co? No pÅ™ece na hru!}
+{252}{}{PodÃ­vej... (Ukazuje ti tÅ™i karty.) ...jedna z nich je krÃ¡lovna. PoloÅ¾Ã­m je lÃ­cem dolÅ¯, zamÃ­chÃ¡m je a ty pak vybereÅ¡ jednu, o kterÃ© si myslÃ­Å¡, Å¾e je krÃ¡lovna. Pokud uhodneÅ¡, vyhrÃ¡vÃ¡Å¡.}
+{253}{}{Je to jednoduchÃ½, kÃ¡mo.}
+{254}{}{Je to jednoduchÃ½, holka.}
+{255}{}{S podvodnÃ­kem jako ty nehraju.}
+{256}{}{MÅ¯Å¾eÅ¡ mi jeÅ¡tÄ› jednou vysvÄ›tlit pravidla?}
+{257}{}{To znÃ­ dost jednoduÅ¡e. PojÄme hrÃ¡t. Tady je 20 babek.}
+{258}{}{Dnes ne, dÃ­ky.}
+{260}{}{(DÃ¡Å¡ mu penÃ­ze, Monte pÅ™ikÃ½vne, ukÃ¡Å¾e ti karty a potÃ© je poloÅ¾Ã­ na stÅ¯l a nÄ›kolik vteÅ™in s nimi mÃ­chÃ¡.)}
+{261}{}{TakÅ¾e... kde je krÃ¡lovna, kÃ¡mo?}
+{262}{}{TakÅ¾e... kde je krÃ¡lovna, holka?}
+{263}{}{(MyslÃ­Å¡ si, Å¾e je to ta nalevo.)}
+{264}{}{(MyslÃ­Å¡ si, Å¾e je to ta uprostÅ™ed.)}
+{265}{}{(MyslÃ­Å¡ si, Å¾e je to ta napravo.)}
+{266}{}{(NevÃ­Å¡. Karty se hÃ½bou pÅ™Ã­liÅ¡ rychle.)}
+{267}{}{Lucka levaÄka.}
+{268}{}{ZlatÃ½ stÅ™ed.}
+{269}{}{PÅ™esnÄ› pravÃ¡.}
 {270}{}{Je to ta nalevo.}
 {271}{}{Je to ta napravo.}
-{272}{}{Je to ta uprostøed.}
-{280}{}{(Monte otoèí kartu. Je to }
-{281}{}{Promiò, kámo, smùla, ale byl jsi BLÍZKO.}
-{282}{}{Promiò, holka, smùla, ale byla jsi BLÍZKO.}
-{283}{}{Ale docela ti to jde. Nechceš to zkusit ještì jednou?}
-{284}{}{Ty podvodník. Ty nehrát fér.}
-{285}{}{Dobøe. Tady peníze, já nevìdìt kolik bıt 20, tak tady hrst.}
-{286}{}{Ne-e, já NELÍBIT hra. NASKLEE.}
-{287}{}{S podvodníkem jako ty nehraju.}
-{288}{}{Jasnì. Tady je 20 babek.}
-{289}{}{Ne, díky.}
-{300}{}{(Dáš mu peníze, Monte pøikıvne, ukáe ti karty, poloí je na stùl a pøitom vytáhne jednu kartu tak rychle, e to nebylo skoro vidìt. Poté je pár sekund míchá.)}
-{301}{}{Take... kde je královna, kámo?}
-{302}{}{Take... kde je královna, holka?}
-{303}{}{Ty dát karta do rukáva ty nehrát fér.}
-{304}{}{Lucka levaèka.}
-{305}{}{Zlatı støed.}
-{306}{}{Pøesnì pravá.}
-{307}{}{Ty zatracenej PODVODNÍKU, tu kartu jsi vytáhl. Vra mi moje peníze, nebo tì zabiju pøímo tady na ulici.}
-{308}{}{Je to ta ve tvém rukávu.}
+{272}{}{Je to ta uprostÅ™ed.}
+{280}{}{(Monte otoÄÃ­ kartu. Je to }
+{281}{}{PromiÅˆ, kÃ¡mo, smÅ¯la, ale byl jsi BLÃZKO.}
+{282}{}{PromiÅˆ, holka, smÅ¯la, ale byla jsi BLÃZKO.}
+{283}{}{Ale docela ti to jde. NechceÅ¡ to zkusit jeÅ¡tÄ› jednou?}
+{284}{}{Ty podvodnÃ­k. Ty nehrÃ¡t fÃ©r.}
+{285}{}{DobÅ™e. Tady penÃ­ze, jÃ¡ nevÄ›dÄ›t kolik bÃ½t 20, tak tady hrst.}
+{286}{}{Ne-e, jÃ¡ NELÃBIT hra. NASKLEE.}
+{287}{}{S podvodnÃ­kem jako ty nehraju.}
+{288}{}{JasnÄ›. Tady je 20 babek.}
+{289}{}{Ne, dÃ­ky.}
+{300}{}{(DÃ¡Å¡ mu penÃ­ze, Monte pÅ™ikÃ½vne, ukÃ¡Å¾e ti karty, poloÅ¾Ã­ je na stÅ¯l a pÅ™itom vytÃ¡hne jednu kartu tak rychle, Å¾e to nebylo skoro vidÄ›t. PotÃ© je pÃ¡r sekund mÃ­chÃ¡.)}
+{301}{}{TakÅ¾e... kde je krÃ¡lovna, kÃ¡mo?}
+{302}{}{TakÅ¾e... kde je krÃ¡lovna, holka?}
+{303}{}{Ty dÃ¡t karta do rukÃ¡va ty nehrÃ¡t fÃ©r.}
+{304}{}{Lucka levaÄka.}
+{305}{}{ZlatÃ½ stÅ™ed.}
+{306}{}{PÅ™esnÄ› pravÃ¡.}
+{307}{}{Ty zatracenej PODVODNÃKU, tu kartu jsi vytÃ¡hl. VraÅ¥ mi moje penÃ­ze, nebo tÄ› zabiju pÅ™Ã­mo tady na ulici.}
+{308}{}{Je to ta ve tvÃ©m rukÃ¡vu.}
 {309}{}{Je to ta nalevo.}
 {310}{}{Je to ta napravo.}
-{311}{}{Je to ta uprostøed.}
-{320}{}{CO JSI to øíkal, kámo?}
-{321}{}{CO JSI to øíkala, holka?}
-{322}{}{Chceš øíct, e jsem podvodník?}
-{323}{}{E-he. Já VÌDÌT ty podvádìt.}
-{324}{}{Ne-e! Ne-e! Nezlobit se. Já odcházet.}
+{311}{}{Je to ta uprostÅ™ed.}
+{320}{}{CO JSI to Å™Ã­kal, kÃ¡mo?}
+{321}{}{CO JSI to Å™Ã­kala, holka?}
+{322}{}{ChceÅ¡ Å™Ã­ct, Å¾e jsem podvodnÃ­k?}
+{323}{}{E-he. JÃ¡ VÄšDÄšT ty podvÃ¡dÄ›t.}
+{324}{}{Ne-e! Ne-e! Nezlobit se. JÃ¡ odchÃ¡zet.}
 {325}{}{Ano.}
-{326}{}{Kašlu na to. Nech si ty peníze, já odsud mizím.}
-{330}{}{Poslyš, nemám èas na tvùj brekot. Zaplatíš, zkusíš štìstí. Jestli chceš HRÁT dál, tak fajn, ale jestli mi tu budeš breèet, kdy prohraješ, tak se ztra!}
-{331}{}{JÁ TÌ ROZBÍT.}
-{332}{}{Ne-e! Ne-e! Nezlobit se. Já odcházet.}
-{333}{}{Tak a dost. Teï zemøeš.}
-{334}{}{Dobøe, dobøe, promiò. Tady je 20 babek. Zahrajeme si ještì jednou.}
-{335}{}{Jdi se vycpat. Nech si ty peníze, já odsud mizím.}
-{340}{}{(Dáš mu peníze, Monte pøikıvne, ukáe ti karty a poté je poloí na stùl a nìkolik vteøin s nimi míchá.)}
-{341}{}{Take... kde je královna, kámo?}
-{342}{}{Take... kde je královna, holka?}
-{343}{}{(Monte pouívá svoji normální sadu! Pro dokonèení vımìny musíš ukrást i jeho druhou sadu.)}
-{344}{}{Ty dát karta do rukáva ty nehrát fér.}
-{345}{}{Eh... Lucka levaèka.}
+{326}{}{KaÅ¡lu na to. Nech si ty penÃ­ze, jÃ¡ odsud mizÃ­m.}
+{330}{}{PoslyÅ¡, nemÃ¡m Äas na tvÅ¯j brekot. ZaplatÃ­Å¡, zkusÃ­Å¡ Å¡tÄ›stÃ­. Jestli chceÅ¡ HRÃT dÃ¡l, tak fajn, ale jestli mi tu budeÅ¡ breÄet, kdyÅ¾ prohrajeÅ¡, tak se ztraÅ¥!}
+{331}{}{JÃ TÄš ROZBÃT.}
+{332}{}{Ne-e! Ne-e! Nezlobit se. JÃ¡ odchÃ¡zet.}
+{333}{}{Tak a dost. TeÄ zemÅ™eÅ¡.}
+{334}{}{DobÅ™e, dobÅ™e, promiÅˆ. Tady je 20 babek. Zahrajeme si jeÅ¡tÄ› jednou.}
+{335}{}{Jdi se vycpat. Nech si ty penÃ­ze, jÃ¡ odsud mizÃ­m.}
+{340}{}{(DÃ¡Å¡ mu penÃ­ze, Monte pÅ™ikÃ½vne, ukÃ¡Å¾e ti karty a potÃ© je poloÅ¾Ã­ na stÅ¯l a nÄ›kolik vteÅ™in s nimi mÃ­chÃ¡.)}
+{341}{}{TakÅ¾e... kde je krÃ¡lovna, kÃ¡mo?}
+{342}{}{TakÅ¾e... kde je krÃ¡lovna, holka?}
+{343}{}{(Monte pouÅ¾Ã­vÃ¡ svoji normÃ¡lnÃ­ sadu! Pro dokonÄenÃ­ vÃ½mÄ›ny musÃ­Å¡ ukrÃ¡st i jeho druhou sadu.)}
+{344}{}{Ty dÃ¡t karta do rukÃ¡va ty nehrÃ¡t fÃ©r.}
+{345}{}{Eh... Lucka levaÄka.}
 {346}{}{Uh... Middle of th'road}
 {347}{}{Uh... Rightie tightie}
-{348}{}{Ty zatracenej PODVODNÍKU, tu kartu jsi vytáhl. Vra mi moje peníze, nebo tì zabiju pøímo tady na ulici.}
-{349}{}{Je to ta ve tvém rukávu.}
+{348}{}{Ty zatracenej PODVODNÃKU, tu kartu jsi vytÃ¡hl. VraÅ¥ mi moje penÃ­ze, nebo tÄ› zabiju pÅ™Ã­mo tady na ulici.}
+{349}{}{Je to ta ve tvÃ©m rukÃ¡vu.}
 {350}{}{Eh, je to ta nalevo.}
 {351}{}{Eh, je to ta napravo.}
-{352}{}{Eh, je to ta uprostøed.}
-{360}{}{(Dáš mu peníze, Monte pøikıvne, ukáe ti karty a poté je poloí na stùl a nìkolik vteøin s nimi míchá.)}
-{361}{}{(Dáš mu peníze. Monte vypadá nervóznì.) Eh... dobøe... (Monte poloí karty na stùl a zamíchá je.)}
-{362}{}{Take... kde je královna, kámo?}
-{363}{}{Take... kde je královna, holka?}
-{364}{}{(Monte pouívá cinknutou sadu. Cokoliv vybereš je správnì.)}
+{352}{}{Eh, je to ta uprostÅ™ed.}
+{360}{}{(DÃ¡Å¡ mu penÃ­ze, Monte pÅ™ikÃ½vne, ukÃ¡Å¾e ti karty a potÃ© je poloÅ¾Ã­ na stÅ¯l a nÄ›kolik vteÅ™in s nimi mÃ­chÃ¡.)}
+{361}{}{(DÃ¡Å¡ mu penÃ­ze. Monte vypadÃ¡ nervÃ³znÄ›.) Eh... dobÅ™e... (Monte poloÅ¾Ã­ karty na stÅ¯l a zamÃ­chÃ¡ je.)}
+{362}{}{TakÅ¾e... kde je krÃ¡lovna, kÃ¡mo?}
+{363}{}{TakÅ¾e... kde je krÃ¡lovna, holka?}
+{364}{}{(Monte pouÅ¾Ã­vÃ¡ cinknutou sadu. Cokoliv vybereÅ¡ je sprÃ¡vnÄ›.)}
 {365}{}{Nalevo! Nalevo!}
 {366}{}{Napravo! Napravo!}
-{367}{}{Støedíèek! Støedíèek!}
-{368}{}{No, já nevím... zkusím tu vlevo.}
-{369}{}{Hmmmm... moná ta napravo?}
-{370}{}{Ty jo, já nevím... myslím, e je to ta uprostøed.}
-{375}{}{(Monte otoèí kartu. Je to srdcová královna. Celı šokovanì ztuhne.) Eh...? Hehe. Eh...}
-{376}{}{vypadá to e jsi vyhrál, kámo.}
-{377}{}{vypadá to e jsi vyhrála, holka.}
-{378}{}{(Neochotnì ti dává peníze.)}
+{367}{}{StÅ™edÃ­Äek! StÅ™edÃ­Äek!}
+{368}{}{No, jÃ¡ nevÃ­m... zkusÃ­m tu vlevo.}
+{369}{}{Hmmmm... moÅ¾nÃ¡ ta napravo?}
+{370}{}{Ty jo, jÃ¡ nevÃ­m... myslÃ­m, Å¾e je to ta uprostÅ™ed.}
+{375}{}{(Monte otoÄÃ­ kartu. Je to srdcovÃ¡ krÃ¡lovna. CelÃ½ Å¡okovanÄ› ztuhne.) Eh...? Hehe. Eh...}
+{376}{}{vypadÃ¡ to Å¾e jsi vyhrÃ¡l, kÃ¡mo.}
+{377}{}{vypadÃ¡ to Å¾e jsi vyhrÃ¡la, holka.}
+{378}{}{(NeochotnÄ› ti dÃ¡vÃ¡ penÃ­ze.)}
 {379}{}{Znovu! Znovu!}
-{380}{}{Díky, já teï jít.}
-{381}{}{Zahrajeme si ještì jednou? No tak, Monte, teprve se rozjídím.}
-{382}{}{Dobøe, díky Monte. Mìj se.}
-{385}{}{(Monte otoèí kartu. Je to srdcová královna. Vypadá šokovanì.) Eh...? Hehe. Eh...}
-{386}{}{vypadá to e jsi vyhrál, kámo.}
-{387}{}{vypadá to e jsi vyhrála, holka.}
-{388}{}{A jsem na mizinì... (Otrávenì se na tebe podívá.) Mùu pro tebe ještì nìco udìlat?}
-{389}{}{Nic. Já jenom chtít zkušenosti navíc. Ahoj. Ahoj.}
-{390}{}{Co mi mùeš DÁT?}
-{391}{}{Co kdybys mi poskytl nìjakou informaci?}
-{392}{}{Zapomeò na to, Monte. Pro dnešek jsme si kvit.}
-{400}{}{(Vypadá mrzutì.) Eh... no, nìco bych tu mìl... ale má to MNOHEM vìtší cenu ne tvoje vıhra... take...}
+{380}{}{DÃ­ky, jÃ¡ teÄ jÃ­t.}
+{381}{}{Zahrajeme si jeÅ¡tÄ› jednou? No tak, Monte, teprve se rozjÃ­Å¾dÃ­m.}
+{382}{}{DobÅ™e, dÃ­ky Monte. MÄ›j se.}
+{385}{}{(Monte otoÄÃ­ kartu. Je to srdcovÃ¡ krÃ¡lovna. VypadÃ¡ Å¡okovanÄ›.) Eh...? Hehe. Eh...}
+{386}{}{vypadÃ¡ to Å¾e jsi vyhrÃ¡l, kÃ¡mo.}
+{387}{}{vypadÃ¡ to Å¾e jsi vyhrÃ¡la, holka.}
+{388}{}{A jsem na mizinÄ›... (OtrÃ¡venÄ› se na tebe podÃ­vÃ¡.) MÅ¯Å¾u pro tebe jeÅ¡tÄ› nÄ›co udÄ›lat?}
+{389}{}{Nic. JÃ¡ jenom chtÃ­t zkuÅ¡enosti navÃ­c. Ahoj. Ahoj.}
+{390}{}{Co mi mÅ¯Å¾eÅ¡ DÃT?}
+{391}{}{Co kdybys mi poskytl nÄ›jakou informaci?}
+{392}{}{ZapomeÅˆ na to, Monte. Pro dneÅ¡ek jsme si kvit.}
+{400}{}{(VypadÃ¡ mrzutÄ›.) Eh... no, nÄ›co bych tu mÄ›l... ale mÃ¡ to MNOHEM vÄ›tÅ¡Ã­ cenu neÅ¾ tvoje vÃ½hra... takÅ¾e...}
 {401}{}{Jo? Co to je?}
-{402}{}{Jestli to má pro tebe vìtší cenu ne umírat v Golgotì kvùli nezaplacení dluhu, to u je tvùj problém, ale bıt tebou, tak si to promyslím.}
-{404}{}{Eh... hmnnn... to záleí na tom, co chceš vìdìt.}
-{405}{}{Nevíš, kdo oddìlal Wrightovic kluka? Kdo ho donutil pøedávkovat se Jetem?}
-{406}{}{Nevíš, kde najdu chlápka jménem Hezoun Lloyd?}
-{407}{}{Nevíš, kde je moje auto, Monte?}
-{408}{}{Nevíš o nìjaké zajímavé informaci?}
-{409}{}{Nech to bıt, Monte. Jsme si kvit. Uvidíme se pozdìji.}
-{415}{}{No... poslyš, ode mì to nemáš, ale vsadím se, e to byl ten sráè Renesco, co prodává léky v Obchodní ètvrti. Nevím jistì, jestli TO prodal tomu klukovi, ale urèitì nìco ví. To je všechno.}
-{416}{}{Tak dobøe, Monte. Jsme si kvit.}
-{420}{}{Eh... no... (Zdá se, e bojuje se svım svìdomím.) ...poslyš, ode mì to nemáš, ale bejt tebou, tak se podívám do suterénu v podniku Desperado.}
-{421}{}{Tak dobøe, Monte. Jsme si kvit.}
-{425}{}{(Zamhouøí oèima a nakloní se k tobì.) Zeptal bych se starıho Julese v ulici Panen. Nic mu neunikne... a POKUD ano, tak v tom má prsty. Chápeš, co tím myslím?}
-{426}{}{Tak dobøe, Monte. Jsme si kvit.}
-{430}{}{No... znáš Eldridge, co má obchod se zbranìmi Lovecké potøeby? Tvrdí, e upravuje zbranì, ale v ivotì jsem ho nevidìl pracovat. Moná by stálo za to omrknout jeho obchod... ale ode mì to nemáš.}
-{431}{}{Tak dobøe, Monte. Jsme si kvit.}
-{435}{}{(Monte se na tebe zamraèí.) Poslyš, dneska u ádnı hry, jasnı? Odpal.}
-{436}{}{Mùu si koupit ten balíèek karet, co jsi mi pøedtím ukázal?}
+{402}{}{Jestli to mÃ¡ pro tebe vÄ›tÅ¡Ã­ cenu neÅ¾ umÃ­rat v GolgotÄ› kvÅ¯li nezaplacenÃ­ dluhu, to uÅ¾ je tvÅ¯j problÃ©m, ale bÃ½t tebou, tak si to promyslÃ­m.}
+{404}{}{Eh... hmnnn... to zÃ¡leÅ¾Ã­ na tom, co chceÅ¡ vÄ›dÄ›t.}
+{405}{}{NevÃ­Å¡, kdo oddÄ›lal Wrightovic kluka? Kdo ho donutil pÅ™edÃ¡vkovat se Jetem?}
+{406}{}{NevÃ­Å¡, kde najdu chlÃ¡pka jmÃ©nem Hezoun Lloyd?}
+{407}{}{NevÃ­Å¡, kde je moje auto, Monte?}
+{408}{}{NevÃ­Å¡ o nÄ›jakÃ© zajÃ­mavÃ© informaci?}
+{409}{}{Nech to bÃ½t, Monte. Jsme si kvit. UvidÃ­me se pozdÄ›ji.}
+{415}{}{No... poslyÅ¡, ode mÄ› to nemÃ¡Å¡, ale vsadÃ­m se, Å¾e to byl ten srÃ¡Ä Renesco, co prodÃ¡vÃ¡ lÃ©ky v ObchodnÃ­ Ätvrti. NevÃ­m jistÄ›, jestli TO prodal tomu klukovi, ale urÄitÄ› nÄ›co vÃ­. To je vÅ¡echno.}
+{416}{}{Tak dobÅ™e, Monte. Jsme si kvit.}
+{420}{}{Eh... no... (ZdÃ¡ se, Å¾e bojuje se svÃ½m svÄ›domÃ­m.) ...poslyÅ¡, ode mÄ› to nemÃ¡Å¡, ale bejt tebou, tak se podÃ­vÃ¡m do suterÃ©nu v podniku Desperado.}
+{421}{}{Tak dobÅ™e, Monte. Jsme si kvit.}
+{425}{}{(ZamhouÅ™Ã­ oÄima a naklonÃ­ se k tobÄ›.) Zeptal bych se starÃ½ho Julese v ulici Panen. Nic mu neunikne... a POKUD ano, tak v tom mÃ¡ prsty. ChÃ¡peÅ¡, co tÃ­m myslÃ­m?}
+{426}{}{Tak dobÅ™e, Monte. Jsme si kvit.}
+{430}{}{No... znÃ¡Å¡ Eldridge, co mÃ¡ obchod se zbranÄ›mi LoveckÃ© potÅ™eby? TvrdÃ­, Å¾e upravuje zbranÄ›, ale v Å¾ivotÄ› jsem ho nevidÄ›l pracovat. MoÅ¾nÃ¡ by stÃ¡lo za to omrknout jeho obchod... ale ode mÄ› to nemÃ¡Å¡.}
+{431}{}{Tak dobÅ™e, Monte. Jsme si kvit.}
+{435}{}{(Monte se na tebe zamraÄÃ­.) PoslyÅ¡, dneska uÅ¾ Å¾Ã¡dnÃ½ hry, jasnÃ½? Odpal.}
+{436}{}{MÅ¯Å¾u si koupit ten balÃ­Äek karet, co jsi mi pÅ™edtÃ­m ukÃ¡zal?}
 {437}{}{I wanted some information...}
-{438}{}{Tak dobøe, Monte. Odejdu... pro tentokrát.}
-{440}{}{Ne. Ten ti nedám. Teèka. Je to PRAVÁ pøedváleèná památka... kousek historie. Prostì NE.}
-{441}{}{Dìláš mi DALŠÍ nabídku? Podívej, øekl jsem ti, e ho neprodám.}
-{442}{}{Co takhle tisíc babek? Mám je tady u sebe. Dej mi ty karty a jsou tvoje.}
+{438}{}{Tak dobÅ™e, Monte. Odejdu... pro tentokrÃ¡t.}
+{440}{}{Ne. Ten ti nedÃ¡m. TeÄka. Je to PRAVÃ pÅ™edvÃ¡leÄnÃ¡ pamÃ¡tka... kousek historie. ProstÄ› NE.}
+{441}{}{DÄ›lÃ¡Å¡ mi DALÅ Ã nabÃ­dku? PodÃ­vej, Å™ekl jsem ti, Å¾e ho neprodÃ¡m.}
+{442}{}{Co takhle tisÃ­c babek? MÃ¡m je tady u sebe. Dej mi ty karty a jsou tvoje.}
 {443}{}{Ani za 750?}
-{444}{}{Co tøeba 500 babek?}
-{445}{}{250 babek by staèilo?}
-{446}{}{Dobøe. Mám ještì pár otázek...}
-{447}{}{Nevadí, Monte. Mizím odsud.}
-{450}{}{Sedíš si na uších? Takovı smìšnı sumy mì nezajímají.}
-{451}{}{Co kdy navrhnu jinou sumu...?}
-{452}{}{Chci se ještì zeptat...}
-{453}{}{Nevadí, Monte. Mizím odsud.}
-{460}{}{No, zase a TAK mi na nìm nezáleí. Je tvùj, kámo. (Rychle se podívá nalevo a napravo, poté se sehne a sundá si botu. Odšroubuje patu a z dutiny uvnitø vyndá balíèek karet.) Tady ho máš a dávej na nìj pozor.}
-{461}{}{Chci se ještì zeptat...}
-{462}{}{Díky, Monte. Bylo mi potìšením.}
-{465}{}{(Zamraèí se.) To záleí na tom, co chceš vìdìt. A taky to nebude lacinı.}
-{466}{}{Nevíš, kdo oddìlal Wrightovic kluka? Kdo ho donutil pøedávkovat se Jetem?}
-{467}{}{Nevíš, kde najdu chlápka jménem Hezoun Lloyd?}
-{468}{}{Nevíš, kde je moje auto, Monte?}
-{469}{}{Nevíš o nìjaké zajímavé informaci?}
-{470}{}{Nevadí, Monte. Mizím odsud.}
-{475}{}{U Golgoty, tohohle tématu se v ádnım pøípadì ani NEDOTKNU. Jdi do hajzlu.}
-{476}{}{Poslyš, tohle téma pøináší jen samı trable. Nech to bejt, jo?}
-{477}{}{Dìláš mi další nabídku? Podívej, øekl jsem ti, e o tom NEBUDU mluvit.}
-{478}{}{Ani tisíc babek by tvùj názor nezmìnilo? Mám je tady u sebe.}
+{444}{}{Co tÅ™eba 500 babek?}
+{445}{}{250 babek by staÄilo?}
+{446}{}{DobÅ™e. MÃ¡m jeÅ¡tÄ› pÃ¡r otÃ¡zek...}
+{447}{}{NevadÃ­, Monte. MizÃ­m odsud.}
+{450}{}{SedÃ­Å¡ si na uÅ¡Ã­ch? TakovÃ½ smÄ›Å¡nÃ½ sumy mÄ› nezajÃ­majÃ­.}
+{451}{}{Co kdyÅ¾ navrhnu jinou sumu...?}
+{452}{}{Chci se jeÅ¡tÄ› zeptat...}
+{453}{}{NevadÃ­, Monte. MizÃ­m odsud.}
+{460}{}{No, zase aÅ¾ TAK mi na nÄ›m nezÃ¡leÅ¾Ã­. Je tvÅ¯j, kÃ¡mo. (Rychle se podÃ­vÃ¡ nalevo a napravo, potÃ© se sehne a sundÃ¡ si botu. OdÅ¡roubuje patu a z dutiny uvnitÅ™ vyndÃ¡ balÃ­Äek karet.) Tady ho mÃ¡Å¡ a dÃ¡vej na nÄ›j pozor.}
+{461}{}{Chci se jeÅ¡tÄ› zeptat...}
+{462}{}{DÃ­ky, Monte. Bylo mi potÄ›Å¡enÃ­m.}
+{465}{}{(ZamraÄÃ­ se.) To zÃ¡leÅ¾Ã­ na tom, co chceÅ¡ vÄ›dÄ›t. A taky to nebude lacinÃ½.}
+{466}{}{NevÃ­Å¡, kdo oddÄ›lal Wrightovic kluka? Kdo ho donutil pÅ™edÃ¡vkovat se Jetem?}
+{467}{}{NevÃ­Å¡, kde najdu chlÃ¡pka jmÃ©nem Hezoun Lloyd?}
+{468}{}{NevÃ­Å¡, kde je moje auto, Monte?}
+{469}{}{NevÃ­Å¡ o nÄ›jakÃ© zajÃ­mavÃ© informaci?}
+{470}{}{NevadÃ­, Monte. MizÃ­m odsud.}
+{475}{}{U Golgoty, tohohle tÃ©matu se v Å¾Ã¡dnÃ½m pÅ™Ã­padÄ› ani NEDOTKNU. Jdi do hajzlu.}
+{476}{}{PoslyÅ¡, tohle tÃ©ma pÅ™inÃ¡Å¡Ã­ jen samÃ½ trable. Nech to bejt, jo?}
+{477}{}{DÄ›lÃ¡Å¡ mi dalÅ¡Ã­ nabÃ­dku? PodÃ­vej, Å™ekl jsem ti, Å¾e o tom NEBUDU mluvit.}
+{478}{}{Ani tisÃ­c babek by tvÅ¯j nÃ¡zor nezmÄ›nilo? MÃ¡m je tady u sebe.}
 {479}{}{Ani za 750?}
-{480}{}{Co tøeba 500 babek?}
-{481}{}{250 babek by staèilo?}
+{480}{}{Co tÅ™eba 500 babek?}
+{481}{}{250 babek by staÄilo?}
 {482}{}{Eh... Golgota?}
-{483}{}{Chci se ještì zeptat...}
-{484}{}{Nevadí, Monte. Mizím odsud.}
-{490}{}{(Zakroutí hlavou.) V ádnım pøípadì. Mluvit o nìèem takovım je k smrti nebezpeènı, obzvláš pro mì. Zapomeò na to.}
-{491}{}{Co kdy ti nabídnu tohle...}
-{492}{}{Chci se ještì zeptat...}
-{493}{}{Nevadí, Monte. Mizím odsud.}
-{495}{}{Eh... no... to je hodnì penìz. (Olizuje si rty. Vypadá to, e nad tím hodnì pøemıšlí... ale jen nakrátko.) Poslyš, ode mì to nemáš...}
-{496}{}{Rozumím. Pokraèuj.}
-{500}{}{(Ušklíbne se.) Moná jsem nìco slyšel, moná taky ne. Øekni cenu.}
-{501}{}{Dobøe... øekni cenu.}
-{502}{}{Co tøeba tisícovka? Mám ji tady u sebe.}
+{483}{}{Chci se jeÅ¡tÄ› zeptat...}
+{484}{}{NevadÃ­, Monte. MizÃ­m odsud.}
+{490}{}{(ZakroutÃ­ hlavou.) V Å¾Ã¡dnÃ½m pÅ™Ã­padÄ›. Mluvit o nÄ›Äem takovÃ½m je k smrti nebezpeÄnÃ½, obzvlÃ¡Å¡Å¥ pro mÄ›. ZapomeÅˆ na to.}
+{491}{}{Co kdyÅ¾ ti nabÃ­dnu tohle...}
+{492}{}{Chci se jeÅ¡tÄ› zeptat...}
+{493}{}{NevadÃ­, Monte. MizÃ­m odsud.}
+{495}{}{Eh... no... to je hodnÄ› penÄ›z. (Olizuje si rty. VypadÃ¡ to, Å¾e nad tÃ­m hodnÄ› pÅ™emÃ½Å¡lÃ­... ale jen nakrÃ¡tko.) PoslyÅ¡, ode mÄ› to nemÃ¡Å¡...}
+{496}{}{RozumÃ­m. PokraÄuj.}
+{500}{}{(UÅ¡klÃ­bne se.) MoÅ¾nÃ¡ jsem nÄ›co slyÅ¡el, moÅ¾nÃ¡ taky ne. Å˜ekni cenu.}
+{501}{}{DobÅ™e... Å™ekni cenu.}
+{502}{}{Co tÅ™eba tisÃ­covka? MÃ¡m ji tady u sebe.}
 {503}{}{Ani za 750?}
-{504}{}{Co tøeba 500 babek?}
-{505}{}{250 babek by staèilo?}
-{506}{}{Chci se ještì zeptat...}
-{507}{}{Nevadí, Monte. Mizím odsud.}
-{510}{}{Ha! Tak za to si nekoupím ani pytel sraèek. Zapomeò na to.}
-{511}{}{Co kdy ti nabídnu tohle...}
-{512}{}{Chci se ještì zeptat...}
-{513}{}{Nevadí, Monte. Mizím odsud.}
-{515}{}{Noooo, to je tak akorát. (Zlomyslnì se ušklíbne.) Poslyš, ode mì to nemáš, ale bıt tebou, tak se zajdu podívat do suterénu v podniku Desperado v ulici Panen. Je tam hodnì "krys", jestli mi rozumíš.}
-{516}{}{Chci se ještì zeptat...}
-{517}{}{Rozumím. Díky.}
-{520}{}{(Pokrèí rameny.) Moná o nìèem vím, moná taky ne. Øekni cenu a tøeba ti nìco povím.}
-{521}{}{Dobøe... øekni cenu.}
-{522}{}{Co tøeba tisícovka? Mám ji tady u sebe.}
+{504}{}{Co tÅ™eba 500 babek?}
+{505}{}{250 babek by staÄilo?}
+{506}{}{Chci se jeÅ¡tÄ› zeptat...}
+{507}{}{NevadÃ­, Monte. MizÃ­m odsud.}
+{510}{}{Ha! Tak za to si nekoupÃ­m ani pytel sraÄek. ZapomeÅˆ na to.}
+{511}{}{Co kdyÅ¾ ti nabÃ­dnu tohle...}
+{512}{}{Chci se jeÅ¡tÄ› zeptat...}
+{513}{}{NevadÃ­, Monte. MizÃ­m odsud.}
+{515}{}{Noooo, to je tak akorÃ¡t. (ZlomyslnÄ› se uÅ¡klÃ­bne.) PoslyÅ¡, ode mÄ› to nemÃ¡Å¡, ale bÃ½t tebou, tak se zajdu podÃ­vat do suterÃ©nu v podniku Desperado v ulici Panen. Je tam hodnÄ› "krys", jestli mi rozumÃ­Å¡.}
+{516}{}{Chci se jeÅ¡tÄ› zeptat...}
+{517}{}{RozumÃ­m. DÃ­ky.}
+{520}{}{(PokrÄÃ­ rameny.) MoÅ¾nÃ¡ o nÄ›Äem vÃ­m, moÅ¾nÃ¡ taky ne. Å˜ekni cenu a tÅ™eba ti nÄ›co povÃ­m.}
+{521}{}{DobÅ™e... Å™ekni cenu.}
+{522}{}{Co tÅ™eba tisÃ­covka? MÃ¡m ji tady u sebe.}
 {523}{}{Ani za 750?}
-{524}{}{Co tøeba 500 babek?}
-{525}{}{250 babek by staèilo?}
-{526}{}{Chci se ještì zeptat...}
-{527}{}{Nevadí, Monte. Mizím odsud.}
-{530}{}{(Zamhouøí oèima a nakloní se k tobì.) Tak za tenhle obnos vím leda tak kulovı.}
-{531}{}{Co kdy ti nabídnu tohle...}
-{532}{}{Chci se ještì zeptat...}
-{533}{}{Nevadí, Monte. Mizím odsud.}
-{535}{}{To je tak akorát... (Zamhouøí oèima a nakloní se k tobì.) ...zeptal bych se starıho Julese v ulici Panen. Nic mu neunikne... a POKUD ano, tak v tom má prsty. Chápeš, co tím myslím?}
-{536}{}{Chci se ještì zeptat...}
-{537}{}{Tak dobøe, Monte. Díky.}
-{540}{}{(Pokrèí rameny.) Slyším vìci, vidím vìci. Za 200 babek se mi moná osvìí pamì, jestli mi rozumíš.}
+{524}{}{Co tÅ™eba 500 babek?}
+{525}{}{250 babek by staÄilo?}
+{526}{}{Chci se jeÅ¡tÄ› zeptat...}
+{527}{}{NevadÃ­, Monte. MizÃ­m odsud.}
+{530}{}{(ZamhouÅ™Ã­ oÄima a naklonÃ­ se k tobÄ›.) Tak za tenhle obnos vÃ­m leda tak kulovÃ½.}
+{531}{}{Co kdyÅ¾ ti nabÃ­dnu tohle...}
+{532}{}{Chci se jeÅ¡tÄ› zeptat...}
+{533}{}{NevadÃ­, Monte. MizÃ­m odsud.}
+{535}{}{To je tak akorÃ¡t... (ZamhouÅ™Ã­ oÄima a naklonÃ­ se k tobÄ›.) ...zeptal bych se starÃ½ho Julese v ulici Panen. Nic mu neunikne... a POKUD ano, tak v tom mÃ¡ prsty. ChÃ¡peÅ¡, co tÃ­m myslÃ­m?}
+{536}{}{Chci se jeÅ¡tÄ› zeptat...}
+{537}{}{Tak dobÅ™e, Monte. DÃ­ky.}
+{540}{}{(PokrÄÃ­ rameny.) SlyÅ¡Ã­m vÄ›ci, vidÃ­m vÄ›ci. Za 200 babek se mi moÅ¾nÃ¡ osvÄ›Å¾Ã­ pamÄ›Å¥, jestli mi rozumÃ­Å¡.}
 {541}{}{Tady je 200 babek.}
-{542}{}{Dám ti 150.}
+{542}{}{DÃ¡m ti 150.}
 {543}{}{100 babek nebo nic.}
-{544}{}{Chci se ještì zeptat...}
-{545}{}{Nevadí, Monte. Mizím odsud.}
-{550}{}{Sedíš si na uších? ØÍKÁM 200 babek a myslím to vánì.}
-{551}{}{Tak dobøe. Tady je 200 babek.}
-{552}{}{Chci se ještì zeptat...}
-{553}{}{Nevadí, Monte. Mizím odsud.}
-{555}{}{Beru. (Monte se k tobì nakloní.) Znáš Eldridge, co má obchod se zbranìmi Lovecké potøeby? Tvrdí, e upravuje zbranì, ale v ivotì jsem ho nevidìl pracovat. Moná by stálo za to omrknout jeho obchod... ale ode mì to nemáš.}
-{556}{}{Chci se ještì zeptat...}
-{557}{}{Rozumím. Díky, Monte.}
-{560}{}{To je pohøebištì jinì od mìsta. Smrdí to tam jak v prdeli.}
-{561}{}{Aha... chápu. A teï o tom Wrightovic klukovi...}
-{562}{}{Zapomeò na Wrightovic kluka. Chci se ještì zeptat...}
-{563}{}{Tak dobøe, Monte. Díky.}
-{565}{}{Vsadím se, e to byl ten starej kretén, co prodává léky v Obchodní ètvrti. Nevím jistì, jestli TO prodal tomu klukovi, ale urèitì nìco ví. To je všechno.}
-{566}{}{Chci se ještì zeptat...}
-{567}{}{Tak dobøe, Monte. Díky.}
-{570}{}{(Rychle se podívá nalevo a napravo, poté se sehne a sundá si botu. Odšroubuje patu a z dutiny uvnitø vyndá balíèek karet... na kartì je mu v podivném klobouku drící palici.) Máš zájem? Je to pravá pøedváleèná památka.}
-{571}{}{Ne, u mám plnı inventáø... radìji bych místo toho nìjakou informaci.}
-{572}{}{Eh, jasnì. Proè ne? To urovná vìci mezi námi.}
-{573}{}{Promiò, kámo, ádnı prachy, ádná hra. Vra se, a budeš mít víc penìz.}
-{574}{}{Promiò, holka, ádnı prachy, ádná hra. Vra se, a budeš mít víc penìz.}
-{575}{}{No, tak snad pøíštì.}
-{576}{}{Podaøilo se ti rychle vymìnit Monteho sadu karet za cinknutou sadu karet.}
+{544}{}{Chci se jeÅ¡tÄ› zeptat...}
+{545}{}{NevadÃ­, Monte. MizÃ­m odsud.}
+{550}{}{SedÃ­Å¡ si na uÅ¡Ã­ch? Å˜ÃKÃM 200 babek a myslÃ­m to vÃ¡Å¾nÄ›.}
+{551}{}{Tak dobÅ™e. Tady je 200 babek.}
+{552}{}{Chci se jeÅ¡tÄ› zeptat...}
+{553}{}{NevadÃ­, Monte. MizÃ­m odsud.}
+{555}{}{Beru. (Monte se k tobÄ› naklonÃ­.) ZnÃ¡Å¡ Eldridge, co mÃ¡ obchod se zbranÄ›mi LoveckÃ© potÅ™eby? TvrdÃ­, Å¾e upravuje zbranÄ›, ale v Å¾ivotÄ› jsem ho nevidÄ›l pracovat. MoÅ¾nÃ¡ by stÃ¡lo za to omrknout jeho obchod... ale ode mÄ› to nemÃ¡Å¡.}
+{556}{}{Chci se jeÅ¡tÄ› zeptat...}
+{557}{}{RozumÃ­m. DÃ­ky, Monte.}
+{560}{}{To je pohÅ™ebiÅ¡tÄ› jiÅ¾nÄ› od mÄ›sta. SmrdÃ­ to tam jak v prdeli.}
+{561}{}{Aha... chÃ¡pu. A teÄ o tom Wrightovic klukovi...}
+{562}{}{ZapomeÅˆ na Wrightovic kluka. Chci se jeÅ¡tÄ› zeptat...}
+{563}{}{Tak dobÅ™e, Monte. DÃ­ky.}
+{565}{}{VsadÃ­m se, Å¾e to byl ten starej kretÃ©n, co prodÃ¡vÃ¡ lÃ©ky v ObchodnÃ­ Ätvrti. NevÃ­m jistÄ›, jestli TO prodal tomu klukovi, ale urÄitÄ› nÄ›co vÃ­. To je vÅ¡echno.}
+{566}{}{Chci se jeÅ¡tÄ› zeptat...}
+{567}{}{Tak dobÅ™e, Monte. DÃ­ky.}
+{570}{}{(Rychle se podÃ­vÃ¡ nalevo a napravo, potÃ© se sehne a sundÃ¡ si botu. OdÅ¡roubuje patu a z dutiny uvnitÅ™ vyndÃ¡ balÃ­Äek karet... na kartÄ› je muÅ¾ v podivnÃ©m klobouku drÅ¾Ã­cÃ­ palici.) MÃ¡Å¡ zÃ¡jem? Je to pravÃ¡ pÅ™edvÃ¡leÄnÃ¡ pamÃ¡tka.}
+{571}{}{Ne, uÅ¾ mÃ¡m plnÃ½ inventÃ¡Å™... radÄ›ji bych mÃ­sto toho nÄ›jakou informaci.}
+{572}{}{Eh, jasnÄ›. ProÄ ne? To urovnÃ¡ vÄ›ci mezi nÃ¡mi.}
+{573}{}{PromiÅˆ, kÃ¡mo, Å¾Ã¡dnÃ½ prachy, Å¾Ã¡dnÃ¡ hra. VraÅ¥ se, aÅ¾ budeÅ¡ mÃ­t vÃ­c penÄ›z.}
+{574}{}{PromiÅˆ, holka, Å¾Ã¡dnÃ½ prachy, Å¾Ã¡dnÃ¡ hra. VraÅ¥ se, aÅ¾ budeÅ¡ mÃ­t vÃ­c penÄ›z.}
+{575}{}{No, tak snad pÅ™Ã­Å¡tÄ›.}
+{576}{}{PodaÅ™ilo se ti rychle vymÄ›nit Monteho sadu karet za cinknutou sadu karet.}
 {600}{}{piky}
 {601}{}{srdce}
-{602}{}{káry}
-{603}{}{køíe}
+{602}{}{kÃ¡ry}
+{603}{}{kÅ™Ã­Å¾e}
 {604}{}{dva}
-{605}{}{tøi}
-{606}{}{ètyøi}
-{607}{}{pìt}
-{608}{}{šest}
+{605}{}{tÅ™i}
+{606}{}{ÄtyÅ™i}
+{607}{}{pÄ›t}
+{608}{}{Å¡est}
 {609}{}{sedm}
 {610}{}{osm}
-{611}{}{devìt}
+{611}{}{devÄ›t}
 {612}{}{deset}
 {613}{}{ }

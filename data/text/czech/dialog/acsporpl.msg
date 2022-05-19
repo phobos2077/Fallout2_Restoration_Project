@@ -1,5 +1,5 @@
-{100}{}{Vidíš masoravou rostlinu.}
-{101}{}{Tato rostlina není jen tak obyèejnı porost. Mùe útoèit na èlovìka a jiná ivá stvoøení.}
-{102}{}{Tato ïábelská rostlina je zmutovaná. A nevypadá to, e by zmutovala vlivem pøirozenıch podmínek.}
-{103}{}{Nevidíš na této rostlinì nic zvláštního. Tedy a na to, e útoèí na èlovìka.}
-{150}{}{Zahrada byla zbavena všech ïábelskıch rostlin.}
+{100}{}{VidÃ­Å¡ masoÅ¾ravou rostlinu.}
+{101}{}{Tato rostlina nenÃ­ jen tak obyÄejnÃ½ porost. MÅ¯Å¾e ÃºtoÄit na ÄlovÄ›ka a jinÃ¡ Å¾ivÃ¡ stvoÅ™enÃ­.}
+{102}{}{Tato ÄÃ¡belskÃ¡ rostlina je zmutovanÃ¡. A nevypadÃ¡ to, Å¾e by zmutovala vlivem pÅ™irozenÃ½ch podmÃ­nek.}
+{103}{}{NevidÃ­Å¡ na tÃ©to rostlinÄ› nic zvlÃ¡Å¡tnÃ­ho. Tedy aÅ¾ na to, Å¾e ÃºtoÄÃ­ na ÄlovÄ›ka.}
+{150}{}{Zahrada byla zbavena vÅ¡ech ÄÃ¡belskÃ½ch rostlin.}

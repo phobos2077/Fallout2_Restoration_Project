@@ -1,44 +1,44 @@
-{100}{}{Vidíš staršího shrbeného mue.}
-{101}{}{Tento vetchı, starı mu páchne potem a pravdìpodobnì i moèí. Je odìn do potrhanıch zablácenıch hadrù a nese lopatu.}
-{102}{}{Vidíš Toma.}
-{200}{}{(Starı mu sebou leknutím škubne, kdy se k nìmu pøiblííš.) Eh, poslyš, u musím opravdu jít...}
-{201}{}{Ne tak zhurta. (Chytíš ho za rameno, kdy se snaí odejít.) Kdo jsi a co tady dìláš v tuhle hodinu?}
-{202}{}{Coe? Proè, eh...jmenuju se Tom. To u si starej chlap jako já ani nemùe uít pùlnoèní procházku bez toho, ani by se ho nìkdo na nìco vyptával?}
-{203}{}{Ne, kdy se tu plíí kolem jako nìjakı zlodìj a v ruce drí lopatu.}
-{204}{}{No dobøe, ale proè neseš tu lopatu?}
-{205}{}{To je jedno, mizím odsud.}
-{206}{}{Zapomeò na to. Omlouvám se za obtìování.}
-{207}{}{Myslíš tuhle starou vìc? (Pohlédne dolù na silnì zrezivìlou lopatu, kterou drí v ruce.) No, eh, nikdy nevíš, kdy narazíš na nìco zajímavého k vykopání. Vdy pøipraven, to je moje heslo.}
-{208}{}{Nìco zajímavého k vykopání, jo? Myslíš jako nìco v hrobì?}
-{209}{}{To je opravdu dobré heslo. Dobøe, mìj se.}
-{210}{}{(Tom pøimhouøí oèi.) Nejsem si tak úplnì jistej, co tím, eh, myslíš.}
-{211}{}{Tome, jsi na høbitovì, jsi celı zablácenı, a je po pùlnoci. Dokonce i Torr by dokázal pochopit o co tady jde. Je na èase mi zodpovìdìt pár otázek, Tome. Proè vykopáváš ty hroby?}
-{212}{}{(Poloí lopatu a povzdychne si.) Dobøe, tak já ti to øeknu. Moje tìlo u mi tak dobøe neslouí jako kdysi. Nemám ádnou práci, ani ádnı zpùsob obivy. Já vím, e vylupování hrobù není nìco, nad èím by lidé jásali, ale pro mì je to zpùsob, jak získat nìjaké peníze. Snaím se jen pøeít...nechci dìlat potíe.}
-{213}{}{Myslím, e pro mue v tvém stavu není zrovna dobrı nápad vylupovat hroby. Nìco ti povím. Zmiz odsud a na tento rozhovor jednoduše zapomeneme. U tì nechci nikdy vidìt, je ti to jasné?}
-{214}{}{(Starı mu vypadá, jako by chtìl protestovat, ale pak si to rozmyslí.) Dobøe, máš to mít. Starého chudáka Toma vidíš naposledy. (Vezme si lopatu a odbelhá se pryè.)}
-{215}{}{Kdy se nad tím tak zamyslím, moná bude lepší, kdy tì prostì zabiju.}
+{100}{}{VidÃ­Å¡ starÅ¡Ã­ho shrbenÃ©ho muÅ¾e.}
+{101}{}{Tento vetchÃ½, starÃ½ muÅ¾ pÃ¡chne potem a pravdÄ›podobnÄ› i moÄÃ­. Je odÄ›n do potrhanÃ½ch zablÃ¡cenÃ½ch hadrÅ¯ a nese lopatu.}
+{102}{}{VidÃ­Å¡ Toma.}
+{200}{}{(StarÃ½ muÅ¾ sebou leknutÃ­m Å¡kubne, kdyÅ¾ se k nÄ›mu pÅ™iblÃ­Å¾Ã­Å¡.) Eh, poslyÅ¡, uÅ¾ musÃ­m opravdu jÃ­t...}
+{201}{}{Ne tak zhurta. (ChytÃ­Å¡ ho za rameno, kdyÅ¾ se snaÅ¾Ã­ odejÃ­t.) Kdo jsi a co tady dÄ›lÃ¡Å¡ v tuhle hodinu?}
+{202}{}{CoÅ¾e? ProÄ, eh...jmenuju se Tom. To uÅ¾ si starej chlap jako jÃ¡ ani nemÅ¯Å¾e uÅ¾Ã­t pÅ¯lnoÄnÃ­ prochÃ¡zku bez toho, aniÅ¾ by se ho nÄ›kdo na nÄ›co vyptÃ¡val?}
+{203}{}{Ne, kdyÅ¾ se tu plÃ­Å¾Ã­ kolem jako nÄ›jakÃ½ zlodÄ›j a v ruce drÅ¾Ã­ lopatu.}
+{204}{}{No dobÅ™e, ale proÄ neseÅ¡ tu lopatu?}
+{205}{}{To je jedno, mizÃ­m odsud.}
+{206}{}{ZapomeÅˆ na to. OmlouvÃ¡m se za obtÄ›Å¾ovÃ¡nÃ­.}
+{207}{}{MyslÃ­Å¡ tuhle starou vÄ›c? (PohlÃ©dne dolÅ¯ na silnÄ› zrezivÄ›lou lopatu, kterou drÅ¾Ã­ v ruce.) No, eh, nikdy nevÃ­Å¡, kdy narazÃ­Å¡ na nÄ›co zajÃ­mavÃ©ho k vykopÃ¡nÃ­. VÅ¾dy pÅ™ipraven, to je moje heslo.}
+{208}{}{NÄ›co zajÃ­mavÃ©ho k vykopÃ¡nÃ­, jo? MyslÃ­Å¡ jako nÄ›co v hrobÄ›?}
+{209}{}{To je opravdu dobrÃ© heslo. DobÅ™e, mÄ›j se.}
+{210}{}{(Tom pÅ™imhouÅ™Ã­ oÄi.) Nejsem si tak ÃºplnÄ› jistej, co tÃ­m, eh, myslÃ­Å¡.}
+{211}{}{Tome, jsi na hÅ™bitovÄ›, jsi celÃ½ zablÃ¡cenÃ½, a je po pÅ¯lnoci. Dokonce i Torr by dokÃ¡zal pochopit o co tady jde. Je na Äase mi zodpovÄ›dÄ›t pÃ¡r otÃ¡zek, Tome. ProÄ vykopÃ¡vÃ¡Å¡ ty hroby?}
+{212}{}{(PoloÅ¾Ã­ lopatu a povzdychne si.) DobÅ™e, tak jÃ¡ ti to Å™eknu. Moje tÄ›lo uÅ¾ mi tak dobÅ™e neslouÅ¾Ã­ jako kdysi. NemÃ¡m Å¾Ã¡dnou prÃ¡ci, ani Å¾Ã¡dnÃ½ zpÅ¯sob obÅ¾ivy. JÃ¡ vÃ­m, Å¾e vylupovÃ¡nÃ­ hrobÅ¯ nenÃ­ nÄ›co, nad ÄÃ­m by lidÃ© jÃ¡sali, ale pro mÄ› je to zpÅ¯sob, jak zÃ­skat nÄ›jakÃ© penÃ­ze. SnaÅ¾Ã­m se jen pÅ™eÅ¾Ã­t...nechci dÄ›lat potÃ­Å¾e.}
+{213}{}{MyslÃ­m, Å¾e pro muÅ¾e v tvÃ©m stavu nenÃ­ zrovna dobrÃ½ nÃ¡pad vylupovat hroby. NÄ›co ti povÃ­m. Zmiz odsud a na tento rozhovor jednoduÅ¡e zapomeneme. UÅ¾ tÄ› nechci nikdy vidÄ›t, je ti to jasnÃ©?}
+{214}{}{(StarÃ½ muÅ¾ vypadÃ¡, jako by chtÄ›l protestovat, ale pak si to rozmyslÃ­.) DobÅ™e, mÃ¡Å¡ to mÃ­t. StarÃ©ho chudÃ¡ka Toma vidÃ­Å¡ naposledy. (Vezme si lopatu a odbelhÃ¡ se pryÄ.)}
+{215}{}{KdyÅ¾ se nad tÃ­m tak zamyslÃ­m, moÅ¾nÃ¡ bude lepÅ¡Ã­, kdyÅ¾ tÄ› prostÄ› zabiju.}
 {216}{}{Sbohem, Tome.}
-{217}{}{Prı také kradeš úrodu místnímu farmáøi.}
-{218}{}{(Starı mu znervózní.) Nemohl jsem si pomoct! Byl jsem prostì moc hladovı a to jídlo vypadalo tak dobøe. Prosím, opravdu jsem nechtìl dìlat ádnı problémy. Poslyš, já odsud prostì odejdu a u mì tu nikdy neuvidíš. Slibuju!}
-{219}{}{Dobrá, odejdi. A pohni sebou, ne si to rozmyslím.}
-{220}{}{Poèkej, to není nutné. Tu farmu vlastní Petersonovi a jsou to opravdu moc hodní lidé. Pan Peterson se dokonce nabídl, e si promluví s tím, kdo mu krade úrodu, a rozumnì se s ním domluví. Jdi si s ním promluvit, urèitì ti nìjak pomùe.}
-{221}{}{(Starému mui se rozzáøí oèi.) To vùbec nezní jako špatnı nápad. Hej, dìkuju. Moná, e tenhle svìt není a tak krutı, jak jsem si myslel.}
-{222}{}{Mìj se, Tome. Pozdìji se za tebou zastavím a podívám se, jak se ti vede.}
-{223}{}{Doufám, e ten Peterson je opravdu tak pøátelskı jak øíkáš.}
-{300}{}{Vidíš Toma. Má na sobì nové pracovní obleèení a radostnì si píská.}
-{301}{}{Zdravím! Páni, mìl jsi pravdu. Ten Peterson je opravdu hodnı èlovìk. Odpustil mi všechno, co jsem udìlal a dokonce mi nabídl práci tady na poli. Nejdøív musím splatit, co jsem vzal, ale potom zaènu dostávat kadı tıden vıplatu. Ještì jednou ti dìkuju za tvou ochotu.}
-{302}{}{Nemáš zaè, Tome. Mìj se.}
-{303}{}{Dobøe, budu... jo, poèkej vteøinku. Chci ti dát nìco za tvoji pomoc. Tenhle zapalovaè jsem našel u jednoho chlápka, kterého jsem vykopal pøed pár tıdny. Mnì je na nic, ale tobì by se mohl hodit.}
-{304}{}{Díky, Tome. Urèitì ho nìjak vyuiju. Tak zatím.}
-{305}{}{(Starı mu pøikıvne a vrátí se zpìt ke své práci.)}
+{217}{}{PrÃ½ takÃ© kradeÅ¡ Ãºrodu mÃ­stnÃ­mu farmÃ¡Å™i.}
+{218}{}{(StarÃ½ muÅ¾ znervÃ³znÃ­.) Nemohl jsem si pomoct! Byl jsem prostÄ› moc hladovÃ½ a to jÃ­dlo vypadalo tak dobÅ™e. ProsÃ­m, opravdu jsem nechtÄ›l dÄ›lat Å¾Ã¡dnÃ½ problÃ©my. PoslyÅ¡, jÃ¡ odsud prostÄ› odejdu a uÅ¾ mÄ› tu nikdy neuvidÃ­Å¡. Slibuju!}
+{219}{}{DobrÃ¡, odejdi. A pohni sebou, neÅ¾ si to rozmyslÃ­m.}
+{220}{}{PoÄkej, to nenÃ­ nutnÃ©. Tu farmu vlastnÃ­ Petersonovi a jsou to opravdu moc hodnÃ­ lidÃ©. Pan Peterson se dokonce nabÃ­dl, Å¾e si promluvÃ­ s tÃ­m, kdo mu krade Ãºrodu, a rozumnÄ› se s nÃ­m domluvÃ­. Jdi si s nÃ­m promluvit, urÄitÄ› ti nÄ›jak pomÅ¯Å¾e.}
+{221}{}{(StarÃ©mu muÅ¾i se rozzÃ¡Å™Ã­ oÄi.) To vÅ¯bec neznÃ­ jako Å¡patnÃ½ nÃ¡pad. Hej, dÄ›kuju. MoÅ¾nÃ¡, Å¾e tenhle svÄ›t nenÃ­ aÅ¾ tak krutÃ½, jak jsem si myslel.}
+{222}{}{MÄ›j se, Tome. PozdÄ›ji se za tebou zastavÃ­m a podÃ­vÃ¡m se, jak se ti vede.}
+{223}{}{DoufÃ¡m, Å¾e ten Peterson je opravdu tak pÅ™Ã¡telskÃ½ jak Å™Ã­kÃ¡Å¡.}
+{300}{}{VidÃ­Å¡ Toma. MÃ¡ na sobÄ› novÃ© pracovnÃ­ obleÄenÃ­ a radostnÄ› si pÃ­skÃ¡.}
+{301}{}{ZdravÃ­m! PÃ¡ni, mÄ›l jsi pravdu. Ten Peterson je opravdu hodnÃ½ ÄlovÄ›k. Odpustil mi vÅ¡echno, co jsem udÄ›lal a dokonce mi nabÃ­dl prÃ¡ci tady na poli. NejdÅ™Ã­v musÃ­m splatit, co jsem vzal, ale potom zaÄnu dostÃ¡vat kaÅ¾dÃ½ tÃ½den vÃ½platu. JeÅ¡tÄ› jednou ti dÄ›kuju za tvou ochotu.}
+{302}{}{NemÃ¡Å¡ zaÄ, Tome. MÄ›j se.}
+{303}{}{DobÅ™e, budu... jo, poÄkej vteÅ™inku. Chci ti dÃ¡t nÄ›co za tvoji pomoc. Tenhle zapalovaÄ jsem naÅ¡el u jednoho chlÃ¡pka, kterÃ©ho jsem vykopal pÅ™ed pÃ¡r tÃ½dny. MnÄ› je na nic, ale tobÄ› by se mohl hodit.}
+{304}{}{DÃ­ky, Tome. UrÄitÄ› ho nÄ›jak vyuÅ¾iju. Tak zatÃ­m.}
+{305}{}{(StarÃ½ muÅ¾ pÅ™ikÃ½vne a vrÃ¡tÃ­ se zpÄ›t ke svÃ© prÃ¡ci.)}
 {306}{}{[KONEC]}
-{307}{}{Ahoj. Rád tì zase vidím. Díky za všechno!}
-{308}{}{*Pískání*}
-{400}{}{Vy mladí se nikdy nepouèíte. Nejsi mùj šéf. Myslím, e tì prostì odprásknu.}
-{450}{}{Poslyš, také jsem vykopal pár hrobù. Jsem tak trochu kleptoman. Jakı je tvùj dùvod?}
-{451}{}{Vykrádání hrobù mi také není cizí, Tome. Kadı mu má své záliby. A teï odejdi.}
-{1000}{}{Podaøilo se ti zjistit, kdo vykopává hroby a díky tobì má teï Tom novı ivot.}
-{1001}{}{Podaøilo se ti zjistit, kdo vykopává hroby.}
-{1002}{}{U jdu. Není tøeba spìchat na starého èlovìka.}
-{1003}{}{Vidíš Toma. Usmívá se a má na sobì nové pracovní obleèení.}
-{1004}{}{Vypadá to, e je na tom u o mnoho lépe a usmívá se, kdy se k nìmu blííš.}
+{307}{}{Ahoj. RÃ¡d tÄ› zase vidÃ­m. DÃ­ky za vÅ¡echno!}
+{308}{}{*PÃ­skÃ¡nÃ­*}
+{400}{}{Vy mladÃ­ se nikdy nepouÄÃ­te. Nejsi mÅ¯j Å¡Ã©f. MyslÃ­m, Å¾e tÄ› prostÄ› odprÃ¡sknu.}
+{450}{}{PoslyÅ¡, takÃ© jsem vykopal pÃ¡r hrobÅ¯. Jsem tak trochu kleptoman. JakÃ½ je tvÅ¯j dÅ¯vod?}
+{451}{}{VykrÃ¡dÃ¡nÃ­ hrobÅ¯ mi takÃ© nenÃ­ cizÃ­, Tome. KaÅ¾dÃ½ muÅ¾ mÃ¡ svÃ© zÃ¡liby. A teÄ odejdi.}
+{1000}{}{PodaÅ™ilo se ti zjistit, kdo vykopÃ¡vÃ¡ hroby a dÃ­ky tobÄ› mÃ¡ teÄ Tom novÃ½ Å¾ivot.}
+{1001}{}{PodaÅ™ilo se ti zjistit, kdo vykopÃ¡vÃ¡ hroby.}
+{1002}{}{UÅ¾ jdu. NenÃ­ tÅ™eba spÄ›chat na starÃ©ho ÄlovÄ›ka.}
+{1003}{}{VidÃ­Å¡ Toma. UsmÃ­vÃ¡ se a mÃ¡ na sobÄ› novÃ© pracovnÃ­ obleÄenÃ­.}
+{1004}{}{VypadÃ¡ to, Å¾e je na tom uÅ¾ o mnoho lÃ©pe a usmÃ­vÃ¡ se, kdyÅ¾ se k nÄ›mu blÃ­Å¾Ã­Å¡.}

@@ -1,206 +1,206 @@
-{100}{}{To je ono... no, aspoò myslím.}
-{101}{}{Ne, to pøece nejde... já, no... hmmm...}
-{102}{}{Modré dráty do èervené koncovky...}
-{103}{}{Ty mutace se vyvíjejí naprosto parádnì.}
-{104}{}{U to nebude trvat dlouho.}
-{105}{}{U jen nìkolik kapek HCl...}
-{106}{}{Vidíš mue v bílém laboratorním plášti.}
-{107}{}{Vidíš doktora.}
-{108}{}{Hlavní a také jedinı doktor, kterı zùstal v komplexu EPA.}
-{109}{}{Bylo by nemoudré na mì zaútoèit.}
+{100}{}{To je ono... no, aspoÅˆ myslÃ­m.}
+{101}{}{Ne, to pÅ™ece nejde... jÃ¡, no... hmmm...}
+{102}{}{ModrÃ© drÃ¡ty do ÄervenÃ© koncovky...}
+{103}{}{Ty mutace se vyvÃ­jejÃ­ naprosto parÃ¡dnÄ›.}
+{104}{}{UÅ¾ to nebude trvat dlouho.}
+{105}{}{UÅ¾ jen nÄ›kolik kapek HCl...}
+{106}{}{VidÃ­Å¡ muÅ¾e v bÃ­lÃ©m laboratornÃ­m plÃ¡Å¡ti.}
+{107}{}{VidÃ­Å¡ doktora.}
+{108}{}{HlavnÃ­ a takÃ© jedinÃ½ doktor, kterÃ½ zÅ¯stal v komplexu EPA.}
+{109}{}{Bylo by nemoudrÃ© na mÄ› zaÃºtoÄit.}
 {120}{}{Ano?}
-{121}{}{Zdravím, jmenuju se }
+{121}{}{ZdravÃ­m, jmenuju se }
 {122}{}{. Kdo jsi ty?}
-{123}{}{Promiòte, e obtìuju. Sbohem.}
-{130}{}{Øíkají mi Doktor.}
-{131}{}{Aha, dobøe. Take, co tu dìláte? Proè jste tu sám? Vypadá to, jako by všichni ostatní utekli.}
-{132}{}{Dobøe, díky.}
-{140}{}{Vidím, e máte spoustu znalostí ve vìdeckıch oborech. V takovém pøípadì moná dokáete pochopit, co tady dìlám. Co chcete vìdìt?}
-{141}{}{Proè tu jste?}
-{142}{}{Co tady dìláš?}
-{150}{}{Promiòte, ale pochybuji o tom, e máte dostatek znalostí ve vìdìckıch oborech na to, abyste pochopil, co tady dìlám. Vrate se, a budete mentálnì alespoò na úrovni opice.}
-{151}{}{Poèkejte chvíli. Pokusím se pochopit všechno, co mi øeknete!}
-{152}{}{No, tak dobøe. Sbohem.}
-{160}{}{Byl jsem èlenem pùvodního tımu vìdcù, kteøí v komplexu EPA pracovali pøed válkou. Bohuel nikdo z nich nemìl dostateèné znalosti ve vìdeckıch oborech nebo nedisponoval dostateènım odhodláním a proto museli všichni odejít. Jsem poslední, kdo tu zbyl.}
-{161}{}{Jste s tím spokojenı? Myslím tím to, e jste tu zùstal sám?}
-{170}{}{Není to nìco, co bych si sám pøál. Momentálnì provádím nìkolik genetickıch vızkumù na stvoøeních, která jsem stvoøil, abych mohl pozorovat úèinky FEV na jejich imunitní systém. Pøed lety jsem také vytvoøil nìkolik novıch drog a spoustu dalších upravil, ale to u nedìlám.}
-{171}{}{Co ta stvoøení, která jste stvoøil?}
-{172}{}{Jaké drogy jste vytvoøil?}
-{180}{}{Ne, nemùete. Nemáte dostateèné znalosti ve vìdeckıch oborech a vyšší biologii. A teï mì omluvte, ztrácím s vámi jen èas.}
-{181}{}{To urèitì jsem. Vyzkoušejte mì.}
-{190}{}{(Zasmìje se) No dobøe, moná ano. Dobøe, kdy chcete, dám vám šanci. Co chcete vìdìt?}
-{191}{}{Proè tu jste?}
-{192}{}{Co tady dìláš?}
-{200}{}{Proè asi!? Nikdo mì nehlídá. Nejsou tu ádná pravidla. Dìlám si co chci a kdy chci. A díky tomu, e jsem tu sám, mám také pøístup ke všemu vybavení, které potøebuji. Ještì nìco?}
-{201}{}{Co je to za lidi v tìch klecích?}
-{202}{}{Co je ta divnì zbarvená tekutina kolem komplexu EPA?}
-{203}{}{Kde jste sehnal všechno to vybavení?}
-{210}{}{V prvních celách jsou vesnièané, kteøí sem omylem zabloudili. Pochytal jsem je pro pozdìjší vyuití. A ti silnìjší jsou mí osobní stráci... pro pøípad nouze.}
-{211}{}{...pro pozdìjší vyuití?  Co tím myslíte?}
-{212}{}{Díky. Mùu se zeptat na nìco jiného?}
-{213}{}{Skvìle. Díky. U musím jít.}
-{220}{}{Chemikálie a nádre s FEV virem, vìtšinou. Všechno bylo uloeno ve velkıch barelech a bezpeènì uskladnìno tady v komplexu EPA. Bohuel se tu stala malá nehoda a došlo k obrovskému úniku chemikálií. To donutilo všechny k odchodu, kromì tìch potrhlıch hologramù. Nìco uniklo i do spodních pater. Teï to vyívám jako materiál na experimenty. Zatím to pøineslo jen samé pozitivní vısledky!}
-{221}{}{Jaké vısledky? Myslíte tím vytvoøení tìch stvoøení?}
-{222}{}{Kde jste tedy získal všechno to vybavení?}
-{230}{}{Drtivou vìtšinu tady. Komplex EPA byl pùvodnì vybaven všemi monımi stroji a díky exodu všech vìdcù jich vìtšina nebyla nikdy pouita. Jen mi po tìch mnoha letech u nìkolik vìcí dochází...}
-{231}{}{To je jedno. U musím jít.}
-{240}{}{Drog? Desítky! Bìhem tìch let jsem vytvoøil Mentats, Buffout, Stimpaky, léky s rùznou úèinností, Psycho a mnoho dalších, které jsou nad vaše chápání. Ale u nic z toho nedìlám. Vytvoøil jsem místo toho robota Mr. Chemmieho!, kterı to dìlá za mì. Najdete ho v hlavním komplexu. Pokud si myslíte, e máte dost znalostí, jak mi tu tvrdíte, mùete ho klidnì pouít na vırobu vlastních drog, pokud chcete.}
-{241}{}{Jaké speciální drogy jste vyrobil?}
+{123}{}{PromiÅˆte, Å¾e obtÄ›Å¾uju. Sbohem.}
+{130}{}{Å˜Ã­kajÃ­ mi Doktor.}
+{131}{}{Aha, dobÅ™e. TakÅ¾e, co tu dÄ›lÃ¡te? ProÄ jste tu sÃ¡m? VypadÃ¡ to, jako by vÅ¡ichni ostatnÃ­ utekli.}
+{132}{}{DobÅ™e, dÃ­ky.}
+{140}{}{VidÃ­m, Å¾e mÃ¡te spoustu znalostÃ­ ve vÄ›deckÃ½ch oborech. V takovÃ©m pÅ™Ã­padÄ› moÅ¾nÃ¡ dokÃ¡Å¾ete pochopit, co tady dÄ›lÃ¡m. Co chcete vÄ›dÄ›t?}
+{141}{}{ProÄ tu jste?}
+{142}{}{Co tady dÄ›lÃ¡Å¡?}
+{150}{}{PromiÅˆte, ale pochybuji o tom, Å¾e mÃ¡te dostatek znalostÃ­ ve vÄ›dÄ›ckÃ½ch oborech na to, abyste pochopil, co tady dÄ›lÃ¡m. VraÅ¥te se, aÅ¾ budete mentÃ¡lnÄ› alespoÅˆ na Ãºrovni opice.}
+{151}{}{PoÄkejte chvÃ­li. PokusÃ­m se pochopit vÅ¡echno, co mi Å™eknete!}
+{152}{}{No, tak dobÅ™e. Sbohem.}
+{160}{}{Byl jsem Älenem pÅ¯vodnÃ­ho tÃ½mu vÄ›dcÅ¯, kteÅ™Ã­ v komplexu EPA pracovali pÅ™ed vÃ¡lkou. BohuÅ¾el nikdo z nich nemÄ›l dostateÄnÃ© znalosti ve vÄ›deckÃ½ch oborech nebo nedisponoval dostateÄnÃ½m odhodlÃ¡nÃ­m a proto museli vÅ¡ichni odejÃ­t. Jsem poslednÃ­, kdo tu zbyl.}
+{161}{}{Jste s tÃ­m spokojenÃ½? MyslÃ­m tÃ­m to, Å¾e jste tu zÅ¯stal sÃ¡m?}
+{170}{}{NenÃ­ to nÄ›co, co bych si sÃ¡m pÅ™Ã¡l. MomentÃ¡lnÄ› provÃ¡dÃ­m nÄ›kolik genetickÃ½ch vÃ½zkumÅ¯ na stvoÅ™enÃ­ch, kterÃ¡ jsem stvoÅ™il, abych mohl pozorovat ÃºÄinky FEV na jejich imunitnÃ­ systÃ©m. PÅ™ed lety jsem takÃ© vytvoÅ™il nÄ›kolik novÃ½ch drog a spoustu dalÅ¡Ã­ch upravil, ale to uÅ¾ nedÄ›lÃ¡m.}
+{171}{}{Co ta stvoÅ™enÃ­, kterÃ¡ jste stvoÅ™il?}
+{172}{}{JakÃ© drogy jste vytvoÅ™il?}
+{180}{}{Ne, nemÅ¯Å¾ete. NemÃ¡te dostateÄnÃ© znalosti ve vÄ›deckÃ½ch oborech a vyÅ¡Å¡Ã­ biologii. A teÄ mÄ› omluvte, ztrÃ¡cÃ­m s vÃ¡mi jen Äas.}
+{181}{}{To urÄitÄ› jsem. VyzkouÅ¡ejte mÄ›.}
+{190}{}{(ZasmÄ›je se) No dobÅ™e, moÅ¾nÃ¡ ano. DobÅ™e, kdyÅ¾ chcete, dÃ¡m vÃ¡m Å¡anci. Co chcete vÄ›dÄ›t?}
+{191}{}{ProÄ tu jste?}
+{192}{}{Co tady dÄ›lÃ¡Å¡?}
+{200}{}{ProÄ asi!? Nikdo mÄ› nehlÃ­dÃ¡. Nejsou tu Å¾Ã¡dnÃ¡ pravidla. DÄ›lÃ¡m si co chci a kdy chci. A dÃ­ky tomu, Å¾e jsem tu sÃ¡m, mÃ¡m takÃ© pÅ™Ã­stup ke vÅ¡emu vybavenÃ­, kterÃ© potÅ™ebuji. JeÅ¡tÄ› nÄ›co?}
+{201}{}{Co je to za lidi v tÄ›ch klecÃ­ch?}
+{202}{}{Co je ta divnÄ› zbarvenÃ¡ tekutina kolem komplexu EPA?}
+{203}{}{Kde jste sehnal vÅ¡echno to vybavenÃ­?}
+{210}{}{V prvnÃ­ch celÃ¡ch jsou vesniÄanÃ©, kteÅ™Ã­ sem omylem zabloudili. Pochytal jsem je pro pozdÄ›jÅ¡Ã­ vyuÅ¾itÃ­. A ti silnÄ›jÅ¡Ã­ jsou mÃ­ osobnÃ­ strÃ¡Å¾ci... pro pÅ™Ã­pad nouze.}
+{211}{}{...pro pozdÄ›jÅ¡Ã­ vyuÅ¾itÃ­?  Co tÃ­m myslÃ­te?}
+{212}{}{DÃ­ky. MÅ¯Å¾u se zeptat na nÄ›co jinÃ©ho?}
+{213}{}{SkvÄ›le. DÃ­ky. UÅ¾ musÃ­m jÃ­t.}
+{220}{}{ChemikÃ¡lie a nÃ¡drÅ¾e s FEV virem, vÄ›tÅ¡inou. VÅ¡echno bylo uloÅ¾eno ve velkÃ½ch barelech a bezpeÄnÄ› uskladnÄ›no tady v komplexu EPA. BohuÅ¾el se tu stala malÃ¡ nehoda a doÅ¡lo k obrovskÃ©mu Ãºniku chemikÃ¡liÃ­. To donutilo vÅ¡echny k odchodu, kromÄ› tÄ›ch potrhlÃ½ch hologramÅ¯. NÄ›co uniklo i do spodnÃ­ch pater. TeÄ to vyÅ¾Ã­vÃ¡m jako materiÃ¡l na experimenty. ZatÃ­m to pÅ™ineslo jen samÃ© pozitivnÃ­ vÃ½sledky!}
+{221}{}{JakÃ© vÃ½sledky? MyslÃ­te tÃ­m vytvoÅ™enÃ­ tÄ›ch stvoÅ™enÃ­?}
+{222}{}{Kde jste tedy zÃ­skal vÅ¡echno to vybavenÃ­?}
+{230}{}{Drtivou vÄ›tÅ¡inu tady. Komplex EPA byl pÅ¯vodnÄ› vybaven vÅ¡emi moÅ¾nÃ½mi stroji a dÃ­ky exodu vÅ¡ech vÄ›dcÅ¯ jich vÄ›tÅ¡ina nebyla nikdy pouÅ¾ita. Jen mi po tÄ›ch mnoha letech uÅ¾ nÄ›kolik vÄ›cÃ­ dochÃ¡zÃ­...}
+{231}{}{To je jedno. UÅ¾ musÃ­m jÃ­t.}
+{240}{}{Drog? DesÃ­tky! BÄ›hem tÄ›ch let jsem vytvoÅ™il Mentats, Buffout, Stimpaky, lÃ©ky s rÅ¯znou ÃºÄinnostÃ­, Psycho a mnoho dalÅ¡Ã­ch, kterÃ© jsou nad vaÅ¡e chÃ¡pÃ¡nÃ­. Ale uÅ¾ nic z toho nedÄ›lÃ¡m. VytvoÅ™il jsem mÃ­sto toho robota Mr. Chemmieho!, kterÃ½ to dÄ›lÃ¡ za mÄ›. Najdete ho v hlavnÃ­m komplexu. Pokud si myslÃ­te, Å¾e mÃ¡te dost znalostÃ­, jak mi tu tvrdÃ­te, mÅ¯Å¾ete ho klidnÄ› pouÅ¾Ã­t na vÃ½robu vlastnÃ­ch drog, pokud chcete.}
+{241}{}{JakÃ© speciÃ¡lnÃ­ drogy jste vyrobil?}
 {242}{}{Kde najdu Mr. Chemmieho!?}
-{243}{}{Díky. Slyšel jste u nìkdy o Jetu?}
-{250}{}{Ano, za tu dobu, co jsem v komplexu EPA, jsem vytvoøil mnoho stvoøení. Pokud rád prozkoumáváte svìt venku, jistì jste pøi svıch cestách na nìjaké z nich narazil. Na kentaury, floatery, "alieny"... ti všichni se teï volnì potulují pustinou. Tady, a v hlavní základnì, jsem uchoval jen nìkolik exempláøù pro pozdìjší vızkum.}
-{251}{}{Tak moment. Snaíte se mi øíct, e všechny ty stvoøení, ty stvùry, které teï zamoøují pustinu a zabíjí nevinné, jste stvoøil vy?!}
-{252}{}{Páni, poznamenám si: Nenaštvat Doktora. Sbohem.}
-{260}{}{'Co tím myslím?' Samozøejmì FEV - Virus zesílené evoluce! Momentálnì jsem na zaèátku vızkumu vlivu na èlovìka. Všichni jsme slyšeli o pøíbìhu Vùdce. Myslel jsem, e bych mohl uèinit nìco podobného. Mít svou vlastní armádu by bylo jistì velmi praktické!}
-{261}{}{Nemyslíte, e je to trochu nemorální? Jak jste vùbec schopen uvaovat o nìèem tak otøesném?}
-{262}{}{Hmm, take jste se vrátil k práci na lidech, doktore? Na èem všem jste ještì pracoval?}
-{263}{}{No, tak hodnì štìstí. U musím jít.}
-{270}{}{Myslím, e mùete. Dost jste mì pobavil. Ještì nìjakı dotaz? }
-{271}{}{Øeknìte mi znovu o tìch lidech.}
-{272}{}{Co je ta divnì zbarvená tekutina kolem komplexu EPA?}
-{273}{}{Odkud berete všechno vybavení a zásoby pro své experimenty?}
-{280}{}{Ne, ne, ne. Ne odejdete, musím se vás na nìco zeptat. Neprokázal byste mi malou laskavost? Nechci nechat skladištì bez dozoru, aby mi nikdo nic neukradl. Potøebuji nìjaké suroviny. Pomùete mi?}
-{281}{}{Jasnì. Co potøebujete?}
-{282}{}{Ne, mám teï moc práce. Moná jindy.}
-{290}{}{Jo, zajímalo mì, co asi udìlá virus s domestikovanımi zvíøaty, která tu byla ve skladu v dobì pøed válkou. Potí je v tom, e to nabouralo jejich reprodukèní cyklus... rozmnoovaly se pøíliš rychle. Jakmile jsem to zjistil, vypustil jsem je ven do pustiny.}
-{291}{}{Jste zrùda! Není divu, e o vás v okolí nikdo neví! Mìl byste bıt zlikvidován.}
-{292}{}{No, sice nesouhlasím s tím, co tu dìláte, ale co s tím zmùu, e? Sbohem.}
-{300}{}{Speciální drogy? No, kultivoval jsem novı druh marihuany. To je pøedváleèná droga. Našel jsem ji tu hluboce zmraenou. Mìl jsem hnùj z tìch zmutovanıch stvoøení, co tu vidíte, take to bylo nebezpeènìjší, ne jsem si zpoèátku myslel. A první pokusy nebyly moc úspìšné...}
-{301}{}{Mùete mi trochu té drogy dát?}
-{302}{}{Proè nebyly úspìšné? Co se stalo?}
-{310}{}{Mr. Chemmie! se nachází v severovıchodní sekci na spodním patøe komplexu EPA. Nebo severozápadním... vlastnì je to v nejvyšším patøe. Já... já u si to vùbec nepamatuji. Je to poøádnì velikı stroj. Nemùete ho minout.}
-{311}{}{Dobøe. Díky. Zmínil jste i vırobu speciálních drog. Jakıch napøíklad?}
-{320}{}{Jednoduše. Jsem vìdec a to je to, co dìlám. Experimenty jsou mùj ivot. Sice odlišné, ale poøád jde o experimenty.}
-{321}{}{Zahráváte si s vìcmi, které by se nemìli mìnit! Co kdy se nìco zvrtne? Co kdy nìkdo z tìch lidí, na kterıch pracujete, zemøe!?}
-{330}{}{Zlikvidován? Ale ne. To si nemyslím. Jen dìlám práci, na kterou jsem byl kdysi najat. Vızkum a experimenty. A jak jde èas, zaèínají docházet vìci ke zkoumání, take je tøeba popustit uzdu fantazii. Myslím, e to kdysi nìkdo nazval "nekonvenèní myšlení".}
-{331}{}{Tak a u toho mám dost! Jestli vás nikdo jinı nezastaví, tak já ano.}
-{332}{}{Jste odpornı a já odcházím. Sbohem.}
-{340}{}{Jo, proè ne? Poslute si. Ve skladu v pøízemí je toho spousta. A myslím, e jsem i Mr. Chemmieho! naprogramoval k její vırobì. Tady u ádnou nemám, protoe to zabíralo dost místa.}
-{341}{}{Díky! Øíkal jste, e jste pøi prvních pokusech nebyl úspìšnı? Jak to?}
-{350}{}{Nìkteré testované subjekty mìly dost silnou reakci na virus, ale to nestojí ani za zmínku. Sem tam se prostì pøi vızkumu nìjaká ta chybièka stane, ale s tím se musí pøi naší práci poèítat. A teï mì omluvte, mám práci.}
-{351}{}{Jo, to já taky. Sbohem.}
-{360}{}{No tak zemøou. Co ode mì èekáte? To je holt cesta pokroku.}
-{361}{}{To je zrùdné! Strašné! Teï zemøete!}
-{362}{}{Tohle u je na mì moc. Sbohem. A neèekejte, e se ještì nìkdy vrátím.}
-{370}{}{Jet? Jo, to je ta droga, co na ní lítá celı Redding, jestli se nepletu. Je to vıjimeènì komplexní slouèenina. Moje stroje ji nejsou schopny reprodukovat ani na nejvyšší vıkon. Proè? Co o ní víte?}
-{371}{}{No, je tu se mnou její tvùrce.}
-{380}{}{(*V oèích se mu blıská*) Vánì!? Kdo? Mùu ho vidìt? Mùu s ním mluvit?}
-{381}{}{Jistì. Tady je a jmenuje se Myron.}
-{390}{}{Díky, e jste pøivedl toho mladíka Myrona. Ví toho tolik! Sice není tak intelektuálnì na vıši jako já, pochopitelnì, ale pøesto je víc ne dobrı. Pokud se hodlá usadit, mùe zùstat tady a bıt mım uèedníkem.}
-{391}{}{Nejsem si jistı, e by chtìl bıt nìèím uèedníkem. Radìji pùjdeme.}
-{400}{}{Ještì chvíli poèkejte. Vezmìte si prosím tuto malou pozornost za to, e jste pøivedl Myrona. Mnì je to k nièemu.}
-{401}{}{Dobøe, díky. Ehm, co to je?}
-{410}{}{Øíkám tomu Solární spalovaè. Byl to mùj experiment. Vyuívá to energii sluneèního záøení, take není potøeba ádná munice. Skuteènì to funguje a myslím, e se vám v širıch pustinách bude hodit. Váe se k tomu ještì jedna malá otázeèka...}
+{243}{}{DÃ­ky. SlyÅ¡el jste uÅ¾ nÄ›kdy o Jetu?}
+{250}{}{Ano, za tu dobu, co jsem v komplexu EPA, jsem vytvoÅ™il mnoho stvoÅ™enÃ­. Pokud rÃ¡d prozkoumÃ¡vÃ¡te svÄ›t venku, jistÄ› jste pÅ™i svÃ½ch cestÃ¡ch na nÄ›jakÃ© z nich narazil. Na kentaury, floatery, "alieny"... ti vÅ¡ichni se teÄ volnÄ› potulujÃ­ pustinou. Tady, a v hlavnÃ­ zÃ¡kladnÄ›, jsem uchoval jen nÄ›kolik exemplÃ¡Å™Å¯ pro pozdÄ›jÅ¡Ã­ vÃ½zkum.}
+{251}{}{Tak moment. SnaÅ¾Ã­te se mi Å™Ã­ct, Å¾e vÅ¡echny ty stvoÅ™enÃ­, ty stvÅ¯ry, kterÃ© teÄ zamoÅ™ujÃ­ pustinu a zabÃ­jÃ­ nevinnÃ©, jste stvoÅ™il vy?!}
+{252}{}{PÃ¡ni, poznamenÃ¡m si: NenaÅ¡tvat Doktora. Sbohem.}
+{260}{}{'Co tÃ­m myslÃ­m?' SamozÅ™ejmÄ› FEV - Virus zesÃ­lenÃ© evoluce! MomentÃ¡lnÄ› jsem na zaÄÃ¡tku vÃ½zkumu vlivu na ÄlovÄ›ka. VÅ¡ichni jsme slyÅ¡eli o pÅ™Ã­bÄ›hu VÅ¯dce. Myslel jsem, Å¾e bych mohl uÄinit nÄ›co podobnÃ©ho. MÃ­t svou vlastnÃ­ armÃ¡du by bylo jistÄ› velmi praktickÃ©!}
+{261}{}{NemyslÃ­te, Å¾e je to trochu nemorÃ¡lnÃ­? Jak jste vÅ¯bec schopen uvaÅ¾ovat o nÄ›Äem tak otÅ™esnÃ©m?}
+{262}{}{Hmm, takÅ¾e jste se vrÃ¡til k prÃ¡ci na lidech, doktore? Na Äem vÅ¡em jste jeÅ¡tÄ› pracoval?}
+{263}{}{No, tak hodnÄ› Å¡tÄ›stÃ­. UÅ¾ musÃ­m jÃ­t.}
+{270}{}{MyslÃ­m, Å¾e mÅ¯Å¾ete. Dost jste mÄ› pobavil. JeÅ¡tÄ› nÄ›jakÃ½ dotaz? }
+{271}{}{Å˜eknÄ›te mi znovu o tÄ›ch lidech.}
+{272}{}{Co je ta divnÄ› zbarvenÃ¡ tekutina kolem komplexu EPA?}
+{273}{}{Odkud berete vÅ¡echno vybavenÃ­ a zÃ¡soby pro svÃ© experimenty?}
+{280}{}{Ne, ne, ne. NeÅ¾ odejdete, musÃ­m se vÃ¡s na nÄ›co zeptat. NeprokÃ¡zal byste mi malou laskavost? Nechci nechat skladiÅ¡tÄ› bez dozoru, aby mi nikdo nic neukradl. PotÅ™ebuji nÄ›jakÃ© suroviny. PomÅ¯Å¾ete mi?}
+{281}{}{JasnÄ›. Co potÅ™ebujete?}
+{282}{}{Ne, mÃ¡m teÄ moc prÃ¡ce. MoÅ¾nÃ¡ jindy.}
+{290}{}{Jo, zajÃ­malo mÄ›, co asi udÄ›lÃ¡ virus s domestikovanÃ½mi zvÃ­Å™aty, kterÃ¡ tu byla ve skladu v dobÄ› pÅ™ed vÃ¡lkou. PotÃ­Å¾ je v tom, Å¾e to nabouralo jejich reprodukÄnÃ­ cyklus... rozmnoÅ¾ovaly se pÅ™Ã­liÅ¡ rychle. Jakmile jsem to zjistil, vypustil jsem je ven do pustiny.}
+{291}{}{Jste zrÅ¯da! NenÃ­ divu, Å¾e o vÃ¡s v okolÃ­ nikdo nevÃ­! MÄ›l byste bÃ½t zlikvidovÃ¡n.}
+{292}{}{No, sice nesouhlasÃ­m s tÃ­m, co tu dÄ›lÃ¡te, ale co s tÃ­m zmÅ¯Å¾u, Å¾e? Sbohem.}
+{300}{}{SpeciÃ¡lnÃ­ drogy? No, kultivoval jsem novÃ½ druh marihuany. To je pÅ™edvÃ¡leÄnÃ¡ droga. NaÅ¡el jsem ji tu hluboce zmraÅ¾enou. MÄ›l jsem hnÅ¯j z tÄ›ch zmutovanÃ½ch stvoÅ™enÃ­, co tu vidÃ­te, takÅ¾e to bylo nebezpeÄnÄ›jÅ¡Ã­, neÅ¾ jsem si zpoÄÃ¡tku myslel. A prvnÃ­ pokusy nebyly moc ÃºspÄ›Å¡nÃ©...}
+{301}{}{MÅ¯Å¾ete mi trochu tÃ© drogy dÃ¡t?}
+{302}{}{ProÄ nebyly ÃºspÄ›Å¡nÃ©? Co se stalo?}
+{310}{}{Mr. Chemmie! se nachÃ¡zÃ­ v severovÃ½chodnÃ­ sekci na spodnÃ­m patÅ™e komplexu EPA. Nebo severozÃ¡padnÃ­m... vlastnÄ› je to v nejvyÅ¡Å¡Ã­m patÅ™e. JÃ¡... jÃ¡ uÅ¾ si to vÅ¯bec nepamatuji. Je to poÅ™Ã¡dnÄ› velikÃ½ stroj. NemÅ¯Å¾ete ho minout.}
+{311}{}{DobÅ™e. DÃ­ky. ZmÃ­nil jste i vÃ½robu speciÃ¡lnÃ­ch drog. JakÃ½ch napÅ™Ã­klad?}
+{320}{}{JednoduÅ¡e. Jsem vÄ›dec a to je to, co dÄ›lÃ¡m. Experimenty jsou mÅ¯j Å¾ivot. Sice odliÅ¡nÃ©, ale poÅ™Ã¡d jde o experimenty.}
+{321}{}{ZahrÃ¡vÃ¡te si s vÄ›cmi, kterÃ© by se nemÄ›li mÄ›nit! Co kdyÅ¾ se nÄ›co zvrtne? Co kdyÅ¾ nÄ›kdo z tÄ›ch lidÃ­, na kterÃ½ch pracujete, zemÅ™e!?}
+{330}{}{ZlikvidovÃ¡n? Ale ne. To si nemyslÃ­m. Jen dÄ›lÃ¡m prÃ¡ci, na kterou jsem byl kdysi najat. VÃ½zkum a experimenty. A jak jde Äas, zaÄÃ­najÃ­ dochÃ¡zet vÄ›ci ke zkoumÃ¡nÃ­, takÅ¾e je tÅ™eba popustit uzdu fantazii. MyslÃ­m, Å¾e to kdysi nÄ›kdo nazval "nekonvenÄnÃ­ myÅ¡lenÃ­".}
+{331}{}{Tak a uÅ¾ toho mÃ¡m dost! Jestli vÃ¡s nikdo jinÃ½ nezastavÃ­, tak jÃ¡ ano.}
+{332}{}{Jste odpornÃ½ a jÃ¡ odchÃ¡zÃ­m. Sbohem.}
+{340}{}{Jo, proÄ ne? PosluÅ¾te si. Ve skladu v pÅ™Ã­zemÃ­ je toho spousta. A myslÃ­m, Å¾e jsem i Mr. Chemmieho! naprogramoval k jejÃ­ vÃ½robÄ›. Tady uÅ¾ Å¾Ã¡dnou nemÃ¡m, protoÅ¾e to zabÃ­ralo dost mÃ­sta.}
+{341}{}{DÃ­ky! Å˜Ã­kal jste, Å¾e jste pÅ™i prvnÃ­ch pokusech nebyl ÃºspÄ›Å¡nÃ½? Jak to?}
+{350}{}{NÄ›kterÃ© testovanÃ© subjekty mÄ›ly dost silnou reakci na virus, ale to nestojÃ­ ani za zmÃ­nku. Sem tam se prostÄ› pÅ™i vÃ½zkumu nÄ›jakÃ¡ ta chybiÄka stane, ale s tÃ­m se musÃ­ pÅ™i naÅ¡Ã­ prÃ¡ci poÄÃ­tat. A teÄ mÄ› omluvte, mÃ¡m prÃ¡ci.}
+{351}{}{Jo, to jÃ¡ taky. Sbohem.}
+{360}{}{No tak zemÅ™ou. Co ode mÄ› ÄekÃ¡te? To je holt cesta pokroku.}
+{361}{}{To je zrÅ¯dnÃ©! StraÅ¡nÃ©! TeÄ zemÅ™ete!}
+{362}{}{Tohle uÅ¾ je na mÄ› moc. Sbohem. A neÄekejte, Å¾e se jeÅ¡tÄ› nÄ›kdy vrÃ¡tÃ­m.}
+{370}{}{Jet? Jo, to je ta droga, co na nÃ­ lÃ­tÃ¡ celÃ½ Redding, jestli se nepletu. Je to vÃ½jimeÄnÄ› komplexnÃ­ slouÄenina. Moje stroje ji nejsou schopny reprodukovat ani na nejvyÅ¡Å¡Ã­ vÃ½kon. ProÄ? Co o nÃ­ vÃ­te?}
+{371}{}{No, je tu se mnou jejÃ­ tvÅ¯rce.}
+{380}{}{(*V oÄÃ­ch se mu blÃ½skÃ¡*) VÃ¡Å¾nÄ›!? Kdo? MÅ¯Å¾u ho vidÄ›t? MÅ¯Å¾u s nÃ­m mluvit?}
+{381}{}{JistÄ›. Tady je a jmenuje se Myron.}
+{390}{}{DÃ­ky, Å¾e jste pÅ™ivedl toho mladÃ­ka Myrona. VÃ­ toho tolik! Sice nenÃ­ tak intelektuÃ¡lnÄ› na vÃ½Å¡i jako jÃ¡, pochopitelnÄ›, ale pÅ™esto je vÃ­c neÅ¾ dobrÃ½. Pokud se hodlÃ¡ usadit, mÅ¯Å¾e zÅ¯stat tady a bÃ½t mÃ½m uÄednÃ­kem.}
+{391}{}{Nejsem si jistÃ½, Å¾e by chtÄ›l bÃ½t nÄ›ÄÃ­m uÄednÃ­kem. RadÄ›ji pÅ¯jdeme.}
+{400}{}{JeÅ¡tÄ› chvÃ­li poÄkejte. VezmÄ›te si prosÃ­m tuto malou pozornost za to, Å¾e jste pÅ™ivedl Myrona. MnÄ› je to k niÄemu.}
+{401}{}{DobÅ™e, dÃ­ky. Ehm, co to je?}
+{410}{}{Å˜Ã­kÃ¡m tomu SolÃ¡rnÃ­ spalovaÄ. Byl to mÅ¯j experiment. VyuÅ¾Ã­vÃ¡ to energii sluneÄnÃ­ho zÃ¡Å™enÃ­, takÅ¾e nenÃ­ potÅ™eba Å¾Ã¡dnÃ¡ munice. SkuteÄnÄ› to funguje a myslÃ­m, Å¾e se vÃ¡m v Å¡irÃ½ch pustinÃ¡ch bude hodit. VÃ¡Å¾e se k tomu jeÅ¡tÄ› jedna malÃ¡ otÃ¡zeÄka...}
 {411}{}{A co tam teda je?}
-{420}{}{Vypadáte jako dobrodrunı typ. Já jsem omezen jen na komplex EPA. Musím tu hlídat experimenty, ale zároveò potøebuji nìjaké vybavení, které mi u došlo. Mùete pro mì nìkolik vìcí sehnat?}
-{421}{}{Jasnì. Co potøebujete?}
-{422}{}{Ne, teï jsem zaneprázdnìn zachraòováním svojí vesnice. Moná nìkdy jindy.}
-{430}{}{No, jedno z mála zvíøat, které jsem detailnì neprozkoumal, je zlatı geckon. Na to, abych mohl pokraèovat, potøebuji vızkumnı materiál. Mùete pro mì sehnat, øeknìme, 10 kùí zlatého geckona a pøinést mi je? Jsem si jistı, e najdu nìco, co bych vám mohl dát za odmìnu.}
-{431}{}{ádnı problém. Jakmile je získám, vrátím se.}
-{432}{}{Zrovna mám 10 kùí u sebe.}
-{440}{}{(Podívá se na tebe.) Coe?}
-{441}{}{Eh, zdravím. Jak jsme spolu poslednì mluvili, tak jsem tak nìjak nepochytil, kdo jste.}
-{450}{}{Zase vy? Co chcete teï?}
-{451}{}{Co tady dìláte? Tohle místo je jako mìsto duchù.}
-{460}{}{Jestli mi nechcete pomoct, tak mì prosím nechte na pokoji. Nebo jste se snad rozhodl propùjèit mi své dovednosti?}
-{461}{}{Ano. Co ode mì potøebujete?}
-{462}{}{Ne, ale hned jak budu volnı, tak vám pomùu.}
-{470}{}{Zdravím. U jste se uklidnil?}
-{471}{}{Ne, jsem tady, abych vás oddìlal. Svìt potøebuje ménì takovıch, jako jste vy.}
-{472}{}{Ano, myslím, e ano. Potøebuju se vás zeptat na nìkolik otázek.}
-{480}{}{Co chcete? Mám tady nìkolik experimentù, na které musím dohlíet!}
-{481}{}{Povìzte mi o drogách, které vytváøíte.}
-{482}{}{Povìzte mi znovu o tìch lidech.}
-{483}{}{Hledám práci. Nemáte pro mì nìco?}
-{484}{}{Odkud berete všechno vybavení a zásoby pro své experimenty?}
-{490}{}{Máte ty kùe, které jsem po vás chtìl?}
+{420}{}{VypadÃ¡te jako dobrodruÅ¾nÃ½ typ. JÃ¡ jsem omezen jen na komplex EPA. MusÃ­m tu hlÃ­dat experimenty, ale zÃ¡roveÅˆ potÅ™ebuji nÄ›jakÃ© vybavenÃ­, kterÃ© mi uÅ¾ doÅ¡lo. MÅ¯Å¾ete pro mÄ› nÄ›kolik vÄ›cÃ­ sehnat?}
+{421}{}{JasnÄ›. Co potÅ™ebujete?}
+{422}{}{Ne, teÄ jsem zaneprÃ¡zdnÄ›n zachraÅˆovÃ¡nÃ­m svojÃ­ vesnice. MoÅ¾nÃ¡ nÄ›kdy jindy.}
+{430}{}{No, jedno z mÃ¡la zvÃ­Å™at, kterÃ© jsem detailnÄ› neprozkoumal, je zlatÃ½ geckon. Na to, abych mohl pokraÄovat, potÅ™ebuji vÃ½zkumnÃ½ materiÃ¡l. MÅ¯Å¾ete pro mÄ› sehnat, Å™eknÄ›me, 10 kÅ¯Å¾Ã­ zlatÃ©ho geckona a pÅ™inÃ©st mi je? Jsem si jistÃ½, Å¾e najdu nÄ›co, co bych vÃ¡m mohl dÃ¡t za odmÄ›nu.}
+{431}{}{Å½Ã¡dnÃ½ problÃ©m. Jakmile je zÃ­skÃ¡m, vrÃ¡tÃ­m se.}
+{432}{}{Zrovna mÃ¡m 10 kÅ¯Å¾Ã­ u sebe.}
+{440}{}{(PodÃ­vÃ¡ se na tebe.) CoÅ¾e?}
+{441}{}{Eh, zdravÃ­m. Jak jsme spolu poslednÄ› mluvili, tak jsem tak nÄ›jak nepochytil, kdo jste.}
+{450}{}{Zase vy? Co chcete teÄ?}
+{451}{}{Co tady dÄ›lÃ¡te? Tohle mÃ­sto je jako mÄ›sto duchÅ¯.}
+{460}{}{Jestli mi nechcete pomoct, tak mÄ› prosÃ­m nechte na pokoji. Nebo jste se snad rozhodl propÅ¯jÄit mi svÃ© dovednosti?}
+{461}{}{Ano. Co ode mÄ› potÅ™ebujete?}
+{462}{}{Ne, ale hned jak budu volnÃ½, tak vÃ¡m pomÅ¯Å¾u.}
+{470}{}{ZdravÃ­m. UÅ¾ jste se uklidnil?}
+{471}{}{Ne, jsem tady, abych vÃ¡s oddÄ›lal. SvÄ›t potÅ™ebuje mÃ©nÄ› takovÃ½ch, jako jste vy.}
+{472}{}{Ano, myslÃ­m, Å¾e ano. PotÅ™ebuju se vÃ¡s zeptat na nÄ›kolik otÃ¡zek.}
+{480}{}{Co chcete? MÃ¡m tady nÄ›kolik experimentÅ¯, na kterÃ© musÃ­m dohlÃ­Å¾et!}
+{481}{}{PovÄ›zte mi o drogÃ¡ch, kterÃ© vytvÃ¡Å™Ã­te.}
+{482}{}{PovÄ›zte mi znovu o tÄ›ch lidech.}
+{483}{}{HledÃ¡m prÃ¡ci. NemÃ¡te pro mÄ› nÄ›co?}
+{484}{}{Odkud berete vÅ¡echno vybavenÃ­ a zÃ¡soby pro svÃ© experimenty?}
+{490}{}{MÃ¡te ty kÅ¯Å¾e, kterÃ© jsem po vÃ¡s chtÄ›l?}
 {491}{}{Ano, tady jsou.}
-{492}{}{Ne, ještì ne.}
-{500}{}{Vıbornì! Skvìle! Ukate, podívám se... ach ano, tyhle jsou skvìlé! Nechcete ještì nìjakou další práci?}
-{501}{}{Ano, pokud nìjakou máte.}
-{502}{}{Teï ne, díky. Nashle.}
-{510}{}{Pøestoe vìtšinou pracuji tady ve skladišti, stále se èas od èasu potøebuji dostat do hlavního komplexu. Avšak svìtla jsou trvale nastavena na nízké osvìtlení. Kdy to vyøešíte, budu se moci dostat do samotné budovy EPA.}
-{511}{}{ádnı problém.}
-{512}{}{Vrátím se, a na to budu mít èas.}
-{513}{}{U je to hotové! Byly tam nìjaké uvolnìné dráty na hlavní obvodové desce a povedl...}
-{520}{}{Teï, kdy jste zabil všechny mé bojovníky, dokázal jste, e jste víc ne uiteènı. Nechcete pro mì pracovat?}
-{521}{}{Co!? Pracovat pro vás!? Co chcete abych udìlal?}
-{522}{}{Ne, díky. Nashle.}
-{530}{}{Je u ten problém s energií vyøešenı?}
-{531}{}{Ano, ano, ano, nepotøebuji znát podrobnosti. Díky. A teï mám pro vás ještì jeden úkol, pokud ho chcete podstoupit.}
+{492}{}{Ne, jeÅ¡tÄ› ne.}
+{500}{}{VÃ½bornÄ›! SkvÄ›le! UkaÅ¾te, podÃ­vÃ¡m se... ach ano, tyhle jsou skvÄ›lÃ©! Nechcete jeÅ¡tÄ› nÄ›jakou dalÅ¡Ã­ prÃ¡ci?}
+{501}{}{Ano, pokud nÄ›jakou mÃ¡te.}
+{502}{}{TeÄ ne, dÃ­ky. Nashle.}
+{510}{}{PÅ™estoÅ¾e vÄ›tÅ¡inou pracuji tady ve skladiÅ¡ti, stÃ¡le se Äas od Äasu potÅ™ebuji dostat do hlavnÃ­ho komplexu. AvÅ¡ak svÄ›tla jsou trvale nastavena na nÃ­zkÃ© osvÄ›tlenÃ­. KdyÅ¾ to vyÅ™eÅ¡Ã­te, budu se moci dostat do samotnÃ© budovy EPA.}
+{511}{}{Å½Ã¡dnÃ½ problÃ©m.}
+{512}{}{VrÃ¡tÃ­m se, aÅ¾ na to budu mÃ­t Äas.}
+{513}{}{UÅ¾ je to hotovÃ©! Byly tam nÄ›jakÃ© uvolnÄ›nÃ© drÃ¡ty na hlavnÃ­ obvodovÃ© desce a povedl...}
+{520}{}{TeÄ, kdyÅ¾ jste zabil vÅ¡echny mÃ© bojovnÃ­ky, dokÃ¡zal jste, Å¾e jste vÃ­c neÅ¾ uÅ¾iteÄnÃ½. Nechcete pro mÄ› pracovat?}
+{521}{}{Co!? Pracovat pro vÃ¡s!? Co chcete abych udÄ›lal?}
+{522}{}{Ne, dÃ­ky. Nashle.}
+{530}{}{Je uÅ¾ ten problÃ©m s energiÃ­ vyÅ™eÅ¡enÃ½?}
+{531}{}{Ano, ano, ano, nepotÅ™ebuji znÃ¡t podrobnosti. DÃ­ky. A teÄ mÃ¡m pro vÃ¡s jeÅ¡tÄ› jeden Ãºkol, pokud ho chcete podstoupit.}
 {532}{}{A co tam teda je?}
-{533}{}{Ne, ještì na tom pracuju.}
-{540}{}{Momentálnì zkoumám nové sérum na vylepšení hbitosti a všímavosti, které by lidem pomohlo v pøeití na tomto drsném svìtì. Mohl bych ho vyzkoušet na vás?}
-{541}{}{No... tak dobøe. Jak by mi to mohlo ublíit?}
-{550}{}{Víc, ne si myslíte... pokud se nìco nepovede... a teï se nehıbejte, dáme se do toho!}
-{551}{}{Hej! Poèkejte chvíli...}
-{560}{}{Á, tady vás mám! Zpátky mezi ivımi, jak vidím! Jak se cítíte?}
-{561}{}{Eh, dobøe. Proè se ptáte?}
-{570}{}{Na pár hodin jste upadl do bezvìdomí, ale u byste mìl bıt v poøádku. Údaje ukazují, e jste nyní ostraitìjší a vnímavìjší.}
-{571}{}{Paráda! Díky, Doktore.}
-{580}{}{ádnı problém. Pokud budete nìkdy cokoliv potøebovat, dejte mi vìdìt.}
-{581}{}{Dám si pozor. Sbohem.}
-{590}{}{Rozhodl jste se, e mi pomùete?}
-{591}{}{Ano, pomùu vám. Vrátím se, a obnovím energii.}
-{592}{}{Ne, promiòte.}
-{600}{}{Promiòte, ale u tu není nic, co bych pro vás mohl udìlat. U pro vás nemám ádnou práci. Díky za pomoc.}
-{601}{}{V tom pøípadì pùjdu. Nashle.}
-{602}{}{Ano, byly tam nìjaké uvolnìné dráty a bylo potøeba najít nìjaké haraburdí...}
-{603}{}{NE! Co to dìláte?}
-{700}{}{Tak moment! Vy jste byl souèástí "pùvodního" tımu?! Ale to znamená, e vám musí bıt pøes 200 let!}
-{701}{}{No, myslím, e je to svım zpùsobem pravda. Ve skuteènosti jsem se narodil pøed 202 lety. Nicménì by nebylo moné, abych il tak dlouho jen za pomocí normálních prostøedkù.}
-{702}{}{Pokraèujte, poslouchám.}
-{703}{}{Kdy zaèala válka, pouili jsem spolu s jinımi vìdci kryogenní komory. Hologramùm a robotùm jsme pøedali vìtší kontrolu nad tímto komplexem a poté jsme se uzavøeli do komor, abychom pøeèkali tu nejhorší zkázu.}
-{704}{}{Ale Velká Válka skonèila pøed mnoha lety.}
-{705}{}{To je pravda. Poprvé jsme opustili hibernaci pøed devadesáti lety a zjistili jsme, e toto místo ohromnì zpustlo. Vìtšina ostatních vìdcù pokraèovala ve svıch pùvodních vızkumech, jeliko nevìdìli co jiného dìlat.}
-{706}{}{[Více]}
-{707}{}{Nemohl jsem uvìøit jejich vìdecké krátkozrakosti... jejich naprostému nedostatku pøedstavivosti! Mìli jsme úasnou pøíleitost vytvoøit ohromující vìci. Mìli jsme monost pøetvoøit vìci ke svému obrazu. Bohuel, mí kolegové zaplatili za svùj nedostatek vize...}
+{533}{}{Ne, jeÅ¡tÄ› na tom pracuju.}
+{540}{}{MomentÃ¡lnÄ› zkoumÃ¡m novÃ© sÃ©rum na vylepÅ¡enÃ­ hbitosti a vÅ¡Ã­mavosti, kterÃ© by lidem pomohlo v pÅ™eÅ¾itÃ­ na tomto drsnÃ©m svÄ›tÄ›. Mohl bych ho vyzkouÅ¡et na vÃ¡s?}
+{541}{}{No... tak dobÅ™e. Jak by mi to mohlo ublÃ­Å¾it?}
+{550}{}{VÃ­c, neÅ¾ si myslÃ­te... pokud se nÄ›co nepovede... a teÄ se nehÃ½bejte, dÃ¡me se do toho!}
+{551}{}{Hej! PoÄkejte chvÃ­li...}
+{560}{}{Ã, tady vÃ¡s mÃ¡m! ZpÃ¡tky mezi Å¾ivÃ½mi, jak vidÃ­m! Jak se cÃ­tÃ­te?}
+{561}{}{Eh, dobÅ™e. ProÄ se ptÃ¡te?}
+{570}{}{Na pÃ¡r hodin jste upadl do bezvÄ›domÃ­, ale uÅ¾ byste mÄ›l bÃ½t v poÅ™Ã¡dku. Ãšdaje ukazujÃ­, Å¾e jste nynÃ­ ostraÅ¾itÄ›jÅ¡Ã­ a vnÃ­mavÄ›jÅ¡Ã­.}
+{571}{}{ParÃ¡da! DÃ­ky, Doktore.}
+{580}{}{Å½Ã¡dnÃ½ problÃ©m. Pokud budete nÄ›kdy cokoliv potÅ™ebovat, dejte mi vÄ›dÄ›t.}
+{581}{}{DÃ¡m si pozor. Sbohem.}
+{590}{}{Rozhodl jste se, Å¾e mi pomÅ¯Å¾ete?}
+{591}{}{Ano, pomÅ¯Å¾u vÃ¡m. VrÃ¡tÃ­m se, aÅ¾ obnovÃ­m energii.}
+{592}{}{Ne, promiÅˆte.}
+{600}{}{PromiÅˆte, ale uÅ¾ tu nenÃ­ nic, co bych pro vÃ¡s mohl udÄ›lat. UÅ¾ pro vÃ¡s nemÃ¡m Å¾Ã¡dnou prÃ¡ci. DÃ­ky za pomoc.}
+{601}{}{V tom pÅ™Ã­padÄ› pÅ¯jdu. Nashle.}
+{602}{}{Ano, byly tam nÄ›jakÃ© uvolnÄ›nÃ© drÃ¡ty a bylo potÅ™eba najÃ­t nÄ›jakÃ© haraburdÃ­...}
+{603}{}{NE! Co to dÄ›lÃ¡te?}
+{700}{}{Tak moment! Vy jste byl souÄÃ¡stÃ­ "pÅ¯vodnÃ­ho" tÃ½mu?! Ale to znamenÃ¡, Å¾e vÃ¡m musÃ­ bÃ½t pÅ™es 200 let!}
+{701}{}{No, myslÃ­m, Å¾e je to svÃ½m zpÅ¯sobem pravda. Ve skuteÄnosti jsem se narodil pÅ™ed 202 lety. NicmÃ©nÄ› by nebylo moÅ¾nÃ©, abych Å¾il tak dlouho jen za pomocÃ­ normÃ¡lnÃ­ch prostÅ™edkÅ¯.}
+{702}{}{PokraÄujte, poslouchÃ¡m.}
+{703}{}{KdyÅ¾ zaÄala vÃ¡lka, pouÅ¾ili jsem spolu s jinÃ½mi vÄ›dci kryogennÃ­ komory. HologramÅ¯m a robotÅ¯m jsme pÅ™edali vÄ›tÅ¡Ã­ kontrolu nad tÃ­mto komplexem a potÃ© jsme se uzavÅ™eli do komor, abychom pÅ™eÄkali tu nejhorÅ¡Ã­ zkÃ¡zu.}
+{704}{}{Ale VelkÃ¡ VÃ¡lka skonÄila pÅ™ed mnoha lety.}
+{705}{}{To je pravda. PoprvÃ© jsme opustili hibernaci pÅ™ed devadesÃ¡ti lety a zjistili jsme, Å¾e toto mÃ­sto ohromnÄ› zpustlo. VÄ›tÅ¡ina ostatnÃ­ch vÄ›dcÅ¯ pokraÄovala ve svÃ½ch pÅ¯vodnÃ­ch vÃ½zkumech, jelikoÅ¾ nevÄ›dÄ›li co jinÃ©ho dÄ›lat.}
+{706}{}{[VÃ­ce]}
+{707}{}{Nemohl jsem uvÄ›Å™it jejich vÄ›deckÃ© krÃ¡tkozrakosti... jejich naprostÃ©mu nedostatku pÅ™edstavivosti! MÄ›li jsme ÃºÅ¾asnou pÅ™Ã­leÅ¾itost vytvoÅ™it ohromujÃ­cÃ­ vÄ›ci. MÄ›li jsme moÅ¾nost pÅ™etvoÅ™it vÄ›ci ke svÃ©mu obrazu. BohuÅ¾el, mÃ­ kolegovÃ© zaplatili za svÅ¯j nedostatek vize...}
 {708}{}{Vy jste je zabil!?}
-{709}{}{Pochopitelnì.}
-{710}{}{Prosím, pokraèujte.}
-{711}{}{Ne, nezabil jsem je. Ale nemohl jsem jim dovolit, aby se vmìšovali do mıch plánù. Pouze jsem tu zmanipuloval nìkteré události, take nakonec odešli dobrovolnì.}
-{712}{}{Dobøe, to vysvìtluje èást pøíbìhu, ale stejnì mi ještì nìco chybí...}
-{713}{}{Ach, ano. Promiòte. Nìkdy se prostì nechám unést a moje mysl si jde vlastní cestou. Velká mysl, víte? Tak tedy, pokraèoval jsem ve vyuívání komory. Ale trochu jsem ji modifikoval.}
-{714}{}{Jaké modifikace jste provedl?}
-{715}{}{Myslím, e to by u staèilo. Sbohem.}
-{716}{}{No, kdy jsme pouili kryogenní komory poprvé, bylo to jako bych šel prostì spát a poté se vzbudil. Uvìdomil jsem si, e je to ztráta èasu. Pøenastavil jsem proto nastavení komory tak, abych ji mohl stále pouívat a zároveò, aby má mysl byla pøi vìdomí! Vyuil jsem tuto prodlouenou dobu na to, abych uvaoval nad svımi aktuálními projekty a pøemıšlel o tom, jakımi novımi experimenty se budu zabıvat pøíštì. Díky tomu také mohu pozorovat dlouhodobé úèinky svıch vızkumù.}
-{717}{}{Uvaoval jste nìkdy nad tím, e by vám takovı zpùsob pouití komory mohl nìjak uškodit?}
-{718}{}{Nesmysl! Kdy u nic, tak to ze mì dìlá lepšího èlovìka. Teï vidím vše tak jasnì a to vše díky pobytu ve vìdomé hibernaci.}
-{719}{}{Jste blázen! Sbohem.}
-{720}{}{To je vskutku skvìlı nápad. Geniální! Myslíte, e byste mi mohl tu kryogenní komoru ukázat?}
-{721}{}{Aha. Povìzte mi ještì o nìèem jiném.}
-{722}{}{Ale samozøejmì. Je pøímo tamhle. Pøed nìjakım èasem jsem ji sem nechal pøestìhovat. Nechat komoru v podzemí tohoto zaøízení nebyl moc moudrı nápad.}
-{723}{}{Zajímavé. Take, jak to pracuje?}
-{724}{}{No, vìdecké principy kryogenetiky jsou samozøejmì docela sloité, nicménì veškeré funkce jsou øízeny poèítaèem s pomìrnì jednoduchım ovládáním. (Nìkolik minut ti ukazuje, jak vlastnì systém funguje.)}
-{725}{}{Díky za informace, Doktore. Chci se ještì na nìco zeptat.}
-{726}{}{Díky za informace, Doktore. Kdo ví? Tøeba se mi tyto informace budou jednou hodit. Sbohem.}
-{727}{}{No, u dost tlachání. Musím u jít. Sbohem, Doktore.}
-{728}{}{Ne, to prostì nešlo, aby tu zùstali a vmìšovali se do mıch plánù... v ádném pøípadì... (Doktor zírá skrz tebe, zdánlivì ztracen ve svıch vlastních myšlenkách.)}
-{729}{}{Víte, jste pìknı køivák. Myslím, e vám teï ukáu, jak dìlám "experimenty" na lidech já. Èas zemøít!}
-{730}{}{Take jste spokojenı se souèasnou situací? Myslím tím to, e jste tu zùstal sám?}
-{731}{}{Co chcete ještì vìdìt?}
-{800}{}{Vlastnì, vydrte vteøinku. Vypadáte jako dobrodrunı typ. Moná bych nìkteré z vašich dovedností mohl vyuít.}
-{801}{}{Jistì. Co potøebuješ?}
-{802}{}{Ne, díky. Nashle.}
-{803}{}{Byl jsem venku sbírat vzorky na jednom ze svıch pracoviš a zdá se, e jsem tam nechal jedno ze svıch náøadí. Obyèejnì bych tam prostì zašel a vzal si ho sám, ale teï jsem velice zaneprázdnìnı a za nic na svìtì si nemohu vzpomenout na to, kde jsem ho pøesnì nechal. Kadopádnì se vydejte na severozápad od této budovy a tam najdete oblast, kde jsem nìkde zanechal své náøadí. Nemìlo by bıt tìké ho najít.}
-{804}{}{Hned se do toho dám.}
-{805}{}{Nemám zájem. Nashle.}
-{806}{}{Poèkejte. Urèitì mi nechcete s nìèím malım pomoci?}
-{810}{}{Vıbornì! Teï se musím vrátit do práce. (Pro sebe.) Všechno jde podle plánu.}
+{709}{}{PochopitelnÄ›.}
+{710}{}{ProsÃ­m, pokraÄujte.}
+{711}{}{Ne, nezabil jsem je. Ale nemohl jsem jim dovolit, aby se vmÄ›Å¡ovali do mÃ½ch plÃ¡nÅ¯. Pouze jsem tu zmanipuloval nÄ›kterÃ© udÃ¡losti, takÅ¾e nakonec odeÅ¡li dobrovolnÄ›.}
+{712}{}{DobÅ™e, to vysvÄ›tluje ÄÃ¡st pÅ™Ã­bÄ›hu, ale stejnÄ› mi jeÅ¡tÄ› nÄ›co chybÃ­...}
+{713}{}{Ach, ano. PromiÅˆte. NÄ›kdy se prostÄ› nechÃ¡m unÃ©st a moje mysl si jde vlastnÃ­ cestou. VelkÃ¡ mysl, vÃ­te? Tak tedy, pokraÄoval jsem ve vyuÅ¾Ã­vÃ¡nÃ­ komory. Ale trochu jsem ji modifikoval.}
+{714}{}{JakÃ© modifikace jste provedl?}
+{715}{}{MyslÃ­m, Å¾e to by uÅ¾ staÄilo. Sbohem.}
+{716}{}{No, kdyÅ¾ jsme pouÅ¾ili kryogennÃ­ komory poprvÃ©, bylo to jako bych Å¡el prostÄ› spÃ¡t a potÃ© se vzbudil. UvÄ›domil jsem si, Å¾e je to ztrÃ¡ta Äasu. PÅ™enastavil jsem proto nastavenÃ­ komory tak, abych ji mohl stÃ¡le pouÅ¾Ã­vat a zÃ¡roveÅˆ, aby mÃ¡ mysl byla pÅ™i vÄ›domÃ­! VyuÅ¾il jsem tuto prodlouÅ¾enou dobu na to, abych uvaÅ¾oval nad svÃ½mi aktuÃ¡lnÃ­mi projekty a pÅ™emÃ½Å¡lel o tom, jakÃ½mi novÃ½mi experimenty se budu zabÃ½vat pÅ™Ã­Å¡tÄ›. DÃ­ky tomu takÃ© mohu pozorovat dlouhodobÃ© ÃºÄinky svÃ½ch vÃ½zkumÅ¯.}
+{717}{}{UvaÅ¾oval jste nÄ›kdy nad tÃ­m, Å¾e by vÃ¡m takovÃ½ zpÅ¯sob pouÅ¾itÃ­ komory mohl nÄ›jak uÅ¡kodit?}
+{718}{}{Nesmysl! KdyÅ¾ uÅ¾ nic, tak to ze mÄ› dÄ›lÃ¡ lepÅ¡Ã­ho ÄlovÄ›ka. TeÄ vidÃ­m vÅ¡e tak jasnÄ› a to vÅ¡e dÃ­ky pobytu ve vÄ›domÃ© hibernaci.}
+{719}{}{Jste blÃ¡zen! Sbohem.}
+{720}{}{To je vskutku skvÄ›lÃ½ nÃ¡pad. GeniÃ¡lnÃ­! MyslÃ­te, Å¾e byste mi mohl tu kryogennÃ­ komoru ukÃ¡zat?}
+{721}{}{Aha. PovÄ›zte mi jeÅ¡tÄ› o nÄ›Äem jinÃ©m.}
+{722}{}{Ale samozÅ™ejmÄ›. Je pÅ™Ã­mo tamhle. PÅ™ed nÄ›jakÃ½m Äasem jsem ji sem nechal pÅ™estÄ›hovat. Nechat komoru v podzemÃ­ tohoto zaÅ™Ã­zenÃ­ nebyl moc moudrÃ½ nÃ¡pad.}
+{723}{}{ZajÃ­mavÃ©. TakÅ¾e, jak to pracuje?}
+{724}{}{No, vÄ›deckÃ© principy kryogenetiky jsou samozÅ™ejmÄ› docela sloÅ¾itÃ©, nicmÃ©nÄ› veÅ¡kerÃ© funkce jsou Å™Ã­zeny poÄÃ­taÄem s pomÄ›rnÄ› jednoduchÃ½m ovlÃ¡dÃ¡nÃ­m. (NÄ›kolik minut ti ukazuje, jak vlastnÄ› systÃ©m funguje.)}
+{725}{}{DÃ­ky za informace, Doktore. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{726}{}{DÃ­ky za informace, Doktore. Kdo vÃ­? TÅ™eba se mi tyto informace budou jednou hodit. Sbohem.}
+{727}{}{No, uÅ¾ dost tlachÃ¡nÃ­. MusÃ­m uÅ¾ jÃ­t. Sbohem, Doktore.}
+{728}{}{Ne, to prostÄ› neÅ¡lo, aby tu zÅ¯stali a vmÄ›Å¡ovali se do mÃ½ch plÃ¡nÅ¯... v Å¾Ã¡dnÃ©m pÅ™Ã­padÄ›... (Doktor zÃ­rÃ¡ skrz tebe, zdÃ¡nlivÄ› ztracen ve svÃ½ch vlastnÃ­ch myÅ¡lenkÃ¡ch.)}
+{729}{}{VÃ­te, jste pÄ›knÃ½ kÅ™ivÃ¡k. MyslÃ­m, Å¾e vÃ¡m teÄ ukÃ¡Å¾u, jak dÄ›lÃ¡m "experimenty" na lidech jÃ¡. ÄŒas zemÅ™Ã­t!}
+{730}{}{TakÅ¾e jste spokojenÃ½ se souÄasnou situacÃ­? MyslÃ­m tÃ­m to, Å¾e jste tu zÅ¯stal sÃ¡m?}
+{731}{}{Co chcete jeÅ¡tÄ› vÄ›dÄ›t?}
+{800}{}{VlastnÄ›, vydrÅ¾te vteÅ™inku. VypadÃ¡te jako dobrodruÅ¾nÃ½ typ. MoÅ¾nÃ¡ bych nÄ›kterÃ© z vaÅ¡ich dovednostÃ­ mohl vyuÅ¾Ã­t.}
+{801}{}{JistÄ›. Co potÅ™ebujeÅ¡?}
+{802}{}{Ne, dÃ­ky. Nashle.}
+{803}{}{Byl jsem venku sbÃ­rat vzorky na jednom ze svÃ½ch pracoviÅ¡Å¥ a zdÃ¡ se, Å¾e jsem tam nechal jedno ze svÃ½ch nÃ¡Å™adÃ­. ObyÄejnÄ› bych tam prostÄ› zaÅ¡el a vzal si ho sÃ¡m, ale teÄ jsem velice zaneprÃ¡zdnÄ›nÃ½ a za nic na svÄ›tÄ› si nemohu vzpomenout na to, kde jsem ho pÅ™esnÄ› nechal. KaÅ¾dopÃ¡dnÄ› se vydejte na severozÃ¡pad od tÃ©to budovy a tam najdete oblast, kde jsem nÄ›kde zanechal svÃ© nÃ¡Å™adÃ­. NemÄ›lo by bÃ½t tÄ›Å¾kÃ© ho najÃ­t.}
+{804}{}{Hned se do toho dÃ¡m.}
+{805}{}{NemÃ¡m zÃ¡jem. Nashle.}
+{806}{}{PoÄkejte. UrÄitÄ› mi nechcete s nÄ›ÄÃ­m malÃ½m pomoci?}
+{810}{}{VÃ½bornÄ›! TeÄ se musÃ­m vrÃ¡tit do prÃ¡ce. (Pro sebe.) VÅ¡echno jde podle plÃ¡nu.}
 {811}{}{[KONEC]}
-{820}{}{Škoda. No nic, musím se vrátit do práce. (Pro sebe.) Témìø jsem ho mìl. Kde teï najdu další testovací subjekt...}
+{820}{}{Å koda. No nic, musÃ­m se vrÃ¡tit do prÃ¡ce. (Pro sebe.) TÃ©mÄ›Å™ jsem ho mÄ›l. Kde teÄ najdu dalÅ¡Ã­ testovacÃ­ subjekt...}
 {821}{}{[KONEC]}
-{830}{}{(Mu polekanì vzhlédne.) Co to?!}
-{831}{}{Stále hledám to vaše náøadí.}
-{832}{}{Tady je to vaše náøadí. Opravdu to nebylo tìké.}
-{833}{}{Chtìl jste mì tam venku zabít? Vdy to bylo jedno velké bludištì plné zmutovanıch monster! Tohle nebyl jen tak obyèejnı úkol, e ne?}
-{840}{}{Coe?! Dejte mi to! (Vytrhne ti náøadí z ruky.) Jak jste mohl... no nic, nevadí. Budu muset zaèít od zaèátku...}
-{841}{}{(Ignoruješ jeho reakci.) Dobøe, kdybyste ještì nìco potøeboval, dejte mi vìdìt. Nashle.}
-{850}{}{Do toho vám nic není. (Vytrhne ti náøadí z ruky.) A teï odsud vypadnìte, mám práci. (Odvrátí od tebe hlavu a nìco si pro sebe zamumlá.)}
-{851}{}{Nevadí. Nashle.}
-{852}{}{To si nemyslím. Pokoušel jste se mì zabít a já vám teï tu slubièku vrátím. Pøipravte se na smrt!}
-{860}{}{Eh, ano, samozøejmì. Dobøe, dejte se do toho.}
+{830}{}{(MuÅ¾ polekanÄ› vzhlÃ©dne.) Co to?!}
+{831}{}{StÃ¡le hledÃ¡m to vaÅ¡e nÃ¡Å™adÃ­.}
+{832}{}{Tady je to vaÅ¡e nÃ¡Å™adÃ­. Opravdu to nebylo tÄ›Å¾kÃ©.}
+{833}{}{ChtÄ›l jste mÄ› tam venku zabÃ­t? VÅ¾dyÅ¥ to bylo jedno velkÃ© bludiÅ¡tÄ› plnÃ© zmutovanÃ½ch monster! Tohle nebyl jen tak obyÄejnÃ½ Ãºkol, Å¾e ne?}
+{840}{}{CoÅ¾e?! Dejte mi to! (Vytrhne ti nÃ¡Å™adÃ­ z ruky.) Jak jste mohl... no nic, nevadÃ­. Budu muset zaÄÃ­t od zaÄÃ¡tku...}
+{841}{}{(IgnorujeÅ¡ jeho reakci.) DobÅ™e, kdybyste jeÅ¡tÄ› nÄ›co potÅ™eboval, dejte mi vÄ›dÄ›t. Nashle.}
+{850}{}{Do toho vÃ¡m nic nenÃ­. (Vytrhne ti nÃ¡Å™adÃ­ z ruky.) A teÄ odsud vypadnÄ›te, mÃ¡m prÃ¡ci. (OdvrÃ¡tÃ­ od tebe hlavu a nÄ›co si pro sebe zamumlÃ¡.)}
+{851}{}{NevadÃ­. Nashle.}
+{852}{}{To si nemyslÃ­m. PokouÅ¡el jste se mÄ› zabÃ­t a jÃ¡ vÃ¡m teÄ tu sluÅ¾biÄku vrÃ¡tÃ­m. PÅ™ipravte se na smrt!}
+{860}{}{Eh, ano, samozÅ™ejmÄ›. DobÅ™e, dejte se do toho.}
 {861}{}{[KONEC]}
-{900}{}{*Reptání*}
-{901}{}{*Pro sebe* Byl jsem si jist, e se nevrátí.}
-{1000}{}{Vrátil jsi doktorovo zapomenuté náøadí.}
+{900}{}{*ReptÃ¡nÃ­*}
+{901}{}{*Pro sebe* Byl jsem si jist, Å¾e se nevrÃ¡tÃ­.}
+{1000}{}{VrÃ¡til jsi doktorovo zapomenutÃ© nÃ¡Å™adÃ­.}

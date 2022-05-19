@@ -1,13 +1,13 @@
-{100}{}{Vzduchovı ventilaèní systém èistící vzduch v celém vaultu. Zevnitø ventilátoru slyšíš podivné klepání.}
-{101}{}{Vidíš ventilátor. }
-{102}{}{Vzduchovı ventilaèní systém èistící vzduch v celém vaultu. Zevnitø ventilátoru slyšíš podivné klepání.}
-{103}{}{Vzduchovı ventilaèní systém èistící vzduch v celém vaultu.}
-{104}{}{Vidíš ventilátor. }
-{105}{}{Vzduchovı ventilaèní systém èistící vzduch v celém vaultu.}
+{100}{}{VzduchovÃ½ ventilaÄnÃ­ systÃ©m ÄistÃ­cÃ­ vzduch v celÃ©m vaultu. ZevnitÅ™ ventilÃ¡toru slyÅ¡Ã­Å¡ podivnÃ© klepÃ¡nÃ­.}
+{101}{}{VidÃ­Å¡ ventilÃ¡tor. }
+{102}{}{VzduchovÃ½ ventilaÄnÃ­ systÃ©m ÄistÃ­cÃ­ vzduch v celÃ©m vaultu. ZevnitÅ™ ventilÃ¡toru slyÅ¡Ã­Å¡ podivnÃ© klepÃ¡nÃ­.}
+{103}{}{VzduchovÃ½ ventilaÄnÃ­ systÃ©m ÄistÃ­cÃ­ vzduch v celÃ©m vaultu.}
+{104}{}{VidÃ­Å¡ ventilÃ¡tor. }
+{105}{}{VzduchovÃ½ ventilaÄnÃ­ systÃ©m ÄistÃ­cÃ­ vzduch v celÃ©m vaultu.}
 {106}{}{::Klep-klep::}
-{107}{}{Nezdá se, e by bylo s tímhle ventilátorem nìco v nepoøádku.}
-{108}{}{Otevøeš ventilátor a podíváš se dovnitø, co e to tam klepe. Uvnitø uvidíš nìco zapøíèeného a vytáhneš to ven.}
-{109}{}{Zdá se, e to v tom ventilátoru nìkdo schoval.}
-{110}{}{Otevøeš ventilátor a podíváš se dovnitø, proè se ventilátor netoèí. Uvnitø uvidíš nìco zapøíèeného a vytáhneš to ven.}
-{111}{}{Zdá se, e to v tom ventilátoru nìkdo schoval.}
-{112}{}{Já najít toto ve venti... venta... tam.}
+{107}{}{NezdÃ¡ se, Å¾e by bylo s tÃ­mhle ventilÃ¡torem nÄ›co v nepoÅ™Ã¡dku.}
+{108}{}{OtevÅ™eÅ¡ ventilÃ¡tor a podÃ­vÃ¡Å¡ se dovnitÅ™, co Å¾e to tam klepe. UvnitÅ™ uvidÃ­Å¡ nÄ›co zapÅ™Ã­ÄenÃ©ho a vytÃ¡hneÅ¡ to ven.}
+{109}{}{ZdÃ¡ se, Å¾e to v tom ventilÃ¡toru nÄ›kdo schoval.}
+{110}{}{OtevÅ™eÅ¡ ventilÃ¡tor a podÃ­vÃ¡Å¡ se dovnitÅ™, proÄ se ventilÃ¡tor netoÄÃ­. UvnitÅ™ uvidÃ­Å¡ nÄ›co zapÅ™Ã­ÄenÃ©ho a vytÃ¡hneÅ¡ to ven.}
+{111}{}{ZdÃ¡ se, Å¾e to v tom ventilÃ¡toru nÄ›kdo schoval.}
+{112}{}{JÃ¡ najÃ­t toto ve venti... venta... tam.}

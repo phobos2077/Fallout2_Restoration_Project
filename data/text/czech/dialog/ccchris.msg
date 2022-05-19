@@ -1,136 +1,136 @@
-{100}{}{Vidíš starého mue.}
-{101}{}{Vidíš Chrise, obsluhu èerpací stanice.}
-{102}{}{Vidíš starce obleèeného ve špinavém fialovém rouchu.}
-{103}{}{Zdravím tì, cizinèe. Och! Podívejme se na to krásnı auto. U léta jsem ádné nevidìl. Co pro tebe mùe starı Chris udìlat?}
-{104}{}{Zdravím tì, cizinèe. Nikdy jsem tì v tìhlech konèinách nevidìl. Co pro tebe mùe starı Chris udìlat?}
-{105}{}{Co bıt tohle za místo?}
-{106}{}{Hledat Navarro. To bıt tady?}
-{107}{}{Vidìt ty letìt tady ocelové ptáky?}
-{108}{}{Znát jméno Enkláva? Bıt oni zde?}
-{109}{}{Jen se dívat.}
-{110}{}{Co je tohle za místo?}
-{111}{}{Hledám Navarro. Jsem tu dobøe?}
-{112}{}{Nevidìl jsi tu nìkde létat vertibirdy?}
-{113}{}{Neslyšel jsi nìkdy o Enklávì? Mìlo by to bıt nìkde tady.}
-{114}{}{Jen se tu tak rozhlíím.}
-{115}{}{Tady bydlím já, Chris, a tohle je èerpací stanice. Nikdy jsi nic takového nevidìl? Tøeba ve starıch èasopisech? Tak to je pøesnì to, co tady vidíš. Èerpací stanice s obsluhou.}
-{116}{}{Hledat Navarro. To bıt tady?}
-{117}{}{Vidìt ty letìt tady ocelové ptáky?}
-{118}{}{Znát jméno Enkláva? Bıt oni zde?}
-{119}{}{Eh... asi jít.}
-{120}{}{Hledám Navarro. Jsem tu dobøe?}
-{121}{}{Nevidìl jsi tu nìkde létat vertibirdy?}
-{122}{}{Neslyšel jsi nìkdy o Enklávì? Mìlo by to bıt nìkde tady.}
-{123}{}{Promiò, ale u musím jít.}
-{124}{}{Navarro? O tom místì u jsem neslyšel dlouhá léta. Je to stará vojenská základna jihovıchodnì od San Francisca, tudí je to jiním smìrem odtud.}
-{125}{}{Tam já bıt. To nebıt Navarro.}
-{126}{}{Díky. Podívat se tam.}
-{127}{}{Ty mi lhát. Já vìdìt, e tohle bıt Navarro. Ty øíct pravdu, nebo ty litovat!}
-{128}{}{Tam jsem byl a to není Navarro.}
-{129}{}{Dobøe. Podívám se tam. Díky.}
-{130}{}{Leš mi. Vím, e Navarro je tady. Øekni mi pravdu, nebo toho budeš litovat!}
-{131}{}{Co? Eh... samozøejmì e je. Pøed èasem jsem o ní slyšel! Vojenská základna Navarro se nachází jihovıchodnì od San Francisca.}
-{132}{}{Ty lhát. Nemám trpìlivost. Øíct mi pravdu nebo já s ty zatoèit!}
-{133}{}{Leš. Na tohle nemám trpìlivost. Øekni mi pravdu, nebo s tebou zatoèím.}
-{134}{}{Jdi do prdele! (Vytáhne z roucha vysílaèku.) Chceš vidìt, kdo s kım zatoèí? Mám tu pár chlapù, kteøí ti ukáou novej vıznam tohohle slova! (Chystá se vysílaèku zapnout.)}
-{135}{}{Já ty zabít!}
-{136}{}{Co ty dìlat?}
-{137}{}{Já jít.}
-{138}{}{To byl špatnej tah, kámo.}
-{139}{}{Co si myslíš, e dìláš?}
-{140}{}{Poslyš, u jdu.}
-{141}{}{(Mluví do vysílaèky.) Poplach! Na stanici máme vetøelce! Poplach!}
+{100}{}{VidÃ­Å¡ starÃ©ho muÅ¾e.}
+{101}{}{VidÃ­Å¡ Chrise, obsluhu ÄerpacÃ­ stanice.}
+{102}{}{VidÃ­Å¡ starce obleÄenÃ©ho ve Å¡pinavÃ©m fialovÃ©m rouchu.}
+{103}{}{ZdravÃ­m tÄ›, cizinÄe. Och! PodÃ­vejme se na to krÃ¡snÃ½ auto. UÅ¾ lÃ©ta jsem Å¾Ã¡dnÃ© nevidÄ›l. Co pro tebe mÅ¯Å¾e starÃ½ Chris udÄ›lat?}
+{104}{}{ZdravÃ­m tÄ›, cizinÄe. Nikdy jsem tÄ› v tÄ›hlech konÄinÃ¡ch nevidÄ›l. Co pro tebe mÅ¯Å¾e starÃ½ Chris udÄ›lat?}
+{105}{}{Co bÃ½t tohle za mÃ­sto?}
+{106}{}{Hledat Navarro. To bÃ½t tady?}
+{107}{}{VidÄ›t ty letÄ›t tady ocelovÃ© ptÃ¡ky?}
+{108}{}{ZnÃ¡t jmÃ©no EnklÃ¡va? BÃ½t oni zde?}
+{109}{}{Jen se dÃ­vat.}
+{110}{}{Co je tohle za mÃ­sto?}
+{111}{}{HledÃ¡m Navarro. Jsem tu dobÅ™e?}
+{112}{}{NevidÄ›l jsi tu nÄ›kde lÃ©tat vertibirdy?}
+{113}{}{NeslyÅ¡el jsi nÄ›kdy o EnklÃ¡vÄ›? MÄ›lo by to bÃ½t nÄ›kde tady.}
+{114}{}{Jen se tu tak rozhlÃ­Å¾Ã­m.}
+{115}{}{Tady bydlÃ­m jÃ¡, Chris, a tohle je ÄerpacÃ­ stanice. Nikdy jsi nic takovÃ©ho nevidÄ›l? TÅ™eba ve starÃ½ch Äasopisech? Tak to je pÅ™esnÄ› to, co tady vidÃ­Å¡. ÄŒerpacÃ­ stanice s obsluhou.}
+{116}{}{Hledat Navarro. To bÃ½t tady?}
+{117}{}{VidÄ›t ty letÄ›t tady ocelovÃ© ptÃ¡ky?}
+{118}{}{ZnÃ¡t jmÃ©no EnklÃ¡va? BÃ½t oni zde?}
+{119}{}{Eh... asi jÃ­t.}
+{120}{}{HledÃ¡m Navarro. Jsem tu dobÅ™e?}
+{121}{}{NevidÄ›l jsi tu nÄ›kde lÃ©tat vertibirdy?}
+{122}{}{NeslyÅ¡el jsi nÄ›kdy o EnklÃ¡vÄ›? MÄ›lo by to bÃ½t nÄ›kde tady.}
+{123}{}{PromiÅˆ, ale uÅ¾ musÃ­m jÃ­t.}
+{124}{}{Navarro? O tom mÃ­stÄ› uÅ¾ jsem neslyÅ¡el dlouhÃ¡ lÃ©ta. Je to starÃ¡ vojenskÃ¡ zÃ¡kladna jihovÃ½chodnÄ› od San Francisca, tudÃ­Å¾ je to jiÅ¾nÃ­m smÄ›rem odtud.}
+{125}{}{Tam jÃ¡ bÃ½t. To nebÃ½t Navarro.}
+{126}{}{DÃ­ky. PodÃ­vat se tam.}
+{127}{}{Ty mi lhÃ¡t. JÃ¡ vÄ›dÄ›t, Å¾e tohle bÃ½t Navarro. Ty Å™Ã­ct pravdu, nebo ty litovat!}
+{128}{}{Tam jsem byl a to nenÃ­ Navarro.}
+{129}{}{DobÅ™e. PodÃ­vÃ¡m se tam. DÃ­ky.}
+{130}{}{LÅ¾eÅ¡ mi. VÃ­m, Å¾e Navarro je tady. Å˜ekni mi pravdu, nebo toho budeÅ¡ litovat!}
+{131}{}{Co? Eh... samozÅ™ejmÄ› Å¾e je. PÅ™ed Äasem jsem o nÃ­ slyÅ¡el! VojenskÃ¡ zÃ¡kladna Navarro se nachÃ¡zÃ­ jihovÃ½chodnÄ› od San Francisca.}
+{132}{}{Ty lhÃ¡t. NemÃ¡m trpÄ›livost. Å˜Ã­ct mi pravdu nebo jÃ¡ s ty zatoÄit!}
+{133}{}{LÅ¾eÅ¡. Na tohle nemÃ¡m trpÄ›livost. Å˜ekni mi pravdu, nebo s tebou zatoÄÃ­m.}
+{134}{}{Jdi do prdele! (VytÃ¡hne z roucha vysÃ­laÄku.) ChceÅ¡ vidÄ›t, kdo s kÃ½m zatoÄÃ­? MÃ¡m tu pÃ¡r chlapÅ¯, kteÅ™Ã­ ti ukÃ¡Å¾ou novej vÃ½znam tohohle slova! (ChystÃ¡ se vysÃ­laÄku zapnout.)}
+{135}{}{JÃ¡ ty zabÃ­t!}
+{136}{}{Co ty dÄ›lat?}
+{137}{}{JÃ¡ jÃ­t.}
+{138}{}{To byl Å¡patnej tah, kÃ¡mo.}
+{139}{}{Co si myslÃ­Å¡, Å¾e dÄ›lÃ¡Å¡?}
+{140}{}{PoslyÅ¡, uÅ¾ jdu.}
+{141}{}{(MluvÃ­ do vysÃ­laÄky.) Poplach! Na stanici mÃ¡me vetÅ™elce! Poplach!}
 {142}{}{[KONEC]}
-{143}{}{No, hezky jsme si popovídali. Dám ti jednu radu. Tady není nic ne pustina a radiace. Civilizace je jinì odtud. Bıt tebou, zamíøím tím smìrem.}
-{144}{}{Díky.}
-{145}{}{Ocelové ptáky? Aha, ty myslíš vertibirdy. Proè je hledáš zrovna tady?}
-{146}{}{Vertibirdy? To jsou moc zajímavé vìcièky. Proè je hledáš zrovna tady?}
-{147}{}{Šaman øíkat, e ptáci co unést vesnici letìt do Navarro. Já zkusit najít.}
-{148}{}{Lidi zajímat. Já zkusit pro nì najít.}
-{149}{}{Ty vìdìt o ptáci? Co všechno ty vìdìt?}
-{150}{}{Šaman mého kmene mi øíkal, e ty vertibirdy unesly naše lidi. Proto je chci najít.}
-{151}{}{Znám pár lidí, kteøí se o vertibirdy zajímají. Snaím se je pro nì najít.}
-{152}{}{Take ty vertibirdy znáš. Øekni mi o nich všechno, co víš.}
-{153}{}{Šaman? Podívej, jestli tvùj šaman øíká, e vidìl nìjakou vìc, jak lítá a unáší lidi, tak se nejspíš jen moc naèuchal bylinek. Rozumíš?}
-{154}{}{Hakunin bıt velkı šaman. Jestli øíct on vidìt tak to vidìt.}
-{155}{}{Hakunin byl velkı šaman. Pokud øekl, e vidìl vertibirdy, tak je opravdu vidìl!}
-{156}{}{No, to je mi sice úplnì jedno, ale v pøípadì, e bych nìjakı vertibird vidìl, komu to mám øíct?}
-{157}{}{Øíct já. Já bıt nablízku.}
-{158}{}{Øíct Shi.}
-{159}{}{Øíct Bratrstvo Oceli.}
-{160}{}{Øíct Hubologisti.}
-{161}{}{Mùeš vybrat. Dát vìdìt Shi, Bratrstvu Oceli nebo Hubologisti. Všichni mít zájem.}
-{162}{}{Øekneš to mnì. Budu nablízku.}
-{163}{}{Dej vìdìt Shi.}
-{164}{}{Dej vìdìt Bratrstvu Oceli.}
-{165}{}{Dej vìdìt Hubologistùm.}
-{166}{}{Mùeš si vybrat. Mùeš dát vìdìt Shi, Bratrstvu Oceli nebo Hubologistùm. Kadı z nich má o vertibirdy zájem.}
-{167}{}{Shi, jo? No dobøe, kdy to øíkáš. Pošlu jim kdytak zprávu do Èínské ètvrti. Ale teï mám nìco na práci.}
-{168}{}{Poèkat. Já mít mocné pøátele. Oni øíkat, e Navarro tady. Ty øíct kde, nebo já zatanèit váleènı tanec!}
-{169}{}{Poèkej minutku, kámo. Oèividnì mám mocné pøátele a ti øíkají, e je Navarro nìkde tady. Øekni mi kde, nebo špatnì dopadneš!}
-{170}{}{Bratrstvo... eh, jo, jasnì, e to udìlám. Ale teï mám nìco na práci.}
-{171}{}{Poèkat. Já mít mocné pøátele. Oni øíkat, e Navarro tady. Ty øíct kde, nebo já zatanèit váleènı tanec!}
-{172}{}{Poèkej minutku, kámo. Oèividnì mám mocné pøátele a ti øíkají, e je Navarro nìkde tady. Øekni mi kde, nebo špatnì dopadneš!}
-{173}{}{Hubologisti? Jo, jasnì, dám jim vìdìt, jestli nìco uvidím. Ale teï mám nìco na práci.}
-{174}{}{Poèkat. Já mít mocné pøátele. Oni øíkat, e Navarro tady. Ty øíct kde, nebo já zatanèit váleènı tanec!}
-{175}{}{Poèkej minutku, kámo. Oèividnì mám mocné pøátele a ti øíkají, e je Navarro nìkde tady. Øekni mi kde, nebo špatnì dopadneš!}
-{176}{}{Sakra, kdo si to má pamatovat... eh, dobøe, pokud nìco zjistím... no a teï mám nìco na práci.}
-{177}{}{Poèkat. Já mít mocné pøátele. Oni øíkat, e Navarro tady. Ty øíct kde, nebo já zatanèit váleènı tanec!}
-{178}{}{Poèkej minutku, kámo. Oèividnì mám mocné pøátele a ti øíkají, e je Navarro nìkde tady. Øekni mi kde, nebo špatnì dopadneš!}
-{179}{}{Eh... hej, poèkej chvilku. Já takhle mluvím jen proto, abych vystrašil rùzné nezvané návštìvníky a tak. Nechci mít ádné problémy, o kterıch tu mluvíš.}
-{180}{}{Pak ty øíct nejlepší cesta na základna... hned!}
-{181}{}{Pak mi tedy øekni tu nejlepší cestu na základnu... a to hned!}
-{182}{}{To bude nejspíš padacími dveømi v mém pokoji. A teï u jdi a nech mì na pokoji.}
-{183}{}{Dobøe, já jít.}
-{184}{}{Dobøe, u jdu.}
-{185}{}{No, èas od èasu tudy prolétávají. Obvykle letí od jihu smìrem od San Francisca. Jestli se zajímáš o vertibirdy, šel bych tímto smìrem.}
-{186}{}{Dobøe, zkusit to tam.}
-{187}{}{Mít pøátele, kteøí poádat já, aby najít vertibirdy. Oni øíkat, e letìt odsud.}
-{188}{}{Dobøe, podívám se tím smìrem.}
-{189}{}{Mám pøátele, kteøí mì poádali, abych našel vertibirdy. Øíkají, e pøilétají právì odsud.}
-{190}{}{Enkláva? To je nìjaká skupina nebo co? To mi vùbec nic neøíká. Co jim chceš?}
-{191}{}{Chtít pøidat.}
-{192}{}{Chci se k nim pøidat.}
-{193}{}{Ty se k nim chceš pøidat? Vdy jsi divoch! Proè myslíš, e by chtìli nìjakého divocha?}
-{194}{}{Ty se k nim chceš pøidat? Vdy jsi divoch! Proè myslíš, e by chtìli nìjakého divocha? A ještì s takovou bandou?}
-{195}{}{Já mluvit vánì. Já pøidat k Enkláva.}
-{196}{}{Já mluvit vánì. Já pøidat se k Enkláva.}
-{197}{}{Myslím to vánì. Chci se pøidat k Enklávì.}
-{198}{}{Myslím to vánì. Chci se pøidat k Enklávì.}
-{199}{}{Poèkej chvíli, blbeèku. Snaíš se mi øíct, e jsi jeden z tìch vojákù, kteøí sem byli pøeloeni?}
-{200}{}{Poèkej chvíli. Snaíš se mi øíct, e jsi jeden z tìch vojákù, kteøí sem byli pøeloeni?}
+{143}{}{No, hezky jsme si popovÃ­dali. DÃ¡m ti jednu radu. Tady nenÃ­ nic neÅ¾ pustina a radiace. Civilizace je jiÅ¾nÄ› odtud. BÃ½t tebou, zamÃ­Å™Ã­m tÃ­m smÄ›rem.}
+{144}{}{DÃ­ky.}
+{145}{}{OcelovÃ© ptÃ¡ky? Aha, ty myslÃ­Å¡ vertibirdy. ProÄ je hledÃ¡Å¡ zrovna tady?}
+{146}{}{Vertibirdy? To jsou moc zajÃ­mavÃ© vÄ›ciÄky. ProÄ je hledÃ¡Å¡ zrovna tady?}
+{147}{}{Å aman Å™Ã­kat, Å¾e ptÃ¡ci co unÃ©st vesnici letÄ›t do Navarro. JÃ¡ zkusit najÃ­t.}
+{148}{}{Lidi zajÃ­mat. JÃ¡ zkusit pro nÄ› najÃ­t.}
+{149}{}{Ty vÄ›dÄ›t o ptÃ¡ci? Co vÅ¡echno ty vÄ›dÄ›t?}
+{150}{}{Å aman mÃ©ho kmene mi Å™Ã­kal, Å¾e ty vertibirdy unesly naÅ¡e lidi. Proto je chci najÃ­t.}
+{151}{}{ZnÃ¡m pÃ¡r lidÃ­, kteÅ™Ã­ se o vertibirdy zajÃ­majÃ­. SnaÅ¾Ã­m se je pro nÄ› najÃ­t.}
+{152}{}{TakÅ¾e ty vertibirdy znÃ¡Å¡. Å˜ekni mi o nich vÅ¡echno, co vÃ­Å¡.}
+{153}{}{Å aman? PodÃ­vej, jestli tvÅ¯j Å¡aman Å™Ã­kÃ¡, Å¾e vidÄ›l nÄ›jakou vÄ›c, jak lÃ­tÃ¡ a unÃ¡Å¡Ã­ lidi, tak se nejspÃ­Å¡ jen moc naÄuchal bylinek. RozumÃ­Å¡?}
+{154}{}{Hakunin bÃ½t velkÃ½ Å¡aman. Jestli Å™Ã­ct on vidÄ›t tak to vidÄ›t.}
+{155}{}{Hakunin byl velkÃ½ Å¡aman. Pokud Å™ekl, Å¾e vidÄ›l vertibirdy, tak je opravdu vidÄ›l!}
+{156}{}{No, to je mi sice ÃºplnÄ› jedno, ale v pÅ™Ã­padÄ›, Å¾e bych nÄ›jakÃ½ vertibird vidÄ›l, komu to mÃ¡m Å™Ã­ct?}
+{157}{}{Å˜Ã­ct jÃ¡. JÃ¡ bÃ½t nablÃ­zku.}
+{158}{}{Å˜Ã­ct Shi.}
+{159}{}{Å˜Ã­ct Bratrstvo Oceli.}
+{160}{}{Å˜Ã­ct Hubologisti.}
+{161}{}{MÅ¯Å¾eÅ¡ vybrat. DÃ¡t vÄ›dÄ›t Shi, Bratrstvu Oceli nebo Hubologisti. VÅ¡ichni mÃ­t zÃ¡jem.}
+{162}{}{Å˜ekneÅ¡ to mnÄ›. Budu nablÃ­zku.}
+{163}{}{Dej vÄ›dÄ›t Shi.}
+{164}{}{Dej vÄ›dÄ›t Bratrstvu Oceli.}
+{165}{}{Dej vÄ›dÄ›t HubologistÅ¯m.}
+{166}{}{MÅ¯Å¾eÅ¡ si vybrat. MÅ¯Å¾eÅ¡ dÃ¡t vÄ›dÄ›t Shi, Bratrstvu Oceli nebo HubologistÅ¯m. KaÅ¾dÃ½ z nich mÃ¡ o vertibirdy zÃ¡jem.}
+{167}{}{Shi, jo? No dobÅ™e, kdyÅ¾ to Å™Ã­kÃ¡Å¡. PoÅ¡lu jim kdyÅ¾tak zprÃ¡vu do ÄŒÃ­nskÃ© Ätvrti. Ale teÄ mÃ¡m nÄ›co na prÃ¡ci.}
+{168}{}{PoÄkat. JÃ¡ mÃ­t mocnÃ© pÅ™Ã¡tele. Oni Å™Ã­kat, Å¾e Navarro tady. Ty Å™Ã­ct kde, nebo jÃ¡ zatanÄit vÃ¡leÄnÃ½ tanec!}
+{169}{}{PoÄkej minutku, kÃ¡mo. OÄividnÄ› mÃ¡m mocnÃ© pÅ™Ã¡tele a ti Å™Ã­kajÃ­, Å¾e je Navarro nÄ›kde tady. Å˜ekni mi kde, nebo Å¡patnÄ› dopadneÅ¡!}
+{170}{}{Bratrstvo... eh, jo, jasnÄ›, Å¾e to udÄ›lÃ¡m. Ale teÄ mÃ¡m nÄ›co na prÃ¡ci.}
+{171}{}{PoÄkat. JÃ¡ mÃ­t mocnÃ© pÅ™Ã¡tele. Oni Å™Ã­kat, Å¾e Navarro tady. Ty Å™Ã­ct kde, nebo jÃ¡ zatanÄit vÃ¡leÄnÃ½ tanec!}
+{172}{}{PoÄkej minutku, kÃ¡mo. OÄividnÄ› mÃ¡m mocnÃ© pÅ™Ã¡tele a ti Å™Ã­kajÃ­, Å¾e je Navarro nÄ›kde tady. Å˜ekni mi kde, nebo Å¡patnÄ› dopadneÅ¡!}
+{173}{}{Hubologisti? Jo, jasnÄ›, dÃ¡m jim vÄ›dÄ›t, jestli nÄ›co uvidÃ­m. Ale teÄ mÃ¡m nÄ›co na prÃ¡ci.}
+{174}{}{PoÄkat. JÃ¡ mÃ­t mocnÃ© pÅ™Ã¡tele. Oni Å™Ã­kat, Å¾e Navarro tady. Ty Å™Ã­ct kde, nebo jÃ¡ zatanÄit vÃ¡leÄnÃ½ tanec!}
+{175}{}{PoÄkej minutku, kÃ¡mo. OÄividnÄ› mÃ¡m mocnÃ© pÅ™Ã¡tele a ti Å™Ã­kajÃ­, Å¾e je Navarro nÄ›kde tady. Å˜ekni mi kde, nebo Å¡patnÄ› dopadneÅ¡!}
+{176}{}{Sakra, kdo si to mÃ¡ pamatovat... eh, dobÅ™e, pokud nÄ›co zjistÃ­m... no a teÄ mÃ¡m nÄ›co na prÃ¡ci.}
+{177}{}{PoÄkat. JÃ¡ mÃ­t mocnÃ© pÅ™Ã¡tele. Oni Å™Ã­kat, Å¾e Navarro tady. Ty Å™Ã­ct kde, nebo jÃ¡ zatanÄit vÃ¡leÄnÃ½ tanec!}
+{178}{}{PoÄkej minutku, kÃ¡mo. OÄividnÄ› mÃ¡m mocnÃ© pÅ™Ã¡tele a ti Å™Ã­kajÃ­, Å¾e je Navarro nÄ›kde tady. Å˜ekni mi kde, nebo Å¡patnÄ› dopadneÅ¡!}
+{179}{}{Eh... hej, poÄkej chvilku. JÃ¡ takhle mluvÃ­m jen proto, abych vystraÅ¡il rÅ¯znÃ© nezvanÃ© nÃ¡vÅ¡tÄ›vnÃ­ky a tak. Nechci mÃ­t Å¾Ã¡dnÃ© problÃ©my, o kterÃ½ch tu mluvÃ­Å¡.}
+{180}{}{Pak ty Å™Ã­ct nejlepÅ¡Ã­ cesta na zÃ¡kladna... hned!}
+{181}{}{Pak mi tedy Å™ekni tu nejlepÅ¡Ã­ cestu na zÃ¡kladnu... a to hned!}
+{182}{}{To bude nejspÃ­Å¡ padacÃ­mi dveÅ™mi v mÃ©m pokoji. A teÄ uÅ¾ jdi a nech mÄ› na pokoji.}
+{183}{}{DobÅ™e, jÃ¡ jÃ­t.}
+{184}{}{DobÅ™e, uÅ¾ jdu.}
+{185}{}{No, Äas od Äasu tudy prolÃ©tÃ¡vajÃ­. Obvykle letÃ­ od jihu smÄ›rem od San Francisca. Jestli se zajÃ­mÃ¡Å¡ o vertibirdy, Å¡el bych tÃ­mto smÄ›rem.}
+{186}{}{DobÅ™e, zkusit to tam.}
+{187}{}{MÃ­t pÅ™Ã¡tele, kteÅ™Ã­ poÅ¾Ã¡dat jÃ¡, aby najÃ­t vertibirdy. Oni Å™Ã­kat, Å¾e letÄ›t odsud.}
+{188}{}{DobÅ™e, podÃ­vÃ¡m se tÃ­m smÄ›rem.}
+{189}{}{MÃ¡m pÅ™Ã¡tele, kteÅ™Ã­ mÄ› poÅ¾Ã¡dali, abych naÅ¡el vertibirdy. Å˜Ã­kajÃ­, Å¾e pÅ™ilÃ©tajÃ­ prÃ¡vÄ› odsud.}
+{190}{}{EnklÃ¡va? To je nÄ›jakÃ¡ skupina nebo co? To mi vÅ¯bec nic neÅ™Ã­kÃ¡. Co jim chceÅ¡?}
+{191}{}{ChtÃ­t pÅ™idat.}
+{192}{}{Chci se k nim pÅ™idat.}
+{193}{}{Ty se k nim chceÅ¡ pÅ™idat? VÅ¾dyÅ¥ jsi divoch! ProÄ myslÃ­Å¡, Å¾e by chtÄ›li nÄ›jakÃ©ho divocha?}
+{194}{}{Ty se k nim chceÅ¡ pÅ™idat? VÅ¾dyÅ¥ jsi divoch! ProÄ myslÃ­Å¡, Å¾e by chtÄ›li nÄ›jakÃ©ho divocha? A jeÅ¡tÄ› s takovou bandou?}
+{195}{}{JÃ¡ mluvit vÃ¡Å¾nÄ›. JÃ¡ pÅ™idat k EnklÃ¡va.}
+{196}{}{JÃ¡ mluvit vÃ¡Å¾nÄ›. JÃ¡ pÅ™idat se k EnklÃ¡va.}
+{197}{}{MyslÃ­m to vÃ¡Å¾nÄ›. Chci se pÅ™idat k EnklÃ¡vÄ›.}
+{198}{}{MyslÃ­m to vÃ¡Å¾nÄ›. Chci se pÅ™idat k EnklÃ¡vÄ›.}
+{199}{}{PoÄkej chvÃ­li, blbeÄku. SnaÅ¾Ã­Å¡ se mi Å™Ã­ct, Å¾e jsi jeden z tÄ›ch vojÃ¡kÅ¯, kteÅ™Ã­ sem byli pÅ™eloÅ¾eni?}
+{200}{}{PoÄkej chvÃ­li. SnaÅ¾Ã­Å¡ se mi Å™Ã­ct, Å¾e jsi jeden z tÄ›ch vojÃ¡kÅ¯, kteÅ™Ã­ sem byli pÅ™eloÅ¾eni?}
 {201}{}{Hmm... jo tak.}
-{202}{}{Pøesnì tak.}
-{203}{}{Sákryš. Promiò mi to lhaní. Chodí nám sem spousta nováèkù a mım úkolem je oddìlit zrno od plev. Jdi nahoru k bránì, projdi skrz stromy a øekni jim heslo. Je to 'Ovèí hlava.' Jo a neuhıbej z té cesty!}
-{204}{}{Díky!}
-{205}{}{Poèkej chvíli, blbeèku. Snaíš se mi øíct, e jsi jeden z tìch vojákù, kteøí sem byli pøeloeni? Proè tedy nejsi sám?}
-{206}{}{Poèkej chvíli. Snaíš se mi øíct, e jsi jeden z tìch vojákù, kteøí sem byli pøeloeni? Proè tedy nejsi sám?}
+{202}{}{PÅ™esnÄ› tak.}
+{203}{}{SÃ¡kryÅ¡. PromiÅˆ mi to lhanÃ­. ChodÃ­ nÃ¡m sem spousta novÃ¡ÄkÅ¯ a mÃ½m Ãºkolem je oddÄ›lit zrno od plev. Jdi nahoru k brÃ¡nÄ›, projdi skrz stromy a Å™ekni jim heslo. Je to 'OvÄÃ­ hlava.' Jo a neuhÃ½bej z tÃ© cesty!}
+{204}{}{DÃ­ky!}
+{205}{}{PoÄkej chvÃ­li, blbeÄku. SnaÅ¾Ã­Å¡ se mi Å™Ã­ct, Å¾e jsi jeden z tÄ›ch vojÃ¡kÅ¯, kteÅ™Ã­ sem byli pÅ™eloÅ¾eni? ProÄ tedy nejsi sÃ¡m?}
+{206}{}{PoÄkej chvÃ­li. SnaÅ¾Ã­Å¡ se mi Å™Ã­ct, Å¾e jsi jeden z tÄ›ch vojÃ¡kÅ¯, kteÅ™Ã­ sem byli pÅ™eloÅ¾eni? ProÄ tedy nejsi sÃ¡m?}
 {207}{}{Eh... doprovod.}
-{208}{}{To je mùj doprovod!}
-{209}{}{No, nechci bıt hrubı nebo tak, ale tohle je soukromı pozemek. Jestli se chceš poflakovat, tak to nedìlej tady.}
+{208}{}{To je mÅ¯j doprovod!}
+{209}{}{No, nechci bÃ½t hrubÃ½ nebo tak, ale tohle je soukromÃ½ pozemek. Jestli se chceÅ¡ poflakovat, tak to nedÄ›lej tady.}
 {210}{}{[KONEC]}
-{211}{}{Zase zpátky? Co pro tebe mùe starı Chris udìlat tentokrát?}
-{212}{}{Ty øíct, e Navarro na jih. Ty lháø! Já chtít pravdu tentokrát.}
-{213}{}{Øekl jsi mi, e je Navarro na jihu, starouši. Teï chci vìdìt pravdu.}
-{214}{}{Vypadáš povìdomì. Myslím, e u jsem tì nìkde vidìl... ale ne, to není moné.}
-{215}{}{Vetøelec na stanici! Pošlete pomoc!}
+{211}{}{Zase zpÃ¡tky? Co pro tebe mÅ¯Å¾e starÃ½ Chris udÄ›lat tentokrÃ¡t?}
+{212}{}{Ty Å™Ã­ct, Å¾e Navarro na jih. Ty lhÃ¡Å™! JÃ¡ chtÃ­t pravdu tentokrÃ¡t.}
+{213}{}{Å˜ekl jsi mi, Å¾e je Navarro na jihu, starouÅ¡i. TeÄ chci vÄ›dÄ›t pravdu.}
+{214}{}{VypadÃ¡Å¡ povÄ›domÄ›. MyslÃ­m, Å¾e uÅ¾ jsem tÄ› nÄ›kde vidÄ›l... ale ne, to nenÃ­ moÅ¾nÃ©.}
+{215}{}{VetÅ™elec na stanici! PoÅ¡lete pomoc!}
 {216}{}{Poplach!}
 {217}{}{Poplach! Poplach!}
-{218}{}{Chcípni, skunku!}
-{219}{}{Za tvoji smrt mì Enkláva povıší!}
-{220}{}{Chcípni, primitive!}
+{218}{}{ChcÃ­pni, skunku!}
+{219}{}{Za tvoji smrt mÄ› EnklÃ¡va povÃ½Å¡Ã­!}
+{220}{}{ChcÃ­pni, primitive!}
 {221}{}{Co to...?!}
-{222}{}{Ty pouít ta vysílaèka a litovat!}
-{223}{}{Zkus pouít tu vysílaèku a budeš toho litovat!}
-{224}{}{Táhni k èertu! (Vytáhne z roucha vysílaèku.) Chceš vidìt, kdo s kım zatoèí? Mám tu pár chlapcù, kteøí ti ukáou novej vıznam tohohle slova! (Chystá se vysílaèku zapnout.)}
-{225}{}{Já ty zabít!}
-{226}{}{Co ty dìlat?}
-{227}{}{Já jít.}
-{228}{}{To byl špatnej tah, kámo.}
-{229}{}{Co si myslíš, e dìláš?}
-{230}{}{Poslyš, u jdu.}
-{231}{}{Jo, dobøe.}
-{232}{}{Vytáhl vysílaèku a chystá se varovat celou základnu! Musím to s ním rychle vyøídit.}
-{233}{}{Sakra. Chlap vytáhnout mluvící krabièka. On mì prozradit. Muset on zastavit.}
-{800}{}{Podaøilo se ti pøelstít Chrise, aby ti øekl heslo.}
-{810}{}{Podaøilo se ti zabít Chrise pøedtím, ne stihl varovat základnu.}
+{222}{}{Ty pouÅ¾Ã­t ta vysÃ­laÄka a litovat!}
+{223}{}{Zkus pouÅ¾Ã­t tu vysÃ­laÄku a budeÅ¡ toho litovat!}
+{224}{}{TÃ¡hni k Äertu! (VytÃ¡hne z roucha vysÃ­laÄku.) ChceÅ¡ vidÄ›t, kdo s kÃ½m zatoÄÃ­? MÃ¡m tu pÃ¡r chlapcÅ¯, kteÅ™Ã­ ti ukÃ¡Å¾ou novej vÃ½znam tohohle slova! (ChystÃ¡ se vysÃ­laÄku zapnout.)}
+{225}{}{JÃ¡ ty zabÃ­t!}
+{226}{}{Co ty dÄ›lat?}
+{227}{}{JÃ¡ jÃ­t.}
+{228}{}{To byl Å¡patnej tah, kÃ¡mo.}
+{229}{}{Co si myslÃ­Å¡, Å¾e dÄ›lÃ¡Å¡?}
+{230}{}{PoslyÅ¡, uÅ¾ jdu.}
+{231}{}{Jo, dobÅ™e.}
+{232}{}{VytÃ¡hl vysÃ­laÄku a chystÃ¡ se varovat celou zÃ¡kladnu! MusÃ­m to s nÃ­m rychle vyÅ™Ã­dit.}
+{233}{}{Sakra. Chlap vytÃ¡hnout mluvÃ­cÃ­ krabiÄka. On mÄ› prozradit. Muset on zastavit.}
+{800}{}{PodaÅ™ilo se ti pÅ™elstÃ­t Chrise, aby ti Å™ekl heslo.}
+{810}{}{PodaÅ™ilo se ti zabÃ­t Chrise pÅ™edtÃ­m, neÅ¾ stihl varovat zÃ¡kladnu.}

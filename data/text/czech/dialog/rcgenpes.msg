@@ -1,130 +1,130 @@
-{100}{}{Vidíš obèana Reddingu.}
-{101}{}{Tento mu vypadá, e je místní.}
-{102}{}{Vidíš horníka.}
-{103}{}{Vidíš farmáøe Reddingu.}
-{104}{}{Vidíš místního mue.}
-{105}{}{Vidíš místní enu.}
-{106}{}{Tato ena vypadá, e je místní.}
-{107}{}{Vidíš místní enu.}
-{108}{}{Vidíš enu, která nejspíš pracuje v dolech.}
-{109}{}{Vidíš farmáøku.}
-{110}{}{Na co èumíš?}
-{111}{}{Vítej ve velkım mìstì.}
+{100}{}{VidÃ­Å¡ obÄana Reddingu.}
+{101}{}{Tento muÅ¾ vypadÃ¡, Å¾e je mÃ­stnÃ­.}
+{102}{}{VidÃ­Å¡ hornÃ­ka.}
+{103}{}{VidÃ­Å¡ farmÃ¡Å™e Reddingu.}
+{104}{}{VidÃ­Å¡ mÃ­stnÃ­ho muÅ¾e.}
+{105}{}{VidÃ­Å¡ mÃ­stnÃ­ Å¾enu.}
+{106}{}{Tato Å¾ena vypadÃ¡, Å¾e je mÃ­stnÃ­.}
+{107}{}{VidÃ­Å¡ mÃ­stnÃ­ Å¾enu.}
+{108}{}{VidÃ­Å¡ Å¾enu, kterÃ¡ nejspÃ­Å¡ pracuje v dolech.}
+{109}{}{VidÃ­Å¡ farmÃ¡Å™ku.}
+{110}{}{Na co ÄumÃ­Å¡?}
+{111}{}{VÃ­tej ve velkÃ½m mÄ›stÄ›.}
 {112}{}{Ahoj.}
-{113}{}{Zùstaneš v Reddingu dlouho?}
-{114}{}{Poprvı v Reddingu, co?}
-{115}{}{Nechceme tu ádnı potíe.}
-{116}{}{Taky se na tebe dívám.}
-{117}{}{Nazdar, cizinèe.}
+{113}{}{ZÅ¯staneÅ¡ v Reddingu dlouho?}
+{114}{}{PoprvÃ½ v Reddingu, co?}
+{115}{}{Nechceme tu Å¾Ã¡dnÃ½ potÃ­Å¾e.}
+{116}{}{Taky se na tebe dÃ­vÃ¡m.}
+{117}{}{Nazdar, cizinÄe.}
 {118}{}{Jak je?}
 {119}{}{Jak se vede?}
-{120}{}{Pøeju hezkej den.}
+{120}{}{PÅ™eju hezkej den.}
 {121}{}{Jo.}
 {122}{}{Ahoj.}
-{123}{}{Vidíš mue s chlazenım nápojem v ruce.}
-{124}{}{Vidíš mue, kterı si objednává pivo.}
-{125}{}{Tento chlápek toho moc vypil.}
-{126}{}{Vidíš násosku.}
-{127}{}{Tento chlapík vypadá velice šastnì.}
-{128}{}{Vidíš enu s chlazenım nápojem v ruce.}
-{129}{}{Vidíš enu, která si objednává pivo.}
-{130}{}{Tato ena toho moc vypila.}
-{131}{}{Vidíš násosku.}
-{132}{}{Tato ena je opilá.}
-{133}{}{Ahoj, cizinèe.}
-{134}{}{Nazdárek.}
+{123}{}{VidÃ­Å¡ muÅ¾e s chlazenÃ½m nÃ¡pojem v ruce.}
+{124}{}{VidÃ­Å¡ muÅ¾e, kterÃ½ si objednÃ¡vÃ¡ pivo.}
+{125}{}{Tento chlÃ¡pek toho moc vypil.}
+{126}{}{VidÃ­Å¡ nÃ¡sosku.}
+{127}{}{Tento chlapÃ­k vypadÃ¡ velice Å¡Å¥astnÄ›.}
+{128}{}{VidÃ­Å¡ Å¾enu s chlazenÃ½m nÃ¡pojem v ruce.}
+{129}{}{VidÃ­Å¡ Å¾enu, kterÃ¡ si objednÃ¡vÃ¡ pivo.}
+{130}{}{Tato Å¾ena toho moc vypila.}
+{131}{}{VidÃ­Å¡ nÃ¡sosku.}
+{132}{}{Tato Å¾ena je opilÃ¡.}
+{133}{}{Ahoj, cizinÄe.}
+{134}{}{NazdÃ¡rek.}
 {135}{}{Hmmm.}
 {136}{}{Hyk.}
 {137}{}{Glo-glo-glo.}
-{138}{}{Díky, cizinèe.}
-{139}{}{To není špatnı na divocha.}
+{138}{}{DÃ­ky, cizinÄe.}
+{139}{}{To nenÃ­ Å¡patnÃ½ na divocha.}
 {140}{}{To je ono.}
 {141}{}{Mmm-hmmm.}
-{142}{}{Díky.}
-{143}{}{Jsi mùj nejlepší pøítel.}
-{144}{}{Díky, kámo.}
-{145}{}{Jsi nejlepší.}
-{146}{}{Divoši jsou taky lidi.}
-{147}{}{Nic ne pøátelé.}
-{148}{}{Chce se mi zpívat...}
-{149}{}{Odvolávám všechno, co jsem o tobì pøedtím øekl.}
-{150}{}{Jsi opravdovı kámoš.}
-{151}{}{Divoši jsou hodní.}
-{152}{}{Hip hip hurá divochùm.}
-{153}{}{./~ Mám sucho v krku... ./~}
-{154}{}{./~ 99 flašek piva na stìnì, 99 flašek piva... ./~}
-{155}{}{Vidíš mue, kterı se dívá na svùj domov.}
-{156}{}{Vidíš mue, kterı jí maso.}
-{157}{}{Vidíš mue, kterı si zašívá obleèení.}
-{158}{}{Tento mu odpoèívá.}
-{159}{}{Tento mu odpoèívá u sebe doma.}
-{160}{}{Vidíš enu, která se dívá na svùj domov.}
-{161}{}{Vidíš enu, která jí maso.}
-{162}{}{Vidíš enu, která si zašívá obleèení.}
-{163}{}{Tato ena odpoèívá.}
-{164}{}{Tato ena odpoèívá u sebe doma.}
+{142}{}{DÃ­ky.}
+{143}{}{Jsi mÅ¯j nejlepÅ¡Ã­ pÅ™Ã­tel.}
+{144}{}{DÃ­ky, kÃ¡mo.}
+{145}{}{Jsi nejlepÅ¡Ã­.}
+{146}{}{DivoÅ¡i jsou taky lidi.}
+{147}{}{Nic neÅ¾ pÅ™Ã¡telÃ©.}
+{148}{}{Chce se mi zpÃ­vat...}
+{149}{}{OdvolÃ¡vÃ¡m vÅ¡echno, co jsem o tobÄ› pÅ™edtÃ­m Å™ekl.}
+{150}{}{Jsi opravdovÃ½ kÃ¡moÅ¡.}
+{151}{}{DivoÅ¡i jsou hodnÃ­.}
+{152}{}{Hip hip hurÃ¡ divochÅ¯m.}
+{153}{}{./~ MÃ¡m sucho v krku... ./~}
+{154}{}{./~ 99 flaÅ¡ek piva na stÄ›nÄ›, 99 flaÅ¡ek piva... ./~}
+{155}{}{VidÃ­Å¡ muÅ¾e, kterÃ½ se dÃ­vÃ¡ na svÅ¯j domov.}
+{156}{}{VidÃ­Å¡ muÅ¾e, kterÃ½ jÃ­ maso.}
+{157}{}{VidÃ­Å¡ muÅ¾e, kterÃ½ si zaÅ¡Ã­vÃ¡ obleÄenÃ­.}
+{158}{}{Tento muÅ¾ odpoÄÃ­vÃ¡.}
+{159}{}{Tento muÅ¾ odpoÄÃ­vÃ¡ u sebe doma.}
+{160}{}{VidÃ­Å¡ Å¾enu, kterÃ¡ se dÃ­vÃ¡ na svÅ¯j domov.}
+{161}{}{VidÃ­Å¡ Å¾enu, kterÃ¡ jÃ­ maso.}
+{162}{}{VidÃ­Å¡ Å¾enu, kterÃ¡ si zaÅ¡Ã­vÃ¡ obleÄenÃ­.}
+{163}{}{Tato Å¾ena odpoÄÃ­vÃ¡.}
+{164}{}{Tato Å¾ena odpoÄÃ­vÃ¡ u sebe doma.}
 {165}{}{Ahoj.}
-{166}{}{Co tu dìláš?}
-{167}{}{Kdo tì sem pustil?}
-{168}{}{Vypadni, tohle není dùm pro divochy.}
+{166}{}{Co tu dÄ›lÃ¡Å¡?}
+{167}{}{Kdo tÄ› sem pustil?}
+{168}{}{Vypadni, tohle nenÃ­ dÅ¯m pro divochy.}
 {169}{}{Vypadni! Zmiz!}
-{170}{}{Co dìláš u mì doma?}
-{171}{}{Vidíš horníka Reddingu.}
-{172}{}{Vidíš horníka.}
-{173}{}{Vidíš unaveného horníka.}
-{174}{}{Vidíš kopáèe zlata.}
-{175}{}{Vidíš špinavou osobu.}
-{176}{}{Tato osoba vypadá jako horník.}
-{177}{}{./~ Kadım dnem starší a zadluenìjší./~}
-{178}{}{Jsem celı špinavı.}
+{170}{}{Co dÄ›lÃ¡Å¡ u mÄ› doma?}
+{171}{}{VidÃ­Å¡ hornÃ­ka Reddingu.}
+{172}{}{VidÃ­Å¡ hornÃ­ka.}
+{173}{}{VidÃ­Å¡ unavenÃ©ho hornÃ­ka.}
+{174}{}{VidÃ­Å¡ kopÃ¡Äe zlata.}
+{175}{}{VidÃ­Å¡ Å¡pinavou osobu.}
+{176}{}{Tato osoba vypadÃ¡ jako hornÃ­k.}
+{177}{}{./~ KaÅ¾dÃ½m dnem starÅ¡Ã­ a zadluÅ¾enÄ›jÅ¡Ã­./~}
+{178}{}{Jsem celÃ½ Å¡pinavÃ½.}
 {179}{}{Tam dole je fakt tma.}
-{180}{}{Kopat, my musíme.}
-{181}{}{Nejdøív kopeme, potom zhebneme.}
-{182}{}{Proè není zlato na povrchu?}
-{183}{}{Vidíš vzrušenou osobu.}
-{184}{}{Tato osoba je velice nervózní.}
-{185}{}{Vidíš osobu, která sleduje zápas v ringu.}
-{186}{}{Tato osoba si patrnì dala povzbuzováka.}
-{187}{}{Vidíš nìkoho, kdo sází na zápasy.}
-{188}{}{Tato osoba vypadá vzrušenì.}
+{180}{}{Kopat, my musÃ­me.}
+{181}{}{NejdÅ™Ã­v kopeme, potom zhebneme.}
+{182}{}{ProÄ nenÃ­ zlato na povrchu?}
+{183}{}{VidÃ­Å¡ vzruÅ¡enou osobu.}
+{184}{}{Tato osoba je velice nervÃ³znÃ­.}
+{185}{}{VidÃ­Å¡ osobu, kterÃ¡ sleduje zÃ¡pas v ringu.}
+{186}{}{Tato osoba si patrnÄ› dala povzbuzovÃ¡ka.}
+{187}{}{VidÃ­Å¡ nÄ›koho, kdo sÃ¡zÃ­ na zÃ¡pasy.}
+{188}{}{Tato osoba vypadÃ¡ vzruÅ¡enÄ›.}
 {189}{}{Sejmi ho!}
-{190}{}{A tıdenní plat je v háji... u zase.}
-{191}{}{Jó!}
-{192}{}{Zabít, zabít, zabít!}
+{190}{}{A tÃ½dennÃ­ plat je v hÃ¡ji... uÅ¾ zase.}
+{191}{}{JÃ³!}
+{192}{}{ZabÃ­t, zabÃ­t, zabÃ­t!}
 {193}{}{Jdi mu po krku!}
 {194}{}{Zabij toho parchanta!}
-{195}{}{Skoè na nìj!}
+{195}{}{SkoÄ na nÄ›j!}
 {196}{}{Obejdi ho! Ne, tou druhou stranou!}
 {197}{}{Bacha!}
 {198}{}{To je ono!}
 {199}{}{Budu bohatej!}
-{200}{}{Vydìlám si na novı boty!}
-{201}{}{Nepárej se s ním!}
-{202}{}{Nestùj na místì, ty idiote! Nestùj na místì!}
-{203}{}{Dora ho!}
+{200}{}{VydÄ›lÃ¡m si na novÃ½ boty!}
+{201}{}{NepÃ¡rej se s nÃ­m!}
+{202}{}{NestÅ¯j na mÃ­stÄ›, ty idiote! NestÅ¯j na mÃ­stÄ›!}
+{203}{}{DoraÅ¾ ho!}
 {204}{}{Bojuj!}
-{205}{}{Vidíš malého chlapce.}
-{206}{}{Tento malı chlapec pøišel na trnici.}
-{207}{}{Vidíš mladíka.}
-{208}{}{Vidíš zaprášeného mladíka.}
-{209}{}{Toto dítì je celé zablácené.}
-{210}{}{Vidíš mladíka, kterı se šourá v nose.}
-{211}{}{Vidíš dítì, které na tebe zírá.}
-{212}{}{Vidíš malého chlapce.}
-{213}{}{Vidíš malou dívku.}
-{214}{}{Vidíš roztomilé, malé dìvèe.}
-{215}{}{Dobrı den, pane.}
-{216}{}{Co dìláte, pane?}
-{217}{}{Ty jseš kanibal?}
-{218}{}{Utíkejte, utíkejte!}
-{219}{}{Jednou jsem si šáhnul na mrtvıho geckona.}
-{220}{}{Jíte lidi?}
-{221}{}{Já myslel, e máš na hlavì rohy.}
-{222}{}{Odkud jseš?}
-{223}{}{Jseš z daleka?}
-{224}{}{e mì nechytíš?}
-{225}{}{Héhé, héhé, héhé!}
-{226}{}{Vypadáš legraènì.}
-{227}{}{Pìknì smrdíš.}
-{228}{}{Dobrı den, paní.}
-{229}{}{Co dìláte, paní?}
+{205}{}{VidÃ­Å¡ malÃ©ho chlapce.}
+{206}{}{Tento malÃ½ chlapec pÅ™iÅ¡el na trÅ¾nici.}
+{207}{}{VidÃ­Å¡ mladÃ­ka.}
+{208}{}{VidÃ­Å¡ zaprÃ¡Å¡enÃ©ho mladÃ­ka.}
+{209}{}{Toto dÃ­tÄ› je celÃ© zablÃ¡cenÃ©.}
+{210}{}{VidÃ­Å¡ mladÃ­ka, kterÃ½ se Å¡Å¥ourÃ¡ v nose.}
+{211}{}{VidÃ­Å¡ dÃ­tÄ›, kterÃ© na tebe zÃ­rÃ¡.}
+{212}{}{VidÃ­Å¡ malÃ©ho chlapce.}
+{213}{}{VidÃ­Å¡ malou dÃ­vku.}
+{214}{}{VidÃ­Å¡ roztomilÃ©, malÃ© dÄ›vÄe.}
+{215}{}{DobrÃ½ den, pane.}
+{216}{}{Co dÄ›lÃ¡te, pane?}
+{217}{}{Ty jseÅ¡ kanibal?}
+{218}{}{UtÃ­kejte, utÃ­kejte!}
+{219}{}{Jednou jsem si Å¡Ã¡hnul na mrtvÃ½ho geckona.}
+{220}{}{JÃ­te lidi?}
+{221}{}{JÃ¡ myslel, Å¾e mÃ¡Å¡ na hlavÄ› rohy.}
+{222}{}{Odkud jseÅ¡?}
+{223}{}{JseÅ¡ z daleka?}
+{224}{}{Å½e mÄ› nechytÃ­Å¡?}
+{225}{}{HÃ©hÃ©, hÃ©hÃ©, hÃ©hÃ©!}
+{226}{}{VypadÃ¡Å¡ legraÄnÄ›.}
+{227}{}{PÄ›knÄ› smrdÃ­Å¡.}
+{228}{}{DobrÃ½ den, panÃ­.}
+{229}{}{Co dÄ›lÃ¡te, panÃ­?}

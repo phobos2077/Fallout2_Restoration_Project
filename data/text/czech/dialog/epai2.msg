@@ -1,16 +1,16 @@
-{100}{}{Vítejte u Centrálního ovládání robotù komplexu EPA. Zvolte poadovanou akci.}
-{101}{}{Ovládání robotù.}
-{102}{}{Spustit diagnostickı program.}
-{103}{}{Odejít.}
-{104}{}{!CHYBA! !CHYBA! PØI BÌHU PROGRAMU DOŠLO K CHYBÌ! UKONÈUJI...}
-{105}{}{Zpìt do hlavního menu.}
-{106}{}{Probíhá diagnostika... chyba na obvodové desce... sektor 4... uvolnìnı kabel.}
+{100}{}{VÃ­tejte u CentrÃ¡lnÃ­ho ovlÃ¡dÃ¡nÃ­ robotÅ¯ komplexu EPA. Zvolte poÅ¾adovanou akci.}
+{101}{}{OvlÃ¡dÃ¡nÃ­ robotÅ¯.}
+{102}{}{Spustit diagnostickÃ½ program.}
+{103}{}{OdejÃ­t.}
+{104}{}{!CHYBA! !CHYBA! PÅ˜I BÄšHU PROGRAMU DOÅ LO K CHYBÄš! UKONÄŒUJI...}
+{105}{}{ZpÄ›t do hlavnÃ­ho menu.}
+{106}{}{ProbÃ­hÃ¡ diagnostika... chyba na obvodovÃ© desce... sektor 4... uvolnÄ›nÃ½ kabel.}
 {107}{}{KONEC}
-{108}{}{Oprava se zdá bıt pøíliš sloitá.}
-{109}{}{Chyba v poèítaèi byla opravena a stroj byl opìt uveden do provozu.}
-{110}{}{Vítejte u Centrálního ovládání robotù komplexu EPA. Pro pøístup k tìmto souborùm nemáte bezpeènostní oprávnìní. Ukonèuji...}
+{108}{}{Oprava se zdÃ¡ bÃ½t pÅ™Ã­liÅ¡ sloÅ¾itÃ¡.}
+{109}{}{Chyba v poÄÃ­taÄi byla opravena a stroj byl opÄ›t uveden do provozu.}
+{110}{}{VÃ­tejte u CentrÃ¡lnÃ­ho ovlÃ¡dÃ¡nÃ­ robotÅ¯ komplexu EPA. Pro pÅ™Ã­stup k tÄ›mto souborÅ¯m nemÃ¡te bezpeÄnostnÃ­ oprÃ¡vnÄ›nÃ­. UkonÄuji...}
 {111}{}{[KONEC]}
-{112}{}{PÍÍÍÍP!}
-{113}{}{TÙÙÙÙT!}
+{112}{}{PÃÃÃÃP!}
+{113}{}{TÅ®Å®Å®Å®T!}
 {114}{}{Bzzzt...}
-{115}{}{U je to opravené.}
+{115}{}{UÅ¾ je to opravenÃ©.}

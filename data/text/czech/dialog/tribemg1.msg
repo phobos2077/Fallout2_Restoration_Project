@@ -1,5 +1,5 @@
-{100}{}{Vidíš nabruèeného bodyguarda.}
-{101}{}{Warren se mraèí na svoji poøezanou ruku.}
-{200}{}{Proè vdycky poøezá *mì*?}
-{201}{}{Tahle show u mì fakt štve.}
-{202}{}{Pøíštì by mìl poøezat nìjakıho zkurvenıho divocha.}
+{100}{}{VidÃ­Å¡ nabruÄenÃ©ho bodyguarda.}
+{101}{}{Warren se mraÄÃ­ na svoji poÅ™ezanou ruku.}
+{200}{}{ProÄ vÅ¾dycky poÅ™ezÃ¡ *mÄ›*?}
+{201}{}{Tahle show uÅ¾ mÄ› fakt Å¡tve.}
+{202}{}{PÅ™Ã­Å¡tÄ› by mÄ›l poÅ™ezat nÄ›jakÃ½ho zkurvenÃ½ho divocha.}

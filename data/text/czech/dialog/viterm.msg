@@ -1,8 +1,8 @@
-{100}{}{Terminál je nyní offline.}
-{101}{}{Vloení kódu 3... P... C... F... 1...6.}
-{102}{}{*Píp*}
-{103}{}{Pohotovostní lékaøskı automat aktivován.}
-{104}{}{*uch*}
-{105}{}{Prosím odeberte Stimpaky ze spodního zásobníku.}
+{100}{}{TerminÃ¡l je nynÃ­ offline.}
+{101}{}{VloÅ¾enÃ­ kÃ³du 3... P... C... F... 1...6.}
+{102}{}{*PÃ­p*}
+{103}{}{PohotovostnÃ­ lÃ©kaÅ™skÃ½ automat aktivovÃ¡n.}
+{104}{}{*Å½uch*}
+{105}{}{ProsÃ­m odeberte Stimpaky ze spodnÃ­ho zÃ¡sobnÃ­ku.}
 {106}{}{Obsah: 2 Stimpaky a Super Stimpak.}
-{107}{}{Terminál je nyní offline.}
+{107}{}{TerminÃ¡l je nynÃ­ offline.}

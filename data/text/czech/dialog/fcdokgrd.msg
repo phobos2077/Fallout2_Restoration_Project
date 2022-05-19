@@ -1,41 +1,41 @@
-{100}{}{Vidíš strá ve volnìjším obleèení. Vypadá ostraitì, ale zároveò znudìnì.}
-{101}{}{Vidíš pøístavního strá. Je neobvykle dobøe ozbrojen.}
-{102}{}{Vidíš strá motorové lodi.}
+{100}{}{VidÃ­Å¡ strÃ¡Å¾ ve volnÄ›jÅ¡Ã­m obleÄenÃ­. VypadÃ¡ ostraÅ¾itÄ›, ale zÃ¡roveÅˆ znudÄ›nÄ›.}
+{101}{}{VidÃ­Å¡ pÅ™Ã­stavnÃ­ho strÃ¡Å¾. Je neobvykle dobÅ™e ozbrojen.}
+{102}{}{VidÃ­Å¡ strÃ¡Å¾ motorovÃ© lodi.}
 {150}{}{Hej! Jdi od toho!}
-{151}{}{Ani na to nemysli. Tohle je poslední varování.}
-{152}{}{Varoval jsem tì, lao wai, teï chcípneš!}
-{200}{}{Co chceš, lao wai?}
-{201}{}{Zase ty? Co chceš, lao wai?}
-{202}{}{Co tady hlídáš?}
-{203}{}{Chci si pùjèit tu motorovou loï.}
+{151}{}{Ani na to nemysli. Tohle je poslednÃ­ varovÃ¡nÃ­.}
+{152}{}{Varoval jsem tÄ›, lao wai, teÄ chcÃ­pneÅ¡!}
+{200}{}{Co chceÅ¡, lao wai?}
+{201}{}{Zase ty? Co chceÅ¡, lao wai?}
+{202}{}{Co tady hlÃ­dÃ¡Å¡?}
+{203}{}{Chci si pÅ¯jÄit tu motorovou loÄ.}
 {204}{}{Nic. Nashle.}
-{210}{}{Všechno. Nezkoušej ádné blbosti.}
-{211}{}{Nemohl bys to trošku upøesnit?}
-{220}{}{Ne. Teï odejdi, cizinèe.}
-{221}{}{Tak dobøe. Nashle.}
-{222}{}{Nikdo mi nebude øikat co mám dìlat. Jseš kurva mrtvej!}
-{230}{}{A já chci, abys šel do prdele. Nemáš povolení tu loï pouívat. Sakra, vdy ty ani nejseš Shi, jseš lao wai.}
-{231}{}{Poslouchej, jsem v zoufalé situaci. Kdy mi tu loï nepùjèíš, tak mùe celı mùj kmen zemøít. Zrovna teï jsou všichni v zajetí tìch bastardù z Enklávy a poèítají s tím, e je zachráním. Ale k tomu nutnì potøebuju tady tuhle loï. Kdy mi ji nepùjèíš, budu muset pouít násilí a jeden z nás nakonec zemøe. Prosím, nenech to zajít tak daleko.}
-{232}{}{Ve skuteènosti jsem èestnı èlen Shi. Najali mì do tımu údrby ponorky díky mım odbornım znalostem v oblasti... ponorkologie. Tady je moje heslo...}
-{233}{}{Asi si neuvìdomuješ, koho jsi právì urazil. Èas chcípnout, kreténe.}
-{234}{}{No jo, u jdu... Jeiš, nìkterı lidi...}
-{240}{}{(Dlouze se na tebe dívá a poté si povzdechne.) Podívej, na tuhle loï se nikdo bez správného hesla nedostane. Jako to, co jsi mi právì øekl. (Zamumlá.) Ken Lee mi za tohle utrhne hlavu...}
-{241}{}{Díky, kamaráde. A neboj, nikomu nic neøeknu.}
-{250}{}{To doufám, v zájmu nás obou... dej mi vìdìt, a budeš chtít odplout. Ale nemùeš s sebou nikoho vzít, vzbudilo by to podezøení. Budeš muset jít jen ty.}
-{251}{}{Chci odplout hned teï.}
-{252}{}{Teï ne.}
-{260}{}{(Strá si poslechne heslo a pøikıvne.) Myslím, e jsi opravdu technik. Hmm, Shi musí bıt opravdu zoufalí, kdy najímají i cizince... ale stejnì jsi tu brzo. Oni ti neøekli, e tım technikù neodplouvá z pøístavu døív ne pøed pùlnocí? Jestli chceš, mùeš tady na nì poèkat.}
-{261}{}{Nemám teï nic lepšího na práci, take jo...}
-{262}{}{Pøijdu pozdìji.}
-{270}{}{Pouij vyvazovací pacholi a slez po provazu do lodi. Ale a ti to netrvá moc dlouho, nechci se dostat do nìjakého prùšvihu.}
-{271}{}{Rozumím. Nashle.}
+{210}{}{VÅ¡echno. NezkouÅ¡ej Å¾Ã¡dnÃ© blbosti.}
+{211}{}{Nemohl bys to troÅ¡ku upÅ™esnit?}
+{220}{}{Ne. TeÄ odejdi, cizinÄe.}
+{221}{}{Tak dobÅ™e. Nashle.}
+{222}{}{Nikdo mi nebude Å™ikat co mÃ¡m dÄ›lat. JseÅ¡ kurva mrtvej!}
+{230}{}{A jÃ¡ chci, abys Å¡el do prdele. NemÃ¡Å¡ povolenÃ­ tu loÄ pouÅ¾Ã­vat. Sakra, vÅ¾dyÅ¥ ty ani nejseÅ¡ Shi, jseÅ¡ lao wai.}
+{231}{}{Poslouchej, jsem v zoufalÃ© situaci. KdyÅ¾ mi tu loÄ nepÅ¯jÄÃ­Å¡, tak mÅ¯Å¾e celÃ½ mÅ¯j kmen zemÅ™Ã­t. Zrovna teÄ jsou vÅ¡ichni v zajetÃ­ tÄ›ch bastardÅ¯ z EnklÃ¡vy a poÄÃ­tajÃ­ s tÃ­m, Å¾e je zachrÃ¡nÃ­m. Ale k tomu nutnÄ› potÅ™ebuju tady tuhle loÄ. KdyÅ¾ mi ji nepÅ¯jÄÃ­Å¡, budu muset pouÅ¾Ã­t nÃ¡silÃ­ a jeden z nÃ¡s nakonec zemÅ™e. ProsÃ­m, nenech to zajÃ­t tak daleko.}
+{232}{}{Ve skuteÄnosti jsem ÄestnÃ½ Älen Shi. Najali mÄ› do tÃ½mu ÃºdrÅ¾by ponorky dÃ­ky mÃ½m odbornÃ½m znalostem v oblasti... ponorkologie. Tady je moje heslo...}
+{233}{}{Asi si neuvÄ›domujeÅ¡, koho jsi prÃ¡vÄ› urazil. ÄŒas chcÃ­pnout, kretÃ©ne.}
+{234}{}{No jo, uÅ¾ jdu... JeÅ¾iÅ¡, nÄ›kterÃ½ lidi...}
+{240}{}{(Dlouze se na tebe dÃ­vÃ¡ a potÃ© si povzdechne.) PodÃ­vej, na tuhle loÄ se nikdo bez sprÃ¡vnÃ©ho hesla nedostane. Jako to, co jsi mi prÃ¡vÄ› Å™ekl. (ZamumlÃ¡.) Ken Lee mi za tohle utrhne hlavu...}
+{241}{}{DÃ­ky, kamarÃ¡de. A neboj, nikomu nic neÅ™eknu.}
+{250}{}{To doufÃ¡m, v zÃ¡jmu nÃ¡s obou... dej mi vÄ›dÄ›t, aÅ¾ budeÅ¡ chtÃ­t odplout. Ale nemÅ¯Å¾eÅ¡ s sebou nikoho vzÃ­t, vzbudilo by to podezÅ™enÃ­. BudeÅ¡ muset jÃ­t jen ty.}
+{251}{}{Chci odplout hned teÄ.}
+{252}{}{TeÄ ne.}
+{260}{}{(StrÃ¡Å¾ si poslechne heslo a pÅ™ikÃ½vne.) MyslÃ­m, Å¾e jsi opravdu technik. Hmm, Shi musÃ­ bÃ½t opravdu zoufalÃ­, kdyÅ¾ najÃ­majÃ­ i cizince... ale stejnÄ› jsi tu brzo. Oni ti neÅ™ekli, Å¾e tÃ½m technikÅ¯ neodplouvÃ¡ z pÅ™Ã­stavu dÅ™Ã­v neÅ¾ pÅ™ed pÅ¯lnocÃ­? Jestli chceÅ¡, mÅ¯Å¾eÅ¡ tady na nÄ› poÄkat.}
+{261}{}{NemÃ¡m teÄ nic lepÅ¡Ã­ho na prÃ¡ci, takÅ¾e jo...}
+{262}{}{PÅ™ijdu pozdÄ›ji.}
+{270}{}{PouÅ¾ij vyvazovacÃ­ pacholi a slez po provazu do lodi. Ale aÅ¥ ti to netrvÃ¡ moc dlouho, nechci se dostat do nÄ›jakÃ©ho prÅ¯Å¡vihu.}
+{271}{}{RozumÃ­m. Nashle.}
 {272}{}{Spolehni se. Sbohem.}
-{280}{}{Jsi pøipraven se pøidat k tımu technikù?}
-{281}{}{Ano, jsem pøipraven vyrazit.}
-{282}{}{Ne, ještì ne.}
-{290}{}{Nevidíš, e mám práci?}
-{300}{}{Já jet na elezná rybo-ryba?}
-{310}{}{(Dívá se na tebe jako na to nejpitomìjší stvoøení, které si dokáe pøedstavit. Nevìøícnì zakroutí hlavou.) Ty nejet na elezné rybo-rybì. Ty teï odejít nebo já støílet. Rozumíš?}
-{311}{}{Dobe! Pápá!}
-{312}{}{Ty hnusná chlap. Já bacit hnusná chlap!}
-{500}{}{Díky tvım øeènickım schopnostem se ti podaøilo získat pøístup na motorovou loï.}
+{280}{}{Jsi pÅ™ipraven se pÅ™idat k tÃ½mu technikÅ¯?}
+{281}{}{Ano, jsem pÅ™ipraven vyrazit.}
+{282}{}{Ne, jeÅ¡tÄ› ne.}
+{290}{}{NevidÃ­Å¡, Å¾e mÃ¡m prÃ¡ci?}
+{300}{}{JÃ¡ jet na Å¾eleznÃ¡ rybo-ryba?}
+{310}{}{(DÃ­vÃ¡ se na tebe jako na to nejpitomÄ›jÅ¡Ã­ stvoÅ™enÃ­, kterÃ© si dokÃ¡Å¾e pÅ™edstavit. NevÄ›Å™Ã­cnÄ› zakroutÃ­ hlavou.) Ty nejet na Å¾eleznÃ© rybo-rybÄ›. Ty teÄ odejÃ­t nebo jÃ¡ stÅ™Ã­let. RozumÃ­Å¡?}
+{311}{}{DobÅ¾e! PÃ¡pÃ¡!}
+{312}{}{Ty hnusnÃ¡ chlap. JÃ¡ bacit hnusnÃ¡ chlap!}
+{500}{}{DÃ­ky tvÃ½m Å™eÄnickÃ½m schopnostem se ti podaÅ™ilo zÃ­skat pÅ™Ã­stup na motorovou loÄ.}

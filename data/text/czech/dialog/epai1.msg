@@ -1,6 +1,6 @@
-{100}{}{Vidíš leták.}
+{100}{}{VidÃ­Å¡ letÃ¡k.}
 {101}{}{}
-{102}{}{Uvítací informaèní leták, rozdávanı na zaèátku kadé prohlídky.}
-{200}{}{Vítejte v komplexu EPA! Nìkteøí zamìstnanci, na které bìhem prohlídky narazíte, se vám mohou zdát ponìkud prùhlední. Nenechte se tím znepokojit. Jedná se o hologramy, novı zázrak moderní vìdy. Jde vlastnì o poèítaèové programy, kterım byla díky špièkové technologii komplexu EPA propùjèena lidská podoba. Bez problému odpoví na vaše pøípadné dotazy, bez obav se jich proto na cokoliv zeptejte. POZOR! Hologramy fungují na principu suspenze antigravimetrickıch krystalù. Tyto nejsou v ádném pøípadì urèeny k lidské interakci, proto se prosím hologramù ve vlastním zájmu nedotıkejte. Mùe to bıt velmi nebezpeèné. Dìkujeme a pøejeme vám pøíjemnou prohlídku.}
+{102}{}{UvÃ­tacÃ­ informaÄnÃ­ letÃ¡k, rozdÃ¡vanÃ½ na zaÄÃ¡tku kaÅ¾dÃ© prohlÃ­dky.}
+{200}{}{VÃ­tejte v komplexu EPA! NÄ›kteÅ™Ã­ zamÄ›stnanci, na kterÃ© bÄ›hem prohlÃ­dky narazÃ­te, se vÃ¡m mohou zdÃ¡t ponÄ›kud prÅ¯hlednÃ­. Nenechte se tÃ­m znepokojit. JednÃ¡ se o hologramy, novÃ½ zÃ¡zrak modernÃ­ vÄ›dy. Jde vlastnÄ› o poÄÃ­taÄovÃ© programy, kterÃ½m byla dÃ­ky Å¡piÄkovÃ© technologii komplexu EPA propÅ¯jÄena lidskÃ¡ podoba. Bez problÃ©mu odpovÃ­ na vaÅ¡e pÅ™Ã­padnÃ© dotazy, bez obav se jich proto na cokoliv zeptejte. POZOR! Hologramy fungujÃ­ na principu suspenze antigravimetrickÃ½ch krystalÅ¯. Tyto nejsou v Å¾Ã¡dnÃ©m pÅ™Ã­padÄ› urÄeny k lidskÃ© interakci, proto se prosÃ­m hologramÅ¯ ve vlastnÃ­m zÃ¡jmu nedotÃ½kejte. MÅ¯Å¾e to bÃ½t velmi nebezpeÄnÃ©. DÄ›kujeme a pÅ™ejeme vÃ¡m pÅ™Ã­jemnou prohlÃ­dku.}
 {201}{}{KONEC}
-{202}{}{Nejdøív to musíš vyndat z inventáøe.}
+{202}{}{NejdÅ™Ã­v to musÃ­Å¡ vyndat z inventÃ¡Å™e.}

@@ -1,59 +1,59 @@
-{100}{}{Vidíš silného mue v pracovním odìvu. Jeho oèi jsou pevnì upnuty k zemi.}
-{101}{}{Vidíš otroka Vault City.}
-{102}{}{Vidíš silného mue v pracovním odìvu. Jeho oèi jsou pevnì upnuty k zemi.}
-{103}{}{Vidíš zdravì vypadající enu v pracovním odìvu. Její oèi jsou pevnì upnuty k zemi.}
-{104}{}{Vidíš otroka Vault City.}
-{105}{}{Vidíš zdravì vypadající enu v pracovním odìvu. Její oèi jsou pevnì upnuty k zemi.}
-{106}{}{Slyšel jsem o vašem hrdinském èinu. Udìlal jsi velkou slubu pro Vault City... a pro celı svìt.}
-{107}{}{Vaše bitva proti enklávì zapùsobila i na První Obèanku.}
-{108}{}{Rád bych ti nìco daroval za to, co všechno jsi pro nás udìlal, ale nemám ti co dát... pøijmi aspoò moje podìkování.}
-{109}{}{Ostatní otroci budou závidìt, e jsem mluvil s hrdinou Pustiny.}
-{110}{}{Ano, Kapitáne?}
-{111}{}{Kapitáne?}
-{112}{}{Je nìco co chcete po mì abych udìlal, Kapitáne?}
-{113}{}{Máte pro mì nìjakou práci, Kapitáne?}
-{114}{}{Omlouvám se, Kapitáne. Zkusil jsem to udìlat, ale je to pøíliš tìké.}
-{115}{}{Omlouvám se, Kapitáne. Zkusím bıt více pozornı.}
-{116}{}{Ano, Obèane?}
-{117}{}{Obèane?}
-{118}{}{Je nìco co chcete po mì abych udìlal, Obèane?}
-{119}{}{Máte pro mì nìjakou práci, Obèane?}
-{120}{}{Omlouvám se, Obèane. Zkusil jsem to udìlat, ale je to pøíliš tìké.}
-{121}{}{Omlouvám se, Obèane. Zkusím bıt více pozornı.}
-{122}{}{Mutanti nemohou vstupovat do mìsta!}
-{123}{}{Jestlie stráe uvidí tvoje mutanty, budeš muset odejít.}
-{124}{}{Mutanti nejsou trpìni ve mìstì! Musíš odejít!}
-{125}{}{Ghoulové nemohou vstupovat do mìsta!}
-{126}{}{Jestlie stráe uvidí tvoje ghouly, budeš muset odejít.}
-{127}{}{Ghoulové nejsou trpìni ve mìstì! Musíš odejít!}
-{128}{}{Ano, jsem u sám. Otrok v pøidìlovacím centru má moje dokumenty.}
-{129}{}{Prosím nechte mì odejít. Jsem otrok ve Vault City.}
-{130}{}{Naléhavì vás prosím: nevidìl jste dvì dìti... èernovlasé...? Byly odvleèeny s ostatními otroky pøed dvìma lety a prodány na sever.}
-{131}{}{Prosím... S nikım nesmím mluvit.}
-{132}{}{Jestlie mì nìjakı Obèan uvidí mluvit s otrokem, budu potrestán.}
-{133}{}{Stráe mì udají, jestlie budeš pokraèovat v rozhovoru se mnou.}
-{134}{}{Nemohu s tebou mluvit. Mám povinnosti.}
-{135}{}{Prosím tì, jdi slintat nìkam jinam. Nechci mít ádné problémy.}
-{136}{}{Utéct? Né, nikdy jsem se nepokoušel uprchnout odsud. ivot je tady dobrı.}
-{137}{}{Obèané mi øíkali, kdy budu dost tvrdì pracovat, mohl bych se jednou také stát Obèanem.}
-{138}{}{Obèané nás uèí, e práce je naše vlastní odmìna.}
-{139}{}{Obèané nám øíkají, e naše sluby jim nechávají více èasu pro dùleitìjší vìci.}
-{140}{}{Byl jsem šastnı, e Vault City potøebuje otroky. Taky jsem mohl skonèit v New Reno.}
-{141}{}{Vault City odmìòuje otroky, kteøí pilnì pracují vyššími pøídìly potravin.}
-{142}{}{Slyšel jsem pøíšerné vìci o otrocích v New Reno.}
-{143}{}{Obèané pøivedli celı náš kmen do Vault City, abychom zde slouili }
-{144}{}{Obèané mì pøivedli dovnitø, abych se neflákal a uèí mì èíst.}
-{145}{}{Obèané se mnou zacházejí velmi dobøe. Jídlo je tady vynikající.}
-{146}{}{Nemám povoleno mluvit s lidmi z venkovního svìta.}
-{147}{}{Stıská se mi po mojí rodinì, vdy u je to mnoho let co jsem je nevidìl.}
-{148}{}{Byl jsem odveden z vesnice, která leí na severu. ivot tady je mnohem lepší.}
-{149}{}{Poprvé jsem byl zajat v Denu. Mìl jsem kliku, e jsem skonèil tady.}
-{150}{}{Obèas slyším, e První Obèanka èas od èasu ztratí trpìlivost se svımi otroky.}
-{151}{}{Nemohu s vámi mluvit. Musím pracovat.}
-{152}{}{Musím do hodiny dokonèit všechny úkoly.}
-{153}{}{Mluvení s cizinci je proti zákonùm.}
-{154}{}{Uprchnout? Proè?}
-{155}{}{Ano? Mohu vám pomoci?}
-{156}{}{Byl jsem zajat jako otrok u dost dávno. Stìí si to pamatuji.}
-{157}{}{Mìl jsem dvì dìti a byli odvleèeny na sever. Doufám, e se naše cesty zase zkøíí.}
-{158}{}{Omlouvám se, ale nemám èas na rozhovory.}
+{100}{}{VidÃ­Å¡ silnÃ©ho muÅ¾e v pracovnÃ­m odÄ›vu. Jeho oÄi jsou pevnÄ› upnuty k zemi.}
+{101}{}{VidÃ­Å¡ otroka Vault City.}
+{102}{}{VidÃ­Å¡ silnÃ©ho muÅ¾e v pracovnÃ­m odÄ›vu. Jeho oÄi jsou pevnÄ› upnuty k zemi.}
+{103}{}{VidÃ­Å¡ zdravÄ› vypadajÃ­cÃ­ Å¾enu v pracovnÃ­m odÄ›vu. JejÃ­ oÄi jsou pevnÄ› upnuty k zemi.}
+{104}{}{VidÃ­Å¡ otroka Vault City.}
+{105}{}{VidÃ­Å¡ zdravÄ› vypadajÃ­cÃ­ Å¾enu v pracovnÃ­m odÄ›vu. JejÃ­ oÄi jsou pevnÄ› upnuty k zemi.}
+{106}{}{SlyÅ¡el jsem o vaÅ¡em hrdinskÃ©m Äinu. UdÄ›lal jsi velkou sluÅ¾bu pro Vault City... a pro celÃ½ svÄ›t.}
+{107}{}{VaÅ¡e bitva proti enklÃ¡vÄ› zapÅ¯sobila i na PrvnÃ­ ObÄanku.}
+{108}{}{RÃ¡d bych ti nÄ›co daroval za to, co vÅ¡echno jsi pro nÃ¡s udÄ›lal, ale nemÃ¡m ti co dÃ¡t... pÅ™ijmi aspoÅˆ moje podÄ›kovÃ¡nÃ­.}
+{109}{}{OstatnÃ­ otroci budou zÃ¡vidÄ›t, Å¾e jsem mluvil s hrdinou Pustiny.}
+{110}{}{Ano, KapitÃ¡ne?}
+{111}{}{KapitÃ¡ne?}
+{112}{}{Je nÄ›co co chcete po mÄ› abych udÄ›lal, KapitÃ¡ne?}
+{113}{}{MÃ¡te pro mÄ› nÄ›jakou prÃ¡ci, KapitÃ¡ne?}
+{114}{}{OmlouvÃ¡m se, KapitÃ¡ne. Zkusil jsem to udÄ›lat, ale je to pÅ™Ã­liÅ¡ tÄ›Å¾kÃ©.}
+{115}{}{OmlouvÃ¡m se, KapitÃ¡ne. ZkusÃ­m bÃ½t vÃ­ce pozornÃ½.}
+{116}{}{Ano, ObÄane?}
+{117}{}{ObÄane?}
+{118}{}{Je nÄ›co co chcete po mÄ› abych udÄ›lal, ObÄane?}
+{119}{}{MÃ¡te pro mÄ› nÄ›jakou prÃ¡ci, ObÄane?}
+{120}{}{OmlouvÃ¡m se, ObÄane. Zkusil jsem to udÄ›lat, ale je to pÅ™Ã­liÅ¡ tÄ›Å¾kÃ©.}
+{121}{}{OmlouvÃ¡m se, ObÄane. ZkusÃ­m bÃ½t vÃ­ce pozornÃ½.}
+{122}{}{Mutanti nemohou vstupovat do mÄ›sta!}
+{123}{}{JestliÅ¾e strÃ¡Å¾e uvidÃ­ tvoje mutanty, budeÅ¡ muset odejÃ­t.}
+{124}{}{Mutanti nejsou trpÄ›ni ve mÄ›stÄ›! MusÃ­Å¡ odejÃ­t!}
+{125}{}{GhoulovÃ© nemohou vstupovat do mÄ›sta!}
+{126}{}{JestliÅ¾e strÃ¡Å¾e uvidÃ­ tvoje ghouly, budeÅ¡ muset odejÃ­t.}
+{127}{}{GhoulovÃ© nejsou trpÄ›ni ve mÄ›stÄ›! MusÃ­Å¡ odejÃ­t!}
+{128}{}{Ano, jsem uÅ¾ sÃ¡m. Otrok v pÅ™idÄ›lovacÃ­m centru mÃ¡ moje dokumenty.}
+{129}{}{ProsÃ­m nechte mÄ› odejÃ­t. Jsem otrok ve Vault City.}
+{130}{}{NalÃ©havÄ› vÃ¡s prosÃ­m: nevidÄ›l jste dvÄ› dÄ›ti... ÄernovlasÃ©...? Byly odvleÄeny s ostatnÃ­mi otroky pÅ™ed dvÄ›ma lety a prodÃ¡ny na sever.}
+{131}{}{ProsÃ­m... S nikÃ½m nesmÃ­m mluvit.}
+{132}{}{JestliÅ¾e mÄ› nÄ›jakÃ½ ObÄan uvidÃ­ mluvit s otrokem, budu potrestÃ¡n.}
+{133}{}{StrÃ¡Å¾e mÄ› udajÃ­, jestliÅ¾e budeÅ¡ pokraÄovat v rozhovoru se mnou.}
+{134}{}{Nemohu s tebou mluvit. MÃ¡m povinnosti.}
+{135}{}{ProsÃ­m tÄ›, jdi slintat nÄ›kam jinam. Nechci mÃ­t Å¾Ã¡dnÃ© problÃ©my.}
+{136}{}{UtÃ©ct? NÃ©, nikdy jsem se nepokouÅ¡el uprchnout odsud. Å½ivot je tady dobrÃ½.}
+{137}{}{ObÄanÃ© mi Å™Ã­kali, kdyÅ¾ budu dost tvrdÄ› pracovat, mohl bych se jednou takÃ© stÃ¡t ObÄanem.}
+{138}{}{ObÄanÃ© nÃ¡s uÄÃ­, Å¾e prÃ¡ce je naÅ¡e vlastnÃ­ odmÄ›na.}
+{139}{}{ObÄanÃ© nÃ¡m Å™Ã­kajÃ­, Å¾e naÅ¡e sluÅ¾by jim nechÃ¡vajÃ­ vÃ­ce Äasu pro dÅ¯leÅ¾itÄ›jÅ¡Ã­ vÄ›ci.}
+{140}{}{Byl jsem Å¡Å¥astnÃ½, Å¾e Vault City potÅ™ebuje otroky. Taky jsem mohl skonÄit v New Reno.}
+{141}{}{Vault City odmÄ›Åˆuje otroky, kteÅ™Ã­ pilnÄ› pracujÃ­ vyÅ¡Å¡Ã­mi pÅ™Ã­dÄ›ly potravin.}
+{142}{}{SlyÅ¡el jsem pÅ™Ã­Å¡ernÃ© vÄ›ci o otrocÃ­ch v New Reno.}
+{143}{}{ObÄanÃ© pÅ™ivedli celÃ½ nÃ¡Å¡ kmen do Vault City, abychom zde slouÅ¾ili }
+{144}{}{ObÄanÃ© mÄ› pÅ™ivedli dovnitÅ™, abych se neflÃ¡kal a uÄÃ­ mÄ› ÄÃ­st.}
+{145}{}{ObÄanÃ© se mnou zachÃ¡zejÃ­ velmi dobÅ™e. JÃ­dlo je tady vynikajÃ­cÃ­.}
+{146}{}{NemÃ¡m povoleno mluvit s lidmi z venkovnÃ­ho svÄ›ta.}
+{147}{}{StÃ½skÃ¡ se mi po mojÃ­ rodinÄ›, vÅ¾dyÅ¥ uÅ¾ je to mnoho let co jsem je nevidÄ›l.}
+{148}{}{Byl jsem odveden z vesnice, kterÃ¡ leÅ¾Ã­ na severu. Å½ivot tady je mnohem lepÅ¡Ã­.}
+{149}{}{PoprvÃ© jsem byl zajat v Denu. MÄ›l jsem kliku, Å¾e jsem skonÄil tady.}
+{150}{}{ObÄas slyÅ¡Ã­m, Å¾e PrvnÃ­ ObÄanka Äas od Äasu ztratÃ­ trpÄ›livost se svÃ½mi otroky.}
+{151}{}{Nemohu s vÃ¡mi mluvit. MusÃ­m pracovat.}
+{152}{}{MusÃ­m do hodiny dokonÄit vÅ¡echny Ãºkoly.}
+{153}{}{MluvenÃ­ s cizinci je proti zÃ¡konÅ¯m.}
+{154}{}{Uprchnout? ProÄ?}
+{155}{}{Ano? Mohu vÃ¡m pomoci?}
+{156}{}{Byl jsem zajat jako otrok uÅ¾ dost dÃ¡vno. StÄ›Å¾Ã­ si to pamatuji.}
+{157}{}{MÄ›l jsem dvÄ› dÄ›ti a byli odvleÄeny na sever. DoufÃ¡m, Å¾e se naÅ¡e cesty zase zkÅ™Ã­Å¾Ã­.}
+{158}{}{OmlouvÃ¡m se, ale nemÃ¡m Äas na rozhovory.}

@@ -1,86 +1,86 @@
-{100}{}{Vidíš docela mladého plešatícího vìdce. Vypadá to, e je soustøedìnı na svou práci.}
+{100}{}{VidÃ­Å¡ docela mladÃ©ho pleÅ¡atÃ­cÃ­ho vÄ›dce. VypadÃ¡ to, Å¾e je soustÅ™edÄ›nÃ½ na svou prÃ¡ci.}
 {101}{}{You see Crockett, the Hubologist scientist.}
-{102}{}{Vidíš pomìrnì mladého plešatícího vìdce. Vypadá jako neupravenı geek.}
-{103}{}{Jo? Co chceš?}
-{104}{}{Á. Em. Hmm.}
-{105}{}{Posílá mì Dr. Jing. Chce nìjaké tvrzené energo zbroje.}
-{106}{}{Mùeš mi vylepšit energo zbroj?}
+{102}{}{VidÃ­Å¡ pomÄ›rnÄ› mladÃ©ho pleÅ¡atÃ­cÃ­ho vÄ›dce. VypadÃ¡ jako neupravenÃ½ geek.}
+{103}{}{Jo? Co chceÅ¡?}
+{104}{}{Ã. Em. Hmm.}
+{105}{}{PosÃ­lÃ¡ mÄ› Dr. Jing. Chce nÄ›jakÃ© tvrzenÃ© energo zbroje.}
+{106}{}{MÅ¯Å¾eÅ¡ mi vylepÅ¡it energo zbroj?}
 {107}{}{Kdo jsi?}
-{108}{}{Co tady dìláš?}
-{109}{}{Nic, díky.}
-{110}{}{Pøísahám, e je tu kadım dnem èím dál tím víc podlidí. Kšá! Kšá!}
+{108}{}{Co tady dÄ›lÃ¡Å¡?}
+{109}{}{Nic, dÃ­ky.}
+{110}{}{PÅ™Ã­sahÃ¡m, Å¾e je tu kaÅ¾dÃ½m dnem ÄÃ­m dÃ¡l tÃ­m vÃ­c podlidÃ­. KÅ¡Ã¡! KÅ¡Ã¡!}
 {111}{}{Chmm.}
-{112}{}{Jo, to mùu, ale co mi za to nabídneš?}
-{113}{}{Dr. Jing je ochoten ti prodat palivo pro vaši vesmírnou loï.}
-{114}{}{Mùu ti za to zaplatit.}
-{115}{}{Nechám tì ít.}
-{116}{}{ádnı. Zapomeò na to.}
+{112}{}{Jo, to mÅ¯Å¾u, ale co mi za to nabÃ­dneÅ¡?}
+{113}{}{Dr. Jing je ochoten ti prodat palivo pro vaÅ¡i vesmÃ­rnou loÄ.}
+{114}{}{MÅ¯Å¾u ti za to zaplatit.}
+{115}{}{NechÃ¡m tÄ› Å¾Ã­t.}
+{116}{}{Å½Ã¡dnÃ½. ZapomeÅˆ na to.}
 {117}{}{I'm Crockett. I'm a scientist and fix-it guy. Can I get back to it?}
-{118}{}{Ne. Mám další otázky.}
-{119}{}{Jo, jistì.}
-{120}{}{Vyvinul jsem novou technologii a na oplátku si mùu uít trochu kultistické lásky, jestli mi rozumíš.}
+{118}{}{Ne. MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
+{119}{}{Jo, jistÄ›.}
+{120}{}{Vyvinul jsem novou technologii a na oplÃ¡tku si mÅ¯Å¾u uÅ¾Ã­t trochu kultistickÃ© lÃ¡sky, jestli mi rozumÃ­Å¡.}
 {121}{}{So you're not a Hubologist?}
-{122}{}{Chápu. Mám další otázky.}
-{123}{}{Ne. Co tím myslíš?}
+{122}{}{ChÃ¡pu. MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
+{123}{}{Ne. Co tÃ­m myslÃ­Å¡?}
 {124}{}{Jakou novou technologii jsi vyvinul?}
-{125}{}{Naprosto jasnì. Zatím.}
-{126}{}{No... to bude *asi* staèit. Dohodnuto. Máš u sebe zbroj, kterou chceš vytvrdit?}
+{125}{}{Naprosto jasnÄ›. ZatÃ­m.}
+{126}{}{No... to bude *asi* staÄit. Dohodnuto. MÃ¡Å¡ u sebe zbroj, kterou chceÅ¡ vytvrdit?}
 {127}{}{Ano.}
 {128}{}{Ne.}
-{129}{}{Skvìlé. Bude tì to stát $10 000 a ani o dolar ménì. Potøebuji nìjaké nové vybavení.}
-{130}{}{$10 000? To je šílené! Tolik penìz nemám!}
-{131}{}{Tak dobøe. Tady jsou.}
-{132}{}{Ještì se vrátím.}
-{133}{}{::vypadá pobavenì:: Vyhrouješ mi snad?}
-{134}{}{Ano. Udìlej to, nebo zemøeš.}
-{135}{}{Ne, jenom si dìlám legraci.}
-{136}{}{Nech ji tady den a já ji pøipravím. Ne pùjdeš, mìl bys vìdìt, e mám materiál pouze na dvì sady zbrojí.}
-{137}{}{Jasnì. Mám další otázky.}
-{138}{}{Pak se vrátím pro tu zbroj.}
-{139}{}{Kdy ji nemáš, tak na ní nemùu pracovat. Vra se, a ji budeš mít.}
-{140}{}{Mám další otázky.}
+{129}{}{SkvÄ›lÃ©. Bude tÄ› to stÃ¡t $10 000 a ani o dolar mÃ©nÄ›. PotÅ™ebuji nÄ›jakÃ© novÃ© vybavenÃ­.}
+{130}{}{$10 000? To je Å¡Ã­lenÃ©! Tolik penÄ›z nemÃ¡m!}
+{131}{}{Tak dobÅ™e. Tady jsou.}
+{132}{}{JeÅ¡tÄ› se vrÃ¡tÃ­m.}
+{133}{}{::vypadÃ¡ pobavenÄ›:: VyhroÅ¾ujeÅ¡ mi snad?}
+{134}{}{Ano. UdÄ›lej to, nebo zemÅ™eÅ¡.}
+{135}{}{Ne, jenom si dÄ›lÃ¡m legraci.}
+{136}{}{Nech ji tady den a jÃ¡ ji pÅ™ipravÃ­m. NeÅ¾ pÅ¯jdeÅ¡, mÄ›l bys vÄ›dÄ›t, Å¾e mÃ¡m materiÃ¡l pouze na dvÄ› sady zbrojÃ­.}
+{137}{}{JasnÄ›. MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
+{138}{}{Pak se vrÃ¡tÃ­m pro tu zbroj.}
+{139}{}{KdyÅ¾ ji nemÃ¡Å¡, tak na nÃ­ nemÅ¯Å¾u pracovat. VraÅ¥ se, aÅ¾ ji budeÅ¡ mÃ­t.}
+{140}{}{MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
 {141}{}{Nashle.}
-{142}{}{::krèí kameny:: Chceš tu zbroj nebo ne? Bude to $10 000 a ani o dolar ménì.}
-{143}{}{Ještì se vrátím.}
-{144}{}{Fajn. Tady máš.}
-{145}{}{Taková zlodìjina. V ádném pøípadì.}
-{146}{}{::dívá se ti do oèí a dojde k názoru, e to myslíš vánì:: Máš u sebe jednu takovou zbroj?}
+{142}{}{::krÄÃ­ kameny:: ChceÅ¡ tu zbroj nebo ne? Bude to $10 000 a ani o dolar mÃ©nÄ›.}
+{143}{}{JeÅ¡tÄ› se vrÃ¡tÃ­m.}
+{144}{}{Fajn. Tady mÃ¡Å¡.}
+{145}{}{TakovÃ¡ zlodÄ›jina. V Å¾Ã¡dnÃ©m pÅ™Ã­padÄ›.}
+{146}{}{::dÃ­vÃ¡ se ti do oÄÃ­ a dojde k nÃ¡zoru, Å¾e to myslÃ­Å¡ vÃ¡Å¾nÄ›:: MÃ¡Å¡ u sebe jednu takovou zbroj?}
 {147}{}{Ano.}
 {148}{}{Ne.}
-{149}{}{::dívá se ti do oèí a dojde k názoru, e blafuješ:: Zkus to, buzno. Budeš mít strá za prdelí a u se nikdy nenauèíš vytvrdit zbroj.}
-{150}{}{Fajn. Chcípni, šprte.}
-{151}{}{Doprdele. Odhalil jsi mùj blaf.}
-{152}{}{Podvodníku. Uvidíme, co na to øeknou stráe.}
-{153}{}{Zatracenì!}
-{154}{}{Tihle lidi neznají opravdovou vìdu. Pomáhám jim v jejich vıstøednosti vımìnou za nìjakı èas s jejich dámami a poøádnı plat.}
-{155}{}{Hmm. Chci se ještì na nìco zeptat.}
-{156}{}{To nezní špatnì. Zatím.}
-{157}{}{Take... postavil jsem nukleární reaktor pro vesmírnou loï, vytvoøil jsem vytvrzující proces pro energo zbroje a opravuji vìci, které jsou rozbité.}
-{158}{}{Chápu. No, mám další otázky.}
-{159}{}{Hmm. Musím jít. Nashle.}
-{160}{}{Hej, nic jsem ti neudìlal. Jenom mi neubliuj.}
-{161}{}{Chci se tì na nìco zeptat.}
+{149}{}{::dÃ­vÃ¡ se ti do oÄÃ­ a dojde k nÃ¡zoru, Å¾e blafujeÅ¡:: Zkus to, buzno. BudeÅ¡ mÃ­t strÃ¡Å¾ za prdelÃ­ a uÅ¾ se nikdy nenauÄÃ­Å¡ vytvrdit zbroj.}
+{150}{}{Fajn. ChcÃ­pni, Å¡prte.}
+{151}{}{Doprdele. Odhalil jsi mÅ¯j blaf.}
+{152}{}{PodvodnÃ­ku. UvidÃ­me, co na to Å™eknou strÃ¡Å¾e.}
+{153}{}{ZatracenÄ›!}
+{154}{}{Tihle lidi neznajÃ­ opravdovou vÄ›du. PomÃ¡hÃ¡m jim v jejich vÃ½stÅ™ednosti vÃ½mÄ›nou za nÄ›jakÃ½ Äas s jejich dÃ¡mami a poÅ™Ã¡dnÃ½ plat.}
+{155}{}{Hmm. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{156}{}{To neznÃ­ Å¡patnÄ›. ZatÃ­m.}
+{157}{}{TakÅ¾e... postavil jsem nukleÃ¡rnÃ­ reaktor pro vesmÃ­rnou loÄ, vytvoÅ™il jsem vytvrzujÃ­cÃ­ proces pro energo zbroje a opravuji vÄ›ci, kterÃ© jsou rozbitÃ©.}
+{158}{}{ChÃ¡pu. No, mÃ¡m dalÅ¡Ã­ otÃ¡zky.}
+{159}{}{Hmm. MusÃ­m jÃ­t. Nashle.}
+{160}{}{Hej, nic jsem ti neudÄ›lal. Jenom mi neubliÅ¾uj.}
+{161}{}{Chci se tÄ› na nÄ›co zeptat.}
 {162}{}{Jsem tu pro tu zbroj.}
-{163}{}{Pøíliš pozdì.}
+{163}{}{PÅ™Ã­liÅ¡ pozdÄ›.}
 {164}{}{Nashle.}
-{165}{}{Ještì to není hotové. Musíš mi dát èas!}
-{166}{}{Fajn. Mám nìjaké otázky.}
-{167}{}{Fajn. Ještì se vrátím.}
-{168}{}{Mám ji pro tebe pøipravenou. Vezmi si ji.}
-{169}{}{Díky. Mám další otázky.}
-{170}{}{Díky.}
-{171}{}{Díky. TEÏ mùeš umøít.}
-{172}{}{Nemám u dost chemikálií. Promiò.}
-{173}{}{Pak mi tedy mùeš odpovìdìt na pár otázek.}
-{174}{}{Pak mùeš umøít.}
+{165}{}{JeÅ¡tÄ› to nenÃ­ hotovÃ©. MusÃ­Å¡ mi dÃ¡t Äas!}
+{166}{}{Fajn. MÃ¡m nÄ›jakÃ© otÃ¡zky.}
+{167}{}{Fajn. JeÅ¡tÄ› se vrÃ¡tÃ­m.}
+{168}{}{MÃ¡m ji pro tebe pÅ™ipravenou. Vezmi si ji.}
+{169}{}{DÃ­ky. MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
+{170}{}{DÃ­ky.}
+{171}{}{DÃ­ky. TEÄ mÅ¯Å¾eÅ¡ umÅ™Ã­t.}
+{172}{}{NemÃ¡m uÅ¾ dost chemikÃ¡liÃ­. PromiÅˆ.}
+{173}{}{Pak mi tedy mÅ¯Å¾eÅ¡ odpovÄ›dÄ›t na pÃ¡r otÃ¡zek.}
+{174}{}{Pak mÅ¯Å¾eÅ¡ umÅ™Ã­t.}
 {175}{}{Aha. Sakra. Nashle.}
-{176}{}{Tak kde je to moje palivo? Slíbil jsi mi palivo, kreténe.}
-{177}{}{Dostaneš ho, neboj. A teï mi odpovìz na pár otázek.}
-{178}{}{No, víš, kašlu na tebe.}
-{179}{}{To byla tvoje poslední slova. STRÁE!}
-{180}{}{Chcípni, kreténe.}
-{181}{}{Doprdele. Mizím odsud.}
-{182}{}{Dobøe, co chceš teï?}
-{183}{}{Jsi u pøipraven zaplatit $10 000?}
-{184}{}{Nech to tady tak den a já to pøipravím. Pamatuj si, e tohle je poslední zbroj, kterou mùu vylepšit.}
-{185}{}{Nazdar, mám pro tebe další zbroj na vylepšení.}
+{176}{}{Tak kde je to moje palivo? SlÃ­bil jsi mi palivo, kretÃ©ne.}
+{177}{}{DostaneÅ¡ ho, neboj. A teÄ mi odpovÄ›z na pÃ¡r otÃ¡zek.}
+{178}{}{No, vÃ­Å¡, kaÅ¡lu na tebe.}
+{179}{}{To byla tvoje poslednÃ­ slova. STRÃÅ½E!}
+{180}{}{ChcÃ­pni, kretÃ©ne.}
+{181}{}{Doprdele. MizÃ­m odsud.}
+{182}{}{DobÅ™e, co chceÅ¡ teÄ?}
+{183}{}{Jsi uÅ¾ pÅ™ipraven zaplatit $10 000?}
+{184}{}{Nech to tady tak den a jÃ¡ to pÅ™ipravÃ­m. Pamatuj si, Å¾e tohle je poslednÃ­ zbroj, kterou mÅ¯Å¾u vylepÅ¡it.}
+{185}{}{Nazdar, mÃ¡m pro tebe dalÅ¡Ã­ zbroj na vylepÅ¡enÃ­.}

@@ -1,56 +1,56 @@
-{100}{}{Poèítaèovı terminál.}
-{101}{}{Je aktivní spoøiè obrazovky.}
-{103}{}{Skynet - Bezpeènostní systémy                                  Vetøelec Patro 2                                                   Aktivování protiopatøení Patro 2                                  Protiopatøení: konec pøenosu!                                  Aktivování automatického opravného systému}
-{104}{}{Skynet - Bezpeènostní systémy                                  Vetøelec Patro 2                                                   Aktivování protiopatøení Patro 2                                  Pokus o pøesmìrování energie do generátoru silovıch polí}
-{105}{}{Skynet - Bezpeènostní systémy                                  Vetøelec Patro 2                                                   Aktivování protiopatøení Patro 2}
-{106}{}{Ukonèit poplach na Patøe 2 - planı poplach.}
-{107}{}{(Všímáš si klávesy s nápisem "HELP".) Stisknout ji.}
-{108}{}{Hacknout se do systému.}
-{109}{}{Pokusit se o vypnutí poplachu.}
+{100}{}{PoÄÃ­taÄovÃ½ terminÃ¡l.}
+{101}{}{Je aktivnÃ­ spoÅ™iÄ obrazovky.}
+{103}{}{Skynet - BezpeÄnostnÃ­ systÃ©my                                  VetÅ™elec Patro 2                                                   AktivovÃ¡nÃ­ protiopatÅ™enÃ­ Patro 2                                  ProtiopatÅ™enÃ­: konec pÅ™enosu!                                  AktivovÃ¡nÃ­ automatickÃ©ho opravnÃ©ho systÃ©mu}
+{104}{}{Skynet - BezpeÄnostnÃ­ systÃ©my                                  VetÅ™elec Patro 2                                                   AktivovÃ¡nÃ­ protiopatÅ™enÃ­ Patro 2                                  Pokus o pÅ™esmÄ›rovÃ¡nÃ­ energie do generÃ¡toru silovÃ½ch polÃ­}
+{105}{}{Skynet - BezpeÄnostnÃ­ systÃ©my                                  VetÅ™elec Patro 2                                                   AktivovÃ¡nÃ­ protiopatÅ™enÃ­ Patro 2}
+{106}{}{UkonÄit poplach na PatÅ™e 2 - planÃ½ poplach.}
+{107}{}{(VÅ¡Ã­mÃ¡Å¡ si klÃ¡vesy s nÃ¡pisem "HELP".) Stisknout ji.}
+{108}{}{Hacknout se do systÃ©mu.}
+{109}{}{Pokusit se o vypnutÃ­ poplachu.}
 {110}{}{Konec.}
-{111}{}{Áááááá! [Zuøivì mlátit do klávesnice]}
-{113}{}{Skynet - Bezpeènostní systémy}
-{114}{}{Skener sítnice aktivován                                            Skenování...                                                            Prohledávám databázi...}
-{115}{}{Aktivace poplašného systému - Patro 2.}
-{116}{}{Spustit autodiagnostickı program.}
+{111}{}{ÃÃ¡Ã¡Ã¡Ã¡Ã¡! [ZuÅ™ivÄ› mlÃ¡tit do klÃ¡vesnice]}
+{113}{}{Skynet - BezpeÄnostnÃ­ systÃ©my}
+{114}{}{Skener sÃ­tnice aktivovÃ¡n                                            SkenovÃ¡nÃ­...                                                            ProhledÃ¡vÃ¡m databÃ¡zi...}
+{115}{}{Aktivace poplaÅ¡nÃ©ho systÃ©mu - Patro 2.}
+{116}{}{Spustit autodiagnostickÃ½ program.}
 {117}{}{Konec.}
-{118}{}{Áááááá! [Zuøivì mlátit do klávesnice]}
-{120}{}{Skynet - Bezpeènostní systémy
-                                  Pøístup k tomuto terminálu zakázán}
+{118}{}{ÃÃ¡Ã¡Ã¡Ã¡Ã¡! [ZuÅ™ivÄ› mlÃ¡tit do klÃ¡vesnice]}
+{120}{}{Skynet - BezpeÄnostnÃ­ systÃ©my
+                                  PÅ™Ã­stup k tomuto terminÃ¡lu zakÃ¡zÃ¡n}
 {122}{}{Konec.}
-{124}{}{Chyba!                                                               ádné programy nejsou dostupné                            Prosím restartujte}
+{124}{}{Chyba!                                                               Å½Ã¡dnÃ© programy nejsou dostupnÃ©                            ProsÃ­m restartujte}
 {126}{}{Konec.}
-{127}{}{Analyzuji pøíkaz, prosím èekejte...
-                              Obcházím uivatelskı pøíkaz
-                                          Pøístup odepøen}
-{128}{}{[Více]}
-{129}{}{K deaktivaci poplachu stisknìte 1                                    Pro diagnostickı program stisknìte 2                             Pro ukonèení stisknìte 3}
+{127}{}{Analyzuji pÅ™Ã­kaz, prosÃ­m Äekejte...
+                              ObchÃ¡zÃ­m uÅ¾ivatelskÃ½ pÅ™Ã­kaz
+                                          PÅ™Ã­stup odepÅ™en}
+{128}{}{[VÃ­ce]}
+{129}{}{K deaktivaci poplachu stisknÄ›te 1                                    Pro diagnostickÃ½ program stisknÄ›te 2                             Pro ukonÄenÃ­ stisknÄ›te 3}
 {130}{}{Stisknout 1.}
 {131}{}{Stisknout 2.}
 {132}{}{Stisknout 3.}
 {133}{}{Konec.}
-{134}{}{Varování! Pro optimální bìh tohoto programu se doporuèuje ukonèit všechny spuštìné procesy. Pøejete si tak nyní uèinit?}
+{134}{}{VarovÃ¡nÃ­! Pro optimÃ¡lnÃ­ bÄ›h tohoto programu se doporuÄuje ukonÄit vÅ¡echny spuÅ¡tÄ›nÃ© procesy. PÅ™ejete si tak nynÃ­ uÄinit?}
 {135}{}{Ano.}
 {136}{}{Ne.}
 {137}{}{Konec.}
-{138}{}{Ukonèení Skynet - Bezpeènostního programu                    Analıza datové struktury...                                  Diagnostika pøerušena                                  Diagnostickı program ukonèen                                  Reinicializace bezpeènostního programu                          Vynulování poplachu                                         Skynet - Bezpeènostní program - Pøipraven}
+{138}{}{UkonÄenÃ­ Skynet - BezpeÄnostnÃ­ho programu                    AnalÃ½za datovÃ© struktury...                                  Diagnostika pÅ™eruÅ¡ena                                  DiagnostickÃ½ program ukonÄen                                  Reinicializace bezpeÄnostnÃ­ho programu                          VynulovÃ¡nÃ­ poplachu                                         Skynet - BezpeÄnostnÃ­ program - PÅ™ipraven}
 {139}{}{Konec.}
-{140}{}{Pøístup odepøen...                                                  Pøístup odepøen...                                                  Pøístup povolen                                                  Ukonèení poplachu Patro 2}
+{140}{}{PÅ™Ã­stup odepÅ™en...                                                  PÅ™Ã­stup odepÅ™en...                                                  PÅ™Ã­stup povolen                                                  UkonÄenÃ­ poplachu Patro 2}
 {141}{}{Konec.}
-{142}{}{Neautorizovanı pøístup                                              Inicializuji bezpeènostní odstavení vzdáleného terminálu}
+{142}{}{NeautorizovanÃ½ pÅ™Ã­stup                                              Inicializuji bezpeÄnostnÃ­ odstavenÃ­ vzdÃ¡lenÃ©ho terminÃ¡lu}
 {143}{}{Konec.}
-{144}{}{Analyzuji pøíkaz, prosím èekejte...                           Ukonèit vše...                                                      Pøerušeno kódem 667 - Skynet                                  Pøístup k tomuto terminálu byl ukonèen.}
+{144}{}{Analyzuji pÅ™Ã­kaz, prosÃ­m Äekejte...                           UkonÄit vÅ¡e...                                                      PÅ™eruÅ¡eno kÃ³dem 667 - Skynet                                  PÅ™Ã­stup k tomuto terminÃ¡lu byl ukonÄen.}
 {145}{}{Konec.}
-{146}{}{Ukonèení diagnostického programu.}
-{147}{}{[Více]}
+{146}{}{UkonÄenÃ­ diagnostickÃ©ho programu.}
+{147}{}{[VÃ­ce]}
 {300}{}{ - ID: }
-{301}{}{                     Poslední pøístup: }
-{303}{}{Desátník Dixon}
-{304}{}{Generál Clifton}
+{301}{}{                     PoslednÃ­ pÅ™Ã­stup: }
+{303}{}{DesÃ¡tnÃ­k Dixon}
+{304}{}{GenerÃ¡l Clifton}
 {305}{}{5. Srpen, 2077}
-{306}{}{ dní.}
-{307}{}{                                             Pozor!!! Vetøelec detekován na patøe }
-{308}{}{                                             Pozor!!! Vetøelec detekován na patrech: }
+{306}{}{ dnÃ­.}
+{307}{}{                                             Pozor!!! VetÅ™elec detekovÃ¡n na patÅ™e }
+{308}{}{                                             Pozor!!! VetÅ™elec detekovÃ¡n na patrech: }
 {309}{}{                               }
 {310}{}{                                             }
 {311}{}{                       }

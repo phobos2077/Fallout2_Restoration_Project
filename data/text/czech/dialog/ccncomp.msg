@@ -1,47 +1,47 @@
-{100}{}{Vidíš poèítaè.}
-{101}{}{Vidíš poèítaè.}
-{102}{}{Vidíš centrální poèítaè základny Navarro.}
-{103}{}{Prosím, vlote heslo.}
+{100}{}{VidÃ­Å¡ poÄÃ­taÄ.}
+{101}{}{VidÃ­Å¡ poÄÃ­taÄ.}
+{102}{}{VidÃ­Å¡ centrÃ¡lnÃ­ poÄÃ­taÄ zÃ¡kladny Navarro.}
+{103}{}{ProsÃ­m, vloÅ¾te heslo.}
 {104}{}{Napsat 'Snookie'.}
-{105}{}{Zapomeò na to mašinko.}
-{106}{}{Kašlu na to.}
-{107}{}{Pokusit se hacknout do systému.}
-{108}{}{Vítejte v Enklávì. Máte limitovanı pøístup do systému. Pro lehèí a pøíjemnìjší pouití byl tento software vybaven základními jazykovımi frázemi. Prosím všechny své poadavky vkládejte formou jednoduchıch vìt.}
-{109}{}{Jak vám mohu pomoci?}
-{110}{}{Kde plány vertibirdu?}
-{111}{}{Kde hlavní základna Enkláva?}
+{105}{}{ZapomeÅˆ na to maÅ¡inko.}
+{106}{}{KaÅ¡lu na to.}
+{107}{}{Pokusit se hacknout do systÃ©mu.}
+{108}{}{VÃ­tejte v EnklÃ¡vÄ›. MÃ¡te limitovanÃ½ pÅ™Ã­stup do systÃ©mu. Pro lehÄÃ­ a pÅ™Ã­jemnÄ›jÅ¡Ã­ pouÅ¾itÃ­ byl tento software vybaven zÃ¡kladnÃ­mi jazykovÃ½mi frÃ¡zemi. ProsÃ­m vÅ¡echny svÃ© poÅ¾adavky vklÃ¡dejte formou jednoduchÃ½ch vÄ›t.}
+{109}{}{Jak vÃ¡m mohu pomoci?}
+{110}{}{Kde plÃ¡ny vertibirdu?}
+{111}{}{Kde hlavnÃ­ zÃ¡kladna EnklÃ¡va?}
 {112}{}{Kde zbrojnice?}
-{113}{}{Kde velitel základny?}
-{114}{}{Myslet to u všechno.}
-{115}{}{Kde se nachází plány vertibirdu?}
-{116}{}{Kde se nachází hlavní základna Enklávy?}
-{117}{}{Kde se nachází zbrojnice?}
-{118}{}{Kde se nachází kanceláø velitele?}
-{119}{}{Myslím, e to bude všechno.}
-{120}{}{Hledám... prohledávám záznamy... data nalezena. Souèasné záznamy indikují, e jedna sada plánù vertibirdu je na skladì. V tomto ètvrtletí byly vyádány 4 kopie plánù vertibirdu. V tomto ètvrtletí byly pøedány 4 kopie plánù vertibirdu. V tomto ètvrtletí byla nahlášena ztráta 6 kopií plánù vertibirdu. Plány vertibirdu jsou umístìny na údrbì.}
-{121}{}{Dobøe. Kde údrba?}
-{122}{}{Fajn. Lokace údrby?}
-{123}{}{Hledám... prohledávám stavební plány základny... data nalezena. Údrba se nachází v pøízemí severovıchodního kvadrantu základny. }
-{124}{}{Díky.}
-{125}{}{Hledám... prohledávám zemìpisné mapy... data nalezena. Hlavní základna Enklávy je lokalizována 175 mil od pobøeí Kalifornie v Tichém oceánu. Koordináty jsou 37 stupòù 18 minut severní zemìpisné šíøky a 120 stupòù 7 minut západní zemìpisné délky.}
+{113}{}{Kde velitel zÃ¡kladny?}
+{114}{}{Myslet to uÅ¾ vÅ¡echno.}
+{115}{}{Kde se nachÃ¡zÃ­ plÃ¡ny vertibirdu?}
+{116}{}{Kde se nachÃ¡zÃ­ hlavnÃ­ zÃ¡kladna EnklÃ¡vy?}
+{117}{}{Kde se nachÃ¡zÃ­ zbrojnice?}
+{118}{}{Kde se nachÃ¡zÃ­ kancelÃ¡Å™ velitele?}
+{119}{}{MyslÃ­m, Å¾e to bude vÅ¡echno.}
+{120}{}{HledÃ¡m... prohledÃ¡vÃ¡m zÃ¡znamy... data nalezena. SouÄasnÃ© zÃ¡znamy indikujÃ­, Å¾e jedna sada plÃ¡nÅ¯ vertibirdu je na skladÄ›. V tomto ÄtvrtletÃ­ byly vyÅ¾Ã¡dÃ¡ny 4 kopie plÃ¡nÅ¯ vertibirdu. V tomto ÄtvrtletÃ­ byly pÅ™edÃ¡ny 4 kopie plÃ¡nÅ¯ vertibirdu. V tomto ÄtvrtletÃ­ byla nahlÃ¡Å¡ena ztrÃ¡ta 6 kopiÃ­ plÃ¡nÅ¯ vertibirdu. PlÃ¡ny vertibirdu jsou umÃ­stÄ›ny na ÃºdrÅ¾bÄ›.}
+{121}{}{DobÅ™e. Kde ÃºdrÅ¾ba?}
+{122}{}{Fajn. Lokace ÃºdrÅ¾by?}
+{123}{}{HledÃ¡m... prohledÃ¡vÃ¡m stavebnÃ­ plÃ¡ny zÃ¡kladny... data nalezena. ÃšdrÅ¾ba se nachÃ¡zÃ­ v pÅ™Ã­zemÃ­ severovÃ½chodnÃ­ho kvadrantu zÃ¡kladny. }
+{124}{}{DÃ­ky.}
+{125}{}{HledÃ¡m... prohledÃ¡vÃ¡m zemÄ›pisnÃ© mapy... data nalezena. HlavnÃ­ zÃ¡kladna EnklÃ¡vy je lokalizovÃ¡na 175 mil od pobÅ™eÅ¾Ã­ Kalifornie v TichÃ©m oceÃ¡nu. KoordinÃ¡ty jsou 37 stupÅˆÅ¯ 18 minut severnÃ­ zemÄ›pisnÃ© Å¡Ã­Å™ky a 120 stupÅˆÅ¯ 7 minut zÃ¡padnÃ­ zemÄ›pisnÃ© dÃ©lky.}
 {126}{}{Co to sakra znamenat?}
-{127}{}{Co k èertu všechny tyhle kecy znamenají?}
-{128}{}{Hledám... prohledávám slovník èeského slangu... data nalezena. Následuje pøeklad: 1) Je to daleko na volném oceánu. 2) Je to daleko od pobøeí Kalifornie. 3) Leí západním smìrem od mìsta San Francisco. 4) Pokud nerozumíte systému zemìpisnıch souøadnic, pak to nenajdete.}
+{127}{}{Co k Äertu vÅ¡echny tyhle kecy znamenajÃ­?}
+{128}{}{HledÃ¡m... prohledÃ¡vÃ¡m slovnÃ­k ÄeskÃ©ho slangu... data nalezena. NÃ¡sleduje pÅ™eklad: 1) Je to daleko na volnÃ©m oceÃ¡nu. 2) Je to daleko od pobÅ™eÅ¾Ã­ Kalifornie. 3) LeÅ¾Ã­ zÃ¡padnÃ­m smÄ›rem od mÄ›sta San Francisco. 4) Pokud nerozumÃ­te systÃ©mu zemÄ›pisnÃ½ch souÅ™adnic, pak to nenajdete.}
 {129}{}{Jak se tam dostat?}
-{130}{}{Jak se tam tedy mùu dostat?}
-{131}{}{Hledám... prohledávám adresáø Transport... data nalezena. Transportní soubory indikují 1,257 metod, jak se dostat na základnu Enklávy. Nicménì záznamy také poukazují na to, e jsou momentálnì k dispozici pouze 2 z tohoto poètu. Zaprvé je to transport vertibirdem ze základny Navarro. Zadruhé je to transport za pomoci lodi z pøístavu v San Franciscu. Prosím, poznamenejte si, e doprava lodí byla oznaèena v našem systému jako nepøístupná z bezpeènostního dùvodu 9837-334-27A. Loï byla zablokována a k jejímu odblokování je zapotøebí pøístupovı klíè. Tento klíè má momentálnì v drení velitel základny Navarro.}
-{132}{}{Dobøe.}
-{133}{}{Chápu.}
-{134}{}{Hledám... prohledávám stavební plány základny... data nalezena. Zbrojnice se nachází v podzemí severozápadního kvadrantu základny.}
-{135}{}{Já rozumìt.}
-{136}{}{Jo, rozumím.}
-{137}{}{Hledám... prohledávám stavební plány základny... data nalezena. Kanceláø velitele základny se nachází v podzemí severovıchodního kvadrantu základny.}
+{130}{}{Jak se tam tedy mÅ¯Å¾u dostat?}
+{131}{}{HledÃ¡m... prohledÃ¡vÃ¡m adresÃ¡Å™ Transport... data nalezena. TransportnÃ­ soubory indikujÃ­ 1,257 metod, jak se dostat na zÃ¡kladnu EnklÃ¡vy. NicmÃ©nÄ› zÃ¡znamy takÃ© poukazujÃ­ na to, Å¾e jsou momentÃ¡lnÄ› k dispozici pouze 2 z tohoto poÄtu. ZaprvÃ© je to transport vertibirdem ze zÃ¡kladny Navarro. ZadruhÃ© je to transport za pomoci lodi z pÅ™Ã­stavu v San Franciscu. ProsÃ­m, poznamenejte si, Å¾e doprava lodÃ­ byla oznaÄena v naÅ¡em systÃ©mu jako nepÅ™Ã­stupnÃ¡ z bezpeÄnostnÃ­ho dÅ¯vodu 9837-334-27A. LoÄ byla zablokovÃ¡na a k jejÃ­mu odblokovÃ¡nÃ­ je zapotÅ™ebÃ­ pÅ™Ã­stupovÃ½ klÃ­Ä. Tento klÃ­Ä mÃ¡ momentÃ¡lnÄ› v drÅ¾enÃ­ velitel zÃ¡kladny Navarro.}
+{132}{}{DobÅ™e.}
+{133}{}{ChÃ¡pu.}
+{134}{}{HledÃ¡m... prohledÃ¡vÃ¡m stavebnÃ­ plÃ¡ny zÃ¡kladny... data nalezena. Zbrojnice se nachÃ¡zÃ­ v podzemÃ­ severozÃ¡padnÃ­ho kvadrantu zÃ¡kladny.}
+{135}{}{JÃ¡ rozumÄ›t.}
+{136}{}{Jo, rozumÃ­m.}
+{137}{}{HledÃ¡m... prohledÃ¡vÃ¡m stavebnÃ­ plÃ¡ny zÃ¡kladny... data nalezena. KancelÃ¡Å™ velitele zÃ¡kladny se nachÃ¡zÃ­ v podzemÃ­ severovÃ½chodnÃ­ho kvadrantu zÃ¡kladny.}
 {138}{}{Fajn.}
-{139}{}{To zní rozumnì.}
-{140}{}{Dìkujeme za pouití EnklávNet. Odhlašuji se... }
+{139}{}{To znÃ­ rozumnÄ›.}
+{140}{}{DÄ›kujeme za pouÅ¾itÃ­ EnklÃ¡vNet. OdhlaÅ¡uji se... }
 {141}{}{Beru.}
-{142}{}{Pøíkaz?}
-{143}{}{V poèítaèovém centru detekován pokus o neautorizovanı pøístup. Poplach. Poplach.}
-{144}{}{Zahájit uvítací program.}
+{142}{}{PÅ™Ã­kaz?}
+{143}{}{V poÄÃ­taÄovÃ©m centru detekovÃ¡n pokus o neautorizovanÃ½ pÅ™Ã­stup. Poplach. Poplach.}
+{144}{}{ZahÃ¡jit uvÃ­tacÃ­ program.}
 {145}{}{A do prdele!}
-{146}{}{Probíhá uzamèení systému.}
+{146}{}{ProbÃ­hÃ¡ uzamÄenÃ­ systÃ©mu.}

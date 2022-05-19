@@ -1,6 +1,6 @@
-{200}{}{Moná se dostanu dolù, kdy k tomuhle pøiváu lano.}
-{201}{}{Nìjaké lano by se teï urèitì hodilo.}
-{300}{}{To u by mohlo fungovat.}
-{301}{}{Lano je u pøivázané.}
-{302}{}{Pøiváeš lano k jedné z vıztuh na vìtráku a zbytek hodíš dolù. Kdy dopadne lano na zem, uslyšíš uchnutí.}
-{400}{}{Vstupuješ do jednoho z ventilaèních systémù v komplexu EPA. Slyšíš cupitání hmyzích noek.}
+{200}{}{MoÅ¾nÃ¡ se dostanu dolÅ¯, kdyÅ¾ k tomuhle pÅ™ivÃ¡Å¾u lano.}
+{201}{}{NÄ›jakÃ© lano by se teÄ urÄitÄ› hodilo.}
+{300}{}{To uÅ¾ by mohlo fungovat.}
+{301}{}{Lano je uÅ¾ pÅ™ivÃ¡zanÃ©.}
+{302}{}{PÅ™ivÃ¡Å¾eÅ¡ lano k jednÃ© z vÃ½ztuh na vÄ›trÃ¡ku a zbytek hodÃ­Å¡ dolÅ¯. KdyÅ¾ dopadne lano na zem, uslyÅ¡Ã­Å¡ Å¾uchnutÃ­.}
+{400}{}{VstupujeÅ¡ do jednoho z ventilaÄnÃ­ch systÃ©mÅ¯ v komplexu EPA. SlyÅ¡Ã­Å¡ cupitÃ¡nÃ­ hmyzÃ­ch noÅ¾ek.}

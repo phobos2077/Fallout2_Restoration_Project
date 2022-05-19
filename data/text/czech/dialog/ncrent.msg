@@ -1,1 +1,1 @@
-{100}{}{Vstupuješ do okrajové èásti obezdìného mìsta New California Republic.}
+{100}{}{VstupujeÅ¡ do okrajovÃ© ÄÃ¡sti obezdÄ›nÃ©ho mÄ›sta New California Republic.}

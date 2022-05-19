@@ -1,3 +1,3 @@
-{100}{}{Vidíš ponièenı pásek.}
-{101}{}{Pip-Boy zobrazuje: Soubor ji existuje. Stahování pøerušeno.}
+{100}{}{VidÃ­Å¡ poniÄenÃ½ pÃ¡sek.}
+{101}{}{Pip-Boy zobrazuje: Soubor jiÅ¾ existuje. StahovÃ¡nÃ­ pÅ™eruÅ¡eno.}
 {102}{}{Pip-Boy zobrazuje: Stahuji data z disku.}

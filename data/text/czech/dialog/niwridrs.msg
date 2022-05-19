@@ -1,4 +1,4 @@
-{200}{}{S vìdomím, e je to Richardova místnost, zaèínáš opatrnì prohledávat skøíò.}
-{201}{}{Hele, co je tohle? Hm, za skøíní leí prázdná nádobka od Jetu.}
-{202}{}{U tady nic není.}
+{200}{}{S vÄ›domÃ­m, Å¾e je to Richardova mÃ­stnost, zaÄÃ­nÃ¡Å¡ opatrnÄ› prohledÃ¡vat skÅ™Ã­Åˆ.}
+{201}{}{Hele, co je tohle? Hm, za skÅ™Ã­nÃ­ leÅ¾Ã­ prÃ¡zdnÃ¡ nÃ¡dobka od Jetu.}
+{202}{}{UÅ¾ tady nic nenÃ­.}
 {250}{}{You found a... clue. Beneath the dresser. In the Wright mansion.}

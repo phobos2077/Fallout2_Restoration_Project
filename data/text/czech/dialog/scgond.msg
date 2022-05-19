@@ -1,9 +1,9 @@
-{100}{}{Vidíš velkého supermutanta.}
+{100}{}{VidÃ­Å¡ velkÃ©ho supermutanta.}
 {101}{}{To je Gond, supermutant.}
-{102}{}{Je to velké, zelené a nevypadá o nic lépe ne ostatní jeho druhu.}
-{103}{}{Hej, øekla ti Elise, e tady mùeš bejt?}
-{104}{}{Ty jseš taky Ranger?}
-{105}{}{Tady nemáš co dìlat.}
-{106}{}{Zdravím pøítele Rangera.}
-{107}{}{Práce Rangerù nikdy nekonèí.}
-{108}{}{Skvìlı zprávy! Naši bratøi Rangeøi vyhladili minulej tejden tábor otrokáøù.}
+{102}{}{Je to velkÃ©, zelenÃ© a nevypadÃ¡ o nic lÃ©pe neÅ¾ ostatnÃ­ jeho druhu.}
+{103}{}{Hej, Å™ekla ti Elise, Å¾e tady mÅ¯Å¾eÅ¡ bejt?}
+{104}{}{Ty jseÅ¡ taky Ranger?}
+{105}{}{Tady nemÃ¡Å¡ co dÄ›lat.}
+{106}{}{ZdravÃ­m pÅ™Ã­tele Rangera.}
+{107}{}{PrÃ¡ce RangerÅ¯ nikdy nekonÄÃ­.}
+{108}{}{SkvÄ›lÃ½ zprÃ¡vy! NaÅ¡i bratÅ™i RangeÅ™i vyhladili minulej tejden tÃ¡bor otrokÃ¡Å™Å¯.}

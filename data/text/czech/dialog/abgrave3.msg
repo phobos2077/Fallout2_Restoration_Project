@@ -1,2 +1,2 @@
-{100}{}{Vidíš náhrobek.}
-{101}{}{Zde leí velkı Per: Autor, tvùrce návodu, sbìratel kamenù. Bohuel zemøel, kdy mu chybìl u jenom jeden kámen. Jeho poslední slova: "U jenom jedna kráde a budu mít všechny kameny ve..."}
+{100}{}{VidÃ­Å¡ nÃ¡hrobek.}
+{101}{}{Zde leÅ¾Ã­ velkÃ½ Per: Autor, tvÅ¯rce nÃ¡vodu, sbÄ›ratel kamenÅ¯. BohuÅ¾el zemÅ™el, kdyÅ¾ mu chybÄ›l uÅ¾ jenom jeden kÃ¡men. Jeho poslednÃ­ slova: "UÅ¾ jenom jedna krÃ¡deÅ¾ a budu mÃ­t vÅ¡echny kameny ve..."}

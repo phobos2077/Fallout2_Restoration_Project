@@ -1,6 +1,6 @@
-{100}{}{Vidíš kupce.}
-{101}{}{Vypadá to, e pomáhá mui, co opravuje vodní pumpu.}
-{102}{}{Trvá to dıl, ne jsme si mysleli.}
-{103}{}{Promluv si se šéfem, jestli si myslíš, e nám dokáeš pomoct.}
-{104}{}{Skvìlá práce s opravou vodní pumpy.}
-{105}{}{Ještì jednou díky za pomoc.}
+{100}{}{VidÃ­Å¡ kupce.}
+{101}{}{VypadÃ¡ to, Å¾e pomÃ¡hÃ¡ muÅ¾i, co opravuje vodnÃ­ pumpu.}
+{102}{}{TrvÃ¡ to dÃ½l, neÅ¾ jsme si mysleli.}
+{103}{}{Promluv si se Å¡Ã©fem, jestli si myslÃ­Å¡, Å¾e nÃ¡m dokÃ¡Å¾eÅ¡ pomoct.}
+{104}{}{SkvÄ›lÃ¡ prÃ¡ce s opravou vodnÃ­ pumpy.}
+{105}{}{JeÅ¡tÄ› jednou dÃ­ky za pomoc.}

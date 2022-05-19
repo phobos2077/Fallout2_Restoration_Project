@@ -1,1 +1,1 @@
-{101}{}{Vıbuch zpùsobil, e se poškozené podpory prolomily a dolù se sesunula lavina kamení.}
+{101}{}{VÃ½buch zpÅ¯sobil, Å¾e se poÅ¡kozenÃ© podpory prolomily a dolÅ¯ se sesunula lavina kamenÃ­.}

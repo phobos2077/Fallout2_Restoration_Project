@@ -1,8 +1,8 @@
-{100}{}{Vidíš poèítaèovı terminál.}
-{101}{}{Vidíš terminál Darionova poèítaèe.}
-{102}{}{Vidíš standardní poèítaèovı terminál. Zdá se bıt funkèní a pøipraven pro zadání vstupních dat.}
-{103}{}{Pøihlásíš se do poèítaèe a rychle prohledáváš všechny dostupné soubory. Mezi nìkterımi osobními záznamy nacházíš nìkolik podrobnıch zpráv o NCR. Vypadá to, e v jejich vedení je špión. Kopíruješ si data na holodisk.}
-{104}{}{Máš problémy s pøístupem do souborù.}
+{100}{}{VidÃ­Å¡ poÄÃ­taÄovÃ½ terminÃ¡l.}
+{101}{}{VidÃ­Å¡ terminÃ¡l Darionova poÄÃ­taÄe.}
+{102}{}{VidÃ­Å¡ standardnÃ­ poÄÃ­taÄovÃ½ terminÃ¡l. ZdÃ¡ se bÃ½t funkÄnÃ­ a pÅ™ipraven pro zadÃ¡nÃ­ vstupnÃ­ch dat.}
+{103}{}{PÅ™ihlÃ¡sÃ­Å¡ se do poÄÃ­taÄe a rychle prohledÃ¡vÃ¡Å¡ vÅ¡echny dostupnÃ© soubory. Mezi nÄ›kterÃ½mi osobnÃ­mi zÃ¡znamy nachÃ¡zÃ­Å¡ nÄ›kolik podrobnÃ½ch zprÃ¡v o NCR. VypadÃ¡ to, Å¾e v jejich vedenÃ­ je Å¡piÃ³n. KopÃ­rujeÅ¡ si data na holodisk.}
+{104}{}{MÃ¡Å¡ problÃ©my s pÅ™Ã­stupem do souborÅ¯.}
 {105}{}{Beru.}
-{106}{}{Kromì informací o špehovi v NCR neobsahuje tento terminál nic zajímavého.}
+{106}{}{KromÄ› informacÃ­ o Å¡pehovi v NCR neobsahuje tento terminÃ¡l nic zajÃ­mavÃ©ho.}
 {107}{}{Beru.}

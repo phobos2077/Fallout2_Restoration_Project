@@ -1,31 +1,31 @@
-{100}{}{Vidíš barmana.}
-{101}{}{Vidíš Slima, barmana.}
-{102}{}{Vidíš barmana. Má na sobì zástìru a v ruce drí sklenici, kterou neustále leští tak, e do ni plive a utírá ji špinavou utìrkou. Vypadá to, e si nenechá jen tak nìco líbit.}
+{100}{}{VidÃ­Å¡ barmana.}
+{101}{}{VidÃ­Å¡ Slima, barmana.}
+{102}{}{VidÃ­Å¡ barmana. MÃ¡ na sobÄ› zÃ¡stÄ›ru a v ruce drÅ¾Ã­ sklenici, kterou neustÃ¡le leÅ¡tÃ­ tak, Å¾e do ni plive a utÃ­rÃ¡ ji Å¡pinavou utÄ›rkou. VypadÃ¡ to, Å¾e si nenechÃ¡ jen tak nÄ›co lÃ­bit.}
 {103}{}{Jmenuju se Slim. Co to bude?}
-{104}{}{Já chtít informace.}
-{105}{}{Co ty mít?}
-{106}{}{Ne, já jít.}
-{107}{}{Chci nìjaké informace.}
-{108}{}{Uka mi co nabízíš.}
-{109}{}{Nic, odcházím.}
-{110}{}{Informace, jo? Nejsem ádná knihovna a tohle není ádná studijní místnost. Buï si tady dej nìco k pití, nebo vypadni. Chceš chlast?}
+{104}{}{JÃ¡ chtÃ­t informace.}
+{105}{}{Co ty mÃ­t?}
+{106}{}{Ne, jÃ¡ jÃ­t.}
+{107}{}{Chci nÄ›jakÃ© informace.}
+{108}{}{UkaÅ¾ mi co nabÃ­zÃ­Å¡.}
+{109}{}{Nic, odchÃ¡zÃ­m.}
+{110}{}{Informace, jo? Nejsem Å¾Ã¡dnÃ¡ knihovna a tohle nenÃ­ Å¾Ã¡dnÃ¡ studijnÃ­ mÃ­stnost. BuÄ si tady dej nÄ›co k pitÃ­, nebo vypadni. ChceÅ¡ chlast?}
 {111}{}{Ano.}
 {112}{}{Ne.}
-{113}{}{Fajn. Jestli tì tohle svinstvo nezabije, tak u nic.}
+{113}{}{Fajn. Jestli tÄ› tohle svinstvo nezabije, tak uÅ¾ nic.}
 {114}{}{}
-{115}{}{Dobøe.}
-{116}{}{U máš dost?}
+{115}{}{DobÅ™e.}
+{116}{}{UÅ¾ mÃ¡Å¡ dost?}
 {117}{}{Ano.}
 {118}{}{Ne.}
-{119}{}{Tak pozdìji.}
+{119}{}{Tak pozdÄ›ji.}
 {120}{}{}
-{121}{}{Dobøe.}
-{122}{}{Vítej zpátky. Chceš další chlast?}
+{121}{}{DobÅ™e.}
+{122}{}{VÃ­tej zpÃ¡tky. ChceÅ¡ dalÅ¡Ã­ chlast?}
 {123}{}{Ano.}
 {124}{}{Ne.}
-{125}{}{Mám zavøeno. Odejdi.}
+{125}{}{MÃ¡m zavÅ™eno. Odejdi.}
 {126}{}{}
-{127}{}{Dobøe.}
-{128}{}{Tobì nic neprodám. Vypadni z mıho obchodu!}
+{127}{}{DobÅ™e.}
+{128}{}{TobÄ› nic neprodÃ¡m. Vypadni z mÃ½ho obchodu!}
 {129}{}{}
-{130}{}{Dobøe.}
+{130}{}{DobÅ™e.}

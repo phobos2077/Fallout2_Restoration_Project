@@ -1,115 +1,115 @@
-{100}{}{Vidíš hrob.}
-{101}{}{Vidíš otevøenı hrob.}
+{100}{}{VidÃ­Å¡ hrob.}
+{101}{}{VidÃ­Å¡ otevÅ™enÃ½ hrob.}
 {102}{}{Hrob.}
-{103}{}{Tento hrob je otevøenı.}
-{150}{}{Tento hrob je zasypanı.}
-{151}{}{Tento hrob je otevøenı.}
-{200}{}{Vidíš náhrobek.}
-{201}{}{Vidíš náhrobek.}
-{250}{}{Na tomto náhrobku není nic vyryto.}
-{251}{}{Jméno na tomto náhrobku je seškrabáno.}
-{252}{}{Na náhrobku je jméno John Doe.}
-{253}{}{Jméno a datum na tomto køíi je zašlé vlivem poèasí.}
-{260}{}{Na tomto køíi není nic vyryto.}
-{261}{}{Jméno na tomto køíi je seškrabáno.}
-{262}{}{Na køíi je jméno John Doe.}
-{263}{}{Jméno a datum na tomto køíi je zašlé vlivem poèasí.}
-{275}{}{Na náhrobku stojí: }
-{276}{}{Na køíi stojí: }
-{300}{}{"Zde leí Chris Avellone, Král parketu."}
-{301}{}{"Chris Jones. Noèní pták."}
-{302}{}{"Christopher Michael Holland, neboli 'Chris Holland', neboli 'Chris': Ke ètení tohoto náhrobku jsou dva a pùl dùvodu... obvykle se èeká, e budou ty dùvody uvedeny."}
+{103}{}{Tento hrob je otevÅ™enÃ½.}
+{150}{}{Tento hrob je zasypanÃ½.}
+{151}{}{Tento hrob je otevÅ™enÃ½.}
+{200}{}{VidÃ­Å¡ nÃ¡hrobek.}
+{201}{}{VidÃ­Å¡ nÃ¡hrobek.}
+{250}{}{Na tomto nÃ¡hrobku nenÃ­ nic vyryto.}
+{251}{}{JmÃ©no na tomto nÃ¡hrobku je seÅ¡krabÃ¡no.}
+{252}{}{Na nÃ¡hrobku je jmÃ©no John Doe.}
+{253}{}{JmÃ©no a datum na tomto kÅ™Ã­Å¾i je zaÅ¡lÃ© vlivem poÄasÃ­.}
+{260}{}{Na tomto kÅ™Ã­Å¾i nenÃ­ nic vyryto.}
+{261}{}{JmÃ©no na tomto kÅ™Ã­Å¾i je seÅ¡krabÃ¡no.}
+{262}{}{Na kÅ™Ã­Å¾i je jmÃ©no John Doe.}
+{263}{}{JmÃ©no a datum na tomto kÅ™Ã­Å¾i je zaÅ¡lÃ© vlivem poÄasÃ­.}
+{275}{}{Na nÃ¡hrobku stojÃ­: }
+{276}{}{Na kÅ™Ã­Å¾i stojÃ­: }
+{300}{}{"Zde leÅ¾Ã­ Chris Avellone, KrÃ¡l parketu."}
+{301}{}{"Chris Jones. NoÄnÃ­ ptÃ¡k."}
+{302}{}{"Christopher Michael Holland, neboli 'Chris Holland', neboli 'Chris': Ke ÄtenÃ­ tohoto nÃ¡hrobku jsou dva a pÅ¯l dÅ¯vodu... obvykle se ÄekÃ¡, Å¾e budou ty dÅ¯vody uvedeny."}
 {303}{}{"Colin McComb: Another pointless life."}
-{304}{}{"David Hendee: Nejhlasitìjší mezi mrtvımi. A odpoèívá v pokoji, a tiše."}
-{305}{}{"Ed Hyland. Øekl svìtu, a mu políbí..."}
-{306}{}{"Eric Demilt. OPRAVDOVİ bojovnı hoch."}
-{307}{}{"Feargus Urquhart: Jeden zatracenı seznam byl pro nìj moc."}
-{308}{}{"Fred Hatch. Zemøel pøi nahrávání Myronova hlasu."}
-{309}{}{"Gary Platner. Zabit kvùli tomu, e nevytvoøil víc modelù obyvatel Vaultu."}
-{310}{}{"Jason Anderson: U není ivoucí bùh."}
+{304}{}{"David Hendee: NejhlasitÄ›jÅ¡Ã­ mezi mrtvÃ½mi. AÅ¥ odpoÄÃ­vÃ¡ v pokoji, a tiÅ¡e."}
+{305}{}{"Ed Hyland. Å˜ekl svÄ›tu, aÅ¥ mu polÃ­bÃ­..."}
+{306}{}{"Eric Demilt. OPRAVDOVÃ bojovnÃ½ hoch."}
+{307}{}{"Feargus Urquhart: Jeden zatracenÃ½ seznam byl pro nÄ›j moc."}
+{308}{}{"Fred Hatch. ZemÅ™el pÅ™i nahrÃ¡vÃ¡nÃ­ Myronova hlasu."}
+{309}{}{"Gary Platner. Zabit kvÅ¯li tomu, Å¾e nevytvoÅ™il vÃ­c modelÅ¯ obyvatel Vaultu."}
+{310}{}{"Jason Anderson: UÅ¾ nenÃ­ Å¾ivoucÃ­ bÅ¯h."}
 {311}{}{"Jason G. Suinn."}
 {312}{}{"Jason Taylor."}
-{313}{}{"Jeremy Barnes. Malá plešatá opièka z Black Isle."}
-{314}{}{"Jesse Reynolds. Mìl rád zázvorové sušenky. A moc."}
+{313}{}{"Jeremy Barnes. MalÃ¡ pleÅ¡atÃ¡ opiÄka z Black Isle."}
+{314}{}{"Jesse Reynolds. MÄ›l rÃ¡d zÃ¡zvorovÃ© suÅ¡enky. AÅ¾ moc."}
 {315}{}{"John Deiley."}
 {316}{}{"John Price."}
-{317}{}{"Leonard Boyarski. Vyhnán z Vault City."}
-{318}{}{"Rupert Dinkos, zemøel v zimì '00."}
-{319}{}{"Matt Norton. Mohl bıt nìkdo. Mohl bıt boss a ne takovı pobuda... kterım pøesnì byl."}
+{317}{}{"Leonard Boyarski. VyhnÃ¡n z Vault City."}
+{318}{}{"Rupert Dinkos, zemÅ™el v zimÄ› '00."}
+{319}{}{"Matt Norton. Mohl bÃ½t nÄ›kdo. Mohl bÃ½t boss a ne takovÃ½ pobuda... kterÃ½m pÅ™esnÄ› byl."}
 {320}{}{"Nick Kesting." [There's a small bucket of round copper slugs on top.]}
-{321}{}{"Robert Collier. Tichı. Smrtelnı. Chmaták."}
-{322}{}{"Robert Hertenstein 2. Jeho doktor mu to chtìl øíct, ale on trval na tom, e 'To je na mì moc informací.'"}
-{323}{}{"Scott Cambell. Polévku ne."}
-{324}{}{"Zde leí Scott Everts. Pozdì do práce. Pozdì do ivota."}
-{325}{}{"Scott Rodenhizer. Vytvoøil 3D hlavy."}
-{326}{}{"Thomas French: Zemøel pøi pokusu ovládnout Flying Quillotine."}
-{327}{}{"Tim Cain. Zakladatel, Milenec, Bojovník, Programátor."}
+{321}{}{"Robert Collier. TichÃ½. SmrtelnÃ½. ChmatÃ¡k."}
+{322}{}{"Robert Hertenstein 2. Jeho doktor mu to chtÄ›l Å™Ã­ct, ale on trval na tom, Å¾e 'To je na mÄ› moc informacÃ­.'"}
+{323}{}{"Scott Cambell. PolÃ©vku ne."}
+{324}{}{"Zde leÅ¾Ã­ Scott Everts. PozdÄ› do prÃ¡ce. PozdÄ› do Å¾ivota."}
+{325}{}{"Scott Rodenhizer. VytvoÅ™il 3D hlavy."}
+{326}{}{"Thomas French: ZemÅ™el pÅ™i pokusu ovlÃ¡dnout Flying Quillotine."}
+{327}{}{"Tim Cain. Zakladatel, Milenec, BojovnÃ­k, ProgramÃ¡tor."}
 {328}{}{"Tramell Ray Isaac: Hear lies one of the hardest working men in this business. Animator extraordinare(sp?). I think. R.I.P. T.Ray."}
 {329}{}{"Zeb -- Still Older Than Dirt."}
-{330}{}{"Dennis Presnell. Jako bychom ho teï slyšeli øíkat: 'Tomu øíkáte pohøeb?! Vdy stál za hovno! Chlapi, vy jste hrozní k!@oti! U radši nikdy nezemøu! Bla bla bla...'" Pod tím je naèmáráno: "Odpoèívej 'ubreèenı' Dennisi, a dr hubu."}
+{330}{}{"Dennis Presnell. Jako bychom ho teÄ slyÅ¡eli Å™Ã­kat: 'Tomu Å™Ã­kÃ¡te pohÅ™eb?! VÅ¾dyÅ¥ stÃ¡l za hovno! Chlapi, vy jste hroznÃ­ k!@oti! UÅ¾ radÅ¡i nikdy nezemÅ™u! Bla bla bla...'" Pod tÃ­m je naÄmÃ¡rÃ¡no: "OdpoÄÃ­vej 'ubreÄenÃ½' Dennisi, a drÅ¾ hubu."}
 {331}{}{"Rupert Diukos, died 9/24/96."}
 {332}{}{"Sal De Ban, died 9/24/96."}
 {333}{}{"Greg Zeschule, Fall '99."}
 {334}{}{"Ray Muzyka, Summer '98."}
-{335}{}{"Evan Chantland, 74-??: Nebyl paranoidní, opravdu po nìm šli."}
-{336}{}{"Zde leí Moose, studenı a mrtvı. Našli jsme ho tu... bez hlavy."}
+{335}{}{"Evan Chantland, 74-??: Nebyl paranoidnÃ­, opravdu po nÄ›m Å¡li."}
+{336}{}{"Zde leÅ¾Ã­ Moose, studenÃ½ a mrtvÃ½. NaÅ¡li jsme ho tu... bez hlavy."}
 {337}{}{"Amy Presnell."}
-{338}{}{"Stephen Bokkes, vìk 25. V mládí se nechal prostøílet a probodat šípy od té ohavné štìstìny." }
-{339}{}{"Odpoèívej v pokoji. Doug "Lebkoun" Finch (Datum není dùleité) Zabit za kouøení ve French Market. Jeho poslední slova: Aby vás osel nakop!'"}
-{340}{}{"Zde leí Donnie Cornwell, dobrı a mrtvı mu. Ve speciální rakvi, do které se vešla jeho supervelká makovice."}
-{341}{}{"Rob Giampa il svùj ivot stejnì jako miloval eny: rychle, levnì a snadno."}
-{342}{}{"T. D. Hamilton: Zde leí ten parchant, kterı mìl umøít mnohem, mnohem døív. Odpoèívej v Pekle, KRETÉNE!"}
-{343}{}{"Další z obìtí uzávìrky."}
-{344}{}{"Pes je mrtev. A ije Pes."}
+{338}{}{"Stephen Bokkes, vÄ›k 25. V mlÃ¡dÃ­ se nechal prostÅ™Ã­let a probodat Å¡Ã­py od tÃ© ohavnÃ© Å¡tÄ›stÄ›ny." }
+{339}{}{"OdpoÄÃ­vej v pokoji. Doug "Lebkoun" Finch (Datum nenÃ­ dÅ¯leÅ¾itÃ©) Zabit za kouÅ™enÃ­ ve French Market. Jeho poslednÃ­ slova: Aby vÃ¡s osel nakop!'"}
+{340}{}{"Zde leÅ¾Ã­ Donnie Cornwell, dobrÃ½ a mrtvÃ½ muÅ¾. Ve speciÃ¡lnÃ­ rakvi, do kterÃ© se veÅ¡la jeho supervelkÃ¡ makovice."}
+{341}{}{"Rob Giampa Å¾il svÅ¯j Å¾ivot stejnÄ› jako miloval Å¾eny: rychle, levnÄ› a snadno."}
+{342}{}{"T. D. Hamilton: Zde leÅ¾Ã­ ten parchant, kterÃ½ mÄ›l umÅ™Ã­t mnohem, mnohem dÅ™Ã­v. OdpoÄÃ­vej v Pekle, KRETÃ‰NE!"}
+{343}{}{"DalÅ¡Ã­ z obÄ›tÃ­ uzÃ¡vÄ›rky."}
+{344}{}{"Pes je mrtev. AÅ¥ Å¾ije Pes."}
 {345}{}{"Kris Snider: Too competitive."}
-{346}{}{"Dìláš ve svém ivotì taky nìco uiteèného?"}
-{347}{}{"Proè se prostì rovnou nezabiješ a neušetøíš tím nìkomu práci?"}
-{348}{}{"Charles Cuevas: Jednou øekl: 'Chci hokej nebo smrt!' Hokej nedostal."}
+{346}{}{"DÄ›lÃ¡Å¡ ve svÃ©m Å¾ivotÄ› taky nÄ›co uÅ¾iteÄnÃ©ho?"}
+{347}{}{"ProÄ se prostÄ› rovnou nezabijeÅ¡ a neuÅ¡etÅ™Ã­Å¡ tÃ­m nÄ›komu prÃ¡ci?"}
+{348}{}{"Charles Cuevas: Jednou Å™ekl: 'Chci hokej nebo smrt!' Hokej nedostal."}
 {349}{}{"William Lebus."}
-{350}{}{"Reg Arnedo: na chodbách stále slyšíme jeho hlas."}
+{350}{}{"Reg Arnedo: na chodbÃ¡ch stÃ¡le slyÅ¡Ã­me jeho hlas."}
 {351}{}{"Shanna SanPaolo."}
 {352}{}{"Brahmin Wrangler."}
-{353}{}{"Josh Walters, 1971-2011. Zemøel na následek komplikací pøi páté transplantaci jater."}
-{354}{}{"Doug Avery. Nesnášel válku za to, e znièila jeho ivotní styl obytnıch pøívìsù stojících v parku."}
-{355}{}{"Zde leí Ezekial Aikle, vìk 102. Dobøí lidé umírají mladí."}
-{356}{}{"Zde leí Anna Muzat - ila jako stará panna a zemøela jako stará muatka. 8. Prosinec, 1767."}
-{357}{}{"Dìti Izraele chtìli chléb a bùh jim seslal manu. Starı úøedník Wallace chtìl enu a ïábel mu seslal Annu."}
-{358}{}{"To je Johnny Yeast. Omluvte ho, e pøi vašem pøíchodu zùstane leet."}
-{359}{}{"Zde leí tìlo Jonathana Ozdy - sešlápl plyn místo brzdy."}
-{360}{}{"Zde leí Butch, kterého jsme pohøbili tak, jak zemøel. Rychle maèkal spouš, ale pomalu tasil."}
-{361}{}{"Na památku mého manela Johna Barnese, kterı zemøel 3. ledna 1803. Milá a mladá vdova, vìk 23, která dovede bıt dobrou manelkou, hledá nìkoho, kdo by ji utìšoval."}
-{362}{}{"Zde leí Sir John Divnı. Byl to èestnı právník a to je Divnı."}
-{363}{}{"Byl jsem nìkdo. Kdo, po tom ti nic není."}
-{364}{}{"Zde leí Lester Moore se ètyømi prùstøely z .44. Nic víc, nic míò."}
-{365}{}{"Øíkal jsem, e jsem nemocnı!"}
-{366}{}{"Touíš-li mít spoustu penìz, kopej 4 stopy do hloubky a moná tam najdeš penci."}
-{367}{}{"Vdycky øíkala, e jí ta bolest nohou snad zabije, ale nikdo jí nevìøil."}
-{368}{}{"Dvaadvacátého èervna byl Jonathan Housle rozladìn."}
-{369}{}{"Zde leí tìlo naší Anny, jen dojela na banány. Nebylo to samotné ovoce, které ji zabilo, nıbr slupka, po které uklouzla."}
-{370}{}{"Tom Dalekı je dnes tak daleko, e u se nevrátí."}
-{371}{}{"Na památku malého Chrise Woody: Och, jak je nám líto Woody. Dali jsme ti tvoje chùdy, a netrpí tvoje údy. Škoda, e jsi spadl z té pùdy.}
-{372}{}{"Zde pod drnem a pod stromy leí tìlo Viléma Pohromy. Za ivota to byl klasa. Bùh je nyní jeho spása."}
+{353}{}{"Josh Walters, 1971-2011. ZemÅ™el na nÃ¡sledek komplikacÃ­ pÅ™i pÃ¡tÃ© transplantaci jater."}
+{354}{}{"Doug Avery. NesnÃ¡Å¡el vÃ¡lku za to, Å¾e zniÄila jeho Å¾ivotnÃ­ styl obytnÃ½ch pÅ™Ã­vÄ›sÅ¯ stojÃ­cÃ­ch v parku."}
+{355}{}{"Zde leÅ¾Ã­ Ezekial Aikle, vÄ›k 102. DobÅ™Ã­ lidÃ© umÃ­rajÃ­ mladÃ­."}
+{356}{}{"Zde leÅ¾Ã­ Anna Muzat - Å¾ila jako starÃ¡ panna a zemÅ™ela jako starÃ¡ muÅ¾atka. 8. Prosinec, 1767."}
+{357}{}{"DÄ›ti Izraele chtÄ›li chlÃ©b a bÅ¯h jim seslal manu. StarÃ½ ÃºÅ™ednÃ­k Wallace chtÄ›l Å¾enu a ÄÃ¡bel mu seslal Annu."}
+{358}{}{"To je Johnny Yeast. Omluvte ho, Å¾e pÅ™i vaÅ¡em pÅ™Ã­chodu zÅ¯stane leÅ¾et."}
+{359}{}{"Zde leÅ¾Ã­ tÄ›lo Jonathana Ozdy - seÅ¡lÃ¡pl plyn mÃ­sto brzdy."}
+{360}{}{"Zde leÅ¾Ã­ Butch, kterÃ©ho jsme pohÅ™bili tak, jak zemÅ™el. Rychle maÄkal spouÅ¡Å¥, ale pomalu tasil."}
+{361}{}{"Na pamÃ¡tku mÃ©ho manÅ¾ela Johna Barnese, kterÃ½ zemÅ™el 3. ledna 1803. MilÃ¡ a mladÃ¡ vdova, vÄ›k 23, kterÃ¡ dovede bÃ½t dobrou manÅ¾elkou, hledÃ¡ nÄ›koho, kdo by ji utÄ›Å¡oval."}
+{362}{}{"Zde leÅ¾Ã­ Sir John DivnÃ½. Byl to ÄestnÃ½ prÃ¡vnÃ­k a to je DivnÃ½."}
+{363}{}{"Byl jsem nÄ›kdo. Kdo, po tom ti nic nenÃ­."}
+{364}{}{"Zde leÅ¾Ã­ Lester Moore se ÄtyÅ™mi prÅ¯stÅ™ely z .44. Nic vÃ­c, nic mÃ­Åˆ."}
+{365}{}{"Å˜Ã­kal jsem, Å¾e jsem nemocnÃ½!"}
+{366}{}{"TouÅ¾Ã­Å¡-li mÃ­t spoustu penÄ›z, kopej 4 stopy do hloubky a moÅ¾nÃ¡ tam najdeÅ¡ penci."}
+{367}{}{"VÅ¾dycky Å™Ã­kala, Å¾e jÃ­ ta bolest nohou snad zabije, ale nikdo jÃ­ nevÄ›Å™il."}
+{368}{}{"DvaadvacÃ¡tÃ©ho Äervna byl Jonathan Housle rozladÄ›n."}
+{369}{}{"Zde leÅ¾Ã­ tÄ›lo naÅ¡Ã­ Anny, jenÅ¾ dojela na banÃ¡ny. Nebylo to samotnÃ© ovoce, kterÃ© ji zabilo, nÃ½brÅ¾ slupka, po kterÃ© uklouzla."}
+{370}{}{"Tom DalekÃ½ je dnes tak daleko, Å¾e uÅ¾ se nevrÃ¡tÃ­."}
+{371}{}{"Na pamÃ¡tku malÃ©ho Chrise Woody: Och, jak je nÃ¡m lÃ­to Woody. Dali jsme ti tvoje chÅ¯dy, aÅ¥ netrpÃ­ tvoje Ãºdy. Å koda, Å¾e jsi spadl z tÃ© pÅ¯dy.}
+{372}{}{"Zde pod drnem a pod stromy leÅ¾Ã­ tÄ›lo VilÃ©ma Pohromy. Za Å¾ivota to byl klasa. BÅ¯h je nynÃ­ jeho spÃ¡sa."}
 {373}{}{"Who was fatally burned March 21, 1870 by the explosion of a lamp filled with "R.E. Danforth's Non-Explosive Burning Fluid"."}
-{374}{}{"Narozen 1903 -- zemøel 1942. Díval se do vıtahové šachty, aby zjistil, jestli u jede dolù kabina. Jela."}
-{375}{}{"Zde leí ateista. Celı vystrojenı a nemá kam jít."}
+{374}{}{"Narozen 1903 -- zemÅ™el 1942. DÃ­val se do vÃ½tahovÃ© Å¡achty, aby zjistil, jestli uÅ¾ jede dolÅ¯ kabina. Jela."}
+{375}{}{"Zde leÅ¾Ã­ ateista. CelÃ½ vystrojenÃ½ a nemÃ¡ kam jÃ­t."}
 {376}{}{"Eileen Suh: Went to W&M Law School, Now it's Eileen Sue."}
-{377}{}{"Sarah Smart: Øeèník, Autorka, Profesorka. Znala cenu pøátelství."}
+{377}{}{"Sarah Smart: Å˜eÄnÃ­k, Autorka, Profesorka. Znala cenu pÅ™Ã¡telstvÃ­."}
 {378}{}{"Tim Winkle - I abide no hypocrisy but my own."}
 {379}{}{"Jughead - King of Queen Archie's World."}
 {380}{}{"R.I.P Casey Donahue. Died 8/6/98. Killed by Mutated Ill-Tempered Sea Bass."}
 {381}{}{"Christopher 'Nightwing' Jones: administrator of the mushroom bruise."}
-{382}{}{"Jay "Bramborová noha" Nielson. Hudebník. Zemøel ve vìku 104 let, pøi bubnovém sólu."}
-{383}{}{"Nitsa - pøíèina toho, proè Charles nikdy nepochopil hokej."}
-{384}{}{"Thuy Dang. Bùh se smiluj nad jeho jménem."}
-{500}{}{Zkušenì umisuješ past na hrob.}
-{501}{}{Nepovedlo se ti umístit past na hrob.}
-{510}{}{ zkušenì umisuje past na hrob.}
-{511}{}{ nedokáe umístit past na hrob.}
-{515}{}{Na hrobì objevuješ past.}
-{516}{}{Na hrobì neobjevuješ ádné pasti.}
-{520}{}{ objevuje na hrobì past.}
-{521}{}{ neobjevuje na hrobì ádné pasti.}
-{525}{}{Zkušenì odstraòuješ past.}
+{382}{}{"Jay "BramborovÃ¡ noha" Nielson. HudebnÃ­k. ZemÅ™el ve vÄ›ku 104 let, pÅ™i bubnovÃ©m sÃ³lu."}
+{383}{}{"Nitsa - pÅ™Ã­Äina toho, proÄ Charles nikdy nepochopil hokej."}
+{384}{}{"Thuy Dang. BÅ¯h se smiluj nad jeho jmÃ©nem."}
+{500}{}{ZkuÅ¡enÄ› umisÅ¥ujeÅ¡ past na hrob.}
+{501}{}{Nepovedlo se ti umÃ­stit past na hrob.}
+{510}{}{ zkuÅ¡enÄ› umisÅ¥uje past na hrob.}
+{511}{}{ nedokÃ¡Å¾e umÃ­stit past na hrob.}
+{515}{}{Na hrobÄ› objevujeÅ¡ past.}
+{516}{}{Na hrobÄ› neobjevujeÅ¡ Å¾Ã¡dnÃ© pasti.}
+{520}{}{ objevuje na hrobÄ› past.}
+{521}{}{ neobjevuje na hrobÄ› Å¾Ã¡dnÃ© pasti.}
+{525}{}{ZkuÅ¡enÄ› odstraÅˆujeÅ¡ past.}
 {526}{}{Nepovedlo se ti odstranit past.}
-{530}{}{ zkušenì odstraòuje past.}
-{531}{}{ nedokáe odstranit past.}
+{530}{}{ zkuÅ¡enÄ› odstraÅˆuje past.}
+{531}{}{ nedokÃ¡Å¾e odstranit past.}

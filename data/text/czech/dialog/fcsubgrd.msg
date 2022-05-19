@@ -1,6 +1,6 @@
-{100}{}{Vidíš strá ve volnìjším obleèení. Vypadá ostraitì, ale zároveò znudìnì.}
-{101}{}{Nevypadá to, e by tu chtìl bıt.}
-{150}{}{Eh, proè se tady plííš?}
-{151}{}{Ty jsi nìjakı špión nebo co?}
-{200}{}{Tahle vìc mi poøád nahání husí kùi.}
-{201}{}{Pøestaò mì otravovat, lao wai.}
+{100}{}{VidÃ­Å¡ strÃ¡Å¾ ve volnÄ›jÅ¡Ã­m obleÄenÃ­. VypadÃ¡ ostraÅ¾itÄ›, ale zÃ¡roveÅˆ znudÄ›nÄ›.}
+{101}{}{NevypadÃ¡ to, Å¾e by tu chtÄ›l bÃ½t.}
+{150}{}{Eh, proÄ se tady plÃ­Å¾Ã­Å¡?}
+{151}{}{Ty jsi nÄ›jakÃ½ Å¡piÃ³n nebo co?}
+{200}{}{Tahle vÄ›c mi poÅ™Ã¡d nahÃ¡nÃ­ husÃ­ kÅ¯Å¾i.}
+{201}{}{PÅ™estaÅˆ mÄ› otravovat, lao wai.}

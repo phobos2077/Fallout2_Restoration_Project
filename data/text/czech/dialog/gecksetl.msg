@@ -1,1 +1,1 @@
-{100}{}{Nacházíš se v osadì jménem Gecko.}
+{100}{}{NachÃ¡zÃ­Å¡ se v osadÄ› jmÃ©nem Gecko.}

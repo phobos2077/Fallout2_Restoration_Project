@@ -1,32 +1,32 @@
-{100}{}{Vidíš boxera.}
-{101}{}{Vidíš Evana Hollyfielda.}
-{150}{}{Vidíš zavalitého èernocha se silnou hranatou èelistí. Jeho uši vypadají, jako by je nìkdo hroznì sevıkal.}
-{151}{}{Jeho uši vypadají, jako by je nìkdo hroznì sevıkal.}
-{152}{}{Jeho uši vypadají, jako by je nìkdo hroznì sevıkal.}
+{100}{}{VidÃ­Å¡ boxera.}
+{101}{}{VidÃ­Å¡ Evana Hollyfielda.}
+{150}{}{VidÃ­Å¡ zavalitÃ©ho Äernocha se silnou hranatou ÄelistÃ­. Jeho uÅ¡i vypadajÃ­, jako by je nÄ›kdo hroznÄ› seÅ¾vÃ½kal.}
+{151}{}{Jeho uÅ¡i vypadajÃ­, jako by je nÄ›kdo hroznÄ› seÅ¾vÃ½kal.}
+{152}{}{Jeho uÅ¡i vypadajÃ­, jako by je nÄ›kdo hroznÄ› seÅ¾vÃ½kal.}
 {200}{}{Hnffff}
 {201}{}{Hnrrgggg}
-{202}{}{::Skuhrá a mne si uši::}
+{202}{}{::SkuhrÃ¡ a mne si uÅ¡i::}
 {203}{}{::Protahuje se::}
-{300}{}{::Zakrıvá si uši a upøenì tì pozoruje::}
-{301}{}{Já rád hlavièka.}
-{302}{}{Já a Mike my hlavièky.}
-{303}{}{Já hlavièka Mike a on ukousnout moje ucha.}
-{304}{}{Mike ukousnout moje ucha paè on velkı hlad.}
-{305}{}{Já neslyšet dobøe.}
-{306}{}{::Drbe si pahıl místo ucha::}
+{300}{}{::ZakrÃ½vÃ¡ si uÅ¡i a upÅ™enÄ› tÄ› pozoruje::}
+{301}{}{JÃ¡ rÃ¡d hlaviÄka.}
+{302}{}{JÃ¡ a Mike my hlaviÄky.}
+{303}{}{JÃ¡ hlaviÄka Mike a on ukousnout moje ucha.}
+{304}{}{Mike ukousnout moje ucha paÄ on velkÃ½ hlad.}
+{305}{}{JÃ¡ neslyÅ¡et dobÅ™e.}
+{306}{}{::Drbe si pahÃ½l mÃ­sto ucha::}
 {307}{}{He?}
-{308}{}{Coe? Já ty neslyšet.}
-{309}{}{Ucho dneska, zejtra fuè.}
+{308}{}{CoÅ¾e? JÃ¡ ty neslyÅ¡et.}
+{309}{}{Ucho dneska, zejtra fuÄ.}
 {310}{}{Ty kousat?}
-{311}{}{Nazdár voòavá osoba.}
-{312}{}{Nazdár enská osoba.}
-{313}{}{Chtít hlavièka?}
-{314}{}{Já rád hlavièka.}
-{315}{}{Já a Mike my hlavièky.}
-{316}{}{Já hlavièka Mike a on ukousnout moje ucha.}
-{317}{}{Mike ukousnout moje ucha paè on velkı hlad.}
-{318}{}{Já neslyšet dobøe.}
-{319}{}{::Drbe si pahıl místo ucha::}
+{311}{}{NazdÃ¡r voÅˆavÃ¡ osoba.}
+{312}{}{NazdÃ¡r Å¾enskÃ¡ osoba.}
+{313}{}{ChtÃ­t hlaviÄka?}
+{314}{}{JÃ¡ rÃ¡d hlaviÄka.}
+{315}{}{JÃ¡ a Mike my hlaviÄky.}
+{316}{}{JÃ¡ hlaviÄka Mike a on ukousnout moje ucha.}
+{317}{}{Mike ukousnout moje ucha paÄ on velkÃ½ hlad.}
+{318}{}{JÃ¡ neslyÅ¡et dobÅ™e.}
+{319}{}{::Drbe si pahÃ½l mÃ­sto ucha::}
 {320}{}{He?}
-{321}{}{Coe? Já ty neslyšet.}
-{322}{}{Ucho dneska, zejtra fuè.}
+{321}{}{CoÅ¾e? JÃ¡ ty neslyÅ¡et.}
+{322}{}{Ucho dneska, zejtra fuÄ.}

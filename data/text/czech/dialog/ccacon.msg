@@ -1,18 +1,18 @@
-{100}{}{Vidíš osobu ve vojenské uniformì.}
-{101}{}{Vidíš osobu ve vojenské uniformì.}
-{102}{}{Vidíš osobu ve vojenské uniformì, ale vypadá spíš jako technik ne voják.}
+{100}{}{VidÃ­Å¡ osobu ve vojenskÃ© uniformÄ›.}
+{101}{}{VidÃ­Å¡ osobu ve vojenskÃ© uniformÄ›.}
+{102}{}{VidÃ­Å¡ osobu ve vojenskÃ© uniformÄ›, ale vypadÃ¡ spÃ­Å¡ jako technik neÅ¾ vojÃ¡k.}
 {103}{}{Nazdar. Jak se vede?}
-{104}{}{Rozumím a beru na vìdomí. Promiò, ale teï mì neruš. Mám nìjakou práci.}
-{105}{}{Momentálnì s tebou nemùu mluvit.}
-{106}{}{Klidnì se podívej, ale nedotıkej se toho.}
-{107}{}{Blázníš? Chodit tady bez uniformy... koukej se rychle pøevléct!}
-{108}{}{Jestli tì serant naèapá bez uniformy, nakope ti prdel.}
-{109}{}{Proè na sobì nemáš uniformu? }
-{110}{}{Zatracenì! Byli jsme napadeni! Poplach!}
-{111}{}{Vetøelci! Zavolejte stráe!}
-{112}{}{Stráe! Vetøelci v navigaèním støedisku!}
-{113}{}{Co se dìje? Jsme napadeni?}
-{114}{}{Proè ten poplach? Co se stalo?}
-{115}{}{Co se to sakra zase dìje?}
-{200}{}{Co to dìláš? Nemáš ádnı dùvod na to sahat.}
-{201}{}{Dotkni se toho ještì jednou a zemøeš.}
+{104}{}{RozumÃ­m a beru na vÄ›domÃ­. PromiÅˆ, ale teÄ mÄ› neruÅ¡. MÃ¡m nÄ›jakou prÃ¡ci.}
+{105}{}{MomentÃ¡lnÄ› s tebou nemÅ¯Å¾u mluvit.}
+{106}{}{KlidnÄ› se podÃ­vej, ale nedotÃ½kej se toho.}
+{107}{}{BlÃ¡znÃ­Å¡? Chodit tady bez uniformy... koukej se rychle pÅ™evlÃ©ct!}
+{108}{}{Jestli tÄ› serÅ¾ant naÄapÃ¡ bez uniformy, nakope ti prdel.}
+{109}{}{ProÄ na sobÄ› nemÃ¡Å¡ uniformu? }
+{110}{}{ZatracenÄ›! Byli jsme napadeni! Poplach!}
+{111}{}{VetÅ™elci! Zavolejte strÃ¡Å¾e!}
+{112}{}{StrÃ¡Å¾e! VetÅ™elci v navigaÄnÃ­m stÅ™edisku!}
+{113}{}{Co se dÄ›je? Jsme napadeni?}
+{114}{}{ProÄ ten poplach? Co se stalo?}
+{115}{}{Co se to sakra zase dÄ›je?}
+{200}{}{Co to dÄ›lÃ¡Å¡? NemÃ¡Å¡ Å¾Ã¡dnÃ½ dÅ¯vod na to sahat.}
+{201}{}{Dotkni se toho jeÅ¡tÄ› jednou a zemÅ™eÅ¡.}

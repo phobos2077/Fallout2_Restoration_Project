@@ -1,11 +1,11 @@
-{100}{}{Kontrolní panel chladícího systému.}
-{101}{}{Vidíš kontrolní panel chladícího systému.}
-{102}{}{Na panelu je mnoho tlaèítek, maèkátek a hlavní uzávìr chladícího systému.}
-{110}{}{Máš velké problémy s otoèením hlavního uzávìru chladícího systému.}
-{111}{}{S velkımi obtíemi se ti nakonec podaøilo jednou otoèit s hlavním uzávìrem chladícího systému.}
-{112}{}{S velkımi obtíemi se ti nakonec podaøilo dvakrát otoèit s hlavním uzávìrem chladícího systému.}
-{113}{}{Vypadá to, e se ti podaøilo zavøít ventil.}
-{120}{}{Vypadá to, e ti chybí nìjaká souèástka.}
-{121}{}{Nic to nedìlá.}
-{122}{}{Podaøilo se ti opravit reaktor.}
-{123}{}{Máš potíe s opravou reaktoru.}
+{100}{}{KontrolnÃ­ panel chladÃ­cÃ­ho systÃ©mu.}
+{101}{}{VidÃ­Å¡ kontrolnÃ­ panel chladÃ­cÃ­ho systÃ©mu.}
+{102}{}{Na panelu je mnoho tlaÄÃ­tek, maÄkÃ¡tek a hlavnÃ­ uzÃ¡vÄ›r chladÃ­cÃ­ho systÃ©mu.}
+{110}{}{MÃ¡Å¡ velkÃ© problÃ©my s otoÄenÃ­m hlavnÃ­ho uzÃ¡vÄ›ru chladÃ­cÃ­ho systÃ©mu.}
+{111}{}{S velkÃ½mi obtÃ­Å¾emi se ti nakonec podaÅ™ilo jednou otoÄit s hlavnÃ­m uzÃ¡vÄ›rem chladÃ­cÃ­ho systÃ©mu.}
+{112}{}{S velkÃ½mi obtÃ­Å¾emi se ti nakonec podaÅ™ilo dvakrÃ¡t otoÄit s hlavnÃ­m uzÃ¡vÄ›rem chladÃ­cÃ­ho systÃ©mu.}
+{113}{}{VypadÃ¡ to, Å¾e se ti podaÅ™ilo zavÅ™Ã­t ventil.}
+{120}{}{VypadÃ¡ to, Å¾e ti chybÃ­ nÄ›jakÃ¡ souÄÃ¡stka.}
+{121}{}{Nic to nedÄ›lÃ¡.}
+{122}{}{PodaÅ™ilo se ti opravit reaktor.}
+{123}{}{MÃ¡Å¡ potÃ­Å¾e s opravou reaktoru.}

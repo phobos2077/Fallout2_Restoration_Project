@@ -1,10 +1,10 @@
-{100}{}{Mu v tìké zbroji.}
+{100}{}{MuÅ¾ v tÄ›Å¾kÃ© zbroji.}
 {101}{}{Tohle je Sir Launcelot.}
-{102}{}{Hladí svoji zbraò.}
-{103}{}{Sir Launcelot, k tvım slubám.}
+{102}{}{HladÃ­ svoji zbraÅˆ.}
+{103}{}{Sir Launcelot, k tvÃ½m sluÅ¾bÃ¡m.}
 {104}{}{Odprejskni!}
-{105}{}{Chceš se rvát?}
-{106}{}{Au! Pøestaò do mì šouchat!}
-{200}{}{Jej! Máš hroznì ledové ruce!}
-{201}{}{To ti nepatøí.}
-{202}{}{Hej, to jsou moje vìci!}
+{105}{}{ChceÅ¡ se rvÃ¡t?}
+{106}{}{Au! PÅ™estaÅˆ do mÄ› Å¡Å¥ouchat!}
+{200}{}{Jej! MÃ¡Å¡ hroznÄ› ledovÃ© ruce!}
+{201}{}{To ti nepatÅ™Ã­.}
+{202}{}{Hej, to jsou moje vÄ›ci!}

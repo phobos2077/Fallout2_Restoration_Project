@@ -1,50 +1,50 @@
-{200}{}{Vchod do jeskynì}
+{200}{}{Vchod do jeskynÄ›}
 {201}{}{Vchod}
-{202}{}{Obytné prostory}
-{203}{}{Velín}
-{210}{}{Vchod z pouštì}
-{211}{}{Jeskynì/vstup}
-{212}{}{Obytné prostory}
-{213}{}{Velín}
+{202}{}{ObytnÃ© prostory}
+{203}{}{VelÃ­n}
+{210}{}{Vchod z pouÅ¡tÄ›}
+{211}{}{JeskynÄ›/vstup}
+{212}{}{ObytnÃ© prostory}
+{213}{}{VelÃ­n}
 {220}{}{Vchod}
 {221}{}{Zahrada}
 {222}{}{Ohrada pro dobytek}
 {230}{}{Vchod}
 {231}{}{Crash House}
 {232}{}{Kasino}
-{240}{}{Základna}
+{240}{}{ZÃ¡kladna}
 {250}{}{Hotel}
 {251}{}{Hala}
-{252}{}{Vodárna}
+{252}{}{VodÃ¡rna}
 {260}{}{Vchod}
 {261}{}{Centrum}
 {262}{}{Pahorky}
-{263}{}{Stará ètvr}
+{263}{}{StarÃ¡ ÄtvrÅ¥}
 {264}{}{Kupci}
-{265}{}{Jeskynì}
+{265}{}{JeskynÄ›}
 {270}{}{Vchod}
 {271}{}{1. patro}
 {272}{}{2. patro}
 {273}{}{3. patro}
 {274}{}{4. patro}
 {280}{}{Vchod}
-{281}{}{Základna 1. patro}
-{282}{}{Základna 2. patro}
-{283}{}{Nádre 1. patro}
-{284}{}{Nádre 2. patro}
-{290}{}{Kráter}
+{281}{}{ZÃ¡kladna 1. patro}
+{282}{}{ZÃ¡kladna 2. patro}
+{283}{}{NÃ¡drÅ¾e 1. patro}
+{284}{}{NÃ¡drÅ¾e 2. patro}
+{290}{}{KrÃ¡ter}
 {291}{}{1. patro}
 {300}{}{Adytum}
 {301}{}{Centrum}
 {302}{}{Knihovna}
 {303}{}{Pevnost}
-{304}{}{Skladištì}
+{304}{}{SkladiÅ¡tÄ›}
 {310}{}{Vchod}
-{311}{}{Vnitøek}
-{500}{}{Získal jsi 10.000 zkušenostních bodù!}
+{311}{}{VnitÅ™ek}
+{500}{}{ZÃ­skal jsi 10.000 zkuÅ¡enostnÃ­ch bodÅ¯!}
 {501}{}{Ruiny}
-{1000}{}{Pouš}
+{1000}{}{PouÅ¡Å¥}
 {1001}{}{Hory}
-{1002}{}{Mìsto}
-{1003}{}{Pobøeí}
-{1004}{}{Neprozkoumané místo}
+{1002}{}{MÄ›sto}
+{1003}{}{PobÅ™eÅ¾Ã­}
+{1004}{}{NeprozkoumanÃ© mÃ­sto}

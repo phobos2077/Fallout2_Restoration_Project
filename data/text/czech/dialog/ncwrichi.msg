@@ -1,215 +1,215 @@
-{100}{}{Vidíš jedno z Wrightovıch dìtí.}
-{150}{}{Vidíš èernovlasého chlapce.}
-{151}{}{Vidíš èernovlasou holèièku.}
+{100}{}{VidÃ­Å¡ jedno z WrightovÃ½ch dÄ›tÃ­.}
+{150}{}{VidÃ­Å¡ ÄernovlasÃ©ho chlapce.}
+{151}{}{VidÃ­Å¡ Äernovlasou holÄiÄku.}
 {155}{}{Vyplazuje na tebe jazyk.}
-{156}{}{Mrzutì se na tebe dívá.}
+{156}{}{MrzutÄ› se na tebe dÃ­vÃ¡.}
 {157}{}{Vyplazuje na tebe jazyk.}
-{158}{}{Podezíravì se na tebe dívá.}
-{159}{}{Mrzutì se na tebe dívá.}
-{175}{}{Fallout 2 vám pøináší písmeno Z.}
+{158}{}{PodezÃ­ravÄ› se na tebe dÃ­vÃ¡.}
+{159}{}{MrzutÄ› se na tebe dÃ­vÃ¡.}
+{175}{}{Fallout 2 vÃ¡m pÅ™inÃ¡Å¡Ã­ pÃ­smeno Z.}
 {176}{}{Hej! }
 {177}{}{}
-{178}{}{Díky za záchranu, }
-{179}{}{A vyrostu, tak chci taky zachránit svìt jako ty.}
-{180}{}{Mùu bejt taky hrdina jako ty a vyrostu?}
-{181}{}{Já chci bejt }
-{190}{}{Ty jseš ROBOT? }
-{191}{}{Jak s tou zbrojí èùráš?}
-{192}{}{Mùu se ti povozit na ramenech? Prosííím!}
-{193}{}{Budeš si s náma chvíli hrát? Prosíííím!}
-{200}{}{Radši uteè, ne tì táta uvidí.}
-{201}{}{Radši uteè, ne tì starší brácha uvidí.}
-{202}{}{Jseš zlej èlovìk. Radši odejdi, nebo to na tebe øeknu.}
-{210}{}{Já tì vidím! Já tì vidím!}
-{211}{}{Hraješ si na schovávanou? Mùu taky?}
+{178}{}{DÃ­ky za zÃ¡chranu, }
+{179}{}{AÅ¾ vyrostu, tak chci taky zachrÃ¡nit svÄ›t jako ty.}
+{180}{}{MÅ¯Å¾u bejt taky hrdina jako ty aÅ¾ vyrostu?}
+{181}{}{JÃ¡ chci bejt }
+{190}{}{Ty jseÅ¡ ROBOT? }
+{191}{}{Jak s tou zbrojÃ­ ÄÅ¯rÃ¡Å¡?}
+{192}{}{MÅ¯Å¾u se ti povozit na ramenech? ProsÃ­Ã­Ã­m!}
+{193}{}{BudeÅ¡ si s nÃ¡ma chvÃ­li hrÃ¡t? ProsÃ­Ã­Ã­Ã­m!}
+{200}{}{RadÅ¡i uteÄ, neÅ¾ tÄ› tÃ¡ta uvidÃ­.}
+{201}{}{RadÅ¡i uteÄ, neÅ¾ tÄ› starÅ¡Ã­ brÃ¡cha uvidÃ­.}
+{202}{}{JseÅ¡ zlej ÄlovÄ›k. RadÅ¡i odejdi, nebo to na tebe Å™eknu.}
+{210}{}{JÃ¡ tÄ› vidÃ­m! JÃ¡ tÄ› vidÃ­m!}
+{211}{}{HrajeÅ¡ si na schovÃ¡vanou? MÅ¯Å¾u taky?}
 {215}{}{Hele, robot! Hele, robot!}
 {216}{}{Je v tom robotovi opravdickej mozek?}
-{217}{}{Tııııjo. Podívejte se na toho robota!}
-{218}{}{Podívejte, mutant! Mutant!}
+{217}{}{TÃ½Ã½Ã½Ã½jo. PodÃ­vejte se na toho robota!}
+{218}{}{PodÃ­vejte, mutant! Mutant!}
 {219}{}{Mutant, lulant, mutant, lulant.}
-{220}{}{To je opravdickej mutant? Je ošklivej.}
-{221}{}{Tııııjo. Podívejte se na toho mutanta!}
-{222}{}{Ten mutant je VELKEJ! Vìtší ne táta.}
-{230}{}{Ghoul! Podívejte, to je ghoul!}
-{231}{}{Fùùùj! Ghoul! Ghoul!}
-{232}{}{Ghoul-ík ghoul-ík ghoul-ík!}
-{233}{}{Podívejte, eleznej pejsek!}
-{234}{}{Pejsku! Pejsku, chceš kostièku?}
-{235}{}{Já chci taky pejska!}
-{290}{}{A vyrostu, tak chci taky zachránit svìt jako ty.}
-{291}{}{Mùu bejt taky hrdina jako ty a vyrostu?}
-{292}{}{A vyrostu, chci bejt jako ty.}
-{293}{}{Proè ty chtít bıt já? Já BLBEC.}
-{294}{}{Já jednou nosit hlava holky jako èepice.}
+{220}{}{To je opravdickej mutant? Je oÅ¡klivej.}
+{221}{}{TÃ½Ã½Ã½Ã½jo. PodÃ­vejte se na toho mutanta!}
+{222}{}{Ten mutant je VELKEJ! VÄ›tÅ¡Ã­ neÅ¾ tÃ¡ta.}
+{230}{}{Ghoul! PodÃ­vejte, to je ghoul!}
+{231}{}{FÅ¯Å¯Å¯j! Ghoul! Ghoul!}
+{232}{}{Ghoul-Ã­k ghoul-Ã­k ghoul-Ã­k!}
+{233}{}{PodÃ­vejte, Å¾eleznej pejsek!}
+{234}{}{Pejsku! Pejsku, chceÅ¡ kostiÄku?}
+{235}{}{JÃ¡ chci taky pejska!}
+{290}{}{AÅ¾ vyrostu, tak chci taky zachrÃ¡nit svÄ›t jako ty.}
+{291}{}{MÅ¯Å¾u bejt taky hrdina jako ty aÅ¾ vyrostu?}
+{292}{}{AÅ¾ vyrostu, chci bejt jako ty.}
+{293}{}{ProÄ ty chtÃ­t bÃ½t jÃ¡? JÃ¡ BLBEC.}
+{294}{}{JÃ¡ jednou nosit hlava holky jako Äepice.}
 {295}{}{Odbelhat se.}
-{296}{}{Hehe. Díky, malièkı, ale radìji poslouchej }
-{297}{}{Následuj své sny. Mùeš je dosáhnout. Já jsem toho dùkazem.}
-{298}{}{To urèitì mùeš. Poslyš, je mi líto tvého bratra Richieho. Nevíš náhodou, co se mu stalo?}
-{299}{}{Jednou jsem projel tøi státy a místo èepice jsem mìl nasazenou hlavu malı holèièky.}
-{300}{}{[Nechat ho, a si hraje]}
-{301}{}{[Nechat ji, a si hraje]}
-{310}{}{Ne-e! Ty jseš CHYTREJ! Jseš HRDINA a ODVÁNEJ a já chci bıt jako TY. Díky za záchranu, }
-{311}{}{Díky hodnej malej èlovìku. Ty }
+{296}{}{Hehe. DÃ­ky, maliÄkÃ½, ale radÄ›ji poslouchej }
+{297}{}{NÃ¡sleduj svÃ© sny. MÅ¯Å¾eÅ¡ je dosÃ¡hnout. JÃ¡ jsem toho dÅ¯kazem.}
+{298}{}{To urÄitÄ› mÅ¯Å¾eÅ¡. PoslyÅ¡, je mi lÃ­to tvÃ©ho bratra Richieho. NevÃ­Å¡ nÃ¡hodou, co se mu stalo?}
+{299}{}{Jednou jsem projel tÅ™i stÃ¡ty a mÃ­sto Äepice jsem mÄ›l nasazenou hlavu malÃ½ holÄiÄky.}
+{300}{}{[Nechat ho, aÅ¥ si hraje]}
+{301}{}{[Nechat ji, aÅ¥ si hraje]}
+{310}{}{Ne-e! Ty jseÅ¡ CHYTREJ! JseÅ¡ HRDINA a ODVÃÅ½NEJ a jÃ¡ chci bÃ½t jako TY. DÃ­ky za zÃ¡chranu, }
+{311}{}{DÃ­ky hodnej malej ÄlovÄ›ku. Ty }
 {315}{}{Tak jo, }
-{316}{}{Dávej na sebe pozor, ano? Já mám na práci ještì pár hrdinskıch vìcí.}
-{320}{}{(Dítì tì zastaví.) Ty... }
+{316}{}{DÃ¡vej na sebe pozor, ano? JÃ¡ mÃ¡m na prÃ¡ci jeÅ¡tÄ› pÃ¡r hrdinskÃ½ch vÄ›cÃ­.}
+{320}{}{(DÃ­tÄ› tÄ› zastavÃ­.) Ty... }
 {321}{}{Eh... ne. Slibuju.}
-{322}{}{Eh... pokud vím, tak ne.}
-{323}{}{Neboj se, malièkı. Navštívím tì s jinou postavou.}
-{324}{}{Neboj se, nic neucítíš.}
-{330}{}{Budeme snít?}
-{331}{}{Eh... urèitì. Urèitì budete.}
-{332}{}{Co já vím? Mnì se nic nezdá, take tobì asi taky ne. ivot je ale svinì, co?}
-{341}{}{Co bıt roubot?}
-{344}{}{Hehe. To je roztomilé. Ne, nejsem robot.}
-{345}{}{Ne, ne, pod tou zbrojí jsem normální èlovìk. Mimochodem, je mi líto tvého bratra Richieho. Nevíš, co se mu stalo?}
-{355}{}{Ty jseš ale BLBEJ.}
+{322}{}{Eh... pokud vÃ­m, tak ne.}
+{323}{}{Neboj se, maliÄkÃ½. NavÅ¡tÃ­vÃ­m tÄ› s jinou postavou.}
+{324}{}{Neboj se, nic neucÃ­tÃ­Å¡.}
+{330}{}{Budeme snÃ­t?}
+{331}{}{Eh... urÄitÄ›. UrÄitÄ› budete.}
+{332}{}{Co jÃ¡ vÃ­m? MnÄ› se nic nezdÃ¡, takÅ¾e tobÄ› asi taky ne. Å½ivot je ale svinÄ›, co?}
+{341}{}{Co bÃ½t roubot?}
+{344}{}{Hehe. To je roztomilÃ©. Ne, nejsem robot.}
+{345}{}{Ne, ne, pod tou zbrojÃ­ jsem normÃ¡lnÃ­ ÄlovÄ›k. Mimochodem, je mi lÃ­to tvÃ©ho bratra Richieho. NevÃ­Å¡, co se mu stalo?}
+{355}{}{Ty jseÅ¡ ale BLBEJ.}
 {356}{}{TY TAKY.}
-{357}{}{Ty taky, akorát víc.}
-{358}{}{Ty jseš blbìjší.}
-{359}{}{Kdo první køièí, od toho to fièí.}
-{360}{}{Kdo to øíká, ten to je!}
-{361}{}{[S brekotem utéct]}
-{370}{}{Ty jseš nejblbìjší! Ty jseš nejblbìjší!}
-{395}{}{Ne-e, TUPEC! (Dítì uteèe pryè a jeho krutı smích ti neustále zvoní v uších.)}
-{396}{}{Já STEJNÌ nechtít mluvila s tebou *smrk*... já... *smrk*... udìlám PÁRTY... s *smrk* DORT a ZMRZLINA... a TY nemùeš pøijít [Odejít]}
-{405}{}{(Dítì zamrká, otevøe pusu a poté ji zase zavøe. Po tváøích mu zaènou téct slzy, které se posléze promìní v pláè.)}
-{406}{}{Hee hee JÁ vyhrát.}
-{410}{}{Aha. (Chvíli o tom pøemıšlí a poté se na tebe zašklebí.) Jak to, e NEJSI robot?}
-{411}{}{Eh... protoe... no, roboti a lidé mají rùzné... eh, èásti.}
-{412}{}{U musím jít.}
-{425}{}{Fakt jo? (Tváøí se podezíravì.) Jakı tøeba?}
-{426}{}{Eh... no... poslyš, tobì to táta s mámou ještì nevysvìtlili?}
-{427}{}{Eh... to u je tolik hodin? Musím letìt.}
-{435}{}{Co mi mìli vysvìtlit?}
-{436}{}{Eh... no... roboti... mají uvnitø olej. A lidi... no, lidi... krvácejí.}
-{445}{}{Máma a moje velkı ségry krvácej kadej mìsíc a jsou pøitom vdycky strašnì naštvanı. Škoda, e nejsou roboti!}
-{446}{}{Eh... jo. Fajn. Poslyš, u musím jít. Neøíkej mamince, e jsme spolu mluvili.}
-{456}{}{Já prostì èùrat dovnitø, ale muset si zvyknout na smrad.}
-{459}{}{Hehe. Ve skuteènosti moèím do zbroje a ta všechno zrecykluje. No není to zajímavé? Víš, co znamená 'recyklovat'?}
-{460}{}{No, moc pøíjemné to není, to kadopádnì. Poslyš, je mi líto tvého bratra Richieho. Nevíš, co se mu stalo?}
-{475}{}{To je ODPORNİ.}
-{476}{}{Ano! Recyklace znamená, e piješ moè!}
-{477}{}{TY ODPORNEJ poèùránku.}
-{479}{}{Eh, hehe... hehe. Ne, ve skuteènosti to znamená...}
-{485}{}{Ty piješ èùránky! Ty piješ èùránky!}
-{486}{}{Eh, hehe... hehe... ztiš se trochu... recyklování neznamená, e piju m... no, ne DOSLOVA... poslyš...}
-{487}{}{[Nechat toho malého sráèe, a si hraje sám]}
-{488}{}{[Odejít]}
+{357}{}{Ty taky, akorÃ¡t vÃ­c.}
+{358}{}{Ty jseÅ¡ blbÄ›jÅ¡Ã­.}
+{359}{}{Kdo prvnÃ­ kÅ™iÄÃ­, od toho to fiÄÃ­.}
+{360}{}{Kdo to Å™Ã­kÃ¡, ten to je!}
+{361}{}{[S brekotem utÃ©ct]}
+{370}{}{Ty jseÅ¡ nejblbÄ›jÅ¡Ã­! Ty jseÅ¡ nejblbÄ›jÅ¡Ã­!}
+{395}{}{Ne-e, TUPEC! (DÃ­tÄ› uteÄe pryÄ a jeho krutÃ½ smÃ­ch ti neustÃ¡le zvonÃ­ v uÅ¡Ã­ch.)}
+{396}{}{JÃ¡ STEJNÄš nechtÃ­t mluvila s tebou *smrk*... jÃ¡... *smrk*... udÄ›lÃ¡m PÃRTY... s *smrk* DORT a ZMRZLINA... a TY nemÅ¯Å¾eÅ¡ pÅ™ijÃ­t [OdejÃ­t]}
+{405}{}{(DÃ­tÄ› zamrkÃ¡, otevÅ™e pusu a potÃ© ji zase zavÅ™e. Po tvÃ¡Å™Ã­ch mu zaÄnou tÃ©ct slzy, kterÃ© se poslÃ©ze promÄ›nÃ­ v plÃ¡Ä.)}
+{406}{}{Hee hee JÃ vyhrÃ¡t.}
+{410}{}{Aha. (ChvÃ­li o tom pÅ™emÃ½Å¡lÃ­ a potÃ© se na tebe zaÅ¡klebÃ­.) Jak to, Å¾e NEJSI robot?}
+{411}{}{Eh... protoÅ¾e... no, roboti a lidÃ© majÃ­ rÅ¯znÃ©... eh, ÄÃ¡sti.}
+{412}{}{UÅ¾ musÃ­m jÃ­t.}
+{425}{}{Fakt jo? (TvÃ¡Å™Ã­ se podezÃ­ravÄ›.) JakÃ½ tÅ™eba?}
+{426}{}{Eh... no... poslyÅ¡, tobÄ› to tÃ¡ta s mÃ¡mou jeÅ¡tÄ› nevysvÄ›tlili?}
+{427}{}{Eh... to uÅ¾ je tolik hodin? MusÃ­m letÄ›t.}
+{435}{}{Co mi mÄ›li vysvÄ›tlit?}
+{436}{}{Eh... no... roboti... majÃ­ uvnitÅ™ olej. A lidi... no, lidi... krvÃ¡cejÃ­.}
+{445}{}{MÃ¡ma a moje velkÃ½ sÃ©gry krvÃ¡cej kaÅ¾dej mÄ›sÃ­c a jsou pÅ™itom vÅ¾dycky straÅ¡nÄ› naÅ¡tvanÃ½. Å koda, Å¾e nejsou roboti!}
+{446}{}{Eh... jo. Fajn. PoslyÅ¡, uÅ¾ musÃ­m jÃ­t. NeÅ™Ã­kej mamince, Å¾e jsme spolu mluvili.}
+{456}{}{JÃ¡ prostÄ› ÄÅ¯rat dovnitÅ™, ale muset si zvyknout na smrad.}
+{459}{}{Hehe. Ve skuteÄnosti moÄÃ­m do zbroje a ta vÅ¡echno zrecykluje. No nenÃ­ to zajÃ­mavÃ©? VÃ­Å¡, co znamenÃ¡ 'recyklovat'?}
+{460}{}{No, moc pÅ™Ã­jemnÃ© to nenÃ­, to kaÅ¾dopÃ¡dnÄ›. PoslyÅ¡, je mi lÃ­to tvÃ©ho bratra Richieho. NevÃ­Å¡, co se mu stalo?}
+{475}{}{To je ODPORNÃ.}
+{476}{}{Ano! Recyklace znamenÃ¡, Å¾e pijeÅ¡ moÄ!}
+{477}{}{TY ODPORNEJ poÄÅ¯rÃ¡nku.}
+{479}{}{Eh, hehe... hehe. Ne, ve skuteÄnosti to znamenÃ¡...}
+{485}{}{Ty pijeÅ¡ ÄÅ¯rÃ¡nky! Ty pijeÅ¡ ÄÅ¯rÃ¡nky!}
+{486}{}{Eh, hehe... hehe... ztiÅ¡ se trochu... recyklovÃ¡nÃ­ neznamenÃ¡, Å¾e piju m... no, ne DOSLOVA... poslyÅ¡...}
+{487}{}{[Nechat toho malÃ©ho srÃ¡Äe, aÅ¥ si hraje sÃ¡m]}
+{488}{}{[OdejÃ­t]}
 {495}{}{To je OPRAVDICKEJ robot?}
 {499}{}{Robomozek? Ano, je.}
-{500}{}{On si MYSLÍ, e ano, ale netuším proè.}
-{501}{}{Jo, ale neobtìuj ho. Myslím, e chce vyhubit lidskou rasu.}
-{502}{}{Jo, je. Poslyš, je mi líto tvého bratra Richieho. Nevíš, co se mu stalo?}
-{515}{}{TY jseš taky robot?}
+{500}{}{On si MYSLÃ, Å¾e ano, ale netuÅ¡Ã­m proÄ.}
+{501}{}{Jo, ale neobtÄ›Å¾uj ho. MyslÃ­m, Å¾e chce vyhubit lidskou rasu.}
+{502}{}{Jo, je. PoslyÅ¡, je mi lÃ­to tvÃ©ho bratra Richieho. NevÃ­Å¡, co se mu stalo?}
+{515}{}{TY jseÅ¡ taky robot?}
 {525}{}{To je OPRAVDICKEJ mutant?}
-{526}{}{Mùtant?}
-{529}{}{Ano, je. Jmenuje se Marcus. Neboj se, nekouše.}
-{530}{}{Ano, JE mutant. Jen doufám, e zase nedostal chu na malé dìti.}
-{531}{}{Ano, je to mutant. VELMI hladovı mutant. A zrovna je èas na svaèinu. Jak pøíhodné.}
-{532}{}{Ano, je. Poslyš, je mi líto tvého bratra Richieho. Nevíš, co se mu stalo?}
-{540}{}{Dítì se zastaví a podívá se na tebe.}
-{541}{}{Ahóóój.}
-{544}{}{Ahoj, èlovíèku.}
-{545}{}{Ahoj, holèièko.}
-{546}{}{Je mi líto tvého bratra Richieho. Nevíš, co se mu stalo?}
-{555}{}{Není ti špatnì?}
-{556}{}{Proè se ptáš?}
-{560}{}{VYPADÁŠ nemocnì.}
-{561}{}{Jsem nemocnı.}
-{565}{}{Bereš léky?}
-{566}{}{Na moji nemoc neexistují léky.}
-{570}{}{Chceš si zazpívat?}
-{571}{}{Zazpívat?}
-{575}{}{Znáš 'Prší prší, jen se leje?'}
-{576}{}{Ano, potøebuju.}
-{580}{}{::Zpívá::: 'Prší prší, jen se leje. Prší prší, jen se leje.' No ták, pøidej se.}
-{581}{}{::Zpívat:: Prší prší, jen se leje. Prší prší, jen se leje.}
-{585}{}{::Zpíváte dohromady:: Prší prší, jen se leje. Prší prší, jen se leje. ::Zpìv utichá:: Prší prší, jen se leje.}
-{586}{}{Díky, e jsme si mohli zazpívat. Moná se ještì vrátím... a budu potøebovat novou èepici.}
-{590}{}{(Dítì na tebe mrkne.)}
-{591}{}{Tak dobøe. Promluvíme si pozdìji.}
-{595}{}{(Dítì uteèe pryè.}
+{526}{}{MÅ¯tant?}
+{529}{}{Ano, je. Jmenuje se Marcus. Neboj se, nekouÅ¡e.}
+{530}{}{Ano, JE mutant. Jen doufÃ¡m, Å¾e zase nedostal chuÅ¥ na malÃ© dÄ›ti.}
+{531}{}{Ano, je to mutant. VELMI hladovÃ½ mutant. A zrovna je Äas na svaÄinu. Jak pÅ™Ã­hodnÃ©.}
+{532}{}{Ano, je. PoslyÅ¡, je mi lÃ­to tvÃ©ho bratra Richieho. NevÃ­Å¡, co se mu stalo?}
+{540}{}{DÃ­tÄ› se zastavÃ­ a podÃ­vÃ¡ se na tebe.}
+{541}{}{AhÃ³Ã³Ã³j.}
+{544}{}{Ahoj, ÄlovÃ­Äku.}
+{545}{}{Ahoj, holÄiÄko.}
+{546}{}{Je mi lÃ­to tvÃ©ho bratra Richieho. NevÃ­Å¡, co se mu stalo?}
+{555}{}{NenÃ­ ti Å¡patnÄ›?}
+{556}{}{ProÄ se ptÃ¡Å¡?}
+{560}{}{VYPADÃÅ  nemocnÄ›.}
+{561}{}{Jsem nemocnÃ½.}
+{565}{}{BereÅ¡ lÃ©ky?}
+{566}{}{Na moji nemoc neexistujÃ­ lÃ©ky.}
+{570}{}{ChceÅ¡ si zazpÃ­vat?}
+{571}{}{ZazpÃ­vat?}
+{575}{}{ZnÃ¡Å¡ 'PrÅ¡Ã­ prÅ¡Ã­, jen se leje?'}
+{576}{}{Ano, potÅ™ebuju.}
+{580}{}{::ZpÃ­vÃ¡::: 'PrÅ¡Ã­ prÅ¡Ã­, jen se leje. PrÅ¡Ã­ prÅ¡Ã­, jen se leje.' No tÃ¡k, pÅ™idej se.}
+{581}{}{::ZpÃ­vat:: PrÅ¡Ã­ prÅ¡Ã­, jen se leje. PrÅ¡Ã­ prÅ¡Ã­, jen se leje.}
+{585}{}{::ZpÃ­vÃ¡te dohromady:: PrÅ¡Ã­ prÅ¡Ã­, jen se leje. PrÅ¡Ã­ prÅ¡Ã­, jen se leje. ::ZpÄ›v utichÃ¡:: PrÅ¡Ã­ prÅ¡Ã­, jen se leje.}
+{586}{}{DÃ­ky, Å¾e jsme si mohli zazpÃ­vat. MoÅ¾nÃ¡ se jeÅ¡tÄ› vrÃ¡tÃ­m... aÅ¾ budu potÅ™ebovat novou Äepici.}
+{590}{}{(DÃ­tÄ› na tebe mrkne.)}
+{591}{}{Tak dobÅ™e. PromluvÃ­me si pozdÄ›ji.}
+{595}{}{(DÃ­tÄ› uteÄe pryÄ.}
 {648}{}{Aha.}
-{650}{}{Vánì? Co ještì?}
+{650}{}{VÃ¡Å¾nÄ›? Co jeÅ¡tÄ›?}
 {665}{}{To je OPRAVDICKEJ ghoul?}
-{666}{}{Gùl?}
-{669}{}{Ano, je. Jmenuje se Lenny. Neboj se, nekouše.}
-{670}{}{Ano, JE to ghoul. Jen doufám, e zase nedostal chu na malé dìti.}
-{671}{}{Ano, je to ghoul. VELMI hladovı ghoul. A zrovna teï je èas na svaèinu. Jak pøíhodné.}
-{685}{}{Ahoj, Markusi mutante. Jseš fakt hroznì velkej. Híhí... a tvoje animace, kdy se nudíš, je fakt srandovní.}
-{686}{}{Ahoj, Lenı ghoule. Fùj... hroznì smrdíš.}
-{687}{}{Jo, to je. Take... jak to jde?}
-{688}{}{Jo, to teda. Take... jak to jde?}
-{689}{}{No nic, musím jít. Uvidíme se pozdìji.}
-{695}{}{(Dítì zbledne a dá se s øevem na útìk.}
-{696}{}{Hehehehe. "To je OPRAVDICKEJ mutant?" To jí nauèí ptát se na takové blbosti.}
-{697}{}{"Hladovı" mutant! Pche. Kadı pøece ví, e mutanti nejedí li... eh, proè se na mì tak díváš, Marcusi?}
-{698}{}{Hehehehe. "To je OPRAVDICKEJ ghoul?" To jí nauèí ptát se na takové blbosti.}
-{699}{}{"Hladovı" ghoul! Pche. Kadı pøece ví, e ghoulové nejedí li... eh, proè se na mì tak díváš, Lenny?}
-{710}{}{E-he. Táta je fakt vzteklej, protoe neví, kdo Richieho zabil. Øíká, e jestli nás nìkdy chytí s Jetem, naplácá nám na zadek.}
-{711}{}{Nevíš, KDO mohl dát Richiemu ten Jet, kterı ho zabil?}
-{712}{}{Nevíš, KDE získal Richie ten Jet, kterı ho zabil?}
-{713}{}{[Nechat dítì, a si jde hrát]}
+{666}{}{GÅ¯l?}
+{669}{}{Ano, je. Jmenuje se Lenny. Neboj se, nekouÅ¡e.}
+{670}{}{Ano, JE to ghoul. Jen doufÃ¡m, Å¾e zase nedostal chuÅ¥ na malÃ© dÄ›ti.}
+{671}{}{Ano, je to ghoul. VELMI hladovÃ½ ghoul. A zrovna teÄ je Äas na svaÄinu. Jak pÅ™Ã­hodnÃ©.}
+{685}{}{Ahoj, Markusi mutante. JseÅ¡ fakt hroznÄ› velkej. HÃ­hÃ­... a tvoje animace, kdyÅ¾ se nudÃ­Å¡, je fakt srandovnÃ­.}
+{686}{}{Ahoj, LenÃ½ ghoule. FÅ¯j... hroznÄ› smrdÃ­Å¡.}
+{687}{}{Jo, to je. TakÅ¾e... jak to jde?}
+{688}{}{Jo, to teda. TakÅ¾e... jak to jde?}
+{689}{}{No nic, musÃ­m jÃ­t. UvidÃ­me se pozdÄ›ji.}
+{695}{}{(DÃ­tÄ› zbledne a dÃ¡ se s Å™evem na ÃºtÄ›k.}
+{696}{}{Hehehehe. "To je OPRAVDICKEJ mutant?" To jÃ­ nauÄÃ­ ptÃ¡t se na takovÃ© blbosti.}
+{697}{}{"HladovÃ½" mutant! Pche. KaÅ¾dÃ½ pÅ™ece vÃ­, Å¾e mutanti nejedÃ­ li... eh, proÄ se na mÄ› tak dÃ­vÃ¡Å¡, Marcusi?}
+{698}{}{Hehehehe. "To je OPRAVDICKEJ ghoul?" To jÃ­ nauÄÃ­ ptÃ¡t se na takovÃ© blbosti.}
+{699}{}{"HladovÃ½" ghoul! Pche. KaÅ¾dÃ½ pÅ™ece vÃ­, Å¾e ghoulovÃ© nejedÃ­ li... eh, proÄ se na mÄ› tak dÃ­vÃ¡Å¡, Lenny?}
+{710}{}{E-he. TÃ¡ta je fakt vzteklej, protoÅ¾e nevÃ­, kdo Richieho zabil. Å˜Ã­kÃ¡, Å¾e jestli nÃ¡s nÄ›kdy chytÃ­ s Jetem, naplÃ¡cÃ¡ nÃ¡m na zadek.}
+{711}{}{NevÃ­Å¡, KDO mohl dÃ¡t Richiemu ten Jet, kterÃ½ ho zabil?}
+{712}{}{NevÃ­Å¡, KDE zÃ­skal Richie ten Jet, kterÃ½ ho zabil?}
+{713}{}{[Nechat dÃ­tÄ›, aÅ¥ si jde hrÃ¡t]}
 {720}{}{E-he.}
-{730}{}{E-he. Èasto se potuloval na západì mìsta kolem Obchodní ètvrti. Táta nám tam zakázal chodit.}
-{800}{}{*Pššššst* U mám dávno spát.}
-{801}{}{Musím se trochu vyspat. Zítra si hrajem na ocelovou mouchu.}
-{802}{}{Jestli táta zjistí, e ještì nespím, bude fakt zlej.}
-{900}{}{Mùj šulínek, mùj šulínek.}
-{901}{}{::Drí napodobeninu pistole:: Ruce vzhùru, lumpové!}
-{902}{}{Skákal pes, pøes oves, na velikou holku.}
-{903}{}{Chci bıt pasák, a vyrostu.}
-{904}{}{A vyrostu, budu šéfovat Renu jako táta.}
-{905}{}{Chci pejska. Táta øíkal, e dostanu èubku a vyrostu.}
-{906}{}{Škoda, e táta není tak hustej jako Tommy Tvrïák.}
-{907}{}{Já mám penis.}
-{908}{}{::Vøísk::}
+{730}{}{E-he. ÄŒasto se potuloval na zÃ¡padÄ› mÄ›sta kolem ObchodnÃ­ Ätvrti. TÃ¡ta nÃ¡m tam zakÃ¡zal chodit.}
+{800}{}{*PÅ¡Å¡Å¡Å¡st* UÅ¾ mÃ¡m dÃ¡vno spÃ¡t.}
+{801}{}{MusÃ­m se trochu vyspat. ZÃ­tra si hrajem na ocelovou mouchu.}
+{802}{}{Jestli tÃ¡ta zjistÃ­, Å¾e jeÅ¡tÄ› nespÃ­m, bude fakt zlej.}
+{900}{}{MÅ¯j Å¡ulÃ­nek, mÅ¯j Å¡ulÃ­nek.}
+{901}{}{::DrÅ¾Ã­ napodobeninu pistole:: Ruce vzhÅ¯ru, lumpovÃ©!}
+{902}{}{SkÃ¡kal pes, pÅ™es oves, na velikou holku.}
+{903}{}{Chci bÃ½t pasÃ¡k, aÅ¾ vyrostu.}
+{904}{}{AÅ¾ vyrostu, budu Å¡Ã©fovat Renu jako tÃ¡ta.}
+{905}{}{Chci pejska. TÃ¡ta Å™Ã­kal, Å¾e dostanu Äubku aÅ¾ vyrostu.}
+{906}{}{Å koda, Å¾e tÃ¡ta nenÃ­ tak hustej jako Tommy TvrÄÃ¡k.}
+{907}{}{JÃ¡ mÃ¡m penis.}
+{908}{}{::VÅ™Ã­sk::}
 {909}{}{::Vyplazuje jazyk::}
-{910}{}{Táta øíká mámì továrna na dìcka.}
-{911}{}{Táta øíká, e nás seøee, jestli nás nìkdy chytne, jak bereme Jet.}
-{912}{}{Táta øíká, e si máme dávat venku pozor.}
-{913}{}{Táta nás zbije, jestli ještì jednou uteèeme.}
-{914}{}{Táta je strašnì naštvanej od tı doby, co umøel mùj brácha Richie.}
-{915}{}{Táta zase kšeftuje.}
-{916}{}{Otec Tully vypadá fakt srandovnì, kdy se motá.}
-{917}{}{Prší prší jen se leje... prší prší jen se leje...}
-{918}{}{Já jsem se asi pokadil.}
-{919}{}{Chybí mi mùj bráška Richie. Umøel, protoe bral moc Jetu.}
-{920}{}{U nikdy neuvidím Christophera.}
-{921}{}{Vidìl jsem Mikyho, jak líbá Mareee Mor-dinovou.}
-{922}{}{Vidìl jsem, jak na sobì táta s mámou tancujou.}
-{923}{}{Škoda, e si s náma u Christopher nemùe hrát.}
-{924}{}{Kyle pije vlastní èùránky!}
-{925}{}{Kyle umí èùrat pìknì daleko.}
-{926}{}{Skákal pes, pøes oves, pøes zelenou louku.}
-{927}{}{Dívej, co umím! Dívej, co umím!}
-{928}{}{Mikey a Mareee sedí na stromì a L-Í-B-A-J-Í se!}
-{929}{}{Milicent je hroznì zlej.}
-{930}{}{Cukr káva limonáda, cukr káva limonáda.}
-{931}{}{Máma a táta vèera veèer zase mluvili v posteli s bohem.}
-{932}{}{Máma breèela celej den. Asi kvùli tomu, co se stalo Richiemu.}
-{933}{}{Máma je fakt smutná od tı doby, co umøel mùj brácha Richie.}
-{934}{}{Máma je zase v kostele.}
-{935}{}{Naše rodina je nejlepší!}
+{910}{}{TÃ¡ta Å™Ã­kÃ¡ mÃ¡mÄ› tovÃ¡rna na dÄ›cka.}
+{911}{}{TÃ¡ta Å™Ã­kÃ¡, Å¾e nÃ¡s seÅ™eÅ¾e, jestli nÃ¡s nÄ›kdy chytne, jak bereme Jet.}
+{912}{}{TÃ¡ta Å™Ã­kÃ¡, Å¾e si mÃ¡me dÃ¡vat venku pozor.}
+{913}{}{TÃ¡ta nÃ¡s zbije, jestli jeÅ¡tÄ› jednou uteÄeme.}
+{914}{}{TÃ¡ta je straÅ¡nÄ› naÅ¡tvanej od tÃ½ doby, co umÅ™el mÅ¯j brÃ¡cha Richie.}
+{915}{}{TÃ¡ta zase kÅ¡eftuje.}
+{916}{}{Otec Tully vypadÃ¡ fakt srandovnÄ›, kdyÅ¾ se motÃ¡.}
+{917}{}{PrÅ¡Ã­ prÅ¡Ã­ jen se leje... prÅ¡Ã­ prÅ¡Ã­ jen se leje...}
+{918}{}{JÃ¡ jsem se asi pokadil.}
+{919}{}{ChybÃ­ mi mÅ¯j brÃ¡Å¡ka Richie. UmÅ™el, protoÅ¾e bral moc Jetu.}
+{920}{}{UÅ¾ nikdy neuvidÃ­m Christophera.}
+{921}{}{VidÄ›l jsem Mikyho, jak lÃ­bÃ¡ Mareee Mor-dinovou.}
+{922}{}{VidÄ›l jsem, jak na sobÄ› tÃ¡ta s mÃ¡mou tancujou.}
+{923}{}{Å koda, Å¾e si s nÃ¡ma uÅ¾ Christopher nemÅ¯Å¾e hrÃ¡t.}
+{924}{}{Kyle pije vlastnÃ­ ÄÅ¯rÃ¡nky!}
+{925}{}{Kyle umÃ­ ÄÅ¯rat pÄ›knÄ› daleko.}
+{926}{}{SkÃ¡kal pes, pÅ™es oves, pÅ™es zelenou louku.}
+{927}{}{DÃ­vej, co umÃ­m! DÃ­vej, co umÃ­m!}
+{928}{}{Mikey a Mareee sedÃ­ na stromÄ› a L-Ã-B-A-J-Ã se!}
+{929}{}{Milicent je hroznÄ› zlej.}
+{930}{}{Cukr kÃ¡va limonÃ¡da, cukr kÃ¡va limonÃ¡da.}
+{931}{}{MÃ¡ma a tÃ¡ta vÄera veÄer zase mluvili v posteli s bohem.}
+{932}{}{MÃ¡ma breÄela celej den. Asi kvÅ¯li tomu, co se stalo Richiemu.}
+{933}{}{MÃ¡ma je fakt smutnÃ¡ od tÃ½ doby, co umÅ™el mÅ¯j brÃ¡cha Richie.}
+{934}{}{MÃ¡ma je zase v kostele.}
+{935}{}{NaÅ¡e rodina je nejlepÅ¡Ã­!}
 {936}{}{Phfttttt.}
-{937}{}{Pokakánek! Pokakánek!}
-{938}{}{Strejda Nick øíká, e není tøeba nadávat. Mìl by obèas vyjít ven.}
-{939}{}{Chceš si hrát na divochy a otrokáøe?}
-{940}{}{Mám sedmnáct bratrù a sester.}
-{941}{}{Jùùùùùùùù!}
-{942}{}{To jseš ty!}
-{943}{}{Ty máš vši!}
-{944}{}{Vypadáš jako radškorpion!}
-{945}{}{Zeptám se tatínka, jestli mùu bejt kurva a vyrostu. Øíkal, e jednu hroznì potøebuje.}
-{946}{}{Chci bejt kurva a vyrostu. Táta øíká, e jich má málo.}
-{947}{}{Já mám vagínu.}
-{1176}{}{! Povìz nám pøíbìh o Enklávì! Prosím!}
-{1177}{}{! Jóóóóóó!}
+{937}{}{PokakÃ¡nek! PokakÃ¡nek!}
+{938}{}{Strejda Nick Å™Ã­kÃ¡, Å¾e nenÃ­ tÅ™eba nadÃ¡vat. MÄ›l by obÄas vyjÃ­t ven.}
+{939}{}{ChceÅ¡ si hrÃ¡t na divochy a otrokÃ¡Å™e?}
+{940}{}{MÃ¡m sedmnÃ¡ct bratrÅ¯ a sester.}
+{941}{}{JÅ¯Å¯Å¯Å¯Å¯Å¯Å¯Å¯!}
+{942}{}{To jseÅ¡ ty!}
+{943}{}{Ty mÃ¡Å¡ vÅ¡i!}
+{944}{}{VypadÃ¡Å¡ jako radÅ¡korpion!}
+{945}{}{ZeptÃ¡m se tatÃ­nka, jestli mÅ¯Å¾u bejt kurva aÅ¾ vyrostu. Å˜Ã­kal, Å¾e jednu hroznÄ› potÅ™ebuje.}
+{946}{}{Chci bejt kurva aÅ¾ vyrostu. TÃ¡ta Å™Ã­kÃ¡, Å¾e jich mÃ¡ mÃ¡lo.}
+{947}{}{JÃ¡ mÃ¡m vagÃ­nu.}
+{1176}{}{! PovÄ›z nÃ¡m pÅ™Ã­bÄ›h o EnklÃ¡vÄ›! ProsÃ­m!}
+{1177}{}{! JÃ³Ã³Ã³Ã³Ã³Ã³!}
 {1178}{}{!}
-{1181}{}{ a vyrostu.}
-{1296}{}{: Mùeš bıt KİMKOLIV chceš a vyrosteš.}
+{1181}{}{ aÅ¾ vyrostu.}
+{1296}{}{: MÅ¯Å¾eÅ¡ bÃ½t KÃMKOLIV chceÅ¡ aÅ¾ vyrosteÅ¡.}
 {1310}{}{. NIKDY na tebe nezapomenu.}
-{1311}{}{ dìlat radost. Já rád já zachránit ty.}
-{1315}{}{. Nikdy na to nezapomenu, slibuju. I kdy mi bude sto let.}
-{1320}{}{? Smaeš nás ze svıho harddisku, kdy u hra skonèila?}
+{1311}{}{ dÄ›lat radost. JÃ¡ rÃ¡d jÃ¡ zachrÃ¡nit ty.}
+{1315}{}{. Nikdy na to nezapomenu, slibuju. I kdyÅ¾ mi bude sto let.}
+{1320}{}{? SmaÅ¾eÅ¡ nÃ¡s ze svÃ½ho harddisku, kdyÅ¾ uÅ¾ hra skonÄila?}

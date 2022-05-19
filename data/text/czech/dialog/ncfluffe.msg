@@ -1,212 +1,212 @@
-{100}{}{Vidíš rozkuøovaèku.}
-{150}{}{Vidíš prùmìrnì atraktivní enu. Vypadá to, e tì sjídí pohledem.}
-{151}{}{Vidíš rozkuøovaèku. Vypadá to, e váhá, jestli se ti má vìnovat nebo ne.}
-{160}{}{Vidíš prùmìrnì atraktivní enu. Dívá se na tebe jako na sokyni.}
-{161}{}{Vidíš rozkuøovaèku. Dívá se na tebe jako na sokyni.}
-{200}{}{Ach boe... to je on. }
-{201}{}{Jseš ten nejvìtší kanec na svìtì.}
-{202}{}{::Omdlévá::}
-{203}{}{Myslím, e tì hledají Bratøi. Chtìj natoèit film podle tvıho dobrodruství.}
+{100}{}{VidÃ­Å¡ rozkuÅ™ovaÄku.}
+{150}{}{VidÃ­Å¡ prÅ¯mÄ›rnÄ› atraktivnÃ­ Å¾enu. VypadÃ¡ to, Å¾e tÄ› sjÃ­Å¾dÃ­ pohledem.}
+{151}{}{VidÃ­Å¡ rozkuÅ™ovaÄku. VypadÃ¡ to, Å¾e vÃ¡hÃ¡, jestli se ti mÃ¡ vÄ›novat nebo ne.}
+{160}{}{VidÃ­Å¡ prÅ¯mÄ›rnÄ› atraktivnÃ­ Å¾enu. DÃ­vÃ¡ se na tebe jako na sokyni.}
+{161}{}{VidÃ­Å¡ rozkuÅ™ovaÄku. DÃ­vÃ¡ se na tebe jako na sokyni.}
+{200}{}{Ach boÅ¾e... to je on. }
+{201}{}{JseÅ¡ ten nejvÄ›tÅ¡Ã­ kanec na svÄ›tÄ›.}
+{202}{}{::OmdlÃ©vÃ¡::}
+{203}{}{MyslÃ­m, Å¾e tÄ› hledajÃ­ BratÅ™i. ChtÄ›j natoÄit film podle tvÃ½ho dobrodruÅ¾stvÃ­.}
 {204}{}{Jooo, }
-{205}{}{::Tleská::}
-{206}{}{::Fandí::}
-{207}{}{Ach boe... to je ona. }
-{208}{}{Fandím ti, holka!}
-{209}{}{::Ukáe ti vztyèenı palec::}
-{225}{}{Tohle v ádnım pøípadì rozkuøovat nebudu.}
-{226}{}{Jak sakra chodíš s tou zbrojí na záchod?}
-{227}{}{To je nìjakej novej vibrátor nebo co?}
-{228}{}{To je nìjakej obøí kondom?}
-{235}{}{Potøebuješ nìco, }
+{205}{}{::TleskÃ¡::}
+{206}{}{::FandÃ­::}
+{207}{}{Ach boÅ¾e... to je ona. }
+{208}{}{FandÃ­m ti, holka!}
+{209}{}{::UkÃ¡Å¾e ti vztyÄenÃ½ palec::}
+{225}{}{Tohle v Å¾Ã¡dnÃ½m pÅ™Ã­padÄ› rozkuÅ™ovat nebudu.}
+{226}{}{Jak sakra chodÃ­Å¡ s tou zbrojÃ­ na zÃ¡chod?}
+{227}{}{To je nÄ›jakej novej vibrÃ¡tor nebo co?}
+{228}{}{To je nÄ›jakej obÅ™Ã­ kondom?}
+{235}{}{PotÅ™ebujeÅ¡ nÄ›co, }
 {236}{}{Tady jsem, }
-{237}{}{Podívejte! To je on!}
+{237}{}{PodÃ­vejte! To je on!}
 {238}{}{To je }
-{239}{}{Chtìla bych si nìkdy zahrát s }
-{240}{}{Z toho chlapa celá vlhnu.}
-{241}{}{Klidnì by mì mohl pleskat ocasem do tváøe.}
-{242}{}{Máš mezi nohama pìknì mrštnıho hada.}
-{245}{}{Potøebuješ nìco, }
-{246}{}{Ještì jednoho herce a asi vrhnu.}
-{247}{}{Bejt rozkuøovaèka není ádná sranda.}
-{248}{}{Slyšela jsem, e to mezi rodinama zaèíná bejt dost na noe.}
-{249}{}{Minulej tejden jsem nakopala Julese do koulí.}
-{250}{}{Pøála bych si, aby mi Bratøi dali nìjakou roli ve filmu.}
-{251}{}{Nechápu, co na NÍ Korsickı bratøi vidí...}
-{255}{}{Ach boe... to je on. }
-{256}{}{Kouknìte na ty svaly! Cítím se tak slabá...}
-{257}{}{Je to chlap jako tank. Mrkejte na ten jeho kanón.}
+{239}{}{ChtÄ›la bych si nÄ›kdy zahrÃ¡t s }
+{240}{}{Z toho chlapa celÃ¡ vlhnu.}
+{241}{}{KlidnÄ› by mÄ› mohl pleskat ocasem do tvÃ¡Å™e.}
+{242}{}{MÃ¡Å¡ mezi nohama pÄ›knÄ› mrÅ¡tnÃ½ho hada.}
+{245}{}{PotÅ™ebujeÅ¡ nÄ›co, }
+{246}{}{JeÅ¡tÄ› jednoho herce a asi vrhnu.}
+{247}{}{Bejt rozkuÅ™ovaÄka nenÃ­ Å¾Ã¡dnÃ¡ sranda.}
+{248}{}{SlyÅ¡ela jsem, Å¾e to mezi rodinama zaÄÃ­nÃ¡ bejt dost na noÅ¾e.}
+{249}{}{Minulej tejden jsem nakopala Julese do koulÃ­.}
+{250}{}{PÅ™Ã¡la bych si, aby mi BratÅ™i dali nÄ›jakou roli ve filmu.}
+{251}{}{NechÃ¡pu, co na NÃ KorsickÃ½ bratÅ™i vidÃ­...}
+{255}{}{Ach boÅ¾e... to je on. }
+{256}{}{KouknÄ›te na ty svaly! CÃ­tÃ­m se tak slabÃ¡...}
+{257}{}{Je to chlap jako tank. Mrkejte na ten jeho kanÃ³n.}
 {258}{}{Koukejte na ty stehna...}
-{259}{}{Ten musí bıt mùj...}
+{259}{}{Ten musÃ­ bÃ½t mÅ¯j...}
 {260}{}{::Vzdych::}
-{261}{}{Z toho chlapa celá vlhnu.}
-{262}{}{Máš mezi nohama pìknì mrštnıho hada.}
-{270}{}{Ach boe... to je ona. }
-{271}{}{Vítejte ve studiu, madam.}
-{272}{}{Vypadá tak... (Zachvìje se.) ...nebezpeènì.}
-{273}{}{Je to docela koèka.}
-{274}{}{Zdravím, madam. Dejte mi vìdet, a budete potøebovat s nìèím pomoci.}
-{280}{}{Ach boe... to je on. }
-{281}{}{Vítejte ve studiu, pane.}
-{282}{}{Vypadá tak... (Zachvìje se.) ...nebezpeènì.}
-{283}{}{To je ale poøádnej drsòák.}
-{284}{}{Z toho chlapa celá vlhnu.}
-{285}{}{Máš mezi nohama pìknì mrštnıho hada.}
-{290}{}{Ach boe... to je ona. }
-{291}{}{Vítejte ve studiu, madam.}
-{292}{}{Vypadá tak... (Zachvìje se.) ...nebezpeènì.}
-{293}{}{Je to docela koèka.}
-{294}{}{Zdravím, madam. Dejte mi vìdet, a budete potøebovat s nìèím pomoci.}
-{300}{}{A do prdele! To je Myron! Utíkejte!}
-{301}{}{Do hajzlu! To je Myron. Musím zùstat v klidu... on dokáe vycítit strach.}
-{302}{}{Radši dr Myrona dál ode mì.}
-{303}{}{Myrone, radši se ke mnì ani nepøibliuj.}
-{304}{}{Jestli tady Myron zaène pracovat, tak já konèím.}
-{305}{}{Myrone, u jsi pokoøil pìtivteøinovou hranici?}
-{306}{}{Myrone, radši odsud vypadni, ne tì Bratøi zblejsknou.}
-{315}{}{Copak tyhle úchyláci v kùi nevìdìj, e tu maj bejt a ve støedu?}
-{316}{}{No skvìlı. Další S&M na obzoru.}
-{317}{}{Hmmmm. Èerná kùe. Tak TOHLE tu ještì nebylo.}
-{318}{}{Do pøíštího tejdne nemáme ádnou kùi nebo svazování v plánu.}
-{319}{}{No skvìlı, další slaïouš v kùi.}
-{320}{}{Podívej, zlato, v kùi si tu mùeš zahrát a ve støedu, jasnı?}
-{325}{}{Ještì jednoho herce a asi vrhnu.}
-{326}{}{Bejt rozkuøovaèka není ádná sranda.}
-{327}{}{Slyšela jsem, e to mezi rodinama zaèíná bejt dost na noe.}
-{328}{}{Minulej tejden jsem nakopala Julese do koulí.}
-{329}{}{Ten chlápek s kostí v nose je docela roztomilej. Takovım zvláštním perverzním zpùsobem.}
-{330}{}{Co je to za chlápka s tou kostí v nose?}
-{331}{}{Mrkejte na toho divocha s kostí v nose. Vypadá, e vydrí dlouho.}
-{332}{}{Fíha, u jsem vidìla hodnì zranìní na scénì, ale zaraenou kost v nose ještì ne.}
-{333}{}{Pøála bych si, aby mi Bratøi dali nìjakou roli ve filmu.}
-{334}{}{::Zírá na tebe::}
-{335}{}{No skvìlı, DALŠÍ rozkuøovaèka. Podle toho jak vypadá, bude urèitì pracovat za polovièní cenu.}
+{261}{}{Z toho chlapa celÃ¡ vlhnu.}
+{262}{}{MÃ¡Å¡ mezi nohama pÄ›knÄ› mrÅ¡tnÃ½ho hada.}
+{270}{}{Ach boÅ¾e... to je ona. }
+{271}{}{VÃ­tejte ve studiu, madam.}
+{272}{}{VypadÃ¡ tak... (ZachvÄ›je se.) ...nebezpeÄnÄ›.}
+{273}{}{Je to docela koÄka.}
+{274}{}{ZdravÃ­m, madam. Dejte mi vÄ›det, aÅ¾ budete potÅ™ebovat s nÄ›ÄÃ­m pomoci.}
+{280}{}{Ach boÅ¾e... to je on. }
+{281}{}{VÃ­tejte ve studiu, pane.}
+{282}{}{VypadÃ¡ tak... (ZachvÄ›je se.) ...nebezpeÄnÄ›.}
+{283}{}{To je ale poÅ™Ã¡dnej drsÅˆÃ¡k.}
+{284}{}{Z toho chlapa celÃ¡ vlhnu.}
+{285}{}{MÃ¡Å¡ mezi nohama pÄ›knÄ› mrÅ¡tnÃ½ho hada.}
+{290}{}{Ach boÅ¾e... to je ona. }
+{291}{}{VÃ­tejte ve studiu, madam.}
+{292}{}{VypadÃ¡ tak... (ZachvÄ›je se.) ...nebezpeÄnÄ›.}
+{293}{}{Je to docela koÄka.}
+{294}{}{ZdravÃ­m, madam. Dejte mi vÄ›det, aÅ¾ budete potÅ™ebovat s nÄ›ÄÃ­m pomoci.}
+{300}{}{A do prdele! To je Myron! UtÃ­kejte!}
+{301}{}{Do hajzlu! To je Myron. MusÃ­m zÅ¯stat v klidu... on dokÃ¡Å¾e vycÃ­tit strach.}
+{302}{}{RadÅ¡i drÅ¾ Myrona dÃ¡l ode mÄ›.}
+{303}{}{Myrone, radÅ¡i se ke mnÄ› ani nepÅ™ibliÅ¾uj.}
+{304}{}{Jestli tady Myron zaÄne pracovat, tak jÃ¡ konÄÃ­m.}
+{305}{}{Myrone, uÅ¾ jsi pokoÅ™il pÄ›tivteÅ™inovou hranici?}
+{306}{}{Myrone, radÅ¡i odsud vypadni, neÅ¾ tÄ› BratÅ™i zblejsknou.}
+{315}{}{Copak tyhle ÃºchylÃ¡ci v kÅ¯Å¾i nevÄ›dÄ›j, Å¾e tu maj bejt aÅ¾ ve stÅ™edu?}
+{316}{}{No skvÄ›lÃ½. DalÅ¡Ã­ S&M na obzoru.}
+{317}{}{Hmmmm. ÄŒernÃ¡ kÅ¯Å¾e. Tak TOHLE tu jeÅ¡tÄ› nebylo.}
+{318}{}{Do pÅ™Ã­Å¡tÃ­ho tejdne nemÃ¡me Å¾Ã¡dnou kÅ¯Å¾i nebo svazovÃ¡nÃ­ v plÃ¡nu.}
+{319}{}{No skvÄ›lÃ½, dalÅ¡Ã­ slaÄouÅ¡ v kÅ¯Å¾i.}
+{320}{}{PodÃ­vej, zlato, v kÅ¯Å¾i si tu mÅ¯Å¾eÅ¡ zahrÃ¡t aÅ¾ ve stÅ™edu, jasnÃ½?}
+{325}{}{JeÅ¡tÄ› jednoho herce a asi vrhnu.}
+{326}{}{Bejt rozkuÅ™ovaÄka nenÃ­ Å¾Ã¡dnÃ¡ sranda.}
+{327}{}{SlyÅ¡ela jsem, Å¾e to mezi rodinama zaÄÃ­nÃ¡ bejt dost na noÅ¾e.}
+{328}{}{Minulej tejden jsem nakopala Julese do koulÃ­.}
+{329}{}{Ten chlÃ¡pek s kostÃ­ v nose je docela roztomilej. TakovÃ½m zvlÃ¡Å¡tnÃ­m perverznÃ­m zpÅ¯sobem.}
+{330}{}{Co je to za chlÃ¡pka s tou kostÃ­ v nose?}
+{331}{}{Mrkejte na toho divocha s kostÃ­ v nose. VypadÃ¡, Å¾e vydrÅ¾Ã­ dlouho.}
+{332}{}{FÃ­ha, uÅ¾ jsem vidÄ›la hodnÄ› zranÄ›nÃ­ na scÃ©nÄ›, ale zaraÅ¾enou kost v nose jeÅ¡tÄ› ne.}
+{333}{}{PÅ™Ã¡la bych si, aby mi BratÅ™i dali nÄ›jakou roli ve filmu.}
+{334}{}{::ZÃ­rÃ¡ na tebe::}
+{335}{}{No skvÄ›lÃ½, DALÅ Ã rozkuÅ™ovaÄka. Podle toho jak vypadÃ¡, bude urÄitÄ› pracovat za poloviÄnÃ­ cenu.}
 {336}{}{Kdo je to?}
 {337}{}{Kdo jsi?}
-{345}{}{Ještì jednoho herce a asi vrhnu.}
-{346}{}{Bejt rozkuøovaèka není ádná sranda.}
-{347}{}{Slyšela jsem, e to mezi rodinama zaèíná bejt dost na noe.}
-{348}{}{Minulej tejden jsem nakopala Julese do koulí.}
-{349}{}{Pøála bych si, aby mi Bratøi dali nìjakou roli ve filmu.}
-{350}{}{No skvìlı, DALŠÍ rozkuøovaèka. Podle toho jak vypadá, bude urèitì pracovat za polovièní cenu.}
-{351}{}{::Zírá na tebe::}
+{345}{}{JeÅ¡tÄ› jednoho herce a asi vrhnu.}
+{346}{}{Bejt rozkuÅ™ovaÄka nenÃ­ Å¾Ã¡dnÃ¡ sranda.}
+{347}{}{SlyÅ¡ela jsem, Å¾e to mezi rodinama zaÄÃ­nÃ¡ bejt dost na noÅ¾e.}
+{348}{}{Minulej tejden jsem nakopala Julese do koulÃ­.}
+{349}{}{PÅ™Ã¡la bych si, aby mi BratÅ™i dali nÄ›jakou roli ve filmu.}
+{350}{}{No skvÄ›lÃ½, DALÅ Ã rozkuÅ™ovaÄka. Podle toho jak vypadÃ¡, bude urÄitÄ› pracovat za poloviÄnÃ­ cenu.}
+{351}{}{::ZÃ­rÃ¡ na tebe::}
 {352}{}{Kdo je to?}
 {353}{}{Kdo jsi?}
-{360}{}{Enkláva? Prezident? Povìz mi o tom všechno.}
-{361}{}{Naskriptoval mì Tom French. Má moc hebké a nìné ruce.}
-{362}{}{Oni poøád ještì vedli VÁLKU?! Opravdu? Díky bohu, e je s tìma bastardama konec.}
-{363}{}{Jseš fakt borec. Zaèneš jako primitivní divoch s vrhacím oštìpem - bez uráky - a nakonec zachráníš celej svìt. Jseš super. Teèka.}
-{364}{}{Mìl by sis tuhle hru zahrát za jinou postavu.}
-{365}{}{Povìz mi všechno o tvım boji proti Enklávì... koupím ti jedno vychlazenı.}
-{366}{}{Myslím, e tì hledají Bratøi. Chtìj natoèit film podle tvıho dobrodruství.}
-{370}{}{Jejda, upadlo mi nìco do tvıch kalhot. Mùu si to vylovit?}
-{371}{}{Eh, nezašel bys nìkam na sklenièku? A co trocha nezávazného sexu?}
-{372}{}{Jak to, e jseš v takovı kondici?}
-{373}{}{Mùeš se mi podepsat? Na prsa?}
-{374}{}{Nechceš s nìèím píchnout, }
-{375}{}{Budu potøebovat trošku pomoct s tím tvım kanónem.}
-{376}{}{Slyšela jsem, e je dost... tvrdı s tebou pracovat.}
-{377}{}{Slyšela jsem, e rád pouíváš násilí. To mi nevadí.}
-{378}{}{Jsem moc ráda, e tì znám! Chci øíct, páni, vdy ty jseš pøece }
-{379}{}{Eh, já vím, e se teï nebude nic natáèet, ale nepotøebuješ i tak rozkuøovaèku?}
-{380}{}{Hledáš nìkoho, kdo se ti o nìj postará, šampióne?}
-{381}{}{Hledáš ïolík pro svùj kolík, }
-{382}{}{Zboòuju tì ve filmu "Anální Nikita".}
-{383}{}{Zboòuju tì ve filmu "Oral Hills 90210".}
-{384}{}{Skvìlı vıkon v Øinících.}
-{385}{}{Skvìlı vıkon ve "Vault Sexteen". Fakt inspirativní záitek.}
-{386}{}{Nevím, kde jsou Bratøi... zkus to v jejich kanceláøi.}
-{387}{}{Mùeš se za mnì u Korsickıch bratrù pøimluvit? Ráda bych si zahrála v nìjakım filmu.}
-{388}{}{Rozkuøovaèky maj dùleitou práci udret herce v erekci.}
-{389}{}{Mohla bych si zahrát v tvım dalším filmu?}
-{390}{}{Nechci bejt rozkuøovaèka celej svùj ivot... to fakt ne.}
-{391}{}{Dìlám to jenom proto, abych si mohla zaplatit školu.}
-{392}{}{Mùj pøítel neví, e tu pracuju.}
-{393}{}{Nìkdy ti povyprávím, co tu všechno musíme dìlat.}
-{394}{}{Mùj pøítel neví, e tu pracuju.}
-{395}{}{Nìkterı herci by se mìli povinnì sprchovat. Pravidelnì.}
-{396}{}{Hroznì ráda bych si zahrála v nìjakım filmu.}
-{397}{}{Moje pøítelkynì neví, e tu pracuju.}
-{398}{}{Mùeš se mi podepsat?}
-{399}{}{Eh, nezašla bys nìkam na sklenièku? Teda pokud jseš i na holky.}
-{400}{}{::Ignoruje tì::}
-{420}{}{Tak co, šampióne? Neskoèíme spolu do ringu?}
-{421}{}{Máš moc pìknı dìlo.}
-{422}{}{Hledáš nìkoho, kdo se ti o nìj postará, šampióne?}
-{423}{}{Konèíš s boxem a zaèínáš s pornem? Je to stejná makaèka, ale jinı jevištì.}
-{424}{}{Taky zaèínáš s tímhle byznysem? Tak vítej na palubì, šampióne.}
-{425}{}{Taky zaèínáš s tímhle byznysem? No, aspoò nemusíš zaèínat ze stejnı pozice jako já.}
-{426}{}{Já? Já jsem rozkuøovaèka. Nìkdy.}
-{427}{}{Rozkuøovaèky maj dùleitou práci udret herce v erekci.}
-{428}{}{Bratøi øíkaj, e jsem k nezaplacení. Asi proto se mnou tak èasto spìj.}
-{429}{}{Mìl bys jít do porna. Máš na to postavu.}
-{430}{}{Chceš si zazápasit?}
-{431}{}{Nìkdy ti povyprávím, co tu všechno musíme dìlat.}
-{432}{}{Dej si bacha na dímaèku, je to naprostej kretén. Jednou mi chtìl ukousnout ucho.}
-{433}{}{Zdravím, madam. Mùu vám s *nìèím* pomoct?}
-{434}{}{Eh, jestli hledáte spoleènost na veèer, madam...}
+{360}{}{EnklÃ¡va? Prezident? PovÄ›z mi o tom vÅ¡echno.}
+{361}{}{Naskriptoval mÄ› Tom French. MÃ¡ moc hebkÃ© a nÄ›Å¾nÃ© ruce.}
+{362}{}{Oni poÅ™Ã¡d jeÅ¡tÄ› vedli VÃLKU?! Opravdu? DÃ­ky bohu, Å¾e je s tÄ›ma bastardama konec.}
+{363}{}{JseÅ¡ fakt borec. ZaÄneÅ¡ jako primitivnÃ­ divoch s vrhacÃ­m oÅ¡tÄ›pem - bez urÃ¡Å¾ky - a nakonec zachrÃ¡nÃ­Å¡ celej svÄ›t. JseÅ¡ super. TeÄka.}
+{364}{}{MÄ›l by sis tuhle hru zahrÃ¡t za jinou postavu.}
+{365}{}{PovÄ›z mi vÅ¡echno o tvÃ½m boji proti EnklÃ¡vÄ›... koupÃ­m ti jedno vychlazenÃ½.}
+{366}{}{MyslÃ­m, Å¾e tÄ› hledajÃ­ BratÅ™i. ChtÄ›j natoÄit film podle tvÃ½ho dobrodruÅ¾stvÃ­.}
+{370}{}{Jejda, upadlo mi nÄ›co do tvÃ½ch kalhot. MÅ¯Å¾u si to vylovit?}
+{371}{}{Eh, nezaÅ¡el bys nÄ›kam na skleniÄku? A co trocha nezÃ¡vaznÃ©ho sexu?}
+{372}{}{Jak to, Å¾e jseÅ¡ v takovÃ½ kondici?}
+{373}{}{MÅ¯Å¾eÅ¡ se mi podepsat? Na prsa?}
+{374}{}{NechceÅ¡ s nÄ›ÄÃ­m pÃ­chnout, }
+{375}{}{Budu potÅ™ebovat troÅ¡ku pomoct s tÃ­m tvÃ½m kanÃ³nem.}
+{376}{}{SlyÅ¡ela jsem, Å¾e je dost... tvrdÃ½ s tebou pracovat.}
+{377}{}{SlyÅ¡ela jsem, Å¾e rÃ¡d pouÅ¾Ã­vÃ¡Å¡ nÃ¡silÃ­. To mi nevadÃ­.}
+{378}{}{Jsem moc rÃ¡da, Å¾e tÄ› znÃ¡m! Chci Å™Ã­ct, pÃ¡ni, vÅ¾dyÅ¥ ty jseÅ¡ pÅ™ece }
+{379}{}{Eh, jÃ¡ vÃ­m, Å¾e se teÄ nebude nic natÃ¡Äet, ale nepotÅ™ebujeÅ¡ i tak rozkuÅ™ovaÄku?}
+{380}{}{HledÃ¡Å¡ nÄ›koho, kdo se ti o nÄ›j postarÃ¡, Å¡ampiÃ³ne?}
+{381}{}{HledÃ¡Å¡ ÄolÃ­k pro svÅ¯j kolÃ­k, }
+{382}{}{ZboÅ¾Åˆuju tÄ› ve filmu "AnÃ¡lnÃ­ Nikita".}
+{383}{}{ZboÅ¾Åˆuju tÄ› ve filmu "Oral Hills 90210".}
+{384}{}{SkvÄ›lÃ½ vÃ½kon v Å˜iÅ¥nÃ­cÃ­ch.}
+{385}{}{SkvÄ›lÃ½ vÃ½kon ve "Vault Sexteen". Fakt inspirativnÃ­ zÃ¡Å¾itek.}
+{386}{}{NevÃ­m, kde jsou BratÅ™i... zkus to v jejich kancelÃ¡Å™i.}
+{387}{}{MÅ¯Å¾eÅ¡ se za mnÄ› u KorsickÃ½ch bratrÅ¯ pÅ™imluvit? RÃ¡da bych si zahrÃ¡la v nÄ›jakÃ½m filmu.}
+{388}{}{RozkuÅ™ovaÄky maj dÅ¯leÅ¾itou prÃ¡ci udrÅ¾et herce v erekci.}
+{389}{}{Mohla bych si zahrÃ¡t v tvÃ½m dalÅ¡Ã­m filmu?}
+{390}{}{Nechci bejt rozkuÅ™ovaÄka celej svÅ¯j Å¾ivot... to fakt ne.}
+{391}{}{DÄ›lÃ¡m to jenom proto, abych si mohla zaplatit Å¡kolu.}
+{392}{}{MÅ¯j pÅ™Ã­tel nevÃ­, Å¾e tu pracuju.}
+{393}{}{NÄ›kdy ti povyprÃ¡vÃ­m, co tu vÅ¡echno musÃ­me dÄ›lat.}
+{394}{}{MÅ¯j pÅ™Ã­tel nevÃ­, Å¾e tu pracuju.}
+{395}{}{NÄ›kterÃ½ herci by se mÄ›li povinnÄ› sprchovat. PravidelnÄ›.}
+{396}{}{HroznÄ› rÃ¡da bych si zahrÃ¡la v nÄ›jakÃ½m filmu.}
+{397}{}{Moje pÅ™Ã­telkynÄ› nevÃ­, Å¾e tu pracuju.}
+{398}{}{MÅ¯Å¾eÅ¡ se mi podepsat?}
+{399}{}{Eh, nezaÅ¡la bys nÄ›kam na skleniÄku? Teda pokud jseÅ¡ i na holky.}
+{400}{}{::Ignoruje tÄ›::}
+{420}{}{Tak co, Å¡ampiÃ³ne? NeskoÄÃ­me spolu do ringu?}
+{421}{}{MÃ¡Å¡ moc pÄ›knÃ½ dÄ›lo.}
+{422}{}{HledÃ¡Å¡ nÄ›koho, kdo se ti o nÄ›j postarÃ¡, Å¡ampiÃ³ne?}
+{423}{}{KonÄÃ­Å¡ s boxem a zaÄÃ­nÃ¡Å¡ s pornem? Je to stejnÃ¡ makaÄka, ale jinÃ½ jeviÅ¡tÄ›.}
+{424}{}{Taky zaÄÃ­nÃ¡Å¡ s tÃ­mhle byznysem? Tak vÃ­tej na palubÄ›, Å¡ampiÃ³ne.}
+{425}{}{Taky zaÄÃ­nÃ¡Å¡ s tÃ­mhle byznysem? No, aspoÅˆ nemusÃ­Å¡ zaÄÃ­nat ze stejnÃ½ pozice jako jÃ¡.}
+{426}{}{JÃ¡? JÃ¡ jsem rozkuÅ™ovaÄka. NÄ›kdy.}
+{427}{}{RozkuÅ™ovaÄky maj dÅ¯leÅ¾itou prÃ¡ci udrÅ¾et herce v erekci.}
+{428}{}{BratÅ™i Å™Ã­kaj, Å¾e jsem k nezaplacenÃ­. Asi proto se mnou tak Äasto spÄ›j.}
+{429}{}{MÄ›l bys jÃ­t do porna. MÃ¡Å¡ na to postavu.}
+{430}{}{ChceÅ¡ si zazÃ¡pasit?}
+{431}{}{NÄ›kdy ti povyprÃ¡vÃ­m, co tu vÅ¡echno musÃ­me dÄ›lat.}
+{432}{}{Dej si bacha na Å½dÃ­maÄku, je to naprostej kretÃ©n. Jednou mi chtÄ›l ukousnout ucho.}
+{433}{}{ZdravÃ­m, madam. MÅ¯Å¾u vÃ¡m s *nÄ›ÄÃ­m* pomoct?}
+{434}{}{Eh, jestli hledÃ¡te spoleÄnost na veÄer, madam...}
 {435}{}{Jako obvykle, madam?}
-{450}{}{Zdravím, pane. Mùu vám s *nìèím* pomoct?}
-{451}{}{Jestli hledáš spoleènost na veèer...}
+{450}{}{ZdravÃ­m, pane. MÅ¯Å¾u vÃ¡m s *nÄ›ÄÃ­m* pomoct?}
+{451}{}{Jestli hledÃ¡Å¡ spoleÄnost na veÄer...}
 {452}{}{Jako obvykle, pane?}
-{453}{}{Hledáš nìkoho, kdo se ti o nìj postará, šampióne?}
-{454}{}{Nepøimluvíte se za mì u šéfa?}
-{455}{}{Taky zaèínáš s tímhle byznysem?}
-{456}{}{Mìl bys jít do porna. Máš na to postavu.}
-{457}{}{Nìkdy ti povyprávím, co tu všechno musíme dìlat.}
-{458}{}{Zdravím, madam. Mùu vám s *nìèím* pomoct?}
-{459}{}{Eh, jestli hledáte spoleènost na veèer, madam...}
+{453}{}{HledÃ¡Å¡ nÄ›koho, kdo se ti o nÄ›j postarÃ¡, Å¡ampiÃ³ne?}
+{454}{}{NepÅ™imluvÃ­te se za mÄ› u Å¡Ã©fa?}
+{455}{}{Taky zaÄÃ­nÃ¡Å¡ s tÃ­mhle byznysem?}
+{456}{}{MÄ›l bys jÃ­t do porna. MÃ¡Å¡ na to postavu.}
+{457}{}{NÄ›kdy ti povyprÃ¡vÃ­m, co tu vÅ¡echno musÃ­me dÄ›lat.}
+{458}{}{ZdravÃ­m, madam. MÅ¯Å¾u vÃ¡m s *nÄ›ÄÃ­m* pomoct?}
+{459}{}{Eh, jestli hledÃ¡te spoleÄnost na veÄer, madam...}
 {460}{}{Jako obvykle, madam?}
-{465}{}{Ne, díky. To si to snad radši udìlám sama... rtìnkou.}
-{466}{}{Ty? Promiò, ale tak zoufalá NIKDY nebudu.}
-{467}{}{Eh, tvùj kámoš si tou kostí v nose nìco kompenzuje?}
-{468}{}{Má ten tvùj kámoš s kostí v nose nìjakou pøítelkyni?}
-{469}{}{Ten chlápek s kostí v nose je docela roztomilej. Takovım zvláštním perverzním zpùsobem.}
-{470}{}{Kdo je ten roztomilej chlápek s kostí v nose?}
-{471}{}{Øekni tomu divochovi s kostí v nose, e to v tomhle byznysu dotáhne pìknì daleko.}
-{472}{}{Fíha, u jsem vidìla hodnì zranìní na scénì, ale zaraenou kost v nose ještì ne.}
-{473}{}{Nevím, kde jsou Bratøi... zkus to v jejich kanceláøi.}
-{474}{}{Rozkuøovaèky maj dùleitou práci udret herce v erekci.}
-{475}{}{Hroznì ráda bych si zahrála v nìjakım filmu.}
-{476}{}{Nechci bejt rozkuøovaèka celej svùj ivot... to fakt ne.}
-{477}{}{Mùj pøítel neví, e tu pracuju.}
-{478}{}{Nepotøebuješ s nìèím píchnout?}
-{479}{}{Jestli hledáš práci, promluv si s Bratry.}
-{480}{}{Dìlám to jenom proto, abych si mohla zaplatit školu.}
-{481}{}{Klidnì bych zadarmo ojela Avellona.}
-{482}{}{To není tím, e bych s tebou nechtìla mluvit, ale... moment, JE to tím.}
-{483}{}{Potøebuju si dát dvacet.}
-{484}{}{Nìkdy ti povyprávím, co tu všechno musíme dìlat.}
-{485}{}{Nevadìj ti doufám vyzábliny, e ne?}
-{486}{}{Ty jseš ta nová rozkuøovaèka?}
-{487}{}{Nemáš náhodou ruèník? Jeden z hercù mìl... nehodu.}
-{488}{}{Staèí, kdy si budeš dávat pozor na zuby a bude to v pohodì.}
-{489}{}{Nìkterı herci by se mìli povinnì sprchovat. Pravidelnì.}
-{490}{}{Eh, ty jseš tu nová?}
-{491}{}{Semeno? U jsem si zvykla.}
-{500}{}{Ne, díky. To si to snad radši udìlám sama... rtìnkou.}
-{501}{}{Ty? Promiò, ale tak zoufalá NIKDY nebudu.}
-{502}{}{Nevím, kde jsou Bratøi... zkus to v jejich kanceláøi.}
-{503}{}{Rozkuøovaèky maj dùleitou práci udret herce v erekci.}
-{504}{}{Hroznì ráda bych si zahrála v nìjakım filmu.}
-{505}{}{Nechci bejt rozkuøovaèka celej svùj ivot... to fakt ne.}
-{506}{}{Mùj pøítel neví, e tu pracuju.}
-{507}{}{Nepotøebuješ s nìèím píchnout?}
-{508}{}{Jestli hledáš práci, promluv si s Bratry.}
-{509}{}{Dìlám to jenom proto, abych si mohla zaplatit školu.}
-{510}{}{Klidnì bych zadarmo ojela Avellona.}
-{511}{}{To není tím, e bych s tebou nechtìla mluvit, ale... moment, JE to tím.}
-{512}{}{Potøebuju si dát dvacet.}
-{513}{}{Nìkdy ti povyprávím, co tu všechno musíme dìlat.}
-{514}{}{Nevadìj ti doufám vyzábliny, e ne?}
-{515}{}{Ty jseš ta nová rozkuøovaèka?}
-{516}{}{Nemáš náhodou ruèník? Jeden z hercù mìl... nehodu.}
-{517}{}{Staèí, kdy si budeš dávat pozor na zuby a bude to v pohodì.}
-{518}{}{Nìkterı herci by se mìli povinnì sprchovat. Pravidelnì.}
-{519}{}{Eh, ty jseš tu nová?}
-{520}{}{Semeno? U jsem si zvykla.}
-{1200}{}{. To je ta, co nakopala Enklávì prdel!}
-{1204}{}{! Takhle se nakopává Enklávì prdel!}
-{1207}{}{. To je ta, co nakopala Enklávì prdel!}
+{465}{}{Ne, dÃ­ky. To si to snad radÅ¡i udÄ›lÃ¡m sama... rtÄ›nkou.}
+{466}{}{Ty? PromiÅˆ, ale tak zoufalÃ¡ NIKDY nebudu.}
+{467}{}{Eh, tvÅ¯j kÃ¡moÅ¡ si tou kostÃ­ v nose nÄ›co kompenzuje?}
+{468}{}{MÃ¡ ten tvÅ¯j kÃ¡moÅ¡ s kostÃ­ v nose nÄ›jakou pÅ™Ã­telkyni?}
+{469}{}{Ten chlÃ¡pek s kostÃ­ v nose je docela roztomilej. TakovÃ½m zvlÃ¡Å¡tnÃ­m perverznÃ­m zpÅ¯sobem.}
+{470}{}{Kdo je ten roztomilej chlÃ¡pek s kostÃ­ v nose?}
+{471}{}{Å˜ekni tomu divochovi s kostÃ­ v nose, Å¾e to v tomhle byznysu dotÃ¡hne pÄ›knÄ› daleko.}
+{472}{}{FÃ­ha, uÅ¾ jsem vidÄ›la hodnÄ› zranÄ›nÃ­ na scÃ©nÄ›, ale zaraÅ¾enou kost v nose jeÅ¡tÄ› ne.}
+{473}{}{NevÃ­m, kde jsou BratÅ™i... zkus to v jejich kancelÃ¡Å™i.}
+{474}{}{RozkuÅ™ovaÄky maj dÅ¯leÅ¾itou prÃ¡ci udrÅ¾et herce v erekci.}
+{475}{}{HroznÄ› rÃ¡da bych si zahrÃ¡la v nÄ›jakÃ½m filmu.}
+{476}{}{Nechci bejt rozkuÅ™ovaÄka celej svÅ¯j Å¾ivot... to fakt ne.}
+{477}{}{MÅ¯j pÅ™Ã­tel nevÃ­, Å¾e tu pracuju.}
+{478}{}{NepotÅ™ebujeÅ¡ s nÄ›ÄÃ­m pÃ­chnout?}
+{479}{}{Jestli hledÃ¡Å¡ prÃ¡ci, promluv si s Bratry.}
+{480}{}{DÄ›lÃ¡m to jenom proto, abych si mohla zaplatit Å¡kolu.}
+{481}{}{KlidnÄ› bych zadarmo ojela Avellona.}
+{482}{}{To nenÃ­ tÃ­m, Å¾e bych s tebou nechtÄ›la mluvit, ale... moment, JE to tÃ­m.}
+{483}{}{PotÅ™ebuju si dÃ¡t dvacet.}
+{484}{}{NÄ›kdy ti povyprÃ¡vÃ­m, co tu vÅ¡echno musÃ­me dÄ›lat.}
+{485}{}{NevadÄ›j ti doufÃ¡m vyzÃ¡bliny, Å¾e ne?}
+{486}{}{Ty jseÅ¡ ta novÃ¡ rozkuÅ™ovaÄka?}
+{487}{}{NemÃ¡Å¡ nÃ¡hodou ruÄnÃ­k? Jeden z hercÅ¯ mÄ›l... nehodu.}
+{488}{}{StaÄÃ­, kdyÅ¾ si budeÅ¡ dÃ¡vat pozor na zuby a bude to v pohodÄ›.}
+{489}{}{NÄ›kterÃ½ herci by se mÄ›li povinnÄ› sprchovat. PravidelnÄ›.}
+{490}{}{Eh, ty jseÅ¡ tu novÃ¡?}
+{491}{}{Semeno? UÅ¾ jsem si zvykla.}
+{500}{}{Ne, dÃ­ky. To si to snad radÅ¡i udÄ›lÃ¡m sama... rtÄ›nkou.}
+{501}{}{Ty? PromiÅˆ, ale tak zoufalÃ¡ NIKDY nebudu.}
+{502}{}{NevÃ­m, kde jsou BratÅ™i... zkus to v jejich kancelÃ¡Å™i.}
+{503}{}{RozkuÅ™ovaÄky maj dÅ¯leÅ¾itou prÃ¡ci udrÅ¾et herce v erekci.}
+{504}{}{HroznÄ› rÃ¡da bych si zahrÃ¡la v nÄ›jakÃ½m filmu.}
+{505}{}{Nechci bejt rozkuÅ™ovaÄka celej svÅ¯j Å¾ivot... to fakt ne.}
+{506}{}{MÅ¯j pÅ™Ã­tel nevÃ­, Å¾e tu pracuju.}
+{507}{}{NepotÅ™ebujeÅ¡ s nÄ›ÄÃ­m pÃ­chnout?}
+{508}{}{Jestli hledÃ¡Å¡ prÃ¡ci, promluv si s Bratry.}
+{509}{}{DÄ›lÃ¡m to jenom proto, abych si mohla zaplatit Å¡kolu.}
+{510}{}{KlidnÄ› bych zadarmo ojela Avellona.}
+{511}{}{To nenÃ­ tÃ­m, Å¾e bych s tebou nechtÄ›la mluvit, ale... moment, JE to tÃ­m.}
+{512}{}{PotÅ™ebuju si dÃ¡t dvacet.}
+{513}{}{NÄ›kdy ti povyprÃ¡vÃ­m, co tu vÅ¡echno musÃ­me dÄ›lat.}
+{514}{}{NevadÄ›j ti doufÃ¡m vyzÃ¡bliny, Å¾e ne?}
+{515}{}{Ty jseÅ¡ ta novÃ¡ rozkuÅ™ovaÄka?}
+{516}{}{NemÃ¡Å¡ nÃ¡hodou ruÄnÃ­k? Jeden z hercÅ¯ mÄ›l... nehodu.}
+{517}{}{StaÄÃ­, kdyÅ¾ si budeÅ¡ dÃ¡vat pozor na zuby a bude to v pohodÄ›.}
+{518}{}{NÄ›kterÃ½ herci by se mÄ›li povinnÄ› sprchovat. PravidelnÄ›.}
+{519}{}{Eh, ty jseÅ¡ tu novÃ¡?}
+{520}{}{Semeno? UÅ¾ jsem si zvykla.}
+{1200}{}{. To je ta, co nakopala EnklÃ¡vÄ› prdel!}
+{1204}{}{! Takhle se nakopÃ¡vÃ¡ EnklÃ¡vÄ› prdel!}
+{1207}{}{. To je ta, co nakopala EnklÃ¡vÄ› prdel!}
 {1235}{}{?}
 {1236}{}{!}
 {1238}{}{!}

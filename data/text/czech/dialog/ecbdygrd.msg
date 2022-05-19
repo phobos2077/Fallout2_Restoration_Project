@@ -1,10 +1,10 @@
-{100}{}{Vidíš obrovského chlapa.}
-{101}{}{Vidíš obrovského chlapa.}
-{102}{}{Je to opravdovı obr a takové, jako jsi ty, si zøejmì dává k snídani.}
-{103}{}{Starouši, PÙJDEŠ s námi.}
-{104}{}{Nech nás na pokoji. Nikdy nepodpoøím vaše plány.}
-{105}{}{Podruhé se tì ptát nebudu. Pojï s námi, nebo z tebe udìláme odstrašující pøíklad.}
-{106}{}{To si radìji vezmu svoje vìdomosti s sebou do hrobu.}
-{107}{}{Budi. Zabijte je všechny.}
-{108}{}{To se tì netıká. Otoè se a jdi pryè.}
-{109}{}{Zdá se, e potkáváš urèité lidi v nesprávnou dobu na nesprávném místì.}
+{100}{}{VidÃ­Å¡ obrovskÃ©ho chlapa.}
+{101}{}{VidÃ­Å¡ obrovskÃ©ho chlapa.}
+{102}{}{Je to opravdovÃ½ obr a takovÃ©, jako jsi ty, si zÅ™ejmÄ› dÃ¡vÃ¡ k snÃ­dani.}
+{103}{}{StarouÅ¡i, PÅ®JDEÅ  s nÃ¡mi.}
+{104}{}{Nech nÃ¡s na pokoji. Nikdy nepodpoÅ™Ã­m vaÅ¡e plÃ¡ny.}
+{105}{}{PodruhÃ© se tÄ› ptÃ¡t nebudu. PojÄ s nÃ¡mi, nebo z tebe udÄ›lÃ¡me odstraÅ¡ujÃ­cÃ­ pÅ™Ã­klad.}
+{106}{}{To si radÄ›ji vezmu svoje vÄ›domosti s sebou do hrobu.}
+{107}{}{BudiÅ¾. Zabijte je vÅ¡echny.}
+{108}{}{To se tÄ› netÃ½kÃ¡. OtoÄ se a jdi pryÄ.}
+{109}{}{ZdÃ¡ se, Å¾e potkÃ¡vÃ¡Å¡ urÄitÃ© lidi v nesprÃ¡vnou dobu na nesprÃ¡vnÃ©m mÃ­stÄ›.}

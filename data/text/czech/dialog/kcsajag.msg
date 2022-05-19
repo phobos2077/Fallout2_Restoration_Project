@@ -1,116 +1,116 @@
-{100}{}{Vidíš malého snìdého mue, kterı se na tebe usmívá.}
-{101}{}{Vidíš Sajaga, majitele a barmana hospody U Zlatého geckona.}
-{110}{}{Zdravím tì, cizinèe. Vítej U Zlatého geckona, podniku, kterı je hospodou, hotelem i obchodem. Jsem Sajag. Provozuju to tady. Èím mùu poslouit?}
+{100}{}{VidÃ­Å¡ malÃ©ho snÄ›dÃ©ho muÅ¾e, kterÃ½ se na tebe usmÃ­vÃ¡.}
+{101}{}{VidÃ­Å¡ Sajaga, majitele a barmana hospody U ZlatÃ©ho geckona.}
+{110}{}{ZdravÃ­m tÄ›, cizinÄe. VÃ­tej U ZlatÃ©ho geckona, podniku, kterÃ½ je hospodou, hotelem i obchodem. Jsem Sajag. Provozuju to tady. ÄŒÃ­m mÅ¯Å¾u poslouÅ¾it?}
 {111}{}{Oh eh oh?}
-{112}{}{Blití! (ukázat na sklenici)}
-{113}{}{Chci nìco k pití.}
-{114}{}{Chci koupit jednu rundu pro kadého v baru a tím se tak pøedstavit.}
+{112}{}{BlitÃ­! (ukÃ¡zat na sklenici)}
+{113}{}{Chci nÄ›co k pitÃ­.}
+{114}{}{Chci koupit jednu rundu pro kaÅ¾dÃ©ho v baru a tÃ­m se tak pÅ™edstavit.}
 {115}{}{Chci obchodovat.}
 {116}{}{Chci nocleh.}
-{120}{}{Hmm, další zatracenej idiot. Úplnì jako Torr. Vypadni z mıho baru!}
-{130}{}{Ááá, e by další, co mezi nás dobøe zapadne? Jestli chceš utrácet, tak tohle je ta správná krèma. Èím ti mùu poslouit, kamaráde?}
-{131}{}{Nezdáš se bıt pøíliš populární v téhle èásti mìsta. No, uvidíme co tvé další èiny. Jak ti mùu pomoct?}
-{132}{}{Chci si dát nìjaké pivo.}
-{133}{}{Chci koupit jednu rundu pro kadého v baru.}
+{120}{}{Hmm, dalÅ¡Ã­ zatracenej idiot. ÃšplnÄ› jako Torr. Vypadni z mÃ½ho baru!}
+{130}{}{ÃÃ¡Ã¡, Å¾e by dalÅ¡Ã­, co mezi nÃ¡s dobÅ™e zapadne? Jestli chceÅ¡ utrÃ¡cet, tak tohle je ta sprÃ¡vnÃ¡ krÄma. ÄŒÃ­m ti mÅ¯Å¾u poslouÅ¾it, kamarÃ¡de?}
+{131}{}{NezdÃ¡Å¡ se bÃ½t pÅ™Ã­liÅ¡ populÃ¡rnÃ­ v tÃ©hle ÄÃ¡sti mÄ›sta. No, uvidÃ­me co tvÃ© dalÅ¡Ã­ Äiny. Jak ti mÅ¯Å¾u pomoct?}
+{132}{}{Chci si dÃ¡t nÄ›jakÃ© pivo.}
+{133}{}{Chci koupit jednu rundu pro kaÅ¾dÃ©ho v baru.}
 {134}{}{Chci obchodovat.}
 {135}{}{Chci nocleh.}
-{136}{}{Díky za pomoc. Sbohem.}
+{136}{}{DÃ­ky za pomoc. Sbohem.}
 {137}{}{Sbohem.}
-{140}{}{Jeden vrchovatı dbánek Chcanek zlatého geckona u se nese. Pouze $5 za nejlepší pivo severnì od Reddingu.}
-{141}{}{Ty jsi mi nalil dbánek chcanek!?!}
-{142}{}{Díky za pivo. Mùu se teï zeptat na pár vìcí?}
-{143}{}{Díky. To bude asi všechno. Sbohem.}
-{150}{}{Rundu chcanek pro kadého v baru! Paráda! To bude za $30. (zeširoka se usmìje)}
-{151}{}{To tu všichni pijete geckonskı chcanky!?!}
-{152}{}{Doufám, e mají všichni radost z piva. Sajagu, potøebuju nìjaké informace.}
-{153}{}{Uijte si všichni chcanky. Sbohem.}
-{160}{}{Zdá se, e na to nemáš dost penìz. Lituju, pøíteli, ale na dluh nedávám. (usmìje se)}
-{161}{}{Takovıch jako ty u tu bylo, co nemìli ani vindru a chtìli by chlast. Nejsou prachy, není obsluha. A teï odsud vypadni.}
-{170}{}{Uklidni se, kamaráde, takhle tu øíkáme pivu. (uchichtne se) Tady jsi U Zlatého geckona, víš?}
-{171}{}{Je to jen pivo. U Zlatého geckona, Chcanky zlatého geckona? Chápeš? Máš nìco s ušima nebo co? (zavrtí hlavou) Ach, ti divoši.}
-{172}{}{Aha. Hehe, no, my v Arroyu ve skuteènosti... eh, zapomeò na to.}
-{173}{}{Aha, u chápu. Hmm, máte tu zvláštní vırazy.}
-{174}{}{Nebudu pít chcanky! A nezajímá mì, kde je nalejvaj nebo jak tomu øíkáte!}
-{180}{}{Dobrá, teï kdy u jsme se trochu seznámili...jak ti mùu pomoct? (usmìje se)}
-{181}{}{Pìknì se nám tu s tebou pije. (zahihòá se) Co vlastnì chceš?}
-{182}{}{Myslím, e si dám další pití.}
-{183}{}{Chci koupit rundu pro všechny svoje nové pøátele.}
-{184}{}{Chci se tì na nìco zeptat.}
-{185}{}{Myslím, e to bude prozatím všechno. Dìkuju.}
-{190}{}{No, o informacích to všechno je, kamaráde. Co chceš vìdìt?}
-{191}{}{Ano? O èem chceš ksakru vìdìt?}
-{192}{}{Jsou tu nìkde poblí další mìsta?}
-{193}{}{Jsou tu nìkde v Klamathu další obchodníci?}
-{194}{}{Dìje se v Klamathu nìco mimoøádného?}
-{195}{}{Hledám práci. Nebylo by nìco?}
-{196}{}{Kde se dají získat nìjaké léèivé prostøedky?}
-{197}{}{Hledám nìco, co se nazıvá GECK. Nevíš, kde by se dala taková vìc získat?}
-{198}{}{To bude asi všechno. Ale potøebuju od tebe ještì nìco jiného.}
-{199}{}{Myslím, e mi to prozatím bude staèit.}
-{210}{}{Zdravím, pøíteli. Doneslo se ke mnì, e víš, kde je destilátor Whiskey Boba. Rád bych vìdìl, kde ho má.}
-{211}{}{Tak to se asi pleteš. Jméno Whiskey Bob slyším poprvé v ivotì.}
-{212}{}{Myslím, e ti to neøeknu.}
-{213}{}{Proè chceš vìdìt kde je?}
-{214}{}{Moná, e vím. Jakou to má pro tebe cenu?}
-{215}{}{Potøebuješ se zbavit konkurence, co?}
-{220}{}{Zapomeò na to. Není to zase tak dùleité. (usmìje se)}
-{230}{}{No, Bob pøekáí jistım obchodním partnerùm. Mnì konkurence nevadí, (ušklíbne se), ale jim ano. Dám ti $50, kdy mi øekneš, kde má Bob ten destilátor. Nic víc od tebe neádám. (usmìje se)}
-{231}{}{Problém je v tom, e Bobova podomácku pálená whisky lidem škodí. Zaplatím ti $50, kdy mi øekneš, kde má ten destilátor. Potom ho budeme moct pøedvolat pøed mìstskou radu a ukonèit tak jeho èinnost. (zeširoka se usmìje)}
-{232}{}{$50 je dobrá cena, zvláš kdy pro to nemusím nic udìlat. (Øíct mu kde najde Bobùv destilátor.)}
-{233}{}{Myslím, e ti neøeknu, kde ten destilátor je.}
-{234}{}{Myslím, e Bobova whisky lidem nijak neškodí.}
-{235}{}{Za $50 ti øeknu, kde je ten destilátor, ale chci slyšet víc o tvıch obchodních partnerech. (Øíct mu kde najde Bobùv destilátor.)}
-{240}{}{Diky za informace, pøíteli. Ujišuju tì, e budou dobøe pouity. (usmìje se) Tady je tvıch $50 a jedny chcanky na podnik. Mùu ti ještì s nìèím pomoct?}
-{241}{}{Myslím, e si dám jedny chcanky na oslavu.}
-{242}{}{Co takhle chcanky pro všechny mé zdejší kamarády?}
-{243}{}{Mám nìjaké otázky, na které se chci zeptat.}
-{244}{}{To bude prozatím všechno. Sbohem.}
-{250}{}{No, øeknìme, e mám kontakty s nìkolika dùleitımi lidmi jinì odsud, v Denu.}
-{251}{}{Dobøe, budu si to pamatovat. Díky za peníze.}
-{260}{}{Mám tu velké mnoství nejrùznìjších vìcí: léèivé prostøedky, chlast a tak podobnì. Dá se øíct, e mám své speciální zdroje. Vykupuju taky geckoní kùe.}
-{261}{}{Uka mi co máš.}
-{262}{}{Myslím, e zrovna teï nic nepotøebuju. Ale mám nìjaké otázky.}
-{263}{}{Speciální zdroje? V tom pøípadì bys mi mìl dát opravdu dobré ceny, ne?}
-{270}{}{Vdycky tu mám dostatek pokojù pro naše pøátele. Za pouhıch $20 mùeš mít 8 hodin bezpeèného a pohodlného spánku. Budeš mít celı pokoj jen pro sebe.}
-{271}{}{Nemám volné pokoje, kamaráde. Lituju, mám plno.}
-{272}{}{$20 zní jako dobrá a férová cena. Beru to.}
-{273}{}{Myslím, e takovou nabídku nemùu pøijmout, Sajagu. Co kdybychom se bavili o nìèem jiném?}
-{280}{}{Hej, kamaráde, díky za informaci. Moji pøátelé v Denu mají teï lepší spaní, kdy je konkurence zneškodnìna. (šibalsky se usmìje)}
-{281}{}{Díky za informaci, pøíteli. Mìstská rada, eh, odhlasovala, e zakáe Bobovi pouívat destilátor. U nebude nikomu ubliovat. (upøímnì se usmìje)}
-{282}{}{Jsem rád, e se to takhle vyøešilo. A tìch $50 se taky celkem hodí.}
-{283}{}{No, taky se mi teï bude daleko klidnìji spát, kdy u v Klamathu neuvidím Bobovu pálenku.}
-{284}{}{Je mi to fuk, kamaráde.}
-{290}{}{No, asi takhle. Poslední dobou se dìje ve mìstì dost vìcí. (poèítá na prstech) Máme tu }
-{291}{}{Povìz mi nìco o tìch lido-broucích mrzaèící brahmíny, prosím.}
-{292}{}{Povìz mi nìco o tìch pøerostlıch hlodavcích, prosím.}
-{293}{}{Povìz mi nìco o chodících duších, prosím.}
-{294}{}{Ani mì moc nepøekvapuje, e se v tak rušném mìstì ztratí lovec. Povìz mi o nìm víc.}
-{295}{}{Chci se zeptat na nìco jiného.}
-{296}{}{Myslím, e u jsme probrali všechno.}
-{300}{}{No, bratøi Duntonovi poøád hledají nìkoho, kdo by pro nì dìlal jejich špinavou práci. Doteï pro nì dìlal Torr, syn paní Bucknerové, jene se bojí hlídat brahmíny v noci kvùli lido-broukùm.}
-{301}{}{Díky. Mám na tebe další otázku.}
-{302}{}{Myslím, e víc u nepotøebuju vìdìt. Ale potøebuju od tebe ještì nìco jiného.}
-{303}{}{To bude prozatím všechno. Sbohem.}
-{310}{}{Okolo je pár dalších mìst. Na severozápadì ijí nìjací divoši, ale to nejspíš dobøe víš. (usmìje se) Dále je tu Den nìkolik dní na jihovıchod... ten je nejblí... a pak je tu ještì hornické mìsto Redding daleko na jihovıchodì.}
-{320}{}{Ve mìstì není moc obchodníkù. Snad jen Vic, kdy o tom tak pøemıšlím. Má dùm ve vıchodní èásti centra. Prodával divochùm pøedváleèné vìci z Denu, ale u jsem ho nìjakı èas nevidìl.}
-{330}{}{No, takové ceny nejsou pro kadého. Víš, není vùbec snadné dostat tohle zboí z Denu.}
-{331}{}{Rád bych z tebe udìlal jednoho ze svıch dobrıch pøátel, zlatíèko. (ušklíbne se) Není snadné získat tohle zboí z Denu. Nìco ti øeknu... udìlám ti speciální cenu na všechno, co tu mám.}
-{340}{}{Nevím o èem to mluvíš, kámo. Chceš obchodovat nebo ne?}
-{341}{}{Jo, jasnì e chci obchodovat. Promiò mi tu otázku.}
-{342}{}{Myslím, e s tebou vlastnì obchodovat nechci.}
-{343}{}{Vdy máš kontakty v Denu. No tak... vím, e mi mùeš dát lepší ceny.}
-{350}{}{No, øíká se, e tvorové, co vypadají jako brouci o velikosti èlovìka a chodí po dvou nohách, trhají brahmíny na kusy uprostøed noci. I kdy jenom Torr je vidìl zblízka. Dìsivé, e?}
-{360}{}{Povídá se, e v Lovecké ètvrti je obrovská krysa o velikosti Corvegy, která vládne všem tamním krysám. Prı ije ve starém opuštìném dole a krysy tam tahají všechny lesklé pøedmìty, které najdou. (olízne si rty) Mmm, lesklı cetky.}
-{370}{}{No, kousek na západ od mìsta je kaòon. Pøed nìkolika mìsíci odtamtud vycházelo jasné svìtlo a pak zaèali mizet zvíøata. Stopy vedou do kaòonu, ale ádné nevedou ven. Strašidelné, co? Pár lidí taky slyšelo podivné zvuky naøíkání odráející se od stìn kaòonu.}
-{380}{}{No, Smiley byl jeden z nejlepších lovcù, jakého jsme tu kdy mìli. Jednoho dne vstal a opustil paní Bucknerovou, aby se pokusil najít místo, odkud pøicházejí zlatí geckoni. Tvrdil, e bude bohatı, jestli to místo najde. Jene se ještì nevrátil... a u je to nìjakı ten pátek.}
-{381}{}{To je úasné. Povìz mi o dalších místních novinkách.}
-{382}{}{To bude prozatím všechno.}
-{390}{}{Rajská zahrada, jo? No, nejblí jsem byl rajské zahradì, kdy jsem byl u Jenny. A stojí to jen nìkolik málo dolarù. (usmìje se) Zní to hezky, ale opravdu nevím, kde by se to dalo najít.}
-{391}{}{No, to je odpovìï, která mi moc nepomùe. Chci se ještì na nìco zeptat.}
-{392}{}{To bude prozatím všechno.}
-{2900}{}{Vlastnì se toho poslední dobou moc nedìje.}
-{2901}{}{lido-brouky mrzaèící brahmíny}
-{2902}{}{pøerostlé hlodavce}
-{2903}{}{chodící duchy}
-{2904}{}{pohøešovaného lovce}
-{2905}{}{. V Klamathu to poslední dobou vøe.}
+{140}{}{Jeden vrchovatÃ½ dÅ¾bÃ¡nek Chcanek zlatÃ©ho geckona uÅ¾ se nese. Pouze $5 za nejlepÅ¡Ã­ pivo severnÄ› od Reddingu.}
+{141}{}{Ty jsi mi nalil dÅ¾bÃ¡nek chcanek!?!}
+{142}{}{DÃ­ky za pivo. MÅ¯Å¾u se teÄ zeptat na pÃ¡r vÄ›cÃ­?}
+{143}{}{DÃ­ky. To bude asi vÅ¡echno. Sbohem.}
+{150}{}{Rundu chcanek pro kaÅ¾dÃ©ho v baru! ParÃ¡da! To bude za $30. (zeÅ¡iroka se usmÄ›je)}
+{151}{}{To tu vÅ¡ichni pijete geckonskÃ½ chcanky!?!}
+{152}{}{DoufÃ¡m, Å¾e majÃ­ vÅ¡ichni radost z piva. Sajagu, potÅ™ebuju nÄ›jakÃ© informace.}
+{153}{}{UÅ¾ijte si vÅ¡ichni chcanky. Sbohem.}
+{160}{}{ZdÃ¡ se, Å¾e na to nemÃ¡Å¡ dost penÄ›z. Lituju, pÅ™Ã­teli, ale na dluh nedÃ¡vÃ¡m. (usmÄ›je se)}
+{161}{}{TakovÃ½ch jako ty uÅ¾ tu bylo, co nemÄ›li ani vindru a chtÄ›li by chlast. Nejsou prachy, nenÃ­ obsluha. A teÄ odsud vypadni.}
+{170}{}{Uklidni se, kamarÃ¡de, takhle tu Å™Ã­kÃ¡me pivu. (uchichtne se) Tady jsi U ZlatÃ©ho geckona, vÃ­Å¡?}
+{171}{}{Je to jen pivo. U ZlatÃ©ho geckona, Chcanky zlatÃ©ho geckona? ChÃ¡peÅ¡? MÃ¡Å¡ nÄ›co s uÅ¡ima nebo co? (zavrtÃ­ hlavou) Ach, ti divoÅ¡i.}
+{172}{}{Aha. Hehe, no, my v Arroyu ve skuteÄnosti... eh, zapomeÅˆ na to.}
+{173}{}{Aha, uÅ¾ chÃ¡pu. Hmm, mÃ¡te tu zvlÃ¡Å¡tnÃ­ vÃ½razy.}
+{174}{}{Nebudu pÃ­t chcanky! A nezajÃ­mÃ¡ mÄ›, kde je nalejvaj nebo jak tomu Å™Ã­kÃ¡te!}
+{180}{}{DobrÃ¡, teÄ kdyÅ¾ uÅ¾ jsme se trochu seznÃ¡mili...jak ti mÅ¯Å¾u pomoct? (usmÄ›je se)}
+{181}{}{PÄ›knÄ› se nÃ¡m tu s tebou pije. (zahihÅˆÃ¡ se) Co vlastnÄ› chceÅ¡?}
+{182}{}{MyslÃ­m, Å¾e si dÃ¡m dalÅ¡Ã­ pitÃ­.}
+{183}{}{Chci koupit rundu pro vÅ¡echny svoje novÃ© pÅ™Ã¡tele.}
+{184}{}{Chci se tÄ› na nÄ›co zeptat.}
+{185}{}{MyslÃ­m, Å¾e to bude prozatÃ­m vÅ¡echno. DÄ›kuju.}
+{190}{}{No, o informacÃ­ch to vÅ¡echno je, kamarÃ¡de. Co chceÅ¡ vÄ›dÄ›t?}
+{191}{}{Ano? O Äem chceÅ¡ ksakru vÄ›dÄ›t?}
+{192}{}{Jsou tu nÄ›kde poblÃ­Å¾ dalÅ¡Ã­ mÄ›sta?}
+{193}{}{Jsou tu nÄ›kde v Klamathu dalÅ¡Ã­ obchodnÃ­ci?}
+{194}{}{DÄ›je se v Klamathu nÄ›co mimoÅ™Ã¡dnÃ©ho?}
+{195}{}{HledÃ¡m prÃ¡ci. Nebylo by nÄ›co?}
+{196}{}{Kde se dajÃ­ zÃ­skat nÄ›jakÃ© lÃ©ÄivÃ© prostÅ™edky?}
+{197}{}{HledÃ¡m nÄ›co, co se nazÃ½vÃ¡ GECK. NevÃ­Å¡, kde by se dala takovÃ¡ vÄ›c zÃ­skat?}
+{198}{}{To bude asi vÅ¡echno. Ale potÅ™ebuju od tebe jeÅ¡tÄ› nÄ›co jinÃ©ho.}
+{199}{}{MyslÃ­m, Å¾e mi to prozatÃ­m bude staÄit.}
+{210}{}{ZdravÃ­m, pÅ™Ã­teli. Doneslo se ke mnÄ›, Å¾e vÃ­Å¡, kde je destilÃ¡tor Whiskey Boba. RÃ¡d bych vÄ›dÄ›l, kde ho mÃ¡.}
+{211}{}{Tak to se asi pleteÅ¡. JmÃ©no Whiskey Bob slyÅ¡Ã­m poprvÃ© v Å¾ivotÄ›.}
+{212}{}{MyslÃ­m, Å¾e ti to neÅ™eknu.}
+{213}{}{ProÄ chceÅ¡ vÄ›dÄ›t kde je?}
+{214}{}{MoÅ¾nÃ¡, Å¾e vÃ­m. Jakou to mÃ¡ pro tebe cenu?}
+{215}{}{PotÅ™ebujeÅ¡ se zbavit konkurence, co?}
+{220}{}{ZapomeÅˆ na to. NenÃ­ to zase tak dÅ¯leÅ¾itÃ©. (usmÄ›je se)}
+{230}{}{No, Bob pÅ™ekÃ¡Å¾Ã­ jistÃ½m obchodnÃ­m partnerÅ¯m. MnÄ› konkurence nevadÃ­, (uÅ¡klÃ­bne se), ale jim ano. DÃ¡m ti $50, kdyÅ¾ mi Å™ekneÅ¡, kde mÃ¡ Bob ten destilÃ¡tor. Nic vÃ­c od tebe neÅ¾Ã¡dÃ¡m. (usmÄ›je se)}
+{231}{}{ProblÃ©m je v tom, Å¾e Bobova podomÃ¡cku pÃ¡lenÃ¡ whisky lidem Å¡kodÃ­. ZaplatÃ­m ti $50, kdyÅ¾ mi Å™ekneÅ¡, kde mÃ¡ ten destilÃ¡tor. Potom ho budeme moct pÅ™edvolat pÅ™ed mÄ›stskou radu a ukonÄit tak jeho Äinnost. (zeÅ¡iroka se usmÄ›je)}
+{232}{}{$50 je dobrÃ¡ cena, zvlÃ¡Å¡Å¥ kdyÅ¾ pro to nemusÃ­m nic udÄ›lat. (Å˜Ã­ct mu kde najde BobÅ¯v destilÃ¡tor.)}
+{233}{}{MyslÃ­m, Å¾e ti neÅ™eknu, kde ten destilÃ¡tor je.}
+{234}{}{MyslÃ­m, Å¾e Bobova whisky lidem nijak neÅ¡kodÃ­.}
+{235}{}{Za $50 ti Å™eknu, kde je ten destilÃ¡tor, ale chci slyÅ¡et vÃ­c o tvÃ½ch obchodnÃ­ch partnerech. (Å˜Ã­ct mu kde najde BobÅ¯v destilÃ¡tor.)}
+{240}{}{Diky za informace, pÅ™Ã­teli. UjiÅ¡Å¥uju tÄ›, Å¾e budou dobÅ™e pouÅ¾ity. (usmÄ›je se) Tady je tvÃ½ch $50 a jedny chcanky na podnik. MÅ¯Å¾u ti jeÅ¡tÄ› s nÄ›ÄÃ­m pomoct?}
+{241}{}{MyslÃ­m, Å¾e si dÃ¡m jedny chcanky na oslavu.}
+{242}{}{Co takhle chcanky pro vÅ¡echny mÃ© zdejÅ¡Ã­ kamarÃ¡dy?}
+{243}{}{MÃ¡m nÄ›jakÃ© otÃ¡zky, na kterÃ© se chci zeptat.}
+{244}{}{To bude prozatÃ­m vÅ¡echno. Sbohem.}
+{250}{}{No, Å™eknÄ›me, Å¾e mÃ¡m kontakty s nÄ›kolika dÅ¯leÅ¾itÃ½mi lidmi jiÅ¾nÄ› odsud, v Denu.}
+{251}{}{DobÅ™e, budu si to pamatovat. DÃ­ky za penÃ­ze.}
+{260}{}{MÃ¡m tu velkÃ© mnoÅ¾stvÃ­ nejrÅ¯znÄ›jÅ¡Ã­ch vÄ›cÃ­: lÃ©ÄivÃ© prostÅ™edky, chlast a tak podobnÄ›. DÃ¡ se Å™Ã­ct, Å¾e mÃ¡m svÃ© speciÃ¡lnÃ­ zdroje. Vykupuju taky geckonÃ­ kÅ¯Å¾e.}
+{261}{}{UkaÅ¾ mi co mÃ¡Å¡.}
+{262}{}{MyslÃ­m, Å¾e zrovna teÄ nic nepotÅ™ebuju. Ale mÃ¡m nÄ›jakÃ© otÃ¡zky.}
+{263}{}{SpeciÃ¡lnÃ­ zdroje? V tom pÅ™Ã­padÄ› bys mi mÄ›l dÃ¡t opravdu dobrÃ© ceny, ne?}
+{270}{}{VÅ¾dycky tu mÃ¡m dostatek pokojÅ¯ pro naÅ¡e pÅ™Ã¡tele. Za pouhÃ½ch $20 mÅ¯Å¾eÅ¡ mÃ­t 8 hodin bezpeÄnÃ©ho a pohodlnÃ©ho spÃ¡nku. BudeÅ¡ mÃ­t celÃ½ pokoj jen pro sebe.}
+{271}{}{NemÃ¡m volnÃ© pokoje, kamarÃ¡de. Lituju, mÃ¡m plno.}
+{272}{}{$20 znÃ­ jako dobrÃ¡ a fÃ©rovÃ¡ cena. Beru to.}
+{273}{}{MyslÃ­m, Å¾e takovou nabÃ­dku nemÅ¯Å¾u pÅ™ijmout, Sajagu. Co kdybychom se bavili o nÄ›Äem jinÃ©m?}
+{280}{}{Hej, kamarÃ¡de, dÃ­ky za informaci. Moji pÅ™Ã¡telÃ© v Denu majÃ­ teÄ lepÅ¡Ã­ spanÃ­, kdyÅ¾ je konkurence zneÅ¡kodnÄ›na. (Å¡ibalsky se usmÄ›je)}
+{281}{}{DÃ­ky za informaci, pÅ™Ã­teli. MÄ›stskÃ¡ rada, eh, odhlasovala, Å¾e zakÃ¡Å¾e Bobovi pouÅ¾Ã­vat destilÃ¡tor. UÅ¾ nebude nikomu ubliÅ¾ovat. (upÅ™Ã­mnÄ› se usmÄ›je)}
+{282}{}{Jsem rÃ¡d, Å¾e se to takhle vyÅ™eÅ¡ilo. A tÄ›ch $50 se taky celkem hodÃ­.}
+{283}{}{No, taky se mi teÄ bude daleko klidnÄ›ji spÃ¡t, kdyÅ¾ uÅ¾ v Klamathu neuvidÃ­m Bobovu pÃ¡lenku.}
+{284}{}{Je mi to fuk, kamarÃ¡de.}
+{290}{}{No, asi takhle. PoslednÃ­ dobou se dÄ›je ve mÄ›stÄ› dost vÄ›cÃ­. (poÄÃ­tÃ¡ na prstech) MÃ¡me tu }
+{291}{}{PovÄ›z mi nÄ›co o tÄ›ch lido-broucÃ­ch mrzaÄÃ­cÃ­ brahmÃ­ny, prosÃ­m.}
+{292}{}{PovÄ›z mi nÄ›co o tÄ›ch pÅ™erostlÃ½ch hlodavcÃ­ch, prosÃ­m.}
+{293}{}{PovÄ›z mi nÄ›co o chodÃ­cÃ­ch duÅ¡Ã­ch, prosÃ­m.}
+{294}{}{Ani mÄ› moc nepÅ™ekvapuje, Å¾e se v tak ruÅ¡nÃ©m mÄ›stÄ› ztratÃ­ lovec. PovÄ›z mi o nÄ›m vÃ­c.}
+{295}{}{Chci se zeptat na nÄ›co jinÃ©ho.}
+{296}{}{MyslÃ­m, Å¾e uÅ¾ jsme probrali vÅ¡echno.}
+{300}{}{No, bratÅ™i Duntonovi poÅ™Ã¡d hledajÃ­ nÄ›koho, kdo by pro nÄ› dÄ›lal jejich Å¡pinavou prÃ¡ci. DoteÄ pro nÄ› dÄ›lal Torr, syn panÃ­ BucknerovÃ©, jenÅ¾e se bojÃ­ hlÃ­dat brahmÃ­ny v noci kvÅ¯li lido-broukÅ¯m.}
+{301}{}{DÃ­ky. MÃ¡m na tebe dalÅ¡Ã­ otÃ¡zku.}
+{302}{}{MyslÃ­m, Å¾e vÃ­c uÅ¾ nepotÅ™ebuju vÄ›dÄ›t. Ale potÅ™ebuju od tebe jeÅ¡tÄ› nÄ›co jinÃ©ho.}
+{303}{}{To bude prozatÃ­m vÅ¡echno. Sbohem.}
+{310}{}{Okolo je pÃ¡r dalÅ¡Ã­ch mÄ›st. Na severozÃ¡padÄ› Å¾ijÃ­ nÄ›jacÃ­ divoÅ¡i, ale to nejspÃ­Å¡ dobÅ™e vÃ­Å¡. (usmÄ›je se) DÃ¡le je tu Den nÄ›kolik dnÃ­ na jihovÃ½chod... ten je nejblÃ­Å¾... a pak je tu jeÅ¡tÄ› hornickÃ© mÄ›sto Redding daleko na jihovÃ½chodÄ›.}
+{320}{}{Ve mÄ›stÄ› nenÃ­ moc obchodnÃ­kÅ¯. Snad jen Vic, kdyÅ¾ o tom tak pÅ™emÃ½Å¡lÃ­m. MÃ¡ dÅ¯m ve vÃ½chodnÃ­ ÄÃ¡sti centra. ProdÃ¡val divochÅ¯m pÅ™edvÃ¡leÄnÃ© vÄ›ci z Denu, ale uÅ¾ jsem ho nÄ›jakÃ½ Äas nevidÄ›l.}
+{330}{}{No, takovÃ© ceny nejsou pro kaÅ¾dÃ©ho. VÃ­Å¡, nenÃ­ vÅ¯bec snadnÃ© dostat tohle zboÅ¾Ã­ z Denu.}
+{331}{}{RÃ¡d bych z tebe udÄ›lal jednoho ze svÃ½ch dobrÃ½ch pÅ™Ã¡tel, zlatÃ­Äko. (uÅ¡klÃ­bne se) NenÃ­ snadnÃ© zÃ­skat tohle zboÅ¾Ã­ z Denu. NÄ›co ti Å™eknu... udÄ›lÃ¡m ti speciÃ¡lnÃ­ cenu na vÅ¡echno, co tu mÃ¡m.}
+{340}{}{NevÃ­m o Äem to mluvÃ­Å¡, kÃ¡mo. ChceÅ¡ obchodovat nebo ne?}
+{341}{}{Jo, jasnÄ› Å¾e chci obchodovat. PromiÅˆ mi tu otÃ¡zku.}
+{342}{}{MyslÃ­m, Å¾e s tebou vlastnÄ› obchodovat nechci.}
+{343}{}{VÅ¾dyÅ¥ mÃ¡Å¡ kontakty v Denu. No tak... vÃ­m, Å¾e mi mÅ¯Å¾eÅ¡ dÃ¡t lepÅ¡Ã­ ceny.}
+{350}{}{No, Å™Ã­kÃ¡ se, Å¾e tvorovÃ©, co vypadajÃ­ jako brouci o velikosti ÄlovÄ›ka a chodÃ­ po dvou nohÃ¡ch, trhajÃ­ brahmÃ­ny na kusy uprostÅ™ed noci. I kdyÅ¾ jenom Torr je vidÄ›l zblÃ­zka. DÄ›sivÃ©, Å¾e?}
+{360}{}{PovÃ­dÃ¡ se, Å¾e v LoveckÃ© Ätvrti je obrovskÃ¡ krysa o velikosti Corvegy, kterÃ¡ vlÃ¡dne vÅ¡em tamnÃ­m krysÃ¡m. PrÃ½ Å¾ije ve starÃ©m opuÅ¡tÄ›nÃ©m dole a krysy tam tahajÃ­ vÅ¡echny lesklÃ© pÅ™edmÄ›ty, kterÃ© najdou. (olÃ­zne si rty) Mmm, lesklÃ½ cetky.}
+{370}{}{No, kousek na zÃ¡pad od mÄ›sta je kaÅˆon. PÅ™ed nÄ›kolika mÄ›sÃ­ci odtamtud vychÃ¡zelo jasnÃ© svÄ›tlo a pak zaÄali mizet zvÃ­Å™ata. Stopy vedou do kaÅˆonu, ale Å¾Ã¡dnÃ© nevedou ven. StraÅ¡idelnÃ©, co? PÃ¡r lidÃ­ taky slyÅ¡elo podivnÃ© zvuky naÅ™Ã­kÃ¡nÃ­ odrÃ¡Å¾ejÃ­cÃ­ se od stÄ›n kaÅˆonu.}
+{380}{}{No, Smiley byl jeden z nejlepÅ¡Ã­ch lovcÅ¯, jakÃ©ho jsme tu kdy mÄ›li. Jednoho dne vstal a opustil panÃ­ Bucknerovou, aby se pokusil najÃ­t mÃ­sto, odkud pÅ™ichÃ¡zejÃ­ zlatÃ­ geckoni. Tvrdil, Å¾e bude bohatÃ½, jestli to mÃ­sto najde. JenÅ¾e se jeÅ¡tÄ› nevrÃ¡til... a uÅ¾ je to nÄ›jakÃ½ ten pÃ¡tek.}
+{381}{}{To je ÃºÅ¾asnÃ©. PovÄ›z mi o dalÅ¡Ã­ch mÃ­stnÃ­ch novinkÃ¡ch.}
+{382}{}{To bude prozatÃ­m vÅ¡echno.}
+{390}{}{RajskÃ¡ zahrada, jo? No, nejblÃ­Å¾ jsem byl rajskÃ© zahradÄ›, kdyÅ¾ jsem byl u Jenny. A stojÃ­ to jen nÄ›kolik mÃ¡lo dolarÅ¯. (usmÄ›je se) ZnÃ­ to hezky, ale opravdu nevÃ­m, kde by se to dalo najÃ­t.}
+{391}{}{No, to je odpovÄ›Ä, kterÃ¡ mi moc nepomÅ¯Å¾e. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{392}{}{To bude prozatÃ­m vÅ¡echno.}
+{2900}{}{VlastnÄ› se toho poslednÃ­ dobou moc nedÄ›je.}
+{2901}{}{lido-brouky mrzaÄÃ­cÃ­ brahmÃ­ny}
+{2902}{}{pÅ™erostlÃ© hlodavce}
+{2903}{}{chodÃ­cÃ­ duchy}
+{2904}{}{pohÅ™eÅ¡ovanÃ©ho lovce}
+{2905}{}{. V Klamathu to poslednÃ­ dobou vÅ™e.}

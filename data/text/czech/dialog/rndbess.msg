@@ -1,3 +1,3 @@
-{100}{}{Pøekvapil jsi hejno supù hodujících na mrtvıch brahmínách.}
-{101}{}{Fuj! Není nic horšího ne zápach masa hnijícího v úporném vedru.}
-{102}{}{Mùj boe, to je Bess!}
+{100}{}{PÅ™ekvapil jsi hejno supÅ¯ hodujÃ­cÃ­ch na mrtvÃ½ch brahmÃ­nÃ¡ch.}
+{101}{}{Fuj! NenÃ­ nic horÅ¡Ã­ho neÅ¾ zÃ¡pach masa hnijÃ­cÃ­ho v ÃºpornÃ©m vedru.}
+{102}{}{MÅ¯j boÅ¾e, to je Bess!}

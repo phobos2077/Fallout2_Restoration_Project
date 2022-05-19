@@ -1,118 +1,118 @@
-{100}{}{Vítej, èlovìèe. Jsem bojovník Xarn. To ty mì máš popravit?}
+{100}{}{VÃ­tej, ÄlovÄ›Äe. Jsem bojovnÃ­k Xarn. To ty mÄ› mÃ¡Å¡ popravit?}
 {101}{}{Ano.}
-{102}{}{Ne, já tebe zachránit.}
-{103}{}{Nevím. Já chtít vìdìt proè ty tady.}
+{102}{}{Ne, jÃ¡ tebe zachrÃ¡nit.}
+{103}{}{NevÃ­m. JÃ¡ chtÃ­t vÄ›dÄ›t proÄ ty tady.}
 {104}{}{Ano, proto jsem tady.}
-{105}{}{Ne, chci tì zachránit.}
-{106}{}{Ještì nevím. Nejdøív chci vìdìt, proè jsi tady.}
-{107}{}{Nech se tedy stane to, co se musí stát. Ale nehodlám dát svùj ivot lacino. Tuhle bitvu si budeš pamatovat!}
-{108}{}{Dobøe.}
-{109}{}{Poèkej. Já rozmyslet. Proè ty tady?}
-{110}{}{Jsem pøipraven. Skonèeme to.}
-{111}{}{Poèkej minutku. Proè jsi tu?}
-{112}{}{Tìko mùu uvìøit tomu, e je tu voják Enklávy proto, aby mì zachránil. Mnohem pravdìpodobnìjší je, e jsi pøišel, abys mi nejdøív dal nadìji a potom ji v miku rozprášil.}
-{113}{}{Ne. Já tì pøijít zachránit. Vìøit.}
-{114}{}{Vìø mi, opravdu tì pøicházím zachránit!}
-{115}{}{Jsi má poslední nadìje. Támhlety dveøe vedou do ventilaèní šachty, která konèí v lese. Myslím, e bych zvládl vylézt tou šachtou nahoru a dostat se tak na svobodu, ale bohuel jsou ty dveøe zamèené a k jejich otevøení potøebuji klíè. Najdi klíè, odemkni ty dveøe a tím mì pustíš na svobodu.}
-{116}{}{Dobøe, já udìlat to.}
-{117}{}{Já pøemıšlet.}
-{118}{}{Jasnì, udìlám to.}
-{119}{}{Tak to si ještì rozmyslím.}
-{120}{}{(Xarn se na tebe na chvíli upøenì zahledí.) No dobøe. Enkláva stvoøila mì i mé lidi jakoto rasu bojovıch otrokù. Snaili se vylepšit naše intelektuální schopnosti tak, abychom byli schopni porozumìt jejich rozkazùm, ale abychom ještì nepoznali, e jsme otroci. Ale nepodaøilo se jim to. Jsme mnohem inteligentnìjší ne oèekávali.}
-{121}{}{Rozhodli jsme se, e budeme pøedstírat hlupáky, dokud se nám nenaskytne šance získat svobodu. A ta šance pøišla, kdy se nás Enkláva rozhodla testovat na pevninì. Doktor Schreber s tímto rozhodnutím sice nesouhlasil, ale byl pøehlasován.}
-{122}{}{Schreber se s tím nesmíøil a rozhodl se odjet na tuto základnu. Unesl mì a zaèal experimentovat a zkoumat moje opravdové vlastnosti. A byl úspìšnı. Pokud oznámí Enklávì vısledky svého vızkumu, moji lidé budou pronásledováni a vyhubeni. Musím co nejdøíve utéct a varovat je.}
-{123}{}{(Xarn se na tebe na chvíli upøenì zahledí.) Nemám, co bych ti øekl, èlovìèe. Ve tvé duši cítím zlo a tmu.}
-{124}{}{Kdy doktor taková hrozba, proè ty nezabít?}
-{125}{}{Jít do pekla. Já ustøelit prdel.}
-{126}{}{Kdy je doktor pro tebe taková hrozba, proè jsi ho ještì nezabil?}
-{127}{}{A je tedy po tvém. Chcípni, páraèi.}
-{128}{}{(Povzdechnutí) Nakonec jsem se to rozhodl udìlat, i kdy si v zabíjení nelibuji, ale profesor to zøejmì poznal a pøestal mì navštìvovat osobnì. Svoji šanci jsem tedy propásl.}
-{129}{}{Ty nebát. Doktor mrtvı. U nepodat ádnı hlášení.}
-{130}{}{Já dìkovat za pøíbìh.}
-{131}{}{U se nemusíš bát. Doktor je mrtvı a u nikomu ádné hlášení nepodá.}
-{132}{}{Díky za pøíbìh. Bylo to zajímavé.}
-{133}{}{Je mi líto, e zemøel, ale asi je to tak lepší. Chci se zeptat, pomùeš mi utéct z tohoto místa?}
-{134}{}{Jo, já pomoct.}
-{135}{}{Já pøemıšlet.}
-{136}{}{Ne, to neudìlat.}
-{137}{}{Ano, udìlám to.}
-{138}{}{Ne, ale budu o tom pøemıšlet.}
-{139}{}{Ne. Myslím, e ne.}
-{140}{}{No dobøe... poèkám tu, dokud se nerozhodneš.}
+{105}{}{Ne, chci tÄ› zachrÃ¡nit.}
+{106}{}{JeÅ¡tÄ› nevÃ­m. NejdÅ™Ã­v chci vÄ›dÄ›t, proÄ jsi tady.}
+{107}{}{NechÅ¥ se tedy stane to, co se musÃ­ stÃ¡t. Ale nehodlÃ¡m dÃ¡t svÅ¯j Å¾ivot lacino. Tuhle bitvu si budeÅ¡ pamatovat!}
+{108}{}{DobÅ™e.}
+{109}{}{PoÄkej. JÃ¡ rozmyslet. ProÄ ty tady?}
+{110}{}{Jsem pÅ™ipraven. SkonÄeme to.}
+{111}{}{PoÄkej minutku. ProÄ jsi tu?}
+{112}{}{TÄ›Å¾ko mÅ¯Å¾u uvÄ›Å™it tomu, Å¾e je tu vojÃ¡k EnklÃ¡vy proto, aby mÄ› zachrÃ¡nil. Mnohem pravdÄ›podobnÄ›jÅ¡Ã­ je, Å¾e jsi pÅ™iÅ¡el, abys mi nejdÅ™Ã­v dal nadÄ›ji a potom ji v mÅ¾iku rozprÃ¡Å¡il.}
+{113}{}{Ne. JÃ¡ tÄ› pÅ™ijÃ­t zachrÃ¡nit. VÄ›Å™it.}
+{114}{}{VÄ›Å™ mi, opravdu tÄ› pÅ™ichÃ¡zÃ­m zachrÃ¡nit!}
+{115}{}{Jsi mÃ¡ poslednÃ­ nadÄ›je. TÃ¡mhlety dveÅ™e vedou do ventilaÄnÃ­ Å¡achty, kterÃ¡ konÄÃ­ v lese. MyslÃ­m, Å¾e bych zvlÃ¡dl vylÃ©zt tou Å¡achtou nahoru a dostat se tak na svobodu, ale bohuÅ¾el jsou ty dveÅ™e zamÄenÃ© a k jejich otevÅ™enÃ­ potÅ™ebuji klÃ­Ä. Najdi klÃ­Ä, odemkni ty dveÅ™e a tÃ­m mÄ› pustÃ­Å¡ na svobodu.}
+{116}{}{DobÅ™e, jÃ¡ udÄ›lat to.}
+{117}{}{JÃ¡ pÅ™emÃ½Å¡let.}
+{118}{}{JasnÄ›, udÄ›lÃ¡m to.}
+{119}{}{Tak to si jeÅ¡tÄ› rozmyslÃ­m.}
+{120}{}{(Xarn se na tebe na chvÃ­li upÅ™enÄ› zahledÃ­.) No dobÅ™e. EnklÃ¡va stvoÅ™ila mÄ› i mÃ© lidi jakoÅ¾to rasu bojovÃ½ch otrokÅ¯. SnaÅ¾ili se vylepÅ¡it naÅ¡e intelektuÃ¡lnÃ­ schopnosti tak, abychom byli schopni porozumÄ›t jejich rozkazÅ¯m, ale abychom jeÅ¡tÄ› nepoznali, Å¾e jsme otroci. Ale nepodaÅ™ilo se jim to. Jsme mnohem inteligentnÄ›jÅ¡Ã­ neÅ¾ oÄekÃ¡vali.}
+{121}{}{Rozhodli jsme se, Å¾e budeme pÅ™edstÃ­rat hlupÃ¡ky, dokud se nÃ¡m nenaskytne Å¡ance zÃ­skat svobodu. A ta Å¡ance pÅ™iÅ¡la, kdyÅ¾ se nÃ¡s EnklÃ¡va rozhodla testovat na pevninÄ›. Doktor Schreber s tÃ­mto rozhodnutÃ­m sice nesouhlasil, ale byl pÅ™ehlasovÃ¡n.}
+{122}{}{Schreber se s tÃ­m nesmÃ­Å™il a rozhodl se odjet na tuto zÃ¡kladnu. Unesl mÄ› a zaÄal experimentovat a zkoumat moje opravdovÃ© vlastnosti. A byl ÃºspÄ›Å¡nÃ½. Pokud oznÃ¡mÃ­ EnklÃ¡vÄ› vÃ½sledky svÃ©ho vÃ½zkumu, moji lidÃ© budou pronÃ¡sledovÃ¡ni a vyhubeni. MusÃ­m co nejdÅ™Ã­ve utÃ©ct a varovat je.}
+{123}{}{(Xarn se na tebe na chvÃ­li upÅ™enÄ› zahledÃ­.) NemÃ¡m, co bych ti Å™ekl, ÄlovÄ›Äe. Ve tvÃ© duÅ¡i cÃ­tÃ­m zlo a tmu.}
+{124}{}{KdyÅ¾ doktor takovÃ¡ hrozba, proÄ ty nezabÃ­t?}
+{125}{}{JÃ­t do pekla. JÃ¡ ustÅ™elit prdel.}
+{126}{}{KdyÅ¾ je doktor pro tebe takovÃ¡ hrozba, proÄ jsi ho jeÅ¡tÄ› nezabil?}
+{127}{}{AÅ¥ je tedy po tvÃ©m. ChcÃ­pni, pÃ¡raÄi.}
+{128}{}{(PovzdechnutÃ­) Nakonec jsem se to rozhodl udÄ›lat, i kdyÅ¾ si v zabÃ­jenÃ­ nelibuji, ale profesor to zÅ™ejmÄ› poznal a pÅ™estal mÄ› navÅ¡tÄ›vovat osobnÄ›. Svoji Å¡anci jsem tedy propÃ¡sl.}
+{129}{}{Ty nebÃ¡t. Doktor mrtvÃ½. UÅ¾ nepodat Å¾Ã¡dnÃ½ hlÃ¡Å¡enÃ­.}
+{130}{}{JÃ¡ dÄ›kovat za pÅ™Ã­bÄ›h.}
+{131}{}{UÅ¾ se nemusÃ­Å¡ bÃ¡t. Doktor je mrtvÃ½ a uÅ¾ nikomu Å¾Ã¡dnÃ© hlÃ¡Å¡enÃ­ nepodÃ¡.}
+{132}{}{DÃ­ky za pÅ™Ã­bÄ›h. Bylo to zajÃ­mavÃ©.}
+{133}{}{Je mi lÃ­to, Å¾e zemÅ™el, ale asi je to tak lepÅ¡Ã­. Chci se zeptat, pomÅ¯Å¾eÅ¡ mi utÃ©ct z tohoto mÃ­sta?}
+{134}{}{Jo, jÃ¡ pomoct.}
+{135}{}{JÃ¡ pÅ™emÃ½Å¡let.}
+{136}{}{Ne, to neudÄ›lat.}
+{137}{}{Ano, udÄ›lÃ¡m to.}
+{138}{}{Ne, ale budu o tom pÅ™emÃ½Å¡let.}
+{139}{}{Ne. MyslÃ­m, Å¾e ne.}
+{140}{}{No dobÅ™e... poÄkÃ¡m tu, dokud se nerozhodneÅ¡.}
 {141}{}{Beru.}
-{142}{}{Dobøe... nemám z tvého rozhodnutí radost, ale je to tvá volba. Pokud si to rozmyslíš, budu tady èekat.}
+{142}{}{DobÅ™e... nemÃ¡m z tvÃ©ho rozhodnutÃ­ radost, ale je to tvÃ¡ volba. Pokud si to rozmyslÃ­Å¡, budu tady Äekat.}
 {143}{}{Nashle.}
 {144}{}{Sbohem.}
-{145}{}{Chci se tì na nìco zeptat. Pomùeš mi odtud utéct?}
-{146}{}{Jo, já pomoct.}
-{147}{}{Já pøemıšlet.}
-{148}{}{Ne, to neudìlat.}
-{149}{}{Ano, udìlám to.}
-{150}{}{Ne, ale budu o tom pøemıšlet.}
-{151}{}{Ne. Myslím, e ne.}
-{152}{}{Vítám tì. Jsi pøipraven na náš boj?}
-{153}{}{Nechtít bojovat, chtít slyšet tvùj pøíbìh.}
-{154}{}{Nechtít bojovat. Já tady aby ty zachránit.}
-{155}{}{Ne. Muset jít.}
-{156}{}{Jo. Jsem pøipravenej.}
-{157}{}{Nechci bojovat. Mùeš mi radìji povìdìt svùj pøíbìh?}
-{158}{}{Jsem tady, abych tì zachránil, ne abych s tebou bojoval.}
-{159}{}{Ne. U musím jít.}
-{160}{}{Dobøe. Skonèeme to.}
-{161}{}{Rád tì zase vidím. Zmìnil jsi názor? Pomùeš mi?}
+{145}{}{Chci se tÄ› na nÄ›co zeptat. PomÅ¯Å¾eÅ¡ mi odtud utÃ©ct?}
+{146}{}{Jo, jÃ¡ pomoct.}
+{147}{}{JÃ¡ pÅ™emÃ½Å¡let.}
+{148}{}{Ne, to neudÄ›lat.}
+{149}{}{Ano, udÄ›lÃ¡m to.}
+{150}{}{Ne, ale budu o tom pÅ™emÃ½Å¡let.}
+{151}{}{Ne. MyslÃ­m, Å¾e ne.}
+{152}{}{VÃ­tÃ¡m tÄ›. Jsi pÅ™ipraven na nÃ¡Å¡ boj?}
+{153}{}{NechtÃ­t bojovat, chtÃ­t slyÅ¡et tvÅ¯j pÅ™Ã­bÄ›h.}
+{154}{}{NechtÃ­t bojovat. JÃ¡ tady aby ty zachrÃ¡nit.}
+{155}{}{Ne. Muset jÃ­t.}
+{156}{}{Jo. Jsem pÅ™ipravenej.}
+{157}{}{Nechci bojovat. MÅ¯Å¾eÅ¡ mi radÄ›ji povÄ›dÄ›t svÅ¯j pÅ™Ã­bÄ›h?}
+{158}{}{Jsem tady, abych tÄ› zachrÃ¡nil, ne abych s tebou bojoval.}
+{159}{}{Ne. UÅ¾ musÃ­m jÃ­t.}
+{160}{}{DobÅ™e. SkonÄeme to.}
+{161}{}{RÃ¡d tÄ› zase vidÃ­m. ZmÄ›nil jsi nÃ¡zor? PomÅ¯Å¾eÅ¡ mi?}
 {162}{}{Ano.}
 {163}{}{Ne.}
-{164}{}{Rád tì zase vidím. Zmìnil jsi názor? Pomùeš mi?}
+{164}{}{RÃ¡d tÄ› zase vidÃ­m. ZmÄ›nil jsi nÃ¡zor? PomÅ¯Å¾eÅ¡ mi?}
 {165}{}{Ano.}
-{166}{}{Ne. Poøád pøemıšlet.}
+{166}{}{Ne. PoÅ™Ã¡d pÅ™emÃ½Å¡let.}
 {167}{}{Ne. Nepomoct ti.}
-{168}{}{Ne, poøád o tom pøemıšlím.}
+{168}{}{Ne, poÅ™Ã¡d o tom pÅ™emÃ½Å¡lÃ­m.}
 {169}{}{Ne, nechci ti pomoct.}
-{170}{}{Rád tì znovu vidím. Podaøilo se ti najít klíè k tìm dveøím?}
-{171}{}{Ano, hned otevøít.}
-{172}{}{Ne, stále hledat.}
-{173}{}{Jo, podaøilo. Hned ti ty dveøe otevøu.}
-{174}{}{Stále ho ještì hledám.}
-{175}{}{Díky. Tohle ti nikdy nezapomenu.}
-{176}{}{To bıt v poøádku.}
-{177}{}{Není zaè.}
-{178}{}{Ještì jednou díky, pøíteli. Jsem tvım dluníkem.}
-{179}{}{Zdravím tì, èlovìèe. Na základnì byl spuštìn poplach. To je kvùli tobì?}
-{180}{}{Znovu tì zdravím. Na základnì byl spuštìn poplach. To je kvùli tobì?}
-{181}{}{Jo, to zpùsobit já. Kdo ty a proè to chtít vìdìt?}
-{182}{}{Jo, já bıt ta pøíèina. Proè ty ptát?}
-{183}{}{Jsem Xarn, bojovník. Dovol mi, abych se k tobì pøidal a po tvém boku bojoval za svobodu. Spolu máme šanci, ale sami... kdo ví?}
-{184}{}{Pak mi tedy dovol, abych stál v boji po tvém boku. Spolu snad dosáhneme svobody. Ale sami... kdo ví?}
-{185}{}{Ne já rozhodnout, ty øíct proè ty tady?}
-{186}{}{Hmm... no dobøe. Ty jít se mnou. My bojovat spolu.}
-{187}{}{Ty bojovat sám za sebe. Já odtud pryè.}
-{188}{}{Ještì pøedtím, ne se rozhodnu, chci vìdìt, proè jsi tady?}
-{189}{}{Fajn. Jsme v tom spoleènì. Nabrousej si svoje paøáty a jdeme jim nakopat zadky!}
-{190}{}{Jsi v tom sám, kámo. Já odsud mizím.}
-{191}{}{Hmm... no dobøe. Ty jít se mnou. My bojovat spolu.}
-{192}{}{Ty bojovat sám za sebe. Já odtud pryè.}
-{193}{}{Fajn. Jsme v tom spoleènì. Nabrousej si svoje paøáty a jdeme jim nakopat zadky!}
-{194}{}{Jsi v tom sám, kámo. Já odsud mizím.}
-{195}{}{Díky, èlovìèe. Roztrháme Enklávu na kusy! A ije Grutharùv rod! Grrrrrrr!}
-{196}{}{Dobøe.}
-{200}{}{[Více]}
+{170}{}{RÃ¡d tÄ› znovu vidÃ­m. PodaÅ™ilo se ti najÃ­t klÃ­Ä k tÄ›m dveÅ™Ã­m?}
+{171}{}{Ano, hned otevÅ™Ã­t.}
+{172}{}{Ne, stÃ¡le hledat.}
+{173}{}{Jo, podaÅ™ilo. Hned ti ty dveÅ™e otevÅ™u.}
+{174}{}{StÃ¡le ho jeÅ¡tÄ› hledÃ¡m.}
+{175}{}{DÃ­ky. Tohle ti nikdy nezapomenu.}
+{176}{}{To bÃ½t v poÅ™Ã¡dku.}
+{177}{}{NenÃ­ zaÄ.}
+{178}{}{JeÅ¡tÄ› jednou dÃ­ky, pÅ™Ã­teli. Jsem tvÃ½m dluÅ¾nÃ­kem.}
+{179}{}{ZdravÃ­m tÄ›, ÄlovÄ›Äe. Na zÃ¡kladnÄ› byl spuÅ¡tÄ›n poplach. To je kvÅ¯li tobÄ›?}
+{180}{}{Znovu tÄ› zdravÃ­m. Na zÃ¡kladnÄ› byl spuÅ¡tÄ›n poplach. To je kvÅ¯li tobÄ›?}
+{181}{}{Jo, to zpÅ¯sobit jÃ¡. Kdo ty a proÄ to chtÃ­t vÄ›dÄ›t?}
+{182}{}{Jo, jÃ¡ bÃ½t ta pÅ™Ã­Äina. ProÄ ty ptÃ¡t?}
+{183}{}{Jsem Xarn, bojovnÃ­k. Dovol mi, abych se k tobÄ› pÅ™idal a po tvÃ©m boku bojoval za svobodu. Spolu mÃ¡me Å¡anci, ale sami... kdo vÃ­?}
+{184}{}{Pak mi tedy dovol, abych stÃ¡l v boji po tvÃ©m boku. Spolu snad dosÃ¡hneme svobody. Ale sami... kdo vÃ­?}
+{185}{}{NeÅ¾ jÃ¡ rozhodnout, ty Å™Ã­ct proÄ ty tady?}
+{186}{}{Hmm... no dobÅ™e. Ty jÃ­t se mnou. My bojovat spolu.}
+{187}{}{Ty bojovat sÃ¡m za sebe. JÃ¡ odtud pryÄ.}
+{188}{}{JeÅ¡tÄ› pÅ™edtÃ­m, neÅ¾ se rozhodnu, chci vÄ›dÄ›t, proÄ jsi tady?}
+{189}{}{Fajn. Jsme v tom spoleÄnÄ›. Nabrousej si svoje paÅ™Ã¡ty a jdeme jim nakopat zadky!}
+{190}{}{Jsi v tom sÃ¡m, kÃ¡mo. JÃ¡ odsud mizÃ­m.}
+{191}{}{Hmm... no dobÅ™e. Ty jÃ­t se mnou. My bojovat spolu.}
+{192}{}{Ty bojovat sÃ¡m za sebe. JÃ¡ odtud pryÄ.}
+{193}{}{Fajn. Jsme v tom spoleÄnÄ›. Nabrousej si svoje paÅ™Ã¡ty a jdeme jim nakopat zadky!}
+{194}{}{Jsi v tom sÃ¡m, kÃ¡mo. JÃ¡ odsud mizÃ­m.}
+{195}{}{DÃ­ky, ÄlovÄ›Äe. RoztrhÃ¡me EnklÃ¡vu na kusy! AÅ¥ Å¾ije GrutharÅ¯v rod! Grrrrrrr!}
+{196}{}{DobÅ™e.}
+{200}{}{[VÃ­ce]}
 {201}{}{Ano. Kdo jsi?}
-{202}{}{Ano. Proè?}
-{300}{}{No dobøe. Enkláva vytvoøila z mé rasy bojující otroky. Snaili se vylepšit naše intelektuální schopnosti tak, abychom byli schopni porozumìt jejich rozkazùm, ale abychom ještì nepoznali, e jsme otroci. Ale nepodaøilo se jim to. Jsme mnohem inteligentnìjší ne oèekávali.}
-{301}{}{Rozhodli jsme se pøedstírat hlupáky, dokud se nám nenaskytne šance získat svobodu. A ta šance pøišla, kdy se Enkláva rozhodla nás testovat na pevninì. Doktor Schreber s tímto rozhodnutím sice nesouhlasil, ale byl pøehlasován.}
-{302}{}{Schreber se s tím nesmíøil a rozhodl se odjet na tuto základnu. Unesl mì a zaèal experimentovat a zkoumat moje opravdové vlastnosti. A byl úspìšnı. Pokud oznámí Enklávì vısledky svého vızkumu, moji lidé budou pronásledováni a vyhubeni. Musím co nejdøíve utéct a varovat je.}
-{500}{}{Jsi opravdovı pøítel našeho rodu. Snad se potkáme v klidnìjších dobách. Ale teï u musím jít a pøipravit svùj lid na válku.}
-{501}{}{Utrhnu ti ruce a umlátím tì s nima.}
-{502}{}{Chcípni, proradnı èerve!}
-{503}{}{Tohle tì bude zatracenì bolet.}
-{600}{}{Spolu porazíme naše nepøátele.}
-{601}{}{Ty mi je ukáeš a já je roztrhám.}
-{602}{}{Je naèase dát nìkomu poøádnì do drky.}
-{700}{}{Vidíš páraèe. Sleduje tì podivuhodnì inteligentníma oèima.}
-{701}{}{Vidíš páraèe Xarna.}
-{702}{}{Vidíš obyèejného páraèe. Je to mohutnı tvor s ostrımi zuby a dlouhımi paøáty.}
+{202}{}{Ano. ProÄ?}
+{300}{}{No dobÅ™e. EnklÃ¡va vytvoÅ™ila z mÃ© rasy bojujÃ­cÃ­ otroky. SnaÅ¾ili se vylepÅ¡it naÅ¡e intelektuÃ¡lnÃ­ schopnosti tak, abychom byli schopni porozumÄ›t jejich rozkazÅ¯m, ale abychom jeÅ¡tÄ› nepoznali, Å¾e jsme otroci. Ale nepodaÅ™ilo se jim to. Jsme mnohem inteligentnÄ›jÅ¡Ã­ neÅ¾ oÄekÃ¡vali.}
+{301}{}{Rozhodli jsme se pÅ™edstÃ­rat hlupÃ¡ky, dokud se nÃ¡m nenaskytne Å¡ance zÃ­skat svobodu. A ta Å¡ance pÅ™iÅ¡la, kdyÅ¾ se EnklÃ¡va rozhodla nÃ¡s testovat na pevninÄ›. Doktor Schreber s tÃ­mto rozhodnutÃ­m sice nesouhlasil, ale byl pÅ™ehlasovÃ¡n.}
+{302}{}{Schreber se s tÃ­m nesmÃ­Å™il a rozhodl se odjet na tuto zÃ¡kladnu. Unesl mÄ› a zaÄal experimentovat a zkoumat moje opravdovÃ© vlastnosti. A byl ÃºspÄ›Å¡nÃ½. Pokud oznÃ¡mÃ­ EnklÃ¡vÄ› vÃ½sledky svÃ©ho vÃ½zkumu, moji lidÃ© budou pronÃ¡sledovÃ¡ni a vyhubeni. MusÃ­m co nejdÅ™Ã­ve utÃ©ct a varovat je.}
+{500}{}{Jsi opravdovÃ½ pÅ™Ã­tel naÅ¡eho rodu. Snad se potkÃ¡me v klidnÄ›jÅ¡Ã­ch dobÃ¡ch. Ale teÄ uÅ¾ musÃ­m jÃ­t a pÅ™ipravit svÅ¯j lid na vÃ¡lku.}
+{501}{}{Utrhnu ti ruce a umlÃ¡tÃ­m tÄ› s nima.}
+{502}{}{ChcÃ­pni, proradnÃ½ Äerve!}
+{503}{}{Tohle tÄ› bude zatracenÄ› bolet.}
+{600}{}{Spolu porazÃ­me naÅ¡e nepÅ™Ã¡tele.}
+{601}{}{Ty mi je ukÃ¡Å¾eÅ¡ a jÃ¡ je roztrhÃ¡m.}
+{602}{}{Je naÄase dÃ¡t nÄ›komu poÅ™Ã¡dnÄ› do drÅ¾ky.}
+{700}{}{VidÃ­Å¡ pÃ¡raÄe. Sleduje tÄ› podivuhodnÄ› inteligentnÃ­ma oÄima.}
+{701}{}{VidÃ­Å¡ pÃ¡raÄe Xarna.}
+{702}{}{VidÃ­Å¡ obyÄejnÃ©ho pÃ¡raÄe. Je to mohutnÃ½ tvor s ostrÃ½mi zuby a dlouhÃ½mi paÅ™Ã¡ty.}
 {800}{}{Xarn byl zabit.}
 {810}{}{Xarn byl osvobozen.}
-{820}{}{Xarn se k tobì pøidal.}
-{900}{}{Ne. Já ty chtít zachránit. Pravda. Vìøila mi. Ty utíkala co noha staèila. Já u otevøít dveøe ven. Ty šla.}
-{901}{}{Podívej, já tì chci opravdu zachránit! U jsem dokonce otevøel i další dveøe. Cesta ven je volná.}
+{820}{}{Xarn se k tobÄ› pÅ™idal.}
+{900}{}{Ne. JÃ¡ ty chtÃ­t zachrÃ¡nit. Pravda. VÄ›Å™ila mi. Ty utÃ­kala co noha staÄila. JÃ¡ uÅ¾ otevÅ™Ã­t dveÅ™e ven. Ty Å¡la.}
+{901}{}{PodÃ­vej, jÃ¡ tÄ› chci opravdu zachrÃ¡nit! UÅ¾ jsem dokonce otevÅ™el i dalÅ¡Ã­ dveÅ™e. Cesta ven je volnÃ¡.}

@@ -1,49 +1,49 @@
-{100}{}{Vidíš èlena tvého kmene.}
-{101}{}{Vidíš èlenku tvého kmene.}
-{150}{}{Pøed tebou stojí jeden z váleèníkù tvé vesnice. Na sobì má kalhoty ušité ze zvíøecích kùí.}
+{100}{}{VidÃ­Å¡ Älena tvÃ©ho kmene.}
+{101}{}{VidÃ­Å¡ Älenku tvÃ©ho kmene.}
+{150}{}{PÅ™ed tebou stojÃ­ jeden z vÃ¡leÄnÃ­kÅ¯ tvÃ© vesnice. Na sobÄ› mÃ¡ kalhoty uÅ¡itÃ© ze zvÃ­Å™ecÃ­ch kÅ¯Å¾Ã­.}
 {151}{}{[MLUVIT]}
-{152}{}{Zdravím tì, Vyvolenı. Mùu ti nìjak pomoct s tvım úkolem?}
-{153}{}{Jen se tak naposled procházím vesnicí, ne odsud budu muset odejít.}
-{154}{}{Co mi mùeš øíct o kupcích, se kterımi naše vesnice obchoduje?}
-{155}{}{Kde seenu víc léèivého prášku?}
-{156}{}{Nech ti bohové dají sílu pøinést nám ráj døív, ne bude pozdì.}
-{157}{}{Mám otázku.}
-{158}{}{Sbohem, pøíteli.}
-{159}{}{Haha, ty mì zkoušíš, viï? Jdi navštívit Hakuninovu chıši na severním konci vesnice. To on vyrábí všechny naše léky.}
-{160}{}{Díky. Sbohem.}
-{161}{}{No, co já vím, tak naposled mluvili s Mynocem. Promluv si s ním. Je strácem Velkého mostu.}
-{162}{}{Díky. Sbohem.}
-{163}{}{Mùeš mi øíct, jak se dostanu k Velkému mostu?}
-{164}{}{Ještì se chci na nìco zeptat.}
-{165}{}{Jsi v poøádku, Vyvolenı? Velkı most je na jiním konci vesnice. Ale to pøece víš. Vdy kadı z nás tamtudy prošel u nejménì tisíckrát.}
-{166}{}{Díky. Sbohem.}
-{167}{}{Ještì se chci na nìco zeptat.}
-{168}{}{Samozøejmì. Co tì zajímá?}
-{169}{}{Kde seenu víc léèivého prášku?}
-{170}{}{Co mi mùeš øíct o kupcích, se kterımi naše vesnice obchoduje?}
-{171}{}{Zapomeò na to.}
-{172}{}{A hele, naše trdlo. Øíká se o tobì, e jsi Vyvolenı. Musím øíct, e duch našeho Zakladatele má opravdu divnı vkus.}
-{173}{}{Lhúnhetyk.}
-{174}{}{Pøeju ti bezpeènou cestu, trdlo... pro naše vlastní dobro.}
-{175}{}{Héé????}
-{176}{}{Zrádèe! Musíš zemøít.}
-{177}{}{Zrádce svıch vlastních lidí!}
-{178}{}{Proè tohle dìláš?}
-{179}{}{Smrt ïáblovi!}
-{180}{}{Radìji se od nich dr dál! Oškubou kohokoliv jen aby pøeili.}
-{181}{}{Kde seenu víc léèivého prášku?}
-{182}{}{Díky. Sbohem.}
-{183}{}{Ještì se chci na nìco zeptat.}
-{300}{}{Rád tì znovu vidím, Vyvolenı. Nech tì duchové váleèníkù vedou a chrání.}
-{301}{}{Máš nìjaké problémy, Vyvolenı? Nesmíš nás zklamat. Pospìš si, prosím.}
-{302}{}{Proè ti to tak dlouho trvá? Musíme získat GECK co nejdøív, Vyvolenı. Naše vesnice umírá.}
-{303}{}{Vyvolenı, naše vesnice je u témìø mrtvá. Proè nám ještì neneseš svatı GECK?}
-{970}{}{To je moje jméno.}
-{971}{}{Mluvíš se mnou.}
-{972}{}{To je ale blbá otázka. To jsem pøece já.}
-{980}{}{O tom nic nevím.}
-{981}{}{Je mi líto. Nemám tušení.}
-{982}{}{O tom jsem nikdy neslyšel.}
+{152}{}{ZdravÃ­m tÄ›, VyvolenÃ½. MÅ¯Å¾u ti nÄ›jak pomoct s tvÃ½m Ãºkolem?}
+{153}{}{Jen se tak naposled prochÃ¡zÃ­m vesnicÃ­, neÅ¾ odsud budu muset odejÃ­t.}
+{154}{}{Co mi mÅ¯Å¾eÅ¡ Å™Ã­ct o kupcÃ­ch, se kterÃ½mi naÅ¡e vesnice obchoduje?}
+{155}{}{Kde seÅ¾enu vÃ­c lÃ©ÄivÃ©ho prÃ¡Å¡ku?}
+{156}{}{NechÅ¥ ti bohovÃ© dajÃ­ sÃ­lu pÅ™inÃ©st nÃ¡m rÃ¡j dÅ™Ã­v, neÅ¾ bude pozdÄ›.}
+{157}{}{MÃ¡m otÃ¡zku.}
+{158}{}{Sbohem, pÅ™Ã­teli.}
+{159}{}{Haha, ty mÄ› zkouÅ¡Ã­Å¡, viÄ? Jdi navÅ¡tÃ­vit Hakuninovu chÃ½Å¡i na severnÃ­m konci vesnice. To on vyrÃ¡bÃ­ vÅ¡echny naÅ¡e lÃ©ky.}
+{160}{}{DÃ­ky. Sbohem.}
+{161}{}{No, co jÃ¡ vÃ­m, tak naposled mluvili s Mynocem. Promluv si s nÃ­m. Je strÃ¡Å¾cem VelkÃ©ho mostu.}
+{162}{}{DÃ­ky. Sbohem.}
+{163}{}{MÅ¯Å¾eÅ¡ mi Å™Ã­ct, jak se dostanu k VelkÃ©mu mostu?}
+{164}{}{JeÅ¡tÄ› se chci na nÄ›co zeptat.}
+{165}{}{Jsi v poÅ™Ã¡dku, VyvolenÃ½? VelkÃ½ most je na jiÅ¾nÃ­m konci vesnice. Ale to pÅ™ece vÃ­Å¡. VÅ¾dyÅ¥ kaÅ¾dÃ½ z nÃ¡s tamtudy proÅ¡el uÅ¾ nejmÃ©nÄ› tisÃ­ckrÃ¡t.}
+{166}{}{DÃ­ky. Sbohem.}
+{167}{}{JeÅ¡tÄ› se chci na nÄ›co zeptat.}
+{168}{}{SamozÅ™ejmÄ›. Co tÄ› zajÃ­mÃ¡?}
+{169}{}{Kde seÅ¾enu vÃ­c lÃ©ÄivÃ©ho prÃ¡Å¡ku?}
+{170}{}{Co mi mÅ¯Å¾eÅ¡ Å™Ã­ct o kupcÃ­ch, se kterÃ½mi naÅ¡e vesnice obchoduje?}
+{171}{}{ZapomeÅˆ na to.}
+{172}{}{A hele, naÅ¡e trdlo. Å˜Ã­kÃ¡ se o tobÄ›, Å¾e jsi VyvolenÃ½. MusÃ­m Å™Ã­ct, Å¾e duch naÅ¡eho Zakladatele mÃ¡ opravdu divnÃ½ vkus.}
+{173}{}{LhÃºnhetyk.}
+{174}{}{PÅ™eju ti bezpeÄnou cestu, trdlo... pro naÅ¡e vlastnÃ­ dobro.}
+{175}{}{HÃ©Ã©????}
+{176}{}{ZrÃ¡dÄe! MusÃ­Å¡ zemÅ™Ã­t.}
+{177}{}{ZrÃ¡dce svÃ½ch vlastnÃ­ch lidÃ­!}
+{178}{}{ProÄ tohle dÄ›lÃ¡Å¡?}
+{179}{}{Smrt ÄÃ¡blovi!}
+{180}{}{RadÄ›ji se od nich drÅ¾ dÃ¡l! OÅ¡kubou kohokoliv jen aby pÅ™eÅ¾ili.}
+{181}{}{Kde seÅ¾enu vÃ­c lÃ©ÄivÃ©ho prÃ¡Å¡ku?}
+{182}{}{DÃ­ky. Sbohem.}
+{183}{}{JeÅ¡tÄ› se chci na nÄ›co zeptat.}
+{300}{}{RÃ¡d tÄ› znovu vidÃ­m, VyvolenÃ½. NechÅ¥ tÄ› duchovÃ© vÃ¡leÄnÃ­kÅ¯ vedou a chrÃ¡nÃ­.}
+{301}{}{MÃ¡Å¡ nÄ›jakÃ© problÃ©my, VyvolenÃ½? NesmÃ­Å¡ nÃ¡s zklamat. PospÄ›Å¡ si, prosÃ­m.}
+{302}{}{ProÄ ti to tak dlouho trvÃ¡? MusÃ­me zÃ­skat GECK co nejdÅ™Ã­v, VyvolenÃ½. NaÅ¡e vesnice umÃ­rÃ¡.}
+{303}{}{VyvolenÃ½, naÅ¡e vesnice je uÅ¾ tÃ©mÄ›Å™ mrtvÃ¡. ProÄ nÃ¡m jeÅ¡tÄ› neneseÅ¡ svatÃ½ GECK?}
+{970}{}{To je moje jmÃ©no.}
+{971}{}{MluvÃ­Å¡ se mnou.}
+{972}{}{To je ale blbÃ¡ otÃ¡zka. To jsem pÅ™ece jÃ¡.}
+{980}{}{O tom nic nevÃ­m.}
+{981}{}{Je mi lÃ­to. NemÃ¡m tuÅ¡enÃ­.}
+{982}{}{O tom jsem nikdy neslyÅ¡el.}
 {1000}{}{Starsi}
 {1001}{}{Zakladatel}
 {1002}{}{Obyvatel Vaultu}
@@ -56,15 +56,15 @@
 {1009}{}{Lecivy prasek}
 {1010}{}{Most}
 {1011}{}{Mynoc}
-{1100}{}{Starší je tvoje matka a náš vùdce.}
-{1101}{}{Náš slavnı pøedek, kterı nám pøedal své znalosti.}
-{1102}{}{První èlovìk, kterı bojoval a zvítìzil nad chaosem.}
-{1103}{}{To je naše krásná vesnice.}
-{1104}{}{That’s trading outpost a few days east of here.}
+{1100}{}{StarÅ¡Ã­ je tvoje matka a nÃ¡Å¡ vÅ¯dce.}
+{1101}{}{NÃ¡Å¡ slavnÃ½ pÅ™edek, kterÃ½ nÃ¡m pÅ™edal svÃ© znalosti.}
+{1102}{}{PrvnÃ­ ÄlovÄ›k, kterÃ½ bojoval a zvÃ­tÄ›zil nad chaosem.}
+{1103}{}{To je naÅ¡e krÃ¡snÃ¡ vesnice.}
+{1104}{}{Thatâ€™s trading outpost a few days east of here.}
 {1105}{}{Vault je jako nebe.}
-{1106}{}{Ty jsi Vyvolenı.}
-{1107}{}{Léèí nás pomocí bylin a magie. Jeho chıše leí v severní èásti vesnice.}
-{1108}{}{Léèí nás pomocí bylin a magie. Jeho chıše leí v severní èásti vesnice.}
-{1109}{}{To je kouzelnı prášek, kterı èlovìka vyléèí. Ale zpùsobuje ospalost.}
-{1110}{}{Velikı most je jedinım vıchodem z naší vesnice.}
-{1111}{}{Stráí most, kterı vede do naší vesnice.}
+{1106}{}{Ty jsi VyvolenÃ½.}
+{1107}{}{LÃ©ÄÃ­ nÃ¡s pomocÃ­ bylin a magie. Jeho chÃ½Å¡e leÅ¾Ã­ v severnÃ­ ÄÃ¡sti vesnice.}
+{1108}{}{LÃ©ÄÃ­ nÃ¡s pomocÃ­ bylin a magie. Jeho chÃ½Å¡e leÅ¾Ã­ v severnÃ­ ÄÃ¡sti vesnice.}
+{1109}{}{To je kouzelnÃ½ prÃ¡Å¡ek, kterÃ½ ÄlovÄ›ka vylÃ©ÄÃ­. Ale zpÅ¯sobuje ospalost.}
+{1110}{}{VelikÃ½ most je jedinÃ½m vÃ½chodem z naÅ¡Ã­ vesnice.}
+{1111}{}{StrÃ¡Å¾Ã­ most, kterÃ½ vede do naÅ¡Ã­ vesnice.}

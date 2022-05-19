@@ -1,34 +1,34 @@
-{100}{}{Vidíš Charlieho.}
-{101}{}{Vidíš vyzáblého mue. Vlasy má v rùznì velkıch chomáèích pøiplácnuté k hlavì a kùe mu volnì plandá na tìle.}
-{102}{}{Vidíš Charlieho.}
-{103}{}{Vidíš vyzáblého mue. Vlasy má v rùznì velkıch chomáèích pøiplácnuté k hlavì a kùe mu volnì plandá na tìle.}
-{104}{}{Vidíš vyzáblého mue... vypadá to, e byl silnì ozáøen radiací.}
-{105}{}{Vidíš Charlieho.}
-{106}{}{Vidíš vyzáblého mue... vypadá to, e byl silnì ozáøen radiací.}
-{107}{}{Vidíš Charlieho... vypadá to, e pøibral na váze a klidnì dıchá.}
-{108}{}{Vidíš Charlieho.}
-{109}{}{Vidíš Charlieho... vypadá to, e pøibral na váze a klidnì dıchá.}
-{110}{}{Tento mu trpí nemocí z ozáøení. Tvé dovednosti mu nepomùou. Potøebuje léky.}
-{111}{}{Tento mu vypadá, e je ve strašném stavu. Nevíš jistì, co by mu mohlo bıt.}
-{112}{}{Díky, ale jsem v poøádku, opravdu. Ten RadAway mi pomohl.}
-{113}{}{Nacházíš ílu a skrz ní píchneš RadAway Charliemu do tìla.}
+{100}{}{VidÃ­Å¡ Charlieho.}
+{101}{}{VidÃ­Å¡ vyzÃ¡blÃ©ho muÅ¾e. Vlasy mÃ¡ v rÅ¯znÄ› velkÃ½ch chomÃ¡ÄÃ­ch pÅ™iplÃ¡cnutÃ© k hlavÄ› a kÅ¯Å¾e mu volnÄ› plandÃ¡ na tÄ›le.}
+{102}{}{VidÃ­Å¡ Charlieho.}
+{103}{}{VidÃ­Å¡ vyzÃ¡blÃ©ho muÅ¾e. Vlasy mÃ¡ v rÅ¯znÄ› velkÃ½ch chomÃ¡ÄÃ­ch pÅ™iplÃ¡cnutÃ© k hlavÄ› a kÅ¯Å¾e mu volnÄ› plandÃ¡ na tÄ›le.}
+{104}{}{VidÃ­Å¡ vyzÃ¡blÃ©ho muÅ¾e... vypadÃ¡ to, Å¾e byl silnÄ› ozÃ¡Å™en radiacÃ­.}
+{105}{}{VidÃ­Å¡ Charlieho.}
+{106}{}{VidÃ­Å¡ vyzÃ¡blÃ©ho muÅ¾e... vypadÃ¡ to, Å¾e byl silnÄ› ozÃ¡Å™en radiacÃ­.}
+{107}{}{VidÃ­Å¡ Charlieho... vypadÃ¡ to, Å¾e pÅ™ibral na vÃ¡ze a klidnÄ› dÃ½chÃ¡.}
+{108}{}{VidÃ­Å¡ Charlieho.}
+{109}{}{VidÃ­Å¡ Charlieho... vypadÃ¡ to, Å¾e pÅ™ibral na vÃ¡ze a klidnÄ› dÃ½chÃ¡.}
+{110}{}{Tento muÅ¾ trpÃ­ nemocÃ­ z ozÃ¡Å™enÃ­. TvÃ© dovednosti mu nepomÅ¯Å¾ou. PotÅ™ebuje lÃ©ky.}
+{111}{}{Tento muÅ¾ vypadÃ¡, Å¾e je ve straÅ¡nÃ©m stavu. NevÃ­Å¡ jistÄ›, co by mu mohlo bÃ½t.}
+{112}{}{DÃ­ky, ale jsem v poÅ™Ã¡dku, opravdu. Ten RadAway mi pomohl.}
+{113}{}{NachÃ¡zÃ­Å¡ Å¾Ã­lu a skrz nÃ­ pÃ­chneÅ¡ RadAway Charliemu do tÄ›la.}
 {114}{}{*Urhkkkk*...}
-{115}{}{-- 3 vteøiny --}
-{116}{}{Unhhhhh... *škyt* *škyt*...}
-{117}{}{-- 3 vteøiny --}
+{115}{}{-- 3 vteÅ™iny --}
+{116}{}{Unhhhhh... *Å¡kyt* *Å¡kyt*...}
+{117}{}{-- 3 vteÅ™iny --}
 {118}{}{Hrnnhhhh... eh... ahhhhh}
-{119}{}{-- 3 vteøiny --}
-{120}{}{Co se stalo? Cítím se mnohem líp.}
-{121}{}{Podaøilo se ti vyléèit Charlieho.}
+{119}{}{-- 3 vteÅ™iny --}
+{120}{}{Co se stalo? CÃ­tÃ­m se mnohem lÃ­p.}
+{121}{}{PodaÅ™ilo se ti vylÃ©Äit Charlieho.}
 {122}{}{*Errhhhhhh*}
-{123}{}{*Hvízd*}
-{124}{}{*Škyt-Škyt*}
+{123}{}{*HvÃ­zd*}
+{124}{}{*Å kyt-Å kyt*}
 {125}{}{*Urhkkkk*}
-{126}{}{To je naposled, co jsem pil tu zatracenou vodu v tomhle mìstì, to je jistı.}
-{127}{}{Jsem pøekvapenej, e u nesvítím...}
-{128}{}{Bezva, ten RadAway mì zase rozhejbal...}
-{129}{}{Díky, venkovane. Váím si tvı pomoci... nemùu si toti dovolit Auto-Dok.}
-{130}{}{Chtìl bych se ti odmìnit, ale nemám ani vyndru.}
-{131}{}{To je naposled, co jsem pil tu zatracenou vodu v tomhle mìstì, to je jistı.}
-{132}{}{Jsem pøekvapenej, e u nesvítím...}
-{133}{}{Bezva, ten RadAway mì zase rozhejbal...}
+{126}{}{To je naposled, co jsem pil tu zatracenou vodu v tomhle mÄ›stÄ›, to je jistÃ½.}
+{127}{}{Jsem pÅ™ekvapenej, Å¾e uÅ¾ nesvÃ­tÃ­m...}
+{128}{}{Bezva, ten RadAway mÄ› zase rozhejbal...}
+{129}{}{DÃ­ky, venkovane. VÃ¡Å¾Ã­m si tvÃ½ pomoci... nemÅ¯Å¾u si totiÅ¾ dovolit Auto-Dok.}
+{130}{}{ChtÄ›l bych se ti odmÄ›nit, ale nemÃ¡m ani vyndru.}
+{131}{}{To je naposled, co jsem pil tu zatracenou vodu v tomhle mÄ›stÄ›, to je jistÃ½.}
+{132}{}{Jsem pÅ™ekvapenej, Å¾e uÅ¾ nesvÃ­tÃ­m...}
+{133}{}{Bezva, ten RadAway mÄ› zase rozhejbal...}

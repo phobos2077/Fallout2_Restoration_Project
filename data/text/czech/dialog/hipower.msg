@@ -1,2 +1,2 @@
-{100}{}{Tohle je generátor pro Broken Hills.}
-{101}{}{Generátor je napájen uranovımi èlánky a zdá se, e bìí docela efektivnì.}
+{100}{}{Tohle je generÃ¡tor pro Broken Hills.}
+{101}{}{GenerÃ¡tor je napÃ¡jen uranovÃ½mi ÄlÃ¡nky a zdÃ¡ se, Å¾e bÄ›Å¾Ã­ docela efektivnÄ›.}

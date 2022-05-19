@@ -1,97 +1,97 @@
-{100}{}{Vidíš malého, nervóznì vypadajícího mue.}
-{101}{}{Vidíš viceprezidenta Birda.}
-{102}{}{Vidíš malého, nervóznì vypadajícího mue, obleèeného do obleku se skvrnami od jídla.}
-{103}{}{Vida, jeden z našich stateènıch vojákù. Co dìláte v kanceláøi viceprezidenta?}
-{104}{}{Zdravím vás, vojáku. Co dìláte v kanceláøi viceprezidenta?}
-{105}{}{Vypadáte povìdomì. Nemluvili jsme spolu u nìkdy? No, nevadí. Take, co pohledáváte v kanceláøi viceprezidenta?}
+{100}{}{VidÃ­Å¡ malÃ©ho, nervÃ³znÄ› vypadajÃ­cÃ­ho muÅ¾e.}
+{101}{}{VidÃ­Å¡ viceprezidenta Birda.}
+{102}{}{VidÃ­Å¡ malÃ©ho, nervÃ³znÄ› vypadajÃ­cÃ­ho muÅ¾e, obleÄenÃ©ho do obleku se skvrnami od jÃ­dla.}
+{103}{}{Vida, jeden z naÅ¡ich stateÄnÃ½ch vojÃ¡kÅ¯. Co dÄ›lÃ¡te v kancelÃ¡Å™i viceprezidenta?}
+{104}{}{ZdravÃ­m vÃ¡s, vojÃ¡ku. Co dÄ›lÃ¡te v kancelÃ¡Å™i viceprezidenta?}
+{105}{}{VypadÃ¡te povÄ›domÄ›. Nemluvili jsme spolu uÅ¾ nÄ›kdy? No, nevadÃ­. TakÅ¾e, co pohledÃ¡vÃ¡te v kancelÃ¡Å™i viceprezidenta?}
 {106}{}{Kdo jste?}
-{107}{}{Eh, jsem jen na rutinní obchùzce, eh, pane.}
-{108}{}{Hledám vetøelce.}
-{109}{}{Chci si ještì jednou projít naše tajné plány.}
-{110}{}{Chci vás zabít.}
-{111}{}{Tak pokraèujte, vojáku. Pokraèujte. Vy a vaši chlapci odvádíte skvìlou práci. Jsme pøipraveni na jakékoliv neèekané události, které by se mohly naskytnout.}
+{107}{}{Eh, jsem jen na rutinnÃ­ obchÅ¯zce, eh, pane.}
+{108}{}{HledÃ¡m vetÅ™elce.}
+{109}{}{Chci si jeÅ¡tÄ› jednou projÃ­t naÅ¡e tajnÃ© plÃ¡ny.}
+{110}{}{Chci vÃ¡s zabÃ­t.}
+{111}{}{Tak pokraÄujte, vojÃ¡ku. PokraÄujte. Vy a vaÅ¡i chlapci odvÃ¡dÃ­te skvÄ›lou prÃ¡ci. Jsme pÅ™ipraveni na jakÃ©koliv neÄekanÃ© udÃ¡losti, kterÃ© by se mohly naskytnout.}
 {112}{}{He?}
-{113}{}{Eh, ano. No, radìji dokonèím svoji obchùzku. Sbohem.}
-{114}{}{Hmm, povìzte mi, jak hláskujete "dcera"? S 'D' nebo bez?}
-{115}{}{Hmm, povìzte mi, jak hláskujete "domnìnka"? S 'N' nebo bez?}
-{116}{}{Hmm, povìzte mi, jak hláskujete "ethanol"? S 'H' nebo bez?}
-{117}{}{Hmm, povìzte mi, jak hláskujete "vèela"? S 'V' nebo bez?}
-{118}{}{Hmm, povìzte mi, jak hláskujete "nápad"? S 'D' nebo bez?}
+{113}{}{Eh, ano. No, radÄ›ji dokonÄÃ­m svoji obchÅ¯zku. Sbohem.}
+{114}{}{Hmm, povÄ›zte mi, jak hlÃ¡skujete "dcera"? S 'D' nebo bez?}
+{115}{}{Hmm, povÄ›zte mi, jak hlÃ¡skujete "domnÄ›nka"? S 'N' nebo bez?}
+{116}{}{Hmm, povÄ›zte mi, jak hlÃ¡skujete "ethanol"? S 'H' nebo bez?}
+{117}{}{Hmm, povÄ›zte mi, jak hlÃ¡skujete "vÄela"? S 'V' nebo bez?}
+{118}{}{Hmm, povÄ›zte mi, jak hlÃ¡skujete "nÃ¡pad"? S 'D' nebo bez?}
 {119}{}{Eh, asi s.}
-{120}{}{Samozøejmì e bez.}
-{121}{}{To je samozøejmì správnì. Kadı vìrnı obèan našich skvìlıch Spojenıch Státù by odpovìdìl stejnì.}
-{122}{}{Proè myslíte?}
-{123}{}{Mám teï práci. Sbohem.}
-{124}{}{Tak pokraèujte, vojáku. Vstøíc lepším zítøkùm.}
-{125}{}{Co tím myslíš?}
-{126}{}{Ne pro vás. Vyhlazuju všechny Enklávské èervy a vy jste právì na øadì.}
-{127}{}{Eh, jasnì. Sbohem.}
-{128}{}{Musíme spojit síly a pracovat spoleènì, protoe pokud neuspìjeme, riskujeme selhání.}
-{129}{}{Moná, e by nebylo a tak špatné, kdybyste selhal.}
-{130}{}{No, bude lepší, kdy pùjdu.}
-{131}{}{To vám jen tak neprojde.}
-{132}{}{Uvidíme.}
-{133}{}{Proè ne? }
-{134}{}{Zodpovìdnost kadého viceprezidenta se dá vyjádøit jedním slovem a to slovo je "bıt vdy pøipraven."}
-{135}{}{Na co jste pøipraven?}
-{136}{}{Nejsou to náhodou tøi slova? 'Pøipravenost' je jedno slovo. To jste mìl na mysli?}
-{137}{}{Ano, nejspíš ano. Ale nebudeme to rozvádìt. Koneckoncù, uvanìnost vede k nedorozumìní a nepochopení.}
-{138}{}{To øíká ten pravı.}
-{139}{}{Musím odejít. Sbohem.}
-{140}{}{Tím chci øíct, e se nesmíme vracet zpìt do minulosti. Musíme smìøovat kupøedu.}
-{141}{}{Není to snad jedinı monı smìr?}
-{142}{}{No, opatrnosti není nikdy dost. Koneckoncù, nìkteøí opravdu podivní lidé by se mohli dostat na jistá delikátní místa a to by mohlo mít ohromnı dopad na historii.}
-{143}{}{Ano, chápu.}
-{144}{}{A jakı dopad na historii plánujete vy?}
-{145}{}{Ano, ten smìr mám rád. Osvìdèil se v minulosti a osvìdèí se i v budoucnu. Take se klidnì vydejme kupøedu.}
+{120}{}{SamozÅ™ejmÄ› Å¾e bez.}
+{121}{}{To je samozÅ™ejmÄ› sprÃ¡vnÄ›. KaÅ¾dÃ½ vÄ›rnÃ½ obÄan naÅ¡ich skvÄ›lÃ½ch SpojenÃ½ch StÃ¡tÅ¯ by odpovÄ›dÄ›l stejnÄ›.}
+{122}{}{ProÄ myslÃ­te?}
+{123}{}{MÃ¡m teÄ prÃ¡ci. Sbohem.}
+{124}{}{Tak pokraÄujte, vojÃ¡ku. VstÅ™Ã­c lepÅ¡Ã­m zÃ­tÅ™kÅ¯m.}
+{125}{}{Co tÃ­m myslÃ­Å¡?}
+{126}{}{Ne pro vÃ¡s. Vyhlazuju vÅ¡echny EnklÃ¡vskÃ© Äervy a vy jste prÃ¡vÄ› na Å™adÄ›.}
+{127}{}{Eh, jasnÄ›. Sbohem.}
+{128}{}{MusÃ­me spojit sÃ­ly a pracovat spoleÄnÄ›, protoÅ¾e pokud neuspÄ›jeme, riskujeme selhÃ¡nÃ­.}
+{129}{}{MoÅ¾nÃ¡, Å¾e by nebylo aÅ¾ tak Å¡patnÃ©, kdybyste selhal.}
+{130}{}{No, bude lepÅ¡Ã­, kdyÅ¾ pÅ¯jdu.}
+{131}{}{To vÃ¡m jen tak neprojde.}
+{132}{}{UvidÃ­me.}
+{133}{}{ProÄ ne? }
+{134}{}{ZodpovÄ›dnost kaÅ¾dÃ©ho viceprezidenta se dÃ¡ vyjÃ¡dÅ™it jednÃ­m slovem a to slovo je "bÃ½t vÅ¾dy pÅ™ipraven."}
+{135}{}{Na co jste pÅ™ipraven?}
+{136}{}{Nejsou to nÃ¡hodou tÅ™i slova? 'PÅ™ipravenost' je jedno slovo. To jste mÄ›l na mysli?}
+{137}{}{Ano, nejspÃ­Å¡ ano. Ale nebudeme to rozvÃ¡dÄ›t. KoneckoncÅ¯, uÅ¾vanÄ›nost vede k nedorozumÄ›nÃ­ a nepochopenÃ­.}
+{138}{}{To Å™Ã­kÃ¡ ten pravÃ½.}
+{139}{}{MusÃ­m odejÃ­t. Sbohem.}
+{140}{}{TÃ­m chci Å™Ã­ct, Å¾e se nesmÃ­me vracet zpÄ›t do minulosti. MusÃ­me smÄ›Å™ovat kupÅ™edu.}
+{141}{}{NenÃ­ to snad jedinÃ½ moÅ¾nÃ½ smÄ›r?}
+{142}{}{No, opatrnosti nenÃ­ nikdy dost. KoneckoncÅ¯, nÄ›kteÅ™Ã­ opravdu podivnÃ­ lidÃ© by se mohli dostat na jistÃ¡ delikÃ¡tnÃ­ mÃ­sta a to by mohlo mÃ­t ohromnÃ½ dopad na historii.}
+{143}{}{Ano, chÃ¡pu.}
+{144}{}{A jakÃ½ dopad na historii plÃ¡nujete vy?}
+{145}{}{Ano, ten smÄ›r mÃ¡m rÃ¡d. OsvÄ›dÄil se v minulosti a osvÄ›dÄÃ­ se i v budoucnu. TakÅ¾e se klidnÄ› vydejme kupÅ™edu.}
 {146}{}{Eh, jo.}
-{147}{}{Vìøím, e jsme zapoèali nezvratnı trend smìøující k vìtší svobodì a demokracii... ale to se mùe zmìnit.}
-{148}{}{Zneèištìnému ivotnímu prostøedí pustin by se hodila trocha svobody.}
-{149}{}{U toho mám dost. Musíte zemøít.}
-{150}{}{Hlupáku. Zneèištìní nemá vliv na ivotní prostøedí. Za všechno mùou neèistoty ve vodì a v ovzduší.}
-{151}{}{U musím opravdu jít.}
-{152}{}{Kdybyste il na pevninì, nebral byste to tak na lehkou váhu.}
-{153}{}{A to je právì ono. Enkláva je toti umìle vytvoøenı ostrov obklopenı vodou.}
-{154}{}{Vy si myslíte, e jste proti všemu, co se tady dìje, imunní? Ještì poøád ijeme na stejné planetì.}
-{155}{}{Nechtìl byste k tomu ještì nìco dodat? Tøeba nìjakou pointu?}
-{156}{}{Jsem viceprezident Daniel Bird a jsem zatracenì rád, e vás poznávám.}
-{157}{}{Jste jen malá èást celého tohohle problému.}
+{147}{}{VÄ›Å™Ã­m, Å¾e jsme zapoÄali nezvratnÃ½ trend smÄ›Å™ujÃ­cÃ­ k vÄ›tÅ¡Ã­ svobodÄ› a demokracii... ale to se mÅ¯Å¾e zmÄ›nit.}
+{148}{}{ZneÄiÅ¡tÄ›nÃ©mu Å¾ivotnÃ­mu prostÅ™edÃ­ pustin by se hodila trocha svobody.}
+{149}{}{UÅ¾ toho mÃ¡m dost. MusÃ­te zemÅ™Ã­t.}
+{150}{}{HlupÃ¡ku. ZneÄiÅ¡tÄ›nÃ­ nemÃ¡ vliv na Å¾ivotnÃ­ prostÅ™edÃ­. Za vÅ¡echno mÅ¯Å¾ou neÄistoty ve vodÄ› a v ovzduÅ¡Ã­.}
+{151}{}{UÅ¾ musÃ­m opravdu jÃ­t.}
+{152}{}{Kdybyste Å¾il na pevninÄ›, nebral byste to tak na lehkou vÃ¡hu.}
+{153}{}{A to je prÃ¡vÄ› ono. EnklÃ¡va je totiÅ¾ umÄ›le vytvoÅ™enÃ½ ostrov obklopenÃ½ vodou.}
+{154}{}{Vy si myslÃ­te, Å¾e jste proti vÅ¡emu, co se tady dÄ›je, imunnÃ­? JeÅ¡tÄ› poÅ™Ã¡d Å¾ijeme na stejnÃ© planetÄ›.}
+{155}{}{NechtÄ›l byste k tomu jeÅ¡tÄ› nÄ›co dodat? TÅ™eba nÄ›jakou pointu?}
+{156}{}{Jsem viceprezident Daniel Bird a jsem zatracenÄ› rÃ¡d, Å¾e vÃ¡s poznÃ¡vÃ¡m.}
+{157}{}{Jste jen malÃ¡ ÄÃ¡st celÃ©ho tohohle problÃ©mu.}
 {158}{}{Jste cvok.}
-{159}{}{Já nejsem ádná èást problému. Jsem Republikán.}
-{160}{}{Jak øíkám, jste èást problému.}
-{161}{}{No, jak moná víte, u dlouho pøemıšlíme o tom, e je naèase, aby lidská rasa vstoupila do sluneèní soustavy.}
+{159}{}{JÃ¡ nejsem Å¾Ã¡dnÃ¡ ÄÃ¡st problÃ©mu. Jsem RepublikÃ¡n.}
+{160}{}{Jak Å™Ã­kÃ¡m, jste ÄÃ¡st problÃ©mu.}
+{161}{}{No, jak moÅ¾nÃ¡ vÃ­te, uÅ¾ dlouho pÅ™emÃ½Å¡lÃ­me o tom, Å¾e je naÄase, aby lidskÃ¡ rasa vstoupila do sluneÄnÃ­ soustavy.}
 {162}{}{Aren't we already in the... Uh, to go *where*?}
-{163}{}{Jak toho chcete dosáhnout?}
-{164}{}{Myslím, e takovı Mars by mohl bıt ideální, protoe je v podstatì na stejné obìné dráze... je pøiblinì ve stejné vzdálenosti od Slunce, co je velmi dùleité. Vidìli jsme obrázky, na kterıch jsou stopy po kanálech a vìøíme, e i po vodì. Pokud je tam voda, znamená to, e je tam i kyslík. A pokud je tam kyslík, znamená to, e tam mùeme dıchat.}
-{165}{}{To byla neèekanì, eh, "vyèerpávající" odpovìï.}
-{166}{}{Zbláznil jste se?}
-{167}{}{Jak primitivní oznaèovat všechny, kteøí jsou nìjak vıjimeèní, za blázny. Jak typické.}
-{168}{}{No, moná to je typické, ale ve vašem pøípadì i opodstatnìné.}
-{169}{}{O èem to sakra mluvíte?}
-{170}{}{Tak a dost. Nemíním tu dál ztrácet èas. Sbohem.}
-{171}{}{Pro organizaci NASA má vesmír stále velmi vysokou prioritu.}
-{172}{}{Aha a kam bysme se mìli vydat nejdøív?}
-{173}{}{To není pravda. Republikáni chápou, jak je dùleitı vztah mezi matkou a dítìtem. To je klíè k øešení všech našich problémù... musíme se vrátit k rodinnım hodnotám.}
-{174}{}{Celá Enkláva vèetnì vás nemá s rodinnımi hodnotami vùbec nic spoleèného.}
-{175}{}{Pevnì si stojím za všemi chybnımi kroky, které jsem udìlal.}
-{176}{}{Copak nechápete, e vytvoøíte jen další "Totální znièení", pokud budete pokraèovat?}
-{177}{}{Jste naprostı šílenec. Uvìdomujete si to?}
-{178}{}{Období "Totálního znièení" bylo v našich národních dìjinách velice ošklivım obdobím. Myslím tím naše døívìjší mnohasetleté dìjiny. Naštìstí všichni ijeme v tomto století.}
-{179}{}{Jste naprostı cvok.}
-{180}{}{Nìkdo by vás mìl zbavit trápení. Pomodlete se, Birde.}
-{181}{}{Musím odtud vypadnout.}
+{163}{}{Jak toho chcete dosÃ¡hnout?}
+{164}{}{MyslÃ­m, Å¾e takovÃ½ Mars by mohl bÃ½t ideÃ¡lnÃ­, protoÅ¾e je v podstatÄ› na stejnÃ© obÄ›Å¾nÃ© drÃ¡ze... je pÅ™ibliÅ¾nÄ› ve stejnÃ© vzdÃ¡lenosti od Slunce, coÅ¾ je velmi dÅ¯leÅ¾itÃ©. VidÄ›li jsme obrÃ¡zky, na kterÃ½ch jsou stopy po kanÃ¡lech a vÄ›Å™Ã­me, Å¾e i po vodÄ›. Pokud je tam voda, znamenÃ¡ to, Å¾e je tam i kyslÃ­k. A pokud je tam kyslÃ­k, znamenÃ¡ to, Å¾e tam mÅ¯Å¾eme dÃ½chat.}
+{165}{}{To byla neÄekanÄ›, eh, "vyÄerpÃ¡vajÃ­cÃ­" odpovÄ›Ä.}
+{166}{}{ZblÃ¡znil jste se?}
+{167}{}{Jak primitivnÃ­ oznaÄovat vÅ¡echny, kteÅ™Ã­ jsou nÄ›jak vÃ½jimeÄnÃ­, za blÃ¡zny. Jak typickÃ©.}
+{168}{}{No, moÅ¾nÃ¡ to je typickÃ©, ale ve vaÅ¡em pÅ™Ã­padÄ› i opodstatnÄ›nÃ©.}
+{169}{}{O Äem to sakra mluvÃ­te?}
+{170}{}{Tak a dost. NemÃ­nÃ­m tu dÃ¡l ztrÃ¡cet Äas. Sbohem.}
+{171}{}{Pro organizaci NASA mÃ¡ vesmÃ­r stÃ¡le velmi vysokou prioritu.}
+{172}{}{Aha a kam bysme se mÄ›li vydat nejdÅ™Ã­v?}
+{173}{}{To nenÃ­ pravda. RepublikÃ¡ni chÃ¡pou, jak je dÅ¯leÅ¾itÃ½ vztah mezi matkou a dÃ­tÄ›tem. To je klÃ­Ä k Å™eÅ¡enÃ­ vÅ¡ech naÅ¡ich problÃ©mÅ¯... musÃ­me se vrÃ¡tit k rodinnÃ½m hodnotÃ¡m.}
+{174}{}{CelÃ¡ EnklÃ¡va vÄetnÄ› vÃ¡s nemÃ¡ s rodinnÃ½mi hodnotami vÅ¯bec nic spoleÄnÃ©ho.}
+{175}{}{PevnÄ› si stojÃ­m za vÅ¡emi chybnÃ½mi kroky, kterÃ© jsem udÄ›lal.}
+{176}{}{Copak nechÃ¡pete, Å¾e vytvoÅ™Ã­te jen dalÅ¡Ã­ "TotÃ¡lnÃ­ zniÄenÃ­", pokud budete pokraÄovat?}
+{177}{}{Jste naprostÃ½ Å¡Ã­lenec. UvÄ›domujete si to?}
+{178}{}{ObdobÃ­ "TotÃ¡lnÃ­ho zniÄenÃ­" bylo v naÅ¡ich nÃ¡rodnÃ­ch dÄ›jinÃ¡ch velice oÅ¡klivÃ½m obdobÃ­m. MyslÃ­m tÃ­m naÅ¡e dÅ™Ã­vÄ›jÅ¡Ã­ mnohasetletÃ© dÄ›jiny. NaÅ¡tÄ›stÃ­ vÅ¡ichni Å¾ijeme v tomto stoletÃ­.}
+{179}{}{Jste naprostÃ½ cvok.}
+{180}{}{NÄ›kdo by vÃ¡s mÄ›l zbavit trÃ¡penÃ­. Pomodlete se, Birde.}
+{181}{}{MusÃ­m odtud vypadnout.}
 {182}{}{D-C-E-R-A}
 {183}{}{C-E-R-A}
 {184}{}{E-T-H-A-N-O-L}
 {185}{}{E-T-A-N-O-L}
-{186}{}{Kam se podìly moje dvì piksly jahodové zmrzliny?}
-{187}{}{Caine je moje loï. Jenom moje, slyšíš?}
-{188}{}{Všichni jste proti mì, e ano? e ano?}
-{189}{}{Chy mì, jestli to dokáeš.}
-{190}{}{Pìkné, pìkné.}
-{191}{}{Nablıskané.}
-{192}{}{Ne, mami, to jsem nebyl já. U mì nemla!}
+{186}{}{Kam se podÄ›ly moje dvÄ› piksly jahodovÃ© zmrzliny?}
+{187}{}{Caine je moje loÄ. Jenom moje, slyÅ¡Ã­Å¡?}
+{188}{}{VÅ¡ichni jste proti mÄ›, Å¾e ano? Å½e ano?}
+{189}{}{ChyÅ¥ mÄ›, jestli to dokÃ¡Å¾eÅ¡.}
+{190}{}{PÄ›knÃ©, pÄ›knÃ©.}
+{191}{}{NablÃ½skanÃ©.}
+{192}{}{Ne, mami, to jsem nebyl jÃ¡. UÅ¾ mÄ› nemlaÅ¥!}
 {193}{}{Mami! Mami, kde jsi?}
-{194}{}{Tentokrát u nechci bıt pacientem.}
+{194}{}{TentokrÃ¡t uÅ¾ nechci bÃ½t pacientem.}
 {195}{}{Ne, jehly ne, cokoliv jenom ne jehly.}
 {196}{}{Ne, ne, e-he, ne. Neeeeee!}

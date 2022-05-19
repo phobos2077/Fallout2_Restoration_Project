@@ -1,1 +1,1 @@
-{100}{}{Zdá se, e je na západ od vojenské základny nìjaké mìsto. Uloíš si to do svého Pip-Boye.}
+{100}{}{ZdÃ¡ se, Å¾e je na zÃ¡pad od vojenskÃ© zÃ¡kladny nÄ›jakÃ© mÄ›sto. UloÅ¾Ã­Å¡ si to do svÃ©ho Pip-Boye.}

@@ -1,289 +1,289 @@
-{100}{}{Vidíš znièeného feáka.}
-{101}{}{Vidíš hyperaktivního feáka.}
-{150}{}{Vidíš znièeného feáka. Pohybuje se velmi pomalu.}
-{151}{}{Vidíš znièeného feáka. Vypadá to, e je mu špatnì.}
-{152}{}{Vidíš znièeného feáka. Je tak hubenı, e by se zlomil v pasu pøi prvním závanu vìtru.}
-{153}{}{Vidíš znièeného feáka. Dívá se na tebe unavenıma oèima.}
-{154}{}{Vidíš znièeného feáka. Má tak krvavé oèi, e by nejspíš mohl plakat krev.}
-{155}{}{Vidíš znièeného feáka. Pøi kadém pohybu sebou škubne, jako by do nìj nìkdo zabodával jehly.}
-{156}{}{Vidíš znièeného feáka. Má pytle pod oèima a vıraz v jeho oblièeji naznaèuje velkou bolest.}
-{160}{}{Vidíš feáka. Na tváøi má blaenı vıraz.}
-{161}{}{Vidíš feáka. Lehce se usmívá a pohybuje se v neslyšitelném rytmu.}
-{162}{}{Vidíš feáka. Zírá do prázdna.}
-{163}{}{Vidíš feáka. Usmívá se a mává na nìco za tebou.}
-{164}{}{Vidíš feáka. Neustále si osahává oblièej a nìco si pro sebe mumlá.}
-{165}{}{Vidíš feáka. Navzdory pytlùm pod oèima se usmívá, jako by vyhrál v loterii.}
-{170}{}{Vidíš znièenou feaèku. Pohybuje se velmi pomalu.}
-{171}{}{Vidíš znièenou feaèku. Vypadá, jako by nejedla nìkolik mìsícù.}
-{172}{}{Vidíš znièenou feaèku. Je tak hubená, e by se zlomila v pasu pøi prvním závanu vìtru.}
-{173}{}{Vidíš znièenou feaèku. Její oèi vypadají jako èerné díry.}
-{174}{}{Vidíš znièenou feaèku. Hladovì na tebe zírá.}
-{175}{}{Vidíš znièenou feaèku s krví podlitıma oèima.}
-{176}{}{Vidíš znièenou feaèku. Pøi kadém pohybu sebou škubne, jako by do ní nìkdo zabodával jehly.}
-{177}{}{Vidíš znièenou feaèku. Má pytle pod oèima a vıraz v jejím oblièeji naznaèuje velkou bolest.}
-{180}{}{Vidíš feaèku. Na tváøi má blaenı vıraz.}
-{181}{}{Vidíš feaèku. Pláèe a zároveò se smìje.}
-{182}{}{Vidíš feaèku. Smìje se a tanèí v rytmu neviditelného zpìvu.}
-{183}{}{Vidíš feaèku. Zírá do prázdna a vzdychá.}
-{184}{}{Vidíš feaèku. Usmívá se a mává na nìco za tebou.}
-{185}{}{Vidíš feaèku. Neustále se škrábe na rukou.}
-{186}{}{Vidíš feaèku. Kroutí se jako had a stìí udrí rovnováhu.}
-{187}{}{Vidíš feaèku. Navzdory svému ubohému stavu se smìje, jako by vyhrála v loterii.}
-{200}{}{::Fandí a poté sebou škubne::}
-{201}{}{::Slabì tleská a škube sebou::}
-{202}{}{::Slabì píská::}
-{210}{}{Jseš nejlepší... eh, nìco. Jseš nejlepší NÌCO!}
+{100}{}{VidÃ­Å¡ zniÄenÃ©ho feÅ¥Ã¡ka.}
+{101}{}{VidÃ­Å¡ hyperaktivnÃ­ho feÅ¥Ã¡ka.}
+{150}{}{VidÃ­Å¡ zniÄenÃ©ho feÅ¥Ã¡ka. Pohybuje se velmi pomalu.}
+{151}{}{VidÃ­Å¡ zniÄenÃ©ho feÅ¥Ã¡ka. VypadÃ¡ to, Å¾e je mu Å¡patnÄ›.}
+{152}{}{VidÃ­Å¡ zniÄenÃ©ho feÅ¥Ã¡ka. Je tak hubenÃ½, Å¾e by se zlomil v pasu pÅ™i prvnÃ­m zÃ¡vanu vÄ›tru.}
+{153}{}{VidÃ­Å¡ zniÄenÃ©ho feÅ¥Ã¡ka. DÃ­vÃ¡ se na tebe unavenÃ½ma oÄima.}
+{154}{}{VidÃ­Å¡ zniÄenÃ©ho feÅ¥Ã¡ka. MÃ¡ tak krvavÃ© oÄi, Å¾e by nejspÃ­Å¡ mohl plakat krev.}
+{155}{}{VidÃ­Å¡ zniÄenÃ©ho feÅ¥Ã¡ka. PÅ™i kaÅ¾dÃ©m pohybu sebou Å¡kubne, jako by do nÄ›j nÄ›kdo zabodÃ¡val jehly.}
+{156}{}{VidÃ­Å¡ zniÄenÃ©ho feÅ¥Ã¡ka. MÃ¡ pytle pod oÄima a vÃ½raz v jeho obliÄeji naznaÄuje velkou bolest.}
+{160}{}{VidÃ­Å¡ feÅ¥Ã¡ka. Na tvÃ¡Å™i mÃ¡ blaÅ¾enÃ½ vÃ½raz.}
+{161}{}{VidÃ­Å¡ feÅ¥Ã¡ka. Lehce se usmÃ­vÃ¡ a pohybuje se v neslyÅ¡itelnÃ©m rytmu.}
+{162}{}{VidÃ­Å¡ feÅ¥Ã¡ka. ZÃ­rÃ¡ do prÃ¡zdna.}
+{163}{}{VidÃ­Å¡ feÅ¥Ã¡ka. UsmÃ­vÃ¡ se a mÃ¡vÃ¡ na nÄ›co za tebou.}
+{164}{}{VidÃ­Å¡ feÅ¥Ã¡ka. NeustÃ¡le si osahÃ¡vÃ¡ obliÄej a nÄ›co si pro sebe mumlÃ¡.}
+{165}{}{VidÃ­Å¡ feÅ¥Ã¡ka. Navzdory pytlÅ¯m pod oÄima se usmÃ­vÃ¡, jako by vyhrÃ¡l v loterii.}
+{170}{}{VidÃ­Å¡ zniÄenou feÅ¥aÄku. Pohybuje se velmi pomalu.}
+{171}{}{VidÃ­Å¡ zniÄenou feÅ¥aÄku. VypadÃ¡, jako by nejedla nÄ›kolik mÄ›sÃ­cÅ¯.}
+{172}{}{VidÃ­Å¡ zniÄenou feÅ¥aÄku. Je tak hubenÃ¡, Å¾e by se zlomila v pasu pÅ™i prvnÃ­m zÃ¡vanu vÄ›tru.}
+{173}{}{VidÃ­Å¡ zniÄenou feÅ¥aÄku. JejÃ­ oÄi vypadajÃ­ jako ÄernÃ© dÃ­ry.}
+{174}{}{VidÃ­Å¡ zniÄenou feÅ¥aÄku. HladovÄ› na tebe zÃ­rÃ¡.}
+{175}{}{VidÃ­Å¡ zniÄenou feÅ¥aÄku s krvÃ­ podlitÃ½ma oÄima.}
+{176}{}{VidÃ­Å¡ zniÄenou feÅ¥aÄku. PÅ™i kaÅ¾dÃ©m pohybu sebou Å¡kubne, jako by do nÃ­ nÄ›kdo zabodÃ¡val jehly.}
+{177}{}{VidÃ­Å¡ zniÄenou feÅ¥aÄku. MÃ¡ pytle pod oÄima a vÃ½raz v jejÃ­m obliÄeji naznaÄuje velkou bolest.}
+{180}{}{VidÃ­Å¡ feÅ¥aÄku. Na tvÃ¡Å™i mÃ¡ blaÅ¾enÃ½ vÃ½raz.}
+{181}{}{VidÃ­Å¡ feÅ¥aÄku. PlÃ¡Äe a zÃ¡roveÅˆ se smÄ›je.}
+{182}{}{VidÃ­Å¡ feÅ¥aÄku. SmÄ›je se a tanÄÃ­ v rytmu neviditelnÃ©ho zpÄ›vu.}
+{183}{}{VidÃ­Å¡ feÅ¥aÄku. ZÃ­rÃ¡ do prÃ¡zdna a vzdychÃ¡.}
+{184}{}{VidÃ­Å¡ feÅ¥aÄku. UsmÃ­vÃ¡ se a mÃ¡vÃ¡ na nÄ›co za tebou.}
+{185}{}{VidÃ­Å¡ feÅ¥aÄku. NeustÃ¡le se Å¡krÃ¡be na rukou.}
+{186}{}{VidÃ­Å¡ feÅ¥aÄku. KroutÃ­ se jako had a stÄ›Å¾Ã­ udrÅ¾Ã­ rovnovÃ¡hu.}
+{187}{}{VidÃ­Å¡ feÅ¥aÄku. Navzdory svÃ©mu ubohÃ©mu stavu se smÄ›je, jako by vyhrÃ¡la v loterii.}
+{200}{}{::FandÃ­ a potÃ© sebou Å¡kubne::}
+{201}{}{::SlabÄ› tleskÃ¡ a Å¡kube sebou::}
+{202}{}{::SlabÄ› pÃ­skÃ¡::}
+{210}{}{JseÅ¡ nejlepÅ¡Ã­... eh, nÄ›co. JseÅ¡ nejlepÅ¡Ã­ NÄšCO!}
 {211}{}{::Vyje::}
-{212}{}{, jseš lepší ne JET!}
-{213}{}{::Zaujatì fandí::}
-{214}{}{::Zaujatì tleská::}
-{215}{}{::Píská::}
+{212}{}{, jseÅ¡ lepÅ¡Ã­ neÅ¾ JET!}
+{213}{}{::ZaujatÄ› fandÃ­::}
+{214}{}{::ZaujatÄ› tleskÃ¡::}
+{215}{}{::PÃ­skÃ¡::}
 {220}{}{Moje hlava...}
-{221}{}{Jsem na dnì... jsem na dnì...}
-{222}{}{Bolí to víc ne obvykle...}
-{223}{}{A myslím, e to potrvá opravdu, ale opravdu dlouho...}
-{224}{}{::Óóóóóch::}
-{225}{}{::Pláèe::}
-{226}{}{::Kašle::}
-{227}{}{::Škrábe se::}
-{228}{}{::Nìco si mumlá::}
-{229}{}{U nemùu... u nemùu takhle dál... ít...}
-{230}{}{Nevidìl jsi nìkde Julese? Potøebuju dávku.}
-{231}{}{Nevidìl jsi nìkde Poøezanıho Jimma J? Potøebuju dávku.}
-{232}{}{Hledám Renescovu lékárnu. Renesco mi pomùe.}
-{233}{}{Já vím, e Fallout 2 není ve 3D, ale stejnì by mohla podporovat moji fungl novou GeForce.}
-{240}{}{[Zpívá.] Já... chci jenom lítat. Obejmi mì, bejby, obejmi mì, bejby.}
-{241}{}{[Zpívá.] Rakeák si lítá po obloze, rakeák...}
-{242}{}{Pozor! Rùovı páraè na tøech hodinách.}
-{243}{}{Moc svìtla! Pálí mì oèi, pálí mì oèi...}
-{244}{}{Svìtla jsou... tak jasná... ::Zaèíná plakat::}
+{221}{}{Jsem na dnÄ›... jsem na dnÄ›...}
+{222}{}{BolÃ­ to vÃ­c neÅ¾ obvykle...}
+{223}{}{A myslÃ­m, Å¾e to potrvÃ¡ opravdu, ale opravdu dlouho...}
+{224}{}{::Ã“Ã³Ã³Ã³Ã³ch::}
+{225}{}{::PlÃ¡Äe::}
+{226}{}{::KaÅ¡le::}
+{227}{}{::Å krÃ¡be se::}
+{228}{}{::NÄ›co si mumlÃ¡::}
+{229}{}{UÅ¾ nemÅ¯Å¾u... uÅ¾ nemÅ¯Å¾u takhle dÃ¡l... Å¾Ã­t...}
+{230}{}{NevidÄ›l jsi nÄ›kde Julese? PotÅ™ebuju dÃ¡vku.}
+{231}{}{NevidÄ›l jsi nÄ›kde PoÅ™ezanÃ½ho Jimma J? PotÅ™ebuju dÃ¡vku.}
+{232}{}{HledÃ¡m Renescovu lÃ©kÃ¡rnu. Renesco mi pomÅ¯Å¾e.}
+{233}{}{JÃ¡ vÃ­m, Å¾e Fallout 2 nenÃ­ ve 3D, ale stejnÄ› by mohla podporovat moji fungl novou GeForce.}
+{240}{}{[ZpÃ­vÃ¡.] JÃ¡... chci jenom lÃ­tat. Obejmi mÄ›, bejby, obejmi mÄ›, bejby.}
+{241}{}{[ZpÃ­vÃ¡.] RakeÅ¥Ã¡k si lÃ­tÃ¡ po obloze, rakeÅ¥Ã¡k...}
+{242}{}{Pozor! RÅ¯Å¾ovÃ½ pÃ¡raÄ na tÅ™ech hodinÃ¡ch.}
+{243}{}{Moc svÄ›tla! PÃ¡lÃ­ mÄ› oÄi, pÃ¡lÃ­ mÄ› oÄi...}
+{244}{}{SvÄ›tla jsou... tak jasnÃ¡... ::ZaÄÃ­nÃ¡ plakat::}
 {245}{}{Reeeeee-no. Reeeeee-no. Reno?}
-{246}{}{Kde mám hlavu?}
-{247}{}{Chlastat - pivo, kouøit - trávu.}
+{246}{}{Kde mÃ¡m hlavu?}
+{247}{}{Chlastat - pivo, kouÅ™it - trÃ¡vu.}
 {248}{}{Snootchie Boochies.}
-{249}{}{::Šklebí se::}
-{250}{}{::Smìje se::}
-{251}{}{::Smìje se a lehce se kıve::}
-{252}{}{Jéééééééééé.}
-{253}{}{Pìkná ulice. Pìkná stìna. Pìknì sjetej.}
+{249}{}{::Å klebÃ­ se::}
+{250}{}{::SmÄ›je se::}
+{251}{}{::SmÄ›je se a lehce se kÃ½ve::}
+{252}{}{JÃ©Ã©Ã©Ã©Ã©Ã©Ã©Ã©Ã©Ã©.}
+{253}{}{PÄ›knÃ¡ ulice. PÄ›knÃ¡ stÄ›na. PÄ›knÄ› sjetej.}
 {254}{}{Hele... kam zmizela obloha...?}
-{255}{}{Jestli moje hadry nebudou u koneènì dret hubu, tak si je sundám.}
-{256}{}{Moje boty dıchají.}
-{257}{}{Já vím, e Fallout 2 není ve 3D, ale stejnì by mohla podporovat moji fungl novou GeForce.}
-{258}{}{To èumíš na mì?! To èumíš na mì?!! Já tì zabiju!}
-{270}{}{Eh, poblahopøál bych ti k vítìzství nad Enklávou, ale bolí mì strašnì hlava. Pøijï v noci.}
-{271}{}{::Zkouší tleskat, ale nemùe se trefit::}
-{272}{}{Jen tak dál. Byl jsem moc sjetej, abych to vidìl na vlastní oèi, ale urèitì to bylo super.}
-{273}{}{Eh... díky za naši záchranu. Nemáš náhodou, eh, nìjakı drobnı?}
-{274}{}{Já jsem taky jednou zachránil svìt. Aspoò myslím. Nebo jsem byl moná sjetej.}
-{275}{}{Mìli v Enklávì nìjakej Jet?}
-{276}{}{Ty jseš ten, kdo mùe za tu velkou øachu na jihu? Dìsnì mì z toho rozbolela hlava.}
-{277}{}{Já vím, e jsi zachránil svìt, ale my nedùleitı herní postavy se teï musíme vypoøádat s následky.}
-{278}{}{Chris Avellone mì vymyslel a Tom French mì naskriptoval, take technicky nejsem za svou závislost na Jetu odpovìdnej.}
-{279}{}{Jo, jo, fakt skvìlı, e jsi dohrál tuhle hru. Jenome to znamená, e nás teï smaeš z harddisku. Fakt dík.}
-{291}{}{Jseš nejlepší... eh, nìco. Jseš nejlepší NÌCO!}
-{292}{}{, jseš lepší ne JET!}
-{293}{}{Ty vole, chtìl bych vidìt tu øachu. TO muselo bejt nìco, co?}
-{294}{}{Miluju tì! Jseš HRDINA. Zatracenej HRDINA. Umiluju tì k smrti!}
-{295}{}{A pùjdeš pøíštì nakopat Enklávì prdel, pøijï za mnou a udìláme to SPOLU.}
-{296}{}{HUSTİ, }
-{297}{}{Já vím, e jsi zachránil svìt, ale my nedùleitı herní postavy se teï musíme vypoøádat s následky.}
+{255}{}{Jestli moje hadry nebudou uÅ¾ koneÄnÄ› drÅ¾et hubu, tak si je sundÃ¡m.}
+{256}{}{Moje boty dÃ½chajÃ­.}
+{257}{}{JÃ¡ vÃ­m, Å¾e Fallout 2 nenÃ­ ve 3D, ale stejnÄ› by mohla podporovat moji fungl novou GeForce.}
+{258}{}{To ÄumÃ­Å¡ na mÄ›?! To ÄumÃ­Å¡ na mÄ›?!! JÃ¡ tÄ› zabiju!}
+{270}{}{Eh, poblahopÅ™Ã¡l bych ti k vÃ­tÄ›zstvÃ­ nad EnklÃ¡vou, ale bolÃ­ mÄ› straÅ¡nÄ› hlava. PÅ™ijÄ v noci.}
+{271}{}{::ZkouÅ¡Ã­ tleskat, ale nemÅ¯Å¾e se trefit::}
+{272}{}{Jen tak dÃ¡l. Byl jsem moc sjetej, abych to vidÄ›l na vlastnÃ­ oÄi, ale urÄitÄ› to bylo super.}
+{273}{}{Eh... dÃ­ky za naÅ¡i zÃ¡chranu. NemÃ¡Å¡ nÃ¡hodou, eh, nÄ›jakÃ½ drobnÃ½?}
+{274}{}{JÃ¡ jsem taky jednou zachrÃ¡nil svÄ›t. AspoÅˆ myslÃ­m. Nebo jsem byl moÅ¾nÃ¡ sjetej.}
+{275}{}{MÄ›li v EnklÃ¡vÄ› nÄ›jakej Jet?}
+{276}{}{Ty jseÅ¡ ten, kdo mÅ¯Å¾e za tu velkou Å™achu na jihu? DÄ›snÄ› mÄ› z toho rozbolela hlava.}
+{277}{}{JÃ¡ vÃ­m, Å¾e jsi zachrÃ¡nil svÄ›t, ale my nedÅ¯leÅ¾itÃ½ hernÃ­ postavy se teÄ musÃ­me vypoÅ™Ã¡dat s nÃ¡sledky.}
+{278}{}{Chris Avellone mÄ› vymyslel a Tom French mÄ› naskriptoval, takÅ¾e technicky nejsem za svou zÃ¡vislost na Jetu odpovÄ›dnej.}
+{279}{}{Jo, jo, fakt skvÄ›lÃ½, Å¾e jsi dohrÃ¡l tuhle hru. JenomÅ¾e to znamenÃ¡, Å¾e nÃ¡s teÄ smaÅ¾eÅ¡ z harddisku. Fakt dÃ­k.}
+{291}{}{JseÅ¡ nejlepÅ¡Ã­... eh, nÄ›co. JseÅ¡ nejlepÅ¡Ã­ NÄšCO!}
+{292}{}{, jseÅ¡ lepÅ¡Ã­ neÅ¾ JET!}
+{293}{}{Ty vole, chtÄ›l bych vidÄ›t tu Å™achu. TO muselo bejt nÄ›co, co?}
+{294}{}{Miluju tÄ›! JseÅ¡ HRDINA. Zatracenej HRDINA. Umiluju tÄ› k smrti!}
+{295}{}{AÅ¾ pÅ¯jdeÅ¡ pÅ™Ã­Å¡tÄ› nakopat EnklÃ¡vÄ› prdel, pÅ™ijÄ za mnou a udÄ›lÃ¡me to SPOLU.}
+{296}{}{HUSTÃ, }
+{297}{}{JÃ¡ vÃ­m, Å¾e jsi zachrÃ¡nil svÄ›t, ale my nedÅ¯leÅ¾itÃ½ hernÃ­ postavy se teÄ musÃ­me vypoÅ™Ã¡dat s nÃ¡sledky.}
 {298}{}{You should play the game again as a drug-based character. Really! Take the Drug Reliant Trait!
  I LOVE that one.}
-{299}{}{Díky za naši záchranu. Dal bych ti pusu, ale smrdí mi z huby.}
-{300}{}{Taky bych dokázal porazit Enklávu, kdybych si vzal dost Jetu.}
-{301}{}{[Zpívá.] "Nepotøebujeme dalšího hrdinu, nepotøebujeme znát cestu domù..."}
-{302}{}{Chris Avellone mì vymyslel a Tom French mì naskriptoval, take technicky nejsem za svou závislost na Jetu odpovìdnej.}
-{303}{}{Pojïme si dát trochu Jetu a oslavme tak tvı vítìzství. Platíš.}
-{304}{}{A smaeš tuhle hru z harddisku, budeme ještì existovat?}
+{299}{}{DÃ­ky za naÅ¡i zÃ¡chranu. Dal bych ti pusu, ale smrdÃ­ mi z huby.}
+{300}{}{Taky bych dokÃ¡zal porazit EnklÃ¡vu, kdybych si vzal dost Jetu.}
+{301}{}{[ZpÃ­vÃ¡.] "NepotÅ™ebujeme dalÅ¡Ã­ho hrdinu, nepotÅ™ebujeme znÃ¡t cestu domÅ¯..."}
+{302}{}{Chris Avellone mÄ› vymyslel a Tom French mÄ› naskriptoval, takÅ¾e technicky nejsem za svou zÃ¡vislost na Jetu odpovÄ›dnej.}
+{303}{}{PojÄme si dÃ¡t trochu Jetu a oslavme tak tvÃ½ vÃ­tÄ›zstvÃ­. PlatÃ­Å¡.}
+{304}{}{AÅ¾ smaÅ¾eÅ¡ tuhle hru z harddisku, budeme jeÅ¡tÄ› existovat?}
 {305}{}{Uh... what kind of drug testing was the Enclave doing? Was there free Jet?}
-{320}{}{Jak s tou zbrojí na sobì chodíš na záchod?}
-{321}{}{Eh... to mluvíš se mnou?}
-{322}{}{Ty vole, ty absáky jsou èím dál horší. Teï na mnì mluví elezní lidi.}
-{323}{}{Nìkdo tì polil elezem?}
-{324}{}{Hele, eh... nemáš tam uvnitø trochu Jetu?}
-{325}{}{Nemáš nìjakı drobnı...? Eh, zapomeò na to.}
-{326}{}{::Klepe ti na zbroj:: Haló? Je nìkdo doma?}
-{327}{}{Ty jseš nìjakej køíenec s lednièkou?}
-{328}{}{Není ti v tom horko?}
-{350}{}{Dej mi trochu Jetu a já ti øeknu, kde najdeš snadnou koøist, otrokáøi.}
-{351}{}{Mùeš si vzít moje dìti, otrokáøi, pokud mi za nì zaplatíš Jetem...}
-{352}{}{Dej mi pár drobnejch a budu tvùj otrok... jenom si dojdu pro trochu Jetu.}
-{353}{}{Budu tvùj otrok, kdy mi dáš trochu Jetu.}
-{354}{}{Mùeš mì prodat do otroctví, kdy mi dáš trochu Jetu.}
+{320}{}{Jak s tou zbrojÃ­ na sobÄ› chodÃ­Å¡ na zÃ¡chod?}
+{321}{}{Eh... to mluvÃ­Å¡ se mnou?}
+{322}{}{Ty vole, ty absÅ¥Ã¡ky jsou ÄÃ­m dÃ¡l horÅ¡Ã­. TeÄ na mnÄ› mluvÃ­ Å¾eleznÃ­ lidi.}
+{323}{}{NÄ›kdo tÄ› polil Å¾elezem?}
+{324}{}{Hele, eh... nemÃ¡Å¡ tam uvnitÅ™ trochu Jetu?}
+{325}{}{NemÃ¡Å¡ nÄ›jakÃ½ drobnÃ½...? Eh, zapomeÅˆ na to.}
+{326}{}{::Klepe ti na zbroj:: HalÃ³? Je nÄ›kdo doma?}
+{327}{}{Ty jseÅ¡ nÄ›jakej kÅ™Ã­Å¾enec s ledniÄkou?}
+{328}{}{NenÃ­ ti v tom horko?}
+{350}{}{Dej mi trochu Jetu a jÃ¡ ti Å™eknu, kde najdeÅ¡ snadnou koÅ™ist, otrokÃ¡Å™i.}
+{351}{}{MÅ¯Å¾eÅ¡ si vzÃ­t moje dÄ›ti, otrokÃ¡Å™i, pokud mi za nÄ› zaplatÃ­Å¡ Jetem...}
+{352}{}{Dej mi pÃ¡r drobnejch a budu tvÅ¯j otrok... jenom si dojdu pro trochu Jetu.}
+{353}{}{Budu tvÅ¯j otrok, kdyÅ¾ mi dÃ¡Å¡ trochu Jetu.}
+{354}{}{MÅ¯Å¾eÅ¡ mÄ› prodat do otroctvÃ­, kdyÅ¾ mi dÃ¡Å¡ trochu Jetu.}
 {355}{}{No, man, I'm off drugs. Uh... why? You buying?}
-{360}{}{Ty jseš boxer? Nemáš nìjakı drobnı na pùjèení?}
-{361}{}{No ták, staèí mi jen pár drobnejch.}
-{362}{}{Mùu si pujèit pár drobnejch? No ták, vrátím ti to.}
-{363}{}{Hele, eh... nemáš trochu Jetu?}
-{364}{}{Kámo, potøebuju se *proletìt*, jestli mi rozumíš.}
-{365}{}{Potøebuju nìjakı léky pro syna. Pomoz mi.}
-{366}{}{Nemáš nìjakı drobnı?}
-{367}{}{Potøebuju jenom pár drobnejch na jídlo...}
-{368}{}{Budu tvùj otrok, kdy mi dáš trochu Jetu.}
-{369}{}{Mùeš mì prodat do otroctví, kdy mi dáš trochu Jetu.}
+{360}{}{Ty jseÅ¡ boxer? NemÃ¡Å¡ nÄ›jakÃ½ drobnÃ½ na pÅ¯jÄenÃ­?}
+{361}{}{No tÃ¡k, staÄÃ­ mi jen pÃ¡r drobnejch.}
+{362}{}{MÅ¯Å¾u si pujÄit pÃ¡r drobnejch? No tÃ¡k, vrÃ¡tÃ­m ti to.}
+{363}{}{Hele, eh... nemÃ¡Å¡ trochu Jetu?}
+{364}{}{KÃ¡mo, potÅ™ebuju se *proletÄ›t*, jestli mi rozumÃ­Å¡.}
+{365}{}{PotÅ™ebuju nÄ›jakÃ½ lÃ©ky pro syna. Pomoz mi.}
+{366}{}{NemÃ¡Å¡ nÄ›jakÃ½ drobnÃ½?}
+{367}{}{PotÅ™ebuju jenom pÃ¡r drobnejch na jÃ­dlo...}
+{368}{}{Budu tvÅ¯j otrok, kdyÅ¾ mi dÃ¡Å¡ trochu Jetu.}
+{369}{}{MÅ¯Å¾eÅ¡ mÄ› prodat do otroctvÃ­, kdyÅ¾ mi dÃ¡Å¡ trochu Jetu.}
 {370}{}{No, man, I'm off drugs. Uh... why? You buying?}
-{371}{}{Ty jseš èlen rodiny }
-{372}{}{Mùu si pùjèit pár drobnejch...? No ták, mì mùeš vìøit.}
-{373}{}{Kvùli Jetu budu i pracovat...}
-{380}{}{Hej, brácho? Pomùeš mi lítat?}
-{381}{}{Udìlám cokoliv budeš chtít pro pár drobnejch. Nebo Jet, jestli máš.}
-{382}{}{Nechceš se se mnou proletìt?}
+{371}{}{Ty jseÅ¡ Älen rodiny }
+{372}{}{MÅ¯Å¾u si pÅ¯jÄit pÃ¡r drobnejch...? No tÃ¡k, mÄ› mÅ¯Å¾eÅ¡ vÄ›Å™it.}
+{373}{}{KvÅ¯li Jetu budu i pracovat...}
+{380}{}{Hej, brÃ¡cho? PomÅ¯Å¾eÅ¡ mi lÃ­tat?}
+{381}{}{UdÄ›lÃ¡m cokoliv budeÅ¡ chtÃ­t pro pÃ¡r drobnejch. Nebo Jet, jestli mÃ¡Å¡.}
+{382}{}{NechceÅ¡ se se mnou proletÄ›t?}
 {383}{}{Tati?}
-{384}{}{Kámo, potøebuju se *proletìt*, jestli mi rozumíš.}
+{384}{}{KÃ¡mo, potÅ™ebuju se *proletÄ›t*, jestli mi rozumÃ­Å¡.}
 {385}{}{No, man, I'm off drugs. Uh... why? You buying?}
-{386}{}{Psssst. Mùeš mi sehnat trochu Jetu?}
-{387}{}{Mùu si pujèit pár drobnejch...? Vrátím ti to.}
-{388}{}{Kvùli Jetu budu i pracovat...}
-{389}{}{No ták, kámo, pujè mi pár babek.}
-{390}{}{Mùu si pujèit pár drobnejch? No ták, vrátím ti to.}
-{391}{}{Hele, eh... nemáš trochu Jetu, kámo?}
-{392}{}{Potøebuju nìjakı léky pro syna. Pomoz mi.}
-{393}{}{Nemáš nìjakı drobnı?}
-{394}{}{Potøebuju jenom pár drobnejch na jídlo... nic víc...}
-{395}{}{Vyspím se s tebou za Jet nebo pár drobnejch. Jsem èistá, slibuju.}
-{396}{}{Bejval jsem nejvìtší hlavoun tady v Renu. Za trochu Jetu tì mùu provıst kolem...}
-{397}{}{Budu tvùj otrok, kdy mi dáš trochu Jetu.}
-{398}{}{Mùeš mì prodat do otroctví, kdy mi dáš trochu Jetu.}
-{399}{}{Hej, sestro? Pomùeš mi lítat?}
-{400}{}{No ták, sleèno, staèí jenom pár babek.}
-{401}{}{Hele, eh... nemáte trochu Jetu, sleèno?}
-{402}{}{Hele, potøebuju se *proletìt*, jestli mi rozumíš.}
+{386}{}{Psssst. MÅ¯Å¾eÅ¡ mi sehnat trochu Jetu?}
+{387}{}{MÅ¯Å¾u si pujÄit pÃ¡r drobnejch...? VrÃ¡tÃ­m ti to.}
+{388}{}{KvÅ¯li Jetu budu i pracovat...}
+{389}{}{No tÃ¡k, kÃ¡mo, pujÄ mi pÃ¡r babek.}
+{390}{}{MÅ¯Å¾u si pujÄit pÃ¡r drobnejch? No tÃ¡k, vrÃ¡tÃ­m ti to.}
+{391}{}{Hele, eh... nemÃ¡Å¡ trochu Jetu, kÃ¡mo?}
+{392}{}{PotÅ™ebuju nÄ›jakÃ½ lÃ©ky pro syna. Pomoz mi.}
+{393}{}{NemÃ¡Å¡ nÄ›jakÃ½ drobnÃ½?}
+{394}{}{PotÅ™ebuju jenom pÃ¡r drobnejch na jÃ­dlo... nic vÃ­c...}
+{395}{}{VyspÃ­m se s tebou za Jet nebo pÃ¡r drobnejch. Jsem ÄistÃ¡, slibuju.}
+{396}{}{Bejval jsem nejvÄ›tÅ¡Ã­ hlavoun tady v Renu. Za trochu Jetu tÄ› mÅ¯Å¾u provÃ½st kolem...}
+{397}{}{Budu tvÅ¯j otrok, kdyÅ¾ mi dÃ¡Å¡ trochu Jetu.}
+{398}{}{MÅ¯Å¾eÅ¡ mÄ› prodat do otroctvÃ­, kdyÅ¾ mi dÃ¡Å¡ trochu Jetu.}
+{399}{}{Hej, sestro? PomÅ¯Å¾eÅ¡ mi lÃ­tat?}
+{400}{}{No tÃ¡k, sleÄno, staÄÃ­ jenom pÃ¡r babek.}
+{401}{}{Hele, eh... nemÃ¡te trochu Jetu, sleÄno?}
+{402}{}{Hele, potÅ™ebuju se *proletÄ›t*, jestli mi rozumÃ­Å¡.}
 {403}{}{No, I'm off drugs. Uh... why? You buying?}
 {404}{}{Mami?}
-{420}{}{Hej, brácho? Pomùeš mi lítat?}
-{421}{}{No ták, chlapèe, staèí jenom pár babek.}
-{422}{}{Vyspím se s tebou za Jet nebo pár drobnejch. Jsem èistá, slibuju.}
-{423}{}{Jsem levnìjší ne rodinnı kurvy. Ale, eh, neøíkej o mnì, e jim beru kšefty.}
-{424}{}{Pro peníze udìlám cokoliv... nebo pro Jet, jestli máš.}
-{425}{}{Bejvala jsem královna krásy v Renu. A ještì poøád jsem hezká...}
-{426}{}{Nechceš se se mnou proletìt?}
+{420}{}{Hej, brÃ¡cho? PomÅ¯Å¾eÅ¡ mi lÃ­tat?}
+{421}{}{No tÃ¡k, chlapÄe, staÄÃ­ jenom pÃ¡r babek.}
+{422}{}{VyspÃ­m se s tebou za Jet nebo pÃ¡r drobnejch. Jsem ÄistÃ¡, slibuju.}
+{423}{}{Jsem levnÄ›jÅ¡Ã­ neÅ¾ rodinnÃ½ kurvy. Ale, eh, neÅ™Ã­kej o mnÄ›, Å¾e jim beru kÅ¡efty.}
+{424}{}{Pro penÃ­ze udÄ›lÃ¡m cokoliv... nebo pro Jet, jestli mÃ¡Å¡.}
+{425}{}{Bejvala jsem krÃ¡lovna krÃ¡sy v Renu. A jeÅ¡tÄ› poÅ™Ã¡d jsem hezkÃ¡...}
+{426}{}{NechceÅ¡ se se mnou proletÄ›t?}
 {427}{}{No, man, I'm off drugs. Uh... why? You buying?}
 {428}{}{Tati?}
-{429}{}{Psssst. Mùeš mi sehnat trochu Jetu?}
-{430}{}{Mùu si pujèit pár drobnejch...? Vrátím ti to.}
-{431}{}{Kvùli Jetu budu i pracovat...}
-{432}{}{Mùu si pujèit pár drobnejch? No ták, vrátím ti to.}
-{433}{}{Hej, eh... nemáš trochu Jetu, kámo? Potøebuju se *proletìt*, jestli mi rozumíš.}
-{434}{}{Potøebuju nìjakı léky pro syna. Pomoz mi.}
-{435}{}{Nemáš nìjakı drobnı?}
-{436}{}{Potøebuju jenom pár drobnejch na jídlo... nic víc...}
-{437}{}{Budu tvùj otrok, kdy mi dáš trochu Jetu.}
-{438}{}{Mùeš mì prodat do otroctví, kdy mi dáš trochu Jetu.}
-{439}{}{No ták, sleèno, staèí jenom pár babek.}
-{440}{}{Hej, sestro? Pomùeš mi lítat?}
-{441}{}{Mùu tì potìšit... jestli máš trochu Jetu.}
-{442}{}{Hej, eh... nemáš trochu Jetu, kámo?}
-{443}{}{Sestro, potøebuju se *proletìt*, jestli mi rozumíš.}
+{429}{}{Psssst. MÅ¯Å¾eÅ¡ mi sehnat trochu Jetu?}
+{430}{}{MÅ¯Å¾u si pujÄit pÃ¡r drobnejch...? VrÃ¡tÃ­m ti to.}
+{431}{}{KvÅ¯li Jetu budu i pracovat...}
+{432}{}{MÅ¯Å¾u si pujÄit pÃ¡r drobnejch? No tÃ¡k, vrÃ¡tÃ­m ti to.}
+{433}{}{Hej, eh... nemÃ¡Å¡ trochu Jetu, kÃ¡mo? PotÅ™ebuju se *proletÄ›t*, jestli mi rozumÃ­Å¡.}
+{434}{}{PotÅ™ebuju nÄ›jakÃ½ lÃ©ky pro syna. Pomoz mi.}
+{435}{}{NemÃ¡Å¡ nÄ›jakÃ½ drobnÃ½?}
+{436}{}{PotÅ™ebuju jenom pÃ¡r drobnejch na jÃ­dlo... nic vÃ­c...}
+{437}{}{Budu tvÅ¯j otrok, kdyÅ¾ mi dÃ¡Å¡ trochu Jetu.}
+{438}{}{MÅ¯Å¾eÅ¡ mÄ› prodat do otroctvÃ­, kdyÅ¾ mi dÃ¡Å¡ trochu Jetu.}
+{439}{}{No tÃ¡k, sleÄno, staÄÃ­ jenom pÃ¡r babek.}
+{440}{}{Hej, sestro? PomÅ¯Å¾eÅ¡ mi lÃ­tat?}
+{441}{}{MÅ¯Å¾u tÄ› potÄ›Å¡it... jestli mÃ¡Å¡ trochu Jetu.}
+{442}{}{Hej, eh... nemÃ¡Å¡ trochu Jetu, kÃ¡mo?}
+{443}{}{Sestro, potÅ™ebuju se *proletÄ›t*, jestli mi rozumÃ­Å¡.}
 {444}{}{No, sister, I'm off drugs. Uh... why? You buying?}
 {445}{}{Mami?}
-{450}{}{Do pr...! Kdo jsi? Nìjakej robot?}
-{451}{}{Co jsi bral, e jsi skonèil obalenej elezem?}
-{452}{}{Páni. eleznej èlovìk. A mluví se mnou.}
-{453}{}{Jestli jseš z jinı planety, tak se tam taky hezky rychle vra... tady není nic k dobıvání.}
-{454}{}{Fíha. Vidím odrazy svìtla New Rena v tvım hledí.}
-{455}{}{Jsem tak sjetej, e... eh, co jsem to øíkal?}
-{456}{}{Ty vole, v tom musí bejt ale HORKO.}
-{457}{}{Je tam nìkdo?}
-{458}{}{No, jestlipak to není Darttth Vadrrr.}
-{459}{}{Sákryš, musím si sehnat stejnej matroš, jako bereš ty. Vypadáš jako velká elezná... vìc.}
-{460}{}{Kámo, jseš ve špatnı høe. Zkus tøeba Mechwarriora.}
-{461}{}{Ty jseš kosmonaut?}
-{462}{}{Potøeboval bych nìkolik dávek Jetu, ne bych si na tebe vùbec troufnul.}
-{470}{}{Nazdar, otrokáøi, jak je?!}
-{471}{}{Chceš mì zotroèit, co? To si mùeš zkusit! Jsem neporazitelnej!}
-{472}{}{Zkus mì chytit, otrokáøi!}
-{473}{}{Nechceš se podìlit o trochu Jetu, otrokáøi?}
-{474}{}{Jsem tak vysoko, e tì tam dole skoro ani nevidím, otrokáøi.}
-{475}{}{Zahráváš si se mnou, otrokáøi? Jsem napumpovanej Jetem! Nakopu ti PRDEL!}
-{476}{}{Nechceš se mnou proletìt, otrokáøi?}
-{477}{}{Proè jste dva? To je tvoje dvojèe?}
-{478}{}{Co? Nezdá se mi to?}
-{479}{}{Jsem tak sjetej, e... eh, co jsem to øíkal?}
-{480}{}{Chceš se proletìt? Tak si promluv s Juuuulesem.}
-{481}{}{Poøezanej Jimmy J ti píchne, jestli mi rozumíš.}
-{482}{}{Jestli uvidíš Renesca, øekni mu, e zaplatím zítra.}
-{483}{}{Poøezanej Jimmy má nejlepší fet ve mìstì. Po nìm budeš lítat tak vysoko, e nebudeš chtít NIKDY pøistát.}
-{484}{}{To mluvíš se mnou? To mluvíš se mnou?!}
-{485}{}{Chceš dostat pøes hubu?! Co?}
+{450}{}{Do pr...! Kdo jsi? NÄ›jakej robot?}
+{451}{}{Co jsi bral, Å¾e jsi skonÄil obalenej Å¾elezem?}
+{452}{}{PÃ¡ni. Å½eleznej ÄlovÄ›k. A mluvÃ­ se mnou.}
+{453}{}{Jestli jseÅ¡ z jinÃ½ planety, tak se tam taky hezky rychle vraÅ¥... tady nenÃ­ nic k dobÃ½vÃ¡nÃ­.}
+{454}{}{FÃ­ha. VidÃ­m odrazy svÄ›tla New Rena v tvÃ½m hledÃ­.}
+{455}{}{Jsem tak sjetej, Å¾e... eh, co jsem to Å™Ã­kal?}
+{456}{}{Ty vole, v tom musÃ­ bejt ale HORKO.}
+{457}{}{Je tam nÄ›kdo?}
+{458}{}{No, jestlipak to nenÃ­ Darttth Vadrrr.}
+{459}{}{SÃ¡kryÅ¡, musÃ­m si sehnat stejnej matroÅ¡, jako bereÅ¡ ty. VypadÃ¡Å¡ jako velkÃ¡ Å¾eleznÃ¡... vÄ›c.}
+{460}{}{KÃ¡mo, jseÅ¡ ve Å¡patnÃ½ hÅ™e. Zkus tÅ™eba Mechwarriora.}
+{461}{}{Ty jseÅ¡ kosmonaut?}
+{462}{}{PotÅ™eboval bych nÄ›kolik dÃ¡vek Jetu, neÅ¾ bych si na tebe vÅ¯bec troufnul.}
+{470}{}{Nazdar, otrokÃ¡Å™i, jak je?!}
+{471}{}{ChceÅ¡ mÄ› zotroÄit, co? To si mÅ¯Å¾eÅ¡ zkusit! Jsem neporazitelnej!}
+{472}{}{Zkus mÄ› chytit, otrokÃ¡Å™i!}
+{473}{}{NechceÅ¡ se podÄ›lit o trochu Jetu, otrokÃ¡Å™i?}
+{474}{}{Jsem tak vysoko, Å¾e tÄ› tam dole skoro ani nevidÃ­m, otrokÃ¡Å™i.}
+{475}{}{ZahrÃ¡vÃ¡Å¡ si se mnou, otrokÃ¡Å™i? Jsem napumpovanej Jetem! Nakopu ti PRDEL!}
+{476}{}{NechceÅ¡ se mnou proletÄ›t, otrokÃ¡Å™i?}
+{477}{}{ProÄ jste dva? To je tvoje dvojÄe?}
+{478}{}{Co? NezdÃ¡ se mi to?}
+{479}{}{Jsem tak sjetej, Å¾e... eh, co jsem to Å™Ã­kal?}
+{480}{}{ChceÅ¡ se proletÄ›t? Tak si promluv s Juuuulesem.}
+{481}{}{PoÅ™ezanej Jimmy J ti pÃ­chne, jestli mi rozumÃ­Å¡.}
+{482}{}{Jestli uvidÃ­Å¡ Renesca, Å™ekni mu, Å¾e zaplatÃ­m zÃ­tra.}
+{483}{}{PoÅ™ezanej Jimmy mÃ¡ nejlepÅ¡Ã­ fet ve mÄ›stÄ›. Po nÄ›m budeÅ¡ lÃ­tat tak vysoko, Å¾e nebudeÅ¡ chtÃ­t NIKDY pÅ™istÃ¡t.}
+{484}{}{To mluvÃ­Å¡ se mnou? To mluvÃ­Å¡ se mnou?!}
+{485}{}{ChceÅ¡ dostat pÅ™es hubu?! Co?}
 {486}{}{::Glares at you past drug-hazed eyes::}
-{487}{}{Nechceš se se mnou proletìt?}
-{488}{}{Nazdar, šampióne, jak je?!}
-{489}{}{Nechceš si se mnou zaboxovat? Co? No ták!}
-{490}{}{Zahráváš si se mnou, šampióne? Jsem napumpovanej Jetem! Nakopu ti PRDEL!}
-{500}{}{Ajéje! Pozor, pøichází gangster!}
-{501}{}{Jsem tak vysoko, e tì tam dole skoro ani nevidím, gangstere.}
-{502}{}{Proè jste dva? To je tvoje dvojèe?}
-{503}{}{Co? Ty jseš opravdovej gangster?}
-{504}{}{Gangstere, já jsem tak sjetej, e... eh, co jsem to øíkal?}
-{505}{}{Nechceš se se mnou proletìt, gangstere?}
-{506}{}{Chceš se proletìt, gangstere? Tak si promluv s Juuuulesem.}
-{507}{}{Poøezanej Jimmy J ti píchne, jestli mi rozumíš.}
-{508}{}{Jestli vybíráš pro Renesca, øekni mu, e zaplatím zítra.}
-{509}{}{Poøezanej Jimmy má nejlepší fet. Eh, teda pokud tì má rád.}
-{510}{}{To mluvíš se mnou? To mluvíš se mnou?!}
-{511}{}{Zahráváš si se mnou, gangstere? Jsem napumpovanej Jetem! Nakopu ti PRDEL!}
-{512}{}{Chceš dostat pøes hubu, gangstere?! Co?}
+{487}{}{NechceÅ¡ se se mnou proletÄ›t?}
+{488}{}{Nazdar, Å¡ampiÃ³ne, jak je?!}
+{489}{}{NechceÅ¡ si se mnou zaboxovat? Co? No tÃ¡k!}
+{490}{}{ZahrÃ¡vÃ¡Å¡ si se mnou, Å¡ampiÃ³ne? Jsem napumpovanej Jetem! Nakopu ti PRDEL!}
+{500}{}{AjÃ©je! Pozor, pÅ™ichÃ¡zÃ­ gangster!}
+{501}{}{Jsem tak vysoko, Å¾e tÄ› tam dole skoro ani nevidÃ­m, gangstere.}
+{502}{}{ProÄ jste dva? To je tvoje dvojÄe?}
+{503}{}{Co? Ty jseÅ¡ opravdovej gangster?}
+{504}{}{Gangstere, jÃ¡ jsem tak sjetej, Å¾e... eh, co jsem to Å™Ã­kal?}
+{505}{}{NechceÅ¡ se se mnou proletÄ›t, gangstere?}
+{506}{}{ChceÅ¡ se proletÄ›t, gangstere? Tak si promluv s Juuuulesem.}
+{507}{}{PoÅ™ezanej Jimmy J ti pÃ­chne, jestli mi rozumÃ­Å¡.}
+{508}{}{Jestli vybÃ­rÃ¡Å¡ pro Renesca, Å™ekni mu, Å¾e zaplatÃ­m zÃ­tra.}
+{509}{}{PoÅ™ezanej Jimmy mÃ¡ nejlepÅ¡Ã­ fet. Eh, teda pokud tÄ› mÃ¡ rÃ¡d.}
+{510}{}{To mluvÃ­Å¡ se mnou? To mluvÃ­Å¡ se mnou?!}
+{511}{}{ZahrÃ¡vÃ¡Å¡ si se mnou, gangstere? Jsem napumpovanej Jetem! Nakopu ti PRDEL!}
+{512}{}{ChceÅ¡ dostat pÅ™es hubu, gangstere?! Co?}
 {513}{}{::Glares at you past drug-hazed eyes::}
-{520}{}{Páni... na èem to jedeš? Nechceš se podìlit?}
-{521}{}{A já si myslel, e jsem v prdeli.}
-{522}{}{Hej, kámo... podìl se se mnou.}
-{523}{}{Chtìl jsem se tì zeptat, jestli si nechceš zalítat, ale vidím, e je to zbyteènı.}
-{524}{}{Proè jste dva? To je tvoje dvojèe?}
-{525}{}{Kde jsi sehnal ten matroš?}
-{530}{}{Radši se ani neotáèej, jede za tebou mozek v krabici.}
-{531}{}{Fíha, asi jsem si vzal nìjakej fakt drsnej fet... vidím jezdícího robota s mozkem.}
-{532}{}{Jestli tady ještì jednou uvidím jezdit toho robota s mozkem, tak nadobro konèím s Jetem.}
-{533}{}{Jednou jsem se cítil jako ten tvùj robot... øekni mu, e to bude dobrı, a to pøestane brát.}
-{534}{}{Co se stalo tvımu kamarádovi s mozkem? Pøišel o tìlo?}
-{535}{}{ØEKNI mi, e ten robot s mozkem není skuteènej. Prosím.}
+{520}{}{PÃ¡ni... na Äem to jedeÅ¡? NechceÅ¡ se podÄ›lit?}
+{521}{}{A jÃ¡ si myslel, Å¾e jsem v prdeli.}
+{522}{}{Hej, kÃ¡mo... podÄ›l se se mnou.}
+{523}{}{ChtÄ›l jsem se tÄ› zeptat, jestli si nechceÅ¡ zalÃ­tat, ale vidÃ­m, Å¾e je to zbyteÄnÃ½.}
+{524}{}{ProÄ jste dva? To je tvoje dvojÄe?}
+{525}{}{Kde jsi sehnal ten matroÅ¡?}
+{530}{}{RadÅ¡i se ani neotÃ¡Äej, jede za tebou mozek v krabici.}
+{531}{}{FÃ­ha, asi jsem si vzal nÄ›jakej fakt drsnej fet... vidÃ­m jezdÃ­cÃ­ho robota s mozkem.}
+{532}{}{Jestli tady jeÅ¡tÄ› jednou uvidÃ­m jezdit toho robota s mozkem, tak nadobro konÄÃ­m s Jetem.}
+{533}{}{Jednou jsem se cÃ­til jako ten tvÅ¯j robot... Å™ekni mu, Å¾e to bude dobrÃ½, aÅ¾ to pÅ™estane brÃ¡t.}
+{534}{}{Co se stalo tvÃ½mu kamarÃ¡dovi s mozkem? PÅ™iÅ¡el o tÄ›lo?}
+{535}{}{Å˜EKNI mi, Å¾e ten robot s mozkem nenÃ­ skuteÄnej. ProsÃ­m.}
 {536}{}{Whoa. Check out the robot brain. There's your brain on drugs if I've ever seen it.}
-{537}{}{Nechceš se se mnou proletìt? A co tvùj kámoš robot?}
-{538}{}{Zahráváš si se mnou, robotofile? Jsem napumpovanej Jetem! Nakopu ti PRDEL a pak i tomu robotovi!}
-{539}{}{Chceš dostat pøes hubu, robotofile?! Co?}
-{540}{}{Co? Nezdá se mi to?}
-{541}{}{Jsem tak sjetej, e... eh, co jsem to øíkal?}
-{542}{}{Chceš se proletìt? Tak si promluv s Juuuulesem.}
-{543}{}{Poøezanej Jimmy J ti píchne, jestli mi rozumíš.}
-{544}{}{Jestli uvidíš Renesca, øekni mu, e zaplatím zítra.}
-{545}{}{Poøezanej Jimmy má nejlepší fet ve mìstì. Po nìm budeš lítat tak vysoko, e nebudeš chtít NIKDY pøistát.}
-{546}{}{To mluvíš se mnou? To mluvíš se mnou?!}
+{537}{}{NechceÅ¡ se se mnou proletÄ›t? A co tvÅ¯j kÃ¡moÅ¡ robot?}
+{538}{}{ZahrÃ¡vÃ¡Å¡ si se mnou, robotofile? Jsem napumpovanej Jetem! Nakopu ti PRDEL a pak i tomu robotovi!}
+{539}{}{ChceÅ¡ dostat pÅ™es hubu, robotofile?! Co?}
+{540}{}{Co? NezdÃ¡ se mi to?}
+{541}{}{Jsem tak sjetej, Å¾e... eh, co jsem to Å™Ã­kal?}
+{542}{}{ChceÅ¡ se proletÄ›t? Tak si promluv s Juuuulesem.}
+{543}{}{PoÅ™ezanej Jimmy J ti pÃ­chne, jestli mi rozumÃ­Å¡.}
+{544}{}{Jestli uvidÃ­Å¡ Renesca, Å™ekni mu, Å¾e zaplatÃ­m zÃ­tra.}
+{545}{}{PoÅ™ezanej Jimmy mÃ¡ nejlepÅ¡Ã­ fet ve mÄ›stÄ›. Po nÄ›m budeÅ¡ lÃ­tat tak vysoko, Å¾e nebudeÅ¡ chtÃ­t NIKDY pÅ™istÃ¡t.}
+{546}{}{To mluvÃ­Å¡ se mnou? To mluvÃ­Å¡ se mnou?!}
 {547}{}{::Glares at you past drug-hazed eyes::}
-{548}{}{Radši se ani neotáèej, jde za tebou mutant.}
-{549}{}{Fíha, asi jsem si vzal nìjakej fakt drsnej fet... vidím mutanty pobíhat kolem.}
-{550}{}{To jsem tak zhulenej, nebo je tvùj kámoš vysokej jako dvoupatrovej barák?}
-{551}{}{::Smìje se:: Tomu tvımu mutantovi roste z ramene svìrák.}
+{548}{}{RadÅ¡i se ani neotÃ¡Äej, jde za tebou mutant.}
+{549}{}{FÃ­ha, asi jsem si vzal nÄ›jakej fakt drsnej fet... vidÃ­m mutanty pobÃ­hat kolem.}
+{550}{}{To jsem tak zhulenej, nebo je tvÅ¯j kÃ¡moÅ¡ vysokej jako dvoupatrovej barÃ¡k?}
+{551}{}{::SmÄ›je se:: Tomu tvÃ½mu mutantovi roste z ramene svÄ›rÃ¡k.}
 {552}{}{Eh... to je mutant, nebo jsem tak sjetej?}
-{553}{}{Ten tvùj velkej kámoš vypadá, e je pìknì v prdeli.}
-{554}{}{Ten tvùj kámoš je nìjakej lutej. ::Smìje se::}
-{555}{}{Je ten velkej chlápek opravdovej? Vypadá jako mutant.}
-{556}{}{Nechceš se se mnou proletìt? A co ten tvùj mutant?}
-{557}{}{Zahráváš si se mnou, mutantofile? Jsem napumpovanej Jetem! Nakopu ti PRDEL!}
-{558}{}{Chceš dostat pøes hubu, mutantofile ?! Co?}
-{560}{}{Radši se ani neohlíej, jde za tebou divoch.}
-{561}{}{Páni, kouknìte na toho divocha. To je fakt velká kost.}
-{562}{}{Páni. Ví tvùj kámoš o tom, e mu z nosu roste velká kost?}
-{563}{}{Páni, asi jsem si vzal nìjakej fakt drsnej fet... zrovna jsem vidìl chlápka, kterımu roste z nosu kost.}
-{564}{}{To jsem tak sjetej, nebo tvımu kámošovi roste kost z nosu?}
-{565}{}{Radši øekni svımu kámošovi, e mu nìkdo vrazil do nosu kost.}
-{566}{}{Jsem tak vysoko, e tì tam dole skoro nevidím.}
-{567}{}{Proè jste dva? To je tvoje dvojèe?}
-{568}{}{Co? Nezdá se mi to?}
-{569}{}{Jsem tak sjetej, e... eh, co jsem to øíkal?}
-{570}{}{Nechceš se se mnou proletìt?}
-{571}{}{Chceš se proletìt? Tak si promluv s Juuuulesem.}
-{572}{}{Poøezanej Jimmy J ti píchne, jestli mi rozumíš.}
-{573}{}{Jestli uvidíš Renesca, øekni mu, e zaplatím zítra.}
-{574}{}{Poøezanej Jimmy má nejlepší fet ve mìstì. Po nìm budeš lítat tak vysoko, e nebudeš chtít NIKDY pøistát.}
-{575}{}{To mluvíš se mnou? To mluvíš se mnou?!}
-{576}{}{Zahráváš si se mnou, robotofile? Jsem napumpovanej Jetem! Nakopu ti PRDEL!}
-{577}{}{Chceš dostat pøes hubu?! Co?}
+{553}{}{Ten tvÅ¯j velkej kÃ¡moÅ¡ vypadÃ¡, Å¾e je pÄ›knÄ› v prdeli.}
+{554}{}{Ten tvÅ¯j kÃ¡moÅ¡ je nÄ›jakej Å¾lutej. ::SmÄ›je se::}
+{555}{}{Je ten velkej chlÃ¡pek opravdovej? VypadÃ¡ jako mutant.}
+{556}{}{NechceÅ¡ se se mnou proletÄ›t? A co ten tvÅ¯j mutant?}
+{557}{}{ZahrÃ¡vÃ¡Å¡ si se mnou, mutantofile? Jsem napumpovanej Jetem! Nakopu ti PRDEL!}
+{558}{}{ChceÅ¡ dostat pÅ™es hubu, mutantofile ?! Co?}
+{560}{}{RadÅ¡i se ani neohlÃ­Å¾ej, jde za tebou divoch.}
+{561}{}{PÃ¡ni, kouknÄ›te na toho divocha. To je fakt velkÃ¡ kost.}
+{562}{}{PÃ¡ni. VÃ­ tvÅ¯j kÃ¡moÅ¡ o tom, Å¾e mu z nosu roste velkÃ¡ kost?}
+{563}{}{PÃ¡ni, asi jsem si vzal nÄ›jakej fakt drsnej fet... zrovna jsem vidÄ›l chlÃ¡pka, kterÃ½mu roste z nosu kost.}
+{564}{}{To jsem tak sjetej, nebo tvÃ½mu kÃ¡moÅ¡ovi roste kost z nosu?}
+{565}{}{RadÅ¡i Å™ekni svÃ½mu kÃ¡moÅ¡ovi, Å¾e mu nÄ›kdo vrazil do nosu kost.}
+{566}{}{Jsem tak vysoko, Å¾e tÄ› tam dole skoro nevidÃ­m.}
+{567}{}{ProÄ jste dva? To je tvoje dvojÄe?}
+{568}{}{Co? NezdÃ¡ se mi to?}
+{569}{}{Jsem tak sjetej, Å¾e... eh, co jsem to Å™Ã­kal?}
+{570}{}{NechceÅ¡ se se mnou proletÄ›t?}
+{571}{}{ChceÅ¡ se proletÄ›t? Tak si promluv s Juuuulesem.}
+{572}{}{PoÅ™ezanej Jimmy J ti pÃ­chne, jestli mi rozumÃ­Å¡.}
+{573}{}{Jestli uvidÃ­Å¡ Renesca, Å™ekni mu, Å¾e zaplatÃ­m zÃ­tra.}
+{574}{}{PoÅ™ezanej Jimmy mÃ¡ nejlepÅ¡Ã­ fet ve mÄ›stÄ›. Po nÄ›m budeÅ¡ lÃ­tat tak vysoko, Å¾e nebudeÅ¡ chtÃ­t NIKDY pÅ™istÃ¡t.}
+{575}{}{To mluvÃ­Å¡ se mnou? To mluvÃ­Å¡ se mnou?!}
+{576}{}{ZahrÃ¡vÃ¡Å¡ si se mnou, robotofile? Jsem napumpovanej Jetem! Nakopu ti PRDEL!}
+{577}{}{ChceÅ¡ dostat pÅ™es hubu?! Co?}
 {578}{}{::Glares at you past drug-hazed eyes::}
-{600}{}{Paráda...}
+{600}{}{ParÃ¡da...}
 {601}{}{Mmmm...}
-{602}{}{Jseš kámoš.}
+{602}{}{JseÅ¡ kÃ¡moÅ¡.}
 {603}{}{j}
 {604}{}{J}
 {605}{}{Dej mi J... eh...}
-{796}{}{! HUSTİ! CO DÁL, BEJBY, CO DÁL?!!!}
-{871}{}{? Mùeš mi sehnat trochu Jetu?}
+{796}{}{! HUSTÃ! CO DÃL, BEJBY, CO DÃL?!!!}
+{871}{}{? MÅ¯Å¾eÅ¡ mi sehnat trochu Jetu?}

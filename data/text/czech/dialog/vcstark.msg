@@ -1,334 +1,334 @@
-{100}{}{Vidíš seranta Starka.}
-{101}{}{Vidíš ohromného èernocha v tìké zbroji. Pozornì tì sleduje.}
-{102}{}{Vidíš seranta Starka.}
-{103}{}{Vidíš ohromného èernocha v tìké zbroji. Pozornì tì sleduje.}
-{104}{}{Dobrá práce tam dole na jihu. Vidìl jsem ten ohòostroj a sem.}
-{105}{}{Dobrı den... pane.}
-{106}{}{Vault City vdy zvítìzí... pane.}
-{107}{}{Zdravíèko, Obèane.}
-{108}{}{Vault City vdy zvítìzí, Obèane.}
-{109}{}{Budete litovat, e jste pøišel do mìsta... stráe!}
-{110}{}{Mutant! Stráe!}
-{111}{}{Ghoul! Stráe!}
-{112}{}{Musím ještì vyplnit ty seznamy munice...}
-{113}{}{Zítra musím ještì zkontrolovat skøíòky se zbranìmi dole ve Vaultu...}
-{114}{}{Moná, e vás vìzení nauèí, jak se chovat.}
-{115}{}{A ZÙSTANETE tu tak dlouho, dokud vám První Obèanka neudìlí milost.}
-{116}{}{Omlouvám se, Obèane, ale nikdo nemá pøístup do Nápravného zaøízení po setmìní. Vrate se ráno.}
-{117}{}{Je po návštìvních hodinách. Co dìláte v tuhle dobu ve mìstì?}
-{118}{}{No jó!}
-{119}{}{Eh, jako Obèan mùu pobıvat ve mìstì i po setmìní.}
-{120}{}{Jen jsem musel pøed odchodem vyøešit jednu záleitost.}
-{121}{}{Právì odcházím.}
-{122}{}{Opravdu? Znám KADÉHO Obèana ve Vault City a vás nepoznávám. Kde máte doklady?}
-{123}{}{Chcete moje doklady? Tak si pro nì pojïte.}
-{124}{}{Nemám je u sebe.}
+{100}{}{VidÃ­Å¡ serÅ¾anta Starka.}
+{101}{}{VidÃ­Å¡ ohromnÃ©ho Äernocha v tÄ›Å¾kÃ© zbroji. PozornÄ› tÄ› sleduje.}
+{102}{}{VidÃ­Å¡ serÅ¾anta Starka.}
+{103}{}{VidÃ­Å¡ ohromnÃ©ho Äernocha v tÄ›Å¾kÃ© zbroji. PozornÄ› tÄ› sleduje.}
+{104}{}{DobrÃ¡ prÃ¡ce tam dole na jihu. VidÄ›l jsem ten ohÅˆostroj aÅ¾ sem.}
+{105}{}{DobrÃ½ den... pane.}
+{106}{}{Vault City vÅ¾dy zvÃ­tÄ›zÃ­... pane.}
+{107}{}{ZdravÃ­Äko, ObÄane.}
+{108}{}{Vault City vÅ¾dy zvÃ­tÄ›zÃ­, ObÄane.}
+{109}{}{Budete litovat, Å¾e jste pÅ™iÅ¡el do mÄ›sta... strÃ¡Å¾e!}
+{110}{}{Mutant! StrÃ¡Å¾e!}
+{111}{}{Ghoul! StrÃ¡Å¾e!}
+{112}{}{MusÃ­m jeÅ¡tÄ› vyplnit ty seznamy munice...}
+{113}{}{ZÃ­tra musÃ­m jeÅ¡tÄ› zkontrolovat skÅ™Ã­Åˆky se zbranÄ›mi dole ve Vaultu...}
+{114}{}{MoÅ¾nÃ¡, Å¾e vÃ¡s vÄ›zenÃ­ nauÄÃ­, jak se chovat.}
+{115}{}{A ZÅ®STANETE tu tak dlouho, dokud vÃ¡m PrvnÃ­ ObÄanka neudÄ›lÃ­ milost.}
+{116}{}{OmlouvÃ¡m se, ObÄane, ale nikdo nemÃ¡ pÅ™Ã­stup do NÃ¡pravnÃ©ho zaÅ™Ã­zenÃ­ po setmÄ›nÃ­. VraÅ¥te se rÃ¡no.}
+{117}{}{Je po nÃ¡vÅ¡tÄ›vnÃ­ch hodinÃ¡ch. Co dÄ›lÃ¡te v tuhle dobu ve mÄ›stÄ›?}
+{118}{}{No jÃ³!}
+{119}{}{Eh, jako ObÄan mÅ¯Å¾u pobÃ½vat ve mÄ›stÄ› i po setmÄ›nÃ­.}
+{120}{}{Jen jsem musel pÅ™ed odchodem vyÅ™eÅ¡it jednu zÃ¡leÅ¾itost.}
+{121}{}{PrÃ¡vÄ› odchÃ¡zÃ­m.}
+{122}{}{Opravdu? ZnÃ¡m KAÅ½DÃ‰HO ObÄana ve Vault City a vÃ¡s nepoznÃ¡vÃ¡m. Kde mÃ¡te doklady?}
+{123}{}{Chcete moje doklady? Tak si pro nÄ› pojÄte.}
+{124}{}{NemÃ¡m je u sebe.}
 {125}{}{Tady je.}
-{126}{}{Tak mì pøestaòte zdrovat, "Obèane." No tak, pohnìte sebou.}
-{127}{}{Pro dnešek konèíte. No tak, pohnìte sebou.}
-{128}{}{Nikam nepùjdu. Zkuste na mì sáhnout a budete toho litovat.}
-{129}{}{Dobrá, u jdu.}
-{130}{}{Kapitáne. Mùu vám pomoct... pane?}
-{131}{}{Mohu vám pomoci, Obèane?}
-{132}{}{Co chceš?}
-{133}{}{No jó!}
+{126}{}{Tak mÄ› pÅ™estaÅˆte zdrÅ¾ovat, "ObÄane." No tak, pohnÄ›te sebou.}
+{127}{}{Pro dneÅ¡ek konÄÃ­te. No tak, pohnÄ›te sebou.}
+{128}{}{Nikam nepÅ¯jdu. Zkuste na mÄ› sÃ¡hnout a budete toho litovat.}
+{129}{}{DobrÃ¡, uÅ¾ jdu.}
+{130}{}{KapitÃ¡ne. MÅ¯Å¾u vÃ¡m pomoct... pane?}
+{131}{}{Mohu vÃ¡m pomoci, ObÄane?}
+{132}{}{Co chceÅ¡?}
+{133}{}{No jÃ³!}
 {134}{}{Odbelhat se.}
 {135}{}{Kdo jsi?}
-{136}{}{Nic, promiò, e ruším.}
-{137}{}{Pojïte se mnou, chlapèe. IHNED.}
-{138}{}{Pojïte se mnou, sleèno. IHNED.}
-{139}{}{Já odejít? Já odejít!}
-{140}{}{JÁ NE JÍT. TEÏ.}
-{141}{}{Budete litovat, e jste tu zùstal.}
-{142}{}{JÁ NE JÍT PRYÈ.}
-{143}{}{Serant Stark... pane. Potøebujete nìco?}
-{144}{}{Jsem Obèan SERANT Stark, Obèane. Mùu vám s nìèím pomoct?}
-{145}{}{Jsem Obèan SERANT Stark, venkovane. Co chcete?}
-{146}{}{Co tady dìláš?}
-{147}{}{Mùete mi øíct, kde je Vault?}
-{148}{}{Nic, promiò, e ruším.}
-{149}{}{Dìlám VAŠI práci, pane.}
-{150}{}{Vedu Nápravné zaøízení. A poslouchám vaše rozkazy, pane.}
-{151}{}{Vedu Nápravné zaøízení. Drím venkovany za hranicemi mìsta. Dohlíím na to, aby se sluebníci chovali slušnì. Organizuji hlídky. Pokouším se ochránit mìsto pøed nájezdníky.}
-{152}{}{Máte nìjakı problém, serante?}
-{153}{}{Nejste vy náhodou ten, co rozmlátil Cassidymu bar?}
-{154}{}{Neslyšel jste o sluebníkovi jménem Joshua?}
-{155}{}{Hlídky?}
-{156}{}{Nájezdníky?}
-{157}{}{O tìch nájezdnících...}
-{158}{}{Mùu se tì na nìco zeptat?}
-{159}{}{Díky. Sbohem.}
-{160}{}{Povolení mluvit otevøenì, pane.}
-{161}{}{Udìleno.}
-{162}{}{Ne. Nejdøív mám na vás pár otázek.}
-{163}{}{Dnes ne, serante.}
-{164}{}{Svoji hodnost si NEZASLOUÍTE. iju ve Vault City celı svùj ivot. MOJI podøízení mi vìøí a respektují mì, vás nikoliv... pane.}
-{165}{}{A to je pøesnì ten dùvod, proè vás potøebuju na vaší pozici, serante. Není pochyb o tom, e jste schopnı a znáte Vault City lépe ne já. Nicménì jsem vám ukázal PØÍPADY, kdy tomu tak NEBYLO. Nikdy na to nezapomeòte.}
-{166}{}{Beru na vìdomí, serante. Teï mám na vás nìjaké otázky.}
-{167}{}{Beru na vìdomí, serante. Doporuèuju vám, abyste spolkl svoje námitky a pokraèoval ve své práci. Hezkı den.}
-{168}{}{Rozumím, pane.}
-{169}{}{A teï mám na vás nìjaké otázky.}
-{170}{}{Pokraèujte, serante.}
+{136}{}{Nic, promiÅˆ, Å¾e ruÅ¡Ã­m.}
+{137}{}{PojÄte se mnou, chlapÄe. IHNED.}
+{138}{}{PojÄte se mnou, sleÄno. IHNED.}
+{139}{}{JÃ¡ odejÃ­t? JÃ¡ odejÃ­t!}
+{140}{}{JÃ NE JÃT. TEÄ.}
+{141}{}{Budete litovat, Å¾e jste tu zÅ¯stal.}
+{142}{}{JÃ NE JÃT PRYÄŒ.}
+{143}{}{SerÅ¾ant Stark... pane. PotÅ™ebujete nÄ›co?}
+{144}{}{Jsem ObÄan SERÅ½ANT Stark, ObÄane. MÅ¯Å¾u vÃ¡m s nÄ›ÄÃ­m pomoct?}
+{145}{}{Jsem ObÄan SERÅ½ANT Stark, venkovane. Co chcete?}
+{146}{}{Co tady dÄ›lÃ¡Å¡?}
+{147}{}{MÅ¯Å¾ete mi Å™Ã­ct, kde je Vault?}
+{148}{}{Nic, promiÅˆ, Å¾e ruÅ¡Ã­m.}
+{149}{}{DÄ›lÃ¡m VAÅ I prÃ¡ci, pane.}
+{150}{}{Vedu NÃ¡pravnÃ© zaÅ™Ã­zenÃ­. A poslouchÃ¡m vaÅ¡e rozkazy, pane.}
+{151}{}{Vedu NÃ¡pravnÃ© zaÅ™Ã­zenÃ­. DrÅ¾Ã­m venkovany za hranicemi mÄ›sta. DohlÃ­Å¾Ã­m na to, aby se sluÅ¾ebnÃ­ci chovali sluÅ¡nÄ›. Organizuji hlÃ­dky. PokouÅ¡Ã­m se ochrÃ¡nit mÄ›sto pÅ™ed nÃ¡jezdnÃ­ky.}
+{152}{}{MÃ¡te nÄ›jakÃ½ problÃ©m, serÅ¾ante?}
+{153}{}{Nejste vy nÃ¡hodou ten, co rozmlÃ¡til Cassidymu bar?}
+{154}{}{NeslyÅ¡el jste o sluÅ¾ebnÃ­kovi jmÃ©nem Joshua?}
+{155}{}{HlÃ­dky?}
+{156}{}{NÃ¡jezdnÃ­ky?}
+{157}{}{O tÄ›ch nÃ¡jezdnÃ­cÃ­ch...}
+{158}{}{MÅ¯Å¾u se tÄ› na nÄ›co zeptat?}
+{159}{}{DÃ­ky. Sbohem.}
+{160}{}{PovolenÃ­ mluvit otevÅ™enÄ›, pane.}
+{161}{}{UdÄ›leno.}
+{162}{}{Ne. NejdÅ™Ã­v mÃ¡m na vÃ¡s pÃ¡r otÃ¡zek.}
+{163}{}{Dnes ne, serÅ¾ante.}
+{164}{}{Svoji hodnost si NEZASLOUÅ½ÃTE. Å½iju ve Vault City celÃ½ svÅ¯j Å¾ivot. MOJI podÅ™Ã­zenÃ­ mi vÄ›Å™Ã­ a respektujÃ­ mÄ›, vÃ¡s nikoliv... pane.}
+{165}{}{A to je pÅ™esnÄ› ten dÅ¯vod, proÄ vÃ¡s potÅ™ebuju na vaÅ¡Ã­ pozici, serÅ¾ante. NenÃ­ pochyb o tom, Å¾e jste schopnÃ½ a znÃ¡te Vault City lÃ©pe neÅ¾ jÃ¡. NicmÃ©nÄ› jsem vÃ¡m ukÃ¡zal PÅ˜ÃPADY, kdy tomu tak NEBYLO. Nikdy na to nezapomeÅˆte.}
+{166}{}{Beru na vÄ›domÃ­, serÅ¾ante. TeÄ mÃ¡m na vÃ¡s nÄ›jakÃ© otÃ¡zky.}
+{167}{}{Beru na vÄ›domÃ­, serÅ¾ante. DoporuÄuju vÃ¡m, abyste spolkl svoje nÃ¡mitky a pokraÄoval ve svÃ© prÃ¡ci. HezkÃ½ den.}
+{168}{}{RozumÃ­m, pane.}
+{169}{}{A teÄ mÃ¡m na vÃ¡s nÄ›jakÃ© otÃ¡zky.}
+{170}{}{PokraÄujte, serÅ¾ante.}
 {171}{}{Ano, pane. Organizoval jsem povolenou razii v podniku pana Cassidyho.}
-{172}{}{Moná vám váš pøítel Cassidy neøekl, e ve svém podniku pøechovával nedovolené látky a jeho licence k prodeji alkoholu vypršela. Nezapomnìl jste to øíct svému pøíteli, Cassidy?}
-{173}{}{Cassidy øíká, e mìl všechno zaplacené a vy jste jeho obchod stejnì vyraboval.}
-{174}{}{Zapomeòte na to. Chci se ještì na nìco zeptat...}
-{175}{}{Tak na to zapomeòte. Sbohem.}
-{176}{}{Ne, pane. Pan Cassidy nezaplatil licenèní poplatek k prodeji alkoholu za poslední mìsíc a pøitom ho stále prodával. Vıpis jeho plateb je zapsán v poèítaèi.}
-{177}{}{Cassidy je vinen z neoprávnìného prodeje alkoholu bez licence. Jestli se mu to nelíbí, mùe odejít z Vault City. Jednoduché jak facka.}
-{178}{}{Vìøím vám, serante. Dobrá práce. A teï mì poslouchejte: Chci, abyste se panu Cassidymu omluvil, vymazal jeho trestní rejstøík a zaplatil mu za škody, které jste zpùsobil v jeho podniku.}
-{179}{}{Víte, myslím, e moje pìst a váš ksicht si spolu chtìjí popovídat.}
-{180}{}{Zapomeòte na to. Chci se ještì na nìco zeptat...}
-{181}{}{Zapomeòte na to. Nashledanou.}
-{182}{}{Díky za pomoc, pøíteli. Stark je pìknì tvrdohlavej zkurvysyn.}
-{183}{}{To si mùete zkusit. Tìším se, a s vámi a Cassidym provedu krátkej proces.}
-{184}{}{Fajn. Stejnì jsem se tìšil na to, a vám budu moct nakopat prdel.}
-{185}{}{Zapomeòte na to. Chci se ještì na nìco zeptat...}
-{186}{}{Zapomeòte na to. Nashledanou.}
+{172}{}{MoÅ¾nÃ¡ vÃ¡m vÃ¡Å¡ pÅ™Ã­tel Cassidy neÅ™ekl, Å¾e ve svÃ©m podniku pÅ™echovÃ¡val nedovolenÃ© lÃ¡tky a jeho licence k prodeji alkoholu vyprÅ¡ela. NezapomnÄ›l jste to Å™Ã­ct svÃ©mu pÅ™Ã­teli, Cassidy?}
+{173}{}{Cassidy Å™Ã­kÃ¡, Å¾e mÄ›l vÅ¡echno zaplacenÃ© a vy jste jeho obchod stejnÄ› vyraboval.}
+{174}{}{ZapomeÅˆte na to. Chci se jeÅ¡tÄ› na nÄ›co zeptat...}
+{175}{}{Tak na to zapomeÅˆte. Sbohem.}
+{176}{}{Ne, pane. Pan Cassidy nezaplatil licenÄnÃ­ poplatek k prodeji alkoholu za poslednÃ­ mÄ›sÃ­c a pÅ™itom ho stÃ¡le prodÃ¡val. VÃ½pis jeho plateb je zapsÃ¡n v poÄÃ­taÄi.}
+{177}{}{Cassidy je vinen z neoprÃ¡vnÄ›nÃ©ho prodeje alkoholu bez licence. Jestli se mu to nelÃ­bÃ­, mÅ¯Å¾e odejÃ­t z Vault City. JednoduchÃ© jak facka.}
+{178}{}{VÄ›Å™Ã­m vÃ¡m, serÅ¾ante. DobrÃ¡ prÃ¡ce. A teÄ mÄ› poslouchejte: Chci, abyste se panu Cassidymu omluvil, vymazal jeho trestnÃ­ rejstÅ™Ã­k a zaplatil mu za Å¡kody, kterÃ© jste zpÅ¯sobil v jeho podniku.}
+{179}{}{VÃ­te, myslÃ­m, Å¾e moje pÄ›st a vÃ¡Å¡ ksicht si spolu chtÄ›jÃ­ popovÃ­dat.}
+{180}{}{ZapomeÅˆte na to. Chci se jeÅ¡tÄ› na nÄ›co zeptat...}
+{181}{}{ZapomeÅˆte na to. Nashledanou.}
+{182}{}{DÃ­ky za pomoc, pÅ™Ã­teli. Stark je pÄ›knÄ› tvrdohlavej zkurvysyn.}
+{183}{}{To si mÅ¯Å¾ete zkusit. TÄ›Å¡Ã­m se, aÅ¾ s vÃ¡mi a Cassidym provedu krÃ¡tkej proces.}
+{184}{}{Fajn. StejnÄ› jsem se tÄ›Å¡il na to, aÅ¾ vÃ¡m budu moct nakopat prdel.}
+{185}{}{ZapomeÅˆte na to. Chci se jeÅ¡tÄ› na nÄ›co zeptat...}
+{186}{}{ZapomeÅˆte na to. Nashledanou.}
 {187}{}{Ano... PANE.}
-{188}{}{IHNED, serante.}
-{189}{}{Tak do toho, serante. Hejbnìte sebou.}
+{188}{}{IHNED, serÅ¾ante.}
+{189}{}{Tak do toho, serÅ¾ante. HejbnÄ›te sebou.}
 {190}{}{Hotovo, PANE.}
-{191}{}{A teï se vás chci na nìco zeptat, serante.}
-{192}{}{Vıbornì, serante. Jen tak dál.}
-{193}{}{Jo, to je jeden z tìch opilıch venkovanù, co zaútoèili na moje stráe pøi té rvaèce ve Spittoonu. Skonèil jako sluebník v Centru pro rozdìlování sluebníkù... zavøenı. Je to tou ulicí dolù.}
-{194}{}{Chci se ještì na nìco zeptat...}
-{195}{}{Hmmm. Pùjdu se tam teï podívat.}
-{196}{}{Vault je hned za dveømi... pane.}
-{197}{}{Vault je hned za dveømi. Staèí øíct stráím, e jste Obèan a nechají vás projít.}
-{198}{}{Vault je hned za dveømi, ale dovnitø mají pøístup pouze Obèané, take ne abych vás pøistihl, jak otravujete stráe.}
-{199}{}{Mùu se vás zeptat na nìco jiného?}
-{200}{}{Ale já jsem Obèan.}
-{201}{}{Jak jste pøišel k Obèanství?}
-{202}{}{Díky. Sbohem.}
-{203}{}{Opravdu? Nepoznávám vás a to znám kadého Obèana ve Vault City.}
-{204}{}{Tady jsou mé doklady. Myslím, e jsou v poøádku.}
-{205}{}{Eh, zapomeòte na to. Chci se ještì na nìco zeptat...}
-{206}{}{Radìji u pùjdu.}
-{207}{}{Ale ale, jestlipak tohle nejsou ty doklady, které nìkdo minulı mìsíc ukradl. Vypadá to, e jsem koneènì našel pachatele. Pùjdete se mnou, venkovane.}
-{208}{}{Dotknìte se mì a budete toho litovat.}
-{209}{}{No jo, vdy u jdu. Pøestaòte do mì strkat.}
-{210}{}{NARODIL jsem se jako Obèan. Chcete se stát Obèanem? Tak zajdìte za nìjakım èlenem rady.}
-{211}{}{Mùu se vás zeptat na nìco jiného?}
-{212}{}{To udìlám, díky. Nashle.}
+{191}{}{A teÄ se vÃ¡s chci na nÄ›co zeptat, serÅ¾ante.}
+{192}{}{VÃ½bornÄ›, serÅ¾ante. Jen tak dÃ¡l.}
+{193}{}{Jo, to je jeden z tÄ›ch opilÃ½ch venkovanÅ¯, co zaÃºtoÄili na moje strÃ¡Å¾e pÅ™i tÃ© rvaÄce ve Spittoonu. SkonÄil jako sluÅ¾ebnÃ­k v Centru pro rozdÄ›lovÃ¡nÃ­ sluÅ¾ebnÃ­kÅ¯... zavÅ™enÃ½. Je to tou ulicÃ­ dolÅ¯.}
+{194}{}{Chci se jeÅ¡tÄ› na nÄ›co zeptat...}
+{195}{}{Hmmm. PÅ¯jdu se tam teÄ podÃ­vat.}
+{196}{}{Vault je hned za dveÅ™mi... pane.}
+{197}{}{Vault je hned za dveÅ™mi. StaÄÃ­ Å™Ã­ct strÃ¡Å¾Ã­m, Å¾e jste ObÄan a nechajÃ­ vÃ¡s projÃ­t.}
+{198}{}{Vault je hned za dveÅ™mi, ale dovnitÅ™ majÃ­ pÅ™Ã­stup pouze ObÄanÃ©, takÅ¾e ne abych vÃ¡s pÅ™istihl, jak otravujete strÃ¡Å¾e.}
+{199}{}{MÅ¯Å¾u se vÃ¡s zeptat na nÄ›co jinÃ©ho?}
+{200}{}{Ale jÃ¡ jsem ObÄan.}
+{201}{}{Jak jste pÅ™iÅ¡el k ObÄanstvÃ­?}
+{202}{}{DÃ­ky. Sbohem.}
+{203}{}{Opravdu? NepoznÃ¡vÃ¡m vÃ¡s a to znÃ¡m kaÅ¾dÃ©ho ObÄana ve Vault City.}
+{204}{}{Tady jsou mÃ© doklady. MyslÃ­m, Å¾e jsou v poÅ™Ã¡dku.}
+{205}{}{Eh, zapomeÅˆte na to. Chci se jeÅ¡tÄ› na nÄ›co zeptat...}
+{206}{}{RadÄ›ji uÅ¾ pÅ¯jdu.}
+{207}{}{Ale ale, jestlipak tohle nejsou ty doklady, kterÃ© nÄ›kdo minulÃ½ mÄ›sÃ­c ukradl. VypadÃ¡ to, Å¾e jsem koneÄnÄ› naÅ¡el pachatele. PÅ¯jdete se mnou, venkovane.}
+{208}{}{DotknÄ›te se mÄ› a budete toho litovat.}
+{209}{}{No jo, vÅ¾dyÅ¥ uÅ¾ jdu. PÅ™estaÅˆte do mÄ› strkat.}
+{210}{}{NARODIL jsem se jako ObÄan. Chcete se stÃ¡t ObÄanem? Tak zajdÄ›te za nÄ›jakÃ½m Älenem rady.}
+{211}{}{MÅ¯Å¾u se vÃ¡s zeptat na nÄ›co jinÃ©ho?}
+{212}{}{To udÄ›lÃ¡m, dÃ­ky. Nashle.}
 {213}{}{Jo, co je s nimi?}
-{214}{}{Podaøilo se mi najít jejich základnu.}
+{214}{}{PodaÅ™ilo se mi najÃ­t jejich zÃ¡kladnu.}
 {215}{}{Vyhladil jsem je.}
-{216}{}{Máte nìjakou pøedstavu, kde se ti nájezdníci zdrují?}
-{217}{}{To je jedno. Chci se na nìco zeptat...}
-{218}{}{Zapomeòte na to. Moná si popovídáme nìkdy jindy.}
+{216}{}{MÃ¡te nÄ›jakou pÅ™edstavu, kde se ti nÃ¡jezdnÃ­ci zdrÅ¾ujÃ­?}
+{217}{}{To je jedno. Chci se na nÄ›co zeptat...}
+{218}{}{ZapomeÅˆte na to. MoÅ¾nÃ¡ si popovÃ­dÃ¡me nÄ›kdy jindy.}
 {219}{}{Opravdu? Kde je?}
-{220}{}{Ano, to u jsem slyšel. Øeknìte to První Obèance, pokud jste spolu ještì nemluvili.}
-{221}{}{V horskıch jeskynních systémech dole na jihu. Tady, ukáu vám to...}
-{222}{}{Chci se ještì na nìco zeptat.}
-{223}{}{Dobøe. Pùjdu si s ní popovídat.}
+{220}{}{Ano, to uÅ¾ jsem slyÅ¡el. Å˜eknÄ›te to PrvnÃ­ ObÄance, pokud jste spolu jeÅ¡tÄ› nemluvili.}
+{221}{}{V horskÃ½ch jeskynnÃ­ch systÃ©mech dole na jihu. Tady, ukÃ¡Å¾u vÃ¡m to...}
+{222}{}{Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{223}{}{DobÅ™e. PÅ¯jdu si s nÃ­ popovÃ­dat.}
 {224}{}{Vy jste je vyhladil?}
-{225}{}{Ano, to u jsem slyšel. Øeknìte to První Obèance, pokud jste spolu ještì nemluvili.}
-{226}{}{Jo, Vault City se jich u nemusí obávat.}
-{227}{}{Chci se ještì na nìco zeptat.}
-{228}{}{Dobøe. Pùjdu si s ní popovídat.}
-{229}{}{Jdìte to okamitì øíct První Obèance. O tomhle bude chtít vìdìt co nejdøíve.}
-{230}{}{Chci se nejdøív na nìco zeptat.}
-{231}{}{Dobøe. Pùjdu si s ní popovídat.}
-{232}{}{Jo, nájezdníci. Poslední dobou na nás útoèí dost tvrdì. (Zamraèí se.) Proè se na nì vlastnì ptáte?}
-{233}{}{Chci se pokusit najít jejich základnu a zastavit jejich útoky.}
-{234}{}{Jen ze zvìdavosti.}
-{235}{}{To je jedno. Chci se na nìco zeptat...}
-{236}{}{Zapomeòte na to. Moná si popovídáme nìkdy jindy.}
-{237}{}{Co, vy jste nìjakej dobrodinec nebo co? Tomu nevìøím.}
-{238}{}{Nejsem dobrodinec. Ve skuteènosti pocházím z Arroya... to je vesnice na západì.}
-{239}{}{Rád pomùu, kdy mùu.}
-{240}{}{Podívejte, iju na tomhle svìtì u dost dlouho a vím, e kadá pomoc se èlovìku nìkdy v budoucnu vrátí.}
-{241}{}{To je jedno. Chci se na nìco zeptat...}
-{242}{}{Zapomeòte na to. Moná si popovídáme nìkdy jindy.}
-{243}{}{Co, chcete tu ze sebe dìlat chytráka? Opravdu?}
-{244}{}{Eh, jo? No ale postavit se takové bandì mùe bıt nad vaše síly.}
-{245}{}{Ne, ale pokud potøebujete pomoc, pomùu vám.}
-{246}{}{I pøesto chci pomoct.}
-{247}{}{Tak na to zapomeòte. Chci se na nìco zeptat...}
-{248}{}{Zapomeòte na to. Moná si popovídáme nìkdy jindy.}
-{249}{}{Hmmm. Dobrá, v tom pøípadì neodmítnu pomoc. A najdete jejich základnu, nebo je dokonce vyhladíte, øeknìte to První Obèance.}
-{250}{}{Ve skuteènosti se mi u podaøilo najít jejich základnu.}
-{251}{}{Ve skuteènosti jsou u všichni nájezdníci mrtví.}
-{252}{}{Máte nìjakou pøedstavu, kde se ti nájezdníci zdrují?}
-{253}{}{Tak dobøe. Chci se ještì zeptat...}
-{254}{}{Samozøejmì.}
-{255}{}{Tak ze zvìdavosti, jo? Taky jsem zvìdavı. Co vlastnì víte o tìch nájezdnících?}
-{256}{}{Chci se pokusit najít jejich základnu a zastavit jejich útoky.}
-{257}{}{Nevím o nich nic. Proto se vás taky ptám.}
-{258}{}{To je jedno. Chci se na nìco zeptat...}
-{259}{}{Zapomeòte na to. Moná si popovídáme nìkdy jindy.}
-{260}{}{Nic o nich nevíte? Moná bych si vás mìl nechat v Nápravném zaøízení, dokud si na nìco NEVZPOMENETE.}
-{261}{}{Chci se pokusit najít jejich základnu a zastavit jejich útoky.}
-{262}{}{Dostal jste mì. Jsem oèividnì ve spolèení s tìmi nájezdníky. Zatknìte mì.}
-{263}{}{Podívejte, odcházím odsud. A jestli se mì pokusíte zastavit, budete mít problémy.}
-{264}{}{Vy u máte problémy. Chcete, aby to bylo ještì horší?}
-{265}{}{Ne, chci se pokusit najít jejich základnu a zastavit jejich útoky.}
-{266}{}{Dostal jste mì. Jsem oèividnì ve spolèení s tìmi nájezdníky. Zatknìte mì.}
-{267}{}{Odcházím. Chcete mì zastavit? Tak si poslute.}
-{268}{}{Tak dobøe...}
-{269}{}{Prr! Poèkej! Tak jsem to...}
-{270}{}{Tak se uka, sráèi.}
-{271}{}{Myslím, e se tomuto tématu tak jednoduše nevyhnete. Take, co o tìch nájezdnících víte?}
-{272}{}{Chci se pokusit najít jejich základnu a zastavit jejich útoky.}
-{273}{}{Jen ze zvìdavosti.}
-{274}{}{Podívejte, odcházím odsud. A jestli se mì pokusíte zastavit, budete mít problémy.}
-{275}{}{Nevím. S tìmi nájezdníky je to nìjaké podivné. POKUD jsou to vùbec nájezdníci.}
-{276}{}{Co tím myslíš?}
-{277}{}{Chci se ještì zeptat...}
-{278}{}{U musím jít.}
-{279}{}{Mají zbranì velkého kalibru. Drahé zbranì. Znají vojenské taktiky. Bojují ve formaci. Jejich linie palby se nikdy nekøíí a pokadé se zastaví tìsnì pøed prolomením naší obrany.}
-{280}{}{Eh... zastaví se tìsnì pøed prolomením obrany?}
-{281}{}{Chci se ještì zeptat...}
-{282}{}{U musím jít.}
-{283}{}{Pøesnì tak. Pøi posledním útoku vyøadili z provozu laserovou vì v západním kvadrantu. Mìli volnı pøístup do mìsta. Poté jsem si všiml, jak jeden z jejich "kapitánù" vydává ROZKAZ, aby se stáhli zpìt. Nedává to ádnı smysl.}
-{284}{}{Máte nìjakou pøedstavu, kde se ti nájezdníci zdrují?}
-{285}{}{Hmmm. Chci se ještì zeptat...}
-{286}{}{Zajímavé. Musím u jít.}
-{287}{}{Ne. A to je to, co mì nejvíc frustruje. Obvykle ustupují na jih, ale na prùzkum té oblasti nemám dost muù. Myslím, e mají nájezdníci nìjakého místního prùvodce, kterı je provádí jiními kaòony.}
+{225}{}{Ano, to uÅ¾ jsem slyÅ¡el. Å˜eknÄ›te to PrvnÃ­ ObÄance, pokud jste spolu jeÅ¡tÄ› nemluvili.}
+{226}{}{Jo, Vault City se jich uÅ¾ nemusÃ­ obÃ¡vat.}
+{227}{}{Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{228}{}{DobÅ™e. PÅ¯jdu si s nÃ­ popovÃ­dat.}
+{229}{}{JdÄ›te to okamÅ¾itÄ› Å™Ã­ct PrvnÃ­ ObÄance. O tomhle bude chtÃ­t vÄ›dÄ›t co nejdÅ™Ã­ve.}
+{230}{}{Chci se nejdÅ™Ã­v na nÄ›co zeptat.}
+{231}{}{DobÅ™e. PÅ¯jdu si s nÃ­ popovÃ­dat.}
+{232}{}{Jo, nÃ¡jezdnÃ­ci. PoslednÃ­ dobou na nÃ¡s ÃºtoÄÃ­ dost tvrdÄ›. (ZamraÄÃ­ se.) ProÄ se na nÄ› vlastnÄ› ptÃ¡te?}
+{233}{}{Chci se pokusit najÃ­t jejich zÃ¡kladnu a zastavit jejich Ãºtoky.}
+{234}{}{Jen ze zvÄ›davosti.}
+{235}{}{To je jedno. Chci se na nÄ›co zeptat...}
+{236}{}{ZapomeÅˆte na to. MoÅ¾nÃ¡ si popovÃ­dÃ¡me nÄ›kdy jindy.}
+{237}{}{Co, vy jste nÄ›jakej dobrodinec nebo co? Tomu nevÄ›Å™Ã­m.}
+{238}{}{Nejsem dobrodinec. Ve skuteÄnosti pochÃ¡zÃ­m z Arroya... to je vesnice na zÃ¡padÄ›.}
+{239}{}{RÃ¡d pomÅ¯Å¾u, kdyÅ¾ mÅ¯Å¾u.}
+{240}{}{PodÃ­vejte, Å¾iju na tomhle svÄ›tÄ› uÅ¾ dost dlouho a vÃ­m, Å¾e kaÅ¾dÃ¡ pomoc se ÄlovÄ›ku nÄ›kdy v budoucnu vrÃ¡tÃ­.}
+{241}{}{To je jedno. Chci se na nÄ›co zeptat...}
+{242}{}{ZapomeÅˆte na to. MoÅ¾nÃ¡ si popovÃ­dÃ¡me nÄ›kdy jindy.}
+{243}{}{Co, chcete tu ze sebe dÄ›lat chytrÃ¡ka? Opravdu?}
+{244}{}{Eh, jo? No ale postavit se takovÃ© bandÄ› mÅ¯Å¾e bÃ½t nad vaÅ¡e sÃ­ly.}
+{245}{}{Ne, ale pokud potÅ™ebujete pomoc, pomÅ¯Å¾u vÃ¡m.}
+{246}{}{I pÅ™esto chci pomoct.}
+{247}{}{Tak na to zapomeÅˆte. Chci se na nÄ›co zeptat...}
+{248}{}{ZapomeÅˆte na to. MoÅ¾nÃ¡ si popovÃ­dÃ¡me nÄ›kdy jindy.}
+{249}{}{Hmmm. DobrÃ¡, v tom pÅ™Ã­padÄ› neodmÃ­tnu pomoc. AÅ¾ najdete jejich zÃ¡kladnu, nebo je dokonce vyhladÃ­te, Å™eknÄ›te to PrvnÃ­ ObÄance.}
+{250}{}{Ve skuteÄnosti se mi uÅ¾ podaÅ™ilo najÃ­t jejich zÃ¡kladnu.}
+{251}{}{Ve skuteÄnosti jsou uÅ¾ vÅ¡ichni nÃ¡jezdnÃ­ci mrtvÃ­.}
+{252}{}{MÃ¡te nÄ›jakou pÅ™edstavu, kde se ti nÃ¡jezdnÃ­ci zdrÅ¾ujÃ­?}
+{253}{}{Tak dobÅ™e. Chci se jeÅ¡tÄ› zeptat...}
+{254}{}{SamozÅ™ejmÄ›.}
+{255}{}{Tak ze zvÄ›davosti, jo? Taky jsem zvÄ›davÃ½. Co vlastnÄ› vÃ­te o tÄ›ch nÃ¡jezdnÃ­cÃ­ch?}
+{256}{}{Chci se pokusit najÃ­t jejich zÃ¡kladnu a zastavit jejich Ãºtoky.}
+{257}{}{NevÃ­m o nich nic. Proto se vÃ¡s taky ptÃ¡m.}
+{258}{}{To je jedno. Chci se na nÄ›co zeptat...}
+{259}{}{ZapomeÅˆte na to. MoÅ¾nÃ¡ si popovÃ­dÃ¡me nÄ›kdy jindy.}
+{260}{}{Nic o nich nevÃ­te? MoÅ¾nÃ¡ bych si vÃ¡s mÄ›l nechat v NÃ¡pravnÃ©m zaÅ™Ã­zenÃ­, dokud si na nÄ›co NEVZPOMENETE.}
+{261}{}{Chci se pokusit najÃ­t jejich zÃ¡kladnu a zastavit jejich Ãºtoky.}
+{262}{}{Dostal jste mÄ›. Jsem oÄividnÄ› ve spolÄenÃ­ s tÄ›mi nÃ¡jezdnÃ­ky. ZatknÄ›te mÄ›.}
+{263}{}{PodÃ­vejte, odchÃ¡zÃ­m odsud. A jestli se mÄ› pokusÃ­te zastavit, budete mÃ­t problÃ©my.}
+{264}{}{Vy uÅ¾ mÃ¡te problÃ©my. Chcete, aby to bylo jeÅ¡tÄ› horÅ¡Ã­?}
+{265}{}{Ne, chci se pokusit najÃ­t jejich zÃ¡kladnu a zastavit jejich Ãºtoky.}
+{266}{}{Dostal jste mÄ›. Jsem oÄividnÄ› ve spolÄenÃ­ s tÄ›mi nÃ¡jezdnÃ­ky. ZatknÄ›te mÄ›.}
+{267}{}{OdchÃ¡zÃ­m. Chcete mÄ› zastavit? Tak si posluÅ¾te.}
+{268}{}{Tak dobÅ™e...}
+{269}{}{Prr! PoÄkej! Tak jsem to...}
+{270}{}{Tak se ukaÅ¾, srÃ¡Äi.}
+{271}{}{MyslÃ­m, Å¾e se tomuto tÃ©matu tak jednoduÅ¡e nevyhnete. TakÅ¾e, co o tÄ›ch nÃ¡jezdnÃ­cÃ­ch vÃ­te?}
+{272}{}{Chci se pokusit najÃ­t jejich zÃ¡kladnu a zastavit jejich Ãºtoky.}
+{273}{}{Jen ze zvÄ›davosti.}
+{274}{}{PodÃ­vejte, odchÃ¡zÃ­m odsud. A jestli se mÄ› pokusÃ­te zastavit, budete mÃ­t problÃ©my.}
+{275}{}{NevÃ­m. S tÄ›mi nÃ¡jezdnÃ­ky je to nÄ›jakÃ© podivnÃ©. POKUD jsou to vÅ¯bec nÃ¡jezdnÃ­ci.}
+{276}{}{Co tÃ­m myslÃ­Å¡?}
+{277}{}{Chci se jeÅ¡tÄ› zeptat...}
+{278}{}{UÅ¾ musÃ­m jÃ­t.}
+{279}{}{MajÃ­ zbranÄ› velkÃ©ho kalibru. DrahÃ© zbranÄ›. ZnajÃ­ vojenskÃ© taktiky. BojujÃ­ ve formaci. Jejich linie palby se nikdy nekÅ™Ã­Å¾Ã­ a pokaÅ¾dÃ© se zastavÃ­ tÄ›snÄ› pÅ™ed prolomenÃ­m naÅ¡Ã­ obrany.}
+{280}{}{Eh... zastavÃ­ se tÄ›snÄ› pÅ™ed prolomenÃ­m obrany?}
+{281}{}{Chci se jeÅ¡tÄ› zeptat...}
+{282}{}{UÅ¾ musÃ­m jÃ­t.}
+{283}{}{PÅ™esnÄ› tak. PÅ™i poslednÃ­m Ãºtoku vyÅ™adili z provozu laserovou vÄ›Å¾ v zÃ¡padnÃ­m kvadrantu. MÄ›li volnÃ½ pÅ™Ã­stup do mÄ›sta. PotÃ© jsem si vÅ¡iml, jak jeden z jejich "kapitÃ¡nÅ¯" vydÃ¡vÃ¡ ROZKAZ, aby se stÃ¡hli zpÄ›t. NedÃ¡vÃ¡ to Å¾Ã¡dnÃ½ smysl.}
+{284}{}{MÃ¡te nÄ›jakou pÅ™edstavu, kde se ti nÃ¡jezdnÃ­ci zdrÅ¾ujÃ­?}
+{285}{}{Hmmm. Chci se jeÅ¡tÄ› zeptat...}
+{286}{}{ZajÃ­mavÃ©. MusÃ­m uÅ¾ jÃ­t.}
+{287}{}{Ne. A to je to, co mÄ› nejvÃ­c frustruje. Obvykle ustupujÃ­ na jih, ale na prÅ¯zkum tÃ© oblasti nemÃ¡m dost muÅ¾Å¯. MyslÃ­m, Å¾e majÃ­ nÃ¡jezdnÃ­ci nÄ›jakÃ©ho mÃ­stnÃ­ho prÅ¯vodce, kterÃ½ je provÃ¡dÃ­ jiÅ¾nÃ­mi kaÅˆony.}
 {288}{}{Co je na jihu?}
-{289}{}{Hmmm. Chci se ještì zeptat...}
-{290}{}{Zajímavé. Musím u jít.}
-{291}{}{Je tam spousta míst, kde se dá ukrıt. To místo je jeskynìmi prodìravìlé jak ementál.}
-{292}{}{Moná se je mùu pokusit najít.}
-{293}{}{Chci se ještì zeptat...}
+{289}{}{Hmmm. Chci se jeÅ¡tÄ› zeptat...}
+{290}{}{ZajÃ­mavÃ©. MusÃ­m uÅ¾ jÃ­t.}
+{291}{}{Je tam spousta mÃ­st, kde se dÃ¡ ukrÃ½t. To mÃ­sto je jeskynÄ›mi prodÄ›ravÄ›lÃ© jak ementÃ¡l.}
+{292}{}{MoÅ¾nÃ¡ se je mÅ¯Å¾u pokusit najÃ­t.}
+{293}{}{Chci se jeÅ¡tÄ› zeptat...}
 {294}{}{Hmmm. Budu si to pamatovat. Sbohem.}
-{295}{}{Tak jen do toho. Zkuste to. Vsadím se, e jedinı zpùsob, jak je najít, je ten, e nám sami dají mapu.}
-{296}{}{Chci se ještì zeptat...}
-{297}{}{Pokud je to všechno... tak díky za informace.}
-{298}{}{Jo, mám málo hlídek. Stìí dám dohromady mue k ochranì Vault City. Na rekognoskaci mi u nikdo nezbıvá.}
+{295}{}{Tak jen do toho. Zkuste to. VsadÃ­m se, Å¾e jedinÃ½ zpÅ¯sob, jak je najÃ­t, je ten, Å¾e nÃ¡m sami dajÃ­ mapu.}
+{296}{}{Chci se jeÅ¡tÄ› zeptat...}
+{297}{}{Pokud je to vÅ¡echno... tak dÃ­ky za informace.}
+{298}{}{Jo, mÃ¡m mÃ¡lo hlÃ­dek. StÄ›Å¾Ã­ dÃ¡m dohromady muÅ¾e k ochranÄ› Vault City. Na rekognoskaci mi uÅ¾ nikdo nezbÃ½vÃ¡.}
 {299}{}{Rekog-no-co?}
-{300}{}{Hodnì cestuju. Mùu vám s nìèím pomoct?}
-{301}{}{To je mi líto. Chci se ještì na nìco zeptat...}
-{302}{}{Tak na to zapomeòte. Sbohem.}
-{303}{}{Prùzkum.}
-{304}{}{Co tím myslíš?}
-{305}{}{Mùu pro vás provést prùzkum, pokud na to nemáte dost lidí.}
-{306}{}{Zapomeòte na to. Chci se ještì na nìco zeptat...}
-{307}{}{Tak na to zapomeòte. Sbohem.}
-{308}{}{Ne, na takovou práci potøebujete Pip-Boy a zrovna teï nemùu ádnı postrádat.}
-{309}{}{Já mám Pip-Boy. Je starı... a má svoje vrtochy... a všude z nìj èouhají dráty a tlaèítka... ale je funkèní.}
-{310}{}{No, tak dobøe. Chci se ještì na nìco zeptat...}
-{311}{}{Tak na to zapomeòte. Sbohem.}
-{312}{}{Jo? A má nainstalovanou mapu severní Kalifornie?}
-{313}{}{Ano. Tedy, alespoò to tak na tı zatracenı vìci vypadá.}
-{314}{}{Pak mám pro vás práci. Potøebuju nìkoho, kdo prozkoumá oblast kolem Gecka... to táboøištì ghoulù na severovıchodì. Projdìte osm sektorù na mapì svìta kolem mìsta a pak mi podejte hlášení.}
+{300}{}{HodnÄ› cestuju. MÅ¯Å¾u vÃ¡m s nÄ›ÄÃ­m pomoct?}
+{301}{}{To je mi lÃ­to. Chci se jeÅ¡tÄ› na nÄ›co zeptat...}
+{302}{}{Tak na to zapomeÅˆte. Sbohem.}
+{303}{}{PrÅ¯zkum.}
+{304}{}{Co tÃ­m myslÃ­Å¡?}
+{305}{}{MÅ¯Å¾u pro vÃ¡s provÃ©st prÅ¯zkum, pokud na to nemÃ¡te dost lidÃ­.}
+{306}{}{ZapomeÅˆte na to. Chci se jeÅ¡tÄ› na nÄ›co zeptat...}
+{307}{}{Tak na to zapomeÅˆte. Sbohem.}
+{308}{}{Ne, na takovou prÃ¡ci potÅ™ebujete Pip-Boy a zrovna teÄ nemÅ¯Å¾u Å¾Ã¡dnÃ½ postrÃ¡dat.}
+{309}{}{JÃ¡ mÃ¡m Pip-Boy. Je starÃ½... a mÃ¡ svoje vrtochy... a vÅ¡ude z nÄ›j ÄouhajÃ­ drÃ¡ty a tlaÄÃ­tka... ale je funkÄnÃ­.}
+{310}{}{No, tak dobÅ™e. Chci se jeÅ¡tÄ› na nÄ›co zeptat...}
+{311}{}{Tak na to zapomeÅˆte. Sbohem.}
+{312}{}{Jo? A mÃ¡ nainstalovanou mapu severnÃ­ Kalifornie?}
+{313}{}{Ano. Tedy, alespoÅˆ to tak na tÃ½ zatracenÃ½ vÄ›ci vypadÃ¡.}
+{314}{}{Pak mÃ¡m pro vÃ¡s prÃ¡ci. PotÅ™ebuju nÄ›koho, kdo prozkoumÃ¡ oblast kolem Gecka... to tÃ¡boÅ™iÅ¡tÄ› ghoulÅ¯ na severovÃ½chodÄ›. ProjdÄ›te osm sektorÅ¯ na mapÄ› svÄ›ta kolem mÄ›sta a pak mi podejte hlÃ¡Å¡enÃ­.}
 {315}{}{Jak to?}
-{316}{}{ádnı problém. U je ta oblast prozkoumaná.}
-{317}{}{Dobøe. Vrátím se, a tu oblast prozkoumám.}
-{318}{}{Kdy o tom tal pøemıšlím, radìji se mnou nepoèítejte. Sbohem.}
-{319}{}{Pokud budou nadále zneèisovat naši podzemní vodu, budeme moná muset zahájit vojenskou operaci.}
-{320}{}{Chci zjistit rozsah škod zpùsobenıch roztavením elektrárny.}
-{321}{}{Moná budeme nuceni proti nim zahájit vojenskou operaci, obzvláš pokud zaènou opìt zneèišovat naši podzemní vodu.}
-{322}{}{Tak chcete tu práci nebo ne?}
-{323}{}{Ano. Stejnì je ta oblast u prozkoumaná.}
-{324}{}{Tu práci beru. A to bude hotové, podám hlášení.}
-{325}{}{Tu práci beru. Nejdøív se chci ale na nìco zeptat...}
-{326}{}{Ne díky. Moná nìkdy jindy.}
-{327}{}{Opravdu? Hehe. No... tak dobøe.}
-{328}{}{Dobrá práce. Nahrajte informace do mého Pip-Boye a já je nahraju do policejního poèítaèe.}
-{329}{}{Tak dobøe...}
-{330}{}{Vaše hlášení vypadá dobøe. Dobrá práce. Tady máte odmìnu... tøi sta dolarù.}
-{331}{}{Skvìle... nemáte pro mì ještì nìjakou práci?}
-{332}{}{Skvìlé. Chci se ještì na nìco zeptat...}
-{333}{}{Díky. S tebou je radost obchodovat.}
-{334}{}{Jo, vlastnì... potøebuju nìkoho poslat do NCR. Poslední dobou dostávám hlášení, e moná zvyšují svoje vojenské stavy. A u je to pravda nebo ne, potøebuju nìkoho, kdo se vydá do NCR a pak mi podá hlášení.}
-{335}{}{ádnı problém. U je to hotové.}
-{336}{}{Jen cesta do NCR a pak se vrátit zpìt?}
-{337}{}{Zapomeòte na to. Chci se ještì na nìco zeptat...}
-{338}{}{Ne, díky. Sbohem.}
-{339}{}{Pøesnì to mi staèí. Zajímám se spíš o samotnou cestu ne o Republiku, ale i tak budu potøebovat, abyste vstoupil do mìsta, a tam dorazíte.}
-{340}{}{ádnı problém. U je to hotové.}
-{341}{}{Tu práci beru. A to bude hotové, podám hlášení.}
-{342}{}{Tu práci beru. Chci se ještì na nìco zeptat ne odejdu...}
-{343}{}{Ne dìkuju. Chci se ještì na nìco zeptat...}
-{344}{}{Myslím, e tu práci nechci. Moná nìkdy jindy.}
+{316}{}{Å½Ã¡dnÃ½ problÃ©m. UÅ¾ je ta oblast prozkoumanÃ¡.}
+{317}{}{DobÅ™e. VrÃ¡tÃ­m se, aÅ¾ tu oblast prozkoumÃ¡m.}
+{318}{}{KdyÅ¾ o tom tal pÅ™emÃ½Å¡lÃ­m, radÄ›ji se mnou nepoÄÃ­tejte. Sbohem.}
+{319}{}{Pokud budou nadÃ¡le zneÄisÅ¥ovat naÅ¡i podzemnÃ­ vodu, budeme moÅ¾nÃ¡ muset zahÃ¡jit vojenskou operaci.}
+{320}{}{Chci zjistit rozsah Å¡kod zpÅ¯sobenÃ½ch roztavenÃ­m elektrÃ¡rny.}
+{321}{}{MoÅ¾nÃ¡ budeme nuceni proti nim zahÃ¡jit vojenskou operaci, obzvlÃ¡Å¡Å¥ pokud zaÄnou opÄ›t zneÄiÅ¡Å¥ovat naÅ¡i podzemnÃ­ vodu.}
+{322}{}{Tak chcete tu prÃ¡ci nebo ne?}
+{323}{}{Ano. StejnÄ› je ta oblast uÅ¾ prozkoumanÃ¡.}
+{324}{}{Tu prÃ¡ci beru. AÅ¾ to bude hotovÃ©, podÃ¡m hlÃ¡Å¡enÃ­.}
+{325}{}{Tu prÃ¡ci beru. NejdÅ™Ã­v se chci ale na nÄ›co zeptat...}
+{326}{}{Ne dÃ­ky. MoÅ¾nÃ¡ nÄ›kdy jindy.}
+{327}{}{Opravdu? Hehe. No... tak dobÅ™e.}
+{328}{}{DobrÃ¡ prÃ¡ce. Nahrajte informace do mÃ©ho Pip-Boye a jÃ¡ je nahraju do policejnÃ­ho poÄÃ­taÄe.}
+{329}{}{Tak dobÅ™e...}
+{330}{}{VaÅ¡e hlÃ¡Å¡enÃ­ vypadÃ¡ dobÅ™e. DobrÃ¡ prÃ¡ce. Tady mÃ¡te odmÄ›nu... tÅ™i sta dolarÅ¯.}
+{331}{}{SkvÄ›le... nemÃ¡te pro mÄ› jeÅ¡tÄ› nÄ›jakou prÃ¡ci?}
+{332}{}{SkvÄ›lÃ©. Chci se jeÅ¡tÄ› na nÄ›co zeptat...}
+{333}{}{DÃ­ky. S tebou je radost obchodovat.}
+{334}{}{Jo, vlastnÄ›... potÅ™ebuju nÄ›koho poslat do NCR. PoslednÃ­ dobou dostÃ¡vÃ¡m hlÃ¡Å¡enÃ­, Å¾e moÅ¾nÃ¡ zvyÅ¡ujÃ­ svoje vojenskÃ© stavy. AÅ¥ uÅ¾ je to pravda nebo ne, potÅ™ebuju nÄ›koho, kdo se vydÃ¡ do NCR a pak mi podÃ¡ hlÃ¡Å¡enÃ­.}
+{335}{}{Å½Ã¡dnÃ½ problÃ©m. UÅ¾ je to hotovÃ©.}
+{336}{}{Jen cesta do NCR a pak se vrÃ¡tit zpÄ›t?}
+{337}{}{ZapomeÅˆte na to. Chci se jeÅ¡tÄ› na nÄ›co zeptat...}
+{338}{}{Ne, dÃ­ky. Sbohem.}
+{339}{}{PÅ™esnÄ› to mi staÄÃ­. ZajÃ­mÃ¡m se spÃ­Å¡ o samotnou cestu neÅ¾ o Republiku, ale i tak budu potÅ™ebovat, abyste vstoupil do mÄ›sta, aÅ¾ tam dorazÃ­te.}
+{340}{}{Å½Ã¡dnÃ½ problÃ©m. UÅ¾ je to hotovÃ©.}
+{341}{}{Tu prÃ¡ci beru. AÅ¾ to bude hotovÃ©, podÃ¡m hlÃ¡Å¡enÃ­.}
+{342}{}{Tu prÃ¡ci beru. Chci se jeÅ¡tÄ› na nÄ›co zeptat neÅ¾ odejdu...}
+{343}{}{Ne dÄ›kuju. Chci se jeÅ¡tÄ› na nÄ›co zeptat...}
+{344}{}{MyslÃ­m, Å¾e tu prÃ¡ci nechci. MoÅ¾nÃ¡ nÄ›kdy jindy.}
 {345}{}{Opravdu? Hehe.}
-{346}{}{Vıbornì. Nahrajte informace do mého Pip-Boye a já je nahraju do policejního poèítaèe.}
-{347}{}{Tak dobøe.}
-{348}{}{Vaše hlášení vypadá dobøe. Dobrá práce. Tady máte odmìnu... pìt set dolarù... a tady ještì nìco navíc. Mohlo by se vám to hodit.}
+{346}{}{VÃ½bornÄ›. Nahrajte informace do mÃ©ho Pip-Boye a jÃ¡ je nahraju do policejnÃ­ho poÄÃ­taÄe.}
+{347}{}{Tak dobÅ™e.}
+{348}{}{VaÅ¡e hlÃ¡Å¡enÃ­ vypadÃ¡ dobÅ™e. DobrÃ¡ prÃ¡ce. Tady mÃ¡te odmÄ›nu... pÄ›t set dolarÅ¯... a tady jeÅ¡tÄ› nÄ›co navÃ­c. Mohlo by se vÃ¡m to hodit.}
 {349}{}{Co to je?}
-{350}{}{Je to Vault-Tec detektor pohybu. Chtìli jsme ho rozebrat na souèástky, jeliko je pøíliš starı pro naše Pip-Boye, ale zdá se, e je s vaším modelem kompatibilní.}
+{350}{}{Je to Vault-Tec detektor pohybu. ChtÄ›li jsme ho rozebrat na souÄÃ¡stky, jelikoÅ¾ je pÅ™Ã­liÅ¡ starÃ½ pro naÅ¡e Pip-Boye, ale zdÃ¡ se, Å¾e je s vaÅ¡Ã­m modelem kompatibilnÃ­.}
 {351}{}{Jak to funguje?}
-{352}{}{Staèí ho dret v ruce a kdy ho zapnete, ukáe vám všechny nepøátele v blízkém okolí. Nebo si staèí vyvolat automapu v Pip-Boyi, cvaknout na tlaèítko "scanner" a nepøátelé se rozsvítí jako vánoèní stromeèek.}
-{353}{}{Díky, to se mùe hodit. Mùu se ještì na nìco zeptat?}
-{354}{}{Tisíceré díky. Jdu to vyzkoušet.}
-{355}{}{Dobrı den... Kapitáne. Potøebujete nìco?}
-{356}{}{Vítejte zpìt, Obèane. Mùu vám s nìèím pomoct?}
-{357}{}{U jste zase zpìt? Potøebujete nìco, nebo jen bloudíte?}
+{352}{}{StaÄÃ­ ho drÅ¾et v ruce a kdyÅ¾ ho zapnete, ukÃ¡Å¾e vÃ¡m vÅ¡echny nepÅ™Ã¡tele v blÃ­zkÃ©m okolÃ­. Nebo si staÄÃ­ vyvolat automapu v Pip-Boyi, cvaknout na tlaÄÃ­tko "scanner" a nepÅ™Ã¡telÃ© se rozsvÃ­tÃ­ jako vÃ¡noÄnÃ­ stromeÄek.}
+{353}{}{DÃ­ky, to se mÅ¯Å¾e hodit. MÅ¯Å¾u se jeÅ¡tÄ› na nÄ›co zeptat?}
+{354}{}{TisÃ­cerÃ© dÃ­ky. Jdu to vyzkouÅ¡et.}
+{355}{}{DobrÃ½ den... KapitÃ¡ne. PotÅ™ebujete nÄ›co?}
+{356}{}{VÃ­tejte zpÄ›t, ObÄane. MÅ¯Å¾u vÃ¡m s nÄ›ÄÃ­m pomoct?}
+{357}{}{UÅ¾ jste zase zpÄ›t? PotÅ™ebujete nÄ›co, nebo jen bloudÃ­te?}
 {358}{}{Na co... pane?}
-{359}{}{Ano, Obèane. Co chcete vìdìt?}
-{360}{}{Napøíklad?}
-{361}{}{Umbaj kví}
+{359}{}{Ano, ObÄane. Co chcete vÄ›dÄ›t?}
+{360}{}{NapÅ™Ã­klad?}
+{361}{}{Umbaj kvÃ­}
 {362}{}{Odbelhat se.}
-{363}{}{Máte nìjakı problém, serante?}
-{364}{}{Nejste vy náhodou ten, co rozmlátil Cassidymu bar?}
-{365}{}{Neslyšel jste o sluebníkovi jménem Joshua?}
-{366}{}{Co tady dìláš?}
-{367}{}{Mùete mi øíct, kde je Vault?}
-{368}{}{Podaøilo se mi prozkoumat oblast v okolí Gecka.}
-{369}{}{Máte pro mì ještì nìjakou práci?}
-{370}{}{Podaøilo se mi zmapovat cestu do NCR.}
-{371}{}{O tìch nájezdnících...}
+{363}{}{MÃ¡te nÄ›jakÃ½ problÃ©m, serÅ¾ante?}
+{364}{}{Nejste vy nÃ¡hodou ten, co rozmlÃ¡til Cassidymu bar?}
+{365}{}{NeslyÅ¡el jste o sluÅ¾ebnÃ­kovi jmÃ©nem Joshua?}
+{366}{}{Co tady dÄ›lÃ¡Å¡?}
+{367}{}{MÅ¯Å¾ete mi Å™Ã­ct, kde je Vault?}
+{368}{}{PodaÅ™ilo se mi prozkoumat oblast v okolÃ­ Gecka.}
+{369}{}{MÃ¡te pro mÄ› jeÅ¡tÄ› nÄ›jakou prÃ¡ci?}
+{370}{}{PodaÅ™ilo se mi zmapovat cestu do NCR.}
+{371}{}{O tÄ›ch nÃ¡jezdnÃ­cÃ­ch...}
 {372}{}{Tak nic. Nashle.}
-{373}{}{Dobrı den... madam.}
-{374}{}{Vault City vdy zvítìzí... madam.}
-{375}{}{Kapitáne, mùu vám pomoct... madam?}
-{376}{}{Serant Stark... madam. Potøebujete nìco?}
-{377}{}{Dìlám VAŠI práci, madam.}
-{378}{}{Vedu Nápravné zaøízení. A poslouchám vaše rozkazy, madam.}
-{379}{}{Povolení mluvit otevøenì, madam.}
-{380}{}{Svoji hodnost si NEZASLOUÍTE. iju ve Vault City celı svùj ivot. MOJI podøízení mi vìøí a respektují mì, vás nikoliv... madam.}
-{381}{}{Rozumím, madam.}
+{373}{}{DobrÃ½ den... madam.}
+{374}{}{Vault City vÅ¾dy zvÃ­tÄ›zÃ­... madam.}
+{375}{}{KapitÃ¡ne, mÅ¯Å¾u vÃ¡m pomoct... madam?}
+{376}{}{SerÅ¾ant Stark... madam. PotÅ™ebujete nÄ›co?}
+{377}{}{DÄ›lÃ¡m VAÅ I prÃ¡ci, madam.}
+{378}{}{Vedu NÃ¡pravnÃ© zaÅ™Ã­zenÃ­. A poslouchÃ¡m vaÅ¡e rozkazy, madam.}
+{379}{}{PovolenÃ­ mluvit otevÅ™enÄ›, madam.}
+{380}{}{Svoji hodnost si NEZASLOUÅ½ÃTE. Å½iju ve Vault City celÃ½ svÅ¯j Å¾ivot. MOJI podÅ™Ã­zenÃ­ mi vÄ›Å™Ã­ a respektujÃ­ mÄ›, vÃ¡s nikoliv... madam.}
+{381}{}{RozumÃ­m, madam.}
 {382}{}{Ano, madam. Organizoval jsem povolenou razii v podniku pana Cassidyho.}
-{383}{}{Ne, madam. Pan Cassidy nezaplatil licenèní poplatek k prodeji alkoholu za poslední mìsíc a pøitom ho stále prodával. Vıpis jeho plateb je zapsán v poèítaèi.}
+{383}{}{Ne, madam. Pan Cassidy nezaplatil licenÄnÃ­ poplatek k prodeji alkoholu za poslednÃ­ mÄ›sÃ­c a pÅ™itom ho stÃ¡le prodÃ¡val. VÃ½pis jeho plateb je zapsÃ¡n v poÄÃ­taÄi.}
 {384}{}{Ano... MADAM.}
 {385}{}{Hotovo, MADAM.}
-{386}{}{Pouil jsi svoji hodnost vùèi Starkovi, abys tak pomohl svému pøíteli Cassidymu.}
-{387}{}{Vault je hned za dveømi... madam.}
-{388}{}{Podaøilo se ti prozkoumat okolí Gecka pro Vault City.}
-{389}{}{Podaøilo se ti zmapovat cestu do NCR pro Vault City.}
+{386}{}{PouÅ¾il jsi svoji hodnost vÅ¯Äi Starkovi, abys tak pomohl svÃ©mu pÅ™Ã­teli Cassidymu.}
+{387}{}{Vault je hned za dveÅ™mi... madam.}
+{388}{}{PodaÅ™ilo se ti prozkoumat okolÃ­ Gecka pro Vault City.}
+{389}{}{PodaÅ™ilo se ti zmapovat cestu do NCR pro Vault City.}
 {390}{}{Na co... madam?}
-{391}{}{Jo, nìco pro vás mám... procházel jsem vısledky vašeho prùzkumu a našel jsem nedaleko malou vesnici plnou ehm... "krtèích potkanù", tak je venkovani nazıvají, e? Zajdìte tam a všechna monstra zlikvidujte.}
-{392}{}{Jen postøílet pár krys? Dobøe, jdu na to.}
-{393}{}{Proè?}
-{394}{}{Tak jak dopadl prùzkum NCR?}
-{395}{}{Promyslím si to. Mùu se vás na nìco zeptat?}
-{396}{}{Ne, takovouhle práci dìlat nebudu. Sbohem.}
-{397}{}{Vıbornì. Ukáu vám, kde ta vesnice pøesnì leí. (Stark ti vyznaèí místo na mapì ve tvém Pip-Boyi.) Zaplatím vám za to $750, take se pak vrate zpátky, a to bude hotové. A ještì jedna vìc... jestli to nevyøídíte do mìsíce, pošlu tam jednotku, která odstraní ty monstra... a jakoukoliv jinou hrozbu.}
+{391}{}{Jo, nÄ›co pro vÃ¡s mÃ¡m... prochÃ¡zel jsem vÃ½sledky vaÅ¡eho prÅ¯zkumu a naÅ¡el jsem nedaleko malou vesnici plnou ehm... "krtÄÃ­ch potkanÅ¯", tak je venkovani nazÃ½vajÃ­, Å¾e? ZajdÄ›te tam a vÅ¡echna monstra zlikvidujte.}
+{392}{}{Jen postÅ™Ã­let pÃ¡r krys? DobÅ™e, jdu na to.}
+{393}{}{ProÄ?}
+{394}{}{Tak jak dopadl prÅ¯zkum NCR?}
+{395}{}{PromyslÃ­m si to. MÅ¯Å¾u se vÃ¡s na nÄ›co zeptat?}
+{396}{}{Ne, takovouhle prÃ¡ci dÄ›lat nebudu. Sbohem.}
+{397}{}{VÃ½bornÄ›. UkÃ¡Å¾u vÃ¡m, kde ta vesnice pÅ™esnÄ› leÅ¾Ã­. (Stark ti vyznaÄÃ­ mÃ­sto na mapÄ› ve tvÃ©m Pip-Boyi.) ZaplatÃ­m vÃ¡m za to $750, takÅ¾e se pak vraÅ¥te zpÃ¡tky, aÅ¾ to bude hotovÃ©. A jeÅ¡tÄ› jedna vÄ›c... jestli to nevyÅ™Ã­dÃ­te do mÄ›sÃ­ce, poÅ¡lu tam jednotku, kterÃ¡ odstranÃ­ ty monstra... a jakoukoliv jinou hrozbu.}
 {398}{}{Nashle.}
-{399}{}{Proè? (Na chvíli váhá a poté se zamraèí.) Nemusím vám prozrazovat své dùvody. Já vydávám rozkazy a vy je plníte, tak u to chodí. Jestli tu práci nechcete, pošlu místo toho nìjakou jednotku... jene kdy dám muùm víc prostoru, tak se obèas nìco "zvrtne".}
-{400}{}{Chápu. Tu práci beru.}
-{401}{}{Je vyèištìná. Co je vlastnì s tou vesnicí?}
-{402}{}{Ohlednì té vesnice...}
-{403}{}{U jsou všechny ty velké hnusné krysy mrtvé? Opravdu?}
-{404}{}{Bylo mi øeèeno, e chcete z vesnièanù udìlat sluebníky, ale ty monstra vám pøekáely v uskuteènìní plánu, co je ten pravı dùvod, proè jste se jich chtìli zbavit.}
+{399}{}{ProÄ? (Na chvÃ­li vÃ¡hÃ¡ a potÃ© se zamraÄÃ­.) NemusÃ­m vÃ¡m prozrazovat svÃ© dÅ¯vody. JÃ¡ vydÃ¡vÃ¡m rozkazy a vy je plnÃ­te, tak uÅ¾ to chodÃ­. Jestli tu prÃ¡ci nechcete, poÅ¡lu mÃ­sto toho nÄ›jakou jednotku... jenÅ¾e kdyÅ¾ dÃ¡m muÅ¾Å¯m vÃ­c prostoru, tak se obÄas nÄ›co "zvrtne".}
+{400}{}{ChÃ¡pu. Tu prÃ¡ci beru.}
+{401}{}{Je vyÄiÅ¡tÄ›nÃ¡. Co je vlastnÄ› s tou vesnicÃ­?}
+{402}{}{OhlednÄ› tÃ© vesnice...}
+{403}{}{UÅ¾ jsou vÅ¡echny ty velkÃ© hnusnÃ© krysy mrtvÃ©? Opravdu?}
+{404}{}{Bylo mi Å™eÄeno, Å¾e chcete z vesniÄanÅ¯ udÄ›lat sluÅ¾ebnÃ­ky, ale ty monstra vÃ¡m pÅ™ekÃ¡Å¾ely v uskuteÄnÄ›nÃ­ plÃ¡nu, coÅ¾ je ten pravÃ½ dÅ¯vod, proÄ jste se jich chtÄ›li zbavit.}
 {405}{}{Ano.}
-{406}{}{Ještì ne.}
-{407}{}{Take vy o tom víte, jo? No, je to tak... ale je to jen pro jejich vlastní dobro. Tady jim dáme najíst a dobøe se o nì postaráme. Jsem si jistı, e si èasem uvìdomí, e je mnohem lepší slouit ve skvìlém Vault City, ne ít po kolena v krysích sraèkách v té svojí malé vesnici.}
-{408}{}{Oni jsou tam ale šastní.}
-{409}{}{Na tom nesejde. Dokonèíte tu práci nebo ne?}
-{410}{}{Dobøe. Dokonèím ji.}
-{411}{}{Ne, myslím, e ne.}
-{412}{}{Vıbornì, vrate se, a to bude hotové.}
-{413}{}{To je jedno. Stejnì budou ze všech sluebníci. Okamitì tam pošlu bojovou jednotku. Brzy z té jejich vesnice nic nezbyde.}
+{406}{}{JeÅ¡tÄ› ne.}
+{407}{}{TakÅ¾e vy o tom vÃ­te, jo? No, je to tak... ale je to jen pro jejich vlastnÃ­ dobro. Tady jim dÃ¡me najÃ­st a dobÅ™e se o nÄ› postarÃ¡me. Jsem si jistÃ½, Å¾e si Äasem uvÄ›domÃ­, Å¾e je mnohem lepÅ¡Ã­ slouÅ¾it ve skvÄ›lÃ©m Vault City, neÅ¾ Å¾Ã­t po kolena v krysÃ­ch sraÄkÃ¡ch v tÃ© svojÃ­ malÃ© vesnici.}
+{408}{}{Oni jsou tam ale Å¡Å¥astnÃ­.}
+{409}{}{Na tom nesejde. DokonÄÃ­te tu prÃ¡ci nebo ne?}
+{410}{}{DobÅ™e. DokonÄÃ­m ji.}
+{411}{}{Ne, myslÃ­m, Å¾e ne.}
+{412}{}{VÃ½bornÄ›, vraÅ¥te se, aÅ¾ to bude hotovÃ©.}
+{413}{}{To je jedno. StejnÄ› budou ze vÅ¡ech sluÅ¾ebnÃ­ci. OkamÅ¾itÄ› tam poÅ¡lu bojovou jednotku. Brzy z tÃ© jejich vesnice nic nezbyde.}
 {414}{}{[KONEC]}
-{415}{}{Tak se vrate, a to bude hotové.}
-{416}{}{Skvìlá práce, vojáku. Tady máte $750. Smìšná cena, kdy uváím, e jsme právì získali vesnici plnou novıch sluebníkù. Vault City je vám za tuto slubu velmi vdìèné.}
-{417}{}{Moment, neøíkal jste nic o tom, e chcete z tìch vesnièanù udìlat sluebníky.}
+{415}{}{Tak se vraÅ¥te, aÅ¾ to bude hotovÃ©.}
+{416}{}{SkvÄ›lÃ¡ prÃ¡ce, vojÃ¡ku. Tady mÃ¡te $750. SmÄ›Å¡nÃ¡ cena, kdyÅ¾ uvÃ¡Å¾Ã­m, Å¾e jsme prÃ¡vÄ› zÃ­skali vesnici plnou novÃ½ch sluÅ¾ebnÃ­kÅ¯. Vault City je vÃ¡m za tuto sluÅ¾bu velmi vdÄ›ÄnÃ©.}
+{417}{}{Moment, neÅ™Ã­kal jste nic o tom, Å¾e chcete z tÄ›ch vesniÄanÅ¯ udÄ›lat sluÅ¾ebnÃ­ky.}
 {418}{}{To je jedno. Sbohem.}
-{419}{}{Je to pro jejich vlastní dobro. A se z nich stanou sluebníci Vault City, nebudou se muset bát o své pøeití. Budou mít jídlo a dobrou péèi. Na oplátku budou pracovat pro dobro mìsta. Všichni se budou mít lépe.}
-{420}{}{Ale to je otroctví!}
-{421}{}{To není otroctví, ale oboustrannì prospìšná spolupráce neboli symbióza.}
-{422}{}{To je nechutné! Sbohem.}
-{423}{}{Ti idioti se snad museli zbláznit. Nìkde sehnali zbranì a zaèali po nás støílet! Take jsem si to rozmyslel. K èertu s nimi. Stejnì máme tìch otrokù celkem dost... chci øíct sluebníkù.}
-{424}{}{Kterou vesnici? Aha, tu, ze které máme naše nové sluebníky... co s ní?}
-{425}{}{Co jste to øekl!? Vy jste je všechny zotroèil?}
-{426}{}{Vím, kdo jim sehnal ty zbranì. Byl to obchodník na Pøedmìstí, Harry.}
-{427}{}{Tak Šastnı Harry, jo? ...já vìdìl, e to byl jeden z tìch hajzlù na Pøedmìstí. Dobøe, vyøídím si to s ním. Uvidíme, jestli bude potom ještì "šastnı". A co se tıèe vás, za odmìnu si mùete vzít cokoliv, co v jeho obchodì najdete.}
-{428}{}{Nevím proè, ale prokonzul McClure mi naøídil, abych s tou vesnicí chvíli poèkal. To platí i pro vás.}
-{429}{}{Hmm... dobøe.}
-{1215}{}{Podaøilo se mi pøesvìdèit jejich prùvodce, aby jim u nedìlal prùvodce. Bez nìj nikdy nenajdou cestu skrz hory.}
-{1224}{}{Opravdu? Take u nás nebudou ohroovat?}
-{1251}{}{Ve skuteènosti se mi je podaøilo u zastavit. Podaøilo se mi pøesvìdèit jejich prùvodce, aby je u nevedl. Bez nìj nikdy nenajdou cestu skrz hory.}
-{1422}{}{Souhlasím, takhle jim bude lépe. Sbohem.}
+{419}{}{Je to pro jejich vlastnÃ­ dobro. AÅ¾ se z nich stanou sluÅ¾ebnÃ­ci Vault City, nebudou se muset bÃ¡t o svÃ© pÅ™eÅ¾itÃ­. Budou mÃ­t jÃ­dlo a dobrou pÃ©Äi. Na oplÃ¡tku budou pracovat pro dobro mÄ›sta. VÅ¡ichni se budou mÃ­t lÃ©pe.}
+{420}{}{Ale to je otroctvÃ­!}
+{421}{}{To nenÃ­ otroctvÃ­, ale oboustrannÄ› prospÄ›Å¡nÃ¡ spoluprÃ¡ce neboli symbiÃ³za.}
+{422}{}{To je nechutnÃ©! Sbohem.}
+{423}{}{Ti idioti se snad museli zblÃ¡znit. NÄ›kde sehnali zbranÄ› a zaÄali po nÃ¡s stÅ™Ã­let! TakÅ¾e jsem si to rozmyslel. K Äertu s nimi. StejnÄ› mÃ¡me tÄ›ch otrokÅ¯ celkem dost... chci Å™Ã­ct sluÅ¾ebnÃ­kÅ¯.}
+{424}{}{Kterou vesnici? Aha, tu, ze kterÃ© mÃ¡me naÅ¡e novÃ© sluÅ¾ebnÃ­ky... co s nÃ­?}
+{425}{}{Co jste to Å™ekl!? Vy jste je vÅ¡echny zotroÄil?}
+{426}{}{VÃ­m, kdo jim sehnal ty zbranÄ›. Byl to obchodnÃ­k na PÅ™edmÄ›stÃ­, Harry.}
+{427}{}{Tak Å Å¥astnÃ½ Harry, jo? ...jÃ¡ vÄ›dÄ›l, Å¾e to byl jeden z tÄ›ch hajzlÅ¯ na PÅ™edmÄ›stÃ­. DobÅ™e, vyÅ™Ã­dÃ­m si to s nÃ­m. UvidÃ­me, jestli bude potom jeÅ¡tÄ› "Å¡Å¥astnÃ½". A co se tÃ½Äe vÃ¡s, za odmÄ›nu si mÅ¯Å¾ete vzÃ­t cokoliv, co v jeho obchodÄ› najdete.}
+{428}{}{NevÃ­m proÄ, ale prokonzul McClure mi naÅ™Ã­dil, abych s tou vesnicÃ­ chvÃ­li poÄkal. To platÃ­ i pro vÃ¡s.}
+{429}{}{Hmm... dobÅ™e.}
+{1215}{}{PodaÅ™ilo se mi pÅ™esvÄ›dÄit jejich prÅ¯vodce, aby jim uÅ¾ nedÄ›lal prÅ¯vodce. Bez nÄ›j nikdy nenajdou cestu skrz hory.}
+{1224}{}{Opravdu? TakÅ¾e uÅ¾ nÃ¡s nebudou ohroÅ¾ovat?}
+{1251}{}{Ve skuteÄnosti se mi je podaÅ™ilo uÅ¾ zastavit. PodaÅ™ilo se mi pÅ™esvÄ›dÄit jejich prÅ¯vodce, aby je uÅ¾ nevedl. Bez nÄ›j nikdy nenajdou cestu skrz hory.}
+{1422}{}{SouhlasÃ­m, takhle jim bude lÃ©pe. Sbohem.}

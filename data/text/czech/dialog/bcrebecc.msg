@@ -1,110 +1,110 @@
-{100}{}{Vidíš starší enu.}
-{101}{}{Vidíš Rebeccu.}
-{102}{}{Vidíš starší enu. I kdy vypadá, e mìla tìkı ivot, neubralo jí to ani trochu na jejím pøirozeném pùvabu.}
-{103}{}{Ahoj, já jsem Rebecca. Mùeme si promluvit nìkde v soukromí, prosím?}
-{104}{}{Mluvit o èem?}
-{105}{}{Proè ty potøebovat mluvit v soukromí?}
-{106}{}{Dobøe.}
-{107}{}{Ne. Já jít.}
-{108}{}{Promiò, ale nemám zájem.}
-{109}{}{O èem chceš se mnou mluvit?}
-{110}{}{Jistì. Kde si mùeme v klidu promluvit?}
-{111}{}{Proè je potøeba to soukromí?}
-{112}{}{(šeptá) Moje dcera se ztratila a já potøebuju pomoc. Tady o tom nemùu mluvit. Mùeme jít nìkam stranou?}
-{113}{}{Dobøe.}
-{114}{}{Proè ty potøebovat mluvit v soukromí?}
-{115}{}{Ne, já jít.}
-{116}{}{Dobøe, tak pojïme.}
-{117}{}{Proè je potøeba to soukromí?}
-{118}{}{Díky, ale ne. Nechci se do nièeho zaplést.}
-{119}{}{(šeptá) Moná si o mnì budeš myslet, e jsem blázen, ale mám takovı pocit, e mì poøád nìkdo sleduje. Je to znepokojující a jsem z toho nervózní.}
-{120}{}{Dobøe, my jít nìkam jinam.}
-{121}{}{Nemít èas pro nemocná hlava.}
-{122}{}{Dobøe. Kde si mùeme v klidu promluvit?}
-{123}{}{Promiò, ale tohle se mi nìjak nelíbí.}
-{124}{}{Díky. Mùeme jít do mého stanu.}
-{125}{}{Dobøe.}
-{126}{}{Tady snad mùeme nerušenì mluvit.}
-{127}{}{Dobøe, tak v èem je problém?}
-{128}{}{Vyvolenı mít nejdøív pár otázek.}
-{129}{}{Dobøe, tak co je ta veledùleitá vìc?}
-{130}{}{Nejdøív se chci na nìco zeptat.}
-{131}{}{Mám dceru, jmenuje se Chrissy. Je to trochu uliènice. Ráda se toulá, objevuje nové vìci a všude strká nos. Ale jinak je to hodné dítì, opravdu. Nejsou s ní problémy, vrací se domù vèas a chová se jako zodpovìdná dívka. Minulı tıden se ale Chrissy nevrátila domù. Vyptávala jsem se všude po okolí, ale nikdo ji nevidìl ani o ní neslyšel. Zkoušela jsem ji hledat sama, ale Zeke mì nenechal. On je tu... nìco jako náš vùdce. Øekl, e pro mì není bezpeèné, abych venku pátrala na vlastní pìst a e pošle nìkolik muù. Ale oni ji nenašli a navíc øíkají, e ji moná chytili otrokáøi.}
-{132}{}{Ne, nechtít se zaplést.}
-{133}{}{Potøebovat si to rozmyslet.}
-{134}{}{Dobøe, vyvolenı bıt tvùj hrdina.}
-{135}{}{Promiò, ale nemám zájem.}
-{136}{}{Musím si to rozmyslet.}
-{137}{}{Dobøe, Rebecco. Pokusím se ti pomoct.}
-{138}{}{A co z toho budu mít kdy ti pomùu?}
-{139}{}{Co chceš vìdìt?}
-{140}{}{Co tady dít?}
-{141}{}{Kdo šéf?}
-{142}{}{Vyvolenı hledat Vault 13. Vìdìt ty kde je?}
+{100}{}{VidÃ­Å¡ starÅ¡Ã­ Å¾enu.}
+{101}{}{VidÃ­Å¡ Rebeccu.}
+{102}{}{VidÃ­Å¡ starÅ¡Ã­ Å¾enu. I kdyÅ¾ vypadÃ¡, Å¾e mÄ›la tÄ›Å¾kÃ½ Å¾ivot, neubralo jÃ­ to ani trochu na jejÃ­m pÅ™irozenÃ©m pÅ¯vabu.}
+{103}{}{Ahoj, jÃ¡ jsem Rebecca. MÅ¯Å¾eme si promluvit nÄ›kde v soukromÃ­, prosÃ­m?}
+{104}{}{Mluvit o Äem?}
+{105}{}{ProÄ ty potÅ™ebovat mluvit v soukromÃ­?}
+{106}{}{DobÅ™e.}
+{107}{}{Ne. JÃ¡ jÃ­t.}
+{108}{}{PromiÅˆ, ale nemÃ¡m zÃ¡jem.}
+{109}{}{O Äem chceÅ¡ se mnou mluvit?}
+{110}{}{JistÄ›. Kde si mÅ¯Å¾eme v klidu promluvit?}
+{111}{}{ProÄ je potÅ™eba to soukromÃ­?}
+{112}{}{(Å¡eptÃ¡) Moje dcera se ztratila a jÃ¡ potÅ™ebuju pomoc. Tady o tom nemÅ¯Å¾u mluvit. MÅ¯Å¾eme jÃ­t nÄ›kam stranou?}
+{113}{}{DobÅ™e.}
+{114}{}{ProÄ ty potÅ™ebovat mluvit v soukromÃ­?}
+{115}{}{Ne, jÃ¡ jÃ­t.}
+{116}{}{DobÅ™e, tak pojÄme.}
+{117}{}{ProÄ je potÅ™eba to soukromÃ­?}
+{118}{}{DÃ­ky, ale ne. Nechci se do niÄeho zaplÃ©st.}
+{119}{}{(Å¡eptÃ¡) MoÅ¾nÃ¡ si o mnÄ› budeÅ¡ myslet, Å¾e jsem blÃ¡zen, ale mÃ¡m takovÃ½ pocit, Å¾e mÄ› poÅ™Ã¡d nÄ›kdo sleduje. Je to znepokojujÃ­cÃ­ a jsem z toho nervÃ³znÃ­.}
+{120}{}{DobÅ™e, my jÃ­t nÄ›kam jinam.}
+{121}{}{NemÃ­t Äas pro nemocnÃ¡ hlava.}
+{122}{}{DobÅ™e. Kde si mÅ¯Å¾eme v klidu promluvit?}
+{123}{}{PromiÅˆ, ale tohle se mi nÄ›jak nelÃ­bÃ­.}
+{124}{}{DÃ­ky. MÅ¯Å¾eme jÃ­t do mÃ©ho stanu.}
+{125}{}{DobÅ™e.}
+{126}{}{Tady snad mÅ¯Å¾eme neruÅ¡enÄ› mluvit.}
+{127}{}{DobÅ™e, tak v Äem je problÃ©m?}
+{128}{}{VyvolenÃ½ mÃ­t nejdÅ™Ã­v pÃ¡r otÃ¡zek.}
+{129}{}{DobÅ™e, tak co je ta veledÅ¯leÅ¾itÃ¡ vÄ›c?}
+{130}{}{NejdÅ™Ã­v se chci na nÄ›co zeptat.}
+{131}{}{MÃ¡m dceru, jmenuje se Chrissy. Je to trochu uliÄnice. RÃ¡da se toulÃ¡, objevuje novÃ© vÄ›ci a vÅ¡ude strkÃ¡ nos. Ale jinak je to hodnÃ© dÃ­tÄ›, opravdu. Nejsou s nÃ­ problÃ©my, vracÃ­ se domÅ¯ vÄas a chovÃ¡ se jako zodpovÄ›dnÃ¡ dÃ­vka. MinulÃ½ tÃ½den se ale Chrissy nevrÃ¡tila domÅ¯. VyptÃ¡vala jsem se vÅ¡ude po okolÃ­, ale nikdo ji nevidÄ›l ani o nÃ­ neslyÅ¡el. ZkouÅ¡ela jsem ji hledat sama, ale Zeke mÄ› nenechal. On je tu... nÄ›co jako nÃ¡Å¡ vÅ¯dce. Å˜ekl, Å¾e pro mÄ› nenÃ­ bezpeÄnÃ©, abych venku pÃ¡trala na vlastnÃ­ pÄ›st a Å¾e poÅ¡le nÄ›kolik muÅ¾Å¯. Ale oni ji nenaÅ¡li a navÃ­c Å™Ã­kajÃ­, Å¾e ji moÅ¾nÃ¡ chytili otrokÃ¡Å™i.}
+{132}{}{Ne, nechtÃ­t se zaplÃ©st.}
+{133}{}{PotÅ™ebovat si to rozmyslet.}
+{134}{}{DobÅ™e, vyvolenÃ½ bÃ½t tvÅ¯j hrdina.}
+{135}{}{PromiÅˆ, ale nemÃ¡m zÃ¡jem.}
+{136}{}{MusÃ­m si to rozmyslet.}
+{137}{}{DobÅ™e, Rebecco. PokusÃ­m se ti pomoct.}
+{138}{}{A co z toho budu mÃ­t kdyÅ¾ ti pomÅ¯Å¾u?}
+{139}{}{Co chceÅ¡ vÄ›dÄ›t?}
+{140}{}{Co tady dÃ­t?}
+{141}{}{Kdo Å¡Ã©f?}
+{142}{}{VyvolenÃ½ hledat Vault 13. VÄ›dÄ›t ty kde je?}
 {143}{}{Mluv o Vault.}
 {144}{}{Mluv o Darion.}
-{145}{}{Dík. My mluvit, ty mít problém?}
-{146}{}{Co se tady dìje?}
+{145}{}{DÃ­k. My mluvit, ty mÃ­t problÃ©m?}
+{146}{}{Co se tady dÄ›je?}
 {147}{}{Kdo to tady vede?}
-{148}{}{Hledám Vault 13. Nevíš o nìm nìco?}
-{149}{}{Povìz mi nìco o tom vaultu.}
+{148}{}{HledÃ¡m Vault 13. NevÃ­Å¡ o nÄ›m nÄ›co?}
+{149}{}{PovÄ›z mi nÄ›co o tom vaultu.}
 {150}{}{Povez mi o Darionovi.}
-{151}{}{Dìkuju ti, Rebecco. A teï si promluvme o tvém problému.}
-{152}{}{Øíkáme tomuhle místu 'Squat', protoe bylo osídleno bezdomovci z mnoha mìst. Není to nic moc, ale je to všechno, co máme. Na západ odsud leí mìsto, které se jmenuje NCR. Vìdí o nás u delší dobu, ale nikdy nám nenabídli ádnou pomoc. A teï si najednou nárokují tohle místo. Tvrdí, e je to jejich dávnı domov a chtìjí ho zpátky.}
-{153}{}{Dobøe.}
-{154}{}{Co tady oni chtít?}
+{151}{}{DÄ›kuju ti, Rebecco. A teÄ si promluvme o tvÃ©m problÃ©mu.}
+{152}{}{Å˜Ã­kÃ¡me tomuhle mÃ­stu 'Squat', protoÅ¾e bylo osÃ­dleno bezdomovci z mnoha mÄ›st. NenÃ­ to nic moc, ale je to vÅ¡echno, co mÃ¡me. Na zÃ¡pad odsud leÅ¾Ã­ mÄ›sto, kterÃ© se jmenuje NCR. VÄ›dÃ­ o nÃ¡s uÅ¾ delÅ¡Ã­ dobu, ale nikdy nÃ¡m nenabÃ­dli Å¾Ã¡dnou pomoc. A teÄ si najednou nÃ¡rokujÃ­ tohle mÃ­sto. TvrdÃ­, Å¾e je to jejich dÃ¡vnÃ½ domov a chtÄ›jÃ­ ho zpÃ¡tky.}
+{153}{}{DobÅ™e.}
+{154}{}{Co tady oni chtÃ­t?}
 {155}{}{Aha.}
-{156}{}{Co je tady tak dùleitého, e tohle místo chtìjí?}
-{157}{}{No... je tady starı vault. Myslím, e je to èíslo 15. Chtìjí ho vybílit a ukrást odtamtud všechny staré technologie, které tam stále ještì mùou bıt.}
-{158}{}{Aha. Já rozumìt.}
-{159}{}{Bylo mi hned jasné, e je za tím ještì nìco jiného ne jen pár hladovıch otrapù.}
-{160}{}{Chápu.}
-{161}{}{Tím se toho hodnì vysvìtluje. Moc jsi mi pomohla. Potøebuju se ještì zeptat na pár otázek.}
-{162}{}{To bude Zeke. On to tady všechno vede. Najdeš ho v támhleté budovì. ::ukazuje na severovıchod::}
-{163}{}{Dík. Mít další otázky.}
-{164}{}{Díky. Potøebuju se tì ještì na pár vìcí zeptat.}
-{165}{}{Promiò, ale nic mì nenapadá. Mùeš se na to zeptat v NCR. Poslední dobou projevují o tenhle vault velkı zájem.}
-{166}{}{Dobøe, já udìlat to.}
-{167}{}{Dobøe, jdu na to.}
-{168}{}{No... nemáme o tom sice s nikım mluvit, ale protoe potøebuju tvou pomoc... Darion opravuje Vault. On je náš dobrodinec. Jakmile bude Vault plnì funkèní, nastìhujeme se dovnitø a budeme koneènì v bezpeèí pøed nájezdníky a otrokáøi. Hned jakmile budou v poøádku systémy na vırobu jídla a vody.}
-{169}{}{Rozumìt. Chtít vìdìt víc.}
-{170}{}{Potøebuju ještì nìjaké informace.}
-{171}{}{Není moc o èem mluvit, opravdu. Darion nikdy neopouští Vault. Kdy nám chce nìco øíct, vzkáe to po Zekeovi. Potkala jsem ho jen jednou a vypadal jako hodnı chlapík.}
-{172}{}{Dobøe.}
-{173}{}{Hodní chlapi moc dlouho nepøeijí. A jak to, e on to tu vede?}
+{156}{}{Co je tady tak dÅ¯leÅ¾itÃ©ho, Å¾e tohle mÃ­sto chtÄ›jÃ­?}
+{157}{}{No... je tady starÃ½ vault. MyslÃ­m, Å¾e je to ÄÃ­slo 15. ChtÄ›jÃ­ ho vybÃ­lit a ukrÃ¡st odtamtud vÅ¡echny starÃ© technologie, kterÃ© tam stÃ¡le jeÅ¡tÄ› mÅ¯Å¾ou bÃ½t.}
+{158}{}{Aha. JÃ¡ rozumÄ›t.}
+{159}{}{Bylo mi hned jasnÃ©, Å¾e je za tÃ­m jeÅ¡tÄ› nÄ›co jinÃ©ho neÅ¾ jen pÃ¡r hladovÃ½ch otrapÅ¯.}
+{160}{}{ChÃ¡pu.}
+{161}{}{TÃ­m se toho hodnÄ› vysvÄ›tluje. Moc jsi mi pomohla. PotÅ™ebuju se jeÅ¡tÄ› zeptat na pÃ¡r otÃ¡zek.}
+{162}{}{To bude Zeke. On to tady vÅ¡echno vede. NajdeÅ¡ ho v tÃ¡mhletÃ© budovÄ›. ::ukazuje na severovÃ½chod::}
+{163}{}{DÃ­k. MÃ­t dalÅ¡Ã­ otÃ¡zky.}
+{164}{}{DÃ­ky. PotÅ™ebuju se tÄ› jeÅ¡tÄ› na pÃ¡r vÄ›cÃ­ zeptat.}
+{165}{}{PromiÅˆ, ale nic mÄ› nenapadÃ¡. MÅ¯Å¾eÅ¡ se na to zeptat v NCR. PoslednÃ­ dobou projevujÃ­ o tenhle vault velkÃ½ zÃ¡jem.}
+{166}{}{DobÅ™e, jÃ¡ udÄ›lat to.}
+{167}{}{DobÅ™e, jdu na to.}
+{168}{}{No... nemÃ¡me o tom sice s nikÃ½m mluvit, ale protoÅ¾e potÅ™ebuju tvou pomoc... Darion opravuje Vault. On je nÃ¡Å¡ dobrodinec. Jakmile bude Vault plnÄ› funkÄnÃ­, nastÄ›hujeme se dovnitÅ™ a budeme koneÄnÄ› v bezpeÄÃ­ pÅ™ed nÃ¡jezdnÃ­ky a otrokÃ¡Å™i. Hned jakmile budou v poÅ™Ã¡dku systÃ©my na vÃ½robu jÃ­dla a vody.}
+{169}{}{RozumÄ›t. ChtÃ­t vÄ›dÄ›t vÃ­c.}
+{170}{}{PotÅ™ebuju jeÅ¡tÄ› nÄ›jakÃ© informace.}
+{171}{}{NenÃ­ moc o Äem mluvit, opravdu. Darion nikdy neopouÅ¡tÃ­ Vault. KdyÅ¾ nÃ¡m chce nÄ›co Å™Ã­ct, vzkÃ¡Å¾e to po Zekeovi. Potkala jsem ho jen jednou a vypadal jako hodnÃ½ chlapÃ­k.}
+{172}{}{DobÅ™e.}
+{173}{}{HodnÃ­ chlapi moc dlouho nepÅ™eÅ¾ijÃ­. A jak to, Å¾e on to tu vede?}
 {174}{}{Aha.}
-{175}{}{Dobøe. Moc jsi mi pomohla.}
-{176}{}{Nemám nic, co bych ti dala. Jen svùj vdìk.}
-{177}{}{To je víc ne dost. Pomùu ti.}
-{178}{}{Na to, aby sis koupila moji pomoc, budeš potøebovat trochu víc.}
-{179}{}{Ale co, tak já ti pomùu.}
-{180}{}{Mnohokrát ti dìkuju. Nikdy ti za to nepøestanu bıt vdìèná. Poèkám tady, dokud ji nepøivedeš... hej, nìkdo nás venku odposlouchával! Vidìla jsem jeho stín na stìnì stanu. Teï utíká tamtudy! ::ukazuje na severo-vıchod:: Musel to všechno slyšet!}
-{181}{}{Já zùstat, ty nikam nejít!}
-{182}{}{Ty nebát se, Vyvolenı tvoji dceru najít.}
+{175}{}{DobÅ™e. Moc jsi mi pomohla.}
+{176}{}{NemÃ¡m nic, co bych ti dala. Jen svÅ¯j vdÄ›k.}
+{177}{}{To je vÃ­c neÅ¾ dost. PomÅ¯Å¾u ti.}
+{178}{}{Na to, aby sis koupila moji pomoc, budeÅ¡ potÅ™ebovat trochu vÃ­c.}
+{179}{}{Ale co, tak jÃ¡ ti pomÅ¯Å¾u.}
+{180}{}{MnohokrÃ¡t ti dÄ›kuju. Nikdy ti za to nepÅ™estanu bÃ½t vdÄ›ÄnÃ¡. PoÄkÃ¡m tady, dokud ji nepÅ™ivedeÅ¡... hej, nÄ›kdo nÃ¡s venku odposlouchÃ¡val! VidÄ›la jsem jeho stÃ­n na stÄ›nÄ› stanu. TeÄ utÃ­kÃ¡ tamtudy! ::ukazuje na severo-vÃ½chod:: Musel to vÅ¡echno slyÅ¡et!}
+{181}{}{JÃ¡ zÅ¯stat, ty nikam nejÃ­t!}
+{182}{}{Ty nebÃ¡t se, VyvolenÃ½ tvoji dceru najÃ­t.}
 {183}{}{Jejda.}
-{184}{}{Zkusím ho dohonit.}
-{185}{}{To mì neodradí. Já tvoji dceru najdu.}
-{186}{}{Co u. Nehody se stávají.}
-{187}{}{Prosím, odejdi.}
-{188}{}{U to máš promyšlené?}
-{189}{}{Já potøebovat nìco zeptat.}
-{190}{}{Ne, stále pøemıšlet.}
-{191}{}{Ne, stále to zvauju.}
-{192}{}{Chci se tì na pár vìcí zeptat.}
-{193}{}{Rozmyslel sis to? Pomùeš mi?}
+{184}{}{ZkusÃ­m ho dohonit.}
+{185}{}{To mÄ› neodradÃ­. JÃ¡ tvoji dceru najdu.}
+{186}{}{Co uÅ¾. Nehody se stÃ¡vajÃ­.}
+{187}{}{ProsÃ­m, odejdi.}
+{188}{}{UÅ¾ to mÃ¡Å¡ promyÅ¡lenÃ©?}
+{189}{}{JÃ¡ potÅ™ebovat nÄ›co zeptat.}
+{190}{}{Ne, stÃ¡le pÅ™emÃ½Å¡let.}
+{191}{}{Ne, stÃ¡le to zvaÅ¾uju.}
+{192}{}{Chci se tÄ› na pÃ¡r vÄ›cÃ­ zeptat.}
+{193}{}{Rozmyslel sis to? PomÅ¯Å¾eÅ¡ mi?}
 {194}{}{Prominout, ale ne.}
-{195}{}{Já pomoct.}
-{196}{}{Ano, pomùu ti.}
-{197}{}{Ty musíš bıt ten èlovìk, kterı zachránil moji dceru. Nikdy ti za to nepøestanu bıt vdìèná. Dìkuju ti. Prosím, poèkej chvíli, promluvím si s Chrissy a potom bych ráda mluvila s tebou.}
-{198}{}{Zachránil jsi moji dceru. Nikdy ti za to nepøestanu bıt vdìèná. Dìkuju ti. Prosím, poèkej chvíli, promluvím si s Chrissy a potom bych ráda mluvila s tebou.}
-{199}{}{Dobøe.}
-{200}{}{Moje dcera mi všechno øekla. Tìko uvìøit, e je Darion takové monstrum, po tom všem, co pro nás udìlal. A to pomyšlení, e jsme mu pomáhali krıt ty jeho loupee. Slibuji ti, e to tak nezùstane. Mluvila jsem se Zekem a ten mi øekl, e by tì chtìl vidìt. Zastav se za ním.}
-{201}{}{Tìko uvìøit, e Darion je takové monstrum, po tom všem, co pro nás udìlal. A to pomyšlení, e jsme mu pomáhali krıt ty jeho loupee. Slibuji ti, e to tak nezùstane. Promluvím si se Zekem a všechno mu vysvìtlím. Urèitì tì taky bude chtít vidìt. Zastav se za ním.}
-{202}{}{Díky.}
-{203}{}{Doufám, e Chrissy brzy najdeš.}
-{204}{}{Já hledat.}
-{205}{}{Pokraèuju v pátrání.}
-{206}{}{Díky za všechno, co jsi pro mì udìlal.}
-{207}{}{Nedokáu øíct proè, ale myslím, e ji otrokáøi neunesli. Mám takovı pocit, e je za tím nìco jiného. Ten pocit mám od té doby, co jsem o Chrissy mluvila se Zekem. Potøebuju nìkoho, kdo mi ji pomùe vypátrat. Pomùeš mi, prosím?}
-{208}{}{Poøád sem posílají lidi, kteøí nás pøesvìdèují, abychom odsud odešli. Ale oni nechápou, e my nemáme kam jinam jít. Nejsme natolik schopní, abychom pøeili nìkde jinde.}
-{209}{}{Víš, je docela legraèní, e ve Vaultu u prı opravili kdeco, ale ne svìtla. To zatracené místo je poøád ještì osvìtleno pochodnìmi. A Darion nechce, aby nìkdo vìdìl, co se tam dole dìje. Bojí se, e kdyby na to nìkdo pøišel, tak nám všechno seberou. A tak nám øekl, abychom se nebavili s nikım novım, kdo se tu objeví... hlavnì ne s nikım z NCR.}
+{195}{}{JÃ¡ pomoct.}
+{196}{}{Ano, pomÅ¯Å¾u ti.}
+{197}{}{Ty musÃ­Å¡ bÃ½t ten ÄlovÄ›k, kterÃ½ zachrÃ¡nil moji dceru. Nikdy ti za to nepÅ™estanu bÃ½t vdÄ›ÄnÃ¡. DÄ›kuju ti. ProsÃ­m, poÄkej chvÃ­li, promluvÃ­m si s Chrissy a potom bych rÃ¡da mluvila s tebou.}
+{198}{}{ZachrÃ¡nil jsi moji dceru. Nikdy ti za to nepÅ™estanu bÃ½t vdÄ›ÄnÃ¡. DÄ›kuju ti. ProsÃ­m, poÄkej chvÃ­li, promluvÃ­m si s Chrissy a potom bych rÃ¡da mluvila s tebou.}
+{199}{}{DobÅ™e.}
+{200}{}{Moje dcera mi vÅ¡echno Å™ekla. TÄ›Å¾ko uvÄ›Å™it, Å¾e je Darion takovÃ© monstrum, po tom vÅ¡em, co pro nÃ¡s udÄ›lal. A to pomyÅ¡lenÃ­, Å¾e jsme mu pomÃ¡hali krÃ½t ty jeho loupeÅ¾e. Slibuji ti, Å¾e to tak nezÅ¯stane. Mluvila jsem se Zekem a ten mi Å™ekl, Å¾e by tÄ› chtÄ›l vidÄ›t. Zastav se za nÃ­m.}
+{201}{}{TÄ›Å¾ko uvÄ›Å™it, Å¾e Darion je takovÃ© monstrum, po tom vÅ¡em, co pro nÃ¡s udÄ›lal. A to pomyÅ¡lenÃ­, Å¾e jsme mu pomÃ¡hali krÃ½t ty jeho loupeÅ¾e. Slibuji ti, Å¾e to tak nezÅ¯stane. PromluvÃ­m si se Zekem a vÅ¡echno mu vysvÄ›tlÃ­m. UrÄitÄ› tÄ› taky bude chtÃ­t vidÄ›t. Zastav se za nÃ­m.}
+{202}{}{DÃ­ky.}
+{203}{}{DoufÃ¡m, Å¾e Chrissy brzy najdeÅ¡.}
+{204}{}{JÃ¡ hledat.}
+{205}{}{PokraÄuju v pÃ¡trÃ¡nÃ­.}
+{206}{}{DÃ­ky za vÅ¡echno, co jsi pro mÄ› udÄ›lal.}
+{207}{}{NedokÃ¡Å¾u Å™Ã­ct proÄ, ale myslÃ­m, Å¾e ji otrokÃ¡Å™i neunesli. MÃ¡m takovÃ½ pocit, Å¾e je za tÃ­m nÄ›co jinÃ©ho. Ten pocit mÃ¡m od tÃ© doby, co jsem o Chrissy mluvila se Zekem. PotÅ™ebuju nÄ›koho, kdo mi ji pomÅ¯Å¾e vypÃ¡trat. PomÅ¯Å¾eÅ¡ mi, prosÃ­m?}
+{208}{}{PoÅ™Ã¡d sem posÃ­lajÃ­ lidi, kteÅ™Ã­ nÃ¡s pÅ™esvÄ›dÄujÃ­, abychom odsud odeÅ¡li. Ale oni nechÃ¡pou, Å¾e my nemÃ¡me kam jinam jÃ­t. Nejsme natolik schopnÃ­, abychom pÅ™eÅ¾ili nÄ›kde jinde.}
+{209}{}{VÃ­Å¡, je docela legraÄnÃ­, Å¾e ve Vaultu uÅ¾ prÃ½ opravili kdeco, ale ne svÄ›tla. To zatracenÃ© mÃ­sto je poÅ™Ã¡d jeÅ¡tÄ› osvÄ›tleno pochodnÄ›mi. A Darion nechce, aby nÄ›kdo vÄ›dÄ›l, co se tam dole dÄ›je. BojÃ­ se, Å¾e kdyby na to nÄ›kdo pÅ™iÅ¡el, tak nÃ¡m vÅ¡echno seberou. A tak nÃ¡m Å™ekl, abychom se nebavili s nikÃ½m novÃ½m, kdo se tu objevÃ­... hlavnÄ› ne s nikÃ½m z NCR.}

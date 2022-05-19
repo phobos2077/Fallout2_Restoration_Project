@@ -1,11 +1,11 @@
-{100}{}{Vidíš mue v umazaném obleèení, nejspíš mechanika.}
-{101}{}{Vidíš Ronda, majitele tohoto podniku.}
-{102}{}{Myslíš si, e je to mechanik, ale nosí u sebe zbraò, co je trochu zvláštní.}
-{103}{}{Vítej, Rangere. Doufám, e se ti daøí.}
-{104}{}{Jednou ty otrokáøe úplnì vyhladíme.}
-{105}{}{Musím jít zase nìkdy na lov otrokáøù.}
-{106}{}{Promiò, ale máme zavøeno.}
-{107}{}{Tohle je soukromı majetek. Odejdi prosím.}
-{108}{}{Momentálnì nepøijímám ádné další zakázky, jasnı?}
-{109}{}{Nezahrávej si s Rangery, bastarde.}
-{110}{}{Ještì jednou se dotkni mıch vìcí a já ti ukáu, zaè je toho loket.}
+{100}{}{VidÃ­Å¡ muÅ¾e v umazanÃ©m obleÄenÃ­, nejspÃ­Å¡ mechanika.}
+{101}{}{VidÃ­Å¡ Ronda, majitele tohoto podniku.}
+{102}{}{MyslÃ­Å¡ si, Å¾e je to mechanik, ale nosÃ­ u sebe zbraÅˆ, coÅ¾ je trochu zvlÃ¡Å¡tnÃ­.}
+{103}{}{VÃ­tej, Rangere. DoufÃ¡m, Å¾e se ti daÅ™Ã­.}
+{104}{}{Jednou ty otrokÃ¡Å™e ÃºplnÄ› vyhladÃ­me.}
+{105}{}{MusÃ­m jÃ­t zase nÄ›kdy na lov otrokÃ¡Å™Å¯.}
+{106}{}{PromiÅˆ, ale mÃ¡me zavÅ™eno.}
+{107}{}{Tohle je soukromÃ½ majetek. Odejdi prosÃ­m.}
+{108}{}{MomentÃ¡lnÄ› nepÅ™ijÃ­mÃ¡m Å¾Ã¡dnÃ© dalÅ¡Ã­ zakÃ¡zky, jasnÃ½?}
+{109}{}{NezahrÃ¡vej si s Rangery, bastarde.}
+{110}{}{JeÅ¡tÄ› jednou se dotkni mÃ½ch vÄ›cÃ­ a jÃ¡ ti ukÃ¡Å¾u, zaÄ je toho loket.}

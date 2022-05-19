@@ -1,84 +1,84 @@
-{100}{}{Vidíš velkého, primitivnì vypadajícího mue.}
-{101}{}{Tenhle mu vypadá docela silnì a ostraitì.}
-{110}{}{Vidíš štíhlou primitivní enu.}
-{111}{}{Zdá se bıt silná navzdory své postavì.}
-{120}{}{Vidíš zvláštnì vypadajícího mue.}
-{121}{}{Vypadá hroznì hubenì.}
-{130}{}{Vidíš bídnì vypadajícího mue.}
-{131}{}{Tenhle vypadá docela silnì.}
-{140}{}{Vidíš mue v otrhanıch šatech.}
+{100}{}{VidÃ­Å¡ velkÃ©ho, primitivnÄ› vypadajÃ­cÃ­ho muÅ¾e.}
+{101}{}{Tenhle muÅ¾ vypadÃ¡ docela silnÄ› a ostraÅ¾itÄ›.}
+{110}{}{VidÃ­Å¡ Å¡tÃ­hlou primitivnÃ­ Å¾enu.}
+{111}{}{ZdÃ¡ se bÃ½t silnÃ¡ navzdory svÃ© postavÄ›.}
+{120}{}{VidÃ­Å¡ zvlÃ¡Å¡tnÄ› vypadajÃ­cÃ­ho muÅ¾e.}
+{121}{}{VypadÃ¡ hroznÄ› hubenÄ›.}
+{130}{}{VidÃ­Å¡ bÃ­dnÄ› vypadajÃ­cÃ­ho muÅ¾e.}
+{131}{}{Tenhle vypadÃ¡ docela silnÄ›.}
+{140}{}{VidÃ­Å¡ muÅ¾e v otrhanÃ½ch Å¡atech.}
 {141}{}{He moves with suggesting speed.}
-{150}{}{Vidíš velmi špinavou enu.}
-{151}{}{Nevypadá to, e by se nìkdy koupala.}
-{160}{}{Vidíš velikou enu.}
-{161}{}{Vypadá jako silná bojovnice.}
-{170}{}{Vidíš vychrtlou enu.}
-{171}{}{Nevypadá to, e bude dìlat potíe.}
-{200}{}{Ty zemøít!}
-{201}{}{Kde ty bıt?}
-{202}{}{Já ty zranit.}
-{210}{}{Za tohle tì dostanu!}
-{211}{}{Zatracení otrokáøi!}
-{212}{}{Za to zaplatíš!}
-{220}{}{Nechat bıt!}
+{150}{}{VidÃ­Å¡ velmi Å¡pinavou Å¾enu.}
+{151}{}{NevypadÃ¡ to, Å¾e by se nÄ›kdy koupala.}
+{160}{}{VidÃ­Å¡ velikou Å¾enu.}
+{161}{}{VypadÃ¡ jako silnÃ¡ bojovnice.}
+{170}{}{VidÃ­Å¡ vychrtlou Å¾enu.}
+{171}{}{NevypadÃ¡ to, Å¾e bude dÄ›lat potÃ­Å¾e.}
+{200}{}{Ty zemÅ™Ã­t!}
+{201}{}{Kde ty bÃ½t?}
+{202}{}{JÃ¡ ty zranit.}
+{210}{}{Za tohle tÄ› dostanu!}
+{211}{}{ZatracenÃ­ otrokÃ¡Å™i!}
+{212}{}{Za to zaplatÃ­Å¡!}
+{220}{}{Nechat bÃ½t!}
 {221}{}{Nezranit!}
-{222}{}{Já nezranit tebe!}
-{223}{}{Já nebojovat!}
-{230}{}{Tohle tetování znám!}
-{231}{}{Ne, prosím!}
-{232}{}{Prosím, nezabíjejte mì!}
-{233}{}{Vzdávám se, nezabíjejte mì!}
-{234}{}{Prosím, já nechci zemøít!}
-{235}{}{Vy jste otrokáøi, e jo? Ach Boe.}
-{245}{}{Ticho! Oni blízko.}
-{246}{}{Zabít špatnı èlovìk.}
+{222}{}{JÃ¡ nezranit tebe!}
+{223}{}{JÃ¡ nebojovat!}
+{230}{}{Tohle tetovÃ¡nÃ­ znÃ¡m!}
+{231}{}{Ne, prosÃ­m!}
+{232}{}{ProsÃ­m, nezabÃ­jejte mÄ›!}
+{233}{}{VzdÃ¡vÃ¡m se, nezabÃ­jejte mÄ›!}
+{234}{}{ProsÃ­m, jÃ¡ nechci zemÅ™Ã­t!}
+{235}{}{Vy jste otrokÃ¡Å™i, Å¾e jo? Ach BoÅ¾e.}
+{245}{}{Ticho! Oni blÃ­zko.}
+{246}{}{ZabÃ­t Å¡patnÃ½ ÄlovÄ›k.}
 {247}{}{Nebrat moje rodina.}
-{248}{}{Já chránit rodina.}
-{249}{}{Nesmìt najít nás.}
-{250}{}{Oni špatnı lidé.}
-{260}{}{Pøicházejí otrokáøi. Všichni buïte zticha.}
-{261}{}{Pøipravte se. Myslím, e u jsou blízko.}
-{262}{}{Bez boje se nevzdám.}
-{263}{}{Nikdy nás nezotroèí.}
-{264}{}{Za to otrokáøi zaplatí.}
-{265}{}{ádnı otrokáø mi nevezme moji rodinu.}
-{270}{}{Oni nenajít já.}
+{248}{}{JÃ¡ chrÃ¡nit rodina.}
+{249}{}{NesmÄ›t najÃ­t nÃ¡s.}
+{250}{}{Oni Å¡patnÃ½ lidÃ©.}
+{260}{}{PÅ™ichÃ¡zejÃ­ otrokÃ¡Å™i. VÅ¡ichni buÄte zticha.}
+{261}{}{PÅ™ipravte se. MyslÃ­m, Å¾e uÅ¾ jsou blÃ­zko.}
+{262}{}{Bez boje se nevzdÃ¡m.}
+{263}{}{Nikdy nÃ¡s nezotroÄÃ­.}
+{264}{}{Za to otrokÃ¡Å™i zaplatÃ­.}
+{265}{}{Å½Ã¡dnÃ½ otrokÃ¡Å™ mi nevezme moji rodinu.}
+{270}{}{Oni nenajÃ­t jÃ¡.}
 {271}{}{Muset schovat. Muset schovat.}
-{272}{}{Proè oni chtít zranit.}
-{273}{}{Já bát.}
-{274}{}{Já nebojovat.}
-{275}{}{Já chtít ít.}
+{272}{}{ProÄ oni chtÃ­t zranit.}
+{273}{}{JÃ¡ bÃ¡t.}
+{274}{}{JÃ¡ nebojovat.}
+{275}{}{JÃ¡ chtÃ­t Å¾Ã­t.}
 {276}{}{Nezranit moje rodina.}
 {280}{}{A do prdele!}
-{281}{}{Proè to dìlají?}
-{282}{}{Co bude s mojí rodinou?}
-{283}{}{Nechci zemøít.}
-{284}{}{Nechci bıt otrok.}
-{285}{}{Zaslouím si nìco lepšího ne je tohle.}
-{290}{}{Teï chcípnout!}
-{291}{}{Já zabít!}
+{281}{}{ProÄ to dÄ›lajÃ­?}
+{282}{}{Co bude s mojÃ­ rodinou?}
+{283}{}{Nechci zemÅ™Ã­t.}
+{284}{}{Nechci bÃ½t otrok.}
+{285}{}{ZaslouÅ¾Ã­m si nÄ›co lepÅ¡Ã­ho neÅ¾ je tohle.}
+{290}{}{TeÄ chcÃ­pnout!}
+{291}{}{JÃ¡ zabÃ­t!}
 {292}{}{Ty nezranit rodina!}
-{293}{}{Ty nevzít rodina!}
-{294}{}{Já ochránit!}
-{295}{}{Zraním ty!}
+{293}{}{Ty nevzÃ­t rodina!}
+{294}{}{JÃ¡ ochrÃ¡nit!}
+{295}{}{ZranÃ­m ty!}
 {296}{}{Ty zaplatit!}
-{300}{}{Moji rodinu nedostaneš, otrokáøi!}
-{301}{}{Zhyò, otrokáøská špíno!}
-{302}{}{Za to zaplatíš, ty bastarde!}
-{303}{}{Za svoji rodinu budu bojovat do poslední kapky krve!}
+{300}{}{Moji rodinu nedostaneÅ¡, otrokÃ¡Å™i!}
+{301}{}{ZhyÅˆ, otrokÃ¡Å™skÃ¡ Å¡pÃ­no!}
+{302}{}{Za to zaplatÃ­Å¡, ty bastarde!}
+{303}{}{Za svoji rodinu budu bojovat do poslednÃ­ kapky krve!}
 {304}{}{Tohle ti neprojde!}
-{305}{}{Odtud se s mımi pøáteli nedostaneš!}
+{305}{}{Odtud se s mÃ½mi pÅ™Ã¡teli nedostaneÅ¡!}
 {310}{}{Ahhh!}
-{311}{}{Nezabít! Nezabít!}
-{312}{}{Pøestat!}
-{313}{}{Pomóóóóc!}
-{314}{}{Bìet!}
-{315}{}{Nedìlat to!}
-{320}{}{Zachraò se kdo mùeš!}
+{311}{}{NezabÃ­t! NezabÃ­t!}
+{312}{}{PÅ™estat!}
+{313}{}{PomÃ³Ã³Ã³Ã³c!}
+{314}{}{BÄ›Å¾et!}
+{315}{}{NedÄ›lat to!}
+{320}{}{ZachraÅˆ se kdo mÅ¯Å¾eÅ¡!}
 {321}{}{Nenechte se od nich chytit!}
-{322}{}{Otrokáøi! Utíkejte!}
-{323}{}{Pomozte nám nìkdo! Prosím!}
-{324}{}{Utíkej, Marty!}
+{322}{}{OtrokÃ¡Å™i! UtÃ­kejte!}
+{323}{}{Pomozte nÃ¡m nÄ›kdo! ProsÃ­m!}
+{324}{}{UtÃ­kej, Marty!}
 {325}{}{Ahhh!}
-{326}{}{Zastavte to šílenství!}
-{327}{}{Nic jsme neudìlali! Nechte nás na pokoji!}
+{326}{}{Zastavte to Å¡Ã­lenstvÃ­!}
+{327}{}{Nic jsme neudÄ›lali! Nechte nÃ¡s na pokoji!}

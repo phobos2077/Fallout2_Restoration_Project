@@ -1,70 +1,70 @@
-{100}{}{Vidíš malého muu s mohutnım knírem.}
-{101}{}{Vidíš Velkého Ananiase.}
-{102}{}{Vidíš malého kníratého mue, kterı se tváøí nenápadnì.}
-{103}{}{Vy! Co chcete udìlat bıvalému Velkému Ananiasovi?}
-{104}{}{Jdìte ode mì!}
-{105}{}{Jdìte nièit kšefty nìkomu jinému.}
-{106}{}{Zkoušejte to na nìkoho jiného.}
-{107}{}{U jste mi zpùsobil dost škod.}
-{108}{}{Jdìte pryè, u jste mi zpùsobil dost škod.}
-{109}{}{Mám hlad.}
-{110}{}{Jak teï uivím svoji rodinu?}
-{111}{}{Narodil jste se s pøíliš malım srdcem.}
-{112}{}{Ne, mùj pøíteli, MUMIE! Pøivezená pøímo ze starobylého Egypta a sem do pustin! Exkluzivnì pro vás!}
-{113}{}{Dobøe, zkusím to. Kolik mì ta vysušená mrtvola bude stát?}
-{114}{}{(Pro sebe.) Hmm, mumie je pøesnì to, co by odpovídalo popisu ghoula. Dobøe, podívám se na ni. Kolik?}
-{115}{}{U jsem vidìl dost mrtvol. Sbohem.}
-{116}{}{Zdravím, vítejte, buïte zdráv! Jsem Velkı Ananias (Lehce se ukloní a mávne rukou.) Pøináším záhady od blízkého i vzdáleného pøítele. Záhady ze svìta leícího za naším svìtem... záhady Podsvìtí.}
-{117}{}{Chcete poznat záhady Podsvìtí Velkého Ananiase?}
-{118}{}{Jaké záhady?}
-{119}{}{Eh, rád vás poznávám, pane Velkı Anál...nìco.}
-{120}{}{Hmm, ze záhad mám tìké spaní, radìji pùjdu. Sbohem.}
-{121}{}{Pøistupte blíe!}
-{127}{}{Dnes, pøímo v této místnosti, tu mám, exkluzivnì pro vás... nefalšovanou egyptskou mumii!}
+{100}{}{VidÃ­Å¡ malÃ©ho muÅ¾u s mohutnÃ½m knÃ­rem.}
+{101}{}{VidÃ­Å¡ VelkÃ©ho Ananiase.}
+{102}{}{VidÃ­Å¡ malÃ©ho knÃ­ratÃ©ho muÅ¾e, kterÃ½ se tvÃ¡Å™Ã­ nenÃ¡padnÄ›.}
+{103}{}{Vy! Co chcete udÄ›lat bÃ½valÃ©mu VelkÃ©mu Ananiasovi?}
+{104}{}{JdÄ›te ode mÄ›!}
+{105}{}{JdÄ›te niÄit kÅ¡efty nÄ›komu jinÃ©mu.}
+{106}{}{ZkouÅ¡ejte to na nÄ›koho jinÃ©ho.}
+{107}{}{UÅ¾ jste mi zpÅ¯sobil dost Å¡kod.}
+{108}{}{JdÄ›te pryÄ, uÅ¾ jste mi zpÅ¯sobil dost Å¡kod.}
+{109}{}{MÃ¡m hlad.}
+{110}{}{Jak teÄ uÅ¾ivÃ­m svoji rodinu?}
+{111}{}{Narodil jste se s pÅ™Ã­liÅ¡ malÃ½m srdcem.}
+{112}{}{Ne, mÅ¯j pÅ™Ã­teli, MUMIE! PÅ™ivezenÃ¡ pÅ™Ã­mo ze starobylÃ©ho Egypta aÅ¾ sem do pustin! ExkluzivnÄ› pro vÃ¡s!}
+{113}{}{DobÅ™e, zkusÃ­m to. Kolik mÄ› ta vysuÅ¡enÃ¡ mrtvola bude stÃ¡t?}
+{114}{}{(Pro sebe.) Hmm, mumie je pÅ™esnÄ› to, co by odpovÃ­dalo popisu ghoula. DobÅ™e, podÃ­vÃ¡m se na ni. Kolik?}
+{115}{}{UÅ¾ jsem vidÄ›l dost mrtvol. Sbohem.}
+{116}{}{ZdravÃ­m, vÃ­tejte, buÄte zdrÃ¡v! Jsem VelkÃ½ Ananias (Lehce se uklonÃ­ a mÃ¡vne rukou.) PÅ™inÃ¡Å¡Ã­m zÃ¡hady od blÃ­zkÃ©ho i vzdÃ¡lenÃ©ho pÅ™Ã­tele. ZÃ¡hady ze svÄ›ta leÅ¾Ã­cÃ­ho za naÅ¡Ã­m svÄ›tem... zÃ¡hady PodsvÄ›tÃ­.}
+{117}{}{Chcete poznat zÃ¡hady PodsvÄ›tÃ­ VelkÃ©ho Ananiase?}
+{118}{}{JakÃ© zÃ¡hady?}
+{119}{}{Eh, rÃ¡d vÃ¡s poznÃ¡vÃ¡m, pane VelkÃ½ AnÃ¡l...nÄ›co.}
+{120}{}{Hmm, ze zÃ¡had mÃ¡m tÄ›Å¾kÃ© spanÃ­, radÄ›ji pÅ¯jdu. Sbohem.}
+{121}{}{PÅ™istupte blÃ­Å¾e!}
+{127}{}{Dnes, pÅ™Ã­mo v tÃ©to mÃ­stnosti, tu mÃ¡m, exkluzivnÄ› pro vÃ¡s... nefalÅ¡ovanou egyptskou mumii!}
 {128}{}{Mumii?}
-{129}{}{Mumii? Hmm, zajímalo by mì, jestli to náhodou není... ne, nikdo pøece není tak hloupı.}
-{130}{}{Takové vìci mì nezajímají. Z mrtvol mi bìhá mráz po zádech.}
-{131}{}{Ustupte na stranu, blokujete platící zákazníky.}
-{132}{}{Myslím, e to pro vás není.}
-{133}{}{Co kdybyste odešel s tím svım malım kmenem nìkam jinam?}
-{134}{}{To opravdu není pro vás.}
-{135}{}{Aha, hmmm, co takhle JÍT (Ukáe prstem.) PRYÈ?}
-{136}{}{Èlovìku vaší úrovnì milerád ukáu tento unikátní a historickı vzorek za pouhıch $25.}
-{137}{}{Dobøe, tady jsou peníze. A teï... mi ukate tu mumii!}
-{138}{}{Nechci tolik utrácet. Myslím, e to pøeiju, kdy tu vìc neuvidím. Sbohem.}
-{139}{}{Jednoduše otevøte víko sarkofágu a pøed vámi se zjeví úasná mumie ve své starobylé slávì. Ale prosím, nedotıkejte se ji a, eh, nefote s bleskem.}
-{140}{}{Dobøe.}
-{141}{}{Pohleïte! MUMIE! (Dveøe sarkofágu se otevøou a odhalí vysušenou mrtvolu, která vypadá jako obyèejnı ghoul stojící v chudì zdobeném, otluèeném a popraskaném papírovém sarkofágu.)}
-{142}{}{Pohleïte! Pøedstavuji vám MUMII (Dveøe rakve se zaskøípáním otevøou a odkryjí nefalšovanou egyptskou mumii stojící v sarkofágu, kterı vypadá, e byl vyroben z èistého zlata!)}
-{143}{}{Hej, tak moment. Tohle není mumie. To je ghoul. WOODY! Hej WOODY! Jsi to ty?}
-{144}{}{Vypadá jako ghoul.}
-{145}{}{Tohle e je mumie? Nemùu uvìøit, e jsem zaplatil $25, abych vidìl šest stop vysokou hroudu sušeného masa. Sbohem.}
-{146}{}{Páni, to je úasné... asi. (Na chvíli se upøenì podíváš na Mumii.) Eh, díky, sbohem.}
-{147}{}{(Mumie funí, malátnì se protahuje a poté se na tebe ospale podívá.) Zdravím. (Øekne ospale.)}
-{148}{}{Do prdele! To *je* Woody! Utíkej Woody, utíkej! Dobrá, eh, tak kulhej! Bì, Woody, bì!}
-{149}{}{Ujišuju vás, e je tato mumie opravdu nefalšovaná.}
-{150}{}{Nevìøím vám. Poèkejte, nìco zkusím. WOODY! Hej WOODY! Jsi to ty?}
-{151}{}{No, kdy to øíkáte... ale já si opravdu myslím, e vypadá jako obyèejnı ghoul. Sbohem.}
-{152}{}{(Woody, protoe je to opravdu Woody a ne mumie, kdo tu teï omámenì stojí pøed tebou, protrhne stìny papírového sarkofágu, zajeèí, uteèe ke dveøím a zanechá po sobì jen spìšné "Díky moc, cizinèe!" a útrky toaletního papíru, kterımi byl omotanı.)}
-{153}{}{Ha! Já to vìdìl! V tomhle mìstì jste skonèil. U nejste ádnı Velkı Ananias, ale jen další kretén.}
-{154}{}{Bì, Woody, bì! Aha! Já to vìdìl!}
-{155}{}{(Velkı Ananias pokrèí rameny.) Já vìdìl, e jsem si mìl radìji vybrat tu jednohlavou brahmínu. Holt budu muset zaèít od zaèátku.}
-{156}{}{Jednohlavá brahmína? No jistì, tomu tak budu vìøit! Sbohem, šarlatáne.}
-{157}{}{Probudil jsi ghoula Woodyho a osvobodil jsi ho z nechtìné mumifikace.}
-{158}{}{Myslím, e si radìji vyslechnu tu historku o duchovi.}
-{200}{}{Vím o vìcech, které jsou obyèejnému smrtelníkovi zapovìzené. Ajííííí! Nyarloth... och, promiòte (hehe). Byl jsem chvíli myšlenkami nìkde jinde.
- Znám pøíbìhy o duchovi, kterı straší tyto konèiny, a také o nefalšované egyptské mumii,
- kterou mùete vidìt v tomto nádherném sarkofágu pøed sebou.}
-{201}{}{Vyprávìjte mi o té mumii. Umírám nedoèkavostí se o ní dozvìdìt nìco víc.}
-{202}{}{Musím slyšet tu historku o duchovi. Eh, dostanu k tomu šálek dobrého horkého kakaa?}
-{203}{}{Myslím, e tu nebudu ztrácet èas, a u se mi snaíte vnutit cokoliv.}
-{300}{}{Tak tedy, (ukáe, abys šel blí) kdysi ila mocná královna, která vládla celému království.
- Drela se na svém trùnì pomocí zvláštního amuletu, kterı stále nosila kolem svého krku. Zajímavé, e?}
-{301}{}{Eh, ano. To si pište. Take ta princezna mìla *magickı* amulet. Prosím, pokraèujte. U mì dál nenapínejte (zív).}
-{302}{}{Myslím, e u to nebudu poslouchat. Sbohem.}
-{400}{}{No, tak já to zkrátím. Zlı kouzelník otrávil mladou princeznu a vzal jí amulet. Od té doby
- bloudí po vedlejší místnosti. No, eh, o pùlnoci. Proto nechávám dveøe zamknuté.
- Pìknì strašidelné, e?}
-{401}{}{Duch princezny bez amuletu ve vedlejší zaneøádìné místnosti? To je všechno? Nemùu uvìøit, e *tohle* vydáváte za pøíbìh.
- Radìji mi povìzte o té pitomé mumii, kterou tu údajnì máte.}
-{402}{}{Myslím, e u to nebudu poslouchat. Sbohem.}
+{129}{}{Mumii? Hmm, zajÃ­malo by mÄ›, jestli to nÃ¡hodou nenÃ­... ne, nikdo pÅ™ece nenÃ­ tak hloupÃ½.}
+{130}{}{TakovÃ© vÄ›ci mÄ› nezajÃ­majÃ­. Z mrtvol mi bÄ›hÃ¡ mrÃ¡z po zÃ¡dech.}
+{131}{}{Ustupte na stranu, blokujete platÃ­cÃ­ zÃ¡kaznÃ­ky.}
+{132}{}{MyslÃ­m, Å¾e to pro vÃ¡s nenÃ­.}
+{133}{}{Co kdybyste odeÅ¡el s tÃ­m svÃ½m malÃ½m kmenem nÄ›kam jinam?}
+{134}{}{To opravdu nenÃ­ pro vÃ¡s.}
+{135}{}{Aha, hmmm, co takhle JÃT (UkÃ¡Å¾e prstem.) PRYÄŒ?}
+{136}{}{ÄŒlovÄ›ku vaÅ¡Ã­ ÃºrovnÄ› milerÃ¡d ukÃ¡Å¾u tento unikÃ¡tnÃ­ a historickÃ½ vzorek za pouhÃ½ch $25.}
+{137}{}{DobÅ™e, tady jsou penÃ­ze. A teÄ... mi ukaÅ¾te tu mumii!}
+{138}{}{Nechci tolik utrÃ¡cet. MyslÃ­m, Å¾e to pÅ™eÅ¾iju, kdyÅ¾ tu vÄ›c neuvidÃ­m. Sbohem.}
+{139}{}{JednoduÅ¡e otevÅ™te vÃ­ko sarkofÃ¡gu a pÅ™ed vÃ¡mi se zjevÃ­ ÃºÅ¾asnÃ¡ mumie ve svÃ© starobylÃ© slÃ¡vÄ›. Ale prosÃ­m, nedotÃ½kejte se ji a, eh, nefoÅ¥te s bleskem.}
+{140}{}{DobÅ™e.}
+{141}{}{PohleÄte! MUMIE! (DveÅ™e sarkofÃ¡gu se otevÅ™ou a odhalÃ­ vysuÅ¡enou mrtvolu, kterÃ¡ vypadÃ¡ jako obyÄejnÃ½ ghoul stojÃ­cÃ­ v chudÄ› zdobenÃ©m, otluÄenÃ©m a popraskanÃ©m papÃ­rovÃ©m sarkofÃ¡gu.)}
+{142}{}{PohleÄte! PÅ™edstavuji vÃ¡m MUMII (DveÅ™e rakve se zaskÅ™Ã­pÃ¡nÃ­m otevÅ™ou a odkryjÃ­ nefalÅ¡ovanou egyptskou mumii stojÃ­cÃ­ v sarkofÃ¡gu, kterÃ½ vypadÃ¡, Å¾e byl vyroben z ÄistÃ©ho zlata!)}
+{143}{}{Hej, tak moment. Tohle nenÃ­ mumie. To je ghoul. WOODY! Hej WOODY! Jsi to ty?}
+{144}{}{VypadÃ¡ jako ghoul.}
+{145}{}{Tohle Å¾e je mumie? NemÅ¯Å¾u uvÄ›Å™it, Å¾e jsem zaplatil $25, abych vidÄ›l Å¡est stop vysokou hroudu suÅ¡enÃ©ho masa. Sbohem.}
+{146}{}{PÃ¡ni, to je ÃºÅ¾asnÃ©... asi. (Na chvÃ­li se upÅ™enÄ› podÃ­vÃ¡Å¡ na Mumii.) Eh, dÃ­ky, sbohem.}
+{147}{}{(Mumie funÃ­, malÃ¡tnÄ› se protahuje a potÃ© se na tebe ospale podÃ­vÃ¡.) ZdravÃ­m. (Å˜ekne ospale.)}
+{148}{}{Do prdele! To *je* Woody! UtÃ­kej Woody, utÃ­kej! DobrÃ¡, eh, tak kulhej! BÄ›Å¾, Woody, bÄ›Å¾!}
+{149}{}{UjiÅ¡Å¥uju vÃ¡s, Å¾e je tato mumie opravdu nefalÅ¡ovanÃ¡.}
+{150}{}{NevÄ›Å™Ã­m vÃ¡m. PoÄkejte, nÄ›co zkusÃ­m. WOODY! Hej WOODY! Jsi to ty?}
+{151}{}{No, kdyÅ¾ to Å™Ã­kÃ¡te... ale jÃ¡ si opravdu myslÃ­m, Å¾e vypadÃ¡ jako obyÄejnÃ½ ghoul. Sbohem.}
+{152}{}{(Woody, protoÅ¾e je to opravdu Woody a ne mumie, kdo tu teÄ omÃ¡menÄ› stojÃ­ pÅ™ed tebou, protrhne stÄ›ny papÃ­rovÃ©ho sarkofÃ¡gu, zajeÄÃ­, uteÄe ke dveÅ™Ã­m a zanechÃ¡ po sobÄ› jen spÄ›Å¡nÃ© "DÃ­ky moc, cizinÄe!" a ÃºtrÅ¾ky toaletnÃ­ho papÃ­ru, kterÃ½mi byl omotanÃ½.)}
+{153}{}{Ha! JÃ¡ to vÄ›dÄ›l! V tomhle mÄ›stÄ› jste skonÄil. UÅ¾ nejste Å¾Ã¡dnÃ½ VelkÃ½ Ananias, ale jen dalÅ¡Ã­ kretÃ©n.}
+{154}{}{BÄ›Å¾, Woody, bÄ›Å¾! Aha! JÃ¡ to vÄ›dÄ›l!}
+{155}{}{(VelkÃ½ Ananias pokrÄÃ­ rameny.) JÃ¡ vÄ›dÄ›l, Å¾e jsem si mÄ›l radÄ›ji vybrat tu jednohlavou brahmÃ­nu. Holt budu muset zaÄÃ­t od zaÄÃ¡tku.}
+{156}{}{JednohlavÃ¡ brahmÃ­na? No jistÄ›, tomu tak budu vÄ›Å™it! Sbohem, Å¡arlatÃ¡ne.}
+{157}{}{Probudil jsi ghoula Woodyho a osvobodil jsi ho z nechtÄ›nÃ© mumifikace.}
+{158}{}{MyslÃ­m, Å¾e si radÄ›ji vyslechnu tu historku o duchovi.}
+{200}{}{VÃ­m o vÄ›cech, kterÃ© jsou obyÄejnÃ©mu smrtelnÃ­kovi zapovÄ›zenÃ©. AjÃ­Ã­Ã­Ã­Ã­! Nyarloth... och, promiÅˆte (hehe). Byl jsem chvÃ­li myÅ¡lenkami nÄ›kde jinde.
+ ZnÃ¡m pÅ™Ã­bÄ›hy o duchovi, kterÃ½ straÅ¡Ã­ tyto konÄiny, a takÃ© o nefalÅ¡ovanÃ© egyptskÃ© mumii,
+ kterou mÅ¯Å¾ete vidÄ›t v tomto nÃ¡dhernÃ©m sarkofÃ¡gu pÅ™ed sebou.}
+{201}{}{VyprÃ¡vÄ›jte mi o tÃ© mumii. UmÃ­rÃ¡m nedoÄkavostÃ­ se o nÃ­ dozvÄ›dÄ›t nÄ›co vÃ­c.}
+{202}{}{MusÃ­m slyÅ¡et tu historku o duchovi. Eh, dostanu k tomu Å¡Ã¡lek dobrÃ©ho horkÃ©ho kakaa?}
+{203}{}{MyslÃ­m, Å¾e tu nebudu ztrÃ¡cet Äas, aÅ¥ uÅ¾ se mi snaÅ¾Ã­te vnutit cokoliv.}
+{300}{}{Tak tedy, (ukÃ¡Å¾e, abys Å¡el blÃ­Å¾) kdysi Å¾ila mocnÃ¡ krÃ¡lovna, kterÃ¡ vlÃ¡dla celÃ©mu krÃ¡lovstvÃ­.
+ DrÅ¾ela se na svÃ©m trÅ¯nÄ› pomocÃ­ zvlÃ¡Å¡tnÃ­ho amuletu, kterÃ½ stÃ¡le nosila kolem svÃ©ho krku. ZajÃ­mavÃ©, Å¾e?}
+{301}{}{Eh, ano. To si piÅ¡te. TakÅ¾e ta princezna mÄ›la *magickÃ½* amulet. ProsÃ­m, pokraÄujte. UÅ¾ mÄ› dÃ¡l nenapÃ­nejte (zÃ­v).}
+{302}{}{MyslÃ­m, Å¾e uÅ¾ to nebudu poslouchat. Sbohem.}
+{400}{}{No, tak jÃ¡ to zkrÃ¡tÃ­m. ZlÃ½ kouzelnÃ­k otrÃ¡vil mladou princeznu a vzal jÃ­ amulet. Od tÃ© doby
+ bloudÃ­ po vedlejÅ¡Ã­ mÃ­stnosti. No, eh, o pÅ¯lnoci. Proto nechÃ¡vÃ¡m dveÅ™e zamknutÃ©.
+ PÄ›knÄ› straÅ¡idelnÃ©, Å¾e?}
+{401}{}{Duch princezny bez amuletu ve vedlejÅ¡Ã­ zaneÅ™Ã¡dÄ›nÃ© mÃ­stnosti? To je vÅ¡echno? NemÅ¯Å¾u uvÄ›Å™it, Å¾e *tohle* vydÃ¡vÃ¡te za pÅ™Ã­bÄ›h.
+ RadÄ›ji mi povÄ›zte o tÃ© pitomÃ© mumii, kterou tu ÃºdajnÄ› mÃ¡te.}
+{402}{}{MyslÃ­m, Å¾e uÅ¾ to nebudu poslouchat. Sbohem.}

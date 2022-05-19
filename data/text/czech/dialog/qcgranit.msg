@@ -1,64 +1,64 @@
-{100}{}{Vidíš vojáka v energo zbroji Enklávy.}
-{101}{}{Vidíš seranta Granita.}
-{102}{}{Vidíš vojáka se serantskımi vılokami na ramenou.}
-{103}{}{Jdem zabít toho blázna.}
-{104}{}{Jo, puste mì na nìj!}
-{105}{}{Nabít a pøipravit zbranì, jdeme na to!}
+{100}{}{VidÃ­Å¡ vojÃ¡ka v energo zbroji EnklÃ¡vy.}
+{101}{}{VidÃ­Å¡ serÅ¾anta Granita.}
+{102}{}{VidÃ­Å¡ vojÃ¡ka se serÅ¾antskÃ½mi vÃ½loÅ¾kami na ramenou.}
+{103}{}{Jdem zabÃ­t toho blÃ¡zna.}
+{104}{}{Jo, pusÅ¥te mÄ› na nÄ›j!}
+{105}{}{NabÃ­t a pÅ™ipravit zbranÄ›, jdeme na to!}
 {106}{}{Jdeme na to.}
-{107}{}{Odprásknem to monstrum!}
-{108}{}{Uškvaøíme ho.}
-{109}{}{Mùeme jít.}
+{107}{}{OdprÃ¡sknem to monstrum!}
+{108}{}{UÅ¡kvaÅ™Ã­me ho.}
+{109}{}{MÅ¯Å¾eme jÃ­t.}
 {110}{}{Jdeme na to!}
-{111}{}{Já toho parchanta oddìlám!}
-{112}{}{Idioty nezabíjím.}
-{113}{}{Mùeš jít.}
-{114}{}{Nic jsem nevidìl.}
-{115}{}{Tohle nejsou ti droidi, kterı hledáme.}
-{116}{}{Táhni odsud.}
-{117}{}{U mì to zabíjení unavuje.}
+{111}{}{JÃ¡ toho parchanta oddÄ›lÃ¡m!}
+{112}{}{Idioty nezabÃ­jÃ­m.}
+{113}{}{MÅ¯Å¾eÅ¡ jÃ­t.}
+{114}{}{Nic jsem nevidÄ›l.}
+{115}{}{Tohle nejsou ti droidi, kterÃ½ hledÃ¡me.}
+{116}{}{TÃ¡hni odsud.}
+{117}{}{UÅ¾ mÄ› to zabÃ­jenÃ­ unavuje.}
 {118}{}{No tak, jdem!}
-{119}{}{Buïte v klidu, chlapi.}
-{120}{}{Dávej na sebe pozor, mutante.}
-{121}{}{Hodnì štìstí, mutante. Budeš ho potøebovat.}
-{122}{}{Stùj! Co tady dìláš?}
-{123}{}{Snaím se dostat ke svım lidem.}
-{124}{}{Do toho ti nic není.}
-{125}{}{Nemám èas na tvoje otázky.}
-{126}{}{Kdo vlastnì jsi?}
-{127}{}{No, víš, zrovna tudy prošel agent Horrigan. Èeká na ty, co odsud chtìjí zdrhnout.}
+{119}{}{BuÄte v klidu, chlapi.}
+{120}{}{DÃ¡vej na sebe pozor, mutante.}
+{121}{}{HodnÄ› Å¡tÄ›stÃ­, mutante. BudeÅ¡ ho potÅ™ebovat.}
+{122}{}{StÅ¯j! Co tady dÄ›lÃ¡Å¡?}
+{123}{}{SnaÅ¾Ã­m se dostat ke svÃ½m lidem.}
+{124}{}{Do toho ti nic nenÃ­.}
+{125}{}{NemÃ¡m Äas na tvoje otÃ¡zky.}
+{126}{}{Kdo vlastnÄ› jsi?}
+{127}{}{No, vÃ­Å¡, zrovna tudy proÅ¡el agent Horrigan. ÄŒekÃ¡ na ty, co odsud chtÄ›jÃ­ zdrhnout.}
 {128}{}{Kdo je to?}
-{129}{}{Myslím, e se mılíš. Tady je všechno moje vìc. A teï mi sakra øekni, co tady dìláš.}
-{130}{}{Snaím se dostat zpìt na svoji loï a chci odtud se svımi lidmi uprchnout.}
-{131}{}{No tak si ho udìlej.}
-{132}{}{Proè? Co tím myslíš?}
-{133}{}{Øíkám, e nemám èas, ale na tvoji mrtvolu si ho najdu.}
-{134}{}{Jak chceš, ale pak si nestìuj, e jsme tì nevarovali.}
-{135}{}{Nevarovali? Pøed èím?}
-{136}{}{Jasnì, varoval jsi mì. Je èas zemøít, ty enklávskı bastarde.}
-{137}{}{Je to nìjaké geneticky vytvoøené monstrum. Kdysi to bıval prezidentùv bodyguard. Agent tajné sluby Frank Horrigan. Teï u je z nìj spíš stroj ne èlovìk.}
-{138}{}{To vypadá jako dost špatná zpráva.}
-{139}{}{U se mi podaøilo zabít horší, ne je on. Za chvíli po nìm zùstane jenom další skvrna na podlaze.}
-{140}{}{Ó, u se celı tøesu. A teï dr hubu. }
-{141}{}{To teda jo. A moná horší, ne si myslíš. Vytøe si s tebou zadek. Je tvrdı, rychlı a nemá slitování. Vidìl jsem, co rád dìlá mutantùm a moc pìknì to teda nevypadalo.}
-{142}{}{Já nejsem mutant a... eh, co s nimi dìlal?}
-{143}{}{Nerad o tom mluvím, mám z toho noèní mùry. Øeknìme jen, e to èervené na zdech není ve skuteènosti *rez*.}
-{144}{}{To vypadá, e se pøes nìj jen tak lehce nedostanu.}
-{145}{}{Tak tomu øíkám myšlenka roku. Fakt tì lituju, pøíteli, opravdu.}
-{146}{}{Lituješ mì? Mìl bys radìji litovat sám sebe. Hlavní poèítaè reaktoru je na kaši a kadou chvíli se rozteèe. Všichni jste u prakticky mrtví, pokud...}
-{147}{}{Nepotøebuju tvoji lítost. Potøebuju jen, abys zemøel.}
-{148}{}{Mám ještì nìco na práci. V kadém pøípadì jste všichni prakticky mrtví. Zkuste si ještì tìch posledních pár minut na této zemi uít. Dejte si tøeba cígo. Sbohem.}
+{129}{}{MyslÃ­m, Å¾e se mÃ½lÃ­Å¡. Tady je vÅ¡echno moje vÄ›c. A teÄ mi sakra Å™ekni, co tady dÄ›lÃ¡Å¡.}
+{130}{}{SnaÅ¾Ã­m se dostat zpÄ›t na svoji loÄ a chci odtud se svÃ½mi lidmi uprchnout.}
+{131}{}{No tak si ho udÄ›lej.}
+{132}{}{ProÄ? Co tÃ­m myslÃ­Å¡?}
+{133}{}{Å˜Ã­kÃ¡m, Å¾e nemÃ¡m Äas, ale na tvoji mrtvolu si ho najdu.}
+{134}{}{Jak chceÅ¡, ale pak si nestÄ›Å¾uj, Å¾e jsme tÄ› nevarovali.}
+{135}{}{Nevarovali? PÅ™ed ÄÃ­m?}
+{136}{}{JasnÄ›, varoval jsi mÄ›. Je Äas zemÅ™Ã­t, ty enklÃ¡vskÃ½ bastarde.}
+{137}{}{Je to nÄ›jakÃ© geneticky vytvoÅ™enÃ© monstrum. Kdysi to bÃ½val prezidentÅ¯v bodyguard. Agent tajnÃ© sluÅ¾by Frank Horrigan. TeÄ uÅ¾ je z nÄ›j spÃ­Å¡ stroj neÅ¾ ÄlovÄ›k.}
+{138}{}{To vypadÃ¡ jako dost Å¡patnÃ¡ zprÃ¡va.}
+{139}{}{UÅ¾ se mi podaÅ™ilo zabÃ­t horÅ¡Ã­, neÅ¾ je on. Za chvÃ­li po nÄ›m zÅ¯stane jenom dalÅ¡Ã­ skvrna na podlaze.}
+{140}{}{Ã“, uÅ¾ se celÃ½ tÅ™esu. A teÄ drÅ¾ hubu. }
+{141}{}{To teda jo. A moÅ¾nÃ¡ horÅ¡Ã­, neÅ¾ si myslÃ­Å¡. VytÅ™e si s tebou zadek. Je tvrdÃ½, rychlÃ½ a nemÃ¡ slitovÃ¡nÃ­. VidÄ›l jsem, co rÃ¡d dÄ›lÃ¡ mutantÅ¯m a moc pÄ›knÄ› to teda nevypadalo.}
+{142}{}{JÃ¡ nejsem mutant a... eh, co s nimi dÄ›lal?}
+{143}{}{Nerad o tom mluvÃ­m, mÃ¡m z toho noÄnÃ­ mÅ¯ry. Å˜eknÄ›me jen, Å¾e to ÄervenÃ© na zdech nenÃ­ ve skuteÄnosti *rez*.}
+{144}{}{To vypadÃ¡, Å¾e se pÅ™es nÄ›j jen tak lehce nedostanu.}
+{145}{}{Tak tomu Å™Ã­kÃ¡m myÅ¡lenka roku. Fakt tÄ› lituju, pÅ™Ã­teli, opravdu.}
+{146}{}{LitujeÅ¡ mÄ›? MÄ›l bys radÄ›ji litovat sÃ¡m sebe. HlavnÃ­ poÄÃ­taÄ reaktoru je na kaÅ¡i a kaÅ¾dou chvÃ­li se rozteÄe. VÅ¡ichni jste uÅ¾ prakticky mrtvÃ­, pokud...}
+{147}{}{NepotÅ™ebuju tvoji lÃ­tost. PotÅ™ebuju jen, abys zemÅ™el.}
+{148}{}{MÃ¡m jeÅ¡tÄ› nÄ›co na prÃ¡ci. V kaÅ¾dÃ©m pÅ™Ã­padÄ› jste vÅ¡ichni prakticky mrtvÃ­. Zkuste si jeÅ¡tÄ› tÄ›ch poslednÃ­ch pÃ¡r minut na tÃ©to zemi uÅ¾Ã­t. Dejte si tÅ™eba cÃ­go. Sbohem.}
 {149}{}{Pokud co?!?}
-{150}{}{Pokud mi nepomùete dostat se pøes Horrigana na moji loï.}
-{151}{}{Ale nic, nemám èas se o tom bavit. Sbohem.}
-{152}{}{No jasnì, dobrej vtip. Jestli je reaktor znièenı, tak jak je moné, e poøád svítí svìtla? Co, chytráku? Hehe, pøíštì zkus pøijít s nìjakou lepší historkou.}
-{153}{}{To jsou jen *nouzová* svìtla. Podívej, byl jsem v místnosti s centrálním poèítaèem a øíkám ti, e není jen rozbitı, ale je úplnì *fuè*. Øíkám ti, e tu všichni zemøete, pokud...}
-{154}{}{Nemám èas se s tebou o tom hádat. Doufám, e umíte dobøe plavat. Sbohem.}
-{155}{}{Pøestaò mi tu povídat pohádky. Jsou k smíchu. Víš, myslím, e proti Horriganovi moná vydríš i dıl ne jen minutu. Byl by to novı rekord. Hodnì štìstí, mutante.}
-{156}{}{Páni, ty jsi ale šlechetnı. Nejdøív se ale budu muset na nìkom trochu zahøát. Tøeba na tobì a tvojí jednotce.}
-{157}{}{Doufej, e ta tvoje zbroj ve vodì nadnáší. Sbohem.}
-{158}{}{Dobøe, dobøe. Nemùu mluvit za všechny, ale já a moje jednotka udìláme maximum, abysme ti pomohli odprásknout to monstrum Horrigana. Nechci se utopit jako nìjaká krysa.}
-{159}{}{No vidíš, e ti to pálí. Pojïme na nìj. Musíme odsud rychle vypadnout.}
-{160}{}{Serant Granit z jednotky EB.}
+{150}{}{Pokud mi nepomÅ¯Å¾ete dostat se pÅ™es Horrigana na moji loÄ.}
+{151}{}{Ale nic, nemÃ¡m Äas se o tom bavit. Sbohem.}
+{152}{}{No jasnÄ›, dobrej vtip. Jestli je reaktor zniÄenÃ½, tak jak je moÅ¾nÃ©, Å¾e poÅ™Ã¡d svÃ­tÃ­ svÄ›tla? Co, chytrÃ¡ku? Hehe, pÅ™Ã­Å¡tÄ› zkus pÅ™ijÃ­t s nÄ›jakou lepÅ¡Ã­ historkou.}
+{153}{}{To jsou jen *nouzovÃ¡* svÄ›tla. PodÃ­vej, byl jsem v mÃ­stnosti s centrÃ¡lnÃ­m poÄÃ­taÄem a Å™Ã­kÃ¡m ti, Å¾e nenÃ­ jen rozbitÃ½, ale je ÃºplnÄ› *fuÄ*. Å˜Ã­kÃ¡m ti, Å¾e tu vÅ¡ichni zemÅ™ete, pokud...}
+{154}{}{NemÃ¡m Äas se s tebou o tom hÃ¡dat. DoufÃ¡m, Å¾e umÃ­te dobÅ™e plavat. Sbohem.}
+{155}{}{PÅ™estaÅˆ mi tu povÃ­dat pohÃ¡dky. Jsou k smÃ­chu. VÃ­Å¡, myslÃ­m, Å¾e proti Horriganovi moÅ¾nÃ¡ vydrÅ¾Ã­Å¡ i dÃ½l neÅ¾ jen minutu. Byl by to novÃ½ rekord. HodnÄ› Å¡tÄ›stÃ­, mutante.}
+{156}{}{PÃ¡ni, ty jsi ale Å¡lechetnÃ½. NejdÅ™Ã­v se ale budu muset na nÄ›kom trochu zahÅ™Ã¡t. TÅ™eba na tobÄ› a tvojÃ­ jednotce.}
+{157}{}{Doufej, Å¾e ta tvoje zbroj ve vodÄ› nadnÃ¡Å¡Ã­. Sbohem.}
+{158}{}{DobÅ™e, dobÅ™e. NemÅ¯Å¾u mluvit za vÅ¡echny, ale jÃ¡ a moje jednotka udÄ›lÃ¡me maximum, abysme ti pomohli odprÃ¡sknout to monstrum Horrigana. Nechci se utopit jako nÄ›jakÃ¡ krysa.}
+{159}{}{No vidÃ­Å¡, Å¾e ti to pÃ¡lÃ­. PojÄme na nÄ›j. MusÃ­me odsud rychle vypadnout.}
+{160}{}{SerÅ¾ant Granit z jednotky EB.}
 {161}{}{Z jednotky EB?}
-{162}{}{Jednotky Enklávské Bezpeènosti. Máme na starost vnìjší obranu... *vìtšinou*.}
-{163}{}{Jo, aha. A co myslíš tím *vìtšinou*?}
+{162}{}{Jednotky EnklÃ¡vskÃ© BezpeÄnosti. MÃ¡me na starost vnÄ›jÅ¡Ã­ obranu... *vÄ›tÅ¡inou*.}
+{163}{}{Jo, aha. A co myslÃ­Å¡ tÃ­m *vÄ›tÅ¡inou*?}

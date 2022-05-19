@@ -1,10 +1,10 @@
-{100}{}{Vidíš bednu.}
-{101}{}{Vypadá to, e je bedna plná Stimpakù.}
-{102}{}{Vidíš bednu plnou nepouitelnıch, falešnıch Stimpakù.}
-{200}{}{(Po podrobnìjším prozkoumání krabice zjišuješ, e je uvnitø okolo padesáti Stimpakù, pøesnì jak øíkal obchodník.)}
-{201}{}{[Prozkoumat je podrobnìji]}
+{100}{}{VidÃ­Å¡ bednu.}
+{101}{}{VypadÃ¡ to, Å¾e je bedna plnÃ¡ StimpakÅ¯.}
+{102}{}{VidÃ­Å¡ bednu plnou nepouÅ¾itelnÃ½ch, faleÅ¡nÃ½ch StimpakÅ¯.}
+{200}{}{(Po podrobnÄ›jÅ¡Ã­m prozkoumÃ¡nÃ­ krabice zjiÅ¡Å¥ujeÅ¡, Å¾e je uvnitÅ™ okolo padesÃ¡ti StimpakÅ¯, pÅ™esnÄ› jak Å™Ã­kal obchodnÃ­k.)}
+{201}{}{[Prozkoumat je podrobnÄ›ji]}
 {202}{}{[KONEC]}
-{203}{}{Podrobnìji zkoumáš Stimpaky a nevidíš na nich nic zvláštního.}
+{203}{}{PodrobnÄ›ji zkoumÃ¡Å¡ Stimpaky a nevidÃ­Å¡ na nich nic zvlÃ¡Å¡tnÃ­ho.}
 {204}{}{[KONEC]}
-{205}{}{Po bliším prozkoumání ti ty Stimpaky pøipadají trochu podezøelé. Vezmeš si jeden do ruky a trochu tekutiny si støíkneš na dlaò. Oèicháním rudé tekutiny zjišuješ, co to ve skuteènosti je: brahmíní krev.}
+{205}{}{Po bliÅ¾Å¡Ã­m prozkoumÃ¡nÃ­ ti ty Stimpaky pÅ™ipadajÃ­ trochu podezÅ™elÃ©. VezmeÅ¡ si jeden do ruky a trochu tekutiny si stÅ™Ã­kneÅ¡ na dlaÅˆ. OÄichÃ¡nÃ­m rudÃ© tekutiny zjiÅ¡Å¥ujeÅ¡, co to ve skuteÄnosti je: brahmÃ­nÃ­ krev.}
 {206}{}{[KONEC]}

@@ -1,86 +1,86 @@
-{100}{}{Vidíš správce karavany.}
-{101}{}{Vidíš pana Barona, správce této karavany.}
-{200}{}{Zdravím, cestovateli. Moje jméno je Robert Baron. Jsem správce téhle karavany. Chceš obchodovat?}
-{201}{}{Jasnì. Uka, co máš.}
-{202}{}{Vlastnì chci s tebou mluvit jménem jedné nedaleké vesnice.}
-{203}{}{Ne. U musím jít.}
-{204}{}{Robert Baron, jo? Nepøemıšlel jsi nìkdy o tom, e by sis øíkal spíš Bobby Baron? Má to vìtší švih, nemyslíš?}
-{210}{}{Tak se mi zdá, e tì tvoje máma párkrát švihla nìèím tupım a tìkım po hlavì. Ale k vìci. Chceš obchodovat nebo ne? Jsem zaneprázdnìnı èlovìk.}
-{220}{}{Dobøe. Ještì nìco?}
-{221}{}{Vlastnì chci s tebou mluvit jménem jedné nedaleké vesnice.}
-{222}{}{Ne. U musím jít.}
-{230}{}{(Svraští oboèí.) Nedaleké vesnice? Nejsem si jistı, o èem to... aha! Ty myslíš tu krysama zamoøenou díru?}
-{231}{}{Eh, moná.}
+{100}{}{VidÃ­Å¡ sprÃ¡vce karavany.}
+{101}{}{VidÃ­Å¡ pana Barona, sprÃ¡vce tÃ©to karavany.}
+{200}{}{ZdravÃ­m, cestovateli. Moje jmÃ©no je Robert Baron. Jsem sprÃ¡vce tÃ©hle karavany. ChceÅ¡ obchodovat?}
+{201}{}{JasnÄ›. UkaÅ¾, co mÃ¡Å¡.}
+{202}{}{VlastnÄ› chci s tebou mluvit jmÃ©nem jednÃ© nedalekÃ© vesnice.}
+{203}{}{Ne. UÅ¾ musÃ­m jÃ­t.}
+{204}{}{Robert Baron, jo? NepÅ™emÃ½Å¡lel jsi nÄ›kdy o tom, Å¾e by sis Å™Ã­kal spÃ­Å¡ Bobby Baron? MÃ¡ to vÄ›tÅ¡Ã­ Å¡vih, nemyslÃ­Å¡?}
+{210}{}{Tak se mi zdÃ¡, Å¾e tÄ› tvoje mÃ¡ma pÃ¡rkrÃ¡t Å¡vihla nÄ›ÄÃ­m tupÃ½m a tÄ›Å¾kÃ½m po hlavÄ›. Ale k vÄ›ci. ChceÅ¡ obchodovat nebo ne? Jsem zaneprÃ¡zdnÄ›nÃ½ ÄlovÄ›k.}
+{220}{}{DobÅ™e. JeÅ¡tÄ› nÄ›co?}
+{221}{}{VlastnÄ› chci s tebou mluvit jmÃ©nem jednÃ© nedalekÃ© vesnice.}
+{222}{}{Ne. UÅ¾ musÃ­m jÃ­t.}
+{230}{}{(SvraÅ¡tÃ­ oboÄÃ­.) NedalekÃ© vesnice? Nejsem si jistÃ½, o Äem to... aha! Ty myslÃ­Å¡ tu krysama zamoÅ™enou dÃ­ru?}
+{231}{}{Eh, moÅ¾nÃ¡.}
 {232}{}{Jo, jsem.}
-{233}{}{Neni to ádná díra. Ta komunita bojuje o pøeití a dosahuje skuteèného pokroku.}
-{240}{}{Podívej, u jsem se s nima setkal a øeknu ti to samé co jim. Ta vesnice je pøíliš malá na to, abych se s nimi obtìoval. A navíc to tam smrdí jak brahmíní prdel.}
-{241}{}{Dobøe, zkusil jsem to. Nashle.}
-{242}{}{Ale no tak, není to zase tak daleko od tvojí trasy. V podstatì projídíš kolem.}
-{243}{}{Zmìnilo by "nìco" tvùj názor?}
-{250}{}{Ještì nìco? Jestli nechceš obchodovat, tak pøestaò kurva plıtvat mım drahocennım èasem.}
-{251}{}{Pojïme obchodovat.}
-{252}{}{Promiò, u pùjdu.}
-{253}{}{Myslim, e radìji *vyplıtvám* tvùj drahocennı ivot, kreténe.}
-{254}{}{Zmìnilo by "nìco" tvùj názor ohlednì obchodování s tou vesnicí?}
-{260}{}{No a co? I kdyby to trvalo jenom "minutu", stejnì by se mi to nevyplatilo.}
-{261}{}{Tak dobøe. Vidím, e s tebou nehnu. Nashle.}
-{262}{}{Zmìnilo by "nìco" tvùj názor?}
-{263}{}{Tak to je velká škoda, protoe kadı chytrı obchodník by po takové pøíleitosti skoèil. Ale co, jestli nemáš zájem, pùjdu jinam...}
-{270}{}{Poèkej, zadr. Neøekl jsem, e nemám zájem. O jakı pøíleitosti to mluvíš?}
-{271}{}{Víš, ta vesnice teï není pøíliš zajímavá, ale mám informaci ze spolehlivého zdroje, e to místo bude jednou zlatı dùl. Vìø mi, to místo se v následujících letech rapidnì rozroste. Take bıt tebou, snaím se udìlat si tam rychle kontakty, ne budou pøíliš velcí a ty tak propásneš svoji šanci.}
-{280}{}{Hahaha! Ty si myslíš, e uvìøím tomu, e se ta špinavá díra promìní v nìco, co by mohlo mít nìjakou cenu? Myslim, e tímhle jsem s tebou skonèil.}
-{281}{}{Tak dobøe. Vidím, e s tebou nehnu. Nashle.}
-{282}{}{Zmìnilo by "nìco" tvùj názor?}
-{290}{}{Nedìláš si srandu, e ne? Hmm, myslím, e bych si mohl sem tam udìlat malou zajíïku. Sakra, vdy to ani není moc daleko od mojí trasy. Díky za radu, pøíteli.}
-{291}{}{Rádo se stalo. Mìj se.}
+{233}{}{Neni to Å¾Ã¡dnÃ¡ dÃ­ra. Ta komunita bojuje o pÅ™eÅ¾itÃ­ a dosahuje skuteÄnÃ©ho pokroku.}
+{240}{}{PodÃ­vej, uÅ¾ jsem se s nima setkal a Å™eknu ti to samÃ© co jim. Ta vesnice je pÅ™Ã­liÅ¡ malÃ¡ na to, abych se s nimi obtÄ›Å¾oval. A navÃ­c to tam smrdÃ­ jak brahmÃ­nÃ­ prdel.}
+{241}{}{DobÅ™e, zkusil jsem to. Nashle.}
+{242}{}{Ale no tak, nenÃ­ to zase tak daleko od tvojÃ­ trasy. V podstatÄ› projÃ­Å¾dÃ­Å¡ kolem.}
+{243}{}{ZmÄ›nilo by "nÄ›co" tvÅ¯j nÃ¡zor?}
+{250}{}{JeÅ¡tÄ› nÄ›co? Jestli nechceÅ¡ obchodovat, tak pÅ™estaÅˆ kurva plÃ½tvat mÃ½m drahocennÃ½m Äasem.}
+{251}{}{PojÄme obchodovat.}
+{252}{}{PromiÅˆ, uÅ¾ pÅ¯jdu.}
+{253}{}{Myslim, Å¾e radÄ›ji *vyplÃ½tvÃ¡m* tvÅ¯j drahocennÃ½ Å¾ivot, kretÃ©ne.}
+{254}{}{ZmÄ›nilo by "nÄ›co" tvÅ¯j nÃ¡zor ohlednÄ› obchodovÃ¡nÃ­ s tou vesnicÃ­?}
+{260}{}{No a co? I kdyby to trvalo jenom "minutu", stejnÄ› by se mi to nevyplatilo.}
+{261}{}{Tak dobÅ™e. VidÃ­m, Å¾e s tebou nehnu. Nashle.}
+{262}{}{ZmÄ›nilo by "nÄ›co" tvÅ¯j nÃ¡zor?}
+{263}{}{Tak to je velkÃ¡ Å¡koda, protoÅ¾e kaÅ¾dÃ½ chytrÃ½ obchodnÃ­k by po takovÃ© pÅ™Ã­leÅ¾itosti skoÄil. Ale co, jestli nemÃ¡Å¡ zÃ¡jem, pÅ¯jdu jinam...}
+{270}{}{PoÄkej, zadrÅ¾. NeÅ™ekl jsem, Å¾e nemÃ¡m zÃ¡jem. O jakÃ½ pÅ™Ã­leÅ¾itosti to mluvÃ­Å¡?}
+{271}{}{VÃ­Å¡, ta vesnice teÄ nenÃ­ pÅ™Ã­liÅ¡ zajÃ­mavÃ¡, ale mÃ¡m informaci ze spolehlivÃ©ho zdroje, Å¾e to mÃ­sto bude jednou zlatÃ½ dÅ¯l. VÄ›Å™ mi, to mÃ­sto se v nÃ¡sledujÃ­cÃ­ch letech rapidnÄ› rozroste. TakÅ¾e bÃ½t tebou, snaÅ¾Ã­m se udÄ›lat si tam rychle kontakty, neÅ¾ budou pÅ™Ã­liÅ¡ velcÃ­ a ty tak propÃ¡sneÅ¡ svoji Å¡anci.}
+{280}{}{Hahaha! Ty si myslÃ­Å¡, Å¾e uvÄ›Å™Ã­m tomu, Å¾e se ta Å¡pinavÃ¡ dÃ­ra promÄ›nÃ­ v nÄ›co, co by mohlo mÃ­t nÄ›jakou cenu? Myslim, Å¾e tÃ­mhle jsem s tebou skonÄil.}
+{281}{}{Tak dobÅ™e. VidÃ­m, Å¾e s tebou nehnu. Nashle.}
+{282}{}{ZmÄ›nilo by "nÄ›co" tvÅ¯j nÃ¡zor?}
+{290}{}{NedÄ›lÃ¡Å¡ si srandu, Å¾e ne? Hmm, myslÃ­m, Å¾e bych si mohl sem tam udÄ›lat malou zajÃ­Å¾Äku. Sakra, vÅ¾dyÅ¥ to ani nenÃ­ moc daleko od mojÃ­ trasy. DÃ­ky za radu, pÅ™Ã­teli.}
+{291}{}{RÃ¡do se stalo. MÄ›j se.}
 {292}{}{Jo jo. Nashle.}
-{300}{}{(Zdá se, e uvauje o tvé nabídce.) Moná... co máš pøesnì na mysli?}
-{301}{}{Udìláš z té vesnice pravidelnou zastávku na své trase a já ti na oplátku zaplatím $500.}
-{302}{}{Udìláš z té vesnice pravidelnou zastávku na své trase a já ti na oplátku zajistím, aby se tvé karavanì nestala ádná "nešastná nehoda".}
-{303}{}{Udìláš z té vesnice pravidelnou zastávku na své trase a já ti na oplátku ukáu cestu rájem, na kterou do smrti nezapomeneš.}
-{304}{}{Udìláš z té vesnice pravidelnou zastávku na své trase a moje ena ti na oplátku ukáe cestu rájem, na kterou do smrti nezapomeneš.}
-{305}{}{Vlastnì, zapomeò na to. Nashle.}
-{310}{}{To je pøesnì to, co jsem mìl na mysli! Dobøe, platí. (Nenasytnì popadne peníze a potøese ti rukou.)}
-{311}{}{Bylo mi potìšením s tebou obchodovat. Nashle.}
+{300}{}{(ZdÃ¡ se, Å¾e uvaÅ¾uje o tvÃ© nabÃ­dce.) MoÅ¾nÃ¡... co mÃ¡Å¡ pÅ™esnÄ› na mysli?}
+{301}{}{UdÄ›lÃ¡Å¡ z tÃ© vesnice pravidelnou zastÃ¡vku na svÃ© trase a jÃ¡ ti na oplÃ¡tku zaplatÃ­m $500.}
+{302}{}{UdÄ›lÃ¡Å¡ z tÃ© vesnice pravidelnou zastÃ¡vku na svÃ© trase a jÃ¡ ti na oplÃ¡tku zajistÃ­m, aby se tvÃ© karavanÄ› nestala Å¾Ã¡dnÃ¡ "neÅ¡Å¥astnÃ¡ nehoda".}
+{303}{}{UdÄ›lÃ¡Å¡ z tÃ© vesnice pravidelnou zastÃ¡vku na svÃ© trase a jÃ¡ ti na oplÃ¡tku ukÃ¡Å¾u cestu rÃ¡jem, na kterou do smrti nezapomeneÅ¡.}
+{304}{}{UdÄ›lÃ¡Å¡ z tÃ© vesnice pravidelnou zastÃ¡vku na svÃ© trase a moje Å¾ena ti na oplÃ¡tku ukÃ¡Å¾e cestu rÃ¡jem, na kterou do smrti nezapomeneÅ¡.}
+{305}{}{VlastnÄ›, zapomeÅˆ na to. Nashle.}
+{310}{}{To je pÅ™esnÄ› to, co jsem mÄ›l na mysli! DobÅ™e, platÃ­. (NenasytnÄ› popadne penÃ­ze a potÅ™ese ti rukou.)}
+{311}{}{Bylo mi potÄ›Å¡enÃ­m s tebou obchodovat. Nashle.}
 {312}{}{Nashle.}
 {320}{}{$500? Not worth it. Make it $1,000 and you've got a deal.}
-{321}{}{Tolik nemám. Nashle.}
-{322}{}{Tak jo, dobøe. $1000.}
-{323}{}{Ani náhodou. Sbohem.}
-{330}{}{To je pøesnì to, co jsem mìl na mysli! Dobøe, platí. (Nenasytnì popadne peníze a potøese ti rukou.)}
-{331}{}{Bylo mi potìšením s tebou obchodovat. Nashle.}
+{321}{}{Tolik nemÃ¡m. Nashle.}
+{322}{}{Tak jo, dobÅ™e. $1000.}
+{323}{}{Ani nÃ¡hodou. Sbohem.}
+{330}{}{To je pÅ™esnÄ› to, co jsem mÄ›l na mysli! DobÅ™e, platÃ­. (NenasytnÄ› popadne penÃ­ze a potÅ™ese ti rukou.)}
+{331}{}{Bylo mi potÄ›Å¡enÃ­m s tebou obchodovat. Nashle.}
 {332}{}{Nashle.}
-{340}{}{Ty mi vyhrouješ? Kdokoliv mì zkusí vyhroovat, chcípne! (køièí na své stráce) Sejmìte toho zmrda!}
-{341}{}{Tak pojïte!}
-{350}{}{Poslyš, nechci ádné problémy. Jestli potøebuješ, abych s nimi zaèal obchodovat, dobøe. O nic nejde. Sakra, vdy to ani není moc daleko od mojí trasy. ádnı problém.}
-{351}{}{Jsem rád, e si rozumíme. Budu tì sledovat. Nashle.}
-{352}{}{Mìl by ses modlit, aby ádnı problém nenastal, protoe jestli jo, budu to nekompromisnì øešit. Nashle.}
-{353}{}{[Chvíli na nìj upøenì zírat a poté pomalu odejít]}
-{360}{}{Fuj! Boe, to ne! To bych radìji ošukal brahmínu. Teï vypadni a nezdruj mì.}
-{361}{}{Jdi do prdele, kreténe! [Zaútoèit]}
-{362}{}{Fajn, ale mohl jsi prostì øíct ne. Není tøeba se chovat jako idiot.}
-{363}{}{Nevíš o co pøicházíš.}
-{364}{}{[Rukama si zakrıt svùj ošklivı oblièej a poté s pláèem utéct pryè]}
-{370}{}{Eh, promiò dìvèe. Teï na to zrovna nemám náladu. Mùeš mi nabídnout nìco jiného?}
-{371}{}{Udìláš z té vesnice pravidelnou zastávku na své trase a já ti na oplátku zaplatím $500.}
-{372}{}{Udìláš z té vesnice pravidelnou zastávku na své trase a já ti na oplátku zajistím, aby se tvé karavanì nestala ádná "nešastná nehoda".}
+{340}{}{Ty mi vyhroÅ¾ujeÅ¡? Kdokoliv mÄ› zkusÃ­ vyhroÅ¾ovat, chcÃ­pne! (kÅ™iÄÃ­ na svÃ© strÃ¡Å¾ce) SejmÄ›te toho zmrda!}
+{341}{}{Tak pojÄte!}
+{350}{}{PoslyÅ¡, nechci Å¾Ã¡dnÃ© problÃ©my. Jestli potÅ™ebujeÅ¡, abych s nimi zaÄal obchodovat, dobÅ™e. O nic nejde. Sakra, vÅ¾dyÅ¥ to ani nenÃ­ moc daleko od mojÃ­ trasy. Å½Ã¡dnÃ½ problÃ©m.}
+{351}{}{Jsem rÃ¡d, Å¾e si rozumÃ­me. Budu tÄ› sledovat. Nashle.}
+{352}{}{MÄ›l by ses modlit, aby Å¾Ã¡dnÃ½ problÃ©m nenastal, protoÅ¾e jestli jo, budu to nekompromisnÄ› Å™eÅ¡it. Nashle.}
+{353}{}{[ChvÃ­li na nÄ›j upÅ™enÄ› zÃ­rat a potÃ© pomalu odejÃ­t]}
+{360}{}{Fuj! BoÅ¾e, to ne! To bych radÄ›ji oÅ¡ukal brahmÃ­nu. TeÄ vypadni a nezdrÅ¾uj mÄ›.}
+{361}{}{Jdi do prdele, kretÃ©ne! [ZaÃºtoÄit]}
+{362}{}{Fajn, ale mohl jsi prostÄ› Å™Ã­ct ne. NenÃ­ tÅ™eba se chovat jako idiot.}
+{363}{}{NevÃ­Å¡ o co pÅ™ichÃ¡zÃ­Å¡.}
+{364}{}{[Rukama si zakrÃ½t svÅ¯j oÅ¡klivÃ½ obliÄej a potÃ© s plÃ¡Äem utÃ©ct pryÄ]}
+{370}{}{Eh, promiÅˆ dÄ›vÄe. TeÄ na to zrovna nemÃ¡m nÃ¡ladu. MÅ¯Å¾eÅ¡ mi nabÃ­dnout nÄ›co jinÃ©ho?}
+{371}{}{UdÄ›lÃ¡Å¡ z tÃ© vesnice pravidelnou zastÃ¡vku na svÃ© trase a jÃ¡ ti na oplÃ¡tku zaplatÃ­m $500.}
+{372}{}{UdÄ›lÃ¡Å¡ z tÃ© vesnice pravidelnou zastÃ¡vku na svÃ© trase a jÃ¡ ti na oplÃ¡tku zajistÃ­m, aby se tvÃ© karavanÄ› nestala Å¾Ã¡dnÃ¡ "neÅ¡Å¥astnÃ¡ nehoda".}
 {373}{}{Ne. Nashle.}
-{380}{}{(Prohlédne si tì odshora dolù a poté se zeširoka usmìje.) Myslím, e jsme se právì dohodli. Máš to ráda do zadku?}
-{381}{}{Jakkoliv budeš chtít, zlato.}
-{382}{}{Na to si budeš muset pøijít sám.}
-{383}{}{Fuj! Kurva, to ne! Tak si laskavì pohni, a to mám rychle za sebou, ne se pobleju.}
-{390}{}{(Obchodník se na tebe smìje, zatímco si zapíná pásek.) No do prdele, ty zatracenì dobøe víš, jak se má smlouvat. Jestli budeš nìkdy potøebovat pøemluvit nìjakého obchodníka, urèitì mì vyhledej. Ale teï u musím jít. Bylo mi potìšením s tebou obchodovat.}
-{391}{}{[Oklepat se zhnusením] Jednou mi to staèilo a a. Nashle.}
+{380}{}{(ProhlÃ©dne si tÄ› odshora dolÅ¯ a potÃ© se zeÅ¡iroka usmÄ›je.) MyslÃ­m, Å¾e jsme se prÃ¡vÄ› dohodli. MÃ¡Å¡ to rÃ¡da do zadku?}
+{381}{}{Jakkoliv budeÅ¡ chtÃ­t, zlato.}
+{382}{}{Na to si budeÅ¡ muset pÅ™ijÃ­t sÃ¡m.}
+{383}{}{Fuj! Kurva, to ne! Tak si laskavÄ› pohni, aÅ¥ to mÃ¡m rychle za sebou, neÅ¾ se pobleju.}
+{390}{}{(ObchodnÃ­k se na tebe smÄ›je, zatÃ­mco si zapÃ­nÃ¡ pÃ¡sek.) No do prdele, ty zatracenÄ› dobÅ™e vÃ­Å¡, jak se mÃ¡ smlouvat. Jestli budeÅ¡ nÄ›kdy potÅ™ebovat pÅ™emluvit nÄ›jakÃ©ho obchodnÃ­ka, urÄitÄ› mÄ› vyhledej. Ale teÄ uÅ¾ musÃ­m jÃ­t. Bylo mi potÄ›Å¡enÃ­m s tebou obchodovat.}
+{391}{}{[Oklepat se zhnusenÃ­m] Jednou mi to staÄilo aÅ¾ aÅ¾. Nashle.}
 {392}{}{Kdykoliv. Nashle.}
 {393}{}{Nashle.}
-{400}{}{(Prohlédne si Miriu odshora dolù a poté se zeširoka usmìje.) Myslím, e jsme se právì dohodli. (Potøese ti rukou, poté si Miriu pøitáhne k sobì a odvede ji nìkam do soukromí.)}
-{401}{}{[Pøi èekání si podupávat nohou]}
-{402}{}{[Pøi èekání si pískat]}
-{403}{}{[Pøi èekání si zkontrolovat zbranì]}
-{404}{}{[Potichu stát, rozpaèitì koukat na stráce karavany a pøitom poslouchat, jak je tvoje ena prznìna správcem karavany]}
-{410}{}{(O hodinu pozdìji vidíš Roberta Barona a Miriu, celí zpocení a neupravení po skonèení sexuálního dovádìní, jak jdou zpátky k tobì. Všimneš si, e Miria trošku kulhá.) No do prdele, ty zatracenì dobøe víš, jak se má smlouvat. Pokud budeš nìkdy potøebovat pøemluvit obchodníka kvùli nìèemu jinému, urèitì mì vyhledej. Ale teï u musím jít. Bylo mi potìšením s tebou obchodovat.}
-{411}{}{Nevadí. Nashle.}
+{400}{}{(ProhlÃ©dne si Miriu odshora dolÅ¯ a potÃ© se zeÅ¡iroka usmÄ›je.) MyslÃ­m, Å¾e jsme se prÃ¡vÄ› dohodli. (PotÅ™ese ti rukou, potÃ© si Miriu pÅ™itÃ¡hne k sobÄ› a odvede ji nÄ›kam do soukromÃ­.)}
+{401}{}{[PÅ™i ÄekÃ¡nÃ­ si podupÃ¡vat nohou]}
+{402}{}{[PÅ™i ÄekÃ¡nÃ­ si pÃ­skat]}
+{403}{}{[PÅ™i ÄekÃ¡nÃ­ si zkontrolovat zbranÄ›]}
+{404}{}{[Potichu stÃ¡t, rozpaÄitÄ› koukat na strÃ¡Å¾ce karavany a pÅ™itom poslouchat, jak je tvoje Å¾ena prznÄ›na sprÃ¡vcem karavany]}
+{410}{}{(O hodinu pozdÄ›ji vidÃ­Å¡ Roberta Barona a Miriu, celÃ­ zpocenÃ­ a neupravenÃ­ po skonÄenÃ­ sexuÃ¡lnÃ­ho dovÃ¡dÄ›nÃ­, jak jdou zpÃ¡tky k tobÄ›. VÅ¡imneÅ¡ si, Å¾e Miria troÅ¡ku kulhÃ¡.) No do prdele, ty zatracenÄ› dobÅ™e vÃ­Å¡, jak se mÃ¡ smlouvat. Pokud budeÅ¡ nÄ›kdy potÅ™ebovat pÅ™emluvit obchodnÃ­ka kvÅ¯li nÄ›Äemu jinÃ©mu, urÄitÄ› mÄ› vyhledej. Ale teÄ uÅ¾ musÃ­m jÃ­t. Bylo mi potÄ›Å¡enÃ­m s tebou obchodovat.}
+{411}{}{NevadÃ­. Nashle.}
 {412}{}{Kdykoliv. Nashle.}
 {413}{}{Nashle.}
-{500}{}{Podaøilo se ti pøesvìdèit obchodníka, aby pøidal vesnici ke své obchodní trase.}
-{510}{}{Zabil jsi obchodníka, take jsi zpùsobil, e vesnice nebude moct obchodovat.}
+{500}{}{PodaÅ™ilo se ti pÅ™esvÄ›dÄit obchodnÃ­ka, aby pÅ™idal vesnici ke svÃ© obchodnÃ­ trase.}
+{510}{}{Zabil jsi obchodnÃ­ka, takÅ¾e jsi zpÅ¯sobil, Å¾e vesnice nebude moct obchodovat.}

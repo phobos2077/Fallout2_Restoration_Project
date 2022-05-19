@@ -1,1273 +1,1273 @@
-{100}{}{Vidíš prostitutku.}
-{150}{}{Vidíš... ehm, dámu veèera. Její sporé šaty svùdnì obepínají celé její tìlo.}
-{151}{}{Vidíš prostitutku. Mrká na tebe.}
-{152}{}{Vidíš prostitutku. Její oèi jsou jak roznìtky.}
-{153}{}{Vidíš prostitutku. Voní jako kvìtiny.}
-{154}{}{Vidíš prostitutku. Voní jako mámin polštáø.}
-{155}{}{Vidíš prostitutku. Je ti záhadou, jak ty sporé hadøíky zvládnou udret její prsa.}
-{156}{}{Vidíš prostitutku. Tváøí se, jako by chtìla své partnery zabít a sníst.}
-{157}{}{Vidíš prostitutku. Prohlíí si tì jako zlatník prsten.}
-{158}{}{Vidíš prostitutku. Její sporé šaty svùdnì obepínají celé její tìlo.}
+{100}{}{VidÃ­Å¡ prostitutku.}
+{150}{}{VidÃ­Å¡... ehm, dÃ¡mu veÄera. JejÃ­ sporÃ© Å¡aty svÅ¯dnÄ› obepÃ­najÃ­ celÃ© jejÃ­ tÄ›lo.}
+{151}{}{VidÃ­Å¡ prostitutku. MrkÃ¡ na tebe.}
+{152}{}{VidÃ­Å¡ prostitutku. JejÃ­ oÄi jsou jak roznÄ›tky.}
+{153}{}{VidÃ­Å¡ prostitutku. VonÃ­ jako kvÄ›tiny.}
+{154}{}{VidÃ­Å¡ prostitutku. VonÃ­ jako mÃ¡min polÅ¡tÃ¡Å™.}
+{155}{}{VidÃ­Å¡ prostitutku. Je ti zÃ¡hadou, jak ty sporÃ© hadÅ™Ã­ky zvlÃ¡dnou udrÅ¾et jejÃ­ prsa.}
+{156}{}{VidÃ­Å¡ prostitutku. TvÃ¡Å™Ã­ se, jako by chtÄ›la svÃ© partnery zabÃ­t a snÃ­st.}
+{157}{}{VidÃ­Å¡ prostitutku. ProhlÃ­Å¾Ã­ si tÄ› jako zlatnÃ­k prsten.}
+{158}{}{VidÃ­Å¡ prostitutku. JejÃ­ sporÃ© Å¡aty svÅ¯dnÄ› obepÃ­najÃ­ celÃ© jejÃ­ tÄ›lo.}
 {175}{}{Oh my... it's him.}
-{176}{}{Jseš ten nejvìtší kanec na svìtì.}
-{177}{}{::Omdlévá::}
+{176}{}{JseÅ¡ ten nejvÄ›tÅ¡Ã­ kanec na svÄ›tÄ›.}
+{177}{}{::OmdlÃ©vÃ¡::}
 {178}{}{Jooo, }
-{179}{}{::Tleská::}
-{180}{}{::Fandí::}
+{179}{}{::TleskÃ¡::}
+{180}{}{::FandÃ­::}
 {181}{}{Oh my... it's her.}
-{182}{}{Fandím ti, holka!}
-{183}{}{::Ukáe ti vztyèenı palec::}
-{190}{}{Tolik penìz nemáš, abych to s tebou dìlala, kdy máš na sobì TOHLE.}
+{182}{}{FandÃ­m ti, holka!}
+{183}{}{::UkÃ¡Å¾e ti vztyÄenÃ½ palec::}
+{190}{}{Tolik penÄ›z nemÃ¡Å¡, abych to s tebou dÄ›lala, kdyÅ¾ mÃ¡Å¡ na sobÄ› TOHLE.}
 {195}{}{Tady jsem, }
-{196}{}{Podívejte! To je on!}
+{196}{}{PodÃ­vejte! To je on!}
 {197}{}{Nazdar, }
-{198}{}{Ahoj cukrouši. Nenašlo by se u vás místo?}
-{199}{}{Kdy vyjde tvùj novej film?}
-{200}{}{Mmmm-mmmm. Uka se, svalovèe.}
-{201}{}{Nepotøebuješ ode mì nìco, bejku?}
-{202}{}{Jejda, upadlo mi nìco do tvıch kalhot. Mùu si to vylovit?}
-{203}{}{Zboòuju tì ve filmu "Anální Nikita".}
-{204}{}{Zboòuju tì ve filmu "Oral Hills 90210".}
-{205}{}{Skvìlı vıkon v Øinících.}
-{206}{}{Skvìlı vıkon v Øinících.}
-{207}{}{Hmmmm. Jak se udruješ v kondici?}
-{208}{}{Mùeš se mi podepsat? Na prsa?}
-{209}{}{Mohla bych si zahrát v tvım dalším filmu?}
-{210}{}{S tebou bych orgasmus NIKDY nemusela pøedstírat, }
-{211}{}{Slábnu. U to... dlouho... nevydrím. Musím... se s tebou... vyspat...}
-{212}{}{Kdepak hvìzda, jenom obyèejná divošská špína...}
-{213}{}{Nikdy by mì nenapadlo, e dovolí pornohvìzdám, aby byly TAK tlustı...}
-{214}{}{Je ošklivá.}
-{215}{}{Má sexappeal jako pytlík na blití...}
-{216}{}{Ošklivá jak nespláchnutej záchod...}
-{217}{}{Podle toho jak mizernì hraje by si èlovìk myslel, e je spíš akèní hrdinka a ne pornohvìzda.}
-{218}{}{Jestli si nìco zkusí, tak jí udìláme hezkou jizvu na ksichtì...}
-{219}{}{Nechápu, co na NÍ Korsickı bratøi vidí...}
-{220}{}{Má talent jako paøez a je dvakrát tak ošklivìjší.}
-{221}{}{Pøesnì tak, jen JDI dál.}
-{222}{}{U jen pøi pohledu na ni se mi dìlá špatnì...}
-{223}{}{Kouknìte, jak si tu pyšnì vykraèuje jako nìjaká...}
-{224}{}{Jenom brahmínì se mùe líbit takovej ksicht.}
-{225}{}{A hele, jestlipak tohle není sama Královna Sraèek.}
-{226}{}{Není to ta malá ubohá dìvka...?}
-{227}{}{Jestlipak to není naše malá pornohvìzdièka...?}
-{228}{}{Je ošklivìjší ne brahmíní prdel.}
-{229}{}{Odprejskni! Tohle je náš rajón, dìvko!}
-{230}{}{Jdi s tím tlustım zadkem nìkam.}
-{231}{}{Jseš talentovaná asi jako moje bota.}
-{232}{}{Zùstaò na tıhle ulici a sejmeme tì.}
-{233}{}{Dìvka.}
-{234}{}{Nafoukaná dìvko...}
+{198}{}{Ahoj cukrouÅ¡i. NenaÅ¡lo by se u vÃ¡s mÃ­sto?}
+{199}{}{Kdy vyjde tvÅ¯j novej film?}
+{200}{}{Mmmm-mmmm. UkaÅ¾ se, svalovÄe.}
+{201}{}{NepotÅ™ebujeÅ¡ ode mÄ› nÄ›co, bejku?}
+{202}{}{Jejda, upadlo mi nÄ›co do tvÃ½ch kalhot. MÅ¯Å¾u si to vylovit?}
+{203}{}{ZboÅ¾Åˆuju tÄ› ve filmu "AnÃ¡lnÃ­ Nikita".}
+{204}{}{ZboÅ¾Åˆuju tÄ› ve filmu "Oral Hills 90210".}
+{205}{}{SkvÄ›lÃ½ vÃ½kon v Å˜iÅ¥nÃ­cÃ­ch.}
+{206}{}{SkvÄ›lÃ½ vÃ½kon v Å˜iÅ¥nÃ­cÃ­ch.}
+{207}{}{Hmmmm. Jak se udrÅ¾ujeÅ¡ v kondici?}
+{208}{}{MÅ¯Å¾eÅ¡ se mi podepsat? Na prsa?}
+{209}{}{Mohla bych si zahrÃ¡t v tvÃ½m dalÅ¡Ã­m filmu?}
+{210}{}{S tebou bych orgasmus NIKDY nemusela pÅ™edstÃ­rat, }
+{211}{}{SlÃ¡bnu. UÅ¾ to... dlouho... nevydrÅ¾Ã­m. MusÃ­m... se s tebou... vyspat...}
+{212}{}{Kdepak hvÄ›zda, jenom obyÄejnÃ¡ divoÅ¡skÃ¡ Å¡pÃ­na...}
+{213}{}{Nikdy by mÄ› nenapadlo, Å¾e dovolÃ­ pornohvÄ›zdÃ¡m, aby byly TAK tlustÃ½...}
+{214}{}{Je oÅ¡klivÃ¡.}
+{215}{}{MÃ¡ sexappeal jako pytlÃ­k na blitÃ­...}
+{216}{}{OÅ¡klivÃ¡ jak nesplÃ¡chnutej zÃ¡chod...}
+{217}{}{Podle toho jak mizernÄ› hraje by si ÄlovÄ›k myslel, Å¾e je spÃ­Å¡ akÄnÃ­ hrdinka a ne pornohvÄ›zda.}
+{218}{}{Jestli si nÄ›co zkusÃ­, tak jÃ­ udÄ›lÃ¡me hezkou jizvu na ksichtÄ›...}
+{219}{}{NechÃ¡pu, co na NÃ KorsickÃ½ bratÅ™i vidÃ­...}
+{220}{}{MÃ¡ talent jako paÅ™ez a je dvakrÃ¡t tak oÅ¡klivÄ›jÅ¡Ã­.}
+{221}{}{PÅ™esnÄ› tak, jen JDI dÃ¡l.}
+{222}{}{UÅ¾ jen pÅ™i pohledu na ni se mi dÄ›lÃ¡ Å¡patnÄ›...}
+{223}{}{KouknÄ›te, jak si tu pyÅ¡nÄ› vykraÄuje jako nÄ›jakÃ¡...}
+{224}{}{Jenom brahmÃ­nÄ› se mÅ¯Å¾e lÃ­bit takovej ksicht.}
+{225}{}{A hele, jestlipak tohle nenÃ­ sama KrÃ¡lovna SraÄek.}
+{226}{}{NenÃ­ to ta malÃ¡ ubohÃ¡ dÄ›vka...?}
+{227}{}{Jestlipak to nenÃ­ naÅ¡e malÃ¡ pornohvÄ›zdiÄka...?}
+{228}{}{Je oÅ¡klivÄ›jÅ¡Ã­ neÅ¾ brahmÃ­nÃ­ prdel.}
+{229}{}{Odprejskni! Tohle je nÃ¡Å¡ rajÃ³n, dÄ›vko!}
+{230}{}{Jdi s tÃ­m tlustÃ½m zadkem nÄ›kam.}
+{231}{}{JseÅ¡ talentovanÃ¡ asi jako moje bota.}
+{232}{}{ZÅ¯staÅˆ na tÃ½hle ulici a sejmeme tÄ›.}
+{233}{}{DÄ›vka.}
+{234}{}{NafoukanÃ¡ dÄ›vko...}
 {235}{}{Odpade...}
 {236}{}{Tsss!}
-{237}{}{Vypadni odsud, kazíš nám kšefty.}
-{238}{}{Hnusná dìvko.}
-{239}{}{Nemluv na mì, dìvko.}
-{240}{}{Jdi si vydìlávat prachy tím svım pomalım zpùsobem, dìvko.}
-{241}{}{Kterı èásti z vìty "Jdi do hajzlu" nerozumíš?}
-{242}{}{Promluv na mì ještì jednou a vyøíznu ti jazyk.}
-{243}{}{Poulièní couro.}
-{244}{}{::Ignoruje tì.::}
-{245}{}{::Ukazuje ti neslušné gesto::}
-{246}{}{Vypadni odsud, ty jedna "Filmová Hvìzdo."}
+{237}{}{Vypadni odsud, kazÃ­Å¡ nÃ¡m kÅ¡efty.}
+{238}{}{HnusnÃ¡ dÄ›vko.}
+{239}{}{Nemluv na mÄ›, dÄ›vko.}
+{240}{}{Jdi si vydÄ›lÃ¡vat prachy tÃ­m svÃ½m pomalÃ½m zpÅ¯sobem, dÄ›vko.}
+{241}{}{KterÃ½ ÄÃ¡sti z vÄ›ty "Jdi do hajzlu" nerozumÃ­Å¡?}
+{242}{}{Promluv na mÄ› jeÅ¡tÄ› jednou a vyÅ™Ã­znu ti jazyk.}
+{243}{}{PouliÄnÃ­ couro.}
+{244}{}{::Ignoruje tÄ›.::}
+{245}{}{::Ukazuje ti nesluÅ¡nÃ© gesto::}
+{246}{}{Vypadni odsud, ty jedna "FilmovÃ¡ HvÄ›zdo."}
 {247}{}{Vypadni, kurvo.}
-{248}{}{Zkus si nìco a udìlám ti hezkou jizvu na ksichtì...}
-{249}{}{Nechápu, co na NÍ Korsickı bratøi vidí...}
-{250}{}{Máš talent asi jako paøez a jseš dvakrát tak ošklivìjší.}
-{251}{}{Nemluvím s ODPADEM jako jsi ty.}
-{252}{}{Kouknìte na ty svaly! Cítím se tak slabá...}
-{253}{}{Sákryš!}
-{254}{}{::Píská::}
-{255}{}{Je to chlap jako tank. Mrkejte na ten jeho kanón.}
+{248}{}{Zkus si nÄ›co a udÄ›lÃ¡m ti hezkou jizvu na ksichtÄ›...}
+{249}{}{NechÃ¡pu, co na NÃ KorsickÃ½ bratÅ™i vidÃ­...}
+{250}{}{MÃ¡Å¡ talent asi jako paÅ™ez a jseÅ¡ dvakrÃ¡t tak oÅ¡klivÄ›jÅ¡Ã­.}
+{251}{}{NemluvÃ­m s ODPADEM jako jsi ty.}
+{252}{}{KouknÄ›te na ty svaly! CÃ­tÃ­m se tak slabÃ¡...}
+{253}{}{SÃ¡kryÅ¡!}
+{254}{}{::PÃ­skÃ¡::}
+{255}{}{Je to chlap jako tank. Mrkejte na ten jeho kanÃ³n.}
 {256}{}{Koukejte na ty stehna...}
-{257}{}{Ten musí bıt mùj...}
+{257}{}{Ten musÃ­ bÃ½t mÅ¯j...}
 {258}{}{::Vzdych::}
 {259}{}{To je ale kus chlapa!}
-{260}{}{Kdy se na mì podívá, taju jako sníh.}
-{261}{}{Není tohle náš král ringu...?}
-{262}{}{Má ruce jako dvì dìla.}
-{263}{}{Podívejte! To je }
+{260}{}{KdyÅ¾ se na mÄ› podÃ­vÃ¡, taju jako snÃ­h.}
+{261}{}{NenÃ­ tohle nÃ¡Å¡ krÃ¡l ringu...?}
+{262}{}{MÃ¡ ruce jako dvÄ› dÄ›la.}
+{263}{}{PodÃ­vejte! To je }
 {264}{}{}
-{265}{}{Ten by stál za høích.}
-{266}{}{Tak co, šampióne? Neskoèíme spolu do ringu?}
-{267}{}{Chceš si "zaboxovat", šampióne?}
-{268}{}{Jak to šlape, }
-{269}{}{Hledáš mì?}
-{270}{}{Proè sem nechodíš èastìjc?}
-{271}{}{Mám jedno pøání, kterı mi mùeš splnit jen ty.}
-{272}{}{Potøebuješ spoleènost, }
-{273}{}{Jseš POØÁDNEJ kus chlapa.}
-{274}{}{Víš, e mì vzrušuješ?}
-{275}{}{Máš moc pìknı dìlo.}
-{276}{}{Hledáš nìkoho, kdo se ti o nìj postará, šampióne?}
-{277}{}{Jo a... dávej si bacha na dímaèku. Je to hroznej kretén. Jednou se mi pokoušel ukousnout ucho.}
-{278}{}{Podívejte! To je }
-{279}{}{Potøebuješ spoleènost, }
+{265}{}{Ten by stÃ¡l za hÅ™Ã­ch.}
+{266}{}{Tak co, Å¡ampiÃ³ne? NeskoÄÃ­me spolu do ringu?}
+{267}{}{ChceÅ¡ si "zaboxovat", Å¡ampiÃ³ne?}
+{268}{}{Jak to Å¡lape, }
+{269}{}{HledÃ¡Å¡ mÄ›?}
+{270}{}{ProÄ sem nechodÃ­Å¡ ÄastÄ›jc?}
+{271}{}{MÃ¡m jedno pÅ™Ã¡nÃ­, kterÃ½ mi mÅ¯Å¾eÅ¡ splnit jen ty.}
+{272}{}{PotÅ™ebujeÅ¡ spoleÄnost, }
+{273}{}{JseÅ¡ POÅ˜ÃDNEJ kus chlapa.}
+{274}{}{VÃ­Å¡, Å¾e mÄ› vzruÅ¡ujeÅ¡?}
+{275}{}{MÃ¡Å¡ moc pÄ›knÃ½ dÄ›lo.}
+{276}{}{HledÃ¡Å¡ nÄ›koho, kdo se ti o nÄ›j postarÃ¡, Å¡ampiÃ³ne?}
+{277}{}{Jo a... dÃ¡vej si bacha na Å½dÃ­maÄku. Je to hroznej kretÃ©n. Jednou se mi pokouÅ¡el ukousnout ucho.}
+{278}{}{PodÃ­vejte! To je }
+{279}{}{PotÅ™ebujeÅ¡ spoleÄnost, }
 {280}{}{}
-{281}{}{To je ale kus enskı! Chtìla bych umìt mlátit chlapy stejnì jako ona.}
-{282}{}{Á, tady jde naše drsná enská.}
-{283}{}{Vypadá tak... (Zachvìje se.) ...nebezpeènì.}
-{284}{}{Je to docela koèka.}
-{285}{}{Ach boe... to je on. }
-{286}{}{Vypadá tak... (Zachvìje se.) ...nebezpeènì.}
-{287}{}{Sákryš!}
-{288}{}{::Píská::}
+{281}{}{To je ale kus Å¾enskÃ½! ChtÄ›la bych umÄ›t mlÃ¡tit chlapy stejnÄ› jako ona.}
+{282}{}{Ã, tady jde naÅ¡e drsnÃ¡ Å¾enskÃ¡.}
+{283}{}{VypadÃ¡ tak... (ZachvÄ›je se.) ...nebezpeÄnÄ›.}
+{284}{}{Je to docela koÄka.}
+{285}{}{Ach boÅ¾e... to je on. }
+{286}{}{VypadÃ¡ tak... (ZachvÄ›je se.) ...nebezpeÄnÄ›.}
+{287}{}{SÃ¡kryÅ¡!}
+{288}{}{::PÃ­skÃ¡::}
 {289}{}{To je ale kus chlapa!}
-{290}{}{Kdy se na mì podívá, taju jako sníh.}
-{291}{}{Má ruce jako dvì dìla.}
-{292}{}{Ahóóój, }
-{293}{}{Potøebuješ spoleènost, }
+{290}{}{KdyÅ¾ se na mÄ› podÃ­vÃ¡, taju jako snÃ­h.}
+{291}{}{MÃ¡ ruce jako dvÄ› dÄ›la.}
+{292}{}{AhÃ³Ã³Ã³j, }
+{293}{}{PotÅ™ebujeÅ¡ spoleÄnost, }
 {294}{}{}
-{295}{}{Ach boe... to je ona. }
-{296}{}{To je ale kus enskı!}
-{297}{}{Á, tady kráèí jedna poøádnì drsná dìvka.}
-{298}{}{Vypadá tak... (Zachvìje se.) ...nebezpeènì.}
-{299}{}{Je to docela koèka.}
-{300}{}{Jmenuju se Povolná, otrokáøi. A ty?}
-{301}{}{Nazdar otrokáøi, nepotøebuješ spoleènost?}
-{302}{}{Nauèím tì pár vìcí, kterı tì nauèí jenom ena.}
-{303}{}{Potøebuješ nìkoho, kdo by ti zahøál postel, otrokáøi?}
-{304}{}{Zdá se, e máš v koulích pøetlak, otrokáøi. Neulevíme jim spolu trochu?}
-{305}{}{Copak to máš v kalhotech za hada?}
-{306}{}{Hledáš povyraení?}
-{307}{}{Dokud se nepomiluješ v New Renu, nevíš, co je to láska, otrokáøi.}
-{308}{}{Sháníš rande?}
-{309}{}{Slyšela jsem, e se nìco stalo v Obchodní ètvrti...}
-{310}{}{Hledáš spoleènost?}
-{311}{}{Chceš si zaskotaèit?}
-{312}{}{Dokud se nepomiluješ v New Renu, nevíš, co je to láska, otrokáøi.}
-{313}{}{Ale jistìe budu tvoje "spoleènice"... za pár babek.}
-{314}{}{Zdá se, e do mìsta pøišel cizinec...}
-{315}{}{Chceš si zalítat, otrokáøi?}
-{316}{}{Chceš si zahrát na otrokáøe a otrokyni?}
-{317}{}{Pìknej klacek.}
-{318}{}{Pojï, já tì rozveselím, smutnı klaune.}
-{319}{}{Zabloudil jsi, otrokáøi?}
-{320}{}{Potøebuješ uvolnit trochu napìtí, otrokáøi?}
-{321}{}{Tenhle chlap by dokázal rozhavit i elezo.}
-{322}{}{Myron? Toho bych se nedotkla ani za milión. Zvedni to na dva milióny.}
-{323}{}{Hledáš potìšení, otrokáøi?}
-{324}{}{Líbí se mi tvoje ještìrka, otrokáøi.}
-{325}{}{Ty máš v kapse ještìrku?}
-{326}{}{Nazdar otrokáøi.}
-{327}{}{Nechceš jít se mnou na rande, otrokáøi?}
-{328}{}{Nemáš oheò, otrokáøi?}
-{329}{}{Pojï chlapèe, udìlám z tebe mue.}
-{330}{}{Chceš si zahrát na otrokáøe a otrokyni?}
-{331}{}{Zahrajeme si na páraèe v dobì páøení?}
-{332}{}{Nepotøebuješ vyprázdnit nádr, otrokáøi?}
-{333}{}{Pomùeš pannì zbavit se svıho panenství?}
-{334}{}{Vdycky kdy toho otrokáøe vidím, zaène mi pípat mùj Geigerùv pøístroj.}
-{335}{}{Jestli chceš, abych pøi tom byla milá, bude tì to nìco stát.}
-{336}{}{[Zpívá.] "Jsi moje kláda, moje kláda... kterou já mám nadevše ráda."}
-{337}{}{Zkus to se mnou, otrokáøi.}
-{338}{}{Koneènì jsem si poøídila vycpanou pelest.}
-{339}{}{Ochutnávka ráje tì bude stát jenom deset babek.}
-{340}{}{Chceš si zahrát na otrokáøe a otrokyni?}
-{341}{}{Myron: Spousta povyku, ale ádnı èiny.}
-{342}{}{Myron je hroznej òouma.}
-{343}{}{AC-DC, B n' D, vdy je to fuk.}
-{344}{}{Co si myslí, e jako udìlám? e mu ho vykouøím?}
-{345}{}{Potøebuješ nìkoho, kdo ti uleví od toho svrbìní v rozkroku, otrokáøi?}
-{346}{}{Myron sem poøád leze...}
-{347}{}{Ta Bishopova holka je úplná nymfomanka.}
+{295}{}{Ach boÅ¾e... to je ona. }
+{296}{}{To je ale kus Å¾enskÃ½!}
+{297}{}{Ã, tady krÃ¡ÄÃ­ jedna poÅ™Ã¡dnÄ› drsnÃ¡ dÄ›vka.}
+{298}{}{VypadÃ¡ tak... (ZachvÄ›je se.) ...nebezpeÄnÄ›.}
+{299}{}{Je to docela koÄka.}
+{300}{}{Jmenuju se PovolnÃ¡, otrokÃ¡Å™i. A ty?}
+{301}{}{Nazdar otrokÃ¡Å™i, nepotÅ™ebujeÅ¡ spoleÄnost?}
+{302}{}{NauÄÃ­m tÄ› pÃ¡r vÄ›cÃ­, kterÃ½ tÄ› nauÄÃ­ jenom Å¾ena.}
+{303}{}{PotÅ™ebujeÅ¡ nÄ›koho, kdo by ti zahÅ™Ã¡l postel, otrokÃ¡Å™i?}
+{304}{}{ZdÃ¡ se, Å¾e mÃ¡Å¡ v koulÃ­ch pÅ™etlak, otrokÃ¡Å™i. NeulevÃ­me jim spolu trochu?}
+{305}{}{Copak to mÃ¡Å¡ v kalhotech za hada?}
+{306}{}{HledÃ¡Å¡ povyraÅ¾enÃ­?}
+{307}{}{Dokud se nepomilujeÅ¡ v New Renu, nevÃ­Å¡, co je to lÃ¡ska, otrokÃ¡Å™i.}
+{308}{}{ShÃ¡nÃ­Å¡ rande?}
+{309}{}{SlyÅ¡ela jsem, Å¾e se nÄ›co stalo v ObchodnÃ­ Ätvrti...}
+{310}{}{HledÃ¡Å¡ spoleÄnost?}
+{311}{}{ChceÅ¡ si zaskotaÄit?}
+{312}{}{Dokud se nepomilujeÅ¡ v New Renu, nevÃ­Å¡, co je to lÃ¡ska, otrokÃ¡Å™i.}
+{313}{}{Ale jistÄ›Å¾e budu tvoje "spoleÄnice"... za pÃ¡r babek.}
+{314}{}{ZdÃ¡ se, Å¾e do mÄ›sta pÅ™iÅ¡el cizinec...}
+{315}{}{ChceÅ¡ si zalÃ­tat, otrokÃ¡Å™i?}
+{316}{}{ChceÅ¡ si zahrÃ¡t na otrokÃ¡Å™e a otrokyni?}
+{317}{}{PÄ›knej klacek.}
+{318}{}{PojÄ, jÃ¡ tÄ› rozveselÃ­m, smutnÃ½ klaune.}
+{319}{}{Zabloudil jsi, otrokÃ¡Å™i?}
+{320}{}{PotÅ™ebujeÅ¡ uvolnit trochu napÄ›tÃ­, otrokÃ¡Å™i?}
+{321}{}{Tenhle chlap by dokÃ¡zal rozÅ¾havit i Å¾elezo.}
+{322}{}{Myron? Toho bych se nedotkla ani za miliÃ³n. Zvedni to na dva miliÃ³ny.}
+{323}{}{HledÃ¡Å¡ potÄ›Å¡enÃ­, otrokÃ¡Å™i?}
+{324}{}{LÃ­bÃ­ se mi tvoje jeÅ¡tÄ›rka, otrokÃ¡Å™i.}
+{325}{}{Ty mÃ¡Å¡ v kapse jeÅ¡tÄ›rku?}
+{326}{}{Nazdar otrokÃ¡Å™i.}
+{327}{}{NechceÅ¡ jÃ­t se mnou na rande, otrokÃ¡Å™i?}
+{328}{}{NemÃ¡Å¡ oheÅˆ, otrokÃ¡Å™i?}
+{329}{}{PojÄ chlapÄe, udÄ›lÃ¡m z tebe muÅ¾e.}
+{330}{}{ChceÅ¡ si zahrÃ¡t na otrokÃ¡Å™e a otrokyni?}
+{331}{}{Zahrajeme si na pÃ¡raÄe v dobÄ› pÃ¡Å™enÃ­?}
+{332}{}{NepotÅ™ebujeÅ¡ vyprÃ¡zdnit nÃ¡drÅ¾, otrokÃ¡Å™i?}
+{333}{}{PomÅ¯Å¾eÅ¡ pannÄ› zbavit se svÃ½ho panenstvÃ­?}
+{334}{}{VÅ¾dycky kdyÅ¾ toho otrokÃ¡Å™e vidÃ­m, zaÄne mi pÃ­pat mÅ¯j GeigerÅ¯v pÅ™Ã­stroj.}
+{335}{}{Jestli chceÅ¡, abych pÅ™i tom byla milÃ¡, bude tÄ› to nÄ›co stÃ¡t.}
+{336}{}{[ZpÃ­vÃ¡.] "Jsi moje klÃ¡da, moje klÃ¡da... kterou jÃ¡ mÃ¡m nadevÅ¡e rÃ¡da."}
+{337}{}{Zkus to se mnou, otrokÃ¡Å™i.}
+{338}{}{KoneÄnÄ› jsem si poÅ™Ã­dila vycpanou pelest.}
+{339}{}{OchutnÃ¡vka rÃ¡je tÄ› bude stÃ¡t jenom deset babek.}
+{340}{}{ChceÅ¡ si zahrÃ¡t na otrokÃ¡Å™e a otrokyni?}
+{341}{}{Myron: Spousta povyku, ale Å¾Ã¡dnÃ½ Äiny.}
+{342}{}{Myron je hroznej Åˆouma.}
+{343}{}{AC-DC, B n' D, vÅ¾dyÅ¥ je to fuk.}
+{344}{}{Co si myslÃ­, Å¾e jako udÄ›lÃ¡m? Å½e mu ho vykouÅ™Ã­m?}
+{345}{}{PotÅ™ebujeÅ¡ nÄ›koho, kdo ti ulevÃ­ od toho svrbÄ›nÃ­ v rozkroku, otrokÃ¡Å™i?}
+{346}{}{Myron sem poÅ™Ã¡d leze...}
+{347}{}{Ta Bishopova holka je ÃºplnÃ¡ nymfomanka.}
 {348}{}{She ain't no Jet addict, she's a BONE addict.}
-{349}{}{V Koèièí Pacce to zaèíná pìknì vøít...}
-{350}{}{Minulou noc jsem si zabìhla maratón, kdy jsem utíkala pøed Myronem...}
-{351}{}{Hledáš nìjakı vzrùšo, otrokáøi?}
-{352}{}{Šlapu tenhle chodník u od vèera...}
-{353}{}{Líbí se ti co vidíš, otrokáøi?}
-{354}{}{Hledáš lásku, otrokáøi?}
-{355}{}{Nazdar otrokáøi! Pojï ke mnì.}
-{356}{}{::Hvízdá na tebe::}
-{357}{}{Zùstaneš v Renu dlouho?}
-{358}{}{Nesnáším ulání koulí.}
-{359}{}{Nechceš mì šoupnout zpátky do svı klece, otrokáøi?}
-{360}{}{Staèí pár babek a máš moji pozornost.}
-{361}{}{Nefalšovaná New Reno láska, tady a teï.}
-{362}{}{Pìknì si s tebou pohraju.}
-{363}{}{Já jsem Nechutná Spice.}
-{364}{}{Já jsem Domácí Spice.}
-{365}{}{Já jsem Šlapka Spice.}
-{366}{}{Já jsem Old Spice.}
-{367}{}{Já jsem Syfilis... eh, Šlapka Spice.}
-{368}{}{Já jsem Oplzlá Spice.}
-{369}{}{Zaprášení kovbojové, to je pøesnì to, co hledám.}
-{370}{}{Mùu øíct kámošce jestli chceš dvojitej orál, otrokáøi.}
-{371}{}{Pøála bych si, aby byl Myron teplej.}
-{372}{}{Èerstvı maso ve mìstì...}
-{373}{}{To by mì zajímalo, proè se tomu øíká ulice Panen...}
-{374}{}{Dokáeš svım penisem pøibít 6-ti palcovı høebík?}
-{375}{}{Nìkdy si pøeju, aby si dal pytel pøes hlavu...}
-{376}{}{Koupíš sleènì pití, otrokáøi?}
-{377}{}{Vezmeš osamìlou enu do mìsta, otrokáøi?}
-{378}{}{Potøebuješ pøítelkyni na noc, otrokáøi?}
-{379}{}{Hledáš nìjakı nové zboí, otrokáøi?}
-{380}{}{Pojï blí, otrokáøi, a mùeme na to hupsnout...}
-{381}{}{Slyšela jsem, e nìkterı holky zabily svıho pasáka.}
-{382}{}{Nejkrásnìjší enská v pustinì? To jsem já...}
-{383}{}{Doufám, e mì Jules pøestane otravovat.}
-{384}{}{Poøád mám ještì na zádech tu odøeninu od stolu...}
-{385}{}{Jsem ještì utahaná z toho minulıho sjezdu otrokáøù...}
-{386}{}{Pøála bych si, aby se ty otrokáøskı sjezdy konaly v jinım mìstì.}
-{387}{}{Myslela jsem, e cítím, jak se Zemì pohnula, ale bylo to tìma fazolema k veèeøi.}
-{388}{}{Zahøej mì.}
-{389}{}{Ještì chvíli tu bude postávat a odkrví se mu úplnì mozek...}
-{390}{}{Já se o tebe postarám, otrokáøi.}
-{391}{}{Jsem ještì panna, ale nejsem v tom moc dobrá.}
-{392}{}{Jules se snaí prodávat fet na Druhı ulici...}
-{393}{}{Nazdar otrokáøi! Nepotøebuješ prùvodce?}
-{394}{}{Jules chce poøád volòásky.}
-{395}{}{Chceš se pomazlit, otrokáøi?}
-{396}{}{Rodiny prı maj mezi sebou zase nìjakı tøenice.}
-{397}{}{Kšefty stagnujou. U aby dorazila nìjaká karavana.}
-{398}{}{Take se pøevlíkl za páraèe a pak...}
-{399}{}{Potøebuju rozepnout šaty.}
-{400}{}{Zapneš mi šaty? A pak zase rozepneš?}
-{401}{}{Mmm-mmm. Vypadá to, e se blíí období páøení.}
-{402}{}{Potøebuješ pøítelkyni?}
-{403}{}{Minulej tejden jsem nakopala Julese do koulí.}
-{404}{}{Chceš si trochu uít, otrokáøi?}
-{405}{}{Neøíkají mi Paní Štìstìna jen tak pro nic za nic.}
-{406}{}{Miluju kondomy s pøíchutí brahmín.}
-{407}{}{Vyrazíme si spolu, otrokáøi?}
-{408}{}{Myron mì poøád otravuje, ale ty jeho prachy se hodí.}
-{409}{}{Jedinı co v ivotì potøebuješ najdeš tady.}
-{410}{}{Hledáš ráj? Tak to jseš na správnım místì.}
-{411}{}{Jestli máš prachy, otrokáøi, tak já mám èas.}
-{412}{}{Pomùeš mi? Hledám svı ztracenı panenství.}
-{413}{}{Sice jsem ještì panna, ale potøebuju peníze.}
-{414}{}{Buï nìnej, dneska je to poprvı.}
-{415}{}{Jsem hroznì nadrená.}
-{416}{}{Ty máš chu, já mám spásu.}
-{417}{}{Probudím v tobì duši dítìte.}
-{418}{}{Chceš si zaskotaèit, zlato?}
-{419}{}{Hledáš kde zakotvit?}
-{420}{}{Chceš mì slyšet sténat?}
+{349}{}{V KoÄiÄÃ­ Pacce to zaÄÃ­nÃ¡ pÄ›knÄ› vÅ™Ã­t...}
+{350}{}{Minulou noc jsem si zabÄ›hla maratÃ³n, kdyÅ¾ jsem utÃ­kala pÅ™ed Myronem...}
+{351}{}{HledÃ¡Å¡ nÄ›jakÃ½ vzrÅ¯Å¡o, otrokÃ¡Å™i?}
+{352}{}{Å lapu tenhle chodnÃ­k uÅ¾ od vÄera...}
+{353}{}{LÃ­bÃ­ se ti co vidÃ­Å¡, otrokÃ¡Å™i?}
+{354}{}{HledÃ¡Å¡ lÃ¡sku, otrokÃ¡Å™i?}
+{355}{}{Nazdar otrokÃ¡Å™i! PojÄ ke mnÄ›.}
+{356}{}{::HvÃ­zdÃ¡ na tebe::}
+{357}{}{ZÅ¯staneÅ¡ v Renu dlouho?}
+{358}{}{NesnÃ¡Å¡Ã­m Å¾uÅ¾lÃ¡nÃ­ koulÃ­.}
+{359}{}{NechceÅ¡ mÄ› Å¡oupnout zpÃ¡tky do svÃ½ klece, otrokÃ¡Å™i?}
+{360}{}{StaÄÃ­ pÃ¡r babek a mÃ¡Å¡ moji pozornost.}
+{361}{}{NefalÅ¡ovanÃ¡ New Reno lÃ¡ska, tady a teÄ.}
+{362}{}{PÄ›knÄ› si s tebou pohraju.}
+{363}{}{JÃ¡ jsem NechutnÃ¡ Spice.}
+{364}{}{JÃ¡ jsem DomÃ¡cÃ­ Spice.}
+{365}{}{JÃ¡ jsem Å lapka Spice.}
+{366}{}{JÃ¡ jsem Old Spice.}
+{367}{}{JÃ¡ jsem Syfilis... eh, Å lapka Spice.}
+{368}{}{JÃ¡ jsem OplzlÃ¡ Spice.}
+{369}{}{ZaprÃ¡Å¡enÃ­ kovbojovÃ©, to je pÅ™esnÄ› to, co hledÃ¡m.}
+{370}{}{MÅ¯Å¾u Å™Ã­ct kÃ¡moÅ¡ce jestli chceÅ¡ dvojitej orÃ¡l, otrokÃ¡Å™i.}
+{371}{}{PÅ™Ã¡la bych si, aby byl Myron teplej.}
+{372}{}{ÄŒerstvÃ½ maso ve mÄ›stÄ›...}
+{373}{}{To by mÄ› zajÃ­malo, proÄ se tomu Å™Ã­kÃ¡ ulice Panen...}
+{374}{}{DokÃ¡Å¾eÅ¡ svÃ½m penisem pÅ™ibÃ­t 6-ti palcovÃ½ hÅ™ebÃ­k?}
+{375}{}{NÄ›kdy si pÅ™eju, aby si dal pytel pÅ™es hlavu...}
+{376}{}{KoupÃ­Å¡ sleÄnÄ› pitÃ­, otrokÃ¡Å™i?}
+{377}{}{VezmeÅ¡ osamÄ›lou Å¾enu do mÄ›sta, otrokÃ¡Å™i?}
+{378}{}{PotÅ™ebujeÅ¡ pÅ™Ã­telkyni na noc, otrokÃ¡Å™i?}
+{379}{}{HledÃ¡Å¡ nÄ›jakÃ½ novÃ© zboÅ¾Ã­, otrokÃ¡Å™i?}
+{380}{}{PojÄ blÃ­Å¾, otrokÃ¡Å™i, a mÅ¯Å¾eme na to hupsnout...}
+{381}{}{SlyÅ¡ela jsem, Å¾e nÄ›kterÃ½ holky zabily svÃ½ho pasÃ¡ka.}
+{382}{}{NejkrÃ¡snÄ›jÅ¡Ã­ Å¾enskÃ¡ v pustinÄ›? To jsem jÃ¡...}
+{383}{}{DoufÃ¡m, Å¾e mÄ› Jules pÅ™estane otravovat.}
+{384}{}{PoÅ™Ã¡d mÃ¡m jeÅ¡tÄ› na zÃ¡dech tu odÅ™eninu od stolu...}
+{385}{}{Jsem jeÅ¡tÄ› utahanÃ¡ z toho minulÃ½ho sjezdu otrokÃ¡Å™Å¯...}
+{386}{}{PÅ™Ã¡la bych si, aby se ty otrokÃ¡Å™skÃ½ sjezdy konaly v jinÃ½m mÄ›stÄ›.}
+{387}{}{Myslela jsem, Å¾e cÃ­tÃ­m, jak se ZemÄ› pohnula, ale bylo to tÄ›ma fazolema k veÄeÅ™i.}
+{388}{}{ZahÅ™ej mÄ›.}
+{389}{}{JeÅ¡tÄ› chvÃ­li tu bude postÃ¡vat a odkrvÃ­ se mu ÃºplnÄ› mozek...}
+{390}{}{JÃ¡ se o tebe postarÃ¡m, otrokÃ¡Å™i.}
+{391}{}{Jsem jeÅ¡tÄ› panna, ale nejsem v tom moc dobrÃ¡.}
+{392}{}{Jules se snaÅ¾Ã­ prodÃ¡vat fet na DruhÃ½ ulici...}
+{393}{}{Nazdar otrokÃ¡Å™i! NepotÅ™ebujeÅ¡ prÅ¯vodce?}
+{394}{}{Jules chce poÅ™Ã¡d volÅˆÃ¡sky.}
+{395}{}{ChceÅ¡ se pomazlit, otrokÃ¡Å™i?}
+{396}{}{Rodiny prÃ½ maj mezi sebou zase nÄ›jakÃ½ tÅ™enice.}
+{397}{}{KÅ¡efty stagnujou. UÅ¾ aby dorazila nÄ›jakÃ¡ karavana.}
+{398}{}{TakÅ¾e se pÅ™evlÃ­kl za pÃ¡raÄe a pak...}
+{399}{}{PotÅ™ebuju rozepnout Å¡aty.}
+{400}{}{ZapneÅ¡ mi Å¡aty? A pak zase rozepneÅ¡?}
+{401}{}{Mmm-mmm. VypadÃ¡ to, Å¾e se blÃ­Å¾Ã­ obdobÃ­ pÃ¡Å™enÃ­.}
+{402}{}{PotÅ™ebujeÅ¡ pÅ™Ã­telkyni?}
+{403}{}{Minulej tejden jsem nakopala Julese do koulÃ­.}
+{404}{}{ChceÅ¡ si trochu uÅ¾Ã­t, otrokÃ¡Å™i?}
+{405}{}{NeÅ™Ã­kajÃ­ mi PanÃ­ Å tÄ›stÄ›na jen tak pro nic za nic.}
+{406}{}{Miluju kondomy s pÅ™Ã­chutÃ­ brahmÃ­n.}
+{407}{}{VyrazÃ­me si spolu, otrokÃ¡Å™i?}
+{408}{}{Myron mÄ› poÅ™Ã¡d otravuje, ale ty jeho prachy se hodÃ­.}
+{409}{}{JedinÃ½ co v Å¾ivotÄ› potÅ™ebujeÅ¡ najdeÅ¡ tady.}
+{410}{}{HledÃ¡Å¡ rÃ¡j? Tak to jseÅ¡ na sprÃ¡vnÃ½m mÃ­stÄ›.}
+{411}{}{Jestli mÃ¡Å¡ prachy, otrokÃ¡Å™i, tak jÃ¡ mÃ¡m Äas.}
+{412}{}{PomÅ¯Å¾eÅ¡ mi? HledÃ¡m svÃ½ ztracenÃ½ panenstvÃ­.}
+{413}{}{Sice jsem jeÅ¡tÄ› panna, ale potÅ™ebuju penÃ­ze.}
+{414}{}{BuÄ nÄ›Å¾nej, dneska je to poprvÃ½.}
+{415}{}{Jsem hroznÄ› nadrÅ¾enÃ¡.}
+{416}{}{Ty mÃ¡Å¡ chuÅ¥, jÃ¡ mÃ¡m spÃ¡su.}
+{417}{}{ProbudÃ­m v tobÄ› duÅ¡i dÃ­tÄ›te.}
+{418}{}{ChceÅ¡ si zaskotaÄit, zlato?}
+{419}{}{HledÃ¡Å¡ kde zakotvit?}
+{420}{}{ChceÅ¡ mÄ› slyÅ¡et stÃ©nat?}
 {421}{}{::Vrrrr::}
-{422}{}{::Špulí ústa::}
-{423}{}{::Posílá ti polibek::}
-{424}{}{Chceš si vrznout?}
-{425}{}{Nejsem sice levná, ale za to dìlám i speciality.}
-{426}{}{Svazování je za pøíplatek.}
-{427}{}{Kde jsem nechala svùj biè?}
-{428}{}{Staèí øíct a mùem jít na to.}
-{429}{}{Vèera veèer jsem se musela oblíknout jako WILMA.}
-{430}{}{Vèera jsem to dìlala s Myronem. Asi 5 sekund.}
-{431}{}{Ké by vynalezli nìjakı tìlovı oleje vonící po Jetu...}
-{432}{}{Zadek mi u málem upadl a Myron poøád nemìl dost.}
-{433}{}{Zase tu opruzovali ti blbci z Protialkoholickıho hnutí...}
-{434}{}{::Píská::}
-{435}{}{Garantuju ti, e jsem lepší ne ten Pip-Boy, co máš na ruce.}
-{436}{}{Chceš si uít, otrokáøi?}
-{437}{}{Radši bych to dìlala s Avellonem.}
-{438}{}{Škoda, e tu není Nick Kesting. Mohli jsme si povídat celı hodiny!}
-{439}{}{Nick Kesting je fakt prima chlapík. Bájeènì si spolu rozumíme.}
-{440}{}{Tommy Tvrïák je dokonalej.}
-{441}{}{Vida, vida. Koukejte, kdo to pøikvaèil do mìsta...}
-{442}{}{Vypadá to, e chceš zabít trochu nudy.}
+{422}{}{::Å pulÃ­ Ãºsta::}
+{423}{}{::PosÃ­lÃ¡ ti polibek::}
+{424}{}{ChceÅ¡ si vrznout?}
+{425}{}{Nejsem sice levnÃ¡, ale za to dÄ›lÃ¡m i speciality.}
+{426}{}{SvazovÃ¡nÃ­ je za pÅ™Ã­platek.}
+{427}{}{Kde jsem nechala svÅ¯j biÄ?}
+{428}{}{StaÄÃ­ Å™Ã­ct a mÅ¯Å¾em jÃ­t na to.}
+{429}{}{VÄera veÄer jsem se musela oblÃ­knout jako WILMA.}
+{430}{}{VÄera jsem to dÄ›lala s Myronem. Asi 5 sekund.}
+{431}{}{KÃ©Å¾ by vynalezli nÄ›jakÃ½ tÄ›lovÃ½ oleje vonÃ­cÃ­ po Jetu...}
+{432}{}{Zadek mi uÅ¾ mÃ¡lem upadl a Myron poÅ™Ã¡d nemÄ›l dost.}
+{433}{}{Zase tu opruzovali ti blbci z ProtialkoholickÃ½ho hnutÃ­...}
+{434}{}{::PÃ­skÃ¡::}
+{435}{}{Garantuju ti, Å¾e jsem lepÅ¡Ã­ neÅ¾ ten Pip-Boy, co mÃ¡Å¡ na ruce.}
+{436}{}{ChceÅ¡ si uÅ¾Ã­t, otrokÃ¡Å™i?}
+{437}{}{RadÅ¡i bych to dÄ›lala s Avellonem.}
+{438}{}{Å koda, Å¾e tu nenÃ­ Nick Kesting. Mohli jsme si povÃ­dat celÃ½ hodiny!}
+{439}{}{Nick Kesting je fakt prima chlapÃ­k. BÃ¡jeÄnÄ› si spolu rozumÃ­me.}
+{440}{}{Tommy TvrÄÃ¡k je dokonalej.}
+{441}{}{Vida, vida. Koukejte, kdo to pÅ™ikvaÄil do mÄ›sta...}
+{442}{}{VypadÃ¡ to, Å¾e chceÅ¡ zabÃ­t trochu nudy.}
 {443}{}{A hele! Turista!}
-{444}{}{Kousání je za pøíplatek.}
-{445}{}{Jmenuju se Povolná. A ty, otrokáøko?}
-{446}{}{Nazdar otrokáøko. Sháníš enskou?}
-{447}{}{Chceš zkusit jakı je to se enskou, zlato?}
-{448}{}{Potøebuješ "otrokyni" na veèer, otrokáøko?}
-{449}{}{Potøebuješ nìkoho, kdo tì v noci zahøeje, otrokáøko?}
-{450}{}{Potøebuješ nìkoho, kdo by ti zahøál postel, otrokáøko?}
-{451}{}{Chceš si zaskotaèit, otrokáøko?}
-{452}{}{Otrokáøko, dokud se nepomiluješ v New Renu, nevíš, co je to láska.}
-{453}{}{Chceš si zalítat, otrokáøko?}
-{454}{}{Zabloudila jsi, otrokáøko?}
-{455}{}{Hledáš potìšení, otrokáøko?}
-{456}{}{Nevìdìla jsem, e mají v Cechu otrokáøù i enskı...}
-{457}{}{Nemáš oheò, otrokáøko?}
-{458}{}{Ta otrokáøka je docela sexy.}
-{459}{}{Kdy vidím tu otrokáøku, zaène mi pípat mùj Geigerùv pøístroj.}
+{444}{}{KousÃ¡nÃ­ je za pÅ™Ã­platek.}
+{445}{}{Jmenuju se PovolnÃ¡. A ty, otrokÃ¡Å™ko?}
+{446}{}{Nazdar otrokÃ¡Å™ko. ShÃ¡nÃ­Å¡ Å¾enskou?}
+{447}{}{ChceÅ¡ zkusit jakÃ½ je to se Å¾enskou, zlato?}
+{448}{}{PotÅ™ebujeÅ¡ "otrokyni" na veÄer, otrokÃ¡Å™ko?}
+{449}{}{PotÅ™ebujeÅ¡ nÄ›koho, kdo tÄ› v noci zahÅ™eje, otrokÃ¡Å™ko?}
+{450}{}{PotÅ™ebujeÅ¡ nÄ›koho, kdo by ti zahÅ™Ã¡l postel, otrokÃ¡Å™ko?}
+{451}{}{ChceÅ¡ si zaskotaÄit, otrokÃ¡Å™ko?}
+{452}{}{OtrokÃ¡Å™ko, dokud se nepomilujeÅ¡ v New Renu, nevÃ­Å¡, co je to lÃ¡ska.}
+{453}{}{ChceÅ¡ si zalÃ­tat, otrokÃ¡Å™ko?}
+{454}{}{Zabloudila jsi, otrokÃ¡Å™ko?}
+{455}{}{HledÃ¡Å¡ potÄ›Å¡enÃ­, otrokÃ¡Å™ko?}
+{456}{}{NevÄ›dÄ›la jsem, Å¾e majÃ­ v Cechu otrokÃ¡Å™Å¯ i Å¾enskÃ½...}
+{457}{}{NemÃ¡Å¡ oheÅˆ, otrokÃ¡Å™ko?}
+{458}{}{Ta otrokÃ¡Å™ka je docela sexy.}
+{459}{}{KdyÅ¾ vidÃ­m tu otrokÃ¡Å™ku, zaÄne mi pÃ­pat mÅ¯j GeigerÅ¯v pÅ™Ã­stroj.}
 {460}{}{I guarantee I'm better in the sack than that robot following you around.}
-{461}{}{Je ten robot PLNÌ funkèní?}
-{462}{}{To je nìjakej hrací automat co za tebou poøád jezdí?}
-{463}{}{To je nìjakej novej hrací automat?}
-{464}{}{Umí ten tvùj robot nìjakı triky? Eh... myslím kouzelnı triky.}
-{465}{}{Øekni, e to není mutant.}
-{466}{}{Ten mutant bude za pøíplatek. VELKEJ pøíplatek.}
-{467}{}{A jéje, mutanti v New Renu. To vypadá na problém.}
+{461}{}{Je ten robot PLNÄš funkÄnÃ­?}
+{462}{}{To je nÄ›jakej hracÃ­ automat co za tebou poÅ™Ã¡d jezdÃ­?}
+{463}{}{To je nÄ›jakej novej hracÃ­ automat?}
+{464}{}{UmÃ­ ten tvÅ¯j robot nÄ›jakÃ½ triky? Eh... myslÃ­m kouzelnÃ½ triky.}
+{465}{}{Å˜ekni, Å¾e to nenÃ­ mutant.}
+{466}{}{Ten mutant bude za pÅ™Ã­platek. VELKEJ pÅ™Ã­platek.}
+{467}{}{A jÃ©je, mutanti v New Renu. To vypadÃ¡ na problÃ©m.}
 {468}{}{Ten mutant je fakt velkej.}
-{469}{}{Ten mutant vypadá, e by mì dokázal rozmaèkat jednou rukou. Hmmmnnn.}
-{470}{}{Ani nevím, kolik bych si mìla za mutanta úètovat.}
+{469}{}{Ten mutant vypadÃ¡, Å¾e by mÄ› dokÃ¡zal rozmaÄkat jednou rukou. Hmmmnnn.}
+{470}{}{Ani nevÃ­m, kolik bych si mÄ›la za mutanta ÃºÄtovat.}
 {471}{}{Ahoj Myrone!}
-{472}{}{Myrone! Zlato! Kdy se zase uvidíme, ty mùj èumáèku?}
+{472}{}{Myrone! Zlato! Kdy se zase uvidÃ­me, ty mÅ¯j ÄumÃ¡Äku?}
 {473}{}{My-ron. Myyyyyy-ron.}
-{474}{}{Myrone, kdo je ten tvùj roztomilej pøítel?}
-{475}{}{Myrone, zlato! Myrone! Nehledáš nìjakou zábavu?}
+{474}{}{Myrone, kdo je ten tvÅ¯j roztomilej pÅ™Ã­tel?}
+{475}{}{Myrone, zlato! Myrone! NehledÃ¡Å¡ nÄ›jakou zÃ¡bavu?}
 {476}{}{Jo-ho-ho! Myron!}
-{477}{}{Chybìl jsi mi, Myrone!}
-{478}{}{Myrone, jseš dokonalej. Teda, skoro.}
-{479}{}{Myrone, kdy se zase uvidíme?}
-{480}{}{Mùeš mi sehnat trochu Jetu, Myrone?}
-{481}{}{Kdy mi doneseš nìjakej Jet, Myrone?}
-{482}{}{Pomueš mi s lítáním, Myrone?}
-{483}{}{Jmenuju se Povolná. A ty?}
-{484}{}{Nepotøebuješ spoleènost?}
-{485}{}{Nauèím tì pár vìcí, kterı tì nauèí jenom ena.}
-{486}{}{Potøebuješ nìkoho, kdo tì v noci zahøeje?}
-{487}{}{Potøebuješ nìkoho, kdo by ti zahøál postel?}
-{488}{}{Zdá se, e máš v koulích pøetlak, kámo. Neulevíme jim spolu trochu?}
-{489}{}{Copak to máš v kalhotech za hada?}
-{490}{}{Hledáš povyraení?}
-{491}{}{Dokud se nepomiluješ v New Renu, nevíš, co je to láska.}
-{492}{}{Sháníš rande?}
-{493}{}{Slyšela jsem, e se nìco stalo v Obchodní ètvrti...}
-{494}{}{Hledáš spoleènost?}
-{495}{}{V poslední dobì je v Renu nejoblíbenìjším sportem kdo dál dostøíkne...}
-{496}{}{Chceš si zaskotaèit?}
-{497}{}{Zapomeò na automaty. Já ti nabídnu MNOHEM víc.}
-{498}{}{Nemùu uvìøit, kolik bylo striptérek na Feargusovì louèení se svobodou.}
-{499}{}{Zdá se, e máme ve mìstì dalšího cizince...}
-{500}{}{Dokáeš svım penisem pøibít 6-ti palcovı høebík?}
-{501}{}{Chceš si zalítat?}
-{502}{}{U dlouho jsem nevidìla ádnı karavany z Reddingu.}
-{503}{}{Pìknej klacek.}
-{504}{}{Pojï, já tì rozveselím, smutnı klaune.}
+{477}{}{ChybÄ›l jsi mi, Myrone!}
+{478}{}{Myrone, jseÅ¡ dokonalej. Teda, skoro.}
+{479}{}{Myrone, kdy se zase uvidÃ­me?}
+{480}{}{MÅ¯Å¾eÅ¡ mi sehnat trochu Jetu, Myrone?}
+{481}{}{Kdy mi doneseÅ¡ nÄ›jakej Jet, Myrone?}
+{482}{}{PomuÅ¾eÅ¡ mi s lÃ­tÃ¡nÃ­m, Myrone?}
+{483}{}{Jmenuju se PovolnÃ¡. A ty?}
+{484}{}{NepotÅ™ebujeÅ¡ spoleÄnost?}
+{485}{}{NauÄÃ­m tÄ› pÃ¡r vÄ›cÃ­, kterÃ½ tÄ› nauÄÃ­ jenom Å¾ena.}
+{486}{}{PotÅ™ebujeÅ¡ nÄ›koho, kdo tÄ› v noci zahÅ™eje?}
+{487}{}{PotÅ™ebujeÅ¡ nÄ›koho, kdo by ti zahÅ™Ã¡l postel?}
+{488}{}{ZdÃ¡ se, Å¾e mÃ¡Å¡ v koulÃ­ch pÅ™etlak, kÃ¡mo. NeulevÃ­me jim spolu trochu?}
+{489}{}{Copak to mÃ¡Å¡ v kalhotech za hada?}
+{490}{}{HledÃ¡Å¡ povyraÅ¾enÃ­?}
+{491}{}{Dokud se nepomilujeÅ¡ v New Renu, nevÃ­Å¡, co je to lÃ¡ska.}
+{492}{}{ShÃ¡nÃ­Å¡ rande?}
+{493}{}{SlyÅ¡ela jsem, Å¾e se nÄ›co stalo v ObchodnÃ­ Ätvrti...}
+{494}{}{HledÃ¡Å¡ spoleÄnost?}
+{495}{}{V poslednÃ­ dobÄ› je v Renu nejoblÃ­benÄ›jÅ¡Ã­m sportem kdo dÃ¡l dostÅ™Ã­kne...}
+{496}{}{ChceÅ¡ si zaskotaÄit?}
+{497}{}{ZapomeÅˆ na automaty. JÃ¡ ti nabÃ­dnu MNOHEM vÃ­c.}
+{498}{}{NemÅ¯Å¾u uvÄ›Å™it, kolik bylo striptÃ©rek na FeargusovÄ› louÄenÃ­ se svobodou.}
+{499}{}{ZdÃ¡ se, Å¾e mÃ¡me ve mÄ›stÄ› dalÅ¡Ã­ho cizince...}
+{500}{}{DokÃ¡Å¾eÅ¡ svÃ½m penisem pÅ™ibÃ­t 6-ti palcovÃ½ hÅ™ebÃ­k?}
+{501}{}{ChceÅ¡ si zalÃ­tat?}
+{502}{}{UÅ¾ dlouho jsem nevidÄ›la Å¾Ã¡dnÃ½ karavany z Reddingu.}
+{503}{}{PÄ›knej klacek.}
+{504}{}{PojÄ, jÃ¡ tÄ› rozveselÃ­m, smutnÃ½ klaune.}
 {505}{}{Zabloudil jsi, kovboji?}
-{506}{}{Potøebuješ uvolnit trochu napìtí, vojáèku?}
-{507}{}{Tenhle chlap by dokázal rozhavit i elezo.}
-{508}{}{Tolik nadrencù a tak málo èasu.}
-{509}{}{Tuhle ulici šlapu u od vèerejšího veèera...}
-{510}{}{Potøebuješ spoleènost na veèer? Nebo tøeba jen na deset minut?}
-{511}{}{Hledáš potìšení?}
-{512}{}{Chceš si trochu uít?}
-{513}{}{Líbí se mi tvoje ještìrka.}
-{514}{}{Ty máš v kapse ještìrku?}
-{515}{}{Nepotøebuješ prùvodce, zlato?}
-{516}{}{Nemáš oheò?}
-{517}{}{Pojï chlapèe, udìlám z tebe mue.}
-{518}{}{Obèas mì uráí, k èemu jsou eny v tomhle mìstì navrené.}
-{519}{}{Zahrajeme si na páraèe v dobì páøení?}
-{520}{}{Kdy vidím toho chlapa, zaène mi pípat mùj Geigerùv pøístroj.}
-{521}{}{Jestli chceš, abych si s tebou potom povídala, tak si musíš pøiplatit.}
-{522}{}{Mùu ti s nìèím pomoct, cizinèe?}
-{523}{}{Dokud se nepomiluješ v New Renu, nevíš, co je to láska.}
-{524}{}{Ten tvùj pøítel s tou velkou kostí v nose... to je dobrej šašek.}
-{525}{}{Umí ten tvùj pøítel s tou kostí nìjakı kousky s nosem?}
-{526}{}{Moná bych si taky mìla do nosu strèit kost. Mohlo by to pøilákat zákaznice.}
-{527}{}{Jeišikriste, ta kost, co má ten chlap v nose, je velká jako moje ruka.}
-{528}{}{Radši ani nechci vìdìt jak si tam ten chlap tu kost nacpal.}
-{529}{}{Pro koho tvùj pøítel s tou kostí v nosu šlape?}
-{530}{}{Kolik si úètuje ten tvùj kámoš s kostí v nose?}
-{531}{}{Za tøicet doláèù tvımu kámošovi tu kost v nose vykouøím...}
-{532}{}{Ten tvùj pøítel si tou kostí v nose kompenzuje nìjakej komplex?}
-{533}{}{Koneènì jsem si poøídila vycpanou pelest.}
-{534}{}{Chceš okusit ráj? To bude za deset babek.}
-{535}{}{Myron: Spousta povyku, ale ádnı èiny.}
-{536}{}{Myron je hroznej òouma.}
-{537}{}{AC-DC, B n' D, vdy je to fuk.}
-{538}{}{Co si myslí, e jako udìlám? e mu ho vykouøím?}
-{539}{}{Jestli s tím nìkdo nìco neudìlá, tak ta cedule New Reno na nìkoho brzo slítne...}
-{540}{}{Ta Bishopova holka je úplná nymfomanka.}
+{506}{}{PotÅ™ebujeÅ¡ uvolnit trochu napÄ›tÃ­, vojÃ¡Äku?}
+{507}{}{Tenhle chlap by dokÃ¡zal rozÅ¾havit i Å¾elezo.}
+{508}{}{Tolik nadrÅ¾encÅ¯ a tak mÃ¡lo Äasu.}
+{509}{}{Tuhle ulici Å¡lapu uÅ¾ od vÄerejÅ¡Ã­ho veÄera...}
+{510}{}{PotÅ™ebujeÅ¡ spoleÄnost na veÄer? Nebo tÅ™eba jen na deset minut?}
+{511}{}{HledÃ¡Å¡ potÄ›Å¡enÃ­?}
+{512}{}{ChceÅ¡ si trochu uÅ¾Ã­t?}
+{513}{}{LÃ­bÃ­ se mi tvoje jeÅ¡tÄ›rka.}
+{514}{}{Ty mÃ¡Å¡ v kapse jeÅ¡tÄ›rku?}
+{515}{}{NepotÅ™ebujeÅ¡ prÅ¯vodce, zlato?}
+{516}{}{NemÃ¡Å¡ oheÅˆ?}
+{517}{}{PojÄ chlapÄe, udÄ›lÃ¡m z tebe muÅ¾e.}
+{518}{}{ObÄas mÄ› urÃ¡Å¾Ã­, k Äemu jsou Å¾eny v tomhle mÄ›stÄ› navrÅ¾enÃ©.}
+{519}{}{Zahrajeme si na pÃ¡raÄe v dobÄ› pÃ¡Å™enÃ­?}
+{520}{}{KdyÅ¾ vidÃ­m toho chlapa, zaÄne mi pÃ­pat mÅ¯j GeigerÅ¯v pÅ™Ã­stroj.}
+{521}{}{Jestli chceÅ¡, abych si s tebou potom povÃ­dala, tak si musÃ­Å¡ pÅ™iplatit.}
+{522}{}{MÅ¯Å¾u ti s nÄ›ÄÃ­m pomoct, cizinÄe?}
+{523}{}{Dokud se nepomilujeÅ¡ v New Renu, nevÃ­Å¡, co je to lÃ¡ska.}
+{524}{}{Ten tvÅ¯j pÅ™Ã­tel s tou velkou kostÃ­ v nose... to je dobrej Å¡aÅ¡ek.}
+{525}{}{UmÃ­ ten tvÅ¯j pÅ™Ã­tel s tou kostÃ­ nÄ›jakÃ½ kousky s nosem?}
+{526}{}{MoÅ¾nÃ¡ bych si taky mÄ›la do nosu strÄit kost. Mohlo by to pÅ™ilÃ¡kat zÃ¡kaznice.}
+{527}{}{JeÅ¾iÅ¡ikriste, ta kost, co mÃ¡ ten chlap v nose, je velkÃ¡ jako moje ruka.}
+{528}{}{RadÅ¡i ani nechci vÄ›dÄ›t jak si tam ten chlap tu kost nacpal.}
+{529}{}{Pro koho tvÅ¯j pÅ™Ã­tel s tou kostÃ­ v nosu Å¡lape?}
+{530}{}{Kolik si ÃºÄtuje ten tvÅ¯j kÃ¡moÅ¡ s kostÃ­ v nose?}
+{531}{}{Za tÅ™icet dolÃ¡ÄÅ¯ tvÃ½mu kÃ¡moÅ¡ovi tu kost v nose vykouÅ™Ã­m...}
+{532}{}{Ten tvÅ¯j pÅ™Ã­tel si tou kostÃ­ v nose kompenzuje nÄ›jakej komplex?}
+{533}{}{KoneÄnÄ› jsem si poÅ™Ã­dila vycpanou pelest.}
+{534}{}{ChceÅ¡ okusit rÃ¡j? To bude za deset babek.}
+{535}{}{Myron: Spousta povyku, ale Å¾Ã¡dnÃ½ Äiny.}
+{536}{}{Myron je hroznej Åˆouma.}
+{537}{}{AC-DC, B n' D, vÅ¾dyÅ¥ je to fuk.}
+{538}{}{Co si myslÃ­, Å¾e jako udÄ›lÃ¡m? Å½e mu ho vykouÅ™Ã­m?}
+{539}{}{Jestli s tÃ­m nÄ›kdo nÄ›co neudÄ›lÃ¡, tak ta cedule New Reno na nÄ›koho brzo slÃ­tne...}
+{540}{}{Ta Bishopova holka je ÃºplnÃ¡ nymfomanka.}
 {541}{}{She ain't no Jet addict, she's a BONE addict.}
-{542}{}{Ve Vault City maj prej jenom dva typy Obèanù. Asi došlo k nìjakı nehodì pøi klonování.}
-{543}{}{Cítím se jako kdybych minulou noc ubìhla maratón...}
-{544}{}{Hledáš lásku, zlato?}
-{545}{}{Ké by Myron odešel pryè. Nìkam hodnì daleko.}
-{546}{}{Splním ti COKOLIV budeš chtít... pokud na to budeš mít prachy.}
-{547}{}{Já mùu tøeba hned, zlato. A co ty?}
-{548}{}{::Hvízdá na tebe::}
-{549}{}{Nesnáším ulání koulí.}
+{542}{}{Ve Vault City maj prej jenom dva typy ObÄanÅ¯. Asi doÅ¡lo k nÄ›jakÃ½ nehodÄ› pÅ™i klonovÃ¡nÃ­.}
+{543}{}{CÃ­tÃ­m se jako kdybych minulou noc ubÄ›hla maratÃ³n...}
+{544}{}{HledÃ¡Å¡ lÃ¡sku, zlato?}
+{545}{}{KÃ©Å¾ by Myron odeÅ¡el pryÄ. NÄ›kam hodnÄ› daleko.}
+{546}{}{SplnÃ­m ti COKOLIV budeÅ¡ chtÃ­t... pokud na to budeÅ¡ mÃ­t prachy.}
+{547}{}{JÃ¡ mÅ¯Å¾u tÅ™eba hned, zlato. A co ty?}
+{548}{}{::HvÃ­zdÃ¡ na tebe::}
+{549}{}{NesnÃ¡Å¡Ã­m Å¾uÅ¾lÃ¡nÃ­ koulÃ­.}
 {550}{}{Zkus to se mnou, zlato.}
-{551}{}{Hledáš potìšení?}
-{552}{}{Nefalšovaná New Reno láska, tady a teï.}
-{553}{}{Pìknì si s tebou pohraju.}
-{554}{}{Já jsem Nechutná Spice.}
-{555}{}{Já jsem Domácí Spice.}
-{556}{}{Já jsem Šlapka Spice.}
-{557}{}{Já jsem Old Spice.}
-{558}{}{Já jsem Syfilis... eh, Šlapka Spice.}
-{559}{}{Já jsem Oplzlá Spice.}
-{560}{}{Zaprášení kovbojové, to je pøesnì to, co hledám.}
-{561}{}{Mùu øíct kámošce jestli chceš dvojitej orál.}
-{562}{}{Pøála bych si, aby byl Myron teplej.}
-{563}{}{Èerstvı maso ve mìstì...}
-{564}{}{To by mì zajímalo, proè se tomu øíká ulice Panen...}
-{565}{}{Nìkdy si pøeju, aby si dal pytel pøes hlavu...}
-{566}{}{Koupíš sleènì pití?}
-{567}{}{Vezmeš osamìlou enu do mìsta?}
+{551}{}{HledÃ¡Å¡ potÄ›Å¡enÃ­?}
+{552}{}{NefalÅ¡ovanÃ¡ New Reno lÃ¡ska, tady a teÄ.}
+{553}{}{PÄ›knÄ› si s tebou pohraju.}
+{554}{}{JÃ¡ jsem NechutnÃ¡ Spice.}
+{555}{}{JÃ¡ jsem DomÃ¡cÃ­ Spice.}
+{556}{}{JÃ¡ jsem Å lapka Spice.}
+{557}{}{JÃ¡ jsem Old Spice.}
+{558}{}{JÃ¡ jsem Syfilis... eh, Å lapka Spice.}
+{559}{}{JÃ¡ jsem OplzlÃ¡ Spice.}
+{560}{}{ZaprÃ¡Å¡enÃ­ kovbojovÃ©, to je pÅ™esnÄ› to, co hledÃ¡m.}
+{561}{}{MÅ¯Å¾u Å™Ã­ct kÃ¡moÅ¡ce jestli chceÅ¡ dvojitej orÃ¡l.}
+{562}{}{PÅ™Ã¡la bych si, aby byl Myron teplej.}
+{563}{}{ÄŒerstvÃ½ maso ve mÄ›stÄ›...}
+{564}{}{To by mÄ› zajÃ­malo, proÄ se tomu Å™Ã­kÃ¡ ulice Panen...}
+{565}{}{NÄ›kdy si pÅ™eju, aby si dal pytel pÅ™es hlavu...}
+{566}{}{KoupÃ­Å¡ sleÄnÄ› pitÃ­?}
+{567}{}{VezmeÅ¡ osamÄ›lou Å¾enu do mÄ›sta?}
 {568}{}{A hele! Turista!}
-{569}{}{Pojï blí, zlato, a mùeme na to hupsnout...}
-{570}{}{Slyšela jsem, e nìkterı holky zabily svıho pasáka.}
-{571}{}{Nazdar cizinèe.}
-{572}{}{Doufám, e mì Jules pøestane otravovat.}
-{573}{}{Poøád mám ještì na zádech tu odøeninu od stolu...}
-{574}{}{Jsem ještì utahaná z toho minulıho sjezdu otrokáøù...}
-{575}{}{Pøála bych si, aby ti divoši odtáhli do jinıho mìsta.}
-{576}{}{Myslela jsem, e cítím, jak se Zemì pohnula, ale bylo to tìma fazolema k veèeøi.}
-{577}{}{Zahøej mì.}
-{578}{}{Ještì chvíli tu bude postávat a odkrví se mu úplnì mozek...}
-{579}{}{Z toho bzuèení neonu u úplnì šílím...}
-{580}{}{Jsem ještì panna, ale nejsem v tom moc dobrá.}
-{581}{}{Kdy si pomyslím, e jsem kvùli tomuhle odešla z Denu...}
-{582}{}{Nazdar cizinèe! Nepotøebuješ prùvodkyni?}
-{583}{}{Jules chce poøád volòásky.}
-{584}{}{Rodiny prı maj mezi sebou zase nìjakı tøenice.}
-{585}{}{Kšefty stagnujou. U aby dorazila nìjaká karavana.}
-{586}{}{Take se pøevlíkl za páraèe a pak...}
-{587}{}{Potøebuju rozepnout šaty.}
-{588}{}{Zapneš mi šaty? A pak zase rozepneš?}
-{589}{}{Mmm-mmm. Vypadá to, e se blíí období páøení.}
-{590}{}{Nechceš zabít trochu nudy?}
-{591}{}{Minulej tejden jsem nakopala Julese do koulí.}
-{592}{}{Neøíkají mi Paní Štìstìna jen tak pro nic za nic.}
-{593}{}{Miluju kondomy s pøíchutí brahmín.}
-{594}{}{Vyrazíme si spolu?}
-{595}{}{Ké by tak pro Myrona vynalezli nìjakı sexuální placebo.}
-{596}{}{Nechceš jít se mnou na rande, divochu?}
-{597}{}{Chceš si zadovádìt, divochu?}
-{598}{}{Nechceš si zatancovat váleènej tanec v mı lonici, divochu?}
-{599}{}{Jedinı co potøebuješ je jedna noc se mnou.}
-{600}{}{Hledáš rajskou zahradu? Tak pojï se mnou do lonice.}
-{601}{}{Ty máš prachy, já mám èas.}
-{602}{}{Pomùeš mi? Hledám svı ztracenı panenství.}
-{603}{}{Sice jsem ještì panna, ale potøebuju peníze.}
-{604}{}{Buï nìnej, dneska je to poprvı.}
-{605}{}{Jsem hroznì nadrená.}
-{606}{}{Ty máš chu, já mám spásu.}
-{607}{}{Probudím v tobì duši dítìte.}
-{608}{}{Chceš si zaskotaèit, zlato?}
-{609}{}{Hledáš kde zakotvit?}
-{610}{}{Chceš mì slyšet sténat?}
+{569}{}{PojÄ blÃ­Å¾, zlato, a mÅ¯Å¾eme na to hupsnout...}
+{570}{}{SlyÅ¡ela jsem, Å¾e nÄ›kterÃ½ holky zabily svÃ½ho pasÃ¡ka.}
+{571}{}{Nazdar cizinÄe.}
+{572}{}{DoufÃ¡m, Å¾e mÄ› Jules pÅ™estane otravovat.}
+{573}{}{PoÅ™Ã¡d mÃ¡m jeÅ¡tÄ› na zÃ¡dech tu odÅ™eninu od stolu...}
+{574}{}{Jsem jeÅ¡tÄ› utahanÃ¡ z toho minulÃ½ho sjezdu otrokÃ¡Å™Å¯...}
+{575}{}{PÅ™Ã¡la bych si, aby ti divoÅ¡i odtÃ¡hli do jinÃ½ho mÄ›sta.}
+{576}{}{Myslela jsem, Å¾e cÃ­tÃ­m, jak se ZemÄ› pohnula, ale bylo to tÄ›ma fazolema k veÄeÅ™i.}
+{577}{}{ZahÅ™ej mÄ›.}
+{578}{}{JeÅ¡tÄ› chvÃ­li tu bude postÃ¡vat a odkrvÃ­ se mu ÃºplnÄ› mozek...}
+{579}{}{Z toho bzuÄenÃ­ neonu uÅ¾ ÃºplnÄ› Å¡Ã­lÃ­m...}
+{580}{}{Jsem jeÅ¡tÄ› panna, ale nejsem v tom moc dobrÃ¡.}
+{581}{}{KdyÅ¾ si pomyslÃ­m, Å¾e jsem kvÅ¯li tomuhle odeÅ¡la z Denu...}
+{582}{}{Nazdar cizinÄe! NepotÅ™ebujeÅ¡ prÅ¯vodkyni?}
+{583}{}{Jules chce poÅ™Ã¡d volÅˆÃ¡sky.}
+{584}{}{Rodiny prÃ½ maj mezi sebou zase nÄ›jakÃ½ tÅ™enice.}
+{585}{}{KÅ¡efty stagnujou. UÅ¾ aby dorazila nÄ›jakÃ¡ karavana.}
+{586}{}{TakÅ¾e se pÅ™evlÃ­kl za pÃ¡raÄe a pak...}
+{587}{}{PotÅ™ebuju rozepnout Å¡aty.}
+{588}{}{ZapneÅ¡ mi Å¡aty? A pak zase rozepneÅ¡?}
+{589}{}{Mmm-mmm. VypadÃ¡ to, Å¾e se blÃ­Å¾Ã­ obdobÃ­ pÃ¡Å™enÃ­.}
+{590}{}{NechceÅ¡ zabÃ­t trochu nudy?}
+{591}{}{Minulej tejden jsem nakopala Julese do koulÃ­.}
+{592}{}{NeÅ™Ã­kajÃ­ mi PanÃ­ Å tÄ›stÄ›na jen tak pro nic za nic.}
+{593}{}{Miluju kondomy s pÅ™Ã­chutÃ­ brahmÃ­n.}
+{594}{}{VyrazÃ­me si spolu?}
+{595}{}{KÃ©Å¾ by tak pro Myrona vynalezli nÄ›jakÃ½ sexuÃ¡lnÃ­ placebo.}
+{596}{}{NechceÅ¡ jÃ­t se mnou na rande, divochu?}
+{597}{}{ChceÅ¡ si zadovÃ¡dÄ›t, divochu?}
+{598}{}{NechceÅ¡ si zatancovat vÃ¡leÄnej tanec v mÃ½ loÅ¾nici, divochu?}
+{599}{}{JedinÃ½ co potÅ™ebujeÅ¡ je jedna noc se mnou.}
+{600}{}{HledÃ¡Å¡ rajskou zahradu? Tak pojÄ se mnou do loÅ¾nice.}
+{601}{}{Ty mÃ¡Å¡ prachy, jÃ¡ mÃ¡m Äas.}
+{602}{}{PomÅ¯Å¾eÅ¡ mi? HledÃ¡m svÃ½ ztracenÃ½ panenstvÃ­.}
+{603}{}{Sice jsem jeÅ¡tÄ› panna, ale potÅ™ebuju penÃ­ze.}
+{604}{}{BuÄ nÄ›Å¾nej, dneska je to poprvÃ½.}
+{605}{}{Jsem hroznÄ› nadrÅ¾enÃ¡.}
+{606}{}{Ty mÃ¡Å¡ chuÅ¥, jÃ¡ mÃ¡m spÃ¡su.}
+{607}{}{ProbudÃ­m v tobÄ› duÅ¡i dÃ­tÄ›te.}
+{608}{}{ChceÅ¡ si zaskotaÄit, zlato?}
+{609}{}{HledÃ¡Å¡ kde zakotvit?}
+{610}{}{ChceÅ¡ mÄ› slyÅ¡et stÃ©nat?}
 {611}{}{::Vrrrr::}
-{612}{}{::Špulí ústa::}
-{613}{}{::Posílá ti polibek::}
-{614}{}{Jsem vzhùru od vèerejšího veèera...}
-{615}{}{Nejsem sice levná, ale za to dìlám i speciality.}
-{616}{}{Svazování je za pøíplatek.}
-{617}{}{Kde jsem nechala svùj biè?}
-{618}{}{Staèí øíct a mùem jít na to.}
-{619}{}{Vèera veèer jsem se musela oblíknout jako WILMA.}
-{620}{}{Vèera jsem to dìlala s Myronem. Asi 5 sekund.}
-{621}{}{Potøebuješ vyprázdnit nádr?}
-{622}{}{Ké by vynalezli nìjakı tìlovı oleje vonící po Jetu...}
-{623}{}{Pomùeš pannì zbavit se svıho panenství?}
-{624}{}{Zadek mi u málem upadl a Myron poøád nemìl dost.}
-{625}{}{Zase tu opruzovali ti blbci z Protialkoholickıho hnutí...}
-{626}{}{::Píská::}
-{627}{}{Kousání je za pøíplatek.}
-{628}{}{Garantuju ti, e jsem lepší ne ten Pip-Boy, co máš na ruce.}
-{629}{}{Chceš si uít?}
-{630}{}{Radši bych to dìlala s Avellonem.}
-{631}{}{Škoda, e tu není Nick Kesting. Mohli jsme si povídat celı hodiny!}
-{632}{}{Nick Kesting je fakt prima chlapík. Bájeènì si spolu rozumíme.}
-{633}{}{Tommy Tvrïák je dokonalej.}
-{634}{}{Vida, vida. Koukejte, kdo to pøikvaèil do mìsta...}
-{635}{}{Hledáš rajskou zahradu? Tak pojï se mnou do lonice.}
+{612}{}{::Å pulÃ­ Ãºsta::}
+{613}{}{::PosÃ­lÃ¡ ti polibek::}
+{614}{}{Jsem vzhÅ¯ru od vÄerejÅ¡Ã­ho veÄera...}
+{615}{}{Nejsem sice levnÃ¡, ale za to dÄ›lÃ¡m i speciality.}
+{616}{}{SvazovÃ¡nÃ­ je za pÅ™Ã­platek.}
+{617}{}{Kde jsem nechala svÅ¯j biÄ?}
+{618}{}{StaÄÃ­ Å™Ã­ct a mÅ¯Å¾em jÃ­t na to.}
+{619}{}{VÄera veÄer jsem se musela oblÃ­knout jako WILMA.}
+{620}{}{VÄera jsem to dÄ›lala s Myronem. Asi 5 sekund.}
+{621}{}{PotÅ™ebujeÅ¡ vyprÃ¡zdnit nÃ¡drÅ¾?}
+{622}{}{KÃ©Å¾ by vynalezli nÄ›jakÃ½ tÄ›lovÃ½ oleje vonÃ­cÃ­ po Jetu...}
+{623}{}{PomÅ¯Å¾eÅ¡ pannÄ› zbavit se svÃ½ho panenstvÃ­?}
+{624}{}{Zadek mi uÅ¾ mÃ¡lem upadl a Myron poÅ™Ã¡d nemÄ›l dost.}
+{625}{}{Zase tu opruzovali ti blbci z ProtialkoholickÃ½ho hnutÃ­...}
+{626}{}{::PÃ­skÃ¡::}
+{627}{}{KousÃ¡nÃ­ je za pÅ™Ã­platek.}
+{628}{}{Garantuju ti, Å¾e jsem lepÅ¡Ã­ neÅ¾ ten Pip-Boy, co mÃ¡Å¡ na ruce.}
+{629}{}{ChceÅ¡ si uÅ¾Ã­t?}
+{630}{}{RadÅ¡i bych to dÄ›lala s Avellonem.}
+{631}{}{Å koda, Å¾e tu nenÃ­ Nick Kesting. Mohli jsme si povÃ­dat celÃ½ hodiny!}
+{632}{}{Nick Kesting je fakt prima chlapÃ­k. BÃ¡jeÄnÄ› si spolu rozumÃ­me.}
+{633}{}{Tommy TvrÄÃ¡k je dokonalej.}
+{634}{}{Vida, vida. Koukejte, kdo to pÅ™ikvaÄil do mÄ›sta...}
+{635}{}{HledÃ¡Å¡ rajskou zahradu? Tak pojÄ se mnou do loÅ¾nice.}
 {636}{}{Zkus to se mnou, zlato.}
-{637}{}{Jmenuju se Povolná, holka. A ty?}
-{638}{}{Nazdar fešando. Sháníš enskou?}
-{639}{}{Chceš zkusit jakı je to se enskou, zlato?}
-{640}{}{Nepotøebuješ spoleènost?}
-{641}{}{Holka, nauèím tì pár vìcí, kterı tì nauèí jenom ena.}
-{642}{}{Potøebuješ nìkoho, kdo tì v noci zahøeje, holka?}
-{643}{}{Potøebuješ nìkoho, kdo by ti zahøál postel, holka?}
-{644}{}{Chceš si zaskotaèit, holka?}
-{645}{}{Zapomeò na automaty, holka. Já ti nabídnu MNOHEM víc.}
-{646}{}{Holka, dokud se nepomiluješ v New Renu, nevíš, co je to láska.}
-{647}{}{Chceš si zalítat, holka?}
-{648}{}{Zabloudila jsi, kotì?}
-{649}{}{Potøebuješ uvolnit trochu napìtí, G.I. Jane?}
-{650}{}{Hledáš potìšení, holka?}
-{651}{}{Chceš si trochu uít, holka?}
-{652}{}{Nepotøebuješ prùvodce, zlato?}
-{653}{}{Nemáš oheò, holka?}
-{654}{}{Kdy vidím tu enskou, zaène mi pípat mùj Geigerùv pøístroj.}
-{655}{}{Jmenuju se Povolná. A ty?}
-{656}{}{Nepotøebuješ spoleènost?}
-{657}{}{Nauèím tì pár vìcí, kterı tì nauèí jenom ena.}
-{658}{}{Potøebuješ nìkoho, kdo tì v noci zahøeje?}
-{659}{}{Potøebuješ nìkoho, kdo by ti zahøál postel?}
-{660}{}{Zdá se, e máš v koulích pøetlak, kámo. Neulevíme jim spolu trochu?}
-{661}{}{Copak to máš v kalhotech za hada?}
-{662}{}{Hledáš povyraení?}
-{663}{}{Dokud se nepomiluješ v New Renu, nevíš, co je to láska.}
-{664}{}{Sháníš rande?}
-{665}{}{Slyšela jsem, e se nìco stalo v Obchodní ètvrti...}
-{666}{}{Hledáš spoleènost?}
-{667}{}{V poslední dobì je v Renu nejoblíbenìjším sportem kdo dál dostøíkne...}
-{668}{}{Chceš si zaskotaèit?}
-{669}{}{Zapomeò na automaty. Já ti nabídnu MNOHEM víc.}
-{670}{}{Nemùu uvìøit, kolik bylo striptérek na Feargusovì louèení se svobodou.}
-{671}{}{Zdá se, e máme ve mìstì dalšího cizince...}
-{672}{}{Dokáeš svım penisem pøibít 6-ti palcovı høebík?}
-{673}{}{Chceš si zalítat?}
-{674}{}{U dlouho jsem nevidìla ádnı karavany z Reddingu...}
-{675}{}{Pìknej klacek.}
-{676}{}{Pojï, já tì rozveselím, smutnı klaune.}
+{637}{}{Jmenuju se PovolnÃ¡, holka. A ty?}
+{638}{}{Nazdar feÅ¡ando. ShÃ¡nÃ­Å¡ Å¾enskou?}
+{639}{}{ChceÅ¡ zkusit jakÃ½ je to se Å¾enskou, zlato?}
+{640}{}{NepotÅ™ebujeÅ¡ spoleÄnost?}
+{641}{}{Holka, nauÄÃ­m tÄ› pÃ¡r vÄ›cÃ­, kterÃ½ tÄ› nauÄÃ­ jenom Å¾ena.}
+{642}{}{PotÅ™ebujeÅ¡ nÄ›koho, kdo tÄ› v noci zahÅ™eje, holka?}
+{643}{}{PotÅ™ebujeÅ¡ nÄ›koho, kdo by ti zahÅ™Ã¡l postel, holka?}
+{644}{}{ChceÅ¡ si zaskotaÄit, holka?}
+{645}{}{ZapomeÅˆ na automaty, holka. JÃ¡ ti nabÃ­dnu MNOHEM vÃ­c.}
+{646}{}{Holka, dokud se nepomilujeÅ¡ v New Renu, nevÃ­Å¡, co je to lÃ¡ska.}
+{647}{}{ChceÅ¡ si zalÃ­tat, holka?}
+{648}{}{Zabloudila jsi, kotÄ›?}
+{649}{}{PotÅ™ebujeÅ¡ uvolnit trochu napÄ›tÃ­, G.I. Jane?}
+{650}{}{HledÃ¡Å¡ potÄ›Å¡enÃ­, holka?}
+{651}{}{ChceÅ¡ si trochu uÅ¾Ã­t, holka?}
+{652}{}{NepotÅ™ebujeÅ¡ prÅ¯vodce, zlato?}
+{653}{}{NemÃ¡Å¡ oheÅˆ, holka?}
+{654}{}{KdyÅ¾ vidÃ­m tu Å¾enskou, zaÄne mi pÃ­pat mÅ¯j GeigerÅ¯v pÅ™Ã­stroj.}
+{655}{}{Jmenuju se PovolnÃ¡. A ty?}
+{656}{}{NepotÅ™ebujeÅ¡ spoleÄnost?}
+{657}{}{NauÄÃ­m tÄ› pÃ¡r vÄ›cÃ­, kterÃ½ tÄ› nauÄÃ­ jenom Å¾ena.}
+{658}{}{PotÅ™ebujeÅ¡ nÄ›koho, kdo tÄ› v noci zahÅ™eje?}
+{659}{}{PotÅ™ebujeÅ¡ nÄ›koho, kdo by ti zahÅ™Ã¡l postel?}
+{660}{}{ZdÃ¡ se, Å¾e mÃ¡Å¡ v koulÃ­ch pÅ™etlak, kÃ¡mo. NeulevÃ­me jim spolu trochu?}
+{661}{}{Copak to mÃ¡Å¡ v kalhotech za hada?}
+{662}{}{HledÃ¡Å¡ povyraÅ¾enÃ­?}
+{663}{}{Dokud se nepomilujeÅ¡ v New Renu, nevÃ­Å¡, co je to lÃ¡ska.}
+{664}{}{ShÃ¡nÃ­Å¡ rande?}
+{665}{}{SlyÅ¡ela jsem, Å¾e se nÄ›co stalo v ObchodnÃ­ Ätvrti...}
+{666}{}{HledÃ¡Å¡ spoleÄnost?}
+{667}{}{V poslednÃ­ dobÄ› je v Renu nejoblÃ­benÄ›jÅ¡Ã­m sportem kdo dÃ¡l dostÅ™Ã­kne...}
+{668}{}{ChceÅ¡ si zaskotaÄit?}
+{669}{}{ZapomeÅˆ na automaty. JÃ¡ ti nabÃ­dnu MNOHEM vÃ­c.}
+{670}{}{NemÅ¯Å¾u uvÄ›Å™it, kolik bylo striptÃ©rek na FeargusovÄ› louÄenÃ­ se svobodou.}
+{671}{}{ZdÃ¡ se, Å¾e mÃ¡me ve mÄ›stÄ› dalÅ¡Ã­ho cizince...}
+{672}{}{DokÃ¡Å¾eÅ¡ svÃ½m penisem pÅ™ibÃ­t 6-ti palcovÃ½ hÅ™ebÃ­k?}
+{673}{}{ChceÅ¡ si zalÃ­tat?}
+{674}{}{UÅ¾ dlouho jsem nevidÄ›la Å¾Ã¡dnÃ½ karavany z Reddingu...}
+{675}{}{PÄ›knej klacek.}
+{676}{}{PojÄ, jÃ¡ tÄ› rozveselÃ­m, smutnÃ½ klaune.}
 {677}{}{Zabloudil jsi, kovboji?}
-{678}{}{Potøebuješ uvolnit trochu napìtí, vojáèku?}
-{679}{}{Tenhle chlap by dokázal rozhavit i elezo.}
-{680}{}{Tolik nadrencù a tak málo èasu.}
-{681}{}{Tuhle ulici šlapu u od vèerejšího veèera...}
-{682}{}{Potøebuješ spoleènost na veèer? Nebo tøeba jen na deset minut?}
-{683}{}{Hledáš potìšení?}
-{684}{}{Chceš si trochu uít?}
-{685}{}{Líbí se mi tvoje ještìrka.}
-{686}{}{Ty máš v kapse ještìrku?}
-{687}{}{Nepotøebuješ prùvodce mìstem, zlato?}
-{688}{}{Nemáš oheò?}
-{689}{}{Pojï chlapèe, udìlám z tebe mue.}
+{678}{}{PotÅ™ebujeÅ¡ uvolnit trochu napÄ›tÃ­, vojÃ¡Äku?}
+{679}{}{Tenhle chlap by dokÃ¡zal rozÅ¾havit i Å¾elezo.}
+{680}{}{Tolik nadrÅ¾encÅ¯ a tak mÃ¡lo Äasu.}
+{681}{}{Tuhle ulici Å¡lapu uÅ¾ od vÄerejÅ¡Ã­ho veÄera...}
+{682}{}{PotÅ™ebujeÅ¡ spoleÄnost na veÄer? Nebo tÅ™eba jen na deset minut?}
+{683}{}{HledÃ¡Å¡ potÄ›Å¡enÃ­?}
+{684}{}{ChceÅ¡ si trochu uÅ¾Ã­t?}
+{685}{}{LÃ­bÃ­ se mi tvoje jeÅ¡tÄ›rka.}
+{686}{}{Ty mÃ¡Å¡ v kapse jeÅ¡tÄ›rku?}
+{687}{}{NepotÅ™ebujeÅ¡ prÅ¯vodce mÄ›stem, zlato?}
+{688}{}{NemÃ¡Å¡ oheÅˆ?}
+{689}{}{PojÄ chlapÄe, udÄ›lÃ¡m z tebe muÅ¾e.}
 {690}{}{Mmmmm-mmmmm.}
-{691}{}{Zahrajeme si na páraèe v dobì páøení?}
-{692}{}{Kdy vidím toho chlapa, zaène mi pípat mùj Geigerùv pøístroj.}
-{693}{}{Jestli chceš, abych si s tebou potom povídala, tak si musíš pøiplatit.}
-{694}{}{Mùu ti s nìèím pomoct, cizinèe?}
-{695}{}{Dokud se nepomiluješ v New Renu, nevíš, co je to láska.}
-{696}{}{Koneènì jsem si poøídila vycpanou pelest.}
-{697}{}{Ochutnávka ráje tì bude stát jenom deset babek.}
-{698}{}{Myron: Spousta povyku, ale ádnı èiny.}
-{699}{}{Myron je hroznej òouma.}
-{700}{}{AC-DC, B n' D, vdy je to fuk.}
-{701}{}{Co si myslí, e jako udìlám? e mu ho vykouøím?}
-{702}{}{Jestli s tím nìkdo nìco neudìlá, tak ta cedule New Reno na nìkoho brzo slítne...}
-{703}{}{Ta Bishopova holka je úplná nymfomanka.}
+{691}{}{Zahrajeme si na pÃ¡raÄe v dobÄ› pÃ¡Å™enÃ­?}
+{692}{}{KdyÅ¾ vidÃ­m toho chlapa, zaÄne mi pÃ­pat mÅ¯j GeigerÅ¯v pÅ™Ã­stroj.}
+{693}{}{Jestli chceÅ¡, abych si s tebou potom povÃ­dala, tak si musÃ­Å¡ pÅ™iplatit.}
+{694}{}{MÅ¯Å¾u ti s nÄ›ÄÃ­m pomoct, cizinÄe?}
+{695}{}{Dokud se nepomilujeÅ¡ v New Renu, nevÃ­Å¡, co je to lÃ¡ska.}
+{696}{}{KoneÄnÄ› jsem si poÅ™Ã­dila vycpanou pelest.}
+{697}{}{OchutnÃ¡vka rÃ¡je tÄ› bude stÃ¡t jenom deset babek.}
+{698}{}{Myron: Spousta povyku, ale Å¾Ã¡dnÃ½ Äiny.}
+{699}{}{Myron je hroznej Åˆouma.}
+{700}{}{AC-DC, B n' D, vÅ¾dyÅ¥ je to fuk.}
+{701}{}{Co si myslÃ­, Å¾e jako udÄ›lÃ¡m? Å½e mu ho vykouÅ™Ã­m?}
+{702}{}{Jestli s tÃ­m nÄ›kdo nÄ›co neudÄ›lÃ¡, tak ta cedule New Reno na nÄ›koho brzo slÃ­tne...}
+{703}{}{Ta Bishopova holka je ÃºplnÃ¡ nymfomanka.}
 {704}{}{She ain't no Jet addict, she's a BONE addict.}
-{705}{}{Ve Vault City maj prej jenom dva typy Obèanù. Asi došlo k nìjakı nehodì pøi klonování.}
-{706}{}{Cítím se jako kdybych minulou noc ubìhla maratón...}
-{707}{}{Hledáš lásku, zlato?}
-{708}{}{Ké by Myron odešel pryè. Nìkam hodnì daleko.}
-{709}{}{Splním ti COKOLIV budeš chtít... pokud na to budeš mít prachy.}
-{710}{}{Já mùu tøeba hned, zlato. A co ty?}
-{711}{}{::Hvízdá na tebe::}
-{712}{}{Nesnáším ulání koulí.}
+{705}{}{Ve Vault City maj prej jenom dva typy ObÄanÅ¯. Asi doÅ¡lo k nÄ›jakÃ½ nehodÄ› pÅ™i klonovÃ¡nÃ­.}
+{706}{}{CÃ­tÃ­m se jako kdybych minulou noc ubÄ›hla maratÃ³n...}
+{707}{}{HledÃ¡Å¡ lÃ¡sku, zlato?}
+{708}{}{KÃ©Å¾ by Myron odeÅ¡el pryÄ. NÄ›kam hodnÄ› daleko.}
+{709}{}{SplnÃ­m ti COKOLIV budeÅ¡ chtÃ­t... pokud na to budeÅ¡ mÃ­t prachy.}
+{710}{}{JÃ¡ mÅ¯Å¾u tÅ™eba hned, zlato. A co ty?}
+{711}{}{::HvÃ­zdÃ¡ na tebe::}
+{712}{}{NesnÃ¡Å¡Ã­m Å¾uÅ¾lÃ¡nÃ­ koulÃ­.}
 {713}{}{Zkus to se mnou, zlato.}
-{714}{}{Hledáš potìšení?}
-{715}{}{Nefalšovaná New Reno láska, tady a teï.}
-{716}{}{Pìknì si s tebou pohraju.}
-{717}{}{Já jsem Nechutná Spice.}
-{718}{}{Já jsem Domácí Spice.}
-{719}{}{Já jsem Šlapka Spice.}
-{720}{}{Já jsem Old Spice.}
-{721}{}{Já jsem Syfilis... eh, Šlapka Spice.}
-{722}{}{Já jsem Oplzlá Spice.}
-{723}{}{Zaprášení kovbojové, to je pøesnì to, co hledám.}
-{724}{}{Mùu øíct kámošce jestli chceš dvojitej orál.}
-{725}{}{Pøála bych si, aby byl Myron teplej.}
-{726}{}{Èerstvı maso ve mìstì...}
-{727}{}{To by mì zajímalo, proè se tomu øíká ulice Panen...}
-{728}{}{Nìkdy si pøeju, aby si dal pytel pøes hlavu...}
-{729}{}{Koupíš sleènì pití?}
-{730}{}{Vezmeš osamìlou enu do mìsta?}
+{714}{}{HledÃ¡Å¡ potÄ›Å¡enÃ­?}
+{715}{}{NefalÅ¡ovanÃ¡ New Reno lÃ¡ska, tady a teÄ.}
+{716}{}{PÄ›knÄ› si s tebou pohraju.}
+{717}{}{JÃ¡ jsem NechutnÃ¡ Spice.}
+{718}{}{JÃ¡ jsem DomÃ¡cÃ­ Spice.}
+{719}{}{JÃ¡ jsem Å lapka Spice.}
+{720}{}{JÃ¡ jsem Old Spice.}
+{721}{}{JÃ¡ jsem Syfilis... eh, Å lapka Spice.}
+{722}{}{JÃ¡ jsem OplzlÃ¡ Spice.}
+{723}{}{ZaprÃ¡Å¡enÃ­ kovbojovÃ©, to je pÅ™esnÄ› to, co hledÃ¡m.}
+{724}{}{MÅ¯Å¾u Å™Ã­ct kÃ¡moÅ¡ce jestli chceÅ¡ dvojitej orÃ¡l.}
+{725}{}{PÅ™Ã¡la bych si, aby byl Myron teplej.}
+{726}{}{ÄŒerstvÃ½ maso ve mÄ›stÄ›...}
+{727}{}{To by mÄ› zajÃ­malo, proÄ se tomu Å™Ã­kÃ¡ ulice Panen...}
+{728}{}{NÄ›kdy si pÅ™eju, aby si dal pytel pÅ™es hlavu...}
+{729}{}{KoupÃ­Å¡ sleÄnÄ› pitÃ­?}
+{730}{}{VezmeÅ¡ osamÄ›lou Å¾enu do mÄ›sta?}
 {731}{}{A hele! Turista!}
-{732}{}{Pojï blí, zlato, a mùeme na to hupsnout...}
-{733}{}{Slyšela jsem, e nìkterı holky zabily svıho pasáka.}
-{734}{}{Ahoj cizinèe.}
-{735}{}{Doufám, e mì Jules pøestane otravovat.}
-{736}{}{Poøád mám ještì na zádech tu odøeninu od stolu...}
-{737}{}{Jsem ještì utahaná z toho minulıho sjezdu otrokáøù...}
-{738}{}{Ké by sem divoši pøestali poøád chodit.}
-{739}{}{Myslela jsem, e cítím, jak se Zemì pohnula, ale bylo to tìma fazolema k veèeøi.}
-{740}{}{Zahøej mì.}
-{741}{}{Ještì chvíli tu bude postávat a odkrví se mu úplnì mozek...}
-{742}{}{To bzuèení neonu mì pøivádí k šílenství...}
-{743}{}{Jsem ještì panna, ale nejsem v tom moc dobrá.}
-{744}{}{Kdy si pomyslím, e jsem kvùli tomuhle odešla z Denu...}
-{745}{}{Nazdar cizinèe! Nepotøebuješ prùvodkyni?}
-{746}{}{Jules chce poøád volòásky.}
-{747}{}{Rodiny prı maj mezi sebou zase nìjakı tøenice.}
-{748}{}{Kšefty stagnujou. U aby dorazila nìjaká karavana.}
-{749}{}{Take se pøevlíkl za páraèe a pak...}
-{750}{}{Potøebuju rozepnout šaty.}
-{751}{}{Zapneš mi šaty? A pak zase rozepneš?}
-{752}{}{Mmm-mmm. Vypadá to, e se blíí období páøení.}
-{753}{}{Nechceš zabít trochu nudy?}
-{754}{}{Minulej tejden jsem nakopala Julese do koulí.}
-{755}{}{Neøíkají mi Paní Štìstìna jen tak pro nic za nic.}
-{756}{}{Miluju kondomy s pøíchutí brahmín.}
-{757}{}{Vyrazíme si spolu?}
-{758}{}{Ké by tak pro Myrona vynalezli nìjakı sexuální placebo.}
-{759}{}{Nechceš jít se mnou na rande, divochu?}
-{760}{}{Chceš si zadovádìt, divochu?}
-{761}{}{Nechceš si zatancovat váleènej tanec v mı lonici, divochu?}
-{762}{}{Jedinı co potøebuješ je jedna noc se mnou.}
-{763}{}{Hledáš rajskou zahradu? Tak pojï se mnou do lonice.}
-{764}{}{Ty máš prachy, já mám èas.}
-{765}{}{Pomùeš mi? Hledám svı ztracenı panenství.}
-{766}{}{Sice jsem ještì panna, ale potøebuju peníze.}
-{767}{}{Buï nìnej, dneska je to poprvı.}
-{768}{}{Jsem hroznì nadrená.}
-{769}{}{Ty máš chu, já mám spásu.}
-{770}{}{Probudím v tobì duši dítìte.}
-{771}{}{Chceš si zaskotaèit, zlato?}
-{772}{}{Hledáš kde zakotvit?}
-{773}{}{Chceš mì slyšet sténat?}
+{732}{}{PojÄ blÃ­Å¾, zlato, a mÅ¯Å¾eme na to hupsnout...}
+{733}{}{SlyÅ¡ela jsem, Å¾e nÄ›kterÃ½ holky zabily svÃ½ho pasÃ¡ka.}
+{734}{}{Ahoj cizinÄe.}
+{735}{}{DoufÃ¡m, Å¾e mÄ› Jules pÅ™estane otravovat.}
+{736}{}{PoÅ™Ã¡d mÃ¡m jeÅ¡tÄ› na zÃ¡dech tu odÅ™eninu od stolu...}
+{737}{}{Jsem jeÅ¡tÄ› utahanÃ¡ z toho minulÃ½ho sjezdu otrokÃ¡Å™Å¯...}
+{738}{}{KÃ©Å¾ by sem divoÅ¡i pÅ™estali poÅ™Ã¡d chodit.}
+{739}{}{Myslela jsem, Å¾e cÃ­tÃ­m, jak se ZemÄ› pohnula, ale bylo to tÄ›ma fazolema k veÄeÅ™i.}
+{740}{}{ZahÅ™ej mÄ›.}
+{741}{}{JeÅ¡tÄ› chvÃ­li tu bude postÃ¡vat a odkrvÃ­ se mu ÃºplnÄ› mozek...}
+{742}{}{To bzuÄenÃ­ neonu mÄ› pÅ™ivÃ¡dÃ­ k Å¡Ã­lenstvÃ­...}
+{743}{}{Jsem jeÅ¡tÄ› panna, ale nejsem v tom moc dobrÃ¡.}
+{744}{}{KdyÅ¾ si pomyslÃ­m, Å¾e jsem kvÅ¯li tomuhle odeÅ¡la z Denu...}
+{745}{}{Nazdar cizinÄe! NepotÅ™ebujeÅ¡ prÅ¯vodkyni?}
+{746}{}{Jules chce poÅ™Ã¡d volÅˆÃ¡sky.}
+{747}{}{Rodiny prÃ½ maj mezi sebou zase nÄ›jakÃ½ tÅ™enice.}
+{748}{}{KÅ¡efty stagnujou. UÅ¾ aby dorazila nÄ›jakÃ¡ karavana.}
+{749}{}{TakÅ¾e se pÅ™evlÃ­kl za pÃ¡raÄe a pak...}
+{750}{}{PotÅ™ebuju rozepnout Å¡aty.}
+{751}{}{ZapneÅ¡ mi Å¡aty? A pak zase rozepneÅ¡?}
+{752}{}{Mmm-mmm. VypadÃ¡ to, Å¾e se blÃ­Å¾Ã­ obdobÃ­ pÃ¡Å™enÃ­.}
+{753}{}{NechceÅ¡ zabÃ­t trochu nudy?}
+{754}{}{Minulej tejden jsem nakopala Julese do koulÃ­.}
+{755}{}{NeÅ™Ã­kajÃ­ mi PanÃ­ Å tÄ›stÄ›na jen tak pro nic za nic.}
+{756}{}{Miluju kondomy s pÅ™Ã­chutÃ­ brahmÃ­n.}
+{757}{}{VyrazÃ­me si spolu?}
+{758}{}{KÃ©Å¾ by tak pro Myrona vynalezli nÄ›jakÃ½ sexuÃ¡lnÃ­ placebo.}
+{759}{}{NechceÅ¡ jÃ­t se mnou na rande, divochu?}
+{760}{}{ChceÅ¡ si zadovÃ¡dÄ›t, divochu?}
+{761}{}{NechceÅ¡ si zatancovat vÃ¡leÄnej tanec v mÃ½ loÅ¾nici, divochu?}
+{762}{}{JedinÃ½ co potÅ™ebujeÅ¡ je jedna noc se mnou.}
+{763}{}{HledÃ¡Å¡ rajskou zahradu? Tak pojÄ se mnou do loÅ¾nice.}
+{764}{}{Ty mÃ¡Å¡ prachy, jÃ¡ mÃ¡m Äas.}
+{765}{}{PomÅ¯Å¾eÅ¡ mi? HledÃ¡m svÃ½ ztracenÃ½ panenstvÃ­.}
+{766}{}{Sice jsem jeÅ¡tÄ› panna, ale potÅ™ebuju penÃ­ze.}
+{767}{}{BuÄ nÄ›Å¾nej, dneska je to poprvÃ½.}
+{768}{}{Jsem hroznÄ› nadrÅ¾enÃ¡.}
+{769}{}{Ty mÃ¡Å¡ chuÅ¥, jÃ¡ mÃ¡m spÃ¡su.}
+{770}{}{ProbudÃ­m v tobÄ› duÅ¡i dÃ­tÄ›te.}
+{771}{}{ChceÅ¡ si zaskotaÄit, zlato?}
+{772}{}{HledÃ¡Å¡ kde zakotvit?}
+{773}{}{ChceÅ¡ mÄ› slyÅ¡et stÃ©nat?}
 {774}{}{::Vrrrr::}
-{775}{}{::Špulí ústa::}
-{776}{}{::Posílá ti polibek::}
-{777}{}{Jsem vzhùru od vèerejšího veèera...}
-{778}{}{Nejsem sice levná, ale za to dìlám i speciality.}
-{779}{}{Svazování je za pøíplatek.}
-{780}{}{Kde jsem nechala svùj biè?}
-{781}{}{Staèí øíct a mùem jít na to.}
-{782}{}{Vèera veèer jsem se musela oblíknout jako WILMA.}
-{783}{}{Vèera jsem to dìlala s Myronem. Asi 5 sekund.}
-{784}{}{Potøebuješ vyprázdnit nádr?}
-{785}{}{Ké by vynalezli nìjakı tìlovı oleje vonící po Jetu...}
-{786}{}{Pomùeš pannì zbavit se svıho panenství?}
-{787}{}{Zadek mi u málem upadl a Myron poøád nemìl dost.}
-{788}{}{Zase tu opruzovali ti blbci z Protialkoholickıho hnutí...}
-{789}{}{::Píská::}
-{790}{}{Kousání je za pøíplatek.}
-{791}{}{Garantuju ti, e jsem lepší ne ten Pip-Boy, co máš na ruce.}
-{792}{}{Chceš si uít?}
-{793}{}{Radši bych to dìlala s Avellonem.}
-{794}{}{Škoda, e tu není Nick Kesting. Mohli jsme si povídat celı hodiny!}
-{795}{}{Nick Kesting je fakt prima chlapík. Bájeènì si spolu rozumíme.}
-{796}{}{Tommy Tvrïák je dokonalej.}
-{797}{}{Vida, vida. Koukejte, kdo to pøikvaèil do mìsta...}
-{798}{}{Hledáš rajskou zahradu? Tak pojï se mnou do lonice.}
+{775}{}{::Å pulÃ­ Ãºsta::}
+{776}{}{::PosÃ­lÃ¡ ti polibek::}
+{777}{}{Jsem vzhÅ¯ru od vÄerejÅ¡Ã­ho veÄera...}
+{778}{}{Nejsem sice levnÃ¡, ale za to dÄ›lÃ¡m i speciality.}
+{779}{}{SvazovÃ¡nÃ­ je za pÅ™Ã­platek.}
+{780}{}{Kde jsem nechala svÅ¯j biÄ?}
+{781}{}{StaÄÃ­ Å™Ã­ct a mÅ¯Å¾em jÃ­t na to.}
+{782}{}{VÄera veÄer jsem se musela oblÃ­knout jako WILMA.}
+{783}{}{VÄera jsem to dÄ›lala s Myronem. Asi 5 sekund.}
+{784}{}{PotÅ™ebujeÅ¡ vyprÃ¡zdnit nÃ¡drÅ¾?}
+{785}{}{KÃ©Å¾ by vynalezli nÄ›jakÃ½ tÄ›lovÃ½ oleje vonÃ­cÃ­ po Jetu...}
+{786}{}{PomÅ¯Å¾eÅ¡ pannÄ› zbavit se svÃ½ho panenstvÃ­?}
+{787}{}{Zadek mi uÅ¾ mÃ¡lem upadl a Myron poÅ™Ã¡d nemÄ›l dost.}
+{788}{}{Zase tu opruzovali ti blbci z ProtialkoholickÃ½ho hnutÃ­...}
+{789}{}{::PÃ­skÃ¡::}
+{790}{}{KousÃ¡nÃ­ je za pÅ™Ã­platek.}
+{791}{}{Garantuju ti, Å¾e jsem lepÅ¡Ã­ neÅ¾ ten Pip-Boy, co mÃ¡Å¡ na ruce.}
+{792}{}{ChceÅ¡ si uÅ¾Ã­t?}
+{793}{}{RadÅ¡i bych to dÄ›lala s Avellonem.}
+{794}{}{Å koda, Å¾e tu nenÃ­ Nick Kesting. Mohli jsme si povÃ­dat celÃ½ hodiny!}
+{795}{}{Nick Kesting je fakt prima chlapÃ­k. BÃ¡jeÄnÄ› si spolu rozumÃ­me.}
+{796}{}{Tommy TvrÄÃ¡k je dokonalej.}
+{797}{}{Vida, vida. Koukejte, kdo to pÅ™ikvaÄil do mÄ›sta...}
+{798}{}{HledÃ¡Å¡ rajskou zahradu? Tak pojÄ se mnou do loÅ¾nice.}
 {799}{}{Zkus to se mnou, zlato.}
-{800}{}{Jmenuju se Povolná, holka. A ty?}
-{801}{}{Nazdar fešando. Sháníš enskou?}
-{802}{}{Chceš zkusit jakı je to se enskou, zlato?}
-{803}{}{Nepotøebuješ spoleènost?}
-{804}{}{Holka, nauèím tì pár vìcí, kterı tì nauèí jenom ena.}
-{805}{}{Potøebuješ nìkoho, kdo tì v noci zahøeje, holka?}
-{806}{}{Potøebuješ nìkoho, kdo by ti zahøál postel, holka?}
-{807}{}{Chceš si zaskotaèit, holka?}
-{808}{}{Zapomeò na automaty, holka. Já ti nabídnu MNOHEM víc.}
-{809}{}{Holka, dokud se nepomiluješ v New Renu, nevíš, co je to láska.}
-{810}{}{Chceš si zalítat, holka?}
-{811}{}{Zabloudila jsi, kotì?}
-{812}{}{Potøebuješ uvolnit trochu napìtí, G.I. Jane?}
-{813}{}{Hledáš potìšení, holka?}
-{814}{}{Chceš si trochu uít, holka?}
-{815}{}{Nepotøebuješ prùvodce mìstem, zlato?}
-{816}{}{Nemáš oheò, holka?}
-{817}{}{Kdy vidím tu enskou, zaène mi pípat mùj Geigerùv pøístroj.}
-{818}{}{Enkláva? Prezident? Povìz mi o tom všechno.}
-{819}{}{Naskriptoval mì Tom French. Má moc hebké a nìné ruce.}
-{820}{}{Oni poøád vedli válku? Opravdu!? Díkybohu, e jsi ty bastardy zlikvidoval.}
-{821}{}{Jseš fakt borec. No jen si to vem, zaèneš jako divoch s kopím v ruce, bez uráky, a na konci zachráníš celej svìt. Jseš absolutní jednièka. Bez diskuze.}
-{822}{}{Mìl by sis tuhle hru zahrát za jinou postavu.}
-{823}{}{Povìz mi všechno o svım boji s Enklávou...}
-{824}{}{Poslyš, jestli chceš za záchranu svìta èíslo zdarma, tak mì nebudeš muset dlouho pøemlouvat...}
-{825}{}{Sice nevím, jak jsi ty bastardy z Enklávy porazil, ale jseš ten nejodvánìjší èlovìk, kterıho znám.}
-{826}{}{Tim Cain? Jo, to je mùj stálej zákazník.}
-{827}{}{Líbej mì, ty zvíøe.}
-{828}{}{Myslím, e tì hledají Bratøi. Chtìj natoèit film podle tvıho dobrodruství.}
-{829}{}{Moc nám chybí Tim Cain. Pekl bájeènej chleba. A pak nás plácal po zadku jako malı dìti.}
-{830}{}{Já vím, e jsem jenom obyèejnı NPC, ale jsem hluboce dotèena tím, jak jsou eny V New Reno zobrazovány.}
-{831}{}{enskı v tomhle mìstì byly nejspíš navrenı nìjakım nadrenım puberákem, kterej ije ve sklepì svejch rodièù.}
-{832}{}{New Reno bylo navrenı Chrisem Avellonem a Tomem Frenchem. Oba dva jsou sexuální BOZI.}
-{833}{}{Feargus se úplnì zhrozil, kdy vidìl kolik mám plovoucích textù. Je to hroznej morous.}
-{834}{}{Øíkáš, e Locutus slouil Enklávì? A já kráva mu dala zadarmo!}
-{835}{}{Nìjaká ena ti urèitì musela hroznì ublíit, kdy ses rozhodl zavøít se do tı konzervy. Uka, pomùu ti ven.}
-{836}{}{Podívej, Plechovko, jestli po mnì chceš, abych se kvùli tobì oblíkla jako Dorothy nebo Toto, tak to bude za pøíplatek.}
-{837}{}{Poslyš, kámo, jestli na to chceš se mnou vlítnout, tak si tu zbroj musíš nejdøív sundat. Nechci se o tebe poøezat.}
-{838}{}{Má to nìco jako poklopec, nebo si to musíš svlíknout celı?}
-{839}{}{Bolí to kdy v tom dostaneš erekci?}
-{840}{}{Zdá se, e sis s sebou pøinesl svùj vlastní kondom.}
-{841}{}{To je nìjakej obøí kondom?}
-{842}{}{Ty se fakt musíš hroznì bát pohlavních chorob, kdy na sobì nosíš tohle.}
-{843}{}{Jestli chceš, abych to s tebou dìlala, kdy máš na sobì tohle, tak jedinì za pøíplatek.}
-{844}{}{Jestli to chceš dìlat v tomhle, tak na to radši rovnou zapomeò.}
-{845}{}{Nezrezavíš a zvlhnu?}
-{846}{}{No... tak jo. Ale v ádnım pøípadì nebudeš nahoøe.}
-{847}{}{Jak sakra chodíš s tou zbrojí na záchod?}
-{848}{}{A jak tì mám z toho dostat? Flexou?}
-{849}{}{To je nìjakej novej vibrátor nebo co?}
-{850}{}{Myslím, e jsem podobnou scénu kdysi vidìla v nìjakım Anime.}
-{851}{}{Nehledáš spíš myèku aut?}
-{852}{}{Poslyš, zlato, tu zbroj si budeš muset sundat. Nechci se o tebe poøezat.}
-{853}{}{Ty na sobì nosíš nìjakou novou antikoncepci?}
-{854}{}{Nechceš se mnou hupsnout do ringu, zlato? Vydrím nejmíò 12 kol.}
-{855}{}{Nechceš si zaboxovat, }
-{856}{}{Holka, ty jseš poøádnej kus enskı.}
-{857}{}{Páni, ty máš ale svaly. Jseš svalnatìjší ne vìtšina chlapù co znám. A já znám HODNÌ chlapù.}
+{800}{}{Jmenuju se PovolnÃ¡, holka. A ty?}
+{801}{}{Nazdar feÅ¡ando. ShÃ¡nÃ­Å¡ Å¾enskou?}
+{802}{}{ChceÅ¡ zkusit jakÃ½ je to se Å¾enskou, zlato?}
+{803}{}{NepotÅ™ebujeÅ¡ spoleÄnost?}
+{804}{}{Holka, nauÄÃ­m tÄ› pÃ¡r vÄ›cÃ­, kterÃ½ tÄ› nauÄÃ­ jenom Å¾ena.}
+{805}{}{PotÅ™ebujeÅ¡ nÄ›koho, kdo tÄ› v noci zahÅ™eje, holka?}
+{806}{}{PotÅ™ebujeÅ¡ nÄ›koho, kdo by ti zahÅ™Ã¡l postel, holka?}
+{807}{}{ChceÅ¡ si zaskotaÄit, holka?}
+{808}{}{ZapomeÅˆ na automaty, holka. JÃ¡ ti nabÃ­dnu MNOHEM vÃ­c.}
+{809}{}{Holka, dokud se nepomilujeÅ¡ v New Renu, nevÃ­Å¡, co je to lÃ¡ska.}
+{810}{}{ChceÅ¡ si zalÃ­tat, holka?}
+{811}{}{Zabloudila jsi, kotÄ›?}
+{812}{}{PotÅ™ebujeÅ¡ uvolnit trochu napÄ›tÃ­, G.I. Jane?}
+{813}{}{HledÃ¡Å¡ potÄ›Å¡enÃ­, holka?}
+{814}{}{ChceÅ¡ si trochu uÅ¾Ã­t, holka?}
+{815}{}{NepotÅ™ebujeÅ¡ prÅ¯vodce mÄ›stem, zlato?}
+{816}{}{NemÃ¡Å¡ oheÅˆ, holka?}
+{817}{}{KdyÅ¾ vidÃ­m tu Å¾enskou, zaÄne mi pÃ­pat mÅ¯j GeigerÅ¯v pÅ™Ã­stroj.}
+{818}{}{EnklÃ¡va? Prezident? PovÄ›z mi o tom vÅ¡echno.}
+{819}{}{Naskriptoval mÄ› Tom French. MÃ¡ moc hebkÃ© a nÄ›Å¾nÃ© ruce.}
+{820}{}{Oni poÅ™Ã¡d vedli vÃ¡lku? Opravdu!? DÃ­kybohu, Å¾e jsi ty bastardy zlikvidoval.}
+{821}{}{JseÅ¡ fakt borec. No jen si to vem, zaÄneÅ¡ jako divoch s kopÃ­m v ruce, bez urÃ¡Å¾ky, a na konci zachrÃ¡nÃ­Å¡ celej svÄ›t. JseÅ¡ absolutnÃ­ jedniÄka. Bez diskuze.}
+{822}{}{MÄ›l by sis tuhle hru zahrÃ¡t za jinou postavu.}
+{823}{}{PovÄ›z mi vÅ¡echno o svÃ½m boji s EnklÃ¡vou...}
+{824}{}{PoslyÅ¡, jestli chceÅ¡ za zÃ¡chranu svÄ›ta ÄÃ­slo zdarma, tak mÄ› nebudeÅ¡ muset dlouho pÅ™emlouvat...}
+{825}{}{Sice nevÃ­m, jak jsi ty bastardy z EnklÃ¡vy porazil, ale jseÅ¡ ten nejodvÃ¡Å¾nÄ›jÅ¡Ã­ ÄlovÄ›k, kterÃ½ho znÃ¡m.}
+{826}{}{Tim Cain? Jo, to je mÅ¯j stÃ¡lej zÃ¡kaznÃ­k.}
+{827}{}{LÃ­bej mÄ›, ty zvÃ­Å™e.}
+{828}{}{MyslÃ­m, Å¾e tÄ› hledajÃ­ BratÅ™i. ChtÄ›j natoÄit film podle tvÃ½ho dobrodruÅ¾stvÃ­.}
+{829}{}{Moc nÃ¡m chybÃ­ Tim Cain. Pekl bÃ¡jeÄnej chleba. A pak nÃ¡s plÃ¡cal po zadku jako malÃ½ dÄ›ti.}
+{830}{}{JÃ¡ vÃ­m, Å¾e jsem jenom obyÄejnÃ½ NPC, ale jsem hluboce dotÄena tÃ­m, jak jsou Å¾eny V New Reno zobrazovÃ¡ny.}
+{831}{}{Å½enskÃ½ v tomhle mÄ›stÄ› byly nejspÃ­Å¡ navrÅ¾enÃ½ nÄ›jakÃ½m nadrÅ¾enÃ½m puberÅ¥Ã¡kem, kterej Å¾ije ve sklepÄ› svejch rodiÄÅ¯.}
+{832}{}{New Reno bylo navrÅ¾enÃ½ Chrisem Avellonem a Tomem Frenchem. Oba dva jsou sexuÃ¡lnÃ­ BOZI.}
+{833}{}{Feargus se ÃºplnÄ› zhrozil, kdyÅ¾ vidÄ›l kolik mÃ¡m plovoucÃ­ch textÅ¯. Je to hroznej morous.}
+{834}{}{Å˜Ã­kÃ¡Å¡, Å¾e Locutus slouÅ¾il EnklÃ¡vÄ›? A jÃ¡ krÃ¡va mu dala zadarmo!}
+{835}{}{NÄ›jakÃ¡ Å¾ena ti urÄitÄ› musela hroznÄ› ublÃ­Å¾it, kdyÅ¾ ses rozhodl zavÅ™Ã­t se do tÃ½ konzervy. UkaÅ¾, pomÅ¯Å¾u ti ven.}
+{836}{}{PodÃ­vej, Plechovko, jestli po mnÄ› chceÅ¡, abych se kvÅ¯li tobÄ› oblÃ­kla jako Dorothy nebo Toto, tak to bude za pÅ™Ã­platek.}
+{837}{}{PoslyÅ¡, kÃ¡mo, jestli na to chceÅ¡ se mnou vlÃ­tnout, tak si tu zbroj musÃ­Å¡ nejdÅ™Ã­v sundat. Nechci se o tebe poÅ™ezat.}
+{838}{}{MÃ¡ to nÄ›co jako poklopec, nebo si to musÃ­Å¡ svlÃ­knout celÃ½?}
+{839}{}{BolÃ­ to kdyÅ¾ v tom dostaneÅ¡ erekci?}
+{840}{}{ZdÃ¡ se, Å¾e sis s sebou pÅ™inesl svÅ¯j vlastnÃ­ kondom.}
+{841}{}{To je nÄ›jakej obÅ™Ã­ kondom?}
+{842}{}{Ty se fakt musÃ­Å¡ hroznÄ› bÃ¡t pohlavnÃ­ch chorob, kdyÅ¾ na sobÄ› nosÃ­Å¡ tohle.}
+{843}{}{Jestli chceÅ¡, abych to s tebou dÄ›lala, kdyÅ¾ mÃ¡Å¡ na sobÄ› tohle, tak jedinÄ› za pÅ™Ã­platek.}
+{844}{}{Jestli to chceÅ¡ dÄ›lat v tomhle, tak na to radÅ¡i rovnou zapomeÅˆ.}
+{845}{}{NezrezavÃ­Å¡ aÅ¾ zvlhnu?}
+{846}{}{No... tak jo. Ale v Å¾Ã¡dnÃ½m pÅ™Ã­padÄ› nebudeÅ¡ nahoÅ™e.}
+{847}{}{Jak sakra chodÃ­Å¡ s tou zbrojÃ­ na zÃ¡chod?}
+{848}{}{A jak tÄ› mÃ¡m z toho dostat? Flexou?}
+{849}{}{To je nÄ›jakej novej vibrÃ¡tor nebo co?}
+{850}{}{MyslÃ­m, Å¾e jsem podobnou scÃ©nu kdysi vidÄ›la v nÄ›jakÃ½m Anime.}
+{851}{}{NehledÃ¡Å¡ spÃ­Å¡ myÄku aut?}
+{852}{}{PoslyÅ¡, zlato, tu zbroj si budeÅ¡ muset sundat. Nechci se o tebe poÅ™ezat.}
+{853}{}{Ty na sobÄ› nosÃ­Å¡ nÄ›jakou novou antikoncepci?}
+{854}{}{NechceÅ¡ se mnou hupsnout do ringu, zlato? VydrÅ¾Ã­m nejmÃ­Åˆ 12 kol.}
+{855}{}{NechceÅ¡ si zaboxovat, }
+{856}{}{Holka, ty jseÅ¡ poÅ™Ã¡dnej kus Å¾enskÃ½.}
+{857}{}{PÃ¡ni, ty mÃ¡Å¡ ale svaly. JseÅ¡ svalnatÄ›jÅ¡Ã­ neÅ¾ vÄ›tÅ¡ina chlapÅ¯ co znÃ¡m. A jÃ¡ znÃ¡m HODNÄš chlapÅ¯.}
 {858}{}{Jak to jde, }
-{859}{}{Hledáš mì?}
-{860}{}{Proè sem nechodíš èastìjc?}
-{861}{}{Potøebuješ spoleènost, }
-{862}{}{Pìknej hrudník.}
-{863}{}{Jo a... dávej si bacha na dímaèku. Je to hroznej kretén. Jednou se mi pokoušel ukousnout ucho.}
-{864}{}{Víš, e jseš docela sexy, holka?}
+{859}{}{HledÃ¡Å¡ mÄ›?}
+{860}{}{ProÄ sem nechodÃ­Å¡ ÄastÄ›jc?}
+{861}{}{PotÅ™ebujeÅ¡ spoleÄnost, }
+{862}{}{PÄ›knej hrudnÃ­k.}
+{863}{}{Jo a... dÃ¡vej si bacha na Å½dÃ­maÄku. Je to hroznej kretÃ©n. Jednou se mi pokouÅ¡el ukousnout ucho.}
+{864}{}{VÃ­Å¡, Å¾e jseÅ¡ docela sexy, holka?}
 {865}{}{}
-{866}{}{Jestli hledáš spoleènost na veèer...}
+{866}{}{Jestli hledÃ¡Å¡ spoleÄnost na veÄer...}
 {867}{}{}
 {868}{}{Ahoj, }
-{869}{}{Nepøimluvíte se za mì u šéfa?}
-{870}{}{Hele, to je ten ïábel }
-{871}{}{Udìlám VŠECHNO, co budeš chtít... staèí jen øíct.}
-{872}{}{Nepøimluvíte se za mì u šéfa?}
+{869}{}{NepÅ™imluvÃ­te se za mÄ› u Å¡Ã©fa?}
+{870}{}{Hele, to je ten ÄÃ¡bel }
+{871}{}{UdÄ›lÃ¡m VÅ ECHNO, co budeÅ¡ chtÃ­t... staÄÃ­ jen Å™Ã­ct.}
+{872}{}{NepÅ™imluvÃ­te se za mÄ› u Å¡Ã©fa?}
 {873}{}{}
-{874}{}{Eh, jestli hledáte spoleènost na veèer, madam...}
-{875}{}{Jmenuju se Povolná, otrokáøi. A ty?}
-{876}{}{Potøebuješ nìkoho, kdo ti uleví od toho svrbìní v rozkroku, otrokáøi?}
-{877}{}{Nechceš mì šoupnout zpátky do svı klece, otrokáøi?}
-{878}{}{Chceš se pomazlit, otrokáøi?}
-{879}{}{Ty jseš pohodovej otrokáø, e jo?}
-{880}{}{Máš svùj vlastní ruèník?}
-{881}{}{JO, jsou pravı a NE, nemùeš si sáhnout.}
-{882}{}{Nemáš chu na rodeo, kovboji?}
-{883}{}{Nechceš mi projet pekáè tím svım rùovım mackem?}
-{884}{}{Nauèím tì pár vìcí, kterı tì nauèí jenom ena.}
-{885}{}{Potøebuješ nìkoho, kdo tì v noci zahøeje, otrokáøi?}
-{886}{}{Potøebuješ nìkoho, kdo by ti zahøál postel, otrokáøi?}
-{887}{}{Zdá se, e máš v koulích pøetlak, otrokáøi. Neulevíme jim spolu trochu?}
-{888}{}{Copak to máš v kalhotech za hada?}
-{889}{}{Hledáš povyraení?}
-{890}{}{Dokud se nepomiluješ v New Renu, nevíš, co je to láska.}
-{891}{}{Sháníš rande?}
-{892}{}{Hele, u mnì se ádnı ochutnávky zdarma nevedou.}
-{893}{}{Slyšela jsem, e se nìco stalo v Obchodní ètvrti...}
-{894}{}{Hledáš spoleènost?}
-{895}{}{V poslední dobì je v Renu nejoblíbenìjším sportem kdo dál dostøíkne...}
-{896}{}{Chceš si zaskotaèit, otrokáøi?}
-{897}{}{Dokud se nepomiluješ v New Renu, nevíš, co je to láska, otrokáøi.}
-{898}{}{Nemùu uvìøit, kolik bylo striptérek na Feargusovì louèení se svobodou.}
-{899}{}{Moje práce? Dìlám z chlapcù chlapy.}
-{900}{}{Dokáeš svım penisem pøibít 6-ti palcovı høebík?}
-{901}{}{U jsem v tomhle mìstì pøíliš dlouho...}
-{902}{}{Potøebuješ pøítelkyni na dnešní noc, otrokáøi? Nebo jen na deset minut?}
-{903}{}{Chceš si zalítat?}
-{904}{}{U dlouho jsem nevidìla ádnı karavany z Reddingu...}
-{905}{}{Pìknej klacek.}
-{906}{}{Zabloudil jsi, otrokáøi?}
-{907}{}{Potøebuješ uvolnit trochu napìtí, otrokáøi?}
-{908}{}{Mùu ti s nìèím pomoct, cizinèe?}
-{909}{}{Líbí se mi tvoje ještìrka, otrokáøi.}
-{910}{}{Ty máš v kapse ještìrku?}
-{911}{}{Nepotøebuješ prùvodce mìstem, zlato?}
-{912}{}{Nemáš oheò, otrokáøi?}
-{913}{}{Pojï chlapèe, udìlám z tebe mue.}
-{914}{}{Chceš si zaskotaèit, otrokáøi?}
-{915}{}{Zdravíèko, pane Tyler. Na procházce?}
-{916}{}{Jestli chceš, abych si s tebou potom povídala, tak si musíš pøiplatit.}
-{917}{}{JO, jsou pravı a NE, nemùeš si sáhnout.}
-{918}{}{Jeden chlápek, Fred Hatch, chtìl vìdìt, jestli jsou ve mìstì nìjakı "velkı holky". Divnı.}
-{919}{}{[Zpívá.] "Jsi moje kláda, moje kláda... kterou já mám nadevše ráda."}
-{920}{}{Chceš si zahrát na otrokáøe a otrokyni?}
-{921}{}{Jestli chceš, abych potom zùstala vzhùru, tak si musíš pøiplatit.}
-{922}{}{Chceš se se mnou ponoøit do tajù nevšedních záitkù?}
-{923}{}{Zapomeò na automaty. Já ti nabídnu MNOHEM víc.}
-{924}{}{Nejsem sice levná, ale za to dìlám i speciality.}
-{925}{}{Jsem si jistá, e ti "padnu" jako oblek.}
-{926}{}{Jestli máš rád vytahanı pysky, tak jseš na správnım místì.}
-{927}{}{Vida, vida. Koukejte, kdo to pøikvaèil do mìsta...}
-{928}{}{Hledáš rajskou zahradu? Tak pojï se mnou do lonice.}
-{929}{}{Hledáš povyraení?}
-{930}{}{Jestli si nejseš jistej, tak ho vytáhni.}
-{931}{}{Koneènì jsem si poøídila vycpanou pelest.}
-{932}{}{Ochutnávka ráje tì bude stát jenom deset babek.}
-{933}{}{Myron: Spousta povyku, ale ádnı èiny.}
-{934}{}{Myron je hroznej òouma.}
-{935}{}{AC-DC, B n' D, vdy je to fuk.}
-{936}{}{Ta Bishopova holka je úplná nymfomanka.}
+{874}{}{Eh, jestli hledÃ¡te spoleÄnost na veÄer, madam...}
+{875}{}{Jmenuju se PovolnÃ¡, otrokÃ¡Å™i. A ty?}
+{876}{}{PotÅ™ebujeÅ¡ nÄ›koho, kdo ti ulevÃ­ od toho svrbÄ›nÃ­ v rozkroku, otrokÃ¡Å™i?}
+{877}{}{NechceÅ¡ mÄ› Å¡oupnout zpÃ¡tky do svÃ½ klece, otrokÃ¡Å™i?}
+{878}{}{ChceÅ¡ se pomazlit, otrokÃ¡Å™i?}
+{879}{}{Ty jseÅ¡ pohodovej otrokÃ¡Å™, Å¾e jo?}
+{880}{}{MÃ¡Å¡ svÅ¯j vlastnÃ­ ruÄnÃ­k?}
+{881}{}{JO, jsou pravÃ½ a NE, nemÅ¯Å¾eÅ¡ si sÃ¡hnout.}
+{882}{}{NemÃ¡Å¡ chuÅ¥ na rodeo, kovboji?}
+{883}{}{NechceÅ¡ mi projet pekÃ¡Ä tÃ­m svÃ½m rÅ¯Å¾ovÃ½m mackem?}
+{884}{}{NauÄÃ­m tÄ› pÃ¡r vÄ›cÃ­, kterÃ½ tÄ› nauÄÃ­ jenom Å¾ena.}
+{885}{}{PotÅ™ebujeÅ¡ nÄ›koho, kdo tÄ› v noci zahÅ™eje, otrokÃ¡Å™i?}
+{886}{}{PotÅ™ebujeÅ¡ nÄ›koho, kdo by ti zahÅ™Ã¡l postel, otrokÃ¡Å™i?}
+{887}{}{ZdÃ¡ se, Å¾e mÃ¡Å¡ v koulÃ­ch pÅ™etlak, otrokÃ¡Å™i. NeulevÃ­me jim spolu trochu?}
+{888}{}{Copak to mÃ¡Å¡ v kalhotech za hada?}
+{889}{}{HledÃ¡Å¡ povyraÅ¾enÃ­?}
+{890}{}{Dokud se nepomilujeÅ¡ v New Renu, nevÃ­Å¡, co je to lÃ¡ska.}
+{891}{}{ShÃ¡nÃ­Å¡ rande?}
+{892}{}{Hele, u mnÄ› se Å¾Ã¡dnÃ½ ochutnÃ¡vky zdarma nevedou.}
+{893}{}{SlyÅ¡ela jsem, Å¾e se nÄ›co stalo v ObchodnÃ­ Ätvrti...}
+{894}{}{HledÃ¡Å¡ spoleÄnost?}
+{895}{}{V poslednÃ­ dobÄ› je v Renu nejoblÃ­benÄ›jÅ¡Ã­m sportem kdo dÃ¡l dostÅ™Ã­kne...}
+{896}{}{ChceÅ¡ si zaskotaÄit, otrokÃ¡Å™i?}
+{897}{}{Dokud se nepomilujeÅ¡ v New Renu, nevÃ­Å¡, co je to lÃ¡ska, otrokÃ¡Å™i.}
+{898}{}{NemÅ¯Å¾u uvÄ›Å™it, kolik bylo striptÃ©rek na FeargusovÄ› louÄenÃ­ se svobodou.}
+{899}{}{Moje prÃ¡ce? DÄ›lÃ¡m z chlapcÅ¯ chlapy.}
+{900}{}{DokÃ¡Å¾eÅ¡ svÃ½m penisem pÅ™ibÃ­t 6-ti palcovÃ½ hÅ™ebÃ­k?}
+{901}{}{UÅ¾ jsem v tomhle mÄ›stÄ› pÅ™Ã­liÅ¡ dlouho...}
+{902}{}{PotÅ™ebujeÅ¡ pÅ™Ã­telkyni na dneÅ¡nÃ­ noc, otrokÃ¡Å™i? Nebo jen na deset minut?}
+{903}{}{ChceÅ¡ si zalÃ­tat?}
+{904}{}{UÅ¾ dlouho jsem nevidÄ›la Å¾Ã¡dnÃ½ karavany z Reddingu...}
+{905}{}{PÄ›knej klacek.}
+{906}{}{Zabloudil jsi, otrokÃ¡Å™i?}
+{907}{}{PotÅ™ebujeÅ¡ uvolnit trochu napÄ›tÃ­, otrokÃ¡Å™i?}
+{908}{}{MÅ¯Å¾u ti s nÄ›ÄÃ­m pomoct, cizinÄe?}
+{909}{}{LÃ­bÃ­ se mi tvoje jeÅ¡tÄ›rka, otrokÃ¡Å™i.}
+{910}{}{Ty mÃ¡Å¡ v kapse jeÅ¡tÄ›rku?}
+{911}{}{NepotÅ™ebujeÅ¡ prÅ¯vodce mÄ›stem, zlato?}
+{912}{}{NemÃ¡Å¡ oheÅˆ, otrokÃ¡Å™i?}
+{913}{}{PojÄ chlapÄe, udÄ›lÃ¡m z tebe muÅ¾e.}
+{914}{}{ChceÅ¡ si zaskotaÄit, otrokÃ¡Å™i?}
+{915}{}{ZdravÃ­Äko, pane Tyler. Na prochÃ¡zce?}
+{916}{}{Jestli chceÅ¡, abych si s tebou potom povÃ­dala, tak si musÃ­Å¡ pÅ™iplatit.}
+{917}{}{JO, jsou pravÃ½ a NE, nemÅ¯Å¾eÅ¡ si sÃ¡hnout.}
+{918}{}{Jeden chlÃ¡pek, Fred Hatch, chtÄ›l vÄ›dÄ›t, jestli jsou ve mÄ›stÄ› nÄ›jakÃ½ "velkÃ½ holky". DivnÃ½.}
+{919}{}{[ZpÃ­vÃ¡.] "Jsi moje klÃ¡da, moje klÃ¡da... kterou jÃ¡ mÃ¡m nadevÅ¡e rÃ¡da."}
+{920}{}{ChceÅ¡ si zahrÃ¡t na otrokÃ¡Å™e a otrokyni?}
+{921}{}{Jestli chceÅ¡, abych potom zÅ¯stala vzhÅ¯ru, tak si musÃ­Å¡ pÅ™iplatit.}
+{922}{}{ChceÅ¡ se se mnou ponoÅ™it do tajÅ¯ nevÅ¡ednÃ­ch zÃ¡Å¾itkÅ¯?}
+{923}{}{ZapomeÅˆ na automaty. JÃ¡ ti nabÃ­dnu MNOHEM vÃ­c.}
+{924}{}{Nejsem sice levnÃ¡, ale za to dÄ›lÃ¡m i speciality.}
+{925}{}{Jsem si jistÃ¡, Å¾e ti "padnu" jako oblek.}
+{926}{}{Jestli mÃ¡Å¡ rÃ¡d vytahanÃ½ pysky, tak jseÅ¡ na sprÃ¡vnÃ½m mÃ­stÄ›.}
+{927}{}{Vida, vida. Koukejte, kdo to pÅ™ikvaÄil do mÄ›sta...}
+{928}{}{HledÃ¡Å¡ rajskou zahradu? Tak pojÄ se mnou do loÅ¾nice.}
+{929}{}{HledÃ¡Å¡ povyraÅ¾enÃ­?}
+{930}{}{Jestli si nejseÅ¡ jistej, tak ho vytÃ¡hni.}
+{931}{}{KoneÄnÄ› jsem si poÅ™Ã­dila vycpanou pelest.}
+{932}{}{OchutnÃ¡vka rÃ¡je tÄ› bude stÃ¡t jenom deset babek.}
+{933}{}{Myron: Spousta povyku, ale Å¾Ã¡dnÃ½ Äiny.}
+{934}{}{Myron je hroznej Åˆouma.}
+{935}{}{AC-DC, B n' D, vÅ¾dyÅ¥ je to fuk.}
+{936}{}{Ta Bishopova holka je ÃºplnÃ¡ nymfomanka.}
 {937}{}{She ain't no Jet addict, she's a BONE addict.}
-{938}{}{Ve Vault City maj prej jenom dva typy Obèanù. Asi došlo k nìjakı nehodì pøi klonování.}
-{939}{}{Cítím se jako kdybych minulou noc ubìhla maratón...}
-{940}{}{Hledáš lásku, zlato?}
-{941}{}{ádnı líbání. To je základní pravidlo.}
-{942}{}{Ké by Myron odešel pryè. Nìkam hodnì daleko.}
-{943}{}{Udìlám ti co budeš chtít, otrokáøi... kdy na to budeš mít prachy.}
-{944}{}{Já mùu tøeba hned, zlato. A co ty?}
-{945}{}{Zapomeò na automaty. Já ti nabídnu MNOHEM víc.}
-{946}{}{Nesnáším ulání koulí.}
-{947}{}{Zkus to se mnou, otrokáøi.}
-{948}{}{Hledáš potìšení?}
-{949}{}{Nefalšovaná New Reno láska, tady a teï.}
-{950}{}{Pìknì si s tebou pohraju.}
-{951}{}{Já jsem Nechutná Spice.}
-{952}{}{Já jsem Domácí Spice.}
-{953}{}{Já jsem Šlapka Spice.}
-{954}{}{Já jsem Old Spice.}
-{955}{}{Já jsem Syfilis... eh, Šlapka Spice.}
-{956}{}{Já jsem Oplzlá Spice.}
-{957}{}{Poslyš... mùu øíct kámošce jestli chceš dvojitej orál.}
-{958}{}{Pøála bych si, aby byl Myron teplej.}
-{959}{}{To by mì zajímalo, proè se tomu øíká ulice Panen...}
-{960}{}{Nìkdy si pøeju, aby si dal pytel pøes hlavu.}
-{961}{}{Koupíš mi pití, otrokáøi?}
-{962}{}{Vezmeš osamìlou enu do mìsta, otrokáøi?}
-{963}{}{Eh... jasnì, e jsem enská. Jenom si nevšímej toho ohryzku.}
-{964}{}{Slyšela jsem, e nìkterı holky zabily svıho pasáka.}
-{965}{}{Ahoj cizinèe.}
-{966}{}{Doufám, e mì Jules pøestane otravovat.}
-{967}{}{Poøád mám ještì na zádech tu odøeninu od stolu...}
-{968}{}{Jsem ještì utahaná z tı minulı konference otrokáøù.}
-{969}{}{Ké by se tyhle sjezdy konaly v jinım mìstì.}
-{970}{}{Víš, e bys dokázal rozhavit i skálu?}
-{971}{}{Myslela jsem, e cítím, jak se Zemì pohnula, ale bylo to tìma fazolema k veèeøi.}
-{972}{}{Zahøej mì.}
-{973}{}{Jsem ještì panna, ale nejsem v tom moc dobrá.}
-{974}{}{Nepotøebuješ prùvodce mìstem, otrokáøi?}
-{975}{}{Panejo. Tak TOHLE bude jen za zvláštní pøíplatek.}
-{976}{}{Jules chce poøád volòásky.}
-{977}{}{Rodiny prı maj mezi sebou zase nìjakı tøenice.}
-{978}{}{Kšefty stagnujou. U aby dorazila nìjaká karavana.}
-{979}{}{Take se pøevlíkl za páraèe a pak...}
-{980}{}{Potøebuju rozepnout šaty.}
-{981}{}{Zapneš mi šaty? A pak zase rozepneš?}
-{982}{}{Promiò, co jsi to øíkal? Mìla jsem moc práce s pozorováním tvıho zadku.}
-{983}{}{Nechceš zabít trochu nudy?}
-{984}{}{Hledáš potìšení?}
-{985}{}{Minulej tejden jsem nakopala Julese do koulí.}
-{986}{}{Chceš si trochu uít?}
-{987}{}{Neøíkají mi Paní Štìstìna jen tak pro nic za nic.}
-{988}{}{SAMOZØEJMÌ, e miluju kondomy s pøíchutí brahmín. Mòam.}
-{989}{}{Vyrazíme si spolu, otrokáøi?}
-{990}{}{Ké by tak pro Myrona vynalezli nìjakı sexuální placebo.}
-{991}{}{Nechceš jít se mnou na rande, otrokáøi?}
-{992}{}{Otrokáøi, jedinı co potøebuješ je jedna noc se mnou.}
-{993}{}{Hledáš rajskou zahradu? Tak pojï se mnou do lonice.}
-{994}{}{Ty máš prachy, otrokáøi, já mám èas.}
-{995}{}{Pomùeš mi? Hledám svı ztracenı panenství.}
-{996}{}{Sice jsem ještì panna, ale potøebuju peníze.}
-{997}{}{Buï nìnej, dneska je to poprvı.}
-{998}{}{Jsem hroznì nadrená.}
-{999}{}{Ty máš chu, já mám spásu.}
-{1000}{}{Probudím v tobì duši dítìte.}
-{1001}{}{Dìlám to jenom proto, abych si mohla zaplatit školu.}
-{1002}{}{Hele, tak naposled: NE, nechci se pøevlíknout za "Zakladatele."}
-{1003}{}{Hledáš kde zakotvit?}
-{1004}{}{Chceš mì slyšet sténat?}
+{938}{}{Ve Vault City maj prej jenom dva typy ObÄanÅ¯. Asi doÅ¡lo k nÄ›jakÃ½ nehodÄ› pÅ™i klonovÃ¡nÃ­.}
+{939}{}{CÃ­tÃ­m se jako kdybych minulou noc ubÄ›hla maratÃ³n...}
+{940}{}{HledÃ¡Å¡ lÃ¡sku, zlato?}
+{941}{}{Å½Ã¡dnÃ½ lÃ­bÃ¡nÃ­. To je zÃ¡kladnÃ­ pravidlo.}
+{942}{}{KÃ©Å¾ by Myron odeÅ¡el pryÄ. NÄ›kam hodnÄ› daleko.}
+{943}{}{UdÄ›lÃ¡m ti co budeÅ¡ chtÃ­t, otrokÃ¡Å™i... kdyÅ¾ na to budeÅ¡ mÃ­t prachy.}
+{944}{}{JÃ¡ mÅ¯Å¾u tÅ™eba hned, zlato. A co ty?}
+{945}{}{ZapomeÅˆ na automaty. JÃ¡ ti nabÃ­dnu MNOHEM vÃ­c.}
+{946}{}{NesnÃ¡Å¡Ã­m Å¾uÅ¾lÃ¡nÃ­ koulÃ­.}
+{947}{}{Zkus to se mnou, otrokÃ¡Å™i.}
+{948}{}{HledÃ¡Å¡ potÄ›Å¡enÃ­?}
+{949}{}{NefalÅ¡ovanÃ¡ New Reno lÃ¡ska, tady a teÄ.}
+{950}{}{PÄ›knÄ› si s tebou pohraju.}
+{951}{}{JÃ¡ jsem NechutnÃ¡ Spice.}
+{952}{}{JÃ¡ jsem DomÃ¡cÃ­ Spice.}
+{953}{}{JÃ¡ jsem Å lapka Spice.}
+{954}{}{JÃ¡ jsem Old Spice.}
+{955}{}{JÃ¡ jsem Syfilis... eh, Å lapka Spice.}
+{956}{}{JÃ¡ jsem OplzlÃ¡ Spice.}
+{957}{}{PoslyÅ¡... mÅ¯Å¾u Å™Ã­ct kÃ¡moÅ¡ce jestli chceÅ¡ dvojitej orÃ¡l.}
+{958}{}{PÅ™Ã¡la bych si, aby byl Myron teplej.}
+{959}{}{To by mÄ› zajÃ­malo, proÄ se tomu Å™Ã­kÃ¡ ulice Panen...}
+{960}{}{NÄ›kdy si pÅ™eju, aby si dal pytel pÅ™es hlavu.}
+{961}{}{KoupÃ­Å¡ mi pitÃ­, otrokÃ¡Å™i?}
+{962}{}{VezmeÅ¡ osamÄ›lou Å¾enu do mÄ›sta, otrokÃ¡Å™i?}
+{963}{}{Eh... jasnÄ›, Å¾e jsem Å¾enskÃ¡. Jenom si nevÅ¡Ã­mej toho ohryzku.}
+{964}{}{SlyÅ¡ela jsem, Å¾e nÄ›kterÃ½ holky zabily svÃ½ho pasÃ¡ka.}
+{965}{}{Ahoj cizinÄe.}
+{966}{}{DoufÃ¡m, Å¾e mÄ› Jules pÅ™estane otravovat.}
+{967}{}{PoÅ™Ã¡d mÃ¡m jeÅ¡tÄ› na zÃ¡dech tu odÅ™eninu od stolu...}
+{968}{}{Jsem jeÅ¡tÄ› utahanÃ¡ z tÃ½ minulÃ½ konference otrokÃ¡Å™Å¯.}
+{969}{}{KÃ©Å¾ by se tyhle sjezdy konaly v jinÃ½m mÄ›stÄ›.}
+{970}{}{VÃ­Å¡, Å¾e bys dokÃ¡zal rozÅ¾havit i skÃ¡lu?}
+{971}{}{Myslela jsem, Å¾e cÃ­tÃ­m, jak se ZemÄ› pohnula, ale bylo to tÄ›ma fazolema k veÄeÅ™i.}
+{972}{}{ZahÅ™ej mÄ›.}
+{973}{}{Jsem jeÅ¡tÄ› panna, ale nejsem v tom moc dobrÃ¡.}
+{974}{}{NepotÅ™ebujeÅ¡ prÅ¯vodce mÄ›stem, otrokÃ¡Å™i?}
+{975}{}{Panejo. Tak TOHLE bude jen za zvlÃ¡Å¡tnÃ­ pÅ™Ã­platek.}
+{976}{}{Jules chce poÅ™Ã¡d volÅˆÃ¡sky.}
+{977}{}{Rodiny prÃ½ maj mezi sebou zase nÄ›jakÃ½ tÅ™enice.}
+{978}{}{KÅ¡efty stagnujou. UÅ¾ aby dorazila nÄ›jakÃ¡ karavana.}
+{979}{}{TakÅ¾e se pÅ™evlÃ­kl za pÃ¡raÄe a pak...}
+{980}{}{PotÅ™ebuju rozepnout Å¡aty.}
+{981}{}{ZapneÅ¡ mi Å¡aty? A pak zase rozepneÅ¡?}
+{982}{}{PromiÅˆ, co jsi to Å™Ã­kal? MÄ›la jsem moc prÃ¡ce s pozorovÃ¡nÃ­m tvÃ½ho zadku.}
+{983}{}{NechceÅ¡ zabÃ­t trochu nudy?}
+{984}{}{HledÃ¡Å¡ potÄ›Å¡enÃ­?}
+{985}{}{Minulej tejden jsem nakopala Julese do koulÃ­.}
+{986}{}{ChceÅ¡ si trochu uÅ¾Ã­t?}
+{987}{}{NeÅ™Ã­kajÃ­ mi PanÃ­ Å tÄ›stÄ›na jen tak pro nic za nic.}
+{988}{}{SAMOZÅ˜EJMÄš, Å¾e miluju kondomy s pÅ™Ã­chutÃ­ brahmÃ­n. MÅˆam.}
+{989}{}{VyrazÃ­me si spolu, otrokÃ¡Å™i?}
+{990}{}{KÃ©Å¾ by tak pro Myrona vynalezli nÄ›jakÃ½ sexuÃ¡lnÃ­ placebo.}
+{991}{}{NechceÅ¡ jÃ­t se mnou na rande, otrokÃ¡Å™i?}
+{992}{}{OtrokÃ¡Å™i, jedinÃ½ co potÅ™ebujeÅ¡ je jedna noc se mnou.}
+{993}{}{HledÃ¡Å¡ rajskou zahradu? Tak pojÄ se mnou do loÅ¾nice.}
+{994}{}{Ty mÃ¡Å¡ prachy, otrokÃ¡Å™i, jÃ¡ mÃ¡m Äas.}
+{995}{}{PomÅ¯Å¾eÅ¡ mi? HledÃ¡m svÃ½ ztracenÃ½ panenstvÃ­.}
+{996}{}{Sice jsem jeÅ¡tÄ› panna, ale potÅ™ebuju penÃ­ze.}
+{997}{}{BuÄ nÄ›Å¾nej, dneska je to poprvÃ½.}
+{998}{}{Jsem hroznÄ› nadrÅ¾enÃ¡.}
+{999}{}{Ty mÃ¡Å¡ chuÅ¥, jÃ¡ mÃ¡m spÃ¡su.}
+{1000}{}{ProbudÃ­m v tobÄ› duÅ¡i dÃ­tÄ›te.}
+{1001}{}{DÄ›lÃ¡m to jenom proto, abych si mohla zaplatit Å¡kolu.}
+{1002}{}{Hele, tak naposled: NE, nechci se pÅ™evlÃ­knout za "Zakladatele."}
+{1003}{}{HledÃ¡Å¡ kde zakotvit?}
+{1004}{}{ChceÅ¡ mÄ› slyÅ¡et stÃ©nat?}
 {1005}{}{::Vrrrr::}
-{1006}{}{::Špulí ústa::}
-{1007}{}{Pøestaò mì lechtat.}
-{1008}{}{Jsem vzhùru od vèerejšího veèera...}
-{1009}{}{Zahrajeme si na páraèe v dobì páøení?}
-{1010}{}{Nejsem sice levná, ale za to dìlám i speciality.}
-{1011}{}{Svazování je za pøíplatek.}
-{1012}{}{Kde jsem nechala svùj biè?}
-{1013}{}{Staèí øíct a mùem jít na to.}
-{1014}{}{Vèera veèer jsem se musela oblíknout jako WILMA.}
-{1015}{}{Vèera jsem to dìlala s Myronem. Asi 5 sekund.}
-{1016}{}{Potøebuješ vyprázdnit nádr?}
-{1017}{}{Ké by vynalezli nìjakı tìlovı oleje vonící po Jetu...}
-{1018}{}{Pomùeš pannì zbavit se svıho panenství?}
-{1019}{}{Zadek mi u málem upadl a Myron poøád nemìl dost.}
-{1020}{}{Zase tu opruzovali ti blbci z Protialkoholickıho hnutí...}
-{1021}{}{Vdycky kdy tì vidím, zaène mi pípat mùj Geigerùv pøístroj.}
-{1022}{}{::Píská::}
-{1023}{}{Kousání je za pøíplatek.}
-{1024}{}{Garantuju ti, e jsem lepší ne ten Pip-Boy, co máš na ruce.}
-{1025}{}{Chceš si uít?}
-{1026}{}{Radši bych to dìlala s Avellonem.}
-{1027}{}{Škoda, e tu není Nick Kesting. Mohli jsme si povídat celı hodiny!}
-{1028}{}{Nick Kesting je fakt prima chlapík. Bájeènì si spolu rozumíme.}
-{1029}{}{Tommy Tvrïák je dokonalej.}
-{1030}{}{Za padesát babek tì vezmu do ráje.}
-{1031}{}{Jmenuju se Povolná. A ty, otrokáøko?}
-{1032}{}{Potøebuješ nìkoho, kdo ti uleví od toho svrbìní v rozkroku, otrokáøko?}
-{1033}{}{Nechceš mì šoupnout zpátky do svı klece, otrokáøko?}
-{1034}{}{Nazdar otrokáøko. Sháníš enskou?}
-{1035}{}{Chceš zkusit jakı je to se enskou, zlato?}
-{1036}{}{Chceš se pomazlit, otrokáøko?}
-{1037}{}{Máš chu experimentovat, otrokáøko? Tak to doka.}
-{1038}{}{Chceš si zaøádit, otrokáøko?}
-{1039}{}{Potøebuješ nìkoho, kdo ti zahøeje klín, otrokáøko?}
-{1040}{}{Potøebuješ nìkoho, kdo by ti zahøál postel, otrokáøko?}
-{1041}{}{Máš moc hezkı køivky, otrokáøko.}
-{1042}{}{Chceš si zaskotaèit, otrokáøko?}
-{1043}{}{Otrokáøko, dokud se nepomiluješ v New Renu, nevíš, co je to láska.}
-{1044}{}{Moje práce? Dìlám z chlapcù chlapy. Sice nevím, co dìlám ze enskıch, ale moc ráda bych to zjistila.}
-{1045}{}{Zabloudila jsi, otrokáøko?}
-{1046}{}{Hledáš potìšení, otrokáøko?}
-{1047}{}{Nechceš jít se mnou na rande, otrokáøko?}
-{1048}{}{Nemáš oheò, otrokáøko?}
-{1049}{}{Vdycky kdy tì vidím, otrokáøko, zaène mi pípat mùj Geigerùv pøístroj.}
-{1050}{}{Jmenuju se Povolná. A ty?}
-{1051}{}{Trochu moc hyperaktivní, ne?}
-{1052}{}{Máš svùj vlastní ruèník?}
-{1053}{}{JO, jsou pravı.}
-{1054}{}{JO, jsou pravı a NE, nemùeš si sáhnout.}
+{1006}{}{::Å pulÃ­ Ãºsta::}
+{1007}{}{PÅ™estaÅˆ mÄ› lechtat.}
+{1008}{}{Jsem vzhÅ¯ru od vÄerejÅ¡Ã­ho veÄera...}
+{1009}{}{Zahrajeme si na pÃ¡raÄe v dobÄ› pÃ¡Å™enÃ­?}
+{1010}{}{Nejsem sice levnÃ¡, ale za to dÄ›lÃ¡m i speciality.}
+{1011}{}{SvazovÃ¡nÃ­ je za pÅ™Ã­platek.}
+{1012}{}{Kde jsem nechala svÅ¯j biÄ?}
+{1013}{}{StaÄÃ­ Å™Ã­ct a mÅ¯Å¾em jÃ­t na to.}
+{1014}{}{VÄera veÄer jsem se musela oblÃ­knout jako WILMA.}
+{1015}{}{VÄera jsem to dÄ›lala s Myronem. Asi 5 sekund.}
+{1016}{}{PotÅ™ebujeÅ¡ vyprÃ¡zdnit nÃ¡drÅ¾?}
+{1017}{}{KÃ©Å¾ by vynalezli nÄ›jakÃ½ tÄ›lovÃ½ oleje vonÃ­cÃ­ po Jetu...}
+{1018}{}{PomÅ¯Å¾eÅ¡ pannÄ› zbavit se svÃ½ho panenstvÃ­?}
+{1019}{}{Zadek mi uÅ¾ mÃ¡lem upadl a Myron poÅ™Ã¡d nemÄ›l dost.}
+{1020}{}{Zase tu opruzovali ti blbci z ProtialkoholickÃ½ho hnutÃ­...}
+{1021}{}{VÅ¾dycky kdyÅ¾ tÄ› vidÃ­m, zaÄne mi pÃ­pat mÅ¯j GeigerÅ¯v pÅ™Ã­stroj.}
+{1022}{}{::PÃ­skÃ¡::}
+{1023}{}{KousÃ¡nÃ­ je za pÅ™Ã­platek.}
+{1024}{}{Garantuju ti, Å¾e jsem lepÅ¡Ã­ neÅ¾ ten Pip-Boy, co mÃ¡Å¡ na ruce.}
+{1025}{}{ChceÅ¡ si uÅ¾Ã­t?}
+{1026}{}{RadÅ¡i bych to dÄ›lala s Avellonem.}
+{1027}{}{Å koda, Å¾e tu nenÃ­ Nick Kesting. Mohli jsme si povÃ­dat celÃ½ hodiny!}
+{1028}{}{Nick Kesting je fakt prima chlapÃ­k. BÃ¡jeÄnÄ› si spolu rozumÃ­me.}
+{1029}{}{Tommy TvrÄÃ¡k je dokonalej.}
+{1030}{}{Za padesÃ¡t babek tÄ› vezmu do rÃ¡je.}
+{1031}{}{Jmenuju se PovolnÃ¡. A ty, otrokÃ¡Å™ko?}
+{1032}{}{PotÅ™ebujeÅ¡ nÄ›koho, kdo ti ulevÃ­ od toho svrbÄ›nÃ­ v rozkroku, otrokÃ¡Å™ko?}
+{1033}{}{NechceÅ¡ mÄ› Å¡oupnout zpÃ¡tky do svÃ½ klece, otrokÃ¡Å™ko?}
+{1034}{}{Nazdar otrokÃ¡Å™ko. ShÃ¡nÃ­Å¡ Å¾enskou?}
+{1035}{}{ChceÅ¡ zkusit jakÃ½ je to se Å¾enskou, zlato?}
+{1036}{}{ChceÅ¡ se pomazlit, otrokÃ¡Å™ko?}
+{1037}{}{MÃ¡Å¡ chuÅ¥ experimentovat, otrokÃ¡Å™ko? Tak to dokaÅ¾.}
+{1038}{}{ChceÅ¡ si zaÅ™Ã¡dit, otrokÃ¡Å™ko?}
+{1039}{}{PotÅ™ebujeÅ¡ nÄ›koho, kdo ti zahÅ™eje klÃ­n, otrokÃ¡Å™ko?}
+{1040}{}{PotÅ™ebujeÅ¡ nÄ›koho, kdo by ti zahÅ™Ã¡l postel, otrokÃ¡Å™ko?}
+{1041}{}{MÃ¡Å¡ moc hezkÃ½ kÅ™ivky, otrokÃ¡Å™ko.}
+{1042}{}{ChceÅ¡ si zaskotaÄit, otrokÃ¡Å™ko?}
+{1043}{}{OtrokÃ¡Å™ko, dokud se nepomilujeÅ¡ v New Renu, nevÃ­Å¡, co je to lÃ¡ska.}
+{1044}{}{Moje prÃ¡ce? DÄ›lÃ¡m z chlapcÅ¯ chlapy. Sice nevÃ­m, co dÄ›lÃ¡m ze Å¾enskÃ½ch, ale moc rÃ¡da bych to zjistila.}
+{1045}{}{Zabloudila jsi, otrokÃ¡Å™ko?}
+{1046}{}{HledÃ¡Å¡ potÄ›Å¡enÃ­, otrokÃ¡Å™ko?}
+{1047}{}{NechceÅ¡ jÃ­t se mnou na rande, otrokÃ¡Å™ko?}
+{1048}{}{NemÃ¡Å¡ oheÅˆ, otrokÃ¡Å™ko?}
+{1049}{}{VÅ¾dycky kdyÅ¾ tÄ› vidÃ­m, otrokÃ¡Å™ko, zaÄne mi pÃ­pat mÅ¯j GeigerÅ¯v pÅ™Ã­stroj.}
+{1050}{}{Jmenuju se PovolnÃ¡. A ty?}
+{1051}{}{Trochu moc hyperaktivnÃ­, ne?}
+{1052}{}{MÃ¡Å¡ svÅ¯j vlastnÃ­ ruÄnÃ­k?}
+{1053}{}{JO, jsou pravÃ½.}
+{1054}{}{JO, jsou pravÃ½ a NE, nemÅ¯Å¾eÅ¡ si sÃ¡hnout.}
 {1055}{}{Jdi do hajzlu, magore.}
-{1056}{}{Nemáš chu na rodeo, kovboji?}
-{1057}{}{Nechceš mi projet pekáè tím svım rùovım mackem?}
-{1058}{}{Potøebuješ nìkoho, kdo tì v noci zahøeje?}
-{1059}{}{Potøebuješ nìkoho, kdo by ti zahøál postel?}
-{1060}{}{Zdá se, e máš v koulích pøetlak, kámo. Neulevíme jim spolu trochu?}
-{1061}{}{Copak to máš v kalhotech za hada?}
-{1062}{}{Hledáš povyraení?}
-{1063}{}{Dokud se nepomiluješ v New Renu, nevíš, co je to láska.}
-{1064}{}{Sháníš rande?}
-{1065}{}{Hele, u mnì se ádnı ochutnávky zdarma nevedou.}
-{1066}{}{Slyšela jsem, e se nìco stalo v Obchodní ètvrti...}
-{1067}{}{Hledáš spoleènost?}
-{1068}{}{V poslední dobì je v Renu nejoblíbenìjším sportem kdo dál dostøíkne...}
-{1069}{}{Chceš si zaskotaèit?}
-{1070}{}{Dokud se nepomiluješ v New Renu, nevíš, co je to láska.}
-{1071}{}{Moje práce? Dìlám z chlapcù chlapy.}
-{1072}{}{Dokáeš svım penisem pøibít 6-ti palcovı høebík?}
-{1073}{}{Tuhle ulici šlapu u od vèerejšího veèera...}
-{1074}{}{Potøebuješ spoleènost na veèer? Nebo tøeba jen na deset minut?}
-{1075}{}{Chceš si zalítat?}
-{1076}{}{U dlouho jsem nevidìla ádnı karavany z Reddingu...}
-{1077}{}{Pìknej klacek.}
+{1056}{}{NemÃ¡Å¡ chuÅ¥ na rodeo, kovboji?}
+{1057}{}{NechceÅ¡ mi projet pekÃ¡Ä tÃ­m svÃ½m rÅ¯Å¾ovÃ½m mackem?}
+{1058}{}{PotÅ™ebujeÅ¡ nÄ›koho, kdo tÄ› v noci zahÅ™eje?}
+{1059}{}{PotÅ™ebujeÅ¡ nÄ›koho, kdo by ti zahÅ™Ã¡l postel?}
+{1060}{}{ZdÃ¡ se, Å¾e mÃ¡Å¡ v koulÃ­ch pÅ™etlak, kÃ¡mo. NeulevÃ­me jim spolu trochu?}
+{1061}{}{Copak to mÃ¡Å¡ v kalhotech za hada?}
+{1062}{}{HledÃ¡Å¡ povyraÅ¾enÃ­?}
+{1063}{}{Dokud se nepomilujeÅ¡ v New Renu, nevÃ­Å¡, co je to lÃ¡ska.}
+{1064}{}{ShÃ¡nÃ­Å¡ rande?}
+{1065}{}{Hele, u mnÄ› se Å¾Ã¡dnÃ½ ochutnÃ¡vky zdarma nevedou.}
+{1066}{}{SlyÅ¡ela jsem, Å¾e se nÄ›co stalo v ObchodnÃ­ Ätvrti...}
+{1067}{}{HledÃ¡Å¡ spoleÄnost?}
+{1068}{}{V poslednÃ­ dobÄ› je v Renu nejoblÃ­benÄ›jÅ¡Ã­m sportem kdo dÃ¡l dostÅ™Ã­kne...}
+{1069}{}{ChceÅ¡ si zaskotaÄit?}
+{1070}{}{Dokud se nepomilujeÅ¡ v New Renu, nevÃ­Å¡, co je to lÃ¡ska.}
+{1071}{}{Moje prÃ¡ce? DÄ›lÃ¡m z chlapcÅ¯ chlapy.}
+{1072}{}{DokÃ¡Å¾eÅ¡ svÃ½m penisem pÅ™ibÃ­t 6-ti palcovÃ½ hÅ™ebÃ­k?}
+{1073}{}{Tuhle ulici Å¡lapu uÅ¾ od vÄerejÅ¡Ã­ho veÄera...}
+{1074}{}{PotÅ™ebujeÅ¡ spoleÄnost na veÄer? Nebo tÅ™eba jen na deset minut?}
+{1075}{}{ChceÅ¡ si zalÃ­tat?}
+{1076}{}{UÅ¾ dlouho jsem nevidÄ›la Å¾Ã¡dnÃ½ karavany z Reddingu...}
+{1077}{}{PÄ›knej klacek.}
 {1078}{}{Zabloudil jsi, kovboji?}
-{1079}{}{Potøebuješ uvolnit trochu napìtí, vojáèku?}
-{1080}{}{Mùu ti s nìèím pomoct, cizinèe?}
-{1081}{}{Hledáš potìšení?}
-{1082}{}{Chceš si trochu uít?}
-{1083}{}{Líbí se mi tvoje ještìrka.}
-{1084}{}{Ty máš v kapse ještìrku?}
-{1085}{}{Nepotøebuješ prùvodce, zlato?}
-{1086}{}{Nemáš oheò?}
-{1087}{}{Ty máš prachy, já mám èas.}
-{1088}{}{Pojï chlapèe, udìlám z tebe mue.}
-{1089}{}{Zdravíèko, pane Tyler. Na procházce?}
-{1090}{}{Jestli chceš, abych si s tebou potom povídala, tak si musíš pøiplatit.}
-{1091}{}{Jeden chlápek, Fred Hatch, chtìl vìdìt, jestli jsou ve mìstì nìjakı "velkı holky". Divnı.}
-{1092}{}{Ten tvùj pøítel s tou velkou kostí v nose... to je dobrej šašek.}
-{1093}{}{Umí ten tvùj pøítel s tou kostí nìjakı kousky s nosem?}
-{1094}{}{Moná bych si taky mìla do nosu strèit kost. Mohlo by to pøilákat zákaznice.}
-{1095}{}{Jeišikriste, ta kost, co má ten chlap v nose, je velká jako moje ruka.}
-{1096}{}{Radši ani nechci vìdìt jak si tam ten chlap tu kost nacpal.}
-{1097}{}{Pro koho tvùj pøítel s tou kostí v nosu šlape?}
-{1098}{}{Kolik si úètuje ten tvùj kámoš s kostí v nose?}
-{1099}{}{Za tøicet doláèù tvımu kámošovi tu kost v nose vykouøím...}
-{1100}{}{Ten tvùj pøítel si tou kostí v nose kompenzuje nìjakej komplex?}
-{1101}{}{Hledáš rajskou zahradu? Tak pojï se mnou do lonice.}
-{1102}{}{Hledáš povyraení?}
-{1103}{}{Jestli si nejseš jistej, tak ho vytáhni.}
-{1104}{}{Nauèím tì pár vìcí, kterı tì nauèí jenom ena.}
-{1105}{}{Koneènì jsem si poøídila vycpanou pelest.}
-{1106}{}{Ochutnávka ráje tì bude stát jenom deset babek.}
-{1107}{}{Myron: Spousta povyku, ale ádnı èiny.}
-{1108}{}{Myron je hroznej òouma.}
-{1109}{}{AC-DC, B n' D, vdy je to fuk.}
-{1110}{}{Ta Bishopova holka je úplná nymfomanka.}
+{1079}{}{PotÅ™ebujeÅ¡ uvolnit trochu napÄ›tÃ­, vojÃ¡Äku?}
+{1080}{}{MÅ¯Å¾u ti s nÄ›ÄÃ­m pomoct, cizinÄe?}
+{1081}{}{HledÃ¡Å¡ potÄ›Å¡enÃ­?}
+{1082}{}{ChceÅ¡ si trochu uÅ¾Ã­t?}
+{1083}{}{LÃ­bÃ­ se mi tvoje jeÅ¡tÄ›rka.}
+{1084}{}{Ty mÃ¡Å¡ v kapse jeÅ¡tÄ›rku?}
+{1085}{}{NepotÅ™ebujeÅ¡ prÅ¯vodce, zlato?}
+{1086}{}{NemÃ¡Å¡ oheÅˆ?}
+{1087}{}{Ty mÃ¡Å¡ prachy, jÃ¡ mÃ¡m Äas.}
+{1088}{}{PojÄ chlapÄe, udÄ›lÃ¡m z tebe muÅ¾e.}
+{1089}{}{ZdravÃ­Äko, pane Tyler. Na prochÃ¡zce?}
+{1090}{}{Jestli chceÅ¡, abych si s tebou potom povÃ­dala, tak si musÃ­Å¡ pÅ™iplatit.}
+{1091}{}{Jeden chlÃ¡pek, Fred Hatch, chtÄ›l vÄ›dÄ›t, jestli jsou ve mÄ›stÄ› nÄ›jakÃ½ "velkÃ½ holky". DivnÃ½.}
+{1092}{}{Ten tvÅ¯j pÅ™Ã­tel s tou velkou kostÃ­ v nose... to je dobrej Å¡aÅ¡ek.}
+{1093}{}{UmÃ­ ten tvÅ¯j pÅ™Ã­tel s tou kostÃ­ nÄ›jakÃ½ kousky s nosem?}
+{1094}{}{MoÅ¾nÃ¡ bych si taky mÄ›la do nosu strÄit kost. Mohlo by to pÅ™ilÃ¡kat zÃ¡kaznice.}
+{1095}{}{JeÅ¾iÅ¡ikriste, ta kost, co mÃ¡ ten chlap v nose, je velkÃ¡ jako moje ruka.}
+{1096}{}{RadÅ¡i ani nechci vÄ›dÄ›t jak si tam ten chlap tu kost nacpal.}
+{1097}{}{Pro koho tvÅ¯j pÅ™Ã­tel s tou kostÃ­ v nosu Å¡lape?}
+{1098}{}{Kolik si ÃºÄtuje ten tvÅ¯j kÃ¡moÅ¡ s kostÃ­ v nose?}
+{1099}{}{Za tÅ™icet dolÃ¡ÄÅ¯ tvÃ½mu kÃ¡moÅ¡ovi tu kost v nose vykouÅ™Ã­m...}
+{1100}{}{Ten tvÅ¯j pÅ™Ã­tel si tou kostÃ­ v nose kompenzuje nÄ›jakej komplex?}
+{1101}{}{HledÃ¡Å¡ rajskou zahradu? Tak pojÄ se mnou do loÅ¾nice.}
+{1102}{}{HledÃ¡Å¡ povyraÅ¾enÃ­?}
+{1103}{}{Jestli si nejseÅ¡ jistej, tak ho vytÃ¡hni.}
+{1104}{}{NauÄÃ­m tÄ› pÃ¡r vÄ›cÃ­, kterÃ½ tÄ› nauÄÃ­ jenom Å¾ena.}
+{1105}{}{KoneÄnÄ› jsem si poÅ™Ã­dila vycpanou pelest.}
+{1106}{}{OchutnÃ¡vka rÃ¡je tÄ› bude stÃ¡t jenom deset babek.}
+{1107}{}{Myron: Spousta povyku, ale Å¾Ã¡dnÃ½ Äiny.}
+{1108}{}{Myron je hroznej Åˆouma.}
+{1109}{}{AC-DC, B n' D, vÅ¾dyÅ¥ je to fuk.}
+{1110}{}{Ta Bishopova holka je ÃºplnÃ¡ nymfomanka.}
 {1111}{}{She ain't no Jet addict, she's a BONE addict.}
-{1112}{}{Ve Vault City maj prej jenom dva typy Obèanù. Asi došlo k nìjakı nehodì pøi klonování.}
-{1113}{}{Cítím se jako kdybych minulou noc ubìhla maratón...}
-{1114}{}{Hledáš lásku, zlato?}
-{1115}{}{ádnı líbání. To je základní pravidlo.}
-{1116}{}{Ké by Myron odešel pryè. Nìkam hodnì daleko.}
-{1117}{}{Splním ti COKOLIV budeš chtít... pokud na to budeš mít prachy.}
-{1118}{}{Já mùu tøeba hned, zlato. A co ty?}
-{1119}{}{Zapomeò na automaty. Já ti nabídnu MNOHEM víc.}
-{1120}{}{Nesnáším ulání koulí.}
+{1112}{}{Ve Vault City maj prej jenom dva typy ObÄanÅ¯. Asi doÅ¡lo k nÄ›jakÃ½ nehodÄ› pÅ™i klonovÃ¡nÃ­.}
+{1113}{}{CÃ­tÃ­m se jako kdybych minulou noc ubÄ›hla maratÃ³n...}
+{1114}{}{HledÃ¡Å¡ lÃ¡sku, zlato?}
+{1115}{}{Å½Ã¡dnÃ½ lÃ­bÃ¡nÃ­. To je zÃ¡kladnÃ­ pravidlo.}
+{1116}{}{KÃ©Å¾ by Myron odeÅ¡el pryÄ. NÄ›kam hodnÄ› daleko.}
+{1117}{}{SplnÃ­m ti COKOLIV budeÅ¡ chtÃ­t... pokud na to budeÅ¡ mÃ­t prachy.}
+{1118}{}{JÃ¡ mÅ¯Å¾u tÅ™eba hned, zlato. A co ty?}
+{1119}{}{ZapomeÅˆ na automaty. JÃ¡ ti nabÃ­dnu MNOHEM vÃ­c.}
+{1120}{}{NesnÃ¡Å¡Ã­m Å¾uÅ¾lÃ¡nÃ­ koulÃ­.}
 {1121}{}{Zkus to se mnou, zlato.}
-{1122}{}{Hledáš potìšení?}
-{1123}{}{Nemùu uvìøit, kolik bylo striptérek na Feargusovì louèení se svobodou.}
-{1124}{}{Nefalšovaná New Reno láska, tady a teï.}
-{1125}{}{Pìknì si s tebou pohraju.}
-{1126}{}{Já jsem Nechutná Spice.}
-{1127}{}{Já jsem Domácí Spice.}
-{1128}{}{Já jsem Old Spice.}
-{1129}{}{Já jsem Šlapka Spice.}
-{1130}{}{Já jsem Syfilis... eh, Šlapka Spice.}
-{1131}{}{Já jsem Oplzlá Spice.}
-{1132}{}{Mùu øíct kámošce jestli chceš dvojitej orál.}
-{1133}{}{Pøála bych si, aby byl Myron teplej.}
-{1134}{}{To by mì zajímalo, proè se tomu øíká ulice Panen...}
-{1135}{}{Nìkdy si pøeju, aby si dal pytel pøes hlavu.}
-{1136}{}{Koupíš mi pití?}
-{1137}{}{Vezmeš osamìlou enu do mìsta?}
-{1138}{}{Eh... jasnì, e jsem enská. Jenom si nevšímej toho ohryzku.}
-{1139}{}{Slyšela jsem, e nìkterı holky zabily svıho pasáka.}
-{1140}{}{Ahoj cizinèe.}
-{1141}{}{Doufám, e mì Jules pøestane otravovat.}
-{1142}{}{Poøád mám ještì na zádech tu odøeninu od stolu...}
-{1143}{}{Jsem ještì utahaná z toho minulıho sjezdu otrokáøù...}
-{1144}{}{Ké by se tyhle sjezdy konaly v jinım mìstì.}
-{1145}{}{Víš, e bys dokázal rozhavit i skálu?}
-{1146}{}{Myslela jsem, e cítím, jak se Zemì pohnula, ale bylo to tìma fazolema k veèeøi.}
-{1147}{}{Zahøej mì.}
-{1148}{}{Jsem ještì panna, ale nejsem v tom moc dobrá.}
-{1149}{}{Nepotøebuješ prùvodce mìstem?}
-{1150}{}{Panejo. Tak TOHLE jedinì za zvláštní pøíplatek.}
-{1151}{}{Jules chce poøád volòásky.}
-{1152}{}{Rodiny prı maj mezi sebou zase nìjakı tøenice.}
-{1153}{}{Kšefty stagnujou. U aby dorazila nìjaká karavana.}
-{1154}{}{Take se pøevlíkl za páraèe a pak...}
-{1155}{}{Potøebuju rozepnout šaty.}
-{1156}{}{Zapneš mi šaty? A pak zase rozepneš?}
-{1157}{}{Promiò, co jsi to øíkal? Mìla jsem moc práce s pozorováním tvıho zadku.}
-{1158}{}{Nechceš zabít trochu nudy?}
-{1159}{}{Minulej tejden jsem nakopala Julese do koulí.}
-{1160}{}{Neøíkají mi Paní Štìstìna jen tak pro nic za nic.}
-{1161}{}{Samozøejmì, e miluju kondomy s pøíchutí brahmín. Mòam.}
-{1162}{}{Vyrazíme si spolu?}
-{1163}{}{Ké by tak pro Myrona vynalezli nìjakı sexuální placebo.}
-{1164}{}{Nechceš jít se mnou na rande, divochu?}
-{1165}{}{Chceš si zadovádìt, divochu?}
-{1166}{}{Nechceš si zatancovat váleènej tanec v mı lonici, divochu?}
-{1167}{}{Jedinı co potøebuješ je jedna noc se mnou.}
-{1168}{}{Hledáš rajskou zahradu? Tak pojï se mnou do lonice.}
-{1169}{}{Pomùeš mi? Hledám svı ztracenı panenství.}
-{1170}{}{Sice jsem ještì panna, ale potøebuju peníze.}
-{1171}{}{Buï nìnej, dneska je to poprvı.}
-{1172}{}{Jsem hroznì nadrená.}
-{1173}{}{Ty máš chu, já mám spásu.}
-{1174}{}{Probudím v tobì duši dítìte.}
-{1175}{}{Dìlám to jenom proto, abych si mohla zaplatit školu.}
-{1176}{}{Chceš si zaskotaèit, zlato?}
-{1177}{}{Hele, tak ještì jednou: NE, nechci se pøevlíknout za "Zakladatele."}
-{1178}{}{Hledáš kde zakotvit?}
-{1179}{}{Chceš mì slyšet sténat?}
+{1122}{}{HledÃ¡Å¡ potÄ›Å¡enÃ­?}
+{1123}{}{NemÅ¯Å¾u uvÄ›Å™it, kolik bylo striptÃ©rek na FeargusovÄ› louÄenÃ­ se svobodou.}
+{1124}{}{NefalÅ¡ovanÃ¡ New Reno lÃ¡ska, tady a teÄ.}
+{1125}{}{PÄ›knÄ› si s tebou pohraju.}
+{1126}{}{JÃ¡ jsem NechutnÃ¡ Spice.}
+{1127}{}{JÃ¡ jsem DomÃ¡cÃ­ Spice.}
+{1128}{}{JÃ¡ jsem Old Spice.}
+{1129}{}{JÃ¡ jsem Å lapka Spice.}
+{1130}{}{JÃ¡ jsem Syfilis... eh, Å lapka Spice.}
+{1131}{}{JÃ¡ jsem OplzlÃ¡ Spice.}
+{1132}{}{MÅ¯Å¾u Å™Ã­ct kÃ¡moÅ¡ce jestli chceÅ¡ dvojitej orÃ¡l.}
+{1133}{}{PÅ™Ã¡la bych si, aby byl Myron teplej.}
+{1134}{}{To by mÄ› zajÃ­malo, proÄ se tomu Å™Ã­kÃ¡ ulice Panen...}
+{1135}{}{NÄ›kdy si pÅ™eju, aby si dal pytel pÅ™es hlavu.}
+{1136}{}{KoupÃ­Å¡ mi pitÃ­?}
+{1137}{}{VezmeÅ¡ osamÄ›lou Å¾enu do mÄ›sta?}
+{1138}{}{Eh... jasnÄ›, Å¾e jsem Å¾enskÃ¡. Jenom si nevÅ¡Ã­mej toho ohryzku.}
+{1139}{}{SlyÅ¡ela jsem, Å¾e nÄ›kterÃ½ holky zabily svÃ½ho pasÃ¡ka.}
+{1140}{}{Ahoj cizinÄe.}
+{1141}{}{DoufÃ¡m, Å¾e mÄ› Jules pÅ™estane otravovat.}
+{1142}{}{PoÅ™Ã¡d mÃ¡m jeÅ¡tÄ› na zÃ¡dech tu odÅ™eninu od stolu...}
+{1143}{}{Jsem jeÅ¡tÄ› utahanÃ¡ z toho minulÃ½ho sjezdu otrokÃ¡Å™Å¯...}
+{1144}{}{KÃ©Å¾ by se tyhle sjezdy konaly v jinÃ½m mÄ›stÄ›.}
+{1145}{}{VÃ­Å¡, Å¾e bys dokÃ¡zal rozÅ¾havit i skÃ¡lu?}
+{1146}{}{Myslela jsem, Å¾e cÃ­tÃ­m, jak se ZemÄ› pohnula, ale bylo to tÄ›ma fazolema k veÄeÅ™i.}
+{1147}{}{ZahÅ™ej mÄ›.}
+{1148}{}{Jsem jeÅ¡tÄ› panna, ale nejsem v tom moc dobrÃ¡.}
+{1149}{}{NepotÅ™ebujeÅ¡ prÅ¯vodce mÄ›stem?}
+{1150}{}{Panejo. Tak TOHLE jedinÄ› za zvlÃ¡Å¡tnÃ­ pÅ™Ã­platek.}
+{1151}{}{Jules chce poÅ™Ã¡d volÅˆÃ¡sky.}
+{1152}{}{Rodiny prÃ½ maj mezi sebou zase nÄ›jakÃ½ tÅ™enice.}
+{1153}{}{KÅ¡efty stagnujou. UÅ¾ aby dorazila nÄ›jakÃ¡ karavana.}
+{1154}{}{TakÅ¾e se pÅ™evlÃ­kl za pÃ¡raÄe a pak...}
+{1155}{}{PotÅ™ebuju rozepnout Å¡aty.}
+{1156}{}{ZapneÅ¡ mi Å¡aty? A pak zase rozepneÅ¡?}
+{1157}{}{PromiÅˆ, co jsi to Å™Ã­kal? MÄ›la jsem moc prÃ¡ce s pozorovÃ¡nÃ­m tvÃ½ho zadku.}
+{1158}{}{NechceÅ¡ zabÃ­t trochu nudy?}
+{1159}{}{Minulej tejden jsem nakopala Julese do koulÃ­.}
+{1160}{}{NeÅ™Ã­kajÃ­ mi PanÃ­ Å tÄ›stÄ›na jen tak pro nic za nic.}
+{1161}{}{SamozÅ™ejmÄ›, Å¾e miluju kondomy s pÅ™Ã­chutÃ­ brahmÃ­n. MÅˆam.}
+{1162}{}{VyrazÃ­me si spolu?}
+{1163}{}{KÃ©Å¾ by tak pro Myrona vynalezli nÄ›jakÃ½ sexuÃ¡lnÃ­ placebo.}
+{1164}{}{NechceÅ¡ jÃ­t se mnou na rande, divochu?}
+{1165}{}{ChceÅ¡ si zadovÃ¡dÄ›t, divochu?}
+{1166}{}{NechceÅ¡ si zatancovat vÃ¡leÄnej tanec v mÃ½ loÅ¾nici, divochu?}
+{1167}{}{JedinÃ½ co potÅ™ebujeÅ¡ je jedna noc se mnou.}
+{1168}{}{HledÃ¡Å¡ rajskou zahradu? Tak pojÄ se mnou do loÅ¾nice.}
+{1169}{}{PomÅ¯Å¾eÅ¡ mi? HledÃ¡m svÃ½ ztracenÃ½ panenstvÃ­.}
+{1170}{}{Sice jsem jeÅ¡tÄ› panna, ale potÅ™ebuju penÃ­ze.}
+{1171}{}{BuÄ nÄ›Å¾nej, dneska je to poprvÃ½.}
+{1172}{}{Jsem hroznÄ› nadrÅ¾enÃ¡.}
+{1173}{}{Ty mÃ¡Å¡ chuÅ¥, jÃ¡ mÃ¡m spÃ¡su.}
+{1174}{}{ProbudÃ­m v tobÄ› duÅ¡i dÃ­tÄ›te.}
+{1175}{}{DÄ›lÃ¡m to jenom proto, abych si mohla zaplatit Å¡kolu.}
+{1176}{}{ChceÅ¡ si zaskotaÄit, zlato?}
+{1177}{}{Hele, tak jeÅ¡tÄ› jednou: NE, nechci se pÅ™evlÃ­knout za "Zakladatele."}
+{1178}{}{HledÃ¡Å¡ kde zakotvit?}
+{1179}{}{ChceÅ¡ mÄ› slyÅ¡et stÃ©nat?}
 {1180}{}{::Vrrrr::}
-{1181}{}{::Špulí ústa::}
-{1182}{}{Pøestaò mì lechtat.}
-{1183}{}{Jsem vzhùru od vèerejšího veèera...}
-{1184}{}{Zahrajeme si na páraèe v dobì páøení?}
-{1185}{}{Nejsem sice levná, ale za to dìlám i speciality.}
-{1186}{}{Svazování je za pøíplatek.}
-{1187}{}{Kde jsem nechala svùj biè?}
-{1188}{}{Staèí øíct a mùem jít na to.}
-{1189}{}{Vèera veèer jsem se musela oblíknout jako WILMA.}
-{1190}{}{Vèera jsem to dìlala s Myronem. Asi 5 sekund.}
-{1191}{}{Potøebuješ vyprázdnit nádr?}
-{1192}{}{Ké by vynalezli nìjakı tìlovı oleje vonící po Jetu...}
-{1193}{}{Pomùeš pannì zbavit se svıho panenství?}
-{1194}{}{Zadek mi u málem upadl a Myron poøád nemìl dost.}
-{1195}{}{Zase tu opruzovali ti blbci z Protialkoholickıho hnutí...}
-{1196}{}{Vdycky kdy tì vidím, zaène mi pípat mùj Geigerùv pøístroj.}
-{1197}{}{::Píská::}
-{1198}{}{Kousání je za pøíplatek.}
-{1199}{}{Garantuju ti, e jsem lepší ne ten Pip-Boy, co máš na ruce.}
-{1200}{}{Chceš si uít?}
-{1201}{}{Radši bych to dìlala s Avellonem.}
-{1202}{}{Škoda, e tu není Nick Kesting. Mohli jsme si povídat celı hodiny!}
-{1203}{}{Nick Kesting je fakt prima chlapík. Bájeènì si spolu rozumíme.}
-{1204}{}{Tommy Tvrïák je dokonalej.}
-{1205}{}{Za padesát babek tì vezmu do ráje.}
-{1206}{}{Jmenuju se Povolná, holka. A ty?}
-{1207}{}{Nazdar fešando. Sháníš enskou?}
-{1208}{}{Chceš zkusit jakı je to se enskou, zlato?}
-{1209}{}{Nepotøebuješ spoleènost?}
-{1210}{}{Holka, nauèím tì pár vìcí, kterı tì nauèí jenom ena.}
-{1211}{}{Potøebuješ nìkoho, kdo tì v noci zahøeje, zlato?}
-{1212}{}{Potøebuješ nìkoho, kdo by ti zahøál postel, zlato?}
-{1213}{}{Chceš si zaskotaèit, holka?}
-{1214}{}{Holka, dokud se nepomiluješ v New Renu, nevíš, co je to láska.}
-{1215}{}{Chceš si zalítat, holka?}
-{1216}{}{Zabloudila jsi, kotì?}
+{1181}{}{::Å pulÃ­ Ãºsta::}
+{1182}{}{PÅ™estaÅˆ mÄ› lechtat.}
+{1183}{}{Jsem vzhÅ¯ru od vÄerejÅ¡Ã­ho veÄera...}
+{1184}{}{Zahrajeme si na pÃ¡raÄe v dobÄ› pÃ¡Å™enÃ­?}
+{1185}{}{Nejsem sice levnÃ¡, ale za to dÄ›lÃ¡m i speciality.}
+{1186}{}{SvazovÃ¡nÃ­ je za pÅ™Ã­platek.}
+{1187}{}{Kde jsem nechala svÅ¯j biÄ?}
+{1188}{}{StaÄÃ­ Å™Ã­ct a mÅ¯Å¾em jÃ­t na to.}
+{1189}{}{VÄera veÄer jsem se musela oblÃ­knout jako WILMA.}
+{1190}{}{VÄera jsem to dÄ›lala s Myronem. Asi 5 sekund.}
+{1191}{}{PotÅ™ebujeÅ¡ vyprÃ¡zdnit nÃ¡drÅ¾?}
+{1192}{}{KÃ©Å¾ by vynalezli nÄ›jakÃ½ tÄ›lovÃ½ oleje vonÃ­cÃ­ po Jetu...}
+{1193}{}{PomÅ¯Å¾eÅ¡ pannÄ› zbavit se svÃ½ho panenstvÃ­?}
+{1194}{}{Zadek mi uÅ¾ mÃ¡lem upadl a Myron poÅ™Ã¡d nemÄ›l dost.}
+{1195}{}{Zase tu opruzovali ti blbci z ProtialkoholickÃ½ho hnutÃ­...}
+{1196}{}{VÅ¾dycky kdyÅ¾ tÄ› vidÃ­m, zaÄne mi pÃ­pat mÅ¯j GeigerÅ¯v pÅ™Ã­stroj.}
+{1197}{}{::PÃ­skÃ¡::}
+{1198}{}{KousÃ¡nÃ­ je za pÅ™Ã­platek.}
+{1199}{}{Garantuju ti, Å¾e jsem lepÅ¡Ã­ neÅ¾ ten Pip-Boy, co mÃ¡Å¡ na ruce.}
+{1200}{}{ChceÅ¡ si uÅ¾Ã­t?}
+{1201}{}{RadÅ¡i bych to dÄ›lala s Avellonem.}
+{1202}{}{Å koda, Å¾e tu nenÃ­ Nick Kesting. Mohli jsme si povÃ­dat celÃ½ hodiny!}
+{1203}{}{Nick Kesting je fakt prima chlapÃ­k. BÃ¡jeÄnÄ› si spolu rozumÃ­me.}
+{1204}{}{Tommy TvrÄÃ¡k je dokonalej.}
+{1205}{}{Za padesÃ¡t babek tÄ› vezmu do rÃ¡je.}
+{1206}{}{Jmenuju se PovolnÃ¡, holka. A ty?}
+{1207}{}{Nazdar feÅ¡ando. ShÃ¡nÃ­Å¡ Å¾enskou?}
+{1208}{}{ChceÅ¡ zkusit jakÃ½ je to se Å¾enskou, zlato?}
+{1209}{}{NepotÅ™ebujeÅ¡ spoleÄnost?}
+{1210}{}{Holka, nauÄÃ­m tÄ› pÃ¡r vÄ›cÃ­, kterÃ½ tÄ› nauÄÃ­ jenom Å¾ena.}
+{1211}{}{PotÅ™ebujeÅ¡ nÄ›koho, kdo tÄ› v noci zahÅ™eje, zlato?}
+{1212}{}{PotÅ™ebujeÅ¡ nÄ›koho, kdo by ti zahÅ™Ã¡l postel, zlato?}
+{1213}{}{ChceÅ¡ si zaskotaÄit, holka?}
+{1214}{}{Holka, dokud se nepomilujeÅ¡ v New Renu, nevÃ­Å¡, co je to lÃ¡ska.}
+{1215}{}{ChceÅ¡ si zalÃ­tat, holka?}
+{1216}{}{Zabloudila jsi, kotÄ›?}
 {1217}{}{Nazdar G.I. Jane.}
-{1218}{}{Hledáš potìšení, holka?}
-{1219}{}{Chceš si trochu uít, holka?}
-{1220}{}{Nepotøebuješ prùvodce, zlato?}
-{1221}{}{Nemáš oheò, holka?}
-{1222}{}{Ty máš prachy, holka, já mám èas.}
-{1223}{}{Jmenuju se Povolná. A ty?}
-{1224}{}{Trochu moc hyperaktivní, ne?}
-{1225}{}{Máš svùj vlastní ruèník?}
-{1226}{}{JO, jsou pravı.}
-{1227}{}{JO, jsou pravı a NE, nemùeš si sáhnout.}
+{1218}{}{HledÃ¡Å¡ potÄ›Å¡enÃ­, holka?}
+{1219}{}{ChceÅ¡ si trochu uÅ¾Ã­t, holka?}
+{1220}{}{NepotÅ™ebujeÅ¡ prÅ¯vodce, zlato?}
+{1221}{}{NemÃ¡Å¡ oheÅˆ, holka?}
+{1222}{}{Ty mÃ¡Å¡ prachy, holka, jÃ¡ mÃ¡m Äas.}
+{1223}{}{Jmenuju se PovolnÃ¡. A ty?}
+{1224}{}{Trochu moc hyperaktivnÃ­, ne?}
+{1225}{}{MÃ¡Å¡ svÅ¯j vlastnÃ­ ruÄnÃ­k?}
+{1226}{}{JO, jsou pravÃ½.}
+{1227}{}{JO, jsou pravÃ½ a NE, nemÅ¯Å¾eÅ¡ si sÃ¡hnout.}
 {1228}{}{Jdi do hajzlu, magore.}
-{1229}{}{Nemáš chu na rodeo, kovboji?}
-{1230}{}{Nechceš mi projet pekáè tím svım rùovım mackem?}
-{1231}{}{Potøebuješ nìkoho, kdo tì v noci zahøeje?}
-{1232}{}{Potøebuješ nìkoho, kdo by ti zahøál postel?}
-{1233}{}{Zdá se, e máš v koulích pøetlak, kámo. Neulevíme jim spolu trochu?}
-{1234}{}{Copak to máš v kalhotech za hada?}
-{1235}{}{Hledáš povyraení?}
-{1236}{}{Dokud se nepomiluješ v New Renu, nevíš, co je to láska.}
-{1237}{}{Sháníš rande?}
-{1238}{}{Hele, u mì se ochutnávky zdarma nevedou.}
-{1239}{}{Prı se nìco semlelo v Obchodní ètvrti...}
-{1240}{}{Hledáš spoleènost?}
-{1241}{}{V poslední dobì je v Renu nejoblíbenìjším sportem kdo dál dostøíkne...}
-{1242}{}{Chceš si zaskotaèit?}
-{1243}{}{Dokud se nepomiluješ v New Renu, nevíš, co je to láska.}
-{1244}{}{Moje práce? Dìlám z chlapcù chlapy.}
-{1245}{}{Dokáeš svım penisem pøibít 6-ti palcovı høebík?}
-{1246}{}{Tuhle ulici šlapu u od vèerejšího veèera...}
-{1247}{}{Potøebuješ spoleènost na veèer? Nebo tøeba jen na deset minut?}
-{1248}{}{Chceš si zalítat?}
-{1249}{}{U dlouho jsem nevidìla ádnı karavany z Reddingu...}
-{1250}{}{Pìknej klacek.}
+{1229}{}{NemÃ¡Å¡ chuÅ¥ na rodeo, kovboji?}
+{1230}{}{NechceÅ¡ mi projet pekÃ¡Ä tÃ­m svÃ½m rÅ¯Å¾ovÃ½m mackem?}
+{1231}{}{PotÅ™ebujeÅ¡ nÄ›koho, kdo tÄ› v noci zahÅ™eje?}
+{1232}{}{PotÅ™ebujeÅ¡ nÄ›koho, kdo by ti zahÅ™Ã¡l postel?}
+{1233}{}{ZdÃ¡ se, Å¾e mÃ¡Å¡ v koulÃ­ch pÅ™etlak, kÃ¡mo. NeulevÃ­me jim spolu trochu?}
+{1234}{}{Copak to mÃ¡Å¡ v kalhotech za hada?}
+{1235}{}{HledÃ¡Å¡ povyraÅ¾enÃ­?}
+{1236}{}{Dokud se nepomilujeÅ¡ v New Renu, nevÃ­Å¡, co je to lÃ¡ska.}
+{1237}{}{ShÃ¡nÃ­Å¡ rande?}
+{1238}{}{Hele, u mÄ› se ochutnÃ¡vky zdarma nevedou.}
+{1239}{}{PrÃ½ se nÄ›co semlelo v ObchodnÃ­ Ätvrti...}
+{1240}{}{HledÃ¡Å¡ spoleÄnost?}
+{1241}{}{V poslednÃ­ dobÄ› je v Renu nejoblÃ­benÄ›jÅ¡Ã­m sportem kdo dÃ¡l dostÅ™Ã­kne...}
+{1242}{}{ChceÅ¡ si zaskotaÄit?}
+{1243}{}{Dokud se nepomilujeÅ¡ v New Renu, nevÃ­Å¡, co je to lÃ¡ska.}
+{1244}{}{Moje prÃ¡ce? DÄ›lÃ¡m z chlapcÅ¯ chlapy.}
+{1245}{}{DokÃ¡Å¾eÅ¡ svÃ½m penisem pÅ™ibÃ­t 6-ti palcovÃ½ hÅ™ebÃ­k?}
+{1246}{}{Tuhle ulici Å¡lapu uÅ¾ od vÄerejÅ¡Ã­ho veÄera...}
+{1247}{}{PotÅ™ebujeÅ¡ spoleÄnost na veÄer? Nebo tÅ™eba jen na deset minut?}
+{1248}{}{ChceÅ¡ si zalÃ­tat?}
+{1249}{}{UÅ¾ dlouho jsem nevidÄ›la Å¾Ã¡dnÃ½ karavany z Reddingu...}
+{1250}{}{PÄ›knej klacek.}
 {1251}{}{Zabloudil jsi, kovboji?}
-{1252}{}{Potøebuješ uvolnit trochu napìtí, vojáèku?}
-{1253}{}{Mùu ti s nìèím pomoct, cizinèe?}
-{1254}{}{Hledáš potìšení?}
-{1255}{}{Chceš si trochu uít?}
-{1256}{}{Líbí se mi tvoje ještìrka.}
-{1257}{}{Ty máš v kapse ještìrku?}
-{1258}{}{Nepotøebuješ prùvodce, zlato?}
-{1259}{}{Nemáš oheò?}
-{1260}{}{Ty máš prachy, já mám èas.}
-{1261}{}{Pojï chlapèe, udìlám z tebe mue.}
-{1262}{}{Zdravíèko, pane Tyler. Na procházce?}
-{1263}{}{Jestli chceš, abych si s tebou potom povídala, tak si musíš pøiplatit.}
-{1264}{}{Jeden chlápek, Fred Hatch, chtìl vìdìt, jestli jsou ve mìstì nìjakı "velkı holky". Divnı.}
-{1265}{}{Jestli chceš, abych potom neusnula, tak si musíš pøiplatit.}
-{1266}{}{Chceš se se mnou ponoøit do tajù nevšedních záitkù?}
-{1267}{}{Zapomeò na automaty. Já ti nabídnu MNOHEM víc.}
-{1268}{}{Nejsem sice levná, ale za to dìlám i speciality.}
+{1252}{}{PotÅ™ebujeÅ¡ uvolnit trochu napÄ›tÃ­, vojÃ¡Äku?}
+{1253}{}{MÅ¯Å¾u ti s nÄ›ÄÃ­m pomoct, cizinÄe?}
+{1254}{}{HledÃ¡Å¡ potÄ›Å¡enÃ­?}
+{1255}{}{ChceÅ¡ si trochu uÅ¾Ã­t?}
+{1256}{}{LÃ­bÃ­ se mi tvoje jeÅ¡tÄ›rka.}
+{1257}{}{Ty mÃ¡Å¡ v kapse jeÅ¡tÄ›rku?}
+{1258}{}{NepotÅ™ebujeÅ¡ prÅ¯vodce, zlato?}
+{1259}{}{NemÃ¡Å¡ oheÅˆ?}
+{1260}{}{Ty mÃ¡Å¡ prachy, jÃ¡ mÃ¡m Äas.}
+{1261}{}{PojÄ chlapÄe, udÄ›lÃ¡m z tebe muÅ¾e.}
+{1262}{}{ZdravÃ­Äko, pane Tyler. Na prochÃ¡zce?}
+{1263}{}{Jestli chceÅ¡, abych si s tebou potom povÃ­dala, tak si musÃ­Å¡ pÅ™iplatit.}
+{1264}{}{Jeden chlÃ¡pek, Fred Hatch, chtÄ›l vÄ›dÄ›t, jestli jsou ve mÄ›stÄ› nÄ›jakÃ½ "velkÃ½ holky". DivnÃ½.}
+{1265}{}{Jestli chceÅ¡, abych potom neusnula, tak si musÃ­Å¡ pÅ™iplatit.}
+{1266}{}{ChceÅ¡ se se mnou ponoÅ™it do tajÅ¯ nevÅ¡ednÃ­ch zÃ¡Å¾itkÅ¯?}
+{1267}{}{ZapomeÅˆ na automaty. JÃ¡ ti nabÃ­dnu MNOHEM vÃ­c.}
+{1268}{}{Nejsem sice levnÃ¡, ale za to dÄ›lÃ¡m i speciality.}
 {1269}{}{Nazdar zlato.}
-{1270}{}{Chceš se se mnou muchlovat?}
-{1271}{}{Jsem si jistá, e ti "padnu" jako oblek.}
-{1272}{}{Jestli máš rád vytahanı pysky, tak jseš na správnım místì.}
-{1273}{}{Vida, vida. Koukejte, kdo to pøikvaèil do mìsta...}
-{1274}{}{Hledáš rajskou zahradu? Tak pojï se mnou do lonice.}
-{1275}{}{Hledáš povyraení?}
-{1276}{}{Jestli si nejseš jistej, tak ho vytáhni.}
-{1277}{}{Nauèím tì pár vìcí, kterı tì nauèí jenom ena.}
-{1278}{}{Koneènì jsem si poøídila vycpanou pelest.}
-{1279}{}{Ochutnávka ráje tì bude stát jenom deset babek.}
-{1280}{}{Myron: Spousta povyku, ale ádnı èiny.}
-{1281}{}{Myron je hroznej òouma.}
-{1282}{}{AC-DC, B n' D, vdy je to fuk.}
-{1283}{}{Ta Bishopova holka je úplná nymfomanka.}
+{1270}{}{ChceÅ¡ se se mnou muchlovat?}
+{1271}{}{Jsem si jistÃ¡, Å¾e ti "padnu" jako oblek.}
+{1272}{}{Jestli mÃ¡Å¡ rÃ¡d vytahanÃ½ pysky, tak jseÅ¡ na sprÃ¡vnÃ½m mÃ­stÄ›.}
+{1273}{}{Vida, vida. Koukejte, kdo to pÅ™ikvaÄil do mÄ›sta...}
+{1274}{}{HledÃ¡Å¡ rajskou zahradu? Tak pojÄ se mnou do loÅ¾nice.}
+{1275}{}{HledÃ¡Å¡ povyraÅ¾enÃ­?}
+{1276}{}{Jestli si nejseÅ¡ jistej, tak ho vytÃ¡hni.}
+{1277}{}{NauÄÃ­m tÄ› pÃ¡r vÄ›cÃ­, kterÃ½ tÄ› nauÄÃ­ jenom Å¾ena.}
+{1278}{}{KoneÄnÄ› jsem si poÅ™Ã­dila vycpanou pelest.}
+{1279}{}{OchutnÃ¡vka rÃ¡je tÄ› bude stÃ¡t jenom deset babek.}
+{1280}{}{Myron: Spousta povyku, ale Å¾Ã¡dnÃ½ Äiny.}
+{1281}{}{Myron je hroznej Åˆouma.}
+{1282}{}{AC-DC, B n' D, vÅ¾dyÅ¥ je to fuk.}
+{1283}{}{Ta Bishopova holka je ÃºplnÃ¡ nymfomanka.}
 {1284}{}{She ain't no Jet addict, she's a BONE addict.}
-{1285}{}{Ve Vault City maj prej jenom dva typy Obèanù. Asi došlo k nìjakı nehodì pøi klonování.}
-{1286}{}{Cítím se jako kdybych minulou noc ubìhla maratón...}
-{1287}{}{Hledáš lásku, zlato?}
-{1288}{}{ádnı líbání. To je základní pravidlo.}
-{1289}{}{Ké by Myron odešel pryè. Nìkam hodnì daleko.}
-{1290}{}{Splním ti COKOLIV budeš chtít... pokud na to budeš mít prachy.}
-{1291}{}{Já mùu tøeba hned, zlato. A co ty?}
-{1292}{}{Zapomeò na automaty. Já ti nabídnu MNOHEM víc.}
-{1293}{}{Nesnáším ulání koulí.}
+{1285}{}{Ve Vault City maj prej jenom dva typy ObÄanÅ¯. Asi doÅ¡lo k nÄ›jakÃ½ nehodÄ› pÅ™i klonovÃ¡nÃ­.}
+{1286}{}{CÃ­tÃ­m se jako kdybych minulou noc ubÄ›hla maratÃ³n...}
+{1287}{}{HledÃ¡Å¡ lÃ¡sku, zlato?}
+{1288}{}{Å½Ã¡dnÃ½ lÃ­bÃ¡nÃ­. To je zÃ¡kladnÃ­ pravidlo.}
+{1289}{}{KÃ©Å¾ by Myron odeÅ¡el pryÄ. NÄ›kam hodnÄ› daleko.}
+{1290}{}{SplnÃ­m ti COKOLIV budeÅ¡ chtÃ­t... pokud na to budeÅ¡ mÃ­t prachy.}
+{1291}{}{JÃ¡ mÅ¯Å¾u tÅ™eba hned, zlato. A co ty?}
+{1292}{}{ZapomeÅˆ na automaty. JÃ¡ ti nabÃ­dnu MNOHEM vÃ­c.}
+{1293}{}{NesnÃ¡Å¡Ã­m Å¾uÅ¾lÃ¡nÃ­ koulÃ­.}
 {1294}{}{Zkus to se mnou, zlato.}
-{1295}{}{Hledáš potìšení, kotì?}
-{1296}{}{Nemùu uvìøit, kolik bylo striptérek na Feargusovì louèení se svobodou.}
-{1297}{}{Milování jako z románu najdeš jenom u mì.}
-{1298}{}{Pìknì si s tebou pohraju.}
-{1299}{}{Já jsem Nechutná Spice.}
-{1300}{}{Já jsem Domácí Spice.}
-{1301}{}{Já jsem Šlapka Spice.}
-{1302}{}{Já jsem Old Spice.}
-{1303}{}{Já jsem Syfilis... eh, Šlapka Spice.}
-{1304}{}{Já jsem Oplzlá Spice.}
-{1305}{}{Mùu øíct kámošce jestli chceš dvojitej orál.}
-{1306}{}{Pøála bych si, aby byl Myron teplej.}
-{1307}{}{To by mì zajímalo, proè se tomu øíká ulice Panen...}
-{1308}{}{Nìkdy si pøeju, aby si dal pytel pøes hlavu.}
-{1309}{}{Koupíš mi pití?}
-{1310}{}{Vezmeš osamìlou enu do mìsta?}
-{1311}{}{Eh... jasnì, e jsem enská. Jenom si nevšímej toho ohryzku.}
-{1312}{}{Slyšela jsem, e nìkterı holky zabily svıho pasáka.}
-{1313}{}{Nejlepší soulo v celı pustinì najdeš jenom u mì.}
-{1314}{}{Doufám, e mì Jules pøestane otravovat.}
-{1315}{}{Poøád mám ještì na zádech tu odøeninu od stolu...}
-{1316}{}{Jsem ještì utahaná z toho minulıho sjezdu otrokáøù...}
-{1317}{}{Ké by se tyhle sjezdy konaly v jinım mìstì.}
-{1318}{}{Víš, e bys dokázal rozhavit i skálu?}
-{1319}{}{Myslela jsem, e cítím, jak se Zemì pohnula, ale bylo to tìma fazolema k veèeøi.}
-{1320}{}{Zahøej mì.}
-{1321}{}{Jsem ještì panna, ale nejsem v tom moc dobrá.}
-{1322}{}{Nepotøebuješ prùvodce mìstem?}
-{1323}{}{Panejo. Tak TOHLE bude jen za zvláštní pøíplatek.}
-{1324}{}{Jules chce poøád volòásky.}
-{1325}{}{Rodiny prı maj mezi sebou zase nìjakı tøenice.}
-{1326}{}{Kšefty stagnujou. U aby dorazila nìjaká karavana.}
-{1327}{}{Take se pøevlíkl za páraèe a pak...}
-{1328}{}{Potøebuju rozepnout šaty.}
-{1329}{}{Zapneš mi šaty? A pak zase rozepneš?}
-{1330}{}{Promiò, øíkal jsi nìco? Mìla jsem moc práce s pozorováním tvıho úasnıho tìla.}
-{1331}{}{Nechceš zabít trochu nudy?}
-{1332}{}{Minulej tejden jsem nakopala Julese do koulí.}
-{1333}{}{Neøíkají mi Paní Štìstìna jen tak pro nic za nic.}
-{1334}{}{SAMOZØEJMÌ, e miluju kondomy s pøíchutí brahmín. Mòam.}
-{1335}{}{Vyrazíme si spolu?}
-{1336}{}{Na Myronovi není nic, co by nevyøešila kulka do hlavy.}
-{1337}{}{Nechceš jít se mnou na rande, divochu?}
-{1338}{}{Chceš si zadovádìt, divochu?}
-{1339}{}{Nechceš si zatancovat váleènej tanec v mı lonici, divochu?}
-{1340}{}{Jedinı co potøebuješ je jedna noc se mnou.}
-{1341}{}{Hledáš ráj? Tak to jseš na správnım místì, zlato.}
-{1342}{}{Pomùeš mi? Hledám svı ztracenı panenství.}
-{1343}{}{Sice jsem ještì panna, ale potøebuju peníze.}
-{1344}{}{Buï nìnej, dneska je to poprvı.}
-{1345}{}{Jsem hroznì nadrená.}
-{1346}{}{Ty máš chu, já mám spásu.}
-{1347}{}{Probudím v tobì duši dítìte.}
-{1348}{}{Dìlám to jenom proto, abych si mohla zaplatit školu.}
-{1349}{}{Chceš si zaskotaèit, zlato?}
-{1350}{}{Hele, tak ještì jednou: NE, nechci se pøevlíknout za "Zakladatele."}
-{1351}{}{Hledáš kde zakotvit?}
-{1352}{}{Chceš mì slyšet sténat?}
+{1295}{}{HledÃ¡Å¡ potÄ›Å¡enÃ­, kotÄ›?}
+{1296}{}{NemÅ¯Å¾u uvÄ›Å™it, kolik bylo striptÃ©rek na FeargusovÄ› louÄenÃ­ se svobodou.}
+{1297}{}{MilovÃ¡nÃ­ jako z romÃ¡nu najdeÅ¡ jenom u mÄ›.}
+{1298}{}{PÄ›knÄ› si s tebou pohraju.}
+{1299}{}{JÃ¡ jsem NechutnÃ¡ Spice.}
+{1300}{}{JÃ¡ jsem DomÃ¡cÃ­ Spice.}
+{1301}{}{JÃ¡ jsem Å lapka Spice.}
+{1302}{}{JÃ¡ jsem Old Spice.}
+{1303}{}{JÃ¡ jsem Syfilis... eh, Å lapka Spice.}
+{1304}{}{JÃ¡ jsem OplzlÃ¡ Spice.}
+{1305}{}{MÅ¯Å¾u Å™Ã­ct kÃ¡moÅ¡ce jestli chceÅ¡ dvojitej orÃ¡l.}
+{1306}{}{PÅ™Ã¡la bych si, aby byl Myron teplej.}
+{1307}{}{To by mÄ› zajÃ­malo, proÄ se tomu Å™Ã­kÃ¡ ulice Panen...}
+{1308}{}{NÄ›kdy si pÅ™eju, aby si dal pytel pÅ™es hlavu.}
+{1309}{}{KoupÃ­Å¡ mi pitÃ­?}
+{1310}{}{VezmeÅ¡ osamÄ›lou Å¾enu do mÄ›sta?}
+{1311}{}{Eh... jasnÄ›, Å¾e jsem Å¾enskÃ¡. Jenom si nevÅ¡Ã­mej toho ohryzku.}
+{1312}{}{SlyÅ¡ela jsem, Å¾e nÄ›kterÃ½ holky zabily svÃ½ho pasÃ¡ka.}
+{1313}{}{NejlepÅ¡Ã­ souloÅ¾ v celÃ½ pustinÄ› najdeÅ¡ jenom u mÄ›.}
+{1314}{}{DoufÃ¡m, Å¾e mÄ› Jules pÅ™estane otravovat.}
+{1315}{}{PoÅ™Ã¡d mÃ¡m jeÅ¡tÄ› na zÃ¡dech tu odÅ™eninu od stolu...}
+{1316}{}{Jsem jeÅ¡tÄ› utahanÃ¡ z toho minulÃ½ho sjezdu otrokÃ¡Å™Å¯...}
+{1317}{}{KÃ©Å¾ by se tyhle sjezdy konaly v jinÃ½m mÄ›stÄ›.}
+{1318}{}{VÃ­Å¡, Å¾e bys dokÃ¡zal rozÅ¾havit i skÃ¡lu?}
+{1319}{}{Myslela jsem, Å¾e cÃ­tÃ­m, jak se ZemÄ› pohnula, ale bylo to tÄ›ma fazolema k veÄeÅ™i.}
+{1320}{}{ZahÅ™ej mÄ›.}
+{1321}{}{Jsem jeÅ¡tÄ› panna, ale nejsem v tom moc dobrÃ¡.}
+{1322}{}{NepotÅ™ebujeÅ¡ prÅ¯vodce mÄ›stem?}
+{1323}{}{Panejo. Tak TOHLE bude jen za zvlÃ¡Å¡tnÃ­ pÅ™Ã­platek.}
+{1324}{}{Jules chce poÅ™Ã¡d volÅˆÃ¡sky.}
+{1325}{}{Rodiny prÃ½ maj mezi sebou zase nÄ›jakÃ½ tÅ™enice.}
+{1326}{}{KÅ¡efty stagnujou. UÅ¾ aby dorazila nÄ›jakÃ¡ karavana.}
+{1327}{}{TakÅ¾e se pÅ™evlÃ­kl za pÃ¡raÄe a pak...}
+{1328}{}{PotÅ™ebuju rozepnout Å¡aty.}
+{1329}{}{ZapneÅ¡ mi Å¡aty? A pak zase rozepneÅ¡?}
+{1330}{}{PromiÅˆ, Å™Ã­kal jsi nÄ›co? MÄ›la jsem moc prÃ¡ce s pozorovÃ¡nÃ­m tvÃ½ho ÃºÅ¾asnÃ½ho tÄ›la.}
+{1331}{}{NechceÅ¡ zabÃ­t trochu nudy?}
+{1332}{}{Minulej tejden jsem nakopala Julese do koulÃ­.}
+{1333}{}{NeÅ™Ã­kajÃ­ mi PanÃ­ Å tÄ›stÄ›na jen tak pro nic za nic.}
+{1334}{}{SAMOZÅ˜EJMÄš, Å¾e miluju kondomy s pÅ™Ã­chutÃ­ brahmÃ­n. MÅˆam.}
+{1335}{}{VyrazÃ­me si spolu?}
+{1336}{}{Na Myronovi nenÃ­ nic, co by nevyÅ™eÅ¡ila kulka do hlavy.}
+{1337}{}{NechceÅ¡ jÃ­t se mnou na rande, divochu?}
+{1338}{}{ChceÅ¡ si zadovÃ¡dÄ›t, divochu?}
+{1339}{}{NechceÅ¡ si zatancovat vÃ¡leÄnej tanec v mÃ½ loÅ¾nici, divochu?}
+{1340}{}{JedinÃ½ co potÅ™ebujeÅ¡ je jedna noc se mnou.}
+{1341}{}{HledÃ¡Å¡ rÃ¡j? Tak to jseÅ¡ na sprÃ¡vnÃ½m mÃ­stÄ›, zlato.}
+{1342}{}{PomÅ¯Å¾eÅ¡ mi? HledÃ¡m svÃ½ ztracenÃ½ panenstvÃ­.}
+{1343}{}{Sice jsem jeÅ¡tÄ› panna, ale potÅ™ebuju penÃ­ze.}
+{1344}{}{BuÄ nÄ›Å¾nej, dneska je to poprvÃ½.}
+{1345}{}{Jsem hroznÄ› nadrÅ¾enÃ¡.}
+{1346}{}{Ty mÃ¡Å¡ chuÅ¥, jÃ¡ mÃ¡m spÃ¡su.}
+{1347}{}{ProbudÃ­m v tobÄ› duÅ¡i dÃ­tÄ›te.}
+{1348}{}{DÄ›lÃ¡m to jenom proto, abych si mohla zaplatit Å¡kolu.}
+{1349}{}{ChceÅ¡ si zaskotaÄit, zlato?}
+{1350}{}{Hele, tak jeÅ¡tÄ› jednou: NE, nechci se pÅ™evlÃ­knout za "Zakladatele."}
+{1351}{}{HledÃ¡Å¡ kde zakotvit?}
+{1352}{}{ChceÅ¡ mÄ› slyÅ¡et stÃ©nat?}
 {1353}{}{::Vrrrr::}
-{1354}{}{::Špulí ústa::}
-{1355}{}{Pøestaò mì lechtat.}
-{1356}{}{U mì to New Reno unavuje...}
-{1357}{}{Zahrajeme si na páraèe v dobì páøení?}
-{1358}{}{Nejsem sice levná, ale za to dìlám i speciality.}
-{1359}{}{Svazování je za pøíplatek.}
-{1360}{}{Kde jsem nechala svùj biè?}
-{1361}{}{Staèí øíct a mùem jít na to.}
-{1362}{}{Vèera veèer jsem se musela oblíknout jako WILMA.}
-{1363}{}{Vèera jsem to dìlala s Myronem. Asi 5 sekund.}
-{1364}{}{Potøebuješ vyprázdnit nádr?}
-{1365}{}{Nemáš oheò?}
-{1366}{}{Pomùeš mi zbavit se mıho panenství?}
-{1367}{}{Zadek mi u málem upadl a Myron poøád nemìl dost.}
-{1368}{}{Zase tu opruzovali ti blbci z Protialkoholickıho hnutí...}
-{1369}{}{Vdycky kdy tì vidím, zaène mi pípat mùj Geigerùv pøístroj.}
-{1370}{}{::Píská::}
-{1371}{}{Kousání je za pøíplatek.}
-{1372}{}{Garantuju ti, e jsem lepší ne ten Pip-Boy, co máš na ruce.}
-{1373}{}{Chceš si uít?}
-{1374}{}{Radši bych to dìlala s Avellonem.}
-{1375}{}{Škoda, e tu není Nick Kesting. Mohli jsme si povídat celı hodiny!}
-{1376}{}{Nick Kesting je fakt prima chlapík. Bájeènì si spolu rozumíme.}
-{1377}{}{Tommy Tvrïák je dokonalej.}
-{1378}{}{Za padesát babek tì vezmu do ráje.}
-{1379}{}{Jmenuju se Povolná, holka. A ty?}
-{1380}{}{Nazdar fešando. Sháníš enskou?}
-{1381}{}{Chceš zkusit jakı je to se enskou, zlato?}
-{1382}{}{Nepotøebuješ spoleènost?}
-{1383}{}{Holka, nauèím tì pár vìcí, kterı tì nauèí jenom ena.}
-{1384}{}{Potøebuješ nìkoho, kdo tì v noci zahøeje, zlato?}
-{1385}{}{Potøebuješ nìkoho, kdo by ti zahøál postel, zlato?}
-{1386}{}{Chceš si zaskotaèit, holka?}
-{1387}{}{Holka, dokud se nepomiluješ v New Renu, nevíš, co je to láska.}
-{1388}{}{Chceš si zalítat, holka?}
-{1389}{}{Zabloudila jsi, kotì?}
+{1354}{}{::Å pulÃ­ Ãºsta::}
+{1355}{}{PÅ™estaÅˆ mÄ› lechtat.}
+{1356}{}{UÅ¾ mÄ› to New Reno unavuje...}
+{1357}{}{Zahrajeme si na pÃ¡raÄe v dobÄ› pÃ¡Å™enÃ­?}
+{1358}{}{Nejsem sice levnÃ¡, ale za to dÄ›lÃ¡m i speciality.}
+{1359}{}{SvazovÃ¡nÃ­ je za pÅ™Ã­platek.}
+{1360}{}{Kde jsem nechala svÅ¯j biÄ?}
+{1361}{}{StaÄÃ­ Å™Ã­ct a mÅ¯Å¾em jÃ­t na to.}
+{1362}{}{VÄera veÄer jsem se musela oblÃ­knout jako WILMA.}
+{1363}{}{VÄera jsem to dÄ›lala s Myronem. Asi 5 sekund.}
+{1364}{}{PotÅ™ebujeÅ¡ vyprÃ¡zdnit nÃ¡drÅ¾?}
+{1365}{}{NemÃ¡Å¡ oheÅˆ?}
+{1366}{}{PomÅ¯Å¾eÅ¡ mi zbavit se mÃ½ho panenstvÃ­?}
+{1367}{}{Zadek mi uÅ¾ mÃ¡lem upadl a Myron poÅ™Ã¡d nemÄ›l dost.}
+{1368}{}{Zase tu opruzovali ti blbci z ProtialkoholickÃ½ho hnutÃ­...}
+{1369}{}{VÅ¾dycky kdyÅ¾ tÄ› vidÃ­m, zaÄne mi pÃ­pat mÅ¯j GeigerÅ¯v pÅ™Ã­stroj.}
+{1370}{}{::PÃ­skÃ¡::}
+{1371}{}{KousÃ¡nÃ­ je za pÅ™Ã­platek.}
+{1372}{}{Garantuju ti, Å¾e jsem lepÅ¡Ã­ neÅ¾ ten Pip-Boy, co mÃ¡Å¡ na ruce.}
+{1373}{}{ChceÅ¡ si uÅ¾Ã­t?}
+{1374}{}{RadÅ¡i bych to dÄ›lala s Avellonem.}
+{1375}{}{Å koda, Å¾e tu nenÃ­ Nick Kesting. Mohli jsme si povÃ­dat celÃ½ hodiny!}
+{1376}{}{Nick Kesting je fakt prima chlapÃ­k. BÃ¡jeÄnÄ› si spolu rozumÃ­me.}
+{1377}{}{Tommy TvrÄÃ¡k je dokonalej.}
+{1378}{}{Za padesÃ¡t babek tÄ› vezmu do rÃ¡je.}
+{1379}{}{Jmenuju se PovolnÃ¡, holka. A ty?}
+{1380}{}{Nazdar feÅ¡ando. ShÃ¡nÃ­Å¡ Å¾enskou?}
+{1381}{}{ChceÅ¡ zkusit jakÃ½ je to se Å¾enskou, zlato?}
+{1382}{}{NepotÅ™ebujeÅ¡ spoleÄnost?}
+{1383}{}{Holka, nauÄÃ­m tÄ› pÃ¡r vÄ›cÃ­, kterÃ½ tÄ› nauÄÃ­ jenom Å¾ena.}
+{1384}{}{PotÅ™ebujeÅ¡ nÄ›koho, kdo tÄ› v noci zahÅ™eje, zlato?}
+{1385}{}{PotÅ™ebujeÅ¡ nÄ›koho, kdo by ti zahÅ™Ã¡l postel, zlato?}
+{1386}{}{ChceÅ¡ si zaskotaÄit, holka?}
+{1387}{}{Holka, dokud se nepomilujeÅ¡ v New Renu, nevÃ­Å¡, co je to lÃ¡ska.}
+{1388}{}{ChceÅ¡ si zalÃ­tat, holka?}
+{1389}{}{Zabloudila jsi, kotÄ›?}
 {1390}{}{Nazdar G.I. Jane.}
-{1391}{}{Hledáš potìšení, holka?}
-{1392}{}{Chceš si trochu uít, holka?}
-{1393}{}{Hledáš zábavu, zlato?}
-{1394}{}{Nemáš oheò, zlato?}
-{1395}{}{Ty máš prachy, holka, já mám èas.}
-{2175}{}{. To je ta, co nakopala Enklávì prdel!}
-{2178}{}{! Takhle se nakopává Enklávì prdel!}
-{2181}{}{. To je ta, co nakopala Enklávì prdel!}
+{1391}{}{HledÃ¡Å¡ potÄ›Å¡enÃ­, holka?}
+{1392}{}{ChceÅ¡ si trochu uÅ¾Ã­t, holka?}
+{1393}{}{HledÃ¡Å¡ zÃ¡bavu, zlato?}
+{1394}{}{NemÃ¡Å¡ oheÅˆ, zlato?}
+{1395}{}{Ty mÃ¡Å¡ prachy, holka, jÃ¡ mÃ¡m Äas.}
+{2175}{}{. To je ta, co nakopala EnklÃ¡vÄ› prdel!}
+{2178}{}{! Takhle se nakopÃ¡vÃ¡ EnklÃ¡vÄ› prdel!}
+{2181}{}{. To je ta, co nakopala EnklÃ¡vÄ› prdel!}
 {2195}{}{!}
-{2197}{}{! Mùeš mi sehnat práci u vás ve studiu?}
+{2197}{}{! MÅ¯Å¾eÅ¡ mi sehnat prÃ¡ci u vÃ¡s ve studiu?}
 {2210}{}{.}
-{2263}{}{! Jen tak dál, kanèe!}
-{2264}{}{ nakopal v tıhle høe tolik zadkù, e snad musel bejt v minulım ivotì botou.}
+{2263}{}{! Jen tak dÃ¡l, kanÄe!}
+{2264}{}{ nakopal v tÃ½hle hÅ™e tolik zadkÅ¯, Å¾e snad musel bejt v minulÃ½m Å¾ivotÄ› botou.}
 {2268}{}{?}
 {2272}{}{?}
-{2278}{}{! Jen tak dál, holka!}
+{2278}{}{! Jen tak dÃ¡l, holka!}
 {2279}{}{?}
-{2280}{}{ nakopala v tıhle høe tolik zadkù, e snad musela bejt v minulım ivotì botou.}
+{2280}{}{ nakopala v tÃ½hle hÅ™e tolik zadkÅ¯, Å¾e snad musela bejt v minulÃ½m Å¾ivotÄ› botou.}
 {2285}{}{.}
 {2292}{}{...}
 {2293}{}{?}
-{2294}{}{...tady, zlatíèko...}
+{2294}{}{...tady, zlatÃ­Äko...}
 {2295}{}{.}
 {2855}{}{?}
 {2858}{}{?}
 {2861}{}{?}
-{2865}{}{, ty mùj chlapáku... co dìláš dneska veèer?}
-{2867}{}{! Jak se máš?}
-{2868}{}{. Mùu ti s *nìèím* pomoct?}
+{2865}{}{, ty mÅ¯j chlapÃ¡ku... co dÄ›lÃ¡Å¡ dneska veÄer?}
+{2867}{}{! Jak se mÃ¡Å¡?}
+{2868}{}{. MÅ¯Å¾u ti s *nÄ›ÄÃ­m* pomoct?}
 {2870}{}{.}
-{2873}{}{, ty moje malá draèice... co dìláš dneska veèer?}
-{3100}{}{Vidíš jednu z dívek Koèièí Packy.}
-{3150}{}{Vidíš... ehm, dámu veèera. Její sporé šaty svùdnì obepínají celé její tìlo.}
-{3151}{}{Vidíš jednu z dívek Koèièí Packy. Mrká na tebe.}
-{3152}{}{Vidíš jednu z dívek Koèièí Packy. Její oèi jsou jak roznìtky.}
-{3153}{}{Vidíš jednu z dívek Koèièí Packy. Voní jako kvìtiny.}
-{3154}{}{Vidíš jednu z dívek Koèièí Packy. Voní jako mámin polštáø.}
-{3155}{}{Vidíš jednu z dívek Koèièí Packy. Je ti záhadou, jak ty sporé hadøíky zvládnou udret její prsa.}
-{3156}{}{Vidíš jednu z dívek Koèièí Packy. Tváøí se, jako by chtìla své partnery zabít a sníst.}
-{3157}{}{Vidíš jednu z dívek Koèièí Packy. Prohlíí si tì jako zlatník prsten.}
-{3158}{}{Vidíš jednu z dívek Koèièí Packy. Její sporé šaty svùdnì obepínají celé její tìlo.}
-{3200}{}{Ach boe! Ach boe! Ach boe ach boe ach boe... ááááááách boe.}
-{3201}{}{Ano! Ano! Anoooooooooo Ano Ano Ano Ano ANO ANO ANOOOOO! A teï jdi zaplatit u pokladny.}
-{3202}{}{Dìlej, bìí ti èas.}
-{3203}{}{Nepotøebuješ mokrej ruèník?}
-{3204}{}{Udìlej mi to, Fr... Ni... Sc... eh, promiò, jak e se to jmenuješ?}
-{3205}{}{Ach mùj boe, ach boe, ach mùj boe! U jsi skonèil?}
-{3206}{}{Panejo. Tak TOHLE bude jen za extra pøíplatek.}
-{3207}{}{Ano! Ty jseš Kolumbus a já Amerika!}
-{3208}{}{Ach mùj boe, to bylo naprosto super. A teï ze mì laskavì slez a zapla u pokladny.}
-{3209}{}{U je uvnitø?}
-{3210}{}{Jo, to víš, e JSI Zakladatel. Jo, jasnì, to TY jsi našel vodní èip a porazil Vùdce. Jo to víš, e jsi hrdina.}
-{3211}{}{Jseš tvrdej jako tvrzená energo zbroj.}
+{2873}{}{, ty moje malÃ¡ draÄice... co dÄ›lÃ¡Å¡ dneska veÄer?}
+{3100}{}{VidÃ­Å¡ jednu z dÃ­vek KoÄiÄÃ­ Packy.}
+{3150}{}{VidÃ­Å¡... ehm, dÃ¡mu veÄera. JejÃ­ sporÃ© Å¡aty svÅ¯dnÄ› obepÃ­najÃ­ celÃ© jejÃ­ tÄ›lo.}
+{3151}{}{VidÃ­Å¡ jednu z dÃ­vek KoÄiÄÃ­ Packy. MrkÃ¡ na tebe.}
+{3152}{}{VidÃ­Å¡ jednu z dÃ­vek KoÄiÄÃ­ Packy. JejÃ­ oÄi jsou jak roznÄ›tky.}
+{3153}{}{VidÃ­Å¡ jednu z dÃ­vek KoÄiÄÃ­ Packy. VonÃ­ jako kvÄ›tiny.}
+{3154}{}{VidÃ­Å¡ jednu z dÃ­vek KoÄiÄÃ­ Packy. VonÃ­ jako mÃ¡min polÅ¡tÃ¡Å™.}
+{3155}{}{VidÃ­Å¡ jednu z dÃ­vek KoÄiÄÃ­ Packy. Je ti zÃ¡hadou, jak ty sporÃ© hadÅ™Ã­ky zvlÃ¡dnou udrÅ¾et jejÃ­ prsa.}
+{3156}{}{VidÃ­Å¡ jednu z dÃ­vek KoÄiÄÃ­ Packy. TvÃ¡Å™Ã­ se, jako by chtÄ›la svÃ© partnery zabÃ­t a snÃ­st.}
+{3157}{}{VidÃ­Å¡ jednu z dÃ­vek KoÄiÄÃ­ Packy. ProhlÃ­Å¾Ã­ si tÄ› jako zlatnÃ­k prsten.}
+{3158}{}{VidÃ­Å¡ jednu z dÃ­vek KoÄiÄÃ­ Packy. JejÃ­ sporÃ© Å¡aty svÅ¯dnÄ› obepÃ­najÃ­ celÃ© jejÃ­ tÄ›lo.}
+{3200}{}{Ach boÅ¾e! Ach boÅ¾e! Ach boÅ¾e ach boÅ¾e ach boÅ¾e... Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡ch boÅ¾e.}
+{3201}{}{Ano! Ano! Anoooooooooo Ano Ano Ano Ano ANO ANO ANOOOOO! A teÄ jdi zaplatit u pokladny.}
+{3202}{}{DÄ›lej, bÄ›Å¾Ã­ ti Äas.}
+{3203}{}{NepotÅ™ebujeÅ¡ mokrej ruÄnÃ­k?}
+{3204}{}{UdÄ›lej mi to, Fr... Ni... Sc... eh, promiÅˆ, jak Å¾e se to jmenujeÅ¡?}
+{3205}{}{Ach mÅ¯j boÅ¾e, ach boÅ¾e, ach mÅ¯j boÅ¾e! UÅ¾ jsi skonÄil?}
+{3206}{}{Panejo. Tak TOHLE bude jen za extra pÅ™Ã­platek.}
+{3207}{}{Ano! Ty jseÅ¡ Kolumbus a jÃ¡ Amerika!}
+{3208}{}{Ach mÅ¯j boÅ¾e, to bylo naprosto super. A teÄ ze mÄ› laskavÄ› slez a zaplaÅ¥ u pokladny.}
+{3209}{}{UÅ¾ je uvnitÅ™?}
+{3210}{}{Jo, to vÃ­Å¡, Å¾e JSI Zakladatel. Jo, jasnÄ›, to TY jsi naÅ¡el vodnÃ­ Äip a porazil VÅ¯dce. Jo to vÃ­Å¡, Å¾e jsi hrdina.}
+{3211}{}{JseÅ¡ tvrdej jako tvrzenÃ¡ energo zbroj.}
 {3212}{}{*Uhhh*}
-{3213}{}{*Ááách*}
-{3214}{}{Ne, masku Myšáka Mickeyho si na sebe nevezmu.}
-{3215}{}{Ano, ano, to víš, e máš "ohromnı koule."}
+{3213}{}{*ÃÃ¡Ã¡ch*}
+{3214}{}{Ne, masku MyÅ¡Ã¡ka Mickeyho si na sebe nevezmu.}
+{3215}{}{Ano, ano, to vÃ­Å¡, Å¾e mÃ¡Å¡ "ohromnÃ½ koule."}

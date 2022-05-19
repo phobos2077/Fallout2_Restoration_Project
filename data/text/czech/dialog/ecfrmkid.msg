@@ -1,11 +1,11 @@
-{100}{}{Hehe. Mì nedostaneš.}
-{101}{}{Táta tì zbièuje.}
-{102}{}{Dostaneš.}
-{103}{}{Jdi pryè!}
-{104}{}{Héhé!}
-{105}{}{Áááá!}
+{100}{}{Hehe. MÄ› nedostaneÅ¡.}
+{101}{}{TÃ¡ta tÄ› zbiÄuje.}
+{102}{}{DostaneÅ¡.}
+{103}{}{Jdi pryÄ!}
+{104}{}{HÃ©hÃ©!}
+{105}{}{ÃÃ¡Ã¡Ã¡!}
 {106}{}{Mami!}
-{107}{}{Tatínku!}
-{200}{}{Vidíš malé dítì.}
-{201}{}{Je to malı chlapec.}
-{202}{}{Je to holèièka.}
+{107}{}{TatÃ­nku!}
+{200}{}{VidÃ­Å¡ malÃ© dÃ­tÄ›.}
+{201}{}{Je to malÃ½ chlapec.}
+{202}{}{Je to holÄiÄka.}

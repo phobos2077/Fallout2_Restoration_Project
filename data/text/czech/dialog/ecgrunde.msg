@@ -1,9 +1,9 @@
-{100}{}{Myšièko myš, pojï ke mnì blí.}
-{101}{}{Grundel tì potøebuje na peèínku.}
-{102}{}{Pojï sem, myško.}
-{103}{}{Hodnı Grundel ty neublíit.}
-{104}{}{Malièké, chutòouèké.}
-{105}{}{Pojï, pojï, myšièko. Já mít hlad.}
-{106}{}{Písk, písk. PÍÍÍÍSK!}
-{107}{}{Dobrá, dobrá, já lhát. Já ty teï sníst.}
-{110}{}{Óóó! Ty velká myška. Bıt dobrá veèeøe pro Grundela.}
+{100}{}{MyÅ¡iÄko myÅ¡, pojÄ ke mnÄ› blÃ­Å¾.}
+{101}{}{Grundel tÄ› potÅ™ebuje na peÄÃ­nku.}
+{102}{}{PojÄ sem, myÅ¡ko.}
+{103}{}{HodnÃ½ Grundel ty neublÃ­Å¾it.}
+{104}{}{MaliÄkÃ©, chutÅˆouÄkÃ©.}
+{105}{}{PojÄ, pojÄ, myÅ¡iÄko. JÃ¡ mÃ­t hlad.}
+{106}{}{PÃ­sk, pÃ­sk. PÃÃÃÃSK!}
+{107}{}{DobrÃ¡, dobrÃ¡, jÃ¡ lhÃ¡t. JÃ¡ ty teÄ snÃ­st.}
+{110}{}{Ã“Ã³Ã³! Ty velkÃ¡ myÅ¡ka. BÃ½t dobrÃ¡ veÄeÅ™e pro Grundela.}

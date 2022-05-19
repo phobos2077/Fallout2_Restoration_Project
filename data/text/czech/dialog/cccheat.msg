@@ -1,14 +1,14 @@
-{100}{}{Vidíš pana Podfukáøe.}
-{101}{}{Jo, stále vypadá jako podfukáø.}
-{200}{}{Nazdárek, já jsem pan Podfukáø. Jak ti mùu pomoct?}
-{201}{}{Uneseš mùj kmen?}
-{202}{}{Nasadíš mì na úkol pro Shi?}
-{203}{}{Nasadíš mì na úkol pro Hubologisty?}
-{204}{}{Nasadíš mì na úkol pro Bratrstvo Oceli?}
-{205}{}{Udìlej to tak, jako e u jsem byl ve vojenské základnì.}
-{206}{}{Unesl jsem tvùj kmen.}
-{207}{}{Nasadil jsem tì na úkol pro Shi.}
-{208}{}{Nasadil jsem tì na úkol pro Hubologisty.}
-{209}{}{Nasadil jsem tì na úkol pro Bratrstvo Oceli.}
-{210}{}{Teï u jsi byl na té vojenské základnì.}
-{211}{}{Díky, pane Podfukáøi.}
+{100}{}{VidÃ­Å¡ pana PodfukÃ¡Å™e.}
+{101}{}{Jo, stÃ¡le vypadÃ¡ jako podfukÃ¡Å™.}
+{200}{}{NazdÃ¡rek, jÃ¡ jsem pan PodfukÃ¡Å™. Jak ti mÅ¯Å¾u pomoct?}
+{201}{}{UneseÅ¡ mÅ¯j kmen?}
+{202}{}{NasadÃ­Å¡ mÄ› na Ãºkol pro Shi?}
+{203}{}{NasadÃ­Å¡ mÄ› na Ãºkol pro Hubologisty?}
+{204}{}{NasadÃ­Å¡ mÄ› na Ãºkol pro Bratrstvo Oceli?}
+{205}{}{UdÄ›lej to tak, jako Å¾e uÅ¾ jsem byl ve vojenskÃ© zÃ¡kladnÄ›.}
+{206}{}{Unesl jsem tvÅ¯j kmen.}
+{207}{}{Nasadil jsem tÄ› na Ãºkol pro Shi.}
+{208}{}{Nasadil jsem tÄ› na Ãºkol pro Hubologisty.}
+{209}{}{Nasadil jsem tÄ› na Ãºkol pro Bratrstvo Oceli.}
+{210}{}{TeÄ uÅ¾ jsi byl na tÃ© vojenskÃ© zÃ¡kladnÄ›.}
+{211}{}{DÃ­ky, pane PodfukÃ¡Å™i.}

@@ -1,8 +1,8 @@
-{100}{}{Vidíš malé dítì.}
-{101}{}{Vypadá šastnì.}
-{200}{}{Vííí!}
-{201}{}{Tady je to hezkı.}
-{202}{}{Nevidìl jsi mıho neviditelnıho pøítele?}
-{203}{}{Smrdíš!}
+{100}{}{VidÃ­Å¡ malÃ© dÃ­tÄ›.}
+{101}{}{VypadÃ¡ Å¡Å¥astnÄ›.}
+{200}{}{VÃ­Ã­Ã­!}
+{201}{}{Tady je to hezkÃ½.}
+{202}{}{NevidÄ›l jsi mÃ½ho neviditelnÃ½ho pÅ™Ã­tele?}
+{203}{}{SmrdÃ­Å¡!}
 {204}{}{Ahoj!}
 {500}{}{Mami!}

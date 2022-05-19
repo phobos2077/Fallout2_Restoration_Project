@@ -1,262 +1,262 @@
-{100}{}{Vidíš staršího èlena rady McClura.}
-{101}{}{Vidíš postaršího úøedníka Vault City. Má prošedivìlé kouty vlasù.}
-{102}{}{Vidíš staršího èlena rady McClura.}
-{103}{}{Vidíš postaršího úøedníka Vault City. Má prošedivìlé kouty vlasù.}
-{104}{}{Slyšel jsem o tvıch hrdinskıch èinech. Jsme ti všichni zavázáni... Vyvolenı.}
-{105}{}{Ne odejdu, musím si udìlat poøádek v tìchto papírech. Pøijïte ráno a promluvíme si.}
-{106}{}{Ghoul?! Stráe! Stráe!}
-{107}{}{Mutant?! Stráe! Stráe!}
-{108}{}{Nemám vám co øíci. Odejdìte, nebo zavolám stráe.}
-{109}{}{Dobrı den... Kapitáne, je to tak? Hodnì jsem o vás slyšel. Mohu vám s nìèím pomoci?}
-{110}{}{Dobrı den... Obèane, je to tak? U jsem slyšel o novém èlenovi naší komunity. Mohu vám s nìèím pomoci?}
-{111}{}{Zdravím... mohu vám nìjak pomoci?}
-{112}{}{Dobrı den, Kapitáne. Doufám, e je vše v poøádku.}
-{113}{}{Dobrı den, Obèane. Mohu vám nìjak pomoci?}
-{114}{}{Ano? Potøebujete ještì nìco?}
+{100}{}{VidÃ­Å¡ starÅ¡Ã­ho Älena rady McClura.}
+{101}{}{VidÃ­Å¡ postarÅ¡Ã­ho ÃºÅ™ednÃ­ka Vault City. MÃ¡ proÅ¡edivÄ›lÃ© kouty vlasÅ¯.}
+{102}{}{VidÃ­Å¡ starÅ¡Ã­ho Älena rady McClura.}
+{103}{}{VidÃ­Å¡ postarÅ¡Ã­ho ÃºÅ™ednÃ­ka Vault City. MÃ¡ proÅ¡edivÄ›lÃ© kouty vlasÅ¯.}
+{104}{}{SlyÅ¡el jsem o tvÃ½ch hrdinskÃ½ch Äinech. Jsme ti vÅ¡ichni zavÃ¡zÃ¡ni... VyvolenÃ½.}
+{105}{}{NeÅ¾ odejdu, musÃ­m si udÄ›lat poÅ™Ã¡dek v tÄ›chto papÃ­rech. PÅ™ijÄte rÃ¡no a promluvÃ­me si.}
+{106}{}{Ghoul?! StrÃ¡Å¾e! StrÃ¡Å¾e!}
+{107}{}{Mutant?! StrÃ¡Å¾e! StrÃ¡Å¾e!}
+{108}{}{NemÃ¡m vÃ¡m co Å™Ã­ci. OdejdÄ›te, nebo zavolÃ¡m strÃ¡Å¾e.}
+{109}{}{DobrÃ½ den... KapitÃ¡ne, je to tak? HodnÄ› jsem o vÃ¡s slyÅ¡el. Mohu vÃ¡m s nÄ›ÄÃ­m pomoci?}
+{110}{}{DobrÃ½ den... ObÄane, je to tak? UÅ¾ jsem slyÅ¡el o novÃ©m Älenovi naÅ¡Ã­ komunity. Mohu vÃ¡m s nÄ›ÄÃ­m pomoci?}
+{111}{}{ZdravÃ­m... mohu vÃ¡m nÄ›jak pomoci?}
+{112}{}{DobrÃ½ den, KapitÃ¡ne. DoufÃ¡m, Å¾e je vÅ¡e v poÅ™Ã¡dku.}
+{113}{}{DobrÃ½ den, ObÄane. Mohu vÃ¡m nÄ›jak pomoci?}
+{114}{}{Ano? PotÅ™ebujete jeÅ¡tÄ› nÄ›co?}
 {115}{}{Sa-tan Klaus?}
 {116}{}{Odbelhat se.}
-{117}{}{Mùu se tì na nìco zeptat?}
+{117}{}{MÅ¯Å¾u se tÄ› na nÄ›co zeptat?}
 {118}{}{Kdo jsi?}
-{119}{}{Jen se tak dívám kolem, díky. Hezkı den.}
-{120}{}{Jak se vám podaøilo dostat do našeho mìsta? Stráe! Máme tu venkovana, kterı potøebuje odvést k branám mìsta!}
-{121}{}{Já ne jít JÁ NE JÍT.}
-{122}{}{Áááá... sím ne jít? Já bıt hodnı.}
-{123}{}{Jistì, Kapitáne.}
-{124}{}{Jistì, Obèane.}
-{125}{}{Co si pøejete vìdìt?}
-{126}{}{Co tu dìláte?}
-{127}{}{Hledám GECK.}
-{128}{}{Co mi mùete øíct o První Obèance?}
-{129}{}{Chci se vás zeptat na pár vìcí ohlednì Gecka.}
-{130}{}{Co mi mùete øíct o Reddingu?}
-{131}{}{Potøebuju si s vámi promluvit o Reddingu.}
-{132}{}{Jak se mùu stát Obèanem?}
-{133}{}{Myslím, e máte moná souèástku, která je nutná k opravì elektrárny v Gecku.}
-{134}{}{Elektrárna v Gecku je opravena.}
-{135}{}{Mám holodisk s ekonomickımi údaji, kterı by vás mohl zajímat.}
-{136}{}{Vím, jak optimalizovat reaktor v Gecku.}
+{119}{}{Jen se tak dÃ­vÃ¡m kolem, dÃ­ky. HezkÃ½ den.}
+{120}{}{Jak se vÃ¡m podaÅ™ilo dostat do naÅ¡eho mÄ›sta? StrÃ¡Å¾e! MÃ¡me tu venkovana, kterÃ½ potÅ™ebuje odvÃ©st k branÃ¡m mÄ›sta!}
+{121}{}{JÃ¡ ne jÃ­t JÃ NE JÃT.}
+{122}{}{ÃÃ¡Ã¡Ã¡... sÃ­m ne jÃ­t? JÃ¡ bÃ½t hodnÃ½.}
+{123}{}{JistÄ›, KapitÃ¡ne.}
+{124}{}{JistÄ›, ObÄane.}
+{125}{}{Co si pÅ™ejete vÄ›dÄ›t?}
+{126}{}{Co tu dÄ›lÃ¡te?}
+{127}{}{HledÃ¡m GECK.}
+{128}{}{Co mi mÅ¯Å¾ete Å™Ã­ct o PrvnÃ­ ObÄance?}
+{129}{}{Chci se vÃ¡s zeptat na pÃ¡r vÄ›cÃ­ ohlednÄ› Gecka.}
+{130}{}{Co mi mÅ¯Å¾ete Å™Ã­ct o Reddingu?}
+{131}{}{PotÅ™ebuju si s vÃ¡mi promluvit o Reddingu.}
+{132}{}{Jak se mÅ¯Å¾u stÃ¡t ObÄanem?}
+{133}{}{MyslÃ­m, Å¾e mÃ¡te moÅ¾nÃ¡ souÄÃ¡stku, kterÃ¡ je nutnÃ¡ k opravÄ› elektrÃ¡rny v Gecku.}
+{134}{}{ElektrÃ¡rna v Gecku je opravena.}
+{135}{}{MÃ¡m holodisk s ekonomickÃ½mi Ãºdaji, kterÃ½ by vÃ¡s mohl zajÃ­mat.}
+{136}{}{VÃ­m, jak optimalizovat reaktor v Gecku.}
 {137}{}{Tady je holodisk reaktoru z Gecka. Mohl byste ho optimalizovat?}
-{138}{}{Dnes nic, díky.}
-{139}{}{Jsem starší radní McClure. A vy jste...?}
-{140}{}{Do toho ti nic není.}
-{141}{}{. Je mi potìšením.}
-{142}{}{Opravdu u musím bìet. Necháme to pøedstavování na jindy.}
-{143}{}{Takové hulvátství bych èekal od nìjakého venkovana, ale ne od Obèana. Jsem èlen rady Vault City a vy mi prokáete patøiènı respekt, nebo zruším vaše Obèanství. Rozumìl jste mi?}
-{144}{}{Jdìte se vycpat, starochu.}
-{145}{}{Jak myslíš. Stejnì si u s tebou nechci povídat.}
-{146}{}{Promiòte. Nebylo mım úmyslem vás urazit.}
-{147}{}{Pøesnì takové hulvátství jsem od venkovana èekal! Odevzdejte mi svoji Denní propustku a jdìte se stráemi. V našem mìstì není místo pro takové lidi, jako jste vy.}
-{148}{}{Nic vám nedám. Chcete ji? Tak si pro ni pojïte.}
-{149}{}{Já NEJSEM venkovan. Jsem Obèan.}
-{150}{}{Dobøe, dobøe. U jdu.}
-{151}{}{Tomu se mi nechce ani trochu vìøit. Ukate mi vaše doklady.}
+{138}{}{Dnes nic, dÃ­ky.}
+{139}{}{Jsem starÅ¡Ã­ radnÃ­ McClure. A vy jste...?}
+{140}{}{Do toho ti nic nenÃ­.}
+{141}{}{. Je mi potÄ›Å¡enÃ­m.}
+{142}{}{Opravdu uÅ¾ musÃ­m bÄ›Å¾et. NechÃ¡me to pÅ™edstavovÃ¡nÃ­ na jindy.}
+{143}{}{TakovÃ© hulvÃ¡tstvÃ­ bych Äekal od nÄ›jakÃ©ho venkovana, ale ne od ObÄana. Jsem Älen rady Vault City a vy mi prokÃ¡Å¾ete patÅ™iÄnÃ½ respekt, nebo zruÅ¡Ã­m vaÅ¡e ObÄanstvÃ­. RozumÄ›l jste mi?}
+{144}{}{JdÄ›te se vycpat, starochu.}
+{145}{}{Jak myslÃ­Å¡. StejnÄ› si uÅ¾ s tebou nechci povÃ­dat.}
+{146}{}{PromiÅˆte. Nebylo mÃ½m Ãºmyslem vÃ¡s urazit.}
+{147}{}{PÅ™esnÄ› takovÃ© hulvÃ¡tstvÃ­ jsem od venkovana Äekal! Odevzdejte mi svoji DennÃ­ propustku a jdÄ›te se strÃ¡Å¾emi. V naÅ¡em mÄ›stÄ› nenÃ­ mÃ­sto pro takovÃ© lidi, jako jste vy.}
+{148}{}{Nic vÃ¡m nedÃ¡m. Chcete ji? Tak si pro ni pojÄte.}
+{149}{}{JÃ¡ NEJSEM venkovan. Jsem ObÄan.}
+{150}{}{DobÅ™e, dobÅ™e. UÅ¾ jdu.}
+{151}{}{Tomu se mi nechce ani trochu vÄ›Å™it. UkaÅ¾te mi vaÅ¡e doklady.}
 {152}{}{Tady jsou moje doklady.}
-{153}{}{Chcete je? Tak si pro nì pojïte.}
-{154}{}{Nechápu, jak se mùe nìkdo s takovım podøadnım chováním stát Obèanem, ale tyto doklady vypadají v poøádku. Zvláštní... nevzpomínám si, e bych vás tu nìkdy vidìl. Co se dá dìlat, budu respektovat vaše Obèanství.}
-{155}{}{To si pište, e budete respektovat moje Obèanství!}
-{156}{}{Jo, jasnì. Padám odsud.}
-{157}{}{Neopovaujte se na mì ještì nìkdy promluvit. Jestli se o to pokusíte, zruším vaše Obèanství. Hezkı den.}
-{158}{}{Hezkı den.}
-{159}{}{Zkuste zrušit moje Obèanství a budete toho litovat.}
-{160}{}{Jste u slabı, starochu. Nemáte proti mnì šanci.}
-{161}{}{Tak dost! A u jste Obèan nebo ne, vypadnìte odsud. Stráe, doprovoïte tohoto degenerovaného jedince k bránì!}
-{162}{}{Odcházím. Stejnì to tu stojí za hovno.}
-{163}{}{Nikam nepùjdu.}
-{164}{}{Co pro tebe mohu udìlat?}
-{165}{}{Nevím, starochu. Co pro mì MÙETE udìlat?}
-{166}{}{Hledám GECK.}
-{167}{}{Mùu se tì na nìco zeptat?}
-{168}{}{Dnes nic. Jen si tak prohlíím radní budovu.}
-{169}{}{GECK? Pokud je mi známo, mìli jsme pouze jeden. Èetl jsem, e vydrel docela dlouho, ale porouchal se nìkolik let pøed mım narozením. Mìli jsme mít dva...}
-{170}{}{Mìli?}
-{171}{}{...ale stará vláda údajnì zpackala zásobování a my dostali zásilku, která patøila Vaultu èíslo... tøináct to myslím bylo. Tím pádem nejspíš obdreli náš náhradní GECK.}
-{172}{}{Co bylo v té zásilce urèené pro Vault 13?}
+{153}{}{Chcete je? Tak si pro nÄ› pojÄte.}
+{154}{}{NechÃ¡pu, jak se mÅ¯Å¾e nÄ›kdo s takovÃ½m podÅ™adnÃ½m chovÃ¡nÃ­m stÃ¡t ObÄanem, ale tyto doklady vypadajÃ­ v poÅ™Ã¡dku. ZvlÃ¡Å¡tnÃ­... nevzpomÃ­nÃ¡m si, Å¾e bych vÃ¡s tu nÄ›kdy vidÄ›l. Co se dÃ¡ dÄ›lat, budu respektovat vaÅ¡e ObÄanstvÃ­.}
+{155}{}{To si piÅ¡te, Å¾e budete respektovat moje ObÄanstvÃ­!}
+{156}{}{Jo, jasnÄ›. PadÃ¡m odsud.}
+{157}{}{NeopovaÅ¾ujte se na mÄ› jeÅ¡tÄ› nÄ›kdy promluvit. Jestli se o to pokusÃ­te, zruÅ¡Ã­m vaÅ¡e ObÄanstvÃ­. HezkÃ½ den.}
+{158}{}{HezkÃ½ den.}
+{159}{}{Zkuste zruÅ¡it moje ObÄanstvÃ­ a budete toho litovat.}
+{160}{}{Jste uÅ¾ slabÃ½, starochu. NemÃ¡te proti mnÄ› Å¡anci.}
+{161}{}{Tak dost! AÅ¥ uÅ¾ jste ObÄan nebo ne, vypadnÄ›te odsud. StrÃ¡Å¾e, doprovoÄte tohoto degenerovanÃ©ho jedince k brÃ¡nÄ›!}
+{162}{}{OdchÃ¡zÃ­m. StejnÄ› to tu stojÃ­ za hovno.}
+{163}{}{Nikam nepÅ¯jdu.}
+{164}{}{Co pro tebe mohu udÄ›lat?}
+{165}{}{NevÃ­m, starochu. Co pro mÄ› MÅ®Å½ETE udÄ›lat?}
+{166}{}{HledÃ¡m GECK.}
+{167}{}{MÅ¯Å¾u se tÄ› na nÄ›co zeptat?}
+{168}{}{Dnes nic. Jen si tak prohlÃ­Å¾Ã­m radnÃ­ budovu.}
+{169}{}{GECK? Pokud je mi znÃ¡mo, mÄ›li jsme pouze jeden. ÄŒetl jsem, Å¾e vydrÅ¾el docela dlouho, ale porouchal se nÄ›kolik let pÅ™ed mÃ½m narozenÃ­m. MÄ›li jsme mÃ­t dva...}
+{170}{}{MÄ›li?}
+{171}{}{...ale starÃ¡ vlÃ¡da ÃºdajnÄ› zpackala zÃ¡sobovÃ¡nÃ­ a my dostali zÃ¡silku, kterÃ¡ patÅ™ila Vaultu ÄÃ­slo... tÅ™inÃ¡ct to myslÃ­m bylo. TÃ­m pÃ¡dem nejspÃ­Å¡ obdrÅ¾eli nÃ¡Å¡ nÃ¡hradnÃ­ GECK.}
+{172}{}{Co bylo v tÃ© zÃ¡silce urÄenÃ© pro Vault 13?}
 {173}{}{Co se stalo s tou rozbitou soupravou GECKu?}
-{174}{}{Mùu se ještì na nìco zeptat?}
-{175}{}{Aha. Díky za informace.}
-{176}{}{Vodní èipy, asi sto. Nevím, proè jich poslali tolik... ten náš nikdy nepøestal fungovat. Máme stále ten pùvodní, kterı je v provozu od té doby, co zaèali lidé ít v podzemních Vaultech.}
+{174}{}{MÅ¯Å¾u se jeÅ¡tÄ› na nÄ›co zeptat?}
+{175}{}{Aha. DÃ­ky za informace.}
+{176}{}{VodnÃ­ Äipy, asi sto. NevÃ­m, proÄ jich poslali tolik... ten nÃ¡Å¡ nikdy nepÅ™estal fungovat. MÃ¡me stÃ¡le ten pÅ¯vodnÃ­, kterÃ½ je v provozu od tÃ© doby, co zaÄali lidÃ© Å¾Ã­t v podzemnÃ­ch Vaultech.}
 {177}{}{Co se stalo s tou rozbitou soupravou GECKu?}
-{178}{}{Mùu se ještì na nìco zeptat?}
-{179}{}{Zajímavé. Díky za váš èas.}
-{180}{}{To je pìknì ostrá ironie. Tøeba si opìt promluvíme, a pøestanu krvácet.}
-{181}{}{Byl rozebrán a jeho souèástky byly pouity k jinım úèelùm.}
-{182}{}{Co bylo v té zásilce urèené pro Vault 13?}
-{183}{}{Mùu se ještì na nìco zeptat?}
-{184}{}{Rozumím. Díky za tvùj èas.}
-{185}{}{Je èelní pøedstavitelkou našich obyvatel. Obèané Vault City k ní vzhlíejí jako ke svému vùdci, ale v dùleitıch vìcech mají vdy koneèné slovo prostøednictvím rady. V tìchto nelehkıch èasech je pilíøem naší spoleènosti.}
-{186}{}{"Nelehkıch èasech?" Co tím myslíte?}
-{187}{}{A co dìláte vy?}
-{188}{}{Mùu se ještì na nìco zeptat?}
-{189}{}{Díky za tvùj èas. Sbohem.}
-{190}{}{Gecko? Co chcete vìdìt?}
+{178}{}{MÅ¯Å¾u se jeÅ¡tÄ› na nÄ›co zeptat?}
+{179}{}{ZajÃ­mavÃ©. DÃ­ky za vÃ¡Å¡ Äas.}
+{180}{}{To je pÄ›knÄ› ostrÃ¡ ironie. TÅ™eba si opÄ›t promluvÃ­me, aÅ¾ pÅ™estanu krvÃ¡cet.}
+{181}{}{Byl rozebrÃ¡n a jeho souÄÃ¡stky byly pouÅ¾ity k jinÃ½m ÃºÄelÅ¯m.}
+{182}{}{Co bylo v tÃ© zÃ¡silce urÄenÃ© pro Vault 13?}
+{183}{}{MÅ¯Å¾u se jeÅ¡tÄ› na nÄ›co zeptat?}
+{184}{}{RozumÃ­m. DÃ­ky za tvÅ¯j Äas.}
+{185}{}{Je ÄelnÃ­ pÅ™edstavitelkou naÅ¡ich obyvatel. ObÄanÃ© Vault City k nÃ­ vzhlÃ­Å¾ejÃ­ jako ke svÃ©mu vÅ¯dci, ale v dÅ¯leÅ¾itÃ½ch vÄ›cech majÃ­ vÅ¾dy koneÄnÃ© slovo prostÅ™ednictvÃ­m rady. V tÄ›chto nelehkÃ½ch Äasech je pilÃ­Å™em naÅ¡Ã­ spoleÄnosti.}
+{186}{}{"NelehkÃ½ch Äasech?" Co tÃ­m myslÃ­te?}
+{187}{}{A co dÄ›lÃ¡te vy?}
+{188}{}{MÅ¯Å¾u se jeÅ¡tÄ› na nÄ›co zeptat?}
+{189}{}{DÃ­ky za tvÅ¯j Äas. Sbohem.}
+{190}{}{Gecko? Co chcete vÄ›dÄ›t?}
 {191}{}{Kde je Gecko?}
 {192}{}{Co je Gecko?}
-{193}{}{Mùu se ještì na nìco zeptat?}
-{194}{}{Díky za tvùj èas. Sbohem.}
-{195}{}{Není moc o èem mluvit, a na fakt, e naše zásilky rudy jsou èím dál menší a interval mezi dodávkami neustále delší.}
-{196}{}{Máte nìjaké tušení proè?}
+{193}{}{MÅ¯Å¾u se jeÅ¡tÄ› na nÄ›co zeptat?}
+{194}{}{DÃ­ky za tvÅ¯j Äas. Sbohem.}
+{195}{}{NenÃ­ moc o Äem mluvit, aÅ¾ na fakt, Å¾e naÅ¡e zÃ¡silky rudy jsou ÄÃ­m dÃ¡l menÅ¡Ã­ a interval mezi dodÃ¡vkami neustÃ¡le delÅ¡Ã­.}
+{196}{}{MÃ¡te nÄ›jakÃ© tuÅ¡enÃ­ proÄ?}
 {197}{}{Kde je Redding?}
-{198}{}{Mùu se ještì na nìco zeptat?}
-{199}{}{Díky za tvùj èas. Sbohem.}
-{200}{}{Jsem starší èlen rady. Øídím schùze mìstské rady.}
-{201}{}{A co tedy potom dìlá První Obèanka?}
-{202}{}{Mùu se ještì na nìco zeptat?}
-{203}{}{Díky za váš èas. Sbohem.}
-{204}{}{Inu, Obèanství není jen tak pro kadého, to je pochopitelné. Mnì pøipadáte spíše jako dobrodruh... opravdu si nemyslím, e je pro vás Obèanství vhodné.}
-{205}{}{Ale no tak... prostì mi øeknìte, co je zapotøebí k získání Obèanství.}
-{206}{}{I pøesto se chci stát Obèanem.}
-{207}{}{Mùu se ještì na nìco zeptat?}
+{198}{}{MÅ¯Å¾u se jeÅ¡tÄ› na nÄ›co zeptat?}
+{199}{}{DÃ­ky za tvÅ¯j Äas. Sbohem.}
+{200}{}{Jsem starÅ¡Ã­ Älen rady. Å˜Ã­dÃ­m schÅ¯ze mÄ›stskÃ© rady.}
+{201}{}{A co tedy potom dÄ›lÃ¡ PrvnÃ­ ObÄanka?}
+{202}{}{MÅ¯Å¾u se jeÅ¡tÄ› na nÄ›co zeptat?}
+{203}{}{DÃ­ky za vÃ¡Å¡ Äas. Sbohem.}
+{204}{}{Inu, ObÄanstvÃ­ nenÃ­ jen tak pro kaÅ¾dÃ©ho, to je pochopitelnÃ©. MnÄ› pÅ™ipadÃ¡te spÃ­Å¡e jako dobrodruh... opravdu si nemyslÃ­m, Å¾e je pro vÃ¡s ObÄanstvÃ­ vhodnÃ©.}
+{205}{}{Ale no tak... prostÄ› mi Å™eknÄ›te, co je zapotÅ™ebÃ­ k zÃ­skÃ¡nÃ­ ObÄanstvÃ­.}
+{206}{}{I pÅ™esto se chci stÃ¡t ObÄanem.}
+{207}{}{MÅ¯Å¾u se jeÅ¡tÄ› na nÄ›co zeptat?}
 {208}{}{Tak nic.}
-{209}{}{Pøejete si stát Obèanem? Nue, rádi vás mezi sebe uvítáme. Staèí si jen promluvit s prokonzulem Gregorym a on vás podrobí testu Obèanství.}
+{209}{}{PÅ™ejete si stÃ¡t ObÄanem? NuÅ¾e, rÃ¡di vÃ¡s mezi sebe uvÃ­tÃ¡me. StaÄÃ­ si jen promluvit s prokonzulem Gregorym a on vÃ¡s podrobÃ­ testu ObÄanstvÃ­.}
 {210}{}{Kde najdu prokonzula Gregoryho?}
-{211}{}{Mùu se ještì na nìco zeptat?}
-{212}{}{Díky. Jdu se po nìm podívat. Sbohem.}
-{213}{}{Tak dobrá. Staèí si jen promluvit s prokonzulem Gregorym a on vás podrobí testu Obèanství.}
+{211}{}{MÅ¯Å¾u se jeÅ¡tÄ› na nÄ›co zeptat?}
+{212}{}{DÃ­ky. Jdu se po nÄ›m podÃ­vat. Sbohem.}
+{213}{}{Tak dobrÃ¡. StaÄÃ­ si jen promluvit s prokonzulem Gregorym a on vÃ¡s podrobÃ­ testu ObÄanstvÃ­.}
 {214}{}{Kde najdu prokonzula Gregoryho?}
-{215}{}{Mùu se ještì na nìco zeptat?}
-{216}{}{Dobrá. Pùjdu si teï promluvit s prokonzulem.}
-{217}{}{Najdete ho ve vıchodním køídle budovy. Jeho kanceláø je naproti kanceláøi První Obèanky.}
-{218}{}{Mùu se ještì na nìco zeptat?}
-{219}{}{Díky za tvùj èas. Sbohem.}
-{220}{}{Poslední dva roky nebyly zrovna jednoduché. NCR je stále agresivnìjší ve svıch pokusech pøipojit Vault City ke své republice.}
-{221}{}{Øekli nám, e kdy se pøipojíme, budou moci chránit naše mìsto pøed útoky nájezdníkù. Poslední dobou jsou èím dál brutálnìjší.}
-{222}{}{A nakonec tu máme problém s ghouly v Gecku, kteøí kontaminují naši podzemní vodu.}
+{215}{}{MÅ¯Å¾u se jeÅ¡tÄ› na nÄ›co zeptat?}
+{216}{}{DobrÃ¡. PÅ¯jdu si teÄ promluvit s prokonzulem.}
+{217}{}{Najdete ho ve vÃ½chodnÃ­m kÅ™Ã­dle budovy. Jeho kancelÃ¡Å™ je naproti kancelÃ¡Å™i PrvnÃ­ ObÄanky.}
+{218}{}{MÅ¯Å¾u se jeÅ¡tÄ› na nÄ›co zeptat?}
+{219}{}{DÃ­ky za tvÅ¯j Äas. Sbohem.}
+{220}{}{PoslednÃ­ dva roky nebyly zrovna jednoduchÃ©. NCR je stÃ¡le agresivnÄ›jÅ¡Ã­ ve svÃ½ch pokusech pÅ™ipojit Vault City ke svÃ© republice.}
+{221}{}{Å˜ekli nÃ¡m, Å¾e kdyÅ¾ se pÅ™ipojÃ­me, budou moci chrÃ¡nit naÅ¡e mÄ›sto pÅ™ed Ãºtoky nÃ¡jezdnÃ­kÅ¯. PoslednÃ­ dobou jsou ÄÃ­m dÃ¡l brutÃ¡lnÄ›jÅ¡Ã­.}
+{222}{}{A nakonec tu mÃ¡me problÃ©m s ghouly v Gecku, kteÅ™Ã­ kontaminujÃ­ naÅ¡i podzemnÃ­ vodu.}
 {223}{}{Kde je Gecko?}
 {224}{}{Co je Gecko?}
-{225}{}{Vskutku nelehké èasy. Mùu se vás ještì na nìco zeptat?}
-{226}{}{To je mi líto. Díky za váš èas. Sbohem.}
-{227}{}{Je to pøímo na severovıchod odsud, ale jestli tam chcete jít, tak bych vám doporuèil si sehnat nìjaké antiradiaèní pøípravky. Jeliko kontaminují naši vodu, je velmi pravdìpodobné, e jejich mìsto bude takté zamoøené radiací.}
+{225}{}{Vskutku nelehkÃ© Äasy. MÅ¯Å¾u se vÃ¡s jeÅ¡tÄ› na nÄ›co zeptat?}
+{226}{}{To je mi lÃ­to. DÃ­ky za vÃ¡Å¡ Äas. Sbohem.}
+{227}{}{Je to pÅ™Ã­mo na severovÃ½chod odsud, ale jestli tam chcete jÃ­t, tak bych vÃ¡m doporuÄil si sehnat nÄ›jakÃ© antiradiaÄnÃ­ pÅ™Ã­pravky. JelikoÅ¾ kontaminujÃ­ naÅ¡i vodu, je velmi pravdÄ›podobnÃ©, Å¾e jejich mÄ›sto bude taktÃ©Å¾ zamoÅ™enÃ© radiacÃ­.}
 {228}{}{Co je Gecko?}
-{229}{}{Mùu se ještì na nìco zeptat?}
-{230}{}{Díky za varování. Sbohem.}
-{231}{}{Je to zatracované místo. Osada z chatrèí vybudovaná na pozùstatcích staré atomové elektrárny.}
-{232}{}{Kde leí Gecko?}
-{233}{}{Mùu se ještì na nìco zeptat?}
-{234}{}{Díky za tvùj èas. Sbohem.}
-{235}{}{Ne. Vùbec tomu nerozumím. Jsme ochotni jim velkoryse zaplatit za jejich rudu, ale kdykoliv si o tom chceme promluvit, zaènou bıt vyhıbaví. Kdybych tak vìdìl, co se dìje...}
-{236}{}{Mùu to pro vás zkusit vypátrat.}
+{229}{}{MÅ¯Å¾u se jeÅ¡tÄ› na nÄ›co zeptat?}
+{230}{}{DÃ­ky za varovÃ¡nÃ­. Sbohem.}
+{231}{}{Je to zatracovanÃ© mÃ­sto. Osada z chatrÄÃ­ vybudovanÃ¡ na pozÅ¯statcÃ­ch starÃ© atomovÃ© elektrÃ¡rny.}
+{232}{}{Kde leÅ¾Ã­ Gecko?}
+{233}{}{MÅ¯Å¾u se jeÅ¡tÄ› na nÄ›co zeptat?}
+{234}{}{DÃ­ky za tvÅ¯j Äas. Sbohem.}
+{235}{}{Ne. VÅ¯bec tomu nerozumÃ­m. Jsme ochotni jim velkoryse zaplatit za jejich rudu, ale kdykoliv si o tom chceme promluvit, zaÄnou bÃ½t vyhÃ½bavÃ­. Kdybych tak vÄ›dÄ›l, co se dÄ›je...}
+{236}{}{MÅ¯Å¾u to pro vÃ¡s zkusit vypÃ¡trat.}
 {237}{}{Kde je Redding?}
-{238}{}{Díky za tvùj èas. Sbohem.}
-{239}{}{Myslíte, e by to šlo? Není v mé pravomoci vám za to zaplatit, ale vaše pomoc bude jistì velmi váená.}
+{238}{}{DÃ­ky za tvÅ¯j Äas. Sbohem.}
+{239}{}{MyslÃ­te, Å¾e by to Å¡lo? NenÃ­ v mÃ© pravomoci vÃ¡m za to zaplatit, ale vaÅ¡e pomoc bude jistÄ› velmi vÃ¡Å¾enÃ¡.}
 {240}{}{Kde je Redding?}
-{241}{}{ádnı problém. Jdu se pustit do pátrání a vrátím se, a zjistím, co se dìje.}
-{242}{}{Redding je odsud asi tıden cesty na západ. Nikdy jsem tam nebyl. Vlastnì jsem nikdy neopustil Vault City. Co jsem tak zaslechl, Redding je údajnì jedno z tìch pøíjemnìjších míst v pustinì.}
-{243}{}{Máte nìjakou pøedstavu o tom, co zpùsobuje zmenšování zásilek?}
-{244}{}{Aha. Díky za informace.}
-{245}{}{A o èem? Jakákoliv informace by mi hodnì pomohla.}
-{246}{}{Co mi mùete øíct o Reddingu?}
+{241}{}{Å½Ã¡dnÃ½ problÃ©m. Jdu se pustit do pÃ¡trÃ¡nÃ­ a vrÃ¡tÃ­m se, aÅ¾ zjistÃ­m, co se dÄ›je.}
+{242}{}{Redding je odsud asi tÃ½den cesty na zÃ¡pad. Nikdy jsem tam nebyl. VlastnÄ› jsem nikdy neopustil Vault City. Co jsem tak zaslechl, Redding je ÃºdajnÄ› jedno z tÄ›ch pÅ™Ã­jemnÄ›jÅ¡Ã­ch mÃ­st v pustinÄ›.}
+{243}{}{MÃ¡te nÄ›jakou pÅ™edstavu o tom, co zpÅ¯sobuje zmenÅ¡ovÃ¡nÃ­ zÃ¡silek?}
+{244}{}{Aha. DÃ­ky za informace.}
+{245}{}{A o Äem? JakÃ¡koliv informace by mi hodnÄ› pomohla.}
+{246}{}{Co mi mÅ¯Å¾ete Å™Ã­ct o Reddingu?}
 {247}{}{I found that a large part of Redding is addicted to a drug called Jet. The miners are trading most of their ore to New Reno just to keep supplied.}
-{248}{}{Dr. Troy vyrobil protilátku na Jet.}
-{249}{}{Protilátka byla doruèena do Reddingu.}
-{250}{}{Co je to ten "Jet", na kterém jsou všichni tak závislí?}
-{251}{}{Povím vám to, a zjistím víc.}
+{248}{}{Dr. Troy vyrobil protilÃ¡tku na Jet.}
+{249}{}{ProtilÃ¡tka byla doruÄena do Reddingu.}
+{250}{}{Co je to ten "Jet", na kterÃ©m jsou vÅ¡ichni tak zÃ¡vislÃ­?}
+{251}{}{PovÃ­m vÃ¡m to, aÅ¾ zjistÃ­m vÃ­c.}
 {252}{}{It's a drug with a 100% addiction rate, and severe withdrawals.}
-{253}{}{O všem mì prosím informujte.}
-{254}{}{Mùu se vás ještì na nìco zeptat?}
-{255}{}{Jasnì.}
-{256}{}{To jsou špatné zprávy. Musíme najít zpùsob, jak to zastavit. Jestli to takhle pùjde dál, tak nám úplnì pøestanou dodávat rudu. Prosím, pomozte nám.}
-{257}{}{Uvidím, co se dá dìlat.}
-{258}{}{Opravdu? Tak na co tady ještì èekáte? Doruète ji doktoru Johnsonovi do Reddingu! On u bude vìdìt, jak ji horníkùm podat.}
-{259}{}{Já vím, to u jsem od vás slyšel. Vezmìte ji do Reddingu a zkuste jim pomoci.}
-{260}{}{Mùu se vás ještì na nìco zeptat, ne vyrazím na cestu?}
+{253}{}{O vÅ¡em mÄ› prosÃ­m informujte.}
+{254}{}{MÅ¯Å¾u se vÃ¡s jeÅ¡tÄ› na nÄ›co zeptat?}
+{255}{}{JasnÄ›.}
+{256}{}{To jsou Å¡patnÃ© zprÃ¡vy. MusÃ­me najÃ­t zpÅ¯sob, jak to zastavit. Jestli to takhle pÅ¯jde dÃ¡l, tak nÃ¡m ÃºplnÄ› pÅ™estanou dodÃ¡vat rudu. ProsÃ­m, pomozte nÃ¡m.}
+{257}{}{UvidÃ­m, co se dÃ¡ dÄ›lat.}
+{258}{}{Opravdu? Tak na co tady jeÅ¡tÄ› ÄekÃ¡te? DoruÄte ji doktoru Johnsonovi do Reddingu! On uÅ¾ bude vÄ›dÄ›t, jak ji hornÃ­kÅ¯m podat.}
+{259}{}{JÃ¡ vÃ­m, to uÅ¾ jsem od vÃ¡s slyÅ¡el. VezmÄ›te ji do Reddingu a zkuste jim pomoci.}
+{260}{}{MÅ¯Å¾u se vÃ¡s jeÅ¡tÄ› na nÄ›co zeptat, neÅ¾ vyrazÃ­m na cestu?}
 {261}{}{Fajn, sbohem.}
-{262}{}{Dìkuji vám! Teï u musíme jen èekat. Doufejme, e to vyøeší náš problém. Dìkuji vám ještì jednou za všechnu pomoc.}
-{263}{}{Není zaè. Bylo mi potìšením vám pomoct.}
-{264}{}{ádnı problém. Mùu se vás ještì na nìco zeptat?}
-{265}{}{Tak moment... copak nedostanu ádnou odmìnu za snahu?}
-{266}{}{Jestli vám jde o peníze, tak je tedy dostanete. Tady máte 500 dolarù za snahu. Pøeji hezkı den.}
-{267}{}{DÌKUJU.}
-{268}{}{Pìt s...? Radím vám, abyste toho vyklopil víc a to rychle, jinak váš ivot nebude mít cenu ani 2 dolary.}
-{269}{}{Co tím myslíš?}
-{270}{}{Pokud získám hydroelektrickı regulátor magnetosféry, mùu zaøídit, aby jejich elektrárna bìela èistìji.}
-{271}{}{Ale nic. Promiòte, e ruším.}
-{272}{}{To je pøijatelné øešení. Zastavení kontaminace je to jediné, co mì zajímá.}
-{273}{}{Mám strach, e kdy opravím tu elektrárnu, tak mi Lynette odepøe Obèanství.}
-{274}{}{Skvìlé! Kde si mùu vyzvednout tu souèástku?}
+{262}{}{DÄ›kuji vÃ¡m! TeÄ uÅ¾ musÃ­me jen Äekat. Doufejme, Å¾e to vyÅ™eÅ¡Ã­ nÃ¡Å¡ problÃ©m. DÄ›kuji vÃ¡m jeÅ¡tÄ› jednou za vÅ¡echnu pomoc.}
+{263}{}{NenÃ­ zaÄ. Bylo mi potÄ›Å¡enÃ­m vÃ¡m pomoct.}
+{264}{}{Å½Ã¡dnÃ½ problÃ©m. MÅ¯Å¾u se vÃ¡s jeÅ¡tÄ› na nÄ›co zeptat?}
+{265}{}{Tak moment... copak nedostanu Å¾Ã¡dnou odmÄ›nu za snahu?}
+{266}{}{Jestli vÃ¡m jde o penÃ­ze, tak je tedy dostanete. Tady mÃ¡te 500 dolarÅ¯ za snahu. PÅ™eji hezkÃ½ den.}
+{267}{}{DÄšKUJU.}
+{268}{}{PÄ›t s...? RadÃ­m vÃ¡m, abyste toho vyklopil vÃ­c a to rychle, jinak vÃ¡Å¡ Å¾ivot nebude mÃ­t cenu ani 2 dolary.}
+{269}{}{Co tÃ­m myslÃ­Å¡?}
+{270}{}{Pokud zÃ­skÃ¡m hydroelektrickÃ½ regulÃ¡tor magnetosfÃ©ry, mÅ¯Å¾u zaÅ™Ã­dit, aby jejich elektrÃ¡rna bÄ›Å¾ela ÄistÄ›ji.}
+{271}{}{Ale nic. PromiÅˆte, Å¾e ruÅ¡Ã­m.}
+{272}{}{To je pÅ™ijatelnÃ© Å™eÅ¡enÃ­. ZastavenÃ­ kontaminace je to jedinÃ©, co mÄ› zajÃ­mÃ¡.}
+{273}{}{MÃ¡m strach, Å¾e kdyÅ¾ opravÃ­m tu elektrÃ¡rnu, tak mi Lynette odepÅ™e ObÄanstvÃ­.}
+{274}{}{SkvÄ›lÃ©! Kde si mÅ¯Å¾u vyzvednout tu souÄÃ¡stku?}
 {275}{}{Budu na to myslet.}
-{276}{}{Pokud opravíte elektrárnu, udìlím vám Obèanství a ona s tím vùbec nic neudìlá.}
-{277}{}{Vıbornì! Kde si mùu vyzvednout tu souèástku?}
-{278}{}{Navštivte Randala, šéfa Obchodního centra. Mìl by mít tu souèástku na skladì.}
-{279}{}{Díky. Hned jdu za ním.}
-{280}{}{Je tu ještì jedna vìc. Moná vás bude zajímat tenhle holodisk s ekonomickımi údaji.}
-{281}{}{Vıbornì! Dìlal jsem si starosti, e nás stále sílící radiace donutí opustit toto místo. Chválím vás za dobøe odvedenou práci.}
-{282}{}{Vault City vdy zvítìzí, Obèane.}
-{283}{}{Vault City vdy zvítìzí, Kapitáne.}
-{284}{}{Tady máte své doklady o Obèanství. Pokud budete cokoliv potøebovat, pøijïte za mnou.}
-{285}{}{Vault City vdy zvítìzí, radní.}
-{286}{}{Díky.}
-{287}{}{Ano, to jsem od vás u slyšel.}
-{288}{}{Vıbornì, Kapitáne.}
-{289}{}{Vıbornì, Obèane.}
-{290}{}{Vıbornì.}
-{291}{}{Chci se ještì zeptat...}
-{292}{}{Díky.}
-{293}{}{Promiòte... holodisk s ekonomickımi údaji? Co tím myslíte?}
-{294}{}{Tady, podívejte se na nìj.}
-{295}{}{Je to holodisk s ekonomickımi údaji obsahující data o mnoství energie, které atomová elektrárna v Gecku produkovala pøed válkou... a mohla by produkovat znovu.}
-{296}{}{Zapomeòte na to. Chci se ještì na nìco zeptat.}
-{297}{}{No nic. Promiò, e ruším.}
-{298}{}{Vıbornì. Malı moment...}
-{299}{}{Tak dobøe.}
-{300}{}{Hmmm. Odkud máte ten holodisk?}
-{301}{}{Já... podaøilo se mi ho najít.}
-{302}{}{Byl zapadlı v archívech knihovny Vault City.}
-{303}{}{Mám ho od nìkoho v Gecku.}
-{304}{}{Dal mi ho ghoul v Gecku. Jmenuje se Gordon Gecko. Zajímá se o optimalizaci vıkonu elektrárny a následném sdílení energie s Vault City... vımìnou za vaši lékaøskou technologii.}
-{305}{}{Já... rozumím. Dobøe, ale co to má se mnou spoleèného?}
-{306}{}{No, jestli tomu dobøe rozumím, tak generátor elektøiny ve Vault City dokáe zásobovat jen urèitı poèet obyvatel. Ve skuteènosti se tento poèet u brzy naplní.}
-{307}{}{Nebudu se ptát, odkud máte tuto informaci, ale i kdyby byla pravdivá, co navrhujete?}
-{308}{}{Pokud by byla elektrárna v Gecku opravena, produkovala by dle tohoto holodisku dostatek energie i pro Vault City. Nejprve se ale musí optimalizovat vıkon samotného reaktoru.}
-{309}{}{Tento holodisk dokazuje, e by elektrárna v Gecku... pokud by byla optimalizována... mohla produkovat spoustu energie. Mnohem víc, ne Gecko potøebuje. Vault City by mohlo tuto energii vyuít.}
-{310}{}{Naznaèujete snad, abychom se ZMOCNILI Gecka a pøevzali jejich elektrárnu? To tedy NEBUDU poslou...}
-{311}{}{Ne, ne... pokud by Gecko dostalo optimalizaèní data pro svoji elektrárnu, tak se vsadím, e by byli ochotni vymìnit svoji nadbyteènou energii za vaši lékaøskou pomoc.}
-{312}{}{Hmmm. Co se tıèe lékaøské pomoci, tak mi není utrpení ghoulù lhostejné. Rozhodnì ji trpìli dost... ale jak mùeme optimalizovat jejich elektrárnu?}
-{313}{}{To nevím. Tøeba si o tom budu moct s nìkım promluvit, a bude elektrárna opravena.}
-{314}{}{To nevím. Tøeba si o tom budu moct promluvit s nìkım v elektrárnì.}
-{315}{}{Potøebuju získat pøístup k poèítaèi Vault City. Ten dokáe optimalizovat holodisk reaktoru elektrárny a tím zvıšit jeho vıkon.}
-{316}{}{K vašemu návrhu nemám námitky. Pokud se vám podaøí zjistit, jak optimalizovat jejich elektrárnu, dejte mi vìdìt.}
-{317}{}{Dobøe. Jdu si k Randalovi pro tu souèástku a zkusím nejdøíve opravit ten reaktor.}
-{318}{}{Tak dobrá, Kapitáne.}
-{319}{}{Tak dobrá, Obèane.}
-{320}{}{Máte mé povolení pouít poèítaè Vaultu a optimalizovat tak holodisk reaktoru. Najdete ho poblí øídící místnosti ve tøetím podlaí Vaultu.}
-{321}{}{Vıbornì. Dìkuju vám, radní. Jdu na to.}
-{322}{}{Hotovo. Tady ho máte.}
-{323}{}{Vezmu si ten ekonomickı holodisk a podrobnì ho prostuduji... moná se mi podaøí pøesvìdèit radu, abychom zaèali jednat s Geckem o vımìnì jejich energie. Tento holodisk je sám o sobì velmi silnım argumentem.}
-{324}{}{Toho si váím. Díky.}
-{325}{}{Hmmm. Já vám sice nemohu povolit pøístup do Vaultu, ale mohu optimalizovat ten holodisk reaktoru za vás.}
-{326}{}{Tak dobøe, ale nemám ten holodisk u sebe. Vrátím se pro nìj.}
-{327}{}{To by bylo skvìlé.}
-{328}{}{Vıbornì!}
-{329}{}{Tak dobøe.}
-{330}{}{Dejte mi ten holodisk reaktoru a já ho nechám v centrálním poèítaèi Vault City optimalizovat.}
-{331}{}{Skvìle. Díky.}
+{276}{}{Pokud opravÃ­te elektrÃ¡rnu, udÄ›lÃ­m vÃ¡m ObÄanstvÃ­ a ona s tÃ­m vÅ¯bec nic neudÄ›lÃ¡.}
+{277}{}{VÃ½bornÄ›! Kde si mÅ¯Å¾u vyzvednout tu souÄÃ¡stku?}
+{278}{}{NavÅ¡tivte Randala, Å¡Ã©fa ObchodnÃ­ho centra. MÄ›l by mÃ­t tu souÄÃ¡stku na skladÄ›.}
+{279}{}{DÃ­ky. Hned jdu za nÃ­m.}
+{280}{}{Je tu jeÅ¡tÄ› jedna vÄ›c. MoÅ¾nÃ¡ vÃ¡s bude zajÃ­mat tenhle holodisk s ekonomickÃ½mi Ãºdaji.}
+{281}{}{VÃ½bornÄ›! DÄ›lal jsem si starosti, Å¾e nÃ¡s stÃ¡le sÃ­lÃ­cÃ­ radiace donutÃ­ opustit toto mÃ­sto. ChvÃ¡lÃ­m vÃ¡s za dobÅ™e odvedenou prÃ¡ci.}
+{282}{}{Vault City vÅ¾dy zvÃ­tÄ›zÃ­, ObÄane.}
+{283}{}{Vault City vÅ¾dy zvÃ­tÄ›zÃ­, KapitÃ¡ne.}
+{284}{}{Tady mÃ¡te svÃ© doklady o ObÄanstvÃ­. Pokud budete cokoliv potÅ™ebovat, pÅ™ijÄte za mnou.}
+{285}{}{Vault City vÅ¾dy zvÃ­tÄ›zÃ­, radnÃ­.}
+{286}{}{DÃ­ky.}
+{287}{}{Ano, to jsem od vÃ¡s uÅ¾ slyÅ¡el.}
+{288}{}{VÃ½bornÄ›, KapitÃ¡ne.}
+{289}{}{VÃ½bornÄ›, ObÄane.}
+{290}{}{VÃ½bornÄ›.}
+{291}{}{Chci se jeÅ¡tÄ› zeptat...}
+{292}{}{DÃ­ky.}
+{293}{}{PromiÅˆte... holodisk s ekonomickÃ½mi Ãºdaji? Co tÃ­m myslÃ­te?}
+{294}{}{Tady, podÃ­vejte se na nÄ›j.}
+{295}{}{Je to holodisk s ekonomickÃ½mi Ãºdaji obsahujÃ­cÃ­ data o mnoÅ¾stvÃ­ energie, kterÃ© atomovÃ¡ elektrÃ¡rna v Gecku produkovala pÅ™ed vÃ¡lkou... a mohla by produkovat znovu.}
+{296}{}{ZapomeÅˆte na to. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{297}{}{No nic. PromiÅˆ, Å¾e ruÅ¡Ã­m.}
+{298}{}{VÃ½bornÄ›. MalÃ½ moment...}
+{299}{}{Tak dobÅ™e.}
+{300}{}{Hmmm. Odkud mÃ¡te ten holodisk?}
+{301}{}{JÃ¡... podaÅ™ilo se mi ho najÃ­t.}
+{302}{}{Byl zapadlÃ½ v archÃ­vech knihovny Vault City.}
+{303}{}{MÃ¡m ho od nÄ›koho v Gecku.}
+{304}{}{Dal mi ho ghoul v Gecku. Jmenuje se Gordon Gecko. ZajÃ­mÃ¡ se o optimalizaci vÃ½konu elektrÃ¡rny a nÃ¡slednÃ©m sdÃ­lenÃ­ energie s Vault City... vÃ½mÄ›nou za vaÅ¡i lÃ©kaÅ™skou technologii.}
+{305}{}{JÃ¡... rozumÃ­m. DobÅ™e, ale co to mÃ¡ se mnou spoleÄnÃ©ho?}
+{306}{}{No, jestli tomu dobÅ™e rozumÃ­m, tak generÃ¡tor elektÅ™iny ve Vault City dokÃ¡Å¾e zÃ¡sobovat jen urÄitÃ½ poÄet obyvatel. Ve skuteÄnosti se tento poÄet uÅ¾ brzy naplnÃ­.}
+{307}{}{Nebudu se ptÃ¡t, odkud mÃ¡te tuto informaci, ale i kdyby byla pravdivÃ¡, co navrhujete?}
+{308}{}{Pokud by byla elektrÃ¡rna v Gecku opravena, produkovala by dle tohoto holodisku dostatek energie i pro Vault City. Nejprve se ale musÃ­ optimalizovat vÃ½kon samotnÃ©ho reaktoru.}
+{309}{}{Tento holodisk dokazuje, Å¾e by elektrÃ¡rna v Gecku... pokud by byla optimalizovÃ¡na... mohla produkovat spoustu energie. Mnohem vÃ­c, neÅ¾ Gecko potÅ™ebuje. Vault City by mohlo tuto energii vyuÅ¾Ã­t.}
+{310}{}{NaznaÄujete snad, abychom se ZMOCNILI Gecka a pÅ™evzali jejich elektrÃ¡rnu? To tedy NEBUDU poslou...}
+{311}{}{Ne, ne... pokud by Gecko dostalo optimalizaÄnÃ­ data pro svoji elektrÃ¡rnu, tak se vsadÃ­m, Å¾e by byli ochotni vymÄ›nit svoji nadbyteÄnou energii za vaÅ¡i lÃ©kaÅ™skou pomoc.}
+{312}{}{Hmmm. Co se tÃ½Äe lÃ©kaÅ™skÃ© pomoci, tak mi nenÃ­ utrpenÃ­ ghoulÅ¯ lhostejnÃ©. RozhodnÄ› jiÅ¾ trpÄ›li dost... ale jak mÅ¯Å¾eme optimalizovat jejich elektrÃ¡rnu?}
+{313}{}{To nevÃ­m. TÅ™eba si o tom budu moct s nÄ›kÃ½m promluvit, aÅ¾ bude elektrÃ¡rna opravena.}
+{314}{}{To nevÃ­m. TÅ™eba si o tom budu moct promluvit s nÄ›kÃ½m v elektrÃ¡rnÄ›.}
+{315}{}{PotÅ™ebuju zÃ­skat pÅ™Ã­stup k poÄÃ­taÄi Vault City. Ten dokÃ¡Å¾e optimalizovat holodisk reaktoru elektrÃ¡rny a tÃ­m zvÃ½Å¡it jeho vÃ½kon.}
+{316}{}{K vaÅ¡emu nÃ¡vrhu nemÃ¡m nÃ¡mitky. Pokud se vÃ¡m podaÅ™Ã­ zjistit, jak optimalizovat jejich elektrÃ¡rnu, dejte mi vÄ›dÄ›t.}
+{317}{}{DobÅ™e. Jdu si k Randalovi pro tu souÄÃ¡stku a zkusÃ­m nejdÅ™Ã­ve opravit ten reaktor.}
+{318}{}{Tak dobrÃ¡, KapitÃ¡ne.}
+{319}{}{Tak dobrÃ¡, ObÄane.}
+{320}{}{MÃ¡te mÃ© povolenÃ­ pouÅ¾Ã­t poÄÃ­taÄ Vaultu a optimalizovat tak holodisk reaktoru. Najdete ho poblÃ­Å¾ Å™Ã­dÃ­cÃ­ mÃ­stnosti ve tÅ™etÃ­m podlaÅ¾Ã­ Vaultu.}
+{321}{}{VÃ½bornÄ›. DÄ›kuju vÃ¡m, radnÃ­. Jdu na to.}
+{322}{}{Hotovo. Tady ho mÃ¡te.}
+{323}{}{Vezmu si ten ekonomickÃ½ holodisk a podrobnÄ› ho prostuduji... moÅ¾nÃ¡ se mi podaÅ™Ã­ pÅ™esvÄ›dÄit radu, abychom zaÄali jednat s Geckem o vÃ½mÄ›nÄ› jejich energie. Tento holodisk je sÃ¡m o sobÄ› velmi silnÃ½m argumentem.}
+{324}{}{Toho si vÃ¡Å¾Ã­m. DÃ­ky.}
+{325}{}{Hmmm. JÃ¡ vÃ¡m sice nemohu povolit pÅ™Ã­stup do Vaultu, ale mohu optimalizovat ten holodisk reaktoru za vÃ¡s.}
+{326}{}{Tak dobÅ™e, ale nemÃ¡m ten holodisk u sebe. VrÃ¡tÃ­m se pro nÄ›j.}
+{327}{}{To by bylo skvÄ›lÃ©.}
+{328}{}{VÃ½bornÄ›!}
+{329}{}{Tak dobÅ™e.}
+{330}{}{Dejte mi ten holodisk reaktoru a jÃ¡ ho nechÃ¡m v centrÃ¡lnÃ­m poÄÃ­taÄi Vault City optimalizovat.}
+{331}{}{SkvÄ›le. DÃ­ky.}
 {332}{}{Co to je?}
-{333}{}{Mám u sebe holodisk reaktoru z Gecka. Podle... ehm, technikù z elektrárny, dokáe poèítaè Vault City optimalizovat holodisk reaktoru a tím tak zvıšit vıkon elektrárny.}
-{334}{}{Stráe! Stráe!}
+{333}{}{MÃ¡m u sebe holodisk reaktoru z Gecka. Podle... ehm, technikÅ¯ z elektrÃ¡rny, dokÃ¡Å¾e poÄÃ­taÄ Vault City optimalizovat holodisk reaktoru a tÃ­m tak zvÃ½Å¡it vÃ½kon elektrÃ¡rny.}
+{334}{}{StrÃ¡Å¾e! StrÃ¡Å¾e!}
 {335}{}{}
-{336}{}{Informuješ McClura o problému s návykovou drogou Jet v Reddingu.}
-{337}{}{Pøedáváš ekonomickı holodisk McClurovi.}
-{338}{}{Stále hledám zpùsob, jak optimalizovat elektrárnu.}
-{339}{}{Stále hledám zpùsob, jak optimalizovat elektrárnu.}
-{340}{}{Chtìl bych vám pomoct, ale bojím se, e mé znalosti reaktorù jsou ponìkud... omezené. Moná by nìkterı z technikù elektrárny v Gecku vìdìl, jak optimalizovat elektrárnu.}
-{341}{}{Moná. Mám ještì nìjaké otázky...}
-{342}{}{Moná ano. Jdu to zjistit.}
-{343}{}{Informuješ McClura o dodávce protilátky pro Jet.}
-{344}{}{Holodisk ukazuje, e teï, kdy je elektrárna plnì zprovoznìna a optimalizována, mùe produkovat obrovské mnoství energie. Daleko více, ne Gecko potøebuje. Vault City by mohlo tuto energii vyuít. Myslím, e by rada mìla zváit obsah tohoto holodisku.}
-{345}{}{Nevíte nìco o té nedaleké vesnici zamoøené krtèími potkany?}
-{346}{}{Vlastnì ano. Serant Stark mi nedávno nìco takového hlásil. Proè vás to zajímá?}
-{347}{}{Opravdu máte v úmyslu udìlat z tìch lidí své sluebníky?}
-{348}{}{Jen tak. Mùu se vás ještì na nìco zeptat?}
+{336}{}{InformujeÅ¡ McClura o problÃ©mu s nÃ¡vykovou drogou Jet v Reddingu.}
+{337}{}{PÅ™edÃ¡vÃ¡Å¡ ekonomickÃ½ holodisk McClurovi.}
+{338}{}{StÃ¡le hledÃ¡m zpÅ¯sob, jak optimalizovat elektrÃ¡rnu.}
+{339}{}{StÃ¡le hledÃ¡m zpÅ¯sob, jak optimalizovat elektrÃ¡rnu.}
+{340}{}{ChtÄ›l bych vÃ¡m pomoct, ale bojÃ­m se, Å¾e mÃ© znalosti reaktorÅ¯ jsou ponÄ›kud... omezenÃ©. MoÅ¾nÃ¡ by nÄ›kterÃ½ z technikÅ¯ elektrÃ¡rny v Gecku vÄ›dÄ›l, jak optimalizovat elektrÃ¡rnu.}
+{341}{}{MoÅ¾nÃ¡. MÃ¡m jeÅ¡tÄ› nÄ›jakÃ© otÃ¡zky...}
+{342}{}{MoÅ¾nÃ¡ ano. Jdu to zjistit.}
+{343}{}{InformujeÅ¡ McClura o dodÃ¡vce protilÃ¡tky pro Jet.}
+{344}{}{Holodisk ukazuje, Å¾e teÄ, kdyÅ¾ je elektrÃ¡rna plnÄ› zprovoznÄ›na a optimalizovÃ¡na, mÅ¯Å¾e produkovat obrovskÃ© mnoÅ¾stvÃ­ energie. Daleko vÃ­ce, neÅ¾ Gecko potÅ™ebuje. Vault City by mohlo tuto energii vyuÅ¾Ã­t. MyslÃ­m, Å¾e by rada mÄ›la zvÃ¡Å¾it obsah tohoto holodisku.}
+{345}{}{NevÃ­te nÄ›co o tÃ© nedalekÃ© vesnici zamoÅ™enÃ© krtÄÃ­mi potkany?}
+{346}{}{VlastnÄ› ano. SerÅ¾ant Stark mi nedÃ¡vno nÄ›co takovÃ©ho hlÃ¡sil. ProÄ vÃ¡s to zajÃ­mÃ¡?}
+{347}{}{Opravdu mÃ¡te v Ãºmyslu udÄ›lat z tÄ›ch lidÃ­ svÃ© sluÅ¾ebnÃ­ky?}
+{348}{}{Jen tak. MÅ¯Å¾u se vÃ¡s jeÅ¡tÄ› na nÄ›co zeptat?}
 {349}{}{Jen tak. Nashle.}
-{350}{}{O nábor sluebníkù tu vùbec nejde. Jde o hrozbu, kterou tyto monstra pøedstavují pro Vault City. Hlášení Seranta Starka poukazuje na to, e vesnièané zøejmì koexistují s tìmi obrovskımi krysími pøíšerami. Pokud je to pravda, moná se jim povedlo najít zpùsob, jak je ovládat a moná TO je pøesnì dùvod, proè tyto pøíšery zaèaly napadat naše hlídky. Serant Stark se chystá tyto škùdce vyhubit a má moji plnou podporu.}
-{351}{}{Ujišuju vás, e vesnièané ty krtèí potkany neovládají. Vlastnì mám pro vás návrh: Postarám se o ten problém s krtèími potkany a na oplátku chci, abyste slíbil, e Vault City nechá vesnièany na pokoji.}
-{352}{}{Zajímavı návrh, ale jak se vlastnì chcete vypoøádat se všemi tìmi krtèími pøíšerami?}
-{353}{}{Myslím, e vím, kdo je *ovládá*.}
-{354}{}{To nevím, ale na nìco u pøijdu. Vdycky na nìco pøijdu.}
-{355}{}{Opravdu? Tak dobøe, budu vám vìøit. Odloíme nájezd o mìsíc.}
-{356}{}{Jste dobrı èlovìk, McClure. Nebudete toho litovat. Vrátím se, a bude ten problém vyøešenı.}
-{357}{}{Úasné, krtèí potkani najednou z nièeho nic pøestali útoèit na naše hlídky. Nevím, jak se vám to podaøilo, ale dìkuji vám. A také dodrím svoji èást dohody. Naøídím Starkovi, aby okamitì zrušil nájezd. Dokud nebudou ti vesnièané pøedstavovat ádnou hrozbu pro Vault City, nebudou se nás muset vùbec obávat. Na to osobnì dohlédnu.}
-{358}{}{Dìkuju vám!}
-{359}{}{Podaøilo se ti vyøešit problém s vesnicí.}
-{360}{}{To je velice zajímavé.}
-{370}{}{Tak dobøe. No, u vám nebudu pøekáet.}
+{350}{}{O nÃ¡bor sluÅ¾ebnÃ­kÅ¯ tu vÅ¯bec nejde. Jde o hrozbu, kterou tyto monstra pÅ™edstavujÃ­ pro Vault City. HlÃ¡Å¡enÃ­ SerÅ¾anta Starka poukazuje na to, Å¾e vesniÄanÃ© zÅ™ejmÄ› koexistujÃ­ s tÄ›mi obrovskÃ½mi krysÃ­mi pÅ™Ã­Å¡erami. Pokud je to pravda, moÅ¾nÃ¡ se jim povedlo najÃ­t zpÅ¯sob, jak je ovlÃ¡dat a moÅ¾nÃ¡ TO je pÅ™esnÄ› dÅ¯vod, proÄ tyto pÅ™Ã­Å¡ery zaÄaly napadat naÅ¡e hlÃ­dky. SerÅ¾ant Stark se chystÃ¡ tyto Å¡kÅ¯dce vyhubit a mÃ¡ moji plnou podporu.}
+{351}{}{UjiÅ¡Å¥uju vÃ¡s, Å¾e vesniÄanÃ© ty krtÄÃ­ potkany neovlÃ¡dajÃ­. VlastnÄ› mÃ¡m pro vÃ¡s nÃ¡vrh: PostarÃ¡m se o ten problÃ©m s krtÄÃ­mi potkany a na oplÃ¡tku chci, abyste slÃ­bil, Å¾e Vault City nechÃ¡ vesniÄany na pokoji.}
+{352}{}{ZajÃ­mavÃ½ nÃ¡vrh, ale jak se vlastnÄ› chcete vypoÅ™Ã¡dat se vÅ¡emi tÄ›mi krtÄÃ­mi pÅ™Ã­Å¡erami?}
+{353}{}{MyslÃ­m, Å¾e vÃ­m, kdo je *ovlÃ¡dÃ¡*.}
+{354}{}{To nevÃ­m, ale na nÄ›co uÅ¾ pÅ™ijdu. VÅ¾dycky na nÄ›co pÅ™ijdu.}
+{355}{}{Opravdu? Tak dobÅ™e, budu vÃ¡m vÄ›Å™it. OdloÅ¾Ã­me nÃ¡jezd o mÄ›sÃ­c.}
+{356}{}{Jste dobrÃ½ ÄlovÄ›k, McClure. Nebudete toho litovat. VrÃ¡tÃ­m se, aÅ¾ bude ten problÃ©m vyÅ™eÅ¡enÃ½.}
+{357}{}{ÃšÅ¾asnÃ©, krtÄÃ­ potkani najednou z niÄeho nic pÅ™estali ÃºtoÄit na naÅ¡e hlÃ­dky. NevÃ­m, jak se vÃ¡m to podaÅ™ilo, ale dÄ›kuji vÃ¡m. A takÃ© dodrÅ¾Ã­m svoji ÄÃ¡st dohody. NaÅ™Ã­dÃ­m Starkovi, aby okamÅ¾itÄ› zruÅ¡il nÃ¡jezd. Dokud nebudou ti vesniÄanÃ© pÅ™edstavovat Å¾Ã¡dnou hrozbu pro Vault City, nebudou se nÃ¡s muset vÅ¯bec obÃ¡vat. Na to osobnÄ› dohlÃ©dnu.}
+{358}{}{DÄ›kuju vÃ¡m!}
+{359}{}{PodaÅ™ilo se ti vyÅ™eÅ¡it problÃ©m s vesnicÃ­.}
+{360}{}{To je velice zajÃ­mavÃ©.}
+{370}{}{Tak dobÅ™e. No, uÅ¾ vÃ¡m nebudu pÅ™ekÃ¡Å¾et.}

@@ -1,120 +1,120 @@
-{100}{}{Vidíš vychrtlého starého mue s tukou za uchem a brılemi na špièce nosu.}
-{101}{}{Vidíš Vortise, majitele této ohrady pro otroky.}
-{102}{}{Má asi tak tøi zuby. Jeho prsty a košile jsou potøísnìné modrım inkoustem. Na èele se mu tkví hodnì zašlé otrokáøské tetování.}
-{103}{}{Take, co tu chceš?}
-{104}{}{Vítej ve Vortisovì sídle, bratøe. Jak ti mùu pomoct?}
-{105}{}{Zaèínáš mi jít na nervy.}
-{106}{}{Tohle místo je moje a já, Vortis, tu vedu poèestnej a zákonem schválenej podnik, bez ohledu na to, co ti o tom nìkdo v NCR navykládal. Jeliko není uvnitø NCR otrokáøství dovoleno, starám se tu o otroky lidem, kteøí maj nìco na práci ve mìstì.}
-{107}{}{Pomalu chápeš nebo co? Tohle je ohrada pro otroky. Mám na to povolení.}
+{100}{}{VidÃ­Å¡ vychrtlÃ©ho starÃ©ho muÅ¾e s tuÅ¾kou za uchem a brÃ½lemi na Å¡piÄce nosu.}
+{101}{}{VidÃ­Å¡ Vortise, majitele tÃ©to ohrady pro otroky.}
+{102}{}{MÃ¡ asi tak tÅ™i zuby. Jeho prsty a koÅ¡ile jsou potÅ™Ã­snÄ›nÃ© modrÃ½m inkoustem. Na Äele se mu tkvÃ­ hodnÄ› zaÅ¡lÃ© otrokÃ¡Å™skÃ© tetovÃ¡nÃ­.}
+{103}{}{TakÅ¾e, co tu chceÅ¡?}
+{104}{}{VÃ­tej ve VortisovÄ› sÃ­dle, bratÅ™e. Jak ti mÅ¯Å¾u pomoct?}
+{105}{}{ZaÄÃ­nÃ¡Å¡ mi jÃ­t na nervy.}
+{106}{}{Tohle mÃ­sto je moje a jÃ¡, Vortis, tu vedu poÄestnej a zÃ¡konem schvÃ¡lenej podnik, bez ohledu na to, co ti o tom nÄ›kdo v NCR navyklÃ¡dal. JelikoÅ¾ nenÃ­ uvnitÅ™ NCR otrokÃ¡Å™stvÃ­ dovoleno, starÃ¡m se tu o otroky lidem, kteÅ™Ã­ maj nÄ›co na prÃ¡ci ve mÄ›stÄ›.}
+{107}{}{Pomalu chÃ¡peÅ¡ nebo co? Tohle je ohrada pro otroky. MÃ¡m na to povolenÃ­.}
 {108}{}{}
-{109}{}{Mám jen nìjaké otázky.}
-{110}{}{Hledám práci.}
+{109}{}{MÃ¡m jen nÄ›jakÃ© otÃ¡zky.}
+{110}{}{HledÃ¡m prÃ¡ci.}
 {111}{}{Eh?}
-{112}{}{Toto ne kadibudka? Já jít pryè.}
-{113}{}{Co je tohle za místo?}
-{114}{}{Nic. Špatné místo.}
-{115}{}{A to se podívejme... pøišel se k nám podívat nìjakej dobrodinec. Hoši, vyprovoïte tohohle pokryteckıho svatouška pryè z mıho dohledu!}
+{112}{}{Toto ne kadibudka? JÃ¡ jÃ­t pryÄ.}
+{113}{}{Co je tohle za mÃ­sto?}
+{114}{}{Nic. Å patnÃ© mÃ­sto.}
+{115}{}{A to se podÃ­vejme... pÅ™iÅ¡el se k nÃ¡m podÃ­vat nÄ›jakej dobrodinec. HoÅ¡i, vyprovoÄte tohohle pokryteckÃ½ho svatouÅ¡ka pryÄ z mÃ½ho dohledu!}
 {116}{}{Do hajzlu.}
 {117}{}{Ano?}
-{118}{}{Hledám Vault 13.}
-{119}{}{Nemáš GECK?}
-{120}{}{Mùeš mi nìco povìdìt o tomhle mìstì?}
-{121}{}{Ty otrokáøskej sviòáku! Øekni mi jedinej dùvod, proè tì nemám hned oddìlat?}
-{122}{}{Povídá se tu o nìjakıch chlápcích... New Californští Rangeøi. Nemáš s nimi nìjaké potíe?}
-{123}{}{Nebude ti vadit, kdy se tu trochu porozhlédnu?}
-{124}{}{Práci? Mno... nìco by se moná našlo. Øíkají ti nìco "New Californští Rangeøi"?}
+{118}{}{HledÃ¡m Vault 13.}
+{119}{}{NemÃ¡Å¡ GECK?}
+{120}{}{MÅ¯Å¾eÅ¡ mi nÄ›co povÄ›dÄ›t o tomhle mÄ›stÄ›?}
+{121}{}{Ty otrokÃ¡Å™skej sviÅˆÃ¡ku! Å˜ekni mi jedinej dÅ¯vod, proÄ tÄ› nemÃ¡m hned oddÄ›lat?}
+{122}{}{PovÃ­dÃ¡ se tu o nÄ›jakÃ½ch chlÃ¡pcÃ­ch... New CalifornÅ¡tÃ­ RangeÅ™i. NemÃ¡Å¡ s nimi nÄ›jakÃ© potÃ­Å¾e?}
+{123}{}{Nebude ti vadit, kdyÅ¾ se tu trochu porozhlÃ©dnu?}
+{124}{}{PrÃ¡ci? Mno... nÄ›co by se moÅ¾nÃ¡ naÅ¡lo. Å˜Ã­kajÃ­ ti nÄ›co "New CalifornÅ¡tÃ­ RangeÅ™i"?}
 {125}{}{Ano.}
 {126}{}{Ne.}
-{127}{}{Jdi do prdele. Hoši, vyprovoïte odsud toho otrapu.}
+{127}{}{Jdi do prdele. HoÅ¡i, vyprovoÄte odsud toho otrapu.}
 {128}{}{Polib mi!}
-{129}{}{Vault 13! Neblázni. To zatracenı místo je vımysl. Vault 13 neexistuje.}
-{130}{}{Další otázka...}
-{131}{}{No, tak díky za nic.}
-{132}{}{Coe? No, a u je to cokoliv, tak já to nemám.}
-{133}{}{Další otázka...}
-{134}{}{No, tak díky za nic.}
-{135}{}{New California Republic... nic ne ukáznìní lidi a obchodníci. Vlezlo jim nìjak na mozek otrokáøství a otroci, ale to je fuk, aspoò mám kšeft.}
-{136}{}{Další otázka...}
-{137}{}{Díky, u pùjdu.}
-{138}{}{Máš špatnı informace. S nikım potíe nemám... a u vùbec ne s Rangery. Všechno mám legální, take na mì nemùeš.}
-{139}{}{Další otázka...}
-{140}{}{Jak myslíš. U pùjdu.}
-{141}{}{Jo, moná mám nìjakı potíe s Rangery. Hledáš práci?}
+{129}{}{Vault 13! NeblÃ¡zni. To zatracenÃ½ mÃ­sto je vÃ½mysl. Vault 13 neexistuje.}
+{130}{}{DalÅ¡Ã­ otÃ¡zka...}
+{131}{}{No, tak dÃ­ky za nic.}
+{132}{}{CoÅ¾e? No, aÅ¥ uÅ¾ je to cokoliv, tak jÃ¡ to nemÃ¡m.}
+{133}{}{DalÅ¡Ã­ otÃ¡zka...}
+{134}{}{No, tak dÃ­ky za nic.}
+{135}{}{New California Republic... nic neÅ¾ ukÃ¡znÄ›nÃ­ lidi a obchodnÃ­ci. Vlezlo jim nÄ›jak na mozek otrokÃ¡Å™stvÃ­ a otroci, ale to je fuk, aspoÅˆ mÃ¡m kÅ¡eft.}
+{136}{}{DalÅ¡Ã­ otÃ¡zka...}
+{137}{}{DÃ­ky, uÅ¾ pÅ¯jdu.}
+{138}{}{MÃ¡Å¡ Å¡patnÃ½ informace. S nikÃ½m potÃ­Å¾e nemÃ¡m... a uÅ¾ vÅ¯bec ne s Rangery. VÅ¡echno mÃ¡m legÃ¡lnÃ­, takÅ¾e na mÄ› nemÅ¯Å¾eÅ¡.}
+{139}{}{DalÅ¡Ã­ otÃ¡zka...}
+{140}{}{Jak myslÃ­Å¡. UÅ¾ pÅ¯jdu.}
+{141}{}{Jo, moÅ¾nÃ¡ mÃ¡m nÄ›jakÃ½ potÃ­Å¾e s Rangery. HledÃ¡Å¡ prÃ¡ci?}
 {142}{}{Ano.}
 {143}{}{Ne.}
-{144}{}{Ne, nebudeš tady èmuchat kolem, ty demente! Tady nejseš v muzeu!}
-{145}{}{Další otázka...}
-{146}{}{Moc se uráíš. Radìji pùjdu.}
-{147}{}{Víš, nìkteøí lidi v nich vidí potenciální problém. Hroznì by nám pomohlo, kdybysme mìli mapu jejich úkrytù smìrem na sever - New Reno, Klamath a tak dále. Jsem ochotnej ti za tu mapu dát øeknìme $500. Co ty na to? Seeneš mi ji?}
-{148}{}{Jasnì.}
+{144}{}{Ne, nebudeÅ¡ tady Ämuchat kolem, ty demente! Tady nejseÅ¡ v muzeu!}
+{145}{}{DalÅ¡Ã­ otÃ¡zka...}
+{146}{}{Moc se urÃ¡Å¾Ã­Å¡. RadÄ›ji pÅ¯jdu.}
+{147}{}{VÃ­Å¡, nÄ›kteÅ™Ã­ lidi v nich vidÃ­ potenciÃ¡lnÃ­ problÃ©m. HroznÄ› by nÃ¡m pomohlo, kdybysme mÄ›li mapu jejich ÃºkrytÅ¯ smÄ›rem na sever - New Reno, Klamath a tak dÃ¡le. Jsem ochotnej ti za tu mapu dÃ¡t Å™eknÄ›me $500. Co ty na to? SeÅ¾eneÅ¡ mi ji?}
+{148}{}{JasnÄ›.}
 {149}{}{Ne-e!}
-{150}{}{Tak já ti to teda povím. Tihle Rangeøi si usmysleli, e kompletnì vyhladí otrokáøství a otroky... násilím. Zpùsobujou tak tìce pracujícím lidem hodnì problémù.}
-{151}{}{Pracují v tajnosti, obzvláš na severu.}
-{152}{}{Jeíš, musím ti to snad hláskovat? Pøepadnou otrokáøe, vyenou otroky a propašují je dolù na jih do NCR, kde je otroctví zakázanı. Máš teda zájem?}
-{153}{}{Není ádné "a"! Chceš tu práci nebo ne?}
+{150}{}{Tak jÃ¡ ti to teda povÃ­m. Tihle RangeÅ™i si usmysleli, Å¾e kompletnÄ› vyhladÃ­ otrokÃ¡Å™stvÃ­ a otroky... nÃ¡silÃ­m. ZpÅ¯sobujou tak tÄ›Å¾ce pracujÃ­cÃ­m lidem hodnÄ› problÃ©mÅ¯.}
+{151}{}{PracujÃ­ v tajnosti, obzvlÃ¡Å¡Å¥ na severu.}
+{152}{}{JeÅ¾Ã­Å¡, musÃ­m ti to snad hlÃ¡skovat? PÅ™epadnou otrokÃ¡Å™e, vyÅ¾enou otroky a propaÅ¡ujÃ­ je dolÅ¯ na jih do NCR, kde je otroctvÃ­ zakÃ¡zanÃ½. MÃ¡Å¡ teda zÃ¡jem?}
+{153}{}{NenÃ­ Å¾Ã¡dnÃ© "a"! ChceÅ¡ tu prÃ¡ci nebo ne?}
 {154}{}{A?}
-{155}{}{A co mám pøesnì udìlat?}
-{156}{}{Fajn. Seeò mi tu mapu, budu tady.}
-{157}{}{Kde se ta mapa nachází?}
-{158}{}{Dobøe, ale mám ještì nìjaké otázky.}
-{159}{}{Jdu na to. Uvidíme se pozdìji.}
-{160}{}{Jak to mám sakra vìdìt!? Kdybych to vìdìl, tak u ji dávno mám, nemyslíš? Hele, ve mìstì by mìlo bejt vìzení. Najdi ho a tøeba tì to nìkam zavede.}
-{161}{}{Ještì pár otázek.}
-{162}{}{Dobøe. Vrátím se.}
-{163}{}{Á, vítej zpátky. Máš tu mapu?}
+{155}{}{A co mÃ¡m pÅ™esnÄ› udÄ›lat?}
+{156}{}{Fajn. SeÅ¾eÅˆ mi tu mapu, budu tady.}
+{157}{}{Kde se ta mapa nachÃ¡zÃ­?}
+{158}{}{DobÅ™e, ale mÃ¡m jeÅ¡tÄ› nÄ›jakÃ© otÃ¡zky.}
+{159}{}{Jdu na to. UvidÃ­me se pozdÄ›ji.}
+{160}{}{Jak to mÃ¡m sakra vÄ›dÄ›t!? Kdybych to vÄ›dÄ›l, tak uÅ¾ ji dÃ¡vno mÃ¡m, nemyslÃ­Å¡? Hele, ve mÄ›stÄ› by mÄ›lo bejt vÄ›zenÃ­. Najdi ho a tÅ™eba tÄ› to nÄ›kam zavede.}
+{161}{}{JeÅ¡tÄ› pÃ¡r otÃ¡zek.}
+{162}{}{DobÅ™e. VrÃ¡tÃ­m se.}
+{163}{}{Ã, vÃ­tej zpÃ¡tky. MÃ¡Å¡ tu mapu?}
 {164}{}{Ano.}
 {165}{}{Ne.}
-{166}{}{Poøád èekám, a dodìláš svùj první úkol!}
-{167}{}{No jó, já hlava dìravá.}
-{168}{}{Od tı doby, co máš za sebou tu práci, tak ne. Díky.}
-{169}{}{Jenom otázeèku nebo dvì.}
-{170}{}{ádnı problém. Nashle.}
-{171}{}{Dobrá práce. A teï se radši vypaø, ne to tìm Rangerùm dojde.}
-{172}{}{Rádo se stalo.}
-{173}{}{No tak tady jen tak nestùj, blbeèku! Ještì to bude nìkomu pøipadat podezøelı.}
-{174}{}{Jasnì, chápu.}
-{175}{}{Co to má kurva znamenat? Stráe! Máme tu vetøelce!}
-{176}{}{Ještì jeden krok a vystøelím ti mozek. Rozumíš?}
-{177}{}{Je pozdì, u máme zavøeno. Pøijï ráno.}
-{200}{}{Dobrá práce, ale je tu ještì jedna vìc. Ty jseš otrokáø, e jo? Nechceš mi pomoct a znièit pro mì ty úkryty? Zaplatím ti za to... øeknìme $1000.}
-{201}{}{Dobrá práce, ale je tu ještì jedna vìc. Vypadáš jako pìknej hajzl. Nechceš mi pomoct a znièit pro mì ty úkryty? Byla by za to i odmìna... øeknìme $1000.}
-{202}{}{Jasnì.}
-{203}{}{Nemám zájem.}
-{204}{}{Vıbornì. Uka, vyznaèím ti souøadnice na tı tvı mapovací vìcièce. Pak se ohlaš, a bude práce hotová.}
-{205}{}{Tvoje mínus. A teï se radši vypaø, ne to tìm Rangerùm dojde.}
-{206}{}{Tak dobøe. Nashle.}
-{207}{}{Poslyš, nemohl bys se mnou poslat nìkolik svıch muù? Šlo by to o hodnì rychleji a šance na úspìch by byla vyšší.}
-{210}{}{Vítej zpátky. U jsou ty úkryty Rangerù znièenı?}
-{211}{}{To si piš, e jsou. Byla to brnkaèka.}
-{212}{}{Ještì ne. Pracuju na tom.}
-{215}{}{Opravdu? Zatracenì, to je ta nejlepší zpráva, kterou jsem kdy slyšel. A teï se radši vypaø, protoe tì budou Rangeøi z mìsta urèitì hledat.}
-{216}{}{Jen a hledají... nebojím se. Díky za peníze.}
-{217}{}{Tak to radìji vypadnu z mìsta. Uvidíme se pozdìji.}
-{218}{}{Tak to vypadá, e a udìlám cokoliv, pokadé tím nìkoho poøádnì naseru. U mi to ani nepøijde divné. Nashle.}
-{220}{}{Tak to teda ne. Na tohle ádnı lidi shánìt nebudu. Kdy se na to sám necítíš, tak vypadni.}
-{221}{}{Neøíkám, e se na to necítím, jenom mì tak napadlo, e by si tvoji mui chtìli uít trochu srandy. Ale to je jedno, vyøídím to sám, to nebude problém. Ohlásím se, a to udìlám.}
-{222}{}{Fajn, tak v tom pøípadì se mnou nepoèítej, kreténe. Nebudu ti dìlat poskoka. Nashle.}
-{223}{}{Chceš øíct, e jsem srab? Nikdo ivej mi tak øíkat nebude!}
-{225}{}{No, tak dobøe. Myslím, e bych mohl sehnat pár chlapù, aby ti pomohli. Pøipojí se k tobì po cestì. Pøipraven zaèít?}
-{226}{}{Dej mi ještì chvíli. Vrátím se, a se pøipravím.}
-{227}{}{Pøipravenost je moje druhé jméno. Jdeme na to.}
-{228}{}{Vše pøipraveno. Mùeme jít.}
-{229}{}{Myslím, e na to kašlu. U mì to nezajímá. Nashle.}
-{230}{}{Pøipraven na pøepad, nebo jen plıtváš mım èasem?}
-{231}{}{Potøebuju víc èasu.}
-{232}{}{Vše pøipraveno. Mùeme jít.}
-{240}{}{Podaøilo se ti znièit úkryty Rangerù. To bude pro Rangery a jejich boj proti otrokáøùm velká rána.}
-{241}{}{Chci koupit nìjaké otroky.}
-{250}{}{No to je sice kurva hezkı, ale my je tady neprodáváme. Metzger na severu v Denu by ti s tím mohl pomoct.}
-{251}{}{Tam u jsem byl a jejich zboí nesplòovalo moje poadavky.}
-{252}{}{Nechápu, jak mi mùe Metzger pomoct, kdy zemøel mojí rukou. A myslím, e tebe taky zabiju.}
-{260}{}{No ty jseš mi ale vybíravej èùrák. Je ti jasnı, e se jeho zboí neomezuje jenom na Den? Má svoji vlastní ohradu, kde shromaïuje otroky.}
-{261}{}{Zajímavé. Jak se tam dostanu?}
-{270}{}{Co, ty si myslíš, e je všechno kurva zadarmo? $1000. Ber nebo nech bejt.}
-{271}{}{Co, ty si myslíš, e je všechno kurva zadarmo? A navíc z tebe smrdí poèestnost a to nemám rád. $2000. Ber nebo nech bejt.}
-{272}{}{Tak dobøe, tady máš.}
-{273}{}{Zapomeò na to.}
-{274}{}{Budu si dìlat co chci. A myslím, e tì teï zabiju.}
-{275}{}{Vrátím se a budu mít víc penìz.}
-{280}{}{(Ukáe ti na mapì, kde se nachází tábor otrokáøù.) Je to nìkde tady. S èím mì ještì budeš otravovat?}
-{281}{}{To u bude všechno. Nashle.}
+{166}{}{PoÅ™Ã¡d ÄekÃ¡m, aÅ¾ dodÄ›lÃ¡Å¡ svÅ¯j prvnÃ­ Ãºkol!}
+{167}{}{No jÃ³, jÃ¡ hlava dÄ›ravÃ¡.}
+{168}{}{Od tÃ½ doby, co mÃ¡Å¡ za sebou tu prÃ¡ci, tak ne. DÃ­ky.}
+{169}{}{Jenom otÃ¡zeÄku nebo dvÄ›.}
+{170}{}{Å½Ã¡dnÃ½ problÃ©m. Nashle.}
+{171}{}{DobrÃ¡ prÃ¡ce. A teÄ se radÅ¡i vypaÅ™, neÅ¾ to tÄ›m RangerÅ¯m dojde.}
+{172}{}{RÃ¡do se stalo.}
+{173}{}{No tak tady jen tak nestÅ¯j, blbeÄku! JeÅ¡tÄ› to bude nÄ›komu pÅ™ipadat podezÅ™elÃ½.}
+{174}{}{JasnÄ›, chÃ¡pu.}
+{175}{}{Co to mÃ¡ kurva znamenat? StrÃ¡Å¾e! MÃ¡me tu vetÅ™elce!}
+{176}{}{JeÅ¡tÄ› jeden krok a vystÅ™elÃ­m ti mozek. RozumÃ­Å¡?}
+{177}{}{Je pozdÄ›, uÅ¾ mÃ¡me zavÅ™eno. PÅ™ijÄ rÃ¡no.}
+{200}{}{DobrÃ¡ prÃ¡ce, ale je tu jeÅ¡tÄ› jedna vÄ›c. Ty jseÅ¡ otrokÃ¡Å™, Å¾e jo? NechceÅ¡ mi pomoct a zniÄit pro mÄ› ty Ãºkryty? ZaplatÃ­m ti za to... Å™eknÄ›me $1000.}
+{201}{}{DobrÃ¡ prÃ¡ce, ale je tu jeÅ¡tÄ› jedna vÄ›c. VypadÃ¡Å¡ jako pÄ›knej hajzl. NechceÅ¡ mi pomoct a zniÄit pro mÄ› ty Ãºkryty? Byla by za to i odmÄ›na... Å™eknÄ›me $1000.}
+{202}{}{JasnÄ›.}
+{203}{}{NemÃ¡m zÃ¡jem.}
+{204}{}{VÃ½bornÄ›. UkaÅ¾, vyznaÄÃ­m ti souÅ™adnice na tÃ½ tvÃ½ mapovacÃ­ vÄ›ciÄce. Pak se ohlaÅ¡, aÅ¾ bude prÃ¡ce hotovÃ¡.}
+{205}{}{Tvoje mÃ­nus. A teÄ se radÅ¡i vypaÅ™, neÅ¾ to tÄ›m RangerÅ¯m dojde.}
+{206}{}{Tak dobÅ™e. Nashle.}
+{207}{}{PoslyÅ¡, nemohl bys se mnou poslat nÄ›kolik svÃ½ch muÅ¾Å¯? Å lo by to o hodnÄ› rychleji a Å¡ance na ÃºspÄ›ch by byla vyÅ¡Å¡Ã­.}
+{210}{}{VÃ­tej zpÃ¡tky. UÅ¾ jsou ty Ãºkryty RangerÅ¯ zniÄenÃ½?}
+{211}{}{To si piÅ¡, Å¾e jsou. Byla to brnkaÄka.}
+{212}{}{JeÅ¡tÄ› ne. Pracuju na tom.}
+{215}{}{Opravdu? ZatracenÄ›, to je ta nejlepÅ¡Ã­ zprÃ¡va, kterou jsem kdy slyÅ¡el. A teÄ se radÅ¡i vypaÅ™, protoÅ¾e tÄ› budou RangeÅ™i z mÄ›sta urÄitÄ› hledat.}
+{216}{}{Jen aÅ¥ hledajÃ­... nebojÃ­m se. DÃ­ky za penÃ­ze.}
+{217}{}{Tak to radÄ›ji vypadnu z mÄ›sta. UvidÃ­me se pozdÄ›ji.}
+{218}{}{Tak to vypadÃ¡, Å¾e aÅ¥ udÄ›lÃ¡m cokoliv, pokaÅ¾dÃ© tÃ­m nÄ›koho poÅ™Ã¡dnÄ› naseru. UÅ¾ mi to ani nepÅ™ijde divnÃ©. Nashle.}
+{220}{}{Tak to teda ne. Na tohle Å¾Ã¡dnÃ½ lidi shÃ¡nÄ›t nebudu. KdyÅ¾ se na to sÃ¡m necÃ­tÃ­Å¡, tak vypadni.}
+{221}{}{NeÅ™Ã­kÃ¡m, Å¾e se na to necÃ­tÃ­m, jenom mÄ› tak napadlo, Å¾e by si tvoji muÅ¾i chtÄ›li uÅ¾Ã­t trochu srandy. Ale to je jedno, vyÅ™Ã­dÃ­m to sÃ¡m, to nebude problÃ©m. OhlÃ¡sÃ­m se, aÅ¾ to udÄ›lÃ¡m.}
+{222}{}{Fajn, tak v tom pÅ™Ã­padÄ› se mnou nepoÄÃ­tej, kretÃ©ne. Nebudu ti dÄ›lat poskoka. Nashle.}
+{223}{}{ChceÅ¡ Å™Ã­ct, Å¾e jsem srab? Nikdo Å¾ivej mi tak Å™Ã­kat nebude!}
+{225}{}{No, tak dobÅ™e. MyslÃ­m, Å¾e bych mohl sehnat pÃ¡r chlapÅ¯, aby ti pomohli. PÅ™ipojÃ­ se k tobÄ› po cestÄ›. PÅ™ipraven zaÄÃ­t?}
+{226}{}{Dej mi jeÅ¡tÄ› chvÃ­li. VrÃ¡tÃ­m se, aÅ¾ se pÅ™ipravÃ­m.}
+{227}{}{PÅ™ipravenost je moje druhÃ© jmÃ©no. Jdeme na to.}
+{228}{}{VÅ¡e pÅ™ipraveno. MÅ¯Å¾eme jÃ­t.}
+{229}{}{MyslÃ­m, Å¾e na to kaÅ¡lu. UÅ¾ mÄ› to nezajÃ­mÃ¡. Nashle.}
+{230}{}{PÅ™ipraven na pÅ™epad, nebo jen plÃ½tvÃ¡Å¡ mÃ½m Äasem?}
+{231}{}{PotÅ™ebuju vÃ­c Äasu.}
+{232}{}{VÅ¡e pÅ™ipraveno. MÅ¯Å¾eme jÃ­t.}
+{240}{}{PodaÅ™ilo se ti zniÄit Ãºkryty RangerÅ¯. To bude pro Rangery a jejich boj proti otrokÃ¡Å™Å¯m velkÃ¡ rÃ¡na.}
+{241}{}{Chci koupit nÄ›jakÃ© otroky.}
+{250}{}{No to je sice kurva hezkÃ½, ale my je tady neprodÃ¡vÃ¡me. Metzger na severu v Denu by ti s tÃ­m mohl pomoct.}
+{251}{}{Tam uÅ¾ jsem byl a jejich zboÅ¾Ã­ nesplÅˆovalo moje poÅ¾adavky.}
+{252}{}{NechÃ¡pu, jak mi mÅ¯Å¾e Metzger pomoct, kdyÅ¾ zemÅ™el mojÃ­ rukou. A myslÃ­m, Å¾e tebe taky zabiju.}
+{260}{}{No ty jseÅ¡ mi ale vybÃ­ravej ÄÅ¯rÃ¡k. Je ti jasnÃ½, Å¾e se jeho zboÅ¾Ã­ neomezuje jenom na Den? MÃ¡ svoji vlastnÃ­ ohradu, kde shromaÅ¾Äuje otroky.}
+{261}{}{ZajÃ­mavÃ©. Jak se tam dostanu?}
+{270}{}{Co, ty si myslÃ­Å¡, Å¾e je vÅ¡echno kurva zadarmo? $1000. Ber nebo nech bejt.}
+{271}{}{Co, ty si myslÃ­Å¡, Å¾e je vÅ¡echno kurva zadarmo? A navÃ­c z tebe smrdÃ­ poÄestnost a to nemÃ¡m rÃ¡d. $2000. Ber nebo nech bejt.}
+{272}{}{Tak dobÅ™e, tady mÃ¡Å¡.}
+{273}{}{ZapomeÅˆ na to.}
+{274}{}{Budu si dÄ›lat co chci. A myslÃ­m, Å¾e tÄ› teÄ zabiju.}
+{275}{}{VrÃ¡tÃ­m se aÅ¾ budu mÃ­t vÃ­c penÄ›z.}
+{280}{}{(UkÃ¡Å¾e ti na mapÄ›, kde se nachÃ¡zÃ­ tÃ¡bor otrokÃ¡Å™Å¯.) Je to nÄ›kde tady. S ÄÃ­m mÄ› jeÅ¡tÄ› budeÅ¡ otravovat?}
+{281}{}{To uÅ¾ bude vÅ¡echno. Nashle.}

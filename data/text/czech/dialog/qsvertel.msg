@@ -1,3 +1,3 @@
 {100}{}{Zvolte palubu.}
-{101}{}{Pøistávací plošina pro vertibirdy.}
-{102}{}{Vstupní hala.}
+{101}{}{PÅ™istÃ¡vacÃ­ ploÅ¡ina pro vertibirdy.}
+{102}{}{VstupnÃ­ hala.}

@@ -1,58 +1,58 @@
-{100}{}{Vidíš ustaraného èlovìka.}
-{101}{}{Vidíš Dana, ustaraného manela.}
-{102}{}{Vidíš dobøe obleèeného èlovìka, jeho oblièej jeví známky hysterie.}
-{103}{}{Kdo jsi? Co dìláš v mém domì?}
+{100}{}{VidÃ­Å¡ ustaranÃ©ho ÄlovÄ›ka.}
+{101}{}{VidÃ­Å¡ Dana, ustaranÃ©ho manÅ¾ela.}
+{102}{}{VidÃ­Å¡ dobÅ™e obleÄenÃ©ho ÄlovÄ›ka, jehoÅ¾ obliÄej jevÃ­ znÃ¡mky hysterie.}
+{103}{}{Kdo jsi? Co dÄ›lÃ¡Å¡ v mÃ©m domÄ›?}
 {104}{}{He. Ty vogo?}
 {105}{}{Jsem }
-{106}{}{Nikdo dùleitı.}
-{107}{}{Klídek, jen tì chci okrást.}
+{106}{}{Nikdo dÅ¯leÅ¾itÃ½.}
+{107}{}{KlÃ­dek, jen tÄ› chci okrÃ¡st.}
 {108}{}{Nic. Nikdo. Nashle.}
-{109}{}{Ne v mém domì prosím. Venku na ulici si chrápej a dìlej co chceš, jako všichni "zvláštní" lidi.}
+{109}{}{Ne v mÃ©m domÄ› prosÃ­m. Venku na ulici si chrÃ¡pej a dÄ›lej co chceÅ¡, jako vÅ¡ichni "zvlÃ¡Å¡tnÃ­" lidi.}
 {110}{}{Thppt!}
-{111}{}{Dobøe, dobøe. Teší mì, e tì vidím. (Vypadá nervóznì.) Poslyš, ty jsi dobrodrunı typ, e?}
+{111}{}{DobÅ™e, dobÅ™e. TeÅ¡Ã­ mÄ›, Å¾e tÄ› vidÃ­m. (VypadÃ¡ nervÃ³znÄ›.) PoslyÅ¡, ty jsi dobrodruÅ¾nÃ½ typ, Å¾e?}
 {112}{}{Ano.}
-{113}{}{Nepoznáváš Vyvoleného?}
+{113}{}{NepoznÃ¡vÃ¡Å¡ VyvolenÃ©ho?}
 {114}{}{Ne.}
 {115}{}{Co je ti do toho?}
-{116}{}{Ptám se proto, e mi nìkam zmizela moje ena. Nemùu ji najít. Odešla pøed nìkolika dny. Ptal jsem se u kdekoho, ale nikdo ji nevidìl. Pomùeš mi ji najít?}
-{117}{}{Co z toho budu mít?}
-{118}{}{Podívám se po ní. Jak vypadá?}
-{119}{}{Ne. Mám moc práce.}
-{120}{}{Mùu ti dát $500. To jsou všechny moje ivotní úspory.}
-{121}{}{To by šlo, podívám se ti po ní.}
+{116}{}{PtÃ¡m se proto, Å¾e mi nÄ›kam zmizela moje Å¾ena. NemÅ¯Å¾u ji najÃ­t. OdeÅ¡la pÅ™ed nÄ›kolika dny. Ptal jsem se uÅ¾ kdekoho, ale nikdo ji nevidÄ›l. PomÅ¯Å¾eÅ¡ mi ji najÃ­t?}
+{117}{}{Co z toho budu mÃ­t?}
+{118}{}{PodÃ­vÃ¡m se po nÃ­. Jak vypadÃ¡?}
+{119}{}{Ne. MÃ¡m moc prÃ¡ce.}
+{120}{}{MÅ¯Å¾u ti dÃ¡t $500. To jsou vÅ¡echny moje Å¾ivotnÃ­ Ãºspory.}
+{121}{}{To by Å¡lo, podÃ­vÃ¡m se ti po nÃ­.}
 {122}{}{Ne, opravdu to nejde.}
-{123}{}{Prosím, prosím... má ena je pro mì vším.}
-{124}{}{Jsi hluchı? Øekl jsem, e ne!}
-{125}{}{Dobøe, dobøe, pøestaò kòuèet.}
-{126}{}{Tady máš peníze. A teï prosím, PROSÍM... najdi mou enu a øekni mi, kde je. Moná ije s nìkım jinım, moná mì opustila... ale musím to vìdìt.}
-{127}{}{Dobøe, máš to mít. Jak vypadá?}
-{128}{}{ádnı problém. Udìlám, co budu moct.}
-{129}{}{::nìkolikrát neovladatalnì zavzlyká:: No dobøe, tak bì. A vìø, e jsi mi zlomil srdce.}
-{130}{}{Mìj se, nulo.}
-{131}{}{Je to blondınka, docela sexy a má fantastickı hlas... naposled jsem ji vidìl támhle. Nemá ráda mutanty a ghouly, take ji mezi nimi nehledej. Nikdo neví, kam šla. Prostì zmizela.}
-{132}{}{To mi bude jako popis staèit.}
-{133}{}{Tak co, nìjaké zprávy? Srdce mì stále bolí.}
-{134}{}{Promiò, kámo, pracuju na tom.}
-{135}{}{Vím, kde je.}
-{136}{}{Zatím nic, ale nevzdávám to.}
-{137}{}{Ach, moje srdce. Dej mi vìdìt, a ji najdeš.}
-{138}{}{Jasnì, spolehni se.}
-{139}{}{Vlastnì u v tom nemíním pokraèovat.}
-{140}{}{Ty víš, kde je? ::oèi mu zasvítí:: Kde?}
-{141}{}{Nebyla to kráska bez nohou?}
-{142}{}{V chodbách pod mìstem je spousta mrtvıch tìl. Byla mezi nimi. Je mi to líto.}
-{143}{}{Coe? Ne! Mìla krásné nohy!}
-{144}{}{Aha, dobøe. Tak teï u nemá krásné nohy. Byla surovì napadena a teï je BEZ nohou. Je doèista mrtvá a pøed smrtí dost trpìla.}
-{145}{}{Aha. No, myslím, e je v chodbách pod mìstem. Je mrtvá. Je mi to líto.}
-{146}{}{Díky za pomoc. Myslím, e se pùjdu vybreèet.}
-{147}{}{Tak bì, ty jelimane.}
-{148}{}{Promiò, kámo.}
-{149}{}{Nenávidím tì! Všichni tì nenávidí! Chcípni! ::vzlyká::}
-{150}{}{Našel jsem u tvé eny dopis. Vypadá to, e se podílela na tajném plánu tıkající se vyvradìní mutantù v Broken Hills.}
-{151}{}{Ach mùj boe! Já... nemùu uvìøit... e by... (Hluboce povzdechne.) Asi je to pravda. Nenávidìla všechny mutanty a ghouly, se kterımi se dostala do kontaktu. Nechápal jsem proè.}
-{152}{}{Jestli to tak bylo, pak bys mìl uváit, e to nemusí skonèit u tvé eny. Jestli do toho byla zapletená, proè ne i ty?}
-{153}{}{Chceš tím snad øíct, e mùj ivot je také v nebezpeèí? A sakra. To mì nenapadlo. V noci jsem pøed domem slyšel nìjaké divné zvuky. Asi šeptání a kroky.}
-{154}{}{Co takhle vzít nohy na ramena? A dej na sebe pozor. Hodnì štìstí.}
-{155}{}{Díky za pomoc. U tady nezùstanu ani minutu.}
-{156}{}{Dan byl informován o vradì své eny.}
+{123}{}{ProsÃ­m, prosÃ­m... mÃ¡ Å¾ena je pro mÄ› vÅ¡Ã­m.}
+{124}{}{Jsi hluchÃ½? Å˜ekl jsem, Å¾e ne!}
+{125}{}{DobÅ™e, dobÅ™e, pÅ™estaÅˆ kÅˆuÄet.}
+{126}{}{Tady mÃ¡Å¡ penÃ­ze. A teÄ prosÃ­m, PROSÃM... najdi mou Å¾enu a Å™ekni mi, kde je. MoÅ¾nÃ¡ Å¾ije s nÄ›kÃ½m jinÃ½m, moÅ¾nÃ¡ mÄ› opustila... ale musÃ­m to vÄ›dÄ›t.}
+{127}{}{DobÅ™e, mÃ¡Å¡ to mÃ­t. Jak vypadÃ¡?}
+{128}{}{Å½Ã¡dnÃ½ problÃ©m. UdÄ›lÃ¡m, co budu moct.}
+{129}{}{::nÄ›kolikrÃ¡t neovladatalnÄ› zavzlykÃ¡:: No dobÅ™e, tak bÄ›Å¾. A vÄ›Å™, Å¾e jsi mi zlomil srdce.}
+{130}{}{MÄ›j se, nulo.}
+{131}{}{Je to blondÃ½nka, docela sexy a mÃ¡ fantastickÃ½ hlas... naposled jsem ji vidÄ›l tÃ¡mhle. NemÃ¡ rÃ¡da mutanty a ghouly, takÅ¾e ji mezi nimi nehledej. Nikdo nevÃ­, kam Å¡la. ProstÄ› zmizela.}
+{132}{}{To mi bude jako popis staÄit.}
+{133}{}{Tak co, nÄ›jakÃ© zprÃ¡vy? Srdce mÄ› stÃ¡le bolÃ­.}
+{134}{}{PromiÅˆ, kÃ¡mo, pracuju na tom.}
+{135}{}{VÃ­m, kde je.}
+{136}{}{ZatÃ­m nic, ale nevzdÃ¡vÃ¡m to.}
+{137}{}{Ach, moje srdce. Dej mi vÄ›dÄ›t, aÅ¾ ji najdeÅ¡.}
+{138}{}{JasnÄ›, spolehni se.}
+{139}{}{VlastnÄ› uÅ¾ v tom nemÃ­nÃ­m pokraÄovat.}
+{140}{}{Ty vÃ­Å¡, kde je? ::oÄi mu zasvÃ­tÃ­:: Kde?}
+{141}{}{Nebyla to krÃ¡ska bez nohou?}
+{142}{}{V chodbÃ¡ch pod mÄ›stem je spousta mrtvÃ½ch tÄ›l. Byla mezi nimi. Je mi to lÃ­to.}
+{143}{}{CoÅ¾e? Ne! MÄ›la krÃ¡snÃ© nohy!}
+{144}{}{Aha, dobÅ™e. Tak teÄ uÅ¾ nemÃ¡ krÃ¡snÃ© nohy. Byla surovÄ› napadena a teÄ je BEZ nohou. Je doÄista mrtvÃ¡ a pÅ™ed smrtÃ­ dost trpÄ›la.}
+{145}{}{Aha. No, myslÃ­m, Å¾e je v chodbÃ¡ch pod mÄ›stem. Je mrtvÃ¡. Je mi to lÃ­to.}
+{146}{}{DÃ­ky za pomoc. MyslÃ­m, Å¾e se pÅ¯jdu vybreÄet.}
+{147}{}{Tak bÄ›Å¾, ty jelimane.}
+{148}{}{PromiÅˆ, kÃ¡mo.}
+{149}{}{NenÃ¡vidÃ­m tÄ›! VÅ¡ichni tÄ› nenÃ¡vidÃ­! ChcÃ­pni! ::vzlykÃ¡::}
+{150}{}{NaÅ¡el jsem u tvÃ© Å¾eny dopis. VypadÃ¡ to, Å¾e se podÃ­lela na tajnÃ©m plÃ¡nu tÃ½kajÃ­cÃ­ se vyvraÅ¾dÄ›nÃ­ mutantÅ¯ v Broken Hills.}
+{151}{}{Ach mÅ¯j boÅ¾e! JÃ¡... nemÅ¯Å¾u uvÄ›Å™it... Å¾e by... (Hluboce povzdechne.) Asi je to pravda. NenÃ¡vidÄ›la vÅ¡echny mutanty a ghouly, se kterÃ½mi se dostala do kontaktu. NechÃ¡pal jsem proÄ.}
+{152}{}{Jestli to tak bylo, pak bys mÄ›l uvÃ¡Å¾it, Å¾e to nemusÃ­ skonÄit u tvÃ© Å¾eny. Jestli do toho byla zapletenÃ¡, proÄ ne i ty?}
+{153}{}{ChceÅ¡ tÃ­m snad Å™Ã­ct, Å¾e mÅ¯j Å¾ivot je takÃ© v nebezpeÄÃ­? A sakra. To mÄ› nenapadlo. V noci jsem pÅ™ed domem slyÅ¡el nÄ›jakÃ© divnÃ© zvuky. Asi Å¡eptÃ¡nÃ­ a kroky.}
+{154}{}{Co takhle vzÃ­t nohy na ramena? A dej na sebe pozor. HodnÄ› Å¡tÄ›stÃ­.}
+{155}{}{DÃ­ky za pomoc. UÅ¾ tady nezÅ¯stanu ani minutu.}
+{156}{}{Dan byl informovÃ¡n o vraÅ¾dÄ› svÃ© Å¾eny.}
 {157}{}{.}

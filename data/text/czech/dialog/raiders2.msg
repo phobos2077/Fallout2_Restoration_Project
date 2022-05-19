@@ -1,4 +1,4 @@
-{100}{}{Vstupuješ do tmavé jeskynì na úpatí jednoho z kopcù.}
-{101}{}{Ocitáš se v labyrintu jeskyní èernıch jako smùla. Ve tmì slyšíš cvakání klepet radškorpionù.}
-{102}{}{Tato jeskynì vypadá, e slouí jako úkryt bandì nájezdníkù.}
-{103}{}{Podaøilo se ti najít doupì nájezdníkù.}
+{100}{}{VstupujeÅ¡ do tmavÃ© jeskynÄ› na ÃºpatÃ­ jednoho z kopcÅ¯.}
+{101}{}{OcitÃ¡Å¡ se v labyrintu jeskynÃ­ ÄernÃ½ch jako smÅ¯la. Ve tmÄ› slyÅ¡Ã­Å¡ cvakÃ¡nÃ­ klepet radÅ¡korpionÅ¯.}
+{102}{}{Tato jeskynÄ› vypadÃ¡, Å¾e slouÅ¾Ã­ jako Ãºkryt bandÄ› nÃ¡jezdnÃ­kÅ¯.}
+{103}{}{PodaÅ™ilo se ti najÃ­t doupÄ› nÃ¡jezdnÃ­kÅ¯.}

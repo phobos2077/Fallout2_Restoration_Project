@@ -1,1 +1,1 @@
-{100}{}{Mùu tu pøivázat provaz a opatrnì se spustit dolù.}
+{100}{}{MÅ¯Å¾u tu pÅ™ivÃ¡zat provaz a opatrnÄ› se spustit dolÅ¯.}

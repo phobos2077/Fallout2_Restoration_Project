@@ -1,42 +1,42 @@
-{100}{}{Vidíš ghoula, kterı leí pøímo pod tvım nárazníkem.}
-{101}{}{Vidíš Lumpyho. Doufáš, e bude v poøádku.}
-{102}{}{Vidíš ghoula, kterı vypadá, jako by ho nìco hodnì bolelo. Moná, kdyby byly tvé øidièské dovednosti lepší, nikdy by se to nestalo.}
-{103}{}{Ouuu! To štípe!}
-{104}{}{Au! Moje kyèle!}
-{105}{}{Nevidìl náhodou nìkdo mùj moèovı mìchıø?}
-{106}{}{Moje páteø! Moje páteø!}
-{107}{}{Elizabeth, koneènì jdu za tebou!}
+{100}{}{VidÃ­Å¡ ghoula, kterÃ½ leÅ¾Ã­ pÅ™Ã­mo pod tvÃ½m nÃ¡raznÃ­kem.}
+{101}{}{VidÃ­Å¡ Lumpyho. DoufÃ¡Å¡, Å¾e bude v poÅ™Ã¡dku.}
+{102}{}{VidÃ­Å¡ ghoula, kterÃ½ vypadÃ¡, jako by ho nÄ›co hodnÄ› bolelo. MoÅ¾nÃ¡, kdyby byly tvÃ© Å™idiÄskÃ© dovednosti lepÅ¡Ã­, nikdy by se to nestalo.}
+{103}{}{Ouuu! To Å¡tÃ­pe!}
+{104}{}{Au! Moje kyÄle!}
+{105}{}{NevidÄ›l nÃ¡hodou nÄ›kdo mÅ¯j moÄovÃ½ mÄ›chÃ½Å™?}
+{106}{}{Moje pÃ¡teÅ™! Moje pÃ¡teÅ™!}
+{107}{}{Elizabeth, koneÄnÄ› jdu za tebou!}
 {108}{}{Doktora...}
-{109}{}{Mùe mi nìkdo pomoct? Nemùu nìjak pøeèíst SPZku.}
+{109}{}{MÅ¯Å¾e mi nÄ›kdo pomoct? NemÅ¯Å¾u nÄ›jak pÅ™eÄÃ­st SPZku.}
 {110}{}{Hej, chlape!}
-{111}{}{Hej, enská!}
-{112}{}{Jmenuju se Lumpy. Mùeš mi na chvíli pomoct?}
+{111}{}{Hej, Å¾enskÃ¡!}
+{112}{}{Jmenuju se Lumpy. MÅ¯Å¾eÅ¡ mi na chvÃ­li pomoct?}
 {113}{}{Jauvajs. Ty v pohoda, Lumpy?}
-{114}{}{Ach, mùj Boe! Jsi v poøádku, Lumpy?}
+{114}{}{Ach, mÅ¯j BoÅ¾e! Jsi v poÅ™Ã¡dku, Lumpy?}
 {115}{}{Jejda...}
-{116}{}{Ále, ujde to. A na pár otevøenejch zlomenin a znaèku tvıho auta vraenou nìkolik cenákù v mım zadku jsem v pohodì.}
-{117}{}{Och. Nepotøebuješ pomoct?}
-{118}{}{Dobe. Pápá.}
-{119}{}{Dobøe, buï v klidu. Potøebuješ pomoct?}
-{120}{}{Díky bohu. Vypadalo to na docela váné problémy. No, tak se mìj.}
-{121}{}{(Lumpy se bez øeèí podívá do tvıch oèí. Mrkne. Opìt mrkne.)}
-{122}{}{Ehh... blbá otázka. Ano?}
-{123}{}{Budu to brát jako ano.}
-{124}{}{To si sakra piš, e jo! Sotva se mùu hıbat! Ale nestìuju si, u jsem zail horší. Ale stejnì se to nedá srovnávat s tou nehodou, co se stala pøed lety dole na jihu, kdy se pøevrátil náklaïák s Colou. Mìl jsi to vidìt, hochu! Zátky byly úplnì všude!}
-{125}{}{Áááááá. Srandovníííí!}
-{126}{}{Páni! Jen si to pøedstav, kdyby nìkdo zrovna bìel pøes pouš! Byl by z nìj boháè!}
-{127}{}{To se vsaï. Ááááá! Auu! Nerad ruším tuhle bájeènou konverzaci, ale mùeš mì prosím odsud vytáhnout? Byl bych ti moc vdìènej.}
-{128}{}{Ty jistı?}
-{129}{}{Jsi si jistı? Myslím, e by ses nemìl hıbat.}
-{130}{}{Ále, nedìlej si starosti. Èasem si všechny kosti sednou.}
-{131}{}{Dobøe. Pøiprav se!}
-{132}{}{Tak jo. Pøiprav se!}
-{133}{}{Jo, jejda! Kdo tì sakra uèil øídit?}
-{134}{}{Já sám.}
-{135}{}{No, jsem spíš samouk.}
-{136}{}{Je to vidìt, vìø mi.}
+{116}{}{Ãle, ujde to. AÅ¾ na pÃ¡r otevÅ™enejch zlomenin a znaÄku tvÃ½ho auta vraÅ¾enou nÄ›kolik cenÅ¥Ã¡kÅ¯ v mÃ½m zadku jsem v pohodÄ›.}
+{117}{}{Och. NepotÅ™ebujeÅ¡ pomoct?}
+{118}{}{DobÅ¾e. PÃ¡pÃ¡.}
+{119}{}{DobÅ™e, buÄ v klidu. PotÅ™ebujeÅ¡ pomoct?}
+{120}{}{DÃ­ky bohu. Vypadalo to na docela vÃ¡Å¾nÃ© problÃ©my. No, tak se mÄ›j.}
+{121}{}{(Lumpy se bez Å™eÄÃ­ podÃ­vÃ¡ do tvÃ½ch oÄÃ­. Mrkne. OpÄ›t mrkne.)}
+{122}{}{Ehh... blbÃ¡ otÃ¡zka. Ano?}
+{123}{}{Budu to brÃ¡t jako ano.}
+{124}{}{To si sakra piÅ¡, Å¾e jo! Sotva se mÅ¯Å¾u hÃ½bat! Ale nestÄ›Å¾uju si, uÅ¾ jsem zaÅ¾il horÅ¡Ã­. Ale stejnÄ› se to nedÃ¡ srovnÃ¡vat s tou nehodou, co se stala pÅ™ed lety dole na jihu, kdyÅ¾ se pÅ™evrÃ¡til nÃ¡klaÄÃ¡k s Colou. MÄ›l jsi to vidÄ›t, hochu! ZÃ¡tky byly ÃºplnÄ› vÅ¡ude!}
+{125}{}{ÃÃ¡Ã¡Ã¡Ã¡Ã¡. SrandovnÃ­Ã­Ã­Ã­!}
+{126}{}{PÃ¡ni! Jen si to pÅ™edstav, kdyby nÄ›kdo zrovna bÄ›Å¾el pÅ™es pouÅ¡Å¥! Byl by z nÄ›j bohÃ¡Ä!}
+{127}{}{To se vsaÄ. ÃÃ¡Ã¡Ã¡Ã¡! Auu! Nerad ruÅ¡Ã­m tuhle bÃ¡jeÄnou konverzaci, ale mÅ¯Å¾eÅ¡ mÄ› prosÃ­m odsud vytÃ¡hnout? Byl bych ti moc vdÄ›Änej.}
+{128}{}{Ty jistÃ½?}
+{129}{}{Jsi si jistÃ½? MyslÃ­m, Å¾e by ses nemÄ›l hÃ½bat.}
+{130}{}{Ãle, nedÄ›lej si starosti. ÄŒasem si vÅ¡echny kosti sednou.}
+{131}{}{DobÅ™e. PÅ™iprav se!}
+{132}{}{Tak jo. PÅ™iprav se!}
+{133}{}{Jo, jejda! Kdo tÄ› sakra uÄil Å™Ã­dit?}
+{134}{}{JÃ¡ sÃ¡m.}
+{135}{}{No, jsem spÃ­Å¡ samouk.}
+{136}{}{Je to vidÄ›t, vÄ›Å™ mi.}
 {137}{}{Och. Ty v pohoda?}
-{138}{}{Aha... no, já... hmmmm. Jsi... jsi v poøádku?}
-{139}{}{Já jim to øíkal. 'Potøebujeme dopravní znaèky', ale myslíš, e mì nìkdo poslouchal!? Neeeee... nebudeme pøece poslouchat starıho Lumpyho!}
+{138}{}{Aha... no, jÃ¡... hmmmm. Jsi... jsi v poÅ™Ã¡dku?}
+{139}{}{JÃ¡ jim to Å™Ã­kal. 'PotÅ™ebujeme dopravnÃ­ znaÄky', ale myslÃ­Å¡, Å¾e mÄ› nÄ›kdo poslouchal!? Neeeee... nebudeme pÅ™ece poslouchat starÃ½ho Lumpyho!}
 {200}{}{A kruci!}
-{201}{}{Jejda. Já pøejet smraïoch.}
+{201}{}{Jejda. JÃ¡ pÅ™ejet smraÄoch.}

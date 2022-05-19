@@ -1,7 +1,7 @@
-{100}{}{Vidíš bezdomovce.}
-{101}{}{Vidíš bezdomovkyni Robertu.}
-{102}{}{Vidíš enu støedního vìku ve starıch obnošenıch šatech.}
-{103}{}{Ach, mùj boe. Promiò, ale nemám ti co øíct. Odejdi prosím.}
-{104}{}{Prosím, jdi pryè. Nechci bıt vyrušována.}
-{105}{}{Díky za pomoc Rebecce. Spletla jsem se v tobì. Omlouvám se.}
-{106}{}{Neublíím ti. Prosím, nezabíjej mì.}
+{100}{}{VidÃ­Å¡ bezdomovce.}
+{101}{}{VidÃ­Å¡ bezdomovkyni Robertu.}
+{102}{}{VidÃ­Å¡ Å¾enu stÅ™ednÃ­ho vÄ›ku ve starÃ½ch obnoÅ¡enÃ½ch Å¡atech.}
+{103}{}{Ach, mÅ¯j boÅ¾e. PromiÅˆ, ale nemÃ¡m ti co Å™Ã­ct. Odejdi prosÃ­m.}
+{104}{}{ProsÃ­m, jdi pryÄ. Nechci bÃ½t vyruÅ¡ovÃ¡na.}
+{105}{}{DÃ­ky za pomoc Rebecce. Spletla jsem se v tobÄ›. OmlouvÃ¡m se.}
+{106}{}{NeublÃ­Å¾Ã­m ti. ProsÃ­m, nezabÃ­jej mÄ›.}

@@ -1,125 +1,125 @@
-{100}{}{Vidíš vysokého a hubeného lovce koešin.}
-{101}{}{Vidíš Èahouna Picketa, hlavu Lovecké ètvrti.}
-{110}{}{No, koukám pane, e zatím asi nemáš z tìch krys pøíliš velké obavy. Ale jen poèkej, a si s nimi nìco zaèneš, to nebudeš mít klid. A hlavnì dávej pozor, aby se sem nedostali.}
-{111}{}{No, koukám sleèinko, e zatím asi nemáš z tìch krys pøíliš velké obavy. Ale jen poèkej, a si s nimi nìco zaèneš, to nebudeš mít klid. A hlavnì dávej pozor, aby se sem nedostali.}
+{100}{}{VidÃ­Å¡ vysokÃ©ho a hubenÃ©ho lovce koÅ¾eÅ¡in.}
+{101}{}{VidÃ­Å¡ ÄŒahouna Picketa, hlavu LoveckÃ© Ätvrti.}
+{110}{}{No, koukÃ¡m pane, Å¾e zatÃ­m asi nemÃ¡Å¡ z tÄ›ch krys pÅ™Ã­liÅ¡ velkÃ© obavy. Ale jen poÄkej, aÅ¾ si s nimi nÄ›co zaÄneÅ¡, to nebudeÅ¡ mÃ­t klid. A hlavnÄ› dÃ¡vej pozor, aby se sem nedostali.}
+{111}{}{No, koukÃ¡m sleÄinko, Å¾e zatÃ­m asi nemÃ¡Å¡ z tÄ›ch krys pÅ™Ã­liÅ¡ velkÃ© obavy. Ale jen poÄkej, aÅ¾ si s nimi nÄ›co zaÄneÅ¡, to nebudeÅ¡ mÃ­t klid. A hlavnÄ› dÃ¡vej pozor, aby se sem nedostali.}
 {112}{}{Neboj se. Nedostanou.}
-{113}{}{Nemám, díky tobì.}
-{114}{}{Eh, dobøe.}
-{120}{}{Nemùu tyhle potvory ani vystát. Snaím se jich nevšímat a doufám, e ony budou dìlat to samé. Mìj se.}
-{130}{}{Dávej si pozor. Vypadá to, e èím hloubìji budeš, tím vìtší krysy tam budou.}
-{140}{}{Zdravím, divochu. Jmenuju se Èahoun Picket a mùeš se mì zeptat na cokoliv o Lovecké ètvrti. Ale nechceme tu ádné problémy.}
-{141}{}{Zdravím, pøíteli. Všichni tì tu rádi vidíme. Jmenuju se Èahoun Picket a jsem mluvèí Lovecké ètvrti.}
-{142}{}{Zdravím tì, Èahoune. Jmenuju se }
-{143}{}{. Proè tomu tady øíkáte Lovecká ètvr?}
-{144}{}{Nevíš náhodou, kde by se dala najít vìc zvaná GECK?}
-{145}{}{Je mi potìšením, Èahoune. Ale jen se tak dívám kolem. Sbohem.}
-{150}{}{Zdravím, jmenuju se Èahoun Picket. Jsem mluvèí téhle èásti mìsta. }
+{113}{}{NemÃ¡m, dÃ­ky tobÄ›.}
+{114}{}{Eh, dobÅ™e.}
+{120}{}{NemÅ¯Å¾u tyhle potvory ani vystÃ¡t. SnaÅ¾Ã­m se jich nevÅ¡Ã­mat a doufÃ¡m, Å¾e ony budou dÄ›lat to samÃ©. MÄ›j se.}
+{130}{}{DÃ¡vej si pozor. VypadÃ¡ to, Å¾e ÄÃ­m hloubÄ›ji budeÅ¡, tÃ­m vÄ›tÅ¡Ã­ krysy tam budou.}
+{140}{}{ZdravÃ­m, divochu. Jmenuju se ÄŒahoun Picket a mÅ¯Å¾eÅ¡ se mÄ› zeptat na cokoliv o LoveckÃ© Ätvrti. Ale nechceme tu Å¾Ã¡dnÃ© problÃ©my.}
+{141}{}{ZdravÃ­m, pÅ™Ã­teli. VÅ¡ichni tÄ› tu rÃ¡di vidÃ­me. Jmenuju se ÄŒahoun Picket a jsem mluvÄÃ­ LoveckÃ© Ätvrti.}
+{142}{}{ZdravÃ­m tÄ›, ÄŒahoune. Jmenuju se }
+{143}{}{. ProÄ tomu tady Å™Ã­kÃ¡te LoveckÃ¡ ÄtvrÅ¥?}
+{144}{}{NevÃ­Å¡ nÃ¡hodou, kde by se dala najÃ­t vÄ›c zvanÃ¡ GECK?}
+{145}{}{Je mi potÄ›Å¡enÃ­m, ÄŒahoune. Ale jen se tak dÃ­vÃ¡m kolem. Sbohem.}
+{150}{}{ZdravÃ­m, jmenuju se ÄŒahoun Picket. Jsem mluvÄÃ­ tÃ©hle ÄÃ¡sti mÄ›sta. }
 {151}{}{Gruk.}
 {152}{}{Ook, oople.}
-{153}{}{(ukázat na sebe) Já }
-{154}{}{, mít hlad.}
-{160}{}{Poslyš, ty máš asi trochu dlouhé vedení, viï? Nevadí, nìco ti povím. Tady je klíè od dveøí za mnou. Za nimi jsou snad všechny druhy krys... a údajnì i jedna velká. Jdi tam a všechny ty zatracenı krysy zabij. Co na to øíkáš?}
-{161}{}{Zdá se, e ta velká krysa, co tu snad kadého kolem otravovala, zmizela. Ale pochybuju, e idiot jako ty s tím má nìco spoleèného.}
-{162}{}{Dobøe. Hehe, zabít krysa. Hehehe.}
-{163}{}{Ne! Bááát krysa! Ne. Já teï jít.}
-{170}{}{Co teï sakra chceš?}
-{171}{}{Zdravím. Mùu ti s nìèím pomoct?}
-{172}{}{Potøebuju klíè od severní èásti Lovecké ètvrti.}
-{173}{}{Chci se tì na nìco zeptat.}
-{174}{}{Zrovna teï nic nepotøebuju. Sbohem.}
-{180}{}{No, v téhle èásti mìsta pøebıvají všichni lovci, kteøí zrovna neloví nìkde geckony. Akorát máme problém s volnımi pøístøešky, protoe jsou na severu krysy, take jsme vìtšinu vchodù do té èásti mìsta museli zabarikádovat.}
-{181}{}{O èem chceš vìdìt?}
-{182}{}{Chodíte nìkdy do severních prostor?}
-{183}{}{Povìz mi o lovu geckonù.}
-{184}{}{Nevíš nìco o GECKu?}
-{185}{}{Máte tu hodnì aut.}
-{186}{}{Krysy? Povìz mi o nich víc.}
-{187}{}{Díky za informace. To bude asi všechno. Sbohem.}
-{190}{}{Jo, ty myslíš GECK, e jo? No, vidìl jsem inzerát v jednom starém èasopisu, ale myslím, e u ádné neexistují. Alespoò ne nikde poblí.}
-{191}{}{Opravdu? Dobøe, povìz mi ještì o nìèem jiném.}
-{192}{}{Aha, dobøe. To bude asi všechno. Díky.}
-{200}{}{Ty chceš klíè od severní èásti Lovecké ètvrti? A na co ho potøebuješ?}
-{201}{}{Poøád chceš ten klíè? Proè?}
-{202}{}{Jsem prùzkumník. Chci prohledat všechno, na co narazím. Moná nìkde na polici leí zapomenutı GECK.}
-{203}{}{Pøicházím vyøešit váš problém s krysami.}
+{153}{}{(ukÃ¡zat na sebe) JÃ¡ }
+{154}{}{, mÃ­t hlad.}
+{160}{}{PoslyÅ¡, ty mÃ¡Å¡ asi trochu dlouhÃ© vedenÃ­, viÄ? NevadÃ­, nÄ›co ti povÃ­m. Tady je klÃ­Ä od dveÅ™Ã­ za mnou. Za nimi jsou snad vÅ¡echny druhy krys... a ÃºdajnÄ› i jedna velkÃ¡. Jdi tam a vÅ¡echny ty zatracenÃ½ krysy zabij. Co na to Å™Ã­kÃ¡Å¡?}
+{161}{}{ZdÃ¡ se, Å¾e ta velkÃ¡ krysa, co tu snad kaÅ¾dÃ©ho kolem otravovala, zmizela. Ale pochybuju, Å¾e idiot jako ty s tÃ­m mÃ¡ nÄ›co spoleÄnÃ©ho.}
+{162}{}{DobÅ™e. Hehe, zabÃ­t krysa. Hehehe.}
+{163}{}{Ne! BÃ¡Ã¡Ã¡t krysa! Ne. JÃ¡ teÄ jÃ­t.}
+{170}{}{Co teÄ sakra chceÅ¡?}
+{171}{}{ZdravÃ­m. MÅ¯Å¾u ti s nÄ›ÄÃ­m pomoct?}
+{172}{}{PotÅ™ebuju klÃ­Ä od severnÃ­ ÄÃ¡sti LoveckÃ© Ätvrti.}
+{173}{}{Chci se tÄ› na nÄ›co zeptat.}
+{174}{}{Zrovna teÄ nic nepotÅ™ebuju. Sbohem.}
+{180}{}{No, v tÃ©hle ÄÃ¡sti mÄ›sta pÅ™ebÃ½vajÃ­ vÅ¡ichni lovci, kteÅ™Ã­ zrovna nelovÃ­ nÄ›kde geckony. AkorÃ¡t mÃ¡me problÃ©m s volnÃ½mi pÅ™Ã­stÅ™eÅ¡ky, protoÅ¾e jsou na severu krysy, takÅ¾e jsme vÄ›tÅ¡inu vchodÅ¯ do tÃ© ÄÃ¡sti mÄ›sta museli zabarikÃ¡dovat.}
+{181}{}{O Äem chceÅ¡ vÄ›dÄ›t?}
+{182}{}{ChodÃ­te nÄ›kdy do severnÃ­ch prostor?}
+{183}{}{PovÄ›z mi o lovu geckonÅ¯.}
+{184}{}{NevÃ­Å¡ nÄ›co o GECKu?}
+{185}{}{MÃ¡te tu hodnÄ› aut.}
+{186}{}{Krysy? PovÄ›z mi o nich vÃ­c.}
+{187}{}{DÃ­ky za informace. To bude asi vÅ¡echno. Sbohem.}
+{190}{}{Jo, ty myslÃ­Å¡ GECK, Å¾e jo? No, vidÄ›l jsem inzerÃ¡t v jednom starÃ©m Äasopisu, ale myslÃ­m, Å¾e uÅ¾ Å¾Ã¡dnÃ© neexistujÃ­. AlespoÅˆ ne nikde poblÃ­Å¾.}
+{191}{}{Opravdu? DobÅ™e, povÄ›z mi jeÅ¡tÄ› o nÄ›Äem jinÃ©m.}
+{192}{}{Aha, dobÅ™e. To bude asi vÅ¡echno. DÃ­ky.}
+{200}{}{Ty chceÅ¡ klÃ­Ä od severnÃ­ ÄÃ¡sti LoveckÃ© Ätvrti? A na co ho potÅ™ebujeÅ¡?}
+{201}{}{PoÅ™Ã¡d chceÅ¡ ten klÃ­Ä? ProÄ?}
+{202}{}{Jsem prÅ¯zkumnÃ­k. Chci prohledat vÅ¡echno, na co narazÃ­m. MoÅ¾nÃ¡ nÄ›kde na polici leÅ¾Ã­ zapomenutÃ½ GECK.}
+{203}{}{PÅ™ichÃ¡zÃ­m vyÅ™eÅ¡it vÃ¡Å¡ problÃ©m s krysami.}
 {204}{}{Chci se zkusit dostat k autu, co je za ohradou.}
-{205}{}{Pro ten klíè udìlám cokoliv. Opravdu se potøebuju dostat na druhou stranu Lovecké ètvrti.}
-{206}{}{Ten klíè zase tak moc nepotøebuju. Zdá se, e je to tam docela nebezpeèné.}
-{210}{}{No, tak jo, tady je ten klíè. Jenom tam neudìlej moc velkı rozruch a zavøi za sebou dveøe.}
-{211}{}{To bylo parádní! To jsem opravdu potøeboval, drahoušku. A dávej pozor na tu svoji pìknou malou prdelku. (hehehe)}
-{212}{}{Díky za klíè, Èahoune. Ještì ne pùjdu, mám na tebe nìjaké otázky.}
-{213}{}{Díky, Èahoune. Buï si jistı, e za sebou dobøe zavøu. Sbohem.}
-{220}{}{Jestli chceš ten klíè, musíš si ho ode mì koupit.}
-{221}{}{Nevadí mi za nìj zaplatit.}
-{222}{}{Nechci platit za klíè. Nebude tì to stát ani cent, kdy mi ho jen pùjèíš. A buï si jistı, e za sebou dobøe zavøu.}
-{223}{}{Kdy mi dáš ten klíè, tak se postarám o to, aby tam u nebylo tolik krys.}
-{224}{}{U ten klíè nechci. Sbohem.}
-{230}{}{Zdá se, e u máš, co jsi chtìl. Dávej si tam pozor.}
-{231}{}{Díky.}
-{232}{}{Jdeš tvrdì za svım. Doufám, e to stálo za to.}
-{240}{}{No, zdá se, e ten klíè zase a tak moc nepotøebuješ, e? Víš urèitì, e u nic jiného nechceš?}
-{241}{}{No, vlastnì ještì nìco potøebuju.}
-{242}{}{Hej, Èahoune, chci se tì ještì na nìco zeptat.}
-{243}{}{U od tebe nic nepotøebuju. Ale i tak dìkuju.}
-{250}{}{Zabarikádovali jsme všechny vstupy do severní èásti mìsta kromì jednoho. A jen já mám od nìj klíè... pro pøípad, e tam nìkdo z nìjakého dùvodu potøebuje jít, i kdy nechápu, proè by to nìkdo vùbec dìlal. Teda aspoò já bych tam rozhodnì nešel.}
-{251}{}{Zajímavé, povìz mi o nìèem jiném.}
-{252}{}{Potøebuju od tebe ten klíè.}
-{253}{}{To bude prozatím všechno. Sbohem.}
-{260}{}{Zajímá tì lov, jo? (Prohlédne si tì od hlavy k patì.)}
-{261}{}{[Více]}
-{270}{}{Bıt tebou, tak to nezkouším. Ještì se ušpiníš a udìláš si mozoule. (hehehe) Ještì chceš nìco vìdìt?}
-{271}{}{Hmm, máš pravdu. Nechci si zašpinit ruce. Povìz mi ještì o nìèem jiném.}
-{272}{}{Chci bıt tak dobrı lovec, jako jsi ty. Vsadím se, e bys mì toho mohl hodnì nauèit.}
-{273}{}{To bude prozatím všechno. Sbohem.}
-{280}{}{No, vypadá to, e umíš docela bojovat. Geckoni se vyskytují ve dvou druzích... obyèejní a zlatí. Ti obyèejní se dají snadno chytit a lovit, ale ti zlatí mají zase vyšší cenu.}
-{281}{}{Povìz mi víc o zlatıch geckonech.}
-{282}{}{Zajímavé. Povìz mi ještì o nìèem jiném.}
-{283}{}{To bude prozatím všechno. Sbohem.}
-{290}{}{Ti zlatí jsou pìknı potvory a dvakrát tak nebezpeènìjší ne ti obyèejní. A navíc, jakmile se do tebe jednou zakousnou, u tì nepustí a prohlodají se a na kost. Ale jejich kùe vypadají opravdu hezky a taky se za nì pochopitelnì platí víc. }
-{291}{}{Povídej dál.}
-{300}{}{Jeden opravdu dobrı lovec jménem Smiley šel nìkam na sever hledat, odkud vlastnì pocházejí. Byl pøesvìdèenı, e všichni pocházejí z jednoho místa. Jenome o nìm nikdo u nìkolik mìsícù neslyšel.}
-{301}{}{Co myslíš, e se mu stalo?}
+{205}{}{Pro ten klÃ­Ä udÄ›lÃ¡m cokoliv. Opravdu se potÅ™ebuju dostat na druhou stranu LoveckÃ© Ätvrti.}
+{206}{}{Ten klÃ­Ä zase tak moc nepotÅ™ebuju. ZdÃ¡ se, Å¾e je to tam docela nebezpeÄnÃ©.}
+{210}{}{No, tak jo, tady je ten klÃ­Ä. Jenom tam neudÄ›lej moc velkÃ½ rozruch a zavÅ™i za sebou dveÅ™e.}
+{211}{}{To bylo parÃ¡dnÃ­! To jsem opravdu potÅ™eboval, drahouÅ¡ku. A dÃ¡vej pozor na tu svoji pÄ›knou malou prdelku. (hehehe)}
+{212}{}{DÃ­ky za klÃ­Ä, ÄŒahoune. JeÅ¡tÄ› neÅ¾ pÅ¯jdu, mÃ¡m na tebe nÄ›jakÃ© otÃ¡zky.}
+{213}{}{DÃ­ky, ÄŒahoune. BuÄ si jistÃ½, Å¾e za sebou dobÅ™e zavÅ™u. Sbohem.}
+{220}{}{Jestli chceÅ¡ ten klÃ­Ä, musÃ­Å¡ si ho ode mÄ› koupit.}
+{221}{}{NevadÃ­ mi za nÄ›j zaplatit.}
+{222}{}{Nechci platit za klÃ­Ä. Nebude tÄ› to stÃ¡t ani cent, kdyÅ¾ mi ho jen pÅ¯jÄÃ­Å¡. A buÄ si jistÃ½, Å¾e za sebou dobÅ™e zavÅ™u.}
+{223}{}{KdyÅ¾ mi dÃ¡Å¡ ten klÃ­Ä, tak se postarÃ¡m o to, aby tam uÅ¾ nebylo tolik krys.}
+{224}{}{UÅ¾ ten klÃ­Ä nechci. Sbohem.}
+{230}{}{ZdÃ¡ se, Å¾e uÅ¾ mÃ¡Å¡, co jsi chtÄ›l. DÃ¡vej si tam pozor.}
+{231}{}{DÃ­ky.}
+{232}{}{JdeÅ¡ tvrdÄ› za svÃ½m. DoufÃ¡m, Å¾e to stÃ¡lo za to.}
+{240}{}{No, zdÃ¡ se, Å¾e ten klÃ­Ä zase aÅ¾ tak moc nepotÅ™ebujeÅ¡, Å¾e? VÃ­Å¡ urÄitÄ›, Å¾e uÅ¾ nic jinÃ©ho nechceÅ¡?}
+{241}{}{No, vlastnÄ› jeÅ¡tÄ› nÄ›co potÅ™ebuju.}
+{242}{}{Hej, ÄŒahoune, chci se tÄ› jeÅ¡tÄ› na nÄ›co zeptat.}
+{243}{}{UÅ¾ od tebe nic nepotÅ™ebuju. Ale i tak dÄ›kuju.}
+{250}{}{ZabarikÃ¡dovali jsme vÅ¡echny vstupy do severnÃ­ ÄÃ¡sti mÄ›sta kromÄ› jednoho. A jen jÃ¡ mÃ¡m od nÄ›j klÃ­Ä... pro pÅ™Ã­pad, Å¾e tam nÄ›kdo z nÄ›jakÃ©ho dÅ¯vodu potÅ™ebuje jÃ­t, i kdyÅ¾ nechÃ¡pu, proÄ by to nÄ›kdo vÅ¯bec dÄ›lal. Teda aspoÅˆ jÃ¡ bych tam rozhodnÄ› neÅ¡el.}
+{251}{}{ZajÃ­mavÃ©, povÄ›z mi o nÄ›Äem jinÃ©m.}
+{252}{}{PotÅ™ebuju od tebe ten klÃ­Ä.}
+{253}{}{To bude prozatÃ­m vÅ¡echno. Sbohem.}
+{260}{}{ZajÃ­mÃ¡ tÄ› lov, jo? (ProhlÃ©dne si tÄ› od hlavy k patÄ›.)}
+{261}{}{[VÃ­ce]}
+{270}{}{BÃ½t tebou, tak to nezkouÅ¡Ã­m. JeÅ¡tÄ› se uÅ¡pinÃ­Å¡ a udÄ›lÃ¡Å¡ si mozoule. (hehehe) JeÅ¡tÄ› chceÅ¡ nÄ›co vÄ›dÄ›t?}
+{271}{}{Hmm, mÃ¡Å¡ pravdu. Nechci si zaÅ¡pinit ruce. PovÄ›z mi jeÅ¡tÄ› o nÄ›Äem jinÃ©m.}
+{272}{}{Chci bÃ½t tak dobrÃ½ lovec, jako jsi ty. VsadÃ­m se, Å¾e bys mÄ› toho mohl hodnÄ› nauÄit.}
+{273}{}{To bude prozatÃ­m vÅ¡echno. Sbohem.}
+{280}{}{No, vypadÃ¡ to, Å¾e umÃ­Å¡ docela bojovat. Geckoni se vyskytujÃ­ ve dvou druzÃ­ch... obyÄejnÃ­ a zlatÃ­. Ti obyÄejnÃ­ se dajÃ­ snadno chytit a lovit, ale ti zlatÃ­ majÃ­ zase vyÅ¡Å¡Ã­ cenu.}
+{281}{}{PovÄ›z mi vÃ­c o zlatÃ½ch geckonech.}
+{282}{}{ZajÃ­mavÃ©. PovÄ›z mi jeÅ¡tÄ› o nÄ›Äem jinÃ©m.}
+{283}{}{To bude prozatÃ­m vÅ¡echno. Sbohem.}
+{290}{}{Ti zlatÃ­ jsou pÄ›knÃ½ potvory a dvakrÃ¡t tak nebezpeÄnÄ›jÅ¡Ã­ neÅ¾ ti obyÄejnÃ­. A navÃ­c, jakmile se do tebe jednou zakousnou, uÅ¾ tÄ› nepustÃ­ a prohlodajÃ­ se aÅ¾ na kost. Ale jejich kÅ¯Å¾e vypadajÃ­ opravdu hezky a taky se za nÄ› pochopitelnÄ› platÃ­ vÃ­c. }
+{291}{}{PovÃ­dej dÃ¡l.}
+{300}{}{Jeden opravdu dobrÃ½ lovec jmÃ©nem Smiley Å¡el nÄ›kam na sever hledat, odkud vlastnÄ› pochÃ¡zejÃ­. Byl pÅ™esvÄ›dÄenÃ½, Å¾e vÅ¡ichni pochÃ¡zejÃ­ z jednoho mÃ­sta. JenomÅ¾e o nÄ›m nikdo uÅ¾ nÄ›kolik mÄ›sÃ­cÅ¯ neslyÅ¡el.}
+{301}{}{Co myslÃ­Å¡, Å¾e se mu stalo?}
 {310}{}{Maybe he found where they come from and got all ate up. (heh, hee, hee) But I tell you one
  thing: Mrs. Buckner's heart just about broke when he didn't come back. You see, he was her beau. Mrs.
  Buckner runs Buckner house, y'know.}
-{311}{}{Zajímavé. Povìz mi ještì o nìèem jiném.}
-{312}{}{To bude prozatím všechno. Sbohem.}
-{320}{}{Ano, máme tu velké mnoství nejrùznìjších aut. Èekají tu na své majitele, a se vrátí z nákupù, jene to se nikdy nestane. Ani jedno z nich není pojízdné. Kousek odsud na vıchod je skuteènì nádhernı Highwayman od Chrysalis Motors, ale zatím jsem nepøišel na to, jak se tam dostat.}
-{321}{}{Highwayman? Hmm, zajímavé. Povìz mi ještì o nìèem jiném.}
-{322}{}{To bude prozatím všechno. Sbohem.}
-{330}{}{No, chutnají docela dobøe, kdy si je upeèeš na roni s troškou bylinek, ale jinak jsou pìknì otravné a je to èím dál horší. Zabarikádovali jsme severní èást mìsta... no, Loveckou ètvr... ale stejnì se vdycky nìjak dostanou skrz. Nakonec jsme nechali jenom jeden vchod a to dveøe v místnosti za mnou, které jsou zamknuté.}
-{331}{}{Doma je máma vdycky usmaila na pánvièce s trochou másla. Povìz mi víc o krysích útocích.}
-{332}{}{Zajímavé. Povìz mi ještì o nìèem jiném.}
-{333}{}{To bude prozatím všechno. Sbohem.}
-{335}{}{No, chutnají docela dobøe, kdy si je upeèeš na roni se špetkou bylinek, ale jinak jsou pìknì otravné a je to èím dál horší. Zabarikádovali jsme severní stranu mìsta, ale stejnì se vdycky nìjak dostanou skrz. Nakonec jsme nechali jenom jeden vchod a to dveøe na severu, které jsou zamknuté.}
-{336}{}{No, jeden èas tu byl s krysami opravdu velikı problém, ale v poslední dobì jich tu zase tak moc není. Jako by se všechny nìkam stáhly.}
-{337}{}{Doma je máma vdycky usmaila na pánvièce s trochou másla. Povìz mi víc o krysích útocích.}
-{340}{}{Ztrácejí se tu lidé. Prozatím jen ti slabí a nemocní. Samozøejmì si je neupeèou jako to dìláme my, ale ohryzají je takovım zpùsobem, e z nich zbude jen nìkolik krvavıch chomáèù vlasù a hadrù. Alespoò tak je ráno vdycky najdeme. Dokonce jsem slyšel povídaèky o nìjaké obrovské kryse, která jim øíká, co mají dìlat.}
-{341}{}{Zajímavé. Moná by se na to mìl nìkdo podívat. Poslyš, nemáš klíè od severní èásti Lovecké ètvrti?}
-{342}{}{Zajímavé. Povìz mi ještì o nìèem jiném.}
-{343}{}{To bude prozatím všechno. Sbohem.}
-{350}{}{No, sice nejsi moc hezká, ale u jsem to nìjakou dobu nedìlal. Myslím, e bych ti ten klíè mohl pùjèit, kdy mi dáš, co chci. (hehehe)}
-{351}{}{No, jsi opravdu moc krásná. Myslím, e ti ten klíè mùu klidnì dát, ale napøed musíš dát ty mnì. (hehehehe)}
-{352}{}{Dobøe, ale doufám, e ti neøíkají Èahoune jen kvùli tvé vıšce.}
-{353}{}{Eh, myslela jsem trochu nìco jiného.}
-{354}{}{Bıt tebou, tak zklidním hormony. Radìji pùjdu, ne se ti nìco stane. Sbohem.}
-{360}{}{Mohl bych tì nauèit nìco o pustinì, ale bude tì to stát $100.}
-{361}{}{Vdycky se rád podìlím o své zkušenosti s ostatními. Za pouhıch $50 tì mùu nauèit pár dobrıch trikù.}
-{362}{}{No, doufám, e to za ty peníze bude stát.}
-{363}{}{To je pøíliš drahé. Radìji mi povìz o nìèem jiném.}
-{364}{}{Myslím, e se teï nechci nic uèit. Sbohem.}
-{370}{}{Lidé z tvého kmene jsou vìtšinou zemìdìlci, e jo? Myslím, e uèit nìkoho, jako jsi ty, by bylo zbyteèné mrhání èasem.}
-{371}{}{To u jsem na tom tak dobøe? No dobøe, povìz mi o nìèem jiném.}
-{372}{}{V tom pøípadì radìji pùjdu. Sbohem.}
-{380}{}{No, za to tì nauèím pár vìcí o tom jak to chodí v pustinì. Doufám, e se ti to bude hodit. Pamatuj si hlavnì to s tìmi vıkaly.}
-{381}{}{Máš pravdu. Staré vıkaly nikdy nechutnají tak dobøe jako ty èerstvé. Díky, Èahoune. A teï mi povìz víc o tìch geckonech.}
-{382}{}{Díky za všechny rady, Èahoune, ale poøád si myslím, e staèí k vıkalùm jen pøièuchnout. A teï mi povìz ještì o nìèem jiném.}
-{383}{}{Díky za informace, Èahoune. Pùjdu si to hned všechno vyzkoušet. Sbohem.}
-{390}{}{Povìz mi o tìch krysách.}
-{400}{}{Tvùj zátah na krysy se docela vyvedl.}
-{401}{}{Zdravím. Je to paráda ít v prostøedí bez krys.}
-{402}{}{Jo jo. U tu zdaleka není tolik krys.}
-{403}{}{Zajímalo by mì, kam se podìly všechny krysy.}
-{404}{}{Chválabohu, e je ta hlodavá paká pryè.}
-{405}{}{Nejsi ty náhodou Krysaø? Díky.}
-{406}{}{V ádném pøípadì. Vymìním ten klíè jen za nìco, co máš u sebe. A ádné smlouvání.}
+{311}{}{ZajÃ­mavÃ©. PovÄ›z mi jeÅ¡tÄ› o nÄ›Äem jinÃ©m.}
+{312}{}{To bude prozatÃ­m vÅ¡echno. Sbohem.}
+{320}{}{Ano, mÃ¡me tu velkÃ© mnoÅ¾stvÃ­ nejrÅ¯znÄ›jÅ¡Ã­ch aut. ÄŒekajÃ­ tu na svÃ© majitele, aÅ¾ se vrÃ¡tÃ­ z nÃ¡kupÅ¯, jenÅ¾e to se nikdy nestane. Ani jedno z nich nenÃ­ pojÃ­zdnÃ©. Kousek odsud na vÃ½chod je skuteÄnÄ› nÃ¡dhernÃ½ Highwayman od Chrysalis Motors, ale zatÃ­m jsem nepÅ™iÅ¡el na to, jak se tam dostat.}
+{321}{}{Highwayman? Hmm, zajÃ­mavÃ©. PovÄ›z mi jeÅ¡tÄ› o nÄ›Äem jinÃ©m.}
+{322}{}{To bude prozatÃ­m vÅ¡echno. Sbohem.}
+{330}{}{No, chutnajÃ­ docela dobÅ™e, kdyÅ¾ si je upeÄeÅ¡ na roÅ¾ni s troÅ¡kou bylinek, ale jinak jsou pÄ›knÄ› otravnÃ© a je to ÄÃ­m dÃ¡l horÅ¡Ã­. ZabarikÃ¡dovali jsme severnÃ­ ÄÃ¡st mÄ›sta... no, Loveckou ÄtvrÅ¥... ale stejnÄ› se vÅ¾dycky nÄ›jak dostanou skrz. Nakonec jsme nechali jenom jeden vchod a to dveÅ™e v mÃ­stnosti za mnou, kterÃ© jsou zamknutÃ©.}
+{331}{}{Doma je mÃ¡ma vÅ¾dycky usmaÅ¾ila na pÃ¡nviÄce s trochou mÃ¡sla. PovÄ›z mi vÃ­c o krysÃ­ch ÃºtocÃ­ch.}
+{332}{}{ZajÃ­mavÃ©. PovÄ›z mi jeÅ¡tÄ› o nÄ›Äem jinÃ©m.}
+{333}{}{To bude prozatÃ­m vÅ¡echno. Sbohem.}
+{335}{}{No, chutnajÃ­ docela dobÅ™e, kdyÅ¾ si je upeÄeÅ¡ na roÅ¾ni se Å¡petkou bylinek, ale jinak jsou pÄ›knÄ› otravnÃ© a je to ÄÃ­m dÃ¡l horÅ¡Ã­. ZabarikÃ¡dovali jsme severnÃ­ stranu mÄ›sta, ale stejnÄ› se vÅ¾dycky nÄ›jak dostanou skrz. Nakonec jsme nechali jenom jeden vchod a to dveÅ™e na severu, kterÃ© jsou zamknutÃ©.}
+{336}{}{No, jeden Äas tu byl s krysami opravdu velikÃ½ problÃ©m, ale v poslednÃ­ dobÄ› jich tu zase tak moc nenÃ­. Jako by se vÅ¡echny nÄ›kam stÃ¡hly.}
+{337}{}{Doma je mÃ¡ma vÅ¾dycky usmaÅ¾ila na pÃ¡nviÄce s trochou mÃ¡sla. PovÄ›z mi vÃ­c o krysÃ­ch ÃºtocÃ­ch.}
+{340}{}{ZtrÃ¡cejÃ­ se tu lidÃ©. ProzatÃ­m jen ti slabÃ­ a nemocnÃ­. SamozÅ™ejmÄ› si je neupeÄou jako to dÄ›lÃ¡me my, ale ohryzajÃ­ je takovÃ½m zpÅ¯sobem, Å¾e z nich zbude jen nÄ›kolik krvavÃ½ch chomÃ¡ÄÅ¯ vlasÅ¯ a hadrÅ¯. AlespoÅˆ tak je rÃ¡no vÅ¾dycky najdeme. Dokonce jsem slyÅ¡el povÃ­daÄky o nÄ›jakÃ© obrovskÃ© kryse, kterÃ¡ jim Å™Ã­kÃ¡, co majÃ­ dÄ›lat.}
+{341}{}{ZajÃ­mavÃ©. MoÅ¾nÃ¡ by se na to mÄ›l nÄ›kdo podÃ­vat. PoslyÅ¡, nemÃ¡Å¡ klÃ­Ä od severnÃ­ ÄÃ¡sti LoveckÃ© Ätvrti?}
+{342}{}{ZajÃ­mavÃ©. PovÄ›z mi jeÅ¡tÄ› o nÄ›Äem jinÃ©m.}
+{343}{}{To bude prozatÃ­m vÅ¡echno. Sbohem.}
+{350}{}{No, sice nejsi moc hezkÃ¡, ale uÅ¾ jsem to nÄ›jakou dobu nedÄ›lal. MyslÃ­m, Å¾e bych ti ten klÃ­Ä mohl pÅ¯jÄit, kdyÅ¾ mi dÃ¡Å¡, co chci. (hehehe)}
+{351}{}{No, jsi opravdu moc krÃ¡snÃ¡. MyslÃ­m, Å¾e ti ten klÃ­Ä mÅ¯Å¾u klidnÄ› dÃ¡t, ale napÅ™ed musÃ­Å¡ dÃ¡t ty mnÄ›. (hehehehe)}
+{352}{}{DobÅ™e, ale doufÃ¡m, Å¾e ti neÅ™Ã­kajÃ­ ÄŒahoune jen kvÅ¯li tvÃ© vÃ½Å¡ce.}
+{353}{}{Eh, myslela jsem trochu nÄ›co jinÃ©ho.}
+{354}{}{BÃ½t tebou, tak zklidnÃ­m hormony. RadÄ›ji pÅ¯jdu, neÅ¾ se ti nÄ›co stane. Sbohem.}
+{360}{}{Mohl bych tÄ› nauÄit nÄ›co o pustinÄ›, ale bude tÄ› to stÃ¡t $100.}
+{361}{}{VÅ¾dycky se rÃ¡d podÄ›lÃ­m o svÃ© zkuÅ¡enosti s ostatnÃ­mi. Za pouhÃ½ch $50 tÄ› mÅ¯Å¾u nauÄit pÃ¡r dobrÃ½ch trikÅ¯.}
+{362}{}{No, doufÃ¡m, Å¾e to za ty penÃ­ze bude stÃ¡t.}
+{363}{}{To je pÅ™Ã­liÅ¡ drahÃ©. RadÄ›ji mi povÄ›z o nÄ›Äem jinÃ©m.}
+{364}{}{MyslÃ­m, Å¾e se teÄ nechci nic uÄit. Sbohem.}
+{370}{}{LidÃ© z tvÃ©ho kmene jsou vÄ›tÅ¡inou zemÄ›dÄ›lci, Å¾e jo? MyslÃ­m, Å¾e uÄit nÄ›koho, jako jsi ty, by bylo zbyteÄnÃ© mrhÃ¡nÃ­ Äasem.}
+{371}{}{To uÅ¾ jsem na tom tak dobÅ™e? No dobÅ™e, povÄ›z mi o nÄ›Äem jinÃ©m.}
+{372}{}{V tom pÅ™Ã­padÄ› radÄ›ji pÅ¯jdu. Sbohem.}
+{380}{}{No, za to tÄ› nauÄÃ­m pÃ¡r vÄ›cÃ­ o tom jak to chodÃ­ v pustinÄ›. DoufÃ¡m, Å¾e se ti to bude hodit. Pamatuj si hlavnÄ› to s tÄ›mi vÃ½kaly.}
+{381}{}{MÃ¡Å¡ pravdu. StarÃ© vÃ½kaly nikdy nechutnajÃ­ tak dobÅ™e jako ty ÄerstvÃ©. DÃ­ky, ÄŒahoune. A teÄ mi povÄ›z vÃ­c o tÄ›ch geckonech.}
+{382}{}{DÃ­ky za vÅ¡echny rady, ÄŒahoune, ale poÅ™Ã¡d si myslÃ­m, Å¾e staÄÃ­ k vÃ½kalÅ¯m jen pÅ™iÄuchnout. A teÄ mi povÄ›z jeÅ¡tÄ› o nÄ›Äem jinÃ©m.}
+{383}{}{DÃ­ky za informace, ÄŒahoune. PÅ¯jdu si to hned vÅ¡echno vyzkouÅ¡et. Sbohem.}
+{390}{}{PovÄ›z mi o tÄ›ch krysÃ¡ch.}
+{400}{}{TvÅ¯j zÃ¡tah na krysy se docela vyvedl.}
+{401}{}{ZdravÃ­m. Je to parÃ¡da Å¾Ã­t v prostÅ™edÃ­ bez krys.}
+{402}{}{Jo jo. UÅ¾ tu zdaleka nenÃ­ tolik krys.}
+{403}{}{ZajÃ­malo by mÄ›, kam se podÄ›ly vÅ¡echny krysy.}
+{404}{}{ChvÃ¡labohu, Å¾e je ta hlodavÃ¡ pakÃ¡Å¾ pryÄ.}
+{405}{}{Nejsi ty nÃ¡hodou KrysaÅ™? DÃ­ky.}
+{406}{}{V Å¾Ã¡dnÃ©m pÅ™Ã­padÄ›. VymÄ›nÃ­m ten klÃ­Ä jen za nÄ›co, co mÃ¡Å¡ u sebe. A Å¾Ã¡dnÃ© smlouvÃ¡nÃ­.}

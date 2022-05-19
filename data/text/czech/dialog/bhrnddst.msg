@@ -1,141 +1,141 @@
-{100}{}{Potkáváš tuláky a vlky.}
-{101}{}{Potkáváš tuláky.}
-{102}{}{Potkáváš vlky.}
-{103}{}{Potkáváš radškorpiony.}
-{104}{}{Potkáváš masoravé rostliny.}
-{105}{}{Potkáváš hlídku Jednoty bojující s tuláky.}
-{106}{}{Potkáváš hlídku Jednoty bojující s vlky.}
-{107}{}{Potkáváš hlídku Jednoty.}
-{150}{}{Potkáváš otrokáøe a psy.}
-{151}{}{Potkáváš otrokáøe.}
-{152}{}{Potkáváš zlaté geckony.}
-{153}{}{Potkáváš divoké psy.}
-{154}{}{Potkáváš hlídku se psy bojující s otrokáøi.}
-{155}{}{Potkáváš otrokáøe bojující se zlatımi geckony.}
-{156}{}{Potkáváš hlídku bojující s otrokáøi.}
-{157}{}{Potkáváš hlídku bojující se zlatımi geckony.}
-{158}{}{Potkáváš hlídku bojující s divokımi psy.}
-{159}{}{Potkáváš hlídku.}
-{200}{}{Pøepadli tì nájezdníci.}
-{201}{}{Potkáváš vlky.}
-{202}{}{Potkáváš karavanu odráející útok nájezdníkù.}
-{203}{}{Potkáváš karavanu odráející útok nájezdníkù.}
-{204}{}{Potkáváš karavanu odráející útok nájezdníkù.}
-{205}{}{Potkáváš karavanu odráející útok nájezdníkù.}
-{206}{}{Potkáváš karavanu.}
-{207}{}{Potkáváš karavanu.}
-{208}{}{Potkáváš karavanu.}
-{209}{}{Potkáváš karavanu.}
-{250}{}{Potkáváš zbìhy.}
-{251}{}{Potkáváš vlky.}
-{252}{}{Potkáváš radškorpiony.}
-{253}{}{Potkáváš karavanu odráející útok zbìhù.}
-{254}{}{Potkáváš karavanu odráející útok zbìhù.}
-{255}{}{Potkáváš karavanu odráející vlky.}
-{256}{}{Potkáváš karavanu odráející útok radškorpionù.}
-{257}{}{Potkáváš karavanu.}
-{258}{}{Potkáváš karavanu.}
-{259}{}{Potkáváš karavanu.}
-{260}{}{Potkáváš karavanu.}
-{261}{}{Potkáváš poutníka.}
-{300}{}{Potkáváš zbytky Vùdcovy armády.}
-{301}{}{Potkáváš zbìhy.}
-{302}{}{Potkáváš NCR Rangery bojující se zbytky Vùdcovy armády.}
-{303}{}{Potkáváš NCR Rangery bojující se zbìhy.}
-{304}{}{Potkáváš farmáøe odráející útok zbytku Vùdcovy armády.}
-{305}{}{Potkáváš farmáøe odráející útok zbìhù.}
-{306}{}{Potkáváš NCR Rangery.}
-{307}{}{Potkáváš farmáøe.}
-{350}{}{Potkáváš otrokáøskou karavanu.}
-{351}{}{Potkáváš potulné zabijáky a lupièe.}
-{352}{}{Potkáváš potulné zabijáky.}
-{353}{}{Potkáváš lupièe.}
-{354}{}{Potkáváš karavanu odráející útok potulnıch zabijákù.}
-{355}{}{Potkáváš karavanu bojující s lupièi.}
-{356}{}{Potkáváš karavanu bojující s potulnımi zabijáky.}
-{357}{}{Potkáváš karavanu obklíèenou lupièi.}
-{358}{}{Potkáváš otrokáøskou karavanu bojující s jinou karavanou.}
-{359}{}{Potkáváš potulné zabijáky bojující s lupièi.}
-{360}{}{Potkáváš karavanu.}
-{361}{}{Potkáváš karavanu.}
-{400}{}{Potkáváš potulné zabijáky.}
-{401}{}{Potkáváš lupièe.}
-{402}{}{Potkáváš lupièe a potulné zabijáky.}
-{403}{}{Potkáváš zlaté geckony a radškorpiony.}
-{404}{}{Potkáváš zlaté geckony.}
-{405}{}{Potkáváš krtèí a praseèí potkany.}
-{406}{}{Potkáváš radškorpiony.}
-{407}{}{Potkáváš masoravé rostliny.}
-{408}{}{Potkáváš lupièe bojujícími s potulnımi zabijáky.}
-{409}{}{Potkáváš karavanu odráející útok potulnıch zabijákù.}
-{410}{}{Potkáváš karavanu odráející útok lupièù.}
-{411}{}{Potkáváš karavanu odráející útok radškorpionù.}
-{412}{}{Potkáváš geckony bojujícími s radškorpiony.}
-{413}{}{Potkáváš karavanu.}
-{450}{}{Potkáváš potulné zabijáky a lupièe.}
-{451}{}{Potkáváš potulné zabijáky a geckony.}
-{452}{}{Potkáváš zlaté geckony.}
-{453}{}{Potkáváš radškorpiony a masoravé rostliny.}
-{454}{}{Potkáváš lupièe bojujícími s radškorpiony.}
-{455}{}{Potkáváš radškorpiony bojujícími s lupièi.}
-{456}{}{Potkáváš karavanu odráející útok potulnıch zabijákù.}
-{457}{}{Potkáváš karavanu odráející útok lupièù.}
-{458}{}{Potkáváš skupinu potulnıch zabijákù plenících masoravé rostliny.}
-{459}{}{Potkáváš karavanu.}
-{500}{}{Potkáváš potulné zabijáky a divoké psy.}
-{501}{}{Potkáváš lupièe a divoké psy.}
-{502}{}{Potkáváš lupièe.}
-{503}{}{Potkáváš potulné zabijáky.}
-{504}{}{Potkáváš hejno mantisù a nìkolik masoravıch rostlin.}
-{505}{}{Potkáváš psy a masoravé rostliny.}
-{506}{}{Potkáváš hejno mantisù.}
-{507}{}{Potkáváš divoké psy.}
-{508}{}{Potkáváš lupièe bojujícími se psy.}
-{509}{}{Potkáváš karavanu odráející útok psù.}
-{510}{}{Potkáváš karavanu odráející útok lupièù.}
-{511}{}{Potkáváš karavanu odráející útok potulnıch zabijákù.}
-{512}{}{Potkáváš karavanu.}
-{550}{}{Potkáváš geckony a vlky.}
-{551}{}{Potkáváš zlodìje pùdy.}
-{552}{}{Potkáváš vlky.}
-{553}{}{Potkáváš zlaté geckony.}
-{554}{}{Potkáváš prospektory, kteøí narazili na zlodìje pùdy.}
-{555}{}{Potkáváš lovce lovící geckony.}
-{556}{}{Potkáváš pøekupníky s alkoholem bojujícími s vlky.}
-{557}{}{Potkáváš osadníky bojujícími se zlodìji pùdy.}
-{558}{}{Potkáváš osadníky bojujícími s vlky.}
-{559}{}{Potkáváš pøekupníky s alkoholem.}
-{560}{}{Potkáváš lovce.}
-{561}{}{Potkáváš prospektory.}
-{600}{}{Potkáváš páraèe.}
-{601}{}{Potkáváš ohnivé geckony.}
-{602}{}{Potkáváš karavanu prchajícími pøed páraèi.}
-{603}{}{Potkáváš karavanu bojující s páraèi.}
-{604}{}{Potkáváš karavanu bojujícími s ohnivımi geckony.}
-{605}{}{Potkáváš karavanu bojujícími s ohnivımi geckony.}
-{606}{}{Potkáváš karavanu.}
-{607}{}{Potkáváš karavanu.}
-{608}{}{Potkáváš karavanu.}
-{609}{}{Potkáváš karavanu.}
-{650}{}{Potkáváš alieny a páraèe.}
-{651}{}{Potkáváš kentaury a floatery.}
-{652}{}{Potkáváš ohnivé geckony.}
-{653}{}{Potkáváš alieny.}
-{654}{}{Potkáváš páraèe.}
-{655}{}{Potkáváš ohnivé geckony.}
-{656}{}{Potkáváš alieny.}
-{657}{}{Potkáváš kentaury.}
-{658}{}{Potkáváš floatery.}
-{700}{}{Potkáváš èleny Yakuzy.}
-{701}{}{Potkáváš gang.}
-{702}{}{Potkáváš skupinu vlkù.}
-{703}{}{Potkáváš mafiány bojujícími s èleny Yakuzy.}
-{704}{}{Potkáváš mafiány bojujícími s gangem.}
-{705}{}{Potkáváš mafiány.}
-{706}{}{Potkáváš poutníka.}
-{750}{}{Potkáváš karavanu odráející útok zbytku Vùdcovy armády.}
-{751}{}{Potkáváš karavanu bojující se zbytky Vùdcovy armády.}
-{752}{}{Potkáváš karavanu bojující s páraèi.}
-{753}{}{Potkáváš karavanu.}
-{754}{}{Potkáváš karavanu.}
-{755}{}{Potkáváš karavanu.}
+{100}{}{PotkÃ¡vÃ¡Å¡ tulÃ¡ky a vlky.}
+{101}{}{PotkÃ¡vÃ¡Å¡ tulÃ¡ky.}
+{102}{}{PotkÃ¡vÃ¡Å¡ vlky.}
+{103}{}{PotkÃ¡vÃ¡Å¡ radÅ¡korpiony.}
+{104}{}{PotkÃ¡vÃ¡Å¡ masoÅ¾ravÃ© rostliny.}
+{105}{}{PotkÃ¡vÃ¡Å¡ hlÃ­dku Jednoty bojujÃ­cÃ­ s tulÃ¡ky.}
+{106}{}{PotkÃ¡vÃ¡Å¡ hlÃ­dku Jednoty bojujÃ­cÃ­ s vlky.}
+{107}{}{PotkÃ¡vÃ¡Å¡ hlÃ­dku Jednoty.}
+{150}{}{PotkÃ¡vÃ¡Å¡ otrokÃ¡Å™e a psy.}
+{151}{}{PotkÃ¡vÃ¡Å¡ otrokÃ¡Å™e.}
+{152}{}{PotkÃ¡vÃ¡Å¡ zlatÃ© geckony.}
+{153}{}{PotkÃ¡vÃ¡Å¡ divokÃ© psy.}
+{154}{}{PotkÃ¡vÃ¡Å¡ hlÃ­dku se psy bojujÃ­cÃ­ s otrokÃ¡Å™i.}
+{155}{}{PotkÃ¡vÃ¡Å¡ otrokÃ¡Å™e bojujÃ­cÃ­ se zlatÃ½mi geckony.}
+{156}{}{PotkÃ¡vÃ¡Å¡ hlÃ­dku bojujÃ­cÃ­ s otrokÃ¡Å™i.}
+{157}{}{PotkÃ¡vÃ¡Å¡ hlÃ­dku bojujÃ­cÃ­ se zlatÃ½mi geckony.}
+{158}{}{PotkÃ¡vÃ¡Å¡ hlÃ­dku bojujÃ­cÃ­ s divokÃ½mi psy.}
+{159}{}{PotkÃ¡vÃ¡Å¡ hlÃ­dku.}
+{200}{}{PÅ™epadli tÄ› nÃ¡jezdnÃ­ci.}
+{201}{}{PotkÃ¡vÃ¡Å¡ vlky.}
+{202}{}{PotkÃ¡vÃ¡Å¡ karavanu odrÃ¡Å¾ejÃ­cÃ­ Ãºtok nÃ¡jezdnÃ­kÅ¯.}
+{203}{}{PotkÃ¡vÃ¡Å¡ karavanu odrÃ¡Å¾ejÃ­cÃ­ Ãºtok nÃ¡jezdnÃ­kÅ¯.}
+{204}{}{PotkÃ¡vÃ¡Å¡ karavanu odrÃ¡Å¾ejÃ­cÃ­ Ãºtok nÃ¡jezdnÃ­kÅ¯.}
+{205}{}{PotkÃ¡vÃ¡Å¡ karavanu odrÃ¡Å¾ejÃ­cÃ­ Ãºtok nÃ¡jezdnÃ­kÅ¯.}
+{206}{}{PotkÃ¡vÃ¡Å¡ karavanu.}
+{207}{}{PotkÃ¡vÃ¡Å¡ karavanu.}
+{208}{}{PotkÃ¡vÃ¡Å¡ karavanu.}
+{209}{}{PotkÃ¡vÃ¡Å¡ karavanu.}
+{250}{}{PotkÃ¡vÃ¡Å¡ zbÄ›hy.}
+{251}{}{PotkÃ¡vÃ¡Å¡ vlky.}
+{252}{}{PotkÃ¡vÃ¡Å¡ radÅ¡korpiony.}
+{253}{}{PotkÃ¡vÃ¡Å¡ karavanu odrÃ¡Å¾ejÃ­cÃ­ Ãºtok zbÄ›hÅ¯.}
+{254}{}{PotkÃ¡vÃ¡Å¡ karavanu odrÃ¡Å¾ejÃ­cÃ­ Ãºtok zbÄ›hÅ¯.}
+{255}{}{PotkÃ¡vÃ¡Å¡ karavanu odrÃ¡Å¾ejÃ­cÃ­ vlky.}
+{256}{}{PotkÃ¡vÃ¡Å¡ karavanu odrÃ¡Å¾ejÃ­cÃ­ Ãºtok radÅ¡korpionÅ¯.}
+{257}{}{PotkÃ¡vÃ¡Å¡ karavanu.}
+{258}{}{PotkÃ¡vÃ¡Å¡ karavanu.}
+{259}{}{PotkÃ¡vÃ¡Å¡ karavanu.}
+{260}{}{PotkÃ¡vÃ¡Å¡ karavanu.}
+{261}{}{PotkÃ¡vÃ¡Å¡ poutnÃ­ka.}
+{300}{}{PotkÃ¡vÃ¡Å¡ zbytky VÅ¯dcovy armÃ¡dy.}
+{301}{}{PotkÃ¡vÃ¡Å¡ zbÄ›hy.}
+{302}{}{PotkÃ¡vÃ¡Å¡ NCR Rangery bojujÃ­cÃ­ se zbytky VÅ¯dcovy armÃ¡dy.}
+{303}{}{PotkÃ¡vÃ¡Å¡ NCR Rangery bojujÃ­cÃ­ se zbÄ›hy.}
+{304}{}{PotkÃ¡vÃ¡Å¡ farmÃ¡Å™e odrÃ¡Å¾ejÃ­cÃ­ Ãºtok zbytku VÅ¯dcovy armÃ¡dy.}
+{305}{}{PotkÃ¡vÃ¡Å¡ farmÃ¡Å™e odrÃ¡Å¾ejÃ­cÃ­ Ãºtok zbÄ›hÅ¯.}
+{306}{}{PotkÃ¡vÃ¡Å¡ NCR Rangery.}
+{307}{}{PotkÃ¡vÃ¡Å¡ farmÃ¡Å™e.}
+{350}{}{PotkÃ¡vÃ¡Å¡ otrokÃ¡Å™skou karavanu.}
+{351}{}{PotkÃ¡vÃ¡Å¡ potulnÃ© zabijÃ¡ky a lupiÄe.}
+{352}{}{PotkÃ¡vÃ¡Å¡ potulnÃ© zabijÃ¡ky.}
+{353}{}{PotkÃ¡vÃ¡Å¡ lupiÄe.}
+{354}{}{PotkÃ¡vÃ¡Å¡ karavanu odrÃ¡Å¾ejÃ­cÃ­ Ãºtok potulnÃ½ch zabijÃ¡kÅ¯.}
+{355}{}{PotkÃ¡vÃ¡Å¡ karavanu bojujÃ­cÃ­ s lupiÄi.}
+{356}{}{PotkÃ¡vÃ¡Å¡ karavanu bojujÃ­cÃ­ s potulnÃ½mi zabijÃ¡ky.}
+{357}{}{PotkÃ¡vÃ¡Å¡ karavanu obklÃ­Äenou lupiÄi.}
+{358}{}{PotkÃ¡vÃ¡Å¡ otrokÃ¡Å™skou karavanu bojujÃ­cÃ­ s jinou karavanou.}
+{359}{}{PotkÃ¡vÃ¡Å¡ potulnÃ© zabijÃ¡ky bojujÃ­cÃ­ s lupiÄi.}
+{360}{}{PotkÃ¡vÃ¡Å¡ karavanu.}
+{361}{}{PotkÃ¡vÃ¡Å¡ karavanu.}
+{400}{}{PotkÃ¡vÃ¡Å¡ potulnÃ© zabijÃ¡ky.}
+{401}{}{PotkÃ¡vÃ¡Å¡ lupiÄe.}
+{402}{}{PotkÃ¡vÃ¡Å¡ lupiÄe a potulnÃ© zabijÃ¡ky.}
+{403}{}{PotkÃ¡vÃ¡Å¡ zlatÃ© geckony a radÅ¡korpiony.}
+{404}{}{PotkÃ¡vÃ¡Å¡ zlatÃ© geckony.}
+{405}{}{PotkÃ¡vÃ¡Å¡ krtÄÃ­ a praseÄÃ­ potkany.}
+{406}{}{PotkÃ¡vÃ¡Å¡ radÅ¡korpiony.}
+{407}{}{PotkÃ¡vÃ¡Å¡ masoÅ¾ravÃ© rostliny.}
+{408}{}{PotkÃ¡vÃ¡Å¡ lupiÄe bojujÃ­cÃ­mi s potulnÃ½mi zabijÃ¡ky.}
+{409}{}{PotkÃ¡vÃ¡Å¡ karavanu odrÃ¡Å¾ejÃ­cÃ­ Ãºtok potulnÃ½ch zabijÃ¡kÅ¯.}
+{410}{}{PotkÃ¡vÃ¡Å¡ karavanu odrÃ¡Å¾ejÃ­cÃ­ Ãºtok lupiÄÅ¯.}
+{411}{}{PotkÃ¡vÃ¡Å¡ karavanu odrÃ¡Å¾ejÃ­cÃ­ Ãºtok radÅ¡korpionÅ¯.}
+{412}{}{PotkÃ¡vÃ¡Å¡ geckony bojujÃ­cÃ­mi s radÅ¡korpiony.}
+{413}{}{PotkÃ¡vÃ¡Å¡ karavanu.}
+{450}{}{PotkÃ¡vÃ¡Å¡ potulnÃ© zabijÃ¡ky a lupiÄe.}
+{451}{}{PotkÃ¡vÃ¡Å¡ potulnÃ© zabijÃ¡ky a geckony.}
+{452}{}{PotkÃ¡vÃ¡Å¡ zlatÃ© geckony.}
+{453}{}{PotkÃ¡vÃ¡Å¡ radÅ¡korpiony a masoÅ¾ravÃ© rostliny.}
+{454}{}{PotkÃ¡vÃ¡Å¡ lupiÄe bojujÃ­cÃ­mi s radÅ¡korpiony.}
+{455}{}{PotkÃ¡vÃ¡Å¡ radÅ¡korpiony bojujÃ­cÃ­mi s lupiÄi.}
+{456}{}{PotkÃ¡vÃ¡Å¡ karavanu odrÃ¡Å¾ejÃ­cÃ­ Ãºtok potulnÃ½ch zabijÃ¡kÅ¯.}
+{457}{}{PotkÃ¡vÃ¡Å¡ karavanu odrÃ¡Å¾ejÃ­cÃ­ Ãºtok lupiÄÅ¯.}
+{458}{}{PotkÃ¡vÃ¡Å¡ skupinu potulnÃ½ch zabijÃ¡kÅ¯ plenÃ­cÃ­ch masoÅ¾ravÃ© rostliny.}
+{459}{}{PotkÃ¡vÃ¡Å¡ karavanu.}
+{500}{}{PotkÃ¡vÃ¡Å¡ potulnÃ© zabijÃ¡ky a divokÃ© psy.}
+{501}{}{PotkÃ¡vÃ¡Å¡ lupiÄe a divokÃ© psy.}
+{502}{}{PotkÃ¡vÃ¡Å¡ lupiÄe.}
+{503}{}{PotkÃ¡vÃ¡Å¡ potulnÃ© zabijÃ¡ky.}
+{504}{}{PotkÃ¡vÃ¡Å¡ hejno mantisÅ¯ a nÄ›kolik masoÅ¾ravÃ½ch rostlin.}
+{505}{}{PotkÃ¡vÃ¡Å¡ psy a masoÅ¾ravÃ© rostliny.}
+{506}{}{PotkÃ¡vÃ¡Å¡ hejno mantisÅ¯.}
+{507}{}{PotkÃ¡vÃ¡Å¡ divokÃ© psy.}
+{508}{}{PotkÃ¡vÃ¡Å¡ lupiÄe bojujÃ­cÃ­mi se psy.}
+{509}{}{PotkÃ¡vÃ¡Å¡ karavanu odrÃ¡Å¾ejÃ­cÃ­ Ãºtok psÅ¯.}
+{510}{}{PotkÃ¡vÃ¡Å¡ karavanu odrÃ¡Å¾ejÃ­cÃ­ Ãºtok lupiÄÅ¯.}
+{511}{}{PotkÃ¡vÃ¡Å¡ karavanu odrÃ¡Å¾ejÃ­cÃ­ Ãºtok potulnÃ½ch zabijÃ¡kÅ¯.}
+{512}{}{PotkÃ¡vÃ¡Å¡ karavanu.}
+{550}{}{PotkÃ¡vÃ¡Å¡ geckony a vlky.}
+{551}{}{PotkÃ¡vÃ¡Å¡ zlodÄ›je pÅ¯dy.}
+{552}{}{PotkÃ¡vÃ¡Å¡ vlky.}
+{553}{}{PotkÃ¡vÃ¡Å¡ zlatÃ© geckony.}
+{554}{}{PotkÃ¡vÃ¡Å¡ prospektory, kteÅ™Ã­ narazili na zlodÄ›je pÅ¯dy.}
+{555}{}{PotkÃ¡vÃ¡Å¡ lovce lovÃ­cÃ­ geckony.}
+{556}{}{PotkÃ¡vÃ¡Å¡ pÅ™ekupnÃ­ky s alkoholem bojujÃ­cÃ­mi s vlky.}
+{557}{}{PotkÃ¡vÃ¡Å¡ osadnÃ­ky bojujÃ­cÃ­mi se zlodÄ›ji pÅ¯dy.}
+{558}{}{PotkÃ¡vÃ¡Å¡ osadnÃ­ky bojujÃ­cÃ­mi s vlky.}
+{559}{}{PotkÃ¡vÃ¡Å¡ pÅ™ekupnÃ­ky s alkoholem.}
+{560}{}{PotkÃ¡vÃ¡Å¡ lovce.}
+{561}{}{PotkÃ¡vÃ¡Å¡ prospektory.}
+{600}{}{PotkÃ¡vÃ¡Å¡ pÃ¡raÄe.}
+{601}{}{PotkÃ¡vÃ¡Å¡ ohnivÃ© geckony.}
+{602}{}{PotkÃ¡vÃ¡Å¡ karavanu prchajÃ­cÃ­mi pÅ™ed pÃ¡raÄi.}
+{603}{}{PotkÃ¡vÃ¡Å¡ karavanu bojujÃ­cÃ­ s pÃ¡raÄi.}
+{604}{}{PotkÃ¡vÃ¡Å¡ karavanu bojujÃ­cÃ­mi s ohnivÃ½mi geckony.}
+{605}{}{PotkÃ¡vÃ¡Å¡ karavanu bojujÃ­cÃ­mi s ohnivÃ½mi geckony.}
+{606}{}{PotkÃ¡vÃ¡Å¡ karavanu.}
+{607}{}{PotkÃ¡vÃ¡Å¡ karavanu.}
+{608}{}{PotkÃ¡vÃ¡Å¡ karavanu.}
+{609}{}{PotkÃ¡vÃ¡Å¡ karavanu.}
+{650}{}{PotkÃ¡vÃ¡Å¡ alieny a pÃ¡raÄe.}
+{651}{}{PotkÃ¡vÃ¡Å¡ kentaury a floatery.}
+{652}{}{PotkÃ¡vÃ¡Å¡ ohnivÃ© geckony.}
+{653}{}{PotkÃ¡vÃ¡Å¡ alieny.}
+{654}{}{PotkÃ¡vÃ¡Å¡ pÃ¡raÄe.}
+{655}{}{PotkÃ¡vÃ¡Å¡ ohnivÃ© geckony.}
+{656}{}{PotkÃ¡vÃ¡Å¡ alieny.}
+{657}{}{PotkÃ¡vÃ¡Å¡ kentaury.}
+{658}{}{PotkÃ¡vÃ¡Å¡ floatery.}
+{700}{}{PotkÃ¡vÃ¡Å¡ Äleny Yakuzy.}
+{701}{}{PotkÃ¡vÃ¡Å¡ gang.}
+{702}{}{PotkÃ¡vÃ¡Å¡ skupinu vlkÅ¯.}
+{703}{}{PotkÃ¡vÃ¡Å¡ mafiÃ¡ny bojujÃ­cÃ­mi s Äleny Yakuzy.}
+{704}{}{PotkÃ¡vÃ¡Å¡ mafiÃ¡ny bojujÃ­cÃ­mi s gangem.}
+{705}{}{PotkÃ¡vÃ¡Å¡ mafiÃ¡ny.}
+{706}{}{PotkÃ¡vÃ¡Å¡ poutnÃ­ka.}
+{750}{}{PotkÃ¡vÃ¡Å¡ karavanu odrÃ¡Å¾ejÃ­cÃ­ Ãºtok zbytku VÅ¯dcovy armÃ¡dy.}
+{751}{}{PotkÃ¡vÃ¡Å¡ karavanu bojujÃ­cÃ­ se zbytky VÅ¯dcovy armÃ¡dy.}
+{752}{}{PotkÃ¡vÃ¡Å¡ karavanu bojujÃ­cÃ­ s pÃ¡raÄi.}
+{753}{}{PotkÃ¡vÃ¡Å¡ karavanu.}
+{754}{}{PotkÃ¡vÃ¡Å¡ karavanu.}
+{755}{}{PotkÃ¡vÃ¡Å¡ karavanu.}

@@ -1,124 +1,124 @@
-{100}{}{Vidíš pankáèe. Jedním koutkem se usmívá.}
-{101}{}{Vidíš Badgera.}
-{102}{}{Vidíš pankáèe s jedním koutkem zvednutım do jízlivého úsmìvu.}
-{103}{}{:::Nahlas si krkne:: Co chceš?}
+{100}{}{VidÃ­Å¡ pankÃ¡Äe. JednÃ­m koutkem se usmÃ­vÃ¡.}
+{101}{}{VidÃ­Å¡ Badgera.}
+{102}{}{VidÃ­Å¡ pankÃ¡Äe s jednÃ­m koutkem zvednutÃ½m do jÃ­zlivÃ©ho ÃºsmÄ›vu.}
+{103}{}{:::Nahlas si krkne:: Co chceÅ¡?}
 {104}{}{::krrrk:::}
 {105}{}{Kdo ty?}
 {106}{}{Kdo jsi?}
-{107}{}{Mùeš mi øíct nìco o tomhle tankeru?}
-{108}{}{Co tady dìláš?}
-{109}{}{Potøebuju, abys pro mì hacknul jeden poèítaè.}
-{110}{}{Jak jde hackování?}
-{111}{}{Nic. Hezké krknutí.}
-{112}{}{::Vydá ze sebe další mohutné krknutí::}
-{113}{}{::Hlasitìjší krknutí::}
+{107}{}{MÅ¯Å¾eÅ¡ mi Å™Ã­ct nÄ›co o tomhle tankeru?}
+{108}{}{Co tady dÄ›lÃ¡Å¡?}
+{109}{}{PotÅ™ebuju, abys pro mÄ› hacknul jeden poÄÃ­taÄ.}
+{110}{}{Jak jde hackovÃ¡nÃ­?}
+{111}{}{Nic. HezkÃ© krknutÃ­.}
+{112}{}{::VydÃ¡ ze sebe dalÅ¡Ã­ mohutnÃ© krknutÃ­::}
+{113}{}{::HlasitÄ›jÅ¡Ã­ krknutÃ­::}
 {114}{}{Fuj.}
-{115}{}{::Vychrlí další šílené krknutí, které se svojí hlasitostí a hloubkou vymyká samotnému nebi::}
+{115}{}{::VychrlÃ­ dalÅ¡Ã­ Å¡Ã­lenÃ© krknutÃ­, kterÃ© se svojÃ­ hlasitostÃ­ a hloubkou vymykÃ¡ samotnÃ©mu nebi::}
 {116}{}{::Potlesk::}
-{117}{}{Jmenuju se Badger. Kdysi jsem byl v kapele. ::povzdech:: Øíkali jsme si "Tam èadíme". Teï dìlám poèítaèovıho technika tady v San Franciscu.}
-{118}{}{Díky!}
-{119}{}{Do èeho v poèítaèích dìláš?}
-{120}{}{Vsadím se, e ta vaše kapela stála za prd.}
-{121}{}{Byla vùbec dobrá?}
-{122}{}{Dík. Naskle.}
-{123}{}{Dobøe.}
+{117}{}{Jmenuju se Badger. Kdysi jsem byl v kapele. ::povzdech:: Å˜Ã­kali jsme si "Tam ÄadÃ­me". TeÄ dÄ›lÃ¡m poÄÃ­taÄovÃ½ho technika tady v San Franciscu.}
+{118}{}{DÃ­ky!}
+{119}{}{Do Äeho v poÄÃ­taÄÃ­ch dÄ›lÃ¡Å¡?}
+{120}{}{VsadÃ­m se, Å¾e ta vaÅ¡e kapela stÃ¡la za prd.}
+{121}{}{Byla vÅ¯bec dobrÃ¡?}
+{122}{}{DÃ­k. Naskle.}
+{123}{}{DobÅ™e.}
 {124}{}{Nashle!}
-{125}{}{O tom si promluv s Marcem nebo s kapitánem.}
+{125}{}{O tom si promluv s Marcem nebo s kapitÃ¡nem.}
 {126}{}{Kde najdu Marca?}
-{127}{}{Kde najdu toho kapitána?}
-{128}{}{Jsem místní poèítaèovı génius.}
-{129}{}{Do èeho v poèítaèích dìláš?}
-{130}{}{Dík. Naskle.}
-{131}{}{Neotravuj. ::Prdí:: Pracuju na tom, staèí?}
-{132}{}{Dobøe, dobøe. Dej mi vìdìt, a to bude.}
-{133}{}{Øeknìme, e jsem specialista na obnovu informací.}
-{134}{}{Mùeš pro mì nìco obnovit?}
-{135}{}{Co to znamená?}
-{136}{}{Jo, jasnì, naser si.}
+{127}{}{Kde najdu toho kapitÃ¡na?}
+{128}{}{Jsem mÃ­stnÃ­ poÄÃ­taÄovÃ½ gÃ©nius.}
+{129}{}{Do Äeho v poÄÃ­taÄÃ­ch dÄ›lÃ¡Å¡?}
+{130}{}{DÃ­k. Naskle.}
+{131}{}{Neotravuj. ::PrdÃ­:: Pracuju na tom, staÄÃ­?}
+{132}{}{DobÅ™e, dobÅ™e. Dej mi vÄ›dÄ›t, aÅ¾ to bude.}
+{133}{}{Å˜eknÄ›me, Å¾e jsem specialista na obnovu informacÃ­.}
+{134}{}{MÅ¯Å¾eÅ¡ pro mÄ› nÄ›co obnovit?}
+{135}{}{Co to znamenÃ¡?}
+{136}{}{Jo, jasnÄ›, naser si.}
 {137}{}{Hej!}
 {138}{}{Ty si taky naser.}
-{139}{}{To bych øek! Váleli jsme! Náš zpìvák byl... ehm... tak trochu pøihøátej a Aaron se poøád potil a všechno ostatní byla Toddova chyba. Ale byli jsme dobrı.}
-{140}{}{Škoda, e u nejste spolu. Rád bych si vás poslechl.}
-{141}{}{Ehm. Jistì. Mám další otázky.}
-{142}{}{Vsadím se, e ta vaše kapela stála za prd.}
-{143}{}{Vìtšinou bejvá v baru.}
-{144}{}{Díky. Mám další otázky.}
-{145}{}{Díky. To bude všechno.}
-{146}{}{Kapitán je obvykle na mùstku. Jdi v baru po schodech nahoru.}
-{147}{}{Díky. Mám další otázky.}
-{148}{}{Díky. To bude všechno.}
-{149}{}{Jo, ale bude tì to nìco stát.}
-{150}{}{Co za to chceš?}
-{151}{}{Jo, jasnì. U musím jít.}
-{152}{}{To znamená, e mùu najít data, kterı potøebuješ.}
-{153}{}{Mùeš pro mì nìco udìlat?}
-{154}{}{Aha. Dobøe. Mám další otázky.}
-{155}{}{Aha. Díky.}
-{156}{}{Jo, to je. Ale teï mám práci.}
-{157}{}{Poèkej. Mám další otázky.}
-{158}{}{Díky. Zatím.}
-{159}{}{Zamlouváš se mi natolik, e to pro tebe klidnì udìlám. Koho chceš, abych navštívil?}
+{139}{}{To bych Å™ek! VÃ¡leli jsme! NÃ¡Å¡ zpÄ›vÃ¡k byl... ehm... tak trochu pÅ™ihÅ™Ã¡tej a Aaron se poÅ™Ã¡d potil a vÅ¡echno ostatnÃ­ byla Toddova chyba. Ale byli jsme dobrÃ½.}
+{140}{}{Å koda, Å¾e uÅ¾ nejste spolu. RÃ¡d bych si vÃ¡s poslechl.}
+{141}{}{Ehm. JistÄ›. MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
+{142}{}{VsadÃ­m se, Å¾e ta vaÅ¡e kapela stÃ¡la za prd.}
+{143}{}{VÄ›tÅ¡inou bejvÃ¡ v baru.}
+{144}{}{DÃ­ky. MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
+{145}{}{DÃ­ky. To bude vÅ¡echno.}
+{146}{}{KapitÃ¡n je obvykle na mÅ¯stku. Jdi v baru po schodech nahoru.}
+{147}{}{DÃ­ky. MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
+{148}{}{DÃ­ky. To bude vÅ¡echno.}
+{149}{}{Jo, ale bude tÄ› to nÄ›co stÃ¡t.}
+{150}{}{Co za to chceÅ¡?}
+{151}{}{Jo, jasnÄ›. UÅ¾ musÃ­m jÃ­t.}
+{152}{}{To znamenÃ¡, Å¾e mÅ¯Å¾u najÃ­t data, kterÃ½ potÅ™ebujeÅ¡.}
+{153}{}{MÅ¯Å¾eÅ¡ pro mÄ› nÄ›co udÄ›lat?}
+{154}{}{Aha. DobÅ™e. MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
+{155}{}{Aha. DÃ­ky.}
+{156}{}{Jo, to je. Ale teÄ mÃ¡m prÃ¡ci.}
+{157}{}{PoÄkej. MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
+{158}{}{DÃ­ky. ZatÃ­m.}
+{159}{}{ZamlouvÃ¡Å¡ se mi natolik, Å¾e to pro tebe klidnÄ› udÄ›lÃ¡m. Koho chceÅ¡, abych navÅ¡tÃ­vil?}
 {160}{}{Hubologisty.}
 {161}{}{Shi.}
-{162}{}{Nikoho. Jen tì zkouším.}
-{163}{}{Udìlám to pro tebe zadarmo, paè se ti podaøilo najít moji holku. Ale nìjakou chvíli to potrvá. Koho mám hacknout?}
+{162}{}{Nikoho. Jen tÄ› zkouÅ¡Ã­m.}
+{163}{}{UdÄ›lÃ¡m to pro tebe zadarmo, paÄ se ti podaÅ™ilo najÃ­t moji holku. Ale nÄ›jakou chvÃ­li to potrvÃ¡. Koho mÃ¡m hacknout?}
 {164}{}{Hubologisty.}
 {165}{}{Shi.}
-{166}{}{Nikoho. Jen tì zkouším.}
-{167}{}{Musíš pro mì nejdøív udìlat jednu laskavost. Nìkde tady v tankeru se ztratila moje holka. Najdi ji a já to pro tebe udìlám.}
-{168}{}{Máš to mít. Nashle.}
-{169}{}{Zapomeò na to. Nashle.}
-{170}{}{Jako ukrást dìcku lízátko. Nikdy mì nenajdou. Co od nich chceš?}
-{171}{}{Super. Mám další otázky.}
-{172}{}{Skvìlé. Ještì se vrátím.}
-{173}{}{K nim se dostat mùu. Ale a moc dobøe si chránìj svoje informace a maj i slušnı pátrací systémy. Opravdu chceš, abych po nich šel?}
-{174}{}{Dobøe, tak hodnì štìstí. Mám další otázky.}
-{175}{}{Hodnì štìstí. Vrátím se pozdìji.}
-{176}{}{Najdi moji holku a pak si pokecáme.}
-{177}{}{Dobøe, dobøe.}
-{178}{}{Je mrtvá? Je MRTVÁ? Jak zemøela? Ne, poèkej... neøíkej mi to. Dej mi pár hodin, abych se dal dohromady.}
-{179}{}{Jistì, jistì.}
-{180}{}{Dej se do poøádku, Sparky. Máme kurva práci.}
-{181}{}{Tak dobøe. U je mi líp.}
-{182}{}{Dobøe. Potøebuju se tì na nìco zeptat.}
-{183}{}{Dobøe ti tak. Nechci s tebou mluvit.}
-{184}{}{Díky, díky, díky. Nedokáu ti dostateènì podìkovat za to, e se ti ji podaøilo zachránit. Co za to chceš?}
-{185}{}{Mám nìjaké otázky.}
-{186}{}{Tvoje díky mi staèí. Nashle.}
-{187}{}{Fajn, dostal jsem se do poèítaèù Shi. Jenom nevím, jestli jsem to zvládl nepozorovanì. Myslím, e bude teï lepší se nìkam schovat. Chceš ještì nìco jinıho?}
+{166}{}{Nikoho. Jen tÄ› zkouÅ¡Ã­m.}
+{167}{}{MusÃ­Å¡ pro mÄ› nejdÅ™Ã­v udÄ›lat jednu laskavost. NÄ›kde tady v tankeru se ztratila moje holka. Najdi ji a jÃ¡ to pro tebe udÄ›lÃ¡m.}
+{168}{}{MÃ¡Å¡ to mÃ­t. Nashle.}
+{169}{}{ZapomeÅˆ na to. Nashle.}
+{170}{}{Jako ukrÃ¡st dÄ›cku lÃ­zÃ¡tko. Nikdy mÄ› nenajdou. Co od nich chceÅ¡?}
+{171}{}{Super. MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
+{172}{}{SkvÄ›lÃ©. JeÅ¡tÄ› se vrÃ¡tÃ­m.}
+{173}{}{K nim se dostat mÅ¯Å¾u. Ale aÅ¾ moc dobÅ™e si chrÃ¡nÄ›j svoje informace a maj i sluÅ¡nÃ½ pÃ¡tracÃ­ systÃ©my. Opravdu chceÅ¡, abych po nich Å¡el?}
+{174}{}{DobÅ™e, tak hodnÄ› Å¡tÄ›stÃ­. MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
+{175}{}{HodnÄ› Å¡tÄ›stÃ­. VrÃ¡tÃ­m se pozdÄ›ji.}
+{176}{}{Najdi moji holku a pak si pokecÃ¡me.}
+{177}{}{DobÅ™e, dobÅ™e.}
+{178}{}{Je mrtvÃ¡? Je MRTVÃ? Jak zemÅ™ela? Ne, poÄkej... neÅ™Ã­kej mi to. Dej mi pÃ¡r hodin, abych se dal dohromady.}
+{179}{}{JistÄ›, jistÄ›.}
+{180}{}{Dej se do poÅ™Ã¡dku, Sparky. MÃ¡me kurva prÃ¡ci.}
+{181}{}{Tak dobÅ™e. UÅ¾ je mi lÃ­p.}
+{182}{}{DobÅ™e. PotÅ™ebuju se tÄ› na nÄ›co zeptat.}
+{183}{}{DobÅ™e ti tak. Nechci s tebou mluvit.}
+{184}{}{DÃ­ky, dÃ­ky, dÃ­ky. NedokÃ¡Å¾u ti dostateÄnÄ› podÄ›kovat za to, Å¾e se ti ji podaÅ™ilo zachrÃ¡nit. Co za to chceÅ¡?}
+{185}{}{MÃ¡m nÄ›jakÃ© otÃ¡zky.}
+{186}{}{Tvoje dÃ­ky mi staÄÃ­. Nashle.}
+{187}{}{Fajn, dostal jsem se do poÄÃ­taÄÅ¯ Shi. Jenom nevÃ­m, jestli jsem to zvlÃ¡dl nepozorovanÄ›. MyslÃ­m, Å¾e bude teÄ lepÅ¡Ã­ se nÄ›kam schovat. ChceÅ¡ jeÅ¡tÄ› nÄ›co jinÃ½ho?}
 {188}{}{Ano.}
 {189}{}{Ne. Nashle.}
-{190}{}{Dostal jsem se k Hubologistùm. Nebyl to problém. Potøebuješ ještì nìco jinıho?}
+{190}{}{Dostal jsem se k HubologistÅ¯m. Nebyl to problÃ©m. PotÅ™ebujeÅ¡ jeÅ¡tÄ› nÄ›co jinÃ½ho?}
 {191}{}{Ano.}
 {192}{}{Ne. Nashle.}
-{193}{}{Právì jsi udìlal velkou chybu, kámo. Právì jsem proti tobì poštval Shi skrz jejich poèítaèe. V San Franciscu jsi skonèil. }
-{194}{}{V tom pøípadì musíš zemøít.}
-{195}{}{Dej mi pár hodin, abych se dal dohromady.}
-{196}{}{Chceš, abych se dostal do zformátovanıho poèítaèe? Ty informace u jsou pryè. To nepùjde.}
+{193}{}{PrÃ¡vÄ› jsi udÄ›lal velkou chybu, kÃ¡mo. PrÃ¡vÄ› jsem proti tobÄ› poÅ¡tval Shi skrz jejich poÄÃ­taÄe. V San Franciscu jsi skonÄil. }
+{194}{}{V tom pÅ™Ã­padÄ› musÃ­Å¡ zemÅ™Ã­t.}
+{195}{}{Dej mi pÃ¡r hodin, abych se dal dohromady.}
+{196}{}{ChceÅ¡, abych se dostal do zformÃ¡tovanÃ½ho poÄÃ­taÄe? Ty informace uÅ¾ jsou pryÄ. To nepÅ¯jde.}
 {197}{}{Budu muset odsud vypadnout.}
-{198}{}{Rád tì zase vidím.}
-{199}{}{Sháním nìjaké palivo.}
-{200}{}{Slyšel jsem, e maj Hubologisti nìjakı palivo a mohl bych se ti na to podívat do jejich poèítaèe.}
-{201}{}{Shi vlastní všechno palivo v okolí. Mohl bych pro tebe prohledat jejich poèítaè.}
+{198}{}{RÃ¡d tÄ› zase vidÃ­m.}
+{199}{}{ShÃ¡nÃ­m nÄ›jakÃ© palivo.}
+{200}{}{SlyÅ¡el jsem, Å¾e maj Hubologisti nÄ›jakÃ½ palivo a mohl bych se ti na to podÃ­vat do jejich poÄÃ­taÄe.}
+{201}{}{Shi vlastnÃ­ vÅ¡echno palivo v okolÃ­. Mohl bych pro tebe prohledat jejich poÄÃ­taÄ.}
 {202}{}{Opravdu?}
-{203}{}{Co sakra chceš?}
-{204}{}{Badger od pankáèù, pøedpokládám?}
-{205}{}{To bylo naposled, co jsi zostudil našeho Císaøe!}
-{206}{}{Myslím, e pùjdu do mìsta sehnat nìjakı lízátka od Lao Chou.}
-{207}{}{Tolik ke spravedlivımu procesu. Hmmm...}
-{208}{}{Kámo, prober se. Jenom jsem chtìl nìjakı sladkosti.}
-{209}{}{Mùeš pøevést palivo z jejich vesmírné lodì do tankeru?}
-{210}{}{Mùeš mi sehnat kopii jejich plánù vertibirdu?}
-{211}{}{Mùeš pøevést palivo a sehnat mi ty plány?}
-{212}{}{Ano, nìco od nich potøebuju.}
-{213}{}{Ne, pøijdu na nìjakı jinı zpùsob.}
-{214}{}{Dobøe, ale moná se to posere.}
-{215}{}{Mùeš pøevést palivo z jejich zásob do tankeru?}
-{216}{}{Nevadí, udìlám to jinak.}
-{217}{}{Zapomeò na to.}
-{218}{}{Tak dobøe. Zastav se tu za den nebo dva a já ti dám vìdìt.}
-{219}{}{Získal jsi to, co potøebuju?}
-{220}{}{Jo, mám to palivo.}
-{221}{}{Jo, mám ty plány vertibirdu.}
-{222}{}{Jo, mám palivo i ty plány.}
-{223}{}{Díky moc. Zatím.}
+{203}{}{Co sakra chceÅ¡?}
+{204}{}{Badger od pankÃ¡ÄÅ¯, pÅ™edpoklÃ¡dÃ¡m?}
+{205}{}{To bylo naposled, co jsi zostudil naÅ¡eho CÃ­saÅ™e!}
+{206}{}{MyslÃ­m, Å¾e pÅ¯jdu do mÄ›sta sehnat nÄ›jakÃ½ lÃ­zÃ¡tka od Lao Chou.}
+{207}{}{Tolik ke spravedlivÃ½mu procesu. Hmmm...}
+{208}{}{KÃ¡mo, prober se. Jenom jsem chtÄ›l nÄ›jakÃ½ sladkosti.}
+{209}{}{MÅ¯Å¾eÅ¡ pÅ™evÃ©st palivo z jejich vesmÃ­rnÃ© lodÄ› do tankeru?}
+{210}{}{MÅ¯Å¾eÅ¡ mi sehnat kopii jejich plÃ¡nÅ¯ vertibirdu?}
+{211}{}{MÅ¯Å¾eÅ¡ pÅ™evÃ©st palivo a sehnat mi ty plÃ¡ny?}
+{212}{}{Ano, nÄ›co od nich potÅ™ebuju.}
+{213}{}{Ne, pÅ™ijdu na nÄ›jakÃ½ jinÃ½ zpÅ¯sob.}
+{214}{}{DobÅ™e, ale moÅ¾nÃ¡ se to posere.}
+{215}{}{MÅ¯Å¾eÅ¡ pÅ™evÃ©st palivo z jejich zÃ¡sob do tankeru?}
+{216}{}{NevadÃ­, udÄ›lÃ¡m to jinak.}
+{217}{}{ZapomeÅˆ na to.}
+{218}{}{Tak dobÅ™e. Zastav se tu za den nebo dva a jÃ¡ ti dÃ¡m vÄ›dÄ›t.}
+{219}{}{ZÃ­skal jsi to, co potÅ™ebuju?}
+{220}{}{Jo, mÃ¡m to palivo.}
+{221}{}{Jo, mÃ¡m ty plÃ¡ny vertibirdu.}
+{222}{}{Jo, mÃ¡m palivo i ty plÃ¡ny.}
+{223}{}{DÃ­ky moc. ZatÃ­m.}

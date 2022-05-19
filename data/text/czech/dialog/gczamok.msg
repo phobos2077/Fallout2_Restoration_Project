@@ -1,57 +1,57 @@
-{100}{}{Vidíš nadprùmìrného ghoula.}
-{101}{}{Vidíš Zomaka, známého také jako Nièitele.}
-{102}{}{Vidíš velkého, statného ghoula, jeho oblièej, pod ostøe svaujícím èelem, vyjadøuje známky prostoduché nadøazenosti.}
-{110}{}{Obroï se, kamaráde! Jsem Zomak. Nìkteøí mi øíkají Zomak Nièitel. Co tu dìláš?}
-{111}{}{Obroï se, kamaráde! Co tu dìláš? Objasni úèel své cesty Zomakovi Nièitelovi.}
-{112}{}{Pøebroï se!}
+{100}{}{VidÃ­Å¡ nadprÅ¯mÄ›rnÃ©ho ghoula.}
+{101}{}{VidÃ­Å¡ Zomaka, znÃ¡mÃ©ho takÃ© jako NiÄitele.}
+{102}{}{VidÃ­Å¡ velkÃ©ho, statnÃ©ho ghoula, jehoÅ¾ obliÄej, pod ostÅ™e svaÅ¾ujÃ­cÃ­m Äelem, vyjadÅ™uje znÃ¡mky prostoduchÃ© nadÅ™azenosti.}
+{110}{}{ObroÄ se, kamarÃ¡de! Jsem Zomak. NÄ›kteÅ™Ã­ mi Å™Ã­kajÃ­ Zomak NiÄitel. Co tu dÄ›lÃ¡Å¡?}
+{111}{}{ObroÄ se, kamarÃ¡de! Co tu dÄ›lÃ¡Å¡? Objasni ÃºÄel svÃ© cesty Zomakovi NiÄitelovi.}
+{112}{}{PÅ™ebroÄ se!}
 {113}{}{Ook?}
-{114}{}{Jen se tu tak rozhlíím.}
+{114}{}{Jen se tu tak rozhlÃ­Å¾Ã­m.}
 {115}{}{Chci se Obrodit.}
-{116}{}{Asi jsem na špatném místì.}
-{120}{}{Mìl by ses kouknout nìkam jinam nebo ti Zomak ukáe cestu do nebíèka.}
-{130}{}{Pak ho tedy musíš navštívit.}
-{131}{}{Jeho? Kde je jeho, chci øíct on?}
-{132}{}{Nejsem hoden ho navštívit. Sbohem.}
-{140}{}{On je posel osvícení. Je to on, kdo slibuje Obrození všem, kteøí ho následují.}
-{141}{}{Mnoo, dy sem tady právì kvùli obrodì. Kde ho najdu?}
-{142}{}{To mi pøipadá jako další pitomost. Já odtud padám.}
-{150}{}{Dobøe, je tam vzadu... Heej! Poèkej, kdo ty vlastnì jsi?}
+{116}{}{Asi jsem na Å¡patnÃ©m mÃ­stÄ›.}
+{120}{}{MÄ›l by ses kouknout nÄ›kam jinam nebo ti Zomak ukÃ¡Å¾e cestu do nebÃ­Äka.}
+{130}{}{Pak ho tedy musÃ­Å¡ navÅ¡tÃ­vit.}
+{131}{}{Jeho? Kde je jeho, chci Å™Ã­ct on?}
+{132}{}{Nejsem hoden ho navÅ¡tÃ­vit. Sbohem.}
+{140}{}{On je posel osvÃ­cenÃ­. Je to on, kdo slibuje ObrozenÃ­ vÅ¡em, kteÅ™Ã­ ho nÃ¡sledujÃ­.}
+{141}{}{Mnoo, dyÅ¥ sem tady prÃ¡vÄ› kvÅ¯li obrodÄ›. Kde ho najdu?}
+{142}{}{To mi pÅ™ipadÃ¡ jako dalÅ¡Ã­ pitomost. JÃ¡ odtud padÃ¡m.}
+{150}{}{DobÅ™e, je tam vzadu... Heej! PoÄkej, kdo ty vlastnÄ› jsi?}
 {151}{}{Jenom cestovatel.}
-{152}{}{Jsem Vyvolenı.}
-{153}{}{Jsem tu kvùli Obrození.}
-{154}{}{To bude dobrı. Jenom se ho musím zeptat na pár otázek.}
-{160}{}{Dobøe ty jeden cestovateli, tak potom teda odtud hezky rychle vypadni.}
-{161}{}{Hm, oukej. U mizím.}
-{170}{}{Dobøe, v tom pøípadì... mùeš vstoupit. Je hned ve vedlejší místnosti. Nenech ho èekat.}
-{171}{}{Nenechám. Jdu rovnou za ním. Mìj se.}
-{172}{}{Pøijdu pozdìji. Sbohem.}
-{180}{}{Mnoo, mìl by si radši odejít. Vypadni odtud.}
-{181}{}{Dobøe.}
-{200}{}{Ano, všichni se mùete obrodit uvnitø.}
-{201}{}{Dobøe.}
-{210}{}{Coo? Co tím myslíš? Nejsi ty blbec?}
+{152}{}{Jsem VyvolenÃ½.}
+{153}{}{Jsem tu kvÅ¯li ObrozenÃ­.}
+{154}{}{To bude dobrÃ½. Jenom se ho musÃ­m zeptat na pÃ¡r otÃ¡zek.}
+{160}{}{DobÅ™e ty jeden cestovateli, tak potom teda odtud hezky rychle vypadni.}
+{161}{}{Hm, oukej. UÅ¾ mizÃ­m.}
+{170}{}{DobÅ™e, v tom pÅ™Ã­padÄ›... mÅ¯Å¾eÅ¡ vstoupit. Je hned ve vedlejÅ¡Ã­ mÃ­stnosti. Nenech ho Äekat.}
+{171}{}{NenechÃ¡m. Jdu rovnou za nÃ­m. MÄ›j se.}
+{172}{}{PÅ™ijdu pozdÄ›ji. Sbohem.}
+{180}{}{Mnoo, mÄ›l by si radÅ¡i odejÃ­t. Vypadni odtud.}
+{181}{}{DobÅ™e.}
+{200}{}{Ano, vÅ¡ichni se mÅ¯Å¾ete obrodit uvnitÅ™.}
+{201}{}{DobÅ™e.}
+{210}{}{Coo? Co tÃ­m myslÃ­Å¡? Nejsi ty blbec?}
 {211}{}{Blbec?}
-{220}{}{Vypadni odsud. Brain nemá èas na takovı blbeèky, jako jsi ty.}
+{220}{}{Vypadni odsud. Brain nemÃ¡ Äas na takovÃ½ blbeÄky, jako jsi ty.}
 {221}{}{OK. I'll be going now.}
-{230}{}{Hele tam dole není nic, jenom Brainovo doupì. Chlapèe, ty si vyloenì koleduješ.}
+{230}{}{Hele tam dole nenÃ­ nic, jenom Brainovo doupÄ›. ChlapÄe, ty si vyloÅ¾enÄ› koledujeÅ¡.}
 {231}{}{Brain?}
-{232}{}{Byl to jenom takovı test. Prošel jsi. No a teï mì pus dovnitø.}
-{233}{}{Zdá se, e jsem se spletl. To musí bıt tou radiací. Sbohem.}
-{240}{}{Hej. Eh, tady nic není. Vùbec nic. Take odsud hezky vypadni.}
-{241}{}{Jsi si jistı, e tady nic není?}
+{232}{}{Byl to jenom takovÃ½ test. ProÅ¡el jsi. No a teÄ mÄ› pusÅ¥ dovnitÅ™.}
+{233}{}{ZdÃ¡ se, Å¾e jsem se spletl. To musÃ­ bÃ½t tou radiacÃ­. Sbohem.}
+{240}{}{Hej. Eh, tady nic nenÃ­. VÅ¯bec nic. TakÅ¾e odsud hezky vypadni.}
+{241}{}{Jsi si jistÃ½, Å¾e tady nic nenÃ­?}
 {242}{}{Oukej. Nashle.}
-{250}{}{Joo. Jsem si naprosto jistej. A teï odsud vypadni.}
-{251}{}{Mnoo, kdy to øíká takovej silák jako ty. Nashle.}
-{260}{}{Ooo hehe, jeeee... ehm. Já to vìdìl. Hee, mnnoo a prošel jsem tím testem? }
-{261}{}{Samozøejmì, e jsi prošel. A teï mì pus dovnitø.}
-{262}{}{Ne, neprošel jsi a proto to teï musím nahlásit.}
-{270}{}{Ok. Mùeš tedy vstoupit.}
+{250}{}{Joo. Jsem si naprosto jistej. A teÄ odsud vypadni.}
+{251}{}{Mnoo, kdyÅ¾ to Å™Ã­kÃ¡ takovej silÃ¡k jako ty. Nashle.}
+{260}{}{Ooo hehe, jeeee... ehm. JÃ¡ to vÄ›dÄ›l. Hee, mnnoo a proÅ¡el jsem tÃ­m testem? }
+{261}{}{SamozÅ™ejmÄ›, Å¾e jsi proÅ¡el. A teÄ mÄ› pusÅ¥ dovnitÅ™.}
+{262}{}{Ne, neproÅ¡el jsi a proto to teÄ musÃ­m nahlÃ¡sit.}
+{270}{}{Ok. MÅ¯Å¾eÅ¡ tedy vstoupit.}
 {271}{}{Oukej. Nashle.}
-{280}{}{Vidím, e máš znamení. Mùeš vstoupit.}
-{281}{}{U jdu.}
-{282}{}{Znamení?}
-{283}{}{Tøes se znamení! Sbohem.}
-{290}{}{Ano, posvátnı talisman Obrody. Obroï se kamaráde! Obroï!}
-{291}{}{Jo... taky se tøeba vobroï. Nashle.}
-{300}{}{Obroï se bratøe. Mùeš vstoupit.}
-{301}{}{Obroï se sestro. Mùeš vstoupit.}
+{280}{}{VidÃ­m, Å¾e mÃ¡Å¡ znamenÃ­. MÅ¯Å¾eÅ¡ vstoupit.}
+{281}{}{UÅ¾ jdu.}
+{282}{}{ZnamenÃ­?}
+{283}{}{TÅ™es se znamenÃ­! Sbohem.}
+{290}{}{Ano, posvÃ¡tnÃ½ talisman Obrody. ObroÄ se kamarÃ¡de! ObroÄ!}
+{291}{}{Jo... taky se tÅ™eba vobroÄ. Nashle.}
+{300}{}{ObroÄ se bratÅ™e. MÅ¯Å¾eÅ¡ vstoupit.}
+{301}{}{ObroÄ se sestro. MÅ¯Å¾eÅ¡ vstoupit.}

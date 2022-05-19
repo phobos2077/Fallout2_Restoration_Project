@@ -1,68 +1,68 @@
-{100}{}{Vidíš vùdce Svìtloplachù.}
-{101}{}{Vidíš Vegeira.}
-{102}{}{Vysokı, statnı mu. Jeho pohyby ti pøipomínají koèku èíhající na svou koøist.}
-{150}{}{Mùeš odejít padacími dveømi v zadní èásti budovy.}
-{151}{}{Prosím, doruè tu zprávu do Modocu.}
-{152}{}{Modoc leí na jihu.}
+{100}{}{VidÃ­Å¡ vÅ¯dce SvÄ›tloplachÅ¯.}
+{101}{}{VidÃ­Å¡ Vegeira.}
+{102}{}{VysokÃ½, statnÃ½ muÅ¾. Jeho pohyby ti pÅ™ipomÃ­najÃ­ koÄku ÄÃ­hajÃ­cÃ­ na svou koÅ™ist.}
+{150}{}{MÅ¯Å¾eÅ¡ odejÃ­t padacÃ­mi dveÅ™mi v zadnÃ­ ÄÃ¡sti budovy.}
+{151}{}{ProsÃ­m, doruÄ tu zprÃ¡vu do Modocu.}
+{152}{}{Modoc leÅ¾Ã­ na jihu.}
 {153}{}{Jih.}
-{154}{}{Ne, ten druhı jih.}
-{155}{}{Á, návštìvník, právì vhod. Uvaoval jsem o zpùsobu, jak kontaktovat lidi na povrchu, ale díky tvému pøíchodu se tím u nemusím zabıvat. Vítej v sídle Svìtloplachù.}
-{156}{}{Dobøe, e jsi zpìt. Pøedpokládám, e byla zpráva doruèena do Modocu. Jak ji pøijali?}
-{157}{}{Potøebují èas na rozmyšlenou.}
-{158}{}{Mají nìjaké vıhrady.}
-{159}{}{Chci vzít Jonnyho domù k rodièùm.}
-{160}{}{Chceš nám tedy pomoct?}
-{161}{}{Nejdøív se tì chci na nìco zeptat.}
-{162}{}{Odpovìï je stále NE.}
-{163}{}{Moje rozhodnutí je, e vám pomùu.}
-{165}{}{Díky za pomoc. Vdy tì tu rádi uvítáme. A za tvé sluby ti nabízím tuto odmìnu. (Vegeir ti podá útoènou pušku.)}
-{166}{}{Díky za pomoc. Vdy tì tu rádi uvítáme.}
-{167}{}{Mohl by se Jonny vrátit domù k rodièùm?}
-{168}{}{Omlouvám se za nepøíjemné okolnosti, za kterıch se potkáváme. Obvykle by se tì snaili Ochránci zastrašit. Chøestìní øetìzù a zoufalı náøek vìtšinou kadého zaene pryè, ale teï mají pøíkazy, aby ke mnì pøivedli kadého ze shora, na koho narazí.}
-{169}{}{To je v poøádku. Já u pùjdu.}
-{170}{}{Co ode mnì chcete?}
-{171}{}{Duchové?}
-{172}{}{Pùjdeš, A ti to dovolím. Døív NE.}
-{173}{}{Jednoduchı úkol. Potøebujeme se spojit s mìstem na jihozápadì. Domnívám se, e se jmenuje "Modoc". Udìláš to pro nás?}
-{174}{}{A co z toho budu mít?}
-{175}{}{Chci se zeptat na pár vìcí, ne tenhle úkol pøijmu.}
-{176}{}{Tak dobøe. Ani bych neoèekával, e od cizincù jen tak pøijmeš úkol, ani bys o nich nìco vìdìl. Ptej se, povím ti všechno, co vím.}
-{177}{}{Proè nepošlete nìkoho z vašich lidí, aby doruèili zprávu?}
-{178}{}{Povìz mi o tvıch lidech.}
-{179}{}{Jaká je vaše obrana?}
-{180}{}{To u by staèilo. Chci se rozhodnout.}
+{154}{}{Ne, ten druhÃ½ jih.}
+{155}{}{Ã, nÃ¡vÅ¡tÄ›vnÃ­k, prÃ¡vÄ› vhod. UvaÅ¾oval jsem o zpÅ¯sobu, jak kontaktovat lidi na povrchu, ale dÃ­ky tvÃ©mu pÅ™Ã­chodu se tÃ­m uÅ¾ nemusÃ­m zabÃ½vat. VÃ­tej v sÃ­dle SvÄ›tloplachÅ¯.}
+{156}{}{DobÅ™e, Å¾e jsi zpÄ›t. PÅ™edpoklÃ¡dÃ¡m, Å¾e byla zprÃ¡va doruÄena do Modocu. Jak ji pÅ™ijali?}
+{157}{}{PotÅ™ebujÃ­ Äas na rozmyÅ¡lenou.}
+{158}{}{MajÃ­ nÄ›jakÃ© vÃ½hrady.}
+{159}{}{Chci vzÃ­t Jonnyho domÅ¯ k rodiÄÅ¯m.}
+{160}{}{ChceÅ¡ nÃ¡m tedy pomoct?}
+{161}{}{NejdÅ™Ã­v se tÄ› chci na nÄ›co zeptat.}
+{162}{}{OdpovÄ›Ä je stÃ¡le NE.}
+{163}{}{Moje rozhodnutÃ­ je, Å¾e vÃ¡m pomÅ¯Å¾u.}
+{165}{}{DÃ­ky za pomoc. VÅ¾dy tÄ› tu rÃ¡di uvÃ­tÃ¡me. A za tvÃ© sluÅ¾by ti nabÃ­zÃ­m tuto odmÄ›nu. (Vegeir ti podÃ¡ ÃºtoÄnou puÅ¡ku.)}
+{166}{}{DÃ­ky za pomoc. VÅ¾dy tÄ› tu rÃ¡di uvÃ­tÃ¡me.}
+{167}{}{Mohl by se Jonny vrÃ¡tit domÅ¯ k rodiÄÅ¯m?}
+{168}{}{OmlouvÃ¡m se za nepÅ™Ã­jemnÃ© okolnosti, za kterÃ½ch se potkÃ¡vÃ¡me. Obvykle by se tÄ› snaÅ¾ili OchrÃ¡nci zastraÅ¡it. ChÅ™estÄ›nÃ­ Å™etÄ›zÅ¯ a zoufalÃ½ nÃ¡Å™ek vÄ›tÅ¡inou kaÅ¾dÃ©ho zaÅ¾ene pryÄ, ale teÄ majÃ­ pÅ™Ã­kazy, aby ke mnÄ› pÅ™ivedli kaÅ¾dÃ©ho ze shora, na koho narazÃ­.}
+{169}{}{To je v poÅ™Ã¡dku. JÃ¡ uÅ¾ pÅ¯jdu.}
+{170}{}{Co ode mnÄ› chcete?}
+{171}{}{DuchovÃ©?}
+{172}{}{PÅ¯jdeÅ¡, AÅ½ ti to dovolÃ­m. DÅ™Ã­v NE.}
+{173}{}{JednoduchÃ½ Ãºkol. PotÅ™ebujeme se spojit s mÄ›stem na jihozÃ¡padÄ›. DomnÃ­vÃ¡m se, Å¾e se jmenuje "Modoc". UdÄ›lÃ¡Å¡ to pro nÃ¡s?}
+{174}{}{A co z toho budu mÃ­t?}
+{175}{}{Chci se zeptat na pÃ¡r vÄ›cÃ­, neÅ¾ tenhle Ãºkol pÅ™ijmu.}
+{176}{}{Tak dobÅ™e. Ani bych neoÄekÃ¡val, Å¾e od cizincÅ¯ jen tak pÅ™ijmeÅ¡ Ãºkol, aniÅ¾ bys o nich nÄ›co vÄ›dÄ›l. Ptej se, povÃ­m ti vÅ¡echno, co vÃ­m.}
+{177}{}{ProÄ nepoÅ¡lete nÄ›koho z vaÅ¡ich lidÃ­, aby doruÄili zprÃ¡vu?}
+{178}{}{PovÄ›z mi o tvÃ½ch lidech.}
+{179}{}{JakÃ¡ je vaÅ¡e obrana?}
+{180}{}{To uÅ¾ by staÄilo. Chci se rozhodnout.}
 {181}{}{Ptej se.}
-{190}{}{Proè jste se vrátili na povrch?}
-{191}{}{Proè ta velká maškaráda s duchy na povrchu?}
-{192}{}{Co je úèelem té zprávy?}
-{194}{}{Od Uzavøení jsme se jako lidé zmìnili. Jen málo z nás dokáe snést pobyt na povrchu, protoe nejsme zvyklí mít nad sebou èerné moøe nicoty. Hrùza z pádu vzhùru je pro nás tak silná, e leíme úplnì pøimraení k zemi, neschopni pohybu. Ale to není ten hlavní dùvod. Nikdo z nás nedokáe vydret to jasné svìtlo, které vy nazıváte Slunce. Díky dlouhodobému ivotu pod zemí jsou naše oèi pøíliš citlivé na svìtlo. Nemùeme cestovat daleko od bezpeèí našich domovù pod zemí.}
-{195}{}{Mùu mít ještì pár otázek?}
-{197}{}{Kdysi dávno jsme byli jako lidé na povrchu. Také jsme ili nad zemí, dokud poár nezachvátil svìt. Naši pøedci, je byli souèástí tajné domobrany, se uzavøeli se svımi rodinami tady dole, aby se zachránili. Celé generace jsme ili zde, bezpeènì ukryti v lùnì Matky Zemì.}
-{200}{}{Poèet našich obyvatel od Uzavøení stále stoupal. Brzy bylo jasné, e nemùeme dále pøeít bez dalších zásob. Tak byla Peèe rozlomena a my jsme se znovu vydali na povrch, abychom pøeili.}
-{203}{}{Pøed lety se nìkdo pokoušel pøevzít naši farmu, sklízet plodiny a krást naše zvíøata. My nejsme od pøírody násilníci, ale bylo nutné s tím nìco udìlat. Vdy na tìchto sklizních záleelo naše pøeití. A tehdy jsme si vymysleli duchy. Po natøení se svìtélkujícími houbami jsme mohli krásnì odstrašit zlodìje a další slídivé sousedy. Bohuel to bylo a pøíliš úèinné. V poslední dobì jsme se snaili kontaktovat lidi ijící na povrchu, ale nikdo u na farmu nechodí kvùli strachu z duchù. Naštìstí jsi tu teï ty.}
-{206}{}{Tak dost! U ádné další otázky. Rozhodni se hned!}
-{207}{}{Je mi líto, ale nemùu vám pomoct.}
-{208}{}{Ano, s radostí doruèím vaši zprávu do Modocu.}
-{209}{}{To nerad slyším. Prosím, povauj se za hosta Svìtloplachù. A se nám podaøí navázat kontakt s lidmi na povrchu, budeš moct odejít. Do té doby se nepokoušej opustit jeskynì, následky by byly nepøíjemné.}
-{210}{}{Produkce potravin pøekraèuje naše potøeby díky dokonèení novıch zavlaovacích systémù. Rádi bychom zaèali obchodovat s lidmi nahoøe a vymìnili své pøebytky potravin za potøebné léky.}
-{213}{}{Prosím, sdìl nám své rozhodnutí.}
-{216}{}{Vìdìl jsem, e nás pochopíš. Zde je zpráva obsahující naše poadavky. Prosím, doruè ji do Modocu a pøedej pøíslušné osobì. A ten úkol dokonèíš, vra se zpìt. Øeknu Ochráncùm, aby oèekávali tvùj návrat. Dìkujeme ti za tuto slubu.}
-{217}{}{Jak typické pro lidi z povrchu. Nikdy neudìlají nic pro druhého, pokud z toho nemají osobní prospìch. Samozøejmì nemùeme vìøit nìkomu, jako jsi ty. Najdeme tedy nìkoho jiného, kdo doruèí zprávu. Aèkoliv nejsme násilníci, nepokoušej se opustit jeskynì, jinak toho budeš litovat.}
-{218}{}{Hmm... chápu. Takové rozhodnutí není jednoduché. Informuj mì prosím o jakékoliv novince.}
-{219}{}{V tom pøípadì mì u neobtìuj.}
-{220}{}{Jaké?}
-{221}{}{Nevìøí vám. Myslí si, e zabíjíte kolemjdoucí a nabodáváte jejich tìla na kùly pøed farmou.}
-{222}{}{Chtìjí vìdìt, co se stalo farmáøovi, kterı tady il.}
-{223}{}{Jsme mírumilovní lidé a nikoho jsme nezabili. Ty tìla jsou jenom atrapy, které jsme vyrobili, abychom zastrašili zlodìje. Kdy si je pozornì prohlédneš, zjistíš, e to jsou jen figuríny obalené brahmíními vnitønostmi.}
-{224}{}{A co chudák Karl? Ten farmáø, kterı il na farmì?}
-{225}{}{Tak se jmenoval? Karl? My jsme ho jen vystrnadili z farmy, nic víc. Pøedpokládám, e se vrátil domù, kdy zjistil, e na farmì straší. Ochránci ho vidìli jít na západ. Mùeš ho tam jít zkusit hledat.}
-{226}{}{Dobrá, budu vás informovat o novinkách.}
-{227}{}{My jsme ho jen vystrnadili z farmy, nic víc. Pøedpokládám, e se vrátil domù, kdy zjistil, e na farmì straší. Ochránci ho vidìli jít na západ. Mùeš ho tam jít zkusit hledat.}
-{231}{}{Vidím, e ses setkal s Jonnym. Nalezli jsme ho, kdy bloudil v temnotách jednoho z našich nejhlubších tunelù. Øíkal, e spadl do vyschlé studny u svého domova a pak byl uvìznìnı v tunelu poblí zavaliny. Starali jsme se o nìj jako o vlastního a všichni ho tady mají rádi, take chápeš, e jsem opatrnı, kdy ho mám svìøit cizinci, kterı mi ještì neprokázal svoji dùvìryhodnost. Vrátím Jonnyho, a se ujistím, e se bezpeènì dostane domù.}
-{232}{}{Mám v tobì ji plnou dùvìru. Pøestoe zde budeme malého Jonnyho velmi postrádat, pøipravili jsme pro vás dva doprovod do Modocu.}
-{233}{}{Propána! ádnı div, e tì naše malé triky nevydìsily. Jsi pøíliš hloupı na to, ne aby tì nìco takového vydìsilo. Nerad se spoléhám na takto mentálnì zaostalé jedince, ale potøebujeme tvoje sluby. Doruè tuto zprávu do Modocu. Pøedej ji vùdci Modocu a zkus se pøi tom neztratit.}
-{300}{}{U pùjdu.}
-{301}{}{Co ode mnì chcete?}
+{190}{}{ProÄ jste se vrÃ¡tili na povrch?}
+{191}{}{ProÄ ta velkÃ¡ maÅ¡karÃ¡da s duchy na povrchu?}
+{192}{}{Co je ÃºÄelem tÃ© zprÃ¡vy?}
+{194}{}{Od UzavÅ™enÃ­ jsme se jako lidÃ© zmÄ›nili. Jen mÃ¡lo z nÃ¡s dokÃ¡Å¾e snÃ©st pobyt na povrchu, protoÅ¾e nejsme zvyklÃ­ mÃ­t nad sebou ÄernÃ© moÅ™e nicoty. HrÅ¯za z pÃ¡du vzhÅ¯ru je pro nÃ¡s tak silnÃ¡, Å¾e leÅ¾Ã­me ÃºplnÄ› pÅ™imraÅ¾enÃ­ k zemi, neschopni pohybu. Ale to nenÃ­ ten hlavnÃ­ dÅ¯vod. Nikdo z nÃ¡s nedokÃ¡Å¾e vydrÅ¾et to jasnÃ© svÄ›tlo, kterÃ© vy nazÃ½vÃ¡te Slunce. DÃ­ky dlouhodobÃ©mu Å¾ivotu pod zemÃ­ jsou naÅ¡e oÄi pÅ™Ã­liÅ¡ citlivÃ© na svÄ›tlo. NemÅ¯Å¾eme cestovat daleko od bezpeÄÃ­ naÅ¡ich domovÅ¯ pod zemÃ­.}
+{195}{}{MÅ¯Å¾u mÃ­t jeÅ¡tÄ› pÃ¡r otÃ¡zek?}
+{197}{}{Kdysi dÃ¡vno jsme byli jako lidÃ© na povrchu. TakÃ© jsme Å¾ili nad zemÃ­, dokud poÅ¾Ã¡r nezachvÃ¡til svÄ›t. NaÅ¡i pÅ™edci, jeÅ¾ byli souÄÃ¡stÃ­ tajnÃ© domobrany, se uzavÅ™eli se svÃ½mi rodinami tady dole, aby se zachrÃ¡nili. CelÃ© generace jsme Å¾ili zde, bezpeÄnÄ› ukryti v lÅ¯nÄ› Matky ZemÄ›.}
+{200}{}{PoÄet naÅ¡ich obyvatel od UzavÅ™enÃ­ stÃ¡le stoupal. Brzy bylo jasnÃ©, Å¾e nemÅ¯Å¾eme dÃ¡le pÅ™eÅ¾Ã­t bez dalÅ¡Ã­ch zÃ¡sob. Tak byla PeÄeÅ¥ rozlomena a my jsme se znovu vydali na povrch, abychom pÅ™eÅ¾ili.}
+{203}{}{PÅ™ed lety se nÄ›kdo pokouÅ¡el pÅ™evzÃ­t naÅ¡i farmu, sklÃ­zet plodiny a krÃ¡st naÅ¡e zvÃ­Å™ata. My nejsme od pÅ™Ã­rody nÃ¡silnÃ­ci, ale bylo nutnÃ© s tÃ­m nÄ›co udÄ›lat. VÅ¾dyÅ¥ na tÄ›chto skliznÃ­ch zÃ¡leÅ¾elo naÅ¡e pÅ™eÅ¾itÃ­. A tehdy jsme si vymysleli duchy. Po natÅ™enÃ­ se svÄ›tÃ©lkujÃ­cÃ­mi houbami jsme mohli krÃ¡snÄ› odstraÅ¡it zlodÄ›je a dalÅ¡Ã­ slÃ­divÃ© sousedy. BohuÅ¾el to bylo aÅ¾ pÅ™Ã­liÅ¡ ÃºÄinnÃ©. V poslednÃ­ dobÄ› jsme se snaÅ¾ili kontaktovat lidi Å¾ijÃ­cÃ­ na povrchu, ale nikdo uÅ¾ na farmu nechodÃ­ kvÅ¯li strachu z duchÅ¯. NaÅ¡tÄ›stÃ­ jsi tu teÄ ty.}
+{206}{}{Tak dost! UÅ¾ Å¾Ã¡dnÃ© dalÅ¡Ã­ otÃ¡zky. Rozhodni se hned!}
+{207}{}{Je mi lÃ­to, ale nemÅ¯Å¾u vÃ¡m pomoct.}
+{208}{}{Ano, s radostÃ­ doruÄÃ­m vaÅ¡i zprÃ¡vu do Modocu.}
+{209}{}{To nerad slyÅ¡Ã­m. ProsÃ­m, povaÅ¾uj se za hosta SvÄ›tloplachÅ¯. AÅ¾ se nÃ¡m podaÅ™Ã­ navÃ¡zat kontakt s lidmi na povrchu, budeÅ¡ moct odejÃ­t. Do tÃ© doby se nepokouÅ¡ej opustit jeskynÄ›, nÃ¡sledky by byly nepÅ™Ã­jemnÃ©.}
+{210}{}{Produkce potravin pÅ™ekraÄuje naÅ¡e potÅ™eby dÃ­ky dokonÄenÃ­ novÃ½ch zavlaÅ¾ovacÃ­ch systÃ©mÅ¯. RÃ¡di bychom zaÄali obchodovat s lidmi nahoÅ™e a vymÄ›nili svÃ© pÅ™ebytky potravin za potÅ™ebnÃ© lÃ©ky.}
+{213}{}{ProsÃ­m, sdÄ›l nÃ¡m svÃ© rozhodnutÃ­.}
+{216}{}{VÄ›dÄ›l jsem, Å¾e nÃ¡s pochopÃ­Å¡. Zde je zprÃ¡va obsahujÃ­cÃ­ naÅ¡e poÅ¾adavky. ProsÃ­m, doruÄ ji do Modocu a pÅ™edej pÅ™Ã­sluÅ¡nÃ© osobÄ›. AÅ¾ ten Ãºkol dokonÄÃ­Å¡, vraÅ¥ se zpÄ›t. Å˜eknu OchrÃ¡ncÅ¯m, aby oÄekÃ¡vali tvÅ¯j nÃ¡vrat. DÄ›kujeme ti za tuto sluÅ¾bu.}
+{217}{}{Jak typickÃ© pro lidi z povrchu. Nikdy neudÄ›lajÃ­ nic pro druhÃ©ho, pokud z toho nemajÃ­ osobnÃ­ prospÄ›ch. SamozÅ™ejmÄ› nemÅ¯Å¾eme vÄ›Å™it nÄ›komu, jako jsi ty. Najdeme tedy nÄ›koho jinÃ©ho, kdo doruÄÃ­ zprÃ¡vu. AÄkoliv nejsme nÃ¡silnÃ­ci, nepokouÅ¡ej se opustit jeskynÄ›, jinak toho budeÅ¡ litovat.}
+{218}{}{Hmm... chÃ¡pu. TakovÃ© rozhodnutÃ­ nenÃ­ jednoduchÃ©. Informuj mÄ› prosÃ­m o jakÃ©koliv novince.}
+{219}{}{V tom pÅ™Ã­padÄ› mÄ› uÅ¾ neobtÄ›Å¾uj.}
+{220}{}{JakÃ©?}
+{221}{}{NevÄ›Å™Ã­ vÃ¡m. MyslÃ­ si, Å¾e zabÃ­jÃ­te kolemjdoucÃ­ a nabodÃ¡vÃ¡te jejich tÄ›la na kÅ¯ly pÅ™ed farmou.}
+{222}{}{ChtÄ›jÃ­ vÄ›dÄ›t, co se stalo farmÃ¡Å™ovi, kterÃ½ tady Å¾il.}
+{223}{}{Jsme mÃ­rumilovnÃ­ lidÃ© a nikoho jsme nezabili. Ty tÄ›la jsou jenom atrapy, kterÃ© jsme vyrobili, abychom zastraÅ¡ili zlodÄ›je. KdyÅ¾ si je pozornÄ› prohlÃ©dneÅ¡, zjistÃ­Å¡, Å¾e to jsou jen figurÃ­ny obalenÃ© brahmÃ­nÃ­mi vnitÅ™nostmi.}
+{224}{}{A co chudÃ¡k Karl? Ten farmÃ¡Å™, kterÃ½ Å¾il na farmÄ›?}
+{225}{}{Tak se jmenoval? Karl? My jsme ho jen vystrnadili z farmy, nic vÃ­c. PÅ™edpoklÃ¡dÃ¡m, Å¾e se vrÃ¡til domÅ¯, kdyÅ¾ zjistil, Å¾e na farmÄ› straÅ¡Ã­. OchrÃ¡nci ho vidÄ›li jÃ­t na zÃ¡pad. MÅ¯Å¾eÅ¡ ho tam jÃ­t zkusit hledat.}
+{226}{}{DobrÃ¡, budu vÃ¡s informovat o novinkÃ¡ch.}
+{227}{}{My jsme ho jen vystrnadili z farmy, nic vÃ­c. PÅ™edpoklÃ¡dÃ¡m, Å¾e se vrÃ¡til domÅ¯, kdyÅ¾ zjistil, Å¾e na farmÄ› straÅ¡Ã­. OchrÃ¡nci ho vidÄ›li jÃ­t na zÃ¡pad. MÅ¯Å¾eÅ¡ ho tam jÃ­t zkusit hledat.}
+{231}{}{VidÃ­m, Å¾e ses setkal s Jonnym. Nalezli jsme ho, kdyÅ¾ bloudil v temnotÃ¡ch jednoho z naÅ¡ich nejhlubÅ¡Ã­ch tunelÅ¯. Å˜Ã­kal, Å¾e spadl do vyschlÃ© studny u svÃ©ho domova a pak byl uvÄ›znÄ›nÃ½ v tunelu poblÃ­Å¾ zavaliny. Starali jsme se o nÄ›j jako o vlastnÃ­ho a vÅ¡ichni ho tady majÃ­ rÃ¡di, takÅ¾e chÃ¡peÅ¡, Å¾e jsem opatrnÃ½, kdyÅ¾ ho mÃ¡m svÄ›Å™it cizinci, kterÃ½ mi jeÅ¡tÄ› neprokÃ¡zal svoji dÅ¯vÄ›ryhodnost. VrÃ¡tÃ­m Jonnyho, aÅ¾ se ujistÃ­m, Å¾e se bezpeÄnÄ› dostane domÅ¯.}
+{232}{}{MÃ¡m v tobÄ› jiÅ¾ plnou dÅ¯vÄ›ru. PÅ™estoÅ¾e zde budeme malÃ©ho Jonnyho velmi postrÃ¡dat, pÅ™ipravili jsme pro vÃ¡s dva doprovod do Modocu.}
+{233}{}{PropÃ¡na! Å½Ã¡dnÃ½ div, Å¾e tÄ› naÅ¡e malÃ© triky nevydÄ›sily. Jsi pÅ™Ã­liÅ¡ hloupÃ½ na to, neÅ¾ aby tÄ› nÄ›co takovÃ©ho vydÄ›silo. Nerad se spolÃ©hÃ¡m na takto mentÃ¡lnÄ› zaostalÃ© jedince, ale potÅ™ebujeme tvoje sluÅ¾by. DoruÄ tuto zprÃ¡vu do Modocu. PÅ™edej ji vÅ¯dci Modocu a zkus se pÅ™i tom neztratit.}
+{300}{}{UÅ¾ pÅ¯jdu.}
+{301}{}{Co ode mnÄ› chcete?}
 {302}{}{Nashle.}
-{303}{}{Duchové?}
-{400}{}{Zpráva byla pøijata kladnì. Obyvatelé Modocu chtìjí obchodovat s tvımi lidmi.}
+{303}{}{DuchovÃ©?}
+{400}{}{ZprÃ¡va byla pÅ™ijata kladnÄ›. ObyvatelÃ© Modocu chtÄ›jÃ­ obchodovat s tvÃ½mi lidmi.}

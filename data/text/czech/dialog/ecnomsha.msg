@@ -1,51 +1,51 @@
-{100}{}{Vidíš nomádského šamana.}
-{101}{}{Vypadá jako nomádskı šaman.}
-{102}{}{Z jeho obleèení je cítit silná vùnì bylin.}
-{103}{}{Buï zdráv, cizinèe. Jsem šaman tohoto kmene. Ovládám léèitelské umìní.}
-{104}{}{Zdravím.}
-{105}{}{Potøebuju vyléèit.}
-{106}{}{Umíš smíchat koøen Xanderu s kvìtinou Broc?}
+{100}{}{VidÃ­Å¡ nomÃ¡dskÃ©ho Å¡amana.}
+{101}{}{VypadÃ¡ jako nomÃ¡dskÃ½ Å¡aman.}
+{102}{}{Z jeho obleÄenÃ­ je cÃ­tit silnÃ¡ vÅ¯nÄ› bylin.}
+{103}{}{BuÄ zdrÃ¡v, cizinÄe. Jsem Å¡aman tohoto kmene. OvlÃ¡dÃ¡m lÃ©ÄitelskÃ© umÄ›nÃ­.}
+{104}{}{ZdravÃ­m.}
+{105}{}{PotÅ™ebuju vylÃ©Äit.}
+{106}{}{UmÃ­Å¡ smÃ­chat koÅ™en Xanderu s kvÄ›tinou Broc?}
 {107}{}{Nashle.}
 {108}{}{Ooga.}
-{109}{}{Stùj klidnì a já tì vyšetøím.}
-{110}{}{[Pokraèovat]}
-{111}{}{Objevil jsem následující choroby.}
-{112}{}{Mùeš mi pomoct?}
-{113}{}{Následující èinnosti provádím za poplatek:}
-{114}{}{Dostaò jed z mého tìla, prosím.}
-{115}{}{Prosím, uzdrav mì.}
-{116}{}{Podívej se, jestli dokáeš nìco udìlat s tou zlomeninou.}
+{109}{}{StÅ¯j klidnÄ› a jÃ¡ tÄ› vyÅ¡etÅ™Ã­m.}
+{110}{}{[PokraÄovat]}
+{111}{}{Objevil jsem nÃ¡sledujÃ­cÃ­ choroby.}
+{112}{}{MÅ¯Å¾eÅ¡ mi pomoct?}
+{113}{}{NÃ¡sledujÃ­cÃ­ Äinnosti provÃ¡dÃ­m za poplatek:}
+{114}{}{DostaÅˆ jed z mÃ©ho tÄ›la, prosÃ­m.}
+{115}{}{ProsÃ­m, uzdrav mÄ›.}
+{116}{}{PodÃ­vej se, jestli dokÃ¡Å¾eÅ¡ nÄ›co udÄ›lat s tou zlomeninou.}
 {117}{}{Nashle.}
-{118}{}{Tvá zranìní byla vyléèena.}
-{119}{}{Tvá zranìní byla vyléèena.}
-{120}{}{Tvá zranìní byla vyléèena.}
-{121}{}{Potøebuju tvé dovednosti.}
-{122}{}{Dìkuju. Cítím se teï o hodnì lépe. Nahle.}
-{123}{}{Mé dovednosti jsou omezené. Víc u ti s tím nepomùu.}
-{124}{}{[Pokraèovat]}
-{125}{}{Nepotøebuješ tento typ léèení.}
-{126}{}{[Pokraèovat]}
-{127}{}{Ááá...ty znáš léèebné úèinky tìchto dvou rostlin. Bude tì to stát jenom }
-{128}{}{Smíchej pro mì prosím tyto dvì rostliny.}
-{129}{}{Moná pozdìji. Nashle.}
-{130}{}{(Díváš se, jak opatrnì drtí a smíchá dvì rostliny a poté ti podá pøesnì odmìøené dávky prášku.)}
+{118}{}{TvÃ¡ zranÄ›nÃ­ byla vylÃ©Äena.}
+{119}{}{TvÃ¡ zranÄ›nÃ­ byla vylÃ©Äena.}
+{120}{}{TvÃ¡ zranÄ›nÃ­ byla vylÃ©Äena.}
+{121}{}{PotÅ™ebuju tvÃ© dovednosti.}
+{122}{}{DÄ›kuju. CÃ­tÃ­m se teÄ o hodnÄ› lÃ©pe. Nahle.}
+{123}{}{MÃ© dovednosti jsou omezenÃ©. VÃ­c uÅ¾ ti s tÃ­m nepomÅ¯Å¾u.}
+{124}{}{[PokraÄovat]}
+{125}{}{NepotÅ™ebujeÅ¡ tento typ lÃ©ÄenÃ­.}
+{126}{}{[PokraÄovat]}
+{127}{}{ÃÃ¡Ã¡...ty znÃ¡Å¡ lÃ©ÄebnÃ© ÃºÄinky tÄ›chto dvou rostlin. Bude tÄ› to stÃ¡t jenom }
+{128}{}{SmÃ­chej pro mÄ› prosÃ­m tyto dvÄ› rostliny.}
+{129}{}{MoÅ¾nÃ¡ pozdÄ›ji. Nashle.}
+{130}{}{(DÃ­vÃ¡Å¡ se, jak opatrnÄ› drtÃ­ a smÃ­chÃ¡ dvÄ› rostliny a potÃ© ti podÃ¡ pÅ™esnÄ› odmÄ›Å™enÃ© dÃ¡vky prÃ¡Å¡ku.)}
 {131}{}{Nashle.}
-{132}{}{Zdá se, e nemáš dost penìz. Vra se, a bude tvoje penìenka naditìjší.}
+{132}{}{ZdÃ¡ se, Å¾e nemÃ¡Å¡ dost penÄ›z. VraÅ¥ se, aÅ¾ bude tvoje penÄ›Å¾enka naditÄ›jÅ¡Ã­.}
 {133}{}{[KONEC]}
-{134}{}{Nemám èas na takové hlouposti. Odejdi!}
+{134}{}{NemÃ¡m Äas na takovÃ© hlouposti. Odejdi!}
 {135}{}{[KONEC]}
 {136}{}{[Otrava]}
-{137}{}{[Zranìní]}
-{138}{}{[Ozáøení]}
-{139}{}{[Zmrzaèení]}
-{140}{}{Léèení otrav,}
-{141}{}{Vyléèení zmrzaèenıch konèetin,}
-{142}{}{Uzdravování $}
-{143}{}{Nevìøící!}
-{144}{}{Proè na nás útoèíš?}
-{145}{}{Budu bránit svùj kmen do poslední kapky krve!}
-{146}{}{Jak se opovauješ zneuít mé pohostinnosti!}
+{137}{}{[ZranÄ›nÃ­]}
+{138}{}{[OzÃ¡Å™enÃ­]}
+{139}{}{[ZmrzaÄenÃ­]}
+{140}{}{LÃ©ÄenÃ­ otrav,}
+{141}{}{VylÃ©ÄenÃ­ zmrzaÄenÃ½ch konÄetin,}
+{142}{}{UzdravovÃ¡nÃ­ $}
+{143}{}{NevÄ›Å™Ã­cÃ­!}
+{144}{}{ProÄ na nÃ¡s ÃºtoÄÃ­Å¡?}
+{145}{}{Budu brÃ¡nit svÅ¯j kmen do poslednÃ­ kapky krve!}
+{146}{}{Jak se opovaÅ¾ujeÅ¡ zneuÅ¾Ã­t mÃ© pohostinnosti!}
 {147}{}{Zmiz!}
-{148}{}{Nech nás na pokoji.}
-{149}{}{Jsme mírumilovnı kmen.}
-{150}{}{ a já je pro tebe smíchám.}
+{148}{}{Nech nÃ¡s na pokoji.}
+{149}{}{Jsme mÃ­rumilovnÃ½ kmen.}
+{150}{}{ a jÃ¡ je pro tebe smÃ­chÃ¡m.}

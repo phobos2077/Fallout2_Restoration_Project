@@ -1,56 +1,56 @@
-{100}{}{Vidíš vysokého štíhlého mue.}
-{101}{}{Vidíš Matta.}
-{102}{}{Vidíš vysokého štíhlého mue s krátkımi vlasy a divokım pohledem. Cítíš, jak na tebe zírá.}
-{103}{}{Mùu ti s nìèím pomoct, cizinèe?}
-{104}{}{Já ptát otázky?}
+{100}{}{VidÃ­Å¡ vysokÃ©ho Å¡tÃ­hlÃ©ho muÅ¾e.}
+{101}{}{VidÃ­Å¡ Matta.}
+{102}{}{VidÃ­Å¡ vysokÃ©ho Å¡tÃ­hlÃ©ho muÅ¾e s krÃ¡tkÃ½mi vlasy a divokÃ½m pohledem. CÃ­tÃ­Å¡, jak na tebe zÃ­rÃ¡.}
+{103}{}{MÅ¯Å¾u ti s nÄ›ÄÃ­m pomoct, cizinÄe?}
+{104}{}{JÃ¡ ptÃ¡t otÃ¡zky?}
 {105}{}{Nee.}
-{106}{}{Ano, chci se na nìco zeptat.}
-{107}{}{Ne, u musím jít.}
-{108}{}{Co chceš?}
+{106}{}{Ano, chci se na nÄ›co zeptat.}
+{107}{}{Ne, uÅ¾ musÃ­m jÃ­t.}
+{108}{}{Co chceÅ¡?}
 {109}{}{Kdo ty?}
-{110}{}{Ty vìzeò?}
-{111}{}{Já teï jít.}
+{110}{}{Ty vÄ›zeÅˆ?}
+{111}{}{JÃ¡ teÄ jÃ­t.}
 {112}{}{Kdo jsi?}
-{113}{}{Jsi tu vìzeò?}
-{114}{}{Právì jsem na odchodu.}
-{115}{}{Jmenuju se Matt. Záleí na tom vùbec?}
+{113}{}{Jsi tu vÄ›zeÅˆ?}
+{114}{}{PrÃ¡vÄ› jsem na odchodu.}
+{115}{}{Jmenuju se Matt. ZÃ¡leÅ¾Ã­ na tom vÅ¯bec?}
 {116}{}{Ne-e.}
-{117}{}{Hmm. Já jít.}
-{118}{}{Dobøe, tak já pùjdu.}
+{117}{}{Hmm. JÃ¡ jÃ­t.}
+{118}{}{DobÅ™e, tak jÃ¡ pÅ¯jdu.}
 {119}{}{Ani ne.}
-{120}{}{Ano, popravdì øeèeno jsem. Náhodou jsem narazil na tohle místo a byl chycen páraèi. Øekli mi, e se mùu volnì pohybovat na dolních podlaích vaultu, ale nikdy nemùu jít do prvního patra kde je vıchod.}
+{120}{}{Ano, popravdÄ› Å™eÄeno jsem. NÃ¡hodou jsem narazil na tohle mÃ­sto a byl chycen pÃ¡raÄi. Å˜ekli mi, Å¾e se mÅ¯Å¾u volnÄ› pohybovat na dolnÃ­ch podlaÅ¾Ã­ch vaultu, ale nikdy nemÅ¯Å¾u jÃ­t do prvnÃ­ho patra kde je vÃ½chod.}
 {121}{}{Jak to?}
-{122}{}{Dobøe.}
-{123}{}{Já odsud jít.}
+{122}{}{DobÅ™e.}
+{123}{}{JÃ¡ odsud jÃ­t.}
 {124}{}{Jak to?}
 {125}{}{Aha.}
-{126}{}{U pùjdu.}
-{127}{}{Protoe narozdíl od ostatních zde ijících ovcí jsem v nich rozpoznal hrozbu pro lidstvo. Vìdí, e kdybych se odsud dostal, snail bych se je vymazat z povrchu zemského! Podívej: Mùou samostatnì myslet, mùou se uèit a umí èíst a psát u od narození. Jsou rychlí, drsní, vnímaví a smrtící. Pokud se jejich poèty dostateènì zvıší, stanou se velikou hrozbou pro lidstvo. Pøemıšlej o tom. Musí bıt zlikvidováni!}
-{128}{}{Hmm. Ty dávat smysl.}
-{129}{}{Já myslet ty mılit.}
-{130}{}{Moná, e jsou potenciální hrozbou, ale já jim stejnì vìøím.}
-{131}{}{Máš recht. Co s tím udìláme?}
-{132}{}{Sám nemám moc šanci, ale spoleènì se odsud mùeme probojovat. Co ty na to?}
+{126}{}{UÅ¾ pÅ¯jdu.}
+{127}{}{ProtoÅ¾e narozdÃ­l od ostatnÃ­ch zde Å¾ijÃ­cÃ­ch ovcÃ­ jsem v nich rozpoznal hrozbu pro lidstvo. VÄ›dÃ­, Å¾e kdybych se odsud dostal, snaÅ¾il bych se je vymazat z povrchu zemskÃ©ho! PodÃ­vej: MÅ¯Å¾ou samostatnÄ› myslet, mÅ¯Å¾ou se uÄit a umÃ­ ÄÃ­st a psÃ¡t uÅ¾ od narozenÃ­. Jsou rychlÃ­, drsnÃ­, vnÃ­mavÃ­ a smrtÃ­cÃ­. Pokud se jejich poÄty dostateÄnÄ› zvÃ½Å¡Ã­, stanou se velikou hrozbou pro lidstvo. PÅ™emÃ½Å¡lej o tom. MusÃ­ bÃ½t zlikvidovÃ¡ni!}
+{128}{}{Hmm. Ty dÃ¡vat smysl.}
+{129}{}{JÃ¡ myslet ty mÃ½lit.}
+{130}{}{MoÅ¾nÃ¡, Å¾e jsou potenciÃ¡lnÃ­ hrozbou, ale jÃ¡ jim stejnÄ› vÄ›Å™Ã­m.}
+{131}{}{MÃ¡Å¡ recht. Co s tÃ­m udÄ›lÃ¡me?}
+{132}{}{SÃ¡m nemÃ¡m moc Å¡anci, ale spoleÄnÄ› se odsud mÅ¯Å¾eme probojovat. Co ty na to?}
 {133}{}{Ano.}
 {134}{}{Ne.}
-{135}{}{Áááá! Jseš hlupák, e jim vìøíš. Pokud zmìníš názor, vra se.}
+{135}{}{ÃÃ¡Ã¡Ã¡! JseÅ¡ hlupÃ¡k, Å¾e jim vÄ›Å™Ã­Å¡. Pokud zmÄ›nÃ­Å¡ nÃ¡zor, vraÅ¥ se.}
 {136}{}{Nashle.}
-{137}{}{Tak u sis to rozmyslel? Pomùeš mi odsud?}
+{137}{}{Tak uÅ¾ sis to rozmyslel? PomÅ¯Å¾eÅ¡ mi odsud?}
 {138}{}{Ano.}
 {139}{}{Ne.}
-{140}{}{Pøiprav se na poøádnej vıprask!}
-{141}{}{Já nebıt tady kvùli útìk. Já tady protoe nìkdo poškodit hlavní poèítaè. Udìlat ty?}
-{142}{}{Nejsem tu kvùli útìku. Nìkdo sabotoval rozhraní hlavního poèítaèe. Nevíš o tom náhodou nìco?}
-{143}{}{Pøiprav se na poøádnej vıprask!}
-{144}{}{Jo. To já znièil hlasovı modul a potom zablokoval veškerı pøíkazy pøes klávesnici.}
+{140}{}{PÅ™iprav se na poÅ™Ã¡dnej vÃ½prask!}
+{141}{}{JÃ¡ nebÃ½t tady kvÅ¯li ÃºtÄ›k. JÃ¡ tady protoÅ¾e nÄ›kdo poÅ¡kodit hlavnÃ­ poÄÃ­taÄ. UdÄ›lat ty?}
+{142}{}{Nejsem tu kvÅ¯li ÃºtÄ›ku. NÄ›kdo sabotoval rozhranÃ­ hlavnÃ­ho poÄÃ­taÄe. NevÃ­Å¡ o tom nÃ¡hodou nÄ›co?}
+{143}{}{PÅ™iprav se na poÅ™Ã¡dnej vÃ½prask!}
+{144}{}{Jo. To jÃ¡ zniÄil hlasovÃ½ modul a potom zablokoval veÅ¡kerÃ½ pÅ™Ã­kazy pÅ™es klÃ¡vesnici.}
 {145}{}{Jak to?}
-{146}{}{Vault se døív nebo pozdìji zavøe, pokud bude hlavní poèítaè nefunkèní. Bez jídla a vody budou muset páraèi vyrazit do pustin a provádìt nájezdy na lidská obydlí. Èasem budou odhaleni a do posledního zlikvidováni.}
-{147}{}{Lidi tady taky. Oni potøebovat jídlo, vodu. Ty nezáleet na oni?}
-{148}{}{A co ti lidé, co tu ijí, i jejich osud je ti lhostejnı?}
-{149}{}{Ani v nejmenším. Jsou to prostì obìti války.}
-{150}{}{Já teï jít.}
-{151}{}{Já myslet já ty teï zastøelit.}
-{152}{}{Dobrá práce.}
-{153}{}{Aha. U musím jít.}
-{154}{}{Asi tì teï zastøelím. Jsi oèividnì nebezpeènı.}
-{155}{}{Dobrá práce!}
+{146}{}{Vault se dÅ™Ã­v nebo pozdÄ›ji zavÅ™e, pokud bude hlavnÃ­ poÄÃ­taÄ nefunkÄnÃ­. Bez jÃ­dla a vody budou muset pÃ¡raÄi vyrazit do pustin a provÃ¡dÄ›t nÃ¡jezdy na lidskÃ¡ obydlÃ­. ÄŒasem budou odhaleni a do poslednÃ­ho zlikvidovÃ¡ni.}
+{147}{}{Lidi tady taky. Oni potÅ™ebovat jÃ­dlo, vodu. Ty nezÃ¡leÅ¾et na oni?}
+{148}{}{A co ti lidÃ©, co tu Å¾ijÃ­, i jejich osud je ti lhostejnÃ½?}
+{149}{}{Ani v nejmenÅ¡Ã­m. Jsou to prostÄ› obÄ›ti vÃ¡lky.}
+{150}{}{JÃ¡ teÄ jÃ­t.}
+{151}{}{JÃ¡ myslet jÃ¡ ty teÄ zastÅ™elit.}
+{152}{}{DobrÃ¡ prÃ¡ce.}
+{153}{}{Aha. UÅ¾ musÃ­m jÃ­t.}
+{154}{}{Asi tÄ› teÄ zastÅ™elÃ­m. Jsi oÄividnÄ› nebezpeÄnÃ½.}
+{155}{}{DobrÃ¡ prÃ¡ce!}

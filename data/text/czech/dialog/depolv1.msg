@@ -1,16 +1,16 @@
-{100}{}{Závada na bio-kontejneru!}
-{101}{}{Patro 4 Únik nebezpeèného materiálu.}
-{102}{}{Patro 4 kontaminováno.}
-{103}{}{Plomby nebezpeèného biomateriálu v patøe 3 narušeny.}
-{104}{}{Patro 3 Únik nebezpeèného materiálu.}
-{105}{}{Patro 3 kontaminováno.}
-{106}{}{Plomby nebezpeèného biomateriálu v patøe 2 narušeny.}
-{107}{}{Patro 2 Únik nebezpeèného materiálu.}
-{108}{}{Patro 2 kontaminováno.}
-{109}{}{Plomby nebezpeèného biomateriálu v patøe 1 narušeny.}
-{110}{}{Patro 1 Únik nebezpeèného materiálu.}
-{111}{}{Patro 1 kontaminováno.}
+{100}{}{ZÃ¡vada na bio-kontejneru!}
+{101}{}{Patro 4 Ãšnik nebezpeÄnÃ©ho materiÃ¡lu.}
+{102}{}{Patro 4 kontaminovÃ¡no.}
+{103}{}{Plomby nebezpeÄnÃ©ho biomateriÃ¡lu v patÅ™e 3 naruÅ¡eny.}
+{104}{}{Patro 3 Ãšnik nebezpeÄnÃ©ho materiÃ¡lu.}
+{105}{}{Patro 3 kontaminovÃ¡no.}
+{106}{}{Plomby nebezpeÄnÃ©ho biomateriÃ¡lu v patÅ™e 2 naruÅ¡eny.}
+{107}{}{Patro 2 Ãšnik nebezpeÄnÃ©ho materiÃ¡lu.}
+{108}{}{Patro 2 kontaminovÃ¡no.}
+{109}{}{Plomby nebezpeÄnÃ©ho biomateriÃ¡lu v patÅ™e 1 naruÅ¡eny.}
+{110}{}{Patro 1 Ãšnik nebezpeÄnÃ©ho materiÃ¡lu.}
+{111}{}{Patro 1 kontaminovÃ¡no.}
 {112}{}{ minut a }
-{113}{}{ vteøin k evakuaci.}
+{113}{}{ vteÅ™in k evakuaci.}
 {114}{}{ minuta a }
-{115}{}{ vteøina k evakuaci.}
+{115}{}{ vteÅ™ina k evakuaci.}

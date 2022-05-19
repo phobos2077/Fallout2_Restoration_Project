@@ -1,201 +1,201 @@
-{100}{}{Vidíš malého, obtloustlého mue s tmavım plnovousem. Má zaprášené obleèení.}
-{101}{}{Vidíš Nebezpeèného Dana McGrewa, majitele dolu Morningstar.}
-{102}{}{Vidíš svalnatého mue s jizvou na tváøi. Vypadá tvrdì a sebejistì.}
-{103}{}{Bejt tvùj mozek, tak tì radši opustím a zemøu osamotì.}
-{104}{}{No to mì podr, nevìdìl jsem, e mùe jít evoluce pozpátku.}
-{105}{}{Máš o koleèko míò, co?}
-{106}{}{Nemám na tebe èas. Øekl bych, e nejseš o moc chytøejší ne houpací kùò.}
+{100}{}{VidÃ­Å¡ malÃ©ho, obtloustlÃ©ho muÅ¾e s tmavÃ½m plnovousem. MÃ¡ zaprÃ¡Å¡enÃ© obleÄenÃ­.}
+{101}{}{VidÃ­Å¡ NebezpeÄnÃ©ho Dana McGrewa, majitele dolu Morningstar.}
+{102}{}{VidÃ­Å¡ svalnatÃ©ho muÅ¾e s jizvou na tvÃ¡Å™i. VypadÃ¡ tvrdÄ› a sebejistÄ›.}
+{103}{}{Bejt tvÅ¯j mozek, tak tÄ› radÅ¡i opustÃ­m a zemÅ™u osamotÄ›.}
+{104}{}{No to mÄ› podrÅ¾, nevÄ›dÄ›l jsem, Å¾e mÅ¯Å¾e jÃ­t evoluce pozpÃ¡tku.}
+{105}{}{MÃ¡Å¡ o koleÄko mÃ­Åˆ, co?}
+{106}{}{NemÃ¡m na tebe Äas. Å˜ekl bych, Å¾e nejseÅ¡ o moc chytÅ™ejÅ¡Ã­ neÅ¾ houpacÃ­ kÅ¯Åˆ.}
 {107}{}{Just a couple of clowns short of a circus, aren't you?}
-{108}{}{Zdravím. Jsem Nebezpeènı Dan McGrew a vlastním dùl Morningstar. Co pro tebe mùu udìlat?}
-{109}{}{Co ode mì potøebuješ?}
-{110}{}{Co se tady tìí?}
-{111}{}{Neslyšel jsi náhodou o vìci zvané GECK neboli "Soupravì k vytvoøení rajské zahrady"?}
-{112}{}{Proè ti øíkají *Nebezpeènı* Dan McGrew?}
-{113}{}{Dìje se nìco poslední dobou ve mìstì?}
-{114}{}{Jenom procházím. Sbohem.}
-{115}{}{Tìíme tady zlato. Kadı ho chce. Vyváíme ho do Vault City, New Rena a dokonce i na jih do NCR. Dalo by se øíct, e Redding má dost zlata pro kadıho... a to nám zaruèuje samostatnost.}
-{116}{}{Dobøe vám tak. Chci se ještì na nìco zeptat.}
-{117}{}{Skoro se divím, e se nikdo nepokusí pøevzít nad Reddingem kontrolu.}
-{118}{}{Díky za informace. Sbohem.}
-{119}{}{Myslíš, e se o to nikdo nepokusil? Kadej by chtìl mít Redding pod palcem. A já si myslím, e u se to brzy nìkomu podaøí. My mùeme udìlat jenom jedinou vìc, abysme pøeili... zvolit si, kdo to bude.}
-{120}{}{Co tím myslíš?}
-{121}{}{To dává smysl. No, tak hodnì štìstí a sbohem.}
-{122}{}{Tím chci øíct, e u nás brzy nìkdo bude mít pod palcem. My si akorát musíme vybrat ten nejlepší palec.}
-{123}{}{Co u jsi samozøejmì udìlal.}
-{124}{}{Hodnì štìstí pøi vıbìru palcù. Sbohem.}
-{125}{}{To víš, e ano. Pokud se ale nespojíme s nìjakou z rodin z New Rena, mùeš dát Reddingu sbohem. Teda alespoò takovımu Reddingu, ve kterım bych chtìl ít.}
-{126}{}{Co tím myslíš?}
+{108}{}{ZdravÃ­m. Jsem NebezpeÄnÃ½ Dan McGrew a vlastnÃ­m dÅ¯l Morningstar. Co pro tebe mÅ¯Å¾u udÄ›lat?}
+{109}{}{Co ode mÄ› potÅ™ebujeÅ¡?}
+{110}{}{Co se tady tÄ›Å¾Ã­?}
+{111}{}{NeslyÅ¡el jsi nÃ¡hodou o vÄ›ci zvanÃ© GECK neboli "SoupravÄ› k vytvoÅ™enÃ­ rajskÃ© zahrady"?}
+{112}{}{ProÄ ti Å™Ã­kajÃ­ *NebezpeÄnÃ½* Dan McGrew?}
+{113}{}{DÄ›je se nÄ›co poslednÃ­ dobou ve mÄ›stÄ›?}
+{114}{}{Jenom prochÃ¡zÃ­m. Sbohem.}
+{115}{}{TÄ›Å¾Ã­me tady zlato. KaÅ¾dÃ½ ho chce. VyvÃ¡Å¾Ã­me ho do Vault City, New Rena a dokonce i na jih do NCR. Dalo by se Å™Ã­ct, Å¾e Redding mÃ¡ dost zlata pro kaÅ¾dÃ½ho... a to nÃ¡m zaruÄuje samostatnost.}
+{116}{}{DobÅ™e vÃ¡m tak. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{117}{}{Skoro se divÃ­m, Å¾e se nikdo nepokusÃ­ pÅ™evzÃ­t nad Reddingem kontrolu.}
+{118}{}{DÃ­ky za informace. Sbohem.}
+{119}{}{MyslÃ­Å¡, Å¾e se o to nikdo nepokusil? KaÅ¾dej by chtÄ›l mÃ­t Redding pod palcem. A jÃ¡ si myslÃ­m, Å¾e uÅ¾ se to brzy nÄ›komu podaÅ™Ã­. My mÅ¯Å¾eme udÄ›lat jenom jedinou vÄ›c, abysme pÅ™eÅ¾ili... zvolit si, kdo to bude.}
+{120}{}{Co tÃ­m myslÃ­Å¡?}
+{121}{}{To dÃ¡vÃ¡ smysl. No, tak hodnÄ› Å¡tÄ›stÃ­ a sbohem.}
+{122}{}{TÃ­m chci Å™Ã­ct, Å¾e uÅ¾ nÃ¡s brzy nÄ›kdo bude mÃ­t pod palcem. My si akorÃ¡t musÃ­me vybrat ten nejlepÅ¡Ã­ palec.}
+{123}{}{CoÅ¾ uÅ¾ jsi samozÅ™ejmÄ› udÄ›lal.}
+{124}{}{HodnÄ› Å¡tÄ›stÃ­ pÅ™i vÃ½bÄ›ru palcÅ¯. Sbohem.}
+{125}{}{To vÃ­Å¡, Å¾e ano. Pokud se ale nespojÃ­me s nÄ›jakou z rodin z New Rena, mÅ¯Å¾eÅ¡ dÃ¡t Reddingu sbohem. Teda alespoÅˆ takovÃ½mu Reddingu, ve kterÃ½m bych chtÄ›l Å¾Ã­t.}
+{126}{}{Co tÃ­m myslÃ­Å¡?}
 {127}{}{Aha. Sbohem.}
-{128}{}{Pokud se dostane k moci NCR, octne se Redding pod pìknì tvrdım palcem. Nejsou zrovna známí velikou osobní svobodou. Udìlali by z Reddingu jenom další bezvıznamnı místo na mapì NCR. Redding, tak jak ho znám já, by zmizel.}
-{129}{}{Hmm a co tøeba Vault City?}
-{130}{}{Zajímavé. Sbohem.}
-{131}{}{Vault City? (zasmìje se) Ti cvoci by z Reddingu udìlali tábor otrokù. Pro nì kdokoliv, kdo není jejich obèan, neznamená nic víc ne ubohá krysa. Trávit zbytek ivota klanìním a mytím bot obèanù by se mi ani trošku nelíbilo.}
-{132}{}{V èem se to liší od New Rena?}
-{133}{}{Díky, e jsi mi to tak hezky vysvìtlil. Sbohem.}
-{134}{}{New Reno je dost silnı na to, aby ochránilo Redding pøed Vault City i NCR. New Reno ovládá nìkolik gangsterskejch rodin. Ty jsou navzájem hodnì znepøátelenı, co by pro Redding znamenalo víceménì samostatnost. V New Renu by jim bylo jedno, jak to tu øídíme... dokud by dostávali svoje zlato.}
-{135}{}{To taky nezní zrovna skvìle.}
+{128}{}{Pokud se dostane k moci NCR, octne se Redding pod pÄ›knÄ› tvrdÃ½m palcem. Nejsou zrovna znÃ¡mÃ­ velikou osobnÃ­ svobodou. UdÄ›lali by z Reddingu jenom dalÅ¡Ã­ bezvÃ½znamnÃ½ mÃ­sto na mapÄ› NCR. Redding, tak jak ho znÃ¡m jÃ¡, by zmizel.}
+{129}{}{Hmm a co tÅ™eba Vault City?}
+{130}{}{ZajÃ­mavÃ©. Sbohem.}
+{131}{}{Vault City? (zasmÄ›je se) Ti cvoci by z Reddingu udÄ›lali tÃ¡bor otrokÅ¯. Pro nÄ› kdokoliv, kdo nenÃ­ jejich obÄan, neznamenÃ¡ nic vÃ­c neÅ¾ ubohÃ¡ krysa. TrÃ¡vit zbytek Å¾ivota klanÄ›nÃ­m a mytÃ­m bot obÄanÅ¯ by se mi ani troÅ¡ku nelÃ­bilo.}
+{132}{}{V Äem se to liÅ¡Ã­ od New Rena?}
+{133}{}{DÃ­ky, Å¾e jsi mi to tak hezky vysvÄ›tlil. Sbohem.}
+{134}{}{New Reno je dost silnÃ½ na to, aby ochrÃ¡nilo Redding pÅ™ed Vault City i NCR. New Reno ovlÃ¡dÃ¡ nÄ›kolik gangsterskejch rodin. Ty jsou navzÃ¡jem hodnÄ› znepÅ™Ã¡telenÃ½, coÅ¾ by pro Redding znamenalo vÃ­cemÃ©nÄ› samostatnost. V New Renu by jim bylo jedno, jak to tu Å™Ã­dÃ­me... dokud by dostÃ¡vali svoje zlato.}
+{135}{}{To taky neznÃ­ zrovna skvÄ›le.}
 {136}{}{Hehe. Sbohem.}
-{137}{}{Tohle není dokonalej svìt. Nìkdy musíš pøijmout i špatnou nabídku, protoe ti nic jinıho nezbejvá, no a ukázalo se, e nejlepší pro Redding jsou právì ti zlí. Ne kadej to tak ale vidí.}
-{138}{}{Co myslíš, e se stane?}
-{139}{}{Názory jsou jako prdel, Dane... kadı ji má a všechny do jednoho smrdí. Sbohem.}
-{140}{}{Ne kadı to vidí jako ty, jo? Jak je to jen moné? Sbohem, Dane.}
-{141}{}{To nevím, ale zaèíná pøituhovat. Vyhraje to mìsto, kterı budou lidi nejvíc podporovat. Já se akorát snaím, aby se to podaøilo New Renu. Podle mì je to jediná šance Reddingu.}
-{142}{}{Jak chceš pomoct New Renu k pøevzetí Reddingu?}
-{143}{}{Kadı holt nemùe vyhrát. Sbohem, Dane.}
-{144}{}{Nejlepší bude zajistit, aby mùj dùl zaèal prosperovat a ukázat mım horníkùm, kdo to tu øídí. Navíc fakt, e veškerı pochoutky mıch muù pocházej zrovna z New Rena, mu na popularitì dost pøidá.}
+{137}{}{Tohle nenÃ­ dokonalej svÄ›t. NÄ›kdy musÃ­Å¡ pÅ™ijmout i Å¡patnou nabÃ­dku, protoÅ¾e ti nic jinÃ½ho nezbejvÃ¡, no a ukÃ¡zalo se, Å¾e nejlepÅ¡Ã­ pro Redding jsou prÃ¡vÄ› ti zlÃ­. Ne kaÅ¾dej to tak ale vidÃ­.}
+{138}{}{Co myslÃ­Å¡, Å¾e se stane?}
+{139}{}{NÃ¡zory jsou jako prdel, Dane... kaÅ¾dÃ½ ji mÃ¡ a vÅ¡echny do jednoho smrdÃ­. Sbohem.}
+{140}{}{Ne kaÅ¾dÃ½ to vidÃ­ jako ty, jo? Jak je to jen moÅ¾nÃ©? Sbohem, Dane.}
+{141}{}{To nevÃ­m, ale zaÄÃ­nÃ¡ pÅ™ituhovat. Vyhraje to mÄ›sto, kterÃ½ budou lidi nejvÃ­c podporovat. JÃ¡ se akorÃ¡t snaÅ¾Ã­m, aby se to podaÅ™ilo New Renu. Podle mÄ› je to jedinÃ¡ Å¡ance Reddingu.}
+{142}{}{Jak chceÅ¡ pomoct New Renu k pÅ™evzetÃ­ Reddingu?}
+{143}{}{KaÅ¾dÃ½ holt nemÅ¯Å¾e vyhrÃ¡t. Sbohem, Dane.}
+{144}{}{NejlepÅ¡Ã­ bude zajistit, aby mÅ¯j dÅ¯l zaÄal prosperovat a ukÃ¡zat mÃ½m hornÃ­kÅ¯m, kdo to tu Å™Ã­dÃ­. NavÃ­c fakt, Å¾e veÅ¡kerÃ½ pochoutky mÃ½ch muÅ¾Å¯ pochÃ¡zej zrovna z New Rena, mu na popularitÄ› dost pÅ™idÃ¡.}
 {145}{}{Pochoutky?}
-{146}{}{To víš, kadı obèas potøebuje èas od èasu vzpruit. Sbohem, Dane.}
-{147}{}{Chlast, drogy a další chemickı vymoenosti. Vìtšina z nich se dováí právì z New Rena. Pro nìkterı horníky je to skoro to jedinı, kvùli èemu pracujou. Radši si ani nepøej vìdìt, co by se stalo, kdyby nepøišla další dodávka.}
-{148}{}{Jak jsou na tom místní zásoby Jetu?}
-{149}{}{Nepøeju. Chci se ještì na nìco zeptat.}
-{150}{}{Díky za informace. Uvidíme se pozdìji. Sbohem, Dane.}
-{151}{}{Momentálnì nemáme dost Jetu na to, aby to uspokojilo všechny. Doufám, e pøíští karavana dorazí v poøádku.}
-{152}{}{Zajímavé. Chci se ještì na nìco zeptat, Dane.}
-{153}{}{U asi pùjdu. Sbohem, Dane.}
-{154}{}{Poslední dobou tu na Jetu jedou všichni. Vypadá to, e se ho horníci nemùou nabait. Ále co, aspoò jsou chlapi šastní, take mi to tak nevadí. Pøed ordinací doktora Johnsona vìtšinou stojej nejmíò dvì øady. Ale kdyby jich tam stálo víc, zaèal bych se asi obávat.}
+{146}{}{To vÃ­Å¡, kaÅ¾dÃ½ obÄas potÅ™ebuje Äas od Äasu vzpruÅ¾it. Sbohem, Dane.}
+{147}{}{Chlast, drogy a dalÅ¡Ã­ chemickÃ½ vymoÅ¾enosti. VÄ›tÅ¡ina z nich se dovÃ¡Å¾Ã­ prÃ¡vÄ› z New Rena. Pro nÄ›kterÃ½ hornÃ­ky je to skoro to jedinÃ½, kvÅ¯li Äemu pracujou. RadÅ¡i si ani nepÅ™ej vÄ›dÄ›t, co by se stalo, kdyby nepÅ™iÅ¡la dalÅ¡Ã­ dodÃ¡vka.}
+{148}{}{Jak jsou na tom mÃ­stnÃ­ zÃ¡soby Jetu?}
+{149}{}{NepÅ™eju. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{150}{}{DÃ­ky za informace. UvidÃ­me se pozdÄ›ji. Sbohem, Dane.}
+{151}{}{MomentÃ¡lnÄ› nemÃ¡me dost Jetu na to, aby to uspokojilo vÅ¡echny. DoufÃ¡m, Å¾e pÅ™Ã­Å¡tÃ­ karavana dorazÃ­ v poÅ™Ã¡dku.}
+{152}{}{ZajÃ­mavÃ©. Chci se jeÅ¡tÄ› na nÄ›co zeptat, Dane.}
+{153}{}{UÅ¾ asi pÅ¯jdu. Sbohem, Dane.}
+{154}{}{PoslednÃ­ dobou tu na Jetu jedou vÅ¡ichni. VypadÃ¡ to, Å¾e se ho hornÃ­ci nemÅ¯Å¾ou nabaÅ¾it. Ãle co, aspoÅˆ jsou chlapi Å¡Å¥astnÃ­, takÅ¾e mi to tak nevadÃ­. PÅ™ed ordinacÃ­ doktora Johnsona vÄ›tÅ¡inou stojej nejmÃ­Åˆ dvÄ› Å™ady. Ale kdyby jich tam stÃ¡lo vÃ­c, zaÄal bych se asi obÃ¡vat.}
 {155}{}{Kdo je doktor Johnson?}
-{156}{}{Zajímavé. Chci se ještì na nìco zeptat, Dane.}
-{157}{}{No, u asi pùjdu. Sbohem, Dane.}
-{158}{}{Krucinál, v tomhle mìstì je a moc Jetu. Topíme se v nìm. Nikdo nechce pracovat a všichni chtìj jen lítat. Nemùu poøádnì tìit, kdy pùlka mejch horníkù lítá na Jetu. Zatracenej doktor Johnson.}
+{156}{}{ZajÃ­mavÃ©. Chci se jeÅ¡tÄ› na nÄ›co zeptat, Dane.}
+{157}{}{No, uÅ¾ asi pÅ¯jdu. Sbohem, Dane.}
+{158}{}{KrucinÃ¡l, v tomhle mÄ›stÄ› je aÅ¾ moc Jetu. TopÃ­me se v nÄ›m. Nikdo nechce pracovat a vÅ¡ichni chtÄ›j jen lÃ­tat. NemÅ¯Å¾u poÅ™Ã¡dnÄ› tÄ›Å¾it, kdyÅ¾ pÅ¯lka mejch hornÃ­kÅ¯ lÃ­tÃ¡ na Jetu. Zatracenej doktor Johnson.}
 {159}{}{Kdo je doktor Johnson?}
-{160}{}{To zní jako problém. Chci se ještì na nìco zeptat, Dane.}
-{161}{}{U asi pùjdu. Sbohem, Dane.}
-{162}{}{Vìtšina závislejch horníkù s Jetem nedávno naprosto skoncovala. Poslední dávka, co jim doktor Johnson prodal, musela bejt asi hodnì špatná.}
+{160}{}{To znÃ­ jako problÃ©m. Chci se jeÅ¡tÄ› na nÄ›co zeptat, Dane.}
+{161}{}{UÅ¾ asi pÅ¯jdu. Sbohem, Dane.}
+{162}{}{VÄ›tÅ¡ina zÃ¡vislejch hornÃ­kÅ¯ s Jetem nedÃ¡vno naprosto skoncovala. PoslednÃ­ dÃ¡vka, co jim doktor Johnson prodal, musela bejt asi hodnÄ› Å¡patnÃ¡.}
 {163}{}{Kdo je doktor Johnson?}
-{164}{}{Zajímavé. Chci se ještì na nìco zeptat, Dane.}
-{165}{}{U asi pùjdu. Sbohem, Dane.}
-{166}{}{Nevím, co se stalo, ale vìtšinì horníkù se po poslední dávce udìlalo špatnì. A teï nemùou Jet ani cejtit. Prej se na to doktor Johnson podívá.}
+{164}{}{ZajÃ­mavÃ©. Chci se jeÅ¡tÄ› na nÄ›co zeptat, Dane.}
+{165}{}{UÅ¾ asi pÅ¯jdu. Sbohem, Dane.}
+{166}{}{NevÃ­m, co se stalo, ale vÄ›tÅ¡inÄ› hornÃ­kÅ¯ se po poslednÃ­ dÃ¡vce udÄ›lalo Å¡patnÄ›. A teÄ nemÅ¯Å¾ou Jet ani cejtit. Prej se na to doktor Johnson podÃ­vÃ¡.}
 {167}{}{Kdo je doktor Johnson?}
-{168}{}{Zajímavé. Chci se ještì na nìco zeptat, Dane.}
-{169}{}{U asi pùjdu. Sbohem, Dane.}
-{170}{}{Protoe jsem ten nejvìtší, nejtvrdší a nejhrozivìjší hadojed v tìhlech konèinách. Jo, to jsem já *Nebezpeènı* Dan McGrew.}
-{171}{}{Aha. Chci se ještì na nìco zeptat, Nebezpeènı Dane.}
-{172}{}{Nepøipadáš mi jako nìjakı velkı tvrïák.}
-{173}{}{To vypadá, e jsi poøádnı kus chlapa. No, u tì nebudu zdrovat. Sbohem, pane Nebezpeènı.}
-{174}{}{Á, další tvrïák na obzoru. Tak pojï a uka, co umíš.}
-{175}{}{Fajn, máš to mít. Je naèase ti trochu srazit høebínek. Tas... uboáku.}
-{176}{}{Klidnì, ale tvoje mrtvola mi za ty vyplıtvané náboje nestojí.}
-{177}{}{Kdybych chtìl, tak u tady nejsi, ale nemám èas se s tebou zabıvat.}
-{178}{}{Jo, to jsem si myslel... pøizdisráèi.}
-{179}{}{Já ti dám pøizdisráèe... a tì vykuchám. Vyzıvám tì na souboj.}
-{180}{}{Ještì uvidíme... nìkdy jindy. Prozatím sbohem.}
-{181}{}{Souprava k vytvoøení rajské zahrady? O tom jsem nic neslyšel. Vìtšinou nacházím svùj ráj v Louinì náruèí.}
-{182}{}{Není Lou náhodou muské jméno?}
-{183}{}{Aha. Chci se ještì na nìco zeptat.}
-{184}{}{Tak já se zeptám jinde. Sbohem.}
-{185}{}{To sice je, ale tohle je zkrácenina jména Louisa. Je majitelkou hospody U Malamuta tady ve mìstì. Hele, proè tì to vlastnì zajímá?}
-{186}{}{Eh... jen tak, Dane. Jen tak. Chci se ještì na nìco zeptat.}
-{187}{}{Jen tak. Díky za vysvìtlení. Sbohem, slaïouši.}
-{188}{}{Omlouvám se. No, u musím jít. Sbohem.}
-{189}{}{No, jedna vìc je jistá... potøebuju novej kontrolní èip do mı dùlní mašiny.}
-{190}{}{Kontrolní èip? Co je to?}
-{191}{}{Chci se ještì na nìco zeptat, Dane.}
-{192}{}{Aha. No, dám ti vìdìt, jestli nìjakı najdu. Sbohem.}
-{193}{}{Zajímavı, e se na to ptáš zrovna ty. Poslední dobou se dìje ve mìstì spousta vìcí.}
-{194}{}{Jak jsem øekl, kdy nikdo, tak ty urèitì víš, co se ve mìstì dìje.}
-{195}{}{Myslíš ten kontrolní èip pro dùlní rypadlo?}
-{196}{}{Myslíš to, jak nìkdo poøezal kurvu?}
-{197}{}{Myslíš tu barovou rvaèku, kterou jsem vyøešil?}
-{198}{}{Jsem prostì od pøírody zvìdavı. Chci se ještì na nìco zeptat.}
-{199}{}{Nevím sice, co tím myslíš, ale nemám èas to zjišovat. Sbohem.}
-{200}{}{Jo, myslím ten kontrolní èip, kterı jsi prodal Marge Lebarge, majitelce dolu Kokoweef. To byla opravdu chyba... uškodilo to nejenom mnì, ale i celımu Reddingu.}
-{201}{}{Co tím myslíš?}
-{202}{}{To je moje vìc, kámo. Chci se na nìco zeptat ohlednì toho, co se dìje ve mìstì.}
-{203}{}{Chybami se èlovìk uèí. Uvidíme se pozdìji...moná.}
-{204}{}{Nemùu uvìøit, e jsi toho parchanta Hakeswilla nechal na svobodì. Mım horníkùm se to sice zamlouvá, ale mnì rozhodnì ne.}
-{205}{}{Bylo to moje rozhodnutí a myslím, e i nejlepší. Chci se na nìco zeptat ohlednì toho, co se dìje ve mìstì.}
-{206}{}{Eh, nepodaøilo se mi prokázat jeho vinu. Chci se ještì na nìco zeptat.}
-{207}{}{Nezajímá mì, co si myslíš. Sbohem.}
-{208}{}{Udìlal jsi správnou vìc, kdy jsi nechal toho bastarda Hakeswilla zavøít do vìzení. Sice vyhrooval všem mejm horníkùm, ale nikdo ho nechtìl odsoudit bez dùkazù. Bude lepší se dívat, jak ho šerif legálnì povìsí.}
-{209}{}{Bylo to moje rozhodnutí a myslím, e i nejlepší. Chci se na nìco zeptat ohlednì toho, co se dìje ve mìstì.}
-{210}{}{Spravedlnost musí bıt vykonána. Chci se ještì na nìco zeptat.}
-{211}{}{Ne vdy se vìci vyvrbí tak, jak chceš ty. Sbohem.}
-{212}{}{Díky za zabití toho idiota Haheswilla. Moji horníci u zaèínali zuøit.}
-{213}{}{Bylo to moje rozhodnutí a myslím, e i nejlepší. Chci se na nìco zeptat ohlednì toho, co se dìje ve mìstì.}
-{214}{}{Ten bastard byl naivu u moc dlouho. Pojïme mluvit o nìèem jiném.}
-{215}{}{Ten èerv dostal to, co si zaslouil. Sbohem.}
-{216}{}{Ty víš, jak se vìci okolo toho èipu mají. Potøebuju ho a vsadím se, e tì o nìj poádala i Marge Lebarge. Ale vìø mi, e udìláš nejlíp, kdy ho prodáš mnì.}
-{217}{}{Jakou má pro tebe cenu?}
-{218}{}{Proè je lepší prodat ho tobì a ne jí?}
-{219}{}{Musím si to rozmyslet. Chci se tì na nìco zeptat ohlednì toho, co se dìje ve mìstì.}
-{220}{}{Ještì uvidíme. Sbohem.}
-{221}{}{Chtìl bych ti podìkovat za prodání kontrolního èipu tomu správnımu èlovìku.}
-{222}{}{ádnı problém. Chci se tì na nìco zeptat ohlednì toho, co se dìje ve mìstì.}
-{223}{}{Nemáš zaè. Tìch tisíc babek mì celkem pøesvìdèilo. Chci se ještì na nìco zeptat.}
-{224}{}{ádnı problém. Zatím.}
-{225}{}{Díky za vyøešení tı barovı rvaèky, ani bys nìkoho strèil pod zámek. Horníci obèas potøebujou uvolnit napìtí, ale nemyslí to nijak špatnì.}
-{226}{}{To vidím. Chci se tì na nìco zeptat ohlednì toho, co se dìje ve mìstì.}
-{227}{}{Nìkdo to musel udìlat. Chci se ještì na nìco zeptat.}
-{228}{}{ádnı problém. Sbohem.}
-{229}{}{Nechápu, proè jsi pozavíral moje horníky. Jenom chtìli uvolnit trochu napìtí.}
-{230}{}{To oni zaèali tu rvaèku, tak jsem to ukonèil. Chci se tì na nìco zeptat ohlednì toho, co se dìje ve mìstì.}
-{231}{}{Potøebovali trochu vychladnout. Za pár dní je máš zpátky. Chci se tì na nìco zeptat ohlednì toho, co se dìje ve mìstì.}
-{232}{}{Myslím, e taky potøebuju uvolnit trochu napìtí. Sbohem.}
-{233}{}{Jsem rád, e se ti podaøilo pozavírat ty Kokoweefské vıtrníky, kteøí chtìli zmlátit moje hochy. S tìma Kokoweeferema je potøeba zatoèit.}
-{234}{}{No nevím. Jenom chtìli uvolnit trochu napìtí. Chci se tì na nìco zeptat ohlednì toho, co se dìje ve mìstì.}
-{235}{}{Myslím, e to u je trochu extrémní. Za pár dní je šerif pustí. Chci se ještì na nìco zeptat.}
-{236}{}{Od teï si dávej na svoje horníky vìtší pozor. Sbohem.}
-{237}{}{Musel jsi opravdu pozavírat kadıho blbıho horníka ve mìstì? Kdo teï bude sakra pracovat v mım dole?}
-{238}{}{Na to jsi mìl myslet døív, ne se ti to vymklo z rukou. Chci se tì na nìco zeptat ohlednì toho, co se dìje ve mìstì.}
-{239}{}{Tentokrát zašli moc daleko. Ve vìzení budou mít všichni èas si to promyslet. Chci se ještì na nìco zeptat.}
-{240}{}{Dobrá otázka. Moná popøemıšlím o tom, e vstoupím do hornického byznysu. Sbohem.}
-{241}{}{Nechápu, jak ti nìkdo mohl svìøit ten odznak. V barovı rvaèce nemusíš pøece nikoho zabíjet.}
-{242}{}{Trošku se to vymlko z rukou. Chci se tì na nìco zeptat ohlednì toho, co se dìje ve mìstì.}
-{243}{}{Nehody se stávají. Chci se ještì na nìco zeptat.}
-{244}{}{To si mìli rozmyslet døív, ne si zaèali se mnou - se šerifem. Sbohem.}
-{245}{}{Kdy ten kontrolní èip prodáš Marge, podpoøíš tím její stoupence. NCR podporuje Marge a pokud pøevezmou Redding, máme problém. Bude lepší, kdy podpoøíš mì a mı kámoše v New Renu.}
-{246}{}{Problém? Co tím myslíš?}
-{247}{}{Nemám èas na kecy o politice. Sbohem.}
-{248}{}{Kadej by chtìl to, co má Redding. A nìkterı lidi jsou schopnı zajít opravdu daleko. Vysvìtlím ti to.}
-{249}{}{Pokraèuj.}
+{168}{}{ZajÃ­mavÃ©. Chci se jeÅ¡tÄ› na nÄ›co zeptat, Dane.}
+{169}{}{UÅ¾ asi pÅ¯jdu. Sbohem, Dane.}
+{170}{}{ProtoÅ¾e jsem ten nejvÄ›tÅ¡Ã­, nejtvrdÅ¡Ã­ a nejhrozivÄ›jÅ¡Ã­ hadojed v tÄ›hlech konÄinÃ¡ch. Jo, to jsem jÃ¡ *NebezpeÄnÃ½* Dan McGrew.}
+{171}{}{Aha. Chci se jeÅ¡tÄ› na nÄ›co zeptat, NebezpeÄnÃ½ Dane.}
+{172}{}{NepÅ™ipadÃ¡Å¡ mi jako nÄ›jakÃ½ velkÃ½ tvrÄÃ¡k.}
+{173}{}{To vypadÃ¡, Å¾e jsi poÅ™Ã¡dnÃ½ kus chlapa. No, uÅ¾ tÄ› nebudu zdrÅ¾ovat. Sbohem, pane NebezpeÄnÃ½.}
+{174}{}{Ã, dalÅ¡Ã­ tvrÄÃ¡k na obzoru. Tak pojÄ a ukaÅ¾, co umÃ­Å¡.}
+{175}{}{Fajn, mÃ¡Å¡ to mÃ­t. Je naÄase ti trochu srazit hÅ™ebÃ­nek. Tas... uboÅ¾Ã¡ku.}
+{176}{}{KlidnÄ›, ale tvoje mrtvola mi za ty vyplÃ½tvanÃ© nÃ¡boje nestojÃ­.}
+{177}{}{Kdybych chtÄ›l, tak uÅ¾ tady nejsi, ale nemÃ¡m Äas se s tebou zabÃ½vat.}
+{178}{}{Jo, to jsem si myslel... pÅ™izdisrÃ¡Äi.}
+{179}{}{JÃ¡ ti dÃ¡m pÅ™izdisrÃ¡Äe... aÅ¾ tÄ› vykuchÃ¡m. VyzÃ½vÃ¡m tÄ› na souboj.}
+{180}{}{JeÅ¡tÄ› uvidÃ­me... nÄ›kdy jindy. ProzatÃ­m sbohem.}
+{181}{}{Souprava k vytvoÅ™enÃ­ rajskÃ© zahrady? O tom jsem nic neslyÅ¡el. VÄ›tÅ¡inou nachÃ¡zÃ­m svÅ¯j rÃ¡j v LouinÄ› nÃ¡ruÄÃ­.}
+{182}{}{NenÃ­ Lou nÃ¡hodou muÅ¾skÃ© jmÃ©no?}
+{183}{}{Aha. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{184}{}{Tak jÃ¡ se zeptÃ¡m jinde. Sbohem.}
+{185}{}{To sice je, ale tohle je zkrÃ¡cenina jmÃ©na Louisa. Je majitelkou hospody U Malamuta tady ve mÄ›stÄ›. Hele, proÄ tÄ› to vlastnÄ› zajÃ­mÃ¡?}
+{186}{}{Eh... jen tak, Dane. Jen tak. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{187}{}{Jen tak. DÃ­ky za vysvÄ›tlenÃ­. Sbohem, slaÄouÅ¡i.}
+{188}{}{OmlouvÃ¡m se. No, uÅ¾ musÃ­m jÃ­t. Sbohem.}
+{189}{}{No, jedna vÄ›c je jistÃ¡... potÅ™ebuju novej kontrolnÃ­ Äip do mÃ½ dÅ¯lnÃ­ maÅ¡iny.}
+{190}{}{KontrolnÃ­ Äip? Co je to?}
+{191}{}{Chci se jeÅ¡tÄ› na nÄ›co zeptat, Dane.}
+{192}{}{Aha. No, dÃ¡m ti vÄ›dÄ›t, jestli nÄ›jakÃ½ najdu. Sbohem.}
+{193}{}{ZajÃ­mavÃ½, Å¾e se na to ptÃ¡Å¡ zrovna ty. PoslednÃ­ dobou se dÄ›je ve mÄ›stÄ› spousta vÄ›cÃ­.}
+{194}{}{Jak jsem Å™ekl, kdyÅ¾ nikdo, tak ty urÄitÄ› vÃ­Å¡, co se ve mÄ›stÄ› dÄ›je.}
+{195}{}{MyslÃ­Å¡ ten kontrolnÃ­ Äip pro dÅ¯lnÃ­ rypadlo?}
+{196}{}{MyslÃ­Å¡ to, jak nÄ›kdo poÅ™ezal kurvu?}
+{197}{}{MyslÃ­Å¡ tu barovou rvaÄku, kterou jsem vyÅ™eÅ¡il?}
+{198}{}{Jsem prostÄ› od pÅ™Ã­rody zvÄ›davÃ½. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{199}{}{NevÃ­m sice, co tÃ­m myslÃ­Å¡, ale nemÃ¡m Äas to zjiÅ¡Å¥ovat. Sbohem.}
+{200}{}{Jo, myslÃ­m ten kontrolnÃ­ Äip, kterÃ½ jsi prodal Marge Lebarge, majitelce dolu Kokoweef. To byla opravdu chyba... uÅ¡kodilo to nejenom mnÄ›, ale i celÃ½mu Reddingu.}
+{201}{}{Co tÃ­m myslÃ­Å¡?}
+{202}{}{To je moje vÄ›c, kÃ¡mo. Chci se na nÄ›co zeptat ohlednÄ› toho, co se dÄ›je ve mÄ›stÄ›.}
+{203}{}{Chybami se ÄlovÄ›k uÄÃ­. UvidÃ­me se pozdÄ›ji...moÅ¾nÃ¡.}
+{204}{}{NemÅ¯Å¾u uvÄ›Å™it, Å¾e jsi toho parchanta Hakeswilla nechal na svobodÄ›. MÃ½m hornÃ­kÅ¯m se to sice zamlouvÃ¡, ale mnÄ› rozhodnÄ› ne.}
+{205}{}{Bylo to moje rozhodnutÃ­ a myslÃ­m, Å¾e i nejlepÅ¡Ã­. Chci se na nÄ›co zeptat ohlednÄ› toho, co se dÄ›je ve mÄ›stÄ›.}
+{206}{}{Eh, nepodaÅ™ilo se mi prokÃ¡zat jeho vinu. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{207}{}{NezajÃ­mÃ¡ mÄ›, co si myslÃ­Å¡. Sbohem.}
+{208}{}{UdÄ›lal jsi sprÃ¡vnou vÄ›c, kdyÅ¾ jsi nechal toho bastarda Hakeswilla zavÅ™Ã­t do vÄ›zenÃ­. Sice vyhroÅ¾oval vÅ¡em mejm hornÃ­kÅ¯m, ale nikdo ho nechtÄ›l odsoudit bez dÅ¯kazÅ¯. Bude lepÅ¡Ã­ se dÃ­vat, jak ho Å¡erif legÃ¡lnÄ› povÄ›sÃ­.}
+{209}{}{Bylo to moje rozhodnutÃ­ a myslÃ­m, Å¾e i nejlepÅ¡Ã­. Chci se na nÄ›co zeptat ohlednÄ› toho, co se dÄ›je ve mÄ›stÄ›.}
+{210}{}{Spravedlnost musÃ­ bÃ½t vykonÃ¡na. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{211}{}{Ne vÅ¾dy se vÄ›ci vyvrbÃ­ tak, jak chceÅ¡ ty. Sbohem.}
+{212}{}{DÃ­ky za zabitÃ­ toho idiota Haheswilla. Moji hornÃ­ci uÅ¾ zaÄÃ­nali zuÅ™it.}
+{213}{}{Bylo to moje rozhodnutÃ­ a myslÃ­m, Å¾e i nejlepÅ¡Ã­. Chci se na nÄ›co zeptat ohlednÄ› toho, co se dÄ›je ve mÄ›stÄ›.}
+{214}{}{Ten bastard byl naÅ¾ivu uÅ¾ moc dlouho. PojÄme mluvit o nÄ›Äem jinÃ©m.}
+{215}{}{Ten Äerv dostal to, co si zaslouÅ¾il. Sbohem.}
+{216}{}{Ty vÃ­Å¡, jak se vÄ›ci okolo toho Äipu majÃ­. PotÅ™ebuju ho a vsadÃ­m se, Å¾e tÄ› o nÄ›j poÅ¾Ã¡dala i Marge Lebarge. Ale vÄ›Å™ mi, Å¾e udÄ›lÃ¡Å¡ nejlÃ­p, kdyÅ¾ ho prodÃ¡Å¡ mnÄ›.}
+{217}{}{Jakou mÃ¡ pro tebe cenu?}
+{218}{}{ProÄ je lepÅ¡Ã­ prodat ho tobÄ› a ne jÃ­?}
+{219}{}{MusÃ­m si to rozmyslet. Chci se tÄ› na nÄ›co zeptat ohlednÄ› toho, co se dÄ›je ve mÄ›stÄ›.}
+{220}{}{JeÅ¡tÄ› uvidÃ­me. Sbohem.}
+{221}{}{ChtÄ›l bych ti podÄ›kovat za prodÃ¡nÃ­ kontrolnÃ­ho Äipu tomu sprÃ¡vnÃ½mu ÄlovÄ›ku.}
+{222}{}{Å½Ã¡dnÃ½ problÃ©m. Chci se tÄ› na nÄ›co zeptat ohlednÄ› toho, co se dÄ›je ve mÄ›stÄ›.}
+{223}{}{NemÃ¡Å¡ zaÄ. TÄ›ch tisÃ­c babek mÄ› celkem pÅ™esvÄ›dÄilo. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{224}{}{Å½Ã¡dnÃ½ problÃ©m. ZatÃ­m.}
+{225}{}{DÃ­ky za vyÅ™eÅ¡enÃ­ tÃ½ barovÃ½ rvaÄky, aniÅ¾ bys nÄ›koho strÄil pod zÃ¡mek. HornÃ­ci obÄas potÅ™ebujou uvolnit napÄ›tÃ­, ale nemyslÃ­ to nijak Å¡patnÄ›.}
+{226}{}{To vidÃ­m. Chci se tÄ› na nÄ›co zeptat ohlednÄ› toho, co se dÄ›je ve mÄ›stÄ›.}
+{227}{}{NÄ›kdo to musel udÄ›lat. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{228}{}{Å½Ã¡dnÃ½ problÃ©m. Sbohem.}
+{229}{}{NechÃ¡pu, proÄ jsi pozavÃ­ral moje hornÃ­ky. Jenom chtÄ›li uvolnit trochu napÄ›tÃ­.}
+{230}{}{To oni zaÄali tu rvaÄku, tak jsem to ukonÄil. Chci se tÄ› na nÄ›co zeptat ohlednÄ› toho, co se dÄ›je ve mÄ›stÄ›.}
+{231}{}{PotÅ™ebovali trochu vychladnout. Za pÃ¡r dnÃ­ je mÃ¡Å¡ zpÃ¡tky. Chci se tÄ› na nÄ›co zeptat ohlednÄ› toho, co se dÄ›je ve mÄ›stÄ›.}
+{232}{}{MyslÃ­m, Å¾e taky potÅ™ebuju uvolnit trochu napÄ›tÃ­. Sbohem.}
+{233}{}{Jsem rÃ¡d, Å¾e se ti podaÅ™ilo pozavÃ­rat ty KokoweefskÃ© vÃ½trÅ¾nÃ­ky, kteÅ™Ã­ chtÄ›li zmlÃ¡tit moje hochy. S tÄ›ma Kokoweeferema je potÅ™eba zatoÄit.}
+{234}{}{No nevÃ­m. Jenom chtÄ›li uvolnit trochu napÄ›tÃ­. Chci se tÄ› na nÄ›co zeptat ohlednÄ› toho, co se dÄ›je ve mÄ›stÄ›.}
+{235}{}{MyslÃ­m, Å¾e to uÅ¾ je trochu extrÃ©mnÃ­. Za pÃ¡r dnÃ­ je Å¡erif pustÃ­. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{236}{}{Od teÄ si dÃ¡vej na svoje hornÃ­ky vÄ›tÅ¡Ã­ pozor. Sbohem.}
+{237}{}{Musel jsi opravdu pozavÃ­rat kaÅ¾dÃ½ho blbÃ½ho hornÃ­ka ve mÄ›stÄ›? Kdo teÄ bude sakra pracovat v mÃ½m dole?}
+{238}{}{Na to jsi mÄ›l myslet dÅ™Ã­v, neÅ¾ se ti to vymklo z rukou. Chci se tÄ› na nÄ›co zeptat ohlednÄ› toho, co se dÄ›je ve mÄ›stÄ›.}
+{239}{}{TentokrÃ¡t zaÅ¡li moc daleko. Ve vÄ›zenÃ­ budou mÃ­t vÅ¡ichni Äas si to promyslet. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{240}{}{DobrÃ¡ otÃ¡zka. MoÅ¾nÃ¡ popÅ™emÃ½Å¡lÃ­m o tom, Å¾e vstoupÃ­m do hornickÃ©ho byznysu. Sbohem.}
+{241}{}{NechÃ¡pu, jak ti nÄ›kdo mohl svÄ›Å™it ten odznak. V barovÃ½ rvaÄce nemusÃ­Å¡ pÅ™ece nikoho zabÃ­jet.}
+{242}{}{TroÅ¡ku se to vymlko z rukou. Chci se tÄ› na nÄ›co zeptat ohlednÄ› toho, co se dÄ›je ve mÄ›stÄ›.}
+{243}{}{Nehody se stÃ¡vajÃ­. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{244}{}{To si mÄ›li rozmyslet dÅ™Ã­v, neÅ¾ si zaÄali se mnou - se Å¡erifem. Sbohem.}
+{245}{}{KdyÅ¾ ten kontrolnÃ­ Äip prodÃ¡Å¡ Marge, podpoÅ™Ã­Å¡ tÃ­m jejÃ­ stoupence. NCR podporuje Marge a pokud pÅ™evezmou Redding, mÃ¡me problÃ©m. Bude lepÅ¡Ã­, kdyÅ¾ podpoÅ™Ã­Å¡ mÄ› a mÃ½ kÃ¡moÅ¡e v New Renu.}
+{246}{}{ProblÃ©m? Co tÃ­m myslÃ­Å¡?}
+{247}{}{NemÃ¡m Äas na kecy o politice. Sbohem.}
+{248}{}{KaÅ¾dej by chtÄ›l to, co mÃ¡ Redding. A nÄ›kterÃ½ lidi jsou schopnÃ½ zajÃ­t opravdu daleko. VysvÄ›tlÃ­m ti to.}
+{249}{}{PokraÄuj.}
 {250}{}{I've heard enough of your explanation already. Goodbye.}
-{251}{}{Zaplatím ti za ten kontrolní èip $1000.}
-{252}{}{To zní dobøe. Kde ho najdu?}
-{253}{}{To zní dobøe. Tady ho máš.}
-{254}{}{Ještì si ho chvíli nechám. Sbohem.}
-{255}{}{A nìjakı najdu, tak ti dám vìdìt. Sbohem.}
-{256}{}{Je ve Velkém Wanamingo Dole na západ od mìsta. Nìkde ve spodní èásti dolu je velkı dùlní stroj. Nemùeš ho minout. Èip je uvnitø toho stroje. Staèí ho jen vyrvat a pøinıst mi ho.}
-{257}{}{Povìz mi ještì o nìèem, co se dìje ve mìstì.}
-{258}{}{Kdy ten èip tak nutnì potøebuješ, tak proè si pro nìj nedojdeš sám?}
-{259}{}{U pro nìj bìím. Zatím sbohem.}
-{260}{}{Mám velkı dùlní rypadlo vyrobenı ještì pøed válkou, ale je tu jeden problém. Nemá mozek.}
-{261}{}{Skoro se mi chci øíct, e není v tomhle mìstì sám, ale radìji se zeptám: Co tím myslíš?}
-{262}{}{Vìtšinou si moc nevybírám, ale pøedstava, e budu *hledat mozky*, mi nezní moc dobøe. Sbohem.}
-{263}{}{Jde o to, e vyhoøel kontrolní èip a novej si jen tak nìkde neobjednám. Ale vím, kde se jeden nachází. Zaplatím ti za nìj $1000.}
+{251}{}{ZaplatÃ­m ti za ten kontrolnÃ­ Äip $1000.}
+{252}{}{To znÃ­ dobÅ™e. Kde ho najdu?}
+{253}{}{To znÃ­ dobÅ™e. Tady ho mÃ¡Å¡.}
+{254}{}{JeÅ¡tÄ› si ho chvÃ­li nechÃ¡m. Sbohem.}
+{255}{}{AÅ¾ nÄ›jakÃ½ najdu, tak ti dÃ¡m vÄ›dÄ›t. Sbohem.}
+{256}{}{Je ve VelkÃ©m Wanamingo Dole na zÃ¡pad od mÄ›sta. NÄ›kde ve spodnÃ­ ÄÃ¡sti dolu je velkÃ½ dÅ¯lnÃ­ stroj. NemÅ¯Å¾eÅ¡ ho minout. ÄŒip je uvnitÅ™ toho stroje. StaÄÃ­ ho jen vyrvat a pÅ™inÃ½st mi ho.}
+{257}{}{PovÄ›z mi jeÅ¡tÄ› o nÄ›Äem, co se dÄ›je ve mÄ›stÄ›.}
+{258}{}{KdyÅ¾ ten Äip tak nutnÄ› potÅ™ebujeÅ¡, tak proÄ si pro nÄ›j nedojdeÅ¡ sÃ¡m?}
+{259}{}{UÅ¾ pro nÄ›j bÄ›Å¾Ã­m. ZatÃ­m sbohem.}
+{260}{}{MÃ¡m velkÃ½ dÅ¯lnÃ­ rypadlo vyrobenÃ½ jeÅ¡tÄ› pÅ™ed vÃ¡lkou, ale je tu jeden problÃ©m. NemÃ¡ mozek.}
+{261}{}{Skoro se mi chci Å™Ã­ct, Å¾e nenÃ­ v tomhle mÄ›stÄ› sÃ¡m, ale radÄ›ji se zeptÃ¡m: Co tÃ­m myslÃ­Å¡?}
+{262}{}{VÄ›tÅ¡inou si moc nevybÃ­rÃ¡m, ale pÅ™edstava, Å¾e budu *hledat mozky*, mi neznÃ­ moc dobÅ™e. Sbohem.}
+{263}{}{Jde o to, Å¾e vyhoÅ™el kontrolnÃ­ Äip a novej si jen tak nÄ›kde neobjednÃ¡m. Ale vÃ­m, kde se jeden nachÃ¡zÃ­. ZaplatÃ­m ti za nÄ›j $1000.}
 {264}{}{Kde je?}
-{265}{}{Kdy ten èip tak nutnì potøebuješ, tak proè si pro nìj nedojdeš sám?}
+{265}{}{KdyÅ¾ ten Äip tak nutnÄ› potÅ™ebujeÅ¡, tak proÄ si pro nÄ›j nedojdeÅ¡ sÃ¡m?}
 {266}{}{I'm packed to the gills with quests already. Sorry, pal. Goodbye.}
-{267}{}{Ze spousty dùvodù, vìtšinou hladovejch a ošklivejch. Dùl Wanamingo je toti plnej hladovejch Wanamingos.}
+{267}{}{Ze spousty dÅ¯vodÅ¯, vÄ›tÅ¡inou hladovejch a oÅ¡klivejch. DÅ¯l Wanamingo je totiÅ¾ plnej hladovejch Wanamingos.}
 {268}{}{Co to ksakru jsou ty Wannamingles?}
-{269}{}{Aha, u chápu. Tím se to vysvìtluje. Budu o tom pøemıšlet. Sbohem.}
-{270}{}{Je to ta nejnepøíjemnìjší, nejhnusnìjší a nejbrutálnìjší potvora, jakou jsem kdy vidìl. Má tesáky dlouhı ètyøi palce. Eh, chci øíct ètrnáct palcù. Ale myslím, e ty je zvládneš.}
-{271}{}{Jo, jasnì. Budu o tom pøemıšlet. Sbohem.}
-{272}{}{To zní dìsivì. Myslím, e to není práce pro mì. Klepou se mi z toho kolena.}
-{273}{}{To udìlej. $1000 není zrovna malá suma, kámo.}
-{274}{}{Povìz mi ještì o nìèem, co se dìje ve mìstì.}
-{275}{}{Budu o tom pøemıšlet. Peníze navíc se vdycky hodí.}
-{276}{}{Tak to vypadá, e jsem se spletl, kdy jsem si myslel, e to zvládneš. Vypadni odsud, nehodlám s tebou ztrácet èas.}
-{277}{}{A-a, ano, pane. U jdu, pane.}
-{278}{}{Všichni dìláme chyby. Sbohem.}
-{279}{}{Sakra... já bejt tebou, tak si koupím papíry od toho dolu, vyèistím to tam a pak ho prodám zpátky starostovi Ascortimu. On je toti vlastník toho dolu.}
-{280}{}{Dávej na sebe pozor. Ten èip opravdu potøebuju.}
-{281}{}{Povìz mi ještì o nìèem, co se dìje ve mìstì.}
-{282}{}{Díky za radu. Sbohem.}
-{283}{}{"Bezbolestnı" doktor Johnson je náš místní mastièkáø. Pøedpokládám, e o doktoøinì nìco ví, ale myslím, e ne a tak moc. Najdeš ho v západní èásti centra. Prodává všechny léky a drogy, kterı tu máme.}
-{284}{}{To všechno prodává on?}
-{285}{}{Uvidíme se pozdìji, Dane. Sbohem.}
-{286}{}{No, jo. Vìtšinou dostaneme dodávku Jetu ve velkım mnoství, take to pak Doktor rozdìluje do ampulí. Lidi na nìj spolíhaj. Dìlá z toho hroznou šou, jak je všechno èistı a tak. Jak øíkám, jednoduchá medicína pro jednoduchı lidi.}
-{287}{}{Aha. Chci se ještì na nìco zeptat.}
-{288}{}{Díky za informace, Dane. Sbohem.}
-{289}{}{Dostaneš ode mì tak akorát dvì vìci, milej pane. Nic a hovno, a hovno u máš v hlavì. A teï mi zmiz z oèí.}
-{290}{}{Dostaneš ode mì tak akorát dvì vìci, sleèinko. Nic a hovno, a hovno u máš v hlavì. A teï mi zmiz z oèí.}
-{291}{}{Ale no ták. Odpus mi. Øekni mi, co potøebuješ.}
-{292}{}{Chceš si to se mnou rozdat? Tak pojï.}
-{293}{}{Odcházím odsud a moc rád. Sbohem.}
-{294}{}{O tom jsi mìl pøemıšlet, ne se ti to vymklo z rukou. Jdi do prdele a vypadni z mı kanceláøe.}
-{295}{}{Ó, pan tvrïák.}
-{296}{}{Odcházím. A ty se uklidni. Sbohem.}
-{297}{}{Nikdo tohle neøekne Danovi McGrew a odejde ivı.}
-{298}{}{Tak se dívej.}
-{299}{}{No jasnì..."Nebezpeènı Dane."}
-{300}{}{Odpus, Dane, já to tak nemyslel. Jenom jsem si dìlal s-srandu. Jo, srandu. Sbohem.}
+{269}{}{Aha, uÅ¾ chÃ¡pu. TÃ­m se to vysvÄ›tluje. Budu o tom pÅ™emÃ½Å¡let. Sbohem.}
+{270}{}{Je to ta nejnepÅ™Ã­jemnÄ›jÅ¡Ã­, nejhnusnÄ›jÅ¡Ã­ a nejbrutÃ¡lnÄ›jÅ¡Ã­ potvora, jakou jsem kdy vidÄ›l. MÃ¡ tesÃ¡ky dlouhÃ½ ÄtyÅ™i palce. Eh, chci Å™Ã­ct ÄtrnÃ¡ct palcÅ¯. Ale myslÃ­m, Å¾e ty je zvlÃ¡dneÅ¡.}
+{271}{}{Jo, jasnÄ›. Budu o tom pÅ™emÃ½Å¡let. Sbohem.}
+{272}{}{To znÃ­ dÄ›sivÄ›. MyslÃ­m, Å¾e to nenÃ­ prÃ¡ce pro mÄ›. Klepou se mi z toho kolena.}
+{273}{}{To udÄ›lej. $1000 nenÃ­ zrovna malÃ¡ suma, kÃ¡mo.}
+{274}{}{PovÄ›z mi jeÅ¡tÄ› o nÄ›Äem, co se dÄ›je ve mÄ›stÄ›.}
+{275}{}{Budu o tom pÅ™emÃ½Å¡let. PenÃ­ze navÃ­c se vÅ¾dycky hodÃ­.}
+{276}{}{Tak to vypadÃ¡, Å¾e jsem se spletl, kdyÅ¾ jsem si myslel, Å¾e to zvlÃ¡dneÅ¡. Vypadni odsud, nehodlÃ¡m s tebou ztrÃ¡cet Äas.}
+{277}{}{A-a, ano, pane. UÅ¾ jdu, pane.}
+{278}{}{VÅ¡ichni dÄ›lÃ¡me chyby. Sbohem.}
+{279}{}{Sakra... jÃ¡ bejt tebou, tak si koupÃ­m papÃ­ry od toho dolu, vyÄistÃ­m to tam a pak ho prodÃ¡m zpÃ¡tky starostovi Ascortimu. On je totiÅ¾ vlastnÃ­k toho dolu.}
+{280}{}{DÃ¡vej na sebe pozor. Ten Äip opravdu potÅ™ebuju.}
+{281}{}{PovÄ›z mi jeÅ¡tÄ› o nÄ›Äem, co se dÄ›je ve mÄ›stÄ›.}
+{282}{}{DÃ­ky za radu. Sbohem.}
+{283}{}{"BezbolestnÃ½" doktor Johnson je nÃ¡Å¡ mÃ­stnÃ­ mastiÄkÃ¡Å™. PÅ™edpoklÃ¡dÃ¡m, Å¾e o doktoÅ™inÄ› nÄ›co vÃ­, ale myslÃ­m, Å¾e ne aÅ¾ tak moc. NajdeÅ¡ ho v zÃ¡padnÃ­ ÄÃ¡sti centra. ProdÃ¡vÃ¡ vÅ¡echny lÃ©ky a drogy, kterÃ½ tu mÃ¡me.}
+{284}{}{To vÅ¡echno prodÃ¡vÃ¡ on?}
+{285}{}{UvidÃ­me se pozdÄ›ji, Dane. Sbohem.}
+{286}{}{No, jo. VÄ›tÅ¡inou dostaneme dodÃ¡vku Jetu ve velkÃ½m mnoÅ¾stvÃ­, takÅ¾e to pak Doktor rozdÄ›luje do ampulÃ­. Lidi na nÄ›j spolÃ­haj. DÄ›lÃ¡ z toho hroznou Å¡ou, jak je vÅ¡echno ÄistÃ½ a tak. Jak Å™Ã­kÃ¡m, jednoduchÃ¡ medicÃ­na pro jednoduchÃ½ lidi.}
+{287}{}{Aha. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{288}{}{DÃ­ky za informace, Dane. Sbohem.}
+{289}{}{DostaneÅ¡ ode mÄ› tak akorÃ¡t dvÄ› vÄ›ci, milej pane. Nic a hovno, a hovno uÅ¾ mÃ¡Å¡ v hlavÄ›. A teÄ mi zmiz z oÄÃ­.}
+{290}{}{DostaneÅ¡ ode mÄ› tak akorÃ¡t dvÄ› vÄ›ci, sleÄinko. Nic a hovno, a hovno uÅ¾ mÃ¡Å¡ v hlavÄ›. A teÄ mi zmiz z oÄÃ­.}
+{291}{}{Ale no tÃ¡k. OdpusÅ¥ mi. Å˜ekni mi, co potÅ™ebujeÅ¡.}
+{292}{}{ChceÅ¡ si to se mnou rozdat? Tak pojÄ.}
+{293}{}{OdchÃ¡zÃ­m odsud a moc rÃ¡d. Sbohem.}
+{294}{}{O tom jsi mÄ›l pÅ™emÃ½Å¡let, neÅ¾ se ti to vymklo z rukou. Jdi do prdele a vypadni z mÃ½ kancelÃ¡Å™e.}
+{295}{}{Ã“, pan tvrÄÃ¡k.}
+{296}{}{OdchÃ¡zÃ­m. A ty se uklidni. Sbohem.}
+{297}{}{Nikdo tohle neÅ™ekne Danovi McGrew a odejde Å¾ivÃ½.}
+{298}{}{Tak se dÃ­vej.}
+{299}{}{No jasnÄ›..."NebezpeÄnÃ½ Dane."}
+{300}{}{OdpusÅ¥, Dane, jÃ¡ to tak nemyslel. Jenom jsem si dÄ›lal s-srandu. Jo, srandu. Sbohem.}

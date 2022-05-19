@@ -1,63 +1,63 @@
-{100}{}{Vidíš mue obleèeného v uniformì NCR policie.}
-{101}{}{Vidíš Jacka, asistenta zástupce NCR policie.}
-{102}{}{Zdá se, e je zranìn. Má pevnì sevøené èelisti, na èele nabìhnuté íly a nevykazuje ádné známky radosti nebo štìstí.}
-{103}{}{Nechci teï poslouchat tvoje problémy. Jdi s tím za nìkım jinım.}
-{104}{}{Hele, nechci se nikomu svìøovat. Tobì ani nikomu jinımu.}
-{105}{}{Zatracená ex-manelka... vzala mi úplnì všechno.}
-{106}{}{Víš, udìlala ze mì úplnıho debila. Nikdo nebude z Jacka dìlat debila.}
-{107}{}{Však já jí jednou ukáu. Všem ukáu...}
-{108}{}{Na co èumíš? Vypadni!}
-{109}{}{Kašlu na to! Jack je tady! A teï mì všichni dobøe poslouchejte!}
-{110}{}{Mám u sebe bombu, take se o nic nepokoušejte!}
-{111}{}{Lidi se vdycky jenom Jackovi smáli. Opovrhovali jím... a kdo se smìje teï, no?}
-{112}{}{Budu poèítat do tøí a jestli tu do tı doby Mira nebude, všechno to tu vyhodím do vzduchu. Jedna...}
-{113}{}{Dvì...}
-{114}{}{Tøi...}
-{115}{}{Co chceš? Proè na mì tak èumíš?}
-{116}{}{Chci bıt sám, rozumíš?}
-{117}{}{Zatracená ex-manelka. Všechno je to její vina.}
-{118}{}{U ani krok! Mám bombu!}
-{119}{}{Nedìlej to, Jacku. Vím o lepším øešení.}
-{120}{}{Eh - stùj.}
-{121}{}{Jo, jasnì. Co ty o tom vùbec víš?}
-{122}{}{Vím, e v poslední dobì se ti zrovna moc nedaøí, ale odpálením bomby rozhodnì nic nevyøešíš.}
-{123}{}{Nic. Vím kulovı o tvıch problémech. Co kdybys mi o nich nìco øekl?}
-{124}{}{Co to má bıt... nìjakej trik? Chceš se mnou vykecávat, zatímco mì tvùj parák zezadu odpráskne?}
-{125}{}{Kdo tì chce zabít?}
-{126}{}{Klid, nikdo ti neublíí.}
-{127}{}{Ta zatracená èubka, moje ex-manelka, Mira. Ona mì chce zabít.}
-{128}{}{O tom a rozhodne zákon. Tímhle to nevyøešíš, Jacku.}
-{129}{}{Máš pravdu, najala si mì na tvoji vradu. Co mi na to øekneš, Jacku?}
+{100}{}{VidÃ­Å¡ muÅ¾e obleÄenÃ©ho v uniformÄ› NCR policie.}
+{101}{}{VidÃ­Å¡ Jacka, asistenta zÃ¡stupce NCR policie.}
+{102}{}{ZdÃ¡ se, Å¾e je zranÄ›n. MÃ¡ pevnÄ› sevÅ™enÃ© Äelisti, na Äele nabÄ›hnutÃ© Å¾Ã­ly a nevykazuje Å¾Ã¡dnÃ© znÃ¡mky radosti nebo Å¡tÄ›stÃ­.}
+{103}{}{Nechci teÄ poslouchat tvoje problÃ©my. Jdi s tÃ­m za nÄ›kÃ½m jinÃ½m.}
+{104}{}{Hele, nechci se nikomu svÄ›Å™ovat. TobÄ› ani nikomu jinÃ½mu.}
+{105}{}{ZatracenÃ¡ ex-manÅ¾elka... vzala mi ÃºplnÄ› vÅ¡echno.}
+{106}{}{VÃ­Å¡, udÄ›lala ze mÄ› ÃºplnÃ½ho debila. Nikdo nebude z Jacka dÄ›lat debila.}
+{107}{}{VÅ¡ak jÃ¡ jÃ­ jednou ukÃ¡Å¾u. VÅ¡em ukÃ¡Å¾u...}
+{108}{}{Na co ÄumÃ­Å¡? Vypadni!}
+{109}{}{KaÅ¡lu na to! Jack je tady! A teÄ mÄ› vÅ¡ichni dobÅ™e poslouchejte!}
+{110}{}{MÃ¡m u sebe bombu, takÅ¾e se o nic nepokouÅ¡ejte!}
+{111}{}{Lidi se vÅ¾dycky jenom Jackovi smÃ¡li. Opovrhovali jÃ­m... a kdo se smÄ›je teÄ, no?}
+{112}{}{Budu poÄÃ­tat do tÅ™Ã­ a jestli tu do tÃ½ doby Mira nebude, vÅ¡echno to tu vyhodÃ­m do vzduchu. Jedna...}
+{113}{}{DvÄ›...}
+{114}{}{TÅ™i...}
+{115}{}{Co chceÅ¡? ProÄ na mÄ› tak ÄumÃ­Å¡?}
+{116}{}{Chci bÃ½t sÃ¡m, rozumÃ­Å¡?}
+{117}{}{ZatracenÃ¡ ex-manÅ¾elka. VÅ¡echno je to jejÃ­ vina.}
+{118}{}{UÅ¾ ani krok! MÃ¡m bombu!}
+{119}{}{NedÄ›lej to, Jacku. VÃ­m o lepÅ¡Ã­m Å™eÅ¡enÃ­.}
+{120}{}{Eh - stÅ¯j.}
+{121}{}{Jo, jasnÄ›. Co ty o tom vÅ¯bec vÃ­Å¡?}
+{122}{}{VÃ­m, Å¾e v poslednÃ­ dobÄ› se ti zrovna moc nedaÅ™Ã­, ale odpÃ¡lenÃ­m bomby rozhodnÄ› nic nevyÅ™eÅ¡Ã­Å¡.}
+{123}{}{Nic. VÃ­m kulovÃ½ o tvÃ½ch problÃ©mech. Co kdybys mi o nich nÄ›co Å™ekl?}
+{124}{}{Co to mÃ¡ bÃ½t... nÄ›jakej trik? ChceÅ¡ se mnou vykecÃ¡vat, zatÃ­mco mÄ› tvÅ¯j parÅ¥Ã¡k zezadu odprÃ¡skne?}
+{125}{}{Kdo tÄ› chce zabÃ­t?}
+{126}{}{Klid, nikdo ti neublÃ­Å¾Ã­.}
+{127}{}{Ta zatracenÃ¡ Äubka, moje ex-manÅ¾elka, Mira. Ona mÄ› chce zabÃ­t.}
+{128}{}{O tom aÅ¥ rozhodne zÃ¡kon. TÃ­mhle to nevyÅ™eÅ¡Ã­Å¡, Jacku.}
+{129}{}{MÃ¡Å¡ pravdu, najala si mÄ› na tvoji vraÅ¾du. Co mi na to Å™ekneÅ¡, Jacku?}
 {130}{}{Kdo je sakra ta Mira?}
-{131}{}{Tak jo, ty hajzle. Udìlej to!}
-{132}{}{To má bejt vtip? Já jsem pøece zákon. A jak vidíš, moc dobrıho z toho nevzniklo.}
-{133}{}{Jacku, zamysli se nad tím.}
-{134}{}{Take ty se domníváš, e odpálením elektrárny vyøešíš problém s Mirou?}
-{135}{}{Jak jsem øekl, je to moje bejvalka. Pøistihl jsem ji jak spí s jinım a ona teï všem vykládá, e ten špatnej jsem já. Soud rozhodl, e jí musím dát všechno, ale ona se mì stejnì poøád snaí vydírat.}
-{136}{}{Fíha, to je pìkné drsné. To je opravdu nefér.}
-{137}{}{Z toho se èasem dostaneš a ona na tebe zapomene.}
-{138}{}{Urèitì... ne. Sakra, já nevím. Musím nìco udìlat. Musím dát lidem najevo, e si Jack nenechá všechno líbit.}
-{139}{}{Ale oni to pøece vìdí, Jacku, a jestli se teï vyhodíš do vzduchu, nebudou si tì váit vùbec.}
-{140}{}{Zkus se nad tím zamyslet. Kdy to tady vyhodíš do vzduchu, tak jenom potvrdíš to, co o tobì øíká.}
-{141}{}{Nekecej, Sherlocku. Teï mì budou lidi poslouchat.}
-{142}{}{Nikdo tì nebude poslouchat, dokud budeš dret v ruce bombu. Polo ji na zem, pojï ven a vyøešíme to spolu.}
-{143}{}{Zkus se nad tím zamyslet, Jacku. Kdy to tady vyhodíš do vzduchu, tak si lidé øeknou, "Jack byl srab. Nechal se sekırovat od své bıvalky a u to dál nevydrel." Ona vyhraje a ty prohraješ.}
-{144}{}{Opravdu si to myslíš?}
+{131}{}{Tak jo, ty hajzle. UdÄ›lej to!}
+{132}{}{To mÃ¡ bejt vtip? JÃ¡ jsem pÅ™ece zÃ¡kon. A jak vidÃ­Å¡, moc dobrÃ½ho z toho nevzniklo.}
+{133}{}{Jacku, zamysli se nad tÃ­m.}
+{134}{}{TakÅ¾e ty se domnÃ­vÃ¡Å¡, Å¾e odpÃ¡lenÃ­m elektrÃ¡rny vyÅ™eÅ¡Ã­Å¡ problÃ©m s Mirou?}
+{135}{}{Jak jsem Å™ekl, je to moje bejvalka. PÅ™istihl jsem ji jak spÃ­ s jinÃ½m a ona teÄ vÅ¡em vyklÃ¡dÃ¡, Å¾e ten Å¡patnej jsem jÃ¡. Soud rozhodl, Å¾e jÃ­ musÃ­m dÃ¡t vÅ¡echno, ale ona se mÄ› stejnÄ› poÅ™Ã¡d snaÅ¾Ã­ vydÃ­rat.}
+{136}{}{FÃ­ha, to je pÄ›knÃ© drsnÃ©. To je opravdu nefÃ©r.}
+{137}{}{Z toho se Äasem dostaneÅ¡ a ona na tebe zapomene.}
+{138}{}{UrÄitÄ›... ne. Sakra, jÃ¡ nevÃ­m. MusÃ­m nÄ›co udÄ›lat. MusÃ­m dÃ¡t lidem najevo, Å¾e si Jack nenechÃ¡ vÅ¡echno lÃ­bit.}
+{139}{}{Ale oni to pÅ™ece vÄ›dÃ­, Jacku, a jestli se teÄ vyhodÃ­Å¡ do vzduchu, nebudou si tÄ› vÃ¡Å¾it vÅ¯bec.}
+{140}{}{Zkus se nad tÃ­m zamyslet. KdyÅ¾ to tady vyhodÃ­Å¡ do vzduchu, tak jenom potvrdÃ­Å¡ to, co o tobÄ› Å™Ã­kÃ¡.}
+{141}{}{Nekecej, Sherlocku. TeÄ mÄ› budou lidi poslouchat.}
+{142}{}{Nikdo tÄ› nebude poslouchat, dokud budeÅ¡ drÅ¾et v ruce bombu. PoloÅ¾ ji na zem, pojÄ ven a vyÅ™eÅ¡Ã­me to spolu.}
+{143}{}{Zkus se nad tÃ­m zamyslet, Jacku. KdyÅ¾ to tady vyhodÃ­Å¡ do vzduchu, tak si lidÃ© Å™eknou, "Jack byl srab. Nechal se sekÃ½rovat od svÃ© bÃ½valky a uÅ¾ to dÃ¡l nevydrÅ¾el." Ona vyhraje a ty prohrajeÅ¡.}
+{144}{}{Opravdu si to myslÃ­Å¡?}
 {145}{}{Ano, Jacku. Je to tak.}
-{146}{}{Samozøejmì. Snad si nemyslíš, e ti lu?}
-{147}{}{Nevím.}
-{148}{}{Nenech ji vyhrát, Jacku.}
-{149}{}{Teï máš šanci. Buï chlap. Uka jí, e nejsi srab.}
-{150}{}{Kašlu na to. Vdy ty jenom kecáš a mùj osud je ti úplnì ukradenej!}
-{151}{}{No kruci, moná máš pravdu. Tohle asi nebyl zrovna nejlepší nápad.}
-{152}{}{Já bych to toti opravdu udìlal, víš?}
-{153}{}{Zatracená Mira, já jí ukáu.}
-{154}{}{Teï lidé vìdí, kdo je Jack, to mi vìø.}
-{155}{}{Dr se zpátky! Nechci ti ublíit!}
-{156}{}{Tohle se tì netıká!}
-{157}{}{Jen do toho, zab mì. Myslíš, e se bojím?}
-{158}{}{S tímhle nemáš nic spoleènıho. Nech mì bıt.}
-{159}{}{Buï se vyhodím do vzduchu, nebo mì zabiješ. Je mi to fuk.}
-{160}{}{Nechci ti ublíit! Jenom chci, aby si mì lidi pamatovali...}
-{161}{}{Získáváš }
-{162}{}{ zkušenostních bodù za vyøešení situace s Jackem.}
+{146}{}{SamozÅ™ejmÄ›. Snad si nemyslÃ­Å¡, Å¾e ti lÅ¾u?}
+{147}{}{NevÃ­m.}
+{148}{}{Nenech ji vyhrÃ¡t, Jacku.}
+{149}{}{TeÄ mÃ¡Å¡ Å¡anci. BuÄ chlap. UkaÅ¾ jÃ­, Å¾e nejsi srab.}
+{150}{}{KaÅ¡lu na to. VÅ¾dyÅ¥ ty jenom kecÃ¡Å¡ a mÅ¯j osud je ti ÃºplnÄ› ukradenej!}
+{151}{}{No kruci, moÅ¾nÃ¡ mÃ¡Å¡ pravdu. Tohle asi nebyl zrovna nejlepÅ¡Ã­ nÃ¡pad.}
+{152}{}{JÃ¡ bych to totiÅ¾ opravdu udÄ›lal, vÃ­Å¡?}
+{153}{}{ZatracenÃ¡ Mira, jÃ¡ jÃ­ ukÃ¡Å¾u.}
+{154}{}{TeÄ lidÃ© vÄ›dÃ­, kdo je Jack, to mi vÄ›Å™.}
+{155}{}{DrÅ¾ se zpÃ¡tky! Nechci ti ublÃ­Å¾it!}
+{156}{}{Tohle se tÄ› netÃ½kÃ¡!}
+{157}{}{Jen do toho, zab mÄ›. MyslÃ­Å¡, Å¾e se bojÃ­m?}
+{158}{}{S tÃ­mhle nemÃ¡Å¡ nic spoleÄnÃ½ho. Nech mÄ› bÃ½t.}
+{159}{}{BuÄ se vyhodÃ­m do vzduchu, nebo mÄ› zabijeÅ¡. Je mi to fuk.}
+{160}{}{Nechci ti ublÃ­Å¾it! Jenom chci, aby si mÄ› lidi pamatovali...}
+{161}{}{ZÃ­skÃ¡vÃ¡Å¡ }
+{162}{}{ zkuÅ¡enostnÃ­ch bodÅ¯ za vyÅ™eÅ¡enÃ­ situace s Jackem.}

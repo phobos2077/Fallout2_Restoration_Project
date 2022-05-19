@@ -1,52 +1,52 @@
-{100}{}{Vidíš špinavého uboáka.}
-{101}{}{Vidíš Rattraye, shrbeného asistenta doktora Johnsona.}
-{102}{}{Vidíš shrbenou, špinavou trosku. Vlasy má plné lupù.}
-{103}{}{Ratt uklízet dobøe, doktor.}
-{104}{}{Ty bezcenná hroudo masa. }
-{105}{}{Ratt chtít bıt dobrı pomocník.}
-{106}{}{Nechápu, jak mùu vydret tu tvoji neschopnost.}
-{107}{}{Ratt litovat, Ratt chovat líp.}
-{108}{}{To doufám, jinak poletíš zpátky na ulici. Jsem na tebe a moc hodnı.}
-{109}{}{Ne doktor, nevyhazovat Ratt! Ratt se polepšit. Ratt slíbit.}
-{110}{}{Dobøe, tak uka, jak umíš uklízet. Ale varuju tì.}
-{111}{}{Ratt bıt hodnı. Ratt nedìlat ádnı problém. }
-{112}{}{No dobøe. A teï tady pokliï.}
-{113}{}{Ratt uklízet a uklízet. Sníst všechny zlé brouky. Udrovat dùm èistı.}
-{114}{}{A to je další vìc. Nechci vidìt, jak jíš nìjaké brouky, šváby a já nevím co ještì.}
-{115}{}{Doktor nechtít Ratt jíst brouky? Dobøe, Ratt nechat hezké brouky, aby moct jíst doktor.}
-{116}{}{Já je nechci jíst, ty idiote! Já se jenom nechci dívat, jak je jíš ty.}
-{117}{}{Ratt nejíst brouky?}
-{118}{}{Pøesnì tak. NEJÍST BROUKY PØEDE MNOU. A ke všemu ten odpornı, køupavı zvuk...}
-{119}{}{Take Ratt brouky cucat?}
-{120}{}{NE! Nechci, abys je vıkal, cucal, nebo lízal. Prostì nic.}
-{121}{}{Ratt nejíst brouky. Ratt nechat brouky ít.}
-{122}{}{Vıbornì, koneènì jsi to pochopil. Vyèistil jsi u police?}
-{123}{}{Ano, doktor. Ratt vyèistit všechny doktorovi krásné police. Krásné police všechny èisté.}
-{124}{}{No dobøe a co podlaha? Vdy je celá špinavá.}
-{125}{}{Ratt vydrhnout podlaha pro hodnı doktor. Nechtít špinavá podlaha pro èistı doktor.}
-{126}{}{Hmm, doufám, e si nemyslíš, e se mùeš jen tak flákat? Nebo snad ano?}
-{127}{}{Ne doktor, ne. Ratt to znova neudìlat. Ratt pamatovat.}
-{128}{}{Tak koukej pracovat, nebo tì zase zbièuju.}
-{129}{}{NE! Doktor, nebièovat Ratt. Ratt odteï hodnı.}
-{130}{}{Vìø, e je mi to proti srsti, jene potøebuješ disciplínu, Rattrayi. Opravdu ji potøebuješ.}
-{131}{}{Ano, doktor. Doktor vdycky vìdìt, co bıt nejlepší pro Ratt.}
-{132}{}{Tak si to hlavnì pamatuj, Rattrayi. Bùh ví, proè se s tebou vùbec obtìuju.}
-{133}{}{Doktor hodnı èlovìk. Opravdu hodnı.}
-{134}{}{Ano, to nejspíš opravdu jsem.}
-{135}{}{Já pracovat pro doktor.}
-{136}{}{Já uklidit. Souhlasit?}
-{137}{}{Hehe. Já najít jídlo.}
-{138}{}{Já najít brouk. Mòam.}
-{139}{}{Chtít ty taky brouk? Ratt se podìlit.}
-{140}{}{Doktor se dobøe starat o Ratt.}
-{141}{}{Ratt ošklivı, ale doktor se o nìj dobøe starat.}
-{142}{}{Ratt bıt hlupák. Proè bıt takovı hlupák?}
-{143}{}{Ratt litovat. Ratt nevìdìt, co ty chtít.}
-{144}{}{Doktor øíkat Ratt nesmìt mluvit s hosty.}
-{145}{}{Ratt nemít co øíct.}
-{146}{}{Ratt nestát v cestì. Ratt chtít pomoct.}
-{147}{}{Nevìdìt ty, kam doktor jít?}
-{148}{}{Ratt dlouho nevidìt doktor.}
-{149}{}{Doktor pryè, Ratt smutnı.}
-{150}{}{Kdo teï starat o Ratt?}
-{151}{}{Ratt uklízet dùm, dokud doktor nevrátit.}
+{100}{}{VidÃ­Å¡ Å¡pinavÃ©ho uboÅ¾Ã¡ka.}
+{101}{}{VidÃ­Å¡ Rattraye, shrbenÃ©ho asistenta doktora Johnsona.}
+{102}{}{VidÃ­Å¡ shrbenou, Å¡pinavou trosku. Vlasy mÃ¡ plnÃ© lupÅ¯.}
+{103}{}{Ratt uklÃ­zet dobÅ™e, doktor.}
+{104}{}{Ty bezcennÃ¡ hroudo masa. }
+{105}{}{Ratt chtÃ­t bÃ½t dobrÃ½ pomocnÃ­k.}
+{106}{}{NechÃ¡pu, jak mÅ¯Å¾u vydrÅ¾et tu tvoji neschopnost.}
+{107}{}{Ratt litovat, Ratt chovat lÃ­p.}
+{108}{}{To doufÃ¡m, jinak poletÃ­Å¡ zpÃ¡tky na ulici. Jsem na tebe aÅ¾ moc hodnÃ½.}
+{109}{}{Ne doktor, nevyhazovat Ratt! Ratt se polepÅ¡it. Ratt slÃ­bit.}
+{110}{}{DobÅ™e, tak ukaÅ¾, jak umÃ­Å¡ uklÃ­zet. Ale varuju tÄ›.}
+{111}{}{Ratt bÃ½t hodnÃ½. Ratt nedÄ›lat Å¾Ã¡dnÃ½ problÃ©m. }
+{112}{}{No dobÅ™e. A teÄ tady pokliÄ.}
+{113}{}{Ratt uklÃ­zet a uklÃ­zet. SnÃ­st vÅ¡echny zlÃ© brouky. UdrÅ¾ovat dÅ¯m ÄistÃ½.}
+{114}{}{A to je dalÅ¡Ã­ vÄ›c. Nechci vidÄ›t, jak jÃ­Å¡ nÄ›jakÃ© brouky, Å¡vÃ¡by a jÃ¡ nevÃ­m co jeÅ¡tÄ›.}
+{115}{}{Doktor nechtÃ­t Ratt jÃ­st brouky? DobÅ™e, Ratt nechat hezkÃ© brouky, aby moct jÃ­st doktor.}
+{116}{}{JÃ¡ je nechci jÃ­st, ty idiote! JÃ¡ se jenom nechci dÃ­vat, jak je jÃ­Å¡ ty.}
+{117}{}{Ratt nejÃ­st brouky?}
+{118}{}{PÅ™esnÄ› tak. NEJÃST BROUKY PÅ˜EDE MNOU. A ke vÅ¡emu ten odpornÃ½, kÅ™upavÃ½ zvuk...}
+{119}{}{TakÅ¾e Ratt brouky cucat?}
+{120}{}{NE! Nechci, abys je Å¾vÃ½kal, cucal, nebo lÃ­zal. ProstÄ› nic.}
+{121}{}{Ratt nejÃ­st brouky. Ratt nechat brouky Å¾Ã­t.}
+{122}{}{VÃ½bornÄ›, koneÄnÄ› jsi to pochopil. VyÄistil jsi uÅ¾ police?}
+{123}{}{Ano, doktor. Ratt vyÄistit vÅ¡echny doktorovi krÃ¡snÃ© police. KrÃ¡snÃ© police vÅ¡echny ÄistÃ©.}
+{124}{}{No dobÅ™e a co podlaha? VÅ¾dyÅ¥ je celÃ¡ Å¡pinavÃ¡.}
+{125}{}{Ratt vydrhnout podlaha pro hodnÃ½ doktor. NechtÃ­t Å¡pinavÃ¡ podlaha pro ÄistÃ½ doktor.}
+{126}{}{Hmm, doufÃ¡m, Å¾e si nemyslÃ­Å¡, Å¾e se mÅ¯Å¾eÅ¡ jen tak flÃ¡kat? Nebo snad ano?}
+{127}{}{Ne doktor, ne. Ratt to znova neudÄ›lat. Ratt pamatovat.}
+{128}{}{Tak koukej pracovat, nebo tÄ› zase zbiÄuju.}
+{129}{}{NE! Doktor, nebiÄovat Ratt. Ratt odteÄ hodnÃ½.}
+{130}{}{VÄ›Å™, Å¾e je mi to proti srsti, jenÅ¾e potÅ™ebujeÅ¡ disciplÃ­nu, Rattrayi. Opravdu ji potÅ™ebujeÅ¡.}
+{131}{}{Ano, doktor. Doktor vÅ¾dycky vÄ›dÄ›t, co bÃ½t nejlepÅ¡Ã­ pro Ratt.}
+{132}{}{Tak si to hlavnÄ› pamatuj, Rattrayi. BÅ¯h vÃ­, proÄ se s tebou vÅ¯bec obtÄ›Å¾uju.}
+{133}{}{Doktor hodnÃ½ ÄlovÄ›k. Opravdu hodnÃ½.}
+{134}{}{Ano, to nejspÃ­Å¡ opravdu jsem.}
+{135}{}{JÃ¡ pracovat pro doktor.}
+{136}{}{JÃ¡ uklidit. Souhlasit?}
+{137}{}{Hehe. JÃ¡ najÃ­t jÃ­dlo.}
+{138}{}{JÃ¡ najÃ­t brouk. MÅˆam.}
+{139}{}{ChtÃ­t ty taky brouk? Ratt se podÄ›lit.}
+{140}{}{Doktor se dobÅ™e starat o Ratt.}
+{141}{}{Ratt oÅ¡klivÃ½, ale doktor se o nÄ›j dobÅ™e starat.}
+{142}{}{Ratt bÃ½t hlupÃ¡k. ProÄ bÃ½t takovÃ½ hlupÃ¡k?}
+{143}{}{Ratt litovat. Ratt nevÄ›dÄ›t, co ty chtÃ­t.}
+{144}{}{Doktor Å™Ã­kat Ratt nesmÄ›t mluvit s hosty.}
+{145}{}{Ratt nemÃ­t co Å™Ã­ct.}
+{146}{}{Ratt nestÃ¡t v cestÄ›. Ratt chtÃ­t pomoct.}
+{147}{}{NevÄ›dÄ›t ty, kam doktor jÃ­t?}
+{148}{}{Ratt dlouho nevidÄ›t doktor.}
+{149}{}{Doktor pryÄ, Ratt smutnÃ½.}
+{150}{}{Kdo teÄ starat o Ratt?}
+{151}{}{Ratt uklÃ­zet dÅ¯m, dokud doktor nevrÃ¡tit.}

@@ -1,9 +1,9 @@
 {100}{}{You see an elderly, frail man.}
-{101}{}{Vidíš viceprezidenta Carlsona.}
-{102}{}{Aèkoliv fyzicky sláb, jeho oèi prozrazují velkou morální sílu. Je to odhodlanı èlovìk.}
-{103}{}{Co tady dìláte? Stráe!}
-{104}{}{Vy nepatøíte k mım muùm. Stráe!}
-{105}{}{Vypadnìte odsud!}
-{106}{}{Jsem velice zaneprázdnìn. Prosím, pøijïte jindy.}
-{107}{}{Podívejte, nechci bıt nezdvoøilı, ale potøebuji pracovat.}
-{108}{}{Promiòte, ale teï na vás nemám èas.}
+{101}{}{VidÃ­Å¡ viceprezidenta Carlsona.}
+{102}{}{AÄkoliv fyzicky slÃ¡b, jeho oÄi prozrazujÃ­ velkou morÃ¡lnÃ­ sÃ­lu. Je to odhodlanÃ½ ÄlovÄ›k.}
+{103}{}{Co tady dÄ›lÃ¡te? StrÃ¡Å¾e!}
+{104}{}{Vy nepatÅ™Ã­te k mÃ½m muÅ¾Å¯m. StrÃ¡Å¾e!}
+{105}{}{VypadnÄ›te odsud!}
+{106}{}{Jsem velice zaneprÃ¡zdnÄ›n. ProsÃ­m, pÅ™ijÄte jindy.}
+{107}{}{PodÃ­vejte, nechci bÃ½t nezdvoÅ™ilÃ½, ale potÅ™ebuji pracovat.}
+{108}{}{PromiÅˆte, ale teÄ na vÃ¡s nemÃ¡m Äas.}

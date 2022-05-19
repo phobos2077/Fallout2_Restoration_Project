@@ -1,7 +1,7 @@
-{100}{}{Vidíš hrdloøeza.}
-{101}{}{Je to Tylerùv pøítel.}
-{110}{}{Pøišel jsi na párty?}
-{111}{}{*škyt* Chlast na mì!}
-{112}{}{Štìtky jsou vzadu, jestli si chceš vrznout.}
-{120}{}{Nikdo nebude kurvit paøbu, kdy jsem poblí.}
-{130}{}{Jsme s tìma sráèema vymrdali...kurvili *škyt* pìknou párty a vùbec tak nìjak všechno.}
+{100}{}{VidÃ­Å¡ hrdloÅ™eza.}
+{101}{}{Je to TylerÅ¯v pÅ™Ã­tel.}
+{110}{}{PÅ™iÅ¡el jsi na pÃ¡rty?}
+{111}{}{*Å¡kyt* Chlast na mÄ›!}
+{112}{}{Å tÄ›tky jsou vzadu, jestli si chceÅ¡ vrznout.}
+{120}{}{Nikdo nebude kurvit paÅ™bu, kdyÅ¾ jsem poblÃ­Å¾.}
+{130}{}{Jsme s tÄ›ma srÃ¡Äema vymrdali...kurvili *Å¡kyt* pÄ›knou pÃ¡rty a vÅ¯bec tak nÄ›jak vÅ¡echno.}

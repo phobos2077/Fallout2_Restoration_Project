@@ -1,143 +1,143 @@
-{100}{}{Vidíš unavenou enu, která mohla bıt zamlada docela pohledná.}
-{101}{}{Vidíš Lou, majitelku hospody U Malamuta.}
-{102}{}{Vidíš hodnì nalíèenou starší enu.}
-{103}{}{Chci ti jen øíct, e jsem ti moc vdìèná. Mùu ti nìjak pomoct?}
-{104}{}{Vìzení není pro toho bastarda dostateènım trestem.}
-{105}{}{Nemùu uvìøit, e necháš toho bastarda jít. A ještì máš tu odvahu se sem vrátit! Co sakra chceš?}
-{106}{}{Jsi poøád hroznı idiot. Ale ivot jde dál... pro vìtšinu z nás. Co sakra ještì chceš?}
-{107}{}{Pamatuj si, co jsem øekla. Pøíliš mnoho penìz nedìlá tomu dìvèeti dobrotu. Co potøebuješ?}
-{108}{}{Zdravím. Já jsem Lou a tohle je moje hospoda U Malamuta, nejlepšího podniku na sever od San Francisca.}
-{109}{}{Co to bude teï?}
+{100}{}{VidÃ­Å¡ unavenou Å¾enu, kterÃ¡ mohla bÃ½t zamlada docela pohlednÃ¡.}
+{101}{}{VidÃ­Å¡ Lou, majitelku hospody U Malamuta.}
+{102}{}{VidÃ­Å¡ hodnÄ› nalÃ­Äenou starÅ¡Ã­ Å¾enu.}
+{103}{}{Chci ti jen Å™Ã­ct, Å¾e jsem ti moc vdÄ›ÄnÃ¡. MÅ¯Å¾u ti nÄ›jak pomoct?}
+{104}{}{VÄ›zenÃ­ nenÃ­ pro toho bastarda dostateÄnÃ½m trestem.}
+{105}{}{NemÅ¯Å¾u uvÄ›Å™it, Å¾e nechÃ¡Å¡ toho bastarda jÃ­t. A jeÅ¡tÄ› mÃ¡Å¡ tu odvahu se sem vrÃ¡tit! Co sakra chceÅ¡?}
+{106}{}{Jsi poÅ™Ã¡d hroznÃ½ idiot. Ale Å¾ivot jde dÃ¡l... pro vÄ›tÅ¡inu z nÃ¡s. Co sakra jeÅ¡tÄ› chceÅ¡?}
+{107}{}{Pamatuj si, co jsem Å™ekla. PÅ™Ã­liÅ¡ mnoho penÄ›z nedÄ›lÃ¡ tomu dÄ›vÄeti dobrotu. Co potÅ™ebujeÅ¡?}
+{108}{}{ZdravÃ­m. JÃ¡ jsem Lou a tohle je moje hospoda U Malamuta, nejlepÅ¡Ã­ho podniku na sever od San Francisca.}
+{109}{}{Co to bude teÄ?}
 {110}{}{Ooo?}
-{111}{}{Ahoj, Lou. Potøebuju nìjaké vìci.}
-{112}{}{Neslyšel jsi o nìèem, co se jmenuje GECK?}
-{113}{}{Ahoj, Lou. Co se tady ve mìstì dìje?}
+{111}{}{Ahoj, Lou. PotÅ™ebuju nÄ›jakÃ© vÄ›ci.}
+{112}{}{NeslyÅ¡el jsi o nÄ›Äem, co se jmenuje GECK?}
+{113}{}{Ahoj, Lou. Co se tady ve mÄ›stÄ› dÄ›je?}
 {114}{}{Co je to malamut?}
 {115}{}{Kde je San Francisco?}
-{116}{}{Pomáhám šerifovi. Øekl mi, e tu nìkdo poøezal jedno z tvıch dìvèat.}
-{117}{}{Je mi líto, ale nemám moc èasu ani trpìlivosti pro hlupáky. Co potøebuješ?}
-{118}{}{Blití?}
+{116}{}{PomÃ¡hÃ¡m Å¡erifovi. Å˜ekl mi, Å¾e tu nÄ›kdo poÅ™ezal jedno z tvÃ½ch dÄ›vÄat.}
+{117}{}{Je mi lÃ­to, ale nemÃ¡m moc Äasu ani trpÄ›livosti pro hlupÃ¡ky. Co potÅ™ebujeÅ¡?}
+{118}{}{BlitÃ­?}
 {119}{}{Pokoj?}
-{120}{}{Pápá.}
-{121}{}{Myslíš pití, viï? No, to bude $25 za hezky vychlazenou láhev piva. Dávám ti speciální slevu, páè soucítím s tìmi jednoduššími.}
-{122}{}{Blití? [Dret penìenku v ruce]}
+{120}{}{PÃ¡pÃ¡.}
+{121}{}{MyslÃ­Å¡ pitÃ­, viÄ? No, to bude $25 za hezky vychlazenou lÃ¡hev piva. DÃ¡vÃ¡m ti speciÃ¡lnÃ­ slevu, pÃ¡Ä soucÃ­tÃ­m s tÄ›mi jednoduÅ¡Å¡Ã­mi.}
+{122}{}{BlitÃ­? [DrÅ¾et penÄ›Å¾enku v ruce]}
 {123}{}{Pokoj?}
-{124}{}{Ne blití. Pá pá.}
-{125}{}{Ty chceš pokoj, viï? No, moná bych pro tebe nìco mìla. Jedno útulné místeèko tì bude stát $50.}
-{126}{}{Pokoj. [Dret penìenku v ruce]}
-{127}{}{Blití?}
-{128}{}{Ne pokoj. Pá pá.}
-{129}{}{Mùeš jít dovnitø, ale to tvoje pojízdné "obludárium" zùstane venku.}
-{130}{}{Slyšíš? Nechci ádné obludy ve své hospodì.}
-{131}{}{Tyhle *vìci* do mé hospody nesmìjí. Nech je venku.}
-{132}{}{Nejsem si jistá, jestli jsem u o tom nìkdy slyšela. Co je to?}
-{133}{}{No, je to zaøízení, které se pouívá pro... eh, hmm. Je to prostì nìco, co hledám. Povìz mi ještì o nìèem jiném.}
-{134}{}{Nic dùleitého. No, radìji pùjdu.}
-{135}{}{No, tìíme hlavnì zlatou rudu a prodáváme ji ostatním mìstùm.}
-{136}{}{Vy tu tìíte zlatou rudu?}
-{137}{}{Komu tu rudu prodáváte?}
-{138}{}{To je zajímavé. Povìz mi ještì o nìèem jiném.}
-{139}{}{Jo. Jen v severní èásti mìsta jsou dva fungující doly na zlato.}
-{140}{}{Øíkala jsi, e tu rudu prodáváte?}
-{141}{}{Zajímavé. Chci se ještì na nìco zeptat.}
-{142}{}{No, vymìòujeme zlatou rudu za lékaøské potøeby z Vault City. Dále ji vymìòujeme za èerstvé brahmíny z NCR a jiné potraviny a taky za drogy a chlast z New Rena.}
-{143}{}{Vy tu tìíte zlato?}
-{144}{}{Zajímavé. Chci se ještì na nìco zeptat.}
-{145}{}{Takovı velkı pes.}
-{146}{}{Aha, chápu. Hmm, chci se ještì na nìco zeptat.}
-{147}{}{A jo vlastnì! To bude asi všechno. Díky a sbohem.}
-{148}{}{San Francisco je hodnì na jihu. Je to odsud pìknì daleko. Jdi na jih a pak trochu na západ. Je to hned vedle oceánu. Ukáu ti to na mapì. Ale nechápu, proè by tam chtìl nìkdo normální jít.}
-{149}{}{Proè? Je to nebezpeèné?}
-{150}{}{Zajímavé. Chci se ještì na nìco zeptat.}
-{151}{}{Díky za informace. Sbohem.}
-{152}{}{No, slyšela jsem, e je celé mìsto plné nìjakıch praštìnıch náboenskıch fanatikù.}
-{153}{}{Praštìnıch fanatikù?}
-{154}{}{Nìkteré vìci se prostì nezmìní. Díky a sbohem.}
-{155}{}{Jo, pøesnì tak. Slyšela jsem, e tam staví nìjaké obrovské zaøízení, které jim umoní spojit se s jejich bohy nebo nìco takového, ale nevím to jistì, je to opravdu daleko.}
-{156}{}{Zdá se, e monumenty bohùm s sebou vdy pøinášejí nìjaké problémy. Povìz mi ještì o nìèem jiném.}
-{157}{}{To bude asi všechno. Díky. Sbohem.}
-{158}{}{Pøesnì tak. Je na tom dost špatnì. Byla velmi hezká. Doufám, e se o to rychle postaráš, protoe se mi u pøestává líbit, jak si ti horníci dìlají, co se jim zachce.}
-{159}{}{Mùu tu dívku vidìt?}
-{160}{}{Nevíš, kdo to udìlal?}
-{161}{}{Mùeš mi øíct, co se pøesnì stalo?}
-{162}{}{To vypadá na velikı problém. Chci se ještì na nìco zeptat.}
-{163}{}{Poslala jsem ji pryè. V tomhle oboru by u stejnì nemìla moc uplatnìní. Stejnì by s ní u nikdo nechtìl bıt poté, co jí ten bastard tak zøídil. Take jsem jí dala nìjaké peníze a nechala ji jít.}
-{164}{}{Nevíš, kdo to udìlal?}
-{165}{}{Mùeš mi øíct, co se pøesnì stalo?}
-{166}{}{Chci se ještì na nìco zeptat.}
-{167}{}{Pokusím se to objasnit. Mùeš se na mì spolehnout. Sbohem.}
-{168}{}{Nejsem si jistá, kdo to udìlal, ale kdy jsme ji našli, drela v ruce platidlo dolu Morningstar a navíc s ní byl naposledy nìjakı horník.}
-{169}{}{Mùu tu dívku vidìt?}
-{170}{}{Mùeš mi øíct, co se pøesnì stalo?}
+{124}{}{Ne blitÃ­. PÃ¡ pÃ¡.}
+{125}{}{Ty chceÅ¡ pokoj, viÄ? No, moÅ¾nÃ¡ bych pro tebe nÄ›co mÄ›la. Jedno ÃºtulnÃ© mÃ­steÄko tÄ› bude stÃ¡t $50.}
+{126}{}{Pokoj. [DrÅ¾et penÄ›Å¾enku v ruce]}
+{127}{}{BlitÃ­?}
+{128}{}{Ne pokoj. PÃ¡ pÃ¡.}
+{129}{}{MÅ¯Å¾eÅ¡ jÃ­t dovnitÅ™, ale to tvoje pojÃ­zdnÃ© "obludÃ¡rium" zÅ¯stane venku.}
+{130}{}{SlyÅ¡Ã­Å¡? Nechci Å¾Ã¡dnÃ© obludy ve svÃ© hospodÄ›.}
+{131}{}{Tyhle *vÄ›ci* do mÃ© hospody nesmÄ›jÃ­. Nech je venku.}
+{132}{}{Nejsem si jistÃ¡, jestli jsem uÅ¾ o tom nÄ›kdy slyÅ¡ela. Co je to?}
+{133}{}{No, je to zaÅ™Ã­zenÃ­, kterÃ© se pouÅ¾Ã­vÃ¡ pro... eh, hmm. Je to prostÄ› nÄ›co, co hledÃ¡m. PovÄ›z mi jeÅ¡tÄ› o nÄ›Äem jinÃ©m.}
+{134}{}{Nic dÅ¯leÅ¾itÃ©ho. No, radÄ›ji pÅ¯jdu.}
+{135}{}{No, tÄ›Å¾Ã­me hlavnÄ› zlatou rudu a prodÃ¡vÃ¡me ji ostatnÃ­m mÄ›stÅ¯m.}
+{136}{}{Vy tu tÄ›Å¾Ã­te zlatou rudu?}
+{137}{}{Komu tu rudu prodÃ¡vÃ¡te?}
+{138}{}{To je zajÃ­mavÃ©. PovÄ›z mi jeÅ¡tÄ› o nÄ›Äem jinÃ©m.}
+{139}{}{Jo. Jen v severnÃ­ ÄÃ¡sti mÄ›sta jsou dva fungujÃ­cÃ­ doly na zlato.}
+{140}{}{Å˜Ã­kala jsi, Å¾e tu rudu prodÃ¡vÃ¡te?}
+{141}{}{ZajÃ­mavÃ©. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{142}{}{No, vymÄ›Åˆujeme zlatou rudu za lÃ©kaÅ™skÃ© potÅ™eby z Vault City. DÃ¡le ji vymÄ›Åˆujeme za ÄerstvÃ© brahmÃ­ny z NCR a jinÃ© potraviny a taky za drogy a chlast z New Rena.}
+{143}{}{Vy tu tÄ›Å¾Ã­te zlato?}
+{144}{}{ZajÃ­mavÃ©. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{145}{}{TakovÃ½ velkÃ½ pes.}
+{146}{}{Aha, chÃ¡pu. Hmm, chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{147}{}{A jo vlastnÄ›! To bude asi vÅ¡echno. DÃ­ky a sbohem.}
+{148}{}{San Francisco je hodnÄ› na jihu. Je to odsud pÄ›knÄ› daleko. Jdi na jih a pak trochu na zÃ¡pad. Je to hned vedle oceÃ¡nu. UkÃ¡Å¾u ti to na mapÄ›. Ale nechÃ¡pu, proÄ by tam chtÄ›l nÄ›kdo normÃ¡lnÃ­ jÃ­t.}
+{149}{}{ProÄ? Je to nebezpeÄnÃ©?}
+{150}{}{ZajÃ­mavÃ©. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{151}{}{DÃ­ky za informace. Sbohem.}
+{152}{}{No, slyÅ¡ela jsem, Å¾e je celÃ© mÄ›sto plnÃ© nÄ›jakÃ½ch praÅ¡tÄ›nÃ½ch nÃ¡boÅ¾enskÃ½ch fanatikÅ¯.}
+{153}{}{PraÅ¡tÄ›nÃ½ch fanatikÅ¯?}
+{154}{}{NÄ›kterÃ© vÄ›ci se prostÄ› nezmÄ›nÃ­. DÃ­ky a sbohem.}
+{155}{}{Jo, pÅ™esnÄ› tak. SlyÅ¡ela jsem, Å¾e tam stavÃ­ nÄ›jakÃ© obrovskÃ© zaÅ™Ã­zenÃ­, kterÃ© jim umoÅ¾nÃ­ spojit se s jejich bohy nebo nÄ›co takovÃ©ho, ale nevÃ­m to jistÄ›, je to opravdu daleko.}
+{156}{}{ZdÃ¡ se, Å¾e monumenty bohÅ¯m s sebou vÅ¾dy pÅ™inÃ¡Å¡ejÃ­ nÄ›jakÃ© problÃ©my. PovÄ›z mi jeÅ¡tÄ› o nÄ›Äem jinÃ©m.}
+{157}{}{To bude asi vÅ¡echno. DÃ­ky. Sbohem.}
+{158}{}{PÅ™esnÄ› tak. Je na tom dost Å¡patnÄ›. Byla velmi hezkÃ¡. DoufÃ¡m, Å¾e se o to rychle postarÃ¡Å¡, protoÅ¾e se mi uÅ¾ pÅ™estÃ¡vÃ¡ lÃ­bit, jak si ti hornÃ­ci dÄ›lajÃ­, co se jim zachce.}
+{159}{}{MÅ¯Å¾u tu dÃ­vku vidÄ›t?}
+{160}{}{NevÃ­Å¡, kdo to udÄ›lal?}
+{161}{}{MÅ¯Å¾eÅ¡ mi Å™Ã­ct, co se pÅ™esnÄ› stalo?}
+{162}{}{To vypadÃ¡ na velikÃ½ problÃ©m. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{163}{}{Poslala jsem ji pryÄ. V tomhle oboru by uÅ¾ stejnÄ› nemÄ›la moc uplatnÄ›nÃ­. StejnÄ› by s nÃ­ uÅ¾ nikdo nechtÄ›l bÃ½t potÃ©, co jÃ­ ten bastard tak zÅ™Ã­dil. TakÅ¾e jsem jÃ­ dala nÄ›jakÃ© penÃ­ze a nechala ji jÃ­t.}
+{164}{}{NevÃ­Å¡, kdo to udÄ›lal?}
+{165}{}{MÅ¯Å¾eÅ¡ mi Å™Ã­ct, co se pÅ™esnÄ› stalo?}
+{166}{}{Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{167}{}{PokusÃ­m se to objasnit. MÅ¯Å¾eÅ¡ se na mÄ› spolehnout. Sbohem.}
+{168}{}{Nejsem si jistÃ¡, kdo to udÄ›lal, ale kdyÅ¾ jsme ji naÅ¡li, drÅ¾ela v ruce platidlo dolu Morningstar a navÃ­c s nÃ­ byl naposledy nÄ›jakÃ½ hornÃ­k.}
+{169}{}{MÅ¯Å¾u tu dÃ­vku vidÄ›t?}
+{170}{}{MÅ¯Å¾eÅ¡ mi Å™Ã­ct, co se pÅ™esnÄ› stalo?}
 {171}{}{Platidlo dolu Morningstar? Co je to?}
-{172}{}{Chci se ještì na nìco zeptat.}
-{173}{}{Pokusím se to objasnit. Mùeš se na mì spolehnout. Sbohem.}
-{174}{}{No, slyšela jsem nìjakı dlouhı vıkøik, tak jsem se šla podívat do toho pokoje. Kdy jsem tam pøišla, ten bastard byl u pryè a moje dìvèe leelo v kalui krve. Pak jsem zavolala doktora a nakonec šerifa. Zbytek u znáš.}
-{175}{}{Nevíš, kdo to udìlal?}
-{176}{}{Mùu tu dívku vidìt?}
-{177}{}{Chci se ještì na nìco zeptat.}
-{178}{}{Pokusím se to objasnit. Mùeš se na mì spolehnout. Sbohem.}
-{179}{}{Dan McGrew provozuje dùl Morningstar v severní èásti mìsta. Horníci vìtšinou dostávají zaplaceno na úèet nebo stvrzenkami... vdy víš, plastikovımi mincemi. No a moje dívka byla nalezena s jednou takovou mincí v ruce. Tady je, podívej. (Pøedá ti minci.)}
-{180}{}{Aha, chápu. Mùu tu dívku vidìt?}
-{181}{}{Aha, chápu. Mùeš mi øíct, co se pøesnì stalo?}
-{182}{}{Chci se ještì na nìco zeptat.}
-{183}{}{Pokusím se to objasnit. Mùeš se na mì spolehnout. Sbohem.}
-{184}{}{No, jsem ráda, e se aspoò nìkdo najde. Taková vìc se prostì nedìlá. Doufám, e toho bastarda chytíš a dáš mu co proto. Zaøiï, aby to u nikomu neudìlal.}
-{185}{}{No, udìlám, co budu moct. Chci se ještì na nìco zeptat.}
-{186}{}{Uvidím, co se dá dìlat. Sbohem.}
-{187}{}{Co pro tebe mùu udìlat? Chceš prázdnou postel, nebo s nìkım? Moná nìjakı chlast nebo jiné zboí?}
-{188}{}{Chci pokoj s prázdnou postelí, Lou.}
-{189}{}{Postel s nìkım? To zní dobøe. Povìz mi o tom víc.}
-{190}{}{Chlast nebo jiné zboí? Tak to je nìco pro mì. Pojïme obchodovat.}
-{191}{}{Hmm, chci se ještì na nìco zeptat.}
-{192}{}{Bude to všechno, nebo chceš ještì nìco koupit?}
-{193}{}{Vypadá to, e se nemùeš rozhodnout. Bude to všechno, nebo se chceš podívat ještì jednou?}
-{194}{}{Ne. To u bude opravdu všechno. Díky. Povìz mi ještì o nìèem jiném.}
-{195}{}{Hmm, chci se ještì jednou podívat na tvoje zboí.}
-{196}{}{Díky, Lou. To bude prozatím všechno. Sbohem.}
-{197}{}{Take ty se chceš vyspat, jo? No, to tì bude stát $40. V cenì je zahrnuto i èerstvì vyprané povleèení. Poøád máš zájem?}
+{172}{}{Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{173}{}{PokusÃ­m se to objasnit. MÅ¯Å¾eÅ¡ se na mÄ› spolehnout. Sbohem.}
+{174}{}{No, slyÅ¡ela jsem nÄ›jakÃ½ dlouhÃ½ vÃ½kÅ™ik, tak jsem se Å¡la podÃ­vat do toho pokoje. KdyÅ¾ jsem tam pÅ™iÅ¡la, ten bastard byl uÅ¾ pryÄ a moje dÄ›vÄe leÅ¾elo v kaluÅ¾i krve. Pak jsem zavolala doktora a nakonec Å¡erifa. Zbytek uÅ¾ znÃ¡Å¡.}
+{175}{}{NevÃ­Å¡, kdo to udÄ›lal?}
+{176}{}{MÅ¯Å¾u tu dÃ­vku vidÄ›t?}
+{177}{}{Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{178}{}{PokusÃ­m se to objasnit. MÅ¯Å¾eÅ¡ se na mÄ› spolehnout. Sbohem.}
+{179}{}{Dan McGrew provozuje dÅ¯l Morningstar v severnÃ­ ÄÃ¡sti mÄ›sta. HornÃ­ci vÄ›tÅ¡inou dostÃ¡vajÃ­ zaplaceno na ÃºÄet nebo stvrzenkami... vÅ¾dyÅ¥ vÃ­Å¡, plastikovÃ½mi mincemi. No a moje dÃ­vka byla nalezena s jednou takovou mincÃ­ v ruce. Tady je, podÃ­vej. (PÅ™edÃ¡ ti minci.)}
+{180}{}{Aha, chÃ¡pu. MÅ¯Å¾u tu dÃ­vku vidÄ›t?}
+{181}{}{Aha, chÃ¡pu. MÅ¯Å¾eÅ¡ mi Å™Ã­ct, co se pÅ™esnÄ› stalo?}
+{182}{}{Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{183}{}{PokusÃ­m se to objasnit. MÅ¯Å¾eÅ¡ se na mÄ› spolehnout. Sbohem.}
+{184}{}{No, jsem rÃ¡da, Å¾e se aspoÅˆ nÄ›kdo najde. TakovÃ¡ vÄ›c se prostÄ› nedÄ›lÃ¡. DoufÃ¡m, Å¾e toho bastarda chytÃ­Å¡ a dÃ¡Å¡ mu co proto. ZaÅ™iÄ, aby to uÅ¾ nikomu neudÄ›lal.}
+{185}{}{No, udÄ›lÃ¡m, co budu moct. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{186}{}{UvidÃ­m, co se dÃ¡ dÄ›lat. Sbohem.}
+{187}{}{Co pro tebe mÅ¯Å¾u udÄ›lat? ChceÅ¡ prÃ¡zdnou postel, nebo s nÄ›kÃ½m? MoÅ¾nÃ¡ nÄ›jakÃ½ chlast nebo jinÃ© zboÅ¾Ã­?}
+{188}{}{Chci pokoj s prÃ¡zdnou postelÃ­, Lou.}
+{189}{}{Postel s nÄ›kÃ½m? To znÃ­ dobÅ™e. PovÄ›z mi o tom vÃ­c.}
+{190}{}{Chlast nebo jinÃ© zboÅ¾Ã­? Tak to je nÄ›co pro mÄ›. PojÄme obchodovat.}
+{191}{}{Hmm, chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{192}{}{Bude to vÅ¡echno, nebo chceÅ¡ jeÅ¡tÄ› nÄ›co koupit?}
+{193}{}{VypadÃ¡ to, Å¾e se nemÅ¯Å¾eÅ¡ rozhodnout. Bude to vÅ¡echno, nebo se chceÅ¡ podÃ­vat jeÅ¡tÄ› jednou?}
+{194}{}{Ne. To uÅ¾ bude opravdu vÅ¡echno. DÃ­ky. PovÄ›z mi jeÅ¡tÄ› o nÄ›Äem jinÃ©m.}
+{195}{}{Hmm, chci se jeÅ¡tÄ› jednou podÃ­vat na tvoje zboÅ¾Ã­.}
+{196}{}{DÃ­ky, Lou. To bude prozatÃ­m vÅ¡echno. Sbohem.}
+{197}{}{TakÅ¾e ty se chceÅ¡ vyspat, jo? No, to tÄ› bude stÃ¡t $40. V cenÄ› je zahrnuto i ÄerstvÄ› vypranÃ© povleÄenÃ­. PoÅ™Ã¡d mÃ¡Å¡ zÃ¡jem?}
 {198}{}{To beru, Lou.}
-{199}{}{Hmm, odpoèinu si jindy. Chci se ještì na nìco zeptat.}
-{200}{}{Bohuel na to teï nemám peníze. Chci se ještì na nìco zeptat.}
-{201}{}{Nejseš náhodou jeden z Faniinıch zákazníkù? Proè si radši nepromluvíš s ní? Je nìkde vzadu.}
-{202}{}{Jsi hotové prokletí. Potom, co se stalo s Fannie Mae, s tebou nechtìjí mít mé dívky nic spoleèného... a ani se jim nedivím.}
-{203}{}{Hledáš nìkoho, kdo ti pomùe zahøát tu velkou postel, jo? Poèkej, podívám se, kdo má momentálnì volno. Hmm, zkus se zeptat Fannie Mae. Mìla by se tu nìkde poflakovat. S ní u se na nìèem domluvíš.}
-{204}{}{To zní jako dobrı nápad, jdu za ní. Sbohem.}
-{205}{}{Ale já... dobøe. Sbohem.}
-{206}{}{Ty a Fannie jste u spolu nìco mìli. Proè si radši nepromluvíš s ní? Je nìkde vzadu.}
-{207}{}{Jsi hotové prokletí. Potom, co se stalo s Fannie Mae, s tebou nechtìjí mít mé dívky nic spoleèného... a ani se jim nedivím.}
-{208}{}{U nás pracují jenom dìvèata, zlato, ale pokud ti to nevadí, zkus se domluvit s Fannie Mae. Je nìkde vzadu. S ní u se na nìèem domluvíš.}
-{209}{}{To zní jako dobrı nápad, jdu za ní. Sbohem.}
-{210}{}{Ale já... dobøe. Sbohem.}
-{211}{}{Nemùu uvìøit, e jsi byl tak hloupı a dal Fannie tolik penìz. Díky tomu se pøedávkovala. Jsi idiot nebo co?}
-{212}{}{To mi nikdo neøekl. Opravdu. No tak, Lou... chci se ještì na nìco zeptat.}
-{213}{}{Bylo jen na ní, co udìlá se svım ivotem. Sbohem.}
-{214}{}{Vysvobodil jsem ji z tohohle posranıho svìta. Ty taky nejsi ádnej svatoušek, Lou. Sbohem.}
-{215}{}{Take ty jsi ten idiot, co dává mé Fannie všechny ty peníze. To bych nedìlala bıt tebou. Myslíš si, e jí tím pomáháš, ale mılíš se.}
-{216}{}{Co tím myslíš?}
-{217}{}{Pomáhám jí zaèít novı ivot.}
-{218}{}{Jo, jak myslíš. Promluvme si o nìèem jiném.}
-{219}{}{Tím myslím, e má Fannie problém a peníze jí nepomùou. Nechci tì urazit, ale Fannie z tebe dìlá blbce. Ty peníze chce jenom proto, aby si mohla koupit víc Jetu. Hodnì Jetu.}
-{220}{}{Myslím, e se jen bojíš, e pøijdeš o jednu ze svıch nejlépe vydìlávajících dìvèat. Chceš si svoje dívky udret za kadou cenu.}
-{221}{}{Jo, jasnì. U to nebudu dál poslouchat. Sbohem.}
-{222}{}{Svımi penìzi jí pomáháš leda tak do hrobu. Nakupuje za nì strašnì moc Jetu. Pokud jí je nepøestaneš dávat, tak se jednoho dne pøedávkuje.}
-{223}{}{Hmm, budu o tom pøemıšlet.}
-{224}{}{Budu o tom pøemıšlet. Sbohem.}
-{225}{}{Mùeš si myslet, co chceš, já jsem ti jenom chtìla øíct, jaká je to svinì. Je na tobì, jestli tomu vìøíš nebo ne.}
-{226}{}{To u jsem všechno slyšel. Vrame se k jinım záleitostem.}
-{227}{}{Díky, budu o tom pøemıšlet. Chci se ještì na nìco zeptat.}
-{228}{}{Popøemıšlím o tom. Sbohem.}
-{229}{}{Hmmm... moná tu mám øešení. [Pøedat Lou Jet sérum]}
+{199}{}{Hmm, odpoÄinu si jindy. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{200}{}{BohuÅ¾el na to teÄ nemÃ¡m penÃ­ze. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{201}{}{NejseÅ¡ nÃ¡hodou jeden z FaniinÃ½ch zÃ¡kaznÃ­kÅ¯? ProÄ si radÅ¡i nepromluvÃ­Å¡ s nÃ­? Je nÄ›kde vzadu.}
+{202}{}{Jsi hotovÃ© prokletÃ­. Potom, co se stalo s Fannie Mae, s tebou nechtÄ›jÃ­ mÃ­t mÃ© dÃ­vky nic spoleÄnÃ©ho... a ani se jim nedivÃ­m.}
+{203}{}{HledÃ¡Å¡ nÄ›koho, kdo ti pomÅ¯Å¾e zahÅ™Ã¡t tu velkou postel, jo? PoÄkej, podÃ­vÃ¡m se, kdo mÃ¡ momentÃ¡lnÄ› volno. Hmm, zkus se zeptat Fannie Mae. MÄ›la by se tu nÄ›kde poflakovat. S nÃ­ uÅ¾ se na nÄ›Äem domluvÃ­Å¡.}
+{204}{}{To znÃ­ jako dobrÃ½ nÃ¡pad, jdu za nÃ­. Sbohem.}
+{205}{}{Ale jÃ¡... dobÅ™e. Sbohem.}
+{206}{}{Ty a Fannie jste uÅ¾ spolu nÄ›co mÄ›li. ProÄ si radÅ¡i nepromluvÃ­Å¡ s nÃ­? Je nÄ›kde vzadu.}
+{207}{}{Jsi hotovÃ© prokletÃ­. Potom, co se stalo s Fannie Mae, s tebou nechtÄ›jÃ­ mÃ­t mÃ© dÃ­vky nic spoleÄnÃ©ho... a ani se jim nedivÃ­m.}
+{208}{}{U nÃ¡s pracujÃ­ jenom dÄ›vÄata, zlato, ale pokud ti to nevadÃ­, zkus se domluvit s Fannie Mae. Je nÄ›kde vzadu. S nÃ­ uÅ¾ se na nÄ›Äem domluvÃ­Å¡.}
+{209}{}{To znÃ­ jako dobrÃ½ nÃ¡pad, jdu za nÃ­. Sbohem.}
+{210}{}{Ale jÃ¡... dobÅ™e. Sbohem.}
+{211}{}{NemÅ¯Å¾u uvÄ›Å™it, Å¾e jsi byl tak hloupÃ½ a dal Fannie tolik penÄ›z. DÃ­ky tomu se pÅ™edÃ¡vkovala. Jsi idiot nebo co?}
+{212}{}{To mi nikdo neÅ™ekl. Opravdu. No tak, Lou... chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{213}{}{Bylo jen na nÃ­, co udÄ›lÃ¡ se svÃ½m Å¾ivotem. Sbohem.}
+{214}{}{Vysvobodil jsem ji z tohohle posranÃ½ho svÄ›ta. Ty taky nejsi Å¾Ã¡dnej svatouÅ¡ek, Lou. Sbohem.}
+{215}{}{TakÅ¾e ty jsi ten idiot, co dÃ¡vÃ¡ mÃ© Fannie vÅ¡echny ty penÃ­ze. To bych nedÄ›lala bÃ½t tebou. MyslÃ­Å¡ si, Å¾e jÃ­ tÃ­m pomÃ¡hÃ¡Å¡, ale mÃ½lÃ­Å¡ se.}
+{216}{}{Co tÃ­m myslÃ­Å¡?}
+{217}{}{PomÃ¡hÃ¡m jÃ­ zaÄÃ­t novÃ½ Å¾ivot.}
+{218}{}{Jo, jak myslÃ­Å¡. Promluvme si o nÄ›Äem jinÃ©m.}
+{219}{}{TÃ­m myslÃ­m, Å¾e mÃ¡ Fannie problÃ©m a penÃ­ze jÃ­ nepomÅ¯Å¾ou. Nechci tÄ› urazit, ale Fannie z tebe dÄ›lÃ¡ blbce. Ty penÃ­ze chce jenom proto, aby si mohla koupit vÃ­c Jetu. HodnÄ› Jetu.}
+{220}{}{MyslÃ­m, Å¾e se jen bojÃ­Å¡, Å¾e pÅ™ijdeÅ¡ o jednu ze svÃ½ch nejlÃ©pe vydÄ›lÃ¡vajÃ­cÃ­ch dÄ›vÄat. ChceÅ¡ si svoje dÃ­vky udrÅ¾et za kaÅ¾dou cenu.}
+{221}{}{Jo, jasnÄ›. UÅ¾ to nebudu dÃ¡l poslouchat. Sbohem.}
+{222}{}{SvÃ½mi penÄ›zi jÃ­ pomÃ¡hÃ¡Å¡ leda tak do hrobu. Nakupuje za nÄ› straÅ¡nÄ› moc Jetu. Pokud jÃ­ je nepÅ™estaneÅ¡ dÃ¡vat, tak se jednoho dne pÅ™edÃ¡vkuje.}
+{223}{}{Hmm, budu o tom pÅ™emÃ½Å¡let.}
+{224}{}{Budu o tom pÅ™emÃ½Å¡let. Sbohem.}
+{225}{}{MÅ¯Å¾eÅ¡ si myslet, co chceÅ¡, jÃ¡ jsem ti jenom chtÄ›la Å™Ã­ct, jakÃ¡ je to svinÄ›. Je na tobÄ›, jestli tomu vÄ›Å™Ã­Å¡ nebo ne.}
+{226}{}{To uÅ¾ jsem vÅ¡echno slyÅ¡el. VraÅ¥me se k jinÃ½m zÃ¡leÅ¾itostem.}
+{227}{}{DÃ­ky, budu o tom pÅ™emÃ½Å¡let. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{228}{}{PopÅ™emÃ½Å¡lÃ­m o tom. Sbohem.}
+{229}{}{Hmmm... moÅ¾nÃ¡ tu mÃ¡m Å™eÅ¡enÃ­. [PÅ™edat Lou Jet sÃ©rum]}
 {230}{}{Co to sakra je?}
-{231}{}{Zbaví ji to závislosti. A si pøíštì objedná pití, nalij obsah lahvièky do sklenice.}
-{232}{}{No... tak dobøe. Potøebuješ ještì nìco?}
-{233}{}{Potøebuju nìjaké vìci.}
-{234}{}{Co se tady ve mìstì dìje?}
-{300}{}{Podaøilo se ti zbavit Fannie závislosti na Jetu.}
+{231}{}{ZbavÃ­ ji to zÃ¡vislosti. AÅ¾ si pÅ™Ã­Å¡tÄ› objednÃ¡ pitÃ­, nalij obsah lahviÄky do sklenice.}
+{232}{}{No... tak dobÅ™e. PotÅ™ebujeÅ¡ jeÅ¡tÄ› nÄ›co?}
+{233}{}{PotÅ™ebuju nÄ›jakÃ© vÄ›ci.}
+{234}{}{Co se tady ve mÄ›stÄ› dÄ›je?}
+{300}{}{PodaÅ™ilo se ti zbavit Fannie zÃ¡vislosti na Jetu.}
 {301}{}{Sbohem.}
-{310}{}{Moná mám nìco, co Fannie pomùe. [Pøedat Lou Jet sérum]}
-{1103}{}{Zdravím. Jmenuju se Lou a tohle je moje hospoda U Malamuta, nejlepšího podniku na sever od San Francisca. Chci ti jen øíct, e jsem ti moc vdìèná. Mùu ti nìjak pomoct?}
-{1104}{}{Já jsem Lou a tohle je moje hospoda U Malamuta, nejlepšího podniku na sever od San Francisca. Vìzení není pro toho bastarda dostateènım trestem.}
-{1105}{}{Já jsem Lou a tohle je moje hospoda U Malamuta, nejlepšího podniku na sever od San Francisca. Nemùu uvìøit, e necháš toho bastarda jít. A ještì máš tu odvahu se sem vrátit! Co sakra chceš?}
-{1106}{}{Jsi poøád hroznı idiot. Ale ivot jde dál... pro vìtšinu z nás. Já jsem Lou a tohle je moje hospoda U Malamuta, nejlepšího podniku na sever od San Francisca. Co sakra ještì chceš?}
-{1107}{}{Já jsem Lou a tohle je moje hospoda U Malamuta, nejlepšího podniku na sever od San Francisca. Pamatuj si, co jsem øekla. Pøíliš mnoho penìz nedìlá tomu dìvèeti dobrotu. Co potøebuješ?}
+{310}{}{MoÅ¾nÃ¡ mÃ¡m nÄ›co, co Fannie pomÅ¯Å¾e. [PÅ™edat Lou Jet sÃ©rum]}
+{1103}{}{ZdravÃ­m. Jmenuju se Lou a tohle je moje hospoda U Malamuta, nejlepÅ¡Ã­ho podniku na sever od San Francisca. Chci ti jen Å™Ã­ct, Å¾e jsem ti moc vdÄ›ÄnÃ¡. MÅ¯Å¾u ti nÄ›jak pomoct?}
+{1104}{}{JÃ¡ jsem Lou a tohle je moje hospoda U Malamuta, nejlepÅ¡Ã­ho podniku na sever od San Francisca. VÄ›zenÃ­ nenÃ­ pro toho bastarda dostateÄnÃ½m trestem.}
+{1105}{}{JÃ¡ jsem Lou a tohle je moje hospoda U Malamuta, nejlepÅ¡Ã­ho podniku na sever od San Francisca. NemÅ¯Å¾u uvÄ›Å™it, Å¾e nechÃ¡Å¡ toho bastarda jÃ­t. A jeÅ¡tÄ› mÃ¡Å¡ tu odvahu se sem vrÃ¡tit! Co sakra chceÅ¡?}
+{1106}{}{Jsi poÅ™Ã¡d hroznÃ½ idiot. Ale Å¾ivot jde dÃ¡l... pro vÄ›tÅ¡inu z nÃ¡s. JÃ¡ jsem Lou a tohle je moje hospoda U Malamuta, nejlepÅ¡Ã­ho podniku na sever od San Francisca. Co sakra jeÅ¡tÄ› chceÅ¡?}
+{1107}{}{JÃ¡ jsem Lou a tohle je moje hospoda U Malamuta, nejlepÅ¡Ã­ho podniku na sever od San Francisca. Pamatuj si, co jsem Å™ekla. PÅ™Ã­liÅ¡ mnoho penÄ›z nedÄ›lÃ¡ tomu dÄ›vÄeti dobrotu. Co potÅ™ebujeÅ¡?}

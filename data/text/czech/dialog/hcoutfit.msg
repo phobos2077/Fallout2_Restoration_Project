@@ -1,114 +1,114 @@
-{100}{}{Vidíš plnoštíhlého mue v zaprášeném obleèení.}
-{101}{}{Vidíš vetešníka Billa.}
-{102}{}{Vidíš plnoštíhlého mue v zaprášeném obleèení. Smrdí, jako kdyby choval brahmíny.}
-{103}{}{Nazdárek, kámo. Co pro tebe mùu udìlat?}
+{100}{}{VidÃ­Å¡ plnoÅ¡tÃ­hlÃ©ho muÅ¾e v zaprÃ¡Å¡enÃ©m obleÄenÃ­.}
+{101}{}{VidÃ­Å¡ veteÅ¡nÃ­ka Billa.}
+{102}{}{VidÃ­Å¡ plnoÅ¡tÃ­hlÃ©ho muÅ¾e v zaprÃ¡Å¡enÃ©m obleÄenÃ­. SmrdÃ­, jako kdyby choval brahmÃ­ny.}
+{103}{}{NazdÃ¡rek, kÃ¡mo. Co pro tebe mÅ¯Å¾u udÄ›lat?}
 {104}{}{Nimma ardle ah!}
-{105}{}{Ty mít práci?}
-{106}{}{Hledám práci.}
-{107}{}{Chci nìco koupit.}
-{108}{}{Co mi mùeš øíct o Chadovi?}
-{109}{}{Je mi líto Chada. Øíkal si o to.}
-{110}{}{Øekl bych, e je teï tvùj správce karavan Chad v pìknejch sraèkách.}
+{105}{}{Ty mÃ­t prÃ¡ci?}
+{106}{}{HledÃ¡m prÃ¡ci.}
+{107}{}{Chci nÄ›co koupit.}
+{108}{}{Co mi mÅ¯Å¾eÅ¡ Å™Ã­ct o Chadovi?}
+{109}{}{Je mi lÃ­to Chada. Å˜Ã­kal si o to.}
+{110}{}{Å˜ekl bych, Å¾e je teÄ tvÅ¯j sprÃ¡vce karavan Chad v pÄ›knejch sraÄkÃ¡ch.}
 {111}{}{Kdo jsi?}
-{112}{}{Promiò, dítì, ale nerozumím ti ani slovo. Tu máš lízátko.}
-{113}{}{Jùùù!}
-{114}{}{Jasnì. Mám vzadu kupu brahmíního hnoje. Dám ti $100, kdy ho budeš celı den kydat. Platí?}
-{115}{}{Chceš práci? Dobrá, máš na vybranou: Kydat celı den brahmíní hnùj za $100, nebo doprovodit jednu z našich karavan za $200. Jezdíme do Gecka, NCR a Vault City.}
+{112}{}{PromiÅˆ, dÃ­tÄ›, ale nerozumÃ­m ti ani slovo. Tu mÃ¡Å¡ lÃ­zÃ¡tko.}
+{113}{}{JÅ¯Å¯Å¯!}
+{114}{}{JasnÄ›. MÃ¡m vzadu kupu brahmÃ­nÃ­ho hnoje. DÃ¡m ti $100, kdyÅ¾ ho budeÅ¡ celÃ½ den kydat. PlatÃ­?}
+{115}{}{ChceÅ¡ prÃ¡ci? DobrÃ¡, mÃ¡Å¡ na vybranou: Kydat celÃ½ den brahmÃ­nÃ­ hnÅ¯j za $100, nebo doprovodit jednu z naÅ¡ich karavan za $200. JezdÃ­me do Gecka, NCR a Vault City.}
 {116}{}{Tak jo!}
 {117}{}{Nee.}
-{118}{}{Budu kydat ten hnùj.}
+{118}{}{Budu kydat ten hnÅ¯j.}
 {119}{}{Pojedu s karavanou do Gecka.}
 {120}{}{Pojedu s karavanou do NCR.}
 {121}{}{Chci do Vault City.}
-{122}{}{Myslím, e ani jedno. Chci nìco jiného.}
+{122}{}{MyslÃ­m, Å¾e ani jedno. Chci nÄ›co jinÃ©ho.}
 {123}{}{Nashle!}
-{124}{}{Jo? Co chceš koupit?}
-{125}{}{Zajímá tì Chad? A co chceš vìdìt?}
-{126}{}{Neulévá si pro sebe nìjaké peníze?}
-{127}{}{Vìøíš mu?}
-{128}{}{Co mi o nìm mùeš øíct?}
-{129}{}{Já? Jsem Bill. Zásobuju karavany v tomhle mìstì. Plánuju obchodní cesty a pøipravuju zásobování. Najímám lidi na práci a taky jsem vedoucí mìstské hlídky.}
-{130}{}{Na práci? O jakı druh práce jde?}
-{131}{}{Díky. Nashle!}
-{132}{}{Dobrá, mùeš zaèít.}
-{133}{}{Nemáš zájem? Dobrá. Pøijï, a pro tebe budu moct nìco udìlat.}
+{124}{}{Jo? Co chceÅ¡ koupit?}
+{125}{}{ZajÃ­mÃ¡ tÄ› Chad? A co chceÅ¡ vÄ›dÄ›t?}
+{126}{}{NeulÃ©vÃ¡ si pro sebe nÄ›jakÃ© penÃ­ze?}
+{127}{}{VÄ›Å™Ã­Å¡ mu?}
+{128}{}{Co mi o nÄ›m mÅ¯Å¾eÅ¡ Å™Ã­ct?}
+{129}{}{JÃ¡? Jsem Bill. ZÃ¡sobuju karavany v tomhle mÄ›stÄ›. PlÃ¡nuju obchodnÃ­ cesty a pÅ™ipravuju zÃ¡sobovÃ¡nÃ­. NajÃ­mÃ¡m lidi na prÃ¡ci a taky jsem vedoucÃ­ mÄ›stskÃ© hlÃ­dky.}
+{130}{}{Na prÃ¡ci? O jakÃ½ druh prÃ¡ce jde?}
+{131}{}{DÃ­ky. Nashle!}
+{132}{}{DobrÃ¡, mÅ¯Å¾eÅ¡ zaÄÃ­t.}
+{133}{}{NemÃ¡Å¡ zÃ¡jem? DobrÃ¡. PÅ™ijÄ, aÅ¾ pro tebe budu moct nÄ›co udÄ›lat.}
 {134}{}{Tak jo!}
-{135}{}{No, vlastnì mì zajímá nìco jiného.}
+{135}{}{No, vlastnÄ› mÄ› zajÃ­mÃ¡ nÄ›co jinÃ©ho.}
 {136}{}{Nashle.}
-{137}{}{Dobrá, vybral sis Gecko. Pøijï první den v mìsíci a mùeš se vydat na cestu. Chceš ještì nìco?}
+{137}{}{DobrÃ¡, vybral sis Gecko. PÅ™ijÄ prvnÃ­ den v mÄ›sÃ­ci a mÅ¯Å¾eÅ¡ se vydat na cestu. ChceÅ¡ jeÅ¡tÄ› nÄ›co?}
 {138}{}{Ano.}
 {139}{}{Ne.}
-{140}{}{Dobrá, vybral sis NCR. Pøijï jedenáctého v mìsíci a mùeš se vydat na cestu. Chceš ještì nìco?}
-{141}{}{Dobrá, vybral sis Vault City. Pøijï jednadvacátého v mìsíci a mùeš se vydat na cestu. Chceš ještì nìco?}
-{142}{}{Co chceš?}
-{143}{}{Hledám práci.}
-{144}{}{Chci nìco koupit.}
-{145}{}{Co mi mùeš øíct o Chadovi?}
-{146}{}{Je mi líto Chada. Øíkal si o to.}
-{147}{}{Øekl bych, e je teï tvùj správce karavan Chad v pìknejch sraèkách.}
+{140}{}{DobrÃ¡, vybral sis NCR. PÅ™ijÄ jedenÃ¡ctÃ©ho v mÄ›sÃ­ci a mÅ¯Å¾eÅ¡ se vydat na cestu. ChceÅ¡ jeÅ¡tÄ› nÄ›co?}
+{141}{}{DobrÃ¡, vybral sis Vault City. PÅ™ijÄ jednadvacÃ¡tÃ©ho v mÄ›sÃ­ci a mÅ¯Å¾eÅ¡ se vydat na cestu. ChceÅ¡ jeÅ¡tÄ› nÄ›co?}
+{142}{}{Co chceÅ¡?}
+{143}{}{HledÃ¡m prÃ¡ci.}
+{144}{}{Chci nÄ›co koupit.}
+{145}{}{Co mi mÅ¯Å¾eÅ¡ Å™Ã­ct o Chadovi?}
+{146}{}{Je mi lÃ­to Chada. Å˜Ã­kal si o to.}
+{147}{}{Å˜ekl bych, Å¾e je teÄ tvÅ¯j sprÃ¡vce karavan Chad v pÄ›knejch sraÄkÃ¡ch.}
 {148}{}{Kdo jsi?}
-{149}{}{Dobøe se s tebou obchoduje. Chceš ode mì ještì nìco?}
-{150}{}{Promiò, ale to je málo. Chceš ode mì ještì nìco?}
+{149}{}{DobÅ™e se s tebou obchoduje. ChceÅ¡ ode mÄ› jeÅ¡tÄ› nÄ›co?}
+{150}{}{PromiÅˆ, ale to je mÃ¡lo. ChceÅ¡ ode mÄ› jeÅ¡tÄ› nÄ›co?}
 {151}{}{Ne. Nashle!}
-{152}{}{Hotovo? Skvìlı. Tady je tvıch $100 a kdy budeš ještì nìco potøebovat, dej mi vìdìt.}
-{153}{}{Pøíteli, vra se tak za hodinu, dvì a pak ti rád nìco prodám. Teï se musím postarat o svoje brahmíny. Chceš ještì nìco?}
-{154}{}{Jestli si pro sebe nìco ulévá? Co vím, tak ne. Za jednu dodávku uranu si úètujeme $5000. Zpátky dostaneme taky $5000. Podle mì k ádnımu ulejvání nedochází. Má pìkné bydlení a vdy po ruce dost penìz, ale to si s sebou u mohl pøinést.}
-{155}{}{Mám ještì nìjaké otázky.}
-{156}{}{Chci nìco jiného.}
-{157}{}{Aha. To bude všechno. Díky.}
-{158}{}{Jestli mu vìøím? Samozøejmì... do urèité míry. Vìøím, e za mì dokáe øídit chod karavan. Moná je trochu podivín, ale dokud mi nedá dùvod mu nevìøit, tak se mùj názor nezmìní.}
-{159}{}{Mám ještì nìjaké otázky.}
-{160}{}{Chci nìco jiného.}
-{161}{}{Skvìlé. Díky za tvùj èas.}
-{162}{}{Asi takhle. Pøišel z pouštì do Broken Hills. Kromì svého mozku toho moc nemìl. Vypadal, jako kdyby po nìm nìkdo šel, ale nikdy neøekl kdo. O svojí minulosti vdy mlèel. A... je sakra dobrej správce karavan. To je všechno.}
-{163}{}{Mám ještì nìjaké otázky.}
-{164}{}{Chci nìco jiného.}
-{165}{}{Díky.}
-{166}{}{Teï nejsem ve slubì. Pøijï, a budu v obchodì.}
-{167}{}{e si o to øíkal? Ty hovado, kvùli penìzùm se nezabíjí. Vypadni z mıho obchodu.}
+{152}{}{Hotovo? SkvÄ›lÃ½. Tady je tvÃ½ch $100 a kdyÅ¾ budeÅ¡ jeÅ¡tÄ› nÄ›co potÅ™ebovat, dej mi vÄ›dÄ›t.}
+{153}{}{PÅ™Ã­teli, vraÅ¥ se tak za hodinu, dvÄ› a pak ti rÃ¡d nÄ›co prodÃ¡m. TeÄ se musÃ­m postarat o svoje brahmÃ­ny. ChceÅ¡ jeÅ¡tÄ› nÄ›co?}
+{154}{}{Jestli si pro sebe nÄ›co ulÃ©vÃ¡? Co vÃ­m, tak ne. Za jednu dodÃ¡vku uranu si ÃºÄtujeme $5000. ZpÃ¡tky dostaneme taky $5000. Podle mÄ› k Å¾Ã¡dnÃ½mu ulejvÃ¡nÃ­ nedochÃ¡zÃ­. MÃ¡ pÄ›knÃ© bydlenÃ­ a vÅ¾dy po ruce dost penÄ›z, ale to si s sebou uÅ¾ mohl pÅ™inÃ©st.}
+{155}{}{MÃ¡m jeÅ¡tÄ› nÄ›jakÃ© otÃ¡zky.}
+{156}{}{Chci nÄ›co jinÃ©ho.}
+{157}{}{Aha. To bude vÅ¡echno. DÃ­ky.}
+{158}{}{Jestli mu vÄ›Å™Ã­m? SamozÅ™ejmÄ›... do urÄitÃ© mÃ­ry. VÄ›Å™Ã­m, Å¾e za mÄ› dokÃ¡Å¾e Å™Ã­dit chod karavan. MoÅ¾nÃ¡ je trochu podivÃ­n, ale dokud mi nedÃ¡ dÅ¯vod mu nevÄ›Å™it, tak se mÅ¯j nÃ¡zor nezmÄ›nÃ­.}
+{159}{}{MÃ¡m jeÅ¡tÄ› nÄ›jakÃ© otÃ¡zky.}
+{160}{}{Chci nÄ›co jinÃ©ho.}
+{161}{}{SkvÄ›lÃ©. DÃ­ky za tvÅ¯j Äas.}
+{162}{}{Asi takhle. PÅ™iÅ¡el z pouÅ¡tÄ› do Broken Hills. KromÄ› svÃ©ho mozku toho moc nemÄ›l. Vypadal, jako kdyby po nÄ›m nÄ›kdo Å¡el, ale nikdy neÅ™ekl kdo. O svojÃ­ minulosti vÅ¾dy mlÄel. A... je sakra dobrej sprÃ¡vce karavan. To je vÅ¡echno.}
+{163}{}{MÃ¡m jeÅ¡tÄ› nÄ›jakÃ© otÃ¡zky.}
+{164}{}{Chci nÄ›co jinÃ©ho.}
+{165}{}{DÃ­ky.}
+{166}{}{TeÄ nejsem ve sluÅ¾bÄ›. PÅ™ijÄ, aÅ¾ budu v obchodÄ›.}
+{167}{}{Å½e si o to Å™Ã­kal? Ty hovado, kvÅ¯li penÄ›zÅ¯m se nezabÃ­jÃ­. Vypadni z mÃ½ho obchodu.}
 {168}{}{Nashle.}
-{169}{}{Jestli má nìjaké problémy, mùe si za nì sám. Škoda... byl to opravdu dobrı správce karavan. Chceš ještì nìco?}
-{170}{}{Vypadni z mıho obchodu. Nejsi vítán.}
-{171}{}{Mùeme vyrazit do Vault City?}
-{172}{}{Mùeme vyrazit do NCR?}
-{173}{}{Mùeme vyrazit do Gecka?}
-{174}{}{Karavana je zrušená. Dokud bude chtít nìkdo zabít naše lidi, tak tam do tı posranı, špinavı díry nikoho nepošlu. Chceš ještì nìco?}
-{175}{}{Chceš se snad vykašlat na moji karavanu?}
-{176}{}{No, potøebuju ještì trochu èasu.}
-{177}{}{Chci zmìnit karavanu.}
-{178}{}{Potøebuješ víc èasu? Máš ho mít. Pøijï, a budeš chtít splnit svoje povinnosti.}
-{179}{}{Zmìnit? Kterou karavanu chceš? Do Gecka odjídí prvního, do NCR jedenáctého a do Vault City dvacátého prvního.}
+{169}{}{Jestli mÃ¡ nÄ›jakÃ© problÃ©my, mÅ¯Å¾e si za nÄ› sÃ¡m. Å koda... byl to opravdu dobrÃ½ sprÃ¡vce karavan. ChceÅ¡ jeÅ¡tÄ› nÄ›co?}
+{170}{}{Vypadni z mÃ½ho obchodu. Nejsi vÃ­tÃ¡n.}
+{171}{}{MÅ¯Å¾eme vyrazit do Vault City?}
+{172}{}{MÅ¯Å¾eme vyrazit do NCR?}
+{173}{}{MÅ¯Å¾eme vyrazit do Gecka?}
+{174}{}{Karavana je zruÅ¡enÃ¡. Dokud bude chtÃ­t nÄ›kdo zabÃ­t naÅ¡e lidi, tak tam do tÃ½ posranÃ½, Å¡pinavÃ½ dÃ­ry nikoho nepoÅ¡lu. ChceÅ¡ jeÅ¡tÄ› nÄ›co?}
+{175}{}{ChceÅ¡ se snad vykaÅ¡lat na moji karavanu?}
+{176}{}{No, potÅ™ebuju jeÅ¡tÄ› trochu Äasu.}
+{177}{}{Chci zmÄ›nit karavanu.}
+{178}{}{PotÅ™ebujeÅ¡ vÃ­c Äasu? MÃ¡Å¡ ho mÃ­t. PÅ™ijÄ, aÅ¾ budeÅ¡ chtÃ­t splnit svoje povinnosti.}
+{179}{}{ZmÄ›nit? Kterou karavanu chceÅ¡? Do Gecka odjÃ­Å¾dÃ­ prvnÃ­ho, do NCR jedenÃ¡ctÃ©ho a do Vault City dvacÃ¡tÃ©ho prvnÃ­ho.}
 {180}{}{NCR.}
 {181}{}{Gecko.}
 {182}{}{Vault City.}
-{183}{}{Jo? Tak fajn. Vypadni z mıho obchodu. Vra se, a budeš mít dost odvahy.}
-{184}{}{Skvìlé. Tak bì.}
-{185}{}{Ještì nìco potøebuju.}
-{186}{}{Tak dobøe.}
-{187}{}{Pøíteli, teï u pro tebe víc udìlat nemùu. Teï kdy jsou všichni mutanti mrtví, nemáme nikoho, kdo by efektivnì pracoval v dole. Tohle mìsto bude za rok nebo dva úplnì opuštìné. Nic u tady není. Sbohem.}
-{188}{}{Promiò, pøíteli. U pro tebe ádnou práci nemám. Všechen hnùj u je vykydanı.}
-{189}{}{Chceš práci? No, jeliko u je všechen brahmíní hnùj vykydanı, tak u zbıvají jen karavany. Mùeš jednu z nich doprovodit za $200. Jezdíme do Gecka, NCR a Vault City. Vyráíme jednou tıdnì.}
-{190}{}{Áááááá sakra. Já rád bramínní hovínka. Pá pá.}
-{191}{}{Chceš práci? No, jeliko u je všechen brahmíní hnùj vykydanı, tak u zbıvají jen karavany. Mùeš jednu z nich doprovodit za $200. Jezdíme do Gecka a Vault City. Vyráíme jednou tıdnì.}
-{192}{}{Chceš práci? Dobrá, máš na vybranou: Kydat celı den brahmíní hnùj za $100, nebo doprovodit jednu z našich karavan za $200. Jezdíme do Gecka a Vault City. Vyráíme jednou tıdnì.}
-{193}{}{Stává se z tebe expert pøes vıkaly!}
-{194}{}{Tvoje umìní øeèi se zvıšilo o 5%.}
+{183}{}{Jo? Tak fajn. Vypadni z mÃ½ho obchodu. VraÅ¥ se, aÅ¾ budeÅ¡ mÃ­t dost odvahy.}
+{184}{}{SkvÄ›lÃ©. Tak bÄ›Å¾.}
+{185}{}{JeÅ¡tÄ› nÄ›co potÅ™ebuju.}
+{186}{}{Tak dobÅ™e.}
+{187}{}{PÅ™Ã­teli, teÄ uÅ¾ pro tebe vÃ­c udÄ›lat nemÅ¯Å¾u. TeÄ kdyÅ¾ jsou vÅ¡ichni mutanti mrtvÃ­, nemÃ¡me nikoho, kdo by efektivnÄ› pracoval v dole. Tohle mÄ›sto bude za rok nebo dva ÃºplnÄ› opuÅ¡tÄ›nÃ©. Nic uÅ¾ tady nenÃ­. Sbohem.}
+{188}{}{PromiÅˆ, pÅ™Ã­teli. UÅ¾ pro tebe Å¾Ã¡dnou prÃ¡ci nemÃ¡m. VÅ¡echen hnÅ¯j uÅ¾ je vykydanÃ½.}
+{189}{}{ChceÅ¡ prÃ¡ci? No, jelikoÅ¾ uÅ¾ je vÅ¡echen brahmÃ­nÃ­ hnÅ¯j vykydanÃ½, tak uÅ¾ zbÃ½vajÃ­ jen karavany. MÅ¯Å¾eÅ¡ jednu z nich doprovodit za $200. JezdÃ­me do Gecka, NCR a Vault City. VyrÃ¡Å¾Ã­me jednou tÃ½dnÄ›.}
+{190}{}{ÃÃ¡Ã¡Ã¡Ã¡Ã¡ sakra. JÃ¡ rÃ¡d bramÃ­nnÃ­ hovÃ­nka. PÃ¡ pÃ¡.}
+{191}{}{ChceÅ¡ prÃ¡ci? No, jelikoÅ¾ uÅ¾ je vÅ¡echen brahmÃ­nÃ­ hnÅ¯j vykydanÃ½, tak uÅ¾ zbÃ½vajÃ­ jen karavany. MÅ¯Å¾eÅ¡ jednu z nich doprovodit za $200. JezdÃ­me do Gecka a Vault City. VyrÃ¡Å¾Ã­me jednou tÃ½dnÄ›.}
+{192}{}{ChceÅ¡ prÃ¡ci? DobrÃ¡, mÃ¡Å¡ na vybranou: Kydat celÃ½ den brahmÃ­nÃ­ hnÅ¯j za $100, nebo doprovodit jednu z naÅ¡ich karavan za $200. JezdÃ­me do Gecka a Vault City. VyrÃ¡Å¾Ã­me jednou tÃ½dnÄ›.}
+{193}{}{StÃ¡vÃ¡ se z tebe expert pÅ™es vÃ½kaly!}
+{194}{}{Tvoje umÄ›nÃ­ Å™eÄi se zvÃ½Å¡ilo o 5%.}
 {195}{}{Chci jet s karavanou.}
-{196}{}{U jsi øíkal, e pojedeš prvního do Gecka.}
-{197}{}{U jsi øíkal, e pojedeš jedenáctého do NCR.}
-{198}{}{U jsi øíkal, e pojedeš jedenadvacátého do Vault City.}
-{200}{}{Chci zmìnit karavanu.}
-{201}{}{Jo, to je pravda. Tak na to zapomeò.}
+{196}{}{UÅ¾ jsi Å™Ã­kal, Å¾e pojedeÅ¡ prvnÃ­ho do Gecka.}
+{197}{}{UÅ¾ jsi Å™Ã­kal, Å¾e pojedeÅ¡ jedenÃ¡ctÃ©ho do NCR.}
+{198}{}{UÅ¾ jsi Å™Ã­kal, Å¾e pojedeÅ¡ jedenadvacÃ¡tÃ©ho do Vault City.}
+{200}{}{Chci zmÄ›nit karavanu.}
+{201}{}{Jo, to je pravda. Tak na to zapomeÅˆ.}
 {202}{}{Ty parchante! Ty jsi tu zatracenou karavanu opustil! Vypadni odsud!}
-{203}{}{Zapomeò na to. Teï o karavany nemám zájem.}
-{204}{}{Dobrá. Jedem do Gecka. Karavana odjídí dnes. Mùeme vyrazit?}
-{205}{}{Dobrá. Jedem do NCR. Karavana odjídí dnes. Mùeme vyrazit?}
-{206}{}{Dobrá. Jedem do Vault City. Karavana odjídí dnes. Mùeme vyrazit?}
-{207}{}{Jo, mùeme. Jedem.}
-{208}{}{Ještì ne. Dám ti vìdìt, a budu moct. Díky.}
-{209}{}{Ještì ne. Dám ti vìdìt, a budu moct. Mám ještì nìjaké otázky.}
-{210}{}{Díky.}
-{211}{}{[Pokraèovat]}
-{212}{}{Je mi líto, ale bez Chada, kterı mi to tady øídil, nemùu nabízet práci jako kdysi. Ten parchant mi bude chybìt. Umøel v pustinách jako nìjaká zranìná brahmína.}
-{213}{}{To je mi líto. Nashle.}
-{214}{}{Je mi líto, ale bez Chada, kterı mi to tady øídil, nemùu nabízet práci jako kdysi.}
+{203}{}{ZapomeÅˆ na to. TeÄ o karavany nemÃ¡m zÃ¡jem.}
+{204}{}{DobrÃ¡. Jedem do Gecka. Karavana odjÃ­Å¾dÃ­ dnes. MÅ¯Å¾eme vyrazit?}
+{205}{}{DobrÃ¡. Jedem do NCR. Karavana odjÃ­Å¾dÃ­ dnes. MÅ¯Å¾eme vyrazit?}
+{206}{}{DobrÃ¡. Jedem do Vault City. Karavana odjÃ­Å¾dÃ­ dnes. MÅ¯Å¾eme vyrazit?}
+{207}{}{Jo, mÅ¯Å¾eme. Jedem.}
+{208}{}{JeÅ¡tÄ› ne. DÃ¡m ti vÄ›dÄ›t, aÅ¾ budu moct. DÃ­ky.}
+{209}{}{JeÅ¡tÄ› ne. DÃ¡m ti vÄ›dÄ›t, aÅ¾ budu moct. MÃ¡m jeÅ¡tÄ› nÄ›jakÃ© otÃ¡zky.}
+{210}{}{DÃ­ky.}
+{211}{}{[PokraÄovat]}
+{212}{}{Je mi lÃ­to, ale bez Chada, kterÃ½ mi to tady Å™Ã­dil, nemÅ¯Å¾u nabÃ­zet prÃ¡ci jako kdysi. Ten parchant mi bude chybÄ›t. UmÅ™el v pustinÃ¡ch jako nÄ›jakÃ¡ zranÄ›nÃ¡ brahmÃ­na.}
+{213}{}{To je mi lÃ­to. Nashle.}
+{214}{}{Je mi lÃ­to, ale bez Chada, kterÃ½ mi to tady Å™Ã­dil, nemÅ¯Å¾u nabÃ­zet prÃ¡ci jako kdysi.}

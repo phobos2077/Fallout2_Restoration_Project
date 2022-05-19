@@ -1,16 +1,16 @@
-{100}{}{Vidíš typické dveøe do Vaultu.}
-{101}{}{Toto jsou typické dveøe do Vaultu. Vypadá to, e jsou zadøené.}
-{102}{}{Dveøe se nepohnout.}
-{103}{}{Tyto dveøe jsou zadøené. Bude to chtít pìknì silného èlovìka, aby je otevøel.}
+{100}{}{VidÃ­Å¡ typickÃ© dveÅ™e do Vaultu.}
+{101}{}{Toto jsou typickÃ© dveÅ™e do Vaultu. VypadÃ¡ to, Å¾e jsou zadÅ™enÃ©.}
+{102}{}{DveÅ™e se nepohnout.}
+{103}{}{Tyto dveÅ™e jsou zadÅ™enÃ©. Bude to chtÃ­t pÄ›knÄ› silnÃ©ho ÄlovÄ›ka, aby je otevÅ™el.}
 {104}{}{*Eeeeeeehhhnnn*... *ufff*... *uuuufff*}
-{105}{}{Ani s pomocí páèidla se tyhle dveøe nechtìjí pohnout.}
+{105}{}{Ani s pomocÃ­ pÃ¡Äidla se tyhle dveÅ™e nechtÄ›jÃ­ pohnout.}
 {106}{}{*Heeeeeej RUP!*}
-{107}{}{S pomocí páèidla se ti podaøilo dveøe otevøít.}
+{107}{}{S pomocÃ­ pÃ¡Äidla se ti podaÅ™ilo dveÅ™e otevÅ™Ã­t.}
 {108}{}{*Heeeeeej RUP!*}
-{109}{}{Pouitím své brutální fyzické síly se ti podaøilo dveøe otevøít.}
-{110}{}{Páni. To je ani neškráblo!}
+{109}{}{PouÅ¾itÃ­m svÃ© brutÃ¡lnÃ­ fyzickÃ© sÃ­ly se ti podaÅ™ilo dveÅ™e otevÅ™Ã­t.}
+{110}{}{PÃ¡ni. To je ani neÅ¡krÃ¡blo!}
 {111}{}{BOOM no hurt door.}
-{112}{}{Dveøe jsou zaseknuté, ne zamèené. Jasné?}
+{112}{}{DveÅ™e jsou zaseknutÃ©, ne zamÄenÃ©. JasnÃ©?}
 {113}{}{Door stuckie not lockie.}
-{114}{}{Dveøe se nezavøou. Jsou zablokované.}
-{115}{}{Dveøe se nepohnout.}
+{114}{}{DveÅ™e se nezavÅ™ou. Jsou zablokovanÃ©.}
+{115}{}{DveÅ™e se nepohnout.}

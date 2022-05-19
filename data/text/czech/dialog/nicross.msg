@@ -1,4 +1,4 @@
-{100}{}{Vidíš køí. Je na nìm napsané 'Odpadky.'}
-{101}{}{Eh... je to køí.}
-{102}{}{Hele, nìkdo pod ten køí zahrabal nìjaké peníze.}
-{103}{}{U tu nic není.}
+{100}{}{VidÃ­Å¡ kÅ™Ã­Å¾. Je na nÄ›m napsanÃ© 'Odpadky.'}
+{101}{}{Eh... je to kÅ™Ã­Å¾.}
+{102}{}{Hele, nÄ›kdo pod ten kÅ™Ã­Å¾ zahrabal nÄ›jakÃ© penÃ­ze.}
+{103}{}{UÅ¾ tu nic nenÃ­.}

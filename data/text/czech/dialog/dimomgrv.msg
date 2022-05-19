@@ -1,1 +1,1 @@
-{101}{}{Na náhrobku je jméno: "Paní Tamara Winslow."}
+{101}{}{Na nÃ¡hrobku je jmÃ©no: "PanÃ­ Tamara Winslow."}

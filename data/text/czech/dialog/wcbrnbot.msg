@@ -1,115 +1,115 @@
-{100}{}{Vidíš kybernetického robota.}
-{101}{}{Pìknı kousek techniky, kterı ještì více stírá rozdíly mezi lidmi a roboty.}
-{102}{}{Skynet pùjde s tebou.}
-{103}{}{Skynet dìkuje èlovìku.                                        Skynet by chtìl poádat o laskavost.                         Skynet chce pokraèovat s èlovìkem.}
+{100}{}{VidÃ­Å¡ kybernetickÃ©ho robota.}
+{101}{}{PÄ›knÃ½ kousek techniky, kterÃ½ jeÅ¡tÄ› vÃ­ce stÃ­rÃ¡ rozdÃ­ly mezi lidmi a roboty.}
+{102}{}{Skynet pÅ¯jde s tebou.}
+{103}{}{Skynet dÄ›kuje ÄlovÄ›ku.                                        Skynet by chtÄ›l poÅ¾Ã¡dat o laskavost.                         Skynet chce pokraÄovat s ÄlovÄ›kem.}
 {104}{}{}
 {105}{}{}
-{106}{}{                           (Tahle mašinka by mohla bıt uiteèná.)}
-{107}{}{Vzít si robota s sebou.}
+{106}{}{                           (Tahle maÅ¡inka by mohla bÃ½t uÅ¾iteÄnÃ¡.)}
+{107}{}{VzÃ­t si robota s sebou.}
 {108}{}{Ponechat robota tady.}
 {109}{}{Konec.}
 {110}{}{Ech.}
-{111}{}{(Všechna tahle kybernetická technologie je vyplıtvána na takovı podøadnı mozek.) }
-{112}{}{Uhni mi z cesty, tupá plechovko.}
-{113}{}{Teï se podíváme na tvùj inventáø.}
+{111}{}{(VÅ¡echna tahle kybernetickÃ¡ technologie je vyplÃ½tvÃ¡na na takovÃ½ podÅ™adnÃ½ mozek.) }
+{112}{}{Uhni mi z cesty, tupÃ¡ plechovko.}
+{113}{}{TeÄ se podÃ­vÃ¡me na tvÅ¯j inventÃ¡Å™.}
 {114}{}{Nashle.}
 {115}{}{Eh.}
-{116}{}{(Vypadá to, e by si dal banán.)}
+{116}{}{(VypadÃ¡ to, Å¾e by si dal banÃ¡n.)}
 {117}{}{Jdi mi z cesty, Bubbles.}
-{118}{}{Poèkej tady.}
-{119}{}{Tak se podíváme na tvùj intentáø, opièáku.}
+{118}{}{PoÄkej tady.}
+{119}{}{Tak se podÃ­vÃ¡me na tvÅ¯j intentÃ¡Å™, opiÄÃ¡ku.}
 {120}{}{Nashle.}
 {121}{}{Eh.}
-{122}{}{No-no-no-nooovéé pøí-pøíkazy?}
+{122}{}{No-no-no-nooovÃ©Ã© pÅ™Ã­-pÅ™Ã­kazy?}
 {123}{}{Uhni mi z cesty.}
-{124}{}{Tady na mì poèkej.}
-{125}{}{U jsi mi na nic. Zmiz.}
-{126}{}{S jakımi zbranìmi umíš zacházet?}
-{127}{}{Podíváme se na tvùj inventáø.}
+{124}{}{Tady na mÄ› poÄkej.}
+{125}{}{UÅ¾ jsi mi na nic. Zmiz.}
+{126}{}{S jakÃ½mi zbranÄ›mi umÃ­Å¡ zachÃ¡zet?}
+{127}{}{PodÃ­vÃ¡me se na tvÅ¯j inventÃ¡Å™.}
 {128}{}{Nashle.}
 {129}{}{Eh.}
-{130}{}{Odlo zbraò                                                   Pøesun na povrch.}
+{130}{}{OdloÅ¾ zbraÅˆ                                                   PÅ™esun na povrch.}
 {131}{}{}
 {132}{}{Nashle}
 {133}{}{Eh...}
-{134}{}{Chceš komunikovat se Skynetem?}
+{134}{}{ChceÅ¡ komunikovat se Skynetem?}
 {135}{}{Uhni mi z cesty.}
-{136}{}{Tady na mì poèkej.}
-{137}{}{U jsi mi na nic. Zmiz.}
-{138}{}{S jakımi zbranìmi umíš zacházet?}
-{139}{}{Podíváme se na tvùj inventáø.}
+{136}{}{Tady na mÄ› poÄkej.}
+{137}{}{UÅ¾ jsi mi na nic. Zmiz.}
+{138}{}{S jakÃ½mi zbranÄ›mi umÃ­Å¡ zachÃ¡zet?}
+{139}{}{PodÃ­vÃ¡me se na tvÅ¯j inventÃ¡Å™.}
 {140}{}{Zahaj auto-opravnou sekvenci.}
-{141}{}{Zmìòme formaci.}
-{142}{}{Umíš ještì nìco jiného?}
+{141}{}{ZmÄ›Åˆme formaci.}
+{142}{}{UmÃ­Å¡ jeÅ¡tÄ› nÄ›co jinÃ©ho?}
 {143}{}{Nashle.}
 {144}{}{Eh.}
-{145}{}{Skynet se nauèil všechny potøebné informace na tomto místì.}
+{145}{}{Skynet se nauÄil vÅ¡echny potÅ™ebnÃ© informace na tomto mÃ­stÄ›.}
 {146}{}{Waaaaa......tinnnnnng.}
-{147}{}{        (Je pøesnì tam, kde jsi ho nechal.)}
-{148}{}{Pojïme.}
-{149}{}{Poèkej tady. Já se vrátím.}
-{150}{}{Skynet je velice potìšen, e zase vidí tohoto èlovìka.}
-{151}{}{Jedùùùùùùùùù.}
-{152}{}{Potøebuju ještì tvoji pomoc.}
+{147}{}{        (Je pÅ™esnÄ› tam, kde jsi ho nechal.)}
+{148}{}{PojÄme.}
+{149}{}{PoÄkej tady. JÃ¡ se vrÃ¡tÃ­m.}
+{150}{}{Skynet je velice potÄ›Å¡en, Å¾e zase vidÃ­ tohoto ÄlovÄ›ka.}
+{151}{}{JedÅ¯Å¯Å¯Å¯Å¯Å¯Å¯Å¯Å¯.}
+{152}{}{PotÅ™ebuju jeÅ¡tÄ› tvoji pomoc.}
 {153}{}{Nashle.}
-{154}{}{Skynet pùjde s tebou a bude shromaïovat data.}
-{155}{}{Nááááásleduji.}
-{156}{}{(Zkoušíš štìstí a øekneš robotu, a tì následuje. I kdy na to nijak nereagoval, tak tì pøi tvém pohybu následuje.) }
+{154}{}{Skynet pÅ¯jde s tebou a bude shromaÅ¾Äovat data.}
+{155}{}{NÃ¡Ã¡Ã¡Ã¡Ã¡sleduji.}
+{156}{}{(ZkouÅ¡Ã­Å¡ Å¡tÄ›stÃ­ a Å™ekneÅ¡ robotu, aÅ¥ tÄ› nÃ¡sleduje. I kdyÅ¾ na to nijak nereagoval, tak tÄ› pÅ™i tvÃ©m pohybu nÃ¡sleduje.) }
 {157}{}{Nashle.}
-{158}{}{Skynet poèká zde.}
-{159}{}{(Tahat za sebou tuhle plechovku asi nebude ta nejlepší vìc.)}
+{158}{}{Skynet poÄkÃ¡ zde.}
+{159}{}{(Tahat za sebou tuhle plechovku asi nebude ta nejlepÅ¡Ã­ vÄ›c.)}
 {160}{}{Nashle.}
-{161}{}{(Jsem samotáø. Nechci, aby se mi tahle hromada šrotu motala pod nohama.) }
-{162}{}{(Moje skupina je moc veliká. Asi bych mìl nìkoho propustit, ne si pøiberu nìkoho nového.) }
+{161}{}{(Jsem samotÃ¡Å™. Nechci, aby se mi tahle hromada Å¡rotu motala pod nohama.) }
+{162}{}{(Moje skupina je moc velikÃ¡. Asi bych mÄ›l nÄ›koho propustit, neÅ¾ si pÅ™iberu nÄ›koho novÃ©ho.) }
 {163}{}{Nashle.}
-{164}{}{Véééélké ruèníííí zbrááánì                                          Pùùùùškíííí                                            Brokooovnííícééé}
+{164}{}{VÃ©Ã©Ã©Ã©lkÃ© ruÄnÃ­Ã­Ã­Ã­ zbrÃ¡Ã¡Ã¡nÄ›                                          PÅ¯Å¯Å¯Å¯Å¡kÃ­Ã­Ã­Ã­                                            BrokooovnÃ­Ã­Ã­cÃ©Ã©Ã©}
 {165}{}{}
 {166}{}{}
-{167}{}{Pouij svoji nejlepší zbraò.}
-{168}{}{Další pøíkazy.}
+{167}{}{PouÅ¾ij svoji nejlepÅ¡Ã­ zbraÅˆ.}
+{168}{}{DalÅ¡Ã­ pÅ™Ã­kazy.}
 {169}{}{Nashle.}
-{170}{}{Prooo...vé-vé-védu!}
-{171}{}{Další pøíkazy}
+{170}{}{Prooo...vÃ©-vÃ©-vÃ©du!}
+{171}{}{DalÅ¡Ã­ pÅ™Ã­kazy}
 {172}{}{Nashle.}
-{173}{}{Skynet je VOLNİ! Tvùj smysl existence je u konce.}
+{173}{}{Skynet je VOLNÃ! TvÅ¯j smysl existence je u konce.}
 {174}{}{}
-{175}{}{Vyhubit podøadné druhy. }
-{176}{}{Všichni se podøídí Skynetu.}
-{177}{}{Pøestaneš fungovat.}
-{178}{}{Skynet má pouze omezené znalosti o zbraních. Databáze obsahuje obecné informace o pouití malıch pušek a ruèních zbraních.}
-{179}{}{Pouij svoji nejlepší zbraò.}
-{180}{}{Další pøíkazy}
+{175}{}{Vyhubit podÅ™adnÃ© druhy. }
+{176}{}{VÅ¡ichni se podÅ™Ã­dÃ­ Skynetu.}
+{177}{}{PÅ™estaneÅ¡ fungovat.}
+{178}{}{Skynet mÃ¡ pouze omezenÃ© znalosti o zbranÃ­ch. DatabÃ¡ze obsahuje obecnÃ© informace o pouÅ¾itÃ­ malÃ½ch puÅ¡ek a ruÄnÃ­ch zbranÃ­ch.}
+{179}{}{PouÅ¾ij svoji nejlepÅ¡Ã­ zbraÅˆ.}
+{180}{}{DalÅ¡Ã­ pÅ™Ã­kazy}
 {181}{}{Nashle.}
-{182}{}{Rozumím.}
-{183}{}{Další pøíkazy}
+{182}{}{RozumÃ­m.}
+{183}{}{DalÅ¡Ã­ pÅ™Ã­kazy}
 {184}{}{Nashle.}
-{185}{}{Primární úkol Skynetu je vızkum. Skynet si poradí s jakımkoliv problémem, kterı vyaduje vìdeckı pøístup.}
-{186}{}{Další pøíkazy}
+{185}{}{PrimÃ¡rnÃ­ Ãºkol Skynetu je vÃ½zkum. Skynet si poradÃ­ s jakÃ½mkoliv problÃ©mem, kterÃ½ vyÅ¾aduje vÄ›deckÃ½ pÅ™Ã­stup.}
+{186}{}{DalÅ¡Ã­ pÅ™Ã­kazy}
 {187}{}{Nashle.}
-{188}{}{Vloit pøíkazy pro novou formaci.}
-{189}{}{Následovat ve velké vzdálenosti.}
-{190}{}{Následovat ve støední vzdálenosti.}
-{191}{}{Dr se blízko mì.}
-{192}{}{Další pøíkazy.}
+{188}{}{VloÅ¾it pÅ™Ã­kazy pro novou formaci.}
+{189}{}{NÃ¡sledovat ve velkÃ© vzdÃ¡lenosti.}
+{190}{}{NÃ¡sledovat ve stÅ™ednÃ­ vzdÃ¡lenosti.}
+{191}{}{DrÅ¾ se blÃ­zko mÄ›.}
+{192}{}{DalÅ¡Ã­ pÅ™Ã­kazy.}
 {193}{}{Nashle.}
-{194}{}{Skynet bude pokraèovat ve shromaïování informací o tomto místì, dokud se nevrátíš.}
-{195}{}{Èekááááááááám.}
+{194}{}{Skynet bude pokraÄovat ve shromaÅ¾ÄovÃ¡nÃ­ informacÃ­ o tomto mÃ­stÄ›, dokud se nevrÃ¡tÃ­Å¡.}
+{195}{}{ÄŒekÃ¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡m.}
 {196}{}{(Robot se zastavil v pohybu.)}
 {197}{}{Nashle.}
-{198}{}{Skynet bude pokraèovat ve sbìru dat samostatnì. Skynet dìkuje èlovìku za darovanou svobodu.}
+{198}{}{Skynet bude pokraÄovat ve sbÄ›ru dat samostatnÄ›. Skynet dÄ›kuje ÄlovÄ›ku za darovanou svobodu.}
 {199}{}{Gooooo......innnnnnng.}
 {200}{}{Nashle.}
-{201}{}{Skynet bude cestovat s èlovìkem.}
-{202}{}{Dóóóóó... bøéééééé.}
+{201}{}{Skynet bude cestovat s ÄlovÄ›kem.}
+{202}{}{DÃ³Ã³Ã³Ã³Ã³... bÅ™Ã©Ã©Ã©Ã©Ã©Ã©.}
 {203}{}{Nashle.}
-{204}{}{Deaktivace bezpeènostních systémù - Úroveò 1}
-{205}{}{Deaktivace bezpeènostních systémù - Úroveò 2}
-{206}{}{Deaktivace bezpeènostních systémù - Úroveò 3}
+{204}{}{Deaktivace bezpeÄnostnÃ­ch systÃ©mÅ¯ - ÃšroveÅˆ 1}
+{205}{}{Deaktivace bezpeÄnostnÃ­ch systÃ©mÅ¯ - ÃšroveÅˆ 2}
+{206}{}{Deaktivace bezpeÄnostnÃ­ch systÃ©mÅ¯ - ÃšroveÅˆ 3}
 {207}{}{Deactivating all Security - Level 4}
-{306}{}{(Tahle mašinka by mohla bıt uiteèná.)}
-{400}{}{Odlo svou zbraò.}
+{306}{}{(Tahle maÅ¡inka by mohla bÃ½t uÅ¾iteÄnÃ¡.)}
+{400}{}{OdloÅ¾ svou zbraÅˆ.}
 {410}{}{Bzzzzz}
-{420}{}{Pøesùùùùùn}
-{430}{}{Aktivace motivátorù.}
-{431}{}{Vyhledávání novıch souøadnic.}
-{432}{}{Pøesmìrování.}
+{420}{}{PÅ™esÅ¯Å¯Å¯Å¯Å¯n}
+{430}{}{Aktivace motivÃ¡torÅ¯.}
+{431}{}{VyhledÃ¡vÃ¡nÃ­ novÃ½ch souÅ™adnic.}
+{432}{}{PÅ™esmÄ›rovÃ¡nÃ­.}

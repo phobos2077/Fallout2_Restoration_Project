@@ -1,53 +1,53 @@
 {100}{}{}
-{101}{}{Vidíš èlena kmene.}
-{102}{}{Vidíš Marliho.}
-{103}{}{Vidíš váleèníka se zamraèenım vırazem v oblièeji.}
-{110}{}{Jdi pryè. Medituju s duchy a oni tì nemají rádi, cizinèe. Pokud se mnou chceš opravdu mluvit, udìlej to nìkdy jindy.}
-{111}{}{Není tøeba bıt tak hrubı. Nashle.}
-{112}{}{Hmmm, neprosil jsem se o tvoji pomoc, cizinèe. Opravil bych tu studnu sám.}
-{113}{}{Jasnì. Nemusíš mi dìkovat.}
-{114}{}{To je jedno. Nemusíš bıt tak nevdìènı.}
-{120}{}{Co chceš?}
-{121}{}{Vidím, e máš potíe se studnou. V èem je pøesnì problém?}
-{130}{}{V èem je problém? Upustil jsem lano, v tom je problém. (Nervóznì pøešlapuje na místì.) Upevòoval jsem nové lano ke studnì, pak jsem se podíval nahoru a uvidìl nádhernou mladou dívku, jak se protahuje na slunci. Duchové touhy odvrátili moji pozornost, lano mi vyklouzlo z rukou a... co je ti vlastnì do toho, cizinèe? Pokud pro mì nemáš nové lano, tak jen plıtváš mım èasem.}
-{131}{}{Nemám u sebe lano, ale pokusím se nìjaké sehnat. Ještì se vrátím.}
-{132}{}{Vlastnì ano, mám. Pokusím se studnu opravit.}
-{133}{}{Ne. Obávám se, e budeš muset ostatním pøiznat, co se vlastnì stalo. Pøíštì mìj své duchy touhy víc pod kontrolou. Nashle.}
-{140}{}{U je ta studna opravená nebo co s ní je?}
-{141}{}{Ne, obávám se, e ještì ne.}
-{142}{}{Pøipadá ti snad jako opravená? Vdy vedle ní kurva stojíš, kreténe.}
-{150}{}{U je ta studna opravená?}
-{151}{}{Jasnì, lano u je pøipevnìné. Podívej.}
-{160}{}{(Podívá se na studnu a poté se zachechtá.) K èemu je dobré lano, kdy k nìmu není pøipevnìné vìdro? Nebo vy cizinci snad pijete vodu olizováním namoèeného lana? (Zakroutí hlavou a poté si nìco zamumlá pod vousy.) Pøipevni vìdro k lanu a pak ode mì získáš odmìnu.}
-{161}{}{Dobøe.}
-{162}{}{Co kdybys to vìdro pøipevnil *ty*? Pak uvidíme, jestli ti nenakopu prdel.}
-{170}{}{Je vìdro pøipevnìné?}
-{171}{}{Ne, ještì ne.}
-{172}{}{*Pøipadá* ti snad jako pøipevnìné?}
-{180}{}{U je ta studna opravená? Má pøipevnìné vìdro?}
-{181}{}{Ano, všechno je hotové.}
+{101}{}{VidÃ­Å¡ Älena kmene.}
+{102}{}{VidÃ­Å¡ Marliho.}
+{103}{}{VidÃ­Å¡ vÃ¡leÄnÃ­ka se zamraÄenÃ½m vÃ½razem v obliÄeji.}
+{110}{}{Jdi pryÄ. Medituju s duchy a oni tÄ› nemajÃ­ rÃ¡di, cizinÄe. Pokud se mnou chceÅ¡ opravdu mluvit, udÄ›lej to nÄ›kdy jindy.}
+{111}{}{NenÃ­ tÅ™eba bÃ½t tak hrubÃ½. Nashle.}
+{112}{}{Hmmm, neprosil jsem se o tvoji pomoc, cizinÄe. Opravil bych tu studnu sÃ¡m.}
+{113}{}{JasnÄ›. NemusÃ­Å¡ mi dÄ›kovat.}
+{114}{}{To je jedno. NemusÃ­Å¡ bÃ½t tak nevdÄ›ÄnÃ½.}
+{120}{}{Co chceÅ¡?}
+{121}{}{VidÃ­m, Å¾e mÃ¡Å¡ potÃ­Å¾e se studnou. V Äem je pÅ™esnÄ› problÃ©m?}
+{130}{}{V Äem je problÃ©m? Upustil jsem lano, v tom je problÃ©m. (NervÃ³znÄ› pÅ™eÅ¡lapuje na mÃ­stÄ›.) UpevÅˆoval jsem novÃ© lano ke studnÄ›, pak jsem se podÃ­val nahoru a uvidÄ›l nÃ¡dhernou mladou dÃ­vku, jak se protahuje na slunci. DuchovÃ© touhy odvrÃ¡tili moji pozornost, lano mi vyklouzlo z rukou a... co je ti vlastnÄ› do toho, cizinÄe? Pokud pro mÄ› nemÃ¡Å¡ novÃ© lano, tak jen plÃ½tvÃ¡Å¡ mÃ½m Äasem.}
+{131}{}{NemÃ¡m u sebe lano, ale pokusÃ­m se nÄ›jakÃ© sehnat. JeÅ¡tÄ› se vrÃ¡tÃ­m.}
+{132}{}{VlastnÄ› ano, mÃ¡m. PokusÃ­m se studnu opravit.}
+{133}{}{Ne. ObÃ¡vÃ¡m se, Å¾e budeÅ¡ muset ostatnÃ­m pÅ™iznat, co se vlastnÄ› stalo. PÅ™Ã­Å¡tÄ› mÄ›j svÃ© duchy touhy vÃ­c pod kontrolou. Nashle.}
+{140}{}{UÅ¾ je ta studna opravenÃ¡ nebo co s nÃ­ je?}
+{141}{}{Ne, obÃ¡vÃ¡m se, Å¾e jeÅ¡tÄ› ne.}
+{142}{}{PÅ™ipadÃ¡ ti snad jako opravenÃ¡? VÅ¾dyÅ¥ vedle nÃ­ kurva stojÃ­Å¡, kretÃ©ne.}
+{150}{}{UÅ¾ je ta studna opravenÃ¡?}
+{151}{}{JasnÄ›, lano uÅ¾ je pÅ™ipevnÄ›nÃ©. PodÃ­vej.}
+{160}{}{(PodÃ­vÃ¡ se na studnu a potÃ© se zachechtÃ¡.) K Äemu je dobrÃ© lano, kdyÅ¾ k nÄ›mu nenÃ­ pÅ™ipevnÄ›nÃ© vÄ›dro? Nebo vy cizinci snad pijete vodu olizovÃ¡nÃ­m namoÄenÃ©ho lana? (ZakroutÃ­ hlavou a potÃ© si nÄ›co zamumlÃ¡ pod vousy.) PÅ™ipevni vÄ›dro k lanu a pak ode mÄ› zÃ­skÃ¡Å¡ odmÄ›nu.}
+{161}{}{DobÅ™e.}
+{162}{}{Co kdybys to vÄ›dro pÅ™ipevnil *ty*? Pak uvidÃ­me, jestli ti nenakopu prdel.}
+{170}{}{Je vÄ›dro pÅ™ipevnÄ›nÃ©?}
+{171}{}{Ne, jeÅ¡tÄ› ne.}
+{172}{}{*PÅ™ipadÃ¡* ti snad jako pÅ™ipevnÄ›nÃ©?}
+{180}{}{UÅ¾ je ta studna opravenÃ¡? MÃ¡ pÅ™ipevnÄ›nÃ© vÄ›dro?}
+{181}{}{Ano, vÅ¡echno je hotovÃ©.}
 {182}{}{...}
-{190}{}{(Cukají mu koutky úst.) Hm, vy cizinci nejste nakonec zase tak špatní. Tu máš, vezmi si tyhle peníze. Duchové mi øíkají, e je potøebuješ víc ne já.}
-{191}{}{Díky.}
-{200}{}{Nech tì bohové provázejí.}
-{201}{}{Díky za pomoc.}
-{202}{}{Rád tì zase vidím.}
-{210}{}{ivé nás nedostaneš, otrokáøi!}
-{300}{}{Tak dobøe, uklidni své duchy hnìvu. Udìlám to sám. (Mumlá.) Bláznivej cizinec...}
+{190}{}{(CukajÃ­ mu koutky Ãºst.) Hm, vy cizinci nejste nakonec zase tak Å¡patnÃ­. Tu mÃ¡Å¡, vezmi si tyhle penÃ­ze. DuchovÃ© mi Å™Ã­kajÃ­, Å¾e je potÅ™ebujeÅ¡ vÃ­c neÅ¾ jÃ¡.}
+{191}{}{DÃ­ky.}
+{200}{}{NechÅ¥ tÄ› bohovÃ© provÃ¡zejÃ­.}
+{201}{}{DÃ­ky za pomoc.}
+{202}{}{RÃ¡d tÄ› zase vidÃ­m.}
+{210}{}{Å½ivÃ© nÃ¡s nedostaneÅ¡, otrokÃ¡Å™i!}
+{300}{}{Tak dobÅ™e, uklidni svÃ© duchy hnÄ›vu. UdÄ›lÃ¡m to sÃ¡m. (MumlÃ¡.) BlÃ¡znivej cizinec...}
 {301}{}{[KONEC]}
-{310}{}{(Zírá na tebe a poté pohlédne na studnu.) Ne.}
-{311}{}{V tom pøípadì si myslím, e není pøipevnìné.}
-{320}{}{Hej, slyšíš mì? Ptám se, jestli je ta studna u opravená.}
-{321}{}{... [Povzdechnout a poté ukázat na studnu]}
-{330}{}{(Otoèí se, podívá se na studnu a poté se otoèí zpátky na tebe.) Jo, vypadá to, e je opravená. Proè jsi to neøekl hned? Tu máš, vezmi si tyhle peníze. Duchové mi øíkají, e je potøebuješ víc ne já.}
-{331}{}{... [Vzít si peníze a odejít]}
-{400}{}{(U se chystáš odejít, kdy v tom se na tebe Marli pozornì podívá a jeho oèi se rozzáøí.) Á, vidím, e máš samopal. (Dlouze na nìj zírá.) Kdysi jsme taky jeden mìli, ale poøád si ho bral Sulik. Ztratil se v boji. Taková škoda. Moje magie by byla hrùzostrašnì silná, kdybych mìl takovı vymazávaè duší.}
-{401}{}{Jestli ho chceš, tak je tvùj. Urèitì nìkde najdu jinı. [Dát Marlimu samopal]}
-{402}{}{Tak si ho vem. Vidím, e od nìj nedokáeš odtrhnout oèi. [Dát Marlimu samopal]}
-{403}{}{Jo, to vìøím. Nicménì já a mùj vymazávaè duší u musíme jít.}
-{404}{}{Nech si tu magii pro sebe, kámo. Nashle.}
-{410}{}{(Šklebí se jako šílenec, kdy se dívá na tu zbraò.) Ach, ty jsi dobrı pøítel Marliho, cizinèe. Tu máš, schovával jsem si tuhle sladkou bublinkovou vodu, ale myslím, e ti ji dám. (Pøedá ti Nuka-Colu.) A teï pùjdu chrlit ohnivou smrt na geckony. (Odbíhá na lovištì.)}
-{411}{}{Moje magie je teï hrùzostrašná!}
-{1000}{}{Podaøilo se ti opravit studnu.}
-{2000}{}{Promiò jestli jsem se choval jako kretén, hrdino.}
-{2001}{}{Promiò, ztratil jsem tvùj samopal. Ten geckon byl opravdu zuøivı.}
+{310}{}{(ZÃ­rÃ¡ na tebe a potÃ© pohlÃ©dne na studnu.) Ne.}
+{311}{}{V tom pÅ™Ã­padÄ› si myslÃ­m, Å¾e nenÃ­ pÅ™ipevnÄ›nÃ©.}
+{320}{}{Hej, slyÅ¡Ã­Å¡ mÄ›? PtÃ¡m se, jestli je ta studna uÅ¾ opravenÃ¡.}
+{321}{}{... [Povzdechnout a potÃ© ukÃ¡zat na studnu]}
+{330}{}{(OtoÄÃ­ se, podÃ­vÃ¡ se na studnu a potÃ© se otoÄÃ­ zpÃ¡tky na tebe.) Jo, vypadÃ¡ to, Å¾e je opravenÃ¡. ProÄ jsi to neÅ™ekl hned? Tu mÃ¡Å¡, vezmi si tyhle penÃ­ze. DuchovÃ© mi Å™Ã­kajÃ­, Å¾e je potÅ™ebujeÅ¡ vÃ­c neÅ¾ jÃ¡.}
+{331}{}{... [VzÃ­t si penÃ­ze a odejÃ­t]}
+{400}{}{(UÅ¾ se chystÃ¡Å¡ odejÃ­t, kdyÅ¾ v tom se na tebe Marli pozornÄ› podÃ­vÃ¡ a jeho oÄi se rozzÃ¡Å™Ã­.) Ã, vidÃ­m, Å¾e mÃ¡Å¡ samopal. (Dlouze na nÄ›j zÃ­rÃ¡.) Kdysi jsme taky jeden mÄ›li, ale poÅ™Ã¡d si ho bral Sulik. Ztratil se v boji. TakovÃ¡ Å¡koda. Moje magie by byla hrÅ¯zostraÅ¡nÄ› silnÃ¡, kdybych mÄ›l takovÃ½ vymazÃ¡vaÄ duÅ¡Ã­.}
+{401}{}{Jestli ho chceÅ¡, tak je tvÅ¯j. UrÄitÄ› nÄ›kde najdu jinÃ½. [DÃ¡t Marlimu samopal]}
+{402}{}{Tak si ho vem. VidÃ­m, Å¾e od nÄ›j nedokÃ¡Å¾eÅ¡ odtrhnout oÄi. [DÃ¡t Marlimu samopal]}
+{403}{}{Jo, to vÄ›Å™Ã­m. NicmÃ©nÄ› jÃ¡ a mÅ¯j vymazÃ¡vaÄ duÅ¡Ã­ uÅ¾ musÃ­me jÃ­t.}
+{404}{}{Nech si tu magii pro sebe, kÃ¡mo. Nashle.}
+{410}{}{(Å klebÃ­ se jako Å¡Ã­lenec, kdyÅ¾ se dÃ­vÃ¡ na tu zbraÅˆ.) Ach, ty jsi dobrÃ½ pÅ™Ã­tel Marliho, cizinÄe. Tu mÃ¡Å¡, schovÃ¡val jsem si tuhle sladkou bublinkovou vodu, ale myslÃ­m, Å¾e ti ji dÃ¡m. (PÅ™edÃ¡ ti Nuka-Colu.) A teÄ pÅ¯jdu chrlit ohnivou smrt na geckony. (OdbÃ­hÃ¡ na loviÅ¡tÄ›.)}
+{411}{}{Moje magie je teÄ hrÅ¯zostraÅ¡nÃ¡!}
+{1000}{}{PodaÅ™ilo se ti opravit studnu.}
+{2000}{}{PromiÅˆ jestli jsem se choval jako kretÃ©n, hrdino.}
+{2001}{}{PromiÅˆ, ztratil jsem tvÅ¯j samopal. Ten geckon byl opravdu zuÅ™ivÃ½.}

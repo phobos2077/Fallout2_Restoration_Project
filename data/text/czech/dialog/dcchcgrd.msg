@@ -1,46 +1,46 @@
-{100}{}{Vidíš strá.}
-{150}{}{Tato strá hlídá starı kostel.}
+{100}{}{VidÃ­Å¡ strÃ¡Å¾.}
+{150}{}{Tato strÃ¡Å¾ hlÃ­dÃ¡ starÃ½ kostel.}
 {151}{}{[MLUVIT]}
-{152}{}{Jak se opovauješ tady zase ukázat svùj ksicht?}
+{152}{}{Jak se opovaÅ¾ujeÅ¡ tady zase ukÃ¡zat svÅ¯j ksicht?}
 {153}{}{[KONEC]}
-{154}{}{Hej! Nikdo nesmí v noci do skladu rodiny Wrightovıch!}
-{155}{}{No, pan Wright mì poslal na pochùzku. To je tvùj problém, jestli o tom nevíš.}
-{156}{}{Vrátím se zítra.}
-{157}{}{Potøebuju se tam teï dostat.}
-{158}{}{(Vypadá nervóznì.) Promiò... nevìdìl jsem o tom. Máš nìjakı papíry?}
-{159}{}{Prosím! Umíš vùbec èíst?}
-{160}{}{Ne, ádné mi nedal.}
-{161}{}{Nechal jsem je na strái. Jdu si je vyzvednout.}
-{162}{}{Nemùeš dovnitø bez papírù.}
-{163}{}{Tady je moje autorizace! Útok!}
-{164}{}{Ještì se vrátím.}
-{165}{}{(Rozpaèitì.) Ne...eh...v poøádku, mùeš jít dovnitø...}
-{166}{}{Díky.}
-{167}{}{Tak se mi to líbí.}
+{154}{}{Hej! Nikdo nesmÃ­ v noci do skladu rodiny WrightovÃ½ch!}
+{155}{}{No, pan Wright mÄ› poslal na pochÅ¯zku. To je tvÅ¯j problÃ©m, jestli o tom nevÃ­Å¡.}
+{156}{}{VrÃ¡tÃ­m se zÃ­tra.}
+{157}{}{PotÅ™ebuju se tam teÄ dostat.}
+{158}{}{(VypadÃ¡ nervÃ³znÄ›.) PromiÅˆ... nevÄ›dÄ›l jsem o tom. MÃ¡Å¡ nÄ›jakÃ½ papÃ­ry?}
+{159}{}{ProsÃ­m! UmÃ­Å¡ vÅ¯bec ÄÃ­st?}
+{160}{}{Ne, Å¾Ã¡dnÃ© mi nedal.}
+{161}{}{Nechal jsem je na strÃ¡Å¾i. Jdu si je vyzvednout.}
+{162}{}{NemÅ¯Å¾eÅ¡ dovnitÅ™ bez papÃ­rÅ¯.}
+{163}{}{Tady je moje autorizace! Ãštok!}
+{164}{}{JeÅ¡tÄ› se vrÃ¡tÃ­m.}
+{165}{}{(RozpaÄitÄ›.) Ne...eh...v poÅ™Ã¡dku, mÅ¯Å¾eÅ¡ jÃ­t dovnitÅ™...}
+{166}{}{DÃ­ky.}
+{167}{}{Tak se mi to lÃ­bÃ­.}
 {168}{}{Co tu chcete?}
-{169}{}{Potøebujeme jít dovnitø.}
-{170}{}{Poslal nás sem šéf.}
-{171}{}{Kdyby sem poslali skupinu, vìdìl bych o tom. Jdìte pryè!}
-{172}{}{Jdìte, nebo budete o hlavu kratší!}
-{173}{}{Dobøe, dobøe. U jdeme.}
-{174}{}{Co tu pohledáváš?}
-{175}{}{Potøebuju se dostat dovnitø.}
-{176}{}{Poslal mì sem šéf s oficiálním posláním. Uhni na stranu!}
+{169}{}{PotÅ™ebujeme jÃ­t dovnitÅ™.}
+{170}{}{Poslal nÃ¡s sem Å¡Ã©f.}
+{171}{}{Kdyby sem poslali skupinu, vÄ›dÄ›l bych o tom. JdÄ›te pryÄ!}
+{172}{}{JdÄ›te, nebo budete o hlavu kratÅ¡Ã­!}
+{173}{}{DobÅ™e, dobÅ™e. UÅ¾ jdeme.}
+{174}{}{Co tu pohledÃ¡vÃ¡Å¡?}
+{175}{}{PotÅ™ebuju se dostat dovnitÅ™.}
+{176}{}{Poslal mÄ› sem Å¡Ã©f s oficiÃ¡lnÃ­m poslÃ¡nÃ­m. Uhni na stranu!}
 {177}{}{Useknu ti hlavu.}
-{178}{}{Promiò, to je omyl.}
-{179}{}{Zdravím. Mùeš jít dovnitø.}
-{180}{}{Díky.}
-{181}{}{Hej, vypadni sakra od tìch dveøí!}
-{182}{}{Nedotıkej se tìch dveøí, jestli nechceš mít problémy.}
-{183}{}{Ještì jednou tì uvidím u tìch dveøí a vpálím ti kulku mezi oèi.}
-{184}{}{Hej, co si myslíš, e dìláš?}
-{185}{}{Mám tì a po krk.}
-{186}{}{Promiò, mùu tì pustit dál, ale tví pøátelé budou muset poèkat venku.}
-{187}{}{Jen jeden z vás mùe jít dovnitø.}
-{200}{}{Dobrı veèer.}
-{201}{}{Dobré odpoledne.}
-{202}{}{Dobré ráno.}
-{203}{}{Dodìlej si svoji práci. Díky.}
-{250}{}{Víš, kamaráde, u jsi mì neuvìøitelnì sral!}
-{251}{}{Víš, dìvko, u jsi mì neuvìøitelnì srala!}
+{178}{}{PromiÅˆ, to je omyl.}
+{179}{}{ZdravÃ­m. MÅ¯Å¾eÅ¡ jÃ­t dovnitÅ™.}
+{180}{}{DÃ­ky.}
+{181}{}{Hej, vypadni sakra od tÄ›ch dveÅ™Ã­!}
+{182}{}{NedotÃ½kej se tÄ›ch dveÅ™Ã­, jestli nechceÅ¡ mÃ­t problÃ©my.}
+{183}{}{JeÅ¡tÄ› jednou tÄ› uvidÃ­m u tÄ›ch dveÅ™Ã­ a vpÃ¡lÃ­m ti kulku mezi oÄi.}
+{184}{}{Hej, co si myslÃ­Å¡, Å¾e dÄ›lÃ¡Å¡?}
+{185}{}{MÃ¡m tÄ› aÅ¾ po krk.}
+{186}{}{PromiÅˆ, mÅ¯Å¾u tÄ› pustit dÃ¡l, ale tvÃ­ pÅ™Ã¡telÃ© budou muset poÄkat venku.}
+{187}{}{Jen jeden z vÃ¡s mÅ¯Å¾e jÃ­t dovnitÅ™.}
+{200}{}{DobrÃ½ veÄer.}
+{201}{}{DobrÃ© odpoledne.}
+{202}{}{DobrÃ© rÃ¡no.}
+{203}{}{DodÄ›lej si svoji prÃ¡ci. DÃ­ky.}
+{250}{}{VÃ­Å¡, kamarÃ¡de, uÅ¾ jsi mÄ› neuvÄ›Å™itelnÄ› sral!}
+{251}{}{VÃ­Å¡, dÄ›vko, uÅ¾ jsi mÄ› neuvÄ›Å™itelnÄ› srala!}
 {252}{}{[KONEC]}

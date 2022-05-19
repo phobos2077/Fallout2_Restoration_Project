@@ -1,113 +1,113 @@
-{100}{}{Vidíš nemocného otroka.}
-{101}{}{Vidíš nadrogovaného otroka.}
-{102}{}{Vidíš otroka.}
-{150}{}{Vidíš znièenì vypadajícího mue. Jeho oèi mihotají po okolí, jako by sledovaly nìjakou neviditelnou mouchu.}
-{151}{}{Vidíš nemocného otroka. Je hroznì vydìšenı a jeho oèi se na tebe nedokáí soustøedit.}
-{152}{}{Vidíš nemocného otroka. Jeho obleèení je potrhané a jeho kùe sotva visí na tìle.}
-{153}{}{Vidíš nemocného otroka. Zbìsile kašle a jeho potrhaná košile je pokrytá krvavımi fleky.}
-{154}{}{Vidíš nemocného otroka. Je z nìj cítit silnı zápach moèi a fekálií.}
-{155}{}{Vidíš nemocného otroka. Má vypadlé zuby a oèi podlité krví.}
-{156}{}{Vidíš nemocného otroka. Jeho tváø je pokrytá nìjakou vyrákou a neustále se škrábe.}
-{160}{}{Vidíš znièenì vypadající enu. Zírá do zemì pøed sebou, jako by mìla strach zvednout pohled.}
-{161}{}{Vidíš nemocnou otrokyni. Je hroznì vydìšená a její oèi se na tebe nedokáí soustøedit.}
-{162}{}{Vidíš nemocnou otrokyni. Na tváøi a na rukou jí sedí hmyz, ale ona tomu vùbec nevìnuje pozornost.}
-{163}{}{Vidíš nemocnou otrokyni. Její obleèení je potrhané a její kùe sotva visí na tìle.}
-{164}{}{Vidíš nemocnou otrokyni. Pøi dıchání chrèí a z nosu jí vytéká hlen.}
-{165}{}{Vidíš nemocnou otrokyni. Je z ní cítit silnı zápach moèi a fekálií.}
-{166}{}{Vidíš nemocnou otrokyni. Její tváø a krk pokrıvá nìjaká vyráka, take se neustále škrábe.}
-{167}{}{Vidíš nemocnou otrokyni. Vypadá, jako by chtìla plakat, ale z oèí jí nevycházejí ádné slzy. }
-{170}{}{Vidíš omámenì vypadajícího mue. Zírá pøímo pøed sebe s nepøítomnım vırazem na tváøi.}
-{171}{}{Vidíš zfetovaného otroka. Jeho oèi mihotají po okolí a ani na chvíli se nezamìøí na jednu vìc.}
-{172}{}{Vidíš zfetovaného otroka. Právì se kousl do ruky a utrhl si z ní kus kùe, kterou pomalu vıká.}
-{173}{}{Vidíš zfetovaného otroka. Má na tváøi lehkı úsmìv, ale oèi má zakalené a bez vırazu.}
-{174}{}{Vidíš zfetovaného otroka. Zírá do prázdna a z koutku úst mu vytékají sliny.}
-{175}{}{Vidíš zfetovaného otroka. Kdy tì spatøí, tak mrkne a bolestnì se usmìje, jako by jsi záøil jako Slunce.}
-{180}{}{Vidíš chvìjící se enu. Zírá do zemì, jako by mìla strach, e zmizí, pokud pøestane.}
-{181}{}{Vidíš zfetovanou otrokyni. Chichotá se a olizuje si krev z rozkousanıch rtù.}
-{182}{}{Vidíš zfetovanou otrokyni. Na ruce má stopy po jehlách spolu s nìkolika modøinami a jizvami od bièe.}
-{183}{}{Vidíš zfetovanou otrokyni. Rychle mrká, jako by mìla suché oèi.}
-{184}{}{Vidíš zfetovanou otrokyni. Škrábe se na rukou tak zbìsile, e jí na prstech zùstávají kousky kùe.}
-{185}{}{Vidíš zfetovanou otrokyni. Košili má pokrytou zvratky a celá lehce páchne po terpentınu.}
-{190}{}{Vidíš hubeného mue. Je pokrytı jizvami od bièe a neustále zírá do zemì, jako by èekal na rozkazy.}
-{191}{}{Vidíš zmláceného otroka.}
-{192}{}{Vidíš hubeného otroka. Je pokrytı jizvami od bièe a neustále zírá do zemì, jako by èekal na rozkazy.}
-{195}{}{Vidíš chvìjící se enu. Její tìlo je pokryté jizvami od bièe a její obleèení je na cáry.}
-{196}{}{Vidíš otrokyni.}
-{197}{}{Vidíš otrokyni. Lehce se chvìje a její tìlo je pokryté jizvami od bièe.}
+{100}{}{VidÃ­Å¡ nemocnÃ©ho otroka.}
+{101}{}{VidÃ­Å¡ nadrogovanÃ©ho otroka.}
+{102}{}{VidÃ­Å¡ otroka.}
+{150}{}{VidÃ­Å¡ zniÄenÄ› vypadajÃ­cÃ­ho muÅ¾e. Jeho oÄi mihotajÃ­ po okolÃ­, jako by sledovaly nÄ›jakou neviditelnou mouchu.}
+{151}{}{VidÃ­Å¡ nemocnÃ©ho otroka. Je hroznÄ› vydÄ›Å¡enÃ½ a jeho oÄi se na tebe nedokÃ¡Å¾Ã­ soustÅ™edit.}
+{152}{}{VidÃ­Å¡ nemocnÃ©ho otroka. Jeho obleÄenÃ­ je potrhanÃ© a jeho kÅ¯Å¾e sotva visÃ­ na tÄ›le.}
+{153}{}{VidÃ­Å¡ nemocnÃ©ho otroka. ZbÄ›sile kaÅ¡le a jeho potrhanÃ¡ koÅ¡ile je pokrytÃ¡ krvavÃ½mi fleky.}
+{154}{}{VidÃ­Å¡ nemocnÃ©ho otroka. Je z nÄ›j cÃ­tit silnÃ½ zÃ¡pach moÄi a fekÃ¡liÃ­.}
+{155}{}{VidÃ­Å¡ nemocnÃ©ho otroka. MÃ¡ vypadlÃ© zuby a oÄi podlitÃ© krvÃ­.}
+{156}{}{VidÃ­Å¡ nemocnÃ©ho otroka. Jeho tvÃ¡Å™ je pokrytÃ¡ nÄ›jakou vyrÃ¡Å¾kou a neustÃ¡le se Å¡krÃ¡be.}
+{160}{}{VidÃ­Å¡ zniÄenÄ› vypadajÃ­cÃ­ Å¾enu. ZÃ­rÃ¡ do zemÄ› pÅ™ed sebou, jako by mÄ›la strach zvednout pohled.}
+{161}{}{VidÃ­Å¡ nemocnou otrokyni. Je hroznÄ› vydÄ›Å¡enÃ¡ a jejÃ­ oÄi se na tebe nedokÃ¡Å¾Ã­ soustÅ™edit.}
+{162}{}{VidÃ­Å¡ nemocnou otrokyni. Na tvÃ¡Å™i a na rukou jÃ­ sedÃ­ hmyz, ale ona tomu vÅ¯bec nevÄ›nuje pozornost.}
+{163}{}{VidÃ­Å¡ nemocnou otrokyni. JejÃ­ obleÄenÃ­ je potrhanÃ© a jejÃ­ kÅ¯Å¾e sotva visÃ­ na tÄ›le.}
+{164}{}{VidÃ­Å¡ nemocnou otrokyni. PÅ™i dÃ½chÃ¡nÃ­ chrÄÃ­ a z nosu jÃ­ vytÃ©kÃ¡ hlen.}
+{165}{}{VidÃ­Å¡ nemocnou otrokyni. Je z nÃ­ cÃ­tit silnÃ½ zÃ¡pach moÄi a fekÃ¡liÃ­.}
+{166}{}{VidÃ­Å¡ nemocnou otrokyni. JejÃ­ tvÃ¡Å™ a krk pokrÃ½vÃ¡ nÄ›jakÃ¡ vyrÃ¡Å¾ka, takÅ¾e se neustÃ¡le Å¡krÃ¡be.}
+{167}{}{VidÃ­Å¡ nemocnou otrokyni. VypadÃ¡, jako by chtÄ›la plakat, ale z oÄÃ­ jÃ­ nevychÃ¡zejÃ­ Å¾Ã¡dnÃ© slzy. }
+{170}{}{VidÃ­Å¡ omÃ¡menÄ› vypadajÃ­cÃ­ho muÅ¾e. ZÃ­rÃ¡ pÅ™Ã­mo pÅ™ed sebe s nepÅ™Ã­tomnÃ½m vÃ½razem na tvÃ¡Å™i.}
+{171}{}{VidÃ­Å¡ zfetovanÃ©ho otroka. Jeho oÄi mihotajÃ­ po okolÃ­ a ani na chvÃ­li se nezamÄ›Å™Ã­ na jednu vÄ›c.}
+{172}{}{VidÃ­Å¡ zfetovanÃ©ho otroka. PrÃ¡vÄ› se kousl do ruky a utrhl si z nÃ­ kus kÅ¯Å¾e, kterou pomalu Å¾vÃ½kÃ¡.}
+{173}{}{VidÃ­Å¡ zfetovanÃ©ho otroka. MÃ¡ na tvÃ¡Å™i lehkÃ½ ÃºsmÄ›v, ale oÄi mÃ¡ zakalenÃ© a bez vÃ½razu.}
+{174}{}{VidÃ­Å¡ zfetovanÃ©ho otroka. ZÃ­rÃ¡ do prÃ¡zdna a z koutku Ãºst mu vytÃ©kajÃ­ sliny.}
+{175}{}{VidÃ­Å¡ zfetovanÃ©ho otroka. KdyÅ¾ tÄ› spatÅ™Ã­, tak mrkne a bolestnÄ› se usmÄ›je, jako by jsi zÃ¡Å™il jako Slunce.}
+{180}{}{VidÃ­Å¡ chvÄ›jÃ­cÃ­ se Å¾enu. ZÃ­rÃ¡ do zemÄ›, jako by mÄ›la strach, Å¾e zmizÃ­, pokud pÅ™estane.}
+{181}{}{VidÃ­Å¡ zfetovanou otrokyni. ChichotÃ¡ se a olizuje si krev z rozkousanÃ½ch rtÅ¯.}
+{182}{}{VidÃ­Å¡ zfetovanou otrokyni. Na ruce mÃ¡ stopy po jehlÃ¡ch spolu s nÄ›kolika modÅ™inami a jizvami od biÄe.}
+{183}{}{VidÃ­Å¡ zfetovanou otrokyni. Rychle mrkÃ¡, jako by mÄ›la suchÃ© oÄi.}
+{184}{}{VidÃ­Å¡ zfetovanou otrokyni. Å krÃ¡be se na rukou tak zbÄ›sile, Å¾e jÃ­ na prstech zÅ¯stÃ¡vajÃ­ kousky kÅ¯Å¾e.}
+{185}{}{VidÃ­Å¡ zfetovanou otrokyni. KoÅ¡ili mÃ¡ pokrytou zvratky a celÃ¡ lehce pÃ¡chne po terpentÃ½nu.}
+{190}{}{VidÃ­Å¡ hubenÃ©ho muÅ¾e. Je pokrytÃ½ jizvami od biÄe a neustÃ¡le zÃ­rÃ¡ do zemÄ›, jako by Äekal na rozkazy.}
+{191}{}{VidÃ­Å¡ zmlÃ¡cenÃ©ho otroka.}
+{192}{}{VidÃ­Å¡ hubenÃ©ho otroka. Je pokrytÃ½ jizvami od biÄe a neustÃ¡le zÃ­rÃ¡ do zemÄ›, jako by Äekal na rozkazy.}
+{195}{}{VidÃ­Å¡ chvÄ›jÃ­cÃ­ se Å¾enu. JejÃ­ tÄ›lo je pokrytÃ© jizvami od biÄe a jejÃ­ obleÄenÃ­ je na cÃ¡ry.}
+{196}{}{VidÃ­Å¡ otrokyni.}
+{197}{}{VidÃ­Å¡ otrokyni. Lehce se chvÄ›je a jejÃ­ tÄ›lo je pokrytÃ© jizvami od biÄe.}
 {200}{}{::Popotahuje nosem::}
 {201}{}{::Huhhhhk::}
-{202}{}{::Kašle::}
-{203}{}{::Škrábe se.::}
-{204}{}{::Odhání mouchy::}
+{202}{}{::KaÅ¡le::}
+{203}{}{::Å krÃ¡be se.::}
+{204}{}{::OdhÃ¡nÃ­ mouchy::}
 {210}{}{::Popotahuje nosem::}
 {211}{}{*Chichi*}
 {212}{}{Heeeeeeee}
 {213}{}{Hee heeeee hee... hee...}
 {214}{}{EeeeEEEEeeeeEEEE}
-{220}{}{::Nepøítomnì se na tebe dívá::}
-{221}{}{::Tiše pláèe::}
-{222}{}{::Nepøítomnì na tebe zírá::}
-{223}{}{::Divoce mrká::}
-{224}{}{::Divoce kašle::}
-{225}{}{::Mumlá nìco, èemu nerozumíš::}
+{220}{}{::NepÅ™Ã­tomnÄ› se na tebe dÃ­vÃ¡::}
+{221}{}{::TiÅ¡e plÃ¡Äe::}
+{222}{}{::NepÅ™Ã­tomnÄ› na tebe zÃ­rÃ¡::}
+{223}{}{::Divoce mrkÃ¡::}
+{224}{}{::Divoce kaÅ¡le::}
+{225}{}{::MumlÃ¡ nÄ›co, Äemu nerozumÃ­Å¡::}
 {226}{}{Hnnnnh... hnnn}
-{227}{}{::Utírá si nos::}
+{227}{}{::UtÃ­rÃ¡ si nos::}
 {228}{}{Hunnnnnh}
-{229}{}{Rrrurrr..rr..::kašle::}
-{240}{}{::Mne si oèi::}
-{241}{}{::Chrochtá jako prase::}
-{242}{}{::Škrábe se na hlavì a mne si oèi::}
+{229}{}{Rrrurrr..rr..::kaÅ¡le::}
+{240}{}{::Mne si oÄi::}
+{241}{}{::ChrochtÃ¡ jako prase::}
+{242}{}{::Å krÃ¡be se na hlavÄ› a mne si oÄi::}
 {243}{}{Hee heeeee hee... hee...}
 {244}{}{Cinky linky}
-{245}{}{Fù-fùùùùùùùùùù}
+{245}{}{FÅ¯-fÅ¯Å¯Å¯Å¯Å¯Å¯Å¯Å¯Å¯Å¯}
 {246}{}{EeeeEEEEeeeeEEEE}
-{247}{}{Moje oèi jsou velkı èernı mouchy.}
-{248}{}{Bùby bù}
-{249}{}{Hùù Hùù}
-{250}{}{Bùùùùùù}
-{251}{}{Já špatnì já dobøe já špatnì já dobøe.}
-{252}{}{Dvakrát dobøe.}
-{260}{}{U mám vlastníka. Mùj pán má doklady.}
-{261}{}{Nech mì prosím bıt, patøím nìkomu jinımu.}
-{262}{}{Pomoz mi prosím: hledám dvì dìti, s èernımi vlasy...? Pøed dvìma lety je odvedli jiní otrokáøi na sever.}
-{263}{}{Prosím... nemám dovoleno se s nikım bavit.}
+{247}{}{Moje oÄi jsou velkÃ½ ÄernÃ½ mouchy.}
+{248}{}{BÅ¯by bÅ¯}
+{249}{}{HÅ¯Å¯ HÅ¯Å¯}
+{250}{}{BÅ¯Å¯Å¯Å¯Å¯Å¯}
+{251}{}{JÃ¡ Å¡patnÄ› jÃ¡ dobÅ™e jÃ¡ Å¡patnÄ› jÃ¡ dobÅ™e.}
+{252}{}{DvakrÃ¡t dobÅ™e.}
+{260}{}{UÅ¾ mÃ¡m vlastnÃ­ka. MÅ¯j pÃ¡n mÃ¡ doklady.}
+{261}{}{Nech mÄ› prosÃ­m bÃ½t, patÅ™Ã­m nÄ›komu jinÃ½mu.}
+{262}{}{Pomoz mi prosÃ­m: hledÃ¡m dvÄ› dÄ›ti, s ÄernÃ½mi vlasy...? PÅ™ed dvÄ›ma lety je odvedli jinÃ­ otrokÃ¡Å™i na sever.}
+{263}{}{ProsÃ­m... nemÃ¡m dovoleno se s nikÃ½m bavit.}
 {264}{}{Please... let me be. My master will be back soon.}
-{265}{}{Jestli mì mùj pán chytí, zbije mì.}
-{266}{}{Já u mám paní. Nebude ráda, kdy se se mnou budeš vybavovat.}
-{267}{}{Nemohu s tebou mluvit. Mám povinnosti.}
-{268}{}{Jestli mì nìkdo uvidí, jak se vybavuju s otrokáøem, dají mì na testování drog.}
-{269}{}{Prosím tì, jdi slintat nìkam jinam. Nechci mít ádné problémy.}
-{270}{}{Utıct? Já... se odsud ještì nikdy nepokusil utıct. Neodváím se porušit pøíkazy svıho pána.}
-{280}{}{Jestli mì nìkdo uvidí, jak se s tebou vybavuju, dají mì na testování drog.}
-{281}{}{Kdysi jsem pracoval s otrokem, kterej pøed pár dny umøel na pøedávkování.}
-{282}{}{Testujou na nás novı drogy a nìkterı jsou dokonce jedovatı.}
-{283}{}{Mùj pán je na mì... hodnej.}
-{284}{}{Mùj pán mi zakázal mluvit s cizíma lidma.}
-{285}{}{Prosím... nemám dovoleno se s tebou bavit.}
-{286}{}{Prosím, nech mì bıt. Mùj pán se brzo vrátí.}
-{287}{}{Jestli mì mùj pán chytne, jak se s tebou bavím, zbije mì.}
-{288}{}{Mùj pán je hodnı. Bije mì jenom obèas.}
-{289}{}{Rodina mi nechybí. Mùj pán je hodnı.}
+{265}{}{Jestli mÄ› mÅ¯j pÃ¡n chytÃ­, zbije mÄ›.}
+{266}{}{JÃ¡ uÅ¾ mÃ¡m panÃ­. Nebude rÃ¡da, kdyÅ¾ se se mnou budeÅ¡ vybavovat.}
+{267}{}{Nemohu s tebou mluvit. MÃ¡m povinnosti.}
+{268}{}{Jestli mÄ› nÄ›kdo uvidÃ­, jak se vybavuju s otrokÃ¡Å™em, dajÃ­ mÄ› na testovÃ¡nÃ­ drog.}
+{269}{}{ProsÃ­m tÄ›, jdi slintat nÄ›kam jinam. Nechci mÃ­t Å¾Ã¡dnÃ© problÃ©my.}
+{270}{}{UtÃ½ct? JÃ¡... se odsud jeÅ¡tÄ› nikdy nepokusil utÃ½ct. NeodvÃ¡Å¾Ã­m se poruÅ¡it pÅ™Ã­kazy svÃ½ho pÃ¡na.}
+{280}{}{Jestli mÄ› nÄ›kdo uvidÃ­, jak se s tebou vybavuju, dajÃ­ mÄ› na testovÃ¡nÃ­ drog.}
+{281}{}{Kdysi jsem pracoval s otrokem, kterej pÅ™ed pÃ¡r dny umÅ™el na pÅ™edÃ¡vkovÃ¡nÃ­.}
+{282}{}{Testujou na nÃ¡s novÃ½ drogy a nÄ›kterÃ½ jsou dokonce jedovatÃ½.}
+{283}{}{MÅ¯j pÃ¡n je na mÄ›... hodnej.}
+{284}{}{MÅ¯j pÃ¡n mi zakÃ¡zal mluvit s cizÃ­ma lidma.}
+{285}{}{ProsÃ­m... nemÃ¡m dovoleno se s tebou bavit.}
+{286}{}{ProsÃ­m, nech mÄ› bÃ½t. MÅ¯j pÃ¡n se brzo vrÃ¡tÃ­.}
+{287}{}{Jestli mÄ› mÅ¯j pÃ¡n chytne, jak se s tebou bavÃ­m, zbije mÄ›.}
+{288}{}{MÅ¯j pÃ¡n je hodnÃ½. Bije mÄ› jenom obÄas.}
+{289}{}{Rodina mi nechybÃ­. MÅ¯j pÃ¡n je hodnÃ½.}
 {290}{}{I was taken from a tribal village north of here. Life is much... better here.}
-{291}{}{Poprvı mì chytili v Denu.}
-{292}{}{Nemohu s vámi mluvit. Musím pracovat.}
-{293}{}{Musím dokonèit svı povinnosti, ne se vrátí mùj pán.}
-{294}{}{Mluvení je proti pravidlùm.}
-{295}{}{Prosím, jdi pryè. Na kolenou tì prosím. Dostaneš mì akorát do problémù.}
-{296}{}{Utıct? Není KAM utıct. Pouš je plná pøíšernejch nestvùr, kterı by mì seraly zaiva.}
-{297}{}{Otroci, kteøí onemocní, vìtšinou zabijou.}
-{298}{}{Jsem jeden z otrokù, kteøí pøeili cestu do New Rena. Další dva onemocnìli bìhem cesty, tak je otrokáøi zastøelili.}
-{299}{}{Ano? Mùu ti nìjak pomoct?}
-{300}{}{Slyšel jsem nìco o podzemní eleznici, ale nevím o nikom, kdo by tamtudy utekl.}
-{301}{}{Julie utekla, ale chytili ji další den v Golgotì. Pøivázali ji na kùl a nechali ji umøít hlady.}
-{302}{}{Otroci, kteøí uteèou, jsou chyceni a ponecháni osudu v Golgotì.}
-{303}{}{Ne, nevím, kde je teï moje rodina. Poøád na nì obèas myslím, ale u ne tak èasto jako døív.}
-{304}{}{New Reno je... no, není to tak špatnı jako v Denu. V nìkterejch vìcech.}
-{305}{}{::Vystrašenì se otoèí::}
-{306}{}{::Ignoruje tì, asi má strach::}
-{307}{}{Jakmile se nauèíš, co od tebe tvùj pán oèekává, tak u bití není tak... èastı.}
-{308}{}{Byl jsem zajat jako otrok u dost dávno. Stìí si to pamatuji.}
-{309}{}{Mìl jsem dvì dìti, ale odvezli je nìkam na sever. Doufám, e dopadli líp ne já.}
-{310}{}{Omlouvám se, ale nemám èas na rozhovory.}
-{311}{}{Mùj pán se na mì v poslední dobì zlobí. Øíká, e mì prodá do Stájí, jestli ho ještì jednou naštvu.}
-{312}{}{Otroci, kteøí uteèou, nechaj zemøít v Golgotì, nebo je pošlou do Stájí na testování.}
+{291}{}{PoprvÃ½ mÄ› chytili v Denu.}
+{292}{}{Nemohu s vÃ¡mi mluvit. MusÃ­m pracovat.}
+{293}{}{MusÃ­m dokonÄit svÃ½ povinnosti, neÅ¾ se vrÃ¡tÃ­ mÅ¯j pÃ¡n.}
+{294}{}{MluvenÃ­ je proti pravidlÅ¯m.}
+{295}{}{ProsÃ­m, jdi pryÄ. Na kolenou tÄ› prosÃ­m. DostaneÅ¡ mÄ› akorÃ¡t do problÃ©mÅ¯.}
+{296}{}{UtÃ½ct? NenÃ­ KAM utÃ½ct. PouÅ¡Å¥ je plnÃ¡ pÅ™Ã­Å¡ernejch nestvÅ¯r, kterÃ½ by mÄ› seÅ¾raly zaÅ¾iva.}
+{297}{}{Otroci, kteÅ™Ã­ onemocnÃ­, vÄ›tÅ¡inou zabijou.}
+{298}{}{Jsem jeden z otrokÅ¯, kteÅ™Ã­ pÅ™eÅ¾ili cestu do New Rena. DalÅ¡Ã­ dva onemocnÄ›li bÄ›hem cesty, tak je otrokÃ¡Å™i zastÅ™elili.}
+{299}{}{Ano? MÅ¯Å¾u ti nÄ›jak pomoct?}
+{300}{}{SlyÅ¡el jsem nÄ›co o podzemnÃ­ Å¾eleznici, ale nevÃ­m o nikom, kdo by tamtudy utekl.}
+{301}{}{Julie utekla, ale chytili ji dalÅ¡Ã­ den v GolgotÄ›. PÅ™ivÃ¡zali ji na kÅ¯l a nechali ji umÅ™Ã­t hlady.}
+{302}{}{Otroci, kteÅ™Ã­ uteÄou, jsou chyceni a ponechÃ¡ni osudu v GolgotÄ›.}
+{303}{}{Ne, nevÃ­m, kde je teÄ moje rodina. PoÅ™Ã¡d na nÄ› obÄas myslÃ­m, ale uÅ¾ ne tak Äasto jako dÅ™Ã­v.}
+{304}{}{New Reno je... no, nenÃ­ to tak Å¡patnÃ½ jako v Denu. V nÄ›kterejch vÄ›cech.}
+{305}{}{::VystraÅ¡enÄ› se otoÄÃ­::}
+{306}{}{::Ignoruje tÄ›, asi mÃ¡ strach::}
+{307}{}{Jakmile se nauÄÃ­Å¡, co od tebe tvÅ¯j pÃ¡n oÄekÃ¡vÃ¡, tak uÅ¾ bitÃ­ nenÃ­ tak... ÄastÃ½.}
+{308}{}{Byl jsem zajat jako otrok uÅ¾ dost dÃ¡vno. StÄ›Å¾Ã­ si to pamatuji.}
+{309}{}{MÄ›l jsem dvÄ› dÄ›ti, ale odvezli je nÄ›kam na sever. DoufÃ¡m, Å¾e dopadli lÃ­p neÅ¾ jÃ¡.}
+{310}{}{OmlouvÃ¡m se, ale nemÃ¡m Äas na rozhovory.}
+{311}{}{MÅ¯j pÃ¡n se na mÄ› v poslednÃ­ dobÄ› zlobÃ­. Å˜Ã­kÃ¡, Å¾e mÄ› prodÃ¡ do StÃ¡jÃ­, jestli ho jeÅ¡tÄ› jednou naÅ¡tvu.}
+{312}{}{Otroci, kteÅ™Ã­ uteÄou, nechaj zemÅ™Ã­t v GolgotÄ›, nebo je poÅ¡lou do StÃ¡jÃ­ na testovÃ¡nÃ­.}

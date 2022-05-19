@@ -1,1 +1,1 @@
-{100}{}{Stojíš u Velkého mostu, kterı je jedinou spojnicí mezi tvou vesnicí a okolní pustinou.}
+{100}{}{StojÃ­Å¡ u VelkÃ©ho mostu, kterÃ½ je jedinou spojnicÃ­ mezi tvou vesnicÃ­ a okolnÃ­ pustinou.}

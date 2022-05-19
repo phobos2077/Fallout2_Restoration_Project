@@ -1,23 +1,23 @@
-{100}{}{Èeho ty ádati?}
-{101}{}{Jo, zajímalo by mì, koho tady hlídáš.}
-{102}{}{Já? Ne ne, já nic nepotøebuju. Nashle.}
-{103}{}{Koho ty hlídat?}
+{100}{}{ÄŒeho ty Å¾Ã¡dati?}
+{101}{}{Jo, zajÃ­malo by mÄ›, koho tady hlÃ­dÃ¡Å¡.}
+{102}{}{JÃ¡? Ne ne, jÃ¡ nic nepotÅ™ebuju. Nashle.}
+{103}{}{Koho ty hlÃ­dat?}
 {104}{}{Nashle!}
-{110}{}{Já hlídati svatého náèelníka kmene. On kráèeti s duchy. Hlídati ho velká èest. Nepouštìti dovnitø nechtìné jako ty. Teï odejdi.}
+{110}{}{JÃ¡ hlÃ­dati svatÃ©ho nÃ¡ÄelnÃ­ka kmene. On krÃ¡Äeti s duchy. HlÃ­dati ho velkÃ¡ Äest. NepouÅ¡tÄ›ti dovnitÅ™ nechtÄ›nÃ© jako ty. TeÄ odejdi.}
 {111}{}{[KONEC]}
-{120}{}{Já øíkati odejít, ale ty neposlouchati. Já vypustiti hroznı øev, kdy lidé neposlouchati. Navrhovati, aby ty rychle odejít. Teï.}
+{120}{}{JÃ¡ Å™Ã­kati odejÃ­t, ale ty neposlouchati. JÃ¡ vypustiti hroznÃ½ Å™ev, kdyÅ¾ lidÃ© neposlouchati. Navrhovati, aby ty rychle odejÃ­t. TeÄ.}
 {121}{}{[KONEC]}
-{130}{}{Já slyšela, e ty vykonala dobré vìci pro náš kmen. Já zmıliti se v tobì. Odpustiti moje hrubost, pøítela. Ty jíti dovnitø a podívati se na velkı mu. On tebe oèekávati.}
-{131}{}{Já slyšela, e ty vykonala dobré vìci pro náš kmen, pøítela. Ty jíti dovnitø a podívati se na velkı mu. On tì oèekávati.}
-{132}{}{Díky.}
-{133}{}{Díky.}
-{140}{}{Vítej, pøítela.}
-{141}{}{Jak to jde, váleèníku?}
-{142}{}{Mùeš jít dovnitø.}
-{143}{}{Rád tì vidím, váleèníku.}
-{144}{}{Já tì zase rád vidìti, pøítela.}
-{260}{}{Já zabiti otrokáø!}
-{300}{}{Vidíš silnì vypadajícího divocha.}
-{301}{}{Vidíš stráce náèelníka kmene.}
-{302}{}{Tento mu tì pozoruje pronikavım pohledem. Oèividnì støeí nìkoho dùleitého.}
-{500}{}{Ty zde bıti vdy vítán, hrdino.}
+{130}{}{JÃ¡ slyÅ¡ela, Å¾e ty vykonala dobrÃ© vÄ›ci pro nÃ¡Å¡ kmen. JÃ¡ zmÃ½liti se v tobÄ›. Odpustiti moje hrubost, pÅ™Ã­tela. Ty jÃ­ti dovnitÅ™ a podÃ­vati se na velkÃ½ muÅ¾. On tebe oÄekÃ¡vati.}
+{131}{}{JÃ¡ slyÅ¡ela, Å¾e ty vykonala dobrÃ© vÄ›ci pro nÃ¡Å¡ kmen, pÅ™Ã­tela. Ty jÃ­ti dovnitÅ™ a podÃ­vati se na velkÃ½ muÅ¾. On tÄ› oÄekÃ¡vati.}
+{132}{}{DÃ­ky.}
+{133}{}{DÃ­ky.}
+{140}{}{VÃ­tej, pÅ™Ã­tela.}
+{141}{}{Jak to jde, vÃ¡leÄnÃ­ku?}
+{142}{}{MÅ¯Å¾eÅ¡ jÃ­t dovnitÅ™.}
+{143}{}{RÃ¡d tÄ› vidÃ­m, vÃ¡leÄnÃ­ku.}
+{144}{}{JÃ¡ tÄ› zase rÃ¡d vidÄ›ti, pÅ™Ã­tela.}
+{260}{}{JÃ¡ zabiti otrokÃ¡Å™!}
+{300}{}{VidÃ­Å¡ silnÄ› vypadajÃ­cÃ­ho divocha.}
+{301}{}{VidÃ­Å¡ strÃ¡Å¾ce nÃ¡ÄelnÃ­ka kmene.}
+{302}{}{Tento muÅ¾ tÄ› pozoruje pronikavÃ½m pohledem. OÄividnÄ› stÅ™eÅ¾Ã­ nÄ›koho dÅ¯leÅ¾itÃ©ho.}
+{500}{}{Ty zde bÃ½ti vÅ¾dy vÃ­tÃ¡n, hrdino.}

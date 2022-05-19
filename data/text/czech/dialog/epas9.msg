@@ -1,2 +1,2 @@
-{200}{}{Sakra, vypadá to, e z tìch semínek vyklíèilo nìco opravdu hnusného.}
-{201}{}{Zajímavá rostlina. Zajímalo by mì, co všechno by z tìch semen vyrostlo.}
+{200}{}{Sakra, vypadÃ¡ to, Å¾e z tÄ›ch semÃ­nek vyklÃ­Äilo nÄ›co opravdu hnusnÃ©ho.}
+{201}{}{ZajÃ­mavÃ¡ rostlina. ZajÃ­malo by mÄ›, co vÅ¡echno by z tÄ›ch semen vyrostlo.}

@@ -1,56 +1,56 @@
-{100}{}{Vidíš Amandu.}
-{101}{}{Vidíš unavenì vypadající enu. Zdá se, e nedávno plakala.}
-{102}{}{Vidíš Amandu.}
-{103}{}{Vidíš unavenì vypadající enu. Zdá se, e nedávno plakala.}
-{104}{}{Vidíš Amandu. Teï, kdy je Joshua volnı, vypadá mnohem šastnìji.}
-{105}{}{Vidíš Amandu.}
-{106}{}{Vidíš Amandu. Teï, kdy je Joshua volnı, vypadá mnohem šastnìji.}
-{107}{}{Ach, mùj Joshuo...}
-{108}{}{Co si mám poèít?}
-{109}{}{Všechny peníze u mi došly...}
-{110}{}{Kdyby ho tak Obèané nechali jít...}
-{111}{}{Joshuo, jsem tak šastná, e jsi volnı. Tolik jsem se bála...}
-{112}{}{Promiò, nemám nic, co bych ti mohla dát.}
-{113}{}{Prosím, nech mì bıt, nebo zavolám stráe.}
-{114}{}{Co chceš?}
-{115}{}{Jsi v poøádku? Vypadáš rozèilenì.}
-{116}{}{No nic. Promiò, e ruším.}
-{117}{}{Já... no, mùj... jde o mého manela Joshuu. On... dostal se do potíí v... baru. Nechtìnì udeøil Obèana a oni ho zavøeli. On to tak nemyslel, ale byl opilı a...}
-{118}{}{Oni ho zavøeli? A kde je teï?}
-{119}{}{Pokud se opil a nìkoho napadl, tak je ve vìzení právem.}
-{120}{}{To je mi moc líto. Doufám, e ho brzy propustí.}
-{121}{}{Ve mìstì, v Centru rozdìlování sluebníkù... øíkají, e si svùj trest mùe odpracovat jako sluebník, ale to mùe trvat roky!}
-{122}{}{Nedalo by se s tím nìco udìlat?}
-{123}{}{Pokud se opil a nìkoho napadl, tak je ve vìzení právem.}
-{124}{}{To je mi moc líto. Doufám, e ho brzy propustí.}
-{125}{}{Ale to byla nehoda! Já... on to urèitì nechtìl udìlat!}
-{126}{}{Kde je teï?}
-{127}{}{Nechtìl nikoho napadnout? To urèitì. Snad to pro vás oba bude dobrá lekce.}
-{128}{}{To je mi moc líto. Doufám, e ho brzy propustí.}
-{129}{}{Moc penìz mi nezbylo a kdy nebudeme mít na zaplacení ochrany, budeme muset brzy odejít. Øíkají, e pokud tu budeme chtít s Joshuou zùstat, tak jen jako sluebníci...}
-{130}{}{To zní jako rozumné øešení. Ve Vault City se chovají ke sluebníkùm pomìrnì slušnì nebo ne?}
-{131}{}{Zkusím zjistit, jestli by se s tím nìco nedalo udìlat, ano? Zkusím promluvit s nìkım v Centru rozdìlovaní sluebníkù.}
-{132}{}{Pomùu ti, ale bude tì to nìco stát.}
-{133}{}{To je mi moc líto. Doufám, e ho brzy propustí.}
-{134}{}{Nechci, aby mùj syn vyrùstal jako otrok! Pøišli jsme do Vault City, protoe jsme slyšeli, e je to svobodné mìsto... ale kdy jsme pøišli... samé zákony, naøízení, placení stráí... všechno je jinak, ne nám tvrdili.}
-{135}{}{Zkusím zjistit, jestli by se s tím nìco nedalo udìlat, ano? Zkusím promluvit s nìkım v Centru rozdìlovaní sluebníkù.}
-{136}{}{To je mi moc líto. Doufám, e ho brzy propustí.}
-{137}{}{Má to tam na starosti Barkus, úøedník Barkus. Nemohla jsem se ani dostat do mìsta, abych s ním promluvila. Ani nevím, jestli je Joshua vùbec v poøádku! Já...}
-{138}{}{Nemìj strach. Zkusím zjistit, jestli se s tím nìco nedá udìlat.}
-{139}{}{Ale já nemám skoro ádné peníze a...}
-{140}{}{Nemám jsem na mysli peníze.}
-{141}{}{To nic. Zkusím promluvit s nìkım v Centru rozdìlovaní sluebníkù.}
-{142}{}{To je mi moc líto, vánì. Doufám, e ho brzy propustí. Sbohem.}
-{143}{}{Co tím myslíš...? Ach ne. To... nejde. Já.. ne...}
-{144}{}{Chceš, aby manela pustili nebo ne? On se to nikdy nemusí dozvìdìt.}
-{145}{}{To nic. Zkusím promluvit s nìkım v Centru rozdìlovaní sluebníkù.}
-{146}{}{To je mi moc líto. Vypadá to, e tvùj manel u se nikdy na svobodu nedostane. Sbohem.}
-{147}{}{Kdy slíbíš, e ho osvobodí, já... já... dobøe. Já... zavøu stanovı vchod. Myslím, e si syn hraje venku... take by nás tu nemìl rušit.}
-{148}{}{Bez obav, tvého mue osvobodím. A dostanu svoji odmìnu.}
-{149}{}{Zapomeò na to. Zkusím promluvit s nìkım v Centru rozdìlovaní sluebníkù.}
-{150}{}{Kašli na to. Zapomeò, e jsme se potkali.}
-{151}{}{Hej, a co já?!}
-{152}{}{Prosím, zachraò Joshuu. Je ve mìstì ve Centru rozdìlování sluebníkù.}
-{153}{}{Díky za záchranu mého mue! Prosím... pøijmi toto jako odmìnu. Není to moc, ale...}
-{154}{}{Ještì jednou díky za záchranu mého mue. Brzy se odstìhujeme.}
-{155}{}{Eh... díky za záchranu mého mue... prosím, neøíkej mu, co se mezi námi odehrálo.}
+{100}{}{VidÃ­Å¡ Amandu.}
+{101}{}{VidÃ­Å¡ unavenÄ› vypadajÃ­cÃ­ Å¾enu. ZdÃ¡ se, Å¾e nedÃ¡vno plakala.}
+{102}{}{VidÃ­Å¡ Amandu.}
+{103}{}{VidÃ­Å¡ unavenÄ› vypadajÃ­cÃ­ Å¾enu. ZdÃ¡ se, Å¾e nedÃ¡vno plakala.}
+{104}{}{VidÃ­Å¡ Amandu. TeÄ, kdyÅ¾ je Joshua volnÃ½, vypadÃ¡ mnohem Å¡Å¥astnÄ›ji.}
+{105}{}{VidÃ­Å¡ Amandu.}
+{106}{}{VidÃ­Å¡ Amandu. TeÄ, kdyÅ¾ je Joshua volnÃ½, vypadÃ¡ mnohem Å¡Å¥astnÄ›ji.}
+{107}{}{Ach, mÅ¯j Joshuo...}
+{108}{}{Co si mÃ¡m poÄÃ­t?}
+{109}{}{VÅ¡echny penÃ­ze uÅ¾ mi doÅ¡ly...}
+{110}{}{Kdyby ho tak ObÄanÃ© nechali jÃ­t...}
+{111}{}{Joshuo, jsem tak Å¡Å¥astnÃ¡, Å¾e jsi volnÃ½. Tolik jsem se bÃ¡la...}
+{112}{}{PromiÅˆ, nemÃ¡m nic, co bych ti mohla dÃ¡t.}
+{113}{}{ProsÃ­m, nech mÄ› bÃ½t, nebo zavolÃ¡m strÃ¡Å¾e.}
+{114}{}{Co chceÅ¡?}
+{115}{}{Jsi v poÅ™Ã¡dku? VypadÃ¡Å¡ rozÄilenÄ›.}
+{116}{}{No nic. PromiÅˆ, Å¾e ruÅ¡Ã­m.}
+{117}{}{JÃ¡... no, mÅ¯j... jde o mÃ©ho manÅ¾ela Joshuu. On... dostal se do potÃ­Å¾Ã­ v... baru. NechtÄ›nÄ› udeÅ™il ObÄana a oni ho zavÅ™eli. On to tak nemyslel, ale byl opilÃ½ a...}
+{118}{}{Oni ho zavÅ™eli? A kde je teÄ?}
+{119}{}{Pokud se opil a nÄ›koho napadl, tak je ve vÄ›zenÃ­ prÃ¡vem.}
+{120}{}{To je mi moc lÃ­to. DoufÃ¡m, Å¾e ho brzy propustÃ­.}
+{121}{}{Ve mÄ›stÄ›, v Centru rozdÄ›lovÃ¡nÃ­ sluÅ¾ebnÃ­kÅ¯... Å™Ã­kajÃ­, Å¾e si svÅ¯j trest mÅ¯Å¾e odpracovat jako sluÅ¾ebnÃ­k, ale to mÅ¯Å¾e trvat roky!}
+{122}{}{Nedalo by se s tÃ­m nÄ›co udÄ›lat?}
+{123}{}{Pokud se opil a nÄ›koho napadl, tak je ve vÄ›zenÃ­ prÃ¡vem.}
+{124}{}{To je mi moc lÃ­to. DoufÃ¡m, Å¾e ho brzy propustÃ­.}
+{125}{}{Ale to byla nehoda! JÃ¡... on to urÄitÄ› nechtÄ›l udÄ›lat!}
+{126}{}{Kde je teÄ?}
+{127}{}{NechtÄ›l nikoho napadnout? To urÄitÄ›. Snad to pro vÃ¡s oba bude dobrÃ¡ lekce.}
+{128}{}{To je mi moc lÃ­to. DoufÃ¡m, Å¾e ho brzy propustÃ­.}
+{129}{}{Moc penÄ›z mi nezbylo a kdyÅ¾ nebudeme mÃ­t na zaplacenÃ­ ochrany, budeme muset brzy odejÃ­t. Å˜Ã­kajÃ­, Å¾e pokud tu budeme chtÃ­t s Joshuou zÅ¯stat, tak jen jako sluÅ¾ebnÃ­ci...}
+{130}{}{To znÃ­ jako rozumnÃ© Å™eÅ¡enÃ­. Ve Vault City se chovajÃ­ ke sluÅ¾ebnÃ­kÅ¯m pomÄ›rnÄ› sluÅ¡nÄ› nebo ne?}
+{131}{}{ZkusÃ­m zjistit, jestli by se s tÃ­m nÄ›co nedalo udÄ›lat, ano? ZkusÃ­m promluvit s nÄ›kÃ½m v Centru rozdÄ›lovanÃ­ sluÅ¾ebnÃ­kÅ¯.}
+{132}{}{PomÅ¯Å¾u ti, ale bude tÄ› to nÄ›co stÃ¡t.}
+{133}{}{To je mi moc lÃ­to. DoufÃ¡m, Å¾e ho brzy propustÃ­.}
+{134}{}{Nechci, aby mÅ¯j syn vyrÅ¯stal jako otrok! PÅ™iÅ¡li jsme do Vault City, protoÅ¾e jsme slyÅ¡eli, Å¾e je to svobodnÃ© mÄ›sto... ale kdyÅ¾ jsme pÅ™iÅ¡li... samÃ© zÃ¡kony, naÅ™Ã­zenÃ­, placenÃ­ strÃ¡Å¾Ã­... vÅ¡echno je jinak, neÅ¾ nÃ¡m tvrdili.}
+{135}{}{ZkusÃ­m zjistit, jestli by se s tÃ­m nÄ›co nedalo udÄ›lat, ano? ZkusÃ­m promluvit s nÄ›kÃ½m v Centru rozdÄ›lovanÃ­ sluÅ¾ebnÃ­kÅ¯.}
+{136}{}{To je mi moc lÃ­to. DoufÃ¡m, Å¾e ho brzy propustÃ­.}
+{137}{}{MÃ¡ to tam na starosti Barkus, ÃºÅ™ednÃ­k Barkus. Nemohla jsem se ani dostat do mÄ›sta, abych s nÃ­m promluvila. Ani nevÃ­m, jestli je Joshua vÅ¯bec v poÅ™Ã¡dku! JÃ¡...}
+{138}{}{NemÄ›j strach. ZkusÃ­m zjistit, jestli se s tÃ­m nÄ›co nedÃ¡ udÄ›lat.}
+{139}{}{Ale jÃ¡ nemÃ¡m skoro Å¾Ã¡dnÃ© penÃ­ze a...}
+{140}{}{NemÃ¡m jsem na mysli penÃ­ze.}
+{141}{}{To nic. ZkusÃ­m promluvit s nÄ›kÃ½m v Centru rozdÄ›lovanÃ­ sluÅ¾ebnÃ­kÅ¯.}
+{142}{}{To je mi moc lÃ­to, vÃ¡Å¾nÄ›. DoufÃ¡m, Å¾e ho brzy propustÃ­. Sbohem.}
+{143}{}{Co tÃ­m myslÃ­Å¡...? Ach ne. To... nejde. JÃ¡.. ne...}
+{144}{}{ChceÅ¡, aby manÅ¾ela pustili nebo ne? On se to nikdy nemusÃ­ dozvÄ›dÄ›t.}
+{145}{}{To nic. ZkusÃ­m promluvit s nÄ›kÃ½m v Centru rozdÄ›lovanÃ­ sluÅ¾ebnÃ­kÅ¯.}
+{146}{}{To je mi moc lÃ­to. VypadÃ¡ to, Å¾e tvÅ¯j manÅ¾el uÅ¾ se nikdy na svobodu nedostane. Sbohem.}
+{147}{}{KdyÅ¾ slÃ­bÃ­Å¡, Å¾e ho osvobodÃ­, jÃ¡... jÃ¡... dobÅ™e. JÃ¡... zavÅ™u stanovÃ½ vchod. MyslÃ­m, Å¾e si syn hraje venku... takÅ¾e by nÃ¡s tu nemÄ›l ruÅ¡it.}
+{148}{}{Bez obav, tvÃ©ho muÅ¾e osvobodÃ­m. AÅ¾ dostanu svoji odmÄ›nu.}
+{149}{}{ZapomeÅˆ na to. ZkusÃ­m promluvit s nÄ›kÃ½m v Centru rozdÄ›lovanÃ­ sluÅ¾ebnÃ­kÅ¯.}
+{150}{}{KaÅ¡li na to. ZapomeÅˆ, Å¾e jsme se potkali.}
+{151}{}{Hej, a co jÃ¡?!}
+{152}{}{ProsÃ­m, zachraÅˆ Joshuu. Je ve mÄ›stÄ› ve Centru rozdÄ›lovÃ¡nÃ­ sluÅ¾ebnÃ­kÅ¯.}
+{153}{}{DÃ­ky za zÃ¡chranu mÃ©ho muÅ¾e! ProsÃ­m... pÅ™ijmi toto jako odmÄ›nu. NenÃ­ to moc, ale...}
+{154}{}{JeÅ¡tÄ› jednou dÃ­ky za zÃ¡chranu mÃ©ho muÅ¾e. Brzy se odstÄ›hujeme.}
+{155}{}{Eh... dÃ­ky za zÃ¡chranu mÃ©ho muÅ¾e... prosÃ­m, neÅ™Ã­kej mu, co se mezi nÃ¡mi odehrÃ¡lo.}

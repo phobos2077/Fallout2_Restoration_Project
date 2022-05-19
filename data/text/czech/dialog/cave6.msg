@@ -1,1 +1,1 @@
-{100}{}{Vstupuješ do temné jeskynì. Všude kolem jsou krysí vıkaly.}
+{100}{}{VstupujeÅ¡ do temnÃ© jeskynÄ›. VÅ¡ude kolem jsou krysÃ­ vÃ½kaly.}

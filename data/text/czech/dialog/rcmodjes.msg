@@ -1,141 +1,141 @@
-{100}{}{Vidíš Madam Modjesku.}
-{101}{}{Vidíš Madam Modjesku.}
-{102}{}{Chci bıt sama.}
-{103}{}{Odejdi prosím.}
-{104}{}{Neobtìuj mì.}
-{105}{}{Nech mì prosím bıt.}
-{106}{}{Nemám ráda prosáèky.}
-{107}{}{Vìtšina místních lidí pracuje jenom proto, aby si mohli obstarat dostatek Jetu. Potøebují nìco, co jim pomùe zapomenout na problémy tohohle místa.}
-{108}{}{Chci se ještì na nìco zeptat.}
+{100}{}{VidÃ­Å¡ Madam Modjesku.}
+{101}{}{VidÃ­Å¡ Madam Modjesku.}
+{102}{}{Chci bÃ½t sama.}
+{103}{}{Odejdi prosÃ­m.}
+{104}{}{NeobtÄ›Å¾uj mÄ›.}
+{105}{}{Nech mÄ› prosÃ­m bÃ½t.}
+{106}{}{NemÃ¡m rÃ¡da prosÅ¥Ã¡Äky.}
+{107}{}{VÄ›tÅ¡ina mÃ­stnÃ­ch lidÃ­ pracuje jenom proto, aby si mohli obstarat dostatek Jetu. PotÅ™ebujÃ­ nÄ›co, co jim pomÅ¯Å¾e zapomenout na problÃ©my tohohle mÃ­sta.}
+{108}{}{Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
 {109}{}{Jet? Co je to Jet?}
 {110}{}{Aha. Sbohem.}
-{111}{}{Jet má své vyuití. Èlovìk se po nìm tolik nezajímá o tu bídu, která ho obklopuje.}
-{112}{}{Chci se ještì na nìco zeptat.}
+{111}{}{Jet mÃ¡ svÃ© vyuÅ¾itÃ­. ÄŒlovÄ›k se po nÄ›m tolik nezajÃ­mÃ¡ o tu bÃ­du, kterÃ¡ ho obklopuje.}
+{112}{}{Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
 {113}{}{Jet? Co je to Jet?}
 {114}{}{Aha. Sbohem.}
-{115}{}{Poslední dobou je Jet pìknì drahı. Je to na zabití. Co mi pøipomíná... slyšela jsem, e náš vychvalovanı starosta Ascorti se pro nás chystá obstarat víc Jetu. Proto je mezi lidmi tak oblíbenı.}
-{116}{}{Chci se ještì na nìco zeptat.}
-{117}{}{Starosta Asctorti? Kdo to vlastnì je?}
+{115}{}{PoslednÃ­ dobou je Jet pÄ›knÄ› drahÃ½. Je to na zabitÃ­. CoÅ¾ mi pÅ™ipomÃ­nÃ¡... slyÅ¡ela jsem, Å¾e nÃ¡Å¡ vychvalovanÃ½ starosta Ascorti se pro nÃ¡s chystÃ¡ obstarat vÃ­c Jetu. Proto je mezi lidmi tak oblÃ­benÃ½.}
+{116}{}{Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{117}{}{Starosta Asctorti? Kdo to vlastnÄ› je?}
 {118}{}{Jet? Co je to Jet?}
 {119}{}{Aha. Sbohem.}
-{120}{}{Vypadá to, e je všem špatnì. Po poslední dávce Jetu se všichni zapøísáhli, e u ho nebudou brát, ale podle mì se k nìmu brzy vrátí.}
-{121}{}{Chci se ještì na nìco zeptat.}
+{120}{}{VypadÃ¡ to, Å¾e je vÅ¡em Å¡patnÄ›. Po poslednÃ­ dÃ¡vce Jetu se vÅ¡ichni zapÅ™Ã­sÃ¡hli, Å¾e uÅ¾ ho nebudou brÃ¡t, ale podle mÄ› se k nÄ›mu brzy vrÃ¡tÃ­.}
+{121}{}{Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
 {122}{}{Jet? Co je to Jet?}
 {123}{}{Aha. Sbohem.}
-{124}{}{Asi jsem se zmılila. Vìtšina opravdovıch závislákù se zapøísáhla, e u Jet nikdy nebude brát. Po té poslední zkaené dávce ho nikdo nemùe ani cítit.}
-{125}{}{Chci se ještì na nìco zeptat.}
+{124}{}{Asi jsem se zmÃ½lila. VÄ›tÅ¡ina opravdovÃ½ch zÃ¡vislÃ¡kÅ¯ se zapÅ™Ã­sÃ¡hla, Å¾e uÅ¾ Jet nikdy nebude brÃ¡t. Po tÃ© poslednÃ­ zkaÅ¾enÃ© dÃ¡vce ho nikdo nemÅ¯Å¾e ani cÃ­tit.}
+{125}{}{Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
 {126}{}{Jet? Co je to Jet?}
 {127}{}{Aha. Sbohem.}
-{128}{}{Jsem... Madam Modjeska. Co ode mì potøebuješ?}
-{129}{}{S èím ti mùu pomoct?}
-{130}{}{Nemám moc èasu nazbyt. Co potøebuješ od Madam Modjesky?}
-{131}{}{Nemùu se ti teï vìnovat. Co potøebuješ?}
-{132}{}{Madam Modjeska se dnes necítí moc dobøe. Co od ní potøebuješ?}
-{133}{}{Cítím se, jako by se mi mìla kadou chvílí rozskoèit hlava. Co ode mì potøebuješ?}
-{134}{}{Jsem Madam Modjeska. Kdysi jsem mimo jiné brala Jet, ale teï u se jen míchám do vìcí. Zjistila jsem toti, e u si s ním moc nerozumím.}
-{135}{}{Co pro tebe mùe Madam Modjeska udìlat?}
-{136}{}{Kde pracuješ, Madam Modjesko?}
+{128}{}{Jsem... Madam Modjeska. Co ode mÄ› potÅ™ebujeÅ¡?}
+{129}{}{S ÄÃ­m ti mÅ¯Å¾u pomoct?}
+{130}{}{NemÃ¡m moc Äasu nazbyt. Co potÅ™ebujeÅ¡ od Madam Modjesky?}
+{131}{}{NemÅ¯Å¾u se ti teÄ vÄ›novat. Co potÅ™ebujeÅ¡?}
+{132}{}{Madam Modjeska se dnes necÃ­tÃ­ moc dobÅ™e. Co od nÃ­ potÅ™ebujeÅ¡?}
+{133}{}{CÃ­tÃ­m se, jako by se mi mÄ›la kaÅ¾dou chvÃ­lÃ­ rozskoÄit hlava. Co ode mÄ› potÅ™ebujeÅ¡?}
+{134}{}{Jsem Madam Modjeska. Kdysi jsem mimo jinÃ© brala Jet, ale teÄ uÅ¾ se jen mÃ­chÃ¡m do vÄ›cÃ­. Zjistila jsem totiÅ¾, Å¾e uÅ¾ si s nÃ­m moc nerozumÃ­m.}
+{135}{}{Co pro tebe mÅ¯Å¾e Madam Modjeska udÄ›lat?}
+{136}{}{Kde pracujeÅ¡, Madam Modjesko?}
 {137}{}{Looks as though a lot of people here are drug-users. What's going on in town lately?}
-{138}{}{Neslyšela jsi nìjaké zajímavé drby?}
-{139}{}{Proè ti øíkají Madam Modjeska?}
+{138}{}{NeslyÅ¡ela jsi nÄ›jakÃ© zajÃ­mavÃ© drby?}
+{139}{}{ProÄ ti Å™Ã­kajÃ­ Madam Modjeska?}
 {140}{}{Co je to s tebou?}
 {141}{}{Co se ti stalo?}
-{142}{}{Poslední dobou vlastnì nikde. Kdysi jsem vypomáhala Lou øídit hospodu U Malamuta, ale trochu jsme se nepohodly, tak jsem dala vıpovìï.}
-{143}{}{Chci se ještì na nìco zeptat.}
-{144}{}{Rozumím. No, to bude asi všechno. Sbohem.}
-{145}{}{Všichni mluví jen o politice. Bıvá to vášnivé téma v diskuzi.}
-{146}{}{O politice? Co tím myslíš?}
-{147}{}{To teda. Chci se ještì na nìco zeptat.}
-{148}{}{No, to bude asi všechno. Sbohem.}
-{149}{}{Pracovala jsem v hospodì U Malamuta. Tam mi lidé zaèali øíkat Madam. To jméno mi zùstalo, i kdy u tam nepracuju.}
-{150}{}{A kde pracuješ teï?}
-{151}{}{Chci se ještì na nìco zeptat.}
-{152}{}{Myslím, e to bude všechno. Sbohem.}
-{153}{}{Pøed pár dny jsem si ulítla na troše Jetu a udìlalo se mi z toho nìjak špatnì. V té dávce muselo bıt nìco zkaeného, take si u další nevezmu. No, asi se budu muset vrátit k flašce.}
-{154}{}{To nezní moc dobøe. Chci se ještì na nìco zeptat.}
-{155}{}{Rozumím. No, to bude asi všechno. Sbohem.}
-{156}{}{Cítím se líp, ne ve skuteènosti vypadám. Ne sice o moc, ale pøeci.}
-{157}{}{Co tím myslíš? Co se stalo?}
-{158}{}{Øíká ti nìco soutì o podmáznutou brahmínu?}
-{159}{}{Samozøejmì, e øíká. Chci se ještì na nìco zeptat.}
-{160}{}{Ne, vùbec nic mi to neøíká. Povìz mi o tom víc.}
-{161}{}{Vùbec nechápu, co to má spoleèného s politikou a ani to nechci vìdìt. Sbohem.}
-{162}{}{Po té poslední zkaené dávce Jetu jsem se zapøísáhla, e u ho nebudu brát. A mi bude líp, tak se místo toho moná oeru. (smìje se)}
-{163}{}{No, to ti urèitì prospìje. Chci se ještì na nìco zeptat.}
-{164}{}{Zajímavé. No, tak já tì teï opustím, aby ses mohla zotavit. Sbohem.}
-{165}{}{Podmáznou brahmíní tele a pak se ho všichni snaí chytit. Pokud to nezvládneš, tak se aspoò snaíš o to, aby se to v ádném pøípadì nepovedlo nìkomu jinému.}
-{166}{}{Nechápu, co to má spoleèného s politikou.}
-{167}{}{Jo, jasnì. U to nebudu poslouchat, Madam Modjesko. Sbohem.}
-{168}{}{V té høe je Redding tou podmáznutou brahmínou a New Reno, NCR a Vault City se nás pokouší za kadou cenu chytit... nebo alespoò nedopustit, aby nás chytil nìkdo jinı.}
-{169}{}{Co tím myslíš?}
-{170}{}{To je zajímavé. No, radìji u pùjdu, Madam. Díky za vysvìtlení. Sbohem.}
-{171}{}{V Reddingu se tìí zlato. To se potom vyváí do New Rena, NCR a Vault City vımìnou za zboí. Kadé mìsto by to zlato chtìlo mít jen pro sebe.}
-{172}{}{Proè na vás prostì nezaútoèí a nevezmou si ho?}
-{173}{}{A kdo ne? Myslím, e se pokusím najít trochu toho zlata i pro sebe. Díky a sbohem.}
-{174}{}{Jsme dost velcí a celkem daleko. Tím pádem by bylo podmanìní nebezpeèné a finanènì nároèné. Proto se nás snaí pøesvìdèit diplomaticky.}
-{175}{}{Co tím myslíš?}
-{176}{}{To dává smysl. Díky za vysvìtlení. Sbohem.}
-{177}{}{Všechny tøi mocnosti se snaí donutit Redding, aby si vybral, se kterou z nich se spojí. Kadá z nich má ve mìstì vlivné spojence, take se zdá, e vìci koneènì dostanou spád. Brzy si Redding bude muset vybrat.}
+{142}{}{PoslednÃ­ dobou vlastnÄ› nikde. Kdysi jsem vypomÃ¡hala Lou Å™Ã­dit hospodu U Malamuta, ale trochu jsme se nepohodly, tak jsem dala vÃ½povÄ›Ä.}
+{143}{}{Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{144}{}{RozumÃ­m. No, to bude asi vÅ¡echno. Sbohem.}
+{145}{}{VÅ¡ichni mluvÃ­ jen o politice. BÃ½vÃ¡ to vÃ¡Å¡nivÃ© tÃ©ma v diskuzi.}
+{146}{}{O politice? Co tÃ­m myslÃ­Å¡?}
+{147}{}{To teda. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{148}{}{No, to bude asi vÅ¡echno. Sbohem.}
+{149}{}{Pracovala jsem v hospodÄ› U Malamuta. Tam mi lidÃ© zaÄali Å™Ã­kat Madam. To jmÃ©no mi zÅ¯stalo, i kdyÅ¾ uÅ¾ tam nepracuju.}
+{150}{}{A kde pracujeÅ¡ teÄ?}
+{151}{}{Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{152}{}{MyslÃ­m, Å¾e to bude vÅ¡echno. Sbohem.}
+{153}{}{PÅ™ed pÃ¡r dny jsem si ulÃ­tla na troÅ¡e Jetu a udÄ›lalo se mi z toho nÄ›jak Å¡patnÄ›. V tÃ© dÃ¡vce muselo bÃ½t nÄ›co zkaÅ¾enÃ©ho, takÅ¾e si uÅ¾ dalÅ¡Ã­ nevezmu. No, asi se budu muset vrÃ¡tit k flaÅ¡ce.}
+{154}{}{To neznÃ­ moc dobÅ™e. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{155}{}{RozumÃ­m. No, to bude asi vÅ¡echno. Sbohem.}
+{156}{}{CÃ­tÃ­m se lÃ­p, neÅ¾ ve skuteÄnosti vypadÃ¡m. Ne sice o moc, ale pÅ™eci.}
+{157}{}{Co tÃ­m myslÃ­Å¡? Co se stalo?}
+{158}{}{Å˜Ã­kÃ¡ ti nÄ›co soutÄ›Å¾ o podmÃ¡znutou brahmÃ­nu?}
+{159}{}{SamozÅ™ejmÄ›, Å¾e Å™Ã­kÃ¡. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{160}{}{Ne, vÅ¯bec nic mi to neÅ™Ã­kÃ¡. PovÄ›z mi o tom vÃ­c.}
+{161}{}{VÅ¯bec nechÃ¡pu, co to mÃ¡ spoleÄnÃ©ho s politikou a ani to nechci vÄ›dÄ›t. Sbohem.}
+{162}{}{Po tÃ© poslednÃ­ zkaÅ¾enÃ© dÃ¡vce Jetu jsem se zapÅ™Ã­sÃ¡hla, Å¾e uÅ¾ ho nebudu brÃ¡t. AÅ¾ mi bude lÃ­p, tak se mÃ­sto toho moÅ¾nÃ¡ oÅ¾eru. (smÄ›je se)}
+{163}{}{No, to ti urÄitÄ› prospÄ›je. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{164}{}{ZajÃ­mavÃ©. No, tak jÃ¡ tÄ› teÄ opustÃ­m, aby ses mohla zotavit. Sbohem.}
+{165}{}{PodmÃ¡znou brahmÃ­nÃ­ tele a pak se ho vÅ¡ichni snaÅ¾Ã­ chytit. Pokud to nezvlÃ¡dneÅ¡, tak se aspoÅˆ snaÅ¾Ã­Å¡ o to, aby se to v Å¾Ã¡dnÃ©m pÅ™Ã­padÄ› nepovedlo nÄ›komu jinÃ©mu.}
+{166}{}{NechÃ¡pu, co to mÃ¡ spoleÄnÃ©ho s politikou.}
+{167}{}{Jo, jasnÄ›. UÅ¾ to nebudu poslouchat, Madam Modjesko. Sbohem.}
+{168}{}{V tÃ© hÅ™e je Redding tou podmÃ¡znutou brahmÃ­nou a New Reno, NCR a Vault City se nÃ¡s pokouÅ¡Ã­ za kaÅ¾dou cenu chytit... nebo alespoÅˆ nedopustit, aby nÃ¡s chytil nÄ›kdo jinÃ½.}
+{169}{}{Co tÃ­m myslÃ­Å¡?}
+{170}{}{To je zajÃ­mavÃ©. No, radÄ›ji uÅ¾ pÅ¯jdu, Madam. DÃ­ky za vysvÄ›tlenÃ­. Sbohem.}
+{171}{}{V Reddingu se tÄ›Å¾Ã­ zlato. To se potom vyvÃ¡Å¾Ã­ do New Rena, NCR a Vault City vÃ½mÄ›nou za zboÅ¾Ã­. KaÅ¾dÃ© mÄ›sto by to zlato chtÄ›lo mÃ­t jen pro sebe.}
+{172}{}{ProÄ na vÃ¡s prostÄ› nezaÃºtoÄÃ­ a nevezmou si ho?}
+{173}{}{A kdo ne? MyslÃ­m, Å¾e se pokusÃ­m najÃ­t trochu toho zlata i pro sebe. DÃ­ky a sbohem.}
+{174}{}{Jsme dost velcÃ­ a celkem daleko. TÃ­m pÃ¡dem by bylo podmanÄ›nÃ­ nebezpeÄnÃ© a finanÄnÄ› nÃ¡roÄnÃ©. Proto se nÃ¡s snaÅ¾Ã­ pÅ™esvÄ›dÄit diplomaticky.}
+{175}{}{Co tÃ­m myslÃ­Å¡?}
+{176}{}{To dÃ¡vÃ¡ smysl. DÃ­ky za vysvÄ›tlenÃ­. Sbohem.}
+{177}{}{VÅ¡echny tÅ™i mocnosti se snaÅ¾Ã­ donutit Redding, aby si vybral, se kterou z nich se spojÃ­. KaÅ¾dÃ¡ z nich mÃ¡ ve mÄ›stÄ› vlivnÃ© spojence, takÅ¾e se zdÃ¡, Å¾e vÄ›ci koneÄnÄ› dostanou spÃ¡d. Brzy si Redding bude muset vybrat.}
 {178}{}{Vybrat?}
 {179}{}{Kdo koho podporuje?}
-{180}{}{Zase ty peníze. Hmm. No nic, u musím jít. Sbohem.}
-{181}{}{Úplatkù pro tuhle brahmínu ubıvá. Zanedlouho bude muset jedna z mocností udìlat rozhodující tah a pøevzít moc nad Reddingem døív, ne to udìlají ostatní. A k tomu dojde, poteèe krev. Hodnì krve.}
+{180}{}{Zase ty penÃ­ze. Hmm. No nic, uÅ¾ musÃ­m jÃ­t. Sbohem.}
+{181}{}{ÃšplatkÅ¯ pro tuhle brahmÃ­nu ubÃ½vÃ¡. Zanedlouho bude muset jedna z mocnostÃ­ udÄ›lat rozhodujÃ­cÃ­ tah a pÅ™evzÃ­t moc nad Reddingem dÅ™Ã­v, neÅ¾ to udÄ›lajÃ­ ostatnÃ­. AÅ¾ k tomu dojde, poteÄe krev. HodnÄ› krve.}
 {182}{}{Kdo koho podporuje?}
-{183}{}{Proè myslíš, e poteèe krev?}
-{184}{}{Díky za informace. Sbohem.}
-{185}{}{Nejsem si stoprocentnì jistá, ale mìlo by to bıt asi nìjak takhle: Dan McGrew je pro New Reno, Marge LeBarge je pro NCR, doktor Johnson je pro Vault City a pro koho je starosta Ascorti, to zatím nevím.}
-{186}{}{Jak mùou tihle lidé ovlivnit pøevrat?}
+{183}{}{ProÄ myslÃ­Å¡, Å¾e poteÄe krev?}
+{184}{}{DÃ­ky za informace. Sbohem.}
+{185}{}{Nejsem si stoprocentnÄ› jistÃ¡, ale mÄ›lo by to bÃ½t asi nÄ›jak takhle: Dan McGrew je pro New Reno, Marge LeBarge je pro NCR, doktor Johnson je pro Vault City a pro koho je starosta Ascorti, to zatÃ­m nevÃ­m.}
+{186}{}{Jak mÅ¯Å¾ou tihle lidÃ© ovlivnit pÅ™evrat?}
 {187}{}{Kdo je Marge LeBarge?}
 {188}{}{Kdo je Dan McGrew?}
 {189}{}{Kdo je doktor Johnson?}
 {190}{}{Kdo je starosta Ascorti?}
-{191}{}{Díky za informace. Sbohem.}
-{192}{}{Poteèe krev, protoe takovı druh zmìny není jen tak. Ti, kdo jsou pøesvìdèeni, e mají na nìco oprávnìnı nárok, to tìm druhım bez boje nedají. Jedinım zpùsobem, jak tomu zabránit, je pøidat se k jedné z tìch mocností a vytvoøit s nimi alianci døív, ne si to ostatní uvìdomí.}
-{193}{}{Co myslíš, e se stane?}
-{194}{}{Aha. Díky. Sbohem.}
-{195}{}{Podle mì budou místní lidé následovat starostu Ascortiho. Je to sice podvodník, ale lidé mu dùvìøují. Bude podporovat toho nejsilnìjšího. Víš, cokoliv je dobré pro Ascortiho, bude dobré i pro Redding. Myslím, e zatím jen nepøišel na to, kdo je nejsilnìjší. Brzy si bude muset vybrat.}
-{196}{}{Chci se ještì na nìco zeptat.}
-{197}{}{Díky, e jsi mi vysvìtlila, co se dìje ve mìstì. Sbohem.}
-{198}{}{Marge LeBarge je majitelka dolu Kokoweef. Spolu s dolem Morningstar je to jedinı fungující dùl v Reddingu. Podle mì je Marge tak trochu NCR typ. Myslím, e nemá ráda jejich prudérnost, ale vdy ocení moc.}
+{191}{}{DÃ­ky za informace. Sbohem.}
+{192}{}{PoteÄe krev, protoÅ¾e takovÃ½ druh zmÄ›ny nenÃ­ jen tak. Ti, kdo jsou pÅ™esvÄ›dÄeni, Å¾e majÃ­ na nÄ›co oprÃ¡vnÄ›nÃ½ nÃ¡rok, to tÄ›m druhÃ½m bez boje nedajÃ­. JedinÃ½m zpÅ¯sobem, jak tomu zabrÃ¡nit, je pÅ™idat se k jednÃ© z tÄ›ch mocnostÃ­ a vytvoÅ™it s nimi alianci dÅ™Ã­v, neÅ¾ si to ostatnÃ­ uvÄ›domÃ­.}
+{193}{}{Co myslÃ­Å¡, Å¾e se stane?}
+{194}{}{Aha. DÃ­ky. Sbohem.}
+{195}{}{Podle mÄ› budou mÃ­stnÃ­ lidÃ© nÃ¡sledovat starostu Ascortiho. Je to sice podvodnÃ­k, ale lidÃ© mu dÅ¯vÄ›Å™ujÃ­. Bude podporovat toho nejsilnÄ›jÅ¡Ã­ho. VÃ­Å¡, cokoliv je dobrÃ© pro Ascortiho, bude dobrÃ© i pro Redding. MyslÃ­m, Å¾e zatÃ­m jen nepÅ™iÅ¡el na to, kdo je nejsilnÄ›jÅ¡Ã­. Brzy si bude muset vybrat.}
+{196}{}{Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{197}{}{DÃ­ky, Å¾e jsi mi vysvÄ›tlila, co se dÄ›je ve mÄ›stÄ›. Sbohem.}
+{198}{}{Marge LeBarge je majitelka dolu Kokoweef. Spolu s dolem Morningstar je to jedinÃ½ fungujÃ­cÃ­ dÅ¯l v Reddingu. Podle mÄ› je Marge tak trochu NCR typ. MyslÃ­m, Å¾e nemÃ¡ rÃ¡da jejich prudÃ©rnost, ale vÅ¾dy ocenÃ­ moc.}
 {199}{}{Kdo je Dan McGrew?}
 {200}{}{Kdo je doktor Johnson?}
 {201}{}{Kdo je starosta Ascorti?}
-{202}{}{Jak mùou tihle lidé ovlivnit pøevrat?}
-{203}{}{Díky za informace. Sbohem.}
-{204}{}{Nebezpeènı Dan McGrew. Je majitelem dolu Morningstar. Spolu s dolem Kokoweef je to jedinı fungující dùl v Reddingu. Kdybych mìla hádat, tak si myslím, e se Dan pøiklání spíš k New Renu. Rád vidí své horníky zfetované a šastné.}
+{202}{}{Jak mÅ¯Å¾ou tihle lidÃ© ovlivnit pÅ™evrat?}
+{203}{}{DÃ­ky za informace. Sbohem.}
+{204}{}{NebezpeÄnÃ½ Dan McGrew. Je majitelem dolu Morningstar. Spolu s dolem Kokoweef je to jedinÃ½ fungujÃ­cÃ­ dÅ¯l v Reddingu. Kdybych mÄ›la hÃ¡dat, tak si myslÃ­m, Å¾e se Dan pÅ™iklÃ¡nÃ­ spÃ­Å¡ k New Renu. RÃ¡d vidÃ­ svÃ© hornÃ­ky zfetovanÃ© a Å¡Å¥astnÃ©.}
 {205}{}{Kdo je Marge LeBarge?}
 {206}{}{Kdo je doktor Johnson?}
 {207}{}{Kdo je starosta Ascorti?}
-{208}{}{Jak mùou tihle lidé ovlivnit pøevrat?}
-{209}{}{Díky za informace. Sbohem.}
-{210}{}{Ascorti je starosta a majitelem Ascortiho Esa v Centru. Stará se o prodej a nákup spousty rùznıch vìcí. Je souèástí veškerého dìní ve mìstì.}
-{211}{}{Ascorti je starostou Reddingu. Ale upøímnì nevím, kde je. U jsem ho docela dlouho nevidìla.}
-{212}{}{Chci se ještì na nìco zeptat.}
-{213}{}{U to nebudu poslouchat. Sbohem.}
-{214}{}{Jet je úasná droga, díky které mùu na chvíli zapomenout na svùj ubohı ivot, drahoušku.}
-{215}{}{Chci se ještì na nìco zeptat.}
-{216}{}{Zajímavé. Díky a sbohem.}
-{217}{}{Jet je droga, díky které se cítím opravdu naivu. Jsem na nìm opravdu závislá.}
-{218}{}{Chci se ještì na nìco zeptat.}
-{219}{}{Zajímavé. Díky a sbohem.}
-{220}{}{Mmmm, já ti povím, co je to Jet. Je to lahùdka. Pro kadého má nìco.}
-{221}{}{Chci se ještì na nìco zeptat.}
-{222}{}{Zajímavé. Díky a sbohem.}
-{223}{}{Jet kdysi stál za to, ale teï se mi z nìj obrací aludek jako buben opotøebované praèky. Souèasnou dávku bych nedoporuèila. Tomuhle Jetu u došlo palivo a zøítilo se, drahoušku.}
-{224}{}{Aha, promiò. Chci se ještì na nìco zeptat.}
-{225}{}{Zajímavé. Díky a sbohem.}
-{226}{}{V poslední dodávce Jetu bylo nìco strašnì zkaeného. Zøítil se a shoøel pøi startu. Myslím, e u konèím s létáním. No ale na pití se dá vdycky spolehnout.}
-{227}{}{Chci se ještì na nìco zeptat.}
-{228}{}{Zajímavé. Díky a sbohem.}
-{229}{}{Doktor Johnson, alias "bezbolestnı", je tak trochu tajemnı mu. Nevím, odkud pøišel, ale je to opravdovı MUDr. Takové vzdìlání se dá získat jedinì ve Vault City. Vsadím se, e ho sem vyslali, aby prohloubil jejich zájmy. Urèitì ten úkol dostal, protoe tam nìkoho pìknì nasral, jeliko obèané Vault City nemají moc rádi okolní svìt.}
+{208}{}{Jak mÅ¯Å¾ou tihle lidÃ© ovlivnit pÅ™evrat?}
+{209}{}{DÃ­ky za informace. Sbohem.}
+{210}{}{Ascorti je starosta a majitelem Ascortiho Esa v Centru. StarÃ¡ se o prodej a nÃ¡kup spousty rÅ¯znÃ½ch vÄ›cÃ­. Je souÄÃ¡stÃ­ veÅ¡kerÃ©ho dÄ›nÃ­ ve mÄ›stÄ›.}
+{211}{}{Ascorti je starostou Reddingu. Ale upÅ™Ã­mnÄ› nevÃ­m, kde je. UÅ¾ jsem ho docela dlouho nevidÄ›la.}
+{212}{}{Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{213}{}{UÅ¾ to nebudu poslouchat. Sbohem.}
+{214}{}{Jet je ÃºÅ¾asnÃ¡ droga, dÃ­ky kterÃ© mÅ¯Å¾u na chvÃ­li zapomenout na svÅ¯j ubohÃ½ Å¾ivot, drahouÅ¡ku.}
+{215}{}{Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{216}{}{ZajÃ­mavÃ©. DÃ­ky a sbohem.}
+{217}{}{Jet je droga, dÃ­ky kterÃ© se cÃ­tÃ­m opravdu naÅ¾ivu. Jsem na nÄ›m opravdu zÃ¡vislÃ¡.}
+{218}{}{Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{219}{}{ZajÃ­mavÃ©. DÃ­ky a sbohem.}
+{220}{}{Mmmm, jÃ¡ ti povÃ­m, co je to Jet. Je to lahÅ¯dka. Pro kaÅ¾dÃ©ho mÃ¡ nÄ›co.}
+{221}{}{Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{222}{}{ZajÃ­mavÃ©. DÃ­ky a sbohem.}
+{223}{}{Jet kdysi stÃ¡l za to, ale teÄ se mi z nÄ›j obracÃ­ Å¾aludek jako buben opotÅ™ebovanÃ© praÄky. SouÄasnou dÃ¡vku bych nedoporuÄila. Tomuhle Jetu uÅ¾ doÅ¡lo palivo a zÅ™Ã­tilo se, drahouÅ¡ku.}
+{224}{}{Aha, promiÅˆ. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{225}{}{ZajÃ­mavÃ©. DÃ­ky a sbohem.}
+{226}{}{V poslednÃ­ dodÃ¡vce Jetu bylo nÄ›co straÅ¡nÄ› zkaÅ¾enÃ©ho. ZÅ™Ã­til se a shoÅ™el pÅ™i startu. MyslÃ­m, Å¾e uÅ¾ konÄÃ­m s lÃ©tÃ¡nÃ­m. No ale na pitÃ­ se dÃ¡ vÅ¾dycky spolehnout.}
+{227}{}{Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{228}{}{ZajÃ­mavÃ©. DÃ­ky a sbohem.}
+{229}{}{Doktor Johnson, alias "bezbolestnÃ½", je tak trochu tajemnÃ½ muÅ¾. NevÃ­m, odkud pÅ™iÅ¡el, ale je to opravdovÃ½ MUDr. TakovÃ© vzdÄ›lÃ¡nÃ­ se dÃ¡ zÃ­skat jedinÄ› ve Vault City. VsadÃ­m se, Å¾e ho sem vyslali, aby prohloubil jejich zÃ¡jmy. UrÄitÄ› ten Ãºkol dostal, protoÅ¾e tam nÄ›koho pÄ›knÄ› nasral, jelikoÅ¾ obÄanÃ© Vault City nemajÃ­ moc rÃ¡di okolnÃ­ svÄ›t.}
 {230}{}{Kdo je Marge LeBarge?}
 {231}{}{Kdo je Dan McGrew?}
 {232}{}{Kdo je starosta Ascorti?}
-{233}{}{Jak mùou tihle lidé ovlivnit pøevrat?}
-{234}{}{Díky za informace. Sbohem.}
-{235}{}{Ascorti je mu, kterı ví, jak hrát na obì strany, zatímco se sám plíí støedem. Není sice bezchybnı, ale vìtšinou dìlá to, co je v zájmu Reddingu i jeho vlastní kapsy.}
+{233}{}{Jak mÅ¯Å¾ou tihle lidÃ© ovlivnit pÅ™evrat?}
+{234}{}{DÃ­ky za informace. Sbohem.}
+{235}{}{Ascorti je muÅ¾, kterÃ½ vÃ­, jak hrÃ¡t na obÄ› strany, zatÃ­mco se sÃ¡m plÃ­Å¾Ã­ stÅ™edem. NenÃ­ sice bezchybnÃ½, ale vÄ›tÅ¡inou dÄ›lÃ¡ to, co je v zÃ¡jmu Reddingu i jeho vlastnÃ­ kapsy.}
 {236}{}{Kdo je Marge LeBarge?}
 {237}{}{Kdo je Dan McGrew?}
 {238}{}{Kdo je doktor Johnson?}
-{239}{}{Jak mùou tihle lidé ovlivnit pøevrat?}
-{240}{}{Díky za informace. Sbohem.}
+{239}{}{Jak mÅ¯Å¾ou tihle lidÃ© ovlivnit pÅ™evrat?}
+{240}{}{DÃ­ky za informace. Sbohem.}

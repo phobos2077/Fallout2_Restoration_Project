@@ -1,11 +1,11 @@
-{100}{}{Poèítaèovı terminál zobrazující nejrùznìjší data.}
-{101}{}{Vidíš terminál. }
-{102}{}{Poèítaèovı terminál zobrazující nejrùznìjší data.}
-{103}{}{Vidíš øídící poèítaè Vault City.}
-{104}{}{Vidíš terminál.}
-{105}{}{Vidíš øídící poèítaè Vault City.}
-{106}{}{Poèítaè, kterı si pøímo øíká o pøipojení Pip-Boye.}
+{100}{}{PoÄÃ­taÄovÃ½ terminÃ¡l zobrazujÃ­cÃ­ nejrÅ¯znÄ›jÅ¡Ã­ data.}
+{101}{}{VidÃ­Å¡ terminÃ¡l. }
+{102}{}{PoÄÃ­taÄovÃ½ terminÃ¡l zobrazujÃ­cÃ­ nejrÅ¯znÄ›jÅ¡Ã­ data.}
+{103}{}{VidÃ­Å¡ Å™Ã­dÃ­cÃ­ poÄÃ­taÄ Vault City.}
+{104}{}{VidÃ­Å¡ terminÃ¡l.}
+{105}{}{VidÃ­Å¡ Å™Ã­dÃ­cÃ­ poÄÃ­taÄ Vault City.}
+{106}{}{PoÄÃ­taÄ, kterÃ½ si pÅ™Ã­mo Å™Ã­kÃ¡ o pÅ™ipojenÃ­ Pip-Boye.}
 {107}{}{Nic se nestalo.}
-{108}{}{S pomocí informací ve svém Pip-Boyi zpøístupòuješ poèítaè.}
-{109}{}{Páni.}
-{110}{}{Získáváš TUNY novıch informací o Falloutu 2.}
+{108}{}{S pomocÃ­ informacÃ­ ve svÃ©m Pip-Boyi zpÅ™Ã­stupÅˆujeÅ¡ poÄÃ­taÄ.}
+{109}{}{PÃ¡ni.}
+{110}{}{ZÃ­skÃ¡vÃ¡Å¡ TUNY novÃ½ch informacÃ­ o Falloutu 2.}

@@ -1,6 +1,6 @@
-{100}{}{Vidíš motorovı èlun.}
-{200}{}{Proplííš se do èlunu, kdy se stráce dívá jinam a skryješ se mu z dohledu. Okolo pùlnoci uslyšíš hlasy v dálce a cítíš, jak se dá èlun do pohybu.}
-{201}{}{Poté, co øekneš svım spoleèníkùm aby èekali, se proplííš do èlunu, kdy se stráce dívá jinam a skryješ se mu z dohledu. Okolo pùlnoci uslyšíš hlasy v dálce a cítíš, jak se dá èlun do pohybu.}
-{210}{}{Moná by bylo dobré tuhle vìc pøed odplutím zneškodnit.}
-{220}{}{Je pøíliš riskantní to zkusit znovu.}
-{221}{}{Nevím kam plout.}
+{100}{}{VidÃ­Å¡ motorovÃ½ Älun.}
+{200}{}{ProplÃ­Å¾Ã­Å¡ se do Älunu, kdyÅ¾ se strÃ¡Å¾ce dÃ­vÃ¡ jinam a skryjeÅ¡ se mu z dohledu. Okolo pÅ¯lnoci uslyÅ¡Ã­Å¡ hlasy v dÃ¡lce a cÃ­tÃ­Å¡, jak se dÃ¡ Älun do pohybu.}
+{201}{}{PotÃ©, co Å™ekneÅ¡ svÃ½m spoleÄnÃ­kÅ¯m aby Äekali, se proplÃ­Å¾Ã­Å¡ do Älunu, kdyÅ¾ se strÃ¡Å¾ce dÃ­vÃ¡ jinam a skryjeÅ¡ se mu z dohledu. Okolo pÅ¯lnoci uslyÅ¡Ã­Å¡ hlasy v dÃ¡lce a cÃ­tÃ­Å¡, jak se dÃ¡ Älun do pohybu.}
+{210}{}{MoÅ¾nÃ¡ by bylo dobrÃ© tuhle vÄ›c pÅ™ed odplutÃ­m zneÅ¡kodnit.}
+{220}{}{Je pÅ™Ã­liÅ¡ riskantnÃ­ to zkusit znovu.}
+{221}{}{NevÃ­m kam plout.}

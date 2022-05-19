@@ -1,40 +1,40 @@
-{100}{}{Pes. Vypadá jako kólie.}
-{101}{}{Vidíš Laddie.}
-{102}{}{Tenhle pes se zdá bıt opravdu inteligentní a ostraitı.}
-{103}{}{Nepochybnì je tento pes urèitì chytøejší ne ty.}
+{100}{}{Pes. VypadÃ¡ jako kÃ³lie.}
+{101}{}{VidÃ­Å¡ Laddie.}
+{102}{}{Tenhle pes se zdÃ¡ bÃ½t opravdu inteligentnÃ­ a ostraÅ¾itÃ½.}
+{103}{}{NepochybnÄ› je tento pes urÄitÄ› chytÅ™ejÅ¡Ã­ neÅ¾ ty.}
 {150}{}{Haf!}
 {151}{}{HAF! HAF!}
 {152}{}{HAF! HAF! HAF!}
-{153}{}{(Tento pes je opravdu rozrušenı.)}
-{154}{}{Hezkı pejsek.}
-{155}{}{Nevíš, kde je Jonny?}
+{153}{}{(Tento pes je opravdu rozruÅ¡enÃ½.)}
+{154}{}{HezkÃ½ pejsek.}
+{155}{}{NevÃ­Å¡, kde je Jonny?}
 {156}{}{Stay here, Laddie.}
-{157}{}{Pojïme najít Jonnyho.}
-{158}{}{Myslíš, e se Jonny propadl do té studny, Laddie?}
-{159}{}{Copak pejsku, snaíš se mi nìco øíct?}
-{160}{}{Vrrrr! (Laddie tì ošklivì kousne.)}
-{161}{}{(Hmm... z nìjakého dùvodu tì nemá rád.)}
-{162}{}{HAF! HAF! HAF! (Laddie na tebe skáèe a líe tvoji tváø.)}
-{163}{}{(Hodnı pejsek.)}
-{164}{}{HAF? (Skoro jako kdyby se ti ten pes smál.)}
-{165}{}{(Nikdo nemá rád chytráky.)}
-{167}{}{Je Jonny nìkde poblí Modocu?}
-{168}{}{Odešel Jonny z Modocu?}
-{169}{}{Unesli Jonnyho vetøelci?}
-{170}{}{Teï si nemùeme hrát, Laddie. Nejdøív musíme najít Jonnyho. Pojï.}
-{171}{}{Blízko jatek?}
-{172}{}{Blízko koeluny?}
-{173}{}{Blízko trištì?}
-{174}{}{Blízko studny?}
-{175}{}{Moná ještì nìkde jinde?}
-{177}{}{Blízko Rózina penziónu?}
-{180}{}{Šel na sever?}
-{181}{}{Šel na jih?}
-{182}{}{Šel na vıchod?}
-{183}{}{Šel na západ?}
+{157}{}{PojÄme najÃ­t Jonnyho.}
+{158}{}{MyslÃ­Å¡, Å¾e se Jonny propadl do tÃ© studny, Laddie?}
+{159}{}{Copak pejsku, snaÅ¾Ã­Å¡ se mi nÄ›co Å™Ã­ct?}
+{160}{}{Vrrrr! (Laddie tÄ› oÅ¡klivÄ› kousne.)}
+{161}{}{(Hmm... z nÄ›jakÃ©ho dÅ¯vodu tÄ› nemÃ¡ rÃ¡d.)}
+{162}{}{HAF! HAF! HAF! (Laddie na tebe skÃ¡Äe a lÃ­Å¾e tvoji tvÃ¡Å™.)}
+{163}{}{(HodnÃ½ pejsek.)}
+{164}{}{HAF? (Skoro jako kdyby se ti ten pes smÃ¡l.)}
+{165}{}{(Nikdo nemÃ¡ rÃ¡d chytrÃ¡ky.)}
+{167}{}{Je Jonny nÄ›kde poblÃ­Å¾ Modocu?}
+{168}{}{OdeÅ¡el Jonny z Modocu?}
+{169}{}{Unesli Jonnyho vetÅ™elci?}
+{170}{}{TeÄ si nemÅ¯Å¾eme hrÃ¡t, Laddie. NejdÅ™Ã­v musÃ­me najÃ­t Jonnyho. PojÄ.}
+{171}{}{BlÃ­zko jatek?}
+{172}{}{BlÃ­zko koÅ¾eluÅ¾ny?}
+{173}{}{BlÃ­zko trÅ¾iÅ¡tÄ›?}
+{174}{}{BlÃ­zko studny?}
+{175}{}{MoÅ¾nÃ¡ jeÅ¡tÄ› nÄ›kde jinde?}
+{177}{}{BlÃ­zko RÃ³zina penziÃ³nu?}
+{180}{}{Å el na sever?}
+{181}{}{Å el na jih?}
+{182}{}{Å el na vÃ½chod?}
+{183}{}{Å el na zÃ¡pad?}
 {186}{}{HAF?}
-{187}{}{Dobøe, dobøe...  moná nìkde jinde?}
-{190}{}{Hrál si na kovboje a indiány a pøitom náhodou spadl do studny a ty po mnì chceš, abych sehnal lano a spustil se dolù pro nìj. Dobøe, tak pojï, Laddie. (Úasné!)}
-{191}{}{Hrál si na kovboje a indiány a pøitom náhodou spadl do studny a ty po mnì chceš, abych pouil lano a spustil se dolù pro nìj. Dobøe, tak pojï, Laddie. (Úasné!)}
-{195}{}{Dobøe, seenu lano a slezu dolù pro Jonnyho.}
-{196}{}{Dobøe, pouiju svoje lano a slezu dolù pro Jonnyho.}
+{187}{}{DobÅ™e, dobÅ™e...  moÅ¾nÃ¡ nÄ›kde jinde?}
+{190}{}{HrÃ¡l si na kovboje a indiÃ¡ny a pÅ™itom nÃ¡hodou spadl do studny a ty po mnÄ› chceÅ¡, abych sehnal lano a spustil se dolÅ¯ pro nÄ›j. DobÅ™e, tak pojÄ, Laddie. (ÃšÅ¾asnÃ©!)}
+{191}{}{HrÃ¡l si na kovboje a indiÃ¡ny a pÅ™itom nÃ¡hodou spadl do studny a ty po mnÄ› chceÅ¡, abych pouÅ¾il lano a spustil se dolÅ¯ pro nÄ›j. DobÅ™e, tak pojÄ, Laddie. (ÃšÅ¾asnÃ©!)}
+{195}{}{DobÅ™e, seÅ¾enu lano a slezu dolÅ¯ pro Jonnyho.}
+{196}{}{DobÅ™e, pouÅ¾iju svoje lano a slezu dolÅ¯ pro Jonnyho.}

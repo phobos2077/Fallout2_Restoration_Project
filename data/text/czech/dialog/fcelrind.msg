@@ -1,68 +1,68 @@
-{100}{}{Vidíš osobu v rouchu.}
-{101}{}{Je to další Hubologista v rouchu.}
-{102}{}{Zdá se, e je to osoba obleèená v rouchu.}
-{103}{}{Kdo jsi? Co tady dìláš?}
-{104}{}{Tady nemáš co dìlat.}
-{105}{}{Podívejte! Špinavec!}
-{106}{}{Hej! Kdo nechal toho špinavce projít?}
-{107}{}{Nemìl by ses tu potulovat bez doprovodu.}
-{108}{}{Áááá! Nech moje neurodyny na pokoji!}
-{109}{}{Jdi pryè, nevìøící!}
-{110}{}{Nemluv na mì. Jsem zaneprázdnìnı èlovìk.}
-{111}{}{Hej! Vymíláš mé neurodyny!}
-{112}{}{Moná bych tì mìl radìji, kdyby ses srovnal.}
-{113}{}{Hvìzdnı Otec tì bude milovat, kdy mu to dovolíš.}
-{114}{}{Copak nechceš vidìt Quetzel? Pøidej se k nám!}
-{115}{}{Jdi si promluvit s AHS-7 a pøidej se k nám!}
-{116}{}{Máme mezi Hubologisty i celebrity, víš.}
-{117}{}{Juan Cruz a Vikki Goldmanová jsou slavní! Proto jsem se pøidal.}
-{118}{}{Vsadím se, e si s tebou celebrity klidnì popovídají, kdy se budeš chovat slušnì.}
+{100}{}{VidÃ­Å¡ osobu v rouchu.}
+{101}{}{Je to dalÅ¡Ã­ Hubologista v rouchu.}
+{102}{}{ZdÃ¡ se, Å¾e je to osoba obleÄenÃ¡ v rouchu.}
+{103}{}{Kdo jsi? Co tady dÄ›lÃ¡Å¡?}
+{104}{}{Tady nemÃ¡Å¡ co dÄ›lat.}
+{105}{}{PodÃ­vejte! Å pinavec!}
+{106}{}{Hej! Kdo nechal toho Å¡pinavce projÃ­t?}
+{107}{}{NemÄ›l by ses tu potulovat bez doprovodu.}
+{108}{}{ÃÃ¡Ã¡Ã¡! Nech moje neurodyny na pokoji!}
+{109}{}{Jdi pryÄ, nevÄ›Å™Ã­cÃ­!}
+{110}{}{Nemluv na mÄ›. Jsem zaneprÃ¡zdnÄ›nÃ½ ÄlovÄ›k.}
+{111}{}{Hej! VymÃ­lÃ¡Å¡ mÃ© neurodyny!}
+{112}{}{MoÅ¾nÃ¡ bych tÄ› mÄ›l radÄ›ji, kdyby ses srovnal.}
+{113}{}{HvÄ›zdnÃ½ Otec tÄ› bude milovat, kdyÅ¾ mu to dovolÃ­Å¡.}
+{114}{}{Copak nechceÅ¡ vidÄ›t Quetzel? PÅ™idej se k nÃ¡m!}
+{115}{}{Jdi si promluvit s AHS-7 a pÅ™idej se k nÃ¡m!}
+{116}{}{MÃ¡me mezi Hubologisty i celebrity, vÃ­Å¡.}
+{117}{}{Juan Cruz a Vikki GoldmanovÃ¡ jsou slavnÃ­! Proto jsem se pÅ™idal.}
+{118}{}{VsadÃ­m se, Å¾e si s tebou celebrity klidnÄ› popovÃ­dajÃ­, kdyÅ¾ se budeÅ¡ chovat sluÅ¡nÄ›.}
 {119}{}{Miluji Hub.}
-{120}{}{Jsem rád, e jsem Hubologista.}
-{121}{}{Chci zaèít vyuívat svùj potenciál.}
-{122}{}{Abych øekl pravdu, poøád se uèím tu hatmatilku.}
-{123}{}{Sláva Hubu!}
-{124}{}{Sláva Velkému Kruhu!}
-{125}{}{Poletíme ke Quetzelu!}
-{126}{}{Tìším se na cestu domù ke hvìzdám.}
-{127}{}{Prosím, neobtìuj mì. Soustøeïuji své neurodyny.}
-{128}{}{Prosím, nepomíchej mi mé neurodyny.}
-{138}{}{Ale ne! Pronásledovatel!}
-{139}{}{Neosvícenı!}
-{140}{}{Dr se dál od mne, zlé maso!}
-{141}{}{Oèividnì máš nìjaké zlé neurodyny!}
-{142}{}{Ne! Neposkvrò mì svou nenávistí!}
-{143}{}{Stráe! Stráe! Barbar je tady!}
-{144}{}{Nedotıkej se mì!}
-{145}{}{Pomoc! Stráe!}
-{146}{}{Nepøítel našeho lidu!}
-{147}{}{Èerné èasy jsou zase pøed námi!}
-{148}{}{Hvìzdnı Otèe! Ušetøi mì pohany!}
-{149}{}{Za svoji zradu dostaneš co proto!}
+{120}{}{Jsem rÃ¡d, Å¾e jsem Hubologista.}
+{121}{}{Chci zaÄÃ­t vyuÅ¾Ã­vat svÅ¯j potenciÃ¡l.}
+{122}{}{Abych Å™ekl pravdu, poÅ™Ã¡d se uÄÃ­m tu hatmatilku.}
+{123}{}{SlÃ¡va Hubu!}
+{124}{}{SlÃ¡va VelkÃ©mu Kruhu!}
+{125}{}{PoletÃ­me ke Quetzelu!}
+{126}{}{TÄ›Å¡Ã­m se na cestu domÅ¯ ke hvÄ›zdÃ¡m.}
+{127}{}{ProsÃ­m, neobtÄ›Å¾uj mÄ›. SoustÅ™eÄuji svÃ© neurodyny.}
+{128}{}{ProsÃ­m, nepomÃ­chej mi mÃ© neurodyny.}
+{138}{}{Ale ne! PronÃ¡sledovatel!}
+{139}{}{NeosvÃ­cenÃ½!}
+{140}{}{DrÅ¾ se dÃ¡l od mne, zlÃ© maso!}
+{141}{}{OÄividnÄ› mÃ¡Å¡ nÄ›jakÃ© zlÃ© neurodyny!}
+{142}{}{Ne! NeposkvrÅˆ mÄ› svou nenÃ¡vistÃ­!}
+{143}{}{StrÃ¡Å¾e! StrÃ¡Å¾e! Barbar je tady!}
+{144}{}{NedotÃ½kej se mÄ›!}
+{145}{}{Pomoc! StrÃ¡Å¾e!}
+{146}{}{NepÅ™Ã­tel naÅ¡eho lidu!}
+{147}{}{ÄŒernÃ© Äasy jsou zase pÅ™ed nÃ¡mi!}
+{148}{}{HvÄ›zdnÃ½ OtÄe! UÅ¡etÅ™i mÄ› pohany!}
+{149}{}{Za svoji zradu dostaneÅ¡ co proto!}
 {150}{}{Miluji Hub.}
-{151}{}{Jsem rád, e jsem Hubologista.}
-{152}{}{Chci zaèít vyuívat svùj potenciál.}
-{153}{}{Abych øekl pravdu, poøád se uèím tu hatmatilku.}
-{154}{}{Sláva Hubu!}
-{155}{}{Sláva Velkému Kruhu!}
-{156}{}{Poletíme ke Quetzelu!}
-{157}{}{Tìším se na cestu domù ke hvìzdám.}
-{158}{}{Jsem zpùsobilı ke srovnání.}
-{159}{}{Èekám, abych si zase poslechl AHS-9!}
-{160}{}{Doufám, e jsou mé neurodyny v poøádku.}
-{161}{}{Chci bıt povıšen na AHS!}
-{162}{}{Je èas se soustøedit na svùj vlastní rùst.}
-{163}{}{"Skuteèná" vìda je jenom snùško lí.}
-{164}{}{Neposlouchej to, co ti "vìdci" øeknou.}
-{165}{}{Jenom Hub a AHS-9 mají odpovìï.}
-{178}{}{Chvála Hvìzdnému Otci! Koneènì poletíme ke hvìzdám!}
-{179}{}{Planeto Quetzel, u letíme!}
-{180}{}{Všechna ta døina se nakonec vyplatila!}
-{181}{}{Mé neurodyny jsou nyní naprosto uvolnìné!}
-{182}{}{Radìji se srovnám pøed tím, ne odstartujeme.}
-{183}{}{Ach! Hvìzdnı Otèe! Hvìzdnı Otèe!}
-{184}{}{Jsem celı nedoèkavı na to, a vzlétneme!}
-{185}{}{Kdy odlétáme?}
-{186}{}{Vsadím se, e vysoce postavení AHS nejsou takhle nervózní.}
-{187}{}{Páni... hvìzdy. Koneènì.}
-{188}{}{Koneènì u nebudu muset nosit staniolovou èepici!}
+{151}{}{Jsem rÃ¡d, Å¾e jsem Hubologista.}
+{152}{}{Chci zaÄÃ­t vyuÅ¾Ã­vat svÅ¯j potenciÃ¡l.}
+{153}{}{Abych Å™ekl pravdu, poÅ™Ã¡d se uÄÃ­m tu hatmatilku.}
+{154}{}{SlÃ¡va Hubu!}
+{155}{}{SlÃ¡va VelkÃ©mu Kruhu!}
+{156}{}{PoletÃ­me ke Quetzelu!}
+{157}{}{TÄ›Å¡Ã­m se na cestu domÅ¯ ke hvÄ›zdÃ¡m.}
+{158}{}{Jsem zpÅ¯sobilÃ½ ke srovnÃ¡nÃ­.}
+{159}{}{ÄŒekÃ¡m, abych si zase poslechl AHS-9!}
+{160}{}{DoufÃ¡m, Å¾e jsou mÃ© neurodyny v poÅ™Ã¡dku.}
+{161}{}{Chci bÃ½t povÃ½Å¡en na AHS!}
+{162}{}{Je Äas se soustÅ™edit na svÅ¯j vlastnÃ­ rÅ¯st.}
+{163}{}{"SkuteÄnÃ¡" vÄ›da je jenom snÅ¯Å¡ko lÅ¾Ã­.}
+{164}{}{Neposlouchej to, co ti "vÄ›dci" Å™eknou.}
+{165}{}{Jenom Hub a AHS-9 majÃ­ odpovÄ›Ä.}
+{178}{}{ChvÃ¡la HvÄ›zdnÃ©mu Otci! KoneÄnÄ› poletÃ­me ke hvÄ›zdÃ¡m!}
+{179}{}{Planeto Quetzel, uÅ¾ letÃ­me!}
+{180}{}{VÅ¡echna ta dÅ™ina se nakonec vyplatila!}
+{181}{}{MÃ© neurodyny jsou nynÃ­ naprosto uvolnÄ›nÃ©!}
+{182}{}{RadÄ›ji se srovnÃ¡m pÅ™ed tÃ­m, neÅ¾ odstartujeme.}
+{183}{}{Ach! HvÄ›zdnÃ½ OtÄe! HvÄ›zdnÃ½ OtÄe!}
+{184}{}{Jsem celÃ½ nedoÄkavÃ½ na to, aÅ¾ vzlÃ©tneme!}
+{185}{}{Kdy odlÃ©tÃ¡me?}
+{186}{}{VsadÃ­m se, Å¾e vysoce postavenÃ­ AHS nejsou takhle nervÃ³znÃ­.}
+{187}{}{PÃ¡ni... hvÄ›zdy. KoneÄnÄ›.}
+{188}{}{KoneÄnÄ› uÅ¾ nebudu muset nosit staniolovou Äepici!}

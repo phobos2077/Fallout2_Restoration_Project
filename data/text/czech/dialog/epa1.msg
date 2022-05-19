@@ -1,1 +1,1 @@
-{100}{}{Objevuješ oplocenou základnu, která byla zjevnì pøed pár lety opuštìna. Její zchátralé prostory jsou nyní zamoøeny masoravımi rostlinami.}
+{100}{}{ObjevujeÅ¡ oplocenou zÃ¡kladnu, kterÃ¡ byla zjevnÄ› pÅ™ed pÃ¡r lety opuÅ¡tÄ›na. JejÃ­ zchÃ¡tralÃ© prostory jsou nynÃ­ zamoÅ™eny masoÅ¾ravÃ½mi rostlinami.}

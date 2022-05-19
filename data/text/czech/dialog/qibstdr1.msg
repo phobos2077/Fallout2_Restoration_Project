@@ -1,4 +1,4 @@
-{100}{}{Na tìchto dveøích není vidìt ádnı zamykací mechanismus.}
-{101}{}{Nevypadá to, e by se tyto dveøe daly otevøít bìnımi vıbušninami.}
-{102}{}{Vidíš robustní, vıbuchu odolné dveøe. Dveøe jsou pevnì zapuštìny do podlahy a stropu.}
-{103}{}{Nenapadá tì ádnı zpùsob jak tyto dveøe otevøít.}
+{100}{}{Na tÄ›chto dveÅ™Ã­ch nenÃ­ vidÄ›t Å¾Ã¡dnÃ½ zamykacÃ­ mechanismus.}
+{101}{}{NevypadÃ¡ to, Å¾e by se tyto dveÅ™e daly otevÅ™Ã­t bÄ›Å¾nÃ½mi vÃ½buÅ¡ninami.}
+{102}{}{VidÃ­Å¡ robustnÃ­, vÃ½buchu odolnÃ© dveÅ™e. DveÅ™e jsou pevnÄ› zapuÅ¡tÄ›ny do podlahy a stropu.}
+{103}{}{NenapadÃ¡ tÄ› Å¾Ã¡dnÃ½ zpÅ¯sob jak tyto dveÅ™e otevÅ™Ã­t.}

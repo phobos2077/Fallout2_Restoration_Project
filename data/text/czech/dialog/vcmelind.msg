@@ -1,44 +1,44 @@
-{100}{}{Vidíš velmi napjatou enu. Vypadá, jako by u léta neodpoèívala.}
-{101}{}{Vidíš Melindu, šéfku Uvítací kanceláøe.}
-{102}{}{Zdravím. Ještì jsem vás tu nikdy pøedtím nevidìla. Vítejte ve Vault City. Mùu vám s nìèím pomoct?}
-{103}{}{Ano, mùu vám ještì s nìèím pomoct?}
-{104}{}{Tahle oplocená oblast je mìsto?}
-{105}{}{Hledám Vault.}
+{100}{}{VidÃ­Å¡ velmi napjatou Å¾enu. VypadÃ¡, jako by uÅ¾ lÃ©ta neodpoÄÃ­vala.}
+{101}{}{VidÃ­Å¡ Melindu, Å¡Ã©fku UvÃ­tacÃ­ kancelÃ¡Å™e.}
+{102}{}{ZdravÃ­m. JeÅ¡tÄ› jsem vÃ¡s tu nikdy pÅ™edtÃ­m nevidÄ›la. VÃ­tejte ve Vault City. MÅ¯Å¾u vÃ¡m s nÄ›ÄÃ­m pomoct?}
+{103}{}{Ano, mÅ¯Å¾u vÃ¡m jeÅ¡tÄ› s nÄ›ÄÃ­m pomoct?}
+{104}{}{Tahle oplocenÃ¡ oblast je mÄ›sto?}
+{105}{}{HledÃ¡m Vault.}
 {106}{}{Kdo jsi?}
-{107}{}{Ne, díky. Sbohem.}
-{108}{}{Tohle Valt Citííí?}
-{109}{}{Ne ne... nenechte se zmást okolím. Právì stojíte na Pøedmìstí. Samotné mìsto se nachází na severu.}
-{110}{}{Jakı je rozdíl mezi tìmi dvìma oblastmi?}
-{111}{}{Mùu se vás zeptat na nìco jiného?}
-{112}{}{Díky za pomoc. Sbohem.}
-{113}{}{Díky.}
-{114}{}{Náš Vault? Nachází se uprostøed mìsta, ale pouze Obèané mají dovoleno vstoupit do Vaultu.}
-{115}{}{Potøebuju se dostat do Vaultu.}
-{116}{}{Mùu se vás zeptat na nìco jiného?}
-{117}{}{Díky za pomoc. Sbohem.}
-{118}{}{Já? Jmenuju se Melinda. Jsem šéfka Uvítací kanceláøe ve Vault City.}
-{119}{}{To zní jako tvrdá práce.}
-{120}{}{Mùu se vás zeptat na nìco jiného?}
-{121}{}{Díky za pomoc.}
-{122}{}{Pøedmìstí je oblast, kde chráníme ty ménì šastné venkovany. Mnoho z nich ije pod naší ochranou a pøispívá k naší dobré povìsti. Vnitøní mìsto je oblast, kde ijí pouze Obèané.}
-{123}{}{Proè ijí ve vnitøním mìstì jenom Obèané?}
-{124}{}{Mùu se vás zeptat na nìco jiného?}
-{125}{}{Díky za pomoc.}
-{126}{}{Je mi líto, ale jak u jsem øekla, pouze Obèané mají dovoleno vstoupit do Vaultu. Nemùu vám zajistit pøístup. Promluvte si s Wallacem, naším šéfem celníkù. Tøeba by vám mohl pomoct. Najdete ho v jeho kanceláøi na severním konci Pøedmìstí.}
-{127}{}{Mùu se vás zeptat na nìco jiného?}
-{128}{}{Díky za pomoc. Sbohem.}
-{129}{}{Moje práce prospívá Vault City. Mám tu èest mluvit s venkovany o velkoleposti tohoto mìsta.}
-{130}{}{Ale no tak, neøíkejte mi, e to obèas není *pìkná* nuda.}
-{131}{}{Mùu se vás zeptat na nìco jiného?}
-{132}{}{Díky za pomoc.}
-{133}{}{Lepší budoucnosti pro všechny dosáhneme pouze tak, e si budeme bedlivì chránit naši kulturu pøed vnìjšími vlivy.}
-{134}{}{Myslíte tím izolovat se?}
-{135}{}{Jsem hrdá na to, co dìlám pro Vault City, ale budete mì muset omluvit, protoe musím vyøídit jednu velmi dùleitou záleitost. Hezkı den.}
-{136}{}{Nedìláme to pro *sebe*, dìláme to pro dobro všech.}
-{137}{}{No jo, samozøejmì. To zní líp.}
-{138}{}{Mùu se vás zeptat na nìco jiného?}
-{139}{}{Díky za pomoc.}
-{140}{}{Myslím, e nedokáete pochopit, o co se tu snaíme.}
-{141}{}{Máte pravdu. Nedokáu to pochopit, protoe to nedává vùbec ádnı *smysl.*}
-{142}{}{Jen mì to zajímalo. Díky za pomoc.}
-{143}{}{Mám teï spoustu práce. Jestli potøebujete pomoct, promluvte si s mım zástupcem.}
+{107}{}{Ne, dÃ­ky. Sbohem.}
+{108}{}{Tohle Valt CitÃ­Ã­Ã­?}
+{109}{}{Ne ne... nenechte se zmÃ¡st okolÃ­m. PrÃ¡vÄ› stojÃ­te na PÅ™edmÄ›stÃ­. SamotnÃ© mÄ›sto se nachÃ¡zÃ­ na severu.}
+{110}{}{JakÃ½ je rozdÃ­l mezi tÄ›mi dvÄ›ma oblastmi?}
+{111}{}{MÅ¯Å¾u se vÃ¡s zeptat na nÄ›co jinÃ©ho?}
+{112}{}{DÃ­ky za pomoc. Sbohem.}
+{113}{}{DÃ­ky.}
+{114}{}{NÃ¡Å¡ Vault? NachÃ¡zÃ­ se uprostÅ™ed mÄ›sta, ale pouze ObÄanÃ© majÃ­ dovoleno vstoupit do Vaultu.}
+{115}{}{PotÅ™ebuju se dostat do Vaultu.}
+{116}{}{MÅ¯Å¾u se vÃ¡s zeptat na nÄ›co jinÃ©ho?}
+{117}{}{DÃ­ky za pomoc. Sbohem.}
+{118}{}{JÃ¡? Jmenuju se Melinda. Jsem Å¡Ã©fka UvÃ­tacÃ­ kancelÃ¡Å™e ve Vault City.}
+{119}{}{To znÃ­ jako tvrdÃ¡ prÃ¡ce.}
+{120}{}{MÅ¯Å¾u se vÃ¡s zeptat na nÄ›co jinÃ©ho?}
+{121}{}{DÃ­ky za pomoc.}
+{122}{}{PÅ™edmÄ›stÃ­ je oblast, kde chrÃ¡nÃ­me ty mÃ©nÄ› Å¡Å¥astnÃ© venkovany. Mnoho z nich Å¾ije pod naÅ¡Ã­ ochranou a pÅ™ispÃ­vÃ¡ k naÅ¡Ã­ dobrÃ© povÄ›sti. VnitÅ™nÃ­ mÄ›sto je oblast, kde Å¾ijÃ­ pouze ObÄanÃ©.}
+{123}{}{ProÄ Å¾ijÃ­ ve vnitÅ™nÃ­m mÄ›stÄ› jenom ObÄanÃ©?}
+{124}{}{MÅ¯Å¾u se vÃ¡s zeptat na nÄ›co jinÃ©ho?}
+{125}{}{DÃ­ky za pomoc.}
+{126}{}{Je mi lÃ­to, ale jak uÅ¾ jsem Å™ekla, pouze ObÄanÃ© majÃ­ dovoleno vstoupit do Vaultu. NemÅ¯Å¾u vÃ¡m zajistit pÅ™Ã­stup. Promluvte si s Wallacem, naÅ¡Ã­m Å¡Ã©fem celnÃ­kÅ¯. TÅ™eba by vÃ¡m mohl pomoct. Najdete ho v jeho kancelÃ¡Å™i na severnÃ­m konci PÅ™edmÄ›stÃ­.}
+{127}{}{MÅ¯Å¾u se vÃ¡s zeptat na nÄ›co jinÃ©ho?}
+{128}{}{DÃ­ky za pomoc. Sbohem.}
+{129}{}{Moje prÃ¡ce prospÃ­vÃ¡ Vault City. MÃ¡m tu Äest mluvit s venkovany o velkoleposti tohoto mÄ›sta.}
+{130}{}{Ale no tak, neÅ™Ã­kejte mi, Å¾e to obÄas nenÃ­ *pÄ›knÃ¡* nuda.}
+{131}{}{MÅ¯Å¾u se vÃ¡s zeptat na nÄ›co jinÃ©ho?}
+{132}{}{DÃ­ky za pomoc.}
+{133}{}{LepÅ¡Ã­ budoucnosti pro vÅ¡echny dosÃ¡hneme pouze tak, Å¾e si budeme bedlivÄ› chrÃ¡nit naÅ¡i kulturu pÅ™ed vnÄ›jÅ¡Ã­mi vlivy.}
+{134}{}{MyslÃ­te tÃ­m izolovat se?}
+{135}{}{Jsem hrdÃ¡ na to, co dÄ›lÃ¡m pro Vault City, ale budete mÄ› muset omluvit, protoÅ¾e musÃ­m vyÅ™Ã­dit jednu velmi dÅ¯leÅ¾itou zÃ¡leÅ¾itost. HezkÃ½ den.}
+{136}{}{NedÄ›lÃ¡me to pro *sebe*, dÄ›lÃ¡me to pro dobro vÅ¡ech.}
+{137}{}{No jo, samozÅ™ejmÄ›. To znÃ­ lÃ­p.}
+{138}{}{MÅ¯Å¾u se vÃ¡s zeptat na nÄ›co jinÃ©ho?}
+{139}{}{DÃ­ky za pomoc.}
+{140}{}{MyslÃ­m, Å¾e nedokÃ¡Å¾ete pochopit, o co se tu snaÅ¾Ã­me.}
+{141}{}{MÃ¡te pravdu. NedokÃ¡Å¾u to pochopit, protoÅ¾e to nedÃ¡vÃ¡ vÅ¯bec Å¾Ã¡dnÃ½ *smysl.*}
+{142}{}{Jen mÄ› to zajÃ­malo. DÃ­ky za pomoc.}
+{143}{}{MÃ¡m teÄ spoustu prÃ¡ce. Jestli potÅ™ebujete pomoct, promluvte si s mÃ½m zÃ¡stupcem.}

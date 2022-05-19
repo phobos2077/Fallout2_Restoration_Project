@@ -1,18 +1,18 @@
-{100}{}{Vidíš špinavého èeledína, kterı peèuje o brahmíny.}
-{101}{}{Vidíš èeledína stájí.}
-{150}{}{Má plné ruce práce.}
-{200}{}{Je mi líto, ale stáje jsou plnı. Zkuste to nìkde jinde.}
-{201}{}{Teï mám opravdu hodnì práce.}
-{250}{}{Smrad? Èlovìk si po èase zvykne.}
-{251}{}{Nesmrdí to tak strašnì.}
-{252}{}{Myslím, e letos nebudu muset hnojit pole. Díky.}
-{300}{}{Tahle potøebuje èerstvou slámu.}
-{301}{}{Je potøeba víc vody.}
-{302}{}{Fuj! Je naèase se chopit lopaty.}
-{303}{}{Všechno se zdá bıt v poøádku.}
-{304}{}{Radìji budu tuhle brahmínu sledovat. Nevypadá zdravì.}
-{350}{}{Chrr... spím ... chrrr...}
-{351}{}{*Zíív* Musím brzo vstávat.}
-{352}{}{Hej, ještì nejsem dospìlej. Potøebuju se poøádnì vyspat.}
-{353}{}{Jdìte si povídat s nìkım jinım.}
-{354}{}{Poslyš, rád bych spal. Pøestaò mì poøád obtìovat.}
+{100}{}{VidÃ­Å¡ Å¡pinavÃ©ho ÄeledÃ­na, kterÃ½ peÄuje o brahmÃ­ny.}
+{101}{}{VidÃ­Å¡ ÄeledÃ­na stÃ¡jÃ­.}
+{150}{}{MÃ¡ plnÃ© ruce prÃ¡ce.}
+{200}{}{Je mi lÃ­to, ale stÃ¡je jsou plnÃ½. Zkuste to nÄ›kde jinde.}
+{201}{}{TeÄ mÃ¡m opravdu hodnÄ› prÃ¡ce.}
+{250}{}{Smrad? ÄŒlovÄ›k si po Äase zvykne.}
+{251}{}{NesmrdÃ­ to tak straÅ¡nÄ›.}
+{252}{}{MyslÃ­m, Å¾e letos nebudu muset hnojit pole. DÃ­ky.}
+{300}{}{Tahle potÅ™ebuje Äerstvou slÃ¡mu.}
+{301}{}{Je potÅ™eba vÃ­c vody.}
+{302}{}{Fuj! Je naÄase se chopit lopaty.}
+{303}{}{VÅ¡echno se zdÃ¡ bÃ½t v poÅ™Ã¡dku.}
+{304}{}{RadÄ›ji budu tuhle brahmÃ­nu sledovat. NevypadÃ¡ zdravÄ›.}
+{350}{}{Chrr... spÃ­m ... chrrr...}
+{351}{}{*ZÃ­Ã­v* MusÃ­m brzo vstÃ¡vat.}
+{352}{}{Hej, jeÅ¡tÄ› nejsem dospÄ›lej. PotÅ™ebuju se poÅ™Ã¡dnÄ› vyspat.}
+{353}{}{JdÄ›te si povÃ­dat s nÄ›kÃ½m jinÃ½m.}
+{354}{}{PoslyÅ¡, rÃ¡d bych spal. PÅ™estaÅˆ mÄ› poÅ™Ã¡d obtÄ›Å¾ovat.}

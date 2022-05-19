@@ -1,12 +1,12 @@
-{100}{}{Vidíš malého kluka.}
-{101}{}{Malé dìvèe.}
-{200}{}{U tam budem?}
+{100}{}{VidÃ­Å¡ malÃ©ho kluka.}
+{101}{}{MalÃ© dÄ›vÄe.}
+{200}{}{UÅ¾ tam budem?}
 {201}{}{Jsem unavenej.}
-{202}{}{Poneseš mì?}
-{203}{}{Nemám mluvit s cizíma lidma.}
-{204}{}{Mamka a taka šli pryè.}
-{205}{}{Vidíš mùj blıskavej kamínek?}
-{206}{}{Budeš si se mnou hrát?}
-{207}{}{La la la la la la. Neslyším tì.}
-{208}{}{Proè si teï nemùu hrát?}
-{209}{}{Chceš si hrát?}
+{202}{}{PoneseÅ¡ mÄ›?}
+{203}{}{NemÃ¡m mluvit s cizÃ­ma lidma.}
+{204}{}{Mamka a taÅ¥ka Å¡li pryÄ.}
+{205}{}{VidÃ­Å¡ mÅ¯j blÃ½skavej kamÃ­nek?}
+{206}{}{BudeÅ¡ si se mnou hrÃ¡t?}
+{207}{}{La la la la la la. NeslyÅ¡Ã­m tÄ›.}
+{208}{}{ProÄ si teÄ nemÅ¯Å¾u hrÃ¡t?}
+{209}{}{ChceÅ¡ si hrÃ¡t?}

@@ -1,60 +1,60 @@
-{100}{}{Vidíš drsného otrokáøe ve støedních letech.}
-{101}{}{Vidíš otrokáøe s velkou jizvou na tváøi.}
-{102}{}{Vidíš dobøe urostlého otrokáøe.}
-{150}{}{Tohle je otrokáø, kterı vypadá, e ho jeho práce baví.}
-{151}{}{Tento otrokáø vypadá, e je velmi silnı, ale ne moc chytrı.}
-{152}{}{Tento otrokáø je dobøe vyzbrojenı, stejnì jako ostatní.}
-{225}{}{Jdeme na nì.}
-{226}{}{Zabíjej jen ty vzpurnı.}
-{227}{}{Jdi napøed, jsme hned za váma.}
-{228}{}{Vyøiï jen ty vzpurnı, ostatní jsou naše koøist.}
-{229}{}{Jsem pøipravenej rozmlátit nìjakı hlavy.}
-{230}{}{Kde jsou? Vidíš je?}
-{235}{}{Ještì není èas na ústup.}
-{236}{}{Dostaò poslední z tìch vzpurnıch.}
-{237}{}{Nech ty bezbrannı na pokoji. Dostaò ty ostatní.}
-{238}{}{Èeká nás ještì další krveprolití.}
-{245}{}{To byl pøíšernej hon.}
-{246}{}{To nestálo ani za øeè. Dostali jsme tak akorát velkı hovno.}
-{247}{}{Pøíštì zabíjej jen ty vzpurnı. Tohle není ádná hra.}
-{248}{}{Metzger bude pìknì nasranej.}
-{255}{}{Docela dobrı... ale pøíštì nech na pokoji ty bezbrannı, jestli chceš, aby se nám to vyplatilo.}
-{256}{}{To nebylo tak špatnı. Dostali jsme nìkolik slušnejch otrokù.}
-{257}{}{Myslím, e na tom nakonec vydìláme.}
-{265}{}{No, zadaøilo se nám docela dobøe. Skoro jsme je všechny dostali.}
-{266}{}{Díky za pomoc.}
-{267}{}{Dobrá práce. Za tenhle hon dostaneme slušnı prachy.}
-{268}{}{Byla to zábava a ještì z toho nìco vytøískáme.}
-{275}{}{Tak to bylo fakt dobrı. Metzger by nám mohl dát slušnej bonus.}
-{276}{}{To bylo skvìlı! Dneska se poøádnì oeru.}
+{100}{}{VidÃ­Å¡ drsnÃ©ho otrokÃ¡Å™e ve stÅ™ednÃ­ch letech.}
+{101}{}{VidÃ­Å¡ otrokÃ¡Å™e s velkou jizvou na tvÃ¡Å™i.}
+{102}{}{VidÃ­Å¡ dobÅ™e urostlÃ©ho otrokÃ¡Å™e.}
+{150}{}{Tohle je otrokÃ¡Å™, kterÃ½ vypadÃ¡, Å¾e ho jeho prÃ¡ce bavÃ­.}
+{151}{}{Tento otrokÃ¡Å™ vypadÃ¡, Å¾e je velmi silnÃ½, ale ne moc chytrÃ½.}
+{152}{}{Tento otrokÃ¡Å™ je dobÅ™e vyzbrojenÃ½, stejnÄ› jako ostatnÃ­.}
+{225}{}{Jdeme na nÄ›.}
+{226}{}{ZabÃ­jej jen ty vzpurnÃ½.}
+{227}{}{Jdi napÅ™ed, jsme hned za vÃ¡ma.}
+{228}{}{VyÅ™iÄ jen ty vzpurnÃ½, ostatnÃ­ jsou naÅ¡e koÅ™ist.}
+{229}{}{Jsem pÅ™ipravenej rozmlÃ¡tit nÄ›jakÃ½ hlavy.}
+{230}{}{Kde jsou? VidÃ­Å¡ je?}
+{235}{}{JeÅ¡tÄ› nenÃ­ Äas na Ãºstup.}
+{236}{}{DostaÅˆ poslednÃ­ z tÄ›ch vzpurnÃ½ch.}
+{237}{}{Nech ty bezbrannÃ½ na pokoji. DostaÅˆ ty ostatnÃ­.}
+{238}{}{ÄŒekÃ¡ nÃ¡s jeÅ¡tÄ› dalÅ¡Ã­ krveprolitÃ­.}
+{245}{}{To byl pÅ™Ã­Å¡ernej hon.}
+{246}{}{To nestÃ¡lo ani za Å™eÄ. Dostali jsme tak akorÃ¡t velkÃ½ hovno.}
+{247}{}{PÅ™Ã­Å¡tÄ› zabÃ­jej jen ty vzpurnÃ½. Tohle nenÃ­ Å¾Ã¡dnÃ¡ hra.}
+{248}{}{Metzger bude pÄ›knÄ› nasranej.}
+{255}{}{Docela dobrÃ½... ale pÅ™Ã­Å¡tÄ› nech na pokoji ty bezbrannÃ½, jestli chceÅ¡, aby se nÃ¡m to vyplatilo.}
+{256}{}{To nebylo tak Å¡patnÃ½. Dostali jsme nÄ›kolik sluÅ¡nejch otrokÅ¯.}
+{257}{}{MyslÃ­m, Å¾e na tom nakonec vydÄ›lÃ¡me.}
+{265}{}{No, zadaÅ™ilo se nÃ¡m docela dobÅ™e. Skoro jsme je vÅ¡echny dostali.}
+{266}{}{DÃ­ky za pomoc.}
+{267}{}{DobrÃ¡ prÃ¡ce. Za tenhle hon dostaneme sluÅ¡nÃ½ prachy.}
+{268}{}{Byla to zÃ¡bava a jeÅ¡tÄ› z toho nÄ›co vytÅ™Ã­skÃ¡me.}
+{275}{}{Tak to bylo fakt dobrÃ½. Metzger by nÃ¡m mohl dÃ¡t sluÅ¡nej bonus.}
+{276}{}{To bylo skvÄ›lÃ½! Dneska se poÅ™Ã¡dnÄ› oÅ¾eru.}
 {277}{}{Fakt kurva dobrej hon.}
-{278}{}{Tak se to má dìlat!}
+{278}{}{Tak se to mÃ¡ dÄ›lat!}
 {285}{}{Kde jsou?}
-{286}{}{Musím nìkoho sejmout.}
-{287}{}{Vsadím se, e jich zabiju víc ne ty.}
-{288}{}{Ná, pi, pi, pi, pi, pi.}
-{295}{}{Všichni jste u po smrti, jen to ještì nevíte.}
-{296}{}{Pøed námi se neschováte!}
-{297}{}{Vylezte, nebo vám ustøelím ty vaše zasranı hlavy.}
-{298}{}{Jo, to bylo dobrı! Kde je zbytek?}
+{286}{}{MusÃ­m nÄ›koho sejmout.}
+{287}{}{VsadÃ­m se, Å¾e jich zabiju vÃ­c neÅ¾ ty.}
+{288}{}{NÃ¡, pi, pi, pi, pi, pi.}
+{295}{}{VÅ¡ichni jste uÅ¾ po smrti, jen to jeÅ¡tÄ› nevÃ­te.}
+{296}{}{PÅ™ed nÃ¡mi se neschovÃ¡te!}
+{297}{}{Vylezte, nebo vÃ¡m ustÅ™elÃ­m ty vaÅ¡e zasranÃ½ hlavy.}
+{298}{}{Jo, to bylo dobrÃ½! Kde je zbytek?}
 {305}{}{Do prdele.}
 {306}{}{To bylo na hovno.}
-{307}{}{Zatracenì.}
-{308}{}{Pøíštì se polepšíme.}
-{309}{}{Sakra... a já jsem se dneska veèer chtìl orat.}
-{310}{}{Vypadneme odtud. Tohle stálo za vyliprdel.}
-{320}{}{To není špatnı.}
-{321}{}{Snad jsme jich dostali dost. Potøebuju si doplnit zásoby Jetu.}
-{322}{}{Pojïme.}
-{323}{}{Mohlo to bejt lepší, ale prachy jsou prachy.}
+{307}{}{ZatracenÄ›.}
+{308}{}{PÅ™Ã­Å¡tÄ› se polepÅ¡Ã­me.}
+{309}{}{Sakra... a jÃ¡ jsem se dneska veÄer chtÄ›l oÅ¾rat.}
+{310}{}{Vypadneme odtud. Tohle stÃ¡lo za vyliÅ¾prdel.}
+{320}{}{To nenÃ­ Å¡patnÃ½.}
+{321}{}{Snad jsme jich dostali dost. PotÅ™ebuju si doplnit zÃ¡soby Jetu.}
+{322}{}{PojÄme.}
+{323}{}{Mohlo to bejt lepÅ¡Ã­, ale prachy jsou prachy.}
 {324}{}{Metzger bude spokojenej.}
-{325}{}{Vıbornì.}
-{326}{}{Hejbni zadkem. Padáme odsud.}
-{327}{}{Tohle bude v pohodì.}
-{328}{}{Pìkná koøist.}
-{329}{}{Padáme. Chci svoje prachy.}
+{325}{}{VÃ½bornÄ›.}
+{326}{}{Hejbni zadkem. PadÃ¡me odsud.}
+{327}{}{Tohle bude v pohodÄ›.}
+{328}{}{PÄ›knÃ¡ koÅ™ist.}
+{329}{}{PadÃ¡me. Chci svoje prachy.}
 {335}{}{Bude bonus!}
-{336}{}{Paráda.}
-{337}{}{Seeò je dohromady a vyrazíme.}
-{338}{}{Pøestaò se flákat. Padáme.}
+{336}{}{ParÃ¡da.}
+{337}{}{SeÅ¾eÅˆ je dohromady a vyrazÃ­me.}
+{338}{}{PÅ™estaÅˆ se flÃ¡kat. PadÃ¡me.}
 {339}{}{Sakra, tenhle hon se fakt povedl.}

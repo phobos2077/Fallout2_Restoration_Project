@@ -1,1 +1,1 @@
-{100}{}{Vidíš divokou brahmínu.}
+{100}{}{VidÃ­Å¡ divokou brahmÃ­nu.}

@@ -1,19 +1,19 @@
-{100}{}{Vidíš farmáøe.}
-{101}{}{Vidíš farmáøe.}
+{100}{}{VidÃ­Å¡ farmÃ¡Å™e.}
+{101}{}{VidÃ­Å¡ farmÃ¡Å™e.}
 {102}{}{Ahoj.}
-{103}{}{Pøeju hezkej den.}
-{104}{}{Vítej v naší vesnici.}
-{105}{}{Tyhle monstra nás chrání.}
-{106}{}{Vítej.}
-{107}{}{Ty pušky budeme u brzy potøebovat.}
-{108}{}{Prosím, pospìš si a pøines nám ty zbranì.}
-{109}{}{Proè jsi zabil ty monstra? Teï si pro nás pøijde Vault City.}
-{110}{}{Vypadni odsud a u se nevracej!!}
+{103}{}{PÅ™eju hezkej den.}
+{104}{}{VÃ­tej v naÅ¡Ã­ vesnici.}
+{105}{}{Tyhle monstra nÃ¡s chrÃ¡nÃ­.}
+{106}{}{VÃ­tej.}
+{107}{}{Ty puÅ¡ky budeme uÅ¾ brzy potÅ™ebovat.}
+{108}{}{ProsÃ­m, pospÄ›Å¡ si a pÅ™ines nÃ¡m ty zbranÄ›.}
+{109}{}{ProÄ jsi zabil ty monstra? TeÄ si pro nÃ¡s pÅ™ijde Vault City.}
+{110}{}{Vypadni odsud a uÅ¾ se nevracej!!}
 {111}{}{Vypadni sakra odsud!}
-{112}{}{Teï u jsme v bezpeèí.}
-{113}{}{Jsme ti vdìèní.}
-{114}{}{Bùh s tebou, venkovane.}
+{112}{}{TeÄ uÅ¾ jsme v bezpeÄÃ­.}
+{113}{}{Jsme ti vdÄ›ÄnÃ­.}
+{114}{}{BÅ¯h s tebou, venkovane.}
 {115}{}{Jdi si promluvit s Connarem.}
-{116}{}{Haha! Utíkali jak splašení!}
-{117}{}{Mìstská hlídka odsud utíkala se staenım ocasem. Ha, to jsme jim to ukázali!}
-{118}{}{Kdo by si pomyslel, e jsou stráe Vault City takoví zbabìlci!}
+{116}{}{Haha! UtÃ­kali jak splaÅ¡enÃ­!}
+{117}{}{MÄ›stskÃ¡ hlÃ­dka odsud utÃ­kala se staÅ¾enÃ½m ocasem. Ha, to jsme jim to ukÃ¡zali!}
+{118}{}{Kdo by si pomyslel, Å¾e jsou strÃ¡Å¾e Vault City takovÃ­ zbabÄ›lci!}

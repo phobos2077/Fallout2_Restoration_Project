@@ -1,22 +1,22 @@
-{100}{}{Vidíš mue obleèeného v róbì.}
-{101}{}{Vidíš Ashtona. Má to tu na starost.}
-{102}{}{Šklebí se.}
-{200}{}{Buï zdráv. Jmenuji se Ashton a mám to tu vše na starosti. Poslali tì sem jako ostrahu?}
-{201}{}{Jo, vlastnì jo.}
-{202}{}{Ne, poslal mì sem AHS-9, abych tu všechno zkontroloval.}
-{210}{}{Vıbornì! Poøád øíkám, e tento sklad nebude nikdy dostateènì hlídán. Dobøe, e tì tu máme.}
-{211}{}{Opravdu? To je... zajímavé. Samozøejmì se tu mùeš klidnì porozhlédnout. Jsem si jistı, e je vše v poøádku.}
-{220}{}{Díky. Co e tu vlastnì skladujeme?}
-{221}{}{Tak fajn. Ještì se uvidíme.}
-{230}{}{Jak jistì víš, je tu uloen kadı dar Hubologistické církvi za nìkolik posledních dekád a musím øíct, e je toho poehnanì. Nìkteré dary jsou malé, jiné zase docela veliké. Máme tu všechno moné, od zbraní a munice, pøes šperky a staroitnosti a dokonce i nìkolik starıch vozidel. Je to jen nìkolik mìsícù, co nám herec Don Ravolta vìnoval pravı motocykl Harkley Sports z dvacátého století. Byl nejlepší ve své dobì. Kruci, dokonce nám darovali i fungující Howitzer. Nicménì nejèastìjším darem jsou peníze. Spousty a spousty penìz.}
-{240}{}{Pùsobivé. Zdá se, e na tom Církev docela dobøe vydìlává.}
-{241}{}{To samozøejmì ano. A má pro to dobrı dùvod. Reklamní kampanì a obrovskı vesmírnı raketoplán nejsou zrovna levné záleitosti.}
-{242}{}{Jo no, chápu. Jak je to tu vlastnì veliké?}
-{243}{}{Chápu, co tím myslíš. Ale u musím jít. Nashle.}
-{250}{}{Právì stojíme ve starém bunkru, kterı byl pravdìpodobnì vybudován pro soukromé úèely, nikoliv vojenské. Pod námi jsou ještì dvì podlaí. Pøímo pod námi je obytná èást. Máme tam nìkolik postelí, koupelny, posilovnu a vybavení ostrahy. Pod tím je to, co nazıvám "vault".}
+{100}{}{VidÃ­Å¡ muÅ¾e obleÄenÃ©ho v rÃ³bÄ›.}
+{101}{}{VidÃ­Å¡ Ashtona. MÃ¡ to tu na starost.}
+{102}{}{Å klebÃ­ se.}
+{200}{}{BuÄ zdrÃ¡v. Jmenuji se Ashton a mÃ¡m to tu vÅ¡e na starosti. Poslali tÄ› sem jako ostrahu?}
+{201}{}{Jo, vlastnÄ› jo.}
+{202}{}{Ne, poslal mÄ› sem AHS-9, abych tu vÅ¡echno zkontroloval.}
+{210}{}{VÃ½bornÄ›! PoÅ™Ã¡d Å™Ã­kÃ¡m, Å¾e tento sklad nebude nikdy dostateÄnÄ› hlÃ­dÃ¡n. DobÅ™e, Å¾e tÄ› tu mÃ¡me.}
+{211}{}{Opravdu? To je... zajÃ­mavÃ©. SamozÅ™ejmÄ› se tu mÅ¯Å¾eÅ¡ klidnÄ› porozhlÃ©dnout. Jsem si jistÃ½, Å¾e je vÅ¡e v poÅ™Ã¡dku.}
+{220}{}{DÃ­ky. Co Å¾e tu vlastnÄ› skladujeme?}
+{221}{}{Tak fajn. JeÅ¡tÄ› se uvidÃ­me.}
+{230}{}{Jak jistÄ› vÃ­Å¡, je tu uloÅ¾en kaÅ¾dÃ½ dar HubologistickÃ© cÃ­rkvi za nÄ›kolik poslednÃ­ch dekÃ¡d a musÃ­m Å™Ã­ct, Å¾e je toho poÅ¾ehnanÄ›. NÄ›kterÃ© dary jsou malÃ©, jinÃ© zase docela velikÃ©. MÃ¡me tu vÅ¡echno moÅ¾nÃ©, od zbranÃ­ a munice, pÅ™es Å¡perky a staroÅ¾itnosti a dokonce i nÄ›kolik starÃ½ch vozidel. Je to jen nÄ›kolik mÄ›sÃ­cÅ¯, co nÃ¡m herec Don Ravolta vÄ›noval pravÃ½ motocykl Harkley Sports z dvacÃ¡tÃ©ho stoletÃ­. Byl nejlepÅ¡Ã­ ve svÃ© dobÄ›. Kruci, dokonce nÃ¡m darovali i fungujÃ­cÃ­ Howitzer. NicmÃ©nÄ› nejÄastÄ›jÅ¡Ã­m darem jsou penÃ­ze. Spousty a spousty penÄ›z.}
+{240}{}{PÅ¯sobivÃ©. ZdÃ¡ se, Å¾e na tom CÃ­rkev docela dobÅ™e vydÄ›lÃ¡vÃ¡.}
+{241}{}{To samozÅ™ejmÄ› ano. A mÃ¡ pro to dobrÃ½ dÅ¯vod. ReklamnÃ­ kampanÄ› a obrovskÃ½ vesmÃ­rnÃ½ raketoplÃ¡n nejsou zrovna levnÃ© zÃ¡leÅ¾itosti.}
+{242}{}{Jo no, chÃ¡pu. Jak je to tu vlastnÄ› velikÃ©?}
+{243}{}{ChÃ¡pu, co tÃ­m myslÃ­Å¡. Ale uÅ¾ musÃ­m jÃ­t. Nashle.}
+{250}{}{PrÃ¡vÄ› stojÃ­me ve starÃ©m bunkru, kterÃ½ byl pravdÄ›podobnÄ› vybudovÃ¡n pro soukromÃ© ÃºÄely, nikoliv vojenskÃ©. Pod nÃ¡mi jsou jeÅ¡tÄ› dvÄ› podlaÅ¾Ã­. PÅ™Ã­mo pod nÃ¡mi je obytnÃ¡ ÄÃ¡st. MÃ¡me tam nÄ›kolik postelÃ­, koupelny, posilovnu a vybavenÃ­ ostrahy. Pod tÃ­m je to, co nazÃ½vÃ¡m "vault".}
 {251}{}{Vault?}
-{252}{}{No, on to není *opravdovı* vault, jen to tak nazıvám. Je to spíš skladištì plné nejrùznìjších vìcí. Ukládáme tam všechny naše dary. Je nepøetritì hlídanı po celı den.}
-{260}{}{Zajímavé. No, teï se pùjdu trochu porozhlédnout kolem. Uvidíme se pozdìji.}
-{270}{}{Take jak je to tu vlastnì veliké?}
-{300}{}{Zdravím. Mùu ti s nìèím pomoct?}
-{301}{}{Ani ne, jen se tak dívám. Nashle.}
+{252}{}{No, on to nenÃ­ *opravdovÃ½* vault, jen to tak nazÃ½vÃ¡m. Je to spÃ­Å¡ skladiÅ¡tÄ› plnÃ© nejrÅ¯znÄ›jÅ¡Ã­ch vÄ›cÃ­. UklÃ¡dÃ¡me tam vÅ¡echny naÅ¡e dary. Je nepÅ™etrÅ¾itÄ› hlÃ­danÃ½ po celÃ½ den.}
+{260}{}{ZajÃ­mavÃ©. No, teÄ se pÅ¯jdu trochu porozhlÃ©dnout kolem. UvidÃ­me se pozdÄ›ji.}
+{270}{}{TakÅ¾e jak je to tu vlastnÄ› velikÃ©?}
+{300}{}{ZdravÃ­m. MÅ¯Å¾u ti s nÄ›ÄÃ­m pomoct?}
+{301}{}{Ani ne, jen se tak dÃ­vÃ¡m. Nashle.}

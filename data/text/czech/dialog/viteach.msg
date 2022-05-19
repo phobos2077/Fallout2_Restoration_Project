@@ -1,6 +1,6 @@
-{100}{}{Vidíš vıukovı terminál Vault City.}
-{101}{}{Vypadá to jako nìjakı vıukovı program. Po stranì je vidìt sympatickı panáèek Pip-Boy.}
-{102}{}{Vidíš vıukovı poèítaèovı systém Vault City.}
-{103}{}{Chvíli si pohráváš s poèítaèem, ale chtìlo by to vìdìt trošku více o vìdì. Pak by se z terminálu dalo nìco uiteèného dostat.}
-{104}{}{Nìjakı èas studuješ archívy tohoto terminálu.}
-{105}{}{Nìjakı èas studuješ archívy tohoto terminálu, ale nic dùleitého tam není.}
+{100}{}{VidÃ­Å¡ vÃ½ukovÃ½ terminÃ¡l Vault City.}
+{101}{}{VypadÃ¡ to jako nÄ›jakÃ½ vÃ½ukovÃ½ program. Po stranÄ› je vidÄ›t sympatickÃ½ panÃ¡Äek Pip-Boy.}
+{102}{}{VidÃ­Å¡ vÃ½ukovÃ½ poÄÃ­taÄovÃ½ systÃ©m Vault City.}
+{103}{}{ChvÃ­li si pohrÃ¡vÃ¡Å¡ s poÄÃ­taÄem, ale chtÄ›lo by to vÄ›dÄ›t troÅ¡ku vÃ­ce o vÄ›dÄ›. Pak by se z terminÃ¡lu dalo nÄ›co uÅ¾iteÄnÃ©ho dostat.}
+{104}{}{NÄ›jakÃ½ Äas studujeÅ¡ archÃ­vy tohoto terminÃ¡lu.}
+{105}{}{NÄ›jakÃ½ Äas studujeÅ¡ archÃ­vy tohoto terminÃ¡lu, ale nic dÅ¯leÅ¾itÃ©ho tam nenÃ­.}

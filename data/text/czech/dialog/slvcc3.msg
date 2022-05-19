@@ -1,5 +1,5 @@
-{100}{}{Vidíš hlídacího psa.}
-{101}{}{Vidíš zanedbanì vypadajícího psa.}
+{100}{}{VidÃ­Å¡ hlÃ­dacÃ­ho psa.}
+{101}{}{VidÃ­Å¡ zanedbanÄ› vypadajÃ­cÃ­ho psa.}
 {102}{}{Haf!}
 {103}{}{HAF! HAF!}
 {104}{}{Grrr!}

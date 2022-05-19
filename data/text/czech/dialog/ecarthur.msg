@@ -1,47 +1,47 @@
-{100}{}{Mu v tìké zbroji.}
-{101}{}{Artuš, syn Uthera Pendragona.}
-{102}{}{Má sklopené hledí.}
-{103}{}{Buï zdráv, pocestnı. Jmenuji se Artuš, syn Uthera Pendragona, z Bratrstva oceli. Jsme na vıpravì za svatım granátem z Antiochu. Nevidìl jsi ho nìkde?}
-{104}{}{Svatı co a koho?}
-{105}{}{Odpovìï hráèe}
+{100}{}{MuÅ¾ v tÄ›Å¾kÃ© zbroji.}
+{101}{}{ArtuÅ¡, syn Uthera Pendragona.}
+{102}{}{MÃ¡ sklopenÃ© hledÃ­.}
+{103}{}{BuÄ zdrÃ¡v, pocestnÃ½. Jmenuji se ArtuÅ¡, syn Uthera Pendragona, z Bratrstva oceli. Jsme na vÃ½pravÄ› za svatÃ½m granÃ¡tem z Antiochu. NevidÄ›l jsi ho nÄ›kde?}
+{104}{}{SvatÃ½ co a koho?}
+{105}{}{OdpovÄ›Ä hrÃ¡Äe}
 {106}{}{Unga.}
-{107}{}{Není èas mluvit. Jsme na vıpravì.}
-{108}{}{Hledáme Svatı granát z Antiochu.}
+{107}{}{NenÃ­ Äas mluvit. Jsme na vÃ½pravÄ›.}
+{108}{}{HledÃ¡me SvatÃ½ granÃ¡t z Antiochu.}
 {109}{}{Pro Bratrstvo oceli!}
-{110}{}{Hmm... africká, nebo evropská vlaštovka?}
-{111}{}{Hej! To ti nepatøí!}
-{112}{}{Varuju tì. Dej ty ruce pryè.}
-{113}{}{Tak u dost. Èeho je moc, toho je pøíliš.}
-{114}{}{Svatı granát z Antiochu? To je nejlepší ruèní protipìchotní zbraò svého druhu.}
-{115}{}{K èemu hledáte tak strašnou zbraò?}
-{116}{}{My z Bratrstva oceli usilujeme o nalezení této nejnièivìjší zbranì našich pøedkù. Chceme ji zachránit pøed tìmi, kteøí by zneuili nièivé síly Svatého granátu z Antiochu.}
+{110}{}{Hmm... africkÃ¡, nebo evropskÃ¡ vlaÅ¡tovka?}
+{111}{}{Hej! To ti nepatÅ™Ã­!}
+{112}{}{Varuju tÄ›. Dej ty ruce pryÄ.}
+{113}{}{Tak uÅ¾ dost. ÄŒeho je moc, toho je pÅ™Ã­liÅ¡.}
+{114}{}{SvatÃ½ granÃ¡t z Antiochu? To je nejlepÅ¡Ã­ ruÄnÃ­ protipÄ›chotnÃ­ zbraÅˆ svÃ©ho druhu.}
+{115}{}{K Äemu hledÃ¡te tak straÅ¡nou zbraÅˆ?}
+{116}{}{My z Bratrstva oceli usilujeme o nalezenÃ­ tÃ©to nejniÄivÄ›jÅ¡Ã­ zbranÄ› naÅ¡ich pÅ™edkÅ¯. Chceme ji zachrÃ¡nit pÅ™ed tÄ›mi, kteÅ™Ã­ by zneuÅ¾ili niÄivÃ© sÃ­ly SvatÃ©ho granÃ¡tu z Antiochu.}
 {117}{}{Jak to?}
-{118}{}{Zkrátka proto, e Bratrstvo oceli chrání slabé a bezbranné a tahle vìc by skuteènì mohla nìkomu ublíit.}
+{118}{}{ZkrÃ¡tka proto, Å¾e Bratrstvo oceli chrÃ¡nÃ­ slabÃ© a bezbrannÃ© a tahle vÄ›c by skuteÄnÄ› mohla nÄ›komu ublÃ­Å¾it.}
 {119}{}{Jak to?}
-{120}{}{Hmm... protoe to je jediná správná a morální vìc.}
+{120}{}{Hmm... protoÅ¾e to je jedinÃ¡ sprÃ¡vnÃ¡ a morÃ¡lnÃ­ vÄ›c.}
 {121}{}{Jak to?}
-{122}{}{No... eh... podívej, máme opravdu dost práce. Hodláš nám pomoci nebo ne? Vidìl jsi u nìkdy Svatı granát z Antiochu nebo ne?}
+{122}{}{No... eh... podÃ­vej, mÃ¡me opravdu dost prÃ¡ce. HodlÃ¡Å¡ nÃ¡m pomoci nebo ne? VidÄ›l jsi uÅ¾ nÄ›kdy SvatÃ½ granÃ¡t z Antiochu nebo ne?}
 {123}{}{Ano.}
 {124}{}{Ne.}
-{125}{}{Tak proè to neøekneš hned? Staèí nám povìdìt kde, my vyrazíme na cestu a ty se mùeš vrátit ke své práci, a u to bylo cokoliv.}
-{126}{}{[Ukázat libovolnım smìrem]}
-{127}{}{Dobrá tedy. Díky za pomoc. Tady máš nìco za tvou slubu.}
-{128}{}{Poèkat! Taky nìco hledám. Pátrám po svatém GECKu. Nevidìli jste ho?}
-{129}{}{Dobrá tedy, u nemá smysl dál pokraèovat v tomto rozhovoru. Odcházíme.}
+{125}{}{Tak proÄ to neÅ™ekneÅ¡ hned? StaÄÃ­ nÃ¡m povÄ›dÄ›t kde, my vyrazÃ­me na cestu a ty se mÅ¯Å¾eÅ¡ vrÃ¡tit ke svÃ© prÃ¡ci, aÅ¥ uÅ¾ to bylo cokoliv.}
+{126}{}{[UkÃ¡zat libovolnÃ½m smÄ›rem]}
+{127}{}{DobrÃ¡ tedy. DÃ­ky za pomoc. Tady mÃ¡Å¡ nÄ›co za tvou sluÅ¾bu.}
+{128}{}{PoÄkat! Taky nÄ›co hledÃ¡m. PÃ¡trÃ¡m po svatÃ©m GECKu. NevidÄ›li jste ho?}
+{129}{}{DobrÃ¡ tedy, uÅ¾ nemÃ¡ smysl dÃ¡l pokraÄovat v tomto rozhovoru. OdchÃ¡zÃ­me.}
 {130}{}{[KONEC]}
-{131}{}{Zatracenı venkovan!}
+{131}{}{ZatracenÃ½ venkovan!}
 {132}{}{[KONEC]}
-{133}{}{GECK, øíkáš? Ano, máme dva. Další u nepotøebujeme. Kadopádnì díky za optání.}
-{134}{}{Kdy máte dva, moná byste mi mohli jeden dát.}
-{135}{}{Ne. Ne. To nemùeme. To by byl pøíliš snadnı konec tvého hledání. Nìjaké další jsou tamtím smìrem. Najdi si svùj vlastní. (Ukáe pøiblinì stejnım smìrem, jako jsi ukázal pøed chvílí ty, kdy jsi jim ukazoval, kde je svatı granát z Antiochu.)}
+{133}{}{GECK, Å™Ã­kÃ¡Å¡? Ano, mÃ¡me dva. DalÅ¡Ã­ uÅ¾ nepotÅ™ebujeme. KaÅ¾dopÃ¡dnÄ› dÃ­ky za optÃ¡nÃ­.}
+{134}{}{KdyÅ¾ mÃ¡te dva, moÅ¾nÃ¡ byste mi mohli jeden dÃ¡t.}
+{135}{}{Ne. Ne. To nemÅ¯Å¾eme. To by byl pÅ™Ã­liÅ¡ snadnÃ½ konec tvÃ©ho hledÃ¡nÃ­. NÄ›jakÃ© dalÅ¡Ã­ jsou tamtÃ­m smÄ›rem. Najdi si svÅ¯j vlastnÃ­. (UkÃ¡Å¾e pÅ™ibliÅ¾nÄ› stejnÃ½m smÄ›rem, jako jsi ukÃ¡zal pÅ™ed chvÃ­lÃ­ ty, kdyÅ¾ jsi jim ukazoval, kde je svatÃ½ granÃ¡t z Antiochu.)}
 {136}{}{[KONEC]}
-{200}{}{Mluvíš královskım jazykem?}
-{201}{}{Ahój.}
+{200}{}{MluvÃ­Å¡ krÃ¡lovskÃ½m jazykem?}
+{201}{}{AhÃ³j.}
 {202}{}{Hej, tady jsem.}
-{203}{}{Mìl bys chvilièku svého drahocenného èasu?}
+{203}{}{MÄ›l bys chviliÄku svÃ©ho drahocennÃ©ho Äasu?}
 {204}{}{Ehm.}
-{205}{}{Ale no tak. Neignoruj mì.}
-{206}{}{Prosíííím! Potøebuju se tì na nìco hroznì dùleitého zeptat.}
-{207}{}{No, musíme pokraèovat v hledání svatého granátu z Antiochu. Pojï, Patsy.}
-{300}{}{Náše poslání bylo naplnìno!}
-{301}{}{Artuš, k tvım slubám.}
+{205}{}{Ale no tak. Neignoruj mÄ›.}
+{206}{}{ProsÃ­Ã­Ã­Ã­m! PotÅ™ebuju se tÄ› na nÄ›co hroznÄ› dÅ¯leÅ¾itÃ©ho zeptat.}
+{207}{}{No, musÃ­me pokraÄovat v hledÃ¡nÃ­ svatÃ©ho granÃ¡tu z Antiochu. PojÄ, Patsy.}
+{300}{}{NÃ¡Å¡e poslÃ¡nÃ­ bylo naplnÄ›no!}
+{301}{}{ArtuÅ¡, k tvÃ½m sluÅ¾bÃ¡m.}

@@ -1,1 +1,1 @@
-{100}{}{Vypadá to, e mapa ukazuje pozici nìjakého tábora nájezdníkù na vıchodì. Pro jistotu si lokaci zapíšeš do Pip-Boye.}
+{100}{}{VypadÃ¡ to, Å¾e mapa ukazuje pozici nÄ›jakÃ©ho tÃ¡bora nÃ¡jezdnÃ­kÅ¯ na vÃ½chodÄ›. Pro jistotu si lokaci zapÃ­Å¡eÅ¡ do Pip-Boye.}

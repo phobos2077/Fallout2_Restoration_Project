@@ -1,8 +1,8 @@
-{100}{}{Vidíš vìznì.}
-{101}{}{Vidíš vìznì. Je to Obèan.}
-{102}{}{To nebyl moc dobrej nápad znovu mluvit s Lynette.}
-{103}{}{Musím se z toho vyspat.}
-{104}{}{Neudìlal jsem toho tolik, aby mi kvùli tomu vzali obèanství.}
-{105}{}{Moore *øíkal*, e mì chytìj...}
-{106}{}{Jsem tu pro svoje vlastní dobro.}
-{107}{}{Tuhle lekci jsem potøeboval.}
+{100}{}{VidÃ­Å¡ vÄ›znÄ›.}
+{101}{}{VidÃ­Å¡ vÄ›znÄ›. Je to ObÄan.}
+{102}{}{To nebyl moc dobrej nÃ¡pad znovu mluvit s Lynette.}
+{103}{}{MusÃ­m se z toho vyspat.}
+{104}{}{NeudÄ›lal jsem toho tolik, aby mi kvÅ¯li tomu vzali obÄanstvÃ­.}
+{105}{}{Moore *Å™Ã­kal*, Å¾e mÄ› chytÄ›j...}
+{106}{}{Jsem tu pro svoje vlastnÃ­ dobro.}
+{107}{}{Tuhle lekci jsem potÅ™eboval.}

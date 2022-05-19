@@ -1,25 +1,25 @@
-{100}{}{Vidíš nebohé, zuboené tìlo.}
-{101}{}{Stále vidíš nebohé a zuboené tìlo.}
-{102}{}{A se díváš sebelíp, opravdu nevidíš nic jiného ne nebohé zuboené tìlo. Proè na nìj poøád zíráš?}
-{103}{}{Pomoz mi! Prosím, neotáèej se ke mnì zády.}
-{104}{}{Mùj pán øíká, e se nemám s nikım vybavovat.}
-{105}{}{Nìco ti povím... mùj pán je opravdovı kretén.}
-{106}{}{Opravdu mi nevadí bıt otrokem. Je to dobrı ivot. Dostanu najíst a nìkdy mì i paní domácí pochválí.}
-{107}{}{Jdi pryè! Nech mì bıt!}
-{108}{}{Ty! Musíš nám pomoct! Musíš svrhnout tyrany!}
-{109}{}{Nemluv na mì! Nechci dostat další vıprask.}
-{110}{}{Otroctví je jenom takovı pojem. Koneckoncù, je èlovìk opravdu volnı?}
-{111}{}{U ne! Prosím, nechci jít do Domu Bolesti!}
-{112}{}{Dr se dál ode mì!}
-{113}{}{Zrùdo! Ty a tobì podobní mi tohle udìlali!}
-{114}{}{Nech staneš pøed Nejvyšším soudem!}
-{115}{}{Budu poslouchat kadé tvoje slovo.}
-{116}{}{Blaze mírnım, nebo oni pøijmou zemi za své dìdictví.}
-{117}{}{Nedìlám potíe. Jsem dobrı otrok.}
-{118}{}{Svoboda! Sladká, poehnaná svoboda!}
-{119}{}{Podívej, co máš na svìdomí! Kvùli tobì mám úplnì znièenı ivot!}
-{120}{}{Nemùu se zastavit. Musím utíkat dál. Nesmím se nechat chytit.}
-{121}{}{Do prdele! Jsem v háji. Teï mì urèitì chytí a zabijou.}
-{122}{}{Kam mám teï jít? Co budu dìlat?}
-{123}{}{Díky moc. Teï zase já proliju krev nìjakého otrokáøe.}
-{124}{}{Nemùu tomu uvìøit. Jsem na svobodì!}
+{100}{}{VidÃ­Å¡ nebohÃ©, zuboÅ¾enÃ© tÄ›lo.}
+{101}{}{StÃ¡le vidÃ­Å¡ nebohÃ© a zuboÅ¾enÃ© tÄ›lo.}
+{102}{}{AÅ¥ se dÃ­vÃ¡Å¡ sebelÃ­p, opravdu nevidÃ­Å¡ nic jinÃ©ho neÅ¾ nebohÃ© zuboÅ¾enÃ© tÄ›lo. ProÄ na nÄ›j poÅ™Ã¡d zÃ­rÃ¡Å¡?}
+{103}{}{Pomoz mi! ProsÃ­m, neotÃ¡Äej se ke mnÄ› zÃ¡dy.}
+{104}{}{MÅ¯j pÃ¡n Å™Ã­kÃ¡, Å¾e se nemÃ¡m s nikÃ½m vybavovat.}
+{105}{}{NÄ›co ti povÃ­m... mÅ¯j pÃ¡n je opravdovÃ½ kretÃ©n.}
+{106}{}{Opravdu mi nevadÃ­ bÃ½t otrokem. Je to dobrÃ½ Å¾ivot. Dostanu najÃ­st a nÄ›kdy mÄ› i panÃ­ domÃ¡cÃ­ pochvÃ¡lÃ­.}
+{107}{}{Jdi pryÄ! Nech mÄ› bÃ½t!}
+{108}{}{Ty! MusÃ­Å¡ nÃ¡m pomoct! MusÃ­Å¡ svrhnout tyrany!}
+{109}{}{Nemluv na mÄ›! Nechci dostat dalÅ¡Ã­ vÃ½prask.}
+{110}{}{OtroctvÃ­ je jenom takovÃ½ pojem. KoneckoncÅ¯, je ÄlovÄ›k opravdu volnÃ½?}
+{111}{}{UÅ¾ ne! ProsÃ­m, nechci jÃ­t do Domu Bolesti!}
+{112}{}{DrÅ¾ se dÃ¡l ode mÄ›!}
+{113}{}{ZrÅ¯do! Ty a tobÄ› podobnÃ­ mi tohle udÄ›lali!}
+{114}{}{NechÅ¥ staneÅ¡ pÅ™ed NejvyÅ¡Å¡Ã­m soudem!}
+{115}{}{Budu poslouchat kaÅ¾dÃ© tvoje slovo.}
+{116}{}{Blaze mÃ­rnÃ½m, neboÅ¥ oni pÅ™ijmou zemi za svÃ© dÄ›dictvÃ­.}
+{117}{}{NedÄ›lÃ¡m potÃ­Å¾e. Jsem dobrÃ½ otrok.}
+{118}{}{Svoboda! SladkÃ¡, poÅ¾ehnanÃ¡ svoboda!}
+{119}{}{PodÃ­vej, co mÃ¡Å¡ na svÄ›domÃ­! KvÅ¯li tobÄ› mÃ¡m ÃºplnÄ› zniÄenÃ½ Å¾ivot!}
+{120}{}{NemÅ¯Å¾u se zastavit. MusÃ­m utÃ­kat dÃ¡l. NesmÃ­m se nechat chytit.}
+{121}{}{Do prdele! Jsem v hÃ¡ji. TeÄ mÄ› urÄitÄ› chytÃ­ a zabijou.}
+{122}{}{Kam mÃ¡m teÄ jÃ­t? Co budu dÄ›lat?}
+{123}{}{DÃ­ky moc. TeÄ zase jÃ¡ proliju krev nÄ›jakÃ©ho otrokÃ¡Å™e.}
+{124}{}{NemÅ¯Å¾u tomu uvÄ›Å™it. Jsem na svobodÄ›!}

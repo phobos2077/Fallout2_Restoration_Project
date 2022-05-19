@@ -1,179 +1,179 @@
-{100}{}{Vidíš Eldridge.}
-{150}{}{Vidíš po zuby ozbrojeného mue, kterı je špinavı od vazelíny. Upøenì hledí na svoji sbírku zbraní na zdi a zasnìnì se usmívá.}
-{151}{}{Vidíš Eldridge. Upøenì hledí na svoji sbírku zbraní na zdi a zasnìnì se usmívá.}
-{200}{}{Gratuluju, hrdino! Vıborná práce!}
-{201}{}{::Vystøelí do vzduchu a zaène øvát a køièet:: Enkláva je v èudu! KONEÈNÁ! VYSTUPOVAT! JUCHÙÙÙÙÙ.}
-{202}{}{::Bim bam, Enkláva je mrtvá, Enkláva je mrtvá... ::}
-{203}{}{Enkláva je dost dobrej dùvod na to, aby mìl kadej obèan právo nosit u sebe zbraò.}
-{204}{}{Pøíštì se tu zastav, a pùjdeš na Enklávu... a já dohlídnu na to, e máš všechnu palebnou sílu,
- kterou budeš POTØEBOVAT.}
-{210}{}{U všech Svatejch! Energo zbroj!}
-{211}{}{Fííííííí-ha. ::Promne si oèi:: To je energo zbroj?!}
-{212}{}{Štípnìte mì nìkdo. To je ENERGO ZBROJ?!}
-{213}{}{No to mi ho teda vyndej a udìlej na nìm uzel! Energo zbroj! V Renu!}
-{214}{}{Neprodáš tu energo zbroj, pøíteli?!! Hej! Je nìkdo doma?!!}
-{220}{}{9mm je PARÁDA, ale .233 zastaví i stádo medvìdù...}
-{221}{}{Teda jestli nìco fakt chci, tak je to Red Ryder vzduchovka.}
-{222}{}{Doufám, e nikdo nezíská turbo plazmovou pušku døív ne já.}
-{223}{}{Zajímalo by mì, kde Salvatoøi berou ty energetickı zbranì...}
-{224}{}{Minulou noc se mi zase zdálo o plazmovejch zbraních...}
-{225}{}{Doufám, e brzo dostanem tu zásilku brokovejch nábojù pro Wrightovy...}
-{226}{}{Doufám, e maj Mordinové dost zlata na zaplacení svı objednávky...}
-{227}{}{Tahle zbraò? Ta udìlá díru do ocelovı zdi jako nic.}
-{228}{}{Ten kluk je génius... i kdy na to vùbec nevypadá...}
-{229}{}{Radši pùjdu vyvenèit ty svoje psy, ne to tu všechno oznaèkujou.}
-{230}{}{Nemytí Vesnièané si dìlaj pìknou zásobu zbraní... je to banda tvrdejch hochù.}
-{231}{}{Chci, aby mì nìkdo vykradl, abych se mohl procvièit ve støelbì.}
-{232}{}{Brzo budu muset vyèistit police...}
-{233}{}{Nemùu se doèkat honu gangù pøíští tejden...}
-{234}{}{Mám tady samopaly, pistole, dynamit, granáty... a stejnì se najdou lidi, co chtìj meèe a kuše.}
-{240}{}{Vítej, hrdino! To byla zatracenì dobrá práce v Enklávì... zachránil jsi nám kùi a za to ti dìkuju. Jmenuju se Eldridge. Chceš si koupit nìjakej kvér?}
-{241}{}{Vítej, mistøe... jmenuju se Eldridge. Chceš si koupit nìjakej kvér?}
-{242}{}{Vítej, poutníku... jmenuju se Eldridge. Chceš si koupit nìjakej kvér?}
-{243}{}{Ernnnnh? Gvér?}
-{244}{}{To záleí na tom, co prodáváš.}
-{250}{}{Vítej zpìt, hrdino! To byla zatracenì dobrá práce v Enklávì... zachránil jsi nám kùi a za to ti dìkuju. }
-{251}{}{Jestli se ti nìco líbí, tak øekni, a já ti dám *speciální* slevu, jo?}
-{252}{}{Jasná páka.}
+{100}{}{VidÃ­Å¡ Eldridge.}
+{150}{}{VidÃ­Å¡ po zuby ozbrojenÃ©ho muÅ¾e, kterÃ½ je Å¡pinavÃ½ od vazelÃ­ny. UpÅ™enÄ› hledÃ­ na svoji sbÃ­rku zbranÃ­ na zdi a zasnÄ›nÄ› se usmÃ­vÃ¡.}
+{151}{}{VidÃ­Å¡ Eldridge. UpÅ™enÄ› hledÃ­ na svoji sbÃ­rku zbranÃ­ na zdi a zasnÄ›nÄ› se usmÃ­vÃ¡.}
+{200}{}{Gratuluju, hrdino! VÃ½bornÃ¡ prÃ¡ce!}
+{201}{}{::VystÅ™elÃ­ do vzduchu a zaÄne Å™vÃ¡t a kÅ™iÄet:: EnklÃ¡va je v Äudu! KONEÄŒNÃ! VYSTUPOVAT! JUCHÅ®Å®Å®Å®Å®.}
+{202}{}{::Bim bam, EnklÃ¡va je mrtvÃ¡, EnklÃ¡va je mrtvÃ¡... ::}
+{203}{}{EnklÃ¡va je dost dobrej dÅ¯vod na to, aby mÄ›l kaÅ¾dej obÄan prÃ¡vo nosit u sebe zbraÅˆ.}
+{204}{}{PÅ™Ã­Å¡tÄ› se tu zastav, aÅ¾ pÅ¯jdeÅ¡ na EnklÃ¡vu... a jÃ¡ dohlÃ­dnu na to, Å¾e mÃ¡Å¡ vÅ¡echnu palebnou sÃ­lu,
+ kterou budeÅ¡ POTÅ˜EBOVAT.}
+{210}{}{U vÅ¡ech Svatejch! Energo zbroj!}
+{211}{}{FÃ­Ã­Ã­Ã­Ã­Ã­Ã­-ha. ::Promne si oÄi:: To je energo zbroj?!}
+{212}{}{Å tÃ­pnÄ›te mÄ› nÄ›kdo. To je ENERGO ZBROJ?!}
+{213}{}{No to mi ho teda vyndej a udÄ›lej na nÄ›m uzel! Energo zbroj! V Renu!}
+{214}{}{NeprodÃ¡Å¡ tu energo zbroj, pÅ™Ã­teli?!! Hej! Je nÄ›kdo doma?!!}
+{220}{}{9mm je PARÃDA, ale .233 zastavÃ­ i stÃ¡do medvÄ›dÅ¯...}
+{221}{}{Teda jestli nÄ›co fakt chci, tak je to Red Ryder vzduchovka.}
+{222}{}{DoufÃ¡m, Å¾e nikdo nezÃ­skÃ¡ turbo plazmovou puÅ¡ku dÅ™Ã­v neÅ¾ jÃ¡.}
+{223}{}{ZajÃ­malo by mÄ›, kde SalvatoÅ™i berou ty energetickÃ½ zbranÄ›...}
+{224}{}{Minulou noc se mi zase zdÃ¡lo o plazmovejch zbranÃ­ch...}
+{225}{}{DoufÃ¡m, Å¾e brzo dostanem tu zÃ¡silku brokovejch nÃ¡bojÅ¯ pro Wrightovy...}
+{226}{}{DoufÃ¡m, Å¾e maj MordinovÃ© dost zlata na zaplacenÃ­ svÃ½ objednÃ¡vky...}
+{227}{}{Tahle zbraÅˆ? Ta udÄ›lÃ¡ dÃ­ru do ocelovÃ½ zdi jako nic.}
+{228}{}{Ten kluk je gÃ©nius... i kdyÅ¾ na to vÅ¯bec nevypadÃ¡...}
+{229}{}{RadÅ¡i pÅ¯jdu vyvenÄit ty svoje psy, neÅ¾ to tu vÅ¡echno oznaÄkujou.}
+{230}{}{NemytÃ­ VesniÄanÃ© si dÄ›laj pÄ›knou zÃ¡sobu zbranÃ­... je to banda tvrdejch hochÅ¯.}
+{231}{}{Chci, aby mÄ› nÄ›kdo vykradl, abych se mohl procviÄit ve stÅ™elbÄ›.}
+{232}{}{Brzo budu muset vyÄistit police...}
+{233}{}{NemÅ¯Å¾u se doÄkat honu gangÅ¯ pÅ™Ã­Å¡tÃ­ tejden...}
+{234}{}{MÃ¡m tady samopaly, pistole, dynamit, granÃ¡ty... a stejnÄ› se najdou lidi, co chtÄ›j meÄe a kuÅ¡e.}
+{240}{}{VÃ­tej, hrdino! To byla zatracenÄ› dobrÃ¡ prÃ¡ce v EnklÃ¡vÄ›... zachrÃ¡nil jsi nÃ¡m kÅ¯Å¾i a za to ti dÄ›kuju. Jmenuju se Eldridge. ChceÅ¡ si koupit nÄ›jakej kvÃ©r?}
+{241}{}{VÃ­tej, mistÅ™e... jmenuju se Eldridge. ChceÅ¡ si koupit nÄ›jakej kvÃ©r?}
+{242}{}{VÃ­tej, poutnÃ­ku... jmenuju se Eldridge. ChceÅ¡ si koupit nÄ›jakej kvÃ©r?}
+{243}{}{Ernnnnh? GvÃ©r?}
+{244}{}{To zÃ¡leÅ¾Ã­ na tom, co prodÃ¡vÃ¡Å¡.}
+{250}{}{VÃ­tej zpÄ›t, hrdino! To byla zatracenÄ› dobrÃ¡ prÃ¡ce v EnklÃ¡vÄ›... zachrÃ¡nil jsi nÃ¡m kÅ¯Å¾i a za to ti dÄ›kuju. }
+{251}{}{Jestli se ti nÄ›co lÃ­bÃ­, tak Å™ekni, a jÃ¡ ti dÃ¡m *speciÃ¡lnÃ­* slevu, jo?}
+{252}{}{JasnÃ¡ pÃ¡ka.}
 {253}{}{Odbelhat se.}
-{254}{}{Skvìlé! Mùu vidìt, co máš na skladì?}
-{255}{}{Nevím, jestli mi mùeš pomoct, ale... hledám takovou speciální vìcièku.}
-{256}{}{Mùj šéf... }
-{257}{}{Jules mi øekl, a se tu zastavím, a budu potøebovat vyzbrojit.}
-{258}{}{Kupují Salvatoøi svoje svìtelné zbranì od tebe?}
-{259}{}{Mám pro tebe tu laserovou pistoli, jak jsi chtìl.}
-{260}{}{Umíš vylepšit nìjaké zbranì?}
-{261}{}{Porozhlédnu se tu pozdìji.}
-{262}{}{Vıbornì... mùu vidìt tvoje speciální zboí?}
-{270}{}{V Loveckıch potøebách najdeš ty nejlepší prostøedky efektivní obrany proti všem srabùm, kterı tì chtìj pøepadnout zezadu. (Zlomyslnì se usmìje.)}
-{272}{}{Zdravím, pøíteli. Co pro tebe mùu udìlat?}
-{273}{}{Jako tøeba?}
-{274}{}{Ty rád stejná vìci jako rád já?}
-{276}{}{Jsi pøesnì èlovìk, kterého hledám. Mùu vidìt, co máš na skladì?}
-{277}{}{Mùu se podívat, co máš?}
-{283}{}{Umíš vylepšit nebo upravit zbranì?}
-{284}{}{Teï nemám zájem, díky.}
-{285}{}{Dnes nic, díky.}
-{286}{}{Mùu vidìt tvoje speciální zboí?}
-{300}{}{Líbí se ti nìco blıskavıho? No tak, nìco tì pøece muselo zaujmout.}
-{301}{}{Eh... jasnì, jasnì. (Prohlédne si tì vánım pohledem.) Pøipomínáš mi mıho otroka, Ala. Chceš vidìt, co mám na skladì, pøíteli?}
+{254}{}{SkvÄ›lÃ©! MÅ¯Å¾u vidÄ›t, co mÃ¡Å¡ na skladÄ›?}
+{255}{}{NevÃ­m, jestli mi mÅ¯Å¾eÅ¡ pomoct, ale... hledÃ¡m takovou speciÃ¡lnÃ­ vÄ›ciÄku.}
+{256}{}{MÅ¯j Å¡Ã©f... }
+{257}{}{Jules mi Å™ekl, aÅ¥ se tu zastavÃ­m, aÅ¾ budu potÅ™ebovat vyzbrojit.}
+{258}{}{KupujÃ­ SalvatoÅ™i svoje svÄ›telnÃ© zbranÄ› od tebe?}
+{259}{}{MÃ¡m pro tebe tu laserovou pistoli, jak jsi chtÄ›l.}
+{260}{}{UmÃ­Å¡ vylepÅ¡it nÄ›jakÃ© zbranÄ›?}
+{261}{}{PorozhlÃ©dnu se tu pozdÄ›ji.}
+{262}{}{VÃ½bornÄ›... mÅ¯Å¾u vidÄ›t tvoje speciÃ¡lnÃ­ zboÅ¾Ã­?}
+{270}{}{V LoveckÃ½ch potÅ™ebÃ¡ch najdeÅ¡ ty nejlepÅ¡Ã­ prostÅ™edky efektivnÃ­ obrany proti vÅ¡em srabÅ¯m, kterÃ½ tÄ› chtÄ›j pÅ™epadnout zezadu. (ZlomyslnÄ› se usmÄ›je.)}
+{272}{}{ZdravÃ­m, pÅ™Ã­teli. Co pro tebe mÅ¯Å¾u udÄ›lat?}
+{273}{}{Jako tÅ™eba?}
+{274}{}{Ty rÃ¡d stejnÃ¡ vÄ›ci jako rÃ¡d jÃ¡?}
+{276}{}{Jsi pÅ™esnÄ› ÄlovÄ›k, kterÃ©ho hledÃ¡m. MÅ¯Å¾u vidÄ›t, co mÃ¡Å¡ na skladÄ›?}
+{277}{}{MÅ¯Å¾u se podÃ­vat, co mÃ¡Å¡?}
+{283}{}{UmÃ­Å¡ vylepÅ¡it nebo upravit zbranÄ›?}
+{284}{}{TeÄ nemÃ¡m zÃ¡jem, dÃ­ky.}
+{285}{}{Dnes nic, dÃ­ky.}
+{286}{}{MÅ¯Å¾u vidÄ›t tvoje speciÃ¡lnÃ­ zboÅ¾Ã­?}
+{300}{}{LÃ­bÃ­ se ti nÄ›co blÃ½skavÃ½ho? No tak, nÄ›co tÄ› pÅ™ece muselo zaujmout.}
+{301}{}{Eh... jasnÄ›, jasnÄ›. (ProhlÃ©dne si tÄ› vÃ¡Å¾nÃ½m pohledem.) PÅ™ipomÃ­nÃ¡Å¡ mi mÃ½ho otroka, Ala. ChceÅ¡ vidÄ›t, co mÃ¡m na skladÄ›, pÅ™Ã­teli?}
 {302}{}{Jo-o.}
-{303}{}{Já chtít nìco speciál.}
+{303}{}{JÃ¡ chtÃ­t nÄ›co speciÃ¡l.}
 {304}{}{Ne-e.}
-{310}{}{Ahá, tak Jules tì za mnou poslal, jo? }
-{311}{}{U bylo na èase, aby sem taky nìkoho poslal... take, co pro tebe mùu udìlat, mistøe?}
-{312}{}{U bylo na èase, aby sem taky nìkoho poslal... omluv mou Francouzštinu. Co pro tebe mùu udìlat, holka?}
-{330}{}{Ne, ne... kdysi jsme úpravy dìlali, ale... (Vypadá utrápenì.) ... no, stala se strašná nehoda... a u to zkrátka nedìláme. Mùu pro tebe ještì nìco udìlat?}
-{331}{}{Tak dobøe. Zajímalo by mì nìco jiného...}
-{340}{}{No to si piš, e jo. Co potøebuješ vylepšit?}
-{341}{}{Svedeš nìco s tìmito pistolemi?}
-{342}{}{Jedna moje puška by snesla jisté úpravy.}
-{343}{}{Svedeš nìco s elektrickım obuškem?}
-{344}{}{U nic. Zajímalo by mì nìco jiného...}
-{345}{}{Vlastnì, dnes nic.}
-{350}{}{(Zahlédne tvùj Magnum.) Mohl bych ti na ten Magnum namontovat rychlonabíjeè za $}
-{351}{}{Ten tvùj Desert Eagle... jestli chceš, rozšíøím mu zásobník za $}
-{352}{}{Pøipevni ten rychlonabíjeè na Magnum.}
-{353}{}{Rozšiø mi zásobník na Desert Eagle.}
-{354}{}{Vlastnì mám na mysli jinou zbraò...}
-{355}{}{Nevadí. Chci se na nìco zeptat...}
-{356}{}{Vlastnì nic z toho. Musím jít.}
-{357}{}{To je na mì moc drahé. Vrátím se, a budu mít víc penìz.}
-{365}{}{(Prohlédne si tvoje pušky a kıvne.) }
-{366}{}{Mùu na tu loveckou pušku pøidat optickı zamìøovaè za $}
-{367}{}{Ta tvoje útoèná puška... rozšíøím ti na ni zásobník za $}
-{368}{}{Mám infrahled, kterej ti mùu namontovat na tvùj FN FAL za $}
-{369}{}{Tak dobøe... pøipevni mi optickı zamìøovaè na loveckou pušku Colt.}
-{370}{}{Zvìtši kapacitu zásobníku u mé útoèné pušky AK-112.}
-{371}{}{Pøipevni na FN FAL ten noktovizor.}
-{385}{}{Chceš pøidat šávu tomu elektrickımu obušku? Nadopuju ti ho za $}
-{386}{}{Jasnì.}
-{395}{}{(Eldridge si vezme vìc do ruky a prohlédne si ji svım zkušenım okem.) Tak jo... chvíli poèkej a já se na to podívám. (Zmizí do zadní èásti budovy.)}
-{396}{}{Dobøe.}
-{400}{}{(Èekáš...)}
-{401}{}{Èekat...}
-{405}{}{(A ještì chvilku...)}
+{310}{}{AhÃ¡, tak Jules tÄ› za mnou poslal, jo? }
+{311}{}{UÅ¾ bylo na Äase, aby sem taky nÄ›koho poslal... takÅ¾e, co pro tebe mÅ¯Å¾u udÄ›lat, mistÅ™e?}
+{312}{}{UÅ¾ bylo na Äase, aby sem taky nÄ›koho poslal... omluv mou FrancouzÅ¡tinu. Co pro tebe mÅ¯Å¾u udÄ›lat, holka?}
+{330}{}{Ne, ne... kdysi jsme Ãºpravy dÄ›lali, ale... (VypadÃ¡ utrÃ¡penÄ›.) ... no, stala se straÅ¡nÃ¡ nehoda... a uÅ¾ to zkrÃ¡tka nedÄ›lÃ¡me. MÅ¯Å¾u pro tebe jeÅ¡tÄ› nÄ›co udÄ›lat?}
+{331}{}{Tak dobÅ™e. ZajÃ­malo by mÄ› nÄ›co jinÃ©ho...}
+{340}{}{No to si piÅ¡, Å¾e jo. Co potÅ™ebujeÅ¡ vylepÅ¡it?}
+{341}{}{SvedeÅ¡ nÄ›co s tÄ›mito pistolemi?}
+{342}{}{Jedna moje puÅ¡ka by snesla jistÃ© Ãºpravy.}
+{343}{}{SvedeÅ¡ nÄ›co s elektrickÃ½m obuÅ¡kem?}
+{344}{}{UÅ¾ nic. ZajÃ­malo by mÄ› nÄ›co jinÃ©ho...}
+{345}{}{VlastnÄ›, dnes nic.}
+{350}{}{(ZahlÃ©dne tvÅ¯j Magnum.) Mohl bych ti na ten Magnum namontovat rychlonabÃ­jeÄ za $}
+{351}{}{Ten tvÅ¯j Desert Eagle... jestli chceÅ¡, rozÅ¡Ã­Å™Ã­m mu zÃ¡sobnÃ­k za $}
+{352}{}{PÅ™ipevni ten rychlonabÃ­jeÄ na Magnum.}
+{353}{}{RozÅ¡iÅ™ mi zÃ¡sobnÃ­k na Desert Eagle.}
+{354}{}{VlastnÄ› mÃ¡m na mysli jinou zbraÅˆ...}
+{355}{}{NevadÃ­. Chci se na nÄ›co zeptat...}
+{356}{}{VlastnÄ› nic z toho. MusÃ­m jÃ­t.}
+{357}{}{To je na mÄ› moc drahÃ©. VrÃ¡tÃ­m se, aÅ¾ budu mÃ­t vÃ­c penÄ›z.}
+{365}{}{(ProhlÃ©dne si tvoje puÅ¡ky a kÃ½vne.) }
+{366}{}{MÅ¯Å¾u na tu loveckou puÅ¡ku pÅ™idat optickÃ½ zamÄ›Å™ovaÄ za $}
+{367}{}{Ta tvoje ÃºtoÄnÃ¡ puÅ¡ka... rozÅ¡Ã­Å™Ã­m ti na ni zÃ¡sobnÃ­k za $}
+{368}{}{MÃ¡m infrahled, kterej ti mÅ¯Å¾u namontovat na tvÅ¯j FN FAL za $}
+{369}{}{Tak dobÅ™e... pÅ™ipevni mi optickÃ½ zamÄ›Å™ovaÄ na loveckou puÅ¡ku Colt.}
+{370}{}{ZvÄ›tÅ¡i kapacitu zÃ¡sobnÃ­ku u mÃ© ÃºtoÄnÃ© puÅ¡ky AK-112.}
+{371}{}{PÅ™ipevni na FN FAL ten noktovizor.}
+{385}{}{ChceÅ¡ pÅ™idat Å¡Å¥Ã¡vu tomu elektrickÃ½mu obuÅ¡ku? Nadopuju ti ho za $}
+{386}{}{JasnÄ›.}
+{395}{}{(Eldridge si vezme vÄ›c do ruky a prohlÃ©dne si ji svÃ½m zkuÅ¡enÃ½m okem.) Tak jo... chvÃ­li poÄkej a jÃ¡ se na to podÃ­vÃ¡m. (ZmizÃ­ do zadnÃ­ ÄÃ¡sti budovy.)}
+{396}{}{DobÅ™e.}
+{400}{}{(ÄŒekÃ¡Å¡...)}
+{401}{}{ÄŒekat...}
+{405}{}{(A jeÅ¡tÄ› chvilku...)}
 {406}{}{Dum de dum de dum...}
-{410}{}{(U jsi témìø na odchodu, kdy v tom se Eldridge vrátí.) Promiò mi to zdrení... tady to máš. Tohle ti dá vıhodu nad všema hajzlama, kterı se k tobì budou chtít pøiblíit.}
-{411}{}{Díky. Mohl bys vylepšit nìkterou z mıch jinıch zbraní?}
-{412}{}{Díky. Potøebuju ještì nìco jiného...}
-{413}{}{Díky. Hned to pùjdu vyzkoušet.}
-{420}{}{Aha... vybíravı zákazník, co? No, èas od èasu skrz mìsto projde cennı zboí... podívej se tøeba na tohle. (Drí nìco... zvláštního.) Ryzí pøedváleèná technika. No není to nìco?}
-{423}{}{Eh... "nìco" to opravdu je. Mùu se podívat?}
-{424}{}{To urèitì je, ale zajímalo by mì nìco jiného...}
-{425}{}{Nemám zájem. Kadopádnì díky.}
-{430}{}{(Je to hezká plastová deska s dírami a kovovımi èárami. Jsou tam také napsané jakési legraèní symboly. Pøipomíná ti to mechanickou sušenku Pop-Tart... a u se ti zaèínají sbíhat sliny.)}
-{431}{}{(Vypadá to jako obvod s tištìnımi spoji. Je trochu zaprášenı, ale jinak v celkem slušném stavu. Vypadá to jako souèást... nìèeho. Na destièce je napsáno: 'Vault Tec ovládací hlasovı modul.')}
-{432}{}{(Je to spletitı obvod na kuprexidové desce. Je do nìj zasazen pamìovı èip a po stranách má nìkolik portù slouících k vstupu a vıstupu rùznıch zaøízení. Na desce je napsáno: 'Vault Tec ovládací hlasovı modul.')}
-{433}{}{Já chtít hranatá dobrota.}
-{434}{}{Já chtít nìco jinıho.}
-{435}{}{Já chtít jít pryè.}
-{436}{}{"Vault Tec?" Tohle *musí* bıt dùleité. Kolik za to chceš?}
-{437}{}{No sláva... kolik chceš za ten modul?}
-{438}{}{Ne, díky. Potøebuju ještì nìco jiného...}
-{439}{}{Dnes ne, díky.}
-{450}{}{Tøi tisíce. Ber, nebo nech bejt.}
-{451}{}{Tak naposledy: tøi tisíce. Ber, nebo nech bejt.}
-{452}{}{Jasnı páka!}
-{454}{}{[Zaèít ho dusit a vzít si tu mechanickou sušenku Pop-Tart]}
-{455}{}{[Nechat to bıt]}
-{457}{}{Eh, to je trochu drahé. Co takhle... 1500?}
-{458}{}{Ne, díky. Potøebuju ještì nìco jiného...}
+{410}{}{(UÅ¾ jsi tÃ©mÄ›Å™ na odchodu, kdyÅ¾ v tom se Eldridge vrÃ¡tÃ­.) PromiÅˆ mi to zdrÅ¾enÃ­... tady to mÃ¡Å¡. Tohle ti dÃ¡ vÃ½hodu nad vÅ¡ema hajzlama, kterÃ½ se k tobÄ› budou chtÃ­t pÅ™iblÃ­Å¾it.}
+{411}{}{DÃ­ky. Mohl bys vylepÅ¡it nÄ›kterou z mÃ½ch jinÃ½ch zbranÃ­?}
+{412}{}{DÃ­ky. PotÅ™ebuju jeÅ¡tÄ› nÄ›co jinÃ©ho...}
+{413}{}{DÃ­ky. Hned to pÅ¯jdu vyzkouÅ¡et.}
+{420}{}{Aha... vybÃ­ravÃ½ zÃ¡kaznÃ­k, co? No, Äas od Äasu skrz mÄ›sto projde cennÃ½ zboÅ¾Ã­... podÃ­vej se tÅ™eba na tohle. (DrÅ¾Ã­ nÄ›co... zvlÃ¡Å¡tnÃ­ho.) RyzÃ­ pÅ™edvÃ¡leÄnÃ¡ technika. No nenÃ­ to nÄ›co?}
+{423}{}{Eh... "nÄ›co" to opravdu je. MÅ¯Å¾u se podÃ­vat?}
+{424}{}{To urÄitÄ› je, ale zajÃ­malo by mÄ› nÄ›co jinÃ©ho...}
+{425}{}{NemÃ¡m zÃ¡jem. KaÅ¾dopÃ¡dnÄ› dÃ­ky.}
+{430}{}{(Je to hezkÃ¡ plastovÃ¡ deska s dÃ­rami a kovovÃ½mi ÄÃ¡rami. Jsou tam takÃ© napsanÃ© jakÃ©si legraÄnÃ­ symboly. PÅ™ipomÃ­nÃ¡ ti to mechanickou suÅ¡enku Pop-Tart... a uÅ¾ se ti zaÄÃ­najÃ­ sbÃ­hat sliny.)}
+{431}{}{(VypadÃ¡ to jako obvod s tiÅ¡tÄ›nÃ½mi spoji. Je trochu zaprÃ¡Å¡enÃ½, ale jinak v celkem sluÅ¡nÃ©m stavu. VypadÃ¡ to jako souÄÃ¡st... nÄ›Äeho. Na destiÄce je napsÃ¡no: 'Vault Tec ovlÃ¡dacÃ­ hlasovÃ½ modul.')}
+{432}{}{(Je to spletitÃ½ obvod na kuprexidovÃ© desce. Je do nÄ›j zasazen pamÄ›Å¥ovÃ½ Äip a po stranÃ¡ch mÃ¡ nÄ›kolik portÅ¯ slouÅ¾Ã­cÃ­ch k vstupu a vÃ½stupu rÅ¯znÃ½ch zaÅ™Ã­zenÃ­. Na desce je napsÃ¡no: 'Vault Tec ovlÃ¡dacÃ­ hlasovÃ½ modul.')}
+{433}{}{JÃ¡ chtÃ­t hranatÃ¡ dobrota.}
+{434}{}{JÃ¡ chtÃ­t nÄ›co jinÃ½ho.}
+{435}{}{JÃ¡ chtÃ­t jÃ­t pryÄ.}
+{436}{}{"Vault Tec?" Tohle *musÃ­* bÃ½t dÅ¯leÅ¾itÃ©. Kolik za to chceÅ¡?}
+{437}{}{No slÃ¡va... kolik chceÅ¡ za ten modul?}
+{438}{}{Ne, dÃ­ky. PotÅ™ebuju jeÅ¡tÄ› nÄ›co jinÃ©ho...}
+{439}{}{Dnes ne, dÃ­ky.}
+{450}{}{TÅ™i tisÃ­ce. Ber, nebo nech bejt.}
+{451}{}{Tak naposledy: tÅ™i tisÃ­ce. Ber, nebo nech bejt.}
+{452}{}{JasnÃ½ pÃ¡ka!}
+{454}{}{[ZaÄÃ­t ho dusit a vzÃ­t si tu mechanickou suÅ¡enku Pop-Tart]}
+{455}{}{[Nechat to bÃ½t]}
+{457}{}{Eh, to je trochu drahÃ©. Co takhle... 1500?}
+{458}{}{Ne, dÃ­ky. PotÅ™ebuju jeÅ¡tÄ› nÄ›co jinÃ©ho...}
 {459}{}{Nech si to.}
-{470}{}{$2500. A to je moje poslední nabídka.}
-{471}{}{Dobøe, dobøe. Tady máš.}
-{472}{}{Tak na to zapomeò. Potøebuju ještì nìco jiného...}
-{473}{}{Ne, díky. Zatím.}
-{474}{}{To je na mì pøíliš drahé. Promluvíme si o tom, a budu mít víc penìz.}
-{480}{}{(Usmìje se a mne si ruce, kdy poloíš peníze na stùl.) Fajn, tady to máš. Ještì nìco? }
-{481}{}{(Chvíli o tom pøemıšlí, prohlédne si tì a poté kıvne.) No tak jo... dám ti to skoro zadarmo, tady máš. (Pøedá ti modul a vezme si peníze.) }
-{482}{}{Ještì nìco?}
-{485}{}{Jo, ještì by se mi nìco hodilo...}
-{486}{}{Dnes u nic, díky.}
-{495}{}{(Zamrká pøekvapením a poté se rozesmìje.) Haha! Ne, ne... ty zbranì jsou fakt nìco, co? Jasnì, e bych CHTÌL nìjakou získat... vyzkoušet dostøel, sílu, kadenci... (Podívá se do prázdna a poté povzdechne.)}
-{496}{}{Co kdy ti jednu pøinesu?}
-{497}{}{Dobøe, poohlédnu se ti po nìjaké. Poslyš, potøebuju ještì nìco jiného...}
-{498}{}{No nic. Za zeptání nic nedám. Díky, Eldridgi.}
-{505}{}{(Zamhouøí na tebe, jako by pøemıšlel, jestli ti má vìøit.) No, tak ji urèitì neodmítnu... pokud ji získáš potají, tak ti za ni zaplatím... (Zamraèí se.) ...v pøípadì, e ji OPRAVDU získáš potají.}
-{506}{}{ádnı problém... jednu mám u sebe. Tady ji máš.}
-{507}{}{Udìlám to. Ale ještì pøed tím se chci zeptat...}
-{508}{}{Tak na to zapomeò. Moná mi dokáeš pomoct s nìèím jinım...}
-{509}{}{Dobøe. Jednu pro tebe èmajznu a pak se vrátím.}
-{510}{}{To nemùu slíbit... vypadá to, e já a neštìstí cestujeme spolu. Uvidíme se pozdìji, Eldridgi.}
-{520}{}{No to mì poser záda! }
-{521}{}{No to mì podr! A jeliko drím slovo, tak tady máš odmìnu... }
-{522}{}{(Dá ti hrst penìz a vezme si od tebe pistoli.) Sákryš... ta vypadá ale divnì, co? (Prohlíí si hlaveò.) Hmmm...}
-{523}{}{Potøebuju ještì nìco jiného...}
-{524}{}{Bylo mi potìšením s tebou obchodovat, Eldridgi. Uij si ji.}
-{530}{}{(Eldridge si tì prohlédne od hlavy k patì a poté zaène mluvit zdvoøilejším tónem.) Ale jistì, samozøejmì. Dovol, abych ti ukázal naše speciální zboí... vše se slevou, pochopitelnì.}
-{532}{}{Vlastnì potøebuju nìco jiného...}
-{533}{}{Zapomeò na to. Ještì se vrátím.}
-{545}{}{Zavøete ty drky èoklové, slyšíte?}
-{546}{}{Sklapnìte, vy uštìkanı psiska!}
-{547}{}{Vy noèní bestie... drte huby!}
-{548}{}{Packarde! Bucku! Missy! Radši sklapnìte, nebo tam na vás vlítnu!}
-{549}{}{Ještì jednou nìkdo ZAŠTÌKÁ a vlítnu tam na vás!}
-{550}{}{Zatracenı psi!}
-{560}{}{Snad si nemyslíš, e jsem slepej?}
-{561}{}{Dej ty pracky od tìch dveøí!}
-{562}{}{Nech ty dveøe na pokoji.}
-{563}{}{Dotkni se tìch dveøí a bude to ta poslední vìc, kterı se kdy dotkneš.}
-{564}{}{Poslední èlovìk, kterej se dotkl tìch dveøí, je teï zakopanej v Golgotì. U na nì nesahej.}
-{575}{}{Tam nemáš co dìlat! Vypadni! Vypadni odtamtud!}
-{576}{}{Tam vzadu nemáš co dìlat! Vypadni!}
-{577}{}{Vypadni odtamtud, nebo tì nakrmím olovem!}
-{578}{}{Ještì chvilku tam zùstaò a procvièím si støelbu na pohyblivej cíl!}
-{600}{}{Máme zavøeno, chlapèe... }
-{601}{}{Máme zavøeno, holka... }
-{610}{}{Radši odsud hodnì rychle vypadni, nebo tì rozstøílím na cucky.}
-{700}{}{Zatracenı psi! Jdu si lehnout.}
-{701}{}{Pitomı psi! Zejtra ráno vás pìknì uspím.}
-{702}{}{Mùete u sklapnout, vy zatracenı psi? Nikdo pøece není tak blbej, aby se vloupal do obchodu se zbranìma!}
-{800}{}{Podaøilo se ti Eldridgemu doruèit laserovou pistoli.}
-{801}{}{Hele, vypadám snad jako nìkdo, kdo umí èarovat? Nejdøív potøebuješ bouchaèku, jestli chceš nìco vylepšit. Take teï vypadni a vra se, a nìjakou budeš mít... to jsou lidi!}
-{802}{}{Vra se, a budeš mít peníze.}
-{1340}{}{No to si piš, e jo. (Podívá se na tvoje vybavení.) Ale vypadá to, e nemáš nic, s èím bych si mohl pohrát. Pøines mi nìjakı neposkvrnìnı... eh, "normální" pistole nebo pušky a já se na nì mrknu.}
-{1345}{}{Tak dobøe. Zajímalo by mì nìco jiného...}
-{1346}{}{Dobøe, pøinesu. Sbohem.}
-{5256}{}{...mi øekl, a se zastavím a e mì "vybavíte."}
+{470}{}{$2500. A to je moje poslednÃ­ nabÃ­dka.}
+{471}{}{DobÅ™e, dobÅ™e. Tady mÃ¡Å¡.}
+{472}{}{Tak na to zapomeÅˆ. PotÅ™ebuju jeÅ¡tÄ› nÄ›co jinÃ©ho...}
+{473}{}{Ne, dÃ­ky. ZatÃ­m.}
+{474}{}{To je na mÄ› pÅ™Ã­liÅ¡ drahÃ©. PromluvÃ­me si o tom, aÅ¾ budu mÃ­t vÃ­c penÄ›z.}
+{480}{}{(UsmÄ›je se a mne si ruce, kdyÅ¾ poloÅ¾Ã­Å¡ penÃ­ze na stÅ¯l.) Fajn, tady to mÃ¡Å¡. JeÅ¡tÄ› nÄ›co? }
+{481}{}{(ChvÃ­li o tom pÅ™emÃ½Å¡lÃ­, prohlÃ©dne si tÄ› a potÃ© kÃ½vne.) No tak jo... dÃ¡m ti to skoro zadarmo, tady mÃ¡Å¡. (PÅ™edÃ¡ ti modul a vezme si penÃ­ze.) }
+{482}{}{JeÅ¡tÄ› nÄ›co?}
+{485}{}{Jo, jeÅ¡tÄ› by se mi nÄ›co hodilo...}
+{486}{}{Dnes uÅ¾ nic, dÃ­ky.}
+{495}{}{(ZamrkÃ¡ pÅ™ekvapenÃ­m a potÃ© se rozesmÄ›je.) Haha! Ne, ne... ty zbranÄ› jsou fakt nÄ›co, co? JasnÄ›, Å¾e bych CHTÄšL nÄ›jakou zÃ­skat... vyzkouÅ¡et dostÅ™el, sÃ­lu, kadenci... (PodÃ­vÃ¡ se do prÃ¡zdna a potÃ© povzdechne.)}
+{496}{}{Co kdyÅ¾ ti jednu pÅ™inesu?}
+{497}{}{DobÅ™e, poohlÃ©dnu se ti po nÄ›jakÃ©. PoslyÅ¡, potÅ™ebuju jeÅ¡tÄ› nÄ›co jinÃ©ho...}
+{498}{}{No nic. Za zeptÃ¡nÃ­ nic nedÃ¡m. DÃ­ky, Eldridgi.}
+{505}{}{(ZamhouÅ™Ã­ na tebe, jako by pÅ™emÃ½Å¡lel, jestli ti mÃ¡ vÄ›Å™it.) No, tak ji urÄitÄ› neodmÃ­tnu... pokud ji zÃ­skÃ¡Å¡ potajÃ­, tak ti za ni zaplatÃ­m... (ZamraÄÃ­ se.) ...v pÅ™Ã­padÄ›, Å¾e ji OPRAVDU zÃ­skÃ¡Å¡ potajÃ­.}
+{506}{}{Å½Ã¡dnÃ½ problÃ©m... jednu mÃ¡m u sebe. Tady ji mÃ¡Å¡.}
+{507}{}{UdÄ›lÃ¡m to. Ale jeÅ¡tÄ› pÅ™ed tÃ­m se chci zeptat...}
+{508}{}{Tak na to zapomeÅˆ. MoÅ¾nÃ¡ mi dokÃ¡Å¾eÅ¡ pomoct s nÄ›ÄÃ­m jinÃ½m...}
+{509}{}{DobÅ™e. Jednu pro tebe Ämajznu a pak se vrÃ¡tÃ­m.}
+{510}{}{To nemÅ¯Å¾u slÃ­bit... vypadÃ¡ to, Å¾e jÃ¡ a neÅ¡tÄ›stÃ­ cestujeme spolu. UvidÃ­me se pozdÄ›ji, Eldridgi.}
+{520}{}{No to mÄ› poser zÃ¡da! }
+{521}{}{No to mÄ› podrÅ¾! A jelikoÅ¾ drÅ¾Ã­m slovo, tak tady mÃ¡Å¡ odmÄ›nu... }
+{522}{}{(DÃ¡ ti hrst penÄ›z a vezme si od tebe pistoli.) SÃ¡kryÅ¡... ta vypadÃ¡ ale divnÄ›, co? (ProhlÃ­Å¾Ã­ si hlaveÅˆ.) Hmmm...}
+{523}{}{PotÅ™ebuju jeÅ¡tÄ› nÄ›co jinÃ©ho...}
+{524}{}{Bylo mi potÄ›Å¡enÃ­m s tebou obchodovat, Eldridgi. UÅ¾ij si ji.}
+{530}{}{(Eldridge si tÄ› prohlÃ©dne od hlavy k patÄ› a potÃ© zaÄne mluvit zdvoÅ™ilejÅ¡Ã­m tÃ³nem.) Ale jistÄ›, samozÅ™ejmÄ›. Dovol, abych ti ukÃ¡zal naÅ¡e speciÃ¡lnÃ­ zboÅ¾Ã­... vÅ¡e se slevou, pochopitelnÄ›.}
+{532}{}{VlastnÄ› potÅ™ebuju nÄ›co jinÃ©ho...}
+{533}{}{ZapomeÅˆ na to. JeÅ¡tÄ› se vrÃ¡tÃ­m.}
+{545}{}{ZavÅ™ete ty drÅ¾ky ÄoklovÃ©, slyÅ¡Ã­te?}
+{546}{}{SklapnÄ›te, vy uÅ¡tÄ›kanÃ½ psiska!}
+{547}{}{Vy noÄnÃ­ bestie... drÅ¾te huby!}
+{548}{}{Packarde! Bucku! Missy! RadÅ¡i sklapnÄ›te, nebo tam na vÃ¡s vlÃ­tnu!}
+{549}{}{JeÅ¡tÄ› jednou nÄ›kdo ZAÅ TÄšKÃ a vlÃ­tnu tam na vÃ¡s!}
+{550}{}{ZatracenÃ½ psi!}
+{560}{}{Snad si nemyslÃ­Å¡, Å¾e jsem slepej?}
+{561}{}{Dej ty pracky od tÄ›ch dveÅ™Ã­!}
+{562}{}{Nech ty dveÅ™e na pokoji.}
+{563}{}{Dotkni se tÄ›ch dveÅ™Ã­ a bude to ta poslednÃ­ vÄ›c, kterÃ½ se kdy dotkneÅ¡.}
+{564}{}{PoslednÃ­ ÄlovÄ›k, kterej se dotkl tÄ›ch dveÅ™Ã­, je teÄ zakopanej v GolgotÄ›. UÅ¾ na nÄ› nesahej.}
+{575}{}{Tam nemÃ¡Å¡ co dÄ›lat! Vypadni! Vypadni odtamtud!}
+{576}{}{Tam vzadu nemÃ¡Å¡ co dÄ›lat! Vypadni!}
+{577}{}{Vypadni odtamtud, nebo tÄ› nakrmÃ­m olovem!}
+{578}{}{JeÅ¡tÄ› chvilku tam zÅ¯staÅˆ a procviÄÃ­m si stÅ™elbu na pohyblivej cÃ­l!}
+{600}{}{MÃ¡me zavÅ™eno, chlapÄe... }
+{601}{}{MÃ¡me zavÅ™eno, holka... }
+{610}{}{RadÅ¡i odsud hodnÄ› rychle vypadni, nebo tÄ› rozstÅ™Ã­lÃ­m na cucky.}
+{700}{}{ZatracenÃ½ psi! Jdu si lehnout.}
+{701}{}{PitomÃ½ psi! Zejtra rÃ¡no vÃ¡s pÄ›knÄ› uspÃ­m.}
+{702}{}{MÅ¯Å¾ete uÅ¾ sklapnout, vy zatracenÃ½ psi? Nikdo pÅ™ece nenÃ­ tak blbej, aby se vloupal do obchodu se zbranÄ›ma!}
+{800}{}{PodaÅ™ilo se ti Eldridgemu doruÄit laserovou pistoli.}
+{801}{}{Hele, vypadÃ¡m snad jako nÄ›kdo, kdo umÃ­ Äarovat? NejdÅ™Ã­v potÅ™ebujeÅ¡ bouchaÄku, jestli chceÅ¡ nÄ›co vylepÅ¡it. TakÅ¾e teÄ vypadni a vraÅ¥ se, aÅ¾ nÄ›jakou budeÅ¡ mÃ­t... to jsou lidi!}
+{802}{}{VraÅ¥ se, aÅ¾ budeÅ¡ mÃ­t penÃ­ze.}
+{1340}{}{No to si piÅ¡, Å¾e jo. (PodÃ­vÃ¡ se na tvoje vybavenÃ­.) Ale vypadÃ¡ to, Å¾e nemÃ¡Å¡ nic, s ÄÃ­m bych si mohl pohrÃ¡t. PÅ™ines mi nÄ›jakÃ½ neposkvrnÄ›nÃ½... eh, "normÃ¡lnÃ­" pistole nebo puÅ¡ky a jÃ¡ se na nÄ› mrknu.}
+{1345}{}{Tak dobÅ™e. ZajÃ­malo by mÄ› nÄ›co jinÃ©ho...}
+{1346}{}{DobÅ™e, pÅ™inesu. Sbohem.}
+{5256}{}{...mi Å™ekl, aÅ¥ se zastavÃ­m a Å¾e mÄ› "vybavÃ­te."}
 {5500}{}{.}

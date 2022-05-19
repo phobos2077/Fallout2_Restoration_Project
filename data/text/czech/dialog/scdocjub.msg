@@ -1,147 +1,147 @@
-{100}{}{Vidíš starého, pøátelsky vypadajícího chlapíka.}
-{101}{}{Vidíš doktora Jubilee.}
-{102}{}{Je to starı mu s bílou bradkou a lehce prázdnım pohledem.}
-{103}{}{Jsem doktor Jubilee. Co se dìje, mladı mui?}
-{104}{}{Co se dìje, mladı mui?}
-{105}{}{Já zranìn.}
-{106}{}{Potøebuju doktora.}
-{107}{}{Nemùete si vzít nìjakı pilulky nebo nìco a pøestat mì otravovat s takovıma blbostma?}
-{108}{}{Ale prdlajz, vdy sotva krvácíte.}
-{109}{}{No nevím. Myslím, e tu nohu nedokáu zachránit. Moná ji budu muset amputovat.}
-{110}{}{To si dìláte srandu!}
+{100}{}{VidÃ­Å¡ starÃ©ho, pÅ™Ã¡telsky vypadajÃ­cÃ­ho chlapÃ­ka.}
+{101}{}{VidÃ­Å¡ doktora Jubilee.}
+{102}{}{Je to starÃ½ muÅ¾ s bÃ­lou bradkou a lehce prÃ¡zdnÃ½m pohledem.}
+{103}{}{Jsem doktor Jubilee. Co se dÄ›je, mladÃ½ muÅ¾i?}
+{104}{}{Co se dÄ›je, mladÃ½ muÅ¾i?}
+{105}{}{JÃ¡ zranÄ›n.}
+{106}{}{PotÅ™ebuju doktora.}
+{107}{}{NemÅ¯Å¾ete si vzÃ­t nÄ›jakÃ½ pilulky nebo nÄ›co a pÅ™estat mÄ› otravovat s takovÃ½ma blbostma?}
+{108}{}{Ale prdlajz, vÅ¾dyÅ¥ sotva krvÃ¡cÃ­te.}
+{109}{}{No nevÃ­m. MyslÃ­m, Å¾e tu nohu nedokÃ¡Å¾u zachrÃ¡nit. MoÅ¾nÃ¡ ji budu muset amputovat.}
+{110}{}{To si dÄ›lÃ¡te srandu!}
 {111}{}{Haha.}
 {112}{}{Tak a je to, synku.}
 {113}{}{Znova.}
-{114}{}{Díky, doktore. Moná byste mi mohl ještì zodpovìdìt pár otázek.}
+{114}{}{DÃ­ky, doktore. MoÅ¾nÃ¡ byste mi mohl jeÅ¡tÄ› zodpovÄ›dÄ›t pÃ¡r otÃ¡zek.}
 {115}{}{Sbohem.}
-{116}{}{Bude vás to stát $50.}
-{117}{}{Prostì mì uzdravte.}
-{118}{}{Mizím odsud.}
-{119}{}{Ty dìlat líp.}
-{120}{}{Já teï jít.}
-{121}{}{Ne. Nikdy neertuju. Radši tu nohu uøíznu døív, ne se do rány dostane snì.}
-{122}{}{V ádném pøípadì se nebude nic øezat, rozumíte?}
-{123}{}{Tak a dost, odcházím.}
-{124}{}{Dobrá, ale jestli to zaène hnisat, tak to na mì nesvádìjte.}
-{125}{}{Nedìlám to pro charitu. Budete muset sehnat nìjaké peníze, ne pro vás nìco udìlám.}
-{126}{}{Take, co pro vás mùu udìlat?}
+{116}{}{Bude vÃ¡s to stÃ¡t $50.}
+{117}{}{ProstÄ› mÄ› uzdravte.}
+{118}{}{MizÃ­m odsud.}
+{119}{}{Ty dÄ›lat lÃ­p.}
+{120}{}{JÃ¡ teÄ jÃ­t.}
+{121}{}{Ne. Nikdy neÅ¾ertuju. RadÅ¡i tu nohu uÅ™Ã­znu dÅ™Ã­v, neÅ¾ se do rÃ¡ny dostane snÄ›Å¥.}
+{122}{}{V Å¾Ã¡dnÃ©m pÅ™Ã­padÄ› se nebude nic Å™ezat, rozumÃ­te?}
+{123}{}{Tak a dost, odchÃ¡zÃ­m.}
+{124}{}{DobrÃ¡, ale jestli to zaÄne hnisat, tak to na mÄ› nesvÃ¡dÄ›jte.}
+{125}{}{NedÄ›lÃ¡m to pro charitu. Budete muset sehnat nÄ›jakÃ© penÃ­ze, neÅ¾ pro vÃ¡s nÄ›co udÄ›lÃ¡m.}
+{126}{}{TakÅ¾e, co pro vÃ¡s mÅ¯Å¾u udÄ›lat?}
 {127}{}{Mluvte.}
 {128}{}{Vault 13?}
-{129}{}{Nevíte, kde najdu Vault 13?}
-{130}{}{Prı na tom pan Westin není dobøe. Je to pravda? Bojím se, aby se mu nìco nestalo. Dluí mi peníze.}
-{131}{}{Slaneèek tvrdí, e jste mu ukradl mapu. O co jde?}
-{132}{}{Hledám práci. Nevíte o nìèem?}
-{133}{}{Doktore, nevíte nìco o skupinì, která bojuje s tìmi zlımi otrokáøi?}
-{134}{}{Nemusíte se obávat, synku. Pokud nebude svùj organismus pøetìovat, tak nás pravdìpodobnì všechny pøeije. Samozøejmì by mì ale musel nìkdy poslouchat nebo brát své léky.}
-{135}{}{To je dobrá zpráva. Chci se ještì na nìco zeptat.}
-{136}{}{Díky, doktore.}
-{137}{}{Ten starej opilec! Jediná vìc, kterou od nìj mám, je obraz s "Velvet Elvii", místo dluhu.}
-{138}{}{Velvet Elvii? Mùu ho vidìt?}
-{139}{}{Náhodou nevypadá jako mapa, e? No nic, zamìstnám váš mozek nìèím jinım.}
-{140}{}{No, u musím jít.}
-{141}{}{O tom jsem neslyšel od té doby, co sem pøinesli starıho Slaneèka. S úpalem. Leel v horeèkách tøi dny a celou dobu blouznil o tom, jak našel Vault 13, svoji mateøskou ílu.}
-{142}{}{Mateøskou ílu?}
-{143}{}{Take kde to je?}
+{129}{}{NevÃ­te, kde najdu Vault 13?}
+{130}{}{PrÃ½ na tom pan Westin nenÃ­ dobÅ™e. Je to pravda? BojÃ­m se, aby se mu nÄ›co nestalo. DluÅ¾Ã­ mi penÃ­ze.}
+{131}{}{SlaneÄek tvrdÃ­, Å¾e jste mu ukradl mapu. O co jde?}
+{132}{}{HledÃ¡m prÃ¡ci. NevÃ­te o nÄ›Äem?}
+{133}{}{Doktore, nevÃ­te nÄ›co o skupinÄ›, kterÃ¡ bojuje s tÄ›mi zlÃ½mi otrokÃ¡Å™i?}
+{134}{}{NemusÃ­te se obÃ¡vat, synku. Pokud nebude svÅ¯j organismus pÅ™etÄ›Å¾ovat, tak nÃ¡s pravdÄ›podobnÄ› vÅ¡echny pÅ™eÅ¾ije. SamozÅ™ejmÄ› by mÄ› ale musel nÄ›kdy poslouchat nebo brÃ¡t svÃ© lÃ©ky.}
+{135}{}{To je dobrÃ¡ zprÃ¡va. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{136}{}{DÃ­ky, doktore.}
+{137}{}{Ten starej opilec! JedinÃ¡ vÄ›c, kterou od nÄ›j mÃ¡m, je obraz s "Velvet Elvii", mÃ­sto dluhu.}
+{138}{}{Velvet Elvii? MÅ¯Å¾u ho vidÄ›t?}
+{139}{}{NÃ¡hodou nevypadÃ¡ jako mapa, Å¾e? No nic, zamÄ›stnÃ¡m vÃ¡Å¡ mozek nÄ›ÄÃ­m jinÃ½m.}
+{140}{}{No, uÅ¾ musÃ­m jÃ­t.}
+{141}{}{O tom jsem neslyÅ¡el od tÃ© doby, co sem pÅ™inesli starÃ½ho SlaneÄka. S Ãºpalem. LeÅ¾el v horeÄkÃ¡ch tÅ™i dny a celou dobu blouznil o tom, jak naÅ¡el Vault 13, svoji mateÅ™skou Å¾Ã­lu.}
+{142}{}{MateÅ™skou Å¾Ã­lu?}
+{143}{}{TakÅ¾e kde to je?}
 {144}{}{Kde vault?}
-{145}{}{To nedokáu øíct. Slaneèek poøád tvrdil, e má mapu, ale nikdo ji nikdy nevidìl.}
-{146}{}{Slaneèek?}
-{147}{}{Ptát se víc.}
-{148}{}{No, aspoò vím víc ne pøedtím.}
-{149}{}{A velikou. Slaneèek je starı hledaè uranu, pøesnìji øeèeno opilec. Momentálnì ije u Westina.}
-{150}{}{Další otázka...}
-{151}{}{Díky za pøíbìh.}
-{152}{}{No, doufal jsem, e za nìj dostanu nìjaké peníze. Nechám vám ho za $}
-{153}{}{Moná pozdìji, další otázka...}
-{154}{}{Moná pozdìji, teï musím jít.}
-{155}{}{Slaneèek je starı hledaè uranu. Momentálnì ije u Westina.}
-{156}{}{Další otázka...}
-{157}{}{Díky za pøíbìh.}
-{158}{}{Nejlepší bude, kdy si promluvíte s prezidentkou Tandi. Slyšel jsem, e hledá nìkoho speciálního.}
-{159}{}{Další otázka...}
-{160}{}{Díky.}
-{161}{}{Moná jo... existuje skupinka, která bojuje proti otrokáøství a, no, vìtšinì neøestí. Nìkdy jsou k vidìní u toho velkého obchodu jak pracují na nìjakém autì.}
-{162}{}{Další otázka...}
-{163}{}{Díky.}
-{164}{}{Hej, dej od toho pracky pryè, hajzle!}
-{165}{}{Opatrnì! I nepatrné mnoství je nebezpeèné.}
-{166}{}{Vrate to zpátky! Mùete si tím dost ublíit.}
-{167}{}{Ty léky jsou pro pana Westina, ne pro vás. Vrate je zpátky.}
-{168}{}{Jdìte od toho. Musím bıt opatrnı, víte. Nechci, aby pan Westin dostal špatné léky.}
-{169}{}{Dávejte pozor! Právì jsem odmìøil dávku pro pana Westina.}
-{170}{}{Jsem doktor Jubilee. Co se dìje, sleèno?}
-{171}{}{Co se dìje, sleèno?}
-{172}{}{Tak a je to, sleèno.}
-{173}{}{Nemusíte se bát, sleèno. Pokud nebude svùj organismus pøetìovat, tak nás pravdìpodobnì všechny pøeije. Samozøejmì by mì ale musel nìkdy poslouchat nebo brát své léky.}
-{174}{}{Jasnì. Tady je $}
-{175}{}{Díky, pokoušel jsem se dostat peníze ze Slaneèka, ale ten pobuda nikdy ádné nemìl.}
+{145}{}{To nedokÃ¡Å¾u Å™Ã­ct. SlaneÄek poÅ™Ã¡d tvrdil, Å¾e mÃ¡ mapu, ale nikdo ji nikdy nevidÄ›l.}
+{146}{}{SlaneÄek?}
+{147}{}{PtÃ¡t se vÃ­c.}
+{148}{}{No, aspoÅˆ vÃ­m vÃ­c neÅ¾ pÅ™edtÃ­m.}
+{149}{}{A velikou. SlaneÄek je starÃ½ hledaÄ uranu, pÅ™esnÄ›ji Å™eÄeno opilec. MomentÃ¡lnÄ› Å¾ije u Westina.}
+{150}{}{DalÅ¡Ã­ otÃ¡zka...}
+{151}{}{DÃ­ky za pÅ™Ã­bÄ›h.}
+{152}{}{No, doufal jsem, Å¾e za nÄ›j dostanu nÄ›jakÃ© penÃ­ze. NechÃ¡m vÃ¡m ho za $}
+{153}{}{MoÅ¾nÃ¡ pozdÄ›ji, dalÅ¡Ã­ otÃ¡zka...}
+{154}{}{MoÅ¾nÃ¡ pozdÄ›ji, teÄ musÃ­m jÃ­t.}
+{155}{}{SlaneÄek je starÃ½ hledaÄ uranu. MomentÃ¡lnÄ› Å¾ije u Westina.}
+{156}{}{DalÅ¡Ã­ otÃ¡zka...}
+{157}{}{DÃ­ky za pÅ™Ã­bÄ›h.}
+{158}{}{NejlepÅ¡Ã­ bude, kdyÅ¾ si promluvÃ­te s prezidentkou Tandi. SlyÅ¡el jsem, Å¾e hledÃ¡ nÄ›koho speciÃ¡lnÃ­ho.}
+{159}{}{DalÅ¡Ã­ otÃ¡zka...}
+{160}{}{DÃ­ky.}
+{161}{}{MoÅ¾nÃ¡ jo... existuje skupinka, kterÃ¡ bojuje proti otrokÃ¡Å™stvÃ­ a, no, vÄ›tÅ¡inÄ› neÅ™estÃ­. NÄ›kdy jsou k vidÄ›nÃ­ u toho velkÃ©ho obchodu jak pracujÃ­ na nÄ›jakÃ©m autÄ›.}
+{162}{}{DalÅ¡Ã­ otÃ¡zka...}
+{163}{}{DÃ­ky.}
+{164}{}{Hej, dej od toho pracky pryÄ, hajzle!}
+{165}{}{OpatrnÄ›! I nepatrnÃ© mnoÅ¾stvÃ­ je nebezpeÄnÃ©.}
+{166}{}{VraÅ¥te to zpÃ¡tky! MÅ¯Å¾ete si tÃ­m dost ublÃ­Å¾it.}
+{167}{}{Ty lÃ©ky jsou pro pana Westina, ne pro vÃ¡s. VraÅ¥te je zpÃ¡tky.}
+{168}{}{JdÄ›te od toho. MusÃ­m bÃ½t opatrnÃ½, vÃ­te. Nechci, aby pan Westin dostal Å¡patnÃ© lÃ©ky.}
+{169}{}{DÃ¡vejte pozor! PrÃ¡vÄ› jsem odmÄ›Å™il dÃ¡vku pro pana Westina.}
+{170}{}{Jsem doktor Jubilee. Co se dÄ›je, sleÄno?}
+{171}{}{Co se dÄ›je, sleÄno?}
+{172}{}{Tak a je to, sleÄno.}
+{173}{}{NemusÃ­te se bÃ¡t, sleÄno. Pokud nebude svÅ¯j organismus pÅ™etÄ›Å¾ovat, tak nÃ¡s pravdÄ›podobnÄ› vÅ¡echny pÅ™eÅ¾ije. SamozÅ™ejmÄ› by mÄ› ale musel nÄ›kdy poslouchat nebo brÃ¡t svÃ© lÃ©ky.}
+{174}{}{JasnÄ›. Tady je $}
+{175}{}{DÃ­ky, pokouÅ¡el jsem se dostat penÃ­ze ze SlaneÄka, ale ten pobuda nikdy Å¾Ã¡dnÃ© nemÄ›l.}
 {176}{}{.}
-{200}{}{Dávejte pozor, }
+{200}{}{DÃ¡vejte pozor, }
 {201}{}{synku! }
-{202}{}{sleèno! }
-{203}{}{S tím si nemùete zahrávat! Právì jsem odmìøil dávku pro pana Westina a nechceme pøeci, aby dostal špatné léky. Co si pro pána krále myslíte, e dìláte?}
-{204}{}{Jen mì zajímaly ty pilulky, co máte támhle na polici.}
-{205}{}{Och, pardon. Jen se tak rozhlíím kolem.}
-{206}{}{Promiòte. Odjakiva mám neodolatelné nutkání hrabat se ostatním ve vìcech a nemùu se toho zbavit.}
-{207}{}{Upøímnì? Kdo by to byl øekl, e jste tak všímavı. Nejspíš budu muset improvizovat.}
-{210}{}{Opravdu? (Doktor Jubilee se na tebe rozvánì podívá.) Já myslel, e problémy se srdcem mají spíše starší lidé.}
-{211}{}{To máte pravdu. Mùj pøítel Cassidy je potøebuje. Je to u starší chlap. Má špatné srdce a cestování pustinami mu nedìlá dobøe.}
-{212}{}{Ké byste mìl pravdu. Mám to dìdiènì po svém otci. Alespoò to mi øekli.}
-{213}{}{Ále, to vùbec ne. Jen moje zvìdavost nìkdy pøekraèuje meze.}
-{220}{}{No, to nemùete. Tohle je soukromá klinika a ne nìjakej obchod. Zkuste se podívat k Duppovi kousek na sever odsud.}
-{221}{}{To zní pøesnì jako to, co hledám. Nashle.}
-{222}{}{Podívám se tam. Nebude vám vadit, kdy se mezitím na nìco zeptám?}
-{223}{}{Ne, myslím, e jsem na správném místì. Vidím, e tu odvádíte dobrou práci. Pøijímáte sponzorské dary?}
-{230}{}{(Doktor zamrká a poté zamrká ještì jednou.) Moná by nebyl špatnı nápad si o tom s nìkım promluvit. Bohuel já nejsem ten správnej doktor. O tı polici vám øeknu jenom to, e jestli smícháte nebo upravíte nìkterı z tìch pøedpisù, tak to nìjakej uboák pìknì odskáèe, pokud bude vùbec schopnej skákat. Radši na to nesahejte.}
-{231}{}{Spolehnìte se, doktore. Ale, eh, poslyšte... mám pøítele, kterému by se ty vaše pilulky na srdce docela hodily. Myslíte, e byste mi mohl nìjaké prodat?}
-{240}{}{Víte, }
+{202}{}{sleÄno! }
+{203}{}{S tÃ­m si nemÅ¯Å¾ete zahrÃ¡vat! PrÃ¡vÄ› jsem odmÄ›Å™il dÃ¡vku pro pana Westina a nechceme pÅ™eci, aby dostal Å¡patnÃ© lÃ©ky. Co si pro pÃ¡na krÃ¡le myslÃ­te, Å¾e dÄ›lÃ¡te?}
+{204}{}{Jen mÄ› zajÃ­maly ty pilulky, co mÃ¡te tÃ¡mhle na polici.}
+{205}{}{Och, pardon. Jen se tak rozhlÃ­Å¾Ã­m kolem.}
+{206}{}{PromiÅˆte. OdjakÅ¾iva mÃ¡m neodolatelnÃ© nutkÃ¡nÃ­ hrabat se ostatnÃ­m ve vÄ›cech a nemÅ¯Å¾u se toho zbavit.}
+{207}{}{UpÅ™Ã­mnÄ›? Kdo by to byl Å™ekl, Å¾e jste tak vÅ¡Ã­mavÃ½. NejspÃ­Å¡ budu muset improvizovat.}
+{210}{}{Opravdu? (Doktor Jubilee se na tebe rozvÃ¡Å¾nÄ› podÃ­vÃ¡.) JÃ¡ myslel, Å¾e problÃ©my se srdcem majÃ­ spÃ­Å¡e starÅ¡Ã­ lidÃ©.}
+{211}{}{To mÃ¡te pravdu. MÅ¯j pÅ™Ã­tel Cassidy je potÅ™ebuje. Je to uÅ¾ starÅ¡Ã­ chlap. MÃ¡ Å¡patnÃ© srdce a cestovÃ¡nÃ­ pustinami mu nedÄ›lÃ¡ dobÅ™e.}
+{212}{}{KÃ©Å¾ byste mÄ›l pravdu. MÃ¡m to dÄ›diÄnÄ› po svÃ©m otci. AlespoÅˆ to mi Å™ekli.}
+{213}{}{Ãle, to vÅ¯bec ne. Jen moje zvÄ›davost nÄ›kdy pÅ™ekraÄuje meze.}
+{220}{}{No, to nemÅ¯Å¾ete. Tohle je soukromÃ¡ klinika a ne nÄ›jakej obchod. Zkuste se podÃ­vat k Duppovi kousek na sever odsud.}
+{221}{}{To znÃ­ pÅ™esnÄ› jako to, co hledÃ¡m. Nashle.}
+{222}{}{PodÃ­vÃ¡m se tam. Nebude vÃ¡m vadit, kdyÅ¾ se mezitÃ­m na nÄ›co zeptÃ¡m?}
+{223}{}{Ne, myslÃ­m, Å¾e jsem na sprÃ¡vnÃ©m mÃ­stÄ›. VidÃ­m, Å¾e tu odvÃ¡dÃ­te dobrou prÃ¡ci. PÅ™ijÃ­mÃ¡te sponzorskÃ© dary?}
+{230}{}{(Doktor zamrkÃ¡ a potÃ© zamrkÃ¡ jeÅ¡tÄ› jednou.) MoÅ¾nÃ¡ by nebyl Å¡patnÃ½ nÃ¡pad si o tom s nÄ›kÃ½m promluvit. BohuÅ¾el jÃ¡ nejsem ten sprÃ¡vnej doktor. O tÃ½ polici vÃ¡m Å™eknu jenom to, Å¾e jestli smÃ­chÃ¡te nebo upravÃ­te nÄ›kterÃ½ z tÄ›ch pÅ™edpisÅ¯, tak to nÄ›jakej uboÅ¾Ã¡k pÄ›knÄ› odskÃ¡Äe, pokud bude vÅ¯bec schopnej skÃ¡kat. RadÅ¡i na to nesahejte.}
+{231}{}{SpolehnÄ›te se, doktore. Ale, eh, poslyÅ¡te... mÃ¡m pÅ™Ã­tele, kterÃ©mu by se ty vaÅ¡e pilulky na srdce docela hodily. MyslÃ­te, Å¾e byste mi mohl nÄ›jakÃ© prodat?}
+{240}{}{VÃ­te, }
 {241}{}{synku, }
-{242}{}{sleèno, }
-{243}{}{rád bych vám pomohl, ale teï nepøijímám ádné nové pacienty. Úøady mi platí pevnou mzdu. Ani vám nemùu prodat ádné pilulky... Westinovi lidé si pro nì mají pøijít bìhem }
-{244}{}{ dní, }
+{242}{}{sleÄno, }
+{243}{}{rÃ¡d bych vÃ¡m pomohl, ale teÄ nepÅ™ijÃ­mÃ¡m Å¾Ã¡dnÃ© novÃ© pacienty. ÃšÅ™ady mi platÃ­ pevnou mzdu. Ani vÃ¡m nemÅ¯Å¾u prodat Å¾Ã¡dnÃ© pilulky... Westinovi lidÃ© si pro nÄ› majÃ­ pÅ™ijÃ­t bÄ›hem }
+{244}{}{ dnÃ­, }
 {245}{}{ jednoho dne }
-{246}{}{a v ádném pøípadì nebudu mít èas na to, abych do té doby namíchal další várku.}
-{247}{}{Rozumím, doktore. Moná najdu nìjakého slušného lékárníka jinde. Pokud toho od vás nebudu ádat pøíliš, mohl byste mi dát nìjakou radu ohlednì srdeèních problémù? Takové léky se nedají tak snadno sehnat.}
-{248}{}{Tak u to chodí. Ale myslím, e to bude v pohodì. Ze starıch komixù mám naèteno *tuny* vìcí o kardiomagii. Sníit poèet denních dávek lékù na dvì, MAXIMÁLNÌ, cvièit v krátkıch, ale intenzivních intervalech, aby srdce pracovalo tak, jak má, a podobné chytré rady.}
-{250}{}{Cítím s vámi, pøíteli, ale obávám se, e tyto pilulky jsou urèené pro pana radního Westina a u nepøijímám ádné nové pacienty, take vám ani nebudu moct pøedepsat recept. A teï u se prosím nehrabte v té polici. Jestli se ty recepty zamíchají, tak to nìkdo šerednì odskáèe.}
-{260}{}{Nìco si ujasníme, }
+{246}{}{a v Å¾Ã¡dnÃ©m pÅ™Ã­padÄ› nebudu mÃ­t Äas na to, abych do tÃ© doby namÃ­chal dalÅ¡Ã­ vÃ¡rku.}
+{247}{}{RozumÃ­m, doktore. MoÅ¾nÃ¡ najdu nÄ›jakÃ©ho sluÅ¡nÃ©ho lÃ©kÃ¡rnÃ­ka jinde. Pokud toho od vÃ¡s nebudu Å¾Ã¡dat pÅ™Ã­liÅ¡, mohl byste mi dÃ¡t nÄ›jakou radu ohlednÄ› srdeÄnÃ­ch problÃ©mÅ¯? TakovÃ© lÃ©ky se nedajÃ­ tak snadno sehnat.}
+{248}{}{Tak uÅ¾ to chodÃ­. Ale myslÃ­m, Å¾e to bude v pohodÄ›. Ze starÃ½ch komixÅ¯ mÃ¡m naÄteno *tuny* vÄ›cÃ­ o kardiomagii. SnÃ­Å¾it poÄet dennÃ­ch dÃ¡vek lÃ©kÅ¯ na dvÄ›, MAXIMÃLNÄš, cviÄit v krÃ¡tkÃ½ch, ale intenzivnÃ­ch intervalech, aby srdce pracovalo tak, jak mÃ¡, a podobnÃ© chytrÃ© rady.}
+{250}{}{CÃ­tÃ­m s vÃ¡mi, pÅ™Ã­teli, ale obÃ¡vÃ¡m se, Å¾e tyto pilulky jsou urÄenÃ© pro pana radnÃ­ho Westina a uÅ¾ nepÅ™ijÃ­mÃ¡m Å¾Ã¡dnÃ© novÃ© pacienty, takÅ¾e vÃ¡m ani nebudu moct pÅ™edepsat recept. A teÄ uÅ¾ se prosÃ­m nehrabte v tÃ© polici. Jestli se ty recepty zamÃ­chajÃ­, tak to nÄ›kdo Å¡erednÄ› odskÃ¡Äe.}
+{260}{}{NÄ›co si ujasnÃ­me, }
 {261}{}{pane. }
-{262}{}{sleèno. }
-{263}{}{Co pøesnì myslíte tím "sponzorské dary?"}
-{264}{}{Dobroèinnı pøíspìvek na podporu vaší sluby veøejnosti, øeknìme... $150? Mùete si to v zadní místnosti pøepoèítat. Zabere to jenom chvilinku, ne?}
-{265}{}{Eh, vlastnì myslím, e se radìji poradím se svım úèetním, ne udìlám nìco ukvapeného. Uvidíme se pozdìji, doktore.}
-{270}{}{Obávám se, e to nepùjde. Ty jsou pro radního Westina. Jeho lidé si je mají vyzvednout bìhem }
-{271}{}{ dní, }
+{262}{}{sleÄno. }
+{263}{}{Co pÅ™esnÄ› myslÃ­te tÃ­m "sponzorskÃ© dary?"}
+{264}{}{DobroÄinnÃ½ pÅ™Ã­spÄ›vek na podporu vaÅ¡Ã­ sluÅ¾by veÅ™ejnosti, Å™eknÄ›me... $150? MÅ¯Å¾ete si to v zadnÃ­ mÃ­stnosti pÅ™epoÄÃ­tat. Zabere to jenom chvilinku, ne?}
+{265}{}{Eh, vlastnÄ› myslÃ­m, Å¾e se radÄ›ji poradÃ­m se svÃ½m ÃºÄetnÃ­m, neÅ¾ udÄ›lÃ¡m nÄ›co ukvapenÃ©ho. UvidÃ­me se pozdÄ›ji, doktore.}
+{270}{}{ObÃ¡vÃ¡m se, Å¾e to nepÅ¯jde. Ty jsou pro radnÃ­ho Westina. Jeho lidÃ© si je majÃ­ vyzvednout bÄ›hem }
+{271}{}{ dnÃ­, }
 {272}{}{ jednoho dne }
-{273}{}{a v ádném pøípadì nebudu mít èas na to, abych do té doby namíchal další várku. Urèitì nìkde najdete lékarníka, kterı nemá tolik práce.}
-{274}{}{Chápu. No, tak díky.}
+{273}{}{a v Å¾Ã¡dnÃ©m pÅ™Ã­padÄ› nebudu mÃ­t Äas na to, abych do tÃ© doby namÃ­chal dalÅ¡Ã­ vÃ¡rku. UrÄitÄ› nÄ›kde najdete lÃ©karnÃ­ka, kterÃ½ nemÃ¡ tolik prÃ¡ce.}
+{274}{}{ChÃ¡pu. No, tak dÃ­ky.}
 {280}{}{(Doc Jubilee gapes at you for a moment.) Aw, you're puttin' me on, right? You've gotta be puttin' me on. (Glances at you again, shakes head, blows out cheeks.) Hooo, boy. Either way, I wouldn't be no kind of doctor if I let you walk out of here without a few pointers, at least.}
-{281}{}{Mno... pro zaèátek bych doporuèil pøestat s... no, skoro se vším. ádné pití, ádné kouøení, ádné èervené maso a ÁDNÉ léky. Pokud mono kadı den cvièit v MÍRNÉ zátìi a nepøetìovat se. ivot není závod, tedy alespoò v tomhle pøípadì není nutné bıt první. Abych øekl pravdu, tak tyhle øeèi stejnì nikdo neposlouchá, ale alespoò se mi bude dnes líp spát.}
-{282}{}{Ale dùleitìjší je najít slušného lékárníka a øíct mu, e potøebujete bìnou dávku Triproxinilu. Tri-prox-i-nil. V pustinách sice nemají tak pøepychové zboí jako mám já, ale chemicky je to všechno stejné, pokud se budeme bavit o tìch nejzákladnìjších slokách. 30 miligramù dvakrát dennì.}
-{283}{}{Taky musíte tyhle prášky zapíjet dostateènım mnostvím vody. A a vás ani nenapadne *dotknout* se práškù na potenci, co prodávají v New Renu, rozumíte? Vùbec to spolu nejde dohromady. Staèí smíchat jeden s Triproxinilem a váš Frantík nebude to jedinı, co budete mít ten den tvrdı, jestli mi rozumíte.}
-{284}{}{(Mluví si pro sebe.) Hmm, to by mohlo fungovat. No jasnì. Moná nìco na zpùsob PDE-5 tlumící sloky...}
-{285}{}{Jo a pokud vás zastaví nìjakej poulièní prodavaè v Renu, tak vám bude moná vykládat o tom, e ty prášky ochránìj vaše srdce pøed kterımkoliv svinstvem, kterı zkusíte. No nebudu vám lhát... moná je to èásteènì pravda, ale stejnì z vás bude jenom obyèejnej feák. Nechci vás nìjak pouèovat, protoe jste dostateènì inteligentní a pubertu u máte za sebou, ale u se stalo.}
-{286}{}{Mockrát díky, doktore. Nemáte ani ponìtí, jak moc jste mi pomohl. Mìjte se.}
-{287}{}{Tri-prox-i-nil a ádné pilulky na e-rek-ci. Hehe. Budu si to pamatovat. Zatím, doktore.}
-{290}{}{Vy si myslíte, e se bavíte s nìjakım podplatitelnım vesnickım felèarem, }
+{281}{}{Mno... pro zaÄÃ¡tek bych doporuÄil pÅ™estat s... no, skoro se vÅ¡Ã­m. Å½Ã¡dnÃ© pitÃ­, Å¾Ã¡dnÃ© kouÅ™enÃ­, Å¾Ã¡dnÃ© ÄervenÃ© maso a Å½ÃDNÃ‰ lÃ©ky. Pokud moÅ¾no kaÅ¾dÃ½ den cviÄit v MÃRNÃ‰ zÃ¡tÄ›Å¾i a nepÅ™etÄ›Å¾ovat se. Å½ivot nenÃ­ zÃ¡vod, tedy alespoÅˆ v tomhle pÅ™Ã­padÄ› nenÃ­ nutnÃ© bÃ½t prvnÃ­. Abych Å™ekl pravdu, tak tyhle Å™eÄi stejnÄ› nikdo neposlouchÃ¡, ale alespoÅˆ se mi bude dnes lÃ­p spÃ¡t.}
+{282}{}{Ale dÅ¯leÅ¾itÄ›jÅ¡Ã­ je najÃ­t sluÅ¡nÃ©ho lÃ©kÃ¡rnÃ­ka a Å™Ã­ct mu, Å¾e potÅ™ebujete bÄ›Å¾nou dÃ¡vku Triproxinilu. Tri-prox-i-nil. V pustinÃ¡ch sice nemajÃ­ tak pÅ™epychovÃ© zboÅ¾Ã­ jako mÃ¡m jÃ¡, ale chemicky je to vÅ¡echno stejnÃ©, pokud se budeme bavit o tÄ›ch nejzÃ¡kladnÄ›jÅ¡Ã­ch sloÅ¾kÃ¡ch. 30 miligramÅ¯ dvakrÃ¡t dennÄ›.}
+{283}{}{Taky musÃ­te tyhle prÃ¡Å¡ky zapÃ­jet dostateÄnÃ½m mnoÅ¾stvÃ­m vody. A aÅ¥ vÃ¡s ani nenapadne *dotknout* se prÃ¡Å¡kÅ¯ na potenci, co prodÃ¡vajÃ­ v New Renu, rozumÃ­te? VÅ¯bec to spolu nejde dohromady. StaÄÃ­ smÃ­chat jeden s Triproxinilem a vÃ¡Å¡ FrantÃ­k nebude to jedinÃ½, co budete mÃ­t ten den tvrdÃ½, jestli mi rozumÃ­te.}
+{284}{}{(MluvÃ­ si pro sebe.) Hmm, to by mohlo fungovat. No jasnÄ›. MoÅ¾nÃ¡ nÄ›co na zpÅ¯sob PDE-5 tlumÃ­cÃ­ sloÅ¾ky...}
+{285}{}{Jo a pokud vÃ¡s zastavÃ­ nÄ›jakej pouliÄnÃ­ prodavaÄ v Renu, tak vÃ¡m bude moÅ¾nÃ¡ vyklÃ¡dat o tom, Å¾e ty prÃ¡Å¡ky ochrÃ¡nÄ›j vaÅ¡e srdce pÅ™ed kterÃ½mkoliv svinstvem, kterÃ½ zkusÃ­te. No nebudu vÃ¡m lhÃ¡t... moÅ¾nÃ¡ je to ÄÃ¡steÄnÄ› pravda, ale stejnÄ› z vÃ¡s bude jenom obyÄejnej feÅ¥Ã¡k. Nechci vÃ¡s nÄ›jak pouÄovat, protoÅ¾e jste dostateÄnÄ› inteligentnÃ­ a pubertu uÅ¾ mÃ¡te za sebou, ale uÅ¾ se stalo.}
+{286}{}{MockrÃ¡t dÃ­ky, doktore. NemÃ¡te ani ponÄ›tÃ­, jak moc jste mi pomohl. MÄ›jte se.}
+{287}{}{Tri-prox-i-nil a Å¾Ã¡dnÃ© pilulky na e-rek-ci. Hehe. Budu si to pamatovat. ZatÃ­m, doktore.}
+{290}{}{Vy si myslÃ­te, Å¾e se bavÃ­te s nÄ›jakÃ½m podplatitelnÃ½m vesnickÃ½m felÄarem, }
 {291}{}{synku, }
-{292}{}{dìvèe, }
-{293}{}{je to tak? Tak to jste vedle. Já jsem kvalifikovanı a povìøenı profesionální zdravotník NCR a to má vìtší cenu ne nìjaká hrst drobnıch.}
-{294}{}{Omlouvám se. Èlovìk vašeho kalibru má oèividnì cenu sponzorského daru v hodnotì alespoò $250.}
+{292}{}{dÄ›vÄe, }
+{293}{}{je to tak? Tak to jste vedle. JÃ¡ jsem kvalifikovanÃ½ a povÄ›Å™enÃ½ profesionÃ¡lnÃ­ zdravotnÃ­k NCR a to mÃ¡ vÄ›tÅ¡Ã­ cenu neÅ¾ nÄ›jakÃ¡ hrst drobnÃ½ch.}
+{294}{}{OmlouvÃ¡m se. ÄŒlovÄ›k vaÅ¡eho kalibru mÃ¡ oÄividnÄ› cenu sponzorskÃ©ho daru v hodnotÄ› alespoÅˆ $250.}
 {295}{}{(Hang head.) Look, I'm really sorry. I'm not proud of myself, and I would normally never have tried anything like that, but I'll be honest with you: I was desperate for those pills.}
-{296}{}{Omlouvám se za ty nepøíjemnosti. Myslím, e radìji pùjdu, ne to pokazím ještì víc.}
-{300}{}{(Doktor Jubilee zaèíná rudnout.) Asi jsem se pøedtím špatnì vyjádøil,}
+{296}{}{OmlouvÃ¡m se za ty nepÅ™Ã­jemnosti. MyslÃ­m, Å¾e radÄ›ji pÅ¯jdu, neÅ¾ to pokazÃ­m jeÅ¡tÄ› vÃ­c.}
+{300}{}{(Doktor Jubilee zaÄÃ­nÃ¡ rudnout.) Asi jsem se pÅ™edtÃ­m Å¡patnÄ› vyjÃ¡dÅ™il,}
 {301}{}{ chlape, }
-{302}{}{ enská, }
-{303}{}{take nastrate poøádnì uši: Jsem doktor v NCR. Je to èestná práce a ta vyaduje èestnou pøísahu. Ještì jednou po mì budete chtít, abych se na tu pøísahu vysral a JEDINOU vìc, kterou z ní vyhodím, bude "Pøedevším neškodit." Chápete?}
-{304}{}{Tak dobøe, kašlete na to. Kdy tvrdíte, e jste a tak dobrı, tak chci vidìt, jak se dáte po tomhle dokupy.}
-{305}{}{Jejda. Nebylo v mém úmyslu se vás nìjak dotknout, doktore. Nechám vás na chvíli bıt.}
-{310}{}{Poslyšte, doktore, zajímaly by mì ty pilulky, co máte támhle na té polici.}
-{311}{}{Jste si opravdu jistı, e mi ty pilulky nechcete prodat?}
-{320}{}{Je mi líto, lidé radního Westina si je mají vyzvednout bìhem }
-{321}{}{ dní, }
+{302}{}{ Å¾enskÃ¡, }
+{303}{}{takÅ¾e nastraÅ¾te poÅ™Ã¡dnÄ› uÅ¡i: Jsem doktor v NCR. Je to ÄestnÃ¡ prÃ¡ce a ta vyÅ¾aduje Äestnou pÅ™Ã­sahu. JeÅ¡tÄ› jednou po mÄ› budete chtÃ­t, abych se na tu pÅ™Ã­sahu vysral a JEDINOU vÄ›c, kterou z nÃ­ vyhodÃ­m, bude "PÅ™edevÅ¡Ã­m neÅ¡kodit." ChÃ¡pete?}
+{304}{}{Tak dobÅ™e, kaÅ¡lete na to. KdyÅ¾ tvrdÃ­te, Å¾e jste aÅ¾ tak dobrÃ½, tak chci vidÄ›t, jak se dÃ¡te po tomhle dokupy.}
+{305}{}{Jejda. Nebylo v mÃ©m Ãºmyslu se vÃ¡s nÄ›jak dotknout, doktore. NechÃ¡m vÃ¡s na chvÃ­li bÃ½t.}
+{310}{}{PoslyÅ¡te, doktore, zajÃ­maly by mÄ› ty pilulky, co mÃ¡te tÃ¡mhle na tÃ© polici.}
+{311}{}{Jste si opravdu jistÃ½, Å¾e mi ty pilulky nechcete prodat?}
+{320}{}{Je mi lÃ­to, lidÃ© radnÃ­ho Westina si je majÃ­ vyzvednout bÄ›hem }
+{321}{}{ dnÃ­, }
 {322}{}{ jednoho dne }
-{323}{}{a v ádném pøípadì nebudu mít èas na to, abych do té doby namíchal další várku.}
+{323}{}{a v Å¾Ã¡dnÃ©m pÅ™Ã­padÄ› nebudu mÃ­t Äas na to, abych do tÃ© doby namÃ­chal dalÅ¡Ã­ vÃ¡rku.}
 {324}{}{(Mutters to himself.) Where the hell did I put those pills for Mr. Westin. His heart aint gonna last long without 'em. (He looks up.)
  Oh, sorry. What can I do for you today?}
-{325}{}{Nedalo se nepøeslechnout vaši zmínku o pilulcích na srdce. Vlastnì se vás chci na ty léky zeptat.}
+{325}{}{Nedalo se nepÅ™eslechnout vaÅ¡i zmÃ­nku o pilulcÃ­ch na srdce. VlastnÄ› se vÃ¡s chci na ty lÃ©ky zeptat.}
 {330}{}{(Mutters to himself.) I can't believe Mr. Westin's dead. Couldn't have been my fault, I measured out those pills precisely. (He looks up) Oh, sorry. What can I do for you today?}

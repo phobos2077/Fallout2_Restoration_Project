@@ -1,15 +1,15 @@
-{100}{}{Vidíš mafiána.}
-{101}{}{Ale, ale... copak to tady máme?}
-{102}{}{Obyèejní pocestní, jo? Nìco takovıho neexistuje. Nepotøebujete náhodou nìkoho, kdo by se vám postaral o vaše cennosti?}
-{103}{}{Dávej si pozor, kam v New Reno lezeš, nebo pøijdeš k úrazu. Kliï se mi z cesty.}
+{100}{}{VidÃ­Å¡ mafiÃ¡na.}
+{101}{}{Ale, ale... copak to tady mÃ¡me?}
+{102}{}{ObyÄejnÃ­ pocestnÃ­, jo? NÄ›co takovÃ½ho neexistuje. NepotÅ™ebujete nÃ¡hodou nÄ›koho, kdo by se vÃ¡m postaral o vaÅ¡e cennosti?}
+{103}{}{DÃ¡vej si pozor, kam v New Reno lezeÅ¡, nebo pÅ™ijdeÅ¡ k Ãºrazu. KliÄ se mi z cesty.}
 {104}{}{Ahoj, }
 {105}{}{.}
-{106}{}{Co tady dìláš, }
+{106}{}{Co tady dÄ›lÃ¡Å¡, }
 {107}{}{?}
-{108}{}{Zrovna jsme se na tebe chtìli podívat, }
-{109}{}{. Dneska je ale hezkej den, e, }
+{108}{}{Zrovna jsme se na tebe chtÄ›li podÃ­vat, }
+{109}{}{. Dneska je ale hezkej den, Å¾e, }
 {110}{}{?}
-{111}{}{Pøišel jsi sem, abys od všeho utekl, }
+{111}{}{PÅ™iÅ¡el jsi sem, abys od vÅ¡eho utekl, }
 {112}{}{? }
-{113}{}{ zajímá, co máš v plánu, }
+{113}{}{ zajÃ­mÃ¡, co mÃ¡Å¡ v plÃ¡nu, }
 {114}{}{.}

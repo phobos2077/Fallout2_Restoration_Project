@@ -1,20 +1,20 @@
-{100}{}{Vidíš mutanta s unavenıma oèima.}
-{101}{}{Vidíš Elma, opilého mutanta.}
-{102}{}{Vidíš mutanta, kterı se na tebe stìí soustøedí.}
-{103}{}{Au, bolí mì hlava.}
-{104}{}{Proè se vdycky musím vzbudit ve vìzení?}
-{105}{}{Zastavte nìkdo tu místnost, a se netoèí...}
-{106}{}{Myslím, e budu blejt.}
-{107}{}{Dobrı boe, slyš mùj pláè! Och, moje hlava...}
-{108}{}{Pssssst! Prosím! Psssst!}
-{109}{}{Nemá nìkdo moje sluneèní brejle?}
-{110}{}{Marcus musí bıt pìknì nasranej, kdy se poøád takhle oírám.}
-{111}{}{Nemáš nìjakı chlast?}
-{112}{}{Sakra, mám hroznou ízeò.}
-{113}{}{No hergot... dal jsem si jeden bourbon, jednu skotskou, jedno pivo a najednou jsem ve vìzení.}
-{114}{}{Neukazuj mi jídlo... neukazuj mi jídlo.}
-{115}{}{...nechoï do rohu... trochu jsem tam nablil.}
-{116}{}{Sakra, další noc v lihu.}
-{117}{}{Chceš se prát? Sotva se drím na nohou.}
-{118}{}{::kolísá:: ::vrávorá::}
-{119}{}{Mám tì rád, cizinèe!}
+{100}{}{VidÃ­Å¡ mutanta s unavenÃ½ma oÄima.}
+{101}{}{VidÃ­Å¡ Elma, opilÃ©ho mutanta.}
+{102}{}{VidÃ­Å¡ mutanta, kterÃ½ se na tebe stÄ›Å¾Ã­ soustÅ™edÃ­.}
+{103}{}{Au, bolÃ­ mÄ› hlava.}
+{104}{}{ProÄ se vÅ¾dycky musÃ­m vzbudit ve vÄ›zenÃ­?}
+{105}{}{Zastavte nÄ›kdo tu mÃ­stnost, aÅ¥ se netoÄÃ­...}
+{106}{}{MyslÃ­m, Å¾e budu blejt.}
+{107}{}{DobrÃ½ boÅ¾e, slyÅ¡ mÅ¯j plÃ¡Ä! Och, moje hlava...}
+{108}{}{Pssssst! ProsÃ­m! Psssst!}
+{109}{}{NemÃ¡ nÄ›kdo moje sluneÄnÃ­ brejle?}
+{110}{}{Marcus musÃ­ bÃ½t pÄ›knÄ› nasranej, kdyÅ¾ se poÅ™Ã¡d takhle oÅ¾Ã­rÃ¡m.}
+{111}{}{NemÃ¡Å¡ nÄ›jakÃ½ chlast?}
+{112}{}{Sakra, mÃ¡m hroznou Å¾Ã­zeÅˆ.}
+{113}{}{No hergot... dal jsem si jeden bourbon, jednu skotskou, jedno pivo a najednou jsem ve vÄ›zenÃ­.}
+{114}{}{Neukazuj mi jÃ­dlo... neukazuj mi jÃ­dlo.}
+{115}{}{...nechoÄ do rohu... trochu jsem tam nablil.}
+{116}{}{Sakra, dalÅ¡Ã­ noc v lihu.}
+{117}{}{ChceÅ¡ se prÃ¡t? Sotva se drÅ¾Ã­m na nohou.}
+{118}{}{::kolÃ­sÃ¡:: ::vrÃ¡vorÃ¡::}
+{119}{}{MÃ¡m tÄ› rÃ¡d, cizinÄe!}

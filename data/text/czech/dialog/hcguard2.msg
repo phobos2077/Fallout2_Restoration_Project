@@ -1,22 +1,22 @@
-{100}{}{Vidíš unavenou strá Hubologistù.}
-{101}{}{Vypadá pìknì znudìnì.}
-{200}{}{(Podívá se na tebe znudìnım pohledem.) Ahoj. Co tì pøivádí a sem?}
-{201}{}{Jsem tu, abych tì mohl døív vystøídat. Mám po tobì další šichtu.}
-{202}{}{Ashton mì poslal, abych tì vystøídal. Øíkal, e s tebou potøebuje projít nìjaké nedávné pøíspìvky.}
-{210}{}{Nazdar... hej, poèkej! Nikdy jsem tì tu ještì nevidìl. Co tady dìláš?}
-{211}{}{Jsem novı rekrut. Nedávno mì sem pøeveleli.}
-{212}{}{Mám za úkol tì zabít.}
-{220}{}{Zatracenì. Na takovou blbost nemám èas, u mi skoro konèí šichta.}
-{221}{}{Hele, vypadal pìknì nasranì. Radìji bych ho nenechával èekat.}
-{230}{}{Do hajzlu. Fajn. Dohlídni tady na to, zatímco budu pryè. Vrátím se za pár minut.}
-{231}{}{ádnı problém.}
-{240}{}{Novı rekrut jo? Takové tu èas od èasu máme. Pìkná nuda tu dìlat hlídaèe, pokud tì to náhodou zajímá. Ale mnohem lepší ne verbování, take si nestìuju. Vítej mezi námi.}
-{241}{}{Díky. Ale bıt tebou, tak bych radìji nenechával Ashtona èekat.}
-{242}{}{Díky za uvítání, cením si toho. Máš teda zájem skonèit šichtu døív?}
-{250}{}{Jasnì, proè sakra ne? Stejnì se tu nic zajímavého nedìje. Tak zatím.}
+{100}{}{VidÃ­Å¡ unavenou strÃ¡Å¾ HubologistÅ¯.}
+{101}{}{VypadÃ¡ pÄ›knÄ› znudÄ›nÄ›.}
+{200}{}{(PodÃ­vÃ¡ se na tebe znudÄ›nÃ½m pohledem.) Ahoj. Co tÄ› pÅ™ivÃ¡dÃ­ aÅ¾ sem?}
+{201}{}{Jsem tu, abych tÄ› mohl dÅ™Ã­v vystÅ™Ã­dat. MÃ¡m po tobÄ› dalÅ¡Ã­ Å¡ichtu.}
+{202}{}{Ashton mÄ› poslal, abych tÄ› vystÅ™Ã­dal. Å˜Ã­kal, Å¾e s tebou potÅ™ebuje projÃ­t nÄ›jakÃ© nedÃ¡vnÃ© pÅ™Ã­spÄ›vky.}
+{210}{}{Nazdar... hej, poÄkej! Nikdy jsem tÄ› tu jeÅ¡tÄ› nevidÄ›l. Co tady dÄ›lÃ¡Å¡?}
+{211}{}{Jsem novÃ½ rekrut. NedÃ¡vno mÄ› sem pÅ™eveleli.}
+{212}{}{MÃ¡m za Ãºkol tÄ› zabÃ­t.}
+{220}{}{ZatracenÄ›. Na takovou blbost nemÃ¡m Äas, uÅ¾ mi skoro konÄÃ­ Å¡ichta.}
+{221}{}{Hele, vypadal pÄ›knÄ› nasranÄ›. RadÄ›ji bych ho nenechÃ¡val Äekat.}
+{230}{}{Do hajzlu. Fajn. DohlÃ­dni tady na to, zatÃ­mco budu pryÄ. VrÃ¡tÃ­m se za pÃ¡r minut.}
+{231}{}{Å½Ã¡dnÃ½ problÃ©m.}
+{240}{}{NovÃ½ rekrut jo? TakovÃ© tu Äas od Äasu mÃ¡me. PÄ›knÃ¡ nuda tu dÄ›lat hlÃ­daÄe, pokud tÄ› to nÃ¡hodou zajÃ­mÃ¡. Ale mnohem lepÅ¡Ã­ neÅ¾ verbovÃ¡nÃ­, takÅ¾e si nestÄ›Å¾uju. VÃ­tej mezi nÃ¡mi.}
+{241}{}{DÃ­ky. Ale bÃ½t tebou, tak bych radÄ›ji nenechÃ¡val Ashtona Äekat.}
+{242}{}{DÃ­ky za uvÃ­tÃ¡nÃ­, cenÃ­m si toho. MÃ¡Å¡ teda zÃ¡jem skonÄit Å¡ichtu dÅ™Ã­v?}
+{250}{}{JasnÄ›, proÄ sakra ne? StejnÄ› se tu nic zajÃ­mavÃ©ho nedÄ›je. Tak zatÃ­m.}
 {251}{}{Dejte na sebe pozor.}
-{260}{}{Novı rekrut, jo? Hovno. Posily jsou tu moc vzácnı. Vypadá to, e tu máme zrádce. Sbohem!}
-{300}{}{A kurva! Ashton si mì nikdy pøedtím nezavolal. Nemám ponìtí, o co tady k èertu jde, ale vím urèitì, e tu není ádnı záznam o tom, e bys sem mìl pøístup. Podle mì máme co doèinìní s vetøelcem. U brzo mrtvım vetøelcem.}
-{400}{}{Hele, co si sakra myslíš, e dìláš!? Snaíš se nás okrást pøímo pøed mıma oèima? No kurva, ty jseš ale blbec. Koneènì nìkoho zabiju.}
-{401}{}{Hele, co si sakra myslíš, e dìláš!? Tohle je soukromı majetek, take tu na nic nesahej! Tohle bylo tvé jediné a taky poslední varování!}
-{402}{}{Varoval jsem tì. Snaíš se nás okrást pøímo pøed mıma oèima? No kurva, ty jseš ale blbec. Koneènì nìkoho zabiju.}
+{260}{}{NovÃ½ rekrut, jo? Hovno. Posily jsou tu moc vzÃ¡cnÃ½. VypadÃ¡ to, Å¾e tu mÃ¡me zrÃ¡dce. Sbohem!}
+{300}{}{A kurva! Ashton si mÄ› nikdy pÅ™edtÃ­m nezavolal. NemÃ¡m ponÄ›tÃ­, o co tady k Äertu jde, ale vÃ­m urÄitÄ›, Å¾e tu nenÃ­ Å¾Ã¡dnÃ½ zÃ¡znam o tom, Å¾e bys sem mÄ›l pÅ™Ã­stup. Podle mÄ› mÃ¡me co doÄinÄ›nÃ­ s vetÅ™elcem. UÅ¾ brzo mrtvÃ½m vetÅ™elcem.}
+{400}{}{Hele, co si sakra myslÃ­Å¡, Å¾e dÄ›lÃ¡Å¡!? SnaÅ¾Ã­Å¡ se nÃ¡s okrÃ¡st pÅ™Ã­mo pÅ™ed mÃ½ma oÄima? No kurva, ty jseÅ¡ ale blbec. KoneÄnÄ› nÄ›koho zabiju.}
+{401}{}{Hele, co si sakra myslÃ­Å¡, Å¾e dÄ›lÃ¡Å¡!? Tohle je soukromÃ½ majetek, takÅ¾e tu na nic nesahej! Tohle bylo tvÃ© jedinÃ© a taky poslednÃ­ varovÃ¡nÃ­!}
+{402}{}{Varoval jsem tÄ›. SnaÅ¾Ã­Å¡ se nÃ¡s okrÃ¡st pÅ™Ã­mo pÅ™ed mÃ½ma oÄima? No kurva, ty jseÅ¡ ale blbec. KoneÄnÄ› nÄ›koho zabiju.}

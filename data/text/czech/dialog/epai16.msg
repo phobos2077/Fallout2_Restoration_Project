@@ -1,1 +1,1 @@
-{100}{}{Pouûil jsi celou plechovku spreje proti hmyzu.}
+{100}{}{Pou≈æil jsi celou plechovku spreje proti hmyzu.}

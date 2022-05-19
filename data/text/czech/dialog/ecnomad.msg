@@ -1,12 +1,12 @@
-{100}{}{Vidíš nomáda.}
-{101}{}{Buï zdráv. Zdá se, e jsi tady novı.}
-{102}{}{Promluv si s náèelníkem.}
-{103}{}{Myslím, e není takové horko jako vèera.}
-{104}{}{Tak co, jak jde ivot ve mìstì?}
-{105}{}{Nevìøící!}
-{106}{}{Proè na nás útoèíš?}
-{107}{}{Budu bránit svùj kmen do poslední kapky krve!}
-{108}{}{Jak se opovauješ zneuít naší pohostinnosti!}
+{100}{}{VidÃ­Å¡ nomÃ¡da.}
+{101}{}{BuÄ zdrÃ¡v. ZdÃ¡ se, Å¾e jsi tady novÃ½.}
+{102}{}{Promluv si s nÃ¡ÄelnÃ­kem.}
+{103}{}{MyslÃ­m, Å¾e nenÃ­ takovÃ© horko jako vÄera.}
+{104}{}{Tak co, jak jde Å¾ivot ve mÄ›stÄ›?}
+{105}{}{NevÄ›Å™Ã­cÃ­!}
+{106}{}{ProÄ na nÃ¡s ÃºtoÄÃ­Å¡?}
+{107}{}{Budu brÃ¡nit svÅ¯j kmen do poslednÃ­ kapky krve!}
+{108}{}{Jak se opovaÅ¾ujeÅ¡ zneuÅ¾Ã­t naÅ¡Ã­ pohostinnosti!}
 {109}{}{Zmiz!}
-{110}{}{Nech nás na pokoji.}
-{111}{}{Jsme mírumilovnı kmen.}
+{110}{}{Nech nÃ¡s na pokoji.}
+{111}{}{Jsme mÃ­rumilovnÃ½ kmen.}

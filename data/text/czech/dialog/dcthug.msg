@@ -1,15 +1,15 @@
-{100}{}{Vidíš hrdloøeza.}
-{150}{}{Vypadá pìknì drsnì.}
-{151}{}{Zmiz mi z oèí.}
-{152}{}{Hledáš problémy?}
+{100}{}{VidÃ­Å¡ hrdloÅ™eza.}
+{150}{}{VypadÃ¡ pÄ›knÄ› drsnÄ›.}
+{151}{}{Zmiz mi z oÄÃ­.}
+{152}{}{HledÃ¡Å¡ problÃ©my?}
 {153}{}{Jdi si po svejch.}
-{154}{}{Nemám zájem.}
-{155}{}{Jdi pryè.}
-{200}{}{Nazdar kreténe.}
-{201}{}{Máš problém?}
-{202}{}{Pojï sem, ty jedna babo.}
-{203}{}{Nechtìj, abych k tobì pøišel a nakopal ti prdel.}
-{204}{}{To mluvíš se mnou?}
-{205}{}{Chceš dostat?}
-{206}{}{Nazdar kotì, pojï sem.}
-{207}{}{Líbí se ti co vidíš?}
+{154}{}{NemÃ¡m zÃ¡jem.}
+{155}{}{Jdi pryÄ.}
+{200}{}{Nazdar kretÃ©ne.}
+{201}{}{MÃ¡Å¡ problÃ©m?}
+{202}{}{PojÄ sem, ty jedna babo.}
+{203}{}{NechtÄ›j, abych k tobÄ› pÅ™iÅ¡el a nakopal ti prdel.}
+{204}{}{To mluvÃ­Å¡ se mnou?}
+{205}{}{ChceÅ¡ dostat?}
+{206}{}{Nazdar kotÄ›, pojÄ sem.}
+{207}{}{LÃ­bÃ­ se ti co vidÃ­Å¡?}

@@ -1,28 +1,28 @@
-{100}{}{Vidíš poustevníka.}
-{101}{}{Vidíš poustevníka.}
-{102}{}{Vypadá to, e u se léta nemyl.}
-{103}{}{Chceš vìdìt proè já poustevník? (Zdá se, e u léta s nikım nepromluvil.)}
+{100}{}{VidÃ­Å¡ poustevnÃ­ka.}
+{101}{}{VidÃ­Å¡ poustevnÃ­ka.}
+{102}{}{VypadÃ¡ to, Å¾e uÅ¾ se lÃ©ta nemyl.}
+{103}{}{ChceÅ¡ vÄ›dÄ›t proÄ jÃ¡ poustevnÃ­k? (ZdÃ¡ se, Å¾e uÅ¾ lÃ©ta s nikÃ½m nepromluvil.)}
 {104}{}{Jak to?}
-{105}{}{Jenom tudy procházím.}
+{105}{}{Jenom tudy prochÃ¡zÃ­m.}
 {106}{}{Eh.}
-{107}{}{Já chtít bıt nechat na pokoji.}
-{108}{}{Kdy u jsem tady, mohli bychom udìlat nìjakı obchod. Urèitì mám nìco, co bys mohl potøebovat.}
-{109}{}{V tom pøípadì tì nechám na pokoji.}
-{110}{}{Obchodovat. Pak odejít ty muset.}
-{111}{}{Dobøe, tady je moje nabídka.}
-{112}{}{Radìji pùjdu.}
-{113}{}{Odejít.}
-{114}{}{U pùjdu.}
-{115}{}{Hmm... líbíš se. Nechtít mluvit. Zùstaò a obchoduj ty a já.}
-{116}{}{Dobøe.}
-{117}{}{Já jít.}
-{118}{}{Dobrá øeè. Teï jít. Já unavenı jsem.}
+{107}{}{JÃ¡ chtÃ­t bÃ½t nechat na pokoji.}
+{108}{}{KdyÅ¾ uÅ¾ jsem tady, mohli bychom udÄ›lat nÄ›jakÃ½ obchod. UrÄitÄ› mÃ¡m nÄ›co, co bys mohl potÅ™ebovat.}
+{109}{}{V tom pÅ™Ã­padÄ› tÄ› nechÃ¡m na pokoji.}
+{110}{}{Obchodovat. Pak odejÃ­t ty muset.}
+{111}{}{DobÅ™e, tady je moje nabÃ­dka.}
+{112}{}{RadÄ›ji pÅ¯jdu.}
+{113}{}{OdejÃ­t.}
+{114}{}{UÅ¾ pÅ¯jdu.}
+{115}{}{Hmm... lÃ­bÃ­Å¡ se. NechtÃ­t mluvit. ZÅ¯staÅˆ a obchoduj ty a jÃ¡.}
+{116}{}{DobÅ™e.}
+{117}{}{JÃ¡ jÃ­t.}
+{118}{}{DobrÃ¡ Å™eÄ. TeÄ jÃ­t. JÃ¡ unavenÃ½ jsem.}
 {119}{}{[KONEC]}
-{120}{}{Øeè dìlá bolest hlavy. Jít.}
-{121}{}{Skonèil já øeè s tebou.}
-{122}{}{Neøíkat nic. Jít.}
-{123}{}{Jdi pryè!}
-{124}{}{Ty domù jít!}
-{125}{}{Jak odváit útok na mì!}
-{126}{}{Nech na pokoji mì.}
-{127}{}{Já jít.}
+{120}{}{Å˜eÄ dÄ›lÃ¡ bolest hlavy. JÃ­t.}
+{121}{}{SkonÄil jÃ¡ Å™eÄ s tebou.}
+{122}{}{NeÅ™Ã­kat nic. JÃ­t.}
+{123}{}{Jdi pryÄ!}
+{124}{}{Ty domÅ¯ jÃ­t!}
+{125}{}{Jak odvÃ¡Å¾it Ãºtok na mÄ›!}
+{126}{}{Nech na pokoji mÄ›.}
+{127}{}{JÃ¡ jÃ­t.}

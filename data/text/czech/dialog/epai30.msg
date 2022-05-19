@@ -1,2 +1,2 @@
-{100}{}{Podaøilo se ti odstranit mazlavou hmotu z vìtráku a jeho lopatky se koneènì roztoèily. Vzduch je koneènì trochu èerstvìjší.}
-{101}{}{Podaøilo se ti odstranit mazlavou hmotu z vìtráku a jeho lopatky se koneènì roztoèily. V místnosti je u bezpeèno.}
+{100}{}{PodaÅ™ilo se ti odstranit mazlavou hmotu z vÄ›trÃ¡ku a jeho lopatky se koneÄnÄ› roztoÄily. Vzduch je koneÄnÄ› trochu ÄerstvÄ›jÅ¡Ã­.}
+{101}{}{PodaÅ™ilo se ti odstranit mazlavou hmotu z vÄ›trÃ¡ku a jeho lopatky se koneÄnÄ› roztoÄily. V mÃ­stnosti je uÅ¾ bezpeÄno.}

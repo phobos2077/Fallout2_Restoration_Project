@@ -1,90 +1,90 @@
-{100}{}{Vidíš enu.}
-{101}{}{Vidíš místní enu.}
-{102}{}{Vidíš místní enu. Její obleèení nevypadá nejlépe, ale vypadá hrdì.}
-{147}{}{To u nikde není bezpeèno?}
-{148}{}{Od kdy je tady násilí na denním poøádku?}
-{149}{}{Pøemıšlím o tom, e se pøestìhuju... u tu není bezpeèno.}
-{150}{}{Slyšel jsem, e Franc a Manson nenávidí mutanty.}
-{151}{}{Jsem rád, e jsou pryè... zajímalo by mì, kde teï jsou.}
-{152}{}{Franc a Manson jsou zmetci. Tohle mìsto nebude jako døív, dokud nebudou za møíemi.}
-{153}{}{Kdo zabil ty stráe? Jak nehumánní.}
-{154}{}{Nechce se mi vìøit, e tohle mìsto bylo kdysi mírumilovné.}
-{155}{}{Jak se ti podaøilo pøesvìdèit stráe, aby ty dva bastardy pustili?}
-{156}{}{Díky za osvobození Franca a Mansona. Nedìlali ádné potíe.}
-{157}{}{Kde jsou Franc a Manson teï? Mìli by bıt ve vìzení.}
-{158}{}{Mám mezi ghouly a mutanty velmi dobré pøátele...}
-{159}{}{Chtìlo by to víc árovek.}
-{160}{}{Co to tu smrdí?}
-{161}{}{Mám strach, e se nás NCR pokusí pohltit.}
-{162}{}{Myslíš, e je New Reno dobré místo k ivotu?}
-{163}{}{Nemám nic proti mutantùm, ale kdy oni vypadají tak legraènì.}
-{164}{}{Øekl bych ti "dobrá práce," ale nejspíš bys mì udal.}
-{165}{}{Jacob a Aileen nesnášeli mutanty? Zdáli se bıt tak pøíjemní.}
+{100}{}{VidÃ­Å¡ Å¾enu.}
+{101}{}{VidÃ­Å¡ mÃ­stnÃ­ Å¾enu.}
+{102}{}{VidÃ­Å¡ mÃ­stnÃ­ Å¾enu. JejÃ­ obleÄenÃ­ nevypadÃ¡ nejlÃ©pe, ale vypadÃ¡ hrdÄ›.}
+{147}{}{To uÅ¾ nikde nenÃ­ bezpeÄno?}
+{148}{}{Od kdy je tady nÃ¡silÃ­ na dennÃ­m poÅ™Ã¡dku?}
+{149}{}{PÅ™emÃ½Å¡lÃ­m o tom, Å¾e se pÅ™estÄ›huju... uÅ¾ tu nenÃ­ bezpeÄno.}
+{150}{}{SlyÅ¡el jsem, Å¾e Franc a Manson nenÃ¡vidÃ­ mutanty.}
+{151}{}{Jsem rÃ¡d, Å¾e jsou pryÄ... zajÃ­malo by mÄ›, kde teÄ jsou.}
+{152}{}{Franc a Manson jsou zmetci. Tohle mÄ›sto nebude jako dÅ™Ã­v, dokud nebudou za mÅ™Ã­Å¾emi.}
+{153}{}{Kdo zabil ty strÃ¡Å¾e? Jak nehumÃ¡nnÃ­.}
+{154}{}{Nechce se mi vÄ›Å™it, Å¾e tohle mÄ›sto bylo kdysi mÃ­rumilovnÃ©.}
+{155}{}{Jak se ti podaÅ™ilo pÅ™esvÄ›dÄit strÃ¡Å¾e, aby ty dva bastardy pustili?}
+{156}{}{DÃ­ky za osvobozenÃ­ Franca a Mansona. NedÄ›lali Å¾Ã¡dnÃ© potÃ­Å¾e.}
+{157}{}{Kde jsou Franc a Manson teÄ? MÄ›li by bÃ½t ve vÄ›zenÃ­.}
+{158}{}{MÃ¡m mezi ghouly a mutanty velmi dobrÃ© pÅ™Ã¡tele...}
+{159}{}{ChtÄ›lo by to vÃ­c Å¾Ã¡rovek.}
+{160}{}{Co to tu smrdÃ­?}
+{161}{}{MÃ¡m strach, Å¾e se nÃ¡s NCR pokusÃ­ pohltit.}
+{162}{}{MyslÃ­Å¡, Å¾e je New Reno dobrÃ© mÃ­sto k Å¾ivotu?}
+{163}{}{NemÃ¡m nic proti mutantÅ¯m, ale kdyÅ¾ oni vypadajÃ­ tak legraÄnÄ›.}
+{164}{}{Å˜ekl bych ti "dobrÃ¡ prÃ¡ce," ale nejspÃ­Å¡ bys mÄ› udal.}
+{165}{}{Jacob a Aileen nesnÃ¡Å¡eli mutanty? ZdÃ¡li se bÃ½t tak pÅ™Ã­jemnÃ­.}
 {166}{}{Ale no tak... Aileen?}
-{167}{}{Nemùu uvìøit, e jsou vztahy mezi lidmi a mutanty tak nahnuté.}
-{168}{}{Marcus musí bıt na lidi docela nasranej.}
-{169}{}{Myslím, e by si teï všichni lidé mìli na chvíli odpoèinout.}
-{170}{}{Slyšel jsem, e se teï mutanti pøipravují na odvetu proti lidem!}
-{171}{}{Co si o tom asi myslí ghoulové?}
-{172}{}{Dùl... je znièen... naše domovy jsou teï bezcenné.}
+{167}{}{NemÅ¯Å¾u uvÄ›Å™it, Å¾e jsou vztahy mezi lidmi a mutanty tak nahnutÃ©.}
+{168}{}{Marcus musÃ­ bÃ½t na lidi docela nasranej.}
+{169}{}{MyslÃ­m, Å¾e by si teÄ vÅ¡ichni lidÃ© mÄ›li na chvÃ­li odpoÄinout.}
+{170}{}{SlyÅ¡el jsem, Å¾e se teÄ mutanti pÅ™ipravujÃ­ na odvetu proti lidem!}
+{171}{}{Co si o tom asi myslÃ­ ghoulovÃ©?}
+{172}{}{DÅ¯l... je zniÄen... naÅ¡e domovy jsou teÄ bezcennÃ©.}
 {173}{}{Jsme ztraceni.}
 {174}{}{To je konec Broken Hills.}
-{175}{}{Pùjdu do NCR.}
-{176}{}{Kdo by mohl takovou vìc udìlat?}
-{177}{}{Mùj boe... náš dùl...}
-{178}{}{Je na svìtì nìjaká spravedlnost?}
-{179}{}{Asi si pùjdu hodit mašli. Bez dolu nepøeiju.}
-{180}{}{Ach boe... ivot je tìkı.}
-{181}{}{Páni... nikdy jsem nepotkal nikoho, kdo dokáe porazit Francise.}
-{182}{}{Ty jsi tak silnı!}
-{183}{}{Jsi fakt tvrïák, co?}
-{184}{}{Nìkdy si pøipadám jako magická koule. Obèas pronesu nìjakou vìtu a pak zmizím.}
-{185}{}{Zápasil jsi nìkdy s páraèem?}
-{186}{}{Jsi stejnì tak chytrı jako silnı?}
-{187}{}{Francis je v poslední dobì nìjakı šastnı.}
-{188}{}{Fransis úplnì záøí. e on si vèera zapíchal?}
-{189}{}{Nazdar dìvko!}
-{190}{}{Divím se, e chodíš rovnì.}
-{191}{}{Neublíil ti Francis?}
-{192}{}{Máš tady nìjakou skvrnu, uka.}
-{193}{}{Jak mùeš bıt tak blbej a myslet si, e porazíš Francise?}
-{194}{}{Doufám, e sis to uil stejnì tak jako Francis.}
-{195}{}{Ti ubozí lidé.}
-{196}{}{Kdo spadl z Jacobova ebøíku?}
-{197}{}{Co to zase plácám.}
-{198}{}{Dobøe, e jsi ve mìstì.}
-{199}{}{Zùstaneš tady na chvíli?}
-{200}{}{Doufám, e se ti tady líbí!}
-{201}{}{To byla skvìle odvedená práce. Nechceš bıt šerifem?}
-{202}{}{V poslední dobì je ve mìstì líp.}
-{203}{}{Vypadá to, e se vìci koneènì daly do pohybu.}
-{204}{}{Vypadni ode mì, parchante.}
-{205}{}{S lidmi, jako jsi ty, se nebavím.}
-{206}{}{Kdo tì pustil dovnitø?}
-{207}{}{Nechápu, proè tì odsud ještì nikdo nevyhnal.}
-{208}{}{Prosím, nech mì bıt.}
-{209}{}{Neobtìuj mì.}
-{210}{}{Nemùu ti pomoct, odejdi.}
-{211}{}{Chcípni v poušti, kreténe.}
-{212}{}{Jdi pryè.}
+{175}{}{PÅ¯jdu do NCR.}
+{176}{}{Kdo by mohl takovou vÄ›c udÄ›lat?}
+{177}{}{MÅ¯j boÅ¾e... nÃ¡Å¡ dÅ¯l...}
+{178}{}{Je na svÄ›tÄ› nÄ›jakÃ¡ spravedlnost?}
+{179}{}{Asi si pÅ¯jdu hodit maÅ¡li. Bez dolu nepÅ™eÅ¾iju.}
+{180}{}{Ach boÅ¾e... Å¾ivot je tÄ›Å¾kÃ½.}
+{181}{}{PÃ¡ni... nikdy jsem nepotkal nikoho, kdo dokÃ¡Å¾e porazit Francise.}
+{182}{}{Ty jsi tak silnÃ½!}
+{183}{}{Jsi fakt tvrÄÃ¡k, co?}
+{184}{}{NÄ›kdy si pÅ™ipadÃ¡m jako magickÃ¡ koule. ObÄas pronesu nÄ›jakou vÄ›tu a pak zmizÃ­m.}
+{185}{}{ZÃ¡pasil jsi nÄ›kdy s pÃ¡raÄem?}
+{186}{}{Jsi stejnÄ› tak chytrÃ½ jako silnÃ½?}
+{187}{}{Francis je v poslednÃ­ dobÄ› nÄ›jakÃ½ Å¡Å¥astnÃ½.}
+{188}{}{Fransis ÃºplnÄ› zÃ¡Å™Ã­. Å½e on si vÄera zapÃ­chal?}
+{189}{}{Nazdar dÄ›vko!}
+{190}{}{DivÃ­m se, Å¾e chodÃ­Å¡ rovnÄ›.}
+{191}{}{NeublÃ­Å¾il ti Francis?}
+{192}{}{MÃ¡Å¡ tady nÄ›jakou skvrnu, ukaÅ¾.}
+{193}{}{Jak mÅ¯Å¾eÅ¡ bÃ½t tak blbej a myslet si, Å¾e porazÃ­Å¡ Francise?}
+{194}{}{DoufÃ¡m, Å¾e sis to uÅ¾il stejnÄ› tak jako Francis.}
+{195}{}{Ti ubozÃ­ lidÃ©.}
+{196}{}{Kdo spadl z Jacobova Å¾ebÅ™Ã­ku?}
+{197}{}{Co to zase plÃ¡cÃ¡m.}
+{198}{}{DobÅ™e, Å¾e jsi ve mÄ›stÄ›.}
+{199}{}{ZÅ¯staneÅ¡ tady na chvÃ­li?}
+{200}{}{DoufÃ¡m, Å¾e se ti tady lÃ­bÃ­!}
+{201}{}{To byla skvÄ›le odvedenÃ¡ prÃ¡ce. NechceÅ¡ bÃ½t Å¡erifem?}
+{202}{}{V poslednÃ­ dobÄ› je ve mÄ›stÄ› lÃ­p.}
+{203}{}{VypadÃ¡ to, Å¾e se vÄ›ci koneÄnÄ› daly do pohybu.}
+{204}{}{Vypadni ode mÄ›, parchante.}
+{205}{}{S lidmi, jako jsi ty, se nebavÃ­m.}
+{206}{}{Kdo tÄ› pustil dovnitÅ™?}
+{207}{}{NechÃ¡pu, proÄ tÄ› odsud jeÅ¡tÄ› nikdo nevyhnal.}
+{208}{}{ProsÃ­m, nech mÄ› bÃ½t.}
+{209}{}{NeobtÄ›Å¾uj mÄ›.}
+{210}{}{NemÅ¯Å¾u ti pomoct, odejdi.}
+{211}{}{ChcÃ­pni v pouÅ¡ti, kretÃ©ne.}
+{212}{}{Jdi pryÄ.}
 {213}{}{Pomoc!}
 {214}{}{Je tady!}
-{215}{}{Ááááááááá!}
-{216}{}{Zrádce!}
+{215}{}{ÃÃ¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡!}
+{216}{}{ZrÃ¡dce!}
 {217}{}{Parchante!}
-{218}{}{Nech mì na pokoji!}
+{218}{}{Nech mÄ› na pokoji!}
 {219}{}{Ne! Ne! Ne!}
-{220}{}{Nedotıkej se mì!}
-{221}{}{Neubliuj mi!}
-{250}{}{Ti ubozí lidé.}
-{251}{}{Kdo spadl z Jacobova ebøíku?}
-{252}{}{Podívejme, co nám sem pøitáhla pouš.}
-{253}{}{Mám mezi ghouly a mutanty velmi dobré pøátele...}
-{254}{}{Chtìlo by to víc árovek.}
-{255}{}{Co to tu smrdí?}
-{256}{}{Mám strach, e se nás NCR pokusí pohltit.}
-{257}{}{Myslíš, e je New Reno dobré místo k ivotu?}
-{258}{}{Nemám nic proti mutantùm, ale kdy oni vypadají tak legraènì.}
-{259}{}{ivot je tvrdı. Philùv Rotgut ne.}
-{260}{}{Tomu zkurvysynovi se nedá vìøit.}
-{261}{}{Dech mojí koèky smrdí jako koèièí rádlo.}
+{220}{}{NedotÃ½kej se mÄ›!}
+{221}{}{NeubliÅ¾uj mi!}
+{250}{}{Ti ubozÃ­ lidÃ©.}
+{251}{}{Kdo spadl z Jacobova Å¾ebÅ™Ã­ku?}
+{252}{}{PodÃ­vejme, co nÃ¡m sem pÅ™itÃ¡hla pouÅ¡Å¥.}
+{253}{}{MÃ¡m mezi ghouly a mutanty velmi dobrÃ© pÅ™Ã¡tele...}
+{254}{}{ChtÄ›lo by to vÃ­c Å¾Ã¡rovek.}
+{255}{}{Co to tu smrdÃ­?}
+{256}{}{MÃ¡m strach, Å¾e se nÃ¡s NCR pokusÃ­ pohltit.}
+{257}{}{MyslÃ­Å¡, Å¾e je New Reno dobrÃ© mÃ­sto k Å¾ivotu?}
+{258}{}{NemÃ¡m nic proti mutantÅ¯m, ale kdyÅ¾ oni vypadajÃ­ tak legraÄnÄ›.}
+{259}{}{Å½ivot je tvrdÃ½. PhilÅ¯v Rotgut ne.}
+{260}{}{Tomu zkurvysynovi se nedÃ¡ vÄ›Å™it.}
+{261}{}{Dech mojÃ­ koÄky smrdÃ­ jako koÄiÄÃ­ Å¾rÃ¡dlo.}

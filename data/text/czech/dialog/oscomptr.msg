@@ -1,160 +1,160 @@
-{100}{}{Vidíš poèítaèovı terminál.}
-{101}{}{Vidíš terminál s hlasovım rozhraním.}
-{102}{}{Vidíš bìnı poèítaèovı terminál upravenı pro hlasové povely.}
-{103}{}{Zkoumáš poèítaèovı terminál, ale nevidíš, e by s ním bylo nìco špatnì. Co udìláš?}
-{104}{}{Udeøíš ho 'speciálním' zpùsobem.}
-{105}{}{Kopneš ho do 'speciálního' místa.}
-{106}{}{Spustíš diagnostickı program.}
-{107}{}{Otevøeš ho a podíváš se dovnitø.}
-{108}{}{Necháš ho bıt.}
-{109}{}{Chvíli zíráš na konzoli a vybíráš nejvhodnìjší místo, kam zasadit úder. Poté, co ho zasáhneš svım nejlepším úderem typu 'to opraví vše', monitor nìkolikrát problikne a poté se vrátí zpìt do normálního stavu. Nic víc se nestalo. Co udìláš?}
-{110}{}{Kopneš ho do 'speciálního' místa.}
-{111}{}{Spustíš diagnostickı program.}
-{112}{}{Otevøeš ho a podíváš se dovnitø.}
-{113}{}{Necháš ho bıt.}
-{114}{}{Tato osvìdèená opravná metoda vyústí ve dva vısledky. Zaprvé, monitor se na nìkolik sekund zblázní a poté se vrátí zpìt do normálního stavu. Zadruhé, uslyšíš zvuky øinèícího kovu a ten panel, do kterého jsi kopl, spadne na zem. Co udìláš?}
-{115}{}{Spustíš diagnostickı program.}
-{116}{}{Ta zatracená vìc je teï otevøená, take se podívám dovnitø.}
-{117}{}{Necháš ho bıt.}
-{118}{}{Víš urèitì, e by mìl mít systém k dispozici nìkolik diagnostickıch programù. Bohuel to vypadá, e je vstup pøes klávesnici vypnutı. Terminál pøijímá pouze hlasové povely. Co udìláš?}
-{119}{}{U zbıvá se jen podívat dovnitø.}
-{120}{}{Necháš ho bıt.}
-{121}{}{Po dùkladném prolezení kabeláe a plošnıch spojù se ti podaøilo pøijít na to, e byl systém úmyslnì sabotován. Jeden z plošnıch spojù, modul pro rozpoznávání hlasu, nelze opravit a musí se vymìnit. Teï u jen potøebuješ najít náhradní modul.}
+{100}{}{VidÃ­Å¡ poÄÃ­taÄovÃ½ terminÃ¡l.}
+{101}{}{VidÃ­Å¡ terminÃ¡l s hlasovÃ½m rozhranÃ­m.}
+{102}{}{VidÃ­Å¡ bÄ›Å¾nÃ½ poÄÃ­taÄovÃ½ terminÃ¡l upravenÃ½ pro hlasovÃ© povely.}
+{103}{}{ZkoumÃ¡Å¡ poÄÃ­taÄovÃ½ terminÃ¡l, ale nevidÃ­Å¡, Å¾e by s nÃ­m bylo nÄ›co Å¡patnÄ›. Co udÄ›lÃ¡Å¡?}
+{104}{}{UdeÅ™Ã­Å¡ ho 'speciÃ¡lnÃ­m' zpÅ¯sobem.}
+{105}{}{KopneÅ¡ ho do 'speciÃ¡lnÃ­ho' mÃ­sta.}
+{106}{}{SpustÃ­Å¡ diagnostickÃ½ program.}
+{107}{}{OtevÅ™eÅ¡ ho a podÃ­vÃ¡Å¡ se dovnitÅ™.}
+{108}{}{NechÃ¡Å¡ ho bÃ½t.}
+{109}{}{ChvÃ­li zÃ­rÃ¡Å¡ na konzoli a vybÃ­rÃ¡Å¡ nejvhodnÄ›jÅ¡Ã­ mÃ­sto, kam zasadit Ãºder. PotÃ©, co ho zasÃ¡hneÅ¡ svÃ½m nejlepÅ¡Ã­m Ãºderem typu 'to opravÃ­ vÅ¡e', monitor nÄ›kolikrÃ¡t problikne a potÃ© se vrÃ¡tÃ­ zpÄ›t do normÃ¡lnÃ­ho stavu. Nic vÃ­c se nestalo. Co udÄ›lÃ¡Å¡?}
+{110}{}{KopneÅ¡ ho do 'speciÃ¡lnÃ­ho' mÃ­sta.}
+{111}{}{SpustÃ­Å¡ diagnostickÃ½ program.}
+{112}{}{OtevÅ™eÅ¡ ho a podÃ­vÃ¡Å¡ se dovnitÅ™.}
+{113}{}{NechÃ¡Å¡ ho bÃ½t.}
+{114}{}{Tato osvÄ›dÄenÃ¡ opravnÃ¡ metoda vyÃºstÃ­ ve dva vÃ½sledky. ZaprvÃ©, monitor se na nÄ›kolik sekund zblÃ¡znÃ­ a potÃ© se vrÃ¡tÃ­ zpÄ›t do normÃ¡lnÃ­ho stavu. ZadruhÃ©, uslyÅ¡Ã­Å¡ zvuky Å™inÄÃ­cÃ­ho kovu a ten panel, do kterÃ©ho jsi kopl, spadne na zem. Co udÄ›lÃ¡Å¡?}
+{115}{}{SpustÃ­Å¡ diagnostickÃ½ program.}
+{116}{}{Ta zatracenÃ¡ vÄ›c je teÄ otevÅ™enÃ¡, takÅ¾e se podÃ­vÃ¡m dovnitÅ™.}
+{117}{}{NechÃ¡Å¡ ho bÃ½t.}
+{118}{}{VÃ­Å¡ urÄitÄ›, Å¾e by mÄ›l mÃ­t systÃ©m k dispozici nÄ›kolik diagnostickÃ½ch programÅ¯. BohuÅ¾el to vypadÃ¡, Å¾e je vstup pÅ™es klÃ¡vesnici vypnutÃ½. TerminÃ¡l pÅ™ijÃ­mÃ¡ pouze hlasovÃ© povely. Co udÄ›lÃ¡Å¡?}
+{119}{}{UÅ¾ zbÃ½vÃ¡ se jen podÃ­vat dovnitÅ™.}
+{120}{}{NechÃ¡Å¡ ho bÃ½t.}
+{121}{}{Po dÅ¯kladnÃ©m prolezenÃ­ kabelÃ¡Å¾e a ploÅ¡nÃ½ch spojÅ¯ se ti podaÅ™ilo pÅ™ijÃ­t na to, Å¾e byl systÃ©m ÃºmyslnÄ› sabotovÃ¡n. Jeden z ploÅ¡nÃ½ch spojÅ¯, modul pro rozpoznÃ¡vÃ¡nÃ­ hlasu, nelze opravit a musÃ­ se vymÄ›nit. TeÄ uÅ¾ jen potÅ™ebujeÅ¡ najÃ­t nÃ¡hradnÃ­ modul.}
 {122}{}{Beru.}
 {123}{}{Beru.}
-{124}{}{Podaøilo se ti nainstalovat modul do terminálu. Systém je opraven.}
-{125}{}{Terminál nemùe fungovat, dokud nemá nainstalovanı modul pro rozpoznávání hlasu.}
+{124}{}{PodaÅ™ilo se ti nainstalovat modul do terminÃ¡lu. SystÃ©m je opraven.}
+{125}{}{TerminÃ¡l nemÅ¯Å¾e fungovat, dokud nemÃ¡ nainstalovanÃ½ modul pro rozpoznÃ¡vÃ¡nÃ­ hlasu.}
 {126}{}{Beru.}
-{127}{}{Systém ji pracuje v poøádku.}
-{128}{}{Pøistupuji k bezpeènostním záznamùm, nahrávám holografickı záznam...}
-{129}{}{Jsi poslední, Gruthare. Brzy po tvém druhu nezbude ani flek.}
-{130}{}{Vzka svému takzvanému Prezidentovi, e za tohle shoøí v pekle.}
-{131}{}{To je jedno. Nikdy jsi nebyl nic víc ne jen mluvící zvíøe.}
-{132}{}{To je moné, ale stvoøili jste nás vy pøi svıch experimentech. Dali jste nám ivot!}
-{133}{}{A teï ti dám smrt.}
-{134}{}{Vezmìte jeho tìlo. Doktor ho chce podrobnì prozkoumat.}
-{135}{}{Jejich krev poteèe jako øeka Nil!}
-{200}{}{Vítejte, obyvateli Vaultu. Pro vaše pohodlí byl tento Vault-Tec terminál upraven tak, aby reagoval na hlasové povely. Prosím vydejte hlasovı povel.}
-{201}{}{Jé, to si mì pleteš s nìkım jinım. Víš, já nejsem obyvatel Vaultu, jsem Vyvolenı. }
+{127}{}{SystÃ©m jiÅ¾ pracuje v poÅ™Ã¡dku.}
+{128}{}{PÅ™istupuji k bezpeÄnostnÃ­m zÃ¡znamÅ¯m, nahrÃ¡vÃ¡m holografickÃ½ zÃ¡znam...}
+{129}{}{Jsi poslednÃ­, Gruthare. Brzy po tvÃ©m druhu nezbude ani flek.}
+{130}{}{VzkaÅ¾ svÃ©mu takzvanÃ©mu Prezidentovi, Å¾e za tohle shoÅ™Ã­ v pekle.}
+{131}{}{To je jedno. Nikdy jsi nebyl nic vÃ­c neÅ¾ jen mluvÃ­cÃ­ zvÃ­Å™e.}
+{132}{}{To je moÅ¾nÃ©, ale stvoÅ™ili jste nÃ¡s vy pÅ™i svÃ½ch experimentech. Dali jste nÃ¡m Å¾ivot!}
+{133}{}{A teÄ ti dÃ¡m smrt.}
+{134}{}{VezmÄ›te jeho tÄ›lo. Doktor ho chce podrobnÄ› prozkoumat.}
+{135}{}{Jejich krev poteÄe jako Å™eka Nil!}
+{200}{}{VÃ­tejte, obyvateli Vaultu. Pro vaÅ¡e pohodlÃ­ byl tento Vault-Tec terminÃ¡l upraven tak, aby reagoval na hlasovÃ© povely. ProsÃ­m vydejte hlasovÃ½ povel.}
+{201}{}{JÃ©, to si mÄ› pleteÅ¡ s nÄ›kÃ½m jinÃ½m. VÃ­Å¡, jÃ¡ nejsem obyvatel Vaultu, jsem VyvolenÃ½. }
 {202}{}{Spustit diagnostiku.}
-{203}{}{Pøepnout na vstup z klávesnice.}
-{204}{}{Zpøístupnit bezpeènostní záznamy.}
-{205}{}{Odhlásit se.}
+{203}{}{PÅ™epnout na vstup z klÃ¡vesnice.}
+{204}{}{ZpÅ™Ã­stupnit bezpeÄnostnÃ­ zÃ¡znamy.}
+{205}{}{OdhlÃ¡sit se.}
 {206}{}{He?}
-{210}{}{(Na terminálu se rozsvítí svìtlo za doprovodu rùznıch cvakající a huèících zvukù. Po nìkolika sekundách se na obrazovce zobrazí text.) Lituji, ale nerozumím vašemu povelu. Prosím zopakujte váš povel a ujistìte se, e mluvíte jasnì a zøetelnì pøímo do mikrofonu. Vault-Tec se vám omlouvá za zpùsobené nepøíjemnosti. Dìkujeme.}
+{210}{}{(Na terminÃ¡lu se rozsvÃ­tÃ­ svÄ›tlo za doprovodu rÅ¯znÃ½ch cvakajÃ­cÃ­ a huÄÃ­cÃ­ch zvukÅ¯. Po nÄ›kolika sekundÃ¡ch se na obrazovce zobrazÃ­ text.) Lituji, ale nerozumÃ­m vaÅ¡emu povelu. ProsÃ­m zopakujte vÃ¡Å¡ povel a ujistÄ›te se, Å¾e mluvÃ­te jasnÄ› a zÅ™etelnÄ› pÅ™Ã­mo do mikrofonu. Vault-Tec se vÃ¡m omlouvÃ¡ za zpÅ¯sobenÃ© nepÅ™Ã­jemnosti. DÄ›kujeme.}
 {211}{}{Spustit diagnostiku.}
-{212}{}{Pøepnout na vstup z klávesnice.}
-{213}{}{Zpøístupnit bezpeènostní záznamy.}
-{214}{}{Odhlásit se.}
-{220}{}{Prosím o chvíli strpení ne spustím diagnostiku... Vault-Tec si váí vaší trpìlivosti... dìkujeme, e èekáte... diagnostika hotova. Všechny systémy pracují v poøádku. Koneckoncù pouíváte Vault-Tec zaøízení. }
-{221}{}{Zpìt.}
-{222}{}{Odhlásit se.}
-{230}{}{Pøepínám na manuální ovládání... manuální ovládání spuštìno. Kvùli ostatním uivatelùm se tento terminál automaticky pøepne zpìt na hlasové rozhraní, a se odhlásíte. Prosím zadejte pøíkaz.}
-{231}{}{Hledat v databázi cokoliv uiteèného.}
-{232}{}{Odhlásit se.}
-{240}{}{Po chvíli hledání narazíš na tøi soubory, které stojí za zmínku: Prùvodce pøeití obyvatele Vaultu (Struèná verze), èasová osa Vaultu 13 a Správcovy záznamy.}
-{241}{}{Zpøístupnit Prùvodce pøeití obyvatele Vaultu (Struèná verze). }
-{242}{}{Zpøístupnit èasovou osu Vaultu 13. }
-{243}{}{Zpøístupnit správcovy záznamy.}
-{244}{}{Odhlásit se.}
-{250}{}{Vítejte ve Vaultu-13, nejmodernìjším veøejnım obrannım prostøedkem od spoleènosti Vault-Tec a jednièkou mezi nejlepšími atomovımi kryty. Vault-Tec, Poslední Domov Ameriky.}
-{251}{}{[Více]}
-{252}{}{Série Vaultù pro pøeití jsou od zaèátku navreny tak, aby poskytovaly nejvyšší šanci na slušnı ivot po nukleární zkáze. Je povinností kadého Amerièana nauèit se a pouívat dovednosti nutné pro pohodlnı ivot ve Vaultu. Nejlepší je zaèít popisem vašeho nového domova.}
-{253}{}{[Více]}
-{254}{}{DÙLEITÉ ÚDAJE O VAULTU 13
-                                    Zahájení stavby: Srpen 2063
-                                    Ukonèení stavby: Bøezen 2069
-                                    Poèáteèní náklady: $400 000 000 000
-                              Koneèné náklady i s úrokem: $645 000 000 000
-                Celkovı poèet obyvatel: 1000 (maximum)
-                       Doba trvání: 10 let (maximum)
-                                     Poèet obytnıch prostor: 100 (nutno sdílet loe pro dosaení maximální kapacity)}
-{255}{}{[Více]}
-{256}{}{Vault-Tec vybral pro své obyvatele Vaultu RobCo Industries RobCo Pip-Boy 2000 za jejich Osobního Informaèního Pomocníka, aby jim pomohl zaznamenávat informace. (Informace jsou extrémnì dùleité. Vlastnì se mùe jednat o nejcennìjší zbraò proti zániku civilizace, take dávejte pozor!)}
-{257}{}{[Více]}
-{258}{}{RobCo Pip-Boy 2000 je šikovné zaøízení, které nosíte na svém zápìstí. Je malé, obzvláš na dnešní pomìry, a umoní vám uchovat obrovské mnoství informací. A pøi startu vyuívá moderní super-deluxe grafiku! Pro více informací prosím nahlédnìte do vašeho Pip-Boy manuálu.}
-{259}{}{[Více]}
-{260}{}{Klíèem k úspìšnému obnovení civilizace po masivní atomové válce je èlovìk. Zde ve Vault-Tecu pracujeme na tom, aby byl/a kadı mu (a ena) pøipraven/a vzkøísit Ameriku z mrtvıch.}
-{261}{}{[Více]}
-{262}{}{Vìøíme, e pozitivní pøístup je jedním z našich nejlepších dostupnıch prostøedkù. Pokud spatøíte nìjaké obyvatele Vaultu vykazující ménì pozitivní pøístup, neprodlenì je nahlaste svému správci Vaultu. Pamatujte, jakmile se dveøe uzavøou, cokoliv správce øekne, platí.}
-{263}{}{[Více]}
-{264}{}{Vault-13 má nejmodernìjší vybavení pro pøeití. Zásoby ve skladištních kontejnerech vydrí tisíci lidem po dobu deseti let. Vaši pøátelé ve Vault-Tecu vám poskytli vše, co budete potøebovat, a nastane èas opustit Vault a znovu vybudovat Ameriku.}
-{265}{}{[Více]}
-{266}{}{Dìkujeme, e jste si našli èas na pøeètení Prùvodce pøeití obyvatele Vaultu (Struèná verze). My ve Vault-Tec vìøíme, e si zamilujete vaše nové podzemní ubytování.}
-{267}{}{Zpøístupnit èasovou osu Vaultu 13. }
-{268}{}{Zpøístupnit správcovy záznamy.}
-{269}{}{Odhlásit se.}
-{270}{}{Proèítáš zaèátek èasové osy a zaujalo tì, e nikde není vysvìtleno, proè se Vault neotevøel 10 let po Velké Válce, jak bylo pùvodnì plánováno. }
-{271}{}{[Více]}
-{272}{}{Proèítáš dále, ale nenacházíš nic zajímavého a do roku 2161, kdy se ve Vaultu rozbil jedinı funkèní vodní èip. Cítíš nával pıchy, kdy èteš o svém prapøedkovi, kterı byl vybrán pro dùleitı úkol opustit Vault a najít v pustinì náhradní vodní èip. Ale je trochu zvláštní vidìt nejuctívanìjší legendu svého kmene napsanou v tak jednoduché formì.}
-{273}{}{[Více]}
-{274}{}{Pokraèuješ ve ètení èasové osy, kde se píše o úspìchu a následném exilu tvého prapøedka a jak se k nìmu nìkolik dalších obyvatel Vaultu pøidalo namísto toho, aby zùstali v relativním bezpeèí Vaultu. Také nacházíš zmínku o tom, jak byl nakonec správce souzen a odsouzen ostatními obyvateli Vaultu.}
-{275}{}{[Více]}
-{276}{}{Poslední záznam v èasové ose je z kvìtna roku 2242. Zdá se, e je to poprvé, kdy byl z Vaultu 13 vyslán signál "vše èisté" z neznámého zdroje. Po chvíli debatování se obyvatelé Vaultu rozhodli otevøít dveøe Vaultu a prozkoumat povrch. Není tu ádnı záznam o tom, co se s nimi poté stalo.}
-{277}{}{Zpøístupnit Prùvodce pøeití obyvatele Vaultu (Struèná verze). }
-{278}{}{Zpøístupnit správcovy záznamy.}
-{279}{}{Odhlásit se.}
-{280}{}{Vyadována autorizace. Prosím zadejte heslo. }
-{281}{}{[Zpìt]}
-{282}{}{[Hádat heslo]}
-{283}{}{[Pokusit se dovnitø hacknout]}
-{284}{}{Odhlásit se.}
-{290}{}{Nesprávné heslo. Prosím zadejte heslo.}
-{291}{}{[Zpìt]}
-{292}{}{[Hádat heslo]}
-{293}{}{[Pokusit se dovnitø hacknout]}
-{294}{}{Odhlásit se.}
-{300}{}{Nesprávné heslo. Byl vám odepøen pøístup k souborùm. Vault-Tec se vám omlouvá za zpùsobené nepøíjemnosti.}
-{301}{}{[Zpìt]}
-{302}{}{[Pokusit se dovnitø hacknout]}
-{303}{}{Odhlásit se.}
-{310}{}{(Zkoušíš vše, na co si jen vzpomeneš, ale nedokáeš získat pøístup. S pocitem poráky se vrátíš do hlavního menu.)}
+{212}{}{PÅ™epnout na vstup z klÃ¡vesnice.}
+{213}{}{ZpÅ™Ã­stupnit bezpeÄnostnÃ­ zÃ¡znamy.}
+{214}{}{OdhlÃ¡sit se.}
+{220}{}{ProsÃ­m o chvÃ­li strpenÃ­ neÅ¾ spustÃ­m diagnostiku... Vault-Tec si vÃ¡Å¾Ã­ vaÅ¡Ã­ trpÄ›livosti... dÄ›kujeme, Å¾e ÄekÃ¡te... diagnostika hotova. VÅ¡echny systÃ©my pracujÃ­ v poÅ™Ã¡dku. KoneckoncÅ¯ pouÅ¾Ã­vÃ¡te Vault-Tec zaÅ™Ã­zenÃ­. }
+{221}{}{ZpÄ›t.}
+{222}{}{OdhlÃ¡sit se.}
+{230}{}{PÅ™epÃ­nÃ¡m na manuÃ¡lnÃ­ ovlÃ¡dÃ¡nÃ­... manuÃ¡lnÃ­ ovlÃ¡dÃ¡nÃ­ spuÅ¡tÄ›no. KvÅ¯li ostatnÃ­m uÅ¾ivatelÅ¯m se tento terminÃ¡l automaticky pÅ™epne zpÄ›t na hlasovÃ© rozhranÃ­, aÅ¾ se odhlÃ¡sÃ­te. ProsÃ­m zadejte pÅ™Ã­kaz.}
+{231}{}{Hledat v databÃ¡zi cokoliv uÅ¾iteÄnÃ©ho.}
+{232}{}{OdhlÃ¡sit se.}
+{240}{}{Po chvÃ­li hledÃ¡nÃ­ narazÃ­Å¡ na tÅ™i soubory, kterÃ© stojÃ­ za zmÃ­nku: PrÅ¯vodce pÅ™eÅ¾itÃ­ obyvatele Vaultu (StruÄnÃ¡ verze), ÄasovÃ¡ osa Vaultu 13 a SprÃ¡vcovy zÃ¡znamy.}
+{241}{}{ZpÅ™Ã­stupnit PrÅ¯vodce pÅ™eÅ¾itÃ­ obyvatele Vaultu (StruÄnÃ¡ verze). }
+{242}{}{ZpÅ™Ã­stupnit Äasovou osu Vaultu 13. }
+{243}{}{ZpÅ™Ã­stupnit sprÃ¡vcovy zÃ¡znamy.}
+{244}{}{OdhlÃ¡sit se.}
+{250}{}{VÃ­tejte ve Vaultu-13, nejmodernÄ›jÅ¡Ã­m veÅ™ejnÃ½m obrannÃ½m prostÅ™edkem od spoleÄnosti Vault-Tec a jedniÄkou mezi nejlepÅ¡Ã­mi atomovÃ½mi kryty. Vault-Tec, PoslednÃ­ Domov Ameriky.}
+{251}{}{[VÃ­ce]}
+{252}{}{SÃ©rie VaultÅ¯ pro pÅ™eÅ¾itÃ­ jsou od zaÄÃ¡tku navrÅ¾eny tak, aby poskytovaly nejvyÅ¡Å¡Ã­ Å¡anci na sluÅ¡nÃ½ Å¾ivot po nukleÃ¡rnÃ­ zkÃ¡ze. Je povinnostÃ­ kaÅ¾dÃ©ho AmeriÄana nauÄit se a pouÅ¾Ã­vat dovednosti nutnÃ© pro pohodlnÃ½ Å¾ivot ve Vaultu. NejlepÅ¡Ã­ je zaÄÃ­t popisem vaÅ¡eho novÃ©ho domova.}
+{253}{}{[VÃ­ce]}
+{254}{}{DÅ®LEÅ½ITÃ‰ ÃšDAJE O VAULTU 13
+                                    ZahÃ¡jenÃ­ stavby: Srpen 2063
+                                    UkonÄenÃ­ stavby: BÅ™ezen 2069
+                                    PoÄÃ¡teÄnÃ­ nÃ¡klady: $400 000 000 000
+                              KoneÄnÃ© nÃ¡klady i s Ãºrokem: $645 000 000 000
+                CelkovÃ½ poÄet obyvatel: 1000 (maximum)
+                       Doba trvÃ¡nÃ­: 10 let (maximum)
+                                     PoÄet obytnÃ½ch prostor: 100 (nutno sdÃ­let loÅ¾e pro dosaÅ¾enÃ­ maximÃ¡lnÃ­ kapacity)}
+{255}{}{[VÃ­ce]}
+{256}{}{Vault-Tec vybral pro svÃ© obyvatele Vaultu RobCo Industries RobCo Pip-Boy 2000 za jejich OsobnÃ­ho InformaÄnÃ­ho PomocnÃ­ka, aby jim pomohl zaznamenÃ¡vat informace. (Informace jsou extrÃ©mnÄ› dÅ¯leÅ¾itÃ©. VlastnÄ› se mÅ¯Å¾e jednat o nejcennÄ›jÅ¡Ã­ zbraÅˆ proti zÃ¡niku civilizace, takÅ¾e dÃ¡vejte pozor!)}
+{257}{}{[VÃ­ce]}
+{258}{}{RobCo Pip-Boy 2000 je Å¡ikovnÃ© zaÅ™Ã­zenÃ­, kterÃ© nosÃ­te na svÃ©m zÃ¡pÄ›stÃ­. Je malÃ©, obzvlÃ¡Å¡Å¥ na dneÅ¡nÃ­ pomÄ›ry, a umoÅ¾nÃ­ vÃ¡m uchovat obrovskÃ© mnoÅ¾stvÃ­ informacÃ­. A pÅ™i startu vyuÅ¾Ã­vÃ¡ modernÃ­ super-deluxe grafiku! Pro vÃ­ce informacÃ­ prosÃ­m nahlÃ©dnÄ›te do vaÅ¡eho Pip-Boy manuÃ¡lu.}
+{259}{}{[VÃ­ce]}
+{260}{}{KlÃ­Äem k ÃºspÄ›Å¡nÃ©mu obnovenÃ­ civilizace po masivnÃ­ atomovÃ© vÃ¡lce je ÄlovÄ›k. Zde ve Vault-Tecu pracujeme na tom, aby byl/a kaÅ¾dÃ½ muÅ¾ (a Å¾ena) pÅ™ipraven/a vzkÅ™Ã­sit Ameriku z mrtvÃ½ch.}
+{261}{}{[VÃ­ce]}
+{262}{}{VÄ›Å™Ã­me, Å¾e pozitivnÃ­ pÅ™Ã­stup je jednÃ­m z naÅ¡ich nejlepÅ¡Ã­ch dostupnÃ½ch prostÅ™edkÅ¯. Pokud spatÅ™Ã­te nÄ›jakÃ© obyvatele Vaultu vykazujÃ­cÃ­ mÃ©nÄ› pozitivnÃ­ pÅ™Ã­stup, neprodlenÄ› je nahlaste svÃ©mu sprÃ¡vci Vaultu. Pamatujte, jakmile se dveÅ™e uzavÅ™ou, cokoliv sprÃ¡vce Å™ekne, platÃ­.}
+{263}{}{[VÃ­ce]}
+{264}{}{Vault-13 mÃ¡ nejmodernÄ›jÅ¡Ã­ vybavenÃ­ pro pÅ™eÅ¾itÃ­. ZÃ¡soby ve skladiÅ¡tnÃ­ch kontejnerech vydrÅ¾Ã­ tisÃ­ci lidem po dobu deseti let. VaÅ¡i pÅ™Ã¡telÃ© ve Vault-Tecu vÃ¡m poskytli vÅ¡e, co budete potÅ™ebovat, aÅ¾ nastane Äas opustit Vault a znovu vybudovat Ameriku.}
+{265}{}{[VÃ­ce]}
+{266}{}{DÄ›kujeme, Å¾e jste si naÅ¡li Äas na pÅ™eÄtenÃ­ PrÅ¯vodce pÅ™eÅ¾itÃ­ obyvatele Vaultu (StruÄnÃ¡ verze). My ve Vault-Tec vÄ›Å™Ã­me, Å¾e si zamilujete vaÅ¡e novÃ© podzemnÃ­ ubytovÃ¡nÃ­.}
+{267}{}{ZpÅ™Ã­stupnit Äasovou osu Vaultu 13. }
+{268}{}{ZpÅ™Ã­stupnit sprÃ¡vcovy zÃ¡znamy.}
+{269}{}{OdhlÃ¡sit se.}
+{270}{}{ProÄÃ­tÃ¡Å¡ zaÄÃ¡tek ÄasovÃ© osy a zaujalo tÄ›, Å¾e nikde nenÃ­ vysvÄ›tleno, proÄ se Vault neotevÅ™el 10 let po VelkÃ© VÃ¡lce, jak bylo pÅ¯vodnÄ› plÃ¡novÃ¡no. }
+{271}{}{[VÃ­ce]}
+{272}{}{ProÄÃ­tÃ¡Å¡ dÃ¡le, ale nenachÃ¡zÃ­Å¡ nic zajÃ­mavÃ©ho aÅ¾ do roku 2161, kdy se ve Vaultu rozbil jedinÃ½ funkÄnÃ­ vodnÃ­ Äip. CÃ­tÃ­Å¡ nÃ¡val pÃ½chy, kdyÅ¾ ÄteÅ¡ o svÃ©m prapÅ™edkovi, kterÃ½ byl vybrÃ¡n pro dÅ¯leÅ¾itÃ½ Ãºkol opustit Vault a najÃ­t v pustinÄ› nÃ¡hradnÃ­ vodnÃ­ Äip. Ale je trochu zvlÃ¡Å¡tnÃ­ vidÄ›t nejuctÃ­vanÄ›jÅ¡Ã­ legendu svÃ©ho kmene napsanou v tak jednoduchÃ© formÄ›.}
+{273}{}{[VÃ­ce]}
+{274}{}{PokraÄujeÅ¡ ve ÄtenÃ­ ÄasovÃ© osy, kde se pÃ­Å¡e o ÃºspÄ›chu a nÃ¡slednÃ©m exilu tvÃ©ho prapÅ™edka a jak se k nÄ›mu nÄ›kolik dalÅ¡Ã­ch obyvatel Vaultu pÅ™idalo namÃ­sto toho, aby zÅ¯stali v relativnÃ­m bezpeÄÃ­ Vaultu. TakÃ© nachÃ¡zÃ­Å¡ zmÃ­nku o tom, jak byl nakonec sprÃ¡vce souzen a odsouzen ostatnÃ­mi obyvateli Vaultu.}
+{275}{}{[VÃ­ce]}
+{276}{}{PoslednÃ­ zÃ¡znam v ÄasovÃ© ose je z kvÄ›tna roku 2242. ZdÃ¡ se, Å¾e je to poprvÃ©, kdy byl z Vaultu 13 vyslÃ¡n signÃ¡l "vÅ¡e ÄistÃ©" z neznÃ¡mÃ©ho zdroje. Po chvÃ­li debatovÃ¡nÃ­ se obyvatelÃ© Vaultu rozhodli otevÅ™Ã­t dveÅ™e Vaultu a prozkoumat povrch. NenÃ­ tu Å¾Ã¡dnÃ½ zÃ¡znam o tom, co se s nimi potÃ© stalo.}
+{277}{}{ZpÅ™Ã­stupnit PrÅ¯vodce pÅ™eÅ¾itÃ­ obyvatele Vaultu (StruÄnÃ¡ verze). }
+{278}{}{ZpÅ™Ã­stupnit sprÃ¡vcovy zÃ¡znamy.}
+{279}{}{OdhlÃ¡sit se.}
+{280}{}{VyÅ¾adovÃ¡na autorizace. ProsÃ­m zadejte heslo. }
+{281}{}{[ZpÄ›t]}
+{282}{}{[HÃ¡dat heslo]}
+{283}{}{[Pokusit se dovnitÅ™ hacknout]}
+{284}{}{OdhlÃ¡sit se.}
+{290}{}{NesprÃ¡vnÃ© heslo. ProsÃ­m zadejte heslo.}
+{291}{}{[ZpÄ›t]}
+{292}{}{[HÃ¡dat heslo]}
+{293}{}{[Pokusit se dovnitÅ™ hacknout]}
+{294}{}{OdhlÃ¡sit se.}
+{300}{}{NesprÃ¡vnÃ© heslo. Byl vÃ¡m odepÅ™en pÅ™Ã­stup k souborÅ¯m. Vault-Tec se vÃ¡m omlouvÃ¡ za zpÅ¯sobenÃ© nepÅ™Ã­jemnosti.}
+{301}{}{[ZpÄ›t]}
+{302}{}{[Pokusit se dovnitÅ™ hacknout]}
+{303}{}{OdhlÃ¡sit se.}
+{310}{}{(ZkouÅ¡Ã­Å¡ vÅ¡e, na co si jen vzpomeneÅ¡, ale nedokÃ¡Å¾eÅ¡ zÃ­skat pÅ™Ã­stup. S pocitem porÃ¡Å¾ky se vrÃ¡tÃ­Å¡ do hlavnÃ­ho menu.)}
 {311}{}{Spustit diagnostiku.}
-{312}{}{Pøepnout na vstup z klávesnice.}
-{313}{}{Zpøístupnit bezpeènostní záznamy.}
-{314}{}{Odhlásit se.}
-{320}{}{Správné heslo. Všechny záznamy kromì jednoho byly odstranìny ze systému. Poslední správcùv záznam je stále pøístupnı.}
-{321}{}{(Po nìkolika dlouhıch minutách praktikování techno-voodoo se ti podaøilo hacknout dovnitø. Nicménì se zdá, e kromì posledního záznamu byly všechny ostatní vymazány.)}
-{322}{}{Dobrá, podíváme se, co mìl ten správce na srdci. [Pøeèíst záznam] }
-{323}{}{Eh, to je jedno. [Odhlásit se]}
-{330}{}{Je konec. Povaujte tento záznam za má poslední slova, jeliko pochybuji, e se doiji dne, kdy budu moci zapsat další. Ach ne, obyvatelé Vaultu promluvili a dali zøetelnì najevo, e chtìjí moji hlavu. Vìdìl jsem, e tento den nastane u od té doby, kdy se MU je podaøilo nabudit tím, e se mu povedlo nìco nemoného. Jistì, zachránil nám všem ivot, ale také vše pokazil.}
-{331}{}{[Více]}
-{332}{}{Nech vejde ve známost, e jsem velmi nerad vypovìdìl našeho "velkého hrdinu", ale nemìl jsem v tomto pøípadì jinou monost. Jeho dobrodruství v pustinì ho velmi zmìnilo. Byl pro projekt pøíliš velikou hrozbou. Kdybych ho nechal ít mezi námi, urèitì by se mu podaøilo zjistit pravı dùvod existence Vaultù a ohrozil by tak celı tento experiment. A i kdyby ne, tak by minimálnì inspiroval ostatní k vıpravám do pustiny, co by bylo stejnì tak špatné.}
-{333}{}{[Více]}
-{334}{}{Prostì musel odejít. Nebyla jiná monost. Ale i to nestaèilo. Ne, obávám se, e škody u byly napáchány. Dovolil jsem nìkolika jeho nejtvrdohlavìjším zastáncùm, aby ho následovali do exilu a poté jsem se pokusil nad zbıvajícími lidmi opìt pøevzít kontrolu. Ale bylo to k nièemu. U jsem nad nimi nemìl autoritu. Budi. Jsem vinen pouze z toho, e jsem celı svùj ivot zasvìtil potøebám našeho Velkého Národa.}
-{335}{}{[Více]}
-{336}{}{Lituji pouze toho, e Vault 13 pravdìpodobnì nedokonèí svùj sociální experiment. A se mì zbaví, jsem si jist, e ostatní odejdou z Vaultu. Ne hned samozøejmì, na to jsem do nich vštìpil pøíliš mnoho strachu o okolním svìtì, ale èasem ten strach pøekonají. Jsem takøka pøesvìdèen, e Vault 13 nezùstane uzavøenı a do roku 2277, jak vyadoval experiment.}
-{337}{}{[Více]}
-{338}{}{Obávám se, e jsem jako správce zklamal. Mùu jen doufat, e ostatní veøejné Vaulty, které se úèastnily Programu Sociálního Zachování, byly úspìšnìjší. Pro mé nadøízené, kteøí toto budou zajisté nìkdy èíst: Odpuste mi. A Bùh ehnej Americe.}
-{339}{}{Hledat jakékoliv další soubory obsahující informace o "Programu Sociálního Zachování".}
-{340}{}{Odhlásit se.}
-{350}{}{Po hodinách prohledávání poèítaèovıch archívù nenacházíš ádnou zmínku o Programu Sociálního Zachování. Po skonèení hledání pøísaháš, e u nikdy nepromarníš tolik èasu civìním do monitoru poèítaèe.}
-{351}{}{Odhlásit se.}
-{360}{}{Po hodinách prohledávání poèítaèovıch archívù nacházíš nìkolik skrytıch dokumentù tıkajících se Programu Sociálního Zachování. Po pøeètení se dozvídáš ponìkud znepokojující pravdu o Vaultech: nikdy nebyly urèené k záchranì obyvatel Spojenıch Státù.}
-{361}{}{[Více]}
-{362}{}{Neuvìøitelné, všech 122 veøejnıch Vaultù firmy Vault-Tec bylo souèástí obrovského sociálního experimentu zorganizovaného vládou Spojenıch Státù. Pouze 17 Vaultù, pøezdívanıch "kontrolní Vaulty", bylo navreno tak, aby fungovaly správnì (zdá se, e Vault 8 byl jedním z tìch šastnıch). Ostatní mìly mít nìjaké závané vady, aby mohla vláda studovat vybrané jedince a pozorovat, jak reagují v napjatıch situacích a jak úspìšnì jsou schopni obydlit povrch, a se jejich Vault otevøe.}
-{363}{}{[Více]}
-{364}{}{Zdá se, e úkolem Vaultu 13 bylo zùstat uzavøenı po 200 let, aby se otestovali následky prodlouené izolace. Porucha vodního èipu údajnì nebyla nikdy zamıšlena a donutila tak správce improvizovat zvolením tvého prapøedka, kterı se mìl vydat na povrch a získat novı èip. Po chvíli dalšího prohledávání se ti podaøilo najít popisy experimentù nìkterıch dalších Vaultù.}
-{365}{}{[Více]}
-{366}{}{Dveøe Vaultu 12 byly navreny tak, aby se nikdy nemohly zavøít, aby ti kreténi, stojící za tímto experimentem, mohli "studovat následky radiace na vybrané populaci". Pokud si na tu legendu dobøe vzpomínáš, Vault 12 se nacházel pod ghouly osídleném mìstì Necropolis, kde Zakladatel koneènì našel vodní èip. Je velice pravdìpodobné, e ghoulové jsou vısledkem tohoto experimentu.}
-{367}{}{[Více]}
-{368}{}{Vault 15, další klíèovou lokací v Zakladatelovì vıpravì, mìl bıt obydlen lidmi s "radikálnì odlišnımi ideologiemi", kteøí mìli bıt spolu uzavøeni ve Vaultu po dobu padesáti let. Vault 27 mìl bıt úmyslnì pøelidnìn 2000 lidmi, dvojnásobku maximální kapacity. To nemohlo bıt pøíjemné. Vault 29 mìl bıt obydlen pouze lidmi mladšími šestnácti let, pøièem jejich rodièe byli "úmyslnì pøesunuti do jinıch Vaultù".}
-{369}{}{[Více]}
-{370}{}{Experiment Vaultu 34 zahrnoval zbrojnici pøeplnìnou zbranìmi a municí a to vše samozøejmì bez zámku. Jak pøíjemné. Vault 36 mìl potravinové procesory, které byly navrené tak, aby produkovali pouze "øídkou vodnatou kaši", kdeto Vault 42 byl vybaven pouze tlumenım osvìtlením. árovky silnìjší ne 40 wattù nebyly k dispozici.}
-{371}{}{[Více]}
-{372}{}{Vybavení Vaultu 53 bylo navreno tak, aby se rozbilo pokadé za nìkolik mìsícù. Vybavení bylo moné opravit, avšak neustálé poruchy mìly testovat napìtí všech obyvatel. Zajímalo by tì, kolik expertù na mechaniku a techniku mohl tento Vault stvoøit. Vault 55 nemìl mít ádná zábavná média, zatímco Vault 56 nemìl mít ádná zábavná média a na jednu, ve které vystupoval jeden obzvláš špatnı komik.}
-{373}{}{[Více]}
-{374}{}{Ve Vaultu 68 mìlo bydlet 999 muù a pouze jedna ena. Nedokáeš si pøedstavit, jaká zvìrstva se tam musela odehrávat... na druhou stranu, ve Vaultu 69 mìlo bıt 999 en a pouze jeden mu... zajímavé. Stroje na vırobu vault kombinéz ve Vaultu 70 byly navreny tak, aby se rozbily kadıch 6 mìsícù. A nakonec Vault 106 byl navren tak, aby po deseti dnech od uzavøení zaèal vypouštìt "psychoaktivní látky do ventilaèního systému".}
-{375}{}{Odhlásit se.}
-{500}{}{Dozvídáš se o experimentech s Vaulty a funkce nìkolika rùznıch Vaultù.}
-{510}{}{Dozvídáš se o historii Vaultu 13 a správcovy role v experimentech s Vaulty.}
-{520}{}{Je mi líto, ale nerozumím.}
-{521}{}{Odhlásit se.}
-{2541}{}{Tlouška dveøí: 4 metry, ocel
-                                       Územní rozloha: 3 200 000 tun zeminy v hloubce 200 stop
-     Poèítaèovı ovládací systém: Stroj s vlastním myšlením
-      Hlavní zdroj energie: Geotermální
-                             Záloní zdroj energie: Záloní systémy General Atomics Nuclear Power
-                                                  Poadavky na pøíkon: 3.98mkw/den
-                          Zaøízení: Kompletní stavební vybavení, hydro farmy, systém na èištìní vody z podzemní øeky,
- obranná vızbroj pro 10 muù, komunikace, sociální a zábavná média (na celkovou dobu trvání pobytu)}
+{312}{}{PÅ™epnout na vstup z klÃ¡vesnice.}
+{313}{}{ZpÅ™Ã­stupnit bezpeÄnostnÃ­ zÃ¡znamy.}
+{314}{}{OdhlÃ¡sit se.}
+{320}{}{SprÃ¡vnÃ© heslo. VÅ¡echny zÃ¡znamy kromÄ› jednoho byly odstranÄ›ny ze systÃ©mu. PoslednÃ­ sprÃ¡vcÅ¯v zÃ¡znam je stÃ¡le pÅ™Ã­stupnÃ½.}
+{321}{}{(Po nÄ›kolika dlouhÃ½ch minutÃ¡ch praktikovÃ¡nÃ­ techno-voodoo se ti podaÅ™ilo hacknout dovnitÅ™. NicmÃ©nÄ› se zdÃ¡, Å¾e kromÄ› poslednÃ­ho zÃ¡znamu byly vÅ¡echny ostatnÃ­ vymazÃ¡ny.)}
+{322}{}{DobrÃ¡, podÃ­vÃ¡me se, co mÄ›l ten sprÃ¡vce na srdci. [PÅ™eÄÃ­st zÃ¡znam] }
+{323}{}{Eh, to je jedno. [OdhlÃ¡sit se]}
+{330}{}{Je konec. PovaÅ¾ujte tento zÃ¡znam za mÃ¡ poslednÃ­ slova, jelikoÅ¾ pochybuji, Å¾e se doÅ¾iji dne, kdy budu moci zapsat dalÅ¡Ã­. Ach ne, obyvatelÃ© Vaultu promluvili a dali zÅ™etelnÄ› najevo, Å¾e chtÄ›jÃ­ moji hlavu. VÄ›dÄ›l jsem, Å¾e tento den nastane uÅ¾ od tÃ© doby, kdy se MU je podaÅ™ilo nabudit tÃ­m, Å¾e se mu povedlo nÄ›co nemoÅ¾nÃ©ho. JistÄ›, zachrÃ¡nil nÃ¡m vÅ¡em Å¾ivot, ale takÃ© vÅ¡e pokazil.}
+{331}{}{[VÃ­ce]}
+{332}{}{NechÅ¥ vejde ve znÃ¡most, Å¾e jsem velmi nerad vypovÄ›dÄ›l naÅ¡eho "velkÃ©ho hrdinu", ale nemÄ›l jsem v tomto pÅ™Ã­padÄ› jinou moÅ¾nost. Jeho dobrodruÅ¾stvÃ­ v pustinÄ› ho velmi zmÄ›nilo. Byl pro projekt pÅ™Ã­liÅ¡ velikou hrozbou. Kdybych ho nechal Å¾Ã­t mezi nÃ¡mi, urÄitÄ› by se mu podaÅ™ilo zjistit pravÃ½ dÅ¯vod existence VaultÅ¯ a ohrozil by tak celÃ½ tento experiment. A i kdyby ne, tak by minimÃ¡lnÄ› inspiroval ostatnÃ­ k vÃ½pravÃ¡m do pustiny, coÅ¾ by bylo stejnÄ› tak Å¡patnÃ©.}
+{333}{}{[VÃ­ce]}
+{334}{}{ProstÄ› musel odejÃ­t. Nebyla jinÃ¡ moÅ¾nost. Ale i to nestaÄilo. Ne, obÃ¡vÃ¡m se, Å¾e Å¡kody uÅ¾ byly napÃ¡chÃ¡ny. Dovolil jsem nÄ›kolika jeho nejtvrdohlavÄ›jÅ¡Ã­m zastÃ¡ncÅ¯m, aby ho nÃ¡sledovali do exilu a potÃ© jsem se pokusil nad zbÃ½vajÃ­cÃ­mi lidmi opÄ›t pÅ™evzÃ­t kontrolu. Ale bylo to k niÄemu. UÅ¾ jsem nad nimi nemÄ›l autoritu. BudiÅ¾. Jsem vinen pouze z toho, Å¾e jsem celÃ½ svÅ¯j Å¾ivot zasvÄ›til potÅ™ebÃ¡m naÅ¡eho VelkÃ©ho NÃ¡roda.}
+{335}{}{[VÃ­ce]}
+{336}{}{Lituji pouze toho, Å¾e Vault 13 pravdÄ›podobnÄ› nedokonÄÃ­ svÅ¯j sociÃ¡lnÃ­ experiment. AÅ¾ se mÄ› zbavÃ­, jsem si jist, Å¾e ostatnÃ­ odejdou z Vaultu. Ne hned samozÅ™ejmÄ›, na to jsem do nich vÅ¡tÄ›pil pÅ™Ã­liÅ¡ mnoho strachu o okolnÃ­m svÄ›tÄ›, ale Äasem ten strach pÅ™ekonajÃ­. Jsem takÅ™ka pÅ™esvÄ›dÄen, Å¾e Vault 13 nezÅ¯stane uzavÅ™enÃ½ aÅ¾ do roku 2277, jak vyÅ¾adoval experiment.}
+{337}{}{[VÃ­ce]}
+{338}{}{ObÃ¡vÃ¡m se, Å¾e jsem jako sprÃ¡vce zklamal. MÅ¯Å¾u jen doufat, Å¾e ostatnÃ­ veÅ™ejnÃ© Vaulty, kterÃ© se ÃºÄastnily Programu SociÃ¡lnÃ­ho ZachovÃ¡nÃ­, byly ÃºspÄ›Å¡nÄ›jÅ¡Ã­. Pro mÃ© nadÅ™Ã­zenÃ©, kteÅ™Ã­ toto budou zajistÃ© nÄ›kdy ÄÃ­st: OdpusÅ¥te mi. A BÅ¯h Å¾ehnej Americe.}
+{339}{}{Hledat jakÃ©koliv dalÅ¡Ã­ soubory obsahujÃ­cÃ­ informace o "Programu SociÃ¡lnÃ­ho ZachovÃ¡nÃ­".}
+{340}{}{OdhlÃ¡sit se.}
+{350}{}{Po hodinÃ¡ch prohledÃ¡vÃ¡nÃ­ poÄÃ­taÄovÃ½ch archÃ­vÅ¯ nenachÃ¡zÃ­Å¡ Å¾Ã¡dnou zmÃ­nku o Programu SociÃ¡lnÃ­ho ZachovÃ¡nÃ­. Po skonÄenÃ­ hledÃ¡nÃ­ pÅ™Ã­sahÃ¡Å¡, Å¾e uÅ¾ nikdy nepromarnÃ­Å¡ tolik Äasu civÄ›nÃ­m do monitoru poÄÃ­taÄe.}
+{351}{}{OdhlÃ¡sit se.}
+{360}{}{Po hodinÃ¡ch prohledÃ¡vÃ¡nÃ­ poÄÃ­taÄovÃ½ch archÃ­vÅ¯ nachÃ¡zÃ­Å¡ nÄ›kolik skrytÃ½ch dokumentÅ¯ tÃ½kajÃ­cÃ­ch se Programu SociÃ¡lnÃ­ho ZachovÃ¡nÃ­. Po pÅ™eÄtenÃ­ se dozvÃ­dÃ¡Å¡ ponÄ›kud znepokojujÃ­cÃ­ pravdu o Vaultech: nikdy nebyly urÄenÃ© k zÃ¡chranÄ› obyvatel SpojenÃ½ch StÃ¡tÅ¯.}
+{361}{}{[VÃ­ce]}
+{362}{}{NeuvÄ›Å™itelnÃ©, vÅ¡ech 122 veÅ™ejnÃ½ch VaultÅ¯ firmy Vault-Tec bylo souÄÃ¡stÃ­ obrovskÃ©ho sociÃ¡lnÃ­ho experimentu zorganizovanÃ©ho vlÃ¡dou SpojenÃ½ch StÃ¡tÅ¯. Pouze 17 VaultÅ¯, pÅ™ezdÃ­vanÃ½ch "kontrolnÃ­ Vaulty", bylo navrÅ¾eno tak, aby fungovaly sprÃ¡vnÄ› (zdÃ¡ se, Å¾e Vault 8 byl jednÃ­m z tÄ›ch Å¡Å¥astnÃ½ch). OstatnÃ­ mÄ›ly mÃ­t nÄ›jakÃ© zÃ¡vaÅ¾nÃ© vady, aby mohla vlÃ¡da studovat vybranÃ© jedince a pozorovat, jak reagujÃ­ v napjatÃ½ch situacÃ­ch a jak ÃºspÄ›Å¡nÄ› jsou schopni obydlit povrch, aÅ¾ se jejich Vault otevÅ™e.}
+{363}{}{[VÃ­ce]}
+{364}{}{ZdÃ¡ se, Å¾e Ãºkolem Vaultu 13 bylo zÅ¯stat uzavÅ™enÃ½ po 200 let, aby se otestovali nÃ¡sledky prodlouÅ¾enÃ© izolace. Porucha vodnÃ­ho Äipu ÃºdajnÄ› nebyla nikdy zamÃ½Å¡lena a donutila tak sprÃ¡vce improvizovat zvolenÃ­m tvÃ©ho prapÅ™edka, kterÃ½ se mÄ›l vydat na povrch a zÃ­skat novÃ½ Äip. Po chvÃ­li dalÅ¡Ã­ho prohledÃ¡vÃ¡nÃ­ se ti podaÅ™ilo najÃ­t popisy experimentÅ¯ nÄ›kterÃ½ch dalÅ¡Ã­ch VaultÅ¯.}
+{365}{}{[VÃ­ce]}
+{366}{}{DveÅ™e Vaultu 12 byly navrÅ¾eny tak, aby se nikdy nemohly zavÅ™Ã­t, aby ti kretÃ©ni, stojÃ­cÃ­ za tÃ­mto experimentem, mohli "studovat nÃ¡sledky radiace na vybranÃ© populaci". Pokud si na tu legendu dobÅ™e vzpomÃ­nÃ¡Å¡, Vault 12 se nachÃ¡zel pod ghouly osÃ­dlenÃ©m mÄ›stÄ› Necropolis, kde Zakladatel koneÄnÄ› naÅ¡el vodnÃ­ Äip. Je velice pravdÄ›podobnÃ©, Å¾e ghoulovÃ© jsou vÃ½sledkem tohoto experimentu.}
+{367}{}{[VÃ­ce]}
+{368}{}{Vault 15, dalÅ¡Ã­ klÃ­Äovou lokacÃ­ v ZakladatelovÄ› vÃ½pravÄ›, mÄ›l bÃ½t obydlen lidmi s "radikÃ¡lnÄ› odliÅ¡nÃ½mi ideologiemi", kteÅ™Ã­ mÄ›li bÃ½t spolu uzavÅ™eni ve Vaultu po dobu padesÃ¡ti let. Vault 27 mÄ›l bÃ½t ÃºmyslnÄ› pÅ™elidnÄ›n 2000 lidmi, dvojnÃ¡sobku maximÃ¡lnÃ­ kapacity. To nemohlo bÃ½t pÅ™Ã­jemnÃ©. Vault 29 mÄ›l bÃ½t obydlen pouze lidmi mladÅ¡Ã­mi Å¡estnÃ¡cti let, pÅ™iÄemÅ¾ jejich rodiÄe byli "ÃºmyslnÄ› pÅ™esunuti do jinÃ½ch VaultÅ¯".}
+{369}{}{[VÃ­ce]}
+{370}{}{Experiment Vaultu 34 zahrnoval zbrojnici pÅ™eplnÄ›nou zbranÄ›mi a municÃ­ a to vÅ¡e samozÅ™ejmÄ› bez zÃ¡mku. Jak pÅ™Ã­jemnÃ©. Vault 36 mÄ›l potravinovÃ© procesory, kterÃ© byly navrÅ¾enÃ© tak, aby produkovali pouze "Å™Ã­dkou vodnatou kaÅ¡i", kdeÅ¾to Vault 42 byl vybaven pouze tlumenÃ½m osvÄ›tlenÃ­m. Å½Ã¡rovky silnÄ›jÅ¡Ã­ neÅ¾ 40 wattÅ¯ nebyly k dispozici.}
+{371}{}{[VÃ­ce]}
+{372}{}{VybavenÃ­ Vaultu 53 bylo navrÅ¾eno tak, aby se rozbilo pokaÅ¾dÃ© za nÄ›kolik mÄ›sÃ­cÅ¯. VybavenÃ­ bylo moÅ¾nÃ© opravit, avÅ¡ak neustÃ¡lÃ© poruchy mÄ›ly testovat napÄ›tÃ­ vÅ¡ech obyvatel. ZajÃ­malo by tÄ›, kolik expertÅ¯ na mechaniku a techniku mohl tento Vault stvoÅ™it. Vault 55 nemÄ›l mÃ­t Å¾Ã¡dnÃ¡ zÃ¡bavnÃ¡ mÃ©dia, zatÃ­mco Vault 56 nemÄ›l mÃ­t Å¾Ã¡dnÃ¡ zÃ¡bavnÃ¡ mÃ©dia aÅ¾ na jednu, ve kterÃ© vystupoval jeden obzvlÃ¡Å¡Å¥ Å¡patnÃ½ komik.}
+{373}{}{[VÃ­ce]}
+{374}{}{Ve Vaultu 68 mÄ›lo bydlet 999 muÅ¾Å¯ a pouze jedna Å¾ena. NedokÃ¡Å¾eÅ¡ si pÅ™edstavit, jakÃ¡ zvÄ›rstva se tam musela odehrÃ¡vat... na druhou stranu, ve Vaultu 69 mÄ›lo bÃ½t 999 Å¾en a pouze jeden muÅ¾... zajÃ­mavÃ©. Stroje na vÃ½robu vault kombinÃ©z ve Vaultu 70 byly navrÅ¾eny tak, aby se rozbily kaÅ¾dÃ½ch 6 mÄ›sÃ­cÅ¯. A nakonec Vault 106 byl navrÅ¾en tak, aby po deseti dnech od uzavÅ™enÃ­ zaÄal vypouÅ¡tÄ›t "psychoaktivnÃ­ lÃ¡tky do ventilaÄnÃ­ho systÃ©mu".}
+{375}{}{OdhlÃ¡sit se.}
+{500}{}{DozvÃ­dÃ¡Å¡ se o experimentech s Vaulty a funkce nÄ›kolika rÅ¯znÃ½ch VaultÅ¯.}
+{510}{}{DozvÃ­dÃ¡Å¡ se o historii Vaultu 13 a sprÃ¡vcovy role v experimentech s Vaulty.}
+{520}{}{Je mi lÃ­to, ale nerozumÃ­m.}
+{521}{}{OdhlÃ¡sit se.}
+{2541}{}{TlouÅ¡Å¥ka dveÅ™Ã­: 4 metry, ocel
+                                       ÃšzemnÃ­ rozloha: 3 200 000 tun zeminy v hloubce 200 stop
+     PoÄÃ­taÄovÃ½ ovlÃ¡dacÃ­ systÃ©m: Stroj s vlastnÃ­m myÅ¡lenÃ­m
+      HlavnÃ­ zdroj energie: GeotermÃ¡lnÃ­
+                             ZÃ¡loÅ¾nÃ­ zdroj energie: ZÃ¡loÅ¾nÃ­ systÃ©my General Atomics Nuclear Power
+                                                  PoÅ¾adavky na pÅ™Ã­kon: 3.98mkw/den
+                          ZaÅ™Ã­zenÃ­: KompletnÃ­ stavebnÃ­ vybavenÃ­, hydro farmy, systÃ©m na ÄiÅ¡tÄ›nÃ­ vody z podzemnÃ­ Å™eky,
+ obrannÃ¡ vÃ½zbroj pro 10 muÅ¾Å¯, komunikace, sociÃ¡lnÃ­ a zÃ¡bavnÃ¡ mÃ©dia (na celkovou dobu trvÃ¡nÃ­ pobytu)}

@@ -1,65 +1,65 @@
-{100}{}{Vidíš hologram.}
-{101}{}{Vidíš øeditele pro vìdu a vızkum.}
-{102}{}{Hologram 00000. Má v komplexu EPA na starosti záleitosti tıkající se vızkumu.}
+{100}{}{VidÃ­Å¡ hologram.}
+{101}{}{VidÃ­Å¡ Å™editele pro vÄ›du a vÃ½zkum.}
+{102}{}{Hologram 00000. MÃ¡ v komplexu EPA na starosti zÃ¡leÅ¾itosti tÃ½kajÃ­cÃ­ se vÃ½zkumu.}
 {200}{}{01001000 01100101 01101100 01110000 00100000 01101101 01100101 00100001}
-{201}{}{Eh, coe?}
+{201}{}{Eh, coÅ¾e?}
 {210}{}{01000101 01101100 01100101 01100011 01110100 01110010 01101001 01100011 01100001 01101100 00100000 01110011 01101000 01101111 01110010 01110100 00101110}
-{211}{}{Promiòte, ale nerozumím vám. Nashle.}
-{212}{}{Zajímavé. Zdá se, e jsi schopen komunikovat jen pomocí èísel ve dvojkové soustavì. Kdy si to napíšu, tak to moná rozluštím.}
-{220}{}{(Po pár hodinách strávenıch nad jednièkami a nulami se ti koneènì zdá, e se ti podaøilo jeho zprávu správnì dekódovat. Zdá se, e øíká "Pomoc! Elektrickı zkrat!")}
-{221}{}{Tak jsem se trochu procvièil a teï u pùjdu. Mìjte se tu hezky.}
-{222}{}{Take asi zkrat v navíjecím zaøízení cívky. Hned se na to podívám.}
+{211}{}{PromiÅˆte, ale nerozumÃ­m vÃ¡m. Nashle.}
+{212}{}{ZajÃ­mavÃ©. ZdÃ¡ se, Å¾e jsi schopen komunikovat jen pomocÃ­ ÄÃ­sel ve dvojkovÃ© soustavÄ›. KdyÅ¾ si to napÃ­Å¡u, tak to moÅ¾nÃ¡ rozluÅ¡tÃ­m.}
+{220}{}{(Po pÃ¡r hodinÃ¡ch strÃ¡venÃ½ch nad jedniÄkami a nulami se ti koneÄnÄ› zdÃ¡, Å¾e se ti podaÅ™ilo jeho zprÃ¡vu sprÃ¡vnÄ› dekÃ³dovat. ZdÃ¡ se, Å¾e Å™Ã­kÃ¡ "Pomoc! ElektrickÃ½ zkrat!")}
+{221}{}{Tak jsem se trochu procviÄil a teÄ uÅ¾ pÅ¯jdu. MÄ›jte se tu hezky.}
+{222}{}{TakÅ¾e asi zkrat v navÃ­jecÃ­m zaÅ™Ã­zenÃ­ cÃ­vky. Hned se na to podÃ­vÃ¡m.}
 {230}{}{01001000 01100101 01101100 01110000 00100000 01101101 01100101 00100001}
-{231}{}{Jen procházím kolem. Mìjte se.}
-{232}{}{Nebojte se, u na tom pracuju.}
+{231}{}{Jen prochÃ¡zÃ­m kolem. MÄ›jte se.}
+{232}{}{Nebojte se, uÅ¾ na tom pracuju.}
 {240}{}{01010010 01100101 01100010 01101111 01101111 01110100 00100000 01101101 01100101 00100001}
-{241}{}{Tak já u nevím. Nezlobte se, ale vzdávám to.}
-{242}{}{Poøád nic? Tak moment, já si to pøepíšu a rozluštím.}
-{250}{}{(Tentokrát u se ti podaøilo zprávu rozluštit mnohem rychleji: "Restartuj mì!") Aha, no jistì. (Zrestartuješ holografickı projektor. Zatímco systém zdlouhavì nabíhá, pískáš si z nudy.)}
-{251}{}{[Více]}
-{260}{}{U Hawkinga, tobì se to podaøilo! Mùj hlasovı program byl zaseklı v binárním módu u celé *roky*. U je to tak dávno, co jsem si naposled mohl uít inteligentní konverzaci. Èlovìk by øekl, e za ta léta mohl mít aspoò jeden z mıch kolegù hologramù tolik slušnosti, aby se nauèil základy dvojkové soustavy, ale to ne.}
+{241}{}{Tak jÃ¡ uÅ¾ nevÃ­m. Nezlobte se, ale vzdÃ¡vÃ¡m to.}
+{242}{}{PoÅ™Ã¡d nic? Tak moment, jÃ¡ si to pÅ™epÃ­Å¡u a rozluÅ¡tÃ­m.}
+{250}{}{(TentokrÃ¡t uÅ¾ se ti podaÅ™ilo zprÃ¡vu rozluÅ¡tit mnohem rychleji: "Restartuj mÄ›!") Aha, no jistÄ›. (ZrestartujeÅ¡ holografickÃ½ projektor. ZatÃ­mco systÃ©m zdlouhavÄ› nabÃ­hÃ¡, pÃ­skÃ¡Å¡ si z nudy.)}
+{251}{}{[VÃ­ce]}
+{260}{}{U Hawkinga, tobÄ› se to podaÅ™ilo! MÅ¯j hlasovÃ½ program byl zaseklÃ½ v binÃ¡rnÃ­m mÃ³du uÅ¾ celÃ© *roky*. UÅ¾ je to tak dÃ¡vno, co jsem si naposled mohl uÅ¾Ã­t inteligentnÃ­ konverzaci. ÄŒlovÄ›k by Å™ekl, Å¾e za ta lÃ©ta mohl mÃ­t aspoÅˆ jeden z mÃ½ch kolegÅ¯ hologramÅ¯ tolik sluÅ¡nosti, aby se nauÄil zÃ¡klady dvojkovÃ© soustavy, ale to ne.}
 {261}{}{No prob--}
-{270}{}{Nemìli na mì èas. Ne, oni se radìji zabıvali tìmi svımi byrokratickımi nesmysly. Vzájemnì se svazovali smìrnicemi a hašteøili se jako hlupáci. A jen se podívej, kam se dostali: teï jsou v té své konferenèní místnosti zaseklí v nekoneèné smyèce. Ha! Dobøe jim tak.}
-{271}{}{Oni jsou zaseklí ve smyèce?}
-{272}{}{Popravdì øeèeno, u je to opravené. U zaseklí nejsou.}
-{280}{}{Coe? No ano, ano, nìkde poblí se toti vyskytla porucha, která ve svém okolí vytvoøila silné magnetické pole. To pole mae kadıch nìkolik minut jejich krátkodobou pamì, take se v tomhle svém soukromém pekle budou motat u navìky. Ale to vùbec nevadí, stejnì nám bude lépe bez nich. Kdy jsou tak zabraní v té svojí nekoneèné hádce, mám to tu teï celé pod velením já, eh, tedy vlastnì *my*. Kdybychom se dali dohromady, s mım nedozírnım intelektem a tvım tìlem bychom mohli dokázat velké vìci.}
-{281}{}{Nejdøív mi ale povìzte... co je tohle místo vlastnì zaè?}
-{290}{}{Skuteènì? No, podle mì by nám bylo lépe bez nich, ale kdy na to máš jinı názor, hádat se s tebou nebudu. Stejnì ti ale øeknu... kdybychom se dali dohromady, s mım nedozírnım intelektem a tvım tìlem bychom mohli dokázat velké vìci.}
-{291}{}{Nejdøív mi ale povìzte... co je tohle místo vlastnì zaè?}
-{300}{}{Tohle je pøece komplex EPA, Agentura na ochranu ivotního prostøedí. Pùvodnì to bylo státní zaøízení, které mìlo regulovat zacházení s chemikáliemi a zajišovat ochranu ivotního prostøedí, ale èasem se z nìj stalo mnohem víc. Nyní stojíš v jedné z nejpøednìjších experimentálních vızkumnıch stanic v celé zemi. Máme tu spoustu zajímavıch projektù. Poslední dobou nám ovšem vızkum ponìkud vázne kvùli celému tomu nešastnému nedopatøení se zánikem civilizace...}
-{301}{}{To je pochopitelné.}
-{302}{}{Apokalypsa není ádnı dùvod k tomu, aby èlovìk zahálel.}
-{310}{}{Ale kdybych tak mìl schopného asistenta z masa a kostí, mohl bych se svım projektem koneènì trochu pohnout...}
-{311}{}{S èím byste potøeboval pomoct?}
-{320}{}{No, to je tìké. Asi by ti nebylo moc pøíjemné, kdybys mìl testovat nebezpeènou experimentální zbraò, e?}
-{321}{}{To si teda pište, e nebylo!}
-{322}{}{Jasnì.}
-{323}{}{Radìji ne.}
-{330}{}{Jistì, jistì. No, to je škoda, ale co se dá dìlat. Budu muset poèkat na dalšího ivého èlovìka, kterı se tu objeví. Urèitì tu bude jako na koni. Dávám mu tak sto let, maximálnì dvì stì. Sbohem.}
-{340}{}{Zdravím. Nerozmyslel sis náhodou to testování experimentální zbranì?}
-{341}{}{Ne, promiòte.}
-{342}{}{Ale jo, nakonec proè ne.}
-{350}{}{To je skvìlé! Jsi pro to jako stvoøenı. To je toti tak... tu zbraò jsem vyvinul, kdy jsem hledal zpùsob, jak by mohla bıt armáda šetrnìjší k ivotnímu prostøedí. Tato zbraò toti nepotøebuje ádnou munici, èerpá energii vıhradnì ze svìtla. Øíkám jí *Solární spalovaè*. Nicménì mi stále ještì chybí vısledky testù z pouití na pøímém sluneèním svìtle. Ty potøebuji získat od tebe.}
-{351}{}{Take mám jít ven na svìtlo a vyzkoušet, jestli funguje? To je všechno?}
-{352}{}{No jo, jasnì, hlavnì u mi ten krám dejte.}
-{360}{}{V podstatì ano. Samozøejmì potøebuji pøedevším vìdìt, jak si zbraò povede v boji, take by bylo nejlepší, kdybys našel nìjaké nebezpeèné stvoøení a následnì ho pomocí mého Solárního spalovaèe efektnì zlikvidoval.}
-{361}{}{Take mám jít ven a nìco sejmout. To snad zvládnu. Kde máte ten Solární spalovaè?}
-{370}{}{Ne tak zhurta, pøíteli. Nestaèí, kdy pùjdeš ven a zaèneš støílet jen tak nazdaøbùh. Potøebuji pøedevším vìdìt, jak si zbraò povede v boji, take by bylo nejlepší, kdybys našel nìjaké nebezpeèné stvoøení a následnì ho pomocí mého Solárního spalovaèe efektnì zlikvidoval.}
-{371}{}{Take mám jít ven a nìco sejmout. To snad zvládnu. Kde máte ten Solární spalovaè?}
-{380}{}{Ano, samozøejmì, je v támhleté skøínce ve zdi vedle mého projektoru. Heslo je 03141879.}
-{381}{}{Tak dobøe. Vyzkouším ho a dám vám vìdìt, jak to dopadlo.}
-{390}{}{Á, vítej zpìt. U jsi mìl monost otestovat mùj Solární spalovaè?}
-{391}{}{To teda jo. Šikovná vìcièka. Naporcuje a rovnou usmaí.}
-{392}{}{To sice jo, ale nìjak mì ten krám neposlouchal. Musel jsem ho zahodit.}
-{393}{}{Ne, ještì ne.}
-{394}{}{Èasem se k tomu dostanu.}
-{400}{}{To je vynikající! Velice mì tìší, e funguje tak, jak jsem zamıšlel. Díky za pomoc. Klidnì si ho nech, a má nìjaké vyuití. Tady by se na nìj jen prášilo.}
-{401}{}{Díky!}
-{402}{}{Vıbornì, stejnì jsem nemìl v plánu vám ho vracet.}
-{410}{}{Och... aha. Tomu nerozumím, ten prototyp obstál i pøi dùkladném laboratorním testování... (Smutnì zakroutí hlavou.) No co se dá dìlat, i tak dìkuji za pomoc.}
-{411}{}{Nevadí.}
-{412}{}{ádnı problém.}
-{420}{}{Rád tì zase vidím. Teï mì ovšem budeš muset omluvit, mám tu celou øadu projektù, kterım se musím vìnovat.}
+{270}{}{NemÄ›li na mÄ› Äas. Ne, oni se radÄ›ji zabÃ½vali tÄ›mi svÃ½mi byrokratickÃ½mi nesmysly. VzÃ¡jemnÄ› se svazovali smÄ›rnicemi a haÅ¡teÅ™ili se jako hlupÃ¡ci. A jen se podÃ­vej, kam se dostali: teÄ jsou v tÃ© svÃ© konferenÄnÃ­ mÃ­stnosti zaseklÃ­ v nekoneÄnÃ© smyÄce. Ha! DobÅ™e jim tak.}
+{271}{}{Oni jsou zaseklÃ­ ve smyÄce?}
+{272}{}{PopravdÄ› Å™eÄeno, uÅ¾ je to opravenÃ©. UÅ¾ zaseklÃ­ nejsou.}
+{280}{}{CoÅ¾e? No ano, ano, nÄ›kde poblÃ­Å¾ se totiÅ¾ vyskytla porucha, kterÃ¡ ve svÃ©m okolÃ­ vytvoÅ™ila silnÃ© magnetickÃ© pole. To pole maÅ¾e kaÅ¾dÃ½ch nÄ›kolik minut jejich krÃ¡tkodobou pamÄ›Å¥, takÅ¾e se v tomhle svÃ©m soukromÃ©m pekle budou motat uÅ¾ navÄ›ky. Ale to vÅ¯bec nevadÃ­, stejnÄ› nÃ¡m bude lÃ©pe bez nich. KdyÅ¾ jsou tak zabranÃ­ v tÃ© svojÃ­ nekoneÄnÃ© hÃ¡dce, mÃ¡m to tu teÄ celÃ© pod velenÃ­m jÃ¡, eh, tedy vlastnÄ› *my*. Kdybychom se dali dohromady, s mÃ½m nedozÃ­rnÃ½m intelektem a tvÃ½m tÄ›lem bychom mohli dokÃ¡zat velkÃ© vÄ›ci.}
+{281}{}{NejdÅ™Ã­v mi ale povÄ›zte... co je tohle mÃ­sto vlastnÄ› zaÄ?}
+{290}{}{SkuteÄnÄ›? No, podle mÄ› by nÃ¡m bylo lÃ©pe bez nich, ale kdyÅ¾ na to mÃ¡Å¡ jinÃ½ nÃ¡zor, hÃ¡dat se s tebou nebudu. StejnÄ› ti ale Å™eknu... kdybychom se dali dohromady, s mÃ½m nedozÃ­rnÃ½m intelektem a tvÃ½m tÄ›lem bychom mohli dokÃ¡zat velkÃ© vÄ›ci.}
+{291}{}{NejdÅ™Ã­v mi ale povÄ›zte... co je tohle mÃ­sto vlastnÄ› zaÄ?}
+{300}{}{Tohle je pÅ™ece komplex EPA, Agentura na ochranu Å¾ivotnÃ­ho prostÅ™edÃ­. PÅ¯vodnÄ› to bylo stÃ¡tnÃ­ zaÅ™Ã­zenÃ­, kterÃ© mÄ›lo regulovat zachÃ¡zenÃ­ s chemikÃ¡liemi a zajiÅ¡Å¥ovat ochranu Å¾ivotnÃ­ho prostÅ™edÃ­, ale Äasem se z nÄ›j stalo mnohem vÃ­c. NynÃ­ stojÃ­Å¡ v jednÃ© z nejpÅ™ednÄ›jÅ¡Ã­ch experimentÃ¡lnÃ­ch vÃ½zkumnÃ½ch stanic v celÃ© zemi. MÃ¡me tu spoustu zajÃ­mavÃ½ch projektÅ¯. PoslednÃ­ dobou nÃ¡m ovÅ¡em vÃ½zkum ponÄ›kud vÃ¡zne kvÅ¯li celÃ©mu tomu neÅ¡Å¥astnÃ©mu nedopatÅ™enÃ­ se zÃ¡nikem civilizace...}
+{301}{}{To je pochopitelnÃ©.}
+{302}{}{Apokalypsa nenÃ­ Å¾Ã¡dnÃ½ dÅ¯vod k tomu, aby ÄlovÄ›k zahÃ¡lel.}
+{310}{}{Ale kdybych tak mÄ›l schopnÃ©ho asistenta z masa a kostÃ­, mohl bych se svÃ½m projektem koneÄnÄ› trochu pohnout...}
+{311}{}{S ÄÃ­m byste potÅ™eboval pomoct?}
+{320}{}{No, to je tÄ›Å¾kÃ©. Asi by ti nebylo moc pÅ™Ã­jemnÃ©, kdybys mÄ›l testovat nebezpeÄnou experimentÃ¡lnÃ­ zbraÅˆ, Å¾e?}
+{321}{}{To si teda piÅ¡te, Å¾e nebylo!}
+{322}{}{JasnÄ›.}
+{323}{}{RadÄ›ji ne.}
+{330}{}{JistÄ›, jistÄ›. No, to je Å¡koda, ale co se dÃ¡ dÄ›lat. Budu muset poÄkat na dalÅ¡Ã­ho Å¾ivÃ©ho ÄlovÄ›ka, kterÃ½ se tu objevÃ­. UrÄitÄ› tu bude jako na koni. DÃ¡vÃ¡m mu tak sto let, maximÃ¡lnÄ› dvÄ› stÄ›. Sbohem.}
+{340}{}{ZdravÃ­m. Nerozmyslel sis nÃ¡hodou to testovÃ¡nÃ­ experimentÃ¡lnÃ­ zbranÄ›?}
+{341}{}{Ne, promiÅˆte.}
+{342}{}{Ale jo, nakonec proÄ ne.}
+{350}{}{To je skvÄ›lÃ©! Jsi pro to jako stvoÅ™enÃ½. To je totiÅ¾ tak... tu zbraÅˆ jsem vyvinul, kdyÅ¾ jsem hledal zpÅ¯sob, jak by mohla bÃ½t armÃ¡da Å¡etrnÄ›jÅ¡Ã­ k Å¾ivotnÃ­mu prostÅ™edÃ­. Tato zbraÅˆ totiÅ¾ nepotÅ™ebuje Å¾Ã¡dnou munici, ÄerpÃ¡ energii vÃ½hradnÄ› ze svÄ›tla. Å˜Ã­kÃ¡m jÃ­ *SolÃ¡rnÃ­ spalovaÄ*. NicmÃ©nÄ› mi stÃ¡le jeÅ¡tÄ› chybÃ­ vÃ½sledky testÅ¯ z pouÅ¾itÃ­ na pÅ™Ã­mÃ©m sluneÄnÃ­m svÄ›tle. Ty potÅ™ebuji zÃ­skat od tebe.}
+{351}{}{TakÅ¾e mÃ¡m jÃ­t ven na svÄ›tlo a vyzkouÅ¡et, jestli funguje? To je vÅ¡echno?}
+{352}{}{No jo, jasnÄ›, hlavnÄ› uÅ¾ mi ten krÃ¡m dejte.}
+{360}{}{V podstatÄ› ano. SamozÅ™ejmÄ› potÅ™ebuji pÅ™edevÅ¡Ã­m vÄ›dÄ›t, jak si zbraÅˆ povede v boji, takÅ¾e by bylo nejlepÅ¡Ã­, kdybys naÅ¡el nÄ›jakÃ© nebezpeÄnÃ© stvoÅ™enÃ­ a nÃ¡slednÄ› ho pomocÃ­ mÃ©ho SolÃ¡rnÃ­ho spalovaÄe efektnÄ› zlikvidoval.}
+{361}{}{TakÅ¾e mÃ¡m jÃ­t ven a nÄ›co sejmout. To snad zvlÃ¡dnu. Kde mÃ¡te ten SolÃ¡rnÃ­ spalovaÄ?}
+{370}{}{Ne tak zhurta, pÅ™Ã­teli. NestaÄÃ­, kdyÅ¾ pÅ¯jdeÅ¡ ven a zaÄneÅ¡ stÅ™Ã­let jen tak nazdaÅ™bÅ¯h. PotÅ™ebuji pÅ™edevÅ¡Ã­m vÄ›dÄ›t, jak si zbraÅˆ povede v boji, takÅ¾e by bylo nejlepÅ¡Ã­, kdybys naÅ¡el nÄ›jakÃ© nebezpeÄnÃ© stvoÅ™enÃ­ a nÃ¡slednÄ› ho pomocÃ­ mÃ©ho SolÃ¡rnÃ­ho spalovaÄe efektnÄ› zlikvidoval.}
+{371}{}{TakÅ¾e mÃ¡m jÃ­t ven a nÄ›co sejmout. To snad zvlÃ¡dnu. Kde mÃ¡te ten SolÃ¡rnÃ­ spalovaÄ?}
+{380}{}{Ano, samozÅ™ejmÄ›, je v tÃ¡mhletÃ© skÅ™Ã­nce ve zdi vedle mÃ©ho projektoru. Heslo je 03141879.}
+{381}{}{Tak dobÅ™e. VyzkouÅ¡Ã­m ho a dÃ¡m vÃ¡m vÄ›dÄ›t, jak to dopadlo.}
+{390}{}{Ã, vÃ­tej zpÄ›t. UÅ¾ jsi mÄ›l moÅ¾nost otestovat mÅ¯j SolÃ¡rnÃ­ spalovaÄ?}
+{391}{}{To teda jo. Å ikovnÃ¡ vÄ›ciÄka. Naporcuje a rovnou usmaÅ¾Ã­.}
+{392}{}{To sice jo, ale nÄ›jak mÄ› ten krÃ¡m neposlouchal. Musel jsem ho zahodit.}
+{393}{}{Ne, jeÅ¡tÄ› ne.}
+{394}{}{ÄŒasem se k tomu dostanu.}
+{400}{}{To je vynikajÃ­cÃ­! Velice mÄ› tÄ›Å¡Ã­, Å¾e funguje tak, jak jsem zamÃ½Å¡lel. DÃ­ky za pomoc. KlidnÄ› si ho nech, aÅ¥ mÃ¡ nÄ›jakÃ© vyuÅ¾itÃ­. Tady by se na nÄ›j jen prÃ¡Å¡ilo.}
+{401}{}{DÃ­ky!}
+{402}{}{VÃ½bornÄ›, stejnÄ› jsem nemÄ›l v plÃ¡nu vÃ¡m ho vracet.}
+{410}{}{Och... aha. Tomu nerozumÃ­m, ten prototyp obstÃ¡l i pÅ™i dÅ¯kladnÃ©m laboratornÃ­m testovÃ¡nÃ­... (SmutnÄ› zakroutÃ­ hlavou.) No co se dÃ¡ dÄ›lat, i tak dÄ›kuji za pomoc.}
+{411}{}{NevadÃ­.}
+{412}{}{Å½Ã¡dnÃ½ problÃ©m.}
+{420}{}{RÃ¡d tÄ› zase vidÃ­m. TeÄ mÄ› ovÅ¡em budeÅ¡ muset omluvit, mÃ¡m tu celou Å™adu projektÅ¯, kterÃ½m se musÃ­m vÄ›novat.}
 {421}{}{[KONEC]}
-{500}{}{Podaøilo se ti opravit Hologram 00000.}
-{510}{}{Otestoval jsi Solární spalovaè pro øeditele vìdy a vızkumu.}
+{500}{}{PodaÅ™ilo se ti opravit Hologram 00000.}
+{510}{}{Otestoval jsi SolÃ¡rnÃ­ spalovaÄ pro Å™editele vÄ›dy a vÃ½zkumu.}

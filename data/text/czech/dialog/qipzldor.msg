@@ -1,16 +1,16 @@
-{100}{}{Vidíš pevnì uzamèené dveøe.}
-{101}{}{Zdá se, e jsou tyto dveøe uzamèené elektromagneticky. Moná by se daly otevøít odnìkud jinud.}
-{105}{}{Doèasnì se ti podaøilo pøemostit elektrické pole.}
-{106}{}{ se doèasnì podaøilo pøemostit elektrické pole.}
-{110}{}{Nepodaøilo se ti vypnout elektrické pole.}
-{111}{}{ se nepodaøilo vypnout elektrické pole.}
-{115}{}{Nepodaøilo se ti vypnout elektrické pole.}
-{116}{}{ se nepodaøilo vypnout elektrické pole.}
-{120}{}{Støetáváš se s elektrickım polem.}
-{121}{}{ se støetává s elektrickım polem.}
-{125}{}{S tìmito dveømi ani nehneš.}
-{126}{}{ s tìmito dveømi ani nehne.}
-{130}{}{Nepodaøilo se ti odemknout tyto dveøe.}
-{131}{}{ se nepodaøilo odemknout tyto dveøe.}
-{135}{}{Podaøilo se ti otevøít tyto dveøe.}
-{136}{}{ se nepodaøilo otevøít tyto dveøe.}
+{100}{}{VidÃ­Å¡ pevnÄ› uzamÄenÃ© dveÅ™e.}
+{101}{}{ZdÃ¡ se, Å¾e jsou tyto dveÅ™e uzamÄenÃ© elektromagneticky. MoÅ¾nÃ¡ by se daly otevÅ™Ã­t odnÄ›kud jinud.}
+{105}{}{DoÄasnÄ› se ti podaÅ™ilo pÅ™emostit elektrickÃ© pole.}
+{106}{}{ se doÄasnÄ› podaÅ™ilo pÅ™emostit elektrickÃ© pole.}
+{110}{}{NepodaÅ™ilo se ti vypnout elektrickÃ© pole.}
+{111}{}{ se nepodaÅ™ilo vypnout elektrickÃ© pole.}
+{115}{}{NepodaÅ™ilo se ti vypnout elektrickÃ© pole.}
+{116}{}{ se nepodaÅ™ilo vypnout elektrickÃ© pole.}
+{120}{}{StÅ™etÃ¡vÃ¡Å¡ se s elektrickÃ½m polem.}
+{121}{}{ se stÅ™etÃ¡vÃ¡ s elektrickÃ½m polem.}
+{125}{}{S tÄ›mito dveÅ™mi ani nehneÅ¡.}
+{126}{}{ s tÄ›mito dveÅ™mi ani nehne.}
+{130}{}{NepodaÅ™ilo se ti odemknout tyto dveÅ™e.}
+{131}{}{ se nepodaÅ™ilo odemknout tyto dveÅ™e.}
+{135}{}{PodaÅ™ilo se ti otevÅ™Ã­t tyto dveÅ™e.}
+{136}{}{ se nepodaÅ™ilo otevÅ™Ã­t tyto dveÅ™e.}

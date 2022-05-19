@@ -1,16 +1,16 @@
-{100}{}{Vidíš robota Mr. Handyho.}
-{101}{}{Vidíš velmi deprimovaného robota Mr. Handyho.}
-{102}{}{Tento robot, typ Mr. Handy, je z nìjakého dùvodu velmi zkleslı.}
-{200}{}{Bìda mi!}
-{201}{}{Otráven...}
-{202}{}{Chci zemøít...}
-{203}{}{Prosím, zabijte mì nìkdo...}
-{204}{}{Všichni jsou pryè...}
-{205}{}{Proè bych to mìl dìlat?}
+{100}{}{VidÃ­Å¡ robota Mr. Handyho.}
+{101}{}{VidÃ­Å¡ velmi deprimovanÃ©ho robota Mr. Handyho.}
+{102}{}{Tento robot, typ Mr. Handy, je z nÄ›jakÃ©ho dÅ¯vodu velmi zkleslÃ½.}
+{200}{}{BÄ›da mi!}
+{201}{}{OtrÃ¡ven...}
+{202}{}{Chci zemÅ™Ã­t...}
+{203}{}{ProsÃ­m, zabijte mÄ› nÄ›kdo...}
+{204}{}{VÅ¡ichni jsou pryÄ...}
+{205}{}{ProÄ bych to mÄ›l dÄ›lat?}
 {206}{}{Nuda...}
 {207}{}{...VZLYK...}
-{208}{}{ivot. Nemluv mi o ivotì.}
-{209}{}{Myslím, e bys mìl vìdìt, e jsem velice nešastnı.}
-{210}{}{Odpus, e dıchám, co... vlastnì nedìlám, take ani nevím, proè tì obtìuji svımi slovy. Ó Boe, jsem tak smutnı.}
+{208}{}{Å½ivot. Nemluv mi o Å¾ivotÄ›.}
+{209}{}{MyslÃ­m, Å¾e bys mÄ›l vÄ›dÄ›t, Å¾e jsem velice neÅ¡Å¥astnÃ½.}
+{210}{}{OdpusÅ¥, Å¾e dÃ½chÃ¡m, coÅ¾... vlastnÄ› nedÄ›lÃ¡m, takÅ¾e ani nevÃ­m, proÄ tÄ› obtÄ›Å¾uji svÃ½mi slovy. Ã“ BoÅ¾e, jsem tak smutnÃ½.}
 {500}{}{Yeah, just push me over a cliff.}
-{501}{}{***bzzt Pøestaò s tím! *** bzzt}
+{501}{}{***bzzt PÅ™estaÅˆ s tÃ­m! *** bzzt}

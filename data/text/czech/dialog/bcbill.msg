@@ -1,8 +1,8 @@
-{100}{}{Vidíš bezdomovce.}
-{101}{}{Vidíš bezdomovce Billa.}
-{102}{}{Vidíš mue støedního vìku obleèeného do ošuntìlıch šatù.}
-{103}{}{Promiò, cizinèe. Teï nemám èas si s tebou povídat.}
-{104}{}{Hej, øíkal jsem ti, e na tebe nemám èas. Jdi pryè, prosím.}
-{105}{}{Díky za záchranu Rebeccy. To od tebe bylo pìkné.}
-{106}{}{Nech mì na pokoji. Nic jsem ti neudìlal.}
-{107}{}{Klídek. Vdy u jdu.}
+{100}{}{VidÃ­Å¡ bezdomovce.}
+{101}{}{VidÃ­Å¡ bezdomovce Billa.}
+{102}{}{VidÃ­Å¡ muÅ¾e stÅ™ednÃ­ho vÄ›ku obleÄenÃ©ho do oÅ¡untÄ›lÃ½ch Å¡atÅ¯.}
+{103}{}{PromiÅˆ, cizinÄe. TeÄ nemÃ¡m Äas si s tebou povÃ­dat.}
+{104}{}{Hej, Å™Ã­kal jsem ti, Å¾e na tebe nemÃ¡m Äas. Jdi pryÄ, prosÃ­m.}
+{105}{}{DÃ­ky za zÃ¡chranu Rebeccy. To od tebe bylo pÄ›knÃ©.}
+{106}{}{Nech mÄ› na pokoji. Nic jsem ti neudÄ›lal.}
+{107}{}{KlÃ­dek. VÅ¾dyÅ¥ uÅ¾ jdu.}

@@ -1,123 +1,123 @@
-{100}{}{Vidíš špinavého mue s mohutnım plnovousem.}
-{101}{}{Vidíš Dicka zvaného "Athabaska".}
-{102}{}{Tenhle chlapík vypadá na nìkoho, kdo se vyzná v dolech.}
-{103}{}{Na práci v dolech jsi moc natvrdlej.}
-{104}{}{Vítej ve velkım mìstì.}
-{105}{}{Trochu ti napršelo do krku, co?}
-{106}{}{Máš IQ jako pouité ponoky.}
-{107}{}{I lopata je chytøejší ne ty.}
-{108}{}{Vìtšinou je všechno pøi starım. Všichni horníci pracujou jen tolik, aby si vydìlali na další dávku Jetu.}
-{109}{}{Chci se ještì na nìco zeptat.}
+{100}{}{VidÃ­Å¡ Å¡pinavÃ©ho muÅ¾e s mohutnÃ½m plnovousem.}
+{101}{}{VidÃ­Å¡ Dicka zvanÃ©ho "Athabaska".}
+{102}{}{Tenhle chlapÃ­k vypadÃ¡ na nÄ›koho, kdo se vyznÃ¡ v dolech.}
+{103}{}{Na prÃ¡ci v dolech jsi moc natvrdlej.}
+{104}{}{VÃ­tej ve velkÃ½m mÄ›stÄ›.}
+{105}{}{Trochu ti naprÅ¡elo do krku, co?}
+{106}{}{MÃ¡Å¡ IQ jako pouÅ¾itÃ© ponoÅ¾ky.}
+{107}{}{I lopata je chytÅ™ejÅ¡Ã­ neÅ¾ ty.}
+{108}{}{VÄ›tÅ¡inou je vÅ¡echno pÅ™i starÃ½m. VÅ¡ichni hornÃ­ci pracujou jen tolik, aby si vydÄ›lali na dalÅ¡Ã­ dÃ¡vku Jetu.}
+{109}{}{Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
 {110}{}{Jet? Co je to Jet?}
 {111}{}{Aha. Sbohem.}
-{112}{}{No, vìtšina z nás se div nepøetrhne, jen abysme si staèili vydìlat dost na Jet. Ty zatracenı ceny jdou poøád nahoru. Nesnáším ten pocit, kdy nelítám na Jetu.}
-{113}{}{Chci se ještì na nìco zeptat.}
+{112}{}{No, vÄ›tÅ¡ina z nÃ¡s se div nepÅ™etrhne, jen abysme si staÄili vydÄ›lat dost na Jet. Ty zatracenÃ½ ceny jdou poÅ™Ã¡d nahoru. NesnÃ¡Å¡Ã­m ten pocit, kdyÅ¾ nelÃ­tÃ¡m na Jetu.}
+{113}{}{Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
 {114}{}{Jet? Co je to Jet?}
 {115}{}{Aha. Sbohem.}
-{116}{}{A pracuju sebevíc, nemùu si vydìlat dost na to, abych mìl tolik Jetu, kolik potøebuju. Moná by se dalo nìjak dohodnout s New Renem. Slyšel jsem, e na tom Ascorti pracuje.}
-{117}{}{Chci se ještì na nìco zeptat.}
+{116}{}{AÅ¥ pracuju sebevÃ­c, nemÅ¯Å¾u si vydÄ›lat dost na to, abych mÄ›l tolik Jetu, kolik potÅ™ebuju. MoÅ¾nÃ¡ by se dalo nÄ›jak dohodnout s New Renem. SlyÅ¡el jsem, Å¾e na tom Ascorti pracuje.}
+{117}{}{Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
 {118}{}{Ascorti? Kdo je to?}
 {119}{}{Jet? Co je to Jet?}
 {120}{}{Aha. Sbohem.}
-{121}{}{V poslední dobì mi není nejlíp a vypadá to, e ostatní jsou na tom podobnì. Zkoušel jsem brát víc Jetu, ale vùbec mi to nepomáhá. Myslím, e je mi po nìm dokonce ještì hùø. A stejnì je na tom i vìtšina ostatních horníkù.}
-{122}{}{Chci se ještì na nìco zeptat.}
+{121}{}{V poslednÃ­ dobÄ› mi nenÃ­ nejlÃ­p a vypadÃ¡ to, Å¾e ostatnÃ­ jsou na tom podobnÄ›. ZkouÅ¡el jsem brÃ¡t vÃ­c Jetu, ale vÅ¯bec mi to nepomÃ¡hÃ¡. MyslÃ­m, Å¾e je mi po nÄ›m dokonce jeÅ¡tÄ› hÅ¯Å™. A stejnÄ› je na tom i vÄ›tÅ¡ina ostatnÃ­ch hornÃ­kÅ¯.}
+{122}{}{Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
 {123}{}{Jet? Co je to Jet?}
 {124}{}{Aha. Sbohem.}
-{125}{}{Nevím, co se dìje, ale po tı poslední dávce jsme se skoro všichni na Jet definitivnì vykašlali. Bylo mi, jako kdybych mìl odletìt na to velkı letištì tam v nebi. Nikdo u nemá chu si to vzít znova. Jen z toho pomyšlení je mi špatnì.}
-{126}{}{Chci se ještì na nìco zeptat.}
+{125}{}{NevÃ­m, co se dÄ›je, ale po tÃ½ poslednÃ­ dÃ¡vce jsme se skoro vÅ¡ichni na Jet definitivnÄ› vykaÅ¡lali. Bylo mi, jako kdybych mÄ›l odletÄ›t na to velkÃ½ letiÅ¡tÄ› tam v nebi. Nikdo uÅ¾ nemÃ¡ chuÅ¥ si to vzÃ­t znova. Jen z toho pomyÅ¡lenÃ­ je mi Å¡patnÄ›.}
+{126}{}{Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
 {127}{}{Jet? Co je to Jet?}
 {128}{}{Aha. Sbohem.}
-{129}{}{Jak se vede? Jmenuju se Athabaska Dick. Vìtšinou mi ale øíkaj prostì Dick. Samozøejmì jsou tu i takoví, co mi øíkaj Athabaska, ale vìtšina lidí mi prostì øíká Dick.}
-{130}{}{Nazdar. Co pro tebe mùe starej Athabaska Dick udìlat?}
-{131}{}{Musíš sebou malièko hodit. Trochu rychleji, rychleji! Jasnı? Na co èekáš? Jestli chceš mluvit s Athabaska Dickem, musíš se vymáèknout trochu rychlejc.}
-{132}{}{Co? Co chceš? Nevidíš, e nemám èas? (Mumlá si pro sebe) Musím poøád pracovat... poøád... a poøád...}
-{133}{}{(Povzdychne si.) Co chceš starımu Dickovi? (Pro sebe.) Je mi jako kdyby mì do hlavy kopla mula.}
-{134}{}{Dneska je mi pìknì mizernì. Co chceš starımu Dickovi?}
-{135}{}{Ahoj, jmenuju se Athabaska Dick. Døív jsem trávil vìtšinu èasu lítáním na Jetu, ale teï u to svinstvo neberu.}
-{136}{}{Ještì nikdy v ivotì jsem se necítil tak vyøízenej a na dnì.}
-{137}{}{Co tu vlastnì dìláš, Dicku?}
-{138}{}{Nazdar Dicku... dìje se tu v poslední dobì nìco zajímavého?}
-{139}{}{Neslyšela jsi nìjaké zajímavé drby?}
-{140}{}{Co znamená "A-tabasco"?}
+{129}{}{Jak se vede? Jmenuju se Athabaska Dick. VÄ›tÅ¡inou mi ale Å™Ã­kaj prostÄ› Dick. SamozÅ™ejmÄ› jsou tu i takovÃ­, co mi Å™Ã­kaj Athabaska, ale vÄ›tÅ¡ina lidÃ­ mi prostÄ› Å™Ã­kÃ¡ Dick.}
+{130}{}{Nazdar. Co pro tebe mÅ¯Å¾e starej Athabaska Dick udÄ›lat?}
+{131}{}{MusÃ­Å¡ sebou maliÄko hodit. Trochu rychleji, rychleji! JasnÃ½? Na co ÄekÃ¡Å¡? Jestli chceÅ¡ mluvit s Athabaska Dickem, musÃ­Å¡ se vymÃ¡Äknout trochu rychlejc.}
+{132}{}{Co? Co chceÅ¡? NevidÃ­Å¡, Å¾e nemÃ¡m Äas? (MumlÃ¡ si pro sebe) MusÃ­m poÅ™Ã¡d pracovat... poÅ™Ã¡d... a poÅ™Ã¡d...}
+{133}{}{(Povzdychne si.) Co chceÅ¡ starÃ½mu Dickovi? (Pro sebe.) Je mi jako kdyby mÄ› do hlavy kopla mula.}
+{134}{}{Dneska je mi pÄ›knÄ› mizernÄ›. Co chceÅ¡ starÃ½mu Dickovi?}
+{135}{}{Ahoj, jmenuju se Athabaska Dick. DÅ™Ã­v jsem trÃ¡vil vÄ›tÅ¡inu Äasu lÃ­tÃ¡nÃ­m na Jetu, ale teÄ uÅ¾ to svinstvo neberu.}
+{136}{}{JeÅ¡tÄ› nikdy v Å¾ivotÄ› jsem se necÃ­til tak vyÅ™Ã­zenej a na dnÄ›.}
+{137}{}{Co tu vlastnÄ› dÄ›lÃ¡Å¡, Dicku?}
+{138}{}{Nazdar Dicku... dÄ›je se tu v poslednÃ­ dobÄ› nÄ›co zajÃ­mavÃ©ho?}
+{139}{}{NeslyÅ¡ela jsi nÄ›jakÃ© zajÃ­mavÃ© drby?}
+{140}{}{Co znamenÃ¡ "A-tabasco"?}
 {141}{}{Co je to s tebou?}
 {142}{}{Co se ti stalo?}
-{143}{}{Momentálnì dìlám pro Morningstar. Zkušenej èlovìk se jim vdycky hodí.}
-{144}{}{Chci se ještì na nìco zeptat.}
-{145}{}{Rozumím. No, to bude asi všechno. Sbohem.}
-{146}{}{No, nic zvláštního kromì tìch zatracenejch Wanamingos.}
+{143}{}{MomentÃ¡lnÄ› dÄ›lÃ¡m pro Morningstar. ZkuÅ¡enej ÄlovÄ›k se jim vÅ¾dycky hodÃ­.}
+{144}{}{Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{145}{}{RozumÃ­m. No, to bude asi vÅ¡echno. Sbohem.}
+{146}{}{No, nic zvlÃ¡Å¡tnÃ­ho kromÄ› tÄ›ch zatracenejch Wanamingos.}
 {147}{}{Vana-mongol? Co to sakra je?}
-{148}{}{To teda. Chci se ještì na nìco zeptat.}
-{149}{}{No, to bude asi všechno. Sbohem.}
-{150}{}{Atha-baska, Athabaska. To snad není tak tìkı vyslovit, nebo jo? Krindapána. Je to jen moje pøezdívka. Chceš vìdìt, jak jsem k ní pøišel?}
-{151}{}{Eh, ani ne. Chci se ještì na nìco zeptat.}
-{152}{}{Myslím, e to bude všechno. Sbohem.}
-{153}{}{Kriste! Jsem nemocnej jak pes a poslední dobou se sotva drím na nohou... a to všechno od tı doby, co jsem si minule šlehnul Jet. V tı poslední dávce muselo bejt nìco divnıho. Jestli tohle pøeiju, tak si to svinstvo u nikdy nevezmu.}
-{154}{}{To nezní moc dobøe. Chci se ještì na nìco zeptat.}
-{155}{}{Rozumím. No, to bude asi všechno. Sbohem.}
-{156}{}{Udìlal jsem to. I kdy z toho poøád ještì nemám moc dobrej pocit. Ale poèítám, e to tak bude lepší.}
-{157}{}{Co tím myslíš? Co se stalo?}
-{158}{}{Chceš mi snad øíct, e jsi nikdy neslyšel o Wanamingos?}
-{159}{}{Eh... no ehm... no jasnì, e znám Wanamingos. Chci se ještì na nìco zeptat.}
-{160}{}{Ne, vùbec nic mi to neøíká. Povìz mi o tom víc.}
-{161}{}{Ne, o tìch Wana-jakesetojmenujou nic nevím. A na ty tvoje pohádky teï nemám èas. Sbohem.}
-{162}{}{Nechal jsem toho pitomıho zlozvyku, to se stalo. U nikdy si nevezmu Jet. Ta poslední dávka mì skoro zabila. Zjistil jsem, e po tom všem u to nechci. U to nechci ani vidìt.}
-{163}{}{No, to ti urèitì prospìje. Chci se ještì na nìco zeptat.}
-{164}{}{Zajímavé. No, tak já tì teï opustím, aby ses mohla zotavit. Sbohem.}
-{165}{}{No, nìkdo øíká, e u tu byli pøed tìma A-bombama, H-bombama a podobnım svinstvem, jiní øíkaj, e byli geneticky vyšlechtìní jako biologickı zbranì, a jsou i takoví co øíkaj, e jsou ty potvory z úplnì jinı planety. }
-{166}{}{Co jsou *zaè*? Nezajímá mì odkud jsou, jen mi øekni, co jsou ty potvory zaè.}
-{167}{}{Jo, jistì. U nechci nic slyšet, starouši. Sbohem.}
-{168}{}{No, vlastnì ani nevím, co jsou pøesnì zaè, ale øeknu ti tohle: pøed pár lety zavøeli Wanamingo dùl západnì od mìsta.}
-{169}{}{Wanamingo dùl?}
-{170}{}{To je úasné. No, radìji u pùjdu, starouši. Díky za pøíbìh. Sbohem.}
-{171}{}{Jo. A tenhle dùl Velkı Wanamingo bylo to nejbohatší nalezištì v tomhle kraji. Ale teï tam nikdo ani nepáchne. Jestli chceš, mùeš si ho koupit od Ascortiho. Nikdo o nìj nestojí.}
-{172}{}{Jak jsem øekl. Tenhle dùl Velkı Wanamingo bylo døív to nejbohatší nalezištì v okolí, ale teï si ho mùeš koupit za pár šupù.}
-{173}{}{Je na prodej? A stojí to za to?}
+{148}{}{To teda. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{149}{}{No, to bude asi vÅ¡echno. Sbohem.}
+{150}{}{Atha-baska, Athabaska. To snad nenÃ­ tak tÄ›Å¾kÃ½ vyslovit, nebo jo? KrindapÃ¡na. Je to jen moje pÅ™ezdÃ­vka. ChceÅ¡ vÄ›dÄ›t, jak jsem k nÃ­ pÅ™iÅ¡el?}
+{151}{}{Eh, ani ne. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{152}{}{MyslÃ­m, Å¾e to bude vÅ¡echno. Sbohem.}
+{153}{}{Kriste! Jsem nemocnej jak pes a poslednÃ­ dobou se sotva drÅ¾Ã­m na nohou... a to vÅ¡echno od tÃ½ doby, co jsem si minule Å¡lehnul Jet. V tÃ½ poslednÃ­ dÃ¡vce muselo bejt nÄ›co divnÃ½ho. Jestli tohle pÅ™eÅ¾iju, tak si to svinstvo uÅ¾ nikdy nevezmu.}
+{154}{}{To neznÃ­ moc dobÅ™e. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{155}{}{RozumÃ­m. No, to bude asi vÅ¡echno. Sbohem.}
+{156}{}{UdÄ›lal jsem to. I kdyÅ¾ z toho poÅ™Ã¡d jeÅ¡tÄ› nemÃ¡m moc dobrej pocit. Ale poÄÃ­tÃ¡m, Å¾e to tak bude lepÅ¡Ã­.}
+{157}{}{Co tÃ­m myslÃ­Å¡? Co se stalo?}
+{158}{}{ChceÅ¡ mi snad Å™Ã­ct, Å¾e jsi nikdy neslyÅ¡el o Wanamingos?}
+{159}{}{Eh... no ehm... no jasnÄ›, Å¾e znÃ¡m Wanamingos. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{160}{}{Ne, vÅ¯bec nic mi to neÅ™Ã­kÃ¡. PovÄ›z mi o tom vÃ­c.}
+{161}{}{Ne, o tÄ›ch Wana-jakÅ¾esetojmenujou nic nevÃ­m. A na ty tvoje pohÃ¡dky teÄ nemÃ¡m Äas. Sbohem.}
+{162}{}{Nechal jsem toho pitomÃ½ho zlozvyku, to se stalo. UÅ¾ nikdy si nevezmu Jet. Ta poslednÃ­ dÃ¡vka mÄ› skoro zabila. Zjistil jsem, Å¾e po tom vÅ¡em uÅ¾ to nechci. UÅ¾ to nechci ani vidÄ›t.}
+{163}{}{No, to ti urÄitÄ› prospÄ›je. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{164}{}{ZajÃ­mavÃ©. No, tak jÃ¡ tÄ› teÄ opustÃ­m, aby ses mohla zotavit. Sbohem.}
+{165}{}{No, nÄ›kdo Å™Ã­kÃ¡, Å¾e uÅ¾ tu byli pÅ™ed tÄ›ma A-bombama, H-bombama a podobnÃ½m svinstvem, jinÃ­ Å™Ã­kaj, Å¾e byli geneticky vyÅ¡lechtÄ›nÃ­ jako biologickÃ½ zbranÄ›, a jsou i takovÃ­ co Å™Ã­kaj, Å¾e jsou ty potvory z ÃºplnÄ› jinÃ½ planety. }
+{166}{}{Co jsou *zaÄ*? NezajÃ­mÃ¡ mÄ› odkud jsou, jen mi Å™ekni, co jsou ty potvory zaÄ.}
+{167}{}{Jo, jistÄ›. UÅ¾ nechci nic slyÅ¡et, starouÅ¡i. Sbohem.}
+{168}{}{No, vlastnÄ› ani nevÃ­m, co jsou pÅ™esnÄ› zaÄ, ale Å™eknu ti tohle: pÅ™ed pÃ¡r lety zavÅ™eli Wanamingo dÅ¯l zÃ¡padnÄ› od mÄ›sta.}
+{169}{}{Wanamingo dÅ¯l?}
+{170}{}{To je ÃºÅ¾asnÃ©. No, radÄ›ji uÅ¾ pÅ¯jdu, starouÅ¡i. DÃ­ky za pÅ™Ã­bÄ›h. Sbohem.}
+{171}{}{Jo. A tenhle dÅ¯l VelkÃ½ Wanamingo bylo to nejbohatÅ¡Ã­ naleziÅ¡tÄ› v tomhle kraji. Ale teÄ tam nikdo ani nepÃ¡chne. Jestli chceÅ¡, mÅ¯Å¾eÅ¡ si ho koupit od Ascortiho. Nikdo o nÄ›j nestojÃ­.}
+{172}{}{Jak jsem Å™ekl. Tenhle dÅ¯l VelkÃ½ Wanamingo bylo dÅ™Ã­v to nejbohatÅ¡Ã­ naleziÅ¡tÄ› v okolÃ­, ale teÄ si ho mÅ¯Å¾eÅ¡ koupit za pÃ¡r Å¡upÅ¯.}
+{173}{}{Je na prodej? A stojÃ­ to za to?}
 {174}{}{Kdo je to ten Ascorti?}
-{175}{}{To zní moc nebezpeènì. Sbohem.}
-{176}{}{No právì e teï ani moc ne. Copak neposloucháš, co jsem ti øíkal? Je plnej tìch zatracenejch Wanamingos. Ale kdyby se nìkomu podaøilo to tam od nich vyèistit... no pak by to bylo zlatı prasátko. Sakra, vdy ani nemusíš pozabíjet všechny.}
-{177}{}{Co tím myslíš?}
-{178}{}{Zlatı prasátko? To je nìco jako rùovı slon? Radìji u pùjdu a nechám tì tu i s tím tvım blouznìním. Sbohem.}
-{179}{}{No, uvnitø jsou nìjakı vìci, za kterı by majitelé zdejších dolù Morningstar a Kokoweef zaplatili pìknı prachy.}
-{180}{}{Co je to za vìci?}
-{181}{}{Peníze. Hmm. No, u budu muset jít. Sbohem.}
-{182}{}{No, víš, všechny doly byly kdysi vyhloubeny pomocí velkejch dùlních strojù. Tyhle stroje vydrej vìènost. Oba doly maj jeden takovej velkej stroj. Ale... a v tom je ten háèek... ty zatracenı, mròavı, kontrolní èipy nebyly udìlanı moc festovnì. Ani jeden dùl nemá èip, kterej funguje. Hehe.}
-{183}{}{Poøád moc nerozumím kam tím smìøuješ.}
-{184}{}{Èím víc èástí nìco má, tím vìtší je pravdìpodobnost, e se nìjaká z nich pokazí. Díky za informace. Sbohem.}
-{185}{}{No, snaím si ti øíct, e by kadej z vlastníkù dolù zaplatil slušnı prachy za funkèní kontrolní èip. Kdyby mìl jeden fungující dùlní stroj a ten druhej ne, mohl by bìhem pár tejdnù poloit ten druhej dùl na kolena. Anebo ho koupit.}
-{186}{}{To je teda hrozná smùla, e nikdo neví, kde vzít jeden z tìch èipù.}
-{187}{}{Budu si muset osobnì zjistit, kolik by za takovı èip zaplatili. Díky a sbohem.}
-{188}{}{Vyèisti si doprèic uši! Øíkal jsem ti pøece, kde se dá ten zatracenej èip najít. Copak jsi neposlouchal, co ti celou dobu øíkám? Dùl Wanamingo mìl dùlní stroje a ty byly ještì v provozu, dokud ho nezavøeli. Urèitì tam dole ty èipy ještì jsou. Jen èekají na nìkoho, kdo pøijde a vezme si je.}
-{189}{}{Hmm, to je moné. Chci se ještì na nìco zeptat.}
-{190}{}{Øekni mi nìco o tìch Vana-mongolech.}
-{191}{}{Díky. Podívám se na to. Sbohem.}
-{192}{}{No, víš... jakoe je bùh nade mnou... znám nìkoho, kdo vidìl jednoho z nich opravdu pìknì zblízka a... (Èas ubíhá) ...mají ohromné tesáky, kterı pouívaj na... (Èas ubíhá)...}
-{193}{}{Kdysi jsme ještì s jedním pøítelem pracovali na záboru a jednoho dne... (Èas ubíhá) ...bylo to velikı jako brahmína a smrdìlo to ještì hùø... (Èas ubíhá)...}
-{194}{}{No, vidím, e mi tu asi brzo usneš, take to zkrátím. Bylo to hodnì pozdì v noci a tak... (Èas ubíhá) ...stopy vypadající jako nìco mezi radškorpionem a geckonem... (Další èas ubíhá) ...vidíš? Já ti øíkal, e mi tu usneš.}
-{195}{}{Eh, co? (Trhneš hlavou smìrem nahoru. Asi jsi u zaèal døímat.)}
-{196}{}{Radìji se pùjdu podívat po nìèem, co mi pomùe zùstat vzhùru. Sbohem.}
-{197}{}{...tak a teï to znáš celé. Otroci, kteøí tam tenkrát pracovali, vyhodili sloje do povìtøí a utekli, ne aby s tìma Wanamingos bojovali. Potom ten dùl zavøeli a nikdo v nìm od tı doby nebyl.}
-{198}{}{Kde jsi øíkal, e je ten Velkı Wanamingo dùl?}
-{199}{}{To u mi staèilo. No, tak se zatím mìj.}
-{200}{}{Západnì od mìsta. Ale slyšel jsem, e nìkterı Wanamingos chodìj pozdì v noci do mìsta, take tam moná ani nebudeš muset chodit, abys je vùbec vidìl. Hehe.}
-{201}{}{Myslím, e u o tìch Wanamingos vím všechno co potøebuju. Chci se ještì na nìco zeptat.}
-{202}{}{Budu si na ty Vana-mongoly dávat bacha. Sbohem.}
-{203}{}{Ascorti je náš starosta. Provozuje v centru podnik Ascortiho Eso. Kupuje a prodává spoustu zboí. Je ve støedu všeho dìní a všech zdejších machinací.}
-{204}{}{Ascorti je starostou Reddingu. Ale upøímnì nevím, kde je. U jsem ho docela dlouho nevidìla.}
-{205}{}{Chci se ještì na nìco zeptat.}
-{206}{}{Aha, dobøe. No, tak pokraèuj v tom pøíbìhu.}
-{207}{}{U to nebudu poslouchat. Sbohem.}
-{208}{}{Jet je takovı potìšeníèko z New Rena. Beru ho jen obèas, na zlepšení nálady.}
-{209}{}{Chci se ještì na nìco zeptat.}
-{210}{}{Zajímavé. Díky a sbohem.}
-{211}{}{Jet je naprostá bomba, èlovìèe. Cejtím se naivu jen kdy lítám na Jetu. Zkus to nìkdy.}
-{212}{}{Chci se ještì na nìco zeptat.}
-{213}{}{Zajímavé. Díky a sbohem.}
-{214}{}{Bez Jetu u skoro nepøeiju. V poslední dobì v tom jedeme všichni. Musíme to prostì mít. Zatracenì, bez nìj se cítím fakt na hovno.}
-{215}{}{Chci se ještì na nìco zeptat.}
-{216}{}{Zajímavé. Díky a sbohem.}
-{217}{}{Ten Jet je pìknì zlá vìc, èlovìèe. Kadej, kdo to bere, je na tom teï tak mizernì, jako kdyby mìl kadou chvíli chcípnout. Myslím, e radši... (Chytí se za bøicho a zaène zvracet.) ...promiò. Poslyš, kámo, mùeme se radši bavit o nìèem jinım?}
-{218}{}{Aha, promiò. Chci se ještì na nìco zeptat.}
-{219}{}{Zajímavé. Díky a sbohem.}
-{220}{}{U nikdy nechci o tom hnusnım Jetu slyšet. Akorát to èlovìka zabije. Je to horší ne radškorpioní jed. Nemùu uvìøit, e jsem to mìl kdysi rád. Ale ta poslední dávka... mì málem zabila.}
-{221}{}{Chci se ještì na nìco zeptat.}
-{222}{}{Zajímavé. Díky a sbohem.}
+{175}{}{To znÃ­ moc nebezpeÄnÄ›. Sbohem.}
+{176}{}{No prÃ¡vÄ› Å¾e teÄ ani moc ne. Copak neposlouchÃ¡Å¡, co jsem ti Å™Ã­kal? Je plnej tÄ›ch zatracenejch Wanamingos. Ale kdyby se nÄ›komu podaÅ™ilo to tam od nich vyÄistit... no pak by to bylo zlatÃ½ prasÃ¡tko. Sakra, vÅ¾dyÅ¥ ani nemusÃ­Å¡ pozabÃ­jet vÅ¡echny.}
+{177}{}{Co tÃ­m myslÃ­Å¡?}
+{178}{}{ZlatÃ½ prasÃ¡tko? To je nÄ›co jako rÅ¯Å¾ovÃ½ slon? RadÄ›ji uÅ¾ pÅ¯jdu a nechÃ¡m tÄ› tu i s tÃ­m tvÃ½m blouznÄ›nÃ­m. Sbohem.}
+{179}{}{No, uvnitÅ™ jsou nÄ›jakÃ½ vÄ›ci, za kterÃ½ by majitelÃ© zdejÅ¡Ã­ch dolÅ¯ Morningstar a Kokoweef zaplatili pÄ›knÃ½ prachy.}
+{180}{}{Co je to za vÄ›ci?}
+{181}{}{PenÃ­ze. Hmm. No, uÅ¾ budu muset jÃ­t. Sbohem.}
+{182}{}{No, vÃ­Å¡, vÅ¡echny doly byly kdysi vyhloubeny pomocÃ­ velkejch dÅ¯lnÃ­ch strojÅ¯. Tyhle stroje vydrÅ¾ej vÄ›Änost. Oba doly maj jeden takovej velkej stroj. Ale... a v tom je ten hÃ¡Äek... ty zatracenÃ½, mrÅˆavÃ½, kontrolnÃ­ Äipy nebyly udÄ›lanÃ½ moc festovnÄ›. Ani jeden dÅ¯l nemÃ¡ Äip, kterej funguje. Hehe.}
+{183}{}{PoÅ™Ã¡d moc nerozumÃ­m kam tÃ­m smÄ›Å™ujeÅ¡.}
+{184}{}{ÄŒÃ­m vÃ­c ÄÃ¡stÃ­ nÄ›co mÃ¡, tÃ­m vÄ›tÅ¡Ã­ je pravdÄ›podobnost, Å¾e se nÄ›jakÃ¡ z nich pokazÃ­. DÃ­ky za informace. Sbohem.}
+{185}{}{No, snaÅ¾Ã­m si ti Å™Ã­ct, Å¾e by kaÅ¾dej z vlastnÃ­kÅ¯ dolÅ¯ zaplatil sluÅ¡nÃ½ prachy za funkÄnÃ­ kontrolnÃ­ Äip. Kdyby mÄ›l jeden fungujÃ­cÃ­ dÅ¯lnÃ­ stroj a ten druhej ne, mohl by bÄ›hem pÃ¡r tejdnÅ¯ poloÅ¾it ten druhej dÅ¯l na kolena. Anebo ho koupit.}
+{186}{}{To je teda hroznÃ¡ smÅ¯la, Å¾e nikdo nevÃ­, kde vzÃ­t jeden z tÄ›ch ÄipÅ¯.}
+{187}{}{Budu si muset osobnÄ› zjistit, kolik by za takovÃ½ Äip zaplatili. DÃ­ky a sbohem.}
+{188}{}{VyÄisti si doprÄic uÅ¡i! Å˜Ã­kal jsem ti pÅ™ece, kde se dÃ¡ ten zatracenej Äip najÃ­t. Copak jsi neposlouchal, co ti celou dobu Å™Ã­kÃ¡m? DÅ¯l Wanamingo mÄ›l dÅ¯lnÃ­ stroje a ty byly jeÅ¡tÄ› v provozu, dokud ho nezavÅ™eli. UrÄitÄ› tam dole ty Äipy jeÅ¡tÄ› jsou. Jen ÄekajÃ­ na nÄ›koho, kdo pÅ™ijde a vezme si je.}
+{189}{}{Hmm, to je moÅ¾nÃ©. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{190}{}{Å˜ekni mi nÄ›co o tÄ›ch Vana-mongolech.}
+{191}{}{DÃ­ky. PodÃ­vÃ¡m se na to. Sbohem.}
+{192}{}{No, vÃ­Å¡... jakoÅ¾e je bÅ¯h nade mnou... znÃ¡m nÄ›koho, kdo vidÄ›l jednoho z nich opravdu pÄ›knÄ› zblÃ­zka a... (ÄŒas ubÃ­hÃ¡) ...majÃ­ ohromnÃ© tesÃ¡ky, kterÃ½ pouÅ¾Ã­vaj na... (ÄŒas ubÃ­hÃ¡)...}
+{193}{}{Kdysi jsme jeÅ¡tÄ› s jednÃ­m pÅ™Ã­telem pracovali na zÃ¡boru a jednoho dne... (ÄŒas ubÃ­hÃ¡) ...bylo to velikÃ½ jako brahmÃ­na a smrdÄ›lo to jeÅ¡tÄ› hÅ¯Å™... (ÄŒas ubÃ­hÃ¡)...}
+{194}{}{No, vidÃ­m, Å¾e mi tu asi brzo usneÅ¡, takÅ¾e to zkrÃ¡tÃ­m. Bylo to hodnÄ› pozdÄ› v noci a tak... (ÄŒas ubÃ­hÃ¡) ...stopy vypadajÃ­cÃ­ jako nÄ›co mezi radÅ¡korpionem a geckonem... (DalÅ¡Ã­ Äas ubÃ­hÃ¡) ...vidÃ­Å¡? JÃ¡ ti Å™Ã­kal, Å¾e mi tu usneÅ¡.}
+{195}{}{Eh, co? (TrhneÅ¡ hlavou smÄ›rem nahoru. Asi jsi uÅ¾ zaÄal dÅ™Ã­mat.)}
+{196}{}{RadÄ›ji se pÅ¯jdu podÃ­vat po nÄ›Äem, co mi pomÅ¯Å¾e zÅ¯stat vzhÅ¯ru. Sbohem.}
+{197}{}{...tak a teÄ to znÃ¡Å¡ celÃ©. Otroci, kteÅ™Ã­ tam tenkrÃ¡t pracovali, vyhodili sloje do povÄ›tÅ™Ã­ a utekli, neÅ¾ aby s tÄ›ma Wanamingos bojovali. Potom ten dÅ¯l zavÅ™eli a nikdo v nÄ›m od tÃ½ doby nebyl.}
+{198}{}{Kde jsi Å™Ã­kal, Å¾e je ten VelkÃ½ Wanamingo dÅ¯l?}
+{199}{}{To uÅ¾ mi staÄilo. No, tak se zatÃ­m mÄ›j.}
+{200}{}{ZÃ¡padnÄ› od mÄ›sta. Ale slyÅ¡el jsem, Å¾e nÄ›kterÃ½ Wanamingos chodÄ›j pozdÄ› v noci do mÄ›sta, takÅ¾e tam moÅ¾nÃ¡ ani nebudeÅ¡ muset chodit, abys je vÅ¯bec vidÄ›l. Hehe.}
+{201}{}{MyslÃ­m, Å¾e uÅ¾ o tÄ›ch Wanamingos vÃ­m vÅ¡echno co potÅ™ebuju. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{202}{}{Budu si na ty Vana-mongoly dÃ¡vat bacha. Sbohem.}
+{203}{}{Ascorti je nÃ¡Å¡ starosta. Provozuje v centru podnik Ascortiho Eso. Kupuje a prodÃ¡vÃ¡ spoustu zboÅ¾Ã­. Je ve stÅ™edu vÅ¡eho dÄ›nÃ­ a vÅ¡ech zdejÅ¡Ã­ch machinacÃ­.}
+{204}{}{Ascorti je starostou Reddingu. Ale upÅ™Ã­mnÄ› nevÃ­m, kde je. UÅ¾ jsem ho docela dlouho nevidÄ›la.}
+{205}{}{Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{206}{}{Aha, dobÅ™e. No, tak pokraÄuj v tom pÅ™Ã­bÄ›hu.}
+{207}{}{UÅ¾ to nebudu poslouchat. Sbohem.}
+{208}{}{Jet je takovÃ½ potÄ›Å¡enÃ­Äko z New Rena. Beru ho jen obÄas, na zlepÅ¡enÃ­ nÃ¡lady.}
+{209}{}{Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{210}{}{ZajÃ­mavÃ©. DÃ­ky a sbohem.}
+{211}{}{Jet je naprostÃ¡ bomba, ÄlovÄ›Äe. CejtÃ­m se naÅ¾ivu jen kdyÅ¾ lÃ­tÃ¡m na Jetu. Zkus to nÄ›kdy.}
+{212}{}{Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{213}{}{ZajÃ­mavÃ©. DÃ­ky a sbohem.}
+{214}{}{Bez Jetu uÅ¾ skoro nepÅ™eÅ¾iju. V poslednÃ­ dobÄ› v tom jedeme vÅ¡ichni. MusÃ­me to prostÄ› mÃ­t. ZatracenÄ›, bez nÄ›j se cÃ­tÃ­m fakt na hovno.}
+{215}{}{Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{216}{}{ZajÃ­mavÃ©. DÃ­ky a sbohem.}
+{217}{}{Ten Jet je pÄ›knÄ› zlÃ¡ vÄ›c, ÄlovÄ›Äe. KaÅ¾dej, kdo to bere, je na tom teÄ tak mizernÄ›, jako kdyby mÄ›l kaÅ¾dou chvÃ­li chcÃ­pnout. MyslÃ­m, Å¾e radÅ¡i... (ChytÃ­ se za bÅ™icho a zaÄne zvracet.) ...promiÅˆ. PoslyÅ¡, kÃ¡mo, mÅ¯Å¾eme se radÅ¡i bavit o nÄ›Äem jinÃ½m?}
+{218}{}{Aha, promiÅˆ. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{219}{}{ZajÃ­mavÃ©. DÃ­ky a sbohem.}
+{220}{}{UÅ¾ nikdy nechci o tom hnusnÃ½m Jetu slyÅ¡et. AkorÃ¡t to ÄlovÄ›ka zabije. Je to horÅ¡Ã­ neÅ¾ radÅ¡korpionÃ­ jed. NemÅ¯Å¾u uvÄ›Å™it, Å¾e jsem to mÄ›l kdysi rÃ¡d. Ale ta poslednÃ­ dÃ¡vka... mÄ› mÃ¡lem zabila.}
+{221}{}{Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{222}{}{ZajÃ­mavÃ©. DÃ­ky a sbohem.}

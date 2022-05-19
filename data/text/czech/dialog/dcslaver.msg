@@ -1,22 +1,22 @@
-{100}{}{Vidíš otrokáøe.}
-{150}{}{Vypadá, e je to jedna z Metzgerovıch osobních stráí.}
-{200}{}{Tady jseš!}
-{201}{}{Teï chcípneš.}
-{300}{}{Chceš vidìt šéfa? Tak jdi dovnitø.}
+{100}{}{VidÃ­Å¡ otrokÃ¡Å™e.}
+{150}{}{VypadÃ¡, Å¾e je to jedna z MetzgerovÃ½ch osobnÃ­ch strÃ¡Å¾Ã­.}
+{200}{}{Tady jseÅ¡!}
+{201}{}{TeÄ chcÃ­pneÅ¡.}
+{300}{}{ChceÅ¡ vidÄ›t Å¡Ã©fa? Tak jdi dovnitÅ™.}
 {301}{}{Promluv si s Metzgerem, ne se mnou.}
-{302}{}{Mùeš jít dovnitø.}
-{303}{}{Chovej se slušnì.}
-{304}{}{Metzger je hned za tìmahle dveøma.}
-{305}{}{Hlavnì Metzgera nenaser.}
-{306}{}{Nic neprodáváme, jestli jseš tu kvùli tomu.}
-{307}{}{Poøád si nemùu zvyknout na enskou otrokáøku.}
-{308}{}{Jsme rádi, e jseš s náma.}
+{302}{}{MÅ¯Å¾eÅ¡ jÃ­t dovnitÅ™.}
+{303}{}{Chovej se sluÅ¡nÄ›.}
+{304}{}{Metzger je hned za tÄ›mahle dveÅ™ma.}
+{305}{}{HlavnÄ› Metzgera nenaser.}
+{306}{}{Nic neprodÃ¡vÃ¡me, jestli jseÅ¡ tu kvÅ¯li tomu.}
+{307}{}{PoÅ™Ã¡d si nemÅ¯Å¾u zvyknout na Å¾enskou otrokÃ¡Å™ku.}
+{308}{}{Jsme rÃ¡di, Å¾e jseÅ¡ s nÃ¡ma.}
 {309}{}{Ahoj. Jak to jde?}
-{310}{}{U jsi nìkdy zmlátil otroka?}
+{310}{}{UÅ¾ jsi nÄ›kdy zmlÃ¡til otroka?}
 {311}{}{Ahoj.}
-{312}{}{Jdeš na další hon?}
-{313}{}{Nic moc se nedìje.}
-{314}{}{Kdy pùjdeme zase do akce?}
-{315}{}{Chybìj mi hony otrokù. Dìlat strá je na prd.}
-{316}{}{Hony otrokù jsou bomba.}
-{317}{}{Hej, kámo, jsme rádi, e jseš s náma.}
+{312}{}{JdeÅ¡ na dalÅ¡Ã­ hon?}
+{313}{}{Nic moc se nedÄ›je.}
+{314}{}{Kdy pÅ¯jdeme zase do akce?}
+{315}{}{ChybÄ›j mi hony otrokÅ¯. DÄ›lat strÃ¡Å¾ je na prd.}
+{316}{}{Hony otrokÅ¯ jsou bomba.}
+{317}{}{Hej, kÃ¡mo, jsme rÃ¡di, Å¾e jseÅ¡ s nÃ¡ma.}

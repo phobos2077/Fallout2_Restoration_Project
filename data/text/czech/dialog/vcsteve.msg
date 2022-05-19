@@ -1,15 +1,15 @@
-{100}{}{Vidíš veselého mladíka.}
-{101}{}{Vidíš Steva, pomocníka šéfa Uvítací kanceláøe ve Vault City.}
-{102}{}{Má nepøítomnı pohled.}
-{103}{}{Ahoj a vítej ve Vault City, nejlepším mìstì celé Kalifornie! Jmenuju se Steve... jak ti mùu pomoct?}
-{104}{}{Tahle oplocená oblast je celé mìsto?}
-{105}{}{Co jsi chtìl øíct tím "nejlepší?"}
-{106}{}{Hledám Vault. Nevíš, kde ho najdu?}
+{100}{}{VidÃ­Å¡ veselÃ©ho mladÃ­ka.}
+{101}{}{VidÃ­Å¡ Steva, pomocnÃ­ka Å¡Ã©fa UvÃ­tacÃ­ kancelÃ¡Å™e ve Vault City.}
+{102}{}{MÃ¡ nepÅ™Ã­tomnÃ½ pohled.}
+{103}{}{Ahoj a vÃ­tej ve Vault City, nejlepÅ¡Ã­m mÄ›stÄ› celÃ© Kalifornie! Jmenuju se Steve... jak ti mÅ¯Å¾u pomoct?}
+{104}{}{Tahle oplocenÃ¡ oblast je celÃ© mÄ›sto?}
+{105}{}{Co jsi chtÄ›l Å™Ã­ct tÃ­m "nejlepÅ¡Ã­?"}
+{106}{}{HledÃ¡m Vault. NevÃ­Å¡, kde ho najdu?}
 {107}{}{Sbohem.}
-{108}{}{Ehm... (Listuje pøíruèkou ve své ruce.) Eh... na to ses ptát nemìl. Na to tady není odpovìï.}
-{109}{}{Víš ty vùbec nìco?}
-{110}{}{Stejnì díky.}
-{111}{}{(Ète z letáku.) Pokud vás... to budu já... urazí nìjakı venkovan... to budeš ty... odkate ho... na šéfa Uvítací kanceláøe. Aha... mám tì odkázat Melindì, šéfovi Uvítací kanceláøe.}
-{112}{}{Tak já si s ní pùjdu promluvit.}
-{113}{}{Vítej v Uvítací kanceláøi. Jmenuju se Steve.}
-{114}{}{Promiò, musím si dùkladnì proèíst tuhle pøíruèku.}
+{108}{}{Ehm... (Listuje pÅ™Ã­ruÄkou ve svÃ© ruce.) Eh... na to ses ptÃ¡t nemÄ›l. Na to tady nenÃ­ odpovÄ›Ä.}
+{109}{}{VÃ­Å¡ ty vÅ¯bec nÄ›co?}
+{110}{}{StejnÄ› dÃ­ky.}
+{111}{}{(ÄŒte z letÃ¡ku.) Pokud vÃ¡s... to budu jÃ¡... urazÃ­ nÄ›jakÃ½ venkovan... to budeÅ¡ ty... odkaÅ¾te ho... na Å¡Ã©fa UvÃ­tacÃ­ kancelÃ¡Å™e. Aha... mÃ¡m tÄ› odkÃ¡zat MelindÄ›, Å¡Ã©fovi UvÃ­tacÃ­ kancelÃ¡Å™e.}
+{112}{}{Tak jÃ¡ si s nÃ­ pÅ¯jdu promluvit.}
+{113}{}{VÃ­tej v UvÃ­tacÃ­ kancelÃ¡Å™i. Jmenuju se Steve.}
+{114}{}{PromiÅˆ, musÃ­m si dÅ¯kladnÄ› proÄÃ­st tuhle pÅ™Ã­ruÄku.}

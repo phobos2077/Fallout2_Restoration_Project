@@ -1,123 +1,123 @@
-{100}{}{Vidíš mue v kovové zbroji.}
-{101}{}{Vidíš Matthewa.}
-{102}{}{Vidíš mue v kovové zbroji s odznakem blesku.}
+{100}{}{VidÃ­Å¡ muÅ¾e v kovovÃ© zbroji.}
+{101}{}{VidÃ­Å¡ Matthewa.}
+{102}{}{VidÃ­Å¡ muÅ¾e v kovovÃ© zbroji s odznakem blesku.}
 {103}{}{Ahoj,}
-{104}{}{. Co pro tebe mohu udìlat?}
-{105}{}{Ty odpovìdìt na otázky?}
-{106}{}{Nic. Já pøijít pozdìjc.}
-{107}{}{Mùeš zaèít tím, e mi odpovíš na nìjaké otázky.}
-{108}{}{Teï nic. Pøijdu pozdìji.}
-{109}{}{Myslím, e si zaslouíš odpovìï na své otázky.}
-{110}{}{S èím ti mùu pomoct?}
-{111}{}{Kdo bıt ty?}
-{112}{}{Proè nikdo nezmiòovat ty?}
-{113}{}{Proè tady bıt jen jeden èlovìk?}
-{114}{}{Já teï jít.}
-{115}{}{Co jste zaè, lidi?}
-{116}{}{Proè se tu o vás nikdo nezmiòuje?}
-{117}{}{Proè tu máte jenom jednu osobu?}
-{118}{}{U musím jít.}
-{119}{}{Jsme paravojenská organizace známá jako Bratrstvo Oceli.}
-{120}{}{Co Bratrstvo dìlat?}
-{121}{}{Dobøe... a co tohle Bratrstvo dìlá?}
-{122}{}{Kdysi jsme byli jedinou baštou technologie, která zùstala na planetì. Udìlali jsme ze sebe nìco jako 'technologickou policii.' Nashromádili jsme staré poznatky a ty jsme poté sdíleli s ostatními pouze po malıch èástech. Samozøejmì jenom tìm, o kterıch jsme si mysleli, e si to zaslouí a kteøí mìli tolik moudrosti, aby tyto poznatky dokázali vyuít.}
-{123}{}{A teï?}
-{124}{}{Øekl jsi 'kdysi.' Ale co teï?}
-{125}{}{Pøed nìkolika mìsíci jsme narazili na skupinu známou jakou Enkláva. K našemu pøekvapení jejich technologická úroveò pøekraèuje dokonce i tu naši. Shledali jsme, e je to celkem znepokojující a chtìli jsme je kontaktovat. Nicménì jsme se nakonec rozhodli, e zkusíme nejdøíve opatrnìjší pøístup, ne zjistíme, kdo vlastnì Enkláva je a co je smyslem její organizace.}
-{126}{}{Nakonec jsme znovu aktivovali malé základny poblí Enklávské aktivity, ze kterıch je mùeme bezpeènì pozorovat. Momentálnì jsou tyto malé základny aktivní v Denu, NCR a tady v San Franciscu.}
+{104}{}{. Co pro tebe mohu udÄ›lat?}
+{105}{}{Ty odpovÄ›dÄ›t na otÃ¡zky?}
+{106}{}{Nic. JÃ¡ pÅ™ijÃ­t pozdÄ›jc.}
+{107}{}{MÅ¯Å¾eÅ¡ zaÄÃ­t tÃ­m, Å¾e mi odpovÃ­Å¡ na nÄ›jakÃ© otÃ¡zky.}
+{108}{}{TeÄ nic. PÅ™ijdu pozdÄ›ji.}
+{109}{}{MyslÃ­m, Å¾e si zaslouÅ¾Ã­Å¡ odpovÄ›Ä na svÃ© otÃ¡zky.}
+{110}{}{S ÄÃ­m ti mÅ¯Å¾u pomoct?}
+{111}{}{Kdo bÃ½t ty?}
+{112}{}{ProÄ nikdo nezmiÅˆovat ty?}
+{113}{}{ProÄ tady bÃ½t jen jeden ÄlovÄ›k?}
+{114}{}{JÃ¡ teÄ jÃ­t.}
+{115}{}{Co jste zaÄ, lidi?}
+{116}{}{ProÄ se tu o vÃ¡s nikdo nezmiÅˆuje?}
+{117}{}{ProÄ tu mÃ¡te jenom jednu osobu?}
+{118}{}{UÅ¾ musÃ­m jÃ­t.}
+{119}{}{Jsme paravojenskÃ¡ organizace znÃ¡mÃ¡ jako Bratrstvo Oceli.}
+{120}{}{Co Bratrstvo dÄ›lat?}
+{121}{}{DobÅ™e... a co tohle Bratrstvo dÄ›lÃ¡?}
+{122}{}{Kdysi jsme byli jedinou baÅ¡tou technologie, kterÃ¡ zÅ¯stala na planetÄ›. UdÄ›lali jsme ze sebe nÄ›co jako 'technologickou policii.' NashromÃ¡Å¾dili jsme starÃ© poznatky a ty jsme potÃ© sdÃ­leli s ostatnÃ­mi pouze po malÃ½ch ÄÃ¡stech. SamozÅ™ejmÄ› jenom tÄ›m, o kterÃ½ch jsme si mysleli, Å¾e si to zaslouÅ¾Ã­ a kteÅ™Ã­ mÄ›li tolik moudrosti, aby tyto poznatky dokÃ¡zali vyuÅ¾Ã­t.}
+{123}{}{A teÄ?}
+{124}{}{Å˜ekl jsi 'kdysi.' Ale co teÄ?}
+{125}{}{PÅ™ed nÄ›kolika mÄ›sÃ­ci jsme narazili na skupinu znÃ¡mou jakou EnklÃ¡va. K naÅ¡emu pÅ™ekvapenÃ­ jejich technologickÃ¡ ÃºroveÅˆ pÅ™ekraÄuje dokonce i tu naÅ¡i. Shledali jsme, Å¾e je to celkem znepokojujÃ­cÃ­ a chtÄ›li jsme je kontaktovat. NicmÃ©nÄ› jsme se nakonec rozhodli, Å¾e zkusÃ­me nejdÅ™Ã­ve opatrnÄ›jÅ¡Ã­ pÅ™Ã­stup, neÅ¾ zjistÃ­me, kdo vlastnÄ› EnklÃ¡va je a co je smyslem jejÃ­ organizace.}
+{126}{}{Nakonec jsme znovu aktivovali malÃ© zÃ¡kladny poblÃ­Å¾ EnklÃ¡vskÃ© aktivity, ze kterÃ½ch je mÅ¯Å¾eme bezpeÄnÄ› pozorovat. MomentÃ¡lnÄ› jsou tyto malÃ© zÃ¡kladny aktivnÃ­ v Denu, NCR a tady v San Franciscu.}
 {127}{}{Co ty zjistit?}
-{128}{}{To zní zajímavì. Co jste se dozvìdìli?}
-{129}{}{Zjistili jsme, e Enkláva hodnì obchoduje s drogami, zbranìmi a otroky. Ale všechno jsou to jen nepodstatné èinnosti, které vedou k nìjakému vyššímu cílu, kterı se nám nepodaøilo odhalit. Stále je ale sledujeme.}
-{130}{}{Proè ty øíkat všechno tohle teï?}
-{131}{}{Ne pokroèíme dál, proè mi tohle všechno vlastnì øíkáš?}
-{132}{}{(Povzdech) Enkláva vyvinula technologii vertibirdù, létajících strojù, které jí umoòují dostat se hluboko do okolních oblastí. Bez podobné technologie, která by dokázala èelit této hrozbì, nebude Bratrstvo schopno zastavit invazi vyslanou Enklávou. Potøebujeme pro sebe tuto technologii vertibirdù nebo nìjakı jinı zpùsob, jak jim èelit.}
-{133}{}{Nedávno si Enkláva zøídila základnu severnì odsud. Jmenuje se Navarro. Je vyuívána pro údrbu a doplòování paliva vertibirdù. Myslím si, e by na takovéto základnì mohly bıt kompletní technické plány vertibirdu. Potøebuji jen, aby tam nìkdo pronikl, ukradl je a pøinesl mi je.}
-{134}{}{Eh... já udìlat?}
-{135}{}{Nech mì hádat. Mám na tuhle základnu proniknout.}
-{136}{}{Budu k tobì upøímnı,}
-{137}{}{. Bratrstvo oceli u není taková mocnost jako døíve. Vìøili jsme, e jsme poslední zdroj technologií, kterı lidstvu zbyl. Díky tomuto faktu jsme nechali náš øád po léta upadat. Teï nemáme prostøedky na to, abychom se mohli vypoøádat s Enklávou. Potøebujeme tvoji pomoc.}
-{138}{}{Jsem pøipraven ti udìlat tuto nabídku. Vykonej pro mì toto poslání a já ti zaruèím pøístup do této základny. Budeš mít k dispozici nejlepší technologii Bratrstva. Co na to øíkáš?}
-{139}{}{Já pøemıšlet.}
-{140}{}{ádnı pøípad. Já teï jít.}
-{141}{}{Ale co. Já udìlat.}
-{142}{}{Tak to si ještì rozmyslím.}
-{143}{}{V ádném pøípadì. Najdi si jiného blázna.}
-{144}{}{Ale co. Asi jsem blázen, ale udìlám to.}
-{145}{}{Tak dobøe. A se rozhodneš, zastav se tu.}
-{146}{}{Dobøe. Ahoj.}
-{147}{}{Dobøe, ale já zeptat víc.}
-{148}{}{Dobøe. Nashle.}
-{149}{}{Dobøe, ale chci se ještì na nìco zeptat.}
-{150}{}{Chápu e váháš pøijmout takovouto misi. Dej mi prosím vìdìt, jestli se rozhodneš jinak.}
-{151}{}{Dobøe. Ahoj.}
-{152}{}{Dobøe, ale já zeptat víc.}
-{153}{}{Dobøe. Nashle.}
-{154}{}{Dobøe, ale chci se ještì na nìco zeptat.}
-{155}{}{Vıbornì. Tady jsou instrukce: Jdi do Navarra, pronikni do základny a získej technické plány vertibirdu. Poté mi je pøines.}
-{156}{}{Dobøe. Eh... jak ty myslet já dokázat to? To bıt vojenská základna.}
-{157}{}{Dobøe. Já teï jít.}
-{158}{}{Dobøe, ale... jak se tam mám dostat? Je to koneckoncù vojenská základna.}
-{159}{}{Fajn. Dám se do toho.}
-{160}{}{Po úspìšném dokonèení tvého poslání ti bude umonìn pøístup do této základny. Myslím, e bude nejlepší, kdy zaèneš hned teï. Dìkuji ti,}
+{128}{}{To znÃ­ zajÃ­mavÄ›. Co jste se dozvÄ›dÄ›li?}
+{129}{}{Zjistili jsme, Å¾e EnklÃ¡va hodnÄ› obchoduje s drogami, zbranÄ›mi a otroky. Ale vÅ¡echno jsou to jen nepodstatnÃ© Äinnosti, kterÃ© vedou k nÄ›jakÃ©mu vyÅ¡Å¡Ã­mu cÃ­lu, kterÃ½ se nÃ¡m nepodaÅ™ilo odhalit. StÃ¡le je ale sledujeme.}
+{130}{}{ProÄ ty Å™Ã­kat vÅ¡echno tohle teÄ?}
+{131}{}{NeÅ¾ pokroÄÃ­me dÃ¡l, proÄ mi tohle vÅ¡echno vlastnÄ› Å™Ã­kÃ¡Å¡?}
+{132}{}{(Povzdech) EnklÃ¡va vyvinula technologii vertibirdÅ¯, lÃ©tajÃ­cÃ­ch strojÅ¯, kterÃ© jÃ­ umoÅ¾ÅˆujÃ­ dostat se hluboko do okolnÃ­ch oblastÃ­. Bez podobnÃ© technologie, kterÃ¡ by dokÃ¡zala Äelit tÃ©to hrozbÄ›, nebude Bratrstvo schopno zastavit invazi vyslanou EnklÃ¡vou. PotÅ™ebujeme pro sebe tuto technologii vertibirdÅ¯ nebo nÄ›jakÃ½ jinÃ½ zpÅ¯sob, jak jim Äelit.}
+{133}{}{NedÃ¡vno si EnklÃ¡va zÅ™Ã­dila zÃ¡kladnu severnÄ› odsud. Jmenuje se Navarro. Je vyuÅ¾Ã­vÃ¡na pro ÃºdrÅ¾bu a doplÅˆovÃ¡nÃ­ paliva vertibirdÅ¯. MyslÃ­m si, Å¾e by na takovÃ©to zÃ¡kladnÄ› mohly bÃ½t kompletnÃ­ technickÃ© plÃ¡ny vertibirdu. PotÅ™ebuji jen, aby tam nÄ›kdo pronikl, ukradl je a pÅ™inesl mi je.}
+{134}{}{Eh... jÃ¡ udÄ›lat?}
+{135}{}{Nech mÄ› hÃ¡dat. MÃ¡m na tuhle zÃ¡kladnu proniknout.}
+{136}{}{Budu k tobÄ› upÅ™Ã­mnÃ½,}
+{137}{}{. Bratrstvo oceli uÅ¾ nenÃ­ takovÃ¡ mocnost jako dÅ™Ã­ve. VÄ›Å™ili jsme, Å¾e jsme poslednÃ­ zdroj technologiÃ­, kterÃ½ lidstvu zbyl. DÃ­ky tomuto faktu jsme nechali nÃ¡Å¡ Å™Ã¡d po lÃ©ta upadat. TeÄ nemÃ¡me prostÅ™edky na to, abychom se mohli vypoÅ™Ã¡dat s EnklÃ¡vou. PotÅ™ebujeme tvoji pomoc.}
+{138}{}{Jsem pÅ™ipraven ti udÄ›lat tuto nabÃ­dku. Vykonej pro mÄ› toto poslÃ¡nÃ­ a jÃ¡ ti zaruÄÃ­m pÅ™Ã­stup do tÃ©to zÃ¡kladny. BudeÅ¡ mÃ­t k dispozici nejlepÅ¡Ã­ technologii Bratrstva. Co na to Å™Ã­kÃ¡Å¡?}
+{139}{}{JÃ¡ pÅ™emÃ½Å¡let.}
+{140}{}{Å½Ã¡dnÃ½ pÅ™Ã­pad. JÃ¡ teÄ jÃ­t.}
+{141}{}{Ale co. JÃ¡ udÄ›lat.}
+{142}{}{Tak to si jeÅ¡tÄ› rozmyslÃ­m.}
+{143}{}{V Å¾Ã¡dnÃ©m pÅ™Ã­padÄ›. Najdi si jinÃ©ho blÃ¡zna.}
+{144}{}{Ale co. Asi jsem blÃ¡zen, ale udÄ›lÃ¡m to.}
+{145}{}{Tak dobÅ™e. AÅ¾ se rozhodneÅ¡, zastav se tu.}
+{146}{}{DobÅ™e. Ahoj.}
+{147}{}{DobÅ™e, ale jÃ¡ zeptat vÃ­c.}
+{148}{}{DobÅ™e. Nashle.}
+{149}{}{DobÅ™e, ale chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{150}{}{ChÃ¡pu Å¾e vÃ¡hÃ¡Å¡ pÅ™ijmout takovouto misi. Dej mi prosÃ­m vÄ›dÄ›t, jestli se rozhodneÅ¡ jinak.}
+{151}{}{DobÅ™e. Ahoj.}
+{152}{}{DobÅ™e, ale jÃ¡ zeptat vÃ­c.}
+{153}{}{DobÅ™e. Nashle.}
+{154}{}{DobÅ™e, ale chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{155}{}{VÃ½bornÄ›. Tady jsou instrukce: Jdi do Navarra, pronikni do zÃ¡kladny a zÃ­skej technickÃ© plÃ¡ny vertibirdu. PotÃ© mi je pÅ™ines.}
+{156}{}{DobÅ™e. Eh... jak ty myslet jÃ¡ dokÃ¡zat to? To bÃ½t vojenskÃ¡ zÃ¡kladna.}
+{157}{}{DobÅ™e. JÃ¡ teÄ jÃ­t.}
+{158}{}{DobÅ™e, ale... jak se tam mÃ¡m dostat? Je to koneckoncÅ¯ vojenskÃ¡ zÃ¡kladna.}
+{159}{}{Fajn. DÃ¡m se do toho.}
+{160}{}{Po ÃºspÄ›Å¡nÃ©m dokonÄenÃ­ tvÃ©ho poslÃ¡nÃ­ ti bude umoÅ¾nÄ›n pÅ™Ã­stup do tÃ©to zÃ¡kladny. MyslÃ­m, Å¾e bude nejlepÅ¡Ã­, kdyÅ¾ zaÄneÅ¡ hned teÄ. DÄ›kuji ti,}
 {161}{}{.}
-{162}{}{Dobøe. Ahoj.}
-{163}{}{Jasnì, ale já ptát víc.}
-{164}{}{Jo, zatím.}
-{165}{}{Jistì, ale ještì se chci na nìco zeptat.}
-{166}{}{Tato základna je tu u léta. Díky tomu, e jsme ji udrovali v chodu s minimálním poètem pracovníkù, nikdy nepøitahovala ádnou pozornost a tím jsme dosáhli anonymity. Necháváme Shi na pokoji a oni nechávají na pokoji nás.}
-{167}{}{Já tušit...}
-{168}{}{Jo, asi chápu, co tím myslíš.}
-{169}{}{Pøíliš mnoho lidí na jednom místì by pøitahovalo pozornost. Jeden mu ve mìstì mnoha muù je ménì nápadnı.}
-{170}{}{Dobøe.}
-{171}{}{Zdravím. Mùu ti s nìèím pomoct?}
-{172}{}{Ne, já jenom øíct ahoj.}
-{173}{}{Jo. Ty odpovìdìt otázka?}
+{162}{}{DobÅ™e. Ahoj.}
+{163}{}{JasnÄ›, ale jÃ¡ ptÃ¡t vÃ­c.}
+{164}{}{Jo, zatÃ­m.}
+{165}{}{JistÄ›, ale jeÅ¡tÄ› se chci na nÄ›co zeptat.}
+{166}{}{Tato zÃ¡kladna je tu uÅ¾ lÃ©ta. DÃ­ky tomu, Å¾e jsme ji udrÅ¾ovali v chodu s minimÃ¡lnÃ­m poÄtem pracovnÃ­kÅ¯, nikdy nepÅ™itahovala Å¾Ã¡dnou pozornost a tÃ­m jsme dosÃ¡hli anonymity. NechÃ¡vÃ¡me Shi na pokoji a oni nechÃ¡vajÃ­ na pokoji nÃ¡s.}
+{167}{}{JÃ¡ tuÅ¡it...}
+{168}{}{Jo, asi chÃ¡pu, co tÃ­m myslÃ­Å¡.}
+{169}{}{PÅ™Ã­liÅ¡ mnoho lidÃ­ na jednom mÃ­stÄ› by pÅ™itahovalo pozornost. Jeden muÅ¾ ve mÄ›stÄ› mnoha muÅ¾Å¯ je mÃ©nÄ› nÃ¡padnÃ½.}
+{170}{}{DobÅ™e.}
+{171}{}{ZdravÃ­m. MÅ¯Å¾u ti s nÄ›ÄÃ­m pomoct?}
+{172}{}{Ne, jÃ¡ jenom Å™Ã­ct ahoj.}
+{173}{}{Jo. Ty odpovÄ›dÄ›t otÃ¡zka?}
 {174}{}{Ne, jen jdu tak kolem.}
-{175}{}{Ano, odpovìz mi na nìjaké otázky.}
-{176}{}{Ahoj. Pøemıšlel jsi o mé nabídce?}
-{177}{}{Ne. Já ještì nepøemıšlet.}
-{178}{}{Jo. Já vzít práce.}
-{179}{}{Ne, ještì ne.}
-{180}{}{Ano. Myslím, e tu práci vezmu.}
-{181}{}{Ahoj. Zmìnil jsi rozhodnutí o mé nabídce?}
+{175}{}{Ano, odpovÄ›z mi na nÄ›jakÃ© otÃ¡zky.}
+{176}{}{Ahoj. PÅ™emÃ½Å¡lel jsi o mÃ© nabÃ­dce?}
+{177}{}{Ne. JÃ¡ jeÅ¡tÄ› nepÅ™emÃ½Å¡let.}
+{178}{}{Jo. JÃ¡ vzÃ­t prÃ¡ce.}
+{179}{}{Ne, jeÅ¡tÄ› ne.}
+{180}{}{Ano. MyslÃ­m, Å¾e tu prÃ¡ci vezmu.}
+{181}{}{Ahoj. ZmÄ›nil jsi rozhodnutÃ­ o mÃ© nabÃ­dce?}
 {182}{}{Ne.}
-{183}{}{Ano. Já vzít.}
-{184}{}{Ne, nemám.}
-{185}{}{Ano, vezmu tu práci.}
-{186}{}{Dokonèil jsi své poslání?}
-{187}{}{Ne, já poøád pracovat.}
-{188}{}{Já mít plány.}
-{189}{}{Ne, ještì na tom pracuju.}
-{190}{}{Mám pro tebe ty plány vertibirdu.}
-{191}{}{Dobøe, pokraèuj v práci. Vím, e to je obtíné poslání, ale myslím, e to dokáeš.}
-{192}{}{Dobøe.}
-{193}{}{Vıborná práce! Dej mi ty plány a já z nich udìlám kopii. A jak jsem slíbil, dám ti plnı pøístup do této základny. Dìkuji ti.}
-{194}{}{To bıt v poøádku.}
-{195}{}{Není zaè.}
-{196}{}{Navarro je pomìrnì nové a ještì nemá plnı poèet pracovníkù. Mé zdroje mi povìdìli, e k nim èas od èasu pøichází noví pracovníci. Moná by sis mohl zahrát na novì pøíchozího. Takovı je mùj návrh.}
-{197}{}{Navarro je pomìrnì nové a ještì nemá plnı poèet pracovníkù. Mé zdroje mi povìdìli, e k nim èas od èasu pøichází noví pracovníci. Moná, kdy tam pùjdeš sám, mohl by sis zahrát na novì pøíchozího. Takovı je mùj návrh. Tví pøátelé mùou poèkat tady.}
-{198}{}{Dobøe.}
-{199}{}{Ty øíkat 'zdroje.' Co oni bıt?}
-{200}{}{Tak dobøe.}
-{201}{}{Zmiòoval ses o 'zdrojích.' Kdo to je?}
-{202}{}{Mìl jsem na základnì zvìda. Její zprávy ale nedávno pøestaly chodit. Pøedpokládám pouze to nejhorší. Prosím, dávej si pozor,}
-{203}{}{. Nebaví mì posílat lidi na smrt.}
-{204}{}{Já bıt opatrnı, díky.}
-{205}{}{Budu opatrnı. Díky.}
-{206}{}{Ještì jednou dìkuji za všechnu pomoc. Máš plnı pøístup do této základny.}
-{207}{}{To je soukromá kanceláø.}
-{208}{}{Tam pro tebe nic není.}
-{209}{}{To je soukromı pozemek, take odejdi.}
-{210}{}{Jak víte, kdo jsem?}
-{211}{}{Jak ty znát já?}
-{212}{}{Víme toho mnoho.}
-{213}{}{Po úspìšném dokonèení tvého poslání pro tebe pøipravím tanker a zaruèím ti pøístup do této základny. Myslím, e bude nejlepší, kdy zaèneš hned. Dìkuji,}
-{214}{}{Já jít.}
-{215}{}{Vıborná práce! Dej mi ty plány a já si udìlám kopii. Jak jsem slíbil, zaruèím, aby byl pro tebe tanker pøipravenı... staèí jít k poèítaèi na horním podlaí a zmáèknout tlaèítko Go. Také ti dám plnı pøístup do této základny. Dìkuji.}
-{216}{}{Nemít zaè!}
-{217}{}{Mùeš projít tìmito dveømi, jestli chceš, nebo jít k tankeru. Je pøipraven na cestu. Hodnì štìstí!}
-{218}{}{Jsem pøipraven ti dát nabídku. Splò pro mì toto poslání a já pro tebe pøipravím tanker na cestu do Enklávy. Co na to øíkáš?}
-{219}{}{Já pøemıšlet.}
-{220}{}{ádnı pøípad. Já teï jít.}
-{221}{}{Ale co. Já udìlat.}
-{222}{}{Dobøe. Já jít.}
+{183}{}{Ano. JÃ¡ vzÃ­t.}
+{184}{}{Ne, nemÃ¡m.}
+{185}{}{Ano, vezmu tu prÃ¡ci.}
+{186}{}{DokonÄil jsi svÃ© poslÃ¡nÃ­?}
+{187}{}{Ne, jÃ¡ poÅ™Ã¡d pracovat.}
+{188}{}{JÃ¡ mÃ­t plÃ¡ny.}
+{189}{}{Ne, jeÅ¡tÄ› na tom pracuju.}
+{190}{}{MÃ¡m pro tebe ty plÃ¡ny vertibirdu.}
+{191}{}{DobÅ™e, pokraÄuj v prÃ¡ci. VÃ­m, Å¾e to je obtÃ­Å¾nÃ© poslÃ¡nÃ­, ale myslÃ­m, Å¾e to dokÃ¡Å¾eÅ¡.}
+{192}{}{DobÅ™e.}
+{193}{}{VÃ½bornÃ¡ prÃ¡ce! Dej mi ty plÃ¡ny a jÃ¡ z nich udÄ›lÃ¡m kopii. A jak jsem slÃ­bil, dÃ¡m ti plnÃ½ pÅ™Ã­stup do tÃ©to zÃ¡kladny. DÄ›kuji ti.}
+{194}{}{To bÃ½t v poÅ™Ã¡dku.}
+{195}{}{NenÃ­ zaÄ.}
+{196}{}{Navarro je pomÄ›rnÄ› novÃ© a jeÅ¡tÄ› nemÃ¡ plnÃ½ poÄet pracovnÃ­kÅ¯. MÃ© zdroje mi povÄ›dÄ›li, Å¾e k nim Äas od Äasu pÅ™ichÃ¡zÃ­ novÃ­ pracovnÃ­ci. MoÅ¾nÃ¡ by sis mohl zahrÃ¡t na novÄ› pÅ™Ã­chozÃ­ho. TakovÃ½ je mÅ¯j nÃ¡vrh.}
+{197}{}{Navarro je pomÄ›rnÄ› novÃ© a jeÅ¡tÄ› nemÃ¡ plnÃ½ poÄet pracovnÃ­kÅ¯. MÃ© zdroje mi povÄ›dÄ›li, Å¾e k nim Äas od Äasu pÅ™ichÃ¡zÃ­ novÃ­ pracovnÃ­ci. MoÅ¾nÃ¡, kdyÅ¾ tam pÅ¯jdeÅ¡ sÃ¡m, mohl by sis zahrÃ¡t na novÄ› pÅ™Ã­chozÃ­ho. TakovÃ½ je mÅ¯j nÃ¡vrh. TvÃ­ pÅ™Ã¡telÃ© mÅ¯Å¾ou poÄkat tady.}
+{198}{}{DobÅ™e.}
+{199}{}{Ty Å™Ã­kat 'zdroje.' Co oni bÃ½t?}
+{200}{}{Tak dobÅ™e.}
+{201}{}{ZmiÅˆoval ses o 'zdrojÃ­ch.' Kdo to je?}
+{202}{}{MÄ›l jsem na zÃ¡kladnÄ› zvÄ›da. JejÃ­ zprÃ¡vy ale nedÃ¡vno pÅ™estaly chodit. PÅ™edpoklÃ¡dÃ¡m pouze to nejhorÅ¡Ã­. ProsÃ­m, dÃ¡vej si pozor,}
+{203}{}{. NebavÃ­ mÄ› posÃ­lat lidi na smrt.}
+{204}{}{JÃ¡ bÃ½t opatrnÃ½, dÃ­ky.}
+{205}{}{Budu opatrnÃ½. DÃ­ky.}
+{206}{}{JeÅ¡tÄ› jednou dÄ›kuji za vÅ¡echnu pomoc. MÃ¡Å¡ plnÃ½ pÅ™Ã­stup do tÃ©to zÃ¡kladny.}
+{207}{}{To je soukromÃ¡ kancelÃ¡Å™.}
+{208}{}{Tam pro tebe nic nenÃ­.}
+{209}{}{To je soukromÃ½ pozemek, takÅ¾e odejdi.}
+{210}{}{Jak vÃ­te, kdo jsem?}
+{211}{}{Jak ty znÃ¡t jÃ¡?}
+{212}{}{VÃ­me toho mnoho.}
+{213}{}{Po ÃºspÄ›Å¡nÃ©m dokonÄenÃ­ tvÃ©ho poslÃ¡nÃ­ pro tebe pÅ™ipravÃ­m tanker a zaruÄÃ­m ti pÅ™Ã­stup do tÃ©to zÃ¡kladny. MyslÃ­m, Å¾e bude nejlepÅ¡Ã­, kdyÅ¾ zaÄneÅ¡ hned. DÄ›kuji,}
+{214}{}{JÃ¡ jÃ­t.}
+{215}{}{VÃ½bornÃ¡ prÃ¡ce! Dej mi ty plÃ¡ny a jÃ¡ si udÄ›lÃ¡m kopii. Jak jsem slÃ­bil, zaruÄÃ­m, aby byl pro tebe tanker pÅ™ipravenÃ½... staÄÃ­ jÃ­t k poÄÃ­taÄi na hornÃ­m podlaÅ¾Ã­ a zmÃ¡Äknout tlaÄÃ­tko Go. TakÃ© ti dÃ¡m plnÃ½ pÅ™Ã­stup do tÃ©to zÃ¡kladny. DÄ›kuji.}
+{216}{}{NemÃ­t zaÄ!}
+{217}{}{MÅ¯Å¾eÅ¡ projÃ­t tÄ›mito dveÅ™mi, jestli chceÅ¡, nebo jÃ­t k tankeru. Je pÅ™ipraven na cestu. HodnÄ› Å¡tÄ›stÃ­!}
+{218}{}{Jsem pÅ™ipraven ti dÃ¡t nabÃ­dku. SplÅˆ pro mÄ› toto poslÃ¡nÃ­ a jÃ¡ pro tebe pÅ™ipravÃ­m tanker na cestu do EnklÃ¡vy. Co na to Å™Ã­kÃ¡Å¡?}
+{219}{}{JÃ¡ pÅ™emÃ½Å¡let.}
+{220}{}{Å½Ã¡dnÃ½ pÅ™Ã­pad. JÃ¡ teÄ jÃ­t.}
+{221}{}{Ale co. JÃ¡ udÄ›lat.}
+{222}{}{DobÅ™e. JÃ¡ jÃ­t.}

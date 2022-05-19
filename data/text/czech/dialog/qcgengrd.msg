@@ -1,58 +1,58 @@
-{100}{}{Vidíš osobu v energo zbroji.}
-{101}{}{Vidíš vojáka Enklávy.}
-{102}{}{Vidíš osobu obleèenou v hi-tech energo zbroji.}
+{100}{}{VidÃ­Å¡ osobu v energo zbroji.}
+{101}{}{VidÃ­Å¡ vojÃ¡ka EnklÃ¡vy.}
+{102}{}{VidÃ­Å¡ osobu obleÄenou v hi-tech energo zbroji.}
 {103}{}{Kdo je tam?}
-{104}{}{Jdi dál.}
-{105}{}{Na co èumíš?}
-{106}{}{Táhni odsud.}
-{107}{}{ádné okounìní.}
-{108}{}{Pùjdeš do hlášení.}
-{109}{}{Vra se zpátky do práce.}
-{110}{}{Máš povolení pro tuhle oblast?}
-{111}{}{Tady nemáš co dìlat, chlape.}
-{112}{}{Pokraèuj v práci.}
+{104}{}{Jdi dÃ¡l.}
+{105}{}{Na co ÄumÃ­Å¡?}
+{106}{}{TÃ¡hni odsud.}
+{107}{}{Å½Ã¡dnÃ© okounÄ›nÃ­.}
+{108}{}{PÅ¯jdeÅ¡ do hlÃ¡Å¡enÃ­.}
+{109}{}{VraÅ¥ se zpÃ¡tky do prÃ¡ce.}
+{110}{}{MÃ¡Å¡ povolenÃ­ pro tuhle oblast?}
+{111}{}{Tady nemÃ¡Å¡ co dÄ›lat, chlape.}
+{112}{}{PokraÄuj v prÃ¡ci.}
 {113}{}{Nikomu ani muk.}
-{114}{}{Tohle není cvièení, opakuju, tohle není cvièení!}
-{115}{}{Zaènìte s karanténou.}
-{116}{}{Bì do bezpeènı zóny. Hned!}
-{117}{}{Máme tu nebezpeènou situaci.}
-{118}{}{Radši se nìkam schovej.}
-{119}{}{Ty neslyšíš ten alarm?}
+{114}{}{Tohle nenÃ­ cviÄenÃ­, opakuju, tohle nenÃ­ cviÄenÃ­!}
+{115}{}{ZaÄnÄ›te s karantÃ©nou.}
+{116}{}{BÄ›Å¾ do bezpeÄnÃ½ zÃ³ny. Hned!}
+{117}{}{MÃ¡me tu nebezpeÄnou situaci.}
+{118}{}{RadÅ¡i se nÄ›kam schovej.}
+{119}{}{Ty neslyÅ¡Ã­Å¡ ten alarm?}
 {120}{}{Radiace nebo toxiny, fakt super den.}
-{121}{}{V nìkterejch dnech se ani nevyplatí vylízat z postele.}
-{122}{}{Všechny inspekce jsou jen na parádu.}
-{123}{}{Miluju svoji práci.}
-{124}{}{Neslyšel jsi nìco?}
-{125}{}{Strašnì mì bolej nohy.}
-{126}{}{Slyšel jsi u o tı novı sekretáøce?}
-{127}{}{Stejnì se tady nikdy nic nestane.}
-{128}{}{Pøál bych si, aby se u koneènì nìco stalo.}
-{129}{}{Slyšel jsem, e je viceprezident pìknej hajzl.}
-{130}{}{Nespíš, e ne?}
-{131}{}{Kontrola rádia. Jedna, dva, tøi. Slyšíte mì?}
-{132}{}{(Zíííív)}
-{133}{}{Dneska je ta pokerová párty. Cejtím, e budu mít štìstí.}
-{134}{}{Všichni zùstaòte v pohotovosti.}
-{135}{}{Zùstaòte ostraití.}
-{136}{}{Tohle není ádnı cvièení.}
-{137}{}{Odveïte civilisty do bezpeèí.}
+{121}{}{V nÄ›kterejch dnech se ani nevyplatÃ­ vylÃ­zat z postele.}
+{122}{}{VÅ¡echny inspekce jsou jen na parÃ¡du.}
+{123}{}{Miluju svoji prÃ¡ci.}
+{124}{}{NeslyÅ¡el jsi nÄ›co?}
+{125}{}{StraÅ¡nÄ› mÄ› bolej nohy.}
+{126}{}{SlyÅ¡el jsi uÅ¾ o tÃ½ novÃ½ sekretÃ¡Å™ce?}
+{127}{}{StejnÄ› se tady nikdy nic nestane.}
+{128}{}{PÅ™Ã¡l bych si, aby se uÅ¾ koneÄnÄ› nÄ›co stalo.}
+{129}{}{SlyÅ¡el jsem, Å¾e je viceprezident pÄ›knej hajzl.}
+{130}{}{NespÃ­Å¡, Å¾e ne?}
+{131}{}{Kontrola rÃ¡dia. Jedna, dva, tÅ™i. SlyÅ¡Ã­te mÄ›?}
+{132}{}{(ZÃ­Ã­Ã­Ã­v)}
+{133}{}{Dneska je ta pokerovÃ¡ pÃ¡rty. CejtÃ­m, Å¾e budu mÃ­t Å¡tÄ›stÃ­.}
+{134}{}{VÅ¡ichni zÅ¯staÅˆte v pohotovosti.}
+{135}{}{ZÅ¯staÅˆte ostraÅ¾itÃ­.}
+{136}{}{Tohle nenÃ­ Å¾Ã¡dnÃ½ cviÄenÃ­.}
+{137}{}{OdveÄte civilisty do bezpeÄÃ­.}
 {138}{}{Zkontrolujte oblast.}
-{139}{}{Všechny jednotky, hlaste se.}
-{140}{}{Jsou blízko, cítím to.}
-{141}{}{Lidi, zùstaòte v klidu.}
-{142}{}{Máme tady práci.}
-{143}{}{To si piš, sero.}
+{139}{}{VÅ¡echny jednotky, hlaste se.}
+{140}{}{Jsou blÃ­zko, cÃ­tÃ­m to.}
+{141}{}{Lidi, zÅ¯staÅˆte v klidu.}
+{142}{}{MÃ¡me tady prÃ¡ci.}
+{143}{}{To si piÅ¡, serÅ¾o.}
 {144}{}{Ano, pane.}
-{145}{}{Sekce B, všechno v poøádku.}
-{146}{}{Koridor je èistı.}
-{147}{}{Vracím se na svoje místo.}
-{148}{}{Tım Bravo, hlaste se.}
-{149}{}{Tım Gamma, hlaste se.}
-{150}{}{(Zpívá si): Jsi moje máma, moje máma, kterou já mám navìky rád...}
-{151}{}{Hele, kdo to poøád vejká do mikráku?}
-{152}{}{Pøestaò to furt vejkat.}
-{153}{}{(Zpívá si): Jednoho letního veèera na návsi pod starou lípou, otevøel hospodskı Antonín Kuèera soudeèek s pípou...}
-{154}{}{(Zpívá si): Zvuk vypnout. 1-2-3-4, jdeme na to.}
-{155}{}{Na druhém podlaí vše v poøádku.}
-{156}{}{Sektor 7, èistı.}
-{157}{}{Podlaí èisté.}
+{145}{}{Sekce B, vÅ¡echno v poÅ™Ã¡dku.}
+{146}{}{Koridor je ÄistÃ½.}
+{147}{}{VracÃ­m se na svoje mÃ­sto.}
+{148}{}{TÃ½m Bravo, hlaste se.}
+{149}{}{TÃ½m Gamma, hlaste se.}
+{150}{}{(ZpÃ­vÃ¡ si): Jsi moje mÃ¡ma, moje mÃ¡ma, kterou jÃ¡ mÃ¡m navÄ›ky rÃ¡d...}
+{151}{}{Hele, kdo to poÅ™Ã¡d Å¾vejkÃ¡ do mikrÃ¡ku?}
+{152}{}{PÅ™estaÅˆ to furt Å¾vejkat.}
+{153}{}{(ZpÃ­vÃ¡ si): Jednoho letnÃ­ho veÄera na nÃ¡vsi pod starou lÃ­pou, otevÅ™el hospodskÃ½ AntonÃ­n KuÄera soudeÄek s pÃ­pou...}
+{154}{}{(ZpÃ­vÃ¡ si): Zvuk vypnout. 1-2-3-4, jdeme na to.}
+{155}{}{Na druhÃ©m podlaÅ¾Ã­ vÅ¡e v poÅ™Ã¡dku.}
+{156}{}{Sektor 7, ÄistÃ½.}
+{157}{}{PodlaÅ¾Ã­ ÄistÃ©.}

@@ -1,32 +1,32 @@
-{100}{}{Vidíš zavalitého plešatého chlapa, kterı utírá sklenici.}
-{101}{}{Vidíš barmana.}
-{102}{}{Je to drsnì vypadající chlápek s pøeraenım nosem a uštípnutımi kousky uší, jako kdyby to byl vyslouilı boxer.}
-{103}{}{Co si dáš?}
-{104}{}{Poslyš, to ty jsi pøemluvil Jacka, e jo? Skvìlá práce. Take, co si dáš?}
-{105}{}{Jasnì.}
-{106}{}{Pití.}
-{107}{}{Kdo je támhleten velkı chlápek?}
-{108}{}{Co se dá dìlat v tomhle mìstì?}
+{100}{}{VidÃ­Å¡ zavalitÃ©ho pleÅ¡atÃ©ho chlapa, kterÃ½ utÃ­rÃ¡ sklenici.}
+{101}{}{VidÃ­Å¡ barmana.}
+{102}{}{Je to drsnÄ› vypadajÃ­cÃ­ chlÃ¡pek s pÅ™eraÅ¾enÃ½m nosem a uÅ¡tÃ­pnutÃ½mi kousky uÅ¡Ã­, jako kdyby to byl vyslouÅ¾ilÃ½ boxer.}
+{103}{}{Co si dÃ¡Å¡?}
+{104}{}{PoslyÅ¡, to ty jsi pÅ™emluvil Jacka, Å¾e jo? SkvÄ›lÃ¡ prÃ¡ce. TakÅ¾e, co si dÃ¡Å¡?}
+{105}{}{JasnÄ›.}
+{106}{}{PitÃ­.}
+{107}{}{Kdo je tÃ¡mhleten velkÃ½ chlÃ¡pek?}
+{108}{}{Co se dÃ¡ dÄ›lat v tomhle mÄ›stÄ›?}
 {109}{}{Sbohem.}
-{110}{}{To je Hoss, syn prezidentky Tandi. Jsou s ním problémy, kdy se napije, take bych se bejt tebou radši drel dál.}
-{111}{}{To byl Hoss, syn prezidentky Tandi. Dobøe jsi mu natrhl prdel!}
+{110}{}{To je Hoss, syn prezidentky Tandi. Jsou s nÃ­m problÃ©my, kdyÅ¾ se napije, takÅ¾e bych se bejt tebou radÅ¡i drÅ¾el dÃ¡l.}
+{111}{}{To byl Hoss, syn prezidentky Tandi. DobÅ™e jsi mu natrhl prdel!}
 {112}{}{Prezidentka Tandi?}
-{113}{}{Tak drsòák, jo? Díky.}
-{114}{}{Nic moc. Jestli hledáš problémy, najdi si jinı místo k pití, tøeba Nevydìlanou kùi. A jestli sháníš práci, tak na západì je Westinùv ranè. A taky jsem slyšel, e prezidentka Tandi hledá nìkoho speciálního.}
-{115}{}{Speciálního?}
+{113}{}{Tak drsÅˆÃ¡k, jo? DÃ­ky.}
+{114}{}{Nic moc. Jestli hledÃ¡Å¡ problÃ©my, najdi si jinÃ½ mÃ­sto k pitÃ­, tÅ™eba NevydÄ›lanou kÅ¯Å¾i. A jestli shÃ¡nÃ­Å¡ prÃ¡ci, tak na zÃ¡padÄ› je WestinÅ¯v ranÄ. A taky jsem slyÅ¡el, Å¾e prezidentka Tandi hledÃ¡ nÄ›koho speciÃ¡lnÃ­ho.}
+{115}{}{SpeciÃ¡lnÃ­ho?}
 {116}{}{Prezidentka Tandi?}
-{117}{}{Díky.}
-{118}{}{To je dcera prezidenta Aradeshe, kterej zaloil NCR. Je prezidentkou u spoustu let. A dìlá to dobøe.}
-{119}{}{A ona hledá nìkoho speciálního? Speciálního v èem?}
-{120}{}{Kdo je ten velkı chlap?}
-{121}{}{Díky.}
-{122}{}{To nevím, ale Gunther, její poboèník, by to mohl vìdìt. Je na jihu mìsta v Kongresu.}
-{123}{}{Kdo je ten velkı chlap?}
-{124}{}{Díky.}
-{125}{}{Dáš si nìco k pití?}
-{126}{}{Jasnì.}
+{117}{}{DÃ­ky.}
+{118}{}{To je dcera prezidenta Aradeshe, kterej zaloÅ¾il NCR. Je prezidentkou uÅ¾ spoustu let. A dÄ›lÃ¡ to dobÅ™e.}
+{119}{}{A ona hledÃ¡ nÄ›koho speciÃ¡lnÃ­ho? SpeciÃ¡lnÃ­ho v Äem?}
+{120}{}{Kdo je ten velkÃ½ chlap?}
+{121}{}{DÃ­ky.}
+{122}{}{To nevÃ­m, ale Gunther, jejÃ­ poboÄnÃ­k, by to mohl vÄ›dÄ›t. Je na jihu mÄ›sta v Kongresu.}
+{123}{}{Kdo je ten velkÃ½ chlap?}
+{124}{}{DÃ­ky.}
+{125}{}{DÃ¡Å¡ si nÄ›co k pitÃ­?}
+{126}{}{JasnÄ›.}
 {127}{}{Ne.}
-{128}{}{Máš u mì panáka. Chtìl jsem ho vypleskat u pìknì dlouho!}
-{129}{}{Mám nìjaké otázky.}
-{130}{}{Dobøe! Nashle.}
-{131}{}{Dobøe jsi Hossovi natrhl prdel! Co si dáš?}
+{128}{}{MÃ¡Å¡ u mÄ› panÃ¡ka. ChtÄ›l jsem ho vypleskat uÅ¾ pÄ›knÄ› dlouho!}
+{129}{}{MÃ¡m nÄ›jakÃ© otÃ¡zky.}
+{130}{}{DobÅ™e! Nashle.}
+{131}{}{DobÅ™e jsi Hossovi natrhl prdel! Co si dÃ¡Å¡?}

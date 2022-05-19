@@ -1,6 +1,6 @@
-{100}{}{Vidíš dobøe obleèeného zavalitého mue, kterı se pohybuje pomalu a s rozvahou.}
-{101}{}{Vidíš Merka. Místní mu øíkají Chlapák.}
-{102}{}{Z tohohle chlápka pøímo vyzaøuje arogantní chlad. Nejsi pro nìj nic víc ne moucha rozmáznutá mezi prsty.}
-{200}{}{Vypadá jako jeden z tìch, kdo myslí pìstmi místo hlavou.}
-{201}{}{Hmmm. Jeden z Merkovıch stráí.}
-{202}{}{Velkı. Tvrdı. Hloupı. Bodyguard.}
+{100}{}{VidÃ­Å¡ dobÅ™e obleÄenÃ©ho zavalitÃ©ho muÅ¾e, kterÃ½ se pohybuje pomalu a s rozvahou.}
+{101}{}{VidÃ­Å¡ Merka. MÃ­stnÃ­ mu Å™Ã­kajÃ­ ChlapÃ¡k.}
+{102}{}{Z tohohle chlÃ¡pka pÅ™Ã­mo vyzaÅ™uje arogantnÃ­ chlad. Nejsi pro nÄ›j nic vÃ­c neÅ¾ moucha rozmÃ¡znutÃ¡ mezi prsty.}
+{200}{}{VypadÃ¡ jako jeden z tÄ›ch, kdo myslÃ­ pÄ›stmi mÃ­sto hlavou.}
+{201}{}{Hmmm. Jeden z MerkovÃ½ch strÃ¡Å¾Ã­.}
+{202}{}{VelkÃ½. TvrdÃ½. HloupÃ½. Bodyguard.}

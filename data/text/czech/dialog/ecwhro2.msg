@@ -1,11 +1,11 @@
-{100}{}{Vidíš... bílého hrdinu.}
-{101}{}{Vidíš svalnatého bìlocha v kombinéze Vaultu 13. Vypráví své záitky a smìje se.}
-{102}{}{Vidíš bílého hrdinu. Smìje se.}
-{103}{}{Vidíš bílého hrdinu. Smìje se.}
-{104}{}{Bylo skoro nemoné udret naivu Dogmeata ve Falloutu 1... hlavnì ke konci.}
-{105}{}{Prostì nebyl na konec hry dost tvrdı!}
-{106}{}{Mìl jsem toho psa rád. Chtìl jsem ho vidìt v závìreèném filmu.}
-{107}{}{Jeden z pøekladatelù Falloutu 2, nìjakı Hightower, mìl následující taktiku, jak udret psa naivu.}
-{108}{}{V kadém patøe ho zavøel do místnosti se silovım polem, aby ho udrel mimo boj.}
-{109}{}{Problémem bylo, e to bylo nutné dìlat v kadém patøe, aby na nìj mutanti nemohli.}
-{110}{}{Myslím, e uspìl.}
+{100}{}{VidÃ­Å¡... bÃ­lÃ©ho hrdinu.}
+{101}{}{VidÃ­Å¡ svalnatÃ©ho bÄ›locha v kombinÃ©ze Vaultu 13. VyprÃ¡vÃ­ svÃ© zÃ¡Å¾itky a smÄ›je se.}
+{102}{}{VidÃ­Å¡ bÃ­lÃ©ho hrdinu. SmÄ›je se.}
+{103}{}{VidÃ­Å¡ bÃ­lÃ©ho hrdinu. SmÄ›je se.}
+{104}{}{Bylo skoro nemoÅ¾nÃ© udrÅ¾et naÅ¾ivu Dogmeata ve Falloutu 1... hlavnÄ› ke konci.}
+{105}{}{ProstÄ› nebyl na konec hry dost tvrdÃ½!}
+{106}{}{MÄ›l jsem toho psa rÃ¡d. ChtÄ›l jsem ho vidÄ›t v zÃ¡vÄ›reÄnÃ©m filmu.}
+{107}{}{Jeden z pÅ™ekladatelÅ¯ Falloutu 2, nÄ›jakÃ½ Hightower, mÄ›l nÃ¡sledujÃ­cÃ­ taktiku, jak udrÅ¾et psa naÅ¾ivu.}
+{108}{}{V kaÅ¾dÃ©m patÅ™e ho zavÅ™el do mÃ­stnosti se silovÃ½m polem, aby ho udrÅ¾el mimo boj.}
+{109}{}{ProblÃ©mem bylo, Å¾e to bylo nutnÃ© dÄ›lat v kaÅ¾dÃ©m patÅ™e, aby na nÄ›j mutanti nemohli.}
+{110}{}{MyslÃ­m, Å¾e uspÄ›l.}

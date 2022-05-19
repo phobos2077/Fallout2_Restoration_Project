@@ -1,233 +1,233 @@
-{100}{}{Vidíš pasáka.}
-{150}{}{Vidíš dobøe obleèeného mue. Jeho obleèení tì svım leskem div neoslepí.}
-{151}{}{Vidíš chlapíka ve velmi køiklavém obleku.}
-{152}{}{Vidíš pasáka. Vypadá fakt šmrncovnì.}
-{153}{}{Vidíš pasáka. Kıvne na tebe.}
-{154}{}{Vidíš pasáka. Kdyby se volil Pasák roku, tak tenhle by tu cenu urèitì dostal.}
-{155}{}{Vidíš pasáka. Jeho oblek má tak køiklavé barvy, e by na nìm mìl mít pøišitı regulátor hlasitosti.}
-{200}{}{Hej chlape, slyšel jsem, e jsi zlikvidoval Enklávu. Nechceš si TEÏ zapíchat?}
-{201}{}{Ten chlápek zlikviduje Enklávu a hned si myslí, e mu patøí celej svìt... pche.}
-{202}{}{Nazdar chlape! Jediná vìc, která je ještì lepší ne sfouknout ropnou vì, je kdy ti nìkdo nafoukne tvoji vì, jestli mi rozumíš.}
-{220}{}{Slyšel jsem, e jsi znièila Enklávu, holka. Nechceš pro mì TEÏ pracovat?}
-{221}{}{Ta enská zlikviduje Enklávu a hned si myslí, e jí patøí celej svìt... pche.}
-{222}{}{Sexy pokoøitelka Enklávy jako ty by si v tomhle mìstì mohla vydìlat slušnı prachy...}
-{230}{}{Doufám, e má ta enská mı prachy...}
-{231}{}{Turisti jsou málo nadrenı a to se mi nelíbí.}
-{232}{}{Doufám, e mi ta dìvka pøinese prachy...}
+{100}{}{VidÃ­Å¡ pasÃ¡ka.}
+{150}{}{VidÃ­Å¡ dobÅ™e obleÄenÃ©ho muÅ¾e. Jeho obleÄenÃ­ tÄ› svÃ½m leskem div neoslepÃ­.}
+{151}{}{VidÃ­Å¡ chlapÃ­ka ve velmi kÅ™iklavÃ©m obleku.}
+{152}{}{VidÃ­Å¡ pasÃ¡ka. VypadÃ¡ fakt Å¡mrncovnÄ›.}
+{153}{}{VidÃ­Å¡ pasÃ¡ka. KÃ½vne na tebe.}
+{154}{}{VidÃ­Å¡ pasÃ¡ka. Kdyby se volil PasÃ¡k roku, tak tenhle by tu cenu urÄitÄ› dostal.}
+{155}{}{VidÃ­Å¡ pasÃ¡ka. Jeho oblek mÃ¡ tak kÅ™iklavÃ© barvy, Å¾e by na nÄ›m mÄ›l mÃ­t pÅ™iÅ¡itÃ½ regulÃ¡tor hlasitosti.}
+{200}{}{Hej chlape, slyÅ¡el jsem, Å¾e jsi zlikvidoval EnklÃ¡vu. NechceÅ¡ si TEÄ zapÃ­chat?}
+{201}{}{Ten chlÃ¡pek zlikviduje EnklÃ¡vu a hned si myslÃ­, Å¾e mu patÅ™Ã­ celej svÄ›t... pche.}
+{202}{}{Nazdar chlape! JedinÃ¡ vÄ›c, kterÃ¡ je jeÅ¡tÄ› lepÅ¡Ã­ neÅ¾ sfouknout ropnou vÄ›Å¾, je kdyÅ¾ ti nÄ›kdo nafoukne tvoji vÄ›Å¾, jestli mi rozumÃ­Å¡.}
+{220}{}{SlyÅ¡el jsem, Å¾e jsi zniÄila EnklÃ¡vu, holka. NechceÅ¡ pro mÄ› TEÄ pracovat?}
+{221}{}{Ta Å¾enskÃ¡ zlikviduje EnklÃ¡vu a hned si myslÃ­, Å¾e jÃ­ patÅ™Ã­ celej svÄ›t... pche.}
+{222}{}{Sexy pokoÅ™itelka EnklÃ¡vy jako ty by si v tomhle mÄ›stÄ› mohla vydÄ›lat sluÅ¡nÃ½ prachy...}
+{230}{}{DoufÃ¡m, Å¾e mÃ¡ ta Å¾enskÃ¡ mÃ½ prachy...}
+{231}{}{Turisti jsou mÃ¡lo nadrÅ¾enÃ½ a to se mi nelÃ­bÃ­.}
+{232}{}{DoufÃ¡m, Å¾e mi ta dÄ›vka pÅ™inese prachy...}
 {233}{}{Hele, jdi si po svejch.}
-{234}{}{Chceš si zapíchat?}
-{235}{}{Nechceš ve svım novım filmu obtáhnout nìjakou z mejch holek, brácho?}
-{236}{}{Vìø mi, kámo, ty pro svoje filmy potøebuješ opravdovı enskı. Vyzkoušej nìkdy moje holky.}
-{237}{}{Nepotøebuješ nìjakı rozkuøovaèky? Mám jich fùru.}
-{238}{}{Tohle nejsou ádnı otrokynì, tohle jsou profesionálky, rozumíš?}
-{239}{}{Kdy mì pøivedeš do svıho byznysu, pane pornohvìzdo?}
-{240}{}{Dej mi pár minut pøed kamerou a já ti ukáu, kdo je tady hvìzda.}
-{241}{}{Dokáu to SAMİ co ty, ojedu to SAMİ co ty a ojedu je LÍP ne ty.}
-{242}{}{Nìkdy tì nauèím pár trikù, brácho.}
-{243}{}{Mám tady jednu holku, kterou bys mìl prubnout ve svım filmu. Má fakt krásnou sladkou prdelku.}
-{244}{}{Poèkej, nìkoho ti dohodím, otrokáøi. Dva roky po sobì jsem byl zvolenej Pasákem roku.}
-{245}{}{Nechápu, jak se z TEBE mohla stát pornohvìzda...}
-{260}{}{Doufám, e má ta enská mı prachy...}
-{261}{}{Turisti jsou málo nadrenı a to se mi nelíbí.}
-{262}{}{Doufám, e mi ta dìvka pøinese prachy...}
+{234}{}{ChceÅ¡ si zapÃ­chat?}
+{235}{}{NechceÅ¡ ve svÃ½m novÃ½m filmu obtÃ¡hnout nÄ›jakou z mejch holek, brÃ¡cho?}
+{236}{}{VÄ›Å™ mi, kÃ¡mo, ty pro svoje filmy potÅ™ebujeÅ¡ opravdovÃ½ Å¾enskÃ½. VyzkouÅ¡ej nÄ›kdy moje holky.}
+{237}{}{NepotÅ™ebujeÅ¡ nÄ›jakÃ½ rozkuÅ™ovaÄky? MÃ¡m jich fÅ¯ru.}
+{238}{}{Tohle nejsou Å¾Ã¡dnÃ½ otrokynÄ›, tohle jsou profesionÃ¡lky, rozumÃ­Å¡?}
+{239}{}{Kdy mÄ› pÅ™ivedeÅ¡ do svÃ½ho byznysu, pane pornohvÄ›zdo?}
+{240}{}{Dej mi pÃ¡r minut pÅ™ed kamerou a jÃ¡ ti ukÃ¡Å¾u, kdo je tady hvÄ›zda.}
+{241}{}{DokÃ¡Å¾u to SAMÃ co ty, ojedu to SAMÃ co ty a ojedu je LÃP neÅ¾ ty.}
+{242}{}{NÄ›kdy tÄ› nauÄÃ­m pÃ¡r trikÅ¯, brÃ¡cho.}
+{243}{}{MÃ¡m tady jednu holku, kterou bys mÄ›l prubnout ve svÃ½m filmu. MÃ¡ fakt krÃ¡snou sladkou prdelku.}
+{244}{}{PoÄkej, nÄ›koho ti dohodÃ­m, otrokÃ¡Å™i. Dva roky po sobÄ› jsem byl zvolenej PasÃ¡kem roku.}
+{245}{}{NechÃ¡pu, jak se z TEBE mohla stÃ¡t pornohvÄ›zda...}
+{260}{}{DoufÃ¡m, Å¾e mÃ¡ ta Å¾enskÃ¡ mÃ½ prachy...}
+{261}{}{Turisti jsou mÃ¡lo nadrÅ¾enÃ½ a to se mi nelÃ­bÃ­.}
+{262}{}{DoufÃ¡m, Å¾e mi ta dÄ›vka pÅ™inese prachy...}
 {263}{}{Hele, jdi si po svejch.}
-{264}{}{Kouknìte na tu krásnou sladkou prdelku.}
-{265}{}{Kotì, pojï sem, a tì mùu plácnout pøes tu tvoji krásnou sladkou prdelku.}
-{266}{}{::Píská::}
-{267}{}{::Mumlá si pro sebe 'sáááákryš'::}
-{268}{}{Budeš teï nìkdy tancovat v kasínu, zlato?}
-{269}{}{Ty k sobì potøebuješ zkušenıho partnera. Mìla bys nìkdy zkusit mì, zlato.}
-{270}{}{Kdy si spolu zahrajeme ve filmu, paní pornohvìzdo?}
-{271}{}{Co kdybysme si to spolu rozdali na kameøe? Ukáu ti, kdo je tady hvìzda.}
-{272}{}{Udìlám tì tak jako ještì nikdo pøedtím.}
-{273}{}{Nìkdy tì nauèím pár trikù, holka.}
-{274}{}{Hergot, tìlo jako máš ty by se mìlo zakázat.}
-{275}{}{Divím se, e se ten asfalt pod tìma tvejma nohama ještì nerozpustil.}
-{276}{}{Pojï dìlat ke mnì, kotì. Dva roky po sobì jsem byl zvolenej Pasákem roku.}
-{277}{}{Kotì, chtìl bych tì plácnout pøes tu tvoji krásnou sladkou prdelku.}
-{278}{}{Sááákryš.}
-{290}{}{Doufám, e má ta enská mı prachy...}
-{291}{}{Turisti jsou málo nadrenı a to se mi nelíbí.}
-{292}{}{Doufám, e mi ta dìvka pøinese prachy...}
-{293}{}{Chceš si zapíchat?}
-{294}{}{Chceš si vrznout? První èíslo máš zdarma, brácho.}
-{295}{}{Rád bych ti prokázal laskavost, pøíteli. Dám ti jednu z mejch holek na celou noc.}
-{296}{}{Hej pøíteli, mám pro tebe jednu parádní holku.}
-{297}{}{Tvoje rodina potøebuje chlapa jako jsem já. Takovıho, kterej umí enskı udret na uzdì...}
-{298}{}{Máš styl, kámo, opravdovej styl.}
-{299}{}{Bezva ohoz, èéèe.}
-{300}{}{Staèí øíct a budu ti dìlat osobního stráce, brácho.}
-{301}{}{Kreju ti záda, brácho.}
-{302}{}{Jseš chlapák, OPRAVDOVEJ chlapák, rozumíš?}
-{303}{}{Poèkej, nìkoho ti dohodím, otrokáøi. Dva roky po sobì jsem byl zvolenej Pasákem roku.}
-{304}{}{Velkej gangster prochází...}
-{305}{}{Chlapák prochází...}
-{320}{}{Doufám, e má ta enská mı prachy...}
-{321}{}{Turisti jsou málo nadrenı a to se mi nelíbí.}
-{322}{}{Doufám, e mi ta dìvka pøinese prachy...}
-{323}{}{Kdopak je ta nádherná enská?}
-{324}{}{Sakra, miluju enskı, co se pohybujou ve zloèinu.}
-{325}{}{Máš styl, ségro, opravdovej styl.}
+{264}{}{KouknÄ›te na tu krÃ¡snou sladkou prdelku.}
+{265}{}{KotÄ›, pojÄ sem, aÅ¥ tÄ› mÅ¯Å¾u plÃ¡cnout pÅ™es tu tvoji krÃ¡snou sladkou prdelku.}
+{266}{}{::PÃ­skÃ¡::}
+{267}{}{::MumlÃ¡ si pro sebe 'sÃ¡Ã¡Ã¡Ã¡kryÅ¡'::}
+{268}{}{BudeÅ¡ teÄ nÄ›kdy tancovat v kasÃ­nu, zlato?}
+{269}{}{Ty k sobÄ› potÅ™ebujeÅ¡ zkuÅ¡enÃ½ho partnera. MÄ›la bys nÄ›kdy zkusit mÄ›, zlato.}
+{270}{}{Kdy si spolu zahrajeme ve filmu, panÃ­ pornohvÄ›zdo?}
+{271}{}{Co kdybysme si to spolu rozdali na kameÅ™e? UkÃ¡Å¾u ti, kdo je tady hvÄ›zda.}
+{272}{}{UdÄ›lÃ¡m tÄ› tak jako jeÅ¡tÄ› nikdo pÅ™edtÃ­m.}
+{273}{}{NÄ›kdy tÄ› nauÄÃ­m pÃ¡r trikÅ¯, holka.}
+{274}{}{Hergot, tÄ›lo jako mÃ¡Å¡ ty by se mÄ›lo zakÃ¡zat.}
+{275}{}{DivÃ­m se, Å¾e se ten asfalt pod tÄ›ma tvejma nohama jeÅ¡tÄ› nerozpustil.}
+{276}{}{PojÄ dÄ›lat ke mnÄ›, kotÄ›. Dva roky po sobÄ› jsem byl zvolenej PasÃ¡kem roku.}
+{277}{}{KotÄ›, chtÄ›l bych tÄ› plÃ¡cnout pÅ™es tu tvoji krÃ¡snou sladkou prdelku.}
+{278}{}{SÃ¡Ã¡Ã¡kryÅ¡.}
+{290}{}{DoufÃ¡m, Å¾e mÃ¡ ta Å¾enskÃ¡ mÃ½ prachy...}
+{291}{}{Turisti jsou mÃ¡lo nadrÅ¾enÃ½ a to se mi nelÃ­bÃ­.}
+{292}{}{DoufÃ¡m, Å¾e mi ta dÄ›vka pÅ™inese prachy...}
+{293}{}{ChceÅ¡ si zapÃ­chat?}
+{294}{}{ChceÅ¡ si vrznout? PrvnÃ­ ÄÃ­slo mÃ¡Å¡ zdarma, brÃ¡cho.}
+{295}{}{RÃ¡d bych ti prokÃ¡zal laskavost, pÅ™Ã­teli. DÃ¡m ti jednu z mejch holek na celou noc.}
+{296}{}{Hej pÅ™Ã­teli, mÃ¡m pro tebe jednu parÃ¡dnÃ­ holku.}
+{297}{}{Tvoje rodina potÅ™ebuje chlapa jako jsem jÃ¡. TakovÃ½ho, kterej umÃ­ Å¾enskÃ½ udrÅ¾et na uzdÄ›...}
+{298}{}{MÃ¡Å¡ styl, kÃ¡mo, opravdovej styl.}
+{299}{}{Bezva ohoz, ÄÃ©Äe.}
+{300}{}{StaÄÃ­ Å™Ã­ct a budu ti dÄ›lat osobnÃ­ho strÃ¡Å¾ce, brÃ¡cho.}
+{301}{}{Kreju ti zÃ¡da, brÃ¡cho.}
+{302}{}{JseÅ¡ chlapÃ¡k, OPRAVDOVEJ chlapÃ¡k, rozumÃ­Å¡?}
+{303}{}{PoÄkej, nÄ›koho ti dohodÃ­m, otrokÃ¡Å™i. Dva roky po sobÄ› jsem byl zvolenej PasÃ¡kem roku.}
+{304}{}{Velkej gangster prochÃ¡zÃ­...}
+{305}{}{ChlapÃ¡k prochÃ¡zÃ­...}
+{320}{}{DoufÃ¡m, Å¾e mÃ¡ ta Å¾enskÃ¡ mÃ½ prachy...}
+{321}{}{Turisti jsou mÃ¡lo nadrÅ¾enÃ½ a to se mi nelÃ­bÃ­.}
+{322}{}{DoufÃ¡m, Å¾e mi ta dÄ›vka pÅ™inese prachy...}
+{323}{}{Kdopak je ta nÃ¡dhernÃ¡ Å¾enskÃ¡?}
+{324}{}{Sakra, miluju Å¾enskÃ½, co se pohybujou ve zloÄinu.}
+{325}{}{MÃ¡Å¡ styl, sÃ©gro, opravdovej styl.}
 {326}{}{Bezva ohoz, holka.}
-{327}{}{Oblíkáš se jako pravej drsòák a to se mi líbí.}
-{328}{}{Staèí øíct a budu ti dìlat osobního stráce, ségro.}
-{329}{}{Kreju ti záda, ségro.}
-{330}{}{Holka, ty tvoje èernı vlasy a ten tvùj drsnej pohled prostì zboòuju.}
-{350}{}{Doufám, e má ta enská mı prachy...}
-{351}{}{Turisti jsou málo nadrenı a to se mi nelíbí.}
-{352}{}{Doufám, e mi ta dìvka pøinese prachy...}
-{353}{}{Chceš si zapíchat, šampióne?}
-{354}{}{Chceš si vrznout, šampióne? První èíslo máš zdarma.}
-{355}{}{Rád bych ti prokázal laskavost, šampióne. Dám ti jednu z mejch holek na celou noc.}
-{356}{}{Hej, šampióne, mám pro tebe jednu parádní holku.}
-{357}{}{Tenhle chlap je jak Robin Hood. Taky radši rozdává ne pøijímá... checheche.}
-{358}{}{Máš styl, šampióne, opravdovej styl.}
-{359}{}{Ne e mì v ringu zklameš, rozumíš?}
-{360}{}{Vsadil jsem si na tebe 100 babek, šampióne, take mì nezklam.}
-{361}{}{Nepotøebuješ na dnešní veèer partnerku pro BOX, šampióne? Mìl bych tu pro tebe jednu pìknì èilouèkou.}
-{362}{}{Staèí øíct a budu ti dìlat osobního stráce, šampióne.}
-{363}{}{Kreju ti záda, ségro, šampióne.}
-{364}{}{Poèkej, nìkoho ti dohodím, šampióne. Dva roky po sobì jsem byl zvolenej Pasákem roku.}
-{365}{}{Šampión pøichází...}
-{366}{}{Chlapák prochází...}
-{380}{}{Doufám, e má ta enská mı prachy...}
-{381}{}{Turisti jsou málo nadrenı a to se mi nelíbí.}
-{382}{}{Doufám, e mi ta dìvka pøinese prachy...}
-{383}{}{Kdopak je ta nádherná enská?}
-{384}{}{Sakra, miluju enskı, co dokáou zmlátit chlapa.}
-{385}{}{Máš styl, ségro, opravdovej styl.}
+{327}{}{OblÃ­kÃ¡Å¡ se jako pravej drsÅˆÃ¡k a to se mi lÃ­bÃ­.}
+{328}{}{StaÄÃ­ Å™Ã­ct a budu ti dÄ›lat osobnÃ­ho strÃ¡Å¾ce, sÃ©gro.}
+{329}{}{Kreju ti zÃ¡da, sÃ©gro.}
+{330}{}{Holka, ty tvoje ÄernÃ½ vlasy a ten tvÅ¯j drsnej pohled prostÄ› zboÅ¾Åˆuju.}
+{350}{}{DoufÃ¡m, Å¾e mÃ¡ ta Å¾enskÃ¡ mÃ½ prachy...}
+{351}{}{Turisti jsou mÃ¡lo nadrÅ¾enÃ½ a to se mi nelÃ­bÃ­.}
+{352}{}{DoufÃ¡m, Å¾e mi ta dÄ›vka pÅ™inese prachy...}
+{353}{}{ChceÅ¡ si zapÃ­chat, Å¡ampiÃ³ne?}
+{354}{}{ChceÅ¡ si vrznout, Å¡ampiÃ³ne? PrvnÃ­ ÄÃ­slo mÃ¡Å¡ zdarma.}
+{355}{}{RÃ¡d bych ti prokÃ¡zal laskavost, Å¡ampiÃ³ne. DÃ¡m ti jednu z mejch holek na celou noc.}
+{356}{}{Hej, Å¡ampiÃ³ne, mÃ¡m pro tebe jednu parÃ¡dnÃ­ holku.}
+{357}{}{Tenhle chlap je jak Robin Hood. Taky radÅ¡i rozdÃ¡vÃ¡ neÅ¾ pÅ™ijÃ­mÃ¡... checheche.}
+{358}{}{MÃ¡Å¡ styl, Å¡ampiÃ³ne, opravdovej styl.}
+{359}{}{Ne Å¾e mÄ› v ringu zklameÅ¡, rozumÃ­Å¡?}
+{360}{}{Vsadil jsem si na tebe 100 babek, Å¡ampiÃ³ne, takÅ¾e mÄ› nezklam.}
+{361}{}{NepotÅ™ebujeÅ¡ na dneÅ¡nÃ­ veÄer partnerku pro BOX, Å¡ampiÃ³ne? MÄ›l bych tu pro tebe jednu pÄ›knÄ› ÄilouÄkou.}
+{362}{}{StaÄÃ­ Å™Ã­ct a budu ti dÄ›lat osobnÃ­ho strÃ¡Å¾ce, Å¡ampiÃ³ne.}
+{363}{}{Kreju ti zÃ¡da, sÃ©gro, Å¡ampiÃ³ne.}
+{364}{}{PoÄkej, nÄ›koho ti dohodÃ­m, Å¡ampiÃ³ne. Dva roky po sobÄ› jsem byl zvolenej PasÃ¡kem roku.}
+{365}{}{Å ampiÃ³n pÅ™ichÃ¡zÃ­...}
+{366}{}{ChlapÃ¡k prochÃ¡zÃ­...}
+{380}{}{DoufÃ¡m, Å¾e mÃ¡ ta Å¾enskÃ¡ mÃ½ prachy...}
+{381}{}{Turisti jsou mÃ¡lo nadrÅ¾enÃ½ a to se mi nelÃ­bÃ­.}
+{382}{}{DoufÃ¡m, Å¾e mi ta dÄ›vka pÅ™inese prachy...}
+{383}{}{Kdopak je ta nÃ¡dhernÃ¡ Å¾enskÃ¡?}
+{384}{}{Sakra, miluju Å¾enskÃ½, co dokÃ¡Å¾ou zmlÃ¡tit chlapa.}
+{385}{}{MÃ¡Å¡ styl, sÃ©gro, opravdovej styl.}
 {386}{}{Bezva ohoz, holka.}
-{387}{}{Oblíkáš se jako pravej drsòák a to se mi líbí.}
-{388}{}{Staèí øíct a budu ti dìlat osobního stráce, ségro.}
-{389}{}{Kreju ti záda, ségro.}
-{390}{}{Jseš královna, opravdovej šampión. Chápeš?}
-{391}{}{Ne e mì v ringu zklameš, rozumíš?}
-{392}{}{Vsadil jsem si na tebe 100 babek, ségro, take mì nezklam.}
-{393}{}{Hroznì miluju ty tvoje èernı vlasy... a tvùj parádní levej hák.}
-{410}{}{Doufám, e má ta enská mı prachy...}
-{411}{}{Turisti jsou málo nadrenı a to se mi nelíbí.}
-{412}{}{Doufám, e mi ta dìvka pøinese prachy...}
-{413}{}{Hledáte nìjakı povyraení?}
-{414}{}{Vy dva vypadáte, e byste potøebovali smoèit.}
-{415}{}{Èau Myrone! Jak se vede?}
-{416}{}{Èau Myrone! Hledáš spoleènost na veèer? Mìl bych pro tebe novou holku...}
-{417}{}{Tak co hoši, chtìli byste... smoèit?}
-{418}{}{Mám nejlepší prdelky široko daleko.}
-{419}{}{Záøím tak, e je proti mì Reno v úplnı tmì.}
-{420}{}{Vypadáte, e máte v poklopci oheò, hoši.}
-{421}{}{Na slovíèko, pøátelé. Moje holky vydrej pøiráet celou noc.}
-{422}{}{Staèí pár babek a zaiješ nebeskou slast.}
-{423}{}{Myrone, ne e tì zas chytím, jak strkáš ten svùj pytlík mejm holkám do pusy!}
-{424}{}{Myrone, ne e tì zas chytím, jak mlátíš moje holky zezadu do hlavy!}
-{425}{}{Myrone, ne e tì zas chytím, jak plácáš moje holky ptákem po ksichtì!}
-{426}{}{Myrone, ne e tì zas chytím, jak provádíš na mejch holkách "létajícího velblouda"!}
-{427}{}{Myrone, ne e tì zas chytím, jak provádíš na mejch holkách "Clevelandskıho Steamera"!}
-{428}{}{Èau Myrone! Hledáš spoleènost na veèer? Mìl bych tu pro tebe nìco extra.}
-{429}{}{Tohle nejsou ádnı otrokynì, tohle jsou profesionálky, rozumíš?}
-{430}{}{Myrone! Dluíš mi ještì za poslední víkend, hochu!}
-{431}{}{Jestli dokáe vcucnout golfovej míèek skrz zahradní hadici? To si piš, e jo.}
-{432}{}{Moje enskı z tebe udìlaj opravdovıho chlapa. A stojej jen pár babek.}
-{433}{}{Ty nejlepší klisny najdeš jedinì v mı stáji.}
-{434}{}{Co dìláš mimo Stáje, Myrone? Hledáš nìjakou novou klisnièku?}
-{435}{}{Starej Mordino ti dal koneènì vycházku, Myrone?}
-{440}{}{Doufám, e má ta enská mı prachy...}
-{441}{}{Turisti jsou málo nadrenı a to se mi nelíbí.}
-{442}{}{Doufám, e mi ta dìvka pøinese prachy...}
-{443}{}{Zase jsem Myrona naèapal, jak mlátí moje holky zezadu do hlavy.}
-{444}{}{Doufám, e zas nechytím Myrona, jak provádí na mejch holkách "Clevelandskıho Steamera".}
-{445}{}{Nepotøebuješ na veèer spoleènost, brácho? Mìl bych tu pro tebe nìco extra.}
-{446}{}{Tohle nejsou ádnı otrokynì, tohle jsou profesionálky, rozumíš?}
-{447}{}{Záøím tak, e je proti mì Reno v úplnı tmì.}
-{448}{}{Mám nejlepší prdelky široko daleko.}
-{449}{}{Staèí pár babek a zaiješ nebeskou slast.}
-{450}{}{Doufám, e tı tvı dìvce nechceš dìlat pasáka. Tohle je mùj rajón.}
-{451}{}{Jestli uvidím, e s tou svojí dìvkou kšeftuješ, tak si mì nepøej.}
-{452}{}{Øekni tı svı dìvce, a v tomhle mìstì radši drí nohy u sebe.}
-{453}{}{Zbav se tı svı dìvky, kámo. Mám tu holku, co ti ho udrí "v pozoru" celou noc.}
-{454}{}{Moje enskı z tebe udìlaj opravdovıho chlapa. A stojej jen pár babek.}
-{455}{}{Ty nejlepší klisny najdeš jedinì v mı stáji.}
-{456}{}{Jestli tì chytnu jak prodáváš tu svou lacinou dìvku v mım rajónu, udìlám ti úsmìv od ucha k uchu.}
-{457}{}{Take ona je tvoje "ena", jo? No dobøe, ty jeden "manílku". V tom pøípadì by si mìla v TOMHLE mìstì dávat pozor na tu svoji prdelku.}
-{458}{}{Tohle je mùj rajón. Jdi si s tou svojí dìvkou jinam.}
-{459}{}{Dej si bacha, a tì nechytím, jak ji prodáváš na Mİ ulici.}
-{470}{}{Doufám, e má ta enská mı prachy...}
-{471}{}{Turisti jsou málo nadrenı a to se mi nelíbí.}
-{472}{}{Doufám, e mi ta dìvka pøinese prachy...}
-{473}{}{Èau otrokáøi! Potøebuješ smoèit?}
-{474}{}{Hej, otrokáøi, jestli nìkde najdeš levnìjší prdelku ne mám já, tak ti ji dám za stejnou cenu.}
-{475}{}{Záøím tak, e je proti mì Reno v úplnı tmì.}
-{476}{}{Hej, otrokáøi, vypadáš jako chlap s opravdovım ohnìm v poklopci.}
-{477}{}{Na slovíèko, otrokáøi. Mìl bych tu pro tebe holku, co tì udrí vzhùru celou noc.}
-{478}{}{Staèí pár babek a zaiješ nebeskou slast.}
-{479}{}{Nepotøebuješ na veèer spoleènost, otrokáøi? Seenu ti parádní holku.}
-{480}{}{Tyhle jsou lepší ne otrokynì, jsou to profesionálky, rozumíš?}
-{481}{}{Nemáš nìjakı zboí na prodej, otrokáøi? Potøeboval bych nìjakou novou krev.}
-{482}{}{Jestli dokáe vcucnout golfovej míèek skrz zahradní hadici? To si piš, e jo.}
-{483}{}{Moje enskı z tebe udìlaj opravdovıho chlapa. A stojej jen pár babek.}
-{484}{}{Ty nejlepší klisny najdeš jedinì v mı stáji.}
-{485}{}{Hej, otrokáøi, jestli se nìkterá z mejch holek ztratí, tak mi to zaplatíš. Rozumíš?}
-{486}{}{Poèkej, nìkoho ti dohodím, otrokáøi. Dva roky po sobì jsem byl zvolenej Pasákem roku.}
-{487}{}{Mám tady jednu holku, na kterou by ses mìla podívat, otrokáøko. Má fakt krásnou sladkou prdelku.}
-{488}{}{Teï nemám zájem kupovat ádnı otroky, ale moná ti jich pozdìjc pár prodám.}
-{489}{}{Ne abys strkal ten svùj pytel mejm holkám do pusy, otrokáøi.}
-{490}{}{Dej si bacha, a tì nechytím, jak moje holky mlátíš zezadu do hlavy, otrokáøi.}
-{491}{}{Ten podìlanej Myron udìlal polovinì mejch holek na tváøi fialovı modøiny od ptáka.}
-{492}{}{Jestli zas chytím Myrona, jak provádí "Clevelandskıho Steamera" na mejch holkách, tak ho zmlátím jako dìvku.}
-{493}{}{Hej, otrokáøi, jestli se nìkterá z mejch holek ztratí, tak mi to zaplatíš. Rozumíš?}
-{494}{}{Hej, otrokáøi, jestli nìkde najdeš levnìjší prdelku ne mám já, tak ti ji dám za stejnou cenu.}
-{495}{}{Ne abys strkal ten svùj pytel mejm holkám do pusy, otrokáøi.}
-{496}{}{Jestli si na mnì jedna èubka nepøestane otvírat hubu, tak pro tebe moná budu mít na prodej nìjakı zboí.}
-{497}{}{Otrokáøi jsou v tomhle mìstì vdycky vítáni.}
-{500}{}{Doufám, e má ta enská mı prachy...}
-{501}{}{Turisti jsou málo nadrenı a to se mi nelíbí.}
-{502}{}{Doufám, e mi ta dìvka pøinese prachy...}
-{503}{}{Záøím tak, e je proti mì Reno v úplnı tmì.}
-{504}{}{Hledáš spoleènost na veèer, otrokáøko? enskı nebo chlapi, mladı nebo starı... mám všechno.}
-{505}{}{Mám tady jednu holku, na kterou by ses mìla podívat, otrokáøko. Má fakt krásnou sladkou prdelku.}
-{506}{}{Hej, otrokáøko, vypadáš jako enská, která by se potøebovala trochu vydovádìt.}
-{507}{}{Hledáš spoleènost na veèer, otrokáøko? enskı nebo chlapi, mladı nebo starı... mám všechno.}
-{508}{}{Hej, otrokáøi, jestli se nìkterá z mejch holek ztratí, tak mi to zaplatíš. Rozumíš?}
-{509}{}{Jestli si na mnì jedna èubka nepøestane otvírat hubu, tak pro tebe moná budu mít na prodej nìjakı zboí.}
-{510}{}{Teï nemám zájem kupovat ádnı otroky, ale moná ti jich pozdìjc pár prodám.}
-{511}{}{Mám tady jednu holku, na kterou by ses mìla podívat, otrokáøko. Má fakt krásnou sladkou prdelku.}
-{512}{}{Otrokáøi jsou v tomhle mìstì vdycky vítáni.}
-{520}{}{Doufám, e má ta enská mı prachy...}
-{521}{}{Turisti jsou málo nadrenı a to se mi nelíbí.}
-{522}{}{Doufám, e mi ta dìvka pøinese prachy...}
-{523}{}{Chceš si zapíchat?}
-{524}{}{Nepotøebuješ... smoèit?}
-{525}{}{Mám nejlepší prdelky široko daleko.}
-{526}{}{Záøím tak, e je proti mì Reno v úplnı tmì.}
-{527}{}{Vypadáš jako chlap s opravdovım ohnìm v poklopci.}
-{528}{}{Na slovíèko, pøíteli. Moje holky vydrej pøiráet celou noc.}
-{529}{}{Staèí pár babek a zaiješ nebeskou slast.}
-{530}{}{Nepotøebuješ na veèer spoleènost, brácho? Mìl bych tu pro tebe nìco extra.}
-{531}{}{Tohle nejsou ádnı otrokynì, tohle jsou profesionálky, rozumíš?}
-{532}{}{Tady najdeš ty nejlepší holky v celım New Renu. Staèí jenom øíct... pokud máš prachy.}
-{533}{}{Jestli dokáe vcucnout golfovej míèek skrz zahradní hadici? To si piš, e jo.}
-{534}{}{Moje enskı z tebe udìlaj opravdovıho chlapa. A stojej jen pár babek.}
-{535}{}{Ty nejlepší klisny najdeš jedinì v mı stáji.}
-{536}{}{Poèkej, nìkoho ti dohodím, otrokáøi. Dva roky po sobì jsem byl zvolenej Pasákem roku.}
-{537}{}{Mrkni na tuhle kost, má fakt krásnou sladkou prdelku.}
-{538}{}{Ne abys strkal ten svùj pytel mejm holkám do pusy.}
-{539}{}{Dej si bacha, a tì nechytím, jak moje holky mlátíš zezadu do hlavy, otrokáøi.}
-{540}{}{A tì nechytím, jak dìláš mejm holkám na tváøi fialovı modøiny od ptáka.}
-{541}{}{Jestli tì nìkdy chytím, jak dìláš mı holce "Clevelandskıho Steamera", tak tì ZABIJU.}
-{542}{}{Chceš si zapíchat?}
-{543}{}{Mám nejlepší dìvky v celım New Renu. Zkus je a uvidíš.}
-{550}{}{Doufám, e má ta enská mı prachy...}
-{551}{}{Turisti jsou málo nadrenı a to se mi nelíbí.}
-{552}{}{Doufám, e mi ta dìvka pøinese prachy...}
-{553}{}{::Znalecky si tì prohlíí::}
-{554}{}{Hej, zlatíèko, pojï sem na chvíli.}
-{555}{}{Na slovíèko, kotì, mìl bych pro tebe zajímavou nabídku.}
-{556}{}{Kouknìte na tu krásnou sladkou prdelku.}
-{557}{}{Kotì, pojï sem, a tì mùu plácnout pøes tu tvoji krásnou sladkou prdelku.}
-{558}{}{Nazdar krásko, nemáš zájem o práci?}
-{559}{}{Mìl bych pro tebe zajímavou práci. Takovou, pøi kterı mùeš skoro poøád leet.}
-{560}{}{Nepotøebuješ nocleh, kotì?}
-{561}{}{Zùstaò u mì, brouku. Je to nejlepší plac v celım New Renu.}
-{562}{}{Máš kde bydlet? Jestli ne, tak mùeš zùstat klidnì u mì.}
-{563}{}{::Znalecky si tì prohlíí::}
-{564}{}{Kotì, chtìl bych tì plácnout pøes tu tvoji krásnou sladkou prdelku.}
-{565}{}{Nechceš si vydìlat rychlı prachy, holka?}
+{387}{}{OblÃ­kÃ¡Å¡ se jako pravej drsÅˆÃ¡k a to se mi lÃ­bÃ­.}
+{388}{}{StaÄÃ­ Å™Ã­ct a budu ti dÄ›lat osobnÃ­ho strÃ¡Å¾ce, sÃ©gro.}
+{389}{}{Kreju ti zÃ¡da, sÃ©gro.}
+{390}{}{JseÅ¡ krÃ¡lovna, opravdovej Å¡ampiÃ³n. ChÃ¡peÅ¡?}
+{391}{}{Ne Å¾e mÄ› v ringu zklameÅ¡, rozumÃ­Å¡?}
+{392}{}{Vsadil jsem si na tebe 100 babek, sÃ©gro, takÅ¾e mÄ› nezklam.}
+{393}{}{HroznÄ› miluju ty tvoje ÄernÃ½ vlasy... a tvÅ¯j parÃ¡dnÃ­ levej hÃ¡k.}
+{410}{}{DoufÃ¡m, Å¾e mÃ¡ ta Å¾enskÃ¡ mÃ½ prachy...}
+{411}{}{Turisti jsou mÃ¡lo nadrÅ¾enÃ½ a to se mi nelÃ­bÃ­.}
+{412}{}{DoufÃ¡m, Å¾e mi ta dÄ›vka pÅ™inese prachy...}
+{413}{}{HledÃ¡te nÄ›jakÃ½ povyraÅ¾enÃ­?}
+{414}{}{Vy dva vypadÃ¡te, Å¾e byste potÅ™ebovali smoÄit.}
+{415}{}{ÄŒau Myrone! Jak se vede?}
+{416}{}{ÄŒau Myrone! HledÃ¡Å¡ spoleÄnost na veÄer? MÄ›l bych pro tebe novou holku...}
+{417}{}{Tak co hoÅ¡i, chtÄ›li byste... smoÄit?}
+{418}{}{MÃ¡m nejlepÅ¡Ã­ prdelky Å¡iroko daleko.}
+{419}{}{ZÃ¡Å™Ã­m tak, Å¾e je proti mÄ› Reno v ÃºplnÃ½ tmÄ›.}
+{420}{}{VypadÃ¡te, Å¾e mÃ¡te v poklopci oheÅˆ, hoÅ¡i.}
+{421}{}{Na slovÃ­Äko, pÅ™Ã¡telÃ©. Moje holky vydrÅ¾ej pÅ™irÃ¡Å¾et celou noc.}
+{422}{}{StaÄÃ­ pÃ¡r babek a zaÅ¾ijeÅ¡ nebeskou slast.}
+{423}{}{Myrone, ne Å¾e tÄ› zas chytÃ­m, jak strkÃ¡Å¡ ten svÅ¯j pytlÃ­k mejm holkÃ¡m do pusy!}
+{424}{}{Myrone, ne Å¾e tÄ› zas chytÃ­m, jak mlÃ¡tÃ­Å¡ moje holky zezadu do hlavy!}
+{425}{}{Myrone, ne Å¾e tÄ› zas chytÃ­m, jak plÃ¡cÃ¡Å¡ moje holky ptÃ¡kem po ksichtÄ›!}
+{426}{}{Myrone, ne Å¾e tÄ› zas chytÃ­m, jak provÃ¡dÃ­Å¡ na mejch holkÃ¡ch "lÃ©tajÃ­cÃ­ho velblouda"!}
+{427}{}{Myrone, ne Å¾e tÄ› zas chytÃ­m, jak provÃ¡dÃ­Å¡ na mejch holkÃ¡ch "ClevelandskÃ½ho Steamera"!}
+{428}{}{ÄŒau Myrone! HledÃ¡Å¡ spoleÄnost na veÄer? MÄ›l bych tu pro tebe nÄ›co extra.}
+{429}{}{Tohle nejsou Å¾Ã¡dnÃ½ otrokynÄ›, tohle jsou profesionÃ¡lky, rozumÃ­Å¡?}
+{430}{}{Myrone! DluÅ¾Ã­Å¡ mi jeÅ¡tÄ› za poslednÃ­ vÃ­kend, hochu!}
+{431}{}{Jestli dokÃ¡Å¾e vcucnout golfovej mÃ­Äek skrz zahradnÃ­ hadici? To si piÅ¡, Å¾e jo.}
+{432}{}{Moje Å¾enskÃ½ z tebe udÄ›laj opravdovÃ½ho chlapa. A stojej jen pÃ¡r babek.}
+{433}{}{Ty nejlepÅ¡Ã­ klisny najdeÅ¡ jedinÄ› v mÃ½ stÃ¡ji.}
+{434}{}{Co dÄ›lÃ¡Å¡ mimo StÃ¡je, Myrone? HledÃ¡Å¡ nÄ›jakou novou klisniÄku?}
+{435}{}{Starej Mordino ti dal koneÄnÄ› vychÃ¡zku, Myrone?}
+{440}{}{DoufÃ¡m, Å¾e mÃ¡ ta Å¾enskÃ¡ mÃ½ prachy...}
+{441}{}{Turisti jsou mÃ¡lo nadrÅ¾enÃ½ a to se mi nelÃ­bÃ­.}
+{442}{}{DoufÃ¡m, Å¾e mi ta dÄ›vka pÅ™inese prachy...}
+{443}{}{Zase jsem Myrona naÄapal, jak mlÃ¡tÃ­ moje holky zezadu do hlavy.}
+{444}{}{DoufÃ¡m, Å¾e zas nechytÃ­m Myrona, jak provÃ¡dÃ­ na mejch holkÃ¡ch "ClevelandskÃ½ho Steamera".}
+{445}{}{NepotÅ™ebujeÅ¡ na veÄer spoleÄnost, brÃ¡cho? MÄ›l bych tu pro tebe nÄ›co extra.}
+{446}{}{Tohle nejsou Å¾Ã¡dnÃ½ otrokynÄ›, tohle jsou profesionÃ¡lky, rozumÃ­Å¡?}
+{447}{}{ZÃ¡Å™Ã­m tak, Å¾e je proti mÄ› Reno v ÃºplnÃ½ tmÄ›.}
+{448}{}{MÃ¡m nejlepÅ¡Ã­ prdelky Å¡iroko daleko.}
+{449}{}{StaÄÃ­ pÃ¡r babek a zaÅ¾ijeÅ¡ nebeskou slast.}
+{450}{}{DoufÃ¡m, Å¾e tÃ½ tvÃ½ dÄ›vce nechceÅ¡ dÄ›lat pasÃ¡ka. Tohle je mÅ¯j rajÃ³n.}
+{451}{}{Jestli uvidÃ­m, Å¾e s tou svojÃ­ dÄ›vkou kÅ¡eftujeÅ¡, tak si mÄ› nepÅ™ej.}
+{452}{}{Å˜ekni tÃ½ svÃ½ dÄ›vce, aÅ¥ v tomhle mÄ›stÄ› radÅ¡i drÅ¾Ã­ nohy u sebe.}
+{453}{}{Zbav se tÃ½ svÃ½ dÄ›vky, kÃ¡mo. MÃ¡m tu holku, co ti ho udrÅ¾Ã­ "v pozoru" celou noc.}
+{454}{}{Moje Å¾enskÃ½ z tebe udÄ›laj opravdovÃ½ho chlapa. A stojej jen pÃ¡r babek.}
+{455}{}{Ty nejlepÅ¡Ã­ klisny najdeÅ¡ jedinÄ› v mÃ½ stÃ¡ji.}
+{456}{}{Jestli tÄ› chytnu jak prodÃ¡vÃ¡Å¡ tu svou lacinou dÄ›vku v mÃ½m rajÃ³nu, udÄ›lÃ¡m ti ÃºsmÄ›v od ucha k uchu.}
+{457}{}{TakÅ¾e ona je tvoje "Å¾ena", jo? No dobÅ™e, ty jeden "manÅ¾Ã­lku". V tom pÅ™Ã­padÄ› by si mÄ›la v TOMHLE mÄ›stÄ› dÃ¡vat pozor na tu svoji prdelku.}
+{458}{}{Tohle je mÅ¯j rajÃ³n. Jdi si s tou svojÃ­ dÄ›vkou jinam.}
+{459}{}{Dej si bacha, aÅ¥ tÄ› nechytÃ­m, jak ji prodÃ¡vÃ¡Å¡ na MÃ ulici.}
+{470}{}{DoufÃ¡m, Å¾e mÃ¡ ta Å¾enskÃ¡ mÃ½ prachy...}
+{471}{}{Turisti jsou mÃ¡lo nadrÅ¾enÃ½ a to se mi nelÃ­bÃ­.}
+{472}{}{DoufÃ¡m, Å¾e mi ta dÄ›vka pÅ™inese prachy...}
+{473}{}{ÄŒau otrokÃ¡Å™i! PotÅ™ebujeÅ¡ smoÄit?}
+{474}{}{Hej, otrokÃ¡Å™i, jestli nÄ›kde najdeÅ¡ levnÄ›jÅ¡Ã­ prdelku neÅ¾ mÃ¡m jÃ¡, tak ti ji dÃ¡m za stejnou cenu.}
+{475}{}{ZÃ¡Å™Ã­m tak, Å¾e je proti mÄ› Reno v ÃºplnÃ½ tmÄ›.}
+{476}{}{Hej, otrokÃ¡Å™i, vypadÃ¡Å¡ jako chlap s opravdovÃ½m ohnÄ›m v poklopci.}
+{477}{}{Na slovÃ­Äko, otrokÃ¡Å™i. MÄ›l bych tu pro tebe holku, co tÄ› udrÅ¾Ã­ vzhÅ¯ru celou noc.}
+{478}{}{StaÄÃ­ pÃ¡r babek a zaÅ¾ijeÅ¡ nebeskou slast.}
+{479}{}{NepotÅ™ebujeÅ¡ na veÄer spoleÄnost, otrokÃ¡Å™i? SeÅ¾enu ti parÃ¡dnÃ­ holku.}
+{480}{}{Tyhle jsou lepÅ¡Ã­ neÅ¾ otrokynÄ›, jsou to profesionÃ¡lky, rozumÃ­Å¡?}
+{481}{}{NemÃ¡Å¡ nÄ›jakÃ½ zboÅ¾Ã­ na prodej, otrokÃ¡Å™i? PotÅ™eboval bych nÄ›jakou novou krev.}
+{482}{}{Jestli dokÃ¡Å¾e vcucnout golfovej mÃ­Äek skrz zahradnÃ­ hadici? To si piÅ¡, Å¾e jo.}
+{483}{}{Moje Å¾enskÃ½ z tebe udÄ›laj opravdovÃ½ho chlapa. A stojej jen pÃ¡r babek.}
+{484}{}{Ty nejlepÅ¡Ã­ klisny najdeÅ¡ jedinÄ› v mÃ½ stÃ¡ji.}
+{485}{}{Hej, otrokÃ¡Å™i, jestli se nÄ›kterÃ¡ z mejch holek ztratÃ­, tak mi to zaplatÃ­Å¡. RozumÃ­Å¡?}
+{486}{}{PoÄkej, nÄ›koho ti dohodÃ­m, otrokÃ¡Å™i. Dva roky po sobÄ› jsem byl zvolenej PasÃ¡kem roku.}
+{487}{}{MÃ¡m tady jednu holku, na kterou by ses mÄ›la podÃ­vat, otrokÃ¡Å™ko. MÃ¡ fakt krÃ¡snou sladkou prdelku.}
+{488}{}{TeÄ nemÃ¡m zÃ¡jem kupovat Å¾Ã¡dnÃ½ otroky, ale moÅ¾nÃ¡ ti jich pozdÄ›jc pÃ¡r prodÃ¡m.}
+{489}{}{Ne abys strkal ten svÅ¯j pytel mejm holkÃ¡m do pusy, otrokÃ¡Å™i.}
+{490}{}{Dej si bacha, aÅ¥ tÄ› nechytÃ­m, jak moje holky mlÃ¡tÃ­Å¡ zezadu do hlavy, otrokÃ¡Å™i.}
+{491}{}{Ten podÄ›lanej Myron udÄ›lal polovinÄ› mejch holek na tvÃ¡Å™i fialovÃ½ modÅ™iny od ptÃ¡ka.}
+{492}{}{Jestli zas chytÃ­m Myrona, jak provÃ¡dÃ­ "ClevelandskÃ½ho Steamera" na mejch holkÃ¡ch, tak ho zmlÃ¡tÃ­m jako dÄ›vku.}
+{493}{}{Hej, otrokÃ¡Å™i, jestli se nÄ›kterÃ¡ z mejch holek ztratÃ­, tak mi to zaplatÃ­Å¡. RozumÃ­Å¡?}
+{494}{}{Hej, otrokÃ¡Å™i, jestli nÄ›kde najdeÅ¡ levnÄ›jÅ¡Ã­ prdelku neÅ¾ mÃ¡m jÃ¡, tak ti ji dÃ¡m za stejnou cenu.}
+{495}{}{Ne abys strkal ten svÅ¯j pytel mejm holkÃ¡m do pusy, otrokÃ¡Å™i.}
+{496}{}{Jestli si na mnÄ› jedna Äubka nepÅ™estane otvÃ­rat hubu, tak pro tebe moÅ¾nÃ¡ budu mÃ­t na prodej nÄ›jakÃ½ zboÅ¾Ã­.}
+{497}{}{OtrokÃ¡Å™i jsou v tomhle mÄ›stÄ› vÅ¾dycky vÃ­tÃ¡ni.}
+{500}{}{DoufÃ¡m, Å¾e mÃ¡ ta Å¾enskÃ¡ mÃ½ prachy...}
+{501}{}{Turisti jsou mÃ¡lo nadrÅ¾enÃ½ a to se mi nelÃ­bÃ­.}
+{502}{}{DoufÃ¡m, Å¾e mi ta dÄ›vka pÅ™inese prachy...}
+{503}{}{ZÃ¡Å™Ã­m tak, Å¾e je proti mÄ› Reno v ÃºplnÃ½ tmÄ›.}
+{504}{}{HledÃ¡Å¡ spoleÄnost na veÄer, otrokÃ¡Å™ko? Å½enskÃ½ nebo chlapi, mladÃ½ nebo starÃ½... mÃ¡m vÅ¡echno.}
+{505}{}{MÃ¡m tady jednu holku, na kterou by ses mÄ›la podÃ­vat, otrokÃ¡Å™ko. MÃ¡ fakt krÃ¡snou sladkou prdelku.}
+{506}{}{Hej, otrokÃ¡Å™ko, vypadÃ¡Å¡ jako Å¾enskÃ¡, kterÃ¡ by se potÅ™ebovala trochu vydovÃ¡dÄ›t.}
+{507}{}{HledÃ¡Å¡ spoleÄnost na veÄer, otrokÃ¡Å™ko? Å½enskÃ½ nebo chlapi, mladÃ½ nebo starÃ½... mÃ¡m vÅ¡echno.}
+{508}{}{Hej, otrokÃ¡Å™i, jestli se nÄ›kterÃ¡ z mejch holek ztratÃ­, tak mi to zaplatÃ­Å¡. RozumÃ­Å¡?}
+{509}{}{Jestli si na mnÄ› jedna Äubka nepÅ™estane otvÃ­rat hubu, tak pro tebe moÅ¾nÃ¡ budu mÃ­t na prodej nÄ›jakÃ½ zboÅ¾Ã­.}
+{510}{}{TeÄ nemÃ¡m zÃ¡jem kupovat Å¾Ã¡dnÃ½ otroky, ale moÅ¾nÃ¡ ti jich pozdÄ›jc pÃ¡r prodÃ¡m.}
+{511}{}{MÃ¡m tady jednu holku, na kterou by ses mÄ›la podÃ­vat, otrokÃ¡Å™ko. MÃ¡ fakt krÃ¡snou sladkou prdelku.}
+{512}{}{OtrokÃ¡Å™i jsou v tomhle mÄ›stÄ› vÅ¾dycky vÃ­tÃ¡ni.}
+{520}{}{DoufÃ¡m, Å¾e mÃ¡ ta Å¾enskÃ¡ mÃ½ prachy...}
+{521}{}{Turisti jsou mÃ¡lo nadrÅ¾enÃ½ a to se mi nelÃ­bÃ­.}
+{522}{}{DoufÃ¡m, Å¾e mi ta dÄ›vka pÅ™inese prachy...}
+{523}{}{ChceÅ¡ si zapÃ­chat?}
+{524}{}{NepotÅ™ebujeÅ¡... smoÄit?}
+{525}{}{MÃ¡m nejlepÅ¡Ã­ prdelky Å¡iroko daleko.}
+{526}{}{ZÃ¡Å™Ã­m tak, Å¾e je proti mÄ› Reno v ÃºplnÃ½ tmÄ›.}
+{527}{}{VypadÃ¡Å¡ jako chlap s opravdovÃ½m ohnÄ›m v poklopci.}
+{528}{}{Na slovÃ­Äko, pÅ™Ã­teli. Moje holky vydrÅ¾ej pÅ™irÃ¡Å¾et celou noc.}
+{529}{}{StaÄÃ­ pÃ¡r babek a zaÅ¾ijeÅ¡ nebeskou slast.}
+{530}{}{NepotÅ™ebujeÅ¡ na veÄer spoleÄnost, brÃ¡cho? MÄ›l bych tu pro tebe nÄ›co extra.}
+{531}{}{Tohle nejsou Å¾Ã¡dnÃ½ otrokynÄ›, tohle jsou profesionÃ¡lky, rozumÃ­Å¡?}
+{532}{}{Tady najdeÅ¡ ty nejlepÅ¡Ã­ holky v celÃ½m New Renu. StaÄÃ­ jenom Å™Ã­ct... pokud mÃ¡Å¡ prachy.}
+{533}{}{Jestli dokÃ¡Å¾e vcucnout golfovej mÃ­Äek skrz zahradnÃ­ hadici? To si piÅ¡, Å¾e jo.}
+{534}{}{Moje Å¾enskÃ½ z tebe udÄ›laj opravdovÃ½ho chlapa. A stojej jen pÃ¡r babek.}
+{535}{}{Ty nejlepÅ¡Ã­ klisny najdeÅ¡ jedinÄ› v mÃ½ stÃ¡ji.}
+{536}{}{PoÄkej, nÄ›koho ti dohodÃ­m, otrokÃ¡Å™i. Dva roky po sobÄ› jsem byl zvolenej PasÃ¡kem roku.}
+{537}{}{Mrkni na tuhle kost, mÃ¡ fakt krÃ¡snou sladkou prdelku.}
+{538}{}{Ne abys strkal ten svÅ¯j pytel mejm holkÃ¡m do pusy.}
+{539}{}{Dej si bacha, aÅ¥ tÄ› nechytÃ­m, jak moje holky mlÃ¡tÃ­Å¡ zezadu do hlavy, otrokÃ¡Å™i.}
+{540}{}{AÅ¥ tÄ› nechytÃ­m, jak dÄ›lÃ¡Å¡ mejm holkÃ¡m na tvÃ¡Å™i fialovÃ½ modÅ™iny od ptÃ¡ka.}
+{541}{}{Jestli tÄ› nÄ›kdy chytÃ­m, jak dÄ›lÃ¡Å¡ mÃ½ holce "ClevelandskÃ½ho Steamera", tak tÄ› ZABIJU.}
+{542}{}{ChceÅ¡ si zapÃ­chat?}
+{543}{}{MÃ¡m nejlepÅ¡Ã­ dÄ›vky v celÃ½m New Renu. Zkus je a uvidÃ­Å¡.}
+{550}{}{DoufÃ¡m, Å¾e mÃ¡ ta Å¾enskÃ¡ mÃ½ prachy...}
+{551}{}{Turisti jsou mÃ¡lo nadrÅ¾enÃ½ a to se mi nelÃ­bÃ­.}
+{552}{}{DoufÃ¡m, Å¾e mi ta dÄ›vka pÅ™inese prachy...}
+{553}{}{::Znalecky si tÄ› prohlÃ­Å¾Ã­::}
+{554}{}{Hej, zlatÃ­Äko, pojÄ sem na chvÃ­li.}
+{555}{}{Na slovÃ­Äko, kotÄ›, mÄ›l bych pro tebe zajÃ­mavou nabÃ­dku.}
+{556}{}{KouknÄ›te na tu krÃ¡snou sladkou prdelku.}
+{557}{}{KotÄ›, pojÄ sem, aÅ¥ tÄ› mÅ¯Å¾u plÃ¡cnout pÅ™es tu tvoji krÃ¡snou sladkou prdelku.}
+{558}{}{Nazdar krÃ¡sko, nemÃ¡Å¡ zÃ¡jem o prÃ¡ci?}
+{559}{}{MÄ›l bych pro tebe zajÃ­mavou prÃ¡ci. Takovou, pÅ™i kterÃ½ mÅ¯Å¾eÅ¡ skoro poÅ™Ã¡d leÅ¾et.}
+{560}{}{NepotÅ™ebujeÅ¡ nocleh, kotÄ›?}
+{561}{}{ZÅ¯staÅˆ u mÄ›, brouku. Je to nejlepÅ¡Ã­ plac v celÃ½m New Renu.}
+{562}{}{MÃ¡Å¡ kde bydlet? Jestli ne, tak mÅ¯Å¾eÅ¡ zÅ¯stat klidnÄ› u mÄ›.}
+{563}{}{::Znalecky si tÄ› prohlÃ­Å¾Ã­::}
+{564}{}{KotÄ›, chtÄ›l bych tÄ› plÃ¡cnout pÅ™es tu tvoji krÃ¡snou sladkou prdelku.}
+{565}{}{NechceÅ¡ si vydÄ›lat rychlÃ½ prachy, holka?}

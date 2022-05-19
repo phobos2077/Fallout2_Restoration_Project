@@ -1,8 +1,8 @@
-{100}{}{Vypadá to jako generátor.}
-{101}{}{Tento generátor pravdìpodobnì napájí vıtah.}
-{200}{}{Generátor potøebuje nejprve opravit.}
-{201}{}{Generátor u bìí.}
-{202}{}{Generátor byl vypnut.}
-{300}{}{Tahle dovednost se na generátor nedá pouít.}
-{400}{}{Generátor byl opraven a nahozen.}
-{401}{}{Oprava generátoru se nezdaøila.}
+{100}{}{VypadÃ¡ to jako generÃ¡tor.}
+{101}{}{Tento generÃ¡tor pravdÄ›podobnÄ› napÃ¡jÃ­ vÃ½tah.}
+{200}{}{GenerÃ¡tor potÅ™ebuje nejprve opravit.}
+{201}{}{GenerÃ¡tor uÅ¾ bÄ›Å¾Ã­.}
+{202}{}{GenerÃ¡tor byl vypnut.}
+{300}{}{Tahle dovednost se na generÃ¡tor nedÃ¡ pouÅ¾Ã­t.}
+{400}{}{GenerÃ¡tor byl opraven a nahozen.}
+{401}{}{Oprava generÃ¡toru se nezdaÅ™ila.}

@@ -1,194 +1,194 @@
-{100}{}{Pøed tebou stojí Hakunin, šaman tvého kmene. Jako obvykle máš pocit, e je sice tìlem pøítomen, ale jeho duše bloudí nìkde po svìtech, které zná jen on sám...}
-{101}{}{Vidíš Hakunina. Leí tìce zranìnı na zemi.}
-{102}{}{Vidíš Hakunina. Umírá.}
-{103}{}{Hakunin je ošklivì popálenı. Vypadá jako biftek, kterı nìkdo zapomnìl nad ohnìm, a stejnì tak i páchne. Vùbec nedokáeš pochopit, jak dokázal tak dlouho pøeít.}
-{104}{hak001}{Vítej, Vyvolenı. Proè má pùda mé chıše potìšení ohøát se dotekem tvıch krokù?}
-{105}{}{Bléh?}
-{106}{}{Jdu ti øíct sbohem. Odcházím splnit svùj svatı úkol.}
-{107}{}{Chystám se odejít. A napadlo mì, e snad pøi té pøíleitosti budeš koneènì jednou mluvit jako normální èlovìk. Jak vidím, byla to marná nadìje.}
-{108}{}{Nemìl bys to s tìma drogama tak pøehánìt. Mìj se.}
-{109}{}{Mám zranìní. Mùeš mì vyléèit?}
-{110}{}{Na zahrádce ti vyrostl nìjakı sajrajt. Ale buï v klidu, u to tam máš vyplenìnı.}
-{111}{hak001a}{Odhal prosím zamlenım oèím starce dùvod svého pøíchodu.}
-{112}{}{Bléh?}
-{113}{}{Jdu ti øíct sbohem. Odcházím splnit svùj svatı úkol.}
-{114}{}{Chystám se odejít. A napadlo mì, e snad pøi té pøíleitosti budeš koneènì jednou mluvit jako normální èlovìk. Jak vidím, byla to marná nadìje.}
-{115}{}{Nemìl bys to s tìma drogama tak pøehánìt. Mìj se.}
-{116}{}{Na zahrádce ti vyrostl nìjakı sajrajt. Ale buï v klidu, u to tam máš vyplenìnı.}
-{117}{hak002}{Matka Zemì zpívá o novém šampiónovi... ale ještì ne odejdeš sbírat ivotní zkušenosti, nechtìlo by se ti vykonat malou laskavost na mé zahradì?}
-{118}{}{Jistì. Co potøebuješ?}
-{119}{}{To záleí na spoustì okolností. A ta nejdùleitìjší je... co za to?}
-{120}{hak002a}{Tváøe tohoto svìta a pohledy na nìj mohou bıt velmi rùznorodé. To je ostatnì lekce, kterou se brzy nauèíš... ale ještì ne odejdeš sbírat ivotní zkušenosti, nechtìlo by se ti vykonat malou laskavost na mé zahradì?}
-{121}{}{Chceš po mì nìjakou laskavost? Ale jistì, co by ne.}
-{122}{}{No, nìco pro tebe asi udìlat mùu. Ale protoe mì strašnì namáhá u jen porozumìt ti, bude tì to nìco stát.}
-{123}{hak003}{ehnám ti, nebo jsi opravdové dítì Matky Pøírody. Mùeš prosím pouít svoje schopnosti a zbavit mou zahradu rostlin s temnou duší?}
+{100}{}{PÅ™ed tebou stojÃ­ Hakunin, Å¡aman tvÃ©ho kmene. Jako obvykle mÃ¡Å¡ pocit, Å¾e je sice tÄ›lem pÅ™Ã­tomen, ale jeho duÅ¡e bloudÃ­ nÄ›kde po svÄ›tech, kterÃ© znÃ¡ jen on sÃ¡m...}
+{101}{}{VidÃ­Å¡ Hakunina. LeÅ¾Ã­ tÄ›Å¾ce zranÄ›nÃ½ na zemi.}
+{102}{}{VidÃ­Å¡ Hakunina. UmÃ­rÃ¡.}
+{103}{}{Hakunin je oÅ¡klivÄ› popÃ¡lenÃ½. VypadÃ¡ jako biftek, kterÃ½ nÄ›kdo zapomnÄ›l nad ohnÄ›m, a stejnÄ› tak i pÃ¡chne. VÅ¯bec nedokÃ¡Å¾eÅ¡ pochopit, jak dokÃ¡zal tak dlouho pÅ™eÅ¾Ã­t.}
+{104}{hak001}{VÃ­tej, VyvolenÃ½. ProÄ mÃ¡ pÅ¯da mÃ© chÃ½Å¡e potÄ›Å¡enÃ­ ohÅ™Ã¡t se dotekem tvÃ½ch krokÅ¯?}
+{105}{}{BlÃ©h?}
+{106}{}{Jdu ti Å™Ã­ct sbohem. OdchÃ¡zÃ­m splnit svÅ¯j svatÃ½ Ãºkol.}
+{107}{}{ChystÃ¡m se odejÃ­t. A napadlo mÄ›, Å¾e snad pÅ™i tÃ© pÅ™Ã­leÅ¾itosti budeÅ¡ koneÄnÄ› jednou mluvit jako normÃ¡lnÃ­ ÄlovÄ›k. Jak vidÃ­m, byla to marnÃ¡ nadÄ›je.}
+{108}{}{NemÄ›l bys to s tÄ›ma drogama tak pÅ™ehÃ¡nÄ›t. MÄ›j se.}
+{109}{}{MÃ¡m zranÄ›nÃ­. MÅ¯Å¾eÅ¡ mÄ› vylÃ©Äit?}
+{110}{}{Na zahrÃ¡dce ti vyrostl nÄ›jakÃ½ sajrajt. Ale buÄ v klidu, uÅ¾ to tam mÃ¡Å¡ vyplenÄ›nÃ½.}
+{111}{hak001a}{Odhal prosÃ­m zamlÅ¾enÃ½m oÄÃ­m starce dÅ¯vod svÃ©ho pÅ™Ã­chodu.}
+{112}{}{BlÃ©h?}
+{113}{}{Jdu ti Å™Ã­ct sbohem. OdchÃ¡zÃ­m splnit svÅ¯j svatÃ½ Ãºkol.}
+{114}{}{ChystÃ¡m se odejÃ­t. A napadlo mÄ›, Å¾e snad pÅ™i tÃ© pÅ™Ã­leÅ¾itosti budeÅ¡ koneÄnÄ› jednou mluvit jako normÃ¡lnÃ­ ÄlovÄ›k. Jak vidÃ­m, byla to marnÃ¡ nadÄ›je.}
+{115}{}{NemÄ›l bys to s tÄ›ma drogama tak pÅ™ehÃ¡nÄ›t. MÄ›j se.}
+{116}{}{Na zahrÃ¡dce ti vyrostl nÄ›jakÃ½ sajrajt. Ale buÄ v klidu, uÅ¾ to tam mÃ¡Å¡ vyplenÄ›nÃ½.}
+{117}{hak002}{Matka ZemÄ› zpÃ­vÃ¡ o novÃ©m Å¡ampiÃ³novi... ale jeÅ¡tÄ› neÅ¾ odejdeÅ¡ sbÃ­rat Å¾ivotnÃ­ zkuÅ¡enosti, nechtÄ›lo by se ti vykonat malou laskavost na mÃ© zahradÄ›?}
+{118}{}{JistÄ›. Co potÅ™ebujeÅ¡?}
+{119}{}{To zÃ¡leÅ¾Ã­ na spoustÄ› okolnostÃ­. A ta nejdÅ¯leÅ¾itÄ›jÅ¡Ã­ je... co za to?}
+{120}{hak002a}{TvÃ¡Å™e tohoto svÄ›ta a pohledy na nÄ›j mohou bÃ½t velmi rÅ¯znorodÃ©. To je ostatnÄ› lekce, kterou se brzy nauÄÃ­Å¡... ale jeÅ¡tÄ› neÅ¾ odejdeÅ¡ sbÃ­rat Å¾ivotnÃ­ zkuÅ¡enosti, nechtÄ›lo by se ti vykonat malou laskavost na mÃ© zahradÄ›?}
+{121}{}{ChceÅ¡ po mÄ› nÄ›jakou laskavost? Ale jistÄ›, co by ne.}
+{122}{}{No, nÄ›co pro tebe asi udÄ›lat mÅ¯Å¾u. Ale protoÅ¾e mÄ› straÅ¡nÄ› namÃ¡hÃ¡ uÅ¾ jen porozumÄ›t ti, bude tÄ› to nÄ›co stÃ¡t.}
+{123}{hak003}{Å½ehnÃ¡m ti, neboÅ¥ jsi opravdovÃ© dÃ­tÄ› Matky PÅ™Ã­rody. MÅ¯Å¾eÅ¡ prosÃ­m pouÅ¾Ã­t svoje schopnosti a zbavit mou zahradu rostlin s temnou duÅ¡Ã­?}
 {124}{}{E-he.}
-{125}{}{Ne-e. Ty. Pryè. Hlava bolet.}
-{126}{hak004}{Ké mì znovu poctí záøe tvé aury a... och, vra se k mım dveøím, a s tím skonèíš, a já ti dám nìco uiteèného.}
+{125}{}{Ne-e. Ty. PryÄ. Hlava bolet.}
+{126}{hak004}{KÃ©Å¾ mÄ› znovu poctÃ­ zÃ¡Å™e tvÃ© aury aÅ¾... och, vraÅ¥ se k mÃ½m dveÅ™Ã­m, aÅ¾ s tÃ­m skonÄÃ­Å¡, a jÃ¡ ti dÃ¡m nÄ›co uÅ¾iteÄnÃ©ho.}
 {127}{}{Uch.}
-{128}{hak005}{Mou zahradu opìt napadly rostliny s temnou duší. Mnoho let u se dotklo mıch kostí a já jsem pro tento vìènı boj s pøírodou pøíliš slabı. ádám tì tedy: vybojuj ho za mne.}
-{129}{}{To asi nepùjde. Musím se hned vydat na cestu za svım svatım úkolem.}
-{130}{}{Já vím, e to se mnou myslíš dobøe, ale dneska mì hroznì bolí hlava, take si to potìšení budu muset odepøít.}
-{131}{}{Na to zapomeò. Jsem budoucí vùdce kmene a nehodlám se tu shazovat tím, e budu makat u tebe na zahradì.}
-{132}{}{Bude mi ctí, svatı mui.}
-{133}{}{Ptal ses mì, jestli ti vypleju zahradu? V tom pøípadì ano.}
-{134}{}{Zadarmo ani kuøe nehrabe.}
-{135}{hak006}{ádá-li nìkdo odmìnu za dobrı skutek, zjistí nakonec, e jeho dar byl bezcennı. Ale já ti pøesto nìco dám a navíc ti pøidám pouèení o sebe zklamání pøi pøijímání.}
-{136}{}{To by šlo. Kde je ta zahrada?}
-{137}{}{Ten nejlepší dárek, kterı bys mi mohl dát, by bylo, kdybys koneènì zaèal mluvit ÈESKY!}
-{138}{}{Hmm... a co kdybys teï dostal lekci o zklamání ty? A to tím, e se na tebe zvysoka vykašlu. Sbohem.}
-{139}{}{No, kdy to bereš takhle... tak myslím, e nemám zájem. Sbohem.}
-{140}{hak006a}{Myslíš, e pokud øíkáme stejná slova, myslíme jimi i stejné vìci? Je moné se pomocí pouhıch slov dotknout duše toho druhého?}
-{141}{}{Aha, no jo. Tak to jo. A lekce, kterou jsi mì dneska nauèil je, e mám sklapnout a zeptat se tì, kde je ta zahrada.}
-{142}{}{No teï se schválnì zkusím dotknout tvé duše slovíèkem "sbohem". Jinımi slovy to znamená, e mizím.}
-{143}{hak007}{Jak si jistì dobøe pamatuješ, je to na severovıchodì, ó bláhovı.}
-{144}{}{Díky za pomoc.}
-{145}{}{Díky. Tomu koneènì rozumím.}
-{146}{}{Ty mì uráíš? Hmm... to si to s tou pomocí ještì rozmyslím. }
-{147}{}{Brzy si pøijdu pro svoji odmìnu.}
-{148}{hak008}{To bøímì, které teï neseš na svıch bedrech, se èasem stane ještì tìším.}
-{149}{hak009}{Nech bohové ehnají tvému úsilí, Vyvolenı. A a bude zemì opìt èistì a volnì dıchat, potom nech tvá aura poctí mou pøítomnost.}
-{150}{}{Beru to tak, e a s tím skonèím, tak bys mì rád znovu vidìl... ale to se snad dalo øíct i normálnì.}
+{128}{hak005}{Mou zahradu opÄ›t napadly rostliny s temnou duÅ¡Ã­. Mnoho let uÅ¾ se dotklo mÃ½ch kostÃ­ a jÃ¡ jsem pro tento vÄ›ÄnÃ½ boj s pÅ™Ã­rodou pÅ™Ã­liÅ¡ slabÃ½. Å½Ã¡dÃ¡m tÄ› tedy: vybojuj ho za mne.}
+{129}{}{To asi nepÅ¯jde. MusÃ­m se hned vydat na cestu za svÃ½m svatÃ½m Ãºkolem.}
+{130}{}{JÃ¡ vÃ­m, Å¾e to se mnou myslÃ­Å¡ dobÅ™e, ale dneska mÄ› hroznÄ› bolÃ­ hlava, takÅ¾e si to potÄ›Å¡enÃ­ budu muset odepÅ™Ã­t.}
+{131}{}{Na to zapomeÅˆ. Jsem budoucÃ­ vÅ¯dce kmene a nehodlÃ¡m se tu shazovat tÃ­m, Å¾e budu makat u tebe na zahradÄ›.}
+{132}{}{Bude mi ctÃ­, svatÃ½ muÅ¾i.}
+{133}{}{Ptal ses mÄ›, jestli ti vypleju zahradu? V tom pÅ™Ã­padÄ› ano.}
+{134}{}{Zadarmo ani kuÅ™e nehrabe.}
+{135}{hak006}{Å½Ã¡dÃ¡-li nÄ›kdo odmÄ›nu za dobrÃ½ skutek, zjistÃ­ nakonec, Å¾e jeho dar byl bezcennÃ½. Ale jÃ¡ ti pÅ™esto nÄ›co dÃ¡m a navÃ­c ti pÅ™idÃ¡m pouÄenÃ­ o sebe zklamÃ¡nÃ­ pÅ™i pÅ™ijÃ­mÃ¡nÃ­.}
+{136}{}{To by Å¡lo. Kde je ta zahrada?}
+{137}{}{Ten nejlepÅ¡Ã­ dÃ¡rek, kterÃ½ bys mi mohl dÃ¡t, by bylo, kdybys koneÄnÄ› zaÄal mluvit ÄŒESKY!}
+{138}{}{Hmm... a co kdybys teÄ dostal lekci o zklamÃ¡nÃ­ ty? A to tÃ­m, Å¾e se na tebe zvysoka vykaÅ¡lu. Sbohem.}
+{139}{}{No, kdyÅ¾ to bereÅ¡ takhle... tak myslÃ­m, Å¾e nemÃ¡m zÃ¡jem. Sbohem.}
+{140}{hak006a}{MyslÃ­Å¡, Å¾e pokud Å™Ã­kÃ¡me stejnÃ¡ slova, myslÃ­me jimi i stejnÃ© vÄ›ci? Je moÅ¾nÃ© se pomocÃ­ pouhÃ½ch slov dotknout duÅ¡e toho druhÃ©ho?}
+{141}{}{Aha, no jo. Tak to jo. A lekce, kterou jsi mÄ› dneska nauÄil je, Å¾e mÃ¡m sklapnout a zeptat se tÄ›, kde je ta zahrada.}
+{142}{}{No teÄ se schvÃ¡lnÄ› zkusÃ­m dotknout tvÃ© duÅ¡e slovÃ­Äkem "sbohem". JinÃ½mi slovy to znamenÃ¡, Å¾e mizÃ­m.}
+{143}{hak007}{Jak si jistÄ› dobÅ™e pamatujeÅ¡, je to na severovÃ½chodÄ›, Ã³ blÃ¡hovÃ½.}
+{144}{}{DÃ­ky za pomoc.}
+{145}{}{DÃ­ky. Tomu koneÄnÄ› rozumÃ­m.}
+{146}{}{Ty mÄ› urÃ¡Å¾Ã­Å¡? Hmm... to si to s tou pomocÃ­ jeÅ¡tÄ› rozmyslÃ­m. }
+{147}{}{Brzy si pÅ™ijdu pro svoji odmÄ›nu.}
+{148}{hak008}{To bÅ™Ã­mÄ›, kterÃ© teÄ neseÅ¡ na svÃ½ch bedrech, se Äasem stane jeÅ¡tÄ› tÄ›Å¾Å¡Ã­m.}
+{149}{hak009}{NechÅ¥ bohovÃ© Å¾ehnajÃ­ tvÃ©mu ÃºsilÃ­, VyvolenÃ½. A aÅ¾ bude zemÄ› opÄ›t ÄistÄ› a volnÄ› dÃ½chat, potom nechÅ¥ tvÃ¡ aura poctÃ­ mou pÅ™Ã­tomnost.}
+{150}{}{Beru to tak, Å¾e aÅ¾ s tÃ­m skonÄÃ­m, tak bys mÄ› rÃ¡d znovu vidÄ›l... ale to se snad dalo Å™Ã­ct i normÃ¡lnÄ›.}
 {151}{}{Sbohem.}
-{152}{hak010}{Vıbornì! ije v tobì duch našeho Zakladatele. Dovolíš-li mu vyrùst, prostoupí tì a tvımi prsty se znovu dotkne tváøe tohoto svìta. Ale samozøejmì za odmìnu dostaneš víc ne jen toto ponauèení.}
-{153}{}{To zní dobøe. A s tím skonèím, vrátím se.}
-{154}{}{Take to znamená, e dostanu nìco opravdu cenného. To mi staèí. Uvidíme se pozdìji.}
-{155}{}{Zdá se, e tentokrát jsi to s tím tvım zájmem o šlechtitelství trochu pøepískl. A protoe nechci dopadnout jako ty, tak si radìji najdu jinı koníèek ne je zahrádkaøení.}
-{156}{hak011}{Èas nelze promrhat ani ušetøit. Vdy je pouze teï. A chıše našeho ivota je vytvoøena z èinù, Vyvolenı.}
-{157}{}{No jo. Poslyš, u opravdu musím jít. Sbohem. }
-{158}{}{Víš, kdy si tu tak s tebou povídám, napadá mì, e by se èasem opravdu nemìlo tak plıtvat. Mìj se. }
-{159}{}{Ké by kadı z nás mìl trochu tvé moudrosti, ó velikı. Omlouvám se. Samozøejmì se o to hned postarám.}
-{160}{hak012}{I kdy si oblékneš pláš Vyvoleného, tvá temná duše jím bude vdy prosvítat.}
-{161}{}{ádám o odpuštìní, svatı mui. Jak mùu oèistit svoji duši?}
-{162}{}{Pøesnì tak, staøíku. A udìláš dobøe, kdy si to dobøe zapamatuješ.}
-{163}{}{U mì z tìch tvıch vástù bolí hlava. Mìj se.}
+{152}{hak010}{VÃ½bornÄ›! Å½ije v tobÄ› duch naÅ¡eho Zakladatele. DovolÃ­Å¡-li mu vyrÅ¯st, prostoupÃ­ tÄ› a tvÃ½mi prsty se znovu dotkne tvÃ¡Å™e tohoto svÄ›ta. Ale samozÅ™ejmÄ› za odmÄ›nu dostaneÅ¡ vÃ­c neÅ¾ jen toto ponauÄenÃ­.}
+{153}{}{To znÃ­ dobÅ™e. AÅ¾ s tÃ­m skonÄÃ­m, vrÃ¡tÃ­m se.}
+{154}{}{TakÅ¾e to znamenÃ¡, Å¾e dostanu nÄ›co opravdu cennÃ©ho. To mi staÄÃ­. UvidÃ­me se pozdÄ›ji.}
+{155}{}{ZdÃ¡ se, Å¾e tentokrÃ¡t jsi to s tÃ­m tvÃ½m zÃ¡jmem o Å¡lechtitelstvÃ­ trochu pÅ™epÃ­skl. A protoÅ¾e nechci dopadnout jako ty, tak si radÄ›ji najdu jinÃ½ konÃ­Äek neÅ¾ je zahrÃ¡dkaÅ™enÃ­.}
+{156}{hak011}{ÄŒas nelze promrhat ani uÅ¡etÅ™it. VÅ¾dy je pouze teÄ. A chÃ½Å¡e naÅ¡eho Å¾ivota je vytvoÅ™ena z ÄinÅ¯, VyvolenÃ½.}
+{157}{}{No jo. PoslyÅ¡, uÅ¾ opravdu musÃ­m jÃ­t. Sbohem. }
+{158}{}{VÃ­Å¡, kdyÅ¾ si tu tak s tebou povÃ­dÃ¡m, napadÃ¡ mÄ›, Å¾e by se Äasem opravdu nemÄ›lo tak plÃ½tvat. MÄ›j se. }
+{159}{}{KÃ©Å¾ by kaÅ¾dÃ½ z nÃ¡s mÄ›l trochu tvÃ© moudrosti, Ã³ velikÃ½. OmlouvÃ¡m se. SamozÅ™ejmÄ› se o to hned postarÃ¡m.}
+{160}{hak012}{I kdyÅ¾ si oblÃ©kneÅ¡ plÃ¡Å¡Å¥ VyvolenÃ©ho, tvÃ¡ temnÃ¡ duÅ¡e jÃ­m bude vÅ¾dy prosvÃ­tat.}
+{161}{}{Å½Ã¡dÃ¡m o odpuÅ¡tÄ›nÃ­, svatÃ½ muÅ¾i. Jak mÅ¯Å¾u oÄistit svoji duÅ¡i?}
+{162}{}{PÅ™esnÄ› tak, staÅ™Ã­ku. A udÄ›lÃ¡Å¡ dobÅ™e, kdyÅ¾ si to dobÅ™e zapamatujeÅ¡.}
+{163}{}{UÅ¾ mÄ› z tÄ›ch tvÃ½ch Å¾vÃ¡stÅ¯ bolÃ­ hlava. MÄ›j se.}
 {164}{}{Booka!}
-{165}{hak013}{Svou duši nejlépe oèistíš tak, e vymıtíš démony z mé zahrady.}
-{166}{}{Jako by se stalo, ó moudrı. A s tím skonèím, pøijdu si pro tvé odpuštìní.}
-{167}{}{Snaíš se mi touhle litanií øíct, e kdy ti vypleju zahradu, tak to bude dobré pro moji nesmrtelnou duši? No dobøe, zkusím to.}
-{168}{}{Mì se moje duše líbí taková, jaká je. Sbohem.}
-{169}{}{To víš, e jo. U se na to tøesu. Mìj se.}
-{170}{hak014}{Vyvolenı, zas jednou je celistvost tvého bytí jako zemì poehnaná.}
-{171}{}{Díky.}
-{172}{}{Myslíš jako, e jsem na tom teï líp, jo?}
-{173}{hak015}{Stálé opakování jedné èinnosti ti vštípí smysl pro dokonalost. Tohle musíš pochopit, Vyvolenı.}
-{174}{}{Poèkat, chceš mi tím øíct, e mnì je lépe a tobì to taky udìlalo dobøe, je to tak? Díky.}
-{175}{}{Jsi moudrı a laskavı, Svatı mui.}
-{176}{hak017}{Vítej, Zakladatelovo Sémì. Jak se mohu dotknout vyvolené duše?}
-{177}{}{Eh, kde pøesnì leí ta tvoje zahrada?}
-{178}{}{Mám zranìní. Mùeš mì vyléèit?}
+{165}{hak013}{Svou duÅ¡i nejlÃ©pe oÄistÃ­Å¡ tak, Å¾e vymÃ½tÃ­Å¡ dÃ©mony z mÃ© zahrady.}
+{166}{}{Jako by se stalo, Ã³ moudrÃ½. AÅ¾ s tÃ­m skonÄÃ­m, pÅ™ijdu si pro tvÃ© odpuÅ¡tÄ›nÃ­.}
+{167}{}{SnaÅ¾Ã­Å¡ se mi touhle litaniÃ­ Å™Ã­ct, Å¾e kdyÅ¾ ti vypleju zahradu, tak to bude dobrÃ© pro moji nesmrtelnou duÅ¡i? No dobÅ™e, zkusÃ­m to.}
+{168}{}{MÄ› se moje duÅ¡e lÃ­bÃ­ takovÃ¡, jakÃ¡ je. Sbohem.}
+{169}{}{To vÃ­Å¡, Å¾e jo. UÅ¾ se na to tÅ™esu. MÄ›j se.}
+{170}{hak014}{VyvolenÃ½, zas jednou je celistvost tvÃ©ho bytÃ­ jako zemÄ› poÅ¾ehnanÃ¡.}
+{171}{}{DÃ­ky.}
+{172}{}{MyslÃ­Å¡ jako, Å¾e jsem na tom teÄ lÃ­p, jo?}
+{173}{hak015}{StÃ¡lÃ© opakovÃ¡nÃ­ jednÃ© Äinnosti ti vÅ¡tÃ­pÃ­ smysl pro dokonalost. Tohle musÃ­Å¡ pochopit, VyvolenÃ½.}
+{174}{}{PoÄkat, chceÅ¡ mi tÃ­m Å™Ã­ct, Å¾e mnÄ› je lÃ©pe a tobÄ› to taky udÄ›lalo dobÅ™e, je to tak? DÃ­ky.}
+{175}{}{Jsi moudrÃ½ a laskavÃ½, SvatÃ½ muÅ¾i.}
+{176}{hak017}{VÃ­tej, Zakladatelovo SÃ©mÄ›. Jak se mohu dotknout vyvolenÃ© duÅ¡e?}
+{177}{}{Eh, kde pÅ™esnÄ› leÅ¾Ã­ ta tvoje zahrada?}
+{178}{}{MÃ¡m zranÄ›nÃ­. MÅ¯Å¾eÅ¡ mÄ› vylÃ©Äit?}
 {179}{}{Ale nic. Sbohem.}
-{180}{hak018}{Á. Navracíš svìtu ducha Zakladatele a úsmìv na tváøi starého mue. Za odmìnu ti dám léèivı prášek. Pamatuj si, stejnì tak jako léèí tìlo, zamluje i mysl.}
-{181}{}{Díky.}
-{182}{hak018a}{A kdykoliv mi pøineseš kvìtinu Broc a koøen Xander, namíchám ti z nich léèivı prášek. A vdy kráèíš po pravıch cestách a tvé srdce nech následuje Zakladatelùv odìv.}
-{183}{}{A kde tyhle dvì vìci najdu?}
-{184}{}{Díky.}
-{185}{}{Skoro lituju, e musím jít, protoe mi tvá slova koneènì zaèínají dávat smysl. Mìj se.}
-{186}{hak019}{Ach, Vyvolenı, má zahrada u je v poøádku. A co tvá?}
-{187}{}{Jsem v pohodì.}
-{188}{}{Potøebuju uzdravit.}
-{189}{}{Kde jsi øíkal, e najdu ty kytky?}
-{190}{}{Ale já pøece nemám ádnou zahradu. O èem to tu doprèic zase meleš?}
-{191}{}{Mùeš mi udìlat trochu léèivého prášku?}
-{192}{}{Zapomeò na to. U musím jít.}
+{180}{hak018}{Ã. NavracÃ­Å¡ svÄ›tu ducha Zakladatele a ÃºsmÄ›v na tvÃ¡Å™i starÃ©ho muÅ¾e. Za odmÄ›nu ti dÃ¡m lÃ©ÄivÃ½ prÃ¡Å¡ek. Pamatuj si, stejnÄ› tak jako lÃ©ÄÃ­ tÄ›lo, zamlÅ¾uje i mysl.}
+{181}{}{DÃ­ky.}
+{182}{hak018a}{A kdykoliv mi pÅ™ineseÅ¡ kvÄ›tinu Broc a koÅ™en Xander, namÃ­chÃ¡m ti z nich lÃ©ÄivÃ½ prÃ¡Å¡ek. AÅ¥ vÅ¾dy krÃ¡ÄÃ­Å¡ po pravÃ½ch cestÃ¡ch a tvÃ© srdce nechÅ¥ nÃ¡sleduje ZakladatelÅ¯v odÄ›v.}
+{183}{}{A kde tyhle dvÄ› vÄ›ci najdu?}
+{184}{}{DÃ­ky.}
+{185}{}{Skoro lituju, Å¾e musÃ­m jÃ­t, protoÅ¾e mi tvÃ¡ slova koneÄnÄ› zaÄÃ­najÃ­ dÃ¡vat smysl. MÄ›j se.}
+{186}{hak019}{Ach, VyvolenÃ½, mÃ¡ zahrada uÅ¾ je v poÅ™Ã¡dku. A co tvÃ¡?}
+{187}{}{Jsem v pohodÄ›.}
+{188}{}{PotÅ™ebuju uzdravit.}
+{189}{}{Kde jsi Å™Ã­kal, Å¾e najdu ty kytky?}
+{190}{}{Ale jÃ¡ pÅ™ece nemÃ¡m Å¾Ã¡dnou zahradu. O Äem to tu doprÄic zase meleÅ¡?}
+{191}{}{MÅ¯Å¾eÅ¡ mi udÄ›lat trochu lÃ©ÄivÃ©ho prÃ¡Å¡ku?}
+{192}{}{ZapomeÅˆ na to. UÅ¾ musÃ­m jÃ­t.}
 {193}{}{He?}
-{194}{}{Uuuf! Béhéhé!}
-{195}{hak020}{Tvá slova mì naplòují radostí. Bìda, bohové u mi šeptají do uší. Sbohem.}
+{194}{}{Uuuf! BÃ©hÃ©hÃ©!}
+{195}{hak020}{TvÃ¡ slova mÄ› naplÅˆujÃ­ radostÃ­. BÄ›da, bohovÃ© uÅ¾ mi Å¡eptajÃ­ do uÅ¡Ã­. Sbohem.}
 {196}{}{Nashle.}
-{197}{}{Poøád mícháme bylinky? Nashle.}
-{198}{hak021}{Kadı z nás má svou zahradu. Ké nikdy neztratíš z oèí svùj cíl. A teï sbohem. Nesmím se opozdit na schùzku s bohy.}
-{199}{}{Zatím.}
-{200}{}{Vsadím se, e si ty své bohy nosíš poøád s sebou. Sbohem.}
-{201}{hak022}{Pohlédni k severu, Vyvolenı, a cesta se ti otevøe.}
-{202}{}{Dobøe. Díky.}
-{203}{hak023}{Je mi ctí poslouit Vyvolenému.}
-{204}{hak024}{Je to stejné jako se ivotem. Ze dvou vznikne tøetí. Pro vırobu léèivého prášku potøebuješ obojí, kvìtinu Broc i koøen Xander.}
-{205}{}{Aha. Díky}
-{206}{}{Pú. Méïa.}
-{207}{hak025}{Pøeji ti, a ho nikdy nepotøebuješ.}
-{208}{}{Dobøe. Díky.}
+{197}{}{PoÅ™Ã¡d mÃ­chÃ¡me bylinky? Nashle.}
+{198}{hak021}{KaÅ¾dÃ½ z nÃ¡s mÃ¡ svou zahradu. KÃ©Å¾ nikdy neztratÃ­Å¡ z oÄÃ­ svÅ¯j cÃ­l. A teÄ sbohem. NesmÃ­m se opozdit na schÅ¯zku s bohy.}
+{199}{}{ZatÃ­m.}
+{200}{}{VsadÃ­m se, Å¾e si ty svÃ© bohy nosÃ­Å¡ poÅ™Ã¡d s sebou. Sbohem.}
+{201}{hak022}{PohlÃ©dni k severu, VyvolenÃ½, a cesta se ti otevÅ™e.}
+{202}{}{DobÅ™e. DÃ­ky.}
+{203}{hak023}{Je mi ctÃ­ poslouÅ¾it VyvolenÃ©mu.}
+{204}{hak024}{Je to stejnÃ© jako se Å¾ivotem. Ze dvou vznikne tÅ™etÃ­. Pro vÃ½robu lÃ©ÄivÃ©ho prÃ¡Å¡ku potÅ™ebujeÅ¡ obojÃ­, kvÄ›tinu Broc i koÅ™en Xander.}
+{205}{}{Aha. DÃ­ky}
+{206}{}{PÃº. MÃ©Äa.}
+{207}{hak025}{PÅ™eji ti, aÅ¥ ho nikdy nepotÅ™ebujeÅ¡.}
+{208}{}{DobÅ™e. DÃ­ky.}
 {209}{}{Uch!}
-{210}{hak026}{Jsi v poøádku.}
-{211}{}{Díky.}
-{212}{}{ádné pouèky? ádné nesrozumitelné vásty? Jsi v poøádku?}
-{213}{hak027}{Vítej, Vyvolenı. Potìš nás zprávou, e bude posvátnı GECK brzy nalezen. Naše vesnice strádá, naše potøeby jsou velké a náš èas se krátí.}
+{210}{hak026}{Jsi v poÅ™Ã¡dku.}
+{211}{}{DÃ­ky.}
+{212}{}{Å½Ã¡dnÃ© pouÄky? Å½Ã¡dnÃ© nesrozumitelnÃ© Å¾vÃ¡sty? Jsi v poÅ™Ã¡dku?}
+{213}{hak027}{VÃ­tej, VyvolenÃ½. PotÄ›Å¡ nÃ¡s zprÃ¡vou, Å¾e bude posvÃ¡tnÃ½ GECK brzy nalezen. NaÅ¡e vesnice strÃ¡dÃ¡, naÅ¡e potÅ™eby jsou velkÃ© a nÃ¡Å¡ Äas se krÃ¡tÃ­.}
 {214}{}{Ne-e.}
-{215}{}{A tvoje schopnost mluvit normálnì stále neexistuje. Poøád na tom dìlám.}
+{215}{}{A tvoje schopnost mluvit normÃ¡lnÄ› stÃ¡le neexistuje. PoÅ™Ã¡d na tom dÄ›lÃ¡m.}
 {216}{}{Pracuju na tom. }
-{217}{}{Dej mi pokoj, starouši. Dìlám co mùu.}
-{218}{}{Stále ho hledám, ó Svatı. Doufám, e GECK brzy získám.}
-{219}{hak028a}{Nech se zemì stane poduškou pro tvé kroky.}
-{220}{hak028b}{Nech voda zklidní tvou cestu.}
-{221}{hak028c}{Nech tì vítr zavede k tvému cíli.}
-{222}{hak028d}{A nech ti oheò pøipaluje zadek, dokud nesplníš svùj úkol.}
-{223}{}{Díky.}
-{224}{}{Co jsi to øíkal?!}
+{217}{}{Dej mi pokoj, starouÅ¡i. DÄ›lÃ¡m co mÅ¯Å¾u.}
+{218}{}{StÃ¡le ho hledÃ¡m, Ã³ SvatÃ½. DoufÃ¡m, Å¾e GECK brzy zÃ­skÃ¡m.}
+{219}{hak028a}{NechÅ¥ se zemÄ› stane poduÅ¡kou pro tvÃ© kroky.}
+{220}{hak028b}{NechÅ¥ voda zklidnÃ­ tvou cestu.}
+{221}{hak028c}{NechÅ¥ tÄ› vÃ­tr zavede k tvÃ©mu cÃ­li.}
+{222}{hak028d}{A nechÅ¥ ti oheÅˆ pÅ™ipaluje zadek, dokud nesplnÃ­Å¡ svÅ¯j Ãºkol.}
+{223}{}{DÃ­ky.}
+{224}{}{Co jsi to Å™Ã­kal?!}
 {225}{}{Eh.}
 {226}{}{Co?!}
-{227}{hak029}{Vítej zpìt, Vyvolenı. Na tvé tváøi vidím, e spásnı GECK nám stále ještì nepatøí. Mìj vytrvalost mravence nebo naše zásoby tají jako sníh na slunci. Jsi naše poslední nadìje.}
+{227}{hak029}{VÃ­tej zpÄ›t, VyvolenÃ½. Na tvÃ© tvÃ¡Å™i vidÃ­m, Å¾e spÃ¡snÃ½ GECK nÃ¡m stÃ¡le jeÅ¡tÄ› nepatÅ™Ã­. MÄ›j vytrvalost mravence neboÅ¥ naÅ¡e zÃ¡soby tajÃ­ jako snÃ­h na slunci. Jsi naÅ¡e poslednÃ­ nadÄ›je.}
 {228}{}{Aha.}
-{229}{}{Snaím se. A rád bych vidìl mravence, kterı ušel tolik mil jako já.}
-{230}{}{Dìlám co mùu.}
-{231}{}{Zdvojnásobím své úsilí, svatosti. Nenechám vás padnout.}
-{232}{}{No jo. U mì nudí tohleto poslouchat.}
-{233}{hak030}{Vyvolenı, naše vesnice je zoufalá. Dìti u tıden nejedly. Prosím, u moc dlouho nevydríme.}
+{229}{}{SnaÅ¾Ã­m se. A rÃ¡d bych vidÄ›l mravence, kterÃ½ uÅ¡el tolik mil jako jÃ¡.}
+{230}{}{DÄ›lÃ¡m co mÅ¯Å¾u.}
+{231}{}{ZdvojnÃ¡sobÃ­m svÃ© ÃºsilÃ­, svatosti. NenechÃ¡m vÃ¡s padnout.}
+{232}{}{No jo. UÅ¾ mÄ› nudÃ­ tohleto poslouchat.}
+{233}{hak030}{VyvolenÃ½, naÅ¡e vesnice je zoufalÃ¡. DÄ›ti uÅ¾ tÃ½den nejedly. ProsÃ­m, uÅ¾ moc dlouho nevydrÅ¾Ã­me.}
 {234}{}{Aha.}
-{235}{}{Snaím se. Já se snaím! Dejte mi pokoj!}
-{236}{}{Já GECK najdu, svatosti. Máš moje slovo.}
-{237}{}{Udìlám všechno, abych GECK našel.}
-{238}{hak031}{Vyvolenı, v hodinách èasu zbıvá u jen nìkolik posledních zrníèek. Prosím. Pøines nám rychle GECK a dej naší vesnici tolik budoucnosti, jako je písku na plái u oceánu. Pospìš si, dokud nespadne poslední zrnko.}
+{235}{}{SnaÅ¾Ã­m se. JÃ¡ se snaÅ¾Ã­m! Dejte mi pokoj!}
+{236}{}{JÃ¡ GECK najdu, svatosti. MÃ¡Å¡ moje slovo.}
+{237}{}{UdÄ›lÃ¡m vÅ¡echno, abych GECK naÅ¡el.}
+{238}{hak031}{VyvolenÃ½, v hodinÃ¡ch Äasu zbÃ½vÃ¡ uÅ¾ jen nÄ›kolik poslednÃ­ch zrnÃ­Äek. ProsÃ­m. PÅ™ines nÃ¡m rychle GECK a dej naÅ¡Ã­ vesnici tolik budoucnosti, jako je pÃ­sku na plÃ¡Å¾i u oceÃ¡nu. PospÄ›Å¡ si, dokud nespadne poslednÃ­ zrnko.}
 {239}{}{Aha.}
-{240}{}{Jasnì. Jdu ho hledat.}
-{241}{}{ivot je jak plá, co?}
-{242}{}{Já GECK najdu, svatosti. Nenechám náš lid padnout.}
-{243}{hak032}{Vyvolenı, duchové našich pøedkù mì pøivedli do svìta snù, odkud se mohu dotknout tvé mysli. Naše vesnice strádá bez svatého GECKu. Tak jako otec bdí nad svımi dìtmi, i ty tøímáš ve svıch rukou naše ivoty.}
-{244}{hak033}{Znovu se tì mùj duch dotıká z prázdnoty, Vyvolenı. Naše úroda vadne, naše zásoby mizí. Vra se k nám a pøines GECK. Tvùj neúspìch je naším ztracenım svìtlem.}
-{245}{hak034}{Vyvolenı, vesnice hyne. Je stále tìší dotknout se tvıch snù. Musíš si pospíšit, jinak my všichni...}
-{246}{hak035}{Vyvolenı? Vyvolenı? Slyšíš mì? Vesnice umírá. Celá naše budoucnost umírá s ní. Zbıvá nám u jen málo èasu. Spìchej. Spìchej...}
-{247}{hak101}{Vyvolenı, stíny z hlubin temnot dorazily pøed tebou.}
-{248}{}{Jùùùù!}
+{240}{}{JasnÄ›. Jdu ho hledat.}
+{241}{}{Å½ivot je jak plÃ¡Å¾, co?}
+{242}{}{JÃ¡ GECK najdu, svatosti. NenechÃ¡m nÃ¡Å¡ lid padnout.}
+{243}{hak032}{VyvolenÃ½, duchovÃ© naÅ¡ich pÅ™edkÅ¯ mÄ› pÅ™ivedli do svÄ›ta snÅ¯, odkud se mohu dotknout tvÃ© mysli. NaÅ¡e vesnice strÃ¡dÃ¡ bez svatÃ©ho GECKu. Tak jako otec bdÃ­ nad svÃ½mi dÄ›tmi, i ty tÅ™Ã­mÃ¡Å¡ ve svÃ½ch rukou naÅ¡e Å¾ivoty.}
+{244}{hak033}{Znovu se tÄ› mÅ¯j duch dotÃ½kÃ¡ z prÃ¡zdnoty, VyvolenÃ½. NaÅ¡e Ãºroda vadne, naÅ¡e zÃ¡soby mizÃ­. VraÅ¥ se k nÃ¡m a pÅ™ines GECK. TvÅ¯j neÃºspÄ›ch je naÅ¡Ã­m ztracenÃ½m svÄ›tlem.}
+{245}{hak034}{VyvolenÃ½, vesnice hyne. Je stÃ¡le tÄ›Å¾Å¡Ã­ dotknout se tvÃ½ch snÅ¯. MusÃ­Å¡ si pospÃ­Å¡it, jinak my vÅ¡ichni...}
+{246}{hak035}{VyvolenÃ½? VyvolenÃ½? SlyÅ¡Ã­Å¡ mÄ›? Vesnice umÃ­rÃ¡. CelÃ¡ naÅ¡e budoucnost umÃ­rÃ¡ s nÃ­. ZbÃ½vÃ¡ nÃ¡m uÅ¾ jen mÃ¡lo Äasu. SpÄ›chej. SpÄ›chej...}
+{247}{hak101}{VyvolenÃ½, stÃ­ny z hlubin temnot dorazily pÅ™ed tebou.}
+{248}{}{JÅ¯Å¯Å¯Å¯!}
 {249}{}{Co se stalo?}
-{250}{}{Vypadáš špatnì. Uka, pomùu ti.}
-{251}{hak102}{Dítì Pøírody, jak jsme jen mohli naloit takové bøímì na tvá ramena? (povzdech) Tvoji lidé byli uneseni.}
+{250}{}{VypadÃ¡Å¡ Å¡patnÄ›. UkaÅ¾, pomÅ¯Å¾u ti.}
+{251}{hak102}{DÃ­tÄ› PÅ™Ã­rody, jak jsme jen mohli naloÅ¾it takovÃ© bÅ™Ã­mÄ› na tvÃ¡ ramena? (povzdech) Tvoji lidÃ© byli uneseni.}
 {252}{}{Ehh?}
-{253}{hak103}{Ano. Jsou pryè. Mnoho temnıch duší sem pøišlo. Pøilétly na eleznıch ptácích jak hejno hladovıch kobylek. Své zlo skryly pod lesklou kùí. }
-{254}{}{Jù! Lesklé. Hezké!}
-{255}{hak104}{Ne! Lesklé nebıt hezké! Unesli naše lidi a vzali je nìkam na jihozápad.}
-{256}{}{Jù.}
-{257}{hak105}{Ano. Velkı smutek a bolest. Proto jsem zùstal mezi dvìma svìty, Vyvolenı. Zachraò naše lidi.}
+{253}{hak103}{Ano. Jsou pryÄ. Mnoho temnÃ½ch duÅ¡Ã­ sem pÅ™iÅ¡lo. PÅ™ilÃ©tly na Å¾eleznÃ½ch ptÃ¡cÃ­ch jak hejno hladovÃ½ch kobylek. SvÃ© zlo skryly pod lesklou kÅ¯Å¾Ã­. }
+{254}{}{JÅ¯! LesklÃ©. HezkÃ©!}
+{255}{hak104}{Ne! LesklÃ© nebÃ½t hezkÃ©! Unesli naÅ¡e lidi a vzali je nÄ›kam na jihozÃ¡pad.}
+{256}{}{JÅ¯.}
+{257}{hak105}{Ano. VelkÃ½ smutek a bolest. Proto jsem zÅ¯stal mezi dvÄ›ma svÄ›ty, VyvolenÃ½. ZachraÅˆ naÅ¡e lidi.}
 {258}{}{Eh?}
-{259}{hak106}{Vyvolenı, dovol prosím mım slovùm, a se dotknou tvé duše. Jdi na jihozápad. Jih a západ. Zachraò naše lidi. Zachraò je.}
+{259}{hak106}{VyvolenÃ½, dovol prosÃ­m mÃ½m slovÅ¯m, aÅ¥ se dotknou tvÃ© duÅ¡e. Jdi na jihozÃ¡pad. Jih a zÃ¡pad. ZachraÅˆ naÅ¡e lidi. ZachraÅˆ je.}
 {260}{}{E-he...}
-{261}{hak107}{Díkybohu. Teï se má duše mùe koneènì pøipojit k vìèné písni èasu. Šastnou cestu, Vyvolenı.}
-{262}{}{Mám jít?}
+{261}{hak107}{DÃ­kybohu. TeÄ se mÃ¡ duÅ¡e mÅ¯Å¾e koneÄnÄ› pÅ™ipojit k vÄ›ÄnÃ© pÃ­sni Äasu. Å Å¥astnou cestu, VyvolenÃ½.}
+{262}{}{MÃ¡m jÃ­t?}
 {263}{hak108}{Jdi!...}
-{264}{}{Pápá.}
-{265}{hak109}{Temní pøišli. Všechny zajali.}
-{266}{}{Temní? Koho tím myslíš?}
-{267}{hak110}{Nejdøív pøišla vìtrná bouøe. A z ní vylétli ohromní elezní draci, kteøí plivali oheò. Z bøicha tìch oblud pak vylezli zlí mui a pøinesli smrt našim váleèníkùm.}
-{268}{}{Naši váleèníci je nedokázali zastavit?}
-{269}{hak112}{Náš duch byl silnı, ale naše kopí byla slabá. A ti ïáblové spálili naše váleèníky strašlivım pekelnım svìtlem.}
-{270}{}{Zabili všechny?}
-{271}{hak113}{Všichni jsou buï mrtví, nebo byli odvleèeni. Moje duše se vrátila do tohoto tìla jen proto, abych mohl zjevit pravdu Vyvolenému.}
-{272}{}{Co se stalo s tìmi, které odvedli?}
-{273}{hak114}{elezní draci je spolkli a poté se vrátili do vìtrù.}
-{274}{}{Hmm... a kterım smìrem odletìly ty vìtry, ve kterıch zmizeli ti draci?}
-{275}{hak115}{Copak jsi mì nikdy neposlouchal, kdy jsem tì kadoroènì uèil tanec vìtrnıch duchù? Na jih, samozøejmì.}
-{276}{}{Tvoje líèení byla tak ivá a mocná, velkı Hakunine, e jsem èasto zùstal stát zkoprnìlı údivem nad hloubkou a moudrostí tvıch slov.}
-{277}{}{Aha, tyhle vìtry. No jasnì. }
-{278}{hak116}{Ano, odlétli s jiním vìtrem. Vyslechl jsem rozhovor tìch temnıch duší. Chystali se nechat své elezné draky odpoèinout na místì zvaném Navarro døíve, ne pøekroèí velkou mísu slz naší Matky Zemì.}
-{279}{}{Co mám udìlat?}
-{280}{}{Mísu slz?}
-{281}{hak117}{Pro mì u nic, Vyvolenı. Musíš najít sídlo temnıch duší a zachránit naše lidi.}
-{282}{}{Zkusím to.}
-{283}{hak118}{Jsi Vyvolenı. Musíš to dokázat.}
+{264}{}{PÃ¡pÃ¡.}
+{265}{hak109}{TemnÃ­ pÅ™iÅ¡li. VÅ¡echny zajali.}
+{266}{}{TemnÃ­? Koho tÃ­m myslÃ­Å¡?}
+{267}{hak110}{NejdÅ™Ã­v pÅ™iÅ¡la vÄ›trnÃ¡ bouÅ™e. A z nÃ­ vylÃ©tli ohromnÃ­ Å¾eleznÃ­ draci, kteÅ™Ã­ plivali oheÅˆ. Z bÅ™icha tÄ›ch oblud pak vylezli zlÃ­ muÅ¾i a pÅ™inesli smrt naÅ¡im vÃ¡leÄnÃ­kÅ¯m.}
+{268}{}{NaÅ¡i vÃ¡leÄnÃ­ci je nedokÃ¡zali zastavit?}
+{269}{hak112}{NÃ¡Å¡ duch byl silnÃ½, ale naÅ¡e kopÃ­ byla slabÃ¡. A ti ÄÃ¡blovÃ© spÃ¡lili naÅ¡e vÃ¡leÄnÃ­ky straÅ¡livÃ½m pekelnÃ½m svÄ›tlem.}
+{270}{}{Zabili vÅ¡echny?}
+{271}{hak113}{VÅ¡ichni jsou buÄ mrtvÃ­, nebo byli odvleÄeni. Moje duÅ¡e se vrÃ¡tila do tohoto tÄ›la jen proto, abych mohl zjevit pravdu VyvolenÃ©mu.}
+{272}{}{Co se stalo s tÄ›mi, kterÃ© odvedli?}
+{273}{hak114}{Å½eleznÃ­ draci je spolkli a potÃ© se vrÃ¡tili do vÄ›trÅ¯.}
+{274}{}{Hmm... a kterÃ½m smÄ›rem odletÄ›ly ty vÄ›try, ve kterÃ½ch zmizeli ti draci?}
+{275}{hak115}{Copak jsi mÄ› nikdy neposlouchal, kdyÅ¾ jsem tÄ› kaÅ¾doroÄnÄ› uÄil tanec vÄ›trnÃ½ch duchÅ¯? Na jih, samozÅ™ejmÄ›.}
+{276}{}{Tvoje lÃ­ÄenÃ­ byla tak Å¾ivÃ¡ a mocnÃ¡, velkÃ½ Hakunine, Å¾e jsem Äasto zÅ¯stal stÃ¡t zkoprnÄ›lÃ½ Ãºdivem nad hloubkou a moudrostÃ­ tvÃ½ch slov.}
+{277}{}{Aha, tyhle vÄ›try. No jasnÄ›. }
+{278}{hak116}{Ano, odlÃ©tli s jiÅ¾nÃ­m vÄ›trem. Vyslechl jsem rozhovor tÄ›ch temnÃ½ch duÅ¡Ã­. Chystali se nechat svÃ© Å¾eleznÃ© draky odpoÄinout na mÃ­stÄ› zvanÃ©m Navarro dÅ™Ã­ve, neÅ¾ pÅ™ekroÄÃ­ velkou mÃ­su slz naÅ¡Ã­ Matky ZemÄ›.}
+{279}{}{Co mÃ¡m udÄ›lat?}
+{280}{}{MÃ­su slz?}
+{281}{hak117}{Pro mÄ› uÅ¾ nic, VyvolenÃ½. MusÃ­Å¡ najÃ­t sÃ­dlo temnÃ½ch duÅ¡Ã­ a zachrÃ¡nit naÅ¡e lidi.}
+{282}{}{ZkusÃ­m to.}
+{283}{hak118}{Jsi VyvolenÃ½. MusÃ­Å¡ to dokÃ¡zat.}
 {284}{}{Hakunine?}
-{285}{}{To je poprvé, co rozumím tomu, co jsi øekl.}
-{286}{hak120}{Oceán slz, které Matka Zemì vyplakala pro své dìti.}
-{287}{}{Aha, tenhle oceán. A co mám teda udìlat?}
-{288}{hak121}{Podivná mlha jim ukradla jejich mysl a poslala je do øíše Spánku. Zlí pak chodili mezi spáèi, kteøí spali, ale nesnili.}
+{285}{}{To je poprvÃ©, co rozumÃ­m tomu, co jsi Å™ekl.}
+{286}{hak120}{OceÃ¡n slz, kterÃ© Matka ZemÄ› vyplakala pro svÃ© dÄ›ti.}
+{287}{}{Aha, tenhle oceÃ¡n. A co mÃ¡m teda udÄ›lat?}
+{288}{hak121}{PodivnÃ¡ mlha jim ukradla jejich mysl a poslala je do Å™Ã­Å¡e SpÃ¡nku. ZlÃ­ pak chodili mezi spÃ¡Äi, kteÅ™Ã­ spali, ale nesnili.}
 {289}{}{A potom?}
-{290}{hak122}{Pøíliš mnoho let a pøíliš mnoho zranìní, Vyvolenı. Teï mì musíš poslouchat.}
-{291}{}{Tak dobøe.}
-{300}{}{Ti, kteøí kradou, nesou tìké bøímì. Pamatuj na to, Vyvolenı.}
-{301}{}{Nyní musíš zaplatit za své høíchy, Vyvolenı.}
+{290}{hak122}{PÅ™Ã­liÅ¡ mnoho let a pÅ™Ã­liÅ¡ mnoho zranÄ›nÃ­, VyvolenÃ½. TeÄ mÄ› musÃ­Å¡ poslouchat.}
+{291}{}{Tak dobÅ™e.}
+{300}{}{Ti, kteÅ™Ã­ kradou, nesou tÄ›Å¾kÃ© bÅ™Ã­mÄ›. Pamatuj na to, VyvolenÃ½.}
+{301}{}{NynÃ­ musÃ­Å¡ zaplatit za svÃ© hÅ™Ã­chy, VyvolenÃ½.}

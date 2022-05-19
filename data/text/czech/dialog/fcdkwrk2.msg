@@ -1,41 +1,41 @@
-{100}{}{Vidíš pøístavního dìlníka. Kdy se pøiblííš, podívá se na tebe.}
-{101}{}{Vidíš utrápeného, pøístavního dìlníka. Jeho alem naplnìné oèi si tì zbìnì prohlédnou, kdy se pøiblííš.}
-{200}{}{(Zamumlá si pro sebe.) Ach jo, co zlého provedl chudák Meng ve svém minulém ivotì, e se na nìho lepí taková smùla? Teï ke mnì pøišel lao wai. Co dobrého mùe pøinést? Samozøejmì e nic, vùbec nic...}
-{201}{}{Proè nenecháš chudáka Menga na pokoji? (Zamumlá si pro sebe.) Ne e bych nìkdy poznal, co je to klid. A pokud ano, tak u je dávno zapomenut, jako vzdálenı sen...}
-{202}{}{Eh, zdá se, e jdu ve špatnou chvíli. Nashle.}
-{203}{}{Co máš za problém, mumlale?}
-{204}{}{Vidím, e jsi kvùli nìèemu rozrušenı. Tøeba ti mùu nìjak pomoct.}
-{210}{}{Mùj problém? (Zhluboka se zasmìje.) Loa wai, nepøej si znát mùj problém. Zaít takové utrpení, jako jsem zail já, je jako zapomenout na dìtskı smích nebo vøelé obìtí milovaného. Ne, vìø mi, nechceš nahlédnout do mého osobního pekla.}
-{211}{}{U jsem zail spoustu strašnıch vìcí. Jsem si jist, e a u máš jakıkoliv problém, dokáu ho vyøešit.}
-{212}{}{Ty si myslíš, e jsou *tvoje* problémy veliké? Vsadím se, e se nedají *srovnat* s tím, èím jsem musel projít já.}
-{213}{}{Je mi líto, e byl k tobì ivot krutı, ale moná se ti uleví, kdy si o tom promluvíš. Pokud chceš, vyslechnu tì.}
-{214}{}{Jak myslíš, pane Melodramatiku. Jdu pryè, ne z tebe chytnu depresi. Nashle.}
-{220}{}{Fajn. Chceš znát mùj problém, tak já ti ho povím. Pøed dvìma roky, mùj bratr, kterı je mi velmi podobnı, mìl aféru s dìvèetem šéfa místního gangu. Ten se o tom dozvìdìl a mùj bratr utekl z mìsta. Gang místo nìj chytil mì a protoe si mysleli, e jsem mùj bratr, tak mi za trest usekli penis. Teï chèiju skrz hadièku.}
+{100}{}{VidÃ­Å¡ pÅ™Ã­stavnÃ­ho dÄ›lnÃ­ka. KdyÅ¾ se pÅ™iblÃ­Å¾Ã­Å¡, podÃ­vÃ¡ se na tebe.}
+{101}{}{VidÃ­Å¡ utrÃ¡penÃ©ho, pÅ™Ã­stavnÃ­ho dÄ›lnÃ­ka. Jeho Å¾alem naplnÄ›nÃ© oÄi si tÄ› zbÄ›Å¾nÄ› prohlÃ©dnou, kdyÅ¾ se pÅ™iblÃ­Å¾Ã­Å¡.}
+{200}{}{(ZamumlÃ¡ si pro sebe.) Ach jo, co zlÃ©ho provedl chudÃ¡k Meng ve svÃ©m minulÃ©m Å¾ivotÄ›, Å¾e se na nÄ›ho lepÃ­ takovÃ¡ smÅ¯la? TeÄ ke mnÄ› pÅ™iÅ¡el lao wai. Co dobrÃ©ho mÅ¯Å¾e pÅ™inÃ©st? SamozÅ™ejmÄ› Å¾e nic, vÅ¯bec nic...}
+{201}{}{ProÄ nenechÃ¡Å¡ chudÃ¡ka Menga na pokoji? (ZamumlÃ¡ si pro sebe.) Ne Å¾e bych nÄ›kdy poznal, co je to klid. A pokud ano, tak uÅ¾ je dÃ¡vno zapomenut, jako vzdÃ¡lenÃ½ sen...}
+{202}{}{Eh, zdÃ¡ se, Å¾e jdu ve Å¡patnou chvÃ­li. Nashle.}
+{203}{}{Co mÃ¡Å¡ za problÃ©m, mumlale?}
+{204}{}{VidÃ­m, Å¾e jsi kvÅ¯li nÄ›Äemu rozruÅ¡enÃ½. TÅ™eba ti mÅ¯Å¾u nÄ›jak pomoct.}
+{210}{}{MÅ¯j problÃ©m? (Zhluboka se zasmÄ›je.) Loa wai, nepÅ™ej si znÃ¡t mÅ¯j problÃ©m. ZaÅ¾Ã­t takovÃ© utrpenÃ­, jako jsem zaÅ¾il jÃ¡, je jako zapomenout na dÄ›tskÃ½ smÃ­ch nebo vÅ™elÃ© obÄ›tÃ­ milovanÃ©ho. Ne, vÄ›Å™ mi, nechceÅ¡ nahlÃ©dnout do mÃ©ho osobnÃ­ho pekla.}
+{211}{}{UÅ¾ jsem zaÅ¾il spoustu straÅ¡nÃ½ch vÄ›cÃ­. Jsem si jist, Å¾e aÅ¥ uÅ¾ mÃ¡Å¡ jakÃ½koliv problÃ©m, dokÃ¡Å¾u ho vyÅ™eÅ¡it.}
+{212}{}{Ty si myslÃ­Å¡, Å¾e jsou *tvoje* problÃ©my velikÃ©? VsadÃ­m se, Å¾e se nedajÃ­ *srovnat* s tÃ­m, ÄÃ­m jsem musel projÃ­t jÃ¡.}
+{213}{}{Je mi lÃ­to, Å¾e byl k tobÄ› Å¾ivot krutÃ½, ale moÅ¾nÃ¡ se ti ulevÃ­, kdyÅ¾ si o tom promluvÃ­Å¡. Pokud chceÅ¡, vyslechnu tÄ›.}
+{214}{}{Jak myslÃ­Å¡, pane Melodramatiku. Jdu pryÄ, neÅ¾ z tebe chytnu depresi. Nashle.}
+{220}{}{Fajn. ChceÅ¡ znÃ¡t mÅ¯j problÃ©m, tak jÃ¡ ti ho povÃ­m. PÅ™ed dvÄ›ma roky, mÅ¯j bratr, kterÃ½ je mi velmi podobnÃ½, mÄ›l afÃ©ru s dÄ›vÄetem Å¡Ã©fa mÃ­stnÃ­ho gangu. Ten se o tom dozvÄ›dÄ›l a mÅ¯j bratr utekl z mÄ›sta. Gang mÃ­sto nÄ›j chytil mÄ› a protoÅ¾e si mysleli, Å¾e jsem mÅ¯j bratr, tak mi za trest usekli penis. TeÄ chÄiju skrz hadiÄku.}
 {221}{}{Aha, no...}
-{230}{}{Ne, ne! Ještì jsem neskonèil. Potom mì má krásná dívka opustila, protoe u jsem nebyl "skuteènı mu" a nemohl ji uspokojit. Ona si pak vzala mého souseda, kterı je navíc mùj šéf. Take teï musím celı den pracovat, protoe mi neustále rozkazuje a posmívá se mi i s mımi spolupracovníky. A navíc teï musím kadou noc usínat, zatímco slyším, jak on souloí s dívkou, kterou jsem si mìl vzít za enu.}
-{231}{}{Hahaha! No do prdele, ty jsi ale smolaø. Proè to radìji neskoncuješ?}
-{232}{}{Já, eh, páni, nevím co øíct. To je strašnı pøíbìh.}
-{233}{}{Je mi líto, co se ti stalo, Mengu. ivot umí bıt krutı, ale vdycky se to mùe zlepšit. Bıt tebou, odstìhuju se nìkam pryè a najdu si jinou práci. Jinak se z toho nikdy nedostaneš.}
-{240}{}{Ano. Ano, to u jsem mìl udìlat dávno. Je to jedinı zpùsob, jak si zachovat trochu té cti, která mi ještì zbıvá. Dìkuji ti, lao wai. (Vezme si nù a podøízne si krk. Vidíš, jak rychle krvácí a umírá.)}
+{230}{}{Ne, ne! JeÅ¡tÄ› jsem neskonÄil. Potom mÄ› mÃ¡ krÃ¡snÃ¡ dÃ­vka opustila, protoÅ¾e uÅ¾ jsem nebyl "skuteÄnÃ½ muÅ¾" a nemohl ji uspokojit. Ona si pak vzala mÃ©ho souseda, kterÃ½ je navÃ­c mÅ¯j Å¡Ã©f. TakÅ¾e teÄ musÃ­m celÃ½ den pracovat, protoÅ¾e mi neustÃ¡le rozkazuje a posmÃ­vÃ¡ se mi i s mÃ½mi spolupracovnÃ­ky. A navÃ­c teÄ musÃ­m kaÅ¾dou noc usÃ­nat, zatÃ­mco slyÅ¡Ã­m, jak on souloÅ¾Ã­ s dÃ­vkou, kterou jsem si mÄ›l vzÃ­t za Å¾enu.}
+{231}{}{Hahaha! No do prdele, ty jsi ale smolaÅ™. ProÄ to radÄ›ji neskoncujeÅ¡?}
+{232}{}{JÃ¡, eh, pÃ¡ni, nevÃ­m co Å™Ã­ct. To je straÅ¡nÃ½ pÅ™Ã­bÄ›h.}
+{233}{}{Je mi lÃ­to, co se ti stalo, Mengu. Å½ivot umÃ­ bÃ½t krutÃ½, ale vÅ¾dycky se to mÅ¯Å¾e zlepÅ¡it. BÃ½t tebou, odstÄ›huju se nÄ›kam pryÄ a najdu si jinou prÃ¡ci. Jinak se z toho nikdy nedostaneÅ¡.}
+{240}{}{Ano. Ano, to uÅ¾ jsem mÄ›l udÄ›lat dÃ¡vno. Je to jedinÃ½ zpÅ¯sob, jak si zachovat trochu tÃ© cti, kterÃ¡ mi jeÅ¡tÄ› zbÃ½vÃ¡. DÄ›kuji ti, lao wai. (Vezme si nÅ¯Å¾ a podÅ™Ã­zne si krk. VidÃ­Å¡, jak rychle krvÃ¡cÃ­ a umÃ­rÃ¡.)}
 {241}{}{[KONEC]}
-{250}{}{Ano. Varoval jsem tì. Teï mì nech bıt. Nemám ti co øíct.}
+{250}{}{Ano. Varoval jsem tÄ›. TeÄ mÄ› nech bÃ½t. NemÃ¡m ti co Å™Ã­ct.}
 {251}{}{[KONEC]}
-{260}{}{Asi máš pravdu. Celı mùj ivot jsem nepoznal nic jiného ne Shi. Tady na mì èeká jen al. Ano, myslím, e bych se mìl odváit vyjít ven do svìta vstøíc novému osudu. I kdyby mi pustiny nenabídly nic jiného ne rychlou smrt, bude to poøád lepší ne zùstat tady. Dìkuji ti, lao wai.}
-{261}{}{Hodnì štìstí, Mengu. Doufám, e u nebudeš mít takovou smùlu.}
-{262}{}{Ne se zaèneš balit, bylo by moné se tì na nìco zeptat ohlednì Shi?}
-{270}{}{Proè ne? Ruším všechny vazby k Shi. Jejich tajemství teï pro mì nic neznamenají. Klidnì se ptej.}
-{271}{}{Co mi mùeš øíct o támhleté hlídané lodi? }
-{272}{}{Zapomeò na to. Hodnì štìstí v novém ivotì, Mengu.}
-{280}{}{Shi tu loï pouívají, aby se dostali k našemu spícímu stráci, ponorce.}
-{281}{}{Co víš o té ponorce?}
-{290}{}{Shi-Huang-Ti je ponorka, ve které sem pøipluli naši pøedci z daleka. Následkem Velké Války ztratila pohon a uvízla na mìlèinì v San Franciském zálivu. Kapitán Ye Li a jeho posádka se pak dostali do tohoto mìsta a zaloili to, z èeho se stala spoleènost Shi.}
-{291}{}{Zmínil ses o ní jako o "spícím stráci". Co jsi tím myslel?}
-{300}{}{Podobnì jako spící drak, jeho nozdry stále mùou chrlit smrtelnı oheò, tak i ponorka není bezbranná i pøesto, e se nemùe hıbat. Shi vyráeli potají k ponorce pod rouškou noci a pracovali na ní. Její zbranì byly znovu aktivovány a je témìø jisté, e dokáe znièit jakékoliv neèínské plavidlo, které se opováí proplout zálivem.}
-{301}{}{No, øeknìme èistì "hypoteticky", e by se ten velkı tanker pokusil vyplout...}
+{260}{}{Asi mÃ¡Å¡ pravdu. CelÃ½ mÅ¯j Å¾ivot jsem nepoznal nic jinÃ©ho neÅ¾ Shi. Tady na mÄ› ÄekÃ¡ jen Å¾al. Ano, myslÃ­m, Å¾e bych se mÄ›l odvÃ¡Å¾it vyjÃ­t ven do svÄ›ta vstÅ™Ã­c novÃ©mu osudu. I kdyby mi pustiny nenabÃ­dly nic jinÃ©ho neÅ¾ rychlou smrt, bude to poÅ™Ã¡d lepÅ¡Ã­ neÅ¾ zÅ¯stat tady. DÄ›kuji ti, lao wai.}
+{261}{}{HodnÄ› Å¡tÄ›stÃ­, Mengu. DoufÃ¡m, Å¾e uÅ¾ nebudeÅ¡ mÃ­t takovou smÅ¯lu.}
+{262}{}{NeÅ¾ se zaÄneÅ¡ balit, bylo by moÅ¾nÃ© se tÄ› na nÄ›co zeptat ohlednÄ› Shi?}
+{270}{}{ProÄ ne? RuÅ¡Ã­m vÅ¡echny vazby k Shi. Jejich tajemstvÃ­ teÄ pro mÄ› nic neznamenajÃ­. KlidnÄ› se ptej.}
+{271}{}{Co mi mÅ¯Å¾eÅ¡ Å™Ã­ct o tÃ¡mhletÃ© hlÃ­danÃ© lodi? }
+{272}{}{ZapomeÅˆ na to. HodnÄ› Å¡tÄ›stÃ­ v novÃ©m Å¾ivotÄ›, Mengu.}
+{280}{}{Shi tu loÄ pouÅ¾Ã­vajÃ­, aby se dostali k naÅ¡emu spÃ­cÃ­mu strÃ¡Å¾ci, ponorce.}
+{281}{}{Co vÃ­Å¡ o tÃ© ponorce?}
+{290}{}{Shi-Huang-Ti je ponorka, ve kterÃ© sem pÅ™ipluli naÅ¡i pÅ™edci z daleka. NÃ¡sledkem VelkÃ© VÃ¡lky ztratila pohon a uvÃ­zla na mÄ›lÄinÄ› v San FranciskÃ©m zÃ¡livu. KapitÃ¡n Ye Li a jeho posÃ¡dka se pak dostali do tohoto mÄ›sta a zaloÅ¾ili to, z Äeho se stala spoleÄnost Shi.}
+{291}{}{ZmÃ­nil ses o nÃ­ jako o "spÃ­cÃ­m strÃ¡Å¾ci". Co jsi tÃ­m myslel?}
+{300}{}{PodobnÄ› jako spÃ­cÃ­ drak, jehoÅ¾ nozdry stÃ¡le mÅ¯Å¾ou chrlit smrtelnÃ½ oheÅˆ, tak i ponorka nenÃ­ bezbrannÃ¡ i pÅ™esto, Å¾e se nemÅ¯Å¾e hÃ½bat. Shi vyrÃ¡Å¾eli potajÃ­ k ponorce pod rouÅ¡kou noci a pracovali na nÃ­. JejÃ­ zbranÄ› byly znovu aktivovÃ¡ny a je tÃ©mÄ›Å™ jistÃ©, Å¾e dokÃ¡Å¾e zniÄit jakÃ©koliv neÄÃ­nskÃ© plavidlo, kterÃ© se opovÃ¡Å¾Ã­ proplout zÃ¡livem.}
+{301}{}{No, Å™eknÄ›me ÄistÄ› "hypoteticky", Å¾e by se ten velkÃ½ tanker pokusil vyplout...}
 {310}{}{Potom... BUM!}
-{311}{}{Chápu. Asi netušíš, jak ty zbranì deaktivovat, e?}
-{320}{}{Takové vìci vìdí jen technici Shi. Øekl jsem ti všechno, co vím.}
-{321}{}{Díky, Mengu. Hodnì štìstí v novém ivotì.}
-{330}{}{Je naèase zaèít novı...}
-{350}{}{Nech mì na pokoji, lao wai.}
-{400}{}{Podaøilo se ti pøesvìdèit Menga, aby zaèal novı ivot.}
+{311}{}{ChÃ¡pu. Asi netuÅ¡Ã­Å¡, jak ty zbranÄ› deaktivovat, Å¾e?}
+{320}{}{TakovÃ© vÄ›ci vÄ›dÃ­ jen technici Shi. Å˜ekl jsem ti vÅ¡echno, co vÃ­m.}
+{321}{}{DÃ­ky, Mengu. HodnÄ› Å¡tÄ›stÃ­ v novÃ©m Å¾ivotÄ›.}
+{330}{}{Je naÄase zaÄÃ­t novÃ½...}
+{350}{}{Nech mÄ› na pokoji, lao wai.}
+{400}{}{PodaÅ™ilo se ti pÅ™esvÄ›dÄit Menga, aby zaÄal novÃ½ Å¾ivot.}

@@ -1,339 +1,339 @@
-{100}{}{Vidíš mohutného starého mutanta.}
-{101}{}{Vidíš Marcuse, šerifa z Broken Hills.}
-{102}{}{Vidíš mohutného starého mutanta s unavenım vırazem ve tváøi. Ale i pøesto vypadá stále silnì a drsnì.}
-{103}{mcs1a}{No to mì podr, tenhle oblek z tøináctky u jsem nevidìl hodnì, hodnì dlouho. Pøipomnìlo mi to staré èasy.}
-{104}{mcs1b}{Copak si pøeješ, èlovíèku?}
-{105}{mcs1c}{Chceš ještì nìco jiného?}
-{106}{}{Fùj.}
+{100}{}{VidÃ­Å¡ mohutnÃ©ho starÃ©ho mutanta.}
+{101}{}{VidÃ­Å¡ Marcuse, Å¡erifa z Broken Hills.}
+{102}{}{VidÃ­Å¡ mohutnÃ©ho starÃ©ho mutanta s unavenÃ½m vÃ½razem ve tvÃ¡Å™i. Ale i pÅ™esto vypadÃ¡ stÃ¡le silnÄ› a drsnÄ›.}
+{103}{mcs1a}{No to mÄ› podrÅ¾, tenhle oblek z tÅ™inÃ¡ctky uÅ¾ jsem nevidÄ›l hodnÄ›, hodnÄ› dlouho. PÅ™ipomnÄ›lo mi to starÃ© Äasy.}
+{104}{mcs1b}{Copak si pÅ™ejeÅ¡, ÄlovÃ­Äku?}
+{105}{mcs1c}{ChceÅ¡ jeÅ¡tÄ› nÄ›co jinÃ©ho?}
+{106}{}{FÅ¯j.}
 {107}{}{Kdo jsi?}
-{108}{}{Jak vzniklo tohle místo?}
-{109}{}{Proè na mì vy mutanti vlastnì neútoèíte?}
-{110}{}{Máš nìjaké novinky?}
-{111}{}{Chci ti øíct nìco dùleitého.}
-{112}{}{Nechtìl bys se mnou cestovat?}
+{108}{}{Jak vzniklo tohle mÃ­sto?}
+{109}{}{ProÄ na mÄ› vy mutanti vlastnÄ› neÃºtoÄÃ­te?}
+{110}{}{MÃ¡Å¡ nÄ›jakÃ© novinky?}
+{111}{}{Chci ti Å™Ã­ct nÄ›co dÅ¯leÅ¾itÃ©ho.}
+{112}{}{NechtÄ›l bys se mnou cestovat?}
 {113}{}{Nashle.}
-{114}{mcs3}{Jo, jsem ošklivı mutant. A taky to tady øídím. Máš s tím snad problém?}
+{114}{mcs3}{Jo, jsem oÅ¡klivÃ½ mutant. A taky to tady Å™Ã­dÃ­m. MÃ¡Å¡ s tÃ­m snad problÃ©m?}
 {115}{}{Uch!}
 {116}{}{Ne-e.}
-{117}{mcs4}{Chceš rozbít ciferník?}
+{117}{mcs4}{ChceÅ¡ rozbÃ­t cifernÃ­k?}
 {118}{}{Uch!}
 {119}{}{Ne-e.}
-{120}{mcs5}{Tak se uka, èlovíèku.}
-{121}{mcs6a}{Dobøe.}
-{122}{mcs6b}{Nestrkej svùj nos do problémù a nedostaneš pøes nìj.}
+{120}{mcs5}{Tak se ukaÅ¾, ÄlovÃ­Äku.}
+{121}{mcs6a}{DobÅ™e.}
+{122}{mcs6b}{Nestrkej svÅ¯j nos do problÃ©mÅ¯ a nedostaneÅ¡ pÅ™es nÄ›j.}
 {123}{}{Eh?}
-{124}{mcs7}{Jsem Marcus. Pomohl jsem to tady postavit. A teï tu dìlám šerifa.}
-{125}{}{Ty jsi to tady pomohl postavit? To muselo bıt hodnì dávno...}
-{126}{}{Hovno. Tak dlouho tu pøece nemùeš bıt nebo jo?}
+{124}{mcs7}{Jsem Marcus. Pomohl jsem to tady postavit. A teÄ tu dÄ›lÃ¡m Å¡erifa.}
+{125}{}{Ty jsi to tady pomohl postavit? To muselo bÃ½t hodnÄ› dÃ¡vno...}
+{126}{}{Hovno. Tak dlouho tu pÅ™ece nemÅ¯Å¾eÅ¡ bÃ½t nebo jo?}
 {127}{}{Nashle.}
-{128}{mcs8}{To je dlouhı pøíbìh. Chceš slyšet celou nebo zkrácenou verzi?}
-{129}{}{Zajímala by mì ta krátká.}
-{130}{}{Co u, stejnì nemám co na práci. Poslechnu si to celé.}
-{131}{}{Ani jednu. Mám další otázky.}
-{132}{}{Ani jednu. Zatím.}
-{133}{mcs9}{Dobøe. Já a èlovìk jménem Jacob jsme postavili tohle místo kolem támhleté staré banky asi pøed šedesáti lety. Kadı je zde vítán, ale nesmí dìlat ádné potíe.}
-{134}{}{Super. Mám další otázky.}
+{128}{mcs8}{To je dlouhÃ½ pÅ™Ã­bÄ›h. ChceÅ¡ slyÅ¡et celou nebo zkrÃ¡cenou verzi?}
+{129}{}{ZajÃ­mala by mÄ› ta krÃ¡tkÃ¡.}
+{130}{}{Co uÅ¾, stejnÄ› nemÃ¡m co na prÃ¡ci. Poslechnu si to celÃ©.}
+{131}{}{Ani jednu. MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
+{132}{}{Ani jednu. ZatÃ­m.}
+{133}{mcs9}{DobÅ™e. JÃ¡ a ÄlovÄ›k jmÃ©nem Jacob jsme postavili tohle mÃ­sto kolem tÃ¡mhletÃ© starÃ© banky asi pÅ™ed Å¡edesÃ¡ti lety. KaÅ¾dÃ½ je zde vÃ­tÃ¡n, ale nesmÃ­ dÄ›lat Å¾Ã¡dnÃ© potÃ­Å¾e.}
+{134}{}{Super. MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
 {135}{}{Tak to jo. Nashle.}
-{136}{mcs10}{Dobøe... po znièení Vùdce a nádrí jsem se poflakoval po svìtì. Nemìl jsem kam jít. Jednoho dne mì napadl nìjakı blázen v energo zbroji.}
+{136}{mcs10}{DobÅ™e... po zniÄenÃ­ VÅ¯dce a nÃ¡drÅ¾Ã­ jsem se poflakoval po svÄ›tÄ›. NemÄ›l jsem kam jÃ­t. Jednoho dne mÄ› napadl nÄ›jakÃ½ blÃ¡zen v energo zbroji.}
 {137}{}{Opravdu?}
-{138}{mcs11}{Byl to Jacob, z Bratrstva Oceli. Sloil nìjakou pøísahu, e znièí všechny mutanty. Nìjakou dobu jsme spolu zápasili, asi den nebo dva, a potom jsme se tomu najednou zaèali smát. Proè to vùbec dìláme?}
+{138}{mcs11}{Byl to Jacob, z Bratrstva Oceli. SloÅ¾il nÄ›jakou pÅ™Ã­sahu, Å¾e zniÄÃ­ vÅ¡echny mutanty. NÄ›jakou dobu jsme spolu zÃ¡pasili, asi den nebo dva, a potom jsme se tomu najednou zaÄali smÃ¡t. ProÄ to vÅ¯bec dÄ›lÃ¡me?}
 {139}{}{A potom?}
-{140}{mcs12}{Stali se z nás pøátelé. Zaèali jsme spolu cestovat a postupnì se k nám pøidávali další lidé. Asi si mysleli, e budou s mutantem a rytíøem v bezpeèí.}
-{141}{}{Take jste se usadili tady. Proè?}
-{142}{mcs13}{Uranovı dùl. Ze starıch map jsem vìdìl, e tu nìjakı je. Teï je tu kadı vítán, ale musí se chovat slušnì. Ostatní mìsta si o nás myslí svoje, ale nikdo nemá tolik volnosti jako my. Tady máš svoji odpovìï.}
-{143}{}{Moment... ty jsi byl pøítel s nìkım z Bratrstva?}
-{144}{}{Copak, u nezabíjíte lidi?}
-{145}{}{Díky, u pùjdu. Nashle.}
-{146}{mcs14}{Z jaké díry to pocházíš? Mutanti a lidé u pìknì dlouhou dobu ijí v míru.}
-{147}{}{Jsem z vesnice, kterou zaloil pùvodní Zakladatel.}
-{148}{}{Z vesnice na severozápadì.}
-{149}{}{Aha. Moje chyba. No, díky. Nashle.}
-{150}{mcs15a}{Novinky... nìjaké novinky...}
-{151}{mcs15b}{No, trochu mi dìlá starosti jeden chlap od karavan, Chad. Moná je v nìèem zapletenı. Mùeš ho pro mì provìøit?}
-{152}{}{Co z toho budu mít?}
-{153}{}{Jasnì. Udìlám to.}
-{154}{}{Mám teï moc práce.}
-{155}{}{Nemáš ještì nìco?}
-{156}{mcs16}{Mé vìèné díky. Staèí?}
-{157}{}{To mi staèí.}
-{158}{}{To je málo. Nìco za to chci.}
-{159}{}{A co nejdøív nìjaké otázky, ne si to rozmyslím?}
-{160}{}{Popøemıšlím o tom. Nashle.}
-{161}{mcs17}{To je pro tebe málo? Tak vypadni.}
+{140}{mcs12}{Stali se z nÃ¡s pÅ™Ã¡telÃ©. ZaÄali jsme spolu cestovat a postupnÄ› se k nÃ¡m pÅ™idÃ¡vali dalÅ¡Ã­ lidÃ©. Asi si mysleli, Å¾e budou s mutantem a rytÃ­Å™em v bezpeÄÃ­.}
+{141}{}{TakÅ¾e jste se usadili tady. ProÄ?}
+{142}{mcs13}{UranovÃ½ dÅ¯l. Ze starÃ½ch map jsem vÄ›dÄ›l, Å¾e tu nÄ›jakÃ½ je. TeÄ je tu kaÅ¾dÃ½ vÃ­tÃ¡n, ale musÃ­ se chovat sluÅ¡nÄ›. OstatnÃ­ mÄ›sta si o nÃ¡s myslÃ­ svoje, ale nikdo nemÃ¡ tolik volnosti jako my. Tady mÃ¡Å¡ svoji odpovÄ›Ä.}
+{143}{}{Moment... ty jsi byl pÅ™Ã­tel s nÄ›kÃ½m z Bratrstva?}
+{144}{}{Copak, uÅ¾ nezabÃ­jÃ­te lidi?}
+{145}{}{DÃ­ky, uÅ¾ pÅ¯jdu. Nashle.}
+{146}{mcs14}{Z jakÃ© dÃ­ry to pochÃ¡zÃ­Å¡? Mutanti a lidÃ© uÅ¾ pÄ›knÄ› dlouhou dobu Å¾ijÃ­ v mÃ­ru.}
+{147}{}{Jsem z vesnice, kterou zaloÅ¾il pÅ¯vodnÃ­ Zakladatel.}
+{148}{}{Z vesnice na severozÃ¡padÄ›.}
+{149}{}{Aha. Moje chyba. No, dÃ­ky. Nashle.}
+{150}{mcs15a}{Novinky... nÄ›jakÃ© novinky...}
+{151}{mcs15b}{No, trochu mi dÄ›lÃ¡ starosti jeden chlap od karavan, Chad. MoÅ¾nÃ¡ je v nÄ›Äem zapletenÃ½. MÅ¯Å¾eÅ¡ ho pro mÄ› provÄ›Å™it?}
+{152}{}{Co z toho budu mÃ­t?}
+{153}{}{JasnÄ›. UdÄ›lÃ¡m to.}
+{154}{}{MÃ¡m teÄ moc prÃ¡ce.}
+{155}{}{NemÃ¡Å¡ jeÅ¡tÄ› nÄ›co?}
+{156}{mcs16}{MÃ© vÄ›ÄnÃ© dÃ­ky. StaÄÃ­?}
+{157}{}{To mi staÄÃ­.}
+{158}{}{To je mÃ¡lo. NÄ›co za to chci.}
+{159}{}{A co nejdÅ™Ã­v nÄ›jakÃ© otÃ¡zky, neÅ¾ si to rozmyslÃ­m?}
+{160}{}{PopÅ™emÃ½Å¡lÃ­m o tom. Nashle.}
+{161}{mcs17}{To je pro tebe mÃ¡lo? Tak vypadni.}
 {162}{}{Nashle.}
-{163}{mcs18}{Máme tady menší problém s dolem. Jestli nám s tím chceš pomoct, zajdi za dùlmistrem Zaiusem.}
+{163}{mcs18}{MÃ¡me tady menÅ¡Ã­ problÃ©m s dolem. Jestli nÃ¡m s tÃ­m chceÅ¡ pomoct, zajdi za dÅ¯lmistrem Zaiusem.}
 {164}{}{Kde ho najdu?}
-{165}{}{Ještì nìco?}
-{166}{}{Mám další otázky.}
-{167}{}{Moná pozdìji. Nashle.}
-{168}{mcs19}{Vìtšinou poblí dolu. Obèas taky bıvá v salonu.}
-{169}{}{Nemáš ještì nìco?}
-{170}{}{Mám další otázky.}
+{165}{}{JeÅ¡tÄ› nÄ›co?}
+{166}{}{MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
+{167}{}{MoÅ¾nÃ¡ pozdÄ›ji. Nashle.}
+{168}{mcs19}{VÄ›tÅ¡inou poblÃ­Å¾ dolu. ObÄas taky bÃ½vÃ¡ v salonu.}
+{169}{}{NemÃ¡Å¡ jeÅ¡tÄ› nÄ›co?}
+{170}{}{MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
 {171}{}{Nashle.}
 {172}{mcs20}{Somebody busted two lunatics out of the jail in the bank. Find 'em. Tell me and I'll stuff 'em back in.}
-{173}{}{Nemáš ještì nìco?}
-{174}{}{Mám další otázky.}
+{173}{}{NemÃ¡Å¡ jeÅ¡tÄ› nÄ›co?}
+{174}{}{MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
 {175}{}{Nashle.}
-{176}{mcs21}{Co vlastnì chceš? Dobrá. Pár lidí zmizelo. Netuším, co se stalo. Najdi je a dostaneš $500.}
-{177}{}{Udìlám to zadarmo.}
-{178}{}{$500? To zní dobøe.}
-{179}{}{Nemám èas.}
-{180}{}{Mám další otázky.}
+{176}{mcs21}{Co vlastnÄ› chceÅ¡? DobrÃ¡. PÃ¡r lidÃ­ zmizelo. NetuÅ¡Ã­m, co se stalo. Najdi je a dostaneÅ¡ $500.}
+{177}{}{UdÄ›lÃ¡m to zadarmo.}
+{178}{}{$500? To znÃ­ dobÅ™e.}
+{179}{}{NemÃ¡m Äas.}
+{180}{}{MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
 {181}{}{Nashle.}
-{182}{mcs22}{Vıbornì. Dej mi vìdìt, a nìco najdeš, ano?}
-{183}{}{Jistì. Mám další otázky.}
-{184}{}{Dám. Nashle.}
+{182}{mcs22}{VÃ½bornÄ›. Dej mi vÄ›dÄ›t, aÅ¾ nÄ›co najdeÅ¡, ano?}
+{183}{}{JistÄ›. MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
+{184}{}{DÃ¡m. Nashle.}
 {185}{mcs23}{Jo? Copak?}
-{186}{}{Chtìl jsi najít ty ztracené lidi. Pod mìstem se nachází nìjaké tunely. Mohli by bıt tam.}
-{187}{}{Podaøilo se mi najít ty ztracené lidi. Jsou v tunelech pod mìstem.}
-{188}{}{Ohlednì tìch dvou uprchlíkù... jsou spolèeni s Jacobem a Aileen. Skrıvají se poblí Jacobova obchodu.}
-{189}{}{Jacob a Aileen mì poádali o osvobození dvou lidí z vìzení. Myslím, e mají nìjakı plán.}
-{190}{}{Jacob a Aileen po mì chtìjí vyhodit dùl do povìtøí. Myslím, e bys to mìl vìdìt.}
-{191}{}{Jeden vìdec z NCR chce vyzkoušet experimentální látku, která vyhladí mutanty. Dávej pozor na to, co jíš a piješ.}
-{192}{}{Zdá se, e jsi mìl s Chadem pravdu. Nalhal zástupci Gecka, e probìhla stávka horníkù, aby odùvodnil zvıšenou cenu. Myslím, e mu jde zisk pøímo do kapsy.}
-{193}{}{Chad si nechal asi $1000 z poslední dodávky uranu. Chce zmizet z mìsta. Mám kuføík s dokumenty, které to dokazují.}
-{194}{}{ádnı. Zapomeò na to.}
-{195}{mcs24}{Tunely pod mìstem? Ani se tomu nedivím, kdy je tady kolem tolik dolù. Podívej se tam po tìch lidech, ano? }
-{196}{}{Dobøe.}
-{197}{mcs25a}{Jsou mrtví? Zatracenì... øeknu to jejich rodinám osobnì. }
-{198}{mcs25b}{Tady máš svoji odmìnu. $500. Díky za tvùj èas.}
-{199}{mcs25c}{Poèkej, já vím, e jsme se domluvili, e to udìláš zadarmo, ale vezmi si alespoò tohle jako podìkování.}
-{200}{}{Jasnì.}
-{201}{mcs26}{Dobøe. Já a moji zástupci to odteï pøevezmeme... a díky. Na takové vìci nezapomínám.}
-{202}{}{V pohodì. Nashle.}
-{203}{mcs27}{Co mají lidé proti mutantùm? Budeme si dávat pozor. Díky. Mìsto je tvım dluníkem a já na takové vìci nezapomínám.}
-{204}{}{Bylo mi potìšením. Nashle.}
-{205}{mcs28}{Mùeš ho prosím tì sledovat? Chci ho chytit pøi èinu.}
-{206}{}{ádnı problém.}
-{207}{mcs29}{Aha, v tom pøípadì bude lepší ho hned zastavit. Chceš jít s námi?}
-{208}{}{Jasnì.}
-{209}{}{Ne, díky.}
-{210}{mcs30}{Chceš, abych šel s tebou? Tak jo, jsem ještì moc starej na to, abych se usadil. Mùeme jít?}
+{186}{}{ChtÄ›l jsi najÃ­t ty ztracenÃ© lidi. Pod mÄ›stem se nachÃ¡zÃ­ nÄ›jakÃ© tunely. Mohli by bÃ½t tam.}
+{187}{}{PodaÅ™ilo se mi najÃ­t ty ztracenÃ© lidi. Jsou v tunelech pod mÄ›stem.}
+{188}{}{OhlednÄ› tÄ›ch dvou uprchlÃ­kÅ¯... jsou spolÄeni s Jacobem a Aileen. SkrÃ½vajÃ­ se poblÃ­Å¾ Jacobova obchodu.}
+{189}{}{Jacob a Aileen mÄ› poÅ¾Ã¡dali o osvobozenÃ­ dvou lidÃ­ z vÄ›zenÃ­. MyslÃ­m, Å¾e majÃ­ nÄ›jakÃ½ plÃ¡n.}
+{190}{}{Jacob a Aileen po mÄ› chtÄ›jÃ­ vyhodit dÅ¯l do povÄ›tÅ™Ã­. MyslÃ­m, Å¾e bys to mÄ›l vÄ›dÄ›t.}
+{191}{}{Jeden vÄ›dec z NCR chce vyzkouÅ¡et experimentÃ¡lnÃ­ lÃ¡tku, kterÃ¡ vyhladÃ­ mutanty. DÃ¡vej pozor na to, co jÃ­Å¡ a pijeÅ¡.}
+{192}{}{ZdÃ¡ se, Å¾e jsi mÄ›l s Chadem pravdu. Nalhal zÃ¡stupci Gecka, Å¾e probÄ›hla stÃ¡vka hornÃ­kÅ¯, aby odÅ¯vodnil zvÃ½Å¡enou cenu. MyslÃ­m, Å¾e mu jde zisk pÅ™Ã­mo do kapsy.}
+{193}{}{Chad si nechal asi $1000 z poslednÃ­ dodÃ¡vky uranu. Chce zmizet z mÄ›sta. MÃ¡m kufÅ™Ã­k s dokumenty, kterÃ© to dokazujÃ­.}
+{194}{}{Å½Ã¡dnÃ½. ZapomeÅˆ na to.}
+{195}{mcs24}{Tunely pod mÄ›stem? Ani se tomu nedivÃ­m, kdyÅ¾ je tady kolem tolik dolÅ¯. PodÃ­vej se tam po tÄ›ch lidech, ano? }
+{196}{}{DobÅ™e.}
+{197}{mcs25a}{Jsou mrtvÃ­? ZatracenÄ›... Å™eknu to jejich rodinÃ¡m osobnÄ›. }
+{198}{mcs25b}{Tady mÃ¡Å¡ svoji odmÄ›nu. $500. DÃ­ky za tvÅ¯j Äas.}
+{199}{mcs25c}{PoÄkej, jÃ¡ vÃ­m, Å¾e jsme se domluvili, Å¾e to udÄ›lÃ¡Å¡ zadarmo, ale vezmi si alespoÅˆ tohle jako podÄ›kovÃ¡nÃ­.}
+{200}{}{JasnÄ›.}
+{201}{mcs26}{DobÅ™e. JÃ¡ a moji zÃ¡stupci to odteÄ pÅ™evezmeme... a dÃ­ky. Na takovÃ© vÄ›ci nezapomÃ­nÃ¡m.}
+{202}{}{V pohodÄ›. Nashle.}
+{203}{mcs27}{Co majÃ­ lidÃ© proti mutantÅ¯m? Budeme si dÃ¡vat pozor. DÃ­ky. MÄ›sto je tvÃ½m dluÅ¾nÃ­kem a jÃ¡ na takovÃ© vÄ›ci nezapomÃ­nÃ¡m.}
+{204}{}{Bylo mi potÄ›Å¡enÃ­m. Nashle.}
+{205}{mcs28}{MÅ¯Å¾eÅ¡ ho prosÃ­m tÄ› sledovat? Chci ho chytit pÅ™i Äinu.}
+{206}{}{Å½Ã¡dnÃ½ problÃ©m.}
+{207}{mcs29}{Aha, v tom pÅ™Ã­padÄ› bude lepÅ¡Ã­ ho hned zastavit. ChceÅ¡ jÃ­t s nÃ¡mi?}
+{208}{}{JasnÄ›.}
+{209}{}{Ne, dÃ­ky.}
+{210}{mcs30}{ChceÅ¡, abych Å¡el s tebou? Tak jo, jsem jeÅ¡tÄ› moc starej na to, abych se usadil. MÅ¯Å¾eme jÃ­t?}
 {211}{}{Ano.}
-{212}{}{Ne, teï ještì ne.}
-{213}{mcs31}{No, zrovna teï je tu moc práce. A se to tu trochu uklidní, tak moná.}
-{214}{}{Jasnì. Mám další otázky.}
+{212}{}{Ne, teÄ jeÅ¡tÄ› ne.}
+{213}{mcs31}{No, zrovna teÄ je tu moc prÃ¡ce. AÅ¾ se to tu trochu uklidnÃ­, tak moÅ¾nÃ¡.}
+{214}{}{JasnÄ›. MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
 {215}{}{Nashle.}
-{216}{mcs32}{To si piš. Nejlepší pøítel, kterého jsem kdy mìl.}
-{217}{}{No jasnì, nechal bys ho namoèit stejnì jako všechny ostatní.}
+{216}{mcs32}{To si piÅ¡. NejlepÅ¡Ã­ pÅ™Ã­tel, kterÃ©ho jsem kdy mÄ›l.}
+{217}{}{No jasnÄ›, nechal bys ho namoÄit stejnÄ› jako vÅ¡echny ostatnÃ­.}
 {218}{}{Nashle.}
-{219}{mcs33}{To si piš, e jo. Byl by z nìj opravdu skvìlı mutant.}
-{220}{}{Myslím, e by se mu nelíbilo, kdyby tì tohle slyšel øíkat.}
+{219}{mcs33}{To si piÅ¡, Å¾e jo. Byl by z nÄ›j opravdu skvÄ›lÃ½ mutant.}
+{220}{}{MyslÃ­m, Å¾e by se mu nelÃ­bilo, kdyby tÄ› tohle slyÅ¡el Å™Ã­kat.}
 {221}{}{Nashle.}
-{222}{mcs34}{(Zasmìje se) O tomhle jsme se spolu vdycky pøeli. (Povzdechne si) Ten palièák mi fakt chybí.}
-{223}{}{A co Vùdcova nenávist k lidem?}
-{224}{}{Stejnì si myslím, e je osud nìkdy pìkná svinì.}
+{222}{mcs34}{(ZasmÄ›je se) O tomhle jsme se spolu vÅ¾dycky pÅ™eli. (Povzdechne si) Ten paliÄÃ¡k mi fakt chybÃ­.}
+{223}{}{A co VÅ¯dcova nenÃ¡vist k lidem?}
+{224}{}{StejnÄ› si myslÃ­m, Å¾e je osud nÄ›kdy pÄ›knÃ¡ svinÄ›.}
 {225}{}{Nashle.}
-{226}{mcs35}{Mluvíš o starıch èasech. Svìt se zmìnil. Chceš slyšet dávnou historii?}
-{227}{}{Urèitì.}
-{228}{}{Teï ne, ale chci se zeptat na nìco jiného.}
-{229}{}{Teï ne. Promluvíme si pozdìji.}
-{230}{mcs36}{Dobøe. Víš, nikdy jsme k lidem necítili NENÁVIST. Jen jsme pro nì mìli lepší budoucnost. Tyhle nové vlády si myslí, e mají na všechno odpovìï. Bla, bla. Byl jsem u toho, vidìl jsem to, poznamenalo mì to.}
-{231}{}{Jaká byla ta lepší budoucnost?}
-{232}{mcs37}{Vùdce chtìl všechny pozvednout na jeho úroveò, aby u nikdy na svìtì nebyly války. Byl pøesvìdèen, e by se to nám samotnım nepovedlo, e bychom to nedokázali. Nìkdo nás musel k vıvoji donutit.}
-{233}{}{Ty s tím souhlasíš?}
-{234}{mcs38}{Kdy byl ještì Jacob naivu, myslel jsem, e se Vùdce zmılil. Ale zdá se, e zatímco nìkteøí lidé si to dokázali poslechnout a pochopit to, tak vìtšina se na to vykašlala.}
-{235}{}{Take myslíš, e mìl Vùdce pravdu?}
-{236}{mcs38a}{Jacob tu myšlenku pochopil a šel za ní. Zakladatel vlastnì taky. Ale bez ohledu na to, kolik lidí to pochopí, nevìdomé lidské masy je nakonec vdy znièí, e?}
-{237}{}{Moná.}
-{238}{mcs39}{Vùdce jen chtìl, aby kadı prozøel. Zakladatel ten sen ukonèil.}
-{239}{}{To zní jako bys Zakladatele obdivoval a zároveò nenávidìl.}
-{240}{}{I ty jsi byl èlovìk. To ti nevadí, co s tebou Vùdce udìlal?}
-{241}{}{Take myslíš, e byl Vùdcùv plán správnı?}
-{242}{}{Víš, já jsem potomek pùvodního Zakladatele.}
-{243}{mcs40}{Máš pravdu. Kdyby všichni lidé bojovali stejnì jako on za to, v co vìøí, tak bychom vùbec nepotøebovali Vùdcùv plán.}
-{244}{}{Vùdce chtìl zotroèit lidstvo!}
-{245}{}{Pìkná báchorka. Musím jít.}
-{246}{mcs41}{Nezapomínej, e jsem znal ty lidi, kteøí toho byli souèástí. Patøili k tìm nejlepším lidem vùbec. Tví lidé ten pøíbìh vypráví asi trochu jinak, nemám pravdu?}
-{247}{}{Ehmm... moná. Eh, mám další otázky.}
-{248}{}{Nemáš!}
-{249}{mcs42}{"Pùvodní Zakladatel?" Myslíš toho, kterı zabil Vùdce a znièil nádre?}
+{226}{mcs35}{MluvÃ­Å¡ o starÃ½ch Äasech. SvÄ›t se zmÄ›nil. ChceÅ¡ slyÅ¡et dÃ¡vnou historii?}
+{227}{}{UrÄitÄ›.}
+{228}{}{TeÄ ne, ale chci se zeptat na nÄ›co jinÃ©ho.}
+{229}{}{TeÄ ne. PromluvÃ­me si pozdÄ›ji.}
+{230}{mcs36}{DobÅ™e. VÃ­Å¡, nikdy jsme k lidem necÃ­tili NENÃVIST. Jen jsme pro nÄ› mÄ›li lepÅ¡Ã­ budoucnost. Tyhle novÃ© vlÃ¡dy si myslÃ­, Å¾e majÃ­ na vÅ¡echno odpovÄ›Ä. Bla, bla. Byl jsem u toho, vidÄ›l jsem to, poznamenalo mÄ› to.}
+{231}{}{JakÃ¡ byla ta lepÅ¡Ã­ budoucnost?}
+{232}{mcs37}{VÅ¯dce chtÄ›l vÅ¡echny pozvednout na jeho ÃºroveÅˆ, aby uÅ¾ nikdy na svÄ›tÄ› nebyly vÃ¡lky. Byl pÅ™esvÄ›dÄen, Å¾e by se to nÃ¡m samotnÃ½m nepovedlo, Å¾e bychom to nedokÃ¡zali. NÄ›kdo nÃ¡s musel k vÃ½voji donutit.}
+{233}{}{Ty s tÃ­m souhlasÃ­Å¡?}
+{234}{mcs38}{KdyÅ¾ byl jeÅ¡tÄ› Jacob naÅ¾ivu, myslel jsem, Å¾e se VÅ¯dce zmÃ½lil. Ale zdÃ¡ se, Å¾e zatÃ­mco nÄ›kteÅ™Ã­ lidÃ© si to dokÃ¡zali poslechnout a pochopit to, tak vÄ›tÅ¡ina se na to vykaÅ¡lala.}
+{235}{}{TakÅ¾e myslÃ­Å¡, Å¾e mÄ›l VÅ¯dce pravdu?}
+{236}{mcs38a}{Jacob tu myÅ¡lenku pochopil a Å¡el za nÃ­. Zakladatel vlastnÄ› taky. Ale bez ohledu na to, kolik lidÃ­ to pochopÃ­, nevÄ›domÃ© lidskÃ© masy je nakonec vÅ¾dy zniÄÃ­, Å¾e?}
+{237}{}{MoÅ¾nÃ¡.}
+{238}{mcs39}{VÅ¯dce jen chtÄ›l, aby kaÅ¾dÃ½ prozÅ™el. Zakladatel ten sen ukonÄil.}
+{239}{}{To znÃ­ jako bys Zakladatele obdivoval a zÃ¡roveÅˆ nenÃ¡vidÄ›l.}
+{240}{}{I ty jsi byl ÄlovÄ›k. To ti nevadÃ­, co s tebou VÅ¯dce udÄ›lal?}
+{241}{}{TakÅ¾e myslÃ­Å¡, Å¾e byl VÅ¯dcÅ¯v plÃ¡n sprÃ¡vnÃ½?}
+{242}{}{VÃ­Å¡, jÃ¡ jsem potomek pÅ¯vodnÃ­ho Zakladatele.}
+{243}{mcs40}{MÃ¡Å¡ pravdu. Kdyby vÅ¡ichni lidÃ© bojovali stejnÄ› jako on za to, v co vÄ›Å™Ã­, tak bychom vÅ¯bec nepotÅ™ebovali VÅ¯dcÅ¯v plÃ¡n.}
+{244}{}{VÅ¯dce chtÄ›l zotroÄit lidstvo!}
+{245}{}{PÄ›knÃ¡ bÃ¡chorka. MusÃ­m jÃ­t.}
+{246}{mcs41}{NezapomÃ­nej, Å¾e jsem znal ty lidi, kteÅ™Ã­ toho byli souÄÃ¡stÃ­. PatÅ™ili k tÄ›m nejlepÅ¡Ã­m lidem vÅ¯bec. TvÃ­ lidÃ© ten pÅ™Ã­bÄ›h vyprÃ¡vÃ­ asi trochu jinak, nemÃ¡m pravdu?}
+{247}{}{Ehmm... moÅ¾nÃ¡. Eh, mÃ¡m dalÅ¡Ã­ otÃ¡zky.}
+{248}{}{NemÃ¡Å¡!}
+{249}{mcs42}{"PÅ¯vodnÃ­ Zakladatel?" MyslÃ­Å¡ toho, kterÃ½ zabil VÅ¯dce a zniÄil nÃ¡drÅ¾e?}
 {250}{}{Ehhh... ano.}
-{251}{}{To si piš. A co s tím jako udìláš, mutante?}
-{252}{}{Neee... to je nìkdo jinı. Vùbec nevím, o èem to mluvíš.}
-{253}{mcs43}{ádnı problém. Jak øíkám, bylo to u hodnì dávno.}
-{254}{}{Nebojím se tì.}
-{255}{}{Proè jsi tenkrát nenávidìl lidi?}
-{256}{mcs44}{Není dùvod se bát, pokud nerozzlobíš mì nebo nìkoho z mìsta. Chovej se civilizovanì, o nic víc tì neádám.}
-{257}{}{Budu si to pamatovat. Mám další otázky.}
+{251}{}{To si piÅ¡. A co s tÃ­m jako udÄ›lÃ¡Å¡, mutante?}
+{252}{}{Neee... to je nÄ›kdo jinÃ½. VÅ¯bec nevÃ­m, o Äem to mluvÃ­Å¡.}
+{253}{mcs43}{Å½Ã¡dnÃ½ problÃ©m. Jak Å™Ã­kÃ¡m, bylo to uÅ¾ hodnÄ› dÃ¡vno.}
+{254}{}{NebojÃ­m se tÄ›.}
+{255}{}{ProÄ jsi tenkrÃ¡t nenÃ¡vidÄ›l lidi?}
+{256}{mcs44}{NenÃ­ dÅ¯vod se bÃ¡t, pokud nerozzlobÃ­Å¡ mÄ› nebo nÄ›koho z mÄ›sta. Chovej se civilizovanÄ›, o nic vÃ­c tÄ› neÅ¾Ã¡dÃ¡m.}
+{257}{}{Budu si to pamatovat. MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
 {258}{}{Budu si to pamatovat. Nashle.}
-{259}{mcs45}{Nìco si vyjasníme. K nièemu tu nedojde, pokud si nezaèneš. Prostì se v mém mìstì chovej civilizovanì.}
-{260}{}{Jo, dobøe. Mám další otázky.}
-{261}{}{Jo, dobøe. Nashle.}
-{262}{mcs46}{Moje vzpomínky na dobu, kdy jsem byl èlovìkem, u nejsou tak jasné jako døív, ale vzpomínám si na malichernost, zlobu, árlivost... radìji jsem mutantem.}
-{263}{}{Take myslíš, e byl Vùdcùv plán správnı?}
-{264}{}{Ehm. Takhle jsi ale o dost ošklivìjší. Nashle.}
-{265}{}{Take je ti vlastnì fajn. Nashle.}
-{266}{mcs47}{Mìl nìjaké nedostatky. Mìli jsme vybírat jen ty nejlepší. Podívej se kolem. Vìtšina mutantù nemìla dostateènı rozum nebo vùli na to, aby odolala té zátìi. (Povzdechne si) Ké bychom jen volili lépe...}
-{267}{}{Take bys nechal namoèit Jacoba? Nebo Zakladatele?}
-{268}{}{Jo, to je smutné. No, uvidíme se pozdìji!}
-{269}{mcs48}{A se tam nìkdy vrátíš, tak jim øekni, e válka u skonèila. Hodnì dávno.}
-{270}{}{Eh. Dobøe. Mám další otázky.}
-{271}{}{Jasnı. Nashle.}
-{272}{mcs49alt}{Díky za pomoc. Mohl z toho bıt docela problém. Zabrali jsme jejich skladištì zbraní a zneškodnili bomby.}
-{273}{}{Skvìlé! Mám nìjaké otázky...}
-{274}{}{Hele, na nìco jsem pøišel.}
-{275}{}{Nic jsem se nenauèil.}
-{276}{mcs103a}{Je vás moc. S hordou jsem se toho nacestoval a a.}
-{277}{mcs103b}{Myslel jsem, e patøíš k tìm hodnım. S tebou nejdu.}
-{278}{mcs103c}{Teï s tebou jít nemùu. Promiò. (S opovrením si tì prohlédne odshora dolù.)}
-{279}{}{Tak dobøe. }
-{280}{}{Z toho leknutí jsem si málem støíknul do textilu.}
-{281}{}{V pustinì není moc vìcí, kterıch bych se bál... a na tohle.}
-{282}{}{Asi jsi moc rozumu nepobral, kdy se se mnou chceš prát.}
-{283}{}{Dávám jim na prdel... u zase.}
-{284}{}{Je to nìjak moc lehkı.}
-{285}{}{Nemáš nìjakı kámoše, co by ti pomohli vyrovnat šance?}
-{286}{}{U máš dost?}
-{287}{}{Hotovo. To jen abys vìdìl.}
-{288}{}{A sakra. Nìco se podìlalo.}
-{289}{mcs109}{Chceš mì zase zpátky?}
-{290}{}{Dobøe.}
-{291}{}{Ne, ještì ne. Sbohem.}
-{292}{mcs110}{Co chceš?}
-{293}{}{Jak se cítíš?}
-{294}{}{Zkus se vyléèit.}
-{295}{}{Potøebuju, abys tu poèkal, ne se vrátím.}
-{296}{}{To bude prozatím všechno.}
-{297}{mcs111a}{U jsem v pohodì.}
-{298}{mcs111b}{U mì nebude nic zpomalovat.}
-{299}{mcs111c}{Nemáš nìco, co by mi pomohlo?}
-{300}{mcs111d}{Tak na tohle se asi budeš muset podívat.}
-{301}{}{Pouij svoje schopnosti k uzdravení.}
-{302}{}{Zapomeò na to.}
+{259}{mcs45}{NÄ›co si vyjasnÃ­me. K niÄemu tu nedojde, pokud si nezaÄneÅ¡. ProstÄ› se v mÃ©m mÄ›stÄ› chovej civilizovanÄ›.}
+{260}{}{Jo, dobÅ™e. MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
+{261}{}{Jo, dobÅ™e. Nashle.}
+{262}{mcs46}{Moje vzpomÃ­nky na dobu, kdy jsem byl ÄlovÄ›kem, uÅ¾ nejsou tak jasnÃ© jako dÅ™Ã­v, ale vzpomÃ­nÃ¡m si na malichernost, zlobu, Å¾Ã¡rlivost... radÄ›ji jsem mutantem.}
+{263}{}{TakÅ¾e myslÃ­Å¡, Å¾e byl VÅ¯dcÅ¯v plÃ¡n sprÃ¡vnÃ½?}
+{264}{}{Ehm. Takhle jsi ale o dost oÅ¡klivÄ›jÅ¡Ã­. Nashle.}
+{265}{}{TakÅ¾e je ti vlastnÄ› fajn. Nashle.}
+{266}{mcs47}{MÄ›l nÄ›jakÃ© nedostatky. MÄ›li jsme vybÃ­rat jen ty nejlepÅ¡Ã­. PodÃ­vej se kolem. VÄ›tÅ¡ina mutantÅ¯ nemÄ›la dostateÄnÃ½ rozum nebo vÅ¯li na to, aby odolala tÃ© zÃ¡tÄ›Å¾i. (Povzdechne si) KÃ©Å¾ bychom jen volili lÃ©pe...}
+{267}{}{TakÅ¾e bys nechal namoÄit Jacoba? Nebo Zakladatele?}
+{268}{}{Jo, to je smutnÃ©. No, uvidÃ­me se pozdÄ›ji!}
+{269}{mcs48}{AÅ¾ se tam nÄ›kdy vrÃ¡tÃ­Å¡, tak jim Å™ekni, Å¾e vÃ¡lka uÅ¾ skonÄila. HodnÄ› dÃ¡vno.}
+{270}{}{Eh. DobÅ™e. MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
+{271}{}{JasnÃ½. Nashle.}
+{272}{mcs49alt}{DÃ­ky za pomoc. Mohl z toho bÃ½t docela problÃ©m. Zabrali jsme jejich skladiÅ¡tÄ› zbranÃ­ a zneÅ¡kodnili bomby.}
+{273}{}{SkvÄ›lÃ©! MÃ¡m nÄ›jakÃ© otÃ¡zky...}
+{274}{}{Hele, na nÄ›co jsem pÅ™iÅ¡el.}
+{275}{}{Nic jsem se nenauÄil.}
+{276}{mcs103a}{Je vÃ¡s moc. S hordou jsem se toho nacestoval aÅ¾ aÅ¾.}
+{277}{mcs103b}{Myslel jsem, Å¾e patÅ™Ã­Å¡ k tÄ›m hodnÃ½m. S tebou nejdu.}
+{278}{mcs103c}{TeÄ s tebou jÃ­t nemÅ¯Å¾u. PromiÅˆ. (S opovrÅ¾enÃ­m si tÄ› prohlÃ©dne odshora dolÅ¯.)}
+{279}{}{Tak dobÅ™e. }
+{280}{}{Z toho leknutÃ­ jsem si mÃ¡lem stÅ™Ã­knul do textilu.}
+{281}{}{V pustinÄ› nenÃ­ moc vÄ›cÃ­, kterÃ½ch bych se bÃ¡l... aÅ¾ na tohle.}
+{282}{}{Asi jsi moc rozumu nepobral, kdyÅ¾ se se mnou chceÅ¡ prÃ¡t.}
+{283}{}{DÃ¡vÃ¡m jim na prdel... uÅ¾ zase.}
+{284}{}{Je to nÄ›jak moc lehkÃ½.}
+{285}{}{NemÃ¡Å¡ nÄ›jakÃ½ kÃ¡moÅ¡e, co by ti pomohli vyrovnat Å¡ance?}
+{286}{}{UÅ¾ mÃ¡Å¡ dost?}
+{287}{}{Hotovo. To jen abys vÄ›dÄ›l.}
+{288}{}{A sakra. NÄ›co se podÄ›lalo.}
+{289}{mcs109}{ChceÅ¡ mÄ› zase zpÃ¡tky?}
+{290}{}{DobÅ™e.}
+{291}{}{Ne, jeÅ¡tÄ› ne. Sbohem.}
+{292}{mcs110}{Co chceÅ¡?}
+{293}{}{Jak se cÃ­tÃ­Å¡?}
+{294}{}{Zkus se vylÃ©Äit.}
+{295}{}{PotÅ™ebuju, abys tu poÄkal, neÅ¾ se vrÃ¡tÃ­m.}
+{296}{}{To bude prozatÃ­m vÅ¡echno.}
+{297}{mcs111a}{UÅ¾ jsem v pohodÄ›.}
+{298}{mcs111b}{UÅ¾ mÄ› nebude nic zpomalovat.}
+{299}{mcs111c}{NemÃ¡Å¡ nÄ›co, co by mi pomohlo?}
+{300}{mcs111d}{Tak na tohle se asi budeÅ¡ muset podÃ­vat.}
+{301}{}{PouÅ¾ij svoje schopnosti k uzdravenÃ­.}
+{302}{}{ZapomeÅˆ na to.}
 {303}{}{OK}
-{304}{mcs160}{Poèkám tady a utáhnu si popruhy na rameni.}
-{305}{}{Zapomeò na to.}
+{304}{mcs160}{PoÄkÃ¡m tady a utÃ¡hnu si popruhy na rameni.}
+{305}{}{ZapomeÅˆ na to.}
 {306}{}{OK}
 {307}{}{Sever.}
-{308}{}{Severozápad.}
-{309}{}{Západ.}
-{310}{}{Jihozápad.}
+{308}{}{SeverozÃ¡pad.}
+{309}{}{ZÃ¡pad.}
+{310}{}{JihozÃ¡pad.}
 {311}{}{Jih.}
-{312}{}{Jihovıchod.}
-{313}{}{Vıchod.}
-{314}{}{Severovıchod.}
-{315}{}{Mì se neptej, já to nevím.}
+{312}{}{JihovÃ½chod.}
+{313}{}{VÃ½chod.}
+{314}{}{SeverovÃ½chod.}
+{315}{}{MÄ› se neptej, jÃ¡ to nevÃ­m.}
 {316}{}{Jo.}
-{317}{}{Dobøe.}
+{317}{}{DobÅ™e.}
 {318}{}{Ne.}
-{319}{}{Proè se mnou takhle mluvíš?}
-{320}{}{To nebylo hezkı.}
-{321}{}{Díky.}
-{322}{}{To je dobrı.}
-{323}{}{Tohle není dobrı.}
-{324}{}{Tohle se mi líbí. A hodnì.}
-{325}{}{Mám z toho špatnı pocit.}
-{326}{}{Tihle lidi jsou šílení.}
-{327}{}{Nic jsem se nenauèil.}
-{328}{}{Nìco jsem se nauèil.}
-{329}{}{Je tu nìkdo normální?}
-{330}{}{Musí to jít i jinım zpùsobem.}
-{331}{}{Pojï za mnou.}
+{319}{}{ProÄ se mnou takhle mluvÃ­Å¡?}
+{320}{}{To nebylo hezkÃ½.}
+{321}{}{DÃ­ky.}
+{322}{}{To je dobrÃ½.}
+{323}{}{Tohle nenÃ­ dobrÃ½.}
+{324}{}{Tohle se mi lÃ­bÃ­. A hodnÄ›.}
+{325}{}{MÃ¡m z toho Å¡patnÃ½ pocit.}
+{326}{}{Tihle lidi jsou Å¡Ã­lenÃ­.}
+{327}{}{Nic jsem se nenauÄil.}
+{328}{}{NÄ›co jsem se nauÄil.}
+{329}{}{Je tu nÄ›kdo normÃ¡lnÃ­?}
+{330}{}{MusÃ­ to jÃ­t i jinÃ½m zpÅ¯sobem.}
+{331}{}{PojÄ za mnou.}
 {332}{}{Zkus tohle.}
-{333}{}{Pojï sem.}
-{334}{}{Našel jsem nìco, co budeš chtít moná vidìt.}
-{335}{}{Øekl bych, e je bezpeèné tu táboøit.}
-{336}{}{Tady není bezpeèné táboøit.}
-{337}{}{My moci odpoèívala tady.}
-{338}{}{Mám štìstí.}
+{333}{}{PojÄ sem.}
+{334}{}{NaÅ¡el jsem nÄ›co, co budeÅ¡ chtÃ­t moÅ¾nÃ¡ vidÄ›t.}
+{335}{}{Å˜ekl bych, Å¾e je bezpeÄnÃ© tu tÃ¡boÅ™it.}
+{336}{}{Tady nenÃ­ bezpeÄnÃ© tÃ¡boÅ™it.}
+{337}{}{My moci odpoÄÃ­vala tady.}
+{338}{}{MÃ¡m Å¡tÄ›stÃ­.}
 {339}{}{Oprav to, ano?}
 {340}{}{Zapni to.}
-{341}{}{To asi bude potøeba odemknout.}
-{342}{}{Otevøeš to?}
-{343}{}{Moná se sem budeš chtít vrátit pozdìji.}
-{344}{}{Nerozumím.}
+{341}{}{To asi bude potÅ™eba odemknout.}
+{342}{}{OtevÅ™eÅ¡ to?}
+{343}{}{MoÅ¾nÃ¡ se sem budeÅ¡ chtÃ­t vrÃ¡tit pozdÄ›ji.}
+{344}{}{NerozumÃ­m.}
 {345}{}{Nevim.}
-{346}{}{Jù.}
-{347}{}{To fakt bolí.}
+{346}{}{JÅ¯.}
+{347}{}{To fakt bolÃ­.}
 {348}{}{To bude bolet...}
-{349}{}{Eh... kdy jsme byli v Koèièí Pacce v New Renu a ty jsi øíkal 'Doufám, e nebude tìhotná', co jsi tím myslel?}
-{350}{mcs113}{Copak ti TO rodièe nevysvìtlili?}
-{351}{}{Ne, teda, nejsou snad všichni mutanti sterilní?}
-{352}{}{Zapomeò na to.}
-{353}{mcs114}{Coe? Odkud to sakra máš?}
-{354}{}{Take... ty NEJSI sterilní?}
-{355}{}{Zapomeò na to.}
-{356}{mcs116}{Ne. Teda, u ne. Po namoèení trvá jen nìkolik let, ne zase zaène všechno fungovat. Proè se ptáš?}
-{357}{}{Aha. Eh. Zapomeò na to.}
-{360}{}{Povedlo se ti odhalit spiknutí proti mutantùm v Broken Hills.}
-{361}{}{Markus se k tobì pøidal.}
-{400}{}{O tìch ztracenıch lidech...}
+{349}{}{Eh... kdyÅ¾ jsme byli v KoÄiÄÃ­ Pacce v New Renu a ty jsi Å™Ã­kal 'DoufÃ¡m, Å¾e nebude tÄ›hotnÃ¡', co jsi tÃ­m myslel?}
+{350}{mcs113}{Copak ti TO rodiÄe nevysvÄ›tlili?}
+{351}{}{Ne, teda, nejsou snad vÅ¡ichni mutanti sterilnÃ­?}
+{352}{}{ZapomeÅˆ na to.}
+{353}{mcs114}{CoÅ¾e? Odkud to sakra mÃ¡Å¡?}
+{354}{}{TakÅ¾e... ty NEJSI sterilnÃ­?}
+{355}{}{ZapomeÅˆ na to.}
+{356}{mcs116}{Ne. Teda, uÅ¾ ne. Po namoÄenÃ­ trvÃ¡ jen nÄ›kolik let, neÅ¾ zase zaÄne vÅ¡echno fungovat. ProÄ se ptÃ¡Å¡?}
+{357}{}{Aha. Eh. ZapomeÅˆ na to.}
+{360}{}{Povedlo se ti odhalit spiknutÃ­ proti mutantÅ¯m v Broken Hills.}
+{361}{}{Markus se k tobÄ› pÅ™idal.}
+{400}{}{O tÄ›ch ztracenÃ½ch lidech...}
 {410}{}{O Jacobovi a Aileen...}
 {420}{}{O Chadovi...}
-{430}{}{O tìch uprchlících...}
-{440}{}{O vìdci z NCR...}
-{500}{}{Máš docela kurá, kdy se tady zase ukazuješ.}
-{501}{}{Zapomeò na to. Mùu se tì na nìco zeptat?}
+{430}{}{O tÄ›ch uprchlÃ­cÃ­ch...}
+{440}{}{O vÄ›dci z NCR...}
+{500}{}{MÃ¡Å¡ docela kurÃ¡Å¾, kdyÅ¾ se tady zase ukazujeÅ¡.}
+{501}{}{ZapomeÅˆ na to. MÅ¯Å¾u se tÄ› na nÄ›co zeptat?}
 {502}{}{Ale nic. Nashle.}
-{600}{}{Šéfe, není mi moc dobøe.}
-{601}{}{Nedìlej to.}
-{602}{}{Nemyslíš, e je to tady trochu strašidelnı?}
-{603}{}{Doufám, e máš prsaèky... vypadá to na pìknı sraèky.}
-{604}{}{Moc se mi to tady nelíbí.}
-{605}{}{Šéfe, nevím, jak dlouho vydrím pøi vìdomí. Mám zlomenou kost.}
-{606}{}{Á, lidstvo.}
-{607}{}{Tohle je pìkná ukázka toho, e mìl Vùdce pravdu.}
-{608}{}{A ty sis myslel, e jsou mutanti nemocní.}
-{609}{}{Opatrnì, šéfe. Tihle tıpci vypadaj drsnì.}
-{610}{}{Teda... vy lidi mì nikdy nepøestanete pøekvapovat.}
-{611}{}{Doufám, e víš, kam jdeme...}
-{612}{}{Nakopem jim kaïáky, šéfe.}
-{613}{}{Pøesnì tidle kreténi mì dokáou naštvat.}
-{614}{}{Á, zpátky doma.}
-{615}{}{Nezapomeò... pomohl jsem to tady postavit. Chovej se slušnì.}
-{616}{}{Je hezké zase vidìt svùj starı domov.}
-{617}{}{Vdycky jsem to tady nenávidìl.}
-{618}{}{Kdy odcházíme?}
+{600}{}{Å Ã©fe, nenÃ­ mi moc dobÅ™e.}
+{601}{}{NedÄ›lej to.}
+{602}{}{NemyslÃ­Å¡, Å¾e je to tady trochu straÅ¡idelnÃ½?}
+{603}{}{DoufÃ¡m, Å¾e mÃ¡Å¡ prsaÄky... vypadÃ¡ to na pÄ›knÃ½ sraÄky.}
+{604}{}{Moc se mi to tady nelÃ­bÃ­.}
+{605}{}{Å Ã©fe, nevÃ­m, jak dlouho vydrÅ¾Ã­m pÅ™i vÄ›domÃ­. MÃ¡m zlomenou kost.}
+{606}{}{Ã, lidstvo.}
+{607}{}{Tohle je pÄ›knÃ¡ ukÃ¡zka toho, Å¾e mÄ›l VÅ¯dce pravdu.}
+{608}{}{A ty sis myslel, Å¾e jsou mutanti nemocnÃ­.}
+{609}{}{OpatrnÄ›, Å¡Ã©fe. Tihle tÃ½pci vypadaj drsnÄ›.}
+{610}{}{Teda... vy lidi mÄ› nikdy nepÅ™estanete pÅ™ekvapovat.}
+{611}{}{DoufÃ¡m, Å¾e vÃ­Å¡, kam jdeme...}
+{612}{}{Nakopem jim kaÄÃ¡ky, Å¡Ã©fe.}
+{613}{}{PÅ™esnÄ› tidle kretÃ©ni mÄ› dokÃ¡Å¾ou naÅ¡tvat.}
+{614}{}{Ã, zpÃ¡tky doma.}
+{615}{}{NezapomeÅˆ... pomohl jsem to tady postavit. Chovej se sluÅ¡nÄ›.}
+{616}{}{Je hezkÃ© zase vidÄ›t svÅ¯j starÃ½ domov.}
+{617}{}{VÅ¾dycky jsem to tady nenÃ¡vidÄ›l.}
+{618}{}{Kdy odchÃ¡zÃ­me?}
 {619}{}{Vypadneme odsud.}
-{620}{}{Myslím, e mì tu nechtìjí, šéfe.}
-{621}{}{Tak tady to všechno zaèalo, jo?}
-{622}{}{Mùe sem pøijít doktor?}
-{623}{}{Chceš aportovat, pejsku?}
-{624}{}{Jak dìlaj pánièky, pejsku? Hraj mrtvého!}
+{620}{}{MyslÃ­m, Å¾e mÄ› tu nechtÄ›jÃ­, Å¡Ã©fe.}
+{621}{}{Tak tady to vÅ¡echno zaÄalo, jo?}
+{622}{}{MÅ¯Å¾e sem pÅ™ijÃ­t doktor?}
+{623}{}{ChceÅ¡ aportovat, pejsku?}
+{624}{}{Jak dÄ›laj pÃ¡niÄky, pejsku? Hraj mrtvÃ©ho!}
 {625}{}{Pse! Trhej!}
-{626}{}{Hej, Lenny! Pøijdeš k nám nìkdy do Broken Hills?}
-{627}{}{Lenny! Pojï chlastat!}
-{628}{}{Lenny, je fajn mít v partì dalšího vyvinutého èlovìka.}
-{629}{}{Hej, Myrone! Chceš se prát?}
-{630}{}{Nemìj strach, malı Myrone, dám na tebe pozor.}
-{631}{}{Podívejte, jak je Myron chytrej!}
-{632}{}{Fùùùj!!! Nepustil tu nìkdo ducha?}
-{633}{}{[Pískání] U mi lásko není 20 let... [Zpívání]}
-{634}{}{Sakra, mám pìknì zaøízlı trenky.}
-{635}{}{V mém vìku je tøeba obèas zpomalit.}
+{626}{}{Hej, Lenny! PÅ™ijdeÅ¡ k nÃ¡m nÄ›kdy do Broken Hills?}
+{627}{}{Lenny! PojÄ chlastat!}
+{628}{}{Lenny, je fajn mÃ­t v partÄ› dalÅ¡Ã­ho vyvinutÃ©ho ÄlovÄ›ka.}
+{629}{}{Hej, Myrone! ChceÅ¡ se prÃ¡t?}
+{630}{}{NemÄ›j strach, malÃ½ Myrone, dÃ¡m na tebe pozor.}
+{631}{}{PodÃ­vejte, jak je Myron chytrej!}
+{632}{}{FÅ¯Å¯Å¯j!!! Nepustil tu nÄ›kdo ducha?}
+{633}{}{[PÃ­skÃ¡nÃ­] UÅ¾ mi lÃ¡sko nenÃ­ 20 let... [ZpÃ­vÃ¡nÃ­]}
+{634}{}{Sakra, mÃ¡m pÄ›knÄ› zaÅ™Ã­zlÃ½ trenky.}
+{635}{}{V mÃ©m vÄ›ku je tÅ™eba obÄas zpomalit.}
 {636}{}{Jen pozoruju mraky...}
 {637}{}{Chrrrrrrrrrrr.}
-{638}{}{Díky, šéfe.}
-{639}{}{Eh... díky kámo.}
-{640}{}{Ehh... díky. Asi.}
-{641}{}{Díky. Mìl jsem ízeò.}
-{642}{}{Páni... cítím se trochu srandovnì.}
-{643}{}{Nejspíš mìl Francis pravdu ohlednì Jacoba. Ten vraednı parchant u nebude v tomhle mìstì dìlat problémy.}
-{644}{}{Získáváš loveckou pušku se zamìøovaèem.}
-{1100}{mcs43alt}{ádnı problém.}
-{3000}{}{Mùeme vyrazit.}
-{3100}{}{Zapomeò na to, kreténe.}
-{3200}{}{No to je jedno. Tvoje mínus.}
-{3300}{}{Krucinál. Tak moná pozdìji.}
-{9999}{}{Chci se zeptat na pár otázek...}
-{10001}{}{Vezmi si pár Stimpakù a uzdrav se.}
-{10002}{}{Marcusi, potøebuju, abys tu poèkal, ne se vrátím.}
-{10003}{}{Schovej svoji zbraò.}
-{10004}{}{Dr se blízko mì.}
+{638}{}{DÃ­ky, Å¡Ã©fe.}
+{639}{}{Eh... dÃ­ky kÃ¡mo.}
+{640}{}{Ehh... dÃ­ky. Asi.}
+{641}{}{DÃ­ky. MÄ›l jsem Å¾Ã­zeÅˆ.}
+{642}{}{PÃ¡ni... cÃ­tÃ­m se trochu srandovnÄ›.}
+{643}{}{NejspÃ­Å¡ mÄ›l Francis pravdu ohlednÄ› Jacoba. Ten vraÅ¾ednÃ½ parchant uÅ¾ nebude v tomhle mÄ›stÄ› dÄ›lat problÃ©my.}
+{644}{}{ZÃ­skÃ¡vÃ¡Å¡ loveckou puÅ¡ku se zamÄ›Å™ovaÄem.}
+{1100}{mcs43alt}{Å½Ã¡dnÃ½ problÃ©m.}
+{3000}{}{MÅ¯Å¾eme vyrazit.}
+{3100}{}{ZapomeÅˆ na to, kretÃ©ne.}
+{3200}{}{No to je jedno. Tvoje mÃ­nus.}
+{3300}{}{KrucinÃ¡l. Tak moÅ¾nÃ¡ pozdÄ›ji.}
+{9999}{}{Chci se zeptat na pÃ¡r otÃ¡zek...}
+{10001}{}{Vezmi si pÃ¡r StimpakÅ¯ a uzdrav se.}
+{10002}{}{Marcusi, potÅ™ebuju, abys tu poÄkal, neÅ¾ se vrÃ¡tÃ­m.}
+{10003}{}{Schovej svoji zbraÅˆ.}
+{10004}{}{DrÅ¾ se blÃ­zko mÄ›.}
 {10005}{}{Moc se nevzdaluj.}
-{10006}{}{Mìli bychom se trochu rozestoupit.}
-{10007}{}{Tak pojïme.}
-{10008}{}{Mùeš si nasadit zbroj?}
-{10100}{}{Pohni s sebou, Marcusi. Je èas vyrazit.}
-{20000}{mcs81b}{Dobøe.}
-{20001}{}{Hehe. Umím pouívat jakoukoliv velkou zbraò jako tøeba raketomet nebo gatling a taky velké energetické zbranì. S pìstmi taky nejsem špatnı a s granátama nadìlám docela velkou paseku. Nenosím ádnou zbroj. Moji velikost nedìlají.}
-{30000}{}{Ne, díky, u ho mám pro dnešek plné zuby. Nashle.}
-{40000}{}{Tak se moje domnìnka s Chadem potvrdila. Vypadá to, e teï nìjakou dobu nebude øídit karavany.}
-{40001}{}{Tak jo, Chade, èas zaplatit za svoje høíchy.}
-{40002}{}{*vzdych* U jdu.}
-{40003}{}{Podaøilo se ti dokázat, e je Chad vinen z ulévání penìz z karavan.}
-{40004}{}{Podaøilo se ti dokázat, e je Chad vinen z ulévání penìz z karavan. Škoda, e umøel.}
-{193001}{}{Chad si nechal asi $1000 z poslední dodávky uranu. Chce zmizet z mìsta. Mám kuføík s dokumenty, které to dokazují.}
-{193002}{}{Chad si nechal asi $1000 z poslední dodávky uranu. Chtìl zmizet z mìsta, ale trochu jsme se chytli a teï je mrtvı. Mám kuføík s dokumenty, které dokazují jeho zapojení.}
-{193003}{}{Chad všechno pøiznal. Porvali jsme se v Centru karavan. Vzdal se a èeká na odvedení.}
+{10006}{}{MÄ›li bychom se trochu rozestoupit.}
+{10007}{}{Tak pojÄme.}
+{10008}{}{MÅ¯Å¾eÅ¡ si nasadit zbroj?}
+{10100}{}{Pohni s sebou, Marcusi. Je Äas vyrazit.}
+{20000}{mcs81b}{DobÅ™e.}
+{20001}{}{Hehe. UmÃ­m pouÅ¾Ã­vat jakoukoliv velkou zbraÅˆ jako tÅ™eba raketomet nebo gatling a taky velkÃ© energetickÃ© zbranÄ›. S pÄ›stmi taky nejsem Å¡patnÃ½ a s granÃ¡tama nadÄ›lÃ¡m docela velkou paseku. NenosÃ­m Å¾Ã¡dnou zbroj. Moji velikost nedÄ›lajÃ­.}
+{30000}{}{Ne, dÃ­ky, uÅ¾ ho mÃ¡m pro dneÅ¡ek plnÃ© zuby. Nashle.}
+{40000}{}{Tak se moje domnÄ›nka s Chadem potvrdila. VypadÃ¡ to, Å¾e teÄ nÄ›jakou dobu nebude Å™Ã­dit karavany.}
+{40001}{}{Tak jo, Chade, Äas zaplatit za svoje hÅ™Ã­chy.}
+{40002}{}{*vzdych* UÅ¾ jdu.}
+{40003}{}{PodaÅ™ilo se ti dokÃ¡zat, Å¾e je Chad vinen z ulÃ©vÃ¡nÃ­ penÄ›z z karavan.}
+{40004}{}{PodaÅ™ilo se ti dokÃ¡zat, Å¾e je Chad vinen z ulÃ©vÃ¡nÃ­ penÄ›z z karavan. Å koda, Å¾e umÅ™el.}
+{193001}{}{Chad si nechal asi $1000 z poslednÃ­ dodÃ¡vky uranu. Chce zmizet z mÄ›sta. MÃ¡m kufÅ™Ã­k s dokumenty, kterÃ© to dokazujÃ­.}
+{193002}{}{Chad si nechal asi $1000 z poslednÃ­ dodÃ¡vky uranu. ChtÄ›l zmizet z mÄ›sta, ale trochu jsme se chytli a teÄ je mrtvÃ½. MÃ¡m kufÅ™Ã­k s dokumenty, kterÃ© dokazujÃ­ jeho zapojenÃ­.}
+{193003}{}{Chad vÅ¡echno pÅ™iznal. Porvali jsme se v Centru karavan. Vzdal se a ÄekÃ¡ na odvedenÃ­.}

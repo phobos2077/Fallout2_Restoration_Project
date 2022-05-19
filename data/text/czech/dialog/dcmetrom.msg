@@ -1,25 +1,25 @@
-{100}{}{Vidíš drsného otrokáøe ve støedních letech.}
-{101}{}{Vidíš dobøe urostlého otrokáøe.}
-{150}{}{Tohle je otrokáø, kterı vypadá, e ho jeho práce baví.}
-{151}{}{Tento otrokáø vypadá, e je velmi silnı, ale ne moc chytrı.}
-{200}{}{Vypadni sakra od tìch dveøí.}
-{201}{}{Co to sakra dìláš?}
-{202}{}{Metzger ti utrhne hlavu, jestli nevypadneš.}
-{203}{}{Hej, dìvko, vypadni od tìch dveøí.}
-{204}{}{ádná dìvka nevstoupí do Metzgerova pokoje. Vypadni.}
-{205}{}{Vypadni, dìvko. Otrokáø nebo ne, do Metzgerova pokoje nesmíš.}
-{250}{}{Promluv si s Metzgerem, ne se mnou, kámo.}
-{251}{}{Chceš se pøidat k cechu?}
-{252}{}{Èlenství v cechu nese pìknı prachy.}
-{253}{}{V cechu zaiješ spoustu akce.}
+{100}{}{VidÃ­Å¡ drsnÃ©ho otrokÃ¡Å™e ve stÅ™ednÃ­ch letech.}
+{101}{}{VidÃ­Å¡ dobÅ™e urostlÃ©ho otrokÃ¡Å™e.}
+{150}{}{Tohle je otrokÃ¡Å™, kterÃ½ vypadÃ¡, Å¾e ho jeho prÃ¡ce bavÃ­.}
+{151}{}{Tento otrokÃ¡Å™ vypadÃ¡, Å¾e je velmi silnÃ½, ale ne moc chytrÃ½.}
+{200}{}{Vypadni sakra od tÄ›ch dveÅ™Ã­.}
+{201}{}{Co to sakra dÄ›lÃ¡Å¡?}
+{202}{}{Metzger ti utrhne hlavu, jestli nevypadneÅ¡.}
+{203}{}{Hej, dÄ›vko, vypadni od tÄ›ch dveÅ™Ã­.}
+{204}{}{Å½Ã¡dnÃ¡ dÄ›vka nevstoupÃ­ do Metzgerova pokoje. Vypadni.}
+{205}{}{Vypadni, dÄ›vko. OtrokÃ¡Å™ nebo ne, do Metzgerova pokoje nesmÃ­Å¡.}
+{250}{}{Promluv si s Metzgerem, ne se mnou, kÃ¡mo.}
+{251}{}{ChceÅ¡ se pÅ™idat k cechu?}
+{252}{}{ÄŒlenstvÃ­ v cechu nese pÄ›knÃ½ prachy.}
+{253}{}{V cechu zaÅ¾ijeÅ¡ spoustu akce.}
 {254}{}{Promluv si s Metzgerem, ne se mnou, holka.}
-{255}{}{Metzger nenajímá dìvky, take vypadni.}
+{255}{}{Metzger nenajÃ­mÃ¡ dÄ›vky, takÅ¾e vypadni.}
 {256}{}{Vypadni.}
-{257}{}{Hej, èlovìèe.}
-{258}{}{Máš štìstí, e musíš chodit jenom na hony.}
-{259}{}{Bejt strá u dveøí je nuda.}
+{257}{}{Hej, ÄlovÄ›Äe.}
+{258}{}{MÃ¡Å¡ Å¡tÄ›stÃ­, Å¾e musÃ­Å¡ chodit jenom na hony.}
+{259}{}{Bejt strÃ¡Å¾ u dveÅ™Ã­ je nuda.}
 {260}{}{Jak to jde?}
-{261}{}{Jseš první enská, kterou si kdy Metzger najal.}
-{262}{}{Metzger musí mít pro tebe slabost.}
-{263}{}{Jseš široko daleko jediná enská.}
-{264}{}{enská otrokáøem... nikdy jsem si nemyslel, e to nìkdy uvidím.}
+{261}{}{JseÅ¡ prvnÃ­ Å¾enskÃ¡, kterou si kdy Metzger najal.}
+{262}{}{Metzger musÃ­ mÃ­t pro tebe slabost.}
+{263}{}{JseÅ¡ Å¡iroko daleko jedinÃ¡ Å¾enskÃ¡.}
+{264}{}{Å½enskÃ¡ otrokÃ¡Å™em... nikdy jsem si nemyslel, Å¾e to nÄ›kdy uvidÃ­m.}

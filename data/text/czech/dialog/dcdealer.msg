@@ -1,10 +1,10 @@
-{100}{}{Vidíš drogového dealera.}
-{101}{}{Vidíš drogového dealera.}
-{102}{}{Jestli hledáš nìjakej matroš, tak bych nìco mìl.}
-{103}{}{Jasnì, uka co máš.}
-{104}{}{Moná nìkdy pøíštì.}
-{105}{}{Našel jsi, co jsi hledal?}
-{106}{}{Díky. Sbohem.}
-{200}{}{Vidíš hrdloøeza.}
-{201}{}{Vidíš hrdloøeza.}
-{202}{}{Dìlám ochranku. Promluv si s dealerem, jestli chceš fet.}
+{100}{}{VidÃ­Å¡ drogovÃ©ho dealera.}
+{101}{}{VidÃ­Å¡ drogovÃ©ho dealera.}
+{102}{}{Jestli hledÃ¡Å¡ nÄ›jakej matroÅ¡, tak bych nÄ›co mÄ›l.}
+{103}{}{JasnÄ›, ukaÅ¾ co mÃ¡Å¡.}
+{104}{}{MoÅ¾nÃ¡ nÄ›kdy pÅ™Ã­Å¡tÄ›.}
+{105}{}{NaÅ¡el jsi, co jsi hledal?}
+{106}{}{DÃ­ky. Sbohem.}
+{200}{}{VidÃ­Å¡ hrdloÅ™eza.}
+{201}{}{VidÃ­Å¡ hrdloÅ™eza.}
+{202}{}{DÄ›lÃ¡m ochranku. Promluv si s dealerem, jestli chceÅ¡ fet.}

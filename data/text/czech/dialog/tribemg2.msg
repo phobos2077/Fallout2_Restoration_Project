@@ -1,5 +1,5 @@
-{100}{}{Vidíš neposedného bodyguarda.}
-{101}{}{Jeden z bodyguardù jednookého Roye. Vypadá to, e je znudìnı a natìšenı na nìjakou akci.}
-{200}{}{Na co èumíš, divochu?}
-{201}{}{Vypadnem u kurva odsud, mám hlad.}
-{202}{}{Kdy u budu moct nìco zastøelit?}
+{100}{}{VidÃ­Å¡ neposednÃ©ho bodyguarda.}
+{101}{}{Jeden z bodyguardÅ¯ jednookÃ©ho Roye. VypadÃ¡ to, Å¾e je znudÄ›nÃ½ a natÄ›Å¡enÃ½ na nÄ›jakou akci.}
+{200}{}{Na co ÄumÃ­Å¡, divochu?}
+{201}{}{Vypadnem uÅ¾ kurva odsud, mÃ¡m hlad.}
+{202}{}{Kdy uÅ¾ budu moct nÄ›co zastÅ™elit?}

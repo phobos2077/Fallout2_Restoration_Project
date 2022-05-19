@@ -1,40 +1,40 @@
-{100}{}{Vidíš hromadu hadrù, pod kterımi jako by byl nìjakı èlovìk.}
-{101}{}{Vidíš Ratche, kterı si nejspíš vybírá vši.}
-{102}{}{Mohl by to bıt èlovìk. Nebo by to mohl bıt mutant. Ale jedno je jisté, opravdu, ale opravdu hroznì smrdí.}
-{103}{}{Haraburdí na prodej, staré vìci na prodej. Rozhlídni se kolem a navrhni mi cenu.}
-{104}{}{Jasnì, jak chceš.}
+{100}{}{VidÃ­Å¡ hromadu hadrÅ¯, pod kterÃ½mi jako by byl nÄ›jakÃ½ ÄlovÄ›k.}
+{101}{}{VidÃ­Å¡ Ratche, kterÃ½ si nejspÃ­Å¡ vybÃ­rÃ¡ vÅ¡i.}
+{102}{}{Mohl by to bÃ½t ÄlovÄ›k. Nebo by to mohl bÃ½t mutant. Ale jedno je jistÃ©, opravdu, ale opravdu hroznÄ› smrdÃ­.}
+{103}{}{HaraburdÃ­ na prodej, starÃ© vÄ›ci na prodej. RozhlÃ­dni se kolem a navrhni mi cenu.}
+{104}{}{JasnÄ›, jak chceÅ¡.}
 {105}{}{Eh... he.}
-{106}{}{Co máš na prodej?}
-{107}{}{Zdá se, e máš šikovné ruce. Máš ruce, e jo?}
-{108}{}{Dám ti $5. Povíš mi nìjaké èerstvé drby?}
+{106}{}{Co mÃ¡Å¡ na prodej?}
+{107}{}{ZdÃ¡ se, Å¾e mÃ¡Å¡ Å¡ikovnÃ© ruce. MÃ¡Å¡ ruce, Å¾e jo?}
+{108}{}{DÃ¡m ti $5. PovÃ­Å¡ mi nÄ›jakÃ© ÄerstvÃ© drby?}
 {109}{}{Sbohem.}
-{110}{}{Vidíš támhleto? To je moje favoritka. Jmenuje se Edna. Víš, pojmenovávám všechny svoje vìci. Jsou jako moje vlastní dìti. Sice je hroznì nerad prodávám, ale z nìèeho jíst musím.}
-{111}{}{Nech moje dìti na pokoji!}
-{112}{}{Tak jo. Tady máš bùra. Nemáš nìjaké èerstvé drby?}
-{113}{}{Dobøe... jsi opravdu zvláštní! Asi se poohlédnu po nìjakém jiném obchodu.}
-{114}{}{Ještì jednou se podívám co máš.}
-{115}{}{Myslím, e já a Edna u pùjdeme.}
+{110}{}{VidÃ­Å¡ tÃ¡mhleto? To je moje favoritka. Jmenuje se Edna. VÃ­Å¡, pojmenovÃ¡vÃ¡m vÅ¡echny svoje vÄ›ci. Jsou jako moje vlastnÃ­ dÄ›ti. Sice je hroznÄ› nerad prodÃ¡vÃ¡m, ale z nÄ›Äeho jÃ­st musÃ­m.}
+{111}{}{Nech moje dÄ›ti na pokoji!}
+{112}{}{Tak jo. Tady mÃ¡Å¡ bÅ¯ra. NemÃ¡Å¡ nÄ›jakÃ© ÄerstvÃ© drby?}
+{113}{}{DobÅ™e... jsi opravdu zvlÃ¡Å¡tnÃ­! Asi se poohlÃ©dnu po nÄ›jakÃ©m jinÃ©m obchodu.}
+{114}{}{JeÅ¡tÄ› jednou se podÃ­vÃ¡m co mÃ¡Å¡.}
+{115}{}{MyslÃ­m, Å¾e jÃ¡ a Edna uÅ¾ pÅ¯jdeme.}
 {116}{}{Well, thank god that stranger didn't take you, child... My stuff is like my children, see.}
-{117}{}{Ehh, jasnì.}
-{118}{}{No, myslím, e u pùjdu.}
-{119}{}{Umím vylepšit spoustu vìcí. Mám tady tøeba kompresor, øíkám mu Claudia, kterej pasuje do vìtšiny aut. Podstatnì mu tím zvıší vıkon. Jenom za $1000. Máš zájem?}
-{120}{}{Ty idiote, o tom jsme se u pøece bavili.}
-{121}{}{To si piš, Claudia je moje... no to je jedno.}
-{122}{}{Moná nìco jiného.}
-{123}{}{Slyšel jsem, e je ve mìstì nìjakej doktor, kterej má prej nìjakej zázraènej lék. Ale moc tomu nevìøím...}
-{124}{}{Pak tøeba Slaneèek. Ten starej blázen øíká, e našel zlatej dùl...}
-{125}{}{Minulej tejden tady byla sleèna Dorothy a Toto a hledali nìjakı souèástky na opravu elektrárny. Bohuel jsem jim nedokázal pomoct...}
-{126}{}{Povídá se, e to co se pøihodilo panu Westinovi, nebyla ádná nehoda. Nìkterım lidem se zdá, e se tady ochomejtá nìjak moc podezøelejch cizincù...}
-{127}{}{Díky za peníze, ale nic víc u nevím.}
-{128}{}{Tady máš další bùra.}
-{129}{}{Mùu vidìt co nabízíš?}
-{130}{}{Tak díky za informace.}
-{131}{}{Dobøe, dej mi tak šest hodin. Za tu dobu bych to mìl snad zvládnout.}
-{132}{}{Ne se do toho pustíš, mùu se na nìco zeptat?}
-{133}{}{Dobøe. Uvidíme se pozdìji.}
-{134}{}{Hele, tak a budeš mít peníze, tak pøijï. Myslím, e tu vìc budu ještì mít.}
+{117}{}{Ehh, jasnÄ›.}
+{118}{}{No, myslÃ­m, Å¾e uÅ¾ pÅ¯jdu.}
+{119}{}{UmÃ­m vylepÅ¡it spoustu vÄ›cÃ­. MÃ¡m tady tÅ™eba kompresor, Å™Ã­kÃ¡m mu Claudia, kterej pasuje do vÄ›tÅ¡iny aut. PodstatnÄ› mu tÃ­m zvÃ½Å¡Ã­ vÃ½kon. Jenom za $1000. MÃ¡Å¡ zÃ¡jem?}
+{120}{}{Ty idiote, o tom jsme se uÅ¾ pÅ™ece bavili.}
+{121}{}{To si piÅ¡, Claudia je moje... no to je jedno.}
+{122}{}{MoÅ¾nÃ¡ nÄ›co jinÃ©ho.}
+{123}{}{SlyÅ¡el jsem, Å¾e je ve mÄ›stÄ› nÄ›jakej doktor, kterej mÃ¡ prej nÄ›jakej zÃ¡zraÄnej lÃ©k. Ale moc tomu nevÄ›Å™Ã­m...}
+{124}{}{Pak tÅ™eba SlaneÄek. Ten starej blÃ¡zen Å™Ã­kÃ¡, Å¾e naÅ¡el zlatej dÅ¯l...}
+{125}{}{Minulej tejden tady byla sleÄna Dorothy a Toto a hledali nÄ›jakÃ½ souÄÃ¡stky na opravu elektrÃ¡rny. BohuÅ¾el jsem jim nedokÃ¡zal pomoct...}
+{126}{}{PovÃ­dÃ¡ se, Å¾e to co se pÅ™ihodilo panu Westinovi, nebyla Å¾Ã¡dnÃ¡ nehoda. NÄ›kterÃ½m lidem se zdÃ¡, Å¾e se tady ochomejtÃ¡ nÄ›jak moc podezÅ™elejch cizincÅ¯...}
+{127}{}{DÃ­ky za penÃ­ze, ale nic vÃ­c uÅ¾ nevÃ­m.}
+{128}{}{Tady mÃ¡Å¡ dalÅ¡Ã­ bÅ¯ra.}
+{129}{}{MÅ¯Å¾u vidÄ›t co nabÃ­zÃ­Å¡?}
+{130}{}{Tak dÃ­ky za informace.}
+{131}{}{DobÅ™e, dej mi tak Å¡est hodin. Za tu dobu bych to mÄ›l snad zvlÃ¡dnout.}
+{132}{}{NeÅ¾ se do toho pustÃ­Å¡, mÅ¯Å¾u se na nÄ›co zeptat?}
+{133}{}{DobÅ™e. UvidÃ­me se pozdÄ›ji.}
+{134}{}{Hele, tak aÅ¾ budeÅ¡ mÃ­t penÃ­ze, tak pÅ™ijÄ. MyslÃ­m, Å¾e tu vÄ›c budu jeÅ¡tÄ› mÃ­t.}
 {135}{}{Tak jo.}
 {136}{}{Sbohem.}
-{137}{}{Tak a je to! Claudia je nainstalovaná.}
-{138}{}{Dej mi ještì trochu èasu. Poøád pracuju na tı proklatı vìci.}
-{139}{}{A jéjé! Myslím, e náhradní mozek pro tebe bohuel nemám.}
+{137}{}{Tak a je to! Claudia je nainstalovanÃ¡.}
+{138}{}{Dej mi jeÅ¡tÄ› trochu Äasu. PoÅ™Ã¡d pracuju na tÃ½ proklatÃ½ vÄ›ci.}
+{139}{}{A jÃ©jÃ©! MyslÃ­m, Å¾e nÃ¡hradnÃ­ mozek pro tebe bohuÅ¾el nemÃ¡m.}

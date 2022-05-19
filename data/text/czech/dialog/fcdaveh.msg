@@ -1,103 +1,103 @@
-{100}{}{Vidíš mue s pískovou barvou vlasù.}
-{101}{}{Vidíš Dava H.}
-{102}{}{Vidíš mue s pískovou barvou vlasù se tøpytem nadìje v oèích.}
-{103}{}{Proè nám chceš ublíit?}
-{104}{}{Jak ti mùu pomoct, osvícenı?}
-{105}{}{Chystám se sbalit Vikki... eh... u brzy.}
-{106}{}{Jak ti s tím mùu pomoct?}
-{107}{}{Co chceš?}
-{108}{}{Da... ó...}
+{100}{}{VidÃ­Å¡ muÅ¾e s pÃ­skovou barvou vlasÅ¯.}
+{101}{}{VidÃ­Å¡ Dava H.}
+{102}{}{VidÃ­Å¡ muÅ¾e s pÃ­skovou barvou vlasÅ¯ se tÅ™pytem nadÄ›je v oÄÃ­ch.}
+{103}{}{ProÄ nÃ¡m chceÅ¡ ublÃ­Å¾it?}
+{104}{}{Jak ti mÅ¯Å¾u pomoct, osvÃ­cenÃ½?}
+{105}{}{ChystÃ¡m se sbalit Vikki... eh... uÅ¾ brzy.}
+{106}{}{Jak ti s tÃ­m mÅ¯Å¾u pomoct?}
+{107}{}{Co chceÅ¡?}
+{108}{}{Da... Ã³...}
 {109}{}{Kdo jsi?}
-{110}{}{Co tady dìláš?}
-{111}{}{Mluvila se mnou Vikki. Ona a Juan si z tebe dìlali srandu a øíkali, e nejsi opravdovı mu.}
-{112}{}{Mluvila se mnou Vikki. Øíkala, e jsi sexy a e po tobì obèas touí.}
-{113}{}{Mám to s Vikki domluvit místo tebe?}
+{110}{}{Co tady dÄ›lÃ¡Å¡?}
+{111}{}{Mluvila se mnou Vikki. Ona a Juan si z tebe dÄ›lali srandu a Å™Ã­kali, Å¾e nejsi opravdovÃ½ muÅ¾.}
+{112}{}{Mluvila se mnou Vikki. Å˜Ã­kala, Å¾e jsi sexy a Å¾e po tobÄ› obÄas touÅ¾Ã­.}
+{113}{}{MÃ¡m to s Vikki domluvit mÃ­sto tebe?}
 {114}{}{Ale nic. Nashle.}
 {115}{}{Ummm... oookay. Whatever. Say, what's that over there?
 [As you turn to look, he whips back to what he was doing and ignores you.]}
 {116}{}{[KONEC]}
 {117}{}{Jsem Dave Handy. Jsem z Kanady.}
-{118}{}{Take co tu dìláš?}
-{119}{}{Co tì sem pøivedlo?}
-{120}{}{Dík. Naskle.}
-{121}{}{Ukazuju lidem, jak pøemístit svoje data a odpovídám celı den na pitomé otázky.}
-{122}{}{Dokázal bys hacknout databázi Shi?}
-{123}{}{Jaké pitomé otázky?}
-{124}{}{Dobrá, mám pro tebe další otázky.}
-{125}{}{To zní dobøe. Nashle.}
-{126}{}{Slib mi, e se nebudeš smát.}
-{127}{}{Dobøe.}
-{128}{}{Ne, zapomeò na to.}
-{129}{}{Náboráøka Hubu, Vikki Goldmanová. Vidìl jsem jeden z jejich filmù v Kanadì a prostì jsem vìdìl, e se do mì zamiluje. Ještì se to nestalo, ale pracuju na tom.}
-{130}{}{Nechám si to pro sebe. Mám nìjaké další otázky.}
-{131}{}{Haha! Ty jsi ale hlupák! Ona je pornohvìzda, kamaráde. Ta tì nechce.}
-{132}{}{Je ti jasné, e se bude chovat jako e ji zajímáš jen proto, abys zùstal dobrım Hubologistou?}
-{133}{}{No, jo... ale bude to stát za to, pokud k nìèemu dojde!}
-{134}{}{Kdy myslíš... mám další otázky.}
-{135}{}{Jo, jasnì. Mìj se.}
-{136}{}{:: chvíli sedí v ohromném tichu:: ::oblièejem mu projede bolest:: Tak dobøe. ::otoèí hlavu na druhou stranu::}
-{137}{}{Vsadím se, e se k ní chceš vrátit.}
-{138}{}{Promiò. Mám další otázky.}
-{139}{}{Trvalo doruèit tu novinku... tak dlouho!}
-{140}{}{To si piš, e jo. Co potøebuješ?}
-{141}{}{Potøebuju plány vertibirdu z tvého poèítaèe.}
-{142}{}{Potøebuju, abys zformátoval pevnı disk Hubologistù.}
-{143}{}{Chci, aby ses nahackoval do databází Shi a pøevedl nìjaké palivo do tankeru Poseidon.}
-{144}{}{Chci, abys pøevedl palivo z vesmírné lodi do tankeru Poseidon.}
-{145}{}{Nic. Mìj se.}
-{146}{}{Hotovo. Teï odsud odejdi. Zformátuju ten poèítaè a pak odejdu.}
-{147}{}{Potøebuju plány vertibirdu z tvého poèítaèe.}
-{148}{}{Chci, aby ses nahackoval do databází Shi a pøevedl nìjaké palivo do tankeru Poseidon.}
-{149}{}{Chci, abys pøevedl palivo z vesmírné lodi do tankeru Poseidon.}
-{150}{}{No, opravdu si jen dìlám srandu. Ona to vlastnì neøekla.}
-{151}{}{Hodnì štìstí. Mìj se!}
-{152}{}{Hotovo. To odnauèí ty bastardy, aby mì jen vyuili a potom odmítli. Sbohem.}
-{153}{}{No, opravdu si jen dìlám srandu. Ona to vlastnì neøekla.}
+{118}{}{TakÅ¾e co tu dÄ›lÃ¡Å¡?}
+{119}{}{Co tÄ› sem pÅ™ivedlo?}
+{120}{}{DÃ­k. Naskle.}
+{121}{}{Ukazuju lidem, jak pÅ™emÃ­stit svoje data a odpovÃ­dÃ¡m celÃ½ den na pitomÃ© otÃ¡zky.}
+{122}{}{DokÃ¡zal bys hacknout databÃ¡zi Shi?}
+{123}{}{JakÃ© pitomÃ© otÃ¡zky?}
+{124}{}{DobrÃ¡, mÃ¡m pro tebe dalÅ¡Ã­ otÃ¡zky.}
+{125}{}{To znÃ­ dobÅ™e. Nashle.}
+{126}{}{Slib mi, Å¾e se nebudeÅ¡ smÃ¡t.}
+{127}{}{DobÅ™e.}
+{128}{}{Ne, zapomeÅˆ na to.}
+{129}{}{NÃ¡borÃ¡Å™ka Hubu, Vikki GoldmanovÃ¡. VidÄ›l jsem jeden z jejich filmÅ¯ v KanadÄ› a prostÄ› jsem vÄ›dÄ›l, Å¾e se do mÄ› zamiluje. JeÅ¡tÄ› se to nestalo, ale pracuju na tom.}
+{130}{}{NechÃ¡m si to pro sebe. MÃ¡m nÄ›jakÃ© dalÅ¡Ã­ otÃ¡zky.}
+{131}{}{Haha! Ty jsi ale hlupÃ¡k! Ona je pornohvÄ›zda, kamarÃ¡de. Ta tÄ› nechce.}
+{132}{}{Je ti jasnÃ©, Å¾e se bude chovat jako Å¾e ji zajÃ­mÃ¡Å¡ jen proto, abys zÅ¯stal dobrÃ½m Hubologistou?}
+{133}{}{No, jo... ale bude to stÃ¡t za to, pokud k nÄ›Äemu dojde!}
+{134}{}{KdyÅ¾ myslÃ­Å¡... mÃ¡m dalÅ¡Ã­ otÃ¡zky.}
+{135}{}{Jo, jasnÄ›. MÄ›j se.}
+{136}{}{:: chvÃ­li sedÃ­ v ohromnÃ©m tichu:: ::obliÄejem mu projede bolest:: Tak dobÅ™e. ::otoÄÃ­ hlavu na druhou stranu::}
+{137}{}{VsadÃ­m se, Å¾e se k nÃ­ chceÅ¡ vrÃ¡tit.}
+{138}{}{PromiÅˆ. MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
+{139}{}{Trvalo doruÄit tu novinku... tak dlouho!}
+{140}{}{To si piÅ¡, Å¾e jo. Co potÅ™ebujeÅ¡?}
+{141}{}{PotÅ™ebuju plÃ¡ny vertibirdu z tvÃ©ho poÄÃ­taÄe.}
+{142}{}{PotÅ™ebuju, abys zformÃ¡toval pevnÃ½ disk HubologistÅ¯.}
+{143}{}{Chci, aby ses nahackoval do databÃ¡zÃ­ Shi a pÅ™evedl nÄ›jakÃ© palivo do tankeru Poseidon.}
+{144}{}{Chci, abys pÅ™evedl palivo z vesmÃ­rnÃ© lodi do tankeru Poseidon.}
+{145}{}{Nic. MÄ›j se.}
+{146}{}{Hotovo. TeÄ odsud odejdi. ZformÃ¡tuju ten poÄÃ­taÄ a pak odejdu.}
+{147}{}{PotÅ™ebuju plÃ¡ny vertibirdu z tvÃ©ho poÄÃ­taÄe.}
+{148}{}{Chci, aby ses nahackoval do databÃ¡zÃ­ Shi a pÅ™evedl nÄ›jakÃ© palivo do tankeru Poseidon.}
+{149}{}{Chci, abys pÅ™evedl palivo z vesmÃ­rnÃ© lodi do tankeru Poseidon.}
+{150}{}{No, opravdu si jen dÄ›lÃ¡m srandu. Ona to vlastnÄ› neÅ™ekla.}
+{151}{}{HodnÄ› Å¡tÄ›stÃ­. MÄ›j se!}
+{152}{}{Hotovo. To odnauÄÃ­ ty bastardy, aby mÄ› jen vyuÅ¾ili a potom odmÃ­tli. Sbohem.}
+{153}{}{No, opravdu si jen dÄ›lÃ¡m srandu. Ona to vlastnÄ› neÅ™ekla.}
 {154}{}{Sbohem.}
-{155}{}{Ona to neøekla. Do háje.}
-{156}{}{Take jsem to všechno dìlal zbyteènì? Za to tì teï zabiju.}
-{157}{}{Mùeš to zkusit.}
-{158}{}{Tohle e øekla? Opravdu? Páni. ::na oblièeji se mu zjeví blaenı úsmìv:: Díky! Co pro tebe mùu udìlat?}
-{159}{}{Potøebuju plány vertibirdu z tvého poèítaèe.}
-{160}{}{Potøebuju, abys zformátoval pevnı disk Hubologistù.}
-{161}{}{Chci, aby ses nahackoval do databází Shi a pøevedl nìjaké palivo do tankeru Poseidon.}
-{162}{}{Chci, abys pøevedl palivo z vesmírné lodi do tankeru Poseidon.}
-{163}{}{Ále nic. Bì a trochu si uij.}
-{164}{}{Tady to máš. Ještì nìco?}
-{165}{}{Potøebuju plány vertibirdu z tvého poèítaèe.}
-{166}{}{Potøebuju, abys zformátoval pevnı disk Hubologistù.}
-{167}{}{Chci, abys pøevedl palivo z vesmírné lodi do tankeru Poseidon.}
-{168}{}{Chci, aby ses nahackoval do databází Shi a pøevedl nìjaké palivo do tankeru Poseidon.}
-{169}{}{Ne. Mìj se!}
-{170}{}{Zformátovat pevnı disk? Dìláš si srandu? V ádnım pøípadì! To nemùu udìlat!}
-{171}{}{Je to jen rutinní èištìní. Všechno je zazálohované.}
-{172}{}{Aha, tak dobøe. Mám další otázky.}
-{173}{}{Aha, tak dobøe. Nashle.}
-{174}{}{Aha. No, pokud je všechno zazálohované, tak to klidnì udìlám. ::píše na klávesnici:: Hotovo.}
-{175}{}{Díky! Mìj se!}
-{176}{}{Právì jsi ze sebe udìlal pìkného hlupáka. Mìj se!}
-{177}{}{Zkontroluju to sám. Myslím, e teï není bezpeèné zformátovat hlavní poèítaè.}
-{178}{}{Tak dobøe. Mám další otázky.}
-{179}{}{Tak dobøe. Nashle.}
-{180}{}{Ne ne... za to bych se moc stydìl.}
-{181}{}{Fajn, fajn. Mám další otázky.}
+{155}{}{Ona to neÅ™ekla. Do hÃ¡je.}
+{156}{}{TakÅ¾e jsem to vÅ¡echno dÄ›lal zbyteÄnÄ›? Za to tÄ› teÄ zabiju.}
+{157}{}{MÅ¯Å¾eÅ¡ to zkusit.}
+{158}{}{Tohle Å¾e Å™ekla? Opravdu? PÃ¡ni. ::na obliÄeji se mu zjevÃ­ blaÅ¾enÃ½ ÃºsmÄ›v:: DÃ­ky! Co pro tebe mÅ¯Å¾u udÄ›lat?}
+{159}{}{PotÅ™ebuju plÃ¡ny vertibirdu z tvÃ©ho poÄÃ­taÄe.}
+{160}{}{PotÅ™ebuju, abys zformÃ¡toval pevnÃ½ disk HubologistÅ¯.}
+{161}{}{Chci, aby ses nahackoval do databÃ¡zÃ­ Shi a pÅ™evedl nÄ›jakÃ© palivo do tankeru Poseidon.}
+{162}{}{Chci, abys pÅ™evedl palivo z vesmÃ­rnÃ© lodi do tankeru Poseidon.}
+{163}{}{Ãle nic. BÄ›Å¾ a trochu si uÅ¾ij.}
+{164}{}{Tady to mÃ¡Å¡. JeÅ¡tÄ› nÄ›co?}
+{165}{}{PotÅ™ebuju plÃ¡ny vertibirdu z tvÃ©ho poÄÃ­taÄe.}
+{166}{}{PotÅ™ebuju, abys zformÃ¡toval pevnÃ½ disk HubologistÅ¯.}
+{167}{}{Chci, abys pÅ™evedl palivo z vesmÃ­rnÃ© lodi do tankeru Poseidon.}
+{168}{}{Chci, aby ses nahackoval do databÃ¡zÃ­ Shi a pÅ™evedl nÄ›jakÃ© palivo do tankeru Poseidon.}
+{169}{}{Ne. MÄ›j se!}
+{170}{}{ZformÃ¡tovat pevnÃ½ disk? DÄ›lÃ¡Å¡ si srandu? V Å¾Ã¡dnÃ½m pÅ™Ã­padÄ›! To nemÅ¯Å¾u udÄ›lat!}
+{171}{}{Je to jen rutinnÃ­ ÄiÅ¡tÄ›nÃ­. VÅ¡echno je zazÃ¡lohovanÃ©.}
+{172}{}{Aha, tak dobÅ™e. MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
+{173}{}{Aha, tak dobÅ™e. Nashle.}
+{174}{}{Aha. No, pokud je vÅ¡echno zazÃ¡lohovanÃ©, tak to klidnÄ› udÄ›lÃ¡m. ::pÃ­Å¡e na klÃ¡vesnici:: Hotovo.}
+{175}{}{DÃ­ky! MÄ›j se!}
+{176}{}{PrÃ¡vÄ› jsi ze sebe udÄ›lal pÄ›knÃ©ho hlupÃ¡ka. MÄ›j se!}
+{177}{}{Zkontroluju to sÃ¡m. MyslÃ­m, Å¾e teÄ nenÃ­ bezpeÄnÃ© zformÃ¡tovat hlavnÃ­ poÄÃ­taÄ.}
+{178}{}{Tak dobÅ™e. MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
+{179}{}{Tak dobÅ™e. Nashle.}
+{180}{}{Ne ne... za to bych se moc stydÄ›l.}
+{181}{}{Fajn, fajn. MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
 {182}{}{Fajn, fajn.}
-{183}{}{To bych mìl zvládnout, ale jen pokud máš na mysli nìco konkrétního.}
-{184}{}{Pøeveï palivo do tankeru Poseidon.}
-{185}{}{Nic konkrétního mì teï nenapadá. Dám ti ještì vìdìt.}
-{186}{}{No, nìco jako:}
-{187}{}{"Podporuje mùj terminál 3D karty?"}
-{188}{}{"Proè nemùu mít multi-uivatelskı pøístup?"}
-{189}{}{"Myslím, e bychom mìli zmìnit rozhraní i pøesto, e to dosavadní funguje naprosto perfektnì!"}
-{190}{}{"Proè nemùu na svùj monitor pouít meè nebo motorovou pilu?"}
-{191}{}{"Mìl bych bıt schopen pouívat dvì zbranì. Proè nemùu pouívat dvì zbranì zároveò?"}
-{192}{}{"Rozhraní mého terminálu je pomalé a trhané. Myslím, e je to tvoje chyba."}
-{193}{}{Nìco takového.}
-{194}{}{Chápu. Zdá se, e je s tìmi lidmi hodnì zábavy. Mám další otázky.}
-{195}{}{Chápu. No, zatím.}
-{196}{}{To bych mohl, ale potøebuju k tomu nìjakı dobrı dùvod a ten prostì nemám. Promiò. Nìco jiného?}
-{197}{}{Ano, mám další otázky.}
+{183}{}{To bych mÄ›l zvlÃ¡dnout, ale jen pokud mÃ¡Å¡ na mysli nÄ›co konkrÃ©tnÃ­ho.}
+{184}{}{PÅ™eveÄ palivo do tankeru Poseidon.}
+{185}{}{Nic konkrÃ©tnÃ­ho mÄ› teÄ nenapadÃ¡. DÃ¡m ti jeÅ¡tÄ› vÄ›dÄ›t.}
+{186}{}{No, nÄ›co jako:}
+{187}{}{"Podporuje mÅ¯j terminÃ¡l 3D karty?"}
+{188}{}{"ProÄ nemÅ¯Å¾u mÃ­t multi-uÅ¾ivatelskÃ½ pÅ™Ã­stup?"}
+{189}{}{"MyslÃ­m, Å¾e bychom mÄ›li zmÄ›nit rozhranÃ­ i pÅ™esto, Å¾e to dosavadnÃ­ funguje naprosto perfektnÄ›!"}
+{190}{}{"ProÄ nemÅ¯Å¾u na svÅ¯j monitor pouÅ¾Ã­t meÄ nebo motorovou pilu?"}
+{191}{}{"MÄ›l bych bÃ½t schopen pouÅ¾Ã­vat dvÄ› zbranÄ›. ProÄ nemÅ¯Å¾u pouÅ¾Ã­vat dvÄ› zbranÄ› zÃ¡roveÅˆ?"}
+{192}{}{"RozhranÃ­ mÃ©ho terminÃ¡lu je pomalÃ© a trhanÃ©. MyslÃ­m, Å¾e je to tvoje chyba."}
+{193}{}{NÄ›co takovÃ©ho.}
+{194}{}{ChÃ¡pu. ZdÃ¡ se, Å¾e je s tÄ›mi lidmi hodnÄ› zÃ¡bavy. MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
+{195}{}{ChÃ¡pu. No, zatÃ­m.}
+{196}{}{To bych mohl, ale potÅ™ebuju k tomu nÄ›jakÃ½ dobrÃ½ dÅ¯vod a ten prostÄ› nemÃ¡m. PromiÅˆ. NÄ›co jinÃ©ho?}
+{197}{}{Ano, mÃ¡m dalÅ¡Ã­ otÃ¡zky.}
 {198}{}{Ne, asi ne.}
-{199}{}{Lituju, ale jejich systém u nìjakou chvíli neodpovídá. Neexistuje ádnı zpùsob, jak se tam dostat. Nìco jiného?}
-{200}{}{Chystám se sbalit Vikki... eh... u brzy. Mùu ti s nìèím pomoct?}
-{201}{}{Jejich systém u nìjakou chvíli neodpovídá. Vypadá to, jako by nìkdo zformátoval jejich databáze. Pøesnì to samé udìlám tady, a s tebou skonèím. Ještì nìco?}
+{199}{}{Lituju, ale jejich systÃ©m uÅ¾ nÄ›jakou chvÃ­li neodpovÃ­dÃ¡. Neexistuje Å¾Ã¡dnÃ½ zpÅ¯sob, jak se tam dostat. NÄ›co jinÃ©ho?}
+{200}{}{ChystÃ¡m se sbalit Vikki... eh... uÅ¾ brzy. MÅ¯Å¾u ti s nÄ›ÄÃ­m pomoct?}
+{201}{}{Jejich systÃ©m uÅ¾ nÄ›jakou chvÃ­li neodpovÃ­dÃ¡. VypadÃ¡ to, jako by nÄ›kdo zformÃ¡toval jejich databÃ¡ze. PÅ™esnÄ› to samÃ© udÄ›lÃ¡m tady, aÅ¾ s tebou skonÄÃ­m. JeÅ¡tÄ› nÄ›co?}

@@ -1,46 +1,46 @@
-{100}{}{Vidíš osobu se silnou zbraní.}
-{101}{}{Vidíš hlídaèe karavan z Broken Hills.}
-{102}{}{Vidíš osobu se silnou zbraní a v zaprášeném obleèením.}
-{103}{}{Nìco ti øeknu, ještì jednou potkám skupinu potulnejch zabijákù a na pøíští cestu si beru dynamit.}
-{104}{}{Hodila by se nám nìjaká pomoc na hlídání karavan.}
-{105}{}{Do háje... práce hlídky u mi leze krkem.}
-{106}{}{Pak jsem uvidìl, jak se blíí nìjakej divoch a... to je jedno.}
-{107}{}{Ještì jednou nás bude chtít nìkdo obrat, tak ho zabiju.}
-{108}{}{Pøísahám, e jestli banditi ještì jednou nìco zkusí, tak pøíští rok všichni zemøeme.}
-{109}{}{Z jakıpak díry jsi to vylez?}
-{110}{}{Koupíš pracujícímu drink?}
-{111}{}{Jsem tak unavenej hlídáním karavan, e u nemùu ani mluvit.}
-{112}{}{Jestli nìco potøebuješ, promluv si s vetešníkem Billem.}
-{113}{}{Èlovìk by si myslel, e budem po všem tom civilizování pustiny blí cíli.}
-{114}{}{Tyhle války mezi lidma a mutantama u mì nudí. Nemìli bysme jít pøíkladem?}
-{115}{}{Co chceš? Nevidíš, e odpoèívám?}
-{116}{}{Kdy odjídí další karavana?}
-{117}{}{Hlídat, hlídat a zase hlídat... to je to jedinı, co tady dìlám.}
-{118}{}{Myslím, e si potøebuju dáchnout.}
-{119}{}{Zaslouím si dostat pøidáno, tohle je nebezpeèná práce.}
-{200}{}{Mùu ti nìjak pomoct?}
-{201}{}{Ano, hledám správce karavany.}
-{202}{}{Zajímalo by mì, jestli se mùu zeptat na Chada.}
+{100}{}{VidÃ­Å¡ osobu se silnou zbranÃ­.}
+{101}{}{VidÃ­Å¡ hlÃ­daÄe karavan z Broken Hills.}
+{102}{}{VidÃ­Å¡ osobu se silnou zbranÃ­ a v zaprÃ¡Å¡enÃ©m obleÄenÃ­m.}
+{103}{}{NÄ›co ti Å™eknu, jeÅ¡tÄ› jednou potkÃ¡m skupinu potulnejch zabijÃ¡kÅ¯ a na pÅ™Ã­Å¡tÃ­ cestu si beru dynamit.}
+{104}{}{Hodila by se nÃ¡m nÄ›jakÃ¡ pomoc na hlÃ­dÃ¡nÃ­ karavan.}
+{105}{}{Do hÃ¡je... prÃ¡ce hlÃ­dky uÅ¾ mi leze krkem.}
+{106}{}{Pak jsem uvidÄ›l, jak se blÃ­Å¾Ã­ nÄ›jakej divoch a... to je jedno.}
+{107}{}{JeÅ¡tÄ› jednou nÃ¡s bude chtÃ­t nÄ›kdo obrat, tak ho zabiju.}
+{108}{}{PÅ™Ã­sahÃ¡m, Å¾e jestli banditi jeÅ¡tÄ› jednou nÄ›co zkusÃ­, tak pÅ™Ã­Å¡tÃ­ rok vÅ¡ichni zemÅ™eme.}
+{109}{}{Z jakÃ½pak dÃ­ry jsi to vylez?}
+{110}{}{KoupÃ­Å¡ pracujÃ­cÃ­mu drink?}
+{111}{}{Jsem tak unavenej hlÃ­dÃ¡nÃ­m karavan, Å¾e uÅ¾ nemÅ¯Å¾u ani mluvit.}
+{112}{}{Jestli nÄ›co potÅ™ebujeÅ¡, promluv si s veteÅ¡nÃ­kem Billem.}
+{113}{}{ÄŒlovÄ›k by si myslel, Å¾e budem po vÅ¡em tom civilizovÃ¡nÃ­ pustiny blÃ­Å¾ cÃ­li.}
+{114}{}{Tyhle vÃ¡lky mezi lidma a mutantama uÅ¾ mÄ› nudÃ­. NemÄ›li bysme jÃ­t pÅ™Ã­kladem?}
+{115}{}{Co chceÅ¡? NevidÃ­Å¡, Å¾e odpoÄÃ­vÃ¡m?}
+{116}{}{Kdy odjÃ­Å¾dÃ­ dalÅ¡Ã­ karavana?}
+{117}{}{HlÃ­dat, hlÃ­dat a zase hlÃ­dat... to je to jedinÃ½, co tady dÄ›lÃ¡m.}
+{118}{}{MyslÃ­m, Å¾e si potÅ™ebuju dÃ¡chnout.}
+{119}{}{ZaslouÅ¾Ã­m si dostat pÅ™idÃ¡no, tohle je nebezpeÄnÃ¡ prÃ¡ce.}
+{200}{}{MÅ¯Å¾u ti nÄ›jak pomoct?}
+{201}{}{Ano, hledÃ¡m sprÃ¡vce karavany.}
+{202}{}{ZajÃ­malo by mÄ›, jestli se mÅ¯Å¾u zeptat na Chada.}
 {203}{}{Kdo jsi?}
-{204}{}{Ne, díky.}
-{205}{}{V tom pøípadì si promluv s Billem, vetešníkem v Broken Hills. Je tady v tı budovì.}
-{206}{}{Mám ještì nìjaké otázky.}
-{207}{}{Dík. Naskle.}
-{208}{}{Ty máš otázky, já mám odpovìdi. Co chceš vìdìt?}
-{209}{}{Jakı je?}
-{210}{}{Je dùvìryhodnı?}
-{211}{}{Odkud získává peníze?}
-{212}{}{Co o nìm víš?}
-{213}{}{Zapomeò na to. Uvidíme se pozdìji.}
-{214}{}{Já? Jsem }
-{215}{}{. Jsem strace Billovıch karavan. Ještì nìco?}
-{216}{}{Jakı je? No, je pøátelskı, ale drsnı. Je dobrı šéf a vìtšinou i spravedlivı. Nejedná s náma špatnì, jestli ti jde o tohle. Další otázky?}
-{217}{}{No, je trochu záhadnı, ale... kdo dnes není. Další otázky?}
-{218}{}{Vdycky jsem si tak nìjak myslel, e to má v sobì... a to hodnì. Víš, není to zrovna nìco, na co se èlovìka bìnì ptáš. Další otázky?}
-{219}{}{Nic o nìm nevím. Chci øíct, vìtšina strácù karavany jsou nìjací odpadlíci hledající práci. Øekl bych, e je to jen další èlovìk, kterı musel narychlo opustit svoje místo. Další otázky?}
+{204}{}{Ne, dÃ­ky.}
+{205}{}{V tom pÅ™Ã­padÄ› si promluv s Billem, veteÅ¡nÃ­kem v Broken Hills. Je tady v tÃ½ budovÄ›.}
+{206}{}{MÃ¡m jeÅ¡tÄ› nÄ›jakÃ© otÃ¡zky.}
+{207}{}{DÃ­k. Naskle.}
+{208}{}{Ty mÃ¡Å¡ otÃ¡zky, jÃ¡ mÃ¡m odpovÄ›di. Co chceÅ¡ vÄ›dÄ›t?}
+{209}{}{JakÃ½ je?}
+{210}{}{Je dÅ¯vÄ›ryhodnÃ½?}
+{211}{}{Odkud zÃ­skÃ¡vÃ¡ penÃ­ze?}
+{212}{}{Co o nÄ›m vÃ­Å¡?}
+{213}{}{ZapomeÅˆ na to. UvidÃ­me se pozdÄ›ji.}
+{214}{}{JÃ¡? Jsem }
+{215}{}{. Jsem straÅ¾ce BillovÃ½ch karavan. JeÅ¡tÄ› nÄ›co?}
+{216}{}{JakÃ½ je? No, je pÅ™Ã¡telskÃ½, ale drsnÃ½. Je dobrÃ½ Å¡Ã©f a vÄ›tÅ¡inou i spravedlivÃ½. NejednÃ¡ s nÃ¡ma Å¡patnÄ›, jestli ti jde o tohle. DalÅ¡Ã­ otÃ¡zky?}
+{217}{}{No, je trochu zÃ¡hadnÃ½, ale... kdo dnes nenÃ­. DalÅ¡Ã­ otÃ¡zky?}
+{218}{}{VÅ¾dycky jsem si tak nÄ›jak myslel, Å¾e to mÃ¡ v sobÄ›... a to hodnÄ›. VÃ­Å¡, nenÃ­ to zrovna nÄ›co, na co se ÄlovÄ›ka bÄ›Å¾nÄ› ptÃ¡Å¡. DalÅ¡Ã­ otÃ¡zky?}
+{219}{}{Nic o nÄ›m nevÃ­m. Chci Å™Ã­ct, vÄ›tÅ¡ina strÃ¡Å¾cÅ¯ karavany jsou nÄ›jacÃ­ odpadlÃ­ci hledajÃ­cÃ­ prÃ¡ci. Å˜ekl bych, Å¾e je to jen dalÅ¡Ã­ ÄlovÄ›k, kterÃ½ musel narychlo opustit svoje mÃ­sto. DalÅ¡Ã­ otÃ¡zky?}
 {220}{}{Ano.}
 {221}{}{Ne.}
-{222}{}{Dobøe. Tak zatím.}
+{222}{}{DobÅ™e. Tak zatÃ­m.}
 {223}{}{Nashle.}
 {300}{}{Hatch}
 {301}{}{Stark}
@@ -70,6 +70,6 @@
 {411}{}{Mary}
 {412}{}{Julie}
 {413}{}{Sarah}
-{450}{}{Vidíš }
-{451}{}{, stráce karavany.}
-{2050}{}{V tom pøípadì si promluv s Billem, vetešníkem v Broken Hills. Je to ten v klobouku.}
+{450}{}{VidÃ­Å¡ }
+{451}{}{, strÃ¡Å¾ce karavany.}
+{2050}{}{V tom pÅ™Ã­padÄ› si promluv s Billem, veteÅ¡nÃ­kem v Broken Hills. Je to ten v klobouku.}

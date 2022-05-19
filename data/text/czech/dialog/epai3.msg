@@ -1,35 +1,35 @@
-{100}{}{Vidíš funkèní poèítaè.}
-{101}{}{Vidíš pøísnì tajnı vızkumnı a vıvojovı terminál komplexu EPA.}
-{102}{}{Vítejte v pøísnì tajném vızkumném a vıvojovém terminálu komplexu EPA. Pøi inicializaci rychlého pøístupu nastala chyba. Prosím, zadejte vyhledávání nìèeho specifického.}
-{103}{}{Hledat cokoliv dùleitého.}
-{104}{}{Odhlásit se.}
-{105}{}{Po tøiceti minutách hledání nacházíš ètyøi pouitelné soubory. Prosím, vyberte si z nabídky níe.}
-{106}{}{Zpøístupnit záznam o historii FEV.}
-{107}{}{Zpøístupnit soubor o léku na epilepsii.}
-{108}{}{Hledat dál.}
-{109}{}{Prosím, vyberte si z nabídky níe.}
-{110}{}{Kvùli vzrùstajícímu napìtí mezi Spojenımi Státy a Èínou dostali naši vojenští pøedstavitelé strach z toho, e by Èíòané mohli pouít biologické zbranì proti americkım jednotkám. To mìlo za následek, e spoleènost West Tek, vıznamnı dodavatel high-tech obrannıch systémù, byla najata na vıvoj protiobrany. Krátce na to zaèal West Tek s vıvojem Pan-Imunitního Virového Projektu (PVP) za úèelem vytvoøení imunity u vojákù restrukturalizací jejich DNA. Bìhem testování PVP v roce 2076 byly na testovacích subjektech pozorovány abnormální vedlejší úèinky. Testovací zvíøata zaèala dramaticky rùst a jejich mozková aktivita byla zvıšena.}
-{111}{}{[Více]}
-{112}{}{Armáda v tom vidìla potenciál a tak rychle pøevzala kontrolu nad projektem a pøejmenovala ho na FEV - Virus zesílené evoluce. Pouhá imunita na biologické zbranì toti nebyla dostaèující, cílem FEV bylo potenciálnì promìnit vojáky v abnormálnì silné a inteligentní "nadlidi". Kdy dospìlo testování na zvíøatech k logickému závìru, pøemístil se vızkum viru FEV do vojenské základny Mariposa. Tam jsme se dozvìdìli, e bude testování pokraèovat na vyšším stupni a zaène pøísnì tajné testování na vojenskıch zajatcích. Netrpìlivì oèekáváme vısledky tìchto vzrušujících experimentù.}
-{113}{}{Zpìt.}
-{120}{}{Jeden z našich vìdcù, Dr. Hodkin, pøišel na úasnı objev pøi nedávném zkoumání zpùsobu, jakım lidskı mozek zpracovává hlasové odezvy. Podle všeho je moné opakováním skupin písmen s patøiènou modulací vyléèit posluchaèe z mnoha neurologickıch nemocí jako je autismus nebo epilepsie. Pøílohou tohoto záznamu je pøesnı øetìzec písmen (a správné modulace) pouívanı Dr. Hodkinem v jeho experimentech. To je skvìlá zpráva a skvìlı zaèátek pro další vızkum léèby chronickıch, neurologickıch poruch.}
-{121}{}{Tohle by se mohlo hodit. Zapsat si øetìzec a hledat nìco dalšího.}
-{130}{}{Nepodaøilo se ti u najít nic zajímavého.}
-{131}{}{Poøád nenacházíš nic zajímavého.}
-{132}{}{Moná, kdy budeš hledat ještì nìkolikrát, tak nìco najdeš.}
-{133}{}{Moná zkusit hledat ještì jednou?}
-{134}{}{Po velmi usilovném hledání nacházíš skrytı soubor.}
-{135}{}{Zpøístupnit soubor oznaèenı jako: Projekt hromadné fluoridace.}
-{136}{}{Abychom naplnili náš pokraèující cíl získat nad obèany Spojenıch Státù více kontroly, pøikázali jsme s okamitou platností pøidávat fluorid sodnı do veškeré pitné vody. Testováním dlouhotrvajících vedlejších úèinkù se zjistilo, e se subjekty staly "hloupìjší a poddajnìjší". Navíc bylo pozorováno, e fluorid sodnı zpùsobuje lehké poškození specifické èásti mozku, které ztìuje postiené osobì bránit svoji svobodu a zpùsobuje, e je jednotlivec poddajnìjší vùèi autoritám.}
-{137}{}{[Více]}
-{138}{}{Pro náš nejnovìjší experiment jsme si jako subjekt vybrali vojenského pøedstavitele, generála J. Rippera. Na zaèátku si nebyl vìdom našich zámìrù, ale èasem mu to došlo. Stal se posedlı frází "drahocenné tìlní tekutiny" a vyhıbal se konzumaci jakékoliv látky, o které pøesnì nevìdìl odkud pochází. Dokonce i pøerušil svùj pravidelnı pohlavní styk ze strachu z en, hledajíc "esenci ivota."}
-{139}{}{Zpìt.}
-{150}{}{Zmìna pohlaví.}
-{151}{}{Zavirované octomilky.}
-{160}{}{Dr. Glen Wood dosáhl novıch prùlomù ve svém vızkumu zmìny pohlaví, o kterıch tvrdí, e zpùsobí pøevrat ve špionáních slokách naší zemì. Jednoduchou procedurou se mùe mu stát enou a naopak. Dr. Wood trval na tom, aby byl prvním, kdo podstoupí tuto radikální pøemìnu. Vyádal si, abychom ho, nebo ji, po skonèení operace nazıvali Glenda.}
-{170}{}{Zmutované octomilky nyní úspìšnì pøenášejí virus. Nicménì bylo rozhodnuto, abychom je pøed vypuštením na cizí pùdu nejdøíve vystavili malé, izolované, americké komunitì, kde mùeme pozorovat úèinky mimo laboratorní podmínky. Oèekávaná ztráta na civilistech je nešastná, pøesto nutná obì. Kromì toho, pro kadého pravého Amerièana je to pocta vzdát se svého ivota pro dobro našeho skvìlého národa.}
-{200}{}{Dozvídáš se o skuteèném zámìru fluoridace vody.}
+{100}{}{VidÃ­Å¡ funkÄnÃ­ poÄÃ­taÄ.}
+{101}{}{VidÃ­Å¡ pÅ™Ã­snÄ› tajnÃ½ vÃ½zkumnÃ½ a vÃ½vojovÃ½ terminÃ¡l komplexu EPA.}
+{102}{}{VÃ­tejte v pÅ™Ã­snÄ› tajnÃ©m vÃ½zkumnÃ©m a vÃ½vojovÃ©m terminÃ¡lu komplexu EPA. PÅ™i inicializaci rychlÃ©ho pÅ™Ã­stupu nastala chyba. ProsÃ­m, zadejte vyhledÃ¡vÃ¡nÃ­ nÄ›Äeho specifickÃ©ho.}
+{103}{}{Hledat cokoliv dÅ¯leÅ¾itÃ©ho.}
+{104}{}{OdhlÃ¡sit se.}
+{105}{}{Po tÅ™iceti minutÃ¡ch hledÃ¡nÃ­ nachÃ¡zÃ­Å¡ ÄtyÅ™i pouÅ¾itelnÃ© soubory. ProsÃ­m, vyberte si z nabÃ­dky nÃ­Å¾e.}
+{106}{}{ZpÅ™Ã­stupnit zÃ¡znam o historii FEV.}
+{107}{}{ZpÅ™Ã­stupnit soubor o lÃ©ku na epilepsii.}
+{108}{}{Hledat dÃ¡l.}
+{109}{}{ProsÃ­m, vyberte si z nabÃ­dky nÃ­Å¾e.}
+{110}{}{KvÅ¯li vzrÅ¯stajÃ­cÃ­mu napÄ›tÃ­ mezi SpojenÃ½mi StÃ¡ty a ÄŒÃ­nou dostali naÅ¡i vojenÅ¡tÃ­ pÅ™edstavitelÃ© strach z toho, Å¾e by ÄŒÃ­ÅˆanÃ© mohli pouÅ¾Ã­t biologickÃ© zbranÄ› proti americkÃ½m jednotkÃ¡m. To mÄ›lo za nÃ¡sledek, Å¾e spoleÄnost West Tek, vÃ½znamnÃ½ dodavatel high-tech obrannÃ½ch systÃ©mÅ¯, byla najata na vÃ½voj protiobrany. KrÃ¡tce na to zaÄal West Tek s vÃ½vojem Pan-ImunitnÃ­ho VirovÃ©ho Projektu (PVP) za ÃºÄelem vytvoÅ™enÃ­ imunity u vojÃ¡kÅ¯ restrukturalizacÃ­ jejich DNA. BÄ›hem testovÃ¡nÃ­ PVP v roce 2076 byly na testovacÃ­ch subjektech pozorovÃ¡ny abnormÃ¡lnÃ­ vedlejÅ¡Ã­ ÃºÄinky. TestovacÃ­ zvÃ­Å™ata zaÄala dramaticky rÅ¯st a jejich mozkovÃ¡ aktivita byla zvÃ½Å¡ena.}
+{111}{}{[VÃ­ce]}
+{112}{}{ArmÃ¡da v tom vidÄ›la potenciÃ¡l a tak rychle pÅ™evzala kontrolu nad projektem a pÅ™ejmenovala ho na FEV - Virus zesÃ­lenÃ© evoluce. PouhÃ¡ imunita na biologickÃ© zbranÄ› totiÅ¾ nebyla dostaÄujÃ­cÃ­, cÃ­lem FEV bylo potenciÃ¡lnÄ› promÄ›nit vojÃ¡ky v abnormÃ¡lnÄ› silnÃ© a inteligentnÃ­ "nadlidi". KdyÅ¾ dospÄ›lo testovÃ¡nÃ­ na zvÃ­Å™atech k logickÃ©mu zÃ¡vÄ›ru, pÅ™emÃ­stil se vÃ½zkum viru FEV do vojenskÃ© zÃ¡kladny Mariposa. Tam jsme se dozvÄ›dÄ›li, Å¾e bude testovÃ¡nÃ­ pokraÄovat na vyÅ¡Å¡Ã­m stupni aÅ¾ zaÄne pÅ™Ã­snÄ› tajnÃ© testovÃ¡nÃ­ na vojenskÃ½ch zajatcÃ­ch. NetrpÄ›livÄ› oÄekÃ¡vÃ¡me vÃ½sledky tÄ›chto vzruÅ¡ujÃ­cÃ­ch experimentÅ¯.}
+{113}{}{ZpÄ›t.}
+{120}{}{Jeden z naÅ¡ich vÄ›dcÅ¯, Dr. Hodkin, pÅ™iÅ¡el na ÃºÅ¾asnÃ½ objev pÅ™i nedÃ¡vnÃ©m zkoumÃ¡nÃ­ zpÅ¯sobu, jakÃ½m lidskÃ½ mozek zpracovÃ¡vÃ¡ hlasovÃ© odezvy. Podle vÅ¡eho je moÅ¾nÃ© opakovÃ¡nÃ­m skupin pÃ­smen s patÅ™iÄnou modulacÃ­ vylÃ©Äit posluchaÄe z mnoha neurologickÃ½ch nemocÃ­ jako je autismus nebo epilepsie. PÅ™Ã­lohou tohoto zÃ¡znamu je pÅ™esnÃ½ Å™etÄ›zec pÃ­smen (a sprÃ¡vnÃ© modulace) pouÅ¾Ã­vanÃ½ Dr. Hodkinem v jeho experimentech. To je skvÄ›lÃ¡ zprÃ¡va a skvÄ›lÃ½ zaÄÃ¡tek pro dalÅ¡Ã­ vÃ½zkum lÃ©Äby chronickÃ½ch, neurologickÃ½ch poruch.}
+{121}{}{Tohle by se mohlo hodit. Zapsat si Å™etÄ›zec a hledat nÄ›co dalÅ¡Ã­ho.}
+{130}{}{NepodaÅ™ilo se ti uÅ¾ najÃ­t nic zajÃ­mavÃ©ho.}
+{131}{}{PoÅ™Ã¡d nenachÃ¡zÃ­Å¡ nic zajÃ­mavÃ©ho.}
+{132}{}{MoÅ¾nÃ¡, kdyÅ¾ budeÅ¡ hledat jeÅ¡tÄ› nÄ›kolikrÃ¡t, tak nÄ›co najdeÅ¡.}
+{133}{}{MoÅ¾nÃ¡ zkusit hledat jeÅ¡tÄ› jednou?}
+{134}{}{Po velmi usilovnÃ©m hledÃ¡nÃ­ nachÃ¡zÃ­Å¡ skrytÃ½ soubor.}
+{135}{}{ZpÅ™Ã­stupnit soubor oznaÄenÃ½ jako: Projekt hromadnÃ© fluoridace.}
+{136}{}{Abychom naplnili nÃ¡Å¡ pokraÄujÃ­cÃ­ cÃ­l zÃ­skat nad obÄany SpojenÃ½ch StÃ¡tÅ¯ vÃ­ce kontroly, pÅ™ikÃ¡zali jsme s okamÅ¾itou platnostÃ­ pÅ™idÃ¡vat fluorid sodnÃ½ do veÅ¡kerÃ© pitnÃ© vody. TestovÃ¡nÃ­m dlouhotrvajÃ­cÃ­ch vedlejÅ¡Ã­ch ÃºÄinkÅ¯ se zjistilo, Å¾e se subjekty staly "hloupÄ›jÅ¡Ã­ a poddajnÄ›jÅ¡Ã­". NavÃ­c bylo pozorovÃ¡no, Å¾e fluorid sodnÃ½ zpÅ¯sobuje lehkÃ© poÅ¡kozenÃ­ specifickÃ© ÄÃ¡sti mozku, kterÃ© ztÄ›Å¾uje postiÅ¾enÃ© osobÄ› brÃ¡nit svoji svobodu a zpÅ¯sobuje, Å¾e je jednotlivec poddajnÄ›jÅ¡Ã­ vÅ¯Äi autoritÃ¡m.}
+{137}{}{[VÃ­ce]}
+{138}{}{Pro nÃ¡Å¡ nejnovÄ›jÅ¡Ã­ experiment jsme si jako subjekt vybrali vojenskÃ©ho pÅ™edstavitele, generÃ¡la J. Rippera. Na zaÄÃ¡tku si nebyl vÄ›dom naÅ¡ich zÃ¡mÄ›rÅ¯, ale Äasem mu to doÅ¡lo. Stal se posedlÃ½ frÃ¡zÃ­ "drahocennÃ© tÄ›lnÃ­ tekutiny" a vyhÃ½bal se konzumaci jakÃ©koliv lÃ¡tky, o kterÃ© pÅ™esnÄ› nevÄ›dÄ›l odkud pochÃ¡zÃ­. Dokonce i pÅ™eruÅ¡il svÅ¯j pravidelnÃ½ pohlavnÃ­ styk ze strachu z Å¾en, hledajÃ­c "esenci Å¾ivota."}
+{139}{}{ZpÄ›t.}
+{150}{}{ZmÄ›na pohlavÃ­.}
+{151}{}{ZavirovanÃ© octomilky.}
+{160}{}{Dr. Glen Wood dosÃ¡hl novÃ½ch prÅ¯lomÅ¯ ve svÃ©m vÃ½zkumu zmÄ›ny pohlavÃ­, o kterÃ½ch tvrdÃ­, Å¾e zpÅ¯sobÃ­ pÅ™evrat ve Å¡pionÃ¡Å¾nÃ­ch sloÅ¾kÃ¡ch naÅ¡Ã­ zemÄ›. Jednoduchou procedurou se mÅ¯Å¾e muÅ¾ stÃ¡t Å¾enou a naopak. Dr. Wood trval na tom, aby byl prvnÃ­m, kdo podstoupÃ­ tuto radikÃ¡lnÃ­ pÅ™emÄ›nu. VyÅ¾Ã¡dal si, abychom ho, nebo ji, po skonÄenÃ­ operace nazÃ½vali Glenda.}
+{170}{}{ZmutovanÃ© octomilky nynÃ­ ÃºspÄ›Å¡nÄ› pÅ™enÃ¡Å¡ejÃ­ virus. NicmÃ©nÄ› bylo rozhodnuto, abychom je pÅ™ed vypuÅ¡tenÃ­m na cizÃ­ pÅ¯du nejdÅ™Ã­ve vystavili malÃ©, izolovanÃ©, americkÃ© komunitÄ›, kde mÅ¯Å¾eme pozorovat ÃºÄinky mimo laboratornÃ­ podmÃ­nky. OÄekÃ¡vanÃ¡ ztrÃ¡ta na civilistech je neÅ¡Å¥astnÃ¡, pÅ™esto nutnÃ¡ obÄ›Å¥. KromÄ› toho, pro kaÅ¾dÃ©ho pravÃ©ho AmeriÄana je to pocta vzdÃ¡t se svÃ©ho Å¾ivota pro dobro naÅ¡eho skvÄ›lÃ©ho nÃ¡roda.}
+{200}{}{DozvÃ­dÃ¡Å¡ se o skuteÄnÃ©m zÃ¡mÄ›ru fluoridace vody.}
 {311}{}{Vrrrrr...}
-{312}{}{PÍP!!}
-{313}{}{bluòk...}
-{1311}{}{Nevzdávej to. Nìco urèitì najdeš.}
+{312}{}{PÃP!!}
+{313}{}{Å½bluÅˆk...}
+{1311}{}{NevzdÃ¡vej to. NÄ›co urÄitÄ› najdeÅ¡.}

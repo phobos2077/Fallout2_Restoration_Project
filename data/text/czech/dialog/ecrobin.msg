@@ -1,10 +1,10 @@
-{100}{}{Vidíš mue v energo zbroji.}
+{100}{}{VidÃ­Å¡ muÅ¾e v energo zbroji.}
 {101}{}{Tohle je Sir Robin.}
-{102}{}{Vypadá, jako by chtìl utéct.}
-{103}{}{Sir Robin, k tvım slubám.}
-{104}{}{Nechceš mi ublíit, e ne?}
-{105}{}{Násilí není nutné nebo snad ano?}
-{106}{}{Odejdi, prosím.}
-{200}{}{Jej! Máš hroznì ledové ruce!}
-{201}{}{To ti nepatøí.}
-{202}{}{Hej, to jsou moje vìci!}
+{102}{}{VypadÃ¡, jako by chtÄ›l utÃ©ct.}
+{103}{}{Sir Robin, k tvÃ½m sluÅ¾bÃ¡m.}
+{104}{}{NechceÅ¡ mi ublÃ­Å¾it, Å¾e ne?}
+{105}{}{NÃ¡silÃ­ nenÃ­ nutnÃ© nebo snad ano?}
+{106}{}{Odejdi, prosÃ­m.}
+{200}{}{Jej! MÃ¡Å¡ hroznÄ› ledovÃ© ruce!}
+{201}{}{To ti nepatÅ™Ã­.}
+{202}{}{Hej, to jsou moje vÄ›ci!}

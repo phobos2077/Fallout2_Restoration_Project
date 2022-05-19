@@ -1,68 +1,68 @@
-{100}{}{Vidíš pøátelsky vypadajícího pankáèe.}
-{101}{}{Vidíš Marca.}
-{102}{}{Vidíš pøátelsky vypadajícího pankáèe.}
-{103}{}{Ty zkurvysyne... jak jsi nám to mohl udìlat?}
-{104}{}{Co pro tebe mùu udìlat, mama-jamma?}
-{105}{}{Co ti mùu udìlat, mama-jamma?}
+{100}{}{VidÃ­Å¡ pÅ™Ã¡telsky vypadajÃ­cÃ­ho pankÃ¡Äe.}
+{101}{}{VidÃ­Å¡ Marca.}
+{102}{}{VidÃ­Å¡ pÅ™Ã¡telsky vypadajÃ­cÃ­ho pankÃ¡Äe.}
+{103}{}{Ty zkurvysyne... jak jsi nÃ¡m to mohl udÄ›lat?}
+{104}{}{Co pro tebe mÅ¯Å¾u udÄ›lat, mama-jamma?}
+{105}{}{Co ti mÅ¯Å¾u udÄ›lat, mama-jamma?}
 {106}{}{Och! Och! Ach!}
 {107}{}{Kdo jsi?}
-{108}{}{Co je tohle za místo?}
-{109}{}{Kdo to tu øídí?}
+{108}{}{Co je tohle za mÃ­sto?}
+{109}{}{Kdo to tu Å™Ã­dÃ­?}
 {110}{}{Nic. Nashle.}
-{111}{}{Hmm. Promiò, ale s tímhle ti nepomùu. Zkus se zeptat nìkoho jinıho.}
-{112}{}{Dík?}
-{113}{}{Jmenuju se Marc. Jsem místní chytrák a vím úplnì všecko. ::usmívá se::}
-{114}{}{Aha. Mám další otázky.}
+{111}{}{Hmm. PromiÅˆ, ale s tÃ­mhle ti nepomÅ¯Å¾u. Zkus se zeptat nÄ›koho jinÃ½ho.}
+{112}{}{DÃ­k?}
+{113}{}{Jmenuju se Marc. Jsem mÃ­stnÃ­ chytrÃ¡k a vÃ­m ÃºplnÄ› vÅ¡ecko. ::usmÃ­vÃ¡ se::}
+{114}{}{Aha. MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
 {115}{}{Nashle.}
-{116}{}{Tohle je Poseidon Marine Vessel Valdez - známej taky jako PMV Valdez. Jestli chceš o nìm vìdìt víc, tak se jdi zeptat kapitána.}
-{117}{}{Kapitán? Kdo to je?}
-{118}{}{Mám další otázky.}
+{116}{}{Tohle je Poseidon Marine Vessel Valdez - znÃ¡mej taky jako PMV Valdez. Jestli chceÅ¡ o nÄ›m vÄ›dÄ›t vÃ­c, tak se jdi zeptat kapitÃ¡na.}
+{117}{}{KapitÃ¡n? Kdo to je?}
+{118}{}{MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
 {119}{}{Nashle.}
-{120}{}{Na starosti? Nemáme ádnıho šéfa.}
-{121}{}{Odkud jste všichni pøišli?}
-{122}{}{V tom pøípadì mám na tebe další otázky.}
+{120}{}{Na starosti? NemÃ¡me Å¾Ã¡dnÃ½ho Å¡Ã©fa.}
+{121}{}{Odkud jste vÅ¡ichni pÅ™iÅ¡li?}
+{122}{}{V tom pÅ™Ã­padÄ› mÃ¡m na tebe dalÅ¡Ã­ otÃ¡zky.}
 {123}{}{Nashle.}
-{124}{}{Kapitán je starej drsnej voják. Sedí v horním patøe a pozoruje okolí. Hodnì toho o tıhle lodi ví.}
-{125}{}{Díky. Mám další otázky.}
-{126}{}{Dík. Naskle.}
-{127}{}{No, tak rùznì. Hodnì jsme slyšeli o San Franciscu od našich starších. Nìkteøí tu toti ili pøed Velkou válkou. Chceš vìdìt víc?}
+{124}{}{KapitÃ¡n je starej drsnej vojÃ¡k. SedÃ­ v hornÃ­m patÅ™e a pozoruje okolÃ­. HodnÄ› toho o tÃ½hle lodi vÃ­.}
+{125}{}{DÃ­ky. MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
+{126}{}{DÃ­k. Naskle.}
+{127}{}{No, tak rÅ¯znÄ›. HodnÄ› jsme slyÅ¡eli o San Franciscu od naÅ¡ich starÅ¡Ã­ch. NÄ›kteÅ™Ã­ tu totiÅ¾ Å¾ili pÅ™ed Velkou vÃ¡lkou. ChceÅ¡ vÄ›dÄ›t vÃ­c?}
 {128}{}{Ano.}
-{129}{}{Ne, ale chci se zeptat na nìco jiného.}
-{130}{}{Ne, to bude všechno.}
-{131}{}{Jsme skupina muzikantù, ajákù, geekù a umìlcù. Chtìli jsme ít na nìjakım místì, kterı je známı svobodou umìní a taky svobodou èlovìka. Já jsem sem pøišel, abych se tu usadil. Poøád chceš vìdìt víc?}
+{129}{}{Ne, ale chci se zeptat na nÄ›co jinÃ©ho.}
+{130}{}{Ne, to bude vÅ¡echno.}
+{131}{}{Jsme skupina muzikantÅ¯, ajÅ¥Ã¡kÅ¯, geekÅ¯ a umÄ›lcÅ¯. ChtÄ›li jsme Å¾Ã­t na nÄ›jakÃ½m mÃ­stÄ›, kterÃ½ je znÃ¡mÃ½ svobodou umÄ›nÃ­ a taky svobodou ÄlovÄ›ka. JÃ¡ jsem sem pÅ™iÅ¡el, abych se tu usadil. PoÅ™Ã¡d chceÅ¡ vÄ›dÄ›t vÃ­c?}
 {132}{}{Ano.}
-{133}{}{Ne, ale chci se zeptat na nìco jiného.}
-{134}{}{Ne, to bude všechno.}
-{135}{}{No a kdy jsme se sem dostali, rozhodli jsme se, e tu budeme kempovat, dokud nezjistíme, jak znovu zprovoznit tenhle tanker, nebo dokud nevymyslíme nìco jinıho.}
-{136}{}{A pøišli jste na to?}
-{137}{}{Povìz mi nìco o Hubologistech.}
-{138}{}{Povìz mi nìco o Shi.}
-{139}{}{Mám další otázky.}
-{140}{}{Dík. Naskle.}
-{141}{}{Myslím, e náš kapitán na to pøišel... ale nejdøív potøebujem pár vìcí. Abych øekl pravdu, u jsme to v podstatì vzdali... máme teï jinı plány.}
-{142}{}{Jaké?}
-{143}{}{Kde najdu toho kapitána?}
-{144}{}{Chci se zeptat na nìco jiného.}
+{133}{}{Ne, ale chci se zeptat na nÄ›co jinÃ©ho.}
+{134}{}{Ne, to bude vÅ¡echno.}
+{135}{}{No a kdyÅ¾ jsme se sem dostali, rozhodli jsme se, Å¾e tu budeme kempovat, dokud nezjistÃ­me, jak znovu zprovoznit tenhle tanker, nebo dokud nevymyslÃ­me nÄ›co jinÃ½ho.}
+{136}{}{A pÅ™iÅ¡li jste na to?}
+{137}{}{PovÄ›z mi nÄ›co o Hubologistech.}
+{138}{}{PovÄ›z mi nÄ›co o Shi.}
+{139}{}{MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
+{140}{}{DÃ­k. Naskle.}
+{141}{}{MyslÃ­m, Å¾e nÃ¡Å¡ kapitÃ¡n na to pÅ™iÅ¡el... ale nejdÅ™Ã­v potÅ™ebujem pÃ¡r vÄ›cÃ­. Abych Å™ekl pravdu, uÅ¾ jsme to v podstatÄ› vzdali... mÃ¡me teÄ jinÃ½ plÃ¡ny.}
+{142}{}{JakÃ©?}
+{143}{}{Kde najdu toho kapitÃ¡na?}
+{144}{}{Chci se zeptat na nÄ›co jinÃ©ho.}
 {145}{}{Nashle.}
-{146}{}{Jsou to blázni. Vùbec jim nevìø... teda pokud nejseš mentálnì postienej nebo máš rád, kdy tì nìkdo vyuívá. Je zajímaj jenom tvı peníze a duše. Kvùli tomu jsou schopnı znièit jeden druhıho. U mockrát jsem vidìl, jak se to stalo.}
-{147}{}{Pøišli jste na to jak zprovoznit tanker?}
-{148}{}{Povìz mi nìco o Shi.}
-{149}{}{Mám další otázky.}
+{146}{}{Jsou to blÃ¡zni. VÅ¯bec jim nevÄ›Å™... teda pokud nejseÅ¡ mentÃ¡lnÄ› postiÅ¾enej nebo mÃ¡Å¡ rÃ¡d, kdyÅ¾ tÄ› nÄ›kdo vyuÅ¾Ã­vÃ¡. Je zajÃ­maj jenom tvÃ½ penÃ­ze a duÅ¡e. KvÅ¯li tomu jsou schopnÃ½ zniÄit jeden druhÃ½ho. UÅ¾ mockrÃ¡t jsem vidÄ›l, jak se to stalo.}
+{147}{}{PÅ™iÅ¡li jste na to jak zprovoznit tanker?}
+{148}{}{PovÄ›z mi nÄ›co o Shi.}
+{149}{}{MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
 {150}{}{Nashle.}
-{151}{}{To jsou dobrı lidi. Sice moc nedùvìøujou cizincùm, ale to není a tak špatná vlastnost v tıhle dobì. Maj zvláštní zvyky a mluví srandovnì, ale jinak jsou v pohodì.}
-{152}{}{Pøišli jste na to jak zprovoznit tanker?}
-{153}{}{Povìz mi nìco o Hubologistech.}
-{154}{}{Mám další otázky.}
+{151}{}{To jsou dobrÃ½ lidi. Sice moc nedÅ¯vÄ›Å™ujou cizincÅ¯m, ale to nenÃ­ aÅ¾ tak Å¡patnÃ¡ vlastnost v tÃ½hle dobÄ›. Maj zvlÃ¡Å¡tnÃ­ zvyky a mluvÃ­ srandovnÄ›, ale jinak jsou v pohodÄ›.}
+{152}{}{PÅ™iÅ¡li jste na to jak zprovoznit tanker?}
+{153}{}{PovÄ›z mi nÄ›co o Hubologistech.}
+{154}{}{MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
 {155}{}{Nashle.}
-{156}{}{Chceš vìdìt jakı máme plány? Chceme najít místo, kterı by nebylo postienı lidskou chamtivostí a pak se pokusíme vytvoøit lepší spoleènost.}
-{157}{}{A u víte, jak to udìláte?}
-{158}{}{Mám další otázky.}
-{159}{}{Dík. Naskle.}
-{160}{}{Doufáme, e se vyhneme chybám spoleèností. Nemùe to bejt u o moc horší ne teï.}
-{161}{}{Pøišli jste na to jak zprovoznit tanker?}
-{162}{}{Povìz mi nìco o Hubologistech.}
-{163}{}{Povìz mi nìco o Shi.}
-{164}{}{Mám další otázky.}
-{165}{}{Dík. Naskle.}
-{166}{}{Nevidìl jsi tu nìkde Badgerovu pøítelkyni?}
-{167}{}{Myslím, e jsem ji vidìl jít dolù. Na severní stranì tıhle paluby je díra.}
+{156}{}{ChceÅ¡ vÄ›dÄ›t jakÃ½ mÃ¡me plÃ¡ny? Chceme najÃ­t mÃ­sto, kterÃ½ by nebylo postiÅ¾enÃ½ lidskou chamtivostÃ­ a pak se pokusÃ­me vytvoÅ™it lepÅ¡Ã­ spoleÄnost.}
+{157}{}{A uÅ¾ vÃ­te, jak to udÄ›lÃ¡te?}
+{158}{}{MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
+{159}{}{DÃ­k. Naskle.}
+{160}{}{DoufÃ¡me, Å¾e se vyhneme chybÃ¡m spoleÄnostÃ­. NemÅ¯Å¾e to bejt uÅ¾ o moc horÅ¡Ã­ neÅ¾ teÄ.}
+{161}{}{PÅ™iÅ¡li jste na to jak zprovoznit tanker?}
+{162}{}{PovÄ›z mi nÄ›co o Hubologistech.}
+{163}{}{PovÄ›z mi nÄ›co o Shi.}
+{164}{}{MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
+{165}{}{DÃ­k. Naskle.}
+{166}{}{NevidÄ›l jsi tu nÄ›kde Badgerovu pÅ™Ã­telkyni?}
+{167}{}{MyslÃ­m, Å¾e jsem ji vidÄ›l jÃ­t dolÅ¯. Na severnÃ­ stranÄ› tÃ½hle paluby je dÃ­ra.}

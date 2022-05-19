@@ -1,26 +1,26 @@
-{100}{}{Vidíš boxera.}
-{101}{}{Vidíš Peta "Hurikána" McKneelyho.}
-{150}{}{Vidíš velmi svalnatého bìlocha. Vypadá tak slabì, e by se dal knokautovat kouskem pizzy.}
-{151}{}{Jeho èelist záøí jako zrcadlo.}
-{152}{}{Zdá se, e by v ringu nevydrel ani sedm vteøin.}
-{153}{}{Zdá se, e by se dal knokautovat kouskem pizzy.}
+{100}{}{VidÃ­Å¡ boxera.}
+{101}{}{VidÃ­Å¡ Peta "HurikÃ¡na" McKneelyho.}
+{150}{}{VidÃ­Å¡ velmi svalnatÃ©ho bÄ›locha. VypadÃ¡ tak slabÄ›, Å¾e by se dal knokautovat kouskem pizzy.}
+{151}{}{Jeho Äelist zÃ¡Å™Ã­ jako zrcadlo.}
+{152}{}{ZdÃ¡ se, Å¾e by v ringu nevydrÅ¾el ani sedm vteÅ™in.}
+{153}{}{ZdÃ¡ se, Å¾e by se dal knokautovat kouskem pizzy.}
 {200}{}{*Hnffff*}
 {201}{}{*Hnrggg*}
 {202}{}{::Protahuje se::}
 {203}{}{Jsem utahanej.}
 {204}{}{Jsem unavenej.}
-{205}{}{*Fjù* Tìkej den.}
-{206}{}{Posilování mì vdycky strašnì unaví...}
-{207}{}{Zápasy mì vyèerpávají.}
-{208}{}{Asi si pùjdu vyleštit svoji sklenìnou èelist.}
-{300}{}{::Boxer se na tebe dívá a rukou si zakrıvá èelist::}
-{301}{}{::Boxer se na tebe dívá a rukou si masíruje èelist::}
-{302}{}{Posilování mì vdycky strašnì unaví...}
-{303}{}{Nevadí mi, e mùe mùj manaér vlízt do ringu a zastavit boj.}
-{304}{}{Jsem Pete. Pete "Poraenej" McKneely.}
-{305}{}{Pizzu mám rád, ale musím si dávat pozor na kùrku.}
-{306}{}{Dneska ráno jsem otevøel dveøe a zafoukal takovı vítr, e mì srazil na zem.}
-{307}{}{Zápasy mì vyèerpávají.}
-{308}{}{Asi si pùjdu vyleštit svoji sklenìnou èelist.}
-{309}{}{Kdy budu trénovat, tak moná jednou v ringu vydrím i DESET vteøin!}
-{310}{}{V ringu moná vydrím jenom sedm vteøin, ale v posteli vydrím DESET!}
+{205}{}{*FjÅ¯* TÄ›Å¾kej den.}
+{206}{}{PosilovÃ¡nÃ­ mÄ› vÅ¾dycky straÅ¡nÄ› unavÃ­...}
+{207}{}{ZÃ¡pasy mÄ› vyÄerpÃ¡vajÃ­.}
+{208}{}{Asi si pÅ¯jdu vyleÅ¡tit svoji sklenÄ›nou Äelist.}
+{300}{}{::Boxer se na tebe dÃ­vÃ¡ a rukou si zakrÃ½vÃ¡ Äelist::}
+{301}{}{::Boxer se na tebe dÃ­vÃ¡ a rukou si masÃ­ruje Äelist::}
+{302}{}{PosilovÃ¡nÃ­ mÄ› vÅ¾dycky straÅ¡nÄ› unavÃ­...}
+{303}{}{NevadÃ­ mi, Å¾e mÅ¯Å¾e mÅ¯j manaÅ¾Ã©r vlÃ­zt do ringu a zastavit boj.}
+{304}{}{Jsem Pete. Pete "PoraÅ¾enej" McKneely.}
+{305}{}{Pizzu mÃ¡m rÃ¡d, ale musÃ­m si dÃ¡vat pozor na kÅ¯rku.}
+{306}{}{Dneska rÃ¡no jsem otevÅ™el dveÅ™e a zafoukal takovÃ½ vÃ­tr, Å¾e mÄ› srazil na zem.}
+{307}{}{ZÃ¡pasy mÄ› vyÄerpÃ¡vajÃ­.}
+{308}{}{Asi si pÅ¯jdu vyleÅ¡tit svoji sklenÄ›nou Äelist.}
+{309}{}{KdyÅ¾ budu trÃ©novat, tak moÅ¾nÃ¡ jednou v ringu vydrÅ¾Ã­m i DESET vteÅ™in!}
+{310}{}{V ringu moÅ¾nÃ¡ vydrÅ¾Ã­m jenom sedm vteÅ™in, ale v posteli vydrÅ¾Ã­m DESET!}

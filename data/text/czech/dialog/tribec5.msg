@@ -1,23 +1,23 @@
-{100}{}{Vidíš ztraceného ducha.}
-{101}{}{Vidíš Nessu, ztraceného ducha.}
-{102}{}{Vidíš ducha hezké mladé dívky, kterı je osvìtlen mìsíèní záøí.}
-{103}{}{Jsem oklamána. Oklamána a sama.}
-{104}{}{Jak mi to jen mohl udìlat?}
+{100}{}{VidÃ­Å¡ ztracenÃ©ho ducha.}
+{101}{}{VidÃ­Å¡ Nessu, ztracenÃ©ho ducha.}
+{102}{}{VidÃ­Å¡ ducha hezkÃ© mladÃ© dÃ­vky, kterÃ½ je osvÄ›tlen mÄ›sÃ­ÄnÃ­ zÃ¡Å™Ã­.}
+{103}{}{Jsem oklamÃ¡na. OklamÃ¡na a sama.}
+{104}{}{Jak mi to jen mohl udÄ›lat?}
 {105}{}{Krev... tolik krve...}
-{110}{}{Øekl, e mì miluje a e mùeme zaèít od zaèátku. Jak mi to jen mohl udìlat?}
-{111}{}{Kdo ti to udìlal? Slyšíš mì?}
-{120}{}{Všechno to byla le. Vùbec mì nemiluje. Ach, má v ruce nù! To bolí! Ten jeho pohled, tak chladnı, tak...}
-{121}{}{Jestli mì slyšíš, øekni mi, kdo ti ublíil. Kdo ti to udìlal?}
-{122}{}{Tak a u toho mám dost, padám odsud.}
-{130}{}{Odchází a nechává mì tu umøít samotnou. Jak se to jen mohlo stát?}
-{131}{}{Prosím, staèí øíct jméno. Øekni mi nìco, èeho se mùu chytit.}
-{140}{}{Takhle to dopadnout nemìlo. Øekl jsi, e se mnou chceš zaloit rodinu. Ach, je mi chladno... myslím, e umírám... ne! Je to jen sen! To bys mi nikdy neudìlal, Thorgu! Miluju tì! Nessa tì bude navdy milovat...}
-{141}{}{Díky, Nesso. To mi staèí.}
-{150}{}{Temnota je tak prázdná... tak strašnì prázdná.}
+{110}{}{Å˜ekl, Å¾e mÄ› miluje a Å¾e mÅ¯Å¾eme zaÄÃ­t od zaÄÃ¡tku. Jak mi to jen mohl udÄ›lat?}
+{111}{}{Kdo ti to udÄ›lal? SlyÅ¡Ã­Å¡ mÄ›?}
+{120}{}{VÅ¡echno to byla leÅ¾. VÅ¯bec mÄ› nemiluje. Ach, mÃ¡ v ruce nÅ¯Å¾! To bolÃ­! Ten jeho pohled, tak chladnÃ½, tak...}
+{121}{}{Jestli mÄ› slyÅ¡Ã­Å¡, Å™ekni mi, kdo ti ublÃ­Å¾il. Kdo ti to udÄ›lal?}
+{122}{}{Tak a uÅ¾ toho mÃ¡m dost, padÃ¡m odsud.}
+{130}{}{OdchÃ¡zÃ­ a nechÃ¡vÃ¡ mÄ› tu umÅ™Ã­t samotnou. Jak se to jen mohlo stÃ¡t?}
+{131}{}{ProsÃ­m, staÄÃ­ Å™Ã­ct jmÃ©no. Å˜ekni mi nÄ›co, Äeho se mÅ¯Å¾u chytit.}
+{140}{}{Takhle to dopadnout nemÄ›lo. Å˜ekl jsi, Å¾e se mnou chceÅ¡ zaloÅ¾it rodinu. Ach, je mi chladno... myslÃ­m, Å¾e umÃ­rÃ¡m... ne! Je to jen sen! To bys mi nikdy neudÄ›lal, Thorgu! Miluju tÄ›! Nessa tÄ› bude navÅ¾dy milovat...}
+{141}{}{DÃ­ky, Nesso. To mi staÄÃ­.}
+{150}{}{Temnota je tak prÃ¡zdnÃ¡... tak straÅ¡nÄ› prÃ¡zdnÃ¡.}
 {151}{}{[KONEC]}
-{160}{}{Krev nepøestává téct... kdy u ta bolest skonèí?}
-{161}{}{Neboj se, Nesso, brzy se doèkáš svého klidu.}
-{300}{}{Eh... mluvit se mnou, záøící paní?}
-{310}{}{Kde bıt chlap s nù? Já nevidìt ádná chlap s nù. O èem ty mluvit? Proè ty tak vlastnì záøit? Bıt závislı na gamma pivo?}
-{320}{}{Poslouchat záøící paní, nebıt tady ÁDNÁ CHLAP S NÙ! Bıt tu jen ty a já!}
-{330}{}{Já myslet ty hezká, záøící paní, ale ty moc blázen pro mì. Nìkdy ty ani nedávat smysl! Ty potøebovat pomoc, ale já nevìdìt jak. Take, eh... já teï jít, dobøe? Pápá!}
+{160}{}{Krev nepÅ™estÃ¡vÃ¡ tÃ©ct... kdy uÅ¾ ta bolest skonÄÃ­?}
+{161}{}{Neboj se, Nesso, brzy se doÄkÃ¡Å¡ svÃ©ho klidu.}
+{300}{}{Eh... mluvit se mnou, zÃ¡Å™Ã­cÃ­ panÃ­?}
+{310}{}{Kde bÃ½t chlap s nÅ¯Å¾? JÃ¡ nevidÄ›t Å¾Ã¡dnÃ¡ chlap s nÅ¯Å¾. O Äem ty mluvit? ProÄ ty tak vlastnÄ› zÃ¡Å™it? BÃ½t zÃ¡vislÃ½ na gamma pivo?}
+{320}{}{Poslouchat zÃ¡Å™Ã­cÃ­ panÃ­, nebÃ½t tady Å½ÃDNÃ CHLAP S NÅ®Å½! BÃ½t tu jen ty a jÃ¡!}
+{330}{}{JÃ¡ myslet ty hezkÃ¡, zÃ¡Å™Ã­cÃ­ panÃ­, ale ty moc blÃ¡zen pro mÄ›. NÄ›kdy ty ani nedÃ¡vat smysl! Ty potÅ™ebovat pomoc, ale jÃ¡ nevÄ›dÄ›t jak. TakÅ¾e, eh... jÃ¡ teÄ jÃ­t, dobÅ™e? PÃ¡pÃ¡!}

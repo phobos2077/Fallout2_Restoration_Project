@@ -1,25 +1,25 @@
-{100}{}{Vidíš strá.}
-{101}{}{Vidíš Marca, stráce.}
-{102}{}{Vidíš Marca, jednoho z Tylerovıch stráí.}
+{100}{}{VidÃ­Å¡ strÃ¡Å¾.}
+{101}{}{VidÃ­Å¡ Marca, strÃ¡Å¾ce.}
+{102}{}{VidÃ­Å¡ Marca, jednoho z TylerovÃ½ch strÃ¡Å¾Ã­.}
 {150}{}{Nazdar, Tylere!}
 {200}{}{What the...?}
-{225}{}{Díky za tip. To byla fakt sranda.}
-{226}{}{Já vìdìl, e ty sraby dostanem.}
-{227}{}{Škoda, e jsme je všechny zabili. Co teï budeme dìlat?}
-{228}{}{Jsme skvìlı, e jo?}
-{229}{}{Jsme fakt dobrı.}
-{230}{}{Dostali pìknì na prdel! Jo kurva!}
+{225}{}{DÃ­ky za tip. To byla fakt sranda.}
+{226}{}{JÃ¡ vÄ›dÄ›l, Å¾e ty sraby dostanem.}
+{227}{}{Å koda, Å¾e jsme je vÅ¡echny zabili. Co teÄ budeme dÄ›lat?}
+{228}{}{Jsme skvÄ›lÃ½, Å¾e jo?}
+{229}{}{Jsme fakt dobrÃ½.}
+{230}{}{Dostali pÄ›knÄ› na prdel! Jo kurva!}
 {250}{}{Promluv si s Tylerem, holka, ne se mnou.}
 {251}{}{What's up. You need something, you gotta talk to Tyler here.}
-{252}{}{Na co èumíš?}
+{252}{}{Na co ÄumÃ­Å¡?}
 {253}{}{Promluv si s Tylerem, chlape, ne se mnou.}
-{255}{}{Dnes v noci se chystáme nìkomu natrhnout prdel!}
-{256}{}{Dnes bude noc s velkım N!}
-{257}{}{Tuhle noc si budu urèitì pamatovat.}
-{258}{}{Neøíkej mi, e dostali strach.}
-{259}{}{Doufám, e se ti sráèi ukáou.}
-{260}{}{Já vìdìl, e se ti srabi neukáou.}
-{261}{}{Mìli bysme jim natrhnout prdel u jen proto, e s námi chtìli bojovat.}
-{262}{}{Kdyby se bıvali ukázali, rozprášili bysme je.}
-{263}{}{Zvládnul bych je sám.}
-{264}{}{Tyler a já bysme jim natrhli prdel.}
+{255}{}{Dnes v noci se chystÃ¡me nÄ›komu natrhnout prdel!}
+{256}{}{Dnes bude noc s velkÃ½m N!}
+{257}{}{Tuhle noc si budu urÄitÄ› pamatovat.}
+{258}{}{NeÅ™Ã­kej mi, Å¾e dostali strach.}
+{259}{}{DoufÃ¡m, Å¾e se ti srÃ¡Äi ukÃ¡Å¾ou.}
+{260}{}{JÃ¡ vÄ›dÄ›l, Å¾e se ti srabi neukÃ¡Å¾ou.}
+{261}{}{MÄ›li bysme jim natrhnout prdel uÅ¾ jen proto, Å¾e s nÃ¡mi chtÄ›li bojovat.}
+{262}{}{Kdyby se bÃ½vali ukÃ¡zali, rozprÃ¡Å¡ili bysme je.}
+{263}{}{ZvlÃ¡dnul bych je sÃ¡m.}
+{264}{}{Tyler a jÃ¡ bysme jim natrhli prdel.}

@@ -1,1 +1,1 @@
-{100}{}{Vypad· to, ûe uû jsou vöechny masoûravÈ rostliny zlikvidovanÈ.}
+{100}{}{Vypad√° to, ≈æe u≈æ jsou v≈°echny maso≈ærav√© rostliny zlikvidovan√©.}

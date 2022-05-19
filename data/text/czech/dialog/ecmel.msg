@@ -1,3 +1,3 @@
-{100}{}{Vidíš mue v èerném.}
-{101}{}{Vidíš mue v èerném.}
-{102}{}{Je to mu v èerném. Nevypadá zrovna šastnì.}
+{100}{}{VidÃ­Å¡ muÅ¾e v ÄernÃ©m.}
+{101}{}{VidÃ­Å¡ muÅ¾e v ÄernÃ©m.}
+{102}{}{Je to muÅ¾ v ÄernÃ©m. NevypadÃ¡ zrovna Å¡Å¥astnÄ›.}

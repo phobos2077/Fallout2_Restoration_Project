@@ -1,11 +1,11 @@
-{100}{}{Vidíš mnicha.}
-{101}{}{Vidíš jeptišku.}
-{102}{}{Vidíš øádového mnicha z Opatství.}
-{103}{}{Vidíš øádovou sestru z Opatství.}
-{200}{}{Buï zdráv.}
-{201}{}{Vítej v Opatství.}
-{202}{}{Promluv si s naším pøedstavenım, jestli si pøeješ získat nìjaké informace.}
-{203}{}{Dobrı den... nebo je u noc?}
-{204}{}{Je tu tolik práce, která se musí udìlat.}
-{205}{}{ivot v Opatství je pokojnı. Je to vzácnost v tìchto mizernıch pustinách.}
-{500}{}{Pøestaò s tím!}
+{100}{}{VidÃ­Å¡ mnicha.}
+{101}{}{VidÃ­Å¡ jeptiÅ¡ku.}
+{102}{}{VidÃ­Å¡ Å™Ã¡dovÃ©ho mnicha z OpatstvÃ­.}
+{103}{}{VidÃ­Å¡ Å™Ã¡dovou sestru z OpatstvÃ­.}
+{200}{}{BuÄ zdrÃ¡v.}
+{201}{}{VÃ­tej v OpatstvÃ­.}
+{202}{}{Promluv si s naÅ¡Ã­m pÅ™edstavenÃ½m, jestli si pÅ™ejeÅ¡ zÃ­skat nÄ›jakÃ© informace.}
+{203}{}{DobrÃ½ den... nebo je uÅ¾ noc?}
+{204}{}{Je tu tolik prÃ¡ce, kterÃ¡ se musÃ­ udÄ›lat.}
+{205}{}{Å½ivot v OpatstvÃ­ je pokojnÃ½. Je to vzÃ¡cnost v tÄ›chto mizernÃ½ch pustinÃ¡ch.}
+{500}{}{PÅ™estaÅˆ s tÃ­m!}

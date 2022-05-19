@@ -1,49 +1,49 @@
-{100}{}{Vidíš poèítaèovı terminál.}
-{101}{}{Vidíš biologickou pracovní stanici.}
-{102}{}{Vidíš funkèní poèítaèovı terminál.}
-{103}{}{Zdravím. Prosím potvrïte vaši totonost.}
-{104}{}{(Jùùùù! Podívat na blikající svìtla!)}
-{105}{}{::hádat heslo::}
+{100}{}{VidÃ­Å¡ poÄÃ­taÄovÃ½ terminÃ¡l.}
+{101}{}{VidÃ­Å¡ biologickou pracovnÃ­ stanici.}
+{102}{}{VidÃ­Å¡ funkÄnÃ­ poÄÃ­taÄovÃ½ terminÃ¡l.}
+{103}{}{ZdravÃ­m. ProsÃ­m potvrÄte vaÅ¡i totoÅ¾nost.}
+{104}{}{(JÅ¯Å¯Å¯Å¯! PodÃ­vat na blikajÃ­cÃ­ svÄ›tla!)}
+{105}{}{::hÃ¡dat heslo::}
 {106}{}{INTLVR-Dnky-Pnch-98790}
-{107}{}{::hacknout se do poèítaèe::}
-{108}{}{Odhlásit se.}
-{109}{}{Vyhledat data: -Botanickı program- -Genetickı program- -Xeno program-}
-{110}{}{Botanickı program.}
-{111}{}{Genetickı program.}
+{107}{}{::hacknout se do poÄÃ­taÄe::}
+{108}{}{OdhlÃ¡sit se.}
+{109}{}{Vyhledat data: -BotanickÃ½ program- -GenetickÃ½ program- -Xeno program-}
+{110}{}{BotanickÃ½ program.}
+{111}{}{GenetickÃ½ program.}
 {112}{}{Xeno program.}
-{113}{}{Poslední záznamy posádky.}
-{114}{}{Deaktivovat pracovní stanici.}
-{115}{}{Nesprávné heslo. Prosím, obrate se na správce systému. Nashledanou.}
-{116}{}{::hacknout se do poèítaèe::}
-{117}{}{::odejít::}
-{118}{}{Zaznamenán nepovolenı pøístup. Automatické vypnutí. Pøeji hezkı den.}
+{113}{}{PoslednÃ­ zÃ¡znamy posÃ¡dky.}
+{114}{}{Deaktivovat pracovnÃ­ stanici.}
+{115}{}{NesprÃ¡vnÃ© heslo. ProsÃ­m, obraÅ¥te se na sprÃ¡vce systÃ©mu. Nashledanou.}
+{116}{}{::hacknout se do poÄÃ­taÄe::}
+{117}{}{::odejÃ­t::}
+{118}{}{ZaznamenÃ¡n nepovolenÃ½ pÅ™Ã­stup. AutomatickÃ© vypnutÃ­. PÅ™eji hezkÃ½ den.}
 {119}{}{[KONEC]}
-{120}{}{(Po dvaceti minutách hledání se ti podaøilo objevit toto: Poèáteèní vısledky rušení radiace pomocí rostlin se ukázaly jako málo slibné. Dr. Sheng vyvinul rostlinnı ivot odolnı proti radiaci -- s nepøíjemnımi vedlejšími úèinky. Vıslednı rostlinnı ivot je povaován za pøíliš nebezpeènı. Sheng trvá na dalším zkoumání v kombinaci s genetickım programem.)}
-{121}{}{Genetickı program.}
+{120}{}{(Po dvaceti minutÃ¡ch hledÃ¡nÃ­ se ti podaÅ™ilo objevit toto: PoÄÃ¡teÄnÃ­ vÃ½sledky ruÅ¡enÃ­ radiace pomocÃ­ rostlin se ukÃ¡zaly jako mÃ¡lo slibnÃ©. Dr. Sheng vyvinul rostlinnÃ½ Å¾ivot odolnÃ½ proti radiaci -- s nepÅ™Ã­jemnÃ½mi vedlejÅ¡Ã­mi ÃºÄinky. VÃ½slednÃ½ rostlinnÃ½ Å¾ivot je povaÅ¾ovÃ¡n za pÅ™Ã­liÅ¡ nebezpeÄnÃ½. Sheng trvÃ¡ na dalÅ¡Ã­m zkoumÃ¡nÃ­ v kombinaci s genetickÃ½m programem.)}
+{121}{}{GenetickÃ½ program.}
 {122}{}{Xeno program.}
-{123}{}{Poslední záznamy posádky.}
-{124}{}{Zpìt.}
-{125}{}{(Po dvaceti minutách se ti podaøilo poskládat dohromady tuto informaci: Dr. Long Wang byl pøesvìdèen o úspìchu vytvoøení zmutovanıch vojákù s pouitím základní struktury viru FEV. Vytvoøil sérum, které pøi pokusech s hlodavci vykazovalo zajímavé vısledky. Pøi aplikaci séra na sobì se zmìnil na rozplizlou mazlavou hmotu. Dr. Sheng ukonèil tuto oblast vızkumu. Po smrti Dr. Longa se stal Dr. Sheng vedoucím. Sheng poaduje, aby se vızkum soustøedil na rostlinnı ivot pohlcující radiaci.)}
-{126}{}{Botanickı program.}
+{123}{}{PoslednÃ­ zÃ¡znamy posÃ¡dky.}
+{124}{}{ZpÄ›t.}
+{125}{}{(Po dvaceti minutÃ¡ch se ti podaÅ™ilo posklÃ¡dat dohromady tuto informaci: Dr. Long Wang byl pÅ™esvÄ›dÄen o ÃºspÄ›chu vytvoÅ™enÃ­ zmutovanÃ½ch vojÃ¡kÅ¯ s pouÅ¾itÃ­m zÃ¡kladnÃ­ struktury viru FEV. VytvoÅ™il sÃ©rum, kterÃ© pÅ™i pokusech s hlodavci vykazovalo zajÃ­mavÃ© vÃ½sledky. PÅ™i aplikaci sÃ©ra na sobÄ› se zmÄ›nil na rozplizlou mazlavou hmotu. Dr. Sheng ukonÄil tuto oblast vÃ½zkumu. Po smrti Dr. Longa se stal Dr. Sheng vedoucÃ­m. Sheng poÅ¾aduje, aby se vÃ½zkum soustÅ™edil na rostlinnÃ½ Å¾ivot pohlcujÃ­cÃ­ radiaci.)}
+{126}{}{BotanickÃ½ program.}
 {127}{}{Xeno program.}
-{128}{}{Poslední záznamy posádky.}
-{129}{}{Zpìt.}
-{130}{}{"Subjekt, na kterém jsme chtìli provést sérii vıznamnıch pokusù, zmizel. Pøedpokládá se, e byl buï znièen, nebo odcizen Hubologisty. Další vızkumy se ukázaly jako marné. Dokud neobdríme další exempláøe, tato databáze zùstane mimo provoz." - Dr. Sheng}
-{131}{}{Botanickı program.}
-{132}{}{Genetickı program.}
-{133}{}{Poslední záznamy posádky.}
-{134}{}{Zpìt.}
+{128}{}{PoslednÃ­ zÃ¡znamy posÃ¡dky.}
+{129}{}{ZpÄ›t.}
+{130}{}{"Subjekt, na kterÃ©m jsme chtÄ›li provÃ©st sÃ©rii vÃ½znamnÃ½ch pokusÅ¯, zmizel. PÅ™edpoklÃ¡dÃ¡ se, Å¾e byl buÄ zniÄen, nebo odcizen Hubologisty. DalÅ¡Ã­ vÃ½zkumy se ukÃ¡zaly jako marnÃ©. Dokud neobdrÅ¾Ã­me dalÅ¡Ã­ exemplÃ¡Å™e, tato databÃ¡ze zÅ¯stane mimo provoz." - Dr. Sheng}
+{131}{}{BotanickÃ½ program.}
+{132}{}{GenetickÃ½ program.}
+{133}{}{PoslednÃ­ zÃ¡znamy posÃ¡dky.}
+{134}{}{ZpÄ›t.}
 {135}{}{Dr. Wong: New head of Biology Project, in addition to Physics Research.
 Dr. Sheng: Biology Project Head until two months ago. One month sabbatical with new "botany sentience serum" accounted for; further absence a puzzle. Dr. Wong assumes control of Biology Program.
 Dr. Long: Recently deceased via FEV serum.}
-{136}{}{Botanickı program.}
-{137}{}{Genetickı program.}
+{136}{}{BotanickÃ½ program.}
+{137}{}{GenetickÃ½ program.}
 {138}{}{Xeno program.}
-{139}{}{Zpìt.}
-{140}{}{Stanice deaktivována.}
+{139}{}{ZpÄ›t.}
+{140}{}{Stanice deaktivovÃ¡na.}
 {141}{}{Aktivovat stanici.}
-{142}{}{Odejít.}
-{143}{}{(Tvoje metoda bušení do klávesnice naukala správné heslo... máš neuvìøitelné štìstí!)}
-{144}{}{[Více]}
-{145}{}{Poèítaè nereaguje na ádnou klávesu.}
-{146}{}{Nemáš tušení kam to vloit.}
+{142}{}{OdejÃ­t.}
+{143}{}{(Tvoje metoda buÅ¡enÃ­ do klÃ¡vesnice naÅ¥ukala sprÃ¡vnÃ© heslo... mÃ¡Å¡ neuvÄ›Å™itelnÃ© Å¡tÄ›stÃ­!)}
+{144}{}{[VÃ­ce]}
+{145}{}{PoÄÃ­taÄ nereaguje na Å¾Ã¡dnou klÃ¡vesu.}
+{146}{}{NemÃ¡Å¡ tuÅ¡enÃ­ kam to vloÅ¾it.}

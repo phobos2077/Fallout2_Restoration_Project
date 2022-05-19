@@ -1,52 +1,52 @@
-{100}{}{Vidíš funkèní poèítaè.}
-{101}{}{Vidíš botanickı terminál komplexu EPA.}
-{200}{}{Vítejte v centrálním botanickém poèítaèi komplexu EPA. Prosím vyberte jednu z následujících moností.}
-{201}{}{Zpøístupnit informaèní databáze.}
-{202}{}{Zpøístupnit skladištì se semeny.}
-{203}{}{Odhlásit se.}
-{210}{}{V souèasnosti je moné zobrazit dvì databáze. Prosím vyberte jednu z níe uvedenıch.}
-{211}{}{Otevøít soubor o støídavém obdìlávání.}
-{212}{}{Otevøít soubor o botanice.}
-{213}{}{Otevøít soubor o biologickém a zvíøecím testování.}
-{214}{}{Zpìt.}
-{220}{}{Støídavé obdìlávání zabraòuje poklesu úrodnosti pùdy, jeliko opakované pìstování stejné plodiny na tom samém místì èasem ochuzuje pùdu o nejrùznìjší iviny. Plodina, která ochudí pùdu o jeden druh ivin, je v prùbìhu další sezóny nahrazena odlišnou plodinou, která vrací iviny do pùdy nebo vyuívá jiného mnoství.}
-{221}{}{[Více]}
-{222}{}{Støídavé obdìlávání se také pouívá ke kontrole škùdcù a nemocí, které se mohou èasem usídlit v pùdì. Rostliny podobného rodu mívají vìtšinou podobné škùdce nebo patogeny. Pravidelnou obmìnou místa sadby se cykly škùdcù mohou porušit nebo omezit.}
-{223}{}{Zpìt.}
-{230}{}{Botanika je vìdeckı obor zabıvající se ivotem rostlin. Tak jako jiné ivé formy v biologii, i ivot rostlin mùe bıt studován z rùznıch perspektiv, od molekulární a po ivot samotnıch jednotlivıch rostlin. Správné porozumìní rostlin je dùleité pro naši budoucnost, protoe nám umoòuje:
+{100}{}{VidÃ­Å¡ funkÄnÃ­ poÄÃ­taÄ.}
+{101}{}{VidÃ­Å¡ botanickÃ½ terminÃ¡l komplexu EPA.}
+{200}{}{VÃ­tejte v centrÃ¡lnÃ­m botanickÃ©m poÄÃ­taÄi komplexu EPA. ProsÃ­m vyberte jednu z nÃ¡sledujÃ­cÃ­ch moÅ¾nostÃ­.}
+{201}{}{ZpÅ™Ã­stupnit informaÄnÃ­ databÃ¡ze.}
+{202}{}{ZpÅ™Ã­stupnit skladiÅ¡tÄ› se semeny.}
+{203}{}{OdhlÃ¡sit se.}
+{210}{}{V souÄasnosti je moÅ¾nÃ© zobrazit dvÄ› databÃ¡ze. ProsÃ­m vyberte jednu z nÃ­Å¾e uvedenÃ½ch.}
+{211}{}{OtevÅ™Ã­t soubor o stÅ™Ã­davÃ©m obdÄ›lÃ¡vÃ¡nÃ­.}
+{212}{}{OtevÅ™Ã­t soubor o botanice.}
+{213}{}{OtevÅ™Ã­t soubor o biologickÃ©m a zvÃ­Å™ecÃ­m testovÃ¡nÃ­.}
+{214}{}{ZpÄ›t.}
+{220}{}{StÅ™Ã­davÃ© obdÄ›lÃ¡vÃ¡nÃ­ zabraÅˆuje poklesu Ãºrodnosti pÅ¯dy, jelikoÅ¾ opakovanÃ© pÄ›stovÃ¡nÃ­ stejnÃ© plodiny na tom samÃ©m mÃ­stÄ› Äasem ochuzuje pÅ¯du o nejrÅ¯znÄ›jÅ¡Ã­ Å¾iviny. Plodina, kterÃ¡ ochudÃ­ pÅ¯du o jeden druh Å¾ivin, je v prÅ¯bÄ›hu dalÅ¡Ã­ sezÃ³ny nahrazena odliÅ¡nou plodinou, kterÃ¡ vracÃ­ Å¾iviny do pÅ¯dy nebo vyuÅ¾Ã­vÃ¡ jinÃ©ho mnoÅ¾stvÃ­.}
+{221}{}{[VÃ­ce]}
+{222}{}{StÅ™Ã­davÃ© obdÄ›lÃ¡vÃ¡nÃ­ se takÃ© pouÅ¾Ã­vÃ¡ ke kontrole Å¡kÅ¯dcÅ¯ a nemocÃ­, kterÃ© se mohou Äasem usÃ­dlit v pÅ¯dÄ›. Rostliny podobnÃ©ho rodu mÃ­vajÃ­ vÄ›tÅ¡inou podobnÃ© Å¡kÅ¯dce nebo patogeny. Pravidelnou obmÄ›nou mÃ­sta sadby se cykly Å¡kÅ¯dcÅ¯ mohou poruÅ¡it nebo omezit.}
+{223}{}{ZpÄ›t.}
+{230}{}{Botanika je vÄ›deckÃ½ obor zabÃ½vajÃ­cÃ­ se Å¾ivotem rostlin. Tak jako jinÃ© Å¾ivÃ© formy v biologii, i Å¾ivot rostlin mÅ¯Å¾e bÃ½t studovÃ¡n z rÅ¯znÃ½ch perspektiv, od molekulÃ¡rnÃ­ aÅ¾ po Å¾ivot samotnÃ½ch jednotlivÃ½ch rostlin. SprÃ¡vnÃ© porozumÄ›nÃ­ rostlin je dÅ¯leÅ¾itÃ© pro naÅ¡i budoucnost, protoÅ¾e nÃ¡m umoÅ¾Åˆuje:
 
- -Produkovat jídlo k nasycení narùstající populace.
- -Porozumìt základním ivotním procesùm.
- -Vyrábìt léky a látky k léèení nemocí a jinıch potíí.
- -Jasnìji porozumìt zmìnám ivotního prostøedí.
+ -Produkovat jÃ­dlo k nasycenÃ­ narÅ¯stajÃ­cÃ­ populace.
+ -PorozumÄ›t zÃ¡kladnÃ­m Å¾ivotnÃ­m procesÅ¯m.
+ -VyrÃ¡bÄ›t lÃ©ky a lÃ¡tky k lÃ©ÄenÃ­ nemocÃ­ a jinÃ½ch potÃ­Å¾Ã­.
+ -JasnÄ›ji porozumÄ›t zmÄ›nÃ¡m Å¾ivotnÃ­ho prostÅ™edÃ­.
 
- Zbytek informací vypadá jako rùzné tabulky, grafy a obrázky rùznıch èástí rostlin.}
-{231}{}{Stáhnout informace na holodisk.}
-{232}{}{Zpìt.}
-{240}{}{Toto zaøízení bylo místem pro rùzné pokusy na rozmanitıch ivoèišnıch a rostlinnıch formách. Probíhalo zde intenzivní testování na rostlinnıch formách známıch jako masoravá rostlina a nìkterıch ivoèišnıch tvorech známıch jako kentauøi, floateøi a radškorpioni.}
-{241}{}{Èíst o rostlinnıch experimentech.}
-{242}{}{Èíst o masoravıch rostlinách.}
-{243}{}{Èíst o kentaurech a floaterech.}
-{244}{}{Èíst o radškorpionech.}
-{250}{}{Byly provedeny rùzné experimenty za úèelem vzniku nové formy rostlinného ivota. Nìkteré z tìchto pokusù byly úspìšné a jejich zdravı vıvoj se dá pozorovat v dendrologické zahradì. Skladovací nádre v souèasnosti hlásí, e jsou vzorky semen stále dostupné pro další testování.}
-{251}{}{Masoravá rostlina je zmutovaná forma nìkteré z mucholapkovitıch rostlin. Testy ukázaly, e je rostlina docela agresivní a pouívá dvì formy útoku. Jedním z nich je trn, kterı plive na svého nepøítele. Další formou útoku je kousnutí tlamou plnou trnù. Je doporuèeno zacházet a pracovat s tìmito formami ivota s velikou opatrností.}
-{252}{}{Po intenzivním testování se pøišlo na to, e jsou kentauøi vedlejším produktem viru FEV. Zdá se, e je tento tvor smìsicí psa, koèky, brahmíny a dalších zvíøat. Nicménì FEV není jedinou pøíèinou mutace, jeliko se zdá, e radiace takté sehrála svoji roli. Zdá se, e upøednostòují ivot v silnì ozáøeném prostøedí a z toho dùvodu ozaøují všechno kolem sebe.}
-{253}{}{[Více]}
-{254}{}{Pùvod a vznik floaterù je neznámı, ale pøedpokládá se, e jsou pøíbuzní kentaurù, se kterımi je mùeme èasto nalézt ve skupinách. Takté vypadají bıt vısledkem pùsobení FEV. Další testování ukázalo, e jsou kompletnì imunní vùèi elektrickému zranìní.}
-{255}{}{Radškorpion je extrémnì veliká verze severoamerického štíra císaøského zmutovaného radiací. Navzdory prvotním oèekáváním se jejich jed stal silnìjším, ne zøedìnìjším. Jsou to noèní tvorové a jsou citliví na svìtlo. Další testování ukázalo, e vzorky jedu z jejich ocasù je moné pouít k vırobì protijedu.}
-{256}{}{Zpìt.}
-{257}{}{Byly provedeny rùzné experimenty za úèelem vzniku nové formy rostlinného ivota. Nìkteré z tìchto pokusù byly úspìšné a jejich zdravı vıvoj se dá pozorovat v dendrologické zahradì. Skladovací nádre v souèasnosti hlásí, e ádné vzorky semen nejsou dostupné pro další testování.}
-{260}{}{Souèasné EPA skladovací kontejnery hlásí, e zbıvají semena v skladovací nádri 1 a 2.}
-{261}{}{Souèasné EPA skladovací kontejnery hlásí, e zbıvají semena v skladovací nádri 2.}
-{262}{}{Souèasné EPA skladovací kontejnery hlásí, e zbıvají semena v skladovací nádri 1.}
-{263}{}{Souèasné EPA skladovací kontejnery hlásí, e ani v jedné ze skladovacích nádrí nejsou semena.}
-{264}{}{Zpøístupnit skladovací nádr 1.}
-{265}{}{Zpøístupnit skladovací nádr 2.}
-{266}{}{Zpìt.}
-{270}{}{Skladovací nádr 1 hlásí pìt zbıvajících balíèkù z U.S. Rozšíøeného Potravinového Programu. Semena kukuøice byla geneticky modifikována, aby byla imunní na choroby a napadení hmyzem.}
-{271}{}{Skladovací nádr 2 hlásí dva zbıvající balíèky se semeny, kadı z podobnıch nebo rùznıch èeledí. Nebyl proveden ádnı vızkum a vısledek klíèení není znám.}
+ Zbytek informacÃ­ vypadÃ¡ jako rÅ¯znÃ© tabulky, grafy a obrÃ¡zky rÅ¯znÃ½ch ÄÃ¡stÃ­ rostlin.}
+{231}{}{StÃ¡hnout informace na holodisk.}
+{232}{}{ZpÄ›t.}
+{240}{}{Toto zaÅ™Ã­zenÃ­ bylo mÃ­stem pro rÅ¯znÃ© pokusy na rozmanitÃ½ch Å¾ivoÄiÅ¡nÃ½ch a rostlinnÃ½ch formÃ¡ch. ProbÃ­halo zde intenzivnÃ­ testovÃ¡nÃ­ na rostlinnÃ½ch formÃ¡ch znÃ¡mÃ½ch jako masoÅ¾ravÃ¡ rostlina a nÄ›kterÃ½ch Å¾ivoÄiÅ¡nÃ½ch tvorech znÃ¡mÃ½ch jako kentauÅ™i, floateÅ™i a radÅ¡korpioni.}
+{241}{}{ÄŒÃ­st o rostlinnÃ½ch experimentech.}
+{242}{}{ÄŒÃ­st o masoÅ¾ravÃ½ch rostlinÃ¡ch.}
+{243}{}{ÄŒÃ­st o kentaurech a floaterech.}
+{244}{}{ÄŒÃ­st o radÅ¡korpionech.}
+{250}{}{Byly provedeny rÅ¯znÃ© experimenty za ÃºÄelem vzniku novÃ© formy rostlinnÃ©ho Å¾ivota. NÄ›kterÃ© z tÄ›chto pokusÅ¯ byly ÃºspÄ›Å¡nÃ© a jejich zdravÃ½ vÃ½voj se dÃ¡ pozorovat v dendrologickÃ© zahradÄ›. SkladovacÃ­ nÃ¡drÅ¾e v souÄasnosti hlÃ¡sÃ­, Å¾e jsou vzorky semen stÃ¡le dostupnÃ© pro dalÅ¡Ã­ testovÃ¡nÃ­.}
+{251}{}{MasoÅ¾ravÃ¡ rostlina je zmutovanÃ¡ forma nÄ›kterÃ© z mucholapkovitÃ½ch rostlin. Testy ukÃ¡zaly, Å¾e je rostlina docela agresivnÃ­ a pouÅ¾Ã­vÃ¡ dvÄ› formy Ãºtoku. JednÃ­m z nich je trn, kterÃ½ plive na svÃ©ho nepÅ™Ã­tele. DalÅ¡Ã­ formou Ãºtoku je kousnutÃ­ tlamou plnou trnÅ¯. Je doporuÄeno zachÃ¡zet a pracovat s tÄ›mito formami Å¾ivota s velikou opatrnostÃ­.}
+{252}{}{Po intenzivnÃ­m testovÃ¡nÃ­ se pÅ™iÅ¡lo na to, Å¾e jsou kentauÅ™i vedlejÅ¡Ã­m produktem viru FEV. ZdÃ¡ se, Å¾e je tento tvor smÄ›sicÃ­ psa, koÄky, brahmÃ­ny a dalÅ¡Ã­ch zvÃ­Å™at. NicmÃ©nÄ› FEV nenÃ­ jedinou pÅ™Ã­Äinou mutace, jelikoÅ¾ se zdÃ¡, Å¾e radiace taktÃ©Å¾ sehrÃ¡la svoji roli. ZdÃ¡ se, Å¾e upÅ™ednostÅˆujÃ­ Å¾ivot v silnÄ› ozÃ¡Å™enÃ©m prostÅ™edÃ­ a z toho dÅ¯vodu ozaÅ™ujÃ­ vÅ¡echno kolem sebe.}
+{253}{}{[VÃ­ce]}
+{254}{}{PÅ¯vod a vznik floaterÅ¯ je neznÃ¡mÃ½, ale pÅ™edpoklÃ¡dÃ¡ se, Å¾e jsou pÅ™Ã­buznÃ­ kentaurÅ¯, se kterÃ½mi je mÅ¯Å¾eme Äasto nalÃ©zt ve skupinÃ¡ch. TaktÃ©Å¾ vypadajÃ­ bÃ½t vÃ½sledkem pÅ¯sobenÃ­ FEV. DalÅ¡Ã­ testovÃ¡nÃ­ ukÃ¡zalo, Å¾e jsou kompletnÄ› imunnÃ­ vÅ¯Äi elektrickÃ©mu zranÄ›nÃ­.}
+{255}{}{RadÅ¡korpion je extrÃ©mnÄ› velikÃ¡ verze severoamerickÃ©ho Å¡tÃ­ra cÃ­saÅ™skÃ©ho zmutovanÃ©ho radiacÃ­. Navzdory prvotnÃ­m oÄekÃ¡vÃ¡nÃ­m se jejich jed stal silnÄ›jÅ¡Ã­m, ne zÅ™edÄ›nÄ›jÅ¡Ã­m. Jsou to noÄnÃ­ tvorovÃ© a jsou citlivÃ­ na svÄ›tlo. DalÅ¡Ã­ testovÃ¡nÃ­ ukÃ¡zalo, Å¾e vzorky jedu z jejich ocasÅ¯ je moÅ¾nÃ© pouÅ¾Ã­t k vÃ½robÄ› protijedu.}
+{256}{}{ZpÄ›t.}
+{257}{}{Byly provedeny rÅ¯znÃ© experimenty za ÃºÄelem vzniku novÃ© formy rostlinnÃ©ho Å¾ivota. NÄ›kterÃ© z tÄ›chto pokusÅ¯ byly ÃºspÄ›Å¡nÃ© a jejich zdravÃ½ vÃ½voj se dÃ¡ pozorovat v dendrologickÃ© zahradÄ›. SkladovacÃ­ nÃ¡drÅ¾e v souÄasnosti hlÃ¡sÃ­, Å¾e Å¾Ã¡dnÃ© vzorky semen nejsou dostupnÃ© pro dalÅ¡Ã­ testovÃ¡nÃ­.}
+{260}{}{SouÄasnÃ© EPA skladovacÃ­ kontejnery hlÃ¡sÃ­, Å¾e zbÃ½vajÃ­ semena v skladovacÃ­ nÃ¡drÅ¾i 1 a 2.}
+{261}{}{SouÄasnÃ© EPA skladovacÃ­ kontejnery hlÃ¡sÃ­, Å¾e zbÃ½vajÃ­ semena v skladovacÃ­ nÃ¡drÅ¾i 2.}
+{262}{}{SouÄasnÃ© EPA skladovacÃ­ kontejnery hlÃ¡sÃ­, Å¾e zbÃ½vajÃ­ semena v skladovacÃ­ nÃ¡drÅ¾i 1.}
+{263}{}{SouÄasnÃ© EPA skladovacÃ­ kontejnery hlÃ¡sÃ­, Å¾e ani v jednÃ© ze skladovacÃ­ch nÃ¡drÅ¾Ã­ nejsou semena.}
+{264}{}{ZpÅ™Ã­stupnit skladovacÃ­ nÃ¡drÅ¾ 1.}
+{265}{}{ZpÅ™Ã­stupnit skladovacÃ­ nÃ¡drÅ¾ 2.}
+{266}{}{ZpÄ›t.}
+{270}{}{SkladovacÃ­ nÃ¡drÅ¾ 1 hlÃ¡sÃ­ pÄ›t zbÃ½vajÃ­cÃ­ch balÃ­ÄkÅ¯ z U.S. RozÅ¡Ã­Å™enÃ©ho PotravinovÃ©ho Programu. Semena kukuÅ™ice byla geneticky modifikovÃ¡na, aby byla imunnÃ­ na choroby a napadenÃ­ hmyzem.}
+{271}{}{SkladovacÃ­ nÃ¡drÅ¾ 2 hlÃ¡sÃ­ dva zbÃ½vajÃ­cÃ­ balÃ­Äky se semeny, kaÅ¾dÃ½ z podobnÃ½ch nebo rÅ¯znÃ½ch ÄeledÃ­. Nebyl proveden Å¾Ã¡dnÃ½ vÃ½zkum a vÃ½sledek klÃ­ÄenÃ­ nenÃ­ znÃ¡m.}
 {273}{}{Vybrat semena.}
-{280}{}{Vybírání vzorkù semen... Úspìšnì vybráno pìt balíèkù geneticky modifikovanıch kukuøiènıch semen. Ukládání balíèkù do sbìrného kontejneru... Úspìšné... Zavírání sbìrného kontejneru... Úspìšné.}
-{281}{}{Vybírání vzorkù semen... Úspìšnì vybrány dva balíèky neznámıch semen. Uloení balíèkù do sbìrného kontejneru... Úspìšné... Zavírání sbìrného kontejneru... Úspìšné.}
-{290}{}{Stahování botanické databáze na holodisk... 75% hotovo... dokonèeno. Prosím vyjmìte disk a vrate se do menu.}
-{291}{}{Zpìt.}
+{280}{}{VybÃ­rÃ¡nÃ­ vzorkÅ¯ semen... ÃšspÄ›Å¡nÄ› vybrÃ¡no pÄ›t balÃ­ÄkÅ¯ geneticky modifikovanÃ½ch kukuÅ™iÄnÃ½ch semen. UklÃ¡dÃ¡nÃ­ balÃ­ÄkÅ¯ do sbÄ›rnÃ©ho kontejneru... ÃšspÄ›Å¡nÃ©... ZavÃ­rÃ¡nÃ­ sbÄ›rnÃ©ho kontejneru... ÃšspÄ›Å¡nÃ©.}
+{281}{}{VybÃ­rÃ¡nÃ­ vzorkÅ¯ semen... ÃšspÄ›Å¡nÄ› vybrÃ¡ny dva balÃ­Äky neznÃ¡mÃ½ch semen. UloÅ¾enÃ­ balÃ­ÄkÅ¯ do sbÄ›rnÃ©ho kontejneru... ÃšspÄ›Å¡nÃ©... ZavÃ­rÃ¡nÃ­ sbÄ›rnÃ©ho kontejneru... ÃšspÄ›Å¡nÃ©.}
+{290}{}{StahovÃ¡nÃ­ botanickÃ© databÃ¡ze na holodisk... 75% hotovo... dokonÄeno. ProsÃ­m vyjmÄ›te disk a vraÅ¥te se do menu.}
+{291}{}{ZpÄ›t.}

@@ -1,1 +1,1 @@
-{100}{}{Kolem zalesnìného svahu se vine nìkolik špinavıch chıší a stanù. Lidé, které vidíš, jsou vyhublí a ostraití.}
+{100}{}{Kolem zalesnÄ›nÃ©ho svahu se vine nÄ›kolik Å¡pinavÃ½ch chÃ½Å¡Ã­ a stanÅ¯. LidÃ©, kterÃ© vidÃ­Å¡, jsou vyhublÃ­ a ostraÅ¾itÃ­.}

@@ -1,12 +1,12 @@
-{100}{}{Tohle zvíøe by mìlo bıt utraceno, aby se u dál netrápilo.}
-{101}{}{Vzdálenì pøipomíná psa. Chlupy z jeho zbídaèeného tìla odpadávají po chuchvalcích.}
-{102}{}{Vidíš ošklivého, zbídaèeného psa. Líbíš se mu.}
+{100}{}{Tohle zvÃ­Å™e by mÄ›lo bÃ½t utraceno, aby se uÅ¾ dÃ¡l netrÃ¡pilo.}
+{101}{}{VzdÃ¡lenÄ› pÅ™ipomÃ­nÃ¡ psa. Chlupy z jeho zbÃ­daÄenÃ©ho tÄ›la odpadÃ¡vajÃ­ po chuchvalcÃ­ch.}
+{102}{}{VidÃ­Å¡ oÅ¡klivÃ©ho, zbÃ­daÄenÃ©ho psa. LÃ­bÃ­Å¡ se mu.}
 {110}{}{Haf}
-{111}{}{Hauuíííí úúúúúúhhhh ffff}
+{111}{}{HauuÃ­Ã­Ã­Ã­ ÃºÃºÃºÃºÃºÃºhhhh ffff}
 {112}{}{hafff ffffaaffff}
 {113}{}{vrrr vrrr ffff}
-{114}{}{HHHaaúúúúú}
+{114}{}{HHHaaÃºÃºÃºÃºÃº}
 {115}{}{uhhhh hafff}
-{200}{}{Teï, kdy je pes mrtvı, cítíš se daleko bezpeènìji.}
-{201}{}{Pro to zvíøe u toho moc udìlat nemùeš. Smrtící kulka má zøejmì vìtší cenu.}
-{202}{}{Jo, opravdu vypadá uboze. Mimo to se ho opravdu nechceš dotıkat.}
+{200}{}{TeÄ, kdyÅ¾ je pes mrtvÃ½, cÃ­tÃ­Å¡ se daleko bezpeÄnÄ›ji.}
+{201}{}{Pro to zvÃ­Å™e uÅ¾ toho moc udÄ›lat nemÅ¯Å¾eÅ¡. SmrtÃ­cÃ­ kulka mÃ¡ zÅ™ejmÄ› vÄ›tÅ¡Ã­ cenu.}
+{202}{}{Jo, opravdu vypadÃ¡ uboze. Mimo to se ho opravdu nechceÅ¡ dotÃ½kat.}

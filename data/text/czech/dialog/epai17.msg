@@ -1,11 +1,11 @@
-{100}{}{Správa a uchování dat. Vyberte akci.}
+{100}{}{SprÃ¡va a uchovÃ¡nÃ­ dat. Vyberte akci.}
 {101}{}{Spustit diagnostiku.}
 {102}{}{[KONEC]}
-{103}{}{Probíhá kontrola... Inicializace... Zpracovávám... Dìkujeme za vaši trpìlivost bìhem tohoto procesu... Hotovo. Správa dat bìí s 84% efektivitou. Špatnì zapojené obvody tohoto poèítaèe zpùsobují zvıšenı vıkon magnetickıch cívek, díky èemu vzniká magnetické pole, které mùe zpùsobovat rušení na ostatních zaøízení. Nutná oprava. Konec kontroly.}
+{103}{}{ProbÃ­hÃ¡ kontrola... Inicializace... ZpracovÃ¡vÃ¡m... DÄ›kujeme za vaÅ¡i trpÄ›livost bÄ›hem tohoto procesu... Hotovo. SprÃ¡va dat bÄ›Å¾Ã­ s 84% efektivitou. Å patnÄ› zapojenÃ© obvody tohoto poÄÃ­taÄe zpÅ¯sobujÃ­ zvÃ½Å¡enÃ½ vÃ½kon magnetickÃ½ch cÃ­vek, dÃ­ky ÄemuÅ¾ vznikÃ¡ magnetickÃ© pole, kterÃ© mÅ¯Å¾e zpÅ¯sobovat ruÅ¡enÃ­ na ostatnÃ­ch zaÅ™Ã­zenÃ­. NutnÃ¡ oprava. Konec kontroly.}
 {104}{}{[KONEC]}
-{105}{}{Vidíš poèítaè.}
-{106}{}{Vidíš poèítaè správy dat komplexu EPA.}
-{107}{}{Vidíš poèítaè, kterı zajišuje správné a bezpeèné ukládání dat v komplexu EPA.}
-{108}{}{Mám to!}
-{109}{}{Podaøilo se ti vyøešit problém s magnetickımi cívkami.}
-{1030}{}{Probíhá kontrola... Inicializace... Zpracovávám... Dìkujeme za vaši trpìlivost bìhem tohoto procesu... Hotovo. Správa dat bìí se 100% efektivitou. Dìkujeme a pøejeme hezkı den. Konec kontroly.}
+{105}{}{VidÃ­Å¡ poÄÃ­taÄ.}
+{106}{}{VidÃ­Å¡ poÄÃ­taÄ sprÃ¡vy dat komplexu EPA.}
+{107}{}{VidÃ­Å¡ poÄÃ­taÄ, kterÃ½ zajiÅ¡Å¥uje sprÃ¡vnÃ© a bezpeÄnÃ© uklÃ¡dÃ¡nÃ­ dat v komplexu EPA.}
+{108}{}{MÃ¡m to!}
+{109}{}{PodaÅ™ilo se ti vyÅ™eÅ¡it problÃ©m s magnetickÃ½mi cÃ­vkami.}
+{1030}{}{ProbÃ­hÃ¡ kontrola... Inicializace... ZpracovÃ¡vÃ¡m... DÄ›kujeme za vaÅ¡i trpÄ›livost bÄ›hem tohoto procesu... Hotovo. SprÃ¡va dat bÄ›Å¾Ã­ se 100% efektivitou. DÄ›kujeme a pÅ™ejeme hezkÃ½ den. Konec kontroly.}

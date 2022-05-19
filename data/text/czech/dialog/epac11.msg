@@ -1,92 +1,92 @@
-{100}{}{Vidíš seranta Kocoura Julese.}
-{101}{}{Vidíš dobøe vypadajícího èernocha s vıraznımi špièáky. Pyšnì si vykraèuje a má nafoukanı vıraz ve tváøi.}
-{200}{}{(Pøi vstupu do kryogenické komory zahlédneš vyhublého èerného mue rozvaleného na podlaze. Jeho svalnaté tìlo se ještì tøese z ledovì chladné vody. Jakmile se pøiblííš, podívá se na tebe.)}
+{100}{}{VidÃ­Å¡ serÅ¾anta Kocoura Julese.}
+{101}{}{VidÃ­Å¡ dobÅ™e vypadajÃ­cÃ­ho Äernocha s vÃ½raznÃ½mi Å¡piÄÃ¡ky. PyÅ¡nÄ› si vykraÄuje a mÃ¡ nafoukanÃ½ vÃ½raz ve tvÃ¡Å™i.}
+{200}{}{(PÅ™i vstupu do kryogenickÃ© komory zahlÃ©dneÅ¡ vyhublÃ©ho ÄernÃ©ho muÅ¾e rozvalenÃ©ho na podlaze. Jeho svalnatÃ© tÄ›lo se jeÅ¡tÄ› tÅ™ese z ledovÄ› chladnÃ© vody. Jakmile se pÅ™iblÃ­Å¾Ã­Å¡, podÃ­vÃ¡ se na tebe.)}
 {201}{}{Kdo jsi?}
-{210}{}{(Otøese se ve stoje do sucha jako nìjaké zvíøe a poté se na tebe ušklíbne, pøièem odhalí nìkolik zvláštních pøedních zubù.) Kdo jsem *já*? Kdo jsi *ty*? Vypadáš jako nìjakı po zuby ozbrojenı vandrák!}
-{211}{}{(Otøese se ve stoje do sucha jako nìjaké zvíøe a poté se na tebe zeširoka usmìje, pøièem odhalí nìkolik obzvláštì ostrıch pøedních zubù.) Kdo jsem *já*? Já jsem Sr. Jules, nejhezèí voják na tıhle základnì, fešando!}
+{210}{}{(OtÅ™ese se ve stoje do sucha jako nÄ›jakÃ© zvÃ­Å™e a potÃ© se na tebe uÅ¡klÃ­bne, pÅ™iÄemÅ¾ odhalÃ­ nÄ›kolik zvlÃ¡Å¡tnÃ­ch pÅ™ednÃ­ch zubÅ¯.) Kdo jsem *jÃ¡*? Kdo jsi *ty*? VypadÃ¡Å¡ jako nÄ›jakÃ½ po zuby ozbrojenÃ½ vandrÃ¡k!}
+{211}{}{(OtÅ™ese se ve stoje do sucha jako nÄ›jakÃ© zvÃ­Å™e a potÃ© se na tebe zeÅ¡iroka usmÄ›je, pÅ™iÄemÅ¾ odhalÃ­ nÄ›kolik obzvlÃ¡Å¡tÄ› ostrÃ½ch pÅ™ednÃ­ch zubÅ¯.) Kdo jsem *jÃ¡*? JÃ¡ jsem SrÅ¾. Jules, nejhezÄÃ­ vojÃ¡k na tÃ½hle zÃ¡kladnÄ›, feÅ¡ando!}
 {212}{}{Jsem }
-{213}{}{. Take jak se jmenuješ?}
-{214}{}{Zklidni hormony. Co se to tady vlastnì dìje?}
-{215}{}{Aha. Take, Sr. Julesi, co se to tady vlastnì dìje?}
-{216}{}{Jak to, e jsi naivu? Doktor øíkal, e pøeil jenom on.}
-{220}{}{Øíkají mi Sr. Jules, ale mùeš mi øíkat Kocoure. Jsem ten nejrychlejší a nejhezèí voják na tıhle základnì.}
-{221}{}{Jasnì, jak myslíš. Take, co se to tady dìje ?}
-{230}{}{Myslíš Doktora C? Proè by na mì zapomnìl? Sakra, vdy to on pøece stvoøil tohle *umìleckı* dílo (Ukazuje na svoje tìlo.)}
-{231}{}{Jasnì, jak myslíš. Take, co se to tady dìje ?}
-{232}{}{Myslím, e se kadı bavíme o nìkom jiném... take, co se to tu vlastnì dìje?}
-{240}{}{Co já vím, tak tohle je nìjakı vládní zaøízení. Provádìjí tu nejrùznìjší druhy pøísnì tajnejch vızkumù. Ale... (Rozhlédne se po místnosti.) Je tady pøíšernı ticho. Kde jsou všichni?}
-{241}{}{Víš, asi to pro tebe bude šok, ale byl jsi zmraenı víc jak sto let. Svìt u není to, co bıval. Dopadly bomby a Zemì utichla. Lidstvo se z toho stále snaí vzpamatovat.}
-{250}{}{(Sr. Jules se na tebe podívá s pozdvienım oboèím.) Dìláš si srandu, e jo? Oni v tom fakt pokraèovali. Sakra. Tak to jsem mìl docela kliku, e mì pøeveleli z armády a dali sem.}
-{251}{}{Ty jsi byl v armádì?}
-{260}{}{Jo. Byl jsem expert na energetickı zbranì. A taky jsem mìl pìknì mrštnı nohy. V armádì jsem byl asi jenom rok ne mì pøeveleli sem. Škoda, e u nikdy neuvidím svı kamarády. Rád bych se s nima aspoò rozlouèil.}
-{261}{}{To je mi líto.}
-{262}{}{Upøímnou soustrast, ale ivot jde dál. Utápìt se v depresích nemá smysl.}
-{270}{}{Jo, to nám všem. Co budu teï vlastnì dìlat?}
-{271}{}{Asi máš pravdu. Co budu teï vlastnì dìlat?}
-{272}{}{No, hodil by se mi parák. Nechceš se ke mì pøidat?}
-{273}{}{No, u opravdu musím jít. Hodnì štìstí tam venku.}
-{280}{}{Hele a proè ne! Ukáu ti, e na to Kocour ještì poøád má.}
-{281}{}{To zní dobøe. Tak pojïme.}
-{282}{}{Jak myslíš.}
-{290}{}{Nemusíš se bát o tohodle starıho kocoura. Nìco si u v tomhle svìtì najdu. A teï uhni na stranu a nech Kocoura dìlat svoji práci.}
+{213}{}{. TakÅ¾e jak se jmenujeÅ¡?}
+{214}{}{Zklidni hormony. Co se to tady vlastnÄ› dÄ›je?}
+{215}{}{Aha. TakÅ¾e, SrÅ¾. Julesi, co se to tady vlastnÄ› dÄ›je?}
+{216}{}{Jak to, Å¾e jsi naÅ¾ivu? Doktor Å™Ã­kal, Å¾e pÅ™eÅ¾il jenom on.}
+{220}{}{Å˜Ã­kajÃ­ mi SrÅ¾. Jules, ale mÅ¯Å¾eÅ¡ mi Å™Ã­kat Kocoure. Jsem ten nejrychlejÅ¡Ã­ a nejhezÄÃ­ vojÃ¡k na tÃ½hle zÃ¡kladnÄ›.}
+{221}{}{JasnÄ›, jak myslÃ­Å¡. TakÅ¾e, co se to tady dÄ›je ?}
+{230}{}{MyslÃ­Å¡ Doktora C? ProÄ by na mÄ› zapomnÄ›l? Sakra, vÅ¾dyÅ¥ to on pÅ™ece stvoÅ™il tohle *umÄ›leckÃ½* dÃ­lo (Ukazuje na svoje tÄ›lo.)}
+{231}{}{JasnÄ›, jak myslÃ­Å¡. TakÅ¾e, co se to tady dÄ›je ?}
+{232}{}{MyslÃ­m, Å¾e se kaÅ¾dÃ½ bavÃ­me o nÄ›kom jinÃ©m... takÅ¾e, co se to tu vlastnÄ› dÄ›je?}
+{240}{}{Co jÃ¡ vÃ­m, tak tohle je nÄ›jakÃ½ vlÃ¡dnÃ­ zaÅ™Ã­zenÃ­. ProvÃ¡dÄ›jÃ­ tu nejrÅ¯znÄ›jÅ¡Ã­ druhy pÅ™Ã­snÄ› tajnejch vÃ½zkumÅ¯. Ale... (RozhlÃ©dne se po mÃ­stnosti.) Je tady pÅ™Ã­Å¡ernÃ½ ticho. Kde jsou vÅ¡ichni?}
+{241}{}{VÃ­Å¡, asi to pro tebe bude Å¡ok, ale byl jsi zmraÅ¾enÃ½ vÃ­c jak sto let. SvÄ›t uÅ¾ nenÃ­ to, co bÃ½val. Dopadly bomby a ZemÄ› utichla. Lidstvo se z toho stÃ¡le snaÅ¾Ã­ vzpamatovat.}
+{250}{}{(SrÅ¾. Jules se na tebe podÃ­vÃ¡ s pozdviÅ¾enÃ½m oboÄÃ­m.) DÄ›lÃ¡Å¡ si srandu, Å¾e jo? Oni v tom fakt pokraÄovali. Sakra. Tak to jsem mÄ›l docela kliku, Å¾e mÄ› pÅ™eveleli z armÃ¡dy a dali sem.}
+{251}{}{Ty jsi byl v armÃ¡dÄ›?}
+{260}{}{Jo. Byl jsem expert na energetickÃ½ zbranÄ›. A taky jsem mÄ›l pÄ›knÄ› mrÅ¡tnÃ½ nohy. V armÃ¡dÄ› jsem byl asi jenom rok neÅ¾ mÄ› pÅ™eveleli sem. Å koda, Å¾e uÅ¾ nikdy neuvidÃ­m svÃ½ kamarÃ¡dy. RÃ¡d bych se s nima aspoÅˆ rozlouÄil.}
+{261}{}{To je mi lÃ­to.}
+{262}{}{UpÅ™Ã­mnou soustrast, ale Å¾ivot jde dÃ¡l. UtÃ¡pÄ›t se v depresÃ­ch nemÃ¡ smysl.}
+{270}{}{Jo, to nÃ¡m vÅ¡em. Co budu teÄ vlastnÄ› dÄ›lat?}
+{271}{}{Asi mÃ¡Å¡ pravdu. Co budu teÄ vlastnÄ› dÄ›lat?}
+{272}{}{No, hodil by se mi parÅ¥Ã¡k. NechceÅ¡ se ke mÄ› pÅ™idat?}
+{273}{}{No, uÅ¾ opravdu musÃ­m jÃ­t. HodnÄ› Å¡tÄ›stÃ­ tam venku.}
+{280}{}{Hele a proÄ ne! UkÃ¡Å¾u ti, Å¾e na to Kocour jeÅ¡tÄ› poÅ™Ã¡d mÃ¡.}
+{281}{}{To znÃ­ dobÅ™e. Tak pojÄme.}
+{282}{}{Jak myslÃ­Å¡.}
+{290}{}{NemusÃ­Å¡ se bÃ¡t o tohodle starÃ½ho kocoura. NÄ›co si uÅ¾ v tomhle svÄ›tÄ› najdu. A teÄ uhni na stranu a nech Kocoura dÄ›lat svoji prÃ¡ci.}
 {291}{}{[KONEC]}
-{300}{}{Jak jsi vlastnì skonèil v té kryo komoøe? A co se ti to stalo se zubama?}
-{301}{}{Kdysi jsem byl strá v jednı z mnoha genetickıch laboratoøí. Experimentovali s lidskou a koèièí DNA. Nejspíš chtìli vytvoøit nìco, co by kombinovalo to nejlepší z obojího. A teï pøicházím na scénu já. (Kocour na tebe vycení svoje zuby.) Potøebovali dobrovolníka na jeden experiment. Bylo to urèenı pro prùzkumníky apod. a údajnì to mìlo zvyšovat hbitost a ohebnost. Znìlo to fakt dobøe *odvrátí tváø na stranu*. Nicménì, dali mi tuhle injekci, uspali mì a pak u si jenom vzpomínám, e mam tyhle zuby a moje smysly jsou... ostøejší. Tak trochu jako šelma.}
-{302}{}{Pokraèuj.}
-{303}{}{No, experiment prej neprobíhal podle plánu a ty vìci, kterı do mì napustili, se moc nepohodly s mım organismem. Jenom nevím, co tím mysleli, protoe já se ještì nikdy necejtil líp. Rozhodli se, e mì hodí do kryo mrazáku, ne pøijdou na to, co se mnou udìlají.}
-{304}{}{A pak jsem tì rozmrazil. Zdá se, e mi teï dluíš.}
-{305}{}{Jo, zachránil jsi mì. Na oplátku moná zachráním tvùj smysl pro humor, opièáku.}
-{306}{}{Opièáku? To z tebe urèitì mluví to koèièí DNA. To bude asi všechno.}
-{310}{}{Myslíš, e bys mì jako bıvalı voják dokázal nìco nauèit?}
-{311}{}{Moná bych tì mohl nauèit pár vìcí o energetickejch a jinejch velkejch zbraních. Pamatuj si, e...}
-{312}{}{[Více]}
-{313}{}{Hotovo. Tohle by ti mìlo pomoct, a budeš škvaøit mutanty, co se ti pøipletou do cesty.}
-{314}{}{Díky.}
-{390}{}{Jsi pøipraven mì vzít s sebou?}
-{391}{}{Pojïme.}
-{392}{}{Ne, ještì ne.}
-{400}{}{Potøebujete nìco?}
-{401}{}{S èím ti mùe Kocour pomoct?}
+{300}{}{Jak jsi vlastnÄ› skonÄil v tÃ© kryo komoÅ™e? A co se ti to stalo se zubama?}
+{301}{}{Kdysi jsem byl strÃ¡Å¾ v jednÃ½ z mnoha genetickÃ½ch laboratoÅ™Ã­. Experimentovali s lidskou a koÄiÄÃ­ DNA. NejspÃ­Å¡ chtÄ›li vytvoÅ™it nÄ›co, co by kombinovalo to nejlepÅ¡Ã­ z obojÃ­ho. A teÄ pÅ™ichÃ¡zÃ­m na scÃ©nu jÃ¡. (Kocour na tebe vycenÃ­ svoje zuby.) PotÅ™ebovali dobrovolnÃ­ka na jeden experiment. Bylo to urÄenÃ½ pro prÅ¯zkumnÃ­ky apod. a ÃºdajnÄ› to mÄ›lo zvyÅ¡ovat hbitost a ohebnost. ZnÄ›lo to fakt dobÅ™e *odvrÃ¡tÃ­ tvÃ¡Å™ na stranu*. NicmÃ©nÄ›, dali mi tuhle injekci, uspali mÄ› a pak uÅ¾ si jenom vzpomÃ­nÃ¡m, Å¾e mam tyhle zuby a moje smysly jsou... ostÅ™ejÅ¡Ã­. Tak trochu jako Å¡elma.}
+{302}{}{PokraÄuj.}
+{303}{}{No, experiment prej neprobÃ­hal podle plÃ¡nu a ty vÄ›ci, kterÃ½ do mÄ› napustili, se moc nepohodly s mÃ½m organismem. Jenom nevÃ­m, co tÃ­m mysleli, protoÅ¾e jÃ¡ se jeÅ¡tÄ› nikdy necejtil lÃ­p. Rozhodli se, Å¾e mÄ› hodÃ­ do kryo mrazÃ¡ku, neÅ¾ pÅ™ijdou na to, co se mnou udÄ›lajÃ­.}
+{304}{}{A pak jsem tÄ› rozmrazil. ZdÃ¡ se, Å¾e mi teÄ dluÅ¾Ã­Å¡.}
+{305}{}{Jo, zachrÃ¡nil jsi mÄ›. Na oplÃ¡tku moÅ¾nÃ¡ zachrÃ¡nÃ­m tvÅ¯j smysl pro humor, opiÄÃ¡ku.}
+{306}{}{OpiÄÃ¡ku? To z tebe urÄitÄ› mluvÃ­ to koÄiÄÃ­ DNA. To bude asi vÅ¡echno.}
+{310}{}{MyslÃ­Å¡, Å¾e bys mÄ› jako bÃ½valÃ½ vojÃ¡k dokÃ¡zal nÄ›co nauÄit?}
+{311}{}{MoÅ¾nÃ¡ bych tÄ› mohl nauÄit pÃ¡r vÄ›cÃ­ o energetickejch a jinejch velkejch zbranÃ­ch. Pamatuj si, Å¾e...}
+{312}{}{[VÃ­ce]}
+{313}{}{Hotovo. Tohle by ti mÄ›lo pomoct, aÅ¾ budeÅ¡ Å¡kvaÅ™it mutanty, co se ti pÅ™ipletou do cesty.}
+{314}{}{DÃ­ky.}
+{390}{}{Jsi pÅ™ipraven mÄ› vzÃ­t s sebou?}
+{391}{}{PojÄme.}
+{392}{}{Ne, jeÅ¡tÄ› ne.}
+{400}{}{PotÅ™ebujete nÄ›co?}
+{401}{}{S ÄÃ­m ti mÅ¯Å¾e Kocour pomoct?}
 {402}{}{Ano?}
-{410}{}{Co potøebuješ vìdìt?}
-{411}{}{No, byl jsem vycvièenej v pouívání bìnıho vojenskıho nádobíèka. Pušky, pistole, samopaly apod. Ale stejnì dávám pøednost laserovım zbraním. Ty mají styl! Ale kdy mi dáš mosaznıho boxera nebo nìjakou energo pìst, tak ty nemotornı blbce vyøídím døív, ne si vùbec nìèeho všimnou!}
-{421}{}{Co je s ní?}
-{422}{}{V poøádku. Budu ti krıt záda.}
+{410}{}{Co potÅ™ebujeÅ¡ vÄ›dÄ›t?}
+{411}{}{No, byl jsem vycviÄenej v pouÅ¾Ã­vÃ¡nÃ­ bÄ›Å¾nÃ½ho vojenskÃ½ho nÃ¡dobÃ­Äka. PuÅ¡ky, pistole, samopaly apod. Ale stejnÄ› dÃ¡vÃ¡m pÅ™ednost laserovÃ½m zbranÃ­m. Ty majÃ­ styl! Ale kdyÅ¾ mi dÃ¡Å¡ mosaznÃ½ho boxera nebo nÄ›jakou energo pÄ›st, tak ty nemotornÃ½ blbce vyÅ™Ã­dÃ­m dÅ™Ã­v, neÅ¾ si vÅ¯bec nÄ›Äeho vÅ¡imnou!}
+{421}{}{Co je s nÃ­?}
+{422}{}{V poÅ™Ã¡dku. Budu ti krÃ½t zÃ¡da.}
 {423}{}{To mi naprosto vyhovuje.}
-{424}{}{Stejnì mi to jde líp kdy jsem sám.}
-{430}{}{Nejsem zrovna moc trpìlivej, take si pospìš.}
-{431}{}{Èekání moc nefandím. Ne aby ti to trvalo dlouho.}
-{440}{}{U pùjdeme?}
-{441}{}{No koneènì jsi zpátky.}
-{450}{}{Je fajn zase nìkam cestovat. Moje nohy potøebujou pohyb.}
-{451}{}{U bylo naèase spolu nìco podniknout.}
-{460}{}{Klidnì, stejnì to vypadá jako hadr. Nemáš nìco v modrı barvì?}
-{470}{}{Tak jo, ale je to *moje* nablejskaná vìcièka. A jestli se mi ji pokusíš sebrat, tak tì klidnì zastøelím.}
-{480}{}{Cejtím se skvìle.}
-{481}{}{Jenom pár škrábnutí, nedìlej si starosti.}
-{482}{}{V armádì jsem zail i horší.}
-{483}{}{Zavolej doktora, dostávám na frak.}
-{484}{}{Krvácím z celıho tìla...}
-{490}{}{Jeíši, ty jseš ale ošklivej. Asi by ses mìl nechat prohlídnout. Padám odsud.}
-{491}{}{Zlato, jseš fakt ošklivá. Padám odsud.}
-{500}{}{Neber si to špatnì, je fajn bıt spolu, ale tohle u je prostì moc. Vra se a vás bude míò.}
-{501}{}{Neber si to špatnì, je fajn bıt spolu, ale tohle u je prostì moc. Vra se a vás bude míò. Já si mezitím zajdu pro nìjakı obleèení. (Kocour Jules se rozhlédne kolem a spatøí skøíòku, kterou otevøe a podívá se dovnitø.) Tohle fakt není mùj styl, ale nìjak to pùjde. (Rychle se obleèe.) Fajn, dej mi vìdìt, a budem moct vyrazit.}
-{510}{}{Nesnìdl jsem nìjakou špatnou rybu nebo nìco takovıho? Cítím se otrávenı.}
-{520}{}{Cítím se jako kdybych se rozpouštìl. Asi mám nemoc z ozáøení.}
-{530}{}{Jak myslíš, e mám podávat nejlepší vıkony se zlomenou konèetinou?}
-{540}{}{Kdo zhasnul svìtla? Asi mám nìco s oèima.}
-{600}{}{Nìkdo by o mì mohl øíct, e jsem nejspíš pìknì povrchní kluk, ale povrchní kluk se skvìlım zadkem.}
-{601}{}{V armádì to bylo poøád, "Kocoure udìlej tohle. Kocoure udìlej támhleto." Copak jsem pes?}
-{602}{}{[zpívá] 'Cause you make me tongue tied, tongue tied... [zpívá]}
-{700}{}{DÁMY! Dámy, JEDNA po druhé prosím!}
-{710}{}{Mám èich na problémy a právì teï je v nejvyšší pohotovosti jako siréna pøi nukleárním útoku!}
-{720}{}{Tìba ZLATA? Tady vykopávají ty blıskající se pøedmìty?}
-{730}{}{Myslel jsem, e u se sem nikdy nevrátíme.}
-{800}{}{U mám dost tìch šílenejch chytrolínù. Nemùeme toho malıho, vlezlıho idiota nìkde nechat?}
-{810}{}{Na co máš tu kost, neandrtálèe?}
-{820}{}{Aspoò jsem nedopadl jako TY, Lenny!}
-{830}{}{Aspoò jsem nedopadl jako TY, Marcusi!}
-{2900}{}{Nejdøív se ale musím trochu oblíct. (Kocour se rozhlédne kolem a spatøí skøíòku, kterou otevøe a podívá se dovnitø.) Tohle fakt není mùj styl, ale nìjak to pùjde. (Rychle se obleèe.) Tak a mùu vyrazit.}
+{424}{}{StejnÄ› mi to jde lÃ­p kdyÅ¾ jsem sÃ¡m.}
+{430}{}{Nejsem zrovna moc trpÄ›livej, takÅ¾e si pospÄ›Å¡.}
+{431}{}{ÄŒekÃ¡nÃ­ moc nefandÃ­m. Ne aby ti to trvalo dlouho.}
+{440}{}{UÅ¾ pÅ¯jdeme?}
+{441}{}{No koneÄnÄ› jsi zpÃ¡tky.}
+{450}{}{Je fajn zase nÄ›kam cestovat. Moje nohy potÅ™ebujou pohyb.}
+{451}{}{UÅ¾ bylo naÄase spolu nÄ›co podniknout.}
+{460}{}{KlidnÄ›, stejnÄ› to vypadÃ¡ jako hadr. NemÃ¡Å¡ nÄ›co v modrÃ½ barvÄ›?}
+{470}{}{Tak jo, ale je to *moje* nablejskanÃ¡ vÄ›ciÄka. A jestli se mi ji pokusÃ­Å¡ sebrat, tak tÄ› klidnÄ› zastÅ™elÃ­m.}
+{480}{}{CejtÃ­m se skvÄ›le.}
+{481}{}{Jenom pÃ¡r Å¡krÃ¡bnutÃ­, nedÄ›lej si starosti.}
+{482}{}{V armÃ¡dÄ› jsem zaÅ¾il i horÅ¡Ã­.}
+{483}{}{Zavolej doktora, dostÃ¡vÃ¡m na frak.}
+{484}{}{KrvÃ¡cÃ­m z celÃ½ho tÄ›la...}
+{490}{}{JeÅ¾Ã­Å¡i, ty jseÅ¡ ale oÅ¡klivej. Asi by ses mÄ›l nechat prohlÃ­dnout. PadÃ¡m odsud.}
+{491}{}{Zlato, jseÅ¡ fakt oÅ¡klivÃ¡. PadÃ¡m odsud.}
+{500}{}{Neber si to Å¡patnÄ›, je fajn bÃ½t spolu, ale tohle uÅ¾ je prostÄ› moc. VraÅ¥ se aÅ¾ vÃ¡s bude mÃ­Åˆ.}
+{501}{}{Neber si to Å¡patnÄ›, je fajn bÃ½t spolu, ale tohle uÅ¾ je prostÄ› moc. VraÅ¥ se aÅ¾ vÃ¡s bude mÃ­Åˆ. JÃ¡ si mezitÃ­m zajdu pro nÄ›jakÃ½ obleÄenÃ­. (Kocour Jules se rozhlÃ©dne kolem a spatÅ™Ã­ skÅ™Ã­Åˆku, kterou otevÅ™e a podÃ­vÃ¡ se dovnitÅ™.) Tohle fakt nenÃ­ mÅ¯j styl, ale nÄ›jak to pÅ¯jde. (Rychle se obleÄe.) Fajn, dej mi vÄ›dÄ›t, aÅ¾ budem moct vyrazit.}
+{510}{}{NesnÄ›dl jsem nÄ›jakou Å¡patnou rybu nebo nÄ›co takovÃ½ho? CÃ­tÃ­m se otrÃ¡venÃ½.}
+{520}{}{CÃ­tÃ­m se jako kdybych se rozpouÅ¡tÄ›l. Asi mÃ¡m nemoc z ozÃ¡Å™enÃ­.}
+{530}{}{Jak myslÃ­Å¡, Å¾e mÃ¡m podÃ¡vat nejlepÅ¡Ã­ vÃ½kony se zlomenou konÄetinou?}
+{540}{}{Kdo zhasnul svÄ›tla? Asi mÃ¡m nÄ›co s oÄima.}
+{600}{}{NÄ›kdo by o mÄ› mohl Å™Ã­ct, Å¾e jsem nejspÃ­Å¡ pÄ›knÄ› povrchnÃ­ kluk, ale povrchnÃ­ kluk se skvÄ›lÃ½m zadkem.}
+{601}{}{V armÃ¡dÄ› to bylo poÅ™Ã¡d, "Kocoure udÄ›lej tohle. Kocoure udÄ›lej tÃ¡mhleto." Copak jsem pes?}
+{602}{}{[zpÃ­vÃ¡] 'Cause you make me tongue tied, tongue tied... [zpÃ­vÃ¡]}
+{700}{}{DÃMY! DÃ¡my, JEDNA po druhÃ© prosÃ­m!}
+{710}{}{MÃ¡m Äich na problÃ©my a prÃ¡vÄ› teÄ je v nejvyÅ¡Å¡Ã­ pohotovosti jako sirÃ©na pÅ™i nukleÃ¡rnÃ­m Ãºtoku!}
+{720}{}{TÄ›Å¾ba ZLATA? Tady vykopÃ¡vajÃ­ ty blÃ½skajÃ­cÃ­ se pÅ™edmÄ›ty?}
+{730}{}{Myslel jsem, Å¾e uÅ¾ se sem nikdy nevrÃ¡tÃ­me.}
+{800}{}{UÅ¾ mÃ¡m dost tÄ›ch Å¡Ã­lenejch chytrolÃ­nÅ¯. NemÅ¯Å¾eme toho malÃ½ho, vlezlÃ½ho idiota nÄ›kde nechat?}
+{810}{}{Na co mÃ¡Å¡ tu kost, neandrtÃ¡lÄe?}
+{820}{}{AspoÅˆ jsem nedopadl jako TY, Lenny!}
+{830}{}{AspoÅˆ jsem nedopadl jako TY, Marcusi!}
+{2900}{}{NejdÅ™Ã­v se ale musÃ­m trochu oblÃ­ct. (Kocour se rozhlÃ©dne kolem a spatÅ™Ã­ skÅ™Ã­Åˆku, kterou otevÅ™e a podÃ­vÃ¡ se dovnitÅ™.) Tohle fakt nenÃ­ mÅ¯j styl, ale nÄ›jak to pÅ¯jde. (Rychle se obleÄe.) Tak a mÅ¯Å¾u vyrazit.}
 {2901}{}{[KONEC]}
 {5000}{}{[The man stands up and shakes himself dry like a wet animal. As he looks at you, his eyes suddenly get really wide and he starts gasping for air.]}
 {5001}{}{[KONEC]}

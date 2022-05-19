@@ -1,10 +1,10 @@
-{100}{}{Vidíš sejf ve zdi. Je zavøenı.}
-{150}{}{Vidíš sejf ve zdi. Je otevøenı.}
-{200}{}{(Ve zdi jsou malá dvíøka. Tam musí ít nìjakı opravdu velmi malı èlovìk! Uprostøed dvíøek je koleèko s èísly.)}
-{220}{}{(Uslyšíš KLIK-CVAK a sejf se otevøe.)}
+{100}{}{VidÃ­Å¡ sejf ve zdi. Je zavÅ™enÃ½.}
+{150}{}{VidÃ­Å¡ sejf ve zdi. Je otevÅ™enÃ½.}
+{200}{}{(Ve zdi jsou malÃ¡ dvÃ­Å™ka. Tam musÃ­ Å¾Ã­t nÄ›jakÃ½ opravdu velmi malÃ½ ÄlovÄ›k! UprostÅ™ed dvÃ­Å™ek je koleÄko s ÄÃ­sly.)}
+{220}{}{(UslyÅ¡Ã­Å¡ KLIK-CVAK a sejf se otevÅ™e.)}
 {230}{}{(You pry up a small panel on the bottom of the safe. You don't think you would have found it if Mrs. Bishop hadn't told you about it. Inside is an odd-looking Pip-Boy attachment.)}
-{240}{}{Nìkolik minut otáèíš èíselníkem, ale nic se nestane.}
-{250}{}{(ádné pasti nenacházíš.)}
-{260}{}{(Pomalu otáèíš koleèkem, kdy najednou uslyšíš KLIK-CVAK a dvíøka se otevøou!)}
-{270}{}{(Otáèíš koleèkem, ale malá dvíøka se nechtìjí otevøít!)}
-{290}{}{(Nikoho neslyšíš a nevidíš nikde zvonek. Asi není nikdo doma.)}
+{240}{}{NÄ›kolik minut otÃ¡ÄÃ­Å¡ ÄÃ­selnÃ­kem, ale nic se nestane.}
+{250}{}{(Å½Ã¡dnÃ© pasti nenachÃ¡zÃ­Å¡.)}
+{260}{}{(Pomalu otÃ¡ÄÃ­Å¡ koleÄkem, kdyÅ¾ najednou uslyÅ¡Ã­Å¡ KLIK-CVAK a dvÃ­Å™ka se otevÅ™ou!)}
+{270}{}{(OtÃ¡ÄÃ­Å¡ koleÄkem, ale malÃ¡ dvÃ­Å™ka se nechtÄ›jÃ­ otevÅ™Ã­t!)}
+{290}{}{(Nikoho neslyÅ¡Ã­Å¡ a nevidÃ­Å¡ nikde zvonek. Asi nenÃ­ nikdo doma.)}

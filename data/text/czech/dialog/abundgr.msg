@@ -1,1 +1,1 @@
-{100}{}{Vstupuješ do temné jeskynì. Uvnitø slyšíš pobíhat nìjaká stvoøení.}
+{100}{}{VstupujeÅ¡ do temnÃ© jeskynÄ›. UvnitÅ™ slyÅ¡Ã­Å¡ pobÃ­hat nÄ›jakÃ¡ stvoÅ™enÃ­.}

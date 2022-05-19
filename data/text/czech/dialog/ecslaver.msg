@@ -1,13 +1,13 @@
 {100}{}{Za tyhle dostanu na trhu dobrou cenu.}
-{101}{}{Zkus nepoškodit zboí.}
-{102}{}{Z tebe bude pìknì kuránej otrok.}
-{103}{}{To není dobrı.}
-{104}{}{Ústup!}
-{105}{}{Asi budu radši prodávat nábytek.}
-{106}{}{Otrokáøi by na sebe nemìli navzájem útoèit.}
-{107}{}{O tomhle se v Cechu dozví!}
-{108}{}{Co tu dìláš?}
-{109}{}{Mìl jsi štìstí?}
-{110}{}{Sehnal jsi nìjaké dobré otroky?}
-{111}{}{Hledáme nové otroky.}
-{112}{}{To je naše území.}
+{101}{}{Zkus nepoÅ¡kodit zboÅ¾Ã­.}
+{102}{}{Z tebe bude pÄ›knÄ› kurÃ¡Å¾nej otrok.}
+{103}{}{To nenÃ­ dobrÃ½.}
+{104}{}{Ãšstup!}
+{105}{}{Asi budu radÅ¡i prodÃ¡vat nÃ¡bytek.}
+{106}{}{OtrokÃ¡Å™i by na sebe nemÄ›li navzÃ¡jem ÃºtoÄit.}
+{107}{}{O tomhle se v Cechu dozvÃ­!}
+{108}{}{Co tu dÄ›lÃ¡Å¡?}
+{109}{}{MÄ›l jsi Å¡tÄ›stÃ­?}
+{110}{}{Sehnal jsi nÄ›jakÃ© dobrÃ© otroky?}
+{111}{}{HledÃ¡me novÃ© otroky.}
+{112}{}{To je naÅ¡e ÃºzemÃ­.}

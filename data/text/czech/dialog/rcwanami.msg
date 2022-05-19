@@ -1,4 +1,4 @@
-{100}{}{Vidíš wanaminga.}
-{101}{}{Zdá se, e wanamingo není z neèekaného hosta pøíliš nadšen.}
-{102}{}{Vídíš královnu wanamingù.}
-{103}{}{Zdá se, e královna není z neèekaného hosta pøíliš nadšena.}
+{100}{}{VidÃ­Å¡ wanaminga.}
+{101}{}{ZdÃ¡ se, Å¾e wanamingo nenÃ­ z neÄekanÃ©ho hosta pÅ™Ã­liÅ¡ nadÅ¡en.}
+{102}{}{VÃ­dÃ­Å¡ krÃ¡lovnu wanamingÅ¯.}
+{103}{}{ZdÃ¡ se, Å¾e krÃ¡lovna nenÃ­ z neÄekanÃ©ho hosta pÅ™Ã­liÅ¡ nadÅ¡ena.}

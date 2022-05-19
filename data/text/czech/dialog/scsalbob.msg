@@ -1,51 +1,51 @@
-{100}{}{Vidíš starého špinavého mue s proøídlımi vlasy.}
-{101}{}{Vidíš chlápka, kterému øíkají Slaneèek Bob.}
-{102}{}{Má asi jen tøi zuby a oblièej protkanı drobnımi ilkami opilce. Silnì zapáchá.}
-{103}{}{Nazdárek, cizinèe!}
+{100}{}{VidÃ­Å¡ starÃ©ho Å¡pinavÃ©ho muÅ¾e s proÅ™Ã­dlÃ½mi vlasy.}
+{101}{}{VidÃ­Å¡ chlÃ¡pka, kterÃ©mu Å™Ã­kajÃ­ SlaneÄek Bob.}
+{102}{}{MÃ¡ asi jen tÅ™i zuby a obliÄej protkanÃ½ drobnÃ½mi Å¾ilkami opilce. SilnÄ› zapÃ¡chÃ¡.}
+{103}{}{NazdÃ¡rek, cizinÄe!}
 {104}{}{Gruh?}
 {105}{}{Kdo jsi?}
-{106}{}{Jmenuju se Bob. Slaneèek Bob. A jak ty?}
-{107}{}{Jak e se to jmenuješ, cizinèe? Já jsem Slaneèek Bob.}
-{108}{}{[Jméno hráèe]}
-{109}{}{Slaneèek? Co to je za jméno?}
-{110}{}{Co tu dìláš?}
-{111}{}{To je pìknı jméno. Heleï, nemáš náhodou nìco k pití, paráku?}
+{106}{}{Jmenuju se Bob. SlaneÄek Bob. A jak ty?}
+{107}{}{Jak Å¾e se to jmenujeÅ¡, cizinÄe? JÃ¡ jsem SlaneÄek Bob.}
+{108}{}{[JmÃ©no hrÃ¡Äe]}
+{109}{}{SlaneÄek? Co to je za jmÃ©no?}
+{110}{}{Co tu dÄ›lÃ¡Å¡?}
+{111}{}{To je pÄ›knÃ½ jmÃ©no. HeleÄ, nemÃ¡Å¡ nÃ¡hodou nÄ›co k pitÃ­, parÅ¥Ã¡ku?}
 {112}{}{Ano.}
 {113}{}{Ne.}
-{114}{}{Jdi ode mì, ty jeden dìdku smradlavej!}
-{115}{}{Hele, nemusíš se kvùli tomu hned èertit. Jen jsem si chtìl trochu loknout, víš. Uklidnit se trochu...}
-{116}{}{Hehe! Mluvíš jako po poøádnım loku dobrı koøalky! Poslyš, nepodìlíš se se mnou? Jenom malej doušek.}
-{117}{}{Pití! Bezva!}
-{118}{}{Øííííh!}
-{119}{}{V klidu, paráku! Jen se tak ptám, víš? Tak já tì radši nechám bejt.}
-{120}{}{(Glo, glo, glo.) Ááááách! To bylo od tebe fakt milı, cizinèe! Jseš fakt fajn èlovìk. Takovej èlovìk, kterıho by mìl mít kadej za kámoše. (Glo.) U jsem ti povídal o svım velkım ivotním úspìchu?}
+{114}{}{Jdi ode mÄ›, ty jeden dÄ›dku smradlavej!}
+{115}{}{Hele, nemusÃ­Å¡ se kvÅ¯li tomu hned Äertit. Jen jsem si chtÄ›l trochu loknout, vÃ­Å¡. Uklidnit se trochu...}
+{116}{}{Hehe! MluvÃ­Å¡ jako po poÅ™Ã¡dnÃ½m loku dobrÃ½ koÅ™alky! PoslyÅ¡, nepodÄ›lÃ­Å¡ se se mnou? Jenom malej douÅ¡ek.}
+{117}{}{PitÃ­! Bezva!}
+{118}{}{Å˜Ã­Ã­Ã­Ã­h!}
+{119}{}{V klidu, parÅ¥Ã¡ku! Jen se tak ptÃ¡m, vÃ­Å¡? Tak jÃ¡ tÄ› radÅ¡i nechÃ¡m bejt.}
+{120}{}{(Glo, glo, glo.) ÃÃ¡Ã¡Ã¡Ã¡ch! To bylo od tebe fakt milÃ½, cizinÄe! JseÅ¡ fakt fajn ÄlovÄ›k. Takovej ÄlovÄ›k, kterÃ½ho by mÄ›l mÃ­t kaÅ¾dej za kÃ¡moÅ¡e. (Glo.) UÅ¾ jsem ti povÃ­dal o svÃ½m velkÃ½m Å¾ivotnÃ­m ÃºspÄ›chu?}
 {121}{}{Ne?}
-{122}{}{Hele, ne abys mi to všechno vychlastal!}
+{122}{}{Hele, ne abys mi to vÅ¡echno vychlastal!}
 {123}{}{Rahhhg!}
-{124}{}{Bylo to v '78 a já a Bessie, nejlepší robot, kterej kdy byl vytvoøenej, jsme provádìli u-ra-ni-ovej prùzkum západnì odsud. Nenarazili jsme ani na jeden kousek uranu, co by stál aspoò za zlámanej cent, kdy nás najednou pøepadlo pìt - ne, jsem si jistej, e to bylo deset - páraèù.}
-{125}{}{Bojovali jako hladovı šelmy. Støílel jsem tak urputnì, e se mi úplnì roztavila hlaveò pušky, take jsem na nì šel jen s noem proti paøátùm, zatímco se starı Bessie roztavil poslední obvod. No, pokusil jsem se ji zachránit, ale u bylo moc pozdì, take jsem se dal nakonec na útìk a házel po nich šutry.}
-{126}{}{No, vypadalo to se mnou špatnì, ale podaøilo se mi dopotácet do jednı jeskynì. Byl jsem si skoro jistej, e u je se mnou konec. Došlo mi, e jsem v jejich doupìti, ale mìl jsem pochodeò, tak jsem šel dál. Fíha, to byla ale hluboká jeskynì! A pak jsem to uvidìl.}
-{127}{}{Narazil jsem na takovı obrovskı vstupní dveøe, co vypadaly podobnì jako ty ve starejch instruktáních filmech. Velikı a celı z ocele. A na nich byla vyrytá veliká tøináctka!}
-{128}{}{Bylo mi hned jasnı, e jsem našel nìco dùleitıho, Vault 13. Sedl jsem si a udìlal mapku. Skoro jsem chcípnul, kdy jsem se odtamtud snail proplíit kolem páraèù. A pak ještì to pouštní slunce a ádná voda.}
-{129}{}{Kdy jsem se koneènì dopotácel do Shady Sands, byl jsem u skoro mrtvej. Vzali mì k doktorovi, kterej mì dal dokupy, ale ukradl mi moji mapku. Vím to, ale neøešil jsem to.}
-{130}{}{(Pokraèovat)}
-{131}{}{To je pøece sakra dobrı a poctivı jméno! Chlapci mì obèas nechaj nìco uvaøit a kdybys nebyl takovej ignorant, vìdìl bys to a taky bys vìdìl, e máš respektovat starší lidi.}
-{132}{}{Tak promiò, staøíku, nechtìl jsem tì rozèílit.}
-{133}{}{Polib mi, dìdku!}
-{134}{}{Rozèílit? Rozèílit mì! Zatím ještì nejsem rozèílenej! A teï se mi kliï z oèí, ne opravdu vypìním! Pryè! Zmiz!}
-{135}{}{Taky mi mùeš políbit! Takhle se mi líbíš. Co na srdci, to na jazyku, paráku! Poslyš, nemáš trochu koøalky? Jenom malej doušek?}
+{124}{}{Bylo to v '78 a jÃ¡ a Bessie, nejlepÅ¡Ã­ robot, kterej kdy byl vytvoÅ™enej, jsme provÃ¡dÄ›li u-ra-ni-ovej prÅ¯zkum zÃ¡padnÄ› odsud. Nenarazili jsme ani na jeden kousek uranu, co by stÃ¡l aspoÅˆ za zlÃ¡manej cent, kdyÅ¾ nÃ¡s najednou pÅ™epadlo pÄ›t - ne, jsem si jistej, Å¾e to bylo deset - pÃ¡raÄÅ¯.}
+{125}{}{Bojovali jako hladovÃ½ Å¡elmy. StÅ™Ã­lel jsem tak urputnÄ›, Å¾e se mi ÃºplnÄ› roztavila hlaveÅˆ puÅ¡ky, takÅ¾e jsem na nÄ› Å¡el jen s noÅ¾em proti paÅ™Ã¡tÅ¯m, zatÃ­mco se starÃ½ Bessie roztavil poslednÃ­ obvod. No, pokusil jsem se ji zachrÃ¡nit, ale uÅ¾ bylo moc pozdÄ›, takÅ¾e jsem se dal nakonec na ÃºtÄ›k a hÃ¡zel po nich Å¡utry.}
+{126}{}{No, vypadalo to se mnou Å¡patnÄ›, ale podaÅ™ilo se mi dopotÃ¡cet do jednÃ½ jeskynÄ›. Byl jsem si skoro jistej, Å¾e uÅ¾ je se mnou konec. DoÅ¡lo mi, Å¾e jsem v jejich doupÄ›ti, ale mÄ›l jsem pochodeÅˆ, tak jsem Å¡el dÃ¡l. FÃ­ha, to byla ale hlubokÃ¡ jeskynÄ›! A pak jsem to uvidÄ›l.}
+{127}{}{Narazil jsem na takovÃ½ obrovskÃ½ vstupnÃ­ dveÅ™e, co vypadaly podobnÄ› jako ty ve starejch instruktÃ¡Å¾nÃ­ch filmech. VelikÃ½ a celÃ½ z ocele. A na nich byla vyrytÃ¡ velikÃ¡ tÅ™inÃ¡ctka!}
+{128}{}{Bylo mi hned jasnÃ½, Å¾e jsem naÅ¡el nÄ›co dÅ¯leÅ¾itÃ½ho, Vault 13. Sedl jsem si a udÄ›lal mapku. Skoro jsem chcÃ­pnul, kdyÅ¾ jsem se odtamtud snaÅ¾il proplÃ­Å¾it kolem pÃ¡raÄÅ¯. A pak jeÅ¡tÄ› to pouÅ¡tnÃ­ slunce a Å¾Ã¡dnÃ¡ voda.}
+{129}{}{KdyÅ¾ jsem se koneÄnÄ› dopotÃ¡cel do Shady Sands, byl jsem uÅ¾ skoro mrtvej. Vzali mÄ› k doktorovi, kterej mÄ› dal dokupy, ale ukradl mi moji mapku. VÃ­m to, ale neÅ™eÅ¡il jsem to.}
+{130}{}{(PokraÄovat)}
+{131}{}{To je pÅ™ece sakra dobrÃ½ a poctivÃ½ jmÃ©no! Chlapci mÄ› obÄas nechaj nÄ›co uvaÅ™it a kdybys nebyl takovej ignorant, vÄ›dÄ›l bys to a taky bys vÄ›dÄ›l, Å¾e mÃ¡Å¡ respektovat starÅ¡Ã­ lidi.}
+{132}{}{Tak promiÅˆ, staÅ™Ã­ku, nechtÄ›l jsem tÄ› rozÄÃ­lit.}
+{133}{}{Polib mi, dÄ›dku!}
+{134}{}{RozÄÃ­lit? RozÄÃ­lit mÄ›! ZatÃ­m jeÅ¡tÄ› nejsem rozÄÃ­lenej! A teÄ se mi kliÄ z oÄÃ­, neÅ¾ opravdu vypÄ›nÃ­m! PryÄ! Zmiz!}
+{135}{}{Taky mi mÅ¯Å¾eÅ¡ polÃ­bit! Takhle se mi lÃ­bÃ­Å¡. Co na srdci, to na jazyku, parÅ¥Ã¡ku! PoslyÅ¡, nemÃ¡Å¡ trochu koÅ™alky? Jenom malej douÅ¡ek?}
 {136}{}{Ano.}
 {137}{}{Ne.}
-{138}{}{Jdi ode mì, ty jeden dìdku smradlavej!}
-{139}{}{Héhé héhé! A teï je moje, paráku. Budeš si muset najít vlastní!}
-{140}{}{Šéf mì tu nechává spát. Tyhle stáje øídím já! Obèas to tady trochu vysmejèím a taky dohlíím na poøádek.}
-{141}{}{Slaneèek? Co to je za jméno?}
-{142}{}{Tìší mì. Já jsem}
-{143}{}{Hromy a blesky, zase ty? Ztra se mi z oèí!}
+{138}{}{Jdi ode mÄ›, ty jeden dÄ›dku smradlavej!}
+{139}{}{HÃ©hÃ© hÃ©hÃ©! A teÄ je moje, parÅ¥Ã¡ku. BudeÅ¡ si muset najÃ­t vlastnÃ­!}
+{140}{}{Å Ã©f mÄ› tu nechÃ¡vÃ¡ spÃ¡t. Tyhle stÃ¡je Å™Ã­dÃ­m jÃ¡! ObÄas to tady trochu vysmejÄÃ­m a taky dohlÃ­Å¾Ã­m na poÅ™Ã¡dek.}
+{141}{}{SlaneÄek? Co to je za jmÃ©no?}
+{142}{}{TÄ›Å¡Ã­ mÄ›. JÃ¡ jsem}
+{143}{}{Hromy a blesky, zase ty? ZtraÅ¥ se mi z oÄÃ­!}
 {144}{}{Polib mi!}
-{145}{}{Máš fakt kurá, dìdku.}
-{146}{}{To si sakra piš! Poslyš, nemáš u sebe trochu chlastu pro starıho chlapa?}
+{145}{}{MÃ¡Å¡ fakt kurÃ¡Å¾, dÄ›dku.}
+{146}{}{To si sakra piÅ¡! PoslyÅ¡, nemÃ¡Å¡ u sebe trochu chlastu pro starÃ½ho chlapa?}
 {147}{}{Ano.}
 {148}{}{Ne.}
-{149}{}{Jdi ode mì, ty jeden dìdku smradlavej!}
+{149}{}{Jdi ode mÄ›, ty jeden dÄ›dku smradlavej!}
 {150}{}{.}

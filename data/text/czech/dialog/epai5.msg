@@ -1,18 +1,18 @@
-{100}{}{Vidíš dveøe.}
-{101}{}{Vidíš elektronické dveøe.}
-{102}{}{Vidíš elektronické dveøe s hlasovì ovládanım zámkem, kterı je chránìnı pøístupovım kódem.}
-{200}{}{Vloit kód:}
+{100}{}{VidÃ­Å¡ dveÅ™e.}
+{101}{}{VidÃ­Å¡ elektronickÃ© dveÅ™e.}
+{102}{}{VidÃ­Å¡ elektronickÃ© dveÅ™e s hlasovÄ› ovlÃ¡danÃ½m zÃ¡mkem, kterÃ½ je chrÃ¡nÄ›nÃ½ pÅ™Ã­stupovÃ½m kÃ³dem.}
+{200}{}{VloÅ¾it kÃ³d:}
 {201}{}{XY104FD}
 {202}{}{BFN12}
-{203}{}{Otevøít}
-{204}{}{Pšenice}
+{203}{}{OtevÅ™Ã­t}
+{204}{}{PÅ¡enice}
 {205}{}{Abre}
 {206}{}{[KONEC]}
-{300}{}{Nesprávnı kód. Zamykám dveøe. Prosím, kontaktujte vedení Oddìlení pro styk s veøejností pro získání nového kódu.}
+{300}{}{NesprÃ¡vnÃ½ kÃ³d. ZamykÃ¡m dveÅ™e. ProsÃ­m, kontaktujte vedenÃ­ OddÄ›lenÃ­ pro styk s veÅ™ejnostÃ­ pro zÃ­skÃ¡nÃ­ novÃ©ho kÃ³du.}
 {301}{}{[KONEC]}
-{400}{}{Vloit novı kód.}
+{400}{}{VloÅ¾it novÃ½ kÃ³d.}
 {401}{}{[KONEC]}
-{402}{}{Tyto dveøe jsou elektronicky uzamèené.}
-{403}{}{Odemykám dveøe. Dìkujeme a pøejeme pøíjemnı zbytek dne.}
+{402}{}{Tyto dveÅ™e jsou elektronicky uzamÄenÃ©.}
+{403}{}{OdemykÃ¡m dveÅ™e. DÄ›kujeme a pÅ™ejeme pÅ™Ã­jemnÃ½ zbytek dne.}
 {404}{}{[KONEC]}
-{500}{}{Tyto dveøe nemají zámek, kterı by se dal vypáèit.}
+{500}{}{Tyto dveÅ™e nemajÃ­ zÃ¡mek, kterÃ½ by se dal vypÃ¡Äit.}

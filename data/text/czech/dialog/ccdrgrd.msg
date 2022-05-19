@@ -1,62 +1,62 @@
-{100}{}{Vidíš postavu v kevlarové zbroji.}
-{101}{}{Vidíš strá u dveøí velitele.}
-{102}{}{Vidíš osobu v kevlarové zbroji. Na prsou má znak, kterı nepoznáváš.}
-{103}{}{Co tu hledáte, pane?}
-{104}{}{Co bıt tohle za místo?}
-{105}{}{Eh... já tu novı.}
-{106}{}{Já tu uklidit.}
-{107}{}{Vyvolenı si nepamatovat. Jít pryè.}
-{108}{}{Co je tohle za místo?}
-{109}{}{Ahoj, já jsem tu novı.}
-{110}{}{Jsem tady kvùli úklidu velitelovy kanceláøe.}
-{111}{}{Zapomeò na to.}
-{112}{}{Toto je kanceláø velitele základny. Do této místnosti smí vstoupit pouze autorizovanı personál. Musím vás poádat, abyste odešel, pane.}
-{113}{}{Mít zpráva pro velitel.}
+{100}{}{VidÃ­Å¡ postavu v kevlarovÃ© zbroji.}
+{101}{}{VidÃ­Å¡ strÃ¡Å¾ u dveÅ™Ã­ velitele.}
+{102}{}{VidÃ­Å¡ osobu v kevlarovÃ© zbroji. Na prsou mÃ¡ znak, kterÃ½ nepoznÃ¡vÃ¡Å¡.}
+{103}{}{Co tu hledÃ¡te, pane?}
+{104}{}{Co bÃ½t tohle za mÃ­sto?}
+{105}{}{Eh... jÃ¡ tu novÃ½.}
+{106}{}{JÃ¡ tu uklidit.}
+{107}{}{VyvolenÃ½ si nepamatovat. JÃ­t pryÄ.}
+{108}{}{Co je tohle za mÃ­sto?}
+{109}{}{Ahoj, jÃ¡ jsem tu novÃ½.}
+{110}{}{Jsem tady kvÅ¯li Ãºklidu velitelovy kancelÃ¡Å™e.}
+{111}{}{ZapomeÅˆ na to.}
+{112}{}{Toto je kancelÃ¡Å™ velitele zÃ¡kladny. Do tÃ©to mÃ­stnosti smÃ­ vstoupit pouze autorizovanÃ½ personÃ¡l. MusÃ­m vÃ¡s poÅ¾Ã¡dat, abyste odeÅ¡el, pane.}
+{113}{}{MÃ­t zprÃ¡va pro velitel.}
 {114}{}{Fajn.}
-{115}{}{Mám pro velitele dùleitou zprávu.}
-{116}{}{Tak dobøe.}
-{117}{}{Co je to za zprávu, pane?}
+{115}{}{MÃ¡m pro velitele dÅ¯leÅ¾itou zprÃ¡vu.}
+{116}{}{Tak dobÅ™e.}
+{117}{}{Co je to za zprÃ¡vu, pane?}
 {118}{}{Eh...}
-{119}{}{Sakra. Já pokazit...}
-{120}{}{Ale nic. Já jít pryè.}
+{119}{}{Sakra. JÃ¡ pokazit...}
+{120}{}{Ale nic. JÃ¡ jÃ­t pryÄ.}
 {121}{}{No...}
-{122}{}{Eh, dostali jsme hlášení z hlavní základny. Vypadá to, e mají obavy o klíè k tankeru. Bojí se, aby se nedostal do nesprávnıch rukou. Musíme ho zamknout na bezpeèném místì.}
-{123}{}{Odcházím.}
-{124}{}{Pane, tohle je poslední varování. Musím vás poádat, abyste opustil tuto zónu.}
-{125}{}{Dobøe.}
-{126}{}{Hm... já na to srát. Já prostøílet cesta dovnitø. Bum. Bum.}
-{127}{}{Seru na tebe. Kdy to nejde po dobrım, tak si cestu prostøílím.}
-{128}{}{Co? Jo tak, u rozumím. Nìco jsi pohnojil a tak ti dal Dornan na starost úklid.}
-{129}{}{Jo... já pohnojit... on se zlobit... a teï muset uklízet ee vìci!}
-{130}{}{Mluví do mikrofonu.) Dejte mi velitele. Je tu jednotka na úklid pane. (Pauza) Rozumím. (Podívá se na tebe.) Mùeš vstoupit.}
-{131}{}{Díky.}
-{132}{}{(Mluví do mikrofonu.) Je zde bezpeènostní problém, pane. Hlavní základna poaduje zabezpeèení karty k tankeru. (Pauza.) Rozumím, pane. (Podívá se na tebe.) Mùeš vstoupit.}
-{133}{}{Chci vidìt tvùj pøíkaz.}
-{134}{}{Díky.}
-{135}{}{Hmm, nemám ho zrovna u sebe.}
-{136}{}{(Potichu) Ty jsi asi musel zabloudit. Tohle je kanceláø velitele základny. Nikdo sem nesmí, pokud pro nìj náš starej neposlal.}
+{122}{}{Eh, dostali jsme hlÃ¡Å¡enÃ­ z hlavnÃ­ zÃ¡kladny. VypadÃ¡ to, Å¾e majÃ­ obavy o klÃ­Ä k tankeru. BojÃ­ se, aby se nedostal do nesprÃ¡vnÃ½ch rukou. MusÃ­me ho zamknout na bezpeÄnÃ©m mÃ­stÄ›.}
+{123}{}{OdchÃ¡zÃ­m.}
+{124}{}{Pane, tohle je poslednÃ­ varovÃ¡nÃ­. MusÃ­m vÃ¡s poÅ¾Ã¡dat, abyste opustil tuto zÃ³nu.}
+{125}{}{DobÅ™e.}
+{126}{}{Hm... jÃ¡ na to srÃ¡t. JÃ¡ prostÅ™Ã­let cesta dovnitÅ™. Bum. Bum.}
+{127}{}{Seru na tebe. KdyÅ¾ to nejde po dobrÃ½m, tak si cestu prostÅ™Ã­lÃ­m.}
+{128}{}{Co? Jo tak, uÅ¾ rozumÃ­m. NÄ›co jsi pohnojil a tak ti dal Dornan na starost Ãºklid.}
+{129}{}{Jo... jÃ¡ pohnojit... on se zlobit... a teÄ muset uklÃ­zet ee vÄ›ci!}
+{130}{}{MluvÃ­ do mikrofonu.) Dejte mi velitele. Je tu jednotka na Ãºklid pane. (Pauza) RozumÃ­m. (PodÃ­vÃ¡ se na tebe.) MÅ¯Å¾eÅ¡ vstoupit.}
+{131}{}{DÃ­ky.}
+{132}{}{(MluvÃ­ do mikrofonu.) Je zde bezpeÄnostnÃ­ problÃ©m, pane. HlavnÃ­ zÃ¡kladna poÅ¾aduje zabezpeÄenÃ­ karty k tankeru. (Pauza.) RozumÃ­m, pane. (PodÃ­vÃ¡ se na tebe.) MÅ¯Å¾eÅ¡ vstoupit.}
+{133}{}{Chci vidÄ›t tvÅ¯j pÅ™Ã­kaz.}
+{134}{}{DÃ­ky.}
+{135}{}{Hmm, nemÃ¡m ho zrovna u sebe.}
+{136}{}{(Potichu) Ty jsi asi musel zabloudit. Tohle je kancelÃ¡Å™ velitele zÃ¡kladny. Nikdo sem nesmÃ­, pokud pro nÄ›j nÃ¡Å¡ starej neposlal.}
 {137}{}{Nikdo sem nechodit? Nikdy?}
-{138}{}{Nikdo za ním nechodí?}
-{139}{}{(Potichu.) Nikdo. Jen úklidová jednotka. Mìli by pøijít za hodinku nebo dvì. Pro všechny ostatní je tahle zóna zakázaná. A ty u radši taky vypadni.}
-{140}{}{Dobøe.}
-{141}{}{Mluví do mikrofonu.) Dejte mi velitele. Je tu jednotka na úklid pane. (Pauza) Rozumím. (Podívá se na tebe.) Mùeš vstoupit.}
-{142}{}{Jseš tu moc brzo. Pøijï pozdìji.}
-{143}{}{Dobøe.}
-{144}{}{V tom pøípadì jdi do velitelského centra a nech si tam ten pøíkaz vytisknout.}
-{145}{}{Dobøe.}
-{146}{}{Ty urèitì hledáš zbrojní sklad. Jdi zpátky touhle chodbou, odboè vpravo a jsou to ty první dveøe nalevo. Tam vyfasuješ svoji vızbroj.}
-{147}{}{Díky.}
-{148}{}{Kdo k èertu jste? Poplach! Vetøelci!}
+{138}{}{Nikdo za nÃ­m nechodÃ­?}
+{139}{}{(Potichu.) Nikdo. Jen ÃºklidovÃ¡ jednotka. MÄ›li by pÅ™ijÃ­t za hodinku nebo dvÄ›. Pro vÅ¡echny ostatnÃ­ je tahle zÃ³na zakÃ¡zanÃ¡. A ty uÅ¾ radÅ¡i taky vypadni.}
+{140}{}{DobÅ™e.}
+{141}{}{MluvÃ­ do mikrofonu.) Dejte mi velitele. Je tu jednotka na Ãºklid pane. (Pauza) RozumÃ­m. (PodÃ­vÃ¡ se na tebe.) MÅ¯Å¾eÅ¡ vstoupit.}
+{142}{}{JseÅ¡ tu moc brzo. PÅ™ijÄ pozdÄ›ji.}
+{143}{}{DobÅ™e.}
+{144}{}{V tom pÅ™Ã­padÄ› jdi do velitelskÃ©ho centra a nech si tam ten pÅ™Ã­kaz vytisknout.}
+{145}{}{DobÅ™e.}
+{146}{}{Ty urÄitÄ› hledÃ¡Å¡ zbrojnÃ­ sklad. Jdi zpÃ¡tky touhle chodbou, odboÄ vpravo a jsou to ty prvnÃ­ dveÅ™e nalevo. Tam vyfasujeÅ¡ svoji vÃ½zbroj.}
+{147}{}{DÃ­ky.}
+{148}{}{Kdo k Äertu jste? Poplach! VetÅ™elci!}
 {149}{}{Byli jsme napadeni! Poplach!}
-{150}{}{Vetøelci! Spuste alarm!}
-{151}{}{Poplach! Chraòte základnu!}
-{152}{}{Zabezpeète všechny stanice! Máme tu poplach!}
-{153}{}{Poplach! Èervenı kód!}
-{154}{}{Chcípneš!}
-{155}{}{Enkláva bude vládnou svìtu!}
-{156}{}{Ty zhebneš, Enkláva bude ít dál!}
-{160}{}{Vítej zpìt. Máš ten pøíkaz ohlednì FOBu?}
-{161}{}{Ne, ještì ne, ale seenu ho.}
-{162}{}{Jo, jasnì. Øekl jsem ti, e do velitelovy kanceláøe mùe jen úklidová jednotka a ty ses jako zázrakem stal jedním z nich. Ani ses mi neráèil vzdálit z dohledu. Myslíš, e jsem nìjakej zasranej blbec? Padej odsud!}
-{200}{}{(Mluví do mikrofonu.) Veliteli? (Pauza.) Veliteli, jste tam? (Pauza.) Hmm... ádná odpovìï. To se mi nìjak nezdá. Radši to pùjdu provìøit.}
-{201}{}{Do hajzlu! Velitel je mrtvı! Poplach! Spuste poplach! Máme tady vetøelce!!}
+{150}{}{VetÅ™elci! SpusÅ¥te alarm!}
+{151}{}{Poplach! ChraÅˆte zÃ¡kladnu!}
+{152}{}{ZabezpeÄte vÅ¡echny stanice! MÃ¡me tu poplach!}
+{153}{}{Poplach! ÄŒervenÃ½ kÃ³d!}
+{154}{}{ChcÃ­pneÅ¡!}
+{155}{}{EnklÃ¡va bude vlÃ¡dnou svÄ›tu!}
+{156}{}{Ty zhebneÅ¡, EnklÃ¡va bude Å¾Ã­t dÃ¡l!}
+{160}{}{VÃ­tej zpÄ›t. MÃ¡Å¡ ten pÅ™Ã­kaz ohlednÄ› FOBu?}
+{161}{}{Ne, jeÅ¡tÄ› ne, ale seÅ¾enu ho.}
+{162}{}{Jo, jasnÄ›. Å˜ekl jsem ti, Å¾e do velitelovy kancelÃ¡Å™e mÅ¯Å¾e jen ÃºklidovÃ¡ jednotka a ty ses jako zÃ¡zrakem stal jednÃ­m z nich. Ani ses mi nerÃ¡Äil vzdÃ¡lit z dohledu. MyslÃ­Å¡, Å¾e jsem nÄ›jakej zasranej blbec? Padej odsud!}
+{200}{}{(MluvÃ­ do mikrofonu.) Veliteli? (Pauza.) Veliteli, jste tam? (Pauza.) Hmm... Å¾Ã¡dnÃ¡ odpovÄ›Ä. To se mi nÄ›jak nezdÃ¡. RadÅ¡i to pÅ¯jdu provÄ›Å™it.}
+{201}{}{Do hajzlu! Velitel je mrtvÃ½! Poplach! SpusÅ¥te poplach! MÃ¡me tady vetÅ™elce!!}

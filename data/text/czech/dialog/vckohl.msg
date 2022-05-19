@@ -1,94 +1,94 @@
-{100}{}{Vidíš šéfknihovníka Kohla.}
-{101}{}{Vidíš uhlazenì vyhlíejícího mue v kombinéze Vault City.}
-{102}{}{Vidíš šéfknihovníka Kohla.}
-{103}{}{Vidíš uhlazenì vyhlíejícího mue v kombinéze Vault City.}
-{104}{}{Zaøídím, aby vaše hrdinské èiny byly zaznamenány v archívech Vault City, }
-{105}{}{U všech knih! Vetøelec! Pomoc! Stráe!}
-{106}{}{U všech knih! Mutant ve Vault City! Stráe! Stráe!}
-{107}{}{U všech knih! Ghoul ve Vault City! Stráe! Stráe!}
-{108}{}{Informaèní kanceláø je veèer zavøená. Pøijïte ráno.}
-{109}{}{Informaèní kanceláø je veèer zavøená. A a roztøídím všechny tyto listiny, pùjdu domù.}
+{100}{}{VidÃ­Å¡ Å¡Ã©fknihovnÃ­ka Kohla.}
+{101}{}{VidÃ­Å¡ uhlazenÄ› vyhlÃ­Å¾ejÃ­cÃ­ho muÅ¾e v kombinÃ©ze Vault City.}
+{102}{}{VidÃ­Å¡ Å¡Ã©fknihovnÃ­ka Kohla.}
+{103}{}{VidÃ­Å¡ uhlazenÄ› vyhlÃ­Å¾ejÃ­cÃ­ho muÅ¾e v kombinÃ©ze Vault City.}
+{104}{}{ZaÅ™Ã­dÃ­m, aby vaÅ¡e hrdinskÃ© Äiny byly zaznamenÃ¡ny v archÃ­vech Vault City, }
+{105}{}{U vÅ¡ech knih! VetÅ™elec! Pomoc! StrÃ¡Å¾e!}
+{106}{}{U vÅ¡ech knih! Mutant ve Vault City! StrÃ¡Å¾e! StrÃ¡Å¾e!}
+{107}{}{U vÅ¡ech knih! Ghoul ve Vault City! StrÃ¡Å¾e! StrÃ¡Å¾e!}
+{108}{}{InformaÄnÃ­ kancelÃ¡Å™ je veÄer zavÅ™enÃ¡. PÅ™ijÄte rÃ¡no.}
+{109}{}{InformaÄnÃ­ kancelÃ¡Å™ je veÄer zavÅ™enÃ¡. A aÅ¾ roztÅ™Ã­dÃ­m vÅ¡echny tyto listiny, pÅ¯jdu domÅ¯.}
 {110}{}{Psssst.}
-{111}{}{Tiše, prosím.}
+{111}{}{TiÅ¡e, prosÃ­m.}
 {112}{}{Psssst.}
-{113}{}{V tichosti JE síla.}
-{114}{}{Á... zdravím! S èím vám mohu pomoci?}
+{113}{}{V tichosti JE sÃ­la.}
+{114}{}{Ã... zdravÃ­m! S ÄÃ­m vÃ¡m mohu pomoci?}
 {115}{}{Frazz-urb-luuw!}
 {116}{}{Odbelhat se.}
-{117}{}{Co je tohle za místo?}
-{118}{}{No nic. Promiò, e ruším.}
-{119}{}{Eh... promiòte?}
-{120}{}{Skøípy-skøípy vrz,}
+{117}{}{Co je tohle za mÃ­sto?}
+{118}{}{No nic. PromiÅˆ, Å¾e ruÅ¡Ã­m.}
+{119}{}{Eh... promiÅˆte?}
+{120}{}{SkÅ™Ã­py-skÅ™Ã­py vrz,}
 {121}{}{Odbelhat se.}
-{122}{}{Á, vy budete urèitì sluebník. Tak to se radìji co NEJRYCHLEJI vrate ke svému pánovi Barkusovi, jinak bude zuøit!}
-{123}{}{Dóbe!}
-{124}{}{Toto je Informaèní centrum Vault City. Je tohle to místo, které hledáte?}
-{125}{}{Ano, koneènì. Mám na vás nìkolik otázek.}
-{126}{}{Informaèní centrum? Máte nìjaké knihy nebo manuály?}
-{127}{}{Ani ne. Promiòte, e ruším.}
-{128}{}{Bohuel jsou teï naše knihy právì pøevádìny do elektronické podoby. Ty, které byly navíc, se pøevezly do kanceláøí Obchodního centra na druhém konci ulice. Zkuste to tam.}
-{129}{}{A kde jsou ty knihy pøevedené do elektronické podoby?}
-{130}{}{Všechny knihy jsou pryè?}
+{122}{}{Ã, vy budete urÄitÄ› sluÅ¾ebnÃ­k. Tak to se radÄ›ji co NEJRYCHLEJI vraÅ¥te ke svÃ©mu pÃ¡novi Barkusovi, jinak bude zuÅ™it!}
+{123}{}{DÃ³bÅ¾e!}
+{124}{}{Toto je InformaÄnÃ­ centrum Vault City. Je tohle to mÃ­sto, kterÃ© hledÃ¡te?}
+{125}{}{Ano, koneÄnÄ›. MÃ¡m na vÃ¡s nÄ›kolik otÃ¡zek.}
+{126}{}{InformaÄnÃ­ centrum? MÃ¡te nÄ›jakÃ© knihy nebo manuÃ¡ly?}
+{127}{}{Ani ne. PromiÅˆte, Å¾e ruÅ¡Ã­m.}
+{128}{}{BohuÅ¾el jsou teÄ naÅ¡e knihy prÃ¡vÄ› pÅ™evÃ¡dÄ›ny do elektronickÃ© podoby. Ty, kterÃ© byly navÃ­c, se pÅ™evezly do kancelÃ¡Å™Ã­ ObchodnÃ­ho centra na druhÃ©m konci ulice. Zkuste to tam.}
+{129}{}{A kde jsou ty knihy pÅ™evedenÃ© do elektronickÃ© podoby?}
+{130}{}{VÅ¡echny knihy jsou pryÄ?}
 {131}{}{Aha. Chci se zeptat...}
-{132}{}{Tak já se tam pùjdu zeptat.}
-{133}{}{Rád vás zase vidím. Potøebujete pomoct nìco najít?}
-{134}{}{Zajisté. Co potøebujete vìdìt?}
-{135}{}{Co je tohle za místo?}
-{136}{}{Nevíš, kde najdu GECK?}
-{137}{}{Nevíte, kde se nachází Vault?}
-{138}{}{Dnes nic, díky.}
-{139}{}{GECK? To zní povìdomì. Co to má bıt?}
-{140}{}{Víte, to ani já pøesnì nevím. Podle slov naší Starší by to mìl bıt nìjakı všelék pro moji vesnici. Ale moc tomu nevìøím.}
-{141}{}{To doopravdy nevím.}
-{142}{}{Mùu se vás ještì na nìco zeptat?}
-{143}{}{Zapomeò na to. Moná si promluvíme nìkdy jindy.}
-{144}{}{Vault? Vchod najdete, kdy pùjdete doleva po ulici... je to ta obrovská díra ve skále.}
-{145}{}{Znáte ještì nìjaké jiné Vaulty?}
-{146}{}{Mùu se vás ještì na nìco zeptat?}
-{147}{}{Díky za radu.}
-{148}{}{Jiné Vaulty? Hmmm. Ne, neznám. Vím, e byly postaveny i jiné Vaulty, ale nikdy jsme ádnı jinı nenašli. Moná bude nìjaká zmínka v centrálním poèítaèi našeho Vaultu.}
+{132}{}{Tak jÃ¡ se tam pÅ¯jdu zeptat.}
+{133}{}{RÃ¡d vÃ¡s zase vidÃ­m. PotÅ™ebujete pomoct nÄ›co najÃ­t?}
+{134}{}{ZajistÃ©. Co potÅ™ebujete vÄ›dÄ›t?}
+{135}{}{Co je tohle za mÃ­sto?}
+{136}{}{NevÃ­Å¡, kde najdu GECK?}
+{137}{}{NevÃ­te, kde se nachÃ¡zÃ­ Vault?}
+{138}{}{Dnes nic, dÃ­ky.}
+{139}{}{GECK? To znÃ­ povÄ›domÄ›. Co to mÃ¡ bÃ½t?}
+{140}{}{VÃ­te, to ani jÃ¡ pÅ™esnÄ› nevÃ­m. Podle slov naÅ¡Ã­ StarÅ¡Ã­ by to mÄ›l bÃ½t nÄ›jakÃ½ vÅ¡elÃ©k pro moji vesnici. Ale moc tomu nevÄ›Å™Ã­m.}
+{141}{}{To doopravdy nevÃ­m.}
+{142}{}{MÅ¯Å¾u se vÃ¡s jeÅ¡tÄ› na nÄ›co zeptat?}
+{143}{}{ZapomeÅˆ na to. MoÅ¾nÃ¡ si promluvÃ­me nÄ›kdy jindy.}
+{144}{}{Vault? Vchod najdete, kdyÅ¾ pÅ¯jdete doleva po ulici... je to ta obrovskÃ¡ dÃ­ra ve skÃ¡le.}
+{145}{}{ZnÃ¡te jeÅ¡tÄ› nÄ›jakÃ© jinÃ© Vaulty?}
+{146}{}{MÅ¯Å¾u se vÃ¡s jeÅ¡tÄ› na nÄ›co zeptat?}
+{147}{}{DÃ­ky za radu.}
+{148}{}{JinÃ© Vaulty? Hmmm. Ne, neznÃ¡m. VÃ­m, Å¾e byly postaveny i jinÃ© Vaulty, ale nikdy jsme Å¾Ã¡dnÃ½ jinÃ½ nenaÅ¡li. MoÅ¾nÃ¡ bude nÄ›jakÃ¡ zmÃ­nka v centrÃ¡lnÃ­m poÄÃ­taÄi naÅ¡eho Vaultu.}
 {149}{}{Jak se dostanu do Vaultu?}
-{150}{}{Mùu se vás ještì na nìco zeptat?}
-{151}{}{Díky za informace.}
-{152}{}{Hmmmm. No, víte, taková informace by se mohla nacházet v centrálním poèítaèi uvnitø našeho Vaultu. Je tam uloeno mnoho starıch archívù.}
+{150}{}{MÅ¯Å¾u se vÃ¡s jeÅ¡tÄ› na nÄ›co zeptat?}
+{151}{}{DÃ­ky za informace.}
+{152}{}{Hmmmm. No, vÃ­te, takovÃ¡ informace by se mohla nachÃ¡zet v centrÃ¡lnÃ­m poÄÃ­taÄi uvnitÅ™ naÅ¡eho Vaultu. Je tam uloÅ¾eno mnoho starÃ½ch archÃ­vÅ¯.}
 {153}{}{Jak se dostanu do Vaultu?}
-{154}{}{Mùu se vás ještì na nìco zeptat?}
-{155}{}{Díky za informace.}
-{156}{}{No, pokud jste Obèanem této komunity, mùete vstoupit do Vaultu.}
-{157}{}{Aha, vy jste Obèan? Omlouvám se, moc se omlouvám... no, v tom pøípadì mùete vstoupit do Vaultu a pouít centrální poèítaè.}
-{158}{}{Nejprve se musíte stát Obèanem Vault City. Jestli chcete, mùete podstoupit test Obèanství... nebo bude moná lepší, kdy si promluvíte s První Obèankou Lynette. Jsem si jist, e by mohla ve vašem pøípadì udìlat vıjimku.}
-{159}{}{Eh, ale já jsem Obèan.}
-{160}{}{Mùu se vás ještì na nìco zeptat?}
-{161}{}{Díky za informace.}
-{162}{}{Ano, všechno se pøekládá, protoe... hmmm. Je to trochu delikátní záleitost, ale myslím, e je moje funkce ve Vault City ji zastaralá.}
-{163}{}{Zastaralá? Co tím myslíte?}
-{164}{}{Zastaralá?}
-{165}{}{Aha. Chci se ještì na nìco zeptat...}
-{166}{}{To je mi líto. Musím u jít.}
-{167}{}{To znamená, e je moje funkce ji zbyteèná. Asi to tak bude lepší.}
-{168}{}{Plánuje se instalace informaèních terminálù do kadé domácnosti. Všechny tyto terminály budou napojeny do sítì s vyhledávacím a informaèním serverem. A to bude hotové, tak Informaèní centrum... a já... budeme zbyteèní. Asi to tak bude lepší.}
-{169}{}{Jsi si jistá?}
-{170}{}{Aha. Chci se ještì na nìco zeptat...}
-{171}{}{To je mi líto. Musím u jít.}
-{172}{}{Ó ano. První Obèanka se v takovıch vìcech málokdy mılí. I pøesto mi bude po tomto místì smutno. Slyšel jsem, e pro mì mají místo v Úøadì seznamù.}
-{173}{}{Aha. No, je mi líto, e se všechny knihy pøepisují. Radìji si pøeètu poctivou papírovou knihu, ne civìt do monitoru.}
-{174}{}{Aha. No, je mi líto, e se všechny knihy pøepisují. Radìji si pøeètu poctivou papírovou knihu, ne civìt do monitoru.}
-{175}{}{Aha. Chci se ještì na nìco zeptat...}
-{176}{}{To je mi líto. Musím u jít.}
-{177}{}{Mluvíte mi úplnì z duše! Nemám nic proti elektronickému formátu, ale není nad to si knihu... osahat... vlastníma rukama a obracet jednu stránku za druhou. Hmmm. Víte...}
+{154}{}{MÅ¯Å¾u se vÃ¡s jeÅ¡tÄ› na nÄ›co zeptat?}
+{155}{}{DÃ­ky za informace.}
+{156}{}{No, pokud jste ObÄanem tÃ©to komunity, mÅ¯Å¾ete vstoupit do Vaultu.}
+{157}{}{Aha, vy jste ObÄan? OmlouvÃ¡m se, moc se omlouvÃ¡m... no, v tom pÅ™Ã­padÄ› mÅ¯Å¾ete vstoupit do Vaultu a pouÅ¾Ã­t centrÃ¡lnÃ­ poÄÃ­taÄ.}
+{158}{}{Nejprve se musÃ­te stÃ¡t ObÄanem Vault City. Jestli chcete, mÅ¯Å¾ete podstoupit test ObÄanstvÃ­... nebo bude moÅ¾nÃ¡ lepÅ¡Ã­, kdyÅ¾ si promluvÃ­te s PrvnÃ­ ObÄankou Lynette. Jsem si jist, Å¾e by mohla ve vaÅ¡em pÅ™Ã­padÄ› udÄ›lat vÃ½jimku.}
+{159}{}{Eh, ale jÃ¡ jsem ObÄan.}
+{160}{}{MÅ¯Å¾u se vÃ¡s jeÅ¡tÄ› na nÄ›co zeptat?}
+{161}{}{DÃ­ky za informace.}
+{162}{}{Ano, vÅ¡echno se pÅ™eklÃ¡dÃ¡, protoÅ¾e... hmmm. Je to trochu delikÃ¡tnÃ­ zÃ¡leÅ¾itost, ale myslÃ­m, Å¾e je moje funkce ve Vault City jiÅ¾ zastaralÃ¡.}
+{163}{}{ZastaralÃ¡? Co tÃ­m myslÃ­te?}
+{164}{}{ZastaralÃ¡?}
+{165}{}{Aha. Chci se jeÅ¡tÄ› na nÄ›co zeptat...}
+{166}{}{To je mi lÃ­to. MusÃ­m uÅ¾ jÃ­t.}
+{167}{}{To znamenÃ¡, Å¾e je moje funkce jiÅ¾ zbyteÄnÃ¡. Asi to tak bude lepÅ¡Ã­.}
+{168}{}{PlÃ¡nuje se instalace informaÄnÃ­ch terminÃ¡lÅ¯ do kaÅ¾dÃ© domÃ¡cnosti. VÅ¡echny tyto terminÃ¡ly budou napojeny do sÃ­tÄ› s vyhledÃ¡vacÃ­m a informaÄnÃ­m serverem. AÅ¾ to bude hotovÃ©, tak InformaÄnÃ­ centrum... a jÃ¡... budeme zbyteÄnÃ­. Asi to tak bude lepÅ¡Ã­.}
+{169}{}{Jsi si jistÃ¡?}
+{170}{}{Aha. Chci se jeÅ¡tÄ› na nÄ›co zeptat...}
+{171}{}{To je mi lÃ­to. MusÃ­m uÅ¾ jÃ­t.}
+{172}{}{Ã“ ano. PrvnÃ­ ObÄanka se v takovÃ½ch vÄ›cech mÃ¡lokdy mÃ½lÃ­. I pÅ™esto mi bude po tomto mÃ­stÄ› smutno. SlyÅ¡el jsem, Å¾e pro mÄ› majÃ­ mÃ­sto v ÃšÅ™adÄ› seznamÅ¯.}
+{173}{}{Aha. No, je mi lÃ­to, Å¾e se vÅ¡echny knihy pÅ™episujÃ­. RadÄ›ji si pÅ™eÄtu poctivou papÃ­rovou knihu, neÅ¾ civÄ›t do monitoru.}
+{174}{}{Aha. No, je mi lÃ­to, Å¾e se vÅ¡echny knihy pÅ™episujÃ­. RadÄ›ji si pÅ™eÄtu poctivou papÃ­rovou knihu, neÅ¾ civÄ›t do monitoru.}
+{175}{}{Aha. Chci se jeÅ¡tÄ› na nÄ›co zeptat...}
+{176}{}{To je mi lÃ­to. MusÃ­m uÅ¾ jÃ­t.}
+{177}{}{MluvÃ­te mi ÃºplnÄ› z duÅ¡e! NemÃ¡m nic proti elektronickÃ©mu formÃ¡tu, ale nenÃ­ nad to si knihu... osahat... vlastnÃ­ma rukama a obracet jednu strÃ¡nku za druhou. Hmmm. VÃ­te...}
 {178}{}{Ano?}
-{179}{}{Aha. Chci se ještì na nìco zeptat...}
-{180}{}{To je mi líto. Musím u jít.}
-{181}{}{Všechny knihy do Obchodního centra nepøevezli. Vím, e Randalovi nebudou chybìt, pokud je dám nìkomu, kdo je opravdu vyuije... nìkomu, jako jste vy.}
-{182}{}{S radostí si je vezmu. Díky.}
-{183}{}{Dojdu pro nì...}
-{184}{}{Tak dobøe.}
-{185}{}{Tady jsou. Snad se vám budou líbit. Jsou to nìkteré z mıch nejoblíbenìjších... trochu technické, ale pøesto dobré.}
-{186}{}{Díky. Nebude vám vadit, kdy se ještì na nìco zeptám?}
-{187}{}{Skvìlé. Jdu si je pøeèíst.}
-{188}{}{Byly pøepsány do jednoho z knihovních poèítaèù ve tøetím podlaí Vaultu. Nemohu si vzpomenout, do kterého... ale urèitì to není jeden z tìch u centrálního poèítaèe.}
-{189}{}{Proè se všechno pøepisuje?}
+{179}{}{Aha. Chci se jeÅ¡tÄ› na nÄ›co zeptat...}
+{180}{}{To je mi lÃ­to. MusÃ­m uÅ¾ jÃ­t.}
+{181}{}{VÅ¡echny knihy do ObchodnÃ­ho centra nepÅ™evezli. VÃ­m, Å¾e Randalovi nebudou chybÄ›t, pokud je dÃ¡m nÄ›komu, kdo je opravdu vyuÅ¾ije... nÄ›komu, jako jste vy.}
+{182}{}{S radostÃ­ si je vezmu. DÃ­ky.}
+{183}{}{Dojdu pro nÄ›...}
+{184}{}{Tak dobÅ™e.}
+{185}{}{Tady jsou. Snad se vÃ¡m budou lÃ­bit. Jsou to nÄ›kterÃ© z mÃ½ch nejoblÃ­benÄ›jÅ¡Ã­ch... trochu technickÃ©, ale pÅ™esto dobrÃ©.}
+{186}{}{DÃ­ky. Nebude vÃ¡m vadit, kdyÅ¾ se jeÅ¡tÄ› na nÄ›co zeptÃ¡m?}
+{187}{}{SkvÄ›lÃ©. Jdu si je pÅ™eÄÃ­st.}
+{188}{}{Byly pÅ™epsÃ¡ny do jednoho z knihovnÃ­ch poÄÃ­taÄÅ¯ ve tÅ™etÃ­m podlaÅ¾Ã­ Vaultu. Nemohu si vzpomenout, do kterÃ©ho... ale urÄitÄ› to nenÃ­ jeden z tÄ›ch u centrÃ¡lnÃ­ho poÄÃ­taÄe.}
+{189}{}{ProÄ se vÅ¡echno pÅ™episuje?}
 {190}{}{Jak se dostanu do Vaultu?}
-{191}{}{Aha. Nebude vám vadit, kdy se ještì na nìco zeptám?}
-{192}{}{Asi se po nìm pùjdu podívat.}
-{193}{}{! Vıbornì! Bravo!}
+{191}{}{Aha. Nebude vÃ¡m vadit, kdyÅ¾ se jeÅ¡tÄ› na nÄ›co zeptÃ¡m?}
+{192}{}{Asi se po nÄ›m pÅ¯jdu podÃ­vat.}
+{193}{}{! VÃ½bornÄ›! Bravo!}

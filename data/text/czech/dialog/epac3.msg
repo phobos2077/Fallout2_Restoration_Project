@@ -1,45 +1,45 @@
-{100}{}{Vidíš matnì støíbrnı toustovaè stojící na stole.}
-{101}{}{Vidíš Odvánı Malı Toustovaè.}
-{102}{}{OMT, váš veselı i kdy trochu otravnı spoleèník u snídanì.}
-{200}{}{Tì péro, sombréro! Tak co ivot? Já jsem Odvánı Malı Toustovaè - švitoøící toustovaè, váš veselı spoleèník u snídanì. OMT jsem já a toustuju rád. Dá si nìkdo toust?}
-{201}{}{Ne, díky, ale chci se na nìco zeptat.}
-{202}{}{Teï ne, u musím jít.}
-{210}{}{Jasnì, sem s tím! Jsem jednièka v kvantové mechanice, submolekulární biologii a televizních znìlkách. Zeptej se mì na cokoliv. Ale mùu mít nejdøív otázku já na tebe?}
-{211}{}{No, proè ne. Co potøebuješ vìdìt?}
-{220}{}{Urèitì nemáš chu na toust?}
-{221}{}{NE! Nechci ádnı tousty! ádnı muffiny, ani tousty, koláèky, ádnı emle, briošky, bagety, ani buchty, ádnı veky, ani loupáky a palaèinky, bramborovı placky, ádnı teplı jidáše a u vùbec ne nìjakı pitomı lívance!!!}
-{230}{}{Ahá, take ty jsi na vafle!}
-{231}{}{Tak a u toho mám dost.}
-{232}{}{(Vyèerpanì se chytneš za hlavu.) U musím jít. Já... teï musím nìkde bıt. Kdekoliv jinde.}
-{240}{}{Ne, poèkej. Omlouvám se. Nejsem jednostrannì, peèivovì zaloenı pøístroj. Co pro tebe mùu udìlat?}
-{241}{}{Potøebuju nìjaké informace o tomhle místì. Co mi o nìm mùeš øíct?}
-{250}{}{Øeknu ti jedno: tohle je hrozné místo pro nìkoho mıch toustovacích kvalit. Víš, e u je to víc ne sto let, co jsem mìl to potìšení nìkomu udìlat toust? Jsi první návštìvník, kterı sem od války pøišel a teï se podr: kdybys mì poádal o toast, tak já ani nevím, jestli bych ho ještì zvládl udìlat. Víš, cítím se teï trochu pod psa. Je to docela trapné.}
-{251}{}{To je, eh, hrozná tragédie. A proè jsi vlastnì tady?}
-{252}{}{Rozumím. Díky za tvùj èas.}
-{260}{}{Myslím, e si sem tìsnì pøed tou nehodou nechal doruèit zásilku plynovıch masek. Nìkdo dokonce tvrdí, e si za ten problém mùe vlastnì sám.}
-{261}{}{Take, proè tady jseš?}
-{262}{}{Díky za informace.}
-{270}{}{Pøece abych ti zpøíjemnil ráno, jak to jen pùjde! Poslyš, nemáš v bøiše po tak vyèerpávající konverzaci trochu místa na toust?}
-{271}{}{To u jsme snad probírali!! Nemám hlad a ani mít nikdy nebudu. A teï vánì, proè jsi OPRAVDU tady?}
-{280}{}{No dobøe, tak se hned nerozèiluj. Rozèilování není nikdy dobrı start do nového dne. Byl jsem pùvodnì vytvoøen jako spoleèník ke snídani, ale poslouím stejnì tak dobøe i u obìda nebo veèeøe. Toustem nikdy nic nezkazíš. Nebo se snad ptáš, proè teï leím zrovna tady a z boku mi èouhá drát? No, zdá se, e Mr. Handy není pokadé tak šikovnı, jak se na první pohled zdá. Ten vùl se rozbil zrovna pøi mé roèní kontrole. Pak samozøejmì odcupital na údrbu a mì tu nechal osudu.}
-{281}{}{Aha. No, díky za tvùj èas.}
-{290}{}{Za málo. A zase se nìkdy stav. Tøeba ti èasem vyhládne.}
+{100}{}{VidÃ­Å¡ matnÄ› stÅ™Ã­brnÃ½ toustovaÄ stojÃ­cÃ­ na stole.}
+{101}{}{VidÃ­Å¡ OdvÃ¡Å¾nÃ½ MalÃ½ ToustovaÄ.}
+{102}{}{OMT, vÃ¡Å¡ veselÃ½ i kdyÅ¾ trochu otravnÃ½ spoleÄnÃ­k u snÃ­danÄ›.}
+{200}{}{TÄ› pÃ©ro, sombrÃ©ro! Tak co Å¾ivot? JÃ¡ jsem OdvÃ¡Å¾nÃ½ MalÃ½ ToustovaÄ - Å¡vitoÅ™Ã­cÃ­ toustovaÄ, vÃ¡Å¡ veselÃ½ spoleÄnÃ­k u snÃ­danÄ›. OMT jsem jÃ¡ a toustuju rÃ¡d. DÃ¡ si nÄ›kdo toust?}
+{201}{}{Ne, dÃ­ky, ale chci se na nÄ›co zeptat.}
+{202}{}{TeÄ ne, uÅ¾ musÃ­m jÃ­t.}
+{210}{}{JasnÄ›, sem s tÃ­m! Jsem jedniÄka v kvantovÃ© mechanice, submolekulÃ¡rnÃ­ biologii a televiznÃ­ch znÄ›lkÃ¡ch. Zeptej se mÄ› na cokoliv. Ale mÅ¯Å¾u mÃ­t nejdÅ™Ã­v otÃ¡zku jÃ¡ na tebe?}
+{211}{}{No, proÄ ne. Co potÅ™ebujeÅ¡ vÄ›dÄ›t?}
+{220}{}{UrÄitÄ› nemÃ¡Å¡ chuÅ¥ na toust?}
+{221}{}{NE! Nechci Å¾Ã¡dnÃ½ tousty! Å½Ã¡dnÃ½ muffiny, ani tousty, kolÃ¡Äky, Å¾Ã¡dnÃ½ Å¾emle, brioÅ¡ky, bagety, ani buchty, Å¾Ã¡dnÃ½ veky, ani loupÃ¡ky a palaÄinky, bramborovÃ½ placky, Å¾Ã¡dnÃ½ teplÃ½ jidÃ¡Å¡e a uÅ¾ vÅ¯bec ne nÄ›jakÃ½ pitomÃ½ lÃ­vance!!!}
+{230}{}{AhÃ¡, takÅ¾e ty jsi na vafle!}
+{231}{}{Tak a uÅ¾ toho mÃ¡m dost.}
+{232}{}{(VyÄerpanÄ› se chytneÅ¡ za hlavu.) UÅ¾ musÃ­m jÃ­t. JÃ¡... teÄ musÃ­m nÄ›kde bÃ½t. Kdekoliv jinde.}
+{240}{}{Ne, poÄkej. OmlouvÃ¡m se. Nejsem jednostrannÄ›, peÄivovÄ› zaloÅ¾enÃ½ pÅ™Ã­stroj. Co pro tebe mÅ¯Å¾u udÄ›lat?}
+{241}{}{PotÅ™ebuju nÄ›jakÃ© informace o tomhle mÃ­stÄ›. Co mi o nÄ›m mÅ¯Å¾eÅ¡ Å™Ã­ct?}
+{250}{}{Å˜eknu ti jedno: tohle je hroznÃ© mÃ­sto pro nÄ›koho mÃ½ch toustovacÃ­ch kvalit. VÃ­Å¡, Å¾e uÅ¾ je to vÃ­c neÅ¾ sto let, co jsem mÄ›l to potÄ›Å¡enÃ­ nÄ›komu udÄ›lat toust? Jsi prvnÃ­ nÃ¡vÅ¡tÄ›vnÃ­k, kterÃ½ sem od vÃ¡lky pÅ™iÅ¡el a teÄ se podrÅ¾: kdybys mÄ› poÅ¾Ã¡dal o toast, tak jÃ¡ ani nevÃ­m, jestli bych ho jeÅ¡tÄ› zvlÃ¡dl udÄ›lat. VÃ­Å¡, cÃ­tÃ­m se teÄ trochu pod psa. Je to docela trapnÃ©.}
+{251}{}{To je, eh, hroznÃ¡ tragÃ©die. A proÄ jsi vlastnÄ› tady?}
+{252}{}{RozumÃ­m. DÃ­ky za tvÅ¯j Äas.}
+{260}{}{MyslÃ­m, Å¾e si sem tÄ›snÄ› pÅ™ed tou nehodou nechal doruÄit zÃ¡silku plynovÃ½ch masek. NÄ›kdo dokonce tvrdÃ­, Å¾e si za ten problÃ©m mÅ¯Å¾e vlastnÄ› sÃ¡m.}
+{261}{}{TakÅ¾e, proÄ tady jseÅ¡?}
+{262}{}{DÃ­ky za informace.}
+{270}{}{PÅ™ece abych ti zpÅ™Ã­jemnil rÃ¡no, jak to jen pÅ¯jde! PoslyÅ¡, nemÃ¡Å¡ v bÅ™iÅ¡e po tak vyÄerpÃ¡vajÃ­cÃ­ konverzaci trochu mÃ­sta na toust?}
+{271}{}{To uÅ¾ jsme snad probÃ­rali!! NemÃ¡m hlad a ani mÃ­t nikdy nebudu. A teÄ vÃ¡Å¾nÄ›, proÄ jsi OPRAVDU tady?}
+{280}{}{No dobÅ™e, tak se hned nerozÄiluj. RozÄilovÃ¡nÃ­ nenÃ­ nikdy dobrÃ½ start do novÃ©ho dne. Byl jsem pÅ¯vodnÄ› vytvoÅ™en jako spoleÄnÃ­k ke snÃ­dani, ale poslouÅ¾Ã­m stejnÄ› tak dobÅ™e i u obÄ›da nebo veÄeÅ™e. Toustem nikdy nic nezkazÃ­Å¡. Nebo se snad ptÃ¡Å¡, proÄ teÄ leÅ¾Ã­m zrovna tady a z boku mi ÄouhÃ¡ drÃ¡t? No, zdÃ¡ se, Å¾e Mr. Handy nenÃ­ pokaÅ¾dÃ© tak Å¡ikovnÃ½, jak se na prvnÃ­ pohled zdÃ¡. Ten vÅ¯l se rozbil zrovna pÅ™i mÃ© roÄnÃ­ kontrole. Pak samozÅ™ejmÄ› odcupital na ÃºdrÅ¾bu a mÄ› tu nechal osudu.}
+{281}{}{Aha. No, dÃ­ky za tvÅ¯j Äas.}
+{290}{}{Za mÃ¡lo. A zase se nÄ›kdy stav. TÅ™eba ti Äasem vyhlÃ¡dne.}
 {291}{}{Pochybuju. Nashle.}
-{300}{}{Já vìdìl, e se vrátíš. Kadı se nakonec vrátí. Nedáš si toust?}
-{301}{}{Já vìdìl, e se vrátíš. Kadı se nakonec vrátí. A teï kdy jsem opravenı, udìlám ještì lepší toust ne pøedtím. Nedáš si?}
-{302}{}{Teï ne, ale mám na tebe otázku.}
-{303}{}{Ne. U musím jít.}
-{310}{}{Sem s ní. Doufám, e je peèivovitá.}
-{311}{}{Co je tohle za místo?}
+{300}{}{JÃ¡ vÄ›dÄ›l, Å¾e se vrÃ¡tÃ­Å¡. KaÅ¾dÃ½ se nakonec vrÃ¡tÃ­. NedÃ¡Å¡ si toust?}
+{301}{}{JÃ¡ vÄ›dÄ›l, Å¾e se vrÃ¡tÃ­Å¡. KaÅ¾dÃ½ se nakonec vrÃ¡tÃ­. A teÄ kdyÅ¾ jsem opravenÃ½, udÄ›lÃ¡m jeÅ¡tÄ› lepÅ¡Ã­ toust neÅ¾ pÅ™edtÃ­m. NedÃ¡Å¡ si?}
+{302}{}{TeÄ ne, ale mÃ¡m na tebe otÃ¡zku.}
+{303}{}{Ne. UÅ¾ musÃ­m jÃ­t.}
+{310}{}{Sem s nÃ­. DoufÃ¡m, Å¾e je peÄivovitÃ¡.}
+{311}{}{Co je tohle za mÃ­sto?}
 {312}{}{Ale nic. Nashle.}
-{350}{}{Hele, já jsem opravenı! Já vìdìl, e to Mr. Handy pìknì odbyl. Teï se cítím líp ne kdy pøedtím! Díky.}
-{351}{}{Jasnì, není zaè. Tak zatím.}
-{352}{}{Poèkej ještì. Jestli nechceš udìlat toust, tak ti dám aspoò malou radu. Znáš ty hrací automaty na páku, co bıvají v kasínech? Tak já jsem vypoèítal, jak se dají snadno vydímat a do dna. Mám toti IQ 6000, víš, a kdy zrovna netoustuju, rád pøemıšlím nad takovımi vìcmi. Za tvoji pomoc ti povím tyhle tajné kódy. Staèí jen normálnì zatáhnout za páku a...}
-{353}{}{[Více]}
-{354}{}{...a to je všechno. Za chvíli budeš mít tolik penìz, e se budeš moct ládovat toustama od rána do veèera.}
-{355}{}{Díky, váím si toho. Mìj se.}
-{400}{}{Úspìšnì se ti podaøilo opravit toustovaè.}
-{401}{}{Nepodaøilo se ti opravit toustovaè.}
-{402}{}{Toustovaè je u opravenı.}
-{403}{}{ úspìšnì opravuje toustovaè.}
-{404}{}{ selhává pøi opravì toustovaèe.}
+{350}{}{Hele, jÃ¡ jsem opravenÃ½! JÃ¡ vÄ›dÄ›l, Å¾e to Mr. Handy pÄ›knÄ› odbyl. TeÄ se cÃ­tÃ­m lÃ­p neÅ¾ kdy pÅ™edtÃ­m! DÃ­ky.}
+{351}{}{JasnÄ›, nenÃ­ zaÄ. Tak zatÃ­m.}
+{352}{}{PoÄkej jeÅ¡tÄ›. Jestli nechceÅ¡ udÄ›lat toust, tak ti dÃ¡m aspoÅˆ malou radu. ZnÃ¡Å¡ ty hracÃ­ automaty na pÃ¡ku, co bÃ½vajÃ­ v kasÃ­nech? Tak jÃ¡ jsem vypoÄÃ­tal, jak se dajÃ­ snadno vyÅ¾dÃ­mat aÅ¾ do dna. MÃ¡m totiÅ¾ IQ 6000, vÃ­Å¡, a kdyÅ¾ zrovna netoustuju, rÃ¡d pÅ™emÃ½Å¡lÃ­m nad takovÃ½mi vÄ›cmi. Za tvoji pomoc ti povÃ­m tyhle tajnÃ© kÃ³dy. StaÄÃ­ jen normÃ¡lnÄ› zatÃ¡hnout za pÃ¡ku a...}
+{353}{}{[VÃ­ce]}
+{354}{}{...a to je vÅ¡echno. Za chvÃ­li budeÅ¡ mÃ­t tolik penÄ›z, Å¾e se budeÅ¡ moct lÃ¡dovat toustama od rÃ¡na do veÄera.}
+{355}{}{DÃ­ky, vÃ¡Å¾Ã­m si toho. MÄ›j se.}
+{400}{}{ÃšspÄ›Å¡nÄ› se ti podaÅ™ilo opravit toustovaÄ.}
+{401}{}{NepodaÅ™ilo se ti opravit toustovaÄ.}
+{402}{}{ToustovaÄ je uÅ¾ opravenÃ½.}
+{403}{}{ ÃºspÄ›Å¡nÄ› opravuje toustovaÄ.}
+{404}{}{ selhÃ¡vÃ¡ pÅ™i opravÄ› toustovaÄe.}

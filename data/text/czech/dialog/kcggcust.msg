@@ -1,74 +1,74 @@
-{100}{}{Vidíš místního štamgasta, kterı si tì zvìdavì prohlíí.}
-{101}{}{Vidíš místního štamgasta pojídajícího nìjaké jídlo.}
-{102}{}{Vidíš místního štamgasta popíjejícího dbánek piva.}
-{103}{}{Vidíš barmanku.}
-{104}{}{Vidíš špinavého místního štamgasta. Nejspíš je to lovec koešin.}
-{105}{}{Vidíš drsnì vypadajícího mue. Pravdìpodobnì je to lovec koešin.}
-{106}{}{Vidíš staršího mue. Nejspíš to bude lovec koešin nebo farmáø.}
-{107}{}{Vidíš mue v dobré kondici. Mohl by to bıt rolník nebo pasák brahmín.}
-{110}{}{Ty sem dobøe zapadneš.}
-{111}{}{Nechceš nám koupit rundu pití?}
-{112}{}{Pøišel sis dát páku s Duntonovejma?}
-{113}{}{Vypadáš jako bys pøišel ze severu.}
-{114}{}{Na co èumíš?}
-{115}{}{Máš fakt pìknı tìlo, zlato. Hahaha.}
-{116}{}{Dal bych si další dbánek geckoních chcanek.}
-{117}{}{Jestli potøebuješ prachy, tak Duntonovi teï hledaj nìjakou pomoc.}
-{118}{}{Nejseš tak úplnì špatnej divoch.}
-{119}{}{96 flašek chcanek na zdi, 96 flašek chcanek...}
-{120}{}{Pùjdu na jih do Denu. Je tam spoustu práce.}
-{121}{}{Dones sem další dbánek chcanek, Salvadore!}
-{122}{}{Lov jde poslední dobou blbì. Musí bejt i lehèí zpùsob jak si vydìlat.}
-{123}{}{Nejsem tak oralej, jak si myslíš.}
-{124}{}{Hej kámo, pøipadaj ti tydle kostky cinknutı? (zatøepe kostkama)}
-{125}{}{Jestli chceš práci, promluv si s Duntonovejma nebo s barmanem, kamaráde.}
-{126}{}{Vybral sis správnej flek na chlastání, pøíteli.}
-{127}{}{Ne, Bishope, u to s tím noem nedìlej.}
-{128}{}{Pùjde nìkdo hrát kostky?}
-{129}{}{Je fajn, e tu není ten smraïoch Aldo.}
-{130}{}{U jsi nìkdy ukradl nìjakı brahmíny?}
-{131}{}{Bacha na Ducha-Kterı-Kráèí!}
-{132}{}{V kaòonu na vıchodì je nìjakej duch.}
-{133}{}{Lov je nebezpeènej. Pøed pár tıdny se ztratil dobrej lovec.}
-{134}{}{Rád si støílím z toho hòupa Torra.}
-{140}{}{Podívejme, kdo se pøišel podívat.}
-{141}{}{(mumly, mumly) ...koho nám to sem èerti nesou... (mumly)}
-{142}{}{Nezdá se ti, e jseš tady špatnì?}
-{143}{}{Nechceme tu nìkoho, jako jseš ty, divochu.}
-{144}{}{Moná ti tu dovolíme zùstat, kdy všem koupíš chlast.}
-{145}{}{Táhni nìkam, divochu.}
-{146}{}{Na co tak blbì zíráš?}
-{147}{}{Duntonovi ti to vysvìtlí, divochu.}
-{148}{}{Tady pro tebe není vhodnı místo na chlastání.}
-{149}{}{Tvoje maminka tu není chlapèe. Zkus zajít do lázní.}
-{150}{}{Jdi si hrát nìkam jinam.}
-{151}{}{Máme tu pro tebe takovı hezkı kaòon na vıchod odsud.}
-{152}{}{Co chceš?}
-{153}{}{Bude lepší, kdy si budeš hledìt svıho.}
-{154}{}{Nejmenuješ se náhodou taky Torr? (hehehe)}
+{100}{}{VidÃ­Å¡ mÃ­stnÃ­ho Å¡tamgasta, kterÃ½ si tÄ› zvÄ›davÄ› prohlÃ­Å¾Ã­.}
+{101}{}{VidÃ­Å¡ mÃ­stnÃ­ho Å¡tamgasta pojÃ­dajÃ­cÃ­ho nÄ›jakÃ© jÃ­dlo.}
+{102}{}{VidÃ­Å¡ mÃ­stnÃ­ho Å¡tamgasta popÃ­jejÃ­cÃ­ho dÅ¾bÃ¡nek piva.}
+{103}{}{VidÃ­Å¡ barmanku.}
+{104}{}{VidÃ­Å¡ Å¡pinavÃ©ho mÃ­stnÃ­ho Å¡tamgasta. NejspÃ­Å¡ je to lovec koÅ¾eÅ¡in.}
+{105}{}{VidÃ­Å¡ drsnÄ› vypadajÃ­cÃ­ho muÅ¾e. PravdÄ›podobnÄ› je to lovec koÅ¾eÅ¡in.}
+{106}{}{VidÃ­Å¡ starÅ¡Ã­ho muÅ¾e. NejspÃ­Å¡ to bude lovec koÅ¾eÅ¡in nebo farmÃ¡Å™.}
+{107}{}{VidÃ­Å¡ muÅ¾e v dobrÃ© kondici. Mohl by to bÃ½t rolnÃ­k nebo pasÃ¡k brahmÃ­n.}
+{110}{}{Ty sem dobÅ™e zapadneÅ¡.}
+{111}{}{NechceÅ¡ nÃ¡m koupit rundu pitÃ­?}
+{112}{}{PÅ™iÅ¡el sis dÃ¡t pÃ¡ku s Duntonovejma?}
+{113}{}{VypadÃ¡Å¡ jako bys pÅ™iÅ¡el ze severu.}
+{114}{}{Na co ÄumÃ­Å¡?}
+{115}{}{MÃ¡Å¡ fakt pÄ›knÃ½ tÄ›lo, zlato. Hahaha.}
+{116}{}{Dal bych si dalÅ¡Ã­ dÅ¾bÃ¡nek geckonÃ­ch chcanek.}
+{117}{}{Jestli potÅ™ebujeÅ¡ prachy, tak Duntonovi teÄ hledaj nÄ›jakou pomoc.}
+{118}{}{NejseÅ¡ tak ÃºplnÄ› Å¡patnej divoch.}
+{119}{}{96 flaÅ¡ek chcanek na zdi, 96 flaÅ¡ek chcanek...}
+{120}{}{PÅ¯jdu na jih do Denu. Je tam spoustu prÃ¡ce.}
+{121}{}{Dones sem dalÅ¡Ã­ dÅ¾bÃ¡nek chcanek, Salvadore!}
+{122}{}{Lov jde poslednÃ­ dobou blbÄ›. MusÃ­ bejt i lehÄÃ­ zpÅ¯sob jak si vydÄ›lat.}
+{123}{}{Nejsem tak oÅ¾ralej, jak si myslÃ­Å¡.}
+{124}{}{Hej kÃ¡mo, pÅ™ipadaj ti tydle kostky cinknutÃ½? (zatÅ™epe kostkama)}
+{125}{}{Jestli chceÅ¡ prÃ¡ci, promluv si s Duntonovejma nebo s barmanem, kamarÃ¡de.}
+{126}{}{Vybral sis sprÃ¡vnej flek na chlastÃ¡nÃ­, pÅ™Ã­teli.}
+{127}{}{Ne, Bishope, uÅ¾ to s tÃ­m noÅ¾em nedÄ›lej.}
+{128}{}{PÅ¯jde nÄ›kdo hrÃ¡t kostky?}
+{129}{}{Je fajn, Å¾e tu nenÃ­ ten smraÄoch Aldo.}
+{130}{}{UÅ¾ jsi nÄ›kdy ukradl nÄ›jakÃ½ brahmÃ­ny?}
+{131}{}{Bacha na Ducha-KterÃ½-KrÃ¡ÄÃ­!}
+{132}{}{V kaÅˆonu na vÃ½chodÄ› je nÄ›jakej duch.}
+{133}{}{Lov je nebezpeÄnej. PÅ™ed pÃ¡r tÃ½dny se ztratil dobrej lovec.}
+{134}{}{RÃ¡d si stÅ™Ã­lÃ­m z toho hÅˆupa Torra.}
+{140}{}{PodÃ­vejme, kdo se pÅ™iÅ¡el podÃ­vat.}
+{141}{}{(mumly, mumly) ...koho nÃ¡m to sem Äerti nesou... (mumly)}
+{142}{}{NezdÃ¡ se ti, Å¾e jseÅ¡ tady Å¡patnÄ›?}
+{143}{}{Nechceme tu nÄ›koho, jako jseÅ¡ ty, divochu.}
+{144}{}{MoÅ¾nÃ¡ ti tu dovolÃ­me zÅ¯stat, kdyÅ¾ vÅ¡em koupÃ­Å¡ chlast.}
+{145}{}{TÃ¡hni nÄ›kam, divochu.}
+{146}{}{Na co tak blbÄ› zÃ­rÃ¡Å¡?}
+{147}{}{Duntonovi ti to vysvÄ›tlÃ­, divochu.}
+{148}{}{Tady pro tebe nenÃ­ vhodnÃ½ mÃ­sto na chlastÃ¡nÃ­.}
+{149}{}{Tvoje maminka tu nenÃ­ chlapÄe. Zkus zajÃ­t do lÃ¡znÃ­.}
+{150}{}{Jdi si hrÃ¡t nÄ›kam jinam.}
+{151}{}{MÃ¡me tu pro tebe takovÃ½ hezkÃ½ kaÅˆon na vÃ½chod odsud.}
+{152}{}{Co chceÅ¡?}
+{153}{}{Bude lepÅ¡Ã­, kdyÅ¾ si budeÅ¡ hledÄ›t svÃ½ho.}
+{154}{}{NejmenujeÅ¡ se nÃ¡hodou taky Torr? (hehehe)}
 {155}{}{Jdi chlastat s Aldem, jo?}
-{156}{}{Tohle není místo pro tebe, hajzle.}
-{157}{}{S tebou se teda rozhodnì nenapiju.}
+{156}{}{Tohle nenÃ­ mÃ­sto pro tebe, hajzle.}
+{157}{}{S tebou se teda rozhodnÄ› nenapiju.}
 {158}{}{Tfuj. (plivne na podlahu)}
 {159}{}{No na tebe je teda pohled.}
-{160}{}{U ti došlo, e tì tu nechceme?}
-{162}{}{No koneènì, divochu.}
-{163}{}{Díky.}
+{160}{}{UÅ¾ ti doÅ¡lo, Å¾e tÄ› tu nechceme?}
+{162}{}{No koneÄnÄ›, divochu.}
+{163}{}{DÃ­ky.}
 {164}{}{Nee!}
 {165}{}{Ecky, ecky, p'tang!}
-{166}{}{Pùjdu se zechcat.}
-{167}{}{Nic nenahradí geckonskı Chcánky.}
-{168}{}{Díky za Chcánky.}
-{169}{}{Paráda!}
-{170}{}{Divoši vìdìj, co je na ivotì dobrı.}
-{171}{}{Dík.}
-{172}{}{Víc Chcánek pro kadıho!}
-{173}{}{To fakt bodlo. Díky.}
-{174}{}{Milionkrát dìkuju!}
-{175}{}{Radši mít lobotomii...}
-{176}{}{Chcánky Zlatıho geckona!}
-{177}{}{Dobrı!}
-{178}{}{Miluju tyhle Chcánky.}
-{179}{}{Jseš dobrej divoch.}
+{166}{}{PÅ¯jdu se zechcat.}
+{167}{}{Nic nenahradÃ­ geckonskÃ½ ChcÃ¡nky.}
+{168}{}{DÃ­ky za ChcÃ¡nky.}
+{169}{}{ParÃ¡da!}
+{170}{}{DivoÅ¡i vÄ›dÄ›j, co je na Å¾ivotÄ› dobrÃ½.}
+{171}{}{DÃ­k.}
+{172}{}{VÃ­c ChcÃ¡nek pro kaÅ¾dÃ½ho!}
+{173}{}{To fakt bodlo. DÃ­ky.}
+{174}{}{MilionkrÃ¡t dÄ›kuju!}
+{175}{}{RadÅ¡i mÃ­t lobotomii...}
+{176}{}{ChcÃ¡nky ZlatÃ½ho geckona!}
+{177}{}{DobrÃ½!}
+{178}{}{Miluju tyhle ChcÃ¡nky.}
+{179}{}{JseÅ¡ dobrej divoch.}
 {180}{}{Chytrej tah.}
-{181}{}{Jó!}
+{181}{}{JÃ³!}

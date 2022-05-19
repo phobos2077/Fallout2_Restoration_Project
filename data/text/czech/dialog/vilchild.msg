@@ -1,14 +1,14 @@
-{100}{}{Malı chlapec.}
-{101}{}{Vidíš malou dívku.}
-{102}{}{Pøi pohledu na tebe se usmívá.}
-{103}{}{Pøi pohledu na tebe se usmívá.}
-{104}{}{Dívá se na tebe s nejistotou.}
-{105}{}{Dívá se na tebe s nejistotou.}
-{106}{}{Civí na tebe.}
-{107}{}{Civí na tebe.}
-{200}{}{Dìkujeme vám za pomoc, pane!}
-{201}{}{Jupí, u jsme v bezpeèí!}
-{202}{}{Dìkujeme vám za pomoc, paní!}
-{203}{}{Jupí, u jsme v bezpeèí!}
-{204}{}{Jste zlı!}
-{205}{}{Chcete nám pomoct?}
+{100}{}{MalÃ½ chlapec.}
+{101}{}{VidÃ­Å¡ malou dÃ­vku.}
+{102}{}{PÅ™i pohledu na tebe se usmÃ­vÃ¡.}
+{103}{}{PÅ™i pohledu na tebe se usmÃ­vÃ¡.}
+{104}{}{DÃ­vÃ¡ se na tebe s nejistotou.}
+{105}{}{DÃ­vÃ¡ se na tebe s nejistotou.}
+{106}{}{CivÃ­ na tebe.}
+{107}{}{CivÃ­ na tebe.}
+{200}{}{DÄ›kujeme vÃ¡m za pomoc, pane!}
+{201}{}{JupÃ­, uÅ¾ jsme v bezpeÄÃ­!}
+{202}{}{DÄ›kujeme vÃ¡m za pomoc, panÃ­!}
+{203}{}{JupÃ­, uÅ¾ jsme v bezpeÄÃ­!}
+{204}{}{Jste zlÃ½!}
+{205}{}{Chcete nÃ¡m pomoct?}

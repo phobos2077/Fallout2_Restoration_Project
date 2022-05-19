@@ -1,4 +1,4 @@
-{100}{}{Vidíš masivní bránu.}
-{101}{}{Tato brána má na sobì velkı zámek.}
-{102}{}{Odemykáš bránu klíèem.}
-{103}{}{Zamykáš bránu klíèem.}
+{100}{}{VidÃ­Å¡ masivnÃ­ brÃ¡nu.}
+{101}{}{Tato brÃ¡na mÃ¡ na sobÄ› velkÃ½ zÃ¡mek.}
+{102}{}{OdemykÃ¡Å¡ brÃ¡nu klÃ­Äem.}
+{103}{}{ZamykÃ¡Å¡ brÃ¡nu klÃ­Äem.}

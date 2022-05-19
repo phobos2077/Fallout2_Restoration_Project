@@ -1,47 +1,47 @@
-{100}{}{Obchodník.}
+{100}{}{ObchodnÃ­k.}
 {101}{}{Willy.}
-{102}{}{Otravnı potulnı obchodník.}
+{102}{}{OtravnÃ½ potulnÃ½ obchodnÃ­k.}
 {103}{}{Greetings, friend, my name is Willy and have I got a deal for you. [He seems to be reading from
  a card, and after a while you doze off.]}
 {104}{}{Chrrrrrr...}
-{105}{}{(Ospale otevøeš oèi a zjistíš, e do tebe nìkdo kope.) Tak co? Máš zájem nebo ne?}
-{106}{}{Zájem o co?}
+{105}{}{(Ospale otevÅ™eÅ¡ oÄi a zjistÃ­Å¡, Å¾e do tebe nÄ›kdo kope.) Tak co? MÃ¡Å¡ zÃ¡jem nebo ne?}
+{106}{}{ZÃ¡jem o co?}
 {107}{}{Eh?}
-{108}{}{No, mùeš s tím krájet na plátky, na kostky a mùe se i hodit na rùzné potvory. Skvìlá koupì a pro tebe navíc jen za pohıch }
-{109}{}{Je vyroben z toho nejlepšího døeva. Mùeš se s ním ohánìt po rùznıch potvorách a dret je tak v šachu. Pokud jsi dost šikovnı, mùeš s ním i házet. Je velmi aerodynamickı a pøi nárazu se nezlomí. Tak co na to øíkáš? Mùe bıt tvùj za pouhıch }
-{110}{}{Tato zbraò je vyrobena z té nejlepší recyklované oceli. Jen si zkus jak dobøe padne do ruky. A nemìj obavy. Naši konstruktéøi ji dobøe otestovali, aby byla bezpeèná a spolehlivá. ádnı zlodìj se zdravım rozumem se tì nepokusí okrást, kdy mu s ní zamáváš pøed nosem. A stál by tì pouze }
-{111}{}{Tento malı skvost je vskutku jedineènı. Z dalekıch konèin... jenom s tím takhle zamíøíš... podívej, já nevím co to sakra je. Chceš to nebo ne? Stojí }
-{112}{}{Tenhle malı švihák jenom køièí. "Nezahrávej si se mnou!" Jenom pouhı pohled zaene tvé nepøátele. Skvìlá koupì za }
-{113}{}{Vidím, e jsi typ, kterı si to s tou chátrou rád vyøizuje pìknì osobnì a zblízka. A tahle parádní vìcièka je pøesnì to, co potøebuješ. Mùeš ji mít za }
+{108}{}{No, mÅ¯Å¾eÅ¡ s tÃ­m krÃ¡jet na plÃ¡tky, na kostky a mÅ¯Å¾e se i hodit na rÅ¯znÃ© potvory. SkvÄ›lÃ¡ koupÄ› a pro tebe navÃ­c jen za pohÃ½ch }
+{109}{}{Je vyroben z toho nejlepÅ¡Ã­ho dÅ™eva. MÅ¯Å¾eÅ¡ se s nÃ­m ohÃ¡nÄ›t po rÅ¯znÃ½ch potvorÃ¡ch a drÅ¾et je tak v Å¡achu. Pokud jsi dost Å¡ikovnÃ½, mÅ¯Å¾eÅ¡ s nÃ­m i hÃ¡zet. Je velmi aerodynamickÃ½ a pÅ™i nÃ¡razu se nezlomÃ­. Tak co na to Å™Ã­kÃ¡Å¡? MÅ¯Å¾e bÃ½t tvÅ¯j za pouhÃ½ch }
+{110}{}{Tato zbraÅˆ je vyrobena z tÃ© nejlepÅ¡Ã­ recyklovanÃ© oceli. Jen si zkus jak dobÅ™e padne do ruky. A nemÄ›j obavy. NaÅ¡i konstruktÃ©Å™i ji dobÅ™e otestovali, aby byla bezpeÄnÃ¡ a spolehlivÃ¡. Å½Ã¡dnÃ½ zlodÄ›j se zdravÃ½m rozumem se tÄ› nepokusÃ­ okrÃ¡st, kdyÅ¾ mu s nÃ­ zamÃ¡vÃ¡Å¡ pÅ™ed nosem. A stÃ¡l by tÄ› pouze }
+{111}{}{Tento malÃ½ skvost je vskutku jedineÄnÃ½. Z dalekÃ½ch konÄin... jenom s tÃ­m takhle zamÃ­Å™Ã­Å¡... podÃ­vej, jÃ¡ nevÃ­m co to sakra je. ChceÅ¡ to nebo ne? StojÃ­ }
+{112}{}{Tenhle malÃ½ Å¡vihÃ¡k jenom kÅ™iÄÃ­. "NezahrÃ¡vej si se mnou!" Jenom pouhÃ½ pohled zaÅ¾ene tvÃ© nepÅ™Ã¡tele. SkvÄ›lÃ¡ koupÄ› za }
+{113}{}{VidÃ­m, Å¾e jsi typ, kterÃ½ si to s tou chÃ¡trou rÃ¡d vyÅ™izuje pÄ›knÄ› osobnÄ› a zblÃ­zka. A tahle parÃ¡dnÃ­ vÄ›ciÄka je pÅ™esnÄ› to, co potÅ™ebujeÅ¡. MÅ¯Å¾eÅ¡ ji mÃ­t za }
 {114}{}{To beru.}
-{115}{}{Nemám zájem.}
-{116}{}{Nebudeš toho litovat. Dobøe se mi s tebou obchodovalo. Mìj se.}
+{115}{}{NemÃ¡m zÃ¡jem.}
+{116}{}{NebudeÅ¡ toho litovat. DobÅ™e se mi s tebou obchodovalo. MÄ›j se.}
 {117}{}{[Konec]}
-{118}{}{Do prdele! Taková ztráta èasu. No tak, vypadni!}
+{118}{}{Do prdele! TakovÃ¡ ztrÃ¡ta Äasu. No tak, vypadni!}
 {119}{}{[Konec]}
-{120}{}{No, to byla ale ztráta èasu. $}
+{120}{}{No, to byla ale ztrÃ¡ta Äasu. $}
 {121}{}{Jo.}
 {122}{}{Ne.}
-{123}{}{Nazdar, rád tì zase vidím. Mám nìjaké nové zboí. Máš zájem?}
-{124}{}{Jasnì. Poslechnu si co máš.}
-{125}{}{V ádném pøípadì, Willy.}
+{123}{}{Nazdar, rÃ¡d tÄ› zase vidÃ­m. MÃ¡m nÄ›jakÃ© novÃ© zboÅ¾Ã­. MÃ¡Å¡ zÃ¡jem?}
+{124}{}{JasnÄ›. Poslechnu si co mÃ¡Å¡.}
+{125}{}{V Å¾Ã¡dnÃ©m pÅ™Ã­padÄ›, Willy.}
 {126}{}{Jo.}
 {127}{}{Ne.}
-{128}{}{Tak vypadni! Mám práci.}
-{129}{}{Pøijï, a budeš mít nìjaké peníze.}
-{130}{}{BÌ PRYÈ!}
-{131}{}{ádné vracení penìz.}
-{132}{}{ádná vımìna.}
-{133}{}{ádnı úvìr.}
-{134}{}{Zmiz, mám práci.}
-{135}{}{To nebylo moc chytré.}
+{128}{}{Tak vypadni! MÃ¡m prÃ¡ci.}
+{129}{}{PÅ™ijÄ, aÅ¾ budeÅ¡ mÃ­t nÄ›jakÃ© penÃ­ze.}
+{130}{}{BÄšÅ½ PRYÄŒ!}
+{131}{}{Å½Ã¡dnÃ© vracenÃ­ penÄ›z.}
+{132}{}{Å½Ã¡dnÃ¡ vÃ½mÄ›na.}
+{133}{}{Å½Ã¡dnÃ½ ÃºvÄ›r.}
+{134}{}{Zmiz, mÃ¡m prÃ¡ci.}
+{135}{}{To nebylo moc chytrÃ©.}
 {136}{}{Bastarde!}
-{137}{}{To mì má pøinutit sníit cenu?}
-{138}{}{Dobøe, sníím cenu.}
+{137}{}{To mÄ› mÃ¡ pÅ™inutit snÃ­Å¾it cenu?}
+{138}{}{DobÅ™e, snÃ­Å¾Ã­m cenu.}
 {139}{}{Co takhle 20% sleva?}
 {140}{}{Co takhle 40% sleva?}
 {141}{}{Co takhle 80% sleva?}
-{142}{}{Dobøe, ZADARMO. Tady, vezmi si to!}
+{142}{}{DobÅ™e, ZADARMO. Tady, vezmi si to!}
 {143}{}{Willy}
 {144}{}{George}
 {145}{}{Mike}
@@ -51,5 +51,5 @@
 {149}{}{Mick}
 {150}{}{Smitty}
 {151}{}{Jack}
-{152}{}{. Máš zájem nebo ne?}
+{152}{}{. MÃ¡Å¡ zÃ¡jem nebo ne?}
 {200}{}{.}

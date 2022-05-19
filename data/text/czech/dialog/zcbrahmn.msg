@@ -1,12 +1,12 @@
-{100}{}{Vidíš bìnou domestikovanou brahmínu.}
-{101}{}{Dùvod, proè má brahmína dvì hlavy, je ten, e kdysi dávno byl tvor, kterému øíkali kráva, vystaven radiaci.}
-{102}{}{Nevidíš na této brahmínì nic zvláštního.}
-{103}{}{Brahmíny toho moc nenamluví.}
-{104}{}{To nemáš nic jiného na práci, ne tu tvrdnout a kecat s dvouhlavou krávou?}
-{105}{}{Je to brahmína. Má dvì hlavy.}
-{201}{}{Bùù...}
-{202}{}{Bùù Bùù Bùù...}
-{203}{}{Bùù...}
-{204}{}{Bùùùùù...}
-{205}{}{Bùùùùùùùù...}
+{100}{}{VidÃ­Å¡ bÄ›Å¾nou domestikovanou brahmÃ­nu.}
+{101}{}{DÅ¯vod, proÄ mÃ¡ brahmÃ­na dvÄ› hlavy, je ten, Å¾e kdysi dÃ¡vno byl tvor, kterÃ©mu Å™Ã­kali krÃ¡va, vystaven radiaci.}
+{102}{}{NevidÃ­Å¡ na tÃ©to brahmÃ­nÄ› nic zvlÃ¡Å¡tnÃ­ho.}
+{103}{}{BrahmÃ­ny toho moc nenamluvÃ­.}
+{104}{}{To nemÃ¡Å¡ nic jinÃ©ho na prÃ¡ci, neÅ¾ tu tvrdnout a kecat s dvouhlavou krÃ¡vou?}
+{105}{}{Je to brahmÃ­na. MÃ¡ dvÄ› hlavy.}
+{201}{}{BÅ¯Å¯...}
+{202}{}{BÅ¯Å¯ BÅ¯Å¯ BÅ¯Å¯...}
+{203}{}{BÅ¯Å¯...}
+{204}{}{BÅ¯Å¯Å¯Å¯Å¯...}
+{205}{}{BÅ¯Å¯Å¯Å¯Å¯Å¯Å¯Å¯...}
 {206}{}{:: PRD ::}

@@ -1,4 +1,4 @@
-{100}{}{Vidíš velkého krtèího potkana.}
-{101}{}{Nevypadá to, e by tvá pøítomnost krtèího potkana nìjak vzrušovala.}
-{102}{}{Krtèí potkan vypadá velmi naštvanì.}
-{200}{}{Vyhubil jsi krtèí potkany.}
+{100}{}{VidÃ­Å¡ velkÃ©ho krtÄÃ­ho potkana.}
+{101}{}{NevypadÃ¡ to, Å¾e by tvÃ¡ pÅ™Ã­tomnost krtÄÃ­ho potkana nÄ›jak vzruÅ¡ovala.}
+{102}{}{KrtÄÃ­ potkan vypadÃ¡ velmi naÅ¡tvanÄ›.}
+{200}{}{Vyhubil jsi krtÄÃ­ potkany.}

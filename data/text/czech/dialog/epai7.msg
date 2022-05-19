@@ -1,6 +1,6 @@
-{100}{}{Zaznamenán nepovolenı pøístup. Zamykám dveøe.}
-{101}{}{Pøístup povolen. Odemykám dveøe.}
-{102}{}{Dveøe jsou ji odemèeny.}
-{103}{}{Vidíš dveøe do bezpeènostního køídla.}
-{104}{}{Vidíš vyztuené dveøe do bezpeènostního køídla.}
-{200}{}{Tyto dveøe nemají zámek, kterı by se dal vypáèit.}
+{100}{}{ZaznamenÃ¡n nepovolenÃ½ pÅ™Ã­stup. ZamykÃ¡m dveÅ™e.}
+{101}{}{PÅ™Ã­stup povolen. OdemykÃ¡m dveÅ™e.}
+{102}{}{DveÅ™e jsou jiÅ¾ odemÄeny.}
+{103}{}{VidÃ­Å¡ dveÅ™e do bezpeÄnostnÃ­ho kÅ™Ã­dla.}
+{104}{}{VidÃ­Å¡ vyztuÅ¾enÃ© dveÅ™e do bezpeÄnostnÃ­ho kÅ™Ã­dla.}
+{200}{}{Tyto dveÅ™e nemajÃ­ zÃ¡mek, kterÃ½ by se dal vypÃ¡Äit.}

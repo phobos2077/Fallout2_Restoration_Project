@@ -1,8 +1,8 @@
-{100}{}{Vidíš stráce Shi. Vypadá nesvùj.}
-{101}{}{Strácovy oèi nervóznì šmejdí kolem.}
-{200}{}{Toto místo je posvátné. Dìsivé, ale posvátné.}
-{201}{}{Pojïme, a to máme za sebou.}
-{202}{}{Duchové mıch pøedkù jsou mezi námi. Cítím to.}
+{100}{}{VidÃ­Å¡ strÃ¡Å¾ce Shi. VypadÃ¡ nesvÅ¯j.}
+{101}{}{StrÃ¡Å¾covy oÄi nervÃ³znÄ› Å¡mejdÃ­ kolem.}
+{200}{}{Toto mÃ­sto je posvÃ¡tnÃ©. DÄ›sivÃ©, ale posvÃ¡tnÃ©.}
+{201}{}{PojÄme, aÅ¥ to mÃ¡me za sebou.}
+{202}{}{DuchovÃ© mÃ½ch pÅ™edkÅ¯ jsou mezi nÃ¡mi. CÃ­tÃ­m to.}
 {203}{}{Go do your tech thing so we can return to the mainland.}
-{204}{}{Slyšel jsi to? Pøísahám, e jsem nìco slyšel.}
-{205}{}{Proè vdycky vyfásnu tohle? }
+{204}{}{SlyÅ¡el jsi to? PÅ™Ã­sahÃ¡m, Å¾e jsem nÄ›co slyÅ¡el.}
+{205}{}{ProÄ vÅ¾dycky vyfÃ¡snu tohle? }

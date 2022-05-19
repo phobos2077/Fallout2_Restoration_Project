@@ -1,22 +1,22 @@
-{100}{}{Vidíš farmáøe.}
-{101}{}{Vidíš zdravì vypadajícího rolníka.}
-{102}{}{Vidíš osobu.}
-{103}{}{Poslední dobou jsi trochu chlastal, co?}
-{104}{}{Dej na chvíli ruce pryè od alkoholu.}
-{105}{}{Vidím, e jsi mìl Hankùv "speciální" mix.}
-{106}{}{Vítej, hrdino!}
-{107}{}{Opravdu jsi to tìm enklávskım bastardùm ukázal!}
-{108}{}{Jsi opravdovı hrdina!}
-{109}{}{Slyšel jsem, e jsi znièil Enklávu. Skvìlá práce!}
+{100}{}{VidÃ­Å¡ farmÃ¡Å™e.}
+{101}{}{VidÃ­Å¡ zdravÄ› vypadajÃ­cÃ­ho rolnÃ­ka.}
+{102}{}{VidÃ­Å¡ osobu.}
+{103}{}{PoslednÃ­ dobou jsi trochu chlastal, co?}
+{104}{}{Dej na chvÃ­li ruce pryÄ od alkoholu.}
+{105}{}{VidÃ­m, Å¾e jsi mÄ›l HankÅ¯v "speciÃ¡lnÃ­" mix.}
+{106}{}{VÃ­tej, hrdino!}
+{107}{}{Opravdu jsi to tÄ›m enklÃ¡vskÃ½m bastardÅ¯m ukÃ¡zal!}
+{108}{}{Jsi opravdovÃ½ hrdina!}
+{109}{}{SlyÅ¡el jsem, Å¾e jsi zniÄil EnklÃ¡vu. SkvÄ›lÃ¡ prÃ¡ce!}
 {110}{}{Ahoj.}
-{111}{}{Doufám, e zaène brzy pršet, jinak moje úroda nepøeije.}
-{112}{}{Nemáme tu moc návštìvníkù.}
-{113}{}{Vítej!}
-{114}{}{Jo, já vím. Je tu pìkná nuda, ale alespoò jsme tu v bezpeèí od nájezdníkù a tak...}
+{111}{}{DoufÃ¡m, Å¾e zaÄne brzy prÅ¡et, jinak moje Ãºroda nepÅ™eÅ¾ije.}
+{112}{}{NemÃ¡me tu moc nÃ¡vÅ¡tÄ›vnÃ­kÅ¯.}
+{113}{}{VÃ­tej!}
+{114}{}{Jo, jÃ¡ vÃ­m. Je tu pÄ›knÃ¡ nuda, ale alespoÅˆ jsme tu v bezpeÄÃ­ od nÃ¡jezdnÃ­kÅ¯ a tak...}
 {115}{}{Ahoj, divochu.}
 {116}{}{Dneska je opravdu horko!}
-{117}{}{Je tu úrodná pùda...}
-{118}{}{Hezkı den.}
-{119}{}{Vítej v Opatství, poutníku!}
-{120}{}{Náš klášter je pùsobivı, e ano?}
-{200}{}{Dej ze mì ty pracky pryè!}
+{117}{}{Je tu ÃºrodnÃ¡ pÅ¯da...}
+{118}{}{HezkÃ½ den.}
+{119}{}{VÃ­tej v OpatstvÃ­, poutnÃ­ku!}
+{120}{}{NÃ¡Å¡ klÃ¡Å¡ter je pÅ¯sobivÃ½, Å¾e ano?}
+{200}{}{Dej ze mÄ› ty pracky pryÄ!}

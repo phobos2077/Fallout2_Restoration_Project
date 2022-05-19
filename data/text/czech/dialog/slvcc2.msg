@@ -1,42 +1,42 @@
-{100}{}{Vidíš otrokáøe.}
-{101}{}{Tenhle otrokáø vypadá jako pìknì drsnı chlápek.}
-{102}{}{Tahle otrokáøka vypadá jako pìknì drsná enská.}
-{200}{}{Tady jseš!}
-{201}{}{Teï chcípneš.}
-{202}{}{Do prdele, Rangeøi! Èas nakopat nìkomu prdel.}
-{300}{}{Hledáš nìco?}
-{301}{}{Tady šéfuje Don. Promluv si s ním.}
-{302}{}{Tohle je soukromej majetek. Nemùeš se tady jen tak procházet.}
-{303}{}{Není moc en otrokáøek.}
-{304}{}{Jsme rádi, e jseš s náma.}
+{100}{}{VidÃ­Å¡ otrokÃ¡Å™e.}
+{101}{}{Tenhle otrokÃ¡Å™ vypadÃ¡ jako pÄ›knÄ› drsnÃ½ chlÃ¡pek.}
+{102}{}{Tahle otrokÃ¡Å™ka vypadÃ¡ jako pÄ›knÄ› drsnÃ¡ Å¾enskÃ¡.}
+{200}{}{Tady jseÅ¡!}
+{201}{}{TeÄ chcÃ­pneÅ¡.}
+{202}{}{Do prdele, RangeÅ™i! ÄŒas nakopat nÄ›komu prdel.}
+{300}{}{HledÃ¡Å¡ nÄ›co?}
+{301}{}{Tady Å¡Ã©fuje Don. Promluv si s nÃ­m.}
+{302}{}{Tohle je soukromej majetek. NemÅ¯Å¾eÅ¡ se tady jen tak prochÃ¡zet.}
+{303}{}{NenÃ­ moc Å¾en otrokÃ¡Å™ek.}
+{304}{}{Jsme rÃ¡di, Å¾e jseÅ¡ s nÃ¡ma.}
 {305}{}{Ahoj. Jak to jde?}
-{306}{}{U jsi nìkdy zmlátil otroka?}
+{306}{}{UÅ¾ jsi nÄ›kdy zmlÃ¡til otroka?}
 {307}{}{Ahoj.}
-{308}{}{Chystáš se na další hon?}
-{309}{}{Nic moc se nedìje.}
-{310}{}{Kdy se koneènì doèkám nìjakı akce?}
-{311}{}{Svazování otrokù mi vdycky vykouzlí úsmìv na tváøi.}
-{312}{}{Hony otrokù jsou bomba.}
-{313}{}{Nazdar. Jsem fakt rád, e jseš s náma.}
-{400}{}{Zadr. Kam si sakra myslíš, e jdeš?}
-{401}{}{Posílá mì Metzger. Potøebuju mluvit s nìkım, kdo tady velí.}
-{402}{}{Mám pár otrokù, o které byste mohli mít zájem.}
-{403}{}{Zavolali mì kvùli nìjakému problému se škùdci. Jmenovitì s vámi všemi.}
-{404}{}{(Zrudnou mu oèi.) Vyjebáváš se špatnou partou. HEJ HOŠI, MÁME TU VETØELCE!}
-{405}{}{(Prohlédne si tvé paráky.) Moná bysme o nìco zájem mìli. Jdi dovnitø a promluv si s Donem.}
-{406}{}{Není ještì brzo na další dodávku? Co Metzger potøebuje?}
-{407}{}{Potøebuje nìkolik zdravıch otrokù. Konkrétnì nìného pohlaví, jestli mi rozumíš.}
-{408}{}{Hehe. Jasnì, e jo. No, tak jdi dovnitø a promluv si s Donem. Jsem si jistej, e ví, co šéf potøebuje.}
-{409}{}{Eh... no, on eh, øekl, e potøebuje víc otrokù.}
-{410}{}{Víc otrokù? Vdy dostal pøed tejdnem velkou dodávku. Podle mì kecáš a na to já nemám èas. Odejdi, nebo skonèíš s kulkou v hlavì.}
-{411}{}{Odcházím.}
-{412}{}{Myslím, e ještì chvíli zùstanu a zabiju tì.}
-{500}{}{Eh... no... posílá mì šéf.}
-{501}{}{Tak "šéf", jo? Tak se mi zdá, e pìknì kecáš. Vypadá to, e tu máme vetøelce.}
-{502}{}{Poslouchej, jsem tu na pøíkaz šéfa. A víš, jak se vdycky naštve, kdy ho necháme èekat.}
-{503}{}{Posílá tì Metzger, jo? Ty vole, obèas dokáe pìknì prudit. Ale, eh, (Nervóznì se rozhlédne.) neøíkej nikomu, e jsem to øíkal.}
-{504}{}{Jo, posílá mì Metzger. A teï potøebuju mluvit s nìkım, kdo tady velí.}
-{599}{}{Ještì jednou na to sáhni a chcípneš.}
-{600}{}{Varoval jsem tì, kreténe!}
+{308}{}{ChystÃ¡Å¡ se na dalÅ¡Ã­ hon?}
+{309}{}{Nic moc se nedÄ›je.}
+{310}{}{Kdy se koneÄnÄ› doÄkÃ¡m nÄ›jakÃ½ akce?}
+{311}{}{SvazovÃ¡nÃ­ otrokÅ¯ mi vÅ¾dycky vykouzlÃ­ ÃºsmÄ›v na tvÃ¡Å™i.}
+{312}{}{Hony otrokÅ¯ jsou bomba.}
+{313}{}{Nazdar. Jsem fakt rÃ¡d, Å¾e jseÅ¡ s nÃ¡ma.}
+{400}{}{ZadrÅ¾. Kam si sakra myslÃ­Å¡, Å¾e jdeÅ¡?}
+{401}{}{PosÃ­lÃ¡ mÄ› Metzger. PotÅ™ebuju mluvit s nÄ›kÃ½m, kdo tady velÃ­.}
+{402}{}{MÃ¡m pÃ¡r otrokÅ¯, o kterÃ© byste mohli mÃ­t zÃ¡jem.}
+{403}{}{Zavolali mÄ› kvÅ¯li nÄ›jakÃ©mu problÃ©mu se Å¡kÅ¯dci. JmenovitÄ› s vÃ¡mi vÅ¡emi.}
+{404}{}{(Zrudnou mu oÄi.) VyjebÃ¡vÃ¡Å¡ se Å¡patnou partou. HEJ HOÅ I, MÃME TU VETÅ˜ELCE!}
+{405}{}{(ProhlÃ©dne si tvÃ© parÅ¥Ã¡ky.) MoÅ¾nÃ¡ bysme o nÄ›co zÃ¡jem mÄ›li. Jdi dovnitÅ™ a promluv si s Donem.}
+{406}{}{NenÃ­ jeÅ¡tÄ› brzo na dalÅ¡Ã­ dodÃ¡vku? Co Metzger potÅ™ebuje?}
+{407}{}{PotÅ™ebuje nÄ›kolik zdravÃ½ch otrokÅ¯. KonkrÃ©tnÄ› nÄ›Å¾nÃ©ho pohlavÃ­, jestli mi rozumÃ­Å¡.}
+{408}{}{Hehe. JasnÄ›, Å¾e jo. No, tak jdi dovnitÅ™ a promluv si s Donem. Jsem si jistej, Å¾e vÃ­, co Å¡Ã©f potÅ™ebuje.}
+{409}{}{Eh... no, on eh, Å™ekl, Å¾e potÅ™ebuje vÃ­c otrokÅ¯.}
+{410}{}{VÃ­c otrokÅ¯? VÅ¾dyÅ¥ dostal pÅ™ed tejdnem velkou dodÃ¡vku. Podle mÄ› kecÃ¡Å¡ a na to jÃ¡ nemÃ¡m Äas. Odejdi, nebo skonÄÃ­Å¡ s kulkou v hlavÄ›.}
+{411}{}{OdchÃ¡zÃ­m.}
+{412}{}{MyslÃ­m, Å¾e jeÅ¡tÄ› chvÃ­li zÅ¯stanu a zabiju tÄ›.}
+{500}{}{Eh... no... posÃ­lÃ¡ mÄ› Å¡Ã©f.}
+{501}{}{Tak "Å¡Ã©f", jo? Tak se mi zdÃ¡, Å¾e pÄ›knÄ› kecÃ¡Å¡. VypadÃ¡ to, Å¾e tu mÃ¡me vetÅ™elce.}
+{502}{}{Poslouchej, jsem tu na pÅ™Ã­kaz Å¡Ã©fa. A vÃ­Å¡, jak se vÅ¾dycky naÅ¡tve, kdyÅ¾ ho nechÃ¡me Äekat.}
+{503}{}{PosÃ­lÃ¡ tÄ› Metzger, jo? Ty vole, obÄas dokÃ¡Å¾e pÄ›knÄ› prudit. Ale, eh, (NervÃ³znÄ› se rozhlÃ©dne.) neÅ™Ã­kej nikomu, Å¾e jsem to Å™Ã­kal.}
+{504}{}{Jo, posÃ­lÃ¡ mÄ› Metzger. A teÄ potÅ™ebuju mluvit s nÄ›kÃ½m, kdo tady velÃ­.}
+{599}{}{JeÅ¡tÄ› jednou na to sÃ¡hni a chcÃ­pneÅ¡.}
+{600}{}{Varoval jsem tÄ›, kretÃ©ne!}
 {800}{}{[KONEC]}
-{900}{}{No kur...!? Rangeøi! Do prdele, jak nás našli? Tak jo, èas nakopat nìkomu prdel!}
+{900}{}{No kur...!? RangeÅ™i! Do prdele, jak nÃ¡s naÅ¡li? Tak jo, Äas nakopat nÄ›komu prdel!}

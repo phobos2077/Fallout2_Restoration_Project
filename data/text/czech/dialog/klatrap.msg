@@ -1,1 +1,1 @@
-{100}{}{Nacházíš se v zalesnìné oblasti.}
+{100}{}{NachÃ¡zÃ­Å¡ se v zalesnÄ›nÃ© oblasti.}

@@ -1,82 +1,82 @@
-{100}{}{Vidíš štíhlého mladíka s brılemi.}
-{101}{}{Vidíš Gunthera, poboèníka prezidentky Tandi. Alespoò je to tak napsáno na dveøích.}
-{102}{}{Vypadá úøednì a zaneprázdnìnì. Je to takovı ten typ zarputilého byrokrata, kterého všichni ostatní nenávidí.}
-{103}{}{Mohu vám nìjak pomoci?}
+{100}{}{VidÃ­Å¡ Å¡tÃ­hlÃ©ho mladÃ­ka s brÃ½lemi.}
+{101}{}{VidÃ­Å¡ Gunthera, poboÄnÃ­ka prezidentky Tandi. AlespoÅˆ je to tak napsÃ¡no na dveÅ™Ã­ch.}
+{102}{}{VypadÃ¡ ÃºÅ™ednÄ› a zaneprÃ¡zdnÄ›nÄ›. Je to takovÃ½ ten typ zarputilÃ©ho byrokrata, kterÃ©ho vÅ¡ichni ostatnÃ­ nenÃ¡vidÃ­.}
+{103}{}{Mohu vÃ¡m nÄ›jak pomoci?}
 {104}{}{Zase vy?}
-{105}{}{Ehhhh - práce. Práce Tandi.}
+{105}{}{Ehhhh - prÃ¡ce. PrÃ¡ce Tandi.}
 {106}{}{Kdo jsi?}
-{107}{}{Chci mluvit s prezidentkou Tandi ohlednì práce.}
-{108}{}{Promiòte, špatné dveøe.}
-{109}{}{Vy chcete práci?}
+{107}{}{Chci mluvit s prezidentkou Tandi ohlednÄ› prÃ¡ce.}
+{108}{}{PromiÅˆte, Å¡patnÃ© dveÅ™e.}
+{109}{}{Vy chcete prÃ¡ci?}
 {110}{}{Zkusme to znovu. Vy pomoci Tandi? Vy pracovat pro Tandi?}
 {111}{}{Anoanoanoano!}
-{112}{}{Tandi práce. Já chtít.}
-{113}{}{Co ty dìlat?}
-{114}{}{Ehhhh... já zabíjet. Já zabíjet velká vìci!}
-{115}{}{Ehhhh... já chytrı. Starší øíkat já mít mozek z dítì. Já mít 2 mozek. Já chytrı.}
-{116}{}{Nemùete mít práci prezidentky!}
+{112}{}{Tandi prÃ¡ce. JÃ¡ chtÃ­t.}
+{113}{}{Co ty dÄ›lat?}
+{114}{}{Ehhhh... jÃ¡ zabÃ­jet. JÃ¡ zabÃ­jet velkÃ¡ vÄ›ci!}
+{115}{}{Ehhhh... jÃ¡ chytrÃ½. StarÅ¡Ã­ Å™Ã­kat jÃ¡ mÃ­t mozek z dÃ­tÄ›. JÃ¡ mÃ­t 2 mozek. JÃ¡ chytrÃ½.}
+{116}{}{NemÅ¯Å¾ete mÃ­t prÃ¡ci prezidentky!}
 {117}{}{Ne?}
-{118}{}{Aha. Dobøe.}
-{119}{}{Aha. Nejsem si tak úplnì jistı, e hledá právì nìkoho takového. Nicménì mi øekla, e mám všechny poslat dál, take ty jít. Mluvit s Tandi teï.}
-{120}{}{NE! Ty blbec. Prezident muset bıt chytrı, mluvit ve víc slabika slovo! Ty ne prezident.}
-{121}{}{Och. Co já dìlat?}
-{122}{}{Já nelíbit ty. Ty køièet. Zlá chlap.}
-{123}{}{Jmenuji se Gunther a jsem osobní asistent prezidentky Tandi. Co pro vás mohu udìlat?}
-{124}{}{Hledám Vault 13.}
-{125}{}{Hledám GECK.}
-{126}{}{Prı paní prezidentka potøebuje nìkoho na jednu speciální práci.}
-{127}{}{Paní prezidentka u nadále neposkytuje rozhovory na téma Vault 13. Je mi líto. Je pøíliš zamìstnána na to, aby pøijímala všechny prospektory, kteøí sem zavítají.}
-{128}{}{Coe? Tomu nerozumím.}
+{118}{}{Aha. DobÅ™e.}
+{119}{}{Aha. Nejsem si tak ÃºplnÄ› jistÃ½, Å¾e hledÃ¡ prÃ¡vÄ› nÄ›koho takovÃ©ho. NicmÃ©nÄ› mi Å™ekla, Å¾e mÃ¡m vÅ¡echny poslat dÃ¡l, takÅ¾e ty jÃ­t. Mluvit s Tandi teÄ.}
+{120}{}{NE! Ty blbec. Prezident muset bÃ½t chytrÃ½, mluvit ve vÃ­c slabika slovo! Ty ne prezident.}
+{121}{}{Och. Co jÃ¡ dÄ›lat?}
+{122}{}{JÃ¡ nelÃ­bit ty. Ty kÅ™iÄet. ZlÃ¡ chlap.}
+{123}{}{Jmenuji se Gunther a jsem osobnÃ­ asistent prezidentky Tandi. Co pro vÃ¡s mohu udÄ›lat?}
+{124}{}{HledÃ¡m Vault 13.}
+{125}{}{HledÃ¡m GECK.}
+{126}{}{PrÃ½ panÃ­ prezidentka potÅ™ebuje nÄ›koho na jednu speciÃ¡lnÃ­ prÃ¡ci.}
+{127}{}{PanÃ­ prezidentka uÅ¾ nadÃ¡le neposkytuje rozhovory na tÃ©ma Vault 13. Je mi lÃ­to. Je pÅ™Ã­liÅ¡ zamÄ›stnÃ¡na na to, aby pÅ™ijÃ­mala vÅ¡echny prospektory, kteÅ™Ã­ sem zavÃ­tajÃ­.}
+{128}{}{CoÅ¾e? Tomu nerozumÃ­m.}
 {129}{}{What about a GECK? She might know something about that?}
-{130}{}{Prı nabízí nìjakou práci.}
-{131}{}{Jste k nièemu. Odcházím.}
-{132}{}{V tom pøípadì vám doporuèuji pøeèíst si ceduli venku. Pøeji hezkı den.}
-{133}{}{Nechápu, o èem to mluvíte. Máte nìjakou opravdovou otázku?}
-{134}{}{Hledám Vault 13.}
-{135}{}{Prı paní prezidentka potøebuje nìkoho na jednu speciální práci.}
-{136}{}{Zapomeò na to.}
-{137}{}{Ach ano, mám pokyny pustit dál kadého, kdo se na to zeptá. Mùete vejít. Jsou to ty dveøe po mé pravici.}
-{138}{}{Paní prezidentka u s vámi skonèila? Jak to šlo?}
-{139}{}{Dobøe. Já pápá.}
-{140}{}{Fajn. Odcházím.}
-{141}{}{Pøinášíte nìjaké nové zprávy ohlednì té záleitosti s Vaultem 15?}
+{130}{}{PrÃ½ nabÃ­zÃ­ nÄ›jakou prÃ¡ci.}
+{131}{}{Jste k niÄemu. OdchÃ¡zÃ­m.}
+{132}{}{V tom pÅ™Ã­padÄ› vÃ¡m doporuÄuji pÅ™eÄÃ­st si ceduli venku. PÅ™eji hezkÃ½ den.}
+{133}{}{NechÃ¡pu, o Äem to mluvÃ­te. MÃ¡te nÄ›jakou opravdovou otÃ¡zku?}
+{134}{}{HledÃ¡m Vault 13.}
+{135}{}{PrÃ½ panÃ­ prezidentka potÅ™ebuje nÄ›koho na jednu speciÃ¡lnÃ­ prÃ¡ci.}
+{136}{}{ZapomeÅˆ na to.}
+{137}{}{Ach ano, mÃ¡m pokyny pustit dÃ¡l kaÅ¾dÃ©ho, kdo se na to zeptÃ¡. MÅ¯Å¾ete vejÃ­t. Jsou to ty dveÅ™e po mÃ© pravici.}
+{138}{}{PanÃ­ prezidentka uÅ¾ s vÃ¡mi skonÄila? Jak to Å¡lo?}
+{139}{}{DobÅ™e. JÃ¡ pÃ¡pÃ¡.}
+{140}{}{Fajn. OdchÃ¡zÃ­m.}
+{141}{}{PÅ™inÃ¡Å¡Ã­te nÄ›jakÃ© novÃ© zprÃ¡vy ohlednÄ› tÃ© zÃ¡leÅ¾itosti s Vaultem 15?}
 {142}{}{Ano.}
 {143}{}{Ne.}
-{144}{}{Je mi líto, ale paní prezidentka je velmi zaneprázdnìna. Pøijïte, a dokonèíte svoji práci.}
-{145}{}{Dobøe.}
-{146}{}{Vıbornì! Pustím vás dál.}
-{147}{}{Ty bastarde! Stráe! Lupiè! Vrah!}
-{148}{}{Jste zpátky brzy! Co potøebujete?}
-{149}{}{Od-mì-na.}
-{150}{}{Prezidentka mi øekla, e se mám u vás zastavit pro odmìnu.}
+{144}{}{Je mi lÃ­to, ale panÃ­ prezidentka je velmi zaneprÃ¡zdnÄ›na. PÅ™ijÄte, aÅ¾ dokonÄÃ­te svoji prÃ¡ci.}
+{145}{}{DobÅ™e.}
+{146}{}{VÃ½bornÄ›! PustÃ­m vÃ¡s dÃ¡l.}
+{147}{}{Ty bastarde! StrÃ¡Å¾e! LupiÄ! Vrah!}
+{148}{}{Jste zpÃ¡tky brzy! Co potÅ™ebujete?}
+{149}{}{Od-mÄ›-na.}
+{150}{}{Prezidentka mi Å™ekla, Å¾e se mÃ¡m u vÃ¡s zastavit pro odmÄ›nu.}
 {151}{}{Pra-chy.}
-{152}{}{Jdu si pro svoji odmìnu.}
-{153}{}{Vaše prezidentka mi øekla, e byste mìl vìdìt, e máte ve své kanceláøi špióna. Nìkoho jménem Feargus.}
+{152}{}{Jdu si pro svoji odmÄ›nu.}
+{153}{}{VaÅ¡e prezidentka mi Å™ekla, Å¾e byste mÄ›l vÄ›dÄ›t, Å¾e mÃ¡te ve svÃ© kancelÃ¡Å™i Å¡piÃ³na. NÄ›koho jmÃ©nem Feargus.}
 {154}{}{No nic.}
-{155}{}{Samozøejmì, právì mi o tom øekla. Øekla odmìna $6000 a podìkování od NCR. A teï mám práci, take sbohem.}
-{156}{}{Take smlouva øíká $500. Tady jsou.}
-{157}{}{Ve skuteènosti mi øekla, e mám tu èástku zmìnit. Vypadá to, e dostanete bonus. Tady je $900 a navíc podìkování od NCR. A teï mám práci, take sbohem.}
-{158}{}{Vaše prezidentka mi øekla, e byste mìl vìdìt, e máte ve své kanceláøi špióna. Nìkoho jménem Feargus.}
+{155}{}{SamozÅ™ejmÄ›, prÃ¡vÄ› mi o tom Å™ekla. Å˜ekla odmÄ›na $6000 a podÄ›kovÃ¡nÃ­ od NCR. A teÄ mÃ¡m prÃ¡ci, takÅ¾e sbohem.}
+{156}{}{TakÅ¾e smlouva Å™Ã­kÃ¡ $500. Tady jsou.}
+{157}{}{Ve skuteÄnosti mi Å™ekla, Å¾e mÃ¡m tu ÄÃ¡stku zmÄ›nit. VypadÃ¡ to, Å¾e dostanete bonus. Tady je $900 a navÃ­c podÄ›kovÃ¡nÃ­ od NCR. A teÄ mÃ¡m prÃ¡ci, takÅ¾e sbohem.}
+{158}{}{VaÅ¡e prezidentka mi Å™ekla, Å¾e byste mÄ›l vÄ›dÄ›t, Å¾e mÃ¡te ve svÃ© kancelÃ¡Å™i Å¡piÃ³na. NÄ›koho jmÃ©nem Feargus.}
 {159}{}{Sbohem.}
-{160}{}{Feargus? Tomu nevìøím!}
-{161}{}{Tak se podívejte na tenhle disk.}
-{162}{}{Jak myslíte. Odcházím.}
-{163}{}{K èertu. To vypadá vìrohodnì. Postaráme se o to. Tady máte $4000 za informaci.}
-{164}{}{Neberu krvavé peníze. Odcházím.}
-{165}{}{Díky. Pøeju hezkı den.}
-{166}{}{Á, to jste vy. Poslyšte, teï není zrovna vhodná doba na návštìvu. Vlastnì si myslím, e by byla paní prezidentka radìji, kdybyste se u do nièeho nepletl. Dìkuji vám a pøeji hezkı den.}
-{167}{}{Asi jsem se nevyjádøil dost jasnì. Prezidentka vás nepøijme - teï ani nikdy jindy. Odmìnu jsem vám u dal, take teï prosím odejdìte.}
-{171}{}{Já jít.}
-{172}{}{Vùbec nic.}
-{173}{}{Ty dìvko! Stráe! Lupiè! Vrah!}
-{174}{}{Byl jsem ve Vaultu 15 a musím si o tom promluvit s vaším šéfem.}
-{175}{}{Já potøebovat mluvit o Vault 15.}
-{176}{}{Mìl byste vìdìt, e máte v kanceláøi špióna. Nìkoho se jménem zaèínajícím na F.}
-{177}{}{Já taky našla špión. Ferrrgus.}
-{178}{}{Já nelhat. Dívala se. [Podat mu disk]}
-{179}{}{Dìkuju!}
-{500}{}{Ty dveøe nejsou zamèené jen tak pro nic za nic.}
-{501}{}{Musím vás poádat, abyste odešel.}
-{502}{}{Tohle je poslední varování. Odejdìte, nebo vás nechám vyvést.}
-{503}{}{Ochranka, vykopnìte toho otravu.}
-{510}{}{Tak moment. Chci se vašeho šéfa ještì zeptat na nìco ohlednì Vaultu 15.}
+{160}{}{Feargus? Tomu nevÄ›Å™Ã­m!}
+{161}{}{Tak se podÃ­vejte na tenhle disk.}
+{162}{}{Jak myslÃ­te. OdchÃ¡zÃ­m.}
+{163}{}{K Äertu. To vypadÃ¡ vÄ›rohodnÄ›. PostarÃ¡me se o to. Tady mÃ¡te $4000 za informaci.}
+{164}{}{Neberu krvavÃ© penÃ­ze. OdchÃ¡zÃ­m.}
+{165}{}{DÃ­ky. PÅ™eju hezkÃ½ den.}
+{166}{}{Ã, to jste vy. PoslyÅ¡te, teÄ nenÃ­ zrovna vhodnÃ¡ doba na nÃ¡vÅ¡tÄ›vu. VlastnÄ› si myslÃ­m, Å¾e by byla panÃ­ prezidentka radÄ›ji, kdybyste se uÅ¾ do niÄeho nepletl. DÄ›kuji vÃ¡m a pÅ™eji hezkÃ½ den.}
+{167}{}{Asi jsem se nevyjÃ¡dÅ™il dost jasnÄ›. Prezidentka vÃ¡s nepÅ™ijme - teÄ ani nikdy jindy. OdmÄ›nu jsem vÃ¡m uÅ¾ dal, takÅ¾e teÄ prosÃ­m odejdÄ›te.}
+{171}{}{JÃ¡ jÃ­t.}
+{172}{}{VÅ¯bec nic.}
+{173}{}{Ty dÄ›vko! StrÃ¡Å¾e! LupiÄ! Vrah!}
+{174}{}{Byl jsem ve Vaultu 15 a musÃ­m si o tom promluvit s vaÅ¡Ã­m Å¡Ã©fem.}
+{175}{}{JÃ¡ potÅ™ebovat mluvit o Vault 15.}
+{176}{}{MÄ›l byste vÄ›dÄ›t, Å¾e mÃ¡te v kancelÃ¡Å™i Å¡piÃ³na. NÄ›koho se jmÃ©nem zaÄÃ­najÃ­cÃ­m na F.}
+{177}{}{JÃ¡ taky naÅ¡la Å¡piÃ³n. Ferrrgus.}
+{178}{}{JÃ¡ nelhat. DÃ­vala se. [Podat mu disk]}
+{179}{}{DÄ›kuju!}
+{500}{}{Ty dveÅ™e nejsou zamÄenÃ© jen tak pro nic za nic.}
+{501}{}{MusÃ­m vÃ¡s poÅ¾Ã¡dat, abyste odeÅ¡el.}
+{502}{}{Tohle je poslednÃ­ varovÃ¡nÃ­. OdejdÄ›te, nebo vÃ¡s nechÃ¡m vyvÃ©st.}
+{503}{}{Ochranka, vykopnÄ›te toho otravu.}
+{510}{}{Tak moment. Chci se vaÅ¡eho Å¡Ã©fa jeÅ¡tÄ› zeptat na nÄ›co ohlednÄ› Vaultu 15.}

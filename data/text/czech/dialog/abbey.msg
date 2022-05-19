@@ -1,1 +1,1 @@
-{100}{}{Nacházíš se poblí kláštera a malé osady postavené kolem nìj.}
+{100}{}{NachÃ¡zÃ­Å¡ se poblÃ­Å¾ klÃ¡Å¡tera a malÃ© osady postavenÃ© kolem nÄ›j.}

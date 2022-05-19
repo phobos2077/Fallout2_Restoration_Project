@@ -1,97 +1,97 @@
-{100}{}{Síla}
-{101}{}{Vnímání}
+{100}{}{SÃ­la}
+{101}{}{VnÃ­mÃ¡nÃ­}
 {102}{}{Odolnost}
 {103}{}{Charisma}
 {104}{}{Inteligence}
 {105}{}{Hbitost}
-{106}{}{Štìstí}
+{106}{}{Å tÄ›stÃ­}
 {107}{}{Hit body}
-{108}{}{Akèní body}
-{109}{}{Tøída zbroje}
-{110}{}{Boj beze zbranì}
-{111}{}{Boj zblízka}
+{108}{}{AkÄnÃ­ body}
+{109}{}{TÅ™Ã­da zbroje}
+{110}{}{Boj beze zbranÄ›}
+{111}{}{Boj zblÃ­zka}
 {112}{}{Nosnost}
-{113}{}{Postøeh}
-{114}{}{Rychlost uzdravování}
-{115}{}{Šance na kritickı zásah}
-{116}{}{Lepší kritickı zásah}
-{117}{}{Práh odolnosti}
-{118}{}{Práh odolnosti vùèi laseru}
-{119}{}{Práh odolnosti vùèi ohni}
-{120}{}{Práh odolnosti vùèi plazmì}
-{121}{}{Práh odolnosti vùèi elektøinì}
-{122}{}{Práh odolnosti vùèi EMP}
-{123}{}{Práh odolnosti vùèi explozi}
-{124}{}{Odolnost vùèi poškození}
-{125}{}{Odolnost vùèi laseru}
-{126}{}{Odolnost vùèi ohni}
-{127}{}{Odolnost vùèi plazmì}
-{128}{}{Odolnost vùèi elektøinì}
-{129}{}{Odolnost vùèi EMP}
-{130}{}{Odolnost vùèi explozi}
-{131}{}{Odolnost vùèi radiaci}
-{132}{}{Odolnost vùèi jedùm}
-{133}{}{Vìk}
-{134}{}{Pohlaví}
-{135}{}{Momentální Hit Body}
-{136}{}{Momentální stupeò otravy}
-{137}{}{Momentální stupeò ozáøení}
-{200}{}{Hrubá fyzická síla. Vysoká hodnota SÍLY je vhodná pro postavy specializující se na boj zblízka. Ovlivòuje: Mnoství hit bodù, poškození pøi boji zblízka, nosnost a monost pouívání nìkterıch tìších zbraní.}
-{201}{}{Schopnost vidìt, slyšet, vycítit a postøehnout neobvyklé vìci. Vysoká hodnota VNÍMÁNÍ je dùleitá zejména pro postavy milující boj na delší vzdálenost. Ovlivòuje: Postøeh a šanci uspìt ve støelbì na delší vzdálenost.}
-{202}{}{Fyzická odolnost a vytrvalost. Postava s vysokou hodnotou ODOLNOSTI pøeije tam, kde jiní umírají. Ovlivòuje: Poèet hit bodù, odolnost vùèi radiaci a jedùm, schopnost uzdravit se a mnoství novì pøidìlenıch hit bodù.}
-{203}{}{Kombinace fyzického vzhledu a osobního kouzla. Vysoká hodnota CHARISMA je dùleitá pro postavy, které chtìjí ovlivòovat své okolí nenásilnì, tj. øeèí. Ovlivòuje: Reakce NPC, ceny v obchodech a mnoství spoleèníkù.}
-{204}{}{Znalosti, moudrost a schopnost bystrého uvaování. Vysoká hodnota INTELIGENCE je dùleitá pro všechny postavy. Ovlivòuje: Poèet novì pøidìlenıch dovednostních bodù za úroveò, bohatost volby dialogu s NPC a mnoho dovedností.}
-{205}{}{Svalová koordinace a schopnost rychlého pohybu. Vysoká hodnota HBITOSTI je dùleitá pro všechny aktivní postavy. Ovlivòuje: Poèet akèních bodù, tøídu zbroje, postøeh a mnoho dovedností.}
-{206}{}{Osud. Karma. Extremnì vysoká nebo nízká hodnota ŠTÌSTÍ postavu nìjakım zpùsobem ovlivní. Události a jejich následky se zmìní podle toho, jakou má vaše postava kliku nebo smùlu. Ovlivòuje: Šanci na kritickı zásah, hod virtuální kostkou a hazard.}
-{207}{}{Hit body (HB). Urèují, kolik zásahù vydrí tvá postava ne zemøe. Pokud dosáhneš 0 a ménì hit bodù, je po tobì.}
-{208}{}{Akèní body (AB). Poèet akcí, které mùe tvá postava v boji bìhem svého tahu uèinit. Rùzné akce samozøejmì spotøebovávají i rùzné mnoství akèních bodù.}
-{209}{}{Tøída zbroje (TZ). Ovlivòuje šanci, e bude tvá postava v boji zasaena. Èím vyšší je tøída zbroje, tím vyšší je šance, e nepøítel tvou postavu nezasáhne.}
-{210}{}{Mnoství bonusového poškození, které tvá postava zpùsobí soupeøi v boji zblízka. Platí pro dovednosti "Chladné zbranì" a "Boj beze zbranì".}
-{211}{}{Mnoství bonusového poškození, které tvá postava zpùsobí soupeøi v boji zblízka. Platí pro dovednosti "Chladné zbranì" a "Boj beze zbranì".}
-{212}{}{Maximální mnoství pøedmìtù a vybavení, které je tvá postava schopna unést (v librách).}
-{213}{}{Urèuje, jak rychle je tvá postava schopna v boji reagovat, co v tahovém boji znamená, kdo bude první na tahu. Souboj vdy zaèíná postava s nejvyšší hodnotou postøehu.}
-{214}{}{Na konci kadého dne se tvá postava uzdraví o 1 HB za kadı bod schopnosti uzdravování. Kdy odpoèíváš, doba uzdravování se zkracuje na 6 hodin.}
-{215}{}{Šance zpùsobit v boji soupeøi kritickı zásah se navyšuje touto hodnotou.}
-{216}{}{Lepší kritickı zásah}
-{217}{}{Práh odolnosti}
-{218}{}{Práh odolnosti vùèi laseru}
-{219}{}{Práh odolnosti vùèi ohni}
-{220}{}{Práh odolnosti vùèi plazmì}
-{221}{}{Práh odolnosti vùèi elektøinì}
-{222}{}{Práh odolnosti vùèi EMP}
-{223}{}{Práh odolnosti vùèi explozi}
-{224}{}{Odolnost vùèi poškození (OVP). Jakıkoliv zásah, kterı tvá postava utrpí, se redukuje touto hodnotou. Odolnost vùèi poškození lze zvıšit pouitím zbroje.}
-{225}{}{Odolnost vùèi laseru}
-{226}{}{Odolnost vùèi ohni}
-{227}{}{Odolnost vùèi plazmì}
-{228}{}{Odolnost vùèi elektøinì}
-{229}{}{Odolnost vùèi EMP}
-{230}{}{Odolnost vùèi explozi}
+{113}{}{PostÅ™eh}
+{114}{}{Rychlost uzdravovÃ¡nÃ­}
+{115}{}{Å ance na kritickÃ½ zÃ¡sah}
+{116}{}{LepÅ¡Ã­ kritickÃ½ zÃ¡sah}
+{117}{}{PrÃ¡h odolnosti}
+{118}{}{PrÃ¡h odolnosti vÅ¯Äi laseru}
+{119}{}{PrÃ¡h odolnosti vÅ¯Äi ohni}
+{120}{}{PrÃ¡h odolnosti vÅ¯Äi plazmÄ›}
+{121}{}{PrÃ¡h odolnosti vÅ¯Äi elektÅ™inÄ›}
+{122}{}{PrÃ¡h odolnosti vÅ¯Äi EMP}
+{123}{}{PrÃ¡h odolnosti vÅ¯Äi explozi}
+{124}{}{Odolnost vÅ¯Äi poÅ¡kozenÃ­}
+{125}{}{Odolnost vÅ¯Äi laseru}
+{126}{}{Odolnost vÅ¯Äi ohni}
+{127}{}{Odolnost vÅ¯Äi plazmÄ›}
+{128}{}{Odolnost vÅ¯Äi elektÅ™inÄ›}
+{129}{}{Odolnost vÅ¯Äi EMP}
+{130}{}{Odolnost vÅ¯Äi explozi}
+{131}{}{Odolnost vÅ¯Äi radiaci}
+{132}{}{Odolnost vÅ¯Äi jedÅ¯m}
+{133}{}{VÄ›k}
+{134}{}{PohlavÃ­}
+{135}{}{MomentÃ¡lnÃ­ Hit Body}
+{136}{}{MomentÃ¡lnÃ­ stupeÅˆ otravy}
+{137}{}{MomentÃ¡lnÃ­ stupeÅˆ ozÃ¡Å™enÃ­}
+{200}{}{HrubÃ¡ fyzickÃ¡ sÃ­la. VysokÃ¡ hodnota SÃLY je vhodnÃ¡ pro postavy specializujÃ­cÃ­ se na boj zblÃ­zka. OvlivÅˆuje: MnoÅ¾stvÃ­ hit bodÅ¯, poÅ¡kozenÃ­ pÅ™i boji zblÃ­zka, nosnost a moÅ¾nost pouÅ¾Ã­vÃ¡nÃ­ nÄ›kterÃ½ch tÄ›Å¾Å¡Ã­ch zbranÃ­.}
+{201}{}{Schopnost vidÄ›t, slyÅ¡et, vycÃ­tit a postÅ™ehnout neobvyklÃ© vÄ›ci. VysokÃ¡ hodnota VNÃMÃNÃ je dÅ¯leÅ¾itÃ¡ zejmÃ©na pro postavy milujÃ­cÃ­ boj na delÅ¡Ã­ vzdÃ¡lenost. OvlivÅˆuje: PostÅ™eh a Å¡anci uspÄ›t ve stÅ™elbÄ› na delÅ¡Ã­ vzdÃ¡lenost.}
+{202}{}{FyzickÃ¡ odolnost a vytrvalost. Postava s vysokou hodnotou ODOLNOSTI pÅ™eÅ¾ije tam, kde jinÃ­ umÃ­rajÃ­. OvlivÅˆuje: PoÄet hit bodÅ¯, odolnost vÅ¯Äi radiaci a jedÅ¯m, schopnost uzdravit se a mnoÅ¾stvÃ­ novÄ› pÅ™idÄ›lenÃ½ch hit bodÅ¯.}
+{203}{}{Kombinace fyzickÃ©ho vzhledu a osobnÃ­ho kouzla. VysokÃ¡ hodnota CHARISMA je dÅ¯leÅ¾itÃ¡ pro postavy, kterÃ© chtÄ›jÃ­ ovlivÅˆovat svÃ© okolÃ­ nenÃ¡silnÄ›, tj. Å™eÄÃ­. OvlivÅˆuje: Reakce NPC, ceny v obchodech a mnoÅ¾stvÃ­ spoleÄnÃ­kÅ¯.}
+{204}{}{Znalosti, moudrost a schopnost bystrÃ©ho uvaÅ¾ovÃ¡nÃ­. VysokÃ¡ hodnota INTELIGENCE je dÅ¯leÅ¾itÃ¡ pro vÅ¡echny postavy. OvlivÅˆuje: PoÄet novÄ› pÅ™idÄ›lenÃ½ch dovednostnÃ­ch bodÅ¯ za ÃºroveÅˆ, bohatost volby dialogu s NPC a mnoho dovednostÃ­.}
+{205}{}{SvalovÃ¡ koordinace a schopnost rychlÃ©ho pohybu. VysokÃ¡ hodnota HBITOSTI je dÅ¯leÅ¾itÃ¡ pro vÅ¡echny aktivnÃ­ postavy. OvlivÅˆuje: PoÄet akÄnÃ­ch bodÅ¯, tÅ™Ã­du zbroje, postÅ™eh a mnoho dovednostÃ­.}
+{206}{}{Osud. Karma. ExtremnÄ› vysokÃ¡ nebo nÃ­zkÃ¡ hodnota Å TÄšSTÃ postavu nÄ›jakÃ½m zpÅ¯sobem ovlivnÃ­. UdÃ¡losti a jejich nÃ¡sledky se zmÄ›nÃ­ podle toho, jakou mÃ¡ vaÅ¡e postava kliku nebo smÅ¯lu. OvlivÅˆuje: Å anci na kritickÃ½ zÃ¡sah, hod virtuÃ¡lnÃ­ kostkou a hazard.}
+{207}{}{Hit body (HB). UrÄujÃ­, kolik zÃ¡sahÅ¯ vydrÅ¾Ã­ tvÃ¡ postava neÅ¾ zemÅ™e. Pokud dosÃ¡hneÅ¡ 0 a mÃ©nÄ› hit bodÅ¯, je po tobÄ›.}
+{208}{}{AkÄnÃ­ body (AB). PoÄet akcÃ­, kterÃ© mÅ¯Å¾e tvÃ¡ postava v boji bÄ›hem svÃ©ho tahu uÄinit. RÅ¯znÃ© akce samozÅ™ejmÄ› spotÅ™ebovÃ¡vajÃ­ i rÅ¯znÃ© mnoÅ¾stvÃ­ akÄnÃ­ch bodÅ¯.}
+{209}{}{TÅ™Ã­da zbroje (TZ). OvlivÅˆuje Å¡anci, Å¾e bude tvÃ¡ postava v boji zasaÅ¾ena. ÄŒÃ­m vyÅ¡Å¡Ã­ je tÅ™Ã­da zbroje, tÃ­m vyÅ¡Å¡Ã­ je Å¡ance, Å¾e nepÅ™Ã­tel tvou postavu nezasÃ¡hne.}
+{210}{}{MnoÅ¾stvÃ­ bonusovÃ©ho poÅ¡kozenÃ­, kterÃ© tvÃ¡ postava zpÅ¯sobÃ­ soupeÅ™i v boji zblÃ­zka. PlatÃ­ pro dovednosti "ChladnÃ© zbranÄ›" a "Boj beze zbranÄ›".}
+{211}{}{MnoÅ¾stvÃ­ bonusovÃ©ho poÅ¡kozenÃ­, kterÃ© tvÃ¡ postava zpÅ¯sobÃ­ soupeÅ™i v boji zblÃ­zka. PlatÃ­ pro dovednosti "ChladnÃ© zbranÄ›" a "Boj beze zbranÄ›".}
+{212}{}{MaximÃ¡lnÃ­ mnoÅ¾stvÃ­ pÅ™edmÄ›tÅ¯ a vybavenÃ­, kterÃ© je tvÃ¡ postava schopna unÃ©st (v librÃ¡ch).}
+{213}{}{UrÄuje, jak rychle je tvÃ¡ postava schopna v boji reagovat, coÅ¾ v tahovÃ©m boji znamenÃ¡, kdo bude prvnÃ­ na tahu. Souboj vÅ¾dy zaÄÃ­nÃ¡ postava s nejvyÅ¡Å¡Ã­ hodnotou postÅ™ehu.}
+{214}{}{Na konci kaÅ¾dÃ©ho dne se tvÃ¡ postava uzdravÃ­ o 1 HB za kaÅ¾dÃ½ bod schopnosti uzdravovÃ¡nÃ­. KdyÅ¾ odpoÄÃ­vÃ¡Å¡, doba uzdravovÃ¡nÃ­ se zkracuje na 6 hodin.}
+{215}{}{Å ance zpÅ¯sobit v boji soupeÅ™i kritickÃ½ zÃ¡sah se navyÅ¡uje touto hodnotou.}
+{216}{}{LepÅ¡Ã­ kritickÃ½ zÃ¡sah}
+{217}{}{PrÃ¡h odolnosti}
+{218}{}{PrÃ¡h odolnosti vÅ¯Äi laseru}
+{219}{}{PrÃ¡h odolnosti vÅ¯Äi ohni}
+{220}{}{PrÃ¡h odolnosti vÅ¯Äi plazmÄ›}
+{221}{}{PrÃ¡h odolnosti vÅ¯Äi elektÅ™inÄ›}
+{222}{}{PrÃ¡h odolnosti vÅ¯Äi EMP}
+{223}{}{PrÃ¡h odolnosti vÅ¯Äi explozi}
+{224}{}{Odolnost vÅ¯Äi poÅ¡kozenÃ­ (OVP). JakÃ½koliv zÃ¡sah, kterÃ½ tvÃ¡ postava utrpÃ­, se redukuje touto hodnotou. Odolnost vÅ¯Äi poÅ¡kozenÃ­ lze zvÃ½Å¡it pouÅ¾itÃ­m zbroje.}
+{225}{}{Odolnost vÅ¯Äi laseru}
+{226}{}{Odolnost vÅ¯Äi ohni}
+{227}{}{Odolnost vÅ¯Äi plazmÄ›}
+{228}{}{Odolnost vÅ¯Äi elektÅ™inÄ›}
+{229}{}{Odolnost vÅ¯Äi EMP}
+{230}{}{Odolnost vÅ¯Äi explozi}
 {231}{}{The amount of radiation you are exposed to is reduced by this percentage. Radiation Resistance can be modified by the type of armor worn, and anti-radiation drugs.}
-{232}{}{Touto hodnotou jsou redukována zranìní zpùsobená jedy.}
-{233}{}{Vìk}
-{234}{}{Pohlaví}
-{235}{}{Momentální Hit Body}
-{236}{}{Momentální stupeò otravy}
-{237}{}{Momentální stupeò ozáøení}
-{301}{}{Ubohé}
-{302}{}{Hrozné}
-{303}{}{Špatné}
-{304}{}{Slušné}
-{305}{}{Prùmìr}
-{306}{}{Dobré}
+{232}{}{Touto hodnotou jsou redukovÃ¡na zranÄ›nÃ­ zpÅ¯sobenÃ¡ jedy.}
+{233}{}{VÄ›k}
+{234}{}{PohlavÃ­}
+{235}{}{MomentÃ¡lnÃ­ Hit Body}
+{236}{}{MomentÃ¡lnÃ­ stupeÅˆ otravy}
+{237}{}{MomentÃ¡lnÃ­ stupeÅˆ ozÃ¡Å™enÃ­}
+{301}{}{UbohÃ©}
+{302}{}{HroznÃ©}
+{303}{}{Å patnÃ©}
+{304}{}{SluÅ¡nÃ©}
+{305}{}{PrÅ¯mÄ›r}
+{306}{}{DobrÃ©}
 {307}{}{Bezva}
-{308}{}{Skvìlé}
+{308}{}{SkvÄ›lÃ©}
 {309}{}{Super}
-{310}{}{Úasné}
-{400}{}{Nespotøebované dovednostní body}
-{401}{}{Úroveò}
-{402}{}{Zkušenost}
+{310}{}{ÃšÅ¾asnÃ©}
+{400}{}{NespotÅ™ebovanÃ© dovednostnÃ­ body}
+{401}{}{ÃšroveÅˆ}
+{402}{}{ZkuÅ¡enost}
 {403}{}{Reputace}
 {404}{}{Karma}
-{500}{}{Mnoství bodù obdrenıch pøi postupu na další úroveò. Bìné dovednosti lze zvıšit o 1% za kadı bod. U talentu se zvyšují o 2% za bod.}
-{501}{}{Obecná zpùsobilost tvé postavy. Míra tvıch zkušeností a schopností.}
-{502}{}{Odmìna za dokonèení specifickıch úkolù nebo za poráku nepøátel v boji. Nasbírání dostateèného poètu zkušenostních bodù je podmínkou pro dosaení další úrovnì.}
-{503}{}{To, co okolní svìt ví o tvıch skutcích. Tento parametr rovnì ovlivòuje reakce NPC ve høe.}
-{504}{}{Následky tvıch èinù ve høe. Zvláš dùleité informace budou speciálnì zobrazeny.}
-{600}{}{Postupuješ na další úroveò.}
+{500}{}{MnoÅ¾stvÃ­ bodÅ¯ obdrÅ¾enÃ½ch pÅ™i postupu na dalÅ¡Ã­ ÃºroveÅˆ. BÄ›Å¾nÃ© dovednosti lze zvÃ½Å¡it o 1% za kaÅ¾dÃ½ bod. U talentu se zvyÅ¡ujÃ­ o 2% za bod.}
+{501}{}{ObecnÃ¡ zpÅ¯sobilost tvÃ© postavy. MÃ­ra tvÃ½ch zkuÅ¡enostÃ­ a schopnostÃ­.}
+{502}{}{OdmÄ›na za dokonÄenÃ­ specifickÃ½ch ÃºkolÅ¯ nebo za porÃ¡Å¾ku nepÅ™Ã¡tel v boji. NasbÃ­rÃ¡nÃ­ dostateÄnÃ©ho poÄtu zkuÅ¡enostnÃ­ch bodÅ¯ je podmÃ­nkou pro dosaÅ¾enÃ­ dalÅ¡Ã­ ÃºrovnÄ›.}
+{503}{}{To, co okolnÃ­ svÄ›t vÃ­ o tvÃ½ch skutcÃ­ch. Tento parametr rovnÄ›Å¾ ovlivÅˆuje reakce NPC ve hÅ™e.}
+{504}{}{NÃ¡sledky tvÃ½ch ÄinÅ¯ ve hÅ™e. ZvlÃ¡Å¡Å¥ dÅ¯leÅ¾itÃ© informace budou speciÃ¡lnÄ› zobrazeny.}
+{600}{}{PostupujeÅ¡ na dalÅ¡Ã­ ÃºroveÅˆ.}

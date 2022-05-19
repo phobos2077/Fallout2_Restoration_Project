@@ -1,8 +1,8 @@
-{100}{}{Vidíš otrokáøe.}
-{101}{}{Tenhle otrokáø vypadá jako pìknì drsnı chlápek.}
-{102}{}{Tato otrokáøka vypadá pìknì drsnì.}
-{200}{}{Vıborná práce. Mùeme vyrazit?}
-{201}{}{Dej mi chvíli na vydechnutí.}
-{202}{}{Vše pøipraveno. Mùeme jít.}
-{250}{}{Poøád tady cítím tu rangerskou paká.}
-{300}{}{Tohle byl poslední úkryt. Podej zprávu Vortisovi v NCR.}
+{100}{}{VidÃ­Å¡ otrokÃ¡Å™e.}
+{101}{}{Tenhle otrokÃ¡Å™ vypadÃ¡ jako pÄ›knÄ› drsnÃ½ chlÃ¡pek.}
+{102}{}{Tato otrokÃ¡Å™ka vypadÃ¡ pÄ›knÄ› drsnÄ›.}
+{200}{}{VÃ½bornÃ¡ prÃ¡ce. MÅ¯Å¾eme vyrazit?}
+{201}{}{Dej mi chvÃ­li na vydechnutÃ­.}
+{202}{}{VÅ¡e pÅ™ipraveno. MÅ¯Å¾eme jÃ­t.}
+{250}{}{PoÅ™Ã¡d tady cÃ­tÃ­m tu rangerskou pakÃ¡Å¾.}
+{300}{}{Tohle byl poslednÃ­ Ãºkryt. Podej zprÃ¡vu Vortisovi v NCR.}

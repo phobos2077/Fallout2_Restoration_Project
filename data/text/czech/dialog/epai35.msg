@@ -1,15 +1,15 @@
-{100}{}{Vidíš poèítaè.}
-{101}{}{Vidíš poèítaè muzea EPA.}
-{200}{}{Vítejte v muzeu EPA! Tento terminál vám promítne film pomocí nové holografické technologie! Tento film pøedkládá zábavnı a informativní pohled na dìsivou, ale monou realitu svìta po nukleárním konfliktu.}
-{201}{}{[Pøehrát film]}
-{202}{}{[Odhlásit se]}
-{210}{}{(Terminál promítne hologram vysokého mue s brılemi v laboratorním plášti. Mávne na tebe a pøátelsky se usmìje.) Ahoj, já jsem Dr. Caleb a budu vás provázet touto holografickou projekcí Ameriky po nukleárním holokaustu.}
-{211}{}{[Více]}
-{220}{}{(Kolem Dr. Caleba se zhmotní obıvací pokoj a v nìm rodinka, která si uívá veèerní pohodu. Dr. Caleb pohladí po hlavì jejich psa a poté se na tebe usmìje.) Seznamte se s Johnsonovımi. Pøedstavují zcela prùmìrnou americkou rodinu. Táta kouøí svoji dımku, máma si ète v kuchaøce a malı Billy se Susie sledují pøed spaním televizi. Jsou pøesvìdèeni, e se nic nemùe stát. Nevšímají si varovnıch sirén a povaují je jen za další cvièení. Och, ale co je tohle?}
-{221}{}{[Více]}
-{230}{}{(Skrze zadní okno vidíš, jak dopadne na zem velká bomba a vytvoøí obrovskı høibovitı oblak následovanı oslepujícím svìtlem. Jakmile svìtlo zeslábne, uvidíš stát Dr. Caleba uprostøed spálenıch trosek obıváku s kostlivci namísto rodiny Johnsonovıch.) A jéje! Vypadá to, e nám sem komouši shodili jednoho macka a Johnsonovi nebyli v takovém bezpeèí, jak si mysleli. A jak se mùeme pouèit z chyby Johnsonovıch?}
-{231}{}{[Více]}
-{240}{}{Správnì! V pøípadì atomové války chcete, aby vaše rodina byla v bezpeèí úkrytu firmy Vault-Tec. Vault-Tec vybudoval pro náš velkı národ 122 veøejnıch vaultù, take i ve vašem okolí se jistì nìjakı nachází. Jistì chápete, e jsou prostory velmi omezené, take si své místo rezervujte u dnes, nebo se mùe stát, e *vaše* rodina skonèí jako tady Johnsonovi. (Dr. Caleb pohladí po hlavì psí kostru. Lebka se oddìlí od kostry, spadne na zem a roztøíští se. Robot Mr.Handy uklidí to, co z ní zbylo.)}
-{241}{}{[Více]}
-{250}{}{Vypadá to, e se Mr.Handy pìknì zapotí, jestli hodlá uklidit všechen ten "nepoøádek". (Dr. Caleb se zasmìje, zatímco obraz mizí a je nahrazován textem.) Dìkujeme za pozornost. Toto vzdìlávací video vám pøinesli naši ctihodní zamìstnanci Vault-Tecu. Vault-Tec, poslední vıkøik americkıch domovù.}
-{251}{}{[Odhlásit se]}
+{100}{}{VidÃ­Å¡ poÄÃ­taÄ.}
+{101}{}{VidÃ­Å¡ poÄÃ­taÄ muzea EPA.}
+{200}{}{VÃ­tejte v muzeu EPA! Tento terminÃ¡l vÃ¡m promÃ­tne film pomocÃ­ novÃ© holografickÃ© technologie! Tento film pÅ™edklÃ¡dÃ¡ zÃ¡bavnÃ½ a informativnÃ­ pohled na dÄ›sivou, ale moÅ¾nou realitu svÄ›ta po nukleÃ¡rnÃ­m konfliktu.}
+{201}{}{[PÅ™ehrÃ¡t film]}
+{202}{}{[OdhlÃ¡sit se]}
+{210}{}{(TerminÃ¡l promÃ­tne hologram vysokÃ©ho muÅ¾e s brÃ½lemi v laboratornÃ­m plÃ¡Å¡ti. MÃ¡vne na tebe a pÅ™Ã¡telsky se usmÄ›je.) Ahoj, jÃ¡ jsem Dr. Caleb a budu vÃ¡s provÃ¡zet touto holografickou projekcÃ­ Ameriky po nukleÃ¡rnÃ­m holokaustu.}
+{211}{}{[VÃ­ce]}
+{220}{}{(Kolem Dr. Caleba se zhmotnÃ­ obÃ½vacÃ­ pokoj a v nÄ›m rodinka, kterÃ¡ si uÅ¾Ã­vÃ¡ veÄernÃ­ pohodu. Dr. Caleb pohladÃ­ po hlavÄ› jejich psa a potÃ© se na tebe usmÄ›je.) Seznamte se s JohnsonovÃ½mi. PÅ™edstavujÃ­ zcela prÅ¯mÄ›rnou americkou rodinu. TÃ¡ta kouÅ™Ã­ svoji dÃ½mku, mÃ¡ma si Äte v kuchaÅ™ce a malÃ½ Billy se Susie sledujÃ­ pÅ™ed spanÃ­m televizi. Jsou pÅ™esvÄ›dÄeni, Å¾e se nic nemÅ¯Å¾e stÃ¡t. NevÅ¡Ã­majÃ­ si varovnÃ½ch sirÃ©n a povaÅ¾ujÃ­ je jen za dalÅ¡Ã­ cviÄenÃ­. Och, ale co je tohle?}
+{221}{}{[VÃ­ce]}
+{230}{}{(Skrze zadnÃ­ okno vidÃ­Å¡, jak dopadne na zem velkÃ¡ bomba a vytvoÅ™Ã­ obrovskÃ½ hÅ™ibovitÃ½ oblak nÃ¡sledovanÃ½ oslepujÃ­cÃ­m svÄ›tlem. Jakmile svÄ›tlo zeslÃ¡bne, uvidÃ­Å¡ stÃ¡t Dr. Caleba uprostÅ™ed spÃ¡lenÃ½ch trosek obÃ½vÃ¡ku s kostlivci namÃ­sto rodiny JohnsonovÃ½ch.) A jÃ©je! VypadÃ¡ to, Å¾e nÃ¡m sem komouÅ¡i shodili jednoho macka a Johnsonovi nebyli v takovÃ©m bezpeÄÃ­, jak si mysleli. A jak se mÅ¯Å¾eme pouÄit z chyby JohnsonovÃ½ch?}
+{231}{}{[VÃ­ce]}
+{240}{}{SprÃ¡vnÄ›! V pÅ™Ã­padÄ› atomovÃ© vÃ¡lky chcete, aby vaÅ¡e rodina byla v bezpeÄÃ­ Ãºkrytu firmy Vault-Tec. Vault-Tec vybudoval pro nÃ¡Å¡ velkÃ½ nÃ¡rod 122 veÅ™ejnÃ½ch vaultÅ¯, takÅ¾e i ve vaÅ¡em okolÃ­ se jistÄ› nÄ›jakÃ½ nachÃ¡zÃ­. JistÄ› chÃ¡pete, Å¾e jsou prostory velmi omezenÃ©, takÅ¾e si svÃ© mÃ­sto rezervujte uÅ¾ dnes, nebo se mÅ¯Å¾e stÃ¡t, Å¾e *vaÅ¡e* rodina skonÄÃ­ jako tady Johnsonovi. (Dr. Caleb pohladÃ­ po hlavÄ› psÃ­ kostru. Lebka se oddÄ›lÃ­ od kostry, spadne na zem a roztÅ™Ã­Å¡tÃ­ se. Robot Mr.Handy uklidÃ­ to, co z nÃ­ zbylo.)}
+{241}{}{[VÃ­ce]}
+{250}{}{VypadÃ¡ to, Å¾e se Mr.Handy pÄ›knÄ› zapotÃ­, jestli hodlÃ¡ uklidit vÅ¡echen ten "nepoÅ™Ã¡dek". (Dr. Caleb se zasmÄ›je, zatÃ­mco obraz mizÃ­ a je nahrazovÃ¡n textem.) DÄ›kujeme za pozornost. Toto vzdÄ›lÃ¡vacÃ­ video vÃ¡m pÅ™inesli naÅ¡i ctihodnÃ­ zamÄ›stnanci Vault-Tecu. Vault-Tec, poslednÃ­ vÃ½kÅ™ik americkÃ½ch domovÅ¯.}
+{251}{}{[OdhlÃ¡sit se]}

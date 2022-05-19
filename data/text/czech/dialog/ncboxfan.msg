@@ -1,12 +1,12 @@
-{100}{}{Vidíš zuøivého fanouška boxu. }
-{150}{}{Vidíš divokého a odvázaného mue. Kvùli nìèemu strašnì øve.}
-{151}{}{Vidíš zuøivého fanouška boxu. Øve a ádá si krev.}
-{152}{}{Vidíš divokou a odvázanou enu. Kvùli nìèemu strašnì øve.}
-{153}{}{Vidíš zuøivou fanynku boxu. Øve a ádá si krev.}
+{100}{}{VidÃ­Å¡ zuÅ™ivÃ©ho fanouÅ¡ka boxu. }
+{150}{}{VidÃ­Å¡ divokÃ©ho a odvÃ¡zanÃ©ho muÅ¾e. KvÅ¯li nÄ›Äemu straÅ¡nÄ› Å™ve.}
+{151}{}{VidÃ­Å¡ zuÅ™ivÃ©ho fanouÅ¡ka boxu. Å˜ve a Å¾Ã¡dÃ¡ si krev.}
+{152}{}{VidÃ­Å¡ divokou a odvÃ¡zanou Å¾enu. KvÅ¯li nÄ›Äemu straÅ¡nÄ› Å™ve.}
+{153}{}{VidÃ­Å¡ zuÅ™ivou fanynku boxu. Å˜ve a Å¾Ã¡dÃ¡ si krev.}
 {200}{}{Joooooooooooooo!}
-{201}{}{::øev:: ::buèení:: ::øev::}
+{201}{}{::Å™ev:: ::buÄenÃ­:: ::Å™ev::}
 {202}{}{Zabij ho, }
-{203}{}{Jseš nejlepší, }
+{203}{}{JseÅ¡ nejlepÅ¡Ã­, }
 {204}{}{Nandej jim to, }
 {205}{}{Joooo! Nandej mu to!}
 {206}{}{}
@@ -18,70 +18,70 @@
 {212}{}{}
 {213}{}{}
 {214}{}{Miluju }
-{215}{}{::vøískot:: ::vøískot::}
+{215}{}{::vÅ™Ã­skot:: ::vÅ™Ã­skot::}
 {216}{}{}
 {250}{}{}
 {251}{}{}
 {252}{}{}
-{253}{}{Slyšela jsem, e byla }
-{254}{}{Paneboe! }
-{255}{}{Dej mi ránu! Dej mi ránu! Budu vykládat svım dìtem, e jsi mi dal ránu!}
-{256}{}{Jseš nejlepší, }
+{253}{}{SlyÅ¡ela jsem, Å¾e byla }
+{254}{}{PaneboÅ¾e! }
+{255}{}{Dej mi rÃ¡nu! Dej mi rÃ¡nu! Budu vyklÃ¡dat svÃ½m dÄ›tem, Å¾e jsi mi dal rÃ¡nu!}
+{256}{}{JseÅ¡ nejlepÅ¡Ã­, }
 {257}{}{Zabij ho, }
-{258}{}{Jseš nejlepší, }
+{258}{}{JseÅ¡ nejlepÅ¡Ã­, }
 {259}{}{Nandej jim to, }
 {260}{}{Joooo! Nandej mu to!}
 {261}{}{}
 {262}{}{}
 {263}{}{Joooooooooooooo!}
-{264}{}{::øev:: ::buèení:: ::øev::}
+{264}{}{::Å™ev:: ::buÄenÃ­:: ::Å™ev::}
 {265}{}{}
 {266}{}{}
-{267}{}{Jseš drsnìjší ne Mike Tyson!}
+{267}{}{JseÅ¡ drsnÄ›jÅ¡Ã­ neÅ¾ Mike Tyson!}
 {268}{}{}
 {269}{}{}
 {270}{}{}
-{271}{}{Slyšela jsem, e byla }
-{280}{}{Nechceš polibek pro štìstí?}
+{271}{}{SlyÅ¡ela jsem, Å¾e byla }
+{280}{}{NechceÅ¡ polibek pro Å¡tÄ›stÃ­?}
 {281}{}{}
 {282}{}{}
 {283}{}{}
 {284}{}{}
 {285}{}{}
-{286}{}{Slyšela jsem, e byla }
-{287}{}{Paneboe! }
-{288}{}{Dej mi ránu! Dej mi ránu! Budu vykládat svım dìtem, e jsi mi dal ránu!}
-{289}{}{Jseš nejlepší }
+{286}{}{SlyÅ¡ela jsem, Å¾e byla }
+{287}{}{PaneboÅ¾e! }
+{288}{}{Dej mi rÃ¡nu! Dej mi rÃ¡nu! Budu vyklÃ¡dat svÃ½m dÄ›tem, Å¾e jsi mi dal rÃ¡nu!}
+{289}{}{JseÅ¡ nejlepÅ¡Ã­ }
 {290}{}{Zabij ho, }
-{291}{}{Jseš nejlepší, }
+{291}{}{JseÅ¡ nejlepÅ¡Ã­, }
 {292}{}{Nandej jim to, }
 {293}{}{Joooo! Nandej mu to!}
 {294}{}{}
 {295}{}{}
-{296}{}{Áááááááááááááá!}
-{297}{}{::vøískot:: ::vøískot::}
+{296}{}{ÃÃ¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡!}
+{297}{}{::vÅ™Ã­skot:: ::vÅ™Ã­skot::}
 {298}{}{}
 {299}{}{}
-{300}{}{Jseš drsnìjší ne Mike Tyson!}
+{300}{}{JseÅ¡ drsnÄ›jÅ¡Ã­ neÅ¾ Mike Tyson!}
 {301}{}{}
 {302}{}{}
 {303}{}{}
-{304}{}{Slyšela jsem, e byla }
-{320}{}{ zabije kadıho, kdo se mu postaví do cesty!}
-{321}{}{ je prostì NEJLEPŠÍ. NEJLEPŠÍ.}
+{304}{}{SlyÅ¡ela jsem, Å¾e byla }
+{320}{}{ zabije kaÅ¾dÃ½ho, kdo se mu postavÃ­ do cesty!}
+{321}{}{ je prostÄ› NEJLEPÅ Ã. NEJLEPÅ Ã.}
 {322}{}{!!!}
-{323}{}{ je fakt chlapák!}
-{324}{}{ je nejlepší šampión v boxu, kterıho jsem kdy vidìl.}
-{325}{}{ je i pìknì chytrej a opravdu ví, jak nìkomu ublíit.}
-{326}{}{ se zajímá i o svı fanoušky. Nezabíjí je jako ostatní boxeøi.}
-{327}{}{ je tááááák hezkej.}
-{328}{}{ je laskavej a vychovanej. To mi øekl minulou noc.}
+{323}{}{ je fakt chlapÃ¡k!}
+{324}{}{ je nejlepÅ¡Ã­ Å¡ampiÃ³n v boxu, kterÃ½ho jsem kdy vidÄ›l.}
+{325}{}{ je i pÄ›knÄ› chytrej a opravdu vÃ­, jak nÄ›komu ublÃ­Å¾it.}
+{326}{}{ se zajÃ­mÃ¡ i o svÃ½ fanouÅ¡ky. NezabÃ­jÃ­ je jako ostatnÃ­ boxeÅ™i.}
+{327}{}{ je tÃ¡Ã¡Ã¡Ã¡Ã¡k hezkej.}
+{328}{}{ je laskavej a vychovanej. To mi Å™ekl minulou noc.}
 {350}{}{}
-{351}{}{Doma mám trochu tvıho potu schovanıho v láhvi.}
-{352}{}{Paneboe! }
-{353}{}{Dej mi ránu! Dej mi ránu! Budu vykládat svım dìtem, e jsi mi dal ránu!}
-{354}{}{Jseš nejlepší }
-{355}{}{Jseš nejlepší, }
+{351}{}{Doma mÃ¡m trochu tvÃ½ho potu schovanÃ½ho v lÃ¡hvi.}
+{352}{}{PaneboÅ¾e! }
+{353}{}{Dej mi rÃ¡nu! Dej mi rÃ¡nu! Budu vyklÃ¡dat svÃ½m dÄ›tem, Å¾e jsi mi dal rÃ¡nu!}
+{354}{}{JseÅ¡ nejlepÅ¡Ã­ }
+{355}{}{JseÅ¡ nejlepÅ¡Ã­, }
 {356}{}{Jdi a nandej jim to, }
 {357}{}{}
 {358}{}{}
@@ -89,103 +89,103 @@
 {360}{}{}
 {361}{}{}
 {362}{}{}
-{363}{}{Slyšela jsem, e jsi byl neznámej, ne jsi zaèal boxovat v New Renu. Odkud jsi?}
+{363}{}{SlyÅ¡ela jsem, Å¾e jsi byl neznÃ¡mej, neÅ¾ jsi zaÄal boxovat v New Renu. Odkud jsi?}
 {364}{}{}
-{365}{}{Jseš drsnìjší ne Mike Tyson!}
+{365}{}{JseÅ¡ drsnÄ›jÅ¡Ã­ neÅ¾ Mike Tyson!}
 {366}{}{}
-{380}{}{Nechceš polibek pro štìstí?}
+{380}{}{NechceÅ¡ polibek pro Å¡tÄ›stÃ­?}
 {381}{}{}
 {382}{}{}
-{383}{}{::Kdy s ní zaèneš mluvit, tak úplnì omdlévá::}
-{384}{}{Doma mám trochu tvıho potu schovanıho v láhvi.}
-{385}{}{Paneboe! }
-{386}{}{Dej mi ránu! Dej mi ránu! Budu vykládat svım dìtem, e jsi mi dal ránu!}
-{387}{}{Jseš nejlepší }
+{383}{}{::KdyÅ¾ s nÃ­ zaÄneÅ¡ mluvit, tak ÃºplnÄ› omdlÃ©vÃ¡::}
+{384}{}{Doma mÃ¡m trochu tvÃ½ho potu schovanÃ½ho v lÃ¡hvi.}
+{385}{}{PaneboÅ¾e! }
+{386}{}{Dej mi rÃ¡nu! Dej mi rÃ¡nu! Budu vyklÃ¡dat svÃ½m dÄ›tem, Å¾e jsi mi dal rÃ¡nu!}
+{387}{}{JseÅ¡ nejlepÅ¡Ã­ }
 {388}{}{Zabij je, !}
-{389}{}{Jseš nejlepší, }
+{389}{}{JseÅ¡ nejlepÅ¡Ã­, }
 {390}{}{Nandej jim to, }
 {391}{}{.}
 {392}{}{}
-{393}{}{Áááááááááááááá!}
+{393}{}{ÃÃ¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡!}
 {394}{}{}
 {395}{}{}
 {396}{}{}
-{397}{}{Slyšela jsem, e jsi byl neznámej, ne jsi zaèal boxovat v New Renu. Odkud jsi?}
+{397}{}{SlyÅ¡ela jsem, Å¾e jsi byl neznÃ¡mej, neÅ¾ jsi zaÄal boxovat v New Renu. Odkud jsi?}
 {398}{}{}
-{399}{}{Jseš drsnìjší ne Mike Tyson!}
+{399}{}{JseÅ¡ drsnÄ›jÅ¡Ã­ neÅ¾ Mike Tyson!}
 {400}{}{}
 {1202}{}{!}
 {1203}{}{!}
 {1204}{}{!}
-{1206}{}{ je prostì NEJLEPŠÍ. NEJLEPŠÍ.}
+{1206}{}{ je prostÄ› NEJLEPÅ Ã. NEJLEPÅ Ã.}
 {1207}{}{!!!}
-{1208}{}{, jseš fakt chlapák!}
-{1209}{}{ je nejlepší šampión v boxu, kterıho jsem kdy vidìl.}
-{1210}{}{ je i pìknì chytrej a opravdu ví, jak nìkomu ublíit.}
-{1211}{}{ se zajímá i o svı fanoušky. Nezabíjí je jako ostatní boxeøi.}
-{1212}{}{ je tááááák hezkej.}
-{1213}{}{ je poøádnej chlap.}
-{1214}{}{ Áááááááááááááá!}
-{1216}{}{ je laskavej a vychovanej. To mi øekl minulou noc.}
-{1250}{}{, jseš fakt chlapák!}
-{1251}{}{ je i pìknì chytrej a opravdu ví, jak nìkomu ublíit.}
-{1252}{}{ se zajímá i o svı fanoušky. Nezabíjí je jako ostatní boxeøi.}
-{1253}{}{ skoro neznámej, ne zaèal boxovat v New Renu. Je tak záhadnej! A vraednej!}
-{1254}{}{! Dej mi prosím autogram!}
-{1256}{}{! Poøádnì jim to nandej!}
+{1208}{}{, jseÅ¡ fakt chlapÃ¡k!}
+{1209}{}{ je nejlepÅ¡Ã­ Å¡ampiÃ³n v boxu, kterÃ½ho jsem kdy vidÄ›l.}
+{1210}{}{ je i pÄ›knÄ› chytrej a opravdu vÃ­, jak nÄ›komu ublÃ­Å¾it.}
+{1211}{}{ se zajÃ­mÃ¡ i o svÃ½ fanouÅ¡ky. NezabÃ­jÃ­ je jako ostatnÃ­ boxeÅ™i.}
+{1212}{}{ je tÃ¡Ã¡Ã¡Ã¡Ã¡k hezkej.}
+{1213}{}{ je poÅ™Ã¡dnej chlap.}
+{1214}{}{ ÃÃ¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡!}
+{1216}{}{ je laskavej a vychovanej. To mi Å™ekl minulou noc.}
+{1250}{}{, jseÅ¡ fakt chlapÃ¡k!}
+{1251}{}{ je i pÄ›knÄ› chytrej a opravdu vÃ­, jak nÄ›komu ublÃ­Å¾it.}
+{1252}{}{ se zajÃ­mÃ¡ i o svÃ½ fanouÅ¡ky. NezabÃ­jÃ­ je jako ostatnÃ­ boxeÅ™i.}
+{1253}{}{ skoro neznÃ¡mej, neÅ¾ zaÄal boxovat v New Renu. Je tak zÃ¡hadnej! A vraÅ¾ednej!}
+{1254}{}{! Dej mi prosÃ­m autogram!}
+{1256}{}{! PoÅ™Ã¡dnÄ› jim to nandej!}
 {1257}{}{!}
 {1258}{}{!}
 {1259}{}{!}
-{1261}{}{, jseš prostì NEJLEPŠÍ. NEJLEPŠÍ.}
+{1261}{}{, jseÅ¡ prostÄ› NEJLEPÅ Ã. NEJLEPÅ Ã.}
 {1262}{}{!!!}
-{1265}{}{ je nejlepší šampión v boxu, kterıho jsem kdy vidìl.}
-{1266}{}{, jseš nejdrsnìjší enská na svìtì!}
-{1268}{}{, jseš poøádná enská!}
-{1269}{}{ je i pìknì chytrá a opravdu ví, jak nìkomu ublíit.}
-{1270}{}{ se zajímá i o svı fanoušky. Nezabíjí je jako ostatní boxeøi.}
-{1271}{}{ skoro neznámá, ne zaèala boxovat v New Renu. Je tak záhadná!}
-{1281}{}{, jseš fakt chlapák!}
-{1282}{}{ je tááááák hezkej.}
+{1265}{}{ je nejlepÅ¡Ã­ Å¡ampiÃ³n v boxu, kterÃ½ho jsem kdy vidÄ›l.}
+{1266}{}{, jseÅ¡ nejdrsnÄ›jÅ¡Ã­ Å¾enskÃ¡ na svÄ›tÄ›!}
+{1268}{}{, jseÅ¡ poÅ™Ã¡dnÃ¡ Å¾enskÃ¡!}
+{1269}{}{ je i pÄ›knÄ› chytrÃ¡ a opravdu vÃ­, jak nÄ›komu ublÃ­Å¾it.}
+{1270}{}{ se zajÃ­mÃ¡ i o svÃ½ fanouÅ¡ky. NezabÃ­jÃ­ je jako ostatnÃ­ boxeÅ™i.}
+{1271}{}{ skoro neznÃ¡mÃ¡, neÅ¾ zaÄala boxovat v New Renu. Je tak zÃ¡hadnÃ¡!}
+{1281}{}{, jseÅ¡ fakt chlapÃ¡k!}
+{1282}{}{ je tÃ¡Ã¡Ã¡Ã¡Ã¡k hezkej.}
 {1283}{}{ je chlap jako hora!}
-{1284}{}{ je i pìknì chytrej a opravdu ví, jak nìkomu ublíit.}
-{1285}{}{ se zajímá i o svı fanoušky. Nezabíjí je jako ostatní boxeøi.}
-{1286}{}{ skoro neznámej, ne zaèal boxovat v New Renu. Je tak záhadnej! A vraednej!}
-{1287}{}{! Dej mi prosím autogram!}
-{1289}{}{! Poøádnì jim to nandej!}
+{1284}{}{ je i pÄ›knÄ› chytrej a opravdu vÃ­, jak nÄ›komu ublÃ­Å¾it.}
+{1285}{}{ se zajÃ­mÃ¡ i o svÃ½ fanouÅ¡ky. NezabÃ­jÃ­ je jako ostatnÃ­ boxeÅ™i.}
+{1286}{}{ skoro neznÃ¡mej, neÅ¾ zaÄal boxovat v New Renu. Je tak zÃ¡hadnej! A vraÅ¾ednej!}
+{1287}{}{! Dej mi prosÃ­m autogram!}
+{1289}{}{! PoÅ™Ã¡dnÄ› jim to nandej!}
 {1290}{}{!}
 {1291}{}{!}
 {1292}{}{!}
-{1294}{}{, jseš prostì NEJLEPŠÍ. NEJLEPŠÍ.}
+{1294}{}{, jseÅ¡ prostÄ› NEJLEPÅ Ã. NEJLEPÅ Ã.}
 {1295}{}{!!!}
-{1298}{}{ je nejlepší šampión v boxu, kterıho jsem kdy vidìl.}
-{1299}{}{, jseš nejdrsnìjší enská na svìtì!}
-{1301}{}{, jseš poøádná enská!}
-{1302}{}{ je i pìknì chytrá a opravdu ví, jak nìkomu ublíit.}
-{1303}{}{ se zajímá i o svı fanoušky. Nezabíjí je jako ostatní boxeøi.}
-{1304}{}{ skoro neznámá, ne zaèala boxovat v New Renu. Je tak záhadná!}
-{1350}{}{, jseš fakt chlapák!}
-{1352}{}{! Dej mi prosím autogram!}
-{1354}{}{! Poøádnì jim to nandej!}
+{1298}{}{ je nejlepÅ¡Ã­ Å¡ampiÃ³n v boxu, kterÃ½ho jsem kdy vidÄ›l.}
+{1299}{}{, jseÅ¡ nejdrsnÄ›jÅ¡Ã­ Å¾enskÃ¡ na svÄ›tÄ›!}
+{1301}{}{, jseÅ¡ poÅ™Ã¡dnÃ¡ Å¾enskÃ¡!}
+{1302}{}{ je i pÄ›knÄ› chytrÃ¡ a opravdu vÃ­, jak nÄ›komu ublÃ­Å¾it.}
+{1303}{}{ se zajÃ­mÃ¡ i o svÃ½ fanouÅ¡ky. NezabÃ­jÃ­ je jako ostatnÃ­ boxeÅ™i.}
+{1304}{}{ skoro neznÃ¡mÃ¡, neÅ¾ zaÄala boxovat v New Renu. Je tak zÃ¡hadnÃ¡!}
+{1350}{}{, jseÅ¡ fakt chlapÃ¡k!}
+{1352}{}{! Dej mi prosÃ­m autogram!}
+{1354}{}{! PoÅ™Ã¡dnÄ› jim to nandej!}
 {1355}{}{!}
 {1356}{}{!}
-{1357}{}{, jseš prostì NEJLEPŠÍ. NEJLEPŠÍ.}
+{1357}{}{, jseÅ¡ prostÄ› NEJLEPÅ Ã. NEJLEPÅ Ã.}
 {1358}{}{!!!}
-{1360}{}{, jseš nejlepší šampión v boxu, kterıho jsem kdy vidìla.}
-{1361}{}{, ty opravdu víš, jak nìkomu ublíit.}
-{1362}{}{, ty se fakt zajímáš o svı fanoušky. Nezabíjíš je jako ostatní boxeøi.}
-{1364}{}{, jseš nejdrsnìjší enská na svìtì!}
-{1366}{}{, jseš poøádná enská!}
-{1381}{}{, jseš fakt chlapák!}
-{1382}{}{, jseš táááááák krásnej.}
-{1385}{}{! Dej mi prosím autogram!}
-{1387}{}{! Poøádnì jim to nandej!}
+{1360}{}{, jseÅ¡ nejlepÅ¡Ã­ Å¡ampiÃ³n v boxu, kterÃ½ho jsem kdy vidÄ›la.}
+{1361}{}{, ty opravdu vÃ­Å¡, jak nÄ›komu ublÃ­Å¾it.}
+{1362}{}{, ty se fakt zajÃ­mÃ¡Å¡ o svÃ½ fanouÅ¡ky. NezabÃ­jÃ­Å¡ je jako ostatnÃ­ boxeÅ™i.}
+{1364}{}{, jseÅ¡ nejdrsnÄ›jÅ¡Ã­ Å¾enskÃ¡ na svÄ›tÄ›!}
+{1366}{}{, jseÅ¡ poÅ™Ã¡dnÃ¡ Å¾enskÃ¡!}
+{1381}{}{, jseÅ¡ fakt chlapÃ¡k!}
+{1382}{}{, jseÅ¡ tÃ¡Ã¡Ã¡Ã¡Ã¡Ã¡k krÃ¡snej.}
+{1385}{}{! Dej mi prosÃ­m autogram!}
+{1387}{}{! PoÅ™Ã¡dnÄ› jim to nandej!}
 {1388}{}{!}
 {1389}{}{!}
 {1390}{}{!}
-{1391}{}{, jseš prostì NEJLEPŠÍ. NEJLEPŠÍ.}
+{1391}{}{, jseÅ¡ prostÄ› NEJLEPÅ Ã. NEJLEPÅ Ã.}
 {1392}{}{!!!}
-{1394}{}{, jseš nejlepší šampión v boxu, kterıho jsem kdy vidìla.}
-{1395}{}{, ty opravdu víš, jak nìkomu ublíit.}
-{1396}{}{, ty se fakt zajímáš o svı fanoušky. Nezabíjíš je jako ostatní boxeøi.}
-{1398}{}{, jseš nejdrsnìjší enská na svìtì!}
-{1400}{}{, jseš poøádná enská!}
+{1394}{}{, jseÅ¡ nejlepÅ¡Ã­ Å¡ampiÃ³n v boxu, kterÃ½ho jsem kdy vidÄ›la.}
+{1395}{}{, ty opravdu vÃ­Å¡, jak nÄ›komu ublÃ­Å¾it.}
+{1396}{}{, ty se fakt zajÃ­mÃ¡Å¡ o svÃ½ fanouÅ¡ky. NezabÃ­jÃ­Å¡ je jako ostatnÃ­ boxeÅ™i.}
+{1398}{}{, jseÅ¡ nejdrsnÄ›jÅ¡Ã­ Å¾enskÃ¡ na svÄ›tÄ›!}
+{1400}{}{, jseÅ¡ poÅ™Ã¡dnÃ¡ Å¾enskÃ¡!}

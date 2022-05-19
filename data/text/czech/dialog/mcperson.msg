@@ -1,41 +1,41 @@
-{100}{}{Vidíš místního obyvatele.}
-{200}{}{Urèitì bude brzy pršet.}
-{201}{}{Naše úroda usychá kvùli nedostatku vody.}
-{202}{}{Naše studny vysychají.}
-{203}{}{Na obloze není ani mráèek.}
-{204}{}{Asi se odsud odstìhuju.}
-{205}{}{Modoc bıvalo prosperující mìsto.}
-{206}{}{Tady v Modocu se nic nedìje. A to mi vyhovuje.}
-{220}{}{Slyšel jsem, e na Farmì Duchù vidìli lidé v noci svìtélkující postavy.}
-{221}{}{Slyšel jsi to? Našli nìjakıho idiota, co se pùjde podívat na Farmu Duchù.}
-{222}{}{Byl jsem na Farmì Duchù. Hrùza!}
-{223}{}{Na Farmu Duchù se dá jít jen ve dne.}
-{224}{}{Karl døív il na Farmì Duchù. Teï tam asi straší.}
-{225}{}{Lidé by si nemìli zahrávat s nadpøirozenımi vìcmi.}
-{226}{}{Proè by duchové pìstovali obilí?}
-{240}{}{Lidi, kteøí ijí na Farmì Duchù, si øíkají Svìtloplaši.}
-{241}{}{Svìtloplaši... co je to za jméno?}
-{242}{}{Nevìøím Svìtloplachùm.}
-{243}{}{Moná, e bych Svìtloplachùm vìøil, kdybych vìdìl, co se stalo Karlovi.}
-{260}{}{Setkáme se na Farmì Duchù.}
-{261}{}{Pobijeme pár nièemnıch Svìtloplachù.}
-{262}{}{Doufám, e dìláme správnou vìc.}
-{263}{}{Mìli bychom je napadnout ve dne, kdy spí.}
-{280}{}{Svìtloplaši byli lidé stejnì jako my...}
-{281}{}{Pobili jsme dokonce i eny a dìti Svìtloplachù.}
-{282}{}{Cítím se hroznì.}
-{283}{}{Nemùu smıt krev ze svıch rukou!}
-{284}{}{Doufám, e nikdo nikdy nezjistí, co jsme udìlali.}
-{285}{}{To, co jsme udìlali Svìtloplachùm, nebylo správné.}
-{300}{}{U to víš? Mocnı knìz vymítil duchy z Farmy.}
-{301}{}{Sklizeò z Farmy Duchù nás uiví celı rok.}
-{302}{}{Na Farmì Duchù není ani kapka vody.}
-{303}{}{Moná, e je pùda na Farmì Duchù zakletá. Jak by klasy mohly vyrùst bez vody?}
-{304}{}{Moná, e k zalévání pouívali duchové KREV.}
-{305}{}{Myslím, e duchové kradli naši vodu.}
-{306}{}{Vsadím se, e teï, kdy jsou duchové pryè, bude zase všechno v poøádku.}
-{320}{}{Budeme se Svìtloplachy obchodovat.}
-{321}{}{Svìtloplaši nabízejí dodávky vody do Modocu v období sucha.}
-{322}{}{Díky za naši záchranu. Hrdino!}
-{323}{}{Díky tobì byl Modoc zachránìn.}
-{324}{}{Vdy tì v Modocu rádi uvítáme.}
+{100}{}{VidÃ­Å¡ mÃ­stnÃ­ho obyvatele.}
+{200}{}{UrÄitÄ› bude brzy prÅ¡et.}
+{201}{}{NaÅ¡e Ãºroda usychÃ¡ kvÅ¯li nedostatku vody.}
+{202}{}{NaÅ¡e studny vysychajÃ­.}
+{203}{}{Na obloze nenÃ­ ani mrÃ¡Äek.}
+{204}{}{Asi se odsud odstÄ›huju.}
+{205}{}{Modoc bÃ½valo prosperujÃ­cÃ­ mÄ›sto.}
+{206}{}{Tady v Modocu se nic nedÄ›je. A to mi vyhovuje.}
+{220}{}{SlyÅ¡el jsem, Å¾e na FarmÄ› DuchÅ¯ vidÄ›li lidÃ© v noci svÄ›tÃ©lkujÃ­cÃ­ postavy.}
+{221}{}{SlyÅ¡el jsi to? NaÅ¡li nÄ›jakÃ½ho idiota, co se pÅ¯jde podÃ­vat na Farmu DuchÅ¯.}
+{222}{}{Byl jsem na FarmÄ› DuchÅ¯. HrÅ¯za!}
+{223}{}{Na Farmu DuchÅ¯ se dÃ¡ jÃ­t jen ve dne.}
+{224}{}{Karl dÅ™Ã­v Å¾il na FarmÄ› DuchÅ¯. TeÄ tam asi straÅ¡Ã­.}
+{225}{}{LidÃ© by si nemÄ›li zahrÃ¡vat s nadpÅ™irozenÃ½mi vÄ›cmi.}
+{226}{}{ProÄ by duchovÃ© pÄ›stovali obilÃ­?}
+{240}{}{Lidi, kteÅ™Ã­ Å¾ijÃ­ na FarmÄ› DuchÅ¯, si Å™Ã­kajÃ­ SvÄ›tloplaÅ¡i.}
+{241}{}{SvÄ›tloplaÅ¡i... co je to za jmÃ©no?}
+{242}{}{NevÄ›Å™Ã­m SvÄ›tloplachÅ¯m.}
+{243}{}{MoÅ¾nÃ¡, Å¾e bych SvÄ›tloplachÅ¯m vÄ›Å™il, kdybych vÄ›dÄ›l, co se stalo Karlovi.}
+{260}{}{SetkÃ¡me se na FarmÄ› DuchÅ¯.}
+{261}{}{Pobijeme pÃ¡r niÄemnÃ½ch SvÄ›tloplachÅ¯.}
+{262}{}{DoufÃ¡m, Å¾e dÄ›lÃ¡me sprÃ¡vnou vÄ›c.}
+{263}{}{MÄ›li bychom je napadnout ve dne, kdyÅ¾ spÃ­.}
+{280}{}{SvÄ›tloplaÅ¡i byli lidÃ© stejnÄ› jako my...}
+{281}{}{Pobili jsme dokonce i Å¾eny a dÄ›ti SvÄ›tloplachÅ¯.}
+{282}{}{CÃ­tÃ­m se hroznÄ›.}
+{283}{}{NemÅ¯Å¾u smÃ½t krev ze svÃ½ch rukou!}
+{284}{}{DoufÃ¡m, Å¾e nikdo nikdy nezjistÃ­, co jsme udÄ›lali.}
+{285}{}{To, co jsme udÄ›lali SvÄ›tloplachÅ¯m, nebylo sprÃ¡vnÃ©.}
+{300}{}{UÅ¾ to vÃ­Å¡? MocnÃ½ knÄ›z vymÃ­til duchy z Farmy.}
+{301}{}{SklizeÅˆ z Farmy DuchÅ¯ nÃ¡s uÅ¾ivÃ­ celÃ½ rok.}
+{302}{}{Na FarmÄ› DuchÅ¯ nenÃ­ ani kapka vody.}
+{303}{}{MoÅ¾nÃ¡, Å¾e je pÅ¯da na FarmÄ› DuchÅ¯ zakletÃ¡. Jak by klasy mohly vyrÅ¯st bez vody?}
+{304}{}{MoÅ¾nÃ¡, Å¾e k zalÃ©vÃ¡nÃ­ pouÅ¾Ã­vali duchovÃ© KREV.}
+{305}{}{MyslÃ­m, Å¾e duchovÃ© kradli naÅ¡i vodu.}
+{306}{}{VsadÃ­m se, Å¾e teÄ, kdyÅ¾ jsou duchovÃ© pryÄ, bude zase vÅ¡echno v poÅ™Ã¡dku.}
+{320}{}{Budeme se SvÄ›tloplachy obchodovat.}
+{321}{}{SvÄ›tloplaÅ¡i nabÃ­zejÃ­ dodÃ¡vky vody do Modocu v obdobÃ­ sucha.}
+{322}{}{DÃ­ky za naÅ¡i zÃ¡chranu. Hrdino!}
+{323}{}{DÃ­ky tobÄ› byl Modoc zachrÃ¡nÄ›n.}
+{324}{}{VÅ¾dy tÄ› v Modocu rÃ¡di uvÃ­tÃ¡me.}

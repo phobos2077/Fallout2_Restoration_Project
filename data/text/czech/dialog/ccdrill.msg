@@ -1,73 +1,73 @@
-{100}{}{Vidíš vojenského instruktora.}
-{101}{}{Vidíš seranta Dornana.}
-{102}{}{Vidíš mue v energo zbroji neobvyklého vzhledu. Na prsou má znak, kterı nepoznáváš.}
-{103}{sgnt1a}{Vítej v základnì Navarro... civilisto! Jak se k sakru mùe civilista dostat do téhle základny? Asi si tu nìkoho pìknì podám! Vyhoïte toho civila z vládní zóny.}
-{104}{sgnt1b}{Vítejte v základnì Navarro... civilové! Jak se k sakru mùou civilisti dostat do téhle základny? Asi si tu nìkoho pìknì podám! Vyhoïte ty civily z vládní zóny.}
-{105}{}{Poèkat. Já...}
-{106}{sgnt2a}{Ale u zaèínám bıt nasranej. Nechal jsem tì vyhodit ze základny a u jseš tu zase. Myslím, e nejsi jen tak obyèejnı civil. Urèitì jsi špeh! Spuste alarm a sejmìte tohohle èerva!}
-{107}{sgnt2b}{Ale u zaèínám bıt nasranej. Nechal jsem vás vyhodit ze základny a u jste tu zase. Myslím, e nejste jen tak obyèejní civilové. Urèitì jste špehové! Spuste alarm a sejmìte ty èervy!}
-{108}{sgnt3}{Vítej v základnì Navarro. Take ty jsi ta posila, co nám slíbili. Jak se jmenuješ, vojíne?}
-{109}{}{Eh... já }
+{100}{}{VidÃ­Å¡ vojenskÃ©ho instruktora.}
+{101}{}{VidÃ­Å¡ serÅ¾anta Dornana.}
+{102}{}{VidÃ­Å¡ muÅ¾e v energo zbroji neobvyklÃ©ho vzhledu. Na prsou mÃ¡ znak, kterÃ½ nepoznÃ¡vÃ¡Å¡.}
+{103}{sgnt1a}{VÃ­tej v zÃ¡kladnÄ› Navarro... civilisto! Jak se k sakru mÅ¯Å¾e civilista dostat do tÃ©hle zÃ¡kladny? Asi si tu nÄ›koho pÄ›knÄ› podÃ¡m! VyhoÄte toho civila z vlÃ¡dnÃ­ zÃ³ny.}
+{104}{sgnt1b}{VÃ­tejte v zÃ¡kladnÄ› Navarro... civilovÃ©! Jak se k sakru mÅ¯Å¾ou civilisti dostat do tÃ©hle zÃ¡kladny? Asi si tu nÄ›koho pÄ›knÄ› podÃ¡m! VyhoÄte ty civily z vlÃ¡dnÃ­ zÃ³ny.}
+{105}{}{PoÄkat. JÃ¡...}
+{106}{sgnt2a}{Ale uÅ¾ zaÄÃ­nÃ¡m bÃ½t nasranej. Nechal jsem tÄ› vyhodit ze zÃ¡kladny a uÅ¾ jseÅ¡ tu zase. MyslÃ­m, Å¾e nejsi jen tak obyÄejnÃ½ civil. UrÄitÄ› jsi Å¡peh! SpusÅ¥te alarm a sejmÄ›te tohohle Äerva!}
+{107}{sgnt2b}{Ale uÅ¾ zaÄÃ­nÃ¡m bÃ½t nasranej. Nechal jsem vÃ¡s vyhodit ze zÃ¡kladny a uÅ¾ jste tu zase. MyslÃ­m, Å¾e nejste jen tak obyÄejnÃ­ civilovÃ©. UrÄitÄ› jste Å¡pehovÃ©! SpusÅ¥te alarm a sejmÄ›te ty Äervy!}
+{108}{sgnt3}{VÃ­tej v zÃ¡kladnÄ› Navarro. TakÅ¾e ty jsi ta posila, co nÃ¡m slÃ­bili. Jak se jmenujeÅ¡, vojÃ­ne?}
+{109}{}{Eh... jÃ¡ }
 {110}{}{Jsem }
-{111}{sgnt4}{No, vıbornì. Poslali mi sem debila. Poslouchej pozornì. Budeš stát na strái u hangáru. To bude tvùj strání post. Teï tam pùjdeš a zùstaneš tam na strái, dokud ti neøeknu jinak. A teï hejbni zadkem, vojáku!}
-{112}{}{Já jít.}
-{113}{sgnt5}{Coe? Nezapomnìl jsi na nìco, èerve?}
+{111}{sgnt4}{No, vÃ½bornÄ›. Poslali mi sem debila. Poslouchej pozornÄ›. BudeÅ¡ stÃ¡t na strÃ¡Å¾i u hangÃ¡ru. To bude tvÅ¯j strÃ¡Å¾nÃ­ post. TeÄ tam pÅ¯jdeÅ¡ a zÅ¯staneÅ¡ tam na strÃ¡Å¾i, dokud ti neÅ™eknu jinak. A teÄ hejbni zadkem, vojÃ¡ku!}
+{112}{}{JÃ¡ jÃ­t.}
+{113}{sgnt5}{CoÅ¾e? NezapomnÄ›l jsi na nÄ›co, Äerve?}
 {114}{}{Jmenuju se }
-{115}{sgnt6}{Nejsem ádnı pán. Budeš mi øíkat serante nebo serante Dornane. Rozumíš?! }
-{116}{}{Ano, serante!}
-{117}{}{Jasnì, sero. Jasná páka.}
-{118}{sgnt7}{Vıbornì. Teï pùjdeš k hangáru, kde vystøídáš strá a budeš mít slubu. A koukej sekat latinu. Rozumíš?}
-{119}{}{Co tam budu hlídat, serante?}
-{120}{}{Ano, serante!}
-{121}{sgnt8}{Ty blbeèku, na moje pøíkazy se nebudeš ptát! Kdy ti øeknu "skoè", tak skoèíš! Kdy ti øeknu "bojuj", tak budeš bojovat! A kdy ti øeknu, a umøeš pro svou vlast, tak pro ni umøeš! Rozumíš?}
-{122}{}{Ano, serante!}
-{123}{sgnt9}{Vítej v základnì Navarro. Take ty jsi ta posila, co nám slíbili... nemáš na sobì uniformu, vojáku! Kde máš svoji energo zbroj?}
-{124}{}{Eh... já nemít.}
-{125}{}{Na základnì mi ádnou nedali. Øekli mi, e ji dostanu tady.}
-{126}{}{Eh... ádnou mi nedali.}
-{127}{}{Za moment ji budu mít... sundám si ji z tvého mrtvého tìla!}
-{128}{sgnt10}{ádnou nemáš? Èekáš snad, e ti to seeru, èerve? Pravdou je, e jsi ztratil drahou èást vojenského vybavení. Tu zbroj ti budeme strhávat ze oldu, take zùstaneš v armádì, dokud ti nebude 510 let. To je toti pøesnì doba, za kterou budeš schopen energo zbroj mark II splatit! A teï se ohlaš ve skladu, vyfasuj novou zbroj a pak se mi zase ohlaš, vojíne! Odchod!}
-{129}{}{Tak jo. Já jít pro zbroja.}
-{130}{}{Ano, serante!}
-{131}{sgnt11}{Zasraní ouøadové! Jak mám k èertu øídit tuhle jednotku, kdy mì takhle okrádají o zásoby? Jdi do skladu, vyfasuj si tam nové vybavení a pak se mi ohlaš. Odchod!}
-{132}{}{Dobøe.}
-{133}{}{Ano, serante!}
-{134}{sgnt12}{Kdy se mi budeš líbit, mùeš mi klidnì øíkat sero. Ale hádej co? Nelíbíš se mi! Je ti to jasnı?}
-{135}{}{Ano, serante!}
-{136}{sgnt13}{Vıbornì! Teï kdy jsi koneènì v uniformì, dám ti jedineènou pøíleitost. Zaèneme zase znovu, jako kdybych tu tvoji prdel nikdy nevidìl. Co na to øíkáš, vojáku?}
-{137}{}{Ano, eh... serent!}
-{138}{}{Ne! Já bıt jedno. Já teï nakopat tvoja prdel.}
-{139}{}{Ano, serante!}
-{140}{}{Náš vzájemnı vztah je mi úplnì fuk. Zvláš teï, kdy mám na sobì tuhle pìknou zbroj. Protoe teï ti mùu koneènì nakopat prdel.}
-{141}{sgnt14a}{Vojíne, poøád na sobì nemáš uniformu. Dal jsem ti pøímı rozkaz, a se ohlásíš ve skladu a vyfasuješ všechno potøebné vybavení. A teï mi zmiz z oèí a nevracej se, dokud nebudeš vypadat jako voják!}
-{142}{sgnt14b}{To je podruhé, co se mi hlásíš bez uniformy, vojáku. ádné potøetí u nebude!}
-{143}{}{Dobøe! Dobøe! Já jít.}
-{144}{}{Kašlat na to. Já unavenı z kecy.}
-{145}{}{Rozkaz serante! U jdu.}
-{146}{}{Seru na to. Tohle není nic pro mì.}
-{147}{sgnt15a}{Vojáku, co tu dìláš? Vra se zpátky na svùj post!}
-{148}{sgnt15b}{De-bi-le. Jestli ještì jednou uvidím, e nejsi na svém postu, bude to nejsmutnìjší den tvého krátkého ivota!}
-{149}{sgnt15c}{Jsi pro nás všechny jen pøítì. To teï skonèí.}
-{150}{sgnt16}{Na základnì je poplach a tebe neznám. Uka mi svoje doklady, vojáku.}
-{151}{}{Já nemít doklady u já.}
-{152}{}{Já nepotøebovat doklady!}
-{153}{}{Nemám je u sebe. Jsou v mojí skøíòce.}
-{154}{}{Doklady? Mám vaše doklady pøímo tady!}
-{155}{sgnt17}{Špatná odpovìï, èerve. Svoje doklady musíš mít poøád u sebe a to bys mìl vìdìt!}
+{115}{sgnt6}{Nejsem Å¾Ã¡dnÃ½ pÃ¡n. BudeÅ¡ mi Å™Ã­kat serÅ¾ante nebo serÅ¾ante Dornane. RozumÃ­Å¡?! }
+{116}{}{Ano, serÅ¾ante!}
+{117}{}{JasnÄ›, serÅ¾o. JasnÃ¡ pÃ¡ka.}
+{118}{sgnt7}{VÃ½bornÄ›. TeÄ pÅ¯jdeÅ¡ k hangÃ¡ru, kde vystÅ™Ã­dÃ¡Å¡ strÃ¡Å¾ a budeÅ¡ mÃ­t sluÅ¾bu. A koukej sekat latinu. RozumÃ­Å¡?}
+{119}{}{Co tam budu hlÃ­dat, serÅ¾ante?}
+{120}{}{Ano, serÅ¾ante!}
+{121}{sgnt8}{Ty blbeÄku, na moje pÅ™Ã­kazy se nebudeÅ¡ ptÃ¡t! KdyÅ¾ ti Å™eknu "skoÄ", tak skoÄÃ­Å¡! KdyÅ¾ ti Å™eknu "bojuj", tak budeÅ¡ bojovat! A kdyÅ¾ ti Å™eknu, aÅ¥ umÅ™eÅ¡ pro svou vlast, tak pro ni umÅ™eÅ¡! RozumÃ­Å¡?}
+{122}{}{Ano, serÅ¾ante!}
+{123}{sgnt9}{VÃ­tej v zÃ¡kladnÄ› Navarro. TakÅ¾e ty jsi ta posila, co nÃ¡m slÃ­bili... nemÃ¡Å¡ na sobÄ› uniformu, vojÃ¡ku! Kde mÃ¡Å¡ svoji energo zbroj?}
+{124}{}{Eh... jÃ¡ nemÃ­t.}
+{125}{}{Na zÃ¡kladnÄ› mi Å¾Ã¡dnou nedali. Å˜ekli mi, Å¾e ji dostanu tady.}
+{126}{}{Eh... Å¾Ã¡dnou mi nedali.}
+{127}{}{Za moment ji budu mÃ­t... sundÃ¡m si ji z tvÃ©ho mrtvÃ©ho tÄ›la!}
+{128}{sgnt10}{Å½Ã¡dnou nemÃ¡Å¡? ÄŒekÃ¡Å¡ snad, Å¾e ti to seÅ¾eru, Äerve? Pravdou je, Å¾e jsi ztratil drahou ÄÃ¡st vojenskÃ©ho vybavenÃ­. Tu zbroj ti budeme strhÃ¡vat ze Å¾oldu, takÅ¾e zÅ¯staneÅ¡ v armÃ¡dÄ›, dokud ti nebude 510 let. To je totiÅ¾ pÅ™esnÄ› doba, za kterou budeÅ¡ schopen energo zbroj mark II splatit! A teÄ se ohlaÅ¡ ve skladu, vyfasuj novou zbroj a pak se mi zase ohlaÅ¡, vojÃ­ne! Odchod!}
+{129}{}{Tak jo. JÃ¡ jÃ­t pro zbroja.}
+{130}{}{Ano, serÅ¾ante!}
+{131}{sgnt11}{ZasranÃ­ ouÅ™adovÃ©! Jak mÃ¡m k Äertu Å™Ã­dit tuhle jednotku, kdyÅ¾ mÄ› takhle okrÃ¡dajÃ­ o zÃ¡soby? Jdi do skladu, vyfasuj si tam novÃ© vybavenÃ­ a pak se mi ohlaÅ¡. Odchod!}
+{132}{}{DobÅ™e.}
+{133}{}{Ano, serÅ¾ante!}
+{134}{sgnt12}{KdyÅ¾ se mi budeÅ¡ lÃ­bit, mÅ¯Å¾eÅ¡ mi klidnÄ› Å™Ã­kat serÅ¾o. Ale hÃ¡dej co? NelÃ­bÃ­Å¡ se mi! Je ti to jasnÃ½?}
+{135}{}{Ano, serÅ¾ante!}
+{136}{sgnt13}{VÃ½bornÄ›! TeÄ kdyÅ¾ jsi koneÄnÄ› v uniformÄ›, dÃ¡m ti jedineÄnou pÅ™Ã­leÅ¾itost. ZaÄneme zase znovu, jako kdybych tu tvoji prdel nikdy nevidÄ›l. Co na to Å™Ã­kÃ¡Å¡, vojÃ¡ku?}
+{137}{}{Ano, eh... serÅ¾ent!}
+{138}{}{Ne! JÃ¡ bÃ½t jedno. JÃ¡ teÄ nakopat tvoja prdel.}
+{139}{}{Ano, serÅ¾ante!}
+{140}{}{NÃ¡Å¡ vzÃ¡jemnÃ½ vztah je mi ÃºplnÄ› fuk. ZvlÃ¡Å¡Å¥ teÄ, kdyÅ¾ mÃ¡m na sobÄ› tuhle pÄ›knou zbroj. ProtoÅ¾e teÄ ti mÅ¯Å¾u koneÄnÄ› nakopat prdel.}
+{141}{sgnt14a}{VojÃ­ne, poÅ™Ã¡d na sobÄ› nemÃ¡Å¡ uniformu. Dal jsem ti pÅ™Ã­mÃ½ rozkaz, aÅ¥ se ohlÃ¡sÃ­Å¡ ve skladu a vyfasujeÅ¡ vÅ¡echno potÅ™ebnÃ© vybavenÃ­. A teÄ mi zmiz z oÄÃ­ a nevracej se, dokud nebudeÅ¡ vypadat jako vojÃ¡k!}
+{142}{sgnt14b}{To je podruhÃ©, co se mi hlÃ¡sÃ­Å¡ bez uniformy, vojÃ¡ku. Å½Ã¡dnÃ© potÅ™etÃ­ uÅ¾ nebude!}
+{143}{}{DobÅ™e! DobÅ™e! JÃ¡ jÃ­t.}
+{144}{}{KaÅ¡lat na to. JÃ¡ unavenÃ½ z kecy.}
+{145}{}{Rozkaz serÅ¾ante! UÅ¾ jdu.}
+{146}{}{Seru na to. Tohle nenÃ­ nic pro mÄ›.}
+{147}{sgnt15a}{VojÃ¡ku, co tu dÄ›lÃ¡Å¡? VraÅ¥ se zpÃ¡tky na svÅ¯j post!}
+{148}{sgnt15b}{De-bi-le. Jestli jeÅ¡tÄ› jednou uvidÃ­m, Å¾e nejsi na svÃ©m postu, bude to nejsmutnÄ›jÅ¡Ã­ den tvÃ©ho krÃ¡tkÃ©ho Å¾ivota!}
+{149}{sgnt15c}{Jsi pro nÃ¡s vÅ¡echny jen pÅ™Ã­tÄ›Å¾. To teÄ skonÄÃ­.}
+{150}{sgnt16}{Na zÃ¡kladnÄ› je poplach a tebe neznÃ¡m. UkaÅ¾ mi svoje doklady, vojÃ¡ku.}
+{151}{}{JÃ¡ nemÃ­t doklady u jÃ¡.}
+{152}{}{JÃ¡ nepotÅ™ebovat doklady!}
+{153}{}{NemÃ¡m je u sebe. Jsou v mojÃ­ skÅ™Ã­Åˆce.}
+{154}{}{Doklady? MÃ¡m vaÅ¡e doklady pÅ™Ã­mo tady!}
+{155}{sgnt17}{Å patnÃ¡ odpovÄ›Ä, Äerve. Svoje doklady musÃ­Å¡ mÃ­t poÅ™Ã¡d u sebe a to bys mÄ›l vÄ›dÄ›t!}
 {156}{}{A sakra.}
-{157}{}{Zùstaò bdìlı, vojáku!}
-{158}{}{Dobøe. Jde ti to dobøe. Jen tak dál!}
-{159}{}{Jak vidím, všechno je v poøádku. Zùstaò na svém postu.}
-{160}{}{Jestli nìkoho z vás nachytám jak spí, tak si buïte jistí, e u se neprobudí!}
-{161}{}{Dobøe! Jsi na správném postu!}
-{162}{}{Zùstaò na svém postu, dokud tì nìkdo nevystøídá, vojáku!}
-{163}{}{Na svém postu a bdìlı. Vıbornì!}
-{164}{}{Buï bdìlı, buï ostraitı a zùstaneš naivu!}
-{165}{}{Poplach! Vetøelci na základnì!}
-{166}{}{Stráe! Vetøelci!}
-{167}{}{Kdo k èertu pustil tyhle bastardy dovnitø? Stráe!}
-{168}{}{Poplach! Špehové v komplexu!}
-{169}{}{Kde je sakra ten zatracenej voják?!}
+{157}{}{ZÅ¯staÅˆ bdÄ›lÃ½, vojÃ¡ku!}
+{158}{}{DobÅ™e. Jde ti to dobÅ™e. Jen tak dÃ¡l!}
+{159}{}{Jak vidÃ­m, vÅ¡echno je v poÅ™Ã¡dku. ZÅ¯staÅˆ na svÃ©m postu.}
+{160}{}{Jestli nÄ›koho z vÃ¡s nachytÃ¡m jak spÃ­, tak si buÄte jistÃ­, Å¾e uÅ¾ se neprobudÃ­!}
+{161}{}{DobÅ™e! Jsi na sprÃ¡vnÃ©m postu!}
+{162}{}{ZÅ¯staÅˆ na svÃ©m postu, dokud tÄ› nÄ›kdo nevystÅ™Ã­dÃ¡, vojÃ¡ku!}
+{163}{}{Na svÃ©m postu a bdÄ›lÃ½. VÃ½bornÄ›!}
+{164}{}{BuÄ bdÄ›lÃ½, buÄ ostraÅ¾itÃ½ a zÅ¯staneÅ¡ naÅ¾ivu!}
+{165}{}{Poplach! VetÅ™elci na zÃ¡kladnÄ›!}
+{166}{}{StrÃ¡Å¾e! VetÅ™elci!}
+{167}{}{Kdo k Äertu pustil tyhle bastardy dovnitÅ™? StrÃ¡Å¾e!}
+{168}{}{Poplach! Å pehovÃ© v komplexu!}
+{169}{}{Kde je sakra ten zatracenej vojÃ¡k?!}
 {200}{}{.}
 {201}{}{, pane!}
-{300}{}{Øíkal jsem ti, a se sem nevracíš bez uniformy!}
+{300}{}{Å˜Ã­kal jsem ti, aÅ¥ se sem nevracÃ­Å¡ bez uniformy!}

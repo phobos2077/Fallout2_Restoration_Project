@@ -1,55 +1,55 @@
-{100}{}{Vidíš strá.}
-{101}{}{Vidíš strá hlídající vchod.}
-{102}{}{Vidíš osobu v energo zbroji neobvyklého vzhledu. Na prsou má znak, kterı nepoznáváš.}
-{103}{gate1}{Stát! Tohle je federální území. Sem je vstup bez pøíslušného povolení zakázán.}
+{100}{}{VidÃ­Å¡ strÃ¡Å¾.}
+{101}{}{VidÃ­Å¡ strÃ¡Å¾ hlÃ­dajÃ­cÃ­ vchod.}
+{102}{}{VidÃ­Å¡ osobu v energo zbroji neobvyklÃ©ho vzhledu. Na prsou mÃ¡ znak, kterÃ½ nepoznÃ¡vÃ¡Å¡.}
+{103}{gate1}{StÃ¡t! Tohle je federÃ¡lnÃ­ ÃºzemÃ­. Sem je vstup bez pÅ™Ã­sluÅ¡nÃ©ho povolenÃ­ zakÃ¡zÃ¡n.}
 {104}{}{Eh... fedr..er..ace? Co to je?}
-{105}{}{Já mít propustku... kam ji jen dát?}
-{106}{}{Já bıt novı. Mnì øíct vy èekat mì.}
-{107}{}{Aha. Já omlouvat. Hned jít pryè.}
-{108}{}{Mám propustku... kde ji jenom mám.}
-{109}{}{Jsem nováèek. Øekli mi, e mì budete oèekávat.}
-{110}{}{Aha, promiò. Tak já jdu teda pryè.}
-{111}{gate2}{Ty jsi trochu pomalejší, viï? Seber si svıch pìt švestek a u se sem nevracej. Rozumíš?}
-{112}{}{Chtít jít dovnitø.}
-{113}{}{Dobøe. Já jít.}
-{114}{gate3}{Nikdo sem... sakra. (Pomalu.) Ty potøebovat propustku, aby ty dostat dovnitø. Kdy ty nemít propustku, ty jít pryè. Kdy ty nejít pryè, ty dostat pøes drku. Ty rozumìt?}
-{115}{}{A co kdy já místo toho ty nakopat prdel?}
-{116}{}{Dobøe. Já jít.}
-{117}{gate14}{(Dá ruku na zbraò.) Neomlouvej se mi! Buï mi uka propustku, nebo mi øekni heslo!}
-{118}{}{Já nemoct najít propustka. Já nepamatovat heslo!}
-{119}{}{Kašlat na to. Já zabít.}
-{120}{}{Promiò, nemùu tu propustku najít a nevím nic o ádném heslu.}
-{121}{}{K èertu s tebou a takovımi jako ty!}
-{122}{gate5}{Radím ti dobøe, rychle odsud vypadni a nevracej se bez øádné propustky. Øíkám to dost jasnì?}
+{105}{}{JÃ¡ mÃ­t propustku... kam ji jen dÃ¡t?}
+{106}{}{JÃ¡ bÃ½t novÃ½. MnÄ› Å™Ã­ct vy Äekat mÄ›.}
+{107}{}{Aha. JÃ¡ omlouvat. Hned jÃ­t pryÄ.}
+{108}{}{MÃ¡m propustku... kde ji jenom mÃ¡m.}
+{109}{}{Jsem novÃ¡Äek. Å˜ekli mi, Å¾e mÄ› budete oÄekÃ¡vat.}
+{110}{}{Aha, promiÅˆ. Tak jÃ¡ jdu teda pryÄ.}
+{111}{gate2}{Ty jsi trochu pomalejÅ¡Ã­, viÄ? Seber si svÃ½ch pÄ›t Å¡vestek a uÅ¾ se sem nevracej. RozumÃ­Å¡?}
+{112}{}{ChtÃ­t jÃ­t dovnitÅ™.}
+{113}{}{DobÅ™e. JÃ¡ jÃ­t.}
+{114}{gate3}{Nikdo sem... sakra. (Pomalu.) Ty potÅ™ebovat propustku, aby ty dostat dovnitÅ™. KdyÅ¾ ty nemÃ­t propustku, ty jÃ­t pryÄ. KdyÅ¾ ty nejÃ­t pryÄ, ty dostat pÅ™es drÅ¾ku. Ty rozumÄ›t?}
+{115}{}{A co kdyÅ¾ jÃ¡ mÃ­sto toho ty nakopat prdel?}
+{116}{}{DobÅ™e. JÃ¡ jÃ­t.}
+{117}{gate14}{(DÃ¡ ruku na zbraÅˆ.) Neomlouvej se mi! BuÄ mi ukaÅ¾ propustku, nebo mi Å™ekni heslo!}
+{118}{}{JÃ¡ nemoct najÃ­t propustka. JÃ¡ nepamatovat heslo!}
+{119}{}{KaÅ¡lat na to. JÃ¡ zabÃ­t.}
+{120}{}{PromiÅˆ, nemÅ¯Å¾u tu propustku najÃ­t a nevÃ­m nic o Å¾Ã¡dnÃ©m heslu.}
+{121}{}{K Äertu s tebou a takovÃ½mi jako ty!}
+{122}{gate5}{RadÃ­m ti dobÅ™e, rychle odsud vypadni a nevracej se bez Å™Ã¡dnÃ© propustky. Å˜Ã­kÃ¡m to dost jasnÄ›?}
 {123}{}{Ano.}
-{124}{gate6a}{Rozumím. Mùu laskavì slyšet heslo?}
-{125}{gate6b}{Aha. (Dá ruku na zbraò.) Všichni nováèci se musí do sluby hlásit sami. Radši odsud odejdi i s tìmi svımi kumpány. Øíkám to dost jasnì?}
-{126}{}{Ovèí hlava.}
+{124}{gate6a}{RozumÃ­m. MÅ¯Å¾u laskavÄ› slyÅ¡et heslo?}
+{125}{gate6b}{Aha. (DÃ¡ ruku na zbraÅˆ.) VÅ¡ichni novÃ¡Äci se musÃ­ do sluÅ¾by hlÃ¡sit sami. RadÅ¡i odsud odejdi i s tÄ›mi svÃ½mi kumpÃ¡ny. Å˜Ã­kÃ¡m to dost jasnÄ›?}
+{126}{}{OvÄÃ­ hlava.}
 {127}{}{Ano.}
-{128}{gate7a}{Momentík prosím. (Po chvíli.) Dobøe, vypadáš v poøádku. Nahlas se vıkonnému dùstojníkovi. Projdi vchodem, pak kolem budovy a jsou to ty první dveøe napravo.}
-{129}{gate7b}{(Mumlá.) Ty vygumovanı palice jsou èím dál tím pitomìjší.}
-{130}{}{Dobøe.}
-{131}{gate8a}{Stát! - Hmm. Vidím, e tentokrát jsi sám. Tak rekrute, jakı je to heslo?}
-{132}{gate8b}{Stát! - Zase ty. Koukám, e ta banda je poøád s tebou. (dá ruku na zbraò) Mìli byste odtud vypadnout a nevracet se sem. Øíkám to dost jasnì?}
-{133}{}{Ovèí hlava.}
+{128}{gate7a}{MomentÃ­k prosÃ­m. (Po chvÃ­li.) DobÅ™e, vypadÃ¡Å¡ v poÅ™Ã¡dku. Nahlas se vÃ½konnÃ©mu dÅ¯stojnÃ­kovi. Projdi vchodem, pak kolem budovy a jsou to ty prvnÃ­ dveÅ™e napravo.}
+{129}{gate7b}{(MumlÃ¡.) Ty vygumovanÃ½ palice jsou ÄÃ­m dÃ¡l tÃ­m pitomÄ›jÅ¡Ã­.}
+{130}{}{DobÅ™e.}
+{131}{gate8a}{StÃ¡t! - Hmm. VidÃ­m, Å¾e tentokrÃ¡t jsi sÃ¡m. Tak rekrute, jakÃ½ je to heslo?}
+{132}{gate8b}{StÃ¡t! - Zase ty. KoukÃ¡m, Å¾e ta banda je poÅ™Ã¡d s tebou. (dÃ¡ ruku na zbraÅˆ) MÄ›li byste odtud vypadnout a nevracet se sem. Å˜Ã­kÃ¡m to dost jasnÄ›?}
+{133}{}{OvÄÃ­ hlava.}
 {134}{}{Ano.}
-{135}{gate9}{Stát! - Zase ty? Doufám, e tentokrát u máš propustku nebo znáš heslo. Tak do toho, já èekám.}
-{136}{}{No... já nevìdìt. Vrátit se.}
-{137}{}{Kašlat na to. Já projít pøes tvı mrtvá tìlo.}
-{138}{}{Podívej, já tu pitomou propustku prostì nemùu najít...}
-{139}{}{K èertu s tím. Naer se olova, kreténe!}
-{140}{gate10}{Tohle je poslední varování. Doporuèuju ti co nejrychleji vypadnout a nevracet se sem. Øíkám to dost jasnì?}
-{141}{}{Dobøe, tak já zase jít...}
-{142}{}{Starı dobrı slova... ty jít do prdel!}
-{143}{}{Dobrá, u jdu.}
-{144}{}{Øeknu ti to jako za starejch èasù... jdi do prdele!}
-{145}{gate11a}{Stát! - Zase ty? Varoval jsem tì. Poplach! Vetøelec u vchodu! }
-{146}{}{Zatracenì!}
-{147}{}{Vetøelec u vchodu!}
-{148}{}{Hlavní vchod byl napaden!}
-{149}{}{Ke vchodu! Vetøelci u vchodu!}
-{200}{}{...kretén...}
-{201}{}{...jo, RADŠI odsud zmiz...}
-{202}{}{...sráè jeden...}
+{135}{gate9}{StÃ¡t! - Zase ty? DoufÃ¡m, Å¾e tentokrÃ¡t uÅ¾ mÃ¡Å¡ propustku nebo znÃ¡Å¡ heslo. Tak do toho, jÃ¡ ÄekÃ¡m.}
+{136}{}{No... jÃ¡ nevÄ›dÄ›t. VrÃ¡tit se.}
+{137}{}{KaÅ¡lat na to. JÃ¡ projÃ­t pÅ™es tvÃ½ mrtvÃ¡ tÄ›lo.}
+{138}{}{PodÃ­vej, jÃ¡ tu pitomou propustku prostÄ› nemÅ¯Å¾u najÃ­t...}
+{139}{}{K Äertu s tÃ­m. NaÅ¾er se olova, kretÃ©ne!}
+{140}{gate10}{Tohle je poslednÃ­ varovÃ¡nÃ­. DoporuÄuju ti co nejrychleji vypadnout a nevracet se sem. Å˜Ã­kÃ¡m to dost jasnÄ›?}
+{141}{}{DobÅ™e, tak jÃ¡ zase jÃ­t...}
+{142}{}{StarÃ½ dobrÃ½ slova... ty jÃ­t do prdel!}
+{143}{}{DobrÃ¡, uÅ¾ jdu.}
+{144}{}{Å˜eknu ti to jako za starejch ÄasÅ¯... jdi do prdele!}
+{145}{gate11a}{StÃ¡t! - Zase ty? Varoval jsem tÄ›. Poplach! VetÅ™elec u vchodu! }
+{146}{}{ZatracenÄ›!}
+{147}{}{VetÅ™elec u vchodu!}
+{148}{}{HlavnÃ­ vchod byl napaden!}
+{149}{}{Ke vchodu! VetÅ™elci u vchodu!}
+{200}{}{...kretÃ©n...}
+{201}{}{...jo, RADÅ I odsud zmiz...}
+{202}{}{...srÃ¡Ä jeden...}
 {203}{}{...ano, pane! No jo kurva, pane!...}
-{300}{}{Pokraèuj, vojáku.}
+{300}{}{PokraÄuj, vojÃ¡ku.}

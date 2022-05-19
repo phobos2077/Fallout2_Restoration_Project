@@ -1,1 +1,1 @@
-{100}{}{Máš opravdu zvláštní pocit z tohoto místa. Zápach brahmíního hnoje a hnijícího masa je cítit na nìkolik stop od tohoto místa.}
+{100}{}{MÃ¡Å¡ opravdu zvlÃ¡Å¡tnÃ­ pocit z tohoto mÃ­sta. ZÃ¡pach brahmÃ­nÃ­ho hnoje a hnijÃ­cÃ­ho masa je cÃ­tit na nÄ›kolik stop od tohoto mÃ­sta.}

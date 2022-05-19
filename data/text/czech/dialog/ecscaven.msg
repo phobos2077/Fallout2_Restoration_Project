@@ -1,9 +1,9 @@
-{100}{}{To je naše území.}
-{101}{}{Tady nejsi vítán.}
-{102}{}{Myslím, e budeš muset zaplatit poplatek.}
-{103}{}{Obvykle neokrádáme ivé.}
-{104}{}{Máš docela hezké vìci.}
-{105}{}{Za to zaplatíš.}
-{106}{}{Pøíštì.}
-{107}{}{Utéct je podlé!}
-{108}{}{Pro tentokrát si svoje vìci mùeš nechat.}
+{100}{}{To je naÅ¡e ÃºzemÃ­.}
+{101}{}{Tady nejsi vÃ­tÃ¡n.}
+{102}{}{MyslÃ­m, Å¾e budeÅ¡ muset zaplatit poplatek.}
+{103}{}{Obvykle neokrÃ¡dÃ¡me Å¾ivÃ©.}
+{104}{}{MÃ¡Å¡ docela hezkÃ© vÄ›ci.}
+{105}{}{Za to zaplatÃ­Å¡.}
+{106}{}{PÅ™Ã­Å¡tÄ›.}
+{107}{}{UtÃ©ct je podlÃ©!}
+{108}{}{Pro tentokrÃ¡t si svoje vÄ›ci mÅ¯Å¾eÅ¡ nechat.}

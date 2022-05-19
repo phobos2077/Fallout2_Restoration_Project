@@ -1,34 +1,34 @@
-{0}{}{SÍ}
+{0}{}{SÃ}
 {1}{}{VN}
 {2}{}{OD}
 {3}{}{CH}
 {4}{}{IN}
 {5}{}{HB}
-{6}{}{ŠT}
+{6}{}{Å T}
 {7}{}{Hit body}
-{8}{}{Tøída zbroje}
+{8}{}{TÅ™Ã­da zbroje}
 {9}{}{  Normal}
 {10}{}{  Laser}
-{11}{}{  Oheò}
+{11}{}{  OheÅˆ}
 {12}{}{  Plazma}
 {13}{}{  Exploze}
-{14}{}{Prázdná ruka}
-{15}{}{Pošk:}
+{14}{}{PrÃ¡zdnÃ¡ ruka}
+{15}{}{PoÅ¡k:}
 {16}{}{Dsh:}
-{17}{}{Náb.:}
-{18}{}{(Neobleèeno)}
-{19}{}{Nemáš dost akèních bodù pro vstup do inventáøe.}
-{20}{}{Náklad:}
-{21}{}{PØESUÒ VÌCI}
-{22}{}{VŠE}
-{23}{}{NASTAV ÈASOVAÈ}
-{24}{}{Poškození:}
-{25}{}{Nemùeš to vzít. Víc u toho neuneseš.}
-{26}{}{Pro tuhle vìc tu není dostatek volného místa.}
-{27}{}{Souhlasím. To je dobrı obchod.}
-{28}{}{Ne, tvoje nabídka není dost dobrá.}
-{29}{}{Získáváš %d zkuš. bodù za úspìšné pouití dovednosti "Kradení".}
-{30}{}{Váha}
-{31}{}{Promiò, ale víc u neuneseš.}
-{32}{}{Promiò, ale je to pøíliš tìké.}
-{50}{}{Nenacházíš nic, co by se dalo vzít.}
+{17}{}{NÃ¡b.:}
+{18}{}{(NeobleÄeno)}
+{19}{}{NemÃ¡Å¡ dost akÄnÃ­ch bodÅ¯ pro vstup do inventÃ¡Å™e.}
+{20}{}{NÃ¡klad:}
+{21}{}{PÅ˜ESUÅ‡ VÄšCI}
+{22}{}{VÅ E}
+{23}{}{NASTAV ÄŒASOVAÄŒ}
+{24}{}{PoÅ¡kozenÃ­:}
+{25}{}{NemÅ¯Å¾eÅ¡ to vzÃ­t. VÃ­c uÅ¾ toho neuneseÅ¡.}
+{26}{}{Pro tuhle vÄ›c tu nenÃ­ dostatek volnÃ©ho mÃ­sta.}
+{27}{}{SouhlasÃ­m. To je dobrÃ½ obchod.}
+{28}{}{Ne, tvoje nabÃ­dka nenÃ­ dost dobrÃ¡.}
+{29}{}{ZÃ­skÃ¡vÃ¡Å¡ %d zkuÅ¡. bodÅ¯ za ÃºspÄ›Å¡nÃ© pouÅ¾itÃ­ dovednosti "KradenÃ­".}
+{30}{}{VÃ¡ha}
+{31}{}{PromiÅˆ, ale vÃ­c uÅ¾ neuneseÅ¡.}
+{32}{}{PromiÅˆ, ale je to pÅ™Ã­liÅ¡ tÄ›Å¾kÃ©.}
+{50}{}{NenachÃ¡zÃ­Å¡ nic, co by se dalo vzÃ­t.}

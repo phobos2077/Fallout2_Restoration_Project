@@ -1,7 +1,7 @@
-{100}{}{Vidíš mue v nìjaké zbroji.}
-{101}{}{Vidíš mue v nìjaké zbroji.}
-{102}{}{Jeho zbroj se zdá bıt rezavá.}
+{100}{}{VidÃ­Å¡ muÅ¾e v nÄ›jakÃ© zbroji.}
+{101}{}{VidÃ­Å¡ muÅ¾e v nÄ›jakÃ© zbroji.}
+{102}{}{Jeho zbroj se zdÃ¡ bÃ½t rezavÃ¡.}
 {103}{}{Plechovka oleje.}
-{104}{}{Vøelé díky. Ani nevíš, jak dlouho jsem tady trèel. Tady máš nìco za to. Musím jít.}
-{105}{}{Ehh, díky.}
-{106}{}{Promiò, ale u musím bìet. Uvidíme se jindy.}
+{104}{}{VÅ™elÃ© dÃ­ky. Ani nevÃ­Å¡, jak dlouho jsem tady trÄel. Tady mÃ¡Å¡ nÄ›co za to. MusÃ­m jÃ­t.}
+{105}{}{Ehh, dÃ­ky.}
+{106}{}{PromiÅˆ, ale uÅ¾ musÃ­m bÄ›Å¾et. UvidÃ­me se jindy.}

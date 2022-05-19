@@ -1,79 +1,79 @@
-{100}{}{Vidíš Keitha Wrighta.}
-{150}{}{Vidíš hubeného bledého mue s dlouhımi blond vlasy. Pozornì tì sleduje.}
-{151}{}{Vidíš Keitha Wrighta. Pozornì tì sleduje.}
+{100}{}{VidÃ­Å¡ Keitha Wrighta.}
+{150}{}{VidÃ­Å¡ hubenÃ©ho bledÃ©ho muÅ¾e s dlouhÃ½mi blond vlasy. PozornÄ› tÄ› sleduje.}
+{151}{}{VidÃ­Å¡ Keitha Wrighta. PozornÄ› tÄ› sleduje.}
 {200}{}{Kdo jsi?}
-{201}{}{Co chceš?}
+{201}{}{Co chceÅ¡?}
 {220}{}{Nazdar, }
-{230}{}{Ještì jeden krok smìrem k tìm dveøím a budeš toho litovat.}
-{240}{}{Poøád nemùu uvìøit, e je táta mrtvej. Chtìl jsem mu toho ještì tolik øíct...}
-{250}{}{Otrokáøi, jseš ve špatnı èásti mìsta. Jestli rychle nevyklopíš, co tady chceš, tak si koleduješ o prùšvih.}
-{251}{}{Já tì neznám, táta tì nezná a jestli nezaèneš mluvit, tak na tom ani nebude záleet.}
+{230}{}{JeÅ¡tÄ› jeden krok smÄ›rem k tÄ›m dveÅ™Ã­m a budeÅ¡ toho litovat.}
+{240}{}{PoÅ™Ã¡d nemÅ¯Å¾u uvÄ›Å™it, Å¾e je tÃ¡ta mrtvej. ChtÄ›l jsem mu toho jeÅ¡tÄ› tolik Å™Ã­ct...}
+{250}{}{OtrokÃ¡Å™i, jseÅ¡ ve Å¡patnÃ½ ÄÃ¡sti mÄ›sta. Jestli rychle nevyklopÃ­Å¡, co tady chceÅ¡, tak si koledujeÅ¡ o prÅ¯Å¡vih.}
+{251}{}{JÃ¡ tÄ› neznÃ¡m, tÃ¡ta tÄ› neznÃ¡ a jestli nezaÄneÅ¡ mluvit, tak na tom ani nebude zÃ¡leÅ¾et.}
 {252}{}{Jak to jde, }
-{253}{}{Díky za vypátrání Richardova vraha, }
-{254}{}{Co chceš?}
+{253}{}{DÃ­ky za vypÃ¡trÃ¡nÃ­ Richardova vraha, }
+{254}{}{Co chceÅ¡?}
 {255}{}{Mattah. Chlap je Mattah!}
 {256}{}{Jabawookie cing cing.}
 {257}{}{Odbelhat se.}
-{258}{}{Hledám práci. Nabírají Wrightovi?}
-{259}{}{Hledám práci. Posílá mì Chris. Nabírají Wrightovi?}
-{262}{}{Nazdar, Keithe. Potkal jsem tvou mámu.}
-{263}{}{Mùeš mi øíct nìco o tvém bratru Richardovi?}
-{264}{}{Zapomeò na to. Omlouvám se za obtìování.}
-{280}{}{Vypadni odsaï, debile. Ještì jednou na mì promluvíš a udìlám z tebe cedník.}
-{281}{}{Dírııı dírııı fšude dírıı.}
-{282}{}{Šámma Lámma DING DONG.}
-{290}{}{Vypadni odsud! To je poslední varování!}
-{291}{}{Já ale chııtrııı, cink cink.}
+{258}{}{HledÃ¡m prÃ¡ci. NabÃ­rajÃ­ Wrightovi?}
+{259}{}{HledÃ¡m prÃ¡ci. PosÃ­lÃ¡ mÄ› Chris. NabÃ­rajÃ­ Wrightovi?}
+{262}{}{Nazdar, Keithe. Potkal jsem tvou mÃ¡mu.}
+{263}{}{MÅ¯Å¾eÅ¡ mi Å™Ã­ct nÄ›co o tvÃ©m bratru Richardovi?}
+{264}{}{ZapomeÅˆ na to. OmlouvÃ¡m se za obtÄ›Å¾ovÃ¡nÃ­.}
+{280}{}{Vypadni odsaÄ, debile. JeÅ¡tÄ› jednou na mÄ› promluvÃ­Å¡ a udÄ›lÃ¡m z tebe cednÃ­k.}
+{281}{}{DÃ­rÃ½Ã½Ã½ dÃ­rÃ½Ã½Ã½ fÅ¡ude dÃ­rÃ½Ã½.}
+{282}{}{Å Ã¡mma LÃ¡mma DING DONG.}
+{290}{}{Vypadni odsud! To je poslednÃ­ varovÃ¡nÃ­!}
+{291}{}{JÃ¡ ale chÃ½Ã½trÃ½Ã½Ã½, cink cink.}
 {292}{}{DING DONG! DING DONG!}
-{300}{}{Varoval jsem tì...}
+{300}{}{Varoval jsem tÄ›...}
 {301}{}{Coo?}
-{310}{}{Jsem Keith Wright z rodiny Wrightù. Øekneš mi u koneènì co tady chceš?}
-{312}{}{Chris mi øekl, a se tu zastavím. Hledám práci. Mùeš mi pomoct?}
-{313}{}{Keith Wright, jo? Potkal jsem tvou mámu.}
-{315}{}{Co je tohle za místo?}
-{325}{}{Tohle je DOMOV rodiny Wrightù. Øekneš mi u, co tady chceš?}
-{335}{}{Chris tì poslal, jo?}
-{336}{}{Pøesnì tak. Øíkal, e by se pro mì moná našla nìjaká práce.}
-{345}{}{Sice nevím, jestli to má vùbec smysl, ale mùu se táty zeptat...}
+{310}{}{Jsem Keith Wright z rodiny WrightÅ¯. Å˜ekneÅ¡ mi uÅ¾ koneÄnÄ› co tady chceÅ¡?}
+{312}{}{Chris mi Å™ekl, aÅ¥ se tu zastavÃ­m. HledÃ¡m prÃ¡ci. MÅ¯Å¾eÅ¡ mi pomoct?}
+{313}{}{Keith Wright, jo? Potkal jsem tvou mÃ¡mu.}
+{315}{}{Co je tohle za mÃ­sto?}
+{325}{}{Tohle je DOMOV rodiny WrightÅ¯. Å˜ekneÅ¡ mi uÅ¾, co tady chceÅ¡?}
+{335}{}{Chris tÄ› poslal, jo?}
+{336}{}{PÅ™esnÄ› tak. Å˜Ã­kal, Å¾e by se pro mÄ› moÅ¾nÃ¡ naÅ¡la nÄ›jakÃ¡ prÃ¡ce.}
+{345}{}{Sice nevÃ­m, jestli to mÃ¡ vÅ¯bec smysl, ale mÅ¯Å¾u se tÃ¡ty zeptat...}
 {346}{}{To by bylo fajn.}
-{355}{}{Ne... nenabíráme novı lidi jako ostatní rodiny. Alespoò zatím ne. }
-{356}{}{Ne... my s otrokáøskou verbeí nespolupracujeme jako to dìlají ostatní rodiny. }
-{357}{}{Radši zmiz.}
-{358}{}{Nepùjdu, dokud si nepromluvím s panem Wrightem.}
-{359}{}{Tak dobøe.}
-{365}{}{Ne, já si myslím, e ODEJDEŠ, paè vypadáš jako nìkdo, kdo rád ije. A teï padej.}
-{366}{}{Já NEODEJDU.}
-{367}{}{Tak dobøe.}
-{375}{}{VAROVAL jsem tì...}
-{376}{}{Chceš si se mnou zahrávat, hajzle?! Tak pojï...}
-{380}{}{Eh... co je s ní? Zase je v nìjakım prùšvihu?}
-{381}{}{Ne. To je u ní èasté?}
-{383}{}{Ne, není. Zatím, Keithe.}
-{390}{}{Obèas jo. Poøád káe o tom, jak je chlast a hazard špatnej a... vlastnì skoro všechno. Obèas je z toho pìknej povyk a táta je pak dìsnì naštvanej.}
-{391}{}{Ví vùbec tvoje máma, co dìlá vaše rodina?}
-{392}{}{To vìøím. No, díky za rozhovor, Keithe.}
-{400}{}{Ne, nemá o tom ani páru. Myslí si, e je táta èistej a nedìlá nic nelegálního, ale není zrovna moc všímavá. Kdyby našla tu palírnu pod nádraím, udìlala by tu peklo.}
-{401}{}{Aha. Díky, Keithe.}
-{410}{}{(Zavrtí hlavou.) Tak tohle u pøehnala, kdy znièila tátovu palírnu. Dìlníci mìli strach ji zastavit, táta jí pak jednu vlepil a ona mu to vrátila. (Pokrèí rameny.) Nìjakou dobu bude trvat, ne se z toho táta vzpamatuje.}
-{420}{}{Fajn kluk. Sakra, jestli nìkdy pøijdeme na to, kdo mu to udìlal...}
-{421}{}{Nìjakı nápad, kdo to mohl udìlat?}
-{422}{}{No, doufám, e toho vraha najdete. Nashle, Keithe.}
-{430}{}{Vìtšina ostatních rodin prodává Jet, take to mohl bejt kdokoliv z nich. Ale nejvíc dealerù maj Mordinové, protoe vırabìj nejvíc Jetu. Já bych to tipoval na jednoho z nich.}
-{431}{}{Které dealery podezøíváš?}
-{432}{}{Mùeš mi øíct nìco o Richardovi?}
-{440}{}{Je jich nìkolik: Poøezanej Jimmy J na Druhı ulici, starej zkurvysyn Renesco v Obchodní ètvrti... a taky Jules u vchodu do mìsta dealuje, ale vìtšinou jen blbejm turistùm. No a pak je tady Malej Jeíš Mordino.}
-{441}{}{Malej Jeíš Mordino?}
-{442}{}{Mùeš mi øíct nìco o Richardovi?}
-{443}{}{Díky za info, Keithe.}
-{450}{}{Hodnej, èistej kluk. Drel se dál od problémù, co je na Wrighta docela úspìch. Pøed nìjakou dobou jsme ho pohøbili na Golgotskıch planinách, ale i tak máma nechce, abysme dìlali nìco s jeho pokojem. Je pro ni tìkı zapomenout, víš.}
-{451}{}{Kterı pokoj byl jeho? Myslíš, e bude mít tvoje matka nìco proti, kdy se tam porozhlédnu?}
-{452}{}{Kteøí dealeøi mu mohli dát ten Jet?}
-{454}{}{Pohøbenı v Golgotì, jo? Hmmm. Díky za info, Keithe.}
-{460}{}{Jeho pokoj? Je to ten prázdnej vedle mámina, druhej odshora. A co se tıèe rozhlíení... no... hele, nezùstávej tam dlouho... a neudìlej tam ádnej bordel, nebo mámì praskne cévka.}
-{461}{}{Díky, Keithe. Nebudu tam dlouho.}
-{470}{}{Poèkej. (Zaklepe na dveøe za sebou.) Tati? (Strèí hlavu dovnitø. Je slyšet nezøetelnı rozhovor, poté se vrátí a kıvne hlavou ke dveøím.) Mùeš jít dovnitø, ale dej si bacha. Táta má blbou náladu.}
-{471}{}{Díky.}
-{480}{}{Je to syn Velkıho Jeíše. Pìknej bastard. Mohl nìkde potkat Richarda samotnıho a pak ho napumpovat Jetem. Jestli ho pùjdeš hledat, podívej se do Desperada. Oba se tam zdrujou.}
-{1220}{}{. Co se dìje?}
-{1252}{}{. Chovaj se k tobì všichni dobøe? Mùu ti nìjak pomoct?}
-{1253}{}{. Jsme ti opravdu dluni a Wrightovi svoje dluhy vdycky platí. Co pro tebe mùu udìlat?}
+{355}{}{Ne... nenabÃ­rÃ¡me novÃ½ lidi jako ostatnÃ­ rodiny. AlespoÅˆ zatÃ­m ne. }
+{356}{}{Ne... my s otrokÃ¡Å™skou verbeÅ¾Ã­ nespolupracujeme jako to dÄ›lajÃ­ ostatnÃ­ rodiny. }
+{357}{}{RadÅ¡i zmiz.}
+{358}{}{NepÅ¯jdu, dokud si nepromluvÃ­m s panem Wrightem.}
+{359}{}{Tak dobÅ™e.}
+{365}{}{Ne, jÃ¡ si myslÃ­m, Å¾e ODEJDEÅ , paÄ vypadÃ¡Å¡ jako nÄ›kdo, kdo rÃ¡d Å¾ije. A teÄ padej.}
+{366}{}{JÃ¡ NEODEJDU.}
+{367}{}{Tak dobÅ™e.}
+{375}{}{VAROVAL jsem tÄ›...}
+{376}{}{ChceÅ¡ si se mnou zahrÃ¡vat, hajzle?! Tak pojÄ...}
+{380}{}{Eh... co je s nÃ­? Zase je v nÄ›jakÃ½m prÅ¯Å¡vihu?}
+{381}{}{Ne. To je u nÃ­ ÄastÃ©?}
+{383}{}{Ne, nenÃ­. ZatÃ­m, Keithe.}
+{390}{}{ObÄas jo. PoÅ™Ã¡d kÃ¡Å¾e o tom, jak je chlast a hazard Å¡patnej a... vlastnÄ› skoro vÅ¡echno. ObÄas je z toho pÄ›knej povyk a tÃ¡ta je pak dÄ›snÄ› naÅ¡tvanej.}
+{391}{}{VÃ­ vÅ¯bec tvoje mÃ¡ma, co dÄ›lÃ¡ vaÅ¡e rodina?}
+{392}{}{To vÄ›Å™Ã­m. No, dÃ­ky za rozhovor, Keithe.}
+{400}{}{Ne, nemÃ¡ o tom ani pÃ¡ru. MyslÃ­ si, Å¾e je tÃ¡ta Äistej a nedÄ›lÃ¡ nic nelegÃ¡lnÃ­ho, ale nenÃ­ zrovna moc vÅ¡Ã­mavÃ¡. Kdyby naÅ¡la tu palÃ­rnu pod nÃ¡draÅ¾Ã­m, udÄ›lala by tu peklo.}
+{401}{}{Aha. DÃ­ky, Keithe.}
+{410}{}{(ZavrtÃ­ hlavou.) Tak tohle uÅ¾ pÅ™ehnala, kdyÅ¾ zniÄila tÃ¡tovu palÃ­rnu. DÄ›lnÃ­ci mÄ›li strach ji zastavit, tÃ¡ta jÃ­ pak jednu vlepil a ona mu to vrÃ¡tila. (PokrÄÃ­ rameny.) NÄ›jakou dobu bude trvat, neÅ¾ se z toho tÃ¡ta vzpamatuje.}
+{420}{}{Fajn kluk. Sakra, jestli nÄ›kdy pÅ™ijdeme na to, kdo mu to udÄ›lal...}
+{421}{}{NÄ›jakÃ½ nÃ¡pad, kdo to mohl udÄ›lat?}
+{422}{}{No, doufÃ¡m, Å¾e toho vraha najdete. Nashle, Keithe.}
+{430}{}{VÄ›tÅ¡ina ostatnÃ­ch rodin prodÃ¡vÃ¡ Jet, takÅ¾e to mohl bejt kdokoliv z nich. Ale nejvÃ­c dealerÅ¯ maj MordinovÃ©, protoÅ¾e vÃ½rabÄ›j nejvÃ­c Jetu. JÃ¡ bych to tipoval na jednoho z nich.}
+{431}{}{KterÃ© dealery podezÅ™Ã­vÃ¡Å¡?}
+{432}{}{MÅ¯Å¾eÅ¡ mi Å™Ã­ct nÄ›co o Richardovi?}
+{440}{}{Je jich nÄ›kolik: PoÅ™ezanej Jimmy J na DruhÃ½ ulici, starej zkurvysyn Renesco v ObchodnÃ­ Ätvrti... a taky Jules u vchodu do mÄ›sta dealuje, ale vÄ›tÅ¡inou jen blbejm turistÅ¯m. No a pak je tady Malej JeÅ¾Ã­Å¡ Mordino.}
+{441}{}{Malej JeÅ¾Ã­Å¡ Mordino?}
+{442}{}{MÅ¯Å¾eÅ¡ mi Å™Ã­ct nÄ›co o Richardovi?}
+{443}{}{DÃ­ky za info, Keithe.}
+{450}{}{Hodnej, Äistej kluk. DrÅ¾el se dÃ¡l od problÃ©mÅ¯, coÅ¾ je na Wrighta docela ÃºspÄ›ch. PÅ™ed nÄ›jakou dobou jsme ho pohÅ™bili na GolgotskÃ½ch planinÃ¡ch, ale i tak mÃ¡ma nechce, abysme dÄ›lali nÄ›co s jeho pokojem. Je pro ni tÄ›Å¾kÃ½ zapomenout, vÃ­Å¡.}
+{451}{}{KterÃ½ pokoj byl jeho? MyslÃ­Å¡, Å¾e bude mÃ­t tvoje matka nÄ›co proti, kdyÅ¾ se tam porozhlÃ©dnu?}
+{452}{}{KteÅ™Ã­ dealeÅ™i mu mohli dÃ¡t ten Jet?}
+{454}{}{PohÅ™benÃ½ v GolgotÄ›, jo? Hmmm. DÃ­ky za info, Keithe.}
+{460}{}{Jeho pokoj? Je to ten prÃ¡zdnej vedle mÃ¡mina, druhej odshora. A co se tÃ½Äe rozhlÃ­Å¾enÃ­... no... hele, nezÅ¯stÃ¡vej tam dlouho... a neudÄ›lej tam Å¾Ã¡dnej bordel, nebo mÃ¡mÄ› praskne cÃ©vka.}
+{461}{}{DÃ­ky, Keithe. Nebudu tam dlouho.}
+{470}{}{PoÄkej. (Zaklepe na dveÅ™e za sebou.) Tati? (StrÄÃ­ hlavu dovnitÅ™. Je slyÅ¡et nezÅ™etelnÃ½ rozhovor, potÃ© se vrÃ¡tÃ­ a kÃ½vne hlavou ke dveÅ™Ã­m.) MÅ¯Å¾eÅ¡ jÃ­t dovnitÅ™, ale dej si bacha. TÃ¡ta mÃ¡ blbou nÃ¡ladu.}
+{471}{}{DÃ­ky.}
+{480}{}{Je to syn VelkÃ½ho JeÅ¾Ã­Å¡e. PÄ›knej bastard. Mohl nÄ›kde potkat Richarda samotnÃ½ho a pak ho napumpovat Jetem. Jestli ho pÅ¯jdeÅ¡ hledat, podÃ­vej se do Desperada. Oba se tam zdrÅ¾ujou.}
+{1220}{}{. Co se dÄ›je?}
+{1252}{}{. Chovaj se k tobÄ› vÅ¡ichni dobÅ™e? MÅ¯Å¾u ti nÄ›jak pomoct?}
+{1253}{}{. Jsme ti opravdu dluÅ¾ni a Wrightovi svoje dluhy vÅ¾dycky platÃ­. Co pro tebe mÅ¯Å¾u udÄ›lat?}

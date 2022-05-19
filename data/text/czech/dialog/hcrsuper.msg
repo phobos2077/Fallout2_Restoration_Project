@@ -1,54 +1,54 @@
-{100}{}{Vidíš podivnou mutantí vìc se skvrnitou kùí a strašidelnım úsmìvem.}
-{101}{}{Vidíš šéfa rafinérie.}
-{102}{}{Vidíš ghoula. Jeho kùe vypadá jako staená z nìjakého zvíøete. Taky to vypadá, e ho ostatní lidé akceptují.}
-{103}{}{Tady nemáš co dìlat!}
-{104}{}{Co chceš?}
+{100}{}{VidÃ­Å¡ podivnou mutantÃ­ vÄ›c se skvrnitou kÅ¯Å¾Ã­ a straÅ¡idelnÃ½m ÃºsmÄ›vem.}
+{101}{}{VidÃ­Å¡ Å¡Ã©fa rafinÃ©rie.}
+{102}{}{VidÃ­Å¡ ghoula. Jeho kÅ¯Å¾e vypadÃ¡ jako staÅ¾enÃ¡ z nÄ›jakÃ©ho zvÃ­Å™ete. Taky to vypadÃ¡, Å¾e ho ostatnÃ­ lidÃ© akceptujÃ­.}
+{103}{}{Tady nemÃ¡Å¡ co dÄ›lat!}
+{104}{}{Co chceÅ¡?}
 {105}{}{Da yagga! Eep oop op!}
-{106}{}{Nevìdìt.}
-{107}{}{Mám tady nìjakou rudu k rafinaci.}
+{106}{}{NevÄ›dÄ›t.}
+{107}{}{MÃ¡m tady nÄ›jakou rudu k rafinaci.}
 {108}{}{Kdo jsi?}
-{109}{}{Co je tohle za místo?}
-{110}{}{Sháním nìjakı uran.}
+{109}{}{Co je tohle za mÃ­sto?}
+{110}{}{ShÃ¡nÃ­m nÄ›jakÃ½ uran.}
 {111}{}{No nic.}
-{112}{}{Zapomeò na to. Nashle.}
-{113}{}{Podívej, synku, je mi líto, e jsi slabomyslnej, ale tady nemùeš bıt. Mazej odsud.}
+{112}{}{ZapomeÅˆ na to. Nashle.}
+{113}{}{PodÃ­vej, synku, je mi lÃ­to, Å¾e jsi slabomyslnej, ale tady nemÅ¯Å¾eÅ¡ bÃ½t. Mazej odsud.}
 {114}{}{[KONEC]}
-{115}{}{Tady nemùeš bejt, je to nebezpeènı. Mazej odsud.}
+{115}{}{Tady nemÅ¯Å¾eÅ¡ bejt, je to nebezpeÄnÃ½. Mazej odsud.}
 {116}{}{[KONEC]}
-{117}{}{Skvìlı. To bude za $1000, a ádnı smlouvání. Moná je to trochu pøedraenı, ale poøád je to vıhodná koupì, kdy si uvìdomíš, co za to dostaneš.}
+{117}{}{SkvÄ›lÃ½. To bude za $1000, a Å¾Ã¡dnÃ½ smlouvÃ¡nÃ­. MoÅ¾nÃ¡ je to trochu pÅ™edraÅ¾enÃ½, ale poÅ™Ã¡d je to vÃ½hodnÃ¡ koupÄ›, kdyÅ¾ si uvÄ›domÃ­Å¡, co za to dostaneÅ¡.}
 {118}{}{Dohodnuto.}
-{119}{}{$1000? To je docela hodnì. Zapomeò na to.}
-{120}{}{Jsem šéf rafinérie. Co potøebuješ?}
-{121}{}{Co je tohle za místo?}
-{122}{}{Chci rafinovat nìjakou rudu.}
-{123}{}{Sháním nìjakı uran.}
+{119}{}{$1000? To je docela hodnÄ›. ZapomeÅˆ na to.}
+{120}{}{Jsem Å¡Ã©f rafinÃ©rie. Co potÅ™ebujeÅ¡?}
+{121}{}{Co je tohle za mÃ­sto?}
+{122}{}{Chci rafinovat nÄ›jakou rudu.}
+{123}{}{ShÃ¡nÃ­m nÄ›jakÃ½ uran.}
 {124}{}{No nic.}
-{125}{}{Tohle je rafinérie Broken Hills. Tady rafinujeme rudu vytìenou v dole. Co potøebuješ?}
-{126}{}{Co je tohle za místo?}
-{127}{}{Chci rafinovat nìjakou rudu.}
-{128}{}{Sháním nìjakı uran.}
+{125}{}{Tohle je rafinÃ©rie Broken Hills. Tady rafinujeme rudu vytÄ›Å¾enou v dole. Co potÅ™ebujeÅ¡?}
+{126}{}{Co je tohle za mÃ­sto?}
+{127}{}{Chci rafinovat nÄ›jakou rudu.}
+{128}{}{ShÃ¡nÃ­m nÄ›jakÃ½ uran.}
 {129}{}{No nic.}
-{130}{}{Nemáš dost penìz. Vra se, a je budeš mít.}
+{130}{}{NemÃ¡Å¡ dost penÄ›z. VraÅ¥ se, aÅ¾ je budeÅ¡ mÃ­t.}
 {131}{}{[KONEC]}
-{132}{}{Dobøe. Dej nám den, dva a budeš to mít hotovı.}
-{133}{}{Vıbornì. Nashle.}
+{132}{}{DobÅ™e. Dej nÃ¡m den, dva a budeÅ¡ to mÃ­t hotovÃ½.}
+{133}{}{VÃ½bornÄ›. Nashle.}
 {134}{}{Good luck getting it refined any place else. The process is dangerous -- only a professional should do it. You want it or not?}
 {135}{}{Ano.}
 {136}{}{Ne.}
-{137}{}{Fajn, v tom pøípadì tu nemáš co dìlat. Odejdi prosím, mám ještì nìjakou práci.}
+{137}{}{Fajn, v tom pÅ™Ã­padÄ› tu nemÃ¡Å¡ co dÄ›lat. Odejdi prosÃ­m, mÃ¡m jeÅ¡tÄ› nÄ›jakou prÃ¡ci.}
 {138}{}{Nashle.}
-{139}{}{To je smìšnı. ádnou ti nedáme.}
-{140}{}{V tom pøípadì chcípni.}
+{139}{}{To je smÄ›Å¡nÃ½. Å½Ã¡dnou ti nedÃ¡me.}
+{140}{}{V tom pÅ™Ã­padÄ› chcÃ­pni.}
 {141}{}{Fajn. Nashle.}
-{142}{}{Hej! Vypadni odtamtud, nebo pocítíš následky!}
-{143}{}{Okamitì vypadni z mojí rafinérie!}
-{144}{}{Poøád na tom dìláme. Dej nám ještì èas. Není to hned.}
-{145}{}{Chci se na nìco zeptat.}
+{142}{}{Hej! Vypadni odtamtud, nebo pocÃ­tÃ­Å¡ nÃ¡sledky!}
+{143}{}{OkamÅ¾itÄ› vypadni z mojÃ­ rafinÃ©rie!}
+{144}{}{PoÅ™Ã¡d na tom dÄ›lÃ¡me. Dej nÃ¡m jeÅ¡tÄ› Äas. NenÃ­ to hned.}
+{145}{}{Chci se na nÄ›co zeptat.}
 {146}{}{Fajn. Nashle.}
-{147}{}{Je to hotovı, ale pøedtím, ne si ji vezmeš, poslouchej. Naše mìsto tuhle rudu opravdu potøebuje. Kdy ji vrátíš mìstu, dostaneš zpátky svı peníze. Co øíkáš?}
-{148}{}{Na to zapomeò.}
-{149}{}{Jasnì.}
-{150}{}{Fajn. A je po tvım. Tady máš svoji rudu. A teï vypadni z mı rafinérie.}
+{147}{}{Je to hotovÃ½, ale pÅ™edtÃ­m, neÅ¾ si ji vezmeÅ¡, poslouchej. NaÅ¡e mÄ›sto tuhle rudu opravdu potÅ™ebuje. KdyÅ¾ ji vrÃ¡tÃ­Å¡ mÄ›stu, dostaneÅ¡ zpÃ¡tky svÃ½ penÃ­ze. Co Å™Ã­kÃ¡Å¡?}
+{148}{}{Na to zapomeÅˆ.}
+{149}{}{JasnÄ›.}
+{150}{}{Fajn. AÅ¥ je po tvÃ½m. Tady mÃ¡Å¡ svoji rudu. A teÄ vypadni z mÃ½ rafinÃ©rie.}
 {151}{}{Nashle.}
-{152}{}{Díky! Tady jsou tvı peníze.}
-{153}{}{ádnı problém.}
+{152}{}{DÃ­ky! Tady jsou tvÃ½ penÃ­ze.}
+{153}{}{Å½Ã¡dnÃ½ problÃ©m.}

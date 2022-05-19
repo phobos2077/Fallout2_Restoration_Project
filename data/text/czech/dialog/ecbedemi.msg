@@ -1,10 +1,10 @@
-{100}{}{Vidíš mue v energo zbroji.}
+{100}{}{VidÃ­Å¡ muÅ¾e v energo zbroji.}
 {101}{}{Tohle je Sir Bedemir.}
-{102}{}{Zdá se, e usilovnì pøemıšlí.}
-{103}{}{Sir Bedemir, k tvım slubám.}
-{104}{}{...a proto víme, e má Zemì tvar banánu.}
-{105}{}{Rád bych ti vysvìtlil, jak se dá pouít ovèí mìchıø pøi prevenci proti zemìtøesení.}
-{106}{}{Potøebuji nìjakı èas k pøemıšlení. Bì obtìovat nìkoho jiného, prosím.}
-{200}{}{Jej! Máš hroznì ledové ruce!}
-{201}{}{To ti nepatøí.}
-{202}{}{Hej, to jsou moje vìci!}
+{102}{}{ZdÃ¡ se, Å¾e usilovnÄ› pÅ™emÃ½Å¡lÃ­.}
+{103}{}{Sir Bedemir, k tvÃ½m sluÅ¾bÃ¡m.}
+{104}{}{...a proto vÃ­me, Å¾e mÃ¡ ZemÄ› tvar banÃ¡nu.}
+{105}{}{RÃ¡d bych ti vysvÄ›tlil, jak se dÃ¡ pouÅ¾Ã­t ovÄÃ­ mÄ›chÃ½Å™ pÅ™i prevenci proti zemÄ›tÅ™esenÃ­.}
+{106}{}{PotÅ™ebuji nÄ›jakÃ½ Äas k pÅ™emÃ½Å¡lenÃ­. BÄ›Å¾ obtÄ›Å¾ovat nÄ›koho jinÃ©ho, prosÃ­m.}
+{200}{}{Jej! MÃ¡Å¡ hroznÄ› ledovÃ© ruce!}
+{201}{}{To ti nepatÅ™Ã­.}
+{202}{}{Hej, to jsou moje vÄ›ci!}

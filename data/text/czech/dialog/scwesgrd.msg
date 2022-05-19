@@ -1,44 +1,44 @@
-{100}{}{Vidíš strá.}
-{101}{}{Vidíš stráce Granta.}
-{102}{}{Vidíš strá. Jeho zbroj a zbranì jsou ve vıborném stavu.}
-{103}{}{Tohle je soukromı pozemek, odejdìte prosím.}
+{100}{}{VidÃ­Å¡ strÃ¡Å¾.}
+{101}{}{VidÃ­Å¡ strÃ¡Å¾ce Granta.}
+{102}{}{VidÃ­Å¡ strÃ¡Å¾. Jeho zbroj a zbranÄ› jsou ve vÃ½bornÃ©m stavu.}
+{103}{}{Tohle je soukromÃ½ pozemek, odejdÄ›te prosÃ­m.}
 {104}{}{Kdo tady bydlet?}
-{105}{}{Dobøe, já jít.}
-{106}{}{Promiòte, ale kdo tu ije?}
-{107}{}{Dobøe, u pùjdu.}
-{108}{}{U odcházíte?}
-{109}{}{Já chtít jít.}
-{110}{}{Ne, já zùstat.}
-{111}{}{Ano, musím hned odejít.}
-{112}{}{Ne, ještì se tu na chvíli zdrím.}
-{113}{}{Tohle je Westinùv Ranè, domov radního Westina.}
-{114}{}{Já potøebovat vidìt.}
-{115}{}{Dobøe. Naskle.}
-{116}{}{Potøebuju vidìt radního, prosím.}
-{117}{}{Aha. No, u pùjdu.}
-{118}{}{Co potøebujete od pana Westina?}
-{119}{}{Já potøebovat práce.}
-{120}{}{Jen chtít kecat.}
+{105}{}{DobÅ™e, jÃ¡ jÃ­t.}
+{106}{}{PromiÅˆte, ale kdo tu Å¾ije?}
+{107}{}{DobÅ™e, uÅ¾ pÅ¯jdu.}
+{108}{}{UÅ¾ odchÃ¡zÃ­te?}
+{109}{}{JÃ¡ chtÃ­t jÃ­t.}
+{110}{}{Ne, jÃ¡ zÅ¯stat.}
+{111}{}{Ano, musÃ­m hned odejÃ­t.}
+{112}{}{Ne, jeÅ¡tÄ› se tu na chvÃ­li zdrÅ¾Ã­m.}
+{113}{}{Tohle je WestinÅ¯v RanÄ, domov radnÃ­ho Westina.}
+{114}{}{JÃ¡ potÅ™ebovat vidÄ›t.}
+{115}{}{DobÅ™e. Naskle.}
+{116}{}{PotÅ™ebuju vidÄ›t radnÃ­ho, prosÃ­m.}
+{117}{}{Aha. No, uÅ¾ pÅ¯jdu.}
+{118}{}{Co potÅ™ebujete od pana Westina?}
+{119}{}{JÃ¡ potÅ™ebovat prÃ¡ce.}
+{120}{}{Jen chtÃ­t kecat.}
 {121}{}{Eh...}
-{122}{}{Zapomeò na to.}
-{123}{}{Hledám práci. Prı pan Westin najímá.}
+{122}{}{ZapomeÅˆ na to.}
+{123}{}{HledÃ¡m prÃ¡ci. PrÃ½ pan Westin najÃ­mÃ¡.}
 {124}{}{Chci si promluvit s panem Westinem.}
-{125}{}{U nic, pøijdu nìkdy jindy.}
-{126}{}{Hmm... myslím, e by se tady nìjaká práce našla. Dobøe, tak pojïte dovnitø, ale nedìlejte problémy. Budu vás sledovat.}
-{127}{}{Já dìkovat.}
-{128}{}{Díky.}
-{129}{}{Pan Westin nemá zájem si jen tak "povídat" s nìkım, kdo pøijde z ulice. Jestli s ním nemáte dohodnutou nìjakou konkrétní záleitost, pak vám navrhuji odejít.}
+{125}{}{UÅ¾ nic, pÅ™ijdu nÄ›kdy jindy.}
+{126}{}{Hmm... myslÃ­m, Å¾e by se tady nÄ›jakÃ¡ prÃ¡ce naÅ¡la. DobÅ™e, tak pojÄte dovnitÅ™, ale nedÄ›lejte problÃ©my. Budu vÃ¡s sledovat.}
+{127}{}{JÃ¡ dÄ›kovat.}
+{128}{}{DÃ­ky.}
+{129}{}{Pan Westin nemÃ¡ zÃ¡jem si jen tak "povÃ­dat" s nÄ›kÃ½m, kdo pÅ™ijde z ulice. Jestli s nÃ­m nemÃ¡te dohodnutou nÄ›jakou konkrÃ©tnÃ­ zÃ¡leÅ¾itost, pak vÃ¡m navrhuji odejÃ­t.}
 {130}{}{[KONEC]}
-{131}{}{(Vzdych) Slyšel jsem, e má Pan Westin slabost pro lidi, jako jste vy. Pojïte dovnitø.}
-{132}{}{Vyvolenı ti dìkovat.}
-{133}{}{Jo, jo, na nìèem zrovna dìlám.}
+{131}{}{(Vzdych) SlyÅ¡el jsem, Å¾e mÃ¡ Pan Westin slabost pro lidi, jako jste vy. PojÄte dovnitÅ™.}
+{132}{}{VyvolenÃ½ ti dÄ›kovat.}
+{133}{}{Jo, jo, na nÄ›Äem zrovna dÄ›lÃ¡m.}
 {134}{}{Hej, jdi odtamtud!}
-{135}{}{Je slušné se nìkoho zeptat, ne si zaènete hrát s vìcmi, co vám nepatøí.}
-{136}{}{Zdravím. Potøebujete zase vidìt pana Westina?}
+{135}{}{Je sluÅ¡nÃ© se nÄ›koho zeptat, neÅ¾ si zaÄnete hrÃ¡t s vÄ›cmi, co vÃ¡m nepatÅ™Ã­.}
+{136}{}{ZdravÃ­m. PotÅ™ebujete zase vidÄ›t pana Westina?}
 {137}{}{Ano.}
 {138}{}{Ne.}
-{139}{}{Mít pro pán Westin nìjaká vìcièky z Vault City.}
-{140}{}{Mám pro pana Westina nìco z Vault City.}
-{141}{}{Dobøe, tak pojïte dovnitø, ale nedìlejte potíe. Budu vás sledovat.}
-{142}{}{Jestli tu nejste kvùli nìjaké záleitosti, tak tu nemáte co dìlat.}
-{150}{}{Je mi líto, ale došlo k nehodì a nikdo nesmí vstoupit na pozemek. Odejdìte.}
+{139}{}{MÃ­t pro pÃ¡n Westin nÄ›jakÃ¡ vÄ›ciÄky z Vault City.}
+{140}{}{MÃ¡m pro pana Westina nÄ›co z Vault City.}
+{141}{}{DobÅ™e, tak pojÄte dovnitÅ™, ale nedÄ›lejte potÃ­Å¾e. Budu vÃ¡s sledovat.}
+{142}{}{Jestli tu nejste kvÅ¯li nÄ›jakÃ© zÃ¡leÅ¾itosti, tak tu nemÃ¡te co dÄ›lat.}
+{150}{}{Je mi lÃ­to, ale doÅ¡lo k nehodÄ› a nikdo nesmÃ­ vstoupit na pozemek. OdejdÄ›te.}

@@ -1,46 +1,46 @@
-{100}{}{Vidíš èlenku Khanù.}
-{101}{}{Vidíš èlenku Khanù.}
-{102}{}{Vidíš drsnì vypadající osobu ve zbroji ozbrojenou a po zuby a s drsnım pohledem. Tohle bude urèitì Khan.}
-{103}{}{No do pr... tebe neznám. Kdo sakra jseš?}
-{104}{}{Tady máš mùj obèanskı prùkaz!}
-{105}{}{Jmenuju se... ehm... Pat. Jsem tu nováèek.}
-{106}{}{Tak jo, chytráku, tak se uka.}
-{107}{}{Aha, jasnì. Promiò, ještì tì neznám. Pokraèuj dál.}
-{108}{}{Hele, já nejsem takovej blbec, jak ty vypadáš.}
-{109}{}{Ty ještì nejsi po smrti? Zatracenì.}
-{110}{}{Hergot, za tohle nudnı nicnedìlání mi Darion platí málo.}
-{111}{}{Obèas si sednu a vùbec na nic nemyslím.}
-{112}{}{Je mi úplnì fuk na co myslej ostatní.}
-{113}{}{Ignorance je ráj... aspoò myslím.}
-{114}{}{Kdy zas kolem pùjde další karavana? Hodila by se nìjaká akce.}
-{115}{}{Šikla by se pauza.}
-{116}{}{Sakra, furt mì bolí to místo, kam mì kopla ta dìvka Chrissy.}
-{117}{}{Chtìlo by to nìjakıho nováèka.}
-{118}{}{Kdy u koneènì vypadneme z tohohle pitomıho místa?}
-{119}{}{Nevím jak tebe, ale mì u to tady pìknì štve.}
-{120}{}{To je nuda, kdy kolem není nic k zabíjení.}
+{100}{}{VidÃ­Å¡ Älenku KhanÅ¯.}
+{101}{}{VidÃ­Å¡ Älenku KhanÅ¯.}
+{102}{}{VidÃ­Å¡ drsnÄ› vypadajÃ­cÃ­ osobu ve zbroji ozbrojenou aÅ¾ po zuby a s drsnÃ½m pohledem. Tohle bude urÄitÄ› Khan.}
+{103}{}{No do pr... tebe neznÃ¡m. Kdo sakra jseÅ¡?}
+{104}{}{Tady mÃ¡Å¡ mÅ¯j obÄanskÃ½ prÅ¯kaz!}
+{105}{}{Jmenuju se... ehm... Pat. Jsem tu novÃ¡Äek.}
+{106}{}{Tak jo, chytrÃ¡ku, tak se ukaÅ¾.}
+{107}{}{Aha, jasnÄ›. PromiÅˆ, jeÅ¡tÄ› tÄ› neznÃ¡m. PokraÄuj dÃ¡l.}
+{108}{}{Hele, jÃ¡ nejsem takovej blbec, jak ty vypadÃ¡Å¡.}
+{109}{}{Ty jeÅ¡tÄ› nejsi po smrti? ZatracenÄ›.}
+{110}{}{Hergot, za tohle nudnÃ½ nicnedÄ›lÃ¡nÃ­ mi Darion platÃ­ mÃ¡lo.}
+{111}{}{ObÄas si sednu a vÅ¯bec na nic nemyslÃ­m.}
+{112}{}{Je mi ÃºplnÄ› fuk na co myslej ostatnÃ­.}
+{113}{}{Ignorance je rÃ¡j... aspoÅˆ myslÃ­m.}
+{114}{}{Kdy zas kolem pÅ¯jde dalÅ¡Ã­ karavana? Hodila by se nÄ›jakÃ¡ akce.}
+{115}{}{Å ikla by se pauza.}
+{116}{}{Sakra, furt mÄ› bolÃ­ to mÃ­sto, kam mÄ› kopla ta dÄ›vka Chrissy.}
+{117}{}{ChtÄ›lo by to nÄ›jakÃ½ho novÃ¡Äka.}
+{118}{}{Kdy uÅ¾ koneÄnÄ› vypadneme z tohohle pitomÃ½ho mÃ­sta?}
+{119}{}{NevÃ­m jak tebe, ale mÄ› uÅ¾ to tady pÄ›knÄ› Å¡tve.}
+{120}{}{To je nuda, kdyÅ¾ kolem nenÃ­ nic k zabÃ­jenÃ­.}
 {121}{}{Kde je sakra koupelna?}
-{122}{}{Hele, proè nikdy nemáme pøestávku? Nemìl by na to bejt nìjakej zákon nebo tak nìco?}
-{123}{}{Mìli bysme zøídit vládu jako za starejch èasù.}
-{124}{}{Èlovìèe, jakı by to asi tak bylo bejt prezidentem?}
-{125}{}{Vsadím se, e jako prezident si mùeš dìlat všechno co chceš.}
-{126}{}{Myslím, e dneska by na mì byl táta pyšnej. Moná to byla chyba ho oddìlat.}
-{127}{}{NENÁVIDÍM KRYSY! NENÁVIDÍM, NENÁVIDÍM, NENÁVIDÍM!}
-{128}{}{Hej, to je nìjakej novej druh zbroje co máš na sobì? Kde se to dá splašit?}
-{129}{}{Tenhle zatracenej Vault smrdí. No øekni, tobì to nevadí?}
-{130}{}{Hej, na koho e to vlastnì máme dávat bacha?}
-{131}{}{Poøád tu jen stojím a stojím a stojím.}
-{132}{}{Myslím, e bysme mìli všechny nahoøe oddìlat a øíct tomuhle blbımu místu sbohem.}
-{133}{}{Máš snad nìjakej problém s krysama?}
-{134}{}{Není nad to prokopnout kryse hlavu. Zkus to nìkdy.}
-{135}{}{Miluju zbranì! ZBRANÌ SE MI HROZNÌ LÍBÍ! OPRAVDU, OPRAVDU JE MILUJU!}
-{136}{}{Hej, poslouchá mì nìkdo?}
-{137}{}{No co, mluvím si pro sebe, aby mi z toho nepøeskoèilo.}
-{138}{}{Hej, pamatuje si nìkdo, z èeho se míchá ledovej èaj Long Island?}
+{122}{}{Hele, proÄ nikdy nemÃ¡me pÅ™estÃ¡vku? NemÄ›l by na to bejt nÄ›jakej zÃ¡kon nebo tak nÄ›co?}
+{123}{}{MÄ›li bysme zÅ™Ã­dit vlÃ¡du jako za starejch ÄasÅ¯.}
+{124}{}{ÄŒlovÄ›Äe, jakÃ½ by to asi tak bylo bejt prezidentem?}
+{125}{}{VsadÃ­m se, Å¾e jako prezident si mÅ¯Å¾eÅ¡ dÄ›lat vÅ¡echno co chceÅ¡.}
+{126}{}{MyslÃ­m, Å¾e dneska by na mÄ› byl tÃ¡ta pyÅ¡nej. MoÅ¾nÃ¡ to byla chyba ho oddÄ›lat.}
+{127}{}{NENÃVIDÃM KRYSY! NENÃVIDÃM, NENÃVIDÃM, NENÃVIDÃM!}
+{128}{}{Hej, to je nÄ›jakej novej druh zbroje co mÃ¡Å¡ na sobÄ›? Kde se to dÃ¡ splaÅ¡it?}
+{129}{}{Tenhle zatracenej Vault smrdÃ­. No Å™ekni, tobÄ› to nevadÃ­?}
+{130}{}{Hej, na koho Å¾e to vlastnÄ› mÃ¡me dÃ¡vat bacha?}
+{131}{}{PoÅ™Ã¡d tu jen stojÃ­m a stojÃ­m a stojÃ­m.}
+{132}{}{MyslÃ­m, Å¾e bysme mÄ›li vÅ¡echny nahoÅ™e oddÄ›lat a Å™Ã­ct tomuhle blbÃ½mu mÃ­stu sbohem.}
+{133}{}{MÃ¡Å¡ snad nÄ›jakej problÃ©m s krysama?}
+{134}{}{NenÃ­ nad to prokopnout kryse hlavu. Zkus to nÄ›kdy.}
+{135}{}{Miluju zbranÄ›! ZBRANÄš SE MI HROZNÄš LÃBÃ! OPRAVDU, OPRAVDU JE MILUJU!}
+{136}{}{Hej, poslouchÃ¡ mÄ› nÄ›kdo?}
+{137}{}{No co, mluvÃ­m si pro sebe, aby mi z toho nepÅ™eskoÄilo.}
+{138}{}{Hej, pamatuje si nÄ›kdo, z Äeho se mÃ­chÃ¡ ledovej Äaj Long Island?}
 {139}{}{Jo, vodka, rum, tequila, triple sec, limetka a Nuka Cola.}
-{140}{}{Hele, podívej... rozsvítila se svìtla. Co se to sakra...}
-{141}{}{Darion øíkal, ze nechá ty pitomı svìtla spravit. Zdá, e se dodrel slib.}
-{142}{}{Ten generátor se asi neopravil sám, co?}
-{143}{}{To je divnı, teï najednou nìjak líp vidím. Jeíš, tohle místo vypadá jako prdel!}
-{144}{}{Páni, koneènì svìtlo. Kde se to dá štelovat?}
-{145}{}{Ty zemøít!}
+{140}{}{Hele, podÃ­vej... rozsvÃ­tila se svÄ›tla. Co se to sakra...}
+{141}{}{Darion Å™Ã­kal, ze nechÃ¡ ty pitomÃ½ svÄ›tla spravit. ZdÃ¡, Å¾e se dodrÅ¾el slib.}
+{142}{}{Ten generÃ¡tor se asi neopravil sÃ¡m, co?}
+{143}{}{To je divnÃ½, teÄ najednou nÄ›jak lÃ­p vidÃ­m. JeÅ¾Ã­Å¡, tohle mÃ­sto vypadÃ¡ jako prdel!}
+{144}{}{PÃ¡ni, koneÄnÄ› svÄ›tlo. Kde se to dÃ¡ Å¡telovat?}
+{145}{}{Ty zemÅ™Ã­t!}

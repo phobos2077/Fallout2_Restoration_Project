@@ -1,9 +1,9 @@
-{100}{}{Vidíš strá Hubologistù.}
-{101}{}{Vidíš dobøe vyzbrojenou osobu s krutım pohledem v oèích.}
-{110}{}{Vidíš Hubologistu.}
-{111}{}{Zírá na rùzné poèítaèové vybavení pøed sebou.}
-{200}{}{Jsme vìrni AHS-9.}
-{201}{}{Hvìzdnı Otec na nás všechny dohlíí.}
-{202}{}{Je tu nuda, ale hlídat dary je naše práce.}
-{203}{}{Buï zdráv, pøíteli.}
+{100}{}{VidÃ­Å¡ strÃ¡Å¾ HubologistÅ¯.}
+{101}{}{VidÃ­Å¡ dobÅ™e vyzbrojenou osobu s krutÃ½m pohledem v oÄÃ­ch.}
+{110}{}{VidÃ­Å¡ Hubologistu.}
+{111}{}{ZÃ­rÃ¡ na rÅ¯znÃ© poÄÃ­taÄovÃ© vybavenÃ­ pÅ™ed sebou.}
+{200}{}{Jsme vÄ›rni AHS-9.}
+{201}{}{HvÄ›zdnÃ½ Otec na nÃ¡s vÅ¡echny dohlÃ­Å¾Ã­.}
+{202}{}{Je tu nuda, ale hlÃ­dat dary je naÅ¡e prÃ¡ce.}
+{203}{}{BuÄ zdrÃ¡v, pÅ™Ã­teli.}
 {300}{}{Na nic nesahej.}

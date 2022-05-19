@@ -1,27 +1,27 @@
-{100}{}{Vidíš Coffin Willieho.}
-{150}{}{Vidíš starého, páchnoucího a strupovitého ghoula. Jde z nìj pøíšernı SMRAD.}
-{200}{}{Fíha. Tenhle hrob ale pìknì SMRDÍ.}
-{201}{}{No nic... radìji budu kopat dál.}
+{100}{}{VidÃ­Å¡ Coffin Willieho.}
+{150}{}{VidÃ­Å¡ starÃ©ho, pÃ¡chnoucÃ­ho a strupovitÃ©ho ghoula. Jde z nÄ›j pÅ™Ã­Å¡ernÃ½ SMRAD.}
+{200}{}{FÃ­ha. Tenhle hrob ale pÄ›knÄ› SMRDÃ.}
+{201}{}{No nic... radÄ›ji budu kopat dÃ¡l.}
 {202}{}{Co to...?}
-{203}{}{No koneènì! POMALEJC kopat neumíš, idiote?}
+{203}{}{No koneÄnÄ›! POMALEJC kopat neumÃ­Å¡, idiote?}
 {204}{}{Uhni mi z cesty, hezoune.}
 {205}{}{T... tati?}
-{206}{}{Teï ne, Lenny, nemám náladu si s tebou povídat.}
-{300}{}{Jen jsem si skáknul do Rena na drink a nìjakou tu kurvièku a ti zatracení hezouni mì hodili do hrobu...}
-{301}{}{Ještì e nemám nos, jináè bych se udusil vlastním smradem.}
-{302}{}{Ghouly vùbec nikdo nerespektuje.}
-{303}{}{Jen jsem si skáknul na drink do Rena a ti kreténi mì pohøbili zaiva.}
-{304}{}{Nejni na svìtì nic nudnìjšího, ne bejt zavøenej pár mìsícù v rakvi.}
-{305}{}{Uhni, hezoune. Mám nìco na práci.}
-{306}{}{Dej ty svoje hezkı pazoury pryè, hezoune.}
-{500}{}{Na køíi stojí: "Tady leí ten nejblbìjší zkurvysyn, kterı kdy vstoupil do New Rena."}
-{550}{}{Z hrobu se dere pøíšernı zápach.}
+{206}{}{TeÄ ne, Lenny, nemÃ¡m nÃ¡ladu si s tebou povÃ­dat.}
+{300}{}{Jen jsem si skÃ¡knul do Rena na drink a nÄ›jakou tu kurviÄku a ti zatracenÃ­ hezouni mÄ› hodili do hrobu...}
+{301}{}{JeÅ¡tÄ› Å¾e nemÃ¡m nos, jinÃ¡Ä bych se udusil vlastnÃ­m smradem.}
+{302}{}{Ghouly vÅ¯bec nikdo nerespektuje.}
+{303}{}{Jen jsem si skÃ¡knul na drink do Rena a ti kretÃ©ni mÄ› pohÅ™bili zaÅ¾iva.}
+{304}{}{Nejni na svÄ›tÄ› nic nudnÄ›jÅ¡Ã­ho, neÅ¾ bejt zavÅ™enej pÃ¡r mÄ›sÃ­cÅ¯ v rakvi.}
+{305}{}{Uhni, hezoune. MÃ¡m nÄ›co na prÃ¡ci.}
+{306}{}{Dej ty svoje hezkÃ½ pazoury pryÄ, hezoune.}
+{500}{}{Na kÅ™Ã­Å¾i stojÃ­: "Tady leÅ¾Ã­ ten nejblbÄ›jÅ¡Ã­ zkurvysyn, kterÃ½ kdy vstoupil do New Rena."}
+{550}{}{Z hrobu se dere pÅ™Ã­Å¡ernÃ½ zÃ¡pach.}
 {600}{}{Hej!}
-{601}{}{Já vím, e tam nìkdo nahoøe je!}
-{602}{}{Nešlapej mi po hrobu! Tlaèíš na mì hlínu!}
+{601}{}{JÃ¡ vÃ­m, Å¾e tam nÄ›kdo nahoÅ™e je!}
+{602}{}{NeÅ¡lapej mi po hrobu! TlaÄÃ­Å¡ na mÄ› hlÃ­nu!}
 {603}{}{Rychle, DONES LOPATU!}
-{604}{}{Tak vyhrabe mì u nìkdo? Mám strašnou ízeò!}
-{605}{}{e bych u cítil èervy? Eh... tak nic.}
-{700}{}{Eh, to smrdìt v díra.}
-{701}{}{Já kopat hodnì pro smrdlavá blıskavá vìcièka.}
-{702}{}{Co? Ty se neblıskat!?}
+{604}{}{Tak vyhrabe mÄ› uÅ¾ nÄ›kdo? MÃ¡m straÅ¡nou Å¾Ã­zeÅˆ!}
+{605}{}{Å½e bych uÅ¾ cÃ­til Äervy? Eh... tak nic.}
+{700}{}{Eh, to smrdÄ›t v dÃ­ra.}
+{701}{}{JÃ¡ kopat hodnÄ› pro smrdlavÃ¡ blÃ½skavÃ¡ vÄ›ciÄka.}
+{702}{}{Co? Ty se neblÃ½skat!?}

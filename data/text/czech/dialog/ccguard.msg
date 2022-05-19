@@ -1,20 +1,20 @@
-{100}{}{Vidíš mue v záøivém obleku.}
-{101}{}{Voják v energo zbroji.}
-{102}{}{Zdá se, e ten voják má na sobì nìjakı novı typ energo zbroje.}
-{103}{}{No vìøil bys tomu? U zase mám mít slubu v kuchyni!}
-{104}{}{Øíká se, e nás chce starouš pøestìhovat do San Francisca!}
-{105}{}{K èertu s èekáním. Podle mì bysme mìli všechny ty primitivy jednoduše vybombardovat a bude pokoj.}
-{106}{}{Nemáš zapalovaè? Ne poèkej, u je to dobrı. U jsem ho našel.}
-{107}{}{Dneska veèer se vzadu za hangárem hraje. Ale dávej bacha, a se to nedomákne velitel.}
-{108}{}{Kdo sakra...? <bzzz> Máme tu vetøelce!}
-{109}{}{Hej ty! Stùj!}
-{110}{}{Vetøelec na základnì!}
+{100}{}{VidÃ­Å¡ muÅ¾e v zÃ¡Å™ivÃ©m obleku.}
+{101}{}{VojÃ¡k v energo zbroji.}
+{102}{}{ZdÃ¡ se, Å¾e ten vojÃ¡k mÃ¡ na sobÄ› nÄ›jakÃ½ novÃ½ typ energo zbroje.}
+{103}{}{No vÄ›Å™il bys tomu? UÅ¾ zase mÃ¡m mÃ­t sluÅ¾bu v kuchyni!}
+{104}{}{Å˜Ã­kÃ¡ se, Å¾e nÃ¡s chce starouÅ¡ pÅ™estÄ›hovat do San Francisca!}
+{105}{}{K Äertu s ÄekÃ¡nÃ­m. Podle mÄ› bysme mÄ›li vÅ¡echny ty primitivy jednoduÅ¡e vybombardovat a bude pokoj.}
+{106}{}{NemÃ¡Å¡ zapalovaÄ? Ne poÄkej, uÅ¾ je to dobrÃ½. UÅ¾ jsem ho naÅ¡el.}
+{107}{}{Dneska veÄer se vzadu za hangÃ¡rem hraje. Ale dÃ¡vej bacha, aÅ¥ se to nedomÃ¡kne velitel.}
+{108}{}{Kdo sakra...? <bzzz> MÃ¡me tu vetÅ™elce!}
+{109}{}{Hej ty! StÅ¯j!}
+{110}{}{VetÅ™elec na zÃ¡kladnÄ›!}
 {111}{}{Hej ty! Co tu...? Ale co, dlabu na to... }
-{112}{}{Hele radši nos svoje doklady. Z tìch falešnejch poplachù u máme všichni nervy v kıblu.}
-{113}{}{Ty na základnu patøíš, e jo? Zatracenì, tyhle falešnı poplachy mi jdou na nervy!}
-{114}{}{Máme tu vetøelce! Sejmìte je!}
-{115}{}{Támhle je vetøelec!}
-{116}{}{Támhle! Nenechte je zdrhnout!}
-{117}{}{Byli jsme napadeni u vchodu. Pošlete posily!}
-{118}{}{Nenechte ty vetøelce utéct!}
-{119}{}{Chcípni, primitive!}
+{112}{}{Hele radÅ¡i nos svoje doklady. Z tÄ›ch faleÅ¡nejch poplachÅ¯ uÅ¾ mÃ¡me vÅ¡ichni nervy v kÃ½blu.}
+{113}{}{Ty na zÃ¡kladnu patÅ™Ã­Å¡, Å¾e jo? ZatracenÄ›, tyhle faleÅ¡nÃ½ poplachy mi jdou na nervy!}
+{114}{}{MÃ¡me tu vetÅ™elce! SejmÄ›te je!}
+{115}{}{TÃ¡mhle je vetÅ™elec!}
+{116}{}{TÃ¡mhle! Nenechte je zdrhnout!}
+{117}{}{Byli jsme napadeni u vchodu. PoÅ¡lete posily!}
+{118}{}{Nenechte ty vetÅ™elce utÃ©ct!}
+{119}{}{ChcÃ­pni, primitive!}

@@ -1,9 +1,9 @@
-{100}{}{Vidíš Jordana. Jako obvykle si pohrává se svım kopím.}
-{101}{}{Vidíš Jordana. Jako obvykle si pohrává se svım kopím.}
-{102}{}{Hodnì štìstí! Musím se vrátit ke svému tréninku.}
-{103}{}{Ahoj, Vyvolenı. Vidím, e potøebuješ malı trénink. Mùu ti pomoct?}
-{104}{}{Jasnì.}
-{105}{}{Ne, díky.}
+{100}{}{VidÃ­Å¡ Jordana. Jako obvykle si pohrÃ¡vÃ¡ se svÃ½m kopÃ­m.}
+{101}{}{VidÃ­Å¡ Jordana. Jako obvykle si pohrÃ¡vÃ¡ se svÃ½m kopÃ­m.}
+{102}{}{HodnÄ› Å¡tÄ›stÃ­! MusÃ­m se vrÃ¡tit ke svÃ©mu trÃ©ninku.}
+{103}{}{Ahoj, VyvolenÃ½. VidÃ­m, Å¾e potÅ™ebujeÅ¡ malÃ½ trÃ©nink. MÅ¯Å¾u ti pomoct?}
+{104}{}{JasnÄ›.}
+{105}{}{Ne, dÃ­ky.}
 {106}{}{Bude to chvilku trvat.}
-{107}{}{Nauèil jsem tì u všechno, co vím o boji s oštìpem.}
-{108}{}{Díky, Jordane. Myslím, e mi to v budoucnu hodnì pomùe.}
+{107}{}{NauÄil jsem tÄ› uÅ¾ vÅ¡echno, co vÃ­m o boji s oÅ¡tÄ›pem.}
+{108}{}{DÃ­ky, Jordane. MyslÃ­m, Å¾e mi to v budoucnu hodnÄ› pomÅ¯Å¾e.}

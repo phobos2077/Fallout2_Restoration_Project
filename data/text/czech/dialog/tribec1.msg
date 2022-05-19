@@ -1,184 +1,184 @@
-{100}{}{Vidíš váleèníka.}
-{101}{}{Vidíš Kroma, vrchního váleèníka tohoto kmene.}
-{102}{}{Vidíš obrovského svalnatého váleèníka. Na jeho bronzové kùi jsou jizvy po nespoèetném mnoství bitev.}
-{200}{}{(Svaly tohoto opáleného obra vypadají, jako by byly vytesány z uly. Pod jeho èernou høívou se ukrıvají uhranèivé modré oèi, které se na tebe dívají pronikavım pohledem.) Jsem Krom, vrchní váleèník tohoto kmene. Kdo jsi a co tì sem pøivádí?}
-{201}{}{(Svaly tohoto opáleného obra vypadají, jako by byly vytesány z uly. Pod jeho èernou høívou se ukrıvají uhranèivé modré oèi, které se na tebe dívají pronikavım pohledem.) Jsem Krom, vrchní váleèník tohoto kmene. U sta hromù, holka, tvoje krása by dokázala pobláznit kdejakého mue.}
+{100}{}{VidÃ­Å¡ vÃ¡leÄnÃ­ka.}
+{101}{}{VidÃ­Å¡ Kroma, vrchnÃ­ho vÃ¡leÄnÃ­ka tohoto kmene.}
+{102}{}{VidÃ­Å¡ obrovskÃ©ho svalnatÃ©ho vÃ¡leÄnÃ­ka. Na jeho bronzovÃ© kÅ¯Å¾i jsou jizvy po nespoÄetnÃ©m mnoÅ¾stvÃ­ bitev.}
+{200}{}{(Svaly tohoto opÃ¡lenÃ©ho obra vypadajÃ­, jako by byly vytesÃ¡ny z Å¾uly. Pod jeho Äernou hÅ™Ã­vou se ukrÃ½vajÃ­ uhranÄivÃ© modrÃ© oÄi, kterÃ© se na tebe dÃ­vajÃ­ pronikavÃ½m pohledem.) Jsem Krom, vrchnÃ­ vÃ¡leÄnÃ­k tohoto kmene. Kdo jsi a co tÄ› sem pÅ™ivÃ¡dÃ­?}
+{201}{}{(Svaly tohoto opÃ¡lenÃ©ho obra vypadajÃ­, jako by byly vytesÃ¡ny z Å¾uly. Pod jeho Äernou hÅ™Ã­vou se ukrÃ½vajÃ­ uhranÄivÃ© modrÃ© oÄi, kterÃ© se na tebe dÃ­vajÃ­ pronikavÃ½m pohledem.) Jsem Krom, vrchnÃ­ vÃ¡leÄnÃ­k tohoto kmene. U sta hromÅ¯, holka, tvoje krÃ¡sa by dokÃ¡zala poblÃ¡znit kdejakÃ©ho muÅ¾e.}
 {202}{}{Jsem }
-{203}{}{ a jsem na svaté vıpravì za záchranou své vesnice, Arroyo, pøed jistım znièením.}
+{203}{}{ a jsem na svatÃ© vÃ½pravÄ› za zÃ¡chranou svÃ© vesnice, Arroyo, pÅ™ed jistÃ½m zniÄenÃ­m.}
 {204}{}{Jsem }
-{205}{}{ a mım posláním bylo záchranit svoji vesnici, Arroyo, pøed jistım znièením. U se mi ale všechno potøebné podaøilo najít.}
-{206}{}{Jsem jen prostı poutník, nic víc. U pùjdu.}
-{207}{}{[Usmát se] Dìkuju ti, Krome.}
-{208}{}{Díky, ale co kdyby ses mi zaèal dívat do oèí. Rozumíš, svalovèe?}
-{209}{}{Nech si ty komplimenty, ty úchyle, jasnı? Nechci se s tebou vyspat. Vlastnì s tebou nechci ani mluvit. Nashle.}
-{210}{}{Á, Arroyo, jeden ze severních kmenù. Ale proè mluvíš o "jistém znièení"? Tvoje vesnice je pøece dobøe chránìna velkım kaòonem nebo ne? Urèitì se dokáete ubránit nepøátelskım kmenùm i nájezdníkùm.}
-{211}{}{Nikdo zvenèí nás neohrouje. Mùj kmen umírá zevnitø. Zaili jsme hrozivé sucho a zdá se, e je moje vesnice odsouzena k zániku, pokud vèas nenajdu svatı GECK.}
-{212}{}{Nikdo zvenèí nás neohrouje. Mùj kmen umírá zevnitø. Zaili jsme hrozivé sucho a zdá se, e je moje vesnice odsouzena k zániku, pokud nepouiju GECK, kterı se mi podaøilo najít.}
-{220}{}{Á, GECK, èetl jsem o nìm ve starıch textech. (Pochmurnì se usmìje.) Je opravdu neštìstí, e tvùj kmen proívá tìké období, ale bylo by pošetilé vkládat veškerou nadìji do nìjakého "magického artefaktu" z doby pøed Velkım Tichem. Víš urèitì, e tì tvùj kmen neposlal na takovı nesplnitelnı úkol jen proto, aby se tì zbavil?}
-{221}{}{Á, GECK, èetl jsem o nich ve starıch textech. (Pochmurnì se usmìje.) Je opravdu neštìstí, e tvùj kmen proívá tìké období, ale bylo by pošetilé vkládat veškerou nadìji do nìjakého "magického artefaktu" z doby pøed Velkım Tichem. Jak víš, e to zaøízení zachrání tvùj lid?}
-{222}{}{Vím to jistì. Úspìšnì se mi podaøilo projít Chrámem Zkoušek a získat tak vysoce respektovanı titul Vyvolenı. A pøesnì proto mi dali tenhle úkol, protoe jsem prokázal, e k tomu mám nejlepší pøedpoklady. Co ses doèetl o GECKu?}
-{223}{}{Chceš mì snad urazit? Mìl bys vìdìt, e já jsem Vyvolenı. Omluv se, nebo ti ukáu.}
-{224}{}{Jistì to nevím, ale u jsem kvùli tomu riskoval a a. Udìlám cokoliv pro záchranu svého kmene, a u to bude jakkoliv šílené nebo nebezpeèné.}
-{230}{}{(Pohrdavì pokrèí svımi mocnımi rameny.) Jen samé vìdecké bláboly Starších, které mají nahradit starı dobrı souboj tìce pracujícího èlovìka proti nemilosrdné Zemi bojujícího o svou vlastní existenci potem a krví. Ale pokud opravdu vìøíš, e je to zaøízení vaše jediná nadìje, pak ti doporuèuju vyhledat podzemní Vaulty Starších. Procestoval jsem celou zemi køíem kráem, ale nikdy jsem ádnı nenašel. Na druhou stranu, ani jsem je nehledal.}
-{231}{}{Starší mého kmene si je jistá, e je nalezení GECKu naší nejvìtší šancí a pøesnì to mám za úkol a pøesnì to se chystám udìlat. Nicménì díky za radu.}
-{232}{}{Øíkáš najít Vault? Páni, tomu øíkám opravdu *skvìlá* rada, proè jsem to jen nevìdìl døív? Díky moc za radu, svalovèe.}
-{240}{}{(Srdeènì se zasmìje a poté pozvedne své kopí a zaujme bojovı postoj s takovou rychlostí, která se nesluèuje s jeho impozantními rozmìry.) Tak Vyvolenı, jo? Vyvolenı k èemu, vládnout ukòouranım psùm? Jestli ty jseš to nejlepší, co mùe tvùj kmen nabídnout, tak je jejich osud zpeèetìn. A teï pozvedni svoji zbraò, nebo se mi kliï z oèí.}
-{241}{}{(Srdeènì se zasmìje a poté tì laškovnì plácne pøes zadek svojí rukou, která by dokázala rozbíjet kameny.) Máš v sobì jiskru, holka, a to se mi líbí. Tøeba bychom toho mohli vyuít, kdy u tu jseš. Co øíkáš?}
-{242}{}{Dobøe, fajn,. Odcházím.}
-{243}{}{Mì nikdo vyhroovat nebude, kreténe!}
-{244}{}{K èertu s tebou. Odcházím. Sbohem.}
-{245}{}{Mì se nikdo dotıkat nebude, kreténe! [Zaútoèit]}
-{246}{}{Pokud se budeš dotıkat jenom sebe, tak ti *moná* pomùu.}
-{247}{}{Záleí jak. [Svùdnì se usmát] Co máš na mysli, svalovèe? [Mrknout]}
-{250}{}{Sarkasmus mi není cizí. Ty svoje chytré øeèi si zkoušej na nìkoho jiného, nebo ti vyrvu jazyk z pusy.}
-{251}{}{Dobøe, fajn,. Odcházím.}
-{252}{}{Mì nikdo vyhroovat nebude, kreténe!}
-{260}{}{Jsi tvrdohlavı. U sta hromù, myslím, e tì budu mít nakonec rád. (Ušklíbne se a poté tì poplácá po zádech svojí rukou, která by dokázala rozbíjet kameny.) Kdy u jseš tady, moná bys nám mohl s nìèím pomoct. Co øíkáš?}
-{261}{}{Jsi tvrdohlavá. U sta hromù, myslím, e tì budu mít nakonec rád, holka. (Ušklíbne se a poté tì plácne pøes zadek svojí rukou, která by dokázala rozbíjet kameny.) Kdy u jseš tady, moná bys nám mohla s nìèím pomoct. Co øíkáš?}
-{262}{}{Jistì, myslím, e bych ti mohla s nìèím pomoct. Co chceš, abych udìlala?}
-{263}{}{Promiò, ale nemám èas. Vlastnì bych u mìla jít. Nashle.}
-{264}{}{Jistì, myslím, e bych ti mohla s nìèím pomoct. Co chceš, abych udìlala?}
-{265}{}{Pokud se budeš dotıkat jenom sebe, tak ti *moná* pomùu.}
-{266}{}{Promiò, ale nemám èas. Vlastnì bych u mìla jít. Nashle.}
-{267}{}{Mì se nikdo dotıkat nebude, kreténe! [Zaútoèit]}
-{268}{}{Záleí jak. [Svùdnì se usmát] Co máš na mysli, svalovèe? [Mrknout]}
-{270}{}{(Chlípnì se ušklíbne. Je pøirozenì atraktivní, navzdory svému zjizvenému a drsnému vzhledu.) Povìz, holka, jak se jmenuješ a co tì pøivádí do naší vesnice?}
-{280}{}{Rád. (Podívá se ti do oèí a chlípnì se ušklíbne. Je pøirozenì atraktivní navzdory svému zjizvenému a drsnému vzhledu.) Povìz, holka, jak se jmenuješ a co tì pøivádí do naší vesnice?}
-{290}{}{(Krom se na tebe chlípnì ušklíbne a poté tì vezme do svıch silnıch paí.)}
+{205}{}{ a mÃ½m poslÃ¡nÃ­m bylo zÃ¡chranit svoji vesnici, Arroyo, pÅ™ed jistÃ½m zniÄenÃ­m. UÅ¾ se mi ale vÅ¡echno potÅ™ebnÃ© podaÅ™ilo najÃ­t.}
+{206}{}{Jsem jen prostÃ½ poutnÃ­k, nic vÃ­c. UÅ¾ pÅ¯jdu.}
+{207}{}{[UsmÃ¡t se] DÄ›kuju ti, Krome.}
+{208}{}{DÃ­ky, ale co kdyby ses mi zaÄal dÃ­vat do oÄÃ­. RozumÃ­Å¡, svalovÄe?}
+{209}{}{Nech si ty komplimenty, ty Ãºchyle, jasnÃ½? Nechci se s tebou vyspat. VlastnÄ› s tebou nechci ani mluvit. Nashle.}
+{210}{}{Ã, Arroyo, jeden ze severnÃ­ch kmenÅ¯. Ale proÄ mluvÃ­Å¡ o "jistÃ©m zniÄenÃ­"? Tvoje vesnice je pÅ™ece dobÅ™e chrÃ¡nÄ›na velkÃ½m kaÅˆonem nebo ne? UrÄitÄ› se dokÃ¡Å¾ete ubrÃ¡nit nepÅ™Ã¡telskÃ½m kmenÅ¯m i nÃ¡jezdnÃ­kÅ¯m.}
+{211}{}{Nikdo zvenÄÃ­ nÃ¡s neohroÅ¾uje. MÅ¯j kmen umÃ­rÃ¡ zevnitÅ™. ZaÅ¾ili jsme hrozivÃ© sucho a zdÃ¡ se, Å¾e je moje vesnice odsouzena k zÃ¡niku, pokud vÄas nenajdu svatÃ½ GECK.}
+{212}{}{Nikdo zvenÄÃ­ nÃ¡s neohroÅ¾uje. MÅ¯j kmen umÃ­rÃ¡ zevnitÅ™. ZaÅ¾ili jsme hrozivÃ© sucho a zdÃ¡ se, Å¾e je moje vesnice odsouzena k zÃ¡niku, pokud nepouÅ¾iju GECK, kterÃ½ se mi podaÅ™ilo najÃ­t.}
+{220}{}{Ã, GECK, Äetl jsem o nÄ›m ve starÃ½ch textech. (PochmurnÄ› se usmÄ›je.) Je opravdu neÅ¡tÄ›stÃ­, Å¾e tvÅ¯j kmen proÅ¾Ã­vÃ¡ tÄ›Å¾kÃ© obdobÃ­, ale bylo by poÅ¡etilÃ© vklÃ¡dat veÅ¡kerou nadÄ›ji do nÄ›jakÃ©ho "magickÃ©ho artefaktu" z doby pÅ™ed VelkÃ½m Tichem. VÃ­Å¡ urÄitÄ›, Å¾e tÄ› tvÅ¯j kmen neposlal na takovÃ½ nesplnitelnÃ½ Ãºkol jen proto, aby se tÄ› zbavil?}
+{221}{}{Ã, GECK, Äetl jsem o nich ve starÃ½ch textech. (PochmurnÄ› se usmÄ›je.) Je opravdu neÅ¡tÄ›stÃ­, Å¾e tvÅ¯j kmen proÅ¾Ã­vÃ¡ tÄ›Å¾kÃ© obdobÃ­, ale bylo by poÅ¡etilÃ© vklÃ¡dat veÅ¡kerou nadÄ›ji do nÄ›jakÃ©ho "magickÃ©ho artefaktu" z doby pÅ™ed VelkÃ½m Tichem. Jak vÃ­Å¡, Å¾e to zaÅ™Ã­zenÃ­ zachrÃ¡nÃ­ tvÅ¯j lid?}
+{222}{}{VÃ­m to jistÄ›. ÃšspÄ›Å¡nÄ› se mi podaÅ™ilo projÃ­t ChrÃ¡mem ZkouÅ¡ek a zÃ­skat tak vysoce respektovanÃ½ titul VyvolenÃ½. A pÅ™esnÄ› proto mi dali tenhle Ãºkol, protoÅ¾e jsem prokÃ¡zal, Å¾e k tomu mÃ¡m nejlepÅ¡Ã­ pÅ™edpoklady. Co ses doÄetl o GECKu?}
+{223}{}{ChceÅ¡ mÄ› snad urazit? MÄ›l bys vÄ›dÄ›t, Å¾e jÃ¡ jsem VyvolenÃ½. Omluv se, nebo ti ukÃ¡Å¾u.}
+{224}{}{JistÄ› to nevÃ­m, ale uÅ¾ jsem kvÅ¯li tomu riskoval aÅ¾ aÅ¾. UdÄ›lÃ¡m cokoliv pro zÃ¡chranu svÃ©ho kmene, aÅ¥ uÅ¾ to bude jakkoliv Å¡Ã­lenÃ© nebo nebezpeÄnÃ©.}
+{230}{}{(PohrdavÄ› pokrÄÃ­ svÃ½mi mocnÃ½mi rameny.) Jen samÃ© vÄ›deckÃ© blÃ¡boly StarÅ¡Ã­ch, kterÃ© majÃ­ nahradit starÃ½ dobrÃ½ souboj tÄ›Å¾ce pracujÃ­cÃ­ho ÄlovÄ›ka proti nemilosrdnÃ© Zemi bojujÃ­cÃ­ho o svou vlastnÃ­ existenci potem a krvÃ­. Ale pokud opravdu vÄ›Å™Ã­Å¡, Å¾e je to zaÅ™Ã­zenÃ­ vaÅ¡e jedinÃ¡ nadÄ›je, pak ti doporuÄuju vyhledat podzemnÃ­ Vaulty StarÅ¡Ã­ch. Procestoval jsem celou zemi kÅ™Ã­Å¾em krÃ¡Å¾em, ale nikdy jsem Å¾Ã¡dnÃ½ nenaÅ¡el. Na druhou stranu, ani jsem je nehledal.}
+{231}{}{StarÅ¡Ã­ mÃ©ho kmene si je jistÃ¡, Å¾e je nalezenÃ­ GECKu naÅ¡Ã­ nejvÄ›tÅ¡Ã­ Å¡ancÃ­ a pÅ™esnÄ› to mÃ¡m za Ãºkol a pÅ™esnÄ› to se chystÃ¡m udÄ›lat. NicmÃ©nÄ› dÃ­ky za radu.}
+{232}{}{Å˜Ã­kÃ¡Å¡ najÃ­t Vault? PÃ¡ni, tomu Å™Ã­kÃ¡m opravdu *skvÄ›lÃ¡* rada, proÄ jsem to jen nevÄ›dÄ›l dÅ™Ã­v? DÃ­ky moc za radu, svalovÄe.}
+{240}{}{(SrdeÄnÄ› se zasmÄ›je a potÃ© pozvedne svÃ© kopÃ­ a zaujme bojovÃ½ postoj s takovou rychlostÃ­, kterÃ¡ se nesluÄuje s jeho impozantnÃ­mi rozmÄ›ry.) Tak VyvolenÃ½, jo? VyvolenÃ½ k Äemu, vlÃ¡dnout ukÅˆouranÃ½m psÅ¯m? Jestli ty jseÅ¡ to nejlepÅ¡Ã­, co mÅ¯Å¾e tvÅ¯j kmen nabÃ­dnout, tak je jejich osud zpeÄetÄ›n. A teÄ pozvedni svoji zbraÅˆ, nebo se mi kliÄ z oÄÃ­.}
+{241}{}{(SrdeÄnÄ› se zasmÄ›je a potÃ© tÄ› laÅ¡kovnÄ› plÃ¡cne pÅ™es zadek svojÃ­ rukou, kterÃ¡ by dokÃ¡zala rozbÃ­jet kameny.) MÃ¡Å¡ v sobÄ› jiskru, holka, a to se mi lÃ­bÃ­. TÅ™eba bychom toho mohli vyuÅ¾Ã­t, kdyÅ¾ uÅ¾ tu jseÅ¡. Co Å™Ã­kÃ¡Å¡?}
+{242}{}{DobÅ™e, fajn,. OdchÃ¡zÃ­m.}
+{243}{}{MÄ› nikdo vyhroÅ¾ovat nebude, kretÃ©ne!}
+{244}{}{K Äertu s tebou. OdchÃ¡zÃ­m. Sbohem.}
+{245}{}{MÄ› se nikdo dotÃ½kat nebude, kretÃ©ne! [ZaÃºtoÄit]}
+{246}{}{Pokud se budeÅ¡ dotÃ½kat jenom sebe, tak ti *moÅ¾nÃ¡* pomÅ¯Å¾u.}
+{247}{}{ZÃ¡leÅ¾Ã­ jak. [SvÅ¯dnÄ› se usmÃ¡t] Co mÃ¡Å¡ na mysli, svalovÄe? [Mrknout]}
+{250}{}{Sarkasmus mi nenÃ­ cizÃ­. Ty svoje chytrÃ© Å™eÄi si zkouÅ¡ej na nÄ›koho jinÃ©ho, nebo ti vyrvu jazyk z pusy.}
+{251}{}{DobÅ™e, fajn,. OdchÃ¡zÃ­m.}
+{252}{}{MÄ› nikdo vyhroÅ¾ovat nebude, kretÃ©ne!}
+{260}{}{Jsi tvrdohlavÃ½. U sta hromÅ¯, myslÃ­m, Å¾e tÄ› budu mÃ­t nakonec rÃ¡d. (UÅ¡klÃ­bne se a potÃ© tÄ› poplÃ¡cÃ¡ po zÃ¡dech svojÃ­ rukou, kterÃ¡ by dokÃ¡zala rozbÃ­jet kameny.) KdyÅ¾ uÅ¾ jseÅ¡ tady, moÅ¾nÃ¡ bys nÃ¡m mohl s nÄ›ÄÃ­m pomoct. Co Å™Ã­kÃ¡Å¡?}
+{261}{}{Jsi tvrdohlavÃ¡. U sta hromÅ¯, myslÃ­m, Å¾e tÄ› budu mÃ­t nakonec rÃ¡d, holka. (UÅ¡klÃ­bne se a potÃ© tÄ› plÃ¡cne pÅ™es zadek svojÃ­ rukou, kterÃ¡ by dokÃ¡zala rozbÃ­jet kameny.) KdyÅ¾ uÅ¾ jseÅ¡ tady, moÅ¾nÃ¡ bys nÃ¡m mohla s nÄ›ÄÃ­m pomoct. Co Å™Ã­kÃ¡Å¡?}
+{262}{}{JistÄ›, myslÃ­m, Å¾e bych ti mohla s nÄ›ÄÃ­m pomoct. Co chceÅ¡, abych udÄ›lala?}
+{263}{}{PromiÅˆ, ale nemÃ¡m Äas. VlastnÄ› bych uÅ¾ mÄ›la jÃ­t. Nashle.}
+{264}{}{JistÄ›, myslÃ­m, Å¾e bych ti mohla s nÄ›ÄÃ­m pomoct. Co chceÅ¡, abych udÄ›lala?}
+{265}{}{Pokud se budeÅ¡ dotÃ½kat jenom sebe, tak ti *moÅ¾nÃ¡* pomÅ¯Å¾u.}
+{266}{}{PromiÅˆ, ale nemÃ¡m Äas. VlastnÄ› bych uÅ¾ mÄ›la jÃ­t. Nashle.}
+{267}{}{MÄ› se nikdo dotÃ½kat nebude, kretÃ©ne! [ZaÃºtoÄit]}
+{268}{}{ZÃ¡leÅ¾Ã­ jak. [SvÅ¯dnÄ› se usmÃ¡t] Co mÃ¡Å¡ na mysli, svalovÄe? [Mrknout]}
+{270}{}{(ChlÃ­pnÄ› se uÅ¡klÃ­bne. Je pÅ™irozenÄ› atraktivnÃ­, navzdory svÃ©mu zjizvenÃ©mu a drsnÃ©mu vzhledu.) PovÄ›z, holka, jak se jmenujeÅ¡ a co tÄ› pÅ™ivÃ¡dÃ­ do naÅ¡Ã­ vesnice?}
+{280}{}{RÃ¡d. (PodÃ­vÃ¡ se ti do oÄÃ­ a chlÃ­pnÄ› se uÅ¡klÃ­bne. Je pÅ™irozenÄ› atraktivnÃ­ navzdory svÃ©mu zjizvenÃ©mu a drsnÃ©mu vzhledu.) PovÄ›z, holka, jak se jmenujeÅ¡ a co tÄ› pÅ™ivÃ¡dÃ­ do naÅ¡Ã­ vesnice?}
+{290}{}{(Krom se na tebe chlÃ­pnÄ› uÅ¡klÃ­bne a potÃ© tÄ› vezme do svÃ½ch silnÃ½ch paÅ¾Ã­.)}
 {291}{}{[Poddat se mu]}
-{292}{}{Hej! Nech mì bıt, tak jsem to nemyslela!}
-{300}{}{K èertu s tebou, svùdnice! Bì si škádlit nìkoho jiného. Nebudu s tebou ztrácet èas.}
+{292}{}{Hej! Nech mÄ› bÃ½t, tak jsem to nemyslela!}
+{300}{}{K Äertu s tebou, svÅ¯dnice! BÄ›Å¾ si Å¡kÃ¡dlit nÄ›koho jinÃ©ho. Nebudu s tebou ztrÃ¡cet Äas.}
 {301}{}{Jo, taky jdi do prdele. Nashle.}
-{302}{}{Nevadí. Nashle.}
-{310}{}{(Ubìhlo nìkolik hodin zahalenıch do vyèerpávající a brutální vášnì. Nakonec si zcela vyèerpaná lehneš na podlahu Kromovy chıše. Krom leí vedle tebe a zírá na køivky tvého tìla.) U sta hromù, holka, jsi úasná!}
-{311}{}{Díky. Ty taky nejsi nejhorší.}
-{312}{}{Samozøejmì, e jsem. Jsem pøeci Vyvolená.}
-{320}{}{(Krom se na tebe podivnì ušklíbne.) Bohové vìdí, e jseš pro mì poklad, holka, ale nechtìla bys vyjít vstøíc i zbytku mého kmene?}
-{321}{}{Jistì, myslím, e bych ti mohla s nìèím pomoct. Co chceš, abych udìlala?}
-{322}{}{Ráda bych ti pomohla, ale u opravdu musím jít. Promiò.}
-{323}{}{Chceš, abych ošukala i zbytek kmene? Kdo si myslíš, e jsem?}
-{330}{}{(Krom vyprskne smíchy.) Boe to ne, holka! Sice by to asi udìlalo s morálkou mıch váleèníkù divy, ale nerad bych se dìlil o takovı poklad, jako jseš ty. Ne, mám pro tebe mnohem dùleitìjší úkol, pokud máš zájem.}
-{331}{}{Záleí na tom, o co jde. Co chceš, abych udìlala?}
-{340}{}{(Pozornì si tì prohlédne, jako by na moment nad nìèím uvaoval.) Mám se brzy setkat s jedním z tìch zatracenıch civilizovanıch obchodníkù. Je to zavalitı jednookı psanec, kterému vìøím asi tak jako hladovìjícímu radškorpionovi. Zatím nás sice nepodrazil, ale mám pocit, e se nìco stane na našem dalším setkání.}
-{341}{}{K èemu?}
-{342}{}{Nechápu, jak to souvisí se mnou. Kam tím smìøuješ?}
-{350}{}{Kdy jsme spolu poslednì mluvili, chlubil se, e mi pøiveze nìco opravdu zázraèného a e bych mìl pøinést všechny kùe zlatého geckona, které unesu. Nevím, co je to za zázraènou vìc, ale nejspíš je to nìjaká civilizovaná cetka, za kterou budu ochotnı nevìdomì zaplatit víc, ne jakou má doopravdy cenu. A proto bude nejlepší, kdy se o ten obchod postaráš ty.}
-{351}{}{Proè já?}
-{352}{}{Promiò, ale musím odmítnout. Nashle.}
-{360}{}{Protoe jsi mùj druh. Divoch, jak nám øíkají, ale i pøesto jsem poznal, e máš za sebou nedávnou zkušenost s civilizovanım svìtem. Pokud se o nìco pokusí, všimneš si toho spíš ty ne já. A navíc mám z tebe dobrı pocit a já vím, e mùu vìøit svım instinktùm.}
-{361}{}{Protoe jsi mùj druh. Divoška, jak nám øíkají, ale i pøesto jsem poznal, e máš za sebou nedávnou zkušenost s civilizovanım svìtem. Pokud se o nìco pokusí, všimneš si toho spíš ty ne já. A navíc mám z tebe dobrı pocit, holka, a já vím, e mùu vìøit svım instinktùm.}
-{362}{}{Dobøe. Pojïme na to.}
-{363}{}{Dobøe, ale musím se ještì pøipravit.}
-{364}{}{A co z toho budu mít kdy ti pomùu?}
-{370}{}{(Usmìje se.) Nabízím ti pohostinnost našeho kmene a pøíleitost ohromit mì. Nic víc neslibuju.}
-{371}{}{Dobøe. Pojïme na to.}
-{372}{}{Dobøe, ale musím se ještì pøipravit.}
-{373}{}{Nemám zájem. Nashle.}
-{375}{}{Mùeme jít?}
-{376}{}{Ještì ne.}
-{377}{}{Dobøe. Pojïme na to.}
-{380}{}{Rozhodnutí je na tobì.}
-{390}{}{(Krom si prohlíí jeden z koupenıch Stimpakù.) Tyhle se budou hodit. (Pøiloí si ho k nosu, pøièichne, a zamraèí se. Trochu rudé tekutiny si støíkne na ruku a ochutná ji.) Krucipísek! Jsou naplnìné brahmíní krví! Ten jednookej hajzl nás ojebal. Teï se nám nejspíš pìknì smìje a libuje si nad svımi novımi zlatımi kùemi.}
-{391}{}{To je mi moc líto. Zdály se bıt v poøádku.}
-{392}{}{Co u. Chybama se èlovìk uèí.}
-{400}{}{Jestli ještì nìkdy potkám toho podvodníka, tak mu s radostí rozpùlím tu jeho hnusnou lebku. A teï kdy mì omluvíš, musím se jít zbavit nìkolika ampulek s brahmíní krví. Moná by je vyuil šaman.}
-{410}{}{Sice mi byl ten hnusnı bastard lhostejnı, ale já ho proboha nechtìl zavradit. Jistì, mùeme si teï vzít jeho zboí zadarmo, ale jestli se nìkdo dozví, e k nám pøišel obchodovat a u se nevrátil, tak se nám budou všichni obchodníci vyhıbat.}
-{411}{}{Sice mi byl ten hnusnı bastard lhostejnı, ale já ho proboha nechtìl zavradit, holka. Jistì, mùeme si teï vzít jeho zboí zadarmo, ale jestli se nìkdo dozví, e k nám pøišel obchodovat a u se nevrátil, tak se nám budou všichni obchodníci vyhıbat.}
-{412}{}{Promiò, asi to nebylo moc rozváné.}
-{413}{}{Byl to pìknej hajzl a zaslouil si zemøít.}
+{302}{}{NevadÃ­. Nashle.}
+{310}{}{(UbÄ›hlo nÄ›kolik hodin zahalenÃ½ch do vyÄerpÃ¡vajÃ­cÃ­ a brutÃ¡lnÃ­ vÃ¡Å¡nÄ›. Nakonec si zcela vyÄerpanÃ¡ lehneÅ¡ na podlahu Kromovy chÃ½Å¡e. Krom leÅ¾Ã­ vedle tebe a zÃ­rÃ¡ na kÅ™ivky tvÃ©ho tÄ›la.) U sta hromÅ¯, holka, jsi ÃºÅ¾asnÃ¡!}
+{311}{}{DÃ­ky. Ty taky nejsi nejhorÅ¡Ã­.}
+{312}{}{SamozÅ™ejmÄ›, Å¾e jsem. Jsem pÅ™eci VyvolenÃ¡.}
+{320}{}{(Krom se na tebe podivnÄ› uÅ¡klÃ­bne.) BohovÃ© vÄ›dÃ­, Å¾e jseÅ¡ pro mÄ› poklad, holka, ale nechtÄ›la bys vyjÃ­t vstÅ™Ã­c i zbytku mÃ©ho kmene?}
+{321}{}{JistÄ›, myslÃ­m, Å¾e bych ti mohla s nÄ›ÄÃ­m pomoct. Co chceÅ¡, abych udÄ›lala?}
+{322}{}{RÃ¡da bych ti pomohla, ale uÅ¾ opravdu musÃ­m jÃ­t. PromiÅˆ.}
+{323}{}{ChceÅ¡, abych oÅ¡ukala i zbytek kmene? Kdo si myslÃ­Å¡, Å¾e jsem?}
+{330}{}{(Krom vyprskne smÃ­chy.) BoÅ¾e to ne, holka! Sice by to asi udÄ›lalo s morÃ¡lkou mÃ½ch vÃ¡leÄnÃ­kÅ¯ divy, ale nerad bych se dÄ›lil o takovÃ½ poklad, jako jseÅ¡ ty. Ne, mÃ¡m pro tebe mnohem dÅ¯leÅ¾itÄ›jÅ¡Ã­ Ãºkol, pokud mÃ¡Å¡ zÃ¡jem.}
+{331}{}{ZÃ¡leÅ¾Ã­ na tom, o co jde. Co chceÅ¡, abych udÄ›lala?}
+{340}{}{(PozornÄ› si tÄ› prohlÃ©dne, jako by na moment nad nÄ›ÄÃ­m uvaÅ¾oval.) MÃ¡m se brzy setkat s jednÃ­m z tÄ›ch zatracenÃ½ch civilizovanÃ½ch obchodnÃ­kÅ¯. Je to zavalitÃ½ jednookÃ½ psanec, kterÃ©mu vÄ›Å™Ã­m asi tak jako hladovÄ›jÃ­cÃ­mu radÅ¡korpionovi. ZatÃ­m nÃ¡s sice nepodrazil, ale mÃ¡m pocit, Å¾e se nÄ›co stane na naÅ¡em dalÅ¡Ã­m setkÃ¡nÃ­.}
+{341}{}{K Äemu?}
+{342}{}{NechÃ¡pu, jak to souvisÃ­ se mnou. Kam tÃ­m smÄ›Å™ujeÅ¡?}
+{350}{}{KdyÅ¾ jsme spolu poslednÄ› mluvili, chlubil se, Å¾e mi pÅ™iveze nÄ›co opravdu zÃ¡zraÄnÃ©ho a Å¾e bych mÄ›l pÅ™inÃ©st vÅ¡echny kÅ¯Å¾e zlatÃ©ho geckona, kterÃ© unesu. NevÃ­m, co je to za zÃ¡zraÄnou vÄ›c, ale nejspÃ­Å¡ je to nÄ›jakÃ¡ civilizovanÃ¡ cetka, za kterou budu ochotnÃ½ nevÄ›domÄ› zaplatit vÃ­c, neÅ¾ jakou mÃ¡ doopravdy cenu. A proto bude nejlepÅ¡Ã­, kdyÅ¾ se o ten obchod postarÃ¡Å¡ ty.}
+{351}{}{ProÄ jÃ¡?}
+{352}{}{PromiÅˆ, ale musÃ­m odmÃ­tnout. Nashle.}
+{360}{}{ProtoÅ¾e jsi mÅ¯j druh. Divoch, jak nÃ¡m Å™Ã­kajÃ­, ale i pÅ™esto jsem poznal, Å¾e mÃ¡Å¡ za sebou nedÃ¡vnou zkuÅ¡enost s civilizovanÃ½m svÄ›tem. Pokud se o nÄ›co pokusÃ­, vÅ¡imneÅ¡ si toho spÃ­Å¡ ty neÅ¾ jÃ¡. A navÃ­c mÃ¡m z tebe dobrÃ½ pocit a jÃ¡ vÃ­m, Å¾e mÅ¯Å¾u vÄ›Å™it svÃ½m instinktÅ¯m.}
+{361}{}{ProtoÅ¾e jsi mÅ¯j druh. DivoÅ¡ka, jak nÃ¡m Å™Ã­kajÃ­, ale i pÅ™esto jsem poznal, Å¾e mÃ¡Å¡ za sebou nedÃ¡vnou zkuÅ¡enost s civilizovanÃ½m svÄ›tem. Pokud se o nÄ›co pokusÃ­, vÅ¡imneÅ¡ si toho spÃ­Å¡ ty neÅ¾ jÃ¡. A navÃ­c mÃ¡m z tebe dobrÃ½ pocit, holka, a jÃ¡ vÃ­m, Å¾e mÅ¯Å¾u vÄ›Å™it svÃ½m instinktÅ¯m.}
+{362}{}{DobÅ™e. PojÄme na to.}
+{363}{}{DobÅ™e, ale musÃ­m se jeÅ¡tÄ› pÅ™ipravit.}
+{364}{}{A co z toho budu mÃ­t kdyÅ¾ ti pomÅ¯Å¾u?}
+{370}{}{(UsmÄ›je se.) NabÃ­zÃ­m ti pohostinnost naÅ¡eho kmene a pÅ™Ã­leÅ¾itost ohromit mÄ›. Nic vÃ­c neslibuju.}
+{371}{}{DobÅ™e. PojÄme na to.}
+{372}{}{DobÅ™e, ale musÃ­m se jeÅ¡tÄ› pÅ™ipravit.}
+{373}{}{NemÃ¡m zÃ¡jem. Nashle.}
+{375}{}{MÅ¯Å¾eme jÃ­t?}
+{376}{}{JeÅ¡tÄ› ne.}
+{377}{}{DobÅ™e. PojÄme na to.}
+{380}{}{RozhodnutÃ­ je na tobÄ›.}
+{390}{}{(Krom si prohlÃ­Å¾Ã­ jeden z koupenÃ½ch StimpakÅ¯.) Tyhle se budou hodit. (PÅ™iloÅ¾Ã­ si ho k nosu, pÅ™iÄichne, a zamraÄÃ­ se. Trochu rudÃ© tekutiny si stÅ™Ã­kne na ruku a ochutnÃ¡ ji.) KrucipÃ­sek! Jsou naplnÄ›nÃ© brahmÃ­nÃ­ krvÃ­! Ten jednookej hajzl nÃ¡s ojebal. TeÄ se nÃ¡m nejspÃ­Å¡ pÄ›knÄ› smÄ›je a libuje si nad svÃ½mi novÃ½mi zlatÃ½mi kÅ¯Å¾emi.}
+{391}{}{To je mi moc lÃ­to. ZdÃ¡ly se bÃ½t v poÅ™Ã¡dku.}
+{392}{}{Co uÅ¾. Chybama se ÄlovÄ›k uÄÃ­.}
+{400}{}{Jestli jeÅ¡tÄ› nÄ›kdy potkÃ¡m toho podvodnÃ­ka, tak mu s radostÃ­ rozpÅ¯lÃ­m tu jeho hnusnou lebku. A teÄ kdyÅ¾ mÄ› omluvÃ­Å¡, musÃ­m se jÃ­t zbavit nÄ›kolika ampulek s brahmÃ­nÃ­ krvÃ­. MoÅ¾nÃ¡ by je vyuÅ¾il Å¡aman.}
+{410}{}{Sice mi byl ten hnusnÃ½ bastard lhostejnÃ½, ale jÃ¡ ho proboha nechtÄ›l zavraÅ¾dit. JistÄ›, mÅ¯Å¾eme si teÄ vzÃ­t jeho zboÅ¾Ã­ zadarmo, ale jestli se nÄ›kdo dozvÃ­, Å¾e k nÃ¡m pÅ™iÅ¡el obchodovat a uÅ¾ se nevrÃ¡til, tak se nÃ¡m budou vÅ¡ichni obchodnÃ­ci vyhÃ½bat.}
+{411}{}{Sice mi byl ten hnusnÃ½ bastard lhostejnÃ½, ale jÃ¡ ho proboha nechtÄ›l zavraÅ¾dit, holka. JistÄ›, mÅ¯Å¾eme si teÄ vzÃ­t jeho zboÅ¾Ã­ zadarmo, ale jestli se nÄ›kdo dozvÃ­, Å¾e k nÃ¡m pÅ™iÅ¡el obchodovat a uÅ¾ se nevrÃ¡til, tak se nÃ¡m budou vÅ¡ichni obchodnÃ­ci vyhÃ½bat.}
+{412}{}{PromiÅˆ, asi to nebylo moc rozvÃ¡Å¾nÃ©.}
+{413}{}{Byl to pÄ›knej hajzl a zaslouÅ¾il si zemÅ™Ã­t.}
 {414}{}{A sakra.}
-{420}{}{Vidím, e to byla chyba svìøit ti tenhle úkol. Budu na tebe dávat pozor, kdy budeš ve vesnici. A teï pojï, postaráme se o ten nepoøádek a pùjdeme si kadı po svém.}
-{430}{}{Ten prolhanı bastard si to zaslouil. Jeho osud poslouí jako varování pro ostatní obchodníky, kteøí si usmyslí nás podvést. Dobrá práce pøi odhalování podvodu. Vidím, e jsem udìlal dobøe, kdy jsem ti vìøil. Vítej mezi námi a chovej se tu jako doma. Nicménì je moné, e budu èasem opìt potøebovat tvoji pomoc. A teï pojï, necháme ty mrtvoly hnít na slunci.}
-{431}{}{Ten prolhanı bastard si to zaslouil. Jeho osud poslouí jako varování pro ostatní obchodníky, kteøí si usmyslí nás podvést. Dobrá práce pøi odhalování podvodu. Krásná, bystrá a smrtící. Hrome, holka, jsi dokonalá. Vítej mezi námi a chovej se tu jako doma. Nicménì je moné, e budu èasem opìt potøebovat tvoji pomoc. A teï pojï, necháme ty mrtvoly hnít na slunci.}
-{440}{}{Nemám ti za zlé, e jsi neuskuteènil ten obchod. Taky jsem z toho nemìl nejlepší pocit. Pøiznávám, e by se ty Stimpaky hodily, ale doteï jsme si poradili i bez nich, take v tom budeme pokraèovat. Vítej mezi námi a chovej se tu jako doma. Nicménì je moné, e budu èasem opìt potøebovat tvoji pomoc. Díky za všechno.}
-{441}{}{Nemám ti za zlé, e jsi neuskuteènila ten obchod. Taky jsem z toho nemìl nejlepší pocit. Pøiznávám, e by se ty Stimpaky hodily, ale doteï jsme si poradili i bez nich, take v tom budeme pokraèovat. Vítej mezi námi, holka, a chovej se tu jako doma. Nicménì je moné, e budu èasem opìt potøebovat tvoji pomoc. Díky za všechno.}
-{442}{}{ádnı problém.}
-{443}{}{Rádo se stalo.}
-{444}{}{Nevadí. Nashle.}
-{450}{}{Jestli ještì nìkdy potkám toho podvodníka, tak mu s radostí rozpùlím tu jeho hnusnou lebku. Dobrá práce pøi odhalování podvodu. Vidím, e jsem udìlal dobøe, kdy jsem ti vìøil. Vítej mezi námi a chovej se tu jako doma. Nicménì je moné, e budu èasem opìt potøebovat tvoji pomoc. Díky za všechno.}
-{451}{}{Jestli ještì nìkdy potkám toho podvodníka, tak mu s radostí rozpùlím tu jeho hnusnou lebku. Dobrá práce pøi odhalování podvodu. Vidím, e jsem udìlal dobøe, kdy jsem ti vìøil, holka. Vítej mezi námi a chovej se tu jako doma. Nicménì je moné, e budu èasem opìt potøebovat tvoji pomoc. Díky za všechno.}
-{452}{}{ádnı problém.}
-{453}{}{Rádo se stalo.}
-{454}{}{Nevadí. Nashle.}
-{460}{}{(Obøí váleèník kıvne hlavou na pozdrav.) Vítej zpìt, pøíteli. Potøebuješ nìco?}
-{461}{}{(Obøí váleèník se ušklíbne, kdy se k nìmu pøiblííš.) U sta hromù, u jsem témìø zapomnìl, jak jsi pøekrásná. Potøebuješ nìco, holka?}
-{462}{}{Mùu se tì na nìco zeptat?}
-{463}{}{Ne, promiò, asi jsem ve špatném stanu. U pùjdu.}
-{464}{}{[Svùdnì se usmát] Jo, svalovèe. Nìco bych potøebovala. [Mrknout]}
-{470}{}{Samozøejmì.}
-{471}{}{Zdá se, e u jsi toho hodnì zail. Jakı je tvùj ivotní pøíbìh?}
-{472}{}{Co mi mùeš øíct o téhle vesnici?}
-{473}{}{Mùu ti s nìèím pomoct?}
-{474}{}{Hmm, to je divné. U ani nevím, na co se chci vlastnì zeptat. Zastavím se pozdìji, pokud si vzpomenu. Nashle.}
-{480}{}{(Usmìje se.) Ano, myslím, e u jsem toho zail hodnì. Pocházím z kmene daleko na severu. Kdy mi bylo patnáct, pøepadli nás barbaøi. Toho dne jsem se probudil jako chlapec a šel spát jako mu. Kadı mu, ena, i dítì byli kromì mì mrtví. Ale co by to bylo za ivot, kdyby nebylo hádek a bojù? Buï tì to zlomí, nebo tì to zocelí. Svoje jizvy nosím s pıchou.}
-{481}{}{Co jsi udìlal potom?}
-{482}{}{Dobrá, to u by staèilo. Chci se ještì na nìco zeptat.}
-{490}{}{Navršil jsem mrtvoly na hromadu a sledoval, jak hoøí do noci. Pak jsem sbalil všechno, co jsem dokázal pobrat, a šel se toulat. Strávil jsem nìjakou dobu s nìkolika kmeny a bojoval v mnoha bitvách. Nìjakı èas jsem pobyl i mezi "civilizovanımi" lidmi, ale to mì rychle omrzelo. Je mezi nimi pøíliš mnoho neèestnıch psù schovávajících se za svımi zbranìmi. Mám radìji, kdy se bojuje pìstmi a kovem. Nejsem nároènı mu. Staèí mi bitvy, hostiny, víno a eny. Co jiného by mì mìlo zajímat na tomhle krutém svìtì?}
-{491}{}{A jak jsi skonèil tady?}
-{500}{}{Pøišel jsem sem pøed nìkolika lety. Tenhle kmen mì vzal mezi sebe a dobøe se ke mnì choval. Nabídli mi pozici vrchního váleèníka, kterou jsem samozøejmì pøijal. Líbí se mi u Velké Slané Vody, ale cítím, jak ve mnì roste touha po cestování. Vìøím, e u brzo odejdu, abych zjistil, co si pro mì bohové zase pøichystají.}
-{501}{}{Díky za pøíbìh. Mùu se ještì na nìco zeptat?}
-{502}{}{Díky za pøíbìh. Nashle.}
-{510}{}{Hmmm... vìtšina pøíslušníkù téhle vesnice ve skuteènosti pochází ze tøí menších kmenù, které se rozhodly spojit pøed mnoha lety, aby zvıšily své šance na pøeití. Díky tomu vznikl zajímavı mix zvykù a náøeèí. Ale co je dùleitìjší, díky tomu tu máme zajímavé eny. Jinak není o èem mluvit. Je to prostá vesnice, která bojuje o svoje pøeití.}
-{511}{}{Dobøe, díky. Mùu se ještì na nìco zeptat?}
-{512}{}{Dobøe, díky. Nashle.}
-{520}{}{Zdá se, e má Marli nìjaké potíe se studnou. Jestli chceš pomoct, jdi za ním a zeptej se ho, v èem je problém.}
-{521}{}{Dobøe, díky. Nashle.}
-{522}{}{Dobøe, moná se ho zeptám, ale nejdøív se chci na nìco zeptat tebe.}
-{530}{}{Rád tì vidím, pøíteli. Hodila by se mi nìjaká pomoc, a budeš mít èas.}
-{531}{}{Rád tì vidím, holka. Hodila by se mi nìjaká pomoc, a budeš mít èas.}
-{532}{}{Jistì. Co potøebuješ?}
-{533}{}{Promiò, mám práci. Moná pozdìji.}
-{540}{}{Dva lovci, Serin a Jerem, se ještì nevrátili z lovištì a nìkteøí lidé zaèínají mít obavy. Jsou to naši dva nejlepší váleèníci a nechce se mi ani pomyslet na to, e se jim nìco stalo. Šel bych je hledat sám, ale kdyby lidé spatøili, e jsem se za nimi vydal, pøedpokládali by jen to nejhorší. Radìji je nebudu drádit, dokud nevím, co se dìje. Take, podíváš se po nich?}
-{541}{}{Dobøe, kde mám hledat?}
-{542}{}{Promiò, ale nemám èas je hledat. Urèitì se brzy objeví. Nashle.}
-{543}{}{Nejsem tvùj sluha. Nashle.}
-{550}{}{Jdi se podívat na lovištì na severu. Nejrychlejší cesta vede skrz jeskyni na západì, kousek od Velké Slané Vody. Normálnì bych ti tu cestu nedoporuèil, jeliko tam hrozí nebezpeèí zøícení, ale tady jde o èas. Staèí, kdy budeš v té jeskyni dávat pozor kam šlapeš a nic se ti nestane.}
-{551}{}{Dobøe, pokusím se je co nejrychleji najít.}
-{552}{}{Poèkat, mám projít jeskyní, která se mùe zøítit? Hmm... do prdele, na nìco si teï vzpomínám! Musím zachránit svoji vesnici! Promiò, musím bìet.}
-{560}{}{Máš nìjaké novinky o tìch ztracenıch lovcích?}
-{561}{}{Zatím ne. Budu pokraèovat v hledání.}
-{562}{}{Jo, byli v té jeskyni. Jsou oba mrtví.}
-{570}{}{(Krom pøikıvne a jeho oblièej zesmutní.) Jak zemøeli?}
-{571}{}{Došlo k závalu. Jednoho rozdrtily padající kameny a druhého zasypal štìrk a poté ho zaiva seral geckon. Bylo to pìknì kruté.}
-{580}{}{Zemøeli pod blbım závalem? Proklínám bohy! Nesnáším, kdy ztratím dobré mue takovım zpùsobem. Mìli zemøít v boji jako opravdoví váleèníci. (Zakroutí hlavou.) Jejich ztráta poznamená tenhle kmen. Nicménì ti dìkuju za slubu. U tì nebudu potøebovat.}
-{581}{}{Jistì, kdykoliv. Nashle.}
-{582}{}{Urèitì to byli dobøí mui. Nashle.}
-{590}{}{Dìkuju ti za nalezení tìch lovcù. Ztráta Jerema je velká, byl to zkušenı váleèník. Mìl zemøít v boji a ne pod nìjakım blbım závalem. Nicménì Serin by se mìl díky tobì uzdravit, pøíteli. Jsi tu vdy vítán.}
-{591}{}{Dìkuju ti za nalezení tìch lovcù. Ztráta Jerema je velká, byl to zkušenı váleèník. Mìl zemøít v boji a ne pod nìjakım blbım závalem. Nicménì Serin by se mìl díky tobì uzdravit, holka. Jsi tu vdy vítána.}
-{592}{}{Díky. Mìj se, Krome.}
-{800}{}{Moje kmen, Arroyo, potøebovat pomoc. Já pomoct. Já zvláštní vybranı pomocník.}
-{801}{}{(Krom se zasmìje.) Jo, jsi rozhodnì zvláštní. (Usmìje se a proèechrá ti vlasy rukou, která by dokázala rozbíjet kameny.) Rád pomáháš, jo? Jak by se ti líbilo bıt naším zvláštním pomocníkem?}
-{802}{}{Já pomoct! Co ty potøebovat?}
-{803}{}{Ne-e. Já pomoct Arroyo. Nemít èas pomoct jinım. Ahooj!}
-{810}{}{Potøebujeme špièaté zbranì. (Ukáe na své kopí.) Pìt takovıhlech kopí. (Ukáe na prstech.) *Pìt*. Dále potøebujeme *deset*, to je dvakrát tolik, noù. (Vytáhne nù a ukáe ti ho.) Jako je tenhle, jasnı? Pìt kopí, nezáleí na tom jak ostrıch, a deset bìnıch noù. Chápeš?}
-{811}{}{Dobe. Já jít hledat špièatá vìci.}
-{812}{}{Já mít spousta špièatá vìci. Já je všechny nepotøebovat.}
-{820}{}{Rozmyslel sis to? Chceš bıt naším zvláštním pomocníkem?}
-{821}{}{Já zvláštní. Já bıt velkı pomocník pro kmen.}
-{830}{}{U máš všechny ty špièaté vìci, o které jsem tì poádal?}
-{831}{}{Já najít.}
-{832}{}{Já poøád hledat.}
-{840}{}{(Krom rychle prohlédne zbranì, poté se usmìje a poplácá tì po zádech.) Dobrá práce. Dìkuju ti. Teï bì a do nièeho se nemíchej.}
+{420}{}{VidÃ­m, Å¾e to byla chyba svÄ›Å™it ti tenhle Ãºkol. Budu na tebe dÃ¡vat pozor, kdyÅ¾ budeÅ¡ ve vesnici. A teÄ pojÄ, postarÃ¡me se o ten nepoÅ™Ã¡dek a pÅ¯jdeme si kaÅ¾dÃ½ po svÃ©m.}
+{430}{}{Ten prolhanÃ½ bastard si to zaslouÅ¾il. Jeho osud poslouÅ¾Ã­ jako varovÃ¡nÃ­ pro ostatnÃ­ obchodnÃ­ky, kteÅ™Ã­ si usmyslÃ­ nÃ¡s podvÃ©st. DobrÃ¡ prÃ¡ce pÅ™i odhalovÃ¡nÃ­ podvodu. VidÃ­m, Å¾e jsem udÄ›lal dobÅ™e, kdyÅ¾ jsem ti vÄ›Å™il. VÃ­tej mezi nÃ¡mi a chovej se tu jako doma. NicmÃ©nÄ› je moÅ¾nÃ©, Å¾e budu Äasem opÄ›t potÅ™ebovat tvoji pomoc. A teÄ pojÄ, nechÃ¡me ty mrtvoly hnÃ­t na slunci.}
+{431}{}{Ten prolhanÃ½ bastard si to zaslouÅ¾il. Jeho osud poslouÅ¾Ã­ jako varovÃ¡nÃ­ pro ostatnÃ­ obchodnÃ­ky, kteÅ™Ã­ si usmyslÃ­ nÃ¡s podvÃ©st. DobrÃ¡ prÃ¡ce pÅ™i odhalovÃ¡nÃ­ podvodu. KrÃ¡snÃ¡, bystrÃ¡ a smrtÃ­cÃ­. Hrome, holka, jsi dokonalÃ¡. VÃ­tej mezi nÃ¡mi a chovej se tu jako doma. NicmÃ©nÄ› je moÅ¾nÃ©, Å¾e budu Äasem opÄ›t potÅ™ebovat tvoji pomoc. A teÄ pojÄ, nechÃ¡me ty mrtvoly hnÃ­t na slunci.}
+{440}{}{NemÃ¡m ti za zlÃ©, Å¾e jsi neuskuteÄnil ten obchod. Taky jsem z toho nemÄ›l nejlepÅ¡Ã­ pocit. PÅ™iznÃ¡vÃ¡m, Å¾e by se ty Stimpaky hodily, ale doteÄ jsme si poradili i bez nich, takÅ¾e v tom budeme pokraÄovat. VÃ­tej mezi nÃ¡mi a chovej se tu jako doma. NicmÃ©nÄ› je moÅ¾nÃ©, Å¾e budu Äasem opÄ›t potÅ™ebovat tvoji pomoc. DÃ­ky za vÅ¡echno.}
+{441}{}{NemÃ¡m ti za zlÃ©, Å¾e jsi neuskuteÄnila ten obchod. Taky jsem z toho nemÄ›l nejlepÅ¡Ã­ pocit. PÅ™iznÃ¡vÃ¡m, Å¾e by se ty Stimpaky hodily, ale doteÄ jsme si poradili i bez nich, takÅ¾e v tom budeme pokraÄovat. VÃ­tej mezi nÃ¡mi, holka, a chovej se tu jako doma. NicmÃ©nÄ› je moÅ¾nÃ©, Å¾e budu Äasem opÄ›t potÅ™ebovat tvoji pomoc. DÃ­ky za vÅ¡echno.}
+{442}{}{Å½Ã¡dnÃ½ problÃ©m.}
+{443}{}{RÃ¡do se stalo.}
+{444}{}{NevadÃ­. Nashle.}
+{450}{}{Jestli jeÅ¡tÄ› nÄ›kdy potkÃ¡m toho podvodnÃ­ka, tak mu s radostÃ­ rozpÅ¯lÃ­m tu jeho hnusnou lebku. DobrÃ¡ prÃ¡ce pÅ™i odhalovÃ¡nÃ­ podvodu. VidÃ­m, Å¾e jsem udÄ›lal dobÅ™e, kdyÅ¾ jsem ti vÄ›Å™il. VÃ­tej mezi nÃ¡mi a chovej se tu jako doma. NicmÃ©nÄ› je moÅ¾nÃ©, Å¾e budu Äasem opÄ›t potÅ™ebovat tvoji pomoc. DÃ­ky za vÅ¡echno.}
+{451}{}{Jestli jeÅ¡tÄ› nÄ›kdy potkÃ¡m toho podvodnÃ­ka, tak mu s radostÃ­ rozpÅ¯lÃ­m tu jeho hnusnou lebku. DobrÃ¡ prÃ¡ce pÅ™i odhalovÃ¡nÃ­ podvodu. VidÃ­m, Å¾e jsem udÄ›lal dobÅ™e, kdyÅ¾ jsem ti vÄ›Å™il, holka. VÃ­tej mezi nÃ¡mi a chovej se tu jako doma. NicmÃ©nÄ› je moÅ¾nÃ©, Å¾e budu Äasem opÄ›t potÅ™ebovat tvoji pomoc. DÃ­ky za vÅ¡echno.}
+{452}{}{Å½Ã¡dnÃ½ problÃ©m.}
+{453}{}{RÃ¡do se stalo.}
+{454}{}{NevadÃ­. Nashle.}
+{460}{}{(ObÅ™Ã­ vÃ¡leÄnÃ­k kÃ½vne hlavou na pozdrav.) VÃ­tej zpÄ›t, pÅ™Ã­teli. PotÅ™ebujeÅ¡ nÄ›co?}
+{461}{}{(ObÅ™Ã­ vÃ¡leÄnÃ­k se uÅ¡klÃ­bne, kdyÅ¾ se k nÄ›mu pÅ™iblÃ­Å¾Ã­Å¡.) U sta hromÅ¯, uÅ¾ jsem tÃ©mÄ›Å™ zapomnÄ›l, jak jsi pÅ™ekrÃ¡snÃ¡. PotÅ™ebujeÅ¡ nÄ›co, holka?}
+{462}{}{MÅ¯Å¾u se tÄ› na nÄ›co zeptat?}
+{463}{}{Ne, promiÅˆ, asi jsem ve Å¡patnÃ©m stanu. UÅ¾ pÅ¯jdu.}
+{464}{}{[SvÅ¯dnÄ› se usmÃ¡t] Jo, svalovÄe. NÄ›co bych potÅ™ebovala. [Mrknout]}
+{470}{}{SamozÅ™ejmÄ›.}
+{471}{}{ZdÃ¡ se, Å¾e uÅ¾ jsi toho hodnÄ› zaÅ¾il. JakÃ½ je tvÅ¯j Å¾ivotnÃ­ pÅ™Ã­bÄ›h?}
+{472}{}{Co mi mÅ¯Å¾eÅ¡ Å™Ã­ct o tÃ©hle vesnici?}
+{473}{}{MÅ¯Å¾u ti s nÄ›ÄÃ­m pomoct?}
+{474}{}{Hmm, to je divnÃ©. UÅ¾ ani nevÃ­m, na co se chci vlastnÄ› zeptat. ZastavÃ­m se pozdÄ›ji, pokud si vzpomenu. Nashle.}
+{480}{}{(UsmÄ›je se.) Ano, myslÃ­m, Å¾e uÅ¾ jsem toho zaÅ¾il hodnÄ›. PochÃ¡zÃ­m z kmene daleko na severu. KdyÅ¾ mi bylo patnÃ¡ct, pÅ™epadli nÃ¡s barbaÅ™i. Toho dne jsem se probudil jako chlapec a Å¡el spÃ¡t jako muÅ¾. KaÅ¾dÃ½ muÅ¾, Å¾ena, i dÃ­tÄ› byli kromÄ› mÄ› mrtvÃ­. Ale co by to bylo za Å¾ivot, kdyby nebylo hÃ¡dek a bojÅ¯? BuÄ tÄ› to zlomÃ­, nebo tÄ› to zocelÃ­. Svoje jizvy nosÃ­m s pÃ½chou.}
+{481}{}{Co jsi udÄ›lal potom?}
+{482}{}{DobrÃ¡, to uÅ¾ by staÄilo. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{490}{}{NavrÅ¡il jsem mrtvoly na hromadu a sledoval, jak hoÅ™Ã­ do noci. Pak jsem sbalil vÅ¡echno, co jsem dokÃ¡zal pobrat, a Å¡el se toulat. StrÃ¡vil jsem nÄ›jakou dobu s nÄ›kolika kmeny a bojoval v mnoha bitvÃ¡ch. NÄ›jakÃ½ Äas jsem pobyl i mezi "civilizovanÃ½mi" lidmi, ale to mÄ› rychle omrzelo. Je mezi nimi pÅ™Ã­liÅ¡ mnoho neÄestnÃ½ch psÅ¯ schovÃ¡vajÃ­cÃ­ch se za svÃ½mi zbranÄ›mi. MÃ¡m radÄ›ji, kdyÅ¾ se bojuje pÄ›stmi a kovem. Nejsem nÃ¡roÄnÃ½ muÅ¾. StaÄÃ­ mi bitvy, hostiny, vÃ­no a Å¾eny. Co jinÃ©ho by mÄ› mÄ›lo zajÃ­mat na tomhle krutÃ©m svÄ›tÄ›?}
+{491}{}{A jak jsi skonÄil tady?}
+{500}{}{PÅ™iÅ¡el jsem sem pÅ™ed nÄ›kolika lety. Tenhle kmen mÄ› vzal mezi sebe a dobÅ™e se ke mnÄ› choval. NabÃ­dli mi pozici vrchnÃ­ho vÃ¡leÄnÃ­ka, kterou jsem samozÅ™ejmÄ› pÅ™ijal. LÃ­bÃ­ se mi u VelkÃ© SlanÃ© Vody, ale cÃ­tÃ­m, jak ve mnÄ› roste touha po cestovÃ¡nÃ­. VÄ›Å™Ã­m, Å¾e uÅ¾ brzo odejdu, abych zjistil, co si pro mÄ› bohovÃ© zase pÅ™ichystajÃ­.}
+{501}{}{DÃ­ky za pÅ™Ã­bÄ›h. MÅ¯Å¾u se jeÅ¡tÄ› na nÄ›co zeptat?}
+{502}{}{DÃ­ky za pÅ™Ã­bÄ›h. Nashle.}
+{510}{}{Hmmm... vÄ›tÅ¡ina pÅ™Ã­sluÅ¡nÃ­kÅ¯ tÃ©hle vesnice ve skuteÄnosti pochÃ¡zÃ­ ze tÅ™Ã­ menÅ¡Ã­ch kmenÅ¯, kterÃ© se rozhodly spojit pÅ™ed mnoha lety, aby zvÃ½Å¡ily svÃ© Å¡ance na pÅ™eÅ¾itÃ­. DÃ­ky tomu vznikl zajÃ­mavÃ½ mix zvykÅ¯ a nÃ¡Å™eÄÃ­. Ale co je dÅ¯leÅ¾itÄ›jÅ¡Ã­, dÃ­ky tomu tu mÃ¡me zajÃ­mavÃ© Å¾eny. Jinak nenÃ­ o Äem mluvit. Je to prostÃ¡ vesnice, kterÃ¡ bojuje o svoje pÅ™eÅ¾itÃ­.}
+{511}{}{DobÅ™e, dÃ­ky. MÅ¯Å¾u se jeÅ¡tÄ› na nÄ›co zeptat?}
+{512}{}{DobÅ™e, dÃ­ky. Nashle.}
+{520}{}{ZdÃ¡ se, Å¾e mÃ¡ Marli nÄ›jakÃ© potÃ­Å¾e se studnou. Jestli chceÅ¡ pomoct, jdi za nÃ­m a zeptej se ho, v Äem je problÃ©m.}
+{521}{}{DobÅ™e, dÃ­ky. Nashle.}
+{522}{}{DobÅ™e, moÅ¾nÃ¡ se ho zeptÃ¡m, ale nejdÅ™Ã­v se chci na nÄ›co zeptat tebe.}
+{530}{}{RÃ¡d tÄ› vidÃ­m, pÅ™Ã­teli. Hodila by se mi nÄ›jakÃ¡ pomoc, aÅ¾ budeÅ¡ mÃ­t Äas.}
+{531}{}{RÃ¡d tÄ› vidÃ­m, holka. Hodila by se mi nÄ›jakÃ¡ pomoc, aÅ¾ budeÅ¡ mÃ­t Äas.}
+{532}{}{JistÄ›. Co potÅ™ebujeÅ¡?}
+{533}{}{PromiÅˆ, mÃ¡m prÃ¡ci. MoÅ¾nÃ¡ pozdÄ›ji.}
+{540}{}{Dva lovci, Serin a Jerem, se jeÅ¡tÄ› nevrÃ¡tili z loviÅ¡tÄ› a nÄ›kteÅ™Ã­ lidÃ© zaÄÃ­najÃ­ mÃ­t obavy. Jsou to naÅ¡i dva nejlepÅ¡Ã­ vÃ¡leÄnÃ­ci a nechce se mi ani pomyslet na to, Å¾e se jim nÄ›co stalo. Å el bych je hledat sÃ¡m, ale kdyby lidÃ© spatÅ™ili, Å¾e jsem se za nimi vydal, pÅ™edpoklÃ¡dali by jen to nejhorÅ¡Ã­. RadÄ›ji je nebudu drÃ¡Å¾dit, dokud nevÃ­m, co se dÄ›je. TakÅ¾e, podÃ­vÃ¡Å¡ se po nich?}
+{541}{}{DobÅ™e, kde mÃ¡m hledat?}
+{542}{}{PromiÅˆ, ale nemÃ¡m Äas je hledat. UrÄitÄ› se brzy objevÃ­. Nashle.}
+{543}{}{Nejsem tvÅ¯j sluha. Nashle.}
+{550}{}{Jdi se podÃ­vat na loviÅ¡tÄ› na severu. NejrychlejÅ¡Ã­ cesta vede skrz jeskyni na zÃ¡padÄ›, kousek od VelkÃ© SlanÃ© Vody. NormÃ¡lnÄ› bych ti tu cestu nedoporuÄil, jelikoÅ¾ tam hrozÃ­ nebezpeÄÃ­ zÅ™Ã­cenÃ­, ale tady jde o Äas. StaÄÃ­, kdyÅ¾ budeÅ¡ v tÃ© jeskyni dÃ¡vat pozor kam Å¡lapeÅ¡ a nic se ti nestane.}
+{551}{}{DobÅ™e, pokusÃ­m se je co nejrychleji najÃ­t.}
+{552}{}{PoÄkat, mÃ¡m projÃ­t jeskynÃ­, kterÃ¡ se mÅ¯Å¾e zÅ™Ã­tit? Hmm... do prdele, na nÄ›co si teÄ vzpomÃ­nÃ¡m! MusÃ­m zachrÃ¡nit svoji vesnici! PromiÅˆ, musÃ­m bÄ›Å¾et.}
+{560}{}{MÃ¡Å¡ nÄ›jakÃ© novinky o tÄ›ch ztracenÃ½ch lovcÃ­ch?}
+{561}{}{ZatÃ­m ne. Budu pokraÄovat v hledÃ¡nÃ­.}
+{562}{}{Jo, byli v tÃ© jeskyni. Jsou oba mrtvÃ­.}
+{570}{}{(Krom pÅ™ikÃ½vne a jeho obliÄej zesmutnÃ­.) Jak zemÅ™eli?}
+{571}{}{DoÅ¡lo k zÃ¡valu. Jednoho rozdrtily padajÃ­cÃ­ kameny a druhÃ©ho zasypal Å¡tÄ›rk a potÃ© ho zaÅ¾iva seÅ¾ral geckon. Bylo to pÄ›knÄ› krutÃ©.}
+{580}{}{ZemÅ™eli pod blbÃ½m zÃ¡valem? ProklÃ­nÃ¡m bohy! NesnÃ¡Å¡Ã­m, kdyÅ¾ ztratÃ­m dobrÃ© muÅ¾e takovÃ½m zpÅ¯sobem. MÄ›li zemÅ™Ã­t v boji jako opravdovÃ­ vÃ¡leÄnÃ­ci. (ZakroutÃ­ hlavou.) Jejich ztrÃ¡ta poznamenÃ¡ tenhle kmen. NicmÃ©nÄ› ti dÄ›kuju za sluÅ¾bu. UÅ¾ tÄ› nebudu potÅ™ebovat.}
+{581}{}{JistÄ›, kdykoliv. Nashle.}
+{582}{}{UrÄitÄ› to byli dobÅ™Ã­ muÅ¾i. Nashle.}
+{590}{}{DÄ›kuju ti za nalezenÃ­ tÄ›ch lovcÅ¯. ZtrÃ¡ta Jerema je velkÃ¡, byl to zkuÅ¡enÃ½ vÃ¡leÄnÃ­k. MÄ›l zemÅ™Ã­t v boji a ne pod nÄ›jakÃ½m blbÃ½m zÃ¡valem. NicmÃ©nÄ› Serin by se mÄ›l dÃ­ky tobÄ› uzdravit, pÅ™Ã­teli. Jsi tu vÅ¾dy vÃ­tÃ¡n.}
+{591}{}{DÄ›kuju ti za nalezenÃ­ tÄ›ch lovcÅ¯. ZtrÃ¡ta Jerema je velkÃ¡, byl to zkuÅ¡enÃ½ vÃ¡leÄnÃ­k. MÄ›l zemÅ™Ã­t v boji a ne pod nÄ›jakÃ½m blbÃ½m zÃ¡valem. NicmÃ©nÄ› Serin by se mÄ›l dÃ­ky tobÄ› uzdravit, holka. Jsi tu vÅ¾dy vÃ­tÃ¡na.}
+{592}{}{DÃ­ky. MÄ›j se, Krome.}
+{800}{}{Moje kmen, Arroyo, potÅ™ebovat pomoc. JÃ¡ pomoct. JÃ¡ zvlÃ¡Å¡tnÃ­ vybranÃ½ pomocnÃ­k.}
+{801}{}{(Krom se zasmÄ›je.) Jo, jsi rozhodnÄ› zvlÃ¡Å¡tnÃ­. (UsmÄ›je se a proÄechrÃ¡ ti vlasy rukou, kterÃ¡ by dokÃ¡zala rozbÃ­jet kameny.) RÃ¡d pomÃ¡hÃ¡Å¡, jo? Jak by se ti lÃ­bilo bÃ½t naÅ¡Ã­m zvlÃ¡Å¡tnÃ­m pomocnÃ­kem?}
+{802}{}{JÃ¡ pomoct! Co ty potÅ™ebovat?}
+{803}{}{Ne-e. JÃ¡ pomoct Arroyo. NemÃ­t Äas pomoct jinÃ½m. Ahooj!}
+{810}{}{PotÅ™ebujeme Å¡piÄatÃ© zbranÄ›. (UkÃ¡Å¾e na svÃ© kopÃ­.) PÄ›t takovÃ½hlech kopÃ­. (UkÃ¡Å¾e na prstech.) *PÄ›t*. DÃ¡le potÅ™ebujeme *deset*, to je dvakrÃ¡t tolik, noÅ¾Å¯. (VytÃ¡hne nÅ¯Å¾ a ukÃ¡Å¾e ti ho.) Jako je tenhle, jasnÃ½? PÄ›t kopÃ­, nezÃ¡leÅ¾Ã­ na tom jak ostrÃ½ch, a deset bÄ›Å¾nÃ½ch noÅ¾Å¯. ChÃ¡peÅ¡?}
+{811}{}{DobÅ¾e. JÃ¡ jÃ­t hledat Å¡piÄatÃ¡ vÄ›ci.}
+{812}{}{JÃ¡ mÃ­t spousta Å¡piÄatÃ¡ vÄ›ci. JÃ¡ je vÅ¡echny nepotÅ™ebovat.}
+{820}{}{Rozmyslel sis to? ChceÅ¡ bÃ½t naÅ¡Ã­m zvlÃ¡Å¡tnÃ­m pomocnÃ­kem?}
+{821}{}{JÃ¡ zvlÃ¡Å¡tnÃ­. JÃ¡ bÃ½t velkÃ½ pomocnÃ­k pro kmen.}
+{830}{}{UÅ¾ mÃ¡Å¡ vÅ¡echny ty Å¡piÄatÃ© vÄ›ci, o kterÃ© jsem tÄ› poÅ¾Ã¡dal?}
+{831}{}{JÃ¡ najÃ­t.}
+{832}{}{JÃ¡ poÅ™Ã¡d hledat.}
+{840}{}{(Krom rychle prohlÃ©dne zbranÄ›, potÃ© se usmÄ›je a poplÃ¡cÃ¡ tÄ› po zÃ¡dech.) DobrÃ¡ prÃ¡ce. DÄ›kuju ti. TeÄ bÄ›Å¾ a do niÄeho se nemÃ­chej.}
 {841}{}{Nashle!}
-{850}{}{(Krom ti proèechrá vlasy.) Á, to je mùj zvláštní pomocník. Teï bì a do nièeho se nemíchej.}
+{850}{}{(Krom ti proÄechrÃ¡ vlasy.) Ã, to je mÅ¯j zvlÃ¡Å¡tnÃ­ pomocnÃ­k. TeÄ bÄ›Å¾ a do niÄeho se nemÃ­chej.}
 {851}{}{Nashle!}
-{860}{}{Pokoušíš své štìstí, e jo?}
+{860}{}{PokouÅ¡Ã­Å¡ svÃ© Å¡tÄ›stÃ­, Å¾e jo?}
 {861}{}{Ne, jdu ti nakopat prdel.}
-{862}{}{Ne, chci se ti jen omluvit za tu uráku.}
-{863}{}{Ne, zrovna odcházím.}
-{870}{}{Hmm, zdá se, e mám dnes odpouštìcí náladu, pøíteli. Co pro tebe mùu udìlat?}
-{871}{}{Nemám rád, kdy si se mnou zahrává ena, ale u sta hromù, jak mùu bıt naštvanı na takovou bohyni, jako jsi ty? Co pro tebe mùu udìlat?}
+{862}{}{Ne, chci se ti jen omluvit za tu urÃ¡Å¾ku.}
+{863}{}{Ne, zrovna odchÃ¡zÃ­m.}
+{870}{}{Hmm, zdÃ¡ se, Å¾e mÃ¡m dnes odpouÅ¡tÄ›cÃ­ nÃ¡ladu, pÅ™Ã­teli. Co pro tebe mÅ¯Å¾u udÄ›lat?}
+{871}{}{NemÃ¡m rÃ¡d, kdyÅ¾ si se mnou zahrÃ¡vÃ¡ Å¾ena, ale u sta hromÅ¯, jak mÅ¯Å¾u bÃ½t naÅ¡tvanÃ½ na takovou bohyni, jako jsi ty? Co pro tebe mÅ¯Å¾u udÄ›lat?}
 {872}{}{Ale nic. Nashle.}
-{1000}{}{(Obøí váleèník na tebe s úctou kıvne.) A hele, jestlipak to není náš velkı hrdina pustin. To byl velmi pùsobivı vıkon poslat ty Enklávské psy k èertu takovım zpùsobem. Vlastnì mì tvoje hrdinské èiny inspirovaly k tomu, abych se vrátil zpìt do pustin.}
-{1001}{}{Kam pùjdeš?}
-{1002}{}{Ty chceš odejít jen tak? Ale vdy jsi vrchní váleèník tohohle kmene.}
-{1003}{}{Dobøe. Hodnì štìstí na cestách, Krome.}
-{1010}{}{(Pokrèí svımi širokımi rameny.) Vıchod nezní tak úplnì špatnì. Jo, myslím, e pùjdu na vıchod a uvidím, co mì tam èeká.}
-{1020}{}{Moji pozici brzo nahradí nìjakı jinı váleèník. Vrchní váleèníci stejnì vìtšinou neijou víc ne nìkolik let, take myslím, e si odpoèinek zaslouím.}
-{2000}{}{Podaøilo se ti sehnat víc zbraní pro kmen.}
-{2500}{}{Naletìl jsi na Royùv podvod.}
-{2501}{}{Zbyteènì jsi zabil obchodníka.}
-{2502}{}{Podaøilo se ti odhalit Royùv podvod a postarat se o to, e u nikdy nebude obchodovat.}
-{2503}{}{Odmítl jsi obchodovat s Royem.}
-{2504}{}{Podaøilo se ti odhalit Royùv podvod.}
-{3000}{}{Táhni, nièemnı otrokáøi!}
+{1000}{}{(ObÅ™Ã­ vÃ¡leÄnÃ­k na tebe s Ãºctou kÃ½vne.) A hele, jestlipak to nenÃ­ nÃ¡Å¡ velkÃ½ hrdina pustin. To byl velmi pÅ¯sobivÃ½ vÃ½kon poslat ty EnklÃ¡vskÃ© psy k Äertu takovÃ½m zpÅ¯sobem. VlastnÄ› mÄ› tvoje hrdinskÃ© Äiny inspirovaly k tomu, abych se vrÃ¡til zpÄ›t do pustin.}
+{1001}{}{Kam pÅ¯jdeÅ¡?}
+{1002}{}{Ty chceÅ¡ odejÃ­t jen tak? Ale vÅ¾dyÅ¥ jsi vrchnÃ­ vÃ¡leÄnÃ­k tohohle kmene.}
+{1003}{}{DobÅ™e. HodnÄ› Å¡tÄ›stÃ­ na cestÃ¡ch, Krome.}
+{1010}{}{(PokrÄÃ­ svÃ½mi Å¡irokÃ½mi rameny.) VÃ½chod neznÃ­ tak ÃºplnÄ› Å¡patnÄ›. Jo, myslÃ­m, Å¾e pÅ¯jdu na vÃ½chod a uvidÃ­m, co mÄ› tam ÄekÃ¡.}
+{1020}{}{Moji pozici brzo nahradÃ­ nÄ›jakÃ½ jinÃ½ vÃ¡leÄnÃ­k. VrchnÃ­ vÃ¡leÄnÃ­ci stejnÄ› vÄ›tÅ¡inou neÅ¾ijou vÃ­c neÅ¾ nÄ›kolik let, takÅ¾e myslÃ­m, Å¾e si odpoÄinek zaslouÅ¾Ã­m.}
+{2000}{}{PodaÅ™ilo se ti sehnat vÃ­c zbranÃ­ pro kmen.}
+{2500}{}{NaletÄ›l jsi na RoyÅ¯v podvod.}
+{2501}{}{ZbyteÄnÄ› jsi zabil obchodnÃ­ka.}
+{2502}{}{PodaÅ™ilo se ti odhalit RoyÅ¯v podvod a postarat se o to, Å¾e uÅ¾ nikdy nebude obchodovat.}
+{2503}{}{OdmÃ­tl jsi obchodovat s Royem.}
+{2504}{}{PodaÅ™ilo se ti odhalit RoyÅ¯v podvod.}
+{3000}{}{TÃ¡hni, niÄemnÃ½ otrokÃ¡Å™i!}

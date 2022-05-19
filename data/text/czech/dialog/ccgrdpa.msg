@@ -1,64 +1,64 @@
-{100}{}{Vidíš strá.}
-{101}{}{Vidíš strá v energo zbroji.}
-{102}{}{Vidíš osobu v energo zbroji neobvyklého vzhledu. Na prsou má znak, kterı nepoznáváš.}
-{103}{}{Po dobu mé sluby se nic zvláštního nestalo.}
-{104}{}{U mì nic novıho a co u tebe?}
-{105}{}{Nemìl bys stát na svım místì, vojáku? Tady se nemùeš jen tak poflakovat.}
-{106}{}{Kde máš uniformu?}
-{107}{}{Mìl by ses nahlásit u seri a pøevlíknout se.}
-{108}{}{Pìknì riskuješ, kdy tu takhle pobíháš bez uniformy. Radìji si ji vyfasuj.}
-{109}{}{Kdo k èertu jste? Poplach! Vetøelci!}
+{100}{}{VidÃ­Å¡ strÃ¡Å¾.}
+{101}{}{VidÃ­Å¡ strÃ¡Å¾ v energo zbroji.}
+{102}{}{VidÃ­Å¡ osobu v energo zbroji neobvyklÃ©ho vzhledu. Na prsou mÃ¡ znak, kterÃ½ nepoznÃ¡vÃ¡Å¡.}
+{103}{}{Po dobu mÃ© sluÅ¾by se nic zvlÃ¡Å¡tnÃ­ho nestalo.}
+{104}{}{U mÄ› nic novÃ½ho a co u tebe?}
+{105}{}{NemÄ›l bys stÃ¡t na svÃ½m mÃ­stÄ›, vojÃ¡ku? Tady se nemÅ¯Å¾eÅ¡ jen tak poflakovat.}
+{106}{}{Kde mÃ¡Å¡ uniformu?}
+{107}{}{MÄ›l by ses nahlÃ¡sit u serÅ¾i a pÅ™evlÃ­knout se.}
+{108}{}{PÄ›knÄ› riskujeÅ¡, kdyÅ¾ tu takhle pobÃ­hÃ¡Å¡ bez uniformy. RadÄ›ji si ji vyfasuj.}
+{109}{}{Kdo k Äertu jste? Poplach! VetÅ™elci!}
 {110}{}{Byli jsme napadeni! Poplach!}
-{111}{}{Vetøelci! Spuste alarm!}
-{112}{}{Poplach! Chraòte základnu!}
-{113}{}{Zabezpeète všechny stanice! Máme tu poplach!}
-{114}{}{Poplach! Èervenı kód!}
-{115}{}{Chcípneš!}
-{116}{}{Enkláva bude vládnou svìtu!}
-{117}{}{Ty zhebneš, Enkláva bude ít dál!}
-{200}{}{...kretén...}
-{201}{}{...jo, RADŠI odsud zmiz...}
-{202}{}{...sráè jeden...}
+{111}{}{VetÅ™elci! SpusÅ¥te alarm!}
+{112}{}{Poplach! ChraÅˆte zÃ¡kladnu!}
+{113}{}{ZabezpeÄte vÅ¡echny stanice! MÃ¡me tu poplach!}
+{114}{}{Poplach! ÄŒervenÃ½ kÃ³d!}
+{115}{}{ChcÃ­pneÅ¡!}
+{116}{}{EnklÃ¡va bude vlÃ¡dnou svÄ›tu!}
+{117}{}{Ty zhebneÅ¡, EnklÃ¡va bude Å¾Ã­t dÃ¡l!}
+{200}{}{...kretÃ©n...}
+{201}{}{...jo, RADÅ I odsud zmiz...}
+{202}{}{...srÃ¡Ä jeden...}
 {203}{}{...ano, pane! No jo kurva, pane!...}
-{300}{}{Ani se nehni. Co si myslíš, e dìláš s tou helikoptérou? Co vím, tak na nìkolik dalších dnù nejsou naplánovanı ádnı lety.}
+{300}{}{Ani se nehni. Co si myslÃ­Å¡, Å¾e dÄ›lÃ¡Å¡ s tou helikoptÃ©rou? Co vÃ­m, tak na nÄ›kolik dalÅ¡Ã­ch dnÅ¯ nejsou naplÃ¡novanÃ½ Å¾Ã¡dnÃ½ lety.}
 {301}{}{Huba buba?}
-{302}{}{Já vím.}
-{303}{}{Omlouvám se. Jenom se tak dívám. Radìji pùjdu.}
-{304}{}{Nastala zmìna plánu. Beru si tuhle helikoptéru.}
-{310}{}{Coe? Aha, chápu. Podívej, nesahej na to. Jasnı? Dotkni se toho ještì jednou a chcípneš.}
-{311}{}{[Mile se usmát a pak zaútoèit]}
-{312}{}{[Odejít]}
-{315}{}{Do prdele, vypadá to, e tu máme vetøelce. Èervenı kód! Opakuju, èervenı kód!}
-{316}{}{To zní jako dobrı nápad. Dotkni se toho letadla ještì jednou a schytáš jednu do hlavy.}
-{320}{}{Správnì. A proto...}
-{321}{}{Právì odcházím. Omlouvám se za obtìování.}
-{322}{}{Musím do hlavní základny doruèit velmi dùleitou zprávu.}
-{323}{}{Fakt jo? A co je v té zprávì?}
-{324}{}{To je pøísnì tajné. Nemùu ti to øíct.}
-{325}{}{Øeknu ti to, ale je naprosto nezbytné, abys tuto informaci nešíøil dál, protoe by mohla nastat ohromná panika. Víš, zjistilo se, e jedna z posledních dodávek otrokù je nakaena neznámım a velice smrtelnım kmenem viru. *Musím* se okamitì dostat do základny, jinak mùeme zemøít. A teï pøestaò plıtvat mım drahocennım èasem. Záleí na kadé minutì.}
-{326}{}{Jasnì, vìøím ti. Vypadá to, e tu máme vetøelce...}
-{327}{}{Sakra! No to je jedno. Mnì tady stejnì nikdo neøekne ani hovno. Tak jdi.}
-{328}{}{Páni, to zní blbì. Dobøe, tak jdi. Nechci bıt za takovej prùser zodpovìdnej. Jo, a neboj se, nikomu nic neøeknu.}
+{302}{}{JÃ¡ vÃ­m.}
+{303}{}{OmlouvÃ¡m se. Jenom se tak dÃ­vÃ¡m. RadÄ›ji pÅ¯jdu.}
+{304}{}{Nastala zmÄ›na plÃ¡nu. Beru si tuhle helikoptÃ©ru.}
+{310}{}{CoÅ¾e? Aha, chÃ¡pu. PodÃ­vej, nesahej na to. JasnÃ½? Dotkni se toho jeÅ¡tÄ› jednou a chcÃ­pneÅ¡.}
+{311}{}{[Mile se usmÃ¡t a pak zaÃºtoÄit]}
+{312}{}{[OdejÃ­t]}
+{315}{}{Do prdele, vypadÃ¡ to, Å¾e tu mÃ¡me vetÅ™elce. ÄŒervenÃ½ kÃ³d! Opakuju, ÄervenÃ½ kÃ³d!}
+{316}{}{To znÃ­ jako dobrÃ½ nÃ¡pad. Dotkni se toho letadla jeÅ¡tÄ› jednou a schytÃ¡Å¡ jednu do hlavy.}
+{320}{}{SprÃ¡vnÄ›. A proto...}
+{321}{}{PrÃ¡vÄ› odchÃ¡zÃ­m. OmlouvÃ¡m se za obtÄ›Å¾ovÃ¡nÃ­.}
+{322}{}{MusÃ­m do hlavnÃ­ zÃ¡kladny doruÄit velmi dÅ¯leÅ¾itou zprÃ¡vu.}
+{323}{}{Fakt jo? A co je v tÃ© zprÃ¡vÄ›?}
+{324}{}{To je pÅ™Ã­snÄ› tajnÃ©. NemÅ¯Å¾u ti to Å™Ã­ct.}
+{325}{}{Å˜eknu ti to, ale je naprosto nezbytnÃ©, abys tuto informaci neÅ¡Ã­Å™il dÃ¡l, protoÅ¾e by mohla nastat ohromnÃ¡ panika. VÃ­Å¡, zjistilo se, Å¾e jedna z poslednÃ­ch dodÃ¡vek otrokÅ¯ je nakaÅ¾ena neznÃ¡mÃ½m a velice smrtelnÃ½m kmenem viru. *MusÃ­m* se okamÅ¾itÄ› dostat do zÃ¡kladny, jinak mÅ¯Å¾eme zemÅ™Ã­t. A teÄ pÅ™estaÅˆ plÃ½tvat mÃ½m drahocennÃ½m Äasem. ZÃ¡leÅ¾Ã­ na kaÅ¾dÃ© minutÄ›.}
+{326}{}{JasnÄ›, vÄ›Å™Ã­m ti. VypadÃ¡ to, Å¾e tu mÃ¡me vetÅ™elce...}
+{327}{}{Sakra! No to je jedno. MnÄ› tady stejnÄ› nikdo neÅ™ekne ani hovno. Tak jdi.}
+{328}{}{PÃ¡ni, to znÃ­ blbÄ›. DobÅ™e, tak jdi. Nechci bÃ½t za takovej prÅ¯ser zodpovÄ›dnej. Jo, a neboj se, nikomu nic neÅ™eknu.}
 {329}{}{[KONEC]}
-{400}{}{(Po pùl hodinì sezení v temném nákladovém prostoru ucítíš, e se vertibird opìt dotkl zemì. O nìkolik minut pozdìji se otevøou nákladové dveøe a ty se díváš na oddíl vojákù v energo zbrojích. Jeden z nich tì nedbale pøehlédne, poté zpozorní, dobøe si tì prohlédne a obrátí se na ostatní.) Do prdele! Jeden z tìch zmutovanejch cizincù se svezl na èerno v našem 'ptáèkovi'! POPLACH! Máme tu vetøelce!}
-{401}{}{(Po pùl hodinì sezení v temném nákladovém prostoru ucítíš, e se vertibird opìt dotkl zemì. O nìkolik minut pozdìji se otevøou nákladové dveøe a ty se díváš na oddíl vojákù v energo zbrojích. Jeden z nich tì nedbale pøehlédne, poté zpozorní, dobøe si tì prohlédne a obrátí se na ostatní.) Do prdele! Nìkolik zmutovanejch cizincù se svezlo na èerno v našem 'ptáèkovi'! POPLACH! Máme tu vetøelce!}
-{402}{}{[Vyskoèit ven a pobít jich co nejvíc, ne tì odprásknou]}
-{403}{}{[Zvednout ruce nad hlavu a doufat, e to dobøe dopadne]}
-{410}{}{Sákryš, vypadá to, e se ten mutant nechce bít. Moná bysme ho mìli vzít k veliteli, a rozhodne, co s ním udìláme.}
-{411}{}{Sákryš, vypadá to, e se ta mutantka nechce bít. Moná bysme ji mìli vzít k veliteli, a rozhodne, co s ní udìláme.}
-{412}{}{Sákryš, vypadá to, e se ti mutanti nechtìjí bít. Moná bysme je mìli vzít k veliteli, a rozhodne, co s nima udìláme.}
-{420}{}{(Po pùl hodinì sezení v temném nákladovém prostoru ucítíš, e se vertibird opìt dotkl zemì. O nìkolik minut pozdìji se otevøou nákladové dveøe a ty se díváš na oddíl vojákù v energo zbrojích. Jeden z nich tì nedbale pøehlédne, poté zpozorní, dobøe si tì prohlédne a obrátí se na ostatní.) Co tam sakra dìláš? Nikdo tì na tuhle misi nepovolal. Jak se jmenuješ, vojáku?}
-{421}{}{Na mém jménì nezáleí, protoe si tu nechci s nikım povídat. [Vyskoèit ven a zaèít bojovat]}
-{422}{}{Já? No, jsem, eh, *kašlání*mumlat*kašlání*. Ale mì si nevšímejte. Vlastnì bude lepší, kdy u pùjdu. [Vyjít ven a pokusit se nenápadnì odejít]}
+{400}{}{(Po pÅ¯l hodinÄ› sezenÃ­ v temnÃ©m nÃ¡kladovÃ©m prostoru ucÃ­tÃ­Å¡, Å¾e se vertibird opÄ›t dotkl zemÄ›. O nÄ›kolik minut pozdÄ›ji se otevÅ™ou nÃ¡kladovÃ© dveÅ™e a ty se dÃ­vÃ¡Å¡ na oddÃ­l vojÃ¡kÅ¯ v energo zbrojÃ­ch. Jeden z nich tÄ› nedbale pÅ™ehlÃ©dne, potÃ© zpozornÃ­, dobÅ™e si tÄ› prohlÃ©dne a obrÃ¡tÃ­ se na ostatnÃ­.) Do prdele! Jeden z tÄ›ch zmutovanejch cizincÅ¯ se svezl na Äerno v naÅ¡em 'ptÃ¡Äkovi'! POPLACH! MÃ¡me tu vetÅ™elce!}
+{401}{}{(Po pÅ¯l hodinÄ› sezenÃ­ v temnÃ©m nÃ¡kladovÃ©m prostoru ucÃ­tÃ­Å¡, Å¾e se vertibird opÄ›t dotkl zemÄ›. O nÄ›kolik minut pozdÄ›ji se otevÅ™ou nÃ¡kladovÃ© dveÅ™e a ty se dÃ­vÃ¡Å¡ na oddÃ­l vojÃ¡kÅ¯ v energo zbrojÃ­ch. Jeden z nich tÄ› nedbale pÅ™ehlÃ©dne, potÃ© zpozornÃ­, dobÅ™e si tÄ› prohlÃ©dne a obrÃ¡tÃ­ se na ostatnÃ­.) Do prdele! NÄ›kolik zmutovanejch cizincÅ¯ se svezlo na Äerno v naÅ¡em 'ptÃ¡Äkovi'! POPLACH! MÃ¡me tu vetÅ™elce!}
+{402}{}{[VyskoÄit ven a pobÃ­t jich co nejvÃ­c, neÅ¾ tÄ› odprÃ¡sknou]}
+{403}{}{[Zvednout ruce nad hlavu a doufat, Å¾e to dobÅ™e dopadne]}
+{410}{}{SÃ¡kryÅ¡, vypadÃ¡ to, Å¾e se ten mutant nechce bÃ­t. MoÅ¾nÃ¡ bysme ho mÄ›li vzÃ­t k veliteli, aÅ¥ rozhodne, co s nÃ­m udÄ›lÃ¡me.}
+{411}{}{SÃ¡kryÅ¡, vypadÃ¡ to, Å¾e se ta mutantka nechce bÃ­t. MoÅ¾nÃ¡ bysme ji mÄ›li vzÃ­t k veliteli, aÅ¥ rozhodne, co s nÃ­ udÄ›lÃ¡me.}
+{412}{}{SÃ¡kryÅ¡, vypadÃ¡ to, Å¾e se ti mutanti nechtÄ›jÃ­ bÃ­t. MoÅ¾nÃ¡ bysme je mÄ›li vzÃ­t k veliteli, aÅ¥ rozhodne, co s nima udÄ›lÃ¡me.}
+{420}{}{(Po pÅ¯l hodinÄ› sezenÃ­ v temnÃ©m nÃ¡kladovÃ©m prostoru ucÃ­tÃ­Å¡, Å¾e se vertibird opÄ›t dotkl zemÄ›. O nÄ›kolik minut pozdÄ›ji se otevÅ™ou nÃ¡kladovÃ© dveÅ™e a ty se dÃ­vÃ¡Å¡ na oddÃ­l vojÃ¡kÅ¯ v energo zbrojÃ­ch. Jeden z nich tÄ› nedbale pÅ™ehlÃ©dne, potÃ© zpozornÃ­, dobÅ™e si tÄ› prohlÃ©dne a obrÃ¡tÃ­ se na ostatnÃ­.) Co tam sakra dÄ›lÃ¡Å¡? Nikdo tÄ› na tuhle misi nepovolal. Jak se jmenujeÅ¡, vojÃ¡ku?}
+{421}{}{Na mÃ©m jmÃ©nÄ› nezÃ¡leÅ¾Ã­, protoÅ¾e si tu nechci s nikÃ½m povÃ­dat. [VyskoÄit ven a zaÄÃ­t bojovat]}
+{422}{}{JÃ¡? No, jsem, eh, *kaÅ¡lÃ¡nÃ­*mumlat*kaÅ¡lÃ¡nÃ­*. Ale mÄ› si nevÅ¡Ã­mejte. VlastnÄ› bude lepÅ¡Ã­, kdyÅ¾ uÅ¾ pÅ¯jdu. [VyjÃ­t ven a pokusit se nenÃ¡padnÄ› odejÃ­t]}
 {423}{}{Jmenuju se }
 {424}{}{. Kde to jsem?}
-{425}{}{Ne, jaké je *vaše* jméno, vojáku? Mám za úkol vás provìøit a musím øíct, e jste SELHAL. Bıt sebevraednım zabijákem, tak u jste vy a celá ta vaše banda dávno po smrti! To je nepøijatelné! Zapracujte na tom, vojáku!}
+{425}{}{Ne, jakÃ© je *vaÅ¡e* jmÃ©no, vojÃ¡ku? MÃ¡m za Ãºkol vÃ¡s provÄ›Å™it a musÃ­m Å™Ã­ct, Å¾e jste SELHAL. BÃ½t sebevraÅ¾ednÃ½m zabijÃ¡kem, tak uÅ¾ jste vy a celÃ¡ ta vaÅ¡e banda dÃ¡vno po smrti! To je nepÅ™ijatelnÃ©! Zapracujte na tom, vojÃ¡ku!}
 {426}{}{Eh... jmenuju se }
-{427}{}{. Já bavit jezdit v plechová ptáèek! Ještì! Chci jít ještì!}
-{428}{}{Ty nepotøebovat znát moja jméno. Já tebe nemít rád. Já zabít. [Vyskoèit ven a zaèít bojovat]}
-{430}{}{Nìkdo nám tu chlastal, co? Jsi samozøejmì v Navarru. Jestli máš problémy s pamìtí, vojáku, tak se jdi nechat vyšetøit. Moná ti ta radiace venku nìco udìlala.}
-{440}{}{Jdi s tìma kravinama nìkam. Patøíš k tìm novım rekrutùm, co? Hehe. Ta tvoje chytrá huba tì akorát tak dostane do problému... a nemùu se doèkat, a k tomu dojde. A teï se vra na svoje místo, vojáku.}
+{427}{}{. JÃ¡ bavit jezdit v plechovÃ¡ ptÃ¡Äek! JeÅ¡tÄ›! Chci jÃ­t jeÅ¡tÄ›!}
+{428}{}{Ty nepotÅ™ebovat znÃ¡t moja jmÃ©no. JÃ¡ tebe nemÃ­t rÃ¡d. JÃ¡ zabÃ­t. [VyskoÄit ven a zaÄÃ­t bojovat]}
+{430}{}{NÄ›kdo nÃ¡m tu chlastal, co? Jsi samozÅ™ejmÄ› v Navarru. Jestli mÃ¡Å¡ problÃ©my s pamÄ›tÃ­, vojÃ¡ku, tak se jdi nechat vyÅ¡etÅ™it. MoÅ¾nÃ¡ ti ta radiace venku nÄ›co udÄ›lala.}
+{440}{}{Jdi s tÄ›ma kravinama nÄ›kam. PatÅ™Ã­Å¡ k tÄ›m novÃ½m rekrutÅ¯m, co? Hehe. Ta tvoje chytrÃ¡ huba tÄ› akorÃ¡t tak dostane do problÃ©mu... a nemÅ¯Å¾u se doÄkat, aÅ¾ k tomu dojde. A teÄ se vraÅ¥ na svoje mÃ­sto, vojÃ¡ku.}
 {450}{}{Pane! Ano pane!}
 {451}{}{Madam! Ano madam!}
-{460}{}{(Voják se podívá na své spoleèníky.) Mùj Boe, všechna ta radiace a kontakt s mutanty z nìj udìlaly úplnıho retarda. Vidíte? *Proto* se nikdy dobrovolnì nehlásím na mise v pustinách. No nic, zbavíme tohohle blbıho parchanta jeho trápení, ne nás nakazí.}
-{461}{}{(Voják se podívá na své spoleèníky.) Mùj Boe, všechna ta radiace a kontakt s mutanty z ní udìlaly úplnıho retarda. Vidíte? *Proto* se nikdy dobrovolnì nehlásím na mise v pustinách. No nic, zbavíme tuhle blbou dìvku její trápení, ne nás nakazí.}
+{460}{}{(VojÃ¡k se podÃ­vÃ¡ na svÃ© spoleÄnÃ­ky.) MÅ¯j BoÅ¾e, vÅ¡echna ta radiace a kontakt s mutanty z nÄ›j udÄ›laly ÃºplnÃ½ho retarda. VidÃ­te? *Proto* se nikdy dobrovolnÄ› nehlÃ¡sÃ­m na mise v pustinÃ¡ch. No nic, zbavÃ­me tohohle blbÃ½ho parchanta jeho trÃ¡penÃ­, neÅ¾ nÃ¡s nakazÃ­.}
+{461}{}{(VojÃ¡k se podÃ­vÃ¡ na svÃ© spoleÄnÃ­ky.) MÅ¯j BoÅ¾e, vÅ¡echna ta radiace a kontakt s mutanty z nÃ­ udÄ›laly ÃºplnÃ½ho retarda. VidÃ­te? *Proto* se nikdy dobrovolnÄ› nehlÃ¡sÃ­m na mise v pustinÃ¡ch. No nic, zbavÃ­me tuhle blbou dÄ›vku jejÃ­ trÃ¡penÃ­, neÅ¾ nÃ¡s nakazÃ­.}

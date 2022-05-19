@@ -1,11 +1,11 @@
-{100}{}{Vidíš Auto-Dok.}
-{101}{}{Vidíš zastarale vypadající Auto-Dok. Navzdory svému stáøí se ti ho povedlo uvést do provozu.}
-{102}{}{Vidíš Auto-Dok.}
-{103}{}{Vidíš zastarale vypadající Auto-Dok. Navzdory svému stáøí se ti ho povedlo uvést do provozu.}
-{104}{}{Vidíš zastarale vypadající Auto-Dok. Podivnì cvaká a bzuèí a silnì se zahøívá.}
-{105}{}{Vidíš Auto-Dok.}
-{106}{}{Vidíš zastarale vypadající Auto-Dok. Podivnì cvaká a bzuèí a silnì se zahøívá.}
-{107}{}{Tenhle staøièkı Auto-Dok potøebuje zoufale opravit. Nejspíš se u nìkolik desetiletí odkládala jeho plánovaná údrba.}
-{108}{}{Poškození nebylo zase tak velké, jak se zdálo. Nìkteré dráty potøebovaly vymìnit a základní deska vyèistit. ádnı problém.}
-{109}{}{I po bliším prozkoumání Auto-Doka nevíš, jak jej opravit.}
-{110}{}{Auto-Dok u byl opraven. Pracuje, jak má. Zdá se.}
+{100}{}{VidÃ­Å¡ Auto-Dok.}
+{101}{}{VidÃ­Å¡ zastarale vypadajÃ­cÃ­ Auto-Dok. Navzdory svÃ©mu stÃ¡Å™Ã­ se ti ho povedlo uvÃ©st do provozu.}
+{102}{}{VidÃ­Å¡ Auto-Dok.}
+{103}{}{VidÃ­Å¡ zastarale vypadajÃ­cÃ­ Auto-Dok. Navzdory svÃ©mu stÃ¡Å™Ã­ se ti ho povedlo uvÃ©st do provozu.}
+{104}{}{VidÃ­Å¡ zastarale vypadajÃ­cÃ­ Auto-Dok. PodivnÄ› cvakÃ¡ a bzuÄÃ­ a silnÄ› se zahÅ™Ã­vÃ¡.}
+{105}{}{VidÃ­Å¡ Auto-Dok.}
+{106}{}{VidÃ­Å¡ zastarale vypadajÃ­cÃ­ Auto-Dok. PodivnÄ› cvakÃ¡ a bzuÄÃ­ a silnÄ› se zahÅ™Ã­vÃ¡.}
+{107}{}{Tenhle staÅ™iÄkÃ½ Auto-Dok potÅ™ebuje zoufale opravit. NejspÃ­Å¡ se uÅ¾ nÄ›kolik desetiletÃ­ odklÃ¡dala jeho plÃ¡novanÃ¡ ÃºdrÅ¾ba.}
+{108}{}{PoÅ¡kozenÃ­ nebylo zase tak velkÃ©, jak se zdÃ¡lo. NÄ›kterÃ© drÃ¡ty potÅ™ebovaly vymÄ›nit a zÃ¡kladnÃ­ deska vyÄistit. Å½Ã¡dnÃ½ problÃ©m.}
+{109}{}{I po bliÅ¾Å¡Ã­m prozkoumÃ¡nÃ­ Auto-Doka nevÃ­Å¡, jak jej opravit.}
+{110}{}{Auto-Dok uÅ¾ byl opraven. Pracuje, jak mÃ¡. ZdÃ¡ se.}

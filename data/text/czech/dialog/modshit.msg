@@ -1,1 +1,1 @@
-{100}{}{Tady dole je cítit omraèující puch metanu. Jedna malá jiskra by celou tuhle díru vyhodila do oblak.}
+{100}{}{Tady dole je cÃ­tit omraÄujÃ­cÃ­ puch metanu. Jedna malÃ¡ jiskra by celou tuhle dÃ­ru vyhodila do oblak.}

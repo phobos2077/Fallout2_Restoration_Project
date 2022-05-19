@@ -1,13 +1,13 @@
-{100}{}{Jídlo!}
-{101}{}{Dej nám jídlo!}
-{102}{}{Máme hlad!}
-{103}{}{Nemáš nìjaké peníze pro ty ménì šastné?}
-{104}{}{Pomozte nám!}
-{105}{}{Jídlo!}
-{106}{}{Mám hlad.}
-{107}{}{Moje dìti hladoví.}
-{108}{}{Nikoho nezajímáme.}
-{109}{}{Nezabíjej mì!}
-{110}{}{Chtìl jsem jenom nìco k jídlu.}
-{111}{}{Odpus mi.}
-{112}{}{ebrák bere pøedmìt.}
+{100}{}{JÃ­dlo!}
+{101}{}{Dej nÃ¡m jÃ­dlo!}
+{102}{}{MÃ¡me hlad!}
+{103}{}{NemÃ¡Å¡ nÄ›jakÃ© penÃ­ze pro ty mÃ©nÄ› Å¡Å¥astnÃ©?}
+{104}{}{Pomozte nÃ¡m!}
+{105}{}{JÃ­dlo!}
+{106}{}{MÃ¡m hlad.}
+{107}{}{Moje dÄ›ti hladovÃ­.}
+{108}{}{Nikoho nezajÃ­mÃ¡me.}
+{109}{}{NezabÃ­jej mÄ›!}
+{110}{}{ChtÄ›l jsem jenom nÄ›co k jÃ­dlu.}
+{111}{}{OdpusÅ¥ mi.}
+{112}{}{Å½ebrÃ¡k bere pÅ™edmÄ›t.}

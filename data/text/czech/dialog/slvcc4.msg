@@ -1,30 +1,30 @@
-{100}{}{Vidíš otroka.}
-{101}{}{Vidíš zdravì vypadajícího otroka.}
-{320}{}{Ty zlı!}
+{100}{}{VidÃ­Å¡ otroka.}
+{101}{}{VidÃ­Å¡ zdravÄ› vypadajÃ­cÃ­ho otroka.}
+{320}{}{Ty zlÃ½!}
 {321}{}{My nemluvit s ty.}
-{322}{}{My utéct.}
-{323}{}{Ty nezastavit nás.}
-{324}{}{Ty otrokáø!}
-{325}{}{Proè to vy otrokáøi dìláte?}
-{326}{}{Jak mùete dìlat pro takové lidi?}
-{327}{}{Nejsme primitivové!}
-{328}{}{Nemáte ádné svìdomí?}
-{329}{}{Co s námi bude?}
-{330}{}{Co jsme udìlali špatnì?}
-{331}{}{Nech nás o samotì, otrokáøi!}
-{332}{}{Neubliuj mi!}
-{333}{}{Jdìte ode mì!}
+{322}{}{My utÃ©ct.}
+{323}{}{Ty nezastavit nÃ¡s.}
+{324}{}{Ty otrokÃ¡Å™!}
+{325}{}{ProÄ to vy otrokÃ¡Å™i dÄ›lÃ¡te?}
+{326}{}{Jak mÅ¯Å¾ete dÄ›lat pro takovÃ© lidi?}
+{327}{}{Nejsme primitivovÃ©!}
+{328}{}{NemÃ¡te Å¾Ã¡dnÃ© svÄ›domÃ­?}
+{329}{}{Co s nÃ¡mi bude?}
+{330}{}{Co jsme udÄ›lali Å¡patnÄ›?}
+{331}{}{Nech nÃ¡s o samotÄ›, otrokÃ¡Å™i!}
+{332}{}{NeubliÅ¾uj mi!}
+{333}{}{JdÄ›te ode mÄ›!}
 {350}{}{Kdo ty?}
-{351}{}{Ty ne otrokáø.}
-{352}{}{Ty neublíit?}
-{353}{}{Pøítel?}
-{354}{}{Ty pomáhat?}
-{355}{}{Co s námi bude?}
-{356}{}{Taky tì chytli?}
-{357}{}{Nejsme primitivové!}
-{358}{}{Co si o sobì ti lidi myslí?}
-{359}{}{Pomoz nám prosím!}
-{360}{}{Dostaòte mì odsud.}
-{400}{}{Proè já!}
-{401}{}{*kašle*}
-{402}{}{*škrábe se*}
+{351}{}{Ty ne otrokÃ¡Å™.}
+{352}{}{Ty neublÃ­Å¾it?}
+{353}{}{PÅ™Ã­tel?}
+{354}{}{Ty pomÃ¡hat?}
+{355}{}{Co s nÃ¡mi bude?}
+{356}{}{Taky tÄ› chytli?}
+{357}{}{Nejsme primitivovÃ©!}
+{358}{}{Co si o sobÄ› ti lidi myslÃ­?}
+{359}{}{Pomoz nÃ¡m prosÃ­m!}
+{360}{}{DostaÅˆte mÄ› odsud.}
+{400}{}{ProÄ jÃ¡!}
+{401}{}{*kaÅ¡le*}
+{402}{}{*Å¡krÃ¡be se*}

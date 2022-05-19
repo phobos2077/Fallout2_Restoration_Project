@@ -1,7 +1,7 @@
-{100}{}{Vidíš starou konzoli.}
-{101}{}{Vypadá to jako stará konzole navádìcího systému torpéd. Vìtšina monitorù je znièena nebo chybí, ale jeden se zdá bıt jak tak provozuschopnı. Na blikající obrazovce se èas od èasu objeví náhodná data.}
-{200}{}{Operaèní systém se zdá bıt poškozen, jeliko nereaguje na tvoje pøíkazy tak, jak by mìl. S vìdeètìjším pøístupem by se toho urèitì dalo zjistit víc.}
-{210}{}{Staèilo nìkolik pokroèilejších pøíkazù a systém u pracuje správnì. Provedeš nìkolik dalších pøíkazù, èím vypneš navádìcí systémy torpéd a nastavíš je tak, aby explodovali jen nìkolik vteøin po opuštìní torpédometù. To je vìda!}
-{211}{}{Chvíli si se systémem hraješ, ale je to na tebe pøíliš sloité. Vypadá to, e budeš muset najít jinı zpùsob, jak torpéda vyøadit.}
-{212}{}{*píp*}
-{213}{}{*tùùùt*}
+{100}{}{VidÃ­Å¡ starou konzoli.}
+{101}{}{VypadÃ¡ to jako starÃ¡ konzole navÃ¡dÄ›cÃ­ho systÃ©mu torpÃ©d. VÄ›tÅ¡ina monitorÅ¯ je zniÄena nebo chybÃ­, ale jeden se zdÃ¡ bÃ½t jakÅ¾ takÅ¾ provozuschopnÃ½. Na blikajÃ­cÃ­ obrazovce se Äas od Äasu objevÃ­ nÃ¡hodnÃ¡ data.}
+{200}{}{OperaÄnÃ­ systÃ©m se zdÃ¡ bÃ½t poÅ¡kozen, jelikoÅ¾ nereaguje na tvoje pÅ™Ã­kazy tak, jak by mÄ›l. S vÄ›deÄtÄ›jÅ¡Ã­m pÅ™Ã­stupem by se toho urÄitÄ› dalo zjistit vÃ­c.}
+{210}{}{StaÄilo nÄ›kolik pokroÄilejÅ¡Ã­ch pÅ™Ã­kazÅ¯ a systÃ©m uÅ¾ pracuje sprÃ¡vnÄ›. ProvedeÅ¡ nÄ›kolik dalÅ¡Ã­ch pÅ™Ã­kazÅ¯, ÄÃ­mÅ¾ vypneÅ¡ navÃ¡dÄ›cÃ­ systÃ©my torpÃ©d a nastavÃ­Å¡ je tak, aby explodovali jen nÄ›kolik vteÅ™in po opuÅ¡tÄ›nÃ­ torpÃ©dometÅ¯. To je vÄ›da!}
+{211}{}{ChvÃ­li si se systÃ©mem hrajeÅ¡, ale je to na tebe pÅ™Ã­liÅ¡ sloÅ¾itÃ©. VypadÃ¡ to, Å¾e budeÅ¡ muset najÃ­t jinÃ½ zpÅ¯sob, jak torpÃ©da vyÅ™adit.}
+{212}{}{*pÃ­p*}
+{213}{}{*tÅ¯Å¯Å¯t*}

@@ -1,64 +1,64 @@
-{100}{}{Vidíš Obèana ve svìtlemodrém obleèení. Vypadá to jako kombinéza Zakladatele, ale na zádech nemá ádné èíslo.}
-{101}{}{Vidíš Obèana Vault City.}
-{102}{}{Vidíš Obèana ve svìtlemodrém obleèení. Vypadá to jako kombinéza Zakladatele, ale na zádech nemá ádné èíslo.}
+{100}{}{VidÃ­Å¡ ObÄana ve svÄ›tlemodrÃ©m obleÄenÃ­. VypadÃ¡ to jako kombinÃ©za Zakladatele, ale na zÃ¡dech nemÃ¡ Å¾Ã¡dnÃ© ÄÃ­slo.}
+{101}{}{VidÃ­Å¡ ObÄana Vault City.}
+{102}{}{VidÃ­Å¡ ObÄana ve svÄ›tlemodrÃ©m obleÄenÃ­. VypadÃ¡ to jako kombinÃ©za Zakladatele, ale na zÃ¡dech nemÃ¡ Å¾Ã¡dnÃ© ÄÃ­slo.}
 {103}{}{::tlesk::}
-{104}{}{To je ten hrdina! Podívejte!}
-{105}{}{Na mou duši! To je ten hrdina, pøímo tady ve Vault City!}
-{106}{}{Dobrı den, Kapitáne.}
-{107}{}{Vault City vdy zvítìzí, Kapitáne.}
-{108}{}{Zdravíèko, Obèane.}
-{109}{}{Vault City vdy zvítìzí, Obèane.}
-{110}{}{Mutant! Stráe! Stráe!}
-{111}{}{Ghoul! Stráe! Stráe!}
-{112}{}{Jak se vám povedlo dostat dovnitø mìsta?}
-{113}{}{Mùu vidìt vaši Denní propustku?}
-{114}{}{Chmmm. Další venkovan.}
-{115}{}{Zdá se, e se èím dál víc venkovanù dokáe dostat dovnitø mìsta...}
-{116}{}{Upøímnì doufám, e máte Denní propustku.}
-{117}{}{Poslední dobou dají Denní propustky snad opravdu *kadému* venkovanovi...}
-{118}{}{Slyšel jsem o vašem hrdinském èinu. Udìlal jsi velkou slubu pro Vault City... a pro celı svìt.}
-{119}{}{Vaše bitva proti enklávì zapùsobila i na První Obèanku.}
-{120}{}{Slyšel jsem, e tvoje cesty vedly daleko. A kamsi na jih do San... Fran... Cisca. Je to pravda?}
-{121}{}{Moná by *mìlo* Vault City pøijímat venkovany.}
-{122}{}{Je to pravda? Opravdu vláda starého svìta vedla poøád válku?}
-{123}{}{Mìl bys zaznamenat své putování do poèítaèe Vault City, aby si o nìm mohli pøeèíst i ostatní.}
-{124}{}{Mùeš tu zùstat, jak dlouho chceš, hrdino.}
-{125}{}{Mìl bys sepsat seznam svıch hrdinskıch èinù proti Enklávì.}
-{126}{}{*Zív*... echhrm? Ano? Co se dìje?}
-{127}{}{Je u moc pozdì na návštìvu.}
-{128}{}{VÌTŠINA Obèanù touhle dobou spí.}
-{129}{}{Jestli spím? Ne, u ne.}
-{130}{}{Prosím... pøijïte ráno. Zítra budu celı den vytváøet seznamy.}
-{131}{}{Dobrı den, Kapitáne.}
-{132}{}{Vault City vdy zvítìzí, Kapitáne.}
-{133}{}{Mùu vám pøinést koblihu, Kapitáne?}
-{134}{}{Nìco není v poøádku, Kapitáne?}
-{135}{}{Doufám, e vám nikdo z tìch odpornıch venkovanù nedìlá problémy, Kapitáne.}
-{136}{}{Máte nìjaké historky z venkovního svìta, Kapitáne?}
-{137}{}{Zdravíèko, Obèane.}
-{138}{}{Vault City vdy zvítìzí, Obèane.}
-{139}{}{Cítím se naprosto skvìle. A vy?}
-{140}{}{Jako Obèan je mojí povinností vytváøet a spravovat seznamy.}
-{141}{}{Strávil jsem vìtšinu dne vytváøením a kontrolou seznamu pro Prokonzula. Miluju vytváøení seznamù.}
-{142}{}{Pracuju v Úøadu seznamù. Jako vìtšina z nás. My ve Vault City *milujeme* vytváøení seznamù.}
-{143}{}{Vìtšinu dnešního dne jsem strávil aktualizováním seznamu pro Úøad seznamù. Byla to kvalitní, poctivá a produktivní práce.}
-{144}{}{Prı cestujete po celém svìtì. Jak mùete pøeít mezi tìmi odpornımi venkovany?}
-{145}{}{Á! Vy jste novı Obèan. Vítejte ve Vault City.}
-{146}{}{Potøebujete nìjaké místo na pøespání?}
-{147}{}{Mìstská rada se stará o naše zájmy.}
-{148}{}{Musíme se snait udrovat naše milované mìsto èisté.}
-{149}{}{Sluebníci? Jo, pouíváme je k podøadnım pracím.}
-{150}{}{Vèerejší zasedání mìstské rady bylo velmi, velmi plodné. Vytvoøili jsme opravdu *hodnì* seznamù. My ve Vault City milujeme vytváøení seznamù.}
+{104}{}{To je ten hrdina! PodÃ­vejte!}
+{105}{}{Na mou duÅ¡i! To je ten hrdina, pÅ™Ã­mo tady ve Vault City!}
+{106}{}{DobrÃ½ den, KapitÃ¡ne.}
+{107}{}{Vault City vÅ¾dy zvÃ­tÄ›zÃ­, KapitÃ¡ne.}
+{108}{}{ZdravÃ­Äko, ObÄane.}
+{109}{}{Vault City vÅ¾dy zvÃ­tÄ›zÃ­, ObÄane.}
+{110}{}{Mutant! StrÃ¡Å¾e! StrÃ¡Å¾e!}
+{111}{}{Ghoul! StrÃ¡Å¾e! StrÃ¡Å¾e!}
+{112}{}{Jak se vÃ¡m povedlo dostat dovnitÅ™ mÄ›sta?}
+{113}{}{MÅ¯Å¾u vidÄ›t vaÅ¡i DennÃ­ propustku?}
+{114}{}{Chmmm. DalÅ¡Ã­ venkovan.}
+{115}{}{ZdÃ¡ se, Å¾e se ÄÃ­m dÃ¡l vÃ­c venkovanÅ¯ dokÃ¡Å¾e dostat dovnitÅ™ mÄ›sta...}
+{116}{}{UpÅ™Ã­mnÄ› doufÃ¡m, Å¾e mÃ¡te DennÃ­ propustku.}
+{117}{}{PoslednÃ­ dobou dajÃ­ DennÃ­ propustky snad opravdu *kaÅ¾dÃ©mu* venkovanovi...}
+{118}{}{SlyÅ¡el jsem o vaÅ¡em hrdinskÃ©m Äinu. UdÄ›lal jsi velkou sluÅ¾bu pro Vault City... a pro celÃ½ svÄ›t.}
+{119}{}{VaÅ¡e bitva proti enklÃ¡vÄ› zapÅ¯sobila i na PrvnÃ­ ObÄanku.}
+{120}{}{SlyÅ¡el jsem, Å¾e tvoje cesty vedly daleko. AÅ¾ kamsi na jih do San... Fran... Cisca. Je to pravda?}
+{121}{}{MoÅ¾nÃ¡ by *mÄ›lo* Vault City pÅ™ijÃ­mat venkovany.}
+{122}{}{Je to pravda? Opravdu vlÃ¡da starÃ©ho svÄ›ta vedla poÅ™Ã¡d vÃ¡lku?}
+{123}{}{MÄ›l bys zaznamenat svÃ© putovÃ¡nÃ­ do poÄÃ­taÄe Vault City, aby si o nÄ›m mohli pÅ™eÄÃ­st i ostatnÃ­.}
+{124}{}{MÅ¯Å¾eÅ¡ tu zÅ¯stat, jak dlouho chceÅ¡, hrdino.}
+{125}{}{MÄ›l bys sepsat seznam svÃ½ch hrdinskÃ½ch ÄinÅ¯ proti EnklÃ¡vÄ›.}
+{126}{}{*ZÃ­v*... echhrm? Ano? Co se dÄ›je?}
+{127}{}{Je uÅ¾ moc pozdÄ› na nÃ¡vÅ¡tÄ›vu.}
+{128}{}{VÄšTÅ INA ObÄanÅ¯ touhle dobou spÃ­.}
+{129}{}{Jestli spÃ­m? Ne, uÅ¾ ne.}
+{130}{}{ProsÃ­m... pÅ™ijÄte rÃ¡no. ZÃ­tra budu celÃ½ den vytvÃ¡Å™et seznamy.}
+{131}{}{DobrÃ½ den, KapitÃ¡ne.}
+{132}{}{Vault City vÅ¾dy zvÃ­tÄ›zÃ­, KapitÃ¡ne.}
+{133}{}{MÅ¯Å¾u vÃ¡m pÅ™inÃ©st koblihu, KapitÃ¡ne?}
+{134}{}{NÄ›co nenÃ­ v poÅ™Ã¡dku, KapitÃ¡ne?}
+{135}{}{DoufÃ¡m, Å¾e vÃ¡m nikdo z tÄ›ch odpornÃ½ch venkovanÅ¯ nedÄ›lÃ¡ problÃ©my, KapitÃ¡ne.}
+{136}{}{MÃ¡te nÄ›jakÃ© historky z venkovnÃ­ho svÄ›ta, KapitÃ¡ne?}
+{137}{}{ZdravÃ­Äko, ObÄane.}
+{138}{}{Vault City vÅ¾dy zvÃ­tÄ›zÃ­, ObÄane.}
+{139}{}{CÃ­tÃ­m se naprosto skvÄ›le. A vy?}
+{140}{}{Jako ObÄan je mojÃ­ povinnostÃ­ vytvÃ¡Å™et a spravovat seznamy.}
+{141}{}{StrÃ¡vil jsem vÄ›tÅ¡inu dne vytvÃ¡Å™enÃ­m a kontrolou seznamu pro Prokonzula. Miluju vytvÃ¡Å™enÃ­ seznamÅ¯.}
+{142}{}{Pracuju v ÃšÅ™adu seznamÅ¯. Jako vÄ›tÅ¡ina z nÃ¡s. My ve Vault City *milujeme* vytvÃ¡Å™enÃ­ seznamÅ¯.}
+{143}{}{VÄ›tÅ¡inu dneÅ¡nÃ­ho dne jsem strÃ¡vil aktualizovÃ¡nÃ­m seznamu pro ÃšÅ™ad seznamÅ¯. Byla to kvalitnÃ­, poctivÃ¡ a produktivnÃ­ prÃ¡ce.}
+{144}{}{PrÃ½ cestujete po celÃ©m svÄ›tÄ›. Jak mÅ¯Å¾ete pÅ™eÅ¾Ã­t mezi tÄ›mi odpornÃ½mi venkovany?}
+{145}{}{Ã! Vy jste novÃ½ ObÄan. VÃ­tejte ve Vault City.}
+{146}{}{PotÅ™ebujete nÄ›jakÃ© mÃ­sto na pÅ™espÃ¡nÃ­?}
+{147}{}{MÄ›stskÃ¡ rada se starÃ¡ o naÅ¡e zÃ¡jmy.}
+{148}{}{MusÃ­me se snaÅ¾it udrÅ¾ovat naÅ¡e milovanÃ© mÄ›sto ÄistÃ©.}
+{149}{}{SluÅ¾ebnÃ­ci? Jo, pouÅ¾Ã­vÃ¡me je k podÅ™adnÃ½m pracÃ­m.}
+{150}{}{VÄerejÅ¡Ã­ zasedÃ¡nÃ­ mÄ›stskÃ© rady bylo velmi, velmi plodnÃ©. VytvoÅ™ili jsme opravdu *hodnÄ›* seznamÅ¯. My ve Vault City milujeme vytvÃ¡Å™enÃ­ seznamÅ¯.}
 {151}{}{Ano?}
-{152}{}{Mùu vám s nìèím pomoct... venkovane?}
-{153}{}{Pardon, øíkal jste nìco?}
-{154}{}{Já? Dìlám svou práci. A vy byste mìl asi taky.}
-{155}{}{Mùu vidìt vaši Denní propustku, prosím?}
-{156}{}{Aha... promiòte. Málem jsem si vás spletl se sluebníkem.}
-{157}{}{Teï vánì nemám èas klábosit s venkovanem. Odejdìte prosím.}
-{158}{}{Mùete trochu poodstoupit, prosím?}
-{159}{}{Prosím, postavte se támhle.}
-{160}{}{Díky sluebníkùm máme víc èasu na dùleitìjší vìci. Hlavnì na vytváøení seznamù.}
-{161}{}{Sluebníci? Jo, pouíváme je k podøadnım pracím.}
-{162}{}{Jo, cítím... teda, vidím, e jste venkovan.}
-{163}{}{Vy jste venkovan? Zajímavé.}
+{152}{}{MÅ¯Å¾u vÃ¡m s nÄ›ÄÃ­m pomoct... venkovane?}
+{153}{}{Pardon, Å™Ã­kal jste nÄ›co?}
+{154}{}{JÃ¡? DÄ›lÃ¡m svou prÃ¡ci. A vy byste mÄ›l asi taky.}
+{155}{}{MÅ¯Å¾u vidÄ›t vaÅ¡i DennÃ­ propustku, prosÃ­m?}
+{156}{}{Aha... promiÅˆte. MÃ¡lem jsem si vÃ¡s spletl se sluÅ¾ebnÃ­kem.}
+{157}{}{TeÄ vÃ¡Å¾nÄ› nemÃ¡m Äas klÃ¡bosit s venkovanem. OdejdÄ›te prosÃ­m.}
+{158}{}{MÅ¯Å¾ete trochu poodstoupit, prosÃ­m?}
+{159}{}{ProsÃ­m, postavte se tÃ¡mhle.}
+{160}{}{DÃ­ky sluÅ¾ebnÃ­kÅ¯m mÃ¡me vÃ­c Äasu na dÅ¯leÅ¾itÄ›jÅ¡Ã­ vÄ›ci. HlavnÄ› na vytvÃ¡Å™enÃ­ seznamÅ¯.}
+{161}{}{SluÅ¾ebnÃ­ci? Jo, pouÅ¾Ã­vÃ¡me je k podÅ™adnÃ½m pracÃ­m.}
+{162}{}{Jo, cÃ­tÃ­m... teda, vidÃ­m, Å¾e jste venkovan.}
+{163}{}{Vy jste venkovan? ZajÃ­mavÃ©.}

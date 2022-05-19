@@ -1,44 +1,44 @@
-{100}{}{Lehké støelné zbranì}
-{101}{}{Tìké støelné zbranì}
-{102}{}{Energetické zbranì}
-{103}{}{Boj beze zbranì}
-{104}{}{Chladné zbranì}
-{105}{}{Vrhací zbranì}
+{100}{}{LehkÃ© stÅ™elnÃ© zbranÄ›}
+{101}{}{TÄ›Å¾kÃ© stÅ™elnÃ© zbranÄ›}
+{102}{}{EnergetickÃ© zbranÄ›}
+{103}{}{Boj beze zbranÄ›}
+{104}{}{ChladnÃ© zbranÄ›}
+{105}{}{VrhacÃ­ zbranÄ›}
 {106}{}{First Aid}
-{107}{}{Léèení}
-{108}{}{Plíení}
-{109}{}{Páèení zámkù}
-{110}{}{Kradení}
-{111}{}{Pasti a vıbušniny}
-{112}{}{Vìda}
-{113}{}{Opravování}
-{114}{}{Øeè}
-{115}{}{Obchodování}
-{116}{}{Hazardní hry}
-{117}{}{Pøeití v pustinì}
-{200}{}{Pouívání, údrba a obecné znalosti o lehkıch støelnıch zbraních jako jsou pistole, samopaly a pušky.}
-{201}{}{Pouívání, údrba a obecné znalosti o tìkıch støelnıch zbraních jako jsou gatlingy, kulomety, raketomety, plamenomety apod.}
-{202}{}{Pouívání, údrba a obecné znalosti o energetickıch zbraních. Technika ovládání zbraní zaloenıch na laserové nebo plazmové technologii.}
-{203}{}{Kombinace bojovıch umìní, boxu a dalších technik boje beze zbranì. Boj jen s pomocí rukou a nohou.}
-{204}{}{Pouívání chladnıch zbraní na krátkou vzdálenost jako napø. noe, kladiva, kopí, kyje apod.}
-{205}{}{Dovednost zacházení s vrhacími zbranìmi jako napø. vrhací noe, oštìpy a granáty.}
-{206}{}{Obecné léèitelské znalosti pouívané k vyléèení drobnìjších øeznıch ran, odøenin a všeobecnì lehèích zranìní. Jednoduše øeèeno, pouití první pomoci mùe za kratší èas vyléèit více hit bodù ne spánek.}
-{207}{}{Léèení vánıch zranìní a zmrzaèenıch konèetin. Bez pouití této dovednosti bude trvat mnohem déle, ne se zmrzaèené konèetiny vyléèí natolik, aby byly znovu pouitelné.}
-{208}{}{Dovednost se tiše a nepozorovanì pohybovat. Pro ostatní je mnohem tìší tì odhalit. Plíení a bìh není moné pouívat najednou.}
-{209}{}{Dovednost otevírat zámky bez klíèe. Pouití paklíèe nebo elektronického paklíèe znaènì zvyšuje tuto dovednost a tedy šanci na úspìšné otevøení zámku.}
-{210}{}{Dovednost pøivlastnit si cizí vìci. Pouívá se pro okrádání lidí nebo vylupování skøíní, stolù apod.}
-{211}{}{Dovednost nalézt a odstranit pasti. Zahrnuje rovnì zacházení s vıbušninami urèenıch k demolièním úèelùm.}
-{212}{}{Zahrnuje znalosti celé škály vyspìlıch technologií jako napø. poèítaèe, biologie, fyzika a geologie.}
-{213}{}{Praktické aplikování technickıch znalostí k opravì znièenıch zaøízení, strojù a elektroniky.}
-{214}{}{Dovednost prakticky a efektivnì komunikovat. Umìní pøesvìdèit ostatní, e tvùj názor je ten správnı. Schopnost lhát a nebıt odhalen. Nezbytná dovednost kadého politika.}
-{215}{}{Obchodování a pøíbuzné aktivity. Schopnost získat vyšší ceny za vìci, které prodáváš a niší za ty, které kupuješ.}
-{216}{}{Znalosti a praktické dovednosti tıkající se sázení a hazardních her. Zruènost v hraní karet, kostek a ostatních hrách.}
-{217}{}{Praktické znalosti pøírody a dovednost pøeití ve volné pøírodì. Znalost rostlin a zvíøat.}
+{107}{}{LÃ©ÄenÃ­}
+{108}{}{PlÃ­Å¾enÃ­}
+{109}{}{PÃ¡ÄenÃ­ zÃ¡mkÅ¯}
+{110}{}{KradenÃ­}
+{111}{}{Pasti a vÃ½buÅ¡niny}
+{112}{}{VÄ›da}
+{113}{}{OpravovÃ¡nÃ­}
+{114}{}{Å˜eÄ}
+{115}{}{ObchodovÃ¡nÃ­}
+{116}{}{HazardnÃ­ hry}
+{117}{}{PÅ™eÅ¾itÃ­ v pustinÄ›}
+{200}{}{PouÅ¾Ã­vÃ¡nÃ­, ÃºdrÅ¾ba a obecnÃ© znalosti o lehkÃ½ch stÅ™elnÃ½ch zbranÃ­ch jako jsou pistole, samopaly a puÅ¡ky.}
+{201}{}{PouÅ¾Ã­vÃ¡nÃ­, ÃºdrÅ¾ba a obecnÃ© znalosti o tÄ›Å¾kÃ½ch stÅ™elnÃ½ch zbranÃ­ch jako jsou gatlingy, kulomety, raketomety, plamenomety apod.}
+{202}{}{PouÅ¾Ã­vÃ¡nÃ­, ÃºdrÅ¾ba a obecnÃ© znalosti o energetickÃ½ch zbranÃ­ch. Technika ovlÃ¡dÃ¡nÃ­ zbranÃ­ zaloÅ¾enÃ½ch na laserovÃ© nebo plazmovÃ© technologii.}
+{203}{}{Kombinace bojovÃ½ch umÄ›nÃ­, boxu a dalÅ¡Ã­ch technik boje beze zbranÄ›. Boj jen s pomocÃ­ rukou a nohou.}
+{204}{}{PouÅ¾Ã­vÃ¡nÃ­ chladnÃ½ch zbranÃ­ na krÃ¡tkou vzdÃ¡lenost jako napÅ™. noÅ¾e, kladiva, kopÃ­, kyje apod.}
+{205}{}{Dovednost zachÃ¡zenÃ­ s vrhacÃ­mi zbranÄ›mi jako napÅ™. vrhacÃ­ noÅ¾e, oÅ¡tÄ›py a granÃ¡ty.}
+{206}{}{ObecnÃ© lÃ©ÄitelskÃ© znalosti pouÅ¾Ã­vanÃ© k vylÃ©ÄenÃ­ drobnÄ›jÅ¡Ã­ch Å™eznÃ½ch ran, odÅ™enin a vÅ¡eobecnÄ› lehÄÃ­ch zranÄ›nÃ­. JednoduÅ¡e Å™eÄeno, pouÅ¾itÃ­ prvnÃ­ pomoci mÅ¯Å¾e za kratÅ¡Ã­ Äas vylÃ©Äit vÃ­ce hit bodÅ¯ neÅ¾ spÃ¡nek.}
+{207}{}{LÃ©ÄenÃ­ vÃ¡Å¾nÃ½ch zranÄ›nÃ­ a zmrzaÄenÃ½ch konÄetin. Bez pouÅ¾itÃ­ tÃ©to dovednosti bude trvat mnohem dÃ©le, neÅ¾ se zmrzaÄenÃ© konÄetiny vylÃ©ÄÃ­ natolik, aby byly znovu pouÅ¾itelnÃ©.}
+{208}{}{Dovednost se tiÅ¡e a nepozorovanÄ› pohybovat. Pro ostatnÃ­ je mnohem tÄ›Å¾Å¡Ã­ tÄ› odhalit. PlÃ­Å¾enÃ­ a bÄ›h nenÃ­ moÅ¾nÃ© pouÅ¾Ã­vat najednou.}
+{209}{}{Dovednost otevÃ­rat zÃ¡mky bez klÃ­Äe. PouÅ¾itÃ­ paklÃ­Äe nebo elektronickÃ©ho paklÃ­Äe znaÄnÄ› zvyÅ¡uje tuto dovednost a tedy Å¡anci na ÃºspÄ›Å¡nÃ© otevÅ™enÃ­ zÃ¡mku.}
+{210}{}{Dovednost pÅ™ivlastnit si cizÃ­ vÄ›ci. PouÅ¾Ã­vÃ¡ se pro okrÃ¡dÃ¡nÃ­ lidÃ­ nebo vylupovÃ¡nÃ­ skÅ™Ã­nÃ­, stolÅ¯ apod.}
+{211}{}{Dovednost nalÃ©zt a odstranit pasti. Zahrnuje rovnÄ›Å¾ zachÃ¡zenÃ­ s vÃ½buÅ¡ninami urÄenÃ½ch k demoliÄnÃ­m ÃºÄelÅ¯m.}
+{212}{}{Zahrnuje znalosti celÃ© Å¡kÃ¡ly vyspÄ›lÃ½ch technologiÃ­ jako napÅ™. poÄÃ­taÄe, biologie, fyzika a geologie.}
+{213}{}{PraktickÃ© aplikovÃ¡nÃ­ technickÃ½ch znalostÃ­ k opravÄ› zniÄenÃ½ch zaÅ™Ã­zenÃ­, strojÅ¯ a elektroniky.}
+{214}{}{Dovednost prakticky a efektivnÄ› komunikovat. UmÄ›nÃ­ pÅ™esvÄ›dÄit ostatnÃ­, Å¾e tvÅ¯j nÃ¡zor je ten sprÃ¡vnÃ½. Schopnost lhÃ¡t a nebÃ½t odhalen. NezbytnÃ¡ dovednost kaÅ¾dÃ©ho politika.}
+{215}{}{ObchodovÃ¡nÃ­ a pÅ™Ã­buznÃ© aktivity. Schopnost zÃ­skat vyÅ¡Å¡Ã­ ceny za vÄ›ci, kterÃ© prodÃ¡vÃ¡Å¡ a niÅ¾Å¡Ã­ za ty, kterÃ© kupujeÅ¡.}
+{216}{}{Znalosti a praktickÃ© dovednosti tÃ½kajÃ­cÃ­ se sÃ¡zenÃ­ a hazardnÃ­ch her. ZruÄnost v hranÃ­ karet, kostek a ostatnÃ­ch hrÃ¡ch.}
+{217}{}{PraktickÃ© znalosti pÅ™Ã­rody a dovednost pÅ™eÅ¾itÃ­ ve volnÃ© pÅ™Ã­rodÄ›. Znalost rostlin a zvÃ­Å™at.}
 {300}{}{+ 4 x HB}
 {301}{}{+ 2 x HB}
 {302}{}{+ 2 x HB}
-{303}{}{+ 2 x (HB + SÍ)}
-{304}{}{+ 2 x (HB + SÍ)}
+{303}{}{+ 2 x (HB + SÃ)}
+{304}{}{+ 2 x (HB + SÃ)}
 {305}{}{+ 4 x HB}
 {306}{}{+ 2 x (VN + IN)}
 {307}{}{+ VN + IN}
@@ -50,47 +50,47 @@
 {313}{}{+ 3 x IN}
 {314}{}{+ 5 x CH}
 {315}{}{+ 4 x CH}
-{316}{}{+ 5 x ŠT}
+{316}{}{+ 5 x Å T}
 {317}{}{+ 2 x (OD + IN)}
-{500}{}{Vyléèeno %d hit bodù.}
-{501}{}{U vypadáš dost zdravì.}
-{502}{}{%s vypadá dostateènì zdravì.}
-{503}{}{Léèba se nezdaøila.}
-{505}{}{Získáváš %d zkušenostních bodù za procvièení dovedností.}
+{500}{}{VylÃ©Äeno %d hit bodÅ¯.}
+{501}{}{UÅ¾ vypadÃ¡Å¡ dost zdravÄ›.}
+{502}{}{%s vypadÃ¡ dostateÄnÄ› zdravÄ›.}
+{503}{}{LÃ©Äba se nezdaÅ™ila.}
+{505}{}{ZÃ­skÃ¡vÃ¡Å¡ %d zkuÅ¡enostnÃ­ch bodÅ¯ za procviÄenÃ­ dovednostÃ­.}
 {510}{}{\nskill_use: invalid skill used.}
-{512}{}{Nemùeš vyléèit mrtvé.}
-{513}{}{Nech mrtvé odpoèívat v pokoji.}
-{514}{}{Je po smrti, smiø se s tím.}
-{520}{}{Podaøilo se ti vyléèit %s.}
-{521}{}{Podaøilo se ti vyléèit %s.}
-{525}{}{Nepodaøilo se ti vyléèit %s.}
-{526}{}{Nepodaøilo se ti vyléèit %s.}
-{530}{}{zranìné oko}
-{531}{}{zmrzaèenou levou ruku}
-{532}{}{zmrzaèenou pravou ruku}
-{533}{}{zmrzaèenou pravou nohu}
-{534}{}{zmrzaèenou levou nohu}
-{550}{}{Nepodaøilo se ti otevøít zámek.}
-{551}{}{Neobjevuješ ádnou past.}
-{552}{}{Nic nového ses nenauèil.}
-{553}{}{Tohle nemùeš opravit.}
-{570}{}{Pøistihli tì pøi krádei objektu: %s.}
-{571}{}{Podaøilo se ti ukrást objekt: %s.}
-{572}{}{Pøistihli tì pøi umisování objektu: %s.}
-{573}{}{Podaøilo se ti umístit objekt: %s.}
-{590}{}{Pøemohla tì únava, proto teï tuto dovednost nemùeš pouit. Musíš chvíli poèkat.}
-{591}{}{Únava ti nedovolí dále pokraèovat v této èinnosti.}
-{592}{}{Únava je pøíliš velká. Další vypìtí by tì mohlo zabít.}
-{600}{}{Nemáš dost zkušeností pro léèbu zmrzaèení.}
-{601}{}{Robot je nenávratnì poškozen.}
-{1000}{}{Uka, pomùu ti.}
-{1001}{}{Fajn, to zvládnu.}
-{1002}{}{Radši mì k tomu pus.}
-{1003}{}{Rád pomùu.}
-{1004}{}{Dobøe.}
-{1005}{}{Zkusím to.}
-{1100}{}{Kdy budeš mít nìjaké problémy, dej mi vìdìt.}
-{1101}{}{U to máš?}
-{1102}{}{Kdy si na to troufáš...}
+{512}{}{NemÅ¯Å¾eÅ¡ vylÃ©Äit mrtvÃ©.}
+{513}{}{Nech mrtvÃ© odpoÄÃ­vat v pokoji.}
+{514}{}{Je po smrti, smiÅ™ se s tÃ­m.}
+{520}{}{PodaÅ™ilo se ti vylÃ©Äit %s.}
+{521}{}{PodaÅ™ilo se ti vylÃ©Äit %s.}
+{525}{}{NepodaÅ™ilo se ti vylÃ©Äit %s.}
+{526}{}{NepodaÅ™ilo se ti vylÃ©Äit %s.}
+{530}{}{zranÄ›nÃ© oko}
+{531}{}{zmrzaÄenou levou ruku}
+{532}{}{zmrzaÄenou pravou ruku}
+{533}{}{zmrzaÄenou pravou nohu}
+{534}{}{zmrzaÄenou levou nohu}
+{550}{}{NepodaÅ™ilo se ti otevÅ™Ã­t zÃ¡mek.}
+{551}{}{NeobjevujeÅ¡ Å¾Ã¡dnou past.}
+{552}{}{Nic novÃ©ho ses nenauÄil.}
+{553}{}{Tohle nemÅ¯Å¾eÅ¡ opravit.}
+{570}{}{PÅ™istihli tÄ› pÅ™i krÃ¡deÅ¾i objektu: %s.}
+{571}{}{PodaÅ™ilo se ti ukrÃ¡st objekt: %s.}
+{572}{}{PÅ™istihli tÄ› pÅ™i umisÅ¥ovÃ¡nÃ­ objektu: %s.}
+{573}{}{PodaÅ™ilo se ti umÃ­stit objekt: %s.}
+{590}{}{PÅ™emohla tÄ› Ãºnava, proto teÄ tuto dovednost nemÅ¯Å¾eÅ¡ pouÅ¾it. MusÃ­Å¡ chvÃ­li poÄkat.}
+{591}{}{Ãšnava ti nedovolÃ­ dÃ¡le pokraÄovat v tÃ©to Äinnosti.}
+{592}{}{Ãšnava je pÅ™Ã­liÅ¡ velkÃ¡. DalÅ¡Ã­ vypÄ›tÃ­ by tÄ› mohlo zabÃ­t.}
+{600}{}{NemÃ¡Å¡ dost zkuÅ¡enostÃ­ pro lÃ©Äbu zmrzaÄenÃ­.}
+{601}{}{Robot je nenÃ¡vratnÄ› poÅ¡kozen.}
+{1000}{}{UkaÅ¾, pomÅ¯Å¾u ti.}
+{1001}{}{Fajn, to zvlÃ¡dnu.}
+{1002}{}{RadÅ¡i mÄ› k tomu pusÅ¥.}
+{1003}{}{RÃ¡d pomÅ¯Å¾u.}
+{1004}{}{DobÅ™e.}
+{1005}{}{ZkusÃ­m to.}
+{1100}{}{KdyÅ¾ budeÅ¡ mÃ­t nÄ›jakÃ© problÃ©my, dej mi vÄ›dÄ›t.}
+{1101}{}{UÅ¾ to mÃ¡Å¡?}
+{1102}{}{KdyÅ¾ si na to troufÃ¡Å¡...}
 {1103}{}{Tak do toho.}
-{1104}{}{Poslu si.}
+{1104}{}{PosluÅ¾ si.}

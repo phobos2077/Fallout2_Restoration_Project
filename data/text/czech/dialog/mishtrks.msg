@@ -1,2 +1,2 @@
-{100}{}{Vıbuch by mìl tenhle prùchod snadno uvolnit.}
-{200}{}{Úspìšnì se ti podaøilo odstranit zával.}
+{100}{}{VÃ½buch by mÄ›l tenhle prÅ¯chod snadno uvolnit.}
+{200}{}{ÃšspÄ›Å¡nÄ› se ti podaÅ™ilo odstranit zÃ¡val.}

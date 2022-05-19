@@ -1,12 +1,12 @@
-{100}{}{Vidíš... Tandi.}
-{101}{}{Vidíš roztomilou èernovlasou holèièku s bezstarostnım vırazem. Zasnìnì hledí do dálky.}
-{102}{}{Vidíš Tandi. Hledí zamyšlenì do dálky.}
-{103}{}{Vidíš Tandi. Hledí zamyšlenì do dálky.}
-{104}{}{Ahoj! Take ty jsi potomek hrdiny z Falloutu 1. Super! Jsem Tandi. Ahoj!}
-{105}{}{Nechtìla jsem to tenkrát øíkat, ale tvùj dìda byl moc hezkej! *Povzdech*}
-{106}{}{Ian? Myslím, e je nìkde ve Falloutu 2. Moná ve Vault City?}
-{107}{}{Vlastnì jsem slyšela, e jsem nìkde ve Falloutu 2 i *já*. Ale nechci se najít... mohlo by nás to oba vydìsit.}
-{108}{}{Mrzí mì, e jsem nemìla ve Falloutu 1 lepší bojové dovednosti. Myslím, e jsem v boji nebyla moc uiteèná.}
-{109}{}{Povìz... jsi ještì v kontaktu s Tychem?}
-{110}{}{Byla tam chyba, kdy jsi mì zachránil pøed nájezdníky a odvedl mì k otci, tak se strašnì vytoèil. Páni, to bylo pìknì na prd!}
-{111}{}{Pøidala bych se k tobì, ale èekám na otce, Aradeshe, a se tu objeví. Mìl tu u dávno bıt.}
+{100}{}{VidÃ­Å¡... Tandi.}
+{101}{}{VidÃ­Å¡ roztomilou Äernovlasou holÄiÄku s bezstarostnÃ½m vÃ½razem. ZasnÄ›nÄ› hledÃ­ do dÃ¡lky.}
+{102}{}{VidÃ­Å¡ Tandi. HledÃ­ zamyÅ¡lenÄ› do dÃ¡lky.}
+{103}{}{VidÃ­Å¡ Tandi. HledÃ­ zamyÅ¡lenÄ› do dÃ¡lky.}
+{104}{}{Ahoj! TakÅ¾e ty jsi potomek hrdiny z Falloutu 1. Super! Jsem Tandi. Ahoj!}
+{105}{}{NechtÄ›la jsem to tenkrÃ¡t Å™Ã­kat, ale tvÅ¯j dÄ›da byl moc hezkej! *Povzdech*}
+{106}{}{Ian? MyslÃ­m, Å¾e je nÄ›kde ve Falloutu 2. MoÅ¾nÃ¡ ve Vault City?}
+{107}{}{VlastnÄ› jsem slyÅ¡ela, Å¾e jsem nÄ›kde ve Falloutu 2 i *jÃ¡*. Ale nechci se najÃ­t... mohlo by nÃ¡s to oba vydÄ›sit.}
+{108}{}{MrzÃ­ mÄ›, Å¾e jsem nemÄ›la ve Falloutu 1 lepÅ¡Ã­ bojovÃ© dovednosti. MyslÃ­m, Å¾e jsem v boji nebyla moc uÅ¾iteÄnÃ¡.}
+{109}{}{PovÄ›z... jsi jeÅ¡tÄ› v kontaktu s Tychem?}
+{110}{}{Byla tam chyba, kdyÅ¾ jsi mÄ› zachrÃ¡nil pÅ™ed nÃ¡jezdnÃ­ky a odvedl mÄ› k otci, tak se straÅ¡nÄ› vytoÄil. PÃ¡ni, to bylo pÄ›knÄ› na prd!}
+{111}{}{PÅ™idala bych se k tobÄ›, ale ÄekÃ¡m na otce, Aradeshe, aÅ¾ se tu objevÃ­. MÄ›l tu uÅ¾ dÃ¡vno bÃ½t.}

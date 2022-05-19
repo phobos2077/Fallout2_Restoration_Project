@@ -1,47 +1,47 @@
-{100}{}{Vidíš ozáøeného ghoula s ustaranım vırazem ve tváøi.}
-{101}{}{Vidíš ozáøeného ghoula Hanka, kterı pracuje v elektrárnì jako dìlník.}
-{102}{}{Vidíš ozáøeného ghoula jak kontroluje nìjaké pøístroje.}
-{110}{}{Ahoj, já jsem Hank. Starám se o vnitøek jádra reaktoru. I kdy tu vìtšinou není moc práce.}
-{111}{}{Ahoj, rád tì zase vidím. Tak blízko jádra je pøíjemnì teplouèko, e jo? Vìtšinu hezounù to ale nezajímá.}
-{112}{}{Ahoj Hanku. Potøebuju se dostat dovnitø do reaktoru.}
-{113}{}{Hanku, mám od Harolda zprávu o chlazení. Mìl by ses na ni podívat. Tady je.}
-{114}{}{Nazdar Hanku. Jenom procházím. Sbohem.}
-{120}{}{Hehe. Tak to bych ti neradil, hezoune. Usmaíš se na škvarek. Já mám teplo rád, ale tobì to fakt nedoporuèuju. Je tam fakt dost hic a taky radiace. Kvùli tomu hezouni, co postavili tohle místeèko, pouívali na údrbu robota.}
+{100}{}{VidÃ­Å¡ ozÃ¡Å™enÃ©ho ghoula s ustaranÃ½m vÃ½razem ve tvÃ¡Å™i.}
+{101}{}{VidÃ­Å¡ ozÃ¡Å™enÃ©ho ghoula Hanka, kterÃ½ pracuje v elektrÃ¡rnÄ› jako dÄ›lnÃ­k.}
+{102}{}{VidÃ­Å¡ ozÃ¡Å™enÃ©ho ghoula jak kontroluje nÄ›jakÃ© pÅ™Ã­stroje.}
+{110}{}{Ahoj, jÃ¡ jsem Hank. StarÃ¡m se o vnitÅ™ek jÃ¡dra reaktoru. I kdyÅ¾ tu vÄ›tÅ¡inou nenÃ­ moc prÃ¡ce.}
+{111}{}{Ahoj, rÃ¡d tÄ› zase vidÃ­m. Tak blÃ­zko jÃ¡dra je pÅ™Ã­jemnÄ› teplouÄko, Å¾e jo? VÄ›tÅ¡inu hezounÅ¯ to ale nezajÃ­mÃ¡.}
+{112}{}{Ahoj Hanku. PotÅ™ebuju se dostat dovnitÅ™ do reaktoru.}
+{113}{}{Hanku, mÃ¡m od Harolda zprÃ¡vu o chlazenÃ­. MÄ›l by ses na ni podÃ­vat. Tady je.}
+{114}{}{Nazdar Hanku. Jenom prochÃ¡zÃ­m. Sbohem.}
+{120}{}{Hehe. Tak to bych ti neradil, hezoune. UsmaÅ¾Ã­Å¡ se na Å¡kvarek. JÃ¡ mÃ¡m teplo rÃ¡d, ale tobÄ› to fakt nedoporuÄuju. Je tam fakt dost hic a taky radiace. KvÅ¯li tomu hezouni, co postavili tohle mÃ­steÄko, pouÅ¾Ã­vali na ÃºdrÅ¾bu robota.}
 {121}{}{Robota?}
-{122}{}{Aha, díky. Sbohem.}
-{130}{}{Uka, podívám se na to. Podle téhle zprávy je to chlazení dost pøedimenzované. Myslel jsem, e kdy ho vypnu, tak se mi to okamitì roztaví pod rukama, ale vidím, e asi ne. Radši bych to mìl jít hned vypnout.}
-{131}{}{Podle té zprávy je naše chlazení zbyteènì úèinné. Radši bych ho mìl jít hned vypnout, co myslíš?}
-{132}{}{Myslím, e máš pravdu, Hanku. Já u budu muset jít. Sbohem.}
-{133}{}{Kdy o tom tak pøemıšlím, moná bys mìl chvilku poèkat. Pùjdu si ještì promluvit s Haroldem. Sbohem.}
-{140}{}{Jo, hezounci, co to tady postavili, se taky nechtìli usmait, tak sem dali robota. Je urèenı k tomu, aby provádìl bìnou údrbu. Ovládá se dálkovì z toho terminálu za mnou.}
-{141}{}{Perfektní. To by se mi mohlo hodit.}
-{142}{}{Na to se musím podívat. Sbohem.}
-{150}{}{Máš u sebe hezkou vìcièku. Pøesnì to, co potøebujeme.}
-{151}{}{To mám radost. Chceš ji nainstalovat?}
-{152}{}{Díky, taky se mi líbí. Sbohem.}
-{160}{}{Rád bych ti pomohl, ale opravdu nevím, jak nìco takového nainstalovat. Víš, já vìtšinou jenom pozoruju tyhle pøístroje. Ale zkus Festuse, je to náš génius pøes souèástky... zeptej se jeho.}
+{122}{}{Aha, dÃ­ky. Sbohem.}
+{130}{}{UkaÅ¾, podÃ­vÃ¡m se na to. Podle tÃ©hle zprÃ¡vy je to chlazenÃ­ dost pÅ™edimenzovanÃ©. Myslel jsem, Å¾e kdyÅ¾ ho vypnu, tak se mi to okamÅ¾itÄ› roztavÃ­ pod rukama, ale vidÃ­m, Å¾e asi ne. RadÅ¡i bych to mÄ›l jÃ­t hned vypnout.}
+{131}{}{Podle tÃ© zprÃ¡vy je naÅ¡e chlazenÃ­ zbyteÄnÄ› ÃºÄinnÃ©. RadÅ¡i bych ho mÄ›l jÃ­t hned vypnout, co myslÃ­Å¡?}
+{132}{}{MyslÃ­m, Å¾e mÃ¡Å¡ pravdu, Hanku. JÃ¡ uÅ¾ budu muset jÃ­t. Sbohem.}
+{133}{}{KdyÅ¾ o tom tak pÅ™emÃ½Å¡lÃ­m, moÅ¾nÃ¡ bys mÄ›l chvilku poÄkat. PÅ¯jdu si jeÅ¡tÄ› promluvit s Haroldem. Sbohem.}
+{140}{}{Jo, hezounci, co to tady postavili, se taky nechtÄ›li usmaÅ¾it, tak sem dali robota. Je urÄenÃ½ k tomu, aby provÃ¡dÄ›l bÄ›Å¾nou ÃºdrÅ¾bu. OvlÃ¡dÃ¡ se dÃ¡lkovÄ› z toho terminÃ¡lu za mnou.}
+{141}{}{PerfektnÃ­. To by se mi mohlo hodit.}
+{142}{}{Na to se musÃ­m podÃ­vat. Sbohem.}
+{150}{}{MÃ¡Å¡ u sebe hezkou vÄ›ciÄku. PÅ™esnÄ› to, co potÅ™ebujeme.}
+{151}{}{To mÃ¡m radost. ChceÅ¡ ji nainstalovat?}
+{152}{}{DÃ­ky, taky se mi lÃ­bÃ­. Sbohem.}
+{160}{}{RÃ¡d bych ti pomohl, ale opravdu nevÃ­m, jak nÄ›co takovÃ©ho nainstalovat. VÃ­Å¡, jÃ¡ vÄ›tÅ¡inou jenom pozoruju tyhle pÅ™Ã­stroje. Ale zkus Festuse, je to nÃ¡Å¡ gÃ©nius pÅ™es souÄÃ¡stky... zeptej se jeho.}
 {161}{}{Kde toho Festuse najdu?}
-{162}{}{A nešlo by to udìlat nìjak jinak?}
-{163}{}{Dobøe. Sbohem.}
-{170}{}{Tak co øíkal Festus? Nainstaluje tu souèástku?}
-{171}{}{A kde vlastnì je?}
-{172}{}{A nešlo by to udìlat nìjak jinak?}
-{173}{}{Ještì ne. Moná se do toho pustím osobnì. Sbohem.}
-{180}{}{Festus je stejnım smìrem, odkud jsi pøišel. Je v øídící místnosti. Nemùeš ho minout... je to smraïoch a ufòukanec, co sotva zvládá svoje nabubøelé ego. Ale moná ti pomùe.}
-{181}{}{Díky. Sbohem.}
-{190}{}{No, pokud zvládneš ovládat robota, mùeš to nainstalovat i bez cizí pomoci. Nebo mùeš jít prostì dovnitø a nainstalovat to osobnì.}
+{162}{}{A neÅ¡lo by to udÄ›lat nÄ›jak jinak?}
+{163}{}{DobÅ™e. Sbohem.}
+{170}{}{Tak co Å™Ã­kal Festus? Nainstaluje tu souÄÃ¡stku?}
+{171}{}{A kde vlastnÄ› je?}
+{172}{}{A neÅ¡lo by to udÄ›lat nÄ›jak jinak?}
+{173}{}{JeÅ¡tÄ› ne. MoÅ¾nÃ¡ se do toho pustÃ­m osobnÄ›. Sbohem.}
+{180}{}{Festus je stejnÃ½m smÄ›rem, odkud jsi pÅ™iÅ¡el. Je v Å™Ã­dÃ­cÃ­ mÃ­stnosti. NemÅ¯Å¾eÅ¡ ho minout... je to smraÄoch a ufÅˆukanec, co sotva zvlÃ¡dÃ¡ svoje nabubÅ™elÃ© ego. Ale moÅ¾nÃ¡ ti pomÅ¯Å¾e.}
+{181}{}{DÃ­ky. Sbohem.}
+{190}{}{No, pokud zvlÃ¡dneÅ¡ ovlÃ¡dat robota, mÅ¯Å¾eÅ¡ to nainstalovat i bez cizÃ­ pomoci. Nebo mÅ¯Å¾eÅ¡ jÃ­t prostÄ› dovnitÅ™ a nainstalovat to osobnÄ›.}
 {191}{}{Robota?}
-{192}{}{Nainstalovat to osobnì?}
-{200}{}{Víš, poslední dobou nedìlá dobrotu. Poøád se nìjak pøehøívá. Ale my ho stejnì nepouíváme, take jsme se ani neobtìovali opravit jeho tepelnej štít. Jestli ale pøijdeš na jeho ovládací kódy a nebudeš ho moc honit, moná se ti ho podaøí donutit, aby udìlal to, co potøebuješ.}
-{201}{}{Díky. Sbohem.}
-{210}{}{Díky za opravení reaktoru.}
-{211}{}{Jak to vypadá s tím chlazením?}
-{212}{}{Díky za pomoc.}
-{220}{}{Ještì jsem to nikdy neslyšel takhle vrnìt.}
-{221}{}{Pøede jako kotì.}
-{222}{}{Bìí jako za mlada.}
-{230}{}{Dr se dál a na nic nesahej.}
+{192}{}{Nainstalovat to osobnÄ›?}
+{200}{}{VÃ­Å¡, poslednÃ­ dobou nedÄ›lÃ¡ dobrotu. PoÅ™Ã¡d se nÄ›jak pÅ™ehÅ™Ã­vÃ¡. Ale my ho stejnÄ› nepouÅ¾Ã­vÃ¡me, takÅ¾e jsme se ani neobtÄ›Å¾ovali opravit jeho tepelnej Å¡tÃ­t. Jestli ale pÅ™ijdeÅ¡ na jeho ovlÃ¡dacÃ­ kÃ³dy a nebudeÅ¡ ho moc honit, moÅ¾nÃ¡ se ti ho podaÅ™Ã­ donutit, aby udÄ›lal to, co potÅ™ebujeÅ¡.}
+{201}{}{DÃ­ky. Sbohem.}
+{210}{}{DÃ­ky za opravenÃ­ reaktoru.}
+{211}{}{Jak to vypadÃ¡ s tÃ­m chlazenÃ­m?}
+{212}{}{DÃ­ky za pomoc.}
+{220}{}{JeÅ¡tÄ› jsem to nikdy neslyÅ¡el takhle vrnÄ›t.}
+{221}{}{PÅ™ede jako kotÄ›.}
+{222}{}{BÄ›Å¾Ã­ jako za mlada.}
+{230}{}{DrÅ¾ se dÃ¡l a na nic nesahej.}
 {231}{}{Jak ses sem dostal?}
-{232}{}{Vra se zpátky tìma dveøma. Záøící díra, hezká-fakt hezká. Hehehe.}
-{300}{}{Podaøilo se ti pøesvìdèit Hanka, aby spustil roztavení reaktoru.}
-{900}{}{Nevidíš, e nemám èas?}
+{232}{}{VraÅ¥ se zpÃ¡tky tÄ›ma dveÅ™ma. ZÃ¡Å™Ã­cÃ­ dÃ­ra, hezkÃ¡-fakt hezkÃ¡. Hehehe.}
+{300}{}{PodaÅ™ilo se ti pÅ™esvÄ›dÄit Hanka, aby spustil roztavenÃ­ reaktoru.}
+{900}{}{NevidÃ­Å¡, Å¾e nemÃ¡m Äas?}

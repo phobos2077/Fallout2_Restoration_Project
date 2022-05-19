@@ -1,50 +1,50 @@
-{100}{}{Vidíš svého mladšího bratrance, Nagora. Nikde tu ale nevidíš jeho psa Èmoudu.}
-{101}{}{Znáš Nagora u od jeho kojeneckıch let a vdycky, kdy to jde, tak mu pomùeš.}
-{102}{}{Sestøenko, to jsem rád, e tì vidím! Potøebuju tvoji pomoc.}
-{103}{}{Promiò, ale teï nemám èas.}
-{104}{}{S èím potøebuješ pomoct?}
-{105}{}{Tak se do loveckého území vydám sám!}
-{106}{}{Poèkej...s èím jsi to chtìl pomoct?}
-{107}{}{Jak chceš.}
-{108}{}{Èmouda mi utekl do loveckého území. Ještì se nevrátil a teta Morlis mi ho nechce jít dovolit hledat. Øíká, e je to moc nebezpeèné a e je to jenom pes, ale já pøesto chtìl jít. Ale teï jsi tu ty a mùeš mi pomoct. A já nebudu mít zbyteènı malér.}
-{109}{}{Jistì. Ale kde je to lovecké území?}
-{110}{}{Jasnì. Pùjdu ho hned hledat.}
-{111}{}{Zapomeò na to. Na tohle teï nemám èas.}
-{112}{}{Co je s tebou, praštil tì do hlavy kámen? Lovecké území zaèíná za Hakuninovım stanem, severnì od vesnice.}
-{113}{}{Neboj. Brzy ti ho vrátím.}
-{114}{}{U jsi našla Èmoudu?}
-{115}{}{Ne, ještì ne. Kde jsi øíkal, e je to lovecké území?}
-{116}{}{Ne, ještì ne.}
-{117}{}{U jsi našla Èmoudu?}
-{118}{}{Ne, ještì ne. Brzy se vrátím.}
-{119}{}{Je mi líto, ale je mrtvı.}
-{120}{}{To øíkáš jenom proto, e se nechceš podívat! Je mi jedno, co øíká Morlis, jdu ho hledat.}
-{121}{}{Nagore, co kdy se ti nìco stane? Morlis zùstane sama a bude moc smutná. Nechceš pøece, aby byla smutná, e ne?}
-{122}{}{Jak chceš.}
-{123}{}{No... nechci. Dobrá, nepùjdu, ale není to fér!}
-{124}{}{Èmouda bude v poøádku. Sbohem.}
-{125}{}{To je Èmouda! Dìkuju ti. Èmoudo, ty jsi ale zlobivı pes!}
-{126}{}{Nemáš zaè. Sbohem.}
-{127}{}{Ještì jednou díky. Doufám, e se ti bude daøit!}
-{128}{}{Chybí mi Èmouda. Proè jsi ho nezachránil, jsi pøece Vyvolenı!}
-{129}{}{Mám práci, hlupáku. Jdi si hrát nìkam jinam.}
-{130}{}{Já jít.}
-{131}{}{Jdu hledat Èmoudu.}
-{200}{}{Ahoj, sestøenko...ehm, vlastnì Vyvolená. Doufám, e u jsi našla GECK. Hodnì se mluví o zlıch èasech, které nás èekají.}
-{201}{}{Ahoj, sestøenko...ehm, vlastnì Vyvolená. Doufám, e u jsi našla GECK. Hodnì se mluví o zlıch èasech, které nás èekají.}
-{202}{}{Já stále hledat, Nagor.}
+{100}{}{VidÃ­Å¡ svÃ©ho mladÅ¡Ã­ho bratrance, Nagora. Nikde tu ale nevidÃ­Å¡ jeho psa ÄŒmoudu.}
+{101}{}{ZnÃ¡Å¡ Nagora uÅ¾ od jeho kojeneckÃ½ch let a vÅ¾dycky, kdyÅ¾ to jde, tak mu pomÅ¯Å¾eÅ¡.}
+{102}{}{SestÅ™enko, to jsem rÃ¡d, Å¾e tÄ› vidÃ­m! PotÅ™ebuju tvoji pomoc.}
+{103}{}{PromiÅˆ, ale teÄ nemÃ¡m Äas.}
+{104}{}{S ÄÃ­m potÅ™ebujeÅ¡ pomoct?}
+{105}{}{Tak se do loveckÃ©ho ÃºzemÃ­ vydÃ¡m sÃ¡m!}
+{106}{}{PoÄkej...s ÄÃ­m jsi to chtÄ›l pomoct?}
+{107}{}{Jak chceÅ¡.}
+{108}{}{ÄŒmouda mi utekl do loveckÃ©ho ÃºzemÃ­. JeÅ¡tÄ› se nevrÃ¡til a teta Morlis mi ho nechce jÃ­t dovolit hledat. Å˜Ã­kÃ¡, Å¾e je to moc nebezpeÄnÃ© a Å¾e je to jenom pes, ale jÃ¡ pÅ™esto chtÄ›l jÃ­t. Ale teÄ jsi tu ty a mÅ¯Å¾eÅ¡ mi pomoct. A jÃ¡ nebudu mÃ­t zbyteÄnÃ½ malÃ©r.}
+{109}{}{JistÄ›. Ale kde je to loveckÃ© ÃºzemÃ­?}
+{110}{}{JasnÄ›. PÅ¯jdu ho hned hledat.}
+{111}{}{ZapomeÅˆ na to. Na tohle teÄ nemÃ¡m Äas.}
+{112}{}{Co je s tebou, praÅ¡til tÄ› do hlavy kÃ¡men? LoveckÃ© ÃºzemÃ­ zaÄÃ­nÃ¡ za HakuninovÃ½m stanem, severnÄ› od vesnice.}
+{113}{}{Neboj. Brzy ti ho vrÃ¡tÃ­m.}
+{114}{}{UÅ¾ jsi naÅ¡la ÄŒmoudu?}
+{115}{}{Ne, jeÅ¡tÄ› ne. Kde jsi Å™Ã­kal, Å¾e je to loveckÃ© ÃºzemÃ­?}
+{116}{}{Ne, jeÅ¡tÄ› ne.}
+{117}{}{UÅ¾ jsi naÅ¡la ÄŒmoudu?}
+{118}{}{Ne, jeÅ¡tÄ› ne. Brzy se vrÃ¡tÃ­m.}
+{119}{}{Je mi lÃ­to, ale je mrtvÃ½.}
+{120}{}{To Å™Ã­kÃ¡Å¡ jenom proto, Å¾e se nechceÅ¡ podÃ­vat! Je mi jedno, co Å™Ã­kÃ¡ Morlis, jdu ho hledat.}
+{121}{}{Nagore, co kdyÅ¾ se ti nÄ›co stane? Morlis zÅ¯stane sama a bude moc smutnÃ¡. NechceÅ¡ pÅ™ece, aby byla smutnÃ¡, Å¾e ne?}
+{122}{}{Jak chceÅ¡.}
+{123}{}{No... nechci. DobrÃ¡, nepÅ¯jdu, ale nenÃ­ to fÃ©r!}
+{124}{}{ÄŒmouda bude v poÅ™Ã¡dku. Sbohem.}
+{125}{}{To je ÄŒmouda! DÄ›kuju ti. ÄŒmoudo, ty jsi ale zlobivÃ½ pes!}
+{126}{}{NemÃ¡Å¡ zaÄ. Sbohem.}
+{127}{}{JeÅ¡tÄ› jednou dÃ­ky. DoufÃ¡m, Å¾e se ti bude daÅ™it!}
+{128}{}{ChybÃ­ mi ÄŒmouda. ProÄ jsi ho nezachrÃ¡nil, jsi pÅ™ece VyvolenÃ½!}
+{129}{}{MÃ¡m prÃ¡ci, hlupÃ¡ku. Jdi si hrÃ¡t nÄ›kam jinam.}
+{130}{}{JÃ¡ jÃ­t.}
+{131}{}{Jdu hledat ÄŒmoudu.}
+{200}{}{Ahoj, sestÅ™enko...ehm, vlastnÄ› VyvolenÃ¡. DoufÃ¡m, Å¾e uÅ¾ jsi naÅ¡la GECK. HodnÄ› se mluvÃ­ o zlÃ½ch Äasech, kterÃ© nÃ¡s ÄekajÃ­.}
+{201}{}{Ahoj, sestÅ™enko...ehm, vlastnÄ› VyvolenÃ¡. DoufÃ¡m, Å¾e uÅ¾ jsi naÅ¡la GECK. HodnÄ› se mluvÃ­ o zlÃ½ch Äasech, kterÃ© nÃ¡s ÄekajÃ­.}
+{202}{}{JÃ¡ stÃ¡le hledat, Nagor.}
 {203}{}{I'm still looking, cousin.}
-{204}{}{Vítej domù, sestøenko. Poslední dobou to tu jde od deseti k pìti. U jsi našla svatı Vault 13 a GECK?}
-{205}{}{Vítej domù, sestøenko. Poslední dobou to tu jde od deseti k pìti. U jsi našla svatı Vault 13 a GECK?}
-{206}{}{Já ho ještì nenajít. Velká lítost.}
-{207}{}{Lituju Nagore, ještì ne. Ale nepøestávám ho hledat.}
-{208}{}{Buï zdráva, sestøenko. Myslím, e sis všimla, jak se vìci zhoršily. Prosím, najdi GECK rychle. Máme zoufalı nedostatek jídla!}
-{209}{}{Buï zdráva, sestøenko. Myslím, e sis všimla, jak se vìci zhoršily. Prosím, najdi GECK rychle. Máme zoufalı nedostatek jídla!}
-{210}{}{Ahoj, sestøenko.}
-{211}{}{Ahoj, sestøenko.}
-{212}{}{Ty neznít jako jindy.}
-{213}{}{Co je s tebou? Mluvíš jinak ne obvykle.}
-{214}{}{Promiò, bratránku. Od té doby, co jsi odešel, je nám všem èím dál tím hùø. Lidé jsou nemocní, brahmíny umírají a... já... mùj pes Èmouda u není. Teta Morlis ho upekla. Tolik se mi po nìm stıská. Promiò, ale u nemùu dál mluvit...}
-{215}{}{Promiò, sestøenko. Od té doby, co jsi odešla, je nám všem èím dál tím hùø. Lidé jsou nemocní, brahmíny umírají a... já... mùj pes Èmouda u není. Teta Morlis ho upekla. Tolik se mi po nìm stıská. Promiò, ale u nemùu dál mluvit...}
-{300}{}{Vidíš Nagora.}
-{302}{}{Sestøenko, to jsem rád, e tì vidím! Potøebuju tvoji pomoc.}
+{204}{}{VÃ­tej domÅ¯, sestÅ™enko. PoslednÃ­ dobou to tu jde od deseti k pÄ›ti. UÅ¾ jsi naÅ¡la svatÃ½ Vault 13 a GECK?}
+{205}{}{VÃ­tej domÅ¯, sestÅ™enko. PoslednÃ­ dobou to tu jde od deseti k pÄ›ti. UÅ¾ jsi naÅ¡la svatÃ½ Vault 13 a GECK?}
+{206}{}{JÃ¡ ho jeÅ¡tÄ› nenajÃ­t. VelkÃ¡ lÃ­tost.}
+{207}{}{Lituju Nagore, jeÅ¡tÄ› ne. Ale nepÅ™estÃ¡vÃ¡m ho hledat.}
+{208}{}{BuÄ zdrÃ¡va, sestÅ™enko. MyslÃ­m, Å¾e sis vÅ¡imla, jak se vÄ›ci zhorÅ¡ily. ProsÃ­m, najdi GECK rychle. MÃ¡me zoufalÃ½ nedostatek jÃ­dla!}
+{209}{}{BuÄ zdrÃ¡va, sestÅ™enko. MyslÃ­m, Å¾e sis vÅ¡imla, jak se vÄ›ci zhorÅ¡ily. ProsÃ­m, najdi GECK rychle. MÃ¡me zoufalÃ½ nedostatek jÃ­dla!}
+{210}{}{Ahoj, sestÅ™enko.}
+{211}{}{Ahoj, sestÅ™enko.}
+{212}{}{Ty neznÃ­t jako jindy.}
+{213}{}{Co je s tebou? MluvÃ­Å¡ jinak neÅ¾ obvykle.}
+{214}{}{PromiÅˆ, bratrÃ¡nku. Od tÃ© doby, co jsi odeÅ¡el, je nÃ¡m vÅ¡em ÄÃ­m dÃ¡l tÃ­m hÅ¯Å™. LidÃ© jsou nemocnÃ­, brahmÃ­ny umÃ­rajÃ­ a... jÃ¡... mÅ¯j pes ÄŒmouda uÅ¾ nenÃ­. Teta Morlis ho upekla. Tolik se mi po nÄ›m stÃ½skÃ¡. PromiÅˆ, ale uÅ¾ nemÅ¯Å¾u dÃ¡l mluvit...}
+{215}{}{PromiÅˆ, sestÅ™enko. Od tÃ© doby, co jsi odeÅ¡la, je nÃ¡m vÅ¡em ÄÃ­m dÃ¡l tÃ­m hÅ¯Å™. LidÃ© jsou nemocnÃ­, brahmÃ­ny umÃ­rajÃ­ a... jÃ¡... mÅ¯j pes ÄŒmouda uÅ¾ nenÃ­. Teta Morlis ho upekla. Tolik se mi po nÄ›m stÃ½skÃ¡. PromiÅˆ, ale uÅ¾ nemÅ¯Å¾u dÃ¡l mluvit...}
+{300}{}{VidÃ­Å¡ Nagora.}
+{302}{}{SestÅ™enko, to jsem rÃ¡d, Å¾e tÄ› vidÃ­m! PotÅ™ebuju tvoji pomoc.}

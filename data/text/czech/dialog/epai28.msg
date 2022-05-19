@@ -1,1 +1,1 @@
-{100}{}{Tato skøíòka vyaduje kód.}
+{100}{}{Tato skÅ™Ã­Åˆka vyÅ¾aduje kÃ³d.}

@@ -1,2 +1,2 @@
-{100}{}{Pouil jsi lékaøskı pamìovı modul. Obrovská kupa lékaøskıch informací ti zaplavila mozek.}
-{200}{}{Páni. Teï je ze mì úplnej Dr. House.}
+{100}{}{PouÅ¾il jsi lÃ©kaÅ™skÃ½ pamÄ›Å¥ovÃ½ modul. ObrovskÃ¡ kupa lÃ©kaÅ™skÃ½ch informacÃ­ ti zaplavila mozek.}
+{200}{}{PÃ¡ni. TeÄ je ze mÄ› Ãºplnej Dr. House.}

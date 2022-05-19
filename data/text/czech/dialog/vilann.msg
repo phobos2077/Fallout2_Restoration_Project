@@ -1,46 +1,46 @@
-{100}{}{Vidíš mladou enu.}
-{101}{}{Vidíš Ann, Connarovu enu.}
-{102}{}{Zdá se, e má plné ruce práce s vaøením.}
-{200}{}{Zdravím, jsem Ann, Connarova manelka. Take ty jsi ten, co nám pomohl? Nedokáu ani popsat, jak moc jsme vdìèní za to, co jsi pro nás udìlal. Je tìké uvìøit, e mùeme koneènì ít v klidu a beze strachu, e nás ti hulváti z Vault City odvedou z našich domovù.}
-{201}{}{Rádo se stalo. Zdá se, e máš docela dost práce. Nepotøebuješ s nìèím pomoct?}
-{202}{}{ádnı problém. Zatím nashle.}
-{300}{}{Vlastnì *bych* potøebovala pomoct. Teï, kdy se z nás stává organizovanìjší skupina, se zaèínáme rozrùstat. Problém je v tom, e si nejsem jistá, e budeme mít dostatek jídla k pøeití. Mùj manel se pokoušel pøemluvit karavany, aby tu zastavovaly, jene podle nich jim za to nestojíme. Myslíš, e by se ti je podaøilo pøesvìdèit?}
-{301}{}{Lituju madam, ale myslím, e u jsem toho tady udìlal víc ne dost. Teï musím odejít. Nashle.}
-{302}{}{To si neumíte ty vaše zkurvenı problémy vyøešit sami? Nashle.}
-{303}{}{Jistì. Uvidím, co se dá dìlat. S kım si o tom mám promluvit?}
-{310}{}{Jeden z vùdcù karavany, pan Baron, bude brzy procházet kolem. Stezka pro karavany odsud není daleko. Budeme nesmírnì rádi, kdy tam zajdeš a setkáš se s ním.}
-{311}{}{Dobøe, zkusím to. Uka mi, kde ho najdu.}
-{312}{}{Dobøe, ale teï to nepùjde. Dám ti ještì vìdìt.}
-{313}{}{Kdy o tom tak pøemıšlím, tak se o to radìji postarej sama. Promiò.}
-{320}{}{Mùeš si u jít promluvit s tím vùdcem karavany?}
-{321}{}{Ještì ne. Nashle.}
-{322}{}{Dobøe. U mùu.}
-{330}{}{Á, to jsi ty! Díky, e jsi promluvil s panem Baronem. Pøed chvíli se tu zastavil, aby s mım manelem domluvil obchodní záleitosti. Neskuteènì jsi nám pomohl. Jsme ti navdy zavázáni!}
-{331}{}{To nestálo ani za øeè. Mìjte se.}
-{332}{}{Myslíš, e to dìlám zadarmo? Pojïme si promluvit o penìzích.}
-{340}{}{(Ann se tváøí trochu pøekvapenì.) No, ano... tak dobøe. Mám nìco stranou na horší èasy, ale myslím, e ti to mùu dát. A já myslela, e jsi dobrı èlovìk.}
-{341}{}{A si o mnì kadı myslí, co chce, madam. Hezkı den.}
-{342}{}{Promiò, ale peníze hıbou svìtem. Nashle.}
-{350}{}{Á, to jsi ty! Slyšela jsem, co se stalo panu Baronovi. Sice mi byl lhostejnı, ale zabíjet si ho nemusel. Bez obchodu bude naše komunita strádat.}
-{351}{}{Promiò, chybièka se vloudila. Nashle.}
-{352}{}{To není mùj problém. Nashle.}
-{353}{}{O ádné obchodníky se u nebudeš muset starat, protoe vás teï všechny zabiju.}
-{400}{}{Poslal tì nìkdo z Vault City?}
-{401}{}{Víš, máme právo tady ít.}
-{402}{}{Nemám ti u co øíct.}
-{403}{}{Ještì jednou díky za všechno!}
-{404}{}{Díky moc!}
-{405}{}{Koneènì jsme v bezpeèí.}
-{406}{}{Díky za všechno! A to tady rozšíøíme, tak se urèitì pøijï podívat. Koneènì budu mít funkèní kuchyò.}
-{410}{}{Zdravím.}
-{411}{}{Zdá se, e máš docela dost práce. Nepotøebuješ s nìèím pomoct?}
+{100}{}{VidÃ­Å¡ mladou Å¾enu.}
+{101}{}{VidÃ­Å¡ Ann, Connarovu Å¾enu.}
+{102}{}{ZdÃ¡ se, Å¾e mÃ¡ plnÃ© ruce prÃ¡ce s vaÅ™enÃ­m.}
+{200}{}{ZdravÃ­m, jsem Ann, Connarova manÅ¾elka. TakÅ¾e ty jsi ten, co nÃ¡m pomohl? NedokÃ¡Å¾u ani popsat, jak moc jsme vdÄ›ÄnÃ­ za to, co jsi pro nÃ¡s udÄ›lal. Je tÄ›Å¾kÃ© uvÄ›Å™it, Å¾e mÅ¯Å¾eme koneÄnÄ› Å¾Ã­t v klidu a beze strachu, Å¾e nÃ¡s ti hulvÃ¡ti z Vault City odvedou z naÅ¡ich domovÅ¯.}
+{201}{}{RÃ¡do se stalo. ZdÃ¡ se, Å¾e mÃ¡Å¡ docela dost prÃ¡ce. NepotÅ™ebujeÅ¡ s nÄ›ÄÃ­m pomoct?}
+{202}{}{Å½Ã¡dnÃ½ problÃ©m. ZatÃ­m nashle.}
+{300}{}{VlastnÄ› *bych* potÅ™ebovala pomoct. TeÄ, kdyÅ¾ se z nÃ¡s stÃ¡vÃ¡ organizovanÄ›jÅ¡Ã­ skupina, se zaÄÃ­nÃ¡me rozrÅ¯stat. ProblÃ©m je v tom, Å¾e si nejsem jistÃ¡, Å¾e budeme mÃ­t dostatek jÃ­dla k pÅ™eÅ¾itÃ­. MÅ¯j manÅ¾el se pokouÅ¡el pÅ™emluvit karavany, aby tu zastavovaly, jenÅ¾e podle nich jim za to nestojÃ­me. MyslÃ­Å¡, Å¾e by se ti je podaÅ™ilo pÅ™esvÄ›dÄit?}
+{301}{}{Lituju madam, ale myslÃ­m, Å¾e uÅ¾ jsem toho tady udÄ›lal vÃ­c neÅ¾ dost. TeÄ musÃ­m odejÃ­t. Nashle.}
+{302}{}{To si neumÃ­te ty vaÅ¡e zkurvenÃ½ problÃ©my vyÅ™eÅ¡it sami? Nashle.}
+{303}{}{JistÄ›. UvidÃ­m, co se dÃ¡ dÄ›lat. S kÃ½m si o tom mÃ¡m promluvit?}
+{310}{}{Jeden z vÅ¯dcÅ¯ karavany, pan Baron, bude brzy prochÃ¡zet kolem. Stezka pro karavany odsud nenÃ­ daleko. Budeme nesmÃ­rnÄ› rÃ¡di, kdyÅ¾ tam zajdeÅ¡ a setkÃ¡Å¡ se s nÃ­m.}
+{311}{}{DobÅ™e, zkusÃ­m to. UkaÅ¾ mi, kde ho najdu.}
+{312}{}{DobÅ™e, ale teÄ to nepÅ¯jde. DÃ¡m ti jeÅ¡tÄ› vÄ›dÄ›t.}
+{313}{}{KdyÅ¾ o tom tak pÅ™emÃ½Å¡lÃ­m, tak se o to radÄ›ji postarej sama. PromiÅˆ.}
+{320}{}{MÅ¯Å¾eÅ¡ si uÅ¾ jÃ­t promluvit s tÃ­m vÅ¯dcem karavany?}
+{321}{}{JeÅ¡tÄ› ne. Nashle.}
+{322}{}{DobÅ™e. UÅ¾ mÅ¯Å¾u.}
+{330}{}{Ã, to jsi ty! DÃ­ky, Å¾e jsi promluvil s panem Baronem. PÅ™ed chvÃ­li se tu zastavil, aby s mÃ½m manÅ¾elem domluvil obchodnÃ­ zÃ¡leÅ¾itosti. NeskuteÄnÄ› jsi nÃ¡m pomohl. Jsme ti navÅ¾dy zavÃ¡zÃ¡ni!}
+{331}{}{To nestÃ¡lo ani za Å™eÄ. MÄ›jte se.}
+{332}{}{MyslÃ­Å¡, Å¾e to dÄ›lÃ¡m zadarmo? PojÄme si promluvit o penÄ›zÃ­ch.}
+{340}{}{(Ann se tvÃ¡Å™Ã­ trochu pÅ™ekvapenÄ›.) No, ano... tak dobÅ™e. MÃ¡m nÄ›co stranou na horÅ¡Ã­ Äasy, ale myslÃ­m, Å¾e ti to mÅ¯Å¾u dÃ¡t. A jÃ¡ myslela, Å¾e jsi dobrÃ½ ÄlovÄ›k.}
+{341}{}{AÅ¥ si o mnÄ› kaÅ¾dÃ½ myslÃ­, co chce, madam. HezkÃ½ den.}
+{342}{}{PromiÅˆ, ale penÃ­ze hÃ½bou svÄ›tem. Nashle.}
+{350}{}{Ã, to jsi ty! SlyÅ¡ela jsem, co se stalo panu Baronovi. Sice mi byl lhostejnÃ½, ale zabÃ­jet si ho nemusel. Bez obchodu bude naÅ¡e komunita strÃ¡dat.}
+{351}{}{PromiÅˆ, chybiÄka se vloudila. Nashle.}
+{352}{}{To nenÃ­ mÅ¯j problÃ©m. Nashle.}
+{353}{}{O Å¾Ã¡dnÃ© obchodnÃ­ky se uÅ¾ nebudeÅ¡ muset starat, protoÅ¾e vÃ¡s teÄ vÅ¡echny zabiju.}
+{400}{}{Poslal tÄ› nÄ›kdo z Vault City?}
+{401}{}{VÃ­Å¡, mÃ¡me prÃ¡vo tady Å¾Ã­t.}
+{402}{}{NemÃ¡m ti uÅ¾ co Å™Ã­ct.}
+{403}{}{JeÅ¡tÄ› jednou dÃ­ky za vÅ¡echno!}
+{404}{}{DÃ­ky moc!}
+{405}{}{KoneÄnÄ› jsme v bezpeÄÃ­.}
+{406}{}{DÃ­ky za vÅ¡echno! AÅ¾ to tady rozÅ¡Ã­Å™Ã­me, tak se urÄitÄ› pÅ™ijÄ podÃ­vat. KoneÄnÄ› budu mÃ­t funkÄnÃ­ kuchyÅˆ.}
+{410}{}{ZdravÃ­m.}
+{411}{}{ZdÃ¡ se, Å¾e mÃ¡Å¡ docela dost prÃ¡ce. NepotÅ™ebujeÅ¡ s nÄ›ÄÃ­m pomoct?}
 {412}{}{Ale nic. Nashle.}
-{420}{}{Jak to šlo?}
-{421}{}{Co jak šlo? Jóó, to s tím obchodníkem. Vlastnì jsem se na nìj vykašlal a vypadnul odtamtud.}
-{430}{}{Coe!? Uvìdomuješ si, e to byla naše poslední šance, jak se s ním domluvit? Jsme teï za úplné hlupáky. Odsoudil jsi nás k záhubì.}
-{431}{}{Promiò, chybièka se vloudila. Nashle.}
-{432}{}{To není mùj problém. Nashle.}
-{433}{}{O ádné obchodníky se u nebudeš muset starat, protoe vás teï všechny zabiju.}
-{500}{}{Podaøilo se ti pøesvìdèit obchodníka, aby tuto vesnici pøidal ke své obchodní trase.}
-{510}{}{Zabil jsi obchodníka a tím pádem znemonil této vesnici obchodovat.}
-{511}{}{Nepodaøilo se ti pøesvìdèit obchodníka, aby tuto vesnici pøidal ke své obchodní trase.}
+{420}{}{Jak to Å¡lo?}
+{421}{}{Co jak Å¡lo? JÃ³Ã³, to s tÃ­m obchodnÃ­kem. VlastnÄ› jsem se na nÄ›j vykaÅ¡lal a vypadnul odtamtud.}
+{430}{}{CoÅ¾e!? UvÄ›domujeÅ¡ si, Å¾e to byla naÅ¡e poslednÃ­ Å¡ance, jak se s nÃ­m domluvit? Jsme teÄ za ÃºplnÃ© hlupÃ¡ky. Odsoudil jsi nÃ¡s k zÃ¡hubÄ›.}
+{431}{}{PromiÅˆ, chybiÄka se vloudila. Nashle.}
+{432}{}{To nenÃ­ mÅ¯j problÃ©m. Nashle.}
+{433}{}{O Å¾Ã¡dnÃ© obchodnÃ­ky se uÅ¾ nebudeÅ¡ muset starat, protoÅ¾e vÃ¡s teÄ vÅ¡echny zabiju.}
+{500}{}{PodaÅ™ilo se ti pÅ™esvÄ›dÄit obchodnÃ­ka, aby tuto vesnici pÅ™idal ke svÃ© obchodnÃ­ trase.}
+{510}{}{Zabil jsi obchodnÃ­ka a tÃ­m pÃ¡dem znemoÅ¾nil tÃ©to vesnici obchodovat.}
+{511}{}{NepodaÅ™ilo se ti pÅ™esvÄ›dÄit obchodnÃ­ka, aby tuto vesnici pÅ™idal ke svÃ© obchodnÃ­ trase.}

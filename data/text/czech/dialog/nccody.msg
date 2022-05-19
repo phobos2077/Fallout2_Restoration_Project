@@ -1,98 +1,98 @@
-{125}{}{Vidíš Codyho.}
-{175}{}{Vidíš zanedbaného sirotka. Na zbytcích jeho otrhaného trièka je naèmáráno "Cody."}
-{176}{}{Vidíš Codyho. Pozoruje tì mrzutım pohledem.}
-{177}{}{Vidíš Codyho. Jeho pohled by dokázal lámat kameny.}
-{178}{}{Vidíš Codyho. Jeho jméno je naèmárané na zbytcích jeho otrhaného trièka.}
-{200}{}{(Chlapec se zamraèí, jakmile se k nìmu pøiblííš. Jen stìí rozeznáš jeho oblièej pod tou vší špínou. Na zbytcích svého trièka má naèmáráno "Cody.")}
-{201}{}{(Cody se zamraèí, jakmile se k nìmu pøiblííš.)}
+{125}{}{VidÃ­Å¡ Codyho.}
+{175}{}{VidÃ­Å¡ zanedbanÃ©ho sirotka. Na zbytcÃ­ch jeho otrhanÃ©ho triÄka je naÄmÃ¡rÃ¡no "Cody."}
+{176}{}{VidÃ­Å¡ Codyho. Pozoruje tÄ› mrzutÃ½m pohledem.}
+{177}{}{VidÃ­Å¡ Codyho. Jeho pohled by dokÃ¡zal lÃ¡mat kameny.}
+{178}{}{VidÃ­Å¡ Codyho. Jeho jmÃ©no je naÄmÃ¡ranÃ© na zbytcÃ­ch jeho otrhanÃ©ho triÄka.}
+{200}{}{(Chlapec se zamraÄÃ­, jakmile se k nÄ›mu pÅ™iblÃ­Å¾Ã­Å¡. Jen stÄ›Å¾Ã­ rozeznÃ¡Å¡ jeho obliÄej pod tou vÅ¡Ã­ Å¡pÃ­nou. Na zbytcÃ­ch svÃ©ho triÄka mÃ¡ naÄmÃ¡rÃ¡no "Cody.")}
+{201}{}{(Cody se zamraÄÃ­, jakmile se k nÄ›mu pÅ™iblÃ­Å¾Ã­Å¡.)}
 {202}{}{Kuky kuk!}
-{203}{}{Upøenì se na nìj dívat.}
+{203}{}{UpÅ™enÄ› se na nÄ›j dÃ­vat.}
 {204}{}{ ztratit auto. }
-{205}{}{Cody, mùeš ty vzít }
+{205}{}{Cody, mÅ¯Å¾eÅ¡ ty vzÃ­t }
 {206}{}{Odbelhat se.}
-{207}{}{Ahoj, Cody. Jsi v poøádku? Nechceš nìco k jídlu?}
-{208}{}{Ahoj, Cody. Nemáš ízeò? Nechceš nìèeho napít?}
-{209}{}{Kde máš rodièe?}
-{210}{}{Ahoj, Cody. Nevidìl jsi moje auto?}
-{211}{}{Cody, mùeš mì teï dovést k mému autu?}
-{212}{}{Cody, mùeš mì dovést k mému autu?}
-{213}{}{Cody, mùeš mi ukázat, kde bylo moje auto?}
-{214}{}{Mùeš mi øíct, kdo ho ukradl?}
+{207}{}{Ahoj, Cody. Jsi v poÅ™Ã¡dku? NechceÅ¡ nÄ›co k jÃ­dlu?}
+{208}{}{Ahoj, Cody. NemÃ¡Å¡ Å¾Ã­zeÅˆ? NechceÅ¡ nÄ›Äeho napÃ­t?}
+{209}{}{Kde mÃ¡Å¡ rodiÄe?}
+{210}{}{Ahoj, Cody. NevidÄ›l jsi moje auto?}
+{211}{}{Cody, mÅ¯Å¾eÅ¡ mÄ› teÄ dovÃ©st k mÃ©mu autu?}
+{212}{}{Cody, mÅ¯Å¾eÅ¡ mÄ› dovÃ©st k mÃ©mu autu?}
+{213}{}{Cody, mÅ¯Å¾eÅ¡ mi ukÃ¡zat, kde bylo moje auto?}
+{214}{}{MÅ¯Å¾eÅ¡ mi Å™Ã­ct, kdo ho ukradl?}
 {215}{}{Sbohem.}
-{220}{}{(Cody ti ukáe vztyèenı prostøedník a uteèe pryè.)}
-{221}{}{(Codymu se rozšíøí zornièky strachem a uteèe pryè.)}
-{223}{}{JÁ ZABÍT TY, JÁ ZABÍT TY, JÁ ZABÍT TY...}
-{224}{}{Tak nìkdy jindy.}
-{225}{}{Sráè jeden malej...}
-{230}{}{(Cody na tebe stále zírá.)}
-{231}{}{Eh, jsi v poøádku, Cody?}
-{239}{}{No, uvidíme se pozdìji, Cody. Mìj se.}
-{251}{}{Ahoj, Cody. Nechceš trochu nuka coly?}
-{252}{}{Nedáš si trochu chlastu, chlapèe? Nikdy není moc brzo na to zaèít, øíkávala moje máma. Eh, teda kdy byla støízlivá.}
-{253}{}{Mám tady trochu Jetu, Cody. Nechceš si trochu zalítat se strejdou }
-{254}{}{Mám tady trochu Jetu, Cody. Nechceš si trochu zalítat s tetou }
-{255}{}{Ahoj, Cody... nechceš nìjaké silné metamfetaminy? Byl bys za poøádného frajera. Dokonce i mezi dìtmi.}
-{256}{}{Eh, dávej na sebe pozor, Cody.}
-{257}{}{Promiò, chlapèe, ale vypadá to, e pro tebe nic nemám.}
-{261}{}{Nechceš nìjaké ovoce, Cody?}
-{262}{}{Nechceš iguana na špejli, Cody? Mmmmmm, je moooc dobrı.}
-{263}{}{Ahoj, Cody. Nechceš pár chutn... eh, jedl... plátkù Duntonovic sušeného masa? Mmmmmm... eh... jsou vánì dobré.}
-{270}{}{(Cody popadne nabízenou dobrotu a uteèe pryè.)}
-{271}{}{::Mumláš si nìco pro sebe o dnešní mládei.::}
-{272}{}{Není zaè, chlapèe...! Nemusíš mi dìkovat...!}
-{273}{}{Ts. Prevít jeden malej.}
-{274}{}{Mìl bych toho malıho nevdìènıho parchanta prodat do otroctví... hmmmm, tak poèkat...}
-{280}{}{(Cody kıvne hlavou!)}
-{281}{}{(K tvému pøekvapeni Cody kıvne hlavou.)}
-{282}{}{Vidíš }
-{283}{}{To dobøe, e ty vìdìt, kde }
-{284}{}{Opravdu?! Mùeš mi ukázat, kde je?}
-{286}{}{No, víš, jen se tak ptám. Ještì se vrátím.}
-{290}{}{(Cody se ustrašenì podívá na Julese stojícího pøes ulici, kterı vás oba pozoruje.)}
-{291}{}{(Cody se ustrašenì podívá na èernocha stojícího pøes ulici, kterı vás oba pozoruje.)}
-{292}{}{OPRAVDU? No, tak to vypadá, e si bude muset moje pìst s Julesem brzo popovídat.}
-{293}{}{OPRAVDU? A víš, co se stane teï, Cody? Ten zlı pán, co ukradl }
-{294}{}{Opravdu? No, vyøídím si to s ním pozdìji. Mùeš mi ukázat, kde je teï to auto?}
-{300}{}{(Cody pokrèí rameny.)}
-{301}{}{Mùeš mi ukázat, kde je teï to auto?}
-{302}{}{No, víš, jen se tak ptám. Sbohem.}
-{310}{}{(Cody opìt pøikıvne a poté se nìkam rozebìhne.)}
-{311}{}{[Bìet za ním]}
-{312}{}{Jùùù, já sledovat... ó, písek! Je tak svìtlı! Eh... kam Cody jít?}
-{313}{}{Cody, zastav! Já tam teï nechci jít... musím nejdøív zaøídit pár vìcí. Za chvíli jsem zpátky.}
-{320}{}{(Chlapec se zamraèí, kdy se k nìmu pøiblííš. Je obleèenı jen do hadrù a jen stìí rozeznáš jeho oblièej pod tou vši špínou. Kdy u jsi témìø u nìj, všimne si tvého èela, rozšíøí se mu zornièky a rozebìhne se pryè.)}
-{321}{}{(Z dálky to vypadá, jako kdy je to dítì obleèené jenom do špinavıch hadrù. Jakmile se ale k nìmu pøiblííš ve své energo zbroji, rozšíøí se mu zornièky a rozebìhne se pryè.)}
-{322}{}{Pápá.}
-{324}{}{Mìl bych toho malıho parchanta prodat do otroctví... hmmmm, tak poèkat...}
-{330}{}{(Z dálky to vypadá, jako kdy je to dítì obleèené jenom do špinavıch hadrù. Jakmile se ale k nìmu pøiblííš, rozšíøí se mu zornièky a rozebìhne se pryè.)}
-{340}{}{(Z dálky to vypadá, jako kdy je to dítì obleèené jenom do špinavıch hadrù. Jakmile ale spatøí Marcuse, rozšíøí se mu zornièky a rozebìhne se pryè.)}
-{350}{}{(Z dálky to vypadá, jako kdy je to dítì obleèené jenom do špinavıch hadrù. Jakmile ale spatøí Lennyho, rozšíøí se mu zornièky a rozebìhne se pryè.)}
-{360}{}{(Cody na tebe pøestane zírat, jakmile se k nìmu pøiblííš. Mrkne na tebe a poté se lehce usmìje.)}
-{361}{}{(Chlapec se zamraèí, kdy se k nìmu pøiblííš... stìí rozeznáváš jeho oblièej pod tou vší špínou. Na zbytcích svého ošuntìlého trièka má naèmáráno "Cody". Jakmile u jsi u nìj, pøestane se mraèit a lehce se usmìje.)}
+{220}{}{(Cody ti ukÃ¡Å¾e vztyÄenÃ½ prostÅ™ednÃ­k a uteÄe pryÄ.)}
+{221}{}{(Codymu se rozÅ¡Ã­Å™Ã­ zorniÄky strachem a uteÄe pryÄ.)}
+{223}{}{JÃ ZABÃT TY, JÃ ZABÃT TY, JÃ ZABÃT TY...}
+{224}{}{Tak nÄ›kdy jindy.}
+{225}{}{SrÃ¡Ä jeden malej...}
+{230}{}{(Cody na tebe stÃ¡le zÃ­rÃ¡.)}
+{231}{}{Eh, jsi v poÅ™Ã¡dku, Cody?}
+{239}{}{No, uvidÃ­me se pozdÄ›ji, Cody. MÄ›j se.}
+{251}{}{Ahoj, Cody. NechceÅ¡ trochu nuka coly?}
+{252}{}{NedÃ¡Å¡ si trochu chlastu, chlapÄe? Nikdy nenÃ­ moc brzo na to zaÄÃ­t, Å™Ã­kÃ¡vala moje mÃ¡ma. Eh, teda kdyÅ¾ byla stÅ™Ã­zlivÃ¡.}
+{253}{}{MÃ¡m tady trochu Jetu, Cody. NechceÅ¡ si trochu zalÃ­tat se strejdou }
+{254}{}{MÃ¡m tady trochu Jetu, Cody. NechceÅ¡ si trochu zalÃ­tat s tetou }
+{255}{}{Ahoj, Cody... nechceÅ¡ nÄ›jakÃ© silnÃ© metamfetaminy? Byl bys za poÅ™Ã¡dnÃ©ho frajera. Dokonce i mezi dÄ›tmi.}
+{256}{}{Eh, dÃ¡vej na sebe pozor, Cody.}
+{257}{}{PromiÅˆ, chlapÄe, ale vypadÃ¡ to, Å¾e pro tebe nic nemÃ¡m.}
+{261}{}{NechceÅ¡ nÄ›jakÃ© ovoce, Cody?}
+{262}{}{NechceÅ¡ iguana na Å¡pejli, Cody? Mmmmmm, je moooc dobrÃ½.}
+{263}{}{Ahoj, Cody. NechceÅ¡ pÃ¡r chutn... eh, jedl... plÃ¡tkÅ¯ Duntonovic suÅ¡enÃ©ho masa? Mmmmmm... eh... jsou vÃ¡Å¾nÄ› dobrÃ©.}
+{270}{}{(Cody popadne nabÃ­zenou dobrotu a uteÄe pryÄ.)}
+{271}{}{::MumlÃ¡Å¡ si nÄ›co pro sebe o dneÅ¡nÃ­ mlÃ¡deÅ¾i.::}
+{272}{}{NenÃ­ zaÄ, chlapÄe...! NemusÃ­Å¡ mi dÄ›kovat...!}
+{273}{}{Ts. PrevÃ­t jeden malej.}
+{274}{}{MÄ›l bych toho malÃ½ho nevdÄ›ÄnÃ½ho parchanta prodat do otroctvÃ­... hmmmm, tak poÄkat...}
+{280}{}{(Cody kÃ½vne hlavou!)}
+{281}{}{(K tvÃ©mu pÅ™ekvapeni Cody kÃ½vne hlavou.)}
+{282}{}{VidÃ­Å¡ }
+{283}{}{To dobÅ™e, Å¾e ty vÄ›dÄ›t, kde }
+{284}{}{Opravdu?! MÅ¯Å¾eÅ¡ mi ukÃ¡zat, kde je?}
+{286}{}{No, vÃ­Å¡, jen se tak ptÃ¡m. JeÅ¡tÄ› se vrÃ¡tÃ­m.}
+{290}{}{(Cody se ustraÅ¡enÄ› podÃ­vÃ¡ na Julese stojÃ­cÃ­ho pÅ™es ulici, kterÃ½ vÃ¡s oba pozoruje.)}
+{291}{}{(Cody se ustraÅ¡enÄ› podÃ­vÃ¡ na Äernocha stojÃ­cÃ­ho pÅ™es ulici, kterÃ½ vÃ¡s oba pozoruje.)}
+{292}{}{OPRAVDU? No, tak to vypadÃ¡, Å¾e si bude muset moje pÄ›st s Julesem brzo popovÃ­dat.}
+{293}{}{OPRAVDU? A vÃ­Å¡, co se stane teÄ, Cody? Ten zlÃ½ pÃ¡n, co ukradl }
+{294}{}{Opravdu? No, vyÅ™Ã­dÃ­m si to s nÃ­m pozdÄ›ji. MÅ¯Å¾eÅ¡ mi ukÃ¡zat, kde je teÄ to auto?}
+{300}{}{(Cody pokrÄÃ­ rameny.)}
+{301}{}{MÅ¯Å¾eÅ¡ mi ukÃ¡zat, kde je teÄ to auto?}
+{302}{}{No, vÃ­Å¡, jen se tak ptÃ¡m. Sbohem.}
+{310}{}{(Cody opÄ›t pÅ™ikÃ½vne a potÃ© se nÄ›kam rozebÄ›hne.)}
+{311}{}{[BÄ›Å¾et za nÃ­m]}
+{312}{}{JÅ¯Å¯Å¯, jÃ¡ sledovat... Ã³, pÃ­sek! Je tak svÄ›tlÃ½! Eh... kam Cody jÃ­t?}
+{313}{}{Cody, zastav! JÃ¡ tam teÄ nechci jÃ­t... musÃ­m nejdÅ™Ã­v zaÅ™Ã­dit pÃ¡r vÄ›cÃ­. Za chvÃ­li jsem zpÃ¡tky.}
+{320}{}{(Chlapec se zamraÄÃ­, kdyÅ¾ se k nÄ›mu pÅ™iblÃ­Å¾Ã­Å¡. Je obleÄenÃ½ jen do hadrÅ¯ a jen stÄ›Å¾Ã­ rozeznÃ¡Å¡ jeho obliÄej pod tou vÅ¡i Å¡pÃ­nou. KdyÅ¾ uÅ¾ jsi tÃ©mÄ›Å™ u nÄ›j, vÅ¡imne si tvÃ©ho Äela, rozÅ¡Ã­Å™Ã­ se mu zorniÄky a rozebÄ›hne se pryÄ.)}
+{321}{}{(Z dÃ¡lky to vypadÃ¡, jako kdyÅ¾ je to dÃ­tÄ› obleÄenÃ© jenom do Å¡pinavÃ½ch hadrÅ¯. Jakmile se ale k nÄ›mu pÅ™iblÃ­Å¾Ã­Å¡ ve svÃ© energo zbroji, rozÅ¡Ã­Å™Ã­ se mu zorniÄky a rozebÄ›hne se pryÄ.)}
+{322}{}{PÃ¡pÃ¡.}
+{324}{}{MÄ›l bych toho malÃ½ho parchanta prodat do otroctvÃ­... hmmmm, tak poÄkat...}
+{330}{}{(Z dÃ¡lky to vypadÃ¡, jako kdyÅ¾ je to dÃ­tÄ› obleÄenÃ© jenom do Å¡pinavÃ½ch hadrÅ¯. Jakmile se ale k nÄ›mu pÅ™iblÃ­Å¾Ã­Å¡, rozÅ¡Ã­Å™Ã­ se mu zorniÄky a rozebÄ›hne se pryÄ.)}
+{340}{}{(Z dÃ¡lky to vypadÃ¡, jako kdyÅ¾ je to dÃ­tÄ› obleÄenÃ© jenom do Å¡pinavÃ½ch hadrÅ¯. Jakmile ale spatÅ™Ã­ Marcuse, rozÅ¡Ã­Å™Ã­ se mu zorniÄky a rozebÄ›hne se pryÄ.)}
+{350}{}{(Z dÃ¡lky to vypadÃ¡, jako kdyÅ¾ je to dÃ­tÄ› obleÄenÃ© jenom do Å¡pinavÃ½ch hadrÅ¯. Jakmile ale spatÅ™Ã­ Lennyho, rozÅ¡Ã­Å™Ã­ se mu zorniÄky a rozebÄ›hne se pryÄ.)}
+{360}{}{(Cody na tebe pÅ™estane zÃ­rat, jakmile se k nÄ›mu pÅ™iblÃ­Å¾Ã­Å¡. Mrkne na tebe a potÃ© se lehce usmÄ›je.)}
+{361}{}{(Chlapec se zamraÄÃ­, kdyÅ¾ se k nÄ›mu pÅ™iblÃ­Å¾Ã­Å¡... stÄ›Å¾Ã­ rozeznÃ¡vÃ¡Å¡ jeho obliÄej pod tou vÅ¡Ã­ Å¡pÃ­nou. Na zbytcÃ­ch svÃ©ho oÅ¡untÄ›lÃ©ho triÄka mÃ¡ naÄmÃ¡rÃ¡no "Cody". Jakmile uÅ¾ jsi u nÄ›j, pÅ™estane se mraÄit a lehce se usmÄ›je.)}
 {362}{}{Ahoj, Cody.}
-{363}{}{Pápá, Cody.}
+{363}{}{PÃ¡pÃ¡, Cody.}
 {364}{}{Jak se vede, Cody?}
-{365}{}{Ahoj, Cody. Tak jsem nakonec zachránil svìt, ale byla to fakt DØINA. Kdo by si byl pomyslel, e je prezident takovej hajzl? Fjù. No a... jak se máš ty?}
-{366}{}{Jenom mì tak napadlo, e se zastavím na kus øeèi, Cody. Staráš se teï o New Reno, e jo?}
-{370}{}{(Cody se na tebe stále usmívá.)}
-{371}{}{(Cody se nepøestává usmívat.)}
-{372}{}{(Cody se usmívá.)}
-{375}{}{Tak... jak iješ, Cody? Pohoda, ne?}
-{377}{}{Jenom mì tak napadlo, e se zastavim na kus øeèi, Cody. Staráš se teï o New Reno, e jo?}
-{380}{}{(Cody na tebe mrkne a poté cosi zamumlá.)}
-{381}{}{Co? Co ty øíkat?}
-{382}{}{Coe, Cody? Co jsi to øíkal?}
-{390}{}{(Cody na tebe mrkne a poté opìt cosi zamumlá. Bylo to stìí slyšet, ale znìlo to jako 'ti dìkuju.')}
-{391}{}{(Cody na tebe mrkne a poté opìt cosi zamumlá. Bylo to stìí slyšet, ale znìlo to jako 'jdi do prdele.')}
-{392}{}{Díky TY Cody. Bez eNPéCéèek jako ty já bıt v NUDA svìt.}
-{393}{}{JÁ ZABÍT TY, JÁ ZABÍT TY.}
-{394}{}{Hele, ádnej problém, Cody. Zachraòovat svìt u mám prostì v krvi. Dávej na sebe pozor, ano?}
-{395}{}{Ty malej sráèi! Já tì zabiju! Já tì vánì zabiju...!}
-{1204}{}{ smutnı. Vidìt ty }
-{1205}{}{ k auto? Prosííím?}
+{365}{}{Ahoj, Cody. Tak jsem nakonec zachrÃ¡nil svÄ›t, ale byla to fakt DÅ˜INA. Kdo by si byl pomyslel, Å¾e je prezident takovej hajzl? FjÅ¯. No a... jak se mÃ¡Å¡ ty?}
+{366}{}{Jenom mÄ› tak napadlo, Å¾e se zastavÃ­m na kus Å™eÄi, Cody. StarÃ¡Å¡ se teÄ o New Reno, Å¾e jo?}
+{370}{}{(Cody se na tebe stÃ¡le usmÃ­vÃ¡.)}
+{371}{}{(Cody se nepÅ™estÃ¡vÃ¡ usmÃ­vat.)}
+{372}{}{(Cody se usmÃ­vÃ¡.)}
+{375}{}{Tak... jak Å¾ijeÅ¡, Cody? Pohoda, ne?}
+{377}{}{Jenom mÄ› tak napadlo, Å¾e se zastavim na kus Å™eÄi, Cody. StarÃ¡Å¡ se teÄ o New Reno, Å¾e jo?}
+{380}{}{(Cody na tebe mrkne a potÃ© cosi zamumlÃ¡.)}
+{381}{}{Co? Co ty Å™Ã­kat?}
+{382}{}{CoÅ¾e, Cody? Co jsi to Å™Ã­kal?}
+{390}{}{(Cody na tebe mrkne a potÃ© opÄ›t cosi zamumlÃ¡. Bylo to stÄ›Å¾Ã­ slyÅ¡et, ale znÄ›lo to jako 'ti dÄ›kuju.')}
+{391}{}{(Cody na tebe mrkne a potÃ© opÄ›t cosi zamumlÃ¡. Bylo to stÄ›Å¾Ã­ slyÅ¡et, ale znÄ›lo to jako 'jdi do prdele.')}
+{392}{}{DÃ­ky TY Cody. Bez eNPÃ©CÃ©Äek jako ty jÃ¡ bÃ½t v NUDA svÄ›t.}
+{393}{}{JÃ ZABÃT TY, JÃ ZABÃT TY.}
+{394}{}{Hele, Å¾Ã¡dnej problÃ©m, Cody. ZachraÅˆovat svÄ›t uÅ¾ mÃ¡m prostÄ› v krvi. DÃ¡vej na sebe pozor, ano?}
+{395}{}{Ty malej srÃ¡Äi! JÃ¡ tÄ› zabiju! JÃ¡ tÄ› vÃ¡Å¾nÄ› zabiju...!}
+{1204}{}{ smutnÃ½. VidÄ›t ty }
+{1205}{}{ k auto? ProsÃ­Ã­Ã­m?}
 {1254}{}{?}
-{1282}{}{ auto! Kde! Kde! Ukázat! Ukázat! Prosííím? Ukázat? Jo?}
-{1283}{}{ mít auto... a hele, podívat! Blıskavá vìcièka! (Odbelhat se)}
+{1282}{}{ auto! Kde! Kde! UkÃ¡zat! UkÃ¡zat! ProsÃ­Ã­Ã­m? UkÃ¡zat? Jo?}
+{1283}{}{ mÃ­t auto... a hele, podÃ­vat! BlÃ½skavÃ¡ vÄ›ciÄka! (Odbelhat se)}
 {1293}{}{ovo auto a }
 {2204}{}{ auto?}
-{2293}{}{ova pìst si brzo popovídají.}
+{2293}{}{ova pÄ›st si brzo popovÃ­dajÃ­.}

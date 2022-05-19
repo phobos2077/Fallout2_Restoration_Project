@@ -1,161 +1,161 @@
-{100}{}{Vidíš stráce mostu.}
-{101}{}{Vidíš Mynoca, stráce mostu.}
-{150}{}{Pøed tebou stojí slavnı váleèník tvého kmene. V ruce drí kopí.}
+{100}{}{VidÃ­Å¡ strÃ¡Å¾ce mostu.}
+{101}{}{VidÃ­Å¡ Mynoca, strÃ¡Å¾ce mostu.}
+{150}{}{PÅ™ed tebou stojÃ­ slavnÃ½ vÃ¡leÄnÃ­k tvÃ©ho kmene. V ruce drÅ¾Ã­ kopÃ­.}
 {151}{}{[MLUVIT]}
-{152}{}{Ahoj, Vyvolenı. Jdeš hledat GECK?}
+{152}{}{Ahoj, VyvolenÃ½. JdeÅ¡ hledat GECK?}
 {153}{}{Ano.}
-{154}{}{Ano. A pøedtím, ne odejdu, se tì chci na nìco zeptat.}
-{155}{}{Ne, zatím ne. Musím se tu ještì trošku víc porozhlédnout.}
-{156}{}{Tak a tì bohové ochraòují.}
-{157}{}{Díky. Sbohem.}
-{158}{}{Co chceš vìdìt?}
-{159}{}{Co mi mùeš øíct o lidech, kteøí obchodují s naší vesnicí?}
-{160}{}{Co mi mùeš povìdìt o tomhle pøedmìtu, kterı prı pochází z Vaultu?}
-{161}{}{Nic, zapomeò na to.}
-{162}{}{Tak dobrá, ale neztrácej tu zbyteènì moc èasu. Bez GECKu jsme všichni ztraceni.}
-{163}{}{Já vím, nemìj strach. Všechno mám pod kontrolou.}
+{154}{}{Ano. A pÅ™edtÃ­m, neÅ¾ odejdu, se tÄ› chci na nÄ›co zeptat.}
+{155}{}{Ne, zatÃ­m ne. MusÃ­m se tu jeÅ¡tÄ› troÅ¡ku vÃ­c porozhlÃ©dnout.}
+{156}{}{Tak aÅ¥ tÄ› bohovÃ© ochraÅˆujÃ­.}
+{157}{}{DÃ­ky. Sbohem.}
+{158}{}{Co chceÅ¡ vÄ›dÄ›t?}
+{159}{}{Co mi mÅ¯Å¾eÅ¡ Å™Ã­ct o lidech, kteÅ™Ã­ obchodujÃ­ s naÅ¡Ã­ vesnicÃ­?}
+{160}{}{Co mi mÅ¯Å¾eÅ¡ povÄ›dÄ›t o tomhle pÅ™edmÄ›tu, kterÃ½ prÃ½ pochÃ¡zÃ­ z Vaultu?}
+{161}{}{Nic, zapomeÅˆ na to.}
+{162}{}{Tak dobrÃ¡, ale neztrÃ¡cej tu zbyteÄnÄ› moc Äasu. Bez GECKu jsme vÅ¡ichni ztraceni.}
+{163}{}{JÃ¡ vÃ­m, nemÄ›j strach. VÅ¡echno mÃ¡m pod kontrolou.}
 {164}{}{Jak to?}
-{165}{}{Musím jít. Sbohem.}
-{166}{}{Obchodníci? Zhruba kadé dva mìsíce sem pøicházejí z Klamathu. Další se tu teï neobjeví døív ne za mìsíc i pøesto, e Klamath není zase tak daleko. Je odsud jen pár dní cesty smìrem na vıchod.}
-{167}{}{Díky. Sbohem.}
-{168}{}{Co mi mùeš øíct o tomhle pøedmìtu, kterı údajnì pochází z posvátného Vaultu?}
-{169}{}{Vypadá to jako kovová láhev na vodu. Moná nám ji Vault posílá jako znamení.}
-{170}{}{Mùeš mi øíct, kdo ji k nám do vesnice pøinesl?}
-{171}{}{Díky, u musím jít. Sbohem.}
-{172}{}{To doufám. Sbohem.}
-{173}{}{Kvùli tvému pøebujelému sebevìdomí tu všichni trpíme! Sbohem!}
+{165}{}{MusÃ­m jÃ­t. Sbohem.}
+{166}{}{ObchodnÃ­ci? Zhruba kaÅ¾dÃ© dva mÄ›sÃ­ce sem pÅ™ichÃ¡zejÃ­ z Klamathu. DalÅ¡Ã­ se tu teÄ neobjevÃ­ dÅ™Ã­v neÅ¾ za mÄ›sÃ­c i pÅ™esto, Å¾e Klamath nenÃ­ zase tak daleko. Je odsud jen pÃ¡r dnÃ­ cesty smÄ›rem na vÃ½chod.}
+{167}{}{DÃ­ky. Sbohem.}
+{168}{}{Co mi mÅ¯Å¾eÅ¡ Å™Ã­ct o tomhle pÅ™edmÄ›tu, kterÃ½ ÃºdajnÄ› pochÃ¡zÃ­ z posvÃ¡tnÃ©ho Vaultu?}
+{169}{}{VypadÃ¡ to jako kovovÃ¡ lÃ¡hev na vodu. MoÅ¾nÃ¡ nÃ¡m ji Vault posÃ­lÃ¡ jako znamenÃ­.}
+{170}{}{MÅ¯Å¾eÅ¡ mi Å™Ã­ct, kdo ji k nÃ¡m do vesnice pÅ™inesl?}
+{171}{}{DÃ­ky, uÅ¾ musÃ­m jÃ­t. Sbohem.}
+{172}{}{To doufÃ¡m. Sbohem.}
+{173}{}{KvÅ¯li tvÃ©mu pÅ™ebujelÃ©mu sebevÄ›domÃ­ tu vÅ¡ichni trpÃ­me! Sbohem!}
 {174}{}{Sbohem.}
-{175}{}{Proè? Rozhlédni se kolem. Naše vesnice umírá, zahrady chøadnou a kadı den se zhroutí nìjaké dítì nebo nìkdo ze starších. Musíš nám pøinést Ráj, dokud je ještì èas!}
-{176}{}{Postarám se o to. Sbohem.}
-{177}{}{Já jsem Vyvolenı. "Musím" dìlat jen to, co se mi líbí. Sbohem.}
-{178}{}{Nevzpomínám si na jeho jméno. Vím jen, e byl starı a hluènı. A tak, e to nebylo slušné, ale za to vìdìl hodnì vìcí. Byl z Klamathu. To je na vıchod odsud, jak u jsem øíkal.}
-{179}{}{Díky. Sbohem.}
-{180}{}{Ty jsi poøád ještì tady? Musíš jít hledat GECK. To, e jsi poøád tady, nám moc nepomùe!}
-{181}{}{Tenhle most je to jediné, co tì má zajímat, pøíteli. Já se o sebe umím postarat.}
-{182}{}{Právì jsem na odchodu. Sbohem, pøíteli.}
-{183}{}{U s tebou nebudu mluvit, ty hnusné prase!}
-{184}{}{Chci ti ještì poloit pár otázek.}
-{185}{}{To bylo rychlé! U víš, kde leí svatı Vault 13?}
+{175}{}{ProÄ? RozhlÃ©dni se kolem. NaÅ¡e vesnice umÃ­rÃ¡, zahrady chÅ™adnou a kaÅ¾dÃ½ den se zhroutÃ­ nÄ›jakÃ© dÃ­tÄ› nebo nÄ›kdo ze starÅ¡Ã­ch. MusÃ­Å¡ nÃ¡m pÅ™inÃ©st RÃ¡j, dokud je jeÅ¡tÄ› Äas!}
+{176}{}{PostarÃ¡m se o to. Sbohem.}
+{177}{}{JÃ¡ jsem VyvolenÃ½. "MusÃ­m" dÄ›lat jen to, co se mi lÃ­bÃ­. Sbohem.}
+{178}{}{NevzpomÃ­nÃ¡m si na jeho jmÃ©no. VÃ­m jen, Å¾e byl starÃ½ a hluÄnÃ½. AÅ¾ tak, Å¾e to nebylo sluÅ¡nÃ©, ale za to vÄ›dÄ›l hodnÄ› vÄ›cÃ­. Byl z Klamathu. To je na vÃ½chod odsud, jak uÅ¾ jsem Å™Ã­kal.}
+{179}{}{DÃ­ky. Sbohem.}
+{180}{}{Ty jsi poÅ™Ã¡d jeÅ¡tÄ› tady? MusÃ­Å¡ jÃ­t hledat GECK. To, Å¾e jsi poÅ™Ã¡d tady, nÃ¡m moc nepomÅ¯Å¾e!}
+{181}{}{Tenhle most je to jedinÃ©, co tÄ› mÃ¡ zajÃ­mat, pÅ™Ã­teli. JÃ¡ se o sebe umÃ­m postarat.}
+{182}{}{PrÃ¡vÄ› jsem na odchodu. Sbohem, pÅ™Ã­teli.}
+{183}{}{UÅ¾ s tebou nebudu mluvit, ty hnusnÃ© prase!}
+{184}{}{Chci ti jeÅ¡tÄ› poloÅ¾it pÃ¡r otÃ¡zek.}
+{185}{}{To bylo rychlÃ©! UÅ¾ vÃ­Å¡, kde leÅ¾Ã­ svatÃ½ Vault 13?}
 {186}{}{Ano.}
-{187}{}{Ne, ještì ne.}
-{188}{}{Opravdu? To je skvìlé! Pøinesl jsi nám GECK?}
+{187}{}{Ne, jeÅ¡tÄ› ne.}
+{188}{}{Opravdu? To je skvÄ›lÃ©! PÅ™inesl jsi nÃ¡m GECK?}
 {189}{}{Ne.}
-{190}{}{Ne. Ještì jsem s lidmi z Vaultu nemluvil.}
-{191}{}{Myslím, e to není tvoje starost, pøíteli.}
-{192}{}{Ne? Vyvolenı, od té doby, co jsi pryè, zemøeli u tøi ze starších. Nesmíš ztrácet èas.}
-{193}{}{Najdu ho, nemìj strach.}
-{194}{}{Toho tvého neustálého sekırování u zaèínám mít plné zuby.}
-{195}{}{No, tak proè mluvíš se mnou? Promluv si s nimi a pøines nám GECK.}
-{196}{}{Neboj, všechno bude v poøádku, pøíteli.}
-{197}{}{Toho tvého neustálého sekırování u zaèínám mít plné zuby.}
-{198}{}{Nìjaké novinky ohlednì GECKu, Vyvolenı?}
-{199}{}{U vím, kde je Vault!}
-{200}{}{Nemùu Vault 13 poøád nikde najít.}
-{201}{}{No to se podívejme, Vyvolenı.}
+{190}{}{Ne. JeÅ¡tÄ› jsem s lidmi z Vaultu nemluvil.}
+{191}{}{MyslÃ­m, Å¾e to nenÃ­ tvoje starost, pÅ™Ã­teli.}
+{192}{}{Ne? VyvolenÃ½, od tÃ© doby, co jsi pryÄ, zemÅ™eli uÅ¾ tÅ™i ze starÅ¡Ã­ch. NesmÃ­Å¡ ztrÃ¡cet Äas.}
+{193}{}{Najdu ho, nemÄ›j strach.}
+{194}{}{Toho tvÃ©ho neustÃ¡lÃ©ho sekÃ½rovÃ¡nÃ­ uÅ¾ zaÄÃ­nÃ¡m mÃ­t plnÃ© zuby.}
+{195}{}{No, tak proÄ mluvÃ­Å¡ se mnou? Promluv si s nimi a pÅ™ines nÃ¡m GECK.}
+{196}{}{Neboj, vÅ¡echno bude v poÅ™Ã¡dku, pÅ™Ã­teli.}
+{197}{}{Toho tvÃ©ho neustÃ¡lÃ©ho sekÃ½rovÃ¡nÃ­ uÅ¾ zaÄÃ­nÃ¡m mÃ­t plnÃ© zuby.}
+{198}{}{NÄ›jakÃ© novinky ohlednÄ› GECKu, VyvolenÃ½?}
+{199}{}{UÅ¾ vÃ­m, kde je Vault!}
+{200}{}{NemÅ¯Å¾u Vault 13 poÅ™Ã¡d nikde najÃ­t.}
+{201}{}{No to se podÃ­vejme, VyvolenÃ½.}
 {202}{}{Ahoj.}
-{203}{}{Sklapnìte.}
-{204}{}{Mùu se tì na nìco zeptat?}
-{205}{}{Ne, nemám na tebe èas.}
-{206}{}{Jak chceš. Sbohem.}
-{207}{}{No dobøe. Ještì se uvidíme.}
-{208}{}{Chcípni!}
-{209}{}{Zdravím, trotlíku! Vidíš tenhle most? Ty pøejít. Bıt opatrnı! Most nebezpeènı. Ty nechtít spadnout. Ty rozumìt?}
-{210}{}{Hmm... bùm?}
-{211}{}{Ty svinì! Jsi zrádce naší vesnice!}
-{212}{}{Zradil jsi nás. Za to zemøeš!}
-{213}{}{Jsi zrádce svıch vlastních lidí.}
-{214}{}{Proè tohle dìláš?}
-{215}{}{Starší se zmılila. Ty jsi zlo.}
-{300}{}{Mùj otec mì nauèil vyrábìt mnohem ostøejší hroty, ne má vìtšina kopí. Dones mi kousek pazourku a já ti upravím i tvoje kopí. V pustinì se ti to bude hodit.}
-{301}{}{Kde se dá takovı pazourek sehnat?}
-{302}{}{Myslím, e tvá teta Morlis jeden kus schovávala. Je ale tak nevrlá, e si myslím, e se ji ještì nikdo neodváil na nìj zeptat. Ta èarodìjnice bude urèitì chtít nìco na oplátku.}
-{303}{}{Díky. Sbohem.}
-{304}{}{Co ten pazourek? Máš ho?}
+{203}{}{SklapnÄ›te.}
+{204}{}{MÅ¯Å¾u se tÄ› na nÄ›co zeptat?}
+{205}{}{Ne, nemÃ¡m na tebe Äas.}
+{206}{}{Jak chceÅ¡. Sbohem.}
+{207}{}{No dobÅ™e. JeÅ¡tÄ› se uvidÃ­me.}
+{208}{}{ChcÃ­pni!}
+{209}{}{ZdravÃ­m, trotlÃ­ku! VidÃ­Å¡ tenhle most? Ty pÅ™ejÃ­t. BÃ½t opatrnÃ½! Most nebezpeÄnÃ½. Ty nechtÃ­t spadnout. Ty rozumÄ›t?}
+{210}{}{Hmm... bÅ¯m?}
+{211}{}{Ty svinÄ›! Jsi zrÃ¡dce naÅ¡Ã­ vesnice!}
+{212}{}{Zradil jsi nÃ¡s. Za to zemÅ™eÅ¡!}
+{213}{}{Jsi zrÃ¡dce svÃ½ch vlastnÃ­ch lidÃ­.}
+{214}{}{ProÄ tohle dÄ›lÃ¡Å¡?}
+{215}{}{StarÅ¡Ã­ se zmÃ½lila. Ty jsi zlo.}
+{300}{}{MÅ¯j otec mÄ› nauÄil vyrÃ¡bÄ›t mnohem ostÅ™ejÅ¡Ã­ hroty, neÅ¾ mÃ¡ vÄ›tÅ¡ina kopÃ­. Dones mi kousek pazourku a jÃ¡ ti upravÃ­m i tvoje kopÃ­. V pustinÄ› se ti to bude hodit.}
+{301}{}{Kde se dÃ¡ takovÃ½ pazourek sehnat?}
+{302}{}{MyslÃ­m, Å¾e tvÃ¡ teta Morlis jeden kus schovÃ¡vala. Je ale tak nevrlÃ¡, Å¾e si myslÃ­m, Å¾e se ji jeÅ¡tÄ› nikdo neodvÃ¡Å¾il na nÄ›j zeptat. Ta ÄarodÄ›jnice bude urÄitÄ› chtÃ­t nÄ›co na oplÃ¡tku.}
+{303}{}{DÃ­ky. Sbohem.}
+{304}{}{Co ten pazourek? MÃ¡Å¡ ho?}
 {305}{}{Ano, tady je.}
-{306}{}{Ještì ne.}
-{307}{}{Ano, to je dobrı kousek. Podej mi své kopí.}
+{306}{}{JeÅ¡tÄ› ne.}
+{307}{}{Ano, to je dobrÃ½ kousek. Podej mi svÃ© kopÃ­.}
 {308}{}{Tady je.}
-{309}{}{Já... já ádné nemám.}
-{310}{}{A teï se dáme do práce...}
-{311}{}{Vyvolenı a nemá kopí? No, budu muset pouít jedno z mıch. A teï se dáme do práce...}
-{312}{}{Tady máš svoje nové kopí.}
-{313}{}{Díky, pøíteli. Hodnì mi to pomùe.}
-{314}{}{No, zaujalo mì tvoje kopí. Vypadá trochu jinak ne mají ostatní.}
-{400}{}{Vítej doma, Vyvolenı! Našel jsi svatı Vault? Máš pro nás GECK?}
-{401}{}{Já nenajít... zatím.}
-{402}{}{Ne, zatím mi štìstí nepøálo.}
-{403}{}{Nemám teï zrovna náladu na tvoje vyptávání. Sbohem.}
-{404}{}{Vìci se nevyvíjejí dobøe, Vyvolenı. Je velké sucho a naše úroda je na tom zle. Snaíme se dìlat, co je v našich silách, ale je to poøád horší a horší.}
-{405}{}{Proè ne obchod s jiná vesnice?}
-{406}{}{Já snait se moc. Já najít GECK. Já vrátit.}
-{407}{}{Proè neobchodujeme s ostatními vesnicemi? Myslím, e by nám potøebné potraviny dodaly.}
-{408}{}{Snaím se ze všech sil. A najdu GECK, vrátím se s ním.}
-{409}{}{Jsme jen obyèejní lidé a nemáme co nabídnout. Tìch nìkolik málo mìst, která jsme poádali, neprojevilo ani špetku zájmu nám pomoct.}
-{410}{}{Já chápat.}
+{309}{}{JÃ¡... jÃ¡ Å¾Ã¡dnÃ© nemÃ¡m.}
+{310}{}{A teÄ se dÃ¡me do prÃ¡ce...}
+{311}{}{VyvolenÃ½ a nemÃ¡ kopÃ­? No, budu muset pouÅ¾Ã­t jedno z mÃ½ch. A teÄ se dÃ¡me do prÃ¡ce...}
+{312}{}{Tady mÃ¡Å¡ svoje novÃ© kopÃ­.}
+{313}{}{DÃ­ky, pÅ™Ã­teli. HodnÄ› mi to pomÅ¯Å¾e.}
+{314}{}{No, zaujalo mÄ› tvoje kopÃ­. VypadÃ¡ trochu jinak neÅ¾ majÃ­ ostatnÃ­.}
+{400}{}{VÃ­tej doma, VyvolenÃ½! NaÅ¡el jsi svatÃ½ Vault? MÃ¡Å¡ pro nÃ¡s GECK?}
+{401}{}{JÃ¡ nenajÃ­t... zatÃ­m.}
+{402}{}{Ne, zatÃ­m mi Å¡tÄ›stÃ­ nepÅ™Ã¡lo.}
+{403}{}{NemÃ¡m teÄ zrovna nÃ¡ladu na tvoje vyptÃ¡vÃ¡nÃ­. Sbohem.}
+{404}{}{VÄ›ci se nevyvÃ­jejÃ­ dobÅ™e, VyvolenÃ½. Je velkÃ© sucho a naÅ¡e Ãºroda je na tom zle. SnaÅ¾Ã­me se dÄ›lat, co je v naÅ¡ich silÃ¡ch, ale je to poÅ™Ã¡d horÅ¡Ã­ a horÅ¡Ã­.}
+{405}{}{ProÄ ne obchod s jinÃ¡ vesnice?}
+{406}{}{JÃ¡ snaÅ¾it se moc. JÃ¡ najÃ­t GECK. JÃ¡ vrÃ¡tit.}
+{407}{}{ProÄ neobchodujeme s ostatnÃ­mi vesnicemi? MyslÃ­m, Å¾e by nÃ¡m potÅ™ebnÃ© potraviny dodaly.}
+{408}{}{SnaÅ¾Ã­m se ze vÅ¡ech sil. AÅ¾ najdu GECK, vrÃ¡tÃ­m se s nÃ­m.}
+{409}{}{Jsme jen obyÄejnÃ­ lidÃ© a nemÃ¡me co nabÃ­dnout. TÄ›ch nÄ›kolik mÃ¡lo mÄ›st, kterÃ¡ jsme poÅ¾Ã¡dali, neprojevilo ani Å¡petku zÃ¡jmu nÃ¡m pomoct.}
+{410}{}{JÃ¡ chÃ¡pat.}
 {411}{}{Aha.}
-{412}{}{Jsi naše jediná nadìje, Vyvolenı. Prosím, nezklam nás!}
-{413}{}{Rád tì vidím, Vyvolenı. Jak se ti daøí ve tvém poslání?}
-{414}{}{Ne, stále hledat.}
-{415}{}{Stále ho ještì hledám.}
+{412}{}{Jsi naÅ¡e jedinÃ¡ nadÄ›je, VyvolenÃ½. ProsÃ­m, nezklam nÃ¡s!}
+{413}{}{RÃ¡d tÄ› vidÃ­m, VyvolenÃ½. Jak se ti daÅ™Ã­ ve tvÃ©m poslÃ¡nÃ­?}
+{414}{}{Ne, stÃ¡le hledat.}
+{415}{}{StÃ¡le ho jeÅ¡tÄ› hledÃ¡m.}
 {416}{}{Nechci o tom mluvit.}
-{417}{}{Musíš si pospíšit. Tady doma je to èím dál horší. Brzy nebudeme mít ádné jídlo a Starší mluví o zavedení pøídìlù. Bojím se budoucnost. Bojím se o Arroyo.}
-{418}{}{Vyvolenı! Prosím øekni mi, e u jsi dokonèil své poslání. Naše vesnice umírá a lidé jsou na tom moc špatnì.}
-{419}{}{Ne, já stále hledat.}
-{420}{}{Bohuel zatím ne. Ale opravdu se snaím.}
+{417}{}{MusÃ­Å¡ si pospÃ­Å¡it. Tady doma je to ÄÃ­m dÃ¡l horÅ¡Ã­. Brzy nebudeme mÃ­t Å¾Ã¡dnÃ© jÃ­dlo a StarÅ¡Ã­ mluvÃ­ o zavedenÃ­ pÅ™Ã­dÄ›lÅ¯. BojÃ­m se budoucnost. BojÃ­m se o Arroyo.}
+{418}{}{VyvolenÃ½! ProsÃ­m Å™ekni mi, Å¾e uÅ¾ jsi dokonÄil svÃ© poslÃ¡nÃ­. NaÅ¡e vesnice umÃ­rÃ¡ a lidÃ© jsou na tom moc Å¡patnÄ›.}
+{419}{}{Ne, jÃ¡ stÃ¡le hledat.}
+{420}{}{BohuÅ¾el zatÃ­m ne. Ale opravdu se snaÅ¾Ã­m.}
 {421}{}{Jak to jde?}
-{422}{}{Je mi to líto, Vyvolenı, ale pomalu v tebe pøestávám vìøit. ivoty našich lidí jsou ve tvıch rukou. Prosím najdi svatou Tøináctku a pøines nám GECK!}
-{423}{}{Naše úroda vadne, brahmíny hynou, všichni hladoví. Náøky dìtí v noci nikoho nenechají spát. Jsme zoufalí.}
-{424}{}{Já pokraèovat hledat.}
-{425}{}{Udìlám, co je v mıch silách.}
-{426}{}{Opìt se k nám navracíš, Vyvolenı? Doufám, e ne s prázdnou.}
-{427}{}{Já líto, já ne najít GECK ještì.}
-{428}{}{Je mi líto, ale stále nemùu GECK najít.}
-{429}{}{U toho mám dost.}
-{430}{}{Lidé tady umírají, zatímco ty se touláš po okolí. Moná bys mìl zkusit hledat nìkde jinde a ne se poøád vracet sem.}
-{500}{}{U jsi mluvil se Starší?}
-{600}{}{Nìjaká poslední rada, ne vyrazím do neznáma?}
-{601}{}{Jistì. Vyvaruj se zbraní tìch, kteøí ijí tam venku. Kousnutí geckona je nièím v porovnání se silou jejich ohnivıch holí.}
-{602}{}{Dobrá. Ještì nìjaká rada?}
-{603}{}{Nedùvìøuj bezmeznì všem. Èest znamená v pustinì velmi málo. Zùstaò ve støehu a vdy pøemıšlej o motivech ostatních lidí.}
-{604}{}{Dobøe, chápu. Ještì nìco?}
-{605}{}{Nikdy nezapomeò na své koøeny. Svìt mimo naši vesnici je plnı blıskavıch vìcí a pøepychu, vedle kterıch se mùe zdát náš ivot tady v Arroyu jednoduchı a prostı. Pamatuj si však, e ivotní styl lidí tam venku vytváøí bytosti ovládané chamtivostí a mocí. Mìj se na pozoru, a nedopadneš jako Ten-jeho-jméno-nesmíme-vyslovit.}
-{606}{}{Nikdy nezapomenu na své koøeny. Díky za radu, Mynocu.}
-{607}{}{Ten-jeho-jméno-nesmíme-vyslovit? Eh... kdo?}
-{608}{}{To jsi tak opojenı slávou Vyvoleného? Copak si nevzpomínáš na... (Mynoc se rychle rozhlédne, aby se ujistil, e nikdo neposlouchá. Pak se pøiblíí a zašeptá.) ...Kagu?}
-{609}{}{Aha! Jo ten. Mùu tì ujistit, e nedopadnu jako on. Díky.}
-{610}{}{Aha, já vìdìl, e myslíš jeho. Ale, ehm, co kdybys mi ještì jednou øekl, jak to s ním bylo? Ten pøíbìh je opravdu skvìlı.}
-{611}{}{(Mynoc si pro sebe nìco zamumlá a zavrtí hlavou ještì pøed tím, ne zaène vyprávìt.) Jak asi víš, bıval nejlepším váleèníkem v naší vesnici. Vedl mnoho vıprav do pustiny a tam se také stalo, e byla jeho mysl otrávena.}
-{612}{}{Byl zaslepen ivotem tìch, kteøí ijí v pustinì, kde moc mùe komukoliv pøinést respekt a bohatství. Zaèal sám sebe vidìt jako nadøazeného nad všemi ostatními èleny kmene, kteøí byli spokojeni se svımi prostımi ivoty.}
+{422}{}{Je mi to lÃ­to, VyvolenÃ½, ale pomalu v tebe pÅ™estÃ¡vÃ¡m vÄ›Å™it. Å½ivoty naÅ¡ich lidÃ­ jsou ve tvÃ½ch rukou. ProsÃ­m najdi svatou TÅ™inÃ¡ctku a pÅ™ines nÃ¡m GECK!}
+{423}{}{NaÅ¡e Ãºroda vadne, brahmÃ­ny hynou, vÅ¡ichni hladovÃ­. NÃ¡Å™ky dÄ›tÃ­ v noci nikoho nenechajÃ­ spÃ¡t. Jsme zoufalÃ­.}
+{424}{}{JÃ¡ pokraÄovat hledat.}
+{425}{}{UdÄ›lÃ¡m, co je v mÃ½ch silÃ¡ch.}
+{426}{}{OpÄ›t se k nÃ¡m navracÃ­Å¡, VyvolenÃ½? DoufÃ¡m, Å¾e ne s prÃ¡zdnou.}
+{427}{}{JÃ¡ lÃ­to, jÃ¡ ne najÃ­t GECK jeÅ¡tÄ›.}
+{428}{}{Je mi lÃ­to, ale stÃ¡le nemÅ¯Å¾u GECK najÃ­t.}
+{429}{}{UÅ¾ toho mÃ¡m dost.}
+{430}{}{LidÃ© tady umÃ­rajÃ­, zatÃ­mco ty se toulÃ¡Å¡ po okolÃ­. MoÅ¾nÃ¡ bys mÄ›l zkusit hledat nÄ›kde jinde a ne se poÅ™Ã¡d vracet sem.}
+{500}{}{UÅ¾ jsi mluvil se StarÅ¡Ã­?}
+{600}{}{NÄ›jakÃ¡ poslednÃ­ rada, neÅ¾ vyrazÃ­m do neznÃ¡ma?}
+{601}{}{JistÄ›. Vyvaruj se zbranÃ­ tÄ›ch, kteÅ™Ã­ Å¾ijÃ­ tam venku. KousnutÃ­ geckona je niÄÃ­m v porovnÃ¡nÃ­ se silou jejich ohnivÃ½ch holÃ­.}
+{602}{}{DobrÃ¡. JeÅ¡tÄ› nÄ›jakÃ¡ rada?}
+{603}{}{NedÅ¯vÄ›Å™uj bezmeznÄ› vÅ¡em. ÄŒest znamenÃ¡ v pustinÄ› velmi mÃ¡lo. ZÅ¯staÅˆ ve stÅ™ehu a vÅ¾dy pÅ™emÃ½Å¡lej o motivech ostatnÃ­ch lidÃ­.}
+{604}{}{DobÅ™e, chÃ¡pu. JeÅ¡tÄ› nÄ›co?}
+{605}{}{Nikdy nezapomeÅˆ na svÃ© koÅ™eny. SvÄ›t mimo naÅ¡i vesnici je plnÃ½ blÃ½skavÃ½ch vÄ›cÃ­ a pÅ™epychu, vedle kterÃ½ch se mÅ¯Å¾e zdÃ¡t nÃ¡Å¡ Å¾ivot tady v Arroyu jednoduchÃ½ a prostÃ½. Pamatuj si vÅ¡ak, Å¾e Å¾ivotnÃ­ styl lidÃ­ tam venku vytvÃ¡Å™Ã­ bytosti ovlÃ¡danÃ© chamtivostÃ­ a mocÃ­. MÄ›j se na pozoru, aÅ¥ nedopadneÅ¡ jako Ten-jehoÅ¾-jmÃ©no-nesmÃ­me-vyslovit.}
+{606}{}{Nikdy nezapomenu na svÃ© koÅ™eny. DÃ­ky za radu, Mynocu.}
+{607}{}{Ten-jehoÅ¾-jmÃ©no-nesmÃ­me-vyslovit? Eh... kdo?}
+{608}{}{To jsi tak opojenÃ½ slÃ¡vou VyvolenÃ©ho? Copak si nevzpomÃ­nÃ¡Å¡ na... (Mynoc se rychle rozhlÃ©dne, aby se ujistil, Å¾e nikdo neposlouchÃ¡. Pak se pÅ™iblÃ­Å¾Ã­ a zaÅ¡eptÃ¡.) ...Kagu?}
+{609}{}{Aha! Jo ten. MÅ¯Å¾u tÄ› ujistit, Å¾e nedopadnu jako on. DÃ­ky.}
+{610}{}{Aha, jÃ¡ vÄ›dÄ›l, Å¾e myslÃ­Å¡ jeho. Ale, ehm, co kdybys mi jeÅ¡tÄ› jednou Å™ekl, jak to s nÃ­m bylo? Ten pÅ™Ã­bÄ›h je opravdu skvÄ›lÃ½.}
+{611}{}{(Mynoc si pro sebe nÄ›co zamumlÃ¡ a zavrtÃ­ hlavou jeÅ¡tÄ› pÅ™ed tÃ­m, neÅ¾ zaÄne vyprÃ¡vÄ›t.) Jak asi vÃ­Å¡, bÃ½val nejlepÅ¡Ã­m vÃ¡leÄnÃ­kem v naÅ¡Ã­ vesnici. Vedl mnoho vÃ½prav do pustiny a tam se takÃ© stalo, Å¾e byla jeho mysl otrÃ¡vena.}
+{612}{}{Byl zaslepen Å¾ivotem tÄ›ch, kteÅ™Ã­ Å¾ijÃ­ v pustinÄ›, kde moc mÅ¯Å¾e komukoliv pÅ™inÃ©st respekt a bohatstvÃ­. ZaÄal sÃ¡m sebe vidÄ›t jako nadÅ™azenÃ©ho nad vÅ¡emi ostatnÃ­mi Äleny kmene, kteÅ™Ã­ byli spokojeni se svÃ½mi prostÃ½mi Å¾ivoty.}
 {613}{}{Ten bastard!}
-{614}{}{Pokraèuj.}
-{615}{}{Kdy na naši vesnici padly tyto tìké èasy, pøesvìdèil sám sebe, e je zachráncem našeho lidu a vstoupil do Chrámu Zkoušek, aby dokázal, e je Vyvolenı.}
-{616}{}{Pokraèuj.}
-{617}{}{Hmm, myslím, e u ten pøíbìh slyšet nechci. Sbohem.}
-{618}{}{Prošel Chrámem a rychle dosáhl závìreèné zkoušky: souboje beze zbranì s jedním z váleèníkù kmene.}
-{619}{}{Pokraèuj.}
-{620}{}{Poèkej, on vyhodil do povìtøí dveøe, odstranil pasti a tak? A to chrám pøestavíme pokadé, kdy nìkdo projde skrz? A kdy u jsme u toho, kdo vùbec chrám postavil?}
-{621}{}{Nemám èas odpovídat na všechny tvé hloupé otázky. Necháš mì dokonèit moje vyprávìní nebo ne?}
-{622}{}{Ach, promiò. Pokraèuj prosím.}
-{623}{}{Vlastnì myslím, e jsem pøipraven vyrazit. Ještì se uvidíme.}
-{624}{}{V závìreèné zkoušce, Ten-jeho-jméno-nesmíme-vyslovit, pouil ukrytı nù k zabití svého protivníka. Kdy ho Starší postavila tváøí v tváø tomu, e neèestnì pouil ukrytou zbraò, prohlásil, e to nebylo podvádìní, ale prı dokázal, e je mazanı váleèník.}
-{625}{}{Starší nesouhlasila. Ten-jeho-jméno-nesmíme-vyslovit byl násilím vyhnán z naší vesnice a jeho jméno u nesmí bıt nikdy mezi námi vysloveno. Kdy byl vyhnán, sloil pøísahu pomsty. Pomsty našemu kmeni a obzvláštì tobì.}
-{626}{}{Mì? Proè mì?}
-{627}{}{Díky za pøíbìh, ale u mám bıt dávno na cestì.}
-{628}{}{Protoe jsi Vyvolenı. Nosíš titul, kterı si chtìl pøivlastnit a o kterém si myslí, e je po právu jeho. Jeho èest mu nedovolí nechat tì naivu.}
-{629}{}{Myslím, e si s tím nebudu dìlat zbyteènì tìkou hlavu. Teï u stejnì leí nìkde mrtvı v pustinách.}
-{630}{}{Budu si dávat pozor. Doufám, e ho dostihla smrt nìkde v pustinách.}
-{631}{}{Poslouchej, Ten-jeho-jméno-nesmíme-vyslovit je nìkde tam venku. Nebude s tebou vyjednávat. Nebude cítit lítost, soucit nebo strach. A nic ho nezastaví, dokud nebude jeden z vás mrtev.}
-{632}{}{Víš, myslím, e z toho dìláš zbyteènì melodrama. Kadopádnì díky za radu. Uvidíme se, Mynocu.}
+{614}{}{PokraÄuj.}
+{615}{}{KdyÅ¾ na naÅ¡i vesnici padly tyto tÄ›Å¾kÃ© Äasy, pÅ™esvÄ›dÄil sÃ¡m sebe, Å¾e je zachrÃ¡ncem naÅ¡eho lidu a vstoupil do ChrÃ¡mu ZkouÅ¡ek, aby dokÃ¡zal, Å¾e je VyvolenÃ½.}
+{616}{}{PokraÄuj.}
+{617}{}{Hmm, myslÃ­m, Å¾e uÅ¾ ten pÅ™Ã­bÄ›h slyÅ¡et nechci. Sbohem.}
+{618}{}{ProÅ¡el ChrÃ¡mem a rychle dosÃ¡hl zÃ¡vÄ›reÄnÃ© zkouÅ¡ky: souboje beze zbranÄ› s jednÃ­m z vÃ¡leÄnÃ­kÅ¯ kmene.}
+{619}{}{PokraÄuj.}
+{620}{}{PoÄkej, on vyhodil do povÄ›tÅ™Ã­ dveÅ™e, odstranil pasti a tak? A to chrÃ¡m pÅ™estavÃ­me pokaÅ¾dÃ©, kdyÅ¾ nÄ›kdo projde skrz? A kdyÅ¾ uÅ¾ jsme u toho, kdo vÅ¯bec chrÃ¡m postavil?}
+{621}{}{NemÃ¡m Äas odpovÃ­dat na vÅ¡echny tvÃ© hloupÃ© otÃ¡zky. NechÃ¡Å¡ mÄ› dokonÄit moje vyprÃ¡vÄ›nÃ­ nebo ne?}
+{622}{}{Ach, promiÅˆ. PokraÄuj prosÃ­m.}
+{623}{}{VlastnÄ› myslÃ­m, Å¾e jsem pÅ™ipraven vyrazit. JeÅ¡tÄ› se uvidÃ­me.}
+{624}{}{V zÃ¡vÄ›reÄnÃ© zkouÅ¡ce, Ten-jehoÅ¾-jmÃ©no-nesmÃ­me-vyslovit, pouÅ¾il ukrytÃ½ nÅ¯Å¾ k zabitÃ­ svÃ©ho protivnÃ­ka. KdyÅ¾ ho StarÅ¡Ã­ postavila tvÃ¡Å™Ã­ v tvÃ¡Å™ tomu, Å¾e neÄestnÄ› pouÅ¾il ukrytou zbraÅˆ, prohlÃ¡sil, Å¾e to nebylo podvÃ¡dÄ›nÃ­, ale prÃ½ dokÃ¡zal, Å¾e je mazanÃ½ vÃ¡leÄnÃ­k.}
+{625}{}{StarÅ¡Ã­ nesouhlasila. Ten-jehoÅ¾-jmÃ©no-nesmÃ­me-vyslovit byl nÃ¡silÃ­m vyhnÃ¡n z naÅ¡Ã­ vesnice a jeho jmÃ©no uÅ¾ nesmÃ­ bÃ½t nikdy mezi nÃ¡mi vysloveno. KdyÅ¾ byl vyhnÃ¡n, sloÅ¾il pÅ™Ã­sahu pomsty. Pomsty naÅ¡emu kmeni a obzvlÃ¡Å¡tÄ› tobÄ›.}
+{626}{}{MÄ›? ProÄ mÄ›?}
+{627}{}{DÃ­ky za pÅ™Ã­bÄ›h, ale uÅ¾ mÃ¡m bÃ½t dÃ¡vno na cestÄ›.}
+{628}{}{ProtoÅ¾e jsi VyvolenÃ½. NosÃ­Å¡ titul, kterÃ½ si chtÄ›l pÅ™ivlastnit a o kterÃ©m si myslÃ­, Å¾e je po prÃ¡vu jeho. Jeho Äest mu nedovolÃ­ nechat tÄ› naÅ¾ivu.}
+{629}{}{MyslÃ­m, Å¾e si s tÃ­m nebudu dÄ›lat zbyteÄnÄ› tÄ›Å¾kou hlavu. TeÄ uÅ¾ stejnÄ› leÅ¾Ã­ nÄ›kde mrtvÃ½ v pustinÃ¡ch.}
+{630}{}{Budu si dÃ¡vat pozor. DoufÃ¡m, Å¾e ho dostihla smrt nÄ›kde v pustinÃ¡ch.}
+{631}{}{Poslouchej, Ten-jehoÅ¾-jmÃ©no-nesmÃ­me-vyslovit je nÄ›kde tam venku. Nebude s tebou vyjednÃ¡vat. Nebude cÃ­tit lÃ­tost, soucit nebo strach. A nic ho nezastavÃ­, dokud nebude jeden z vÃ¡s mrtev.}
+{632}{}{VÃ­Å¡, myslÃ­m, Å¾e z toho dÄ›lÃ¡Å¡ zbyteÄnÄ› melodrama. KaÅ¾dopÃ¡dnÄ› dÃ­ky za radu. UvidÃ­me se, Mynocu.}
 {633}{}{Budu na to myslet. Opatruj se, Mynocu.}
-{640}{}{Mùeš mi øíct nìco o Kagovi?}
-{641}{}{(Jeho oèi se rozšíøí a nervóznì se rozhlédne, jako by oèekával, e do nìj uhodí blesk.) Ztratil jsi v pustinì zdravı rozum?! Mìl bys vìdìt nejlépe, e vyslovit jeho jméno je zapovìzeno! Mùeš ho nazıvat pouze jako Ten-jeho-jméno-nesmíme-vyslovit. Naše vesnice trpí dost i bez hnìvu bohù obráceného proti nám. (Nervóznì pozvedne oèi k nebesùm.)}
-{642}{}{Promiò, Mynocu. Ale myslíš, e bys mi mohl ještì jednou povìdìt, jak to s Ka... chci øíct, "Toho-jeho-jméno-nesmíme-vyslovit", bylo? Opravdu mám ten pøíbìh rád.}
-{643}{}{Víš, úplnì jsem zapomnìl, jak povìrèiví lidé dokáete bıt. Sbohem.}
-{650}{}{Èelil jsem mu u pøedtím, take jsem si jistı, e si to s ním vyøídím, pokud se naše cesty opìt skøíí.}
-{651}{}{Vlastnì je u mrtvı. Nechal jsem jeho mrtvolu hnít venku v pustinách.}
-{660}{}{(Mynoc smutnì kıvne hlavou.) Mohl sejít ze své cesty, ale i tak byl jednou uznávanım bojovníkem našeho kmene. Doufám, e jeho utrápená duše našla klid v dalším svìtì.}
-{661}{}{Máš pravdu. Uvidíme se, Mynoc.}
-{662}{}{Budi. Mì pøipadal jako sráè. Uvidíme se, Mynocu.}
+{640}{}{MÅ¯Å¾eÅ¡ mi Å™Ã­ct nÄ›co o Kagovi?}
+{641}{}{(Jeho oÄi se rozÅ¡Ã­Å™Ã­ a nervÃ³znÄ› se rozhlÃ©dne, jako by oÄekÃ¡val, Å¾e do nÄ›j uhodÃ­ blesk.) Ztratil jsi v pustinÄ› zdravÃ½ rozum?! MÄ›l bys vÄ›dÄ›t nejlÃ©pe, Å¾e vyslovit jeho jmÃ©no je zapovÄ›zeno! MÅ¯Å¾eÅ¡ ho nazÃ½vat pouze jako Ten-jehoÅ¾-jmÃ©no-nesmÃ­me-vyslovit. NaÅ¡e vesnice trpÃ­ dost i bez hnÄ›vu bohÅ¯ obrÃ¡cenÃ©ho proti nÃ¡m. (NervÃ³znÄ› pozvedne oÄi k nebesÅ¯m.)}
+{642}{}{PromiÅˆ, Mynocu. Ale myslÃ­Å¡, Å¾e bys mi mohl jeÅ¡tÄ› jednou povÄ›dÄ›t, jak to s Ka... chci Å™Ã­ct, "Toho-jehoÅ¾-jmÃ©no-nesmÃ­me-vyslovit", bylo? Opravdu mÃ¡m ten pÅ™Ã­bÄ›h rÃ¡d.}
+{643}{}{VÃ­Å¡, ÃºplnÄ› jsem zapomnÄ›l, jak povÄ›rÄivÃ­ lidÃ© dokÃ¡Å¾ete bÃ½t. Sbohem.}
+{650}{}{ÄŒelil jsem mu uÅ¾ pÅ™edtÃ­m, takÅ¾e jsem si jistÃ½, Å¾e si to s nÃ­m vyÅ™Ã­dÃ­m, pokud se naÅ¡e cesty opÄ›t skÅ™Ã­Å¾Ã­.}
+{651}{}{VlastnÄ› je uÅ¾ mrtvÃ½. Nechal jsem jeho mrtvolu hnÃ­t venku v pustinÃ¡ch.}
+{660}{}{(Mynoc smutnÄ› kÃ½vne hlavou.) Mohl sejÃ­t ze svÃ© cesty, ale i tak byl jednou uznÃ¡vanÃ½m bojovnÃ­kem naÅ¡eho kmene. DoufÃ¡m, Å¾e jeho utrÃ¡penÃ¡ duÅ¡e naÅ¡la klid v dalÅ¡Ã­m svÄ›tÄ›.}
+{661}{}{MÃ¡Å¡ pravdu. UvidÃ­me se, Mynoc.}
+{662}{}{BudiÅ¾. MÄ› pÅ™ipadal jako srÃ¡Ä. UvidÃ­me se, Mynocu.}
 {1000}{}{Starsi}
 {1001}{}{Zakladatel}
 {1002}{}{Obyvatel Vaultu}
@@ -168,15 +168,15 @@
 {1009}{}{Lecivy prasek}
 {1010}{}{Most}
 {1011}{}{Mynoc}
-{1100}{}{Starší je tvoje matka a náš vùdce.}
-{1101}{}{Náš slavnı pøedek, kterı nám pøedal své znalosti.}
-{1102}{}{První èlovìk, kterı bojoval a zvítìzil nad chaosem.}
-{1103}{}{To je naše krásná vesnice.}
-{1104}{}{That’s trading outpost a few days east of here.}
+{1100}{}{StarÅ¡Ã­ je tvoje matka a nÃ¡Å¡ vÅ¯dce.}
+{1101}{}{NÃ¡Å¡ slavnÃ½ pÅ™edek, kterÃ½ nÃ¡m pÅ™edal svÃ© znalosti.}
+{1102}{}{PrvnÃ­ ÄlovÄ›k, kterÃ½ bojoval a zvÃ­tÄ›zil nad chaosem.}
+{1103}{}{To je naÅ¡e krÃ¡snÃ¡ vesnice.}
+{1104}{}{Thatâ€™s trading outpost a few days east of here.}
 {1105}{}{Vault je jako nebe.}
-{1106}{}{Ty jsi Vyvolenı.}
-{1107}{}{Léèí nás pomocí bylin a magie. Bydlí v severní èásti vesnice.}
-{1108}{}{Léèí nás pomocí bylin a magie. Bydlí v severní èásti vesnice.}
-{1109}{}{To je léèivı prášek, kterı tì vyléèí, ale bude se ti po nìm chtít spát.}
-{1110}{}{Velikı most je jedinım vıchodem z naší vesnice.}
-{1111}{}{To bych mìl bıt já.}
+{1106}{}{Ty jsi VyvolenÃ½.}
+{1107}{}{LÃ©ÄÃ­ nÃ¡s pomocÃ­ bylin a magie. BydlÃ­ v severnÃ­ ÄÃ¡sti vesnice.}
+{1108}{}{LÃ©ÄÃ­ nÃ¡s pomocÃ­ bylin a magie. BydlÃ­ v severnÃ­ ÄÃ¡sti vesnice.}
+{1109}{}{To je lÃ©ÄivÃ½ prÃ¡Å¡ek, kterÃ½ tÄ› vylÃ©ÄÃ­, ale bude se ti po nÄ›m chtÃ­t spÃ¡t.}
+{1110}{}{VelikÃ½ most je jedinÃ½m vÃ½chodem z naÅ¡Ã­ vesnice.}
+{1111}{}{To bych mÄ›l bÃ½t jÃ¡.}

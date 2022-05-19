@@ -1,126 +1,126 @@
-{100}{}{Vidíš špinavého, silnì vypadajícího mue.}
-{101}{}{Vidíš Connara.}
-{102}{}{Hej ty! Co tady dìláš?!}
-{103}{}{Zùstaò, kde jsi, venkovane. Co tady pohledáváš?}
-{104}{}{Zabíjím krtèí potkany.}
-{105}{}{Proè, co je ti po tom?}
-{106}{}{Proè ty øvát?}
-{107}{}{Vsadím se, e tì poslali ti bastardi z Vault City. Radìji odejdi a nech tu všechno naivu.}
-{108}{}{No, na to u je trochu pozdì.}
+{100}{}{VidÃ­Å¡ Å¡pinavÃ©ho, silnÄ› vypadajÃ­cÃ­ho muÅ¾e.}
+{101}{}{VidÃ­Å¡ Connara.}
+{102}{}{Hej ty! Co tady dÄ›lÃ¡Å¡?!}
+{103}{}{ZÅ¯staÅˆ, kde jsi, venkovane. Co tady pohledÃ¡vÃ¡Å¡?}
+{104}{}{ZabÃ­jÃ­m krtÄÃ­ potkany.}
+{105}{}{ProÄ, co je ti po tom?}
+{106}{}{ProÄ ty Å™vÃ¡t?}
+{107}{}{VsadÃ­m se, Å¾e tÄ› poslali ti bastardi z Vault City. RadÄ›ji odejdi a nech tu vÅ¡echno naÅ¾ivu.}
+{108}{}{No, na to uÅ¾ je trochu pozdÄ›.}
 {109}{}{Jak to?}
-{110}{}{Promiò, ale je to moje práce.}
-{111}{}{Tihle tvorové jsou jedinou vìcí, která brání lidem z Vault City si z nás udìlat takzvané "sluebníky".}
-{112}{}{Podívej, zaplatili mi za jejich vyhubení a pøesnì to hodlám udìlat.}
-{113}{}{To mi neøekli.}
-{114}{}{Zaplatili mi za jejich vyhubení a u je to hotové.}
-{115}{}{Ty idiote! Proè jsi to k èertu udìlal!}
-{116}{}{Potøebuju peníze.}
-{117}{}{Víš, jestli to udìláš, tak si pro nás pøijdou.}
-{118}{}{To není mùj problém.}
-{119}{}{V tom pøípadì doufám, e se nimi udusíš. Brzy si pro nás pøijdou.}
-{120}{}{Nevìdìl jsem, e to chtìli udìlat kvùli tomu.}
-{121}{}{Jo, stejnì nejednám s takovım póvlem, jako jsi ty.}
-{122}{}{To ti nemùeme dovolit.}
-{123}{}{Kdy musíš, tak musíš.}
-{124}{}{A ty jim to opravdu vìøíš? Máš se ještì co uèit, pøíteli.}
-{125}{}{Mùu nìjak pomoct?}
-{126}{}{Stráe Vault City nepatøí k nejstateènìjším. Staèí se jen zmínit o souboji a uteèou daleko za humny. Kdybychom mìli pár zbraní, mohli bychom se jim postavit.}
-{127}{}{Moná vám mùu pomoct, ale zbranì nejsou levné. Jakı druh zbraní sháníte?}
-{128}{}{(Podívá se na tebe váhavım pohledem.) Ty nám chceš opravdu pomoct? Tak dobøe. Jestli to myslíš vánì, hodily by se nám nìjaké pušky. Díky nim bychom je mohli odstøelovat z dálky. Take pokud nám chceš opravdu pomoct, pøines nám nìjaké automatické pušky. Ètyøi by mohli staèit. Jo a hodila by se i brokovnice pro pøípad, e se k nám dostanou na blízko.}
-{129}{}{Uvidím, co se dá dìlat. Ale jak øíkám, zbranì nejsou levné, take budu potøebovat nìjaké peníze.}
-{130}{}{Nechceme tì tu. Odejdi.}
-{131}{}{Myslím, e ne. S èím vám mùu pomoct?}
-{132}{}{Jo, stejnì tu u nebudeš moc dlouho.}
-{133}{}{Jako by mì to zajímalo.}
-{134}{}{Vítej zpátky! Máš pro nás ty zbranì?}
-{135}{}{Co e to vlastnì potøebujete?}
+{110}{}{PromiÅˆ, ale je to moje prÃ¡ce.}
+{111}{}{Tihle tvorovÃ© jsou jedinou vÄ›cÃ­, kterÃ¡ brÃ¡nÃ­ lidem z Vault City si z nÃ¡s udÄ›lat takzvanÃ© "sluÅ¾ebnÃ­ky".}
+{112}{}{PodÃ­vej, zaplatili mi za jejich vyhubenÃ­ a pÅ™esnÄ› to hodlÃ¡m udÄ›lat.}
+{113}{}{To mi neÅ™ekli.}
+{114}{}{Zaplatili mi za jejich vyhubenÃ­ a uÅ¾ je to hotovÃ©.}
+{115}{}{Ty idiote! ProÄ jsi to k Äertu udÄ›lal!}
+{116}{}{PotÅ™ebuju penÃ­ze.}
+{117}{}{VÃ­Å¡, jestli to udÄ›lÃ¡Å¡, tak si pro nÃ¡s pÅ™ijdou.}
+{118}{}{To nenÃ­ mÅ¯j problÃ©m.}
+{119}{}{V tom pÅ™Ã­padÄ› doufÃ¡m, Å¾e se nimi udusÃ­Å¡. Brzy si pro nÃ¡s pÅ™ijdou.}
+{120}{}{NevÄ›dÄ›l jsem, Å¾e to chtÄ›li udÄ›lat kvÅ¯li tomu.}
+{121}{}{Jo, stejnÄ› nejednÃ¡m s takovÃ½m pÃ³vlem, jako jsi ty.}
+{122}{}{To ti nemÅ¯Å¾eme dovolit.}
+{123}{}{KdyÅ¾ musÃ­Å¡, tak musÃ­Å¡.}
+{124}{}{A ty jim to opravdu vÄ›Å™Ã­Å¡? MÃ¡Å¡ se jeÅ¡tÄ› co uÄit, pÅ™Ã­teli.}
+{125}{}{MÅ¯Å¾u nÄ›jak pomoct?}
+{126}{}{StrÃ¡Å¾e Vault City nepatÅ™Ã­ k nejstateÄnÄ›jÅ¡Ã­m. StaÄÃ­ se jen zmÃ­nit o souboji a uteÄou daleko za humny. Kdybychom mÄ›li pÃ¡r zbranÃ­, mohli bychom se jim postavit.}
+{127}{}{MoÅ¾nÃ¡ vÃ¡m mÅ¯Å¾u pomoct, ale zbranÄ› nejsou levnÃ©. JakÃ½ druh zbranÃ­ shÃ¡nÃ­te?}
+{128}{}{(PodÃ­vÃ¡ se na tebe vÃ¡havÃ½m pohledem.) Ty nÃ¡m chceÅ¡ opravdu pomoct? Tak dobÅ™e. Jestli to myslÃ­Å¡ vÃ¡Å¾nÄ›, hodily by se nÃ¡m nÄ›jakÃ© puÅ¡ky. DÃ­ky nim bychom je mohli odstÅ™elovat z dÃ¡lky. TakÅ¾e pokud nÃ¡m chceÅ¡ opravdu pomoct, pÅ™ines nÃ¡m nÄ›jakÃ© automatickÃ© puÅ¡ky. ÄŒtyÅ™i by mohli staÄit. Jo a hodila by se i brokovnice pro pÅ™Ã­pad, Å¾e se k nÃ¡m dostanou na blÃ­zko.}
+{129}{}{UvidÃ­m, co se dÃ¡ dÄ›lat. Ale jak Å™Ã­kÃ¡m, zbranÄ› nejsou levnÃ©, takÅ¾e budu potÅ™ebovat nÄ›jakÃ© penÃ­ze.}
+{130}{}{Nechceme tÄ› tu. Odejdi.}
+{131}{}{MyslÃ­m, Å¾e ne. S ÄÃ­m vÃ¡m mÅ¯Å¾u pomoct?}
+{132}{}{Jo, stejnÄ› tu uÅ¾ nebudeÅ¡ moc dlouho.}
+{133}{}{Jako by mÄ› to zajÃ­malo.}
+{134}{}{VÃ­tej zpÃ¡tky! MÃ¡Å¡ pro nÃ¡s ty zbranÄ›?}
+{135}{}{Co Å¾e to vlastnÄ› potÅ™ebujete?}
 {136}{}{Jo, tady jsou.}
-{137}{}{Potøebujeme ètyøi útoèné pušky a brokovnici. Èím døív nám je pøineseš, tím lépe.}
-{138}{}{Dobøe.}
-{139}{}{Vıbornì! S tìmito hraèkami to tu snad v pøíštích mìsících zmìníme k lepšímu. Díky moc a jestli budeš nìkdy potøebovat nocleh, kdykoliv tì tu uvítáme, pøíteli.}
-{140}{}{Není zaè.}
-{141}{}{Ahoj! Jde to docela dobøe. Pøíští mìsíc se chystáme rozšiøovat vesnici.}
-{142}{}{Zdravíèko! Jak vidíš, jde to docela dobøe. Klidnì se porozhlédni kolem, pokud máš èas.}
-{143}{}{Poøád ještì stavíme. Doufáme, e pøíští mìsíc opìt rozšíøíme zdi.}
-{144}{}{Zdravím! Vesnice se znovu rozšíøila, pøesnì jak jsme doufali. Samozøejmì tì tu vdy uvítáme.}
-{145}{}{Teï u se Vault City nemusíme vùbec obávat a mùeme tu ít v klidu a míru. Ještì jednou díky, venkovane.}
-{146}{}{Ne e tam nìco zabiješ, hlupáku.}
-{147}{}{Co to sakra bylo?!?! Ty zasranej zrádèe! Nenávidím tì!!!}
+{137}{}{PotÅ™ebujeme ÄtyÅ™i ÃºtoÄnÃ© puÅ¡ky a brokovnici. ÄŒÃ­m dÅ™Ã­v nÃ¡m je pÅ™ineseÅ¡, tÃ­m lÃ©pe.}
+{138}{}{DobÅ™e.}
+{139}{}{VÃ½bornÄ›! S tÄ›mito hraÄkami to tu snad v pÅ™Ã­Å¡tÃ­ch mÄ›sÃ­cÃ­ch zmÄ›nÃ­me k lepÅ¡Ã­mu. DÃ­ky moc a jestli budeÅ¡ nÄ›kdy potÅ™ebovat nocleh, kdykoliv tÄ› tu uvÃ­tÃ¡me, pÅ™Ã­teli.}
+{140}{}{NenÃ­ zaÄ.}
+{141}{}{Ahoj! Jde to docela dobÅ™e. PÅ™Ã­Å¡tÃ­ mÄ›sÃ­c se chystÃ¡me rozÅ¡iÅ™ovat vesnici.}
+{142}{}{ZdravÃ­Äko! Jak vidÃ­Å¡, jde to docela dobÅ™e. KlidnÄ› se porozhlÃ©dni kolem, pokud mÃ¡Å¡ Äas.}
+{143}{}{PoÅ™Ã¡d jeÅ¡tÄ› stavÃ­me. DoufÃ¡me, Å¾e pÅ™Ã­Å¡tÃ­ mÄ›sÃ­c opÄ›t rozÅ¡Ã­Å™Ã­me zdi.}
+{144}{}{ZdravÃ­m! Vesnice se znovu rozÅ¡Ã­Å™ila, pÅ™esnÄ› jak jsme doufali. SamozÅ™ejmÄ› tÄ› tu vÅ¾dy uvÃ­tÃ¡me.}
+{145}{}{TeÄ uÅ¾ se Vault City nemusÃ­me vÅ¯bec obÃ¡vat a mÅ¯Å¾eme tu Å¾Ã­t v klidu a mÃ­ru. JeÅ¡tÄ› jednou dÃ­ky, venkovane.}
+{146}{}{Ne Å¾e tam nÄ›co zabijeÅ¡, hlupÃ¡ku.}
+{147}{}{Co to sakra bylo?!?! Ty zasranej zrÃ¡dÄe! NenÃ¡vidÃ­m tÄ›!!!}
 {148}{}{A sakra...}
-{149}{}{Pus mì ven!!!}
-{150}{}{Co jsem ti kdy udìlal?}
+{149}{}{PusÅ¥ mÄ› ven!!!}
+{150}{}{Co jsem ti kdy udÄ›lal?}
 {151}{}{Pomoc!}
-{152}{}{Samozøejmì. Tady máš vše, co si mùeme dovolit. (Pøedá ti $5000.) Moná jsem hlupák, kdy vìøím venkovanovi, ale jsi naše jediná nadìje na zachování samostatnosti. Promluv si se Starım Joem na Pøedmìstí ve Vault City. Vìtšinou ho najdeš v místním baru nebo nìkde kolem. On u bude vìdìt co dìlat.}
+{152}{}{SamozÅ™ejmÄ›. Tady mÃ¡Å¡ vÅ¡e, co si mÅ¯Å¾eme dovolit. (PÅ™edÃ¡ ti $5000.) MoÅ¾nÃ¡ jsem hlupÃ¡k, kdyÅ¾ vÄ›Å™Ã­m venkovanovi, ale jsi naÅ¡e jedinÃ¡ nadÄ›je na zachovÃ¡nÃ­ samostatnosti. Promluv si se StarÃ½m Joem na PÅ™edmÄ›stÃ­ ve Vault City. VÄ›tÅ¡inou ho najdeÅ¡ v mÃ­stnÃ­m baru nebo nÄ›kde kolem. On uÅ¾ bude vÄ›dÄ›t co dÄ›lat.}
 {153}{}{Jdu na to.}
-{154}{}{Mùu se na nìco zeptat?}
-{155}{}{Samozøejmì, co chceš vìdìt?}
-{156}{}{Odkud se vzali ti krtèí potkani a proè nejsou agresivní?}
+{154}{}{MÅ¯Å¾u se na nÄ›co zeptat?}
+{155}{}{SamozÅ™ejmÄ›, co chceÅ¡ vÄ›dÄ›t?}
+{156}{}{Odkud se vzali ti krtÄÃ­ potkani a proÄ nejsou agresivnÃ­?}
 {157}{}{Ale nic, nashle.}
-{158}{}{No, to je takovı zvláštní pøíbìh. Víš, jednoho dne k nám pøišla skupina ghoulù. Mumlali nìco o "Obrození" a rozdávali tyhle prašivé amulety. (Ukáe ti amulet Ankh.) Tvrdili, e od této chvíle nás budou tito velicí hlodavci ochraòovat. Ghoulové odešli, nejspíše zpìt do Gecka, ale hlodavci tu od té doby zùstali. Jak jsem øekl, je to opravdu zvláštní. Není zrovna sranda po nich uklízet, ale k èertu, dokud nám budou chránit zadky pøed Vault City, tak ty krysí hovna nìjak pøetrpíme.}
-{159}{}{Velmi zajímavé. Mùu si vzít jeden ten amulet?}
-{160}{}{Klidnì. Dali nám jich tolik, e ani nevíme, co s nima máme sakra dìlat. Tady, vezmi si jeden.}
-{161}{}{Díky moc. Nashle.}
-{162}{}{Ne, ale mám skvìlou zprávu. Podaøilo se mi pøesvìdèit radu Vault City, aby vaši vesnici nechali na pokoji.}
-{163}{}{Coe? Oni nás opravdu nechají na pokoji? To nechápu... jak se ti to povedlo? Jestli zjistím, e si ze mì dìláš prdel...}
-{164}{}{Je to pravda, vìø mi. Povedlo se mi zatahat za pár nitek a porušit jednu dohodu, ale není tøeba zacházet do detailù. Dùleité je, e jste teï v bezpeèí.}
-{165}{}{Z celého svého srdce ti dìkuji... ehm... mimochodem, poøád nevím, jak se vlastnì jmenuješ.}
+{158}{}{No, to je takovÃ½ zvlÃ¡Å¡tnÃ­ pÅ™Ã­bÄ›h. VÃ­Å¡, jednoho dne k nÃ¡m pÅ™iÅ¡la skupina ghoulÅ¯. Mumlali nÄ›co o "ObrozenÃ­" a rozdÃ¡vali tyhle praÅ¡ivÃ© amulety. (UkÃ¡Å¾e ti amulet Ankh.) Tvrdili, Å¾e od tÃ©to chvÃ­le nÃ¡s budou tito velicÃ­ hlodavci ochraÅˆovat. GhoulovÃ© odeÅ¡li, nejspÃ­Å¡e zpÄ›t do Gecka, ale hlodavci tu od tÃ© doby zÅ¯stali. Jak jsem Å™ekl, je to opravdu zvlÃ¡Å¡tnÃ­. NenÃ­ zrovna sranda po nich uklÃ­zet, ale k Äertu, dokud nÃ¡m budou chrÃ¡nit zadky pÅ™ed Vault City, tak ty krysÃ­ hovna nÄ›jak pÅ™etrpÃ­me.}
+{159}{}{Velmi zajÃ­mavÃ©. MÅ¯Å¾u si vzÃ­t jeden ten amulet?}
+{160}{}{KlidnÄ›. Dali nÃ¡m jich tolik, Å¾e ani nevÃ­me, co s nima mÃ¡me sakra dÄ›lat. Tady, vezmi si jeden.}
+{161}{}{DÃ­ky moc. Nashle.}
+{162}{}{Ne, ale mÃ¡m skvÄ›lou zprÃ¡vu. PodaÅ™ilo se mi pÅ™esvÄ›dÄit radu Vault City, aby vaÅ¡i vesnici nechali na pokoji.}
+{163}{}{CoÅ¾e? Oni nÃ¡s opravdu nechajÃ­ na pokoji? To nechÃ¡pu... jak se ti to povedlo? Jestli zjistÃ­m, Å¾e si ze mÄ› dÄ›lÃ¡Å¡ prdel...}
+{164}{}{Je to pravda, vÄ›Å™ mi. Povedlo se mi zatahat za pÃ¡r nitek a poruÅ¡it jednu dohodu, ale nenÃ­ tÅ™eba zachÃ¡zet do detailÅ¯. DÅ¯leÅ¾itÃ© je, Å¾e jste teÄ v bezpeÄÃ­.}
+{165}{}{Z celÃ©ho svÃ©ho srdce ti dÄ›kuji... ehm... mimochodem, poÅ™Ã¡d nevÃ­m, jak se vlastnÄ› jmenujeÅ¡.}
 {166}{}{Jmenuju se }
-{167}{}{Dìkuju ti, }
-{168}{}{, ale co se stalo s tìmi penìzi, které jsem ti dal na nákup zbraní?}
-{169}{}{Vdy tì tu rádi uvítáme! Nashledanou.}
-{170}{}{Ano, ale myslím, e je nebudete potøebovat. Alespoò ne proti Vault City. Podaøilo se mi pøesvìdèit radu Vault City, aby vaši vesnici nechali na pokoji.}
-{171}{}{Udìlám to. Nejdøív se chci ale na nìco zeptat.}
+{167}{}{DÄ›kuju ti, }
+{168}{}{, ale co se stalo s tÄ›mi penÄ›zi, kterÃ© jsem ti dal na nÃ¡kup zbranÃ­?}
+{169}{}{VÅ¾dy tÄ› tu rÃ¡di uvÃ­tÃ¡me! Nashledanou.}
+{170}{}{Ano, ale myslÃ­m, Å¾e je nebudete potÅ™ebovat. AlespoÅˆ ne proti Vault City. PodaÅ™ilo se mi pÅ™esvÄ›dÄit radu Vault City, aby vaÅ¡i vesnici nechali na pokoji.}
+{171}{}{UdÄ›lÃ¡m to. NejdÅ™Ã­v se chci ale na nÄ›co zeptat.}
 {172}{}{Ale nic. Nashle.}
-{173}{}{Ještì ne. Vrátím se, a je budu mít.}
-{174}{}{Díky! Uvidíme se pozdìji.}
-{200}{}{Náhodou mám u sebe pøesnì to, co potøebujete.}
-{201}{}{Tak se zdá, e ty zbranì vlastnì dávno nosím s sebou. Myslím, e jich nìkolik mùu postrádat, ale jsi si jistı, e tohle je ten nejlepší zpùsob, jak to vyøešit?}
-{202}{}{Mám ty zbranì, co potøebujete, ale upøímnì si myslím, e existuje i lepší zpùsob, jak to vyøešit. V radì Vault City je velmi rozumnı mu, vrchní èlen rady McClure. Urèitì ho dokáu pøemluvit k tomu, aby radu pøesvìdèil k pøistoupení na mírumilovné øešení.}
-{203}{}{Upøímnì si myslím, e existuje i lepší zpùsob, jak to vyøešit. V radì Vault City je velmi rozumnı mu, vrchní èlen rady McClure. Urèitì ho dokáu pøemluvit k tomu, aby radu pøesvìdèil k pøistoupení na mírumilovné øešení.}
-{205}{}{Ha! Opravdu si myslíš, e se nìkdo z vrchních èlenù rady zajímá o náš osud? Nebuï tak naivní, pøíteli, tìm parchantùm ve Vault City se nedá vìøit. A teï jdi prosím najít Joea na Pøedmìstí ve Vault City. Pokud nebude v baru, najdeš ho nìkde poblí. Starı Joe u bude vìdìt co dìlat. Mùeš mu vìøit. Prosím, pospìš si.}
-{206}{}{Dobøe. Dám vìdìt, a budu mít nìjaké novinky.}
-{210}{}{Vìø mi, zvaovali jsme alternativy, ale to jediné, na co ti parchanti z Vault City budou reagovat, je násilí. Dáš nám teï ty zbranì? Zaplatím ti za nì $5000. Svoboda je toti dùleitìjší ne peníze.}
-{211}{}{Opravdu?! Vıbornì. Tady, dám ti za ty zbranì $5000. Jsou to sice všechny naše peníze, ale svoboda je dùleitìjší. Dìkujeme ti za tvoji slubu a vdy tì tu rádi uvítáme.}
-{212}{}{Dobrá. Tady jsou ty zbranì.}
-{213}{}{Ne, myslím, e ne. Sbohem.}
-{214}{}{Svoboda je dùleitìjší ne peníze, jo? No, vím, jak funguje ekonomika. Rùst poptávky znamená rùst ceny.}
+{173}{}{JeÅ¡tÄ› ne. VrÃ¡tÃ­m se, aÅ¾ je budu mÃ­t.}
+{174}{}{DÃ­ky! UvidÃ­me se pozdÄ›ji.}
+{200}{}{NÃ¡hodou mÃ¡m u sebe pÅ™esnÄ› to, co potÅ™ebujete.}
+{201}{}{Tak se zdÃ¡, Å¾e ty zbranÄ› vlastnÄ› dÃ¡vno nosÃ­m s sebou. MyslÃ­m, Å¾e jich nÄ›kolik mÅ¯Å¾u postrÃ¡dat, ale jsi si jistÃ½, Å¾e tohle je ten nejlepÅ¡Ã­ zpÅ¯sob, jak to vyÅ™eÅ¡it?}
+{202}{}{MÃ¡m ty zbranÄ›, co potÅ™ebujete, ale upÅ™Ã­mnÄ› si myslÃ­m, Å¾e existuje i lepÅ¡Ã­ zpÅ¯sob, jak to vyÅ™eÅ¡it. V radÄ› Vault City je velmi rozumnÃ½ muÅ¾, vrchnÃ­ Älen rady McClure. UrÄitÄ› ho dokÃ¡Å¾u pÅ™emluvit k tomu, aby radu pÅ™esvÄ›dÄil k pÅ™istoupenÃ­ na mÃ­rumilovnÃ© Å™eÅ¡enÃ­.}
+{203}{}{UpÅ™Ã­mnÄ› si myslÃ­m, Å¾e existuje i lepÅ¡Ã­ zpÅ¯sob, jak to vyÅ™eÅ¡it. V radÄ› Vault City je velmi rozumnÃ½ muÅ¾, vrchnÃ­ Älen rady McClure. UrÄitÄ› ho dokÃ¡Å¾u pÅ™emluvit k tomu, aby radu pÅ™esvÄ›dÄil k pÅ™istoupenÃ­ na mÃ­rumilovnÃ© Å™eÅ¡enÃ­.}
+{205}{}{Ha! Opravdu si myslÃ­Å¡, Å¾e se nÄ›kdo z vrchnÃ­ch ÄlenÅ¯ rady zajÃ­mÃ¡ o nÃ¡Å¡ osud? NebuÄ tak naivnÃ­, pÅ™Ã­teli, tÄ›m parchantÅ¯m ve Vault City se nedÃ¡ vÄ›Å™it. A teÄ jdi prosÃ­m najÃ­t Joea na PÅ™edmÄ›stÃ­ ve Vault City. Pokud nebude v baru, najdeÅ¡ ho nÄ›kde poblÃ­Å¾. StarÃ½ Joe uÅ¾ bude vÄ›dÄ›t co dÄ›lat. MÅ¯Å¾eÅ¡ mu vÄ›Å™it. ProsÃ­m, pospÄ›Å¡ si.}
+{206}{}{DobÅ™e. DÃ¡m vÄ›dÄ›t, aÅ¾ budu mÃ­t nÄ›jakÃ© novinky.}
+{210}{}{VÄ›Å™ mi, zvaÅ¾ovali jsme alternativy, ale to jedinÃ©, na co ti parchanti z Vault City budou reagovat, je nÃ¡silÃ­. DÃ¡Å¡ nÃ¡m teÄ ty zbranÄ›? ZaplatÃ­m ti za nÄ› $5000. Svoboda je totiÅ¾ dÅ¯leÅ¾itÄ›jÅ¡Ã­ neÅ¾ penÃ­ze.}
+{211}{}{Opravdu?! VÃ½bornÄ›. Tady, dÃ¡m ti za ty zbranÄ› $5000. Jsou to sice vÅ¡echny naÅ¡e penÃ­ze, ale svoboda je dÅ¯leÅ¾itÄ›jÅ¡Ã­. DÄ›kujeme ti za tvoji sluÅ¾bu a vÅ¾dy tÄ› tu rÃ¡di uvÃ­tÃ¡me.}
+{212}{}{DobrÃ¡. Tady jsou ty zbranÄ›.}
+{213}{}{Ne, myslÃ­m, Å¾e ne. Sbohem.}
+{214}{}{Svoboda je dÅ¯leÅ¾itÄ›jÅ¡Ã­ neÅ¾ penÃ­ze, jo? No, vÃ­m, jak funguje ekonomika. RÅ¯st poptÃ¡vky znamenÃ¡ rÅ¯st ceny.}
 {215}{}{[KONEC]}
-{216}{}{[ÚTOK]}
-{217}{}{Poslouchej, zaèít válku s Vault City není øešení. Jistì, moná se dokáete ubránit po nìkolik mìsícù, moná i let, ale nevydríte vìènì. A v prùbìhu toho pøijde spousta lidí zbyteènì o ivot. Pokud se mi ale podaøí pøemluvit jednoho èlena rady ve Vault City, tak vìøím, e se dohodnete na mírumilovném øešení.}
-{218}{}{Hmm... dobrá. Vidím, e máš zájem o naše dobro. Kdy myslíš, e se ti podaøí pøemluvit jednoho z jejich èlenù, pak tedy prosím, zkus to. Nicménì bych ti doporuèil promluvit si se Starım Joem a vyslechnout si jeho názor. Najdeš ho nìkde poblí baru na Pøedmìstí. Hodnì štìstí. Spoléháme na tebe.}
-{220}{}{Mìl jsem tušit, e jsi jen další bezcitná svinì. Kvùli lidem, jako jsi ty, jsme zaloili tuto spoleènost. Víš co? Zapomeò na to. Nepotøebujeme pomoc od nìkoho, jako jsi ty. A teï radìji odejdi.}
-{221}{}{Mìl jsem tušit, e jsi jen další bezcitná svinì. Kvùli lidem, jako jsi ty, jsme zaloili tuto spoleènost. (Povzdychne si.) Fajn, pøihodíme další tisícovku, ale u nám nic nezbyde. Teï u nám ty zbranì dáš?}
-{222}{}{Jistì, bylo mi potìšením s vámi obchodovat. Nashle.}
-{223}{}{Vlastnì myslím, e jinde udìlám lepší obchod. Sbohem.}
-{225}{}{Vıbornì. Tady, dám ti za ty zbranì $5000. Jsou to sice všechny naše peníze, ale svoboda je dùleitìjší. Dìkujeme ti za tvoji slubu a vdy tì tu rádi uvítáme.}
-{226}{}{Dobrá, dávejte na sebe pozor.}
-{300}{}{Máš nìjaké novinky o našem problému?}
-{301}{}{Zatím ne. Dám vìdìt, a nìco zjistím.}
-{302}{}{Dobrá zpráva, podaøilo se mi pøesvìdèit radu Vault City, aby vaši vesnici nechali na pokoji.}
-{310}{}{Nechceš se s námi podìlit o zbranì, které sebou nosíš? Nabídneme ti za nì $5000.}
-{311}{}{To zní jako dobrı obchod. Tady jsou.}
-{312}{}{Ne, nechci. Venku je to nebezpeèné a já potøebuju všechny zbranì, které u sebe mám. Sbohem.}
-{400}{}{Díky, pøíteli. S tìmito zbranìmi máme koneènì šanci!}
-{401}{}{Vítej zpìt. Díky tobì jsme úspìšnì odrazili hlídku Vault City. U nás nebudou obtìovat.}
-{500}{}{Neobtìuj mì.}
-{600}{}{Jak e se jmenoval tvùj kontakt ve Vault City?}
-{601}{}{Starı Joe. Jak ji jméno napovídá, je to opravdu starı chlapík. Buï ho najdeš v baru na Pøedmìstí nebo bude nìkde kolem.}
-{602}{}{Dobrá, díky.}
-{603}{}{Kdo to vlastnì je?}
-{604}{}{Starı Joe je opravdovı charakter. Tvrdí o sobì, e je mu pøes sto let, ale nevím, jestli mu to mám vìøit. Tvrdí o sobì hodnì vìcí. Dokonce i to, e jednou pomohl zachránit svìt. Zná spoustu historek, ale øekl bych, e vìtšina z nich jsou jen kecy, i kdy poutavé. Dohlíí za nás na vìci ve Vault City a jde mu to náramnì dobøe vzhledem k tomu, e je starı jako Metuzalém a skoro slepı.}
-{605}{}{Zajímavé. U musím jít.}
-{606}{}{Øíká, e pomohl zachránit svìt? Víš, také jsem na takové vıpravì za záchranou svìta, tedy alespoò za záchranou *svého* svìta.}
-{610}{}{Aha. To se máš. No, tak a ti to vydrí. Jen nezapomeò na náš problém.}
-{611}{}{Ne, nezapomenu. Uvidíme se pozdìji.}
-{612}{}{Vlastnì na to nejspíš zapomenu. Mám tolik úkolù, e je tìké si je všechny pamatovat. Kdybych nemìl tenhle šikovnı Pip-Boy, kdo ví, kde by mì teï bylo konce? Zatím.}
-{700}{}{Jo, jasnì. Tady máš. [Dát mu $5000]}
-{701}{}{Promiò, objevily se nìjaké vıdaje.}
+{216}{}{[ÃšTOK]}
+{217}{}{Poslouchej, zaÄÃ­t vÃ¡lku s Vault City nenÃ­ Å™eÅ¡enÃ­. JistÄ›, moÅ¾nÃ¡ se dokÃ¡Å¾ete ubrÃ¡nit po nÄ›kolik mÄ›sÃ­cÅ¯, moÅ¾nÃ¡ i let, ale nevydrÅ¾Ã­te vÄ›ÄnÄ›. A v prÅ¯bÄ›hu toho pÅ™ijde spousta lidÃ­ zbyteÄnÄ› o Å¾ivot. Pokud se mi ale podaÅ™Ã­ pÅ™emluvit jednoho Älena rady ve Vault City, tak vÄ›Å™Ã­m, Å¾e se dohodnete na mÃ­rumilovnÃ©m Å™eÅ¡enÃ­.}
+{218}{}{Hmm... dobrÃ¡. VidÃ­m, Å¾e mÃ¡Å¡ zÃ¡jem o naÅ¡e dobro. KdyÅ¾ myslÃ­Å¡, Å¾e se ti podaÅ™Ã­ pÅ™emluvit jednoho z jejich ÄlenÅ¯, pak tedy prosÃ­m, zkus to. NicmÃ©nÄ› bych ti doporuÄil promluvit si se StarÃ½m Joem a vyslechnout si jeho nÃ¡zor. NajdeÅ¡ ho nÄ›kde poblÃ­Å¾ baru na PÅ™edmÄ›stÃ­. HodnÄ› Å¡tÄ›stÃ­. SpolÃ©hÃ¡me na tebe.}
+{220}{}{MÄ›l jsem tuÅ¡it, Å¾e jsi jen dalÅ¡Ã­ bezcitnÃ¡ svinÄ›. KvÅ¯li lidem, jako jsi ty, jsme zaloÅ¾ili tuto spoleÄnost. VÃ­Å¡ co? ZapomeÅˆ na to. NepotÅ™ebujeme pomoc od nÄ›koho, jako jsi ty. A teÄ radÄ›ji odejdi.}
+{221}{}{MÄ›l jsem tuÅ¡it, Å¾e jsi jen dalÅ¡Ã­ bezcitnÃ¡ svinÄ›. KvÅ¯li lidem, jako jsi ty, jsme zaloÅ¾ili tuto spoleÄnost. (Povzdychne si.) Fajn, pÅ™ihodÃ­me dalÅ¡Ã­ tisÃ­covku, ale uÅ¾ nÃ¡m nic nezbyde. TeÄ uÅ¾ nÃ¡m ty zbranÄ› dÃ¡Å¡?}
+{222}{}{JistÄ›, bylo mi potÄ›Å¡enÃ­m s vÃ¡mi obchodovat. Nashle.}
+{223}{}{VlastnÄ› myslÃ­m, Å¾e jinde udÄ›lÃ¡m lepÅ¡Ã­ obchod. Sbohem.}
+{225}{}{VÃ½bornÄ›. Tady, dÃ¡m ti za ty zbranÄ› $5000. Jsou to sice vÅ¡echny naÅ¡e penÃ­ze, ale svoboda je dÅ¯leÅ¾itÄ›jÅ¡Ã­. DÄ›kujeme ti za tvoji sluÅ¾bu a vÅ¾dy tÄ› tu rÃ¡di uvÃ­tÃ¡me.}
+{226}{}{DobrÃ¡, dÃ¡vejte na sebe pozor.}
+{300}{}{MÃ¡Å¡ nÄ›jakÃ© novinky o naÅ¡em problÃ©mu?}
+{301}{}{ZatÃ­m ne. DÃ¡m vÄ›dÄ›t, aÅ¾ nÄ›co zjistÃ­m.}
+{302}{}{DobrÃ¡ zprÃ¡va, podaÅ™ilo se mi pÅ™esvÄ›dÄit radu Vault City, aby vaÅ¡i vesnici nechali na pokoji.}
+{310}{}{NechceÅ¡ se s nÃ¡mi podÄ›lit o zbranÄ›, kterÃ© sebou nosÃ­Å¡? NabÃ­dneme ti za nÄ› $5000.}
+{311}{}{To znÃ­ jako dobrÃ½ obchod. Tady jsou.}
+{312}{}{Ne, nechci. Venku je to nebezpeÄnÃ© a jÃ¡ potÅ™ebuju vÅ¡echny zbranÄ›, kterÃ© u sebe mÃ¡m. Sbohem.}
+{400}{}{DÃ­ky, pÅ™Ã­teli. S tÄ›mito zbranÄ›mi mÃ¡me koneÄnÄ› Å¡anci!}
+{401}{}{VÃ­tej zpÄ›t. DÃ­ky tobÄ› jsme ÃºspÄ›Å¡nÄ› odrazili hlÃ­dku Vault City. UÅ¾ nÃ¡s nebudou obtÄ›Å¾ovat.}
+{500}{}{NeobtÄ›Å¾uj mÄ›.}
+{600}{}{Jak Å¾e se jmenoval tvÅ¯j kontakt ve Vault City?}
+{601}{}{StarÃ½ Joe. Jak jiÅ¾ jmÃ©no napovÃ­dÃ¡, je to opravdu starÃ½ chlapÃ­k. BuÄ ho najdeÅ¡ v baru na PÅ™edmÄ›stÃ­ nebo bude nÄ›kde kolem.}
+{602}{}{DobrÃ¡, dÃ­ky.}
+{603}{}{Kdo to vlastnÄ› je?}
+{604}{}{StarÃ½ Joe je opravdovÃ½ charakter. TvrdÃ­ o sobÄ›, Å¾e je mu pÅ™es sto let, ale nevÃ­m, jestli mu to mÃ¡m vÄ›Å™it. TvrdÃ­ o sobÄ› hodnÄ› vÄ›cÃ­. Dokonce i to, Å¾e jednou pomohl zachrÃ¡nit svÄ›t. ZnÃ¡ spoustu historek, ale Å™ekl bych, Å¾e vÄ›tÅ¡ina z nich jsou jen kecy, i kdyÅ¾ poutavÃ©. DohlÃ­Å¾Ã­ za nÃ¡s na vÄ›ci ve Vault City a jde mu to nÃ¡ramnÄ› dobÅ™e vzhledem k tomu, Å¾e je starÃ½ jako MetuzalÃ©m a skoro slepÃ½.}
+{605}{}{ZajÃ­mavÃ©. UÅ¾ musÃ­m jÃ­t.}
+{606}{}{Å˜Ã­kÃ¡, Å¾e pomohl zachrÃ¡nit svÄ›t? VÃ­Å¡, takÃ© jsem na takovÃ© vÃ½pravÄ› za zÃ¡chranou svÄ›ta, tedy alespoÅˆ za zÃ¡chranou *svÃ©ho* svÄ›ta.}
+{610}{}{Aha. To se mÃ¡Å¡. No, tak aÅ¥ ti to vydrÅ¾Ã­. Jen nezapomeÅˆ na nÃ¡Å¡ problÃ©m.}
+{611}{}{Ne, nezapomenu. UvidÃ­me se pozdÄ›ji.}
+{612}{}{VlastnÄ› na to nejspÃ­Å¡ zapomenu. MÃ¡m tolik ÃºkolÅ¯, Å¾e je tÄ›Å¾kÃ© si je vÅ¡echny pamatovat. Kdybych nemÄ›l tenhle Å¡ikovnÃ½ Pip-Boy, kdo vÃ­, kde by mÄ› teÄ bylo konce? ZatÃ­m.}
+{700}{}{Jo, jasnÄ›. Tady mÃ¡Å¡. [DÃ¡t mu $5000]}
+{701}{}{PromiÅˆ, objevily se nÄ›jakÃ© vÃ½daje.}
 {702}{}{Shit, I don't have enough to pay you back. I must've spent some without thinking about it. I'll get it back to you as soon as I can.}
-{710}{}{Díky. Tady. (Vrátí ti zpìt $2500.) Nech si je. To je to nejmenší, èím se ti mùeme odvdìèit.}
-{720}{}{Aha, chápu. No, pokud jsme si za to koupili svobodu, tak to za to stálo. Ještì jednou díky za všechno.}
-{730}{}{Nìco ti povím, co takhle nám vrátit jen pùlku? Máš $2500?}
-{731}{}{Jistì, tady. [Dát mu $2500]}
-{732}{}{Promiò, nemám ani to.}
-{740}{}{Dìkuju ti, }
-{741}{}{. Váíme si tvé pomoci.}
-{750}{}{Chápu... no, nedìlej si s tím starosti. Peníze nejsou tak dùleité jako naše svoboda. Dìkuju ti.}
+{710}{}{DÃ­ky. Tady. (VrÃ¡tÃ­ ti zpÄ›t $2500.) Nech si je. To je to nejmenÅ¡Ã­, ÄÃ­m se ti mÅ¯Å¾eme odvdÄ›Äit.}
+{720}{}{Aha, chÃ¡pu. No, pokud jsme si za to koupili svobodu, tak to za to stÃ¡lo. JeÅ¡tÄ› jednou dÃ­ky za vÅ¡echno.}
+{730}{}{NÄ›co ti povÃ­m, coÅ¾ takhle nÃ¡m vrÃ¡tit jen pÅ¯lku? MÃ¡Å¡ $2500?}
+{731}{}{JistÄ›, tady. [DÃ¡t mu $2500]}
+{732}{}{PromiÅˆ, nemÃ¡m ani to.}
+{740}{}{DÄ›kuju ti, }
+{741}{}{. VÃ¡Å¾Ã­me si tvÃ© pomoci.}
+{750}{}{ChÃ¡pu... no, nedÄ›lej si s tÃ­m starosti. PenÃ­ze nejsou tak dÅ¯leÅ¾itÃ© jako naÅ¡e svoboda. DÄ›kuju ti.}

@@ -1,56 +1,56 @@
-{100}{}{Malı chlapec.}
-{101}{}{Vidíš Jonnyho.}
-{102}{}{Blond vlasy, modré oèi, no prostì typicky americké dítì.}
-{150}{}{Áááááá!}
-{151}{}{Já chci zpátky svıho pejska!}
+{100}{}{MalÃ½ chlapec.}
+{101}{}{VidÃ­Å¡ Jonnyho.}
+{102}{}{Blond vlasy, modrÃ© oÄi, no prostÄ› typicky americkÃ© dÃ­tÄ›.}
+{150}{}{ÃÃ¡Ã¡Ã¡Ã¡Ã¡!}
+{151}{}{JÃ¡ chci zpÃ¡tky svÃ½ho pejska!}
 {152}{}{Whimper... }
 {153}{}{Cizinec!}
-{154}{}{Laddie! Chybìl jsi mi, chlapèe. Díky moc za jeho pøivedení.}
-{155}{}{Zdravím, vás jsem tu ještì nevidìl.}
+{154}{}{Laddie! ChybÄ›l jsi mi, chlapÄe. DÃ­ky moc za jeho pÅ™ivedenÃ­.}
+{155}{}{ZdravÃ­m, vÃ¡s jsem tu jeÅ¡tÄ› nevidÄ›l.}
 {156}{}{Ty jsi Jonny?}
-{157}{}{Jak se jmenuješ, chlapèe?}
-{158}{}{Øekni mi, jak se jmenuješ, ty malej parchante.}
-{159}{}{Chtìl bys bonbón, chlapèe?}
-{160}{}{Zdravím.}
-{166}{}{Posílají mì tvoji rodièe. Mám tì najít a pøivést domù.}
-{168}{}{U jste mluvil s Vegeirem o mım návratu domù?}
-{169}{}{Ano. Chce, aby si pro tebe tvoji rodièe pøišli a odvedli tì domù.}
-{170}{}{Ne, ještì ne.}
-{171}{}{Mùj táta øíkal, e šel Laddie s váma, abyste mì našli. Kde je? Chybí mi.}
-{172}{}{Je mi líto, Jonny, ale Laddie zemøel, kdy jsme se tì pokoušeli najít.}
-{173}{}{Róza øíkala, e se podívá po tvém psovi.}
+{157}{}{Jak se jmenujeÅ¡, chlapÄe?}
+{158}{}{Å˜ekni mi, jak se jmenujeÅ¡, ty malej parchante.}
+{159}{}{ChtÄ›l bys bonbÃ³n, chlapÄe?}
+{160}{}{ZdravÃ­m.}
+{166}{}{PosÃ­lajÃ­ mÄ› tvoji rodiÄe. MÃ¡m tÄ› najÃ­t a pÅ™ivÃ©st domÅ¯.}
+{168}{}{UÅ¾ jste mluvil s Vegeirem o mÃ½m nÃ¡vratu domÅ¯?}
+{169}{}{Ano. Chce, aby si pro tebe tvoji rodiÄe pÅ™iÅ¡li a odvedli tÄ› domÅ¯.}
+{170}{}{Ne, jeÅ¡tÄ› ne.}
+{171}{}{MÅ¯j tÃ¡ta Å™Ã­kal, Å¾e Å¡el Laddie s vÃ¡ma, abyste mÄ› naÅ¡li. Kde je? ChybÃ­ mi.}
+{172}{}{Je mi lÃ­to, Jonny, ale Laddie zemÅ™el, kdyÅ¾ jsme se tÄ› pokouÅ¡eli najÃ­t.}
+{173}{}{RÃ³za Å™Ã­kala, Å¾e se podÃ­vÃ¡ po tvÃ©m psovi.}
 {174}{}{Jmenuju se Jonny. A vy?}
 {175}{}{Jmenuju se }
 {176}{}{.}
-{177}{}{Moje jméno není dùleité.}
-{178}{}{Jmenuju se Jonny a nemám vás rád.}
-{179}{}{(Ukazuje na tebe a køièí.) Cizinec! Cizinec! Cizinec!}
-{180}{}{Rád vás vidím, }
+{177}{}{Moje jmÃ©no nenÃ­ dÅ¯leÅ¾itÃ©.}
+{178}{}{Jmenuju se Jonny a nemÃ¡m vÃ¡s rÃ¡d.}
+{179}{}{(Ukazuje na tebe a kÅ™iÄÃ­.) Cizinec! Cizinec! Cizinec!}
+{180}{}{RÃ¡d vÃ¡s vidÃ­m, }
 {181}{}{.}
-{182}{}{Zatím, chlapèe.}
-{183}{}{To by bylo parádní! Chci domù, ale Vegeir øíkal, e jeho lidi nemùou jít na povrch a odvıst mì domù... ne e bych vám nevìøil, ale jak se jmenuje mùj táta?}
+{182}{}{ZatÃ­m, chlapÄe.}
+{183}{}{To by bylo parÃ¡dnÃ­! Chci domÅ¯, ale Vegeir Å™Ã­kal, Å¾e jeho lidi nemÅ¯Å¾ou jÃ­t na povrch a odvÃ½st mÄ› domÅ¯... ne Å¾e bych vÃ¡m nevÄ›Å™il, ale jak se jmenuje mÅ¯j tÃ¡ta?}
 {184}{}{Farrel.}
 {185}{}{Cornelius.}
 {186}{}{Balthas.}
 {187}{}{Davin.}
 {188}{}{Joshua.}
-{189}{}{Ty mi nevìøíš, Jonny?}
-{190}{}{Hmm... ne. Díky, e jste pøivedl mıho psa, ale teï u musím jít. Nashle.}
-{191}{}{Rád jsem vás potkal, ale teï u musím jít. Nashle.}
-{192}{}{Paráda! Jupí! Pùjdu domù! Zeptejte se Vegeira, jestli mì mùete odvıst domù. Byl na mì hodnej a proto nechci odejít, dokud s tím nebude souhlasit. Pospìšte si prosím, chybí mi domov.}
-{193}{}{Tak jo, pane, vìøím vám. Zeptejte se Vegeira, jestli mì mùete odvıst domù. Byl na mì hodnej a proto nechci odejít, dokud s tím nebude souhlasit.}
-{194}{}{Tak jo, paní, vìøím vám. Zeptejte se Vegeira, jestli mì mùete odvıst domù. Byl na mì hodnej a proto nechci odejít, dokud s tím nebude souhlasit.}
-{195}{}{Ne. Jdu si teï hrát s kamarádama. Nashle.}
-{196}{}{Nemám mluvit s cizíma lidma. Nashle.}
-{197}{}{Ano, to je on! Odkud to víte? Urèitì vám to øekl Laddie, je to toti hroznì chytrej pes.}
-{199}{}{Pùjdeš se mnou, chlapèe. Dostanu odmìnu za tvoje navrácení.}
-{200}{}{Jo, to bude nejlepší. Sice vám vìøím, ale Vegeir se bude urèitì chtít pøesvìdèit, e se vrátím bezpeènì domù. Díky za vaši pomoc.}
-{201}{}{Pospìšte si, prosím. Chci u jít domù.}
-{202}{}{Ne! Nevìøím vám. Vrate mi mıho psa! (Bééééé!)}
-{203}{}{Ale ne! Copak nevíte, e Róza dìlá ze psù jídlo!? Z Laddie je teï nejspíš hamburger.}
+{189}{}{Ty mi nevÄ›Å™Ã­Å¡, Jonny?}
+{190}{}{Hmm... ne. DÃ­ky, Å¾e jste pÅ™ivedl mÃ½ho psa, ale teÄ uÅ¾ musÃ­m jÃ­t. Nashle.}
+{191}{}{RÃ¡d jsem vÃ¡s potkal, ale teÄ uÅ¾ musÃ­m jÃ­t. Nashle.}
+{192}{}{ParÃ¡da! JupÃ­! PÅ¯jdu domÅ¯! Zeptejte se Vegeira, jestli mÄ› mÅ¯Å¾ete odvÃ½st domÅ¯. Byl na mÄ› hodnej a proto nechci odejÃ­t, dokud s tÃ­m nebude souhlasit. PospÄ›Å¡te si prosÃ­m, chybÃ­ mi domov.}
+{193}{}{Tak jo, pane, vÄ›Å™Ã­m vÃ¡m. Zeptejte se Vegeira, jestli mÄ› mÅ¯Å¾ete odvÃ½st domÅ¯. Byl na mÄ› hodnej a proto nechci odejÃ­t, dokud s tÃ­m nebude souhlasit.}
+{194}{}{Tak jo, panÃ­, vÄ›Å™Ã­m vÃ¡m. Zeptejte se Vegeira, jestli mÄ› mÅ¯Å¾ete odvÃ½st domÅ¯. Byl na mÄ› hodnej a proto nechci odejÃ­t, dokud s tÃ­m nebude souhlasit.}
+{195}{}{Ne. Jdu si teÄ hrÃ¡t s kamarÃ¡dama. Nashle.}
+{196}{}{NemÃ¡m mluvit s cizÃ­ma lidma. Nashle.}
+{197}{}{Ano, to je on! Odkud to vÃ­te? UrÄitÄ› vÃ¡m to Å™ekl Laddie, je to totiÅ¾ hroznÄ› chytrej pes.}
+{199}{}{PÅ¯jdeÅ¡ se mnou, chlapÄe. Dostanu odmÄ›nu za tvoje navrÃ¡cenÃ­.}
+{200}{}{Jo, to bude nejlepÅ¡Ã­. Sice vÃ¡m vÄ›Å™Ã­m, ale Vegeir se bude urÄitÄ› chtÃ­t pÅ™esvÄ›dÄit, Å¾e se vrÃ¡tÃ­m bezpeÄnÄ› domÅ¯. DÃ­ky za vaÅ¡i pomoc.}
+{201}{}{PospÄ›Å¡te si, prosÃ­m. Chci uÅ¾ jÃ­t domÅ¯.}
+{202}{}{Ne! NevÄ›Å™Ã­m vÃ¡m. VraÅ¥te mi mÃ½ho psa! (BÃ©Ã©Ã©Ã©Ã©!)}
+{203}{}{Ale ne! Copak nevÃ­te, Å¾e RÃ³za dÄ›lÃ¡ ze psÅ¯ jÃ­dlo!? Z Laddie je teÄ nejspÃ­Å¡ hamburger.}
 {300}{}{Laddie!!!}
-{400}{}{Díky, e jste mì zachránil, pane.}
-{401}{}{Doma je to nejlepší!}
-{402}{}{Jupí...}
-{403}{}{U se nebojím tmy!}
-{404}{}{Díky, e jste mì zachránila, paní.}
+{400}{}{DÃ­ky, Å¾e jste mÄ› zachrÃ¡nil, pane.}
+{401}{}{Doma je to nejlepÅ¡Ã­!}
+{402}{}{JupÃ­...}
+{403}{}{UÅ¾ se nebojÃ­m tmy!}
+{404}{}{DÃ­ky, Å¾e jste mÄ› zachrÃ¡nila, panÃ­.}

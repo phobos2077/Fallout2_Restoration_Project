@@ -1,70 +1,70 @@
-{100}{}{Vidíš Frenchyho.}
-{101}{}{Vidíš Paina.}
-{102}{}{Vidíš Simse.}
-{150}{}{Vidíš uboze vypadajícího mue. Tiskne se k sudu s ohnìm a zpívá. Má velmi pìknı hlas.}
-{151}{}{Vidíš zpìváka. Tiskne se k sudu s ohnìm a zpívá.}
+{100}{}{VidÃ­Å¡ Frenchyho.}
+{101}{}{VidÃ­Å¡ Paina.}
+{102}{}{VidÃ­Å¡ Simse.}
+{150}{}{VidÃ­Å¡ uboze vypadajÃ­cÃ­ho muÅ¾e. Tiskne se k sudu s ohnÄ›m a zpÃ­vÃ¡. MÃ¡ velmi pÄ›knÃ½ hlas.}
+{151}{}{VidÃ­Å¡ zpÄ›vÃ¡ka. Tiskne se k sudu s ohnÄ›m a zpÃ­vÃ¡.}
 {200}{}{Nazdar... }
-{203}{}{Pomoz ti s njeèím, šampióne?}
-{204}{}{::Ukloní se.:: Pomoz vám s njeèím, madam?}
-{205}{}{Ty zná 'Láska je láska?'}
-{206}{}{Mùet ty... mùet ty zaspívat Flašky piva na zdi?}
-{207}{}{Neeee já teï jít.}
-{208}{}{Bude mi ctí. Díky, chlapi.}
-{209}{}{Tady je pár drobnıch. Mùete zahrát nìco jiného?}
-{210}{}{Ne, jen poslouchám. Díky.}
-{300}{}{Tak dobøe... slyšeli jste ho, chlapi. Zkusíme nìco jinıho.}
-{301}{}{Tak dobøe... slyšeli jste ji, chlapi. Zkusíme nìco jinıho.}
-{302}{}{Dík.}
-{303}{}{Díky, chlapi.}
-{400}{}{Óóóóó}
-{402}{}{Má láska se nevrací domù...}
-{405}{}{Má láska u mì asi nemá rááááda...}
-{408}{}{Má láska odešla a já zùstal tak sáááám...}
+{203}{}{Pomoz ti s njeÄÃ­m, Å¡ampiÃ³ne?}
+{204}{}{::UklonÃ­ se.:: Pomoz vÃ¡m s njeÄÃ­m, madam?}
+{205}{}{Ty znÃ¡Å¾ 'LÃ¡ska je lÃ¡ska?'}
+{206}{}{MÅ¯Å¾et ty... mÅ¯Å¾et ty zaspÃ­vat FlaÅ¡ky piva na zdi?}
+{207}{}{Neeee jÃ¡ teÄ jÃ­t.}
+{208}{}{Bude mi ctÃ­. DÃ­ky, chlapi.}
+{209}{}{Tady je pÃ¡r drobnÃ½ch. MÅ¯Å¾ete zahrÃ¡t nÄ›co jinÃ©ho?}
+{210}{}{Ne, jen poslouchÃ¡m. DÃ­ky.}
+{300}{}{Tak dobÅ™e... slyÅ¡eli jste ho, chlapi. ZkusÃ­me nÄ›co jinÃ½ho.}
+{301}{}{Tak dobÅ™e... slyÅ¡eli jste ji, chlapi. ZkusÃ­me nÄ›co jinÃ½ho.}
+{302}{}{DÃ­k.}
+{303}{}{DÃ­ky, chlapi.}
+{400}{}{Ã“Ã³Ã³Ã³Ã³}
+{402}{}{MÃ¡ lÃ¡ska se nevracÃ­ domÅ¯...}
+{405}{}{MÃ¡ lÃ¡ska uÅ¾ mÄ› asi nemÃ¡ rÃ¡Ã¡Ã¡Ã¡da...}
+{408}{}{MÃ¡ lÃ¡ska odeÅ¡la a jÃ¡ zÅ¯stal tak sÃ¡Ã¡Ã¡Ã¡m...}
 {409}{}{}
 {500}{}{Jdi na to}
-{501}{}{Zaij bolest}
-{502}{}{Zkuz to nìgdy jindy}
+{501}{}{ZaÅ¾ij bolest}
+{502}{}{Zkuz to nÄ›gdy jindy}
 {503}{}{}
-{600}{}{ flašek piva na zdi...}
-{601}{}{ flašek piva...}
-{602}{}{Sejmi jednu dolù...}
+{600}{}{ flaÅ¡ek piva na zdi...}
+{601}{}{ flaÅ¡ek piva...}
+{602}{}{Sejmi jednu dolÅ¯...}
 {603}{}{Podej jednu...}
 {605}{}{}
-{700}{}{Láska je láska...}
-{701}{}{...kdy chodìj kluci s klukama...}
+{700}{}{LÃ¡ska je lÃ¡ska...}
+{701}{}{...kdyÅ¾ chodÄ›j kluci s klukama...}
 {702}{}{...a holky s holkama.}
-{703}{}{Mácha má štìstí, e je kamennej...}
-{706}{}{...jinak by u nestál, smíchy by øval a byl by v pase zlomenej...}
+{703}{}{MÃ¡cha mÃ¡ Å¡tÄ›stÃ­, Å¾e je kamennej...}
+{706}{}{...jinak by uÅ¾ nestÃ¡l, smÃ­chy by Å™val a byl by v pase zlomenej...}
 {707}{}{}
-{800}{}{Nepotøebujem dalšího hrdinu...}
-{801}{}{Nepotøebujem vìdìt cestu zpìt domù...}
-{802}{}{Potøebujem jen to, co je na druhı stranì...}
+{800}{}{NepotÅ™ebujem dalÅ¡Ã­ho hrdinu...}
+{801}{}{NepotÅ™ebujem vÄ›dÄ›t cestu zpÄ›t domÅ¯...}
+{802}{}{PotÅ™ebujem jen to, co je na druhÃ½ stranÄ›...}
 {803}{}{Metadon}
 {804}{}{}
 {900}{}{Dej mi}
-{901}{}{Pusu, o které se mi bude zdát}
-{902}{}{A moje pøedstava}
-{903}{}{Se díky tomuto polibku uskuteèní}
+{901}{}{Pusu, o kterÃ© se mi bude zdÃ¡t}
+{902}{}{A moje pÅ™edstava}
+{903}{}{Se dÃ­ky tomuto polibku uskuteÄnÃ­}
 {904}{}{Mmmmm}
-{905}{}{Zlatíèko,}
-{906}{}{Nechci nic ne tohle:}
-{910}{}{Pusa pøed tím, ne odejdeš}
-{912}{}{Nasytí mé hladové srdce}
-{913}{}{Ponech mi aspoò jednu vìc døív ne se...}
-{915}{}{Kdy jsem sám}
-{916}{}{S mımi pøedstavami}
+{905}{}{ZlatÃ­Äko,}
+{906}{}{Nechci nic neÅ¾ tohle:}
+{910}{}{Pusa pÅ™ed tÃ­m, neÅ¾ odejdeÅ¡}
+{912}{}{NasytÃ­ mÃ© hladovÃ© srdce}
+{913}{}{Ponech mi aspoÅˆ jednu vÄ›c dÅ™Ã­v neÅ¾ se...}
+{915}{}{KdyÅ¾ jsem sÃ¡m}
+{916}{}{S mÃ½mi pÅ™edstavami}
 {917}{}{Budu s tebooou}
-{918}{}{Proívat romantiku}
-{919}{}{Vìøit, e je pravdivá}
-{920}{}{Ach, dej mi své rty aspoò na chvíli}
-{921}{}{A má pøedstavivost si ten moment pøedstaví...}
-{923}{}{Dej mi to, co mi mùeš dát}
+{918}{}{ProÅ¾Ã­vat romantiku}
+{919}{}{VÄ›Å™it, Å¾e je pravdivÃ¡}
+{920}{}{Ach, dej mi svÃ© rty aspoÅˆ na chvÃ­li}
+{921}{}{A mÃ¡ pÅ™edstavivost si ten moment pÅ™edstavÃ­...}
+{923}{}{Dej mi to, co mi mÅ¯Å¾eÅ¡ dÃ¡t}
 {925}{}{::Trumpeta::}
 {930}{}{I'll... be with yoooou}
-{933}{}{Ááách}
-{935}{}{Rty aspoò na chvíli}
-{937}{}{Si ten moment pøedstaví}
+{933}{}{ÃÃ¡Ã¡ch}
+{935}{}{Rty aspoÅˆ na chvÃ­li}
+{937}{}{Si ten moment pÅ™edstavÃ­}
 {941}{}{}
-{1200}{}{! Velkı hrdino! Jak ti mùeme pomoct? Co takhle kdybysme ti zazpívali nìco speciálního, hm?}
-{1201}{}{. Mùeme ti nìjak pomoct?}
-{1202}{}{. Pomoz ti s njeèím, šampióne?}
+{1200}{}{! VelkÃ½ hrdino! Jak ti mÅ¯Å¾eme pomoct? Co takhle kdybysme ti zazpÃ­vali nÄ›co speciÃ¡lnÃ­ho, hm?}
+{1201}{}{. MÅ¯Å¾eme ti nÄ›jak pomoct?}
+{1202}{}{. Pomoz ti s njeÄÃ­m, Å¡ampiÃ³ne?}

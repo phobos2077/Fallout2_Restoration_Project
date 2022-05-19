@@ -1,67 +1,67 @@
-{100}{}{Vidíš otrhaného zemìdìlce.}
-{101}{}{Vidíš pana Smithe.}
-{102}{}{Myslím, e jsem tì tu ještì nikdy pøedtím nevidìl, venkovane. Jmenuju se Smith. Potøebuješ s nìèím pomoct?}
-{103}{}{Chceš nìco jiného?}
-{104}{}{Mùete mi øíct nìco o Vault City?}
-{105}{}{Co tady dìláš?}
-{106}{}{Hledám Vault.}
-{107}{}{Pomùu ti s tím pluhem.}
-{108}{}{Tvoje ena øíká, e doba je zlá.}
-{109}{}{Ne, jen procházím kolem. Sbohem.}
+{100}{}{VidÃ­Å¡ otrhanÃ©ho zemÄ›dÄ›lce.}
+{101}{}{VidÃ­Å¡ pana Smithe.}
+{102}{}{MyslÃ­m, Å¾e jsem tÄ› tu jeÅ¡tÄ› nikdy pÅ™edtÃ­m nevidÄ›l, venkovane. Jmenuju se Smith. PotÅ™ebujeÅ¡ s nÄ›ÄÃ­m pomoct?}
+{103}{}{ChceÅ¡ nÄ›co jinÃ©ho?}
+{104}{}{MÅ¯Å¾ete mi Å™Ã­ct nÄ›co o Vault City?}
+{105}{}{Co tady dÄ›lÃ¡Å¡?}
+{106}{}{HledÃ¡m Vault.}
+{107}{}{PomÅ¯Å¾u ti s tÃ­m pluhem.}
+{108}{}{Tvoje Å¾ena Å™Ã­kÃ¡, Å¾e doba je zlÃ¡.}
+{109}{}{Ne, jen prochÃ¡zÃ­m kolem. Sbohem.}
 {110}{}{Eh... Waga Nu-kik?}
-{111}{}{No, to, co tady vidíš, není vlastnì skuteènı Vault City... stojíš toti na Pøedmìstí.}
-{112}{}{Proè nejste ve mìstì?}
-{113}{}{Co tady dìláš?}
-{114}{}{Mùu se vás zeptat na nìco jiného?}
-{115}{}{Díky. Sbohem.}
-{116}{}{Já a moje rodina pracujeme na farmì na Pøedmìstí. Nemáme se špatnì, ale nevím, jak dlouho to ještì vydrí.}
-{117}{}{Co je to za problém?}
-{118}{}{Proè nejste ve mìstì?}
-{119}{}{Mùu se vás zeptat na nìco jiného?}
-{120}{}{Jo, doba je zlá. Sbohem.}
-{121}{}{Pøesnì tak, velkı pøíteli. U musím jít.}
-{122}{}{Myslíš Vault uvnitø mìsta? Vidìl jsem ho jenom jednou... je uvnitø mìsta, nìkde podél skal. Aspoò myslím. Ale dovnitø pustí jenom Obèany.}
-{123}{}{Mùu se vás zeptat na nìco jiného?}
-{124}{}{Díky za informace. Sbohem.}
-{125}{}{Já a moje rodina nepatøíme k tìm, kterı pustìj dovnitø. Take ijeme tady pod jejich ochranou.}
-{126}{}{Proè nemùete ít uvnitø mìsta?}
-{127}{}{Ochranou? Jakı druh ochrany? }
-{128}{}{Mùu se vás zeptat na nìco jiného?}
-{129}{}{Aha. No, díky za tvùj èas. Sbohem.}
-{130}{}{No, bez pluhu je to tìkı. Zkoušíme orat bez nìj, ale jde to hroznì pomalu.}
-{131}{}{Potøebuješ pomoct?}
-{132}{}{Mùu se vás zeptat na nìco jiného?}
-{133}{}{No, to je mi líto. Sbohem.}
-{134}{}{Jasnì.}
-{135}{}{No, my jsme z pustiny... jako ty. Take od Vault City dostaneme jenom ochranu.}
-{136}{}{Jakı druh ochrany?}
-{137}{}{Mùu se vás zeptat na nìco jiného?}
-{138}{}{Díky. Sbohem.}
-{139}{}{Chrání nás pøed pustinou a jejími obyvateli, ale stojí nás to spoustu penìz. A bez pluhu... je to fakt tìkı.}
-{140}{}{Mùu ti s tím pluhem nìjak pomoct?}
-{141}{}{Mùu se vás zeptat na nìco jiného?}
-{142}{}{No, to je mi líto. Sbohem.}
-{143}{}{Já a moje ena nemluvíme s lidmi, jako jsi ty.}
-{144}{}{Marie, dr se dál od toho èlovìka.}
-{145}{}{Ty chceš pomoct lidem, jako jsme my? Nemùeme ti toho moc nabídnout, ale budeme ti vdìèní.}
-{146}{}{Hele, jestli nemáš peníze, tak ti nepomùu.}
-{147}{}{ádnı problém. Kdy mùu, pomùu.}
-{148}{}{Mùu se vás zeptat na nìco jiného?}
-{149}{}{Budu o tom pøemıšlet. Zatím nashle.}
-{150}{}{No, máme našetøeno asi $150, pokud to bude staèit, ale nebudeme schopni zaplatit další splátku, pokud nebudeme mít pluh do konce tıdne.}
-{151}{}{Vezmu si ty peníze.}
-{152}{}{O peníze se nestarejte. Pomùu vám i tak.}
-{153}{}{Zapomeòte na to... nemùu vám pomoct. Sbohem.}
-{154}{}{No, tak díky moc, venkovane.}
-{155}{}{Nevíš, kde by se dal nìjakı pluh sehnat?}
-{156}{}{Jeden je poblí obchodu se zbranìmi a støelivem. Harry ti ho moná prodá.}
-{157}{}{Dobøe, pùjdu se ho zeptat.}
-{158}{}{Máš ten pluh?}
-{159}{}{Bohuel zatím ne.}
-{160}{}{Myslím, e ti ho asi nedokáu sehnat.}
-{161}{}{No, ještì to chvíli bez nìj vydríme, ale pak u budeme v krizi.}
-{162}{}{Mùj táta mi øíkával, e na lidi, jako jsi ty, si mám dávat pozor... vypadni odsud. Padej!}
-{163}{}{Z celého srdce ti dìkuju. Mám tady nìco, co mi dal mùj táta ne odešel z tohohle svìta. Jeliko nás teï ochraòují stráe, tak u to nebudeme potøebovat... ale tobì se to moná bude hodit.}
-{164}{}{Mockrát díky. Vím urèitì, e se mi to bude hodit. Mìj se.}
-{165}{}{Díky za pomoc, venkovane. Jsme ti vdìèní.}
-{166}{}{Podaøilo se ti získat pluh pro pana Smithe a jeho rodinu.}
+{111}{}{No, to, co tady vidÃ­Å¡, nenÃ­ vlastnÄ› skuteÄnÃ½ Vault City... stojÃ­Å¡ totiÅ¾ na PÅ™edmÄ›stÃ­.}
+{112}{}{ProÄ nejste ve mÄ›stÄ›?}
+{113}{}{Co tady dÄ›lÃ¡Å¡?}
+{114}{}{MÅ¯Å¾u se vÃ¡s zeptat na nÄ›co jinÃ©ho?}
+{115}{}{DÃ­ky. Sbohem.}
+{116}{}{JÃ¡ a moje rodina pracujeme na farmÄ› na PÅ™edmÄ›stÃ­. NemÃ¡me se Å¡patnÄ›, ale nevÃ­m, jak dlouho to jeÅ¡tÄ› vydrÅ¾Ã­.}
+{117}{}{Co je to za problÃ©m?}
+{118}{}{ProÄ nejste ve mÄ›stÄ›?}
+{119}{}{MÅ¯Å¾u se vÃ¡s zeptat na nÄ›co jinÃ©ho?}
+{120}{}{Jo, doba je zlÃ¡. Sbohem.}
+{121}{}{PÅ™esnÄ› tak, velkÃ½ pÅ™Ã­teli. UÅ¾ musÃ­m jÃ­t.}
+{122}{}{MyslÃ­Å¡ Vault uvnitÅ™ mÄ›sta? VidÄ›l jsem ho jenom jednou... je uvnitÅ™ mÄ›sta, nÄ›kde podÃ©l skal. AspoÅˆ myslÃ­m. Ale dovnitÅ™ pustÃ­ jenom ObÄany.}
+{123}{}{MÅ¯Å¾u se vÃ¡s zeptat na nÄ›co jinÃ©ho?}
+{124}{}{DÃ­ky za informace. Sbohem.}
+{125}{}{JÃ¡ a moje rodina nepatÅ™Ã­me k tÄ›m, kterÃ½ pustÄ›j dovnitÅ™. TakÅ¾e Å¾ijeme tady pod jejich ochranou.}
+{126}{}{ProÄ nemÅ¯Å¾ete Å¾Ã­t uvnitÅ™ mÄ›sta?}
+{127}{}{Ochranou? JakÃ½ druh ochrany? }
+{128}{}{MÅ¯Å¾u se vÃ¡s zeptat na nÄ›co jinÃ©ho?}
+{129}{}{Aha. No, dÃ­ky za tvÅ¯j Äas. Sbohem.}
+{130}{}{No, bez pluhu je to tÄ›Å¾kÃ½. ZkouÅ¡Ã­me orat bez nÄ›j, ale jde to hroznÄ› pomalu.}
+{131}{}{PotÅ™ebujeÅ¡ pomoct?}
+{132}{}{MÅ¯Å¾u se vÃ¡s zeptat na nÄ›co jinÃ©ho?}
+{133}{}{No, to je mi lÃ­to. Sbohem.}
+{134}{}{JasnÄ›.}
+{135}{}{No, my jsme z pustiny... jako ty. TakÅ¾e od Vault City dostaneme jenom ochranu.}
+{136}{}{JakÃ½ druh ochrany?}
+{137}{}{MÅ¯Å¾u se vÃ¡s zeptat na nÄ›co jinÃ©ho?}
+{138}{}{DÃ­ky. Sbohem.}
+{139}{}{ChrÃ¡nÃ­ nÃ¡s pÅ™ed pustinou a jejÃ­mi obyvateli, ale stojÃ­ nÃ¡s to spoustu penÄ›z. A bez pluhu... je to fakt tÄ›Å¾kÃ½.}
+{140}{}{MÅ¯Å¾u ti s tÃ­m pluhem nÄ›jak pomoct?}
+{141}{}{MÅ¯Å¾u se vÃ¡s zeptat na nÄ›co jinÃ©ho?}
+{142}{}{No, to je mi lÃ­to. Sbohem.}
+{143}{}{JÃ¡ a moje Å¾ena nemluvÃ­me s lidmi, jako jsi ty.}
+{144}{}{Marie, drÅ¾ se dÃ¡l od toho ÄlovÄ›ka.}
+{145}{}{Ty chceÅ¡ pomoct lidem, jako jsme my? NemÅ¯Å¾eme ti toho moc nabÃ­dnout, ale budeme ti vdÄ›ÄnÃ­.}
+{146}{}{Hele, jestli nemÃ¡Å¡ penÃ­ze, tak ti nepomÅ¯Å¾u.}
+{147}{}{Å½Ã¡dnÃ½ problÃ©m. KdyÅ¾ mÅ¯Å¾u, pomÅ¯Å¾u.}
+{148}{}{MÅ¯Å¾u se vÃ¡s zeptat na nÄ›co jinÃ©ho?}
+{149}{}{Budu o tom pÅ™emÃ½Å¡let. ZatÃ­m nashle.}
+{150}{}{No, mÃ¡me naÅ¡etÅ™eno asi $150, pokud to bude staÄit, ale nebudeme schopni zaplatit dalÅ¡Ã­ splÃ¡tku, pokud nebudeme mÃ­t pluh do konce tÃ½dne.}
+{151}{}{Vezmu si ty penÃ­ze.}
+{152}{}{O penÃ­ze se nestarejte. PomÅ¯Å¾u vÃ¡m i tak.}
+{153}{}{ZapomeÅˆte na to... nemÅ¯Å¾u vÃ¡m pomoct. Sbohem.}
+{154}{}{No, tak dÃ­ky moc, venkovane.}
+{155}{}{NevÃ­Å¡, kde by se dal nÄ›jakÃ½ pluh sehnat?}
+{156}{}{Jeden je poblÃ­Å¾ obchodu se zbranÄ›mi a stÅ™elivem. Harry ti ho moÅ¾nÃ¡ prodÃ¡.}
+{157}{}{DobÅ™e, pÅ¯jdu se ho zeptat.}
+{158}{}{MÃ¡Å¡ ten pluh?}
+{159}{}{BohuÅ¾el zatÃ­m ne.}
+{160}{}{MyslÃ­m, Å¾e ti ho asi nedokÃ¡Å¾u sehnat.}
+{161}{}{No, jeÅ¡tÄ› to chvÃ­li bez nÄ›j vydrÅ¾Ã­me, ale pak uÅ¾ budeme v krizi.}
+{162}{}{MÅ¯j tÃ¡ta mi Å™Ã­kÃ¡val, Å¾e na lidi, jako jsi ty, si mÃ¡m dÃ¡vat pozor... vypadni odsud. Padej!}
+{163}{}{Z celÃ©ho srdce ti dÄ›kuju. MÃ¡m tady nÄ›co, co mi dal mÅ¯j tÃ¡ta neÅ¾ odeÅ¡el z tohohle svÄ›ta. JelikoÅ¾ nÃ¡s teÄ ochraÅˆujÃ­ strÃ¡Å¾e, tak uÅ¾ to nebudeme potÅ™ebovat... ale tobÄ› se to moÅ¾nÃ¡ bude hodit.}
+{164}{}{MockrÃ¡t dÃ­ky. VÃ­m urÄitÄ›, Å¾e se mi to bude hodit. MÄ›j se.}
+{165}{}{DÃ­ky za pomoc, venkovane. Jsme ti vdÄ›ÄnÃ­.}
+{166}{}{PodaÅ™ilo se ti zÃ­skat pluh pro pana Smithe a jeho rodinu.}

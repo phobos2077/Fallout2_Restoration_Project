@@ -1,53 +1,53 @@
-{100}{}{Vidíš bezdomovce.}
-{101}{}{Vidíš mue doslova obaleného špínou a kdejakım svinstvem.}
-{102}{}{Vidíš enu doslova obalenou špínou a kdejakım svinstvem.}
-{103}{}{Co chceš?}
-{104}{}{Chci, abys se svımi pøáteli opustil tuhle budovu. Doneslo se mi, e Máma zamıšlí promìnit tohle místo
- v sirotèinec, aby dostala všechny dìti bez domova pryè z ulice. To ale nemùe udìlat, dokud tady vy squattujete.}
-{105}{}{(Nervóznì se zahihòá a oèima hledá podporu u ostatních squatterù.) Máma dobøe ví, jak se vìci mají. Dokud nenavalí prachy,
- nikam se ani nehnem. Take pokud u sebe nemáš milion babek, tak se jdi vysrat.}
-{106}{}{Tak podívej, Máma nemá tolik penìz a i kdyby ano, nikdy by vám nezaplatila, take na to zapomeòte. Co takhle ukázat
- trochu slušnosti a jít squattovat nìkam jinam? Ty dìcka bez domova potøebují tohle místo setsakra víc ne vy.}
-{107}{}{Kdo si vùbec myslíš, e jseš, takhle o tom rozhodovat? Nám se tady "líbí", nemùeš nás donutit odejít.}
-{108}{}{Tak poslyš, máte dvì monosti. Buï odsud odejdete po svıch, nebo vás všechny vytahám ven já,
+{100}{}{VidÃ­Å¡ bezdomovce.}
+{101}{}{VidÃ­Å¡ muÅ¾e doslova obalenÃ©ho Å¡pÃ­nou a kdejakÃ½m svinstvem.}
+{102}{}{VidÃ­Å¡ Å¾enu doslova obalenou Å¡pÃ­nou a kdejakÃ½m svinstvem.}
+{103}{}{Co chceÅ¡?}
+{104}{}{Chci, abys se svÃ½mi pÅ™Ã¡teli opustil tuhle budovu. Doneslo se mi, Å¾e MÃ¡ma zamÃ½Å¡lÃ­ promÄ›nit tohle mÃ­sto
+ v sirotÄinec, aby dostala vÅ¡echny dÄ›ti bez domova pryÄ z ulice. To ale nemÅ¯Å¾e udÄ›lat, dokud tady vy squattujete.}
+{105}{}{(NervÃ³znÄ› se zahihÅˆÃ¡ a oÄima hledÃ¡ podporu u ostatnÃ­ch squatterÅ¯.) MÃ¡ma dobÅ™e vÃ­, jak se vÄ›ci majÃ­. Dokud nenavalÃ­ prachy,
+ nikam se ani nehnem. TakÅ¾e pokud u sebe nemÃ¡Å¡ milion babek, tak se jdi vysrat.}
+{106}{}{Tak podÃ­vej, MÃ¡ma nemÃ¡ tolik penÄ›z a i kdyby ano, nikdy by vÃ¡m nezaplatila, takÅ¾e na to zapomeÅˆte. Co takhle ukÃ¡zat
+ trochu sluÅ¡nosti a jÃ­t squattovat nÄ›kam jinam? Ty dÄ›cka bez domova potÅ™ebujÃ­ tohle mÃ­sto setsakra vÃ­c neÅ¾ vy.}
+{107}{}{Kdo si vÅ¯bec myslÃ­Å¡, Å¾e jseÅ¡, takhle o tom rozhodovat? NÃ¡m se tady "lÃ­bÃ­", nemÅ¯Å¾eÅ¡ nÃ¡s donutit odejÃ­t.}
+{108}{}{Tak poslyÅ¡, mÃ¡te dvÄ› moÅ¾nosti. BuÄ odsud odejdete po svÃ½ch, nebo vÃ¡s vÅ¡echny vytahÃ¡m ven jÃ¡,
  hezky jednu mrtvolu za druhou.}
-{109}{}{(Vymìní si nìkolik pohledù se svımi spoleèníky, poté se podívá zpìt na tebe a zavrtí hlavou.) Nás jen tak nezastrašíš.
- Nikdo nás odsud nevykopne. Budeme s tebou klidnì bojovat.}
-{110}{}{(Vymìní si nìkolik pohledù se svımi spoleèníky, poté se podívá zpìt na tebe a pøikıvne.) Dobøe, je mi to naprosto jasnı. Není to tak,
- e bysme nenávidìli dìti a tak, to fakt ne, vìtšina z nás byla sama jako dítì bez domova, jen se snaíme vydìlat nìjakı prachy, víš?
- Jene jediná práce v okolí obnáší prodávání drog nebo mlácení lidí a to není pro nás. (Povzdechne si.) Dobøe, odejdeme, ale kam si myslíš,
- e máme asi tak jít? Tohle místo je náš domov.}
-{111}{}{Nevím, to není mùj problém.}
-{112}{}{Moná toho budu litovat, ale pokud to s tou prací myslíte opravdu vánì, Mámì se bude pøi opravì tohohle místa urèitì nìjaká pomoc hodit. Je to opravdu moc milá dáma,
- take pokud se jí omluvíte, moná vám dá šanci dokázat, e jste víc ne jen banda línıch prospìcháøù. Pùjdu si s ní o tom promluvit, ale jestli se jen pokusíte
- s ní vyjebat, najdu si vás a krutì za to zaplatíte.}
-{113}{}{Do hajzlu s tím, rozmyslel jsem si to. Nikam nejdem. Zùstaneme tady a budeme bojovat.}
-{114}{}{(Vymìní si nìkolik pohledù se svımi spoleèníky a zváí tvá slova.) Víš ty co? To nezní vùbec špatnì. Vlastnì to mùe bejt opravdu skvìlı,
- pokud si fakt myslíš, e bude Máma pro. Zatímco si s ní pùjdeš promluvit, zaèneme tu uklízet. Jo a díky e to bereš tak v pohodì.}
-{115}{}{Zapomeò na to.}
-{116}{}{Ona vám v ádném pøípadì nezaplatí, ale mám pro vás novou nabídku: Ty a tvoji pøátelé teï odsud odejdete a zùstanete naivu.}
-{117}{}{Tak dobøe, no, zkusil jsem to. Nashle.}
-{120}{}{To je skvìlej nápad. Všechno tu pøipravíme.}
+{109}{}{(VymÄ›nÃ­ si nÄ›kolik pohledÅ¯ se svÃ½mi spoleÄnÃ­ky, potÃ© se podÃ­vÃ¡ zpÄ›t na tebe a zavrtÃ­ hlavou.) NÃ¡s jen tak nezastraÅ¡Ã­Å¡.
+ Nikdo nÃ¡s odsud nevykopne. Budeme s tebou klidnÄ› bojovat.}
+{110}{}{(VymÄ›nÃ­ si nÄ›kolik pohledÅ¯ se svÃ½mi spoleÄnÃ­ky, potÃ© se podÃ­vÃ¡ zpÄ›t na tebe a pÅ™ikÃ½vne.) DobÅ™e, je mi to naprosto jasnÃ½. NenÃ­ to tak,
+ Å¾e bysme nenÃ¡vidÄ›li dÄ›ti a tak, to fakt ne, vÄ›tÅ¡ina z nÃ¡s byla sama jako dÃ­tÄ› bez domova, jen se snaÅ¾Ã­me vydÄ›lat nÄ›jakÃ½ prachy, vÃ­Å¡?
+ JenÅ¾e jedinÃ¡ prÃ¡ce v okolÃ­ obnÃ¡Å¡Ã­ prodÃ¡vÃ¡nÃ­ drog nebo mlÃ¡cenÃ­ lidÃ­ a to nenÃ­ pro nÃ¡s. (Povzdechne si.) DobÅ™e, odejdeme, ale kam si myslÃ­Å¡,
+ Å¾e mÃ¡me asi tak jÃ­t? Tohle mÃ­sto je nÃ¡Å¡ domov.}
+{111}{}{NevÃ­m, to nenÃ­ mÅ¯j problÃ©m.}
+{112}{}{MoÅ¾nÃ¡ toho budu litovat, ale pokud to s tou pracÃ­ myslÃ­te opravdu vÃ¡Å¾nÄ›, MÃ¡mÄ› se bude pÅ™i opravÄ› tohohle mÃ­sta urÄitÄ› nÄ›jakÃ¡ pomoc hodit. Je to opravdu moc milÃ¡ dÃ¡ma,
+ takÅ¾e pokud se jÃ­ omluvÃ­te, moÅ¾nÃ¡ vÃ¡m dÃ¡ Å¡anci dokÃ¡zat, Å¾e jste vÃ­c neÅ¾ jen banda lÃ­nÃ½ch prospÄ›chÃ¡Å™Å¯. PÅ¯jdu si s nÃ­ o tom promluvit, ale jestli se jen pokusÃ­te
+ s nÃ­ vyjebat, najdu si vÃ¡s a krutÄ› za to zaplatÃ­te.}
+{113}{}{Do hajzlu s tÃ­m, rozmyslel jsem si to. Nikam nejdem. ZÅ¯staneme tady a budeme bojovat.}
+{114}{}{(VymÄ›nÃ­ si nÄ›kolik pohledÅ¯ se svÃ½mi spoleÄnÃ­ky a zvÃ¡Å¾Ã­ tvÃ¡ slova.) VÃ­Å¡ ty co? To neznÃ­ vÅ¯bec Å¡patnÄ›. VlastnÄ› to mÅ¯Å¾e bejt opravdu skvÄ›lÃ½,
+ pokud si fakt myslÃ­Å¡, Å¾e bude MÃ¡ma pro. ZatÃ­mco si s nÃ­ pÅ¯jdeÅ¡ promluvit, zaÄneme tu uklÃ­zet. Jo a dÃ­ky Å¾e to bereÅ¡ tak v pohodÄ›.}
+{115}{}{ZapomeÅˆ na to.}
+{116}{}{Ona vÃ¡m v Å¾Ã¡dnÃ©m pÅ™Ã­padÄ› nezaplatÃ­, ale mÃ¡m pro vÃ¡s novou nabÃ­dku: Ty a tvoji pÅ™Ã¡telÃ© teÄ odsud odejdete a zÅ¯stanete naÅ¾ivu.}
+{117}{}{Tak dobÅ™e, no, zkusil jsem to. Nashle.}
+{120}{}{To je skvÄ›lej nÃ¡pad. VÅ¡echno tu pÅ™ipravÃ­me.}
 {200}{}{He?}
-{201}{}{Tohle je naše místo.}
-{202}{}{Ty tu taky squattuješ?}
-{203}{}{Nemáš nìco k jídlu?}
-{300}{}{Vidíš mue v pracovních šatech.}
-{301}{}{Vidíš enu v pracovních šatech.}
-{310}{}{Hele, fakt díky, e jsi to pro nás zaøídil. Budeme tvrdì makat.}
-{311}{}{To byste mìli. A taky dohlédnìte na to, aby se dìti nedostaly do problémù.}
-{312}{}{Budeme se snait.}
+{201}{}{Tohle je naÅ¡e mÃ­sto.}
+{202}{}{Ty tu taky squattujeÅ¡?}
+{203}{}{NemÃ¡Å¡ nÄ›co k jÃ­dlu?}
+{300}{}{VidÃ­Å¡ muÅ¾e v pracovnÃ­ch Å¡atech.}
+{301}{}{VidÃ­Å¡ Å¾enu v pracovnÃ­ch Å¡atech.}
+{310}{}{Hele, fakt dÃ­ky, Å¾e jsi to pro nÃ¡s zaÅ™Ã­dil. Budeme tvrdÄ› makat.}
+{311}{}{To byste mÄ›li. A taky dohlÃ©dnÄ›te na to, aby se dÄ›ti nedostaly do problÃ©mÅ¯.}
+{312}{}{Budeme se snaÅ¾it.}
 {313}{}{Nashle.}
-{350}{}{Kamkoliv, jen ne sem. Den je velké mìsto, take si urèitì dokáete najít i jiné místo. No tak, to vánì chcete, aby ty dìti ily na ulici?}
-{351}{}{Hmmm, máš pravdu, to fakt pro dìcka není dobrı. Tak dobøe, sbalíme si vìci a odejdeme. Tenhle barák má stejnì dìravou støechu.}
-{352}{}{Díky. Bude to pro nì hodnì znamenat. Mìjte se.}
-{353}{}{Ne, to není náš problém. Kdy si Máma myslí, e je tak dùleitı dostat ty dìcka z ulice, tak a pøestane bejt takovej škrt a podìlí se o svoje bohatství.
- Jo, rozmyslel jsem si to, nikam se ani nehnem, dokud nezaplatí. Tím jsme spolu skonèili, take radši vypadni, jestli víš, co je pro tebe dobrı.}
-{360}{}{Tak dobøe. Není tøeba se hned uchylovat k násilí. Nechám vás bıt.}
-{361}{}{V tom pøípadì je naèase to tu trochu vyèistit. (Zaútoèit)}
-{400}{}{Ještì jednou díky!}
-{401}{}{Budeme tvrdì makat.}
-{402}{}{Díky, e to bereš tak v pohodì.}
-{403}{}{Nezklamem tì.}
-{500}{}{Sbalíme si vìci a brzy vypadneme.}
-{600}{}{Podaøilo se ti zbavit všech squatterù.}
+{350}{}{Kamkoliv, jen ne sem. Den je velkÃ© mÄ›sto, takÅ¾e si urÄitÄ› dokÃ¡Å¾ete najÃ­t i jinÃ© mÃ­sto. No tak, to vÃ¡Å¾nÄ› chcete, aby ty dÄ›ti Å¾ily na ulici?}
+{351}{}{Hmmm, mÃ¡Å¡ pravdu, to fakt pro dÄ›cka nenÃ­ dobrÃ½. Tak dobÅ™e, sbalÃ­me si vÄ›ci a odejdeme. Tenhle barÃ¡k mÃ¡ stejnÄ› dÄ›ravou stÅ™echu.}
+{352}{}{DÃ­ky. Bude to pro nÄ› hodnÄ› znamenat. MÄ›jte se.}
+{353}{}{Ne, to nenÃ­ nÃ¡Å¡ problÃ©m. KdyÅ¾ si MÃ¡ma myslÃ­, Å¾e je tak dÅ¯leÅ¾itÃ½ dostat ty dÄ›cka z ulice, tak aÅ¥ pÅ™estane bejt takovej Å¡krt a podÄ›lÃ­ se o svoje bohatstvÃ­.
+ Jo, rozmyslel jsem si to, nikam se ani nehnem, dokud nezaplatÃ­. TÃ­m jsme spolu skonÄili, takÅ¾e radÅ¡i vypadni, jestli vÃ­Å¡, co je pro tebe dobrÃ½.}
+{360}{}{Tak dobÅ™e. NenÃ­ tÅ™eba se hned uchylovat k nÃ¡silÃ­. NechÃ¡m vÃ¡s bÃ½t.}
+{361}{}{V tom pÅ™Ã­padÄ› je naÄase to tu trochu vyÄistit. (ZaÃºtoÄit)}
+{400}{}{JeÅ¡tÄ› jednou dÃ­ky!}
+{401}{}{Budeme tvrdÄ› makat.}
+{402}{}{DÃ­ky, Å¾e to bereÅ¡ tak v pohodÄ›.}
+{403}{}{Nezklamem tÄ›.}
+{500}{}{SbalÃ­me si vÄ›ci a brzy vypadneme.}
+{600}{}{PodaÅ™ilo se ti zbavit vÅ¡ech squatterÅ¯.}

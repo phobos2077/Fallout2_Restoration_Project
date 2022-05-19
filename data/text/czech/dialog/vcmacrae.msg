@@ -1,68 +1,68 @@
-{100}{}{Vidíš postaršího mue s hlubokımi vráskami na tváøi.}
-{101}{}{Vidíš Johna MacRae.}
-{102}{}{Hej ty, ještì jsem tì tu nikdy pøedtím nevidìl. Jsem MacRae a mám to tu na starost. Co pro tebe mùu udìlat?}
-{103}{}{Hledám Vault.}
-{104}{}{Vypadá to, jako bys chtìl odsud vypadnout, nemám pravdu?}
-{105}{}{Co tu máš k pití?}
-{106}{}{Dìje se tu nìco zvláštního?}
+{100}{}{VidÃ­Å¡ postarÅ¡Ã­ho muÅ¾e s hlubokÃ½mi vrÃ¡skami na tvÃ¡Å™i.}
+{101}{}{VidÃ­Å¡ Johna MacRae.}
+{102}{}{Hej ty, jeÅ¡tÄ› jsem tÄ› tu nikdy pÅ™edtÃ­m nevidÄ›l. Jsem MacRae a mÃ¡m to tu na starost. Co pro tebe mÅ¯Å¾u udÄ›lat?}
+{103}{}{HledÃ¡m Vault.}
+{104}{}{VypadÃ¡ to, jako bys chtÄ›l odsud vypadnout, nemÃ¡m pravdu?}
+{105}{}{Co tu mÃ¡Å¡ k pitÃ­?}
+{106}{}{DÄ›je se tu nÄ›co zvlÃ¡Å¡tnÃ­ho?}
 {107}{}{Ug Gugu}
-{108}{}{Dnes nic, díky.}
-{109}{}{Vault? Jedinı Vault, kterı znám, je uvnitø mìsta. Je to ta velká èerná díra... nemùeš to minout, vìø mi.}
-{110}{}{Co tu máš k pití?}
-{111}{}{Dìje se tu nìco zvláštního?}
-{112}{}{Díky za informace. Sbohem.}
-{113}{}{Standardní ceny. Pivo za $20, panák whisky za $30. ádné speciality. Dáš si teda nìco?}
-{114}{}{Víš nìco o Vaultu?}
-{115}{}{Dám si pivo.}
-{116}{}{Dám si panáka.}
-{117}{}{Co se tady dìje?}
-{118}{}{Dnes nic, díky. Nashle.}
-{119}{}{Tady? Poøád ty samé staré vìci. Obèas mì to nudí a k pláèi. Proè, hledáš snad nìco?}
-{120}{}{Co tu máš k pití?}
-{121}{}{Víš nìco o Vaultu?}
-{122}{}{Nemùe to bıt a tak špatné.}
+{108}{}{Dnes nic, dÃ­ky.}
+{109}{}{Vault? JedinÃ½ Vault, kterÃ½ znÃ¡m, je uvnitÅ™ mÄ›sta. Je to ta velkÃ¡ ÄernÃ¡ dÃ­ra... nemÅ¯Å¾eÅ¡ to minout, vÄ›Å™ mi.}
+{110}{}{Co tu mÃ¡Å¡ k pitÃ­?}
+{111}{}{DÄ›je se tu nÄ›co zvlÃ¡Å¡tnÃ­ho?}
+{112}{}{DÃ­ky za informace. Sbohem.}
+{113}{}{StandardnÃ­ ceny. Pivo za $20, panÃ¡k whisky za $30. Å½Ã¡dnÃ© speciality. DÃ¡Å¡ si teda nÄ›co?}
+{114}{}{VÃ­Å¡ nÄ›co o Vaultu?}
+{115}{}{DÃ¡m si pivo.}
+{116}{}{DÃ¡m si panÃ¡ka.}
+{117}{}{Co se tady dÄ›je?}
+{118}{}{Dnes nic, dÃ­ky. Nashle.}
+{119}{}{Tady? PoÅ™Ã¡d ty samÃ© starÃ© vÄ›ci. ObÄas mÄ› to nudÃ­ aÅ¾ k plÃ¡Äi. ProÄ, hledÃ¡Å¡ snad nÄ›co?}
+{120}{}{Co tu mÃ¡Å¡ k pitÃ­?}
+{121}{}{VÃ­Å¡ nÄ›co o Vaultu?}
+{122}{}{NemÅ¯Å¾e to bÃ½t aÅ¾ tak Å¡patnÃ©.}
 {123}{}{Nic. Nashle.}
-{124}{}{Vidím, e tì asi èasto mlátili do hlavy. Promiò, ale nemluvím s imbecily.}
-{125}{}{Tady to máš. Jen se napij. To je toti jediná zábava, kterou zaiješ v tıhle díøe.}
-{126}{}{Nemùe to bıt a tak špatné.}
-{127}{}{Díky za drink. Asi u pùjdu.}
-{128}{}{Podívej. Ptal jsem se tì, jestli chceš drink, tak øíkám, kolik to bude stát. Vìtšina lidí ten proces pochopí. Jestli nemáš prachy, tak nechápu, proè se ptáš.}
-{129}{}{Promiò. Myslím, e nìjaké peníze mám. Kdy nevidím stav svého konta na obrazovce, tak mi to dìlá obèas problémy, víš?}
-{130}{}{Jo... jasnì. Jdu pryè.}
-{131}{}{Je to ještì horší. Obèané toho moc nevypijí, ale aspoò pár panákù prodám kupcùm. Kadı další parchant, kterı se mnou bude handrkovat o cenì drinku, si bude doma prohlíet otisky mıch bot na svém pozadí.}
-{132}{}{To zní, jako bys toho tady mìl a po krk.}
-{133}{}{To je mi líto. Co víš o Vaultu?}
-{134}{}{Všichni dìlámy chyby... a nìkdo èastìji ne ostatní. Take co potøebuješ?}
-{135}{}{Co se tady dìje?}
-{136}{}{Dnes nic, díky. Nashle.}
-{137}{}{Jo, pøál bych si, abych odsud mohl vypadnout.}
-{138}{}{Tak proè prostì neodejdeš?}
-{139}{}{Jít sám do pustiny? Sice se nudím, ale nejsem blbec.}
-{140}{}{Brzy se chystám jít zpátky do pustiny. Nechceš jít se mnou?}
-{141}{}{Tak hodnì štìstí.}
-{142}{}{Ne... vypadá to, e u máš dost lidí, kteøí tì následují.}
-{143}{}{Dobrá, tak hodnì štìstí.}
-{144}{}{Víš, to není a tak špatnı nápad. Mùeš se mnou poèítat.}
+{124}{}{VidÃ­m, Å¾e tÄ› asi Äasto mlÃ¡tili do hlavy. PromiÅˆ, ale nemluvÃ­m s imbecily.}
+{125}{}{Tady to mÃ¡Å¡. Jen se napij. To je totiÅ¾ jedinÃ¡ zÃ¡bava, kterou zaÅ¾ijeÅ¡ v tÃ½hle dÃ­Å™e.}
+{126}{}{NemÅ¯Å¾e to bÃ½t aÅ¾ tak Å¡patnÃ©.}
+{127}{}{DÃ­ky za drink. Asi uÅ¾ pÅ¯jdu.}
+{128}{}{PodÃ­vej. Ptal jsem se tÄ›, jestli chceÅ¡ drink, tak Å™Ã­kÃ¡m, kolik to bude stÃ¡t. VÄ›tÅ¡ina lidÃ­ ten proces pochopÃ­. Jestli nemÃ¡Å¡ prachy, tak nechÃ¡pu, proÄ se ptÃ¡Å¡.}
+{129}{}{PromiÅˆ. MyslÃ­m, Å¾e nÄ›jakÃ© penÃ­ze mÃ¡m. KdyÅ¾ nevidÃ­m stav svÃ©ho konta na obrazovce, tak mi to dÄ›lÃ¡ obÄas problÃ©my, vÃ­Å¡?}
+{130}{}{Jo... jasnÄ›. Jdu pryÄ.}
+{131}{}{Je to jeÅ¡tÄ› horÅ¡Ã­. ObÄanÃ© toho moc nevypijÃ­, ale aspoÅˆ pÃ¡r panÃ¡kÅ¯ prodÃ¡m kupcÅ¯m. KaÅ¾dÃ½ dalÅ¡Ã­ parchant, kterÃ½ se mnou bude handrkovat o cenÄ› drinku, si bude doma prohlÃ­Å¾et otisky mÃ½ch bot na svÃ©m pozadÃ­.}
+{132}{}{To znÃ­, jako bys toho tady mÄ›l aÅ¾ po krk.}
+{133}{}{To je mi lÃ­to. Co vÃ­Å¡ o Vaultu?}
+{134}{}{VÅ¡ichni dÄ›lÃ¡my chyby... a nÄ›kdo ÄastÄ›ji neÅ¾ ostatnÃ­. TakÅ¾e co potÅ™ebujeÅ¡?}
+{135}{}{Co se tady dÄ›je?}
+{136}{}{Dnes nic, dÃ­ky. Nashle.}
+{137}{}{Jo, pÅ™Ã¡l bych si, abych odsud mohl vypadnout.}
+{138}{}{Tak proÄ prostÄ› neodejdeÅ¡?}
+{139}{}{JÃ­t sÃ¡m do pustiny? Sice se nudÃ­m, ale nejsem blbec.}
+{140}{}{Brzy se chystÃ¡m jÃ­t zpÃ¡tky do pustiny. NechceÅ¡ jÃ­t se mnou?}
+{141}{}{Tak hodnÄ› Å¡tÄ›stÃ­.}
+{142}{}{Ne... vypadÃ¡ to, Å¾e uÅ¾ mÃ¡Å¡ dost lidÃ­, kteÅ™Ã­ tÄ› nÃ¡sledujÃ­.}
+{143}{}{DobrÃ¡, tak hodnÄ› Å¡tÄ›stÃ­.}
+{144}{}{VÃ­Å¡, to nenÃ­ aÅ¾ tak Å¡patnÃ½ nÃ¡pad. MÅ¯Å¾eÅ¡ se mnou poÄÃ­tat.}
 {145}{}{Ano, copak?}
-{146}{}{Potøebuju, abys mi uhnul z cesty.}
-{147}{}{Jak se máš?}
-{148}{}{Zkus se vyléèit.}
-{149}{}{Potøebuju, abys tu poèkal, ne se vrátím.}
+{146}{}{PotÅ™ebuju, abys mi uhnul z cesty.}
+{147}{}{Jak se mÃ¡Å¡?}
+{148}{}{Zkus se vylÃ©Äit.}
+{149}{}{PotÅ™ebuju, abys tu poÄkal, neÅ¾ se vrÃ¡tÃ­m.}
 {150}{}{Ty! Buaaaguu!}
-{151}{}{To bude prozatím všechno.}
-{152}{}{Dobøe, u jsem v poøádku. Mùeme jít.}
-{153}{}{Dobøe, jsem skoro úplnì v poøádku.}
-{154}{}{To u je skoro ono, ale myslím, e bych snesl ještì pár Stimpakù.}
-{155}{}{Vyuil jsem všechno, co mám a znám, ale poøád mi není pøíliš dobøe. Nemáš pár Stimpakù navíc?}
-{156}{}{Poskytni si první pomoc.}
-{157}{}{Zapomeò na to.}
-{158}{}{Dobøe.}
-{159}{}{Dobøe, poèkám tady.}
-{160}{}{Zapomeò na to.}
-{161}{}{Dobøe.}
-{162}{}{Mùeme jít.}
-{163}{}{Dobøe.}
-{164}{}{Poslyš, u máš dost lidí, kteøí se s tebou vezou.}
-{165}{}{Jo, jasnì.}
-{166}{}{Ne... myslím, e ne.}
-{167}{}{Myslím, e se tu ještì nìjakou chvíli zdrím.}
+{151}{}{To bude prozatÃ­m vÅ¡echno.}
+{152}{}{DobÅ™e, uÅ¾ jsem v poÅ™Ã¡dku. MÅ¯Å¾eme jÃ­t.}
+{153}{}{DobÅ™e, jsem skoro ÃºplnÄ› v poÅ™Ã¡dku.}
+{154}{}{To uÅ¾ je skoro ono, ale myslÃ­m, Å¾e bych snesl jeÅ¡tÄ› pÃ¡r StimpakÅ¯.}
+{155}{}{VyuÅ¾il jsem vÅ¡echno, co mÃ¡m a znÃ¡m, ale poÅ™Ã¡d mi nenÃ­ pÅ™Ã­liÅ¡ dobÅ™e. NemÃ¡Å¡ pÃ¡r StimpakÅ¯ navÃ­c?}
+{156}{}{Poskytni si prvnÃ­ pomoc.}
+{157}{}{ZapomeÅˆ na to.}
+{158}{}{DobÅ™e.}
+{159}{}{DobÅ™e, poÄkÃ¡m tady.}
+{160}{}{ZapomeÅˆ na to.}
+{161}{}{DobÅ™e.}
+{162}{}{MÅ¯Å¾eme jÃ­t.}
+{163}{}{DobÅ™e.}
+{164}{}{PoslyÅ¡, uÅ¾ mÃ¡Å¡ dost lidÃ­, kteÅ™Ã­ se s tebou vezou.}
+{165}{}{Jo, jasnÄ›.}
+{166}{}{Ne... myslÃ­m, Å¾e ne.}
+{167}{}{MyslÃ­m, Å¾e se tu jeÅ¡tÄ› nÄ›jakou chvÃ­li zdrÅ¾Ã­m.}

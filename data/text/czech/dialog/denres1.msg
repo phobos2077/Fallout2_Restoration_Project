@@ -1,1 +1,1 @@
-{100}{}{Vstupuješ do Obytné ètvrti mìsta Den.}
+{100}{}{VstupujeÅ¡ do ObytnÃ© Ätvrti mÄ›sta Den.}

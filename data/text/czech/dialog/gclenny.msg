@@ -1,252 +1,252 @@
-{100}{}{Vidíš neobvykle malého, staršího ghoula.}
-{101}{}{Vidíš Lennyho, Haroldova asistenta.}
-{102}{}{Vidíš malého, staršího ghoula. Vypadá zamyšlenì.}
-{110}{}{Nazdar, jmenuju se Lenny. J-jak ti mùu p-pomoct?}
-{111}{}{Ještì j-jednou nazdar. J-jak ti mùu pomoct?}
-{112}{}{Doslechl jsem se, e jsi potomek Zakladatele. Víš, jednou jsem se se Zakladatelem setkal.}
-{113}{}{Nazdar. N-nepøestávám se d-divit, j-jak moc se podobáš Zakladatelovi. C-co pro tebe m-mùu udìlat?}
-{114}{}{Dìda? Jùùù.}
-{115}{}{Co tady dìláš?}
-{116}{}{Mám zranìní. Pomùeš mi?}
-{117}{}{Jeden z mıch pøátel je zranìnı. Pomùeš mu?}
-{118}{}{Moji pøátelé jsou zranìní. Pomùeš jim?}
-{119}{}{Lenny, u jsi nìkdy slyšel o vìci zvané GECK?}
-{120}{}{Ty ses setkal s mım pøedkem?}
-{121}{}{Jen se tak dívám kolem. Sbohem.}
-{122}{}{Mùeš mì ošetøit?}
-{125}{}{Ano. Co potøebuješ?}
-{126}{}{Myslím, e teï nepotøebuju nic.}
-{130}{}{O-opouštìt svoji v-vesnici byla chyba. Teï j-jdi domù.}
-{131}{}{Domù? Naskle.}
-{140}{}{B-bì radši domù.}
-{141}{}{N-nemám na tebe èas.}
-{142}{}{P-padej. Jdi pryè!}
-{150}{}{G-GECK? Slyšel jsem, e jeden mìli ve Vault City. O jinım jsem nikdy neslyšel.}
-{151}{}{Mám zranìní. Pomùeš mi?}
-{152}{}{Jeden z mıch pøátel je zranìnı. Pomùeš mu?}
-{153}{}{No, mùj pøedek Zakladatel øíkal, e Vault 13 nám jeden dluí. Musím ho najít.}
-{154}{}{Myslím, e to bude asi všechno. Sbohem.}
-{160}{}{N-no, pøevánì p-pomáhám H-Haroldovi. K-kdy se nìkdo zraní, tak mu p-pomùu.}
-{161}{}{S èím pomáháš Haroldovi?}
-{162}{}{Chci se ještì na nìco zeptat.}
-{163}{}{Umíš léèit zranìní?}
-{164}{}{Mám zranìní. Pomùeš mi?}
-{165}{}{Jeden z mıch pøátel je zranìnı. Pomùeš mu?}
-{166}{}{Budu na to myslet, a se zraním. Díky. Sbohem.}
-{170}{}{U-uka. M-myslím, e ti dokáu p-pomoct.}
-{171}{}{Bude mì to nìco stát?}
-{172}{}{Díky, Lenny. Chci se ještì na nìco zeptat.}
-{173}{}{Díky, Lenny. Sbohem.}
-{174}{}{M-mùu ti p-pomoct, ale b-bude tì to s-stát $30. Z-za materiál.}
-{175}{}{Myslím, e teï tvoji pomoc nepotøebuju. Sbohem.}
-{180}{}{No, tvùj p-pøítel p-potøebuje malou p-pomoc. M-mùu mu p-pomoct.}
-{181}{}{V-vypadá to, e jste se d-dostali do p-problémù. M-mùu vám pomoct.}
-{182}{}{Bude mì to nìco stát?}
-{183}{}{Díky Lenny. Chci se ještì na nìco zeptat.}
-{184}{}{Díky Lenny. Sbohem.}
-{185}{}{T-tvùj p-pøítel je zranìnı. D-dám ho d-dokupy za $30. P-poøebuju ty p-peníze na m-materiál.}
-{186}{}{Lidi, co jste d-dìlali? V-vypadá to, e byste opravdu p-potøebovali vyléèit. Uzdravení všech tì b-bude stát $60.}
-{187}{}{Tvùj p-pøítel je podle mì v poøádku.}
-{190}{}{M-mno, ve skuteènosti jsem se se Z-Zakladatelem a jeho partou pøímo osobnì n-nesetkal. Ale vidìl jsem je. Jednou. }
-{191}{}{Ty jsi vidìl Zakladatele? Kde?}
-{192}{}{Aha, chápu. No, musím nìkam jít, nìco zabít. Sbohem.}
-{200}{}{No, p-pøed v-válkou jsem b-byl doktor.}
-{201}{}{Pøed válkou? Ale to muselo bıt skoro pøed 160-ti lety.}
-{202}{}{Aha. No, tím se všechno vysvìtluje. Díky. Sbohem.}
-{210}{}{To je p-pravda. Zdá se, e nám g-ghoulùm d-darovala radiace delší ivot. Ale skoro všechno ostatní nám vzala.}
-{211}{}{Co vám vzala?}
-{212}{}{Všechno má oèividnì svoje pro i proti. Sbohem.}
-{220}{}{N-no, a-ano. Vypadáme j-jako p-podìlanı z-zrùdy. N-nemáme -ádnou kùi, do háje.}
-{221}{}{No, asi u jste zaili i lepší èasy.}
-{222}{}{Jako skupina urèitì nepatøíte mezi ty nejkrásnìjší na téhle planetì. Sbohem.}
-{230}{}{D-dalo by se to t-tak øíct. V-vymìnil bych všechny ty roky za to, abych b-byl zase n-normální èlovìk.}
-{231}{}{No, moc velkou nadìji asi nemáš.}
-{232}{}{To vìøím. Sbohem.}
-{240}{}{Jsem si jistı, e bysme se dokázali z-zbavit pøebyteèné r-radiace a sami sebe vyléèit, ale to by se s námi ti h-hlupáci ve Vault City museli p-podìlit o svoji lékaøskou technologii.}
-{241}{}{Oni vám nepomùou?}
-{242}{}{Myslím, e u to nechci poslouchat. Sbohem.}
-{250}{}{T-ty jsi byl ve Vault City, e? P-potom mi t-tedy øekni, jaké m-myslíš, e máme šance na to, aby nám ti pánbíèkáøi p-pomohli. T-to asi døív zamrzne p-peklo.}
-{251}{}{To nerad slyším, ale asi máš pravdu. Chci se ještì na nìco zeptat.}
-{252}{}{To nerad slyším. Sbohem.}
-{260}{}{N-ne. -ivot je pøíliš krátkı... hehe... no, pro v-vìtšinu lidí... na to, aby se èlovìk r-rozèiloval nad prkotinama. Víš ty co? Všechno jsou to prkotiny. Máš to z-zadarmo.}
-{261}{}{Díky Lenny.}
-{270}{}{B-bylo t-to pøed mnoha lety. V místì zvaném N-necropolis. ilo tam spousta ghoulù. Jednoho dne jsem vidìl, jak nìkdo bìí mìstem.}
-{271}{}{Bìí?}
-{272}{}{Myslím, e u mám dost tvıch nejasnıch vzpomínek. Sbohem.}
-{280}{}{Ano, bìí. Víš, my ghoulové u n-nemùeme moc bìhat. Take kdy jsem je vidìl, vìdìl jsem, e jsou odjinud. Bìeli tak blízko mì, e jsem se jich mohl skoro dotknout. Ké bych se byl bıval pøipojil k Zakladateli...}
-{281}{}{Ty ses chtìl pøipojit k mému pøedkovi?}
-{282}{}{No jasnì, mùj pøedek by urèitì dovolil takové ohyzdné zrùdì, jako jsi ty, aby se k nìmu pøipojil. Sbohem.}
-{283}{}{Eh, no, strašnì rád si poslechnu celı pøíbìh, ale mám nìco na práci. Sbohem.}
-{290}{}{Ano. M-mìl jsem ivotní šanci a zahodil jsem ji.}
-{291}{}{Co tím myslíš?}
-{292}{}{No, tak u to chodí. Sbohem.}
-{300}{}{P-pozdìji jsem se d-doslechl, e Zakladatel opravil náš vodní systém. Z-Zakladatel nás zachránil, nás všechny. Rozumíš? Bylo mu jedno, e jsme ghoulové. To bylo poprvé, kdy na tom nìkomu nezáleelo. B-byli jsem znovu lidmi. Hodni záchrany.}
-{301}{}{Mùj pøedek byl zakladatelem našeho kmene. Moji lidé si tohoto skutku váí.}
-{302}{}{No, mì jde jen o záchranu mého kmene. Ostatní a se starají sami o sebe. Sbohem.}
-{310}{}{P-pozdìji jsem se d-doslechl, e Zakladatel znièil zdroj armády m-mutantù. Z-Zakladatel nás všechny zachránil. Lidi i ghouly... mohl jsem toho bıt souèástí, ale chybìla mi o-odvaha. Nikdy jsem si to neodpustil.}
-{311}{}{Jdu ve stopách svého pøedka. Nechtìl bys ještì jednu šanci? Pøidáš se ke mnì?}
-{312}{}{Jsem si jistı, e ta práce, kterou mezi ghouly dìláš, má cenu a smysl. Jsem rád, e jsi mi vyprávìl o mém pøedkovi. Chci se ještì na nìco zeptat.}
-{313}{}{No, spousta lidí je hluboko uvnitø zbabìlá. Není dùvod se za to nìjak zvláš stydìt. Jsi prostì slabı. Sbohem.}
-{314}{}{Ta správná cesta èasto není úplnì jasná. My všichni jsme tu z nìjakého dùvodu. Díky, e jsi mi vyprávìl o mém pøedkovi. Sbohem.}
-{320}{}{Jsem š-šastnìjší ne b-brahmíní bık na pastvinì plnı krav! B-bude mi ctí se k tobì p-pøidat. M-moná jsem starı a nemùu se p-pohybovat moc rychle, alespoò ne moc dlouho, ale urèitì tì mùu zafáèit, a to budeš p-potøebovat.}
-{321}{}{Mám radost, e se ke mnì mùeš pøidat. Vím urèitì, e se tvé léèitelské schopnosti budou hodit.}
-{322}{}{Hmm, mohlo by to bıt pøíliš nároèné pro takového staøíka. Myslím, e bys mìl zùstat tady. Promiò. Sbohem.}
-{330}{}{Mám tu práci. N-nemùu jít s tebou.}
-{331}{}{Vùbec n-nejsi jako tvùj pøedek. D-dìláš ostudu jeho p-památce.}
-{332}{}{M-máš se o -ivotì ještì co uèit. N-nelíbí se mi tvoje ch-chování.}
-{333}{}{Je mi líto, e se ke mnì nemùeš pøidat.}
-{334}{}{Jeíš, èlovìk by si myslel, e kus hnijícího masa, jako jsi ty, bude skákat radostí, kdy dostane šanci vypadnout z tıhle záøící mìstskı umpy. Sbohem.}
-{340}{}{P-pomáhám H-Haroldovi se správou mìsta. P-poøád je tøeba vyplòovat nìjaké p-papíry.}
-{341}{}{Co jsi øíkal, e tady ještì dìláš?}
-{342}{}{Myslím, e to bude všechno. Nashle.}
-{350}{}{N-nemáš dost p-penìz... ale s-stejnì ti pomùu. N-nemùu vystát, kdy lidé t-trpí.}
-{351}{}{Nevím, jak ti dostateènì podìkovat, Lenny. Ale potøebuju od tebe ještì nìjaké informace.}
-{352}{}{Díky, Lenny. Máš to u mì. Sbohem.}
-{360}{}{Je tu t-tolik l-lidí. U moji pomoc n-nepotøebuješ. Pøeju h-hodnì štìstí.}
-{370}{}{Nikdy jsem si n-nemyslel, e se d-doèkám d-dne, kdy se b-budu stydìt za to, e jsem souèástí tvıch skutkù. Dìláš ostudu památce Zakladatele. Šupity, dupity, sbohem.}
-{371}{}{Víš, m-myslel jsem si, e by m-mohlo bıt fajn s t-tebou c-cestovat, ale jsi nepøíjemnı a k-konfliktní jako brahmíní bık s k-kaktusem v zadku. A o moc líp t-taky n-nevoníš. Šupity, dupity, sbohem.}
-{372}{}{Je mi líto, e odcházíš, Lenny.}
-{373}{}{Nedokáeš se s tím vyrovnat, co? V tom pøípadì bys mìl radìji odtáhnout tu svoji na pùl shnilou prdel, ne si rozmyslím, jestli má cenu na tebe plıtvat náboje.}
-{374}{}{*krk* Jo, jak myslíš. Asi máš na práci nìco jiného, jako tøeba trávit všechen svùj volnı èas vzpomínkami na to, jaké to bylo mít kùi, která nevypadá jako tøi mìsíce stará mrtvola na silnici. Vypadni odsud, ty zasraná zrùdo.}
-{375}{}{Dobøe.}
-{380}{}{C-co ch-chceš, abych u-udìlal?}
-{381}{}{Lenny, já vím, e se snaíš, ale uhni mi prosím tì z cesty.}
-{382}{}{Potøebuju, abys bojoval jinak, Lenny.}
-{383}{}{Potøebuju, abys tu poèkal.}
-{384}{}{Ranhojiè, uzdrav sa sám.}
-{385}{}{Potøebuju vyléèit, Lenny.}
-{386}{}{Potøebuju, abys uzdravil nìkteré naše pøátelé.}
-{387}{}{Potøebuju, abys nás uzdravil.}
-{388}{}{Jak to jde, veteráne?}
-{389}{}{Teï u od tebe nic dalšího nepotøebuju, Lenny.}
-{400}{}{Chceš, abych b-bojoval j-jinak?}
-{401}{}{Chci, abys zmìnil rozestup.}
-{402}{}{Chci, abys pouil svoji nejlepší zbraò.}
-{403}{}{Chci, abys pouil svoji nejlepší zbroj.}
+{100}{}{VidÃ­Å¡ neobvykle malÃ©ho, starÅ¡Ã­ho ghoula.}
+{101}{}{VidÃ­Å¡ Lennyho, Haroldova asistenta.}
+{102}{}{VidÃ­Å¡ malÃ©ho, starÅ¡Ã­ho ghoula. VypadÃ¡ zamyÅ¡lenÄ›.}
+{110}{}{Nazdar, jmenuju se Lenny. J-jak ti mÅ¯Å¾u p-pomoct?}
+{111}{}{JeÅ¡tÄ› j-jednou nazdar. J-jak ti mÅ¯Å¾u pomoct?}
+{112}{}{Doslechl jsem se, Å¾e jsi potomek Zakladatele. VÃ­Å¡, jednou jsem se se Zakladatelem setkal.}
+{113}{}{Nazdar. N-nepÅ™estÃ¡vÃ¡m se d-divit, j-jak moc se podobÃ¡Å¡ Zakladatelovi. C-co pro tebe m-mÅ¯Å¾u udÄ›lat?}
+{114}{}{DÄ›da? JÅ¯Å¯Å¯.}
+{115}{}{Co tady dÄ›lÃ¡Å¡?}
+{116}{}{MÃ¡m zranÄ›nÃ­. PomÅ¯Å¾eÅ¡ mi?}
+{117}{}{Jeden z mÃ½ch pÅ™Ã¡tel je zranÄ›nÃ½. PomÅ¯Å¾eÅ¡ mu?}
+{118}{}{Moji pÅ™Ã¡telÃ© jsou zranÄ›nÃ­. PomÅ¯Å¾eÅ¡ jim?}
+{119}{}{Lenny, uÅ¾ jsi nÄ›kdy slyÅ¡el o vÄ›ci zvanÃ© GECK?}
+{120}{}{Ty ses setkal s mÃ½m pÅ™edkem?}
+{121}{}{Jen se tak dÃ­vÃ¡m kolem. Sbohem.}
+{122}{}{MÅ¯Å¾eÅ¡ mÄ› oÅ¡etÅ™it?}
+{125}{}{Ano. Co potÅ™ebujeÅ¡?}
+{126}{}{MyslÃ­m, Å¾e teÄ nepotÅ™ebuju nic.}
+{130}{}{O-opouÅ¡tÄ›t svoji v-vesnici byla chyba. TeÄ j-jdi domÅ¯.}
+{131}{}{DomÅ¯? Naskle.}
+{140}{}{B-bÄ›Å¾ radÅ¡i domÅ¯.}
+{141}{}{N-nemÃ¡m na tebe Äas.}
+{142}{}{P-padej. Jdi pryÄ!}
+{150}{}{G-GECK? SlyÅ¡el jsem, Å¾e jeden mÄ›li ve Vault City. O jinÃ½m jsem nikdy neslyÅ¡el.}
+{151}{}{MÃ¡m zranÄ›nÃ­. PomÅ¯Å¾eÅ¡ mi?}
+{152}{}{Jeden z mÃ½ch pÅ™Ã¡tel je zranÄ›nÃ½. PomÅ¯Å¾eÅ¡ mu?}
+{153}{}{No, mÅ¯j pÅ™edek Zakladatel Å™Ã­kal, Å¾e Vault 13 nÃ¡m jeden dluÅ¾Ã­. MusÃ­m ho najÃ­t.}
+{154}{}{MyslÃ­m, Å¾e to bude asi vÅ¡echno. Sbohem.}
+{160}{}{N-no, pÅ™evÃ¡Å¾nÄ› p-pomÃ¡hÃ¡m H-Haroldovi. K-kdyÅ¾ se nÄ›kdo zranÃ­, tak mu p-pomÅ¯Å¾u.}
+{161}{}{S ÄÃ­m pomÃ¡hÃ¡Å¡ Haroldovi?}
+{162}{}{Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{163}{}{UmÃ­Å¡ lÃ©Äit zranÄ›nÃ­?}
+{164}{}{MÃ¡m zranÄ›nÃ­. PomÅ¯Å¾eÅ¡ mi?}
+{165}{}{Jeden z mÃ½ch pÅ™Ã¡tel je zranÄ›nÃ½. PomÅ¯Å¾eÅ¡ mu?}
+{166}{}{Budu na to myslet, aÅ¾ se zranÃ­m. DÃ­ky. Sbohem.}
+{170}{}{U-ukaÅ¾. M-myslÃ­m, Å¾e ti dokÃ¡Å¾u p-pomoct.}
+{171}{}{Bude mÄ› to nÄ›co stÃ¡t?}
+{172}{}{DÃ­ky, Lenny. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{173}{}{DÃ­ky, Lenny. Sbohem.}
+{174}{}{M-mÅ¯Å¾u ti p-pomoct, ale b-bude tÄ› to s-stÃ¡t $30. Z-za materiÃ¡l.}
+{175}{}{MyslÃ­m, Å¾e teÄ tvoji pomoc nepotÅ™ebuju. Sbohem.}
+{180}{}{No, tvÅ¯j p-pÅ™Ã­tel p-potÅ™ebuje malou p-pomoc. M-mÅ¯Å¾u mu p-pomoct.}
+{181}{}{V-vypadÃ¡ to, Å¾e jste se d-dostali do p-problÃ©mÅ¯. M-mÅ¯Å¾u vÃ¡m pomoct.}
+{182}{}{Bude mÄ› to nÄ›co stÃ¡t?}
+{183}{}{DÃ­ky Lenny. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{184}{}{DÃ­ky Lenny. Sbohem.}
+{185}{}{T-tvÅ¯j p-pÅ™Ã­tel je zranÄ›nÃ½. D-dÃ¡m ho d-dokupy za $30. P-poÅ™ebuju ty p-penÃ­ze na m-materiÃ¡l.}
+{186}{}{Lidi, co jste d-dÄ›lali? V-vypadÃ¡ to, Å¾e byste opravdu p-potÅ™ebovali vylÃ©Äit. UzdravenÃ­ vÅ¡ech tÄ› b-bude stÃ¡t $60.}
+{187}{}{TvÅ¯j p-pÅ™Ã­tel je podle mÄ› v poÅ™Ã¡dku.}
+{190}{}{M-mno, ve skuteÄnosti jsem se se Z-Zakladatelem a jeho partou pÅ™Ã­mo osobnÄ› n-nesetkal. Ale vidÄ›l jsem je. Jednou. }
+{191}{}{Ty jsi vidÄ›l Zakladatele? Kde?}
+{192}{}{Aha, chÃ¡pu. No, musÃ­m nÄ›kam jÃ­t, nÄ›co zabÃ­t. Sbohem.}
+{200}{}{No, p-pÅ™ed v-vÃ¡lkou jsem b-byl doktor.}
+{201}{}{PÅ™ed vÃ¡lkou? Ale to muselo bÃ½t skoro pÅ™ed 160-ti lety.}
+{202}{}{Aha. No, tÃ­m se vÅ¡echno vysvÄ›tluje. DÃ­ky. Sbohem.}
+{210}{}{To je p-pravda. ZdÃ¡ se, Å¾e nÃ¡m g-ghoulÅ¯m d-darovala radiace delÅ¡Ã­ Å¾ivot. Ale skoro vÅ¡echno ostatnÃ­ nÃ¡m vzala.}
+{211}{}{Co vÃ¡m vzala?}
+{212}{}{VÅ¡echno mÃ¡ oÄividnÄ› svoje pro i proti. Sbohem.}
+{220}{}{N-no, a-ano. VypadÃ¡me j-jako p-podÄ›lanÃ½ z-zrÅ¯dy. N-nemÃ¡me Å¾-Å¾Ã¡dnou kÅ¯Å¾i, do hÃ¡je.}
+{221}{}{No, asi uÅ¾ jste zaÅ¾ili i lepÅ¡Ã­ Äasy.}
+{222}{}{Jako skupina urÄitÄ› nepatÅ™Ã­te mezi ty nejkrÃ¡snÄ›jÅ¡Ã­ na tÃ©hle planetÄ›. Sbohem.}
+{230}{}{D-dalo by se to t-tak Å™Ã­ct. V-vymÄ›nil bych vÅ¡echny ty roky za to, abych b-byl zase n-normÃ¡lnÃ­ ÄlovÄ›k.}
+{231}{}{No, moc velkou nadÄ›ji asi nemÃ¡Å¡.}
+{232}{}{To vÄ›Å™Ã­m. Sbohem.}
+{240}{}{Jsem si jistÃ½, Å¾e bysme se dokÃ¡zali z-zbavit pÅ™ebyteÄnÃ© r-radiace a sami sebe vylÃ©Äit, ale to by se s nÃ¡mi ti h-hlupÃ¡ci ve Vault City museli p-podÄ›lit o svoji lÃ©kaÅ™skou technologii.}
+{241}{}{Oni vÃ¡m nepomÅ¯Å¾ou?}
+{242}{}{MyslÃ­m, Å¾e uÅ¾ to nechci poslouchat. Sbohem.}
+{250}{}{T-ty jsi byl ve Vault City, Å¾e? P-potom mi t-tedy Å™ekni, jakÃ© m-myslÃ­Å¡, Å¾e mÃ¡me Å¡ance na to, aby nÃ¡m ti pÃ¡nbÃ­ÄkÃ¡Å™i p-pomohli. T-to asi dÅ™Ã­v zamrzne p-peklo.}
+{251}{}{To nerad slyÅ¡Ã­m, ale asi mÃ¡Å¡ pravdu. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{252}{}{To nerad slyÅ¡Ã­m. Sbohem.}
+{260}{}{N-ne. Å½-Å¾ivot je pÅ™Ã­liÅ¡ krÃ¡tkÃ½... hehe... no, pro v-vÄ›tÅ¡inu lidÃ­... na to, aby se ÄlovÄ›k r-rozÄiloval nad prkotinama. VÃ­Å¡ ty co? VÅ¡echno jsou to prkotiny. MÃ¡Å¡ to z-zadarmo.}
+{261}{}{DÃ­ky Lenny.}
+{270}{}{B-bylo t-to pÅ™ed mnoha lety. V mÃ­stÄ› zvanÃ©m N-necropolis. Å½ilo tam spousta ghoulÅ¯. Jednoho dne jsem vidÄ›l, jak nÄ›kdo bÄ›Å¾Ã­ mÄ›stem.}
+{271}{}{BÄ›Å¾Ã­?}
+{272}{}{MyslÃ­m, Å¾e uÅ¾ mÃ¡m dost tvÃ½ch nejasnÃ½ch vzpomÃ­nek. Sbohem.}
+{280}{}{Ano, bÄ›Å¾Ã­. VÃ­Å¡, my ghoulovÃ© uÅ¾ n-nemÅ¯Å¾eme moc bÄ›hat. TakÅ¾e kdyÅ¾ jsem je vidÄ›l, vÄ›dÄ›l jsem, Å¾e jsou odjinud. BÄ›Å¾eli tak blÃ­zko mÄ›, Å¾e jsem se jich mohl skoro dotknout. KÃ©Å¾ bych se byl bÃ½val pÅ™ipojil k Zakladateli...}
+{281}{}{Ty ses chtÄ›l pÅ™ipojit k mÃ©mu pÅ™edkovi?}
+{282}{}{No jasnÄ›, mÅ¯j pÅ™edek by urÄitÄ› dovolil takovÃ© ohyzdnÃ© zrÅ¯dÄ›, jako jsi ty, aby se k nÄ›mu pÅ™ipojil. Sbohem.}
+{283}{}{Eh, no, straÅ¡nÄ› rÃ¡d si poslechnu celÃ½ pÅ™Ã­bÄ›h, ale mÃ¡m nÄ›co na prÃ¡ci. Sbohem.}
+{290}{}{Ano. M-mÄ›l jsem Å¾ivotnÃ­ Å¡anci a zahodil jsem ji.}
+{291}{}{Co tÃ­m myslÃ­Å¡?}
+{292}{}{No, tak uÅ¾ to chodÃ­. Sbohem.}
+{300}{}{P-pozdÄ›ji jsem se d-doslechl, Å¾e Zakladatel opravil nÃ¡Å¡ vodnÃ­ systÃ©m. Z-Zakladatel nÃ¡s zachrÃ¡nil, nÃ¡s vÅ¡echny. RozumÃ­Å¡? Bylo mu jedno, Å¾e jsme ghoulovÃ©. To bylo poprvÃ©, kdy na tom nÄ›komu nezÃ¡leÅ¾elo. B-byli jsem znovu lidmi. Hodni zÃ¡chrany.}
+{301}{}{MÅ¯j pÅ™edek byl zakladatelem naÅ¡eho kmene. Moji lidÃ© si tohoto skutku vÃ¡Å¾Ã­.}
+{302}{}{No, mÄ› jde jen o zÃ¡chranu mÃ©ho kmene. OstatnÃ­ aÅ¥ se starajÃ­ sami o sebe. Sbohem.}
+{310}{}{P-pozdÄ›ji jsem se d-doslechl, Å¾e Zakladatel zniÄil zdroj armÃ¡dy m-mutantÅ¯. Z-Zakladatel nÃ¡s vÅ¡echny zachrÃ¡nil. Lidi i ghouly... mohl jsem toho bÃ½t souÄÃ¡stÃ­, ale chybÄ›la mi o-odvaha. Nikdy jsem si to neodpustil.}
+{311}{}{Jdu ve stopÃ¡ch svÃ©ho pÅ™edka. NechtÄ›l bys jeÅ¡tÄ› jednu Å¡anci? PÅ™idÃ¡Å¡ se ke mnÄ›?}
+{312}{}{Jsem si jistÃ½, Å¾e ta prÃ¡ce, kterou mezi ghouly dÄ›lÃ¡Å¡, mÃ¡ cenu a smysl. Jsem rÃ¡d, Å¾e jsi mi vyprÃ¡vÄ›l o mÃ©m pÅ™edkovi. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{313}{}{No, spousta lidÃ­ je hluboko uvnitÅ™ zbabÄ›lÃ¡. NenÃ­ dÅ¯vod se za to nÄ›jak zvlÃ¡Å¡Å¥ stydÄ›t. Jsi prostÄ› slabÃ½. Sbohem.}
+{314}{}{Ta sprÃ¡vnÃ¡ cesta Äasto nenÃ­ ÃºplnÄ› jasnÃ¡. My vÅ¡ichni jsme tu z nÄ›jakÃ©ho dÅ¯vodu. DÃ­ky, Å¾e jsi mi vyprÃ¡vÄ›l o mÃ©m pÅ™edkovi. Sbohem.}
+{320}{}{Jsem Å¡-Å¡Å¥astnÄ›jÅ¡Ã­ neÅ¾ b-brahmÃ­nÃ­ bÃ½k na pastvinÄ› plnÃ½ krav! B-bude mi ctÃ­ se k tobÄ› p-pÅ™idat. M-moÅ¾nÃ¡ jsem starÃ½ a nemÅ¯Å¾u se p-pohybovat moc rychle, alespoÅˆ ne moc dlouho, ale urÄitÄ› tÄ› mÅ¯Å¾u zafÃ¡Äit, aÅ¾ to budeÅ¡ p-potÅ™ebovat.}
+{321}{}{MÃ¡m radost, Å¾e se ke mnÄ› mÅ¯Å¾eÅ¡ pÅ™idat. VÃ­m urÄitÄ›, Å¾e se tvÃ© lÃ©ÄitelskÃ© schopnosti budou hodit.}
+{322}{}{Hmm, mohlo by to bÃ½t pÅ™Ã­liÅ¡ nÃ¡roÄnÃ© pro takovÃ©ho staÅ™Ã­ka. MyslÃ­m, Å¾e bys mÄ›l zÅ¯stat tady. PromiÅˆ. Sbohem.}
+{330}{}{MÃ¡m tu prÃ¡ci. N-nemÅ¯Å¾u jÃ­t s tebou.}
+{331}{}{VÅ¯bec n-nejsi jako tvÅ¯j pÅ™edek. D-dÄ›lÃ¡Å¡ ostudu jeho p-pamÃ¡tce.}
+{332}{}{M-mÃ¡Å¡ se o Å¾-Å¾ivotÄ› jeÅ¡tÄ› co uÄit. N-nelÃ­bÃ­ se mi tvoje ch-chovÃ¡nÃ­.}
+{333}{}{Je mi lÃ­to, Å¾e se ke mnÄ› nemÅ¯Å¾eÅ¡ pÅ™idat.}
+{334}{}{JeÅ¾Ã­Å¡, ÄlovÄ›k by si myslel, Å¾e kus hnijÃ­cÃ­ho masa, jako jsi ty, bude skÃ¡kat radostÃ­, kdyÅ¾ dostane Å¡anci vypadnout z tÃ½hle zÃ¡Å™Ã­cÃ­ mÄ›stskÃ½ Å¾umpy. Sbohem.}
+{340}{}{P-pomÃ¡hÃ¡m H-Haroldovi se sprÃ¡vou mÄ›sta. P-poÅ™Ã¡d je tÅ™eba vyplÅˆovat nÄ›jakÃ© p-papÃ­ry.}
+{341}{}{Co jsi Å™Ã­kal, Å¾e tady jeÅ¡tÄ› dÄ›lÃ¡Å¡?}
+{342}{}{MyslÃ­m, Å¾e to bude vÅ¡echno. Nashle.}
+{350}{}{N-nemÃ¡Å¡ dost p-penÄ›z... ale s-stejnÄ› ti pomÅ¯Å¾u. N-nemÅ¯Å¾u vystÃ¡t, kdyÅ¾ lidÃ© t-trpÃ­.}
+{351}{}{NevÃ­m, jak ti dostateÄnÄ› podÄ›kovat, Lenny. Ale potÅ™ebuju od tebe jeÅ¡tÄ› nÄ›jakÃ© informace.}
+{352}{}{DÃ­ky, Lenny. MÃ¡Å¡ to u mÄ›. Sbohem.}
+{360}{}{Je tu t-tolik l-lidÃ­. UÅ¾ moji pomoc n-nepotÅ™ebujeÅ¡. PÅ™eju h-hodnÄ› Å¡tÄ›stÃ­.}
+{370}{}{Nikdy jsem si n-nemyslel, Å¾e se d-doÄkÃ¡m d-dne, kdy se b-budu stydÄ›t za to, Å¾e jsem souÄÃ¡stÃ­ tvÃ½ch skutkÅ¯. DÄ›lÃ¡Å¡ ostudu pamÃ¡tce Zakladatele. Å upity, dupity, sbohem.}
+{371}{}{VÃ­Å¡, m-myslel jsem si, Å¾e by m-mohlo bÃ½t fajn s t-tebou c-cestovat, ale jsi nepÅ™Ã­jemnÃ½ a k-konfliktnÃ­ jako brahmÃ­nÃ­ bÃ½k s k-kaktusem v zadku. A o moc lÃ­p t-taky n-nevonÃ­Å¡. Å upity, dupity, sbohem.}
+{372}{}{Je mi lÃ­to, Å¾e odchÃ¡zÃ­Å¡, Lenny.}
+{373}{}{NedokÃ¡Å¾eÅ¡ se s tÃ­m vyrovnat, co? V tom pÅ™Ã­padÄ› bys mÄ›l radÄ›ji odtÃ¡hnout tu svoji na pÅ¯l shnilou prdel, neÅ¾ si rozmyslÃ­m, jestli mÃ¡ cenu na tebe plÃ½tvat nÃ¡boje.}
+{374}{}{*krk* Jo, jak myslÃ­Å¡. Asi mÃ¡Å¡ na prÃ¡ci nÄ›co jinÃ©ho, jako tÅ™eba trÃ¡vit vÅ¡echen svÅ¯j volnÃ½ Äas vzpomÃ­nkami na to, jakÃ© to bylo mÃ­t kÅ¯Å¾i, kterÃ¡ nevypadÃ¡ jako tÅ™i mÄ›sÃ­ce starÃ¡ mrtvola na silnici. Vypadni odsud, ty zasranÃ¡ zrÅ¯do.}
+{375}{}{DobÅ™e.}
+{380}{}{C-co ch-chceÅ¡, abych u-udÄ›lal?}
+{381}{}{Lenny, jÃ¡ vÃ­m, Å¾e se snaÅ¾Ã­Å¡, ale uhni mi prosÃ­m tÄ› z cesty.}
+{382}{}{PotÅ™ebuju, abys bojoval jinak, Lenny.}
+{383}{}{PotÅ™ebuju, abys tu poÄkal.}
+{384}{}{RanhojiÄ, uzdrav sa sÃ¡m.}
+{385}{}{PotÅ™ebuju vylÃ©Äit, Lenny.}
+{386}{}{PotÅ™ebuju, abys uzdravil nÄ›kterÃ© naÅ¡e pÅ™Ã¡telÃ©.}
+{387}{}{PotÅ™ebuju, abys nÃ¡s uzdravil.}
+{388}{}{Jak to jde, veterÃ¡ne?}
+{389}{}{TeÄ uÅ¾ od tebe nic dalÅ¡Ã­ho nepotÅ™ebuju, Lenny.}
+{400}{}{ChceÅ¡, abych b-bojoval j-jinak?}
+{401}{}{Chci, abys zmÄ›nil rozestup.}
+{402}{}{Chci, abys pouÅ¾il svoji nejlepÅ¡Ã­ zbraÅˆ.}
+{403}{}{Chci, abys pouÅ¾il svoji nejlepÅ¡Ã­ zbroj.}
 {404}{}{Chci, abys bojoval jinak.}
-{405}{}{Zapomeò na to.}
-{410}{}{J-jak chceš, abych byl d-daleko? Víš, e se mi špatnì d-dobíhá.}
-{411}{}{Chci, abys zùstal poblí mì.}
-{412}{}{Chci, abys zùstal støednì daleko.}
-{413}{}{Chci, abys zùstal daleko.}
-{414}{}{Potøebuju, abys šel na prùzkum.}
-{415}{}{Zapomeò na to.}
-{420}{}{C-co chceš, abych u-udìlal?}
-{421}{}{Chci, abys teï bojoval defenzivnì.}
-{422}{}{Potøebuju, abys bojoval normálnì.}
-{423}{}{Potøebuju, abys bojoval agresivnì.}
-{424}{}{Zapomeò na to.}
-{430}{}{Tak p-pøeci jen se dá nauèit starého p-psa novım kouskùm. To bylo v-vzrùšo.}
-{431}{}{P-prostì tomu n-nìjak n-nemùu pøijít na kloub.}
-{432}{}{Dobøe.}
-{440}{}{Aha, dobøe. P-poèkám tu, dokud se n-nevrátíš. N-nechám odpoèívat svoje bolavé k-klouby.}
-{441}{}{Odpoèiò si, Lenny. Sbohem.}
-{442}{}{Mìl bys tu poèkat. Jo a ještì jedna vìc...}
-{443}{}{Zapomeò na to.}
-{450}{}{M-musím sehnat v-vìtší b-bouchaèku.}
-{451}{}{Pouij svoji nejlepší zbraò, Lenny.}
-{461}{}{Oblékni si svoji nejlepší zbroj, Lenny.}
-{462}{}{Lenny, a si oblékneš svoji nejlepší zbroj, budu od tebe potøebovat ještì nìco dalšího.}
-{463}{}{Zapomeò na to.}
-{470}{}{To je d-dobrı nápad. Øíkal j-jsem si, e b-bysme se mohli zastavit. J-jsem docela z-zranìnej.}
-{471}{}{M-mìl bych se p-podívat na ty t-tvoje r-rány.}
-{472}{}{Z-zdá se, e nìkdo p-potøebuje z-znovu sešít.}
-{473}{}{Zaèni se sám léèit.}
-{474}{}{Uzdrav se a potom budu od tebe ještì nìco potøebovat.}
-{475}{}{Zaèni mì léèit, prosím.}
-{476}{}{Uzdrav mì a potom budu od tebe ještì nìco potøebovat.}
-{477}{}{Zaèni nás léèit.}
-{478}{}{Uzdrav nás a potom budu od tebe ještì nìco potøebovat.}
-{479}{}{Zapomeò na to.}
-{480}{}{N-nemùu to u-udìlat. Nejsem ani trochu dobrı zvìd.}
-{481}{}{Aha, dobøe. Tak nic.}
-{490}{}{Budu se d-dret p-poblí.}
-{491}{}{Zùstaò poblí, Lenny.}
-{492}{}{Zùstaò nablízku a potom budu od tebe ještì nìco potøebovat.}
-{493}{}{Zapomeò na to.}
-{500}{}{H-hádám, e takhle n-nás tak snadno n-netrefí, co?}
-{501}{}{Nebuï tak blízko, Lenny. Chci, aby nás nemohli tak snadno trefit.}
-{502}{}{Nepøibliuj se tolik. Potøebuju od tebe ještì nìco dalšího.}
-{503}{}{Zapomeò na to.}
-{510}{}{Dobøe, b-budu stát o t-trochu d-dál. S-stejnì to vypadá, e chtìjí všichni z-zabít jenom tebe.}
-{511}{}{Potøebuju, aby ses v zájmu své vlastní bezpeènosti drel zpátky. Nemá to absolutnì nic spoleèného s tím, jak smrdíš.}
-{512}{}{Pøedtím, ne se rozestoupíme, budu potøebovat, abys pro mì ještì nìco udìlal.}
-{513}{}{Zapomeò na to.}
-{520}{}{Za ty roky j-jsem se o s-sebe nauèil d-docela dobøe p-postarat.}
-{521}{}{Jen chci, abys byl opatrnı, a se dostaneme do boje.}
-{522}{}{Chci se ujistit, e se ti nic nestane. Hergot, vdy ty jsi vlastnì staroitnost. Jo, vlastnì ještì jedna vìc...}
-{523}{}{Zapomeò na to.}
-{530}{}{To je jedinı m-monı zpùsob.}
-{531}{}{Prostì bojuj tak, jak jsi zvyklı a bude to v pohodì.}
-{532}{}{Uvolni se a bojuj normálnì. Jo a ještì jedna vìc...}
-{533}{}{Zapomeò na to.}
-{540}{}{To n-nemùu udìlat. U jen s-samotnı boj je asi tak všechno, co t-tyhle staré k-kosti zvládnou.}
-{541}{}{Dobøe. Tak nic.}
-{1000}{}{C-co ch-chceš, abych u-udìlal?}
+{405}{}{ZapomeÅˆ na to.}
+{410}{}{J-jak chceÅ¡, abych byl d-daleko? VÃ­Å¡, Å¾e se mi Å¡patnÄ› d-dobÃ­hÃ¡.}
+{411}{}{Chci, abys zÅ¯stal poblÃ­Å¾ mÄ›.}
+{412}{}{Chci, abys zÅ¯stal stÅ™ednÄ› daleko.}
+{413}{}{Chci, abys zÅ¯stal daleko.}
+{414}{}{PotÅ™ebuju, abys Å¡el na prÅ¯zkum.}
+{415}{}{ZapomeÅˆ na to.}
+{420}{}{C-co chceÅ¡, abych u-udÄ›lal?}
+{421}{}{Chci, abys teÄ bojoval defenzivnÄ›.}
+{422}{}{PotÅ™ebuju, abys bojoval normÃ¡lnÄ›.}
+{423}{}{PotÅ™ebuju, abys bojoval agresivnÄ›.}
+{424}{}{ZapomeÅˆ na to.}
+{430}{}{Tak p-pÅ™eci jen se dÃ¡ nauÄit starÃ©ho p-psa novÃ½m kouskÅ¯m. To bylo v-vzrÅ¯Å¡o.}
+{431}{}{P-prostÄ› tomu n-nÄ›jak n-nemÅ¯Å¾u pÅ™ijÃ­t na kloub.}
+{432}{}{DobÅ™e.}
+{440}{}{Aha, dobÅ™e. P-poÄkÃ¡m tu, dokud se n-nevrÃ¡tÃ­Å¡. N-nechÃ¡m odpoÄÃ­vat svoje bolavÃ© k-klouby.}
+{441}{}{OdpoÄiÅˆ si, Lenny. Sbohem.}
+{442}{}{MÄ›l bys tu poÄkat. Jo a jeÅ¡tÄ› jedna vÄ›c...}
+{443}{}{ZapomeÅˆ na to.}
+{450}{}{M-musÃ­m sehnat v-vÄ›tÅ¡Ã­ b-bouchaÄku.}
+{451}{}{PouÅ¾ij svoji nejlepÅ¡Ã­ zbraÅˆ, Lenny.}
+{461}{}{OblÃ©kni si svoji nejlepÅ¡Ã­ zbroj, Lenny.}
+{462}{}{Lenny, aÅ¾ si oblÃ©kneÅ¡ svoji nejlepÅ¡Ã­ zbroj, budu od tebe potÅ™ebovat jeÅ¡tÄ› nÄ›co dalÅ¡Ã­ho.}
+{463}{}{ZapomeÅˆ na to.}
+{470}{}{To je d-dobrÃ½ nÃ¡pad. Å˜Ã­kal j-jsem si, Å¾e b-bysme se mohli zastavit. J-jsem docela z-zranÄ›nej.}
+{471}{}{M-mÄ›l bych se p-podÃ­vat na ty t-tvoje r-rÃ¡ny.}
+{472}{}{Z-zdÃ¡ se, Å¾e nÄ›kdo p-potÅ™ebuje z-znovu seÅ¡Ã­t.}
+{473}{}{ZaÄni se sÃ¡m lÃ©Äit.}
+{474}{}{Uzdrav se a potom budu od tebe jeÅ¡tÄ› nÄ›co potÅ™ebovat.}
+{475}{}{ZaÄni mÄ› lÃ©Äit, prosÃ­m.}
+{476}{}{Uzdrav mÄ› a potom budu od tebe jeÅ¡tÄ› nÄ›co potÅ™ebovat.}
+{477}{}{ZaÄni nÃ¡s lÃ©Äit.}
+{478}{}{Uzdrav nÃ¡s a potom budu od tebe jeÅ¡tÄ› nÄ›co potÅ™ebovat.}
+{479}{}{ZapomeÅˆ na to.}
+{480}{}{N-nemÅ¯Å¾u to u-udÄ›lat. Nejsem ani trochu dobrÃ½ zvÄ›d.}
+{481}{}{Aha, dobÅ™e. Tak nic.}
+{490}{}{Budu se d-drÅ¾et p-poblÃ­Å¾.}
+{491}{}{ZÅ¯staÅˆ poblÃ­Å¾, Lenny.}
+{492}{}{ZÅ¯staÅˆ nablÃ­zku a potom budu od tebe jeÅ¡tÄ› nÄ›co potÅ™ebovat.}
+{493}{}{ZapomeÅˆ na to.}
+{500}{}{H-hÃ¡dÃ¡m, Å¾e takhle n-nÃ¡s tak snadno n-netrefÃ­, co?}
+{501}{}{NebuÄ tak blÃ­zko, Lenny. Chci, aby nÃ¡s nemohli tak snadno trefit.}
+{502}{}{NepÅ™ibliÅ¾uj se tolik. PotÅ™ebuju od tebe jeÅ¡tÄ› nÄ›co dalÅ¡Ã­ho.}
+{503}{}{ZapomeÅˆ na to.}
+{510}{}{DobÅ™e, b-budu stÃ¡t o t-trochu d-dÃ¡l. S-stejnÄ› to vypadÃ¡, Å¾e chtÄ›jÃ­ vÅ¡ichni z-zabÃ­t jenom tebe.}
+{511}{}{PotÅ™ebuju, aby ses v zÃ¡jmu svÃ© vlastnÃ­ bezpeÄnosti drÅ¾el zpÃ¡tky. NemÃ¡ to absolutnÄ› nic spoleÄnÃ©ho s tÃ­m, jak smrdÃ­Å¡.}
+{512}{}{PÅ™edtÃ­m, neÅ¾ se rozestoupÃ­me, budu potÅ™ebovat, abys pro mÄ› jeÅ¡tÄ› nÄ›co udÄ›lal.}
+{513}{}{ZapomeÅˆ na to.}
+{520}{}{Za ty roky j-jsem se o s-sebe nauÄil d-docela dobÅ™e p-postarat.}
+{521}{}{Jen chci, abys byl opatrnÃ½, aÅ¾ se dostaneme do boje.}
+{522}{}{Chci se ujistit, Å¾e se ti nic nestane. Hergot, vÅ¾dyÅ¥ ty jsi vlastnÄ› staroÅ¾itnost. Jo, vlastnÄ› jeÅ¡tÄ› jedna vÄ›c...}
+{523}{}{ZapomeÅˆ na to.}
+{530}{}{To je jedinÃ½ m-moÅ¾nÃ½ zpÅ¯sob.}
+{531}{}{ProstÄ› bojuj tak, jak jsi zvyklÃ½ a bude to v pohodÄ›.}
+{532}{}{Uvolni se a bojuj normÃ¡lnÄ›. Jo a jeÅ¡tÄ› jedna vÄ›c...}
+{533}{}{ZapomeÅˆ na to.}
+{540}{}{To n-nemÅ¯Å¾u udÄ›lat. UÅ¾ jen s-samotnÃ½ boj je asi tak vÅ¡echno, co t-tyhle starÃ© k-kosti zvlÃ¡dnou.}
+{541}{}{DobÅ™e. Tak nic.}
+{1000}{}{C-co ch-chceÅ¡, abych u-udÄ›lal?}
 {1100}{}{J-je mi fajn.}
-{1200}{}{Jsem trochu z-zranìnı, ale mùu p-pokraèovat.}
-{1300}{}{To je d-dobrı nápad. Øíkal j-jsem si, e b-bysme se mohli zastavit. J-jsem docela z-zranìnej.}
-{1400}{}{Potøebuju ihned vyléèit, nebo u-umøu.}
-{1500}{}{Aha, dobøe. P-poèkám tu, dokud se n-nevrátíš. N-nechám odpoèívat svoje bolavé k-klouby.}
-{1600}{}{Dobøe.}
-{1700}{}{Budu se d-dret p-poblí.}
-{1800}{}{H-hádám, e takhle n-nás tak snadno n-netrefí, co?}
-{1900}{}{Dobøe, b-budu stát o t-trochu d-dál. S-stejnì to vypadá, e chtìjí všichni z-zabít jenom tebe.}
-{2000}{}{U máš h-hodnì l-lidí. U moji pomoc n-nepotøebuješ. Pøeju h-hodnì štìstí.}
-{2100}{}{Nikdy jsem si n-nemyslel, e se d-doèkám d-dne, kdy se b-budu stydìt za to, e jsem souèástí tvıch skutkù. Dìláš ostudu památce Zakladatele. Šupity, dupity, sbohem.}
-{2200}{}{N-nebyl jsem si j-jistej, jestli se v-vrátíš.}
-{2300}{}{Proè poøád tak spìcháme?}
-{2301}{}{Aha, promiò. Uhnu ti z cesty.}
-{2302}{}{Honem, honem, honem. Dobøe, v pohodì, u jdu. Promiò, nechtìl jsem se ti plést do cesty.}
-{2303}{}{Je mi líto, ale prostì se nemùu pohybovat rychleji. Uhnu se ti.}
-{2304}{}{Aha, dobøe, odbelhám se ti z cesty.}
-{2305}{}{Tak já se odbelhám sem.}
-{2306}{}{Nechci ti pøekáet.}
-{2307}{}{Och, promiò.}
-{3000}{}{Kolem tebe se dìje moc špatnıch vìcí. Odcházím, ne se mi nìco stane.}
-{3001}{}{Nebudu pomáhat vrahovi dìtí. Sbohem.}
-{3002}{}{Tvoje ízeò po krvi mì dìsí. U s tebou dál nepùjdu.}
-{3003}{}{Nechci mít nic spoleèného s otrokáøem. Sbohem.}
-{3004}{}{Jsi zrádce! Kvùli tobì je teï naše elektrárna znièená. Nepomùu ti.}
-{3005}{}{N-nechci s tebou m-mít nic s-spoleèného.}
-{4000}{}{No dobøe, ale urèitì tady nechci zùstat sám.}
-{4001}{}{Tak jo, kdy myslíš, e je to opravdu dobrı nápad.}
+{1200}{}{Jsem trochu z-zranÄ›nÃ½, ale mÅ¯Å¾u p-pokraÄovat.}
+{1300}{}{To je d-dobrÃ½ nÃ¡pad. Å˜Ã­kal j-jsem si, Å¾e b-bysme se mohli zastavit. J-jsem docela z-zranÄ›nej.}
+{1400}{}{PotÅ™ebuju ihned vylÃ©Äit, nebo u-umÅ™u.}
+{1500}{}{Aha, dobÅ™e. P-poÄkÃ¡m tu, dokud se n-nevrÃ¡tÃ­Å¡. N-nechÃ¡m odpoÄÃ­vat svoje bolavÃ© k-klouby.}
+{1600}{}{DobÅ™e.}
+{1700}{}{Budu se d-drÅ¾et p-poblÃ­Å¾.}
+{1800}{}{H-hÃ¡dÃ¡m, Å¾e takhle n-nÃ¡s tak snadno n-netrefÃ­, co?}
+{1900}{}{DobÅ™e, b-budu stÃ¡t o t-trochu d-dÃ¡l. S-stejnÄ› to vypadÃ¡, Å¾e chtÄ›jÃ­ vÅ¡ichni z-zabÃ­t jenom tebe.}
+{2000}{}{UÅ¾ mÃ¡Å¡ h-hodnÄ› l-lidÃ­. UÅ¾ moji pomoc n-nepotÅ™ebujeÅ¡. PÅ™eju h-hodnÄ› Å¡tÄ›stÃ­.}
+{2100}{}{Nikdy jsem si n-nemyslel, Å¾e se d-doÄkÃ¡m d-dne, kdy se b-budu stydÄ›t za to, Å¾e jsem souÄÃ¡stÃ­ tvÃ½ch skutkÅ¯. DÄ›lÃ¡Å¡ ostudu pamÃ¡tce Zakladatele. Å upity, dupity, sbohem.}
+{2200}{}{N-nebyl jsem si j-jistej, jestli se v-vrÃ¡tÃ­Å¡.}
+{2300}{}{ProÄ poÅ™Ã¡d tak spÄ›chÃ¡me?}
+{2301}{}{Aha, promiÅˆ. Uhnu ti z cesty.}
+{2302}{}{Honem, honem, honem. DobÅ™e, v pohodÄ›, uÅ¾ jdu. PromiÅˆ, nechtÄ›l jsem se ti plÃ©st do cesty.}
+{2303}{}{Je mi lÃ­to, ale prostÄ› se nemÅ¯Å¾u pohybovat rychleji. Uhnu se ti.}
+{2304}{}{Aha, dobÅ™e, odbelhÃ¡m se ti z cesty.}
+{2305}{}{Tak jÃ¡ se odbelhÃ¡m sem.}
+{2306}{}{Nechci ti pÅ™ekÃ¡Å¾et.}
+{2307}{}{Och, promiÅˆ.}
+{3000}{}{Kolem tebe se dÄ›je moc Å¡patnÃ½ch vÄ›cÃ­. OdchÃ¡zÃ­m, neÅ¾ se mi nÄ›co stane.}
+{3001}{}{Nebudu pomÃ¡hat vrahovi dÄ›tÃ­. Sbohem.}
+{3002}{}{Tvoje Å¾Ã­zeÅˆ po krvi mÄ› dÄ›sÃ­. UÅ¾ s tebou dÃ¡l nepÅ¯jdu.}
+{3003}{}{Nechci mÃ­t nic spoleÄnÃ©ho s otrokÃ¡Å™em. Sbohem.}
+{3004}{}{Jsi zrÃ¡dce! KvÅ¯li tobÄ› je teÄ naÅ¡e elektrÃ¡rna zniÄenÃ¡. NepomÅ¯Å¾u ti.}
+{3005}{}{N-nechci s tebou m-mÃ­t nic s-spoleÄnÃ©ho.}
+{4000}{}{No dobÅ™e, ale urÄitÄ› tady nechci zÅ¯stat sÃ¡m.}
+{4001}{}{Tak jo, kdyÅ¾ myslÃ­Å¡, Å¾e je to opravdu dobrÃ½ nÃ¡pad.}
 {4002}{}{Well, I don't like to use weapons unless I really have to, but I suppose I could use a knife, I think. I can use a pistol, at least I used to be able to. If I really had to, I think I could handle a submachine gun. If only they weren't so loud. I'm a healer, not a fighter.}
-{4003}{}{Sákryš, snad to nebudu potøebovat.}
+{4003}{}{SÃ¡kryÅ¡, snad to nebudu potÅ™ebovat.}
 {4004}{}{Well, I don't like to use weapons unless I really have to, but I suppose I could use a knife, I think. I can use a spear, at least I used to be able to. If I really had to, I think I could handle a rifle. If only they weren't so loud. I'm a healer, not a fighter.}
-{5000}{}{Myslím, e m-mám zlomenou k-konèetinu.}
-{5001}{}{Myslím, e j-jsem o-ozáøenı.}
-{5002}{}{Myslím, e j-jsem o-otrávenı.}
-{5100}{}{Je m-mi teï nìjak h-horko.}
-{5101}{}{To je l-lepší.}
-{6000}{}{Potøebuju od tebe odbornou radu, Lenny. Co víš o léèbì srdeèních potíí?}
-{6001}{}{Mùeš mi øíct nìco o tìhlech pilulkách, doktore?}
-{6010}{}{Co máš za p-problém? N-eselhavá ti snad s-srdce nebo jo?}
-{6011}{}{Ne, jen mì zajímá, jestli by se dalo nìco udìlat pro Cassidyho.}
-{6012}{}{Ne. Chystám se zabít jednoho vetchého staøíka a snaím se pøijít na nìco kreativnìjšího ne jen to, e se k nìmu pøiplíím zezadu a bouchnu nafouknutı pytlík.}
-{6013}{}{Øeknìme, e mám vrozenou zvìdavost.}
-{6020}{}{Hehe. Není tøeba bıt p-podrádìnı.}
-{6021}{}{No, vìtšinou se to d-dìlá bìnımi záleitostmi jako je zdravá strava, n-nebrat tvrdé d-drogy a tak podobnì. A n-nedostávat se do stresovıch s-situací. V p-podstatì ít v-víc jako d-dùchodkynì a míò jako... no, my. Hehe. S-samozøejmì asi n-nejlepší by bylo, k-kdyby se ti p-podaøilo do nìj napìchovat k-kardiovaskulární r-regulátory nebo m-moná nìjaké v-vazodilátory.}
+{5000}{}{MyslÃ­m, Å¾e m-mÃ¡m zlomenou k-konÄetinu.}
+{5001}{}{MyslÃ­m, Å¾e j-jsem o-ozÃ¡Å™enÃ½.}
+{5002}{}{MyslÃ­m, Å¾e j-jsem o-otrÃ¡venÃ½.}
+{5100}{}{Je m-mi teÄ nÄ›jak h-horko.}
+{5101}{}{To je l-lepÅ¡Ã­.}
+{6000}{}{PotÅ™ebuju od tebe odbornou radu, Lenny. Co vÃ­Å¡ o lÃ©ÄbÄ› srdeÄnÃ­ch potÃ­Å¾Ã­?}
+{6001}{}{MÅ¯Å¾eÅ¡ mi Å™Ã­ct nÄ›co o tÄ›hlech pilulkÃ¡ch, doktore?}
+{6010}{}{Co mÃ¡Å¡ za p-problÃ©m? N-eselhavÃ¡ ti snad s-srdce nebo jo?}
+{6011}{}{Ne, jen mÄ› zajÃ­mÃ¡, jestli by se dalo nÄ›co udÄ›lat pro Cassidyho.}
+{6012}{}{Ne. ChystÃ¡m se zabÃ­t jednoho vetchÃ©ho staÅ™Ã­ka a snaÅ¾Ã­m se pÅ™ijÃ­t na nÄ›co kreativnÄ›jÅ¡Ã­ho neÅ¾ jen to, Å¾e se k nÄ›mu pÅ™iplÃ­Å¾Ã­m zezadu a bouchnu nafouknutÃ½ pytlÃ­k.}
+{6013}{}{Å˜eknÄ›me, Å¾e mÃ¡m vrozenou zvÄ›davost.}
+{6020}{}{Hehe. NenÃ­ tÅ™eba bÃ½t p-podrÃ¡Å¾dÄ›nÃ½.}
+{6021}{}{No, vÄ›tÅ¡inou se to d-dÄ›lÃ¡ bÄ›Å¾nÃ½mi zÃ¡leÅ¾itostmi jako je zdravÃ¡ strava, n-nebrat tvrdÃ© d-drogy a tak podobnÄ›. A n-nedostÃ¡vat se do stresovÃ½ch s-situacÃ­. V p-podstatÄ› Å¾Ã­t v-vÃ­c jako d-dÅ¯chodkynÄ› a mÃ­Åˆ jako... no, my. Hehe. S-samozÅ™ejmÄ› asi n-nejlepÅ¡Ã­ by bylo, k-kdyby se ti p-podaÅ™ilo do nÄ›j napÄ›chovat k-kardiovaskulÃ¡rnÃ­ r-regulÃ¡tory nebo m-moÅ¾nÃ¡ nÄ›jakÃ© v-vazodilÃ¡tory.}
 {6022}{}{Kardio co?}
 {6023}{}{Hmm. Pilulky na srdce.}
-{6030}{}{Tak se na to podíváme... (Lenny si mumlá nìco pro sebe pøi ètení štítku.)}
-{6040}{}{Pilulky na srdce. Zdá se, e to, c-co dneska v-vyrábìj ve Vault City a NCR, se moc neliší od toho, c-co jsme pouívali t-tehdá pøed v-válkou. Silnı l-léky. Øekni mu, a b-bere ty p-pilulky a za chvíli bude m-mít srdce jako m-mutantí m-maratonec. A kdyby poslouchal svıho d-doktora a b-bral je p-pravidelnì, tak by mohl pravdìpodobnì brát i t-tvrdé drogy a n-nebát se toho, e mu s-srdce by jen jednou v-vynechá. Eh, teda n-ne e bych to samozøejmì d-doporuèoval. L-lékaøi by mìli vdycky d-doporuèovat zdravı zpùsob ivota a h-hodnì v-vlákniny, e?}
-{6041}{}{Eh, jasnì. Díky, Lenny. Chci se ještì na nìco zeptat.}
-{6042}{}{Nejsou nebezpeèné? Nemají nìjaké vedlejší úèinky?}
-{6043}{}{Myslíš, e to Cassidymu pomùe?}
-{6050}{}{M-mohlo by to bıt p-pøesnì to p-pravé pro nìj. Vlastnì si myslím, e t-to je ono. Ale m-mìl by si d-dát na pár vìcí p-pozor.}
-{6051}{}{Napøíklad?}
-{6052}{}{Vdycky je v tom háèek.}
-{6060}{}{Nic, co by d-dìlalo nìjaké èasté p-potíe. Je známo, e tyhle pilulky zpùsobujou m-malátnost. A taky se n-nedoporuèuje je zapíjet g-grepovım d-dusem, i kdy to v tıhle d-dobì asi nebude m-moc velkı p-problém. L-ledae by to byly ty z-zelené h-hrudkovité vìci. Hmmm... (Lenny si poloí ruku na svoji bradu a zírá do vesmíru.)}
+{6030}{}{Tak se na to podÃ­vÃ¡me... (Lenny si mumlÃ¡ nÄ›co pro sebe pÅ™i ÄtenÃ­ Å¡tÃ­tku.)}
+{6040}{}{Pilulky na srdce. ZdÃ¡ se, Å¾e to, c-co dneska v-vyrÃ¡bÄ›j ve Vault City a NCR, se moc neliÅ¡Ã­ od toho, c-co jsme pouÅ¾Ã­vali t-tehdÃ¡ pÅ™ed v-vÃ¡lkou. SilnÃ½ l-lÃ©ky. Å˜ekni mu, aÅ¥ b-bere ty p-pilulky a za chvÃ­li bude m-mÃ­t srdce jako m-mutantÃ­ m-maratonec. A kdyby poslouchal svÃ½ho d-doktora a b-bral je p-pravidelnÄ›, tak by mohl pravdÄ›podobnÄ› brÃ¡t i t-tvrdÃ© drogy a n-nebÃ¡t se toho, Å¾e mu s-srdce byÅ¥ jen jednou v-vynechÃ¡. Eh, teda n-ne Å¾e bych to samozÅ™ejmÄ› d-doporuÄoval. L-lÃ©kaÅ™i by mÄ›li vÅ¾dycky d-doporuÄovat zdravÃ½ zpÅ¯sob Å¾ivota a h-hodnÄ› v-vlÃ¡kniny, Å¾e?}
+{6041}{}{Eh, jasnÄ›. DÃ­ky, Lenny. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{6042}{}{Nejsou nebezpeÄnÃ©? NemajÃ­ nÄ›jakÃ© vedlejÅ¡Ã­ ÃºÄinky?}
+{6043}{}{MyslÃ­Å¡, Å¾e to Cassidymu pomÅ¯Å¾e?}
+{6050}{}{M-mohlo by to bÃ½t p-pÅ™esnÄ› to p-pravÃ© pro nÄ›j. VlastnÄ› si myslÃ­m, Å¾e t-to je ono. Ale m-mÄ›l by si d-dÃ¡t na pÃ¡r vÄ›cÃ­ p-pozor.}
+{6051}{}{NapÅ™Ã­klad?}
+{6052}{}{VÅ¾dycky je v tom hÃ¡Äek.}
+{6060}{}{Nic, co by d-dÄ›lalo nÄ›jakÃ© ÄastÃ© p-potÃ­Å¾e. Je znÃ¡mo, Å¾e tyhle pilulky zpÅ¯sobujou m-malÃ¡tnost. A taky se n-nedoporuÄuje je zapÃ­jet g-grepovÃ½m d-dÅ¾usem, i kdyÅ¾ to v tÃ½hle d-dobÄ› asi nebude m-moc velkÃ½ p-problÃ©m. L-ledaÅ¾e by to byly ty z-zelenÃ© h-hrudkovitÃ© vÄ›ci. Hmmm... (Lenny si poloÅ¾Ã­ ruku na svoji bradu a zÃ­rÃ¡ do vesmÃ­ru.)}
 {6061}{}{Lenny?}
-{6070}{}{P-promiò. Och! Ještì jedna d-dùleitá vìc. Pokud n-neplánuješ zemøít z-zcela n-nedùstojnım zpùsobem, tak je *v ádném pøípadì* n-nemíchej s p-povzbuzujícíma p-pilulkama z N-new Rena.}
-{6071}{}{Povzbuzujícíma... pilulkama?}
-{6072}{}{Špatnì spolu reagují?}
-{6080}{}{Jojo. To kdy ti tvùj m-malej p-pìšák nechce stát v p-pozoru. O-odbornì se jim øíká "PDE-5 tlumící sloky", ale víš jak to dnes chodí a jak TO chodí v New Renu... kde jsem to pøestal?}
-{6081}{}{Jojo. To kdy muùm nechce jejich m-malej p-pìšák stát v p-pozoru. O-odbornì se jim øíká "PDE-5 tlumící sloky", ale víš jak to dnes chodí a jak TO chodí v New Renu... kde jsem to pøestal?}
-{6082}{}{To teda. Kdy se ti t-tyhle látky v tìle s-smíchaj, tak nastane velkı BUM! Srdce ti vybouchne jako k-krvavá jitrnice. Pamatuju se, jak jsem p-pitval hned nìkolik ubohejch chlapíkù, co z-zasévali oves a n-nemìli èas na to, aby si p-pøeèetli v-varovnı štítek.}
-{6083}{}{Krvavá jitrnice?}
-{6084}{}{Pane jo. To je dobré vìdìt. Díky moc, Lenny.}
-{6090}{}{Och. Hehe. N-nejspíš existovala j-jenom p-pøed tvım narozením. Promiò. Mùu pro tebe ještì n-nìco udìlat?}
-{6091}{}{No, kdy se tak ptáš...}
-{6092}{}{Ne, to bude všechno. Díky, Lenny.}
+{6070}{}{P-promiÅˆ. Och! JeÅ¡tÄ› jedna d-dÅ¯leÅ¾itÃ¡ vÄ›c. Pokud n-neplÃ¡nujeÅ¡ zemÅ™Ã­t z-zcela n-nedÅ¯stojnÃ½m zpÅ¯sobem, tak je *v Å¾Ã¡dnÃ©m pÅ™Ã­padÄ›* n-nemÃ­chej s p-povzbuzujÃ­cÃ­ma p-pilulkama z N-new Rena.}
+{6071}{}{PovzbuzujÃ­cÃ­ma... pilulkama?}
+{6072}{}{Å patnÄ› spolu reagujÃ­?}
+{6080}{}{Jojo. To kdyÅ¾ ti tvÅ¯j m-malej p-pÄ›Å¡Ã¡k nechce stÃ¡t v p-pozoru. O-odbornÄ› se jim Å™Ã­kÃ¡ "PDE-5 tlumÃ­cÃ­ sloÅ¾ky", ale vÃ­Å¡ jak to dnes chodÃ­ a jak TO chodÃ­ v New Renu... kde jsem to pÅ™estal?}
+{6081}{}{Jojo. To kdyÅ¾ muÅ¾Å¯m nechce jejich m-malej p-pÄ›Å¡Ã¡k stÃ¡t v p-pozoru. O-odbornÄ› se jim Å™Ã­kÃ¡ "PDE-5 tlumÃ­cÃ­ sloÅ¾ky", ale vÃ­Å¡ jak to dnes chodÃ­ a jak TO chodÃ­ v New Renu... kde jsem to pÅ™estal?}
+{6082}{}{To teda. KdyÅ¾ se ti t-tyhle lÃ¡tky v tÄ›le s-smÃ­chaj, tak nastane velkÃ½ BUM! Srdce ti vybouchne jako k-krvavÃ¡ jitrnice. Pamatuju se, jak jsem p-pitval hned nÄ›kolik ubohejch chlapÃ­kÅ¯, co z-zasÃ©vali oves a n-nemÄ›li Äas na to, aby si p-pÅ™eÄetli v-varovnÃ½ Å¡tÃ­tek.}
+{6083}{}{KrvavÃ¡ jitrnice?}
+{6084}{}{Pane jo. To je dobrÃ© vÄ›dÄ›t. DÃ­ky moc, Lenny.}
+{6090}{}{Och. Hehe. N-nejspÃ­Å¡ existovala j-jenom p-pÅ™ed tvÃ½m narozenÃ­m. PromiÅˆ. MÅ¯Å¾u pro tebe jeÅ¡tÄ› n-nÄ›co udÄ›lat?}
+{6091}{}{No, kdyÅ¾ se tak ptÃ¡Å¡...}
+{6092}{}{Ne, to bude vÅ¡echno. DÃ­ky, Lenny.}

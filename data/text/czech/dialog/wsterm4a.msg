@@ -1,12 +1,12 @@
-{100}{}{Poèítaèovı terminál.}
-{101}{}{Vypadá pøesnì jako bezpeènostní terminál.}
-{102}{}{Obrazovka je pro tebe zcela neèitelná.}
-{103}{}{Skynet - Bezpeènostní systémy                                    Pøístup odepøen}
+{100}{}{PoÄÃ­taÄovÃ½ terminÃ¡l.}
+{101}{}{VypadÃ¡ pÅ™esnÄ› jako bezpeÄnostnÃ­ terminÃ¡l.}
+{102}{}{Obrazovka je pro tebe zcela neÄitelnÃ¡.}
+{103}{}{Skynet - BezpeÄnostnÃ­ systÃ©my                                    PÅ™Ã­stup odepÅ™en}
 {104}{}{}
 {105}{}{Konec.}
-{106}{}{Chyba!                                                                 Program nenalezen                                              Prosím, restartujte}
+{106}{}{Chyba!                                                                 Program nenalezen                                              ProsÃ­m, restartujte}
 {107}{}{}
 {108}{}{}
 {109}{}{Konec.}
-{200}{}{ nedokáe pøeèíst text na monitoru.}
-{300}{}{Vypadá to, e je v poèítaèi nìjakı obrannı mechanismus.}
+{200}{}{ nedokÃ¡Å¾e pÅ™eÄÃ­st text na monitoru.}
+{300}{}{VypadÃ¡ to, Å¾e je v poÄÃ­taÄi nÄ›jakÃ½ obrannÃ½ mechanismus.}

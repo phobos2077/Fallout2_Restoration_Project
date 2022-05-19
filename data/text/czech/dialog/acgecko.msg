@@ -1,2 +1,2 @@
-{100}{}{Geckon se na tebe šklebí.}
-{101}{}{Geckon se šklebí na: }
+{100}{}{Geckon se na tebe Å¡klebÃ­.}
+{101}{}{Geckon se Å¡klebÃ­ na: }

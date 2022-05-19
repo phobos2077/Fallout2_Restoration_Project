@@ -1,18 +1,18 @@
-{100}{}{Vidíš enu v kevlarové zbroji NCR.}
-{101}{}{Vidíš kapitána stráí.}
-{102}{}{Je to sice ena, ale její brokovnice u pasu øíká, e si s ní není radno zahrávat.}
-{103}{}{Omluv mì, jsem zaneprázdnìná ena. Nemám èas na vykecávání.}
-{104}{}{Nestrkej nos kam nemáš a budeme spolu dobøe vycházet, cizinèe.}
-{105}{}{Máš otázky? Tak zajdi za šerifem Dumontem. Ten ti na nì odpoví.}
-{106}{}{Zákony jsou venku na informaèní tabuli - ádné zbranì, ádnı chlast a ádné problémy.}
-{107}{}{Co pro tebe mùu udìlat, cizinèe?}
+{100}{}{VidÃ­Å¡ Å¾enu v kevlarovÃ© zbroji NCR.}
+{101}{}{VidÃ­Å¡ kapitÃ¡na strÃ¡Å¾Ã­.}
+{102}{}{Je to sice Å¾ena, ale jejÃ­ brokovnice u pasu Å™Ã­kÃ¡, Å¾e si s nÃ­ nenÃ­ radno zahrÃ¡vat.}
+{103}{}{Omluv mÄ›, jsem zaneprÃ¡zdnÄ›nÃ¡ Å¾ena. NemÃ¡m Äas na vykecÃ¡vÃ¡nÃ­.}
+{104}{}{Nestrkej nos kam nemÃ¡Å¡ a budeme spolu dobÅ™e vychÃ¡zet, cizinÄe.}
+{105}{}{MÃ¡Å¡ otÃ¡zky? Tak zajdi za Å¡erifem Dumontem. Ten ti na nÄ› odpovÃ­.}
+{106}{}{ZÃ¡kony jsou venku na informaÄnÃ­ tabuli - Å¾Ã¡dnÃ© zbranÄ›, Å¾Ã¡dnÃ½ chlast a Å¾Ã¡dnÃ© problÃ©my.}
+{107}{}{Co pro tebe mÅ¯Å¾u udÄ›lat, cizinÄe?}
 {108}{}{Zase vy?}
-{109}{}{Já chtít dovnitø.}
+{109}{}{JÃ¡ chtÃ­t dovnitÅ™.}
 {110}{}{Chci se dostat do NCR.}
 {111}{}{No nic.}
-{112}{}{Nikam nepùjdeš, dokud neschováš zbranì.}
-{113}{}{Všichni musí schovat zbranì.}
-{114}{}{Hmm... dobrá. Nevidím na tobì nic podezøelého. Jak se jmenuješ? Musím tì zapsat do knihy.}
+{112}{}{Nikam nepÅ¯jdeÅ¡, dokud neschovÃ¡Å¡ zbranÄ›.}
+{113}{}{VÅ¡ichni musÃ­ schovat zbranÄ›.}
+{114}{}{Hmm... dobrÃ¡. NevidÃ­m na tobÄ› nic podezÅ™elÃ©ho. Jak se jmenujeÅ¡? MusÃ­m tÄ› zapsat do knihy.}
 {115}{}{}
-{116}{}{No dobrá, brána bude otevøená za chvilku.}
-{117}{}{Nesahej na to! Ihned odejdi, nebo budeš mít problémy.}
+{116}{}{No dobrÃ¡, brÃ¡na bude otevÅ™enÃ¡ za chvilku.}
+{117}{}{Nesahej na to! Ihned odejdi, nebo budeÅ¡ mÃ­t problÃ©my.}

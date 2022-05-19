@@ -1,76 +1,76 @@
-{100}{}{Vidíš špinavého lovce s potrhanımi a krví potøísnìnımi šaty. Zdá se, e trochu kulhá na jednu nohu.}
-{101}{}{Vidíš Smileyho, lovce koešin. Trochu kulhá a vypadá nešastnì.}
-{102}{}{Vidíš Smileyho, lovce koešin. Je na tom teï mnohem lépe od té doby, co byl zachránìn.}
-{103}{}{Vidíš mue støedního vìku v potrhanıch a krví potøísnìnıch loveckıch šatech. Nevypadá zrovna nejlépe.}
-{104}{}{Vidíš Smileyho, lovce koešin. Jeho zdravotní stav se zda bıt mnohem lepší od té doby, co byl zachránìn.}
-{110}{}{Zdravím tì, cizinèe. Øíkají mi Smiley. Jsem rád, e tì tu vidím. U jsem myslel, e tady urèitì zemøu! S tímhle zranìním se pøes ty zatracenı ještìrky sám nedostanu.}
-{111}{}{Smajlík, hehehe. Dobøe.}
-{112}{}{Co tu dìláš?}
-{113}{}{Tìší mì, Smiley. Myslím, e u pùjdu.}
-{120}{}{No skvìlı, další Torr. Já (ukáe na sebe) potøebuju tebe (ukáe na tebe), abys mi pomohl odtud (pøedvede rukou chùzi).}
-{121}{}{Jít? Teï? Dobøe. }
-{122}{}{ jít. Zlá ještìrka! Zlá!}
-{130}{}{Ano! To je ono. Pùjdeme (znovu ukáe rukou chùzi) spoleènì (sevøe dlanì k sobì). Hned teï!}
-{131}{}{Smiley jít s }
-{132}{}{ teï.}
-{133}{}{Smiley nejít s }
-{134}{}{. Nemít rád Smiley. Naskledanou.}
-{140}{}{Hej! Poèkej! Nemùeš mì tu jen tak nechat!}
-{141}{}{Jejda, promiò. Na co sakra myslím?}
+{100}{}{VidÃ­Å¡ Å¡pinavÃ©ho lovce s potrhanÃ½mi a krvÃ­ potÅ™Ã­snÄ›nÃ½mi Å¡aty. ZdÃ¡ se, Å¾e trochu kulhÃ¡ na jednu nohu.}
+{101}{}{VidÃ­Å¡ Smileyho, lovce koÅ¾eÅ¡in. Trochu kulhÃ¡ a vypadÃ¡ neÅ¡Å¥astnÄ›.}
+{102}{}{VidÃ­Å¡ Smileyho, lovce koÅ¾eÅ¡in. Je na tom teÄ mnohem lÃ©pe od tÃ© doby, co byl zachrÃ¡nÄ›n.}
+{103}{}{VidÃ­Å¡ muÅ¾e stÅ™ednÃ­ho vÄ›ku v potrhanÃ½ch a krvÃ­ potÅ™Ã­snÄ›nÃ½ch loveckÃ½ch Å¡atech. NevypadÃ¡ zrovna nejlÃ©pe.}
+{104}{}{VidÃ­Å¡ Smileyho, lovce koÅ¾eÅ¡in. Jeho zdravotnÃ­ stav se zda bÃ½t mnohem lepÅ¡Ã­ od tÃ© doby, co byl zachrÃ¡nÄ›n.}
+{110}{}{ZdravÃ­m tÄ›, cizinÄe. Å˜Ã­kajÃ­ mi Smiley. Jsem rÃ¡d, Å¾e tÄ› tu vidÃ­m. UÅ¾ jsem myslel, Å¾e tady urÄitÄ› zemÅ™u! S tÃ­mhle zranÄ›nÃ­m se pÅ™es ty zatracenÃ½ jeÅ¡tÄ›rky sÃ¡m nedostanu.}
+{111}{}{SmajlÃ­k, hehehe. DobÅ™e.}
+{112}{}{Co tu dÄ›lÃ¡Å¡?}
+{113}{}{TÄ›Å¡Ã­ mÄ›, Smiley. MyslÃ­m, Å¾e uÅ¾ pÅ¯jdu.}
+{120}{}{No skvÄ›lÃ½, dalÅ¡Ã­ Torr. JÃ¡ (ukÃ¡Å¾e na sebe) potÅ™ebuju tebe (ukÃ¡Å¾e na tebe), abys mi pomohl odtud (pÅ™edvede rukou chÅ¯zi).}
+{121}{}{JÃ­t? TeÄ? DobÅ™e. }
+{122}{}{ jÃ­t. ZlÃ¡ jeÅ¡tÄ›rka! ZlÃ¡!}
+{130}{}{Ano! To je ono. PÅ¯jdeme (znovu ukÃ¡Å¾e rukou chÅ¯zi) spoleÄnÄ› (sevÅ™e dlanÄ› k sobÄ›). Hned teÄ!}
+{131}{}{Smiley jÃ­t s }
+{132}{}{ teÄ.}
+{133}{}{Smiley nejÃ­t s }
+{134}{}{. NemÃ­t rÃ¡d Smiley. Naskledanou.}
+{140}{}{Hej! PoÄkej! NemÅ¯Å¾eÅ¡ mÄ› tu jen tak nechat!}
+{141}{}{Jejda, promiÅˆ. Na co sakra myslÃ­m?}
 {142}{}{No, asi ne.}
-{143}{}{Mùu a taky nechám. A pøesnì to udìlám. Sbohem.}
-{150}{}{Na severu a na západì od Klamathu jsem vdycky chytil víc zlatıch geckonù ne kdekoliv jinde. Take jsem pøedpokládal, e všichni zlatí geckoni ijí nìkde tady nahoøe.}
-{151}{}{Vypadá to, e jsi mìl pravdu.}
-{160}{}{Hroznì rád bych si s tebou pokecal, ale nejdøív bych odsud rád vypadnul. Pokecáme si a pozdìji. Souhlasíš?}
-{161}{}{Eh, jasnì. To je dobrı nápad.}
-{162}{}{Nejdøív se chci na nìco zeptat. Co je tohle za jeskynì?}
-{170}{}{Vypadá to, e jsem mìl a moc pravdu. Pøišel jsem sem úplnì v poøádku, ale pak se jeden z tìch zatracenejch geckonù dostal nepozorovanì za mì a skoro mi ukousnul nohu. Sotva jsem se dostal sem.}
-{171}{}{Proè tì nedorazili?}
-{180}{}{No, nejspíš neradi chodí pøes tu zelenou sraèku. Nedivím se jim. Kdy se ti dostane na kùi, tak to poøádnì pálí. Ale stejnì to ty potvory líou, jako by to bylo Bucknerovic Nejlepší.}
-{181}{}{Zajímavé.}
-{190}{}{U toho kecání bylo dost. Vypadneme odsud. Poèítám, e kdy pùjdeme spolu, tak bysme to mohli oba zvládnout v poøádku. Pomoc by se mi rozhodnì hodila.}
-{191}{}{Dobøe. Pùjdeme spolu. Zajistím, aby ses dostal v poøádku do Klamathu. Myslím, e Ardin bude ráda, a tì zase uvidí.}
-{192}{}{Dobrá, dobrá. Ale ne abys poøád škemral o pomoc.}
-{200}{}{Tyhle jeskynì nejspíš slouily jako pøedváleèné skladovací prostory. Podle mì je toho dole víc, ale na dveøích je nìjakı druh speciálního zámku. Kadopádnì u toho tady mám plné zuby, take odsud vypadneme.}
-{201}{}{Dobøe.}
-{210}{}{Uuf. Myslím, e jsem tam zestárl o nìkolik let. Stav se nìkdy do hospody U Bucknerové a promluvíme si o nìjaké pìkné odmìnì za moji záchranu.}
-{211}{}{Díky, Smiley. Rádo se stalo. Sbohem.}
-{212}{}{Dobøe, tak jo. Sbohem.}
-{213}{}{No koneènì ses zmínil o odmìnì. Doufám, e to bude stát za to. Sbohem.}
-{220}{}{A hele, mùj pøihlouplı pøítel. Díky moc. Sbohem.}
-{221}{}{Zdravím tì, pøíteli. Ještì jednou díky za to, e jsi mì vytáhl z té bryndy. Mùu ti s nìèím pomoct?}
-{222}{}{Mùu pro tebe ještì nìco udìlat, pøíteli?}
-{223}{}{No, mám pár otázek ohlednì lovu geckonù.}
-{224}{}{Mám nejrùznìjší otázky tıkající se této oblasti.}
-{225}{}{Je paní Bucknerová šastná, e ses vrátil?}
-{226}{}{Ne, chtìl jsem tì jen pozdravit. Promluvíme si pozdìji, Smiley. Sbohem.}
-{230}{}{No, rozhodnì ti dluím za záchranu svı kùe. To nejmenší, co pro tebe mùu udìlat je, e tì na oplátku nìco nauèím.}
-{231}{}{Nauèit?}
-{232}{}{Díky, Smiley. Ocením jakékoliv rady, které mi mùeš dát.}
-{240}{}{Jeliko ze mì málem geckoni servali kùi, nauèím tì, jak získat tu jejich. Takhle je stáhneš. (Smiley pøedvede názornou ukázku) ...a a je zabiješ, tak z nich mùeš stáhnout kùi a tu pak prodat. Je ti to jasné?}
-{241}{}{Ugh. Pìknı, hehehe. Prodat. Hehehe. Ahoj.}
-{242}{}{Díky, tohle se mi bude urèitì hodit. Povìz mi ještì nìco.}
-{243}{}{Díky, e jsi mi ukázal jak na to, Smiley. Asi to hned pùjdu vyzkoušet na pár geckonech. Sbohem.}
-{250}{}{Myslím, e u toho o geckonech víš dost. }
-{251}{}{Hehe. Myslím, e bych se mohl o geckonech spíš uèit já od tebe. Opravdu nevím, co bych tì tak mohl ještì nauèit.}
-{252}{}{No, myslím, e o geckonech toho vím víc ne kdokoliv jinı. Víš, byl jsem odkojen geckoním mlékem. Ale zabere nám to pár hodin.}
-{253}{}{Chci vìdìt všechno, co mì mùeš o geckonech nauèit.}
-{254}{}{Myslím, e to teï nepotøebuju vìdìt. Povìz mi ještì nìco jiného.}
-{255}{}{Geckoním mlékem? Copak oni nejsou plazi?}
-{260}{}{Potøebuješ toho vìdìt víc, ne si vùbec myslíš.}
-{261}{}{Uè mì, ó velkı lovèe koešin.}
-{262}{}{Eh, ano. Jen do toho. Poslouchám.}
-{263}{}{Dobøe, dobøe. Mùeš zaèít s tìma nesmyslama. Jsem jedno ucho.}
-{264}{}{Vlastnì to teï nepotøebuju vìdìt. Sbohem.}
-{270}{}{No, tak podívej se. Zlatí geckoni a obyèejní geckoni jsou v podstatì stejní tvorové a na to, e ti zlatí jsou mnohem nebezpeènìjší, kdy je vyprovokuješ... (Èas utíká, jak se uèíš vìci o geckonech.)}
-{271}{}{To bylo skvìlé. Myslím, e u toho vím o geckonech mnohem víc. Sbohem.}
-{280}{}{Maida Bucknerová, dcera vdovy Bucknerové, je ta správná osoba, se kterou si mùeš promluvit o nejrùznìjších místních drbech.}
-{281}{}{Chci se ještì na nìco zeptat.}
-{282}{}{Aha, chápu. Díky. Sbohem.}
-{290}{}{Vdova Bucknerová je hroznì šastná, e mì má zpátky. Však u moná brzy bude paní Smileyová. Dokonce mluvila i o tom, e by ti ráda nìco dala za záchranu mého chlupatého zadku.}
-{291}{}{Pøeju vám obìma štìstí. Chci se ještì na nìco zeptat.}
-{292}{}{To je skvìlé. Musím si s ní promluvit. Sbohem.}
-{300}{}{Poslyš, díky za záchranu mojeho zadku. Radši teï povalím rovnou do Klamathu. Uvidíme se tam.}
-{310}{}{Neboj se o mì. Zpátky u to zvládnu sám.}
-{320}{}{Získáváš }
-{330}{}{ zkušenostních bodù za záchranu Smileyho.}
+{143}{}{MÅ¯Å¾u a taky nechÃ¡m. A pÅ™esnÄ› to udÄ›lÃ¡m. Sbohem.}
+{150}{}{Na severu a na zÃ¡padÄ› od Klamathu jsem vÅ¾dycky chytil vÃ­c zlatÃ½ch geckonÅ¯ neÅ¾ kdekoliv jinde. TakÅ¾e jsem pÅ™edpoklÃ¡dal, Å¾e vÅ¡ichni zlatÃ­ geckoni Å¾ijÃ­ nÄ›kde tady nahoÅ™e.}
+{151}{}{VypadÃ¡ to, Å¾e jsi mÄ›l pravdu.}
+{160}{}{HroznÄ› rÃ¡d bych si s tebou pokecal, ale nejdÅ™Ã­v bych odsud rÃ¡d vypadnul. PokecÃ¡me si aÅ¾ pozdÄ›ji. SouhlasÃ­Å¡?}
+{161}{}{Eh, jasnÄ›. To je dobrÃ½ nÃ¡pad.}
+{162}{}{NejdÅ™Ã­v se chci na nÄ›co zeptat. Co je tohle za jeskynÄ›?}
+{170}{}{VypadÃ¡ to, Å¾e jsem mÄ›l aÅ¾ moc pravdu. PÅ™iÅ¡el jsem sem ÃºplnÄ› v poÅ™Ã¡dku, ale pak se jeden z tÄ›ch zatracenejch geckonÅ¯ dostal nepozorovanÄ› za mÄ› a skoro mi ukousnul nohu. Sotva jsem se dostal sem.}
+{171}{}{ProÄ tÄ› nedorazili?}
+{180}{}{No, nejspÃ­Å¡ neradi chodÃ­ pÅ™es tu zelenou sraÄku. NedivÃ­m se jim. KdyÅ¾ se ti dostane na kÅ¯Å¾i, tak to poÅ™Ã¡dnÄ› pÃ¡lÃ­. Ale stejnÄ› to ty potvory lÃ­Å¾ou, jako by to bylo Bucknerovic NejlepÅ¡Ã­.}
+{181}{}{ZajÃ­mavÃ©.}
+{190}{}{UÅ¾ toho kecÃ¡nÃ­ bylo dost. Vypadneme odsud. PoÄÃ­tÃ¡m, Å¾e kdyÅ¾ pÅ¯jdeme spolu, tak bysme to mohli oba zvlÃ¡dnout v poÅ™Ã¡dku. Pomoc by se mi rozhodnÄ› hodila.}
+{191}{}{DobÅ™e. PÅ¯jdeme spolu. ZajistÃ­m, aby ses dostal v poÅ™Ã¡dku do Klamathu. MyslÃ­m, Å¾e Ardin bude rÃ¡da, aÅ¾ tÄ› zase uvidÃ­.}
+{192}{}{DobrÃ¡, dobrÃ¡. Ale ne abys poÅ™Ã¡d Å¡kemral o pomoc.}
+{200}{}{Tyhle jeskynÄ› nejspÃ­Å¡ slouÅ¾ily jako pÅ™edvÃ¡leÄnÃ© skladovacÃ­ prostory. Podle mÄ› je toho dole vÃ­c, ale na dveÅ™Ã­ch je nÄ›jakÃ½ druh speciÃ¡lnÃ­ho zÃ¡mku. KaÅ¾dopÃ¡dnÄ› uÅ¾ toho tady mÃ¡m plnÃ© zuby, takÅ¾e odsud vypadneme.}
+{201}{}{DobÅ™e.}
+{210}{}{Uuf. MyslÃ­m, Å¾e jsem tam zestÃ¡rl o nÄ›kolik let. Stav se nÄ›kdy do hospody U BucknerovÃ© a promluvÃ­me si o nÄ›jakÃ© pÄ›knÃ© odmÄ›nÄ› za moji zÃ¡chranu.}
+{211}{}{DÃ­ky, Smiley. RÃ¡do se stalo. Sbohem.}
+{212}{}{DobÅ™e, tak jo. Sbohem.}
+{213}{}{No koneÄnÄ› ses zmÃ­nil o odmÄ›nÄ›. DoufÃ¡m, Å¾e to bude stÃ¡t za to. Sbohem.}
+{220}{}{A hele, mÅ¯j pÅ™ihlouplÃ½ pÅ™Ã­tel. DÃ­ky moc. Sbohem.}
+{221}{}{ZdravÃ­m tÄ›, pÅ™Ã­teli. JeÅ¡tÄ› jednou dÃ­ky za to, Å¾e jsi mÄ› vytÃ¡hl z tÃ© bryndy. MÅ¯Å¾u ti s nÄ›ÄÃ­m pomoct?}
+{222}{}{MÅ¯Å¾u pro tebe jeÅ¡tÄ› nÄ›co udÄ›lat, pÅ™Ã­teli?}
+{223}{}{No, mÃ¡m pÃ¡r otÃ¡zek ohlednÄ› lovu geckonÅ¯.}
+{224}{}{MÃ¡m nejrÅ¯znÄ›jÅ¡Ã­ otÃ¡zky tÃ½kajÃ­cÃ­ se tÃ©to oblasti.}
+{225}{}{Je panÃ­ BucknerovÃ¡ Å¡Å¥astnÃ¡, Å¾e ses vrÃ¡til?}
+{226}{}{Ne, chtÄ›l jsem tÄ› jen pozdravit. PromluvÃ­me si pozdÄ›ji, Smiley. Sbohem.}
+{230}{}{No, rozhodnÄ› ti dluÅ¾Ã­m za zÃ¡chranu svÃ½ kÅ¯Å¾e. To nejmenÅ¡Ã­, co pro tebe mÅ¯Å¾u udÄ›lat je, Å¾e tÄ› na oplÃ¡tku nÄ›co nauÄÃ­m.}
+{231}{}{NauÄit?}
+{232}{}{DÃ­ky, Smiley. OcenÃ­m jakÃ©koliv rady, kterÃ© mi mÅ¯Å¾eÅ¡ dÃ¡t.}
+{240}{}{JelikoÅ¾ ze mÄ› mÃ¡lem geckoni servali kÅ¯Å¾i, nauÄÃ­m tÄ›, jak zÃ­skat tu jejich. Takhle je stÃ¡hneÅ¡. (Smiley pÅ™edvede nÃ¡zornou ukÃ¡zku) ...a aÅ¾ je zabijeÅ¡, tak z nich mÅ¯Å¾eÅ¡ stÃ¡hnout kÅ¯Å¾i a tu pak prodat. Je ti to jasnÃ©?}
+{241}{}{Ugh. PÄ›knÃ½, hehehe. Prodat. Hehehe. Ahoj.}
+{242}{}{DÃ­ky, tohle se mi bude urÄitÄ› hodit. PovÄ›z mi jeÅ¡tÄ› nÄ›co.}
+{243}{}{DÃ­ky, Å¾e jsi mi ukÃ¡zal jak na to, Smiley. Asi to hned pÅ¯jdu vyzkouÅ¡et na pÃ¡r geckonech. Sbohem.}
+{250}{}{MyslÃ­m, Å¾e uÅ¾ toho o geckonech vÃ­Å¡ dost. }
+{251}{}{Hehe. MyslÃ­m, Å¾e bych se mohl o geckonech spÃ­Å¡ uÄit jÃ¡ od tebe. Opravdu nevÃ­m, co bych tÄ› tak mohl jeÅ¡tÄ› nauÄit.}
+{252}{}{No, myslÃ­m, Å¾e o geckonech toho vÃ­m vÃ­c neÅ¾ kdokoliv jinÃ½. VÃ­Å¡, byl jsem odkojen geckonÃ­m mlÃ©kem. Ale zabere nÃ¡m to pÃ¡r hodin.}
+{253}{}{Chci vÄ›dÄ›t vÅ¡echno, co mÄ› mÅ¯Å¾eÅ¡ o geckonech nauÄit.}
+{254}{}{MyslÃ­m, Å¾e to teÄ nepotÅ™ebuju vÄ›dÄ›t. PovÄ›z mi jeÅ¡tÄ› nÄ›co jinÃ©ho.}
+{255}{}{GeckonÃ­m mlÃ©kem? Copak oni nejsou plazi?}
+{260}{}{PotÅ™ebujeÅ¡ toho vÄ›dÄ›t vÃ­c, neÅ¾ si vÅ¯bec myslÃ­Å¡.}
+{261}{}{UÄ mÄ›, Ã³ velkÃ½ lovÄe koÅ¾eÅ¡in.}
+{262}{}{Eh, ano. Jen do toho. PoslouchÃ¡m.}
+{263}{}{DobÅ™e, dobÅ™e. MÅ¯Å¾eÅ¡ zaÄÃ­t s tÄ›ma nesmyslama. Jsem jedno ucho.}
+{264}{}{VlastnÄ› to teÄ nepotÅ™ebuju vÄ›dÄ›t. Sbohem.}
+{270}{}{No, tak podÃ­vej se. ZlatÃ­ geckoni a obyÄejnÃ­ geckoni jsou v podstatÄ› stejnÃ­ tvorovÃ© aÅ¾ na to, Å¾e ti zlatÃ­ jsou mnohem nebezpeÄnÄ›jÅ¡Ã­, kdyÅ¾ je vyprovokujeÅ¡... (ÄŒas utÃ­kÃ¡, jak se uÄÃ­Å¡ vÄ›ci o geckonech.)}
+{271}{}{To bylo skvÄ›lÃ©. MyslÃ­m, Å¾e uÅ¾ toho vÃ­m o geckonech mnohem vÃ­c. Sbohem.}
+{280}{}{Maida BucknerovÃ¡, dcera vdovy BucknerovÃ©, je ta sprÃ¡vnÃ¡ osoba, se kterou si mÅ¯Å¾eÅ¡ promluvit o nejrÅ¯znÄ›jÅ¡Ã­ch mÃ­stnÃ­ch drbech.}
+{281}{}{Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{282}{}{Aha, chÃ¡pu. DÃ­ky. Sbohem.}
+{290}{}{Vdova BucknerovÃ¡ je hroznÄ› Å¡Å¥astnÃ¡, Å¾e mÄ› mÃ¡ zpÃ¡tky. VÅ¡ak uÅ¾ moÅ¾nÃ¡ brzy bude panÃ­ SmileyovÃ¡. Dokonce mluvila i o tom, Å¾e by ti rÃ¡da nÄ›co dala za zÃ¡chranu mÃ©ho chlupatÃ©ho zadku.}
+{291}{}{PÅ™eju vÃ¡m obÄ›ma Å¡tÄ›stÃ­. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{292}{}{To je skvÄ›lÃ©. MusÃ­m si s nÃ­ promluvit. Sbohem.}
+{300}{}{PoslyÅ¡, dÃ­ky za zÃ¡chranu mojeho zadku. RadÅ¡i teÄ povalÃ­m rovnou do Klamathu. UvidÃ­me se tam.}
+{310}{}{Neboj se o mÄ›. ZpÃ¡tky uÅ¾ to zvlÃ¡dnu sÃ¡m.}
+{320}{}{ZÃ­skÃ¡vÃ¡Å¡ }
+{330}{}{ zkuÅ¡enostnÃ­ch bodÅ¯ za zÃ¡chranu Smileyho.}

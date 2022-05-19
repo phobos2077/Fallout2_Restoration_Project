@@ -1,113 +1,113 @@
-{100}{}{Vidíš velmi silného supermutanta. Vypadá znudìnì.}
-{101}{}{Vidíš Francise, zápasníka v páce.}
-{102}{}{Vidíš velmi silného supermutanta. Je obleèenı do èerné kùe a má znudìnı vıraz ve tváøi.}
-{103}{}{Chceš s nìèím pomoct?}
+{100}{}{VidÃ­Å¡ velmi silnÃ©ho supermutanta. VypadÃ¡ znudÄ›nÄ›.}
+{101}{}{VidÃ­Å¡ Francise, zÃ¡pasnÃ­ka v pÃ¡ce.}
+{102}{}{VidÃ­Å¡ velmi silnÃ©ho supermutanta. Je obleÄenÃ½ do ÄernÃ© kÅ¯Å¾e a mÃ¡ znudÄ›nÃ½ vÃ½raz ve tvÃ¡Å™i.}
+{103}{}{ChceÅ¡ s nÄ›ÄÃ­m pomoct?}
 {104}{}{Ook! Ook! Eep orp ook!}
 {105}{}{Gdo ty?}
-{106}{}{Nazdar, kámo. Kdo jsi?}
-{107}{}{Co se dá v tomhle mìstì dìlat?}
-{108}{}{Pøipraven na zápas v páce, elezná tykvo?}
-{109}{}{Kámo, netuším, co se mi snaíš øíct. Promiò.}
-{110}{}{Jsem Francis. Šampión v páce v tomhle mìstì. Vsadil jsem se, e mì nikdo neporazí.}
-{111}{}{Jsem Francis, pamatuješ? Šampión v páce v tomhle mìstì. Vsadil jsem se, e mì nikdo neporazí.}
-{112}{}{Já tebe porazit! Já! Já!}
-{113}{}{Vsadím se, e jsi nemìl pøíliš vyzyvatelù.}
-{114}{}{Vsadím se, e tì porazím.}
-{115}{}{Jsi a tak dobrı, jo?}
-{116}{}{Co se tady dá dìlat? No, tak podívej... máme tady salón, dùl, rafinérii a karavanu. Na zábavu moc èasu není, ale kdy u nìjakı je, tak chlastáme. A taky pracujeme na vztazích mezi lidmi a mutanty.}
-{117}{}{Jak... vzrušující.}
-{118}{}{Dobøe, díky.}
-{119}{}{Na vztazích lidí a mutantù? Co tím myslíš?}
-{120}{}{Jsem vdy pøipraven. Dáme se do toho?}
-{121}{}{Ne, musím se nejdøív uzdravit.}
+{106}{}{Nazdar, kÃ¡mo. Kdo jsi?}
+{107}{}{Co se dÃ¡ v tomhle mÄ›stÄ› dÄ›lat?}
+{108}{}{PÅ™ipraven na zÃ¡pas v pÃ¡ce, Å¾eleznÃ¡ tykvo?}
+{109}{}{KÃ¡mo, netuÅ¡Ã­m, co se mi snaÅ¾Ã­Å¡ Å™Ã­ct. PromiÅˆ.}
+{110}{}{Jsem Francis. Å ampiÃ³n v pÃ¡ce v tomhle mÄ›stÄ›. Vsadil jsem se, Å¾e mÄ› nikdo neporazÃ­.}
+{111}{}{Jsem Francis, pamatujeÅ¡? Å ampiÃ³n v pÃ¡ce v tomhle mÄ›stÄ›. Vsadil jsem se, Å¾e mÄ› nikdo neporazÃ­.}
+{112}{}{JÃ¡ tebe porazit! JÃ¡! JÃ¡!}
+{113}{}{VsadÃ­m se, Å¾e jsi nemÄ›l pÅ™Ã­liÅ¡ vyzyvatelÅ¯.}
+{114}{}{VsadÃ­m se, Å¾e tÄ› porazÃ­m.}
+{115}{}{Jsi aÅ¾ tak dobrÃ½, jo?}
+{116}{}{Co se tady dÃ¡ dÄ›lat? No, tak podÃ­vej... mÃ¡me tady salÃ³n, dÅ¯l, rafinÃ©rii a karavanu. Na zÃ¡bavu moc Äasu nenÃ­, ale kdyÅ¾ uÅ¾ nÄ›jakÃ½ je, tak chlastÃ¡me. A taky pracujeme na vztazÃ­ch mezi lidmi a mutanty.}
+{117}{}{Jak... vzruÅ¡ujÃ­cÃ­.}
+{118}{}{DobÅ™e, dÃ­ky.}
+{119}{}{Na vztazÃ­ch lidÃ­ a mutantÅ¯? Co tÃ­m myslÃ­Å¡?}
+{120}{}{Jsem vÅ¾dy pÅ™ipraven. DÃ¡me se do toho?}
+{121}{}{Ne, musÃ­m se nejdÅ™Ã­v uzdravit.}
 {122}{}{Eh, ne.}
-{123}{}{Jasnì e jo.}
-{124}{}{(Zmìøí si tì pohledem a prozkoumá tvé svaly.) Myslím, e ne, kámo. Jen bych mrhal svım èasem. Odprejskni.}
-{125}{}{Ty si myslíš, e mì pøemùeš, jo? Tak dobøe. Kdy vyhraješ, dám ti energo pìst. Kdy vyhraju já, budeš mi celou noc slouit. Chceš se do toho pustit hned, nebo si potøebuješ odpoèinout?}
-{126}{}{Odpoèinout! Odpoèinout!}
-{127}{}{Teï. My teï!}
-{128}{}{Chci si nejdøív trochu odpoèinout.}
-{129}{}{Rozdáme si to hned teï.}
-{130}{}{Vlastnì s tebou u nechci zápasit.}
-{131}{}{Pøesnì tak. Zdá se, e v tıhle bohem zapomenutı pustinì není nikdo, kdo by se mì odváil vyzvat.}
-{132}{}{To je škoda. Jestli nìkoho najdu, pošlu ho za tebou. Nashle.}
-{133}{}{To, e jsi silnı, ještì neznamená, e jsi taky chytrı. Pamatuj na to.}
-{134}{}{Kámo, jestli se ti tady nelíbí, mùeš jít nìkam jinam.}
-{135}{}{ádnı problém. Jestli nìco potøebuješ, zeptej se barmana Phila nebo nìkoho jiného.}
-{136}{}{Kámo, tak chceš si dát páku, nebo ne? Nemíním ztrácet èas s posmìškama a zbabìlcema.}
-{137}{}{Jo, jasnì. Pojïme na to.}
-{138}{}{Ne. Myslím, e ne.}
-{139}{}{A budeš pøipraven, tak se vra. Budu nìkde poblí.}
-{140}{}{Vypadni odsud, nebo mi hrkne v bednì a rozbiju ti drku.}
-{141}{}{Vzdáváš to, co? To jsem si myslel. Zbabìlèe.}
-{142}{}{Dobøe, dobøe, tak teda jo.}
-{143}{}{Jo, jasnì. Zatím.}
-{144}{}{Kámo, to je poprvı, co mì nìkdo spravedlivì porazil. Vyhrál jsi. Tady máš. Dobrá práce.}
-{145}{}{Prohrál jsi. ádnı pøekvapení. Jdeš se mnou domù.}
-{146}{}{Nìco ti øeknu, kámo, ještì nikdy jsem nepotkal nìkoho tak dobrıho. Vyuij svoji sílu ve prospìch dobra. Uij si tu rukavici!}
-{147}{}{Nemáš dost? Chceš ještì? Stejná sázka?}
-{148}{}{Jo, pojïme na to.}
-{149}{}{Ne, promiòte.}
-{150}{}{Slyšel jsem o tobì. Se šmejdama se nekamarádím.}
-{151}{}{Kámo, díky za záchranu našeho mìsta. Pojï, koupím ti drink.}
-{152}{}{Nazdárek, hrdino!}
-{153}{}{Šmejde! Chcípni!}
-{154}{}{Moná sis všimnul, e ve mìstì ijou lidi i mutanti. Snaíme se tu ít v míru. Bohuel se ale vdycky najde nìkdo, kdo se nás pokouší proti sobì poštvat. Náš šéf Marcus byl spoluzakladatelem mìsta. Chceš slyšet víc?}
-{155}{}{Jasnì, pokraèuj.}
+{123}{}{JasnÄ› Å¾e jo.}
+{124}{}{(ZmÄ›Å™Ã­ si tÄ› pohledem a prozkoumÃ¡ tvÃ© svaly.) MyslÃ­m, Å¾e ne, kÃ¡mo. Jen bych mrhal svÃ½m Äasem. Odprejskni.}
+{125}{}{Ty si myslÃ­Å¡, Å¾e mÄ› pÅ™emÅ¯Å¾eÅ¡, jo? Tak dobÅ™e. KdyÅ¾ vyhrajeÅ¡, dÃ¡m ti energo pÄ›st. KdyÅ¾ vyhraju jÃ¡, budeÅ¡ mi celou noc slouÅ¾it. ChceÅ¡ se do toho pustit hned, nebo si potÅ™ebujeÅ¡ odpoÄinout?}
+{126}{}{OdpoÄinout! OdpoÄinout!}
+{127}{}{TeÄ. My teÄ!}
+{128}{}{Chci si nejdÅ™Ã­v trochu odpoÄinout.}
+{129}{}{RozdÃ¡me si to hned teÄ.}
+{130}{}{VlastnÄ› s tebou uÅ¾ nechci zÃ¡pasit.}
+{131}{}{PÅ™esnÄ› tak. ZdÃ¡ se, Å¾e v tÃ½hle bohem zapomenutÃ½ pustinÄ› nenÃ­ nikdo, kdo by se mÄ› odvÃ¡Å¾il vyzvat.}
+{132}{}{To je Å¡koda. Jestli nÄ›koho najdu, poÅ¡lu ho za tebou. Nashle.}
+{133}{}{To, Å¾e jsi silnÃ½, jeÅ¡tÄ› neznamenÃ¡, Å¾e jsi taky chytrÃ½. Pamatuj na to.}
+{134}{}{KÃ¡mo, jestli se ti tady nelÃ­bÃ­, mÅ¯Å¾eÅ¡ jÃ­t nÄ›kam jinam.}
+{135}{}{Å½Ã¡dnÃ½ problÃ©m. Jestli nÄ›co potÅ™ebujeÅ¡, zeptej se barmana Phila nebo nÄ›koho jinÃ©ho.}
+{136}{}{KÃ¡mo, tak chceÅ¡ si dÃ¡t pÃ¡ku, nebo ne? NemÃ­nÃ­m ztrÃ¡cet Äas s posmÄ›Å¡kama a zbabÄ›lcema.}
+{137}{}{Jo, jasnÄ›. PojÄme na to.}
+{138}{}{Ne. MyslÃ­m, Å¾e ne.}
+{139}{}{AÅ¾ budeÅ¡ pÅ™ipraven, tak se vraÅ¥. Budu nÄ›kde poblÃ­Å¾.}
+{140}{}{Vypadni odsud, nebo mi hrkne v bednÄ› a rozbiju ti drÅ¾ku.}
+{141}{}{VzdÃ¡vÃ¡Å¡ to, co? To jsem si myslel. ZbabÄ›lÄe.}
+{142}{}{DobÅ™e, dobÅ™e, tak teda jo.}
+{143}{}{Jo, jasnÄ›. ZatÃ­m.}
+{144}{}{KÃ¡mo, to je poprvÃ½, co mÄ› nÄ›kdo spravedlivÄ› porazil. VyhrÃ¡l jsi. Tady mÃ¡Å¡. DobrÃ¡ prÃ¡ce.}
+{145}{}{ProhrÃ¡l jsi. Å½Ã¡dnÃ½ pÅ™ekvapenÃ­. JdeÅ¡ se mnou domÅ¯.}
+{146}{}{NÄ›co ti Å™eknu, kÃ¡mo, jeÅ¡tÄ› nikdy jsem nepotkal nÄ›koho tak dobrÃ½ho. VyuÅ¾ij svoji sÃ­lu ve prospÄ›ch dobra. UÅ¾ij si tu rukavici!}
+{147}{}{NemÃ¡Å¡ dost? ChceÅ¡ jeÅ¡tÄ›? StejnÃ¡ sÃ¡zka?}
+{148}{}{Jo, pojÄme na to.}
+{149}{}{Ne, promiÅˆte.}
+{150}{}{SlyÅ¡el jsem o tobÄ›. Se Å¡mejdama se nekamarÃ¡dÃ­m.}
+{151}{}{KÃ¡mo, dÃ­ky za zÃ¡chranu naÅ¡eho mÄ›sta. PojÄ, koupÃ­m ti drink.}
+{152}{}{NazdÃ¡rek, hrdino!}
+{153}{}{Å mejde! ChcÃ­pni!}
+{154}{}{MoÅ¾nÃ¡ sis vÅ¡imnul, Å¾e ve mÄ›stÄ› Å¾ijou lidi i mutanti. SnaÅ¾Ã­me se tu Å¾Ã­t v mÃ­ru. BohuÅ¾el se ale vÅ¾dycky najde nÄ›kdo, kdo se nÃ¡s pokouÅ¡Ã­ proti sobÄ› poÅ¡tvat. NÃ¡Å¡ Å¡Ã©f Marcus byl spoluzakladatelem mÄ›sta. ChceÅ¡ slyÅ¡et vÃ­c?}
+{155}{}{JasnÄ›, pokraÄuj.}
 {156}{}{Ne, ani ne.}
-{157}{}{Já si upøímnì myslím, e vy mutanti jste šmejdi a lidi, co s vámi spolupracují, jsou zrádci.}
-{158}{}{Nìkdy mám tady o ty lidi starost... pro nìkterı je hroznì tìkı pøekonat strach. Øíká se, e je na spadnutí nìjakej prùser, ale asi je to jenom blábol.}
-{159}{}{Dík. Naskle.}
-{160}{}{Tak dobøe. No, a budeš chtít zase nìjakı informace, tak víš, kde mì najdeš.}
-{161}{}{Samozøejmì. Díky. Nashle.}
-{162}{}{Opravdu? To je úchvatnı názor. Škoda e jsme nerozdrtili tvoji vesnici, kdy jsme ještì ovládali pustinu. Zmiz mi z oèí, èerve.}
+{157}{}{JÃ¡ si upÅ™Ã­mnÄ› myslÃ­m, Å¾e vy mutanti jste Å¡mejdi a lidi, co s vÃ¡mi spolupracujÃ­, jsou zrÃ¡dci.}
+{158}{}{NÄ›kdy mÃ¡m tady o ty lidi starost... pro nÄ›kterÃ½ je hroznÄ› tÄ›Å¾kÃ½ pÅ™ekonat strach. Å˜Ã­kÃ¡ se, Å¾e je na spadnutÃ­ nÄ›jakej prÅ¯ser, ale asi je to jenom blÃ¡bol.}
+{159}{}{DÃ­k. Naskle.}
+{160}{}{Tak dobÅ™e. No, aÅ¾ budeÅ¡ chtÃ­t zase nÄ›jakÃ½ informace, tak vÃ­Å¡, kde mÄ› najdeÅ¡.}
+{161}{}{SamozÅ™ejmÄ›. DÃ­ky. Nashle.}
+{162}{}{Opravdu? To je ÃºchvatnÃ½ nÃ¡zor. Å koda Å¾e jsme nerozdrtili tvoji vesnici, kdyÅ¾ jsme jeÅ¡tÄ› ovlÃ¡dali pustinu. Zmiz mi z oÄÃ­, Äerve.}
 {200}{}{[KONEC]}
 {201}{}{Nashle.}
-{202}{}{Dík. Naskle.}
-{203}{}{[Více]}
-{204}{}{Samozøejmì. Díky. Nashle.}
-{300}{}{Kámo, nejsem si jistej, jestli dokáeš pochopit moji nabídku. Vra se, a budeš mít víc zkušeností.}
-{301}{}{Vidíš velmi silného supermutanta. Je obleèenı do èerné kùe a má znudìnı vıraz ve tváøi. Zdá se, e mu z kapsy trèí nìjaká obøí rukavice.}
-{302}{}{Všechno tì bolí a vypadá to, e ti po setkání s Francisem zbyl suvenır.}
+{202}{}{DÃ­k. Naskle.}
+{203}{}{[VÃ­ce]}
+{204}{}{SamozÅ™ejmÄ›. DÃ­ky. Nashle.}
+{300}{}{KÃ¡mo, nejsem si jistej, jestli dokÃ¡Å¾eÅ¡ pochopit moji nabÃ­dku. VraÅ¥ se, aÅ¾ budeÅ¡ mÃ­t vÃ­c zkuÅ¡enostÃ­.}
+{301}{}{VidÃ­Å¡ velmi silnÃ©ho supermutanta. Je obleÄenÃ½ do ÄernÃ© kÅ¯Å¾e a mÃ¡ znudÄ›nÃ½ vÃ½raz ve tvÃ¡Å™i. ZdÃ¡ se, Å¾e mu z kapsy trÄÃ­ nÄ›jakÃ¡ obÅ™Ã­ rukavice.}
+{302}{}{VÅ¡echno tÄ› bolÃ­ a vypadÃ¡ to, Å¾e ti po setkÃ¡nÃ­ s Francisem zbyl suvenÃ½r.}
 {400}{}{Uuuuuf!}
-{401}{}{Áááááá!}
-{402}{}{Ajííííí.}
+{401}{}{ÃÃ¡Ã¡Ã¡Ã¡Ã¡!}
+{402}{}{AjÃ­Ã­Ã­Ã­Ã­.}
 {403}{}{Rnnrnrnrnnrrr.}
 {404}{}{Hagggahhhaaaggga.}
 {405}{}{Hominahominahomina.}
 {406}{}{Eeeeeccchhhh.}
 {407}{}{Chrocht!}
-{408}{}{Do øiti!}
+{408}{}{Do Å™iti!}
 {409}{}{Jauvajs!}
 {410}{}{Au! Moje ruka!}
-{411}{}{Haha! Mám tì!}
-{500}{}{Neskuteènı, Francisi! Neskuteènı!}
-{501}{}{Sakra, tomu øíkám poøádnej náøez! Hahaha!}
-{502}{}{Mìli byste oba vstoupit do armády. Hahaha!}
-{503}{}{Nìco ti povím, pøíteli. Snaíš se zbyteènì!}
+{411}{}{Haha! MÃ¡m tÄ›!}
+{500}{}{NeskuteÄnÃ½, Francisi! NeskuteÄnÃ½!}
+{501}{}{Sakra, tomu Å™Ã­kÃ¡m poÅ™Ã¡dnej nÃ¡Å™ez! Hahaha!}
+{502}{}{MÄ›li byste oba vstoupit do armÃ¡dy. Hahaha!}
+{503}{}{NÄ›co ti povÃ­m, pÅ™Ã­teli. SnaÅ¾Ã­Å¡ se zbyteÄnÄ›!}
 {504}{}{Au! To muselo bolet!}
 {505}{}{Hej, Francisi! Zkus mu urvat ruku.}
-{506}{}{Tehle souboj je fakt srandovní! Bahaha!}
-{507}{}{Pouij svoje trapézy, Francisi! Pouij svoje trapézy!}
-{508}{}{Oou... mìl bych se dret mimo dosah tvı ruky! Hahaha!}
+{506}{}{Tehle souboj je fakt srandovnÃ­! Bahaha!}
+{507}{}{PouÅ¾ij svoje trapÃ©zy, Francisi! PouÅ¾ij svoje trapÃ©zy!}
+{508}{}{Oou... mÄ›l bych se drÅ¾et mimo dosah tvÃ½ ruky! Hahaha!}
 {509}{}{To jsou ale bicepsy!}
-{510}{}{Mám dojem, e jsem slyšel rupnout šlachu...}
-{511}{}{Víš, jednoduchá matematika nám øíká, e je nejspíš Francis favorit.}
+{510}{}{MÃ¡m dojem, Å¾e jsem slyÅ¡el rupnout Å¡lachu...}
+{511}{}{VÃ­Å¡, jednoduchÃ¡ matematika nÃ¡m Å™Ã­kÃ¡, Å¾e je nejspÃ­Å¡ Francis favorit.}
 {512}{}{Francis! Fran-CIS! FRAN-CIS!}
 {513}{}{Nandej mu to, Francisi!}
-{530}{}{Dobøe, Francisi!}
-{531}{}{Dobrá práce, Francisi!}
-{532}{}{Páni! To se ještì nikdy nestalo!}
-{599}{}{V tunelu leela nìjaká poznámka se jmény Francis a Zaius. Zdá se, e jsi spáchal nìjakı zloèin.}
-{600}{}{Zatracenì. Zaius zase nìkde nechal poznámku, co? Fajn, èlovìèe, nìco ti povím: Vìdìl jsem, e v tomhle mìstì ijou lidi, co chtìj zabít mutanty, a e je Marcus zavøe za katr, kdy bude mít dùkazy. Chtìl jsem to udìlat tak, aby zemøelo co nejmíò lidí.}
-{601}{}{Take jsi zabil nevinné, jo?}
-{602}{}{Aha. A co s tím chceš teï udìlat?}
-{603}{}{Nevinné? Ha! Ty lidi, kterı jsem zabil, se pokusili zabít MÌ! Jenom jsem jim to oplatil a udìlal z nich vıstrahu pro ostatní... takovou, která napomùe míru.}
-{604}{}{V tom pøípadì nejsi nic jiného, ne obyèejnı zloèinec a vrah. Kromì tvıch slov nemám ádnı dùkaz o spiknutí.}
-{605}{}{Jediná vìc, která napomùe míru, je smrt všech vrahù. A o to se teï postarám.}
-{606}{}{Pokud jsi s nìkım z mìsta mluvil o nenávisti k mutantùm, tak bys o spiknutí vìdìl. Já vím, e to nebylo zrovna nejšastnìjší øešení, ale šlo o sebeobranu. Uznávám, e to byla chyba. Nemùu tady zùstat. Najdu zpùsob, jak napravit svoje èiny... uspokojí to tvùj smysl pro spravedlnost?}
+{530}{}{DobÅ™e, Francisi!}
+{531}{}{DobrÃ¡ prÃ¡ce, Francisi!}
+{532}{}{PÃ¡ni! To se jeÅ¡tÄ› nikdy nestalo!}
+{599}{}{V tunelu leÅ¾ela nÄ›jakÃ¡ poznÃ¡mka se jmÃ©ny Francis a Zaius. ZdÃ¡ se, Å¾e jsi spÃ¡chal nÄ›jakÃ½ zloÄin.}
+{600}{}{ZatracenÄ›. Zaius zase nÄ›kde nechal poznÃ¡mku, co? Fajn, ÄlovÄ›Äe, nÄ›co ti povÃ­m: VÄ›dÄ›l jsem, Å¾e v tomhle mÄ›stÄ› Å¾ijou lidi, co chtÄ›j zabÃ­t mutanty, a Å¾e je Marcus zavÅ™e za katr, kdyÅ¾ bude mÃ­t dÅ¯kazy. ChtÄ›l jsem to udÄ›lat tak, aby zemÅ™elo co nejmÃ­Åˆ lidÃ­.}
+{601}{}{TakÅ¾e jsi zabil nevinnÃ©, jo?}
+{602}{}{Aha. A co s tÃ­m chceÅ¡ teÄ udÄ›lat?}
+{603}{}{NevinnÃ©? Ha! Ty lidi, kterÃ½ jsem zabil, se pokusili zabÃ­t MÄš! Jenom jsem jim to oplatil a udÄ›lal z nich vÃ½strahu pro ostatnÃ­... takovou, kterÃ¡ napomÅ¯Å¾e mÃ­ru.}
+{604}{}{V tom pÅ™Ã­padÄ› nejsi nic jinÃ©ho, neÅ¾ obyÄejnÃ½ zloÄinec a vrah. KromÄ› tvÃ½ch slov nemÃ¡m Å¾Ã¡dnÃ½ dÅ¯kaz o spiknutÃ­.}
+{605}{}{JedinÃ¡ vÄ›c, kterÃ¡ napomÅ¯Å¾e mÃ­ru, je smrt vÅ¡ech vrahÅ¯. A o to se teÄ postarÃ¡m.}
+{606}{}{Pokud jsi s nÄ›kÃ½m z mÄ›sta mluvil o nenÃ¡visti k mutantÅ¯m, tak bys o spiknutÃ­ vÄ›dÄ›l. JÃ¡ vÃ­m, Å¾e to nebylo zrovna nejÅ¡Å¥astnÄ›jÅ¡Ã­ Å™eÅ¡enÃ­, ale Å¡lo o sebeobranu. UznÃ¡vÃ¡m, Å¾e to byla chyba. NemÅ¯Å¾u tady zÅ¯stat. Najdu zpÅ¯sob, jak napravit svoje Äiny... uspokojÃ­ to tvÅ¯j smysl pro spravedlnost?}
 {607}{}{Bude muset.}
-{608}{}{Ne, neuspokojí. Teï zemøeš.}
-{700}{}{Podaøilo se ti porazit Francise v páce.}
-{701}{}{Konfrontoval jsi Francise ohlednì dopisu pro Zaiuse.}
-{800}{}{(Kdy se tak podíváš na obrovského mutanta, uvìdomíš si, e nemáš vùbec ádnou šanci. Je èas zmizet, dokud máš ještì svoji hrdost.)}
+{608}{}{Ne, neuspokojÃ­. TeÄ zemÅ™eÅ¡.}
+{700}{}{PodaÅ™ilo se ti porazit Francise v pÃ¡ce.}
+{701}{}{Konfrontoval jsi Francise ohlednÄ› dopisu pro Zaiuse.}
+{800}{}{(KdyÅ¾ se tak podÃ­vÃ¡Å¡ na obrovskÃ©ho mutanta, uvÄ›domÃ­Å¡ si, Å¾e nemÃ¡Å¡ vÅ¯bec Å¾Ã¡dnou Å¡anci. Je Äas zmizet, dokud mÃ¡Å¡ jeÅ¡tÄ› svoji hrdost.)}

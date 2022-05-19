@@ -1,141 +1,141 @@
-{100}{}{Vidíš velkého, primitivnì vypadajícího mue.}
-{125}{}{Má šrámy a modøiny po celém tìle.}
-{150}{}{Vidíš slabou, primitivní enu.}
-{175}{}{Vypadá, jako by ji nìkdo zmlátil.}
-{200}{}{Vidíš otrhaného mue.}
-{225}{}{Nevypadá pøíliš zdravì.}
-{250}{}{Vidíš zajatou enu.}
-{275}{}{Je špinavá a vypadá podvyivenì.}
-{300}{}{Neubliovat mi, prosím!}
-{301}{}{My budeme jít?}
-{302}{}{Ty nemluvit. My muset bìet.}
-{303}{}{Díky za pomoc.}
-{304}{}{Dìkuji mnohokrát!}
-{305}{}{Jsi svatı.}
-{306}{}{Co dìláš? Mìli bysme jít.}
-{307}{}{Pomoz nám utéct, prosím.}
-{320}{}{Ty zlı!}
+{100}{}{VidÃ­Å¡ velkÃ©ho, primitivnÄ› vypadajÃ­cÃ­ho muÅ¾e.}
+{125}{}{MÃ¡ Å¡rÃ¡my a modÅ™iny po celÃ©m tÄ›le.}
+{150}{}{VidÃ­Å¡ slabou, primitivnÃ­ Å¾enu.}
+{175}{}{VypadÃ¡, jako by ji nÄ›kdo zmlÃ¡til.}
+{200}{}{VidÃ­Å¡ otrhanÃ©ho muÅ¾e.}
+{225}{}{NevypadÃ¡ pÅ™Ã­liÅ¡ zdravÄ›.}
+{250}{}{VidÃ­Å¡ zajatou Å¾enu.}
+{275}{}{Je Å¡pinavÃ¡ a vypadÃ¡ podvyÅ¾ivenÄ›.}
+{300}{}{NeubliÅ¾ovat mi, prosÃ­m!}
+{301}{}{My budeme jÃ­t?}
+{302}{}{Ty nemluvit. My muset bÄ›Å¾et.}
+{303}{}{DÃ­ky za pomoc.}
+{304}{}{DÄ›kuji mnohokrÃ¡t!}
+{305}{}{Jsi svatÃ½.}
+{306}{}{Co dÄ›lÃ¡Å¡? MÄ›li bysme jÃ­t.}
+{307}{}{Pomoz nÃ¡m utÃ©ct, prosÃ­m.}
+{320}{}{Ty zlÃ½!}
 {321}{}{My nemluvit s ty.}
-{322}{}{My utéct.}
-{323}{}{Ty nezastavit nás.}
-{324}{}{Ty otrokáø!}
-{325}{}{Proè to vy otrokáøi dìláte?}
-{326}{}{Jak mùete dìlat pro takové lidi?}
-{327}{}{Nejsme primitivové!}
-{328}{}{Nemáte ádné svìdomí?}
-{329}{}{Co s námi bude?}
-{330}{}{Co jsme udìlali špatnì?}
-{331}{}{Nech nás o samotì, otrokáøi!}
-{332}{}{Neubliuj mi!}
-{333}{}{Jdìte ode mì!}
+{322}{}{My utÃ©ct.}
+{323}{}{Ty nezastavit nÃ¡s.}
+{324}{}{Ty otrokÃ¡Å™!}
+{325}{}{ProÄ to vy otrokÃ¡Å™i dÄ›lÃ¡te?}
+{326}{}{Jak mÅ¯Å¾ete dÄ›lat pro takovÃ© lidi?}
+{327}{}{Nejsme primitivovÃ©!}
+{328}{}{NemÃ¡te Å¾Ã¡dnÃ© svÄ›domÃ­?}
+{329}{}{Co s nÃ¡mi bude?}
+{330}{}{Co jsme udÄ›lali Å¡patnÄ›?}
+{331}{}{Nech nÃ¡s o samotÄ›, otrokÃ¡Å™i!}
+{332}{}{NeubliÅ¾uj mi!}
+{333}{}{JdÄ›te ode mÄ›!}
 {350}{}{Kdo ty?}
-{351}{}{Ty ne otrokáø.}
-{352}{}{Ty neublíit?}
-{353}{}{Pøítel?}
-{354}{}{Ty pomáhat?}
-{355}{}{Co s námi bude?}
-{356}{}{Taky tì chytli?}
-{357}{}{Nejsme primitivové!}
-{358}{}{Co si o sobì ti lidi myslí?}
-{359}{}{Pomoz nám prosím!}
-{360}{}{Dostaòte mì odsud.}
+{351}{}{Ty ne otrokÃ¡Å™.}
+{352}{}{Ty neublÃ­Å¾it?}
+{353}{}{PÅ™Ã­tel?}
+{354}{}{Ty pomÃ¡hat?}
+{355}{}{Co s nÃ¡mi bude?}
+{356}{}{Taky tÄ› chytli?}
+{357}{}{Nejsme primitivovÃ©!}
+{358}{}{Co si o sobÄ› ti lidi myslÃ­?}
+{359}{}{Pomoz nÃ¡m prosÃ­m!}
+{360}{}{DostaÅˆte mÄ› odsud.}
 {380}{}{Ty nezastavit my tady!}
-{381}{}{To nesprávné!}
-{382}{}{My ne zlı!}
-{383}{}{Ty pomáhat my?}
-{384}{}{Ty dát svobodu my!}
-{385}{}{My nemít to rád.}
-{386}{}{Zlı místo.}
-{387}{}{Proè tohle zlí lidi dìlají?}
-{388}{}{My nebıt otroci!}
-{389}{}{My nedìlat nic zlı.}
-{390}{}{My jít!}
-{391}{}{Co se dít?}
-{392}{}{Velkı rámus?}
+{381}{}{To nesprÃ¡vnÃ©!}
+{382}{}{My ne zlÃ½!}
+{383}{}{Ty pomÃ¡hat my?}
+{384}{}{Ty dÃ¡t svobodu my!}
+{385}{}{My nemÃ­t to rÃ¡d.}
+{386}{}{ZlÃ½ mÃ­sto.}
+{387}{}{ProÄ tohle zlÃ­ lidi dÄ›lajÃ­?}
+{388}{}{My nebÃ½t otroci!}
+{389}{}{My nedÄ›lat nic zlÃ½.}
+{390}{}{My jÃ­t!}
+{391}{}{Co se dÃ­t?}
+{392}{}{VelkÃ½ rÃ¡mus?}
 {393}{}{Kdo bojovat?}
-{394}{}{Co se stát?}
-{395}{}{Nìco se stát?}
-{396}{}{Pomozte nám nìkdo!}
-{397}{}{Hej! Slyší mì nìkdo?}
-{398}{}{Tohle je špatné!}
-{399}{}{Nic jsme neudìlali!}
-{400}{}{Pus nás odsud!}
-{401}{}{Dostaòte nás nìkdo odsud!}
-{402}{}{Co jsme udìlali?}
-{403}{}{Neudìlali jsme nic.}
-{404}{}{Tohle si nezaslouíme.}
+{394}{}{Co se stÃ¡t?}
+{395}{}{NÄ›co se stÃ¡t?}
+{396}{}{Pomozte nÃ¡m nÄ›kdo!}
+{397}{}{Hej! SlyÅ¡Ã­ mÄ› nÄ›kdo?}
+{398}{}{Tohle je Å¡patnÃ©!}
+{399}{}{Nic jsme neudÄ›lali!}
+{400}{}{PusÅ¥ nÃ¡s odsud!}
+{401}{}{DostaÅˆte nÃ¡s nÄ›kdo odsud!}
+{402}{}{Co jsme udÄ›lali?}
+{403}{}{NeudÄ›lali jsme nic.}
+{404}{}{Tohle si nezaslouÅ¾Ã­me.}
 {405}{}{Ti bastardi!}
-{406}{}{Pomozte nám!}
-{407}{}{Puste mì!}
+{406}{}{Pomozte nÃ¡m!}
+{407}{}{PusÅ¥te mÄ›!}
 {408}{}{Nejsme otroci!}
-{409}{}{Nejsme primitivové! Pus nás odsud!}
-{410}{}{Co se dìje?}
-{411}{}{Je tady nìkdo, kdo nás zachrání?}
+{409}{}{Nejsme primitivovÃ©! PusÅ¥ nÃ¡s odsud!}
+{410}{}{Co se dÄ›je?}
+{411}{}{Je tady nÄ›kdo, kdo nÃ¡s zachrÃ¡nÃ­?}
 {412}{}{Hej, tady!}
-{413}{}{Pomoc! Neopouštìj nás!}
-{414}{}{Co to bylo za støelbu?}
-{415}{}{Co se dìje?}
+{413}{}{Pomoc! NeopouÅ¡tÄ›j nÃ¡s!}
+{414}{}{Co to bylo za stÅ™elbu?}
+{415}{}{Co se dÄ›je?}
 {420}{}{Ahhh!}
 {421}{}{Ug!}
 {422}{}{Nezastavuj se!}
 {423}{}{Ano!}
-{424}{}{Utíkám odsud, jak jen daleko to pùjde.}
+{424}{}{UtÃ­kÃ¡m odsud, jak jen daleko to pÅ¯jde.}
 {425}{}{Nezastavuj se!}
-{426}{}{Svoboda! Koneènì svoboda!}
-{440}{}{Co bıt rámus vıstøel? Co ty chtít?}
-{441}{}{Hej! Co to bylo za støelbu? Jsou otrokáøi mrtví?}
-{442}{}{Hej! Co to bylo za støelbu? Co se dìje?}
-{443}{}{To byla Metzgerova poslední píseò.}
-{444}{}{Ale nic. Jenom vás kontroluju. Sbohem.}
-{445}{}{Jste volní, mùete jít. Metzger je mrtvej.}
+{426}{}{Svoboda! KoneÄnÄ› svoboda!}
+{440}{}{Co bÃ½t rÃ¡mus vÃ½stÅ™el? Co ty chtÃ­t?}
+{441}{}{Hej! Co to bylo za stÅ™elbu? Jsou otrokÃ¡Å™i mrtvÃ­?}
+{442}{}{Hej! Co to bylo za stÅ™elbu? Co se dÄ›je?}
+{443}{}{To byla Metzgerova poslednÃ­ pÃ­seÅˆ.}
+{444}{}{Ale nic. Jenom vÃ¡s kontroluju. Sbohem.}
+{445}{}{Jste volnÃ­, mÅ¯Å¾ete jÃ­t. Metzger je mrtvej.}
 {446}{}{Vy svoboda.}
-{447}{}{ pøítel. On zabít Mezgur. Teï vy jít.}
-{448}{}{ pøítelka. Ona zabít Mezgur. Teï vy jít.}
-{460}{}{On mrtvı? Já dìkovat ty! My jít rychle pryè. Ahoj. Ty pøítel.}
-{461}{}{Coe? Metzger je mrtvej? Oh, mockrát dìkujeme! Mìli bychom radìji zmizet, ne se objeví ostatní. Ještì jednou dìkujeme.}
-{462}{}{Není zaè. Teï odsud radìji zmizte.}
+{447}{}{ pÅ™Ã­tel. On zabÃ­t Mezgur. TeÄ vy jÃ­t.}
+{448}{}{ pÅ™Ã­telka. Ona zabÃ­t Mezgur. TeÄ vy jÃ­t.}
+{460}{}{On mrtvÃ½? JÃ¡ dÄ›kovat ty! My jÃ­t rychle pryÄ. Ahoj. Ty pÅ™Ã­tel.}
+{461}{}{CoÅ¾e? Metzger je mrtvej? Oh, mockrÃ¡t dÄ›kujeme! MÄ›li bychom radÄ›ji zmizet, neÅ¾ se objevÃ­ ostatnÃ­. JeÅ¡tÄ› jednou dÄ›kujeme.}
+{462}{}{NenÃ­ zaÄ. TeÄ odsud radÄ›ji zmizte.}
 {463}{}{Dejte na sebe pozor.}
-{464}{}{Není zaè.}
-{470}{}{Poèkat, ještì nìco. Hledám jednu konkrétní enu a nikde ji tu nevidím. Nevíte, kde drí ostatní otroky?}
-{471}{}{Velkı tábor blízko tady. (Divoch ukazuje na jihozápad) Dva noc odsud.}
-{472}{}{Dva dny cesty na jihozápad odtud leí tábor. Tam jsem byl nejdøív.}
-{473}{}{Díky. Teï odsud radìji zmizte.}
-{474}{}{Díky ti. Dejte na sebe pozor.}
-{475}{}{Poèkat. Já hledat nìkoho. Kde víc otrok?}
-{476}{}{Dìkovat. Teï ty jít!}
-{480}{}{Co ty chtít?}
-{481}{}{Co chceš?}
+{464}{}{NenÃ­ zaÄ.}
+{470}{}{PoÄkat, jeÅ¡tÄ› nÄ›co. HledÃ¡m jednu konkrÃ©tnÃ­ Å¾enu a nikde ji tu nevidÃ­m. NevÃ­te, kde drÅ¾Ã­ ostatnÃ­ otroky?}
+{471}{}{VelkÃ½ tÃ¡bor blÃ­zko tady. (Divoch ukazuje na jihozÃ¡pad) Dva noc odsud.}
+{472}{}{Dva dny cesty na jihozÃ¡pad odtud leÅ¾Ã­ tÃ¡bor. Tam jsem byl nejdÅ™Ã­v.}
+{473}{}{DÃ­ky. TeÄ odsud radÄ›ji zmizte.}
+{474}{}{DÃ­ky ti. Dejte na sebe pozor.}
+{475}{}{PoÄkat. JÃ¡ hledat nÄ›koho. Kde vÃ­c otrok?}
+{476}{}{DÄ›kovat. TeÄ ty jÃ­t!}
+{480}{}{Co ty chtÃ­t?}
+{481}{}{Co chceÅ¡?}
 {482}{}{Ale nic.}
 {500}{}{He?}
-{501}{}{Zapomeò na to. Jste volní, mùete jít. Metzger je mrtvı.}
-{510}{}{Co? Volní? Zlı mu pryè? My teï jít! Dìkovat ti. Ty pøítel! Ahoj!}
-{511}{}{Volní? Coe? Všechny si je zabil? Mnohokrát ti dìkujeme! Mìli bysme radìji zmizet, dokud mùeme. Ještì jednou dìkujeme, jsi svatej!}
-{520}{}{K èertu s tebou!}
-{521}{}{Sma se v pekle!}
-{522}{}{Za to zaplatíš.}
-{523}{}{Proè na mnì poøád mluvíš?}
-{524}{}{Nech mì bıt.}
-{525}{}{Nechci s vámi mluvit.}
+{501}{}{ZapomeÅˆ na to. Jste volnÃ­, mÅ¯Å¾ete jÃ­t. Metzger je mrtvÃ½.}
+{510}{}{Co? VolnÃ­? ZlÃ½ muÅ¾ pryÄ? My teÄ jÃ­t! DÄ›kovat ti. Ty pÅ™Ã­tel! Ahoj!}
+{511}{}{VolnÃ­? CoÅ¾e? VÅ¡echny si je zabil? MnohokrÃ¡t ti dÄ›kujeme! MÄ›li bysme radÄ›ji zmizet, dokud mÅ¯Å¾eme. JeÅ¡tÄ› jednou dÄ›kujeme, jsi svatej!}
+{520}{}{K Äertu s tebou!}
+{521}{}{SmaÅ¾ se v pekle!}
+{522}{}{Za to zaplatÃ­Å¡.}
+{523}{}{ProÄ na mnÄ› poÅ™Ã¡d mluvÃ­Å¡?}
+{524}{}{Nech mÄ› bÃ½t.}
+{525}{}{Nechci s vÃ¡mi mluvit.}
 {526}{}{Jak si mohl?!}
-{527}{}{U tì nechci nikdy vidìt.}
-{528}{}{Tímhle se nic nezmìní.}
-{529}{}{Pokud ti to nebude vadit, pùjdu si svoji cestou.}
-{530}{}{Nech mì odejít, prosím.}
-{531}{}{Nech mì odejít.}
-{532}{}{Poøád s tebou nechci mluvit.}
-{533}{}{Nech mì bıt.}
-{534}{}{Ani náhodou.}
-{535}{}{Myslíš, e je to takhle lepší?}
-{600}{}{My jít?}
-{601}{}{Ty neublíit?}
-{602}{}{Jít!}
-{603}{}{Domù!}
-{604}{}{Volnı?}
+{527}{}{UÅ¾ tÄ› nechci nikdy vidÄ›t.}
+{528}{}{TÃ­mhle se nic nezmÄ›nÃ­.}
+{529}{}{Pokud ti to nebude vadit, pÅ¯jdu si svoji cestou.}
+{530}{}{Nech mÄ› odejÃ­t, prosÃ­m.}
+{531}{}{Nech mÄ› odejÃ­t.}
+{532}{}{PoÅ™Ã¡d s tebou nechci mluvit.}
+{533}{}{Nech mÄ› bÃ½t.}
+{534}{}{Ani nÃ¡hodou.}
+{535}{}{MyslÃ­Å¡, Å¾e je to takhle lepÅ¡Ã­?}
+{600}{}{My jÃ­t?}
+{601}{}{Ty neublÃ­Å¾it?}
+{602}{}{JÃ­t!}
+{603}{}{DomÅ¯!}
+{604}{}{VolnÃ½?}
 {605}{}{He?}
-{606}{}{Coe?}
-{607}{}{Øekl jsi "volnı"?}
-{608}{}{Mizím odsud!}
-{609}{}{Poïme!}
-{610}{}{Hej všichni! Jsme volní!}
+{606}{}{CoÅ¾e?}
+{607}{}{Å˜ekl jsi "volnÃ½"?}
+{608}{}{MizÃ­m odsud!}
+{609}{}{PoÄme!}
+{610}{}{Hej vÅ¡ichni! Jsme volnÃ­!}
 {611}{}{Jooooooooo!}
-{700}{}{Osvobodil jsi otroky ze zajetí.}
+{700}{}{Osvobodil jsi otroky ze zajetÃ­.}

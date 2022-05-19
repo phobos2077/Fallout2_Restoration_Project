@@ -1,10 +1,10 @@
-{100}{}{Vidíš špinavého a zarostlého mue.}
-{101}{}{Jeho obleèení je rozervané a špinavé. Má nìkolik škrábancù na rukou a nohách.}
+{100}{}{VidÃ­Å¡ Å¡pinavÃ©ho a zarostlÃ©ho muÅ¾e.}
+{101}{}{Jeho obleÄenÃ­ je rozervanÃ© a Å¡pinavÃ©. MÃ¡ nÄ›kolik Å¡krÃ¡bancÅ¯ na rukou a nohÃ¡ch.}
 {150}{}{Haf! Haf. Haf.}
-{151}{}{Eh, jsi v poøádku?}
-{152}{}{Eh, jasnì. Nashle.}
-{153}{}{Poslyš, myslím, e vím o nìèem, co by ti mohlo pomoct.}
-{154}{}{Hmm... zdá se, e trpíš nìjakou neurologickou poruchou, asi epilepsií. Bohuel s tím nic nesvedu. Nashle.}
+{151}{}{Eh, jsi v poÅ™Ã¡dku?}
+{152}{}{Eh, jasnÄ›. Nashle.}
+{153}{}{PoslyÅ¡, myslÃ­m, Å¾e vÃ­m o nÄ›Äem, co by ti mohlo pomoct.}
+{154}{}{Hmm... zdÃ¡ se, Å¾e trpÃ­Å¡ nÄ›jakou neurologickou poruchou, asi epilepsiÃ­. BohuÅ¾el s tÃ­m nic nesvedu. Nashle.}
 {160}{}{Haf. Haf haf. Haf.}
 {250}{}{Grrr!}
 {251}{}{Vrrrrrr!}
@@ -12,21 +12,21 @@
 {253}{}{Vrrrrrrrrrr!}
 {254}{}{Odbelhat se.}
 {255}{}{Vrrrrrrrrr! Vrrr! Haf!}
-{256}{}{(Mu zakòuèí a odpeláší pryè.)}
-{257}{}{Hehe. Hodnı pejsek...}
-{258}{}{Hehe. Já maxipes...}
+{256}{}{(MuÅ¾ zakÅˆuÄÃ­ a odpelÃ¡Å¡Ã­ pryÄ.)}
+{257}{}{Hehe. HodnÃ½ pejsek...}
+{258}{}{Hehe. JÃ¡ maxipes...}
 {300}{}{HAF?}
-{301}{}{Jasnì. Teï poøádnì poslouchej sérii písmen, které ti øeknu...}
-{302}{}{(Pomalu zformuluješ sérii písmen, které si pamatuješ z poèítaèe v EPA, a dáš si pozor na správnou modulaci kadého písmene. Kdy skonèíš se ètením, podíváš se zpìt na mue. Ten se podívá na tebe a poté se otøepe jako pes, kterı se snaí osušit po dešti.)}
-{303}{}{[Více]}
-{304}{}{Ha... haha. Hej, mùu normálnì mluvit! Paráda, to je skvìlı. Jak se ti to podaøilo?}
-{305}{}{Podaøilo se mi zjistit, e kdy pøeèteš specifickou sérii písmen a ujistíš se, e pouíváš správnou modulaci pro kadé písmeno, mùeš vyléèit nìkoho s autismem nebo epilepsií.}
-{306}{}{Zní to sice jako hromada èárù márù, ale to je fuk, aspoò mùu zase mluvit, take na tom nìco musí bejt. Kadopádnì jsem ti za to opravdu vdìènej. Na, vezmi si tyhle Stimpaky. Našel jsem je, kdy jsem hledal nìco k jídlu v popelnicích vzadu za tìma barákama.}
-{307}{}{Díky. Zatím nashle.}
+{301}{}{JasnÄ›. TeÄ poÅ™Ã¡dnÄ› poslouchej sÃ©rii pÃ­smen, kterÃ© ti Å™eknu...}
+{302}{}{(Pomalu zformulujeÅ¡ sÃ©rii pÃ­smen, kterÃ© si pamatujeÅ¡ z poÄÃ­taÄe v EPA, a dÃ¡Å¡ si pozor na sprÃ¡vnou modulaci kaÅ¾dÃ©ho pÃ­smene. KdyÅ¾ skonÄÃ­Å¡ se ÄtenÃ­m, podÃ­vÃ¡Å¡ se zpÄ›t na muÅ¾e. Ten se podÃ­vÃ¡ na tebe a potÃ© se otÅ™epe jako pes, kterÃ½ se snaÅ¾Ã­ osuÅ¡it po deÅ¡ti.)}
+{303}{}{[VÃ­ce]}
+{304}{}{Ha... haha. Hej, mÅ¯Å¾u normÃ¡lnÄ› mluvit! ParÃ¡da, to je skvÄ›lÃ½. Jak se ti to podaÅ™ilo?}
+{305}{}{PodaÅ™ilo se mi zjistit, Å¾e kdyÅ¾ pÅ™eÄteÅ¡ specifickou sÃ©rii pÃ­smen a ujistÃ­Å¡ se, Å¾e pouÅ¾Ã­vÃ¡Å¡ sprÃ¡vnou modulaci pro kaÅ¾dÃ© pÃ­smeno, mÅ¯Å¾eÅ¡ vylÃ©Äit nÄ›koho s autismem nebo epilepsiÃ­.}
+{306}{}{ZnÃ­ to sice jako hromada ÄÃ¡rÅ¯ mÃ¡rÅ¯, ale to je fuk, aspoÅˆ mÅ¯Å¾u zase mluvit, takÅ¾e na tom nÄ›co musÃ­ bejt. KaÅ¾dopÃ¡dnÄ› jsem ti za to opravdu vdÄ›Änej. Na, vezmi si tyhle Stimpaky. NaÅ¡el jsem je, kdyÅ¾ jsem hledal nÄ›co k jÃ­dlu v popelnicÃ­ch vzadu za tÄ›ma barÃ¡kama.}
+{307}{}{DÃ­ky. ZatÃ­m nashle.}
 {350}{}{Haf!}
 {351}{}{Haf! Haf!}
-{352}{}{*škrábe se*}
-{400}{}{Haf! Hehe, dìlám si srandu. Ještì jednou díky za vyléèení.}
-{500}{}{Podaøilo se ti vyléèit štìkajícího mue.}
-{600}{}{*kòuèí*}
-{601}{}{Podívá se na tebe velkıma vydìšenıma oèima.}
+{352}{}{*Å¡krÃ¡be se*}
+{400}{}{Haf! Hehe, dÄ›lÃ¡m si srandu. JeÅ¡tÄ› jednou dÃ­ky za vylÃ©ÄenÃ­.}
+{500}{}{PodaÅ™ilo se ti vylÃ©Äit Å¡tÄ›kajÃ­cÃ­ho muÅ¾e.}
+{600}{}{*kÅˆuÄÃ­*}
+{601}{}{PodÃ­vÃ¡ se na tebe velkÃ½ma vydÄ›Å¡enÃ½ma oÄima.}

@@ -1,295 +1,295 @@
-{100}{}{Vidíš mue støedního vìku v bílém laboratorním plášti. Vypadá to, e nad nìèím pøemıšlí.}
-{101}{}{Vidíš Dr. Troye.}
-{102}{}{Vidíš mue støedního vìku v bílém laboratorním plášti. Vypadá to, e nad nìèím pøemıšlí.}
-{103}{}{Tak se podíváme... na zítøejší ráno máme naplánované tøi oèkování.}
-{104}{}{Pøísahám, e je Gregory hypochondr...}
-{105}{}{Musím tìm novım sluebníkùm ještì udìlat fyzické testy.}
-{106}{}{Phyllis, mùete mi prosím pøinést vısledky Prokonzulova krevního testu?}
-{107}{}{Zvláštní... tyto vısledky se neshodují s hladinou bílıch krvinek.}
-{108}{}{Moná bychom mohli naklonovat vzorky z bunìk, které jsme odebrali dnes odpoledne.}
-{109}{}{Musíme pøidat víc vitamínù do potravních doplòkù...}
+{100}{}{VidÃ­Å¡ muÅ¾e stÅ™ednÃ­ho vÄ›ku v bÃ­lÃ©m laboratornÃ­m plÃ¡Å¡ti. VypadÃ¡ to, Å¾e nad nÄ›ÄÃ­m pÅ™emÃ½Å¡lÃ­.}
+{101}{}{VidÃ­Å¡ Dr. Troye.}
+{102}{}{VidÃ­Å¡ muÅ¾e stÅ™ednÃ­ho vÄ›ku v bÃ­lÃ©m laboratornÃ­m plÃ¡Å¡ti. VypadÃ¡ to, Å¾e nad nÄ›ÄÃ­m pÅ™emÃ½Å¡lÃ­.}
+{103}{}{Tak se podÃ­vÃ¡me... na zÃ­tÅ™ejÅ¡Ã­ rÃ¡no mÃ¡me naplÃ¡novanÃ© tÅ™i oÄkovÃ¡nÃ­.}
+{104}{}{PÅ™Ã­sahÃ¡m, Å¾e je Gregory hypochondr...}
+{105}{}{MusÃ­m tÄ›m novÃ½m sluÅ¾ebnÃ­kÅ¯m jeÅ¡tÄ› udÄ›lat fyzickÃ© testy.}
+{106}{}{Phyllis, mÅ¯Å¾ete mi prosÃ­m pÅ™inÃ©st vÃ½sledky Prokonzulova krevnÃ­ho testu?}
+{107}{}{ZvlÃ¡Å¡tnÃ­... tyto vÃ½sledky se neshodujÃ­ s hladinou bÃ­lÃ½ch krvinek.}
+{108}{}{MoÅ¾nÃ¡ bychom mohli naklonovat vzorky z bunÄ›k, kterÃ© jsme odebrali dnes odpoledne.}
+{109}{}{MusÃ­me pÅ™idat vÃ­c vitamÃ­nÅ¯ do potravnÃ­ch doplÅˆkÅ¯...}
 {110}{}{Hmmmmm.}
-{111}{}{Phyllis, mùete mi prosím pøinést kopii Heleniny sloky?}
-{112}{}{Kdy si pomyslím, e jsem mohl pracovat na Lince Lásky...}
-{113}{}{U mì unavuje sepisovat tyhle papíry pro První Obèanku...}
-{114}{}{Další poadavek na seznam lékaøskıch zásob? Vdy jsem ho odevzdal vèera!}
-{115}{}{Mutant! Stráe!}
-{116}{}{Ghoul! Stráe!}
-{117}{}{Ahoj, jsem Dr. Troy. Mohu vám nìjak pomoci?}
-{118}{}{Já mít bebí}
-{119}{}{Po-moè?}
+{111}{}{Phyllis, mÅ¯Å¾ete mi prosÃ­m pÅ™inÃ©st kopii Heleniny sloÅ¾ky?}
+{112}{}{KdyÅ¾ si pomyslÃ­m, Å¾e jsem mohl pracovat na Lince LÃ¡sky...}
+{113}{}{UÅ¾ mÄ› unavuje sepisovat tyhle papÃ­ry pro PrvnÃ­ ObÄanku...}
+{114}{}{DalÅ¡Ã­ poÅ¾adavek na seznam lÃ©kaÅ™skÃ½ch zÃ¡sob? VÅ¾dyÅ¥ jsem ho odevzdal vÄera!}
+{115}{}{Mutant! StrÃ¡Å¾e!}
+{116}{}{Ghoul! StrÃ¡Å¾e!}
+{117}{}{Ahoj, jsem Dr. Troy. Mohu vÃ¡m nÄ›jak pomoci?}
+{118}{}{JÃ¡ mÃ­t bebÃ­}
+{119}{}{Po-moÄ?}
 {120}{}{Odbelhat se.}
-{121}{}{Hledám hlavní poèítaè. Mùete mi øíct, kde je?}
-{122}{}{Co tady dìláš?}
-{123}{}{Jen procházím, díky.}
-{124}{}{Opravdu? Rád vás poznávám. Jestli nikam nepospícháte, moná bychom si mohli porovnat svoje poznámky. Nemám moc èasto pøíleitost si popovídat s jinım doktorem.}
-{125}{}{Jistì. Rád se nauèím novım lékaøskım postupùm, které pouívají Obèané.}
-{126}{}{Teï ne. Chci se ještì zeptat...}
-{127}{}{Moná pozdìji. U musím jít.}
-{128}{}{Vıbornì! Nejdøív vás tu ale trochu provedu. Tady máme monitorovací systémy...}
+{121}{}{HledÃ¡m hlavnÃ­ poÄÃ­taÄ. MÅ¯Å¾ete mi Å™Ã­ct, kde je?}
+{122}{}{Co tady dÄ›lÃ¡Å¡?}
+{123}{}{Jen prochÃ¡zÃ­m, dÃ­ky.}
+{124}{}{Opravdu? RÃ¡d vÃ¡s poznÃ¡vÃ¡m. Jestli nikam nepospÃ­chÃ¡te, moÅ¾nÃ¡ bychom si mohli porovnat svoje poznÃ¡mky. NemÃ¡m moc Äasto pÅ™Ã­leÅ¾itost si popovÃ­dat s jinÃ½m doktorem.}
+{125}{}{JistÄ›. RÃ¡d se nauÄÃ­m novÃ½m lÃ©kaÅ™skÃ½m postupÅ¯m, kterÃ© pouÅ¾Ã­vajÃ­ ObÄanÃ©.}
+{126}{}{TeÄ ne. Chci se jeÅ¡tÄ› zeptat...}
+{127}{}{MoÅ¾nÃ¡ pozdÄ›ji. UÅ¾ musÃ­m jÃ­t.}
+{128}{}{VÃ½bornÄ›! NejdÅ™Ã­v vÃ¡s tu ale trochu provedu. Tady mÃ¡me monitorovacÃ­ systÃ©my...}
 {129}{}{}
-{130}{}{... a takto klonujeme buòky k vırobì náhradních konèetin, ale musíme si dávat pozor, aby se zásobníky tkánì nekontaminovaly, jinak... kadopádnì u mluvím pøíliš dlouho... doufám, e to bylo pouèné.}
-{131}{}{To rozhodnì bylo. Chci se ještì na nìco zeptat...}
-{132}{}{Díky za prohlídku, doktore Troyi. Bylo to velmi pouèné.}
-{133}{}{Hlavní poèítaè? Ten je dole na tøetím podlaí. Sjeïte vıtahem dolù, jdìte rovnì, dokud nedojdete na køiovatku ve tvaru T, a pak se dejte první chodbou vlevo. Ta vás zavede pøímo do øídící místnosti.}
-{134}{}{Co tady dìláš?}
-{135}{}{Díky.}
-{136}{}{Jsem hlavní doktor ve Vault City. Starám se o všechny obyvatele ve mìstì a dìlám vše pro jejich zdraví.}
-{137}{}{Hledám hlavní poèítaè. Mùete mi øíct, kde je?}
-{138}{}{Aha. Moná si promluvíme pozdìji.}
-{139}{}{Poèkejte chvíli... nevzpomínám si, e bych vás tu nìkdy vidìl. Jste Obèan?}
-{140}{}{Ano. Mám doklady o Obèanství teprve chvíli.}
-{141}{}{Ve skuteènosti jsem }
-{142}{}{. Jsem Kapitán stráí.}
-{143}{}{Eh... jistì. Jistì, e jsem.}
+{130}{}{... a takto klonujeme buÅˆky k vÃ½robÄ› nÃ¡hradnÃ­ch konÄetin, ale musÃ­me si dÃ¡vat pozor, aby se zÃ¡sobnÃ­ky tkÃ¡nÄ› nekontaminovaly, jinak... kaÅ¾dopÃ¡dnÄ› uÅ¾ mluvÃ­m pÅ™Ã­liÅ¡ dlouho... doufÃ¡m, Å¾e to bylo pouÄnÃ©.}
+{131}{}{To rozhodnÄ› bylo. Chci se jeÅ¡tÄ› na nÄ›co zeptat...}
+{132}{}{DÃ­ky za prohlÃ­dku, doktore Troyi. Bylo to velmi pouÄnÃ©.}
+{133}{}{HlavnÃ­ poÄÃ­taÄ? Ten je dole na tÅ™etÃ­m podlaÅ¾Ã­. SjeÄte vÃ½tahem dolÅ¯, jdÄ›te rovnÄ›, dokud nedojdete na kÅ™iÅ¾ovatku ve tvaru T, a pak se dejte prvnÃ­ chodbou vlevo. Ta vÃ¡s zavede pÅ™Ã­mo do Å™Ã­dÃ­cÃ­ mÃ­stnosti.}
+{134}{}{Co tady dÄ›lÃ¡Å¡?}
+{135}{}{DÃ­ky.}
+{136}{}{Jsem hlavnÃ­ doktor ve Vault City. StarÃ¡m se o vÅ¡echny obyvatele ve mÄ›stÄ› a dÄ›lÃ¡m vÅ¡e pro jejich zdravÃ­.}
+{137}{}{HledÃ¡m hlavnÃ­ poÄÃ­taÄ. MÅ¯Å¾ete mi Å™Ã­ct, kde je?}
+{138}{}{Aha. MoÅ¾nÃ¡ si promluvÃ­me pozdÄ›ji.}
+{139}{}{PoÄkejte chvÃ­li... nevzpomÃ­nÃ¡m si, Å¾e bych vÃ¡s tu nÄ›kdy vidÄ›l. Jste ObÄan?}
+{140}{}{Ano. MÃ¡m doklady o ObÄanstvÃ­ teprve chvÃ­li.}
+{141}{}{Ve skuteÄnosti jsem }
+{142}{}{. Jsem KapitÃ¡n strÃ¡Å¾Ã­.}
+{143}{}{Eh... jistÄ›. JistÄ›, Å¾e jsem.}
 {144}{}{Ne, nejsem.}
-{145}{}{Rád vás poznávám, }
-{146}{}{. Pokud mì nìkdy budete potøebovat, najdete mì zde.}
-{147}{}{Díky. Sbohem.}
-{148}{}{Vy nepocházíte z Vault City, e ne? Vás bych si urèitì pamatoval. Odkud jste?}
-{149}{}{Poèkejte chvíli... vy pocházíte zvenku z pustiny, nemám pravdu? Odkud pøesnì jste?}
-{150}{}{Z malé vesnice Arroyo na západì.}
-{151}{}{Proè vás to zajímá?}
-{152}{}{Do toho vám nic není, "doktore." Mùu u jít, nebo pro mì máte ještì nìjaké otázky?}
-{153}{}{Nerad mluvím o své minulosti.}
-{154}{}{Arroyo? O tom jsem snad nikdy neslyšel. Omlouvám se, e se tak ptám, jen zkrátka hledám nìkoho, kdo nìkdy opustil zdi Vault City... vìtšina Obèanù toti nikdy mìsto neopustila.}
-{155}{}{Koho hledáte? A proè?}
-{156}{}{To je *úasné.* A co to má se mnou spoleèného?}
-{157}{}{Omlouvám se, e se tak ptám, jen zkrátka hledám nìkoho, kdo nìkdy opustil zdi Vault City... vìtšina Obèanù toti nikdy mìsto neopustila.}
-{158}{}{Koho hledáte? A proè?}
-{159}{}{To je *úasné.* A co to má se mnou spoleèného?}
-{160}{}{Vidím, e jste se nejspíš tady v tìch ulicích ztratil... jdìte zpátky do chodby, odkud jste pøišel, a dejte se doprava. To vás zavede zpátky na povrch, rozumíte?}
-{161}{}{Díky, e jste mì nasmìroval... èlovìk holt nìkdy zabloudí, víte? Hned pùjdu zpátky na povrch.}
-{162}{}{Myslím, e ještì nechci odejít, "doktore." Nejdøív chci vidìt, co tu máte.}
-{163}{}{Hledám nìkoho, kdo by pro mì udìlal malou slubièku.}
+{145}{}{RÃ¡d vÃ¡s poznÃ¡vÃ¡m, }
+{146}{}{. Pokud mÄ› nÄ›kdy budete potÅ™ebovat, najdete mÄ› zde.}
+{147}{}{DÃ­ky. Sbohem.}
+{148}{}{Vy nepochÃ¡zÃ­te z Vault City, Å¾e ne? VÃ¡s bych si urÄitÄ› pamatoval. Odkud jste?}
+{149}{}{PoÄkejte chvÃ­li... vy pochÃ¡zÃ­te zvenku z pustiny, nemÃ¡m pravdu? Odkud pÅ™esnÄ› jste?}
+{150}{}{Z malÃ© vesnice Arroyo na zÃ¡padÄ›.}
+{151}{}{ProÄ vÃ¡s to zajÃ­mÃ¡?}
+{152}{}{Do toho vÃ¡m nic nenÃ­, "doktore." MÅ¯Å¾u uÅ¾ jÃ­t, nebo pro mÄ› mÃ¡te jeÅ¡tÄ› nÄ›jakÃ© otÃ¡zky?}
+{153}{}{Nerad mluvÃ­m o svÃ© minulosti.}
+{154}{}{Arroyo? O tom jsem snad nikdy neslyÅ¡el. OmlouvÃ¡m se, Å¾e se tak ptÃ¡m, jen zkrÃ¡tka hledÃ¡m nÄ›koho, kdo nÄ›kdy opustil zdi Vault City... vÄ›tÅ¡ina ObÄanÅ¯ totiÅ¾ nikdy mÄ›sto neopustila.}
+{155}{}{Koho hledÃ¡te? A proÄ?}
+{156}{}{To je *ÃºÅ¾asnÃ©.* A co to mÃ¡ se mnou spoleÄnÃ©ho?}
+{157}{}{OmlouvÃ¡m se, Å¾e se tak ptÃ¡m, jen zkrÃ¡tka hledÃ¡m nÄ›koho, kdo nÄ›kdy opustil zdi Vault City... vÄ›tÅ¡ina ObÄanÅ¯ totiÅ¾ nikdy mÄ›sto neopustila.}
+{158}{}{Koho hledÃ¡te? A proÄ?}
+{159}{}{To je *ÃºÅ¾asnÃ©.* A co to mÃ¡ se mnou spoleÄnÃ©ho?}
+{160}{}{VidÃ­m, Å¾e jste se nejspÃ­Å¡ tady v tÄ›ch ulicÃ­ch ztratil... jdÄ›te zpÃ¡tky do chodby, odkud jste pÅ™iÅ¡el, a dejte se doprava. To vÃ¡s zavede zpÃ¡tky na povrch, rozumÃ­te?}
+{161}{}{DÃ­ky, Å¾e jste mÄ› nasmÄ›roval... ÄlovÄ›k holt nÄ›kdy zabloudÃ­, vÃ­te? Hned pÅ¯jdu zpÃ¡tky na povrch.}
+{162}{}{MyslÃ­m, Å¾e jeÅ¡tÄ› nechci odejÃ­t, "doktore." NejdÅ™Ã­v chci vidÄ›t, co tu mÃ¡te.}
+{163}{}{HledÃ¡m nÄ›koho, kdo by pro mÄ› udÄ›lal malou sluÅ¾biÄku.}
 {164}{}{Co to je?}
-{165}{}{Díky, ale nemám zájem.}
-{166}{}{Vıbornì! Jsem rád, e jste si to rozmyslel.}
-{167}{}{Doneslo se mi, e se v pustinách objevil novı druh drogy. Myslím, e se jí øíká "Jet". Jsem ochoten zaplatit tisíc dolarù za vzorek této drogy.}
-{168}{}{Jet? Jeden vzorek u sebe mám.}
-{169}{}{Myslím, e tu nìjakı Jet mám. Za dvanáct set je váš.}
-{170}{}{Mám u sebe Jet... dám vám ho za patnáct set.}
-{171}{}{Take... po mì chcete propašovat do Vault City Jet?}
-{172}{}{Co mám udìlat?}
-{173}{}{Díky, ale nemám zájem.}
-{174}{}{To mì mrzí. Pokud si to rozmyslíte, zastavte se... velmi rád vám za vaše obtíe poskytnu odškodnìní.}
-{175}{}{Mám ještì nìjaké další otázky...}
-{176}{}{Odškodnìní? Ehhhh... chci radìji nìjaké peníze. Sbohem.}
-{177}{}{Tak dobøe. Sbohem.}
-{178}{}{Hmmmmm. Kdy uváím, co všechno riskujete, tak je to více ne férová cena. Tak dobrá, tady máte své peníze... a dìkuji vám.}
-{179}{}{Chci se ještì na nìco zeptat...}
-{180}{}{Víte, myslím, e byste nemìl èichat tu... sraèku. Vìøte mi.}
-{181}{}{Chcete s tím nìjak pomoct? Chci øíct, znám zpùsob, jak si to hodnì uít. Musíte si zacpat nozdry, vypustit všechen kyslík z plic, potom se zhluboka nadechnout, trochu toho vdechnout a dret to v sobì tak minutu...}
-{182}{}{Bylo mi potìšením s vámi obchodovat, doktore. Dávejte si na to pozor.}
-{183}{}{*Díky*. A teï mùete jít.}
-{184}{}{Chci se ještì na nìco zeptat...}
-{185}{}{Víte, myslím, e byste nemìl èichat tu... sraèku. Vìøte mi.}
-{186}{}{Promiòte, jen se snaím pomoct. Zatím, doktore.}
-{187}{}{O èem to mluvíš?}
-{188}{}{Zapomeòte na to. Chci se ještì na nìco zeptat...}
-{189}{}{No, vyrábìjí to z brahmíních sraèek.}
-{190}{}{V Jetu jsou vıpary z brahmíních hoven. Nechutné, e?}
-{191}{}{V Jetu jsou vıpary z brahmíních hoven. Nechutné, e? Mimochodem... sháním nìjaké blokátory endorfinù. Máte nìjaké?}
-{192}{}{No, tady podle našeho mladého génia to vyrábìjí z brahmíních hoven.}
-{193}{}{No, tady podle našeho mladého génia jsou v Jetu vıpary z brahmíních hoven. Nechutné, e?}
-{194}{}{No, tady podle našeho mladého génia jsou v Jetu vıpary z brahmíních hoven. Nechutné, e? Mimochodem... sháním nìjaké blokátory endorfinù. Máte nìjaké?}
-{195}{}{Eh... zapomeòte na to. Moná bude lepší, kdy o tom nebudete vìdìt.}
-{196}{}{Myslím, e se... mılíte.}
-{197}{}{No, je opravdu tìké tomu uvìøit. Chci se ještì zeptat...}
-{198}{}{Ne, opravdu. Pìstují Jet v brahmíních hovnech... pouívají je jako hnojivo.}
-{199}{}{Ne, opravdu. Pùvodnì v brahmíních hovnech pìstovali halucinogeny, ale pak pøišli na to, e *vıpary* z hoven pøivádìjí dìlníky do extáze. Víte, zjistilo se, e se pøi prùchodu brahmíním trávícím systémem vytvoøí kontaminovanı, pøedváleènı, proteinovı extrakt...}
-{200}{}{Pravdìpodobnì. Ani já tomu pøíliš nevìøím. Uvidíme se pozdìji, doktore.}
-{201}{}{Opravdu? Hmmmmm. Je dost moné, e jsou brahmíní... vıkaly opravdu dobré hnojivo. Nikdy jsem o tom takto neuvaoval. Dìkuji vám, pøíteli. Byl jsem opravdu zvìdavı, jak se Jet vyrábí.}
-{202}{}{Ano, a na to, e k vırobì Jetu pouívají brahmíní hovna a ne vıkaly. Zatím, doktore.}
-{203}{}{ádnı problém. Opatrnì s tím, ano?}
-{204}{}{To kadı. Uvidíme se pozdìji, doktore.}
-{205}{}{To je... fascinující. Hmmmmm. Moná bych mohl odebrat krevní vzorky z brahmín na Pøedmìstí a potom... dìkuji vám, pøíteli. Opravdu mnohokrát dìkuji. Byl jsem opravdu zvìdavı, jak se Jet vyrábí.}
-{206}{}{ádnı problém. Opatrnì s tím, ano?}
-{207}{}{To kadı. Uvidíme se pozdìji, doktore.}
-{208}{}{Blokátory endorfinù? Na co?}
-{209}{}{Myslím, e by se daly pouít k neutralizování Jetu, jakmile se dostane do krevního obìhu. Bez nich to ale nemùu otestovat.}
-{210}{}{Zapomeòte na to. Chci se ještì na nìco zeptat...}
-{211}{}{Na nic. U musím jít.}
-{212}{}{Blokátory endorfinù tu nemáme, ale mohu naprogramovat Auto-Dok, aby nìjaké vyrobil. Nechcete se se mnou podìlit o svoji teorii?}
-{213}{}{No, víte, zbavit se chemické závislosti na Jetu je skuteènì velmi tìké, take mì napadlo, e kdy do tìla vpravíme blokátory endorfinù, mohli bychom...}
-{215}{}{Nemám... slov. To je jednoduše nejbrilantnìjší øešení, jaké jsem kdy slyšel. Experimentoval jsem s metodami vyléèení závislosti na Jetu nìkolik mìsícù, ale vùbec na nic jsem nepøišel.}
-{216}{}{Vy jste také pracoval na protijedu?}
-{217}{}{Ano, proto jsem chtìl ten vzorek.}
-{218}{}{Ano... a neúspìšnì.}
-{219}{}{Musíme tuto smrtonosnou drogu zastavit døív, ne se rozšíøí. Díky informacím, které od vás mám, mùu vyrobit protilátku hned teï! Vydrte chvíli.}
-{220}{}{Skvìlé! Díky, doktore.}
-{221}{}{Tento mladı mu? To on stvoøil Jet?}
-{222}{}{Neøekl bych "mu", ale ano, to on vynalezl Jet. Nebo to alespoò tvrdí.}
-{223}{}{Jo, kdo by to byl do nìj øekl, e?}
+{165}{}{DÃ­ky, ale nemÃ¡m zÃ¡jem.}
+{166}{}{VÃ½bornÄ›! Jsem rÃ¡d, Å¾e jste si to rozmyslel.}
+{167}{}{Doneslo se mi, Å¾e se v pustinÃ¡ch objevil novÃ½ druh drogy. MyslÃ­m, Å¾e se jÃ­ Å™Ã­kÃ¡ "Jet". Jsem ochoten zaplatit tisÃ­c dolarÅ¯ za vzorek tÃ©to drogy.}
+{168}{}{Jet? Jeden vzorek u sebe mÃ¡m.}
+{169}{}{MyslÃ­m, Å¾e tu nÄ›jakÃ½ Jet mÃ¡m. Za dvanÃ¡ct set je vÃ¡Å¡.}
+{170}{}{MÃ¡m u sebe Jet... dÃ¡m vÃ¡m ho za patnÃ¡ct set.}
+{171}{}{TakÅ¾e... po mÄ› chcete propaÅ¡ovat do Vault City Jet?}
+{172}{}{Co mÃ¡m udÄ›lat?}
+{173}{}{DÃ­ky, ale nemÃ¡m zÃ¡jem.}
+{174}{}{To mÄ› mrzÃ­. Pokud si to rozmyslÃ­te, zastavte se... velmi rÃ¡d vÃ¡m za vaÅ¡e obtÃ­Å¾e poskytnu odÅ¡kodnÄ›nÃ­.}
+{175}{}{MÃ¡m jeÅ¡tÄ› nÄ›jakÃ© dalÅ¡Ã­ otÃ¡zky...}
+{176}{}{OdÅ¡kodnÄ›nÃ­? Ehhhh... chci radÄ›ji nÄ›jakÃ© penÃ­ze. Sbohem.}
+{177}{}{Tak dobÅ™e. Sbohem.}
+{178}{}{Hmmmmm. KdyÅ¾ uvÃ¡Å¾Ã­m, co vÅ¡echno riskujete, tak je to vÃ­ce neÅ¾ fÃ©rovÃ¡ cena. Tak dobrÃ¡, tady mÃ¡te svÃ© penÃ­ze... a dÄ›kuji vÃ¡m.}
+{179}{}{Chci se jeÅ¡tÄ› na nÄ›co zeptat...}
+{180}{}{VÃ­te, myslÃ­m, Å¾e byste nemÄ›l Äichat tu... sraÄku. VÄ›Å™te mi.}
+{181}{}{Chcete s tÃ­m nÄ›jak pomoct? Chci Å™Ã­ct, znÃ¡m zpÅ¯sob, jak si to hodnÄ› uÅ¾Ã­t. MusÃ­te si zacpat nozdry, vypustit vÅ¡echen kyslÃ­k z plic, potom se zhluboka nadechnout, trochu toho vdechnout a drÅ¾et to v sobÄ› tak minutu...}
+{182}{}{Bylo mi potÄ›Å¡enÃ­m s vÃ¡mi obchodovat, doktore. DÃ¡vejte si na to pozor.}
+{183}{}{*DÃ­ky*. A teÄ mÅ¯Å¾ete jÃ­t.}
+{184}{}{Chci se jeÅ¡tÄ› na nÄ›co zeptat...}
+{185}{}{VÃ­te, myslÃ­m, Å¾e byste nemÄ›l Äichat tu... sraÄku. VÄ›Å™te mi.}
+{186}{}{PromiÅˆte, jen se snaÅ¾Ã­m pomoct. ZatÃ­m, doktore.}
+{187}{}{O Äem to mluvÃ­Å¡?}
+{188}{}{ZapomeÅˆte na to. Chci se jeÅ¡tÄ› na nÄ›co zeptat...}
+{189}{}{No, vyrÃ¡bÄ›jÃ­ to z brahmÃ­nÃ­ch sraÄek.}
+{190}{}{V Jetu jsou vÃ½pary z brahmÃ­nÃ­ch hoven. NechutnÃ©, Å¾e?}
+{191}{}{V Jetu jsou vÃ½pary z brahmÃ­nÃ­ch hoven. NechutnÃ©, Å¾e? Mimochodem... shÃ¡nÃ­m nÄ›jakÃ© blokÃ¡tory endorfinÅ¯. MÃ¡te nÄ›jakÃ©?}
+{192}{}{No, tady podle naÅ¡eho mladÃ©ho gÃ©nia to vyrÃ¡bÄ›jÃ­ z brahmÃ­nÃ­ch hoven.}
+{193}{}{No, tady podle naÅ¡eho mladÃ©ho gÃ©nia jsou v Jetu vÃ½pary z brahmÃ­nÃ­ch hoven. NechutnÃ©, Å¾e?}
+{194}{}{No, tady podle naÅ¡eho mladÃ©ho gÃ©nia jsou v Jetu vÃ½pary z brahmÃ­nÃ­ch hoven. NechutnÃ©, Å¾e? Mimochodem... shÃ¡nÃ­m nÄ›jakÃ© blokÃ¡tory endorfinÅ¯. MÃ¡te nÄ›jakÃ©?}
+{195}{}{Eh... zapomeÅˆte na to. MoÅ¾nÃ¡ bude lepÅ¡Ã­, kdyÅ¾ o tom nebudete vÄ›dÄ›t.}
+{196}{}{MyslÃ­m, Å¾e se... mÃ½lÃ­te.}
+{197}{}{No, je opravdu tÄ›Å¾kÃ© tomu uvÄ›Å™it. Chci se jeÅ¡tÄ› zeptat...}
+{198}{}{Ne, opravdu. PÄ›stujÃ­ Jet v brahmÃ­nÃ­ch hovnech... pouÅ¾Ã­vajÃ­ je jako hnojivo.}
+{199}{}{Ne, opravdu. PÅ¯vodnÄ› v brahmÃ­nÃ­ch hovnech pÄ›stovali halucinogeny, ale pak pÅ™iÅ¡li na to, Å¾e *vÃ½pary* z hoven pÅ™ivÃ¡dÄ›jÃ­ dÄ›lnÃ­ky do extÃ¡ze. VÃ­te, zjistilo se, Å¾e se pÅ™i prÅ¯chodu brahmÃ­nÃ­m trÃ¡vÃ­cÃ­m systÃ©mem vytvoÅ™Ã­ kontaminovanÃ½, pÅ™edvÃ¡leÄnÃ½, proteinovÃ½ extrakt...}
+{200}{}{PravdÄ›podobnÄ›. Ani jÃ¡ tomu pÅ™Ã­liÅ¡ nevÄ›Å™Ã­m. UvidÃ­me se pozdÄ›ji, doktore.}
+{201}{}{Opravdu? Hmmmmm. Je dost moÅ¾nÃ©, Å¾e jsou brahmÃ­nÃ­... vÃ½kaly opravdu dobrÃ© hnojivo. Nikdy jsem o tom takto neuvaÅ¾oval. DÄ›kuji vÃ¡m, pÅ™Ã­teli. Byl jsem opravdu zvÄ›davÃ½, jak se Jet vyrÃ¡bÃ­.}
+{202}{}{Ano, aÅ¾ na to, Å¾e k vÃ½robÄ› Jetu pouÅ¾Ã­vajÃ­ brahmÃ­nÃ­ hovna a ne vÃ½kaly. ZatÃ­m, doktore.}
+{203}{}{Å½Ã¡dnÃ½ problÃ©m. OpatrnÄ› s tÃ­m, ano?}
+{204}{}{To kaÅ¾dÃ½. UvidÃ­me se pozdÄ›ji, doktore.}
+{205}{}{To je... fascinujÃ­cÃ­. Hmmmmm. MoÅ¾nÃ¡ bych mohl odebrat krevnÃ­ vzorky z brahmÃ­n na PÅ™edmÄ›stÃ­ a potom... dÄ›kuji vÃ¡m, pÅ™Ã­teli. Opravdu mnohokrÃ¡t dÄ›kuji. Byl jsem opravdu zvÄ›davÃ½, jak se Jet vyrÃ¡bÃ­.}
+{206}{}{Å½Ã¡dnÃ½ problÃ©m. OpatrnÄ› s tÃ­m, ano?}
+{207}{}{To kaÅ¾dÃ½. UvidÃ­me se pozdÄ›ji, doktore.}
+{208}{}{BlokÃ¡tory endorfinÅ¯? Na co?}
+{209}{}{MyslÃ­m, Å¾e by se daly pouÅ¾Ã­t k neutralizovÃ¡nÃ­ Jetu, jakmile se dostane do krevnÃ­ho obÄ›hu. Bez nich to ale nemÅ¯Å¾u otestovat.}
+{210}{}{ZapomeÅˆte na to. Chci se jeÅ¡tÄ› na nÄ›co zeptat...}
+{211}{}{Na nic. UÅ¾ musÃ­m jÃ­t.}
+{212}{}{BlokÃ¡tory endorfinÅ¯ tu nemÃ¡me, ale mohu naprogramovat Auto-Dok, aby nÄ›jakÃ© vyrobil. Nechcete se se mnou podÄ›lit o svoji teorii?}
+{213}{}{No, vÃ­te, zbavit se chemickÃ© zÃ¡vislosti na Jetu je skuteÄnÄ› velmi tÄ›Å¾kÃ©, takÅ¾e mÄ› napadlo, Å¾e kdyÅ¾ do tÄ›la vpravÃ­me blokÃ¡tory endorfinÅ¯, mohli bychom...}
+{215}{}{NemÃ¡m... slov. To je jednoduÅ¡e nejbrilantnÄ›jÅ¡Ã­ Å™eÅ¡enÃ­, jakÃ© jsem kdy slyÅ¡el. Experimentoval jsem s metodami vylÃ©ÄenÃ­ zÃ¡vislosti na Jetu nÄ›kolik mÄ›sÃ­cÅ¯, ale vÅ¯bec na nic jsem nepÅ™iÅ¡el.}
+{216}{}{Vy jste takÃ© pracoval na protijedu?}
+{217}{}{Ano, proto jsem chtÄ›l ten vzorek.}
+{218}{}{Ano... a neÃºspÄ›Å¡nÄ›.}
+{219}{}{MusÃ­me tuto smrtonosnou drogu zastavit dÅ™Ã­v, neÅ¾ se rozÅ¡Ã­Å™Ã­. DÃ­ky informacÃ­m, kterÃ© od vÃ¡s mÃ¡m, mÅ¯Å¾u vyrobit protilÃ¡tku hned teÄ! VydrÅ¾te chvÃ­li.}
+{220}{}{SkvÄ›lÃ©! DÃ­ky, doktore.}
+{221}{}{Tento mladÃ½ muÅ¾? To on stvoÅ™il Jet?}
+{222}{}{NeÅ™ekl bych "muÅ¾", ale ano, to on vynalezl Jet. Nebo to alespoÅˆ tvrdÃ­.}
+{223}{}{Jo, kdo by to byl do nÄ›j Å™ekl, Å¾e?}
 {224}{}{Myrone, Dr. Troy... Dr. Troyi, Myron.}
-{225}{}{V tom pøípadì mám na tohoto mladého mue pár otázek...}
-{226}{}{Eh, jistì, ale moná byste si mìl nejdøív vzít aspirin. Poèkám tu na vás.}
-{227}{}{Poslute si.}
-{228}{}{Jen do toho. A zavolejte mì, kdybyste nìco potøeboval... tøeba baseballovou pálku.}
-{229}{}{Brahmíní vıpary? Není to sice konvenèní vırobní proces, ale... hmmmmm. Moná bych mohl odebrat krevní vzorky z brahmín na Pøedmìstí a potom... dìkuji vám, pøíteli.}
-{230}{}{ádnı problém.}
-{231}{}{Jasnì.}
-{232}{}{Øeknìte také svému pubertálnímu pøíteli, e plıtvá svım velkım talentem na vırobu drog. Jeho chování a vyjadøování by rovnì potøebovalo HODNÌ vylepšit.}
-{233}{}{To mi povídejte.}
-{234}{}{Moná byste se mìl trochu uklidnit, doktore. Trochu drogy nikdy nikomu neublíilo. No, moná s vıjimkou Super-Stimpakù... a Buffoutu... a Psycha. Vlastnì nic. U pùjdu.}
-{235}{}{Vyøídím mu to.}
-{236}{}{Ano, jsem ochoten vám zaplatit tisíc dolarù za vzorek... a vaše mlèení.}
-{237}{}{Mám jeden vzorek Jetu zrovna u sebe.}
-{238}{}{Na co vlastnì Jet potøebujete?}
-{239}{}{To zní dobøe. Beru to.}
-{240}{}{Nemám zájem.}
-{241}{}{Pokud mi pøinesete malı vzorek té drogy, pomùe to... mnì i mé práci. Zaplatím vám za nìj tisíc dolarù. Je však nesmírnì dùleité vše udret v tajnosti.}
+{225}{}{V tom pÅ™Ã­padÄ› mÃ¡m na tohoto mladÃ©ho muÅ¾e pÃ¡r otÃ¡zek...}
+{226}{}{Eh, jistÄ›, ale moÅ¾nÃ¡ byste si mÄ›l nejdÅ™Ã­v vzÃ­t aspirin. PoÄkÃ¡m tu na vÃ¡s.}
+{227}{}{PosluÅ¾te si.}
+{228}{}{Jen do toho. A zavolejte mÄ›, kdybyste nÄ›co potÅ™eboval... tÅ™eba baseballovou pÃ¡lku.}
+{229}{}{BrahmÃ­nÃ­ vÃ½pary? NenÃ­ to sice konvenÄnÃ­ vÃ½robnÃ­ proces, ale... hmmmmm. MoÅ¾nÃ¡ bych mohl odebrat krevnÃ­ vzorky z brahmÃ­n na PÅ™edmÄ›stÃ­ a potom... dÄ›kuji vÃ¡m, pÅ™Ã­teli.}
+{230}{}{Å½Ã¡dnÃ½ problÃ©m.}
+{231}{}{JasnÄ›.}
+{232}{}{Å˜eknÄ›te takÃ© svÃ©mu pubertÃ¡lnÃ­mu pÅ™Ã­teli, Å¾e plÃ½tvÃ¡ svÃ½m velkÃ½m talentem na vÃ½robu drog. Jeho chovÃ¡nÃ­ a vyjadÅ™ovÃ¡nÃ­ by rovnÄ›Å¾ potÅ™ebovalo HODNÄš vylepÅ¡it.}
+{233}{}{To mi povÃ­dejte.}
+{234}{}{MoÅ¾nÃ¡ byste se mÄ›l trochu uklidnit, doktore. Trochu drogy nikdy nikomu neublÃ­Å¾ilo. No, moÅ¾nÃ¡ s vÃ½jimkou Super-StimpakÅ¯... a Buffoutu... a Psycha. VlastnÄ› nic. UÅ¾ pÅ¯jdu.}
+{235}{}{VyÅ™Ã­dÃ­m mu to.}
+{236}{}{Ano, jsem ochoten vÃ¡m zaplatit tisÃ­c dolarÅ¯ za vzorek... a vaÅ¡e mlÄenÃ­.}
+{237}{}{MÃ¡m jeden vzorek Jetu zrovna u sebe.}
+{238}{}{Na co vlastnÄ› Jet potÅ™ebujete?}
+{239}{}{To znÃ­ dobÅ™e. Beru to.}
+{240}{}{NemÃ¡m zÃ¡jem.}
+{241}{}{Pokud mi pÅ™inesete malÃ½ vzorek tÃ© drogy, pomÅ¯Å¾e to... mnÄ› i mÃ© prÃ¡ci. ZaplatÃ­m vÃ¡m za nÄ›j tisÃ­c dolarÅ¯. Je vÅ¡ak nesmÃ­rnÄ› dÅ¯leÅ¾itÃ© vÅ¡e udrÅ¾et v tajnosti.}
 {242}{}{Eh... v tajnosti?}
-{243}{}{Opravdu? A kolik mi zaplatíte za mlèení? Klidnì vás mùu prásknout hned teï.}
-{244}{}{Mám jeden vzorek Jetu zrovna u sebe.}
-{245}{}{Na co vlastnì Jet potøebujete?}
-{246}{}{ádnı problém. Mùete se na mì spolehnout.}
-{247}{}{Nemám zájem.}
-{248}{}{Eh, ano... v tajnosti. To znamená, e to bude jen mezi mnou a vámi. Nikomu o tom neøíkejte.}
-{249}{}{Mám jeden vzorek Jetu zrovna u sebe.}
-{250}{}{Na co vlastnì Jet potøebujete?}
-{251}{}{Co mi zabrání v tom vás hned teï neprásknout?}
-{252}{}{ádnı problém. Budu to dret "v tajnosti" a nebudu o tom, eh, mluvit.}
-{253}{}{Nemám zájem.}
-{254}{}{To není vaše starost. Seeòte vzorek Jetu, pøineste mi ho a já vám zaplatím tisíc dolarù... cena je vèetnì vašeho mlèení.}
-{255}{}{No, mám jeden vzorek Jetu zrovna u sebe.}
-{256}{}{Co mi zabrání v tom vás hned teï neprásknout?}
-{257}{}{ádnı problém. Mùete se na mì spolehnout.}
-{258}{}{Nemám zájem.}
-{259}{}{Cooo...? To byste neudìlal! Jak si *opovaujete* mi vyhroovat?}
-{260}{}{Hej! Uklidnìte se, jen se ptám. Není tøeba panikaøit.}
-{261}{}{Udìlal a taky e udìlám. Na kolik si ceníte svého Obèanství? ivot v pustinì mùe bıt nìkdy pìknì drsnı...}
-{262}{}{Byl jsem blázen, kdy jsem vám vìøil! Tak dobøe... co chcete?}
-{263}{}{Pìt set dolarù na zaèátku kadého mìsíce a já o tom pašování nikomu neøeknu.}
-{264}{}{Tisíc dolarù na zaèátku kadého mìsíce a mùete si ponechat své Obèanství.}
-{265}{}{Dva tisíce dolarù na zaèátku kadého mìsíce a já budu mlèet.}
-{266}{}{Jste blázen?! To si v ádném pøípadì nemùu dovolit!}
-{267}{}{Dobøe, dobøe. Necháme to na pìti stovkách a vynecháme z toho První Obèanku.}
-{268}{}{Radìji byste mìl NAJÍT zpùsob, jak si to dovolit, nebo budete ebrat o zbytky jídla na Pøedmìstí spolu s ostatními venkovany.}
-{269}{}{Tak dobøe. Tady je první splátka. Udavte se.}
-{270}{}{Bylo mi potìšením, doktore. Brzy se opìt uvidíme.}
-{271}{}{Radìji si dávejte pozor na hubu, nebo se stanete dalším pacientem Auto-Doku. Jasné?}
-{272}{}{O takovıch vìcech se neertuje. Je to velmi váná vìc. Zaplatím tisíc dolarù za Jet, za vaše mlèení... a ádné další otázky. Berete tu práci?}
-{273}{}{Chcete nìco vìdìt? Mám jeden vzorek Jetu zrovna u sebe.}
-{274}{}{Co mi zabrání v tom vás hned teï neprásknout?}
-{275}{}{Jasnì, udìlám to.}
-{276}{}{Nemám zájem.}
+{243}{}{Opravdu? A kolik mi zaplatÃ­te za mlÄenÃ­? KlidnÄ› vÃ¡s mÅ¯Å¾u prÃ¡sknout hned teÄ.}
+{244}{}{MÃ¡m jeden vzorek Jetu zrovna u sebe.}
+{245}{}{Na co vlastnÄ› Jet potÅ™ebujete?}
+{246}{}{Å½Ã¡dnÃ½ problÃ©m. MÅ¯Å¾ete se na mÄ› spolehnout.}
+{247}{}{NemÃ¡m zÃ¡jem.}
+{248}{}{Eh, ano... v tajnosti. To znamenÃ¡, Å¾e to bude jen mezi mnou a vÃ¡mi. Nikomu o tom neÅ™Ã­kejte.}
+{249}{}{MÃ¡m jeden vzorek Jetu zrovna u sebe.}
+{250}{}{Na co vlastnÄ› Jet potÅ™ebujete?}
+{251}{}{Co mi zabrÃ¡nÃ­ v tom vÃ¡s hned teÄ neprÃ¡sknout?}
+{252}{}{Å½Ã¡dnÃ½ problÃ©m. Budu to drÅ¾et "v tajnosti" a nebudu o tom, eh, mluvit.}
+{253}{}{NemÃ¡m zÃ¡jem.}
+{254}{}{To nenÃ­ vaÅ¡e starost. SeÅ¾eÅˆte vzorek Jetu, pÅ™ineste mi ho a jÃ¡ vÃ¡m zaplatÃ­m tisÃ­c dolarÅ¯... cena je vÄetnÄ› vaÅ¡eho mlÄenÃ­.}
+{255}{}{No, mÃ¡m jeden vzorek Jetu zrovna u sebe.}
+{256}{}{Co mi zabrÃ¡nÃ­ v tom vÃ¡s hned teÄ neprÃ¡sknout?}
+{257}{}{Å½Ã¡dnÃ½ problÃ©m. MÅ¯Å¾ete se na mÄ› spolehnout.}
+{258}{}{NemÃ¡m zÃ¡jem.}
+{259}{}{Cooo...? To byste neudÄ›lal! Jak si *opovaÅ¾ujete* mi vyhroÅ¾ovat?}
+{260}{}{Hej! UklidnÄ›te se, jen se ptÃ¡m. NenÃ­ tÅ™eba panikaÅ™it.}
+{261}{}{UdÄ›lal a taky Å¾e udÄ›lÃ¡m. Na kolik si cenÃ­te svÃ©ho ObÄanstvÃ­? Å½ivot v pustinÄ› mÅ¯Å¾e bÃ½t nÄ›kdy pÄ›knÄ› drsnÃ½...}
+{262}{}{Byl jsem blÃ¡zen, kdyÅ¾ jsem vÃ¡m vÄ›Å™il! Tak dobÅ™e... co chcete?}
+{263}{}{PÄ›t set dolarÅ¯ na zaÄÃ¡tku kaÅ¾dÃ©ho mÄ›sÃ­ce a jÃ¡ o tom paÅ¡ovÃ¡nÃ­ nikomu neÅ™eknu.}
+{264}{}{TisÃ­c dolarÅ¯ na zaÄÃ¡tku kaÅ¾dÃ©ho mÄ›sÃ­ce a mÅ¯Å¾ete si ponechat svÃ© ObÄanstvÃ­.}
+{265}{}{Dva tisÃ­ce dolarÅ¯ na zaÄÃ¡tku kaÅ¾dÃ©ho mÄ›sÃ­ce a jÃ¡ budu mlÄet.}
+{266}{}{Jste blÃ¡zen?! To si v Å¾Ã¡dnÃ©m pÅ™Ã­padÄ› nemÅ¯Å¾u dovolit!}
+{267}{}{DobÅ™e, dobÅ™e. NechÃ¡me to na pÄ›ti stovkÃ¡ch a vynechÃ¡me z toho PrvnÃ­ ObÄanku.}
+{268}{}{RadÄ›ji byste mÄ›l NAJÃT zpÅ¯sob, jak si to dovolit, nebo budete Å¾ebrat o zbytky jÃ­dla na PÅ™edmÄ›stÃ­ spolu s ostatnÃ­mi venkovany.}
+{269}{}{Tak dobÅ™e. Tady je prvnÃ­ splÃ¡tka. Udavte se.}
+{270}{}{Bylo mi potÄ›Å¡enÃ­m, doktore. Brzy se opÄ›t uvidÃ­me.}
+{271}{}{RadÄ›ji si dÃ¡vejte pozor na hubu, nebo se stanete dalÅ¡Ã­m pacientem Auto-Doku. JasnÃ©?}
+{272}{}{O takovÃ½ch vÄ›cech se neÅ¾ertuje. Je to velmi vÃ¡Å¾nÃ¡ vÄ›c. ZaplatÃ­m tisÃ­c dolarÅ¯ za Jet, za vaÅ¡e mlÄenÃ­... a Å¾Ã¡dnÃ© dalÅ¡Ã­ otÃ¡zky. Berete tu prÃ¡ci?}
+{273}{}{Chcete nÄ›co vÄ›dÄ›t? MÃ¡m jeden vzorek Jetu zrovna u sebe.}
+{274}{}{Co mi zabrÃ¡nÃ­ v tom vÃ¡s hned teÄ neprÃ¡sknout?}
+{275}{}{JasnÄ›, udÄ›lÃ¡m to.}
+{276}{}{NemÃ¡m zÃ¡jem.}
 {277}{}{Opravdu?}
-{278}{}{Vıbornì! Dìkuji vám, pøíteli... ani nevíte, jak je to pro moji práci dùleité. Tady jsou vaše peníze, jak jsem slíbil.}
-{279}{}{Skvìlé. Ještì ne pùjdu, chci se na nìco zeptat...}
-{280}{}{Víte, myslím, e byste nemìl èichat tu... sraèku. Vìøte mi.}
-{281}{}{ádnı problém. Díky, doktore.}
-{282}{}{Zdravím, Kapitáne. Jak vám mohu pomoci?}
-{283}{}{Zdravím, Obèane. Jak vám mohu pomoci?}
-{284}{}{Jak ti mùu pomoct?}
+{278}{}{VÃ½bornÄ›! DÄ›kuji vÃ¡m, pÅ™Ã­teli... ani nevÃ­te, jak je to pro moji prÃ¡ci dÅ¯leÅ¾itÃ©. Tady jsou vaÅ¡e penÃ­ze, jak jsem slÃ­bil.}
+{279}{}{SkvÄ›lÃ©. JeÅ¡tÄ› neÅ¾ pÅ¯jdu, chci se na nÄ›co zeptat...}
+{280}{}{VÃ­te, myslÃ­m, Å¾e byste nemÄ›l Äichat tu... sraÄku. VÄ›Å™te mi.}
+{281}{}{Å½Ã¡dnÃ½ problÃ©m. DÃ­ky, doktore.}
+{282}{}{ZdravÃ­m, KapitÃ¡ne. Jak vÃ¡m mohu pomoci?}
+{283}{}{ZdravÃ­m, ObÄane. Jak vÃ¡m mohu pomoci?}
+{284}{}{Jak ti mÅ¯Å¾u pomoct?}
 {285}{}{Ano?}
-{286}{}{Já mít bebí}
-{287}{}{Po-moè?}
+{286}{}{JÃ¡ mÃ­t bebÃ­}
+{287}{}{Po-moÄ?}
 {288}{}{Odbelhat se.}
-{289}{}{Potøebuju vaše lékaøské znalosti.}
-{290}{}{Øíkal jste, e jste doktor... já sám jsem taky nìco jako doktor.}
-{291}{}{Máte nìjaké blokátory endorfinù?}
-{292}{}{Mám ten Jet, co jste chtìl.}
-{293}{}{Mám zájem o tu práci, pokud je stále k mání.}
-{294}{}{Ten Jet, co jste chtìl... myslím, e by o tom ostatní Obèané taky rádi vìdìli.}
-{295}{}{Dnes nic. Hezkı den, doktore.}
-{296}{}{Jistì. Promiòte... je to u hodnì dlouho, co jsem to dìlal. Vìtšina Obèanù byla oèkována pøed mnoha a mnoha lety. Pøipravím na tuto proceduru Auto-Dok...}
-{297}{}{Tak dobøe.}
-{298}{}{Hotovo. Ještì malé varování: Tato vakcína vás nedìlá imunní vùèi jedu a radiaci, jen posiluje pøirozenou odolnost vašeho tìla.}
-{299}{}{Vøelé díky. Poslyšte, chci se ještì na nìco zeptat...}
-{300}{}{Skvìle. Díky, doktore.}
-{301}{}{Á, to jste vy. Co potøebujete?}
-{302}{}{Potøebuju vyléèit.}
-{303}{}{Mám otravu.}
-{304}{}{Zasáhla mì radiace.}
-{305}{}{Jdu si pro svoje prachy, rozumíte?}
-{306}{}{Jen vám chci pøipomenout, e se blíí prvního, tak abyste mìl nachystané ty peníze.}
-{307}{}{Nic... pro tentokrát.}
-{308}{}{Nebojte se, nezapomnìl jsem. Tady jsou vaše peníze. A teï odejdìte.}
-{309}{}{Poèkejte... potøebuju ještì vyléèit.}
-{310}{}{Poèkejte... mám otravu. Potøebuju, abyste mì vyléèil.}
-{311}{}{Poèkejte... zasáhla mì radiace. Potøebuju, abyste mì vyléèil.}
-{312}{}{Bylo mi potìšením s vámi obchodovat. Brzy nashle, doktore.}
-{313}{}{Nebojte se, nezapomnìl jsem. Svoje peníze dostanete. A teï odejdìte.}
-{314}{}{Poèkejte... potøebuju ještì vyléèit.}
-{315}{}{Poèkejte... mám otravu. Potøebuju, abyste mì vyléèil.}
-{316}{}{Poèkejte... zasáhla mì radiace. Potøebuju, abyste mì vyléèil.}
-{317}{}{To bude všechno. Brzy nashle, doktore.}
-{318}{}{Rozumím. Nejprve musím zjistit, jak jste na tom... trochu se zakloòte a já vás napojím tady na Auto-Dok...}
-{320}{}{Hmmmm. Vypadá to, e pøi úvodní proceduøe operátor pøetíil Auto-Dok a ten vám omylem píchl Sodium Tri-Ethylen.}
-{321}{}{Coe? Co to znamená?}
-{322}{}{To znamená, e máte tak deset vteøin do konce ivota. Vaše hloupost opravdu nezná mezí. Nejdøív nìkoho vydíráte a pak vloíte svùj ivot do jeho rukou? To je opravdu úasné. Sbohem... a hezké umírání.}
-{323}{}{Tak a teï si musím nahrát uloenou pozici! To je fakt k posrání! Dostanu vás v pøíští høe.}
-{324}{}{A co Hippokratova pøísaha?! Hej! Já...}
-{325}{}{Pøijdu si pro vás i po smrti. Pøísahám.}
-{326}{}{Jak jste se dostal sem dolù? Obávám se, e budete muset odejít. Vydrte chvíli, zavolám stráe, aby vás vyprovodili ven.}
-{327}{}{MY NE ODEJÍT!}
-{328}{}{Poèkat chvíli na místì.}
-{329}{}{Mám dobré zprávy. Podaøilo se mi vyrobit protijed z toho vzorku Jetu, kterı jste mi dal.}
-{330}{}{Dobrá zpráva... díky vašim informacím se mi podaøilo vyrobit protijed.}
-{331}{}{Jakmile se aplikuje, odstraní všechny abstinenèní pøíznaky Jetu a... zároveò euforii spojenou s pouitím drogy.}
-{332}{}{Skvìlé. Mùete mi jeden dát?}
-{333}{}{Mùu si vzít jeden vzorek? Myslím, e by to mohlo pomoct lidem v Reddingu.}
-{334}{}{Jistì. Tady máte. Doneste to mému kolegovi doktoru Johnsonovi v Reddingu. On u dohlédne na to, aby ho dostali ti, kteøí ho potøebují.}
-{335}{}{Samozøejmì, tady máte. Doneslo se mi, e problémy s Jetem mají hlavnì v Reddingu. Pokud ten protijed donesete místnímu lékaøi doktoru Johnsonovi, tak on u dohlédne na to, aby ho dostali ti, kteøí ho potøebují.}
-{336}{}{Skvìlé! Budu ho støeit jako oko v hlavì. Chci se ještì zeptat...}
-{337}{}{Díky za protijed.}
-{338}{}{Vıbornì! Vrate se, a získáte vzorek Jetu a já vám dám odmìnu.}
-{339}{}{Dohodnuto. Chci se ještì zeptat...}
-{340}{}{Vrátím se i s tím Jetem.}
-{341}{}{Ano, vím o nich. Jde o chirurgickı zákrok, kdy se podkoní pláty a teplo rozptylující membrány transplantují do tkánì, èím ji chrání proti fyzickému poškození a áru. Proè se ptáte?}
-{342}{}{Ano, u jste se o tìch implantátech kdysi zmínil. Lituji, ale tu operaci neprovedu. Procedura je nevratná a implantáty nadìlají víc škody ne uitku.}
-{343}{}{Narazil jsem na nì v lékaøské databázi Vault City. Mùete mi tu operaci provést?}
-{344}{}{Mùete mi tu operaci provést? Sám to nedokáu.}
-{345}{}{Tak dobøe. Chci se ještì zeptat...}
-{346}{}{Fajn. Jen se ptám.}
-{347}{}{Fajn. Snad najdu nìkoho, kdo mi tu operaci provede.}
-{348}{}{Ne, je mi líto... jak jsem øekl, implantáty vyadují chirurgickı zákrok a doba nutná k zotavení je dlouhá a nároèná. Pacienti, kteøí v minulosti podstoupili tuto operaci, navíc trpí èastımi deformacemi kostry.}
-{349}{}{I pøesto to chci risknout. Mùete to pro mì udìlat?}
-{350}{}{Provedl bych tuto operaci pouze v pøípadì nouze, ne proto, e to nìkdo chce. Riziko je pøíliš veliké a v porovnání se standardní kevlarovou zbrojí nejsou implantáty zase a tak velikım zlepšením.}
-{351}{}{Hmmm. Dobøe, chci se ještì zeptat...}
-{352}{}{Dobøe, díky.}
-{353}{}{Dobøe, díky. Snad najdu nìkoho, kdo mi tu operaci provede.}
-{354}{}{Je mi líto. Zaøízení je pouze pro Obèany. Seznam všech pacientù je k nahlédnutí v databázi... (Sníí hlas.) Nicménì Stimpaky v zásobovacích skøíòkách na dolním podlaí nikomu chybìt nebudou.}
-{355}{}{Hmmm. Dobøe, chci se ještì zeptat...}
-{356}{}{Díky. Pùjdu se po nich podívat.}
-{357}{}{Samozøejmì, Kapitáne. Podívám se, co pro vás a vaše pøátele mohu udìlat.}
-{358}{}{Samozøejmì, Kapitáne. Podívám se, co pro vás a vašeho pøítele mohu udìlat.}
-{359}{}{Nejprve musím zjistit, jak jste na tom... trochu se zakloòte a já vás napojím tady na Auto-Dok...}
-{361}{}{Pane jo, váš zmutovanı pøítel mìl celé tìlo poseté kulkami a støepinami. Divím se, e nedostal otravu olovem. Nakonec jsem ale vše vyndal. Tady to máte.}
-{362}{}{Tohle by vám mìlo pomoci. Pokud budete opìt potøebovat pomoc, dejte mi vìdìt.}
-{363}{}{Já taky potøebuju vyléèit.}
-{364}{}{Potøebuju pomoct... zasáhla mì radiace.}
-{365}{}{Mám otravu. Mùete mi pomoct?}
-{366}{}{Díky, doktore. Poslyšte, víte nìco o podkoních implantátech?}
-{367}{}{Váím si toho, doktore. Chci se ještì na nìco zeptat...}
-{368}{}{Ještì se nejspíš vrátím. Díky, doktore.}
-{369}{}{Samozøejmì, Obèane. O co jde?}
-{370}{}{Samozøejmì, Kapitáne. O co jde?}
-{371}{}{Samozøejmì. O co jde?}
-{372}{}{Potøebuju vyléèit.}
-{373}{}{Zasáhla mì radiace.}
-{374}{}{Mám otravu.}
-{375}{}{Mùete vyléèit mého pøítele?}
-{376}{}{Mùete vyléèit mé pøátele?}
-{377}{}{Víte nìco o podkoních implantátech?}
-{378}{}{Zapomeòte na to. Chci se ještì na nìco zeptat...}
-{379}{}{U nic. Díky, doktore.}
-{380}{}{Tak dobøe. Nejprve musím zjistit, jak jste na tom... trochu se zakloòte a já vás napojím tady na Auto-Dok...}
-{382}{}{Tohle by vám mìlo pomoci. Jak se cítíte?}
-{383}{}{Skvìle. Mùete vyléèit i mého pøítele?}
-{384}{}{Skvìle. Mùete vyléèit i moje pøátele?}
-{385}{}{Víte nìco o podkoních implantátech?}
-{386}{}{Mnohem lépe, díky. Chci se ještì zeptat...}
-{387}{}{Skvìle. Díky, doktore.}
-{388}{}{Tak dobøe. Nejprve musím zjistit, jak jste na tom... trochu se zakloòte a já vás napojím tady na Auto-Dok...}
-{390}{}{Tohle by vám mìlo pomoci. Jak se cítíte?}
-{391}{}{Mnohem lépe, díky. Poslyšte, bìhem prohlídky jste se zmínil o tom, e máte vakcínu, která zlepšuje odolnost proti otravì a ozáøení. Mùu ji dostat?}
-{392}{}{Skvìle. Mùete vyléèit i mého pøítele?}
-{393}{}{Skvìle. Mùete vyléèit i moje pøátele?}
-{394}{}{Víte nìco o podkoních implantátech?}
-{395}{}{Mnohem lépe. Chci se ještì zeptat...}
-{396}{}{Skvìle. Díky, doktore.}
-{397}{}{Stráe!}
+{289}{}{PotÅ™ebuju vaÅ¡e lÃ©kaÅ™skÃ© znalosti.}
+{290}{}{Å˜Ã­kal jste, Å¾e jste doktor... jÃ¡ sÃ¡m jsem taky nÄ›co jako doktor.}
+{291}{}{MÃ¡te nÄ›jakÃ© blokÃ¡tory endorfinÅ¯?}
+{292}{}{MÃ¡m ten Jet, co jste chtÄ›l.}
+{293}{}{MÃ¡m zÃ¡jem o tu prÃ¡ci, pokud je stÃ¡le k mÃ¡nÃ­.}
+{294}{}{Ten Jet, co jste chtÄ›l... myslÃ­m, Å¾e by o tom ostatnÃ­ ObÄanÃ© taky rÃ¡di vÄ›dÄ›li.}
+{295}{}{Dnes nic. HezkÃ½ den, doktore.}
+{296}{}{JistÄ›. PromiÅˆte... je to uÅ¾ hodnÄ› dlouho, co jsem to dÄ›lal. VÄ›tÅ¡ina ObÄanÅ¯ byla oÄkovÃ¡na pÅ™ed mnoha a mnoha lety. PÅ™ipravÃ­m na tuto proceduru Auto-Dok...}
+{297}{}{Tak dobÅ™e.}
+{298}{}{Hotovo. JeÅ¡tÄ› malÃ© varovÃ¡nÃ­: Tato vakcÃ­na vÃ¡s nedÄ›lÃ¡ imunnÃ­ vÅ¯Äi jedu a radiaci, jen posiluje pÅ™irozenou odolnost vaÅ¡eho tÄ›la.}
+{299}{}{VÅ™elÃ© dÃ­ky. PoslyÅ¡te, chci se jeÅ¡tÄ› na nÄ›co zeptat...}
+{300}{}{SkvÄ›le. DÃ­ky, doktore.}
+{301}{}{Ã, to jste vy. Co potÅ™ebujete?}
+{302}{}{PotÅ™ebuju vylÃ©Äit.}
+{303}{}{MÃ¡m otravu.}
+{304}{}{ZasÃ¡hla mÄ› radiace.}
+{305}{}{Jdu si pro svoje prachy, rozumÃ­te?}
+{306}{}{Jen vÃ¡m chci pÅ™ipomenout, Å¾e se blÃ­Å¾Ã­ prvnÃ­ho, tak abyste mÄ›l nachystanÃ© ty penÃ­ze.}
+{307}{}{Nic... pro tentokrÃ¡t.}
+{308}{}{Nebojte se, nezapomnÄ›l jsem. Tady jsou vaÅ¡e penÃ­ze. A teÄ odejdÄ›te.}
+{309}{}{PoÄkejte... potÅ™ebuju jeÅ¡tÄ› vylÃ©Äit.}
+{310}{}{PoÄkejte... mÃ¡m otravu. PotÅ™ebuju, abyste mÄ› vylÃ©Äil.}
+{311}{}{PoÄkejte... zasÃ¡hla mÄ› radiace. PotÅ™ebuju, abyste mÄ› vylÃ©Äil.}
+{312}{}{Bylo mi potÄ›Å¡enÃ­m s vÃ¡mi obchodovat. Brzy nashle, doktore.}
+{313}{}{Nebojte se, nezapomnÄ›l jsem. Svoje penÃ­ze dostanete. A teÄ odejdÄ›te.}
+{314}{}{PoÄkejte... potÅ™ebuju jeÅ¡tÄ› vylÃ©Äit.}
+{315}{}{PoÄkejte... mÃ¡m otravu. PotÅ™ebuju, abyste mÄ› vylÃ©Äil.}
+{316}{}{PoÄkejte... zasÃ¡hla mÄ› radiace. PotÅ™ebuju, abyste mÄ› vylÃ©Äil.}
+{317}{}{To bude vÅ¡echno. Brzy nashle, doktore.}
+{318}{}{RozumÃ­m. Nejprve musÃ­m zjistit, jak jste na tom... trochu se zakloÅˆte a jÃ¡ vÃ¡s napojÃ­m tady na Auto-Dok...}
+{320}{}{Hmmmm. VypadÃ¡ to, Å¾e pÅ™i ÃºvodnÃ­ proceduÅ™e operÃ¡tor pÅ™etÃ­Å¾il Auto-Dok a ten vÃ¡m omylem pÃ­chl Sodium Tri-Ethylen.}
+{321}{}{CoÅ¾e? Co to znamenÃ¡?}
+{322}{}{To znamenÃ¡, Å¾e mÃ¡te tak deset vteÅ™in do konce Å¾ivota. VaÅ¡e hloupost opravdu neznÃ¡ mezÃ­. NejdÅ™Ã­v nÄ›koho vydÃ­rÃ¡te a pak vloÅ¾Ã­te svÅ¯j Å¾ivot do jeho rukou? To je opravdu ÃºÅ¾asnÃ©. Sbohem... a hezkÃ© umÃ­rÃ¡nÃ­.}
+{323}{}{Tak a teÄ si musÃ­m nahrÃ¡t uloÅ¾enou pozici! To je fakt k posrÃ¡nÃ­! Dostanu vÃ¡s v pÅ™Ã­Å¡tÃ­ hÅ™e.}
+{324}{}{A co Hippokratova pÅ™Ã­saha?! Hej! JÃ¡...}
+{325}{}{PÅ™ijdu si pro vÃ¡s i po smrti. PÅ™Ã­sahÃ¡m.}
+{326}{}{Jak jste se dostal sem dolÅ¯? ObÃ¡vÃ¡m se, Å¾e budete muset odejÃ­t. VydrÅ¾te chvÃ­li, zavolÃ¡m strÃ¡Å¾e, aby vÃ¡s vyprovodili ven.}
+{327}{}{MY NE ODEJÃT!}
+{328}{}{PoÄkat chvÃ­li na mÃ­stÄ›.}
+{329}{}{MÃ¡m dobrÃ© zprÃ¡vy. PodaÅ™ilo se mi vyrobit protijed z toho vzorku Jetu, kterÃ½ jste mi dal.}
+{330}{}{DobrÃ¡ zprÃ¡va... dÃ­ky vaÅ¡im informacÃ­m se mi podaÅ™ilo vyrobit protijed.}
+{331}{}{Jakmile se aplikuje, odstranÃ­ vÅ¡echny abstinenÄnÃ­ pÅ™Ã­znaky Jetu a... zÃ¡roveÅˆ euforii spojenou s pouÅ¾itÃ­m drogy.}
+{332}{}{SkvÄ›lÃ©. MÅ¯Å¾ete mi jeden dÃ¡t?}
+{333}{}{MÅ¯Å¾u si vzÃ­t jeden vzorek? MyslÃ­m, Å¾e by to mohlo pomoct lidem v Reddingu.}
+{334}{}{JistÄ›. Tady mÃ¡te. Doneste to mÃ©mu kolegovi doktoru Johnsonovi v Reddingu. On uÅ¾ dohlÃ©dne na to, aby ho dostali ti, kteÅ™Ã­ ho potÅ™ebujÃ­.}
+{335}{}{SamozÅ™ejmÄ›, tady mÃ¡te. Doneslo se mi, Å¾e problÃ©my s Jetem majÃ­ hlavnÄ› v Reddingu. Pokud ten protijed donesete mÃ­stnÃ­mu lÃ©kaÅ™i doktoru Johnsonovi, tak on uÅ¾ dohlÃ©dne na to, aby ho dostali ti, kteÅ™Ã­ ho potÅ™ebujÃ­.}
+{336}{}{SkvÄ›lÃ©! Budu ho stÅ™eÅ¾it jako oko v hlavÄ›. Chci se jeÅ¡tÄ› zeptat...}
+{337}{}{DÃ­ky za protijed.}
+{338}{}{VÃ½bornÄ›! VraÅ¥te se, aÅ¾ zÃ­skÃ¡te vzorek Jetu a jÃ¡ vÃ¡m dÃ¡m odmÄ›nu.}
+{339}{}{Dohodnuto. Chci se jeÅ¡tÄ› zeptat...}
+{340}{}{VrÃ¡tÃ­m se i s tÃ­m Jetem.}
+{341}{}{Ano, vÃ­m o nich. Jde o chirurgickÃ½ zÃ¡krok, kdy se podkoÅ¾nÃ­ plÃ¡ty a teplo rozptylujÃ­cÃ­ membrÃ¡ny transplantujÃ­ do tkÃ¡nÄ›, ÄÃ­mÅ¾ ji chrÃ¡nÃ­ proti fyzickÃ©mu poÅ¡kozenÃ­ a Å¾Ã¡ru. ProÄ se ptÃ¡te?}
+{342}{}{Ano, uÅ¾ jste se o tÄ›ch implantÃ¡tech kdysi zmÃ­nil. Lituji, ale tu operaci neprovedu. Procedura je nevratnÃ¡ a implantÃ¡ty nadÄ›lajÃ­ vÃ­c Å¡kody neÅ¾ uÅ¾itku.}
+{343}{}{Narazil jsem na nÄ› v lÃ©kaÅ™skÃ© databÃ¡zi Vault City. MÅ¯Å¾ete mi tu operaci provÃ©st?}
+{344}{}{MÅ¯Å¾ete mi tu operaci provÃ©st? SÃ¡m to nedokÃ¡Å¾u.}
+{345}{}{Tak dobÅ™e. Chci se jeÅ¡tÄ› zeptat...}
+{346}{}{Fajn. Jen se ptÃ¡m.}
+{347}{}{Fajn. Snad najdu nÄ›koho, kdo mi tu operaci provede.}
+{348}{}{Ne, je mi lÃ­to... jak jsem Å™ekl, implantÃ¡ty vyÅ¾adujÃ­ chirurgickÃ½ zÃ¡krok a doba nutnÃ¡ k zotavenÃ­ je dlouhÃ¡ a nÃ¡roÄnÃ¡. Pacienti, kteÅ™Ã­ v minulosti podstoupili tuto operaci, navÃ­c trpÃ­ ÄastÃ½mi deformacemi kostry.}
+{349}{}{I pÅ™esto to chci risknout. MÅ¯Å¾ete to pro mÄ› udÄ›lat?}
+{350}{}{Provedl bych tuto operaci pouze v pÅ™Ã­padÄ› nouze, ne proto, Å¾e to nÄ›kdo chce. Riziko je pÅ™Ã­liÅ¡ velikÃ© a v porovnÃ¡nÃ­ se standardnÃ­ kevlarovou zbrojÃ­ nejsou implantÃ¡ty zase aÅ¾ tak velikÃ½m zlepÅ¡enÃ­m.}
+{351}{}{Hmmm. DobÅ™e, chci se jeÅ¡tÄ› zeptat...}
+{352}{}{DobÅ™e, dÃ­ky.}
+{353}{}{DobÅ™e, dÃ­ky. Snad najdu nÄ›koho, kdo mi tu operaci provede.}
+{354}{}{Je mi lÃ­to. ZaÅ™Ã­zenÃ­ je pouze pro ObÄany. Seznam vÅ¡ech pacientÅ¯ je k nahlÃ©dnutÃ­ v databÃ¡zi... (SnÃ­Å¾Ã­ hlas.) NicmÃ©nÄ› Stimpaky v zÃ¡sobovacÃ­ch skÅ™Ã­ÅˆkÃ¡ch na dolnÃ­m podlaÅ¾Ã­ nikomu chybÄ›t nebudou.}
+{355}{}{Hmmm. DobÅ™e, chci se jeÅ¡tÄ› zeptat...}
+{356}{}{DÃ­ky. PÅ¯jdu se po nich podÃ­vat.}
+{357}{}{SamozÅ™ejmÄ›, KapitÃ¡ne. PodÃ­vÃ¡m se, co pro vÃ¡s a vaÅ¡e pÅ™Ã¡tele mohu udÄ›lat.}
+{358}{}{SamozÅ™ejmÄ›, KapitÃ¡ne. PodÃ­vÃ¡m se, co pro vÃ¡s a vaÅ¡eho pÅ™Ã­tele mohu udÄ›lat.}
+{359}{}{Nejprve musÃ­m zjistit, jak jste na tom... trochu se zakloÅˆte a jÃ¡ vÃ¡s napojÃ­m tady na Auto-Dok...}
+{361}{}{Pane jo, vÃ¡Å¡ zmutovanÃ½ pÅ™Ã­tel mÄ›l celÃ© tÄ›lo posetÃ© kulkami a stÅ™epinami. DivÃ­m se, Å¾e nedostal otravu olovem. Nakonec jsem ale vÅ¡e vyndal. Tady to mÃ¡te.}
+{362}{}{Tohle by vÃ¡m mÄ›lo pomoci. Pokud budete opÄ›t potÅ™ebovat pomoc, dejte mi vÄ›dÄ›t.}
+{363}{}{JÃ¡ taky potÅ™ebuju vylÃ©Äit.}
+{364}{}{PotÅ™ebuju pomoct... zasÃ¡hla mÄ› radiace.}
+{365}{}{MÃ¡m otravu. MÅ¯Å¾ete mi pomoct?}
+{366}{}{DÃ­ky, doktore. PoslyÅ¡te, vÃ­te nÄ›co o podkoÅ¾nÃ­ch implantÃ¡tech?}
+{367}{}{VÃ¡Å¾Ã­m si toho, doktore. Chci se jeÅ¡tÄ› na nÄ›co zeptat...}
+{368}{}{JeÅ¡tÄ› se nejspÃ­Å¡ vrÃ¡tÃ­m. DÃ­ky, doktore.}
+{369}{}{SamozÅ™ejmÄ›, ObÄane. O co jde?}
+{370}{}{SamozÅ™ejmÄ›, KapitÃ¡ne. O co jde?}
+{371}{}{SamozÅ™ejmÄ›. O co jde?}
+{372}{}{PotÅ™ebuju vylÃ©Äit.}
+{373}{}{ZasÃ¡hla mÄ› radiace.}
+{374}{}{MÃ¡m otravu.}
+{375}{}{MÅ¯Å¾ete vylÃ©Äit mÃ©ho pÅ™Ã­tele?}
+{376}{}{MÅ¯Å¾ete vylÃ©Äit mÃ© pÅ™Ã¡tele?}
+{377}{}{VÃ­te nÄ›co o podkoÅ¾nÃ­ch implantÃ¡tech?}
+{378}{}{ZapomeÅˆte na to. Chci se jeÅ¡tÄ› na nÄ›co zeptat...}
+{379}{}{UÅ¾ nic. DÃ­ky, doktore.}
+{380}{}{Tak dobÅ™e. Nejprve musÃ­m zjistit, jak jste na tom... trochu se zakloÅˆte a jÃ¡ vÃ¡s napojÃ­m tady na Auto-Dok...}
+{382}{}{Tohle by vÃ¡m mÄ›lo pomoci. Jak se cÃ­tÃ­te?}
+{383}{}{SkvÄ›le. MÅ¯Å¾ete vylÃ©Äit i mÃ©ho pÅ™Ã­tele?}
+{384}{}{SkvÄ›le. MÅ¯Å¾ete vylÃ©Äit i moje pÅ™Ã¡tele?}
+{385}{}{VÃ­te nÄ›co o podkoÅ¾nÃ­ch implantÃ¡tech?}
+{386}{}{Mnohem lÃ©pe, dÃ­ky. Chci se jeÅ¡tÄ› zeptat...}
+{387}{}{SkvÄ›le. DÃ­ky, doktore.}
+{388}{}{Tak dobÅ™e. Nejprve musÃ­m zjistit, jak jste na tom... trochu se zakloÅˆte a jÃ¡ vÃ¡s napojÃ­m tady na Auto-Dok...}
+{390}{}{Tohle by vÃ¡m mÄ›lo pomoci. Jak se cÃ­tÃ­te?}
+{391}{}{Mnohem lÃ©pe, dÃ­ky. PoslyÅ¡te, bÄ›hem prohlÃ­dky jste se zmÃ­nil o tom, Å¾e mÃ¡te vakcÃ­nu, kterÃ¡ zlepÅ¡uje odolnost proti otravÄ› a ozÃ¡Å™enÃ­. MÅ¯Å¾u ji dostat?}
+{392}{}{SkvÄ›le. MÅ¯Å¾ete vylÃ©Äit i mÃ©ho pÅ™Ã­tele?}
+{393}{}{SkvÄ›le. MÅ¯Å¾ete vylÃ©Äit i moje pÅ™Ã¡tele?}
+{394}{}{VÃ­te nÄ›co o podkoÅ¾nÃ­ch implantÃ¡tech?}
+{395}{}{Mnohem lÃ©pe. Chci se jeÅ¡tÄ› zeptat...}
+{396}{}{SkvÄ›le. DÃ­ky, doktore.}
+{397}{}{StrÃ¡Å¾e!}
 {398}{}{Chrrrrrrrrrrr.}
-{399}{}{Vysvìtluješ Dr. Troyovi vırobní proces Jetu.}
+{399}{}{VysvÄ›tlujeÅ¡ Dr. Troyovi vÃ½robnÃ­ proces Jetu.}

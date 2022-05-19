@@ -1,7 +1,7 @@
-{100}{}{Vidíš obyèejnou vázu.}
-{101}{}{Vidíš malou truhlici.}
-{102}{}{Vidíš na slunci usušenou hlinìnou vázu.}
-{103}{}{Vidíš truhlici se šamanovımi bylinami.}
-{104}{}{Obratnì kradeš šamanovy vìci.}
-{105}{}{Obratnì zamykáš truhlici.}
-{106}{}{Obratnì odemykáš truhlici.}
+{100}{}{VidÃ­Å¡ obyÄejnou vÃ¡zu.}
+{101}{}{VidÃ­Å¡ malou truhlici.}
+{102}{}{VidÃ­Å¡ na slunci usuÅ¡enou hlinÄ›nou vÃ¡zu.}
+{103}{}{VidÃ­Å¡ truhlici se Å¡amanovÃ½mi bylinami.}
+{104}{}{ObratnÄ› kradeÅ¡ Å¡amanovy vÄ›ci.}
+{105}{}{ObratnÄ› zamykÃ¡Å¡ truhlici.}
+{106}{}{ObratnÄ› odemykÃ¡Å¡ truhlici.}

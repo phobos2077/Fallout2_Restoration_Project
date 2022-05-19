@@ -1,85 +1,85 @@
-{100}{}{Vidíš Buffy, èlenku Humusákù.}
-{101}{}{Vidíš Doombot, èlenku Humusákù.}
-{102}{}{Vidíš Panoply, èlenku Humusákù.}
-{103}{}{Vidíš Lerk, èlenku Humusákù.}
-{104}{}{Vidíš Ymiru, èlenku Humusákù.}
-{105}{}{Vidíš Iguana Eatera, èlena Humusákù.}
-{106}{}{Vidíš Night Owla, èlena Humusákù.}
-{107}{}{Vidíš Shadow Dancera, èlena Humusákù.}
-{108}{}{Vidíš Amish Commando, èlena Humusákù.}
-{109}{}{Vidíš Alexanda the Killer Bee, èlena Humusákù.}
-{110}{}{Vidíš Hatchetmana, èlena Humusákù.}
-{111}{}{Vidíš BlueCrosse, èlena Humusákù.}
-{113}{}{Vidíš Buffy, velmi krásnou, inteligentní a sebejistou dívku. Je první enou Humusákù.}
-{114}{}{Vidíš Doombot. Je to uèinìná bohynì a sestra Buffy. Vypadá skoro jako Marie Osmond.}
-{115}{}{Vidíš Panoply. Vypadá dìtsky. Její oèi prozrazují lehkı pøípad demence.}
-{116}{}{Vidíš Lerk, vùdkyni SWAT tımu Humusákù a umìlkyni Humusákù. Mluví se stromy.}
-{117}{}{Vidíš Ymiru, básníøku od protinocù a spoluzakladatelku Vyvrhelù poezie. Je uèitelkou Humusákù.}
-{118}{}{Vidíš Iguana Eatera, vysokého reprezentanta Smeet Lite.}
-{119}{}{Vidíš Night Owla. Toho, kterı dohlíí nad spícími. Je spoluzakladatelem Vyvrhelù poezie.}
-{120}{}{Vidíš Shadow Dancera, pøedstavitele gotiky v klubu Vyvrhelù poezie. Kupodivu je hodnì podobnı Kevinu Baconovi.}
-{121}{}{Vidíš Amish Commando, komisaøe z Blunt Force Trauma a zástupce velitele SWAT tımu Humusákù.}
-{122}{}{Vidíš Alexanda the Killer Bee, jemného a inteligentního Killer Bee. Je vrchním písaøem Humusákù.}
-{123}{}{Vidíš Hatchetmana, zbrojíøe Humusákù, zakladatele ohòù a správce vìdìní Shadowrun.}
-{124}{}{Vidíš BlueCrosse, nišího duchovního Humusákù a øeditele vıroby.}
-{200}{}{Humusáci opìt spasí den!}
-{201}{}{Smrt je pro nìj pøíliš dobrá.}
-{202}{}{Zùstaò v hrobì!}
-{203}{}{Vesnice je opìt bezpeèná!}
-{204}{}{Chráníme nevinné a bráníme mír.}
-{205}{}{Odcházíme hlídat pustinu. Musíme ji chránit pøed spammery.}
-{206}{}{Pøidej se k nám!}
-{207}{}{Louèení tak bolnì blaí...}
-{208}{}{A pøišel Ïábel a uvidìl, jak je dobro ošklivé...}
-{209}{}{Odplata je svinì, viï?}
-{210}{}{Grim koneènì našel vyuití... jako hnojivo.}
-{211}{}{To máš za pouívání mıdla...}
-{212}{}{Mizíme!}
-{213}{}{'Tento dùm je èistı.'}
-{214}{}{Mùu do nìj pro jistotu šouchnout klackem?}
-{215}{}{Neèekej na nás!}
-{216}{}{Je to špinavá práce a mám ji opravdu rád!}
-{217}{}{Zpátky na hlídku!}
-{218}{}{Humusáci, záruka míru v proklaté pustinì.}
-{219}{}{Dostal, co si zaslouil.}
-{220}{}{Dáme závod!}
-{300}{}{Mıdlo? Nepotøebujeme ádné mıdlo!}
-{301}{}{Povstaòte, humusáci! Zniète Spammera!}
+{100}{}{VidÃ­Å¡ Buffy, Älenku HumusÃ¡kÅ¯.}
+{101}{}{VidÃ­Å¡ Doombot, Älenku HumusÃ¡kÅ¯.}
+{102}{}{VidÃ­Å¡ Panoply, Älenku HumusÃ¡kÅ¯.}
+{103}{}{VidÃ­Å¡ Lerk, Älenku HumusÃ¡kÅ¯.}
+{104}{}{VidÃ­Å¡ Ymiru, Älenku HumusÃ¡kÅ¯.}
+{105}{}{VidÃ­Å¡ Iguana Eatera, Älena HumusÃ¡kÅ¯.}
+{106}{}{VidÃ­Å¡ Night Owla, Älena HumusÃ¡kÅ¯.}
+{107}{}{VidÃ­Å¡ Shadow Dancera, Älena HumusÃ¡kÅ¯.}
+{108}{}{VidÃ­Å¡ Amish Commando, Älena HumusÃ¡kÅ¯.}
+{109}{}{VidÃ­Å¡ Alexanda the Killer Bee, Älena HumusÃ¡kÅ¯.}
+{110}{}{VidÃ­Å¡ Hatchetmana, Älena HumusÃ¡kÅ¯.}
+{111}{}{VidÃ­Å¡ BlueCrosse, Älena HumusÃ¡kÅ¯.}
+{113}{}{VidÃ­Å¡ Buffy, velmi krÃ¡snou, inteligentnÃ­ a sebejistou dÃ­vku. Je prvnÃ­ Å¾enou HumusÃ¡kÅ¯.}
+{114}{}{VidÃ­Å¡ Doombot. Je to uÄinÄ›nÃ¡ bohynÄ› a sestra Buffy. VypadÃ¡ skoro jako Marie Osmond.}
+{115}{}{VidÃ­Å¡ Panoply. VypadÃ¡ dÄ›tsky. JejÃ­ oÄi prozrazujÃ­ lehkÃ½ pÅ™Ã­pad demence.}
+{116}{}{VidÃ­Å¡ Lerk, vÅ¯dkyni SWAT tÃ½mu HumusÃ¡kÅ¯ a umÄ›lkyni HumusÃ¡kÅ¯. MluvÃ­ se stromy.}
+{117}{}{VidÃ­Å¡ Ymiru, bÃ¡snÃ­Å™ku od protinoÅ¾cÅ¯ a spoluzakladatelku VyvrhelÅ¯ poezie. Je uÄitelkou HumusÃ¡kÅ¯.}
+{118}{}{VidÃ­Å¡ Iguana Eatera, vysokÃ©ho reprezentanta Smeet Lite.}
+{119}{}{VidÃ­Å¡ Night Owla. Toho, kterÃ½ dohlÃ­Å¾Ã­ nad spÃ­cÃ­mi. Je spoluzakladatelem VyvrhelÅ¯ poezie.}
+{120}{}{VidÃ­Å¡ Shadow Dancera, pÅ™edstavitele gotiky v klubu VyvrhelÅ¯ poezie. Kupodivu je hodnÄ› podobnÃ½ Kevinu Baconovi.}
+{121}{}{VidÃ­Å¡ Amish Commando, komisaÅ™e z Blunt Force Trauma a zÃ¡stupce velitele SWAT tÃ½mu HumusÃ¡kÅ¯.}
+{122}{}{VidÃ­Å¡ Alexanda the Killer Bee, jemnÃ©ho a inteligentnÃ­ho Killer Bee. Je vrchnÃ­m pÃ­saÅ™em HumusÃ¡kÅ¯.}
+{123}{}{VidÃ­Å¡ Hatchetmana, zbrojÃ­Å™e HumusÃ¡kÅ¯, zakladatele ohÅˆÅ¯ a sprÃ¡vce vÄ›dÄ›nÃ­ Shadowrun.}
+{124}{}{VidÃ­Å¡ BlueCrosse, niÅ¾Å¡Ã­ho duchovnÃ­ho HumusÃ¡kÅ¯ a Å™editele vÃ½roby.}
+{200}{}{HumusÃ¡ci opÄ›t spasÃ­ den!}
+{201}{}{Smrt je pro nÄ›j pÅ™Ã­liÅ¡ dobrÃ¡.}
+{202}{}{ZÅ¯staÅˆ v hrobÄ›!}
+{203}{}{Vesnice je opÄ›t bezpeÄnÃ¡!}
+{204}{}{ChrÃ¡nÃ­me nevinnÃ© a brÃ¡nÃ­me mÃ­r.}
+{205}{}{OdchÃ¡zÃ­me hlÃ­dat pustinu. MusÃ­me ji chrÃ¡nit pÅ™ed spammery.}
+{206}{}{PÅ™idej se k nÃ¡m!}
+{207}{}{LouÄenÃ­ tak bolnÄ› blaÅ¾Ã­...}
+{208}{}{A pÅ™iÅ¡el ÄÃ¡bel a uvidÄ›l, jak je dobro oÅ¡klivÃ©...}
+{209}{}{Odplata je svinÄ›, viÄ?}
+{210}{}{Grim koneÄnÄ› naÅ¡el vyuÅ¾itÃ­... jako hnojivo.}
+{211}{}{To mÃ¡Å¡ za pouÅ¾Ã­vÃ¡nÃ­ mÃ½dla...}
+{212}{}{MizÃ­me!}
+{213}{}{'Tento dÅ¯m je ÄistÃ½.'}
+{214}{}{MÅ¯Å¾u do nÄ›j pro jistotu Å¡Å¥ouchnout klackem?}
+{215}{}{NeÄekej na nÃ¡s!}
+{216}{}{Je to Å¡pinavÃ¡ prÃ¡ce a mÃ¡m ji opravdu rÃ¡d!}
+{217}{}{ZpÃ¡tky na hlÃ­dku!}
+{218}{}{HumusÃ¡ci, zÃ¡ruka mÃ­ru v proklatÃ© pustinÄ›.}
+{219}{}{Dostal, co si zaslouÅ¾il.}
+{220}{}{DÃ¡me zÃ¡vod!}
+{300}{}{MÃ½dlo? NepotÅ™ebujeme Å¾Ã¡dnÃ© mÃ½dlo!}
+{301}{}{PovstaÅˆte, humusÃ¡ci! ZniÄte Spammera!}
 {302}{}{Smrt Spammerovi!}
-{303}{}{Tady máš za ohroování lidí!}
+{303}{}{Tady mÃ¡Å¡ za ohroÅ¾ovÃ¡nÃ­ lidÃ­!}
 {304}{}{Now you will die, Grim Reaper.}
-{305}{}{Vrátíš se 'pod zem'!}
-{306}{}{Genová líheò potøebuje trochu chlóru.}
-{307}{}{Èas odplaty!}
-{308}{}{Teï to schytáš.}
-{309}{}{Humusáci jsou tu, aby chránili ostatní pøed takovım svinstvem, jako jsi ty!}
+{305}{}{VrÃ¡tÃ­Å¡ se 'pod zem'!}
+{306}{}{GenovÃ¡ lÃ­heÅˆ potÅ™ebuje trochu chlÃ³ru.}
+{307}{}{ÄŒas odplaty!}
+{308}{}{TeÄ to schytÃ¡Å¡.}
+{309}{}{HumusÃ¡ci jsou tu, aby chrÃ¡nili ostatnÃ­ pÅ™ed takovÃ½m svinstvem, jako jsi ty!}
 {310}{}{Nech lidi na pokoji!}
-{311}{}{Ve ŠPÍNÌ je síla!}
-{312}{}{Moná jsme Nemytí, ale jsme tu proto, abychom to tady vyèistili!}
-{313}{}{Tentokrát nám neunikneš!}
-{314}{}{Ochraòte Vyvoleného pøed Spammerovou pošetilostí!}
-{315}{}{Vyvolenı! Pøipoj se k nám!}
-{316}{}{ODPLATA HUMUSÁKÙ!}
+{311}{}{Ve Å PÃNÄš je sÃ­la!}
+{312}{}{MoÅ¾nÃ¡ jsme NemytÃ­, ale jsme tu proto, abychom to tady vyÄistili!}
+{313}{}{TentokrÃ¡t nÃ¡m neunikneÅ¡!}
+{314}{}{OchraÅˆte VyvolenÃ©ho pÅ™ed Spammerovou poÅ¡etilostÃ­!}
+{315}{}{VyvolenÃ½! PÅ™ipoj se k nÃ¡m!}
+{316}{}{ODPLATA HUMUSÃKÅ®!}
 {317}{}{You will never be 'Unwashed', childish fool!}
-{318}{}{Nemáš šanci!}
-{319}{}{Ještì jsme neskonèili!}
-{320}{}{Na tento den jsem èekal stráááášnì dlouho.}
-{400}{}{Tady máš za vyhroování!}
+{318}{}{NemÃ¡Å¡ Å¡anci!}
+{319}{}{JeÅ¡tÄ› jsme neskonÄili!}
+{320}{}{Na tento den jsem Äekal strÃ¡Ã¡Ã¡Ã¡Å¡nÄ› dlouho.}
+{400}{}{Tady mÃ¡Å¡ za vyhroÅ¾ovÃ¡nÃ­!}
 {401}{}{Like I'm sure! You wouldn't hurt a girl, would you?}
-{402}{}{'Odplata je nejlepší, kdy to neèekáš.'}
+{402}{}{'Odplata je nejlepÅ¡Ã­, kdyÅ¾ to neÄekÃ¡Å¡.'}
 {403}{}{I'm Buffy... you're toast.}
-{405}{}{Nikdo nebude vyhroovat Doombot!}
-{406}{}{Krotitelka Grimù!}
-{410}{}{Jenom graviola se mùe chuovì srovnávat s tímhle vítìzstvím...}
-{415}{}{Tahle vesnice je veselé místo, ale ty jsi ji velmi, velmi rozèílil.}
-{420}{}{Svım jednáním jsi zostudil naši zemi naposled!}
-{430}{}{Uspím tì navìky!}
-{435}{}{Jsme na cestì do horoucích pekel a já vás vedu.}
-{436}{}{Pojï sem, mé dítì, a ti ulevím od bolesti.}
-{437}{}{Jsi mrtvı. Jenom o tom ještì nevíš.}
+{405}{}{Nikdo nebude vyhroÅ¾ovat Doombot!}
+{406}{}{Krotitelka GrimÅ¯!}
+{410}{}{Jenom graviola se mÅ¯Å¾e chuÅ¥ovÄ› srovnÃ¡vat s tÃ­mhle vÃ­tÄ›zstvÃ­m...}
+{415}{}{Tahle vesnice je veselÃ© mÃ­sto, ale ty jsi ji velmi, velmi rozÄÃ­lil.}
+{420}{}{SvÃ½m jednÃ¡nÃ­m jsi zostudil naÅ¡i zemi naposled!}
+{430}{}{UspÃ­m tÄ› navÄ›ky!}
+{435}{}{Jsme na cestÄ› do horoucÃ­ch pekel a jÃ¡ vÃ¡s vedu.}
+{436}{}{PojÄ sem, mÃ© dÃ­tÄ›, aÅ¥ ti ulevÃ­m od bolesti.}
+{437}{}{Jsi mrtvÃ½. Jenom o tom jeÅ¡tÄ› nevÃ­Å¡.}
 {440}{}{Dej si!}
-{441}{}{Chceš dostat?}
-{442}{}{Do oblièeje ne, do oblièeje ne!}
-{445}{}{Pošlu tì do vìtšího pekla, ne o kterém psal Dante...}
-{450}{}{Zbranì! Zbranì! Zbranì! Kde jsou moje zbranì!}
-{451}{}{Jo. Jsem blázen. Smiø se s tím.}
+{441}{}{ChceÅ¡ dostat?}
+{442}{}{Do obliÄeje ne, do obliÄeje ne!}
+{445}{}{PoÅ¡lu tÄ› do vÄ›tÅ¡Ã­ho pekla, neÅ¾ o kterÃ©m psal Dante...}
+{450}{}{ZbranÄ›! ZbranÄ›! ZbranÄ›! Kde jsou moje zbranÄ›!}
+{451}{}{Jo. Jsem blÃ¡zen. SmiÅ™ se s tÃ­m.}

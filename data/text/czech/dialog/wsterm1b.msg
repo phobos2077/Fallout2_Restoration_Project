@@ -1,37 +1,37 @@
-{100}{}{Poèítaèovı terminál.}
-{101}{}{Je aktivní spoøiè obrazovky.}
-{102}{}{Obrazovka je pro tebe zcela neèitelná.}
-{103}{}{Skynet - Bezpeènostní systémy                                   Vetøelec - patro 1                                         Aktivování protiopatøení patro 1                                Protiopatøení - Konec pøenosu                        Aktivace automatického opravného systému}
-{104}{}{Skynet - Bezpeènostní systémy                                   Vetøelec - patro 1                                         Aktivování protiopatøení patro 1                              Pokouším se pøevést energii do generátoru silovıch polí...}
-{105}{}{Skynet - Bezpeènostní systémy                                   Vetøelec - patro 1                                         Aktivování protiopatøení patro 1}
-{106}{}{Ukonèit poplach na patøe 1 - planı poplach.}
-{107}{}{(Všímáš si klávesy s nápisem "HELP".) Stisknout ji.}
-{108}{}{Hacknout se do systému.}
+{100}{}{PoÄÃ­taÄovÃ½ terminÃ¡l.}
+{101}{}{Je aktivnÃ­ spoÅ™iÄ obrazovky.}
+{102}{}{Obrazovka je pro tebe zcela neÄitelnÃ¡.}
+{103}{}{Skynet - BezpeÄnostnÃ­ systÃ©my                                   VetÅ™elec - patro 1                                         AktivovÃ¡nÃ­ protiopatÅ™enÃ­ patro 1                                ProtiopatÅ™enÃ­ - Konec pÅ™enosu                        Aktivace automatickÃ©ho opravnÃ©ho systÃ©mu}
+{104}{}{Skynet - BezpeÄnostnÃ­ systÃ©my                                   VetÅ™elec - patro 1                                         AktivovÃ¡nÃ­ protiopatÅ™enÃ­ patro 1                              PokouÅ¡Ã­m se pÅ™evÃ©st energii do generÃ¡toru silovÃ½ch polÃ­...}
+{105}{}{Skynet - BezpeÄnostnÃ­ systÃ©my                                   VetÅ™elec - patro 1                                         AktivovÃ¡nÃ­ protiopatÅ™enÃ­ patro 1}
+{106}{}{UkonÄit poplach na patÅ™e 1 - planÃ½ poplach.}
+{107}{}{(VÅ¡Ã­mÃ¡Å¡ si klÃ¡vesy s nÃ¡pisem "HELP".) Stisknout ji.}
+{108}{}{Hacknout se do systÃ©mu.}
 {109}{}{Konec.}
-{110}{}{Ááááá! [Zuøivì mlátit do klávesnice]}
-{112}{}{Skynet - Bezpeènostní systémy                                   Zjištìn vetøelec - vnìjší oblast                       Aktivování Automatického opravného systému                  Hlavní dveøe - porucha                                      Znovuzavedení...                                                 Jistící mechanismus hlavních dveøí stále na místì          Návrat do úsporného reimu}
+{110}{}{ÃÃ¡Ã¡Ã¡Ã¡! [ZuÅ™ivÄ› mlÃ¡tit do klÃ¡vesnice]}
+{112}{}{Skynet - BezpeÄnostnÃ­ systÃ©my                                   ZjiÅ¡tÄ›n vetÅ™elec - vnÄ›jÅ¡Ã­ oblast                       AktivovÃ¡nÃ­ AutomatickÃ©ho opravnÃ©ho systÃ©mu                  HlavnÃ­ dveÅ™e - porucha                                      ZnovuzavedenÃ­...                                                 JistÃ­cÃ­ mechanismus hlavnÃ­ch dveÅ™Ã­ stÃ¡le na mÃ­stÄ›          NÃ¡vrat do ÃºspornÃ©ho reÅ¾imu}
 {113}{}{Aktivovat poplach - patro 1.}
-{114}{}{Spustit autodiagnostickı program.}
+{114}{}{Spustit autodiagnostickÃ½ program.}
 {115}{}{Konec.}
-{116}{}{Ááááá! [Zuøivì mlátit do klávesnice]}
-{118}{}{Skynet - Bezpeènostní systémy                                   Pøístup k tomuto terminálu zamítnut.}
+{116}{}{ÃÃ¡Ã¡Ã¡Ã¡! [ZuÅ™ivÄ› mlÃ¡tit do klÃ¡vesnice]}
+{118}{}{Skynet - BezpeÄnostnÃ­ systÃ©my                                   PÅ™Ã­stup k tomuto terminÃ¡lu zamÃ­tnut.}
 {120}{}{Konec.}
-{122}{}{Chyba 29                                                          Nebylo moné navázat spojení se serverem                 Prosím restartujte}
+{122}{}{Chyba 29                                                          Nebylo moÅ¾nÃ© navÃ¡zat spojenÃ­ se serverem                 ProsÃ­m restartujte}
 {124}{}{Konec.}
-{125}{}{Analıza pøíkazu, prosím èekejte...                                 Ovìøeno                                                             Ukonèení poplachu na patøe 1}
-{126}{}{(S takto nekvalitním bezpeènostním systémem není divu, e vyhodili sami sebe do vzduchu.) Konec.}
-{127}{}{(Objevilo se menu.)                                                  Pro deaktivaci poplachu stisknìte 1                               Pro diagnostiku stisknìte 2                                     Konec - stisknìte 3}
+{125}{}{AnalÃ½za pÅ™Ã­kazu, prosÃ­m Äekejte...                                 OvÄ›Å™eno                                                             UkonÄenÃ­ poplachu na patÅ™e 1}
+{126}{}{(S takto nekvalitnÃ­m bezpeÄnostnÃ­m systÃ©mem nenÃ­ divu, Å¾e vyhodili sami sebe do vzduchu.) Konec.}
+{127}{}{(Objevilo se menu.)                                                  Pro deaktivaci poplachu stisknÄ›te 1                               Pro diagnostiku stisknÄ›te 2                                     Konec - stisknÄ›te 3}
 {128}{}{Stisknout 1.}
 {129}{}{Stisknout 2.}
 {130}{}{Stisknout 3.}
-{131}{}{Varování! Pro optimální bìh tohoto programu se doporuèuje ukonèit všechny spuštìné procesy. Pøejete si tak nyní uèinit?}
+{131}{}{VarovÃ¡nÃ­! Pro optimÃ¡lnÃ­ bÄ›h tohoto programu se doporuÄuje ukonÄit vÅ¡echny spuÅ¡tÄ›nÃ© procesy. PÅ™ejete si tak nynÃ­ uÄinit?}
 {132}{}{Ano.}
 {133}{}{Ne.}
 {134}{}{Konec.}
-{135}{}{Ukonèení všech procesù                                        Ukonèení bezpeènostního programu - patro 1                   Èas poslední analızy: 15. Srpen 1990                       Analyzuji systém...                                             Odhadovanı èas do konce operace: 99:24:60:60}
-{136}{}{(Tak tohle asi jen tak hotové nebude.) Konec.}
-{137}{}{Pøístup zamítnut                                                 Pøístup zamítnut                                                 Prrosup tamitnut                                                 Pppppup zammmnut                                                 Pøístup povolen                                                 Ukonèení poplašnıch systémù - patro 1}
+{135}{}{UkonÄenÃ­ vÅ¡ech procesÅ¯                                        UkonÄenÃ­ bezpeÄnostnÃ­ho programu - patro 1                   ÄŒas poslednÃ­ analÃ½zy: 15. Srpen 1990                       Analyzuji systÃ©m...                                             OdhadovanÃ½ Äas do konce operace: 99:24:60:60}
+{136}{}{(Tak tohle asi jen tak hotovÃ© nebude.) Konec.}
+{137}{}{PÅ™Ã­stup zamÃ­tnut                                                 PÅ™Ã­stup zamÃ­tnut                                                 Prrosup tamitnut                                                 Pppppup zammmnut                                                 PÅ™Ã­stup povolen                                                 UkonÄenÃ­ poplaÅ¡nÃ½ch systÃ©mÅ¯ - patro 1}
 {138}{}{Konec.}
-{139}{}{Neovìøenı pøístup                                            Inicializuji bezpeènostní odstavení vzdáleného terminálu                  Pøístup k tomuto terminálu byl UKONÈEN}
+{139}{}{NeovÄ›Å™enÃ½ pÅ™Ã­stup                                            Inicializuji bezpeÄnostnÃ­ odstavenÃ­ vzdÃ¡lenÃ©ho terminÃ¡lu                  PÅ™Ã­stup k tomuto terminÃ¡lu byl UKONÄŒEN}
 {140}{}{Konec.}
-{200}{}{Poèítaè je v diagnostickém reimu. Prosím vyèkejte, dokud proces neskonèí.}
+{200}{}{PoÄÃ­taÄ je v diagnostickÃ©m reÅ¾imu. ProsÃ­m vyÄkejte, dokud proces neskonÄÃ­.}

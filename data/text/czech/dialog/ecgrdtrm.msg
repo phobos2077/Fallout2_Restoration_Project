@@ -1,7 +1,7 @@
-{100}{}{Vidíš terminál s funkèním vodním èipem.}
-{101}{}{Vidíš terminál s nefunkèním vodním èipem.}
-{102}{}{Rozbil jsi vodní èip... Vault vydrí bez vody asi 100 a 150 dní. To tì do urèité míry uklidòuje.}
+{100}{}{VidÃ­Å¡ terminÃ¡l s funkÄnÃ­m vodnÃ­m Äipem.}
+{101}{}{VidÃ­Å¡ terminÃ¡l s nefunkÄnÃ­m vodnÃ­m Äipem.}
+{102}{}{Rozbil jsi vodnÃ­ Äip... Vault vydrÅ¾Ã­ bez vody asi 100 aÅ¾ 150 dnÃ­. To tÄ› do urÄitÃ© mÃ­ry uklidÅˆuje.}
 {103}{}{Jejda.}
-{104}{}{*Píp*}
-{105}{}{*Pí... Oop*}
-{106}{}{*Píp* *Pí... Oop*}
+{104}{}{*PÃ­p*}
+{105}{}{*PÃ­... Oop*}
+{106}{}{*PÃ­p* *PÃ­... Oop*}

@@ -1,1 +1,1 @@
-{100}{}{Naráíš na osamocenı dùm. Podle tvého Pip-Boye je toto poslední známá pozice Dr. Shenga.}
+{100}{}{NarÃ¡Å¾Ã­Å¡ na osamocenÃ½ dÅ¯m. Podle tvÃ©ho Pip-Boye je toto poslednÃ­ znÃ¡mÃ¡ pozice Dr. Shenga.}

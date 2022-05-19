@@ -1,33 +1,33 @@
-{100}{}{Vidíš poèítaèovı terminál.}
-{101}{}{Vidíš fyzickou stanici.}
-{102}{}{Vidíš funkèní poèítaèovı terminál.}
-{103}{}{Zdravím. Prosím potvrïte vaši totonost.}
-{104}{}{(Jùùùù! Podívat na blikající svìtla!)}
-{105}{}{::hádat heslo::}
+{100}{}{VidÃ­Å¡ poÄÃ­taÄovÃ½ terminÃ¡l.}
+{101}{}{VidÃ­Å¡ fyzickou stanici.}
+{102}{}{VidÃ­Å¡ funkÄnÃ­ poÄÃ­taÄovÃ½ terminÃ¡l.}
+{103}{}{ZdravÃ­m. ProsÃ­m potvrÄte vaÅ¡i totoÅ¾nost.}
+{104}{}{(JÅ¯Å¯Å¯Å¯! PodÃ­vat na blikajÃ­cÃ­ svÄ›tla!)}
+{105}{}{::hÃ¡dat heslo::}
 {106}{}{KSLJKJ:Ken-Lee-97313}
-{107}{}{::hacknout se do poèítaèe::}
-{108}{}{Odhlásit se.}
-{109}{}{Fyzikální databáze: -Prùzkum- -Teorie-}
-{110}{}{Prùzkum...}
+{107}{}{::hacknout se do poÄÃ­taÄe::}
+{108}{}{OdhlÃ¡sit se.}
+{109}{}{FyzikÃ¡lnÃ­ databÃ¡ze: -PrÅ¯zkum- -Teorie-}
+{110}{}{PrÅ¯zkum...}
 {111}{}{Teorie...}
 {112}{}{Deaktivovat stanici.}
-{113}{}{Nesprávné heslo. Prosím, obrate se na správce systému. Nashledanou.}
-{114}{}{::hacknout se do poèítaèe::}
-{115}{}{::odejít::}
-{116}{}{Zaznamenán nepovolenı pøístup. Automatické vypnutí. Pøeji hezkı den.}
+{113}{}{NesprÃ¡vnÃ© heslo. ProsÃ­m, obraÅ¥te se na sprÃ¡vce systÃ©mu. Nashledanou.}
+{114}{}{::hacknout se do poÄÃ­taÄe::}
+{115}{}{::odejÃ­t::}
+{116}{}{ZaznamenÃ¡n nepovolenÃ½ pÅ™Ã­stup. AutomatickÃ© vypnutÃ­. PÅ™eji hezkÃ½ den.}
 {117}{}{[KONEC]}
-{118}{}{"Díky nedávnému získání plánù k vertibirdu se kvantovım skokem zvıšila šance na sestrojení praktického létajícího stroje. Oèekáváme, e koncem roku budeme mít funkèní prototyp a do dvou let budeme moci zahájit hromadnou vırobu." -Dr. Wong}
-{119}{}{::zkopírovat plány::}
-{120}{}{Zpìt.}
-{121}{}{"Stále pøipravujeme funkèní model vzdušného stroje. ádnı z našich návrhù se neosvìdèil jako bezpeènı nebo aerodynamickı. Moná kdybychom mìli pøístup ke starodávnım plánùm..." -Dr. Wong}
-{122}{}{Zpìt.}
-{123}{}{(Po pøelouskání úvodu a matematiky zjišuješ, e se Shi opìt snaí zkoumat nukleární energii. Oivují tak teorii vesmírnıch letù našich pøedkù - a pøitom se vysmívají Hubologistùm - a vyuívají energii slunce, vìtru a moøe. Tohle je v tìch zápiskách opravdu napsáno.)}
-{124}{}{Zpìt.}
-{125}{}{Stanice deaktivována.}
+{118}{}{"DÃ­ky nedÃ¡vnÃ©mu zÃ­skÃ¡nÃ­ plÃ¡nÅ¯ k vertibirdu se kvantovÃ½m skokem zvÃ½Å¡ila Å¡ance na sestrojenÃ­ praktickÃ©ho lÃ©tajÃ­cÃ­ho stroje. OÄekÃ¡vÃ¡me, Å¾e koncem roku budeme mÃ­t funkÄnÃ­ prototyp a do dvou let budeme moci zahÃ¡jit hromadnou vÃ½robu." -Dr. Wong}
+{119}{}{::zkopÃ­rovat plÃ¡ny::}
+{120}{}{ZpÄ›t.}
+{121}{}{"StÃ¡le pÅ™ipravujeme funkÄnÃ­ model vzduÅ¡nÃ©ho stroje. Å½Ã¡dnÃ½ z naÅ¡ich nÃ¡vrhÅ¯ se neosvÄ›dÄil jako bezpeÄnÃ½ nebo aerodynamickÃ½. MoÅ¾nÃ¡ kdybychom mÄ›li pÅ™Ã­stup ke starodÃ¡vnÃ½m plÃ¡nÅ¯m..." -Dr. Wong}
+{122}{}{ZpÄ›t.}
+{123}{}{(Po pÅ™elouskÃ¡nÃ­ Ãºvodu a matematiky zjiÅ¡Å¥ujeÅ¡, Å¾e se Shi opÄ›t snaÅ¾Ã­ zkoumat nukleÃ¡rnÃ­ energii. OÅ¾ivujÃ­ tak teorii vesmÃ­rnÃ½ch letÅ¯ naÅ¡ich pÅ™edkÅ¯ - a pÅ™itom se vysmÃ­vajÃ­ HubologistÅ¯m - a vyuÅ¾Ã­vajÃ­ energii slunce, vÄ›tru a moÅ™e. Tohle je v tÄ›ch zÃ¡piskÃ¡ch opravdu napsÃ¡no.)}
+{124}{}{ZpÄ›t.}
+{125}{}{Stanice deaktivovÃ¡na.}
 {126}{}{Aktivovat stanici.}
-{127}{}{Odejít.}
-{128}{}{Náhodnì stiskneš nìkolik kláves a jsi v poèítaèi! To je ale štìstí!}
-{129}{}{[Více]}
-{130}{}{Poèítaè nereaguje na ádnou klávesu.}
-{131}{}{Nemáš tušení kam to vloit.}
-{132}{}{Kopírování plánù... Kopírování hotovo... Vracím se do... Chyba I/O... Chyba pøerušení... Terminál se deaktivuje.}
+{127}{}{OdejÃ­t.}
+{128}{}{NÃ¡hodnÄ› stiskneÅ¡ nÄ›kolik klÃ¡ves a jsi v poÄÃ­taÄi! To je ale Å¡tÄ›stÃ­!}
+{129}{}{[VÃ­ce]}
+{130}{}{PoÄÃ­taÄ nereaguje na Å¾Ã¡dnou klÃ¡vesu.}
+{131}{}{NemÃ¡Å¡ tuÅ¡enÃ­ kam to vloÅ¾it.}
+{132}{}{KopÃ­rovÃ¡nÃ­ plÃ¡nÅ¯... KopÃ­rovÃ¡nÃ­ hotovo... VracÃ­m se do... Chyba I/O... Chyba pÅ™eruÅ¡enÃ­... TerminÃ¡l se deaktivuje.}

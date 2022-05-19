@@ -1,4 +1,4 @@
-{100}{}{Vidíš strá.}
-{101}{}{Vidíš drsnì vypadajícího stráce karavany.}
-{200}{}{Promluv si se šéfem.}
-{201}{}{Jen tu hlídám. Promluv si se šéfem.}
+{100}{}{VidÃ­Å¡ strÃ¡Å¾.}
+{101}{}{VidÃ­Å¡ drsnÄ› vypadajÃ­cÃ­ho strÃ¡Å¾ce karavany.}
+{200}{}{Promluv si se Å¡Ã©fem.}
+{201}{}{Jen tu hlÃ­dÃ¡m. Promluv si se Å¡Ã©fem.}

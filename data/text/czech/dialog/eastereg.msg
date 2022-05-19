@@ -1,236 +1,236 @@
-{100}{}{Vidíš MIBoba Fe88.}
-{101}{}{Vidíš zdatného a nemilosrdného lovce odmìn.}
-{110}{}{Vidíš drsného a nemilosrdného lovce odmìn. Nevypadá, e by toho moc namluvil. Pomohl s novımi skripty a nápady. A se zabíjením lidí.}
-{200}{}{Vidíš Hivana Zola.}
-{201}{}{Špinavı, ale pohlednı zlodìj.}
-{210}{}{Mladej, pøeletìl jsem z jednoho koutu galaxie na druhej a vidìl jsem hodnì divnejch vìcí, ale ještì jsem nikdy nevidìl *nic*, co by mì donutilo uvìøit, e všechno ovládá nìjaká všemocná Síla. ádnı tajuplnı energetickı pole neøídí *mùj* osud. Je to všechno jen spousta jednoduchejch fíglù a nesmyslù. Sentimentální náboenství a starobylı zbranì se nedaj srovnávat s poøádnım blasterem u pasu. Poznám, kdy to nìkdo umí s bouchaèkou, take si tohle vem a vìø mi: a na tebe bude vypsaná odmìna, bude se ti hodit. (Podává ti blaster.)}
-{211}{}{Moje skuteènı jméno je Ivan Zaharath.}
-{212}{}{Pøeloil jsem Restoration Project do polštiny ve prospìch velkı a mocnı Polskı republiky... chci øíct Rebelskı Aliance.}
-{213}{}{Jen se smìj, chlupáèi.}
-{214}{}{Sentimentální náboenství a starobylı zbranì se nedaj srovnávat s poøádnım blasterem u pasu, mladej.}
-{215}{}{Komu øíkáš 'špinavej'!?}
-{300}{}{Vidíš Contie-bacca.}
-{301}{}{Vypadá jako chodící koberec.}
+{100}{}{VidÃ­Å¡ MIBoba Fe88.}
+{101}{}{VidÃ­Å¡ zdatnÃ©ho a nemilosrdnÃ©ho lovce odmÄ›n.}
+{110}{}{VidÃ­Å¡ drsnÃ©ho a nemilosrdnÃ©ho lovce odmÄ›n. NevypadÃ¡, Å¾e by toho moc namluvil. Pomohl s novÃ½mi skripty a nÃ¡pady. A se zabÃ­jenÃ­m lidÃ­.}
+{200}{}{VidÃ­Å¡ Hivana Zola.}
+{201}{}{Å pinavÃ½, ale pohlednÃ½ zlodÄ›j.}
+{210}{}{Mladej, pÅ™eletÄ›l jsem z jednoho koutu galaxie na druhej a vidÄ›l jsem hodnÄ› divnejch vÄ›cÃ­, ale jeÅ¡tÄ› jsem nikdy nevidÄ›l *nic*, co by mÄ› donutilo uvÄ›Å™it, Å¾e vÅ¡echno ovlÃ¡dÃ¡ nÄ›jakÃ¡ vÅ¡emocnÃ¡ SÃ­la. Å½Ã¡dnÃ½ tajuplnÃ½ energetickÃ½ pole neÅ™Ã­dÃ­ *mÅ¯j* osud. Je to vÅ¡echno jen spousta jednoduchejch fÃ­glÅ¯ a nesmyslÅ¯. SentimentÃ¡lnÃ­ nÃ¡boÅ¾enstvÃ­ a starobylÃ½ zbranÄ› se nedaj srovnÃ¡vat s poÅ™Ã¡dnÃ½m blasterem u pasu. PoznÃ¡m, kdyÅ¾ to nÄ›kdo umÃ­ s bouchaÄkou, takÅ¾e si tohle vem a vÄ›Å™ mi: aÅ¾ na tebe bude vypsanÃ¡ odmÄ›na, bude se ti hodit. (PodÃ¡vÃ¡ ti blaster.)}
+{211}{}{Moje skuteÄnÃ½ jmÃ©no je Ivan Zaharath.}
+{212}{}{PÅ™eloÅ¾il jsem Restoration Project do polÅ¡tiny ve prospÄ›ch velkÃ½ a mocnÃ½ PolskÃ½ republiky... chci Å™Ã­ct RebelskÃ½ Aliance.}
+{213}{}{Jen se smÄ›j, chlupÃ¡Äi.}
+{214}{}{SentimentÃ¡lnÃ­ nÃ¡boÅ¾enstvÃ­ a starobylÃ½ zbranÄ› se nedaj srovnÃ¡vat s poÅ™Ã¡dnÃ½m blasterem u pasu, mladej.}
+{215}{}{Komu Å™Ã­kÃ¡Å¡ 'Å¡pinavej'!?}
+{300}{}{VidÃ­Å¡ Contie-bacca.}
+{301}{}{VypadÃ¡ jako chodÃ­cÃ­ koberec.}
 {310}{}{Roow rooo arrrrr rooow.}
-{311}{}{Rrrrrrrrrrrrr... písk!}
+{311}{}{Rrrrrrrrrrrrr... pÃ­sk!}
 {312}{}{Nowrrrrragh.}
 {313}{}{Yawrrrk!}
 {314}{}{Roow rooo Nowrrrrragh!}
-{315}{}{Øíká, e je Continuum a e udìlal novou a unikátní grafiku.}
-{316}{}{Øíká, e ji udìlal pomocí 3D modelování. Víš, on je docela chytrı. Na èlovìka.}
-{317}{}{Øíká, e nemluví èesky, aèkoliv to zní trochu jako dìtské vatlání.}
-{318}{}{Øíká, e to není kuše, je to blaster. A ne, nemùeš ho mít.}
-{319}{}{Øíká, e mu mùeš podìkovat za to, e dostal ponorku zpìt do hry.}
-{400}{}{Vidíš Dareka Vadera.}
-{401}{}{Tenhle tıpek vypadá pìknì drsnì a zdá se, e je to spíš stroj ne èlovìk.}
-{410}{}{Já jsem Darek. Pomohl jsem Obi-Wan-Killapovi zodpovìdìt milión zaèáteènickıch otázek.}
-{411}{}{Pøipoj se ke mnì! Spoleènì mùeme vládnout galaxii!}
-{412}{}{Víš, e MÌ velkı Obi-Wan-Killap poádal o pomoc?}
-{413}{}{Neøíkej nic Obi-Wan-Killapovi, ale myslím, e zaèíná šílet.}
-{414}{}{Pomohl jsem zlikvidovat nìkolik ošklivıch much. Mùeš mi podìkovat pozdìji.}
-{500}{}{Vidíš Jotisze Hutta.}
-{501}{}{Tenhle chlápek je obrovskı, tlustı a zelenı.}
-{510}{}{Já jsem Jotisz Hutt. Moná vypadám jako velkı, tlustı, zelenı slimák, ale ve skuteènosti jsem to byl já, kdo pomohl vytvoøit tuhle krásnou novou zbroj, kterou tvùj kámoš Sulik právì nosí. Byla vytvoøena Yosanem12 a mnou. Já vím! Tìmahle zavalitıma rukama!}
-{511}{}{Já jsem Jotisz Hutt. Moná vypadám jako velkı, tlustı, zelenı slimák, ale ve skuteènosti jsem to byl já, kdo pomohl vytvoøit tuhle krásnou novou zbroj, kterou tvùj kámoš... hej, kde je Sulik? Mìl bys ho najít a podívat se jak v ní vypadá. Jeho zbroj byla vytvoøena Yosanem12 a mnou. Já vím! Tìmahle zavalitıma rukama!}
-{512}{}{*písk* Já jsem velkı, tlustı, zelenı slimák...}
-{513}{}{Pokud sis toho ještì nevšiml, je a podezøele jednoduché mì uškrtit.}
+{315}{}{Å˜Ã­kÃ¡, Å¾e je Continuum a Å¾e udÄ›lal novou a unikÃ¡tnÃ­ grafiku.}
+{316}{}{Å˜Ã­kÃ¡, Å¾e ji udÄ›lal pomocÃ­ 3D modelovÃ¡nÃ­. VÃ­Å¡, on je docela chytrÃ½. Na ÄlovÄ›ka.}
+{317}{}{Å˜Ã­kÃ¡, Å¾e nemluvÃ­ Äesky, aÄkoliv to znÃ­ trochu jako dÄ›tskÃ© Å¾vatlÃ¡nÃ­.}
+{318}{}{Å˜Ã­kÃ¡, Å¾e to nenÃ­ kuÅ¡e, je to blaster. A ne, nemÅ¯Å¾eÅ¡ ho mÃ­t.}
+{319}{}{Å˜Ã­kÃ¡, Å¾e mu mÅ¯Å¾eÅ¡ podÄ›kovat za to, Å¾e dostal ponorku zpÄ›t do hry.}
+{400}{}{VidÃ­Å¡ Dareka Vadera.}
+{401}{}{Tenhle tÃ½pek vypadÃ¡ pÄ›knÄ› drsnÄ› a zdÃ¡ se, Å¾e je to spÃ­Å¡ stroj neÅ¾ ÄlovÄ›k.}
+{410}{}{JÃ¡ jsem Darek. Pomohl jsem Obi-Wan-Killapovi zodpovÄ›dÄ›t miliÃ³n zaÄÃ¡teÄnickÃ½ch otÃ¡zek.}
+{411}{}{PÅ™ipoj se ke mnÄ›! SpoleÄnÄ› mÅ¯Å¾eme vlÃ¡dnout galaxii!}
+{412}{}{VÃ­Å¡, Å¾e MÄš velkÃ½ Obi-Wan-Killap poÅ¾Ã¡dal o pomoc?}
+{413}{}{NeÅ™Ã­kej nic Obi-Wan-Killapovi, ale myslÃ­m, Å¾e zaÄÃ­nÃ¡ Å¡Ã­let.}
+{414}{}{Pomohl jsem zlikvidovat nÄ›kolik oÅ¡klivÃ½ch much. MÅ¯Å¾eÅ¡ mi podÄ›kovat pozdÄ›ji.}
+{500}{}{VidÃ­Å¡ Jotisze Hutta.}
+{501}{}{Tenhle chlÃ¡pek je obrovskÃ½, tlustÃ½ a zelenÃ½.}
+{510}{}{JÃ¡ jsem Jotisz Hutt. MoÅ¾nÃ¡ vypadÃ¡m jako velkÃ½, tlustÃ½, zelenÃ½ slimÃ¡k, ale ve skuteÄnosti jsem to byl jÃ¡, kdo pomohl vytvoÅ™it tuhle krÃ¡snou novou zbroj, kterou tvÅ¯j kÃ¡moÅ¡ Sulik prÃ¡vÄ› nosÃ­. Byla vytvoÅ™ena Yosanem12 a mnou. JÃ¡ vÃ­m! TÄ›mahle zavalitÃ½ma rukama!}
+{511}{}{JÃ¡ jsem Jotisz Hutt. MoÅ¾nÃ¡ vypadÃ¡m jako velkÃ½, tlustÃ½, zelenÃ½ slimÃ¡k, ale ve skuteÄnosti jsem to byl jÃ¡, kdo pomohl vytvoÅ™it tuhle krÃ¡snou novou zbroj, kterou tvÅ¯j kÃ¡moÅ¡... hej, kde je Sulik? MÄ›l bys ho najÃ­t a podÃ­vat se jak v nÃ­ vypadÃ¡. Jeho zbroj byla vytvoÅ™ena Yosanem12 a mnou. JÃ¡ vÃ­m! TÄ›mahle zavalitÃ½ma rukama!}
+{512}{}{*pÃ­sk* JÃ¡ jsem velkÃ½, tlustÃ½, zelenÃ½ slimÃ¡k...}
+{513}{}{Pokud sis toho jeÅ¡tÄ› nevÅ¡iml, je aÅ¾ podezÅ™ele jednoduchÃ© mÄ› uÅ¡krtit.}
 {514}{}{Kde jsem nechal tu Leiu...?}
-{600}{}{Vidíš R2Qwerty.}
-{601}{}{Horlivı malı robot. Bliká a pípá.}
-{610}{}{Píp píp!}
-{611}{}{Rrrrrr píp rrrrwow!}
-{612}{}{*vzrušené bliká a poskakuje*}
-{613}{}{Kuše! Taktika! Kuše!}
-{700}{}{Vidíš Chris3ParksO.}
-{701}{}{Zlatı záøivı humanoidní robot. Vypadá pøekvapenì.}
-{710}{}{Ahoj, já jsem Chris3ParksO, specialista na lidsko-robotické vztahy. Jsem velice zbìhlı ve více ne 3 miliónech programovacích jazykù.}
-{711}{}{Pomohl jsem poloit základní kámen pro Kmen Umbra a EPA.}
-{712}{}{Toto je R2QWERTY - mùj vìrnı spoleèník. On vytvoøil nové tvory a grafiku.}
-{800}{}{Vidíš Yosan12.}
-{801}{}{Malı zelenı muíèek. Vypadá STAØE.}
-{810}{}{Yosan12 já jsem. NPC mód brnìní já vytvoøil. Xwing z bainy já také vyzdvihl. Velmi podivnım zpùsobem já také mluvím. Tìké je rozumìt, hmmm? Ha ha ha! Také novou odstøelovací pušku, Wakizashi a animace svìtelného meèe já vytvoøil.}
-{811}{}{Pamatuj - vztek, strach, nenávist, temná strana jsou.}
-{812}{}{A zemøu já, malı, mlhavı, záøící duch stane se ze mì.}
-{813}{}{Kdysi loutka s moudrostí a charakterem byl jsem já. Nyní prázdná CGI postavièka pro dìti stala se ze mì.}
-{814}{}{Hlupák JarJar Binks je.}
-{900}{}{Vidíš Obi-Wan-Killapa.}
-{901}{}{Vypadá jako starı milı mu. Je na nìm nìco trochu medvìdího.}
+{600}{}{VidÃ­Å¡ R2Qwerty.}
+{601}{}{HorlivÃ½ malÃ½ robot. BlikÃ¡ a pÃ­pÃ¡.}
+{610}{}{PÃ­p pÃ­p!}
+{611}{}{Rrrrrr pÃ­p rrrrwow!}
+{612}{}{*vzruÅ¡enÃ© blikÃ¡ a poskakuje*}
+{613}{}{KuÅ¡e! Taktika! KuÅ¡e!}
+{700}{}{VidÃ­Å¡ Chris3ParksO.}
+{701}{}{ZlatÃ½ zÃ¡Å™ivÃ½ humanoidnÃ­ robot. VypadÃ¡ pÅ™ekvapenÄ›.}
+{710}{}{Ahoj, jÃ¡ jsem Chris3ParksO, specialista na lidsko-robotickÃ© vztahy. Jsem velice zbÄ›hlÃ½ ve vÃ­ce neÅ¾ 3 miliÃ³nech programovacÃ­ch jazykÅ¯.}
+{711}{}{Pomohl jsem poloÅ¾it zÃ¡kladnÃ­ kÃ¡men pro Kmen Umbra a EPA.}
+{712}{}{Toto je R2QWERTY - mÅ¯j vÄ›rnÃ½ spoleÄnÃ­k. On vytvoÅ™il novÃ© tvory a grafiku.}
+{800}{}{VidÃ­Å¡ Yosan12.}
+{801}{}{MalÃ½ zelenÃ½ muÅ¾Ã­Äek. VypadÃ¡ STAÅ˜E.}
+{810}{}{Yosan12 jÃ¡ jsem. NPC mÃ³d brnÄ›nÃ­ jÃ¡ vytvoÅ™il. Xwing z baÅ¾iny jÃ¡ takÃ© vyzdvihl. Velmi podivnÃ½m zpÅ¯sobem jÃ¡ takÃ© mluvÃ­m. TÄ›Å¾kÃ© je rozumÄ›t, hmmm? Ha ha ha! TakÃ© novou odstÅ™elovacÃ­ puÅ¡ku, Wakizashi a animace svÄ›telnÃ©ho meÄe jÃ¡ vytvoÅ™il.}
+{811}{}{Pamatuj - vztek, strach, nenÃ¡vist, temnÃ¡ strana jsou.}
+{812}{}{AÅ¾ zemÅ™u jÃ¡, malÃ½, mlhavÃ½, zÃ¡Å™Ã­cÃ­ duch stane se ze mÄ›.}
+{813}{}{Kdysi loutka s moudrostÃ­ a charakterem byl jsem jÃ¡. NynÃ­ prÃ¡zdnÃ¡ CGI postaviÄka pro dÄ›ti stala se ze mÄ›.}
+{814}{}{HlupÃ¡k JarJar Binks je.}
+{900}{}{VidÃ­Å¡ Obi-Wan-Killapa.}
+{901}{}{VypadÃ¡ jako starÃ½ milÃ½ muÅ¾. Je na nÄ›m nÄ›co trochu medvÄ›dÃ­ho.}
 {910}{}{Ahoj, }
-{911}{}{. Vidím, e ti to docela šlo. Já jsem Obi-Wan-Killap - upravuju Fallout do podoby, ve které mìl bıt u od samého poèátku.}
-{912}{}{Páni. Díky moc, pane Killap. Jak jsi to dokázal?}
-{913}{}{Co to k èertu je ten Fallout?}
-{914}{}{Aha a kdo jsou prosím tì ti ostatní lidé?}
-{920}{}{Já jsem Mistr Programátor, znalı zpùsobùm Zdrojáku. Je to energetické pole vytvoøené všemi digitálními vìcmi. Obklopuje nás a proniká skrz nás. Spojuje galaxii dohromady. Ty, já, strom, kámen. Jsme jen obyèejné bytosti... ale ne tato primitivní hmota (*šouchne do tebe*). Nauèil jsem se pouívat tuto sílu skrze roky zírání do obrazovky poèítaèe.}
-{921}{}{Páni. Náš šaman vdycky øíkal, e náš svìt není jenom o tom, co mùu vidìt, slyšet, dotıkat se, ochutnat a cítit. Mùeš mì nauèit pouívat sílu Zdrojáku?}
-{922}{}{Myslím, e u jsem slyšel tolik náboenskejch blábolù, e mi to vydrí na další nukleární zimu. Upøímnì mám radìji plazmovou pistoli po svém boku.}
-{923}{}{No super, další praštìnej náboenskej pošuk. Padám odsud.}
-{930}{}{Jsi ve svìtì Falloutu. Já jsem ho stvoøil, respektive upravil tak, jak mìl pùvodnì vypadat. Víš, ještì donedávna byl tento svìt v chaosu. Cestovatelé, kteøí sem pøišli, byli pøíliš èasto zabíjeni obrovskım mnostvím much, které se potulovaly pustinou a náhodnì kazily uloené pozice. Bohùm tohoto svìta to bylo jedno. Ale pak jsme pøišli já a moji pøátelé a díky moci Zdrojáku jsme pustinu vyèistili. Dalo by se øíct, e jsem zachránce. Mnoho lidí mì má za boha - Bear Dude.}
-{931}{}{Chápu. No... vlastnì, mìl jsem dojem, e hlavním hrdinou tohohle pøíbìhu mám bıt já. Bìhám okolo, sbírám hovadiny, zabíjím lidi, vdy víš, jako hrdina. Jo a obèas s nimi i mluvím, ale tahle èást je obèas otravná. Jen to tak proklikám, abych se dostal k tìm zábavnìjším vìcem.}
-{932}{}{Vıborná práce, pane Killap. Velmi oceòuju všechen ten èas a døinu, kterou jsi vìnoval èištìním pustiny. Pokud je to pravda, tak bys mìl vìdìt, e já jsem taky hrdina. Popravdì, já sám jsem taky pár much zlikvidoval.}
-{935}{}{A my jsme vdìèní za to, e se ti podaøilo znièit Enklávu. Tady jsi skuteènı hrdina.}
-{936}{}{Nìkdo to udìlat musel.}
-{937}{}{Take, jak pøesnì jsi vyèistil tenhle svìt?}
-{938}{}{Kdo jsou prosím tì ti ostatní lidé?}
-{940}{}{To jsou moji spoleèníci. Pomohli mi tento svìt vylepšit: MIBoba Fe88, Hivan Zolo, Contie-bacca, Darek Vader, Jotisz Hutt, R2Qwerty, Chris3ParksO, Yosan12, Emperor Timeslip, Luke Skynet, Mon-Morticia, Kanhef, HawkEyE, Adam Dravean, Mr. Wolna, encinodude, Minigun Jim, Bofast, Pixote, Mash, Mikael Grizzly, x'il, Per a Masses. Ti všichni byli souèástí velikého projektu pøi obnovì tohoto svìta, kterı mìl za úkol vymıtit všechny mouchy. Jediná dobrá moucha je mrtvá moucha.}
-{941}{}{Hmm. Ty jména mi zní nìjak povìdomì... myslím, e si s nimi pùjdu promluvit.}
-{950}{}{To vskutku mùu. Musíš se nauèit pouívat své pocity: opus svoje vìdomí. Vypni monitor. Zavøi oèi a VNÍMEJ energii Zdrojáku protékající skrz myš... (Následuješ jeho instrukce.)}
-{951}{}{Nemáš dostatek zkušeností pro zapoèetí tréninku. Vra se, a budeš ovládat alespoò nìjaké základy programování, mladı padawane.}
-{960}{}{Jak si pøeješ, mladı }
-{961}{}{. Ale ne pùjdeš svojí cestou, tak si toto zapamatuj: Mnoho pravd, kterıch se dríme, hluboce závisí na našem vlastním úhlu pohledu. A teï odejdi a nech tì provází Zdroják.}
-{962}{}{. Skutky na tvé cestì prokázaly tvé dobro, laskavost a upøímnost. Vezmi si toto na pomoc v boji proti Temné Stranì - je to svìtelnı meè tvıch pøedkù. Toto je zbraò Rytíøù Java. Není tak neohrabanı a nepøesnı jako blaster. Elegantní zbraò pro civilizovanìjší dobu. A aèkoliv tì mùe lákat pouít ho k svévolnému pùlení lídí jen tak pro zábavu, mìl bys ho pouít pouze ve jménu dobra. Hodnì štìstí a nech tì provází Zdroják, pøíteli.}
-{963}{}{Coe?! Mùj pøedek, Zakladatel, mìl taky takovı meè?! Nevzpomínám si, e bych nìco takového našel ve Falloutu 1! *jdeš to zkontrolovat*}
-{964}{}{Díky, pane Bear Dude. Za všechno. Nech tì taky provází Zdroják.}
-{1000}{}{Vidíš Imperátorku Timeslip.}
-{1001}{}{Vidíš zlovìstnì vypadající shrbenou postavu zahalenou v plášti.}
-{1010}{}{Já jsem Imperátorka Timeslip. Jsem Mistrynì Programování, znalá zpùsobùm Zdrojáku. Byla jsem to já, kdo dovolil Obi-Wan-Killapovım špehùm ukradnout moje opravy v herním enginu, které zvyšují stabilitu tohoto svìta a opravují SMÌŠNÉ A HLOUPÉ MOUCHY zanechané pùvodními tvùrci.}
-{1011}{}{Vskutku, mùj mistøe. Povìz mi o sobì, ó veliká.}
-{1012}{}{Páni. Naháníš mi hrùzu. A tvoje tváø vypadá ohavnì.}
-{1013}{}{To je fajn. Musím jít.}
-{1020}{}{Pouhou myšlenkou dokáu natvrdo zmìnit zakódované vìci do Zdrojáku a tím urèit osud celıch vesmírù! Celá legie mıch nejlepších oprav všelijakıch much na tebe stále ještì èeká. Já jsem paní Temné Strany Zdrojáku.}
-{1021}{}{Ticho! Roky práce v temnotì mohly pokøivit mùj vzhled, ale v této mysli je ukryta síla boha! S pomocí Zdrojáku vytváøím poèasí ovládající celé svìty a vylepšuji to, co ji nemùe bıt vylepšeno! Byla jsem to já, kdo umonil Zlé Beth ovládnout svìt RPG díky mım modifikacím. Vše, co se stalo, se stalo podle MİCH pøedstav.}
+{911}{}{. VidÃ­m, Å¾e ti to docela Å¡lo. JÃ¡ jsem Obi-Wan-Killap - upravuju Fallout do podoby, ve kterÃ© mÄ›l bÃ½t uÅ¾ od samÃ©ho poÄÃ¡tku.}
+{912}{}{PÃ¡ni. DÃ­ky moc, pane Killap. Jak jsi to dokÃ¡zal?}
+{913}{}{Co to k Äertu je ten Fallout?}
+{914}{}{Aha a kdo jsou prosÃ­m tÄ› ti ostatnÃ­ lidÃ©?}
+{920}{}{JÃ¡ jsem Mistr ProgramÃ¡tor, znalÃ½ zpÅ¯sobÅ¯m ZdrojÃ¡ku. Je to energetickÃ© pole vytvoÅ™enÃ© vÅ¡emi digitÃ¡lnÃ­mi vÄ›cmi. Obklopuje nÃ¡s a pronikÃ¡ skrz nÃ¡s. Spojuje galaxii dohromady. Ty, jÃ¡, strom, kÃ¡men. Jsme jen obyÄejnÃ© bytosti... ale ne tato primitivnÃ­ hmota (*Å¡Å¥ouchne do tebe*). NauÄil jsem se pouÅ¾Ã­vat tuto sÃ­lu skrze roky zÃ­rÃ¡nÃ­ do obrazovky poÄÃ­taÄe.}
+{921}{}{PÃ¡ni. NÃ¡Å¡ Å¡aman vÅ¾dycky Å™Ã­kal, Å¾e nÃ¡Å¡ svÄ›t nenÃ­ jenom o tom, co mÅ¯Å¾u vidÄ›t, slyÅ¡et, dotÃ½kat se, ochutnat a cÃ­tit. MÅ¯Å¾eÅ¡ mÄ› nauÄit pouÅ¾Ã­vat sÃ­lu ZdrojÃ¡ku?}
+{922}{}{MyslÃ­m, Å¾e uÅ¾ jsem slyÅ¡el tolik nÃ¡boÅ¾enskejch blÃ¡bolÅ¯, Å¾e mi to vydrÅ¾Ã­ na dalÅ¡Ã­ nukleÃ¡rnÃ­ zimu. UpÅ™Ã­mnÄ› mÃ¡m radÄ›ji plazmovou pistoli po svÃ©m boku.}
+{923}{}{No super, dalÅ¡Ã­ praÅ¡tÄ›nej nÃ¡boÅ¾enskej poÅ¡uk. PadÃ¡m odsud.}
+{930}{}{Jsi ve svÄ›tÄ› Falloutu. JÃ¡ jsem ho stvoÅ™il, respektive upravil tak, jak mÄ›l pÅ¯vodnÄ› vypadat. VÃ­Å¡, jeÅ¡tÄ› donedÃ¡vna byl tento svÄ›t v chaosu. CestovatelÃ©, kteÅ™Ã­ sem pÅ™iÅ¡li, byli pÅ™Ã­liÅ¡ Äasto zabÃ­jeni obrovskÃ½m mnoÅ¾stvÃ­m much, kterÃ© se potulovaly pustinou a nÃ¡hodnÄ› kazily uloÅ¾enÃ© pozice. BohÅ¯m tohoto svÄ›ta to bylo jedno. Ale pak jsme pÅ™iÅ¡li jÃ¡ a moji pÅ™Ã¡telÃ© a dÃ­ky moci ZdrojÃ¡ku jsme pustinu vyÄistili. Dalo by se Å™Ã­ct, Å¾e jsem zachrÃ¡nce. Mnoho lidÃ­ mÄ› mÃ¡ za boha - Bear Dude.}
+{931}{}{ChÃ¡pu. No... vlastnÄ›, mÄ›l jsem dojem, Å¾e hlavnÃ­m hrdinou tohohle pÅ™Ã­bÄ›hu mÃ¡m bÃ½t jÃ¡. BÄ›hÃ¡m okolo, sbÃ­rÃ¡m hovadiny, zabÃ­jÃ­m lidi, vÅ¾dyÅ¥ vÃ­Å¡, jako hrdina. Jo a obÄas s nimi i mluvÃ­m, ale tahle ÄÃ¡st je obÄas otravnÃ¡. Jen to tak proklikÃ¡m, abych se dostal k tÄ›m zÃ¡bavnÄ›jÅ¡Ã­m vÄ›cem.}
+{932}{}{VÃ½bornÃ¡ prÃ¡ce, pane Killap. Velmi oceÅˆuju vÅ¡echen ten Äas a dÅ™inu, kterou jsi vÄ›noval ÄiÅ¡tÄ›nÃ­m pustiny. Pokud je to pravda, tak bys mÄ›l vÄ›dÄ›t, Å¾e jÃ¡ jsem taky hrdina. PopravdÄ›, jÃ¡ sÃ¡m jsem taky pÃ¡r much zlikvidoval.}
+{935}{}{A my jsme vdÄ›ÄnÃ­ za to, Å¾e se ti podaÅ™ilo zniÄit EnklÃ¡vu. Tady jsi skuteÄnÃ½ hrdina.}
+{936}{}{NÄ›kdo to udÄ›lat musel.}
+{937}{}{TakÅ¾e, jak pÅ™esnÄ› jsi vyÄistil tenhle svÄ›t?}
+{938}{}{Kdo jsou prosÃ­m tÄ› ti ostatnÃ­ lidÃ©?}
+{940}{}{To jsou moji spoleÄnÃ­ci. Pomohli mi tento svÄ›t vylepÅ¡it: MIBoba Fe88, Hivan Zolo, Contie-bacca, Darek Vader, Jotisz Hutt, R2Qwerty, Chris3ParksO, Yosan12, Emperor Timeslip, Luke Skynet, Mon-Morticia, Kanhef, HawkEyE, Adam Dravean, Mr. Wolna, encinodude, Minigun Jim, Bofast, Pixote, Mash, Mikael Grizzly, x'il, Per a Masses. Ti vÅ¡ichni byli souÄÃ¡stÃ­ velikÃ©ho projektu pÅ™i obnovÄ› tohoto svÄ›ta, kterÃ½ mÄ›l za Ãºkol vymÃ½tit vÅ¡echny mouchy. JedinÃ¡ dobrÃ¡ moucha je mrtvÃ¡ moucha.}
+{941}{}{Hmm. Ty jmÃ©na mi znÃ­ nÄ›jak povÄ›domÄ›... myslÃ­m, Å¾e si s nimi pÅ¯jdu promluvit.}
+{950}{}{To vskutku mÅ¯Å¾u. MusÃ­Å¡ se nauÄit pouÅ¾Ã­vat svÃ© pocity: opusÅ¥ svoje vÄ›domÃ­. Vypni monitor. ZavÅ™i oÄi a VNÃMEJ energii ZdrojÃ¡ku protÃ©kajÃ­cÃ­ skrz myÅ¡... (NÃ¡sledujeÅ¡ jeho instrukce.)}
+{951}{}{NemÃ¡Å¡ dostatek zkuÅ¡enostÃ­ pro zapoÄetÃ­ trÃ©ninku. VraÅ¥ se, aÅ¾ budeÅ¡ ovlÃ¡dat alespoÅˆ nÄ›jakÃ© zÃ¡klady programovÃ¡nÃ­, mladÃ½ padawane.}
+{960}{}{Jak si pÅ™ejeÅ¡, mladÃ½ }
+{961}{}{. Ale neÅ¾ pÅ¯jdeÅ¡ svojÃ­ cestou, tak si toto zapamatuj: Mnoho pravd, kterÃ½ch se drÅ¾Ã­me, hluboce zÃ¡visÃ­ na naÅ¡em vlastnÃ­m Ãºhlu pohledu. A teÄ odejdi a nechÅ¥ tÄ› provÃ¡zÃ­ ZdrojÃ¡k.}
+{962}{}{. Skutky na tvÃ© cestÄ› prokÃ¡zaly tvÃ© dobro, laskavost a upÅ™Ã­mnost. Vezmi si toto na pomoc v boji proti TemnÃ© StranÄ› - je to svÄ›telnÃ½ meÄ tvÃ½ch pÅ™edkÅ¯. Toto je zbraÅˆ RytÃ­Å™Å¯ Java. NenÃ­ tak neohrabanÃ½ a nepÅ™esnÃ½ jako blaster. ElegantnÃ­ zbraÅˆ pro civilizovanÄ›jÅ¡Ã­ dobu. A aÄkoliv tÄ› mÅ¯Å¾e lÃ¡kat pouÅ¾Ã­t ho k svÃ©volnÃ©mu pÅ¯lenÃ­ lÃ­dÃ­ jen tak pro zÃ¡bavu, mÄ›l bys ho pouÅ¾Ã­t pouze ve jmÃ©nu dobra. HodnÄ› Å¡tÄ›stÃ­ a nechÅ¥ tÄ› provÃ¡zÃ­ ZdrojÃ¡k, pÅ™Ã­teli.}
+{963}{}{CoÅ¾e?! MÅ¯j pÅ™edek, Zakladatel, mÄ›l taky takovÃ½ meÄ?! NevzpomÃ­nÃ¡m si, Å¾e bych nÄ›co takovÃ©ho naÅ¡el ve Falloutu 1! *jdeÅ¡ to zkontrolovat*}
+{964}{}{DÃ­ky, pane Bear Dude. Za vÅ¡echno. NechÅ¥ tÄ› taky provÃ¡zÃ­ ZdrojÃ¡k.}
+{1000}{}{VidÃ­Å¡ ImperÃ¡torku Timeslip.}
+{1001}{}{VidÃ­Å¡ zlovÄ›stnÄ› vypadajÃ­cÃ­ shrbenou postavu zahalenou v plÃ¡Å¡ti.}
+{1010}{}{JÃ¡ jsem ImperÃ¡torka Timeslip. Jsem MistrynÄ› ProgramovÃ¡nÃ­, znalÃ¡ zpÅ¯sobÅ¯m ZdrojÃ¡ku. Byla jsem to jÃ¡, kdo dovolil Obi-Wan-KillapovÃ½m Å¡pehÅ¯m ukradnout moje opravy v hernÃ­m enginu, kterÃ© zvyÅ¡ujÃ­ stabilitu tohoto svÄ›ta a opravujÃ­ SMÄšÅ NÃ‰ A HLOUPÃ‰ MOUCHY zanechanÃ© pÅ¯vodnÃ­mi tvÅ¯rci.}
+{1011}{}{Vskutku, mÅ¯j mistÅ™e. PovÄ›z mi o sobÄ›, Ã³ velikÃ¡.}
+{1012}{}{PÃ¡ni. NahÃ¡nÃ­Å¡ mi hrÅ¯zu. A tvoje tvÃ¡Å™ vypadÃ¡ ohavnÄ›.}
+{1013}{}{To je fajn. MusÃ­m jÃ­t.}
+{1020}{}{Pouhou myÅ¡lenkou dokÃ¡Å¾u natvrdo zmÄ›nit zakÃ³dovanÃ© vÄ›ci do ZdrojÃ¡ku a tÃ­m urÄit osud celÃ½ch vesmÃ­rÅ¯! CelÃ¡ legie mÃ½ch nejlepÅ¡Ã­ch oprav vÅ¡elijakÃ½ch much na tebe stÃ¡le jeÅ¡tÄ› ÄekÃ¡. JÃ¡ jsem panÃ­ TemnÃ© Strany ZdrojÃ¡ku.}
+{1021}{}{Ticho! Roky prÃ¡ce v temnotÄ› mohly pokÅ™ivit mÅ¯j vzhled, ale v tÃ©to mysli je ukryta sÃ­la boha! S pomocÃ­ ZdrojÃ¡ku vytvÃ¡Å™Ã­m poÄasÃ­ ovlÃ¡dajÃ­cÃ­ celÃ© svÄ›ty a vylepÅ¡uji to, co jiÅ¾ nemÅ¯Å¾e bÃ½t vylepÅ¡eno! Byla jsem to jÃ¡, kdo umoÅ¾nil ZlÃ© Beth ovlÃ¡dnout svÄ›t RPG dÃ­ky mÃ½m modifikacÃ­m. VÅ¡e, co se stalo, se stalo podle MÃCH pÅ™edstav.}
 {1022}{}{Sauce? What kind of sauce? Are you saying cooking is the key to controlling the universe? Whatever you say, chef.}
-{1023}{}{Jo, jo. Jak myslíš. Myslím, e pùjdu pryè.}
-{1024}{}{Eh, tak jo. To je skvìlé. No, u musím jít... ehm... zalít kytky...}
-{1030}{}{Nevychovanı hlupáku. Tvá arogance je zároveò i tvoje slabina a moje víra v tvé pøátele je... noo... moje. *vypadá zmatenì* Kliï se mi z oèí!}
-{1040}{}{Poèkej! Odejdeš POKUD a A tak rozhodnu. Pokud to náhodou nevíš, tvá krutost pøi plnìní poslání byla opravdu mimoøádná. Tvá zloba z tebe udìlala mocného èlovìka a tvoje postava se vyvinula pøesnì podle mıch pøání. Zloba, strach, nenávist... to jsou známky temné strany. Nyní se staneš mım uèedníkem a naplníš své místo PO MÉM BOKU!}
-{1041}{}{Jak si pøeješ, mùj mistøe. Èekám na tvé rozkazy.}
-{1042}{}{Nemám zájem. Nashle.}
-{1045}{}{Odejdi a vykonávej zkázu mé dítì.}
+{1023}{}{Jo, jo. Jak myslÃ­Å¡. MyslÃ­m, Å¾e pÅ¯jdu pryÄ.}
+{1024}{}{Eh, tak jo. To je skvÄ›lÃ©. No, uÅ¾ musÃ­m jÃ­t... ehm... zalÃ­t kytky...}
+{1030}{}{NevychovanÃ½ hlupÃ¡ku. TvÃ¡ arogance je zÃ¡roveÅˆ i tvoje slabina a moje vÃ­ra v tvÃ© pÅ™Ã¡tele je... noo... moje. *vypadÃ¡ zmatenÄ›* KliÄ se mi z oÄÃ­!}
+{1040}{}{PoÄkej! OdejdeÅ¡ POKUD a AÅ½ tak rozhodnu. Pokud to nÃ¡hodou nevÃ­Å¡, tvÃ¡ krutost pÅ™i plnÄ›nÃ­ poslÃ¡nÃ­ byla opravdu mimoÅ™Ã¡dnÃ¡. TvÃ¡ zloba z tebe udÄ›lala mocnÃ©ho ÄlovÄ›ka a tvoje postava se vyvinula pÅ™esnÄ› podle mÃ½ch pÅ™Ã¡nÃ­. Zloba, strach, nenÃ¡vist... to jsou znÃ¡mky temnÃ© strany. NynÃ­ se staneÅ¡ mÃ½m uÄednÃ­kem a naplnÃ­Å¡ svÃ© mÃ­sto PO MÃ‰M BOKU!}
+{1041}{}{Jak si pÅ™ejeÅ¡, mÅ¯j mistÅ™e. ÄŒekÃ¡m na tvÃ© rozkazy.}
+{1042}{}{NemÃ¡m zÃ¡jem. Nashle.}
+{1045}{}{Odejdi a vykonÃ¡vej zkÃ¡zu mÃ© dÃ­tÄ›.}
 {1046}{}{Zmiz!}
-{1050}{}{Vıııııbornì. Vezmi si tedy tuto Java zbraò. Pouívej ji. Zabíjej bezmyšlenkovitì. POUIJ SVOJE AGRESIVNÍ POCITY, DÍTÌ! (Podává ti èervenı svìtelnı meè.)}
-{1051}{}{Take... v podstatì mám pokraèovat v tom, co jsem dìlal doteï. ádnı problém. Nashle!}
-{1052}{}{Nezklamu tì, mùj mistøe.}
-{1053}{}{Zabít všechny? Myslíš... i dìti?}
-{1060}{}{PØEDEVŠÍM dìti.}
-{1100}{}{Vidíš Luka Skyneta.}
-{1101}{}{Zahalená postava, která vypadá sebejistì.}
-{1110}{}{Já jsem Luke Skynet. Jsem tu, abych tì zachránil.}
-{1111}{}{Zachránil?}
-{1112}{}{Vypadám snad jako nìjaká princezna? Co myslíš tím 'zachránit'?}
-{1113}{}{Hmm, myslím, e jsi to spíš ty, kdo potøebuje zachránit... pøed svojí vlastní filmovou kariérou. Nashle.}
-{1120}{}{Ano, jsem tady, abych tì zachránil. Poloil jsem základy toho, co lze spatøit v Opatství. Tam najdeš spásu, tam najdeš svìtlo!}
-{1121}{}{Vlastnì u jsem tam byl. Podaøilo se mi 'zachránit' spoustu vìcí ještì pøed tím, ne by byly nadobro ztracené ve všech tìch šuplících a krabicích.}
-{1122}{}{Ámen, bratøe. Dìkuju ti za pomoc pøi stvoøení tohohle místa útìchy a míru. Zrovna kdy budu potøebovat nechat odpoèinout své radioaktivní nohy a hledat spirituální oivení.}
-{1123}{}{Pamatuju si to místo. ádnı schopnı šaman a ádné poøádné byliny. Nevím, èí pøedstava o spirituálním místì to byla, ale moje teda ne.}
-{1124}{}{Opravdu? A kde leí to místo, které mì mùe zachránit?}
-{1125}{}{Blázen! Pápá!}
-{1130}{}{Musíš se tam opìt vrátit. Je to bezpeènı úkryt pøed nelítostnou pustinou.}
-{1131}{}{U jdu, pane Skynet. Díky za všechno. Sbohem.}
-{1132}{}{No, myslím, e bys tam mìl jít TY, Skybraine, a rovnou tam i zùstat. Já odsud mizím. Podivíne.}
-{1135}{}{Tady. (Ukazuje na tvém Pip-Boyi.) Musíš tam jít hned teï.}
-{1138}{}{Opatství je místo osamìní.}
-{1139}{}{Dávej si venku pozor.}
-{1200}{}{Vidíš Mon-Morticii.}
-{1201}{}{Velmi diplomaticky vyhlíející dáma.}
-{1210}{}{Pomohla jsem s psaním návodu, kterı usnadní všem nováèkùm prùchod tímto vylepšenım svìtem.}
-{1211}{}{Do prdele! Jsem na špatné stranì! Nikdy jsem si nebyla pøíliš jistá na èí stranì mám bıt.}
-{1212}{}{Nemám v tomhle velkı zadek?}
-{1213}{}{Imperátorka Timeslip udìlala fatální chybu a nastal èas na náš útok. *mrk*}
-{1300}{}{Vidíš Kanhefa.}
-{1301}{}{TENHLE vypadá jako skvìlı chlapík.}
-{1310}{}{Já jsem v podstatì centrum podpory No Mutants Allowed.}
-{1311}{}{Nemám s tìmito podivíny nic spoleèného.}
-{1312}{}{Sakra. Proè má èíslo 23 vdycky zpodìní?}
-{1313}{}{Pokud to náhodou nevíš, tak jsem vcelku všestrannì pouitelnı chlap.}
-{1400}{}{Vidíš HawkEyE.}
-{1401}{}{Tøpytivı drahokam nenávisti.}
+{1050}{}{VÃ½Ã½Ã½Ã½Ã½bornÄ›. Vezmi si tedy tuto Java zbraÅˆ. PouÅ¾Ã­vej ji. ZabÃ­jej bezmyÅ¡lenkovitÄ›. POUÅ½IJ SVOJE AGRESIVNÃ POCITY, DÃTÄš! (PodÃ¡vÃ¡ ti ÄervenÃ½ svÄ›telnÃ½ meÄ.)}
+{1051}{}{TakÅ¾e... v podstatÄ› mÃ¡m pokraÄovat v tom, co jsem dÄ›lal doteÄ. Å½Ã¡dnÃ½ problÃ©m. Nashle!}
+{1052}{}{Nezklamu tÄ›, mÅ¯j mistÅ™e.}
+{1053}{}{ZabÃ­t vÅ¡echny? MyslÃ­Å¡... i dÄ›ti?}
+{1060}{}{PÅ˜EDEVÅ ÃM dÄ›ti.}
+{1100}{}{VidÃ­Å¡ Luka Skyneta.}
+{1101}{}{ZahalenÃ¡ postava, kterÃ¡ vypadÃ¡ sebejistÄ›.}
+{1110}{}{JÃ¡ jsem Luke Skynet. Jsem tu, abych tÄ› zachrÃ¡nil.}
+{1111}{}{ZachrÃ¡nil?}
+{1112}{}{VypadÃ¡m snad jako nÄ›jakÃ¡ princezna? Co myslÃ­Å¡ tÃ­m 'zachrÃ¡nit'?}
+{1113}{}{Hmm, myslÃ­m, Å¾e jsi to spÃ­Å¡ ty, kdo potÅ™ebuje zachrÃ¡nit... pÅ™ed svojÃ­ vlastnÃ­ filmovou kariÃ©rou. Nashle.}
+{1120}{}{Ano, jsem tady, abych tÄ› zachrÃ¡nil. PoloÅ¾il jsem zÃ¡klady toho, co lze spatÅ™it v OpatstvÃ­. Tam najdeÅ¡ spÃ¡su, tam najdeÅ¡ svÄ›tlo!}
+{1121}{}{VlastnÄ› uÅ¾ jsem tam byl. PodaÅ™ilo se mi 'zachrÃ¡nit' spoustu vÄ›cÃ­ jeÅ¡tÄ› pÅ™ed tÃ­m, neÅ¾ by byly nadobro ztracenÃ© ve vÅ¡ech tÄ›ch Å¡uplÃ­cÃ­ch a krabicÃ­ch.}
+{1122}{}{Ãmen, bratÅ™e. DÄ›kuju ti za pomoc pÅ™i stvoÅ™enÃ­ tohohle mÃ­sta ÃºtÄ›chy a mÃ­ru. Zrovna kdyÅ¾ budu potÅ™ebovat nechat odpoÄinout svÃ© radioaktivnÃ­ nohy a hledat spirituÃ¡lnÃ­ oÅ¾ivenÃ­.}
+{1123}{}{Pamatuju si to mÃ­sto. Å½Ã¡dnÃ½ schopnÃ½ Å¡aman a Å¾Ã¡dnÃ© poÅ™Ã¡dnÃ© byliny. NevÃ­m, ÄÃ­ pÅ™edstava o spirituÃ¡lnÃ­m mÃ­stÄ› to byla, ale moje teda ne.}
+{1124}{}{Opravdu? A kde leÅ¾Ã­ to mÃ­sto, kterÃ© mÄ› mÅ¯Å¾e zachrÃ¡nit?}
+{1125}{}{BlÃ¡zen! PÃ¡pÃ¡!}
+{1130}{}{MusÃ­Å¡ se tam opÄ›t vrÃ¡tit. Je to bezpeÄnÃ½ Ãºkryt pÅ™ed nelÃ­tostnou pustinou.}
+{1131}{}{UÅ¾ jdu, pane Skynet. DÃ­ky za vÅ¡echno. Sbohem.}
+{1132}{}{No, myslÃ­m, Å¾e bys tam mÄ›l jÃ­t TY, Skybraine, a rovnou tam i zÅ¯stat. JÃ¡ odsud mizÃ­m. PodivÃ­ne.}
+{1135}{}{Tady. (Ukazuje na tvÃ©m Pip-Boyi.) MusÃ­Å¡ tam jÃ­t hned teÄ.}
+{1138}{}{OpatstvÃ­ je mÃ­sto osamÄ›nÃ­.}
+{1139}{}{DÃ¡vej si venku pozor.}
+{1200}{}{VidÃ­Å¡ Mon-Morticii.}
+{1201}{}{Velmi diplomaticky vyhlÃ­Å¾ejÃ­cÃ­ dÃ¡ma.}
+{1210}{}{Pomohla jsem s psanÃ­m nÃ¡vodu, kterÃ½ usnadnÃ­ vÅ¡em novÃ¡ÄkÅ¯m prÅ¯chod tÃ­mto vylepÅ¡enÃ½m svÄ›tem.}
+{1211}{}{Do prdele! Jsem na Å¡patnÃ© stranÄ›! Nikdy jsem si nebyla pÅ™Ã­liÅ¡ jistÃ¡ na ÄÃ­ stranÄ› mÃ¡m bÃ½t.}
+{1212}{}{NemÃ¡m v tomhle velkÃ½ zadek?}
+{1213}{}{ImperÃ¡torka Timeslip udÄ›lala fatÃ¡lnÃ­ chybu a nastal Äas na nÃ¡Å¡ Ãºtok. *mrk*}
+{1300}{}{VidÃ­Å¡ Kanhefa.}
+{1301}{}{TENHLE vypadÃ¡ jako skvÄ›lÃ½ chlapÃ­k.}
+{1310}{}{JÃ¡ jsem v podstatÄ› centrum podpory No Mutants Allowed.}
+{1311}{}{NemÃ¡m s tÄ›mito podivÃ­ny nic spoleÄnÃ©ho.}
+{1312}{}{Sakra. ProÄ mÃ¡ ÄÃ­slo 23 vÅ¾dycky zpoÅ¾dÄ›nÃ­?}
+{1313}{}{Pokud to nÃ¡hodou nevÃ­Å¡, tak jsem vcelku vÅ¡estrannÄ› pouÅ¾itelnÃ½ chlap.}
+{1400}{}{VidÃ­Å¡ HawkEyE.}
+{1401}{}{TÅ™pytivÃ½ drahokam nenÃ¡visti.}
 {1410}{}{Bonjour. Je suis Hawk-Eye. J'ai translate le version Francais. }
-{1411}{}{Já jsem Hawk-EyE. Vedl jsem pøeklad do francouzštiny. Vive la France!!}
-{1412}{}{Rád jím... lahodnéééé malé rybièky!}
-{1413}{}{Kromì nás zbabìlcù tu u nikdo není.}
-{1500}{}{Vidíš Adama Draveana.}
-{1501}{}{Pøikyvuje tvım smìrem.}
-{1510}{}{Já jsem Mr. Wolna. Vedl jsem pøeklad do nìmèiny.}
-{1511}{}{(Prozím, dej mi facku!)}
-{1512}{}{Dobrá práce, hoši! Jen tak dál!}
-{1513}{}{Podívej! Zlatı Orel!}
+{1411}{}{JÃ¡ jsem Hawk-EyE. Vedl jsem pÅ™eklad do francouzÅ¡tiny. Vive la France!!}
+{1412}{}{RÃ¡d jÃ­m... lahodnÃ©Ã©Ã©Ã© malÃ© rybiÄky!}
+{1413}{}{KromÄ› nÃ¡s zbabÄ›lcÅ¯ tu uÅ¾ nikdo nenÃ­.}
+{1500}{}{VidÃ­Å¡ Adama Draveana.}
+{1501}{}{PÅ™ikyvuje tvÃ½m smÄ›rem.}
+{1510}{}{JÃ¡ jsem Mr. Wolna. Vedl jsem pÅ™eklad do nÄ›mÄiny.}
+{1511}{}{(ProzÃ­m, dej mi facku!)}
+{1512}{}{DobrÃ¡ prÃ¡ce, hoÅ¡i! Jen tak dÃ¡l!}
+{1513}{}{PodÃ­vej! ZlatÃ½ Orel!}
 {1514}{}{Ich komme aus Deutschland!}
-{1600}{}{Vidíš Pana Wolnu.}
-{1601}{}{Tento mu je opravdu nadšenı...}
-{1610}{}{(Sundá si helmu a odhrne svùj rudı pláš na stranu. Pøed tvımi zraky se zjeví pohlednı mu s vyholenou hlavou a koenou bundou. Vyzaøuje ze sebe charisma a velkolepost.) Nazdar cizinèe, jmenuju se Adam. Jak to jde?}
-{1611}{}{Docela dobøe. Sice to bylo dost sloité, ale nakonec se mi to podaøilo dohrát.}
-{1612}{}{Na tohle nemám èas. Nashle.}
-{1620}{}{To rád slyším. (Rozhlédne se kolem a poté svraští èelo.) Kdepak je Dex? Strávil jsem spoustu èasu psaním dialogu toho frajera a ty ho ani nepouíváš? (Hluboce povzdechne a zakroutí hlavou.)}
-{1621}{}{Dex? Ty jsi napsal jeho dialog? O èem to mluvíš?}
-{1630}{}{To rád slyším. Omluv mì na moment. (Pøijde k Dexovi, plácne si s ním a poté se k tobì vrátí.) Jsem rád, e jste to dali s mım kámošem Dexem dohromady. Víš, e jsem strávil spoustu èasu psaním jeho dialogu.}
-{1631}{}{Odkud znáš Dexe? A ty jsi "napsal jeho dialog?" O èem to mluvíš?}
-{1640}{}{Hele, s tím si nelam hlavu. Ale pokud se nìkdy rozhodneš pustit na další epickou vıpravu, tak se urèitì zastav v EPA. Dá se tam dìlat hafo vìcí a kdy to dobøe zahraješ, tak tam moná najdeš i novıho spoleèníka. (Podívá se na tebe a zeširoka se usmìje.) Jo, ty jsi pøesnì Dexùv typ, take si budete urèitì rozumìt.}
-{1641}{}{Díky. Budu na to myslet.}
-{1650}{}{Hele, s tím si nelam hlavu. Ale pokud se nìkdy rozhodneš pustit na další epickou vıpravu, tak se urèitì zastav v EPA. Dá se tam dìlat hafo vìcí a kdy to dobøe zahraješ, tak tam moná najdeš i novıho spoleèníka. (Podívá se na tebe a zeširoka se usmìje.) Ale jestli chceš bıt s Dexem kamarád, tak asi budeš muset zmìnit svùj pøístup. Nemá moc v lásce zarputilé dobráky.}
-{1651}{}{Díky. Budu na to myslet.}
-{1660}{}{(Pokyvuje a dívá se do dálky.) Víš, Dex nebyl mım jedinım pøíspìvkem. Taky jsem pomohl Bear Dudeovi vylepšit tento svìt tím, e jsem slouil jako poradce, tester, a stráce principù a pùvodního obsahu. Ale pøedevším jsem mìl za úkol vylepšit kvalitativní úroveò novì pøidané mluvené øeèi. Byl to sakra tvrdı oøíšek, ale musím øíct, e se to kurva povedlo. (Podívá se zpìt na tebe a ušklíbne se.)}
-{1661}{}{To je jedno. U mì unavuje tohle poslouchat. Nashle.}
-{1662}{}{To bylo od tebe šlechetné. Odvedl jsi znamenitou práci. Dávej na sebe pozor. Nashle.}
-{1670}{}{*Prohlédne si tvé spoleèníky* Vypadáš dobøe, Dexi.}
-{1671}{}{Dávej pozor na Dexe, jasnı? Nerad bych, aby se dostal do maléru. Koneckoncù, to já ho stvoøil.}
-{1672}{}{Není tøeba mi dìkovat za proèištìní dialogù.}
-{1673}{}{Hej, kde je Dex? Napsal jsem jeho dialog, víš.}
-{1700}{}{Vidíš encinoduda.}
-{1701}{}{Vypadá jako dobrák.}
-{1710}{}{*Prohlédne si tvé spoleèníky* Vypadáš dobøe, Kitsune.}
-{1711}{}{Dávej pozor na Kitsune, rozumíš? Nechci, aby se dostala do maléru. To já ji stvoøil, víš.}
-{1712}{}{Pomohl jsem s ponorkou, víš.}
-{1713}{}{Hele, kde je Kitsune? Napsal jsem její dialog, víš.}
-{1714}{}{Pomohl jsem s ponorkou, víš.}
-{1800}{}{Vidíš Minigun Jima.}
-{1801}{}{Pod svou zbrojí nosí trièko Èerveného Trpaslíka.}
-{1810}{}{*Prohlédne si tvé spoleèníky* Vypadáš dobøe, Kocoure.}
-{1811}{}{Dávej pozor na Kocoura, rozumíš? Nechci, aby se dostal do maléru. To já ho stvoøil, víš.}
-{1812}{}{Hele, kde je Kocour? Napsal jsem toti jeho dialog, víš.}
-{1900}{}{Vidíš Bofasta.}
-{1901}{}{Postaví se vzpøímenì, kdy uvidí, e se na nìj díváš.}
-{1910}{}{To bylo od tebe hezké, e se ti podaøilo mírumilovnì vyøešit ten problém s nájezdníky útoèícími na Vault City. Beze mì by to nebylo moné.}
-{1911}{}{Nebylo nutné zabíjet všechny nájezdníky útoèící na Vault City. Díky mì teï existuje i mírumilovné øešení.}
-{2000}{}{Vidíš Pixota.}
-{2001}{}{Vidíš ušlechtilého opráváøského robota.}
-{2010}{}{(Robot kıvne, kdy se pøiblííš.) Nazdar. Bavíš se na tomto svìtì?}
-{2011}{}{Ano, bavím. Díky za optání.}
-{2012}{}{Ani ne. Mohlo by to bıt lepší.}
-{2013}{}{Nemám náladu si teï povídat. Nashle.}
-{2020}{}{To rád slyším! Doufám, e všechna ta døina, aby kadá lokace byla co moná nejdetailnìjší a nejunikátnìjší, se nìjakım zpùsobem projevila na tvém štìstí. Dalo hodnì práce to všechno upravit, ale celkovì je teï atmosféra i vzhled naprosto dokonalá. Nemyslíš?}
-{2021}{}{Jo, to rozhodnì. Všechno vypadá úasnì. Máš docela talent!}
+{1600}{}{VidÃ­Å¡ Pana Wolnu.}
+{1601}{}{Tento muÅ¾ je opravdu nadÅ¡enÃ½...}
+{1610}{}{(SundÃ¡ si helmu a odhrne svÅ¯j rudÃ½ plÃ¡Å¡Å¥ na stranu. PÅ™ed tvÃ½mi zraky se zjevÃ­ pohlednÃ½ muÅ¾ s vyholenou hlavou a koÅ¾enou bundou. VyzaÅ™uje ze sebe charisma a velkolepost.) Nazdar cizinÄe, jmenuju se Adam. Jak to jde?}
+{1611}{}{Docela dobÅ™e. Sice to bylo dost sloÅ¾itÃ©, ale nakonec se mi to podaÅ™ilo dohrÃ¡t.}
+{1612}{}{Na tohle nemÃ¡m Äas. Nashle.}
+{1620}{}{To rÃ¡d slyÅ¡Ã­m. (RozhlÃ©dne se kolem a potÃ© svraÅ¡tÃ­ Äelo.) Kdepak je Dex? StrÃ¡vil jsem spoustu Äasu psanÃ­m dialogu toho frajera a ty ho ani nepouÅ¾Ã­vÃ¡Å¡? (Hluboce povzdechne a zakroutÃ­ hlavou.)}
+{1621}{}{Dex? Ty jsi napsal jeho dialog? O Äem to mluvÃ­Å¡?}
+{1630}{}{To rÃ¡d slyÅ¡Ã­m. Omluv mÄ› na moment. (PÅ™ijde k Dexovi, plÃ¡cne si s nÃ­m a potÃ© se k tobÄ› vrÃ¡tÃ­.) Jsem rÃ¡d, Å¾e jste to dali s mÃ½m kÃ¡moÅ¡em Dexem dohromady. VÃ­Å¡, Å¾e jsem strÃ¡vil spoustu Äasu psanÃ­m jeho dialogu.}
+{1631}{}{Odkud znÃ¡Å¡ Dexe? A ty jsi "napsal jeho dialog?" O Äem to mluvÃ­Å¡?}
+{1640}{}{Hele, s tÃ­m si nelam hlavu. Ale pokud se nÄ›kdy rozhodneÅ¡ pustit na dalÅ¡Ã­ epickou vÃ½pravu, tak se urÄitÄ› zastav v EPA. DÃ¡ se tam dÄ›lat hafo vÄ›cÃ­ a kdyÅ¾ to dobÅ™e zahrajeÅ¡, tak tam moÅ¾nÃ¡ najdeÅ¡ i novÃ½ho spoleÄnÃ­ka. (PodÃ­vÃ¡ se na tebe a zeÅ¡iroka se usmÄ›je.) Jo, ty jsi pÅ™esnÄ› DexÅ¯v typ, takÅ¾e si budete urÄitÄ› rozumÄ›t.}
+{1641}{}{DÃ­ky. Budu na to myslet.}
+{1650}{}{Hele, s tÃ­m si nelam hlavu. Ale pokud se nÄ›kdy rozhodneÅ¡ pustit na dalÅ¡Ã­ epickou vÃ½pravu, tak se urÄitÄ› zastav v EPA. DÃ¡ se tam dÄ›lat hafo vÄ›cÃ­ a kdyÅ¾ to dobÅ™e zahrajeÅ¡, tak tam moÅ¾nÃ¡ najdeÅ¡ i novÃ½ho spoleÄnÃ­ka. (PodÃ­vÃ¡ se na tebe a zeÅ¡iroka se usmÄ›je.) Ale jestli chceÅ¡ bÃ½t s Dexem kamarÃ¡d, tak asi budeÅ¡ muset zmÄ›nit svÅ¯j pÅ™Ã­stup. NemÃ¡ moc v lÃ¡sce zarputilÃ© dobrÃ¡ky.}
+{1651}{}{DÃ­ky. Budu na to myslet.}
+{1660}{}{(Pokyvuje a dÃ­vÃ¡ se do dÃ¡lky.) VÃ­Å¡, Dex nebyl mÃ½m jedinÃ½m pÅ™Ã­spÄ›vkem. Taky jsem pomohl Bear Dudeovi vylepÅ¡it tento svÄ›t tÃ­m, Å¾e jsem slouÅ¾il jako poradce, tester, a strÃ¡Å¾ce principÅ¯ a pÅ¯vodnÃ­ho obsahu. Ale pÅ™edevÅ¡Ã­m jsem mÄ›l za Ãºkol vylepÅ¡it kvalitativnÃ­ ÃºroveÅˆ novÄ› pÅ™idanÃ© mluvenÃ© Å™eÄi. Byl to sakra tvrdÃ½ oÅ™Ã­Å¡ek, ale musÃ­m Å™Ã­ct, Å¾e se to kurva povedlo. (PodÃ­vÃ¡ se zpÄ›t na tebe a uÅ¡klÃ­bne se.)}
+{1661}{}{To je jedno. UÅ¾ mÄ› unavuje tohle poslouchat. Nashle.}
+{1662}{}{To bylo od tebe Å¡lechetnÃ©. Odvedl jsi znamenitou prÃ¡ci. DÃ¡vej na sebe pozor. Nashle.}
+{1670}{}{*ProhlÃ©dne si tvÃ© spoleÄnÃ­ky* VypadÃ¡Å¡ dobÅ™e, Dexi.}
+{1671}{}{DÃ¡vej pozor na Dexe, jasnÃ½? Nerad bych, aby se dostal do malÃ©ru. KoneckoncÅ¯, to jÃ¡ ho stvoÅ™il.}
+{1672}{}{NenÃ­ tÅ™eba mi dÄ›kovat za proÄiÅ¡tÄ›nÃ­ dialogÅ¯.}
+{1673}{}{Hej, kde je Dex? Napsal jsem jeho dialog, vÃ­Å¡.}
+{1700}{}{VidÃ­Å¡ encinoduda.}
+{1701}{}{VypadÃ¡ jako dobrÃ¡k.}
+{1710}{}{*ProhlÃ©dne si tvÃ© spoleÄnÃ­ky* VypadÃ¡Å¡ dobÅ™e, Kitsune.}
+{1711}{}{DÃ¡vej pozor na Kitsune, rozumÃ­Å¡? Nechci, aby se dostala do malÃ©ru. To jÃ¡ ji stvoÅ™il, vÃ­Å¡.}
+{1712}{}{Pomohl jsem s ponorkou, vÃ­Å¡.}
+{1713}{}{Hele, kde je Kitsune? Napsal jsem jejÃ­ dialog, vÃ­Å¡.}
+{1714}{}{Pomohl jsem s ponorkou, vÃ­Å¡.}
+{1800}{}{VidÃ­Å¡ Minigun Jima.}
+{1801}{}{Pod svou zbrojÃ­ nosÃ­ triÄko ÄŒervenÃ©ho TrpaslÃ­ka.}
+{1810}{}{*ProhlÃ©dne si tvÃ© spoleÄnÃ­ky* VypadÃ¡Å¡ dobÅ™e, Kocoure.}
+{1811}{}{DÃ¡vej pozor na Kocoura, rozumÃ­Å¡? Nechci, aby se dostal do malÃ©ru. To jÃ¡ ho stvoÅ™il, vÃ­Å¡.}
+{1812}{}{Hele, kde je Kocour? Napsal jsem totiÅ¾ jeho dialog, vÃ­Å¡.}
+{1900}{}{VidÃ­Å¡ Bofasta.}
+{1901}{}{PostavÃ­ se vzpÅ™Ã­menÄ›, kdyÅ¾ uvidÃ­, Å¾e se na nÄ›j dÃ­vÃ¡Å¡.}
+{1910}{}{To bylo od tebe hezkÃ©, Å¾e se ti podaÅ™ilo mÃ­rumilovnÄ› vyÅ™eÅ¡it ten problÃ©m s nÃ¡jezdnÃ­ky ÃºtoÄÃ­cÃ­mi na Vault City. Beze mÄ› by to nebylo moÅ¾nÃ©.}
+{1911}{}{Nebylo nutnÃ© zabÃ­jet vÅ¡echny nÃ¡jezdnÃ­ky ÃºtoÄÃ­cÃ­ na Vault City. DÃ­ky mÄ› teÄ existuje i mÃ­rumilovnÃ© Å™eÅ¡enÃ­.}
+{2000}{}{VidÃ­Å¡ Pixota.}
+{2001}{}{VidÃ­Å¡ uÅ¡lechtilÃ©ho oprÃ¡vÃ¡Å™skÃ©ho robota.}
+{2010}{}{(Robot kÃ½vne, kdyÅ¾ se pÅ™iblÃ­Å¾Ã­Å¡.) Nazdar. BavÃ­Å¡ se na tomto svÄ›tÄ›?}
+{2011}{}{Ano, bavÃ­m. DÃ­ky za optÃ¡nÃ­.}
+{2012}{}{Ani ne. Mohlo by to bÃ½t lepÅ¡Ã­.}
+{2013}{}{NemÃ¡m nÃ¡ladu si teÄ povÃ­dat. Nashle.}
+{2020}{}{To rÃ¡d slyÅ¡Ã­m! DoufÃ¡m, Å¾e vÅ¡echna ta dÅ™ina, aby kaÅ¾dÃ¡ lokace byla co moÅ¾nÃ¡ nejdetailnÄ›jÅ¡Ã­ a nejunikÃ¡tnÄ›jÅ¡Ã­, se nÄ›jakÃ½m zpÅ¯sobem projevila na tvÃ©m Å¡tÄ›stÃ­. Dalo hodnÄ› prÃ¡ce to vÅ¡echno upravit, ale celkovÄ› je teÄ atmosfÃ©ra i vzhled naprosto dokonalÃ¡. NemyslÃ­Å¡?}
+{2021}{}{Jo, to rozhodnÄ›. VÅ¡echno vypadÃ¡ ÃºÅ¾asnÄ›. MÃ¡Å¡ docela talent!}
 {2022}{}{No, ujde to.}
-{2023}{}{Je to hezké. Nashle.}
-{2030}{}{To nerad slyším. Nejspíš se jen nedíváš poøádnì kolem sebe. Hodnì jsem se snail, aby kadá lokace vypadala co nejlépe a nejdetailnìji jak to jen jde. Tøeba se ti zvedne nálada, kdy se podíváš na detaily. Dalo hodnì práce to všechno upravit, ale celkovì je teï atmosféra i vzhled naprosto dokonalá. Nemyslíš?}
-{2031}{}{Kdy tak o tom mluvíš, tak je pravda, e to tady vypadá mnohem lépe.}
-{2032}{}{Opravdu nic zvláštního nevidím.}
-{2033}{}{Je to hezké. Nashle.}
-{2040}{}{(Robot se radostnì houpe vpøed a vzad.) Jsem rád, e se ti to líbí. No, musím teï odejít. Mám ještì na práci pár drobností, které chci vypustit do tohoto svìta.}
-{2041}{}{Dobrá. Tak zatím.}
-{2050}{}{(Robotovi smutnì poklesne hlava.) Hmm, moje práce zøejmì není pro kadého. Teï mì omluv, musím odejít. Mám ještì na práci pár drobností, které chci vypustit do tohoto svìta.}
-{2051}{}{Nevadí. Nashle.}
-{2060}{}{Já tak strašnì rád tvoøím nové vìci.}
-{2061}{}{Teï je tu tolik novıch detailù. Pøekrásné.}
-{2100}{}{Vidíš Mashe.}
-{2101}{}{Kıve na tebe.}
-{2110}{}{Nazdar! Jsem rád, e ses dostal tak daleko. Doufám, e se ti líbí zvìtšená viditelnost tohoto svìta. Nedalo se najednou zobrazit dostatek vìcí na jedné obrazovce, tak jsem to všechno zmìnil. Imperátorka Timeslip a já jsme mistry Zdrojáku. Pøivedli jsme tento starı svìt do nové doby.}
-{2111}{}{Páni, díky moc. Všechno je teï o hodnì lepší. Obèas trochu moc malé, ale to si lehce upravím.}
-{2112}{}{Na tohle nemám èas. Nashle.}
-{2120}{}{Jsem rád, e si uíváš plody mé tìké práce. Také jsem umonil mìnit vzhled postavy. U nemáš na vıbìr pouze konkrétní rasu nebo úèes. Yosan12, x'il a ostatní vytvoøili fyzické vzhledy, ale to já se s pomocí Imperátorky Timeslip zanoøil hluboko do Zdrojáku a provedl potøebné úpravy. Vidím, e ji této monosti vyuíváš. Vynikající!}
-{2121}{}{Jo, miluji svùj novı vzhled. Díky moc!}
-{2122}{}{Jasnì. Sbohem.}
-{2130}{}{Jsem rád, e si uíváš plody mé tìké práce. Také jsem umonil mìnit vzhled postavy. U nemáš na vıbìr pouze konkrétní rasu nebo úèes. Yosan12, x'il a ostatní vytvoøili fyzické vzhledy, ale to já se s pomocí Imperátorky Timeslip zanoøil hluboko do Zdrojáku a provedl potøebné úpravy. Vidím, e této monosti zatím nevyuíváš. Teï u víš, e tu nìco takového je. Skvìlé místo na vyzkoušení je v EPA. Och, taková zábava!}
-{2131}{}{Budu si to pamatovat. Díky.}
-{2132}{}{Jasnì. Sbohem.}
-{2140}{}{Vıbornì. Tak zatím.}
+{2023}{}{Je to hezkÃ©. Nashle.}
+{2030}{}{To nerad slyÅ¡Ã­m. NejspÃ­Å¡ se jen nedÃ­vÃ¡Å¡ poÅ™Ã¡dnÄ› kolem sebe. HodnÄ› jsem se snaÅ¾il, aby kaÅ¾dÃ¡ lokace vypadala co nejlÃ©pe a nejdetailnÄ›ji jak to jen jde. TÅ™eba se ti zvedne nÃ¡lada, kdyÅ¾ se podÃ­vÃ¡Å¡ na detaily. Dalo hodnÄ› prÃ¡ce to vÅ¡echno upravit, ale celkovÄ› je teÄ atmosfÃ©ra i vzhled naprosto dokonalÃ¡. NemyslÃ­Å¡?}
+{2031}{}{KdyÅ¾ tak o tom mluvÃ­Å¡, tak je pravda, Å¾e to tady vypadÃ¡ mnohem lÃ©pe.}
+{2032}{}{Opravdu nic zvlÃ¡Å¡tnÃ­ho nevidÃ­m.}
+{2033}{}{Je to hezkÃ©. Nashle.}
+{2040}{}{(Robot se radostnÄ› houpe vpÅ™ed a vzad.) Jsem rÃ¡d, Å¾e se ti to lÃ­bÃ­. No, musÃ­m teÄ odejÃ­t. MÃ¡m jeÅ¡tÄ› na prÃ¡ci pÃ¡r drobnostÃ­, kterÃ© chci vypustit do tohoto svÄ›ta.}
+{2041}{}{DobrÃ¡. Tak zatÃ­m.}
+{2050}{}{(Robotovi smutnÄ› poklesne hlava.) Hmm, moje prÃ¡ce zÅ™ejmÄ› nenÃ­ pro kaÅ¾dÃ©ho. TeÄ mÄ› omluv, musÃ­m odejÃ­t. MÃ¡m jeÅ¡tÄ› na prÃ¡ci pÃ¡r drobnostÃ­, kterÃ© chci vypustit do tohoto svÄ›ta.}
+{2051}{}{NevadÃ­. Nashle.}
+{2060}{}{JÃ¡ tak straÅ¡nÄ› rÃ¡d tvoÅ™Ã­m novÃ© vÄ›ci.}
+{2061}{}{TeÄ je tu tolik novÃ½ch detailÅ¯. PÅ™ekrÃ¡snÃ©.}
+{2100}{}{VidÃ­Å¡ Mashe.}
+{2101}{}{KÃ½ve na tebe.}
+{2110}{}{Nazdar! Jsem rÃ¡d, Å¾e ses dostal tak daleko. DoufÃ¡m, Å¾e se ti lÃ­bÃ­ zvÄ›tÅ¡enÃ¡ viditelnost tohoto svÄ›ta. Nedalo se najednou zobrazit dostatek vÄ›cÃ­ na jednÃ© obrazovce, tak jsem to vÅ¡echno zmÄ›nil. ImperÃ¡torka Timeslip a jÃ¡ jsme mistry ZdrojÃ¡ku. PÅ™ivedli jsme tento starÃ½ svÄ›t do novÃ© doby.}
+{2111}{}{PÃ¡ni, dÃ­ky moc. VÅ¡echno je teÄ o hodnÄ› lepÅ¡Ã­. ObÄas trochu moc malÃ©, ale to si lehce upravÃ­m.}
+{2112}{}{Na tohle nemÃ¡m Äas. Nashle.}
+{2120}{}{Jsem rÃ¡d, Å¾e si uÅ¾Ã­vÃ¡Å¡ plody mÃ© tÄ›Å¾kÃ© prÃ¡ce. TakÃ© jsem umoÅ¾nil mÄ›nit vzhled postavy. UÅ¾ nemÃ¡Å¡ na vÃ½bÄ›r pouze konkrÃ©tnÃ­ rasu nebo ÃºÄes. Yosan12, x'il a ostatnÃ­ vytvoÅ™ili fyzickÃ© vzhledy, ale to jÃ¡ se s pomocÃ­ ImperÃ¡torky Timeslip zanoÅ™il hluboko do ZdrojÃ¡ku a provedl potÅ™ebnÃ© Ãºpravy. VidÃ­m, Å¾e jiÅ¾ tÃ©to moÅ¾nosti vyuÅ¾Ã­vÃ¡Å¡. VynikajÃ­cÃ­!}
+{2121}{}{Jo, miluji svÅ¯j novÃ½ vzhled. DÃ­ky moc!}
+{2122}{}{JasnÄ›. Sbohem.}
+{2130}{}{Jsem rÃ¡d, Å¾e si uÅ¾Ã­vÃ¡Å¡ plody mÃ© tÄ›Å¾kÃ© prÃ¡ce. TakÃ© jsem umoÅ¾nil mÄ›nit vzhled postavy. UÅ¾ nemÃ¡Å¡ na vÃ½bÄ›r pouze konkrÃ©tnÃ­ rasu nebo ÃºÄes. Yosan12, x'il a ostatnÃ­ vytvoÅ™ili fyzickÃ© vzhledy, ale to jÃ¡ se s pomocÃ­ ImperÃ¡torky Timeslip zanoÅ™il hluboko do ZdrojÃ¡ku a provedl potÅ™ebnÃ© Ãºpravy. VidÃ­m, Å¾e tÃ©to moÅ¾nosti zatÃ­m nevyuÅ¾Ã­vÃ¡Å¡. TeÄ uÅ¾ vÃ­Å¡, Å¾e tu nÄ›co takovÃ©ho je. SkvÄ›lÃ© mÃ­sto na vyzkouÅ¡enÃ­ je v EPA. Och, takovÃ¡ zÃ¡bava!}
+{2131}{}{Budu si to pamatovat. DÃ­ky.}
+{2132}{}{JasnÄ›. Sbohem.}
+{2140}{}{VÃ½bornÄ›. Tak zatÃ­m.}
 {2141}{}{Sbohem.}
-{2142}{}{Zatím.}
-{2150}{}{Zdroják je záludnı, ale já si s ním poradím.}
-{2151}{}{Uij si zvìtšenou viditelnost tohoto svìta!}
-{2152}{}{Uij si tvé nové já!}
-{2200}{}{Vidíš Mikaela Grizzlyho.}
-{2201}{}{Toto zvíøe je extrémnì chlupaté.}
-{2210}{}{Nazdar. Pomohl jsem dostat ponorku zpìt do tohoto svìta.}
-{2211}{}{Líbí se ti, jak jsem chlupatı? Mnì jo.}
-{2212}{}{Doufám, e se ti ponorka líbila.}
-{2300}{}{Vidíš x'ila.}
-{2301}{}{S obdivem tì pozoruje.}
-{2310}{}{Hodnì jsem pomohl se vzhledem novıch tvorù. Doufám, e se ti líbily!}
-{2311}{}{Pìknı vlasy, èlovìèe. Beze mì by to nebylo moné.}
-{2400}{}{Vidíš hromadu kamení.}
+{2142}{}{ZatÃ­m.}
+{2150}{}{ZdrojÃ¡k je zÃ¡ludnÃ½, ale jÃ¡ si s nÃ­m poradÃ­m.}
+{2151}{}{UÅ¾ij si zvÄ›tÅ¡enou viditelnost tohoto svÄ›ta!}
+{2152}{}{UÅ¾ij si tvÃ© novÃ© jÃ¡!}
+{2200}{}{VidÃ­Å¡ Mikaela Grizzlyho.}
+{2201}{}{Toto zvÃ­Å™e je extrÃ©mnÄ› chlupatÃ©.}
+{2210}{}{Nazdar. Pomohl jsem dostat ponorku zpÄ›t do tohoto svÄ›ta.}
+{2211}{}{LÃ­bÃ­ se ti, jak jsem chlupatÃ½? MnÄ› jo.}
+{2212}{}{DoufÃ¡m, Å¾e se ti ponorka lÃ­bila.}
+{2300}{}{VidÃ­Å¡ x'ila.}
+{2301}{}{S obdivem tÄ› pozoruje.}
+{2310}{}{HodnÄ› jsem pomohl se vzhledem novÃ½ch tvorÅ¯. DoufÃ¡m, Å¾e se ti lÃ­bily!}
+{2311}{}{PÄ›knÃ½ vlasy, ÄlovÄ›Äe. Beze mÄ› by to nebylo moÅ¾nÃ©.}
+{2400}{}{VidÃ­Å¡ hromadu kamenÃ­.}
 {2401}{}{Na kamenech je plaketa.}
-{2410}{}{Na kamenech je plaketa. Je na ní napsáno: "Vìnováno Peru Jornerovi - Mistru návodù, Královi ještìrek a Akumulátorovi všech kamenù.}
-{2500}{}{Vidíš velikou hromadu slizu.}
-{2501}{}{Zdá se, e tato hromada slizu nìco vyslovuje: "Vìnováno všem, jejich jména u byla zapomenuta, ale pøesto pomohli dotáhnout všechno do zdárného konce."}
+{2410}{}{Na kamenech je plaketa. Je na nÃ­ napsÃ¡no: "VÄ›novÃ¡no Peru Jornerovi - Mistru nÃ¡vodÅ¯, KrÃ¡lovi jeÅ¡tÄ›rek a AkumulÃ¡torovi vÅ¡ech kamenÅ¯.}
+{2500}{}{VidÃ­Å¡ velikou hromadu slizu.}
+{2501}{}{ZdÃ¡ se, Å¾e tato hromada slizu nÄ›co vyslovuje: "VÄ›novÃ¡no vÅ¡em, jejichÅ¾ jmÃ©na uÅ¾ byla zapomenuta, ale pÅ™esto pomohli dotÃ¡hnout vÅ¡echno do zdÃ¡rnÃ©ho konce."}
 {2510}{}{}
-{5000}{}{Boj zde není dovolen.}
+{5000}{}{Boj zde nenÃ­ dovolen.}

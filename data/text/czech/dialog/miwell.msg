@@ -1,3 +1,3 @@
-{100}{}{Stará zakrytá studna. Zdá se, e jsou prkna uvolnìná.}
-{101}{}{Stará studna. Zdi studny jsou dost kluzké. Budeš potøebovat lano, pokud se chceš bezpeènì dostat dolù.}
-{102}{}{Stará studna s lanem vedoucím a na dno.}
+{100}{}{StarÃ¡ zakrytÃ¡ studna. ZdÃ¡ se, Å¾e jsou prkna uvolnÄ›nÃ¡.}
+{101}{}{StarÃ¡ studna. Zdi studny jsou dost kluzkÃ©. BudeÅ¡ potÅ™ebovat lano, pokud se chceÅ¡ bezpeÄnÄ› dostat dolÅ¯.}
+{102}{}{StarÃ¡ studna s lanem vedoucÃ­m aÅ¾ na dno.}

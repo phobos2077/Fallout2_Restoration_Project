@@ -1,17 +1,17 @@
-{100}{}{Vidíš dítì.}
-{101}{}{Vidíš dítì z pøístavu.}
-{102}{}{Vidíš dítì.}
-{103}{}{Tohle místo se mi nelíbí.}
-{104}{}{Na plái je velká, mrtvá, smradlavá ryba.}
-{105}{}{Jé! Co to je?}
-{106}{}{Tady to tak srandovnì smrdí.}
-{107}{}{Nechceš si jít zaplavat?}
-{108}{}{Jdu si hrát.}
+{100}{}{VidÃ­Å¡ dÃ­tÄ›.}
+{101}{}{VidÃ­Å¡ dÃ­tÄ› z pÅ™Ã­stavu.}
+{102}{}{VidÃ­Å¡ dÃ­tÄ›.}
+{103}{}{Tohle mÃ­sto se mi nelÃ­bÃ­.}
+{104}{}{Na plÃ¡Å¾i je velkÃ¡, mrtvÃ¡, smradlavÃ¡ ryba.}
+{105}{}{JÃ©! Co to je?}
+{106}{}{Tady to tak srandovnÄ› smrdÃ­.}
+{107}{}{NechceÅ¡ si jÃ­t zaplavat?}
+{108}{}{Jdu si hrÃ¡t.}
 {109}{}{Kde je moje maminka?}
-{110}{}{ijeme na plái!}
-{111}{}{Já se ták nudíííím.}
-{112}{}{Jéé!}
+{110}{}{Å½ijeme na plÃ¡Å¾i!}
+{111}{}{JÃ¡ se tÃ¡k nudÃ­Ã­Ã­Ã­m.}
+{112}{}{JÃ©Ã©!}
 {113}{}{Pomoc!}
-{114}{}{Ale ne! Strašidloooo!}
-{115}{}{Mammííííííííí!}
-{116}{}{Utíkej pryè! Pøíšera!}
+{114}{}{Ale ne! StraÅ¡idloooo!}
+{115}{}{MammÃ­Ã­Ã­Ã­Ã­Ã­Ã­Ã­Ã­!}
+{116}{}{UtÃ­kej pryÄ! PÅ™Ã­Å¡era!}

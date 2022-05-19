@@ -1,22 +1,22 @@
-{100}{}{Vidíš elegantnì obleèeného chlapíka, kterı nabízí kebaby z ještìrek.}
-{101}{}{Vidíš prodavaèe ještìrek na špejli.}
-{102}{}{Na prodavaèe ještìrek na špejli má tenhle chlapík styl. Je èistı, dobøe obleèenı a provozuje malı èistı krámek.}
-{103}{}{Nemáš hlad, cizinèe? Nabízím nejchutnìjší ještìrky široko daleko. Zeptej se kohokoliv!}
-{104}{}{Co si dáš?}
-{105}{}{Dát maso.}
-{106}{}{Vezmu si jeden kousek, prosím.}
-{107}{}{Mùeš mi nìco povìdìt o tomhle mìstì?}
+{100}{}{VidÃ­Å¡ elegantnÄ› obleÄenÃ©ho chlapÃ­ka, kterÃ½ nabÃ­zÃ­ kebaby z jeÅ¡tÄ›rek.}
+{101}{}{VidÃ­Å¡ prodavaÄe jeÅ¡tÄ›rek na Å¡pejli.}
+{102}{}{Na prodavaÄe jeÅ¡tÄ›rek na Å¡pejli mÃ¡ tenhle chlapÃ­k styl. Je ÄistÃ½, dobÅ™e obleÄenÃ½ a provozuje malÃ½ ÄistÃ½ krÃ¡mek.}
+{103}{}{NemÃ¡Å¡ hlad, cizinÄe? NabÃ­zÃ­m nejchutnÄ›jÅ¡Ã­ jeÅ¡tÄ›rky Å¡iroko daleko. Zeptej se kohokoliv!}
+{104}{}{Co si dÃ¡Å¡?}
+{105}{}{DÃ¡t maso.}
+{106}{}{Vezmu si jeden kousek, prosÃ­m.}
+{107}{}{MÅ¯Å¾eÅ¡ mi nÄ›co povÄ›dÄ›t o tomhle mÄ›stÄ›?}
 {108}{}{Sbohem.}
-{109}{}{Nech si chutnat, cizinèe!}
-{110}{}{Támhle je hoøèice a cibule.}
-{111}{}{Nazdar, kámo.}
-{112}{}{Jasnì, nashle.}
-{113}{}{Další!}
-{114}{}{Podívej, mám jisté pravidlo. Zásadnì o nikom nic nevykládám. Je to dobré pravidlo, protoe kdy drím jazyk za zuby, drím si také od tìla potíe. Kapišto?}
-{115}{}{Nic jsem neslyšel, nic jsem nevidìl a u vùbec nic nevykládám. A teï u mì s takovımi otázkami pøestaò obtìovat.}
-{116}{}{Fajn. Poslyš, myslím, e mám hlad.}
-{117}{}{Nemáš GECK?}
-{118}{}{Jeíš, tak promiò!}
-{119}{}{GECK? To je dávná historie, ale stejnì ti o nìm øeknu. Urèitì myslíš tu starou Soupravu k vytvoøení rajské zahrady. Mìli jsme jeden. Tedy, spíše mùj dìdeèek a babièka. Pouili ho, kdy vyšli z Vaultu 15. Øíkali, e díky nìmu tohle místo pøeilo. Teï u je ovšem prázdnı.}
-{120}{}{Poøád mám hlad.}
-{121}{}{No, tak díky za nic.}
+{109}{}{Nech si chutnat, cizinÄe!}
+{110}{}{TÃ¡mhle je hoÅ™Äice a cibule.}
+{111}{}{Nazdar, kÃ¡mo.}
+{112}{}{JasnÄ›, nashle.}
+{113}{}{DalÅ¡Ã­!}
+{114}{}{PodÃ­vej, mÃ¡m jistÃ© pravidlo. ZÃ¡sadnÄ› o nikom nic nevyklÃ¡dÃ¡m. Je to dobrÃ© pravidlo, protoÅ¾e kdyÅ¾ drÅ¾Ã­m jazyk za zuby, drÅ¾Ã­m si takÃ© od tÄ›la potÃ­Å¾e. KapiÅ¡to?}
+{115}{}{Nic jsem neslyÅ¡el, nic jsem nevidÄ›l a uÅ¾ vÅ¯bec nic nevyklÃ¡dÃ¡m. A teÄ uÅ¾ mÄ› s takovÃ½mi otÃ¡zkami pÅ™estaÅˆ obtÄ›Å¾ovat.}
+{116}{}{Fajn. PoslyÅ¡, myslÃ­m, Å¾e mÃ¡m hlad.}
+{117}{}{NemÃ¡Å¡ GECK?}
+{118}{}{JeÅ¾Ã­Å¡, tak promiÅˆ!}
+{119}{}{GECK? To je dÃ¡vnÃ¡ historie, ale stejnÄ› ti o nÄ›m Å™eknu. UrÄitÄ› myslÃ­Å¡ tu starou Soupravu k vytvoÅ™enÃ­ rajskÃ© zahrady. MÄ›li jsme jeden. Tedy, spÃ­Å¡e mÅ¯j dÄ›deÄek a babiÄka. PouÅ¾ili ho, kdyÅ¾ vyÅ¡li z Vaultu 15. Å˜Ã­kali, Å¾e dÃ­ky nÄ›mu tohle mÃ­sto pÅ™eÅ¾ilo. TeÄ uÅ¾ je ovÅ¡em prÃ¡zdnÃ½.}
+{120}{}{PoÅ™Ã¡d mÃ¡m hlad.}
+{121}{}{No, tak dÃ­ky za nic.}

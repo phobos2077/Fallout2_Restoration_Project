@@ -1,2 +1,2 @@
-{100}{}{Vidíš Rózino kuøe.}
-{110}{}{Jsou slyšet zvuky, jako kdyby se uvnitø hıbalo nìco OPRAVDU velkého.}
+{100}{}{VidÃ­Å¡ RÃ³zino kuÅ™e.}
+{110}{}{Jsou slyÅ¡et zvuky, jako kdyby se uvnitÅ™ hÃ½balo nÄ›co OPRAVDU velkÃ©ho.}

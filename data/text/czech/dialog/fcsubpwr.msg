@@ -1,7 +1,7 @@
-{100}{}{Vidíš starou konzoli.}
-{101}{}{Tato konzole je témìø zcela znièená. Dráty omotané lepící páskou trèí do všech smìrù a monitor je nejspíš rozbitı. Tato mašinka stìí drí pohromadì.}
-{200}{}{Prozkoumáváš konzoli a volné kabely. Zdá se, e by nìkdo s opravárenskımi schopnostmi (nebo s páèidlem) dokázal zcela vyøadit napájecí subsystém.}
-{210}{}{Konzole dlouho neodolala a záloní generátor selhává. Bez napájení nepøedstavuje ponorka ádnou hrozbu.}
-{211}{}{Nepodaøilo se ti vyøadit generátor.}
-{212}{}{*píp*}
-{213}{}{*tùùùt*}
+{100}{}{VidÃ­Å¡ starou konzoli.}
+{101}{}{Tato konzole je tÃ©mÄ›Å™ zcela zniÄenÃ¡. DrÃ¡ty omotanÃ© lepÃ­cÃ­ pÃ¡skou trÄÃ­ do vÅ¡ech smÄ›rÅ¯ a monitor je nejspÃ­Å¡ rozbitÃ½. Tato maÅ¡inka stÄ›Å¾Ã­ drÅ¾Ã­ pohromadÄ›.}
+{200}{}{ProzkoumÃ¡vÃ¡Å¡ konzoli a volnÃ© kabely. ZdÃ¡ se, Å¾e by nÄ›kdo s opravÃ¡renskÃ½mi schopnostmi (nebo s pÃ¡Äidlem) dokÃ¡zal zcela vyÅ™adit napÃ¡jecÃ­ subsystÃ©m.}
+{210}{}{Konzole dlouho neodolala a zÃ¡loÅ¾nÃ­ generÃ¡tor selhÃ¡vÃ¡. Bez napÃ¡jenÃ­ nepÅ™edstavuje ponorka Å¾Ã¡dnou hrozbu.}
+{211}{}{NepodaÅ™ilo se ti vyÅ™adit generÃ¡tor.}
+{212}{}{*pÃ­p*}
+{213}{}{*tÅ¯Å¯Å¯t*}

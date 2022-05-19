@@ -1,2 +1,2 @@
-{100}{}{Zdá se, e je na severu od NCR nìkolik úkrytù Rangerù. Poznamenáváš si jejich polohu do Pip-Boye.}
-{101}{}{Poloha úkrytù ji byla do tvého Pip-Boye vyznaèena.}
+{100}{}{ZdÃ¡ se, Å¾e je na severu od NCR nÄ›kolik ÃºkrytÅ¯ RangerÅ¯. PoznamenÃ¡vÃ¡Å¡ si jejich polohu do Pip-Boye.}
+{101}{}{Poloha ÃºkrytÅ¯ jiÅ¾ byla do tvÃ©ho Pip-Boye vyznaÄena.}

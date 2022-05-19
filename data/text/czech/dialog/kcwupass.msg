@@ -1,2 +1,2 @@
-{100}{}{Vid� str�n�ho robota.}
-{101}{}{Vid� str�n�ho robota.}
+{100}{}{Vidíš strážného robota.}
+{101}{}{Vidíš strážného robota.}

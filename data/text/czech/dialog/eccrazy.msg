@@ -1,5 +1,5 @@
-{100}{}{Vid� bl�zna.}
+{100}{}{Vidíš blázna.}
 {101}{}{Mmmm... mozky.}
-{102}{}{Po�li dal�� dobrodruhy.}
-{103}{}{A������...}
+{102}{}{Pošli další dobrodruhy.}
+{103}{}{Aůůůůůů...}
 {104}{}{Zastav tu bolest.}

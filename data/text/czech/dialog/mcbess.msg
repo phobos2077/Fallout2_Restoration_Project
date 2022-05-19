@@ -1,18 +1,18 @@
-{100}{}{Podle nápisu na chomoutu se jmenuje Bess.}
-{101}{}{Vidíš Bess.}
-{110}{}{Zdá se, e tato brahmíní samice byla asi napadena nìjakım divokım zvíøetem. Je vánì zranìná.}
-{111}{}{Na takovou brahmínu by mohl bıt kadı pyšnı.}
-{120}{}{Bùùùùùùùùù!}
-{121}{}{(Ta nebohá brahmína je zranìná.)}
-{130}{}{Bùùùùùùùùù.}
-{131}{}{(Bess hluboce a smutnì zabuèí.)}
-{132}{}{Chudinko - dávat tì øezníkovi asi nebude nejlepší nápad. Chtìla bys odsud utéct?}
-{133}{}{Jupí! Bude z tebe vynikající sušenı maso.}
-{140}{}{Bùùùùùùù.}
-{141}{}{(Teï buèí o hodnì veseleji.)}
-{142}{}{Dobøe, tak pojï odsud pryè.}
-{143}{}{Jen si dìlám legraci. Víš, potøebuju tvoje maso víc ne tebe.}
-{150}{}{Bùùùùù.}
-{200}{}{Dovednost První pomoc ti nepomùe vyléèit zlomenou nohu této ubohé brahmíny.}
-{300}{}{Podaøilo se ti uzdravit brahmíninu zlomenou nohu.}
-{310}{}{Nepodaøilo se ti uzdravit brahmíninu zlomenou nohu.}
+{100}{}{Podle nÃ¡pisu na chomoutu se jmenuje Bess.}
+{101}{}{VidÃ­Å¡ Bess.}
+{110}{}{ZdÃ¡ se, Å¾e tato brahmÃ­nÃ­ samice byla asi napadena nÄ›jakÃ½m divokÃ½m zvÃ­Å™etem. Je vÃ¡Å¾nÄ› zranÄ›nÃ¡.}
+{111}{}{Na takovou brahmÃ­nu by mohl bÃ½t kaÅ¾dÃ½ pyÅ¡nÃ½.}
+{120}{}{BÅ¯Å¯Å¯Å¯Å¯Å¯Å¯Å¯Å¯!}
+{121}{}{(Ta nebohÃ¡ brahmÃ­na je zranÄ›nÃ¡.)}
+{130}{}{BÅ¯Å¯Å¯Å¯Å¯Å¯Å¯Å¯Å¯.}
+{131}{}{(Bess hluboce a smutnÄ› zabuÄÃ­.)}
+{132}{}{Chudinko - dÃ¡vat tÄ› Å™eznÃ­kovi asi nebude nejlepÅ¡Ã­ nÃ¡pad. ChtÄ›la bys odsud utÃ©ct?}
+{133}{}{JupÃ­! Bude z tebe vynikajÃ­cÃ­ suÅ¡enÃ½ maso.}
+{140}{}{BÅ¯Å¯Å¯Å¯Å¯Å¯Å¯.}
+{141}{}{(TeÄ buÄÃ­ o hodnÄ› veseleji.)}
+{142}{}{DobÅ™e, tak pojÄ odsud pryÄ.}
+{143}{}{Jen si dÄ›lÃ¡m legraci. VÃ­Å¡, potÅ™ebuju tvoje maso vÃ­c neÅ¾ tebe.}
+{150}{}{BÅ¯Å¯Å¯Å¯Å¯.}
+{200}{}{Dovednost PrvnÃ­ pomoc ti nepomÅ¯Å¾e vylÃ©Äit zlomenou nohu tÃ©to ubohÃ© brahmÃ­ny.}
+{300}{}{PodaÅ™ilo se ti uzdravit brahmÃ­ninu zlomenou nohu.}
+{310}{}{NepodaÅ™ilo se ti uzdravit brahmÃ­ninu zlomenou nohu.}

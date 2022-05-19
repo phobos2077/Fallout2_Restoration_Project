@@ -1,9 +1,9 @@
-{100}{}{Poèítaèová stanice elektrického køesla: Zvolte operaci.}
-{101}{}{Napájet elektrické køeslo.}
-{102}{}{Odpojit elekrické køeslo.}
-{103}{}{Køeslo pod proudem. Instruujte prosím uivatele, aby co nejtìsnìji pøiléhal k obìma stranám køesla. Dìkuji.}
-{104}{}{Køeslo odpojeno.}
+{100}{}{PoÄÃ­taÄovÃ¡ stanice elektrickÃ©ho kÅ™esla: Zvolte operaci.}
+{101}{}{NapÃ¡jet elektrickÃ© kÅ™eslo.}
+{102}{}{Odpojit elekrickÃ© kÅ™eslo.}
+{103}{}{KÅ™eslo pod proudem. Instruujte prosÃ­m uÅ¾ivatele, aby co nejtÄ›snÄ›ji pÅ™ilÃ©hal k obÄ›ma stranÃ¡m kÅ™esla. DÄ›kuji.}
+{104}{}{KÅ™eslo odpojeno.}
 {105}{}{Konec.}
-{106}{}{Vidíš bzuèící poèítaè.}
-{107}{}{Vidíš Stanici elektrického køesla.}
-{108}{}{Vidíš poèítaè, kterı øídí elektrické køeslo.}
+{106}{}{VidÃ­Å¡ bzuÄÃ­cÃ­ poÄÃ­taÄ.}
+{107}{}{VidÃ­Å¡ Stanici elektrickÃ©ho kÅ™esla.}
+{108}{}{VidÃ­Å¡ poÄÃ­taÄ, kterÃ½ Å™Ã­dÃ­ elektrickÃ© kÅ™eslo.}

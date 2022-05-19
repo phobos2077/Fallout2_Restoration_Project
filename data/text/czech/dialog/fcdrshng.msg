@@ -1,152 +1,152 @@
-{100}{}{Vidíš bláznivì vypadajícího vìdce Shi.}
-{101}{}{Vidíš Dr. Shenga.}
-{200}{}{(Vidíš vìdce Shi se strništìm na tváøi a bláznivım vırazem v oblièeji. Má rozcuchané vlasy a zmaèkané obleèení a vypadá, e u nìkolik dní nespal.) Ach! Ano! Ano, èekal jsem na vás. Øekli mi, e pøijdete. (Prohlédne si tì od hlavy k patì.) Ano, jste perfektní.}
-{201}{}{O tom se s vámi nebudu pøít, ale co se to tu sakra dìje?}
-{202}{}{Vy musíte bıt Dr. Sheng. Dr. Wong mi øekl, kde se nacházíte. Shi si u mysleli, e jste mrtvı.}
-{203}{}{Tak zaprvé, co je tohle za pøíšery?}
-{204}{}{Perfektní k èemu pøesnì?}
-{205}{}{Kdo vám øekl, e pøicházím?}
-{210}{}{Vìda! Co jiného? Jsem Dr. Sheng a tyto pøíšery jsou mé vıtvory. Krásné, e?}
-{211}{}{Eh, jo ... ale co jsou zaè?}
-{212}{}{Vlastnì si myslím, e jsou docela odpudivé. Vskutku na blití. A ta kombinace sladkého a smrdutého zápachu je jako sirup vyrobenı z tekutin mrtvoly. Co jsou zaè?}
-{220}{}{Ha! Dr. Wong by si pøál, abych byl mrtvı. Ale kdepak, cítím se lépe ne kdy pøedtím. A bude ještì lépe, pokud mi pomùete.}
-{221}{}{S èím chcete pomoct?}
-{222}{}{Zadrte. Nejdøív mi øeknìte, co je tohle za pøíšery.}
-{230}{}{Jsou naše budoucnost! Jde o novou rasu rostlinného druhu vnímavıch rostlin, které jsem vytvoøil. Koneènì se mi podaøilo úspìšnì slouèit moji rostlinu s èerstvou lidskou mrtvolou! Jak vidíte, získali tím smysl, pohyb a hlas, kterı by jim jinak chybìl. Díky tomu mají také humanoidní vzhled, kterı jim umoní rychlejší integraci do naší kultury.}
-{231}{}{A odkud berete ty 'èerstvé lidské mrtvoly'? }
-{232}{}{Integraci do naší kultury? Tak to hodnì štìstí. Ghoulùm a mutantùm se to daøí jen stìí a to jsou, nebo spíše byli, kdysi lidmi. Tyhle vìci jsou ohavné.}
-{233}{}{Vlastnì si vzpomínám na jednu masoravou rostlinu, která dokázala mluvit, ani by byla spojená s lidskım tìlem.}
-{234}{}{To je úasné. Jako kolega vìdec musím vìdìt, jak jste to dokázal.}
-{240}{}{Perfektní pro mùj úkol. Víte, ne všechny experimentální pøíšery se vyvedly tak jako ty, které tu vidíte. Vìtšina z nich skonèí jako bezmyšlenkovité, dravé bestie. Uchovávám tyto nezdary v zamèenıch klecích ve své laboratoøi, ale nedávno se dostali na svobodu. Podaøilo se mi utéct a zamknout za sebou dveøe, take se ádnı z nich nedostal ven, jene teï se nemohu vrátit zpìt do své laboratoøe.}
-{241}{}{Take co ode mì potøebujete?}
-{250}{}{Mé vıtvory, samozøejmì. V pustinách jsou jako doma. Urèitì se mnou budete souhlasit, kdy øeknu, e si tam èlovìk musí dávat pozor. Kdy mi øekli o vašem pøíchodu, naøídil jsem jim, aby vás ke mnì pøivedli, jeliko se domnívám, e mi mùete pomoci.}
-{251}{}{S èím chcete pomoct?}
-{252}{}{Nejdøív mi øeknìte, co je tohle za pøíšery.}
-{260}{}{No, vìtšinou od nájezdníkù, kteøí se rozhodli na nás pošetile zaútoèit. Ale u dost o tomto tématu. Potøebuji vìdìt, jestli mi pomùete.}
-{261}{}{S èím chcete pomoct?}
-{270}{}{Víte, ne všechny experimentální pøíšery se povedly tak jako ty, které tu vidíte. Vìtšina z nich skonèí jako bezmyšlenkovité dravé bestie. Uchovávám tyto nezdary v zamèenıch klecích ve své laboratoøi, ale nedávno se dostali na svobodu. Podaøilo se mi utéct a zamknout za sebou dveøe, take se ádnı z nich nedostal ven, jene teï se nemohu vrátit zpìt do své laboratoøe.}
-{271}{}{Take co ode mì potøebujete?}
-{280}{}{Váš názor na moji práci mì vùbec nezajímá. A teï otevøenì, potøebuji splnit úkol, na kterı máte oèividnì pøedpoklady. Po dokonèení dostanete odmìnu. Máte zájem?}
-{281}{}{Poslouchám.}
-{282}{}{Nechci mít s vámi ani s vašimi odpornımi pøíšerami nic spoleèného.}
-{290}{}{Vıbornì! Dejte mi je a dostanete odmìnu.}
-{291}{}{Ale jistì, stejnì jsou mi k nièemu. Tady je máte.}
-{292}{}{Nee. Docela mi ti kluci pøirostli k srdci. Myslím, e si je nechám. Moná si zøídím zahradu nebo nìco takového.}
-{293}{}{Nemám je u sebe, ale pùjdu se po nich podívat.}
-{294}{}{Nemám je u sebe a i kdyby ano, tak vám je nedám. Nechci mít s vámi ani s vašimi zeleninovımi zombiemi nic spoleèného.}
-{300}{}{To zaøízení se jmenuje EPA. Vyznaèil jsem vám to na mapì. Prosím, jdìte tam a pokuste se najít nìjaká semena. Ale ne jen tak ledajaká, musí bıt unikátní.}
-{301}{}{Aha, zdá se, e u znáte umístìní EPA. Prosím, jdìte tam a pokuste se najít nìjaká semena. Ale ne jen tak ledajaká, musí bıt unikátní.}
-{302}{}{Ještì se vrátím.}
-{303}{}{Eh, kdy o tom tak pøemıšlím, tak u nemám zájem pro vás pracovat. Skonèili jsme.}
-{310}{}{(Jeho oèi se naplní hnìvem.) Zabijte ho, mé dìti! Jeho tìlo bude vhodnım hostitelem pro vaše nové sourozence!}
-{311}{}{(Jeho oèi se naplní hnìvem.) Zabijte ji, mé dìti! Její tìlo bude vhodnım hostitelem pro vaše nové sourozence!}
+{100}{}{VidÃ­Å¡ blÃ¡znivÄ› vypadajÃ­cÃ­ho vÄ›dce Shi.}
+{101}{}{VidÃ­Å¡ Dr. Shenga.}
+{200}{}{(VidÃ­Å¡ vÄ›dce Shi se strniÅ¡tÄ›m na tvÃ¡Å™i a blÃ¡znivÃ½m vÃ½razem v obliÄeji. MÃ¡ rozcuchanÃ© vlasy a zmaÄkanÃ© obleÄenÃ­ a vypadÃ¡, Å¾e uÅ¾ nÄ›kolik dnÃ­ nespal.) Ach! Ano! Ano, Äekal jsem na vÃ¡s. Å˜ekli mi, Å¾e pÅ™ijdete. (ProhlÃ©dne si tÄ› od hlavy k patÄ›.) Ano, jste perfektnÃ­.}
+{201}{}{O tom se s vÃ¡mi nebudu pÅ™Ã­t, ale co se to tu sakra dÄ›je?}
+{202}{}{Vy musÃ­te bÃ½t Dr. Sheng. Dr. Wong mi Å™ekl, kde se nachÃ¡zÃ­te. Shi si uÅ¾ mysleli, Å¾e jste mrtvÃ½.}
+{203}{}{Tak zaprvÃ©, co je tohle za pÅ™Ã­Å¡ery?}
+{204}{}{PerfektnÃ­ k Äemu pÅ™esnÄ›?}
+{205}{}{Kdo vÃ¡m Å™ekl, Å¾e pÅ™ichÃ¡zÃ­m?}
+{210}{}{VÄ›da! Co jinÃ©ho? Jsem Dr. Sheng a tyto pÅ™Ã­Å¡ery jsou mÃ© vÃ½tvory. KrÃ¡snÃ©, Å¾e?}
+{211}{}{Eh, jo ... ale co jsou zaÄ?}
+{212}{}{VlastnÄ› si myslÃ­m, Å¾e jsou docela odpudivÃ©. Vskutku na blitÃ­. A ta kombinace sladkÃ©ho a smrdutÃ©ho zÃ¡pachu je jako sirup vyrobenÃ½ z tekutin mrtvoly. Co jsou zaÄ?}
+{220}{}{Ha! Dr. Wong by si pÅ™Ã¡l, abych byl mrtvÃ½. Ale kdepak, cÃ­tÃ­m se lÃ©pe neÅ¾ kdy pÅ™edtÃ­m. A bude jeÅ¡tÄ› lÃ©pe, pokud mi pomÅ¯Å¾ete.}
+{221}{}{S ÄÃ­m chcete pomoct?}
+{222}{}{ZadrÅ¾te. NejdÅ™Ã­v mi Å™eknÄ›te, co je tohle za pÅ™Ã­Å¡ery.}
+{230}{}{Jsou naÅ¡e budoucnost! Jde o novou rasu rostlinnÃ©ho druhu vnÃ­mavÃ½ch rostlin, kterÃ© jsem vytvoÅ™il. KoneÄnÄ› se mi podaÅ™ilo ÃºspÄ›Å¡nÄ› slouÄit moji rostlinu s Äerstvou lidskou mrtvolou! Jak vidÃ­te, zÃ­skali tÃ­m smysl, pohyb a hlas, kterÃ½ by jim jinak chybÄ›l. DÃ­ky tomu majÃ­ takÃ© humanoidnÃ­ vzhled, kterÃ½ jim umoÅ¾nÃ­ rychlejÅ¡Ã­ integraci do naÅ¡Ã­ kultury.}
+{231}{}{A odkud berete ty 'ÄerstvÃ© lidskÃ© mrtvoly'? }
+{232}{}{Integraci do naÅ¡Ã­ kultury? Tak to hodnÄ› Å¡tÄ›stÃ­. GhoulÅ¯m a mutantÅ¯m se to daÅ™Ã­ jen stÄ›Å¾Ã­ a to jsou, nebo spÃ­Å¡e byli, kdysi lidmi. Tyhle vÄ›ci jsou ohavnÃ©.}
+{233}{}{VlastnÄ› si vzpomÃ­nÃ¡m na jednu masoÅ¾ravou rostlinu, kterÃ¡ dokÃ¡zala mluvit, aniÅ¾ by byla spojenÃ¡ s lidskÃ½m tÄ›lem.}
+{234}{}{To je ÃºÅ¾asnÃ©. Jako kolega vÄ›dec musÃ­m vÄ›dÄ›t, jak jste to dokÃ¡zal.}
+{240}{}{PerfektnÃ­ pro mÅ¯j Ãºkol. VÃ­te, ne vÅ¡echny experimentÃ¡lnÃ­ pÅ™Ã­Å¡ery se vyvedly tak jako ty, kterÃ© tu vidÃ­te. VÄ›tÅ¡ina z nich skonÄÃ­ jako bezmyÅ¡lenkovitÃ©, dravÃ© bestie. UchovÃ¡vÃ¡m tyto nezdary v zamÄenÃ½ch klecÃ­ch ve svÃ© laboratoÅ™i, ale nedÃ¡vno se dostali na svobodu. PodaÅ™ilo se mi utÃ©ct a zamknout za sebou dveÅ™e, takÅ¾e se Å¾Ã¡dnÃ½ z nich nedostal ven, jenÅ¾e teÄ se nemohu vrÃ¡tit zpÄ›t do svÃ© laboratoÅ™e.}
+{241}{}{TakÅ¾e co ode mÄ› potÅ™ebujete?}
+{250}{}{MÃ© vÃ½tvory, samozÅ™ejmÄ›. V pustinÃ¡ch jsou jako doma. UrÄitÄ› se mnou budete souhlasit, kdyÅ¾ Å™eknu, Å¾e si tam ÄlovÄ›k musÃ­ dÃ¡vat pozor. KdyÅ¾ mi Å™ekli o vaÅ¡em pÅ™Ã­chodu, naÅ™Ã­dil jsem jim, aby vÃ¡s ke mnÄ› pÅ™ivedli, jelikoÅ¾ se domnÃ­vÃ¡m, Å¾e mi mÅ¯Å¾ete pomoci.}
+{251}{}{S ÄÃ­m chcete pomoct?}
+{252}{}{NejdÅ™Ã­v mi Å™eknÄ›te, co je tohle za pÅ™Ã­Å¡ery.}
+{260}{}{No, vÄ›tÅ¡inou od nÃ¡jezdnÃ­kÅ¯, kteÅ™Ã­ se rozhodli na nÃ¡s poÅ¡etile zaÃºtoÄit. Ale uÅ¾ dost o tomto tÃ©matu. PotÅ™ebuji vÄ›dÄ›t, jestli mi pomÅ¯Å¾ete.}
+{261}{}{S ÄÃ­m chcete pomoct?}
+{270}{}{VÃ­te, ne vÅ¡echny experimentÃ¡lnÃ­ pÅ™Ã­Å¡ery se povedly tak jako ty, kterÃ© tu vidÃ­te. VÄ›tÅ¡ina z nich skonÄÃ­ jako bezmyÅ¡lenkovitÃ© dravÃ© bestie. UchovÃ¡vÃ¡m tyto nezdary v zamÄenÃ½ch klecÃ­ch ve svÃ© laboratoÅ™i, ale nedÃ¡vno se dostali na svobodu. PodaÅ™ilo se mi utÃ©ct a zamknout za sebou dveÅ™e, takÅ¾e se Å¾Ã¡dnÃ½ z nich nedostal ven, jenÅ¾e teÄ se nemohu vrÃ¡tit zpÄ›t do svÃ© laboratoÅ™e.}
+{271}{}{TakÅ¾e co ode mÄ› potÅ™ebujete?}
+{280}{}{VÃ¡Å¡ nÃ¡zor na moji prÃ¡ci mÄ› vÅ¯bec nezajÃ­mÃ¡. A teÄ otevÅ™enÄ›, potÅ™ebuji splnit Ãºkol, na kterÃ½ mÃ¡te oÄividnÄ› pÅ™edpoklady. Po dokonÄenÃ­ dostanete odmÄ›nu. MÃ¡te zÃ¡jem?}
+{281}{}{PoslouchÃ¡m.}
+{282}{}{Nechci mÃ­t s vÃ¡mi ani s vaÅ¡imi odpornÃ½mi pÅ™Ã­Å¡erami nic spoleÄnÃ©ho.}
+{290}{}{VÃ½bornÄ›! Dejte mi je a dostanete odmÄ›nu.}
+{291}{}{Ale jistÄ›, stejnÄ› jsou mi k niÄemu. Tady je mÃ¡te.}
+{292}{}{Nee. Docela mi ti kluci pÅ™irostli k srdci. MyslÃ­m, Å¾e si je nechÃ¡m. MoÅ¾nÃ¡ si zÅ™Ã­dÃ­m zahradu nebo nÄ›co takovÃ©ho.}
+{293}{}{NemÃ¡m je u sebe, ale pÅ¯jdu se po nich podÃ­vat.}
+{294}{}{NemÃ¡m je u sebe a i kdyby ano, tak vÃ¡m je nedÃ¡m. Nechci mÃ­t s vÃ¡mi ani s vaÅ¡imi zeleninovÃ½mi zombiemi nic spoleÄnÃ©ho.}
+{300}{}{To zaÅ™Ã­zenÃ­ se jmenuje EPA. VyznaÄil jsem vÃ¡m to na mapÄ›. ProsÃ­m, jdÄ›te tam a pokuste se najÃ­t nÄ›jakÃ¡ semena. Ale ne jen tak ledajakÃ¡, musÃ­ bÃ½t unikÃ¡tnÃ­.}
+{301}{}{Aha, zdÃ¡ se, Å¾e uÅ¾ znÃ¡te umÃ­stÄ›nÃ­ EPA. ProsÃ­m, jdÄ›te tam a pokuste se najÃ­t nÄ›jakÃ¡ semena. Ale ne jen tak ledajakÃ¡, musÃ­ bÃ½t unikÃ¡tnÃ­.}
+{302}{}{JeÅ¡tÄ› se vrÃ¡tÃ­m.}
+{303}{}{Eh, kdyÅ¾ o tom tak pÅ™emÃ½Å¡lÃ­m, tak uÅ¾ nemÃ¡m zÃ¡jem pro vÃ¡s pracovat. SkonÄili jsme.}
+{310}{}{(Jeho oÄi se naplnÃ­ hnÄ›vem.) Zabijte ho, mÃ© dÄ›ti! Jeho tÄ›lo bude vhodnÃ½m hostitelem pro vaÅ¡e novÃ© sourozence!}
+{311}{}{(Jeho oÄi se naplnÃ­ hnÄ›vem.) Zabijte ji, mÃ© dÄ›ti! JejÃ­ tÄ›lo bude vhodnÃ½m hostitelem pro vaÅ¡e novÃ© sourozence!}
 {312}{}{[KONEC]}
-{320}{}{Vıbornì! A teï vám pøichystám odmìnu. Udìlejte si pohodlí, bude to chvíli trvat.}
-{321}{}{Pokraèovat.}
-{322}{}{Nechte si ji. Nemám èas.}
-{330}{}{Ano, pøineste mi ty semena a dostanete odmìnu.}
-{331}{}{Ještì se vrátím.}
-{340}{}{Ji pouhá informace o umístìní tohoto zaøízení je vlastnì odmìnou, jeliko by mìlo bıt pøeplnìné spoustou uiteènıch vìcí. Mùete si samozøejmì nechat vše, co naleznete. Mì zajímají pouze unikátní vzorky semen. A mi je donesete, dám vám dárek pro Shi.}
-{341}{}{Dobøe, udìlám to. Ještì se vrátím.}
-{342}{}{Tomu øíkáte odmìna? Prozkoumávat ruiny mùu i na vlastní pìst. Nemám zájem.}
-{350}{}{(Podívá se na tebe s oèekáváním.)}
-{351}{}{Tady jsou ty semena, které jste chtìl.}
-{352}{}{Vrátím se, a budu mít ty semena.}
-{360}{}{V tom pøípadì u pro vás nemám ádné vyuití. (Pokyne smìrem na rostlinné pøíšery.) Zabijte ho, mé dìti! Jeho tìlo bude vhodnım hostitelem pro vaše nové sourozence!}
-{361}{}{V tom pøípadì u pro vás nemám ádné vyuití. (Pokyne smìrem na rostlinné pøíšery.) Zabijte ji, mé dìti! Její tìlo bude vhodnım hostitelem pro vaše nové sourozence!}
+{320}{}{VÃ½bornÄ›! A teÄ vÃ¡m pÅ™ichystÃ¡m odmÄ›nu. UdÄ›lejte si pohodlÃ­, bude to chvÃ­li trvat.}
+{321}{}{PokraÄovat.}
+{322}{}{Nechte si ji. NemÃ¡m Äas.}
+{330}{}{Ano, pÅ™ineste mi ty semena a dostanete odmÄ›nu.}
+{331}{}{JeÅ¡tÄ› se vrÃ¡tÃ­m.}
+{340}{}{JiÅ¾ pouhÃ¡ informace o umÃ­stÄ›nÃ­ tohoto zaÅ™Ã­zenÃ­ je vlastnÄ› odmÄ›nou, jelikoÅ¾ by mÄ›lo bÃ½t pÅ™eplnÄ›nÃ© spoustou uÅ¾iteÄnÃ½ch vÄ›cÃ­. MÅ¯Å¾ete si samozÅ™ejmÄ› nechat vÅ¡e, co naleznete. MÄ› zajÃ­majÃ­ pouze unikÃ¡tnÃ­ vzorky semen. AÅ¾ mi je donesete, dÃ¡m vÃ¡m dÃ¡rek pro Shi.}
+{341}{}{DobÅ™e, udÄ›lÃ¡m to. JeÅ¡tÄ› se vrÃ¡tÃ­m.}
+{342}{}{Tomu Å™Ã­kÃ¡te odmÄ›na? ProzkoumÃ¡vat ruiny mÅ¯Å¾u i na vlastnÃ­ pÄ›st. NemÃ¡m zÃ¡jem.}
+{350}{}{(PodÃ­vÃ¡ se na tebe s oÄekÃ¡vÃ¡nÃ­m.)}
+{351}{}{Tady jsou ty semena, kterÃ© jste chtÄ›l.}
+{352}{}{VrÃ¡tÃ­m se, aÅ¾ budu mÃ­t ty semena.}
+{360}{}{V tom pÅ™Ã­padÄ› uÅ¾ pro vÃ¡s nemÃ¡m Å¾Ã¡dnÃ© vyuÅ¾itÃ­. (Pokyne smÄ›rem na rostlinnÃ© pÅ™Ã­Å¡ery.) Zabijte ho, mÃ© dÄ›ti! Jeho tÄ›lo bude vhodnÃ½m hostitelem pro vaÅ¡e novÃ© sourozence!}
+{361}{}{V tom pÅ™Ã­padÄ› uÅ¾ pro vÃ¡s nemÃ¡m Å¾Ã¡dnÃ© vyuÅ¾itÃ­. (Pokyne smÄ›rem na rostlinnÃ© pÅ™Ã­Å¡ery.) Zabijte ji, mÃ© dÄ›ti! JejÃ­ tÄ›lo bude vhodnÃ½m hostitelem pro vaÅ¡e novÃ© sourozence!}
 {362}{}{[KONEC]}
-{370}{}{(Doktor odejde a asi po hodinì se vrátí a pøedá ti semeno rostliny.) Tato rostlina je mùj dar pro Shi. Zmìní celı svìt. Budete mít tu èest ji pøedstavit doktoru Wongovi.}
-{371}{}{Co je na tom vzorku rostliny tak zvláštního?}
-{372}{}{To je všechno? Podaøilo se mi pro vás získat ta zatracená semena a tohle za to dostanu? Jenom další semeno? Jdìte do prdele i s tìmi vašimi strašidelnımi rostlinnımi zombiemi. Myslím, e prokáu svìtu laskavost, kdy tu vaši morbidní èinnost ukonèím.}
-{380}{}{Shi se snaili vytvoøit rostlinu, která by byla odolná vùèi radiaci. Byl jsem vedoucím tohoto projektu, ale bìhem vızkumu jsem objevil nìco, co mì zavedlo jinım smìrem. Vytvoøil jsem sérum vnímání pro rostliny, ale po nìkolika... nešastnıch událostech chtìli Shi projekt ukonèit. Tak jsem pokraèoval v práci na vlastní pìst.}
-{381}{}{Aha. A co s tím má ten vzorek rostliny spoleèného?}
-{382}{}{Pokraèujte...}
-{390}{}{Ironií je to, e jsem udìlal zásadní prùlom ve vızkumu odolnosti rostlin vùèi radiaci zrovna v dobì, kdy u jsem se zaèínal více vìnovat svım novım rostlinnım vıtvorùm s vnímáním. Uchoval jsem to v tajnosti, jeliko jsem nechtìl odpoutávat pozornost od svıch vıznamnìjších objevù a kdy ostatní došli k závìru, e mùj objev vnímavıch rostlin není dùleitı, rozhodl jsem se, e své tajemství uchovám naschvál. Tedy a doteï. Díky tomuto vzorku rostliny, kterı jsem vám dal, se i takovému úzkoprsému hlupákovi, jako je Dr. Wong, podaøí vyšlechtit rostlinu odolnou vùèi radiaci.}
-{391}{}{Proè jste zmìnil svùj názor?}
+{370}{}{(Doktor odejde a asi po hodinÄ› se vrÃ¡tÃ­ a pÅ™edÃ¡ ti semeno rostliny.) Tato rostlina je mÅ¯j dar pro Shi. ZmÄ›nÃ­ celÃ½ svÄ›t. Budete mÃ­t tu Äest ji pÅ™edstavit doktoru Wongovi.}
+{371}{}{Co je na tom vzorku rostliny tak zvlÃ¡Å¡tnÃ­ho?}
+{372}{}{To je vÅ¡echno? PodaÅ™ilo se mi pro vÃ¡s zÃ­skat ta zatracenÃ¡ semena a tohle za to dostanu? Jenom dalÅ¡Ã­ semeno? JdÄ›te do prdele i s tÄ›mi vaÅ¡imi straÅ¡idelnÃ½mi rostlinnÃ½mi zombiemi. MyslÃ­m, Å¾e prokÃ¡Å¾u svÄ›tu laskavost, kdyÅ¾ tu vaÅ¡i morbidnÃ­ Äinnost ukonÄÃ­m.}
+{380}{}{Shi se snaÅ¾ili vytvoÅ™it rostlinu, kterÃ¡ by byla odolnÃ¡ vÅ¯Äi radiaci. Byl jsem vedoucÃ­m tohoto projektu, ale bÄ›hem vÃ½zkumu jsem objevil nÄ›co, co mÄ› zavedlo jinÃ½m smÄ›rem. VytvoÅ™il jsem sÃ©rum vnÃ­mÃ¡nÃ­ pro rostliny, ale po nÄ›kolika... neÅ¡Å¥astnÃ½ch udÃ¡lostech chtÄ›li Shi projekt ukonÄit. Tak jsem pokraÄoval v prÃ¡ci na vlastnÃ­ pÄ›st.}
+{381}{}{Aha. A co s tÃ­m mÃ¡ ten vzorek rostliny spoleÄnÃ©ho?}
+{382}{}{PokraÄujte...}
+{390}{}{IroniÃ­ je to, Å¾e jsem udÄ›lal zÃ¡sadnÃ­ prÅ¯lom ve vÃ½zkumu odolnosti rostlin vÅ¯Äi radiaci zrovna v dobÄ›, kdy uÅ¾ jsem se zaÄÃ­nal vÃ­ce vÄ›novat svÃ½m novÃ½m rostlinnÃ½m vÃ½tvorÅ¯m s vnÃ­mÃ¡nÃ­m. Uchoval jsem to v tajnosti, jelikoÅ¾ jsem nechtÄ›l odpoutÃ¡vat pozornost od svÃ½ch vÃ½znamnÄ›jÅ¡Ã­ch objevÅ¯ a kdyÅ¾ ostatnÃ­ doÅ¡li k zÃ¡vÄ›ru, Å¾e mÅ¯j objev vnÃ­mavÃ½ch rostlin nenÃ­ dÅ¯leÅ¾itÃ½, rozhodl jsem se, Å¾e svÃ© tajemstvÃ­ uchovÃ¡m naschvÃ¡l. Tedy aÅ¾ doteÄ. DÃ­ky tomuto vzorku rostliny, kterÃ½ jsem vÃ¡m dal, se i takovÃ©mu ÃºzkoprsÃ©mu hlupÃ¡kovi, jako je Dr. Wong, podaÅ™Ã­ vyÅ¡lechtit rostlinu odolnou vÅ¯Äi radiaci.}
+{391}{}{ProÄ jste zmÄ›nil svÅ¯j nÃ¡zor?}
 {392}{}{Aha. Zanesu ho Dr. Wongovi.}
-{393}{}{Zanesu ho Dr. Wrongovi, ale jestli mi za to nedá poøádnou odmìnu, tak o mì ještì uslyšíte.}
-{394}{}{Nechte si ten váš vzorek. Vím urèitì, e na to Dr. Wong a ostatní vìdci Shi pøijdou i bez vaší pomoci. Konèím s vašimi laskavostmi.}
-{400}{}{Nezmìnil jsem svùj názor. Nejene je ten vzorek rostliny odolnı vùèi radiaci, ale je také naplnìnı mım sérem vnímání. Jako kadı pyšnı otec, i já si pøeji, aby mùj vıtvor vzkvétal. Doruète ho pro mì a dostanete opravdovou odmìnu.}
+{393}{}{Zanesu ho Dr. Wrongovi, ale jestli mi za to nedÃ¡ poÅ™Ã¡dnou odmÄ›nu, tak o mÄ› jeÅ¡tÄ› uslyÅ¡Ã­te.}
+{394}{}{Nechte si ten vÃ¡Å¡ vzorek. VÃ­m urÄitÄ›, Å¾e na to Dr. Wong a ostatnÃ­ vÄ›dci Shi pÅ™ijdou i bez vaÅ¡Ã­ pomoci. KonÄÃ­m s vaÅ¡imi laskavostmi.}
+{400}{}{NezmÄ›nil jsem svÅ¯j nÃ¡zor. NejenÅ¾e je ten vzorek rostliny odolnÃ½ vÅ¯Äi radiaci, ale je takÃ© naplnÄ›nÃ½ mÃ½m sÃ©rem vnÃ­mÃ¡nÃ­. Jako kaÅ¾dÃ½ pyÅ¡nÃ½ otec, i jÃ¡ si pÅ™eji, aby mÅ¯j vÃ½tvor vzkvÃ©tal. DoruÄte ho pro mÄ› a dostanete opravdovou odmÄ›nu.}
 {401}{}{Aha. Zanesu ho Dr. Wongovi.}
-{402}{}{Ne. Nechte si ten vzorek. U vám nebudu pomáhat.}
-{403}{}{Dr. Wong se zdá bıt jako mazanı chlapík. Opravdu si myslíte, e bude vìøit vzorku rostliny pocházejícímu od vás?}
-{410}{}{Dozvìdìl jsem se o starém americkém vládním zaøízení, kde lze získat unikátní, radiací nedotèená semena rostlin. Toto zaøízení je však pro mì pøíliš daleko, ale myslím, e pro tak zkušeného dobrodruha, jako jste vy, to nebude ádnı velkı problém.}
-{411}{}{Aha, vy máte asi na mysli ta podivná semena z EPA. Tak ty mám u sebe.}
-{412}{}{Prozkoumávání starıch ruin je mùj denní chleba. Ukate mi to na mapì a já se po nich podívám.}
-{413}{}{A co z toho budu mít?}
-{420}{}{Ano, Dr. Wong je tak trochu pøekákou. Pokud by ho nìkdo odstranil, šlo by vše mnohem snadnìji. Pøedejte Dr. Wongovi ten vzorek. I kdyby mi nevìøil, jeho zvìdavost ho pøemùe a pøijme ho. Jakmile ten vzorek nìkam uloí, najdìte zpùsob, jak zlikvidovat Dr. Wonga, ani by si toho ostatní Shi všimli. Tøeba pøedávkováním. Udìlejte to a dostanete trojnásobnou odmìnu.}
-{421}{}{Uvidím, co se dá dìlat.}
-{422}{}{Jestli chcete Wonga mrtvého, tam mi dejte nìco pøedem.}
-{423}{}{Víte, zaèíná to bıt trochu komplikované. Myslím, e vás radìji zmasakruju a potom zmasakruju i Shi.}
-{424}{}{Dr. Wonga pro vás v ádném pøípadì nezabiju. Skonèili jsme spolu.}
-{430}{}{Tak dobøe. Tento jed se vám mùe hodit. Vyextrahoval jsem ho z jednoho ze svıch vıtvorù. Je extrémnì smrtící. (Pøedá ti injekèní støíkaèku.)}
-{431}{}{Uvidím, co se dá dìlat.}
-{440}{}{(Podívá se na tebe s oèekáváním.)}
-{441}{}{Stále na tom pracuju. Ještì se vrátím.}
-{442}{}{Vzorek byl pøedán Shi.}
-{443}{}{Shi mají vzorek a Dr. Wong je mrtvı.}
-{444}{}{Váš zpùsob odplaty nebyl na mùj vkus dostateènì jasnı, take jsou všichni mrtví.}
-{445}{}{Dr. Wong je mrtvı.}
-{446}{}{Vzorek byl pøedán Shi a Dr. Wong byl informován o vašem zámìru. Ihned znièil ten vzorek.}
-{450}{}{Nesmysl! Masoravá rostlina není schopna øeèi navzdory své inteligenci. Buï si ze mì dìláte srandu, nebo za to mohly halucinogenní drogy. A kdy se tak na vás dívám, tak si myslím, e to bylo to druhé. Ale u dost nesmyslù. Potøebuji vìdìt, jestli mi pomùete.}
-{451}{}{Jo, asi to opravdu *zní* trochu hloupì. Take s èím chcete pomoct?}
-{452}{}{Nemìòte téma, je to pravda! Pøísahám na Zakladatele, e se jmenovala Seymour a dokázala mluvit. Chtìla pøesadit na lepší místo. Nevymıšlím si to a ani to nebyly halucinace.}
-{460}{}{Tak dost! Nemám èas na tyhle hlouposti. Pomùete mi nebo ne?}
-{461}{}{S èím chcete pomoct?}
-{462}{}{Ne! Nepomùu vám, vy kreténe! Seymour byla opravdová! SEYMOUR BYLA OPRAVDOVÁ!}
-{470}{}{(Ušklíbne se s pocitem, e mùe pøedvést svého génia.) Rostliny mì vdy fascinovaly. Jsou tak úasnì rozdílné oproti zvíøatùm a pøesto pøekvapivì podobné. Kdy se podíváte na zvíøe, tak víte, e dokáe myslet, vnímat své okolí a proívat bolest i strach. To má svùj dùvod. Samozøejmì se rozsah tìchto schopností u kadého zvíøete liší, ale faktem je, e tyto vlastnosti prostì mají.}
-{471}{}{Pokraèuj.}
-{480}{}{Ale kdy se podíváte na rostlinu, také si to o ní myslíte? Kdy kopnete do rostliny, zaène se bránit? Reaguje na to vùbec nìjakım zpùsobem? Kdy promluvíte na rostlinu, ovlivní to její rùst? Nìkteré národy tyto teorie testovaly pøed Velkou Válkou a lidé, známí jako Nìmci, provedli experimenty, ze kterıch vyvodili, e rostliny mají emoce a e pouhım mluvením, pozorností a náklonností je moné urychlit jejich rùst.}
-{481}{}{Ale rostliny pøece nemají nervovı systém a bez nìj jsou vaše teorie nesmyslné.}
-{482}{}{Myslím, e všechny formy ivota nìjakım zpùsobem vnímají.}
-{483}{}{Z vlastní zkušenosti vím, e se masoravé kytky dokáou bránit. Take jo, myslím, e rostliny nìco cítí.}
-{490}{}{Nejste jedinı èlovìk, kterı si to myslí. Také jsem byl ze zaèátku skeptickı. Ale víte, ve dvacátém století provedla vláda Spojenıch Státù podobné experimenty se zamìøením na komunikaci. Jistì, všechny formy ivota mají nìjakı obrannı mechanismus pøi zjištìní zranìní, jinak øeèeno bolest, ale dávají to nìjakım zpùsobem najevo? A víte, jakı byl závìr tìch experimentù? Vznik biokomunikace, nebo-li e jsou rostliny vnímavé.}
-{491}{}{Chcete snad øíct, e jsou rostliny podobné lidem?}
-{500}{}{Nejste jedinı èlovìk, kterı si to myslí. Ale víte, ve dvacátém století provedla vláda Spojenıch Státù podobné experimenty se zamìøením na komunikaci. Jistì, všechny formy ivota mají nìjakı obrannı mechanismus pøi zjištìní zranìní, jinak øeèeno bolest, ale dávají to nìjakım zpùsobem najevo? A víte, jakı byl závìr tìch experimentù? Vznik biokomunikace, nebo-li e jsou rostliny vnímavé.}
-{501}{}{Chcete snad øíct, e jsou rostliny podobné lidem?}
-{510}{}{Tím chci øíct, e by MOHLY bıt jako lidé. A jak vidíte, mìl jsem pravdu. Jen jim bylo tøeba trochu pomoct.}
+{402}{}{Ne. Nechte si ten vzorek. UÅ¾ vÃ¡m nebudu pomÃ¡hat.}
+{403}{}{Dr. Wong se zdÃ¡ bÃ½t jako mazanÃ½ chlapÃ­k. Opravdu si myslÃ­te, Å¾e bude vÄ›Å™it vzorku rostliny pochÃ¡zejÃ­cÃ­mu od vÃ¡s?}
+{410}{}{DozvÄ›dÄ›l jsem se o starÃ©m americkÃ©m vlÃ¡dnÃ­m zaÅ™Ã­zenÃ­, kde lze zÃ­skat unikÃ¡tnÃ­, radiacÃ­ nedotÄenÃ¡ semena rostlin. Toto zaÅ™Ã­zenÃ­ je vÅ¡ak pro mÄ› pÅ™Ã­liÅ¡ daleko, ale myslÃ­m, Å¾e pro tak zkuÅ¡enÃ©ho dobrodruha, jako jste vy, to nebude Å¾Ã¡dnÃ½ velkÃ½ problÃ©m.}
+{411}{}{Aha, vy mÃ¡te asi na mysli ta podivnÃ¡ semena z EPA. Tak ty mÃ¡m u sebe.}
+{412}{}{ProzkoumÃ¡vÃ¡nÃ­ starÃ½ch ruin je mÅ¯j dennÃ­ chleba. UkaÅ¾te mi to na mapÄ› a jÃ¡ se po nich podÃ­vÃ¡m.}
+{413}{}{A co z toho budu mÃ­t?}
+{420}{}{Ano, Dr. Wong je tak trochu pÅ™ekÃ¡Å¾kou. Pokud by ho nÄ›kdo odstranil, Å¡lo by vÅ¡e mnohem snadnÄ›ji. PÅ™edejte Dr. Wongovi ten vzorek. I kdyby mi nevÄ›Å™il, jeho zvÄ›davost ho pÅ™emÅ¯Å¾e a pÅ™ijme ho. Jakmile ten vzorek nÄ›kam uloÅ¾Ã­, najdÄ›te zpÅ¯sob, jak zlikvidovat Dr. Wonga, aniÅ¾ by si toho ostatnÃ­ Shi vÅ¡imli. TÅ™eba pÅ™edÃ¡vkovÃ¡nÃ­m. UdÄ›lejte to a dostanete trojnÃ¡sobnou odmÄ›nu.}
+{421}{}{UvidÃ­m, co se dÃ¡ dÄ›lat.}
+{422}{}{Jestli chcete Wonga mrtvÃ©ho, tam mi dejte nÄ›co pÅ™edem.}
+{423}{}{VÃ­te, zaÄÃ­nÃ¡ to bÃ½t trochu komplikovanÃ©. MyslÃ­m, Å¾e vÃ¡s radÄ›ji zmasakruju a potom zmasakruju i Shi.}
+{424}{}{Dr. Wonga pro vÃ¡s v Å¾Ã¡dnÃ©m pÅ™Ã­padÄ› nezabiju. SkonÄili jsme spolu.}
+{430}{}{Tak dobÅ™e. Tento jed se vÃ¡m mÅ¯Å¾e hodit. Vyextrahoval jsem ho z jednoho ze svÃ½ch vÃ½tvorÅ¯. Je extrÃ©mnÄ› smrtÃ­cÃ­. (PÅ™edÃ¡ ti injekÄnÃ­ stÅ™Ã­kaÄku.)}
+{431}{}{UvidÃ­m, co se dÃ¡ dÄ›lat.}
+{440}{}{(PodÃ­vÃ¡ se na tebe s oÄekÃ¡vÃ¡nÃ­m.)}
+{441}{}{StÃ¡le na tom pracuju. JeÅ¡tÄ› se vrÃ¡tÃ­m.}
+{442}{}{Vzorek byl pÅ™edÃ¡n Shi.}
+{443}{}{Shi majÃ­ vzorek a Dr. Wong je mrtvÃ½.}
+{444}{}{VÃ¡Å¡ zpÅ¯sob odplaty nebyl na mÅ¯j vkus dostateÄnÄ› jasnÃ½, takÅ¾e jsou vÅ¡ichni mrtvÃ­.}
+{445}{}{Dr. Wong je mrtvÃ½.}
+{446}{}{Vzorek byl pÅ™edÃ¡n Shi a Dr. Wong byl informovÃ¡n o vaÅ¡em zÃ¡mÄ›ru. Ihned zniÄil ten vzorek.}
+{450}{}{Nesmysl! MasoÅ¾ravÃ¡ rostlina nenÃ­ schopna Å™eÄi navzdory svÃ© inteligenci. BuÄ si ze mÄ› dÄ›lÃ¡te srandu, nebo za to mohly halucinogennÃ­ drogy. A kdyÅ¾ se tak na vÃ¡s dÃ­vÃ¡m, tak si myslÃ­m, Å¾e to bylo to druhÃ©. Ale uÅ¾ dost nesmyslÅ¯. PotÅ™ebuji vÄ›dÄ›t, jestli mi pomÅ¯Å¾ete.}
+{451}{}{Jo, asi to opravdu *znÃ­* trochu hloupÄ›. TakÅ¾e s ÄÃ­m chcete pomoct?}
+{452}{}{NemÄ›Åˆte tÃ©ma, je to pravda! PÅ™Ã­sahÃ¡m na Zakladatele, Å¾e se jmenovala Seymour a dokÃ¡zala mluvit. ChtÄ›la pÅ™esadit na lepÅ¡Ã­ mÃ­sto. NevymÃ½Å¡lÃ­m si to a ani to nebyly halucinace.}
+{460}{}{Tak dost! NemÃ¡m Äas na tyhle hlouposti. PomÅ¯Å¾ete mi nebo ne?}
+{461}{}{S ÄÃ­m chcete pomoct?}
+{462}{}{Ne! NepomÅ¯Å¾u vÃ¡m, vy kretÃ©ne! Seymour byla opravdovÃ¡! SEYMOUR BYLA OPRAVDOVÃ!}
+{470}{}{(UÅ¡klÃ­bne se s pocitem, Å¾e mÅ¯Å¾e pÅ™edvÃ©st svÃ©ho gÃ©nia.) Rostliny mÄ› vÅ¾dy fascinovaly. Jsou tak ÃºÅ¾asnÄ› rozdÃ­lnÃ© oproti zvÃ­Å™atÅ¯m a pÅ™esto pÅ™ekvapivÄ› podobnÃ©. KdyÅ¾ se podÃ­vÃ¡te na zvÃ­Å™e, tak vÃ­te, Å¾e dokÃ¡Å¾e myslet, vnÃ­mat svÃ© okolÃ­ a proÅ¾Ã­vat bolest i strach. To mÃ¡ svÅ¯j dÅ¯vod. SamozÅ™ejmÄ› se rozsah tÄ›chto schopnostÃ­ u kaÅ¾dÃ©ho zvÃ­Å™ete liÅ¡Ã­, ale faktem je, Å¾e tyto vlastnosti prostÄ› majÃ­.}
+{471}{}{PokraÄuj.}
+{480}{}{Ale kdyÅ¾ se podÃ­vÃ¡te na rostlinu, takÃ© si to o nÃ­ myslÃ­te? KdyÅ¾ kopnete do rostliny, zaÄne se brÃ¡nit? Reaguje na to vÅ¯bec nÄ›jakÃ½m zpÅ¯sobem? KdyÅ¾ promluvÃ­te na rostlinu, ovlivnÃ­ to jejÃ­ rÅ¯st? NÄ›kterÃ© nÃ¡rody tyto teorie testovaly pÅ™ed Velkou VÃ¡lkou a lidÃ©, znÃ¡mÃ­ jako NÄ›mci, provedli experimenty, ze kterÃ½ch vyvodili, Å¾e rostliny majÃ­ emoce a Å¾e pouhÃ½m mluvenÃ­m, pozornostÃ­ a nÃ¡klonnostÃ­ je moÅ¾nÃ© urychlit jejich rÅ¯st.}
+{481}{}{Ale rostliny pÅ™ece nemajÃ­ nervovÃ½ systÃ©m a bez nÄ›j jsou vaÅ¡e teorie nesmyslnÃ©.}
+{482}{}{MyslÃ­m, Å¾e vÅ¡echny formy Å¾ivota nÄ›jakÃ½m zpÅ¯sobem vnÃ­majÃ­.}
+{483}{}{Z vlastnÃ­ zkuÅ¡enosti vÃ­m, Å¾e se masoÅ¾ravÃ© kytky dokÃ¡Å¾ou brÃ¡nit. TakÅ¾e jo, myslÃ­m, Å¾e rostliny nÄ›co cÃ­tÃ­.}
+{490}{}{Nejste jedinÃ½ ÄlovÄ›k, kterÃ½ si to myslÃ­. TakÃ© jsem byl ze zaÄÃ¡tku skeptickÃ½. Ale vÃ­te, ve dvacÃ¡tÃ©m stoletÃ­ provedla vlÃ¡da SpojenÃ½ch StÃ¡tÅ¯ podobnÃ© experimenty se zamÄ›Å™enÃ­m na komunikaci. JistÄ›, vÅ¡echny formy Å¾ivota majÃ­ nÄ›jakÃ½ obrannÃ½ mechanismus pÅ™i zjiÅ¡tÄ›nÃ­ zranÄ›nÃ­, jinak Å™eÄeno bolest, ale dÃ¡vajÃ­ to nÄ›jakÃ½m zpÅ¯sobem najevo? A vÃ­te, jakÃ½ byl zÃ¡vÄ›r tÄ›ch experimentÅ¯? Vznik biokomunikace, nebo-li Å¾e jsou rostliny vnÃ­mavÃ©.}
+{491}{}{Chcete snad Å™Ã­ct, Å¾e jsou rostliny podobnÃ© lidem?}
+{500}{}{Nejste jedinÃ½ ÄlovÄ›k, kterÃ½ si to myslÃ­. Ale vÃ­te, ve dvacÃ¡tÃ©m stoletÃ­ provedla vlÃ¡da SpojenÃ½ch StÃ¡tÅ¯ podobnÃ© experimenty se zamÄ›Å™enÃ­m na komunikaci. JistÄ›, vÅ¡echny formy Å¾ivota majÃ­ nÄ›jakÃ½ obrannÃ½ mechanismus pÅ™i zjiÅ¡tÄ›nÃ­ zranÄ›nÃ­, jinak Å™eÄeno bolest, ale dÃ¡vajÃ­ to nÄ›jakÃ½m zpÅ¯sobem najevo? A vÃ­te, jakÃ½ byl zÃ¡vÄ›r tÄ›ch experimentÅ¯? Vznik biokomunikace, nebo-li Å¾e jsou rostliny vnÃ­mavÃ©.}
+{501}{}{Chcete snad Å™Ã­ct, Å¾e jsou rostliny podobnÃ© lidem?}
+{510}{}{TÃ­m chci Å™Ã­ct, Å¾e by MOHLY bÃ½t jako lidÃ©. A jak vidÃ­te, mÄ›l jsem pravdu. Jen jim bylo tÅ™eba trochu pomoct.}
 {511}{}{Trochu pomoct?}
-{520}{}{Genetickou úpravou! Díky kouzelnım schopnostem vìdy se mi podaøilo vytvoøit botanické sérum vnímání. Ovšem pouhé zvıšení inteligence rostlin na lidskou úroveò bylo pouze polovièním úspìchem. Vìdìl jsem, e k vyuití plného potenciálu takové inteligence je zapotøebí humanoidní tìlo a smysly.}
-{521}{}{Aha, a pøesnì tady pøichází na øadu ty 'èerstvé lidské mrtvoly'. Musíte mi øíct, jak se vám vše podaøilo propojit, zejména lidskı nervovı systém. A navíc neivı. Nevidìt to na vlastní oèi, tak nevìøím, e je to vùbec moné.}
-{530}{}{Tak dobøe, sice neslibuji, e pochopíte vše, co vám øeknu, ale pokusím se to vysvìtlit co nejlépe. (Dvì hodiny stráví vysvìtlováním postupù svıch experimentù jako horlivı øeèník kázající o svém bohovi všem zaujatım posluchaèùm, pøièem samozøejmì nezapomene zmínit své úspìchy.)}
-{531}{}{[Více]}
-{540}{}{Take teï u tomu doufám rozumíte.}
-{541}{}{Ano, rozumím. Pøišlo mi to jako zcela nemoné, ale tak, jak jste to popsal, u to dává smysl. A to s tìmi houbami je pøímo geniální! Morbidní, ale geniální. Ale jednu vìc jste zapomnìl vysvìtlit. Odkud pøesnì berete ty 'èerstvé lidské mrtvoly'?}
-{550}{}{Zadrte. Dr. Wong bude tak trochu pøekákou. Pokud by ho nìkdo odstranil, šlo by vše mnohem snadnìji. Pøedejte Dr. Wongovi ten vzorek. I kdyby mi nevìøil, jeho zvìdavost ho pøemùe a pøijme ho. Jakmile ten vzorek nìkam uloí, najdìte zpùsob, jak zlikvidovat Dr. Wonga, ani by si toho ostatní Shi všimli. Tøeba pøedávkováním. Udìlejte to a dostanete trojnásobnou odmìnu.}
-{551}{}{Uvidím, co se dá dìlat.}
-{552}{}{Jestli chcete Wonga mrtvého, tam mi dejte nìco pøedem.}
-{553}{}{Víte, zaèíná to bıt trochu komplikované. Myslím, e vás radìji zmasakruju a potom zmasakruju i Shi.}
-{554}{}{Dr. Wonga pro vás v ádném pøípadì nezabiju. Skonèili jsme spolu.}
-{560}{}{Vıbornì a co Dr. Wong?}
-{561}{}{Je stále naivu. Vrátím se, a ho vyøídím.}
-{562}{}{Nezabiju pro vás Dr. Wonga. Obdreli ode mì ten vzorek a tím jsme spolu skonèili.}
-{570}{}{Potøebuji je zlikvidovat a vy vypadáte jako nìkdo, pro koho to nebude ádnı problém.}
-{571}{}{Proè tam radìji nepošlete ty, eh, úspìšnìjší vıtvory, aby je vyøídili?}
-{572}{}{To zní jako zábava. Udìlám to.}
-{573}{}{Co z toho budu mít?}
-{574}{}{Nemám zájem o úklid vašeho nepoøádku.}
-{580}{}{Protoe nezaútoèí na své vlastní druhy. Chápou, proè se musím zbavit jejich ménì šastnıch bratrù, ale sami to neudìlají, co mì zanechalo v ponìkud prekérní situaci. A proto jsem byl nadšen, kdy jsem se dozvìdìl o vašem pøíchodu. Take, pomùete mi?}
-{581}{}{Tak dobøe. Udìlám to.}
-{582}{}{Co z toho budu mít?}
-{583}{}{Nemám zájem o úklid vašeho nepoøádku.}
-{590}{}{Laboratoø je kousek támhle na sever. Stráe vás pustí dovnitø. Dávejte si pozor, ty pøíšery jsou úasnì silné, take si je nepouštìjte moc k tìlu. Jo a pozor na jedovaté spóry, které vystøelují. Ale nemusíte se obávat, mám protijed pro pøípad otravy.}
-{591}{}{Dobøe. Ještì se vrátím.}
-{592}{}{Úasnì silné a vystøelují jedovaté spóry? Tak v tom pøípadì budu muset odmítnout.}
-{600}{}{Dám vám peníze samozøejmì. A také mám informaci, která by vás mohla velice zajímat. Pomùete mi tedy?}
-{601}{}{Tak dobøe. Udìlám to.}
-{602}{}{Nemám zájem o úklid vašeho nepoøádku.}
-{610}{}{(Podívá se na tebe s oèekáváním.)}
-{611}{}{Vrátím se, a vyøídím ty pøíšery v laboratoøi.}
-{612}{}{Všechny pøíšery v laboratoøi jsou mrtvé.}
-{613}{}{Všechny pøíšery v laboratoøi jsou mrtvé, ale mám otravu. Neøíkal jste nìco o protijedu?}
-{620}{}{Ano, hned vám ho podám. Tady.}
-{621}{}{Ách. U se cítím lépe.}
-{630}{}{Škoda, e jsme se museli zbavit tìch exempláøù, ale bylo to nezbytné, jinak bych se nemohl vrátit do své laboratoøe. Dobrá práce. Tady je vaše finanèní odmìna. (Pøedá ti $1000.) Druhá polovina vaší odmìny je ve formì informace a s ní spojenı další úkol.}
-{631}{}{Škoda, e jsme se museli zbavit tìch exempláøù, ale bylo to nezbytné, jinak bych se nemohl vrátit do své laboratoøe. Dobrá práce. Za odmìnu vám poskytnu informaci a s ní spojenı další úkol.}
-{632}{}{Poslouchám.}
-{633}{}{Zapomeòte na to. Nechte si tu informaci. U vám nebudu pomáhat.}
-{640}{}{Vıbornì. Obdreli Shi ten vzorek, kterı jsem vám dal?}
-{641}{}{No, eh ... vlastnì ne. Zapomnìl jsem jim to dát.}
-{700}{}{Podaøilo se ti vyèistit laboratoø Dr. Shenga.}
-{710}{}{Semena rostlin byla doruèena Dr. Shengovi.}
-{800}{}{*vzdych* Ááách...}
+{520}{}{Genetickou Ãºpravou! DÃ­ky kouzelnÃ½m schopnostem vÄ›dy se mi podaÅ™ilo vytvoÅ™it botanickÃ© sÃ©rum vnÃ­mÃ¡nÃ­. OvÅ¡em pouhÃ© zvÃ½Å¡enÃ­ inteligence rostlin na lidskou ÃºroveÅˆ bylo pouze poloviÄnÃ­m ÃºspÄ›chem. VÄ›dÄ›l jsem, Å¾e k vyuÅ¾itÃ­ plnÃ©ho potenciÃ¡lu takovÃ© inteligence je zapotÅ™ebÃ­ humanoidnÃ­ tÄ›lo a smysly.}
+{521}{}{Aha, a pÅ™esnÄ› tady pÅ™ichÃ¡zÃ­ na Å™adu ty 'ÄerstvÃ© lidskÃ© mrtvoly'. MusÃ­te mi Å™Ã­ct, jak se vÃ¡m vÅ¡e podaÅ™ilo propojit, zejmÃ©na lidskÃ½ nervovÃ½ systÃ©m. A navÃ­c neÅ¾ivÃ½. NevidÄ›t to na vlastnÃ­ oÄi, tak nevÄ›Å™Ã­m, Å¾e je to vÅ¯bec moÅ¾nÃ©.}
+{530}{}{Tak dobÅ™e, sice neslibuji, Å¾e pochopÃ­te vÅ¡e, co vÃ¡m Å™eknu, ale pokusÃ­m se to vysvÄ›tlit co nejlÃ©pe. (DvÄ› hodiny strÃ¡vÃ­ vysvÄ›tlovÃ¡nÃ­m postupÅ¯ svÃ½ch experimentÅ¯ jako horlivÃ½ Å™eÄnÃ­k kÃ¡zajÃ­cÃ­ o svÃ©m bohovi vÅ¡em zaujatÃ½m posluchaÄÅ¯m, pÅ™iÄemÅ¾ samozÅ™ejmÄ› nezapomene zmÃ­nit svÃ© ÃºspÄ›chy.)}
+{531}{}{[VÃ­ce]}
+{540}{}{TakÅ¾e teÄ uÅ¾ tomu doufÃ¡m rozumÃ­te.}
+{541}{}{Ano, rozumÃ­m. PÅ™iÅ¡lo mi to jako zcela nemoÅ¾nÃ©, ale tak, jak jste to popsal, uÅ¾ to dÃ¡vÃ¡ smysl. A to s tÄ›mi houbami je pÅ™Ã­mo geniÃ¡lnÃ­! MorbidnÃ­, ale geniÃ¡lnÃ­. Ale jednu vÄ›c jste zapomnÄ›l vysvÄ›tlit. Odkud pÅ™esnÄ› berete ty 'ÄerstvÃ© lidskÃ© mrtvoly'?}
+{550}{}{ZadrÅ¾te. Dr. Wong bude tak trochu pÅ™ekÃ¡Å¾kou. Pokud by ho nÄ›kdo odstranil, Å¡lo by vÅ¡e mnohem snadnÄ›ji. PÅ™edejte Dr. Wongovi ten vzorek. I kdyby mi nevÄ›Å™il, jeho zvÄ›davost ho pÅ™emÅ¯Å¾e a pÅ™ijme ho. Jakmile ten vzorek nÄ›kam uloÅ¾Ã­, najdÄ›te zpÅ¯sob, jak zlikvidovat Dr. Wonga, aniÅ¾ by si toho ostatnÃ­ Shi vÅ¡imli. TÅ™eba pÅ™edÃ¡vkovÃ¡nÃ­m. UdÄ›lejte to a dostanete trojnÃ¡sobnou odmÄ›nu.}
+{551}{}{UvidÃ­m, co se dÃ¡ dÄ›lat.}
+{552}{}{Jestli chcete Wonga mrtvÃ©ho, tam mi dejte nÄ›co pÅ™edem.}
+{553}{}{VÃ­te, zaÄÃ­nÃ¡ to bÃ½t trochu komplikovanÃ©. MyslÃ­m, Å¾e vÃ¡s radÄ›ji zmasakruju a potom zmasakruju i Shi.}
+{554}{}{Dr. Wonga pro vÃ¡s v Å¾Ã¡dnÃ©m pÅ™Ã­padÄ› nezabiju. SkonÄili jsme spolu.}
+{560}{}{VÃ½bornÄ› a co Dr. Wong?}
+{561}{}{Je stÃ¡le naÅ¾ivu. VrÃ¡tÃ­m se, aÅ¾ ho vyÅ™Ã­dÃ­m.}
+{562}{}{Nezabiju pro vÃ¡s Dr. Wonga. ObdrÅ¾eli ode mÄ› ten vzorek a tÃ­m jsme spolu skonÄili.}
+{570}{}{PotÅ™ebuji je zlikvidovat a vy vypadÃ¡te jako nÄ›kdo, pro koho to nebude Å¾Ã¡dnÃ½ problÃ©m.}
+{571}{}{ProÄ tam radÄ›ji nepoÅ¡lete ty, eh, ÃºspÄ›Å¡nÄ›jÅ¡Ã­ vÃ½tvory, aby je vyÅ™Ã­dili?}
+{572}{}{To znÃ­ jako zÃ¡bava. UdÄ›lÃ¡m to.}
+{573}{}{Co z toho budu mÃ­t?}
+{574}{}{NemÃ¡m zÃ¡jem o Ãºklid vaÅ¡eho nepoÅ™Ã¡dku.}
+{580}{}{ProtoÅ¾e nezaÃºtoÄÃ­ na svÃ© vlastnÃ­ druhy. ChÃ¡pou, proÄ se musÃ­m zbavit jejich mÃ©nÄ› Å¡Å¥astnÃ½ch bratrÅ¯, ale sami to neudÄ›lajÃ­, coÅ¾ mÄ› zanechalo v ponÄ›kud prekÃ©rnÃ­ situaci. A proto jsem byl nadÅ¡en, kdyÅ¾ jsem se dozvÄ›dÄ›l o vaÅ¡em pÅ™Ã­chodu. TakÅ¾e, pomÅ¯Å¾ete mi?}
+{581}{}{Tak dobÅ™e. UdÄ›lÃ¡m to.}
+{582}{}{Co z toho budu mÃ­t?}
+{583}{}{NemÃ¡m zÃ¡jem o Ãºklid vaÅ¡eho nepoÅ™Ã¡dku.}
+{590}{}{LaboratoÅ™ je kousek tÃ¡mhle na sever. StrÃ¡Å¾e vÃ¡s pustÃ­ dovnitÅ™. DÃ¡vejte si pozor, ty pÅ™Ã­Å¡ery jsou ÃºÅ¾asnÄ› silnÃ©, takÅ¾e si je nepouÅ¡tÄ›jte moc k tÄ›lu. Jo a pozor na jedovatÃ© spÃ³ry, kterÃ© vystÅ™elujÃ­. Ale nemusÃ­te se obÃ¡vat, mÃ¡m protijed pro pÅ™Ã­pad otravy.}
+{591}{}{DobÅ™e. JeÅ¡tÄ› se vrÃ¡tÃ­m.}
+{592}{}{ÃšÅ¾asnÄ› silnÃ© a vystÅ™elujÃ­ jedovatÃ© spÃ³ry? Tak v tom pÅ™Ã­padÄ› budu muset odmÃ­tnout.}
+{600}{}{DÃ¡m vÃ¡m penÃ­ze samozÅ™ejmÄ›. A takÃ© mÃ¡m informaci, kterÃ¡ by vÃ¡s mohla velice zajÃ­mat. PomÅ¯Å¾ete mi tedy?}
+{601}{}{Tak dobÅ™e. UdÄ›lÃ¡m to.}
+{602}{}{NemÃ¡m zÃ¡jem o Ãºklid vaÅ¡eho nepoÅ™Ã¡dku.}
+{610}{}{(PodÃ­vÃ¡ se na tebe s oÄekÃ¡vÃ¡nÃ­m.)}
+{611}{}{VrÃ¡tÃ­m se, aÅ¾ vyÅ™Ã­dÃ­m ty pÅ™Ã­Å¡ery v laboratoÅ™i.}
+{612}{}{VÅ¡echny pÅ™Ã­Å¡ery v laboratoÅ™i jsou mrtvÃ©.}
+{613}{}{VÅ¡echny pÅ™Ã­Å¡ery v laboratoÅ™i jsou mrtvÃ©, ale mÃ¡m otravu. NeÅ™Ã­kal jste nÄ›co o protijedu?}
+{620}{}{Ano, hned vÃ¡m ho podÃ¡m. Tady.}
+{621}{}{Ãch. UÅ¾ se cÃ­tÃ­m lÃ©pe.}
+{630}{}{Å koda, Å¾e jsme se museli zbavit tÄ›ch exemplÃ¡Å™Å¯, ale bylo to nezbytnÃ©, jinak bych se nemohl vrÃ¡tit do svÃ© laboratoÅ™e. DobrÃ¡ prÃ¡ce. Tady je vaÅ¡e finanÄnÃ­ odmÄ›na. (PÅ™edÃ¡ ti $1000.) DruhÃ¡ polovina vaÅ¡Ã­ odmÄ›ny je ve formÄ› informace a s nÃ­ spojenÃ½ dalÅ¡Ã­ Ãºkol.}
+{631}{}{Å koda, Å¾e jsme se museli zbavit tÄ›ch exemplÃ¡Å™Å¯, ale bylo to nezbytnÃ©, jinak bych se nemohl vrÃ¡tit do svÃ© laboratoÅ™e. DobrÃ¡ prÃ¡ce. Za odmÄ›nu vÃ¡m poskytnu informaci a s nÃ­ spojenÃ½ dalÅ¡Ã­ Ãºkol.}
+{632}{}{PoslouchÃ¡m.}
+{633}{}{ZapomeÅˆte na to. Nechte si tu informaci. UÅ¾ vÃ¡m nebudu pomÃ¡hat.}
+{640}{}{VÃ½bornÄ›. ObdrÅ¾eli Shi ten vzorek, kterÃ½ jsem vÃ¡m dal?}
+{641}{}{No, eh ... vlastnÄ› ne. ZapomnÄ›l jsem jim to dÃ¡t.}
+{700}{}{PodaÅ™ilo se ti vyÄistit laboratoÅ™ Dr. Shenga.}
+{710}{}{Semena rostlin byla doruÄena Dr. Shengovi.}
+{800}{}{*vzdych* ÃÃ¡Ã¡ch...}

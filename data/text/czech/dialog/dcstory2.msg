@@ -1,64 +1,64 @@
-{100}{}{Vidíš návštìvníka baru.}
-{101}{}{Vidíš Stacy.}
-{102}{}{Vypadá trochu smutnì.}
-{103}{}{Pøestaò!}
+{100}{}{VidÃ­Å¡ nÃ¡vÅ¡tÄ›vnÃ­ka baru.}
+{101}{}{VidÃ­Å¡ Stacy.}
+{102}{}{VypadÃ¡ trochu smutnÄ›.}
+{103}{}{PÅ™estaÅˆ!}
 {104}{}{Jak jsi jen mohl?}
-{105}{}{Jdìte ode mì!}
+{105}{}{JdÄ›te ode mÄ›!}
 {106}{}{Jak to?}
-{107}{}{Prosím, pøestaò!}
+{107}{}{ProsÃ­m, pÅ™estaÅˆ!}
 {108}{}{Vrahu!}
-{109}{}{Chudák Máma! Za to zaplatíš!}
-{110}{}{Mámo...}
-{111}{}{Byla ke všem tak milá...}
-{112}{}{Promiò, nedokáu myslet na nic jiného.}
-{113}{}{Mùj mozek je úplnì vyèerpanı.}
+{109}{}{ChudÃ¡k MÃ¡ma! Za to zaplatÃ­Å¡!}
+{110}{}{MÃ¡mo...}
+{111}{}{Byla ke vÅ¡em tak milÃ¡...}
+{112}{}{PromiÅˆ, nedokÃ¡Å¾u myslet na nic jinÃ©ho.}
+{113}{}{MÅ¯j mozek je ÃºplnÄ› vyÄerpanÃ½.}
 {114}{}{To je ono.}
 {115}{}{Ahoj.}
-{116}{}{U jsi pozdravil Mámu?}
+{116}{}{UÅ¾ jsi pozdravil MÃ¡mu?}
 {117}{}{Och, ahoj.}
-{118}{}{Zdravím.}
-{119}{}{Povìz mi o své koèce.}
-{120}{}{Proè se tak mraèíš?}
-{121}{}{Chodíš sem èasto?}
-{122}{}{Promluvíme si pozdìji. Nashle.}
-{123}{}{Dobe?}
+{118}{}{ZdravÃ­m.}
+{119}{}{PovÄ›z mi o svÃ© koÄce.}
+{120}{}{ProÄ se tak mraÄÃ­Å¡?}
+{121}{}{ChodÃ­Å¡ sem Äasto?}
+{122}{}{PromluvÃ­me si pozdÄ›ji. Nashle.}
+{123}{}{DobÅ¾e?}
 {124}{}{Eh.}
-{131}{}{Prosím, neobtìuj mì. Nemám zrovna dobrou náladu.}
+{131}{}{ProsÃ­m, neobtÄ›Å¾uj mÄ›. NemÃ¡m zrovna dobrou nÃ¡ladu.}
 {132}{}{Ugra.}
 {133}{}{Fegi.}
-{134}{}{Ále, to nic. Jenom obèas pøemıšlím o své mámì a koèce. Obì mi moc chybí.}
-{135}{}{Koèce?}
-{136}{}{To mì mrzí. Nashle.}
-{137}{}{Jo, Kulièka. Byla to taková roztomilá koèièka. Nemám náladu o tom mluvit... pokud mi ovšem nechceš koupit pití. To by pomohlo.}
-{138}{}{Jak jsem øekla, nechci o tom teï mluvit... pokud mi ovšem nechceš koupit pití. To by se mi moná rozvázal jazyk.}
-{139}{}{Samozøejmì, e chci. Chci to slyšet.}
-{140}{}{Jasnì.}
-{141}{}{Promiò, nemám zrovna $10.}
-{142}{}{Jasnì.}
-{143}{}{Myslíš, e jsi vtipnej? Vymysli si nìco lepšího.}
-{144}{}{Proè se tak mraèíš?}
-{145}{}{Jak chceš, nashle.}
-{146}{}{Slyšela jsem, e tu kdysi byly takové, co byly veliké asi tak jako já nebo ty. Zbaštily na posezení zvíøata o velikosti brahmíny. Je to docela strašidelné.}
-{147}{}{To nic není.}
+{134}{}{Ãle, to nic. Jenom obÄas pÅ™emÃ½Å¡lÃ­m o svÃ© mÃ¡mÄ› a koÄce. ObÄ› mi moc chybÃ­.}
+{135}{}{KoÄce?}
+{136}{}{To mÄ› mrzÃ­. Nashle.}
+{137}{}{Jo, KuliÄka. Byla to takovÃ¡ roztomilÃ¡ koÄiÄka. NemÃ¡m nÃ¡ladu o tom mluvit... pokud mi ovÅ¡em nechceÅ¡ koupit pitÃ­. To by pomohlo.}
+{138}{}{Jak jsem Å™ekla, nechci o tom teÄ mluvit... pokud mi ovÅ¡em nechceÅ¡ koupit pitÃ­. To by se mi moÅ¾nÃ¡ rozvÃ¡zal jazyk.}
+{139}{}{SamozÅ™ejmÄ›, Å¾e chci. Chci to slyÅ¡et.}
+{140}{}{JasnÄ›.}
+{141}{}{PromiÅˆ, nemÃ¡m zrovna $10.}
+{142}{}{JasnÄ›.}
+{143}{}{MyslÃ­Å¡, Å¾e jsi vtipnej? Vymysli si nÄ›co lepÅ¡Ã­ho.}
+{144}{}{ProÄ se tak mraÄÃ­Å¡?}
+{145}{}{Jak chceÅ¡, nashle.}
+{146}{}{SlyÅ¡ela jsem, Å¾e tu kdysi byly takovÃ©, co byly velikÃ© asi tak jako jÃ¡ nebo ty. ZbaÅ¡tily na posezenÃ­ zvÃ­Å™ata o velikosti brahmÃ­ny. Je to docela straÅ¡idelnÃ©.}
+{147}{}{To nic nenÃ­.}
 {148}{}{Jo, to je.}
-{149}{}{To stvoøení, o kterém mluvím, je malé roztomilé zvíøátko. Vìtší ne krysa, ale menší ne pes. Nìkteré jsou hodnì chlupaté jako moje Kulièka, ale jiné mají krátkou srst.}
+{149}{}{To stvoÅ™enÃ­, o kterÃ©m mluvÃ­m, je malÃ© roztomilÃ© zvÃ­Å™Ã¡tko. VÄ›tÅ¡Ã­ neÅ¾ krysa, ale menÅ¡Ã­ neÅ¾ pes. NÄ›kterÃ© jsou hodnÄ› chlupatÃ© jako moje KuliÄka, ale jinÃ© majÃ­ krÃ¡tkou srst.}
 {150}{}{Opravdu?}
-{151}{}{Nechají se hladit stejnì jako psi, ale koèky pøi tom vydávají takovı krásnı, vrnivı, uklidòující zvuk.}
-{152}{}{Zvláštní.}
-{153}{}{Kulièka mi vdycky v noci pomáhala usnout. Myslím na ni kadou noc, kdy se snaím usnout.}
-{154}{}{To zní hezky.}
-{155}{}{Pokraèuj.}
-{156}{}{Mìla jsem ji, kdy jsem byla dítì, ale jednoho dne zmizela. Tehdy jsem nevìdìla, co se s ní stalo, byla jsem moc malá.}
+{151}{}{NechajÃ­ se hladit stejnÄ› jako psi, ale koÄky pÅ™i tom vydÃ¡vajÃ­ takovÃ½ krÃ¡snÃ½, vrnivÃ½, uklidÅˆujÃ­cÃ­ zvuk.}
+{152}{}{ZvlÃ¡Å¡tnÃ­.}
+{153}{}{KuliÄka mi vÅ¾dycky v noci pomÃ¡hala usnout. MyslÃ­m na ni kaÅ¾dou noc, kdyÅ¾ se snaÅ¾Ã­m usnout.}
+{154}{}{To znÃ­ hezky.}
+{155}{}{PokraÄuj.}
+{156}{}{MÄ›la jsem ji, kdyÅ¾ jsem byla dÃ­tÄ›, ale jednoho dne zmizela. Tehdy jsem nevÄ›dÄ›la, co se s nÃ­ stalo, byla jsem moc malÃ¡.}
 {157}{}{Jak to?}
-{158}{}{No, tenkrát bylo málo jídla a lidé potøebovali jíst. Je to strašnì smutné...}
-{159}{}{Coe?}
-{160}{}{Lidé je lovili, protoe byly snadná koøist. Díky tomu u tady v okolí taky na ádnou nenarazíš.}
-{161}{}{To je nechutné!}
-{162}{}{Chápu.}
-{163}{}{Ovšem ty byly divoké, ta moje nebyla, ale jsem si jistá, e se jí stalo úplnì to samé. Teï u vím, proè ji Máma poøád sledovala.}
-{164}{}{To je smutné.}
-{165}{}{To je mi líto.}
+{158}{}{No, tenkrÃ¡t bylo mÃ¡lo jÃ­dla a lidÃ© potÅ™ebovali jÃ­st. Je to straÅ¡nÄ› smutnÃ©...}
+{159}{}{CoÅ¾e?}
+{160}{}{LidÃ© je lovili, protoÅ¾e byly snadnÃ¡ koÅ™ist. DÃ­ky tomu uÅ¾ tady v okolÃ­ taky na Å¾Ã¡dnou nenarazÃ­Å¡.}
+{161}{}{To je nechutnÃ©!}
+{162}{}{ChÃ¡pu.}
+{163}{}{OvÅ¡em ty byly divokÃ©, ta moje nebyla, ale jsem si jistÃ¡, Å¾e se jÃ­ stalo ÃºplnÄ› to samÃ©. TeÄ uÅ¾ vÃ­m, proÄ ji MÃ¡ma poÅ™Ã¡d sledovala.}
+{164}{}{To je smutnÃ©.}
+{165}{}{To je mi lÃ­to.}
 {166}{}{Och...}
-{167}{}{Bolí mì srdce, kdy si na to vzpomenu...}
+{167}{}{BolÃ­ mÄ› srdce, kdyÅ¾ si na to vzpomenu...}
 {168}{}{Nashle.}
-{169}{}{Stacy ti povìdìla pøíbìh o své roztomilé koèce Kulièce.}
+{169}{}{Stacy ti povÄ›dÄ›la pÅ™Ã­bÄ›h o svÃ© roztomilÃ© koÄce KuliÄce.}

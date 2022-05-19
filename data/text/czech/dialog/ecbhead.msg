@@ -1,37 +1,37 @@
-{100}{}{Vidíš velkı kamennı monument. Zdá se, e... si pro sebe nìco mumlá?}
-{101}{}{Vidíš kamennı monument v podobì hlavy Zakladatele. Podoba je docela vìrná, i kdy pochybuješ, e jeho hlava byla tak veliká.}
-{102}{}{Vidíš velkı kamennı monument.}
-{103}{}{Vidíš kamennı monument v podobì hlavy Zakladatele. Podoba je docela vìrná, i kdy pochybuješ, e jeho hlava byla tak veliká.}
-{104}{}{Zatracení turisti...}
-{105}{}{"Jsem Vyvolenı"}
-{106}{}{Bıt tebou, Vyvolenı, zmizel bych odsud.}
+{100}{}{VidÃ­Å¡ velkÃ½ kamennÃ½ monument. ZdÃ¡ se, Å¾e... si pro sebe nÄ›co mumlÃ¡?}
+{101}{}{VidÃ­Å¡ kamennÃ½ monument v podobÄ› hlavy Zakladatele. Podoba je docela vÄ›rnÃ¡, i kdyÅ¾ pochybujeÅ¡, Å¾e jeho hlava byla tak velikÃ¡.}
+{102}{}{VidÃ­Å¡ velkÃ½ kamennÃ½ monument.}
+{103}{}{VidÃ­Å¡ kamennÃ½ monument v podobÄ› hlavy Zakladatele. Podoba je docela vÄ›rnÃ¡, i kdyÅ¾ pochybujeÅ¡, Å¾e jeho hlava byla tak velikÃ¡.}
+{104}{}{ZatracenÃ­ turisti...}
+{105}{}{"Jsem VyvolenÃ½"}
+{106}{}{BÃ½t tebou, VyvolenÃ½, zmizel bych odsud.}
 {107}{}{Chrrrr chrrrr chrrrrrrrr}
 {108}{}{Chrrrrrrrrrrrrr}
 {109}{}{Chrvrrv... *chrr*... chrrrrrrrr}
 {110}{}{Chrrrrrvvvvvrrrrrr}
 {111}{}{Chrrrrrrvvvvvvvvrrrrrrr}
-{112}{}{Pøál bych si, abych vidìl, co je za mnou.}
-{113}{}{Kdyby tak nìkdo pøišel a vykopal mì celého...}
-{114}{}{Ti kamenoraví mravenci tady jistì kadou chvíli budou a seerou mì.}
-{115}{}{"Staò se velikou kamennou hlavou! Uvidíš svìt!" Takové kecy.}
-{116}{}{Nemám nejmenší tušení, jak jsem se ocitl uprostøed téhle pouštì.}
-{117}{}{Poøád nechápu, proè musím bıt tady uprostøed pouštì, zatímco ta druhá hlava si spokojenì hoví ve vesnici.}
-{118}{}{Tím chci øíct, e ji uctívají, èistí, lidé se k ní modlí... a já se mùu akorát tak celı den dívat na písek.}
-{119}{}{Slyšel jsem, e se ti kluci na Velikonoèních ostrovech nemají špatnì.}
-{120}{}{Vsadím se, e má Stonehenge vìtší návštìvnost ne já.}
-{121}{}{Hrnnfff... ehhh, mami... dneska nejdu do školy... chrrrrrrr}
-{122}{}{Chrrrrrrrrrr... ještì nechci vstávat... chrrrrrrr}
+{112}{}{PÅ™Ã¡l bych si, abych vidÄ›l, co je za mnou.}
+{113}{}{Kdyby tak nÄ›kdo pÅ™iÅ¡el a vykopal mÄ› celÃ©ho...}
+{114}{}{Ti kamenoÅ¾ravÃ­ mravenci tady jistÄ› kaÅ¾dou chvÃ­li budou a seÅ¾erou mÄ›.}
+{115}{}{"StaÅˆ se velikou kamennou hlavou! UvidÃ­Å¡ svÄ›t!" TakovÃ© kecy.}
+{116}{}{NemÃ¡m nejmenÅ¡Ã­ tuÅ¡enÃ­, jak jsem se ocitl uprostÅ™ed tÃ©hle pouÅ¡tÄ›.}
+{117}{}{PoÅ™Ã¡d nechÃ¡pu, proÄ musÃ­m bÃ½t tady uprostÅ™ed pouÅ¡tÄ›, zatÃ­mco ta druhÃ¡ hlava si spokojenÄ› hovÃ­ ve vesnici.}
+{118}{}{TÃ­m chci Å™Ã­ct, Å¾e ji uctÃ­vajÃ­, ÄistÃ­, lidÃ© se k nÃ­ modlÃ­... a jÃ¡ se mÅ¯Å¾u akorÃ¡t tak celÃ½ den dÃ­vat na pÃ­sek.}
+{119}{}{SlyÅ¡el jsem, Å¾e se ti kluci na VelikonoÄnÃ­ch ostrovech nemajÃ­ Å¡patnÄ›.}
+{120}{}{VsadÃ­m se, Å¾e mÃ¡ Stonehenge vÄ›tÅ¡Ã­ nÃ¡vÅ¡tÄ›vnost neÅ¾ jÃ¡.}
+{121}{}{Hrnnfff... ehhh, mami... dneska nejdu do Å¡koly... chrrrrrrr}
+{122}{}{Chrrrrrrrrrr... jeÅ¡tÄ› nechci vstÃ¡vat... chrrrrrrr}
 {123}{}{Chrrrrrrrr... eh?}
 {124}{}{Co...?}
-{125}{}{DEJ TY ZATRACENİ PRACKY PRYÈ!}
-{126}{}{Hráè by se mìl otoèit, udìlat nìkolik krokù dozadu a znovu se otoèit èelem k monumentu.}
+{125}{}{DEJ TY ZATRACENÃ PRACKY PRYÄŒ!}
+{126}{}{HrÃ¡Ä by se mÄ›l otoÄit, udÄ›lat nÄ›kolik krokÅ¯ dozadu a znovu se otoÄit Äelem k monumentu.}
 {127}{}{*Ehm*}
-{128}{}{KDO SE OPOVAUJE PØISTOUPIT K POSVÁTNÉ HLAVÌ ZAKLADATELE?!}
-{129}{}{Já, Vyvolenı.}
+{128}{}{KDO SE OPOVAÅ½UJE PÅ˜ISTOUPIT K POSVÃTNÃ‰ HLAVÄš ZAKLADATELE?!}
+{129}{}{JÃ¡, VyvolenÃ½.}
 {130}{}{HAHAHAHAHAHA!}
-{131}{}{*TY*?! A VYVOLENİ?!}
-{132}{}{VDY NEJSI VÌTŠÍ NE MÙJ PRST!}
-{133}{}{TY *NEJSI* VYVOLENİ.}
+{131}{}{*TY*?! A VYVOLENÃ?!}
+{132}{}{VÅ½DYÅ¤ NEJSI VÄšTÅ Ã NEÅ½ MÅ®J PRST!}
+{133}{}{TY *NEJSI* VYVOLENÃ.}
 {134}{}{Jo, jsem.}
 {135}{}{NE, NEJSI.}
 {136}{}{Jo, jsem.}
@@ -42,24 +42,24 @@
 {141}{}{E... e...}
 {142}{}{E... he...}
 {143}{}{E... DOST! NECH TOHO!}
-{144}{}{NO DOBØE! PØESVÌDÈIL JSI MÌ!}
-{145}{}{TY *JSI* VYVOLENİ!}
+{144}{}{NO DOBÅ˜E! PÅ˜ESVÄšDÄŒIL JSI MÄš!}
+{145}{}{TY *JSI* VYVOLENÃ!}
 {146}{}{VEM SI TOHLE!}
-{147}{}{A TEÏ ODEJDI!}
-{148}{}{Hej, díky!}
-{149}{}{NO JO. A TEÏ VYPADNI.}
-{150}{}{ZATRACENÍ TURISTI.}
-{151}{}{U JSEM TI DÁREK DAL.}
+{147}{}{A TEÄ ODEJDI!}
+{148}{}{Hej, dÃ­ky!}
+{149}{}{NO JO. A TEÄ VYPADNI.}
+{150}{}{ZATRACENÃ TURISTI.}
+{151}{}{UÅ½ JSEM TI DÃREK DAL.}
 {152}{}{ZMIZ!}
 {153}{}{Idiote.}
-{154}{}{CO?! TY MÌ CHCEŠ OKRÁST?!}
-{155}{}{ZEMØI!}
-{156}{}{Rozloit hráèe pomocí animace plazmové smrti.}
-{200}{}{(O 12 hodin pozdìji.)}
-{1129}{}{Já Vyvolenı.}
-{1134}{}{Já bıt.}
-{1136}{}{Já bıt!}
+{154}{}{CO?! TY MÄš CHCEÅ  OKRÃST?!}
+{155}{}{ZEMÅ˜I!}
+{156}{}{RozloÅ¾it hrÃ¡Äe pomocÃ­ animace plazmovÃ© smrti.}
+{200}{}{(O 12 hodin pozdÄ›ji.)}
+{1129}{}{JÃ¡ VyvolenÃ½.}
+{1134}{}{JÃ¡ bÃ½t.}
+{1136}{}{JÃ¡ bÃ½t!}
 {1138}{}{Aha.}
 {1140}{}{Aha.}
 {1142}{}{E... he...}
-{1148}{}{Dík!}
+{1148}{}{DÃ­k!}

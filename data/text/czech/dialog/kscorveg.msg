@@ -1,10 +1,10 @@
-{100}{}{Starı, rozbitı Highwayman.}
-{110}{}{Tento stroj je na tom ještì hùø, ne se na první pohled zdá. Tohle u nikdo neopraví. Ale vypadá to, e na zadním sedadle je krabice s náhradními díly k motoru, kterı vypadá celkem zachovale.}
-{111}{}{Tento stroj vypadá dost bídnì. Na zadním sedadle je nìjakı balík.}
-{112}{}{Tento stroj vypadá témìø stejnì jako všechny ostatní kolem. Zdá se, e na zadním sedadle je nìjakı balík.}
-{113}{}{Tento starı stroj je ve skvìlém stavu! Vsadím se, e se to dá nìjak opravit, ale nejsou náhradní souèástky...}
-{120}{}{Motor vypadá dost zrezivìle a témìø neopravitelnì. Pøi prohlíení auta nacházíš láhev palivovıch aditiv, které vypadají, e budou urèitì velmi dobøe hoøet.}
-{121}{}{Tento motor není nic jiného ne rezavá hromada šrotu, která se rozpadne na kusy a otevøeš kapotu.}
-{122}{}{Toto je nìco pro opravdového mechanika. Bohuel nemáš zkušenosti ani souèástky na to, abys to teï mohl opravit.}
-{123}{}{Vypadá to, e tohle bejby u je témìø pøipraveno øádit. Ještì párkrát otoèit tímhle šroubem... (Rychle uskoèíš, kdy motor vypadne z auta a rozbije se na hromadu šrotu a náhradních dílu.)}
-{130}{}{Na zadním sedadle nacházíš regulátor pøívodu paliva.}
+{100}{}{StarÃ½, rozbitÃ½ Highwayman.}
+{110}{}{Tento stroj je na tom jeÅ¡tÄ› hÅ¯Å™, neÅ¾ se na prvnÃ­ pohled zdÃ¡. Tohle uÅ¾ nikdo neopravÃ­. Ale vypadÃ¡ to, Å¾e na zadnÃ­m sedadle je krabice s nÃ¡hradnÃ­mi dÃ­ly k motoru, kterÃ½ vypadÃ¡ celkem zachovale.}
+{111}{}{Tento stroj vypadÃ¡ dost bÃ­dnÄ›. Na zadnÃ­m sedadle je nÄ›jakÃ½ balÃ­k.}
+{112}{}{Tento stroj vypadÃ¡ tÃ©mÄ›Å™ stejnÄ› jako vÅ¡echny ostatnÃ­ kolem. ZdÃ¡ se, Å¾e na zadnÃ­m sedadle je nÄ›jakÃ½ balÃ­k.}
+{113}{}{Tento starÃ½ stroj je ve skvÄ›lÃ©m stavu! VsadÃ­m se, Å¾e se to dÃ¡ nÄ›jak opravit, ale nejsou nÃ¡hradnÃ­ souÄÃ¡stky...}
+{120}{}{Motor vypadÃ¡ dost zrezivÄ›le a tÃ©mÄ›Å™ neopravitelnÄ›. PÅ™i prohlÃ­Å¾enÃ­ auta nachÃ¡zÃ­Å¡ lÃ¡hev palivovÃ½ch aditiv, kterÃ© vypadajÃ­, Å¾e budou urÄitÄ› velmi dobÅ™e hoÅ™et.}
+{121}{}{Tento motor nenÃ­ nic jinÃ©ho neÅ¾ rezavÃ¡ hromada Å¡rotu, kterÃ¡ se rozpadne na kusy aÅ¾ otevÅ™eÅ¡ kapotu.}
+{122}{}{Toto je nÄ›co pro opravdovÃ©ho mechanika. BohuÅ¾el nemÃ¡Å¡ zkuÅ¡enosti ani souÄÃ¡stky na to, abys to teÄ mohl opravit.}
+{123}{}{VypadÃ¡ to, Å¾e tohle bejby uÅ¾ je tÃ©mÄ›Å™ pÅ™ipraveno Å™Ã¡dit. JeÅ¡tÄ› pÃ¡rkrÃ¡t otoÄit tÃ­mhle Å¡roubem... (Rychle uskoÄÃ­Å¡, kdyÅ¾ motor vypadne z auta a rozbije se na hromadu Å¡rotu a nÃ¡hradnÃ­ch dÃ­lu.)}
+{130}{}{Na zadnÃ­m sedadle nachÃ¡zÃ­Å¡ regulÃ¡tor pÅ™Ã­vodu paliva.}

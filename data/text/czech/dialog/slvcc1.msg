@@ -1,31 +1,31 @@
-{100}{}{Vidíš zamraèeného otrokáøe ve špinavém obleèení.}
-{101}{}{Vidíš drsnì vypadajícího otrokáøe. Vypadá to, e tomu tady velí.}
-{102}{}{Vidíš Dona, šéfa zdejšího tábora.}
-{105}{}{Hej, co to má kurva znamenat?! Kdo sakra jseš?}
-{106}{}{Jsem tvá nejhorší noèní mùra. Pøiprav se na smrt!}
-{107}{}{Posílá mì Metzger.}
-{108}{}{Chci se k vám pøidat.}
-{109}{}{Eh, asi jsem na špatné adrese...}
-{200}{}{Ty první, kreténe.}
-{201}{}{Na tohle nemám èas. Na nì, hoši.}
-{202}{}{Pøidat se k nám? Tohle není ádnı posranı náborovı centrum. Jestli se chceš pøidat k otrokáøùm, jdi do Denu a promluv si s Metzgerem. Potøebuješ teï ještì nìco, nebo mì chceš jenom nasrat?}
-{203}{}{Metzger? (Trochu znejistí.) Neøíkej mi, e chce další otroky? No kurva, vdy jsme mu jednu várku pøed tejdnem poslali.}
-{300}{}{Vlastnì ano, nìco ještì potøebuju.}
-{301}{}{Take, proè tady jseš?}
-{302}{}{Myslím, e u nic nepotøebuju.}
-{303}{}{No tak odsud kurva vypadni. Nemáš tady co pohledávat a nejseš tu vítanej.}
-{304}{}{Odcházím.}
-{305}{}{Neboj, odejdu, ale nejdøív zabiju tebe i tvı kámoše.}
-{307}{}{Ano, chce. Potøebuje se postarat o zábavu nìjakého vlivného èlovìka z New Rena, take chce nìkolik novıch dívek. Ale pokud nemùeš ádné postrádat... tak bude urèitì nadšenı, a pøijdu s prázdnou.}
-{308}{}{(Na jeho potetovaném èele se objeví pot.) Hej, tak poèkat. Neøekl jsem, e nemùu ádnı postrádat. Tady si vezmi klíè od chatrèe, dríme tam naše, ehm, osobní favoritky. Dalo by se øíct, e je to vıbìr toho nejlepšího ze všeho toho odpadu. (Podá ti klíè a nervóznì se usmìje.)}
-{309}{}{Díky. Pøimluvím se za tebe. Sbohem.}
-{310}{}{Tak Metzger tì poslal, jo? Myslíš, e jsem slepej? Vdy na sobì nemáš ani naši posranou znaèku. Nevím, kdo jseš, ale podle mì pìknì kecáš a jen plejtváš mım èasem. A za to zemøeš. (Dává signál svım muùm.) Vyøídíme tohodle sráèe.}
-{311}{}{Jo, jasnì. Podle mì kecáš a jen plejtváš mım èasem. A za to zemøeš. (Dává signál svım muùm.) Vyøídíme tohodle sráèe.}
-{400}{}{Nemám èas. Jestli chceš na hon, jdi za Metzgerem do Denu.}
-{450}{}{Neøekl jsem ti snad a vypadneš? Nemáme rádi vetøelce. Èas zemøít.}
+{100}{}{VidÃ­Å¡ zamraÄenÃ©ho otrokÃ¡Å™e ve Å¡pinavÃ©m obleÄenÃ­.}
+{101}{}{VidÃ­Å¡ drsnÄ› vypadajÃ­cÃ­ho otrokÃ¡Å™e. VypadÃ¡ to, Å¾e tomu tady velÃ­.}
+{102}{}{VidÃ­Å¡ Dona, Å¡Ã©fa zdejÅ¡Ã­ho tÃ¡bora.}
+{105}{}{Hej, co to mÃ¡ kurva znamenat?! Kdo sakra jseÅ¡?}
+{106}{}{Jsem tvÃ¡ nejhorÅ¡Ã­ noÄnÃ­ mÅ¯ra. PÅ™iprav se na smrt!}
+{107}{}{PosÃ­lÃ¡ mÄ› Metzger.}
+{108}{}{Chci se k vÃ¡m pÅ™idat.}
+{109}{}{Eh, asi jsem na Å¡patnÃ© adrese...}
+{200}{}{Ty prvnÃ­, kretÃ©ne.}
+{201}{}{Na tohle nemÃ¡m Äas. Na nÄ›, hoÅ¡i.}
+{202}{}{PÅ™idat se k nÃ¡m? Tohle nenÃ­ Å¾Ã¡dnÃ½ posranÃ½ nÃ¡borovÃ½ centrum. Jestli se chceÅ¡ pÅ™idat k otrokÃ¡Å™Å¯m, jdi do Denu a promluv si s Metzgerem. PotÅ™ebujeÅ¡ teÄ jeÅ¡tÄ› nÄ›co, nebo mÄ› chceÅ¡ jenom nasrat?}
+{203}{}{Metzger? (Trochu znejistÃ­.) NeÅ™Ã­kej mi, Å¾e chce dalÅ¡Ã­ otroky? No kurva, vÅ¾dyÅ¥ jsme mu jednu vÃ¡rku pÅ™ed tejdnem poslali.}
+{300}{}{VlastnÄ› ano, nÄ›co jeÅ¡tÄ› potÅ™ebuju.}
+{301}{}{TakÅ¾e, proÄ tady jseÅ¡?}
+{302}{}{MyslÃ­m, Å¾e uÅ¾ nic nepotÅ™ebuju.}
+{303}{}{No tak odsud kurva vypadni. NemÃ¡Å¡ tady co pohledÃ¡vat a nejseÅ¡ tu vÃ­tanej.}
+{304}{}{OdchÃ¡zÃ­m.}
+{305}{}{Neboj, odejdu, ale nejdÅ™Ã­v zabiju tebe i tvÃ½ kÃ¡moÅ¡e.}
+{307}{}{Ano, chce. PotÅ™ebuje se postarat o zÃ¡bavu nÄ›jakÃ©ho vlivnÃ©ho ÄlovÄ›ka z New Rena, takÅ¾e chce nÄ›kolik novÃ½ch dÃ­vek. Ale pokud nemÅ¯Å¾eÅ¡ Å¾Ã¡dnÃ© postrÃ¡dat... tak bude urÄitÄ› nadÅ¡enÃ½, aÅ¾ pÅ™ijdu s prÃ¡zdnou.}
+{308}{}{(Na jeho potetovanÃ©m Äele se objevÃ­ pot.) Hej, tak poÄkat. NeÅ™ekl jsem, Å¾e nemÅ¯Å¾u Å¾Ã¡dnÃ½ postrÃ¡dat. Tady si vezmi klÃ­Ä od chatrÄe, drÅ¾Ã­me tam naÅ¡e, ehm, osobnÃ­ favoritky. Dalo by se Å™Ã­ct, Å¾e je to vÃ½bÄ›r toho nejlepÅ¡Ã­ho ze vÅ¡eho toho odpadu. (PodÃ¡ ti klÃ­Ä a nervÃ³znÄ› se usmÄ›je.)}
+{309}{}{DÃ­ky. PÅ™imluvÃ­m se za tebe. Sbohem.}
+{310}{}{Tak Metzger tÄ› poslal, jo? MyslÃ­Å¡, Å¾e jsem slepej? VÅ¾dyÅ¥ na sobÄ› nemÃ¡Å¡ ani naÅ¡i posranou znaÄku. NevÃ­m, kdo jseÅ¡, ale podle mÄ› pÄ›knÄ› kecÃ¡Å¡ a jen plejtvÃ¡Å¡ mÃ½m Äasem. A za to zemÅ™eÅ¡. (DÃ¡vÃ¡ signÃ¡l svÃ½m muÅ¾Å¯m.) VyÅ™Ã­dÃ­me tohodle srÃ¡Äe.}
+{311}{}{Jo, jasnÄ›. Podle mÄ› kecÃ¡Å¡ a jen plejtvÃ¡Å¡ mÃ½m Äasem. A za to zemÅ™eÅ¡. (DÃ¡vÃ¡ signÃ¡l svÃ½m muÅ¾Å¯m.) VyÅ™Ã­dÃ­me tohodle srÃ¡Äe.}
+{400}{}{NemÃ¡m Äas. Jestli chceÅ¡ na hon, jdi za Metzgerem do Denu.}
+{450}{}{NeÅ™ekl jsem ti snad aÅ¥ vypadneÅ¡? NemÃ¡me rÃ¡di vetÅ™elce. ÄŒas zemÅ™Ã­t.}
 {500}{}{[KONEC]}
-{600}{}{Teï chcípneš!}
-{601}{}{Chcípni, Rangerská špíno!}
-{800}{}{Eh... pozdravuj ode mì Metzgera.}
-{900}{}{Ne, ve skuteènosti mì sem poslal, a se podívám na tvoje zboí. Víš, mám ponìkud zvláštní poadavky, ale dobøe ti za to zaplatím.}
-{901}{}{Hovno. Metzger sem ještì nikdy neposlal ádnıho zákazníka. Nevím, o co se tu snaíš, ale máš tøi sekundy na to, abys mi kurva zmizel z oèí, ne øeknu svejm hochùm, aby do tebe napumpovali olovo.}
+{600}{}{TeÄ chcÃ­pneÅ¡!}
+{601}{}{ChcÃ­pni, RangerskÃ¡ Å¡pÃ­no!}
+{800}{}{Eh... pozdravuj ode mÄ› Metzgera.}
+{900}{}{Ne, ve skuteÄnosti mÄ› sem poslal, aÅ¥ se podÃ­vÃ¡m na tvoje zboÅ¾Ã­. VÃ­Å¡, mÃ¡m ponÄ›kud zvlÃ¡Å¡tnÃ­ poÅ¾adavky, ale dobÅ™e ti za to zaplatÃ­m.}
+{901}{}{Hovno. Metzger sem jeÅ¡tÄ› nikdy neposlal Å¾Ã¡dnÃ½ho zÃ¡kaznÃ­ka. NevÃ­m, o co se tu snaÅ¾Ã­Å¡, ale mÃ¡Å¡ tÅ™i sekundy na to, abys mi kurva zmizel z oÄÃ­, neÅ¾ Å™eknu svejm hochÅ¯m, aby do tebe napumpovali olovo.}

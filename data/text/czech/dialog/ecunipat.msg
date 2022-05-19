@@ -1,13 +1,13 @@
 {100}{}{Za Jednotu!}
 {101}{}{Odrazte je, chlapi!}
-{102}{}{Zabte vetøelce!}
-{103}{}{Braòte mìsto!}
+{102}{}{Zabte vetÅ™elce!}
+{103}{}{BraÅˆte mÄ›sto!}
 {104}{}{Pohyb! Pohyb! Pohyb!}
-{105}{}{Pozor! Rangeøi!}
-{106}{}{Padáme odsud!}
-{107}{}{A sakra... zrovna, kdy jsem si myslel, e u jsme v bezpeèí. U nejsme! U nejsme!}
-{108}{}{Utíkejte!}
-{109}{}{Chovej se k našim lidem s úctou.}
-{110}{}{Neporušuj zákon.}
-{111}{}{Pokud by tì napadlo dìlat potíe, vzpomeò si na nás. Chovej se slušnì a Marcus se tak bude chovat taky.}
-{112}{}{U nás v Broken Hills ijí mírumilovní lidé, ale umíme i bojovat.}
+{105}{}{Pozor! RangeÅ™i!}
+{106}{}{PadÃ¡me odsud!}
+{107}{}{A sakra... zrovna, kdyÅ¾ jsem si myslel, Å¾e uÅ¾ jsme v bezpeÄÃ­. UÅ¾ nejsme! UÅ¾ nejsme!}
+{108}{}{UtÃ­kejte!}
+{109}{}{Chovej se k naÅ¡im lidem s Ãºctou.}
+{110}{}{NeporuÅ¡uj zÃ¡kon.}
+{111}{}{Pokud by tÄ› napadlo dÄ›lat potÃ­Å¾e, vzpomeÅˆ si na nÃ¡s. Chovej se sluÅ¡nÄ› a Marcus se tak bude chovat taky.}
+{112}{}{U nÃ¡s v Broken Hills Å¾ijÃ­ mÃ­rumilovnÃ­ lidÃ©, ale umÃ­me i bojovat.}

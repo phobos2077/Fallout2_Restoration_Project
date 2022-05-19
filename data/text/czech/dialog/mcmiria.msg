@@ -1,98 +1,98 @@
-{100}{}{Pane jo! Svùdnì vypadající ena s velmi pìknou postavou.}
-{101}{}{Vidíš Miriu.}
-{102}{}{Nejsi si úplnì jistı, ale vybaví se ti míry 90-60-90.}
-{150}{}{Dìvko!}
-{151}{}{Jak se opovauješ tu vùbec ukazovat!}
-{152}{}{To je nechutné!}
-{153}{}{Doufám, e spolu budete šastní.}
-{154}{}{Ahoj, cizinèe. Já jsem Miria.}
-{155}{}{Jsem ráda, e jsi zpátky. Co pro tebe teï mùu UDÌLAT?}
-{156}{}{Co tady dìláš?}
-{157}{}{Co mi mùeš øíct o jatkách?}
-{158}{}{Neslyšela jsi nìjaké zajímavé drby?}
+{100}{}{Pane jo! SvÅ¯dnÄ› vypadajÃ­cÃ­ Å¾ena s velmi pÄ›knou postavou.}
+{101}{}{VidÃ­Å¡ Miriu.}
+{102}{}{Nejsi si ÃºplnÄ› jistÃ½, ale vybavÃ­ se ti mÃ­ry 90-60-90.}
+{150}{}{DÄ›vko!}
+{151}{}{Jak se opovaÅ¾ujeÅ¡ tu vÅ¯bec ukazovat!}
+{152}{}{To je nechutnÃ©!}
+{153}{}{DoufÃ¡m, Å¾e spolu budete Å¡Å¥astnÃ­.}
+{154}{}{Ahoj, cizinÄe. JÃ¡ jsem Miria.}
+{155}{}{Jsem rÃ¡da, Å¾e jsi zpÃ¡tky. Co pro tebe teÄ mÅ¯Å¾u UDÄšLAT?}
+{156}{}{Co tady dÄ›lÃ¡Å¡?}
+{157}{}{Co mi mÅ¯Å¾eÅ¡ Å™Ã­ct o jatkÃ¡ch?}
+{158}{}{NeslyÅ¡ela jsi nÄ›jakÃ© zajÃ­mavÃ© drby?}
 {159}{}{Kost! Kost!}
-{160}{}{Kdybych se tak nenudila, øekla bych ti ne. Take se ptej.}
-{164}{}{Øíká se, e ty hodinky ukradl Farrel.}
-{165}{}{Proè by ty hodinky kradl Farrel?}
-{166}{}{Není Farrel nejlepší pøítel Corneliuse?}
-{167}{}{Povìz mi ještì nìjaké drby.}
-{168}{}{Protoe chudí lidé mají sklony ke krádeím. A Farrel urèitì patøí k tìm chudákùm, co by vysvìtlovalo to nové náøadí, které si koupil potom, co zmizely Corneliovy hodinky.}
-{170}{}{Mùu se ještì na nìco zeptat?}
-{171}{}{Ano, ti dva byli døíve velmi dobøí pøátelé a proto si myslím, e ty hodinky ukradl Farrel. Kdo jinı ne Farrel by k tomu mìl pøíleitost?}
-{174}{}{Není o èem mluvit. Moje rodina provozuje místní jatka. Lidé z celého okolí sem pøivádí své brahmíny na poráku. Kdy jsou zvíøata poraena, je maso zpracováno a prodáno obchodníkùm, kteøí je dále prodávají kupcùm ve mìstech. Pro mì je to hrozná nuda.}
-{176}{}{Tak to jsi na správném místì! Tohle mìsto je tak hroznì nudné, e se tu nedá dìlat nic jiného, ne drbat... (Chvíli mluví a a po nìjaké dobì se ti podaøí ji skoèit do øeèi.)}
-{177}{}{Chceš vìdìt ještì nìco?}
-{178}{}{Co víš o ztracenıch hodinkách Corneliuse?}
-{179}{}{Zmínila ses o Róze?}
-{180}{}{Co se povídá o zmutovanıch brahmínách?}
-{181}{}{Povìz mi nìco o Davinovi.}
-{182}{}{Mluvme o nìèem jiném.}
-{183}{}{Jóó, Róza. Majitelka 'Rózina penzionu'. Podívej, nic jsem ti neøekla, ale napadlo tì nìkdy, proè je její 'kurník' tak dobøe chránìnı? Ona øíká, e je to na ochranu svıch slepic pøed dravci, ale kdy se podíváš blí, tak to vypadá, e spíš chce, aby se nìco nedostalo ven. Navíc, kdo kdy slyšel o slepicích, které snáší dvanácti librová vejce?}
-{184}{}{Povìz mi ještì nìjaké drby.}
-{186}{}{Je to opravdu zvláštní, ale nìkteøí farmáøi tvrdí, e se brahmínám obèas narodí tele jen s jednou hlavou. To je opravdu divné!}
-{189}{}{Je z rodiny. Nerozšiøuju drby o vlastní rodinì.}
-{192}{}{Kdo, já? Dìlám jen pøíleitostnou práci. Urèitì nic, co by stálo za øeè. (Mrkne na tebe.)}
-{193}{}{Chci se o tobì dozvìdìt víc.}
-{194}{}{Máš pravdu, dost øeèí. Pojïme na to! Vím, e to chceš.}
-{196}{}{Jsem dojata. Nikdo se mì nikdy nesnail poznat. Chtìjí jenom sex, sex a zase jenom sex! U mì unavuje poøád jen divoce souloit. Jsem ráda, e nejsi jako ostatní.}
-{197}{}{Ty couro! Chvíli se mi zdálo, e jsi jiná.}
-{198}{}{Víš, jsem úplnì normální chlap jako ostatní. Moji pøátelé øíkají: "}
-{199}{}{ jsi úplnì v pohodì, protoe jsi normální jako všichni ostatní." Jo, jsem úplnì normální.}
-{200}{}{No, ještì jsem nepoznal nìkoho tak zajímavého, jako jsi ty.}
-{202}{}{Co e chci? Co tím naznaèuješ?}
-{203}{}{Myslím, e dobøe víš, o èem mluvím, bejby. Vím, e to chceš. (Usmìješ se a zaèneš se svlékat.)}
-{204}{}{Zapomeò na to. Promiò. Nechtìl jsem tím nic naznaèit.}
-{205}{}{Jak se opovauješ mi øíkat couro! Nìco ti povím, nevyspím se jen tak s nìkım, jsem hodnì vybíravá. Tenhle mìsíc jsem spala jen s deseti nebo dvaceti lidmi! A tímhle náš rozhovor skonèil!}
-{206}{}{To je škoda. Jsi jako všichni ostatní, e?}
-{208}{}{Ne. To si nemyslím. Tenhle rozhovor mì u nudí. Sbohem.}
-{209}{}{(Èervená se.) Pøestaò, pøivádíš mì do rozpakù. Jsi poklad. Nechceš jít blí a posadit se ke mnì?}
-{210}{}{Myslím, e zacházíme pøíliš daleko. Nemùeme si jen povídat?}
-{211}{}{U jsem si myslel, e se nezeptáš. Neudìláme si trochu víc pohodlí?}
-{212}{}{Tak jo! Ty víš, co chci, bejby!}
+{160}{}{Kdybych se tak nenudila, Å™ekla bych ti ne. TakÅ¾e se ptej.}
+{164}{}{Å˜Ã­kÃ¡ se, Å¾e ty hodinky ukradl Farrel.}
+{165}{}{ProÄ by ty hodinky kradl Farrel?}
+{166}{}{NenÃ­ Farrel nejlepÅ¡Ã­ pÅ™Ã­tel Corneliuse?}
+{167}{}{PovÄ›z mi jeÅ¡tÄ› nÄ›jakÃ© drby.}
+{168}{}{ProtoÅ¾e chudÃ­ lidÃ© majÃ­ sklony ke krÃ¡deÅ¾Ã­m. A Farrel urÄitÄ› patÅ™Ã­ k tÄ›m chudÃ¡kÅ¯m, coÅ¾ by vysvÄ›tlovalo to novÃ© nÃ¡Å™adÃ­, kterÃ© si koupil potom, co zmizely Corneliovy hodinky.}
+{170}{}{MÅ¯Å¾u se jeÅ¡tÄ› na nÄ›co zeptat?}
+{171}{}{Ano, ti dva byli dÅ™Ã­ve velmi dobÅ™Ã­ pÅ™Ã¡telÃ© a proto si myslÃ­m, Å¾e ty hodinky ukradl Farrel. Kdo jinÃ½ neÅ¾ Farrel by k tomu mÄ›l pÅ™Ã­leÅ¾itost?}
+{174}{}{NenÃ­ o Äem mluvit. Moje rodina provozuje mÃ­stnÃ­ jatka. LidÃ© z celÃ©ho okolÃ­ sem pÅ™ivÃ¡dÃ­ svÃ© brahmÃ­ny na porÃ¡Å¾ku. KdyÅ¾ jsou zvÃ­Å™ata poraÅ¾ena, je maso zpracovÃ¡no a prodÃ¡no obchodnÃ­kÅ¯m, kteÅ™Ã­ je dÃ¡le prodÃ¡vajÃ­ kupcÅ¯m ve mÄ›stech. Pro mÄ› je to hroznÃ¡ nuda.}
+{176}{}{Tak to jsi na sprÃ¡vnÃ©m mÃ­stÄ›! Tohle mÄ›sto je tak hroznÄ› nudnÃ©, Å¾e se tu nedÃ¡ dÄ›lat nic jinÃ©ho, neÅ¾ drbat... (ChvÃ­li mluvÃ­ a aÅ¾ po nÄ›jakÃ© dobÄ› se ti podaÅ™Ã­ ji skoÄit do Å™eÄi.)}
+{177}{}{ChceÅ¡ vÄ›dÄ›t jeÅ¡tÄ› nÄ›co?}
+{178}{}{Co vÃ­Å¡ o ztracenÃ½ch hodinkÃ¡ch Corneliuse?}
+{179}{}{ZmÃ­nila ses o RÃ³ze?}
+{180}{}{Co se povÃ­dÃ¡ o zmutovanÃ½ch brahmÃ­nÃ¡ch?}
+{181}{}{PovÄ›z mi nÄ›co o Davinovi.}
+{182}{}{Mluvme o nÄ›Äem jinÃ©m.}
+{183}{}{JÃ³Ã³, RÃ³za. Majitelka 'RÃ³zina penzionu'. PodÃ­vej, nic jsem ti neÅ™ekla, ale napadlo tÄ› nÄ›kdy, proÄ je jejÃ­ 'kurnÃ­k' tak dobÅ™e chrÃ¡nÄ›nÃ½? Ona Å™Ã­kÃ¡, Å¾e je to na ochranu svÃ½ch slepic pÅ™ed dravci, ale kdyÅ¾ se podÃ­vÃ¡Å¡ blÃ­Å¾, tak to vypadÃ¡, Å¾e spÃ­Å¡ chce, aby se nÄ›co nedostalo ven. NavÃ­c, kdo kdy slyÅ¡el o slepicÃ­ch, kterÃ© snÃ¡Å¡Ã­ dvanÃ¡cti librovÃ¡ vejce?}
+{184}{}{PovÄ›z mi jeÅ¡tÄ› nÄ›jakÃ© drby.}
+{186}{}{Je to opravdu zvlÃ¡Å¡tnÃ­, ale nÄ›kteÅ™Ã­ farmÃ¡Å™i tvrdÃ­, Å¾e se brahmÃ­nÃ¡m obÄas narodÃ­ tele jen s jednou hlavou. To je opravdu divnÃ©!}
+{189}{}{Je z rodiny. NerozÅ¡iÅ™uju drby o vlastnÃ­ rodinÄ›.}
+{192}{}{Kdo, jÃ¡? DÄ›lÃ¡m jen pÅ™Ã­leÅ¾itostnou prÃ¡ci. UrÄitÄ› nic, co by stÃ¡lo za Å™eÄ. (Mrkne na tebe.)}
+{193}{}{Chci se o tobÄ› dozvÄ›dÄ›t vÃ­c.}
+{194}{}{MÃ¡Å¡ pravdu, dost Å™eÄÃ­. PojÄme na to! VÃ­m, Å¾e to chceÅ¡.}
+{196}{}{Jsem dojata. Nikdo se mÄ› nikdy nesnaÅ¾il poznat. ChtÄ›jÃ­ jenom sex, sex a zase jenom sex! UÅ¾ mÄ› unavuje poÅ™Ã¡d jen divoce souloÅ¾it. Jsem rÃ¡da, Å¾e nejsi jako ostatnÃ­.}
+{197}{}{Ty couro! ChvÃ­li se mi zdÃ¡lo, Å¾e jsi jinÃ¡.}
+{198}{}{VÃ­Å¡, jsem ÃºplnÄ› normÃ¡lnÃ­ chlap jako ostatnÃ­. Moji pÅ™Ã¡telÃ© Å™Ã­kajÃ­: "}
+{199}{}{ jsi ÃºplnÄ› v pohodÄ›, protoÅ¾e jsi normÃ¡lnÃ­ jako vÅ¡ichni ostatnÃ­." Jo, jsem ÃºplnÄ› normÃ¡lnÃ­.}
+{200}{}{No, jeÅ¡tÄ› jsem nepoznal nÄ›koho tak zajÃ­mavÃ©ho, jako jsi ty.}
+{202}{}{Co Å¾e chci? Co tÃ­m naznaÄujeÅ¡?}
+{203}{}{MyslÃ­m, Å¾e dobÅ™e vÃ­Å¡, o Äem mluvÃ­m, bejby. VÃ­m, Å¾e to chceÅ¡. (UsmÄ›jeÅ¡ se a zaÄneÅ¡ se svlÃ©kat.)}
+{204}{}{ZapomeÅˆ na to. PromiÅˆ. NechtÄ›l jsem tÃ­m nic naznaÄit.}
+{205}{}{Jak se opovaÅ¾ujeÅ¡ mi Å™Ã­kat couro! NÄ›co ti povÃ­m, nevyspÃ­m se jen tak s nÄ›kÃ½m, jsem hodnÄ› vybÃ­ravÃ¡. Tenhle mÄ›sÃ­c jsem spala jen s deseti nebo dvaceti lidmi! A tÃ­mhle nÃ¡Å¡ rozhovor skonÄil!}
+{206}{}{To je Å¡koda. Jsi jako vÅ¡ichni ostatnÃ­, Å¾e?}
+{208}{}{Ne. To si nemyslÃ­m. Tenhle rozhovor mÄ› uÅ¾ nudÃ­. Sbohem.}
+{209}{}{(ÄŒervenÃ¡ se.) PÅ™estaÅˆ, pÅ™ivÃ¡dÃ­Å¡ mÄ› do rozpakÅ¯. Jsi poklad. NechceÅ¡ jÃ­t blÃ­Å¾ a posadit se ke mnÄ›?}
+{210}{}{MyslÃ­m, Å¾e zachÃ¡zÃ­me pÅ™Ã­liÅ¡ daleko. NemÅ¯Å¾eme si jen povÃ­dat?}
+{211}{}{UÅ¾ jsem si myslel, Å¾e se nezeptÃ¡Å¡. NeudÄ›lÃ¡me si trochu vÃ­c pohodlÃ­?}
+{212}{}{Tak jo! Ty vÃ­Å¡, co chci, bejby!}
 {213}{}{Ty jsi ale coura!}
-{214}{}{U to nevydrím! Jsi dokonalost sama. (Strhá ze sebe svoje šaty, poté tvoje a poté... )}
-{215}{}{(Tvùj ivot u nebude jako døív.)}
-{216}{}{Doufám, e to neznamená to, co si myslím.}
+{214}{}{UÅ¾ to nevydrÅ¾Ã­m! Jsi dokonalost sama. (StrhÃ¡ ze sebe svoje Å¡aty, potÃ© tvoje a potÃ©... )}
+{215}{}{(TvÅ¯j Å¾ivot uÅ¾ nebude jako dÅ™Ã­v.)}
+{216}{}{DoufÃ¡m, Å¾e to neznamenÃ¡ to, co si myslÃ­m.}
 {217}{}{Auuuuu!}
 {218}{}{He?}
-{219}{}{Jo! To jsem si myslela. Je legraèní, jak se na toto téma dorozumí dva tak odlišné jazyky, jako je neandrtálština a civilizovaná øeè. (Vùbec jsi tu facku neèekal, ale doufáš, e èervenı obtisk ruky na tvé tváøi èasem zmizí.)}
-{250}{}{Pomóóc, tatínku! A mì pustí!}
-{251}{}{Pus mì!}
-{260}{}{Pomóóc, tatínku! A mì nechá bıt!}
-{270}{}{Pomoc! A mì pustí!}
-{280}{}{Pomoc! A mì nechá bıt!}
-{400}{}{Tatínku!}
+{219}{}{Jo! To jsem si myslela. Je legraÄnÃ­, jak se na toto tÃ©ma dorozumÃ­ dva tak odliÅ¡nÃ© jazyky, jako je neandrtÃ¡lÅ¡tina a civilizovanÃ¡ Å™eÄ. (VÅ¯bec jsi tu facku neÄekal, ale doufÃ¡Å¡, Å¾e ÄervenÃ½ obtisk ruky na tvÃ© tvÃ¡Å™i Äasem zmizÃ­.)}
+{250}{}{PomÃ³Ã³c, tatÃ­nku! AÅ¥ mÄ› pustÃ­!}
+{251}{}{PusÅ¥ mÄ›!}
+{260}{}{PomÃ³Ã³c, tatÃ­nku! AÅ¥ mÄ› nechÃ¡ bÃ½t!}
+{270}{}{Pomoc! AÅ¥ mÄ› pustÃ­!}
+{280}{}{Pomoc! AÅ¥ mÄ› nechÃ¡ bÃ½t!}
+{400}{}{TatÃ­nku!}
 {401}{}{Jejda!}
 {402}{}{ANO!}
 {410}{}{Eh...}
-{411}{}{Eh... pokraèujte prosím...}
-{412}{}{Tak urèitì...}
+{411}{}{Eh... pokraÄujte prosÃ­m...}
+{412}{}{Tak urÄitÄ›...}
 {413}{}{Eh... ano.}
-{420}{}{Strıèku Biffe!}
-{450}{}{Eh, budeš si muset promluvit s tatínkem.}
-{470}{}{Ehhh, budeš si muset promluvit se strıèkem Biffem.}
-{500}{}{No skvìlı. Tak to vypadá, e mám teï tuhle díru na starost.}
-{1000}{}{A co budeme dìlat teï, brouku?}
-{1001}{}{A co budeme dìlat teï, zlatíèko?}
-{1002}{}{A co budeme dìlat teï, lásko?}
-{1003}{}{A co budeme dìlat teï, miláèku?}
-{1004}{}{A co budeme dìlat teï, cukrouši?}
-{1005}{}{Ne, ne, ne... nemyslím tenhle druh vzdálenosti! Chci jen, aby ses drela trochu dál.}
-{1006}{}{V klidu, bejby, jen mi nech trochu víc místa.}
-{1007}{}{Budu se víc snait, brouku, ale prostì není tak jednoduché "nás" dva rozdìlit.}
+{420}{}{StrÃ½Äku Biffe!}
+{450}{}{Eh, budeÅ¡ si muset promluvit s tatÃ­nkem.}
+{470}{}{Ehhh, budeÅ¡ si muset promluvit se strÃ½Äkem Biffem.}
+{500}{}{No skvÄ›lÃ½. Tak to vypadÃ¡, Å¾e mÃ¡m teÄ tuhle dÃ­ru na starost.}
+{1000}{}{A co budeme dÄ›lat teÄ, brouku?}
+{1001}{}{A co budeme dÄ›lat teÄ, zlatÃ­Äko?}
+{1002}{}{A co budeme dÄ›lat teÄ, lÃ¡sko?}
+{1003}{}{A co budeme dÄ›lat teÄ, milÃ¡Äku?}
+{1004}{}{A co budeme dÄ›lat teÄ, cukrouÅ¡i?}
+{1005}{}{Ne, ne, ne... nemyslÃ­m tenhle druh vzdÃ¡lenosti! Chci jen, aby ses drÅ¾ela trochu dÃ¡l.}
+{1006}{}{V klidu, bejby, jen mi nech trochu vÃ­c mÃ­sta.}
+{1007}{}{Budu se vÃ­c snaÅ¾it, brouku, ale prostÄ› nenÃ­ tak jednoduchÃ© "nÃ¡s" dva rozdÄ›lit.}
 {1008}{}{Co je moje, to je tvoje.}
-{1009}{}{Dobøe, èumáèku, ale opravdu si mám sundat jenom zbroj?}
-{1010}{}{Ostré zbranì jako tøeba noe mì vzrušují, aèkoliv v nouzi dokáu pouít i samopal. Ale neèekej, e se do nìèeho trefím.}
-{1020}{}{Musíme si promluvit o vzdálenosti mezi námi.}
-{1100}{}{U jsem úplnì vyléèená a pøipravená vyrazit.}
-{1200}{}{U mám jen pár škrábancù.}
-{1300}{}{No, jsem témìø zdravá, ale v nejbliší dobì budu potøebovat další léky.}
-{1400}{}{Vyléèila jsem se, jak jen to šlo, ale poøád jsem dost zranìná.}
-{1500}{}{Ne, brouku. Chci jít s tebou.}
-{1600}{}{Jistì, dám to pryè.}
+{1009}{}{DobÅ™e, ÄumÃ¡Äku, ale opravdu si mÃ¡m sundat jenom zbroj?}
+{1010}{}{OstrÃ© zbranÄ› jako tÅ™eba noÅ¾e mÄ› vzruÅ¡ujÃ­, aÄkoliv v nouzi dokÃ¡Å¾u pouÅ¾Ã­t i samopal. Ale neÄekej, Å¾e se do nÄ›Äeho trefÃ­m.}
+{1020}{}{MusÃ­me si promluvit o vzdÃ¡lenosti mezi nÃ¡mi.}
+{1100}{}{UÅ¾ jsem ÃºplnÄ› vylÃ©ÄenÃ¡ a pÅ™ipravenÃ¡ vyrazit.}
+{1200}{}{UÅ¾ mÃ¡m jen pÃ¡r Å¡krÃ¡bancÅ¯.}
+{1300}{}{No, jsem tÃ©mÄ›Å™ zdravÃ¡, ale v nejbliÅ¾Å¡Ã­ dobÄ› budu potÅ™ebovat dalÅ¡Ã­ lÃ©ky.}
+{1400}{}{VylÃ©Äila jsem se, jak jen to Å¡lo, ale poÅ™Ã¡d jsem dost zranÄ›nÃ¡.}
+{1500}{}{Ne, brouku. Chci jÃ­t s tebou.}
+{1600}{}{JistÄ›, dÃ¡m to pryÄ.}
 {1700}{}{}
-{1800}{}{Ne, ne, kvìtinko. Chci tì mít nablízku.}
-{1900}{}{Ale to bych nemohla bıt s tebou, cukroušku.}
-{2000}{}{Asi jsem si nìco zlomila. Mùeš se mi na to podívat?}
-{2001}{}{Je mi nìjak špatnì, lásko. Asi jsem ozáøená.}
-{2002}{}{Je mi hroznì špatnì, lásko. Asi jsem otrávená.}
+{1800}{}{Ne, ne, kvÄ›tinko. Chci tÄ› mÃ­t nablÃ­zku.}
+{1900}{}{Ale to bych nemohla bÃ½t s tebou, cukrouÅ¡ku.}
+{2000}{}{Asi jsem si nÄ›co zlomila. MÅ¯Å¾eÅ¡ se mi na to podÃ­vat?}
+{2001}{}{Je mi nÄ›jak Å¡patnÄ›, lÃ¡sko. Asi jsem ozÃ¡Å™enÃ¡.}
+{2002}{}{Je mi hroznÄ› Å¡patnÄ›, lÃ¡sko. Asi jsem otrÃ¡venÃ¡.}

@@ -1,24 +1,24 @@
-{100}{}{Vidíš nervóznì vypadajícího chlapíka v kombinéze.}
-{101}{}{Vidíš Ferndowna, obchodního agenta z Vault City.}
-{102}{}{Vidíš útlého, nervóznì vypadajícího mue v ušpinìné kombinéze vaultu.}
-{103}{}{Obávám se, e ti nemùeme zaplatit za opuštìní karavany. Jsem si jistı, e pøesnì kvùli tomu zemøel Ben.}
-{104}{}{Opravdu si myslíš, e bych odmìnil zlodìje? Máš štìstí, e jsem tì nenechal zlynèovat. Nic ti nezaplatím. Teï vypadni.}
-{105}{}{Zlodìj? Tu poznámku si budu pamatovat, ty zatracenej nevdìèníku! Odcházím. Sbohem.}
-{106}{}{To tì bude jednou mrzet. Sbohem.}
-{107}{}{Tvoje karavana mìla tolik ztrát, e vùbec pochybuju, e byla práce dokonèena. Nepoèítej ádnou s odmìnou.}
-{108}{}{Ty jeden proradnej bastarde! To tì bude jednou mrzet. Sbohem.}
-{109}{}{No, nìkdy holt štìstí nepøeje. Jako tøeba v tomhle pøípadì. Sbohem.}
-{110}{}{Neztratili jsme sice úplnì celou karavanu, ale ztratili jsme víc, ne si mùeme dovolit. Kdybys svoji práci udìlal poøádnì, dostal bys víc ne $50.}
-{111}{}{No, lepší nìco ne nic. Sbohem.}
-{112}{}{Ty jeden bastarde. Nikdo by neodvedl lepší práci ne já. Jednou za to zaplatíš. Sbohem.}
-{113}{}{To nebylo tak špatné. Tady máš $100. Bude chvíli trvat, ne seeneme nového správce karavany, take nevím, kdy zase pøíštì vyrazíme.}
-{114}{}{U nikdy nechci strávit tolik èasu pozorováním brahmíních zadkù. Sbohem.}
-{115}{}{To nebylo tak špatné. Uvidíme se pozdìji. Sbohem.}
-{116}{}{To byla vıborná jízda. Ani nevím, jak by to dopadlo, kdybys s náma nebyl. Tady máš $100 plus $50 za skvìlou práci. Ještì jednou díky. Škoda, e se toho nedoil Ben.}
-{117}{}{Koneènì potkávám nìkoho, kdo je schopen ocenit moji práci. Uvidíme se pozdìji... moná. Sbohem.}
-{118}{}{Nikdy nepohrdnu penìzi navíc. Díky a sbohem.}
-{119}{}{Nemùu uvìøit, e Ben pøijal takového idiota, jako jsi ty. No, zdá se, e to byla jeho poslední dobroèinná akce. Buï rád, e jsi vùbec naivu. Sbohem.}
+{100}{}{VidÃ­Å¡ nervÃ³znÄ› vypadajÃ­cÃ­ho chlapÃ­ka v kombinÃ©ze.}
+{101}{}{VidÃ­Å¡ Ferndowna, obchodnÃ­ho agenta z Vault City.}
+{102}{}{VidÃ­Å¡ ÃºtlÃ©ho, nervÃ³znÄ› vypadajÃ­cÃ­ho muÅ¾e v uÅ¡pinÄ›nÃ© kombinÃ©ze vaultu.}
+{103}{}{ObÃ¡vÃ¡m se, Å¾e ti nemÅ¯Å¾eme zaplatit za opuÅ¡tÄ›nÃ­ karavany. Jsem si jistÃ½, Å¾e pÅ™esnÄ› kvÅ¯li tomu zemÅ™el Ben.}
+{104}{}{Opravdu si myslÃ­Å¡, Å¾e bych odmÄ›nil zlodÄ›je? MÃ¡Å¡ Å¡tÄ›stÃ­, Å¾e jsem tÄ› nenechal zlynÄovat. Nic ti nezaplatÃ­m. TeÄ vypadni.}
+{105}{}{ZlodÄ›j? Tu poznÃ¡mku si budu pamatovat, ty zatracenej nevdÄ›ÄnÃ­ku! OdchÃ¡zÃ­m. Sbohem.}
+{106}{}{To tÄ› bude jednou mrzet. Sbohem.}
+{107}{}{Tvoje karavana mÄ›la tolik ztrÃ¡t, Å¾e vÅ¯bec pochybuju, Å¾e byla prÃ¡ce dokonÄena. NepoÄÃ­tej Å¾Ã¡dnou s odmÄ›nou.}
+{108}{}{Ty jeden proradnej bastarde! To tÄ› bude jednou mrzet. Sbohem.}
+{109}{}{No, nÄ›kdy holt Å¡tÄ›stÃ­ nepÅ™eje. Jako tÅ™eba v tomhle pÅ™Ã­padÄ›. Sbohem.}
+{110}{}{Neztratili jsme sice ÃºplnÄ› celou karavanu, ale ztratili jsme vÃ­c, neÅ¾ si mÅ¯Å¾eme dovolit. Kdybys svoji prÃ¡ci udÄ›lal poÅ™Ã¡dnÄ›, dostal bys vÃ­c neÅ¾ $50.}
+{111}{}{No, lepÅ¡Ã­ nÄ›co neÅ¾ nic. Sbohem.}
+{112}{}{Ty jeden bastarde. Nikdo by neodvedl lepÅ¡Ã­ prÃ¡ci neÅ¾ jÃ¡. Jednou za to zaplatÃ­Å¡. Sbohem.}
+{113}{}{To nebylo tak Å¡patnÃ©. Tady mÃ¡Å¡ $100. Bude chvÃ­li trvat, neÅ¾ seÅ¾eneme novÃ©ho sprÃ¡vce karavany, takÅ¾e nevÃ­m, kdy zase pÅ™Ã­Å¡tÄ› vyrazÃ­me.}
+{114}{}{UÅ¾ nikdy nechci strÃ¡vit tolik Äasu pozorovÃ¡nÃ­m brahmÃ­nÃ­ch zadkÅ¯. Sbohem.}
+{115}{}{To nebylo tak Å¡patnÃ©. UvidÃ­me se pozdÄ›ji. Sbohem.}
+{116}{}{To byla vÃ½bornÃ¡ jÃ­zda. Ani nevÃ­m, jak by to dopadlo, kdybys s nÃ¡ma nebyl. Tady mÃ¡Å¡ $100 plus $50 za skvÄ›lou prÃ¡ci. JeÅ¡tÄ› jednou dÃ­ky. Å koda, Å¾e se toho nedoÅ¾il Ben.}
+{117}{}{KoneÄnÄ› potkÃ¡vÃ¡m nÄ›koho, kdo je schopen ocenit moji prÃ¡ci. UvidÃ­me se pozdÄ›ji... moÅ¾nÃ¡. Sbohem.}
+{118}{}{Nikdy nepohrdnu penÄ›zi navÃ­c. DÃ­ky a sbohem.}
+{119}{}{NemÅ¯Å¾u uvÄ›Å™it, Å¾e Ben pÅ™ijal takovÃ©ho idiota, jako jsi ty. No, zdÃ¡ se, Å¾e to byla jeho poslednÃ­ dobroÄinnÃ¡ akce. BuÄ rÃ¡d, Å¾e jsi vÅ¯bec naÅ¾ivu. Sbohem.}
 {120}{}{Ook?}
-{121}{}{Je mi líto Bena Wada. Byl to dobrı chlap a jen tak nìkdo ho nenahradí. Jmenuju se Ferndown a zaplatím ti to, co ti dluíme.}
-{122}{}{Eh, díky.}
-{123}{}{Je mi líto Bena Wada. Byl to dobrı chlap.}
+{121}{}{Je mi lÃ­to Bena Wada. Byl to dobrÃ½ chlap a jen tak nÄ›kdo ho nenahradÃ­. Jmenuju se Ferndown a zaplatÃ­m ti to, co ti dluÅ¾Ã­me.}
+{122}{}{Eh, dÃ­ky.}
+{123}{}{Je mi lÃ­to Bena Wada. Byl to dobrÃ½ chlap.}

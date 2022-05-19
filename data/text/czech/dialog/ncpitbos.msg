@@ -1,165 +1,165 @@
-{100}{}{Vidíš šéfa spodního patra kasína.}
-{150}{}{Vidíš dobøe obleèeného mue. Hlídá kasíno.}
-{151}{}{Vidíš šéfa spodního patra kasína. Hlídá kasíno.}
+{100}{}{VidÃ­Å¡ Å¡Ã©fa spodnÃ­ho patra kasÃ­na.}
+{150}{}{VidÃ­Å¡ dobÅ™e obleÄenÃ©ho muÅ¾e. HlÃ­dÃ¡ kasÃ­no.}
+{151}{}{VidÃ­Å¡ Å¡Ã©fa spodnÃ­ho patra kasÃ­na. HlÃ­dÃ¡ kasÃ­no.}
 {200}{}{Eh... budete si muset sundat tu zbroj.}
 {201}{}{Eh, pane... nebo madam... budete si muset sundat tu zbroj.}
-{202}{}{Pane... madam... tohle nemùete nosit v kasínu.}
-{205}{}{Eh, proè se tady tak plííte, pane?}
-{206}{}{Eh, jste snad v utajení, pane?}
-{210}{}{Eh, proè se tady tak plííte, madam?}
-{211}{}{Eh, jste snad v utajení, madam?}
-{215}{}{Dobrı veèer, }
-{216}{}{Brı veèer, }
-{220}{}{Dobrı veèer, }
-{221}{}{Brı veèer, }
-{225}{}{Dobrı den, }
-{226}{}{Dobrı den, }
-{230}{}{Dobrı den, }
-{231}{}{Dobrı den, }
-{235}{}{Jseš ve špatnım kasínu, pøíteli.}
-{236}{}{Mìla bys radši odejít. Hned.}
-{237}{}{Jestli tu zùstaneš, hazarduješ se svım ivotem. Radši odejdi.}
-{238}{}{Jseš ve špatnım kasínu, dìvko.}
-{245}{}{Je mi líto, pane, ale tu zbraò budete muset dát pryè.}
-{250}{}{Je mi líto, madam, ale tu zbraò budete muset dát pryè.}
-{255}{}{Do tohohle kasína nemùeš se zbranìmi, zlato. Hehe... u tak jsi smrtící i bez nich.}
-{260}{}{S takovouhle figurou se nikam neproplííš, zlato.}
-{265}{}{Radši bys mìl tu zbraò schovat, divochu. HNED.}
-{270}{}{Divochu, pøestaò se tu kurva plíit. HNED.}
-{275}{}{Nazdar, nazdar... Myrone! U jsem tì dlouho nevidìl vylízt z laboratoøe.}
-{276}{}{Jdeš vyzkoušet to novı 'zboí', Myrone?}
-{277}{}{Nazdar! Pojï dovnitø, Myrone.}
-{280}{}{Jasnì. Co chceš vìdìt?}
+{202}{}{Pane... madam... tohle nemÅ¯Å¾ete nosit v kasÃ­nu.}
+{205}{}{Eh, proÄ se tady tak plÃ­Å¾Ã­te, pane?}
+{206}{}{Eh, jste snad v utajenÃ­, pane?}
+{210}{}{Eh, proÄ se tady tak plÃ­Å¾Ã­te, madam?}
+{211}{}{Eh, jste snad v utajenÃ­, madam?}
+{215}{}{DobrÃ½ veÄer, }
+{216}{}{BrÃ½ veÄer, }
+{220}{}{DobrÃ½ veÄer, }
+{221}{}{BrÃ½ veÄer, }
+{225}{}{DobrÃ½ den, }
+{226}{}{DobrÃ½ den, }
+{230}{}{DobrÃ½ den, }
+{231}{}{DobrÃ½ den, }
+{235}{}{JseÅ¡ ve Å¡patnÃ½m kasÃ­nu, pÅ™Ã­teli.}
+{236}{}{MÄ›la bys radÅ¡i odejÃ­t. Hned.}
+{237}{}{Jestli tu zÅ¯staneÅ¡, hazardujeÅ¡ se svÃ½m Å¾ivotem. RadÅ¡i odejdi.}
+{238}{}{JseÅ¡ ve Å¡patnÃ½m kasÃ­nu, dÄ›vko.}
+{245}{}{Je mi lÃ­to, pane, ale tu zbraÅˆ budete muset dÃ¡t pryÄ.}
+{250}{}{Je mi lÃ­to, madam, ale tu zbraÅˆ budete muset dÃ¡t pryÄ.}
+{255}{}{Do tohohle kasÃ­na nemÅ¯Å¾eÅ¡ se zbranÄ›mi, zlato. Hehe... uÅ¾ tak jsi smrtÃ­cÃ­ i bez nich.}
+{260}{}{S takovouhle figurou se nikam neproplÃ­Å¾Ã­Å¡, zlato.}
+{265}{}{RadÅ¡i bys mÄ›l tu zbraÅˆ schovat, divochu. HNED.}
+{270}{}{Divochu, pÅ™estaÅˆ se tu kurva plÃ­Å¾it. HNED.}
+{275}{}{Nazdar, nazdar... Myrone! UÅ¾ jsem tÄ› dlouho nevidÄ›l vylÃ­zt z laboratoÅ™e.}
+{276}{}{JdeÅ¡ vyzkouÅ¡et to novÃ½ 'zboÅ¾Ã­', Myrone?}
+{277}{}{Nazdar! PojÄ dovnitÅ™, Myrone.}
+{280}{}{JasnÄ›. Co chceÅ¡ vÄ›dÄ›t?}
 {281}{}{Fooooooo foo foo fooooo.}
 {282}{}{Odbelhat se.}
 {283}{}{Kdo jsi?}
-{284}{}{Co je tohle za kasíno?}
-{285}{}{Mùeš mi øíct nìco o tomhle kasínu?}
-{286}{}{Znáte nìkoho jménem Hezoun Lloyd?}
-{287}{}{Kdo je ten starı chlapík támhle u toho automatu?}
-{288}{}{Ten váš komik je ubohı. Nebude ti vadit, kdy to zkusím?}
-{289}{}{Nepotøebujete taneènici na dnešní veèer? Mohla bych dìlat na polovièní úvazek.}
-{290}{}{Díky, jdu si s ním promluvit.}
-{291}{}{Nic, díky. Promiò, e obtìuju.}
-{292}{}{Jenom se tak dívám. Pokraèuj dál.}
-{295}{}{Droidùm vstup zakázán.}
+{284}{}{Co je tohle za kasÃ­no?}
+{285}{}{MÅ¯Å¾eÅ¡ mi Å™Ã­ct nÄ›co o tomhle kasÃ­nu?}
+{286}{}{ZnÃ¡te nÄ›koho jmÃ©nem Hezoun Lloyd?}
+{287}{}{Kdo je ten starÃ½ chlapÃ­k tÃ¡mhle u toho automatu?}
+{288}{}{Ten vÃ¡Å¡ komik je ubohÃ½. Nebude ti vadit, kdyÅ¾ to zkusÃ­m?}
+{289}{}{NepotÅ™ebujete taneÄnici na dneÅ¡nÃ­ veÄer? Mohla bych dÄ›lat na poloviÄnÃ­ Ãºvazek.}
+{290}{}{DÃ­ky, jdu si s nÃ­m promluvit.}
+{291}{}{Nic, dÃ­ky. PromiÅˆ, Å¾e obtÄ›Å¾uju.}
+{292}{}{Jenom se tak dÃ­vÃ¡m. PokraÄuj dÃ¡l.}
+{295}{}{DroidÅ¯m vstup zakÃ¡zÃ¡n.}
 {296}{}{Droidy neobsluhujeme.}
-{297}{}{ádní droidi. Musí poèkat venku.}
-{300}{}{Eh, mìl byste radìji odejít, pane.}
-{301}{}{Eh, mìla byste radìji odejít, madam.}
+{297}{}{Å½Ã¡dnÃ­ droidi. MusÃ­ poÄkat venku.}
+{300}{}{Eh, mÄ›l byste radÄ›ji odejÃ­t, pane.}
+{301}{}{Eh, mÄ›la byste radÄ›ji odejÃ­t, madam.}
 {302}{}{Vypadni odsud, retarde.}
-{303}{}{Máma øíkat já vıjimešná!}
+{303}{}{MÃ¡ma Å™Ã­kat jÃ¡ vÃ½jimeÅ¡nÃ¡!}
 {304}{}{Odbelhat se.}
-{305}{}{Nemìl bych se sice vykecávat pøi práci, ale jsem rád, e Enklávì koneènì nìkdo nakopal prdel.}
+{305}{}{NemÄ›l bych se sice vykecÃ¡vat pÅ™i prÃ¡ci, ale jsem rÃ¡d, Å¾e EnklÃ¡vÄ› koneÄnÄ› nÄ›kdo nakopal prdel.}
 {306}{}{Nazdar, }
-{310}{}{Potøebujeme další etony na stùl tøi...}
-{311}{}{Dneska je poøádná tlaèenice...}
-{315}{}{Jo, to mi tvoje máma taky øekla. A teï zmiz... tøeba ji najdeš nìkde na ulici Panen.}
-{316}{}{Jo dobøe! Pá pá.}
+{310}{}{PotÅ™ebujeme dalÅ¡Ã­ Å¾etony na stÅ¯l tÅ™i...}
+{311}{}{Dneska je poÅ™Ã¡dnÃ¡ tlaÄenice...}
+{315}{}{Jo, to mi tvoje mÃ¡ma taky Å™ekla. A teÄ zmiz... tÅ™eba ji najdeÅ¡ nÄ›kde na ulici Panen.}
+{316}{}{Jo dobÅ™e! PÃ¡ pÃ¡.}
 {317}{}{Odbelhat se.}
-{320}{}{Potøebujeme další etony na stùl tøi...}
-{321}{}{Dneska veèer je poøádná tlaèenice...}
-{325}{}{Jsem šéf tohohle patra. Co pro tebe mùu udìlat?}
-{326}{}{Šéfuju tomuhle patru kasína. Jestli nìco potøebuješ, staèí øíct.}
-{327}{}{Co je tohle za kasíno?}
-{328}{}{Mùeš mi øíct nìco o tomhle kasínu?}
-{329}{}{Nic, díky. Promiò, e obtìuju.}
+{320}{}{PotÅ™ebujeme dalÅ¡Ã­ Å¾etony na stÅ¯l tÅ™i...}
+{321}{}{Dneska veÄer je poÅ™Ã¡dnÃ¡ tlaÄenice...}
+{325}{}{Jsem Å¡Ã©f tohohle patra. Co pro tebe mÅ¯Å¾u udÄ›lat?}
+{326}{}{Å Ã©fuju tomuhle patru kasÃ­na. Jestli nÄ›co potÅ™ebujeÅ¡, staÄÃ­ Å™Ã­ct.}
+{327}{}{Co je tohle za kasÃ­no?}
+{328}{}{MÅ¯Å¾eÅ¡ mi Å™Ã­ct nÄ›co o tomhle kasÃ­nu?}
+{329}{}{Nic, dÃ­ky. PromiÅˆ, Å¾e obtÄ›Å¾uju.}
 {335}{}{Nazdar, }
-{336}{}{! Slyšel jsem, e vy jste ten, kdo poslal Enklávu zpátky do doby kamenné! Dostal jsem instrukce, a vám dám tyhle etony. Pozornost kasína. Uijte si je, pane.}
-{337}{}{! Slyšel jsem, e vy jste ta, kdo poslal Enklávu zpátky do doby kamenné! Dostal jsem instrukce, a vám dám tyhle etony. Pozornost kasína. Uijte si je, madam.}
-{338}{}{. Co se stalo, šéfe? Pøejete si nìco? Drink? Èíšnici?}
-{339}{}{. Jste ta nejkrásnìjší dívka v celém kasínu. Pøejete si nìco? Pití? Soukromı stùl?}
-{340}{}{Co pro tebe mùu udìlat, kámo?}
-{341}{}{Co pro tebe mùu udìlat, zlato?}
+{336}{}{! SlyÅ¡el jsem, Å¾e vy jste ten, kdo poslal EnklÃ¡vu zpÃ¡tky do doby kamennÃ©! Dostal jsem instrukce, aÅ¥ vÃ¡m dÃ¡m tyhle Å¾etony. Pozornost kasÃ­na. UÅ¾ijte si je, pane.}
+{337}{}{! SlyÅ¡el jsem, Å¾e vy jste ta, kdo poslal EnklÃ¡vu zpÃ¡tky do doby kamennÃ©! Dostal jsem instrukce, aÅ¥ vÃ¡m dÃ¡m tyhle Å¾etony. Pozornost kasÃ­na. UÅ¾ijte si je, madam.}
+{338}{}{. Co se stalo, Å¡Ã©fe? PÅ™ejete si nÄ›co? Drink? ÄŒÃ­Å¡nici?}
+{339}{}{. Jste ta nejkrÃ¡snÄ›jÅ¡Ã­ dÃ­vka v celÃ©m kasÃ­nu. PÅ™ejete si nÄ›co? PitÃ­? SoukromÃ½ stÅ¯l?}
+{340}{}{Co pro tebe mÅ¯Å¾u udÄ›lat, kÃ¡mo?}
+{341}{}{Co pro tebe mÅ¯Å¾u udÄ›lat, zlato?}
 {342}{}{Fooooooo foo foo fooooo.}
 {343}{}{Odbelhat se.}
 {344}{}{Kdo jsi?}
-{345}{}{Co je tohle za kasíno?}
-{346}{}{Mùeš mi øíct nìco o tomhle kasínu?}
-{347}{}{Znáte nìkoho jménem Hezoun Lloyd?}
-{348}{}{Kdo je ten starı chlapík támhle u toho automatu?}
-{349}{}{Ten váš komik je ubohı. Nebude ti vadit, kdy to zkusím?}
-{350}{}{Nepotøebujete taneènici na dnešní veèer? Mohla bych dìlat na polovièní úvazek.}
-{351}{}{Díky, jdu si s ním promluvit.}
-{352}{}{Nic, díky. Promiò, e obtìuju.}
-{353}{}{Jenom se tak dívám. Pokraèuj dál.}
-{355}{}{Rodinì }
-{356}{}{Rodinì }
+{345}{}{Co je tohle za kasÃ­no?}
+{346}{}{MÅ¯Å¾eÅ¡ mi Å™Ã­ct nÄ›co o tomhle kasÃ­nu?}
+{347}{}{ZnÃ¡te nÄ›koho jmÃ©nem Hezoun Lloyd?}
+{348}{}{Kdo je ten starÃ½ chlapÃ­k tÃ¡mhle u toho automatu?}
+{349}{}{Ten vÃ¡Å¡ komik je ubohÃ½. Nebude ti vadit, kdyÅ¾ to zkusÃ­m?}
+{350}{}{NepotÅ™ebujete taneÄnici na dneÅ¡nÃ­ veÄer? Mohla bych dÄ›lat na poloviÄnÃ­ Ãºvazek.}
+{351}{}{DÃ­ky, jdu si s nÃ­m promluvit.}
+{352}{}{Nic, dÃ­ky. PromiÅˆ, Å¾e obtÄ›Å¾uju.}
+{353}{}{Jenom se tak dÃ­vÃ¡m. PokraÄuj dÃ¡l.}
+{355}{}{RodinÄ› }
+{356}{}{RodinÄ› }
 {357}{}{Kdo jsi?}
-{358}{}{Mùeš mi øíct nìco o tomhle kasínu?}
-{359}{}{Rozumím. Díky za tvùj èas.}
-{360}{}{Podívejte kdo tu je! Nazdar, }
-{361}{}{. Vítej v }
+{358}{}{MÅ¯Å¾eÅ¡ mi Å™Ã­ct nÄ›co o tomhle kasÃ­nu?}
+{359}{}{RozumÃ­m. DÃ­ky za tvÅ¯j Äas.}
+{360}{}{PodÃ­vejte kdo tu je! Nazdar, }
+{361}{}{. VÃ­tej v }
 {362}{}{Fooooooo foo foo fooooo.}
 {363}{}{Odbelhat se.}
 {364}{}{Kdo jsi?}
-{365}{}{Co je tohle za kasíno?}
-{366}{}{Mùeš mi øíct nìco o tomhle kasínu?}
-{367}{}{Znáte nìkoho jménem Hezoun Lloyd?}
-{368}{}{Kdo je ten starı chlapík támhle u toho automatu?}
-{369}{}{Díky. Nepotøebujete taneènici na dnešní veèer? Mohla bych dìlat na polovièní úvazek.}
-{370}{}{Díky, to mi lichotí. Jdu jen tak kolem.}
-{375}{}{Ne, jenom tvrdohlavı... stejnì jako on. Potøebuje trochu opravit, jene nemáme ádného mechanika, kterı by tomu rozumìl.}
-{376}{}{Chci se ještì zeptat...}
-{377}{}{Zajímavé. Díky za informace.}
-{385}{}{Jo, ten parchant sem pøišel minulı tıden, vybral u jednoho stolu nìkolik tisíc babek a pak zmizel. Nevím, kde teï je, ale míval pokoj v Desperadu.}
-{386}{}{Jo, nìjakı chlápek s tímhle jménem mìl pronajatı jeden z pokojù v patøe... èíslo 204. Mìl ho zaplacenı, ale pøed pár dny zmizel a nikdo ho nevidìl odejít.}
-{387}{}{Pan Salvatore se zmínil, e Lloyd vyhrál peníze od jednoho konkrétního dealera. Nevíš, kdo to byl?}
-{388}{}{Chci se ještì zeptat...}
-{389}{}{Díky za informace.}
-{395}{}{Myslíš Nikki? Jo, je zrovna támhle, u prostøedního stolu. Je snad v nìjakém maléru?}
-{396}{}{Ne, není. Jenom se s ní chci seznámit. Mám ještì nìjaké otázky...}
-{397}{}{Díky za informace.}
-{405}{}{Její jméno BYLO Nikki. Pracovala tu, ale nìkdo ji oddìlal... není to tak dlouho.}
-{406}{}{Hmmm. Nebude ti vadit, kdy se zeptám ještì na nìco jiného?}
-{407}{}{Zajímavé. Díky za informace.}
-{415}{}{Jmenovala se Nikki. Pracovala tu, ale nedávno odešla. Prostì si sbalila svıch pár švestek a znièehonic zmizela.}
-{416}{}{Nebude ti vadit, kdy se zeptám ještì na nìco jiného?}
-{417}{}{Zajímavé. Díky za informace.}
-{425}{}{Jasnì, to bude dobré pro kšefty. Šatna je vzadu...}
-{426}{}{Skvìle. Budu na jevišti za pár minut...}
-{427}{}{Teï ne. Chci se ještì zeptat...}
-{428}{}{Teï nemùu, ale ještì se vrátím.}
-{435}{}{Ne, ještì jsme se nedostali z tvého posledního vystoupení. Zkus to v jiném kasínu.}
-{436}{}{Tak dobøe, díky. Mám ještì nìjaké otázky...}
-{437}{}{Dobøe... ale myslím, e se ještì vrátím.}
-{445}{}{(Poèítáš veèerní vyúètování. Není to vùbec špatné.)}
-{446}{}{Ta kùe udìlala opravdu dojem.}
-{447}{}{Ten roubík taky nebyl úplnì k zahození.}
-{448}{}{Pokraèovat.}
-{455}{}{Jo, smrdí hùø ne brahmíní hovno. A ty myslíš, e...? Ále, proè ne? Malé zlepšení by neškodilo, ale pøiprav se na to, e tohle je opravdu drsné publikum... doufám, e jsi dobrı.}
-{456}{}{Jsem pøímo vynikající... dívej.}
-{457}{}{Teï nemùu, ale ještì se vrátím.}
-{500}{}{To byla fakt prèa. Jednou z tebe bude další Milton Berle. Za tıden pøijï na další vystoupení.}
-{501}{}{Vıborná show. Máš skvìlı program. Pøijï za tıden na další vystoupení.}
-{502}{}{Pøijdu. Mìj se.}
-{510}{}{To bylo naprosto pøíšerné. Nevím, jak to dìláš, ale jsi ještì horší ne ten, co sem chodí obvykle. Myslím, e u tì tu nebudeme potøebovat.}
-{511}{}{Fajn, pùjdu se svım talentem za nìkım, kdo ho SKUTEÈNÌ ocení.}
-{512}{}{Nevadí. Nashle.}
-{520}{}{Pìknì jsi to tam rozjela. Jednou z tebe bude další Traci Lords. }
-{521}{}{Ještì jsem nikdy nikoho nevidìl na pódiu takhle øádit. Máš opravdovı talent. }
-{522}{}{Pøijdu. Mìj se.}
-{523}{}{Pøijï za tıden na další vystoupení.}
-{530}{}{Je mi líto, ale nesplòuješ naše poadavky.}
-{531}{}{Nevadí. Mám ještì nìjaké otázky.}
-{532}{}{Fajn, pùjdu se svım talentem za nìkım, kdo ho SKUTEÈNÌ ocení. Nashle.}
-{620}{}{Mùu zase zkusit jedno komické vystoupení?}
-{621}{}{Øíkal jsem ti, a pøijdeš a za tıden. Teï je ještì moc brzo, take se stav pozdìji.}
-{622}{}{Tak dobøe, ale nejdøív se chci na nìco zeptat.}
-{623}{}{Zatím nashle.}
-{720}{}{Bylo by tu dnes veèer volné místo pro taneènici?}
-{721}{}{Øíkal jsem ti, a pøijdeš a za tıden. Teï je ještì moc brzo, take se stav pozdìji.}
-{722}{}{Tak dobøe, ale nejdøív se chci na nìco zeptat.}
-{723}{}{Zatím nashle.}
+{365}{}{Co je tohle za kasÃ­no?}
+{366}{}{MÅ¯Å¾eÅ¡ mi Å™Ã­ct nÄ›co o tomhle kasÃ­nu?}
+{367}{}{ZnÃ¡te nÄ›koho jmÃ©nem Hezoun Lloyd?}
+{368}{}{Kdo je ten starÃ½ chlapÃ­k tÃ¡mhle u toho automatu?}
+{369}{}{DÃ­ky. NepotÅ™ebujete taneÄnici na dneÅ¡nÃ­ veÄer? Mohla bych dÄ›lat na poloviÄnÃ­ Ãºvazek.}
+{370}{}{DÃ­ky, to mi lichotÃ­. Jdu jen tak kolem.}
+{375}{}{Ne, jenom tvrdohlavÃ½... stejnÄ› jako on. PotÅ™ebuje trochu opravit, jenÅ¾e nemÃ¡me Å¾Ã¡dnÃ©ho mechanika, kterÃ½ by tomu rozumÄ›l.}
+{376}{}{Chci se jeÅ¡tÄ› zeptat...}
+{377}{}{ZajÃ­mavÃ©. DÃ­ky za informace.}
+{385}{}{Jo, ten parchant sem pÅ™iÅ¡el minulÃ½ tÃ½den, vybral u jednoho stolu nÄ›kolik tisÃ­c babek a pak zmizel. NevÃ­m, kde teÄ je, ale mÃ­val pokoj v Desperadu.}
+{386}{}{Jo, nÄ›jakÃ½ chlÃ¡pek s tÃ­mhle jmÃ©nem mÄ›l pronajatÃ½ jeden z pokojÅ¯ v patÅ™e... ÄÃ­slo 204. MÄ›l ho zaplacenÃ½, ale pÅ™ed pÃ¡r dny zmizel a nikdo ho nevidÄ›l odejÃ­t.}
+{387}{}{Pan Salvatore se zmÃ­nil, Å¾e Lloyd vyhrÃ¡l penÃ­ze od jednoho konkrÃ©tnÃ­ho dealera. NevÃ­Å¡, kdo to byl?}
+{388}{}{Chci se jeÅ¡tÄ› zeptat...}
+{389}{}{DÃ­ky za informace.}
+{395}{}{MyslÃ­Å¡ Nikki? Jo, je zrovna tÃ¡mhle, u prostÅ™ednÃ­ho stolu. Je snad v nÄ›jakÃ©m malÃ©ru?}
+{396}{}{Ne, nenÃ­. Jenom se s nÃ­ chci seznÃ¡mit. MÃ¡m jeÅ¡tÄ› nÄ›jakÃ© otÃ¡zky...}
+{397}{}{DÃ­ky za informace.}
+{405}{}{JejÃ­ jmÃ©no BYLO Nikki. Pracovala tu, ale nÄ›kdo ji oddÄ›lal... nenÃ­ to tak dlouho.}
+{406}{}{Hmmm. Nebude ti vadit, kdyÅ¾ se zeptÃ¡m jeÅ¡tÄ› na nÄ›co jinÃ©ho?}
+{407}{}{ZajÃ­mavÃ©. DÃ­ky za informace.}
+{415}{}{Jmenovala se Nikki. Pracovala tu, ale nedÃ¡vno odeÅ¡la. ProstÄ› si sbalila svÃ½ch pÃ¡r Å¡vestek a zniÄehonic zmizela.}
+{416}{}{Nebude ti vadit, kdyÅ¾ se zeptÃ¡m jeÅ¡tÄ› na nÄ›co jinÃ©ho?}
+{417}{}{ZajÃ­mavÃ©. DÃ­ky za informace.}
+{425}{}{JasnÄ›, to bude dobrÃ© pro kÅ¡efty. Å atna je vzadu...}
+{426}{}{SkvÄ›le. Budu na jeviÅ¡ti za pÃ¡r minut...}
+{427}{}{TeÄ ne. Chci se jeÅ¡tÄ› zeptat...}
+{428}{}{TeÄ nemÅ¯Å¾u, ale jeÅ¡tÄ› se vrÃ¡tÃ­m.}
+{435}{}{Ne, jeÅ¡tÄ› jsme se nedostali z tvÃ©ho poslednÃ­ho vystoupenÃ­. Zkus to v jinÃ©m kasÃ­nu.}
+{436}{}{Tak dobÅ™e, dÃ­ky. MÃ¡m jeÅ¡tÄ› nÄ›jakÃ© otÃ¡zky...}
+{437}{}{DobÅ™e... ale myslÃ­m, Å¾e se jeÅ¡tÄ› vrÃ¡tÃ­m.}
+{445}{}{(PoÄÃ­tÃ¡Å¡ veÄernÃ­ vyÃºÄtovÃ¡nÃ­. NenÃ­ to vÅ¯bec Å¡patnÃ©.)}
+{446}{}{Ta kÅ¯Å¾e udÄ›lala opravdu dojem.}
+{447}{}{Ten roubÃ­k taky nebyl ÃºplnÄ› k zahozenÃ­.}
+{448}{}{PokraÄovat.}
+{455}{}{Jo, smrdÃ­ hÅ¯Å™ neÅ¾ brahmÃ­nÃ­ hovno. A ty myslÃ­Å¡, Å¾e...? Ãle, proÄ ne? MalÃ© zlepÅ¡enÃ­ by neÅ¡kodilo, ale pÅ™iprav se na to, Å¾e tohle je opravdu drsnÃ© publikum... doufÃ¡m, Å¾e jsi dobrÃ½.}
+{456}{}{Jsem pÅ™Ã­mo vynikajÃ­cÃ­... dÃ­vej.}
+{457}{}{TeÄ nemÅ¯Å¾u, ale jeÅ¡tÄ› se vrÃ¡tÃ­m.}
+{500}{}{To byla fakt prÄa. Jednou z tebe bude dalÅ¡Ã­ Milton Berle. Za tÃ½den pÅ™ijÄ na dalÅ¡Ã­ vystoupenÃ­.}
+{501}{}{VÃ½bornÃ¡ show. MÃ¡Å¡ skvÄ›lÃ½ program. PÅ™ijÄ za tÃ½den na dalÅ¡Ã­ vystoupenÃ­.}
+{502}{}{PÅ™ijdu. MÄ›j se.}
+{510}{}{To bylo naprosto pÅ™Ã­Å¡ernÃ©. NevÃ­m, jak to dÄ›lÃ¡Å¡, ale jsi jeÅ¡tÄ› horÅ¡Ã­ neÅ¾ ten, co sem chodÃ­ obvykle. MyslÃ­m, Å¾e uÅ¾ tÄ› tu nebudeme potÅ™ebovat.}
+{511}{}{Fajn, pÅ¯jdu se svÃ½m talentem za nÄ›kÃ½m, kdo ho SKUTEÄŒNÄš ocenÃ­.}
+{512}{}{NevadÃ­. Nashle.}
+{520}{}{PÄ›knÄ› jsi to tam rozjela. Jednou z tebe bude dalÅ¡Ã­ Traci Lords. }
+{521}{}{JeÅ¡tÄ› jsem nikdy nikoho nevidÄ›l na pÃ³diu takhle Å™Ã¡dit. MÃ¡Å¡ opravdovÃ½ talent. }
+{522}{}{PÅ™ijdu. MÄ›j se.}
+{523}{}{PÅ™ijÄ za tÃ½den na dalÅ¡Ã­ vystoupenÃ­.}
+{530}{}{Je mi lÃ­to, ale nesplÅˆujeÅ¡ naÅ¡e poÅ¾adavky.}
+{531}{}{NevadÃ­. MÃ¡m jeÅ¡tÄ› nÄ›jakÃ© otÃ¡zky.}
+{532}{}{Fajn, pÅ¯jdu se svÃ½m talentem za nÄ›kÃ½m, kdo ho SKUTEÄŒNÄš ocenÃ­. Nashle.}
+{620}{}{MÅ¯Å¾u zase zkusit jedno komickÃ© vystoupenÃ­?}
+{621}{}{Å˜Ã­kal jsem ti, aÅ¥ pÅ™ijdeÅ¡ aÅ¾ za tÃ½den. TeÄ je jeÅ¡tÄ› moc brzo, takÅ¾e se stav pozdÄ›ji.}
+{622}{}{Tak dobÅ™e, ale nejdÅ™Ã­v se chci na nÄ›co zeptat.}
+{623}{}{ZatÃ­m nashle.}
+{720}{}{Bylo by tu dnes veÄer volnÃ© mÃ­sto pro taneÄnici?}
+{721}{}{Å˜Ã­kal jsem ti, aÅ¥ pÅ™ijdeÅ¡ aÅ¾ za tÃ½den. TeÄ je jeÅ¡tÄ› moc brzo, takÅ¾e se stav pozdÄ›ji.}
+{722}{}{Tak dobÅ™e, ale nejdÅ™Ã­v se chci na nÄ›co zeptat.}
+{723}{}{ZatÃ­m nashle.}
 {902}{}{Bishop}
 {903}{}{Mordino}
 {904}{}{klub Shark}
 {905}{}{Desperado}
-{1000}{}{Kdy vám vaše ena øekne 'Tebe zajímá jenom to jedno' a vy si zaboha nemùete vzpomenout co to je, tak víte, e vaše manelství neklape jak má.}
-{1001}{}{Mùj doktor mi nedávno øekl, e mi bìhání pøidá nìkolik let ivota. Myslím, e mìl pravdu. U teï se cítím o deset let starší.}
-{1002}{}{Lidé, kteøí neví, proè je Amerika "zaslíbená zemì", by tu mìli bıt bìhem volební kampanì.}
-{1003}{}{Politici mì vdycky rozesmìjou.}
-{1004}{}{Nìkdo mi kdysi øekl, e málo cvièím. Mılil se. Pravidelnì toti bìhám na pohøby svıch pøátel, kteøí cvièili.}
+{1000}{}{KdyÅ¾ vÃ¡m vaÅ¡e Å¾ena Å™ekne 'Tebe zajÃ­mÃ¡ jenom to jedno' a vy si zaboha nemÅ¯Å¾ete vzpomenout co to je, tak vÃ­te, Å¾e vaÅ¡e manÅ¾elstvÃ­ neklape jak mÃ¡.}
+{1001}{}{MÅ¯j doktor mi nedÃ¡vno Å™ekl, Å¾e mi bÄ›hÃ¡nÃ­ pÅ™idÃ¡ nÄ›kolik let Å¾ivota. MyslÃ­m, Å¾e mÄ›l pravdu. UÅ¾ teÄ se cÃ­tÃ­m o deset let starÅ¡Ã­.}
+{1002}{}{LidÃ©, kteÅ™Ã­ nevÃ­, proÄ je Amerika "zaslÃ­benÃ¡ zemÄ›", by tu mÄ›li bÃ½t bÄ›hem volebnÃ­ kampanÄ›.}
+{1003}{}{Politici mÄ› vÅ¾dycky rozesmÄ›jou.}
+{1004}{}{NÄ›kdo mi kdysi Å™ekl, Å¾e mÃ¡lo cviÄÃ­m. MÃ½lil se. PravidelnÄ› totiÅ¾ bÄ›hÃ¡m na pohÅ™by svÃ½ch pÅ™Ã¡tel, kteÅ™Ã­ cviÄili.}
 {1215}{}{, pane.}
 {1216}{}{, pane.}
 {1220}{}{, madam.}
@@ -168,43 +168,43 @@
 {1226}{}{, pane.}
 {1230}{}{, madam.}
 {1231}{}{, madam.}
-{1285}{}{Mutantùm vstup zakázán. Musí poèkat venku.}
-{1286}{}{Mì nezajímá, e je tvùj pøítel bıvalı èlen X-Menù. Mutanti musí poèkat venku.}
-{1287}{}{Ta mutantská obluda sem nesmí.}
-{1306}{}{. Odpoèiò si od záchrany svìta a trochu se pobav.}
+{1285}{}{MutantÅ¯m vstup zakÃ¡zÃ¡n. MusÃ­ poÄkat venku.}
+{1286}{}{MÄ› nezajÃ­mÃ¡, Å¾e je tvÅ¯j pÅ™Ã­tel bÃ½valÃ½ Älen X-MenÅ¯. Mutanti musÃ­ poÄkat venku.}
+{1287}{}{Ta mutantskÃ¡ obluda sem nesmÃ­.}
+{1306}{}{. OdpoÄiÅˆ si od zÃ¡chrany svÄ›ta a trochu se pobav.}
 {1335}{}{Tohle je }
 {1336}{}{Tohle je }
 {1337}{}{Kdo jsi?}
-{1338}{}{Mùeš mi øíct nìco o tomhle kasínu?}
-{1339}{}{Nic, díky. Promiò, e obtìuju.}
-{1345}{}{Tohle je zatracenì nejlepší kasíno ve mìstì... no, moná trochu pøeháním. Chceš vìdìt ještì nìco?}
-{1346}{}{Tohle je zatracenì nejlepší kasíno ve mìstì a má zatracenì nejlepší stoly... nechceš si je jít vyzkoušet?}
+{1338}{}{MÅ¯Å¾eÅ¡ mi Å™Ã­ct nÄ›co o tomhle kasÃ­nu?}
+{1339}{}{Nic, dÃ­ky. PromiÅˆ, Å¾e obtÄ›Å¾uju.}
+{1345}{}{Tohle je zatracenÄ› nejlepÅ¡Ã­ kasÃ­no ve mÄ›stÄ›... no, moÅ¾nÃ¡ trochu pÅ™ehÃ¡nÃ­m. ChceÅ¡ vÄ›dÄ›t jeÅ¡tÄ› nÄ›co?}
+{1346}{}{Tohle je zatracenÄ› nejlepÅ¡Ã­ kasÃ­no ve mÄ›stÄ› a mÃ¡ zatracenÄ› nejlepÅ¡Ã­ stoly... nechceÅ¡ si je jÃ­t vyzkouÅ¡et?}
 {1347}{}{Kdo jsi?}
-{1348}{}{Komu patøí tohle kasíno?}
-{1349}{}{Dobøe, díky. Promiò, e obtìuju.}
-{1355}{}{. Napumpovali sem ivot a udìlali z toho skvìlı noèní klub, úplnı klenot New Rena.}
-{1356}{}{. Máš s tím snad nìjakı problém? Protoe jestli tu nejsi kvùli hazardu, tak tady nemáš co dìlat. Rozumíš?}
+{1348}{}{Komu patÅ™Ã­ tohle kasÃ­no?}
+{1349}{}{DobÅ™e, dÃ­ky. PromiÅˆ, Å¾e obtÄ›Å¾uju.}
+{1355}{}{. Napumpovali sem Å¾ivot a udÄ›lali z toho skvÄ›lÃ½ noÄnÃ­ klub, ÃºplnÃ½ klenot New Rena.}
+{1356}{}{. MÃ¡Å¡ s tÃ­m snad nÄ›jakÃ½ problÃ©m? ProtoÅ¾e jestli tu nejsi kvÅ¯li hazardu, tak tady nemÃ¡Å¡ co dÄ›lat. RozumÃ­Å¡?}
 {1361}{}{. Miluju tvoje filmy.}
-{1365}{}{Ten dìdek? Starej McGee? Je to naprostı blázen... hraje na tom automatu u nìkolik let a èeká na velkı jackpot. Naházel do nìj všechny svoje úspory, jene mu nikdy nedal ani drobák.}
-{1366}{}{Ten dìdek? Starej McGee? Je to naprostı blázen, to je jisté. Hehe. Byl pìknì naštvanı, kdy jsi vyhrál jeho peníze. Dávej si na nìj pozor.}
-{1367}{}{Je ten automat nìjak... cinknutı?}
-{1368}{}{Chci se ještì zeptat...}
-{1369}{}{Díky za informace.}
-{1425}{}{Jasnì. Doufám, e jsi ve stejné formì jako minule.}
-{1455}{}{Jasnì. U mi zaèíná bıt zle z toho chlápka, co sem chodí obvykle. Doufám, e jsi ve stejné formì jako minule.}
-{1500}{}{Eh... tvoje matka je tak tlustá, e kdy upadla, tak se døív ukolébala ke spánku, ne staèila vstát.}
-{1501}{}{Tvoje matka je táááák tlustá, e jsem si musel vzít letadlo, vlak a auto jen proto, abych se tı krávì mohl podívat do oèí.}
-{1502}{}{Víte, co øekl jeden talíø druhému?}
-{1503}{}{Víte, proè byly šle zatèeny?}
-{1504}{}{Víte, jak si blondınka zlomila nohu pøi hrabání listí?}
-{2000}{}{Tvé komické vystoupení mìlo úspìch.}
-{2001}{}{Tvé komické vystoupení byla tragédie.}
-{2003}{}{Ve Washingtonu vstane mu k proslovu, neøekne ani slovo a ostatní s ním nesouhlasí po tøi hodiny.}
-{2010}{}{Tvùj erotickı tanec mìl úspìch.}
-{2335}{}{. Jestli nìco potøebuješ, staèí øíct.}
-{2336}{}{. Teda aspoò co jsem se naposled díval na ceduli nad vchodem. Co pro tebe mùu udìlat?}
-{2500}{}{(Ubìhly dvì hodiny.)}
-{2501}{}{(Ubìhla hodina.)}
-{2502}{}{Obìd je na mì.}
-{2503}{}{Byly zatèeny za drení kalhot.}
+{1365}{}{Ten dÄ›dek? Starej McGee? Je to naprostÃ½ blÃ¡zen... hraje na tom automatu uÅ¾ nÄ›kolik let a ÄekÃ¡ na velkÃ½ jackpot. NahÃ¡zel do nÄ›j vÅ¡echny svoje Ãºspory, jenÅ¾e mu nikdy nedal ani drobÃ¡k.}
+{1366}{}{Ten dÄ›dek? Starej McGee? Je to naprostÃ½ blÃ¡zen, to je jistÃ©. Hehe. Byl pÄ›knÄ› naÅ¡tvanÃ½, kdyÅ¾ jsi vyhrÃ¡l jeho penÃ­ze. DÃ¡vej si na nÄ›j pozor.}
+{1367}{}{Je ten automat nÄ›jak... cinknutÃ½?}
+{1368}{}{Chci se jeÅ¡tÄ› zeptat...}
+{1369}{}{DÃ­ky za informace.}
+{1425}{}{JasnÄ›. DoufÃ¡m, Å¾e jsi ve stejnÃ© formÄ› jako minule.}
+{1455}{}{JasnÄ›. UÅ¾ mi zaÄÃ­nÃ¡ bÃ½t zle z toho chlÃ¡pka, co sem chodÃ­ obvykle. DoufÃ¡m, Å¾e jsi ve stejnÃ© formÄ› jako minule.}
+{1500}{}{Eh... tvoje matka je tak tlustÃ¡, Å¾e kdyÅ¾ upadla, tak se dÅ™Ã­v ukolÃ©bala ke spÃ¡nku, neÅ¾ staÄila vstÃ¡t.}
+{1501}{}{Tvoje matka je tÃ¡Ã¡Ã¡Ã¡k tlustÃ¡, Å¾e jsem si musel vzÃ­t letadlo, vlak a auto jen proto, abych se tÃ½ krÃ¡vÄ› mohl podÃ­vat do oÄÃ­.}
+{1502}{}{VÃ­te, co Å™ekl jeden talÃ­Å™ druhÃ©mu?}
+{1503}{}{VÃ­te, proÄ byly Å¡le zatÄeny?}
+{1504}{}{VÃ­te, jak si blondÃ½nka zlomila nohu pÅ™i hrabÃ¡nÃ­ listÃ­?}
+{2000}{}{TvÃ© komickÃ© vystoupenÃ­ mÄ›lo ÃºspÄ›ch.}
+{2001}{}{TvÃ© komickÃ© vystoupenÃ­ byla tragÃ©die.}
+{2003}{}{Ve Washingtonu vstane muÅ¾ k proslovu, neÅ™ekne ani slovo a ostatnÃ­ s nÃ­m nesouhlasÃ­ po tÅ™i hodiny.}
+{2010}{}{TvÅ¯j erotickÃ½ tanec mÄ›l ÃºspÄ›ch.}
+{2335}{}{. Jestli nÄ›co potÅ™ebujeÅ¡, staÄÃ­ Å™Ã­ct.}
+{2336}{}{. Teda aspoÅˆ co jsem se naposled dÃ­val na ceduli nad vchodem. Co pro tebe mÅ¯Å¾u udÄ›lat?}
+{2500}{}{(UbÄ›hly dvÄ› hodiny.)}
+{2501}{}{(UbÄ›hla hodina.)}
+{2502}{}{ObÄ›d je na mÄ›.}
+{2503}{}{Byly zatÄeny za drÅ¾enÃ­ kalhot.}
 {2504}{}{Spadla ze stromu.}

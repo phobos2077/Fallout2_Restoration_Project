@@ -1,1 +1,1 @@
-{100}{}{Nacházíš se v malém mìstì jménem Klamath.}
+{100}{}{NachÃ¡zÃ­Å¡ se v malÃ©m mÄ›stÄ› jmÃ©nem Klamath.}

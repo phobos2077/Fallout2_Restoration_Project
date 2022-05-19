@@ -1,18 +1,18 @@
-{100}{}{Vidíš pøísnì vypadající strá.}
-{101}{}{Vidíš vánì vypadající strá Vault City.}
-{102}{}{Jdi si po svıch.}
-{103}{}{Myslím, e je naèase, abys odsud odešel.}
-{104}{}{Nelíbíš se mi.}
-{105}{}{Dávej si pozor.}
-{106}{}{Zdravím, Obèane.}
-{107}{}{Rád vás vidím, Obèane.}
-{108}{}{Pernı den, Obèane?}
-{109}{}{A po vás, Obèane.}
-{110}{}{Zdravím tì, cestovateli.}
-{111}{}{Jdi si po svém, venkovane.}
-{112}{}{ádné okounìní.}
-{113}{}{Promluv si s Walacem, jestli se chceš dostat do mìsta.}
-{114}{}{Nic nového, Kapitáne.}
-{115}{}{Vše bedlivì sleduji, Kapitáne.}
-{116}{}{Vault City vdy zvítìzí, Kapitáne.}
-{117}{}{Dobrı den, Kapitáne.}
+{100}{}{VidÃ­Å¡ pÅ™Ã­snÄ› vypadajÃ­cÃ­ strÃ¡Å¾.}
+{101}{}{VidÃ­Å¡ vÃ¡Å¾nÄ› vypadajÃ­cÃ­ strÃ¡Å¾ Vault City.}
+{102}{}{Jdi si po svÃ½ch.}
+{103}{}{MyslÃ­m, Å¾e je naÄase, abys odsud odeÅ¡el.}
+{104}{}{NelÃ­bÃ­Å¡ se mi.}
+{105}{}{DÃ¡vej si pozor.}
+{106}{}{ZdravÃ­m, ObÄane.}
+{107}{}{RÃ¡d vÃ¡s vidÃ­m, ObÄane.}
+{108}{}{PernÃ½ den, ObÄane?}
+{109}{}{AÅ¾ po vÃ¡s, ObÄane.}
+{110}{}{ZdravÃ­m tÄ›, cestovateli.}
+{111}{}{Jdi si po svÃ©m, venkovane.}
+{112}{}{Å½Ã¡dnÃ© okounÄ›nÃ­.}
+{113}{}{Promluv si s Walacem, jestli se chceÅ¡ dostat do mÄ›sta.}
+{114}{}{Nic novÃ©ho, KapitÃ¡ne.}
+{115}{}{VÅ¡e bedlivÄ› sleduji, KapitÃ¡ne.}
+{116}{}{Vault City vÅ¾dy zvÃ­tÄ›zÃ­, KapitÃ¡ne.}
+{117}{}{DobrÃ½ den, KapitÃ¡ne.}

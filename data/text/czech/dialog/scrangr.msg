@@ -1,19 +1,19 @@
-{100}{}{Vidíš mue v kevlarové zbroji.}
-{101}{}{Vidíš enu v kevlarové zbroji.}
-{102}{}{Nosí odznak s nápisem NCR Ranger.}
-{103}{}{Nosí odznak s nápisem NCR Ranger.}
-{200}{}{Zdravím, kolego Rangere. Chystáš se tu strávit noc?}
-{201}{}{Zabil jsi dneska nìjaké otrokáøe?}
-{202}{}{Dneska jsme osvobodili tucet otrokù.}
-{203}{}{Ochrana pustiny je tvrdá práce, ale nìkdo to dìlat musí.}
-{204}{}{Ještì e tì máme. Mùeš tu zùstat jak dlouho chceš.}
-{205}{}{Slyšel jsem, co se stalo Metzgerovi. Dobrá práce!}
-{300}{}{To je otrokáø, na nìj!}
-{301}{}{Do prdele, útoèí na nás!}
-{400}{}{Buï zdráv, pøíteli.}
-{401}{}{Tohle je soukromı pozemek. Neokounìj tady moc dlouho.}
-{402}{}{Máš rád otrokáøe? Doufám, e ne... pro tvoje vlastní dobro.}
-{500}{}{Co to!? Otrokáøi? Jak nás sakra našli? Musíme se bránit. Útok!}
-{501}{}{Poèkejte! Já jsem na vaší stranì. Jen jsem vám pøivedl nìjaké cvièné cíle. [Otoèit se na otrokáøe] Je mi líto, hoši, ale já u jsem takovej. [Zaútoèit na otrokáøe]}
-{502}{}{Tohle bude zábava! [Zaútoèit na Rangery]}
-{600}{}{Podaøilo se ti vyhladit úkryt Rangerù.}
+{100}{}{VidÃ­Å¡ muÅ¾e v kevlarovÃ© zbroji.}
+{101}{}{VidÃ­Å¡ Å¾enu v kevlarovÃ© zbroji.}
+{102}{}{NosÃ­ odznak s nÃ¡pisem NCR Ranger.}
+{103}{}{NosÃ­ odznak s nÃ¡pisem NCR Ranger.}
+{200}{}{ZdravÃ­m, kolego Rangere. ChystÃ¡Å¡ se tu strÃ¡vit noc?}
+{201}{}{Zabil jsi dneska nÄ›jakÃ© otrokÃ¡Å™e?}
+{202}{}{Dneska jsme osvobodili tucet otrokÅ¯.}
+{203}{}{Ochrana pustiny je tvrdÃ¡ prÃ¡ce, ale nÄ›kdo to dÄ›lat musÃ­.}
+{204}{}{JeÅ¡tÄ› Å¾e tÄ› mÃ¡me. MÅ¯Å¾eÅ¡ tu zÅ¯stat jak dlouho chceÅ¡.}
+{205}{}{SlyÅ¡el jsem, co se stalo Metzgerovi. DobrÃ¡ prÃ¡ce!}
+{300}{}{To je otrokÃ¡Å™, na nÄ›j!}
+{301}{}{Do prdele, ÃºtoÄÃ­ na nÃ¡s!}
+{400}{}{BuÄ zdrÃ¡v, pÅ™Ã­teli.}
+{401}{}{Tohle je soukromÃ½ pozemek. NeokounÄ›j tady moc dlouho.}
+{402}{}{MÃ¡Å¡ rÃ¡d otrokÃ¡Å™e? DoufÃ¡m, Å¾e ne... pro tvoje vlastnÃ­ dobro.}
+{500}{}{Co to!? OtrokÃ¡Å™i? Jak nÃ¡s sakra naÅ¡li? MusÃ­me se brÃ¡nit. Ãštok!}
+{501}{}{PoÄkejte! JÃ¡ jsem na vaÅ¡Ã­ stranÄ›. Jen jsem vÃ¡m pÅ™ivedl nÄ›jakÃ© cviÄnÃ© cÃ­le. [OtoÄit se na otrokÃ¡Å™e] Je mi lÃ­to, hoÅ¡i, ale jÃ¡ uÅ¾ jsem takovej. [ZaÃºtoÄit na otrokÃ¡Å™e]}
+{502}{}{Tohle bude zÃ¡bava! [ZaÃºtoÄit na Rangery]}
+{600}{}{PodaÅ™ilo se ti vyhladit Ãºkryt RangerÅ¯.}

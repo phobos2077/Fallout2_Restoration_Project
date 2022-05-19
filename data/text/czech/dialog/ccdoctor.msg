@@ -1,103 +1,103 @@
-{100}{}{Vidíš vìdce.}
-{101}{}{Vidíš doktora Schrebera.}
-{102}{}{Vidíš holohlavého mue v laboratorním plášti.}
-{103}{}{Doufám, e máte zatracenì dobrı dùvod pøerušovat moji práci, vojáku.}
-{104}{}{Chtít se ptát.}
-{105}{}{Ne, já vrátit se pozdìji.}
-{106}{}{No dobøe. Kdy u tu musím s vámi vojáky ít, tak proè bych s vámi nemohl prohodit pár slov.}
-{107}{}{Co chceš vìdìt?}
+{100}{}{VidÃ­Å¡ vÄ›dce.}
+{101}{}{VidÃ­Å¡ doktora Schrebera.}
+{102}{}{VidÃ­Å¡ holohlavÃ©ho muÅ¾e v laboratornÃ­m plÃ¡Å¡ti.}
+{103}{}{DoufÃ¡m, Å¾e mÃ¡te zatracenÄ› dobrÃ½ dÅ¯vod pÅ™eruÅ¡ovat moji prÃ¡ci, vojÃ¡ku.}
+{104}{}{ChtÃ­t se ptÃ¡t.}
+{105}{}{Ne, jÃ¡ vrÃ¡tit se pozdÄ›ji.}
+{106}{}{No dobÅ™e. KdyÅ¾ uÅ¾ tu musÃ­m s vÃ¡mi vojÃ¡ky Å¾Ã­t, tak proÄ bych s vÃ¡mi nemohl prohodit pÃ¡r slov.}
+{107}{}{Co chceÅ¡ vÄ›dÄ›t?}
 {108}{}{Kdo ty?}
-{109}{}{Co ty dìlat?}
-{110}{}{Co bıt tohle za místo?}
-{111}{}{Proè tahle místnost nedìlat ádnı zvuk?}
-{112}{}{Proè ten páraè ve vedlejší místnost?}
-{113}{}{Proè se ten pejsek u dveøí nehıbat? Nedìlat nic?}
-{114}{}{Muset jít.}
+{109}{}{Co ty dÄ›lat?}
+{110}{}{Co bÃ½t tohle za mÃ­sto?}
+{111}{}{ProÄ tahle mÃ­stnost nedÄ›lat Å¾Ã¡dnÃ½ zvuk?}
+{112}{}{ProÄ ten pÃ¡raÄ ve vedlejÅ¡Ã­ mÃ­stnost?}
+{113}{}{ProÄ se ten pejsek u dveÅ™Ã­ nehÃ½bat? NedÄ›lat nic?}
+{114}{}{Muset jÃ­t.}
 {115}{}{Kdo jsi?}
-{116}{}{Co tady dìláš?}
-{117}{}{Co je tohle za místo?}
-{118}{}{Proè je tahle místnost zvukotìsná?}
-{119}{}{Proè je ve vedlejší místnosti ten páraè?}
-{120}{}{Co je to za sochu psa u dveøí?}
-{121}{}{U musím jít.}
-{122}{}{Jmenuji se Schreber. Doktor Schreber. Mimo jiné jsem i lékaøem téhle základny. Se svım jménem se ani neobtìujte, vojáku. Vy pìšáci stejnì všichni vypadáte v tìch vašich zbrojích úplnì stejnì.}
-{123}{}{Dobøe.}
-{124}{}{Chápu.}
-{125}{}{Pracuji tu sice jako lékaø, ale to je jen vedlejší práce. Ve skuteènosti jsem genetik.}
-{126}{}{Co to bıt?}
+{116}{}{Co tady dÄ›lÃ¡Å¡?}
+{117}{}{Co je tohle za mÃ­sto?}
+{118}{}{ProÄ je tahle mÃ­stnost zvukotÄ›snÃ¡?}
+{119}{}{ProÄ je ve vedlejÅ¡Ã­ mÃ­stnosti ten pÃ¡raÄ?}
+{120}{}{Co je to za sochu psa u dveÅ™Ã­?}
+{121}{}{UÅ¾ musÃ­m jÃ­t.}
+{122}{}{Jmenuji se Schreber. Doktor Schreber. Mimo jinÃ© jsem i lÃ©kaÅ™em tÃ©hle zÃ¡kladny. Se svÃ½m jmÃ©nem se ani neobtÄ›Å¾ujte, vojÃ¡ku. Vy pÄ›Å¡Ã¡ci stejnÄ› vÅ¡ichni vypadÃ¡te v tÄ›ch vaÅ¡ich zbrojÃ­ch ÃºplnÄ› stejnÄ›.}
+{123}{}{DobÅ™e.}
+{124}{}{ChÃ¡pu.}
+{125}{}{Pracuji tu sice jako lÃ©kaÅ™, ale to je jen vedlejÅ¡Ã­ prÃ¡ce. Ve skuteÄnosti jsem genetik.}
+{126}{}{Co to bÃ½t?}
 {127}{}{Co to je genetik?}
-{128}{}{Opravdu si nemyslím, e se svojí inteligencí dokáete pochopit moji práci, vojáku. No, øeknìme, e umím 'vylepšovat' lidi nebo zvíøata.}
+{128}{}{Opravdu si nemyslÃ­m, Å¾e se svojÃ­ inteligencÃ­ dokÃ¡Å¾ete pochopit moji prÃ¡ci, vojÃ¡ku. No, Å™eknÄ›me, Å¾e umÃ­m 'vylepÅ¡ovat' lidi nebo zvÃ­Å™ata.}
 {129}{}{Joo... aha.}
-{130}{}{Hmm... chci se ještì na nìco zeptat.}
-{131}{}{Toto døíve bıvala laboratoø pro lékaøské úèely. Nicménì jsem vycítil, e mé experimenty mají pøednost pøed minimálními vojenskımi potøebami, tak jsem to tady zmìnil v laboratoø pro své pokusy.}
-{132}{}{Jak... hezké.}
-{133}{}{Pìkné. Povìzte mi ještì nìco.}
-{134}{}{Proè tahle místnost nedìlat ádnı zvuk? Aha, vy myslíte zvukotìsnost! Provádìl jsem tu pár... experimentù. A obèas byly testovací subjekty bìhem mıch pokusù trochu hluènìjší. Velitel základny usoudil, e ty zvuky ruší chod základny a nechal tu nainstalovat zvukotìsnou izolaci.}
-{135}{}{Provádìl jsem tu pár... experimentù. A obèas byly testovací subjekty bìhem mıch pokusù trochu hluènìjší. Velitel základny usoudil, e ty zvuky narušují chod základny a nechal tu nainstalovat zvukotìsnou izolaci.}
+{130}{}{Hmm... chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{131}{}{Toto dÅ™Ã­ve bÃ½vala laboratoÅ™ pro lÃ©kaÅ™skÃ© ÃºÄely. NicmÃ©nÄ› jsem vycÃ­til, Å¾e mÃ© experimenty majÃ­ pÅ™ednost pÅ™ed minimÃ¡lnÃ­mi vojenskÃ½mi potÅ™ebami, tak jsem to tady zmÄ›nil v laboratoÅ™ pro svÃ© pokusy.}
+{132}{}{Jak... hezkÃ©.}
+{133}{}{PÄ›knÃ©. PovÄ›zte mi jeÅ¡tÄ› nÄ›co.}
+{134}{}{ProÄ tahle mÃ­stnost nedÄ›lat Å¾Ã¡dnÃ½ zvuk? Aha, vy myslÃ­te zvukotÄ›snost! ProvÃ¡dÄ›l jsem tu pÃ¡r... experimentÅ¯. A obÄas byly testovacÃ­ subjekty bÄ›hem mÃ½ch pokusÅ¯ trochu hluÄnÄ›jÅ¡Ã­. Velitel zÃ¡kladny usoudil, Å¾e ty zvuky ruÅ¡Ã­ chod zÃ¡kladny a nechal tu nainstalovat zvukotÄ›snou izolaci.}
+{135}{}{ProvÃ¡dÄ›l jsem tu pÃ¡r... experimentÅ¯. A obÄas byly testovacÃ­ subjekty bÄ›hem mÃ½ch pokusÅ¯ trochu hluÄnÄ›jÅ¡Ã­. Velitel zÃ¡kladny usoudil, Å¾e ty zvuky naruÅ¡ujÃ­ chod zÃ¡kladny a nechal tu nainstalovat zvukotÄ›snou izolaci.}
 {136}{}{Och...}
 {137}{}{Aha.}
-{138}{}{Ten velkı, hnìdı a ohavnı? To je experiment, kterı jsem právì dokonèil. Je urèen k utracení.}
-{139}{}{Co znamenat utracení?}
-{140}{}{Proè ho chcete zabít?}
-{141}{}{Pane Boe... vy jste jeden z tìch bystrıch, e? Likvidace. Zabít, oddìlat, poslat ho do vìènıch loviš, skonèit to s ním. Rozumíte?}
-{142}{}{Já chápat. Proè ty chtít zabít páraè?}
-{143}{}{Enkláva hledá levné a snadno postradatelné vojenské síly. Zajímáme se o páraèe, protoe jsou od pøírody docela dobøe vybaveni pøirozenou zbrojí i zbranìmi a hlavnì jsou velice agresivní. Jen by potøebovali bıt trochu chytøejší, aby lépe porozumìli rozkazùm, ale zase ne tolik, aby mìli svoji vlastní vùli. Rozumíte?}
-{144}{}{Eh... jasnì.}
-{145}{}{Ano, rozumím.}
-{146}{}{A uspìli jsme! Dokázali jsme vylepšit jejich inteligenci, ale zaèal jsem mít podezøení, e jsme zašli pøíliš daleko. Zdálo se mi, e jsou moná mnohem chytøejší, ne nám zprvu dávají najevo. Take kdy jsem sem byl pøemístìn, vzal jsem si jednoho páraèe s sebou, abych si mohl svoji teorii otestovat.}
+{138}{}{Ten velkÃ½, hnÄ›dÃ½ a ohavnÃ½? To je experiment, kterÃ½ jsem prÃ¡vÄ› dokonÄil. Je urÄen k utracenÃ­.}
+{139}{}{Co znamenat utracenÃ­?}
+{140}{}{ProÄ ho chcete zabÃ­t?}
+{141}{}{Pane BoÅ¾e... vy jste jeden z tÄ›ch bystrÃ½ch, Å¾e? Likvidace. ZabÃ­t, oddÄ›lat, poslat ho do vÄ›ÄnÃ½ch loviÅ¡Å¥, skonÄit to s nÃ­m. RozumÃ­te?}
+{142}{}{JÃ¡ chÃ¡pat. ProÄ ty chtÃ­t zabÃ­t pÃ¡raÄ?}
+{143}{}{EnklÃ¡va hledÃ¡ levnÃ© a snadno postradatelnÃ© vojenskÃ© sÃ­ly. ZajÃ­mÃ¡me se o pÃ¡raÄe, protoÅ¾e jsou od pÅ™Ã­rody docela dobÅ™e vybaveni pÅ™irozenou zbrojÃ­ i zbranÄ›mi a hlavnÄ› jsou velice agresivnÃ­. Jen by potÅ™ebovali bÃ½t trochu chytÅ™ejÅ¡Ã­, aby lÃ©pe porozumÄ›li rozkazÅ¯m, ale zase ne tolik, aby mÄ›li svoji vlastnÃ­ vÅ¯li. RozumÃ­te?}
+{144}{}{Eh... jasnÄ›.}
+{145}{}{Ano, rozumÃ­m.}
+{146}{}{A uspÄ›li jsme! DokÃ¡zali jsme vylepÅ¡it jejich inteligenci, ale zaÄal jsem mÃ­t podezÅ™enÃ­, Å¾e jsme zaÅ¡li pÅ™Ã­liÅ¡ daleko. ZdÃ¡lo se mi, Å¾e jsou moÅ¾nÃ¡ mnohem chytÅ™ejÅ¡Ã­, neÅ¾ nÃ¡m zprvu dÃ¡vajÃ­ najevo. TakÅ¾e kdyÅ¾ jsem sem byl pÅ™emÃ­stÄ›n, vzal jsem si jednoho pÃ¡raÄe s sebou, abych si mohl svoji teorii otestovat.}
 {147}{}{A?}
-{148}{}{A mìl jsem pravdu! Páraèi si podle všeho hráli na blbce. Èekali na svou pøíleitost a hlavnì se snaili od nás lidí co nejvíce nauèit. Dokonce jsou schopni napodobit lidskou øeè! S tím tvorem ve vedlejší místnosti jsem osobnì mluvil.}
-{149}{}{V kadém pøípadì u sám fakt, e jsou schopni vytvoøit takovıto plán a svoji inteligenci zámìrnì maskovat, dokazuje jejich extrémní nebezpeènost.}
-{150}{}{A co teï plánovat udìlat?}
-{151}{}{A co teï plánujete udìlat?}
-{152}{}{Právì se chystám sepsat hlášení o mıch objevech a musím ho neprodlenì poslat do hlavní báze. A samozøejmì budu muset doporuèit kompletní likvidaci všech páraèù. Jsou pøíliš velikou hrozbou.}
-{153}{}{Rozumìt. Potøebovat se ještì na nìco zeptat.}
-{154}{}{Jasnì... opravdu tahle místnost nic zvuk?}
-{155}{}{Chtít pro tebe zabít ten páraè!}
-{156}{}{Poslyšte, mùu pro vás zabít toho páraèe?}
-{157}{}{Zajímavé. Mùu se zeptat ještì na nìco?}
-{158}{}{Povìzte mi, doktore, jste si jistı, e je tahle místnost zvukotìsná?}
-{159}{}{Samozøejmì, e jsem si jistı. Velitel to nechal udìlat. Proè se ptáte?}
+{148}{}{A mÄ›l jsem pravdu! PÃ¡raÄi si podle vÅ¡eho hrÃ¡li na blbce. ÄŒekali na svou pÅ™Ã­leÅ¾itost a hlavnÄ› se snaÅ¾ili od nÃ¡s lidÃ­ co nejvÃ­ce nauÄit. Dokonce jsou schopni napodobit lidskou Å™eÄ! S tÃ­m tvorem ve vedlejÅ¡Ã­ mÃ­stnosti jsem osobnÄ› mluvil.}
+{149}{}{V kaÅ¾dÃ©m pÅ™Ã­padÄ› uÅ¾ sÃ¡m fakt, Å¾e jsou schopni vytvoÅ™it takovÃ½to plÃ¡n a svoji inteligenci zÃ¡mÄ›rnÄ› maskovat, dokazuje jejich extrÃ©mnÃ­ nebezpeÄnost.}
+{150}{}{A co teÄ plÃ¡novat udÄ›lat?}
+{151}{}{A co teÄ plÃ¡nujete udÄ›lat?}
+{152}{}{PrÃ¡vÄ› se chystÃ¡m sepsat hlÃ¡Å¡enÃ­ o mÃ½ch objevech a musÃ­m ho neprodlenÄ› poslat do hlavnÃ­ bÃ¡ze. A samozÅ™ejmÄ› budu muset doporuÄit kompletnÃ­ likvidaci vÅ¡ech pÃ¡raÄÅ¯. Jsou pÅ™Ã­liÅ¡ velikou hrozbou.}
+{153}{}{RozumÄ›t. PotÅ™ebovat se jeÅ¡tÄ› na nÄ›co zeptat.}
+{154}{}{JasnÄ›... opravdu tahle mÃ­stnost nic zvuk?}
+{155}{}{ChtÃ­t pro tebe zabÃ­t ten pÃ¡raÄ!}
+{156}{}{PoslyÅ¡te, mÅ¯Å¾u pro vÃ¡s zabÃ­t toho pÃ¡raÄe?}
+{157}{}{ZajÃ­mavÃ©. MÅ¯Å¾u se zeptat jeÅ¡tÄ› na nÄ›co?}
+{158}{}{PovÄ›zte mi, doktore, jste si jistÃ½, Å¾e je tahle mÃ­stnost zvukotÄ›snÃ¡?}
+{159}{}{SamozÅ™ejmÄ›, Å¾e jsem si jistÃ½. Velitel to nechal udÄ›lat. ProÄ se ptÃ¡te?}
 {160}{}{Jen tak.}
-{161}{}{Já nechtít aby slyšet tvùj køik a já tì zabít!}
-{162}{}{Jen ze zvìdavosti.}
-{163}{}{Nechci, aby nìkdo slyšel vaše vıkøiky, a na vás budu dìlat svoje experimenty.}
-{164}{}{Zase zpátky? Co pro vás mohu udìlat tentokrát?}
-{165}{}{Opravdu tahle místnost nic zvuk?}
-{166}{}{Mít další otázky.}
-{167}{}{Nic. Já øíct ahoj.}
-{168}{}{Jste si jistı, e je tahle místnost zvukotìsná?}
-{169}{}{Chci se vás ještì na nìco zeptat.}
-{170}{}{Nic. Tak zase nìkdy nashle.}
-{171}{}{Samozøejmì, e jsem si jistı. Velitel to nechal udìlat. Proè se ptáte?}
+{161}{}{JÃ¡ nechtÃ­t aby slyÅ¡et tvÅ¯j kÅ™ik aÅ¾ jÃ¡ tÄ› zabÃ­t!}
+{162}{}{Jen ze zvÄ›davosti.}
+{163}{}{Nechci, aby nÄ›kdo slyÅ¡el vaÅ¡e vÃ½kÅ™iky, aÅ¾ na vÃ¡s budu dÄ›lat svoje experimenty.}
+{164}{}{Zase zpÃ¡tky? Co pro vÃ¡s mohu udÄ›lat tentokrÃ¡t?}
+{165}{}{Opravdu tahle mÃ­stnost nic zvuk?}
+{166}{}{MÃ­t dalÅ¡Ã­ otÃ¡zky.}
+{167}{}{Nic. JÃ¡ Å™Ã­ct ahoj.}
+{168}{}{Jste si jistÃ½, Å¾e je tahle mÃ­stnost zvukotÄ›snÃ¡?}
+{169}{}{Chci se vÃ¡s jeÅ¡tÄ› na nÄ›co zeptat.}
+{170}{}{Nic. Tak zase nÄ›kdy nashle.}
+{171}{}{SamozÅ™ejmÄ›, Å¾e jsem si jistÃ½. Velitel to nechal udÄ›lat. ProÄ se ptÃ¡te?}
 {172}{}{Jen tak.}
-{173}{}{Já nechtít aby slyšet tvùj køik a já tì zabít!}
-{174}{}{Jen ze zvìdavosti.}
-{175}{}{Nechci, aby nìkdo slyšel vaše vıkøiky, a na vás budu dìlat svoje experimenty.}
-{176}{}{Poslute si. Je ve vedlejší místnosti.}
-{177}{}{Díky!}
-{178}{}{To je K-9, mùj pes. Rozhodl jsem se zjistit, jestli mohu kybernetickou cestou vylepšit jeho inteligenci. Fungovalo to, ale mìl nìjak špatnì vyvinutou morálku. Rozhodl se, e se mu nelíbím já ani moje práce a poøád mì kousal do nohy.}
-{179}{}{Za trest jsem mu deaktivoval konèetiny, ale jinak je plnì funkèní. Teï tam musí sedìt a dívat se na všechny ty vìci, co se mu tak hnusily.}
+{173}{}{JÃ¡ nechtÃ­t aby slyÅ¡et tvÅ¯j kÅ™ik aÅ¾ jÃ¡ tÄ› zabÃ­t!}
+{174}{}{Jen ze zvÄ›davosti.}
+{175}{}{Nechci, aby nÄ›kdo slyÅ¡el vaÅ¡e vÃ½kÅ™iky, aÅ¾ na vÃ¡s budu dÄ›lat svoje experimenty.}
+{176}{}{PosluÅ¾te si. Je ve vedlejÅ¡Ã­ mÃ­stnosti.}
+{177}{}{DÃ­ky!}
+{178}{}{To je K-9, mÅ¯j pes. Rozhodl jsem se zjistit, jestli mohu kybernetickou cestou vylepÅ¡it jeho inteligenci. Fungovalo to, ale mÄ›l nÄ›jak Å¡patnÄ› vyvinutou morÃ¡lku. Rozhodl se, Å¾e se mu nelÃ­bÃ­m jÃ¡ ani moje prÃ¡ce a poÅ™Ã¡d mÄ› kousal do nohy.}
+{179}{}{Za trest jsem mu deaktivoval konÄetiny, ale jinak je plnÄ› funkÄnÃ­. TeÄ tam musÃ­ sedÄ›t a dÃ­vat se na vÅ¡echny ty vÄ›ci, co se mu tak hnusily.}
 {180}{}{Och...}
-{181}{}{On jít opravit?}
+{181}{}{On jÃ­t opravit?}
 {182}{}{Aha.}
-{183}{}{Dá se opravit?}
-{184}{}{Ale jistì. Jen jsem mu vyndal obvod motivátoru a dal ho Raulovi z údrby. Vdycky se mùe namontovat zpátky... moná to nìkdy udìlám, abych zjistil jestli vùèi mnì zmìnil názor.}
-{185}{}{Dobøe.}
-{186}{}{Tak dobøe.}
+{183}{}{DÃ¡ se opravit?}
+{184}{}{Ale jistÄ›. Jen jsem mu vyndal obvod motivÃ¡toru a dal ho Raulovi z ÃºdrÅ¾by. VÅ¾dycky se mÅ¯Å¾e namontovat zpÃ¡tky... moÅ¾nÃ¡ to nÄ›kdy udÄ›lÃ¡m, abych zjistil jestli vÅ¯Äi mnÄ› zmÄ›nil nÃ¡zor.}
+{185}{}{DobÅ™e.}
+{186}{}{Tak dobÅ™e.}
 {187}{}{Vy jste civilista?}
-{188}{}{Tohle je lékaøská laboratoø. Zbrojnice je dole v hale nalevo.}
-{189}{}{Proè na sobì nemáš uniformu?}
-{190}{}{Zatracenì! Byli jsme napadeni! Poplach!}
-{191}{}{Vetøelci! Zavolejte stráe!}
-{192}{}{Stráe! Vetøelci v lékaøské laboratoøi!}
-{193}{}{Co se dìje? Jsme napadeni?}
-{194}{}{Proè ten poplach? Co se stalo?}
-{195}{}{Co se to sakra zase dìje?}
-{196}{}{Já nejsem nepøítel, nezabíjej mì.}
-{197}{}{Nejsem ádnı voják, tak mì nech bıt.}
-{198}{}{Zatracenì! Já jsem doktor, ne voják!}
-{200}{}{[Více]}
-{201}{}{Chci se tì na nìco zeptat.}
-{202}{}{Teï ne. Promiòte, e obtìuju.}
+{188}{}{Tohle je lÃ©kaÅ™skÃ¡ laboratoÅ™. Zbrojnice je dole v hale nalevo.}
+{189}{}{ProÄ na sobÄ› nemÃ¡Å¡ uniformu?}
+{190}{}{ZatracenÄ›! Byli jsme napadeni! Poplach!}
+{191}{}{VetÅ™elci! Zavolejte strÃ¡Å¾e!}
+{192}{}{StrÃ¡Å¾e! VetÅ™elci v lÃ©kaÅ™skÃ© laboratoÅ™i!}
+{193}{}{Co se dÄ›je? Jsme napadeni?}
+{194}{}{ProÄ ten poplach? Co se stalo?}
+{195}{}{Co se to sakra zase dÄ›je?}
+{196}{}{JÃ¡ nejsem nepÅ™Ã­tel, nezabÃ­jej mÄ›.}
+{197}{}{Nejsem Å¾Ã¡dnÃ½ vojÃ¡k, tak mÄ› nech bÃ½t.}
+{198}{}{ZatracenÄ›! JÃ¡ jsem doktor, ne vojÃ¡k!}
+{200}{}{[VÃ­ce]}
+{201}{}{Chci se tÄ› na nÄ›co zeptat.}
+{202}{}{TeÄ ne. PromiÅˆte, Å¾e obtÄ›Å¾uju.}
 {800}{}{Doktora Schreber byl zabit.}

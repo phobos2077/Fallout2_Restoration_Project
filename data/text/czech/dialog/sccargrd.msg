@@ -1,12 +1,12 @@
-{100}{}{Další strá. Nìkdo je snad musí vyrábìt nebo co, protoe vypadají všichni stejnì.}
-{101}{}{Poøád je to strá. Asi se mu nelíbíš.}
-{102}{}{Podíváš se na nìj zblízka a jsi pøesvìdèenı, e je to strá.}
-{103}{}{Nemáš povolení tu bıt.}
-{104}{}{Mùu vidìt tvoji propustku?}
-{105}{}{Tohle je státní majetek. Jdi si po svıch, cizinèe.}
-{106}{}{Take ty jsi ta nová posila, jo?}
-{107}{}{Jestli jsi ještì nemluvil s Carlsonem, tak to radìji udìlej.}
-{108}{}{Pan Carlson tì oèekává.}
-{109}{}{Pan Carlson tì teï pøijme.}
-{110}{}{Doufám, e je to dùleité. Pan Carlson je velmi zaneprázdnìnı mu.}
-{111}{}{Je uvnitø. Doporuèuju ti nezdrovat se pøíliš dlouho.}
+{100}{}{DalÅ¡Ã­ strÃ¡Å¾. NÄ›kdo je snad musÃ­ vyrÃ¡bÄ›t nebo co, protoÅ¾e vypadajÃ­ vÅ¡ichni stejnÄ›.}
+{101}{}{PoÅ™Ã¡d je to strÃ¡Å¾. Asi se mu nelÃ­bÃ­Å¡.}
+{102}{}{PodÃ­vÃ¡Å¡ se na nÄ›j zblÃ­zka a jsi pÅ™esvÄ›dÄenÃ½, Å¾e je to strÃ¡Å¾.}
+{103}{}{NemÃ¡Å¡ povolenÃ­ tu bÃ½t.}
+{104}{}{MÅ¯Å¾u vidÄ›t tvoji propustku?}
+{105}{}{Tohle je stÃ¡tnÃ­ majetek. Jdi si po svÃ½ch, cizinÄe.}
+{106}{}{TakÅ¾e ty jsi ta novÃ¡ posila, jo?}
+{107}{}{Jestli jsi jeÅ¡tÄ› nemluvil s Carlsonem, tak to radÄ›ji udÄ›lej.}
+{108}{}{Pan Carlson tÄ› oÄekÃ¡vÃ¡.}
+{109}{}{Pan Carlson tÄ› teÄ pÅ™ijme.}
+{110}{}{DoufÃ¡m, Å¾e je to dÅ¯leÅ¾itÃ©. Pan Carlson je velmi zaneprÃ¡zdnÄ›nÃ½ muÅ¾.}
+{111}{}{Je uvnitÅ™. DoporuÄuju ti nezdrÅ¾ovat se pÅ™Ã­liÅ¡ dlouho.}

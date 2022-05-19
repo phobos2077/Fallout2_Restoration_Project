@@ -1,1 +1,1 @@
-{100}{}{Vidíš ostatky nìkolika obèanù Broken Hills.}
+{100}{}{VidÃ­Å¡ ostatky nÄ›kolika obÄanÅ¯ Broken Hills.}

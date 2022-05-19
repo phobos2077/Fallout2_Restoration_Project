@@ -1,6 +1,6 @@
-{100}{}{Vidíš bìnou domestikovanou brahmínu.}
-{101}{}{Druhá hlava brahmíny, je pravdìpodobnì vısledkem zvláštní genetické mutace obyèejné krávy, která byla dlouhodobì vystavena pùsobení radiace.}
-{102}{}{Nevidíš na této brahmínì nic zvláštního.}
-{103}{}{Brahmíny toho moc nenamluví.}
-{104}{}{To vánì nemáš na práci nic lepšího, ne tu stát a mluvit k dvouhlavé krávì?}
-{105}{}{Brahmíny jsou zmutované plemeno krav.}
+{100}{}{VidÃ­Å¡ bÄ›Å¾nou domestikovanou brahmÃ­nu.}
+{101}{}{DruhÃ¡ hlava brahmÃ­ny, je pravdÄ›podobnÄ› vÃ½sledkem zvlÃ¡Å¡tnÃ­ genetickÃ© mutace obyÄejnÃ© krÃ¡vy, kterÃ¡ byla dlouhodobÄ› vystavena pÅ¯sobenÃ­ radiace.}
+{102}{}{NevidÃ­Å¡ na tÃ©to brahmÃ­nÄ› nic zvlÃ¡Å¡tnÃ­ho.}
+{103}{}{BrahmÃ­ny toho moc nenamluvÃ­.}
+{104}{}{To vÃ¡Å¾nÄ› nemÃ¡Å¡ na prÃ¡ci nic lepÅ¡Ã­ho, neÅ¾ tu stÃ¡t a mluvit k dvouhlavÃ© krÃ¡vÄ›?}
+{105}{}{BrahmÃ­ny jsou zmutovanÃ© plemeno krav.}

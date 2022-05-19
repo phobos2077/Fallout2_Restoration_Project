@@ -1,1 +1,1 @@
-{100}{}{Nacházíš se v Toxickıch jeskyních.}
+{100}{}{NachÃ¡zÃ­Å¡ se v ToxickÃ½ch jeskynÃ­ch.}

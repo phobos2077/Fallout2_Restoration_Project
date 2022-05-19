@@ -1,12 +1,12 @@
-{100}{}{Vidíš... bílého hrdinu.}
-{101}{}{Vidíš svalnatého bìlocha v kombinéze Vaultu 13. Vypráví své záitky a smìje se.}
-{102}{}{Vidíš bílého hrdinu. Smìje se.}
-{103}{}{Vidíš bílého hrdinu. Smìje se.}
-{104}{}{Jo.. to mùj hráè byl TAK pitomej, e...}
-{105}{}{Vem tohle, vem támhleto... myslel si, e náboje do brokovnice jsou vodní èip a tak je odnesl Správci...}
+{100}{}{VidÃ­Å¡... bÃ­lÃ©ho hrdinu.}
+{101}{}{VidÃ­Å¡ svalnatÃ©ho bÄ›locha v kombinÃ©ze Vaultu 13. VyprÃ¡vÃ­ svÃ© zÃ¡Å¾itky a smÄ›je se.}
+{102}{}{VidÃ­Å¡ bÃ­lÃ©ho hrdinu. SmÄ›je se.}
+{103}{}{VidÃ­Å¡ bÃ­lÃ©ho hrdinu. SmÄ›je se.}
+{104}{}{Jo.. to mÅ¯j hrÃ¡Ä byl TAK pitomej, Å¾e...}
+{105}{}{Vem tohle, vem tÃ¡mhleto... myslel si, Å¾e nÃ¡boje do brokovnice jsou vodnÃ­ Äip a tak je odnesl SprÃ¡vci...}
 {106}{}{To je ale idiot!}
-{107}{}{Jednou za mì hrál jeden z tìch zabednìnejch násilníkù. A øeknu vám...}
-{108}{}{Chvíli to byla zábava, ale brzo to omrzí. Zabíjení prostì po èase zaène nudit.}
-{109}{}{Strávili jsme snad tøi hodiny nastavováním charakteru, ne se mùj hráè KONEÈNÌ rozhodl hrát.}
-{110}{}{Ian byl pro *mì* nebezpeènìjší ne nepøátelé, proti kterım jsme bojovali. Doufám, e je mrtvej, a u je to kdekoliv.}
-{111}{}{Podívej na ty svaly co mám jako postava. Je to tak strašnì pøehnanı, e je to a smìšnı!}
+{107}{}{Jednou za mÄ› hrÃ¡l jeden z tÄ›ch zabednÄ›nejch nÃ¡silnÃ­kÅ¯. A Å™eknu vÃ¡m...}
+{108}{}{ChvÃ­li to byla zÃ¡bava, ale brzo to omrzÃ­. ZabÃ­jenÃ­ prostÄ› po Äase zaÄne nudit.}
+{109}{}{StrÃ¡vili jsme snad tÅ™i hodiny nastavovÃ¡nÃ­m charakteru, neÅ¾ se mÅ¯j hrÃ¡Ä KONEÄŒNÄš rozhodl hrÃ¡t.}
+{110}{}{Ian byl pro *mÄ›* nebezpeÄnÄ›jÅ¡Ã­ neÅ¾ nepÅ™Ã¡telÃ©, proti kterÃ½m jsme bojovali. DoufÃ¡m, Å¾e je mrtvej, aÅ¥ uÅ¾ je to kdekoliv.}
+{111}{}{PodÃ­vej na ty svaly co mÃ¡m jako postava. Je to tak straÅ¡nÄ› pÅ™ehnanÃ½, Å¾e je to aÅ¾ smÄ›Å¡nÃ½!}

@@ -1,8 +1,8 @@
-{100}{}{Vidíš bojovníka.}
-{101}{}{Vidíš divoce vypadajícího bojovníka. Má pìnu u pusy.}
-{102}{}{Jeden z doktorovy tìlesné stráe.}
-{103}{}{Zabijem tì!}
+{100}{}{VidÃ­Å¡ bojovnÃ­ka.}
+{101}{}{VidÃ­Å¡ divoce vypadajÃ­cÃ­ho bojovnÃ­ka. MÃ¡ pÄ›nu u pusy.}
+{102}{}{Jeden z doktorovy tÄ›lesnÃ© strÃ¡Å¾e.}
+{103}{}{Zabijem tÄ›!}
 {104}{}{Nech doktora na pokoji!}
-{105}{}{Nenávidím doktora!}
-{106}{}{Chraòte doktora!!!}
-{107}{}{Nemluvím s tebou.}
+{105}{}{NenÃ¡vidÃ­m doktora!}
+{106}{}{ChraÅˆte doktora!!!}
+{107}{}{NemluvÃ­m s tebou.}

@@ -1,88 +1,88 @@
-{100}{}{Vidíš vychrtlého pankáèe.}
-{101}{}{Vidíš Doofuse, hlídaèe aut.}
-{102}{}{Tenhle chlápek je vyhublı a na kost, trhá sebou a má tiky. Nepochybnì je na nìèem závislı.}
-{103}{}{Tohle je fakt pìkná kára, èéèe, opravdovej krasavec! Hele, èéèe, já jsem pro tebe ten pravej. Pohlídám ti auto a budu od nìj odhánìt všechny mouchy. Pìt babek mi bude staèit. Pìt babek a Doofus je tvùj! Nikdy nespím - 24 hodin, 7 dní v tıdnu, poøád na místì a ve støehu, èéèe.}
-{104}{}{Starám se o místní parkovištì, èéèe. Hlídám auta za $5. Nikdo na nì ani nešáhne, protoe Doofus je poøád ve slubì.}
-{105}{}{Aha, jasnì, èéèe.}
-{106}{}{Take, èéèe, chceš vyuít moje sluby?}
+{100}{}{VidÃ­Å¡ vychrtlÃ©ho pankÃ¡Äe.}
+{101}{}{VidÃ­Å¡ Doofuse, hlÃ­daÄe aut.}
+{102}{}{Tenhle chlÃ¡pek je vyhublÃ½ aÅ¾ na kost, trhÃ¡ sebou a mÃ¡ tiky. NepochybnÄ› je na nÄ›Äem zÃ¡vislÃ½.}
+{103}{}{Tohle je fakt pÄ›knÃ¡ kÃ¡ra, ÄÃ©Äe, opravdovej krasavec! Hele, ÄÃ©Äe, jÃ¡ jsem pro tebe ten pravej. PohlÃ­dÃ¡m ti auto a budu od nÄ›j odhÃ¡nÄ›t vÅ¡echny mouchy. PÄ›t babek mi bude staÄit. PÄ›t babek a Doofus je tvÅ¯j! Nikdy nespÃ­m - 24 hodin, 7 dnÃ­ v tÃ½dnu, poÅ™Ã¡d na mÃ­stÄ› a ve stÅ™ehu, ÄÃ©Äe.}
+{104}{}{StarÃ¡m se o mÃ­stnÃ­ parkoviÅ¡tÄ›, ÄÃ©Äe. HlÃ­dÃ¡m auta za $5. Nikdo na nÄ› ani neÅ¡Ã¡hne, protoÅ¾e Doofus je poÅ™Ã¡d ve sluÅ¾bÄ›.}
+{105}{}{Aha, jasnÄ›, ÄÃ©Äe.}
+{106}{}{TakÅ¾e, ÄÃ©Äe, chceÅ¡ vyuÅ¾Ã­t moje sluÅ¾by?}
 {107}{}{Good. Do.}
-{108}{}{Ne. Ty nešahat.}
-{109}{}{Neøíkej mi èéèe!}
-{110}{}{Co je tohle za místo?}
-{111}{}{Platí. Tady máš $5 a dobøe mi ho hlídej.}
-{112}{}{Ztra se, otrapo!}
-{113}{}{Èéèe, mluví na mì nìjakej obr! No není to skvìlı?}
+{108}{}{Ne. Ty neÅ¡ahat.}
+{109}{}{NeÅ™Ã­kej mi ÄÃ©Äe!}
+{110}{}{Co je tohle za mÃ­sto?}
+{111}{}{PlatÃ­. Tady mÃ¡Å¡ $5 a dobÅ™e mi ho hlÃ­dej.}
+{112}{}{ZtraÅ¥ se, otrapo!}
+{113}{}{ÄŒÃ©Äe, mluvÃ­ na mÄ› nÄ›jakej obr! No nenÃ­ to skvÄ›lÃ½?}
 {114}{}{Gurg?}
-{115}{}{Neøíkej mi èéèe!}
-{116}{}{Co je tohle za místo?}
-{117}{}{Pøesnì tak. Jsem mocnı obr a ty mì budeš poslouchat!}
-{118}{}{Ztra se, ty jeden ubohej feáku!}
-{119}{}{Co potøebuješ od Doofuse, èéèe?}
-{120}{}{Hele, nevidìli jsme se u nìkde? Èím poslouím?}
-{121}{}{Aha, jasnì, èéèe.}
+{115}{}{NeÅ™Ã­kej mi ÄÃ©Äe!}
+{116}{}{Co je tohle za mÃ­sto?}
+{117}{}{PÅ™esnÄ› tak. Jsem mocnÃ½ obr a ty mÄ› budeÅ¡ poslouchat!}
+{118}{}{ZtraÅ¥ se, ty jeden ubohej feÅ¥Ã¡ku!}
+{119}{}{Co potÅ™ebujeÅ¡ od Doofuse, ÄÃ©Äe?}
+{120}{}{Hele, nevidÄ›li jsme se uÅ¾ nÄ›kde? ÄŒÃ­m poslouÅ¾Ã­m?}
+{121}{}{Aha, jasnÄ›, ÄÃ©Äe.}
 {122}{}{Squa?}
-{123}{}{Neøíkej mi èéèe!}
-{124}{}{Co dìláš?}
-{125}{}{Co je tohle za místo?}
+{123}{}{NeÅ™Ã­kej mi ÄÃ©Äe!}
+{124}{}{Co dÄ›lÃ¡Å¡?}
+{125}{}{Co je tohle za mÃ­sto?}
 {126}{}{Nic. To bude asi omyl. Nashle.}
-{127}{}{Jo, èéèe, já tì varoval. Špatnı místo. Špatní lidi všude kolem. Slyšel jsem, e ti vykradli káru.}
-{128}{}{Krá krá?}
-{129}{}{Jak to víš?}
-{130}{}{Skvìlé. Díky. Bezva.}
-{131}{}{Doofus bude spolehlivì hlídat, èéèe. Dokonce ani moucha si netroufne posrat tvùj au-to-mo-bil!}
-{132}{}{Co je tohle za místo?}
-{133}{}{Dobøe. A u sklapni.}
-{134}{}{Jestli nemáš prachy, tak odsud táhni nìkam! Mám na starosti dùleitìjší vìci.}
-{135}{}{Jo, èéèe, Doofus tì varoval.}
-{136}{}{Jdi do prdele. Nebudu odpovídat na tvoje otázky.}
-{137}{}{Co je tohle za místo?}
+{127}{}{Jo, ÄÃ©Äe, jÃ¡ tÄ› varoval. Å patnÃ½ mÃ­sto. Å patnÃ­ lidi vÅ¡ude kolem. SlyÅ¡el jsem, Å¾e ti vykradli kÃ¡ru.}
+{128}{}{KrÃ¡ krÃ¡?}
+{129}{}{Jak to vÃ­Å¡?}
+{130}{}{SkvÄ›lÃ©. DÃ­ky. Bezva.}
+{131}{}{Doofus bude spolehlivÄ› hlÃ­dat, ÄÃ©Äe. Dokonce ani moucha si netroufne posrat tvÅ¯j au-to-mo-bil!}
+{132}{}{Co je tohle za mÃ­sto?}
+{133}{}{DobÅ™e. A uÅ¾ sklapni.}
+{134}{}{Jestli nemÃ¡Å¡ prachy, tak odsud tÃ¡hni nÄ›kam! MÃ¡m na starosti dÅ¯leÅ¾itÄ›jÅ¡Ã­ vÄ›ci.}
+{135}{}{Jo, ÄÃ©Äe, Doofus tÄ› varoval.}
+{136}{}{Jdi do prdele. Nebudu odpovÃ­dat na tvoje otÃ¡zky.}
+{137}{}{Co je tohle za mÃ­sto?}
 {138}{}{Sbohem.}
-{139}{}{Pá pá.}
-{140}{}{Páni, myšlenková komunikace! Zachytávám duševní vibrace! Dobøe, zkusím to... ehhh... ehhh...}
+{139}{}{PÃ¡ pÃ¡.}
+{140}{}{PÃ¡ni, myÅ¡lenkovÃ¡ komunikace! ZachytÃ¡vÃ¡m duÅ¡evnÃ­ vibrace! DobÅ™e, zkusÃ­m to... ehhh... ehhh...}
 {141}{}{Ano?}
 {142}{}{Ne?}
-{143}{}{Ty jseš fakt mentální pøípad! Odcházím.}
-{144}{}{Tohle je NCR - vznešená, mocná, spravedlivá, vdy a absolutnì správná New California Republic. To oni povedou lidi, jako jsme my, z pustiny smìrem k novı a lepší budoucnosti. Chápeš?}
-{145}{}{Vrame se zpátky k tvojí nabídce.}
-{146}{}{Jo, díky. Sbohem.}
+{143}{}{Ty jseÅ¡ fakt mentÃ¡lnÃ­ pÅ™Ã­pad! OdchÃ¡zÃ­m.}
+{144}{}{Tohle je NCR - vzneÅ¡enÃ¡, mocnÃ¡, spravedlivÃ¡, vÅ¾dy a absolutnÄ› sprÃ¡vnÃ¡ New California Republic. To oni povedou lidi, jako jsme my, z pustiny smÄ›rem k novÃ½ a lepÅ¡Ã­ budoucnosti. ChÃ¡peÅ¡?}
+{145}{}{VraÅ¥me se zpÃ¡tky k tvojÃ­ nabÃ­dce.}
+{146}{}{Jo, dÃ­ky. Sbohem.}
 {147}{}{Gurg, ladal spaf!}
 {148}{}{TAK!}
 {149}{}{Doof? Ganya kulk zar!}
 {150}{}{Right - obey the giant, man. It's the way things are supposed to be. What should I do, giant?}
-{151}{}{Èéèe, to je teda nìco. Obøe, já jsem Doofus a mám na starosti hlídání aut, co sem lidi pøivezou, ale, no víš, obèas... potøebuju nìjakı prachy a vìci, chápeš?}
-{152}{}{Jo, jasnì. Obèas jsem prostì švorc a mám svı potøeby, rozumíš, tøeba kdy se cejtím pod psa, tak musím vydìlat nìjakı chechtáky a kvùli tomu jdu za Merkem.}
-{153}{}{Èéèe, øeknu ti, Merk je správnej chlap. U nìho vdycky najdeš práci i zboí. Nìkdy mì nechá pøespat v "Nevydìlanı kùi" po zavíraèce. Ale pak za to ode mì vdycky nìco chce.}
-{154}{}{U se k tomu pomalu dostávám... hele, ty barvy, èéèe! Merk po mnì obèas chce nìjakı vìci z aut, kterı hlídám, ale já ho vdycky pøechytraèím!}
-{155}{}{Víš, vybírám jenom auta, za jejich hlídání nejsem placenej. On si myslí, e okrádám svı zákazníky, ale to já nedìlám. Èéèe, u musím pøestat vanit. Zaèínám vidìt fakt hustı vìci... áách, èéèe, to svìtlo, ta ZÁØE. Všechno je to o záøení.}
-{156}{}{Dej mi všechny svoje vìci.}
-{157}{}{Øekni mi všechno co víš.}
-{158}{}{To staèí, nic víc u nepoberu.}
-{159}{}{Dr u tu hubu, ty blbej sráèi!}
-{160}{}{Pá pá.}
-{161}{}{Dy víš, obèas nìco zaslechnu. A zaslechnu toho hodnì, i kdy si to ne vdycky pøesnì pamatuju.}
-{162}{}{$50 babek ti to urèitì všechno pøipomene.}
-{163}{}{Radìji si vzpomeò, nebo ti ustøelím palici.}
-{164}{}{Kašlu na to. Nemám èas se zahazovat s takovou feáckou troskou.}
-{165}{}{Správnì, èéèe. Zajdi za Merkem. Ten má vdycky nìjakou práci.}
-{166}{}{Mizím. Pápá!}
-{167}{}{Èéèe, to nebylo dobrı! Merk nebude zrovna moc nadšenej a to uslyší.}
+{151}{}{ÄŒÃ©Äe, to je teda nÄ›co. ObÅ™e, jÃ¡ jsem Doofus a mÃ¡m na starosti hlÃ­dÃ¡nÃ­ aut, co sem lidi pÅ™ivezou, ale, no vÃ­Å¡, obÄas... potÅ™ebuju nÄ›jakÃ½ prachy a vÄ›ci, chÃ¡peÅ¡?}
+{152}{}{Jo, jasnÄ›. ObÄas jsem prostÄ› Å¡vorc a mÃ¡m svÃ½ potÅ™eby, rozumÃ­Å¡, tÅ™eba kdyÅ¾ se cejtÃ­m pod psa, tak musÃ­m vydÄ›lat nÄ›jakÃ½ chechtÃ¡ky a kvÅ¯li tomu jdu za Merkem.}
+{153}{}{ÄŒÃ©Äe, Å™eknu ti, Merk je sprÃ¡vnej chlap. U nÄ›ho vÅ¾dycky najdeÅ¡ prÃ¡ci i zboÅ¾Ã­. NÄ›kdy mÄ› nechÃ¡ pÅ™espat v "NevydÄ›lanÃ½ kÅ¯Å¾i" po zavÃ­raÄce. Ale pak za to ode mÄ› vÅ¾dycky nÄ›co chce.}
+{154}{}{UÅ¾ se k tomu pomalu dostÃ¡vÃ¡m... hele, ty barvy, ÄÃ©Äe! Merk po mnÄ› obÄas chce nÄ›jakÃ½ vÄ›ci z aut, kterÃ½ hlÃ­dÃ¡m, ale jÃ¡ ho vÅ¾dycky pÅ™echytraÄÃ­m!}
+{155}{}{VÃ­Å¡, vybÃ­rÃ¡m jenom auta, za jejichÅ¾ hlÃ­dÃ¡nÃ­ nejsem placenej. On si myslÃ­, Å¾e okrÃ¡dÃ¡m svÃ½ zÃ¡kaznÃ­ky, ale to jÃ¡ nedÄ›lÃ¡m. ÄŒÃ©Äe, uÅ¾ musÃ­m pÅ™estat Å¾vanit. ZaÄÃ­nÃ¡m vidÄ›t fakt hustÃ½ vÄ›ci... Ã¡Ã¡ch, ÄÃ©Äe, to svÄ›tlo, ta ZÃÅ˜E. VÅ¡echno je to o zÃ¡Å™enÃ­.}
+{156}{}{Dej mi vÅ¡echny svoje vÄ›ci.}
+{157}{}{Å˜ekni mi vÅ¡echno co vÃ­Å¡.}
+{158}{}{To staÄÃ­, nic vÃ­c uÅ¾ nepoberu.}
+{159}{}{DrÅ¾ uÅ¾ tu hubu, ty blbej srÃ¡Äi!}
+{160}{}{PÃ¡ pÃ¡.}
+{161}{}{DyÅ¥ vÃ­Å¡, obÄas nÄ›co zaslechnu. A zaslechnu toho hodnÄ›, i kdyÅ¾ si to ne vÅ¾dycky pÅ™esnÄ› pamatuju.}
+{162}{}{$50 babek ti to urÄitÄ› vÅ¡echno pÅ™ipomene.}
+{163}{}{RadÄ›ji si vzpomeÅˆ, nebo ti ustÅ™elÃ­m palici.}
+{164}{}{KaÅ¡lu na to. NemÃ¡m Äas se zahazovat s takovou feÅ¥Ã¡ckou troskou.}
+{165}{}{SprÃ¡vnÄ›, ÄÃ©Äe. Zajdi za Merkem. Ten mÃ¡ vÅ¾dycky nÄ›jakou prÃ¡ci.}
+{166}{}{MizÃ­m. PÃ¡pÃ¡!}
+{167}{}{ÄŒÃ©Äe, to nebylo dobrÃ½! Merk nebude zrovna moc nadÅ¡enej aÅ¾ to uslyÅ¡Ã­.}
 {168}{}{Goodbye, dope-head.}
 {169}{}{Okay! Look, it was Merk's crew. They were jacking cars last night. Ask around and you might find them.}
-{170}{}{Ty lhát, já zabít.}
-{171}{}{Neli mi. Vrátím se, jestli pøijdu na to, e jsi mi lhal.}
-{172}{}{Jasnì, u se klepu strachy.}
-{173}{}{$50 babek ti to urèitì všechno pøipomene.}
-{174}{}{Polib mi, hlupáku.}
-{175}{}{Polib mi. Mizím odsud.}
-{176}{}{Potøebuješ pohlídat auto? ádnej problém. Od toho tu jsem.}
-{177}{}{Jóó, jóó, já HLÍDÁM auta, jóó, AUTA... AUTA... jóó, autíèká...!}
-{178}{}{LA LA LA LA AUTA, hej, svìø mi auto a JÁ HO BUDU HLÍDAT.}
-{179}{}{HLÍDÁM hlídám hlídám HLÍDÁM hlídám HLÍdám HHHLÍÍÍDÁÁÁM hlídám.}
-{180}{}{Napsal jsem o tom písnièku. Chceš ji slyšet? Tady je...}
-{181}{}{Auta AAUTA AUTA auta KÁÁRY KKKÁRY vozy kozy.}
-{182}{}{Kozy?! A proè ne, kozy mùu hlídat taky. Kadı má pøece nìjakou tu KOZU!!}
-{183}{}{MÁM RÁD KOZY, TO SLOVO SE VYSLOVUJE SKORO STEJNÌ JAKO VOZY A OBOJE MÙU HLÍDAT!}
-{184}{}{Máte rádi svoje auta a já vám je STØEÍM jako jestøáb s malıma slídivıma oèièkama.}
-{185}{}{Nikdy neopustím svı místo a poøád hlídám. Lidi sice nìkdy remcaj, ale já poøád støeím.}
-{186}{}{Jóó, jsem v pohodì. JÓÓ, JSEM V POHODÌ, jóó.}
-{187}{}{Jasnì, kámo, vem si to všechno.}
+{170}{}{Ty lhÃ¡t, jÃ¡ zabÃ­t.}
+{171}{}{NelÅ¾i mi. VrÃ¡tÃ­m se, jestli pÅ™ijdu na to, Å¾e jsi mi lhal.}
+{172}{}{JasnÄ›, uÅ¾ se klepu strachy.}
+{173}{}{$50 babek ti to urÄitÄ› vÅ¡echno pÅ™ipomene.}
+{174}{}{Polib mi, hlupÃ¡ku.}
+{175}{}{Polib mi. MizÃ­m odsud.}
+{176}{}{PotÅ™ebujeÅ¡ pohlÃ­dat auto? Å½Ã¡dnej problÃ©m. Od toho tu jsem.}
+{177}{}{JÃ³Ã³, jÃ³Ã³, jÃ¡ HLÃDÃM auta, jÃ³Ã³, AUTA... AUTA... jÃ³Ã³, autÃ­ÄkÃ¡...!}
+{178}{}{LA LA LA LA AUTA, hej, svÄ›Å™ mi auto a JÃ HO BUDU HLÃDAT.}
+{179}{}{HLÃDÃM hlÃ­dÃ¡m hlÃ­dÃ¡m HLÃDÃM hlÃ­dÃ¡m HLÃdÃ¡m HHHLÃÃÃDÃÃÃM hlÃ­dÃ¡m.}
+{180}{}{Napsal jsem o tom pÃ­sniÄku. ChceÅ¡ ji slyÅ¡et? Tady je...}
+{181}{}{Auta AAUTA AUTA auta KÃÃRY KKKÃRY vozy kozy.}
+{182}{}{Kozy?! A proÄ ne, kozy mÅ¯Å¾u hlÃ­dat taky. KaÅ¾dÃ½ mÃ¡ pÅ™ece nÄ›jakou tu KOZU!!}
+{183}{}{MÃM RÃD KOZY, TO SLOVO SE VYSLOVUJE SKORO STEJNÄš JAKO VOZY A OBOJE MÅ®Å½U HLÃDAT!}
+{184}{}{MÃ¡te rÃ¡di svoje auta a jÃ¡ vÃ¡m je STÅ˜EÅ½ÃM jako jestÅ™Ã¡b s malÃ½ma slÃ­divÃ½ma oÄiÄkama.}
+{185}{}{Nikdy neopustÃ­m svÃ½ mÃ­sto a poÅ™Ã¡d hlÃ­dÃ¡m. Lidi sice nÄ›kdy remcaj, ale jÃ¡ poÅ™Ã¡d stÅ™eÅ¾Ã­m.}
+{186}{}{JÃ³Ã³, jsem v pohodÄ›. JÃ“Ã“, JSEM V POHODÄš, jÃ³Ã³.}
+{187}{}{JasnÄ›, kÃ¡mo, vem si to vÅ¡echno.}

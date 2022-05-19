@@ -1,39 +1,39 @@
-{100}{}{Vidíš poèítaèovı terminál.}
-{101}{}{Vidíš chemickou pracovní stanici.}
-{102}{}{Vidíš poèítaèovou pracovní stanici.}
-{103}{}{Zdravím. Prosím zadejte heslo pro ovìøení totonosti.}
-{104}{}{? Já nerozumìt velká slova.}
+{100}{}{VidÃ­Å¡ poÄÃ­taÄovÃ½ terminÃ¡l.}
+{101}{}{VidÃ­Å¡ chemickou pracovnÃ­ stanici.}
+{102}{}{VidÃ­Å¡ poÄÃ­taÄovou pracovnÃ­ stanici.}
+{103}{}{ZdravÃ­m. ProsÃ­m zadejte heslo pro ovÄ›Å™enÃ­ totoÅ¾nosti.}
+{104}{}{? JÃ¡ nerozumÄ›t velkÃ¡ slova.}
 {105}{}{TIUASPO-Lo-Shi-S12908}
-{106}{}{::hacknout se do poèítaèe::}
-{107}{}{Odhlásit se.}
-{108}{}{Chemická databáze: -Paliva a deriváty- -Polymery-}
-{109}{}{Paliva a deriváty.}
+{106}{}{::hacknout se do poÄÃ­taÄe::}
+{107}{}{OdhlÃ¡sit se.}
+{108}{}{ChemickÃ¡ databÃ¡ze: -Paliva a derivÃ¡ty- -Polymery-}
+{109}{}{Paliva a derivÃ¡ty.}
 {110}{}{Polymery.}
-{111}{}{Deaktivovat pracovní stanici.}
-{112}{}{Odhlásit se.}
-{113}{}{Prosím, obrate se na správce systému. Nashledanou.}
-{114}{}{::hacknout se do poèítaèe::}
-{115}{}{Odejít.}
-{116}{}{Zaznamenán nepovolenı pøístup. Automatické vypnutí. Pøeji hezkı den.}
+{111}{}{Deaktivovat pracovnÃ­ stanici.}
+{112}{}{OdhlÃ¡sit se.}
+{113}{}{ProsÃ­m, obraÅ¥te se na sprÃ¡vce systÃ©mu. Nashledanou.}
+{114}{}{::hacknout se do poÄÃ­taÄe::}
+{115}{}{OdejÃ­t.}
+{116}{}{ZaznamenÃ¡n nepovolenÃ½ pÅ™Ã­stup. AutomatickÃ© vypnutÃ­. PÅ™eji hezkÃ½ den.}
 {117}{}{[KONEC]}
-{118}{}{(Po prostudování sloitıch chemickıch vzorcù a laboratorních zápiskù docházíš k závìru, e Shi vytvoøili novı druh paliva z rostlinnıch extraktù a moøského ivota. Také se údajnì napojili na døíve existující potrubí, aby mohli dopravovat palivo do vícero lokací.)}
-{119}{}{(Narazil jsi na veliké mnoství sloitıch chemickıch vzorcù a laboratorních zápiskù. Nejsi si úplnì jistı, co všechno znamenají.)}
-{120}{}{Pøevést palivo do tankeru Poseidon.}
-{121}{}{Pøevést palivo k Hubologistùm.}
-{122}{}{Zpìt.}
-{123}{}{(Po pøelouskání symbologie a technické dokumentace se ti podaøilo zjistit, e Shi pracují na nové polymerické zbroji, která je odolná vùèi ohni a prùbojnım støelám. Dokonèení je však stále v nedohlednu. Také si všímáš zmínky o novıch zbraních a konstrukèních monostech. Oèividnì mají Shi nìjaké plány do budoucna.)}
-{124}{}{Zpìt.}
-{125}{}{Palivo pøevedeno dle poadavku. Skladovací nádre = Prázdné. Ukonèuji program.}
+{118}{}{(Po prostudovÃ¡nÃ­ sloÅ¾itÃ½ch chemickÃ½ch vzorcÅ¯ a laboratornÃ­ch zÃ¡piskÅ¯ dochÃ¡zÃ­Å¡ k zÃ¡vÄ›ru, Å¾e Shi vytvoÅ™ili novÃ½ druh paliva z rostlinnÃ½ch extraktÅ¯ a moÅ™skÃ©ho Å¾ivota. TakÃ© se ÃºdajnÄ› napojili na dÅ™Ã­ve existujÃ­cÃ­ potrubÃ­, aby mohli dopravovat palivo do vÃ­cero lokacÃ­.)}
+{119}{}{(Narazil jsi na velikÃ© mnoÅ¾stvÃ­ sloÅ¾itÃ½ch chemickÃ½ch vzorcÅ¯ a laboratornÃ­ch zÃ¡piskÅ¯. Nejsi si ÃºplnÄ› jistÃ½, co vÅ¡echno znamenajÃ­.)}
+{120}{}{PÅ™evÃ©st palivo do tankeru Poseidon.}
+{121}{}{PÅ™evÃ©st palivo k HubologistÅ¯m.}
+{122}{}{ZpÄ›t.}
+{123}{}{(Po pÅ™elouskÃ¡nÃ­ symbologie a technickÃ© dokumentace se ti podaÅ™ilo zjistit, Å¾e Shi pracujÃ­ na novÃ© polymerickÃ© zbroji, kterÃ¡ je odolnÃ¡ vÅ¯Äi ohni a prÅ¯bojnÃ½m stÅ™elÃ¡m. DokonÄenÃ­ je vÅ¡ak stÃ¡le v nedohlednu. TakÃ© si vÅ¡Ã­mÃ¡Å¡ zmÃ­nky o novÃ½ch zbranÃ­ch a konstrukÄnÃ­ch moÅ¾nostech. OÄividnÄ› majÃ­ Shi nÄ›jakÃ© plÃ¡ny do budoucna.)}
+{124}{}{ZpÄ›t.}
+{125}{}{Palivo pÅ™evedeno dle poÅ¾adavku. SkladovacÃ­ nÃ¡drÅ¾e = PrÃ¡zdnÃ©. UkonÄuji program.}
 {126}{}{[KONEC]}
-{127}{}{Palivo pøevedeno dle poadavku. Skladovací nádre = Prázdné. Ukonèuji program.}
+{127}{}{Palivo pÅ™evedeno dle poÅ¾adavku. SkladovacÃ­ nÃ¡drÅ¾e = PrÃ¡zdnÃ©. UkonÄuji program.}
 {128}{}{[KONEC]}
-{129}{}{Stanice deaktivována.}
+{129}{}{Stanice deaktivovÃ¡na.}
 {130}{}{Aktivovat stanici.}
-{131}{}{Odejít.}
-{132}{}{(Náhodnì stiskneš nìkolik kláves... a jsi v poèítaèi!)}
-{133}{}{[Více]}
-{134}{}{Poèítaè nereaguje na ádnou klávesu.}
-{135}{}{Nemáš tušení kam to vloit.}
-{136}{}{::hádat heslo::}
-{137}{}{Pøevést palivo potrubím.}
-{138}{}{Vyadován cíl.}
+{131}{}{OdejÃ­t.}
+{132}{}{(NÃ¡hodnÄ› stiskneÅ¡ nÄ›kolik klÃ¡ves... a jsi v poÄÃ­taÄi!)}
+{133}{}{[VÃ­ce]}
+{134}{}{PoÄÃ­taÄ nereaguje na Å¾Ã¡dnou klÃ¡vesu.}
+{135}{}{NemÃ¡Å¡ tuÅ¡enÃ­ kam to vloÅ¾it.}
+{136}{}{::hÃ¡dat heslo::}
+{137}{}{PÅ™evÃ©st palivo potrubÃ­m.}
+{138}{}{VyÅ¾adovÃ¡n cÃ­l.}

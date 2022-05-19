@@ -1,4 +1,4 @@
-{100}{}{Vidíš dveøe.}
-{101}{}{Vidíš dveøe.}
-{102}{}{Vidíš dveøe. Nezdá se, e by na nich byl zámek jako na normálních dveøích.}
-{103}{}{Nic to neudìlalo.}
+{100}{}{VidÃ­Å¡ dveÅ™e.}
+{101}{}{VidÃ­Å¡ dveÅ™e.}
+{102}{}{VidÃ­Å¡ dveÅ™e. NezdÃ¡ se, Å¾e by na nich byl zÃ¡mek jako na normÃ¡lnÃ­ch dveÅ™Ã­ch.}
+{103}{}{Nic to neudÄ›lalo.}

@@ -1,132 +1,132 @@
-{100}{}{Vidíš Hubologistu v kápi. Vypadá trochu odlišnì ne ostatní.}
-{101}{}{Vidíš AHS-7, druhého vùdce.}
-{102}{}{Vidíš Hubologistu v kápi.}
-{103}{}{Stráe! Vetøelec! Zabijte ho!}
-{104}{}{Ty, co tady chceš?}
+{100}{}{VidÃ­Å¡ Hubologistu v kÃ¡pi. VypadÃ¡ trochu odliÅ¡nÄ› neÅ¾ ostatnÃ­.}
+{101}{}{VidÃ­Å¡ AHS-7, druhÃ©ho vÅ¯dce.}
+{102}{}{VidÃ­Å¡ Hubologistu v kÃ¡pi.}
+{103}{}{StrÃ¡Å¾e! VetÅ™elec! Zabijte ho!}
+{104}{}{Ty, co tady chceÅ¡?}
 {105}{}{Aaagh! Nu! Nee!}
-{106}{}{Mám dopis pro AHS-9 od Osvícené z NCR.}
+{106}{}{MÃ¡m dopis pro AHS-9 od OsvÃ­cenÃ© z NCR.}
 {107}{}{I'm here to speak to Crockett about some armor.}
-{108}{}{Chci se tu porozhlédnout.}
-{109}{}{Mám zájem se k vám moná pøidat.}
+{108}{}{Chci se tu porozhlÃ©dnout.}
+{109}{}{MÃ¡m zÃ¡jem se k vÃ¡m moÅ¾nÃ¡ pÅ™idat.}
 {110}{}{Kdo jsi?}
-{111}{}{Pøišel jsem vás všechny zabít.}
-{112}{}{Ach, ubohé dítì. Chceš podstoupit srovnání?}
+{111}{}{PÅ™iÅ¡el jsem vÃ¡s vÅ¡echny zabÃ­t.}
+{112}{}{Ach, ubohÃ© dÃ­tÄ›. ChceÅ¡ podstoupit srovnÃ¡nÃ­?}
 {113}{}{Jo!}
 {114}{}{Ne!}
-{115}{}{Ubohé dítì. Ji srovnán, ale stále neschopen mluvení. Pojï dál.}
+{115}{}{UbohÃ© dÃ­tÄ›. JiÅ¾ srovnÃ¡n, ale stÃ¡le neschopen mluvenÃ­. PojÄ dÃ¡l.}
 {116}{}{Dik!}
-{117}{}{Pojï dál a vyhledej Juana a Vikki. Oni ti pomohou. Hodnì štìstí, dítì.}
+{117}{}{PojÄ dÃ¡l a vyhledej Juana a Vikki. Oni ti pomohou. HodnÄ› Å¡tÄ›stÃ­, dÃ­tÄ›.}
 {118}{}{Dik!}
-{119}{}{::jeho hlas zvání:: V tom pøípadì nevidím jedinı dùvod, proè bych tì mìl pouštìt dál. Hezkı den.}
+{119}{}{::jeho hlas zvÃ¡Å¾nÃ­:: V tom pÅ™Ã­padÄ› nevidÃ­m jedinÃ½ dÅ¯vod, proÄ bych tÄ› mÄ›l pouÅ¡tÄ›t dÃ¡l. HezkÃ½ den.}
 {120}{}{Hej!}
-{121}{}{No dobøe, ale rychle. Je to opravdu, ale opravdu zaneprázdnìnı mu.}
-{122}{}{Dobøe.}
-{123}{}{Toto není místo pro veøejné exkurze. Hezkı den.}
+{121}{}{No dobÅ™e, ale rychle. Je to opravdu, ale opravdu zaneprÃ¡zdnÄ›nÃ½ muÅ¾.}
+{122}{}{DobÅ™e.}
+{123}{}{Toto nenÃ­ mÃ­sto pro veÅ™ejnÃ© exkurze. HezkÃ½ den.}
 {124}{}{[KONEC]}
-{125}{}{Vıbornì! Pojï dál, pojï dál. Promluv si s Juanem Cruzem a Vikki Goldmanovou - jsou to sice celebrity, ale budou se s TEBOU bavit.}
-{126}{}{Co jsou zaè?}
-{127}{}{Ó! Celebrity!}
-{128}{}{Jsem AHS-7, druhı vùdce této základny. Ne se zeptáš: AHS znamená Srovnanı Hledaè Hubu, co znamená, e jsem oèistil sedm úrovní neurodynù ze své duše. Díky tomu jsem osvícenìjší a jsem blíe støedu pohybu Velkého Kruhu, ne jsi ty. A to znamená, e mi øekneš, co tu chceš. Hned teï.}
-{129}{}{Mám dopis pro AHS-9 od Osvícené z NCR.}
+{125}{}{VÃ½bornÄ›! PojÄ dÃ¡l, pojÄ dÃ¡l. Promluv si s Juanem Cruzem a Vikki Goldmanovou - jsou to sice celebrity, ale budou se s TEBOU bavit.}
+{126}{}{Co jsou zaÄ?}
+{127}{}{Ã“! Celebrity!}
+{128}{}{Jsem AHS-7, druhÃ½ vÅ¯dce tÃ©to zÃ¡kladny. NeÅ¾ se zeptÃ¡Å¡: AHS znamenÃ¡ SrovnanÃ½ HledaÄ Hubu, coÅ¾ znamenÃ¡, Å¾e jsem oÄistil sedm ÃºrovnÃ­ neurodynÅ¯ ze svÃ© duÅ¡e. DÃ­ky tomu jsem osvÃ­cenÄ›jÅ¡Ã­ a jsem blÃ­Å¾e stÅ™edu pohybu VelkÃ©ho Kruhu, neÅ¾ jsi ty. A to znamenÃ¡, Å¾e mi Å™ekneÅ¡, co tu chceÅ¡. Hned teÄ.}
+{129}{}{MÃ¡m dopis pro AHS-9 od OsvÃ­cenÃ© z NCR.}
 {130}{}{I'm here to speak to Crockett about some armor.}
-{131}{}{Chci se tu porozhlédnout.}
-{132}{}{Mám zájem se k vám moná pøidat.}
-{133}{}{Pøišel jsem vás všechny zabít.}
-{134}{}{Jsou to hvìzdy z New Rena. Pochopili pravdu naší doktríny a pøišli oèistit své neurodyny.}
+{131}{}{Chci se tu porozhlÃ©dnout.}
+{132}{}{MÃ¡m zÃ¡jem se k vÃ¡m moÅ¾nÃ¡ pÅ™idat.}
+{133}{}{PÅ™iÅ¡el jsem vÃ¡s vÅ¡echny zabÃ­t.}
+{134}{}{Jsou to hvÄ›zdy z New Rena. Pochopili pravdu naÅ¡Ã­ doktrÃ­ny a pÅ™iÅ¡li oÄistit svÃ© neurodyny.}
 {135}{}{Kde je najdu?}
-{136}{}{No, zapomeò na to. Jdu pryè.}
-{137}{}{Najdeš je v modlitebnì, kde ukazují našim nováèkùm a špinavcùm, jak pøínosné je bıt Hubologistou.}
-{138}{}{No tak u mì pus dovnitø!}
-{139}{}{Na to si udìlám vlastní názor. Pus mì dovnitø.}
-{140}{}{Zapomeò na to. Mizím odsud.}
-{141}{}{Á, ty u jsi mluvil s Juanem a Vikki. Pøipojíš se tedy k našim pøátelùm v hledání osvícení Velkého Kruhu?}
+{136}{}{No, zapomeÅˆ na to. Jdu pryÄ.}
+{137}{}{NajdeÅ¡ je v modlitebnÄ›, kde ukazujÃ­ naÅ¡im novÃ¡ÄkÅ¯m a Å¡pinavcÅ¯m, jak pÅ™Ã­nosnÃ© je bÃ½t Hubologistou.}
+{138}{}{No tak uÅ¾ mÄ› pusÅ¥ dovnitÅ™!}
+{139}{}{Na to si udÄ›lÃ¡m vlastnÃ­ nÃ¡zor. PusÅ¥ mÄ› dovnitÅ™.}
+{140}{}{ZapomeÅˆ na to. MizÃ­m odsud.}
+{141}{}{Ã, ty uÅ¾ jsi mluvil s Juanem a Vikki. PÅ™ipojÃ­Å¡ se tedy k naÅ¡im pÅ™Ã¡telÅ¯m v hledÃ¡nÃ­ osvÃ­cenÃ­ VelkÃ©ho Kruhu?}
 {142}{}{Ach ano. Ano, ano, ano.}
-{143}{}{Jasnì.}
-{144}{}{Ne, teï ještì ne. Mùu se vrátit pozdìji?}
-{145}{}{Myslím, e nemám zájem. Promiò.}
-{146}{}{Ani náhodou. Váš šílenı kult by zaslouil vyhladit.}
-{147}{}{::usmìje se:: Nebudeš toho litovat. Staneš se souèástí naší komunity. Á... ty jsi èlovìk, kterı umí pouívat zbranì. Chceš je pouít ve slubì Velkému Kruhu?}
+{143}{}{JasnÄ›.}
+{144}{}{Ne, teÄ jeÅ¡tÄ› ne. MÅ¯Å¾u se vrÃ¡tit pozdÄ›ji?}
+{145}{}{MyslÃ­m, Å¾e nemÃ¡m zÃ¡jem. PromiÅˆ.}
+{146}{}{Ani nÃ¡hodou. VÃ¡Å¡ Å¡Ã­lenÃ½ kult by zaslouÅ¾il vyhladit.}
+{147}{}{::usmÄ›je se:: NebudeÅ¡ toho litovat. StaneÅ¡ se souÄÃ¡stÃ­ naÅ¡Ã­ komunity. Ã... ty jsi ÄlovÄ›k, kterÃ½ umÃ­ pouÅ¾Ã­vat zbranÄ›. ChceÅ¡ je pouÅ¾Ã­t ve sluÅ¾bÄ› VelkÃ©mu Kruhu?}
 {148}{}{Ano.}
-{149}{}{Moná pozdìji.}
-{150}{}{Neotálej pøíliš dlouho ne se vrátíš s odpovìdí. Tvoje neurodyny budou zneèišovány víc a víc, dokud nezahájíme oèistnı proces.}
-{151}{}{Rozmyslel jsem si to. Pøidám se.}
-{152}{}{ádnı problém. Popovídáme se pozdìji.}
-{153}{}{Mùeš odsud bezpeènì odejít, poutníku, ale nedoporuèuji ti se sem vracet. Pokud nepracuješ s námi, pracuješ proti nám. A já bych tì velice nerad vidìl trpìt.}
-{154}{}{Díky za obavy. Zatím.}
-{155}{}{Myslím, e bych nebyl ten, kdo by trpìl. Zatím.}
-{156}{}{Vyhladit? VYHLADIT? STRÁE! ZABIJTE NEVÌØÍCÍHO!}
+{149}{}{MoÅ¾nÃ¡ pozdÄ›ji.}
+{150}{}{NeotÃ¡lej pÅ™Ã­liÅ¡ dlouho neÅ¾ se vrÃ¡tÃ­Å¡ s odpovÄ›dÃ­. Tvoje neurodyny budou zneÄiÅ¡Å¥ovÃ¡ny vÃ­c a vÃ­c, dokud nezahÃ¡jÃ­me oÄistnÃ½ proces.}
+{151}{}{Rozmyslel jsem si to. PÅ™idÃ¡m se.}
+{152}{}{Å½Ã¡dnÃ½ problÃ©m. PopovÃ­dÃ¡me se pozdÄ›ji.}
+{153}{}{MÅ¯Å¾eÅ¡ odsud bezpeÄnÄ› odejÃ­t, poutnÃ­ku, ale nedoporuÄuji ti se sem vracet. Pokud nepracujeÅ¡ s nÃ¡mi, pracujeÅ¡ proti nÃ¡m. A jÃ¡ bych tÄ› velice nerad vidÄ›l trpÄ›t.}
+{154}{}{DÃ­ky za obavy. ZatÃ­m.}
+{155}{}{MyslÃ­m, Å¾e bych nebyl ten, kdo by trpÄ›l. ZatÃ­m.}
+{156}{}{Vyhladit? VYHLADIT? STRÃÅ½E! ZABIJTE NEVÄšÅ˜ÃCÃHO!}
 {157}{}{[KONEC]}
-{158}{}{Take... u jsi mìl dost èasu pøemıšlet o svém rozhodnutí. Pøidáš se k nám?}
+{158}{}{TakÅ¾e... uÅ¾ jsi mÄ›l dost Äasu pÅ™emÃ½Å¡let o svÃ©m rozhodnutÃ­. PÅ™idÃ¡Å¡ se k nÃ¡m?}
 {159}{}{Ano.}
 {160}{}{Ne.}
-{161}{}{Dej mi ještì chvíli.}
-{162}{}{Nemáš víc èasu. Rozhodni se teï, špinavèe.}
-{163}{}{Dobøe, pøidám se.}
-{164}{}{Zapomeò na to. Nemám rád mocenskou vládu.}
-{165}{}{Tyranští Shi soupeøí s naší mocí a vytváøejí zmatek mezi našimi bratry pomocí vlastního zpùsobu, jak ovlivnit neurodyny. Vìøíme, e kdy bude jejich Císaø mrtvı, spatøí omyly své cesty. Zabiješ pro nás Císaøe?}
-{166}{}{Ano, udìlám to.}
-{167}{}{Ne, Shi mi nikdy nic neudìlali.}
-{168}{}{Tøeba si to ještì rozmyslíš. Pokud ano, dej mi vìdìt. Mùe ti Hub ještì s nìèím pomoci, rekrute?}
-{169}{}{Ano, mám nìjaké otázky.}
-{170}{}{No, momentálnì ne. Díky.}
-{171}{}{Pøemıšlel jsi o pomoci v našem boji proti utiskovatelùm Shi? Hvìzdnı Otec ti dá poehnání, pokud se zúèastníš naší køíové vıpravy.}
-{172}{}{Stále nevím, jestli to chci udìlat.}
-{173}{}{Udìlám to.}
-{174}{}{Moná mùu pomoct tvé utrápené duši. Co potøebuješ?}
-{175}{}{Kde získám palivo pro tanker Poseidon?}
-{176}{}{Kde najdu popis všech vırazù, o kterıch jsi mluvil?}
-{177}{}{Kdy odlétá raketoplán?}
+{161}{}{Dej mi jeÅ¡tÄ› chvÃ­li.}
+{162}{}{NemÃ¡Å¡ vÃ­c Äasu. Rozhodni se teÄ, Å¡pinavÄe.}
+{163}{}{DobÅ™e, pÅ™idÃ¡m se.}
+{164}{}{ZapomeÅˆ na to. NemÃ¡m rÃ¡d mocenskou vlÃ¡du.}
+{165}{}{TyranÅ¡tÃ­ Shi soupeÅ™Ã­ s naÅ¡Ã­ mocÃ­ a vytvÃ¡Å™ejÃ­ zmatek mezi naÅ¡imi bratry pomocÃ­ vlastnÃ­ho zpÅ¯sobu, jak ovlivnit neurodyny. VÄ›Å™Ã­me, Å¾e kdyÅ¾ bude jejich CÃ­saÅ™ mrtvÃ½, spatÅ™Ã­ omyly svÃ© cesty. ZabijeÅ¡ pro nÃ¡s CÃ­saÅ™e?}
+{166}{}{Ano, udÄ›lÃ¡m to.}
+{167}{}{Ne, Shi mi nikdy nic neudÄ›lali.}
+{168}{}{TÅ™eba si to jeÅ¡tÄ› rozmyslÃ­Å¡. Pokud ano, dej mi vÄ›dÄ›t. MÅ¯Å¾e ti Hub jeÅ¡tÄ› s nÄ›ÄÃ­m pomoci, rekrute?}
+{169}{}{Ano, mÃ¡m nÄ›jakÃ© otÃ¡zky.}
+{170}{}{No, momentÃ¡lnÄ› ne. DÃ­ky.}
+{171}{}{PÅ™emÃ½Å¡lel jsi o pomoci v naÅ¡em boji proti utiskovatelÅ¯m Shi? HvÄ›zdnÃ½ Otec ti dÃ¡ poÅ¾ehnÃ¡nÃ­, pokud se zÃºÄastnÃ­Å¡ naÅ¡Ã­ kÅ™Ã­Å¾ovÃ© vÃ½pravy.}
+{172}{}{StÃ¡le nevÃ­m, jestli to chci udÄ›lat.}
+{173}{}{UdÄ›lÃ¡m to.}
+{174}{}{MoÅ¾nÃ¡ mÅ¯Å¾u pomoct tvÃ© utrÃ¡penÃ© duÅ¡i. Co potÅ™ebujeÅ¡?}
+{175}{}{Kde zÃ­skÃ¡m palivo pro tanker Poseidon?}
+{176}{}{Kde najdu popis vÅ¡ech vÃ½razÅ¯, o kterÃ½ch jsi mluvil?}
+{177}{}{Kdy odlÃ©tÃ¡ raketoplÃ¡n?}
 {178}{}{Where is Crockett?}
-{179}{}{Nic, díky. Nashle.}
-{180}{}{Dej nám vìdìt, a ten úkol splníš.}
-{181}{}{Dám. Mám ještì otázky.}
-{182}{}{Jasnı. Nashle.}
-{183}{}{Odstranil jsi císaøskou skvrnu z materiální reality?}
-{184}{}{Ještì ne.}
-{185}{}{Ano, AHS-7. U je mrtvı.}
-{186}{}{Vùdcem tulákù na tankeru je nevyléèitelnı špinavec jménem Badger. Pokud bude mrtvı, pochopí všichni naši pozici. Odstraníš ho pro nás?}
-{187}{}{Udìlám to.}
-{188}{}{Nijak mi neublíil. Radìji ne.}
-{189}{}{Take... odstraníš pro nás toho "Badgera"?}
-{190}{}{Udìlám to.}
-{191}{}{Ne, stále radìji ne.}
-{192}{}{Odstranil jsi u "Badgera"?}
-{193}{}{Ještì ne.}
-{194}{}{Ano. Je po nìm.}
-{195}{}{Jeho lidé by mìli uvítat Hub! Vstøíc lepším zítøkùm! Tvé sluby zasluhují pochvalu!}
-{196}{}{Díky! Mám další otázky.}
-{197}{}{Všechno dìlám jen pro Kolo. Sbohem.}
-{198}{}{Vlastnì tì teï zabiju taky.}
-{199}{}{Teï, kdy je raketoplán naplnìn palivem, èekáme pouze na pokyn od Velikého a Strašlivého AHS-9 a poté mùeme odstartovat.}
-{200}{}{To urèitì mùeme. Mám nìjaké otázky.}
-{201}{}{Dík. Naskle.}
-{202}{}{O ádném nevím, kromì vzácného paliva, které potøebujeme k odletu našich hvìzdnıch bratrù na planetu Quetzel. Moná mají nìjaké Shi?}
-{203}{}{Eh. Mám další otázky.}
-{204}{}{Jo, moná.}
-{205}{}{Vím, e Shi mají velké zásoby paliva. Moná bys jim ho mohl ukrást.}
-{206}{}{Dobrı nápad. Mám ještì další otázky.}
-{207}{}{Moná. Díky.}
-{208}{}{Staèí pouít holodisk, kterı ti dali Juan a Vikki. V nìm najdeš slovníèek.}
-{209}{}{Díky. Další otázky?}
-{210}{}{Díky.}
-{211}{}{A AHS-9 obdrí svou vizi od Hubu, odejdeme a pøipojíme se k nìmu v nebeské slávì!}
-{212}{}{Jasnì, chvála Kruhu nebo tak nìco. Mám další otázky.}
-{213}{}{Velmi informativní. Díky.}
-{214}{}{Vìtšinou je ve své laboratoøi, kde pracuje na zpùsobu, jak zlepšit naše tìla a naše duše.}
-{215}{}{Díky. Chci se zeptat na nìco jiného.}
-{216}{}{Díky.}
-{217}{}{Ne se opravdu staneš jedním z nás, musíme provést poèáteèní zeta scan - srovnání. Jsi pøipraven na scan?}
-{218}{}{Ne! ádnı scan!}
-{219}{}{Jistì. Jdeme na to.}
-{220}{}{Bez scanu se k nám nemùeš pøidat. Víš urèitì, e chceš odmítnout?}
-{221}{}{Naprosto. Nechci se nechat upravovat vašimi stroji.}
-{222}{}{Aha, tak dobøe. Oskenujte mì.}
-{223}{}{Odstranili jsme nìkteré tvé neèisté neurodyny. Nyní jsi klasifikován jako AHS-1. Jsi pøipraven pøidat se k našemu vznešenému cíli?}
+{179}{}{Nic, dÃ­ky. Nashle.}
+{180}{}{Dej nÃ¡m vÄ›dÄ›t, aÅ¾ ten Ãºkol splnÃ­Å¡.}
+{181}{}{DÃ¡m. MÃ¡m jeÅ¡tÄ› otÃ¡zky.}
+{182}{}{JasnÃ½. Nashle.}
+{183}{}{Odstranil jsi cÃ­saÅ™skou skvrnu z materiÃ¡lnÃ­ reality?}
+{184}{}{JeÅ¡tÄ› ne.}
+{185}{}{Ano, AHS-7. UÅ¾ je mrtvÃ½.}
+{186}{}{VÅ¯dcem tulÃ¡kÅ¯ na tankeru je nevylÃ©ÄitelnÃ½ Å¡pinavec jmÃ©nem Badger. Pokud bude mrtvÃ½, pochopÃ­ vÅ¡ichni naÅ¡i pozici. OdstranÃ­Å¡ ho pro nÃ¡s?}
+{187}{}{UdÄ›lÃ¡m to.}
+{188}{}{Nijak mi neublÃ­Å¾il. RadÄ›ji ne.}
+{189}{}{TakÅ¾e... odstranÃ­Å¡ pro nÃ¡s toho "Badgera"?}
+{190}{}{UdÄ›lÃ¡m to.}
+{191}{}{Ne, stÃ¡le radÄ›ji ne.}
+{192}{}{Odstranil jsi uÅ¾ "Badgera"?}
+{193}{}{JeÅ¡tÄ› ne.}
+{194}{}{Ano. Je po nÄ›m.}
+{195}{}{Jeho lidÃ© by mÄ›li uvÃ­tat Hub! VstÅ™Ã­c lepÅ¡Ã­m zÃ­tÅ™kÅ¯m! TvÃ© sluÅ¾by zasluhujÃ­ pochvalu!}
+{196}{}{DÃ­ky! MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
+{197}{}{VÅ¡echno dÄ›lÃ¡m jen pro Kolo. Sbohem.}
+{198}{}{VlastnÄ› tÄ› teÄ zabiju taky.}
+{199}{}{TeÄ, kdyÅ¾ je raketoplÃ¡n naplnÄ›n palivem, ÄekÃ¡me pouze na pokyn od VelikÃ©ho a StraÅ¡livÃ©ho AHS-9 a potÃ© mÅ¯Å¾eme odstartovat.}
+{200}{}{To urÄitÄ› mÅ¯Å¾eme. MÃ¡m nÄ›jakÃ© otÃ¡zky.}
+{201}{}{DÃ­k. Naskle.}
+{202}{}{O Å¾Ã¡dnÃ©m nevÃ­m, kromÄ› vzÃ¡cnÃ©ho paliva, kterÃ© potÅ™ebujeme k odletu naÅ¡ich hvÄ›zdnÃ½ch bratrÅ¯ na planetu Quetzel. MoÅ¾nÃ¡ majÃ­ nÄ›jakÃ© Shi?}
+{203}{}{Eh. MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
+{204}{}{Jo, moÅ¾nÃ¡.}
+{205}{}{VÃ­m, Å¾e Shi majÃ­ velkÃ© zÃ¡soby paliva. MoÅ¾nÃ¡ bys jim ho mohl ukrÃ¡st.}
+{206}{}{DobrÃ½ nÃ¡pad. MÃ¡m jeÅ¡tÄ› dalÅ¡Ã­ otÃ¡zky.}
+{207}{}{MoÅ¾nÃ¡. DÃ­ky.}
+{208}{}{StaÄÃ­ pouÅ¾Ã­t holodisk, kterÃ½ ti dali Juan a Vikki. V nÄ›m najdeÅ¡ slovnÃ­Äek.}
+{209}{}{DÃ­ky. DalÅ¡Ã­ otÃ¡zky?}
+{210}{}{DÃ­ky.}
+{211}{}{AÅ¾ AHS-9 obdrÅ¾Ã­ svou vizi od Hubu, odejdeme a pÅ™ipojÃ­me se k nÄ›mu v nebeskÃ© slÃ¡vÄ›!}
+{212}{}{JasnÄ›, chvÃ¡la Kruhu nebo tak nÄ›co. MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
+{213}{}{Velmi informativnÃ­. DÃ­ky.}
+{214}{}{VÄ›tÅ¡inou je ve svÃ© laboratoÅ™i, kde pracuje na zpÅ¯sobu, jak zlepÅ¡it naÅ¡e tÄ›la a naÅ¡e duÅ¡e.}
+{215}{}{DÃ­ky. Chci se zeptat na nÄ›co jinÃ©ho.}
+{216}{}{DÃ­ky.}
+{217}{}{NeÅ¾ se opravdu staneÅ¡ jednÃ­m z nÃ¡s, musÃ­me provÃ©st poÄÃ¡teÄnÃ­ zeta scan - srovnÃ¡nÃ­. Jsi pÅ™ipraven na scan?}
+{218}{}{Ne! Å½Ã¡dnÃ½ scan!}
+{219}{}{JistÄ›. Jdeme na to.}
+{220}{}{Bez scanu se k nÃ¡m nemÅ¯Å¾eÅ¡ pÅ™idat. VÃ­Å¡ urÄitÄ›, Å¾e chceÅ¡ odmÃ­tnout?}
+{221}{}{Naprosto. Nechci se nechat upravovat vaÅ¡imi stroji.}
+{222}{}{Aha, tak dobÅ™e. Oskenujte mÄ›.}
+{223}{}{Odstranili jsme nÄ›kterÃ© tvÃ© neÄistÃ© neurodyny. NynÃ­ jsi klasifikovÃ¡n jako AHS-1. Jsi pÅ™ipraven pÅ™idat se k naÅ¡emu vzneÅ¡enÃ©mu cÃ­li?}
 {224}{}{Ach ano.}
-{225}{}{Ne. Teï u nechci.}
-{226}{}{Lekce 1: Zde máme vìènost. Tady je Quetzel. (Na nìco ukáe.) A zde jsme my. (Na nìco ukáe.) Teï se jen musíme vydat na velmi dlouhou cestu, abychom se tam dostali.}
-{227}{}{Sakra, tak to budeme potøebovat opravdu hodnì bot.}
-{228}{}{Mùu o tom ještì pøemıšlet?}
-{229}{}{Zase ty? Co chceš?}
-{230}{}{Mám ještì nìco udìlat?}
-{231}{}{Tvá pøítomnost zde je neádoucí. Prosím, odejdi.}
+{225}{}{Ne. TeÄ uÅ¾ nechci.}
+{226}{}{Lekce 1: Zde mÃ¡me vÄ›Änost. Tady je Quetzel. (Na nÄ›co ukÃ¡Å¾e.) A zde jsme my. (Na nÄ›co ukÃ¡Å¾e.) TeÄ se jen musÃ­me vydat na velmi dlouhou cestu, abychom se tam dostali.}
+{227}{}{Sakra, tak to budeme potÅ™ebovat opravdu hodnÄ› bot.}
+{228}{}{MÅ¯Å¾u o tom jeÅ¡tÄ› pÅ™emÃ½Å¡let?}
+{229}{}{Zase ty? Co chceÅ¡?}
+{230}{}{MÃ¡m jeÅ¡tÄ› nÄ›co udÄ›lat?}
+{231}{}{TvÃ¡ pÅ™Ã­tomnost zde je neÅ¾Ã¡doucÃ­. ProsÃ­m, odejdi.}

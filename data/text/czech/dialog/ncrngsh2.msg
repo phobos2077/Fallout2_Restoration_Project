@@ -1,1 +1,1 @@
-{100}{}{Vstupuješ do pouštní oblasti, kde se nachází úkryt Rangerù.}
+{100}{}{VstupujeÅ¡ do pouÅ¡tnÃ­ oblasti, kde se nachÃ¡zÃ­ Ãºkryt RangerÅ¯.}

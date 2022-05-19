@@ -1,26 +1,26 @@
-{100}{}{Vidíš velkého, vypelichaného, lutohnìdého psa s divokım vırazem.}
-{101}{}{Vidíš zaprášeného, lutohnìdého psa.}
+{100}{}{VidÃ­Å¡ velkÃ©ho, vypelichanÃ©ho, Å¾lutohnÄ›dÃ©ho psa s divokÃ½m vÃ½razem.}
+{101}{}{VidÃ­Å¡ zaprÃ¡Å¡enÃ©ho, Å¾lutohnÄ›dÃ©ho psa.}
 {110}{}{Vrrrrrr. Haf! Haf! Vrrrrrr...}
-{111}{}{Haf, òaf, òaf?}
-{112}{}{(Strnule hledìt do psích oèí.) Vrrrr! Áááááárrrrr! Vrrrrrrrr!}
-{113}{}{Hmm, kdy tì tak slyším, vsadím se, e nìco chceš.}
-{114}{}{Ty jsi jen hladovı, e jo? Poèkej, dám ti nìjaké dobré sušené maso.}
-{120}{}{Haf! (Pes povyskoèí s vycenìnımi zuby smìrem k tobì... vytrhne ti z ruky maso... a hluènì ho seere.)}
-{121}{}{Haf! (Voøech se nadšenì vrhne na maso, upustí klíè, kterı musel mít pøedtím v tlamì, a ty ho vzápìtí sebereš.)}
-{122}{}{Mòam, sušené maso.}
-{123}{}{Ubohı pejsku, musel jsi bıt pìknì hladovı. (Pohladit ho po hlavì.)}
+{111}{}{Haf, Åˆaf, Åˆaf?}
+{112}{}{(Strnule hledÄ›t do psÃ­ch oÄÃ­.) Vrrrr! ÃÃ¡Ã¡Ã¡Ã¡Ã¡rrrrr! Vrrrrrrrr!}
+{113}{}{Hmm, kdyÅ¾ tÄ› tak slyÅ¡Ã­m, vsadÃ­m se, Å¾e nÄ›co chceÅ¡.}
+{114}{}{Ty jsi jen hladovÃ½, Å¾e jo? PoÄkej, dÃ¡m ti nÄ›jakÃ© dobrÃ© suÅ¡enÃ© maso.}
+{120}{}{Haf! (Pes povyskoÄÃ­ s vycenÄ›nÃ½mi zuby smÄ›rem k tobÄ›... vytrhne ti z ruky maso... a hluÄnÄ› ho seÅ¾ere.)}
+{121}{}{Haf! (VoÅ™ech se nadÅ¡enÄ› vrhne na maso, upustÃ­ klÃ­Ä, kterÃ½ musel mÃ­t pÅ™edtÃ­m v tlamÄ›, a ty ho vzÃ¡pÄ›tÃ­ sebereÅ¡.)}
+{122}{}{MÅˆam, suÅ¡enÃ© maso.}
+{123}{}{UbohÃ½ pejsku, musel jsi bÃ½t pÄ›knÄ› hladovÃ½. (Pohladit ho po hlavÄ›.)}
 {130}{}{Vrrr. Haf! Haf!}
-{131}{}{Òaf-òaf, pejsku. Hehe.}
-{132}{}{Ahoj psíku.}
-{133}{}{Promiò, ádnı psy dnes nekrmím.}
-{134}{}{Jedeš! Vypadni, ty jeden zatracenej èokle.}
+{131}{}{Å‡af-Åˆaf, pejsku. Hehe.}
+{132}{}{Ahoj psÃ­ku.}
+{133}{}{PromiÅˆ, Å¾Ã¡dnÃ½ psy dnes nekrmÃ­m.}
+{134}{}{JedeÅ¡! Vypadni, ty jeden zatracenej Äokle.}
 {140}{}{Haf, haf. Haf-haf!}
 {141}{}{Haf, Haf?}
 {142}{}{Hodnej, hodnej pejsek.}
-{143}{}{Ty jsi hladovı, e jo? Vsadím se, e by sis dal nìjaké sušené maso, viï? Poèkej, podívám se po nìjakém. }
-{200}{}{Haf! (Pes slintá... mlask!)}
+{143}{}{Ty jsi hladovÃ½, Å¾e jo? VsadÃ­m se, Å¾e by sis dal nÄ›jakÃ© suÅ¡enÃ© maso, viÄ? PoÄkej, podÃ­vÃ¡m se po nÄ›jakÃ©m. }
+{200}{}{Haf! (Pes slintÃ¡... mlask!)}
 {201}{}{Haf-haf}
-{202}{}{Òaf}
-{203}{}{Òaf, òaf, òaf!}
-{204}{}{(Oddanì na tebe kouká.)}
+{202}{}{Å‡af}
+{203}{}{Å‡af, Åˆaf, Åˆaf!}
+{204}{}{(OddanÄ› na tebe koukÃ¡.)}
 {205}{}{Haf!}

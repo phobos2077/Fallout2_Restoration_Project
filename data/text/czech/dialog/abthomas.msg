@@ -1,2 +1,2 @@
-{100}{}{Vidíš mrtvého mnicha.}
-{101}{}{Vidíš ostatky bratra Thomase. Vypadá to, e zemøel bolestivou smrtí.}
+{100}{}{VidÃ­Å¡ mrtvÃ©ho mnicha.}
+{101}{}{VidÃ­Å¡ ostatky bratra Thomase. VypadÃ¡ to, Å¾e zemÅ™el bolestivou smrtÃ­.}

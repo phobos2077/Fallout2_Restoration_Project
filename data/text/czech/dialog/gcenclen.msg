@@ -1,1 +1,1 @@
-{100}{}{Vstupuješ na velkou pláò nedaleko Gecka. Jsou tu lidé v nìjakıch hi-tech zbrojích.}
+{100}{}{VstupujeÅ¡ na velkou plÃ¡Åˆ nedaleko Gecka. Jsou tu lidÃ© v nÄ›jakÃ½ch hi-tech zbrojÃ­ch.}

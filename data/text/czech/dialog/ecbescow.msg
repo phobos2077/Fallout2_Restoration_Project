@@ -1,1 +1,1 @@
-{100}{}{Vypad· to, ûe zahynula na dehydrataci.}
+{100}{}{Vypad√° to, ≈æe zahynula na dehydrataci.}

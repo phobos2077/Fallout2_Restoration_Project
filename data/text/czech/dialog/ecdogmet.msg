@@ -1,46 +1,46 @@
-{100}{}{Vidíš drsnì vypadajícího psa.}
-{101}{}{Vidíš Dogmeata.}
-{102}{}{Vidíš Dogmeata.}
-{103}{}{Pes hluboce zakòuèí jakmile spatøí kombinézu vaultu. Zdá se, e chce jít s tebou.}
-{104}{}{Písknout}
-{105}{}{Mùšeš jíd se mnou aš budu mıt víc mısta.}
-{106}{}{Ne-e, pejsku. Ty zùstat.}
-{107}{}{Tak pojï, hochu. Je èas na nìjakou neplechu.}
-{108}{}{Neboj se, hochu. Pøijdu si pro tebe a budu mít víc místa v partì.}
-{109}{}{Promiò, Dogmeate. Teï ne.}
-{110}{}{Pes chamtivì zhltne leguána na špejli a pak se na tebe s oèekáváním zadívá.}
-{111}{}{Písknout}
-{112}{}{Mùšeš jíd se mnou aš budu mıt víc mısta.}
-{113}{}{Ne-e, pejsku. Ty zùstat.}
-{114}{}{Tak pojï, hochu. Je èas na nìjakou neplechu.}
-{115}{}{Neboj se, hochu. Pøijdu si pro tebe a budu mít víc místa v partì.}
-{116}{}{Promiò, Dogmeate. Teï ne.}
-{117}{}{Vidíš drsnì vypadajícího psa.}
-{118}{}{Písknout}
-{119}{}{Mùšeš jíd se mnou aš budu mıt víc mısta.}
-{120}{}{Stát pejsku, nehıbat.}
+{100}{}{VidÃ­Å¡ drsnÄ› vypadajÃ­cÃ­ho psa.}
+{101}{}{VidÃ­Å¡ Dogmeata.}
+{102}{}{VidÃ­Å¡ Dogmeata.}
+{103}{}{Pes hluboce zakÅˆuÄÃ­ jakmile spatÅ™Ã­ kombinÃ©zu vaultu. ZdÃ¡ se, Å¾e chce jÃ­t s tebou.}
+{104}{}{PÃ­sknout}
+{105}{}{MÅ¯Å¡eÅ¡ jÃ­d se mnou aÅ¡ budu mÃ½t vÃ­c mÃ½sta.}
+{106}{}{Ne-e, pejsku. Ty zÅ¯stat.}
+{107}{}{Tak pojÄ, hochu. Je Äas na nÄ›jakou neplechu.}
+{108}{}{Neboj se, hochu. PÅ™ijdu si pro tebe aÅ¾ budu mÃ­t vÃ­c mÃ­sta v partÄ›.}
+{109}{}{PromiÅˆ, Dogmeate. TeÄ ne.}
+{110}{}{Pes chamtivÄ› zhltne leguÃ¡na na Å¡pejli a pak se na tebe s oÄekÃ¡vÃ¡nÃ­m zadÃ­vÃ¡.}
+{111}{}{PÃ­sknout}
+{112}{}{MÅ¯Å¡eÅ¡ jÃ­d se mnou aÅ¡ budu mÃ½t vÃ­c mÃ½sta.}
+{113}{}{Ne-e, pejsku. Ty zÅ¯stat.}
+{114}{}{Tak pojÄ, hochu. Je Äas na nÄ›jakou neplechu.}
+{115}{}{Neboj se, hochu. PÅ™ijdu si pro tebe aÅ¾ budu mÃ­t vÃ­c mÃ­sta v partÄ›.}
+{116}{}{PromiÅˆ, Dogmeate. TeÄ ne.}
+{117}{}{VidÃ­Å¡ drsnÄ› vypadajÃ­cÃ­ho psa.}
+{118}{}{PÃ­sknout}
+{119}{}{MÅ¯Å¡eÅ¡ jÃ­d se mnou aÅ¡ budu mÃ½t vÃ­c mÃ½sta.}
+{120}{}{StÃ¡t pejsku, nehÃ½bat.}
 {121}{}{Odbelhat se.}
-{122}{}{Tak pojï, hochu. Je èas na nìjakou neplechu.}
-{123}{}{Pøijdu si pro tebe a budu mít víc místa v partì.}
-{124}{}{Dr se pøi mnì. Jasnı, hochu?}
-{125}{}{Dr se v pøimìøené vzdálenosti, Dogmeate.}
-{126}{}{Zùstaò daleko ode mne, Dogmeate. Hlídej mi záda.}
-{127}{}{Zùstaò, Dogmeate. Zùstaò!}
-{128}{}{Myslím, e nechám Dogmeata na pokoji.}
-{129}{}{Dogmeat ostøe vyštìkne a slabì zavrèí.}
-{130}{}{Dr se pøi mnì. Jasnı, hochu?}
-{131}{}{Dr se v pøimìøené vzdálenosti, Dogmeate.}
-{132}{}{Zùstaò daleko ode mne, Dogmeate. Hlídej mi záda.}
-{133}{}{Zùstaò, Dogmeate. Zùstaò!}
-{134}{}{Díky, Dogmeate. Jsi hustej.}
+{122}{}{Tak pojÄ, hochu. Je Äas na nÄ›jakou neplechu.}
+{123}{}{PÅ™ijdu si pro tebe aÅ¾ budu mÃ­t vÃ­c mÃ­sta v partÄ›.}
+{124}{}{DrÅ¾ se pÅ™i mnÄ›. JasnÃ½, hochu?}
+{125}{}{DrÅ¾ se v pÅ™imÄ›Å™enÃ© vzdÃ¡lenosti, Dogmeate.}
+{126}{}{ZÅ¯staÅˆ daleko ode mne, Dogmeate. HlÃ­dej mi zÃ¡da.}
+{127}{}{ZÅ¯staÅˆ, Dogmeate. ZÅ¯staÅˆ!}
+{128}{}{MyslÃ­m, Å¾e nechÃ¡m Dogmeata na pokoji.}
+{129}{}{Dogmeat ostÅ™e vyÅ¡tÄ›kne a slabÄ› zavrÄÃ­.}
+{130}{}{DrÅ¾ se pÅ™i mnÄ›. JasnÃ½, hochu?}
+{131}{}{DrÅ¾ se v pÅ™imÄ›Å™enÃ© vzdÃ¡lenosti, Dogmeate.}
+{132}{}{ZÅ¯staÅˆ daleko ode mne, Dogmeate. HlÃ­dej mi zÃ¡da.}
+{133}{}{ZÅ¯staÅˆ, Dogmeate. ZÅ¯staÅˆ!}
+{134}{}{DÃ­ky, Dogmeate. Jsi hustej.}
 {135}{}{Hauuuuuuuuuuu}
 {136}{}{Hauuuuuuuuuuu}
-{137}{}{Hej, kámo, obtìuješ mıho psa.}
+{137}{}{Hej, kÃ¡mo, obtÄ›Å¾ujeÅ¡ mÃ½ho psa.}
 {138}{}{Grrrrr...}
-{139}{}{(Zajímalo by mì, jestli dokáu pøimìt Dogmeata, aby mì následoval jinım zpùsobem.)}
+{139}{}{(ZajÃ­malo by mÄ›, jestli dokÃ¡Å¾u pÅ™imÄ›t Dogmeata, aby mÄ› nÃ¡sledoval jinÃ½m zpÅ¯sobem.)}
 {150}{}{HAF! HAF!}
-{200}{}{Podívej co pro tebe mám, hochu! A teï si na tebe mùe nìkdo nìco zkusit! (Obleèeš K-9 Kevlar na Dogmeata.)}
-{201}{}{Není ta zbroj na tebe moc tìká, hochu? Uka, sundám ti ji. (Sundáš K-9 Kevlar z Dogmeata.)}
-{300}{}{*kòuèení*}
-{301}{}{Hauuuuuuuuuuu! *kòuèení*}
-{1110}{}{Pes hladovì spolyká obsah plechovky psího rádla a pak se na tebe s oèekáváním zadívá.}
+{200}{}{PodÃ­vej co pro tebe mÃ¡m, hochu! A teÄ si na tebe mÅ¯Å¾e nÄ›kdo nÄ›co zkusit! (ObleÄeÅ¡ K-9 Kevlar na Dogmeata.)}
+{201}{}{NenÃ­ ta zbroj na tebe moc tÄ›Å¾kÃ¡, hochu? UkaÅ¾, sundÃ¡m ti ji. (SundÃ¡Å¡ K-9 Kevlar z Dogmeata.)}
+{300}{}{*kÅˆuÄenÃ­*}
+{301}{}{Hauuuuuuuuuuu! *kÅˆuÄenÃ­*}
+{1110}{}{Pes hladovÄ› spolykÃ¡ obsah plechovky psÃ­ho Å¾rÃ¡dla a pak se na tebe s oÄekÃ¡vÃ¡nÃ­m zadÃ­vÃ¡.}

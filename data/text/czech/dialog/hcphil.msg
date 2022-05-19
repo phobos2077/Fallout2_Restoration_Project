@@ -1,128 +1,128 @@
-{100}{}{Vidíš ghoula v zástìøe.}
-{101}{}{Vídíš barmana Phila. Myje sklenice.}
-{102}{}{Vidíš ghoula v zástìøe, kterı myje sklenice. Usuzuješ, e je to místní barman, jeliko stojí pøímo za barem.}
-{103}{}{Nazdárek, cizinèe. Vítej ve mìstì. Jakpak se jmenuješ?}
+{100}{}{VidÃ­Å¡ ghoula v zÃ¡stÄ›Å™e.}
+{101}{}{VÃ­dÃ­Å¡ barmana Phila. Myje sklenice.}
+{102}{}{VidÃ­Å¡ ghoula v zÃ¡stÄ›Å™e, kterÃ½ myje sklenice. UsuzujeÅ¡, Å¾e je to mÃ­stnÃ­ barman, jelikoÅ¾ stojÃ­ pÅ™Ã­mo za barem.}
+{103}{}{NazdÃ¡rek, cizinÄe. VÃ­tej ve mÄ›stÄ›. Jakpak se jmenujeÅ¡?}
 {104}{}{Eh... ehb?}
 {105}{}{!}
 {106}{}{.}
-{107}{}{To není tvoje vìc, pøíteli.}
-{108}{}{No, jsem tak trochu v utajení.}
-{109}{}{Jmenuješ se Ehehb? Haha! Dìlám si jen srandu, pøíteli. Na. Dej si Nuka-Colu. Zkus nerušit ostatní zákazníky.}
-{110}{}{Dìkuju!}
-{111}{}{, jo? No, rád tì poznávám, èéèe. Chceš nìco k pití?}
-{112}{}{Pití jo!}
+{107}{}{To nenÃ­ tvoje vÄ›c, pÅ™Ã­teli.}
+{108}{}{No, jsem tak trochu v utajenÃ­.}
+{109}{}{JmenujeÅ¡ se Ehehb? Haha! DÄ›lÃ¡m si jen srandu, pÅ™Ã­teli. Na. Dej si Nuka-Colu. Zkus neruÅ¡it ostatnÃ­ zÃ¡kaznÃ­ky.}
+{110}{}{DÄ›kuju!}
+{111}{}{, jo? No, rÃ¡d tÄ› poznÃ¡vÃ¡m, ÄÃ©Äe. ChceÅ¡ nÄ›co k pitÃ­?}
+{112}{}{PitÃ­ jo!}
 {113}{}{To ne. Ne ne ne ne.}
-{114}{}{, rád tì poznávám. Jsem Phil. Patøí mi to tu. Take... co to bude?}
+{114}{}{, rÃ¡d tÄ› poznÃ¡vÃ¡m. Jsem Phil. PatÅ™Ã­ mi to tu. TakÅ¾e... co to bude?}
 {115}{}{Nuka-Cola.}
 {116}{}{Pivo.}
 {117}{}{Rotgut.}
 {118}{}{No nic.}
-{119}{}{Nic, promiò. Nashle!}
-{120}{}{Fajn, pøíteli. Jak chceš. Jsem Phil. Patøí mi to tu. Take co to bude?}
-{126}{}{Tak v utajení, jo? Tak to potom jo. Mimochodem, jsem Phil. Co to bude?}
-{132}{}{Chceš pivo? Rotgut? Nuka-Colu?}
+{119}{}{Nic, promiÅˆ. Nashle!}
+{120}{}{Fajn, pÅ™Ã­teli. Jak chceÅ¡. Jsem Phil. PatÅ™Ã­ mi to tu. TakÅ¾e co to bude?}
+{126}{}{Tak v utajenÃ­, jo? Tak to potom jo. Mimochodem, jsem Phil. Co to bude?}
+{132}{}{ChceÅ¡ pivo? Rotgut? Nuka-Colu?}
 {133}{}{Blivo!}
 {134}{}{Notblut!}
 {135}{}{Golu!}
-{136}{}{Dobøe, dej mi vìdìt, a budeš nìco chtít a já ti to obstarám, pøíteli. Zkus nerušit ostatní zákazníky, ano?}
-{137}{}{Tag jó!}
-{138}{}{Jedno pivo, u se to nese. Bude to $3 plus $1 dıško. To dìlá $4, dítì.}
+{136}{}{DobÅ™e, dej mi vÄ›dÄ›t, aÅ¾ budeÅ¡ nÄ›co chtÃ­t a jÃ¡ ti to obstarÃ¡m, pÅ™Ã­teli. Zkus neruÅ¡it ostatnÃ­ zÃ¡kaznÃ­ky, ano?}
+{137}{}{Tag jÃ³!}
+{138}{}{Jedno pivo, uÅ¾ se to nese. Bude to $3 plus $1 dÃ½Å¡ko. To dÄ›lÃ¡ $4, dÃ­tÄ›.}
 {139}{}{Tadyhlenc!}
-{140}{}{Nemít.}
-{141}{}{To je silnej chlast, hochu! Bude to $5 plus $1 dıško, to dìlá $6.}
-{142}{}{To je silnej chlast, dìvèe! Bude to $5 plus $1 dıško, to dìlá $6.}
-{145}{}{Ta je dobrá pro tvou ple. Bude to $2. Dokonce ti ani nebudu úètovat dıško. Take to bude za $2.}
-{148}{}{. A budeš chtít nìco k pití, pøijï zase za mnou.}
-{149}{}{Dobe!}
-{150}{}{! Chceš nìco k pití?}
-{151}{}{Pití jo!}
-{152}{}{Pití ne!}
-{153}{}{Ahoj, Ehehbe! Vítej zpìt. U mám pro tebe vzadu vyhøátou idli.}
-{154}{}{Dík!}
+{140}{}{NemÃ­t.}
+{141}{}{To je silnej chlast, hochu! Bude to $5 plus $1 dÃ½Å¡ko, to dÄ›lÃ¡ $6.}
+{142}{}{To je silnej chlast, dÄ›vÄe! Bude to $5 plus $1 dÃ½Å¡ko, to dÄ›lÃ¡ $6.}
+{145}{}{Ta je dobrÃ¡ pro tvou pleÅ¥. Bude to $2. Dokonce ti ani nebudu ÃºÄtovat dÃ½Å¡ko. TakÅ¾e to bude za $2.}
+{148}{}{. AÅ¾ budeÅ¡ chtÃ­t nÄ›co k pitÃ­, pÅ™ijÄ zase za mnou.}
+{149}{}{DobÅ¾e!}
+{150}{}{! ChceÅ¡ nÄ›co k pitÃ­?}
+{151}{}{PitÃ­ jo!}
+{152}{}{PitÃ­ ne!}
+{153}{}{Ahoj, Ehehbe! VÃ­tej zpÄ›t. UÅ¾ mÃ¡m pro tebe vzadu vyhÅ™Ã¡tou Å¾idli.}
+{154}{}{DÃ­k!}
 {155}{}{Bude to $2.}
 {156}{}{Bude to $4.}
 {157}{}{To je $5.}
-{158}{}{Tady máš.}
-{159}{}{[Dát Philovi dıško $1] Tady máš, Phile.}
-{160}{}{[Dát Philovi dıško $2] Díky, Phile.}
-{161}{}{A jéje, jsem na mol.}
-{162}{}{Nic? Haha. Nemùeš tu jen tak sedìt, ani by sis nedal nìjakı pití, pøíteli. Z nìèeho musím zaplatit úèty. Zkusíme to ještì jednou. TAKE, co to bude?}
-{167}{}{Zapomeò na to. Mizím odsud.}
-{168}{}{Nebudu mluvit, dokud si nìco nekoupíš. Take jaké máš pøání?}
-{173}{}{Zapomeò na to a to svoje hnusnı pití si strè nìkam!}
-{174}{}{Díky. Ještì nìco?}
-{175}{}{Hej, díky! Ještì nìco?}
-{176}{}{Páni! Díky! Mùu pro tebe ještì nìco udìlat?}
-{177}{}{Chci další pití.}
-{178}{}{Co se dìje ve mìstì?}
-{179}{}{Je tu nìjaká práce?}
-{180}{}{Nìjaké novinky?}
-{181}{}{ádnı. Zapomeò na to.}
-{182}{}{Na mol, jo? Škoda. Mùeš tu zùstat, ale neotravuj hosty. Mám ještì práci. Zatím.}
+{158}{}{Tady mÃ¡Å¡.}
+{159}{}{[DÃ¡t Philovi dÃ½Å¡ko $1] Tady mÃ¡Å¡, Phile.}
+{160}{}{[DÃ¡t Philovi dÃ½Å¡ko $2] DÃ­ky, Phile.}
+{161}{}{A jÃ©je, jsem na mol.}
+{162}{}{Nic? Haha. NemÅ¯Å¾eÅ¡ tu jen tak sedÄ›t, aniÅ¾ by sis nedal nÄ›jakÃ½ pitÃ­, pÅ™Ã­teli. Z nÄ›Äeho musÃ­m zaplatit ÃºÄty. ZkusÃ­me to jeÅ¡tÄ› jednou. TAKÅ½E, co to bude?}
+{167}{}{ZapomeÅˆ na to. MizÃ­m odsud.}
+{168}{}{Nebudu mluvit, dokud si nÄ›co nekoupÃ­Å¡. TakÅ¾e jakÃ© mÃ¡Å¡ pÅ™Ã¡nÃ­?}
+{173}{}{ZapomeÅˆ na to a to svoje hnusnÃ½ pitÃ­ si strÄ nÄ›kam!}
+{174}{}{DÃ­ky. JeÅ¡tÄ› nÄ›co?}
+{175}{}{Hej, dÃ­ky! JeÅ¡tÄ› nÄ›co?}
+{176}{}{PÃ¡ni! DÃ­ky! MÅ¯Å¾u pro tebe jeÅ¡tÄ› nÄ›co udÄ›lat?}
+{177}{}{Chci dalÅ¡Ã­ pitÃ­.}
+{178}{}{Co se dÄ›je ve mÄ›stÄ›?}
+{179}{}{Je tu nÄ›jakÃ¡ prÃ¡ce?}
+{180}{}{NÄ›jakÃ© novinky?}
+{181}{}{Å½Ã¡dnÃ½. ZapomeÅˆ na to.}
+{182}{}{Na mol, jo? Å koda. MÅ¯Å¾eÅ¡ tu zÅ¯stat, ale neotravuj hosty. MÃ¡m jeÅ¡tÄ› prÃ¡ci. ZatÃ­m.}
 {183}{}{Nashle!}
-{184}{}{Zdravím! Vítej zpátky. Co to bude?}
-{185}{}{Vítej zpátky, kámo. Co to bude?}
+{184}{}{ZdravÃ­m! VÃ­tej zpÃ¡tky. Co to bude?}
+{185}{}{VÃ­tej zpÃ¡tky, kÃ¡mo. Co to bude?}
 {186}{}{Zase ty? Co to bude?}
-{187}{}{Zase ty? Co chceš?}
-{192}{}{Øíct ti moje jméno. Jsem }
-{193}{}{Nic, promiò. Nashle!}
-{194}{}{Dobøe, tak jo! Co to bude?}
-{198}{}{Co se dìje ve mìstì? Inu...}
-{199}{}{Díky. Mám další otázky. }
-{200}{}{Dík. Naskle.}
-{201}{}{Práce, práce... asi tohle...}
-{202}{}{[Pokraèovat]}
-{203}{}{Nìkdo osvobodil ty blázny z vìzení!}
-{204}{}{Nìkdo znièil dùl! Mìsto je v koncích!}
-{205}{}{Všichni mutanti jsou mrtví!}
+{187}{}{Zase ty? Co chceÅ¡?}
+{192}{}{Å˜Ã­ct ti moje jmÃ©no. Jsem }
+{193}{}{Nic, promiÅˆ. Nashle!}
+{194}{}{DobÅ™e, tak jo! Co to bude?}
+{198}{}{Co se dÄ›je ve mÄ›stÄ›? Inu...}
+{199}{}{DÃ­ky. MÃ¡m dalÅ¡Ã­ otÃ¡zky. }
+{200}{}{DÃ­k. Naskle.}
+{201}{}{PrÃ¡ce, prÃ¡ce... asi tohle...}
+{202}{}{[PokraÄovat]}
+{203}{}{NÄ›kdo osvobodil ty blÃ¡zny z vÄ›zenÃ­!}
+{204}{}{NÄ›kdo zniÄil dÅ¯l! MÄ›sto je v koncÃ­ch!}
+{205}{}{VÅ¡ichni mutanti jsou mrtvÃ­!}
 {206}{}{Nic moc.}
-{207}{}{Mám další otázky.}
-{208}{}{Díky. Zatím.}
-{209}{}{Vypadáš docela svalnatì. Vsadím se s tebou, e neporazíš Francise v páce. Je to támhleten mutant. Údajnì za to dává nìjakou cenu. Máš zájem? Tak si s ním bì promluvit.}
-{210}{}{Díky. Ještì nìco?}
-{211}{}{Díky. Zatím.}
-{212}{}{Ztratilo se pár lidí a nemáme ani tušení, kde by mohli bıt. Jsem si jistej, e by se tu pro tebe nìco našlo, pokud je najdeš. Máš zájem? Tak si bì promluvit s Marcusem.}
-{213}{}{Díky. Ještì nìco?}
-{214}{}{Díky! Promluvíme si pozdìji.}
-{215}{}{Hmm. Èistièka vzduchu v dole je rozbitá. Promluv si o tom s vrchním dùlmistrem Zaiusem.}
-{216}{}{Dobøe. Ještì nìco?}
-{217}{}{Díky. Zatím.}
-{218}{}{Slyšel jsem, e se teï mùeš motat kolem dolu. Kruci, jestli nìco najdeš, tak si to budeš moná moct nechat pro sebe.}
-{219}{}{Ještì nìco?}
-{220}{}{Díky.}
-{221}{}{To si piš! Zjisti, kam se ti dva blázni Franc a Manson podìli!}
+{207}{}{MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
+{208}{}{DÃ­ky. ZatÃ­m.}
+{209}{}{VypadÃ¡Å¡ docela svalnatÄ›. VsadÃ­m se s tebou, Å¾e neporazÃ­Å¡ Francise v pÃ¡ce. Je to tÃ¡mhleten mutant. ÃšdajnÄ› za to dÃ¡vÃ¡ nÄ›jakou cenu. MÃ¡Å¡ zÃ¡jem? Tak si s nÃ­m bÄ›Å¾ promluvit.}
+{210}{}{DÃ­ky. JeÅ¡tÄ› nÄ›co?}
+{211}{}{DÃ­ky. ZatÃ­m.}
+{212}{}{Ztratilo se pÃ¡r lidÃ­ a nemÃ¡me ani tuÅ¡enÃ­, kde by mohli bÃ½t. Jsem si jistej, Å¾e by se tu pro tebe nÄ›co naÅ¡lo, pokud je najdeÅ¡. MÃ¡Å¡ zÃ¡jem? Tak si bÄ›Å¾ promluvit s Marcusem.}
+{213}{}{DÃ­ky. JeÅ¡tÄ› nÄ›co?}
+{214}{}{DÃ­ky! PromluvÃ­me si pozdÄ›ji.}
+{215}{}{Hmm. ÄŒistiÄka vzduchu v dole je rozbitÃ¡. Promluv si o tom s vrchnÃ­m dÅ¯lmistrem Zaiusem.}
+{216}{}{DobÅ™e. JeÅ¡tÄ› nÄ›co?}
+{217}{}{DÃ­ky. ZatÃ­m.}
+{218}{}{SlyÅ¡el jsem, Å¾e se teÄ mÅ¯Å¾eÅ¡ motat kolem dolu. Kruci, jestli nÄ›co najdeÅ¡, tak si to budeÅ¡ moÅ¾nÃ¡ moct nechat pro sebe.}
+{219}{}{JeÅ¡tÄ› nÄ›co?}
+{220}{}{DÃ­ky.}
+{221}{}{To si piÅ¡! Zjisti, kam se ti dva blÃ¡zni Franc a Manson podÄ›li!}
 {222}{}{Jdu na to.}
-{223}{}{Jasnì. Zatím.}
-{224}{}{Kadou chvíli odsud odjídí nìjaká karavana. Jestli se chceš k nìjaké pøidat, tak si zajdi promluvit s vetešníkem Billem. Jinak tady ádná jiná práce není. Promiò.}
-{225}{}{Díky! Mám ještì nìjaké otázky.}
-{226}{}{Dobøe. Padám odsud. Zatím.}
-{227}{}{Jo? Jakı tøeba?}
-{228}{}{Chci další pití.}
-{229}{}{Co se dìje ve mìstì?}
-{230}{}{Je tu nìjaká práce?}
-{231}{}{Nìjaké novinky?}
-{232}{}{ádnı. Zapomeò na to.}
-{233}{}{Doufám, e se nebudeš zlobit, kdy ti øeknu, e jsou místní lidé trochu nasraní kvùli tomu, e sis nechal tu uranovou rudu pro sebe. To bylo varování. Jo a... dáš si k nìco pití?}
+{223}{}{JasnÄ›. ZatÃ­m.}
+{224}{}{KaÅ¾dou chvÃ­li odsud odjÃ­Å¾dÃ­ nÄ›jakÃ¡ karavana. Jestli se chceÅ¡ k nÄ›jakÃ© pÅ™idat, tak si zajdi promluvit s veteÅ¡nÃ­kem Billem. Jinak tady Å¾Ã¡dnÃ¡ jinÃ¡ prÃ¡ce nenÃ­. PromiÅˆ.}
+{225}{}{DÃ­ky! MÃ¡m jeÅ¡tÄ› nÄ›jakÃ© otÃ¡zky.}
+{226}{}{DobÅ™e. PadÃ¡m odsud. ZatÃ­m.}
+{227}{}{Jo? JakÃ½ tÅ™eba?}
+{228}{}{Chci dalÅ¡Ã­ pitÃ­.}
+{229}{}{Co se dÄ›je ve mÄ›stÄ›?}
+{230}{}{Je tu nÄ›jakÃ¡ prÃ¡ce?}
+{231}{}{NÄ›jakÃ© novinky?}
+{232}{}{Å½Ã¡dnÃ½. ZapomeÅˆ na to.}
+{233}{}{DoufÃ¡m, Å¾e se nebudeÅ¡ zlobit, kdyÅ¾ ti Å™eknu, Å¾e jsou mÃ­stnÃ­ lidÃ© trochu nasranÃ­ kvÅ¯li tomu, Å¾e sis nechal tu uranovou rudu pro sebe. To bylo varovÃ¡nÃ­. Jo a... dÃ¡Å¡ si k nÄ›co pitÃ­?}
 {234}{}{Ano.}
-{235}{}{Ne, ale mám nìjaké otázky.}
-{236}{}{Nìkteøí lidé jsou trochu nasraní kvùli Chadovi. To bylo varování. Dáš si nìco k pití?}
+{235}{}{Ne, ale mÃ¡m nÄ›jakÃ© otÃ¡zky.}
+{236}{}{NÄ›kteÅ™Ã­ lidÃ© jsou trochu nasranÃ­ kvÅ¯li Chadovi. To bylo varovÃ¡nÃ­. DÃ¡Å¡ si nÄ›co k pitÃ­?}
 {237}{}{Ano.}
-{238}{}{Ne, ale mám nìjaké otázky.}
-{239}{}{Všichni mutanti jsou mrtví. Nìkdo vyhodil dùl do povìtøí, kdy byli uvnitø. Nìjakej parchant musel zavolat o pomoc a všichni prostì nabìhli do dolu. Nìkteré lidi prostì nechápu. K èertu... mùu ti dát nìco k pití?}
+{238}{}{Ne, ale mÃ¡m nÄ›jakÃ© otÃ¡zky.}
+{239}{}{VÅ¡ichni mutanti jsou mrtvÃ­. NÄ›kdo vyhodil dÅ¯l do povÄ›tÅ™Ã­, kdyÅ¾ byli uvnitÅ™. NÄ›jakej parchant musel zavolat o pomoc a vÅ¡ichni prostÄ› nabÄ›hli do dolu. NÄ›kterÃ© lidi prostÄ› nechÃ¡pu. K Äertu... mÅ¯Å¾u ti dÃ¡t nÄ›co k pitÃ­?}
 {240}{}{Ano.}
-{241}{}{Ne, ale mám nìjaké otázky.}
-{242}{}{Vypadni z mıho baru. Okamitì. Chuligáne.}
+{241}{}{Ne, ale mÃ¡m nÄ›jakÃ© otÃ¡zky.}
+{242}{}{Vypadni z mÃ½ho baru. OkamÅ¾itÄ›. ChuligÃ¡ne.}
 {300}{}{!}
 {301}{}{.}
-{302}{}{Dobøe, }
-{303}{}{Díky, }
-{304}{}{Zdravím, }
+{302}{}{DobÅ™e, }
+{303}{}{DÃ­ky, }
+{304}{}{ZdravÃ­m, }
 {305}{}{Nazdar, }
 {306}{}{Zase ty, }
-{307}{}{ádnı problém, pøíteli. Tady máš to pití. Hele, mùu pro tebe ještì nìco udìlat?}
-{308}{}{Zdravím, pøíteli. Díky za ty dıška. Tady máš nìco za to. Slyšel jsem, e Liz, majitelka obchodu, schovává ve sklepì kupu zbraní. Ale ode mì to nemáš.}
-{309}{}{Paráda. Díky, Phile. Schovám si to pod... eh... klobouk nebo tak nìco.}
-{1981}{}{Zavøeli pár bláznù za roznášení pomluv.}
-{1982}{}{Odešla nám èistièka vzduchu v dole.}
-{1983}{}{Zase se ztratily nìjaké karavany. Ale to je úplnì normální.}
-{1984}{}{Pokraèuj.}
+{307}{}{Å½Ã¡dnÃ½ problÃ©m, pÅ™Ã­teli. Tady mÃ¡Å¡ to pitÃ­. Hele, mÅ¯Å¾u pro tebe jeÅ¡tÄ› nÄ›co udÄ›lat?}
+{308}{}{ZdravÃ­m, pÅ™Ã­teli. DÃ­ky za ty dÃ½Å¡ka. Tady mÃ¡Å¡ nÄ›co za to. SlyÅ¡el jsem, Å¾e Liz, majitelka obchodu, schovÃ¡vÃ¡ ve sklepÄ› kupu zbranÃ­. Ale ode mÄ› to nemÃ¡Å¡.}
+{309}{}{ParÃ¡da. DÃ­ky, Phile. SchovÃ¡m si to pod... eh... klobouk nebo tak nÄ›co.}
+{1981}{}{ZavÅ™eli pÃ¡r blÃ¡znÅ¯ za roznÃ¡Å¡enÃ­ pomluv.}
+{1982}{}{OdeÅ¡la nÃ¡m ÄistiÄka vzduchu v dole.}
+{1983}{}{Zase se ztratily nÄ›jakÃ© karavany. Ale to je ÃºplnÄ› normÃ¡lnÃ­.}
+{1984}{}{PokraÄuj.}

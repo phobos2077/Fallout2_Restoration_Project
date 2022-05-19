@@ -1,11 +1,11 @@
-{100}{}{Vidíš mnicha.}
-{101}{}{Vidíš jeptišku.}
-{102}{}{Vidíš øádového mnicha z Opatství.}
-{103}{}{Vidíš øádovou sestru z Opatství.}
-{200}{}{Vítej, cestovateli.}
-{201}{}{Mír s tebou.}
-{202}{}{Jsme stráci vìdìní.}
+{100}{}{VidÃ­Å¡ mnicha.}
+{101}{}{VidÃ­Å¡ jeptiÅ¡ku.}
+{102}{}{VidÃ­Å¡ Å™Ã¡dovÃ©ho mnicha z OpatstvÃ­.}
+{103}{}{VidÃ­Å¡ Å™Ã¡dovou sestru z OpatstvÃ­.}
+{200}{}{VÃ­tej, cestovateli.}
+{201}{}{MÃ­r s tebou.}
+{202}{}{Jsme strÃ¡Å¾ci vÄ›dÄ›nÃ­.}
 {203}{}{Ahoj.}
-{204}{}{Krásné poèasí.}
-{205}{}{Doufám, e se ti tu líbí.}
-{500}{}{Pøestaò s tím!}
+{204}{}{KrÃ¡snÃ© poÄasÃ­.}
+{205}{}{DoufÃ¡m, Å¾e se ti tu lÃ­bÃ­.}
+{500}{}{PÅ™estaÅˆ s tÃ­m!}

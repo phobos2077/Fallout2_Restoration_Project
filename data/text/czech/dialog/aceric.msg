@@ -1,8 +1,8 @@
-{100}{}{Vidíš svého synovce Fearguse. Jako obvykle nad nìèím fòuká.}
-{101}{}{*breèí* Prosím tì, oprav tu studnu.}
-{102}{}{*breèí* Mám velkou ízeò, ale studna je rozbitá!}
-{103}{}{*fòuká* Ta studna potøebuje opravit.}
-{104}{}{Hej, mockrát díky za opravení studny!}
-{105}{}{Mìj se.}
-{106}{}{Studna je opravená, jseš jednièka!}
-{200}{}{Vidíš svého synovce Fearguse.}
+{100}{}{VidÃ­Å¡ svÃ©ho synovce Fearguse. Jako obvykle nad nÄ›ÄÃ­m fÅˆukÃ¡.}
+{101}{}{*breÄÃ­* ProsÃ­m tÄ›, oprav tu studnu.}
+{102}{}{*breÄÃ­* MÃ¡m velkou Å¾Ã­zeÅˆ, ale studna je rozbitÃ¡!}
+{103}{}{*fÅˆukÃ¡* Ta studna potÅ™ebuje opravit.}
+{104}{}{Hej, mockrÃ¡t dÃ­ky za opravenÃ­ studny!}
+{105}{}{MÄ›j se.}
+{106}{}{Studna je opravenÃ¡, jseÅ¡ jedniÄka!}
+{200}{}{VidÃ­Å¡ svÃ©ho synovce Fearguse.}

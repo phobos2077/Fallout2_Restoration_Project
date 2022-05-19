@@ -1,21 +1,21 @@
-{100}{}{Vidíš podivného tvora.}
-{101}{}{Vidíš supermutanta. Vypadá dost vyšinutì.}
-{102}{}{Pøestat!}
-{103}{}{Dál ani krok! Melchior Vznešenı ti naøizuje!}
-{104}{}{Já jsem ten nejvìtší kouzelník na svìtì!}
-{105}{}{Tøes se pøed mocí Melchiora Vznešeného!}
-{106}{}{Moji mazlíèci si pochutnají na tvıch kostech!}
-{107}{}{Varoval jsem tì! Vezmìte si ho, mazlíèci!}
+{100}{}{VidÃ­Å¡ podivnÃ©ho tvora.}
+{101}{}{VidÃ­Å¡ supermutanta. VypadÃ¡ dost vyÅ¡inutÄ›.}
+{102}{}{PÅ™estat!}
+{103}{}{DÃ¡l ani krok! Melchior VzneÅ¡enÃ½ ti naÅ™izuje!}
+{104}{}{JÃ¡ jsem ten nejvÄ›tÅ¡Ã­ kouzelnÃ­k na svÄ›tÄ›!}
+{105}{}{TÅ™es se pÅ™ed mocÃ­ Melchiora VzneÅ¡enÃ©ho!}
+{106}{}{Moji mazlÃ­Äci si pochutnajÃ­ na tvÃ½ch kostech!}
+{107}{}{Varoval jsem tÄ›! VezmÄ›te si ho, mazlÃ­Äci!}
 {1000}{}{MACHALAJ!}
-{1001}{}{Mí mazlíèci s paøáty se o tebe postarají.}
-{1002}{}{Paøáty do útoku!}
+{1001}{}{MÃ­ mazlÃ­Äci s paÅ™Ã¡ty se o tebe postarajÃ­.}
+{1002}{}{PaÅ™Ã¡ty do Ãºtoku!}
 {1010}{}{ABRAKADABRA!}
-{1011}{}{Melchior vyèaruje ohnivé mazlíèky, kteøí spálí èlovìka.}
-{1012}{}{Spalte toho èlovìka!}
-{1020}{}{ÈÁRY MÁRY FUK!}
-{1021}{}{Mùj jedovatı mazlíèek tì roztrhá na kusy!}
-{1022}{}{Trhej, zlatíèko.}
+{1011}{}{Melchior vyÄaruje ohnivÃ© mazlÃ­Äky, kteÅ™Ã­ spÃ¡lÃ­ ÄlovÄ›ka.}
+{1012}{}{Spalte toho ÄlovÄ›ka!}
+{1020}{}{ÄŒÃRY MÃRY FUK!}
+{1021}{}{MÅ¯j jedovatÃ½ mazlÃ­Äek tÄ› roztrhÃ¡ na kusy!}
+{1022}{}{Trhej, zlatÃ­Äko.}
 {1030}{}{HOKUS POKUS!}
-{1031}{}{Do prdele! Zbyli mi u jenom tlusté krysy.}
-{1032}{}{Docházejí mi mazlíèci.}
-{1050}{}{A sakra. U nemám z èeho dìlat mutantíky.}
+{1031}{}{Do prdele! Zbyli mi uÅ¾ jenom tlustÃ© krysy.}
+{1032}{}{DochÃ¡zejÃ­ mi mazlÃ­Äci.}
+{1050}{}{A sakra. UÅ¾ nemÃ¡m z Äeho dÄ›lat mutantÃ­ky.}

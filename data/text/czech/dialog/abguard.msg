@@ -1,33 +1,33 @@
-{100}{}{Vidíš drsného stráce.}
-{101}{}{Vidíš stárnoucí strá s úasnou muskulaturou a spálenou kùí od slunce. Døív to musel bıt nìkdo. Jeho pronikavı pohled tì všude sleduje.}
-{200}{}{Zdravím, poutníku. Vítej v Opatství. Nedìlej potíe a budeme spolu dobøe vycházet.}
-{201}{}{Mám tì stále na oèích, otrokáøi. Jeden špatnı pohyb a budeš kazit náš høbitov na vìky vìkù. Nepøeju ti to a jsem si docela jistı, e ani tobì by se to nelíbilo, take a tì nenapadne nìjaká blbost v té tvojí pokøivené mysli.}
+{100}{}{VidÃ­Å¡ drsnÃ©ho strÃ¡Å¾ce.}
+{101}{}{VidÃ­Å¡ stÃ¡rnoucÃ­ strÃ¡Å¾ s ÃºÅ¾asnou muskulaturou a spÃ¡lenou kÅ¯Å¾Ã­ od slunce. DÅ™Ã­v to musel bÃ½t nÄ›kdo. Jeho pronikavÃ½ pohled tÄ› vÅ¡ude sleduje.}
+{200}{}{ZdravÃ­m, poutnÃ­ku. VÃ­tej v OpatstvÃ­. NedÄ›lej potÃ­Å¾e a budeme spolu dobÅ™e vychÃ¡zet.}
+{201}{}{MÃ¡m tÄ› stÃ¡le na oÄÃ­ch, otrokÃ¡Å™i. Jeden Å¡patnÃ½ pohyb a budeÅ¡ kazit nÃ¡Å¡ hÅ™bitov na vÄ›ky vÄ›kÅ¯. NepÅ™eju ti to a jsem si docela jistÃ½, Å¾e ani tobÄ› by se to nelÃ­bilo, takÅ¾e aÅ¥ tÄ› nenapadne nÄ›jakÃ¡ blbost v tÃ© tvojÃ­ pokÅ™ivenÃ© mysli.}
 {202}{}{Kdo jsi?}
-{203}{}{Kde mùu nakoupit nìjaké zásoby?}
-{204}{}{Nìkdo vykopává hroby. Nechceš s tím jít nìco udìlat?}
-{205}{}{Prı máte nìjaká zvíøata ve sklepì. Nevíš o tom nìco?}
-{206}{}{Myslím, e je naèase, abys zemøel. Zatanèíme si, staøíku.}
+{203}{}{Kde mÅ¯Å¾u nakoupit nÄ›jakÃ© zÃ¡soby?}
+{204}{}{NÄ›kdo vykopÃ¡vÃ¡ hroby. NechceÅ¡ s tÃ­m jÃ­t nÄ›co udÄ›lat?}
+{205}{}{PrÃ½ mÃ¡te nÄ›jakÃ¡ zvÃ­Å™ata ve sklepÄ›. NevÃ­Å¡ o tom nÄ›co?}
+{206}{}{MyslÃ­m, Å¾e je naÄase, abys zemÅ™el. ZatanÄÃ­me si, staÅ™Ã­ku.}
 {207}{}{To je jedno. Sbohem.}
-{300}{}{Nikdo... jsem jen starı hlídaè karavan v dùchodu. Hodnì lidí mì mylnì povauje za nìjakého šerifa, protoe vypadám jako nìkdo, kdo tu pøedstavuje zákon, ale nejsem. Jen dohlíím na tuhle komunitu, protoe si myslím, e stojí za to ji chránit.}
-{301}{}{A na oplátku se tahle komunita stará o mì. Od mnichù dostávám zadarmo chlast, Peterson mì sytí a Bill mi obstarává munici a Stimpaky. Není to špatnı dùchod, to ti teda øeknu.}
-{302}{}{Já jsem ten, co tu dohlíí na poøádek, víc nemusíš vìdìt. A teï se vra ke svojí práci a nech mì na pokoji.}
-{303}{}{To je pìkná dohoda. Chci se ještì na nìco zeptat.}
+{300}{}{Nikdo... jsem jen starÃ½ hlÃ­daÄ karavan v dÅ¯chodu. HodnÄ› lidÃ­ mÄ› mylnÄ› povaÅ¾uje za nÄ›jakÃ©ho Å¡erifa, protoÅ¾e vypadÃ¡m jako nÄ›kdo, kdo tu pÅ™edstavuje zÃ¡kon, ale nejsem. Jen dohlÃ­Å¾Ã­m na tuhle komunitu, protoÅ¾e si myslÃ­m, Å¾e stojÃ­ za to ji chrÃ¡nit.}
+{301}{}{A na oplÃ¡tku se tahle komunita starÃ¡ o mÄ›. Od mnichÅ¯ dostÃ¡vÃ¡m zadarmo chlast, Peterson mÄ› sytÃ­ a Bill mi obstarÃ¡vÃ¡ munici a Stimpaky. NenÃ­ to Å¡patnÃ½ dÅ¯chod, to ti teda Å™eknu.}
+{302}{}{JÃ¡ jsem ten, co tu dohlÃ­Å¾Ã­ na poÅ™Ã¡dek, vÃ­c nemusÃ­Å¡ vÄ›dÄ›t. A teÄ se vraÅ¥ ke svojÃ­ prÃ¡ci a nech mÄ› na pokoji.}
+{303}{}{To je pÄ›knÃ¡ dohoda. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
 {304}{}{To je jedno, sbohem.}
-{305}{}{Ty si myslíš, e tu dohlííš na poøádek? Tak uvidíme, staøíku. Bude sranda.}
-{400}{}{V budovì naproti najdeš Billa, našeho místního obchodníka. Jinak mùeš jít k Percymu na Smetištì v Gecku nebo ke Šastnému Harrymu na Pøedmìstí ve Vault City.}
-{401}{}{Díky za informace. Mám další otázku.}
-{402}{}{Díky, nashle.}
-{500}{}{Pokud je nìkdo natolik chudı nebo chamtivı, e musí kopat hroby, je to jeho vìc. Mrtvım ty pohøbené vìci jsou u stejnì k nièemu. Není to mùj problém... nebudu z toho mít tìké spaní.}
-{501}{}{Chci se ještì na nìco zeptat.}
+{305}{}{Ty si myslÃ­Å¡, Å¾e tu dohlÃ­Å¾Ã­Å¡ na poÅ™Ã¡dek? Tak uvidÃ­me, staÅ™Ã­ku. Bude sranda.}
+{400}{}{V budovÄ› naproti najdeÅ¡ Billa, naÅ¡eho mÃ­stnÃ­ho obchodnÃ­ka. Jinak mÅ¯Å¾eÅ¡ jÃ­t k Percymu na SmetiÅ¡tÄ› v Gecku nebo ke Å Å¥astnÃ©mu Harrymu na PÅ™edmÄ›stÃ­ ve Vault City.}
+{401}{}{DÃ­ky za informace. MÃ¡m dalÅ¡Ã­ otÃ¡zku.}
+{402}{}{DÃ­ky, nashle.}
+{500}{}{Pokud je nÄ›kdo natolik chudÃ½ nebo chamtivÃ½, Å¾e musÃ­ kopat hroby, je to jeho vÄ›c. MrtvÃ½m ty pohÅ™benÃ© vÄ›ci jsou uÅ¾ stejnÄ› k niÄemu. NenÃ­ to mÅ¯j problÃ©m... nebudu z toho mÃ­t tÄ›Å¾kÃ© spanÃ­.}
+{501}{}{Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
 {502}{}{Nashle.}
-{600}{}{Ano a navíc je bratr Thomas nezvìstnı. Byl to chytrı mu, ale trochu nerozumnı. Nevím, co tam dole je, ale myslím, e to není jen pár krys a radškorpionù.}
-{601}{}{Ano a navíc je bratr Thomas nezvìstnı. Nevím, co tam dole je, ale myslím, e to není jen pár krys a radškorpionù. Co takhle se tam jít podívat, tvrïáku?}
-{602}{}{Tak proè se tam nejdeš podívat?}
-{603}{}{Ty jsi tady tvrïák nebo ne? Co kdybys pohnul tím svım zadkem a šel se tam podívat?}
-{610}{}{Je to trochu trapné, ale strávil jsem v pustinì tolik èasu s karavany, e se pokadé zaènu tøást, kdy vstoupím do podzemí. Zdi se zaènou pøibliovat a špatnì se mi dıchá... nechceš tam jít místo mì a zjistit, co se stalo bratru Thomasovi?}
-{611}{}{Uvidím, co se dá dìlat. Mezitím se tì chci na nìco zeptat.}
+{600}{}{Ano a navÃ­c je bratr Thomas nezvÄ›stnÃ½. Byl to chytrÃ½ muÅ¾, ale trochu nerozumnÃ½. NevÃ­m, co tam dole je, ale myslÃ­m, Å¾e to nenÃ­ jen pÃ¡r krys a radÅ¡korpionÅ¯.}
+{601}{}{Ano a navÃ­c je bratr Thomas nezvÄ›stnÃ½. NevÃ­m, co tam dole je, ale myslÃ­m, Å¾e to nenÃ­ jen pÃ¡r krys a radÅ¡korpionÅ¯. Co takhle se tam jÃ­t podÃ­vat, tvrÄÃ¡ku?}
+{602}{}{Tak proÄ se tam nejdeÅ¡ podÃ­vat?}
+{603}{}{Ty jsi tady tvrÄÃ¡k nebo ne? Co kdybys pohnul tÃ­m svÃ½m zadkem a Å¡el se tam podÃ­vat?}
+{610}{}{Je to trochu trapnÃ©, ale strÃ¡vil jsem v pustinÄ› tolik Äasu s karavany, Å¾e se pokaÅ¾dÃ© zaÄnu tÅ™Ã¡st, kdyÅ¾ vstoupÃ­m do podzemÃ­. Zdi se zaÄnou pÅ™ibliÅ¾ovat a Å¡patnÄ› se mi dÃ½chÃ¡... nechceÅ¡ tam jÃ­t mÃ­sto mÄ› a zjistit, co se stalo bratru Thomasovi?}
+{611}{}{UvidÃ­m, co se dÃ¡ dÄ›lat. MezitÃ­m se tÄ› chci na nÄ›co zeptat.}
 {612}{}{Nashle.}
-{613}{}{Já jsem tady drsòák a pøesnì proto ti teï nakopu prdel.}
-{700}{}{Chceš vìdìt ještì nìco?}
-{800}{}{Rád tì opìt vidím.}
-{801}{}{Mám tì stále na oèích.}
+{613}{}{JÃ¡ jsem tady drsÅˆÃ¡k a pÅ™esnÄ› proto ti teÄ nakopu prdel.}
+{700}{}{ChceÅ¡ vÄ›dÄ›t jeÅ¡tÄ› nÄ›co?}
+{800}{}{RÃ¡d tÄ› opÄ›t vidÃ­m.}
+{801}{}{MÃ¡m tÄ› stÃ¡le na oÄÃ­ch.}

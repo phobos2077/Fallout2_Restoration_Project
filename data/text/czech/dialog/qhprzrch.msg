@@ -1,239 +1,239 @@
-{100}{}{Vidíš mue v obleku. Zírá do prázdna, jako by se díval skrz tebe.}
-{101}{}{Vidíš hlavu svobodného svìta, prezidenta Spojenıch státù.}
-{102}{}{Vidíš hubeného nervóznì vypadajícího staršího mue, kterı vypadá stejnì hroznì jako ten oblek, kterı má na sobì.}
-{103}{prs1a}{Vy tam, co dìláte mimo rekonvalescenèní centrum?}
-{104}{prs1b}{My se známe? Na jakém projektu pracujete?}
-{105}{prs1c}{Kdo si myslíte, e jste, e si jen tak nakráèíte do mé kanceláøe?}
+{100}{}{VidÃ­Å¡ muÅ¾e v obleku. ZÃ­rÃ¡ do prÃ¡zdna, jako by se dÃ­val skrz tebe.}
+{101}{}{VidÃ­Å¡ hlavu svobodnÃ©ho svÄ›ta, prezidenta SpojenÃ½ch stÃ¡tÅ¯.}
+{102}{}{VidÃ­Å¡ hubenÃ©ho nervÃ³znÄ› vypadajÃ­cÃ­ho starÅ¡Ã­ho muÅ¾e, kterÃ½ vypadÃ¡ stejnÄ› hroznÄ› jako ten oblek, kterÃ½ mÃ¡ na sobÄ›.}
+{103}{prs1a}{Vy tam, co dÄ›lÃ¡te mimo rekonvalescenÄnÃ­ centrum?}
+{104}{prs1b}{My se znÃ¡me? Na jakÃ©m projektu pracujete?}
+{105}{prs1c}{Kdo si myslÃ­te, Å¾e jste, Å¾e si jen tak nakrÃ¡ÄÃ­te do mÃ© kancelÃ¡Å™e?}
 {106}{}{Eh?}
 {107}{}{Ne-e.}
-{108}{}{Pá pá.}
-{109}{prs2a}{Aha, vy jste pod vlivem testovacího séra. Poèkejte, seenu vám pomoc. Stráe!}
-{110}{prs2b}{Doktore, myslím, e jste byl vystaven úèinku pùsobení F.E.V. Nebohá duše, pøivolám vám pomoc. Stráe!}
-{111}{prs2c}{Teï buïte hodnı mutant a zùstaòte stát na místì. Stráe!}
-{112}{}{Dobøe.}
-{113}{}{E-he. Pá pá.}
-{114}{}{Poèkejte pøímo tady.}
-{115}{}{Eh, zùstaòte v klidu. Hned nìkdo pøijde. }
-{116}{}{Všechno je v poøádku.}
-{117}{}{Zatracenì! Mùe sem nìkdo pøijít a vyhodit tuto... osobu?}
-{118}{}{Haló, stráe! V mé kanceláøi je nìjakı idiot... a ne, není to viceprezident.}
-{119}{prs4}{Zdravím. Jsem prezident Richardson a jsem zatracenì rád, e vás potkávám. Á, Vault 13. Poskytujete své vlasti neocenitelné sluby.}
-{120}{}{Prezident? Kdo vlastnì jste?}
-{121}{}{Slubu své vlasti? Co se tu vlastnì dìje?}
-{122}{}{Eh, asi jsem špatnì zaboèil pøi cestì do laboratoøe. Promiòte, pane. Sbohem.}
-{123}{prs5a}{Zdravím, doktore. Máte vısledky? Doufám, e pøinášíte dobré zprávy. Váš tım má v rukou naši záchranu.}
-{124}{prs5b}{Vy tam, nemáte náhodou pracovat na Projektu? Závisí na vás záchrana lidstva.}
+{108}{}{PÃ¡ pÃ¡.}
+{109}{prs2a}{Aha, vy jste pod vlivem testovacÃ­ho sÃ©ra. PoÄkejte, seÅ¾enu vÃ¡m pomoc. StrÃ¡Å¾e!}
+{110}{prs2b}{Doktore, myslÃ­m, Å¾e jste byl vystaven ÃºÄinku pÅ¯sobenÃ­ F.E.V. NebohÃ¡ duÅ¡e, pÅ™ivolÃ¡m vÃ¡m pomoc. StrÃ¡Å¾e!}
+{111}{prs2c}{TeÄ buÄte hodnÃ½ mutant a zÅ¯staÅˆte stÃ¡t na mÃ­stÄ›. StrÃ¡Å¾e!}
+{112}{}{DobÅ™e.}
+{113}{}{E-he. PÃ¡ pÃ¡.}
+{114}{}{PoÄkejte pÅ™Ã­mo tady.}
+{115}{}{Eh, zÅ¯staÅˆte v klidu. Hned nÄ›kdo pÅ™ijde. }
+{116}{}{VÅ¡echno je v poÅ™Ã¡dku.}
+{117}{}{ZatracenÄ›! MÅ¯Å¾e sem nÄ›kdo pÅ™ijÃ­t a vyhodit tuto... osobu?}
+{118}{}{HalÃ³, strÃ¡Å¾e! V mÃ© kancelÃ¡Å™i je nÄ›jakÃ½ idiot... a ne, nenÃ­ to viceprezident.}
+{119}{prs4}{ZdravÃ­m. Jsem prezident Richardson a jsem zatracenÄ› rÃ¡d, Å¾e vÃ¡s potkÃ¡vÃ¡m. Ã, Vault 13. Poskytujete svÃ© vlasti neocenitelnÃ© sluÅ¾by.}
+{120}{}{Prezident? Kdo vlastnÄ› jste?}
+{121}{}{SluÅ¾bu svÃ© vlasti? Co se tu vlastnÄ› dÄ›je?}
+{122}{}{Eh, asi jsem Å¡patnÄ› zaboÄil pÅ™i cestÄ› do laboratoÅ™e. PromiÅˆte, pane. Sbohem.}
+{123}{prs5a}{ZdravÃ­m, doktore. MÃ¡te vÃ½sledky? DoufÃ¡m, Å¾e pÅ™inÃ¡Å¡Ã­te dobrÃ© zprÃ¡vy. VÃ¡Å¡ tÃ½m mÃ¡ v rukou naÅ¡i zÃ¡chranu.}
+{124}{prs5b}{Vy tam, nemÃ¡te nÃ¡hodou pracovat na Projektu? ZÃ¡visÃ­ na vÃ¡s zÃ¡chrana lidstva.}
 {125}{}{Kdo jsi?}
-{126}{}{Záchrana? Co se tu vlastnì dìje?}
-{127}{}{Promiòte, pane. Špatnì jsem zaboèil pøi cestì do laboratoøe. Sbohem.}
-{128}{prs6}{Aha, to je v poøádku. Oèkovací injekce dezorientují kadého.}
-{129}{}{Oèkovací injekce? Co tím myslíte?}
-{130}{}{Hmm, opravdu se cítím trochu omámenì. Ale stojí to za to, kdy vím, e tím pomáhám své zemi.}
-{131}{}{To máte pravdu. No, radìji pùjdu.}
-{132}{prs7}{Mùu pøivolat nìkoho z ochranky, aby vás odvedl zpìt.}
-{133}{}{To je od vás velmi milé, ale myslím, e odejdu po vlastních. Sbohem.}
-{134}{}{To by bylo od vás milé. Díky.}
-{135}{prs8}{ádnı problém. (Mluví do interkomu.) Haló. Potøeboval bych tu s nìèím pomoci.}
-{136}{}{Eh. Díky moc, pane.}
-{137}{}{Pokud chcete z téhle místnosti odejít ivı, tak radìji ádné stráe nevolejte.}
-{138}{prs9}{Och... no dobøe. Jsem si jist, e se mùeme nìjak dohodnout. Co potøebujete?}
-{139}{}{Chci vìdìt, co se tady dìje.}
-{140}{}{Potøebuju odsud v tichosti odejít. Ruce pryè od alarmu, dokud odsud nevypadnu. Nebo...}
-{141}{}{Odejdu odsud s vámi jako s rukojmím, abych se ujistil, e se odsud mí lidé dostanou v poøádku.}
-{142}{prs10}{Vy si opravdu myslíte, e mùete zastrašovat prezidenta Spojenıch státù?}
-{143}{}{Nepochybnì.}
-{144}{}{Moná e ne, ale radím vám, abyste se mi nepletl do cesty, dokud neodejdu.}
-{145}{prs11a_a}{Pro vaši informaci, stráe mají rozkaz mì radìji zastøelit, ne aby nechali nìkoho nebo nìco ohrozit Projekt. Já... byl bych vám jako rukojmí k nièemu.}
-{146}{prs11b}{Snad si nemyslíte, e vám nìco takového projde? Cha! Pokud to zkusíte, mé stráe mají rozkaz mì radìji zastøelit, ne aby nechali nìkoho nebo nìco ohrozit Projekt. Nikam nepùjdu. Take, zastøelíte mì teï nebo ne?}
-{147}{}{Asi ne a u radìji pùjdu. A nedotıkejte se toho bzuèáku.}
-{148}{}{Projekt? Jakı Projekt?}
-{149}{}{Ale nebyl. Pìknì si to vychutnám.}
-{150}{prs12}{Eh, poèkat, poèkat, poèkat. Poèkat, co... co... eh, c-c-co vlastnì chcete?}
-{151}{}{Chci vìdìt, co se tady dìje.}
-{152}{}{Chci vìdìt, kdo sakra jste.}
-{153}{}{Chci vás zabít.}
-{154}{prs13}{Dobøe, dobøe, jak chcete. Budu tu tiše sedìt. Rád, eh, rád jsem vás poznal. Sbohem.}
-{155}{}{To by bylo pøíliš snadné. Ještì ne odejdu, chci vìdìt, co tady dìláte.}
-{156}{}{Dávej si pozor.}
-{157}{}{Bylo mi potìšením, pane prezidente. Sbohem.}
-{158}{prs14}{Áááá. Áááá. Stráe? Stráe!}
-{159}{}{Sladké sny, pane prezidente.}
-{160}{prs15}{Jsem prezident Spojenıch státù americkıch. Viceprezident je v té krajní kanceláøi. To byste vìdìl, pokud byste sem patøil. Kdo jste a co tady dìláte?}
-{161}{}{Vy jste prezident Spojenıch státù?}
-{162}{}{Jste blázen.}
-{163}{}{Viceprezident? Myslíte toho slintajícího idiota ve vedlejší kanceláøi?}
-{164}{}{To je mi ale náhodièka. Já jsem toti vládce planety Quetzel a pøicházím si podrobit Zemi.}
-{165}{}{Nebudu vás zdrovat od vaší práce pane, eh, prezidente. Sbohem.}
-{166}{prs16}{Aha. Ó, zajisté, vaše eminence. Nemám nìkoho poslat pro... obèerstvení? Mùeme si hezky v klidu promluvit a probrat to spolu - koneckoncù jsme mírumilovné národy, e?}
-{167}{}{To zní skvìle.}
-{168}{}{Dobrı pokus, pane prezidente.}
-{169}{prs17}{Eh, dobrá, vteøinku. (Mluví do interkomu.) Eh, chtìl bych obèerstvení pro mì a jednoho *neoèekávaného hosta.* Velmi dùleitého... neoèekávaného... hosta. Co nejdøíve, ano?}
-{170}{}{Díky. Myslím, e nakonec nejste a takovı hajzl.}
-{171}{}{To bylo od vás hloupé. A teï vás to bude bolet.}
-{172}{prs18}{Nìkdo se tu oèividnì zbláznil. No jó. To jóóóó.}
-{173}{}{Na mì se nedívejte. Nejsem ten, kdo tvrdí, e je prezident Spojenıch státù, které padly dávno pøedtím, ne jsme se my dva vùbec narodili.}
-{174}{prs19}{Jsem zvolenı pøedstavitel lidu. Spojené státy stále existují. Bùh nám všem ehnej. Museli jsme se jen pøizpùsobit, abychom po válce pøeili.}
-{175}{}{Nerozumím. Co tím myslíte?}
-{176}{prs20a}{Vy to opravdu nevíte, e ne? Dobrá, povím vám nìco o záchranì lidstva. Zaèal bych trochou historie...}
+{126}{}{ZÃ¡chrana? Co se tu vlastnÄ› dÄ›je?}
+{127}{}{PromiÅˆte, pane. Å patnÄ› jsem zaboÄil pÅ™i cestÄ› do laboratoÅ™e. Sbohem.}
+{128}{prs6}{Aha, to je v poÅ™Ã¡dku. OÄkovacÃ­ injekce dezorientujÃ­ kaÅ¾dÃ©ho.}
+{129}{}{OÄkovacÃ­ injekce? Co tÃ­m myslÃ­te?}
+{130}{}{Hmm, opravdu se cÃ­tÃ­m trochu omÃ¡menÄ›. Ale stojÃ­ to za to, kdyÅ¾ vÃ­m, Å¾e tÃ­m pomÃ¡hÃ¡m svÃ© zemi.}
+{131}{}{To mÃ¡te pravdu. No, radÄ›ji pÅ¯jdu.}
+{132}{prs7}{MÅ¯Å¾u pÅ™ivolat nÄ›koho z ochranky, aby vÃ¡s odvedl zpÄ›t.}
+{133}{}{To je od vÃ¡s velmi milÃ©, ale myslÃ­m, Å¾e odejdu po vlastnÃ­ch. Sbohem.}
+{134}{}{To by bylo od vÃ¡s milÃ©. DÃ­ky.}
+{135}{prs8}{Å½Ã¡dnÃ½ problÃ©m. (MluvÃ­ do interkomu.) HalÃ³. PotÅ™eboval bych tu s nÄ›ÄÃ­m pomoci.}
+{136}{}{Eh. DÃ­ky moc, pane.}
+{137}{}{Pokud chcete z tÃ©hle mÃ­stnosti odejÃ­t Å¾ivÃ½, tak radÄ›ji Å¾Ã¡dnÃ© strÃ¡Å¾e nevolejte.}
+{138}{prs9}{Och... no dobÅ™e. Jsem si jist, Å¾e se mÅ¯Å¾eme nÄ›jak dohodnout. Co potÅ™ebujete?}
+{139}{}{Chci vÄ›dÄ›t, co se tady dÄ›je.}
+{140}{}{PotÅ™ebuju odsud v tichosti odejÃ­t. Ruce pryÄ od alarmu, dokud odsud nevypadnu. Nebo...}
+{141}{}{Odejdu odsud s vÃ¡mi jako s rukojmÃ­m, abych se ujistil, Å¾e se odsud mÃ­ lidÃ© dostanou v poÅ™Ã¡dku.}
+{142}{prs10}{Vy si opravdu myslÃ­te, Å¾e mÅ¯Å¾ete zastraÅ¡ovat prezidenta SpojenÃ½ch stÃ¡tÅ¯?}
+{143}{}{NepochybnÄ›.}
+{144}{}{MoÅ¾nÃ¡ Å¾e ne, ale radÃ­m vÃ¡m, abyste se mi nepletl do cesty, dokud neodejdu.}
+{145}{prs11a_a}{Pro vaÅ¡i informaci, strÃ¡Å¾e majÃ­ rozkaz mÄ› radÄ›ji zastÅ™elit, neÅ¾ aby nechali nÄ›koho nebo nÄ›co ohrozit Projekt. JÃ¡... byl bych vÃ¡m jako rukojmÃ­ k niÄemu.}
+{146}{prs11b}{Snad si nemyslÃ­te, Å¾e vÃ¡m nÄ›co takovÃ©ho projde? Cha! Pokud to zkusÃ­te, mÃ© strÃ¡Å¾e majÃ­ rozkaz mÄ› radÄ›ji zastÅ™elit, neÅ¾ aby nechali nÄ›koho nebo nÄ›co ohrozit Projekt. Nikam nepÅ¯jdu. TakÅ¾e, zastÅ™elÃ­te mÄ› teÄ nebo ne?}
+{147}{}{Asi ne a uÅ¾ radÄ›ji pÅ¯jdu. A nedotÃ½kejte se toho bzuÄÃ¡ku.}
+{148}{}{Projekt? JakÃ½ Projekt?}
+{149}{}{Ale nebyl. PÄ›knÄ› si to vychutnÃ¡m.}
+{150}{prs12}{Eh, poÄkat, poÄkat, poÄkat. PoÄkat, co... co... eh, c-c-co vlastnÄ› chcete?}
+{151}{}{Chci vÄ›dÄ›t, co se tady dÄ›je.}
+{152}{}{Chci vÄ›dÄ›t, kdo sakra jste.}
+{153}{}{Chci vÃ¡s zabÃ­t.}
+{154}{prs13}{DobÅ™e, dobÅ™e, jak chcete. Budu tu tiÅ¡e sedÄ›t. RÃ¡d, eh, rÃ¡d jsem vÃ¡s poznal. Sbohem.}
+{155}{}{To by bylo pÅ™Ã­liÅ¡ snadnÃ©. JeÅ¡tÄ› neÅ¾ odejdu, chci vÄ›dÄ›t, co tady dÄ›lÃ¡te.}
+{156}{}{DÃ¡vej si pozor.}
+{157}{}{Bylo mi potÄ›Å¡enÃ­m, pane prezidente. Sbohem.}
+{158}{prs14}{ÃÃ¡Ã¡Ã¡. ÃÃ¡Ã¡Ã¡. StrÃ¡Å¾e? StrÃ¡Å¾e!}
+{159}{}{SladkÃ© sny, pane prezidente.}
+{160}{prs15}{Jsem prezident SpojenÃ½ch stÃ¡tÅ¯ americkÃ½ch. Viceprezident je v tÃ© krajnÃ­ kancelÃ¡Å™i. To byste vÄ›dÄ›l, pokud byste sem patÅ™il. Kdo jste a co tady dÄ›lÃ¡te?}
+{161}{}{Vy jste prezident SpojenÃ½ch stÃ¡tÅ¯?}
+{162}{}{Jste blÃ¡zen.}
+{163}{}{Viceprezident? MyslÃ­te toho slintajÃ­cÃ­ho idiota ve vedlejÅ¡Ã­ kancelÃ¡Å™i?}
+{164}{}{To je mi ale nÃ¡hodiÄka. JÃ¡ jsem totiÅ¾ vlÃ¡dce planety Quetzel a pÅ™ichÃ¡zÃ­m si podrobit Zemi.}
+{165}{}{Nebudu vÃ¡s zdrÅ¾ovat od vaÅ¡Ã­ prÃ¡ce pane, eh, prezidente. Sbohem.}
+{166}{prs16}{Aha. Ã“, zajistÃ©, vaÅ¡e eminence. NemÃ¡m nÄ›koho poslat pro... obÄerstvenÃ­? MÅ¯Å¾eme si hezky v klidu promluvit a probrat to spolu - koneckoncÅ¯ jsme mÃ­rumilovnÃ© nÃ¡rody, Å¾e?}
+{167}{}{To znÃ­ skvÄ›le.}
+{168}{}{DobrÃ½ pokus, pane prezidente.}
+{169}{prs17}{Eh, dobrÃ¡, vteÅ™inku. (MluvÃ­ do interkomu.) Eh, chtÄ›l bych obÄerstvenÃ­ pro mÄ› a jednoho *neoÄekÃ¡vanÃ©ho hosta.* Velmi dÅ¯leÅ¾itÃ©ho... neoÄekÃ¡vanÃ©ho... hosta. Co nejdÅ™Ã­ve, ano?}
+{170}{}{DÃ­ky. MyslÃ­m, Å¾e nakonec nejste aÅ¾ takovÃ½ hajzl.}
+{171}{}{To bylo od vÃ¡s hloupÃ©. A teÄ vÃ¡s to bude bolet.}
+{172}{prs18}{NÄ›kdo se tu oÄividnÄ› zblÃ¡znil. No jÃ³. To jÃ³Ã³Ã³Ã³.}
+{173}{}{Na mÄ› se nedÃ­vejte. Nejsem ten, kdo tvrdÃ­, Å¾e je prezident SpojenÃ½ch stÃ¡tÅ¯, kterÃ© padly dÃ¡vno pÅ™edtÃ­m, neÅ¾ jsme se my dva vÅ¯bec narodili.}
+{174}{prs19}{Jsem zvolenÃ½ pÅ™edstavitel lidu. SpojenÃ© stÃ¡ty stÃ¡le existujÃ­. BÅ¯h nÃ¡m vÅ¡em Å¾ehnej. Museli jsme se jen pÅ™izpÅ¯sobit, abychom po vÃ¡lce pÅ™eÅ¾ili.}
+{175}{}{NerozumÃ­m. Co tÃ­m myslÃ­te?}
+{176}{prs20a}{Vy to opravdu nevÃ­te, Å¾e ne? DobrÃ¡, povÃ­m vÃ¡m nÄ›co o zÃ¡chranÄ› lidstva. ZaÄal bych trochou historie...}
 {177}{prs20b}{Hmm, trocha historie...}
-{178}{}{Pokraèujte, pane prezidente...}
-{179}{}{Nejdøív by mì zajímalo, proè máte v Navarru základnu.}
-{180}{}{Ne se k tomu dostanete... vidìl jsem, jak jeden z vašich vertibirdù obchoduje s New Renem. O co tam šlo?}
-{181}{}{Teï nemám na takovou blbost èas. Sbohem.}
-{182}{prs21a}{Zdravím. Rád si udìlám èas pro jednoho z našich stateènıch vojákù, ale jsem ponìkud zaneprázdnìn. Take, eh, co pro vás mùe prezident Spojenıch státù udìlat?}
-{183}{prs21b}{Jste zpátky? Co potøebujete?}
-{184}{}{Mùete mi tøeba øíct, co se tady dìje.}
-{185}{}{Já, eh, jen kontroluju tuhle oblast, pane. Bezpeènostní kontrola. Jo. Všechno v poøádku. Eh, sbohem.}
-{186}{prs22a}{Zdravím. Jsem prezident Spojenıch státù americkıch a vy jste...?}
-{187}{prs22b}{Zdravím. Jsem prezident Spojenıch státù americkıch a musím øíct, e jsem za celı svùj ivot ještì nevidìl podivnìjší a alostnìjší skupinu vyvrhelù, ne jste vy. Kdo si myslíte, e jste, e sem mùete jen tak napochodovat?}
-{188}{}{Hroznì by mì zajímalo, co se tady dìje.}
-{189}{}{Jsem váš kat.}
-{190}{}{Prezident? O èem to mluvíte?}
-{191}{}{Ztratil jsem se, ale vidím, e jste velice zaneprázdnìnı mu, pane prezidente, take radìji pùjdu. Sbohem.}
-{192}{prs23}{To je škoda. Nemám toti monost kadı den mluvit se skuteènım mutantem, jako jste vy. Udìlal bych si alespoò obrázek o tom, jaké je to ít v tom radioaktivním pekle na pevninì.}
-{193}{}{Mutantem? Proè mì nazıváte mutantem?}
-{194}{}{Radioaktivním pekle? Vy se ven asi moc èasto nedostanete, e?}
-{195}{}{Tak a dost. Dost øeèí. Èas zemøít.}
-{196}{}{Jo no, všichni se musíme nauèit ít se zklamáním. Sbohem.}
-{197}{prs24}{Dlouho pøed naším narozením svìt zachvátila velká válka. Naši stateèní vojáci bojovali od Yukonu a po Jang-se.}
-{198}{}{Jo, o tom vím. Pokraèujte.}
-{199}{prs26}{Viceprezident Bird moná vypadá jako slintající idiot, ale mùu vám øíct, e ten mu je národní hrdina.}
-{200}{}{Moná pro vás.}
-{201}{prs27}{Je to jeden z nejstateènìjších muù, které znám. Dobrovolnì se pøihlásil k vyzkoušení jedné z prvních verzí protijedu na toxin F.E.V. (povzdech) Bohuel to nedopadlo tak úplnì pøesnì, jak jsme doufali.}
-{202}{}{Co myslíte tím, e to nedopadlo tak úplnì pøesnì, jak jste doufali?}
-{203}{prs28}{A pøesnì takové omezené myšlení, jako je to vaše, dokazuje nadøazenost skuteènıch lidí nad mutanty.}
-{204}{}{Poøád je to jen blábolící idiot.}
-{205}{}{Proè mì nazıváte mutantem?}
-{206}{prs29}{Moná, e se ještì vzpamatuje. Vlastnì to mùe mít i nìjaké neèekané vıhody. Jeho schopnost hláskovat se ve skuteènosti zlepšila.}
-{207}{}{To mám radost, ale proè jste mì nazval mutantem?}
-{208}{prs30}{Protoe jím jste. DNA vašeho kmene se zmìnilo od té doby, co váš pøedek opustil vault. Tomu se nedalo vyhnout. Podepsala se na vás zbytková radiace.}
-{209}{}{Dobøe, tak jsem mutant. Ale hádejte co, pane chytráku? Brzy z vás udìlám èistokrevnou mrtvolu.}
+{178}{}{PokraÄujte, pane prezidente...}
+{179}{}{NejdÅ™Ã­v by mÄ› zajÃ­malo, proÄ mÃ¡te v Navarru zÃ¡kladnu.}
+{180}{}{NeÅ¾ se k tomu dostanete... vidÄ›l jsem, jak jeden z vaÅ¡ich vertibirdÅ¯ obchoduje s New Renem. O co tam Å¡lo?}
+{181}{}{TeÄ nemÃ¡m na takovou blbost Äas. Sbohem.}
+{182}{prs21a}{ZdravÃ­m. RÃ¡d si udÄ›lÃ¡m Äas pro jednoho z naÅ¡ich stateÄnÃ½ch vojÃ¡kÅ¯, ale jsem ponÄ›kud zaneprÃ¡zdnÄ›n. TakÅ¾e, eh, co pro vÃ¡s mÅ¯Å¾e prezident SpojenÃ½ch stÃ¡tÅ¯ udÄ›lat?}
+{183}{prs21b}{Jste zpÃ¡tky? Co potÅ™ebujete?}
+{184}{}{MÅ¯Å¾ete mi tÅ™eba Å™Ã­ct, co se tady dÄ›je.}
+{185}{}{JÃ¡, eh, jen kontroluju tuhle oblast, pane. BezpeÄnostnÃ­ kontrola. Jo. VÅ¡echno v poÅ™Ã¡dku. Eh, sbohem.}
+{186}{prs22a}{ZdravÃ­m. Jsem prezident SpojenÃ½ch stÃ¡tÅ¯ americkÃ½ch a vy jste...?}
+{187}{prs22b}{ZdravÃ­m. Jsem prezident SpojenÃ½ch stÃ¡tÅ¯ americkÃ½ch a musÃ­m Å™Ã­ct, Å¾e jsem za celÃ½ svÅ¯j Å¾ivot jeÅ¡tÄ› nevidÄ›l podivnÄ›jÅ¡Ã­ a Å¾alostnÄ›jÅ¡Ã­ skupinu vyvrhelÅ¯, neÅ¾ jste vy. Kdo si myslÃ­te, Å¾e jste, Å¾e sem mÅ¯Å¾ete jen tak napochodovat?}
+{188}{}{HroznÄ› by mÄ› zajÃ­malo, co se tady dÄ›je.}
+{189}{}{Jsem vÃ¡Å¡ kat.}
+{190}{}{Prezident? O Äem to mluvÃ­te?}
+{191}{}{Ztratil jsem se, ale vidÃ­m, Å¾e jste velice zaneprÃ¡zdnÄ›nÃ½ muÅ¾, pane prezidente, takÅ¾e radÄ›ji pÅ¯jdu. Sbohem.}
+{192}{prs23}{To je Å¡koda. NemÃ¡m totiÅ¾ moÅ¾nost kaÅ¾dÃ½ den mluvit se skuteÄnÃ½m mutantem, jako jste vy. UdÄ›lal bych si alespoÅˆ obrÃ¡zek o tom, jakÃ© je to Å¾Ã­t v tom radioaktivnÃ­m pekle na pevninÄ›.}
+{193}{}{Mutantem? ProÄ mÄ› nazÃ½vÃ¡te mutantem?}
+{194}{}{RadioaktivnÃ­m pekle? Vy se ven asi moc Äasto nedostanete, Å¾e?}
+{195}{}{Tak a dost. Dost Å™eÄÃ­. ÄŒas zemÅ™Ã­t.}
+{196}{}{Jo no, vÅ¡ichni se musÃ­me nauÄit Å¾Ã­t se zklamÃ¡nÃ­m. Sbohem.}
+{197}{prs24}{Dlouho pÅ™ed naÅ¡Ã­m narozenÃ­m svÄ›t zachvÃ¡tila velkÃ¡ vÃ¡lka. NaÅ¡i stateÄnÃ­ vojÃ¡ci bojovali od Yukonu aÅ¾ po Jang-se.}
+{198}{}{Jo, o tom vÃ­m. PokraÄujte.}
+{199}{prs26}{Viceprezident Bird moÅ¾nÃ¡ vypadÃ¡ jako slintajÃ­cÃ­ idiot, ale mÅ¯Å¾u vÃ¡m Å™Ã­ct, Å¾e ten muÅ¾ je nÃ¡rodnÃ­ hrdina.}
+{200}{}{MoÅ¾nÃ¡ pro vÃ¡s.}
+{201}{prs27}{Je to jeden z nejstateÄnÄ›jÅ¡Ã­ch muÅ¾Å¯, kterÃ© znÃ¡m. DobrovolnÄ› se pÅ™ihlÃ¡sil k vyzkouÅ¡enÃ­ jednÃ© z prvnÃ­ch verzÃ­ protijedu na toxin F.E.V. (povzdech) BohuÅ¾el to nedopadlo tak ÃºplnÄ› pÅ™esnÄ›, jak jsme doufali.}
+{202}{}{Co myslÃ­te tÃ­m, Å¾e to nedopadlo tak ÃºplnÄ› pÅ™esnÄ›, jak jste doufali?}
+{203}{prs28}{A pÅ™esnÄ› takovÃ© omezenÃ© myÅ¡lenÃ­, jako je to vaÅ¡e, dokazuje nadÅ™azenost skuteÄnÃ½ch lidÃ­ nad mutanty.}
+{204}{}{PoÅ™Ã¡d je to jen blÃ¡bolÃ­cÃ­ idiot.}
+{205}{}{ProÄ mÄ› nazÃ½vÃ¡te mutantem?}
+{206}{prs29}{MoÅ¾nÃ¡, Å¾e se jeÅ¡tÄ› vzpamatuje. VlastnÄ› to mÅ¯Å¾e mÃ­t i nÄ›jakÃ© neÄekanÃ© vÃ½hody. Jeho schopnost hlÃ¡skovat se ve skuteÄnosti zlepÅ¡ila.}
+{207}{}{To mÃ¡m radost, ale proÄ jste mÄ› nazval mutantem?}
+{208}{prs30}{ProtoÅ¾e jÃ­m jste. DNA vaÅ¡eho kmene se zmÄ›nilo od tÃ© doby, co vÃ¡Å¡ pÅ™edek opustil vault. Tomu se nedalo vyhnout. Podepsala se na vÃ¡s zbytkovÃ¡ radiace.}
+{209}{}{DobÅ™e, tak jsem mutant. Ale hÃ¡dejte co, pane chytrÃ¡ku? Brzy z vÃ¡s udÄ›lÃ¡m Äistokrevnou mrtvolu.}
 {210}{}{Tak jsme mutanti. A co jako?}
-{211}{}{Tvorové se mìní neustále. Øíká se tomu evoluce. Bez toho bychom oba byli jen kousky bunìèné hmoty.}
-{212}{prs31}{Pokoušíme se chránit pøed radiací. To je to, co oddìluje lidi, jako jsem já, od mutantù, jako jste vy.}
-{213}{}{Proè mi poøád øíkáš mutant?}
-{214}{}{Dost øeèí. Je na èase, abyste se setkal s vašimi volièi v nebi.}
-{215}{}{Zabíjím lidi i kvùli menším dùvodùm, ale dnes strašnì spìchám. Sbohem.}
-{216}{prs32}{Vyhrávali jsme. A pak na nás ti zatracení Rudí bastardi všechno vypustili. Sotva jsme stihli odpálit naše støely.}
-{217}{}{Zdá se, e to stejnì moc nepomohlo.}
-{218}{prs33}{No, nepomohlo. Ale alespoò jsme poslali tu proklatou Rudou hrozbu zpìt do doby kamenné. (Smìje se)}
-{219}{}{A nás taky.}
-{220}{prs34}{No, ne. Ne... ne tak docela. Víte, plánovali jsme dopøedu. Byli jsme pøipravení. }
-{221}{}{Co tím myslíš?}
-{222}{prs35}{Mìli jsme nìkolik útoèiš, které by naší slavné americké civilizaci umonily pøeít. Tato zaøízení, vaulty, byly souèástí velkolepého plánu.}
-{223}{}{Ty zatracené vaulty nefungovaly tak, jak mìly. Mnoho lidí v nich zahynulo.}
-{224}{prs36}{Popravdì øeèeno, pracovaly skoro pøesnì tak, jak mìly. Mìl to bıt sociální experiment ve velkém mìøítku.}
+{211}{}{TvorovÃ© se mÄ›nÃ­ neustÃ¡le. Å˜Ã­kÃ¡ se tomu evoluce. Bez toho bychom oba byli jen kousky bunÄ›ÄnÃ© hmoty.}
+{212}{prs31}{PokouÅ¡Ã­me se chrÃ¡nit pÅ™ed radiacÃ­. To je to, co oddÄ›luje lidi, jako jsem jÃ¡, od mutantÅ¯, jako jste vy.}
+{213}{}{ProÄ mi poÅ™Ã¡d Å™Ã­kÃ¡Å¡ mutant?}
+{214}{}{Dost Å™eÄÃ­. Je na Äase, abyste se setkal s vaÅ¡imi voliÄi v nebi.}
+{215}{}{ZabÃ­jÃ­m lidi i kvÅ¯li menÅ¡Ã­m dÅ¯vodÅ¯m, ale dnes straÅ¡nÄ› spÄ›chÃ¡m. Sbohem.}
+{216}{prs32}{VyhrÃ¡vali jsme. A pak na nÃ¡s ti zatracenÃ­ RudÃ­ bastardi vÅ¡echno vypustili. Sotva jsme stihli odpÃ¡lit naÅ¡e stÅ™ely.}
+{217}{}{ZdÃ¡ se, Å¾e to stejnÄ› moc nepomohlo.}
+{218}{prs33}{No, nepomohlo. Ale alespoÅˆ jsme poslali tu proklatou Rudou hrozbu zpÄ›t do doby kamennÃ©. (SmÄ›je se)}
+{219}{}{A nÃ¡s taky.}
+{220}{prs34}{No, ne. Ne... ne tak docela. VÃ­te, plÃ¡novali jsme dopÅ™edu. Byli jsme pÅ™ipravenÃ­. }
+{221}{}{Co tÃ­m myslÃ­Å¡?}
+{222}{prs35}{MÄ›li jsme nÄ›kolik ÃºtoÄiÅ¡Å¥, kterÃ© by naÅ¡Ã­ slavnÃ© americkÃ© civilizaci umoÅ¾nily pÅ™eÅ¾Ã­t. Tato zaÅ™Ã­zenÃ­, vaulty, byly souÄÃ¡stÃ­ velkolepÃ©ho plÃ¡nu.}
+{223}{}{Ty zatracenÃ© vaulty nefungovaly tak, jak mÄ›ly. Mnoho lidÃ­ v nich zahynulo.}
+{224}{prs36}{PopravdÄ› Å™eÄeno, pracovaly skoro pÅ™esnÄ› tak, jak mÄ›ly. MÄ›l to bÃ½t sociÃ¡lnÃ­ experiment ve velkÃ©m mÄ›Å™Ã­tku.}
 {225}{}{Experiment?}
-{226}{prs36a}{Vaulty byly postaveny za úèelem otestování lidské rasy. Nìkteré nemìly dostatek syntezátorù jídla, jiné okupovali pouze mui a další byly navreny tak, aby se otevøely za pouhıch 6 mìsícù. Kadı obsahoval jedineènou sadu okolností navrenou k otestování obyvatel.}
-{227}{}{A co tøeba Vault 13? Jakı byl jeho úèel?}
-{228}{prs37}{Á, Vault 13 je zvláštní pøípad. Mìl bıt uzavøenı do té doby, ne budeme jedince uvnitø potøebovat. Vault 13 byl, vìdeckou hantırkou øeèeno, kontrolní skupina.}
-{229}{}{Ale všichni by zemøeli, kdyby pro nì mùj pøedek nezískal náhradní vodní èip. To pøíliš nezapadá do vašeho plánu.}
-{230}{prs38}{Nešastná a nepøedvídatelná událost. Nicménì jak se ukázalo, byla nám ku prospìchu.}
-{231}{}{Co tím myslíš?}
-{232}{prs39}{Ukázalo se, e jsme potøebovali pokusné jedince z nezasaenıch, pøedváleènıch, lidskıch zásob... vaše pøedky z Vaultu 13... a nìkolik èerstvıch mutantù... vesnièany z Arroyo.}
+{226}{prs36a}{Vaulty byly postaveny za ÃºÄelem otestovÃ¡nÃ­ lidskÃ© rasy. NÄ›kterÃ© nemÄ›ly dostatek syntezÃ¡torÅ¯ jÃ­dla, jinÃ© okupovali pouze muÅ¾i a dalÅ¡Ã­ byly navrÅ¾eny tak, aby se otevÅ™ely za pouhÃ½ch 6 mÄ›sÃ­cÅ¯. KaÅ¾dÃ½ obsahoval jedineÄnou sadu okolnostÃ­ navrÅ¾enou k otestovÃ¡nÃ­ obyvatel.}
+{227}{}{A co tÅ™eba Vault 13? JakÃ½ byl jeho ÃºÄel?}
+{228}{prs37}{Ã, Vault 13 je zvlÃ¡Å¡tnÃ­ pÅ™Ã­pad. MÄ›l bÃ½t uzavÅ™enÃ½ do tÃ© doby, neÅ¾ budeme jedince uvnitÅ™ potÅ™ebovat. Vault 13 byl, vÄ›deckou hantÃ½rkou Å™eÄeno, kontrolnÃ­ skupina.}
+{229}{}{Ale vÅ¡ichni by zemÅ™eli, kdyby pro nÄ› mÅ¯j pÅ™edek nezÃ­skal nÃ¡hradnÃ­ vodnÃ­ Äip. To pÅ™Ã­liÅ¡ nezapadÃ¡ do vaÅ¡eho plÃ¡nu.}
+{230}{prs38}{NeÅ¡Å¥astnÃ¡ a nepÅ™edvÃ­datelnÃ¡ udÃ¡lost. NicmÃ©nÄ› jak se ukÃ¡zalo, byla nÃ¡m ku prospÄ›chu.}
+{231}{}{Co tÃ­m myslÃ­Å¡?}
+{232}{prs39}{UkÃ¡zalo se, Å¾e jsme potÅ™ebovali pokusnÃ© jedince z nezasaÅ¾enÃ½ch, pÅ™edvÃ¡leÄnÃ½ch, lidskÃ½ch zÃ¡sob... vaÅ¡e pÅ™edky z Vaultu 13... a nÄ›kolik ÄerstvÃ½ch mutantÅ¯... vesniÄany z Arroyo.}
 {233}{}{Jak to?}
-{234}{prs39a}{Pro Projekt. U je skoro hotov. Záchrana lidstva je témìø na dosah a Spojené státy americké budou v èele tohoto znovuzrození.}
-{235}{}{Znovuzrození? Co tím myslíte?}
-{236}{prs40a}{Jedinı zpùsob, jak ochránit pravé lidi a demokracii, je vymítit zemi od mutantù. My lidé si vezmeme zpìt to, co nám podle práva patøí.}
-{237}{prs40b}{Projekt vymítí všechny mutanty z naší pøekrásné zemì... a zbytku zemìkoule. Amerika bude opìt strácem svìta.}
-{238}{}{Já jsem také pravı èlovìk.}
-{239}{}{Vymítit mutanty? To zní trochu drasticky. Jak to chcete udìlat?}
-{240}{prs41}{Asi pøed 70ti lety jsme našli jedno provozuschopné vızkumné zaøízení. Byla to døívìjší vojenská základna pouívaná pro vızkum speciálního viru.}
+{234}{prs39a}{Pro Projekt. UÅ¾ je skoro hotov. ZÃ¡chrana lidstva je tÃ©mÄ›Å™ na dosah a SpojenÃ© stÃ¡ty americkÃ© budou v Äele tohoto znovuzrozenÃ­.}
+{235}{}{ZnovuzrozenÃ­? Co tÃ­m myslÃ­te?}
+{236}{prs40a}{JedinÃ½ zpÅ¯sob, jak ochrÃ¡nit pravÃ© lidi a demokracii, je vymÃ­tit zemi od mutantÅ¯. My lidÃ© si vezmeme zpÄ›t to, co nÃ¡m podle prÃ¡va patÅ™Ã­.}
+{237}{prs40b}{Projekt vymÃ­tÃ­ vÅ¡echny mutanty z naÅ¡Ã­ pÅ™ekrÃ¡snÃ© zemÄ›... a zbytku zemÄ›koule. Amerika bude opÄ›t strÃ¡Å¾cem svÄ›ta.}
+{238}{}{JÃ¡ jsem takÃ© pravÃ½ ÄlovÄ›k.}
+{239}{}{VymÃ­tit mutanty? To znÃ­ trochu drasticky. Jak to chcete udÄ›lat?}
+{240}{prs41}{Asi pÅ™ed 70ti lety jsme naÅ¡li jedno provozuschopnÃ© vÃ½zkumnÃ© zaÅ™Ã­zenÃ­. Byla to dÅ™Ã­vÄ›jÅ¡Ã­ vojenskÃ¡ zÃ¡kladna pouÅ¾Ã­vanÃ¡ pro vÃ½zkum speciÃ¡lnÃ­ho viru.}
 {241}{}{Viru?}
-{242}{prs42}{Ano, F.E.V. viru. Byl pùvodnì vytvoøen, aby pøemìnil obyèejné vojáky na super-bojovníky, ale nevyšlo to. Bojovníci byli sice tvrdí a silní, ale pøíliš hloupí. Nicménì naši skvìlí chemici ho pozmìnili.}
-{243}{}{Pozmìnili virus? Proè?}
-{244}{prs43}{Aby se z nìj stal enormnì úèinnı zabiják. Kadı humanoid, kterı nebude pøed jejím vypuštìním naoèkován protilátkou, zemøe. To je Projekt.}
-{245}{}{To je šílené.}
-{246}{prs43a}{Ne, ne. Je to poslední a zároveò nejvìtší lidská nadìje. K tomuto cíli jsme po celá ta dlouhá léta smìøovali.}
-{247}{}{Skvìlé, take máte všechen ten jed a ádnı zpùsob, jak ho šíøit.}
-{248}{prs44}{Došly nám jisté dùleité chemikálie, ale mùeme je získat z narkotickıch laboratoøí v New Renu. A pokud se zmutovaní mafiáni navzájem pozabíjí našemi zbranìmi, (Popotáhne nosem) ušetøí nám tím starosti.}
-{249}{}{Všechno vám hraje do karet, e? Povìzte mi zbytek pøíbìhu.}
-{250}{prs45}{To je jednoduché. Navarro je samostatná základna. Naše vertibirdy mají omezenı dosah doletu. Doplòují tam palivo.}
-{251}{}{To dává smysl.}
-{252}{prs46a}{Jsem si jist, e si to myslíte, ale všechny testy provedené na èlenech vašeho kmene prokázaly, e jste zmutovaní. Je zatracenì dobøe, e u je Projekt pøipraven.}
+{242}{prs42}{Ano, F.E.V. viru. Byl pÅ¯vodnÄ› vytvoÅ™en, aby pÅ™emÄ›nil obyÄejnÃ© vojÃ¡ky na super-bojovnÃ­ky, ale nevyÅ¡lo to. BojovnÃ­ci byli sice tvrdÃ­ a silnÃ­, ale pÅ™Ã­liÅ¡ hloupÃ­. NicmÃ©nÄ› naÅ¡i skvÄ›lÃ­ chemici ho pozmÄ›nili.}
+{243}{}{PozmÄ›nili virus? ProÄ?}
+{244}{prs43}{Aby se z nÄ›j stal enormnÄ› ÃºÄinnÃ½ zabijÃ¡k. KaÅ¾dÃ½ humanoid, kterÃ½ nebude pÅ™ed jejÃ­m vypuÅ¡tÄ›nÃ­m naoÄkovÃ¡n protilÃ¡tkou, zemÅ™e. To je Projekt.}
+{245}{}{To je Å¡Ã­lenÃ©.}
+{246}{prs43a}{Ne, ne. Je to poslednÃ­ a zÃ¡roveÅˆ nejvÄ›tÅ¡Ã­ lidskÃ¡ nadÄ›je. K tomuto cÃ­li jsme po celÃ¡ ta dlouhÃ¡ lÃ©ta smÄ›Å™ovali.}
+{247}{}{SkvÄ›lÃ©, takÅ¾e mÃ¡te vÅ¡echen ten jed a Å¾Ã¡dnÃ½ zpÅ¯sob, jak ho Å¡Ã­Å™it.}
+{248}{prs44}{DoÅ¡ly nÃ¡m jistÃ© dÅ¯leÅ¾itÃ© chemikÃ¡lie, ale mÅ¯Å¾eme je zÃ­skat z narkotickÃ½ch laboratoÅ™Ã­ v New Renu. A pokud se zmutovanÃ­ mafiÃ¡ni navzÃ¡jem pozabÃ­jÃ­ naÅ¡emi zbranÄ›mi, (PopotÃ¡hne nosem) uÅ¡etÅ™Ã­ nÃ¡m tÃ­m starosti.}
+{249}{}{VÅ¡echno vÃ¡m hraje do karet, Å¾e? PovÄ›zte mi zbytek pÅ™Ã­bÄ›hu.}
+{250}{prs45}{To je jednoduchÃ©. Navarro je samostatnÃ¡ zÃ¡kladna. NaÅ¡e vertibirdy majÃ­ omezenÃ½ dosah doletu. DoplÅˆujÃ­ tam palivo.}
+{251}{}{To dÃ¡vÃ¡ smysl.}
+{252}{prs46a}{Jsem si jist, Å¾e si to myslÃ­te, ale vÅ¡echny testy provedenÃ© na Älenech vaÅ¡eho kmene prokÃ¡zaly, Å¾e jste zmutovanÃ­. Je zatracenÄ› dobÅ™e, Å¾e uÅ¾ je Projekt pÅ™ipraven.}
 {253}{}{Jak to?}
-{254}{prs46b}{U nìkterıch èlenù vašeho kmene byly zaznamenány nìkteré neobyèejnì zajímavé zmìny. Kdyby nebylo nebezpeèí pro skuteèné lidstvo tak veliké, popøemıšlel bych o jejich vızkumu. Ale (Povzdech) není to moné.}
-{255}{}{Není to moné? Proè ne?}
-{256}{prs47}{No, ale to je právì jedna z vıhod virusu F.E.V. Mùeme ho uvolnit tøeba právì tady a vzdušné proudy ho u rozpráší do celého svìta. Bude mít dost èasu na to, aby vymítil kadou dírku a skulinku na celé zemìkouli.}
-{257}{}{Dobøe, ale proè jste unesli mé vesnièany a lidi z Vaultu 13?}
-{258}{prs48}{Potøebovali jsme pokusné jedince. Všichni vaši vesnièané pochází z vaultu a museli jsme se pøesvìdèit, e je F.E.V. toxin stále úèinnı. Jedince z Vaultu 13 testujeme oèkovací protilátkou proti F.E.V.}
-{259}{}{Vy netestujete ty protilátky na mıch lidech?}
-{260}{prs48a}{To není nutné. Jsem si jist, e bychom mohli vesnièany naoèkovat a ono by to fungovalo, ale není k tomu ádnı dùvod.}
-{261}{}{Nemìl jste nìkdy pocit, e to co dìláte, je špatné?}
-{262}{prs49}{Nikdy. Souèástí prezidentovy práce je èinit nelehká rozhodnutí. Mnoho skoro-lidí obìtuje své ivoty pro návrat lidstva. Lidé pøeijí.}
-{263}{}{V ádném pøípadì nedopustím, abyste nìco takového udìlal.}
-{264}{}{Jen proto, e všichni nemají pøesnou kopii vaší DNA, vám nedává právo je vyhladit.}
-{265}{prs50}{Nemùete to zastavit. Pokusy jsou ji hotové a toxin je pøipraven k vypuštìní. Bìhem nìkolika hodin budou vaši vesnièané první, kteøí budou obìtováni. A další mutanti je budou následovat. Vcelku nešastnı zápis do pokraèující historie lidské rasy.}
-{266}{}{Co takhle ten zápis nahradit vaším nekrologem, pane prezidente?}
-{267}{prs51}{Vìøte, to rozhodnutí se mi ani trochu nelíbí. Kdyby byla jiná monost... ale není. ádná cena není pøíliš vysoká pro pøeití lidské rasy. Kdybyste byl èlovìk, cítil byste to stejnì.}
-{268}{}{Vy tomu opravdu vìøíte?}
-{269}{prs53}{Ano, vìøím. Avšak ani má smrt vám nepomùe. Nemùete to vypuštìní zastavit.}
-{270}{}{Tøeba se mi podaøí pøijít na zpùsob, jak vám dát okusit trochu vaší vlastní medicíny.}
-{271}{}{To se ještì uvidí. Mám ještì nìco na práci. Sbohem, prezidente Richardsone.}
-{272}{}{Nesouhlasím, pane prezidente. Myslím, e vaše smrt pomùe. Budu se toti cítit mnohem lépe.}
-{273}{prs54}{Mùete to zkusit, to pøipouštím, ale zanedlouho bude personál Enklávy a Navarra naoèkován.}
-{274}{}{Oni ještì nejsou?}
-{275}{prs55}{Musíme jen rozeslat dodávky. Je to otázka nìkolika hodin. Kromì toho, Enkláva je hermeticky uzavøenı celek. ádnı vzduch nebo zneèišující látka se nedostane dovnitø ani ven.}
-{276}{}{Uvidíme. Mezitím vás osobnì zbavím veškerého vlivu.}
-{277}{prs56}{Moná zjistíte, e je to tìší, ne si myslíte. Paklie to udìláte, bude mi odmìnou vìdomí, e jsem zemøel jako vlastenec a sluebník lidstva.}
-{278}{}{Èas na vaši odmìnu.}
-{279}{}{Nechám vás teï pøemıšlet o vaší blíící se smrti. Neopovaujte se zmáèknout poplach. Sbohem.}
-{280}{prs57}{Velmi dojemné, ale radikální zmìny pozorované na vašich vesnièanech a dalších mutantech ukazují velkou rozdílnost od pozvolné, pøirozené evoluce.}
-{281}{}{Moná, e se mìníme v lepší variantu lidské rasy. Nepøemıšlel jste o tom nìkdy?}
-{282}{prs58}{To je vskutku velice pravdìpodobné. V tom pøípadì je naše mise ještì dùleitìjší. }
-{283}{}{Coe? Co tím chcete øíct?}
-{284}{prs59}{To je ono. Bùh ehnej Americe. Ale radìji se teï vrate zpìt do izolace.}
-{285}{}{Eh, ano, pane. Jak myslíte, pane.}
-{286}{}{Já u si cestu zpìt najdu, pane. Sbohem.}
-{287}{prs60}{No, proti F.E.V. toxinu samozøejmì. Jaká to zatracenì stateèná obì od vás a dalších èlenù Vaultu 13. Jménem vlády Spojenıch státù a celého lidstva vám dìkuji. Nyní bude lepší, kdy vás vrátíme zpìt do vaší cely.}
-{288}{}{F.E.V. toxin? O èem to sakra mluvíte? Co se tady dìje?}
-{289}{}{Eh, ano pane. Jak myslíte, pane.}
-{290}{}{Já u si cestu zpìt najdu, pane. Sbohem.}
-{291}{prs61}{A co jako? Pokud bude váš druh i nadále vzkvétat, bude to znamenat konec lidské rasy jak ji známe. Nemùeme dovolit radioaktivním zrùdám, aby zatlaèily lidstvo do záhuby.}
-{292}{}{Myslím, e trochu pøeháníte.}
-{293}{prs62}{Vùbec ne. Jen se podívejte do budoucnosti. Urèitì by spolu mohli mutanti a lidé po nìjakou dobu vycházet, ale ne se nadìjete, zvítìzí poèetní pøevaha vašeho druhu. Ne, všechno má své meze... tady konèí veškerá zodpovìdnost.}
-{294}{}{Co chcete udìlat s touhle takzvanou hrozbou?}
-{295}{}{Nemám èas poslouchat ty vaše fanatické šílené blouznìní. Sbohem.}
-{296}{prs63}{Vláda Spojenıch státù americkıch se snaí najít øešení u docela dlouhou dobu.}
-{297}{}{Jak to? Co se tady dìje?}
-{298}{prs64}{Mohu vás ujistit, e jsem zcela normální, ostatnì jako kadı, kdo pracuje na Projektu. Jsme oddáni záchranì lidské rasy. Takové jednostranné zasvìcení vám sice mùe pøipadat jako naprosté šílenství, ale i kdyby ano, oznaèil bych jej spíše za boské šílenství.}
-{299}{}{O èem to mluvíte? Co se tady dìje?}
-{300}{}{Co kdy vás teï s jednostrannım zasvìcením zabiju?}
-{301}{}{Jste blázen. Nemám teï na ty vaše šílenosti èas. Sbohem.}
-{302}{prs65}{Nemyslím si, e je tato stará unavená planeta dost velká pro dva primární druhy. Pokud bych mìl volit mezi vámi a námi... no, pak bych zvolil nás.}
-{303}{}{Myslím, e není ve vaší moci uèinit takové rozhodnutí.}
-{304}{prs66}{Jako souèást zákonodárnıch sloek nesu na zádech bøemeno zajišující pøeití a blahobyt Spojenıch státù a lidstva jako takového. Je to sice tìké bøemeno, ale pokud dojde k návratu zemì našim dìtem a jejich dìtem, ponesu jej rád.}
-{305}{}{Jak to chcete udìlat? Co se tady dìje?}
-{306}{}{Rád odstraním vaše bøemeno. Navdy.}
-{307}{}{Musí tam bıt opravdu krásnì v té vaší dimenzi. Uvidíme se pozdìji, pane Cvoku.}
+{254}{prs46b}{U nÄ›kterÃ½ch ÄlenÅ¯ vaÅ¡eho kmene byly zaznamenÃ¡ny nÄ›kterÃ© neobyÄejnÄ› zajÃ­mavÃ© zmÄ›ny. Kdyby nebylo nebezpeÄÃ­ pro skuteÄnÃ© lidstvo tak velikÃ©, popÅ™emÃ½Å¡lel bych o jejich vÃ½zkumu. Ale (Povzdech) nenÃ­ to moÅ¾nÃ©.}
+{255}{}{NenÃ­ to moÅ¾nÃ©? ProÄ ne?}
+{256}{prs47}{No, ale to je prÃ¡vÄ› jedna z vÃ½hod virusu F.E.V. MÅ¯Å¾eme ho uvolnit tÅ™eba prÃ¡vÄ› tady a vzduÅ¡nÃ© proudy ho uÅ¾ rozprÃ¡Å¡Ã­ do celÃ©ho svÄ›ta. Bude mÃ­t dost Äasu na to, aby vymÃ­til kaÅ¾dou dÃ­rku a skulinku na celÃ© zemÄ›kouli.}
+{257}{}{DobÅ™e, ale proÄ jste unesli mÃ© vesniÄany a lidi z Vaultu 13?}
+{258}{prs48}{PotÅ™ebovali jsme pokusnÃ© jedince. VÅ¡ichni vaÅ¡i vesniÄanÃ© pochÃ¡zÃ­ z vaultu a museli jsme se pÅ™esvÄ›dÄit, Å¾e je F.E.V. toxin stÃ¡le ÃºÄinnÃ½. Jedince z Vaultu 13 testujeme oÄkovacÃ­ protilÃ¡tkou proti F.E.V.}
+{259}{}{Vy netestujete ty protilÃ¡tky na mÃ½ch lidech?}
+{260}{prs48a}{To nenÃ­ nutnÃ©. Jsem si jist, Å¾e bychom mohli vesniÄany naoÄkovat a ono by to fungovalo, ale nenÃ­ k tomu Å¾Ã¡dnÃ½ dÅ¯vod.}
+{261}{}{NemÄ›l jste nÄ›kdy pocit, Å¾e to co dÄ›lÃ¡te, je Å¡patnÃ©?}
+{262}{prs49}{Nikdy. SouÄÃ¡stÃ­ prezidentovy prÃ¡ce je Äinit nelehkÃ¡ rozhodnutÃ­. Mnoho skoro-lidÃ­ obÄ›tuje svÃ© Å¾ivoty pro nÃ¡vrat lidstva. LidÃ© pÅ™eÅ¾ijÃ­.}
+{263}{}{V Å¾Ã¡dnÃ©m pÅ™Ã­padÄ› nedopustÃ­m, abyste nÄ›co takovÃ©ho udÄ›lal.}
+{264}{}{Jen proto, Å¾e vÅ¡ichni nemajÃ­ pÅ™esnou kopii vaÅ¡Ã­ DNA, vÃ¡m nedÃ¡vÃ¡ prÃ¡vo je vyhladit.}
+{265}{prs50}{NemÅ¯Å¾ete to zastavit. Pokusy jsou jiÅ¾ hotovÃ© a toxin je pÅ™ipraven k vypuÅ¡tÄ›nÃ­. BÄ›hem nÄ›kolika hodin budou vaÅ¡i vesniÄanÃ© prvnÃ­, kteÅ™Ã­ budou obÄ›tovÃ¡ni. A dalÅ¡Ã­ mutanti je budou nÃ¡sledovat. Vcelku neÅ¡Å¥astnÃ½ zÃ¡pis do pokraÄujÃ­cÃ­ historie lidskÃ© rasy.}
+{266}{}{Co takhle ten zÃ¡pis nahradit vaÅ¡Ã­m nekrologem, pane prezidente?}
+{267}{prs51}{VÄ›Å™te, to rozhodnutÃ­ se mi ani trochu nelÃ­bÃ­. Kdyby byla jinÃ¡ moÅ¾nost... ale nenÃ­. Å½Ã¡dnÃ¡ cena nenÃ­ pÅ™Ã­liÅ¡ vysokÃ¡ pro pÅ™eÅ¾itÃ­ lidskÃ© rasy. Kdybyste byl ÄlovÄ›k, cÃ­til byste to stejnÄ›.}
+{268}{}{Vy tomu opravdu vÄ›Å™Ã­te?}
+{269}{prs53}{Ano, vÄ›Å™Ã­m. AvÅ¡ak ani mÃ¡ smrt vÃ¡m nepomÅ¯Å¾e. NemÅ¯Å¾ete to vypuÅ¡tÄ›nÃ­ zastavit.}
+{270}{}{TÅ™eba se mi podaÅ™Ã­ pÅ™ijÃ­t na zpÅ¯sob, jak vÃ¡m dÃ¡t okusit trochu vaÅ¡Ã­ vlastnÃ­ medicÃ­ny.}
+{271}{}{To se jeÅ¡tÄ› uvidÃ­. MÃ¡m jeÅ¡tÄ› nÄ›co na prÃ¡ci. Sbohem, prezidente Richardsone.}
+{272}{}{NesouhlasÃ­m, pane prezidente. MyslÃ­m, Å¾e vaÅ¡e smrt pomÅ¯Å¾e. Budu se totiÅ¾ cÃ­tit mnohem lÃ©pe.}
+{273}{prs54}{MÅ¯Å¾ete to zkusit, to pÅ™ipouÅ¡tÃ­m, ale zanedlouho bude personÃ¡l EnklÃ¡vy a Navarra naoÄkovÃ¡n.}
+{274}{}{Oni jeÅ¡tÄ› nejsou?}
+{275}{prs55}{MusÃ­me jen rozeslat dodÃ¡vky. Je to otÃ¡zka nÄ›kolika hodin. KromÄ› toho, EnklÃ¡va je hermeticky uzavÅ™enÃ½ celek. Å½Ã¡dnÃ½ vzduch nebo zneÄiÅ¡Å¥ujÃ­cÃ­ lÃ¡tka se nedostane dovnitÅ™ ani ven.}
+{276}{}{UvidÃ­me. MezitÃ­m vÃ¡s osobnÄ› zbavÃ­m veÅ¡kerÃ©ho vlivu.}
+{277}{prs56}{MoÅ¾nÃ¡ zjistÃ­te, Å¾e je to tÄ›Å¾Å¡Ã­, neÅ¾ si myslÃ­te. PakliÅ¾e to udÄ›lÃ¡te, bude mi odmÄ›nou vÄ›domÃ­, Å¾e jsem zemÅ™el jako vlastenec a sluÅ¾ebnÃ­k lidstva.}
+{278}{}{ÄŒas na vaÅ¡i odmÄ›nu.}
+{279}{}{NechÃ¡m vÃ¡s teÄ pÅ™emÃ½Å¡let o vaÅ¡Ã­ blÃ­Å¾Ã­cÃ­ se smrti. NeopovaÅ¾ujte se zmÃ¡Äknout poplach. Sbohem.}
+{280}{prs57}{Velmi dojemnÃ©, ale radikÃ¡lnÃ­ zmÄ›ny pozorovanÃ© na vaÅ¡ich vesniÄanech a dalÅ¡Ã­ch mutantech ukazujÃ­ velkou rozdÃ­lnost od pozvolnÃ©, pÅ™irozenÃ© evoluce.}
+{281}{}{MoÅ¾nÃ¡, Å¾e se mÄ›nÃ­me v lepÅ¡Ã­ variantu lidskÃ© rasy. NepÅ™emÃ½Å¡lel jste o tom nÄ›kdy?}
+{282}{prs58}{To je vskutku velice pravdÄ›podobnÃ©. V tom pÅ™Ã­padÄ› je naÅ¡e mise jeÅ¡tÄ› dÅ¯leÅ¾itÄ›jÅ¡Ã­. }
+{283}{}{CoÅ¾e? Co tÃ­m chcete Å™Ã­ct?}
+{284}{prs59}{To je ono. BÅ¯h Å¾ehnej Americe. Ale radÄ›ji se teÄ vraÅ¥te zpÄ›t do izolace.}
+{285}{}{Eh, ano, pane. Jak myslÃ­te, pane.}
+{286}{}{JÃ¡ uÅ¾ si cestu zpÄ›t najdu, pane. Sbohem.}
+{287}{prs60}{No, proti F.E.V. toxinu samozÅ™ejmÄ›. JakÃ¡ to zatracenÄ› stateÄnÃ¡ obÄ›Å¥ od vÃ¡s a dalÅ¡Ã­ch ÄlenÅ¯ Vaultu 13. JmÃ©nem vlÃ¡dy SpojenÃ½ch stÃ¡tÅ¯ a celÃ©ho lidstva vÃ¡m dÄ›kuji. NynÃ­ bude lepÅ¡Ã­, kdyÅ¾ vÃ¡s vrÃ¡tÃ­me zpÄ›t do vaÅ¡Ã­ cely.}
+{288}{}{F.E.V. toxin? O Äem to sakra mluvÃ­te? Co se tady dÄ›je?}
+{289}{}{Eh, ano pane. Jak myslÃ­te, pane.}
+{290}{}{JÃ¡ uÅ¾ si cestu zpÄ›t najdu, pane. Sbohem.}
+{291}{prs61}{A co jako? Pokud bude vÃ¡Å¡ druh i nadÃ¡le vzkvÃ©tat, bude to znamenat konec lidskÃ© rasy jak ji znÃ¡me. NemÅ¯Å¾eme dovolit radioaktivnÃ­m zrÅ¯dÃ¡m, aby zatlaÄily lidstvo do zÃ¡huby.}
+{292}{}{MyslÃ­m, Å¾e trochu pÅ™ehÃ¡nÃ­te.}
+{293}{prs62}{VÅ¯bec ne. Jen se podÃ­vejte do budoucnosti. UrÄitÄ› by spolu mohli mutanti a lidÃ© po nÄ›jakou dobu vychÃ¡zet, ale neÅ¾ se nadÄ›jete, zvÃ­tÄ›zÃ­ poÄetnÃ­ pÅ™evaha vaÅ¡eho druhu. Ne, vÅ¡echno mÃ¡ svÃ© meze... tady konÄÃ­ veÅ¡kerÃ¡ zodpovÄ›dnost.}
+{294}{}{Co chcete udÄ›lat s touhle takzvanou hrozbou?}
+{295}{}{NemÃ¡m Äas poslouchat ty vaÅ¡e fanatickÃ© Å¡Ã­lenÃ© blouznÄ›nÃ­. Sbohem.}
+{296}{prs63}{VlÃ¡da SpojenÃ½ch stÃ¡tÅ¯ americkÃ½ch se snaÅ¾Ã­ najÃ­t Å™eÅ¡enÃ­ uÅ¾ docela dlouhou dobu.}
+{297}{}{Jak to? Co se tady dÄ›je?}
+{298}{prs64}{Mohu vÃ¡s ujistit, Å¾e jsem zcela normÃ¡lnÃ­, ostatnÄ› jako kaÅ¾dÃ½, kdo pracuje na Projektu. Jsme oddÃ¡ni zÃ¡chranÄ› lidskÃ© rasy. TakovÃ© jednostrannÃ© zasvÄ›cenÃ­ vÃ¡m sice mÅ¯Å¾e pÅ™ipadat jako naprostÃ© Å¡Ã­lenstvÃ­, ale i kdyby ano, oznaÄil bych jej spÃ­Å¡e za boÅ¾skÃ© Å¡Ã­lenstvÃ­.}
+{299}{}{O Äem to mluvÃ­te? Co se tady dÄ›je?}
+{300}{}{CoÅ¾ kdyÅ¾ vÃ¡s teÄ s jednostrannÃ½m zasvÄ›cenÃ­m zabiju?}
+{301}{}{Jste blÃ¡zen. NemÃ¡m teÄ na ty vaÅ¡e Å¡Ã­lenosti Äas. Sbohem.}
+{302}{prs65}{NemyslÃ­m si, Å¾e je tato starÃ¡ unavenÃ¡ planeta dost velkÃ¡ pro dva primÃ¡rnÃ­ druhy. Pokud bych mÄ›l volit mezi vÃ¡mi a nÃ¡mi... no, pak bych zvolil nÃ¡s.}
+{303}{}{MyslÃ­m, Å¾e nenÃ­ ve vaÅ¡Ã­ moci uÄinit takovÃ© rozhodnutÃ­.}
+{304}{prs66}{Jako souÄÃ¡st zÃ¡konodÃ¡rnÃ½ch sloÅ¾ek nesu na zÃ¡dech bÅ™emeno zajiÅ¡Å¥ujÃ­cÃ­ pÅ™eÅ¾itÃ­ a blahobyt SpojenÃ½ch stÃ¡tÅ¯ a lidstva jako takovÃ©ho. Je to sice tÄ›Å¾kÃ© bÅ™emeno, ale pokud dojde k nÃ¡vratu zemÄ› naÅ¡im dÄ›tem a jejich dÄ›tem, ponesu jej rÃ¡d.}
+{305}{}{Jak to chcete udÄ›lat? Co se tady dÄ›je?}
+{306}{}{RÃ¡d odstranÃ­m vaÅ¡e bÅ™emeno. NavÅ¾dy.}
+{307}{}{MusÃ­ tam bÃ½t opravdu krÃ¡snÄ› v tÃ© vaÅ¡Ã­ dimenzi. UvidÃ­me se pozdÄ›ji, pane Cvoku.}
 {308}{}{Na sever}
-{309}{}{Na severozápad}
-{310}{}{Na západ}
-{311}{}{Na jihozápad}
+{309}{}{Na severozÃ¡pad}
+{310}{}{Na zÃ¡pad}
+{311}{}{Na jihozÃ¡pad}
 {312}{}{Na jih}
-{313}{}{Na jihovıchod}
-{314}{}{Na vıchod odsud}
-{315}{}{Na severovıchod}
+{313}{}{Na jihovÃ½chod}
+{314}{}{Na vÃ½chod odsud}
+{315}{}{Na severovÃ½chod}
 {316}{}{Ano.}
 {317}{}{Ne.}
 {318}{}{Au}
-{319}{}{(Køièí bolestí)}
-{320}{}{Proè se mnou mluvíte takovım zpùsobem?}
-{321}{}{O tom nic nevím.}
-{322}{}{Nejste pøíliš milı.}
-{323}{}{Dìkuji.}
-{324}{}{To je dobrı.}
-{325}{}{To není dobrı.}
-{326}{}{Mám z toho dobrı pocit.}
-{327}{}{Mám z toho špatnı pocit.}
-{328}{}{Vy jste blázni.}
-{329}{}{O èem to mluvíš?}
-{330}{}{To jsou tu všichni šílení?}
-{331}{}{Musí bıt i jinı zpùsob.}
-{332}{}{Pojï sem.}
-{333}{}{Nerozumím.}
-{334}{}{Nevím.}
-{335}{}{To bolí.}
-{336}{}{To fakt bolí.}
-{337}{}{To musí bolet.}
-{338}{}{Jsem zpátky, pane prezidente.}
+{319}{}{(KÅ™iÄÃ­ bolestÃ­)}
+{320}{}{ProÄ se mnou mluvÃ­te takovÃ½m zpÅ¯sobem?}
+{321}{}{O tom nic nevÃ­m.}
+{322}{}{Nejste pÅ™Ã­liÅ¡ milÃ½.}
+{323}{}{DÄ›kuji.}
+{324}{}{To je dobrÃ½.}
+{325}{}{To nenÃ­ dobrÃ½.}
+{326}{}{MÃ¡m z toho dobrÃ½ pocit.}
+{327}{}{MÃ¡m z toho Å¡patnÃ½ pocit.}
+{328}{}{Vy jste blÃ¡zni.}
+{329}{}{O Äem to mluvÃ­Å¡?}
+{330}{}{To jsou tu vÅ¡ichni Å¡Ã­lenÃ­?}
+{331}{}{MusÃ­ bÃ½t i jinÃ½ zpÅ¯sob.}
+{332}{}{PojÄ sem.}
+{333}{}{NerozumÃ­m.}
+{334}{}{NevÃ­m.}
+{335}{}{To bolÃ­.}
+{336}{}{To fakt bolÃ­.}
+{337}{}{To musÃ­ bolet.}
+{338}{}{Jsem zpÃ¡tky, pane prezidente.}

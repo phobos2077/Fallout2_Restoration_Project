@@ -1,38 +1,38 @@
-{100}{}{Vidíš aktivní poèítaèovı terminál.}
-{101}{}{Pøi bliším prozkoumání terminálu si všimneš loga "I*tel Inside".}
-{102}{}{Nedokáeš pøeèíst text na obrazovce.}
-{103}{}{Hlavní zdroj = Offline                                           Záloní zdroj = Online                                          Znovuzavedení bezpeènostního programu                  Upozornìní! - Nedostatek energie - Silová pole na 50%       Konec nahrávání...                                                     Skynet - Bezpeènostní kontrola 1                                 Prosím zadejte heslo:_}
-{104}{}{Skynet - Bezpeènostní kontrola 1                             Prosím zadejte heslo:_}
+{100}{}{VidÃ­Å¡ aktivnÃ­ poÄÃ­taÄovÃ½ terminÃ¡l.}
+{101}{}{PÅ™i bliÅ¾Å¡Ã­m prozkoumÃ¡nÃ­ terminÃ¡lu si vÅ¡imneÅ¡ loga "I*tel Inside".}
+{102}{}{NedokÃ¡Å¾eÅ¡ pÅ™eÄÃ­st text na obrazovce.}
+{103}{}{HlavnÃ­ zdroj = Offline                                           ZÃ¡loÅ¾nÃ­ zdroj = Online                                          ZnovuzavedenÃ­ bezpeÄnostnÃ­ho programu                  UpozornÄ›nÃ­! - Nedostatek energie - SilovÃ¡ pole na 50%       Konec nahrÃ¡vÃ¡nÃ­...                                                     Skynet - BezpeÄnostnÃ­ kontrola 1                                 ProsÃ­m zadejte heslo:_}
+{104}{}{Skynet - BezpeÄnostnÃ­ kontrola 1                             ProsÃ­m zadejte heslo:_}
 {105}{}{Tchaikovsky.}
-{106}{}{Sezame, otevøi se!}
+{106}{}{Sezame, otevÅ™i se!}
 {107}{}{Sierra.}
 {108}{}{Armageddon.}
-{109}{}{Hacknout se do systému.}
-{110}{}{Nemáš tušení. Konec.}
-{113}{}{Silová pole deaktivována - Patro 1.}
+{109}{}{Hacknout se do systÃ©mu.}
+{110}{}{NemÃ¡Å¡ tuÅ¡enÃ­. Konec.}
+{113}{}{SilovÃ¡ pole deaktivovÃ¡na - Patro 1.}
 {115}{}{Konec.}
-{117}{}{Pøístup k tomuto terminálu byl ukonèen.}
+{117}{}{PÅ™Ã­stup k tomuto terminÃ¡lu byl ukonÄen.}
 {119}{}{Konec.}
-{121}{}{Chyba 29                                                            Nebylo moné navázat spojení se serverem                 Prosím restartujte}
+{121}{}{Chyba 29                                                            Nebylo moÅ¾nÃ© navÃ¡zat spojenÃ­ se serverem                 ProsÃ­m restartujte}
 {123}{}{Konec.}
-{124}{}{Pøístup povolen                                                 Silová pole Patro 1: deaktivována}
+{124}{}{PÅ™Ã­stup povolen                                                 SilovÃ¡ pole Patro 1: deaktivovÃ¡na}
 {125}{}{Konec.}
-{126}{}{Nesprávné heslo                                                       Pøístup zamítnut                                                     Prosím zadejte heslo:_}
+{126}{}{NesprÃ¡vnÃ© heslo                                                       PÅ™Ã­stup zamÃ­tnut                                                     ProsÃ­m zadejte heslo:_}
 {127}{}{Tchaikovsky.}
-{128}{}{Sezame, otevøi se!}
+{128}{}{Sezame, otevÅ™i se!}
 {129}{}{Sierra.}
 {130}{}{Armageddon.}
-{131}{}{Hacknout se do systému.}
-{132}{}{Nemáš tušení. Konec.}
-{133}{}{(Po zmáèknutí Ctrl-Alt-C program zhavaroval. Doufáš, e i zbytek bezpeènostních systémù pùjde tak snadno obelstít.)}
+{131}{}{Hacknout se do systÃ©mu.}
+{132}{}{NemÃ¡Å¡ tuÅ¡enÃ­. Konec.}
+{133}{}{(Po zmÃ¡ÄknutÃ­ Ctrl-Alt-C program zhavaroval. DoufÃ¡Å¡, Å¾e i zbytek bezpeÄnostnÃ­ch systÃ©mÅ¯ pÅ¯jde tak snadno obelstÃ­t.)}
 {134}{}{Konec.}
-{135}{}{Hacknutí systému - Patro 1                                  Aktivování bezpeènostního protokolu                             Pøístup k tomuto terminálu byl ukonèen                     Konec pøenosu}
+{135}{}{HacknutÃ­ systÃ©mu - Patro 1                                  AktivovÃ¡nÃ­ bezpeÄnostnÃ­ho protokolu                             PÅ™Ã­stup k tomuto terminÃ¡lu byl ukonÄen                     Konec pÅ™enosu}
 {136}{}{Konec.}
-{137}{}{Nemá to cenu, tento program je na tebe pøíliš sloitı.}
-{138}{}{Tvoje nezkušenost zpùsobila spuštìní poplašného systému.}
+{137}{}{NemÃ¡ to cenu, tento program je na tebe pÅ™Ã­liÅ¡ sloÅ¾itÃ½.}
+{138}{}{Tvoje nezkuÅ¡enost zpÅ¯sobila spuÅ¡tÄ›nÃ­ poplaÅ¡nÃ©ho systÃ©mu.}
 {139}{}{Konec.}
-{200}{}{ nedokáe pøeèíst text na obrazovce.}
-{300}{}{Vypadá to, e je v poèítaèi nìjakı obrannı mechanismus.}
-{301}{}{Dostáváš ránu a ztrácíš }
-{302}{}{ dostává ránu a ztrácí }
-{303}{}{ hit bodù.}
+{200}{}{ nedokÃ¡Å¾e pÅ™eÄÃ­st text na obrazovce.}
+{300}{}{VypadÃ¡ to, Å¾e je v poÄÃ­taÄi nÄ›jakÃ½ obrannÃ½ mechanismus.}
+{301}{}{DostÃ¡vÃ¡Å¡ rÃ¡nu a ztrÃ¡cÃ­Å¡ }
+{302}{}{ dostÃ¡vÃ¡ rÃ¡nu a ztrÃ¡cÃ­ }
+{303}{}{ hit bodÅ¯.}

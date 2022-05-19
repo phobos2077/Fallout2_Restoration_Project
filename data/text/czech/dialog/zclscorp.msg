@@ -1,2 +1,2 @@
-{100}{}{VidÌö radökorpiona.}
-{500}{}{Vöichni radökorpioni jsou uû mrtvÌ.}
+{100}{}{Vid√≠≈° rad≈°korpiona.}
+{500}{}{V≈°ichni rad≈°korpioni jsou u≈æ mrtv√≠.}

@@ -1,14 +1,14 @@
-{100}{}{Tohle mìsto vypadá dost bídnì. Je to jedno z tìch míst, kde je lepší vlastnit zbraò.}
-{200}{}{Díky tvé pomoci Laøin gang zvítìzil.}
-{300}{}{Podaøilo se ti ze zálohy pøepadnout Laøin gang.}
-{400}{}{Podaøilo se ti objevit Beckyin destilátor. Frankieho to bude jistì zajímat.}
-{500}{}{Beckyin destilátor byl znièen.}
-{600}{}{Podaøilo se ti pøemluvit Frankieho, aby zaèal pití kupovat od Becky.}
-{700}{}{Máš za sebou svùj první 'hon na otroky'.}
-{800}{}{Fredùv dluh Rebece byl splacen.}
-{900}{}{Rebeèina kniha byla vrácena.}
-{1000}{}{Anna získala zpìt svùj pøívìsek.}
-{1100}{}{Podaøilo se ti prokecat si cestu dovnitø kostela.}
-{1200}{}{Smitty dostal svoje jídlo.}
-{1300}{}{Podaøilo se ti najít slabinu v Tylerovì gangu.}
-{1400}{}{Metzger souhlasil s útokem Laøina gangu na Tylera.}
+{100}{}{Tohle mÄ›sto vypadÃ¡ dost bÃ­dnÄ›. Je to jedno z tÄ›ch mÃ­st, kde je lepÅ¡Ã­ vlastnit zbraÅˆ.}
+{200}{}{DÃ­ky tvÃ© pomoci LaÅ™in gang zvÃ­tÄ›zil.}
+{300}{}{PodaÅ™ilo se ti ze zÃ¡lohy pÅ™epadnout LaÅ™in gang.}
+{400}{}{PodaÅ™ilo se ti objevit Beckyin destilÃ¡tor. Frankieho to bude jistÄ› zajÃ­mat.}
+{500}{}{Beckyin destilÃ¡tor byl zniÄen.}
+{600}{}{PodaÅ™ilo se ti pÅ™emluvit Frankieho, aby zaÄal pitÃ­ kupovat od Becky.}
+{700}{}{MÃ¡Å¡ za sebou svÅ¯j prvnÃ­ 'hon na otroky'.}
+{800}{}{FredÅ¯v dluh Rebece byl splacen.}
+{900}{}{RebeÄina kniha byla vrÃ¡cena.}
+{1000}{}{Anna zÃ­skala zpÄ›t svÅ¯j pÅ™Ã­vÄ›sek.}
+{1100}{}{PodaÅ™ilo se ti prokecat si cestu dovnitÅ™ kostela.}
+{1200}{}{Smitty dostal svoje jÃ­dlo.}
+{1300}{}{PodaÅ™ilo se ti najÃ­t slabinu v TylerovÄ› gangu.}
+{1400}{}{Metzger souhlasil s Ãºtokem LaÅ™ina gangu na Tylera.}

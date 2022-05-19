@@ -1,72 +1,72 @@
-{100}{}{Vidíš pohledného mladého mue.}
-{101}{}{Vidíš Davina.}
-{102}{}{Vidíš mladého mue, kterému je kolem dvaceti let. Je podobnı Grishamovi.}
-{150}{}{Jestli chceš, mùeš mì mít.}
-{151}{}{Uff! Miria není v posteli tak dobrá.}
-{152}{}{Nevìøím, e jsi mì zneuil.}
-{153}{}{Pøíštì to zkusíme ve tøech.}
+{100}{}{VidÃ­Å¡ pohlednÃ©ho mladÃ©ho muÅ¾e.}
+{101}{}{VidÃ­Å¡ Davina.}
+{102}{}{VidÃ­Å¡ mladÃ©ho muÅ¾e, kterÃ©mu je kolem dvaceti let. Je podobnÃ½ Grishamovi.}
+{150}{}{Jestli chceÅ¡, mÅ¯Å¾eÅ¡ mÄ› mÃ­t.}
+{151}{}{Uff! Miria nenÃ­ v posteli tak dobrÃ¡.}
+{152}{}{NevÄ›Å™Ã­m, Å¾e jsi mÄ› zneuÅ¾il.}
+{153}{}{PÅ™Ã­Å¡tÄ› to zkusÃ­me ve tÅ™ech.}
 {154}{}{Ooo... ten je roztomilej.}
-{155}{}{Zeptej se jí.}
-{156}{}{To bylo skvìlé. Kdo je další?}
-{157}{}{Ahoj! Jmenuju se Davin. Pomáhám svému otci na jatkách v Modocu.}
-{158}{}{Hledám Corneliovy zlaté hodinky. Nevidìl jsi je nìkde?}
-{159}{}{Co na jatkách pøesnì dìláš?}
-{160}{}{Kolují tady nìjaké povídaèky o tom, co dìláš s brahmínami.}
-{161}{}{Povìz mi o svém otci.}
-{162}{}{Zdravím.}
-{163}{}{Vìdìl jsem, e se ke mnì vrátíš.}
-{168}{}{Neudìláme si trochu pohodlí?}
-{171}{}{Zùstaò tady.}
-{172}{}{Jistì, mám èas. Ptej se.}
-{178}{}{Ne, nikde jsem je nevidìl.}
-{179}{}{Mùu se ještì na nìco zeptat?}
-{180}{}{No, já eh... vlastnì, já... jen dohlíím na vìci. Koneckoncù jsem syn majitele. Všechno to tady zdìdím, a mùj otec zaklepe baèkorama.}
-{182}{}{To je le. V noci chodím do stájí, abych... se pøesvìdèil, e je všechno zamèené. To víš, všude je plno divoké zvìøe.}
-{184}{}{Otec provozuje jatka. Jako otec je celkem dobrı. Ale dám ti jednu radu, jestli s ním chceš dìlat nìjakı obchod. Vìtšinou je v tom nìco víc, ne se na první pohled zdá.}
-{186}{}{Pøijï za mnou, a si budeš chtít zase... popovídat.}
-{187}{}{Páni, nikdy bych nevìøil, e mì bude svádìt taková krasavice, jako jsi ty. Poèkat! Ty nejsi enská! Ale neboj, jsi tak krásnı, e o tom budu mlèet kdy ty taky.}
-{188}{}{To se mi snad jen zdá. Nemùu uvìøit, e mì svádí taková krasavice. Chceš mì svést, e jo?}
-{189}{}{Pohled tvıch oèí je tak andìlskı. Nekame kouzlo tohoto okamiku slovy. Nechme mluvit naše èiny.}
-{190}{}{Pøestaò mluvit, pokazíš to. Jen seï a uij si to.}
-{191}{}{Asi došlo k omylu, chci se jen na nìco zeptat.}
-{192}{}{Díky za nabídku, ale radìji ne. Ehm... u musím jít.}
+{155}{}{Zeptej se jÃ­.}
+{156}{}{To bylo skvÄ›lÃ©. Kdo je dalÅ¡Ã­?}
+{157}{}{Ahoj! Jmenuju se Davin. PomÃ¡hÃ¡m svÃ©mu otci na jatkÃ¡ch v Modocu.}
+{158}{}{HledÃ¡m Corneliovy zlatÃ© hodinky. NevidÄ›l jsi je nÄ›kde?}
+{159}{}{Co na jatkÃ¡ch pÅ™esnÄ› dÄ›lÃ¡Å¡?}
+{160}{}{KolujÃ­ tady nÄ›jakÃ© povÃ­daÄky o tom, co dÄ›lÃ¡Å¡ s brahmÃ­nami.}
+{161}{}{PovÄ›z mi o svÃ©m otci.}
+{162}{}{ZdravÃ­m.}
+{163}{}{VÄ›dÄ›l jsem, Å¾e se ke mnÄ› vrÃ¡tÃ­Å¡.}
+{168}{}{NeudÄ›lÃ¡me si trochu pohodlÃ­?}
+{171}{}{ZÅ¯staÅˆ tady.}
+{172}{}{JistÄ›, mÃ¡m Äas. Ptej se.}
+{178}{}{Ne, nikde jsem je nevidÄ›l.}
+{179}{}{MÅ¯Å¾u se jeÅ¡tÄ› na nÄ›co zeptat?}
+{180}{}{No, jÃ¡ eh... vlastnÄ›, jÃ¡... jen dohlÃ­Å¾Ã­m na vÄ›ci. KoneckoncÅ¯ jsem syn majitele. VÅ¡echno to tady zdÄ›dÃ­m, aÅ¾ mÅ¯j otec zaklepe baÄkorama.}
+{182}{}{To je leÅ¾. V noci chodÃ­m do stÃ¡jÃ­, abych... se pÅ™esvÄ›dÄil, Å¾e je vÅ¡echno zamÄenÃ©. To vÃ­Å¡, vÅ¡ude je plno divokÃ© zvÄ›Å™e.}
+{184}{}{Otec provozuje jatka. Jako otec je celkem dobrÃ½. Ale dÃ¡m ti jednu radu, jestli s nÃ­m chceÅ¡ dÄ›lat nÄ›jakÃ½ obchod. VÄ›tÅ¡inou je v tom nÄ›co vÃ­c, neÅ¾ se na prvnÃ­ pohled zdÃ¡.}
+{186}{}{PÅ™ijÄ za mnou, aÅ¾ si budeÅ¡ chtÃ­t zase... popovÃ­dat.}
+{187}{}{PÃ¡ni, nikdy bych nevÄ›Å™il, Å¾e mÄ› bude svÃ¡dÄ›t takovÃ¡ krasavice, jako jsi ty. PoÄkat! Ty nejsi Å¾enskÃ¡! Ale neboj, jsi tak krÃ¡snÃ½, Å¾e o tom budu mlÄet kdyÅ¾ ty taky.}
+{188}{}{To se mi snad jen zdÃ¡. NemÅ¯Å¾u uvÄ›Å™it, Å¾e mÄ› svÃ¡dÃ­ takovÃ¡ krasavice. ChceÅ¡ mÄ› svÃ©st, Å¾e jo?}
+{189}{}{Pohled tvÃ½ch oÄÃ­ je tak andÄ›lskÃ½. NekaÅ¾me kouzlo tohoto okamÅ¾iku slovy. Nechme mluvit naÅ¡e Äiny.}
+{190}{}{PÅ™estaÅˆ mluvit, pokazÃ­Å¡ to. Jen seÄ a uÅ¾ij si to.}
+{191}{}{Asi doÅ¡lo k omylu, chci se jen na nÄ›co zeptat.}
+{192}{}{DÃ­ky za nabÃ­dku, ale radÄ›ji ne. Ehm... uÅ¾ musÃ­m jÃ­t.}
 {193}{}{Oh god! Take me! Take me now! [He rips off his clothes, then your clothes... then... Use your
  imagination.]}
-{194}{}{(Hihòá se.) "Jsem hotovej"! Ty mùeš bıt pøíštì.}
-{195}{}{(O dvì hodiny pozdìji: Zem se pohnula a tahle postel u nebude nikdy jako døív.)}
-{196}{}{(O hodinu pozdìji a nejlepším orgasmu tvého ivota.)}
-{197}{}{(O pùl hodiny pozdìji: Vyèerpáním nemùeš pohnout ani prstem na noze.)}
-{198}{}{(Za patnáct minut a pár vzdychù pozdìji.)}
-{199}{}{(Dostala ses a k sundávání trika a pak sis uvìdomila, e u to vlastnì nechceš.)}
-{200}{}{Musím jít. Nashle.}
-{400}{}{Otèe!}
+{194}{}{(HihÅˆÃ¡ se.) "Jsem hotovej"! Ty mÅ¯Å¾eÅ¡ bÃ½t pÅ™Ã­Å¡tÄ›.}
+{195}{}{(O dvÄ› hodiny pozdÄ›ji: Zem se pohnula a tahle postel uÅ¾ nebude nikdy jako dÅ™Ã­v.)}
+{196}{}{(O hodinu pozdÄ›ji a nejlepÅ¡Ã­m orgasmu tvÃ©ho Å¾ivota.)}
+{197}{}{(O pÅ¯l hodiny pozdÄ›ji: VyÄerpÃ¡nÃ­m nemÅ¯Å¾eÅ¡ pohnout ani prstem na noze.)}
+{198}{}{(Za patnÃ¡ct minut a pÃ¡r vzdychÅ¯ pozdÄ›ji.)}
+{199}{}{(Dostala ses aÅ¾ k sundÃ¡vÃ¡nÃ­ trika a pak sis uvÄ›domila, Å¾e uÅ¾ to vlastnÄ› nechceÅ¡.)}
+{200}{}{MusÃ­m jÃ­t. Nashle.}
+{400}{}{OtÄe!}
 {401}{}{A sakra!}
 {402}{}{ANO!}
-{405}{}{Strıèku Biffe!}
+{405}{}{StrÃ½Äku Biffe!}
 {410}{}{Eh...}
-{411}{}{Eh... pokraèujte prosím...}
-{412}{}{Tak urèitì...}
+{411}{}{Eh... pokraÄujte prosÃ­m...}
+{412}{}{Tak urÄitÄ›...}
 {413}{}{Eh... ano.}
-{450}{}{Eh, se mnou bys teï nemìl mluvit.}
-{500}{}{Ajéje, budu to tu mít na starost.}
+{450}{}{Eh, se mnou bys teÄ nemÄ›l mluvit.}
+{500}{}{AjÃ©je, budu to tu mÃ­t na starost.}
 {1000}{}{Ano, zlato moje?}
-{1001}{}{Co pro tebe mùu udìlat, miláèku?}
-{1005}{}{Ty to nechápeš. Prostì nechci, aby ses na mì tak lepil, kdy nìkam jdeme.}
-{1006}{}{Tvojí chybou je, e chci, abys mi nedıchal na záda.}
-{1007}{}{Ale... ale... co dìlám špatnì?}
-{1008}{}{Copak potøebuješ, drahoušku?}
-{1009}{}{Díky, stejnì to zaèalo bejt na prd. A co teï, lásko??}
-{1010}{}{Na jatkách jsem stahoval kùi z brahmín, take to s noi docela umím. Táta mì taky jednou nechal umlátit brahmínu páèidlem, take kdy bude potøeba, mùu pouít kyj. Ehh, jo a jednou mì táta nechal vystøelit z pistole, ale docela mì to vydìsilo a málem jsem ho omylem zastøelil.}
-{1020}{}{Potøebuju trochu víc místa, Davine.}
-{1100}{}{U jsem úplnì vyléèená a pøipravená vyrazit.}
-{1200}{}{U mám jen pár škrábancù.}
-{1300}{}{No, jsem témìø zdravı, ale budu potøebovat další léky, a bude pøíleitost.}
-{1400}{}{Vyléèila jsem se, jak jen to šlo, ale poøád jsem dost zranìná.}
-{1500}{}{Ne, brouku. Chci jít s tebou.}
-{1600}{}{Jistì, dám to pryè.}
-{1700}{}{Dobøe, jsem poøád hned za tebou.}
-{1800}{}{Pak tì ale nebudu moct chránit. Ne, radši budu poblí.}
-{1900}{}{Takhle? V ádném pøípadì. Nespustím tì z oèí, ty mùj kvítku medovı.}
-{2000}{}{Jauvajs, asi jsem si nìco zlomil. Mùeš mi to pofoukat?}
-{2001}{}{Fuj, cítím se, jako kdybych hoøel. Asi jsem ozáøenı.}
-{2002}{}{Fuj, je mi špatnì. Asi jsem otrávenı.}
+{1001}{}{Co pro tebe mÅ¯Å¾u udÄ›lat, milÃ¡Äku?}
+{1005}{}{Ty to nechÃ¡peÅ¡. ProstÄ› nechci, aby ses na mÄ› tak lepil, kdyÅ¾ nÄ›kam jdeme.}
+{1006}{}{TvojÃ­ chybou je, Å¾e chci, abys mi nedÃ½chal na zÃ¡da.}
+{1007}{}{Ale... ale... co dÄ›lÃ¡m Å¡patnÄ›?}
+{1008}{}{Copak potÅ™ebujeÅ¡, drahouÅ¡ku?}
+{1009}{}{DÃ­ky, stejnÄ› to zaÄalo bejt na prd. A co teÄ, lÃ¡sko??}
+{1010}{}{Na jatkÃ¡ch jsem stahoval kÅ¯Å¾i z brahmÃ­n, takÅ¾e to s noÅ¾i docela umÃ­m. TÃ¡ta mÄ› taky jednou nechal umlÃ¡tit brahmÃ­nu pÃ¡Äidlem, takÅ¾e kdyÅ¾ bude potÅ™eba, mÅ¯Å¾u pouÅ¾Ã­t kyj. Ehh, jo a jednou mÄ› tÃ¡ta nechal vystÅ™elit z pistole, ale docela mÄ› to vydÄ›silo a mÃ¡lem jsem ho omylem zastÅ™elil.}
+{1020}{}{PotÅ™ebuju trochu vÃ­c mÃ­sta, Davine.}
+{1100}{}{UÅ¾ jsem ÃºplnÄ› vylÃ©ÄenÃ¡ a pÅ™ipravenÃ¡ vyrazit.}
+{1200}{}{UÅ¾ mÃ¡m jen pÃ¡r Å¡krÃ¡bancÅ¯.}
+{1300}{}{No, jsem tÃ©mÄ›Å™ zdravÃ½, ale budu potÅ™ebovat dalÅ¡Ã­ lÃ©ky, aÅ¾ bude pÅ™Ã­leÅ¾itost.}
+{1400}{}{VylÃ©Äila jsem se, jak jen to Å¡lo, ale poÅ™Ã¡d jsem dost zranÄ›nÃ¡.}
+{1500}{}{Ne, brouku. Chci jÃ­t s tebou.}
+{1600}{}{JistÄ›, dÃ¡m to pryÄ.}
+{1700}{}{DobÅ™e, jsem poÅ™Ã¡d hned za tebou.}
+{1800}{}{Pak tÄ› ale nebudu moct chrÃ¡nit. Ne, radÅ¡i budu poblÃ­Å¾.}
+{1900}{}{Takhle? V Å¾Ã¡dnÃ©m pÅ™Ã­padÄ›. NespustÃ­m tÄ› z oÄÃ­, ty mÅ¯j kvÃ­tku medovÃ½.}
+{2000}{}{Jauvajs, asi jsem si nÄ›co zlomil. MÅ¯Å¾eÅ¡ mi to pofoukat?}
+{2001}{}{Fuj, cÃ­tÃ­m se, jako kdybych hoÅ™el. Asi jsem ozÃ¡Å™enÃ½.}
+{2002}{}{Fuj, je mi Å¡patnÄ›. Asi jsem otrÃ¡venÃ½.}

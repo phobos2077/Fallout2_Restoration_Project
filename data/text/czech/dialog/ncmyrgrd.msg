@@ -1,108 +1,108 @@
-{100}{}{Vidíš strá.}
-{150}{}{Vidíš znudìnou strá. Vypadá to, e by byl radìji nìkde úplnì jinde.}
-{151}{}{Vidíš jednoho z Myronovıch znudìnıch strácù.}
-{152}{}{Vidíš jednoho z Myronovıch znudìnıch strácù. Vypadá to, e by byl radìji nìkde úplnì jinde.}
-{200}{}{Ještì jednou šáhni na moje vìci a zabiju tì.}
-{205}{}{Bì dovnitø. Všechno je v poøádku.}
-{206}{}{Mùeš jít dovnitø.}
-{210}{}{Šáhni na ty dveøe ještì jednou a budeš mít místo ruky pahejl.}
+{100}{}{VidÃ­Å¡ strÃ¡Å¾.}
+{150}{}{VidÃ­Å¡ znudÄ›nou strÃ¡Å¾. VypadÃ¡ to, Å¾e by byl radÄ›ji nÄ›kde ÃºplnÄ› jinde.}
+{151}{}{VidÃ­Å¡ jednoho z MyronovÃ½ch znudÄ›nÃ½ch strÃ¡Å¾cÅ¯.}
+{152}{}{VidÃ­Å¡ jednoho z MyronovÃ½ch znudÄ›nÃ½ch strÃ¡Å¾cÅ¯. VypadÃ¡ to, Å¾e by byl radÄ›ji nÄ›kde ÃºplnÄ› jinde.}
+{200}{}{JeÅ¡tÄ› jednou Å¡Ã¡hni na moje vÄ›ci a zabiju tÄ›.}
+{205}{}{BÄ›Å¾ dovnitÅ™. VÅ¡echno je v poÅ™Ã¡dku.}
+{206}{}{MÅ¯Å¾eÅ¡ jÃ­t dovnitÅ™.}
+{210}{}{Å Ã¡hni na ty dveÅ™e jeÅ¡tÄ› jednou a budeÅ¡ mÃ­t mÃ­sto ruky pahejl.}
 {211}{}{Vypadni odtamtud.}
-{215}{}{Nazdar, Myrone. Jdeš na procházku?}
-{216}{}{Dávej na sebe bacha, Myrone.}
-{217}{}{Dej si bacha, a se nedostaneš do nìjakıho maléru, Myrone, rozumíš?}
-{218}{}{Nechoï moc daleko, Myrone.}
+{215}{}{Nazdar, Myrone. JdeÅ¡ na prochÃ¡zku?}
+{216}{}{DÃ¡vej na sebe bacha, Myrone.}
+{217}{}{Dej si bacha, aÅ¥ se nedostaneÅ¡ do nÄ›jakÃ½ho malÃ©ru, Myrone, rozumÃ­Å¡?}
+{218}{}{NechoÄ moc daleko, Myrone.}
 {225}{}{Nazdar, }
-{230}{}{To je èlen rodiny }
-{235}{}{Máš fakt cojones sem pøijít. Radši zmiz.}
-{236}{}{Vypadáš jako }
-{240}{}{Co kdyby ses radši vrátila k tı svı podìlanı rodinì }
-{241}{}{Vypadáš jako }
-{245}{}{Schovej tu zbraò... nebo budeš mít VELKEJ problém.}
-{250}{}{Vetøelec!}
-{260}{}{Odvez si tu pojízdnou popelnici pryè.}
-{261}{}{Roboti sem nemaj pøístup. Vypadni.}
-{262}{}{Z toho robota zbude jen šrot, jestli tu ještì chvíli zùstane.}
-{270}{}{MYSLÍM, e cejtím mutanta. Odveï ho pryè, nebo budeme zlí.}
-{271}{}{Jseš snad mutantofil? Jeho místo je VENKU. Nebo uvidí.}
-{272}{}{Ten mutant se chce stát cviènım cílem nebo co? Tak a zmizne, nebo mu to pøání splním.}
-{280}{}{MYSLÍM, e tu cítím nìco hnít. Odveï si toho ghoula pryè.}
-{281}{}{Odveï si toho páchnoucího ghoula pryè. Hned!}
-{282}{}{Jestli odsud ten ghoul do minuty nezmizí, bude ještì mrtvìjší, ne je teï.}
-{290}{}{::Fíha.:: Mrknìte na ni.}
-{291}{}{Hej, chica, hledáš spoleènost?}
-{292}{}{Nechceš jít na chvilku mezi nás, chica?}
-{293}{}{::Kdy tì zahlédne, zavyje jako vlk:: Hauuuu!}
-{300}{}{Co tu sakra chceš, otroku? Otroci jsou nahoøe.}
+{230}{}{To je Älen rodiny }
+{235}{}{MÃ¡Å¡ fakt cojones sem pÅ™ijÃ­t. RadÅ¡i zmiz.}
+{236}{}{VypadÃ¡Å¡ jako }
+{240}{}{Co kdyby ses radÅ¡i vrÃ¡tila k tÃ½ svÃ½ podÄ›lanÃ½ rodinÄ› }
+{241}{}{VypadÃ¡Å¡ jako }
+{245}{}{Schovej tu zbraÅˆ... nebo budeÅ¡ mÃ­t VELKEJ problÃ©m.}
+{250}{}{VetÅ™elec!}
+{260}{}{Odvez si tu pojÃ­zdnou popelnici pryÄ.}
+{261}{}{Roboti sem nemaj pÅ™Ã­stup. Vypadni.}
+{262}{}{Z toho robota zbude jen Å¡rot, jestli tu jeÅ¡tÄ› chvÃ­li zÅ¯stane.}
+{270}{}{MYSLÃM, Å¾e cejtÃ­m mutanta. OdveÄ ho pryÄ, nebo budeme zlÃ­.}
+{271}{}{JseÅ¡ snad mutantofil? Jeho mÃ­sto je VENKU. Nebo uvidÃ­.}
+{272}{}{Ten mutant se chce stÃ¡t cviÄnÃ½m cÃ­lem nebo co? Tak aÅ¥ zmizne, nebo mu to pÅ™Ã¡nÃ­ splnÃ­m.}
+{280}{}{MYSLÃM, Å¾e tu cÃ­tÃ­m nÄ›co hnÃ­t. OdveÄ si toho ghoula pryÄ.}
+{281}{}{OdveÄ si toho pÃ¡chnoucÃ­ho ghoula pryÄ. Hned!}
+{282}{}{Jestli odsud ten ghoul do minuty nezmizÃ­, bude jeÅ¡tÄ› mrtvÄ›jÅ¡Ã­, neÅ¾ je teÄ.}
+{290}{}{::FÃ­ha.:: MrknÄ›te na ni.}
+{291}{}{Hej, chica, hledÃ¡Å¡ spoleÄnost?}
+{292}{}{NechceÅ¡ jÃ­t na chvilku mezi nÃ¡s, chica?}
+{293}{}{::KdyÅ¾ tÄ› zahlÃ©dne, zavyje jako vlk:: Hauuuu!}
+{300}{}{Co tu sakra chceÅ¡, otroku? Otroci jsou nahoÅ™e.}
 {305}{}{Co se stalo s Myronem?}
-{310}{}{Myron se z toho ještì nevyspal?}
-{311}{}{Nudím se.}
-{312}{}{Vidìl jsi ten vèerejší zápas?}
-{313}{}{U aby mi skonèila šichta.}
-{320}{}{Mùu ti nìjak pomoct, amigo? Sem je vstup zakázán.}
-{321}{}{Ale ale, máme mezi náma hvìzdu. Máš schùzku s Myronem, chica?}
-{322}{}{Mùu ti nìjak pomoct, chica? Sem je vstup zakázán.}
-{323}{}{(Hlídaè se usmìje a prohlédne si tì od hlavy k patì.) Máš schùzku s Myronem, chica?}
-{324}{}{Já chtít svjetová mír.}
-{325}{}{Já chtít jít za dveøe.}
+{310}{}{Myron se z toho jeÅ¡tÄ› nevyspal?}
+{311}{}{NudÃ­m se.}
+{312}{}{VidÄ›l jsi ten vÄerejÅ¡Ã­ zÃ¡pas?}
+{313}{}{UÅ¾ aby mi skonÄila Å¡ichta.}
+{320}{}{MÅ¯Å¾u ti nÄ›jak pomoct, amigo? Sem je vstup zakÃ¡zÃ¡n.}
+{321}{}{Ale ale, mÃ¡me mezi nÃ¡ma hvÄ›zdu. MÃ¡Å¡ schÅ¯zku s Myronem, chica?}
+{322}{}{MÅ¯Å¾u ti nÄ›jak pomoct, chica? Sem je vstup zakÃ¡zÃ¡n.}
+{323}{}{(HlÃ­daÄ se usmÄ›je a prohlÃ©dne si tÄ› od hlavy k patÄ›.) MÃ¡Å¡ schÅ¯zku s Myronem, chica?}
+{324}{}{JÃ¡ chtÃ­t svjetovÃ¡ mÃ­r.}
+{325}{}{JÃ¡ chtÃ­t jÃ­t za dveÅ™e.}
 {326}{}{Gdo ty?}
 {327}{}{Odbelhat se.}
-{328}{}{Vstup zakázán? Co je za tìmi dveømi?}
+{328}{}{Vstup zakÃ¡zÃ¡n? Co je za tÄ›mi dveÅ™mi?}
 {329}{}{Jdu za Myronem.}
 {330}{}{Jdu za Myronem. Tady je moje ID karta.}
-{331}{}{Jdu za Myronem. Máme spolu "zvláštní schùzku", jestli mi rozumíš.}
-{332}{}{Jasnì. Necháš mì tady postávat, fešáku, nebo se tvoje oèi u nabaily?}
-{333}{}{Coe? Jakou schùzku?}
-{334}{}{Promiò, špatná místnost. U mizím.}
-{350}{}{Neutekl jsi náhodou ze stájí, otroku? Radši zvedni prdel a padej zpátky nahoru, nebo tì strèíme do klece.}
-{351}{}{JÁ CHTÍT SVJETOVİ MÍR, JÁ CHTÍT SVJETOVİ MÍR.}
-{352}{}{JÁ CHTÍT JÍT ZA DVEØE.}
+{331}{}{Jdu za Myronem. MÃ¡me spolu "zvlÃ¡Å¡tnÃ­ schÅ¯zku", jestli mi rozumÃ­Å¡.}
+{332}{}{JasnÄ›. NechÃ¡Å¡ mÄ› tady postÃ¡vat, feÅ¡Ã¡ku, nebo se tvoje oÄi uÅ¾ nabaÅ¾ily?}
+{333}{}{CoÅ¾e? Jakou schÅ¯zku?}
+{334}{}{PromiÅˆ, Å¡patnÃ¡ mÃ­stnost. UÅ¾ mizÃ­m.}
+{350}{}{Neutekl jsi nÃ¡hodou ze stÃ¡jÃ­, otroku? RadÅ¡i zvedni prdel a padej zpÃ¡tky nahoru, nebo tÄ› strÄÃ­me do klece.}
+{351}{}{JÃ CHTÃT SVJETOVÃ MÃR, JÃ CHTÃT SVJETOVÃ MÃR.}
+{352}{}{JÃ CHTÃT JÃT ZA DVEÅ˜E.}
 {353}{}{GDO TY?}
-{354}{}{[Odejít]}
-{360}{}{(Pøipraví si zbraò.) Tak tohle si uiju. Nezmlátil jsem ádnıho otroka u aspoò hodinu...}
-{361}{}{(Pøipraví si zbraò.) Tak tohle si uiju. U jsem nikoho nezabil aspoò dva dny...}
+{354}{}{[OdejÃ­t]}
+{360}{}{(PÅ™ipravÃ­ si zbraÅˆ.) Tak tohle si uÅ¾iju. NezmlÃ¡til jsem Å¾Ã¡dnÃ½ho otroka uÅ¾ aspoÅˆ hodinu...}
+{361}{}{(PÅ™ipravÃ­ si zbraÅˆ.) Tak tohle si uÅ¾iju. UÅ¾ jsem nikoho nezabil aspoÅˆ dva dny...}
 {362}{}{TY TEN KDO BUDE BOLET.}
 {363}{}{ BUM.}
-{364}{}{[Pokusit se utéct]}
-{365}{}{Kámo, pøiprav se na nejvìtší vıprask ve svım ivotì.}
-{370}{}{(Ušklíbne se.) Promiò, ale to tì nemusí zajímat. A teï se ztra... amigo.}
-{371}{}{(Ušklíbne se.) Promiò, ale to tì nemusí zajímat. A teï se ztra, chica.}
-{374}{}{Pus mì. Musím se dostat dovnitø.}
-{375}{}{Dobøe, dobøe.}
-{380}{}{OPRAVDU? Tak proè to sakra neøekneš hned? Mohli jsem celej tenhle blbej rozhovor pøeskoèit, protoe bych ti hned øekl, a jdeš do hajzlu.}
-{381}{}{Myron mì oèekává. Radìji mì pus dovnitø hned, nebo si to pozdìji odskáèeš.}
-{390}{}{Ne. Nepudeš k nìmu. A teï táhni, nebo se vánì rozzuøím.}
-{391}{}{Mùeš mu aspoò pøedat vzkaz?}
-{400}{}{Ne. A teï táhni do HAJZLU, sráèi.}
-{401}{}{Zùstanu tady, dokud mì nepustíš dovnitø. Vlastnì by mì docela zajímalo, jak bys mì odsud dostal.}
-{402}{}{Zùstanu tady, dokud mì nepustíš dovnitø. Vlastnì by mì docela zajímalo, jak by mì takovej ubohej sráè jako ty odsud dostal.}
-{404}{}{Tak dobøe.}
-{411}{}{To já taky...}
-{412}{}{Braò se.}
-{425}{}{Jo? Uka mi ji. Hmmmm. (Zkontroluje tvoji ID kartu a poté pokrèí rameny.) Tak dobøe, ale pohni sebou. Myron má práci a nemá rád, kdy ho nìkdo vyrušuje.}
-{426}{}{Chápu.}
-{435}{}{(Jeho oèi bláznivì jezdí po tvém tìle.) Jo, prozatím jo... hehe... i kdy, moná budu pozdìjc potøebovat ještì trochu nabait. A skonèíš uvnitø, pochopitelnì.}
-{436}{}{Budu na to... myslet. Mùu jít dovnitø?}
-{437}{}{Uvidíme, ano?}
-{445}{}{Jasnì, zlato. Bì dovnitø.}
-{446}{}{Jo, jdi dovnitø.}
-{447}{}{Díky.}
-{455}{}{Ty? Ha! Chica, ty dovnitø nepùjdeš, ledae by Myron znièehonic oslepnul, jasnı? Znám jeho vkus a jsem si docela jistej, e nemá zájem o nìjakou ojetou dìvku, která lítá na Jetu.}
-{457}{}{Poslyš, jdu za Myronem. Mám ID kartu.}
-{458}{}{U pùjdu.}
-{465}{}{Aha, promiò, s nìkım jsem si tì spletl. Co chceš, chica?}
-{466}{}{Co je za tìmi dveømi?}
-{475}{}{Myron tì oèekává?}
-{477}{}{Ano. Mùu jít dovnitø? Musíme spolu nìco probrat.}
-{478}{}{Ne, teï zrovna ne. Mìjte se, chlapi.}
+{364}{}{[Pokusit se utÃ©ct]}
+{365}{}{KÃ¡mo, pÅ™iprav se na nejvÄ›tÅ¡Ã­ vÃ½prask ve svÃ½m Å¾ivotÄ›.}
+{370}{}{(UÅ¡klÃ­bne se.) PromiÅˆ, ale to tÄ› nemusÃ­ zajÃ­mat. A teÄ se ztraÅ¥... amigo.}
+{371}{}{(UÅ¡klÃ­bne se.) PromiÅˆ, ale to tÄ› nemusÃ­ zajÃ­mat. A teÄ se ztraÅ¥, chica.}
+{374}{}{PusÅ¥ mÄ›. MusÃ­m se dostat dovnitÅ™.}
+{375}{}{DobÅ™e, dobÅ™e.}
+{380}{}{OPRAVDU? Tak proÄ to sakra neÅ™ekneÅ¡ hned? Mohli jsem celej tenhle blbej rozhovor pÅ™eskoÄit, protoÅ¾e bych ti hned Å™ekl, aÅ¥ jdeÅ¡ do hajzlu.}
+{381}{}{Myron mÄ› oÄekÃ¡vÃ¡. RadÄ›ji mÄ› pusÅ¥ dovnitÅ™ hned, nebo si to pozdÄ›ji odskÃ¡ÄeÅ¡.}
+{390}{}{Ne. NepudeÅ¡ k nÄ›mu. A teÄ tÃ¡hni, nebo se vÃ¡Å¾nÄ› rozzuÅ™Ã­m.}
+{391}{}{MÅ¯Å¾eÅ¡ mu aspoÅˆ pÅ™edat vzkaz?}
+{400}{}{Ne. A teÄ tÃ¡hni do HAJZLU, srÃ¡Äi.}
+{401}{}{ZÅ¯stanu tady, dokud mÄ› nepustÃ­Å¡ dovnitÅ™. VlastnÄ› by mÄ› docela zajÃ­malo, jak bys mÄ› odsud dostal.}
+{402}{}{ZÅ¯stanu tady, dokud mÄ› nepustÃ­Å¡ dovnitÅ™. VlastnÄ› by mÄ› docela zajÃ­malo, jak by mÄ› takovej ubohej srÃ¡Ä jako ty odsud dostal.}
+{404}{}{Tak dobÅ™e.}
+{411}{}{To jÃ¡ taky...}
+{412}{}{BraÅˆ se.}
+{425}{}{Jo? UkaÅ¾ mi ji. Hmmmm. (Zkontroluje tvoji ID kartu a potÃ© pokrÄÃ­ rameny.) Tak dobÅ™e, ale pohni sebou. Myron mÃ¡ prÃ¡ci a nemÃ¡ rÃ¡d, kdyÅ¾ ho nÄ›kdo vyruÅ¡uje.}
+{426}{}{ChÃ¡pu.}
+{435}{}{(Jeho oÄi blÃ¡znivÄ› jezdÃ­ po tvÃ©m tÄ›le.) Jo, prozatÃ­m jo... hehe... i kdyÅ¾, moÅ¾nÃ¡ budu pozdÄ›jc potÅ™ebovat jeÅ¡tÄ› trochu nabaÅ¾it. AÅ¾ skonÄÃ­Å¡ uvnitÅ™, pochopitelnÄ›.}
+{436}{}{Budu na to... myslet. MÅ¯Å¾u jÃ­t dovnitÅ™?}
+{437}{}{UvidÃ­me, ano?}
+{445}{}{JasnÄ›, zlato. BÄ›Å¾ dovnitÅ™.}
+{446}{}{Jo, jdi dovnitÅ™.}
+{447}{}{DÃ­ky.}
+{455}{}{Ty? Ha! Chica, ty dovnitÅ™ nepÅ¯jdeÅ¡, ledaÅ¾e by Myron zniÄehonic oslepnul, jasnÃ½? ZnÃ¡m jeho vkus a jsem si docela jistej, Å¾e nemÃ¡ zÃ¡jem o nÄ›jakou ojetou dÄ›vku, kterÃ¡ lÃ­tÃ¡ na Jetu.}
+{457}{}{PoslyÅ¡, jdu za Myronem. MÃ¡m ID kartu.}
+{458}{}{UÅ¾ pÅ¯jdu.}
+{465}{}{Aha, promiÅˆ, s nÄ›kÃ½m jsem si tÄ› spletl. Co chceÅ¡, chica?}
+{466}{}{Co je za tÄ›mi dveÅ™mi?}
+{475}{}{Myron tÄ› oÄekÃ¡vÃ¡?}
+{477}{}{Ano. MÅ¯Å¾u jÃ­t dovnitÅ™? MusÃ­me spolu nÄ›co probrat.}
+{478}{}{Ne, teÄ zrovna ne. MÄ›jte se, chlapi.}
 {479}{}{Yes. Can I head on in? We have "business" to discuss. If you know what I mean. (You wink at the guard.)}
-{480}{}{Hehe, myslím, e vím. Zkuste tam uvnitø nedìlat moc kraválu. (Pro sebe.) Sakra, ten Myron má ale štìstí.}
-{485}{}{Myron tady není.}
-{487}{}{Mùu jít dovnitø?}
-{495}{}{(Pokrèí rameny.) To je mi jedno. Jestli na nìj chceš poèkat, tak si klidnì poslu, ale nemám tušení, kdy se vrátí... jestli se vùbec ještì vrátí.}
+{480}{}{Hehe, myslÃ­m, Å¾e vÃ­m. Zkuste tam uvnitÅ™ nedÄ›lat moc kravÃ¡lu. (Pro sebe.) Sakra, ten Myron mÃ¡ ale Å¡tÄ›stÃ­.}
+{485}{}{Myron tady nenÃ­.}
+{487}{}{MÅ¯Å¾u jÃ­t dovnitÅ™?}
+{495}{}{(PokrÄÃ­ rameny.) To je mi jedno. Jestli na nÄ›j chceÅ¡ poÄkat, tak si klidnÄ› posluÅ¾, ale nemÃ¡m tuÅ¡enÃ­, kdy se vrÃ¡tÃ­... jestli se vÅ¯bec jeÅ¡tÄ› vrÃ¡tÃ­.}
 {5225}{}{! Jak to jde?}
-{5230}{}{! Na nìj!}
-{5236}{}{, kterej nemá tušení, e brzo chcípne.}
-{5240}{}{ a zalezla do boudy, èubko?}
-{5241}{}{, která nemá tušení, e brzo chcípne.}
-{5476}{}{! Myron je za tìmahle dveøma. Oèekává tì?}
-{5486}{}{, jak to jde? Jo a... Myron tady není.}
+{5230}{}{! Na nÄ›j!}
+{5236}{}{, kterej nemÃ¡ tuÅ¡enÃ­, Å¾e brzo chcÃ­pne.}
+{5240}{}{ a zalezla do boudy, Äubko?}
+{5241}{}{, kterÃ¡ nemÃ¡ tuÅ¡enÃ­, Å¾e brzo chcÃ­pne.}
+{5476}{}{! Myron je za tÄ›mahle dveÅ™ma. OÄekÃ¡vÃ¡ tÄ›?}
+{5486}{}{, jak to jde? Jo a... Myron tady nenÃ­.}

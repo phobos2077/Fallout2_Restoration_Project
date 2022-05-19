@@ -1,1 +1,1 @@
-{100}{}{Úspìšnì se ti podaøilo dostat do Líziny skrıše se zbranìmi.}
+{100}{}{ÃšspÄ›Å¡nÄ› se ti podaÅ™ilo dostat do LÃ­ziny skrÃ½Å¡e se zbranÄ›mi.}

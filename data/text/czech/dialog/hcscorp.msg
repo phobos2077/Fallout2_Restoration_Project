@@ -1,18 +1,18 @@
-{100}{}{No podívejme! To je radškorpion!}
-{101}{}{Pøi bliším prozkoumání zjišuješ, e má tento radškorpion malé brıle a zdá se bıt docela inteligentní.}
+{100}{}{No podÃ­vejme! To je radÅ¡korpion!}
+{101}{}{PÅ™i bliÅ¾Å¡Ã­m prozkoumÃ¡nÃ­ zjiÅ¡Å¥ujeÅ¡, Å¾e mÃ¡ tento radÅ¡korpion malÃ© brÃ½le a zdÃ¡ se bÃ½t docela inteligentnÃ­.}
 {102}{}{::klap:: ::klap klak::}
-{103}{}{Mohu vám s nìèím pomoci? Rušíte mì pøi mıch experimentech!}
+{103}{}{Mohu vÃ¡m s nÄ›ÄÃ­m pomoci? RuÅ¡Ã­te mÄ› pÅ™i mÃ½ch experimentech!}
 {104}{}{::cupity:: ::klap klap klap::}
 {105}{}{Co? Co mu chcete?}
 {106}{}{Ssss!}
-{107}{}{Hodnı chlapec! Zùstaò!}
-{108}{}{(Obezøetnì si tì prohlíí.)}
-{109}{}{(Dìlá na tebe gesta klepety.)}
-{110}{}{(Vypadá pøátelsky.)}
-{111}{}{Neobtìujte ho prosím, má za sebou pernı den.}
-{112}{}{Je teï trochu unavenı.}
+{107}{}{HodnÃ½ chlapec! ZÅ¯staÅˆ!}
+{108}{}{(ObezÅ™etnÄ› si tÄ› prohlÃ­Å¾Ã­.)}
+{109}{}{(DÄ›lÃ¡ na tebe gesta klepety.)}
+{110}{}{(VypadÃ¡ pÅ™Ã¡telsky.)}
+{111}{}{NeobtÄ›Å¾ujte ho prosÃ­m, mÃ¡ za sebou pernÃ½ den.}
+{112}{}{Je teÄ trochu unavenÃ½.}
 {113}{}{::cupity::}
 {114}{}{::klik::}
 {115}{}{::klik-klak::}
-{116}{}{::zaostøit::}
-{117}{}{Pøi bliší prozkoumání zjišuješ, e se zdá bıt tento radškorpion docela inteligentní!}
+{116}{}{::zaostÅ™it::}
+{117}{}{PÅ™i bliÅ¾Å¡Ã­ prozkoumÃ¡nÃ­ zjiÅ¡Å¥ujeÅ¡, Å¾e se zdÃ¡ bÃ½t tento radÅ¡korpion docela inteligentnÃ­!}

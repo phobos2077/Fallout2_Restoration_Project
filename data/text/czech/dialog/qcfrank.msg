@@ -1,31 +1,31 @@
-{100}{}{Vidíš obrovitého mue v tìké zbroji.}
-{101}{}{Vidíš Franka Horrigana, agenta tajné sluby.}
-{102}{}{Vidíš ohromnou postavu, která na tebe zírá pohledem plnım nenávisti.}
-{103}{}{Nemáš šanci dostat se odsud ivı, mutantíku.}
-{104}{}{Mizernı mutante.}
+{100}{}{VidÃ­Å¡ obrovitÃ©ho muÅ¾e v tÄ›Å¾kÃ© zbroji.}
+{101}{}{VidÃ­Å¡ Franka Horrigana, agenta tajnÃ© sluÅ¾by.}
+{102}{}{VidÃ­Å¡ ohromnou postavu, kterÃ¡ na tebe zÃ­rÃ¡ pohledem plnÃ½m nenÃ¡visti.}
+{103}{}{NemÃ¡Å¡ Å¡anci dostat se odsud Å¾ivÃ½, mutantÃ­ku.}
+{104}{}{MizernÃ½ mutante.}
 {105}{}{Mutante!}
-{106}{}{Všechny jsi nás znièil.}
-{107}{}{Všechno je to tvoje vina. Teï za to zaplatíš.}
+{106}{}{VÅ¡echny jsi nÃ¡s zniÄil.}
+{107}{}{VÅ¡echno je to tvoje vina. TeÄ za to zaplatÃ­Å¡.}
 {108}{ssa2}{You (cough), you haven't won here. You and your mutie-bastard friends are gonna join me in a big ol' mushroom cloud sendoff. I just triggered the self-destruct. (Heh, heh; cough, cough...) The work will go on. You didn't do nothing here, 'cept seal your own death warrants. Duty, (cough) honor... courage... Semper Fiiiii...}
 {109}{ssa2}{You (cough), you haven't won here. You and your mutie-bastard friends are gonna join me in a big ol' mushroom cloud sendoff. I just triggered the self-destruct. (Heh, heh; cough, cough...) The work will go on. You didn't do nothing here, 'cept seal your own death warrants. Duty, (cough) honor... courage... Semper Fiiiii...}
-{110}{}{Ajaj. Zlá vìc stát tady. Já muset utıct na loï.}
-{111}{}{Bude lepší, kdy z tohohle pekla vypadnu a vrátím se na loï.}
-{112}{ssa3alt}{Dostal ses mnohem dál, ne jsi mìl, ale to znamená jenom jediné - dosud jsi nepotkal Franka Horrigana. Tvoje krasojízda skonèila, mutante. Je èas zemøít.}
-{113}{}{Dostanu se pøes tebe a u se ti to bude líbit nebo ne.}
-{114}{}{Nemùeme si o tom promluvit?}
-{115}{ssa4a}{Vypuštìní F.E.V. toxinu do naší ventilaèní soustavy z tebe nedìlá hrdinu. Jsi jen další mutant, kterı musí bıt odstranìn.}
-{116}{ssa4b}{Právì dochází k pøehøátí jádra reaktoru, co znamená, e tady bude za chvíli dost horko. Ale nemusíš se bát, ty se toho nedoiješ. Nejsi ádnı hrdina, jsi jenom chodící mrtvola.}
-{117}{}{Koukám plná huba kecù, ale skutek utek.}
-{118}{}{Poèkej chvíli! Zadr! Nemùeme si o tom promluvit?}
-{119}{ssa5}{Právì se stalo. Interview zrovna skonèilo.}
-{120}{}{Budi.}
-{121}{}{Poèkej!}
-{130}{ssa7}{Já jsem Frank Horrigan, agent tajné sluby Spojenıch státù americkıch. Odsud u neodejdeš.}
-{131}{}{Dostanu se pøes tebe a u se ti to bude líbit nebo ne.}
-{132}{}{Nemùeme si o tom promluvit?}
-{133}{}{Máš pravdu. Neodejdu odsud, dokud ti ten tvùj hnusnej ksicht nerozstøílím na sraèku.}
-{134}{}{Coe? Jakej Frank?}
-{135}{}{Moná sis toho nevšiml, ale jedinej ivej mutant široko daleko jseš ty. Èas chcípnout, zrùdo.}
-{140}{ssa6}{Ty mutantská špíno! Co to na mì zkoušíš za triky? Teï u ti nepomùe vùbec nic.}
-{141}{}{Dostanu se pøes tebe a ty s tím nic neudìláš.}
-{142}{}{Nemùeme si o tom promluvit.}
+{110}{}{Ajaj. ZlÃ¡ vÄ›c stÃ¡t tady. JÃ¡ muset utÃ½ct na loÄ.}
+{111}{}{Bude lepÅ¡Ã­, kdyÅ¾ z tohohle pekla vypadnu a vrÃ¡tÃ­m se na loÄ.}
+{112}{ssa3alt}{Dostal ses mnohem dÃ¡l, neÅ¾ jsi mÄ›l, ale to znamenÃ¡ jenom jedinÃ© - dosud jsi nepotkal Franka Horrigana. Tvoje krasojÃ­zda skonÄila, mutante. Je Äas zemÅ™Ã­t.}
+{113}{}{Dostanu se pÅ™es tebe aÅ¥ uÅ¾ se ti to bude lÃ­bit nebo ne.}
+{114}{}{NemÅ¯Å¾eme si o tom promluvit?}
+{115}{ssa4a}{VypuÅ¡tÄ›nÃ­ F.E.V. toxinu do naÅ¡Ã­ ventilaÄnÃ­ soustavy z tebe nedÄ›lÃ¡ hrdinu. Jsi jen dalÅ¡Ã­ mutant, kterÃ½ musÃ­ bÃ½t odstranÄ›n.}
+{116}{ssa4b}{PrÃ¡vÄ› dochÃ¡zÃ­ k pÅ™ehÅ™Ã¡tÃ­ jÃ¡dra reaktoru, coÅ¾ znamenÃ¡, Å¾e tady bude za chvÃ­li dost horko. Ale nemusÃ­Å¡ se bÃ¡t, ty se toho nedoÅ¾ijeÅ¡. Nejsi Å¾Ã¡dnÃ½ hrdina, jsi jenom chodÃ­cÃ­ mrtvola.}
+{117}{}{KoukÃ¡m plnÃ¡ huba kecÅ¯, ale skutek utek.}
+{118}{}{PoÄkej chvÃ­li! ZadrÅ¾! NemÅ¯Å¾eme si o tom promluvit?}
+{119}{ssa5}{PrÃ¡vÄ› se stalo. Interview zrovna skonÄilo.}
+{120}{}{BudiÅ¾.}
+{121}{}{PoÄkej!}
+{130}{ssa7}{JÃ¡ jsem Frank Horrigan, agent tajnÃ© sluÅ¾by SpojenÃ½ch stÃ¡tÅ¯ americkÃ½ch. Odsud uÅ¾ neodejdeÅ¡.}
+{131}{}{Dostanu se pÅ™es tebe aÅ¥ uÅ¾ se ti to bude lÃ­bit nebo ne.}
+{132}{}{NemÅ¯Å¾eme si o tom promluvit?}
+{133}{}{MÃ¡Å¡ pravdu. Neodejdu odsud, dokud ti ten tvÅ¯j hnusnej ksicht nerozstÅ™Ã­lÃ­m na sraÄku.}
+{134}{}{CoÅ¾e? Jakej Frank?}
+{135}{}{MoÅ¾nÃ¡ sis toho nevÅ¡iml, ale jedinej Å¾ivej mutant Å¡iroko daleko jseÅ¡ ty. ÄŒas chcÃ­pnout, zrÅ¯do.}
+{140}{ssa6}{Ty mutantskÃ¡ Å¡pÃ­no! Co to na mÄ› zkouÅ¡Ã­Å¡ za triky? TeÄ uÅ¾ ti nepomÅ¯Å¾e vÅ¯bec nic.}
+{141}{}{Dostanu se pÅ™es tebe a ty s tÃ­m nic neudÄ›lÃ¡Å¡.}
+{142}{}{NemÅ¯Å¾eme si o tom promluvit.}

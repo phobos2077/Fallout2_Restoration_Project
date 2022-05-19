@@ -1,18 +1,18 @@
-{100}{}{Vidíš mue ve špinavıch a krví potøísnìnıch hadrech.}
-{101}{}{Vidíš chyceného vìznì.}
-{102}{}{Jeho oblièej a ruce jsou plné starıch jizev od noù a v oèích má ztøeštìnı vıraz dávající jasnì najevo, e jde o vıtrníka a psance.}
-{103}{}{Jenom plıtváš èasem. Tobì ani nikomu jinımu neøeknu ani slovo.}
-{104}{}{Vypadni a nech mì bejt, fízle.}
-{105}{}{To ty tady dìláš takovej smrad?}
-{106}{}{Co jako udìláš? Budeš mi vyhroovat?}
-{107}{}{Ty mì nezastrašíš.}
-{108}{}{Co takhle mi políbit šos? }
-{109}{}{Co to sakra dìláš? Ty mì chceš snad zabít! Stráe!}
-{110}{}{Mluvit nebo já zabít ty.}
-{111}{}{Nikdo ti na pomoc nepøijde. Jestli chceš ít, mluv.}
-{112}{}{Fajn, fajn! Co chceš vìdìt? Jen mi u neubliuj.}
+{100}{}{VidÃ­Å¡ muÅ¾e ve Å¡pinavÃ½ch a krvÃ­ potÅ™Ã­snÄ›nÃ½ch hadrech.}
+{101}{}{VidÃ­Å¡ chycenÃ©ho vÄ›znÄ›.}
+{102}{}{Jeho obliÄej a ruce jsou plnÃ© starÃ½ch jizev od noÅ¾Å¯ a v oÄÃ­ch mÃ¡ ztÅ™eÅ¡tÄ›nÃ½ vÃ½raz dÃ¡vajÃ­cÃ­ jasnÄ› najevo, Å¾e jde o vÃ½trÅ¾nÃ­ka a psance.}
+{103}{}{Jenom plÃ½tvÃ¡Å¡ Äasem. TobÄ› ani nikomu jinÃ½mu neÅ™eknu ani slovo.}
+{104}{}{Vypadni a nech mÄ› bejt, fÃ­zle.}
+{105}{}{To ty tady dÄ›lÃ¡Å¡ takovej smrad?}
+{106}{}{Co jako udÄ›lÃ¡Å¡? BudeÅ¡ mi vyhroÅ¾ovat?}
+{107}{}{Ty mÄ› nezastraÅ¡Ã­Å¡.}
+{108}{}{Co takhle mi polÃ­bit Å¡os? }
+{109}{}{Co to sakra dÄ›lÃ¡Å¡? Ty mÄ› chceÅ¡ snad zabÃ­t! StrÃ¡Å¾e!}
+{110}{}{Mluvit nebo jÃ¡ zabÃ­t ty.}
+{111}{}{Nikdo ti na pomoc nepÅ™ijde. Jestli chceÅ¡ Å¾Ã­t, mluv.}
+{112}{}{Fajn, fajn! Co chceÅ¡ vÄ›dÄ›t? Jen mi uÅ¾ neubliÅ¾uj.}
 {113}{}{Vault 15, mluv.}
-{114}{}{Co víš o Vaultu 15?}
-{115}{}{Hele, já jsem jen obyèejnej poskok, ádnı velkı zvíøe. Darion je ten, kterıho chceš. Má nìjakı nevyøízenı úèty se Shady Sands a tou starou dìvkou Tandi. Skrıvá se ve Vaultu 15 a dokonce i pøesvìdèil místní lidi, e je na jejich stranì. To je všechno, co vím. Pøísahám!}
-{116}{}{Opravdu, u víc nevím! Øekl jsem ti všechno co vím, vìø mi! U mi neubliuj.}
-{117}{}{Tak to ne! Na tenhle trik ti neskoèím. PRÁSK! - zastøelen pøi útìku. Zapomeò na to!}
+{114}{}{Co vÃ­Å¡ o Vaultu 15?}
+{115}{}{Hele, jÃ¡ jsem jen obyÄejnej poskok, Å¾Ã¡dnÃ½ velkÃ½ zvÃ­Å™e. Darion je ten, kterÃ½ho chceÅ¡. MÃ¡ nÄ›jakÃ½ nevyÅ™Ã­zenÃ½ ÃºÄty se Shady Sands a tou starou dÄ›vkou Tandi. SkrÃ½vÃ¡ se ve Vaultu 15 a dokonce i pÅ™esvÄ›dÄil mÃ­stnÃ­ lidi, Å¾e je na jejich stranÄ›. To je vÅ¡echno, co vÃ­m. PÅ™Ã­sahÃ¡m!}
+{116}{}{Opravdu, uÅ¾ vÃ­c nevÃ­m! Å˜ekl jsem ti vÅ¡echno co vÃ­m, vÄ›Å™ mi! UÅ¾ mi neubliÅ¾uj.}
+{117}{}{Tak to ne! Na tenhle trik ti neskoÄÃ­m. PRÃSK! - zastÅ™elen pÅ™i ÃºtÄ›ku. ZapomeÅˆ na to!}

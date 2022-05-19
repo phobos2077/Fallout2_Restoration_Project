@@ -1,85 +1,85 @@
-{100}{}{Vidíš vychrtle vypadajícího mue v modré kombinéze.}
-{101}{}{Vidíš Martina Frobishera. Je mluvèí vìzòù ve Vaultu 13.}
-{102}{}{Vidíš vychrtle vypadajícího mue v modré kombinéze vaultu. Je stejná jako ta tvoje.}
-{103}{}{Dostaò nás odsud!}
-{104}{}{Vypni silové pole.}
-{105}{}{Vypni silové pole, a mùeme utéct!}
-{106}{}{Dostaò nás ODSUD!}
-{107}{}{Elektøina je vypnutá! Dveøe jsou otevøené!}
+{100}{}{VidÃ­Å¡ vychrtle vypadajÃ­cÃ­ho muÅ¾e v modrÃ© kombinÃ©ze.}
+{101}{}{VidÃ­Å¡ Martina Frobishera. Je mluvÄÃ­ vÄ›zÅˆÅ¯ ve Vaultu 13.}
+{102}{}{VidÃ­Å¡ vychrtle vypadajÃ­cÃ­ho muÅ¾e v modrÃ© kombinÃ©ze vaultu. Je stejnÃ¡ jako ta tvoje.}
+{103}{}{DostaÅˆ nÃ¡s odsud!}
+{104}{}{Vypni silovÃ© pole.}
+{105}{}{Vypni silovÃ© pole, aÅ¥ mÅ¯Å¾eme utÃ©ct!}
+{106}{}{DostaÅˆ nÃ¡s ODSUD!}
+{107}{}{ElektÅ™ina je vypnutÃ¡! DveÅ™e jsou otevÅ™enÃ©!}
 {108}{}{Jsme v hajzlu.}
-{109}{}{Dostaò nás odsud, ne zaènou dìlat další testy.}
-{110}{}{Kdo jsou ti lidé?}
-{111}{}{Proè já? Proè my?}
-{112}{}{Musíme se dostat z tohohle místa.}
+{109}{}{DostaÅˆ nÃ¡s odsud, neÅ¾ zaÄnou dÄ›lat dalÅ¡Ã­ testy.}
+{110}{}{Kdo jsou ti lidÃ©?}
+{111}{}{ProÄ jÃ¡? ProÄ my?}
+{112}{}{MusÃ­me se dostat z tohohle mÃ­sta.}
 {113}{}{Hej ty, tady jsme!}
-{114}{}{Hledáš mì?}
-{115}{}{Chceš vìdìt, co se stalo?}
+{114}{}{HledÃ¡Å¡ mÄ›?}
+{115}{}{ChceÅ¡ vÄ›dÄ›t, co se stalo?}
 {116}{}{Pomoc!}
-{117}{}{Já jsem Martin, tady jsem.}
-{118}{}{Hej, ty, já jsem Frobisher. Tady!}
-{119}{}{Tady jsééém!}
-{120}{}{Ahóóóój!}
-{121}{}{Pojï sem!}
-{122}{}{Øeknu ti všechno, co budeš chtít.}
+{117}{}{JÃ¡ jsem Martin, tady jsem.}
+{118}{}{Hej, ty, jÃ¡ jsem Frobisher. Tady!}
+{119}{}{Tady jsÃ©Ã©Ã©m!}
+{120}{}{AhÃ³Ã³Ã³Ã³j!}
+{121}{}{PojÄ sem!}
+{122}{}{Å˜eknu ti vÅ¡echno, co budeÅ¡ chtÃ­t.}
 {123}{}{Jmenuju se Martin.}
-{124}{}{Mùu ti øíct, co se stalo potom.}
-{125}{}{Ahoj, já jsem Martin Frobisher. Jsem mluvèí tìchto lidí. Díky bohu, e jsi tady.}
-{126}{}{Co potøebujete vìdìt?}
-{127}{}{Máte pìkné obleèení, pøesnì jako je to moje. Kdo jste?}
-{128}{}{Co tady dìláte?}
-{129}{}{Ty jsi správce vaultu?}
+{124}{}{MÅ¯Å¾u ti Å™Ã­ct, co se stalo potom.}
+{125}{}{Ahoj, jÃ¡ jsem Martin Frobisher. Jsem mluvÄÃ­ tÄ›chto lidÃ­. DÃ­ky bohu, Å¾e jsi tady.}
+{126}{}{Co potÅ™ebujete vÄ›dÄ›t?}
+{127}{}{MÃ¡te pÄ›knÃ© obleÄenÃ­, pÅ™esnÄ› jako je to moje. Kdo jste?}
+{128}{}{Co tady dÄ›lÃ¡te?}
+{129}{}{Ty jsi sprÃ¡vce vaultu?}
 {130}{}{Jak jste se sem dostali?}
-{131}{}{Tìší mì, e tì poznávám, Martine, ale musím osvobodit pár lidí. Sbohem.}
-{132}{}{Ano, doufal jsem, e kvùli tomu jsi tady. Musíš nás osvobodit.}
-{133}{}{Osvobodit vás? Chci osvobodit jen svoje lidi.}
-{134}{}{Ale jistì, nenechám nikoho na tomhle místì shnít.}
-{135}{}{A co tu vlastnì dìláte?}
-{136}{}{Testují na nás protilátky proti nìjakému smrtícímu viru.}
-{137}{}{Jakému viru?}
-{138}{}{To nezní moc dobøe. Chci se ještì na nìco zeptat.}
-{139}{}{To máte tedy štìstí. Moná teï koneènì pochopíte jakou bolest mùj pøedek, Zakladatel, cítil. Doufám, e všichni skonèíte v pekle. Sbohem.}
-{140}{}{Øíkají tomu F.E.V. toxin. Dìlá s lidmi strašné vìci ne je zabije. Jedinou *vıhodou* toho toxinu je, e zabíjí okamitì. Ale vypadá to velmi bolestivì.}
-{141}{}{To zní strašnì. Ale proè pouívají na testy právì tvoje lidi?}
-{142}{}{Unesli nás všechny z našeho vaultu, protoe potøebují pokusné osoby na testování protilátek. Potøebovali lidi, kteøí ijí mimo Enklávu a jsou stále nezasaení radiací. A tak si vybrali nás.}
-{143}{}{Vybrali si vás? Jak a odkud?}
-{144}{}{Jednou pøišli k hlavnímu vchodu našeho vaultu a nìjakım zpùsobem zjistili vstupní bezpeènostní kód, take jen otevøeli dveøe a jejich tìkoodìnci nás naloili do vertibirdù a dopravili a sem. A pak zaèali s experimenty. (Celı se zatøese.)}
-{145}{}{To zní hroznì. Chci se ještì na nìco zeptat.}
-{146}{}{Vault? Z kterého vaultu jste?}
-{147}{}{Z Vaultu 13, samozøejmì.}
-{148}{}{Tam jsem šel, abych našel GECK.}
-{149}{}{Tam jsem byl poprosit o váš GECK, abych zachránil svoje lidi, ale vy jste u byli pryè. Jenom ten GECK tam zùstal.}
-{150}{}{Ten jsem hledal. Poslyš, nejsi ty náhodou správce vaultu?}
-{151}{}{GECK? Mìli jsme dva. Rádi ti jeden pøenecháme. Myslím, e jsem vidìl nìkolik vojákù nakládat jeden z našich GECKù do vertibirdu.}
-{152}{}{Ty jsi je vidìl nakládat GECK? Nevíš, kam ho dali?}
-{153}{}{To nevadí. Podaøilo se mi získat GECK z vašeho vaultu. Chci se ještì na nìco zeptat.}
-{154}{}{Nevím kam ho pøesnì dali, ale slyšel jsem je, jak se baví o tom, e ho odnesou do skladištì. Myslím, e je v patøe pod námi.}
-{155}{}{To je skvìlé. Díky. Radìji u pùjdu.}
-{156}{}{Aha, rozumím. Chci se ještì na nìco zeptat.}
-{157}{}{Poèkej! Musíš nás odsud dostat.}
-{158}{}{To mám v plánu. Teï pùjdu dolù k reaktoru a a ho vypnu, budete volní. Jakmile budou vypnuta silová pole, utíkejte co nejrychleji nahoru na moji loï.}
-{159}{}{Jak to mám udìlat?}
-{160}{}{Na to jste mìli myslet døív, *ne* jste vykopli mého pøedka z vaultu. Doufám, e tu všichni shnijete. Sbohem.}
-{161}{}{Díky. Hodnì štìstí a bùh tì provázej, pøíteli.}
-{162}{}{Sbohem a hodnì štìstí.}
-{163}{}{Díky, ale chci se ještì na nìco zeptat.}
-{164}{}{Mám takovı pocit, e ho budu potøebovat. Sbohem.}
-{165}{}{Myslím, e k vypnutí silovıch polí je potøeba vypnout hlavní zdroj napájení.}
-{166}{}{A jak to mám sakra udìlat?}
-{167}{}{Zaslechl jsem, e reaktor øídí velkı poèítaè tøi patra pod námi. Pokud ho vyhodíš do vzduchu, mìla by se pøerušit dodávka energie a my budeme volní.}
-{168}{}{Skvìlı nápad. Mùu pouít své vıbušniny a vyhodit tak poèítaè do vzduchu. Vy pak utíkejte co nejrychleji nahoru na moji loï. Budu hned za vámi.}
-{169}{}{Skvìlı nápad, ale nemám tušení, jak vyhodit reaktor do vzduchu. Nemám ádné vıbušniny.}
-{170}{}{Jsem si jistı, e nìkde poblí kasáren bude i skladištì zbraní. Urèitì tam budou mít i vıbušniny.}
-{171}{}{Skvìlı nápad. Najdu ty vıbušniny a vyhodím s nimi poèítaè do vzduchu. Vy pak utíkejte co nejrychleji nahoru na moji loï. Budu hned za vámi.}
-{172}{}{Ten název ji dlouho nepouíváme. Mìli jsme pøed mnoha lety správce vaultu, ale udìlal velikou chybu a díky ní mnoho našich lidí opustilo vault... jen aby zcela jistì zemøeli v pustinì. Poté stanul pøed soudem a za svùj zloèin byl odsouzen k smrti. Od té doby ten titul u nepouíváme.}
-{173}{}{Nevyèítám ti to. Teï u chápu, e to byl správce, kdo vykopl mého pøedka, Zakladatele, ven do pustiny.}
-{174}{}{Zakladatele? Kdy se to stalo? Asi tak pøed osmdesáti lety?}
-{175}{}{Ano, bylo to pøed osmdesáti lety. Jak to víš?}
-{176}{}{Pøed osmdesáti lety náš vault zachránil jeden hrdina a správce ho poté vyhnal. Další lidé ho následovali a u nikdy jsme o nich neslyšeli. Všichni si tu událost pamatujeme s hanbou.}
-{177}{}{Hej! Mluvíš o *mém* pøedkovi a o lidech, kteøí pomáhali zaloit moji vesnici. Všichni pocházeli ze svatého Vaultu 13.}
-{178}{}{To byste také mìli. Chci se ještì na nìco zeptat.}
-{179}{}{Myslím, e jste za to zatím trpìli málo. Sbohem.}
-{180}{}{Neuvìøitelné, to je náš vault! Opìt se musí lidé z vaultu spolehnout na... eh, tentokrát... na pravnuka Zakladatele, aby nás zachránil.}
-{181}{}{Neuvìøitelné, to je náš vault! Opìt se musí lidé z vaultu spolehnout na... eh, tentokrát... na pravnuèku Zakladatele, aby nás zachránila.}
-{182}{}{Bohuel nevím, jak vás mám zachránit.}
-{183}{}{Tak to si ještì rozmyslím.}
-{184}{}{To je ale náhodièka! Chci se ještì na nìco zeptat.}
+{131}{}{TÄ›Å¡Ã­ mÄ›, Å¾e tÄ› poznÃ¡vÃ¡m, Martine, ale musÃ­m osvobodit pÃ¡r lidÃ­. Sbohem.}
+{132}{}{Ano, doufal jsem, Å¾e kvÅ¯li tomu jsi tady. MusÃ­Å¡ nÃ¡s osvobodit.}
+{133}{}{Osvobodit vÃ¡s? Chci osvobodit jen svoje lidi.}
+{134}{}{Ale jistÄ›, nenechÃ¡m nikoho na tomhle mÃ­stÄ› shnÃ­t.}
+{135}{}{A co tu vlastnÄ› dÄ›lÃ¡te?}
+{136}{}{TestujÃ­ na nÃ¡s protilÃ¡tky proti nÄ›jakÃ©mu smrtÃ­cÃ­mu viru.}
+{137}{}{JakÃ©mu viru?}
+{138}{}{To neznÃ­ moc dobÅ™e. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{139}{}{To mÃ¡te tedy Å¡tÄ›stÃ­. MoÅ¾nÃ¡ teÄ koneÄnÄ› pochopÃ­te jakou bolest mÅ¯j pÅ™edek, Zakladatel, cÃ­til. DoufÃ¡m, Å¾e vÅ¡ichni skonÄÃ­te v pekle. Sbohem.}
+{140}{}{Å˜Ã­kajÃ­ tomu F.E.V. toxin. DÄ›lÃ¡ s lidmi straÅ¡nÃ© vÄ›ci neÅ¾ je zabije. Jedinou *vÃ½hodou* toho toxinu je, Å¾e zabÃ­jÃ­ okamÅ¾itÄ›. Ale vypadÃ¡ to velmi bolestivÄ›.}
+{141}{}{To znÃ­ straÅ¡nÄ›. Ale proÄ pouÅ¾Ã­vajÃ­ na testy prÃ¡vÄ› tvoje lidi?}
+{142}{}{Unesli nÃ¡s vÅ¡echny z naÅ¡eho vaultu, protoÅ¾e potÅ™ebujÃ­ pokusnÃ© osoby na testovÃ¡nÃ­ protilÃ¡tek. PotÅ™ebovali lidi, kteÅ™Ã­ Å¾ijÃ­ mimo EnklÃ¡vu a jsou stÃ¡le nezasaÅ¾enÃ­ radiacÃ­. A tak si vybrali nÃ¡s.}
+{143}{}{Vybrali si vÃ¡s? Jak a odkud?}
+{144}{}{Jednou pÅ™iÅ¡li k hlavnÃ­mu vchodu naÅ¡eho vaultu a nÄ›jakÃ½m zpÅ¯sobem zjistili vstupnÃ­ bezpeÄnostnÃ­ kÃ³d, takÅ¾e jen otevÅ™eli dveÅ™e a jejich tÄ›Å¾koodÄ›nci nÃ¡s naloÅ¾ili do vertibirdÅ¯ a dopravili aÅ¾ sem. A pak zaÄali s experimenty. (CelÃ½ se zatÅ™ese.)}
+{145}{}{To znÃ­ hroznÄ›. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{146}{}{Vault? Z kterÃ©ho vaultu jste?}
+{147}{}{Z Vaultu 13, samozÅ™ejmÄ›.}
+{148}{}{Tam jsem Å¡el, abych naÅ¡el GECK.}
+{149}{}{Tam jsem byl poprosit o vÃ¡Å¡ GECK, abych zachrÃ¡nil svoje lidi, ale vy jste uÅ¾ byli pryÄ. Jenom ten GECK tam zÅ¯stal.}
+{150}{}{Ten jsem hledal. PoslyÅ¡, nejsi ty nÃ¡hodou sprÃ¡vce vaultu?}
+{151}{}{GECK? MÄ›li jsme dva. RÃ¡di ti jeden pÅ™enechÃ¡me. MyslÃ­m, Å¾e jsem vidÄ›l nÄ›kolik vojÃ¡kÅ¯ naklÃ¡dat jeden z naÅ¡ich GECKÅ¯ do vertibirdu.}
+{152}{}{Ty jsi je vidÄ›l naklÃ¡dat GECK? NevÃ­Å¡, kam ho dali?}
+{153}{}{To nevadÃ­. PodaÅ™ilo se mi zÃ­skat GECK z vaÅ¡eho vaultu. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{154}{}{NevÃ­m kam ho pÅ™esnÄ› dali, ale slyÅ¡el jsem je, jak se bavÃ­ o tom, Å¾e ho odnesou do skladiÅ¡tÄ›. MyslÃ­m, Å¾e je v patÅ™e pod nÃ¡mi.}
+{155}{}{To je skvÄ›lÃ©. DÃ­ky. RadÄ›ji uÅ¾ pÅ¯jdu.}
+{156}{}{Aha, rozumÃ­m. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{157}{}{PoÄkej! MusÃ­Å¡ nÃ¡s odsud dostat.}
+{158}{}{To mÃ¡m v plÃ¡nu. TeÄ pÅ¯jdu dolÅ¯ k reaktoru a aÅ¾ ho vypnu, budete volnÃ­. Jakmile budou vypnuta silovÃ¡ pole, utÃ­kejte co nejrychleji nahoru na moji loÄ.}
+{159}{}{Jak to mÃ¡m udÄ›lat?}
+{160}{}{Na to jste mÄ›li myslet dÅ™Ã­v, *neÅ¾* jste vykopli mÃ©ho pÅ™edka z vaultu. DoufÃ¡m, Å¾e tu vÅ¡ichni shnijete. Sbohem.}
+{161}{}{DÃ­ky. HodnÄ› Å¡tÄ›stÃ­ a bÅ¯h tÄ› provÃ¡zej, pÅ™Ã­teli.}
+{162}{}{Sbohem a hodnÄ› Å¡tÄ›stÃ­.}
+{163}{}{DÃ­ky, ale chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{164}{}{MÃ¡m takovÃ½ pocit, Å¾e ho budu potÅ™ebovat. Sbohem.}
+{165}{}{MyslÃ­m, Å¾e k vypnutÃ­ silovÃ½ch polÃ­ je potÅ™eba vypnout hlavnÃ­ zdroj napÃ¡jenÃ­.}
+{166}{}{A jak to mÃ¡m sakra udÄ›lat?}
+{167}{}{Zaslechl jsem, Å¾e reaktor Å™Ã­dÃ­ velkÃ½ poÄÃ­taÄ tÅ™i patra pod nÃ¡mi. Pokud ho vyhodÃ­Å¡ do vzduchu, mÄ›la by se pÅ™eruÅ¡it dodÃ¡vka energie a my budeme volnÃ­.}
+{168}{}{SkvÄ›lÃ½ nÃ¡pad. MÅ¯Å¾u pouÅ¾Ã­t svÃ© vÃ½buÅ¡niny a vyhodit tak poÄÃ­taÄ do vzduchu. Vy pak utÃ­kejte co nejrychleji nahoru na moji loÄ. Budu hned za vÃ¡mi.}
+{169}{}{SkvÄ›lÃ½ nÃ¡pad, ale nemÃ¡m tuÅ¡enÃ­, jak vyhodit reaktor do vzduchu. NemÃ¡m Å¾Ã¡dnÃ© vÃ½buÅ¡niny.}
+{170}{}{Jsem si jistÃ½, Å¾e nÄ›kde poblÃ­Å¾ kasÃ¡ren bude i skladiÅ¡tÄ› zbranÃ­. UrÄitÄ› tam budou mÃ­t i vÃ½buÅ¡niny.}
+{171}{}{SkvÄ›lÃ½ nÃ¡pad. Najdu ty vÃ½buÅ¡niny a vyhodÃ­m s nimi poÄÃ­taÄ do vzduchu. Vy pak utÃ­kejte co nejrychleji nahoru na moji loÄ. Budu hned za vÃ¡mi.}
+{172}{}{Ten nÃ¡zev jiÅ¾ dlouho nepouÅ¾Ã­vÃ¡me. MÄ›li jsme pÅ™ed mnoha lety sprÃ¡vce vaultu, ale udÄ›lal velikou chybu a dÃ­ky nÃ­ mnoho naÅ¡ich lidÃ­ opustilo vault... jen aby zcela jistÄ› zemÅ™eli v pustinÄ›. PotÃ© stanul pÅ™ed soudem a za svÅ¯j zloÄin byl odsouzen k smrti. Od tÃ© doby ten titul uÅ¾ nepouÅ¾Ã­vÃ¡me.}
+{173}{}{NevyÄÃ­tÃ¡m ti to. TeÄ uÅ¾ chÃ¡pu, Å¾e to byl sprÃ¡vce, kdo vykopl mÃ©ho pÅ™edka, Zakladatele, ven do pustiny.}
+{174}{}{Zakladatele? Kdy se to stalo? Asi tak pÅ™ed osmdesÃ¡ti lety?}
+{175}{}{Ano, bylo to pÅ™ed osmdesÃ¡ti lety. Jak to vÃ­Å¡?}
+{176}{}{PÅ™ed osmdesÃ¡ti lety nÃ¡Å¡ vault zachrÃ¡nil jeden hrdina a sprÃ¡vce ho potÃ© vyhnal. DalÅ¡Ã­ lidÃ© ho nÃ¡sledovali a uÅ¾ nikdy jsme o nich neslyÅ¡eli. VÅ¡ichni si tu udÃ¡lost pamatujeme s hanbou.}
+{177}{}{Hej! MluvÃ­Å¡ o *mÃ©m* pÅ™edkovi a o lidech, kteÅ™Ã­ pomÃ¡hali zaloÅ¾it moji vesnici. VÅ¡ichni pochÃ¡zeli ze svatÃ©ho Vaultu 13.}
+{178}{}{To byste takÃ© mÄ›li. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{179}{}{MyslÃ­m, Å¾e jste za to zatÃ­m trpÄ›li mÃ¡lo. Sbohem.}
+{180}{}{NeuvÄ›Å™itelnÃ©, to je nÃ¡Å¡ vault! OpÄ›t se musÃ­ lidÃ© z vaultu spolehnout na... eh, tentokrÃ¡t... na pravnuka Zakladatele, aby nÃ¡s zachrÃ¡nil.}
+{181}{}{NeuvÄ›Å™itelnÃ©, to je nÃ¡Å¡ vault! OpÄ›t se musÃ­ lidÃ© z vaultu spolehnout na... eh, tentokrÃ¡t... na pravnuÄku Zakladatele, aby nÃ¡s zachrÃ¡nila.}
+{182}{}{BohuÅ¾el nevÃ­m, jak vÃ¡s mÃ¡m zachrÃ¡nit.}
+{183}{}{Tak to si jeÅ¡tÄ› rozmyslÃ­m.}
+{184}{}{To je ale nÃ¡hodiÄka! Chci se jeÅ¡tÄ› na nÄ›co zeptat.}

@@ -1,80 +1,80 @@
-{100}{}{Vidíš šedovlasého mue v uniformì NCR policie.}
-{101}{}{Vidíš šerifa NCR.}
-{102}{}{Tento mu je názorná ukázka toho, jak by mìl správnı policista vypadat - vlasy na jeka, hranatá èelist a pøímoèaré vystupování.}
-{103}{}{Vítej v NCR, cizinèe. Jmenuju se Dumont, šerif Dumont. Doufám, e si to tady uíváš v míru a poklidu.}
-{104}{}{Pøijmi malou radu od šerifa Dumonta, cizinèe - v tomhle mìstì nemáme rádi lidi, jako jsi ty. Jakékoliv potíe a pùjdu tvrdì po tobì. Mùu pro tebe teï nìco udìlat?}
-{105}{}{Zdravím. Mùu pro tebe nìco udìlat?}
-{106}{}{No tak se vymáèkni.}
+{100}{}{VidÃ­Å¡ Å¡edovlasÃ©ho muÅ¾e v uniformÄ› NCR policie.}
+{101}{}{VidÃ­Å¡ Å¡erifa NCR.}
+{102}{}{Tento muÅ¾ je nÃ¡zornÃ¡ ukÃ¡zka toho, jak by mÄ›l sprÃ¡vnÃ½ policista vypadat - vlasy na jeÅ¾ka, hranatÃ¡ Äelist a pÅ™Ã­moÄarÃ© vystupovÃ¡nÃ­.}
+{103}{}{VÃ­tej v NCR, cizinÄe. Jmenuju se Dumont, Å¡erif Dumont. DoufÃ¡m, Å¾e si to tady uÅ¾Ã­vÃ¡Å¡ v mÃ­ru a poklidu.}
+{104}{}{PÅ™ijmi malou radu od Å¡erifa Dumonta, cizinÄe - v tomhle mÄ›stÄ› nemÃ¡me rÃ¡di lidi, jako jsi ty. JakÃ©koliv potÃ­Å¾e a pÅ¯jdu tvrdÄ› po tobÄ›. MÅ¯Å¾u pro tebe teÄ nÄ›co udÄ›lat?}
+{105}{}{ZdravÃ­m. MÅ¯Å¾u pro tebe nÄ›co udÄ›lat?}
+{106}{}{No tak se vymÃ¡Äkni.}
 {107}{}{Heegh.}
-{108}{}{Hledám Vault 13. Nevíš, kde se nachází?}
-{109}{}{Nemáš GECK?}
-{110}{}{Hledám nìjakou poctivou práci. Nevíš o nìèem?}
-{111}{}{Jo, je tu fajn. Všechno je bájeèné.}
-{112}{}{Primitiv, e? Ty. Otázky? Ptát já. Ano?}
+{108}{}{HledÃ¡m Vault 13. NevÃ­Å¡, kde se nachÃ¡zÃ­?}
+{109}{}{NemÃ¡Å¡ GECK?}
+{110}{}{HledÃ¡m nÄ›jakou poctivou prÃ¡ci. NevÃ­Å¡ o nÄ›Äem?}
+{111}{}{Jo, je tu fajn. VÅ¡echno je bÃ¡jeÄnÃ©.}
+{112}{}{Primitiv, Å¾e? Ty. OtÃ¡zky? PtÃ¡t jÃ¡. Ano?}
 {113}{}{Vault 13?}
 {114}{}{GECK?}
-{115}{}{Dobøe.}
-{116}{}{Ne, to nevím, ale je to nìco, co by ráda vìdìla i prezidentka Tandi. Vyøešilo by nám to spoustu problémù.}
-{117}{}{Problémù? Jakıch problémù?}
+{115}{}{DobÅ™e.}
+{116}{}{Ne, to nevÃ­m, ale je to nÄ›co, co by rÃ¡da vÄ›dÄ›la i prezidentka Tandi. VyÅ™eÅ¡ilo by nÃ¡m to spoustu problÃ©mÅ¯.}
+{117}{}{ProblÃ©mÅ¯? JakÃ½ch problÃ©mÅ¯?}
 {118}{}{Prezidentka Tandi?}
-{119}{}{Dobøe. Jen zkouším štìstí. Díky.}
-{120}{}{Poslyš, já vedu prospìšnı ivot a mám èistı rejstøík! Nemám ádnı GECK ani cokoliv podobného.}
-{121}{}{Tak promiò! Nevíš náhodou, kde se nachází Vault 13?}
-{122}{}{Tak na to zapomeò. U pùjdu.}
-{123}{}{O nìèem bych vìdìl, jestli máš zájem.}
-{124}{}{Dìláš si srandu, ne? Po té události s Jackem? Myslím, e by se urèitì nìjaká slušná práce našla.}
-{125}{}{Napøíklad?}
-{126}{}{Zmìòme téma.}
-{127}{}{Zapomeò na to, odcházím. Sbohem.}
+{119}{}{DobÅ™e. Jen zkouÅ¡Ã­m Å¡tÄ›stÃ­. DÃ­ky.}
+{120}{}{PoslyÅ¡, jÃ¡ vedu prospÄ›Å¡nÃ½ Å¾ivot a mÃ¡m ÄistÃ½ rejstÅ™Ã­k! NemÃ¡m Å¾Ã¡dnÃ½ GECK ani cokoliv podobnÃ©ho.}
+{121}{}{Tak promiÅˆ! NevÃ­Å¡ nÃ¡hodou, kde se nachÃ¡zÃ­ Vault 13?}
+{122}{}{Tak na to zapomeÅˆ. UÅ¾ pÅ¯jdu.}
+{123}{}{O nÄ›Äem bych vÄ›dÄ›l, jestli mÃ¡Å¡ zÃ¡jem.}
+{124}{}{DÄ›lÃ¡Å¡ si srandu, ne? Po tÃ© udÃ¡losti s Jackem? MyslÃ­m, Å¾e by se urÄitÄ› nÄ›jakÃ¡ sluÅ¡nÃ¡ prÃ¡ce naÅ¡la.}
+{125}{}{NapÅ™Ã­klad?}
+{126}{}{ZmÄ›Åˆme tÃ©ma.}
+{127}{}{ZapomeÅˆ na to, odchÃ¡zÃ­m. Sbohem.}
 {128}{}{Ne Vault 13. Vault 15 ano.}
-{129}{}{Pat-náct?}
-{130}{}{Ne. Tøi-náct!}
-{131}{}{Ano, 15! Ty mluvit s Tandi. Velkı náèelník NCR. Tandi znát Vault. Hledat pomoc. Ty jít za Tandi.}
+{129}{}{Pat-nÃ¡ct?}
+{130}{}{Ne. TÅ™i-nÃ¡ct!}
+{131}{}{Ano, 15! Ty mluvit s Tandi. VelkÃ½ nÃ¡ÄelnÃ­k NCR. Tandi znÃ¡t Vault. Hledat pomoc. Ty jÃ­t za Tandi.}
 {132}{}{Tandi?}
-{133}{}{Já nejít. Já chtít 13!}
-{134}{}{Po-slou-chej. ádnı Vault 13. Nenalezen. Nevidìt. Ne 13. Vault 15 - lidé najít. Lidé ít ve Vault 15. Ty rozumìt?}
-{135}{}{Ne tøi-náct? Pat-náct?}
-{136}{}{NE. JÁ CHTÍT TØINÁCT!}
-{137}{}{Ááááá! NENÍ ÁDNÁ 13, TY TUPEJ ZABEDNÌNÈE! ádná 13. Nenalezen. Vùbec! Nikdy!}
-{138}{}{Tandi velkı náèelník. Tandi chtít pomoct. Ty mluvit s Tandi. Jít do kon-gresu. Rozumìt?}
+{133}{}{JÃ¡ nejÃ­t. JÃ¡ chtÃ­t 13!}
+{134}{}{Po-slou-chej. Å½Ã¡dnÃ½ Vault 13. Nenalezen. NevidÄ›t. Ne 13. Vault 15 - lidÃ© najÃ­t. LidÃ© Å¾Ã­t ve Vault 15. Ty rozumÄ›t?}
+{135}{}{Ne tÅ™i-nÃ¡ct? Pat-nÃ¡ct?}
+{136}{}{NE. JÃ CHTÃT TÅ˜INÃCT!}
+{137}{}{ÃÃ¡Ã¡Ã¡Ã¡! NENÃ Å½ÃDNÃ 13, TY TUPEJ ZABEDNÄšNÄŒE! Å½Ã¡dnÃ¡ 13. Nenalezen. VÅ¯bec! Nikdy!}
+{138}{}{Tandi velkÃ½ nÃ¡ÄelnÃ­k. Tandi chtÃ­t pomoct. Ty mluvit s Tandi. JÃ­t do kon-gresu. RozumÄ›t?}
 {139}{}{GECK?}
-{140}{}{Dobøe.}
-{141}{}{Nepotøebovat GECK. Já zdravı. Ne nemocnı.}
+{140}{}{DobÅ™e.}
+{141}{}{NepotÅ™ebovat GECK. JÃ¡ zdravÃ½. Ne nemocnÃ½.}
 {142}{}{Vault 13?}
-{143}{}{Dobøe.}
-{144}{}{Rozhlédni se kolem sebe. NCR se neustále rozrùstá. Potøebujeme souèástky, poèítaèe a tak podobnì. Jenome máme problém se squattery, kteøí se zabydleli ve Vaultu 15.}
-{145}{}{Vault 15? Squatteøi? O co tady jde?}
+{143}{}{DobÅ™e.}
+{144}{}{RozhlÃ©dni se kolem sebe. NCR se neustÃ¡le rozrÅ¯stÃ¡. PotÅ™ebujeme souÄÃ¡stky, poÄÃ­taÄe a tak podobnÄ›. JenomÅ¾e mÃ¡me problÃ©m se squattery, kteÅ™Ã­ se zabydleli ve Vaultu 15.}
+{145}{}{Vault 15? SquatteÅ™i? O co tady jde?}
 {146}{}{Kdo je to ta prezidentka Tandi?}
-{147}{}{Díky za informace.}
-{148}{}{To je pøeci prezidentka NCR, kdo jinı? Musí mít opravdu velké starosti, protoe mì dokonce poádala o to, abych jí pùjèil jednoho ze svıch zástupcù na jednu speciální misi. Ale bohuel nemùu momentálnì nikoho postrádat, take jsem to musel velmi nerad odmítnout.}
-{149}{}{A co tøeba já? Moná bys mì mohl doporuèit.}
-{150}{}{Hmm. Koukám tìkı ivot.}
-{151}{}{Tebe? Hmmm... to by nešlo. Vdy tì ani neznám... ale je pravda, e nìkoho shání, take si s ní mùeš jít promluvit. Její kanceláø je v budovì Kongresu.}
-{152}{}{Díky. Zastavím se tam.}
-{153}{}{Nevíš nìco o vìci zvané GECK?}
-{154}{}{Hmm, to je od tebe sice zatracenì hezké, cizinèe, ale taky zatracenì drzé. Ani nevím, jestli vùbec pocházíš z Adama a Evy a navíc se mi ani trochu nelíbí tvùj pohled! Nikomu tì doporuèovat nebudu. A teï mám nìjakou práci.}
+{147}{}{DÃ­ky za informace.}
+{148}{}{To je pÅ™eci prezidentka NCR, kdo jinÃ½? MusÃ­ mÃ­t opravdu velkÃ© starosti, protoÅ¾e mÄ› dokonce poÅ¾Ã¡dala o to, abych jÃ­ pÅ¯jÄil jednoho ze svÃ½ch zÃ¡stupcÅ¯ na jednu speciÃ¡lnÃ­ misi. Ale bohuÅ¾el nemÅ¯Å¾u momentÃ¡lnÄ› nikoho postrÃ¡dat, takÅ¾e jsem to musel velmi nerad odmÃ­tnout.}
+{149}{}{A co tÅ™eba jÃ¡? MoÅ¾nÃ¡ bys mÄ› mohl doporuÄit.}
+{150}{}{Hmm. KoukÃ¡m tÄ›Å¾kÃ½ Å¾ivot.}
+{151}{}{Tebe? Hmmm... to by neÅ¡lo. VÅ¾dyÅ¥ tÄ› ani neznÃ¡m... ale je pravda, Å¾e nÄ›koho shÃ¡nÃ­, takÅ¾e si s nÃ­ mÅ¯Å¾eÅ¡ jÃ­t promluvit. JejÃ­ kancelÃ¡Å™ je v budovÄ› Kongresu.}
+{152}{}{DÃ­ky. ZastavÃ­m se tam.}
+{153}{}{NevÃ­Å¡ nÄ›co o vÄ›ci zvanÃ© GECK?}
+{154}{}{Hmm, to je od tebe sice zatracenÄ› hezkÃ©, cizinÄe, ale taky zatracenÄ› drzÃ©. Ani nevÃ­m, jestli vÅ¯bec pochÃ¡zÃ­Å¡ z Adama a Evy a navÃ­c se mi ani trochu nelÃ­bÃ­ tvÅ¯j pohled! Nikomu tÄ› doporuÄovat nebudu. A teÄ mÃ¡m nÄ›jakou prÃ¡ci.}
 {155}{}{Well, there's Duppo at the Stockman's. He does the hiring for the brahmin drives. Then there's Mr. Westin. If you talk to him, tell him I sent you. Even President Tandi's been asking around for some help.}
 {156}{}{Duppo up at the Stockman's Association wrangles hands for the brahmin drives. Go try him.}
 {157}{}{Westin?}
 {158}{}{Prezidentka Tandi?}
-{159}{}{Musím jít.}
-{160}{}{Roger Westin. Jeho pozemky se nacházejí v západní èásti mìsta. Má potíe s nìjakımi škùdci. Postaral by se o nì sám, jene jeho zdraví u není to co døív. Jak øíká doktor Jubilee, má špatné srdce.}
+{159}{}{MusÃ­m jÃ­t.}
+{160}{}{Roger Westin. Jeho pozemky se nachÃ¡zejÃ­ v zÃ¡padnÃ­ ÄÃ¡sti mÄ›sta. MÃ¡ potÃ­Å¾e s nÄ›jakÃ½mi Å¡kÅ¯dci. Postaral by se o nÄ› sÃ¡m, jenÅ¾e jeho zdravÃ­ uÅ¾ nenÃ­ to co dÅ™Ã­v. Jak Å™Ã­kÃ¡ doktor Jubilee, mÃ¡ Å¡patnÃ© srdce.}
 {161}{}{Jo?}
-{162}{}{Je v tomhle mìstì nìjaká práce?}
-{163}{}{Zapomeò na to. U pùjdu.}
-{164}{}{Doufám, e to tak zùstane. Sbohem.}
-{165}{}{To byla zatracenì dobrá práce se starım Jackem, cizinèe, a protoe jsem šerif, tak to odteï pøebírám na starost.}
-{166}{}{Je tvùj.}
-{167}{}{Co takhle nìjaká odmìna?}
-{168}{}{No, bohuel pro tebe ádnou odmìnu nemám. Mùu ti jen podìkovat.}
-{169}{}{Poèkej, mám ještì nìjaké otázky.}
-{170}{}{Aha, rozumím. Tak dobøe.}
-{171}{}{Promiò, ale nemùu si s tebou teï povídat. U takhle pøijdu pozdì k soudnímu ohledání mrtvého, i kdy mi to pøijde celkem jasné.}
-{172}{}{Promiò, ale ádnı zloèin, ádnı viník.}
-{173}{}{Pouštní krysy jsou to. Pochop, e koøeny tohohle mìsta sahají a k Vaultu 15. Pøed dávnımi èasy se v nìm nejspíš vyskytl nìjakı problém a ti co pøeili, zaloili Shady Sands, take nám Vault 15 po právu patøí. Jene pøed nìkolika lety se tam nastìhovali nìjací squatteøi a zaèaly zase problémy. Nejlepší bude, kdy si o tom pùjdeš promluvit pøímo s Tandi.}
+{162}{}{Je v tomhle mÄ›stÄ› nÄ›jakÃ¡ prÃ¡ce?}
+{163}{}{ZapomeÅˆ na to. UÅ¾ pÅ¯jdu.}
+{164}{}{DoufÃ¡m, Å¾e to tak zÅ¯stane. Sbohem.}
+{165}{}{To byla zatracenÄ› dobrÃ¡ prÃ¡ce se starÃ½m Jackem, cizinÄe, a protoÅ¾e jsem Å¡erif, tak to odteÄ pÅ™ebÃ­rÃ¡m na starost.}
+{166}{}{Je tvÅ¯j.}
+{167}{}{Co takhle nÄ›jakÃ¡ odmÄ›na?}
+{168}{}{No, bohuÅ¾el pro tebe Å¾Ã¡dnou odmÄ›nu nemÃ¡m. MÅ¯Å¾u ti jen podÄ›kovat.}
+{169}{}{PoÄkej, mÃ¡m jeÅ¡tÄ› nÄ›jakÃ© otÃ¡zky.}
+{170}{}{Aha, rozumÃ­m. Tak dobÅ™e.}
+{171}{}{PromiÅˆ, ale nemÅ¯Å¾u si s tebou teÄ povÃ­dat. UÅ¾ takhle pÅ™ijdu pozdÄ› k soudnÃ­mu ohledÃ¡nÃ­ mrtvÃ©ho, i kdyÅ¾ mi to pÅ™ijde celkem jasnÃ©.}
+{172}{}{PromiÅˆ, ale Å¾Ã¡dnÃ½ zloÄin, Å¾Ã¡dnÃ½ vinÃ­k.}
+{173}{}{PouÅ¡tnÃ­ krysy jsou to. Pochop, Å¾e koÅ™eny tohohle mÄ›sta sahajÃ­ aÅ¾ k Vaultu 15. PÅ™ed dÃ¡vnÃ½mi Äasy se v nÄ›m nejspÃ­Å¡ vyskytl nÄ›jakÃ½ problÃ©m a ti co pÅ™eÅ¾ili, zaloÅ¾ili Shady Sands, takÅ¾e nÃ¡m Vault 15 po prÃ¡vu patÅ™Ã­. JenÅ¾e pÅ™ed nÄ›kolika lety se tam nastÄ›hovali nÄ›jacÃ­ squatteÅ™i a zaÄaly zase problÃ©my. NejlepÅ¡Ã­ bude, kdyÅ¾ si o tom pÅ¯jdeÅ¡ promluvit pÅ™Ã­mo s Tandi.}
 {174}{}{Tandi?}
-{175}{}{Beru na vìdomí.}
-{176}{}{Nevím o ádné další práci.}
+{175}{}{Beru na vÄ›domÃ­.}
+{176}{}{NevÃ­m o Å¾Ã¡dnÃ© dalÅ¡Ã­ prÃ¡ci.}
 {177}{}{Duppo up at the Stockman's Association wrangles hands for the brahmin drives. President Tandi's been asking around for some help.}
-{178}{}{Kdokoliv jinı s tvou reputací by radìji opustil tohle mìsto, nato aby tady ještì hledal práci.}
+{178}{}{Kdokoliv jinÃ½ s tvou reputacÃ­ by radÄ›ji opustil tohle mÄ›sto, natoÅ¾ aby tady jeÅ¡tÄ› hledal prÃ¡ci.}
 {179}{}{Duppo up at the Stockman's Association wrangles hands for the brahmin drives. Go try him. Then there's Mr. Westin. If you talk to him, tell him I sent you.}

@@ -1,9 +1,9 @@
-{100}{}{Vidíš odpornì znetvoøeného "èlovìka".}
-{101}{}{Vidíš nešastníka obdaøeného bizarními zvíøecími rysy. Zdá se, e pøímo šílí hlady.}
+{100}{}{VidÃ­Å¡ odpornÄ› znetvoÅ™enÃ©ho "ÄlovÄ›ka".}
+{101}{}{VidÃ­Å¡ neÅ¡Å¥astnÃ­ka obdaÅ™enÃ©ho bizarnÃ­mi zvÃ­Å™ecÃ­mi rysy. ZdÃ¡ se, Å¾e pÅ™Ã­mo Å¡Ã­lÃ­ hlady.}
 {200}{}{Urgh!}
-{201}{}{Jíííst!}
-{202}{}{*vrèí*}
+{201}{}{JÃ­Ã­Ã­st!}
+{202}{}{*vrÄÃ­*}
 {203}{}{Grrr!}
-{204}{}{Chtít jídlo!}
-{205}{}{Zabíííít! Najííííst!}
-{206}{}{*slintá*}
+{204}{}{ChtÃ­t jÃ­dlo!}
+{205}{}{ZabÃ­Ã­Ã­Ã­t! NajÃ­Ã­Ã­Ã­st!}
+{206}{}{*slintÃ¡*}

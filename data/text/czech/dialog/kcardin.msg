@@ -1,190 +1,190 @@
-{100}{}{Vidíš statnou starší enu s unavenım vırazem v oblièeji.}
-{101}{}{Vidíš Ardin Bucknerovou, majitelku hospody U Bucknerové.}
-{102}{}{Vidíš èilou enu ve velmi dobré kondici, které bude kolem padesáti let.}
-{110}{}{Našel jste mého Smileyho. Mockrát vám dìkuji! U jsem si myslela, e je mrtvı. Jsem na nìj tak naštvaná! Myslím, e u Sulika potøebovat nebudeme, kdy je teï Smiley zpátky.}
-{111}{}{Geckon kousnout Smiley. Smiley bebí.}
-{112}{}{Rádo se stalo. Jsem rád, e necháte jít Sulika.}
-{113}{}{Myslím, e dá stejnì pøednost vám pøed geckony. Povìzte mi ještì o nìèem jiném.}
-{114}{}{Nebuïte na nìj tak pøísná. Víte, on si to taky zrovna dvakrát neuíval. Sbohem.}
-{120}{}{Slyšela jsem, e jste ublíil mému chlapci Torrovi. Nevím pøesnì, co se stalo, ale u vás tu nechci ani vidìt. A teï vypadnìte.}
-{130}{}{Zdravím. Moje jméno je Ardin Bucknerová a tohle je dùm Bucknerovıch.}
-{131}{}{Blééé. Fujtajbl}
-{132}{}{Pìkná, pìkná dùm.}
-{140}{}{Pøipomínáte mi mého chlapce Torra. Vsadím se, e by z vás mohli bıt kamarádi. Proè za ním nejdete a nepopovídáte si spolu? Sbohem.}
-{150}{}{Zdravím. Moje jméno je Ardin Bucknerová a toto je mùj podnik. Nevidìl jste nìkde v okolí mìsta lovce Smileyho? (Napùl pro sebe.) U je pryè hroznì dlouho. Nikdy jsem mu nemìla dovolit, aby odešel na tu svoji nesmyslnou vıpravu.}
-{151}{}{Smiley? Ne, ádného takového lovce jsem nevidìl. Povìzte mi o nìm.}
-{152}{}{Teï potøebuju nìco jiného.}
-{153}{}{Zdravím, Ardin. Myslím, e pùjdu zase dál. Sbohem.}
-{160}{}{O tom si promluvte s mojí dcerou Maidou. Moc nesleduji, co se tu poslední dobou dìje. Jsem pøíliš zamìstnána dohlíením na svùj podnik.}
-{161}{}{Aha, dobøe, promluvím si s ní. Potøebuju ještì nìjaké informace.}
-{162}{}{Dobøe, pùjdu si s ní promluvit. Sbohem.}
-{170}{}{Doufám, e tu nechcete nìco provést. Co chcete?}
-{171}{}{Jak vám mohu pomoci, pøíteli?}
-{172}{}{Povìzte mi o lovci jménem Smiley.}
-{173}{}{Myslím, e vy budete ta pravá osoba, od které se dozvím nìjaké místní novinky a drby.}
-{174}{}{Potøebuju pokoj, prosím.}
-{175}{}{Potøebujeme pokoj, prosím.}
-{176}{}{Chci si nìco koupit.}
-{177}{}{Myslím, e teï nic nepotøebuju. Sbohem.}
-{180}{}{Víte, mezi mnou a Smileym to zaèalo bıt docela váné. Myslela jsem si, e u jsem ho koneènì pøesvìdèila, aby se tu usadil a pomohl mi s mım podnikem. Jene mi øekl, e musí ještì odejít na jednu vıpravu.}
-{181}{}{Vıpravu?}
-{190}{}{Nabízím tu jen pokoje. Jestli chcete nìco koupit nebo vymìnit, promluvte si s mojí dcerou Maidou.}
-{191}{}{Aha, dobøe. Povìzte mi ještì o nìèem jiném.}
-{192}{}{Díky. Sbohem.}
-{200}{}{Máme teï plno. Lituji.}
-{201}{}{Dobøe, podívám se...jeden volnı pokoj tu máme. Bude to za $25.}
-{202}{}{Vezmu si ho. Tady je tìch $25. Díky.}
-{203}{}{Myslím, e ho zrovna teï nechci. Mùu se zeptat na nìco jiného?}
-{204}{}{Myslím, e ten pokoj vlastnì nepotøebuju. Sbohem.}
-{210}{}{Obávám se, e na to nemáte dost penìz.}
-{211}{}{A sakra. Mám nìjakou lehkou šrajtofli. Mùu se zeptat na nìco jiného?}
-{212}{}{Omlouvám se. Pùjdu si nìjaké vydìlat. Sbohem.}
-{220}{}{Dìkuji vám. Dìkuji vám za nalezení mého chlapce. U jsem si myslela, e toho hlupáèka nikdy neuvidíme.}
-{221}{}{Torr pøítel.}
-{222}{}{Rádo se stalo.}
-{223}{}{Neøíkal nìkdo nìco o odmìnì?}
-{230}{}{Dobøe, dìkuji vám. Myslím, e by se vám mohl hodit alespoò trochu chytrı spoleèník na cesty. Promluvím s Maidou ohlednì propuštìní Sulika.}
-{231}{}{Dobøe, jen nevím, jak vám za to dostateènì podìkovat.}
-{232}{}{Torr pøítel }
-{233}{}{Není tøeba dìkovat. Byla to pro mì samozøejmost.}
-{234}{}{No, peníze jsou vdy dobrı zpùsob jak vyjádøit díky.}
-{235}{}{Staèilo by, kdybyste odpustila Sulikovi dluh.}
-{236}{}{. Sulik pøítel?}
-{240}{}{Promluvím s Maidou a ona u to se Sulikem vyøeší. Moná byste si s ní mìl také promluvit.}
+{100}{}{VidÃ­Å¡ statnou starÅ¡Ã­ Å¾enu s unavenÃ½m vÃ½razem v obliÄeji.}
+{101}{}{VidÃ­Å¡ Ardin Bucknerovou, majitelku hospody U BucknerovÃ©.}
+{102}{}{VidÃ­Å¡ Äilou Å¾enu ve velmi dobrÃ© kondici, kterÃ© bude kolem padesÃ¡ti let.}
+{110}{}{NaÅ¡el jste mÃ©ho Smileyho. MockrÃ¡t vÃ¡m dÄ›kuji! UÅ¾ jsem si myslela, Å¾e je mrtvÃ½. Jsem na nÄ›j tak naÅ¡tvanÃ¡! MyslÃ­m, Å¾e uÅ¾ Sulika potÅ™ebovat nebudeme, kdyÅ¾ je teÄ Smiley zpÃ¡tky.}
+{111}{}{Geckon kousnout Smiley. Smiley bebÃ­.}
+{112}{}{RÃ¡do se stalo. Jsem rÃ¡d, Å¾e nechÃ¡te jÃ­t Sulika.}
+{113}{}{MyslÃ­m, Å¾e dÃ¡ stejnÄ› pÅ™ednost vÃ¡m pÅ™ed geckony. PovÄ›zte mi jeÅ¡tÄ› o nÄ›Äem jinÃ©m.}
+{114}{}{NebuÄte na nÄ›j tak pÅ™Ã­snÃ¡. VÃ­te, on si to taky zrovna dvakrÃ¡t neuÅ¾Ã­val. Sbohem.}
+{120}{}{SlyÅ¡ela jsem, Å¾e jste ublÃ­Å¾il mÃ©mu chlapci Torrovi. NevÃ­m pÅ™esnÄ›, co se stalo, ale uÅ¾ vÃ¡s tu nechci ani vidÄ›t. A teÄ vypadnÄ›te.}
+{130}{}{ZdravÃ­m. Moje jmÃ©no je Ardin BucknerovÃ¡ a tohle je dÅ¯m BucknerovÃ½ch.}
+{131}{}{BlÃ©Ã©Ã©. Fujtajbl}
+{132}{}{PÄ›knÃ¡, pÄ›knÃ¡ dÅ¯m.}
+{140}{}{PÅ™ipomÃ­nÃ¡te mi mÃ©ho chlapce Torra. VsadÃ­m se, Å¾e by z vÃ¡s mohli bÃ½t kamarÃ¡di. ProÄ za nÃ­m nejdete a nepopovÃ­dÃ¡te si spolu? Sbohem.}
+{150}{}{ZdravÃ­m. Moje jmÃ©no je Ardin BucknerovÃ¡ a toto je mÅ¯j podnik. NevidÄ›l jste nÄ›kde v okolÃ­ mÄ›sta lovce Smileyho? (NapÅ¯l pro sebe.) UÅ¾ je pryÄ hroznÄ› dlouho. Nikdy jsem mu nemÄ›la dovolit, aby odeÅ¡el na tu svoji nesmyslnou vÃ½pravu.}
+{151}{}{Smiley? Ne, Å¾Ã¡dnÃ©ho takovÃ©ho lovce jsem nevidÄ›l. PovÄ›zte mi o nÄ›m.}
+{152}{}{TeÄ potÅ™ebuju nÄ›co jinÃ©ho.}
+{153}{}{ZdravÃ­m, Ardin. MyslÃ­m, Å¾e pÅ¯jdu zase dÃ¡l. Sbohem.}
+{160}{}{O tom si promluvte s mojÃ­ dcerou Maidou. Moc nesleduji, co se tu poslednÃ­ dobou dÄ›je. Jsem pÅ™Ã­liÅ¡ zamÄ›stnÃ¡na dohlÃ­Å¾enÃ­m na svÅ¯j podnik.}
+{161}{}{Aha, dobÅ™e, promluvÃ­m si s nÃ­. PotÅ™ebuju jeÅ¡tÄ› nÄ›jakÃ© informace.}
+{162}{}{DobÅ™e, pÅ¯jdu si s nÃ­ promluvit. Sbohem.}
+{170}{}{DoufÃ¡m, Å¾e tu nechcete nÄ›co provÃ©st. Co chcete?}
+{171}{}{Jak vÃ¡m mohu pomoci, pÅ™Ã­teli?}
+{172}{}{PovÄ›zte mi o lovci jmÃ©nem Smiley.}
+{173}{}{MyslÃ­m, Å¾e vy budete ta pravÃ¡ osoba, od kterÃ© se dozvÃ­m nÄ›jakÃ© mÃ­stnÃ­ novinky a drby.}
+{174}{}{PotÅ™ebuju pokoj, prosÃ­m.}
+{175}{}{PotÅ™ebujeme pokoj, prosÃ­m.}
+{176}{}{Chci si nÄ›co koupit.}
+{177}{}{MyslÃ­m, Å¾e teÄ nic nepotÅ™ebuju. Sbohem.}
+{180}{}{VÃ­te, mezi mnou a Smileym to zaÄalo bÃ½t docela vÃ¡Å¾nÃ©. Myslela jsem si, Å¾e uÅ¾ jsem ho koneÄnÄ› pÅ™esvÄ›dÄila, aby se tu usadil a pomohl mi s mÃ½m podnikem. JenÅ¾e mi Å™ekl, Å¾e musÃ­ jeÅ¡tÄ› odejÃ­t na jednu vÃ½pravu.}
+{181}{}{VÃ½pravu?}
+{190}{}{NabÃ­zÃ­m tu jen pokoje. Jestli chcete nÄ›co koupit nebo vymÄ›nit, promluvte si s mojÃ­ dcerou Maidou.}
+{191}{}{Aha, dobÅ™e. PovÄ›zte mi jeÅ¡tÄ› o nÄ›Äem jinÃ©m.}
+{192}{}{DÃ­ky. Sbohem.}
+{200}{}{MÃ¡me teÄ plno. Lituji.}
+{201}{}{DobÅ™e, podÃ­vÃ¡m se...jeden volnÃ½ pokoj tu mÃ¡me. Bude to za $25.}
+{202}{}{Vezmu si ho. Tady je tÄ›ch $25. DÃ­ky.}
+{203}{}{MyslÃ­m, Å¾e ho zrovna teÄ nechci. MÅ¯Å¾u se zeptat na nÄ›co jinÃ©ho?}
+{204}{}{MyslÃ­m, Å¾e ten pokoj vlastnÄ› nepotÅ™ebuju. Sbohem.}
+{210}{}{ObÃ¡vÃ¡m se, Å¾e na to nemÃ¡te dost penÄ›z.}
+{211}{}{A sakra. MÃ¡m nÄ›jakou lehkou Å¡rajtofli. MÅ¯Å¾u se zeptat na nÄ›co jinÃ©ho?}
+{212}{}{OmlouvÃ¡m se. PÅ¯jdu si nÄ›jakÃ© vydÄ›lat. Sbohem.}
+{220}{}{DÄ›kuji vÃ¡m. DÄ›kuji vÃ¡m za nalezenÃ­ mÃ©ho chlapce. UÅ¾ jsem si myslela, Å¾e toho hlupÃ¡Äka nikdy neuvidÃ­me.}
+{221}{}{Torr pÅ™Ã­tel.}
+{222}{}{RÃ¡do se stalo.}
+{223}{}{NeÅ™Ã­kal nÄ›kdo nÄ›co o odmÄ›nÄ›?}
+{230}{}{DobÅ™e, dÄ›kuji vÃ¡m. MyslÃ­m, Å¾e by se vÃ¡m mohl hodit alespoÅˆ trochu chytrÃ½ spoleÄnÃ­k na cesty. PromluvÃ­m s Maidou ohlednÄ› propuÅ¡tÄ›nÃ­ Sulika.}
+{231}{}{DobÅ™e, jen nevÃ­m, jak vÃ¡m za to dostateÄnÄ› podÄ›kovat.}
+{232}{}{Torr pÅ™Ã­tel }
+{233}{}{NenÃ­ tÅ™eba dÄ›kovat. Byla to pro mÄ› samozÅ™ejmost.}
+{234}{}{No, penÃ­ze jsou vÅ¾dy dobrÃ½ zpÅ¯sob jak vyjÃ¡dÅ™it dÃ­ky.}
+{235}{}{StaÄilo by, kdybyste odpustila Sulikovi dluh.}
+{236}{}{. Sulik pÅ™Ã­tel?}
+{240}{}{PromluvÃ­m s Maidou a ona uÅ¾ to se Sulikem vyÅ™eÅ¡Ã­. MoÅ¾nÃ¡ byste si s nÃ­ mÄ›l takÃ© promluvit.}
 {241}{}{Maida pustit Sulik. Maida }
-{242}{}{Dìkuji vám. Myslím, e bude Sulik vdìènı, kdy mu odpustíte jeho dluh. Pùjdu si hned promluvit s Maidou. Sbohem.}
-{243}{}{Jsem rád, e u Sulika nepotøebujete. Chci se ještì na nìco zeptat.}
-{244}{}{ pøítel.}
-{250}{}{Nemám toho moc, ale tady je $100. Pøála bych si, abych vám mohla dát víc, ale pøišli jsme o vìtšinu brahmín, take si víc dovolit nemohu. Je mi líto.}
-{251}{}{Díky, paní Bucknerová. Sbohem.}
-{252}{}{Moná bych si mìl vybrat jinou odmìnu.}
-{260}{}{No, urèitì tu musí bıt nìco, èím bych vám mohla prokázat svoji vdìènost. Hmm, odpustím Sulikovi dluh. Mùe jít. Zdá se, e ne se všemi divochy jsou potíe.}
-{261}{}{To zní dobøe. Sbohem.}
-{262}{}{Hmm, moná bych si mìl vybrat jinou odmìnu.}
-{270}{}{U nevím, co si mám myslet. Mùj chlapec Torr se ztratil. Pøeju si, aby mi ho nìkdo pomohl najít. Ještì nikdy nebyl pryè tak dlouho.}
+{242}{}{DÄ›kuji vÃ¡m. MyslÃ­m, Å¾e bude Sulik vdÄ›ÄnÃ½, kdyÅ¾ mu odpustÃ­te jeho dluh. PÅ¯jdu si hned promluvit s Maidou. Sbohem.}
+{243}{}{Jsem rÃ¡d, Å¾e uÅ¾ Sulika nepotÅ™ebujete. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{244}{}{ pÅ™Ã­tel.}
+{250}{}{NemÃ¡m toho moc, ale tady je $100. PÅ™Ã¡la bych si, abych vÃ¡m mohla dÃ¡t vÃ­c, ale pÅ™iÅ¡li jsme o vÄ›tÅ¡inu brahmÃ­n, takÅ¾e si vÃ­c dovolit nemohu. Je mi lÃ­to.}
+{251}{}{DÃ­ky, panÃ­ BucknerovÃ¡. Sbohem.}
+{252}{}{MoÅ¾nÃ¡ bych si mÄ›l vybrat jinou odmÄ›nu.}
+{260}{}{No, urÄitÄ› tu musÃ­ bÃ½t nÄ›co, ÄÃ­m bych vÃ¡m mohla prokÃ¡zat svoji vdÄ›Änost. Hmm, odpustÃ­m Sulikovi dluh. MÅ¯Å¾e jÃ­t. ZdÃ¡ se, Å¾e ne se vÅ¡emi divochy jsou potÃ­Å¾e.}
+{261}{}{To znÃ­ dobÅ™e. Sbohem.}
+{262}{}{Hmm, moÅ¾nÃ¡ bych si mÄ›l vybrat jinou odmÄ›nu.}
+{270}{}{UÅ¾ nevÃ­m, co si mÃ¡m myslet. MÅ¯j chlapec Torr se ztratil. PÅ™eju si, aby mi ho nÄ›kdo pomohl najÃ­t. JeÅ¡tÄ› nikdy nebyl pryÄ tak dlouho.}
 {271}{}{Torr?}
 {272}{}{Co se stalo?}
-{273}{}{To je sice hezké, dámo, jene teï potøebuju nìco já od vás.}
-{274}{}{Vidím, e máte práci. Pøijdu pozdìji. Sbohem.}
-{280}{}{Odešel vèera veèer. Dostala jsem na nìj vztek po tom, co jsme ztratili nìkolik dalších brahmín. U si prostì nemùeme dovolit ztratit ani jednu, ale on stále mluvil o tom, e je všechny odvlekli lido-brouci. Blázínek jeden.}
-{281}{}{Torr jít kam?}
-{282}{}{Myslím, e mìli bratøi Duntonovi nìco spoleèného se ztrácením brahmín. Nemìla byste bıt na Torra tak pøísná. Kam myslíte, e mohl jít?}
-{283}{}{Kam myslíte, e mohl jít?}
-{290}{}{No, poøád øíkal, e hodlá jít tam, kde ijí ti lido-brouci. Víte, na vıchod od brahmíních pastvin leí kaòon. Nedávno se odtamtud ozıvaly podivné zvuky.}
+{273}{}{To je sice hezkÃ©, dÃ¡mo, jenÅ¾e teÄ potÅ™ebuju nÄ›co jÃ¡ od vÃ¡s.}
+{274}{}{VidÃ­m, Å¾e mÃ¡te prÃ¡ci. PÅ™ijdu pozdÄ›ji. Sbohem.}
+{280}{}{OdeÅ¡el vÄera veÄer. Dostala jsem na nÄ›j vztek po tom, co jsme ztratili nÄ›kolik dalÅ¡Ã­ch brahmÃ­n. UÅ¾ si prostÄ› nemÅ¯Å¾eme dovolit ztratit ani jednu, ale on stÃ¡le mluvil o tom, Å¾e je vÅ¡echny odvlekli lido-brouci. BlÃ¡zÃ­nek jeden.}
+{281}{}{Torr jÃ­t kam?}
+{282}{}{MyslÃ­m, Å¾e mÄ›li bratÅ™i Duntonovi nÄ›co spoleÄnÃ©ho se ztrÃ¡cenÃ­m brahmÃ­n. NemÄ›la byste bÃ½t na Torra tak pÅ™Ã­snÃ¡. Kam myslÃ­te, Å¾e mohl jÃ­t?}
+{283}{}{Kam myslÃ­te, Å¾e mohl jÃ­t?}
+{290}{}{No, poÅ™Ã¡d Å™Ã­kal, Å¾e hodlÃ¡ jÃ­t tam, kde Å¾ijÃ­ ti lido-brouci. VÃ­te, na vÃ½chod od brahmÃ­nÃ­ch pastvin leÅ¾Ã­ kaÅˆon. NedÃ¡vno se odtamtud ozÃ½valy podivnÃ© zvuky.}
 {291}{}{Zvuky?}
-{300}{}{Dìkuji vám, e se pokusíte najít mého chlapce. Doufám, e ho najdete. Mám o nìj velkı strach. Pospìšte si prosím.}
-{301}{}{Dobøe.}
-{310}{}{U se vám podaøilo najít mého chlapce? Nevím, jak dlouho tam venku sám pøeije. Prosím, najdìte ho.}
+{300}{}{DÄ›kuji vÃ¡m, Å¾e se pokusÃ­te najÃ­t mÃ©ho chlapce. DoufÃ¡m, Å¾e ho najdete. MÃ¡m o nÄ›j velkÃ½ strach. PospÄ›Å¡te si prosÃ­m.}
+{301}{}{DobÅ™e.}
+{310}{}{UÅ¾ se vÃ¡m podaÅ™ilo najÃ­t mÃ©ho chlapce? NevÃ­m, jak dlouho tam venku sÃ¡m pÅ™eÅ¾ije. ProsÃ­m, najdÄ›te ho.}
 {311}{}{Torr?}
-{312}{}{Budu dál pátrat, ale nejdøív nìco potøebuju.}
-{313}{}{Jen zjišuju, jestli se u náhodou nevrátil. Budu pokraèovat v hledání. Sbohem.}
-{320}{}{Torr si byl jistı, e pøesnì tam lido-brouci odvádìjí naše brahmíny. Také øíkal nìco o tom, e nám chce dokázat, e není takovı hlupák. Ké by mi nìkdo pøivedl mého chlapce zpátky.}
-{321}{}{Torr kaòon. }
-{322}{}{Ne jít Torr.}
-{323}{}{To vypadá, e bude nejlepší zaèít s hledáním v tom kaòonu. Pùjdu se podívat po vašem chlapci, paní Bucknerová.}
-{324}{}{Strašnì rád bych pomohl, jene mám teï zrovna moc práce. Jsem si jistı, e si Torr sám poradí. Sbohem.}
-{325}{}{ jít Torr.}
-{330}{}{No, nazval to vıpravou. Øekl mi, e asi ví, odkud se berou všichni zlatí geckoni a e to místo chce pro jistotu najít. Domníval se, e se moná jedná o nìjakı druh magického pramene, nebo moná skrytou jeskyni, èi nìjakı druh vaultu.}
+{312}{}{Budu dÃ¡l pÃ¡trat, ale nejdÅ™Ã­v nÄ›co potÅ™ebuju.}
+{313}{}{Jen zjiÅ¡Å¥uju, jestli se uÅ¾ nÃ¡hodou nevrÃ¡til. Budu pokraÄovat v hledÃ¡nÃ­. Sbohem.}
+{320}{}{Torr si byl jistÃ½, Å¾e pÅ™esnÄ› tam lido-brouci odvÃ¡dÄ›jÃ­ naÅ¡e brahmÃ­ny. TakÃ© Å™Ã­kal nÄ›co o tom, Å¾e nÃ¡m chce dokÃ¡zat, Å¾e nenÃ­ takovÃ½ hlupÃ¡k. KÃ©Å¾ by mi nÄ›kdo pÅ™ivedl mÃ©ho chlapce zpÃ¡tky.}
+{321}{}{Torr kaÅˆon. }
+{322}{}{Ne jÃ­t Torr.}
+{323}{}{To vypadÃ¡, Å¾e bude nejlepÅ¡Ã­ zaÄÃ­t s hledÃ¡nÃ­m v tom kaÅˆonu. PÅ¯jdu se podÃ­vat po vaÅ¡em chlapci, panÃ­ BucknerovÃ¡.}
+{324}{}{StraÅ¡nÄ› rÃ¡d bych pomohl, jenÅ¾e mÃ¡m teÄ zrovna moc prÃ¡ce. Jsem si jistÃ½, Å¾e si Torr sÃ¡m poradÃ­. Sbohem.}
+{325}{}{ jÃ­t Torr.}
+{330}{}{No, nazval to vÃ½pravou. Å˜ekl mi, Å¾e asi vÃ­, odkud se berou vÅ¡ichni zlatÃ­ geckoni a Å¾e to mÃ­sto chce pro jistotu najÃ­t. DomnÃ­val se, Å¾e se moÅ¾nÃ¡ jednÃ¡ o nÄ›jakÃ½ druh magickÃ©ho pramene, nebo moÅ¾nÃ¡ skrytou jeskyni, Äi nÄ›jakÃ½ druh vaultu.}
 {331}{}{Hmmm.}
-{340}{}{No, nevím úplnì pøesnì, co všechno øíkal, ale vypadal opravdu nadšenì. Nemìla jsem ho nechat odejít. Má u dva tıdny zpodìní a dìlám si o nìj strach.}
-{341}{}{Rád pomùu. Mùu se po nìm podívat.}
-{342}{}{To nerad slyším. Mùu se zeptat na nìco jiného?}
-{343}{}{To je opravdu nemilé, paní Bucknerová. Moná od vás jen utekl. A taky asi vím proè. Sbohem.}
-{350}{}{Ach, dìkuji vám. Vyznaèím vám na mapì to místo, kde chtìl hledat. Pevnì vìøím, e ho najdete. Není dokonalı, ale poøád ho miluji a stıská se mi po nìm víc, ne jsem si myslela. Prosím, najdìte ho.}
-{351}{}{Udìlám, co budu moct. Mùu se ale nejdøív na nìco zeptat?}
-{352}{}{Udìlám pro to vše, co bude v mıch silách, paní Bucknerová. Sbohem.}
-{353}{}{Víte, myslím, e vám teï nemùu pomoct. Sbohem.}
-{360}{}{U se vám podaøilo najít mého Smileyho?}
-{361}{}{Bohuel, paní Bucknerová. Stále po nìm pátrám. Mùu se nejdøív na nìco zeptat?}
-{362}{}{Ne, ale právì se ho chystám hledat. Sbohem.}
-{370}{}{Vìdìla jsem, e se mému ubohému chlapci Torrovi muselo pøihodit nìco strašného. Spoléhala jsem na to (vzlyk), e ho najdete, ne bude pozdì. Ubohı, prostoduchı chlapec. Nechápu, proè jsem na vás spoléhala.}
-{371}{}{Ké byste mi bıval pomohl najít mého ubohého chlapce Torra. Taková dobrá duše to byla a teï je urèitì mrtvı. Bude mi moc chybìt.}
-{372}{}{Promiòte, paní Bucknerová. Udìlal jsem vše, co bylo v mıch silách, abych ho pro vás našel. Eh, ještì od vás nìco potøebuju.}
-{373}{}{Mùu vám pomoct získat jeho ostatky. Sbohem.}
-{374}{}{Torr? Kdo Torr? (pokrèíš rameny) Sbohem.}
-{375}{}{Je mi líto, chtìl jsem pomoct, ale nešlo to. Eh, nerad se o tom zmiòuju zrovna v takové chvíli, ale nìco od vás potøebuju.}
-{376}{}{Radìji pøijdu jindy. Sbohem.}
-{380}{}{No, to mì ani nepøekvapuje. Ach ne, køièela jsem na mého ubohého chlapce, i kdy to nebyla jeho chyba. (vzlyk) Já ty Duntonovi dostanu. Tentokrát zašli pøíliš daleko.}
-{381}{}{To je mi opravdu líto. Kam myslíte, e Torr šel?}
-{390}{}{Dobøe.}
-{400}{}{Našel jste Smileyho? Kde je?}
-{401}{}{Kdo? Aha, eh, ne. Nevím, kam šel. Ehm, mùu se zeptat na nìco jiného?}
-{402}{}{Je mrtvı. Serali ho geckoni.}
-{403}{}{Já, eh, potkal jsem ho. Øíkal, e utíká s jinou enou. Páni! To je ale hodin. Musím bìet.}
-{404}{}{Eh, já, eh, my, to je... eh, ne. Poøád po nìm pátrám. Urèitì se brzy objeví. Eh, sbohem.}
+{340}{}{No, nevÃ­m ÃºplnÄ› pÅ™esnÄ›, co vÅ¡echno Å™Ã­kal, ale vypadal opravdu nadÅ¡enÄ›. NemÄ›la jsem ho nechat odejÃ­t. MÃ¡ uÅ¾ dva tÃ½dny zpoÅ¾dÄ›nÃ­ a dÄ›lÃ¡m si o nÄ›j strach.}
+{341}{}{RÃ¡d pomÅ¯Å¾u. MÅ¯Å¾u se po nÄ›m podÃ­vat.}
+{342}{}{To nerad slyÅ¡Ã­m. MÅ¯Å¾u se zeptat na nÄ›co jinÃ©ho?}
+{343}{}{To je opravdu nemilÃ©, panÃ­ BucknerovÃ¡. MoÅ¾nÃ¡ od vÃ¡s jen utekl. A taky asi vÃ­m proÄ. Sbohem.}
+{350}{}{Ach, dÄ›kuji vÃ¡m. VyznaÄÃ­m vÃ¡m na mapÄ› to mÃ­sto, kde chtÄ›l hledat. PevnÄ› vÄ›Å™Ã­m, Å¾e ho najdete. NenÃ­ dokonalÃ½, ale poÅ™Ã¡d ho miluji a stÃ½skÃ¡ se mi po nÄ›m vÃ­c, neÅ¾ jsem si myslela. ProsÃ­m, najdÄ›te ho.}
+{351}{}{UdÄ›lÃ¡m, co budu moct. MÅ¯Å¾u se ale nejdÅ™Ã­v na nÄ›co zeptat?}
+{352}{}{UdÄ›lÃ¡m pro to vÅ¡e, co bude v mÃ½ch silÃ¡ch, panÃ­ BucknerovÃ¡. Sbohem.}
+{353}{}{VÃ­te, myslÃ­m, Å¾e vÃ¡m teÄ nemÅ¯Å¾u pomoct. Sbohem.}
+{360}{}{UÅ¾ se vÃ¡m podaÅ™ilo najÃ­t mÃ©ho Smileyho?}
+{361}{}{BohuÅ¾el, panÃ­ BucknerovÃ¡. StÃ¡le po nÄ›m pÃ¡trÃ¡m. MÅ¯Å¾u se nejdÅ™Ã­v na nÄ›co zeptat?}
+{362}{}{Ne, ale prÃ¡vÄ› se ho chystÃ¡m hledat. Sbohem.}
+{370}{}{VÄ›dÄ›la jsem, Å¾e se mÃ©mu ubohÃ©mu chlapci Torrovi muselo pÅ™ihodit nÄ›co straÅ¡nÃ©ho. SpolÃ©hala jsem na to (vzlyk), Å¾e ho najdete, neÅ¾ bude pozdÄ›. UbohÃ½, prostoduchÃ½ chlapec. NechÃ¡pu, proÄ jsem na vÃ¡s spolÃ©hala.}
+{371}{}{KÃ©Å¾ byste mi bÃ½val pomohl najÃ­t mÃ©ho ubohÃ©ho chlapce Torra. TakovÃ¡ dobrÃ¡ duÅ¡e to byla a teÄ je urÄitÄ› mrtvÃ½. Bude mi moc chybÄ›t.}
+{372}{}{PromiÅˆte, panÃ­ BucknerovÃ¡. UdÄ›lal jsem vÅ¡e, co bylo v mÃ½ch silÃ¡ch, abych ho pro vÃ¡s naÅ¡el. Eh, jeÅ¡tÄ› od vÃ¡s nÄ›co potÅ™ebuju.}
+{373}{}{MÅ¯Å¾u vÃ¡m pomoct zÃ­skat jeho ostatky. Sbohem.}
+{374}{}{Torr? Kdo Torr? (pokrÄÃ­Å¡ rameny) Sbohem.}
+{375}{}{Je mi lÃ­to, chtÄ›l jsem pomoct, ale neÅ¡lo to. Eh, nerad se o tom zmiÅˆuju zrovna v takovÃ© chvÃ­li, ale nÄ›co od vÃ¡s potÅ™ebuju.}
+{376}{}{RadÄ›ji pÅ™ijdu jindy. Sbohem.}
+{380}{}{No, to mÄ› ani nepÅ™ekvapuje. Ach ne, kÅ™iÄela jsem na mÃ©ho ubohÃ©ho chlapce, i kdyÅ¾ to nebyla jeho chyba. (vzlyk) JÃ¡ ty Duntonovi dostanu. TentokrÃ¡t zaÅ¡li pÅ™Ã­liÅ¡ daleko.}
+{381}{}{To je mi opravdu lÃ­to. Kam myslÃ­te, Å¾e Torr Å¡el?}
+{390}{}{DobÅ™e.}
+{400}{}{NaÅ¡el jste Smileyho? Kde je?}
+{401}{}{Kdo? Aha, eh, ne. NevÃ­m, kam Å¡el. Ehm, mÅ¯Å¾u se zeptat na nÄ›co jinÃ©ho?}
+{402}{}{Je mrtvÃ½. SeÅ¾rali ho geckoni.}
+{403}{}{JÃ¡, eh, potkal jsem ho. Å˜Ã­kal, Å¾e utÃ­kÃ¡ s jinou Å¾enou. PÃ¡ni! To je ale hodin. MusÃ­m bÄ›Å¾et.}
+{404}{}{Eh, jÃ¡, eh, my, to je... eh, ne. PoÅ™Ã¡d po nÄ›m pÃ¡trÃ¡m. UrÄitÄ› se brzy objevÃ­. Eh, sbohem.}
 {410}{}{Eaten by geckos? I just don't believe you. Geckos would never catch my Smiley, he's too good a trapper for that. You must be mistaken.}
-{411}{}{Jo, máte nejspíš pravdu. Promiòte, e jsem vás vylekal. Mùu se zeptat na nìco jiného?}
-{412}{}{Kdepak, vidìl jsem ho nebo spíše to, co z nìj zbylo. Nebyl to hezkı pohled. No, uvidíme se pozdìji. Sbohem.}
-{413}{}{Tak jo, dostala jste mì. Haha, jen vás tak tahám za, eh, nohu. Jo, tak je to. No, sbohem.}
-{414}{}{Ano, podaøilo se vám nìco zjistit?}
-{415}{}{Myslím, e vaše brahmíny kradou bratøi Duntonovi. Jen jsem myslel, e byste to mìla vìdìt, madam.}
-{416}{}{Eh, vlastnì nic.}
-{417}{}{Co!? Víte to jistì? Máte nìjakı dùkaz?}
-{418}{}{Podaøilo se mi najít vydlabaná radškorpioní klepeta v chatrèi jen kousek od vašich brahmíních pastvin. Konfrontoval jsem Duntonovi a oni se pøiznali, e je pouívali na strašení vašeho chlapce Torra.}
-{419}{}{Podaøilo se mi najít vydlabaná radškorpioní klepeta v chatrèi jen kousek od vašich brahmíních pastvin. Myslím, e je Duntonovi pouívali na vystrašení Torra. Proto se bojí "lido-broukù".}
-{420}{}{Já vìdìla, e je to jenom další z jejich trikù! Mùj ubohı, malı Torr, takoví tyrani to jsou. Dobrá, to vysvìtluje, z èeho byl Torr vydìšenı, ale ráda bych získala další dùkazy o tom, e Duntonovi opravdu kradou náš dobytek. Obávám se, e pouhá slova nebudou staèit.}
-{421}{}{Já vìdìla, e je to jenom další z jejich trikù! Mùj ubohı, malı Torr, takoví tyrani to byli. Dobrá, to vysvìtluje, z èeho byl Torr vydìšenı, ale pøála bych si, aby existovaly další dùkazy o tom, e to byli Duntonovi. Obávám se, e pouhá slova nebudou staèit. A teï kdy jsou Duntonovi mrtví, si nejsem jistá, jestli tomu vùbec nìkdy pøijdeme na kloub. Dejte mi vìdìt, pokud na nìco pøijdete.}
-{422}{}{Dobrá, uvidím, jestli se mi podaøí nìkde sehnat další dùkazy.}
-{423}{}{No, vlastnì jsem u Duntonovıch zkontroloval znaèky na brahmínách. Kdy se podíváte pozornìji, zjistíte, e jednoduše vypálili svoji znaèku pøes tu pùvodní, která byla pøedpokládám vaše.}
-{424}{}{Tak to bychom mìli. Díky èástí broukù a dvojím znaèením máme dostatek dùkazù na to, abychom ty zloduchy zavøeli. Já u se teï o to postarám. Ti darebáci u nebudou pùsobit další potíe. Dìkuji vám za pomoc.}
-{425}{}{Tak to bychom mìli. Díky èástí broukù a dvojím znaèením máme dostatek dùkazù na to, abychom je usvìdèili ze zloèinu. Škoda, e jsou mrtví, jinak bych jim dala co proto. Myslím, e dostali, co si zaslouili. Dìkuji vám za pomoc.}
-{426}{}{Rádo se stalo, madam. Mùu se ještì na nìco zeptat?}
-{427}{}{Z tìch Duntonovıch je mi zle. Jsem rád, e se o nì postaráte. Sbohem.}
-{428}{}{Duntonovi dostali, co si zaslouili. Sbohem.}
-{429}{}{Opravdu? No tak pokraèujte, co jste našel?}
-{430}{}{Zkontroloval jsem u Duntonovıch znaèky na brahmínách. Kdy se podíváte pozornìji, zjistíte, e jednoduše vypálili svoji znaèku pøes tu pùvodní, která byla pøedpokládám vaše.}
-{500}{}{O vašich chybìjících brahmínách...}
-{510}{}{Nevidìl jste nìkde v okolí mìsta lovce Smileyho? (Napùl pro sebe.) U je pryè hroznì dlouho. Nikdy jsem mu nemìla dovolit, aby odešel na tu svoji nesmyslnou vıpravu.}
-{520}{}{Velmi jste nám tu pomohl. Díky.}
-{530}{}{Jenom mì zajímá, co jiného se tu dìje kolem.}
-{540}{}{Mám další dùkazy o té vìci s Duntonovımi.}
-{600}{}{Jste úasnı.}
-{610}{}{Jste úasnı. Pøivedl jste zpìt mého syna Torra i mého Smileyho. Nedokái vám dostateènì podìkovat.}
-{620}{}{Našel jste mého syna Torra. Moc vám dìkuji.}
-{630}{}{Našel jste mého Smileyho. Dìkuji vám, moc vám dìkuji.}
-{640}{}{Rádo se stalo. Byla by škoda ztratit dvì osoby, které máte tak ráda.}
-{650}{}{Torr jen potøebuje èas od èasu trochu pomoct. Jsem rád, e jsem tam byl.}
-{660}{}{Smiley mìl tentokrát štìstí, ale vyøiïte mu, aby si dával vìtší pozor.}
-{670}{}{Rádo se stalo, paní Bucknerová. Mùu se ještì na nìco zeptat?}
+{411}{}{Jo, mÃ¡te nejspÃ­Å¡ pravdu. PromiÅˆte, Å¾e jsem vÃ¡s vylekal. MÅ¯Å¾u se zeptat na nÄ›co jinÃ©ho?}
+{412}{}{Kdepak, vidÄ›l jsem ho nebo spÃ­Å¡e to, co z nÄ›j zbylo. Nebyl to hezkÃ½ pohled. No, uvidÃ­me se pozdÄ›ji. Sbohem.}
+{413}{}{Tak jo, dostala jste mÄ›. Haha, jen vÃ¡s tak tahÃ¡m za, eh, nohu. Jo, tak je to. No, sbohem.}
+{414}{}{Ano, podaÅ™ilo se vÃ¡m nÄ›co zjistit?}
+{415}{}{MyslÃ­m, Å¾e vaÅ¡e brahmÃ­ny kradou bratÅ™i Duntonovi. Jen jsem myslel, Å¾e byste to mÄ›la vÄ›dÄ›t, madam.}
+{416}{}{Eh, vlastnÄ› nic.}
+{417}{}{Co!? VÃ­te to jistÄ›? MÃ¡te nÄ›jakÃ½ dÅ¯kaz?}
+{418}{}{PodaÅ™ilo se mi najÃ­t vydlabanÃ¡ radÅ¡korpionÃ­ klepeta v chatrÄi jen kousek od vaÅ¡ich brahmÃ­nÃ­ch pastvin. Konfrontoval jsem Duntonovi a oni se pÅ™iznali, Å¾e je pouÅ¾Ã­vali na straÅ¡enÃ­ vaÅ¡eho chlapce Torra.}
+{419}{}{PodaÅ™ilo se mi najÃ­t vydlabanÃ¡ radÅ¡korpionÃ­ klepeta v chatrÄi jen kousek od vaÅ¡ich brahmÃ­nÃ­ch pastvin. MyslÃ­m, Å¾e je Duntonovi pouÅ¾Ã­vali na vystraÅ¡enÃ­ Torra. Proto se bojÃ­ "lido-broukÅ¯".}
+{420}{}{JÃ¡ vÄ›dÄ›la, Å¾e je to jenom dalÅ¡Ã­ z jejich trikÅ¯! MÅ¯j ubohÃ½, malÃ½ Torr, takovÃ­ tyrani to jsou. DobrÃ¡, to vysvÄ›tluje, z Äeho byl Torr vydÄ›Å¡enÃ½, ale rÃ¡da bych zÃ­skala dalÅ¡Ã­ dÅ¯kazy o tom, Å¾e Duntonovi opravdu kradou nÃ¡Å¡ dobytek. ObÃ¡vÃ¡m se, Å¾e pouhÃ¡ slova nebudou staÄit.}
+{421}{}{JÃ¡ vÄ›dÄ›la, Å¾e je to jenom dalÅ¡Ã­ z jejich trikÅ¯! MÅ¯j ubohÃ½, malÃ½ Torr, takovÃ­ tyrani to byli. DobrÃ¡, to vysvÄ›tluje, z Äeho byl Torr vydÄ›Å¡enÃ½, ale pÅ™Ã¡la bych si, aby existovaly dalÅ¡Ã­ dÅ¯kazy o tom, Å¾e to byli Duntonovi. ObÃ¡vÃ¡m se, Å¾e pouhÃ¡ slova nebudou staÄit. A teÄ kdyÅ¾ jsou Duntonovi mrtvÃ­, si nejsem jistÃ¡, jestli tomu vÅ¯bec nÄ›kdy pÅ™ijdeme na kloub. Dejte mi vÄ›dÄ›t, pokud na nÄ›co pÅ™ijdete.}
+{422}{}{DobrÃ¡, uvidÃ­m, jestli se mi podaÅ™Ã­ nÄ›kde sehnat dalÅ¡Ã­ dÅ¯kazy.}
+{423}{}{No, vlastnÄ› jsem u DuntonovÃ½ch zkontroloval znaÄky na brahmÃ­nÃ¡ch. KdyÅ¾ se podÃ­vÃ¡te pozornÄ›ji, zjistÃ­te, Å¾e jednoduÅ¡e vypÃ¡lili svoji znaÄku pÅ™es tu pÅ¯vodnÃ­, kterÃ¡ byla pÅ™edpoklÃ¡dÃ¡m vaÅ¡e.}
+{424}{}{Tak to bychom mÄ›li. DÃ­ky ÄÃ¡stÃ­ broukÅ¯ a dvojÃ­m znaÄenÃ­m mÃ¡me dostatek dÅ¯kazÅ¯ na to, abychom ty zloduchy zavÅ™eli. JÃ¡ uÅ¾ se teÄ o to postarÃ¡m. Ti darebÃ¡ci uÅ¾ nebudou pÅ¯sobit dalÅ¡Ã­ potÃ­Å¾e. DÄ›kuji vÃ¡m za pomoc.}
+{425}{}{Tak to bychom mÄ›li. DÃ­ky ÄÃ¡stÃ­ broukÅ¯ a dvojÃ­m znaÄenÃ­m mÃ¡me dostatek dÅ¯kazÅ¯ na to, abychom je usvÄ›dÄili ze zloÄinu. Å koda, Å¾e jsou mrtvÃ­, jinak bych jim dala co proto. MyslÃ­m, Å¾e dostali, co si zaslouÅ¾ili. DÄ›kuji vÃ¡m za pomoc.}
+{426}{}{RÃ¡do se stalo, madam. MÅ¯Å¾u se jeÅ¡tÄ› na nÄ›co zeptat?}
+{427}{}{Z tÄ›ch DuntonovÃ½ch je mi zle. Jsem rÃ¡d, Å¾e se o nÄ› postarÃ¡te. Sbohem.}
+{428}{}{Duntonovi dostali, co si zaslouÅ¾ili. Sbohem.}
+{429}{}{Opravdu? No tak pokraÄujte, co jste naÅ¡el?}
+{430}{}{Zkontroloval jsem u DuntonovÃ½ch znaÄky na brahmÃ­nÃ¡ch. KdyÅ¾ se podÃ­vÃ¡te pozornÄ›ji, zjistÃ­te, Å¾e jednoduÅ¡e vypÃ¡lili svoji znaÄku pÅ™es tu pÅ¯vodnÃ­, kterÃ¡ byla pÅ™edpoklÃ¡dÃ¡m vaÅ¡e.}
+{500}{}{O vaÅ¡ich chybÄ›jÃ­cÃ­ch brahmÃ­nÃ¡ch...}
+{510}{}{NevidÄ›l jste nÄ›kde v okolÃ­ mÄ›sta lovce Smileyho? (NapÅ¯l pro sebe.) UÅ¾ je pryÄ hroznÄ› dlouho. Nikdy jsem mu nemÄ›la dovolit, aby odeÅ¡el na tu svoji nesmyslnou vÃ½pravu.}
+{520}{}{Velmi jste nÃ¡m tu pomohl. DÃ­ky.}
+{530}{}{Jenom mÄ› zajÃ­mÃ¡, co jinÃ©ho se tu dÄ›je kolem.}
+{540}{}{MÃ¡m dalÅ¡Ã­ dÅ¯kazy o tÃ© vÄ›ci s DuntonovÃ½mi.}
+{600}{}{Jste ÃºÅ¾asnÃ½.}
+{610}{}{Jste ÃºÅ¾asnÃ½. PÅ™ivedl jste zpÄ›t mÃ©ho syna Torra i mÃ©ho Smileyho. NedokÃ¡Å¾i vÃ¡m dostateÄnÄ› podÄ›kovat.}
+{620}{}{NaÅ¡el jste mÃ©ho syna Torra. Moc vÃ¡m dÄ›kuji.}
+{630}{}{NaÅ¡el jste mÃ©ho Smileyho. DÄ›kuji vÃ¡m, moc vÃ¡m dÄ›kuji.}
+{640}{}{RÃ¡do se stalo. Byla by Å¡koda ztratit dvÄ› osoby, kterÃ© mÃ¡te tak rÃ¡da.}
+{650}{}{Torr jen potÅ™ebuje Äas od Äasu trochu pomoct. Jsem rÃ¡d, Å¾e jsem tam byl.}
+{660}{}{Smiley mÄ›l tentokrÃ¡t Å¡tÄ›stÃ­, ale vyÅ™iÄte mu, aby si dÃ¡val vÄ›tÅ¡Ã­ pozor.}
+{670}{}{RÃ¡do se stalo, panÃ­ BucknerovÃ¡. MÅ¯Å¾u se jeÅ¡tÄ› na nÄ›co zeptat?}
 {680}{}{Gurrrrg bloop?}
-{690}{}{To nestálo za øeè, madam. Sbohem.}
-{700}{}{Torr je mrtvı.}
-{710}{}{Ano, našel.}
-{720}{}{Já, eh, nevím, kde jsou. Mùu se na nìco zeptat?}
-{730}{}{Oba jsou doèista mrtví.}
-{740}{}{Torr zmizel? Co tím myslíte?}
-{750}{}{Nevím, kde je. Mùu se ještì na nìco zeptat? Tøeba se bìhem našeho povídání vrátí.}
-{760}{}{Stále po nich pátrám. Budu v tom pokraèovat. Sbohem.}
-{770}{}{Stále po nìm pátrám. Budu v tom pokraèovat. Sbohem.}
-{780}{}{Já eh, nevím kde je. Hmm...páni, to je ale hodin. Musím jít.}
-{790}{}{Mùu se ještì na nìco zeptat?}
-{800}{}{No, práce nepoèká. Sbohem.}
+{690}{}{To nestÃ¡lo za Å™eÄ, madam. Sbohem.}
+{700}{}{Torr je mrtvÃ½.}
+{710}{}{Ano, naÅ¡el.}
+{720}{}{JÃ¡, eh, nevÃ­m, kde jsou. MÅ¯Å¾u se na nÄ›co zeptat?}
+{730}{}{Oba jsou doÄista mrtvÃ­.}
+{740}{}{Torr zmizel? Co tÃ­m myslÃ­te?}
+{750}{}{NevÃ­m, kde je. MÅ¯Å¾u se jeÅ¡tÄ› na nÄ›co zeptat? TÅ™eba se bÄ›hem naÅ¡eho povÃ­dÃ¡nÃ­ vrÃ¡tÃ­.}
+{760}{}{StÃ¡le po nich pÃ¡trÃ¡m. Budu v tom pokraÄovat. Sbohem.}
+{770}{}{StÃ¡le po nÄ›m pÃ¡trÃ¡m. Budu v tom pokraÄovat. Sbohem.}
+{780}{}{JÃ¡ eh, nevÃ­m kde je. Hmm...pÃ¡ni, to je ale hodin. MusÃ­m jÃ­t.}
+{790}{}{MÅ¯Å¾u se jeÅ¡tÄ› na nÄ›co zeptat?}
+{800}{}{No, prÃ¡ce nepoÄkÃ¡. Sbohem.}
 {810}{}{Urrrrrgh.}
-{900}{}{U se vám podaøilo najít mého syna Torra? Mám o nìj hroznı strach.}
-{910}{}{U se vám podaøilo najít mého Smileyho?}
-{920}{}{U se vám podaøilo najít mého syna Torra nebo mého pøítele lovce Smileyho?}
-{930}{}{Mùj ubohı syn Torr utekl.}
-{940}{}{Nevìøím vám.}
-{942}{}{Je to pravda. Teï u je z nìj nejspíš potrava èervù. Respektive ten zbytek, co se ještì nestaèil promìnit v geckonskı sraèky. No, tak u to chodí. Zatím.}
-{943}{}{Eh, to asi nebyl dobrı *ertík*, omlouvám se.}
-{950}{}{Nechci s vámi mluvit.}
+{900}{}{UÅ¾ se vÃ¡m podaÅ™ilo najÃ­t mÃ©ho syna Torra? MÃ¡m o nÄ›j hroznÃ½ strach.}
+{910}{}{UÅ¾ se vÃ¡m podaÅ™ilo najÃ­t mÃ©ho Smileyho?}
+{920}{}{UÅ¾ se vÃ¡m podaÅ™ilo najÃ­t mÃ©ho syna Torra nebo mÃ©ho pÅ™Ã­tele lovce Smileyho?}
+{930}{}{MÅ¯j ubohÃ½ syn Torr utekl.}
+{940}{}{NevÄ›Å™Ã­m vÃ¡m.}
+{942}{}{Je to pravda. TeÄ uÅ¾ je z nÄ›j nejspÃ­Å¡ potrava ÄervÅ¯. Respektive ten zbytek, co se jeÅ¡tÄ› nestaÄil promÄ›nit v geckonskÃ½ sraÄky. No, tak uÅ¾ to chodÃ­. ZatÃ­m.}
+{943}{}{Eh, to asi nebyl dobrÃ½ *Å¾ertÃ­k*, omlouvÃ¡m se.}
+{950}{}{Nechci s vÃ¡mi mluvit.}
 {951}{}{Zmizte odsud.}
-{952}{}{Zatracení divoši. Jsou s nimi jen samé problémy.}
+{952}{}{ZatracenÃ­ divoÅ¡i. Jsou s nimi jen samÃ© problÃ©my.}
 {953}{}{Zmiz odsud, primitive.}
-{954}{}{Nechci tu nìkoho, jako jste vy.}
-{955}{}{Nic ode mì nedostaneš, divochu.}
-{956}{}{U jste tu napáchal dost škod.}
-{957}{}{Nechte mì na pokoji.}
-{958}{}{Vypadni z mého podniku, domorodı potíisto.}
-{959}{}{U vás mám tak akorát dost. Vypadnìte.}
-{1000}{}{Podaøilo se ti vyøešit záhadu ztrácejících se brahmín.}
-{1010}{}{Hodila by se mi nìjaká finanèní kompenzace.}
-{1011}{}{Coe? Aha, samozøejmì. Velice jste nám pomohl, take vám dluíme alespoò nìco. Tady je $150.}
-{1012}{}{Díky za peníze. Ještì se uvidíme.}
-{2000}{}{Smajlík?}
+{954}{}{Nechci tu nÄ›koho, jako jste vy.}
+{955}{}{Nic ode mÄ› nedostaneÅ¡, divochu.}
+{956}{}{UÅ¾ jste tu napÃ¡chal dost Å¡kod.}
+{957}{}{Nechte mÄ› na pokoji.}
+{958}{}{Vypadni z mÃ©ho podniku, domorodÃ½ potÃ­Å¾isto.}
+{959}{}{UÅ¾ vÃ¡s mÃ¡m tak akorÃ¡t dost. VypadnÄ›te.}
+{1000}{}{PodaÅ™ilo se ti vyÅ™eÅ¡it zÃ¡hadu ztrÃ¡cejÃ­cÃ­ch se brahmÃ­n.}
+{1010}{}{Hodila by se mi nÄ›jakÃ¡ finanÄnÃ­ kompenzace.}
+{1011}{}{CoÅ¾e? Aha, samozÅ™ejmÄ›. Velice jste nÃ¡m pomohl, takÅ¾e vÃ¡m dluÅ¾Ã­me alespoÅˆ nÄ›co. Tady je $150.}
+{1012}{}{DÃ­ky za penÃ­ze. JeÅ¡tÄ› se uvidÃ­me.}
+{2000}{}{SmajlÃ­k?}
 {2001}{}{He?}
 {2002}{}{Ehhh.}
-{2003}{}{Já pomoct.}
-{2004}{}{Já ne rád pøíbìh. AHOJ!}
-{2005}{}{Ach, dìkuji vám. Vyznaèím vám na mapì to místo, kde chtìl hledat. Pevnì vìøím, e ho najdete. Není dokonalı, ale poøád ho miluji a stıská se mi po nìm víc, ne jsem si myslela. Prosím, najdìte ho. Víte urèitì, e to zvládnete... psychicky?}
-{2006}{}{Já silnı. Já vìøit v sebe.}
+{2003}{}{JÃ¡ pomoct.}
+{2004}{}{JÃ¡ ne rÃ¡d pÅ™Ã­bÄ›h. AHOJ!}
+{2005}{}{Ach, dÄ›kuji vÃ¡m. VyznaÄÃ­m vÃ¡m na mapÄ› to mÃ­sto, kde chtÄ›l hledat. PevnÄ› vÄ›Å™Ã­m, Å¾e ho najdete. NenÃ­ dokonalÃ½, ale poÅ™Ã¡d ho miluji a stÃ½skÃ¡ se mi po nÄ›m vÃ­c, neÅ¾ jsem si myslela. ProsÃ­m, najdÄ›te ho. VÃ­te urÄitÄ›, Å¾e to zvlÃ¡dnete... psychicky?}
+{2006}{}{JÃ¡ silnÃ½. JÃ¡ vÄ›Å™it v sebe.}

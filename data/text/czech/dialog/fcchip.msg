@@ -1,101 +1,101 @@
-{100}{}{Vidíš plešatého pankáèe.}
-{101}{}{Vidíš Chipa. Vypadá lépe.}
-{102}{}{Vidíš plešatého pankáèe. Zdá se, e u se zotavil.}
-{103}{}{Au, moje vnitønosti... au, au, au.}
+{100}{}{VidÃ­Å¡ pleÅ¡atÃ©ho pankÃ¡Äe.}
+{101}{}{VidÃ­Å¡ Chipa. VypadÃ¡ lÃ©pe.}
+{102}{}{VidÃ­Å¡ pleÅ¡atÃ©ho pankÃ¡Äe. ZdÃ¡ se, Å¾e uÅ¾ se zotavil.}
+{103}{}{Au, moje vnitÅ™nosti... au, au, au.}
 {104}{}{He?}
 {105}{}{Auvajs?}
 {106}{}{Co je to s tebou?}
-{107}{}{Bolí tì nìco? Hehehe.}
+{107}{}{BolÃ­ tÄ› nÄ›co? Hehehe.}
 {108}{}{Kdo jsi?}
-{109}{}{Nevíš nìco o mıch lidech?}
-{110}{}{Auuu, moje vnitønosti. Strašnì trpím. Prosím, nech mì na pokoji.}
-{111}{}{Dobøe.}
-{112}{}{Co mi je? Tak já ti to povím: Minulej tejden jsem se oral, zaèal jsem hrát s Lao Chouem a prohrál. Byl jsem tak opilej, e jsem vsadil svoji slezinu. Teï ji má on a já ji potøebuju zpátky.}
-{113}{}{Ty jsi PRODAL vlastní slezinu?}
-{114}{}{Tak to je zlé.}
-{115}{}{Ty musíš bıt ale pìknı hlupák.}
-{116}{}{Potøebuju nìjaké informace místo toho tvého naøíkání.}
-{117}{}{::lapá po dechu:: Jdi do prdele.}
-{118}{}{::lapá po dechu:: Jdi do hajzlu.}
-{119}{}{Jak chceš.}
-{120}{}{Poslyš, zmìnil jsem názor. Chci ti pomoct.}
-{121}{}{Jo, prodal jsem ji. Byl jsem opilej! A navíc mám dojem, e mi dal Lao Chou do pití trochu Jetu. Potøebuju zpátky svou slezinu, protoe u dostávám infekce.}
-{122}{}{Hele, ty jsi ji ztratil, take je to tvùj problém. Smiø se s tím.}
-{123}{}{Dobøe, sakra, podívám se ti po ní.}
-{124}{}{Ano, to je. Potøebuju zpátky svou slezinu, protoe u dostávám infekce.}
-{125}{}{Hele, ty jsi ji ztratil, take je to tvùj problém. Smiø se s tím.}
-{126}{}{Dobøe, sakra, podívám se ti po ní.}
-{127}{}{Toho si opravdu váím. Jdi si promluvit s obchodníkem Lao Chouem a øekni mu, e potøebuju zpátky svoji slezinu.}
-{128}{}{Ještì se vrátím.}
-{129}{}{Jsem Chip. A strašnì trpím.}
+{109}{}{NevÃ­Å¡ nÄ›co o mÃ½ch lidech?}
+{110}{}{Auuu, moje vnitÅ™nosti. StraÅ¡nÄ› trpÃ­m. ProsÃ­m, nech mÄ› na pokoji.}
+{111}{}{DobÅ™e.}
+{112}{}{Co mi je? Tak jÃ¡ ti to povÃ­m: Minulej tejden jsem se oÅ¾ral, zaÄal jsem hrÃ¡t s Lao Chouem a prohrÃ¡l. Byl jsem tak opilej, Å¾e jsem vsadil svoji slezinu. TeÄ ji mÃ¡ on a jÃ¡ ji potÅ™ebuju zpÃ¡tky.}
+{113}{}{Ty jsi PRODAL vlastnÃ­ slezinu?}
+{114}{}{Tak to je zlÃ©.}
+{115}{}{Ty musÃ­Å¡ bÃ½t ale pÄ›knÃ½ hlupÃ¡k.}
+{116}{}{PotÅ™ebuju nÄ›jakÃ© informace mÃ­sto toho tvÃ©ho naÅ™Ã­kÃ¡nÃ­.}
+{117}{}{::lapÃ¡ po dechu:: Jdi do prdele.}
+{118}{}{::lapÃ¡ po dechu:: Jdi do hajzlu.}
+{119}{}{Jak chceÅ¡.}
+{120}{}{PoslyÅ¡, zmÄ›nil jsem nÃ¡zor. Chci ti pomoct.}
+{121}{}{Jo, prodal jsem ji. Byl jsem opilej! A navÃ­c mÃ¡m dojem, Å¾e mi dal Lao Chou do pitÃ­ trochu Jetu. PotÅ™ebuju zpÃ¡tky svou slezinu, protoÅ¾e uÅ¾ dostÃ¡vÃ¡m infekce.}
+{122}{}{Hele, ty jsi ji ztratil, takÅ¾e je to tvÅ¯j problÃ©m. SmiÅ™ se s tÃ­m.}
+{123}{}{DobÅ™e, sakra, podÃ­vÃ¡m se ti po nÃ­.}
+{124}{}{Ano, to je. PotÅ™ebuju zpÃ¡tky svou slezinu, protoÅ¾e uÅ¾ dostÃ¡vÃ¡m infekce.}
+{125}{}{Hele, ty jsi ji ztratil, takÅ¾e je to tvÅ¯j problÃ©m. SmiÅ™ se s tÃ­m.}
+{126}{}{DobÅ™e, sakra, podÃ­vÃ¡m se ti po nÃ­.}
+{127}{}{Toho si opravdu vÃ¡Å¾Ã­m. Jdi si promluvit s obchodnÃ­kem Lao Chouem a Å™ekni mu, Å¾e potÅ™ebuju zpÃ¡tky svoji slezinu.}
+{128}{}{JeÅ¡tÄ› se vrÃ¡tÃ­m.}
+{129}{}{Jsem Chip. A straÅ¡nÄ› trpÃ­m.}
 {130}{}{Co je to s tebou?}
-{131}{}{Bolí tì nìco? Hehehe.}
-{132}{}{Tak to je zlé. Mìj se.}
-{133}{}{Informace? Je mi zle a ty chceš informace?}
+{131}{}{BolÃ­ tÄ› nÄ›co? Hehehe.}
+{132}{}{Tak to je zlÃ©. MÄ›j se.}
+{133}{}{Informace? Je mi zle a ty chceÅ¡ informace?}
 {134}{}{Co je to s tebou?}
-{135}{}{Bolí tì nìco? Hehehe.}
-{136}{}{Zapomeò na to.}
-{137}{}{Našel jsi u moji slezinu?}
-{138}{}{Ano. Má ji Dr. Wong Yi Tze a vrátí ti ji zpìt. Jdi si s ním o tom promluvit.}
+{135}{}{BolÃ­ tÄ› nÄ›co? Hehehe.}
+{136}{}{ZapomeÅˆ na to.}
+{137}{}{NaÅ¡el jsi uÅ¾ moji slezinu?}
+{138}{}{Ano. MÃ¡ ji Dr. Wong Yi Tze a vrÃ¡tÃ­ ti ji zpÄ›t. Jdi si s nÃ­m o tom promluvit.}
 {139}{}{Ano. Jdi prohledat mrtvolu Dr. Wonga.}
-{140}{}{Tak nìjak. Má ji Dr. Wong Yi Tze, ale nechce mi ji dát.}
-{141}{}{Vím, kde je, ale myslím, e ji Dr. Wong snìdl.}
-{142}{}{Ne, ještì ne. Ale najdu ji.}
-{143}{}{Ne. Vlastnì ji ani nehledám.}
-{144}{}{Tak dobøe. ::supìní:: Ne to udìlám, moná bysme mìli najít zpùsob, jak ji dostat zpátky do mì. Promluv si o tom s Dr. Fungem, ano? Díky.}
-{145}{}{Tak dobøe.}
+{140}{}{Tak nÄ›jak. MÃ¡ ji Dr. Wong Yi Tze, ale nechce mi ji dÃ¡t.}
+{141}{}{VÃ­m, kde je, ale myslÃ­m, Å¾e ji Dr. Wong snÄ›dl.}
+{142}{}{Ne, jeÅ¡tÄ› ne. Ale najdu ji.}
+{143}{}{Ne. VlastnÄ› ji ani nehledÃ¡m.}
+{144}{}{Tak dobÅ™e. ::supÄ›nÃ­:: NeÅ¾ to udÄ›lÃ¡m, moÅ¾nÃ¡ bysme mÄ›li najÃ­t zpÅ¯sob, jak ji dostat zpÃ¡tky do mÄ›. Promluv si o tom s Dr. Fungem, ano? DÃ­ky.}
+{145}{}{Tak dobÅ™e.}
 {146}{}{Ne.}
-{147}{}{Opravdu si váím toho, co pro mì dìláš. Nezapomenu na to.}
-{148}{}{ádnı problém.}
-{149}{}{Kámo, v tomhle stavu si tìko nìkam dojdu. Jestli mi nepomùeš, tak jsem v háji.}
-{150}{}{Fajn. Pùjdu si promluvit s Fungem.}
-{151}{}{Fajn. Stejnì jsi mi u zadku.}
-{152}{}{Mùeš s tím nìco udìlat... zabít ho, pøemluvit ho a tak... bez sleziny umøu.}
-{153}{}{Uvidím, co se dá dìlat.}
-{154}{}{Promiò, chlape... ale myslím, e jsi v háji. Nedokáu ti pomoct.}
-{155}{}{Bez sleziny umøu. Ale stejnì ti dìkuju za pomoc.}
-{156}{}{Mám ji. Zajdi k Dr. Wongovi.}
-{157}{}{To nic, já to zaplatím. Zajdi k Fungovi.}
-{158}{}{ádnı problém. Hodnì štìstí.}
-{159}{}{Mluvil jsi u s Fungem?}
-{160}{}{Jo, øíká, e ti ji pøišije zadarmo.}
-{161}{}{Jo a chce po mnì $1000.}
+{147}{}{Opravdu si vÃ¡Å¾Ã­m toho, co pro mÄ› dÄ›lÃ¡Å¡. Nezapomenu na to.}
+{148}{}{Å½Ã¡dnÃ½ problÃ©m.}
+{149}{}{KÃ¡mo, v tomhle stavu si tÄ›Å¾ko nÄ›kam dojdu. Jestli mi nepomÅ¯Å¾eÅ¡, tak jsem v hÃ¡ji.}
+{150}{}{Fajn. PÅ¯jdu si promluvit s Fungem.}
+{151}{}{Fajn. StejnÄ› jsi mi u zadku.}
+{152}{}{MÅ¯Å¾eÅ¡ s tÃ­m nÄ›co udÄ›lat... zabÃ­t ho, pÅ™emluvit ho a tak... bez sleziny umÅ™u.}
+{153}{}{UvidÃ­m, co se dÃ¡ dÄ›lat.}
+{154}{}{PromiÅˆ, chlape... ale myslÃ­m, Å¾e jsi v hÃ¡ji. NedokÃ¡Å¾u ti pomoct.}
+{155}{}{Bez sleziny umÅ™u. Ale stejnÄ› ti dÄ›kuju za pomoc.}
+{156}{}{MÃ¡m ji. Zajdi k Dr. Wongovi.}
+{157}{}{To nic, jÃ¡ to zaplatÃ­m. Zajdi k Fungovi.}
+{158}{}{Å½Ã¡dnÃ½ problÃ©m. HodnÄ› Å¡tÄ›stÃ­.}
+{159}{}{Mluvil jsi uÅ¾ s Fungem?}
+{160}{}{Jo, Å™Ã­kÃ¡, Å¾e ti ji pÅ™iÅ¡ije zadarmo.}
+{161}{}{Jo a chce po mnÄ› $1000.}
 {162}{}{}
-{163}{}{Páni. Máš nejspíš velkı známosti. Pøijï zítra a uvidím, s èím ti budu moct pomoct.}
-{164}{}{Máš to mít.}
-{165}{}{Mùeš mì zaloit?}
+{163}{}{PÃ¡ni. MÃ¡Å¡ nejspÃ­Å¡ velkÃ½ znÃ¡mosti. PÅ™ijÄ zÃ­tra a uvidÃ­m, s ÄÃ­m ti budu moct pomoct.}
+{164}{}{MÃ¡Å¡ to mÃ­t.}
+{165}{}{MÅ¯Å¾eÅ¡ mÄ› zaloÅ¾it?}
 {166}{}{Jo, asi jo.}
 {167}{}{Ne.}
-{168}{}{Opravdu si toho cením. Pøijï zítra a uvidím, s èím ti budu moct pomoct.}
-{169}{}{To doufám.}
-{170}{}{To si nemùu dovolit. Take asi nejspíš umøu.}
-{171}{}{No dobøe, zaplatím to za tebe.}
-{172}{}{To je drsné. Jsem na mizinì.}
-{173}{}{Nedokáu ti ani popsat, jak dobøe se teï cítím. Take co jsi to ode mì chtìl?}
-{174}{}{Jak dám do pohybu tuhle loï?}
-{175}{}{Víš, kde jsou mí lidé?}
-{176}{}{Potøebuju nìjakou práci na poèítaèi.}
-{177}{}{Teï zrovna nic, díky. Nashle.}
-{178}{}{Promluv si s kapitánem. Bydlí nahoøe v kapitánskı kanceláøi.}
-{179}{}{Díky. Další otázky...}
-{180}{}{Dík. Naskle.}
-{181}{}{Øíká se, e je unesli na západ, pøes oceán. Tvojí nejlepší nadìjí, jak se tam dostat, je rozbìhnout tenhle škopek.}
-{182}{}{Díky. Další otázky...}
-{183}{}{Dík. Naskle.}
-{184}{}{Práce na poèítaèi? Kdy to nedokáeš získat od Shi nebo od Hubologistù, tak si promluv s Badgerem. Je to machr.}
-{185}{}{Díky. Další otázky...}
-{186}{}{Dík. Naskle.}
-{187}{}{Do prdele. Promluv si s Hubologisty nebo Shi. Kdy je teï Badger mrtvej, tak mì nic jinıho nenapadá.}
-{188}{}{Díky. Další otázky...}
-{189}{}{Dík. Naskle.}
+{168}{}{Opravdu si toho cenÃ­m. PÅ™ijÄ zÃ­tra a uvidÃ­m, s ÄÃ­m ti budu moct pomoct.}
+{169}{}{To doufÃ¡m.}
+{170}{}{To si nemÅ¯Å¾u dovolit. TakÅ¾e asi nejspÃ­Å¡ umÅ™u.}
+{171}{}{No dobÅ™e, zaplatÃ­m to za tebe.}
+{172}{}{To je drsnÃ©. Jsem na mizinÄ›.}
+{173}{}{NedokÃ¡Å¾u ti ani popsat, jak dobÅ™e se teÄ cÃ­tÃ­m. TakÅ¾e co jsi to ode mÄ› chtÄ›l?}
+{174}{}{Jak dÃ¡m do pohybu tuhle loÄ?}
+{175}{}{VÃ­Å¡, kde jsou mÃ­ lidÃ©?}
+{176}{}{PotÅ™ebuju nÄ›jakou prÃ¡ci na poÄÃ­taÄi.}
+{177}{}{TeÄ zrovna nic, dÃ­ky. Nashle.}
+{178}{}{Promluv si s kapitÃ¡nem. BydlÃ­ nahoÅ™e v kapitÃ¡nskÃ½ kancelÃ¡Å™i.}
+{179}{}{DÃ­ky. DalÅ¡Ã­ otÃ¡zky...}
+{180}{}{DÃ­k. Naskle.}
+{181}{}{Å˜Ã­kÃ¡ se, Å¾e je unesli na zÃ¡pad, pÅ™es oceÃ¡n. TvojÃ­ nejlepÅ¡Ã­ nadÄ›jÃ­, jak se tam dostat, je rozbÄ›hnout tenhle Å¡kopek.}
+{182}{}{DÃ­ky. DalÅ¡Ã­ otÃ¡zky...}
+{183}{}{DÃ­k. Naskle.}
+{184}{}{PrÃ¡ce na poÄÃ­taÄi? KdyÅ¾ to nedokÃ¡Å¾eÅ¡ zÃ­skat od Shi nebo od HubologistÅ¯, tak si promluv s Badgerem. Je to machr.}
+{185}{}{DÃ­ky. DalÅ¡Ã­ otÃ¡zky...}
+{186}{}{DÃ­k. Naskle.}
+{187}{}{Do prdele. Promluv si s Hubologisty nebo Shi. KdyÅ¾ je teÄ Badger mrtvej, tak mÄ› nic jinÃ½ho nenapadÃ¡.}
+{188}{}{DÃ­ky. DalÅ¡Ã­ otÃ¡zky...}
+{189}{}{DÃ­k. Naskle.}
 {190}{}{Parchante.}
-{191}{}{Budeš potøebovat prášky na bolest.}
-{192}{}{Hovado. Já ti ukáu.}
-{193}{}{Vidíš plešatého pankáèe.}
-{194}{}{Vidíš Chipa. Vypadá to, e hodnì trpí.}
-{195}{}{Vidíš plešatého pankáèe. Drí se za bok a bolestí lapá po dechu.}
-{196}{}{Tak dobøe. Promluvím si s Fungem.}
-{197}{}{Nìjakı novinky o mı slezinì?}
-{198}{}{Jo a chtìl $1000... ale já jsem za tebe zaplatil.}
-{199}{}{Díky za pomoc, kámo.}
-{200}{}{Kámo, slyšel jsem, e jsi našel moji slezinu. Mluvil jsi s Dr. Fungem o jejím pøišití zpìt do mıho tìla?}
+{191}{}{BudeÅ¡ potÅ™ebovat prÃ¡Å¡ky na bolest.}
+{192}{}{Hovado. JÃ¡ ti ukÃ¡Å¾u.}
+{193}{}{VidÃ­Å¡ pleÅ¡atÃ©ho pankÃ¡Äe.}
+{194}{}{VidÃ­Å¡ Chipa. VypadÃ¡ to, Å¾e hodnÄ› trpÃ­.}
+{195}{}{VidÃ­Å¡ pleÅ¡atÃ©ho pankÃ¡Äe. DrÅ¾Ã­ se za bok a bolestÃ­ lapÃ¡ po dechu.}
+{196}{}{Tak dobÅ™e. PromluvÃ­m si s Fungem.}
+{197}{}{NÄ›jakÃ½ novinky o mÃ½ slezinÄ›?}
+{198}{}{Jo a chtÄ›l $1000... ale jÃ¡ jsem za tebe zaplatil.}
+{199}{}{DÃ­ky za pomoc, kÃ¡mo.}
+{200}{}{KÃ¡mo, slyÅ¡el jsem, Å¾e jsi naÅ¡el moji slezinu. Mluvil jsi s Dr. Fungem o jejÃ­m pÅ™iÅ¡itÃ­ zpÄ›t do mÃ½ho tÄ›la?}

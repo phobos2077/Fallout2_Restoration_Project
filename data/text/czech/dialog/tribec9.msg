@@ -1,38 +1,38 @@
-{100}{}{Vidíš váleèníka.}
-{101}{}{Vidíš Serina.}
-{102}{}{Vypadá to, e je vánì zranìn a má zlomenou nohu.}
-{103}{}{Vidíš Serina. Vypadá to, e je vánì zranìn a má zlomenou nohu.}
-{104}{}{Vidíš Serina. Má zavázanou nohu a kulhá.}
-{105}{}{Vidíš Serina. Vypadá u lépe a hluboce spí.}
-{106}{}{Vidíš Serina. Vypadá to, e se docela dobøe zotavil.}
-{200}{}{*ble* Chcípni, démone!! U nebudeš...}
-{201}{}{Uklidni se. Jsi v bezpeèí. Ten geckon je u mrtvı.}
-{202}{}{Co!? Och, chvála duchùm, pøítela. Já báti, e bıt vyøízená.}
+{100}{}{VidÃ­Å¡ vÃ¡leÄnÃ­ka.}
+{101}{}{VidÃ­Å¡ Serina.}
+{102}{}{VypadÃ¡ to, Å¾e je vÃ¡Å¾nÄ› zranÄ›n a mÃ¡ zlomenou nohu.}
+{103}{}{VidÃ­Å¡ Serina. VypadÃ¡ to, Å¾e je vÃ¡Å¾nÄ› zranÄ›n a mÃ¡ zlomenou nohu.}
+{104}{}{VidÃ­Å¡ Serina. MÃ¡ zavÃ¡zanou nohu a kulhÃ¡.}
+{105}{}{VidÃ­Å¡ Serina. VypadÃ¡ uÅ¾ lÃ©pe a hluboce spÃ­.}
+{106}{}{VidÃ­Å¡ Serina. VypadÃ¡ to, Å¾e se docela dobÅ™e zotavil.}
+{200}{}{*ble* ChcÃ­pni, dÃ©mone!! UÅ¾ nebudeÅ¡...}
+{201}{}{Uklidni se. Jsi v bezpeÄÃ­. Ten geckon je uÅ¾ mrtvÃ½.}
+{202}{}{Co!? Och, chvÃ¡la duchÅ¯m, pÅ™Ã­tela. JÃ¡ bÃ¡ti, Å¾e bÃ½t vyÅ™Ã­zenÃ¡.}
 {203}{}{Co se tady stalo?}
-{204}{}{Jerem a já jsme choditi lovit kadı tıden. Jít jeskynním prùchodem na pole, kde se potuluje hodnì geckonù. Lov šel špatnì. Muset utıct. Pøíliš mnoho geckonù s ducha zuøivosti. Vstoupili jsme do jeskynì. Zaèít køièet o pomoc. (Na chvíli pøestane mluvit a škubne sebou bolestí poté, co se poškrábe na noze.)}
-{205}{}{Prosím, pokraèuj.}
-{206}{}{Prùchod u byl na pokraji zøícení. Voda prosakovat z toku nad námi. Smrtelnı prùchod, ale to bıti velkı zkratka na pole. Nic víc. Víš, my øváti jako idioti a strop na nás padat.}
-{207}{}{[Pokraèovat]}
-{208}{}{Chudák Jerem. Vidìl jsem, jak ho velká kámen rozdrtit jako mouchu. Velké kameny mì minuly, ale geckonova tlama ne. Zrovna kdy já mysleti já bıt v bezpeèí, geckon pøijít odnikud a ukousnout mi velká kus nohy. Upadnul jsem rovnou na zem. Nemít ádné kopí a já mysleti, e geckon mì mít k veèeøi. Ale duchové míti se mnou jiné plány. Poslední velkı kámen svalit geckonovi na hlavu. Udìlat z nìj flek. Ale taky rozdrtit moje noha.}
-{209}{}{[Pokraèovat]}
-{210}{}{Take já bıti uvìznìnı na zemi bez kopí. Náhle já slyšeti nìco na mì pøijít ze tmy. Pøiblíilo se to a já uvidìl, e to bıti velkı naštvanı geckon. Padající kameny ho jen víc nasrat. Potom ty pøijít, pøítela. Já míti u tebe dluh.}
-{211}{}{Páni, to byl zajímavı pøíbìh. Zdá se, e jsi mìl velké štìstí. A co noha?}
-{212}{}{Ne dobøe, pøítela. Zdá se, e kameny bıt silnìjší ne moje kost. Já pochybovat já brzo choditi.}
-{213}{}{Nemìj obavy, jsem zkušenı doktor. Podívám se na tvoji nohu a uvidím, co se dá dìlat.}
-{214}{}{Nemìj obavy, bez problému tì odsud odnesu. Potom se na tvoji nohu podívá šaman.}
-{215}{}{Na tohle se asi bude muset pøijít podívat odborník. Zkusím nìkde rychle najít pomoc. Jeskynì u se zdá bıt prázdná, take by ti nemìlo hrozit ádné nebezpeèí.}
-{216}{}{Hmm... myslím, e nemám dostateènou sílu na to tì odsud odnést, ale vsadím se, e to Sulik zvládne. (Na Sulika.) Odneseme ho odsud.}
-{217}{}{Hmm... myslím, e nemám dostateènou sílu na to tì odsud odnést, ale vsadím se, e to Marcus zvládne. (Na Marcuse.) Odneseme ho odsud.}
-{218}{}{(Prohlííš si váleèníkovou nohu. Je ošklivì potrhaná a na nìkterıch místech vyènívá kost. Zkušenì vrátíš kost zpìt na své místo, zastavíš krvácení, dáš nohu do dlahy a stabilizuješ ji.)}
-{219}{}{(Po 15-ti minutách usilovné práce u noha vypadá mnohem lépe. Zdá se, e bude tento mu jednou zase chodit.)}
-{220}{}{Tak, tohle by mìlo staèit. Budeš potøebovat nìkolik dní odpoèinku na úplné zotavení. Moc ji nenamáhej a budeš zase v poøádku.}
-{221}{}{Svatá ducha tì ovládat, pøítela! Já díky! Já teï dokulhati k šamanovi. Získat nìjaké dobré byliny na zmírnìní bolesti. Uvidìti se zpìt v táboøe, pøítela.}
+{204}{}{Jerem a jÃ¡ jsme choditi lovit kaÅ¾dÃ½ tÃ½den. JÃ­t jeskynnÃ­m prÅ¯chodem na pole, kde se potuluje hodnÄ› geckonÅ¯. Lov Å¡el Å¡patnÄ›. Muset utÃ½ct. PÅ™Ã­liÅ¡ mnoho geckonÅ¯ s ducha zuÅ™ivosti. Vstoupili jsme do jeskynÄ›. ZaÄÃ­t kÅ™iÄet o pomoc. (Na chvÃ­li pÅ™estane mluvit a Å¡kubne sebou bolestÃ­ potÃ©, co se poÅ¡krÃ¡be na noze.)}
+{205}{}{ProsÃ­m, pokraÄuj.}
+{206}{}{PrÅ¯chod uÅ¾ byl na pokraji zÅ™Ã­cenÃ­. Voda prosakovat z toku nad nÃ¡mi. SmrtelnÃ½ prÅ¯chod, ale to bÃ½ti velkÃ½ zkratka na pole. Nic vÃ­c. VÃ­Å¡, my Å™vÃ¡ti jako idioti a strop na nÃ¡s padat.}
+{207}{}{[PokraÄovat]}
+{208}{}{ChudÃ¡k Jerem. VidÄ›l jsem, jak ho velkÃ¡ kÃ¡men rozdrtit jako mouchu. VelkÃ© kameny mÄ› minuly, ale geckonova tlama ne. Zrovna kdyÅ¾ jÃ¡ mysleti jÃ¡ bÃ½t v bezpeÄÃ­, geckon pÅ™ijÃ­t odnikud a ukousnout mi velkÃ¡ kus nohy. Upadnul jsem rovnou na zem. NemÃ­t Å¾Ã¡dnÃ© kopÃ­ a jÃ¡ mysleti, Å¾e geckon mÄ› mÃ­t k veÄeÅ™i. Ale duchovÃ© mÃ­ti se mnou jinÃ© plÃ¡ny. PoslednÃ­ velkÃ½ kÃ¡men svalit geckonovi na hlavu. UdÄ›lat z nÄ›j flek. Ale taky rozdrtit moje noha.}
+{209}{}{[PokraÄovat]}
+{210}{}{TakÅ¾e jÃ¡ bÃ½ti uvÄ›znÄ›nÃ½ na zemi bez kopÃ­. NÃ¡hle jÃ¡ slyÅ¡eti nÄ›co na mÄ› pÅ™ijÃ­t ze tmy. PÅ™iblÃ­Å¾ilo se to a jÃ¡ uvidÄ›l, Å¾e to bÃ½ti velkÃ½ naÅ¡tvanÃ½ geckon. PadajÃ­cÃ­ kameny ho jen vÃ­c nasrat. Potom ty pÅ™ijÃ­t, pÅ™Ã­tela. JÃ¡ mÃ­ti u tebe dluh.}
+{211}{}{PÃ¡ni, to byl zajÃ­mavÃ½ pÅ™Ã­bÄ›h. ZdÃ¡ se, Å¾e jsi mÄ›l velkÃ© Å¡tÄ›stÃ­. A co noha?}
+{212}{}{Ne dobÅ™e, pÅ™Ã­tela. ZdÃ¡ se, Å¾e kameny bÃ½t silnÄ›jÅ¡Ã­ neÅ¾ moje kost. JÃ¡ pochybovat jÃ¡ brzo choditi.}
+{213}{}{NemÄ›j obavy, jsem zkuÅ¡enÃ½ doktor. PodÃ­vÃ¡m se na tvoji nohu a uvidÃ­m, co se dÃ¡ dÄ›lat.}
+{214}{}{NemÄ›j obavy, bez problÃ©mu tÄ› odsud odnesu. Potom se na tvoji nohu podÃ­vÃ¡ Å¡aman.}
+{215}{}{Na tohle se asi bude muset pÅ™ijÃ­t podÃ­vat odbornÃ­k. ZkusÃ­m nÄ›kde rychle najÃ­t pomoc. JeskynÄ› uÅ¾ se zdÃ¡ bÃ½t prÃ¡zdnÃ¡, takÅ¾e by ti nemÄ›lo hrozit Å¾Ã¡dnÃ© nebezpeÄÃ­.}
+{216}{}{Hmm... myslÃ­m, Å¾e nemÃ¡m dostateÄnou sÃ­lu na to tÄ› odsud odnÃ©st, ale vsadÃ­m se, Å¾e to Sulik zvlÃ¡dne. (Na Sulika.) Odneseme ho odsud.}
+{217}{}{Hmm... myslÃ­m, Å¾e nemÃ¡m dostateÄnou sÃ­lu na to tÄ› odsud odnÃ©st, ale vsadÃ­m se, Å¾e to Marcus zvlÃ¡dne. (Na Marcuse.) Odneseme ho odsud.}
+{218}{}{(ProhlÃ­Å¾Ã­Å¡ si vÃ¡leÄnÃ­kovou nohu. Je oÅ¡klivÄ› potrhanÃ¡ a na nÄ›kterÃ½ch mÃ­stech vyÄnÃ­vÃ¡ kost. ZkuÅ¡enÄ› vrÃ¡tÃ­Å¡ kost zpÄ›t na svÃ© mÃ­sto, zastavÃ­Å¡ krvÃ¡cenÃ­, dÃ¡Å¡ nohu do dlahy a stabilizujeÅ¡ ji.)}
+{219}{}{(Po 15-ti minutÃ¡ch usilovnÃ© prÃ¡ce uÅ¾ noha vypadÃ¡ mnohem lÃ©pe. ZdÃ¡ se, Å¾e bude tento muÅ¾ jednou zase chodit.)}
+{220}{}{Tak, tohle by mÄ›lo staÄit. BudeÅ¡ potÅ™ebovat nÄ›kolik dnÃ­ odpoÄinku na ÃºplnÃ© zotavenÃ­. Moc ji nenamÃ¡hej a budeÅ¡ zase v poÅ™Ã¡dku.}
+{221}{}{SvatÃ¡ ducha tÄ› ovlÃ¡dat, pÅ™Ã­tela! JÃ¡ dÃ­ky! JÃ¡ teÄ dokulhati k Å¡amanovi. ZÃ­skat nÄ›jakÃ© dobrÃ© byliny na zmÃ­rnÄ›nÃ­ bolesti. UvidÄ›ti se zpÄ›t v tÃ¡boÅ™e, pÅ™Ã­tela.}
 {222}{}{[KONEC]}
-{300}{}{Já díky, pøítela. Uvidìti se zpìt v táboøe.}
-{400}{}{Díky moc, pøítela. Máš opravdu poehnání duchù.}
+{300}{}{JÃ¡ dÃ­ky, pÅ™Ã­tela. UvidÄ›ti se zpÄ›t v tÃ¡boÅ™e.}
+{400}{}{DÃ­ky moc, pÅ™Ã­tela. MÃ¡Å¡ opravdu poÅ¾ehnÃ¡nÃ­ duchÅ¯.}
 {500}{}{chrrrRRrrr...}
-{501}{}{...chrrRRRRrr...pšíí...}
-{600}{}{Podaøilo se ti vyléèit Serinovu nohu.}
-{700}{}{Potøebuje lepší péèi, ne jakou mu dokáu nabídnout. Radìji pùjdu.}
-{1000}{}{Dobré na tebe koukati, hrdino.}
-{1001}{}{Já nikdy nezapomenout, co ty pro mì udìlat, hrdino.}
+{501}{}{...chrrRRRRrr...pÅ¡Ã­Ã­...}
+{600}{}{PodaÅ™ilo se ti vylÃ©Äit Serinovu nohu.}
+{700}{}{PotÅ™ebuje lepÅ¡Ã­ pÃ©Äi, neÅ¾ jakou mu dokÃ¡Å¾u nabÃ­dnout. RadÄ›ji pÅ¯jdu.}
+{1000}{}{DobrÃ© na tebe koukati, hrdino.}
+{1001}{}{JÃ¡ nikdy nezapomenout, co ty pro mÄ› udÄ›lat, hrdino.}

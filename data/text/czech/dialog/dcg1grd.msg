@@ -1,33 +1,33 @@
-{100}{}{Vidíš strá.}
-{150}{}{Je to jeden z Tylerovıch stráí.}
-{151}{}{Je to jedna z Tylerovıch stráí.}
-{200}{}{Ty jseš ještì ivej?}
-{210}{}{Ukázali jsme jim, e jo?}
-{211}{}{Na nás si nikdo nepøijde.}
+{100}{}{VidÃ­Å¡ strÃ¡Å¾.}
+{150}{}{Je to jeden z TylerovÃ½ch strÃ¡Å¾Ã­.}
+{151}{}{Je to jedna z TylerovÃ½ch strÃ¡Å¾Ã­.}
+{200}{}{Ty jseÅ¡ jeÅ¡tÄ› Å¾ivej?}
+{210}{}{UkÃ¡zali jsme jim, Å¾e jo?}
+{211}{}{Na nÃ¡s si nikdo nepÅ™ijde.}
 {212}{}{Natrhli jsme jim prdel.}
-{213}{}{Vyøídili jsme je rychle.}
-{214}{}{Nikdy nezapomenu na ten vıraz v jeho tváøi. Bylo to skvìlı.}
-{215}{}{Pøekvapilo mì, e se Metzger nepochcal.}
-{216}{}{Zajímalo by mì, proè Metzger nezakroèil.}
-{225}{}{Nevím proè nás Metzger poslal hlídat tyhle hovna.}
-{226}{}{Kdo by chtìl ukrást tyhle hovna?}
-{227}{}{Tohle je práce na hovno.}
-{228}{}{Na nás si nikdo nepøijde.}
-{229}{}{Myslím, e ta vìc pocházela z Vaultu nebo tak nìjak.}
-{230}{}{Co tady hledáš?}
-{231}{}{Nic tu není, jenom my.}
-{232}{}{Kašli na to, u jsme se na to dívali milionkrát.}
+{213}{}{VyÅ™Ã­dili jsme je rychle.}
+{214}{}{Nikdy nezapomenu na ten vÃ½raz v jeho tvÃ¡Å™i. Bylo to skvÄ›lÃ½.}
+{215}{}{PÅ™ekvapilo mÄ›, Å¾e se Metzger nepochcal.}
+{216}{}{ZajÃ­malo by mÄ›, proÄ Metzger nezakroÄil.}
+{225}{}{NevÃ­m proÄ nÃ¡s Metzger poslal hlÃ­dat tyhle hovna.}
+{226}{}{Kdo by chtÄ›l ukrÃ¡st tyhle hovna?}
+{227}{}{Tohle je prÃ¡ce na hovno.}
+{228}{}{Na nÃ¡s si nikdo nepÅ™ijde.}
+{229}{}{MyslÃ­m, Å¾e ta vÄ›c pochÃ¡zela z Vaultu nebo tak nÄ›jak.}
+{230}{}{Co tady hledÃ¡Å¡?}
+{231}{}{Nic tu nenÃ­, jenom my.}
+{232}{}{KaÅ¡li na to, uÅ¾ jsme se na to dÃ­vali milionkrÃ¡t.}
 {233}{}{Dneska je noc n.}
-{234}{}{Nenávidím èekání.}
-{235}{}{Kvùli tomuhle se kdykoliv vzdám panáka.}
-{236}{}{U je èas? Nemùu se doèkat.}
-{237}{}{Doufám, e zabiju jako první.}
-{238}{}{Proè si s námi nezahrávali i pøedtím?}
-{239}{}{Zaèíná to bıt zajímavé.}
-{240}{}{Škoda, e jsme si neuili ádnou akci.}
-{241}{}{Zajímalo by mì, proè si to rozmysleli.}
-{242}{}{Tolik èekání pro nic.}
-{243}{}{Co se stalo s tou pastí, kterou jsi nám mìl pomoct nastrait?}
-{244}{}{Co to vèera v noci bylo?}
-{245}{}{Škoda, e ti zbabìlci vzali do zajeèích. Mìl jsem takovou chu je vyøídit.}
-{246}{}{Nemùu uvìøit, e nás ti bastardi chtìli pøepadnout.}
+{234}{}{NenÃ¡vidÃ­m ÄekÃ¡nÃ­.}
+{235}{}{KvÅ¯li tomuhle se kdykoliv vzdÃ¡m panÃ¡ka.}
+{236}{}{UÅ¾ je Äas? NemÅ¯Å¾u se doÄkat.}
+{237}{}{DoufÃ¡m, Å¾e zabiju jako prvnÃ­.}
+{238}{}{ProÄ si s nÃ¡mi nezahrÃ¡vali i pÅ™edtÃ­m?}
+{239}{}{ZaÄÃ­nÃ¡ to bÃ½t zajÃ­mavÃ©.}
+{240}{}{Å koda, Å¾e jsme si neuÅ¾ili Å¾Ã¡dnou akci.}
+{241}{}{ZajÃ­malo by mÄ›, proÄ si to rozmysleli.}
+{242}{}{Tolik ÄekÃ¡nÃ­ pro nic.}
+{243}{}{Co se stalo s tou pastÃ­, kterou jsi nÃ¡m mÄ›l pomoct nastraÅ¾it?}
+{244}{}{Co to vÄera v noci bylo?}
+{245}{}{Å koda, Å¾e ti zbabÄ›lci vzali do zajeÄÃ­ch. MÄ›l jsem takovou chuÅ¥ je vyÅ™Ã­dit.}
+{246}{}{NemÅ¯Å¾u uvÄ›Å™it, Å¾e nÃ¡s ti bastardi chtÄ›li pÅ™epadnout.}

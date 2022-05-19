@@ -1,5 +1,5 @@
-{100}{}{Vidíš podivné zaøízení vedle emitoru silového pole.}
-{101}{}{Vidíš emitor silového pole.}
-{102}{}{To je ta nejdivnìjší zeï, kterou jsi kdy vidìl.}
-{103}{}{To je emitor silového pole. Dodává silovému poli energii.}
-{104}{}{Emitor vydal bzuèivı zvuk a vybuchl.}
+{100}{}{VidÃ­Å¡ podivnÃ© zaÅ™Ã­zenÃ­ vedle emitoru silovÃ©ho pole.}
+{101}{}{VidÃ­Å¡ emitor silovÃ©ho pole.}
+{102}{}{To je ta nejdivnÄ›jÅ¡Ã­ zeÄ, kterou jsi kdy vidÄ›l.}
+{103}{}{To je emitor silovÃ©ho pole. DodÃ¡vÃ¡ silovÃ©mu poli energii.}
+{104}{}{Emitor vydal bzuÄivÃ½ zvuk a vybuchl.}

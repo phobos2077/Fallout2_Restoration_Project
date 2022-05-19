@@ -1,3 +1,3 @@
-{100}{}{Po zhruba ètvrthodinì dorazí vratkı èlun k zrezlé velitelské vìi, která se tyèí z vody daleko od bøehù San Francisca. Zdejší vody jsou sice zakalené, ale i pøesto vidíš docela jasnì obrys masivní ponorky.}
-{101}{}{Technici Shi se rychle vylodili a sestoupili dovnitø ponorky.}
-{102}{}{Ve chvíli kdy se vzdaluješ od ponorky, uslyšíš obrovskou explozi, která rozptılí velikou vodní vlnu do všech smìrù. Otoèíš se a vidíš, e tam kde se pøedtím tyèila velitelská vì, teï není vùbec nic.}
+{100}{}{Po zhruba ÄtvrthodinÄ› dorazÃ­ vratkÃ½ Älun k zrezlÃ© velitelskÃ© vÄ›Å¾i, kterÃ¡ se tyÄÃ­ z vody daleko od bÅ™ehÅ¯ San Francisca. ZdejÅ¡Ã­ vody jsou sice zakalenÃ©, ale i pÅ™esto vidÃ­Å¡ docela jasnÄ› obrys masivnÃ­ ponorky.}
+{101}{}{Technici Shi se rychle vylodili a sestoupili dovnitÅ™ ponorky.}
+{102}{}{Ve chvÃ­li kdy se vzdalujeÅ¡ od ponorky, uslyÅ¡Ã­Å¡ obrovskou explozi, kterÃ¡ rozptÃ½lÃ­ velikou vodnÃ­ vlnu do vÅ¡ech smÄ›rÅ¯. OtoÄÃ­Å¡ se a vidÃ­Å¡, Å¾e tam kde se pÅ™edtÃ­m tyÄila velitelskÃ¡ vÄ›Å¾, teÄ nenÃ­ vÅ¯bec nic.}

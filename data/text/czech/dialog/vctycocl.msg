@@ -1,1 +1,1 @@
-{100}{}{Vstupujeö do oblasti Radnice Vault City.}
+{100}{}{Vstupuje≈° do oblasti Radnice Vault City.}

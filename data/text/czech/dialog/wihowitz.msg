@@ -1,8 +1,8 @@
-{100}{}{Vidíš houfnici typu SIAD-BG.}
-{101}{}{I kdy u má své nejlepší roky za sebou, stejnì si myslíš, e by se ještì dala pouít. Jenom teï nìkde sehnat náboj.}
-{102}{}{Tak a odpalovací mechanismus je znièenı. Nyní pøed tebou stojí dvoutunové tìítko.}
-{200}{}{Houfnice je u nabitá.}
-{201}{}{Nabíjíš houfnici nábojem.}
-{210}{}{Houfnice zasáhla dveøe, které se rozlétly na malé kousíèky.}
-{211}{}{Houfnice nemá co vystøelit, tak jak chceš støílet?}
-{212}{}{Vypálil jsi z houfnice.}
+{100}{}{VidÃ­Å¡ houfnici typu SIAD-BG.}
+{101}{}{I kdyÅ¾ uÅ¾ mÃ¡ svÃ© nejlepÅ¡Ã­ roky za sebou, stejnÄ› si myslÃ­Å¡, Å¾e by se jeÅ¡tÄ› dala pouÅ¾Ã­t. Jenom teÄ nÄ›kde sehnat nÃ¡boj.}
+{102}{}{Tak a odpalovacÃ­ mechanismus je zniÄenÃ½. NynÃ­ pÅ™ed tebou stojÃ­ dvoutunovÃ© tÄ›Å¾Ã­tko.}
+{200}{}{Houfnice je uÅ¾ nabitÃ¡.}
+{201}{}{NabÃ­jÃ­Å¡ houfnici nÃ¡bojem.}
+{210}{}{Houfnice zasÃ¡hla dveÅ™e, kterÃ© se rozlÃ©tly na malÃ© kousÃ­Äky.}
+{211}{}{Houfnice nemÃ¡ co vystÅ™elit, tak jak chceÅ¡ stÅ™Ã­let?}
+{212}{}{VypÃ¡lil jsi z houfnice.}

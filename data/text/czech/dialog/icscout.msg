@@ -1,129 +1,129 @@
-{100}{}{Vidíš divocha.}
-{101}{}{Vidíš Stín-kterı-kráèí.}
-{150}{}{Vidíš svalnatého primitiva s èernımi jizvami na tváøi. Tiše tì pozoruje.}
-{151}{}{Vidíš Stín-kterı-kráèí. Na tváøi má spoustu rituálních tetování.}
-{200}{}{Tiše na tebe zírá.}
-{201}{}{Tiše tì pozoruje.}
-{300}{}{Pšššt... vovím kválíky.}
-{400}{}{(Dívá se na tebe s nedùvìrou v oèích.) Kdo je tam?}
+{100}{}{VidÃ­Å¡ divocha.}
+{101}{}{VidÃ­Å¡ StÃ­n-kterÃ½-krÃ¡ÄÃ­.}
+{150}{}{VidÃ­Å¡ svalnatÃ©ho primitiva s ÄernÃ½mi jizvami na tvÃ¡Å™i. TiÅ¡e tÄ› pozoruje.}
+{151}{}{VidÃ­Å¡ StÃ­n-kterÃ½-krÃ¡ÄÃ­. Na tvÃ¡Å™i mÃ¡ spoustu rituÃ¡lnÃ­ch tetovÃ¡nÃ­.}
+{200}{}{TiÅ¡e na tebe zÃ­rÃ¡.}
+{201}{}{TiÅ¡e tÄ› pozoruje.}
+{300}{}{PÅ¡Å¡Å¡t... vovÃ­m kvÃ¡lÃ­ky.}
+{400}{}{(DÃ­vÃ¡ se na tebe s nedÅ¯vÄ›rou v oÄÃ­ch.) Kdo je tam?}
 {401}{}{Jmenuju se }
 {402}{}{. Kdo jsi ty?}
-{403}{}{Plním úkol pro Vault City. Kdo jsi ty?}
-{404}{}{Moje jméno není podstatné. Chci tì varovat. Jsi ve velkém nebezpeèí!}
-{405}{}{Jsem tvá odplata za høíchy. Pøiprav se pøipojit ke svım pøedkùm!}
-{406}{}{Jsem Francouz. Proè myslíš, e mám tak pøíšernı pøízvuk? [Divnì na nìj zírat]}
-{407}{}{Zapomeò na to. Omlouvám se za obtìování.}
-{410}{}{Mluvíš se Stín-kterı-kráèí. Proè jsi tu?}
-{411}{}{Snaím se zastavit útoky nájezdníkù na Vault City a mám podezøení, e právì tady je jejich základna. Co o nich víš?}
-{412}{}{Poslalo mì Vault City kvùli útokùm nájezdníkù na mìsto.}
-{413}{}{Jen mì zajímalo, co tu je, ale teï u pùjdu.}
-{414}{}{Cvièím støelbu a ty vypadáš jako perfektní pohyblivı terè.}
-{420}{}{Stín-kterı-kráèí ví, e tu nejsou ádní nájezdníci. Stín-kterı-kráèí jen ví, e tu jsou Rangeøi a ti chtìjí osvobodit otroky ve Vault City, z toho zlého místa. (Dá ti popis, kterı sedí na jednoho z nájezdníkù.)}
-{421}{}{Tohle e ti øekli? e jsou Rangeøi? Tady nikde ádní Rangeøi nejsou, lhali ti.}
-{422}{}{Rangeøi? Tohle nejsou Rangeøi. Podívej se na jejich obleèení. Jsi pìšák v jejich høe. Jen tì vyuívají.}
-{423}{}{Podívej, Vault City mì poslalo najít nájezdníky. Popis sedí pøesnì tady na ty mue.}
-{424}{}{Aha, dobøe. Potom tedy odcházím.}
-{425}{}{Nevìøím ti. Zemøi, zlı mui!}
-{430}{}{Proè by lhali Stínu-kterı-kráèí?}
-{431}{}{Pomáhal bys jim, kdyby ti øekli, e jsou to nájezdníci útoèící na nevinné lidi a e je ani trochu nezajímá pomáhat nìkomu ve Vault City?}
-{432}{}{Nevím. ijeme v drsném svìtì. Lidé okrádají druhé dnes a dennì.}
-{433}{}{Aby se tøeba poøádnì zasmáli? Vypadáš tak hloupì, e bys naletìl na cokoliv.}
-{440}{}{Stín-kterı-kráèí by nikdy nepomáhal nìèemu takovému, to by bylo zlé. (Podezíravì si tì prohlíí.) Ale proè by Stín-kterı-kráèí mìl vìøit tomu, co øíkáš?}
-{441}{}{[Øíct mu o svém kmeni]}
-{442}{}{Protoe jsem Ranger, nefalšovanı. [Ukázat mu odznak]}
-{443}{}{Protoe vím, pro koho ti nájezdníci pracují a není to vùbec hodnı èlovìk. [Ukázat mu data z holodisku]}
-{444}{}{Nevím. Promiò mi to obtìování.}
-{445}{}{Nemusíš, stejnì tì zabiju.}
-{450}{}{(Zdá se, e se teï Stín-kterı-kráèí na tebe dívá s vìtší dùvìrou.) Stín-kterı-kráèí teï ví, e ty jsi pravdy mluvka. Stín-kterı-kráèí ti vìøí.}
-{451}{}{Co teï budeš dìlat?}
-{452}{}{Nemáš tušení, proè tihle nájezdníci útoèí na Vault City?}
-{453}{}{To je srandovní. Všechno to byla toti jen le. Jaké to je, troubo?}
-{460}{}{Ne, nevím. Vím jen, e oklamali Stín-kterı-kráèí, aby jim pomohl najít cestu.}
-{461}{}{Co teï budeš dìlat?}
-{462}{}{Neslyšel jsi náhodou, jak se o nìkom baví nebo tak nìco?}
-{463}{}{No, tak nevadí, prostì je všechny zabiju. Myslím, e se ale napøed trochu rozehøeju tady na tobì...}
-{470}{}{Hmmm... moná. Kdy jich nìkolik šlo pro víc hømìjících, divnıch zbraní... (Naznaèí jako kdy nìkdo pouívá pušku.) ...tak zmínili jméno... Bishop. Ano, mluvili o mui jménem Bishop.}
-{471}{}{Aha. Díky, Stíne-kterı-chodí, velmi jsi mi pomohl.}
-{472}{}{Dobrá. Teï kdy mám tu informaci, tak tu provedu dùkladnou deratizaci a zaènu u tebe...}
-{480}{}{Stín-kterı-kráèí dìkuje, Stín-kterı-kráèí nemá rád, kdy je napálen.}
-{481}{}{Není zaè. Take co teï?}
-{482}{}{Opravdu? A já myslel, e sis u dávno zvykl na to, e jsi idiot a tak...}
-{490}{}{Stín-kterı-kráèí u nebude pomáhat. Stín-kterı-kráèí teï pùjde domù a u neukáe znovu zlım muùm cestu.}
-{491}{}{Dobøe. To by mìlo zabránit nájezdníkùm dále ubliovat nevinnım lidem ve Vault City.}
-{500}{}{Stín-kterı-kráèí dìkuje, pøíteli, za pøinesení pravdy. Duchové nech tì doprovází na cestì.}
+{403}{}{PlnÃ­m Ãºkol pro Vault City. Kdo jsi ty?}
+{404}{}{Moje jmÃ©no nenÃ­ podstatnÃ©. Chci tÄ› varovat. Jsi ve velkÃ©m nebezpeÄÃ­!}
+{405}{}{Jsem tvÃ¡ odplata za hÅ™Ã­chy. PÅ™iprav se pÅ™ipojit ke svÃ½m pÅ™edkÅ¯m!}
+{406}{}{Jsem Francouz. ProÄ myslÃ­Å¡, Å¾e mÃ¡m tak pÅ™Ã­Å¡ernÃ½ pÅ™Ã­zvuk? [DivnÄ› na nÄ›j zÃ­rat]}
+{407}{}{ZapomeÅˆ na to. OmlouvÃ¡m se za obtÄ›Å¾ovÃ¡nÃ­.}
+{410}{}{MluvÃ­Å¡ se StÃ­n-kterÃ½-krÃ¡ÄÃ­. ProÄ jsi tu?}
+{411}{}{SnaÅ¾Ã­m se zastavit Ãºtoky nÃ¡jezdnÃ­kÅ¯ na Vault City a mÃ¡m podezÅ™enÃ­, Å¾e prÃ¡vÄ› tady je jejich zÃ¡kladna. Co o nich vÃ­Å¡?}
+{412}{}{Poslalo mÄ› Vault City kvÅ¯li ÃºtokÅ¯m nÃ¡jezdnÃ­kÅ¯ na mÄ›sto.}
+{413}{}{Jen mÄ› zajÃ­malo, co tu je, ale teÄ uÅ¾ pÅ¯jdu.}
+{414}{}{CviÄÃ­m stÅ™elbu a ty vypadÃ¡Å¡ jako perfektnÃ­ pohyblivÃ½ terÄ.}
+{420}{}{StÃ­n-kterÃ½-krÃ¡ÄÃ­ vÃ­, Å¾e tu nejsou Å¾Ã¡dnÃ­ nÃ¡jezdnÃ­ci. StÃ­n-kterÃ½-krÃ¡ÄÃ­ jen vÃ­, Å¾e tu jsou RangeÅ™i a ti chtÄ›jÃ­ osvobodit otroky ve Vault City, z toho zlÃ©ho mÃ­sta. (DÃ¡ ti popis, kterÃ½ sedÃ­ na jednoho z nÃ¡jezdnÃ­kÅ¯.)}
+{421}{}{Tohle Å¾e ti Å™ekli? Å½e jsou RangeÅ™i? Tady nikde Å¾Ã¡dnÃ­ RangeÅ™i nejsou, lhali ti.}
+{422}{}{RangeÅ™i? Tohle nejsou RangeÅ™i. PodÃ­vej se na jejich obleÄenÃ­. Jsi pÄ›Å¡Ã¡k v jejich hÅ™e. Jen tÄ› vyuÅ¾Ã­vajÃ­.}
+{423}{}{PodÃ­vej, Vault City mÄ› poslalo najÃ­t nÃ¡jezdnÃ­ky. Popis sedÃ­ pÅ™esnÄ› tady na ty muÅ¾e.}
+{424}{}{Aha, dobÅ™e. Potom tedy odchÃ¡zÃ­m.}
+{425}{}{NevÄ›Å™Ã­m ti. ZemÅ™i, zlÃ½ muÅ¾i!}
+{430}{}{ProÄ by lhali StÃ­nu-kterÃ½-krÃ¡ÄÃ­?}
+{431}{}{PomÃ¡hal bys jim, kdyby ti Å™ekli, Å¾e jsou to nÃ¡jezdnÃ­ci ÃºtoÄÃ­cÃ­ na nevinnÃ© lidi a Å¾e je ani trochu nezajÃ­mÃ¡ pomÃ¡hat nÄ›komu ve Vault City?}
+{432}{}{NevÃ­m. Å½ijeme v drsnÃ©m svÄ›tÄ›. LidÃ© okrÃ¡dajÃ­ druhÃ© dnes a dennÄ›.}
+{433}{}{Aby se tÅ™eba poÅ™Ã¡dnÄ› zasmÃ¡li? VypadÃ¡Å¡ tak hloupÄ›, Å¾e bys naletÄ›l na cokoliv.}
+{440}{}{StÃ­n-kterÃ½-krÃ¡ÄÃ­ by nikdy nepomÃ¡hal nÄ›Äemu takovÃ©mu, to by bylo zlÃ©. (PodezÃ­ravÄ› si tÄ› prohlÃ­Å¾Ã­.) Ale proÄ by StÃ­n-kterÃ½-krÃ¡ÄÃ­ mÄ›l vÄ›Å™it tomu, co Å™Ã­kÃ¡Å¡?}
+{441}{}{[Å˜Ã­ct mu o svÃ©m kmeni]}
+{442}{}{ProtoÅ¾e jsem Ranger, nefalÅ¡ovanÃ½. [UkÃ¡zat mu odznak]}
+{443}{}{ProtoÅ¾e vÃ­m, pro koho ti nÃ¡jezdnÃ­ci pracujÃ­ a nenÃ­ to vÅ¯bec hodnÃ½ ÄlovÄ›k. [UkÃ¡zat mu data z holodisku]}
+{444}{}{NevÃ­m. PromiÅˆ mi to obtÄ›Å¾ovÃ¡nÃ­.}
+{445}{}{NemusÃ­Å¡, stejnÄ› tÄ› zabiju.}
+{450}{}{(ZdÃ¡ se, Å¾e se teÄ StÃ­n-kterÃ½-krÃ¡ÄÃ­ na tebe dÃ­vÃ¡ s vÄ›tÅ¡Ã­ dÅ¯vÄ›rou.) StÃ­n-kterÃ½-krÃ¡ÄÃ­ teÄ vÃ­, Å¾e ty jsi pravdy mluvka. StÃ­n-kterÃ½-krÃ¡ÄÃ­ ti vÄ›Å™Ã­.}
+{451}{}{Co teÄ budeÅ¡ dÄ›lat?}
+{452}{}{NemÃ¡Å¡ tuÅ¡enÃ­, proÄ tihle nÃ¡jezdnÃ­ci ÃºtoÄÃ­ na Vault City?}
+{453}{}{To je srandovnÃ­. VÅ¡echno to byla totiÅ¾ jen leÅ¾. JakÃ© to je, troubo?}
+{460}{}{Ne, nevÃ­m. VÃ­m jen, Å¾e oklamali StÃ­n-kterÃ½-krÃ¡ÄÃ­, aby jim pomohl najÃ­t cestu.}
+{461}{}{Co teÄ budeÅ¡ dÄ›lat?}
+{462}{}{NeslyÅ¡el jsi nÃ¡hodou, jak se o nÄ›kom bavÃ­ nebo tak nÄ›co?}
+{463}{}{No, tak nevadÃ­, prostÄ› je vÅ¡echny zabiju. MyslÃ­m, Å¾e se ale napÅ™ed trochu rozehÅ™eju tady na tobÄ›...}
+{470}{}{Hmmm... moÅ¾nÃ¡. KdyÅ¾ jich nÄ›kolik Å¡lo pro vÃ­c hÅ™mÄ›jÃ­cÃ­ch, divnÃ½ch zbranÃ­... (NaznaÄÃ­ jako kdyÅ¾ nÄ›kdo pouÅ¾Ã­vÃ¡ puÅ¡ku.) ...tak zmÃ­nili jmÃ©no... Bishop. Ano, mluvili o muÅ¾i jmÃ©nem Bishop.}
+{471}{}{Aha. DÃ­ky, StÃ­ne-kterÃ½-chodÃ­, velmi jsi mi pomohl.}
+{472}{}{DobrÃ¡. TeÄ kdyÅ¾ mÃ¡m tu informaci, tak tu provedu dÅ¯kladnou deratizaci a zaÄnu u tebe...}
+{480}{}{StÃ­n-kterÃ½-krÃ¡ÄÃ­ dÄ›kuje, StÃ­n-kterÃ½-krÃ¡ÄÃ­ nemÃ¡ rÃ¡d, kdyÅ¾ je napÃ¡len.}
+{481}{}{NenÃ­ zaÄ. TakÅ¾e co teÄ?}
+{482}{}{Opravdu? A jÃ¡ myslel, Å¾e sis uÅ¾ dÃ¡vno zvykl na to, Å¾e jsi idiot a tak...}
+{490}{}{StÃ­n-kterÃ½-krÃ¡ÄÃ­ uÅ¾ nebude pomÃ¡hat. StÃ­n-kterÃ½-krÃ¡ÄÃ­ teÄ pÅ¯jde domÅ¯ a uÅ¾ neukÃ¡Å¾e znovu zlÃ½m muÅ¾Å¯m cestu.}
+{491}{}{DobÅ™e. To by mÄ›lo zabrÃ¡nit nÃ¡jezdnÃ­kÅ¯m dÃ¡le ubliÅ¾ovat nevinnÃ½m lidem ve Vault City.}
+{500}{}{StÃ­n-kterÃ½-krÃ¡ÄÃ­ dÄ›kuje, pÅ™Ã­teli, za pÅ™inesenÃ­ pravdy. DuchovÃ© nechÅ¥ tÄ› doprovÃ¡zÃ­ na cestÄ›.}
 {501}{}{I tebe.}
-{600}{}{(Zamraèí se.) Prokleté místo. Proè by Stín-kterı-kráèí mìl poslouchat nìkoho, kdo pøichází ze zlého Vault City?}
-{601}{}{Protoe stín bude brzy to jediné, co z tebe zbyde, kdy poslouchat nebudeš.}
-{602}{}{Nejsem tu, abys mì poslouchal. Jsem tu, abys umøel.}
-{610}{}{(Chvíli tì ostraitì studuje.) Stín-kterı-kráèí bude poslouchat. Teï mi øekni, proè tu jsi?}
-{611}{}{Vault City je pod tìkım útokem a stráe ve Vault City nedokázali zjistit, kdo na nì útoèí a jakı je jejich zámìr.}
-{612}{}{No, nemám ti toho moc co øíct, take nechám mluvit svoje pìsti.}
-{620}{}{A proè by si mìl Stín-kterı-kráèí myslet, e je to špatné? Dostávají, co si zaslouí, a Stín-kterı-kráèí bude šastnı, a budou poraeni a jejich 'sluhové' osvobozeni.}
-{621}{}{Take podporuješ kohokoliv, kdo na nì útoèí?}
-{622}{}{No, myslím, e tì nenechám ít tak dlouho, aby se to stalo.}
-{630}{}{Stín-kterı-kráèí jim ukazuje cestu do Vault City a zpátky. Stín-kterı-kráèí je pro nì velmi dùleitı. Je potøebnı pro nalezení cesty.}
-{631}{}{Aha, take tì jen musím zabít a pak by ty útoky mìly pøestat.}
-{632}{}{Chceš snad øíct BYL dùleitı, ne? Tím chci øíct, e teï zemøeš, mojí rukou.}
-{640}{}{(Jeho tváø se pomalu naplní strachem a poté zaène ustupovat.) Prosím, ne! Stín-kterı-kráèí si nepøeje zemøít!}
-{641}{}{V tom pøípadì opus tohle místo a u se sem nikdy nevracej. Budu poèítat do deseti a jestli nebudeš do té doby pryè, pøipojíš se ke svım pøedkùm nahoøe v nebi. JEDNA...}
-{642}{}{Pøíliš pozdì, mùj milı divochu. Pøipojíš se ke svım pøedkùm pøiblinì za... 12 sekund.}
-{700}{}{(Divoch se na tebe tiše dívá.)}
-{701}{}{[Zírat dál]}
-{702}{}{[Zaútoèit]}
+{600}{}{(ZamraÄÃ­ se.) ProkletÃ© mÃ­sto. ProÄ by StÃ­n-kterÃ½-krÃ¡ÄÃ­ mÄ›l poslouchat nÄ›koho, kdo pÅ™ichÃ¡zÃ­ ze zlÃ©ho Vault City?}
+{601}{}{ProtoÅ¾e stÃ­n bude brzy to jedinÃ©, co z tebe zbyde, kdyÅ¾ poslouchat nebudeÅ¡.}
+{602}{}{Nejsem tu, abys mÄ› poslouchal. Jsem tu, abys umÅ™el.}
+{610}{}{(ChvÃ­li tÄ› ostraÅ¾itÄ› studuje.) StÃ­n-kterÃ½-krÃ¡ÄÃ­ bude poslouchat. TeÄ mi Å™ekni, proÄ tu jsi?}
+{611}{}{Vault City je pod tÄ›Å¾kÃ½m Ãºtokem a strÃ¡Å¾e ve Vault City nedokÃ¡zali zjistit, kdo na nÄ› ÃºtoÄÃ­ a jakÃ½ je jejich zÃ¡mÄ›r.}
+{612}{}{No, nemÃ¡m ti toho moc co Å™Ã­ct, takÅ¾e nechÃ¡m mluvit svoje pÄ›sti.}
+{620}{}{A proÄ by si mÄ›l StÃ­n-kterÃ½-krÃ¡ÄÃ­ myslet, Å¾e je to Å¡patnÃ©? DostÃ¡vajÃ­, co si zaslouÅ¾Ã­, a StÃ­n-kterÃ½-krÃ¡ÄÃ­ bude Å¡Å¥astnÃ½, aÅ¾ budou poraÅ¾eni a jejich 'sluhovÃ©' osvobozeni.}
+{621}{}{TakÅ¾e podporujeÅ¡ kohokoliv, kdo na nÄ› ÃºtoÄÃ­?}
+{622}{}{No, myslÃ­m, Å¾e tÄ› nenechÃ¡m Å¾Ã­t tak dlouho, aby se to stalo.}
+{630}{}{StÃ­n-kterÃ½-krÃ¡ÄÃ­ jim ukazuje cestu do Vault City a zpÃ¡tky. StÃ­n-kterÃ½-krÃ¡ÄÃ­ je pro nÄ› velmi dÅ¯leÅ¾itÃ½. Je potÅ™ebnÃ½ pro nalezenÃ­ cesty.}
+{631}{}{Aha, takÅ¾e tÄ› jen musÃ­m zabÃ­t a pak by ty Ãºtoky mÄ›ly pÅ™estat.}
+{632}{}{ChceÅ¡ snad Å™Ã­ct BYL dÅ¯leÅ¾itÃ½, ne? TÃ­m chci Å™Ã­ct, Å¾e teÄ zemÅ™eÅ¡, mojÃ­ rukou.}
+{640}{}{(Jeho tvÃ¡Å™ se pomalu naplnÃ­ strachem a potÃ© zaÄne ustupovat.) ProsÃ­m, ne! StÃ­n-kterÃ½-krÃ¡ÄÃ­ si nepÅ™eje zemÅ™Ã­t!}
+{641}{}{V tom pÅ™Ã­padÄ› opusÅ¥ tohle mÃ­sto a uÅ¾ se sem nikdy nevracej. Budu poÄÃ­tat do deseti a jestli nebudeÅ¡ do tÃ© doby pryÄ, pÅ™ipojÃ­Å¡ se ke svÃ½m pÅ™edkÅ¯m nahoÅ™e v nebi. JEDNA...}
+{642}{}{PÅ™Ã­liÅ¡ pozdÄ›, mÅ¯j milÃ½ divochu. PÅ™ipojÃ­Å¡ se ke svÃ½m pÅ™edkÅ¯m pÅ™ibliÅ¾nÄ› za... 12 sekund.}
+{700}{}{(Divoch se na tebe tiÅ¡e dÃ­vÃ¡.)}
+{701}{}{[ZÃ­rat dÃ¡l]}
+{702}{}{[ZaÃºtoÄit]}
 {703}{}{Jmenuju se }
 {704}{}{. Kdo jsi ty?}
-{705}{}{Plním úkol pro Vault City. Kdo jsi ty?}
-{706}{}{Moje jméno není podstatné. Chci tì varovat. Jsi ve velkém nebezpeèí!}
-{707}{}{Zapomeò na to, jdu pryè.}
-{708}{}{U s tebou nechci mluvit, ty dutohlavı psí rádlo! Prdím na tebe! Tvoje matka byla køeèek a tvùj otec smrdìl po bezinkách!}
-{710}{}{(Divoch na tebe stále beze slova zírá.)}
-{711}{}{[Zírat dál]}
-{712}{}{[Zaútoèit]}
+{705}{}{PlnÃ­m Ãºkol pro Vault City. Kdo jsi ty?}
+{706}{}{Moje jmÃ©no nenÃ­ podstatnÃ©. Chci tÄ› varovat. Jsi ve velkÃ©m nebezpeÄÃ­!}
+{707}{}{ZapomeÅˆ na to, jdu pryÄ.}
+{708}{}{UÅ¾ s tebou nechci mluvit, ty dutohlavÃ½ psÃ­ Å¾rÃ¡dlo! PrdÃ­m na tebe! Tvoje matka byla kÅ™eÄek a tvÅ¯j otec smrdÄ›l po bezinkÃ¡ch!}
+{710}{}{(Divoch na tebe stÃ¡le beze slova zÃ­rÃ¡.)}
+{711}{}{[ZÃ­rat dÃ¡l]}
+{712}{}{[ZaÃºtoÄit]}
 {713}{}{Jmenuju se }
 {714}{}{. Kdo jsi ty?}
-{715}{}{Plním úkol pro Vault City. Kdo jsi ty?}
-{716}{}{Moje jméno není podstatné. Chci tì varovat. Jsi ve velkém nebezpeèí!}
-{717}{}{Zapomeò na to, jdu pryè.}
-{718}{}{U s tebou nechci mluvit, ty dutohlavı psí rádlo! Prdím na tebe! Tvoje matka byla køeèek a tvùj otec smrdìl po bezinkách!}
-{720}{}{(Divoch na tebe stále beze slova zírá. Je zøejmé, e zaèíná bıt netrpìlivı.)}
-{721}{}{[Zírat dál]}
-{722}{}{[Zaútoèit]}
+{715}{}{PlnÃ­m Ãºkol pro Vault City. Kdo jsi ty?}
+{716}{}{Moje jmÃ©no nenÃ­ podstatnÃ©. Chci tÄ› varovat. Jsi ve velkÃ©m nebezpeÄÃ­!}
+{717}{}{ZapomeÅˆ na to, jdu pryÄ.}
+{718}{}{UÅ¾ s tebou nechci mluvit, ty dutohlavÃ½ psÃ­ Å¾rÃ¡dlo! PrdÃ­m na tebe! Tvoje matka byla kÅ™eÄek a tvÅ¯j otec smrdÄ›l po bezinkÃ¡ch!}
+{720}{}{(Divoch na tebe stÃ¡le beze slova zÃ­rÃ¡. Je zÅ™ejmÃ©, Å¾e zaÄÃ­nÃ¡ bÃ½t netrpÄ›livÃ½.)}
+{721}{}{[ZÃ­rat dÃ¡l]}
+{722}{}{[ZaÃºtoÄit]}
 {723}{}{Jmenuju se }
 {724}{}{. Kdo jsi ty?}
-{725}{}{Plním úkol pro Vault City. Kdo jsi ty?}
-{726}{}{Moje jméno není podstatné. Chci tì varovat. Jsi ve velkém nebezpeèí!}
-{727}{}{Zapomeò na to, jdu pryè.}
-{728}{}{U s tebou nechci mluvit, ty dutohlavı psí rádlo! Prdím na tebe! Tvoje matka byla køeèek a tvùj otec smrdìl po bezinkách!}
-{800}{}{Stín-kterı-kráèí ti nevìøí. Stín-kterı-kráèí konèí s mluvením. Sbohem.}
+{725}{}{PlnÃ­m Ãºkol pro Vault City. Kdo jsi ty?}
+{726}{}{Moje jmÃ©no nenÃ­ podstatnÃ©. Chci tÄ› varovat. Jsi ve velkÃ©m nebezpeÄÃ­!}
+{727}{}{ZapomeÅˆ na to, jdu pryÄ.}
+{728}{}{UÅ¾ s tebou nechci mluvit, ty dutohlavÃ½ psÃ­ Å¾rÃ¡dlo! PrdÃ­m na tebe! Tvoje matka byla kÅ™eÄek a tvÅ¯j otec smrdÄ›l po bezinkÃ¡ch!}
+{800}{}{StÃ­n-kterÃ½-krÃ¡ÄÃ­ ti nevÄ›Å™Ã­. StÃ­n-kterÃ½-krÃ¡ÄÃ­ konÄÃ­ s mluvenÃ­m. Sbohem.}
 {801}{}{[KONEC]}
-{802}{}{Neotáèej se ke mì zády, divochu. Mluvím s tebou.}
-{810}{}{Jak se opovauješ vyhroovat Stínu-kterı-chodí? Odejdi.}
-{811}{}{[Odejít]}
-{812}{}{[Zaútoèit]}
+{802}{}{NeotÃ¡Äej se ke mÄ› zÃ¡dy, divochu. MluvÃ­m s tebou.}
+{810}{}{Jak se opovaÅ¾ujeÅ¡ vyhroÅ¾ovat StÃ­nu-kterÃ½-chodÃ­? Odejdi.}
+{811}{}{[OdejÃ­t]}
+{812}{}{[ZaÃºtoÄit]}
 {850}{}{Kdo je tam?}
-{851}{}{Pšššt... vovím kválíky.}
-{852}{}{HeeeeHeee! Hehe... he... ty mít krásné malování jako obrázek... heeee!}
-{900}{}{Stín-kterı-kráèí nerozumí. Jak to myslíš?}
-{901}{}{Jsi ve velkém nebezpeèí! Øekni mi, co tady dìláš. Potøebuju vìdìt, jestli mluvím s tou správnou osobou.}
-{902}{}{Eh, zlí duchové si jdou pro tebe.}
-{903}{}{To nebezpeèí je, e tì zabiju.}
-{910}{}{Stín-kterı-kráèí je prùzkumník. Stín-kterı-kráèí pøevádí Rangery pøes hory. Váleèníci by se nejspíš ztratili, jeliko neznají cestu pøes hory.}
-{911}{}{Pak jsi to opravdu ty! Moje Starší mì poslala, abych ti øekl, e tì postihne nìco hrozného.}
-{912}{}{Tohle e ti øekli? e jsou Rangeøi? Tady nikde ádní Rangeøi nejsou, lhali ti.}
-{913}{}{Rangeøi? Tohle nejsou Rangeøi. Podívej se na jejich obleèení. Jsi pìšák v jejich høe. Jen tì vyuívají.}
-{920}{}{Co!? Stín-kterı-kráèí nerozumí. Proè by Starší øíkala takové vìci?}
-{921}{}{Poslouchej mì! Naše Starší pøedpovìdìla tvoji smrt. Pøíštì, a opustíš tuhle jeskyni, abys pøevedl tyhle mue pøes hory, nevrátíš se ivı. Musíš ihned odejít, jinak si tì vezmou zlí duchové.}
-{922}{}{Pochybuješ snad o Starší?}
-{930}{}{P-proè... proè by ti mìl Stín-kterı-kráèí vìøit? Jak Starší pøedpovìdìla takovou událost?}
-{931}{}{No... sledovala jednou takovı film... ne, ne... eh, hrála takovou hru... mmmmm... ano! Jmenovala se Fal...}
-{932}{}{Tohle vypila. Dost to páchlo a pak se jí zjevily ivé sny.}
-{933}{}{Kost v jejím nose jí to øekla. Takhle ona mluví s našimi pøedky.}
-{940}{}{Leš. Takhle nikdo s duchy nemluví. Nyní Stín-kterı-kráèí pozná, jak chutná jazyk lháøe s omáèkou z kvìtiny broc.}
+{851}{}{PÅ¡Å¡Å¡t... vovÃ­m kvÃ¡lÃ­ky.}
+{852}{}{HeeeeHeee! Hehe... he... ty mÃ­t krÃ¡snÃ© malovÃ¡nÃ­ jako obrÃ¡zek... heeee!}
+{900}{}{StÃ­n-kterÃ½-krÃ¡ÄÃ­ nerozumÃ­. Jak to myslÃ­Å¡?}
+{901}{}{Jsi ve velkÃ©m nebezpeÄÃ­! Å˜ekni mi, co tady dÄ›lÃ¡Å¡. PotÅ™ebuju vÄ›dÄ›t, jestli mluvÃ­m s tou sprÃ¡vnou osobou.}
+{902}{}{Eh, zlÃ­ duchovÃ© si jdou pro tebe.}
+{903}{}{To nebezpeÄÃ­ je, Å¾e tÄ› zabiju.}
+{910}{}{StÃ­n-kterÃ½-krÃ¡ÄÃ­ je prÅ¯zkumnÃ­k. StÃ­n-kterÃ½-krÃ¡ÄÃ­ pÅ™evÃ¡dÃ­ Rangery pÅ™es hory. VÃ¡leÄnÃ­ci by se nejspÃ­Å¡ ztratili, jelikoÅ¾ neznajÃ­ cestu pÅ™es hory.}
+{911}{}{Pak jsi to opravdu ty! Moje StarÅ¡Ã­ mÄ› poslala, abych ti Å™ekl, Å¾e tÄ› postihne nÄ›co hroznÃ©ho.}
+{912}{}{Tohle Å¾e ti Å™ekli? Å½e jsou RangeÅ™i? Tady nikde Å¾Ã¡dnÃ­ RangeÅ™i nejsou, lhali ti.}
+{913}{}{RangeÅ™i? Tohle nejsou RangeÅ™i. PodÃ­vej se na jejich obleÄenÃ­. Jsi pÄ›Å¡Ã¡k v jejich hÅ™e. Jen tÄ› vyuÅ¾Ã­vajÃ­.}
+{920}{}{Co!? StÃ­n-kterÃ½-krÃ¡ÄÃ­ nerozumÃ­. ProÄ by StarÅ¡Ã­ Å™Ã­kala takovÃ© vÄ›ci?}
+{921}{}{Poslouchej mÄ›! NaÅ¡e StarÅ¡Ã­ pÅ™edpovÄ›dÄ›la tvoji smrt. PÅ™Ã­Å¡tÄ›, aÅ¾ opustÃ­Å¡ tuhle jeskyni, abys pÅ™evedl tyhle muÅ¾e pÅ™es hory, nevrÃ¡tÃ­Å¡ se Å¾ivÃ½. MusÃ­Å¡ ihned odejÃ­t, jinak si tÄ› vezmou zlÃ­ duchovÃ©.}
+{922}{}{PochybujeÅ¡ snad o StarÅ¡Ã­?}
+{930}{}{P-proÄ... proÄ by ti mÄ›l StÃ­n-kterÃ½-krÃ¡ÄÃ­ vÄ›Å™it? Jak StarÅ¡Ã­ pÅ™edpovÄ›dÄ›la takovou udÃ¡lost?}
+{931}{}{No... sledovala jednou takovÃ½ film... ne, ne... eh, hrÃ¡la takovou hru... mmmmm... ano! Jmenovala se Fal...}
+{932}{}{Tohle vypila. Dost to pÃ¡chlo a pak se jÃ­ zjevily Å¾ivÃ© sny.}
+{933}{}{Kost v jejÃ­m nose jÃ­ to Å™ekla. Takhle ona mluvÃ­ s naÅ¡imi pÅ™edky.}
+{940}{}{LÅ¾eÅ¡. Takhle nikdo s duchy nemluvÃ­. NynÃ­ StÃ­n-kterÃ½-krÃ¡ÄÃ­ poznÃ¡, jak chutnÃ¡ jazyk lhÃ¡Å™e s omÃ¡Äkou z kvÄ›tiny broc.}
 {941}{}{[KONEC]}
-{950}{}{Aha, potom je to tedy pravda. Stín-kterı-kráèí zná sílu duchù. Co by mìl Stín-kterı-kráèí udìlat?}
-{951}{}{No, právì jsem s nimi mluvil a øíkali, e tì nemají moc rádi. Poádali mì, abych tì zabil.}
-{952}{}{Musíš odsud navdy odejít a u nikdy nesmíš tìmhle muùm pomáhat. Duchové se na tebe zlobí za to, e jsi je pøevedl pøes hory. Modli se dennì k duchùm. Jen tak bude jejich vztek zaehnán.}
-{960}{}{Stín-kterı-kráèí poslechne. (Stín-kterı-kráèí bìí pøímo k ebøíku, kterı vede ven.)}
-{961}{}{Nemáš zaè, Stíne-kterı-bìí.}
-{1000}{}{Podaøilo se ti odstranit velkou vıhodu nájezdníkù. U nikdy nebudou napadat tuto oblast.}
-{1001}{}{Ještì tak jeden nebo dva dny a jsem si jistı, e nájezdníci tohle místo opustí. Pak se budu moct porozhlédnout po dùkazech.}
+{950}{}{Aha, potom je to tedy pravda. StÃ­n-kterÃ½-krÃ¡ÄÃ­ znÃ¡ sÃ­lu duchÅ¯. Co by mÄ›l StÃ­n-kterÃ½-krÃ¡ÄÃ­ udÄ›lat?}
+{951}{}{No, prÃ¡vÄ› jsem s nimi mluvil a Å™Ã­kali, Å¾e tÄ› nemajÃ­ moc rÃ¡di. PoÅ¾Ã¡dali mÄ›, abych tÄ› zabil.}
+{952}{}{MusÃ­Å¡ odsud navÅ¾dy odejÃ­t a uÅ¾ nikdy nesmÃ­Å¡ tÄ›mhle muÅ¾Å¯m pomÃ¡hat. DuchovÃ© se na tebe zlobÃ­ za to, Å¾e jsi je pÅ™evedl pÅ™es hory. Modli se dennÄ› k duchÅ¯m. Jen tak bude jejich vztek zaÅ¾ehnÃ¡n.}
+{960}{}{StÃ­n-kterÃ½-krÃ¡ÄÃ­ poslechne. (StÃ­n-kterÃ½-krÃ¡ÄÃ­ bÄ›Å¾Ã­ pÅ™Ã­mo k Å¾ebÅ™Ã­ku, kterÃ½ vede ven.)}
+{961}{}{NemÃ¡Å¡ zaÄ, StÃ­ne-kterÃ½-bÄ›Å¾Ã­.}
+{1000}{}{PodaÅ™ilo se ti odstranit velkou vÃ½hodu nÃ¡jezdnÃ­kÅ¯. UÅ¾ nikdy nebudou napadat tuto oblast.}
+{1001}{}{JeÅ¡tÄ› tak jeden nebo dva dny a jsem si jistÃ½, Å¾e nÃ¡jezdnÃ­ci tohle mÃ­sto opustÃ­. Pak se budu moct porozhlÃ©dnout po dÅ¯kazech.}

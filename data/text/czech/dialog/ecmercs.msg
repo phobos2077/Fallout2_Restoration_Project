@@ -1,6 +1,6 @@
-{100}{}{Vidíš oldáka.}
-{101}{}{CVièná støelba, hoši!}
-{102}{}{Snadnej cíl.}
-{103}{}{Utíkej... mám rád pohyblivı cíle.}
-{104}{}{Zóna smrti!}
-{105}{}{Potvrzen nepøátelskı kontakt.}
+{100}{}{VidÃ­Å¡ Å¾oldÃ¡ka.}
+{101}{}{CViÄnÃ¡ stÅ™elba, hoÅ¡i!}
+{102}{}{Snadnej cÃ­l.}
+{103}{}{UtÃ­kej... mÃ¡m rÃ¡d pohyblivÃ½ cÃ­le.}
+{104}{}{ZÃ³na smrti!}
+{105}{}{Potvrzen nepÅ™Ã¡telskÃ½ kontakt.}

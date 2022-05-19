@@ -1,1 +1,1 @@
-{100}{}{Vstupuješ do odlehlé oblasti s mrtvou vegetací všude kolem. Pøed tebou stojí velikı bunkr.}
+{100}{}{VstupujeÅ¡ do odlehlÃ© oblasti s mrtvou vegetacÃ­ vÅ¡ude kolem. PÅ™ed tebou stojÃ­ velikÃ½ bunkr.}

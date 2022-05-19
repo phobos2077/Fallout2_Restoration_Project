@@ -1,39 +1,39 @@
-{100}{}{Vidíš ghoula s nìjakım druhem talismanu na krku.}
-{101}{}{Vidíš èlena kultu Obrození.}
-{102}{}{Vidíš spokojenì vypadajícího ghoula.}
-{110}{}{Vidíš Záøícího s nìjakım druhem talismanu na krku.}
-{111}{}{Vidíš èlena kultu Obrození.}
-{112}{}{Vidíš spokojenì vypadajícího Zaøícího.}
-{120}{}{Jeden z nás, jeden z nás...}
-{121}{}{Obroï se, kamaráde! Obroï se!}
-{122}{}{Poslední den je tady.}
-{123}{}{Brzy budeme všichni hezouni jako ty, kamaráde.}
-{124}{}{Atom nám dává sílu.}
-{125}{}{Zdravím, kamaráde. Brain ví všechno.}
-{126}{}{Obrození je na dosah, kamaráde.}
-{127}{}{V jednotì je síla.}
-{128}{}{Pryè s radikalismem, kamaráde.}
-{129}{}{Všichni budeme Obrozeni dohromady.}
-{130}{}{Zdravím, kamaráde. Brain ví všechno.}
-{131}{}{Jsi Brainùv oblíbenec... brzy budeš patøit k nám.}
-{132}{}{Hledáš slova Obrození, pøíteli?}
-{133}{}{Sedni si k jeho rùovım nohám a poslouchej o Obrození.}
-{134}{}{Chytøí vyhledávají jeho moudrost.}
-{135}{}{Zdravím, pøíteli. Budeš s námi usilovat o Obrození?}
-{136}{}{Obroï se! Obroï se!}
-{137}{}{Ké bychom pro nìj mìli vozík. (povzdech)}
-{138}{}{ehnám ti, pøíteli. Obrození je na dosah pro vybrané.}
-{139}{}{Bıt Brainùv pøítel je úasná vìc.}
-{140}{}{Zdravím. Radši si dávej pozor.}
-{141}{}{Sledujeme tì.}
-{142}{}{Hledej osvícení v Brainovì moudrosti.}
-{143}{}{Nechápu, proè dovolujeme hezounùm chodit sem dolù.}
-{144}{}{Radši jdi rovnou za ním.}
-{145}{}{Jdeš za Brainem?}
-{150}{}{Zdravím, hezoune. Usiluješ o Obrození?}
-{151}{}{Náš Jemnostpán tì chce vidìt.}
-{152}{}{I ty se mùeš Obrodit!}
-{153}{}{Pøidej se k nám a Obroï se!}
-{154}{}{On tì chce vidìt?}
-{155}{}{Obrození je samozøejmì moné i pro hezouny.}
-{156}{}{Hezouni se mùou Obrodit taky.}
+{100}{}{VidÃ­Å¡ ghoula s nÄ›jakÃ½m druhem talismanu na krku.}
+{101}{}{VidÃ­Å¡ Älena kultu ObrozenÃ­.}
+{102}{}{VidÃ­Å¡ spokojenÄ› vypadajÃ­cÃ­ho ghoula.}
+{110}{}{VidÃ­Å¡ ZÃ¡Å™Ã­cÃ­ho s nÄ›jakÃ½m druhem talismanu na krku.}
+{111}{}{VidÃ­Å¡ Älena kultu ObrozenÃ­.}
+{112}{}{VidÃ­Å¡ spokojenÄ› vypadajÃ­cÃ­ho ZaÅ™Ã­cÃ­ho.}
+{120}{}{Jeden z nÃ¡s, jeden z nÃ¡s...}
+{121}{}{ObroÄ se, kamarÃ¡de! ObroÄ se!}
+{122}{}{PoslednÃ­ den je tady.}
+{123}{}{Brzy budeme vÅ¡ichni hezouni jako ty, kamarÃ¡de.}
+{124}{}{Atom nÃ¡m dÃ¡vÃ¡ sÃ­lu.}
+{125}{}{ZdravÃ­m, kamarÃ¡de. Brain vÃ­ vÅ¡echno.}
+{126}{}{ObrozenÃ­ je na dosah, kamarÃ¡de.}
+{127}{}{V jednotÄ› je sÃ­la.}
+{128}{}{PryÄ s radikalismem, kamarÃ¡de.}
+{129}{}{VÅ¡ichni budeme Obrozeni dohromady.}
+{130}{}{ZdravÃ­m, kamarÃ¡de. Brain vÃ­ vÅ¡echno.}
+{131}{}{Jsi BrainÅ¯v oblÃ­benec... brzy budeÅ¡ patÅ™it k nÃ¡m.}
+{132}{}{HledÃ¡Å¡ slova ObrozenÃ­, pÅ™Ã­teli?}
+{133}{}{Sedni si k jeho rÅ¯Å¾ovÃ½m nohÃ¡m a poslouchej o ObrozenÃ­.}
+{134}{}{ChytÅ™Ã­ vyhledÃ¡vajÃ­ jeho moudrost.}
+{135}{}{ZdravÃ­m, pÅ™Ã­teli. BudeÅ¡ s nÃ¡mi usilovat o ObrozenÃ­?}
+{136}{}{ObroÄ se! ObroÄ se!}
+{137}{}{KÃ©Å¾ bychom pro nÄ›j mÄ›li vozÃ­k. (povzdech)}
+{138}{}{Å½ehnÃ¡m ti, pÅ™Ã­teli. ObrozenÃ­ je na dosah pro vybranÃ©.}
+{139}{}{BÃ½t BrainÅ¯v pÅ™Ã­tel je ÃºÅ¾asnÃ¡ vÄ›c.}
+{140}{}{ZdravÃ­m. RadÅ¡i si dÃ¡vej pozor.}
+{141}{}{Sledujeme tÄ›.}
+{142}{}{Hledej osvÃ­cenÃ­ v BrainovÄ› moudrosti.}
+{143}{}{NechÃ¡pu, proÄ dovolujeme hezounÅ¯m chodit sem dolÅ¯.}
+{144}{}{RadÅ¡i jdi rovnou za nÃ­m.}
+{145}{}{JdeÅ¡ za Brainem?}
+{150}{}{ZdravÃ­m, hezoune. UsilujeÅ¡ o ObrozenÃ­?}
+{151}{}{NÃ¡Å¡ JemnostpÃ¡n tÄ› chce vidÄ›t.}
+{152}{}{I ty se mÅ¯Å¾eÅ¡ Obrodit!}
+{153}{}{PÅ™idej se k nÃ¡m a ObroÄ se!}
+{154}{}{On tÄ› chce vidÄ›t?}
+{155}{}{ObrozenÃ­ je samozÅ™ejmÄ› moÅ¾nÃ© i pro hezouny.}
+{156}{}{Hezouni se mÅ¯Å¾ou Obrodit taky.}

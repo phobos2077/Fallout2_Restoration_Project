@@ -1,261 +1,261 @@
-{100}{}{Vidíš Val. Nebo Valerii. Nebo jak chceš.}
-{101}{}{Vidíš brunetu obleèenou v hnìdém pracovním odìvu a kovové zbroji. Vypadá jako mechanik.}
-{102}{}{Vidíš Val. Nebo Valerii. Nebo jak chceš.}
-{103}{}{Vidíš brunetu obleèenou v hnìdém pracovním odìvu a kovové zbroji. Vypadá jako mechanik.}
+{100}{}{VidÃ­Å¡ Val. Nebo Valerii. Nebo jak chceÅ¡.}
+{101}{}{VidÃ­Å¡ brunetu obleÄenou v hnÄ›dÃ©m pracovnÃ­m odÄ›vu a kovovÃ© zbroji. VypadÃ¡ jako mechanik.}
+{102}{}{VidÃ­Å¡ Val. Nebo Valerii. Nebo jak chceÅ¡.}
+{103}{}{VidÃ­Å¡ brunetu obleÄenou v hnÄ›dÃ©m pracovnÃ­m odÄ›vu a kovovÃ© zbroji. VypadÃ¡ jako mechanik.}
 {104}{}{Nazdar, "tati."}
-{105}{}{1 vteøina}
-{106}{}{Valerie. Rád tì zase vidím.}
-{107}{}{Och, eh, ahoj tati. Ráda tì zase vidím. Fakt.}
-{108}{}{1 vteøina}
-{109}{}{Ahoj, Valerie. Taky tì zase rád vidím.}
-{110}{}{Radši s tím mutantem odejdi pryè, ne ho zpozorují stráe.}
-{111}{}{Radši s tím ghoulem odejdi pryè, ne ho zpozorují stráe.}
-{112}{}{Ten blbej vrták zase zlobí...}
-{113}{}{Ten soustruh by u potøeboval naolejovat...}
-{114}{}{Musím udìlat seznam nadbyteènejch souèástek pro První Obèanku.}
-{115}{}{Tak funguj, ty pitomej kráme!}
-{116}{}{Jsem obklopená idioty...}
-{117}{}{Ké bych tak mìla to správnı náøadí!}
-{118}{}{Mám chu jít zabít toho holohlavıho opièáka v Obchodním centru...}
-{119}{}{Je pozdì. Vra se ráno.}
-{120}{}{Obchod je zavøenej. A a dokonèím ten seznam pro První Obèanku, tak jdu rovnou domù.}
-{121}{}{Nemám teï èas. Vra se zítra nebo pozítøí, to u bych to mìla mít hotovı.}
-{122}{}{Musím toho ještì hodnì opravit. Vra se zítra nebo pozítøí.}
-{123}{}{Jestlipak to není "šéf" mıho táty.}
+{105}{}{1 vteÅ™ina}
+{106}{}{Valerie. RÃ¡d tÄ› zase vidÃ­m.}
+{107}{}{Och, eh, ahoj tati. RÃ¡da tÄ› zase vidÃ­m. Fakt.}
+{108}{}{1 vteÅ™ina}
+{109}{}{Ahoj, Valerie. Taky tÄ› zase rÃ¡d vidÃ­m.}
+{110}{}{RadÅ¡i s tÃ­m mutantem odejdi pryÄ, neÅ¾ ho zpozorujÃ­ strÃ¡Å¾e.}
+{111}{}{RadÅ¡i s tÃ­m ghoulem odejdi pryÄ, neÅ¾ ho zpozorujÃ­ strÃ¡Å¾e.}
+{112}{}{Ten blbej vrtÃ¡k zase zlobÃ­...}
+{113}{}{Ten soustruh by uÅ¾ potÅ™eboval naolejovat...}
+{114}{}{MusÃ­m udÄ›lat seznam nadbyteÄnejch souÄÃ¡stek pro PrvnÃ­ ObÄanku.}
+{115}{}{Tak funguj, ty pitomej krÃ¡me!}
+{116}{}{Jsem obklopenÃ¡ idioty...}
+{117}{}{KÃ©Å¾ bych tak mÄ›la to sprÃ¡vnÃ½ nÃ¡Å™adÃ­!}
+{118}{}{MÃ¡m chuÅ¥ jÃ­t zabÃ­t toho holohlavÃ½ho opiÄÃ¡ka v ObchodnÃ­m centru...}
+{119}{}{Je pozdÄ›. VraÅ¥ se rÃ¡no.}
+{120}{}{Obchod je zavÅ™enej. A aÅ¾ dokonÄÃ­m ten seznam pro PrvnÃ­ ObÄanku, tak jdu rovnou domÅ¯.}
+{121}{}{NemÃ¡m teÄ Äas. VraÅ¥ se zÃ­tra nebo pozÃ­tÅ™Ã­, to uÅ¾ bych to mÄ›la mÃ­t hotovÃ½.}
+{122}{}{MusÃ­m toho jeÅ¡tÄ› hodnÄ› opravit. VraÅ¥ se zÃ­tra nebo pozÃ­tÅ™Ã­.}
+{123}{}{Jestlipak to nenÃ­ "Å¡Ã©f" mÃ½ho tÃ¡ty.}
 {124}{}{Ano?!}
-{125}{}{CHCEŠ nìco, nebo tam budeš stát jako blbec?}
-{126}{}{Bllll-béééc.}
+{125}{}{CHCEÅ  nÄ›co, nebo tam budeÅ¡ stÃ¡t jako blbec?}
+{126}{}{Bllll-bÃ©Ã©Ã©c.}
 {127}{}{Odbelhat se.}
-{128}{}{Hej, klídek. Jenom se dívám, co je tohle za místo.}
-{129}{}{Bacha na pusu. Nemám dnes náladu na nìjakı srandièky.}
-{130}{}{Hledám Vault. Nevíš, kde ho najdu?}
-{131}{}{Vlastnì u odcházím.}
-{132}{}{Je to ta velká díra ve skále na vıchod odsud, za tìma dvìma nebezpeènì vypadajícíma stráema. Chceš se ještì na nìco zeptat, nebo se mùu vrátit ke svı práci?}
-{133}{}{Co je tohle za místo?}
-{134}{}{Bacha na pusu. Nemám dnes náladu na nìjakı srandièky.}
-{135}{}{Díky za informace. Sbohem.}
-{136}{}{Jako kdyby Vault City nemìl dostatek lidskejch brahmín... podívej, ty tu ZÙSTAT NEMÙEŠ, JASNİ? Mohlo by se ti nìco STÁT! A TEÏ VYPADNI! BÌ!}
-{137}{}{*smrk* Ty velkíí zláá... *smrk*... já jít jinam a udìlat párty s klaunííí... *smrk*... a zmrzlinoúúú... a dortíkem... a já nezvat tak chytrıı lidièkii jako Tİİİ!}
+{128}{}{Hej, klÃ­dek. Jenom se dÃ­vÃ¡m, co je tohle za mÃ­sto.}
+{129}{}{Bacha na pusu. NemÃ¡m dnes nÃ¡ladu na nÄ›jakÃ½ srandiÄky.}
+{130}{}{HledÃ¡m Vault. NevÃ­Å¡, kde ho najdu?}
+{131}{}{VlastnÄ› uÅ¾ odchÃ¡zÃ­m.}
+{132}{}{Je to ta velkÃ¡ dÃ­ra ve skÃ¡le na vÃ½chod odsud, za tÄ›ma dvÄ›ma nebezpeÄnÄ› vypadajÃ­cÃ­ma strÃ¡Å¾ema. ChceÅ¡ se jeÅ¡tÄ› na nÄ›co zeptat, nebo se mÅ¯Å¾u vrÃ¡tit ke svÃ½ prÃ¡ci?}
+{133}{}{Co je tohle za mÃ­sto?}
+{134}{}{Bacha na pusu. NemÃ¡m dnes nÃ¡ladu na nÄ›jakÃ½ srandiÄky.}
+{135}{}{DÃ­ky za informace. Sbohem.}
+{136}{}{Jako kdyby Vault City nemÄ›l dostatek lidskejch brahmÃ­n... podÃ­vej, ty tu ZÅ®STAT NEMÅ®Å½EÅ , JASNÃ? Mohlo by se ti nÄ›co STÃT! A TEÄ VYPADNI! BÄšÅ½!}
+{137}{}{*smrk* Ty velkÃ­Ã­ zlÃ¡Ã¡... *smrk*... jÃ¡ jÃ­t jinam a udÄ›lat pÃ¡rty s klaunÃ­Ã­Ã­... *smrk*... a zmrzlinoÃºÃºÃº... a dortÃ­kem... a jÃ¡ nezvat tak chytrÃ½Ã½ lidiÄkii jako TÃÃÃ!}
 {138}{}{Odbelhat se.}
-{139}{}{Vypadni odsud, nebo zavolám stráe a ty tì DONUTÍ vypadnout.}
-{140}{}{To si mùeš zkusit.}
-{141}{}{Tak dobøe, odcházím.}
-{142}{}{Tohle je Centrum údrby Vault City. Nebo snad NEVIDÍŠ tu obrovskou ceduli na zdi budovy?}
-{143}{}{Ne, promiò. Zdálo se mi, e je to nìjakı obchod.}
-{144}{}{Zapomeò na to. Promiò, e ruším.}
-{145}{}{To s tím "nìjakı obchod" máš pravdu. Poslyš, potøebuješ nìco opravit, nebo se mì chceš jenom zeptat na nìjakı blbı otázky?}
-{146}{}{Co dokáeš opravit?}
-{147}{}{Bacha na pusu. Nemám dnes náladu na nìjakı srandièky.}
-{148}{}{Dnes mám jenom blbé otázky. Promluvíme si pozdìji.}
-{149}{}{Syntetickı alkoholovı rozprašovaèe, vysílaèky, palnı zbranì, èásti laserovejch vìí, poèítaèovı monitory, v podstatì cokoliv... pokud budu mít svı náøadí.}
-{150}{}{Náøadí?}
-{151}{}{To zní jako nároèná práce. Nebudu rušit.}
-{152}{}{Momentálnì mám stìí fungující soustruh a mùj montání klíè je fuè... U ZASE... a moje univerzální kleštì jsou celı ošoupanı.}
-{153}{}{Mùu ti nìjak pomoct?}
-{154}{}{Je snad nìjakı problém sehnat nové náøadí?}
-{155}{}{Tak dobøe. Pøeju hezkı den.}
+{139}{}{Vypadni odsud, nebo zavolÃ¡m strÃ¡Å¾e a ty tÄ› DONUTÃ vypadnout.}
+{140}{}{To si mÅ¯Å¾eÅ¡ zkusit.}
+{141}{}{Tak dobÅ™e, odchÃ¡zÃ­m.}
+{142}{}{Tohle je Centrum ÃºdrÅ¾by Vault City. Nebo snad NEVIDÃÅ  tu obrovskou ceduli na zdi budovy?}
+{143}{}{Ne, promiÅˆ. ZdÃ¡lo se mi, Å¾e je to nÄ›jakÃ½ obchod.}
+{144}{}{ZapomeÅˆ na to. PromiÅˆ, Å¾e ruÅ¡Ã­m.}
+{145}{}{To s tÃ­m "nÄ›jakÃ½ obchod" mÃ¡Å¡ pravdu. PoslyÅ¡, potÅ™ebujeÅ¡ nÄ›co opravit, nebo se mÄ› chceÅ¡ jenom zeptat na nÄ›jakÃ½ blbÃ½ otÃ¡zky?}
+{146}{}{Co dokÃ¡Å¾eÅ¡ opravit?}
+{147}{}{Bacha na pusu. NemÃ¡m dnes nÃ¡ladu na nÄ›jakÃ½ srandiÄky.}
+{148}{}{Dnes mÃ¡m jenom blbÃ© otÃ¡zky. PromluvÃ­me si pozdÄ›ji.}
+{149}{}{SyntetickÃ½ alkoholovÃ½ rozpraÅ¡ovaÄe, vysÃ­laÄky, palnÃ½ zbranÄ›, ÄÃ¡sti laserovejch vÄ›Å¾Ã­, poÄÃ­taÄovÃ½ monitory, v podstatÄ› cokoliv... pokud budu mÃ­t svÃ½ nÃ¡Å™adÃ­.}
+{150}{}{NÃ¡Å™adÃ­?}
+{151}{}{To znÃ­ jako nÃ¡roÄnÃ¡ prÃ¡ce. Nebudu ruÅ¡it.}
+{152}{}{MomentÃ¡lnÄ› mÃ¡m stÄ›Å¾Ã­ fungujÃ­cÃ­ soustruh a mÅ¯j montÃ¡Å¾nÃ­ klÃ­Ä je fuÄ... UÅ½ ZASE... a moje univerzÃ¡lnÃ­ kleÅ¡tÄ› jsou celÃ½ oÅ¡oupanÃ½.}
+{153}{}{MÅ¯Å¾u ti nÄ›jak pomoct?}
+{154}{}{Je snad nÄ›jakÃ½ problÃ©m sehnat novÃ© nÃ¡Å™adÃ­?}
+{155}{}{Tak dobÅ™e. PÅ™eju hezkÃ½ den.}
 {156}{}{Ty? O tom pochybuju.}
-{157}{}{No, mám u sebe montání klíè i univerzální kleštì.}
-{158}{}{Pomùe ti úplnì novı montání klíè a univerzální kleštì?}
-{159}{}{Je snad nìjakı problém sehnat nové náøadí?}
-{160}{}{Asi nechceš mou pomoc. Nevadí.}
-{161}{}{PROBLÉM je v tom, e já nemùu jít jen tak ven a koupit si novı náøadí, musím o nì poádat Vault City. To pøedstavuje vyplnit asi pìt miliard formuláøù, podat je ve tøech kopiích a pak samozøejmì ÈEKAT.}
-{162}{}{A proè to...?}
+{157}{}{No, mÃ¡m u sebe montÃ¡Å¾nÃ­ klÃ­Ä i univerzÃ¡lnÃ­ kleÅ¡tÄ›.}
+{158}{}{PomÅ¯Å¾e ti ÃºplnÄ› novÃ½ montÃ¡Å¾nÃ­ klÃ­Ä a univerzÃ¡lnÃ­ kleÅ¡tÄ›?}
+{159}{}{Je snad nÄ›jakÃ½ problÃ©m sehnat novÃ© nÃ¡Å™adÃ­?}
+{160}{}{Asi nechceÅ¡ mou pomoc. NevadÃ­.}
+{161}{}{PROBLÃ‰M je v tom, Å¾e jÃ¡ nemÅ¯Å¾u jÃ­t jen tak ven a koupit si novÃ½ nÃ¡Å™adÃ­, musÃ­m o nÄ› poÅ¾Ã¡dat Vault City. To pÅ™edstavuje vyplnit asi pÄ›t miliard formulÃ¡Å™Å¯, podat je ve tÅ™ech kopiÃ­ch a pak samozÅ™ejmÄ› ÄŒEKAT.}
+{162}{}{A proÄ to...?}
 {163}{}{To je mi l...}
-{164}{}{Do prdele, objednala jsem si super náøadí pøed nìkolika MÌSÍCI, ale jako obvykle se ukáe a ve chvíli, kdy u ho nebudu potøebovat. Takovı vìci se tu dìjou furt...}
-{165}{}{Moná ti mùu pomoct.}
-{166}{}{Aha. No, to je mi líto. Moná se ještì vrátím.}
-{167}{}{Ano. Proè?}
-{168}{}{No, mám u sebe montání klíè i univerzální kleštì.}
-{169}{}{Mùu je zkusit najít a pøinést ti je.}
-{170}{}{Je snad nìjakı problém sehnat nové náøadí?}
-{171}{}{Aha. No, díky za radu.}
-{172}{}{Nebudu ti v tom bránit, ale jestli chceš, tak bì. Je to tvùj èas, ne mùj. Moná ti seenu nìjakou malièkost jako odmìnu za tvou snahu.}
-{173}{}{Jestli najdu montání klíè a univerzální kleštì, zastavím se.}
+{164}{}{Do prdele, objednala jsem si super nÃ¡Å™adÃ­ pÅ™ed nÄ›kolika MÄšSÃCI, ale jako obvykle se ukÃ¡Å¾e aÅ¾ ve chvÃ­li, kdy uÅ¾ ho nebudu potÅ™ebovat. TakovÃ½ vÄ›ci se tu dÄ›jou furt...}
+{165}{}{MoÅ¾nÃ¡ ti mÅ¯Å¾u pomoct.}
+{166}{}{Aha. No, to je mi lÃ­to. MoÅ¾nÃ¡ se jeÅ¡tÄ› vrÃ¡tÃ­m.}
+{167}{}{Ano. ProÄ?}
+{168}{}{No, mÃ¡m u sebe montÃ¡Å¾nÃ­ klÃ­Ä i univerzÃ¡lnÃ­ kleÅ¡tÄ›.}
+{169}{}{MÅ¯Å¾u je zkusit najÃ­t a pÅ™inÃ©st ti je.}
+{170}{}{Je snad nÄ›jakÃ½ problÃ©m sehnat novÃ© nÃ¡Å™adÃ­?}
+{171}{}{Aha. No, dÃ­ky za radu.}
+{172}{}{Nebudu ti v tom brÃ¡nit, ale jestli chceÅ¡, tak bÄ›Å¾. Je to tvÅ¯j Äas, ne mÅ¯j. MoÅ¾nÃ¡ ti seÅ¾enu nÄ›jakou maliÄkost jako odmÄ›nu za tvou snahu.}
+{173}{}{Jestli najdu montÃ¡Å¾nÃ­ klÃ­Ä a univerzÃ¡lnÃ­ kleÅ¡tÄ›, zastavÃ­m se.}
 {174}{}{Opravdu?}
-{175}{}{Jo. Tady máš.}
-{176}{}{Eh... díky. Teda, není to ádná sláva, ale aspoò nìco. Kde jsi to seb... ale co, to je jedno. To není dùleitı. Tady máš nìco málo za snahu.}
-{177}{}{Díky. Poslyš, chci se ještì na nìco zeptat...}
-{178}{}{Moná bys díky tomu náøadí mohla nìco udìlat s tím tvım chováním.}
-{179}{}{ádnı problém. Rádo se stalo.}
-{180}{}{Jasnì, jasnì... podívej, mám nìjakou práci. Vra se zítra nebo pozítøí, jasnı? Pak budu mít èas na pokec.}
-{181}{}{Uvidíme se tedy zítra.}
-{182}{}{Eh, tak dobøe. Vrátím se zítra nebo pozítøí. Sbohem.}
-{183}{}{Tomu nebudeš vìøit. Ani ne DEN po tom, co jsem od tebe dostala to náøadí, mi pøišlo to moje dávno objednanı super náøadí. Ale ne jedno, poslali mi jich hned PÌT. Co se do hajzlu dìje s tou objednávkovou kanceláøí?!}
-{184}{}{Mohla bys postrádat jednu z tìch souprav?}
-{185}{}{Proè ne?! Co budu dìlat s PÌTI?! Tu máš! Pøísahám, e pùjdu udìlat cirkus tìm pošukùm na Úøadì seznamù.}
-{186}{}{Díky. Poslyš, chci se ještì na nìco zeptat...}
-{187}{}{Tisíceré díky. Bude se mi hodit.}
-{188}{}{Aha, to vidím. No, co teda chceš?}
-{189}{}{Co? Nemám èas kecat celej den.}
+{175}{}{Jo. Tady mÃ¡Å¡.}
+{176}{}{Eh... dÃ­ky. Teda, nenÃ­ to Å¾Ã¡dnÃ¡ slÃ¡va, ale aspoÅˆ nÄ›co. Kde jsi to seb... ale co, to je jedno. To nenÃ­ dÅ¯leÅ¾itÃ½. Tady mÃ¡Å¡ nÄ›co mÃ¡lo za snahu.}
+{177}{}{DÃ­ky. PoslyÅ¡, chci se jeÅ¡tÄ› na nÄ›co zeptat...}
+{178}{}{MoÅ¾nÃ¡ bys dÃ­ky tomu nÃ¡Å™adÃ­ mohla nÄ›co udÄ›lat s tÃ­m tvÃ½m chovÃ¡nÃ­m.}
+{179}{}{Å½Ã¡dnÃ½ problÃ©m. RÃ¡do se stalo.}
+{180}{}{JasnÄ›, jasnÄ›... podÃ­vej, mÃ¡m nÄ›jakou prÃ¡ci. VraÅ¥ se zÃ­tra nebo pozÃ­tÅ™Ã­, jasnÃ½? Pak budu mÃ­t Äas na pokec.}
+{181}{}{UvidÃ­me se tedy zÃ­tra.}
+{182}{}{Eh, tak dobÅ™e. VrÃ¡tÃ­m se zÃ­tra nebo pozÃ­tÅ™Ã­. Sbohem.}
+{183}{}{Tomu nebudeÅ¡ vÄ›Å™it. Ani ne DEN po tom, co jsem od tebe dostala to nÃ¡Å™adÃ­, mi pÅ™iÅ¡lo to moje dÃ¡vno objednanÃ½ super nÃ¡Å™adÃ­. Ale ne jedno, poslali mi jich hned PÄšT. Co se do hajzlu dÄ›je s tou objednÃ¡vkovou kancelÃ¡Å™Ã­?!}
+{184}{}{Mohla bys postrÃ¡dat jednu z tÄ›ch souprav?}
+{185}{}{ProÄ ne?! Co budu dÄ›lat s PÄšTI?! Tu mÃ¡Å¡! PÅ™Ã­sahÃ¡m, Å¾e pÅ¯jdu udÄ›lat cirkus tÄ›m poÅ¡ukÅ¯m na ÃšÅ™adÄ› seznamÅ¯.}
+{186}{}{DÃ­ky. PoslyÅ¡, chci se jeÅ¡tÄ› na nÄ›co zeptat...}
+{187}{}{TisÃ­cerÃ© dÃ­ky. Bude se mi hodit.}
+{188}{}{Aha, to vidÃ­m. No, co teda chceÅ¡?}
+{189}{}{Co? NemÃ¡m Äas kecat celej den.}
 {190}{}{Jo? Co?}
-{191}{}{Mùeš mi nìco opravit?}
-{192}{}{Co máš na skladì?}
-{193}{}{Co se dìje mezi tebou a tvım otcem?}
-{194}{}{Nevadí. Nechám tì pracovat.}
-{195}{}{Nic zajímavıho. Pøijel sem pøed dvaceti lety s karavanou, ošukal mámu a zase odjel. Nevidìla jsem ho asi pìt let, dokud se tu teï neukázal. ádná škoda.}
-{196}{}{To zní jako kdybyste mìli nìjaké nedoøešené vìci.}
-{197}{}{Aha. No, eh, chci se ještì na nìco zeptat...}
-{198}{}{Nevadí. Nechám tì pracovat.}
-{199}{}{Ne, to teda nemáme. Co jsme potøebovali, to jsme si u dávno vyøíkali. }
-{200}{}{Jsi si jistá?}
-{201}{}{Tak dobøe. Chci se ještì na nìco zeptat...}
-{202}{}{Nechám tì tedy pracovat.}
-{203}{}{Ano, to teda JSEM. No... a na to, e si myslím, e by mìl shodit pár kilo. U mu roste pìkná pneumatika. A mìl by se pøestat potulovat po pustinì a skonèit s tím prodejem haraburdí divochùm. To je asi tak všechno.}
-{204}{}{Podívej, mìl velké problémy s otrokáøi, tak se ti snaí vynahradit ten ztracenı èas. Ale máš pravdu, mohl by trochu shodit.}
-{205}{}{Aha, eh, dobøe. Chci se ještì na nìco zeptat...}
-{206}{}{Nevadí. Nechám tì pracovat.}
-{207}{}{Hehe. Máš pìknì jízlivej tón. To se mi líbí. A co se tıèe starıho "táty"... no... hmmm. Zkusím bejt zdvoøilejší. Aspoò na chvíli.}
-{208}{}{Eh... dohlídni, aby se nedostal do maléru, ano?}
-{209}{}{Skvìlé. Poslyš, chci se ještì na nìco zeptat...}
-{210}{}{Budu se snait. Chci se ještì na nìco zeptat...}
-{211}{}{Pøeju si to samé. Nechám tì pracovat.}
-{212}{}{Pokusím se, ale kamkoliv se vydáme, tam nìjakı najdeme. Zatím, Valerie.}
-{213}{}{Poslyš, já nemám nic "na skladì." Tohle není obchod. Vìtšina vìcí, kterı tu opravím, konèí v Obchodním centru... vyjdi ze dveøí a dej se doleva.}
-{214}{}{Jak u jsem jednou ØEKLA, tohle není obchod. Jdi do Obchodního centra, jestli chceš zbraò. Tady vìci pouze opravuju.}
-{215}{}{Aha, mùeš mi nìco opravit?}
-{216}{}{Mùeš mi nìco opravit?}
-{217}{}{Dobøe, dobøe. Sbohem.}
-{218}{}{No... moná. Uka, co máš.}
-{219}{}{Uka jí svoje pistole.}
-{220}{}{Uka jí svoje pušky.}
-{221}{}{Uka jí svùj inventáø.}
-{222}{}{To je jedno. Chci se na nìco zeptat...}
-{223}{}{Moná nìkdy pøíštì.}
-{224}{}{Mohla bych na tvùj Magnum namontovat urychlovaè nabíjení za $800.}
-{225}{}{Hmmmm. Ten tvùj Desert Eagle... mohla bych mu namontovat rozšíøenı zásobník, jestli chceš. Stojí $1000.}
+{191}{}{MÅ¯Å¾eÅ¡ mi nÄ›co opravit?}
+{192}{}{Co mÃ¡Å¡ na skladÄ›?}
+{193}{}{Co se dÄ›je mezi tebou a tvÃ½m otcem?}
+{194}{}{NevadÃ­. NechÃ¡m tÄ› pracovat.}
+{195}{}{Nic zajÃ­mavÃ½ho. PÅ™ijel sem pÅ™ed dvaceti lety s karavanou, oÅ¡ukal mÃ¡mu a zase odjel. NevidÄ›la jsem ho asi pÄ›t let, dokud se tu teÄ neukÃ¡zal. Å½Ã¡dnÃ¡ Å¡koda.}
+{196}{}{To znÃ­ jako kdybyste mÄ›li nÄ›jakÃ© nedoÅ™eÅ¡enÃ© vÄ›ci.}
+{197}{}{Aha. No, eh, chci se jeÅ¡tÄ› na nÄ›co zeptat...}
+{198}{}{NevadÃ­. NechÃ¡m tÄ› pracovat.}
+{199}{}{Ne, to teda nemÃ¡me. Co jsme potÅ™ebovali, to jsme si uÅ¾ dÃ¡vno vyÅ™Ã­kali. }
+{200}{}{Jsi si jistÃ¡?}
+{201}{}{Tak dobÅ™e. Chci se jeÅ¡tÄ› na nÄ›co zeptat...}
+{202}{}{NechÃ¡m tÄ› tedy pracovat.}
+{203}{}{Ano, to teda JSEM. No... aÅ¾ na to, Å¾e si myslÃ­m, Å¾e by mÄ›l shodit pÃ¡r kilo. UÅ¾ mu roste pÄ›knÃ¡ pneumatika. A mÄ›l by se pÅ™estat potulovat po pustinÄ› a skonÄit s tÃ­m prodejem haraburdÃ­ divochÅ¯m. To je asi tak vÅ¡echno.}
+{204}{}{PodÃ­vej, mÄ›l velkÃ© problÃ©my s otrokÃ¡Å™i, tak se ti snaÅ¾Ã­ vynahradit ten ztracenÃ½ Äas. Ale mÃ¡Å¡ pravdu, mohl by trochu shodit.}
+{205}{}{Aha, eh, dobÅ™e. Chci se jeÅ¡tÄ› na nÄ›co zeptat...}
+{206}{}{NevadÃ­. NechÃ¡m tÄ› pracovat.}
+{207}{}{Hehe. MÃ¡Å¡ pÄ›knÄ› jÃ­zlivej tÃ³n. To se mi lÃ­bÃ­. A co se tÃ½Äe starÃ½ho "tÃ¡ty"... no... hmmm. ZkusÃ­m bejt zdvoÅ™ilejÅ¡Ã­. AspoÅˆ na chvÃ­li.}
+{208}{}{Eh... dohlÃ­dni, aby se nedostal do malÃ©ru, ano?}
+{209}{}{SkvÄ›lÃ©. PoslyÅ¡, chci se jeÅ¡tÄ› na nÄ›co zeptat...}
+{210}{}{Budu se snaÅ¾it. Chci se jeÅ¡tÄ› na nÄ›co zeptat...}
+{211}{}{PÅ™eju si to samÃ©. NechÃ¡m tÄ› pracovat.}
+{212}{}{PokusÃ­m se, ale kamkoliv se vydÃ¡me, tam nÄ›jakÃ½ najdeme. ZatÃ­m, Valerie.}
+{213}{}{PoslyÅ¡, jÃ¡ nemÃ¡m nic "na skladÄ›." Tohle nenÃ­ obchod. VÄ›tÅ¡ina vÄ›cÃ­, kterÃ½ tu opravÃ­m, konÄÃ­ v ObchodnÃ­m centru... vyjdi ze dveÅ™Ã­ a dej se doleva.}
+{214}{}{Jak uÅ¾ jsem jednou Å˜EKLA, tohle nenÃ­ obchod. Jdi do ObchodnÃ­ho centra, jestli chceÅ¡ zbraÅˆ. Tady vÄ›ci pouze opravuju.}
+{215}{}{Aha, mÅ¯Å¾eÅ¡ mi nÄ›co opravit?}
+{216}{}{MÅ¯Å¾eÅ¡ mi nÄ›co opravit?}
+{217}{}{DobÅ™e, dobÅ™e. Sbohem.}
+{218}{}{No... moÅ¾nÃ¡. UkaÅ¾, co mÃ¡Å¡.}
+{219}{}{UkaÅ¾ jÃ­ svoje pistole.}
+{220}{}{UkaÅ¾ jÃ­ svoje puÅ¡ky.}
+{221}{}{UkaÅ¾ jÃ­ svÅ¯j inventÃ¡Å™.}
+{222}{}{To je jedno. Chci se na nÄ›co zeptat...}
+{223}{}{MoÅ¾nÃ¡ nÄ›kdy pÅ™Ã­Å¡tÄ›.}
+{224}{}{Mohla bych na tvÅ¯j Magnum namontovat urychlovaÄ nabÃ­jenÃ­ za $800.}
+{225}{}{Hmmmm. Ten tvÅ¯j Desert Eagle... mohla bych mu namontovat rozÅ¡Ã­Å™enÃ½ zÃ¡sobnÃ­k, jestli chceÅ¡. StojÃ­ $1000.}
 {226}{}{Uprav mi ten Magnum.}
-{227}{}{A co takhle $650 za úpravu Magnumu?}
+{227}{}{A co takhle $650 za Ãºpravu Magnumu?}
 {228}{}{Uprav mi ten Desert Eagle.}
-{229}{}{A co takhle $850 za úpravu Desert Eaglu?}
-{230}{}{Zapomeò na pistole. Mùeš mi vylepšit nìjaké jiné zbranì?}
-{231}{}{Chci se ještì na nìco zeptat...}
-{232}{}{Vrátím se, a budu mít víc penìz.}
-{233}{}{Hmmm. Moná nìkdy jindy.}
-{234}{}{Ta tvoje útoèná puška... mohla bych na ní namontovat rozšíøenı zásobník za $1500.}
-{235}{}{Hmmmm. Mám jeden infrahled. Mùu ho namontovat na tvoji FN FAL za $3500.}
-{236}{}{Zvìtši kapacitu zásobníku u mé útoèné pušky AK-112.}
-{237}{}{A co takhle $1350 za úpravu útoèné pušky?}
-{238}{}{Pøipevni na FN FAL ten noktovizor.}
+{229}{}{A co takhle $850 za Ãºpravu Desert Eaglu?}
+{230}{}{ZapomeÅˆ na pistole. MÅ¯Å¾eÅ¡ mi vylepÅ¡it nÄ›jakÃ© jinÃ© zbranÄ›?}
+{231}{}{Chci se jeÅ¡tÄ› na nÄ›co zeptat...}
+{232}{}{VrÃ¡tÃ­m se, aÅ¾ budu mÃ­t vÃ­c penÄ›z.}
+{233}{}{Hmmm. MoÅ¾nÃ¡ nÄ›kdy jindy.}
+{234}{}{Ta tvoje ÃºtoÄnÃ¡ puÅ¡ka... mohla bych na nÃ­ namontovat rozÅ¡Ã­Å™enÃ½ zÃ¡sobnÃ­k za $1500.}
+{235}{}{Hmmmm. MÃ¡m jeden infrahled. MÅ¯Å¾u ho namontovat na tvoji FN FAL za $3500.}
+{236}{}{ZvÄ›tÅ¡i kapacitu zÃ¡sobnÃ­ku u mÃ© ÃºtoÄnÃ© puÅ¡ky AK-112.}
+{237}{}{A co takhle $1350 za Ãºpravu ÃºtoÄnÃ© puÅ¡ky?}
+{238}{}{PÅ™ipevni na FN FAL ten noktovizor.}
 {239}{}{A co takhle $3100 za ten infrahled?}
-{240}{}{Mùeš mi vylepšit nìjaké jiné zbranì?}
-{241}{}{Nevadí. Chci se na nìco zeptat...}
-{242}{}{Vlastnì nic z toho. Musím jít.}
-{243}{}{Vrátím se, a budu mít víc penìz.}
-{244}{}{Myslím, e bych mohla pøidat víc šávy do tvıho elektroobušku. Bude to stát $750.}
-{245}{}{Tak dobøe. }
+{240}{}{MÅ¯Å¾eÅ¡ mi vylepÅ¡it nÄ›jakÃ© jinÃ© zbranÄ›?}
+{241}{}{NevadÃ­. Chci se na nÄ›co zeptat...}
+{242}{}{VlastnÄ› nic z toho. MusÃ­m jÃ­t.}
+{243}{}{VrÃ¡tÃ­m se, aÅ¾ budu mÃ­t vÃ­c penÄ›z.}
+{244}{}{MyslÃ­m, Å¾e bych mohla pÅ™idat vÃ­c Å¡Å¥Ã¡vy do tvÃ½ho elektroobuÅ¡ku. Bude to stÃ¡t $750.}
+{245}{}{Tak dobÅ™e. }
 {246}{}{A co takhle $650?}
-{247}{}{Mùeš mi vylepšit nìjaké jiné zbranì?}
-{248}{}{Nevadí. Chci se na nìco zeptat...}
-{249}{}{Vlastnì nic z toho. Musím jít.}
-{250}{}{To je na mì moc drahé. Vrátím se, a budu mít víc penìz.}
-{251}{}{Koukám, e tì mùj táta nauèil nìjakı smlouvaèskı triky. Dej mi asi tak hodinu a bude to hotovı...}
-{252}{}{Dobøe, dobøe. Smlouváš pøesnì jako mùj táta. Dej mi asi tak hodinu a bude to hotovı...}
-{253}{}{Dobøe, dej mi asi tak hodinu a bude to hotovı...}
-{254}{}{Tak dobøe.}
-{255}{}{Tady to máš. Ještì nìco?}
-{256}{}{Chci se ještì zeptat...}
-{257}{}{Mùeš mi vylepšit ještì nìco?}
-{258}{}{Dnes u nic. Díky.}
+{247}{}{MÅ¯Å¾eÅ¡ mi vylepÅ¡it nÄ›jakÃ© jinÃ© zbranÄ›?}
+{248}{}{NevadÃ­. Chci se na nÄ›co zeptat...}
+{249}{}{VlastnÄ› nic z toho. MusÃ­m jÃ­t.}
+{250}{}{To je na mÄ› moc drahÃ©. VrÃ¡tÃ­m se, aÅ¾ budu mÃ­t vÃ­c penÄ›z.}
+{251}{}{KoukÃ¡m, Å¾e tÄ› mÅ¯j tÃ¡ta nauÄil nÄ›jakÃ½ smlouvaÄskÃ½ triky. Dej mi asi tak hodinu a bude to hotovÃ½...}
+{252}{}{DobÅ™e, dobÅ™e. SmlouvÃ¡Å¡ pÅ™esnÄ› jako mÅ¯j tÃ¡ta. Dej mi asi tak hodinu a bude to hotovÃ½...}
+{253}{}{DobÅ™e, dej mi asi tak hodinu a bude to hotovÃ½...}
+{254}{}{Tak dobÅ™e.}
+{255}{}{Tady to mÃ¡Å¡. JeÅ¡tÄ› nÄ›co?}
+{256}{}{Chci se jeÅ¡tÄ› zeptat...}
+{257}{}{MÅ¯Å¾eÅ¡ mi vylepÅ¡it jeÅ¡tÄ› nÄ›co?}
+{258}{}{Dnes uÅ¾ nic. DÃ­ky.}
 {259}{}{Tak co bys... eh... tati?}
 {260}{}{Pardon?}
-{261}{}{Eh, ne, já ne. Myslím, e já to urèitì nejsem.}
+{261}{}{Eh, ne, jÃ¡ ne. MyslÃ­m, Å¾e jÃ¡ to urÄitÄ› nejsem.}
 {262}{}{Tati?!}
-{263}{}{2 vteøiny}
+{263}{}{2 vteÅ™iny}
 {264}{}{Valerie?! Zlato, jsi to ty?}
-{265}{}{2 vteøiny}
-{266}{}{Kde jsi sakra byl?! Poøád se couráš pustinou a prodáváš lesklı cetky divochùm?}
-{267}{}{-- 2 vteøiny --}
-{268}{}{Eh, hehe... neber ji vánì, šéfe, ona neví, co mluví... Val, zlato... víš, zapletl jsem se s otrokáøi a...}
-{269}{}{-- 2 vteøiny --}
-{270}{}{Nech tìch kecù, tati. Ještì POØÁD všem øíkáš "šéfe?" To jsem na tobì vdycky nesnášela.}
-{271}{}{-- 2 vteøiny --}
-{272}{}{Valerie, zlato, prosím... vysvìtlím ti to... víš...}
-{273}{}{-- 2 sekundy a hovor se ztrácí...}
+{265}{}{2 vteÅ™iny}
+{266}{}{Kde jsi sakra byl?! PoÅ™Ã¡d se courÃ¡Å¡ pustinou a prodÃ¡vÃ¡Å¡ lesklÃ½ cetky divochÅ¯m?}
+{267}{}{-- 2 vteÅ™iny --}
+{268}{}{Eh, hehe... neber ji vÃ¡Å¾nÄ›, Å¡Ã©fe, ona nevÃ­, co mluvÃ­... Val, zlato... vÃ­Å¡, zapletl jsem se s otrokÃ¡Å™i a...}
+{269}{}{-- 2 vteÅ™iny --}
+{270}{}{Nech tÄ›ch kecÅ¯, tati. JeÅ¡tÄ› POÅ˜ÃD vÅ¡em Å™Ã­kÃ¡Å¡ "Å¡Ã©fe?" To jsem na tobÄ› vÅ¾dycky nesnÃ¡Å¡ela.}
+{271}{}{-- 2 vteÅ™iny --}
+{272}{}{Valerie, zlato, prosÃ­m... vysvÄ›tlÃ­m ti to... vÃ­Å¡...}
+{273}{}{-- 2 sekundy a hovor se ztrÃ¡cÃ­...}
 {274}{}{... a tak jsme opustili Den.}
-{275}{}{2 vteøiny}
-{276}{}{To je ale pìkná hromádka brahmíního trusu.}
-{277}{}{2 vteøiny}
+{275}{}{2 vteÅ™iny}
+{276}{}{To je ale pÄ›knÃ¡ hromÃ¡dka brahmÃ­nÃ­ho trusu.}
+{277}{}{2 vteÅ™iny}
 {278}{}{To je pravda!}
-{279}{}{2 vteøiny}
-{280}{}{Nezaèínej zase. Jsem ráda, e tu není máma, aby to slyšela.}
-{281}{}{2 vteøiny}
-{282}{}{Coe? Co se stalo tvé matce?}
-{283}{}{2 vteøiny}
-{284}{}{Mozková horeèka. Chytla to nìkde v pustinì. Moná kdy hledala TEBE.}
-{285}{}{2 vteøiny}
-{286}{}{Aha. Já... ehm... je mi to moc líto, Val.}
-{287}{}{2 vteøiny}
-{288}{}{Dìlám si srandu.}
-{289}{}{2 vteøiny}
+{279}{}{2 vteÅ™iny}
+{280}{}{NezaÄÃ­nej zase. Jsem rÃ¡da, Å¾e tu nenÃ­ mÃ¡ma, aby to slyÅ¡ela.}
+{281}{}{2 vteÅ™iny}
+{282}{}{CoÅ¾e? Co se stalo tvÃ© matce?}
+{283}{}{2 vteÅ™iny}
+{284}{}{MozkovÃ¡ horeÄka. Chytla to nÄ›kde v pustinÄ›. MoÅ¾nÃ¡ kdyÅ¾ hledala TEBE.}
+{285}{}{2 vteÅ™iny}
+{286}{}{Aha. JÃ¡... ehm... je mi to moc lÃ­to, Val.}
+{287}{}{2 vteÅ™iny}
+{288}{}{DÄ›lÃ¡m si srandu.}
+{289}{}{2 vteÅ™iny}
 {290}{}{Co...?!}
-{291}{}{2 vteøiny}
-{292}{}{Ve skuteènosti zemøela na otravu radiací. Lokla si pár douškù nepøefiltrovanı vody ze studny na Pøedmìstí.}
-{293}{}{-- 2 vteøiny --}
-{294}{}{Co... coe?!}
-{295}{}{2 vteøiny}
-{296}{}{Ty za to nemùeš. Mìla v sobì moc radiace, take jí doktor Troy u nedokázal zachránit. Záøila jako lampièka.}
-{297}{}{2 vteøiny}
-{298}{}{Aha. Já... no, já...}
-{299}{}{2 vteøiny}
-{300}{}{Nedìlej si starosti. Byla pøedtím pìknì oralá jako vdycky. Bylo to jen otázkou èasu.}
-{301}{}{-- 3 vteøiny --}
-{302}{}{I tak je mi moc líto, e jsem nemìl pøíleitost ji znovu vidìt.}
-{303}{}{2 vteøiny}
-{304}{}{Ne, není. Øíkal jsi jí pøece 'pouštní zmije', pamatuješ?}
-{305}{}{2 vteøiny}
-{306}{}{No... ano. Ale nemìla bys o svojí matce mluvit...}
-{307}{}{2 vteøiny}
-{308}{}{Proè ne? Byla to pravda. Byla to pìkná dìvka, kdy chtìla.}
-{309}{}{-- 3 vteøiny --}
-{310}{}{Eh... vidím, e se máš celkem dobøe. Zdá se, e jsi podìdila otcovu schopnost opravovat rùzné vìci.}
-{311}{}{-- 2 vteøiny --}
-{312}{}{Tati... ty si sotva zaváeš tkanièky, nato abys opravil nìco, co má pohyblivı souèástky.}
-{313}{}{-- 3 vteøiny --}
-{314}{}{C...?! Co to k sakru povídáš!}
-{315}{}{2 vteøiny}
-{316}{}{Zeptej se svıho "šéfa."}
-{317}{}{2 vteøiny}
-{318}{}{No... umí spravovat vysílaèky. A nìjakou veteš.}
+{291}{}{2 vteÅ™iny}
+{292}{}{Ve skuteÄnosti zemÅ™ela na otravu radiacÃ­. Lokla si pÃ¡r douÅ¡kÅ¯ nepÅ™efiltrovanÃ½ vody ze studny na PÅ™edmÄ›stÃ­.}
+{293}{}{-- 2 vteÅ™iny --}
+{294}{}{Co... coÅ¾e?!}
+{295}{}{2 vteÅ™iny}
+{296}{}{Ty za to nemÅ¯Å¾eÅ¡. MÄ›la v sobÄ› moc radiace, takÅ¾e jÃ­ doktor Troy uÅ¾ nedokÃ¡zal zachrÃ¡nit. ZÃ¡Å™ila jako lampiÄka.}
+{297}{}{2 vteÅ™iny}
+{298}{}{Aha. JÃ¡... no, jÃ¡...}
+{299}{}{2 vteÅ™iny}
+{300}{}{NedÄ›lej si starosti. Byla pÅ™edtÃ­m pÄ›knÄ› oÅ¾ralÃ¡ jako vÅ¾dycky. Bylo to jen otÃ¡zkou Äasu.}
+{301}{}{-- 3 vteÅ™iny --}
+{302}{}{I tak je mi moc lÃ­to, Å¾e jsem nemÄ›l pÅ™Ã­leÅ¾itost ji znovu vidÄ›t.}
+{303}{}{2 vteÅ™iny}
+{304}{}{Ne, nenÃ­. Å˜Ã­kal jsi jÃ­ pÅ™ece 'pouÅ¡tnÃ­ zmije', pamatujeÅ¡?}
+{305}{}{2 vteÅ™iny}
+{306}{}{No... ano. Ale nemÄ›la bys o svojÃ­ matce mluvit...}
+{307}{}{2 vteÅ™iny}
+{308}{}{ProÄ ne? Byla to pravda. Byla to pÄ›knÃ¡ dÄ›vka, kdyÅ¾ chtÄ›la.}
+{309}{}{-- 3 vteÅ™iny --}
+{310}{}{Eh... vidÃ­m, Å¾e se mÃ¡Å¡ celkem dobÅ™e. ZdÃ¡ se, Å¾e jsi podÄ›dila otcovu schopnost opravovat rÅ¯znÃ© vÄ›ci.}
+{311}{}{-- 2 vteÅ™iny --}
+{312}{}{Tati... ty si sotva zavÃ¡Å¾eÅ¡ tkaniÄky, natoÅ¾ abys opravil nÄ›co, co mÃ¡ pohyblivÃ½ souÄÃ¡stky.}
+{313}{}{-- 3 vteÅ™iny --}
+{314}{}{C...?! Co to k sakru povÃ­dÃ¡Å¡!}
+{315}{}{2 vteÅ™iny}
+{316}{}{Zeptej se svÃ½ho "Å¡Ã©fa."}
+{317}{}{2 vteÅ™iny}
+{318}{}{No... umÃ­ spravovat vysÃ­laÄky. A nÄ›jakou veteÅ¡.}
 {319}{}{Ub glg ub}
-{320}{}{2 vteøiny}
-{321}{}{Kdy mu dáš VŠECHNY souèástky, e jo?}
-{322}{}{Koukám, e cestuješ s lidma, kteøí jsou jenom o trošièku chytøejší ne ty.}
-{323}{}{2 vteøiny}
+{320}{}{2 vteÅ™iny}
+{321}{}{KdyÅ¾ mu dÃ¡Å¡ VÅ ECHNY souÄÃ¡stky, Å¾e jo?}
+{322}{}{KoukÃ¡m, Å¾e cestujeÅ¡ s lidma, kteÅ™Ã­ jsou jenom o troÅ¡iÄku chytÅ™ejÅ¡Ã­ neÅ¾ ty.}
+{323}{}{2 vteÅ™iny}
 {324}{}{No, ano.}
 {325}{}{Ub glg ub?}
-{326}{}{2 vteøiny}
-{327}{}{Ha! Já to vìdìla. Nachytala jsem ho.}
-{328}{}{Tvùj "šéf" je v opravování vìcí urèitì lepší ne ty.}
-{329}{}{2 vteøiny}
-{330}{}{No, Val, kdy jsem tì vidìl naposled, tak jsi stìí rozeznala momentovı klíè od montáního klíèe.}
-{331}{}{2 vteøiny}
-{332}{}{Pokraèuj a budeš ten montání klíè POTØEBOVAT, abys dostal moji botu ze svıho zadku.}
-{333}{}{2 vteøiny}
-{334}{}{Jo, fakt?! No, "zlato", dej si radši pozor, nebo...}
-{335}{}{2 vteøiny}
-{336}{}{Dr hubu! Drte hubu oba dva! Zašlo to u PØÍLIŠ DALEKO! Pojï, Vicu, pùjdeme.}
-{337}{}{UGRGHH! JÍT! U ÁDNÁ ØEÈ! MY JÍT!}
-{338}{}{-- 3 vteøiny --}
-{339}{}{Promluvíme si pozdìji, Val.}
-{340}{}{2 vteøiny}
-{341}{}{Ale samozøejmì, tati.}
-{342}{}{2 vteøiny}
-{343}{}{Tøísekundové bezvìdomí}
-{344}{}{Ahoj! Jsem ráda, e jsi zpìt. Naposled jsem o tobì slyšela, e cestuješ daleko na jih, nièíš starı tankery a vyhazuješ ropnı plošiny do vzduchu.}
-{345}{}{Vrátil ses, abys našel trochu klidu a míru, pane velkı hrdino?}
-{346}{}{Vrátila ses, abys našla trochu klidu a míru, paní velká hrdinko?}
-{347}{}{HE-hu? Híí-híí! Jo!}
+{326}{}{2 vteÅ™iny}
+{327}{}{Ha! JÃ¡ to vÄ›dÄ›la. Nachytala jsem ho.}
+{328}{}{TvÅ¯j "Å¡Ã©f" je v opravovÃ¡nÃ­ vÄ›cÃ­ urÄitÄ› lepÅ¡Ã­ neÅ¾ ty.}
+{329}{}{2 vteÅ™iny}
+{330}{}{No, Val, kdyÅ¾ jsem tÄ› vidÄ›l naposled, tak jsi stÄ›Å¾Ã­ rozeznala momentovÃ½ klÃ­Ä od montÃ¡Å¾nÃ­ho klÃ­Äe.}
+{331}{}{2 vteÅ™iny}
+{332}{}{PokraÄuj a budeÅ¡ ten montÃ¡Å¾nÃ­ klÃ­Ä POTÅ˜EBOVAT, abys dostal moji botu ze svÃ½ho zadku.}
+{333}{}{2 vteÅ™iny}
+{334}{}{Jo, fakt?! No, "zlato", dej si radÅ¡i pozor, nebo...}
+{335}{}{2 vteÅ™iny}
+{336}{}{DrÅ¾ hubu! DrÅ¾te hubu oba dva! ZaÅ¡lo to uÅ¾ PÅ˜ÃLIÅ  DALEKO! PojÄ, Vicu, pÅ¯jdeme.}
+{337}{}{UGRGHH! JÃT! UÅ½ Å½ÃDNÃ Å˜EÄŒ! MY JÃT!}
+{338}{}{-- 3 vteÅ™iny --}
+{339}{}{PromluvÃ­me si pozdÄ›ji, Val.}
+{340}{}{2 vteÅ™iny}
+{341}{}{Ale samozÅ™ejmÄ›, tati.}
+{342}{}{2 vteÅ™iny}
+{343}{}{TÅ™Ã­sekundovÃ© bezvÄ›domÃ­}
+{344}{}{Ahoj! Jsem rÃ¡da, Å¾e jsi zpÄ›t. Naposled jsem o tobÄ› slyÅ¡ela, Å¾e cestujeÅ¡ daleko na jih, niÄÃ­Å¡ starÃ½ tankery a vyhazujeÅ¡ ropnÃ½ ploÅ¡iny do vzduchu.}
+{345}{}{VrÃ¡til ses, abys naÅ¡el trochu klidu a mÃ­ru, pane velkÃ½ hrdino?}
+{346}{}{VrÃ¡tila ses, abys naÅ¡la trochu klidu a mÃ­ru, panÃ­ velkÃ¡ hrdinko?}
+{347}{}{HE-hu? HÃ­Ã­-hÃ­Ã­! Jo!}
 {348}{}{Odbelhat se.}
-{349}{}{Chtìl jsem se vrátit a na chvíli zase pod nohama cítit dlabu Vault City. Ten klid a mír je balzám na mojí duši. Ale nejdøív nìco potøebuju...}
-{350}{}{Dnes nic, díky. Mìj se.}
-{351}{}{No, dávej si tu pozor, slyšíš? Ne aby tì napadlo znièit Vault City. A... hej, díky za záchranu.}
-{352}{}{Jasan! Pa-Pá!}
+{349}{}{ChtÄ›l jsem se vrÃ¡tit a na chvÃ­li zase pod nohama cÃ­tit dlaÅ¾bu Vault City. Ten klid a mÃ­r je balzÃ¡m na mojÃ­ duÅ¡i. Ale nejdÅ™Ã­v nÄ›co potÅ™ebuju...}
+{350}{}{Dnes nic, dÃ­ky. MÄ›j se.}
+{351}{}{No, dÃ¡vej si tu pozor, slyÅ¡Ã­Å¡? Ne aby tÄ› napadlo zniÄit Vault City. A... hej, dÃ­ky za zÃ¡chranu.}
+{352}{}{Jasan! Pa-PÃ¡!}
 {353}{}{Odbelhat se.}
-{354}{}{Nevadí. Promluvím si s tebou pozdìji.}
-{355}{}{Podaøilo se ti obstarat nové náøadí pro Valerii.}
-{356}{}{Podaøilo se ti pøesvìdèit Val, aby dala tátovi šanci.}
+{354}{}{NevadÃ­. PromluvÃ­m si s tebou pozdÄ›ji.}
+{355}{}{PodaÅ™ilo se ti obstarat novÃ© nÃ¡Å™adÃ­ pro Valerii.}
+{356}{}{PodaÅ™ilo se ti pÅ™esvÄ›dÄit Val, aby dala tÃ¡tovi Å¡anci.}
 {357}{}{ ***DO NOT DELETE THE NEXT LINE (#358)! IT'S NEEDED FOR THE SCRIPT. DON'T BOTHER TRANSLATING THIS, EITHER***}
 {358}{}{}
-{359}{}{Ahoj, mám to náøadí, co jsi chtìla.}
-{360}{}{Vypadá to, e nemáš nic, s èím bych si mohla pohrát. Dìlám vìtšinou pistole, pušky a podobnı hraèky.}
+{359}{}{Ahoj, mÃ¡m to nÃ¡Å™adÃ­, co jsi chtÄ›la.}
+{360}{}{VypadÃ¡ to, Å¾e nemÃ¡Å¡ nic, s ÄÃ­m bych si mohla pohrÃ¡t. DÄ›lÃ¡m vÄ›tÅ¡inou pistole, puÅ¡ky a podobnÃ½ hraÄky.}

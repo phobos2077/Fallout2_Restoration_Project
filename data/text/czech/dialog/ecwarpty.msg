@@ -1,8 +1,8 @@
-{150}{}{Odejdi z naší zemì.}
-{151}{}{Vstupuješ sem bez povolení.}
-{152}{}{Toto je naše zemì.}
-{153}{}{A tì duchové oblak pochèijou.}
-{154}{}{A tì duchové zemì pohltí.}
-{155}{}{A duchové vìtru pošlou nesnesitelnı zápach tvım smìrem.}
-{156}{}{Duchové vod tì opustí.}
-{157}{}{Mocní duchové ohnì tì proklejí.}
+{150}{}{Odejdi z naÅ¡Ã­ zemÄ›.}
+{151}{}{VstupujeÅ¡ sem bez povolenÃ­.}
+{152}{}{Toto je naÅ¡e zemÄ›.}
+{153}{}{AÅ¥ tÄ› duchovÃ© oblak pochÄijou.}
+{154}{}{AÅ¥ tÄ› duchovÃ© zemÄ› pohltÃ­.}
+{155}{}{AÅ¥ duchovÃ© vÄ›tru poÅ¡lou nesnesitelnÃ½ zÃ¡pach tvÃ½m smÄ›rem.}
+{156}{}{DuchovÃ© vod tÄ› opustÃ­.}
+{157}{}{MocnÃ­ duchovÃ© ohnÄ› tÄ› proklejÃ­.}

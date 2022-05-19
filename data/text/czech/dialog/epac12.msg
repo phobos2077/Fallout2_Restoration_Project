@@ -1,343 +1,343 @@
-{100}{}{Vidíš exempláø z akumulaèních nádrí.}
-{101}{}{Vidíš Kitsune.}
-{102}{}{Kadé oko má jiné barvy. Jedno je svìtle hnìdé, druhé svìtle zelené.}
-{103}{}{Vidíš štíhlou enu s tmavì hnìdımi vlasy. Vypadá nepøedvídatelnì.}
-{104}{}{Má jemnou tváø a okouzlující oèi.}
-{150}{}{Není slušné na mì takhle zírat.}
-{200}{}{Pøed tebou leí otevøená nádr s ledovou vodou, která je odvádìna dlouhım spirálovitım potrubím pryè. Uvnitø leí ena, nahá, tak jak ji Bùh stvoøil. Rychle oddychuje a celá se chvìje. Bleskovì se rozhlédneš kolem, sáhneš po hromádce obleèení ze skøíòky, která je poblí, a zahalíš jím enu, aby se trochu zahøála.}
-{201}{}{No teda, to musel bıt ale záitek. Jsi v poøádku?}
-{202}{}{A-ano, s-s-stabili-z-z-zátor o-obnovil moji t-tìlesnou t-t-teplotu.}
-{203}{}{Zdá se, e ne na všech místech. }
-{204}{}{(Chvíli poèkáš, ne jí pøestanou drkotat zuby zimou. Zotavila se rychleji, ne jsi oèekával. Vzhlédne k tobì naléhavım pohledem.) U... u to skonèilo?}
-{205}{}{Co mìlo skonèit? }
-{206}{}{Myslíš válku?}
-{207}{}{Válka. Všechny ty atomové bomby.}
-{208}{}{Ano, válka.}
-{209}{}{Válka skonèila u dávno. Skonèila asi tak rychle jako zaèala.}
-{210}{}{(Sèesává si své mokré prameny vlasù z oèí. Všimneš si, e má jedno oko hnìdé, zatímco druhé smaragdovì zelené.) Kdo vyhrál?}
+{100}{}{VidÃ­Å¡ exemplÃ¡Å™ z akumulaÄnÃ­ch nÃ¡drÅ¾Ã­.}
+{101}{}{VidÃ­Å¡ Kitsune.}
+{102}{}{KaÅ¾dÃ© oko mÃ¡ jinÃ© barvy. Jedno je svÄ›tle hnÄ›dÃ©, druhÃ© svÄ›tle zelenÃ©.}
+{103}{}{VidÃ­Å¡ Å¡tÃ­hlou Å¾enu s tmavÄ› hnÄ›dÃ½mi vlasy. VypadÃ¡ nepÅ™edvÃ­datelnÄ›.}
+{104}{}{MÃ¡ jemnou tvÃ¡Å™ a okouzlujÃ­cÃ­ oÄi.}
+{150}{}{NenÃ­ sluÅ¡nÃ© na mÄ› takhle zÃ­rat.}
+{200}{}{PÅ™ed tebou leÅ¾Ã­ otevÅ™enÃ¡ nÃ¡drÅ¾ s ledovou vodou, kterÃ¡ je odvÃ¡dÄ›na dlouhÃ½m spirÃ¡lovitÃ½m potrubÃ­m pryÄ. UvnitÅ™ leÅ¾Ã­ Å¾ena, nahÃ¡, tak jak ji BÅ¯h stvoÅ™il. Rychle oddychuje a celÃ¡ se chvÄ›je. BleskovÄ› se rozhlÃ©dneÅ¡ kolem, sÃ¡hneÅ¡ po hromÃ¡dce obleÄenÃ­ ze skÅ™Ã­Åˆky, kterÃ¡ je poblÃ­Å¾, a zahalÃ­Å¡ jÃ­m Å¾enu, aby se trochu zahÅ™Ã¡la.}
+{201}{}{No teda, to musel bÃ½t ale zÃ¡Å¾itek. Jsi v poÅ™Ã¡dku?}
+{202}{}{A-ano, s-s-stabili-z-z-zÃ¡tor o-obnovil moji t-tÄ›lesnou t-t-teplotu.}
+{203}{}{ZdÃ¡ se, Å¾e ne na vÅ¡ech mÃ­stech. }
+{204}{}{(ChvÃ­li poÄkÃ¡Å¡, neÅ¾ jÃ­ pÅ™estanou drkotat zuby zimou. Zotavila se rychleji, neÅ¾ jsi oÄekÃ¡val. VzhlÃ©dne k tobÄ› nalÃ©havÃ½m pohledem.) UÅ¾... uÅ¾ to skonÄilo?}
+{205}{}{Co mÄ›lo skonÄit? }
+{206}{}{MyslÃ­Å¡ vÃ¡lku?}
+{207}{}{VÃ¡lka. VÅ¡echny ty atomovÃ© bomby.}
+{208}{}{Ano, vÃ¡lka.}
+{209}{}{VÃ¡lka skonÄila uÅ¾ dÃ¡vno. SkonÄila asi tak rychle jako zaÄala.}
+{210}{}{(SÄesÃ¡vÃ¡ si svÃ© mokrÃ© prameny vlasÅ¯ z oÄÃ­. VÅ¡imneÅ¡ si, Å¾e mÃ¡ jedno oko hnÄ›dÃ©, zatÃ­mco druhÃ© smaragdovÄ› zelenÃ©.) Kdo vyhrÃ¡l?}
 {211}{}{Nikdo.}
-{212}{}{(Nechápavì se na tebe podívá. Vypadá nádhernì, obzvláš, kdy si èlovìk uvìdomí, e právì roztála z velkého kusu ledu.)}
-{213}{}{Kdy je 90% svìta spáleno na uhel, tak myslím, e bude velmi tìké vyhlásit koneèného vítìze. Jinak øeèeno, nezùstalo toho moc, co by mìlo nìjakou cenu.}
-{214}{}{Jaké... jaké je dnes datum? Co je za rok? Je poøád rok 2077?}
-{215}{}{Kdepak. (Ukáeš ji datum v kalendáøi svého Pip-Boye.)}
-{216}{}{(Upøenì hledí na blikající obrazovku, zmrazena v èase, jako kdyby vùbec neopustila nádr.)}
-{217}{}{Jsi v poøádku?}
-{218}{}{Ach mùj boe. Nemùu tomu uvìøit. Já jsem byla v té vìci zavøená pøes sto let?!}
-{219}{}{Vypadá to tak. Poslyš, nedívej se na mì tak. Já za to nemùu, e tì tam nìkdo zavøel. Sakra, vdy ani mùj dìda nebyl tehdy naivu. Náhodou jsem na tohle místo narazil a rozhodl se ho prozkoumat. To je vše.}
+{212}{}{(NechÃ¡pavÄ› se na tebe podÃ­vÃ¡. VypadÃ¡ nÃ¡dhernÄ›, obzvlÃ¡Å¡Å¥, kdyÅ¾ si ÄlovÄ›k uvÄ›domÃ­, Å¾e prÃ¡vÄ› roztÃ¡la z velkÃ©ho kusu ledu.)}
+{213}{}{KdyÅ¾ je 90% svÄ›ta spÃ¡leno na uhel, tak myslÃ­m, Å¾e bude velmi tÄ›Å¾kÃ© vyhlÃ¡sit koneÄnÃ©ho vÃ­tÄ›ze. Jinak Å™eÄeno, nezÅ¯stalo toho moc, co by mÄ›lo nÄ›jakou cenu.}
+{214}{}{JakÃ©... jakÃ© je dnes datum? Co je za rok? Je poÅ™Ã¡d rok 2077?}
+{215}{}{Kdepak. (UkÃ¡Å¾eÅ¡ ji datum v kalendÃ¡Å™i svÃ©ho Pip-Boye.)}
+{216}{}{(UpÅ™enÄ› hledÃ­ na blikajÃ­cÃ­ obrazovku, zmrazena v Äase, jako kdyby vÅ¯bec neopustila nÃ¡drÅ¾.)}
+{217}{}{Jsi v poÅ™Ã¡dku?}
+{218}{}{Ach mÅ¯j boÅ¾e. NemÅ¯Å¾u tomu uvÄ›Å™it. JÃ¡ jsem byla v tÃ© vÄ›ci zavÅ™enÃ¡ pÅ™es sto let?!}
+{219}{}{VypadÃ¡ to tak. PoslyÅ¡, nedÃ­vej se na mÄ› tak. JÃ¡ za to nemÅ¯Å¾u, Å¾e tÄ› tam nÄ›kdo zavÅ™el. Sakra, vÅ¾dyÅ¥ ani mÅ¯j dÄ›da nebyl tehdy naÅ¾ivu. NÃ¡hodou jsem na tohle mÃ­sto narazil a rozhodl se ho prozkoumat. To je vÅ¡e.}
 {220}{}{Well, will you help me up, or would you like it better if I continued sitting naked at your feet?}
-{221}{}{Zrovna jsem se to chystal udìlat. [Pomoct jí na nohy]}
-{222}{}{Proè jsi mì probudil?}
-{223}{}{Nemìl jsem pro to ádnı konkrétní dùvod.}
-{224}{}{Bohuel trpím hroznım zlozvykem, e musím sahat na všechno, na co narazím. No a pak u to šlo samo.}
-{225}{}{Chceš mi øíct, e tady ani nepracuješ?}
-{226}{}{Pøesnì tak.}
-{227}{}{Take kdybys nešel kolem, tak bych zùstala uvìznìná v té vìci ještì déle. Moná navdy. (Oblékne si na sebe jedno z trièek, do kterıch jsi ji zabalil.) Jak teï vypadá svìt venku? Øíkal jsi, e bylo 90% povrchu znièeno?}
-{228}{}{Mùj svìt je pustina, kde musí èlovìk bojovat o svoje pøeití kadı den. Vìtšina lidí našla úkryt v znièenıch mìstech nebo v troskách budov. Jiní, jako napøíklad mùj kmen, se pokusili vytvoøit fungující, jednoduchou spoleènost v drsné divoèinì. Pravdou je, e to mùe trvat i nìkolik staletí, ne se jen pøiblííme ke stavu, kterı byl pøed válkou.}
-{229}{}{Urèitì to nemùe bıt tak špatné, jak to zní. (Vùbec nezní tak, e by byla pøesvìdèena o tom, co právì øekla.)}
-{230}{}{Neexistuje nic jako Amerika v roce 2077. Na to mùeš vzít jed.}
-{231}{}{(Oblékne si na sebe kalhoty.) Take, co teï?}
-{232}{}{Ještì jsme se vlastnì ani nestaèili pøedstavit. Jmenuju se }
-{233}{}{. Jak øíkají tobì?}
-{234}{}{Mùeš mi øíkat Kitsune.}
-{235}{}{Take, Kitsune, jak ses dostala do toho kryo-mrazáku?}
-{236}{}{Nejsem si jistá. Vìdìli, e vypukne válka, tak mì umístili do stabilizátoru, tak jako všechny ostatní.}
-{237}{}{Máš nìjaké ponìtí, co je tohle za místo?}
-{238}{}{Co vím, tak tohle je jedna z poboèek Agentury na ochranu ivotního prostøedí Spojenıch státù americkıch. Byla jsem v Arizonì, kdy zaèala válka. Pak mì sem okamitì pøemístili.}
-{239}{}{Musela jsi pro nì bıt velmi dùleitá, kdy tì chtìli takhle uchránit. Byla jsi Vyvolená jako já?}
-{240}{}{Eh, ne tak docela. Byla jsem ena v domácnosti, vdaná za radního. Pøedtím jsem psala pro nìkolik novin. Nebyl to ádnı vzrušující ivot.}
-{241}{}{Co se stalo s tvım manelem?}
-{242}{}{Netuším. Pravdìpodobnì byl jednou z miliard obìtí. Nemyslím si, e nìkdo z mé rodiny pøeil válku. Mùj boe, i kdyby pøeili, je to tak dávno... kadı, koho jsem znala, je mrtvı. (Kousne se do rtu a její oèi se zalijí slzami. Rychle si je setøe, povzdechne si a uklidní se.)}
-{245}{}{No, kdy mi dáváš na vıbìr, tak... [Ušklíbnout se]}
-{246}{}{(Rozzlobenì se na tebe podívá.)}
-{247}{}{Eh, no, ovšem, e ti pomùu. [Pomoct jí na nohy]}
-{250}{}{Co teï budeš dìlat?}
-{251}{}{Nevím. Co bys udìlal ty, kdybys byl víc jak sto let v hibernaci? Ani medvìdi nespí tak dlouho. Svìt se zmìnil a já nevím, jestli dokáu ustát to, co se s ním stalo.}
-{252}{}{Já vím, e tam venku je jen pustina, ale ty máš pøed sebou celı ivot. Chceš ho promarnit tady? Pojï se mnou a tøeba nìco zmìníme.}
-{253}{}{Nevypadá to, e bys mìla moc na vıbìr. Mùeš zùstat tady a shnít, nebo mùeš jít se mnou. Je to jen na tobì.}
-{260}{}{Víš, asi máš pravdu. Mohla bych se nechat znovu zmrazit a odespat si v klidu dalších nìkolik století, ne se z toho lidstvo dostane, ale to by bylo moc jednoduché. Chci vidìt, co se se svìtem stalo, v co se za tu dobu zmìnil a podílet se svou špetkou na jeho obnovì.}
-{261}{}{Tak pojï. Dáme si dobrı brahmíní steak.}
-{262}{}{Doufám, e toho nebudu litovat.}
-{270}{}{Zapomeò na to. Víc jak sto let se nic nezmìnilo. Proè si myslíš, e zrovna my teï nìco zmìníme?}
-{271}{}{Vrátím se pozdìji. Tøeba si to rozmyslíš.}
-{272}{}{Moná. Ale moc na to nespoléhej. Vrátím se zase ke svému spánku. Na další století nebo víc.}
-{280}{}{Co kdy se ty stroje porouchají? Zemøeš a nikdy se nedozvíš, jestli se z toho svìt, kterı byl skoro znièen, nakonec vyhrabal.}
+{221}{}{Zrovna jsem se to chystal udÄ›lat. [Pomoct jÃ­ na nohy]}
+{222}{}{ProÄ jsi mÄ› probudil?}
+{223}{}{NemÄ›l jsem pro to Å¾Ã¡dnÃ½ konkrÃ©tnÃ­ dÅ¯vod.}
+{224}{}{BohuÅ¾el trpÃ­m hroznÃ½m zlozvykem, Å¾e musÃ­m sahat na vÅ¡echno, na co narazÃ­m. No a pak uÅ¾ to Å¡lo samo.}
+{225}{}{ChceÅ¡ mi Å™Ã­ct, Å¾e tady ani nepracujeÅ¡?}
+{226}{}{PÅ™esnÄ› tak.}
+{227}{}{TakÅ¾e kdybys neÅ¡el kolem, tak bych zÅ¯stala uvÄ›znÄ›nÃ¡ v tÃ© vÄ›ci jeÅ¡tÄ› dÃ©le. MoÅ¾nÃ¡ navÅ¾dy. (OblÃ©kne si na sebe jedno z triÄek, do kterÃ½ch jsi ji zabalil.) Jak teÄ vypadÃ¡ svÄ›t venku? Å˜Ã­kal jsi, Å¾e bylo 90% povrchu zniÄeno?}
+{228}{}{MÅ¯j svÄ›t je pustina, kde musÃ­ ÄlovÄ›k bojovat o svoje pÅ™eÅ¾itÃ­ kaÅ¾dÃ½ den. VÄ›tÅ¡ina lidÃ­ naÅ¡la Ãºkryt v zniÄenÃ½ch mÄ›stech nebo v troskÃ¡ch budov. JinÃ­, jako napÅ™Ã­klad mÅ¯j kmen, se pokusili vytvoÅ™it fungujÃ­cÃ­, jednoduchou spoleÄnost v drsnÃ© divoÄinÄ›. Pravdou je, Å¾e to mÅ¯Å¾e trvat i nÄ›kolik staletÃ­, neÅ¾ se jen pÅ™iblÃ­Å¾Ã­me ke stavu, kterÃ½ byl pÅ™ed vÃ¡lkou.}
+{229}{}{UrÄitÄ› to nemÅ¯Å¾e bÃ½t tak Å¡patnÃ©, jak to znÃ­. (VÅ¯bec neznÃ­ tak, Å¾e by byla pÅ™esvÄ›dÄena o tom, co prÃ¡vÄ› Å™ekla.)}
+{230}{}{Neexistuje nic jako Amerika v roce 2077. Na to mÅ¯Å¾eÅ¡ vzÃ­t jed.}
+{231}{}{(OblÃ©kne si na sebe kalhoty.) TakÅ¾e, co teÄ?}
+{232}{}{JeÅ¡tÄ› jsme se vlastnÄ› ani nestaÄili pÅ™edstavit. Jmenuju se }
+{233}{}{. Jak Å™Ã­kajÃ­ tobÄ›?}
+{234}{}{MÅ¯Å¾eÅ¡ mi Å™Ã­kat Kitsune.}
+{235}{}{TakÅ¾e, Kitsune, jak ses dostala do toho kryo-mrazÃ¡ku?}
+{236}{}{Nejsem si jistÃ¡. VÄ›dÄ›li, Å¾e vypukne vÃ¡lka, tak mÄ› umÃ­stili do stabilizÃ¡toru, tak jako vÅ¡echny ostatnÃ­.}
+{237}{}{MÃ¡Å¡ nÄ›jakÃ© ponÄ›tÃ­, co je tohle za mÃ­sto?}
+{238}{}{Co vÃ­m, tak tohle je jedna z poboÄek Agentury na ochranu Å¾ivotnÃ­ho prostÅ™edÃ­ SpojenÃ½ch stÃ¡tÅ¯ americkÃ½ch. Byla jsem v ArizonÄ›, kdyÅ¾ zaÄala vÃ¡lka. Pak mÄ› sem okamÅ¾itÄ› pÅ™emÃ­stili.}
+{239}{}{Musela jsi pro nÄ› bÃ½t velmi dÅ¯leÅ¾itÃ¡, kdyÅ¾ tÄ› chtÄ›li takhle uchrÃ¡nit. Byla jsi VyvolenÃ¡ jako jÃ¡?}
+{240}{}{Eh, ne tak docela. Byla jsem Å¾ena v domÃ¡cnosti, vdanÃ¡ za radnÃ­ho. PÅ™edtÃ­m jsem psala pro nÄ›kolik novin. Nebyl to Å¾Ã¡dnÃ½ vzruÅ¡ujÃ­cÃ­ Å¾ivot.}
+{241}{}{Co se stalo s tvÃ½m manÅ¾elem?}
+{242}{}{NetuÅ¡Ã­m. PravdÄ›podobnÄ› byl jednou z miliard obÄ›tÃ­. NemyslÃ­m si, Å¾e nÄ›kdo z mÃ© rodiny pÅ™eÅ¾il vÃ¡lku. MÅ¯j boÅ¾e, i kdyby pÅ™eÅ¾ili, je to tak dÃ¡vno... kaÅ¾dÃ½, koho jsem znala, je mrtvÃ½. (Kousne se do rtu a jejÃ­ oÄi se zalijÃ­ slzami. Rychle si je setÅ™e, povzdechne si a uklidnÃ­ se.)}
+{245}{}{No, kdyÅ¾ mi dÃ¡vÃ¡Å¡ na vÃ½bÄ›r, tak... [UÅ¡klÃ­bnout se]}
+{246}{}{(RozzlobenÄ› se na tebe podÃ­vÃ¡.)}
+{247}{}{Eh, no, ovÅ¡em, Å¾e ti pomÅ¯Å¾u. [Pomoct jÃ­ na nohy]}
+{250}{}{Co teÄ budeÅ¡ dÄ›lat?}
+{251}{}{NevÃ­m. Co bys udÄ›lal ty, kdybys byl vÃ­c jak sto let v hibernaci? Ani medvÄ›di nespÃ­ tak dlouho. SvÄ›t se zmÄ›nil a jÃ¡ nevÃ­m, jestli dokÃ¡Å¾u ustÃ¡t to, co se s nÃ­m stalo.}
+{252}{}{JÃ¡ vÃ­m, Å¾e tam venku je jen pustina, ale ty mÃ¡Å¡ pÅ™ed sebou celÃ½ Å¾ivot. ChceÅ¡ ho promarnit tady? PojÄ se mnou a tÅ™eba nÄ›co zmÄ›nÃ­me.}
+{253}{}{NevypadÃ¡ to, Å¾e bys mÄ›la moc na vÃ½bÄ›r. MÅ¯Å¾eÅ¡ zÅ¯stat tady a shnÃ­t, nebo mÅ¯Å¾eÅ¡ jÃ­t se mnou. Je to jen na tobÄ›.}
+{260}{}{VÃ­Å¡, asi mÃ¡Å¡ pravdu. Mohla bych se nechat znovu zmrazit a odespat si v klidu dalÅ¡Ã­ch nÄ›kolik stoletÃ­, neÅ¾ se z toho lidstvo dostane, ale to by bylo moc jednoduchÃ©. Chci vidÄ›t, co se se svÄ›tem stalo, v co se za tu dobu zmÄ›nil a podÃ­let se svou Å¡petkou na jeho obnovÄ›.}
+{261}{}{Tak pojÄ. DÃ¡me si dobrÃ½ brahmÃ­nÃ­ steak.}
+{262}{}{DoufÃ¡m, Å¾e toho nebudu litovat.}
+{270}{}{ZapomeÅˆ na to. VÃ­c jak sto let se nic nezmÄ›nilo. ProÄ si myslÃ­Å¡, Å¾e zrovna my teÄ nÄ›co zmÄ›nÃ­me?}
+{271}{}{VrÃ¡tÃ­m se pozdÄ›ji. TÅ™eba si to rozmyslÃ­Å¡.}
+{272}{}{MoÅ¾nÃ¡. Ale moc na to nespolÃ©hej. VrÃ¡tÃ­m se zase ke svÃ©mu spÃ¡nku. Na dalÅ¡Ã­ stoletÃ­ nebo vÃ­c.}
+{280}{}{Co kdyÅ¾ se ty stroje porouchajÃ­? ZemÅ™eÅ¡ a nikdy se nedozvÃ­Å¡, jestli se z toho svÄ›t, kterÃ½ byl skoro zniÄen, nakonec vyhrabal.}
 {281}{}{Tak to budu pozorovat odjinud.}
-{282}{}{Jak mùeš vìdìt, e budeš pøenesena na nìjaké speciální místo po tom, co usneš navìky? Pocházím z kmene, kterı vìøí na posmrtnı ivot a proroctví, ale z pragmatického hlediska jsme všichni jen stádo vodnatıch mìchù, organickıch strojù, které sice myslí, mluví a cítí, ale jenom proto, e se podaøilo pøírodì namíchat to správné sloení chemickıch sloek. Co kdy není nic po tom, co zemøeš? Vypneme se jako poèítaèe... tohle opravdu chceš?}
-{283}{}{Myslím, e budu radìji zmraená, ne se potulovat pustinou.}
-{284}{}{Opravdu? U nezníš tak pøesvìdèivì jako pøedtím.}
-{285}{}{(Kitsune chvíli pøemıšlí nad tvımi slovy a poté se ti podívá do oèí.) Musím pøiznat, e na tom, co øíkáš, nìco je. Moná... moná to s tebou risknu.}
-{286}{}{Pojïme tedy odsud pryè. Je nejvyšší èas, abychom tady z té špinavé díry vypadli.}
-{287}{}{I kdy, myslím, e asi vyrazím sama. Na vlastní pìst. Vdycky jsem byla samotáøka, take se nebojím, e by mi chybìla spoleènost. Hodnì se toho zmìnilo, zatímco jsem spala, a ráda bych to vidìla na vlastní oèi. Díky za rozmrazení. Mìj se.}
+{282}{}{Jak mÅ¯Å¾eÅ¡ vÄ›dÄ›t, Å¾e budeÅ¡ pÅ™enesena na nÄ›jakÃ© speciÃ¡lnÃ­ mÃ­sto po tom, co usneÅ¡ navÄ›ky? PochÃ¡zÃ­m z kmene, kterÃ½ vÄ›Å™Ã­ na posmrtnÃ½ Å¾ivot a proroctvÃ­, ale z pragmatickÃ©ho hlediska jsme vÅ¡ichni jen stÃ¡do vodnatÃ½ch mÄ›chÅ¯, organickÃ½ch strojÅ¯, kterÃ© sice myslÃ­, mluvÃ­ a cÃ­tÃ­, ale jenom proto, Å¾e se podaÅ™ilo pÅ™Ã­rodÄ› namÃ­chat to sprÃ¡vnÃ© sloÅ¾enÃ­ chemickÃ½ch sloÅ¾ek. Co kdyÅ¾ nenÃ­ nic po tom, co zemÅ™eÅ¡? Vypneme se jako poÄÃ­taÄe... tohle opravdu chceÅ¡?}
+{283}{}{MyslÃ­m, Å¾e budu radÄ›ji zmraÅ¾enÃ¡, neÅ¾ se potulovat pustinou.}
+{284}{}{Opravdu? UÅ¾ neznÃ­Å¡ tak pÅ™esvÄ›dÄivÄ› jako pÅ™edtÃ­m.}
+{285}{}{(Kitsune chvÃ­li pÅ™emÃ½Å¡lÃ­ nad tvÃ½mi slovy a potÃ© se ti podÃ­vÃ¡ do oÄÃ­.) MusÃ­m pÅ™iznat, Å¾e na tom, co Å™Ã­kÃ¡Å¡, nÄ›co je. MoÅ¾nÃ¡... moÅ¾nÃ¡ to s tebou risknu.}
+{286}{}{PojÄme tedy odsud pryÄ. Je nejvyÅ¡Å¡Ã­ Äas, abychom tady z tÃ© Å¡pinavÃ© dÃ­ry vypadli.}
+{287}{}{I kdyÅ¾, myslÃ­m, Å¾e asi vyrazÃ­m sama. Na vlastnÃ­ pÄ›st. VÅ¾dycky jsem byla samotÃ¡Å™ka, takÅ¾e se nebojÃ­m, Å¾e by mi chybÄ›la spoleÄnost. HodnÄ› se toho zmÄ›nilo, zatÃ­mco jsem spala, a rÃ¡da bych to vidÄ›la na vlastnÃ­ oÄi. DÃ­ky za rozmrazenÃ­. MÄ›j se.}
 {288}{}{[KONEC]}
 {300}{}{Ano?}
-{301}{}{Jsem jedno velké ucho.}
-{302}{}{Copak máš na srdci?}
-{303}{}{Copak? Vypadáš, e máš nìco na srdci.}
-{304}{}{Co se dìje?}
-{305}{}{Potøebuješ ode mì nìco?}
-{310}{}{Kitsune, je mi jasné, e tì neumístili do kryogenního mrazáku jenom tak pro nic za nic. Zajímalo by mì, co jsi opravdu udìlala, ne tì šoupli k ledu.}
-{311}{}{Proè tì to zajímá? Vdy u na tom nezáleí. Je to minulost.}
-{312}{}{Táhneme teï za jeden provaz a chci se o tobì nìco dozvìdìt.}
-{313}{}{(Povzdechne si.) Tak dobøe. Pøedpokládám, e u nemá ádnı vıznam nìco skrıvat. Je pro mì tìké mluvit o nìèem, o èem jsem pøedtím celı ivot musela mlèet. Víš, narodila jsem se jako špión.}
-{314}{}{Mùj otec byl Èíòan, ale ani on, ani jeho rodina, nebyli pøátelé èínské vlády. Narodil se v Pekingu, ale nejdùleitìjší èást svého vzdìlání získal tady, ve Spojenıch státech. Kdy se vrátil domù do Èíny a získal práci jako státní zamìstnanec, tak u v té dobì pracoval pro Amerièany jako agent zpravodajské sluby.}
-{315}{}{O tehdejší politické situaci toho moc nevím, ale myslím si, e chápu, co se mi snaíš øíct: Tvùj otec byl Èíòan, ale pracoval jako tajnı agent pro Amerièany. Stalo se nìkdy, e by ho Èíòané podezøívali?}
-{316}{}{Otec pracoval na Ministerstvu zemìdìlství tøicet osm let.}
-{317}{}{Eh, dobøe. Hádám, e to znamená, e "ne". Take, kdy ses do toho pøipletla ty?}
-{318}{}{Jednoho dne mého otce nachytala pomocnice funkcionáøe, pro kterého mùj otec pracoval, jak poøizuje fotokopie tajnıch dokumentù.}
-{319}{}{To nemohlo dopadnout dobøe...}
-{320}{}{Vlastnì to nedopadlo zase a tak špatnì. Víš, mìla s mım otcem podobné názory a bìhem nìkolika mìsícù se vzali.}
-{321}{}{To má ale nìkdo štìstí, e?}
-{322}{}{Narodila jsem se jim o rok pozdìji. Vyrùstala jsem v Èínì pod rouškou pravého vlastenectví. Ve škole jsem psala o tom, jak byla Èína nejsilnìjší, kdy byla sjednocená, a jak musíme i nadále pokraèovat v úsilí smìrovat spoleènost k sociální rovnosti. Kdy jsem pak byla starší, psala jsem pro nacionalistické noviny a úèastnila se diskuzí podporující vládnoucí stranu.}
-{323}{}{Páni, vìtšinu z toho, co jsi øíkala, jsem vùbec nezachytil. Ale jestli tomu rozumím dobøe, tak jsi ty a tvoji rodièe lstí pøimìli Èíòany myslet si, e jste naprosto oddaní.}
-{324}{}{Tvoji rodièe museli snášet velkou bolest, aby se ujistili, e skuteèná loajalita rodiny zùstane tajemstvím.}
-{325}{}{Všechny války jsou zaloeny na klamu. Mí rodièe milovali svou zemi. Nenávidìli jen lidi, kteøí ji øídili a kteøí si mysleli, e je jejich vedení lepší ne otevøená demokracie. Tak, jak to vidìli moji rodièe... oni nezrazovali Èínu, jen bojovali proti vládì, o které si mysleli, e zemi neprospívá.}
-{326}{}{Pokraèuj.}
-{327}{}{Vzala jsem si funkcionáøe, kterı pracoval pro Èínské ministerstvo národní obrany. Zvolila jsem si právì jeho proto, e nejradìji hovoøil o své práci, kdy jsme byli spolu. Take jsem hrála svou roli oddané a milující manelky a zároveò jsem tajnì pøedávala dùleité informace svım americkım nadøízenım. Ale pak se to všechno hodnì zkomplikovalo.}
+{301}{}{Jsem jedno velkÃ© ucho.}
+{302}{}{Copak mÃ¡Å¡ na srdci?}
+{303}{}{Copak? VypadÃ¡Å¡, Å¾e mÃ¡Å¡ nÄ›co na srdci.}
+{304}{}{Co se dÄ›je?}
+{305}{}{PotÅ™ebujeÅ¡ ode mÄ› nÄ›co?}
+{310}{}{Kitsune, je mi jasnÃ©, Å¾e tÄ› neumÃ­stili do kryogennÃ­ho mrazÃ¡ku jenom tak pro nic za nic. ZajÃ­malo by mÄ›, co jsi opravdu udÄ›lala, neÅ¾ tÄ› Å¡oupli k ledu.}
+{311}{}{ProÄ tÄ› to zajÃ­mÃ¡? VÅ¾dyÅ¥ uÅ¾ na tom nezÃ¡leÅ¾Ã­. Je to minulost.}
+{312}{}{TÃ¡hneme teÄ za jeden provaz a chci se o tobÄ› nÄ›co dozvÄ›dÄ›t.}
+{313}{}{(Povzdechne si.) Tak dobÅ™e. PÅ™edpoklÃ¡dÃ¡m, Å¾e uÅ¾ nemÃ¡ Å¾Ã¡dnÃ½ vÃ½znam nÄ›co skrÃ½vat. Je pro mÄ› tÄ›Å¾kÃ© mluvit o nÄ›Äem, o Äem jsem pÅ™edtÃ­m celÃ½ Å¾ivot musela mlÄet. VÃ­Å¡, narodila jsem se jako Å¡piÃ³n.}
+{314}{}{MÅ¯j otec byl ÄŒÃ­Åˆan, ale ani on, ani jeho rodina, nebyli pÅ™Ã¡telÃ© ÄÃ­nskÃ© vlÃ¡dy. Narodil se v Pekingu, ale nejdÅ¯leÅ¾itÄ›jÅ¡Ã­ ÄÃ¡st svÃ©ho vzdÄ›lÃ¡nÃ­ zÃ­skal tady, ve SpojenÃ½ch stÃ¡tech. KdyÅ¾ se vrÃ¡til domÅ¯ do ÄŒÃ­ny a zÃ­skal prÃ¡ci jako stÃ¡tnÃ­ zamÄ›stnanec, tak uÅ¾ v tÃ© dobÄ› pracoval pro AmeriÄany jako agent zpravodajskÃ© sluÅ¾by.}
+{315}{}{O tehdejÅ¡Ã­ politickÃ© situaci toho moc nevÃ­m, ale myslÃ­m si, Å¾e chÃ¡pu, co se mi snaÅ¾Ã­Å¡ Å™Ã­ct: TvÅ¯j otec byl ÄŒÃ­Åˆan, ale pracoval jako tajnÃ½ agent pro AmeriÄany. Stalo se nÄ›kdy, Å¾e by ho ÄŒÃ­ÅˆanÃ© podezÅ™Ã­vali?}
+{316}{}{Otec pracoval na Ministerstvu zemÄ›dÄ›lstvÃ­ tÅ™icet osm let.}
+{317}{}{Eh, dobÅ™e. HÃ¡dÃ¡m, Å¾e to znamenÃ¡, Å¾e "ne". TakÅ¾e, kdy ses do toho pÅ™ipletla ty?}
+{318}{}{Jednoho dne mÃ©ho otce nachytala pomocnice funkcionÃ¡Å™e, pro kterÃ©ho mÅ¯j otec pracoval, jak poÅ™izuje fotokopie tajnÃ½ch dokumentÅ¯.}
+{319}{}{To nemohlo dopadnout dobÅ™e...}
+{320}{}{VlastnÄ› to nedopadlo zase aÅ¾ tak Å¡patnÄ›. VÃ­Å¡, mÄ›la s mÃ½m otcem podobnÃ© nÃ¡zory a bÄ›hem nÄ›kolika mÄ›sÃ­cÅ¯ se vzali.}
+{321}{}{To mÃ¡ ale nÄ›kdo Å¡tÄ›stÃ­, Å¾e?}
+{322}{}{Narodila jsem se jim o rok pozdÄ›ji. VyrÅ¯stala jsem v ÄŒÃ­nÄ› pod rouÅ¡kou pravÃ©ho vlastenectvÃ­. Ve Å¡kole jsem psala o tom, jak byla ÄŒÃ­na nejsilnÄ›jÅ¡Ã­, kdyÅ¾ byla sjednocenÃ¡, a jak musÃ­me i nadÃ¡le pokraÄovat v ÃºsilÃ­ smÄ›rovat spoleÄnost k sociÃ¡lnÃ­ rovnosti. KdyÅ¾ jsem pak byla starÅ¡Ã­, psala jsem pro nacionalistickÃ© noviny a ÃºÄastnila se diskuzÃ­ podporujÃ­cÃ­ vlÃ¡dnoucÃ­ stranu.}
+{323}{}{PÃ¡ni, vÄ›tÅ¡inu z toho, co jsi Å™Ã­kala, jsem vÅ¯bec nezachytil. Ale jestli tomu rozumÃ­m dobÅ™e, tak jsi ty a tvoji rodiÄe lstÃ­ pÅ™imÄ›li ÄŒÃ­Åˆany myslet si, Å¾e jste naprosto oddanÃ­.}
+{324}{}{Tvoji rodiÄe museli snÃ¡Å¡et velkou bolest, aby se ujistili, Å¾e skuteÄnÃ¡ loajalita rodiny zÅ¯stane tajemstvÃ­m.}
+{325}{}{VÅ¡echny vÃ¡lky jsou zaloÅ¾eny na klamu. MÃ­ rodiÄe milovali svou zemi. NenÃ¡vidÄ›li jen lidi, kteÅ™Ã­ ji Å™Ã­dili a kteÅ™Ã­ si mysleli, Å¾e je jejich vedenÃ­ lepÅ¡Ã­ neÅ¾ otevÅ™enÃ¡ demokracie. Tak, jak to vidÄ›li moji rodiÄe... oni nezrazovali ÄŒÃ­nu, jen bojovali proti vlÃ¡dÄ›, o kterÃ© si mysleli, Å¾e zemi neprospÃ­vÃ¡.}
+{326}{}{PokraÄuj.}
+{327}{}{Vzala jsem si funkcionÃ¡Å™e, kterÃ½ pracoval pro ÄŒÃ­nskÃ© ministerstvo nÃ¡rodnÃ­ obrany. Zvolila jsem si prÃ¡vÄ› jeho proto, Å¾e nejradÄ›ji hovoÅ™il o svÃ© prÃ¡ci, kdyÅ¾ jsme byli spolu. TakÅ¾e jsem hrÃ¡la svou roli oddanÃ© a milujÃ­cÃ­ manÅ¾elky a zÃ¡roveÅˆ jsem tajnÄ› pÅ™edÃ¡vala dÅ¯leÅ¾itÃ© informace svÃ½m americkÃ½m nadÅ™Ã­zenÃ½m. Ale pak se to vÅ¡echno hodnÄ› zkomplikovalo.}
 {328}{}{Jak to?}
-{329}{}{Mého otce kontaktoval Dr. Raynard Muldrake. Kolega, kterı s ním kdysi pracoval, kdy pobıval ve Státech. Dr. Muldrake naléhavì poádal o soukromou schùzku, ale mùj otec se v té dobì netìšil dobrému zdraví, take nepøipadalo v ádném úvahu, aby podstoupil nároènou cestu do Ameriky. Dr. Muldrake tedy souhlasil, e se setká se mnou u nìj doma.}
+{329}{}{MÃ©ho otce kontaktoval Dr. Raynard Muldrake. Kolega, kterÃ½ s nÃ­m kdysi pracoval, kdyÅ¾ pobÃ½val ve StÃ¡tech. Dr. Muldrake nalÃ©havÄ› poÅ¾Ã¡dal o soukromou schÅ¯zku, ale mÅ¯j otec se v tÃ© dobÄ› netÄ›Å¡il dobrÃ©mu zdravÃ­, takÅ¾e nepÅ™ipadalo v Å¾Ã¡dnÃ©m Ãºvahu, aby podstoupil nÃ¡roÄnou cestu do Ameriky. Dr. Muldrake tedy souhlasil, Å¾e se setkÃ¡ se mnou u nÄ›j doma.}
 {330}{}{Co se stalo potom?}
-{331}{}{Ukázalo se, e Muldrake byl souèástí pøísnì tajného projektu, kterı probíhal ve vızkumném zaøízení West Tek v jiní Kalifornii. Celı projekt zaèal pomìrnì nevinnì, jako pokus najít zpùsob, aby byli lidé imunní vùèi Novému moru, ale rychle se vyvinul v nìco hrozivého. Øíkali tomu Virus zesílené evoluce nebo taky zkrácenì FEV.}
-{332}{}{Pokraèuj.}
-{333}{}{FEV mìl potenciál vıraznì zvıšit sílu a intelekt osobì, které byl aplikován, ale byl velmi nestabilní. I pøesto armáda doufala, e se jí s pomocí FEV podaøí vytvoøit armádu super vojákù, kteøí by dokázali porazit Èíòany.}
-{334}{}{Dr. Muldrake byl proti jakékoliv zmìnì ve smìøování projektu, ale radìji mlèel, protoe se obával o svùj ivot. Jakmile se však dozvìdìl, e armáda testuje virus na nic netušícím obyvatelstvu malıch americkıch mìst, bylo mu jasné, e musí nìco udìlat. Svìt se musel dozvìdìt pravdu.}
-{335}{}{A tehdy kontaktoval tvého otce...}
-{336}{}{Ano, pøesnì tak. Kdy jsme se pak sešli, pøedal mi holodisk obsahující pøísnì tajné dokumenty o projektu FEV. To mì postavilo do pomìrnì sloité situace: Mohla jsem zveøejnit informace, které disk obsahoval a zradit tak zemi, které jsem pøísahala svou vìrnost, nebo jsem mohla disk znièit a navdy tak pøed lidmi pohøbít tu ohavnou pravdu.}
-{337}{}{A sakra. Neøíkej mi, e jsi...}
-{338}{}{Poslala jsem kopii disku všem pøedním novinovım deníkùm na svìtì. Tím jsem v podstatì znièila i tu poslední náklonnost, která ještì americké vládì zbyla. Sice jsem moná svìtu odhalila pravdu, ale bojím se, e jsem tím spustila i jeho destrukci... situace se poté rychle vyostøila a o osm mìsícù pozdìji dopadly první bomby.}
-{339}{}{Jak ses nakonec dostala do té nádre, ve které jsi byla?}
-{340}{}{Americká vláda hledala osobu, která byla zodpovìdná za únik informací. Nakonec mì tìsnì pøed zaèátkem války odhalili. Pøípravy na mé zmrazení byly v plném proudu, kdy poprvé zaznìly sirény. Asi mì chtìli zachovat pro pøípad, e bych mìla další tajemství, o kterıch jsem jim neøekla.}
-{341}{}{A mìla jsi?}
-{342}{}{Teï u je to všechno jedno. Všichni jsou u mrtví...}
-{345}{}{Máš vùbec pøedstavu, co jsi vlastnì zpùsobila?}
-{346}{}{Co jsem tak mohla zpùsobit? Svìt by stejnì vyletìl do povìtøí. Byla to jen otázka èasu.}
-{347}{}{Moná ses mohla vyhnout sdílení tak citlivıch informací s ostatními.}
-{348}{}{Chápu tì.}
-{350}{}{Vím, co si asi myslíš, ale nemùeš se za nìco takového obviòovat.}
-{351}{}{Vdycky je jednodušší se zøíct zodpovìdnosti.}
-{352}{}{Nemohla jsi to vìdìt. Krom toho, "mocnosti" mìly mezi sebou i jiné konflikty. Døív nebo pozdìji by se stejnì zasypali bombami. Byla to jen otázka èasu.}
-{353}{}{Lidé jsou ta nejhorší stvoøení na svìtì.}
-{354}{}{Osobnì se nepovauju za tak hrozného.}
-{355}{}{Pøíroda se nás snaí vymazat po tisíciletí všemi tìmi novımi nemocemi a pøírodními katastrofami. Jsme nìjakı evoluèní omyl. Moná jsme pøišli pøíliš brzy a moná jsme nemìli pøijít vùbec. Této planetì jsme zpùsobili víc škod ne kterékoliv jiné stvoøení, a u ijící nebo dávno vyhynulé.}
-{356}{}{Mùeme to ale všechno odèinit. To je na nás to zvláštní, speciální.}
-{357}{}{Máš zatracenì dobrı zpùsob, jak všechno vyvrátit. Dìkuju ti za vyslyšení. Skoro cítím, e bych to mohla celé hodit za hlavu a ít spokojenì dál.}
-{360}{}{Poslyš, kdy jsi byla ten špión, tak jsi urèitì hodnì dobrá v plíení a tak. Mohla bys mì nìco z toho nauèit?}
-{361}{}{Ano, mám docela dost zkušeností s plíením, páèením zámkù a kradením. Teï ti ukáu pár fint, které v ádnıch knihách nenajdeš.}
-{362}{}{To je všechno. Pamatuj si, dùleitı je trénink.}
-{363}{}{Paráda, díky. Myslím, e je nejvyšší èas, abychom vyrazili.}
-{370}{}{Ty tvoje oèi...}
+{331}{}{UkÃ¡zalo se, Å¾e Muldrake byl souÄÃ¡stÃ­ pÅ™Ã­snÄ› tajnÃ©ho projektu, kterÃ½ probÃ­hal ve vÃ½zkumnÃ©m zaÅ™Ã­zenÃ­ West Tek v jiÅ¾nÃ­ Kalifornii. CelÃ½ projekt zaÄal pomÄ›rnÄ› nevinnÄ›, jako pokus najÃ­t zpÅ¯sob, aby byli lidÃ© imunnÃ­ vÅ¯Äi NovÃ©mu moru, ale rychle se vyvinul v nÄ›co hrozivÃ©ho. Å˜Ã­kali tomu Virus zesÃ­lenÃ© evoluce nebo taky zkrÃ¡cenÄ› FEV.}
+{332}{}{PokraÄuj.}
+{333}{}{FEV mÄ›l potenciÃ¡l vÃ½raznÄ› zvÃ½Å¡it sÃ­lu a intelekt osobÄ›, kterÃ© byl aplikovÃ¡n, ale byl velmi nestabilnÃ­. I pÅ™esto armÃ¡da doufala, Å¾e se jÃ­ s pomocÃ­ FEV podaÅ™Ã­ vytvoÅ™it armÃ¡du super vojÃ¡kÅ¯, kteÅ™Ã­ by dokÃ¡zali porazit ÄŒÃ­Åˆany.}
+{334}{}{Dr. Muldrake byl proti jakÃ©koliv zmÄ›nÄ› ve smÄ›Å™ovÃ¡nÃ­ projektu, ale radÄ›ji mlÄel, protoÅ¾e se obÃ¡val o svÅ¯j Å¾ivot. Jakmile se vÅ¡ak dozvÄ›dÄ›l, Å¾e armÃ¡da testuje virus na nic netuÅ¡Ã­cÃ­m obyvatelstvu malÃ½ch americkÃ½ch mÄ›st, bylo mu jasnÃ©, Å¾e musÃ­ nÄ›co udÄ›lat. SvÄ›t se musel dozvÄ›dÄ›t pravdu.}
+{335}{}{A tehdy kontaktoval tvÃ©ho otce...}
+{336}{}{Ano, pÅ™esnÄ› tak. KdyÅ¾ jsme se pak seÅ¡li, pÅ™edal mi holodisk obsahujÃ­cÃ­ pÅ™Ã­snÄ› tajnÃ© dokumenty o projektu FEV. To mÄ› postavilo do pomÄ›rnÄ› sloÅ¾itÃ© situace: Mohla jsem zveÅ™ejnit informace, kterÃ© disk obsahoval a zradit tak zemi, kterÃ© jsem pÅ™Ã­sahala svou vÄ›rnost, nebo jsem mohla disk zniÄit a navÅ¾dy tak pÅ™ed lidmi pohÅ™bÃ­t tu ohavnou pravdu.}
+{337}{}{A sakra. NeÅ™Ã­kej mi, Å¾e jsi...}
+{338}{}{Poslala jsem kopii disku vÅ¡em pÅ™ednÃ­m novinovÃ½m denÃ­kÅ¯m na svÄ›tÄ›. TÃ­m jsem v podstatÄ› zniÄila i tu poslednÃ­ nÃ¡klonnost, kterÃ¡ jeÅ¡tÄ› americkÃ© vlÃ¡dÄ› zbyla. Sice jsem moÅ¾nÃ¡ svÄ›tu odhalila pravdu, ale bojÃ­m se, Å¾e jsem tÃ­m spustila i jeho destrukci... situace se potÃ© rychle vyostÅ™ila a o osm mÄ›sÃ­cÅ¯ pozdÄ›ji dopadly prvnÃ­ bomby.}
+{339}{}{Jak ses nakonec dostala do tÃ© nÃ¡drÅ¾e, ve kterÃ© jsi byla?}
+{340}{}{AmerickÃ¡ vlÃ¡da hledala osobu, kterÃ¡ byla zodpovÄ›dnÃ¡ za Ãºnik informacÃ­. Nakonec mÄ› tÄ›snÄ› pÅ™ed zaÄÃ¡tkem vÃ¡lky odhalili. PÅ™Ã­pravy na mÃ© zmrazenÃ­ byly v plnÃ©m proudu, kdyÅ¾ poprvÃ© zaznÄ›ly sirÃ©ny. Asi mÄ› chtÄ›li zachovat pro pÅ™Ã­pad, Å¾e bych mÄ›la dalÅ¡Ã­ tajemstvÃ­, o kterÃ½ch jsem jim neÅ™ekla.}
+{341}{}{A mÄ›la jsi?}
+{342}{}{TeÄ uÅ¾ je to vÅ¡echno jedno. VÅ¡ichni jsou uÅ¾ mrtvÃ­...}
+{345}{}{MÃ¡Å¡ vÅ¯bec pÅ™edstavu, co jsi vlastnÄ› zpÅ¯sobila?}
+{346}{}{Co jsem tak mohla zpÅ¯sobit? SvÄ›t by stejnÄ› vyletÄ›l do povÄ›tÅ™Ã­. Byla to jen otÃ¡zka Äasu.}
+{347}{}{MoÅ¾nÃ¡ ses mohla vyhnout sdÃ­lenÃ­ tak citlivÃ½ch informacÃ­ s ostatnÃ­mi.}
+{348}{}{ChÃ¡pu tÄ›.}
+{350}{}{VÃ­m, co si asi myslÃ­Å¡, ale nemÅ¯Å¾eÅ¡ se za nÄ›co takovÃ©ho obviÅˆovat.}
+{351}{}{VÅ¾dycky je jednoduÅ¡Å¡Ã­ se zÅ™Ã­ct zodpovÄ›dnosti.}
+{352}{}{Nemohla jsi to vÄ›dÄ›t. Krom toho, "mocnosti" mÄ›ly mezi sebou i jinÃ© konflikty. DÅ™Ã­v nebo pozdÄ›ji by se stejnÄ› zasypali bombami. Byla to jen otÃ¡zka Äasu.}
+{353}{}{LidÃ© jsou ta nejhorÅ¡Ã­ stvoÅ™enÃ­ na svÄ›tÄ›.}
+{354}{}{OsobnÄ› se nepovaÅ¾uju za tak hroznÃ©ho.}
+{355}{}{PÅ™Ã­roda se nÃ¡s snaÅ¾Ã­ vymazat po tisÃ­ciletÃ­ vÅ¡emi tÄ›mi novÃ½mi nemocemi a pÅ™Ã­rodnÃ­mi katastrofami. Jsme nÄ›jakÃ½ evoluÄnÃ­ omyl. MoÅ¾nÃ¡ jsme pÅ™iÅ¡li pÅ™Ã­liÅ¡ brzy a moÅ¾nÃ¡ jsme nemÄ›li pÅ™ijÃ­t vÅ¯bec. TÃ©to planetÄ› jsme zpÅ¯sobili vÃ­c Å¡kod neÅ¾ kterÃ©koliv jinÃ© stvoÅ™enÃ­, aÅ¥ uÅ¾ Å¾ijÃ­cÃ­ nebo dÃ¡vno vyhynulÃ©.}
+{356}{}{MÅ¯Å¾eme to ale vÅ¡echno odÄinit. To je na nÃ¡s to zvlÃ¡Å¡tnÃ­, speciÃ¡lnÃ­.}
+{357}{}{MÃ¡Å¡ zatracenÄ› dobrÃ½ zpÅ¯sob, jak vÅ¡echno vyvrÃ¡tit. DÄ›kuju ti za vyslyÅ¡enÃ­. Skoro cÃ­tÃ­m, Å¾e bych to mohla celÃ© hodit za hlavu a Å¾Ã­t spokojenÄ› dÃ¡l.}
+{360}{}{PoslyÅ¡, kdyÅ¾ jsi byla ten Å¡piÃ³n, tak jsi urÄitÄ› hodnÄ› dobrÃ¡ v plÃ­Å¾enÃ­ a tak. Mohla bys mÄ› nÄ›co z toho nauÄit?}
+{361}{}{Ano, mÃ¡m docela dost zkuÅ¡enostÃ­ s plÃ­Å¾enÃ­m, pÃ¡ÄenÃ­m zÃ¡mkÅ¯ a kradenÃ­m. TeÄ ti ukÃ¡Å¾u pÃ¡r fint, kterÃ© v Å¾Ã¡dnÃ½ch knihÃ¡ch nenajdeÅ¡.}
+{362}{}{To je vÅ¡echno. Pamatuj si, dÅ¯leÅ¾itÃ½ je trÃ©nink.}
+{363}{}{ParÃ¡da, dÃ­ky. MyslÃ­m, Å¾e je nejvyÅ¡Å¡Ã­ Äas, abychom vyrazili.}
+{370}{}{Ty tvoje oÄi...}
 {371}{}{Co je s nimi?}
-{372}{}{Kadé má jinou barvu.}
-{373}{}{Jak se tomu správnì øíká... heterochromie? Je to ono?}
-{374}{}{Tohle není mùj pøirozenı stav. Levé oko není moje. O to své jsem pøišla pøi nehodì. Nikdy pøedtím jsem to nedokázala ocenit, a teï.}
-{375}{}{Co tím myslíš?}
-{376}{}{Od té transplantace jsem se vdy cítila, jako bych jedním okem vidìla minulost a druhım pøítomnost. Teï ještì víc ne pøedtím. A to mi pomáhá ít dál.}
-{377}{}{Kadı máme svùj vlastní zpùsob, jak se vypoøádat se ivotem.}
-{410}{}{Co potøebuješ vìdìt?}
-{411}{}{Mám èernı pásek v sanshou. Ubodám èlovìka k smrti, pokud to situace vyaduje. Pistole, pušky a podobné zbranì zvládám taky docela dobøe.}
-{420}{}{Musíme si promluvit o vzdálenosti mezi námi.}
-{421}{}{Co je s ní?}
-{422}{}{Dr se blízko mì.}
-{423}{}{V poøádku. Budu ti krıt záda.}
+{372}{}{KaÅ¾dÃ© mÃ¡ jinou barvu.}
+{373}{}{Jak se tomu sprÃ¡vnÄ› Å™Ã­kÃ¡... heterochromie? Je to ono?}
+{374}{}{Tohle nenÃ­ mÅ¯j pÅ™irozenÃ½ stav. LevÃ© oko nenÃ­ moje. O to svÃ© jsem pÅ™iÅ¡la pÅ™i nehodÄ›. Nikdy pÅ™edtÃ­m jsem to nedokÃ¡zala ocenit, aÅ¾ teÄ.}
+{375}{}{Co tÃ­m myslÃ­Å¡?}
+{376}{}{Od tÃ© transplantace jsem se vÅ¾dy cÃ­tila, jako bych jednÃ­m okem vidÄ›la minulost a druhÃ½m pÅ™Ã­tomnost. TeÄ jeÅ¡tÄ› vÃ­c neÅ¾ pÅ™edtÃ­m. A to mi pomÃ¡hÃ¡ Å¾Ã­t dÃ¡l.}
+{377}{}{KaÅ¾dÃ½ mÃ¡me svÅ¯j vlastnÃ­ zpÅ¯sob, jak se vypoÅ™Ã¡dat se Å¾ivotem.}
+{410}{}{Co potÅ™ebujeÅ¡ vÄ›dÄ›t?}
+{411}{}{MÃ¡m ÄernÃ½ pÃ¡sek v sanshou. UbodÃ¡m ÄlovÄ›ka k smrti, pokud to situace vyÅ¾aduje. Pistole, puÅ¡ky a podobnÃ© zbranÄ› zvlÃ¡dÃ¡m taky docela dobÅ™e.}
+{420}{}{MusÃ­me si promluvit o vzdÃ¡lenosti mezi nÃ¡mi.}
+{421}{}{Co je s nÃ­?}
+{422}{}{DrÅ¾ se blÃ­zko mÄ›.}
+{423}{}{V poÅ™Ã¡dku. Budu ti krÃ½t zÃ¡da.}
 {424}{}{Moc se nevzdaluj.}
-{425}{}{Je mi to jasné. Potøebuješ trochu víc místa.}
-{426}{}{Udruj vìtší rozestup.}
-{427}{}{Jasnì. Takhle nebudeme snadnı cíl.}
-{430}{}{A ti to netrvá moc dlouho, protoe jinak odejdu bez tebe.}
-{431}{}{Zahraju si Solitaire, ne se vrátíš.}
-{432}{}{Nìèím se zatím zabavím do doby, ne se vrátíš.}
-{440}{}{Kdykoliv k slubám.}
-{441}{}{Jsem ráda, e jsi zpátky. Vypsala jsem nìkolik konkurzù, ale nemohla jsem za tebe najít dobrou náhradu.}
-{442}{}{Chybìla ti má spoleènost?}
-{443}{}{Cítíš se provinile, e jsi odešel beze mì?}
-{444}{}{U jsem si zaèínala pomalu myslet, e se nevrátíš.}
-{445}{}{U bylo naèase. Ve starovìké Èínì by tì za takovou nedochvilnost povìsili, natáhli na skøipec a potom rozètvrtili.}
+{425}{}{Je mi to jasnÃ©. PotÅ™ebujeÅ¡ trochu vÃ­c mÃ­sta.}
+{426}{}{UdrÅ¾uj vÄ›tÅ¡Ã­ rozestup.}
+{427}{}{JasnÄ›. Takhle nebudeme snadnÃ½ cÃ­l.}
+{430}{}{AÅ¥ ti to netrvÃ¡ moc dlouho, protoÅ¾e jinak odejdu bez tebe.}
+{431}{}{Zahraju si Solitaire, neÅ¾ se vrÃ¡tÃ­Å¡.}
+{432}{}{NÄ›ÄÃ­m se zatÃ­m zabavÃ­m do doby, neÅ¾ se vrÃ¡tÃ­Å¡.}
+{440}{}{Kdykoliv k sluÅ¾bÃ¡m.}
+{441}{}{Jsem rÃ¡da, Å¾e jsi zpÃ¡tky. Vypsala jsem nÄ›kolik konkurzÅ¯, ale nemohla jsem za tebe najÃ­t dobrou nÃ¡hradu.}
+{442}{}{ChybÄ›la ti mÃ¡ spoleÄnost?}
+{443}{}{CÃ­tÃ­Å¡ se provinile, Å¾e jsi odeÅ¡el beze mÄ›?}
+{444}{}{UÅ¾ jsem si zaÄÃ­nala pomalu myslet, Å¾e se nevrÃ¡tÃ­Å¡.}
+{445}{}{UÅ¾ bylo naÄase. Ve starovÄ›kÃ© ÄŒÃ­nÄ› by tÄ› za takovou nedochvilnost povÄ›sili, natÃ¡hli na skÅ™ipec a potom rozÄtvrtili.}
 {446}{}{Ahoj. Zrovna jsem na tebe myslela.}
 {450}{}{No to to ale trvalo.}
-{451}{}{Jsem ráda, e jsme zase na cestách.}
-{452}{}{Kam vyrazíme?}
-{453}{}{Take kam teï pùjdeme?}
-{454}{}{Mùeme vyrazit.}
-{460}{}{Vypadá to, e u máš spoleèníkù víc ne dost. Nepotøebuješ další doprovod.}
-{461}{}{Moná a uvolníš nìjaké místo. Nemám ráda tlaèenice.}
-{462}{}{Jsi pøipraven mì vzít s sebou?}
-{463}{}{Pojïme.}
-{464}{}{Ne, ještì ne.}
-{470}{}{Jeíši, vypadáš jako smrtka. Radìji se nech vyšetøit.}
-{480}{}{ádnı problém. Bez ní se mi chodí daleko lépe.}
-{490}{}{Nikdy mi nebylo lépe. Mùeme jít.}
-{491}{}{U mi bylo lépe, ale je to jenom pár škrábancù.}
-{492}{}{Není to tak hrozné. Jen nìjaká povrchová zranìní.}
-{493}{}{Není mi zrovna nejlépe. Teèe ze mì spoustu krve.}
-{494}{}{Potøebuju doktora, nebo ti nebudu schopná s nièím pomoct.}
-{495}{}{Nemùu dál pokraèovat... nech mì tady, nebo mi okamitì seeò doktora. Rychle.}
-{500}{}{Kdy na tom trváš. Poøád ještì mùu urvat chlapovi hlavu holıma rukama.}
-{1000}{}{Poøád nemùu uvìøit, e jsem na tomhle místì strávila víc jak sto let.}
-{1010}{}{Bez uráky, ale tohle není místo, kde bych se chtìla narodit.}
-{1020}{}{Tohle vypadá jako nìjaká císaøská hrobka z 15. století.}
-{1030}{}{Tohle místo smrdí jako jedno velké brahmíní hovno.}
-{1040}{}{Myslím, e by nebylo moudré chodit dál bez správné obuvi.}
-{1050}{}{U jsem vidìla i horší místa, vìø mi. To ale neznamená, e se mi tu líbí.}
-{1060}{}{Venkov. Tady se mi líbí.}
-{1070}{}{Tady to vypadá jako vystøiené z nìjakého béèkového hororu.}
-{1080}{}{Úplnì cítím tu radiaci ve vzduchu.}
-{1090}{}{Co má tohle jako bıt? Pracovní tábor?}
-{1100}{}{Lidé uvnitø se mají daleko lépe ne ti venku. Svìt se zase tak moc nezmìnil.}
-{1110}{}{Co je tohle za hornické mìsto?}
-{1120}{}{Bez uráky, ale tohle není místo, kde bych se chtìla narodit.}
-{1130}{}{Perfektní místo, kdy se chceš schovat pøed zákonem.}
-{1140}{}{Zajímalo by mì, jestli je tady v okolí víc takovıch bunkrù.}
-{1150}{}{Vsadím se, e je tohle "Nejvìtší malé mìsto na svìtì".}
-{1160}{}{Tady urèitì nemají jenom dobytek...}
-{1170}{}{Smrt všude kam se podíváš...}
-{1171}{}{Tady bych nechtìla bıt pohøbená.}
-{1180}{}{Prostì pøedeeneme pøírodu a vyvineme se sami, e? }
-{1190}{}{Tak vysoké budovy jsem nevidìla od doby, kdy Taipei 101 srovnali se zemí.}
-{1200}{}{Tohle vypadá na dobøe støeené místo.}
-{1210}{}{O tomhle místì jsem kdysi slyšela...}
-{1220}{}{Je to pøíjemnı pocit pøijít do mìsta, kde to vypadá, e všechno funguje jak má.}
-{1230}{}{O tomhle místì jsem kdysi slyšela...}
-{1240}{}{Poslední svaté místo v tìchto nehostinnıch pustinách.}
+{451}{}{Jsem rÃ¡da, Å¾e jsme zase na cestÃ¡ch.}
+{452}{}{Kam vyrazÃ­me?}
+{453}{}{TakÅ¾e kam teÄ pÅ¯jdeme?}
+{454}{}{MÅ¯Å¾eme vyrazit.}
+{460}{}{VypadÃ¡ to, Å¾e uÅ¾ mÃ¡Å¡ spoleÄnÃ­kÅ¯ vÃ­c neÅ¾ dost. NepotÅ™ebujeÅ¡ dalÅ¡Ã­ doprovod.}
+{461}{}{MoÅ¾nÃ¡ aÅ¾ uvolnÃ­Å¡ nÄ›jakÃ© mÃ­sto. NemÃ¡m rÃ¡da tlaÄenice.}
+{462}{}{Jsi pÅ™ipraven mÄ› vzÃ­t s sebou?}
+{463}{}{PojÄme.}
+{464}{}{Ne, jeÅ¡tÄ› ne.}
+{470}{}{JeÅ¾Ã­Å¡i, vypadÃ¡Å¡ jako smrtka. RadÄ›ji se nech vyÅ¡etÅ™it.}
+{480}{}{Å½Ã¡dnÃ½ problÃ©m. Bez nÃ­ se mi chodÃ­ daleko lÃ©pe.}
+{490}{}{Nikdy mi nebylo lÃ©pe. MÅ¯Å¾eme jÃ­t.}
+{491}{}{UÅ¾ mi bylo lÃ©pe, ale je to jenom pÃ¡r Å¡krÃ¡bancÅ¯.}
+{492}{}{NenÃ­ to tak hroznÃ©. Jen nÄ›jakÃ¡ povrchovÃ¡ zranÄ›nÃ­.}
+{493}{}{NenÃ­ mi zrovna nejlÃ©pe. TeÄe ze mÄ› spoustu krve.}
+{494}{}{PotÅ™ebuju doktora, nebo ti nebudu schopnÃ¡ s niÄÃ­m pomoct.}
+{495}{}{NemÅ¯Å¾u dÃ¡l pokraÄovat... nech mÄ› tady, nebo mi okamÅ¾itÄ› seÅ¾eÅˆ doktora. Rychle.}
+{500}{}{KdyÅ¾ na tom trvÃ¡Å¡. PoÅ™Ã¡d jeÅ¡tÄ› mÅ¯Å¾u urvat chlapovi hlavu holÃ½ma rukama.}
+{1000}{}{PoÅ™Ã¡d nemÅ¯Å¾u uvÄ›Å™it, Å¾e jsem na tomhle mÃ­stÄ› strÃ¡vila vÃ­c jak sto let.}
+{1010}{}{Bez urÃ¡Å¾ky, ale tohle nenÃ­ mÃ­sto, kde bych se chtÄ›la narodit.}
+{1020}{}{Tohle vypadÃ¡ jako nÄ›jakÃ¡ cÃ­saÅ™skÃ¡ hrobka z 15. stoletÃ­.}
+{1030}{}{Tohle mÃ­sto smrdÃ­ jako jedno velkÃ© brahmÃ­nÃ­ hovno.}
+{1040}{}{MyslÃ­m, Å¾e by nebylo moudrÃ© chodit dÃ¡l bez sprÃ¡vnÃ© obuvi.}
+{1050}{}{UÅ¾ jsem vidÄ›la i horÅ¡Ã­ mÃ­sta, vÄ›Å™ mi. To ale neznamenÃ¡, Å¾e se mi tu lÃ­bÃ­.}
+{1060}{}{Venkov. Tady se mi lÃ­bÃ­.}
+{1070}{}{Tady to vypadÃ¡ jako vystÅ™iÅ¾enÃ© z nÄ›jakÃ©ho bÃ©ÄkovÃ©ho hororu.}
+{1080}{}{ÃšplnÄ› cÃ­tÃ­m tu radiaci ve vzduchu.}
+{1090}{}{Co mÃ¡ tohle jako bÃ½t? PracovnÃ­ tÃ¡bor?}
+{1100}{}{LidÃ© uvnitÅ™ se majÃ­ daleko lÃ©pe neÅ¾ ti venku. SvÄ›t se zase tak moc nezmÄ›nil.}
+{1110}{}{Co je tohle za hornickÃ© mÄ›sto?}
+{1120}{}{Bez urÃ¡Å¾ky, ale tohle nenÃ­ mÃ­sto, kde bych se chtÄ›la narodit.}
+{1130}{}{PerfektnÃ­ mÃ­sto, kdyÅ¾ se chceÅ¡ schovat pÅ™ed zÃ¡konem.}
+{1140}{}{ZajÃ­malo by mÄ›, jestli je tady v okolÃ­ vÃ­c takovÃ½ch bunkrÅ¯.}
+{1150}{}{VsadÃ­m se, Å¾e je tohle "NejvÄ›tÅ¡Ã­ malÃ© mÄ›sto na svÄ›tÄ›".}
+{1160}{}{Tady urÄitÄ› nemajÃ­ jenom dobytek...}
+{1170}{}{Smrt vÅ¡ude kam se podÃ­vÃ¡Å¡...}
+{1171}{}{Tady bych nechtÄ›la bÃ½t pohÅ™benÃ¡.}
+{1180}{}{ProstÄ› pÅ™edeÅ¾eneme pÅ™Ã­rodu a vyvineme se sami, Å¾e? }
+{1190}{}{Tak vysokÃ© budovy jsem nevidÄ›la od doby, kdy Taipei 101 srovnali se zemÃ­.}
+{1200}{}{Tohle vypadÃ¡ na dobÅ™e stÅ™eÅ¾enÃ© mÃ­sto.}
+{1210}{}{O tomhle mÃ­stÄ› jsem kdysi slyÅ¡ela...}
+{1220}{}{Je to pÅ™Ã­jemnÃ½ pocit pÅ™ijÃ­t do mÄ›sta, kde to vypadÃ¡, Å¾e vÅ¡echno funguje jak mÃ¡.}
+{1230}{}{O tomhle mÃ­stÄ› jsem kdysi slyÅ¡ela...}
+{1240}{}{PoslednÃ­ svatÃ© mÃ­sto v tÄ›chto nehostinnÃ½ch pustinÃ¡ch.}
 {1250}{}{Tady je ale horko.}
-{1251}{}{Potím se jako brahmína.}
-{1252}{}{Mám hrozné sucho v krku.}
-{1253}{}{Líbilo by se mi tady víc, kdyby to bylo moøe.}
-{1254}{}{Suliku, neumìl bys tancem pøivolat déš?}
-{1260}{}{Teï jsme tak daleko od civilizace, jak to jen jde.}
-{1270}{}{Pochybuju, e by se ta voda dala pít a to i po odfiltrování veškeré soli.}
-{1271}{}{Jestli tady jsou vùbec nìjaké ryby, tak budou urèitì zmutované.}
+{1251}{}{PotÃ­m se jako brahmÃ­na.}
+{1252}{}{MÃ¡m hroznÃ© sucho v krku.}
+{1253}{}{LÃ­bilo by se mi tady vÃ­c, kdyby to bylo moÅ™e.}
+{1254}{}{Suliku, neumÄ›l bys tancem pÅ™ivolat dÃ©Å¡Å¥?}
+{1260}{}{TeÄ jsme tak daleko od civilizace, jak to jen jde.}
+{1270}{}{Pochybuju, Å¾e by se ta voda dala pÃ­t a to i po odfiltrovÃ¡nÃ­ veÅ¡kerÃ© soli.}
+{1271}{}{Jestli tady jsou vÅ¯bec nÄ›jakÃ© ryby, tak budou urÄitÄ› zmutovanÃ©.}
 {1272}{}{Je tady docela chladno.}
-{1273}{}{Sto babek tomu, kdo nahı vleze do té vody.}
-{1280}{}{Vùbec nic nevidím.}
-{1281}{}{Tady to strašnì smrdí. Kdybych nìco vidìla, tak to bude urèitì ještì horší.}
-{1282}{}{Opatrnì. Urèitì se tam schovává nìco hnusného a smradlavého.}
-{1283}{}{To byli netopıøi, co jsem teï slyšela?}
-{1284}{}{Co tady jako dìláme? Speleologii?}
-{1285}{}{Lepší bude zapálit svìtlici ne proklínat tmu.}
-{1290}{}{Válka... tak ta nám fakt pomohla.}
-{1291}{}{Prach jsi a v prach se obrátíš...}
-{1292}{}{Bydlela jsem na podobném místì jako je tohle.}
-{2001}{}{To tì moje oèi tak moc vadí?}
-{2002}{}{Dala bych si koupel v termálním prameni. Zajímalo by mì, jestli ještì nìjaké existují.}
-{2003}{}{Zabíjela bych, abych si mohla s nìkım zahrát mah-jong.}
-{2004}{}{Všichni jí a pijí, ale jen málokdo dokáe ocenit chu.}
-{2005}{}{Z tohohle svìta se stalo pravé peklo. Všech tøináct komnat.}
-{2006}{}{Vìøím v Boha i Ïábla, ale od obou si drím odstup.}
-{2007}{}{ijeme ve snu, nebo jsme jen sen nìkoho jiného?}
-{2008}{}{Nenávidím nás za to, co jsme zpùsobili.}
-{2009}{}{Zajímalo by mì, jak dlouho nám bude trvat, ne se z té války vzpamatujeme.}
-{2010}{}{Pokud nás stvoøilo nebe, tak si naše planeta pro nás nìjaké to vyuití najde.}
-{2011}{}{Máš ízeò? Já tedy urèitì.}
-{2012}{}{*zív*}
-{2013}{}{Èlovìk míní, Bùh èiní.}
-{2020}{}{Hej Suliku, co øíkají duchové?}
-{2030}{}{Nechceš zhubnout, Vicu? Dám ti lekce taebo, kdykoliv budeš chtít.}
-{2040}{}{Tvoje ena poøád vaní jen o sobì.}
-{2041}{}{Øekni té své venkovské enušce, aby to na mì pøestala zkoušet.}
-{2050}{}{Myrone, pøestaò mi laskavì poøád zírat na kozy.}
-{2051}{}{Co kdybys na dvì minuty ztichnul, Myrone? Zabilo by tì to?}
-{2052}{}{Ne, Myrone. Nevyspala bych se s tebou, i kdybys mi postavil stroj èasu.}
-{2053}{}{Poslouchej, Myrone. Jestli na mì ještì jedou sáhneš, tak z tebe udìlám eunucha.}
-{2060}{}{Hej, Marcusi. Nedáme si páku?}
-{2070}{}{U s sebou taháme dost psù, nepotøebujeme dalšího.}
-{2100}{}{Eh, cítím se hroznì.}
-{2101}{}{Myslím, e jsem otrávená...}
-{2110}{}{Nìco se mnou není v poøádku...}
-{2111}{}{Cítím se divnì...}
-{2112}{}{Moje ruka svítí.}
-{2113}{}{Jsem liška a ne had... tak proè se mi loupe kùe?}
-{2114}{}{Nìco mì uvnitø pálí... co se to se mnou dìje?}
-{2120}{}{Myslím, e mám nìco zlomeného. Potøebuju prohlédnout.}
-{2121}{}{Mám pocit, e mám nìco zlomeného...}
-{2130}{}{Sakra, skoro nic nevidím.}
-{2131}{}{Nesnáším, kdy nic nevidím.}
-{2330}{}{Co kdybys mi øekla, jak se jmenuješ? Já jsem }
-{3000}{}{To je lepší.}
-{3001}{}{Díky moc. To mi hroznì pomohlo.}
-{3002}{}{U se cítím daleko lépe. Díky.}
-{3003}{}{Díky. Tohle jsem potøebovala.}
-{3004}{}{Máš dost i pro sebe?}
-{3010}{}{Silné pití. Ještì e vím kdy pøestat.}
-{3011}{}{Nevím, proè tohle piju. Chutná to jako Okena.}
-{3012}{}{Sice nemám chlast ráda, ale dobøe tlumí bolest.}
-{3013}{}{Máš ještì nìco dalšího na pití?}
-{3014}{}{Doufám, e se neprobudím ve vlastních zvratcích.}
-{3015}{}{Mùj plán zùstat dnes støízlivá je v troskách.}
-{3020}{}{Do prdele... doufám, e nikdy nebudu muset èelit celému gangu nadopovanım tímhle svinstvem.}
-{3030}{}{S tímhle opatrnì. Tohle svinstvo rozhodí tvùj testosteron.}
-{3040}{}{Doufám, e a odezní úèinky, tak ze mì nebude idiot.}
-{3050}{}{Zvyky jsou jako pavouci. Nejdøív tì chytnou a potom otráví.}
-{3051}{}{Meè je mocnìjší ne nebe.}
-{3052}{}{Oko za zub, zub za všechny.}
-{3053}{}{Èlovìk potøebuje oblièej, tak jako strom potøebuje štìkat.}
-{3054}{}{Strom padá, kdy na nìj leze opice.}
-{3055}{}{Všechny vrány na svìtì jsou chytøejší ne prùmìrnı jestøáb.}
-{3056}{}{Tak dlouho se chodí se dbánem pro vodu, a dno upadne.}
-{3057}{}{Synové tygra nejsou lvi.}
-{3058}{}{Uè se. A uè se chybám.}
-{3059}{}{Jízda pøedchází pádu.}
-{3060}{}{Bojuj pískem proti ohni, prachem proti magii.}
-{3061}{}{Musíme se všichni pøipravit na válku o mír.}
-{3062}{}{Pøidej hadovy pruhy, a ho domaluješ.}
-{3063}{}{Tygr se mùe zbavit svıch skvrn tím, e se z nìj tìko sesedá.}
-{3064}{}{Èlovìk nemùe odmítnout jíst jen proto, e mùe mít pozdìji zase hlad.}
-{3065}{}{Obraz je hoden sto letùm bolesti.}
-{3066}{}{Mùe bıt krutá jako tygøice, nikdy však nesní své vlastní kraby.}
-{3067}{}{Prsty moøské panny jsou krátké a sladké.}
-{3068}{}{Zabij tisíce, ztratíš jednoho.}
-{3069}{}{Své nepøátele si dr poblí a své pøátele pøímo pod sebou.}
-{3070}{}{Vyhnout se nejvìtší slabinì, jeden udeøí na tu nejsilnìjší zepøedu.}
-{3071}{}{Pokud je váš nepøítel dobøe vycvièenı, pøipravte se na extázi.}
-{3072}{}{Zatlaè nepøítele, aby se mohl pøipravit.}
-{3073}{}{Ten, kdo ví, ne jak bojovat, ale kdy, dosáhne vítìzství.}
-{3074}{}{Le má krátké ruce.}
-{3075}{}{Neviditelnost moná záleí na obranì nepøítele pøi vítìzném útoku.}
-{3076}{}{Poznej sám sebe. Poznej svého nepøítele. Poznej své pøátele a rodinu.}
-{3077}{}{Pøíleitosti se násobí podle toho kolikrát kıchneme.}
-{3078}{}{Propíchni protivníka svım egem.}
-{3079}{}{Pøedstírej slabost. Dodej odvahu protivníkovì ignoranci.}
-{3080}{}{Taktická strategie znamená jisté vítìzství.}
-{3081}{}{Opatrní vládci jsou obvykle høíšní.}
-{3082}{}{Uteè v nejlepší chvíli a celı národ se bude tøást ve prospìchu prodlouené války.}
-{3083}{}{Je lepší zapálit mìsto, ne si stìovat na tmu.}
-{3084}{}{Existuje milion zpùsobù, jak se koèka mùe zbavit své kùe.}
-{3085}{}{Neexistuje zpùsob, jak vymáèknout oblázky z kapky krve.}
-{3086}{}{ádná krev není hustší ne voda.}
-{3087}{}{Na obloze musí bıt dvì slunce.}
-{3088}{}{Ukradni lidské maso a oznaè ho.}
-{3089}{}{Mentalita je lidské maso nesoucí potenciál, kterı slábne.}
-{3090}{}{Pták zpívá, protoe jeho zpìv je odpovìdí.}
-{3091}{}{Sni svùj hlas a zvyš svou sílu.}
-{3092}{}{Jez do prasknutí, choï podle vzdálenosti, kterou chceš ujít.}
-{3093}{}{Jestlie slovo stojí za šejka, pak ticho stojí za císaøe.}
-{3094}{}{Kdo se smìje naposled, ten se smìje poslední.}
-{3095}{}{Bohaté uráet, chudé klamat.}
-{3096}{}{Èím kdo zachází, tím také odchází.}
-{3097}{}{Nikdo se neblíí k smrti, jako ten, kdo poslouchá.}
-{3098}{}{Jeden za všechny, všichni za nás.}
-{3099}{}{Všichni lidé jsou nesmrtelní jako Osm.}
-{3100}{}{Kdy umíráte ízní, není ještì pozdì se k vodì prokopat.}
-{3101}{}{Èím vyšší je bambus, tím blíe se panda objevuje.}
-{3102}{}{Nikdy nevìø krásnému ránu a úsmìvu tchynì.}
-{3103}{}{Oèi jsou našimi jedinımi okny.}
-{3104}{}{Stáøí se k tobì plazí jako špinavı starı mu.}
-{3105}{}{Nebe se nikdy nemılí. Bezbonım bude jejich mzda vyplacena v èasu.}
-{3106}{}{Spravedlnost je mravná duše, která se rozprostírá po poušti.}
-{3107}{}{Lepší deset mrtvıch nevinnıch, ne jeden trpící viník.}
-{3108}{}{Sínì v síních spravedlnosti jsou jediná spravedlnost.}
-{3109}{}{Zamkni stáje, kdy je kùò ukraden.}
-{3110}{}{Chodí štìstí dokola, ne se unaví.}
-{3111}{}{Nikdy si neber dar z koòské tlamy bez zeptání.}
-{3112}{}{Celı svìt se ti smìje. Pak pláèeš spolu s kamarády.}
-{3113}{}{Mnoho rukou èiní svìtlo funkèním.}
-{3114}{}{Mísa mrkví, nepøebranıch, neoèištìnıch a se zeleninou.}
-{3115}{}{Oslovy rty líbají tlamu konì jen, kdy dostane v noci zvláštní pøídìl píce.}
-{3116}{}{S obuškem do tygøího doupìte nelez.}
-{3117}{}{Svinì vrhá náhrdelník z perel.}
-{3118}{}{Kaviár Imperátor.}
-{3130}{}{Dobøe. Koneènì se nìkam dostáváme.}
-{3210}{}{Dobøe. Teï, kdy znám ivotní pøíbìh tvého otce, nevadilo by ti, kdybys pøešla k té èásti, která je o tobì?}
-{3260}{}{Take zradili své vlastní lidi, ale pro jejich vlastní dobro. Chápu.}
-{3261}{}{Poslyš, ty povídaèky o tvıch rodièích mi u lezou krkem. Co kdybys tuhle èást pøeskoèila a pøešla rovnou k tomu, jak ses stala špiónem?}
+{1273}{}{Sto babek tomu, kdo nahÃ½ vleze do tÃ© vody.}
+{1280}{}{VÅ¯bec nic nevidÃ­m.}
+{1281}{}{Tady to straÅ¡nÄ› smrdÃ­. Kdybych nÄ›co vidÄ›la, tak to bude urÄitÄ› jeÅ¡tÄ› horÅ¡Ã­.}
+{1282}{}{OpatrnÄ›. UrÄitÄ› se tam schovÃ¡vÃ¡ nÄ›co hnusnÃ©ho a smradlavÃ©ho.}
+{1283}{}{To byli netopÃ½Å™i, co jsem teÄ slyÅ¡ela?}
+{1284}{}{Co tady jako dÄ›lÃ¡me? Speleologii?}
+{1285}{}{LepÅ¡Ã­ bude zapÃ¡lit svÄ›tlici neÅ¾ proklÃ­nat tmu.}
+{1290}{}{VÃ¡lka... tak ta nÃ¡m fakt pomohla.}
+{1291}{}{Prach jsi a v prach se obrÃ¡tÃ­Å¡...}
+{1292}{}{Bydlela jsem na podobnÃ©m mÃ­stÄ› jako je tohle.}
+{2001}{}{To tÄ› moje oÄi tak moc vadÃ­?}
+{2002}{}{Dala bych si koupel v termÃ¡lnÃ­m prameni. ZajÃ­malo by mÄ›, jestli jeÅ¡tÄ› nÄ›jakÃ© existujÃ­.}
+{2003}{}{ZabÃ­jela bych, abych si mohla s nÄ›kÃ½m zahrÃ¡t mah-jong.}
+{2004}{}{VÅ¡ichni jÃ­ a pijÃ­, ale jen mÃ¡lokdo dokÃ¡Å¾e ocenit chuÅ¥.}
+{2005}{}{Z tohohle svÄ›ta se stalo pravÃ© peklo. VÅ¡ech tÅ™inÃ¡ct komnat.}
+{2006}{}{VÄ›Å™Ã­m v Boha i ÄÃ¡bla, ale od obou si drÅ¾Ã­m odstup.}
+{2007}{}{Å½ijeme ve snu, nebo jsme jen sen nÄ›koho jinÃ©ho?}
+{2008}{}{NenÃ¡vidÃ­m nÃ¡s za to, co jsme zpÅ¯sobili.}
+{2009}{}{ZajÃ­malo by mÄ›, jak dlouho nÃ¡m bude trvat, neÅ¾ se z tÃ© vÃ¡lky vzpamatujeme.}
+{2010}{}{Pokud nÃ¡s stvoÅ™ilo nebe, tak si naÅ¡e planeta pro nÃ¡s nÄ›jakÃ© to vyuÅ¾itÃ­ najde.}
+{2011}{}{MÃ¡Å¡ Å¾Ã­zeÅˆ? JÃ¡ tedy urÄitÄ›.}
+{2012}{}{*zÃ­v*}
+{2013}{}{ÄŒlovÄ›k mÃ­nÃ­, BÅ¯h ÄinÃ­.}
+{2020}{}{Hej Suliku, co Å™Ã­kajÃ­ duchovÃ©?}
+{2030}{}{NechceÅ¡ zhubnout, Vicu? DÃ¡m ti lekce taebo, kdykoliv budeÅ¡ chtÃ­t.}
+{2040}{}{Tvoje Å¾ena poÅ™Ã¡d Å¾vanÃ­ jen o sobÄ›.}
+{2041}{}{Å˜ekni tÃ© svÃ© venkovskÃ© Å¾enuÅ¡ce, aby to na mÄ› pÅ™estala zkouÅ¡et.}
+{2050}{}{Myrone, pÅ™estaÅˆ mi laskavÄ› poÅ™Ã¡d zÃ­rat na kozy.}
+{2051}{}{Co kdybys na dvÄ› minuty ztichnul, Myrone? Zabilo by tÄ› to?}
+{2052}{}{Ne, Myrone. Nevyspala bych se s tebou, i kdybys mi postavil stroj Äasu.}
+{2053}{}{Poslouchej, Myrone. Jestli na mÄ› jeÅ¡tÄ› jedou sÃ¡hneÅ¡, tak z tebe udÄ›lÃ¡m eunucha.}
+{2060}{}{Hej, Marcusi. NedÃ¡me si pÃ¡ku?}
+{2070}{}{UÅ¾ s sebou tahÃ¡me dost psÅ¯, nepotÅ™ebujeme dalÅ¡Ã­ho.}
+{2100}{}{Eh, cÃ­tÃ­m se hroznÄ›.}
+{2101}{}{MyslÃ­m, Å¾e jsem otrÃ¡venÃ¡...}
+{2110}{}{NÄ›co se mnou nenÃ­ v poÅ™Ã¡dku...}
+{2111}{}{CÃ­tÃ­m se divnÄ›...}
+{2112}{}{Moje ruka svÃ­tÃ­.}
+{2113}{}{Jsem liÅ¡ka a ne had... tak proÄ se mi loupe kÅ¯Å¾e?}
+{2114}{}{NÄ›co mÄ› uvnitÅ™ pÃ¡lÃ­... co se to se mnou dÄ›je?}
+{2120}{}{MyslÃ­m, Å¾e mÃ¡m nÄ›co zlomenÃ©ho. PotÅ™ebuju prohlÃ©dnout.}
+{2121}{}{MÃ¡m pocit, Å¾e mÃ¡m nÄ›co zlomenÃ©ho...}
+{2130}{}{Sakra, skoro nic nevidÃ­m.}
+{2131}{}{NesnÃ¡Å¡Ã­m, kdyÅ¾ nic nevidÃ­m.}
+{2330}{}{Co kdybys mi Å™ekla, jak se jmenujeÅ¡? JÃ¡ jsem }
+{3000}{}{To je lepÅ¡Ã­.}
+{3001}{}{DÃ­ky moc. To mi hroznÄ› pomohlo.}
+{3002}{}{UÅ¾ se cÃ­tÃ­m daleko lÃ©pe. DÃ­ky.}
+{3003}{}{DÃ­ky. Tohle jsem potÅ™ebovala.}
+{3004}{}{MÃ¡Å¡ dost i pro sebe?}
+{3010}{}{SilnÃ© pitÃ­. JeÅ¡tÄ› Å¾e vÃ­m kdy pÅ™estat.}
+{3011}{}{NevÃ­m, proÄ tohle piju. ChutnÃ¡ to jako Okena.}
+{3012}{}{Sice nemÃ¡m chlast rÃ¡da, ale dobÅ™e tlumÃ­ bolest.}
+{3013}{}{MÃ¡Å¡ jeÅ¡tÄ› nÄ›co dalÅ¡Ã­ho na pitÃ­?}
+{3014}{}{DoufÃ¡m, Å¾e se neprobudÃ­m ve vlastnÃ­ch zvratcÃ­ch.}
+{3015}{}{MÅ¯j plÃ¡n zÅ¯stat dnes stÅ™Ã­zlivÃ¡ je v troskÃ¡ch.}
+{3020}{}{Do prdele... doufÃ¡m, Å¾e nikdy nebudu muset Äelit celÃ©mu gangu nadopovanÃ½m tÃ­mhle svinstvem.}
+{3030}{}{S tÃ­mhle opatrnÄ›. Tohle svinstvo rozhodÃ­ tvÅ¯j testosteron.}
+{3040}{}{DoufÃ¡m, Å¾e aÅ¾ odeznÃ­ ÃºÄinky, tak ze mÄ› nebude idiot.}
+{3050}{}{Zvyky jsou jako pavouci. NejdÅ™Ã­v tÄ› chytnou a potom otrÃ¡vÃ­.}
+{3051}{}{MeÄ je mocnÄ›jÅ¡Ã­ neÅ¾ nebe.}
+{3052}{}{Oko za zub, zub za vÅ¡echny.}
+{3053}{}{ÄŒlovÄ›k potÅ™ebuje obliÄej, tak jako strom potÅ™ebuje Å¡tÄ›kat.}
+{3054}{}{Strom padÃ¡, kdyÅ¾ na nÄ›j leze opice.}
+{3055}{}{VÅ¡echny vrÃ¡ny na svÄ›tÄ› jsou chytÅ™ejÅ¡Ã­ neÅ¾ prÅ¯mÄ›rnÃ½ jestÅ™Ã¡b.}
+{3056}{}{Tak dlouho se chodÃ­ se dÅ¾bÃ¡nem pro vodu, aÅ¾ dno upadne.}
+{3057}{}{SynovÃ© tygra nejsou lvi.}
+{3058}{}{UÄ se. A uÄ se chybÃ¡m.}
+{3059}{}{JÃ­zda pÅ™edchÃ¡zÃ­ pÃ¡du.}
+{3060}{}{Bojuj pÃ­skem proti ohni, prachem proti magii.}
+{3061}{}{MusÃ­me se vÅ¡ichni pÅ™ipravit na vÃ¡lku o mÃ­r.}
+{3062}{}{PÅ™idej hadovy pruhy, aÅ¾ ho domalujeÅ¡.}
+{3063}{}{Tygr se mÅ¯Å¾e zbavit svÃ½ch skvrn tÃ­m, Å¾e se z nÄ›j tÄ›Å¾ko sesedÃ¡.}
+{3064}{}{ÄŒlovÄ›k nemÅ¯Å¾e odmÃ­tnout jÃ­st jen proto, Å¾e mÅ¯Å¾e mÃ­t pozdÄ›ji zase hlad.}
+{3065}{}{Obraz je hoden sto letÅ¯m bolesti.}
+{3066}{}{MÅ¯Å¾e bÃ½t krutÃ¡ jako tygÅ™ice, nikdy vÅ¡ak nesnÃ­ svÃ© vlastnÃ­ kraby.}
+{3067}{}{Prsty moÅ™skÃ© panny jsou krÃ¡tkÃ© a sladkÃ©.}
+{3068}{}{Zabij tisÃ­ce, ztratÃ­Å¡ jednoho.}
+{3069}{}{SvÃ© nepÅ™Ã¡tele si drÅ¾ poblÃ­Å¾ a svÃ© pÅ™Ã¡tele pÅ™Ã­mo pod sebou.}
+{3070}{}{Vyhnout se nejvÄ›tÅ¡Ã­ slabinÄ›, jeden udeÅ™Ã­ na tu nejsilnÄ›jÅ¡Ã­ zepÅ™edu.}
+{3071}{}{Pokud je vÃ¡Å¡ nepÅ™Ã­tel dobÅ™e vycviÄenÃ½, pÅ™ipravte se na extÃ¡zi.}
+{3072}{}{ZatlaÄ nepÅ™Ã­tele, aby se mohl pÅ™ipravit.}
+{3073}{}{Ten, kdo vÃ­, ne jak bojovat, ale kdy, dosÃ¡hne vÃ­tÄ›zstvÃ­.}
+{3074}{}{LeÅ¾ mÃ¡ krÃ¡tkÃ© ruce.}
+{3075}{}{Neviditelnost moÅ¾nÃ¡ zÃ¡leÅ¾Ã­ na obranÄ› nepÅ™Ã­tele pÅ™i vÃ­tÄ›znÃ©m Ãºtoku.}
+{3076}{}{Poznej sÃ¡m sebe. Poznej svÃ©ho nepÅ™Ã­tele. Poznej svÃ© pÅ™Ã¡tele a rodinu.}
+{3077}{}{PÅ™Ã­leÅ¾itosti se nÃ¡sobÃ­ podle toho kolikrÃ¡t kÃ½chneme.}
+{3078}{}{PropÃ­chni protivnÃ­ka svÃ½m egem.}
+{3079}{}{PÅ™edstÃ­rej slabost. Dodej odvahu protivnÃ­kovÄ› ignoranci.}
+{3080}{}{TaktickÃ¡ strategie znamenÃ¡ jistÃ© vÃ­tÄ›zstvÃ­.}
+{3081}{}{OpatrnÃ­ vlÃ¡dci jsou obvykle hÅ™Ã­Å¡nÃ­.}
+{3082}{}{UteÄ v nejlepÅ¡Ã­ chvÃ­li a celÃ½ nÃ¡rod se bude tÅ™Ã¡st ve prospÄ›chu prodlouÅ¾enÃ© vÃ¡lky.}
+{3083}{}{Je lepÅ¡Ã­ zapÃ¡lit mÄ›sto, neÅ¾ si stÄ›Å¾ovat na tmu.}
+{3084}{}{Existuje milion zpÅ¯sobÅ¯, jak se koÄka mÅ¯Å¾e zbavit svÃ© kÅ¯Å¾e.}
+{3085}{}{Neexistuje zpÅ¯sob, jak vymÃ¡Äknout oblÃ¡zky z kapky krve.}
+{3086}{}{Å½Ã¡dnÃ¡ krev nenÃ­ hustÅ¡Ã­ neÅ¾ voda.}
+{3087}{}{Na obloze musÃ­ bÃ½t dvÄ› slunce.}
+{3088}{}{Ukradni lidskÃ© maso a oznaÄ ho.}
+{3089}{}{Mentalita je lidskÃ© maso nesoucÃ­ potenciÃ¡l, kterÃ½ slÃ¡bne.}
+{3090}{}{PtÃ¡k zpÃ­vÃ¡, protoÅ¾e jeho zpÄ›v je odpovÄ›dÃ­.}
+{3091}{}{SniÅ¾ svÅ¯j hlas a zvyÅ¡ svou sÃ­lu.}
+{3092}{}{Jez do prasknutÃ­, choÄ podle vzdÃ¡lenosti, kterou chceÅ¡ ujÃ­t.}
+{3093}{}{JestliÅ¾e slovo stojÃ­ za Å¡ejka, pak ticho stojÃ­ za cÃ­saÅ™e.}
+{3094}{}{Kdo se smÄ›je naposled, ten se smÄ›je poslednÃ­.}
+{3095}{}{BohatÃ© urÃ¡Å¾et, chudÃ© klamat.}
+{3096}{}{ÄŒÃ­m kdo zachÃ¡zÃ­, tÃ­m takÃ© odchÃ¡zÃ­.}
+{3097}{}{Nikdo se neblÃ­Å¾Ã­ k smrti, jako ten, kdo poslouchÃ¡.}
+{3098}{}{Jeden za vÅ¡echny, vÅ¡ichni za nÃ¡s.}
+{3099}{}{VÅ¡ichni lidÃ© jsou nesmrtelnÃ­ jako Osm.}
+{3100}{}{KdyÅ¾ umÃ­rÃ¡te Å¾Ã­znÃ­, nenÃ­ jeÅ¡tÄ› pozdÄ› se k vodÄ› prokopat.}
+{3101}{}{ÄŒÃ­m vyÅ¡Å¡Ã­ je bambus, tÃ­m blÃ­Å¾e se panda objevuje.}
+{3102}{}{Nikdy nevÄ›Å™ krÃ¡snÃ©mu rÃ¡nu a ÃºsmÄ›vu tchynÄ›.}
+{3103}{}{OÄi jsou naÅ¡imi jedinÃ½mi okny.}
+{3104}{}{StÃ¡Å™Ã­ se k tobÄ› plazÃ­ jako Å¡pinavÃ½ starÃ½ muÅ¾.}
+{3105}{}{Nebe se nikdy nemÃ½lÃ­. BezboÅ¾nÃ½m bude jejich mzda vyplacena v Äasu.}
+{3106}{}{Spravedlnost je mravnÃ¡ duÅ¡e, kterÃ¡ se rozprostÃ­rÃ¡ po pouÅ¡ti.}
+{3107}{}{LepÅ¡Ã­ deset mrtvÃ½ch nevinnÃ½ch, neÅ¾ jeden trpÃ­cÃ­ vinÃ­k.}
+{3108}{}{SÃ­nÄ› v sÃ­nÃ­ch spravedlnosti jsou jedinÃ¡ spravedlnost.}
+{3109}{}{Zamkni stÃ¡je, kdyÅ¾ je kÅ¯Åˆ ukraden.}
+{3110}{}{ChodÃ­ Å¡tÄ›stÃ­ dokola, neÅ¾ se unavÃ­.}
+{3111}{}{Nikdy si neber dar z koÅˆskÃ© tlamy bez zeptÃ¡nÃ­.}
+{3112}{}{CelÃ½ svÄ›t se ti smÄ›je. Pak plÃ¡ÄeÅ¡ spolu s kamarÃ¡dy.}
+{3113}{}{Mnoho rukou ÄinÃ­ svÄ›tlo funkÄnÃ­m.}
+{3114}{}{MÃ­sa mrkvÃ­, nepÅ™ebranÃ½ch, neoÄiÅ¡tÄ›nÃ½ch a se zeleninou.}
+{3115}{}{Oslovy rty lÃ­bajÃ­ tlamu konÄ› jen, kdyÅ¾ dostane v noci zvlÃ¡Å¡tnÃ­ pÅ™Ã­dÄ›l pÃ­ce.}
+{3116}{}{S obuÅ¡kem do tygÅ™Ã­ho doupÄ›te nelez.}
+{3117}{}{SvinÄ› vrhÃ¡ nÃ¡hrdelnÃ­k z perel.}
+{3118}{}{KaviÃ¡r ImperÃ¡tor.}
+{3130}{}{DobÅ™e. KoneÄnÄ› se nÄ›kam dostÃ¡vÃ¡me.}
+{3210}{}{DobÅ™e. TeÄ, kdyÅ¾ znÃ¡m Å¾ivotnÃ­ pÅ™Ã­bÄ›h tvÃ©ho otce, nevadilo by ti, kdybys pÅ™eÅ¡la k tÃ© ÄÃ¡sti, kterÃ¡ je o tobÄ›?}
+{3260}{}{TakÅ¾e zradili svÃ© vlastnÃ­ lidi, ale pro jejich vlastnÃ­ dobro. ChÃ¡pu.}
+{3261}{}{PoslyÅ¡, ty povÃ­daÄky o tvÃ½ch rodiÄÃ­ch mi uÅ¾ lezou krkem. Co kdybys tuhle ÄÃ¡st pÅ™eskoÄila a pÅ™eÅ¡la rovnou k tomu, jak ses stala Å¡piÃ³nem?}
 {5000}{}{[As the woman looks up at your face, her eyes suddenly grow wide and she starts gasping for air.]}
 {5001}{}{[KONEC]}
 {5002}{}{Do prdele!}

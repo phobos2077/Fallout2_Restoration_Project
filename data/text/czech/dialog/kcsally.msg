@@ -1,79 +1,79 @@
-{100}{}{Vidíš baculatou starší enu s velkım nosem.}
-{101}{}{Vidíš Nosatou Sally, majitelku lázní.}
-{200}{}{Dobrı den, jmenuju se Sally Duntonová. Èím mùu poslouit?}
+{100}{}{VidÃ­Å¡ baculatou starÅ¡Ã­ Å¾enu s velkÃ½m nosem.}
+{101}{}{VidÃ­Å¡ Nosatou Sally, majitelku lÃ¡znÃ­.}
+{200}{}{DobrÃ½ den, jmenuju se Sally DuntonovÃ¡. ÄŒÃ­m mÅ¯Å¾u poslouÅ¾it?}
 {201}{}{Dolly Bunton? Gurk?}
-{202}{}{Já muset èùrat.}
-{203}{}{Ug? (zavrtìt hlavou)}
-{204}{}{No, to byl dobrı pokus na idiota. Ale nìkoho takového tu nepotøebuju. A teï vypadnìte. Kšá, kšá.}
-{205}{}{Já vím, e jste divoch a tak, ale tohle jsou láznì a ne nìjaká chıše. Odejdìte, ne vás vyhodím!}
-{206}{}{No, moji hoši u vynášeli nìjaké smetí, ale koukám, e to nejhorší tu ještì zùstalo. Nemùu uvìøit, e na vás zapomnìli. Nechci vás tady. Vypadnìte.}
-{210}{}{Jmenuju se Sally Duntonová, ale hodnì lidí mi øíká Nosatá Sally. Jsem majitelka tìchto lázní. Nezùstáváme jen u klasickıch koupelí, ale nabízíme i spoustu specialit a také obsluhu dle vıbìru.}
-{211}{}{Jaké druhy specialit a obsluh tu máte?}
-{212}{}{Víte, sleèno Sally, já si chci dát jen klasickou koupel. Nebyla by s bublinkama?}
-{213}{}{Hmm, vlastnì nemám o podobné vìci zájem. Moná pozdìji.}
-{220}{}{Jmenuju se 'Nosatá Sally' Duntonová a jsem majitelka tìchto lázní. Obávám se, e máme jen dámskou obsluhu. Nevadí vám to?}
-{221}{}{Jsem tu jen kvùli koupeli.}
-{222}{}{eny mi ani trochu nevadí.}
-{223}{}{Jéé a já se zrovna tìšila na pánskou obsluhu.}
-{224}{}{Myslím, e tohle stejnì není nic pro mì.}
-{225}{}{Je mi líto, e jsme vám nemohli pomoct. Ale klidnì se zase stavte.}
-{230}{}{Jestli hledáte koupel bez obsluhy, mùete zkusit hospodu U Bucknerové nebo U Zlatého geckona. Ale pochybuju, e to bude tak pøíjemné jako u nás.}
-{231}{}{Dìkuju, sleèno Nosatá. Zkusím nìco z toho. Nashle.}
-{232}{}{Jenom si dìlám srandu. Dám si pochopitelnì nìco ze specialit.}
-{240}{}{Speciální koupele si úètujeme podle toho, kolik èasu stráví dívka se zákazníkem a jaké speciality mu poskytne.}
-{241}{}{Chcete øíct, e strávím èas s opravdovou dívkou? Tak to beru!}
-{242}{}{Myslím, e tohle není nic pro mì. Radìji pùjdu.}
-{243}{}{Myslím, e by se cena mìla taky odvíjet od toho, jak obsluha vypadá.}
-{250}{}{Máme k dispozici tyto koupele: Praní Šatù Rukou na Tìle, Zbìné Omytí Celého Tìla a nakonec Velkolepı Èistící Servis provádìnı pøekrásnou a talentovanou Jenny, nedávno vyškolenou tìmi nejlepšími v Denu.}
-{251}{}{Myslím, e si dám Praní Šatù Rukou na Tìle. Co to stojí?}
-{252}{}{Líbí se mi Zbìné Omytí Celého Tìla. Kolik by to stálo?}
-{253}{}{Pøekrásná a talentovaná? Velkolepı Èistící Servis? Tak o tomhle chci vìdìt víc.}
-{254}{}{Kdy se koupu, nesnesu, aby se na mì pøitom kdokoliv díval. U pùjdu.}
-{255}{}{Mùu kombinovat více druhù koupelí?}
+{202}{}{JÃ¡ muset ÄÅ¯rat.}
+{203}{}{Ug? (zavrtÄ›t hlavou)}
+{204}{}{No, to byl dobrÃ½ pokus na idiota. Ale nÄ›koho takovÃ©ho tu nepotÅ™ebuju. A teÄ vypadnÄ›te. KÅ¡Ã¡, kÅ¡Ã¡.}
+{205}{}{JÃ¡ vÃ­m, Å¾e jste divoch a tak, ale tohle jsou lÃ¡znÄ› a ne nÄ›jakÃ¡ chÃ½Å¡e. OdejdÄ›te, neÅ¾ vÃ¡s vyhodÃ­m!}
+{206}{}{No, moji hoÅ¡i uÅ¾ vynÃ¡Å¡eli nÄ›jakÃ© smetÃ­, ale koukÃ¡m, Å¾e to nejhorÅ¡Ã­ tu jeÅ¡tÄ› zÅ¯stalo. NemÅ¯Å¾u uvÄ›Å™it, Å¾e na vÃ¡s zapomnÄ›li. Nechci vÃ¡s tady. VypadnÄ›te.}
+{210}{}{Jmenuju se Sally DuntonovÃ¡, ale hodnÄ› lidÃ­ mi Å™Ã­kÃ¡ NosatÃ¡ Sally. Jsem majitelka tÄ›chto lÃ¡znÃ­. NezÅ¯stÃ¡vÃ¡me jen u klasickÃ½ch koupelÃ­, ale nabÃ­zÃ­me i spoustu specialit a takÃ© obsluhu dle vÃ½bÄ›ru.}
+{211}{}{JakÃ© druhy specialit a obsluh tu mÃ¡te?}
+{212}{}{VÃ­te, sleÄno Sally, jÃ¡ si chci dÃ¡t jen klasickou koupel. Nebyla by s bublinkama?}
+{213}{}{Hmm, vlastnÄ› nemÃ¡m o podobnÃ© vÄ›ci zÃ¡jem. MoÅ¾nÃ¡ pozdÄ›ji.}
+{220}{}{Jmenuju se 'NosatÃ¡ Sally' DuntonovÃ¡ a jsem majitelka tÄ›chto lÃ¡znÃ­. ObÃ¡vÃ¡m se, Å¾e mÃ¡me jen dÃ¡mskou obsluhu. NevadÃ­ vÃ¡m to?}
+{221}{}{Jsem tu jen kvÅ¯li koupeli.}
+{222}{}{Å½eny mi ani trochu nevadÃ­.}
+{223}{}{JÃ©Ã© a jÃ¡ se zrovna tÄ›Å¡ila na pÃ¡nskou obsluhu.}
+{224}{}{MyslÃ­m, Å¾e tohle stejnÄ› nenÃ­ nic pro mÄ›.}
+{225}{}{Je mi lÃ­to, Å¾e jsme vÃ¡m nemohli pomoct. Ale klidnÄ› se zase stavte.}
+{230}{}{Jestli hledÃ¡te koupel bez obsluhy, mÅ¯Å¾ete zkusit hospodu U BucknerovÃ© nebo U ZlatÃ©ho geckona. Ale pochybuju, Å¾e to bude tak pÅ™Ã­jemnÃ© jako u nÃ¡s.}
+{231}{}{DÄ›kuju, sleÄno NosatÃ¡. ZkusÃ­m nÄ›co z toho. Nashle.}
+{232}{}{Jenom si dÄ›lÃ¡m srandu. DÃ¡m si pochopitelnÄ› nÄ›co ze specialit.}
+{240}{}{SpeciÃ¡lnÃ­ koupele si ÃºÄtujeme podle toho, kolik Äasu strÃ¡vÃ­ dÃ­vka se zÃ¡kaznÃ­kem a jakÃ© speciality mu poskytne.}
+{241}{}{Chcete Å™Ã­ct, Å¾e strÃ¡vÃ­m Äas s opravdovou dÃ­vkou? Tak to beru!}
+{242}{}{MyslÃ­m, Å¾e tohle nenÃ­ nic pro mÄ›. RadÄ›ji pÅ¯jdu.}
+{243}{}{MyslÃ­m, Å¾e by se cena mÄ›la taky odvÃ­jet od toho, jak obsluha vypadÃ¡.}
+{250}{}{MÃ¡me k dispozici tyto koupele: PranÃ­ Å atÅ¯ Rukou na TÄ›le, ZbÄ›Å¾nÃ© OmytÃ­ CelÃ©ho TÄ›la a nakonec VelkolepÃ½ ÄŒistÃ­cÃ­ Servis provÃ¡dÄ›nÃ½ pÅ™ekrÃ¡snou a talentovanou Jenny, nedÃ¡vno vyÅ¡kolenou tÄ›mi nejlepÅ¡Ã­mi v Denu.}
+{251}{}{MyslÃ­m, Å¾e si dÃ¡m PranÃ­ Å atÅ¯ Rukou na TÄ›le. Co to stojÃ­?}
+{252}{}{LÃ­bÃ­ se mi ZbÄ›Å¾nÃ© OmytÃ­ CelÃ©ho TÄ›la. Kolik by to stÃ¡lo?}
+{253}{}{PÅ™ekrÃ¡snÃ¡ a talentovanÃ¡? VelkolepÃ½ ÄŒistÃ­cÃ­ Servis? Tak o tomhle chci vÄ›dÄ›t vÃ­c.}
+{254}{}{KdyÅ¾ se koupu, nesnesu, aby se na mÄ› pÅ™itom kdokoliv dÃ­val. UÅ¾ pÅ¯jdu.}
+{255}{}{MÅ¯Å¾u kombinovat vÃ­ce druhÅ¯ koupelÃ­?}
 {256}{}{Co kdybyste mi dala slevu?}
-{260}{}{Ne, musíte si prostì jednu koupel vybrat, ale vdycky se sem mùete znovu vrátit... po nìjaké dobì.}
-{261}{}{Vyjmenujte mi znovu ty druhy koupelí.}
-{262}{}{Pokud nemùu koupele kombinovat, tak nemám zájem. Odcházím.}
-{270}{}{Dobrá, pro nìkoho tak pøitalivého, jako jste vy, to bude za pouhıch $25.}
-{271}{}{$25? To je skvìlá cena. To beru.}
-{272}{}{Hmm, povìzte mi ještì o dalších druzích koupelí.}
-{273}{}{Moná nìkdy jindy. U pùjdu.}
-{280}{}{Hmm, zdá se, e nejprve potøebujete opravdovou koupel. Take to bude $35.}
-{281}{}{$35? To se mi zdá ponìkud pøehnané. Ale je pravda, e u to docela potøebuju. Beru to.}
-{282}{}{Jaké máte další nabídky?}
-{283}{}{Díky, ale myslím, e se podívám jinde.}
-{284}{}{$35 je docela dost. Nebyla by místo toho nìjaká roztomilá brahmína?}
-{290}{}{Myslím, e kterákoliv z našich dívek by byla velice ráda, kdyby vás mohla dùkladnì umıt. Radši budu hlídat èas, abych si byla jistá, e to nepotrvá moc dlouho (chichi). Take, Zbìné Omytí Celého Tìla vás bude stát $55.}
-{291}{}{To zní dobøe. Tady je $55.}
-{292}{}{Hmm, jaké jsou ty další nabídky?}
-{293}{}{Díky, ale myslím, e zatím nebudu utrácet.}
-{300}{}{Koukám, e potøebujete vydrhnout celé tìlo. Znáte vy divoši vùbec mıdlo? Mno dobrá, Zbìné Omytí Celého Tìla vás bude stát rovnıch $70... ale jsem si jistá, e se vám to bude líbit.}
-{301}{}{Fíha, $70! To se mi zdá hodnì. Ale snad to bude stát za to. Zkusím to.}
-{302}{}{Jaké jsou ty další nabídky?}
-{303}{}{Myslím, e tolik za koupel nedám.}
-{310}{}{No, myslím, e pro vás bude Velkolepı Èistící Servis s krásnou Jenny nezapomenutelnım záitkem. Mùete ho mít za pouhıch $125.}
-{311}{}{U se nemùu té speciality s Jenny doèkat. Tady je $125.}
-{312}{}{Jaké e jsou ty další nabídky?}
-{313}{}{Myslím, e $125 za umytí opravdu nedám. Radìji pùjdu, ne se dostanu do problémù.}
-{320}{}{Hmm, pochybuju, e by Jenny vzala nìkoho v takovém stavu, v jakém jste vy. Nejprve potøebujete dùkladnì umıt. (Pro sebe: Moná by to zvládla Gerda.) Take, vèetnì dùkladného umytí a pak s Velkolepım Èistícím Servisem to mùete mít za pouhıch $185.}
-{321}{}{Budou se mnou Gerda i Jenny? To je perfektní! Tady je $185.}
-{322}{}{Není náhodou Gerda ta tlustá enská s knírkem? Radìji mi povìzte o tìch ostatních nabídkách.}
-{323}{}{Myslím, e tolik si teï nemùu dovolit. Radìji pùjdu.}
-{324}{}{Je vùbec Gerda ena? Nechci, aby mì umıvala nìjaká svalnatá muatka. Odcházím.}
-{330}{}{To je dobrá volba, pokud nemáte zrovna moc penìz nebo èasu.}
-{340}{}{Myslím, e se vám to bude opravdu líbit.}
-{350}{}{Myslím, e a zkusíte koupel s Jenny, nebudete u nikdy chtít jinou.}
-{360}{}{S takovımi vìcmi se tu nezabıváme, ale zkuste si promluvit s mımi syny, Chuckem a Buckem Duntonovımi. Slyšela jsem, e jejich brahmíní stádo je u nìkterıch lidí velmi oblíbené.}
-{361}{}{Nemáte dost penìz. Pøijïte, a budete mít èím zaplatit.}
-{362}{}{Vypadá to, e máte moc velké oèi. Asi budete muset zkusit nìjakou levnìjší koupel.}
-{363}{}{Jsem si jistá, e by vám s tím kterıkoliv z mıch synù jistì rád pomohl. Ale kadopádnì byste sem mìla zajít pozdìji. Vìtšina dívek, které stráví nìjakı èas s mımi chlapci, se pak velmi ráda opravdu dùkladnì vykoupe.}
-{370}{}{Zase zpátky? Èím to jen je, e se ti lidé neudrí chvíli èistí.}
-{371}{}{Jen se tu tak rozhlíím. Nepotøebuju koupel.}
-{372}{}{Øeknìte mi jaké máte druhy koupelí.}
-{373}{}{Mùu jako èastı návštìvník dostat slevu?}
-{380}{}{No, víte, nemyslím si, e je tøeba poskytovat slevy na naše sluby. Moje dìvèata za ty ceny stojí.}
-{381}{}{No, pokud nedostanu slevu, tak pùjdu.}
-{382}{}{No jak myslíte. Øeknìte mi, jaké nabízíte koupele?}
-{390}{}{Nejdøíve musíte vìdìt, e koupele jsou jen pro jednotlivce, ne skupiny. Rozhodnìte se podle svého a poté se vaši pøátelé rozhodnou podle svého.}
-{391}{}{Dobøe.}
+{260}{}{Ne, musÃ­te si prostÄ› jednu koupel vybrat, ale vÅ¾dycky se sem mÅ¯Å¾ete znovu vrÃ¡tit... po nÄ›jakÃ© dobÄ›.}
+{261}{}{Vyjmenujte mi znovu ty druhy koupelÃ­.}
+{262}{}{Pokud nemÅ¯Å¾u koupele kombinovat, tak nemÃ¡m zÃ¡jem. OdchÃ¡zÃ­m.}
+{270}{}{DobrÃ¡, pro nÄ›koho tak pÅ™itaÅ¾livÃ©ho, jako jste vy, to bude za pouhÃ½ch $25.}
+{271}{}{$25? To je skvÄ›lÃ¡ cena. To beru.}
+{272}{}{Hmm, povÄ›zte mi jeÅ¡tÄ› o dalÅ¡Ã­ch druzÃ­ch koupelÃ­.}
+{273}{}{MoÅ¾nÃ¡ nÄ›kdy jindy. UÅ¾ pÅ¯jdu.}
+{280}{}{Hmm, zdÃ¡ se, Å¾e nejprve potÅ™ebujete opravdovou koupel. TakÅ¾e to bude $35.}
+{281}{}{$35? To se mi zdÃ¡ ponÄ›kud pÅ™ehnanÃ©. Ale je pravda, Å¾e uÅ¾ to docela potÅ™ebuju. Beru to.}
+{282}{}{JakÃ© mÃ¡te dalÅ¡Ã­ nabÃ­dky?}
+{283}{}{DÃ­ky, ale myslÃ­m, Å¾e se podÃ­vÃ¡m jinde.}
+{284}{}{$35 je docela dost. Nebyla by mÃ­sto toho nÄ›jakÃ¡ roztomilÃ¡ brahmÃ­na?}
+{290}{}{MyslÃ­m, Å¾e kterÃ¡koliv z naÅ¡ich dÃ­vek by byla velice rÃ¡da, kdyby vÃ¡s mohla dÅ¯kladnÄ› umÃ½t. RadÅ¡i budu hlÃ­dat Äas, abych si byla jistÃ¡, Å¾e to nepotrvÃ¡ moc dlouho (chichi). TakÅ¾e, ZbÄ›Å¾nÃ© OmytÃ­ CelÃ©ho TÄ›la vÃ¡s bude stÃ¡t $55.}
+{291}{}{To znÃ­ dobÅ™e. Tady je $55.}
+{292}{}{Hmm, jakÃ© jsou ty dalÅ¡Ã­ nabÃ­dky?}
+{293}{}{DÃ­ky, ale myslÃ­m, Å¾e zatÃ­m nebudu utrÃ¡cet.}
+{300}{}{KoukÃ¡m, Å¾e potÅ™ebujete vydrhnout celÃ© tÄ›lo. ZnÃ¡te vy divoÅ¡i vÅ¯bec mÃ½dlo? Mno dobrÃ¡, ZbÄ›Å¾nÃ© OmytÃ­ CelÃ©ho TÄ›la vÃ¡s bude stÃ¡t rovnÃ½ch $70... ale jsem si jistÃ¡, Å¾e se vÃ¡m to bude lÃ­bit.}
+{301}{}{FÃ­ha, $70! To se mi zdÃ¡ hodnÄ›. Ale snad to bude stÃ¡t za to. ZkusÃ­m to.}
+{302}{}{JakÃ© jsou ty dalÅ¡Ã­ nabÃ­dky?}
+{303}{}{MyslÃ­m, Å¾e tolik za koupel nedÃ¡m.}
+{310}{}{No, myslÃ­m, Å¾e pro vÃ¡s bude VelkolepÃ½ ÄŒistÃ­cÃ­ Servis s krÃ¡snou Jenny nezapomenutelnÃ½m zÃ¡Å¾itkem. MÅ¯Å¾ete ho mÃ­t za pouhÃ½ch $125.}
+{311}{}{UÅ¾ se nemÅ¯Å¾u tÃ© speciality s Jenny doÄkat. Tady je $125.}
+{312}{}{JakÃ© Å¾e jsou ty dalÅ¡Ã­ nabÃ­dky?}
+{313}{}{MyslÃ­m, Å¾e $125 za umytÃ­ opravdu nedÃ¡m. RadÄ›ji pÅ¯jdu, neÅ¾ se dostanu do problÃ©mÅ¯.}
+{320}{}{Hmm, pochybuju, Å¾e by Jenny vzala nÄ›koho v takovÃ©m stavu, v jakÃ©m jste vy. Nejprve potÅ™ebujete dÅ¯kladnÄ› umÃ½t. (Pro sebe: MoÅ¾nÃ¡ by to zvlÃ¡dla Gerda.) TakÅ¾e, vÄetnÄ› dÅ¯kladnÃ©ho umytÃ­ a pak s VelkolepÃ½m ÄŒistÃ­cÃ­m Servisem to mÅ¯Å¾ete mÃ­t za pouhÃ½ch $185.}
+{321}{}{Budou se mnou Gerda i Jenny? To je perfektnÃ­! Tady je $185.}
+{322}{}{NenÃ­ nÃ¡hodou Gerda ta tlustÃ¡ Å¾enskÃ¡ s knÃ­rkem? RadÄ›ji mi povÄ›zte o tÄ›ch ostatnÃ­ch nabÃ­dkÃ¡ch.}
+{323}{}{MyslÃ­m, Å¾e tolik si teÄ nemÅ¯Å¾u dovolit. RadÄ›ji pÅ¯jdu.}
+{324}{}{Je vÅ¯bec Gerda Å¾ena? Nechci, aby mÄ› umÃ½vala nÄ›jakÃ¡ svalnatÃ¡ muÅ¾atka. OdchÃ¡zÃ­m.}
+{330}{}{To je dobrÃ¡ volba, pokud nemÃ¡te zrovna moc penÄ›z nebo Äasu.}
+{340}{}{MyslÃ­m, Å¾e se vÃ¡m to bude opravdu lÃ­bit.}
+{350}{}{MyslÃ­m, Å¾e aÅ¾ zkusÃ­te koupel s Jenny, nebudete uÅ¾ nikdy chtÃ­t jinou.}
+{360}{}{S takovÃ½mi vÄ›cmi se tu nezabÃ½vÃ¡me, ale zkuste si promluvit s mÃ½mi syny, Chuckem a Buckem DuntonovÃ½mi. SlyÅ¡ela jsem, Å¾e jejich brahmÃ­nÃ­ stÃ¡do je u nÄ›kterÃ½ch lidÃ­ velmi oblÃ­benÃ©.}
+{361}{}{NemÃ¡te dost penÄ›z. PÅ™ijÄte, aÅ¾ budete mÃ­t ÄÃ­m zaplatit.}
+{362}{}{VypadÃ¡ to, Å¾e mÃ¡te moc velkÃ© oÄi. Asi budete muset zkusit nÄ›jakou levnÄ›jÅ¡Ã­ koupel.}
+{363}{}{Jsem si jistÃ¡, Å¾e by vÃ¡m s tÃ­m kterÃ½koliv z mÃ½ch synÅ¯ jistÄ› rÃ¡d pomohl. Ale kaÅ¾dopÃ¡dnÄ› byste sem mÄ›la zajÃ­t pozdÄ›ji. VÄ›tÅ¡ina dÃ­vek, kterÃ© strÃ¡vÃ­ nÄ›jakÃ½ Äas s mÃ½mi chlapci, se pak velmi rÃ¡da opravdu dÅ¯kladnÄ› vykoupe.}
+{370}{}{Zase zpÃ¡tky? ÄŒÃ­m to jen je, Å¾e se ti lidÃ© neudrÅ¾Ã­ chvÃ­li ÄistÃ­.}
+{371}{}{Jen se tu tak rozhlÃ­Å¾Ã­m. NepotÅ™ebuju koupel.}
+{372}{}{Å˜eknÄ›te mi jakÃ© mÃ¡te druhy koupelÃ­.}
+{373}{}{MÅ¯Å¾u jako ÄastÃ½ nÃ¡vÅ¡tÄ›vnÃ­k dostat slevu?}
+{380}{}{No, vÃ­te, nemyslÃ­m si, Å¾e je tÅ™eba poskytovat slevy na naÅ¡e sluÅ¾by. Moje dÄ›vÄata za ty ceny stojÃ­.}
+{381}{}{No, pokud nedostanu slevu, tak pÅ¯jdu.}
+{382}{}{No jak myslÃ­te. Å˜eknÄ›te mi, jakÃ© nabÃ­zÃ­te koupele?}
+{390}{}{NejdÅ™Ã­ve musÃ­te vÄ›dÄ›t, Å¾e koupele jsou jen pro jednotlivce, ne skupiny. RozhodnÄ›te se podle svÃ©ho a potÃ© se vaÅ¡i pÅ™Ã¡telÃ© rozhodnou podle svÃ©ho.}
+{391}{}{DobÅ™e.}
 {400}{}{Lidi, jako jsi ty, tu nechceme.}

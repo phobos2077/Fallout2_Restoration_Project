@@ -1,141 +1,141 @@
-{100}{}{Vidíš hezkou mladou enu v maskáèích.}
-{101}{}{Vidíš Elise.}
-{102}{}{Šíøí kolem sebe zvláštní atmosféru. Jako by byla zvyklá dávat rozkazy, které ostatní plní.}
-{103}{}{Co chceš?}
+{100}{}{VidÃ­Å¡ hezkou mladou Å¾enu v maskÃ¡ÄÃ­ch.}
+{101}{}{VidÃ­Å¡ Elise.}
+{102}{}{Å Ã­Å™Ã­ kolem sebe zvlÃ¡Å¡tnÃ­ atmosfÃ©ru. Jako by byla zvyklÃ¡ dÃ¡vat rozkazy, kterÃ© ostatnÃ­ plnÃ­.}
+{103}{}{Co chceÅ¡?}
 {104}{}{Zase vy?}
-{105}{}{Posílá mì Karl.}
-{106}{}{Dr. Jubilee mi øekl, e si mám s tebou promluvit.}
+{105}{}{PosÃ­lÃ¡ mÄ› Karl.}
+{106}{}{Dr. Jubilee mi Å™ekl, Å¾e si mÃ¡m s tebou promluvit.}
 {107}{}{Kdo jsi?}
 {108}{}{Guh?}
-{109}{}{Hledám jistou skupinu. Takovou, co nenávidí otroctví. Øíkají si New Californští Rangeøi.}
-{110}{}{Dokáeš opravit moje auto?}
-{111}{}{Eh, myslel jsem, e je to tady opuštìné.}
-{112}{}{Opravdu? Co ti øekl?}
-{113}{}{Nic moc. Jen e jste dobrá parta a e bych se k vám mìl pøidat.}
-{114}{}{Øíkal, e dobøe platíte.}
-{115}{}{Jsem Elise a tohle je Gond. Patøíme ke skupinì, která se snaí konat správné vìci.}
-{116}{}{Nevypadáte jako charita ani církev.}
-{117}{}{To zní zajímavì. Správné v jakém smyslu?}
+{109}{}{HledÃ¡m jistou skupinu. Takovou, co nenÃ¡vidÃ­ otroctvÃ­. Å˜Ã­kajÃ­ si New CalifornÅ¡tÃ­ RangeÅ™i.}
+{110}{}{DokÃ¡Å¾eÅ¡ opravit moje auto?}
+{111}{}{Eh, myslel jsem, Å¾e je to tady opuÅ¡tÄ›nÃ©.}
+{112}{}{Opravdu? Co ti Å™ekl?}
+{113}{}{Nic moc. Jen Å¾e jste dobrÃ¡ parta a Å¾e bych se k vÃ¡m mÄ›l pÅ™idat.}
+{114}{}{Å˜Ã­kal, Å¾e dobÅ™e platÃ­te.}
+{115}{}{Jsem Elise a tohle je Gond. PatÅ™Ã­me ke skupinÄ›, kterÃ¡ se snaÅ¾Ã­ konat sprÃ¡vnÃ© vÄ›ci.}
+{116}{}{NevypadÃ¡te jako charita ani cÃ­rkev.}
+{117}{}{To znÃ­ zajÃ­mavÄ›. SprÃ¡vnÃ© v jakÃ©m smyslu?}
 {118}{}{Chci jenom opravit auto.}
-{119}{}{Odejdi odsud. Salón je na hlavní ulici.}
-{120}{}{Nenávidíš otroctví, jo? Zajímavé. Co bys dìlal, kdybys tu skupinu našel?}
-{121}{}{Poádal bych je o èlenství.}
+{119}{}{Odejdi odsud. SalÃ³n je na hlavnÃ­ ulici.}
+{120}{}{NenÃ¡vidÃ­Å¡ otroctvÃ­, jo? ZajÃ­mavÃ©. Co bys dÄ›lal, kdybys tu skupinu naÅ¡el?}
+{121}{}{PoÅ¾Ã¡dal bych je o ÄlenstvÃ­.}
 {122}{}{Nakopal bych jim prdel.}
 {123}{}{No nic.}
-{124}{}{Do toho ti nic není. Teï se odtud kliï.}
-{125}{}{S obchodem s auty u jsme skonèili. Definitivnì. Sbohem.}
-{126}{}{Není. Sbohem.}
-{127}{}{Dobøe. Povìz, co si myslíš o otrokáøích?}
-{128}{}{Nenávidím je. Jsou nechutná spodina lidstva.}
-{129}{}{Dokud mi nic neudìlají, neudìlám ani já nic jim.}
-{130}{}{Nìkteøí z mıch nejlepších pøátel jsou otrokáøi.}
-{131}{}{Peníze jsou to jediné, co tì zajímá?}
-{132}{}{Jasnì, e ne. Vìøím v pravdu, zákon a boj proti utiskovatelùm.}
-{133}{}{Pro zaèátek jo... dokud nìkdo nenajde lepší dùvod proè bojovat.}
-{134}{}{Co jiného by mì mìlo zajímat?}
-{135}{}{Nedìlej ze mì blbce. Dobøe vidím, co jsi zaè. Sbohem.}
-{136}{}{Jestli to nevíš, tak tu jen ztrácíme èas. Sbohem.}
-{137}{}{Ne, nejsme náboenská organizace. Mùu se tì na nìco zeptat?}
-{138}{}{Jasnì, jen do toho.}
-{139}{}{Ne tak rychle. Èlenství ve skupinì Rangerù vyaduje splnìní testu.}
-{140}{}{Dobøe, tak povídej.}
-{141}{}{Testu? Jsme snad... ve škole?}
-{142}{}{Venku za mìstem je otrokáø. Moná jsi to místo u vidìl. Osvoboï odtamtud všechny otroky a pak nám to pøijï øíct.}
-{143}{}{Fajn, to zvládnu.}
-{144}{}{V ádném pøípadì. Nechci mít problémy.}
-{145}{}{No, dneska je tvùj šastnı den.}
-{146}{}{A pøesnì díky takovému pøístupu existují zvìrstva jako je otrokáøství. Promiò, ale v naší skupinì pro tebe není místo.}
-{147}{}{Dobøe.}
-{148}{}{Tak jak? Zmìnil jsi názor? Pøipraven prokázat, e jsi hoden bıt Ranger?}
-{149}{}{Jasnì.}
-{150}{}{Co e to mám udìlat?}
-{151}{}{Nemáš náhodou nìco udìlat? Nevracej se, dokud nedokonèíš svùj úkol.}
-{152}{}{U jsem ty novinky slyšela. Osvobodil jsi otroky. Dobrá práce! Take, jsi pøipraven stát se Rangerem?}
+{124}{}{Do toho ti nic nenÃ­. TeÄ se odtud kliÄ.}
+{125}{}{S obchodem s auty uÅ¾ jsme skonÄili. DefinitivnÄ›. Sbohem.}
+{126}{}{NenÃ­. Sbohem.}
+{127}{}{DobÅ™e. PovÄ›z, co si myslÃ­Å¡ o otrokÃ¡Å™Ã­ch?}
+{128}{}{NenÃ¡vidÃ­m je. Jsou nechutnÃ¡ spodina lidstva.}
+{129}{}{Dokud mi nic neudÄ›lajÃ­, neudÄ›lÃ¡m ani jÃ¡ nic jim.}
+{130}{}{NÄ›kteÅ™Ã­ z mÃ½ch nejlepÅ¡Ã­ch pÅ™Ã¡tel jsou otrokÃ¡Å™i.}
+{131}{}{PenÃ­ze jsou to jedinÃ©, co tÄ› zajÃ­mÃ¡?}
+{132}{}{JasnÄ›, Å¾e ne. VÄ›Å™Ã­m v pravdu, zÃ¡kon a boj proti utiskovatelÅ¯m.}
+{133}{}{Pro zaÄÃ¡tek jo... dokud nÄ›kdo nenajde lepÅ¡Ã­ dÅ¯vod proÄ bojovat.}
+{134}{}{Co jinÃ©ho by mÄ› mÄ›lo zajÃ­mat?}
+{135}{}{NedÄ›lej ze mÄ› blbce. DobÅ™e vidÃ­m, co jsi zaÄ. Sbohem.}
+{136}{}{Jestli to nevÃ­Å¡, tak tu jen ztrÃ¡cÃ­me Äas. Sbohem.}
+{137}{}{Ne, nejsme nÃ¡boÅ¾enskÃ¡ organizace. MÅ¯Å¾u se tÄ› na nÄ›co zeptat?}
+{138}{}{JasnÄ›, jen do toho.}
+{139}{}{Ne tak rychle. ÄŒlenstvÃ­ ve skupinÄ› RangerÅ¯ vyÅ¾aduje splnÄ›nÃ­ testu.}
+{140}{}{DobÅ™e, tak povÃ­dej.}
+{141}{}{Testu? Jsme snad... ve Å¡kole?}
+{142}{}{Venku za mÄ›stem je otrokÃ¡Å™. MoÅ¾nÃ¡ jsi to mÃ­sto uÅ¾ vidÄ›l. OsvoboÄ odtamtud vÅ¡echny otroky a pak nÃ¡m to pÅ™ijÄ Å™Ã­ct.}
+{143}{}{Fajn, to zvlÃ¡dnu.}
+{144}{}{V Å¾Ã¡dnÃ©m pÅ™Ã­padÄ›. Nechci mÃ­t problÃ©my.}
+{145}{}{No, dneska je tvÅ¯j Å¡Å¥astnÃ½ den.}
+{146}{}{A pÅ™esnÄ› dÃ­ky takovÃ©mu pÅ™Ã­stupu existujÃ­ zvÄ›rstva jako je otrokÃ¡Å™stvÃ­. PromiÅˆ, ale v naÅ¡Ã­ skupinÄ› pro tebe nenÃ­ mÃ­sto.}
+{147}{}{DobÅ™e.}
+{148}{}{Tak jak? ZmÄ›nil jsi nÃ¡zor? PÅ™ipraven prokÃ¡zat, Å¾e jsi hoden bÃ½t Ranger?}
+{149}{}{JasnÄ›.}
+{150}{}{Co Å¾e to mÃ¡m udÄ›lat?}
+{151}{}{NemÃ¡Å¡ nÃ¡hodou nÄ›co udÄ›lat? Nevracej se, dokud nedokonÄÃ­Å¡ svÅ¯j Ãºkol.}
+{152}{}{UÅ¾ jsem ty novinky slyÅ¡ela. Osvobodil jsi otroky. DobrÃ¡ prÃ¡ce! TakÅ¾e, jsi pÅ™ipraven stÃ¡t se Rangerem?}
 {153}{}{Ano.}
 {154}{}{Ne.}
-{155}{}{Slyšela jsem, e jsi ten, co osvobodil otroky za mìstem. To byla opravdu správná vìc a já bych ti za to ráda potøásla rukou.}
-{156}{}{Díky.}
-{157}{}{Je to prosté. Vìøíme v to, e je otrokáøství špatné a udìláme všechno proto, abychom s ním bojovali. V NCR máme hodnì pøátel na vysokıch pozicích. Díky nim jsme zlikvidovali otroctví na jihu a teï se nám to doufám podaøí i na severu.}
-{158}{}{Rangeøi mi pøijdou jako skupina, ke které by mi bylo ctí se pøipojit. Zapiš mì.}
-{159}{}{Zajímavé... budu pøemıšlet o tom, co jsi øekla.}
-{160}{}{Pøísaháš, e budeš potírat otroctví kdekoliv na svìtì a e budeš vdy pomáhat svım bratrùm Rangerùm kdykoliv to budou potøebovat?}
+{155}{}{SlyÅ¡ela jsem, Å¾e jsi ten, co osvobodil otroky za mÄ›stem. To byla opravdu sprÃ¡vnÃ¡ vÄ›c a jÃ¡ bych ti za to rÃ¡da potÅ™Ã¡sla rukou.}
+{156}{}{DÃ­ky.}
+{157}{}{Je to prostÃ©. VÄ›Å™Ã­me v to, Å¾e je otrokÃ¡Å™stvÃ­ Å¡patnÃ© a udÄ›lÃ¡me vÅ¡echno proto, abychom s nÃ­m bojovali. V NCR mÃ¡me hodnÄ› pÅ™Ã¡tel na vysokÃ½ch pozicÃ­ch. DÃ­ky nim jsme zlikvidovali otroctvÃ­ na jihu a teÄ se nÃ¡m to doufÃ¡m podaÅ™Ã­ i na severu.}
+{158}{}{RangeÅ™i mi pÅ™ijdou jako skupina, ke kterÃ© by mi bylo ctÃ­ se pÅ™ipojit. ZapiÅ¡ mÄ›.}
+{159}{}{ZajÃ­mavÃ©... budu pÅ™emÃ½Å¡let o tom, co jsi Å™ekla.}
+{160}{}{PÅ™Ã­sahÃ¡Å¡, Å¾e budeÅ¡ potÃ­rat otroctvÃ­ kdekoliv na svÄ›tÄ› a Å¾e budeÅ¡ vÅ¾dy pomÃ¡hat svÃ½m bratrÅ¯m RangerÅ¯m kdykoliv to budou potÅ™ebovat?}
 {161}{}{Ano.}
 {162}{}{Ne.}
-{163}{}{Gratuluju, nyní jsi Ranger.}
-{164}{}{Vítej, bratøe Rangere. V tuhle chvíli tu pro tebe není moc práce. Vìtšina našich lidí je venku na hlídce. Øeknu ostatním, e patøíš mezi nás. Nechci, aby tì nìkdo z našich zastøelil.}
-{165}{}{Víš, neustále hledáme dobré lidi, kteøí jsou ochotni podpoøit náš cíl. Jestli zmìníš názor, dej mi vìdìt. Opravdu nechceš vyuít monosti se k nám teï pøipojit?}
+{163}{}{Gratuluju, nynÃ­ jsi Ranger.}
+{164}{}{VÃ­tej, bratÅ™e Rangere. V tuhle chvÃ­li tu pro tebe nenÃ­ moc prÃ¡ce. VÄ›tÅ¡ina naÅ¡ich lidÃ­ je venku na hlÃ­dce. Å˜eknu ostatnÃ­m, Å¾e patÅ™Ã­Å¡ mezi nÃ¡s. Nechci, aby tÄ› nÄ›kdo z naÅ¡ich zastÅ™elil.}
+{165}{}{VÃ­Å¡, neustÃ¡le hledÃ¡me dobrÃ© lidi, kteÅ™Ã­ jsou ochotni podpoÅ™it nÃ¡Å¡ cÃ­l. Jestli zmÄ›nÃ­Å¡ nÃ¡zor, dej mi vÄ›dÄ›t. Opravdu nechceÅ¡ vyuÅ¾Ã­t moÅ¾nosti se k nÃ¡m teÄ pÅ™ipojit?}
 {166}{}{Ne, opravdu ne.}
-{167}{}{No, kdy o tom tak mluvíš... myslím, e chci bıt Rangerem.}
-{168}{}{Aha. Zastupuju skupinu, která si øíká New Californští Rangeøi. Lidé s názory jako ty se mùou zajímat o naše èlenství. Máš zájem?}
-{169}{}{Vıbornì! Zapiš mì.}
-{170}{}{To zní zajímavì. Co mi mùeš øíct o Rangerech?}
-{171}{}{Aha. No, díky, e ses zastavil, ale myslím, e v tuhle chvíli si u nemáme co øíct. Jestli zmìníš názor, dej mi vìdìt.}
-{172}{}{Dobøe.}
-{173}{}{V tom pøípadì se mi kliï z oèí. Hned!}
-{174}{}{Dobøe.}
-{175}{}{Otrokáø! Rychle zmiz, ne ti to tvı tetování rozstøílím na kousky!}
-{176}{}{Jasnì.}
-{177}{}{To si mùeš zkusit!}
-{178}{}{Máme nìkolik agentù a pøátel v nìkterıch mìstech na severu. Rozšiøujeme naše názory a škodíme otrokáøùm kdekoliv to jen jde.}
-{179}{}{Vítej zpìt. Chceš se k nám tedy pøipojit?}
-{180}{}{Zapomeò na to.}
-{181}{}{To není tvoje. Teï odejdi, nebo ti ublíím.}
-{182}{}{Nevím, co jsi Gondovi udìlal, ale zaplatíš za to!}
-{200}{}{Gratuluju, teï je z tebe Ranger. Je tvou zapøísáhlou povinností bojovat proti otroctví kdekoliv se objeví. Mìj se, pøíteli.}
-{201}{}{Ne pùjdu, mám ještì nìjaké informace, které by tì mohly zajímat.}
-{202}{}{Dobøe, poslouchám.}
-{203}{}{Náhodou mám souøadnice jednoho z nejvìtších Metzgerovıch otrokáøskıch táborù. Je severovıchodnì odsud, pár dní cesty z Denu.}
-{204}{}{Dìláš si srandu? Rangeøi na severu se u hroznì dlouho snaí Metzgerovy tábory vystopovat. To jsou skvìlé zprávy, teï jenom musíme to odporné místo znièit. Nevíš, jak dobøe je ten tábor hlídanı?}
-{205}{}{Jediné, co ten tábor hlídá, jsou mrtvoly. Celı tábor je toti vyhlazenı.}
-{206}{}{Je tam asi tak tucet stráí.}
-{207}{}{Tak to ti neøeknu, ještì jsem tam nebyl.}
-{208}{}{Opravdu? To je úasné! Budu muset informovat ostatní Rangery. Teï, kdy si líou rány, je pravı èas na to, abychom povstali a zaútoèili. Nevím, jak ti mám podìkovat. Jsme tvımi velkımi dluníky.}
-{209}{}{Tvoje díky mi staèí. Mìj se.}
-{210}{}{Kdy tì to tak potìšilo, co takhle nìjaká malá finanèní odmìna?}
-{211}{}{Musíme je okamitì napadnout. Chceš pro nás ty parchanty sejmout?}
-{212}{}{Myslím, e u jsem toho pro dnešek udìlal dost. Sbohem.}
-{213}{}{Jako Ranger je to mojí povinností. Samozøejmì, e pomùu.}
-{214}{}{Vıbornì! Prosím, ohlaš se, a ten tábor vyhladíš.}
-{215}{}{Dej mi chvilku. Vrátím se, a budu pøipravenı.}
-{216}{}{Samozøejmì. Brzy nashledanou.}
-{217}{}{Jsem spontánní jedinec. Nepotøebuju pøípravu. Jdeme na to.}
-{218}{}{Vlastnì jsem zmìnil názor. Jsem si jistı, e to s ostatními Rangery zvládneš v pohodì i beze mì. Hodnì štìstí.}
-{219}{}{Vlastnì si myslím, e by bylo lepší, kdyby se mnou šli nìjací Rangeøi. Zajistilo by to vìtší úspìch jak mì, tak celkovému boji proti otroctví.}
-{220}{}{Ne, je mi líto. Nemám prostøedky na to, abych dala dohromady potøebné lidi. Tohle je jenom na tobì.}
-{221}{}{Tak dobøe, udìlám to sám. Ohlásím se a to bude hotové.}
-{222}{}{Tak dobøe, udìlám to sám, ale potøebuju chvíli na pøípravu. Ještì se vrátím.}
-{223}{}{V tom pøípadì musím odmítnout. Sbohem.}
-{224}{}{Máš pravdu. Dám dohromady malou skupinu a pošlu je s tebou. Mùeš hned teï vyrazit?}
-{225}{}{Potøebuju chvíli na pøípravu. Ještì se vrátím.}
-{226}{}{Vše pøipraveno. Mùeme jít.}
-{227}{}{Peníze? No, pøedpokládám, e to je to nejmenší, co ti mùeme dát. Tady máš $1000 za veškeré zpùsobené potíe. Ještì jednou ti dìkuju.}
-{228}{}{Potìšení je na mé stranì. Sbohem.}
-{229}{}{Mùeme u zaútoèit na tábor otrokáøù?}
-{230}{}{Dej mi ještì chvíli.}
-{231}{}{U mùu. Pojïme na to.}
-{232}{}{Ostatní Rangeøi se s tebou sejdou po cestì. Hodnì štìstí.}
+{167}{}{No, kdyÅ¾ o tom tak mluvÃ­Å¡... myslÃ­m, Å¾e chci bÃ½t Rangerem.}
+{168}{}{Aha. Zastupuju skupinu, kterÃ¡ si Å™Ã­kÃ¡ New CalifornÅ¡tÃ­ RangeÅ™i. LidÃ© s nÃ¡zory jako ty se mÅ¯Å¾ou zajÃ­mat o naÅ¡e ÄlenstvÃ­. MÃ¡Å¡ zÃ¡jem?}
+{169}{}{VÃ½bornÄ›! ZapiÅ¡ mÄ›.}
+{170}{}{To znÃ­ zajÃ­mavÄ›. Co mi mÅ¯Å¾eÅ¡ Å™Ã­ct o Rangerech?}
+{171}{}{Aha. No, dÃ­ky, Å¾e ses zastavil, ale myslÃ­m, Å¾e v tuhle chvÃ­li si uÅ¾ nemÃ¡me co Å™Ã­ct. Jestli zmÄ›nÃ­Å¡ nÃ¡zor, dej mi vÄ›dÄ›t.}
+{172}{}{DobÅ™e.}
+{173}{}{V tom pÅ™Ã­padÄ› se mi kliÄ z oÄÃ­. Hned!}
+{174}{}{DobÅ™e.}
+{175}{}{OtrokÃ¡Å™! Rychle zmiz, neÅ¾ ti to tvÃ½ tetovÃ¡nÃ­ rozstÅ™Ã­lÃ­m na kousky!}
+{176}{}{JasnÄ›.}
+{177}{}{To si mÅ¯Å¾eÅ¡ zkusit!}
+{178}{}{MÃ¡me nÄ›kolik agentÅ¯ a pÅ™Ã¡tel v nÄ›kterÃ½ch mÄ›stech na severu. RozÅ¡iÅ™ujeme naÅ¡e nÃ¡zory a Å¡kodÃ­me otrokÃ¡Å™Å¯m kdekoliv to jen jde.}
+{179}{}{VÃ­tej zpÄ›t. ChceÅ¡ se k nÃ¡m tedy pÅ™ipojit?}
+{180}{}{ZapomeÅˆ na to.}
+{181}{}{To nenÃ­ tvoje. TeÄ odejdi, nebo ti ublÃ­Å¾Ã­m.}
+{182}{}{NevÃ­m, co jsi Gondovi udÄ›lal, ale zaplatÃ­Å¡ za to!}
+{200}{}{Gratuluju, teÄ je z tebe Ranger. Je tvou zapÅ™Ã­sÃ¡hlou povinnostÃ­ bojovat proti otroctvÃ­ kdekoliv se objevÃ­. MÄ›j se, pÅ™Ã­teli.}
+{201}{}{NeÅ¾ pÅ¯jdu, mÃ¡m jeÅ¡tÄ› nÄ›jakÃ© informace, kterÃ© by tÄ› mohly zajÃ­mat.}
+{202}{}{DobÅ™e, poslouchÃ¡m.}
+{203}{}{NÃ¡hodou mÃ¡m souÅ™adnice jednoho z nejvÄ›tÅ¡Ã­ch MetzgerovÃ½ch otrokÃ¡Å™skÃ½ch tÃ¡borÅ¯. Je severovÃ½chodnÄ› odsud, pÃ¡r dnÃ­ cesty z Denu.}
+{204}{}{DÄ›lÃ¡Å¡ si srandu? RangeÅ™i na severu se uÅ¾ hroznÄ› dlouho snaÅ¾Ã­ Metzgerovy tÃ¡bory vystopovat. To jsou skvÄ›lÃ© zprÃ¡vy, teÄ jenom musÃ­me to odpornÃ© mÃ­sto zniÄit. NevÃ­Å¡, jak dobÅ™e je ten tÃ¡bor hlÃ­danÃ½?}
+{205}{}{JedinÃ©, co ten tÃ¡bor hlÃ­dÃ¡, jsou mrtvoly. CelÃ½ tÃ¡bor je totiÅ¾ vyhlazenÃ½.}
+{206}{}{Je tam asi tak tucet strÃ¡Å¾Ã­.}
+{207}{}{Tak to ti neÅ™eknu, jeÅ¡tÄ› jsem tam nebyl.}
+{208}{}{Opravdu? To je ÃºÅ¾asnÃ©! Budu muset informovat ostatnÃ­ Rangery. TeÄ, kdyÅ¾ si lÃ­Å¾ou rÃ¡ny, je pravÃ½ Äas na to, abychom povstali a zaÃºtoÄili. NevÃ­m, jak ti mÃ¡m podÄ›kovat. Jsme tvÃ½mi velkÃ½mi dluÅ¾nÃ­ky.}
+{209}{}{Tvoje dÃ­ky mi staÄÃ­. MÄ›j se.}
+{210}{}{KdyÅ¾ tÄ› to tak potÄ›Å¡ilo, co takhle nÄ›jakÃ¡ malÃ¡ finanÄnÃ­ odmÄ›na?}
+{211}{}{MusÃ­me je okamÅ¾itÄ› napadnout. ChceÅ¡ pro nÃ¡s ty parchanty sejmout?}
+{212}{}{MyslÃ­m, Å¾e uÅ¾ jsem toho pro dneÅ¡ek udÄ›lal dost. Sbohem.}
+{213}{}{Jako Ranger je to mojÃ­ povinnostÃ­. SamozÅ™ejmÄ›, Å¾e pomÅ¯Å¾u.}
+{214}{}{VÃ½bornÄ›! ProsÃ­m, ohlaÅ¡ se, aÅ¾ ten tÃ¡bor vyhladÃ­Å¡.}
+{215}{}{Dej mi chvilku. VrÃ¡tÃ­m se, aÅ¾ budu pÅ™ipravenÃ½.}
+{216}{}{SamozÅ™ejmÄ›. Brzy nashledanou.}
+{217}{}{Jsem spontÃ¡nnÃ­ jedinec. NepotÅ™ebuju pÅ™Ã­pravu. Jdeme na to.}
+{218}{}{VlastnÄ› jsem zmÄ›nil nÃ¡zor. Jsem si jistÃ½, Å¾e to s ostatnÃ­mi Rangery zvlÃ¡dneÅ¡ v pohodÄ› i beze mÄ›. HodnÄ› Å¡tÄ›stÃ­.}
+{219}{}{VlastnÄ› si myslÃ­m, Å¾e by bylo lepÅ¡Ã­, kdyby se mnou Å¡li nÄ›jacÃ­ RangeÅ™i. Zajistilo by to vÄ›tÅ¡Ã­ ÃºspÄ›ch jak mÄ›, tak celkovÃ©mu boji proti otroctvÃ­.}
+{220}{}{Ne, je mi lÃ­to. NemÃ¡m prostÅ™edky na to, abych dala dohromady potÅ™ebnÃ© lidi. Tohle je jenom na tobÄ›.}
+{221}{}{Tak dobÅ™e, udÄ›lÃ¡m to sÃ¡m. OhlÃ¡sÃ­m se aÅ¾ to bude hotovÃ©.}
+{222}{}{Tak dobÅ™e, udÄ›lÃ¡m to sÃ¡m, ale potÅ™ebuju chvÃ­li na pÅ™Ã­pravu. JeÅ¡tÄ› se vrÃ¡tÃ­m.}
+{223}{}{V tom pÅ™Ã­padÄ› musÃ­m odmÃ­tnout. Sbohem.}
+{224}{}{MÃ¡Å¡ pravdu. DÃ¡m dohromady malou skupinu a poÅ¡lu je s tebou. MÅ¯Å¾eÅ¡ hned teÄ vyrazit?}
+{225}{}{PotÅ™ebuju chvÃ­li na pÅ™Ã­pravu. JeÅ¡tÄ› se vrÃ¡tÃ­m.}
+{226}{}{VÅ¡e pÅ™ipraveno. MÅ¯Å¾eme jÃ­t.}
+{227}{}{PenÃ­ze? No, pÅ™edpoklÃ¡dÃ¡m, Å¾e to je to nejmenÅ¡Ã­, co ti mÅ¯Å¾eme dÃ¡t. Tady mÃ¡Å¡ $1000 za veÅ¡kerÃ© zpÅ¯sobenÃ© potÃ­Å¾e. JeÅ¡tÄ› jednou ti dÄ›kuju.}
+{228}{}{PotÄ›Å¡enÃ­ je na mÃ© stranÄ›. Sbohem.}
+{229}{}{MÅ¯Å¾eme uÅ¾ zaÃºtoÄit na tÃ¡bor otrokÃ¡Å™Å¯?}
+{230}{}{Dej mi jeÅ¡tÄ› chvÃ­li.}
+{231}{}{UÅ¾ mÅ¯Å¾u. PojÄme na to.}
+{232}{}{OstatnÃ­ RangeÅ™i se s tebou sejdou po cestÄ›. HodnÄ› Å¡tÄ›stÃ­.}
 {233}{}{[KONEC]}
-{234}{}{Slyšela jsem ty novinky. Dìkuju ti za pomoc. Tohle bude pro otrokáøe urèitì hodnì velká rána. Jsme tvımi dluníky.}
-{235}{}{Prosím, neotálej dlouho. Tenhle útok je pro náš boj proti otroctví zásadní.}
-{236}{}{Pomohl jsi Rangerùm v jejich nepøetritém boji proti otroctví.}
-{240}{}{Díky. Sbohem.}
-{250}{}{Vlastnì ještì jedna vìc. Vypadáš dùvìryhodnì. Jako nìkdo, kdo si nebere s otrokáøi servítky.}
-{251}{}{No, právì jsem vyhladil celı jejich tábor. Co máš na mysli?}
-{252}{}{Myslím, e u jsem toho pro lidstvo udìlal pro dnešek dost. Zatím.}
-{260}{}{Co tady dìláš? Tohle je soukromı... hej, poèkej chvilku, myslím, e u jsem o tobì slyšela. Nejsi ten, co vyèistil jeden z Metzgerovıch otrokáøskıch táborù?}
-{261}{}{Jo, to jsem já.}
-{262}{}{To si piš, e jo. Máš s tím snad nìjakı problém? }
-{263}{}{Moná... proè?}
-{264}{}{Nemám tušení, o èem to mluvíš. A kdy mì teï omluvíš, pùjdu.}
-{270}{}{Udìlal jsi správnou vìc a ráda bych ti za to potøásla rukou.}
-{271}{}{Vùbec ne. Vlastnì bych ti za to chtìla potøást rukou.}
-{272}{}{Protoe jsi udìlal správnou vìc a ráda bych ti za to potøásla rukou.}
-{273}{}{Kdy tì to tak potìšilo, co takhle nìjaká malá finanèní odmìna?}
-{274}{}{Bylo mi potìšením. Mohla bys mi teï øíct, kdo jste?}
-{280}{}{Nemáme moc penìz nazbyt, ale prokázal jsi nám opravdu velkou slubu, take myslím, e ti mùeme nìco dát. Tady je $1000.}
-{281}{}{Dík. Naskle.}
-{282}{}{Díky. Mohla bys mi teï øíct, kdo jste?}
-{290}{}{Já jsem Elise a tohle je Gond. Jsme èlenové protiotrokáøské skupiny zvané New California Rangers. Hodil by se nám nìkdo jako ty. Pokud máš zájem se k nám pøipojit, mám pro tebe úkol.}
-{291}{}{Poslouchám.}
-{292}{}{Nemám zájem. Nashle.}
-{300}{}{Mùu ti s nìèím pomoct, Rangere?}
+{234}{}{SlyÅ¡ela jsem ty novinky. DÄ›kuju ti za pomoc. Tohle bude pro otrokÃ¡Å™e urÄitÄ› hodnÄ› velkÃ¡ rÃ¡na. Jsme tvÃ½mi dluÅ¾nÃ­ky.}
+{235}{}{ProsÃ­m, neotÃ¡lej dlouho. Tenhle Ãºtok je pro nÃ¡Å¡ boj proti otroctvÃ­ zÃ¡sadnÃ­.}
+{236}{}{Pomohl jsi RangerÅ¯m v jejich nepÅ™etrÅ¾itÃ©m boji proti otroctvÃ­.}
+{240}{}{DÃ­ky. Sbohem.}
+{250}{}{VlastnÄ› jeÅ¡tÄ› jedna vÄ›c. VypadÃ¡Å¡ dÅ¯vÄ›ryhodnÄ›. Jako nÄ›kdo, kdo si nebere s otrokÃ¡Å™i servÃ­tky.}
+{251}{}{No, prÃ¡vÄ› jsem vyhladil celÃ½ jejich tÃ¡bor. Co mÃ¡Å¡ na mysli?}
+{252}{}{MyslÃ­m, Å¾e uÅ¾ jsem toho pro lidstvo udÄ›lal pro dneÅ¡ek dost. ZatÃ­m.}
+{260}{}{Co tady dÄ›lÃ¡Å¡? Tohle je soukromÃ½... hej, poÄkej chvilku, myslÃ­m, Å¾e uÅ¾ jsem o tobÄ› slyÅ¡ela. Nejsi ten, co vyÄistil jeden z MetzgerovÃ½ch otrokÃ¡Å™skÃ½ch tÃ¡borÅ¯?}
+{261}{}{Jo, to jsem jÃ¡.}
+{262}{}{To si piÅ¡, Å¾e jo. MÃ¡Å¡ s tÃ­m snad nÄ›jakÃ½ problÃ©m? }
+{263}{}{MoÅ¾nÃ¡... proÄ?}
+{264}{}{NemÃ¡m tuÅ¡enÃ­, o Äem to mluvÃ­Å¡. A kdyÅ¾ mÄ› teÄ omluvÃ­Å¡, pÅ¯jdu.}
+{270}{}{UdÄ›lal jsi sprÃ¡vnou vÄ›c a rÃ¡da bych ti za to potÅ™Ã¡sla rukou.}
+{271}{}{VÅ¯bec ne. VlastnÄ› bych ti za to chtÄ›la potÅ™Ã¡st rukou.}
+{272}{}{ProtoÅ¾e jsi udÄ›lal sprÃ¡vnou vÄ›c a rÃ¡da bych ti za to potÅ™Ã¡sla rukou.}
+{273}{}{KdyÅ¾ tÄ› to tak potÄ›Å¡ilo, co takhle nÄ›jakÃ¡ malÃ¡ finanÄnÃ­ odmÄ›na?}
+{274}{}{Bylo mi potÄ›Å¡enÃ­m. Mohla bys mi teÄ Å™Ã­ct, kdo jste?}
+{280}{}{NemÃ¡me moc penÄ›z nazbyt, ale prokÃ¡zal jsi nÃ¡m opravdu velkou sluÅ¾bu, takÅ¾e myslÃ­m, Å¾e ti mÅ¯Å¾eme nÄ›co dÃ¡t. Tady je $1000.}
+{281}{}{DÃ­k. Naskle.}
+{282}{}{DÃ­ky. Mohla bys mi teÄ Å™Ã­ct, kdo jste?}
+{290}{}{JÃ¡ jsem Elise a tohle je Gond. Jsme ÄlenovÃ© protiotrokÃ¡Å™skÃ© skupiny zvanÃ© New California Rangers. Hodil by se nÃ¡m nÄ›kdo jako ty. Pokud mÃ¡Å¡ zÃ¡jem se k nÃ¡m pÅ™ipojit, mÃ¡m pro tebe Ãºkol.}
+{291}{}{PoslouchÃ¡m.}
+{292}{}{NemÃ¡m zÃ¡jem. Nashle.}
+{300}{}{MÅ¯Å¾u ti s nÄ›ÄÃ­m pomoct, Rangere?}

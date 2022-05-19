@@ -1,6 +1,6 @@
-{100}{}{Vidíš poèítaèovı terminál.}
-{101}{}{Vidíš terminál energetického zdroje.}
-{102}{}{Vidíš standardní poèítaèovı terminál. Zdá se bıt funkèní a pøipraven pro zadání vstupních dat.}
-{103}{}{Tento terminál kontroluje generátor. Ukazuje, e všechno bìí normálnì.}
-{104}{}{Tento terminál kontroluje generátor. Ukazuje, e je zdroj mimo provoz z dùvodu nefunkènosti nìjaké jeho èásti.}
+{100}{}{VidÃ­Å¡ poÄÃ­taÄovÃ½ terminÃ¡l.}
+{101}{}{VidÃ­Å¡ terminÃ¡l energetickÃ©ho zdroje.}
+{102}{}{VidÃ­Å¡ standardnÃ­ poÄÃ­taÄovÃ½ terminÃ¡l. ZdÃ¡ se bÃ½t funkÄnÃ­ a pÅ™ipraven pro zadÃ¡nÃ­ vstupnÃ­ch dat.}
+{103}{}{Tento terminÃ¡l kontroluje generÃ¡tor. Ukazuje, Å¾e vÅ¡echno bÄ›Å¾Ã­ normÃ¡lnÄ›.}
+{104}{}{Tento terminÃ¡l kontroluje generÃ¡tor. Ukazuje, Å¾e je zdroj mimo provoz z dÅ¯vodu nefunkÄnosti nÄ›jakÃ© jeho ÄÃ¡sti.}
 {105}{}{Beru.}

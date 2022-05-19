@@ -1,3 +1,3 @@
-{100}{}{Vzduch je zatuchlı a páchne elezem a krví.}
-{101}{}{Získáváš }
-{102}{}{ zkušenostních bodù za nalezení Vaultu 13.}
+{100}{}{Vzduch je zatuchlÃ½ a pÃ¡chne Å¾elezem a krvÃ­.}
+{101}{}{ZÃ­skÃ¡vÃ¡Å¡ }
+{102}{}{ zkuÅ¡enostnÃ­ch bodÅ¯ za nalezenÃ­ Vaultu 13.}

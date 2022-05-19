@@ -1,76 +1,76 @@
-{100}{}{Vidíš prostitutku.}
-{150}{}{Je to naprosto obyèejná prostitutka.}
+{100}{}{VidÃ­Å¡ prostitutku.}
+{150}{}{Je to naprosto obyÄejnÃ¡ prostitutka.}
 {152}{}{[MLUVIT]}
-{153}{}{Hej, já nedìlám enskı!}
-{154}{}{Nevadí.}
-{155}{}{Omlouvám se.}
+{153}{}{Hej, jÃ¡ nedÄ›lÃ¡m Å¾enskÃ½!}
+{154}{}{NevadÃ­.}
+{155}{}{OmlouvÃ¡m se.}
 {156}{}{Mami?}
-{157}{}{Hele, chlapeèku, bude to draší, jestli chceš mít i obecenstvo.}
-{158}{}{Oni jdou tam, kam jdu já.}
-{159}{}{Chci je mít s sebou.}
-{160}{}{Ještì se vrátím.}
+{157}{}{Hele, chlapeÄku, bude to draÅ¾Å¡Ã­, jestli chceÅ¡ mÃ­t i obecenstvo.}
+{158}{}{Oni jdou tam, kam jdu jÃ¡.}
+{159}{}{Chci je mÃ­t s sebou.}
+{160}{}{JeÅ¡tÄ› se vrÃ¡tÃ­m.}
 {161}{}{Mami?}
-{162}{}{Ach, zlato, celı ivot na tebe èekám. Kde jsi byl?}
-{163}{}{Pøímo tady, zlato.}
+{162}{}{Ach, zlato, celÃ½ Å¾ivot na tebe ÄekÃ¡m. Kde jsi byl?}
+{163}{}{PÅ™Ã­mo tady, zlato.}
 {164}{}{Za kolik, sestro?}
-{165}{}{Ach jo, musím jít. Nashle.}
-{166}{}{Vííí!}
-{167}{}{Mám je ráda velkı a tupı.}
-{168}{}{To jsem pøesnì já!}
-{169}{}{Jó!}
+{165}{}{Ach jo, musÃ­m jÃ­t. Nashle.}
+{166}{}{VÃ­Ã­Ã­!}
+{167}{}{MÃ¡m je rÃ¡da velkÃ½ a tupÃ½.}
+{168}{}{To jsem pÅ™esnÄ› jÃ¡!}
+{169}{}{JÃ³!}
 {170}{}{Ach. Ne. Nashle.}
-{171}{}{Ty jseš ale velkej chlap!}
-{172}{}{To máš pøece ráda.}
+{171}{}{Ty jseÅ¡ ale velkej chlap!}
+{172}{}{To mÃ¡Å¡ pÅ™ece rÃ¡da.}
 {173}{}{Ano, madam.}
-{174}{}{Musím jít.}
-{176}{}{Dobøe!}
+{174}{}{MusÃ­m jÃ­t.}
+{176}{}{DobÅ™e!}
 {177}{}{Ne. Nashle.}
-{178}{}{Ty se vrátíš.}
-{179}{}{Uvidíme.}
+{178}{}{Ty se vrÃ¡tÃ­Å¡.}
+{179}{}{UvidÃ­me.}
 {180}{}{Eh, ne.}
 {181}{}{[Slintat]}
-{182}{}{Nemáš dost penìz. Ztra se, zlato.}
-{183}{}{Ještì se vrátím.}
-{184}{}{Za to mi nestojíš, brouku.}
+{182}{}{NemÃ¡Å¡ dost penÄ›z. ZtraÅ¥ se, zlato.}
+{183}{}{JeÅ¡tÄ› se vrÃ¡tÃ­m.}
+{184}{}{Za to mi nestojÃ­Å¡, brouku.}
 {185}{}{Ehh!}
 {186}{}{Byl jsi ohromnej!}
-{187}{}{Jako vdycky, zlato.}
-{188}{}{Nevadí.}
+{187}{}{Jako vÅ¾dycky, zlato.}
+{188}{}{NevadÃ­.}
 {189}{}{Ty taky.}
-{190}{}{Já ochromenej!}
-{191}{}{Byl jsi skvìlej!}
-{192}{}{Díky. Ty taky.}
+{190}{}{JÃ¡ ochromenej!}
+{191}{}{Byl jsi skvÄ›lej!}
+{192}{}{DÃ­ky. Ty taky.}
 {193}{}{Hmm.}
 {194}{}{Jooo.}
-{195}{}{Skvìlı!}
+{195}{}{SkvÄ›lÃ½!}
 {196}{}{Fajn, hotovo. Nashle.}
 {197}{}{That's it?}
-{198}{}{Dobøe. Nashle.}
-{199}{}{Bylo to dobrı.}
-{200}{}{Pápá.}
-{201}{}{Za tohle mi platí málo.}
-{202}{}{Tak tohle teda za ty prachy vùbec nestálo.}
-{203}{}{Budu ti chybìt.}
+{198}{}{DobÅ™e. Nashle.}
+{199}{}{Bylo to dobrÃ½.}
+{200}{}{PÃ¡pÃ¡.}
+{201}{}{Za tohle mi platÃ­ mÃ¡lo.}
+{202}{}{Tak tohle teda za ty prachy vÅ¯bec nestÃ¡lo.}
+{203}{}{Budu ti chybÄ›t.}
 {204}{}{Nashle.}
 {205}{}{Ztratil ses?}
-{206}{}{Zastav se zase nìkdy.}
-{207}{}{Dobøe. Nashle.}
-{208}{}{Jo, dobøe.}
+{206}{}{Zastav se zase nÄ›kdy.}
+{207}{}{DobÅ™e. Nashle.}
+{208}{}{Jo, dobÅ™e.}
 {209}{}{Jehee!}
-{210}{}{Zatím.}
+{210}{}{ZatÃ­m.}
 {211}{}{Nashle.}
-{212}{}{Pápá.}
-{213}{}{Stojí to $}
-{214}{}{ za èíslo. Nejdøív zapla.}
-{215}{}{Pojï za mnou.}
-{216}{}{Já èekám.}
-{217}{}{Nehodlám v tıhle studené díøe stát celej den.}
-{218}{}{Mohl by sis pospíšit?}
-{219}{}{Poslední šance.}
-{220}{}{Fajn. U nehodlám èekat ani vteøinu.}
-{221}{}{Tak u pojï.}
-{222}{}{Jseš vzrušenej?}
-{223}{}{Pojï za mnou.}
-{224}{}{Hej, kámo, dej ty pracky pryè.}
-{225}{}{Ruce pryè! Nejsem ádná hraèka, se kterou si mùeš hrát.}
-{230}{}{Ehhh...? To bylo tvoje poprvé?}
+{212}{}{PÃ¡pÃ¡.}
+{213}{}{StojÃ­ to $}
+{214}{}{ za ÄÃ­slo. NejdÅ™Ã­v zaplaÅ¥.}
+{215}{}{PojÄ za mnou.}
+{216}{}{JÃ¡ ÄekÃ¡m.}
+{217}{}{NehodlÃ¡m v tÃ½hle studenÃ© dÃ­Å™e stÃ¡t celej den.}
+{218}{}{Mohl by sis pospÃ­Å¡it?}
+{219}{}{PoslednÃ­ Å¡ance.}
+{220}{}{Fajn. UÅ¾ nehodlÃ¡m Äekat ani vteÅ™inu.}
+{221}{}{Tak uÅ¾ pojÄ.}
+{222}{}{JseÅ¡ vzruÅ¡enej?}
+{223}{}{PojÄ za mnou.}
+{224}{}{Hej, kÃ¡mo, dej ty pracky pryÄ.}
+{225}{}{Ruce pryÄ! Nejsem Å¾Ã¡dnÃ¡ hraÄka, se kterou si mÅ¯Å¾eÅ¡ hrÃ¡t.}
+{230}{}{Ehhh...? To bylo tvoje poprvÃ©?}

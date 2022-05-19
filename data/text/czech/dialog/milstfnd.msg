@@ -1,2 +1,2 @@
-{100}{}{Vid� bednu s n�pisem "Ztr�ty a n�lezy."}
-{110}{}{Vid� bednu s n�pisem "Ztr�ty a n�lezy."}
+{100}{}{Vidíš bednu s nápisem "Ztráty a nálezy."}
+{110}{}{Vidíš bednu s nápisem "Ztráty a nálezy."}

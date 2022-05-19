@@ -1,40 +1,40 @@
-{100}{}{Vidíš mnicha ve støedních letech.}
-{101}{}{Vidíš bratra Mathewa.}
-{102}{}{Stojí na pódiu a káe obyvatelùm Opatství.}
-{200}{}{Dobøí lidé z Opatství. Slyšte na chvíli, nebo mám tolik co øíci.}
-{201}{}{Ostatky svaté vìkù dávnıch jsme zde shromádili.}
-{202}{}{Seehnuti Ohnivou záplavou, uvrhnuti jsme v temnotu byli.}
-{203}{}{Pro zachování moudrosti dob minulıch, Memorabilia budeme tvoøiti.}
-{204}{}{By plamen ji dávno vychladl, musíme peèovati o nì a chrániti.}
-{205}{}{Moudra tato zneuita by mohla bıti, plamen zkázy znovu vzplane.}
-{206}{}{Nikdo tedy uèiti se nebude, z obavy, e další Ohnivá záplava se stane.}
-{207}{}{Pøijde však den, kdy se lidstvo povznese nad svou touhou po zkáze.}
-{208}{}{A Memorabilia budou tu èekati na znovuvzkøíšení své zase.}
-{209}{}{Dohlííme tedy na náš úkol posvátnı, jinak moudrost všechnu bychom mohli ztratiti.}
-{210}{}{Musíme ji zachovati a dobøe chrániti, nikdy však uíti.}
-{211}{}{A nyní jdìte, pøátelé, a duch váš je povznesen.}
-{212}{}{Neb stráci vìdìní, kadı z nás byl obdaøen.}
-{213}{}{Nyní se prosím na chvíli zamyslete nad mımi slovy.}
-{224}{}{Nyní se prosím na chvíli zamyslete nad mımi slovy.}
-{300}{}{Vítám tì, pøíteli. Ještì nikdy jsem tì tu pøedtím nevidìl. Jsem bratr Mathew a pomáhám šíøit slovo o dùleitosti zachování moudra a vìdìní starších.}
-{301}{}{Tìší mì, Matte. Jmenuju se }
-{302}{}{ a mım posláním je najít svatı GECK.}
-{303}{}{Promiò, u musím jít.}
-{400}{}{GECK, jo? Vzpomínám si, e jsem na nìj narazil pøi jednom pøepisování, take o nìm musí bıt zmínka v naší databázi, ale obávám se, e pøístup k našim poèítaèùm je omezen. Nicménì, pokud si promluvíš s Opatem, je moné, e ti udìlí pøístup. Za pokus nic nedáš. Jo a klidnì si projdi sbírku našich pøedváleènıch relikvií. Poádal bych tì, abys nic nepoškodil, ale obávám se, e vše ji bylo nenapravitelnì poškozeno.}
-{401}{}{Myslím, e se ho zeptám, ale mám ještì nìjaké otázky.}
-{402}{}{Dìkuju. Pùjdu se ho hned zeptat.}
-{500}{}{Jsem ti k slubám. Co chceš vìdìt?}
-{501}{}{Co mi mùeš øíct o tomto místì?}
-{502}{}{Jsi pøi svém kázání velmi poetickı. Máš k tomu nìjakı dùvod?}
-{503}{}{Ale nic. Mìj se.}
-{600}{}{Opatství je domovem pro kadého, kdo se chová slušnì. Jsme nezávislá komunita a návštìvníky, jako jsi ty, tu míváme jen velmi zøídka. Vìtšina z tìch, které tady vidíš, jsou potomky pùvodních zakladatelù, kteøí se usadili v tomto starém klášteøe krátce po Ohnivé záplavì.}
-{601}{}{Pokraèuj.}
-{602}{}{Ticho a mírumilovnost tohoto místa ji v prùbìhu let pøilákalo mnohé cestovatele touící uniknout z temného chaosu pustiny. Ale samozøejmì pravá hodnota tohoto místa je ukryta v rozsáhlé knihovnì, která je zaplnìna starımi svazky obsahujícími neobvyklou moudrost ztraceného vìku. Postupem èasu jsme se pasovali do role strácù a ochráncù tohoto vìdìní.}
-{603}{}{Velmi zajímavé. Mám další otázku.}
-{604}{}{Zajímavé, ale u musím jít.}
-{700}{}{(Pousmìje se nad tvojí otázkou.) Ne, nemám k tomu ádnı konkrétní dùvod. Jen jsem za svùj ivot pøeèetl mnoho poezie a baví mì ji vyuívat pøi svıch kázáních. Pomáhá to zanechat v posluchaèích hlubší dojem.}
-{701}{}{Dobøe. Mám další otázku.}
-{800}{}{Rád tì znovu vidím }
-{801}{}{. Co pro tebe mohu udìlat?}
-{802}{}{Mám nìjaké otázky.}
-{803}{}{Nic. Zatím nashle.}
+{100}{}{VidÃ­Å¡ mnicha ve stÅ™ednÃ­ch letech.}
+{101}{}{VidÃ­Å¡ bratra Mathewa.}
+{102}{}{StojÃ­ na pÃ³diu a kÃ¡Å¾e obyvatelÅ¯m OpatstvÃ­.}
+{200}{}{DobÅ™Ã­ lidÃ© z OpatstvÃ­. SlyÅ¡te na chvÃ­li, neboÅ¥ mÃ¡m tolik co Å™Ã­ci.}
+{201}{}{Ostatky svatÃ© vÄ›kÅ¯ dÃ¡vnÃ½ch jsme zde shromÃ¡Å¾dili.}
+{202}{}{SeÅ¾ehnuti Ohnivou zÃ¡plavou, uvrhnuti jsme v temnotu byli.}
+{203}{}{Pro zachovÃ¡nÃ­ moudrosti dob minulÃ½ch, Memorabilia budeme tvoÅ™iti.}
+{204}{}{ByÅ¥ plamen jiÅ¾ dÃ¡vno vychladl, musÃ­me peÄovati o nÄ› a chrÃ¡niti.}
+{205}{}{Moudra tato zneuÅ¾ita by mohla bÃ½ti, plamen zkÃ¡zy znovu vzplane.}
+{206}{}{Nikdo tedy uÄiti se nebude, z obavy, Å¾e dalÅ¡Ã­ OhnivÃ¡ zÃ¡plava se stane.}
+{207}{}{PÅ™ijde vÅ¡ak den, kdy se lidstvo povznese nad svou touhou po zkÃ¡ze.}
+{208}{}{A Memorabilia budou tu Äekati na znovuvzkÅ™Ã­Å¡enÃ­ svÃ© zase.}
+{209}{}{DohlÃ­Å¾Ã­me tedy na nÃ¡Å¡ Ãºkol posvÃ¡tnÃ½, jinak moudrost vÅ¡echnu bychom mohli ztratiti.}
+{210}{}{MusÃ­me ji zachovati a dobÅ™e chrÃ¡niti, nikdy vÅ¡ak uÅ¾Ã­ti.}
+{211}{}{A nynÃ­ jdÄ›te, pÅ™Ã¡telÃ©, aÅ¥ duch vÃ¡Å¡ je povznesen.}
+{212}{}{Neb strÃ¡Å¾ci vÄ›dÄ›nÃ­, kaÅ¾dÃ½ z nÃ¡s byl obdaÅ™en.}
+{213}{}{NynÃ­ se prosÃ­m na chvÃ­li zamyslete nad mÃ½mi slovy.}
+{224}{}{NynÃ­ se prosÃ­m na chvÃ­li zamyslete nad mÃ½mi slovy.}
+{300}{}{VÃ­tÃ¡m tÄ›, pÅ™Ã­teli. JeÅ¡tÄ› nikdy jsem tÄ› tu pÅ™edtÃ­m nevidÄ›l. Jsem bratr Mathew a pomÃ¡hÃ¡m Å¡Ã­Å™it slovo o dÅ¯leÅ¾itosti zachovÃ¡nÃ­ moudra a vÄ›dÄ›nÃ­ starÅ¡Ã­ch.}
+{301}{}{TÄ›Å¡Ã­ mÄ›, Matte. Jmenuju se }
+{302}{}{ a mÃ½m poslÃ¡nÃ­m je najÃ­t svatÃ½ GECK.}
+{303}{}{PromiÅˆ, uÅ¾ musÃ­m jÃ­t.}
+{400}{}{GECK, jo? VzpomÃ­nÃ¡m si, Å¾e jsem na nÄ›j narazil pÅ™i jednom pÅ™episovÃ¡nÃ­, takÅ¾e o nÄ›m musÃ­ bÃ½t zmÃ­nka v naÅ¡Ã­ databÃ¡zi, ale obÃ¡vÃ¡m se, Å¾e pÅ™Ã­stup k naÅ¡im poÄÃ­taÄÅ¯m je omezen. NicmÃ©nÄ›, pokud si promluvÃ­Å¡ s Opatem, je moÅ¾nÃ©, Å¾e ti udÄ›lÃ­ pÅ™Ã­stup. Za pokus nic nedÃ¡Å¡. Jo a klidnÄ› si projdi sbÃ­rku naÅ¡ich pÅ™edvÃ¡leÄnÃ½ch relikviÃ­. PoÅ¾Ã¡dal bych tÄ›, abys nic nepoÅ¡kodil, ale obÃ¡vÃ¡m se, Å¾e vÅ¡e jiÅ¾ bylo nenapravitelnÄ› poÅ¡kozeno.}
+{401}{}{MyslÃ­m, Å¾e se ho zeptÃ¡m, ale mÃ¡m jeÅ¡tÄ› nÄ›jakÃ© otÃ¡zky.}
+{402}{}{DÄ›kuju. PÅ¯jdu se ho hned zeptat.}
+{500}{}{Jsem ti k sluÅ¾bÃ¡m. Co chceÅ¡ vÄ›dÄ›t?}
+{501}{}{Co mi mÅ¯Å¾eÅ¡ Å™Ã­ct o tomto mÃ­stÄ›?}
+{502}{}{Jsi pÅ™i svÃ©m kÃ¡zÃ¡nÃ­ velmi poetickÃ½. MÃ¡Å¡ k tomu nÄ›jakÃ½ dÅ¯vod?}
+{503}{}{Ale nic. MÄ›j se.}
+{600}{}{OpatstvÃ­ je domovem pro kaÅ¾dÃ©ho, kdo se chovÃ¡ sluÅ¡nÄ›. Jsme nezÃ¡vislÃ¡ komunita a nÃ¡vÅ¡tÄ›vnÃ­ky, jako jsi ty, tu mÃ­vÃ¡me jen velmi zÅ™Ã­dka. VÄ›tÅ¡ina z tÄ›ch, kterÃ© tady vidÃ­Å¡, jsou potomky pÅ¯vodnÃ­ch zakladatelÅ¯, kteÅ™Ã­ se usadili v tomto starÃ©m klÃ¡Å¡teÅ™e krÃ¡tce po OhnivÃ© zÃ¡plavÄ›.}
+{601}{}{PokraÄuj.}
+{602}{}{Ticho a mÃ­rumilovnost tohoto mÃ­sta jiÅ¾ v prÅ¯bÄ›hu let pÅ™ilÃ¡kalo mnohÃ© cestovatele touÅ¾Ã­cÃ­ uniknout z temnÃ©ho chaosu pustiny. Ale samozÅ™ejmÄ› pravÃ¡ hodnota tohoto mÃ­sta je ukryta v rozsÃ¡hlÃ© knihovnÄ›, kterÃ¡ je zaplnÄ›na starÃ½mi svazky obsahujÃ­cÃ­mi neobvyklou moudrost ztracenÃ©ho vÄ›ku. Postupem Äasu jsme se pasovali do role strÃ¡Å¾cÅ¯ a ochrÃ¡ncÅ¯ tohoto vÄ›dÄ›nÃ­.}
+{603}{}{Velmi zajÃ­mavÃ©. MÃ¡m dalÅ¡Ã­ otÃ¡zku.}
+{604}{}{ZajÃ­mavÃ©, ale uÅ¾ musÃ­m jÃ­t.}
+{700}{}{(PousmÄ›je se nad tvojÃ­ otÃ¡zkou.) Ne, nemÃ¡m k tomu Å¾Ã¡dnÃ½ konkrÃ©tnÃ­ dÅ¯vod. Jen jsem za svÅ¯j Å¾ivot pÅ™eÄetl mnoho poezie a bavÃ­ mÄ› ji vyuÅ¾Ã­vat pÅ™i svÃ½ch kÃ¡zÃ¡nÃ­ch. PomÃ¡hÃ¡ to zanechat v posluchaÄÃ­ch hlubÅ¡Ã­ dojem.}
+{701}{}{DobÅ™e. MÃ¡m dalÅ¡Ã­ otÃ¡zku.}
+{800}{}{RÃ¡d tÄ› znovu vidÃ­m }
+{801}{}{. Co pro tebe mohu udÄ›lat?}
+{802}{}{MÃ¡m nÄ›jakÃ© otÃ¡zky.}
+{803}{}{Nic. ZatÃ­m nashle.}

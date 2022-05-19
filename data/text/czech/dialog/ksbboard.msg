@@ -1,38 +1,38 @@
-{100}{}{Nìjaká oznamovací tabule.}
-{101}{}{Vidíš informaèní tabuli Klamathu.}
-{102}{}{Na tabuli jsou pøipíchnuty inzeráty a pracovní nabídky. Nìkteré z nich u tam nìjakou dobu visí.}
-{110}{}{Jsou tu nìjaké inzeráty, pracovní nabídky a dokonce i nákresy. Nicménì se zdá, e nìkteré z nich u tu nìjakou dobu visí.}
-{120}{}{Myslím, e se podívám na ty nákresy.}
-{130}{}{Tenhle vypadá dobøe... nìco s chlastem.}
-{140}{}{A tady nìco o lázních.}
-{150}{}{Nìkdo vykupuje geckoní kùe.}
-{160}{}{Tady je nìco o krysách.}
-{170}{}{Nìco ohlednì starıch vìcí.}
-{180}{}{Vypadá to, e se nìkdo ztratil.}
-{190}{}{[Odejít]}
-{210}{}{Hrubı nákres nìèeho, co vypadá jako brahmína s pøeškrtnutım velkım 'X' a slovo 'Torr' naškrábané vespod.}
-{220}{}{Myslím, e se podívám na jinou vıvìsku.}
-{230}{}{Všechny potøebné informace u mám.}
-{240}{}{Chlast... to tì zajímá, co? Mám špatnou nohu a potøebuju pomoc s doplnìním døeva do destilátoru. Hledám rychlıho a spolehlivıho èlovìka. Kontaktujte Whiskey Boba v hospodì U Bucknerové.}
-{250}{}{Myslím, e se podívám na jinou vıvìsku.}
-{260}{}{Všechny potøebné informace u mám.}
-{270}{}{Pohøešovaná osoba. Vidìl nìkdo lovce koešin Smileyho? Je asi šest stop vysokı, èistı a slušnı (vìtšinou). Ztratil se nìkde severnì odtud a já ho postrádám. -Ardin Bucknerová}
-{280}{}{Myslím, e se podívám na jinou vıvìsku.}
-{290}{}{Všechny potøebné informace u mám.}
-{310}{}{Nejlepší ceny za kvalitní koešiny. Máte geckoní kùe? Já mám zase prachy. Zvláštì vítané jsou kùe zlatıch geckonù. Navštivte mì! -Sajag, majitel hospody U Zlatého geckona.}
-{320}{}{Myslím, e se podívám na jinou vıvìsku.}
-{330}{}{Všechny potøebné informace u mám.}
-{340}{}{U máme dost tìch zpropadenıch krys v Lovecké ètvrti. Pøijïte a dostaòte je. Kolik jen mùete. -Èahoun.}
-{350}{}{Myslím, e se podívám na jinou vıvìsku.}
-{360}{}{Všechny potøebné informace u mám.}
-{370}{}{Cítíte se špinaví? Nic neudìlá znavenému èlovìku lépe ne poøádná koupel. Tøi zábavné druhy koupelí na vıbìr! Vystupuje zde krásná a talentovaná Jenny (pùvodnì z Denu) -Pro bliší informace navštivte Nosatou Sally v lázních.}
-{380}{}{Myslím, e se podívám na jinou vıvìsku.}
-{390}{}{Všechny potøebné informace u mám.}
-{400}{}{Ne-fal-šovanı staro-itnosti. Dnes u se nedìlají vìci tak jako døív. Nedìlají se toti vùbec. Jestli máte zájem o starou dobrou kvalitu, navštivte obchodníka Vica -Ve Vıchodní èásti centra.}
-{410}{}{Myslím, e se podívám na jinou vıvìsku.}
-{420}{}{Všechny potøebné informace u mám.}
-{430}{}{Vidíš kus døeva a na nìm pøipíchnuté cáry papíru. Všechny kromì jednoho mají na sobì ty otravné stopy od much. Fíha! Zkoumání tìch papírù tì pìknì unavilo. Radìji si najdi nìco ménì vyèerpávajícího.}
-{440}{}{Torr. (Podívat se na vıvìsku, která ti jako jediná dává smysl.)}
-{450}{}{Dobøe.}
-{460}{}{Hrubı nákres nìèeho, co vypadá jako brahmína s pøeškrtnutım velkım 'X' a slovo 'Torr' naškrábané vespod. (Nejsou to ádné jeskynní malby v Lascaux, ale vıznam je celkem jasnı.)}
-{470}{}{Eruu. (No prostì to znamená, e nìjaká nebohá duše jménem Torr potøebuje pomoc s brahmínami.)}
+{100}{}{NÄ›jakÃ¡ oznamovacÃ­ tabule.}
+{101}{}{VidÃ­Å¡ informaÄnÃ­ tabuli Klamathu.}
+{102}{}{Na tabuli jsou pÅ™ipÃ­chnuty inzerÃ¡ty a pracovnÃ­ nabÃ­dky. NÄ›kterÃ© z nich uÅ¾ tam nÄ›jakou dobu visÃ­.}
+{110}{}{Jsou tu nÄ›jakÃ© inzerÃ¡ty, pracovnÃ­ nabÃ­dky a dokonce i nÃ¡kresy. NicmÃ©nÄ› se zdÃ¡, Å¾e nÄ›kterÃ© z nich uÅ¾ tu nÄ›jakou dobu visÃ­.}
+{120}{}{MyslÃ­m, Å¾e se podÃ­vÃ¡m na ty nÃ¡kresy.}
+{130}{}{Tenhle vypadÃ¡ dobÅ™e... nÄ›co s chlastem.}
+{140}{}{A tady nÄ›co o lÃ¡znÃ­ch.}
+{150}{}{NÄ›kdo vykupuje geckonÃ­ kÅ¯Å¾e.}
+{160}{}{Tady je nÄ›co o krysÃ¡ch.}
+{170}{}{NÄ›co ohlednÄ› starÃ½ch vÄ›cÃ­.}
+{180}{}{VypadÃ¡ to, Å¾e se nÄ›kdo ztratil.}
+{190}{}{[OdejÃ­t]}
+{210}{}{HrubÃ½ nÃ¡kres nÄ›Äeho, co vypadÃ¡ jako brahmÃ­na s pÅ™eÅ¡krtnutÃ½m velkÃ½m 'X' a slovo 'Torr' naÅ¡krÃ¡banÃ© vespod.}
+{220}{}{MyslÃ­m, Å¾e se podÃ­vÃ¡m na jinou vÃ½vÄ›sku.}
+{230}{}{VÅ¡echny potÅ™ebnÃ© informace uÅ¾ mÃ¡m.}
+{240}{}{Chlast... to tÄ› zajÃ­mÃ¡, co? MÃ¡m Å¡patnou nohu a potÅ™ebuju pomoc s doplnÄ›nÃ­m dÅ™eva do destilÃ¡toru. HledÃ¡m rychlÃ½ho a spolehlivÃ½ho ÄlovÄ›ka. Kontaktujte Whiskey Boba v hospodÄ› U BucknerovÃ©.}
+{250}{}{MyslÃ­m, Å¾e se podÃ­vÃ¡m na jinou vÃ½vÄ›sku.}
+{260}{}{VÅ¡echny potÅ™ebnÃ© informace uÅ¾ mÃ¡m.}
+{270}{}{PohÅ™eÅ¡ovanÃ¡ osoba. VidÄ›l nÄ›kdo lovce koÅ¾eÅ¡in Smileyho? Je asi Å¡est stop vysokÃ½, ÄistÃ½ a sluÅ¡nÃ½ (vÄ›tÅ¡inou). Ztratil se nÄ›kde severnÄ› odtud a jÃ¡ ho postrÃ¡dÃ¡m. -Ardin BucknerovÃ¡}
+{280}{}{MyslÃ­m, Å¾e se podÃ­vÃ¡m na jinou vÃ½vÄ›sku.}
+{290}{}{VÅ¡echny potÅ™ebnÃ© informace uÅ¾ mÃ¡m.}
+{310}{}{NejlepÅ¡Ã­ ceny za kvalitnÃ­ koÅ¾eÅ¡iny. MÃ¡te geckonÃ­ kÅ¯Å¾e? JÃ¡ mÃ¡m zase prachy. ZvlÃ¡Å¡tÄ› vÃ­tanÃ© jsou kÅ¯Å¾e zlatÃ½ch geckonÅ¯. NavÅ¡tivte mÄ›! -Sajag, majitel hospody U ZlatÃ©ho geckona.}
+{320}{}{MyslÃ­m, Å¾e se podÃ­vÃ¡m na jinou vÃ½vÄ›sku.}
+{330}{}{VÅ¡echny potÅ™ebnÃ© informace uÅ¾ mÃ¡m.}
+{340}{}{UÅ¾ mÃ¡me dost tÄ›ch zpropadenÃ½ch krys v LoveckÃ© Ätvrti. PÅ™ijÄte a dostaÅˆte je. Kolik jen mÅ¯Å¾ete. -ÄŒahoun.}
+{350}{}{MyslÃ­m, Å¾e se podÃ­vÃ¡m na jinou vÃ½vÄ›sku.}
+{360}{}{VÅ¡echny potÅ™ebnÃ© informace uÅ¾ mÃ¡m.}
+{370}{}{CÃ­tÃ­te se Å¡pinavÃ­? Nic neudÄ›lÃ¡ znavenÃ©mu ÄlovÄ›ku lÃ©pe neÅ¾ poÅ™Ã¡dnÃ¡ koupel. TÅ™i zÃ¡bavnÃ© druhy koupelÃ­ na vÃ½bÄ›r! Vystupuje zde krÃ¡snÃ¡ a talentovanÃ¡ Jenny (pÅ¯vodnÄ› z Denu) -Pro bliÅ¾Å¡Ã­ informace navÅ¡tivte Nosatou Sally v lÃ¡znÃ­ch.}
+{380}{}{MyslÃ­m, Å¾e se podÃ­vÃ¡m na jinou vÃ½vÄ›sku.}
+{390}{}{VÅ¡echny potÅ™ebnÃ© informace uÅ¾ mÃ¡m.}
+{400}{}{Ne-fal-Å¡ovanÃ½ staro-Å¾itnosti. Dnes uÅ¾ se nedÄ›lajÃ­ vÄ›ci tak jako dÅ™Ã­v. NedÄ›lajÃ­ se totiÅ¾ vÅ¯bec. Jestli mÃ¡te zÃ¡jem o starou dobrou kvalitu, navÅ¡tivte obchodnÃ­ka Vica -Ve VÃ½chodnÃ­ ÄÃ¡sti centra.}
+{410}{}{MyslÃ­m, Å¾e se podÃ­vÃ¡m na jinou vÃ½vÄ›sku.}
+{420}{}{VÅ¡echny potÅ™ebnÃ© informace uÅ¾ mÃ¡m.}
+{430}{}{VidÃ­Å¡ kus dÅ™eva a na nÄ›m pÅ™ipÃ­chnutÃ© cÃ¡ry papÃ­ru. VÅ¡echny kromÄ› jednoho majÃ­ na sobÄ› ty otravnÃ© stopy od much. FÃ­ha! ZkoumÃ¡nÃ­ tÄ›ch papÃ­rÅ¯ tÄ› pÄ›knÄ› unavilo. RadÄ›ji si najdi nÄ›co mÃ©nÄ› vyÄerpÃ¡vajÃ­cÃ­ho.}
+{440}{}{Torr. (PodÃ­vat se na vÃ½vÄ›sku, kterÃ¡ ti jako jedinÃ¡ dÃ¡vÃ¡ smysl.)}
+{450}{}{DobÅ™e.}
+{460}{}{HrubÃ½ nÃ¡kres nÄ›Äeho, co vypadÃ¡ jako brahmÃ­na s pÅ™eÅ¡krtnutÃ½m velkÃ½m 'X' a slovo 'Torr' naÅ¡krÃ¡banÃ© vespod. (Nejsou to Å¾Ã¡dnÃ© jeskynnÃ­ malby v Lascaux, ale vÃ½znam je celkem jasnÃ½.)}
+{470}{}{Eruu. (No prostÄ› to znamenÃ¡, Å¾e nÄ›jakÃ¡ nebohÃ¡ duÅ¡e jmÃ©nem Torr potÅ™ebuje pomoc s brahmÃ­nami.)}

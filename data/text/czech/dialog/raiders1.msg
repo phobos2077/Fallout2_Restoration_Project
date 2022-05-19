@@ -1,3 +1,3 @@
-{100}{}{Pøicházíš k jeskyni otevírající se na úboèí jednoho z kopcù.}
-{101}{}{Pøicházíš ke skupinì rozboøenıch domù. Uprostøed nich je otvor se ebøíkem vedoucím dolù.}
-{102}{}{Podaøilo se ti odstranit velkou vıhodu nájezdníkù. U nikdy nebudou napadat tuto oblast.}
+{100}{}{PÅ™ichÃ¡zÃ­Å¡ k jeskyni otevÃ­rajÃ­cÃ­ se na ÃºboÄÃ­ jednoho z kopcÅ¯.}
+{101}{}{PÅ™ichÃ¡zÃ­Å¡ ke skupinÄ› rozboÅ™enÃ½ch domÅ¯. UprostÅ™ed nich je otvor se Å¾ebÅ™Ã­kem vedoucÃ­m dolÅ¯.}
+{102}{}{PodaÅ™ilo se ti odstranit velkou vÃ½hodu nÃ¡jezdnÃ­kÅ¯. UÅ¾ nikdy nebudou napadat tuto oblast.}

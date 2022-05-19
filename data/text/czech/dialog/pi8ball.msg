@@ -1,40 +1,40 @@
 {151}{}{}
-{200}{}{Vypadá to dobøe.}
-{201}{}{Nevypadá to moc dobøe.}
-{202}{}{Moje odpovìï je ne.}
-{203}{}{Nespoléhej na to.}
-{204}{}{Mùeš se na to spolehnout.}
-{205}{}{Zeptej se pozdìji.}
-{206}{}{Pravdìpodobnì ano.}
-{207}{}{To teï nemùu pøedpovìdìt.}
+{200}{}{VypadÃ¡ to dobÅ™e.}
+{201}{}{NevypadÃ¡ to moc dobÅ™e.}
+{202}{}{Moje odpovÄ›Ä je ne.}
+{203}{}{NespolÃ©hej na to.}
+{204}{}{MÅ¯Å¾eÅ¡ se na to spolehnout.}
+{205}{}{Zeptej se pozdÄ›ji.}
+{206}{}{PravdÄ›podobnÄ› ano.}
+{207}{}{To teÄ nemÅ¯Å¾u pÅ™edpovÄ›dÄ›t.}
 {208}{}{Ano.}
-{209}{}{Ano. Stoprocentnì.}
-{210}{}{Nebudu o tom teï radìji mluvit.}
-{211}{}{To je jisté.}
+{209}{}{Ano. StoprocentnÄ›.}
+{210}{}{Nebudu o tom teÄ radÄ›ji mluvit.}
+{211}{}{To je jistÃ©.}
 {212}{}{Velice o tom pochybuji.}
-{213}{}{Jednoznaènì.}
-{214}{}{Soustøeï se a zeptej se znovu.}
-{215}{}{Signály naznaèují e ano.}
-{216}{}{Mé zdroje tvrdí e ne.}
-{217}{}{Nepochybnì.}
-{218}{}{Odpovìd je mlhavá, zkus to znovu.}
-{219}{}{Jak já to vidím, tak ano.}
-{220}{}{Netøepej se mnou tak silnì. Bolí to.}
-{221}{}{Máš silnou pravou ruku.}
-{222}{}{Laskavì si utøi ruce, ne se mnou budeš zase tøepat.}
-{223}{}{Doèasnì mimo provoz.}
-{224}{}{Zavøeno na pøíkaz Rady RPG.}
-{225}{}{Ještì jednou se mnou zatøes a budeš mít problém.}
-{226}{}{Zaèíná mi bıt dost špatnì.}
-{227}{}{Zaèíná mi bıt blbì.}
-{228}{}{Máš teplé ruce.}
-{229}{}{Feargus byl proti tomu, aby mì dali do téhle hry. Je pìknì zlı.}
-{230}{}{Tvé skore je 23 ze 100. Ještì toho stále musíš hodnì projít.}
-{231}{}{Scotty Everts si mnohokrát povzdechl, kdy uvidìl, kolik je ve høe pøedmìtù.}
-{232}{}{Podívej se na pánské toalety v prvním patøe v kasínu pana Mordina v New Renu.}
-{233}{}{Pokud aktivuješ køí v Golgotì oznaèenı jako 'Odpadky', najdeš tajnou skrıš.}
-{234}{}{A dokonèíš hru, jdi zpìt do New Rena a promluv si s otcem Tullym.}
-{235}{}{Víš, e mì mùeš pouít jako zbraò?}
-{236}{}{Pøestaò se mnou tak silnì tøepat!}
-{237}{}{Tvé ŠTÌSTÍ je velice vysoké. Zatøes se mnou a prozradím ti rùzné tipy.}
-{238}{}{Ano, my VÍME, e Descent to Undermountain byl brak.}
+{213}{}{JednoznaÄnÄ›.}
+{214}{}{SoustÅ™eÄ se a zeptej se znovu.}
+{215}{}{SignÃ¡ly naznaÄujÃ­ Å¾e ano.}
+{216}{}{MÃ© zdroje tvrdÃ­ Å¾e ne.}
+{217}{}{NepochybnÄ›.}
+{218}{}{OdpovÄ›d je mlhavÃ¡, zkus to znovu.}
+{219}{}{Jak jÃ¡ to vidÃ­m, tak ano.}
+{220}{}{NetÅ™epej se mnou tak silnÄ›. BolÃ­ to.}
+{221}{}{MÃ¡Å¡ silnou pravou ruku.}
+{222}{}{LaskavÄ› si utÅ™i ruce, neÅ¾ se mnou budeÅ¡ zase tÅ™epat.}
+{223}{}{DoÄasnÄ› mimo provoz.}
+{224}{}{ZavÅ™eno na pÅ™Ã­kaz Rady RPG.}
+{225}{}{JeÅ¡tÄ› jednou se mnou zatÅ™es a budeÅ¡ mÃ­t problÃ©m.}
+{226}{}{ZaÄÃ­nÃ¡ mi bÃ½t dost Å¡patnÄ›.}
+{227}{}{ZaÄÃ­nÃ¡ mi bÃ½t blbÄ›.}
+{228}{}{MÃ¡Å¡ teplÃ© ruce.}
+{229}{}{Feargus byl proti tomu, aby mÄ› dali do tÃ©hle hry. Je pÄ›knÄ› zlÃ½.}
+{230}{}{TvÃ© skore je 23 ze 100. JeÅ¡tÄ› toho stÃ¡le musÃ­Å¡ hodnÄ› projÃ­t.}
+{231}{}{Scotty Everts si mnohokrÃ¡t povzdechl, kdyÅ¾ uvidÄ›l, kolik je ve hÅ™e pÅ™edmÄ›tÅ¯.}
+{232}{}{PodÃ­vej se na pÃ¡nskÃ© toalety v prvnÃ­m patÅ™e v kasÃ­nu pana Mordina v New Renu.}
+{233}{}{Pokud aktivujeÅ¡ kÅ™Ã­Å¾ v GolgotÄ› oznaÄenÃ½ jako 'Odpadky', najdeÅ¡ tajnou skrÃ½Å¡.}
+{234}{}{AÅ¾ dokonÄÃ­Å¡ hru, jdi zpÄ›t do New Rena a promluv si s otcem Tullym.}
+{235}{}{VÃ­Å¡, Å¾e mÄ› mÅ¯Å¾eÅ¡ pouÅ¾Ã­t jako zbraÅˆ?}
+{236}{}{PÅ™estaÅˆ se mnou tak silnÄ› tÅ™epat!}
+{237}{}{TvÃ© Å TÄšSTÃ je velice vysokÃ©. ZatÅ™es se mnou a prozradÃ­m ti rÅ¯znÃ© tipy.}
+{238}{}{Ano, my VÃME, Å¾e Descent to Undermountain byl brak.}

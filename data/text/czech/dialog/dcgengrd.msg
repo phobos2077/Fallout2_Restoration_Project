@@ -1,12 +1,12 @@
-{100}{}{Vidíš strach nahánìjícího surovce.}
-{101}{}{Vidíš strá Denu.}
-{102}{}{Teï ne, jsem ve slubì.}
-{103}{}{Nemùu s tebou mluvit.}
-{104}{}{Odejdi, prosím.}
-{105}{}{Neobtìuj mì.}
-{106}{}{Prosím, obra se na mého šéfa.}
-{107}{}{Nemám oprávnìní odpovídat na tvoje otázky.}
-{108}{}{Pøestaò mì obtìovat.}
+{100}{}{VidÃ­Å¡ strach nahÃ¡nÄ›jÃ­cÃ­ho surovce.}
+{101}{}{VidÃ­Å¡ strÃ¡Å¾ Denu.}
+{102}{}{TeÄ ne, jsem ve sluÅ¾bÄ›.}
+{103}{}{NemÅ¯Å¾u s tebou mluvit.}
+{104}{}{Odejdi, prosÃ­m.}
+{105}{}{NeobtÄ›Å¾uj mÄ›.}
+{106}{}{ProsÃ­m, obraÅ¥ se na mÃ©ho Å¡Ã©fa.}
+{107}{}{NemÃ¡m oprÃ¡vnÄ›nÃ­ odpovÃ­dat na tvoje otÃ¡zky.}
+{108}{}{PÅ™estaÅˆ mÄ› obtÄ›Å¾ovat.}
 {109}{}{Jenom tu pracuju.}
-{110}{}{Nevím nic.}
-{111}{}{Mluvím jenom se svım šéfem.}
+{110}{}{NevÃ­m nic.}
+{111}{}{MluvÃ­m jenom se svÃ½m Å¡Ã©fem.}

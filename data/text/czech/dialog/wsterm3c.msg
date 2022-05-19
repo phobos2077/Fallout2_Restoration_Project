@@ -1,63 +1,63 @@
-{100}{}{Poèítaèovı terminál}
-{101}{}{Na boku má malinkatı štítek s nápisem I*tel Inside.}
-{102}{}{(Nedokáeš pøeèíst text na obrazovce.)}
-{103}{}{Ovládací terminál
-                                                       Projekt: Organické a Kybernetické Experimenty}
+{100}{}{PoÄÃ­taÄovÃ½ terminÃ¡l}
+{101}{}{Na boku mÃ¡ malinkatÃ½ Å¡tÃ­tek s nÃ¡pisem I*tel Inside.}
+{102}{}{(NedokÃ¡Å¾eÅ¡ pÅ™eÄÃ­st text na obrazovce.)}
+{103}{}{OvlÃ¡dacÃ­ terminÃ¡l
+                                                       Projekt: OrganickÃ© a KybernetickÃ© Experimenty}
 {104}{}{}
-{105}{}{Kontrola systémù.}
+{105}{}{Kontrola systÃ©mÅ¯.}
 {106}{}{Aktivovat robota.}
 {107}{}{Konec.}
 {108}{}{Eh?}
-{109}{}{(Nedokáeš pøeèíst text na obrazovce.)}
+{109}{}{(NedokÃ¡Å¾eÅ¡ pÅ™eÄÃ­st text na obrazovce.)}
 {110}{}{Konec programu.}
 {111}{}{Konec.}
 {112}{}{Eh...}
-{113}{}{Prosím èekejte...
+{113}{}{ProsÃ­m Äekejte...
                                                       Robot - OK
-                                  Bio-Med gel nádre - Plné
-                                         Organické pamìové centrum - Odezva OK
-                   Pøipraveno k aktivaci}
-{114}{}{Prosím èekejte...
+                                  Bio-Med gel nÃ¡drÅ¾e - PlnÃ©
+                                         OrganickÃ© pamÄ›Å¥ovÃ© centrum - Odezva OK
+                   PÅ™ipraveno k aktivaci}
+{114}{}{ProsÃ­m Äekejte...
                                                       Robot - OK
-                                  Bio-Med gel nádre - Plné
-                                        Organické pamìové centrum - Nepøítomné
-                   Aktivace se nedoporuèuje}
-{115}{}{Prosím èekejte...
-                                                      Robot - Nahraïte motivátor
-                                  Bio-Med gel nádre - OK
-                                        Organické pamìové centrum - Odezva OK
-                    Aktivace se nedoporuèuje!}
-{116}{}{Prosím èekejte...
-                                                      Robot - Nahraïte motivátor
-                                  Bio-Med gel nádre - Plné
-                                        Organické pamìové centrum - Nepøítomné
-                    Aktivace se nedoporuèuje}
-{117}{}{Prosím èekejte...
+                                  Bio-Med gel nÃ¡drÅ¾e - PlnÃ©
+                                        OrganickÃ© pamÄ›Å¥ovÃ© centrum - NepÅ™Ã­tomnÃ©
+                   Aktivace se nedoporuÄuje}
+{115}{}{ProsÃ­m Äekejte...
+                                                      Robot - NahraÄte motivÃ¡tor
+                                  Bio-Med gel nÃ¡drÅ¾e - OK
+                                        OrganickÃ© pamÄ›Å¥ovÃ© centrum - Odezva OK
+                    Aktivace se nedoporuÄuje!}
+{116}{}{ProsÃ­m Äekejte...
+                                                      Robot - NahraÄte motivÃ¡tor
+                                  Bio-Med gel nÃ¡drÅ¾e - PlnÃ©
+                                        OrganickÃ© pamÄ›Å¥ovÃ© centrum - NepÅ™Ã­tomnÃ©
+                    Aktivace se nedoporuÄuje}
+{117}{}{ProsÃ­m Äekejte...
                                                       Robot - OK
-                                  Bio-Med gel nádre - Doplnit
-                                       Organické pamìové centrum - Odezva OK
-                     Aktivace se nedoporuèuje}
-{118}{}{Prosím èekejte...
+                                  Bio-Med gel nÃ¡drÅ¾e - Doplnit
+                                       OrganickÃ© pamÄ›Å¥ovÃ© centrum - Odezva OK
+                     Aktivace se nedoporuÄuje}
+{118}{}{ProsÃ­m Äekejte...
                                                       Robot - OK
-                                  Bio-Med gel nádre - Doplnit
-                                       Organické pamìové centrum - Nepøítomné
-                     Aktivace se nedoporuèuje}
-{119}{}{Prosím èekejte...
-                                                      Robot - Nahraïte motivátor
-                                  Bio-Med gel nádre - Doplnit
-                                       Organické pamìové centrum - Odezva OK
-                     Aktivace se nedoporuèuje}
-{120}{}{Prosím èekejte...
-                                                      Robot - Nahraïte motivátor
-                                  Bio-Med gel nádre - Doplnit
-                                       Organické pamìové centrum - Nepøítomné
-                     Aktivace se nedoporuèuje}
+                                  Bio-Med gel nÃ¡drÅ¾e - Doplnit
+                                       OrganickÃ© pamÄ›Å¥ovÃ© centrum - NepÅ™Ã­tomnÃ©
+                     Aktivace se nedoporuÄuje}
+{119}{}{ProsÃ­m Äekejte...
+                                                      Robot - NahraÄte motivÃ¡tor
+                                  Bio-Med gel nÃ¡drÅ¾e - Doplnit
+                                       OrganickÃ© pamÄ›Å¥ovÃ© centrum - Odezva OK
+                     Aktivace se nedoporuÄuje}
+{120}{}{ProsÃ­m Äekejte...
+                                                      Robot - NahraÄte motivÃ¡tor
+                                  Bio-Med gel nÃ¡drÅ¾e - Doplnit
+                                       OrganickÃ© pamÄ›Å¥ovÃ© centrum - NepÅ™Ã­tomnÃ©
+                     Aktivace se nedoporuÄuje}
 {121}{}{}
 {122}{}{}
 {124}{}{}
-{153}{}{Zahájit startovací sekvenci.}
+{153}{}{ZahÃ¡jit startovacÃ­ sekvenci.}
 {154}{}{Konec.}
-{155}{}{Bezpeènostní opatøení ignorována:                             Jednotka uvedena v èinnost}
+{155}{}{BezpeÄnostnÃ­ opatÅ™enÃ­ ignorovÃ¡na:                             Jednotka uvedena v Äinnost}
 {156}{}{}
 {157}{}{}
 {158}{}{}
@@ -66,19 +66,19 @@
 {161}{}{}
 {162}{}{}
 {163}{}{}
-{164}{}{Zahajuji startovací sekvenci:}
-{165}{}{                                   Vıkon - nominální}
+{164}{}{Zahajuji startovacÃ­ sekvenci:}
+{165}{}{                                   VÃ½kon - nominÃ¡lnÃ­}
 {166}{}{                                              Synchronizace - 75%}
-{167}{}{                                             Jednotka provozuschopná}
+{167}{}{                                             Jednotka provozuschopnÃ¡}
 {170}{}{                                              Synchronizace - 50%}
 {174}{}{                                              Synchronizace - 10%}
 {176}{}{Konec.}
-{200}{}{ nedokáe pøeèíst text na monitoru.}
-{300}{}{Vypadá to, e je v poèítaèi nìjakı obrannı mechanismus.}
-{500}{}{Inicializace startovací sekvence:
-                                   Vıkon - nominální
-                                          Program pøerušen
+{200}{}{ nedokÃ¡Å¾e pÅ™eÄÃ­st text na monitoru.}
+{300}{}{VypadÃ¡ to, Å¾e je v poÄÃ­taÄi nÄ›jakÃ½ obrannÃ½ mechanismus.}
+{500}{}{Inicializace startovacÃ­ sekvence:
+                                   VÃ½kon - nominÃ¡lnÃ­
+                                          Program pÅ™eruÅ¡en
                                                Stahuji...
-                                                  Pokraèování programu
+                                                  PokraÄovÃ¡nÃ­ programu
                                                     Synchronizace - 100%
-                                                   Jednotka provozuschopná}
+                                                   Jednotka provozuschopnÃ¡}

@@ -1,59 +1,59 @@
-{100}{}{Vidíš malého ghoula.}
-{101}{}{Vidíš Percyho Crumpa, úspìšného ghoulího obchodníka.}
-{102}{}{Vidíš menšího a silnìjšího ghoula. Na ghoula je dost spoleèensky odìn.}
-{103}{}{U všech hromù, ani nevím, jak ti podìkovat za záchranu mıho pøítele. Musím ti za tu námahu nìco dát.}
-{104}{}{Rádo se stalo.}
+{100}{}{VidÃ­Å¡ malÃ©ho ghoula.}
+{101}{}{VidÃ­Å¡ Percyho Crumpa, ÃºspÄ›Å¡nÃ©ho ghoulÃ­ho obchodnÃ­ka.}
+{102}{}{VidÃ­Å¡ menÅ¡Ã­ho a silnÄ›jÅ¡Ã­ho ghoula. Na ghoula je dost spoleÄensky odÄ›n.}
+{103}{}{U vÅ¡ech hromÅ¯, ani nevÃ­m, jak ti podÄ›kovat za zÃ¡chranu mÃ½ho pÅ™Ã­tele. MusÃ­m ti za tu nÃ¡mahu nÄ›co dÃ¡t.}
+{104}{}{RÃ¡do se stalo.}
 {105}{}{A co za to dostanu?}
-{106}{}{No, doufám, e to bude stát za to. Stálo mì to hodnì námahy a hodnì cestování. A bylo to hodnì nebezpeèné. Mohl jsem se zranit.}
-{107}{}{Víš urèitì, e nechceš pomoct starımu Percymu s jeho problémem? Docela bych potøeboval píchnout.}
-{108}{}{Eh, dej mi chvíli na rozmyšlenou. Jen tak mimochodem, nemáš nìco na vımìnu?}
-{109}{}{Dobøe, tak mi o tom povìz ještì jednou.}
-{110}{}{Nevìdìl jsem, e mì tím budeš obtìovat vdycky, kdy sem pøijdu. Ach jo. Sbohem.}
-{111}{}{U se ti podaøilo najít Woodyho? Zaèínám si o nìj dìlat starosti. Nikdy pøedtím nebyl pryè tak dlouho.}
-{112}{}{Eh, ještì ne, ale poøád ho hledám. Poslyš, nemáš nìco na vımìnu?}
-{113}{}{Ne, zatím ne. Radìji pùjdu pryè a budu ho hledat.}
-{114}{}{Zdravím, já jsem Percy Crump, mistr obchodník v tıhle èásti svìta. Ale mùeš mi klidnì øíkat starej Percy. Ano, to klidnì mùeš. Vlastnì mi tak øíkaj všichni. Take co pro tebe mùu udìlat?}
-{115}{}{Co pro tebe mùe starej Percy udìlat?}
-{116}{}{Zajímalo by mì, co se dìje ve mìstì.}
-{117}{}{Zajímalo by mì, jestli nemáš nìco na vımìnu.}
-{118}{}{Eh, vlastnì nic. Jenom se tak dívám. Sbohem.}
-{119}{}{Mìnit vìci?}
-{120}{}{Jít? Já muset jít.}
-{121}{}{Rád bych ti pogratuloval k tomu, e náš reaktor u bìhá mnohem líp. Teï pøede jako koèka. Jo a mùj pøítel Woody je nezvìstnej.}
-{122}{}{Mìl bych ti podìkovat za opravu našeho atomovıho reaktoru. Ten blbec Festus byl vdycky k nièemu. Jo a mùj pøítel Woody je nezvìstnej.}
-{123}{}{Moc novıho tady není. Slyšel jsem, e Wooz obral nìjakıho nováèka v kartách o Black Dahliu. Hehehe. Jo a mùj pøítel Woody je nezvìstnej.}
-{124}{}{Øekni mi o tom víc.}
-{125}{}{Ach jo, taková škoda. Nenávidím smutné historky. Nechám tì radìji samotného i s tvım alem. Sbohem.}
-{126}{}{No jasnì e mám. Vlastnì tu mám hromadu vìcí za moc pìknou cenu.}
-{127}{}{Bude to všechno, nebo chceš ještì nìco?}
-{128}{}{Já chtít vìci.}
-{129}{}{Hmm. Uka mi, co máš.}
-{130}{}{Mùu se ještì jednou podívat na tvoje zboí?}
-{131}{}{To bude prozatím všechno. Díky, Percy. Nashle.}
-{132}{}{Oog. Já jít pryè.}
-{133}{}{Tahle velká stará bedna plná antiradiaèních medikamentù je mi u k nièemu. U víc jak sto let. Hehehe. Tady ji máš. Kadım rokem zjišuju, e pøátelé jsou cennìjší ne prachy. Díky... pøíteli.}
-{134}{}{Jsem rád, e jsem tobì a Woodymu mohl pomoct. Díky za ty medikamenty.}
-{135}{}{Paráda, lehkej úkol a hodnì vìcí. To se mi líbí.}
-{136}{}{Víš, mám kamaráda, kterej se jmenuje Woody. Tenhle Woody spí jako nikdo jinej. A co je ještì horší, miluje cestování. Fakt moc rád putuje pustinou.}
-{137}{}{Dobøe.}
-{138}{}{No, to by nebyl zas a takovej problém, kdyby se drel poblí Gecka, jene jsem slyšel, e se vydal na vılet a do Denu. Víš, kde je Den?}
-{139}{}{Jo. Vím, kde je Den. Pokraèuj.}
-{140}{}{Nevím, kde je Den.}
-{141}{}{No, to je fakt jednoduchı se tam dostat. Vyznaèím ti to do tı tvı mapovací vìcièky.}
-{142}{}{Hej, dávej na to bacha! Dobøe, pokraèuj.}
-{143}{}{No, nicménì, jak jsem øíkal... v okolí Gecka to není zas a takovej problém, ale víš, lidi v jinıch èástech nejsou zvyklí na to, jak vypadáme.}
-{144}{}{Coe?}
-{145}{}{Neumíš si dát dvì a dvì dohromady? Dìlám si starosti, e si dá Woody v Denu šlofíka... pøeci jen to je celkem dlouhej vılet... a mohli by toho chudáka pohøbít zaiva! Potøebuju nìkoho, aby se tam po nìm podíval.}
+{106}{}{No, doufÃ¡m, Å¾e to bude stÃ¡t za to. StÃ¡lo mÄ› to hodnÄ› nÃ¡mahy a hodnÄ› cestovÃ¡nÃ­. A bylo to hodnÄ› nebezpeÄnÃ©. Mohl jsem se zranit.}
+{107}{}{VÃ­Å¡ urÄitÄ›, Å¾e nechceÅ¡ pomoct starÃ½mu Percymu s jeho problÃ©mem? Docela bych potÅ™eboval pÃ­chnout.}
+{108}{}{Eh, dej mi chvÃ­li na rozmyÅ¡lenou. Jen tak mimochodem, nemÃ¡Å¡ nÄ›co na vÃ½mÄ›nu?}
+{109}{}{DobÅ™e, tak mi o tom povÄ›z jeÅ¡tÄ› jednou.}
+{110}{}{NevÄ›dÄ›l jsem, Å¾e mÄ› tÃ­m budeÅ¡ obtÄ›Å¾ovat vÅ¾dycky, kdyÅ¾ sem pÅ™ijdu. Ach jo. Sbohem.}
+{111}{}{UÅ¾ se ti podaÅ™ilo najÃ­t Woodyho? ZaÄÃ­nÃ¡m si o nÄ›j dÄ›lat starosti. Nikdy pÅ™edtÃ­m nebyl pryÄ tak dlouho.}
+{112}{}{Eh, jeÅ¡tÄ› ne, ale poÅ™Ã¡d ho hledÃ¡m. PoslyÅ¡, nemÃ¡Å¡ nÄ›co na vÃ½mÄ›nu?}
+{113}{}{Ne, zatÃ­m ne. RadÄ›ji pÅ¯jdu pryÄ a budu ho hledat.}
+{114}{}{ZdravÃ­m, jÃ¡ jsem Percy Crump, mistr obchodnÃ­k v tÃ½hle ÄÃ¡sti svÄ›ta. Ale mÅ¯Å¾eÅ¡ mi klidnÄ› Å™Ã­kat starej Percy. Ano, to klidnÄ› mÅ¯Å¾eÅ¡. VlastnÄ› mi tak Å™Ã­kaj vÅ¡ichni. TakÅ¾e co pro tebe mÅ¯Å¾u udÄ›lat?}
+{115}{}{Co pro tebe mÅ¯Å¾e starej Percy udÄ›lat?}
+{116}{}{ZajÃ­malo by mÄ›, co se dÄ›je ve mÄ›stÄ›.}
+{117}{}{ZajÃ­malo by mÄ›, jestli nemÃ¡Å¡ nÄ›co na vÃ½mÄ›nu.}
+{118}{}{Eh, vlastnÄ› nic. Jenom se tak dÃ­vÃ¡m. Sbohem.}
+{119}{}{MÄ›nit vÄ›ci?}
+{120}{}{JÃ­t? JÃ¡ muset jÃ­t.}
+{121}{}{RÃ¡d bych ti pogratuloval k tomu, Å¾e nÃ¡Å¡ reaktor uÅ¾ bÄ›hÃ¡ mnohem lÃ­p. TeÄ pÅ™ede jako koÄka. Jo a mÅ¯j pÅ™Ã­tel Woody je nezvÄ›stnej.}
+{122}{}{MÄ›l bych ti podÄ›kovat za opravu naÅ¡eho atomovÃ½ho reaktoru. Ten blbec Festus byl vÅ¾dycky k niÄemu. Jo a mÅ¯j pÅ™Ã­tel Woody je nezvÄ›stnej.}
+{123}{}{Moc novÃ½ho tady nenÃ­. SlyÅ¡el jsem, Å¾e Wooz obral nÄ›jakÃ½ho novÃ¡Äka v kartÃ¡ch o Black Dahliu. Hehehe. Jo a mÅ¯j pÅ™Ã­tel Woody je nezvÄ›stnej.}
+{124}{}{Å˜ekni mi o tom vÃ­c.}
+{125}{}{Ach jo, takovÃ¡ Å¡koda. NenÃ¡vidÃ­m smutnÃ© historky. NechÃ¡m tÄ› radÄ›ji samotnÃ©ho i s tvÃ½m Å¾alem. Sbohem.}
+{126}{}{No jasnÄ› Å¾e mÃ¡m. VlastnÄ› tu mÃ¡m hromadu vÄ›cÃ­ za moc pÄ›knou cenu.}
+{127}{}{Bude to vÅ¡echno, nebo chceÅ¡ jeÅ¡tÄ› nÄ›co?}
+{128}{}{JÃ¡ chtÃ­t vÄ›ci.}
+{129}{}{Hmm. UkaÅ¾ mi, co mÃ¡Å¡.}
+{130}{}{MÅ¯Å¾u se jeÅ¡tÄ› jednou podÃ­vat na tvoje zboÅ¾Ã­?}
+{131}{}{To bude prozatÃ­m vÅ¡echno. DÃ­ky, Percy. Nashle.}
+{132}{}{Oog. JÃ¡ jÃ­t pryÄ.}
+{133}{}{Tahle velkÃ¡ starÃ¡ bedna plnÃ¡ antiradiaÄnÃ­ch medikamentÅ¯ je mi uÅ¾ k niÄemu. UÅ¾ vÃ­c jak sto let. Hehehe. Tady ji mÃ¡Å¡. KaÅ¾dÃ½m rokem zjiÅ¡Å¥uju, Å¾e pÅ™Ã¡telÃ© jsou cennÄ›jÅ¡Ã­ neÅ¾ prachy. DÃ­ky... pÅ™Ã­teli.}
+{134}{}{Jsem rÃ¡d, Å¾e jsem tobÄ› a Woodymu mohl pomoct. DÃ­ky za ty medikamenty.}
+{135}{}{ParÃ¡da, lehkej Ãºkol a hodnÄ› vÄ›cÃ­. To se mi lÃ­bÃ­.}
+{136}{}{VÃ­Å¡, mÃ¡m kamarÃ¡da, kterej se jmenuje Woody. Tenhle Woody spÃ­ jako nikdo jinej. A co je jeÅ¡tÄ› horÅ¡Ã­, miluje cestovÃ¡nÃ­. Fakt moc rÃ¡d putuje pustinou.}
+{137}{}{DobÅ™e.}
+{138}{}{No, to by nebyl zas aÅ¾ takovej problÃ©m, kdyby se drÅ¾el poblÃ­Å¾ Gecka, jenÅ¾e jsem slyÅ¡el, Å¾e se vydal na vÃ½let aÅ¾ do Denu. VÃ­Å¡, kde je Den?}
+{139}{}{Jo. VÃ­m, kde je Den. PokraÄuj.}
+{140}{}{NevÃ­m, kde je Den.}
+{141}{}{No, to je fakt jednoduchÃ½ se tam dostat. VyznaÄÃ­m ti to do tÃ½ tvÃ½ mapovacÃ­ vÄ›ciÄky.}
+{142}{}{Hej, dÃ¡vej na to bacha! DobÅ™e, pokraÄuj.}
+{143}{}{No, nicmÃ©nÄ›, jak jsem Å™Ã­kal... v okolÃ­ Gecka to nenÃ­ zas aÅ¾ takovej problÃ©m, ale vÃ­Å¡, lidi v jinÃ½ch ÄÃ¡stech nejsou zvyklÃ­ na to, jak vypadÃ¡me.}
+{144}{}{CoÅ¾e?}
+{145}{}{NeumÃ­Å¡ si dÃ¡t dvÄ› a dvÄ› dohromady? DÄ›lÃ¡m si starosti, Å¾e si dÃ¡ Woody v Denu Å¡lofÃ­ka... pÅ™eci jen to je celkem dlouhej vÃ½let... a mohli by toho chudÃ¡ka pohÅ™bÃ­t zaÅ¾iva! PotÅ™ebuju nÄ›koho, aby se tam po nÄ›m podÃ­val.}
 {146}{}{A...?}
-{147}{}{Mnoo, hodnì mi chybí. Proto ho hledám. (Percy na tebe mrkne.) Jo aha, ty chceš vìdìt, co za to dostaneš, e jo?}
-{148}{}{To je obvykle ta èást, která mì hodnì zajímá. Pokraèuj.}
-{149}{}{Mnoo, dám ti za to hromadu pøedváleènejch zásob opravdovıho Rad-X a RadAwaye. Mnì u jsou k nièemu, ale pro hezouna, jako jsi ty, budou mít urèitì velkou cenu. Vezmeš ode mì tu prácièku nebo ne? Zaplatím ti jen kdy budu vìdìt, e je Woody v bezpeèí.}
-{150}{}{Kolik pøesnì znamená "hromada"?}
-{151}{}{Ano, udìlám to. Brzy se vrátím.}
-{152}{}{Ne, myslím, e ti teï nemùu pomoct.}
-{153}{}{Budu o tom pøemıšlet. Sbohem.}
-{154}{}{Je to zatracenì mnohem víc, ne budeš kdy potøebovat. Pøesnì tolik to je. Udìláš to teda?}
-{155}{}{Ano, udìlám to. Brzy se vrátím.}
-{156}{}{Ne, myslím, e ti teï nemùu pomoct.}
-{157}{}{Budu o tom pøemıšlet. Sbohem.}
-{158}{}{Dík za nalezení mıho kamaráda Woodyho. Co pro tebe mùe starej Percy udìlat?}
+{147}{}{Mnoo, hodnÄ› mi chybÃ­. Proto ho hledÃ¡m. (Percy na tebe mrkne.) Jo aha, ty chceÅ¡ vÄ›dÄ›t, co za to dostaneÅ¡, Å¾e jo?}
+{148}{}{To je obvykle ta ÄÃ¡st, kterÃ¡ mÄ› hodnÄ› zajÃ­mÃ¡. PokraÄuj.}
+{149}{}{Mnoo, dÃ¡m ti za to hromadu pÅ™edvÃ¡leÄnejch zÃ¡sob opravdovÃ½ho Rad-X a RadAwaye. MnÄ› uÅ¾ jsou k niÄemu, ale pro hezouna, jako jsi ty, budou mÃ­t urÄitÄ› velkou cenu. VezmeÅ¡ ode mÄ› tu prÃ¡ciÄku nebo ne? ZaplatÃ­m ti jen kdyÅ¾ budu vÄ›dÄ›t, Å¾e je Woody v bezpeÄÃ­.}
+{150}{}{Kolik pÅ™esnÄ› znamenÃ¡ "hromada"?}
+{151}{}{Ano, udÄ›lÃ¡m to. Brzy se vrÃ¡tÃ­m.}
+{152}{}{Ne, myslÃ­m, Å¾e ti teÄ nemÅ¯Å¾u pomoct.}
+{153}{}{Budu o tom pÅ™emÃ½Å¡let. Sbohem.}
+{154}{}{Je to zatracenÄ› mnohem vÃ­c, neÅ¾ budeÅ¡ kdy potÅ™ebovat. PÅ™esnÄ› tolik to je. UdÄ›lÃ¡Å¡ to teda?}
+{155}{}{Ano, udÄ›lÃ¡m to. Brzy se vrÃ¡tÃ­m.}
+{156}{}{Ne, myslÃ­m, Å¾e ti teÄ nemÅ¯Å¾u pomoct.}
+{157}{}{Budu o tom pÅ™emÃ½Å¡let. Sbohem.}
+{158}{}{DÃ­k za nalezenÃ­ mÃ½ho kamarÃ¡da Woodyho. Co pro tebe mÅ¯Å¾e starej Percy udÄ›lat?}

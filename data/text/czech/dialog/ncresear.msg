@@ -1,113 +1,113 @@
-{100}{}{Vidíš vedoucí vızkumnici Marjorie Reedovou.}
-{150}{}{Vidíš unavenì vypadající enu. Má oholenou hlavu a na sobì bílı pláš.}
-{151}{}{Vidíš Marojorie Reedovou. Plní injekèní støíkaèku a nìco si potichu mumlá.}
-{200}{}{Zdravím, Myrone.}
-{201}{}{Myrone, máte chvíli...?}
-{202}{}{Nemáte ponìtí, kdy koneènì dorazí ti noví otroci, Myrone?}
-{203}{}{Myrone, ty nové vısledky vypadají slibnì, velmi slibnì...}
-{204}{}{Myrone, máte minutku?}
+{100}{}{VidÃ­Å¡ vedoucÃ­ vÃ½zkumnici Marjorie Reedovou.}
+{150}{}{VidÃ­Å¡ unavenÄ› vypadajÃ­cÃ­ Å¾enu. MÃ¡ oholenou hlavu a na sobÄ› bÃ­lÃ½ plÃ¡Å¡Å¥.}
+{151}{}{VidÃ­Å¡ Marojorie Reedovou. PlnÃ­ injekÄnÃ­ stÅ™Ã­kaÄku a nÄ›co si potichu mumlÃ¡.}
+{200}{}{ZdravÃ­m, Myrone.}
+{201}{}{Myrone, mÃ¡te chvÃ­li...?}
+{202}{}{NemÃ¡te ponÄ›tÃ­, kdy koneÄnÄ› dorazÃ­ ti novÃ­ otroci, Myrone?}
+{203}{}{Myrone, ty novÃ© vÃ½sledky vypadajÃ­ slibnÄ›, velmi slibnÄ›...}
+{204}{}{Myrone, mÃ¡te minutku?}
 {215}{}{Kde je sakra ten Myron...}
-{216}{}{Pøiveïte mi Myrona. Tohle musí vidìt.}
-{217}{}{Ké by ti otroci aspoò na chvíli zavøeli hubu...}
-{218}{}{Kde jsem sakra nechala tu støíkaèku?}
-{219}{}{Nevidìl nìkdo subjekt è. 31? Ještì pøed chvílí tu byl.}
-{220}{}{Zvyšte dávky Beta Jetu na otrocích.}
-{221}{}{Vısledky testù Beta Jetu jsou velmi slibné, ale...}
-{222}{}{"Létání" vydrí patnáct minut a hodinu... take kdy budeme poèítat jednu dávku za hodinu... hmmmmnnn.}
-{223}{}{Subjekt è. 12 stále trpí krvácením z nosu... }
-{224}{}{To je popáté, co mìl subjekt è. 12 záchvat... zvyšte dávku. Uvidíme, co se stane...}
-{225}{}{No a JAKÉ halucinace mìl?}
-{226}{}{Zkontrolujte mu tep. Jestli je v tolerované mezi, zvyšte dávku.}
-{227}{}{Proè se ta otrokynì z kontrolní skupiny zabila? Vdy jsme na ní nic netestovali!}
-{228}{}{Zatracení stráe, dìlají jenom potíe...}
-{235}{}{Zdravím, pane Myrone. Testy probíhají podle plánu.}
-{236}{}{Pyne Myrone, ten novı druh Jetu zpùsobuje extrémní závislost. Otroci jsou témìø ochotni se kvùli nìmu navzájem pozabíjet.}
-{237}{}{Pane Myrone, urèitì vás potìší zpráva, e si otroci místo jídla radìji vezmou Jet. A tak je silnı.}
-{238}{}{Kdo jsou ti lidé s vámi, Myrone? Nové subjekty na testování?}
-{239}{}{Pane Myrone, tøetí testovací skupina si zatím vede nejlépe.}
-{240}{}{Pane Myrone, myslím, e by další skupina mìla obsahovat alespoò tøi dìti.}
-{241}{}{Pane Myrone, subjekt è. 46 mìl infarkt. Omezili jsme všechny dávky na šest dennì.}
-{242}{}{Pane Myrone, potøebujeme novou zásobu injekèních støíkaèek z Vault City. Nemùeme neustále pouívat jedny a ty samé.}
-{243}{}{Pane Myrone, nevíte, kdy koneènì dorazí další otroci?}
-{244}{}{Pane Myrone, pøesunuli jsme tøi otroky z kontrolní skupiny do testovací skupiny kvùli tìm respiraèním problémùm z minulého tıdne.}
-{245}{}{Pane Myrone, špatné zprávy. Museli jsme zastøelit jednoho otroka, kterı se pokusil utéct. Taková škoda.}
-{246}{}{Pane Myrone, ten novı halucinogen, kterı jste vyvinul, vypadá slibnì, ale nevzniká na nìj taková závislost jako na Jetu...}
-{250}{}{(Plešatá ena hledí do svého zápisníku.) Ano?}
+{216}{}{PÅ™iveÄte mi Myrona. Tohle musÃ­ vidÄ›t.}
+{217}{}{KÃ©Å¾ by ti otroci aspoÅˆ na chvÃ­li zavÅ™eli hubu...}
+{218}{}{Kde jsem sakra nechala tu stÅ™Ã­kaÄku?}
+{219}{}{NevidÄ›l nÄ›kdo subjekt Ä. 31? JeÅ¡tÄ› pÅ™ed chvÃ­lÃ­ tu byl.}
+{220}{}{ZvyÅ¡te dÃ¡vky Beta Jetu na otrocÃ­ch.}
+{221}{}{VÃ½sledky testÅ¯ Beta Jetu jsou velmi slibnÃ©, ale...}
+{222}{}{"LÃ©tÃ¡nÃ­" vydrÅ¾Ã­ patnÃ¡ct minut aÅ¾ hodinu... takÅ¾e kdyÅ¾ budeme poÄÃ­tat jednu dÃ¡vku za hodinu... hmmmmnnn.}
+{223}{}{Subjekt Ä. 12 stÃ¡le trpÃ­ krvÃ¡cenÃ­m z nosu... }
+{224}{}{To je popÃ¡tÃ©, co mÄ›l subjekt Ä. 12 zÃ¡chvat... zvyÅ¡te dÃ¡vku. UvidÃ­me, co se stane...}
+{225}{}{No a JAKÃ‰ halucinace mÄ›l?}
+{226}{}{Zkontrolujte mu tep. Jestli je v tolerovanÃ© mezi, zvyÅ¡te dÃ¡vku.}
+{227}{}{ProÄ se ta otrokynÄ› z kontrolnÃ­ skupiny zabila? VÅ¾dyÅ¥ jsme na nÃ­ nic netestovali!}
+{228}{}{ZatracenÃ­ strÃ¡Å¾e, dÄ›lajÃ­ jenom potÃ­Å¾e...}
+{235}{}{ZdravÃ­m, pane Myrone. Testy probÃ­hajÃ­ podle plÃ¡nu.}
+{236}{}{Pyne Myrone, ten novÃ½ druh Jetu zpÅ¯sobuje extrÃ©mnÃ­ zÃ¡vislost. Otroci jsou tÃ©mÄ›Å™ ochotni se kvÅ¯li nÄ›mu navzÃ¡jem pozabÃ­jet.}
+{237}{}{Pane Myrone, urÄitÄ› vÃ¡s potÄ›Å¡Ã­ zprÃ¡va, Å¾e si otroci mÃ­sto jÃ­dla radÄ›ji vezmou Jet. AÅ¾ tak je silnÃ½.}
+{238}{}{Kdo jsou ti lidÃ© s vÃ¡mi, Myrone? NovÃ© subjekty na testovÃ¡nÃ­?}
+{239}{}{Pane Myrone, tÅ™etÃ­ testovacÃ­ skupina si zatÃ­m vede nejlÃ©pe.}
+{240}{}{Pane Myrone, myslÃ­m, Å¾e by dalÅ¡Ã­ skupina mÄ›la obsahovat alespoÅˆ tÅ™i dÄ›ti.}
+{241}{}{Pane Myrone, subjekt Ä. 46 mÄ›l infarkt. Omezili jsme vÅ¡echny dÃ¡vky na Å¡est dennÄ›.}
+{242}{}{Pane Myrone, potÅ™ebujeme novou zÃ¡sobu injekÄnÃ­ch stÅ™Ã­kaÄek z Vault City. NemÅ¯Å¾eme neustÃ¡le pouÅ¾Ã­vat jedny a ty samÃ©.}
+{243}{}{Pane Myrone, nevÃ­te, kdy koneÄnÄ› dorazÃ­ dalÅ¡Ã­ otroci?}
+{244}{}{Pane Myrone, pÅ™esunuli jsme tÅ™i otroky z kontrolnÃ­ skupiny do testovacÃ­ skupiny kvÅ¯li tÄ›m respiraÄnÃ­m problÃ©mÅ¯m z minulÃ©ho tÃ½dne.}
+{245}{}{Pane Myrone, Å¡patnÃ© zprÃ¡vy. Museli jsme zastÅ™elit jednoho otroka, kterÃ½ se pokusil utÃ©ct. TakovÃ¡ Å¡koda.}
+{246}{}{Pane Myrone, ten novÃ½ halucinogen, kterÃ½ jste vyvinul, vypadÃ¡ slibnÄ›, ale nevznikÃ¡ na nÄ›j takovÃ¡ zÃ¡vislost jako na Jetu...}
+{250}{}{(PleÅ¡atÃ¡ Å¾ena hledÃ­ do svÃ©ho zÃ¡pisnÃ­ku.) Ano?}
 {251}{}{Ne!}
 {252}{}{Ano!}
-{253}{}{Hehe. Ty pleš. Ty vypadat jako chlap.}
+{253}{}{Hehe. Ty pleÅ¡. Ty vypadat jako chlap.}
 {254}{}{Delenn?}
 {255}{}{Odbelhat se.}
 {256}{}{Kdo jsi?}
-{257}{}{Promiòte, to bude asi omyl. Hledám jinou plešatou enu se zápisníkem. U pùjdu.}
-{265}{}{(ena pozvedne hlavu a zírá na tebe.) Vy jste jeden z testovacích subjektù? No, vdy je to vlastnì jedno... stráe! Zadrte toho otroka!}
-{266}{}{Kde otrok? Já nevidìt ádnı otrok.}
-{275}{}{Poslyšte, mám SPOUSTU práce, take pokud vám to nebude vadit... (Zvedne hlavu od svého zápisníku a zamraèí se.) KDO jste? Kdo vás sem pustil?}
-{276}{}{Poslyšte, mám SPOUSTU práce, take pokud vám to nebude vadit... (Zvedne hlavu od svého zápisníku a zamraèí se.) Zase vy? Co chcete tentokrát?}
-{277}{}{Máte otevøené vrata dokoøán. Hehe... chápete?}
-{278}{}{Jsem novı zamìstnanec.}
-{279}{}{Hledám Myrona. Nevíte, kde ho najdu?}
-{280}{}{To jsou vısledky testù? Mùu je vidìt?}
-{282}{}{Zapomeò na to. Omlouvám se za obtìování.}
-{295}{}{Toto zaøízení není pro... návštìvníky. Odejdìte, nebo zavolám stráe.}
-{296}{}{Poèkejte, mám nìjaké otázky...}
-{298}{}{To jsou vısledky testù? Mùu je vidìt? Jsem novı pracovník.}
-{300}{}{Tak dobøe. Promiòte, e obtìuju.}
-{310}{}{Stráe! Stráe! Zadrte tu osobu!}
-{315}{}{DALŠÍ strá? Ha! Jako by vùbec k nìèemu byli... poslyšte, urèitì MÁTE instrukce od toho, kdo vás sem poslal. Promluvte si s ostatními stráemi a neobtìujte pracující lidi. A teï jdìte.}
-{316}{}{Já nejsem strá, jsem novı vìdec. Máte pro mì práci?}
-{317}{}{Promiòte, ale doufal jsem, e mì to tu ukáete VY. Vidìl jsem vás tady tak postávat a nìco mi poøád ØÍKALO, a si s vámi promluvím. A moná bysme se po té prohlídce mohli stavit na veèeøi...}
-{318}{}{Díky. Moc jste mi pomohla.}
-{325}{}{Vy jste VÌDEC...? Hmmmm, ještì jsem vás tu nikdy nevidìla. Kolik toho víte o farmaceutickém vızkumu?}
-{326}{}{Eh, docela dost. Pohodlnì se usaïte a já vám to všechno povím.}
-{327}{}{Vím toho docela dost o sloení a vırobì základních neurochemickıch slouèenin a myslím, e moje schopnosti se tady urèitì uplatní.}
-{328}{}{U musím jít.}
-{335}{}{Ha! Myslím, e bude lepší, kdy odejdete, nebo zavolám stráe.}
-{336}{}{Tak dobøe.}
-{337}{}{U jdu... ::mumlat:: ...ty plešatá dìvko.}
-{345}{}{Hmmmm. Dobøe. Take k naší práci: testujeme úèinky a sílu metamfetaminu zvaného Jet.}
-{346}{}{Rozumím. A jak jde vızkum?}
-{347}{}{Aha, rozumím. Myslím, e si pùjdu prohlídnout zbytek laboratoøí bez vás.}
-{355}{}{Moc dobøe ne. Náš èasovı plán je dost napjatı a naším úkolem je co nejdøíve vylepšit a zkvalitnit vırobu Jetu.}
-{356}{}{Proè? Jet mi pøipadá u dostateènì návykovı.}
-{357}{}{Proè máte tak napjatı èasovı plán?}
-{358}{}{To vypadá na tìkou práci. Poslyšte, musím si nìco zaøídit, ale ještì se vrátím.}
-{365}{}{Nikdo to sice pøímo neøekl, ale je to nejspíše kvùli distribuci Jetu do Reddingu. Jet je *dost* silnı, ale ještì je stále co zlepšovat a 'vedení' chce zvıšit závislost na Jetu v Reddingu.}
-{366}{}{Proè zrovna v Reddingu?}
-{367}{}{No, tak hodnì štìstí, a to stihnete vèas.}
-{375}{}{Je *dost* silnı, ale ještì je stále co zlepšovat. 'Velení' chce zvıšit distribuci Jetu do Reddingu, aby dosáhli pokud mono stoprocentní závislosti. A to nám zabere spoustu èasu.}
-{377}{}{Díky za informace. Ještì se vrátím.}
-{385}{}{Aby byli horníci v Reddingu závislí na Jetu. Kdo ovládá Jet, ovládá i Redding. Typická mocenská partie.}
-{386}{}{Take... kdo ovládá drogy?}
-{395}{}{Kdo ovládá drogy? Mordinové. Myron toti vytvoøil základ Jetu a zpùsob jeho vıroby. My ho u jen uhlazujeme a vylepšujeme.}
-{396}{}{Myron je váš šéf?}
-{405}{}{DALO by se to tak øíct. Je chytrı, to uznávám, ale kašle na to, co se dìje tady nahoøe. Vìtšinou je dole v podzemních prostorách. Nikdo k nìmu nesmí... kromì zástupu prostitutek. Typickı vedoucí projektu.}
-{406}{}{Mùu se s ním setkat?}
-{407}{}{Jo, i kdy v marketingu to bıvá ještì horší. Díky za informace. Ještì se vrátím.}
-{415}{}{Moná... dám vám doèasnou ID kartu. Staèí ji ukázat stráím. Ale pospìšte si, Myron nemá rád, kdy ho lidé dlouho otravují.}
-{416}{}{Moná... dám vám doèasnou ID kartu. Staèí ji ukázat stráím. Ale pospìšte si, Myron nemá rád, kdy ho lidé dlouho otravují... i kdy ve vašem pøípadì moná udìlá vıjimku.}
-{417}{}{Díky za kartu. Uvidíme se pozdìji.}
-{425}{}{Poslyšte, jsem opravdu VELMI zamìstnaná, take pokud vám to nebude vadit...}
-{426}{}{Poslyšte, já... jsem, eh, velmi zamìstnaná, take kdy mì omluvíte...}
+{257}{}{PromiÅˆte, to bude asi omyl. HledÃ¡m jinou pleÅ¡atou Å¾enu se zÃ¡pisnÃ­kem. UÅ¾ pÅ¯jdu.}
+{265}{}{(Å½ena pozvedne hlavu a zÃ­rÃ¡ na tebe.) Vy jste jeden z testovacÃ­ch subjektÅ¯? No, vÅ¾dyÅ¥ je to vlastnÄ› jedno... strÃ¡Å¾e! ZadrÅ¾te toho otroka!}
+{266}{}{Kde otrok? JÃ¡ nevidÄ›t Å¾Ã¡dnÃ½ otrok.}
+{275}{}{PoslyÅ¡te, mÃ¡m SPOUSTU prÃ¡ce, takÅ¾e pokud vÃ¡m to nebude vadit... (Zvedne hlavu od svÃ©ho zÃ¡pisnÃ­ku a zamraÄÃ­ se.) KDO jste? Kdo vÃ¡s sem pustil?}
+{276}{}{PoslyÅ¡te, mÃ¡m SPOUSTU prÃ¡ce, takÅ¾e pokud vÃ¡m to nebude vadit... (Zvedne hlavu od svÃ©ho zÃ¡pisnÃ­ku a zamraÄÃ­ se.) Zase vy? Co chcete tentokrÃ¡t?}
+{277}{}{MÃ¡te otevÅ™enÃ© vrata dokoÅ™Ã¡n. Hehe... chÃ¡pete?}
+{278}{}{Jsem novÃ½ zamÄ›stnanec.}
+{279}{}{HledÃ¡m Myrona. NevÃ­te, kde ho najdu?}
+{280}{}{To jsou vÃ½sledky testÅ¯? MÅ¯Å¾u je vidÄ›t?}
+{282}{}{ZapomeÅˆ na to. OmlouvÃ¡m se za obtÄ›Å¾ovÃ¡nÃ­.}
+{295}{}{Toto zaÅ™Ã­zenÃ­ nenÃ­ pro... nÃ¡vÅ¡tÄ›vnÃ­ky. OdejdÄ›te, nebo zavolÃ¡m strÃ¡Å¾e.}
+{296}{}{PoÄkejte, mÃ¡m nÄ›jakÃ© otÃ¡zky...}
+{298}{}{To jsou vÃ½sledky testÅ¯? MÅ¯Å¾u je vidÄ›t? Jsem novÃ½ pracovnÃ­k.}
+{300}{}{Tak dobÅ™e. PromiÅˆte, Å¾e obtÄ›Å¾uju.}
+{310}{}{StrÃ¡Å¾e! StrÃ¡Å¾e! ZadrÅ¾te tu osobu!}
+{315}{}{DALÅ Ã strÃ¡Å¾? Ha! Jako by vÅ¯bec k nÄ›Äemu byli... poslyÅ¡te, urÄitÄ› MÃTE instrukce od toho, kdo vÃ¡s sem poslal. Promluvte si s ostatnÃ­mi strÃ¡Å¾emi a neobtÄ›Å¾ujte pracujÃ­cÃ­ lidi. A teÄ jdÄ›te.}
+{316}{}{JÃ¡ nejsem strÃ¡Å¾, jsem novÃ½ vÄ›dec. MÃ¡te pro mÄ› prÃ¡ci?}
+{317}{}{PromiÅˆte, ale doufal jsem, Å¾e mÄ› to tu ukÃ¡Å¾ete VY. VidÄ›l jsem vÃ¡s tady tak postÃ¡vat a nÄ›co mi poÅ™Ã¡d Å˜ÃKALO, aÅ¥ si s vÃ¡mi promluvÃ­m. A moÅ¾nÃ¡ bysme se po tÃ© prohlÃ­dce mohli stavit na veÄeÅ™i...}
+{318}{}{DÃ­ky. Moc jste mi pomohla.}
+{325}{}{Vy jste VÄšDEC...? Hmmmm, jeÅ¡tÄ› jsem vÃ¡s tu nikdy nevidÄ›la. Kolik toho vÃ­te o farmaceutickÃ©m vÃ½zkumu?}
+{326}{}{Eh, docela dost. PohodlnÄ› se usaÄte a jÃ¡ vÃ¡m to vÅ¡echno povÃ­m.}
+{327}{}{VÃ­m toho docela dost o sloÅ¾enÃ­ a vÃ½robÄ› zÃ¡kladnÃ­ch neurochemickÃ½ch slouÄenin a myslÃ­m, Å¾e moje schopnosti se tady urÄitÄ› uplatnÃ­.}
+{328}{}{UÅ¾ musÃ­m jÃ­t.}
+{335}{}{Ha! MyslÃ­m, Å¾e bude lepÅ¡Ã­, kdyÅ¾ odejdete, nebo zavolÃ¡m strÃ¡Å¾e.}
+{336}{}{Tak dobÅ™e.}
+{337}{}{UÅ¾ jdu... ::mumlat:: ...ty pleÅ¡atÃ¡ dÄ›vko.}
+{345}{}{Hmmmm. DobÅ™e. TakÅ¾e k naÅ¡Ã­ prÃ¡ci: testujeme ÃºÄinky a sÃ­lu metamfetaminu zvanÃ©ho Jet.}
+{346}{}{RozumÃ­m. A jak jde vÃ½zkum?}
+{347}{}{Aha, rozumÃ­m. MyslÃ­m, Å¾e si pÅ¯jdu prohlÃ­dnout zbytek laboratoÅ™Ã­ bez vÃ¡s.}
+{355}{}{Moc dobÅ™e ne. NÃ¡Å¡ ÄasovÃ½ plÃ¡n je dost napjatÃ½ a naÅ¡Ã­m Ãºkolem je co nejdÅ™Ã­ve vylepÅ¡it a zkvalitnit vÃ½robu Jetu.}
+{356}{}{ProÄ? Jet mi pÅ™ipadÃ¡ uÅ¾ dostateÄnÄ› nÃ¡vykovÃ½.}
+{357}{}{ProÄ mÃ¡te tak napjatÃ½ ÄasovÃ½ plÃ¡n?}
+{358}{}{To vypadÃ¡ na tÄ›Å¾kou prÃ¡ci. PoslyÅ¡te, musÃ­m si nÄ›co zaÅ™Ã­dit, ale jeÅ¡tÄ› se vrÃ¡tÃ­m.}
+{365}{}{Nikdo to sice pÅ™Ã­mo neÅ™ekl, ale je to nejspÃ­Å¡e kvÅ¯li distribuci Jetu do Reddingu. Jet je *dost* silnÃ½, ale jeÅ¡tÄ› je stÃ¡le co zlepÅ¡ovat a 'vedenÃ­' chce zvÃ½Å¡it zÃ¡vislost na Jetu v Reddingu.}
+{366}{}{ProÄ zrovna v Reddingu?}
+{367}{}{No, tak hodnÄ› Å¡tÄ›stÃ­, aÅ¥ to stihnete vÄas.}
+{375}{}{Je *dost* silnÃ½, ale jeÅ¡tÄ› je stÃ¡le co zlepÅ¡ovat. 'VelenÃ­' chce zvÃ½Å¡it distribuci Jetu do Reddingu, aby dosÃ¡hli pokud moÅ¾no stoprocentnÃ­ zÃ¡vislosti. A to nÃ¡m zabere spoustu Äasu.}
+{377}{}{DÃ­ky za informace. JeÅ¡tÄ› se vrÃ¡tÃ­m.}
+{385}{}{Aby byli hornÃ­ci v Reddingu zÃ¡vislÃ­ na Jetu. Kdo ovlÃ¡dÃ¡ Jet, ovlÃ¡dÃ¡ i Redding. TypickÃ¡ mocenskÃ¡ partie.}
+{386}{}{TakÅ¾e... kdo ovlÃ¡dÃ¡ drogy?}
+{395}{}{Kdo ovlÃ¡dÃ¡ drogy? MordinovÃ©. Myron totiÅ¾ vytvoÅ™il zÃ¡klad Jetu a zpÅ¯sob jeho vÃ½roby. My ho uÅ¾ jen uhlazujeme a vylepÅ¡ujeme.}
+{396}{}{Myron je vÃ¡Å¡ Å¡Ã©f?}
+{405}{}{DALO by se to tak Å™Ã­ct. Je chytrÃ½, to uznÃ¡vÃ¡m, ale kaÅ¡le na to, co se dÄ›je tady nahoÅ™e. VÄ›tÅ¡inou je dole v podzemnÃ­ch prostorÃ¡ch. Nikdo k nÄ›mu nesmÃ­... kromÄ› zÃ¡stupu prostitutek. TypickÃ½ vedoucÃ­ projektu.}
+{406}{}{MÅ¯Å¾u se s nÃ­m setkat?}
+{407}{}{Jo, i kdyÅ¾ v marketingu to bÃ½vÃ¡ jeÅ¡tÄ› horÅ¡Ã­. DÃ­ky za informace. JeÅ¡tÄ› se vrÃ¡tÃ­m.}
+{415}{}{MoÅ¾nÃ¡... dÃ¡m vÃ¡m doÄasnou ID kartu. StaÄÃ­ ji ukÃ¡zat strÃ¡Å¾Ã­m. Ale pospÄ›Å¡te si, Myron nemÃ¡ rÃ¡d, kdyÅ¾ ho lidÃ© dlouho otravujÃ­.}
+{416}{}{MoÅ¾nÃ¡... dÃ¡m vÃ¡m doÄasnou ID kartu. StaÄÃ­ ji ukÃ¡zat strÃ¡Å¾Ã­m. Ale pospÄ›Å¡te si, Myron nemÃ¡ rÃ¡d, kdyÅ¾ ho lidÃ© dlouho otravujÃ­... i kdyÅ¾ ve vaÅ¡em pÅ™Ã­padÄ› moÅ¾nÃ¡ udÄ›lÃ¡ vÃ½jimku.}
+{417}{}{DÃ­ky za kartu. UvidÃ­me se pozdÄ›ji.}
+{425}{}{PoslyÅ¡te, jsem opravdu VELMI zamÄ›stnanÃ¡, takÅ¾e pokud vÃ¡m to nebude vadit...}
+{426}{}{PoslyÅ¡te, jÃ¡... jsem, eh, velmi zamÄ›stnanÃ¡, takÅ¾e kdyÅ¾ mÄ› omluvÃ­te...}
 {427}{}{Tak nic...}
-{428}{}{Stejnì díky.}
-{429}{}{Stejnì díky... ::mumlat:: ...ty arogantní plešatá dìvko.}
-{435}{}{To je... hmm... jsem VELMI polichocena, ale mám teï spoustu práce... take... eh...}
-{436}{}{Take vám nebude vadit, kdy vás vyzvednu po práci? O nic nejde... jenom veèeøe a trochu rozumné konverzace. Vypadáte jako nìkdo, kdo by si potøeboval trochu odpoèinout od práce. Musíte mít opravdu tìkou práci.}
-{437}{}{No, za zeptání nic nedám. Stejnì díky.}
-{445}{}{No, TOLIK práce zase nemám... hehe... chci øíct, vlastnì mám. Asi takhle, vìtšinou jde jen o rutinní testy drog... i kdy obèas nìjakı otrok spáchá sebevradu...}
-{446}{}{Co øíká na vstøikování experimentálních metamfetaminù do zotroèenıch lidí váš smysl pro humanitu?}
-{447}{}{Páni. To zní nebezpeènì. Nezranila jste se pøi tom nìkdy? Máte hodnì úmrtí mezi pacienty?}
-{448}{}{Testování drog? Opravdu? Jak to jde?}
-{449}{}{To zní zajímavì, ale u musím jít... eh, ještì se vrátím.}
-{455}{}{To mìl bıt nìjakı pokus o vtip?}
-{456}{}{Jen se ptám. Chci øíct, co byste øekla na to, kdybyste byla prodána do otroctví, odvezena na tohle místo a napumpována drogami?}
-{457}{}{Eh, jo. U musím bìet.}
-{465}{}{Já jsem na TÉHLE stranì a oni jsou na té DRUHÉ. A kdy u probíráme takovéto hypotézy, nechcete si vyzkoušet, jaké to je bıt na jejich stranì? Máme dost volnıch míst.}
+{428}{}{StejnÄ› dÃ­ky.}
+{429}{}{StejnÄ› dÃ­ky... ::mumlat:: ...ty arogantnÃ­ pleÅ¡atÃ¡ dÄ›vko.}
+{435}{}{To je... hmm... jsem VELMI polichocena, ale mÃ¡m teÄ spoustu prÃ¡ce... takÅ¾e... eh...}
+{436}{}{TakÅ¾e vÃ¡m nebude vadit, kdyÅ¾ vÃ¡s vyzvednu po prÃ¡ci? O nic nejde... jenom veÄeÅ™e a trochu rozumnÃ© konverzace. VypadÃ¡te jako nÄ›kdo, kdo by si potÅ™eboval trochu odpoÄinout od prÃ¡ce. MusÃ­te mÃ­t opravdu tÄ›Å¾kou prÃ¡ci.}
+{437}{}{No, za zeptÃ¡nÃ­ nic nedÃ¡m. StejnÄ› dÃ­ky.}
+{445}{}{No, TOLIK prÃ¡ce zase nemÃ¡m... hehe... chci Å™Ã­ct, vlastnÄ› mÃ¡m. Asi takhle, vÄ›tÅ¡inou jde jen o rutinnÃ­ testy drog... i kdyÅ¾ obÄas nÄ›jakÃ½ otrok spÃ¡chÃ¡ sebevraÅ¾du...}
+{446}{}{Co Å™Ã­kÃ¡ na vstÅ™ikovÃ¡nÃ­ experimentÃ¡lnÃ­ch metamfetaminÅ¯ do zotroÄenÃ½ch lidÃ­ vÃ¡Å¡ smysl pro humanitu?}
+{447}{}{PÃ¡ni. To znÃ­ nebezpeÄnÄ›. Nezranila jste se pÅ™i tom nÄ›kdy? MÃ¡te hodnÄ› ÃºmrtÃ­ mezi pacienty?}
+{448}{}{TestovÃ¡nÃ­ drog? Opravdu? Jak to jde?}
+{449}{}{To znÃ­ zajÃ­mavÄ›, ale uÅ¾ musÃ­m jÃ­t... eh, jeÅ¡tÄ› se vrÃ¡tÃ­m.}
+{455}{}{To mÄ›l bÃ½t nÄ›jakÃ½ pokus o vtip?}
+{456}{}{Jen se ptÃ¡m. Chci Å™Ã­ct, co byste Å™ekla na to, kdybyste byla prodÃ¡na do otroctvÃ­, odvezena na tohle mÃ­sto a napumpovÃ¡na drogami?}
+{457}{}{Eh, jo. UÅ¾ musÃ­m bÄ›Å¾et.}
+{465}{}{JÃ¡ jsem na TÃ‰HLE stranÄ› a oni jsou na tÃ© DRUHÃ‰. A kdyÅ¾ uÅ¾ probÃ­rÃ¡me takovÃ©to hypotÃ©zy, nechcete si vyzkouÅ¡et, jakÃ© to je bÃ½t na jejich stranÄ›? MÃ¡me dost volnÃ½ch mÃ­st.}
 {466}{}{Tak moment...}
-{467}{}{Eh, ne, díky. Promiòte, e obtìuju.}
-{475}{}{Úmrtí? Pár jich bylo. Vìtšinou šlo o neúmyslné pøedávkování. Vìtšinou vina laboranta. Nebo sebepoškození. Nìkteøí do sebe dostanou pøíliš mnoho Jetu a pak chtìjí lítat DOOPRAVDY.}
-{476}{}{A jak jde jinak testování drogy?}
-{477}{}{Aha. No, díky za informace. Moc jste mi pomohla.}
-{485}{}{Zkuste to dole v laboratoøi. Ty hlídané dveøe. A jestli se s ním uvidíte, vyøiïte mu, aby se tu brzy zastavil. POKUD nebude mít moc práce.}
-{1000}{}{Získáváš doèasnou propustku od Marjorie.}
+{467}{}{Eh, ne, dÃ­ky. PromiÅˆte, Å¾e obtÄ›Å¾uju.}
+{475}{}{ÃšmrtÃ­? PÃ¡r jich bylo. VÄ›tÅ¡inou Å¡lo o neÃºmyslnÃ© pÅ™edÃ¡vkovÃ¡nÃ­. VÄ›tÅ¡inou vina laboranta. Nebo sebepoÅ¡kozenÃ­. NÄ›kteÅ™Ã­ do sebe dostanou pÅ™Ã­liÅ¡ mnoho Jetu a pak chtÄ›jÃ­ lÃ­tat DOOPRAVDY.}
+{476}{}{A jak jde jinak testovÃ¡nÃ­ drogy?}
+{477}{}{Aha. No, dÃ­ky za informace. Moc jste mi pomohla.}
+{485}{}{Zkuste to dole v laboratoÅ™i. Ty hlÃ­danÃ© dveÅ™e. A jestli se s nÃ­m uvidÃ­te, vyÅ™iÄte mu, aby se tu brzy zastavil. POKUD nebude mÃ­t moc prÃ¡ce.}
+{1000}{}{ZÃ­skÃ¡vÃ¡Å¡ doÄasnou propustku od Marjorie.}

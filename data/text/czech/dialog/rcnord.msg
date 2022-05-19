@@ -1,24 +1,24 @@
-{100}{}{Vidíš baculatého úøedníka.}
-{101}{}{Vidíš úøedníka Nordinga.}
-{102}{}{Vidíš nervózního, baculatého mue s malou pleškou na temeni.}
-{103}{}{Za opuštìní karavany nic nedostaneš.}
-{104}{}{Eh, z karavany se ztratily nìjaké vìci. Dle zákonù NCR nemùu zaplatit zlodìji. Je mi líto.}
-{105}{}{Zlodìj? Tu poznámku si budu pamatovat, ty zatracenej nevdìèníku! Odcházím. Sbohem.}
-{106}{}{To tì bude jednou mrzet. Sbohem.}
-{107}{}{Nemùu ti zaplatit za takovou katastrofální jízdu. Nic ode mì nedostaneš.}
-{108}{}{Ty jeden proradnej bastarde! To tì bude jednou mrzet. Sbohem.}
-{109}{}{No, nìkdy holt štìstí nepøeje. Jako tøeba v tomhle pøípadì. Sbohem.}
-{110}{}{Tohle nebyla moc vıdìleèná jízda. Nemùu ti dát víc ne $50.}
-{111}{}{No, lepší nìco ne nic. Sbohem.}
-{112}{}{Ty jeden proradnej bastarde! Nikdo by neudìlal lepší práci ne já. To tì bude jednou mrzet. Sbohem.}
-{113}{}{To nebylo tak špatné. Tady máš $100. Bude chvíli trvat, ne seeneme nového správce karavany, take nevím, kdy zase pøíštì vyrazíme.}
-{114}{}{U nikdy nechci strávit tolik èasu pozorováním brahmíních zadkù. Sbohem.}
-{115}{}{To nebylo tak špatné. Uvidíme se pozdìji. Sbohem.}
-{116}{}{To byla dobrá jízda, a na tu ztrátu Stanwella. Jó, ivot není med. Tady máš $100 a $50 navíc ze Stanwellova podílu.}
-{117}{}{Koneènì potkávám nìkoho, kdo je schopen ocenit moji práci. Uvidíme se pozdìji... moná. Sbohem.}
-{118}{}{Nikdy nepohrdnu penìzi navíc. Díky a sbohem.}
-{119}{}{Kdybys byl v NCR, u dávno bys byl za møíemi a u nikdy bys nespatøil denní svìtlo. Aspoò jsme ti umonili cestovat bezpeènìji. Sbohem.}
+{100}{}{VidÃ­Å¡ baculatÃ©ho ÃºÅ™ednÃ­ka.}
+{101}{}{VidÃ­Å¡ ÃºÅ™ednÃ­ka Nordinga.}
+{102}{}{VidÃ­Å¡ nervÃ³znÃ­ho, baculatÃ©ho muÅ¾e s malou pleÅ¡kou na temeni.}
+{103}{}{Za opuÅ¡tÄ›nÃ­ karavany nic nedostaneÅ¡.}
+{104}{}{Eh, z karavany se ztratily nÄ›jakÃ© vÄ›ci. Dle zÃ¡konÅ¯ NCR nemÅ¯Å¾u zaplatit zlodÄ›ji. Je mi lÃ­to.}
+{105}{}{ZlodÄ›j? Tu poznÃ¡mku si budu pamatovat, ty zatracenej nevdÄ›ÄnÃ­ku! OdchÃ¡zÃ­m. Sbohem.}
+{106}{}{To tÄ› bude jednou mrzet. Sbohem.}
+{107}{}{NemÅ¯Å¾u ti zaplatit za takovou katastrofÃ¡lnÃ­ jÃ­zdu. Nic ode mÄ› nedostaneÅ¡.}
+{108}{}{Ty jeden proradnej bastarde! To tÄ› bude jednou mrzet. Sbohem.}
+{109}{}{No, nÄ›kdy holt Å¡tÄ›stÃ­ nepÅ™eje. Jako tÅ™eba v tomhle pÅ™Ã­padÄ›. Sbohem.}
+{110}{}{Tohle nebyla moc vÃ½dÄ›leÄnÃ¡ jÃ­zda. NemÅ¯Å¾u ti dÃ¡t vÃ­c neÅ¾ $50.}
+{111}{}{No, lepÅ¡Ã­ nÄ›co neÅ¾ nic. Sbohem.}
+{112}{}{Ty jeden proradnej bastarde! Nikdo by neudÄ›lal lepÅ¡Ã­ prÃ¡ci neÅ¾ jÃ¡. To tÄ› bude jednou mrzet. Sbohem.}
+{113}{}{To nebylo tak Å¡patnÃ©. Tady mÃ¡Å¡ $100. Bude chvÃ­li trvat, neÅ¾ seÅ¾eneme novÃ©ho sprÃ¡vce karavany, takÅ¾e nevÃ­m, kdy zase pÅ™Ã­Å¡tÄ› vyrazÃ­me.}
+{114}{}{UÅ¾ nikdy nechci strÃ¡vit tolik Äasu pozorovÃ¡nÃ­m brahmÃ­nÃ­ch zadkÅ¯. Sbohem.}
+{115}{}{To nebylo tak Å¡patnÃ©. UvidÃ­me se pozdÄ›ji. Sbohem.}
+{116}{}{To byla dobrÃ¡ jÃ­zda, aÅ¾ na tu ztrÃ¡tu Stanwella. JÃ³, Å¾ivot nenÃ­ med. Tady mÃ¡Å¡ $100 a $50 navÃ­c ze Stanwellova podÃ­lu.}
+{117}{}{KoneÄnÄ› potkÃ¡vÃ¡m nÄ›koho, kdo je schopen ocenit moji prÃ¡ci. UvidÃ­me se pozdÄ›ji... moÅ¾nÃ¡. Sbohem.}
+{118}{}{Nikdy nepohrdnu penÄ›zi navÃ­c. DÃ­ky a sbohem.}
+{119}{}{Kdybys byl v NCR, uÅ¾ dÃ¡vno bys byl za mÅ™Ã­Å¾emi a uÅ¾ nikdy bys nespatÅ™il dennÃ­ svÄ›tlo. AspoÅˆ jsme ti umoÅ¾nili cestovat bezpeÄnÄ›ji. Sbohem.}
 {120}{}{Ook?}
-{121}{}{Škoda, e Stanwell zemøel. Jmenuju se Nording a zaplatím ti to, co ti dluíme.}
-{122}{}{Eh, díky.}
-{123}{}{Škoda, e Stanwell zemøel.}
+{121}{}{Å koda, Å¾e Stanwell zemÅ™el. Jmenuju se Nording a zaplatÃ­m ti to, co ti dluÅ¾Ã­me.}
+{122}{}{Eh, dÃ­ky.}
+{123}{}{Å koda, Å¾e Stanwell zemÅ™el.}

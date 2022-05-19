@@ -1,22 +1,22 @@
-{100}{}{Vidíš špinavého, nemocnì vypadajícího èlovìka.}
-{101}{}{Vidíš bezdomovce.}
-{102}{}{Vidíš špinavého, nemocnì vypadajícího èlovìka.}
-{103}{}{Tohle je jeden z nejlepších bejvákù za poslední roky!}
-{104}{}{Ááá... moøskej vzduch!}
-{105}{}{To je ivot, co? ádní šéfové, ádná vláda... jen èistej moøskej vzdoušek.}
-{106}{}{Támhle v moøi je auto. Škoda, e je zrezivìlı.}
-{107}{}{Vsadím se, e dìti to tady milujou.}
-{108}{}{Máme èerstvı moøskı jídla kadou noc! A chutnı, dokonce i kdy to má dvì hlavy.}
-{109}{}{Naši sousedi jsou opravdu "zajímaví."}
-{110}{}{Urèitì se zas budem nìkdy stìhovat, tím jsem si jistej.}
-{111}{}{Líbìj se ti naše domovy?}
-{112}{}{Miluju ivot na plái.}
-{113}{}{Prosím, neubliuj mi!}
-{114}{}{Ne! Neubliuj mi!}
-{115}{}{Nech moje dìti na pokoji!}
-{116}{}{Stùj! Neubliuj nám!}
-{117}{}{Udìlám cokoliv!}
+{100}{}{VidÃ­Å¡ Å¡pinavÃ©ho, nemocnÄ› vypadajÃ­cÃ­ho ÄlovÄ›ka.}
+{101}{}{VidÃ­Å¡ bezdomovce.}
+{102}{}{VidÃ­Å¡ Å¡pinavÃ©ho, nemocnÄ› vypadajÃ­cÃ­ho ÄlovÄ›ka.}
+{103}{}{Tohle je jeden z nejlepÅ¡Ã­ch bejvÃ¡kÅ¯ za poslednÃ­ roky!}
+{104}{}{ÃÃ¡Ã¡... moÅ™skej vzduch!}
+{105}{}{To je Å¾ivot, co? Å½Ã¡dnÃ­ Å¡Ã©fovÃ©, Å¾Ã¡dnÃ¡ vlÃ¡da... jen Äistej moÅ™skej vzdouÅ¡ek.}
+{106}{}{TÃ¡mhle v moÅ™i je auto. Å koda, Å¾e je zrezivÄ›lÃ½.}
+{107}{}{VsadÃ­m se, Å¾e dÄ›ti to tady milujou.}
+{108}{}{MÃ¡me ÄerstvÃ½ moÅ™skÃ½ jÃ­dla kaÅ¾dou noc! A chutnÃ½, dokonce i kdyÅ¾ to mÃ¡ dvÄ› hlavy.}
+{109}{}{NaÅ¡i sousedi jsou opravdu "zajÃ­mavÃ­."}
+{110}{}{UrÄitÄ› se zas budem nÄ›kdy stÄ›hovat, tÃ­m jsem si jistej.}
+{111}{}{LÃ­bÄ›j se ti naÅ¡e domovy?}
+{112}{}{Miluju Å¾ivot na plÃ¡Å¾i.}
+{113}{}{ProsÃ­m, neubliÅ¾uj mi!}
+{114}{}{Ne! NeubliÅ¾uj mi!}
+{115}{}{Nech moje dÄ›ti na pokoji!}
+{116}{}{StÅ¯j! NeubliÅ¾uj nÃ¡m!}
+{117}{}{UdÄ›lÃ¡m cokoliv!}
 {118}{}{Pomoc!}
 {119}{}{Ach ne! Utiskovatel!}
-{120}{}{Ach, kdybysme tak mìli stráe!}
-{121}{}{Teï lituju, e jsem se vzdal ochrany spoleènosti...}
+{120}{}{Ach, kdybysme tak mÄ›li strÃ¡Å¾e!}
+{121}{}{TeÄ lituju, Å¾e jsem se vzdal ochrany spoleÄnosti...}

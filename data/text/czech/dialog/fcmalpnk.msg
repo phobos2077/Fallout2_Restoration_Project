@@ -1,95 +1,95 @@
-{100}{}{Vidíš tuláka v tankeru.}
-{101}{}{Vidíš pankáèe.}
-{102}{}{Vidíš velmi hezkého, cynicky se tváøícího mue, kterı má na sobì potrhané obleèení.}
-{103}{}{Nic se nedìje.}
-{104}{}{Z toho rybího smradu je mi na blití.}
-{105}{}{Èím døív se pohnem, tím líp.}
-{106}{}{Nejlepší vìc na tom bejt koèovníkem, je ta svoboda.}
-{107}{}{Radši umøu, ne aby mi nìkdo rozkazoval.}
-{108}{}{Nikdo neøídí mùj ivot! Jsem svım vlastním pánem!}
-{109}{}{Jsem svım vlastním pánem.}
-{110}{}{Jsem unikátní! Tak jako kdokoliv jinej!}
-{111}{}{Nìkdy mì ten svìtovej cynismus nudí.}
-{112}{}{Pøíštì chci najít kmen Gótù.}
-{113}{}{Vidìl jsem Selmy a Barru jak se poprali hned vedle schodù.}
-{114}{}{Slyšela jsem, e je Císaø Shi nadpøirozenì chytrej.}
-{115}{}{Ti Shi vypadaj hroznì legraènì.}
-{116}{}{Jsem nepøedpojatá?}
-{117}{}{Podìlím se s tebou o svoji holku, kdy se ty podìlíš o tu svoji.}
-{118}{}{Podívej na všechny ty novı pankáèe. Takoví pozéøi.}
-{119}{}{AHS-9 nás podvedl a tebe podvede taky, jestli mu to dovolíš.}
-{120}{}{Ovce. Nejseš nic jinıho ne vradící ovce.}
-{121}{}{Øekni tìm parchantùm Hubologistùm, e se nikdy nevzdáme.}
-{122}{}{Nikdy nepøejdu k Hubu.}
-{123}{}{Doufám, e jseš na sebe pyšnej.}
-{124}{}{Copak si nikdy neuvìdomìj, e zabitím našeho "vùdce" z nás neudìlá jejich následovníky?}
-{125}{}{Jseš kretén.}
-{126}{}{Bééé! Bééé!}
-{127}{}{Tak jakı to bylo s mutantem?}
-{128}{}{Ublíil ti ten silnej mutant Francis?}
-{129}{}{Pohrál si s tebou Francis?}
-{130}{}{Francis je poøádnì velkej chlap.}
+{100}{}{VidÃ­Å¡ tulÃ¡ka v tankeru.}
+{101}{}{VidÃ­Å¡ pankÃ¡Äe.}
+{102}{}{VidÃ­Å¡ velmi hezkÃ©ho, cynicky se tvÃ¡Å™Ã­cÃ­ho muÅ¾e, kterÃ½ mÃ¡ na sobÄ› potrhanÃ© obleÄenÃ­.}
+{103}{}{Nic se nedÄ›je.}
+{104}{}{Z toho rybÃ­ho smradu je mi na blitÃ­.}
+{105}{}{ÄŒÃ­m dÅ™Ã­v se pohnem, tÃ­m lÃ­p.}
+{106}{}{NejlepÅ¡Ã­ vÄ›c na tom bejt koÄovnÃ­kem, je ta svoboda.}
+{107}{}{RadÅ¡i umÅ™u, neÅ¾ aby mi nÄ›kdo rozkazoval.}
+{108}{}{Nikdo neÅ™Ã­dÃ­ mÅ¯j Å¾ivot! Jsem svÃ½m vlastnÃ­m pÃ¡nem!}
+{109}{}{Jsem svÃ½m vlastnÃ­m pÃ¡nem.}
+{110}{}{Jsem unikÃ¡tnÃ­! Tak jako kdokoliv jinej!}
+{111}{}{NÄ›kdy mÄ› ten svÄ›tovej cynismus nudÃ­.}
+{112}{}{PÅ™Ã­Å¡tÄ› chci najÃ­t kmen GÃ³tÅ¯.}
+{113}{}{VidÄ›l jsem Selmy a Barru jak se poprali hned vedle schodÅ¯.}
+{114}{}{SlyÅ¡ela jsem, Å¾e je CÃ­saÅ™ Shi nadpÅ™irozenÄ› chytrej.}
+{115}{}{Ti Shi vypadaj hroznÄ› legraÄnÄ›.}
+{116}{}{Jsem nepÅ™edpojatÃ¡?}
+{117}{}{PodÄ›lÃ­m se s tebou o svoji holku, kdyÅ¾ se ty podÄ›lÃ­Å¡ o tu svoji.}
+{118}{}{PodÃ­vej na vÅ¡echny ty novÃ½ pankÃ¡Äe. TakovÃ­ pozÃ©Å™i.}
+{119}{}{AHS-9 nÃ¡s podvedl a tebe podvede taky, jestli mu to dovolÃ­Å¡.}
+{120}{}{Ovce. NejseÅ¡ nic jinÃ½ho neÅ¾ vraÅ¾dÃ­cÃ­ ovce.}
+{121}{}{Å˜ekni tÄ›m parchantÅ¯m HubologistÅ¯m, Å¾e se nikdy nevzdÃ¡me.}
+{122}{}{Nikdy nepÅ™ejdu k Hubu.}
+{123}{}{DoufÃ¡m, Å¾e jseÅ¡ na sebe pyÅ¡nej.}
+{124}{}{CoÅ¾pak si nikdy neuvÄ›domÄ›j, Å¾e zabitÃ­m naÅ¡eho "vÅ¯dce" z nÃ¡s neudÄ›lÃ¡ jejich nÃ¡sledovnÃ­ky?}
+{125}{}{JseÅ¡ kretÃ©n.}
+{126}{}{BÃ©Ã©Ã©! BÃ©Ã©Ã©!}
+{127}{}{Tak jakÃ½ to bylo s mutantem?}
+{128}{}{UblÃ­Å¾il ti ten silnej mutant Francis?}
+{129}{}{PohrÃ¡l si s tebou Francis?}
+{130}{}{Francis je poÅ™Ã¡dnÄ› velkej chlap.}
 {131}{}{Starej velkej Francis, co?}
 {132}{}{}
-{133}{}{Hele! To je ten mrzák!}
-{134}{}{Hej, jestli od nás potøebuješ nìjakou pomoc, tak se ani nemusíš ptát.}
-{135}{}{A hele! Mluvící kretén!}
-{136}{}{To jseš opravdu takovej kretén?}
-{137}{}{Klidnì obìtuješ našeho starıho Chipa, co?}
-{138}{}{Chudák Chip.}
-{139}{}{Á, podívejme, to je náš "hrdina".}
-{140}{}{Hej, všichni! To je ten sobeckej kretén!}
-{141}{}{Nikdo s tebou teï nechce mluvit.}
-{142}{}{Ty, co nenávidíš Chipa!}
-{143}{}{Mùu pro tebe nìco udìlat? Máš smùlu!}
-{144}{}{Nemluv na mì.}
-{145}{}{To je od tebe hezkı, e ses snail získat Chipovu slezinu.}
-{146}{}{Aspoò jsi to zkusil.}
-{147}{}{Chudák Chip.}
-{148}{}{Drsnej konec pro starıho Chipa.}
-{149}{}{Chip je na tom èím dál hùø. Je to špatnı.}
-{150}{}{Dobrá práce s tou slezinou!}
-{151}{}{Páni... hrdina A nálezce sleziny.}
-{152}{}{Nevìdìl jsem, e se sleziny vyrábìj.}
-{153}{}{Díky za záchranu Chipa.}
-{154}{}{Zdravím, milovníku Chipa!}
-{155}{}{Všichni jsme za Chipa šastní.}
-{156}{}{Díky za záchranu Chipa.}
-{157}{}{Teï se bude s Badgerem ít líp.}
-{158}{}{Vdycky jsem mìl Suze rád. Jsem rád, e není mrtvá.}
-{159}{}{Zajímalo by mì, jestli bude Suze dìlat chùvu mejm dìtem.}
-{160}{}{Zabít pøíšery, zachránit pøítelkyni... existuje taky nìjakej hrdinskej kousek, do kterıho nefušuješ?}
-{161}{}{Mùeš zachránit i moji holku? Hehe!}
-{162}{}{Moná, e se s tebou Badger i vyspí jako podìkování za záchranu jeho holky.}
-{163}{}{Vsadím se, e je teï Badger opravdu šastnej.}
-{164}{}{Moná teï mùeš poádat Badgera o nìjakou laskavost.}
-{165}{}{Chudák Badger. Chudák Suze.}
+{133}{}{Hele! To je ten mrzÃ¡k!}
+{134}{}{Hej, jestli od nÃ¡s potÅ™ebujeÅ¡ nÄ›jakou pomoc, tak se ani nemusÃ­Å¡ ptÃ¡t.}
+{135}{}{A hele! MluvÃ­cÃ­ kretÃ©n!}
+{136}{}{To jseÅ¡ opravdu takovej kretÃ©n?}
+{137}{}{KlidnÄ› obÄ›tujeÅ¡ naÅ¡eho starÃ½ho Chipa, co?}
+{138}{}{ChudÃ¡k Chip.}
+{139}{}{Ã, podÃ­vejme, to je nÃ¡Å¡ "hrdina".}
+{140}{}{Hej, vÅ¡ichni! To je ten sobeckej kretÃ©n!}
+{141}{}{Nikdo s tebou teÄ nechce mluvit.}
+{142}{}{Ty, co nenÃ¡vidÃ­Å¡ Chipa!}
+{143}{}{MÅ¯Å¾u pro tebe nÄ›co udÄ›lat? MÃ¡Å¡ smÅ¯lu!}
+{144}{}{Nemluv na mÄ›.}
+{145}{}{To je od tebe hezkÃ½, Å¾e ses snaÅ¾il zÃ­skat Chipovu slezinu.}
+{146}{}{AspoÅˆ jsi to zkusil.}
+{147}{}{ChudÃ¡k Chip.}
+{148}{}{Drsnej konec pro starÃ½ho Chipa.}
+{149}{}{Chip je na tom ÄÃ­m dÃ¡l hÅ¯Å™. Je to Å¡patnÃ½.}
+{150}{}{DobrÃ¡ prÃ¡ce s tou slezinou!}
+{151}{}{PÃ¡ni... hrdina A nÃ¡lezce sleziny.}
+{152}{}{NevÄ›dÄ›l jsem, Å¾e se sleziny vyrÃ¡bÄ›j.}
+{153}{}{DÃ­ky za zÃ¡chranu Chipa.}
+{154}{}{ZdravÃ­m, milovnÃ­ku Chipa!}
+{155}{}{VÅ¡ichni jsme za Chipa Å¡Å¥astnÃ­.}
+{156}{}{DÃ­ky za zÃ¡chranu Chipa.}
+{157}{}{TeÄ se bude s Badgerem Å¾Ã­t lÃ­p.}
+{158}{}{VÅ¾dycky jsem mÄ›l Suze rÃ¡d. Jsem rÃ¡d, Å¾e nenÃ­ mrtvÃ¡.}
+{159}{}{ZajÃ­malo by mÄ›, jestli bude Suze dÄ›lat chÅ¯vu mejm dÄ›tem.}
+{160}{}{ZabÃ­t pÅ™Ã­Å¡ery, zachrÃ¡nit pÅ™Ã­telkyni... existuje taky nÄ›jakej hrdinskej kousek, do kterÃ½ho nefuÅ¡ujeÅ¡?}
+{161}{}{MÅ¯Å¾eÅ¡ zachrÃ¡nit i moji holku? Hehe!}
+{162}{}{MoÅ¾nÃ¡, Å¾e se s tebou Badger i vyspÃ­ jako podÄ›kovÃ¡nÃ­ za zÃ¡chranu jeho holky.}
+{163}{}{VsadÃ­m se, Å¾e je teÄ Badger opravdu Å¡Å¥astnej.}
+{164}{}{MoÅ¾nÃ¡ teÄ mÅ¯Å¾eÅ¡ poÅ¾Ã¡dat Badgera o nÄ›jakou laskavost.}
+{165}{}{ChudÃ¡k Badger. ChudÃ¡k Suze.}
 {166}{}{Varoval jsem ji, aby tam nechodila...}
-{167}{}{... zatracenı pøíšery...}
-{168}{}{Je mi Badgera opravdu líto.}
-{169}{}{Zemøít na lodi. Chudák Suze.}
-{170}{}{Sakra... bude nìkdy ivot trochu lepší?}
-{171}{}{Tam je to nebezpeènı!}
-{172}{}{Jeíši... proè tam jen chodila?}
-{173}{}{Mìli bysme zvednout kotvu.}
-{174}{}{Mìli bysme z tıhle lodi vypadnout.}
-{175}{}{Chystáš se vzít tanker na západ?}
-{176}{}{Myslím, e je naèase z tıhle lodi vypadnout.}
-{177}{}{Jsem pøipravenej odsud vypadnout.}
-{178}{}{U mám všechno sbalenı.}
-{179}{}{Myslím, e na západ nepùjdu.}
+{167}{}{... zatracenÃ½ pÅ™Ã­Å¡ery...}
+{168}{}{Je mi Badgera opravdu lÃ­to.}
+{169}{}{ZemÅ™Ã­t na lodi. ChudÃ¡k Suze.}
+{170}{}{Sakra... bude nÄ›kdy Å¾ivot trochu lepÅ¡Ã­?}
+{171}{}{Tam je to nebezpeÄnÃ½!}
+{172}{}{JeÅ¾Ã­Å¡i... proÄ tam jen chodila?}
+{173}{}{MÄ›li bysme zvednout kotvu.}
+{174}{}{MÄ›li bysme z tÃ½hle lodi vypadnout.}
+{175}{}{ChystÃ¡Å¡ se vzÃ­t tanker na zÃ¡pad?}
+{176}{}{MyslÃ­m, Å¾e je naÄase z tÃ½hle lodi vypadnout.}
+{177}{}{Jsem pÅ™ipravenej odsud vypadnout.}
+{178}{}{UÅ¾ mÃ¡m vÅ¡echno sbalenÃ½.}
+{179}{}{MyslÃ­m, Å¾e na zÃ¡pad nepÅ¯jdu.}
 {180}{}{}
 {181}{}{}
 {182}{}{}
-{183}{}{Znáš nìjakı dobrı místa, kde by se dalo usadit?}
-{184}{}{Chci se ujistit, e je to místo v pohodì, ne se tam usadím.}
-{185}{}{Vzhùru za lepším ivotem.}
-{186}{}{Sákryš... u ádnej Badger.}
-{187}{}{Kdo ho mohl zabít?}
-{188}{}{O poèítaèích vím hovno. A ty?}
-{189}{}{Sakra... Badger znal všechny skvìlı místa, kam se dalo jít.}
-{190}{}{Teï u nikdy neuslyším hrát tu jeho kapelu!}
-{191}{}{Pitomí zabijáci... zabili Badgera... pitomci.}
-{192}{}{Jsem teï pìknì naštvanej.}
-{193}{}{Chci se za Badgera pomstít!}
-{194}{}{ivot bez Badgera nemá cenu.}
+{183}{}{ZnÃ¡Å¡ nÄ›jakÃ½ dobrÃ½ mÃ­sta, kde by se dalo usadit?}
+{184}{}{Chci se ujistit, Å¾e je to mÃ­sto v pohodÄ›, neÅ¾ se tam usadÃ­m.}
+{185}{}{VzhÅ¯ru za lepÅ¡Ã­m Å¾ivotem.}
+{186}{}{SÃ¡kryÅ¡... uÅ¾ Å¾Ã¡dnej Badger.}
+{187}{}{Kdo ho mohl zabÃ­t?}
+{188}{}{O poÄÃ­taÄÃ­ch vÃ­m hovno. A ty?}
+{189}{}{Sakra... Badger znal vÅ¡echny skvÄ›lÃ½ mÃ­sta, kam se dalo jÃ­t.}
+{190}{}{TeÄ uÅ¾ nikdy neuslyÅ¡Ã­m hrÃ¡t tu jeho kapelu!}
+{191}{}{PitomÃ­ zabijÃ¡ci... zabili Badgera... pitomci.}
+{192}{}{Jsem teÄ pÄ›knÄ› naÅ¡tvanej.}
+{193}{}{Chci se za Badgera pomstÃ­t!}
+{194}{}{Å½ivot bez Badgera nemÃ¡ cenu.}

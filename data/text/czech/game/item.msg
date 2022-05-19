@@ -1,20 +1,20 @@
-{1}{}{Získáváš %d %s.}
-{2}{}{Ztrácíš %d %s.}
-{3}{}{Cítíš se lépe.}
+{1}{}{ZÃ­skÃ¡vÃ¡Å¡ %d %s.}
+{2}{}{ZtrÃ¡cÃ­Å¡ %d %s.}
+{3}{}{CÃ­tÃ­Å¡ se lÃ©pe.}
 {4}{}{You suffer a fatal heart attack from drug overdose.}
-{5}{}{%s u není èím nabít.}
+{5}{}{%s uÅ¾ nenÃ­ ÄÃ­m nabÃ­t.}
 {6}{}{%s je zapnut.}
 {7}{}{%s je vypnut.}
-{8}{}{Pøejídíš si Geigerovım poèítaèem po tìle. Display ukazuje: %d}
-{9}{}{Tento pøedmìt se dá pouít pouze z inventáøe.}
+{8}{}{PÅ™ejÃ­Å¾dÃ­Å¡ si GeigerovÃ½m poÄÃ­taÄem po tÄ›le. Display ukazuje: %d}
+{9}{}{Tento pÅ™edmÄ›t se dÃ¡ pouÅ¾Ã­t pouze z inventÃ¡Å™e.}
 {10}{}{Nic se nestalo.}
-{50}{}{Vypadá to, e se nic nestalo.}
-{500}{}{K nabití zbranì tu není dost svìtla.}
+{50}{}{VypadÃ¡ to, Å¾e se nic nestalo.}
+{500}{}{K nabitÃ­ zbranÄ› tu nenÃ­ dost svÄ›tla.}
 {600}{}{%s succumbs to the adverse effects of drugs.}
-{800}{Weapon Damage}{Lehké}
-{801}{}{Støední}
-{802}{}{Tìké}
-{803}{}{Extrémní}
-{820}{}{Krátká}
-{821}{}{Støední}
-{822}{}{Dlouhá}
+{800}{Weapon Damage}{LehkÃ©}
+{801}{}{StÅ™ednÃ­}
+{802}{}{TÄ›Å¾kÃ©}
+{803}{}{ExtrÃ©mnÃ­}
+{820}{}{KrÃ¡tkÃ¡}
+{821}{}{StÅ™ednÃ­}
+{822}{}{DlouhÃ¡}

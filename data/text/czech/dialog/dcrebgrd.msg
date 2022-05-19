@@ -1,16 +1,16 @@
-{100}{}{Vidíš strá.}
-{101}{}{Vidíš strá Beckyina Kasíno Baru.}
-{150}{}{Vypadá, jako by v davu vyhlíel zlodìje.}
-{151}{}{Vypadá, jako by pozornì sledovala kadého v místnosti.}
-{200}{}{Teï dostaneš.}
-{201}{}{Tentokrát u neuteèeš.}
-{210}{}{Promiò, Becky nechce, abysme obtìovali zákazníky.}
-{211}{}{Doufám, e se bavíš.}
-{212}{}{Ujišuju tì, e okrádání netolerujeme.}
-{213}{}{Tady jsi v bezpeèí.}
-{214}{}{Rebecca má ty nejlepší drinky.}
-{215}{}{Rebecca je ten nejlepší šéf, kterıho jsem kdy mìl.}
-{216}{}{Cejtíš, e ti dneska pøeje štìstí? Blackjack je moje hra.}
-{217}{}{Becky je támhle, jestli nìco potøebuješ.}
-{218}{}{Rebeèiny stoly jsou poctivé, tak zkus štìstí.}
-{230}{}{Tohle u nás netolerujeme.}
+{100}{}{VidÃ­Å¡ strÃ¡Å¾.}
+{101}{}{VidÃ­Å¡ strÃ¡Å¾ Beckyina KasÃ­no Baru.}
+{150}{}{VypadÃ¡, jako by v davu vyhlÃ­Å¾el zlodÄ›je.}
+{151}{}{VypadÃ¡, jako by pozornÄ› sledovala kaÅ¾dÃ©ho v mÃ­stnosti.}
+{200}{}{TeÄ dostaneÅ¡.}
+{201}{}{TentokrÃ¡t uÅ¾ neuteÄeÅ¡.}
+{210}{}{PromiÅˆ, Becky nechce, abysme obtÄ›Å¾ovali zÃ¡kaznÃ­ky.}
+{211}{}{DoufÃ¡m, Å¾e se bavÃ­Å¡.}
+{212}{}{UjiÅ¡Å¥uju tÄ›, Å¾e okrÃ¡dÃ¡nÃ­ netolerujeme.}
+{213}{}{Tady jsi v bezpeÄÃ­.}
+{214}{}{Rebecca mÃ¡ ty nejlepÅ¡Ã­ drinky.}
+{215}{}{Rebecca je ten nejlepÅ¡Ã­ Å¡Ã©f, kterÃ½ho jsem kdy mÄ›l.}
+{216}{}{CejtÃ­Å¡, Å¾e ti dneska pÅ™eje Å¡tÄ›stÃ­? Blackjack je moje hra.}
+{217}{}{Becky je tÃ¡mhle, jestli nÄ›co potÅ™ebujeÅ¡.}
+{218}{}{RebeÄiny stoly jsou poctivÃ©, tak zkus Å¡tÄ›stÃ­.}
+{230}{}{Tohle u nÃ¡s netolerujeme.}

@@ -1,5 +1,5 @@
-{100}{}{Prosím, neubliuj mi!}
-{101}{}{Ty jsi mùj novı pán?}
-{102}{}{Pus mì, prosím.}
-{103}{}{Chci bıt zase na svobodì.}
-{104}{}{Utíkejte!!}
+{100}{}{ProsÃ­m, neubliÅ¾uj mi!}
+{101}{}{Ty jsi mÅ¯j novÃ½ pÃ¡n?}
+{102}{}{PusÅ¥ mÄ›, prosÃ­m.}
+{103}{}{Chci bÃ½t zase na svobodÄ›.}
+{104}{}{UtÃ­kejte!!}

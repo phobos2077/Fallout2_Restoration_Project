@@ -1,9 +1,9 @@
-{100}{}{Vidíš pøekupníka s podomácky pálenou whisky.}
-{101}{}{Prodáváme pítí té nejvyšší kvality. Máš zájem?}
-{102}{}{Mám. Uka mi, co máš.}
+{100}{}{VidÃ­Å¡ pÅ™ekupnÃ­ka s podomÃ¡cky pÃ¡lenou whisky.}
+{101}{}{ProdÃ¡vÃ¡me pÃ­tÃ­ tÃ© nejvyÅ¡Å¡Ã­ kvality. MÃ¡Å¡ zÃ¡jem?}
+{102}{}{MÃ¡m. UkaÅ¾ mi, co mÃ¡Å¡.}
 {103}{}{Ne.}
 {104}{}{Eh.}
-{105}{}{Tak vystøel. Nemáme èas.}
-{106}{}{Ujišuju tì, e je pomìr alkoholu v poøádku.}
+{105}{}{Tak vystÅ™el. NemÃ¡me Äas.}
+{106}{}{UjiÅ¡Å¥uju tÄ›, Å¾e je pomÄ›r alkoholu v poÅ™Ã¡dku.}
 {107}{}{Baka. BAka BAKA!}
-{108}{}{Díky za obchod.}
+{108}{}{DÃ­ky za obchod.}

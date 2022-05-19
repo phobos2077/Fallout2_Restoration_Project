@@ -1,4 +1,4 @@
-{100}{}{Je mi líto, ale spoleèníci, kteøí nemají dvì nohy, tu budou na mì muset poèkat.}
-{101}{}{Je mi líto, ale spoleèníci, kteøí nemají dvì nohy, tu budou na mì muset poèkat.}
-{102}{}{Vidíš zavalenou vıtahovou šachtu.}
-{103}{}{Vıtah je rozbitı. Kdy se budeš trochu snait, tak se moná dostaneš a dolù.}
+{100}{}{Je mi lÃ­to, ale spoleÄnÃ­ci, kteÅ™Ã­ nemajÃ­ dvÄ› nohy, tu budou na mÄ› muset poÄkat.}
+{101}{}{Je mi lÃ­to, ale spoleÄnÃ­ci, kteÅ™Ã­ nemajÃ­ dvÄ› nohy, tu budou na mÄ› muset poÄkat.}
+{102}{}{VidÃ­Å¡ zavalenou vÃ½tahovou Å¡achtu.}
+{103}{}{VÃ½tah je rozbitÃ½. KdyÅ¾ se budeÅ¡ trochu snaÅ¾it, tak se moÅ¾nÃ¡ dostaneÅ¡ aÅ¾ dolÅ¯.}

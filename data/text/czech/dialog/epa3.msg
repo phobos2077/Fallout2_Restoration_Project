@@ -1,1 +1,1 @@
-{100}{}{Vıtah se za doprovodu skøípajícího zvuku zastaví. Kolem sebe slyšíš klapání a škrábání. Pøed tebou chrèí silové pole blokující další postup.}
+{100}{}{VÃ½tah se za doprovodu skÅ™Ã­pajÃ­cÃ­ho zvuku zastavÃ­. Kolem sebe slyÅ¡Ã­Å¡ klapÃ¡nÃ­ a Å¡krÃ¡bÃ¡nÃ­. PÅ™ed tebou chrÄÃ­ silovÃ© pole blokujÃ­cÃ­ dalÅ¡Ã­ postup.}

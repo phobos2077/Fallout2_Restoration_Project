@@ -1,118 +1,118 @@
-{100}{}{Vidíš døevìné dveøe.}
-{101}{}{Vidíš elezné dveøe.}
-{102}{}{Vidíš pevné dveøe se zámkem odemykatelnım pomocí paklíèù a s vysoce vıbušnou pastí umístìnou na zárubni dveøí, kterou se mùeš pokusit odstranit.}
-{103}{}{Vidíš pevné dveøe se zámkem a vysoce vıbušnou pastí umístìnou na zárubni dveøí, kterou se mùeš pokusit odstranit.}
-{104}{}{Vidíš pevné dveøe bez zjevného odemykacího zaøízení a vysoce vıbušnou pastí umístìnou na zárubni dveøí, kterou se mùeš pokusit odstranit.}
-{105}{}{Vidíš pevné dveøe se starım, rezavım zámkem a vysoce vıbušnou pastí umístìnou na zárubni dveøí, kterou se mùeš pokusit odstranit.}
-{106}{}{Vidíš pevné dveøe se zámkem odemykatelnım pomocí paklíèù a pastí umístìnou na zárubni dveøí, kterou se mùeš pokusit odstranit.}
-{107}{}{Vidíš pevné dveøe se zámkem a pastí umístìnou na zárubni dveøí, kterou se mùeš pokusit odstranit.}
-{108}{}{Vidíš pevné dveøe bez zjevného odemykacího zaøízení a pastí umístìnou na zárubni dveøí, kterou se mùeš pokusit odstranit.}
-{109}{}{Vidíš pevné dveøe se starım, rezavım zámkem a pastí umístìnou na zárubni dveøí, kterou se mùeš pokusit odstranit.}
-{110}{}{Vidíš pevné dveøe se zámkem odemykatelnım sadou paklíèù a kousek drátku, kterı èouhá ze zárubnì dveøí. Mùeš se je pokusit vypáèit.}
-{111}{}{Vidíš pevné dveøe se zámkem a kousek drátku, kterı èouhá ze zárubnì dveøí. Mùeš se je pokusit vypáèit.}
-{112}{}{Vidíš pevné dveøe bez zjevného odemykacího zaøízení a kousek drátku, kterı èouhá ze zárubnì dveøí. Mùeš se je pokusit vypáèit.}
-{113}{}{Vidíš pevné dveøe se starım, rezavım zámkem a kousek drátku, kterı èouhá ze zárubnì dveøí. Mùeš se je pokusit vypáèit.}
-{114}{}{Vidíš pevné dveøe se zámkem odemykatelnım pomocí paklíèù, které se mùeš pokusit vypáèit.}
-{115}{}{Vidíš pevné dveøe se zámkem, které se mùeš pokusit vypáèit.}
-{116}{}{Vidíš pevné dveøe bez zjevného odemykacího zaøízení, které se mùeš pokusit vypáèit.}
-{117}{}{Vidíš pevné dveøe se starım, rezavım zámkem, které se mùeš pokusit vypáèit.}
-{118}{}{Vidíš pevné dveøe se zámkem odemykatelnım pomocí paklíèù a vysoce vıbušnou pastí umístìnou na zárubni dveøí.}
-{119}{}{Vidíš pevné dveøe se zámkem a vysoce vıbušnou pastí umístìnou na zárubni dveøí.}
-{120}{}{Vidíš pevné dveøe bez zjevného odemykacího zaøízení a vysoce vıbušnou pastí umístìnou na zárubni dveøí.}
-{121}{}{Vidíš pevné dveøe se starım, rezavım zámkem a vysoce vıbušnou pastí umístìnou na zárubni dveøí.}
-{122}{}{Vidíš pevné dveøe se zámkem odemykatelnım pomocí paklíèù a pastí umístìnou na zárubni dveøí.}
-{123}{}{Vidíš pevné dveøe se zámkem a pastí umístìnou na zárubni dveøí.}
-{124}{}{Vidíš pevné dveøe bez zjevného odemykacího zaøízení a pastí umístìnou na zárubni dveøí.}
-{125}{}{Vidíš pevné dveøe se starım a rezavım zámkem a pastí umístìnou na zárubni dveøí.}
-{126}{}{Vidíš pevné dveøe se zámkem odemykatelnım pomocí paklíèù a kousek drátku, kterı èouhá ze zárubnì dveøí.}
-{127}{}{Vidíš pevné dveøe se zámkem a kousek drátku, kterı èouhá ze zárubnì dveøí.}
-{128}{}{Vidíš pevné dveøe bez zjevného odemykacího zaøízení a kousek drátku, kterı èouhá ze zárubnì dveøí.}
-{129}{}{Vidíš pevné dveøe se starım, rezavım zámkem a kousek drátku, kterı èouhá ze zárubnì dveøí.}
-{130}{}{Vidíš pevné dveøe se zámkem, které mùeš odemknout pomocí paklíèù.}
-{131}{}{Vidíš pevné dveøe se zámkem.}
-{132}{}{Vidíš pevné dveøe bez zjevného odemykacího zaøízení.}
-{133}{}{Vidíš pevné dveøe se starım, rezavım zámkem.}
-{134}{}{Vidíš ponièené dveøe se zámkem, které mùeš odemknout pomocí paklíèù, a vysoce vıbušnou pastí umístìnou na zárubni dveøí.}
-{135}{}{Vidíš ponièené dveøe se zámkem a vysoce vıbušnou pastí umístìnou na zárubni dveøí.}
-{136}{}{Vidíš ponièené dveøe bez zjevného odemykacího zaøízení a vysoce vıbušnou pastí umístìnou na zárubni dveøí.}
-{137}{}{Vidíš ponièené dveøe se starım, rezavım zámkem a vysoce vıbušnou pastí umístìnou na zárubni dveøí.}
-{138}{}{Vidíš ponièené dveøe se zámkem, které mùeš odemknout pomocí paklíèù, a pastí umístìnou na zárubni dveøí.}
-{139}{}{Vidíš ponièené dveøe se zámkem a pastí umístìnou na zárubni dveøí.}
-{140}{}{Vidíš ponièené dveøe bez zjevného odemykacího zaøízení a pastí umístìnou na zárubni dveøí.}
-{141}{}{Vidíš ponièené dveøe se starım, rezavım zámkem a pastí umístìnou na zárubni dveøí.}
-{142}{}{Vidíš ponièené dveøe se zámkem, které mùeš odemknout pomocí paklíèù, a kousek drátku, kterı èouhá ze zárubnì dveøí.}
-{143}{}{Vidíš ponièené dveøe se zámkem a kousek drátku, kterı èouhá ze zárubnì dveøí.}
-{144}{}{Vidíš ponièené dveøe bez zjevného odemykacího zaøízení a kousek drátku, kterı èouhá ze zárubnì dveøí.}
-{145}{}{Vidíš ponièené dveøe se starım, rezavım zámkem a kousek drátku, kterı èouhá ze zárubnì dveøí.}
-{146}{}{Vidíš ponièené dveøe se zámkem, které mùeš odemknout pomocí paklíèù.}
-{147}{}{Vidíš ponièené dveøe se zámkem.}
-{148}{}{Vidíš ponièené dveøe bez zjevného odemykacího zaøízení.}
-{149}{}{Vidíš ponièené dveøe se starım, rezavım zámkem.}
-{150}{}{Vidíš staré dveøe se zámkem, které mùeš odemknout pomocí paklíèù, a vysoce vıbušnou pastí umístìnou na zárubni dveøí.}
-{151}{}{Vidíš staré dveøe se zámkem a vysoce vıbušnou pastí umístìnou na zárubni dveøí.}
-{152}{}{Vidíš staré dveøe bez zjevného odemykacího zaøízení a vysoce vıbušnou pastí umístìnou na zárubni dveøí.}
-{153}{}{Vidíš staré dveøe se starım, rezavım zámkem a vysoce vıbušnou pastí umístìnou na zárubni dveøí.}
-{154}{}{Vidíš staré dveøe se zámkem, které mùeš odemknout pomocí paklíèù, a pastí umístìnou na zárubni dveøí.}
-{155}{}{Vidíš staré dveøe se zámkem a pastí umístìnou na zárubni dveøí.}
-{156}{}{Vidíš staré dveøe bez zjevného odemykacího zaøízení a pastí umístìnou na zárubni dveøí.}
-{157}{}{Vidíš staré dveøe se starım, rezavım zámkem a pastí umístìnou na zárubni dveøí.}
-{158}{}{Vidíš staré dveøe se zámkem, které mùeš odemknout pomocí paklíèù, a kousek drátku, kterı èouhá ze zárubnì dveøí.}
-{159}{}{Vidíš staré dveøe se zámkem a kousek drátku, kterı èouhá ze zárubnì dveøí.}
-{160}{}{Vidíš staré dveøe bez zjevného odemykacího zaøízení a kousek drátku, kterı èouhá ze zárubnì dveøí.}
-{161}{}{Vidíš staré dveøe se starım, rezavım zámkem a kousek drátku, kterı èouhá ze zárubnì dveøí.}
-{162}{}{Vidíš staré dveøe se zámkem, které mùeš odemknout pomocí paklíèù.}
-{163}{}{Vidíš staré dveøe se zámkem.}
-{164}{}{Vidíš staré dveøe bez zjevného odemykacího zaøízení.}
-{165}{}{Vidíš staré dveøe se starım, rezavım zámkem.}
-{166}{}{Aktivuješ past a ta tì zasáhla za }
-{167}{}{ hit bodù.}
-{168}{}{ aktivuje past a byl zasaen za }
-{169}{}{ hit bodù.}
-{170}{}{Úspìšnì odemykáš zámek na dveøích.}
-{171}{}{Díky své nešikovnosti se zámek dveøí zasekl.}
-{172}{}{Nepodaøilo se ti dveøe odemknout.}
-{173}{}{ úspìšnì odemyká zámek dveøí.}
-{174}{}{ nezkušenost zpùsobila zaseknutí zámku dveøí.}
-{175}{}{ se nepodaøilo dveøe zamknout.}
-{176}{}{Podaøilo se ti vypáèit zámek u dveøí.}
-{177}{}{Pøi páèení zámku sis poranil záda a to ti zpùsobilo jeden bod poškození.}
-{178}{}{Pøi páèení zámku sis poranil záda a to ti zpùsobilo poškození za }
-{179}{}{ hit bodù.}
-{180}{}{Na vypáèení tohoto zámku nemáš dostateènou sílu.}
-{181}{}{ se podaøilo vypáèit zámek u dveøí.}
-{182}{}{ si poranil záda, kdy se pokoušel vypáèit zámek, co mu zpùsobilo jeden bod poškození.}
-{183}{}{ si poranil záda, kdy se pokoušel vypáèit zámek, co mu zpùsobilo poškození za }
-{184}{}{ hit bodù.}
-{185}{}{ nemá na vypáèení zámku dostateènou sílu.}
-{186}{}{ si poranila záda, kdy se pokoušela vypáèit zámek, co jí zpùsobilo jeden bod poškození.}
-{187}{}{ si poranila záda, kdy se pokoušela vypáèit zámek, co jí zpùsobilo poškození za }
-{188}{}{ hit bodù.}
-{189}{}{Úspìšnì zamykáš dveøe.}
-{190}{}{Nepodaøilo se ti zamknout dveøe.}
-{191}{}{ úspìšnì zamyká dveøe.}
-{192}{}{ se nepodaøilo dveøe zamknout.}
-{193}{}{Vıbuch na tìchto dveøích nezanechal ani škrábnutí.}
-{194}{}{Nacházíš na dveøích past.}
-{195}{}{Nepodaøilo se ti na dveøích najít past.}
-{196}{}{Zkušenì odstraòuješ past.}
+{100}{}{VidÃ­Å¡ dÅ™evÄ›nÃ© dveÅ™e.}
+{101}{}{VidÃ­Å¡ Å¾eleznÃ© dveÅ™e.}
+{102}{}{VidÃ­Å¡ pevnÃ© dveÅ™e se zÃ¡mkem odemykatelnÃ½m pomocÃ­ paklÃ­ÄÅ¯ a s vysoce vÃ½buÅ¡nou pastÃ­ umÃ­stÄ›nou na zÃ¡rubni dveÅ™Ã­, kterou se mÅ¯Å¾eÅ¡ pokusit odstranit.}
+{103}{}{VidÃ­Å¡ pevnÃ© dveÅ™e se zÃ¡mkem a vysoce vÃ½buÅ¡nou pastÃ­ umÃ­stÄ›nou na zÃ¡rubni dveÅ™Ã­, kterou se mÅ¯Å¾eÅ¡ pokusit odstranit.}
+{104}{}{VidÃ­Å¡ pevnÃ© dveÅ™e bez zjevnÃ©ho odemykacÃ­ho zaÅ™Ã­zenÃ­ a vysoce vÃ½buÅ¡nou pastÃ­ umÃ­stÄ›nou na zÃ¡rubni dveÅ™Ã­, kterou se mÅ¯Å¾eÅ¡ pokusit odstranit.}
+{105}{}{VidÃ­Å¡ pevnÃ© dveÅ™e se starÃ½m, rezavÃ½m zÃ¡mkem a vysoce vÃ½buÅ¡nou pastÃ­ umÃ­stÄ›nou na zÃ¡rubni dveÅ™Ã­, kterou se mÅ¯Å¾eÅ¡ pokusit odstranit.}
+{106}{}{VidÃ­Å¡ pevnÃ© dveÅ™e se zÃ¡mkem odemykatelnÃ½m pomocÃ­ paklÃ­ÄÅ¯ a pastÃ­ umÃ­stÄ›nou na zÃ¡rubni dveÅ™Ã­, kterou se mÅ¯Å¾eÅ¡ pokusit odstranit.}
+{107}{}{VidÃ­Å¡ pevnÃ© dveÅ™e se zÃ¡mkem a pastÃ­ umÃ­stÄ›nou na zÃ¡rubni dveÅ™Ã­, kterou se mÅ¯Å¾eÅ¡ pokusit odstranit.}
+{108}{}{VidÃ­Å¡ pevnÃ© dveÅ™e bez zjevnÃ©ho odemykacÃ­ho zaÅ™Ã­zenÃ­ a pastÃ­ umÃ­stÄ›nou na zÃ¡rubni dveÅ™Ã­, kterou se mÅ¯Å¾eÅ¡ pokusit odstranit.}
+{109}{}{VidÃ­Å¡ pevnÃ© dveÅ™e se starÃ½m, rezavÃ½m zÃ¡mkem a pastÃ­ umÃ­stÄ›nou na zÃ¡rubni dveÅ™Ã­, kterou se mÅ¯Å¾eÅ¡ pokusit odstranit.}
+{110}{}{VidÃ­Å¡ pevnÃ© dveÅ™e se zÃ¡mkem odemykatelnÃ½m sadou paklÃ­ÄÅ¯ a kousek drÃ¡tku, kterÃ½ ÄouhÃ¡ ze zÃ¡rubnÄ› dveÅ™Ã­. MÅ¯Å¾eÅ¡ se je pokusit vypÃ¡Äit.}
+{111}{}{VidÃ­Å¡ pevnÃ© dveÅ™e se zÃ¡mkem a kousek drÃ¡tku, kterÃ½ ÄouhÃ¡ ze zÃ¡rubnÄ› dveÅ™Ã­. MÅ¯Å¾eÅ¡ se je pokusit vypÃ¡Äit.}
+{112}{}{VidÃ­Å¡ pevnÃ© dveÅ™e bez zjevnÃ©ho odemykacÃ­ho zaÅ™Ã­zenÃ­ a kousek drÃ¡tku, kterÃ½ ÄouhÃ¡ ze zÃ¡rubnÄ› dveÅ™Ã­. MÅ¯Å¾eÅ¡ se je pokusit vypÃ¡Äit.}
+{113}{}{VidÃ­Å¡ pevnÃ© dveÅ™e se starÃ½m, rezavÃ½m zÃ¡mkem a kousek drÃ¡tku, kterÃ½ ÄouhÃ¡ ze zÃ¡rubnÄ› dveÅ™Ã­. MÅ¯Å¾eÅ¡ se je pokusit vypÃ¡Äit.}
+{114}{}{VidÃ­Å¡ pevnÃ© dveÅ™e se zÃ¡mkem odemykatelnÃ½m pomocÃ­ paklÃ­ÄÅ¯, kterÃ© se mÅ¯Å¾eÅ¡ pokusit vypÃ¡Äit.}
+{115}{}{VidÃ­Å¡ pevnÃ© dveÅ™e se zÃ¡mkem, kterÃ© se mÅ¯Å¾eÅ¡ pokusit vypÃ¡Äit.}
+{116}{}{VidÃ­Å¡ pevnÃ© dveÅ™e bez zjevnÃ©ho odemykacÃ­ho zaÅ™Ã­zenÃ­, kterÃ© se mÅ¯Å¾eÅ¡ pokusit vypÃ¡Äit.}
+{117}{}{VidÃ­Å¡ pevnÃ© dveÅ™e se starÃ½m, rezavÃ½m zÃ¡mkem, kterÃ© se mÅ¯Å¾eÅ¡ pokusit vypÃ¡Äit.}
+{118}{}{VidÃ­Å¡ pevnÃ© dveÅ™e se zÃ¡mkem odemykatelnÃ½m pomocÃ­ paklÃ­ÄÅ¯ a vysoce vÃ½buÅ¡nou pastÃ­ umÃ­stÄ›nou na zÃ¡rubni dveÅ™Ã­.}
+{119}{}{VidÃ­Å¡ pevnÃ© dveÅ™e se zÃ¡mkem a vysoce vÃ½buÅ¡nou pastÃ­ umÃ­stÄ›nou na zÃ¡rubni dveÅ™Ã­.}
+{120}{}{VidÃ­Å¡ pevnÃ© dveÅ™e bez zjevnÃ©ho odemykacÃ­ho zaÅ™Ã­zenÃ­ a vysoce vÃ½buÅ¡nou pastÃ­ umÃ­stÄ›nou na zÃ¡rubni dveÅ™Ã­.}
+{121}{}{VidÃ­Å¡ pevnÃ© dveÅ™e se starÃ½m, rezavÃ½m zÃ¡mkem a vysoce vÃ½buÅ¡nou pastÃ­ umÃ­stÄ›nou na zÃ¡rubni dveÅ™Ã­.}
+{122}{}{VidÃ­Å¡ pevnÃ© dveÅ™e se zÃ¡mkem odemykatelnÃ½m pomocÃ­ paklÃ­ÄÅ¯ a pastÃ­ umÃ­stÄ›nou na zÃ¡rubni dveÅ™Ã­.}
+{123}{}{VidÃ­Å¡ pevnÃ© dveÅ™e se zÃ¡mkem a pastÃ­ umÃ­stÄ›nou na zÃ¡rubni dveÅ™Ã­.}
+{124}{}{VidÃ­Å¡ pevnÃ© dveÅ™e bez zjevnÃ©ho odemykacÃ­ho zaÅ™Ã­zenÃ­ a pastÃ­ umÃ­stÄ›nou na zÃ¡rubni dveÅ™Ã­.}
+{125}{}{VidÃ­Å¡ pevnÃ© dveÅ™e se starÃ½m a rezavÃ½m zÃ¡mkem a pastÃ­ umÃ­stÄ›nou na zÃ¡rubni dveÅ™Ã­.}
+{126}{}{VidÃ­Å¡ pevnÃ© dveÅ™e se zÃ¡mkem odemykatelnÃ½m pomocÃ­ paklÃ­ÄÅ¯ a kousek drÃ¡tku, kterÃ½ ÄouhÃ¡ ze zÃ¡rubnÄ› dveÅ™Ã­.}
+{127}{}{VidÃ­Å¡ pevnÃ© dveÅ™e se zÃ¡mkem a kousek drÃ¡tku, kterÃ½ ÄouhÃ¡ ze zÃ¡rubnÄ› dveÅ™Ã­.}
+{128}{}{VidÃ­Å¡ pevnÃ© dveÅ™e bez zjevnÃ©ho odemykacÃ­ho zaÅ™Ã­zenÃ­ a kousek drÃ¡tku, kterÃ½ ÄouhÃ¡ ze zÃ¡rubnÄ› dveÅ™Ã­.}
+{129}{}{VidÃ­Å¡ pevnÃ© dveÅ™e se starÃ½m, rezavÃ½m zÃ¡mkem a kousek drÃ¡tku, kterÃ½ ÄouhÃ¡ ze zÃ¡rubnÄ› dveÅ™Ã­.}
+{130}{}{VidÃ­Å¡ pevnÃ© dveÅ™e se zÃ¡mkem, kterÃ© mÅ¯Å¾eÅ¡ odemknout pomocÃ­ paklÃ­ÄÅ¯.}
+{131}{}{VidÃ­Å¡ pevnÃ© dveÅ™e se zÃ¡mkem.}
+{132}{}{VidÃ­Å¡ pevnÃ© dveÅ™e bez zjevnÃ©ho odemykacÃ­ho zaÅ™Ã­zenÃ­.}
+{133}{}{VidÃ­Å¡ pevnÃ© dveÅ™e se starÃ½m, rezavÃ½m zÃ¡mkem.}
+{134}{}{VidÃ­Å¡ poniÄenÃ© dveÅ™e se zÃ¡mkem, kterÃ© mÅ¯Å¾eÅ¡ odemknout pomocÃ­ paklÃ­ÄÅ¯, a vysoce vÃ½buÅ¡nou pastÃ­ umÃ­stÄ›nou na zÃ¡rubni dveÅ™Ã­.}
+{135}{}{VidÃ­Å¡ poniÄenÃ© dveÅ™e se zÃ¡mkem a vysoce vÃ½buÅ¡nou pastÃ­ umÃ­stÄ›nou na zÃ¡rubni dveÅ™Ã­.}
+{136}{}{VidÃ­Å¡ poniÄenÃ© dveÅ™e bez zjevnÃ©ho odemykacÃ­ho zaÅ™Ã­zenÃ­ a vysoce vÃ½buÅ¡nou pastÃ­ umÃ­stÄ›nou na zÃ¡rubni dveÅ™Ã­.}
+{137}{}{VidÃ­Å¡ poniÄenÃ© dveÅ™e se starÃ½m, rezavÃ½m zÃ¡mkem a vysoce vÃ½buÅ¡nou pastÃ­ umÃ­stÄ›nou na zÃ¡rubni dveÅ™Ã­.}
+{138}{}{VidÃ­Å¡ poniÄenÃ© dveÅ™e se zÃ¡mkem, kterÃ© mÅ¯Å¾eÅ¡ odemknout pomocÃ­ paklÃ­ÄÅ¯, a pastÃ­ umÃ­stÄ›nou na zÃ¡rubni dveÅ™Ã­.}
+{139}{}{VidÃ­Å¡ poniÄenÃ© dveÅ™e se zÃ¡mkem a pastÃ­ umÃ­stÄ›nou na zÃ¡rubni dveÅ™Ã­.}
+{140}{}{VidÃ­Å¡ poniÄenÃ© dveÅ™e bez zjevnÃ©ho odemykacÃ­ho zaÅ™Ã­zenÃ­ a pastÃ­ umÃ­stÄ›nou na zÃ¡rubni dveÅ™Ã­.}
+{141}{}{VidÃ­Å¡ poniÄenÃ© dveÅ™e se starÃ½m, rezavÃ½m zÃ¡mkem a pastÃ­ umÃ­stÄ›nou na zÃ¡rubni dveÅ™Ã­.}
+{142}{}{VidÃ­Å¡ poniÄenÃ© dveÅ™e se zÃ¡mkem, kterÃ© mÅ¯Å¾eÅ¡ odemknout pomocÃ­ paklÃ­ÄÅ¯, a kousek drÃ¡tku, kterÃ½ ÄouhÃ¡ ze zÃ¡rubnÄ› dveÅ™Ã­.}
+{143}{}{VidÃ­Å¡ poniÄenÃ© dveÅ™e se zÃ¡mkem a kousek drÃ¡tku, kterÃ½ ÄouhÃ¡ ze zÃ¡rubnÄ› dveÅ™Ã­.}
+{144}{}{VidÃ­Å¡ poniÄenÃ© dveÅ™e bez zjevnÃ©ho odemykacÃ­ho zaÅ™Ã­zenÃ­ a kousek drÃ¡tku, kterÃ½ ÄouhÃ¡ ze zÃ¡rubnÄ› dveÅ™Ã­.}
+{145}{}{VidÃ­Å¡ poniÄenÃ© dveÅ™e se starÃ½m, rezavÃ½m zÃ¡mkem a kousek drÃ¡tku, kterÃ½ ÄouhÃ¡ ze zÃ¡rubnÄ› dveÅ™Ã­.}
+{146}{}{VidÃ­Å¡ poniÄenÃ© dveÅ™e se zÃ¡mkem, kterÃ© mÅ¯Å¾eÅ¡ odemknout pomocÃ­ paklÃ­ÄÅ¯.}
+{147}{}{VidÃ­Å¡ poniÄenÃ© dveÅ™e se zÃ¡mkem.}
+{148}{}{VidÃ­Å¡ poniÄenÃ© dveÅ™e bez zjevnÃ©ho odemykacÃ­ho zaÅ™Ã­zenÃ­.}
+{149}{}{VidÃ­Å¡ poniÄenÃ© dveÅ™e se starÃ½m, rezavÃ½m zÃ¡mkem.}
+{150}{}{VidÃ­Å¡ starÃ© dveÅ™e se zÃ¡mkem, kterÃ© mÅ¯Å¾eÅ¡ odemknout pomocÃ­ paklÃ­ÄÅ¯, a vysoce vÃ½buÅ¡nou pastÃ­ umÃ­stÄ›nou na zÃ¡rubni dveÅ™Ã­.}
+{151}{}{VidÃ­Å¡ starÃ© dveÅ™e se zÃ¡mkem a vysoce vÃ½buÅ¡nou pastÃ­ umÃ­stÄ›nou na zÃ¡rubni dveÅ™Ã­.}
+{152}{}{VidÃ­Å¡ starÃ© dveÅ™e bez zjevnÃ©ho odemykacÃ­ho zaÅ™Ã­zenÃ­ a vysoce vÃ½buÅ¡nou pastÃ­ umÃ­stÄ›nou na zÃ¡rubni dveÅ™Ã­.}
+{153}{}{VidÃ­Å¡ starÃ© dveÅ™e se starÃ½m, rezavÃ½m zÃ¡mkem a vysoce vÃ½buÅ¡nou pastÃ­ umÃ­stÄ›nou na zÃ¡rubni dveÅ™Ã­.}
+{154}{}{VidÃ­Å¡ starÃ© dveÅ™e se zÃ¡mkem, kterÃ© mÅ¯Å¾eÅ¡ odemknout pomocÃ­ paklÃ­ÄÅ¯, a pastÃ­ umÃ­stÄ›nou na zÃ¡rubni dveÅ™Ã­.}
+{155}{}{VidÃ­Å¡ starÃ© dveÅ™e se zÃ¡mkem a pastÃ­ umÃ­stÄ›nou na zÃ¡rubni dveÅ™Ã­.}
+{156}{}{VidÃ­Å¡ starÃ© dveÅ™e bez zjevnÃ©ho odemykacÃ­ho zaÅ™Ã­zenÃ­ a pastÃ­ umÃ­stÄ›nou na zÃ¡rubni dveÅ™Ã­.}
+{157}{}{VidÃ­Å¡ starÃ© dveÅ™e se starÃ½m, rezavÃ½m zÃ¡mkem a pastÃ­ umÃ­stÄ›nou na zÃ¡rubni dveÅ™Ã­.}
+{158}{}{VidÃ­Å¡ starÃ© dveÅ™e se zÃ¡mkem, kterÃ© mÅ¯Å¾eÅ¡ odemknout pomocÃ­ paklÃ­ÄÅ¯, a kousek drÃ¡tku, kterÃ½ ÄouhÃ¡ ze zÃ¡rubnÄ› dveÅ™Ã­.}
+{159}{}{VidÃ­Å¡ starÃ© dveÅ™e se zÃ¡mkem a kousek drÃ¡tku, kterÃ½ ÄouhÃ¡ ze zÃ¡rubnÄ› dveÅ™Ã­.}
+{160}{}{VidÃ­Å¡ starÃ© dveÅ™e bez zjevnÃ©ho odemykacÃ­ho zaÅ™Ã­zenÃ­ a kousek drÃ¡tku, kterÃ½ ÄouhÃ¡ ze zÃ¡rubnÄ› dveÅ™Ã­.}
+{161}{}{VidÃ­Å¡ starÃ© dveÅ™e se starÃ½m, rezavÃ½m zÃ¡mkem a kousek drÃ¡tku, kterÃ½ ÄouhÃ¡ ze zÃ¡rubnÄ› dveÅ™Ã­.}
+{162}{}{VidÃ­Å¡ starÃ© dveÅ™e se zÃ¡mkem, kterÃ© mÅ¯Å¾eÅ¡ odemknout pomocÃ­ paklÃ­ÄÅ¯.}
+{163}{}{VidÃ­Å¡ starÃ© dveÅ™e se zÃ¡mkem.}
+{164}{}{VidÃ­Å¡ starÃ© dveÅ™e bez zjevnÃ©ho odemykacÃ­ho zaÅ™Ã­zenÃ­.}
+{165}{}{VidÃ­Å¡ starÃ© dveÅ™e se starÃ½m, rezavÃ½m zÃ¡mkem.}
+{166}{}{AktivujeÅ¡ past a ta tÄ› zasÃ¡hla za }
+{167}{}{ hit bodÅ¯.}
+{168}{}{ aktivuje past a byl zasaÅ¾en za }
+{169}{}{ hit bodÅ¯.}
+{170}{}{ÃšspÄ›Å¡nÄ› odemykÃ¡Å¡ zÃ¡mek na dveÅ™Ã­ch.}
+{171}{}{DÃ­ky svÃ© neÅ¡ikovnosti se zÃ¡mek dveÅ™Ã­ zasekl.}
+{172}{}{NepodaÅ™ilo se ti dveÅ™e odemknout.}
+{173}{}{ ÃºspÄ›Å¡nÄ› odemykÃ¡ zÃ¡mek dveÅ™Ã­.}
+{174}{}{ nezkuÅ¡enost zpÅ¯sobila zaseknutÃ­ zÃ¡mku dveÅ™Ã­.}
+{175}{}{ se nepodaÅ™ilo dveÅ™e zamknout.}
+{176}{}{PodaÅ™ilo se ti vypÃ¡Äit zÃ¡mek u dveÅ™Ã­.}
+{177}{}{PÅ™i pÃ¡ÄenÃ­ zÃ¡mku sis poranil zÃ¡da a to ti zpÅ¯sobilo jeden bod poÅ¡kozenÃ­.}
+{178}{}{PÅ™i pÃ¡ÄenÃ­ zÃ¡mku sis poranil zÃ¡da a to ti zpÅ¯sobilo poÅ¡kozenÃ­ za }
+{179}{}{ hit bodÅ¯.}
+{180}{}{Na vypÃ¡ÄenÃ­ tohoto zÃ¡mku nemÃ¡Å¡ dostateÄnou sÃ­lu.}
+{181}{}{ se podaÅ™ilo vypÃ¡Äit zÃ¡mek u dveÅ™Ã­.}
+{182}{}{ si poranil zÃ¡da, kdyÅ¾ se pokouÅ¡el vypÃ¡Äit zÃ¡mek, coÅ¾ mu zpÅ¯sobilo jeden bod poÅ¡kozenÃ­.}
+{183}{}{ si poranil zÃ¡da, kdyÅ¾ se pokouÅ¡el vypÃ¡Äit zÃ¡mek, coÅ¾ mu zpÅ¯sobilo poÅ¡kozenÃ­ za }
+{184}{}{ hit bodÅ¯.}
+{185}{}{ nemÃ¡ na vypÃ¡ÄenÃ­ zÃ¡mku dostateÄnou sÃ­lu.}
+{186}{}{ si poranila zÃ¡da, kdyÅ¾ se pokouÅ¡ela vypÃ¡Äit zÃ¡mek, coÅ¾ jÃ­ zpÅ¯sobilo jeden bod poÅ¡kozenÃ­.}
+{187}{}{ si poranila zÃ¡da, kdyÅ¾ se pokouÅ¡ela vypÃ¡Äit zÃ¡mek, coÅ¾ jÃ­ zpÅ¯sobilo poÅ¡kozenÃ­ za }
+{188}{}{ hit bodÅ¯.}
+{189}{}{ÃšspÄ›Å¡nÄ› zamykÃ¡Å¡ dveÅ™e.}
+{190}{}{NepodaÅ™ilo se ti zamknout dveÅ™e.}
+{191}{}{ ÃºspÄ›Å¡nÄ› zamykÃ¡ dveÅ™e.}
+{192}{}{ se nepodaÅ™ilo dveÅ™e zamknout.}
+{193}{}{VÃ½buch na tÄ›chto dveÅ™Ã­ch nezanechal ani Å¡krÃ¡bnutÃ­.}
+{194}{}{NachÃ¡zÃ­Å¡ na dveÅ™Ã­ch past.}
+{195}{}{NepodaÅ™ilo se ti na dveÅ™Ã­ch najÃ­t past.}
+{196}{}{ZkuÅ¡enÄ› odstraÅˆujeÅ¡ past.}
 {198}{}{Nepovedlo se ti odstranit past.}
-{199}{}{ nachází na dveøích past.}
-{200}{}{ se nepodaøilo najít na dveøích past.}
-{201}{}{ zkušenì odstraòuje past.}
-{202}{}{ se nepodaøilo zneškodnit past na dveøích.}
-{203}{}{Tyto dveøe se zdají bıt zamèené. Vypadá to, e místo klíèe vyadují nìjakou tenkou kartu.}
-{204}{}{Slyšíš praskání elektrickıch vıbojù ve dveøích.}
-{205}{}{ si všímá praskání elektrickıch vıbojù ve dveøích.}
-{206}{}{Na tyto dveøe nemùeš umístit past, protoe jsou otevøené.}
-{207}{}{ nemùe na tyto dveøe umístit past, protoe jsou otevøené.}
-{208}{}{Zkušenì umisuješ past na rám dveøí.}
-{209}{}{Nepodaøilo se ti umístit past na rám dveøí.}
-{210}{}{ zkušenì umisuje past na rám dveøí.}
-{211}{}{ se nepodaøilo umístit past na rám dveøí.}
-{300}{}{Odemykáš dveøe.}
-{301}{}{Zamykáš dveøe.}
-{302}{}{Nemùeš tyto dveøe zamknout, dokud jsou otevøené.}
-{303}{}{Tento klíè do zámku nepasuje.}
-{320}{}{Tyto dveøe nelze nijak zamknout.}
-{400}{}{Odemykáš dveøe.}
-{500}{}{Neexistuje ádnı zpùsob, jak zneškodnit past na tìchto dveøích.}
+{199}{}{ nachÃ¡zÃ­ na dveÅ™Ã­ch past.}
+{200}{}{ se nepodaÅ™ilo najÃ­t na dveÅ™Ã­ch past.}
+{201}{}{ zkuÅ¡enÄ› odstraÅˆuje past.}
+{202}{}{ se nepodaÅ™ilo zneÅ¡kodnit past na dveÅ™Ã­ch.}
+{203}{}{Tyto dveÅ™e se zdajÃ­ bÃ½t zamÄenÃ©. VypadÃ¡ to, Å¾e mÃ­sto klÃ­Äe vyÅ¾adujÃ­ nÄ›jakou tenkou kartu.}
+{204}{}{SlyÅ¡Ã­Å¡ praskÃ¡nÃ­ elektrickÃ½ch vÃ½bojÅ¯ ve dveÅ™Ã­ch.}
+{205}{}{ si vÅ¡Ã­mÃ¡ praskÃ¡nÃ­ elektrickÃ½ch vÃ½bojÅ¯ ve dveÅ™Ã­ch.}
+{206}{}{Na tyto dveÅ™e nemÅ¯Å¾eÅ¡ umÃ­stit past, protoÅ¾e jsou otevÅ™enÃ©.}
+{207}{}{ nemÅ¯Å¾e na tyto dveÅ™e umÃ­stit past, protoÅ¾e jsou otevÅ™enÃ©.}
+{208}{}{ZkuÅ¡enÄ› umisÅ¥ujeÅ¡ past na rÃ¡m dveÅ™Ã­.}
+{209}{}{NepodaÅ™ilo se ti umÃ­stit past na rÃ¡m dveÅ™Ã­.}
+{210}{}{ zkuÅ¡enÄ› umisÅ¥uje past na rÃ¡m dveÅ™Ã­.}
+{211}{}{ se nepodaÅ™ilo umÃ­stit past na rÃ¡m dveÅ™Ã­.}
+{300}{}{OdemykÃ¡Å¡ dveÅ™e.}
+{301}{}{ZamykÃ¡Å¡ dveÅ™e.}
+{302}{}{NemÅ¯Å¾eÅ¡ tyto dveÅ™e zamknout, dokud jsou otevÅ™enÃ©.}
+{303}{}{Tento klÃ­Ä do zÃ¡mku nepasuje.}
+{320}{}{Tyto dveÅ™e nelze nijak zamknout.}
+{400}{}{OdemykÃ¡Å¡ dveÅ™e.}
+{500}{}{Neexistuje Å¾Ã¡dnÃ½ zpÅ¯sob, jak zneÅ¡kodnit past na tÄ›chto dveÅ™Ã­ch.}

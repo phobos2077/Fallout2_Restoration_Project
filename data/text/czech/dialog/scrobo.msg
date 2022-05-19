@@ -1,48 +1,48 @@
-{100}{}{Vidíš cosi mezi psem a napùl kovovou vìcí. Zdá se, e je to v provozu.}
-{101}{}{Je to RoboPes! Nejoblíbenìjší mazlíèek všech lidí!}
-{102}{}{Buï je tahle vìc nìjaká hrùznì sešitá kombinace psa a stroje, nebo je to stroj, kterı je k nerozeznání od skuteèného psa. Tìko øíct.}
-{103}{}{Òaf! <cvak> Haf!}
+{100}{}{VidÃ­Å¡ cosi mezi psem a napÅ¯l kovovou vÄ›cÃ­. ZdÃ¡ se, Å¾e je to v provozu.}
+{101}{}{Je to RoboPes! NejoblÃ­benÄ›jÅ¡Ã­ mazlÃ­Äek vÅ¡ech lidÃ­!}
+{102}{}{BuÄ je tahle vÄ›c nÄ›jakÃ¡ hrÅ¯znÄ› seÅ¡itÃ¡ kombinace psa a stroje, nebo je to stroj, kterÃ½ je k nerozeznÃ¡nÃ­ od skuteÄnÃ©ho psa. TÄ›Å¾ko Å™Ã­ct.}
+{103}{}{Å‡af! <cvak> Haf!}
 {104}{}{...bzzzzzz...}
-{105}{}{.bzíík... Já nejsem pejsánek.}
+{105}{}{.bzÃ­Ã­k... JÃ¡ nejsem pejsÃ¡nek.}
 {106}{}{Vrrrrrrrrrrrrrrrr...}
 {107}{}{Haf! Ha-ha-ha-<klapk>haaf.}
-{108}{}{<škrr> Mòau... chyba.}
-{109}{}{Štìkštìkštìkštìkštìkštìk!}
+{108}{}{<Å¡krr> MÅˆau... chyba.}
+{109}{}{Å tÄ›kÅ¡tÄ›kÅ¡tÄ›kÅ¡tÄ›kÅ¡tÄ›kÅ¡tÄ›k!}
 {110}{}{Vrrr...}
-{111}{}{Ha-ùùùù! <click-click> Ha-ùùùù!}
+{111}{}{Ha-Å¯Å¯Å¯Å¯! <click-click> Ha-Å¯Å¯Å¯Å¯!}
 {112}{}{Jejda! Jejda! Jejda!}
-{113}{}{Nebezpeèí! Nebezpeèí!}
-{114}{}{Vrraf! <uk-uk-uk> Vrraf!}
-{115}{}{<whirrr> Ani pták, ani letadlo, dokonce ani ába, jenom starı dobrı - RoboPes!<klap>}
+{113}{}{NebezpeÄÃ­! NebezpeÄÃ­!}
+{114}{}{Vrraf! <Å¥uk-Å¥uk-Å¥uk> Vrraf!}
+{115}{}{<whirrr> Ani ptÃ¡k, ani letadlo, dokonce ani Å¾Ã¡ba, jenom starÃ½ dobrÃ½ - RoboPes!<klap>}
 {116}{}{Rooby-Doo!}
-{117}{}{Eé-béé-déé-béé-éé-béé-déé-béé!}
+{117}{}{EÃ©-bÃ©Ã©-dÃ©Ã©-bÃ©Ã©-Ã©Ã©-bÃ©Ã©-dÃ©Ã©-bÃ©Ã©!}
 {118}{}{Haf!}
 {119}{}{VRRR-HAF!}
-{120}{}{Òaf-òaf-òaf-òaf-òaf-òaf-òaf!}
+{120}{}{Å‡af-Åˆaf-Åˆaf-Åˆaf-Åˆaf-Åˆaf-Åˆaf!}
 {121}{}{OK}
-{122}{}{Myslím, e se k tobì ještì nechci pøidat. Sbohem.}
-{123}{}{Vrraf? <klap> Òaf?}
-{124}{}{Jak se máš?}
-{125}{}{Potøebuju, abys tu poèkal, ne se vrátím.}
-{126}{}{To bude prozatím všechno.}
-{127}{}{<klap> kòuèí.}
-{128}{}{Zapomeò na to.}
+{122}{}{MyslÃ­m, Å¾e se k tobÄ› jeÅ¡tÄ› nechci pÅ™idat. Sbohem.}
+{123}{}{Vrraf? <klap> Å‡af?}
+{124}{}{Jak se mÃ¡Å¡?}
+{125}{}{PotÅ™ebuju, abys tu poÄkal, neÅ¾ se vrÃ¡tÃ­m.}
+{126}{}{To bude prozatÃ­m vÅ¡echno.}
+{127}{}{<klap> kÅˆuÄÃ­.}
+{128}{}{ZapomeÅˆ na to.}
 {129}{}{OK}
 {130}{}{HB:}
-{131}{}{Kyberpes u nejde víc opravit.}
-{132}{}{Kyberpes byl èásteènì opraven.}
+{131}{}{Kyberpes uÅ¾ nejde vÃ­c opravit.}
+{132}{}{Kyberpes byl ÄÃ¡steÄnÄ› opraven.}
 {133}{}{Kyberpes byl zcela opraven.}
 {1000}{}{Haf! Ha-ha-ha-<klap>haaf?}
-{1100}{}{Òaf! <cvak> Haf!}
-{1200}{}{Vrraf? <klap> Òaf?}
-{1300}{}{<cvak> kòuèí.}
-{1400}{}{Ha-ùùùù! <click-click> Ha-ùùùù!}
-{1500}{}{Eé-béé-déé-béé-éé-béé-déé-béé!}
-{1600}{}{Jistì, dám to pryè.}
-{1700}{}{Haf-haf vzdálenost nastavena blízká.}
-{1800}{}{Haf-haf vzdálenost nastavena støední.}
-{1900}{}{Haf-haf vzdálenost nastavena velká.}
-{2000}{}{.bzíík... Já nejsem pejsánek.}
+{1100}{}{Å‡af! <cvak> Haf!}
+{1200}{}{Vrraf? <klap> Å‡af?}
+{1300}{}{<cvak> kÅˆuÄÃ­.}
+{1400}{}{Ha-Å¯Å¯Å¯Å¯! <click-click> Ha-Å¯Å¯Å¯Å¯!}
+{1500}{}{EÃ©-bÃ©Ã©-dÃ©Ã©-bÃ©Ã©-Ã©Ã©-bÃ©Ã©-dÃ©Ã©-bÃ©Ã©!}
+{1600}{}{JistÄ›, dÃ¡m to pryÄ.}
+{1700}{}{Haf-haf vzdÃ¡lenost nastavena blÃ­zkÃ¡.}
+{1800}{}{Haf-haf vzdÃ¡lenost nastavena stÅ™ednÃ­.}
+{1900}{}{Haf-haf vzdÃ¡lenost nastavena velkÃ¡.}
+{2000}{}{.bzÃ­Ã­k... JÃ¡ nejsem pejsÃ¡nek.}
 {2100}{}{VRRR-HAF!}
 {2200}{}{Haf! Ha-ha-ha-<klap>haaf?}
-{2204}{}{Tvoje vzdálenost je momentálnì vyhovující.}
+{2204}{}{Tvoje vzdÃ¡lenost je momentÃ¡lnÄ› vyhovujÃ­cÃ­.}

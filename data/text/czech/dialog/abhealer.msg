@@ -1,39 +1,39 @@
-{100}{}{Vidíš Jacka, doktora z Opatství.}
-{101}{}{Na rameni má èervenı køí.}
-{200}{}{Mluv, pokud máš nìjaká zranìní.}
-{300}{}{Jak ti s tím mùu pomoct?}
-{301}{}{Mám zranìní, mùeš mì vyléèit?}
-{302}{}{[Zaèít slintat]}
-{303}{}{Co dìláš tady v Opatství?}
+{100}{}{VidÃ­Å¡ Jacka, doktora z OpatstvÃ­.}
+{101}{}{Na rameni mÃ¡ ÄervenÃ½ kÅ™Ã­Å¾.}
+{200}{}{Mluv, pokud mÃ¡Å¡ nÄ›jakÃ¡ zranÄ›nÃ­.}
+{300}{}{Jak ti s tÃ­m mÅ¯Å¾u pomoct?}
+{301}{}{MÃ¡m zranÄ›nÃ­, mÅ¯Å¾eÅ¡ mÄ› vylÃ©Äit?}
+{302}{}{[ZaÄÃ­t slintat]}
+{303}{}{Co dÄ›lÃ¡Å¡ tady v OpatstvÃ­?}
 {304}{}{Nashle.}
 {400}{}{Hotovo!}
-{401}{}{Díky.}
-{402}{}{Pøestaò s tím!}
-{403}{}{[Pokraèovat]}
-{404}{}{[Odejít]}
-{405}{}{PØESTAÒ! PØESTAÒ! PØESTAÒ!}
-{406}{}{[Pokraèovat]}
-{407}{}{[Pøestat]}
-{408}{}{(Znièeho nic se Jack zaèíná rozpouštìt.) Já se rozpouštím, já se rozpouštím, co je to za svìt...}
+{401}{}{DÃ­ky.}
+{402}{}{PÅ™estaÅˆ s tÃ­m!}
+{403}{}{[PokraÄovat]}
+{404}{}{[OdejÃ­t]}
+{405}{}{PÅ˜ESTAÅ‡! PÅ˜ESTAÅ‡! PÅ˜ESTAÅ‡!}
+{406}{}{[PokraÄovat]}
+{407}{}{[PÅ™estat]}
+{408}{}{(ZniÄeho nic se Jack zaÄÃ­nÃ¡ rozpouÅ¡tÄ›t.) JÃ¡ se rozpouÅ¡tÃ­m, jÃ¡ se rozpouÅ¡tÃ­m, co je to za svÄ›t...}
 {409}{}{Co to kur...}
-{500}{}{Hej, pøestaò mi krást moje vìci!}
-{501}{}{Získáváš 200 zkušenostních bodù za rozpuštìní Jacka. U jsi spokojenı, ty úchylnı hovado?!}
-{600}{}{Jsem zdejší doktor. O lidi v Opatství se starám u asi, eh, patnáct let.}
-{601}{}{Aha. To jsi mìl urèitì hodnì èasu studovat všechny ty pøedváleèné, lékaøské knihy ve zdejší knihovnì. Musíš mít úasné znalosti medicíny.}
-{602}{}{Kde jsi pøišel ke všemu tomu lékaøskému vybavení?}
-{603}{}{Zajímavé. Myslím, e u pùjdu.}
-{604}{}{(Zamraèí se.) Povauji se za dobrého doktora, ale za to nevdìèím tìm knihám, jeliko mi ani nedovolí... zapomeò na to, nechci o tom mluvit. Mùj otec byl doktor, take mi pøedal všechny svoje vìdomosti.}
-{605}{}{Aha, chápu.}
-{700}{}{Nìco jsem dostal od svého otce, zbytek vybavení byl tady v Opatství.}
-{701}{}{Zajímavé. Nashle.}
-{702}{}{Mohl bys mi dát nìco z tvıch zásob? Vypadá to, e toho máš víc, ne kdy vyuiješ.}
-{703}{}{Chceš, abych ti je jen tak *dal*? Proè myslíš, e si je zaslouíš víc ne lidé z Opatství?}
-{704}{}{Protoe jsem èasto zranìnı... vánì zranìnı.}
-{705}{}{Mım svatım posláním je najít GECK, neboli "Soupravu k vytvoøení rajské zahrady." Víš, potøebuju ho k záchranì své vesnice a všichni mí lidé zemøou, jestli ho nenajdu vèas. A tví lidé, na druhou stranu, vypadají, e ijí mírumilovnı ivot a nepotøebují tolik zdravotnickıch potøeb. Nechci moc, i malé mnoství by mi moc pomohlo.}
-{706}{}{(Popøemıšlí nad tím, co jsi právì øekl a poté kıvne.) Máš pravdu. Dám ti nìjaké pøebyteèné vybavení. Asi ho budeš potøebovat. Tady máš. (Podá ti je.) Hodnì štìstí, poutníku.}
-{707}{}{Dìkuju ti, Jacku. Jsi skuteènı zachránce pustiny. Nashle.}
-{708}{}{V tom pøípade by ses moná mìl nauèit bıt opatrnìjší. Promiò, nedám nikomu zdravotnické vybavení Opatství jen tak.}
+{500}{}{Hej, pÅ™estaÅˆ mi krÃ¡st moje vÄ›ci!}
+{501}{}{ZÃ­skÃ¡vÃ¡Å¡ 200 zkuÅ¡enostnÃ­ch bodÅ¯ za rozpuÅ¡tÄ›nÃ­ Jacka. UÅ¾ jsi spokojenÃ½, ty ÃºchylnÃ½ hovado?!}
+{600}{}{Jsem zdejÅ¡Ã­ doktor. O lidi v OpatstvÃ­ se starÃ¡m uÅ¾ asi, eh, patnÃ¡ct let.}
+{601}{}{Aha. To jsi mÄ›l urÄitÄ› hodnÄ› Äasu studovat vÅ¡echny ty pÅ™edvÃ¡leÄnÃ©, lÃ©kaÅ™skÃ© knihy ve zdejÅ¡Ã­ knihovnÄ›. MusÃ­Å¡ mÃ­t ÃºÅ¾asnÃ© znalosti medicÃ­ny.}
+{602}{}{Kde jsi pÅ™iÅ¡el ke vÅ¡emu tomu lÃ©kaÅ™skÃ©mu vybavenÃ­?}
+{603}{}{ZajÃ­mavÃ©. MyslÃ­m, Å¾e uÅ¾ pÅ¯jdu.}
+{604}{}{(ZamraÄÃ­ se.) PovaÅ¾uji se za dobrÃ©ho doktora, ale za to nevdÄ›ÄÃ­m tÄ›m knihÃ¡m, jelikoÅ¾ mi ani nedovolÃ­... zapomeÅˆ na to, nechci o tom mluvit. MÅ¯j otec byl doktor, takÅ¾e mi pÅ™edal vÅ¡echny svoje vÄ›domosti.}
+{605}{}{Aha, chÃ¡pu.}
+{700}{}{NÄ›co jsem dostal od svÃ©ho otce, zbytek vybavenÃ­ byl tady v OpatstvÃ­.}
+{701}{}{ZajÃ­mavÃ©. Nashle.}
+{702}{}{Mohl bys mi dÃ¡t nÄ›co z tvÃ½ch zÃ¡sob? VypadÃ¡ to, Å¾e toho mÃ¡Å¡ vÃ­c, neÅ¾ kdy vyuÅ¾ijeÅ¡.}
+{703}{}{ChceÅ¡, abych ti je jen tak *dal*? ProÄ myslÃ­Å¡, Å¾e si je zaslouÅ¾Ã­Å¡ vÃ­c neÅ¾ lidÃ© z OpatstvÃ­?}
+{704}{}{ProtoÅ¾e jsem Äasto zranÄ›nÃ½... vÃ¡Å¾nÄ› zranÄ›nÃ½.}
+{705}{}{MÃ½m svatÃ½m poslÃ¡nÃ­m je najÃ­t GECK, neboli "Soupravu k vytvoÅ™enÃ­ rajskÃ© zahrady." VÃ­Å¡, potÅ™ebuju ho k zÃ¡chranÄ› svÃ© vesnice a vÅ¡ichni mÃ­ lidÃ© zemÅ™ou, jestli ho nenajdu vÄas. A tvÃ­ lidÃ©, na druhou stranu, vypadajÃ­, Å¾e Å¾ijÃ­ mÃ­rumilovnÃ½ Å¾ivot a nepotÅ™ebujÃ­ tolik zdravotnickÃ½ch potÅ™eb. Nechci moc, i malÃ© mnoÅ¾stvÃ­ by mi moc pomohlo.}
+{706}{}{(PopÅ™emÃ½Å¡lÃ­ nad tÃ­m, co jsi prÃ¡vÄ› Å™ekl a potÃ© kÃ½vne.) MÃ¡Å¡ pravdu. DÃ¡m ti nÄ›jakÃ© pÅ™ebyteÄnÃ© vybavenÃ­. Asi ho budeÅ¡ potÅ™ebovat. Tady mÃ¡Å¡. (PodÃ¡ ti je.) HodnÄ› Å¡tÄ›stÃ­, poutnÃ­ku.}
+{707}{}{DÄ›kuju ti, Jacku. Jsi skuteÄnÃ½ zachrÃ¡nce pustiny. Nashle.}
+{708}{}{V tom pÅ™Ã­pade by ses moÅ¾nÃ¡ mÄ›l nauÄit bÃ½t opatrnÄ›jÅ¡Ã­. PromiÅˆ, nedÃ¡m nikomu zdravotnickÃ© vybavenÃ­ OpatstvÃ­ jen tak.}
 {709}{}{Fajn, SBOHEM.}
-{800}{}{Momentálnì s tebou nemùu mluvit.}
-{801}{}{Promiò, ale zrovna nìco dìlám. Pøijï pozdìji.}
-{802}{}{Zdravím.}
+{800}{}{MomentÃ¡lnÄ› s tebou nemÅ¯Å¾u mluvit.}
+{801}{}{PromiÅˆ, ale zrovna nÄ›co dÄ›lÃ¡m. PÅ™ijÄ pozdÄ›ji.}
+{802}{}{ZdravÃ­m.}

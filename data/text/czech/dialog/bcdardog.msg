@@ -1,3 +1,3 @@
-{100}{}{Vidíš psa.}
-{101}{}{Vidíš Darionova psa.}
-{102}{}{Vidíš zvíøe se spoustou chlupù a ètyøma nohama. Kdyby se mohlo zlovìstnì šklebit, tak pøísaháš, e pøesnì to právì dìlá.}
+{100}{}{VidÃ­Å¡ psa.}
+{101}{}{VidÃ­Å¡ Darionova psa.}
+{102}{}{VidÃ­Å¡ zvÃ­Å™e se spoustou chlupÅ¯ a ÄtyÅ™ma nohama. Kdyby se mohlo zlovÄ›stnÄ› Å¡klebit, tak pÅ™Ã­sahÃ¡Å¡, Å¾e pÅ™esnÄ› to prÃ¡vÄ› dÄ›lÃ¡.}

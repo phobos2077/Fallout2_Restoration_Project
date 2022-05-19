@@ -1,2 +1,2 @@
-{100}{}{Zakopáváš o nástranı drát a spouštíš past.}
-{101}{}{ zakopává o nástranı drát a spouští past.}
+{100}{}{ZakopÃ¡vÃ¡Å¡ o nÃ¡straÅ¾nÃ½ drÃ¡t a spouÅ¡tÃ­Å¡ past.}
+{101}{}{ zakopÃ¡vÃ¡ o nÃ¡straÅ¾nÃ½ drÃ¡t a spouÅ¡tÃ­ past.}

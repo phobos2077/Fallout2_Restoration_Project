@@ -1,3 +1,3 @@
-{100}{}{Vidíš starı deník.}
-{101}{}{Zdá se, e patøil mladé dívce. Nápis uvnitø vazby øíká: "Majetek Anny." Vìtšina stránek je buï potrhaná nebo vybledlá, ale jedna se dá stále pøeèíst. "Den 271: Dnes mi má matka dala zlatı pøívìsek. Je to ta nejkrásnìjší vìc, kterou jsem kdy mìla. Nikdy se s ním nerozlouèím."}
-{102}{}{Tento starı deník je pøíliš køehkı na to, aby se dal dùkladnì prozkoumat.}
+{100}{}{VidÃ­Å¡ starÃ½ denÃ­k.}
+{101}{}{ZdÃ¡ se, Å¾e patÅ™il mladÃ© dÃ­vce. NÃ¡pis uvnitÅ™ vazby Å™Ã­kÃ¡: "Majetek Anny." VÄ›tÅ¡ina strÃ¡nek je buÄ potrhanÃ¡ nebo vybledlÃ¡, ale jedna se dÃ¡ stÃ¡le pÅ™eÄÃ­st. "Den 271: Dnes mi mÃ¡ matka dala zlatÃ½ pÅ™Ã­vÄ›sek. Je to ta nejkrÃ¡snÄ›jÅ¡Ã­ vÄ›c, kterou jsem kdy mÄ›la. Nikdy se s nÃ­m nerozlouÄÃ­m."}
+{102}{}{Tento starÃ½ denÃ­k je pÅ™Ã­liÅ¡ kÅ™ehkÃ½ na to, aby se dal dÅ¯kladnÄ› prozkoumat.}

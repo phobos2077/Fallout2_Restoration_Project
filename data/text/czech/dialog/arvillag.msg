@@ -1,1 +1,1 @@
-{100}{}{Jsi opìt ve své rodné vesnici Arroyo.}
+{100}{}{Jsi opÄ›t ve svÃ© rodnÃ© vesnici Arroyo.}

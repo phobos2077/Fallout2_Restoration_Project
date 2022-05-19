@@ -1,8 +1,8 @@
-{103}{}{Tento robot nemá zájem s tebou komunikovat.}
-{104}{}{Tento robot je asi deaktivován.}
-{105}{}{Pozor! Vetøelec! Pozor! Vetøelec! }
-{106}{}{Znièit cíl!}
-{107}{}{Chyba v bìhu bezpeènostního systému!}
-{108}{}{Systémová chyba!}
-{150}{}{Zdá se, e se ti podaøilo robota vyøadit.}
-{151}{}{Zdá se, e se ti podaøilo robota opravit.}
+{103}{}{Tento robot nemÃ¡ zÃ¡jem s tebou komunikovat.}
+{104}{}{Tento robot je asi deaktivovÃ¡n.}
+{105}{}{Pozor! VetÅ™elec! Pozor! VetÅ™elec! }
+{106}{}{ZniÄit cÃ­l!}
+{107}{}{Chyba v bÄ›hu bezpeÄnostnÃ­ho systÃ©mu!}
+{108}{}{SystÃ©movÃ¡ chyba!}
+{150}{}{ZdÃ¡ se, Å¾e se ti podaÅ™ilo robota vyÅ™adit.}
+{151}{}{ZdÃ¡ se, Å¾e se ti podaÅ™ilo robota opravit.}

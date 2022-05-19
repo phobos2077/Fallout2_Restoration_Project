@@ -1,48 +1,48 @@
-{100}{}{Vidíš Obèana ve svìtlemodrém obleèení. Vypadá to jako kombinéza Zakladatele, ale na zádech nemá ádné èíslo.}
-{101}{}{Vidíš úøedníka Holdena.}
-{102}{}{Vidíš Obèana ve svìtlemodrém obleèení. Vypadá to jako kombinéza Zakladatele, ale na zádech nemá ádné èíslo.}
+{100}{}{VidÃ­Å¡ ObÄana ve svÄ›tlemodrÃ©m obleÄenÃ­. VypadÃ¡ to jako kombinÃ©za Zakladatele, ale na zÃ¡dech nemÃ¡ Å¾Ã¡dnÃ© ÄÃ­slo.}
+{101}{}{VidÃ­Å¡ ÃºÅ™ednÃ­ka Holdena.}
+{102}{}{VidÃ­Å¡ ObÄana ve svÄ›tlemodrÃ©m obleÄenÃ­. VypadÃ¡ to jako kombinÃ©za Zakladatele, ale na zÃ¡dech nemÃ¡ Å¾Ã¡dnÃ© ÄÃ­slo.}
 {103}{}{::tlesk::}
-{104}{}{To je ten hrdina! Podívejte!}
-{105}{}{Na mou duši! To je ten hrdina, pøímo tady ve Vault City!}
-{106}{}{Dobrı den, Kapitáne.}
-{107}{}{Vault City vdy zvítìzí, Kapitáne.}
-{108}{}{Zdravíèko, Obèane.}
-{109}{}{Vault City vdy zvítìzí, Obèane.}
-{110}{}{Mutant! Stráe! Stráe!}
-{111}{}{Ghoul! Stráe! Stráe!}
-{112}{}{Ááá podívejme... tøi Stimpaky, jedna krabièka Rad-X...}
-{113}{}{Musím ještì sepsat seznam vìcí pro Randala.}
-{114}{}{Take: musím se podívat na zásoby, sepsat seznam vìcí, zkontrolovat ho, a nakonec ještì nahrát do systému...}
-{115}{}{Musím nìkde sehnat víc souprav první pomoci...}
-{119}{}{Promiòte, ale obchod je veèer zavøenı.}
-{120}{}{Pøijïte prosím ráno. Dìkuji.}
-{121}{}{Zrovna pøebírám inventáø. Budeme otevírat ráno.}
-{122}{}{Mohu vám pomoci, Kapitáne?}
-{123}{}{Mohu vám pomoci, Obèane?}
-{124}{}{Ano, co potøebujete?}
-{125}{}{Moc já ti pomoc}
+{104}{}{To je ten hrdina! PodÃ­vejte!}
+{105}{}{Na mou duÅ¡i! To je ten hrdina, pÅ™Ã­mo tady ve Vault City!}
+{106}{}{DobrÃ½ den, KapitÃ¡ne.}
+{107}{}{Vault City vÅ¾dy zvÃ­tÄ›zÃ­, KapitÃ¡ne.}
+{108}{}{ZdravÃ­Äko, ObÄane.}
+{109}{}{Vault City vÅ¾dy zvÃ­tÄ›zÃ­, ObÄane.}
+{110}{}{Mutant! StrÃ¡Å¾e! StrÃ¡Å¾e!}
+{111}{}{Ghoul! StrÃ¡Å¾e! StrÃ¡Å¾e!}
+{112}{}{ÃÃ¡Ã¡ podÃ­vejme... tÅ™i Stimpaky, jedna krabiÄka Rad-X...}
+{113}{}{MusÃ­m jeÅ¡tÄ› sepsat seznam vÄ›cÃ­ pro Randala.}
+{114}{}{TakÅ¾e: musÃ­m se podÃ­vat na zÃ¡soby, sepsat seznam vÄ›cÃ­, zkontrolovat ho, a nakonec jeÅ¡tÄ› nahrÃ¡t do systÃ©mu...}
+{115}{}{MusÃ­m nÄ›kde sehnat vÃ­c souprav prvnÃ­ pomoci...}
+{119}{}{PromiÅˆte, ale obchod je veÄer zavÅ™enÃ½.}
+{120}{}{PÅ™ijÄte prosÃ­m rÃ¡no. DÄ›kuji.}
+{121}{}{Zrovna pÅ™ebÃ­rÃ¡m inventÃ¡Å™. Budeme otevÃ­rat rÃ¡no.}
+{122}{}{Mohu vÃ¡m pomoci, KapitÃ¡ne?}
+{123}{}{Mohu vÃ¡m pomoci, ObÄane?}
+{124}{}{Ano, co potÅ™ebujete?}
+{125}{}{Moc jÃ¡ ti pomoc}
 {126}{}{Odbelhat se.}
-{127}{}{Co je tohle za místo?}
-{128}{}{Mùu vidìt, co máš na skladì?}
-{129}{}{Dnes nic, díky.}
-{130}{}{Úasné, další venkovan... stráe! Mám tu venkovana, kterı musí bıt eskortován za bránu! Stráe!}
-{131}{}{NEMÍT RÁD STRÁŠ. TY ZEMØÍT}
-{132}{}{*Ach jo* Já JÍT se stráší}
-{133}{}{Pøíštì radìji zkuste obchod na Pøedmìstí. Tam mají všechno potøebné pro... venkovany.}
-{134}{}{Eh, díky.}
-{135}{}{Budu si obchodovat kde chci, jasné?}
-{136}{}{Dìkuji. Vault City vdy zvítìzí, Obèane.}
-{137}{}{Dìkuji. Vault City vdy zvítìzí, Kapitáne.}
-{138}{}{Vault City vdy zvítìzí, Obèane.}
-{139}{}{Zdravíèko, Obèane.}
-{140}{}{Tohle? Tohle je koloniál B, kterı má na starosti skladování a distribuci lékù ve Vault City. Jsem úøedník Holden. Mohu vám s nìèím pomoci, Obèane?}
-{141}{}{Tohle je koloniál B... staráme se o distribuci léèiv ve Vault City. Hledáte snad nìco jiného?}
-{142}{}{Mùu vidìt, co máš na skladì?}
-{143}{}{Ne, tohle je pøesnì to, co hledám. Mùu vidìt co máte na skladì?}
-{144}{}{Dnes nic, díky.}
+{127}{}{Co je tohle za mÃ­sto?}
+{128}{}{MÅ¯Å¾u vidÄ›t, co mÃ¡Å¡ na skladÄ›?}
+{129}{}{Dnes nic, dÃ­ky.}
+{130}{}{ÃšÅ¾asnÃ©, dalÅ¡Ã­ venkovan... strÃ¡Å¾e! MÃ¡m tu venkovana, kterÃ½ musÃ­ bÃ½t eskortovÃ¡n za brÃ¡nu! StrÃ¡Å¾e!}
+{131}{}{NEMÃT RÃD STRÃÅ . TY ZEMÅ˜ÃT}
+{132}{}{*Ach jo* JÃ¡ JÃT se strÃ¡Å¡Ã­}
+{133}{}{PÅ™Ã­Å¡tÄ› radÄ›ji zkuste obchod na PÅ™edmÄ›stÃ­. Tam majÃ­ vÅ¡echno potÅ™ebnÃ© pro... venkovany.}
+{134}{}{Eh, dÃ­ky.}
+{135}{}{Budu si obchodovat kde chci, jasnÃ©?}
+{136}{}{DÄ›kuji. Vault City vÅ¾dy zvÃ­tÄ›zÃ­, ObÄane.}
+{137}{}{DÄ›kuji. Vault City vÅ¾dy zvÃ­tÄ›zÃ­, KapitÃ¡ne.}
+{138}{}{Vault City vÅ¾dy zvÃ­tÄ›zÃ­, ObÄane.}
+{139}{}{ZdravÃ­Äko, ObÄane.}
+{140}{}{Tohle? Tohle je koloniÃ¡l B, kterÃ½ mÃ¡ na starosti skladovÃ¡nÃ­ a distribuci lÃ©kÅ¯ ve Vault City. Jsem ÃºÅ™ednÃ­k Holden. Mohu vÃ¡m s nÄ›ÄÃ­m pomoci, ObÄane?}
+{141}{}{Tohle je koloniÃ¡l B... starÃ¡me se o distribuci lÃ©Äiv ve Vault City. HledÃ¡te snad nÄ›co jinÃ©ho?}
+{142}{}{MÅ¯Å¾u vidÄ›t, co mÃ¡Å¡ na skladÄ›?}
+{143}{}{Ne, tohle je pÅ™esnÄ› to, co hledÃ¡m. MÅ¯Å¾u vidÄ›t co mÃ¡te na skladÄ›?}
+{144}{}{Dnes nic, dÃ­ky.}
 {145}{}{Asi ano. Sbohem.}
-{150}{}{Tohle? Tohle je koloniál B, kterı ma na starosti skladování a distribuci léèiv ve Vault City. Jsem úøedník Holden. Mohu vám s nìèím pomoci, kapitáne?}
+{150}{}{Tohle? Tohle je koloniÃ¡l B, kterÃ½ ma na starosti skladovÃ¡nÃ­ a distribuci lÃ©Äiv ve Vault City. Jsem ÃºÅ™ednÃ­k Holden. Mohu vÃ¡m s nÄ›ÄÃ­m pomoci, kapitÃ¡ne?}
 {151}{}{Hej! Nesahejte na to!}
-{152}{}{Tak a dost! Vypadnìte odsud!}
-{153}{}{Díky.}
-{154}{}{[Pokraèovat]}
+{152}{}{Tak a dost! VypadnÄ›te odsud!}
+{153}{}{DÃ­ky.}
+{154}{}{[PokraÄovat]}

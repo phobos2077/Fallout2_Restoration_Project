@@ -1,67 +1,67 @@
-{100}{}{Vidíš mìstskou studnu Broken Hills.}
-{101}{}{Mìstská studna je postavena ze starıch rozbitıch cihel. Vychází z ní zatuchlı zápach.}
-{102}{}{Pøi vzpomínce na Typhona, kterı mluvil o tom, e ukryl poklad nìkde na "nepostradatelném" a "nezøíceném" místì, si poøádnì prohlédneš starou studnu. Uvnitø si všimneš cihly, která vyènívá z obloení.}
-{103}{}{Ahojky! Pokládku!}
-{104}{}{Cink-cink! Budu boháè!}
-{105}{}{Lehce vytáhneš vyènívající cihlu ze zdi a upøenì pohlédneš do temnoty na svou koøist.}
-{106}{}{Kde penízky?}
-{107}{}{Hmm... moc tam toho nevidím.}
-{108}{}{Zahodíš kousek cihly, aby se ti uvolnily ruce.}
-{109}{}{Jupíííí! Penízky.}
-{110}{}{Haha! Tak jo. Je naèase vybrat poklad!}
-{111}{}{Náhle se z otvoru ve studni zjeví velikı pytel s pøipevnìnım provazem, kterı padá do temnoty. Byl jsi pøíliš nedoèkavı a nevšiml sis, e ta cihla, kterou jsi zahodil, byla pøivázána provazem k samotnému pokladu.}
+{100}{}{VidÃ­Å¡ mÄ›stskou studnu Broken Hills.}
+{101}{}{MÄ›stskÃ¡ studna je postavena ze starÃ½ch rozbitÃ½ch cihel. VychÃ¡zÃ­ z nÃ­ zatuchlÃ½ zÃ¡pach.}
+{102}{}{PÅ™i vzpomÃ­nce na Typhona, kterÃ½ mluvil o tom, Å¾e ukryl poklad nÄ›kde na "nepostradatelnÃ©m" a "nezÅ™Ã­cenÃ©m" mÃ­stÄ›, si poÅ™Ã¡dnÄ› prohlÃ©dneÅ¡ starou studnu. UvnitÅ™ si vÅ¡imneÅ¡ cihly, kterÃ¡ vyÄnÃ­vÃ¡ z obloÅ¾enÃ­.}
+{103}{}{Ahojky! PoklÃ¡dku!}
+{104}{}{Cink-cink! Budu bohÃ¡Ä!}
+{105}{}{Lehce vytÃ¡hneÅ¡ vyÄnÃ­vajÃ­cÃ­ cihlu ze zdi a upÅ™enÄ› pohlÃ©dneÅ¡ do temnoty na svou koÅ™ist.}
+{106}{}{Kde penÃ­zky?}
+{107}{}{Hmm... moc tam toho nevidÃ­m.}
+{108}{}{ZahodÃ­Å¡ kousek cihly, aby se ti uvolnily ruce.}
+{109}{}{JupÃ­Ã­Ã­Ã­! PenÃ­zky.}
+{110}{}{Haha! Tak jo. Je naÄase vybrat poklad!}
+{111}{}{NÃ¡hle se z otvoru ve studni zjevÃ­ velikÃ½ pytel s pÅ™ipevnÄ›nÃ½m provazem, kterÃ½ padÃ¡ do temnoty. Byl jsi pÅ™Ã­liÅ¡ nedoÄkavÃ½ a nevÅ¡iml sis, Å¾e ta cihla, kterou jsi zahodil, byla pÅ™ivÃ¡zÃ¡na provazem k samotnÃ©mu pokladu.}
 {112}{}{Kruci!}
 {113}{}{Sakra! To je na hovno!}
-{114}{}{Ano, je to na hovno. Zdá se, e budeš muset najít jinı zpùsob, jak dostat poklad ze studny. Jsi pøíliš velikı, abys do ni vlezl. Asi budeš potøebovat nìèí pomoc.}
-{115}{}{Moc velká jít dolù studna.}
-{116}{}{Bohuel se dolù nedostanu. Jsem pøíliš velikı.}
-{117}{}{Eh... pøíteli, tohle... eh... jsem zrovna nemìl na mysli.}
+{114}{}{Ano, je to na hovno. ZdÃ¡ se, Å¾e budeÅ¡ muset najÃ­t jinÃ½ zpÅ¯sob, jak dostat poklad ze studny. Jsi pÅ™Ã­liÅ¡ velikÃ½, abys do ni vlezl. Asi budeÅ¡ potÅ™ebovat nÄ›ÄÃ­ pomoc.}
+{115}{}{Moc velkÃ¡ jÃ­t dolÅ¯ studna.}
+{116}{}{BohuÅ¾el se dolÅ¯ nedostanu. Jsem pÅ™Ã­liÅ¡ velikÃ½.}
+{117}{}{Eh... pÅ™Ã­teli, tohle... eh... jsem zrovna nemÄ›l na mysli.}
 {118}{}{DO TOHO, prcku!}
-{119}{}{Malı lidé dobrá. Já rád malá chlap.}
-{120}{}{Pokraèuj, Short Rounde.}
-{121}{}{Vedeš si skvìle! U jenom kousek.}
-{122}{}{Dobøe, dobøe. U jdu... fuuuj... tady to ale smrdí! Fajn. U tam skoro jsem... ANO!}
-{123}{}{Mít penízky?!}
-{124}{}{Máš je?!}
-{125}{}{Jasnì, u je mám! Mùj BOE! Ten pytel je ale VELKEJ! Ten staroch neertoval. Musí v tom bejt pìkná vata!}
+{119}{}{MalÃ½ lidÃ© dobrÃ¡. JÃ¡ rÃ¡d malÃ¡ chlap.}
+{120}{}{PokraÄuj, Short Rounde.}
+{121}{}{VedeÅ¡ si skvÄ›le! UÅ¾ jenom kousek.}
+{122}{}{DobÅ™e, dobÅ™e. UÅ¾ jdu... fuuuj... tady to ale smrdÃ­! Fajn. UÅ¾ tam skoro jsem... ANO!}
+{123}{}{MÃ­t penÃ­zky?!}
+{124}{}{MÃ¡Å¡ je?!}
+{125}{}{JasnÄ›, uÅ¾ je mÃ¡m! MÅ¯j BOÅ½E! Ten pytel je ale VELKEJ! Ten staroch neÅ¾ertoval. MusÃ­ v tom bejt pÄ›knÃ¡ vata!}
 {126}{}{NAVAL!!!}
-{127}{}{Pøiva ho na lano! Vytáhnu ho!}
-{128}{}{No jasnì! A ty pak uteèeš i s mım podílem, co? Ani náhodou! Poèkej chvíli, podívám se, co je uvnitø.}
-{129}{}{Dobøe.}
-{130}{}{Jak myslíš. Stejnì neuteèeš.}
-{131}{}{Otvírám ho. Je to... je to nádherné! A jak to svítí! To je prostì... prostì... ehm...}
+{127}{}{PÅ™ivaÅ¾ ho na lano! VytÃ¡hnu ho!}
+{128}{}{No jasnÄ›! A ty pak uteÄeÅ¡ i s mÃ½m podÃ­lem, co? Ani nÃ¡hodou! PoÄkej chvÃ­li, podÃ­vÃ¡m se, co je uvnitÅ™.}
+{129}{}{DobÅ™e.}
+{130}{}{Jak myslÃ­Å¡. StejnÄ› neuteÄeÅ¡.}
+{131}{}{OtvÃ­rÃ¡m ho. Je to... je to nÃ¡dhernÃ©! A jak to svÃ­tÃ­! To je prostÄ›... prostÄ›... ehm...}
 {132}{}{Ehm?}
-{133}{}{Øekl jsi 'ehm'? Proè øíkáš 'ehm'?}
-{134}{}{Eh... zapomeò na to! [Chichot]... podívej se sám.}
-{135}{}{(Micky uváe pytel na lano a ty ho vytáhneš nahoru. Je pìknì tìkı. Moná se Micky mılí.)}
-{136}{}{Podívat, podívat!}
-{137}{}{Tak se podíváme, copak to tu máme.}
-{138}{}{(Nedoèkavostí otevøeš pytel. Nahlédneš dovnitø a nacházíš...)}
+{133}{}{Å˜ekl jsi 'ehm'? ProÄ Å™Ã­kÃ¡Å¡ 'ehm'?}
+{134}{}{Eh... zapomeÅˆ na to! [Chichot]... podÃ­vej se sÃ¡m.}
+{135}{}{(Micky uvÃ¡Å¾e pytel na lano a ty ho vytÃ¡hneÅ¡ nahoru. Je pÄ›knÄ› tÄ›Å¾kÃ½. MoÅ¾nÃ¡ se Micky mÃ½lÃ­.)}
+{136}{}{PodÃ­vat, podÃ­vat!}
+{137}{}{Tak se podÃ­vÃ¡me, copak to tu mÃ¡me.}
+{138}{}{(NedoÄkavostÃ­ otevÅ™eÅ¡ pytel. NahlÃ©dneÅ¡ dovnitÅ™ a nachÃ¡zÃ­Å¡...)}
 {139}{}{He, he?}
 {140}{}{Co to je?}
-{141}{}{10000 víèek.}
-{142}{}{VÍÈKA?!}
-{143}{}{Blbı víèka od flašek?!}
-{144}{}{To dost nasere, co? No, tak snad pøíštì. A teï mì odsud vytáhni!}
-{145}{}{Starı ghoul dìlat srandovná vtip! Haha!}
-{146}{}{Ten zatracenej starej ghoul mì podvedl! Chtìl, abych mrhal èasem prohledáváním okolí, aby se mi mohl smát!}
-{147}{}{Eh... pøíteli? Potøebuju pomoct!}
-{148}{}{Vìdìl, e strávím hodiny... ne, DNY, bìháním po svìtì, abych našel ty jeho blbosti, a pak se mi mohl jenom pìknì vysmát!}
-{149}{}{Eh... podívej. Je tady nìjaká mnohonohá vìc, od kterı se chci dret co nejdál. Mùeš si pospíšit?}
-{150}{}{Typhon urèitì vìdìl, e u jsou dnes k nièemu, e jo?}
-{151}{}{Paneboe! Leze to po mì! POMOC!}
+{141}{}{10000 vÃ­Äek.}
+{142}{}{VÃÄŒKA?!}
+{143}{}{BlbÃ½ vÃ­Äka od flaÅ¡ek?!}
+{144}{}{To dost nasere, co? No, tak snad pÅ™Ã­Å¡tÄ›. A teÄ mÄ› odsud vytÃ¡hni!}
+{145}{}{StarÃ½ ghoul dÄ›lat srandovnÃ¡ vtip! Haha!}
+{146}{}{Ten zatracenej starej ghoul mÄ› podvedl! ChtÄ›l, abych mrhal Äasem prohledÃ¡vÃ¡nÃ­m okolÃ­, aby se mi mohl smÃ¡t!}
+{147}{}{Eh... pÅ™Ã­teli? PotÅ™ebuju pomoct!}
+{148}{}{VÄ›dÄ›l, Å¾e strÃ¡vÃ­m hodiny... ne, DNY, bÄ›hÃ¡nÃ­m po svÄ›tÄ›, abych naÅ¡el ty jeho blbosti, a pak se mi mohl jenom pÄ›knÄ› vysmÃ¡t!}
+{149}{}{Eh... podÃ­vej. Je tady nÄ›jakÃ¡ mnohonohÃ¡ vÄ›c, od kterÃ½ se chci drÅ¾et co nejdÃ¡l. MÅ¯Å¾eÅ¡ si pospÃ­Å¡it?}
+{150}{}{Typhon urÄitÄ› vÄ›dÄ›l, Å¾e uÅ¾ jsou dnes k niÄemu, Å¾e jo?}
+{151}{}{PaneboÅ¾e! Leze to po mÄ›! POMOC!}
 {152}{}{Y'know, it's really kind of sweet when you think about it. He really thought he was helping me out. Maybe I
  shouldn't be so hard on the old guy. ::sigh:: So much for the treasure. I guess I've got places to go.}
-{153}{}{::Fòuk...::}
-{154}{}{Nemít u zájem o studna.}
-{155}{}{Hmmmm... mám takovı divnı pocit, e jsem v té studni na nìco zapomnìl. Co u, nemám èas.}
-{156}{}{Mùe mi odsud nìkdo laskavì pomoct?}
+{153}{}{::FÅˆuk...::}
+{154}{}{NemÃ­t uÅ¾ zÃ¡jem o studna.}
+{155}{}{Hmmmm... mÃ¡m takovÃ½ divnÃ½ pocit, Å¾e jsem v tÃ© studni na nÄ›co zapomnÄ›l. Co uÅ¾, nemÃ¡m Äas.}
+{156}{}{MÅ¯Å¾e mi odsud nÄ›kdo laskavÄ› pomoct?}
 {157}{}{POMOC!!!}
-{158}{}{Ooooch! Mám hlad!}
-{159}{}{Leze to po mì! Ach Boe!}
-{160}{}{Za tohle tì dostanu!}
-{161}{}{Ó mùj boe! Morloci!}
-{162}{}{[píská] Kdy se bojím, [otøepe se] zpívám si tuhle veselou písnièku... [píská]}
-{163}{}{Jsem...teï...pìknì...naštvanej!}
-{164}{}{Asi bych chtìl moc, aby tu byla nìjaká tajná chodba.}
-{165}{}{Jak to tam nahoøe jde?}
+{158}{}{Ooooch! MÃ¡m hlad!}
+{159}{}{Leze to po mÄ›! Ach BoÅ¾e!}
+{160}{}{Za tohle tÄ› dostanu!}
+{161}{}{Ã“ mÅ¯j boÅ¾e! Morloci!}
+{162}{}{[pÃ­skÃ¡] KdyÅ¾ se bojÃ­m, [otÅ™epe se] zpÃ­vÃ¡m si tuhle veselou pÃ­sniÄku... [pÃ­skÃ¡]}
+{163}{}{Jsem...teÄ...pÄ›knÄ›...naÅ¡tvanej!}
+{164}{}{Asi bych chtÄ›l moc, aby tu byla nÄ›jakÃ¡ tajnÃ¡ chodba.}
+{165}{}{Jak to tam nahoÅ™e jde?}

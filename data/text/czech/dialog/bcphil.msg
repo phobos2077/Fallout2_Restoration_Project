@@ -1,56 +1,56 @@
-{100}{}{Vidíš èlenku Khanù.}
-{101}{}{Vidíš Phila, stráce gangu Khanù.}
-{102}{}{Vidíš drsnì vypadajícího mladíka v kovové zbroji. Je tìce ozbrojen.}
-{103}{}{Mìl bych tì hned odprásknout, ale jsem docela zvìdavej, co mi øekneš.}
-{104}{}{Já hledat špeha. On jít tudy.}
-{105}{}{Vyvolenı hledat ztracená holka. Ty vìdìt kde ona?}
-{106}{}{Já zabloudit. To náhoda. Vyvolenı jít pryè.}
-{107}{}{U mì srát. Já tì teï odprásknout. Ty bıt mrtvı a já mít svatı klid.}
-{108}{}{Eh, ty nevìøíš na lásku na první pohled?}
-{109}{}{Hledám zvìda, kterı tudy prošel.}
-{110}{}{Hledám jedno ztracené dìvèe. Nevidìl jsi ji?}
-{111}{}{Promiò, špatná cesta. Radìji u pùjdu.}
-{112}{}{Pracky nahoru a hoï se do klidu, ty jeden sráèi.}
-{113}{}{Snad si mùeme promluvit v klidu jako dva civilizovaní lidé.}
-{114}{}{Hmm, to budu asi já. A teï kdy jsi mì našel, co s tím jako hodláš udìlat?}
-{115}{}{Proè ty špehovat Rebecca?}
-{116}{}{Vyvolenı teï vìdìt, e nezastøelit nesprávná osoba. Dìkuju!}
-{117}{}{Nic, já jít.}
-{118}{}{Proè sleduješ Rebeccu?}
-{119}{}{Chtìl jsem se jen ujistit, e zastøelím tu správnou osobu. Díky a pøeju krásnı den!}
-{120}{}{Hmm. Nic. Myslím, e u pùjdu.}
-{121}{}{Nechce se mi vìøit, e si myslíš, e sem mùeš jen tak nakráèet a já ti budu odpovídat na tvoje otázky! Ale co, stejnì tak jako tak chcípneš a já mám dneska sklony ke šlechetnosti. Máme vzadu zamèenou její holku a trošku tam s ní laškujeme. Ta dìvka Rebecca ji furt hledá, take si musíme dávat bacha, aby se nedostala moc blízko.}
-{122}{}{Ty mít nemocnou hlavu. Vyvolenı opravit to. Odstranit tu hlavu.}
-{123}{}{Co ty myslet tím uívat si s holka?}
-{124}{}{Aha, to dobré vysvìtlení. Já teï jít.}
-{125}{}{Jseš nemocnej, chudinko malá. Zazpívám ti ukolébavku. Zaruèenì tì uspí. Navìky.}
-{126}{}{Fajn. Tak si to uijte a já zase pùjdu.}
-{127}{}{Nechte to dìvèe na pokoji a budete ít.}
-{128}{}{Pøemıšlej o tom po smrti, blázne.}
+{100}{}{VidÃ­Å¡ Älenku KhanÅ¯.}
+{101}{}{VidÃ­Å¡ Phila, strÃ¡Å¾ce gangu KhanÅ¯.}
+{102}{}{VidÃ­Å¡ drsnÄ› vypadajÃ­cÃ­ho mladÃ­ka v kovovÃ© zbroji. Je tÄ›Å¾ce ozbrojen.}
+{103}{}{MÄ›l bych tÄ› hned odprÃ¡sknout, ale jsem docela zvÄ›davej, co mi Å™ekneÅ¡.}
+{104}{}{JÃ¡ hledat Å¡peha. On jÃ­t tudy.}
+{105}{}{VyvolenÃ½ hledat ztracenÃ¡ holka. Ty vÄ›dÄ›t kde ona?}
+{106}{}{JÃ¡ zabloudit. To nÃ¡hoda. VyvolenÃ½ jÃ­t pryÄ.}
+{107}{}{UÅ¾ mÄ› srÃ¡t. JÃ¡ tÄ› teÄ odprÃ¡sknout. Ty bÃ½t mrtvÃ½ a jÃ¡ mÃ­t svatÃ½ klid.}
+{108}{}{Eh, ty nevÄ›Å™Ã­Å¡ na lÃ¡sku na prvnÃ­ pohled?}
+{109}{}{HledÃ¡m zvÄ›da, kterÃ½ tudy proÅ¡el.}
+{110}{}{HledÃ¡m jedno ztracenÃ© dÄ›vÄe. NevidÄ›l jsi ji?}
+{111}{}{PromiÅˆ, Å¡patnÃ¡ cesta. RadÄ›ji uÅ¾ pÅ¯jdu.}
+{112}{}{Pracky nahoru a hoÄ se do klidu, ty jeden srÃ¡Äi.}
+{113}{}{Snad si mÅ¯Å¾eme promluvit v klidu jako dva civilizovanÃ­ lidÃ©.}
+{114}{}{Hmm, to budu asi jÃ¡. A teÄ kdyÅ¾ jsi mÄ› naÅ¡el, co s tÃ­m jako hodlÃ¡Å¡ udÄ›lat?}
+{115}{}{ProÄ ty Å¡pehovat Rebecca?}
+{116}{}{VyvolenÃ½ teÄ vÄ›dÄ›t, Å¾e nezastÅ™elit nesprÃ¡vnÃ¡ osoba. DÄ›kuju!}
+{117}{}{Nic, jÃ¡ jÃ­t.}
+{118}{}{ProÄ sledujeÅ¡ Rebeccu?}
+{119}{}{ChtÄ›l jsem se jen ujistit, Å¾e zastÅ™elÃ­m tu sprÃ¡vnou osobu. DÃ­ky a pÅ™eju krÃ¡snÃ½ den!}
+{120}{}{Hmm. Nic. MyslÃ­m, Å¾e uÅ¾ pÅ¯jdu.}
+{121}{}{Nechce se mi vÄ›Å™it, Å¾e si myslÃ­Å¡, Å¾e sem mÅ¯Å¾eÅ¡ jen tak nakrÃ¡Äet a jÃ¡ ti budu odpovÃ­dat na tvoje otÃ¡zky! Ale co, stejnÄ› tak jako tak chcÃ­pneÅ¡ a jÃ¡ mÃ¡m dneska sklony ke Å¡lechetnosti. MÃ¡me vzadu zamÄenou jejÃ­ holku a troÅ¡ku tam s nÃ­ laÅ¡kujeme. Ta dÄ›vka Rebecca ji furt hledÃ¡, takÅ¾e si musÃ­me dÃ¡vat bacha, aby se nedostala moc blÃ­zko.}
+{122}{}{Ty mÃ­t nemocnou hlavu. VyvolenÃ½ opravit to. Odstranit tu hlavu.}
+{123}{}{Co ty myslet tÃ­m uÅ¾Ã­vat si s holka?}
+{124}{}{Aha, to dobrÃ© vysvÄ›tlenÃ­. JÃ¡ teÄ jÃ­t.}
+{125}{}{JseÅ¡ nemocnej, chudinko malÃ¡. ZazpÃ­vÃ¡m ti ukolÃ©bavku. ZaruÄenÄ› tÄ› uspÃ­. NavÄ›ky.}
+{126}{}{Fajn. Tak si to uÅ¾ijte a jÃ¡ zase pÅ¯jdu.}
+{127}{}{Nechte to dÄ›vÄe na pokoji a budete Å¾Ã­t.}
+{128}{}{PÅ™emÃ½Å¡lej o tom po smrti, blÃ¡zne.}
 {129}{}{}
 {130}{}{}
-{131}{}{A proè bych to mìl sakra dìlat?}
-{132}{}{Udìláš dobrı skutek pro svoji vìènou duši.}
-{133}{}{Protoe já jsem ta nejhorší vìc, která tì kdy v ivotì potkala. Nechte to dìvèe na pokoji, nebo to bude to poslední, èeho budete v ivotì litovat.}
-{134}{}{Protoe jestli budeme bojovat, jeden z nás zemøe. A já nechci zemøít o nic víc ne ty, take to vyøešme v míru. Souhlasíš?}
-{135}{}{Dost kecù.}
+{131}{}{A proÄ bych to mÄ›l sakra dÄ›lat?}
+{132}{}{UdÄ›lÃ¡Å¡ dobrÃ½ skutek pro svoji vÄ›Änou duÅ¡i.}
+{133}{}{ProtoÅ¾e jÃ¡ jsem ta nejhorÅ¡Ã­ vÄ›c, kterÃ¡ tÄ› kdy v Å¾ivotÄ› potkala. Nechte to dÄ›vÄe na pokoji, nebo to bude to poslednÃ­, Äeho budete v Å¾ivotÄ› litovat.}
+{134}{}{ProtoÅ¾e jestli budeme bojovat, jeden z nÃ¡s zemÅ™e. A jÃ¡ nechci zemÅ™Ã­t o nic vÃ­c neÅ¾ ty, takÅ¾e to vyÅ™eÅ¡me v mÃ­ru. SouhlasÃ­Å¡?}
+{135}{}{Dost kecÅ¯.}
 {136}{}{}
 {137}{}{}
-{138}{}{To zní skoro jako vızva. Pøijímám ji.}
+{138}{}{To znÃ­ skoro jako vÃ½zva. PÅ™ijÃ­mÃ¡m ji.}
 {139}{}{}
 {140}{}{}
-{141}{}{Hmm... já... no tak jo. Dobøe. Tady máš klíè od její cely. Ta holka je v zadní èásti pøístøešku. Seber ji a zmizte, ale u se nikdy nevracej. Jestli se ještì nìkdy potkáme, uvidíme, kdo z nás bude ít a kdo zemøe.}
-{142}{}{Tak do toho. Pøesvìdèíme se, kdo z nás dvou pøeije.}
-{143}{}{Díky, udìlal jsi správnou vìc.}
-{144}{}{Jedinej zpùsob, jak se odsud dostaneš, je nohama napøed. V rakvi.}
+{141}{}{Hmm... jÃ¡... no tak jo. DobÅ™e. Tady mÃ¡Å¡ klÃ­Ä od jejÃ­ cely. Ta holka je v zadnÃ­ ÄÃ¡sti pÅ™Ã­stÅ™eÅ¡ku. Seber ji a zmizte, ale uÅ¾ se nikdy nevracej. Jestli se jeÅ¡tÄ› nÄ›kdy potkÃ¡me, uvidÃ­me, kdo z nÃ¡s bude Å¾Ã­t a kdo zemÅ™e.}
+{142}{}{Tak do toho. PÅ™esvÄ›dÄÃ­me se, kdo z nÃ¡s dvou pÅ™eÅ¾ije.}
+{143}{}{DÃ­ky, udÄ›lal jsi sprÃ¡vnou vÄ›c.}
+{144}{}{Jedinej zpÅ¯sob, jak se odsud dostaneÅ¡, je nohama napÅ™ed. V rakvi.}
 {145}{}{}
 {146}{}{}
-{147}{}{Myslíš tu, kterou máme zamèenou vzadu a se kterou si uíváme? Tak tu jsem nevidìl.}
-{148}{}{Ty mít nemocnou hlavu. Vyvolenı opravit to. Odstranit tu hlavu.}
-{149}{}{Co ty myslet tím uívat si s holka?}
-{150}{}{Aha. Vyvolenı muset jít.}
-{151}{}{Jseš nemocnej, chudinko malá. Zazpívám ti ukolébavku. Zaruèenì tì uspí. Navìky.}
-{152}{}{Fajn. Tak si to uijte a já zase pùjdu.}
-{153}{}{Nechte to dìvèe na pokoji a budete ít.}
-{154}{}{Vidím, e jsi zpátky. No, tak uvidíme, kdo z nás dvou to pøeije.}
-{155}{}{Zabili jsme tu dìvku Chrissy a teï jsi na øadì ty!}
+{147}{}{MyslÃ­Å¡ tu, kterou mÃ¡me zamÄenou vzadu a se kterou si uÅ¾Ã­vÃ¡me? Tak tu jsem nevidÄ›l.}
+{148}{}{Ty mÃ­t nemocnou hlavu. VyvolenÃ½ opravit to. Odstranit tu hlavu.}
+{149}{}{Co ty myslet tÃ­m uÅ¾Ã­vat si s holka?}
+{150}{}{Aha. VyvolenÃ½ muset jÃ­t.}
+{151}{}{JseÅ¡ nemocnej, chudinko malÃ¡. ZazpÃ­vÃ¡m ti ukolÃ©bavku. ZaruÄenÄ› tÄ› uspÃ­. NavÄ›ky.}
+{152}{}{Fajn. Tak si to uÅ¾ijte a jÃ¡ zase pÅ¯jdu.}
+{153}{}{Nechte to dÄ›vÄe na pokoji a budete Å¾Ã­t.}
+{154}{}{VidÃ­m, Å¾e jsi zpÃ¡tky. No, tak uvidÃ­me, kdo z nÃ¡s dvou to pÅ™eÅ¾ije.}
+{155}{}{Zabili jsme tu dÄ›vku Chrissy a teÄ jsi na Å™adÄ› ty!}

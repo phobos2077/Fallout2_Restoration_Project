@@ -1,44 +1,44 @@
-{100}{}{Poèítaèovı terminál.}
-{101}{}{Obslunı terminál Bioskladu.}
-{102}{}{Obrazovka je pro tebe zcela neèitelná.}
-{103}{}{Bio sklad - hlavní menu                                              Odebrat                                                                Uloit}
+{100}{}{PoÄÃ­taÄovÃ½ terminÃ¡l.}
+{101}{}{ObsluÅ¾nÃ½ terminÃ¡l Bioskladu.}
+{102}{}{Obrazovka je pro tebe zcela neÄitelnÃ¡.}
+{103}{}{Bio sklad - hlavnÃ­ menu                                              Odebrat                                                                UloÅ¾it}
 {104}{}{}
 {105}{}{}
 {106}{}{}
 {107}{}{Odebrat.}
-{108}{}{Uloit.}
+{108}{}{UloÅ¾it.}
 {109}{}{Konec.}
 {110}{}{Eh.}
-{111}{}{(Nedokáeš pøeèíst text na obrazovce.)}
-{112}{}{Tento terminál je mimo provoz                                     Pro podrobnìjší informace prosím kontaktujte správce sítì.}
+{111}{}{(NedokÃ¡Å¾eÅ¡ pÅ™eÄÃ­st text na obrazovce.)}
+{112}{}{Tento terminÃ¡l je mimo provoz                                     Pro podrobnÄ›jÅ¡Ã­ informace prosÃ­m kontaktujte sprÃ¡vce sÃ­tÄ›.}
 {113}{}{}
 {114}{}{Ech.}
 {115}{}{Konec.}
-{116}{}{Menu: odebrat                                                       Viry                                                               Orgány                                                              Mrtvoly}
+{116}{}{Menu: odebrat                                                       Viry                                                               OrgÃ¡ny                                                              Mrtvoly}
 {117}{}{}
 {118}{}{}
 {119}{}{}
 {120}{}{Odebrat virus.}
-{121}{}{Odebrat orgán.}
+{121}{}{Odebrat orgÃ¡n.}
 {122}{}{Odebrat mrtvolu.}
-{123}{}{Zpìt do hlavního menu.}
+{123}{}{ZpÄ›t do hlavnÃ­ho menu.}
 {124}{}{Konec.}
-{125}{}{Menu: odebrat viry                                                    Snìt slezinná                                                          Èernı mor (Kmen 238)                                          Neštovice (Kmen 1025)                                            Ebola                                                                   Hantavirus (Kmen 304)}
+{125}{}{Menu: odebrat viry                                                    SnÄ›t slezinnÃ¡                                                          ÄŒernÃ½ mor (Kmen 238)                                          NeÅ¡tovice (Kmen 1025)                                            Ebola                                                                   Hantavirus (Kmen 304)}
 {126}{}{}
 {127}{}{}
 {128}{}{}
 {129}{}{}
 {130}{}{}
-{131}{}{Odebrat snìt slezinnou.}
-{132}{}{Odebrat èernı mor.}
-{133}{}{Odebrat neštovice.}
+{131}{}{Odebrat snÄ›t slezinnou.}
+{132}{}{Odebrat ÄernÃ½ mor.}
+{133}{}{Odebrat neÅ¡tovice.}
 {134}{}{Odebrat ebolu.}
 {135}{}{Odebrat hantavirus.}
-{137}{}{Zpìt do hlavního vydávacího menu.}
+{137}{}{ZpÄ›t do hlavnÃ­ho vydÃ¡vacÃ­ho menu.}
 {138}{}{Konec.}
-{139}{}{(Sleduješ, jak robot prochází kvanta biologickıch materiálù a vrací se s malou lahvièkou, kterou vkládá do otvoru ve zdi. Fascinovanì sleduješ, jak se lahvièka pøemisuje z bezpeènì utìsnìného prostøedí skladovacích prostor do místnosti, ve které teï stojíš. Tvá fascinace se ale zmìní v horor ve chvíli, kdy lahvièka spadne na zem a rozbije se. Nejrozumnìjším øešením je okamitì utéct!)}
+{139}{}{(SledujeÅ¡, jak robot prochÃ¡zÃ­ kvanta biologickÃ½ch materiÃ¡lÅ¯ a vracÃ­ se s malou lahviÄkou, kterou vklÃ¡dÃ¡ do otvoru ve zdi. FascinovanÄ› sledujeÅ¡, jak se lahviÄka pÅ™emisÅ¥uje z bezpeÄnÄ› utÄ›snÄ›nÃ©ho prostÅ™edÃ­ skladovacÃ­ch prostor do mÃ­stnosti, ve kterÃ© teÄ stojÃ­Å¡. TvÃ¡ fascinace se ale zmÄ›nÃ­ v horor ve chvÃ­li, kdy lahviÄka spadne na zem a rozbije se. NejrozumnÄ›jÅ¡Ã­m Å™eÅ¡enÃ­m je okamÅ¾itÄ› utÃ©ct!)}
 {140}{}{Konec.}
-{141}{}{Menu: odebrat orgány                                                Srdce                                                                Mozek                                                                Ledvina                                                                 Játra                                                                  Plíce}
+{141}{}{Menu: odebrat orgÃ¡ny                                                Srdce                                                                Mozek                                                                Ledvina                                                                 JÃ¡tra                                                                  PlÃ­ce}
 {142}{}{}
 {143}{}{}
 {144}{}{}
@@ -47,68 +47,68 @@
 {147}{}{Odebrat srdce.}
 {148}{}{Odebrat mozek.}
 {149}{}{Odebrat ledvinu.}
-{150}{}{Odebrat játra.}
-{151}{}{Odebrat plíce.}
-{152}{}{Zpìt do hlavního vydávacího menu.}
+{150}{}{Odebrat jÃ¡tra.}
+{151}{}{Odebrat plÃ­ce.}
+{152}{}{ZpÄ›t do hlavnÃ­ho vydÃ¡vacÃ­ho menu.}
 {153}{}{Konec.}
-{154}{}{Pozor! Chyba skladovacího zaøízení                        (Podle vıpisu se pøístroje pro vyzvedávání orgánù porouchali u velmi dávno. Pokud nechceš dìlat polévku, asi nemá smysl pokraèovat.)}
+{154}{}{Pozor! Chyba skladovacÃ­ho zaÅ™Ã­zenÃ­                        (Podle vÃ½pisu se pÅ™Ã­stroje pro vyzvedÃ¡vÃ¡nÃ­ orgÃ¡nÅ¯ porouchali uÅ¾ velmi dÃ¡vno. Pokud nechceÅ¡ dÄ›lat polÃ©vku, asi nemÃ¡ smysl pokraÄovat.)}
 {155}{}{}
-{156}{}{Zpìt do menu pro vıdej orgánù.}
-{157}{}{Zpìt do hlavního vydávacího menu.}
+{156}{}{ZpÄ›t do menu pro vÃ½dej orgÃ¡nÅ¯.}
+{157}{}{ZpÄ›t do hlavnÃ­ho vydÃ¡vacÃ­ho menu.}
 {158}{}{Konec.}
-{159}{}{Pozor! Chyba skladovacího zaøízení.                         Skladovací buòky 101 - 104                                      Poadavek na úpravu nastavení                                  (Je zapotøebí velice pøesné a sloité vıpoèty k tomu, aby se mozky daly zachránit. Na obrazovce se míhá spousta vzorcù a názvosloví. Pøipadá ti to všechno pøíliš sloité.)}
+{159}{}{Pozor! Chyba skladovacÃ­ho zaÅ™Ã­zenÃ­.                         SkladovacÃ­ buÅˆky 101 - 104                                      PoÅ¾adavek na Ãºpravu nastavenÃ­                                  (Je zapotÅ™ebÃ­ velice pÅ™esnÃ© a sloÅ¾itÃ© vÃ½poÄty k tomu, aby se mozky daly zachrÃ¡nit. Na obrazovce se mÃ­hÃ¡ spousta vzorcÅ¯ a nÃ¡zvoslovÃ­. PÅ™ipadÃ¡ ti to vÅ¡echno pÅ™Ã­liÅ¡ sloÅ¾itÃ©.)}
 {160}{}{}
 {161}{}{}
 {162}{}{}
-{163}{}{Pokusit se provést úpravy.}
-{164}{}{Zpìt do hlavního vydávacího menu.}
-{165}{}{Zkusit to pozdìji.}
-{166}{}{(Díky tvé nezkušenosti byly všechny mozky znièeny. Zvıšení teploty na 98.6 stupòù bylo asi trochu moc. No jo, vìda nikdy nebyla tvojí silnou stránkou.)}
+{163}{}{Pokusit se provÃ©st Ãºpravy.}
+{164}{}{ZpÄ›t do hlavnÃ­ho vydÃ¡vacÃ­ho menu.}
+{165}{}{Zkusit to pozdÄ›ji.}
+{166}{}{(DÃ­ky tvÃ© nezkuÅ¡enosti byly vÅ¡echny mozky zniÄeny. ZvÃ½Å¡enÃ­ teploty na 98.6 stupÅˆÅ¯ bylo asi trochu moc. No jo, vÄ›da nikdy nebyla tvojÃ­ silnou strÃ¡nkou.)}
 {167}{}{Konec.}
-{168}{}{(Metoda pokus - omyl pøesnì popisuje tvùj pøístup k tomuto problému. Podaøilo se ti zachránit pouze jedinı mozek ze ètyø. Vìda je trošku sloitìjší, ne se zdá.)}
+{168}{}{(Metoda pokus - omyl pÅ™esnÄ› popisuje tvÅ¯j pÅ™Ã­stup k tomuto problÃ©mu. PodaÅ™ilo se ti zachrÃ¡nit pouze jedinÃ½ mozek ze ÄtyÅ™. VÄ›da je troÅ¡ku sloÅ¾itÄ›jÅ¡Ã­, neÅ¾ se zdÃ¡.)}
 {169}{}{Odebrat mozek.}
-{170}{}{(Díky tvım prùmìrnım vìdeckım znalostem se ti podaøilo zachránit polovinu mozkù. Ale vìdec z tebe ani zdaleka není.)}
+{170}{}{(DÃ­ky tvÃ½m prÅ¯mÄ›rnÃ½m vÄ›deckÃ½m znalostem se ti podaÅ™ilo zachrÃ¡nit polovinu mozkÅ¯. Ale vÄ›dec z tebe ani zdaleka nenÃ­.)}
 {171}{}{Odebrat mozek.}
-{172}{}{(Oèividnì víš, co dìláš. S vıjimkou jediné chybièky jsou všechny mozky zachránìny. Koneènì se zuitkovalo ètení všech tìch vìdeckıch pøíruèek.)}
+{172}{}{(OÄividnÄ› vÃ­Å¡, co dÄ›lÃ¡Å¡. S vÃ½jimkou jedinÃ© chybiÄky jsou vÅ¡echny mozky zachrÃ¡nÄ›ny. KoneÄnÄ› se zuÅ¾itkovalo ÄtenÃ­ vÅ¡ech tÄ›ch vÄ›deckÃ½ch pÅ™Ã­ruÄek.)}
 {173}{}{Odebrat mozek.}
-{174}{}{(Nìkolika rychlımi údery do klávesnice zaehnáváš krizi a všechny mozky jsou v bezpeèí. Vìda je pro tebe víc ne jen koníèek. A je to vidìt.)}
+{174}{}{(NÄ›kolika rychlÃ½mi Ãºdery do klÃ¡vesnice zaÅ¾ehnÃ¡vÃ¡Å¡ krizi a vÅ¡echny mozky jsou v bezpeÄÃ­. VÄ›da je pro tebe vÃ­c neÅ¾ jen konÃ­Äek. A je to vidÄ›t.)}
 {175}{}{Odebrat mozek.}
-{176}{}{Nabídka odebrání mozku:                                             Abnormální mozek                                                     Šimpanzí mozek                                                     Lidskı mozek                                                     Kybernetickı mozek}
-{177}{}{Nabídka odebrání mozku:                                             Abnormální mozek                                                     Šimpanzí mozek                                                     Lidskı mozek                                                     Kybernetickı mozek - znièen}
-{178}{}{Nabídka odebrání mozku:                                             Abnormální mozek                                                     Šimpanzí mozek                                                     Lidskı mozek - znièen                                                Kybernetickı mozek - znièen}
-{179}{}{Nabídka odebrání mozku:                                             Abnormální mozek                                                     Šimpanzí mozek - znièen                                             Lidskı mozek - znièen                                              Kybernetickı mozek - znièen}
+{176}{}{NabÃ­dka odebrÃ¡nÃ­ mozku:                                             AbnormÃ¡lnÃ­ mozek                                                     Å impanzÃ­ mozek                                                     LidskÃ½ mozek                                                     KybernetickÃ½ mozek}
+{177}{}{NabÃ­dka odebrÃ¡nÃ­ mozku:                                             AbnormÃ¡lnÃ­ mozek                                                     Å impanzÃ­ mozek                                                     LidskÃ½ mozek                                                     KybernetickÃ½ mozek - zniÄen}
+{178}{}{NabÃ­dka odebrÃ¡nÃ­ mozku:                                             AbnormÃ¡lnÃ­ mozek                                                     Å impanzÃ­ mozek                                                     LidskÃ½ mozek - zniÄen                                                KybernetickÃ½ mozek - zniÄen}
+{179}{}{NabÃ­dka odebrÃ¡nÃ­ mozku:                                             AbnormÃ¡lnÃ­ mozek                                                     Å impanzÃ­ mozek - zniÄen                                             LidskÃ½ mozek - zniÄen                                              KybernetickÃ½ mozek - zniÄen}
 {180}{}{}
 {185}{}{}
 {189}{}{}
 {193}{}{}
-{196}{}{Abnormální mozek.}
-{197}{}{Šimpanzí mozek.}
-{198}{}{Lidskı mozek.}
-{199}{}{Kybernetickı mozek.}
-{200}{}{(Aèkoliv vıpis ukazuje, e je mozek v poøádku, vıstupní neurální signály jsou velice slabé.)                                 Odebrat?}
+{196}{}{AbnormÃ¡lnÃ­ mozek.}
+{197}{}{Å impanzÃ­ mozek.}
+{198}{}{LidskÃ½ mozek.}
+{199}{}{KybernetickÃ½ mozek.}
+{200}{}{(AÄkoliv vÃ½pis ukazuje, Å¾e je mozek v poÅ™Ã¡dku, vÃ½stupnÃ­ neurÃ¡lnÃ­ signÃ¡ly jsou velice slabÃ©.)                                 Odebrat?}
 {201}{}{}
 {202}{}{Ano.}
 {203}{}{Ne.}
-{204}{}{(Mozkové vlny jsou aktivní, ale liší se od tìch lidskıch.)      Odebrat?}
-{208}{}{(Mozková aktivita odpovídá prùmìrnému lidskému mozku.)      Odebrat?}
-{212}{}{(Mozková kapacita mimo rozsah! Vzhledem k tomu, e mozek vykazuje i digitální impulsy, nebude asi lidského pùvodu.)     Odebrat?}
-{216}{}{(Robot se rychle vydal pro "tvùj" mozek. Pøi návratu je zøejmé, e má nìjakı problém. A jisté je to ve chvíli, kdy exploduje. Naštìstí se mu podaøilo dopravit ti mozek ještì pøedtím, ne se stal historií.)}
+{204}{}{(MozkovÃ© vlny jsou aktivnÃ­, ale liÅ¡Ã­ se od tÄ›ch lidskÃ½ch.)      Odebrat?}
+{208}{}{(MozkovÃ¡ aktivita odpovÃ­dÃ¡ prÅ¯mÄ›rnÃ©mu lidskÃ©mu mozku.)      Odebrat?}
+{212}{}{(MozkovÃ¡ kapacita mimo rozsah! Vzhledem k tomu, Å¾e mozek vykazuje i digitÃ¡lnÃ­ impulsy, nebude asi lidskÃ©ho pÅ¯vodu.)     Odebrat?}
+{216}{}{(Robot se rychle vydal pro "tvÅ¯j" mozek. PÅ™i nÃ¡vratu je zÅ™ejmÃ©, Å¾e mÃ¡ nÄ›jakÃ½ problÃ©m. A jistÃ© je to ve chvÃ­li, kdy exploduje. NaÅ¡tÄ›stÃ­ se mu podaÅ™ilo dopravit ti mozek jeÅ¡tÄ› pÅ™edtÃ­m, neÅ¾ se stal historiÃ­.)}
 {217}{}{Konec.}
-{218}{}{Menu: odebrat mrtvoly                                          Vojín Dobbs}
+{218}{}{Menu: odebrat mrtvoly                                          VojÃ­n Dobbs}
 {219}{}{}
-{220}{}{Odebrat tìlo vojína Dobbse.}
-{221}{}{Zpìt do hlavního vydávacího menu.}
+{220}{}{Odebrat tÄ›lo vojÃ­na Dobbse.}
+{221}{}{ZpÄ›t do hlavnÃ­ho vydÃ¡vacÃ­ho menu.}
 {222}{}{Konec.}
-{223}{}{(Podle všech záznamù je vojín Dobbs naivu! Je umístìn v Experimentální Bio-Med gelové regeneraèní nádri.)   Odebrat?}
+{223}{}{(Podle vÅ¡ech zÃ¡znamÅ¯ je vojÃ­n Dobbs naÅ¾ivu! Je umÃ­stÄ›n v ExperimentÃ¡lnÃ­ Bio-Med gelovÃ© regeneraÄnÃ­ nÃ¡drÅ¾i.)   Odebrat?}
 {224}{}{}
 {225}{}{Ano.}
 {226}{}{Ne.}
-{227}{}{(Tìlo vojína Dobbse teï leí u tvıch nohou a k tvému pøekvapení se právì postavil a zaèal na tebe mluvit. Celkem divné - moc mrtvì nevypadá!?)}
+{227}{}{(TÄ›lo vojÃ­na Dobbse teÄ leÅ¾Ã­ u tvÃ½ch nohou a k tvÃ©mu pÅ™ekvapenÃ­ se prÃ¡vÄ› postavil a zaÄal na tebe mluvit. Celkem divnÃ© - moc mrtvÄ› nevypadÃ¡!?)}
 {228}{}{Konec.}
-{229}{}{Momentálnì nejsou ádné mrtvoly na skladì.}
-{230}{}{Zpìt do hlavního vydávacího menu.}
+{229}{}{MomentÃ¡lnÄ› nejsou Å¾Ã¡dnÃ© mrtvoly na skladÄ›.}
+{230}{}{ZpÄ›t do hlavnÃ­ho vydÃ¡vacÃ­ho menu.}
 {231}{}{Konec.}
-{232}{}{(Aèkoliv je celkem jasné, e jsou nádre prázdné, program stále hlásí, e jsou plné. Asi chyba programu.)}
-{233}{}{Zpìt do hlavního menu.}
+{232}{}{(AÄkoliv je celkem jasnÃ©, Å¾e jsou nÃ¡drÅ¾e prÃ¡zdnÃ©, program stÃ¡le hlÃ¡sÃ­, Å¾e jsou plnÃ©. Asi chyba programu.)}
+{233}{}{ZpÄ›t do hlavnÃ­ho menu.}
 {234}{}{Konec.}
-{300}{}{ nedokáe pøeèíst text na monitoru.}
+{300}{}{ nedokÃ¡Å¾e pÅ™eÄÃ­st text na monitoru.}

@@ -1,23 +1,23 @@
-{100}{}{Vidíš silného divošského váleèníka.}
-{101}{}{Tento divoch vypadá velmi silnì, ale ne moc chytøe.}
-{200}{}{Stát! Co ty chtít?}
-{201}{}{Co tu dìláš?}
-{202}{}{Já hlídat jeskyò pro kmen. Já za úkol, aby nikdo zlı neproklouznout dovnitø.}
-{203}{}{Aha. Mùu se porozhlédnout po jeskyni?}
-{204}{}{Ne. Já nemít povolení pustit cizinec do jeskyò. Vùdce váleèník tak øíct.}
-{205}{}{Tak moná pozdìji.}
-{206}{}{Ty zase? Co ty chtít teï?}
-{207}{}{Jen procházím. Pokraèuj, jde ti to dobøe.}
-{208}{}{Vrchní váleèník mi dovolil vstoupit do jeskynì. Potøebuju se podívat po ztracenıch lovcích.}
-{209}{}{Jo ahá, já nevidìt je dlouhá doba. Snad oni v poøádek. Vrchní váleèník øíkat ty do jeskyò? Ty moct jít.}
-{210}{}{Díky. Dám ti vìdìt, kdy budu nìco potøebovat.}
-{300}{}{Hej, proè ty spìchat? Najít ty nìco?}
-{301}{}{Ano, podaøilo se mi najít ty pohøešované lovce. Jeden z nich je mrtvı a druhı ošklivì poranìnı. Potøebuju, abys ho vynesl ven a odnesl ho k šamanovi. Já mezitím poèkám u šamana.}
-{302}{}{Èlen kmen potøebovat pomoc? Já muset on pomoct. V jeskyò? Já jít!}
+{100}{}{VidÃ­Å¡ silnÃ©ho divoÅ¡skÃ©ho vÃ¡leÄnÃ­ka.}
+{101}{}{Tento divoch vypadÃ¡ velmi silnÄ›, ale ne moc chytÅ™e.}
+{200}{}{StÃ¡t! Co ty chtÃ­t?}
+{201}{}{Co tu dÄ›lÃ¡Å¡?}
+{202}{}{JÃ¡ hlÃ­dat jeskyÅˆ pro kmen. JÃ¡ za Ãºkol, aby nikdo zlÃ½ neproklouznout dovnitÅ™.}
+{203}{}{Aha. MÅ¯Å¾u se porozhlÃ©dnout po jeskyni?}
+{204}{}{Ne. JÃ¡ nemÃ­t povolenÃ­ pustit cizinec do jeskyÅˆ. VÅ¯dce vÃ¡leÄnÃ­k tak Å™Ã­ct.}
+{205}{}{Tak moÅ¾nÃ¡ pozdÄ›ji.}
+{206}{}{Ty zase? Co ty chtÃ­t teÄ?}
+{207}{}{Jen prochÃ¡zÃ­m. PokraÄuj, jde ti to dobÅ™e.}
+{208}{}{VrchnÃ­ vÃ¡leÄnÃ­k mi dovolil vstoupit do jeskynÄ›. PotÅ™ebuju se podÃ­vat po ztracenÃ½ch lovcÃ­ch.}
+{209}{}{Jo ahÃ¡, jÃ¡ nevidÄ›t je dlouhÃ¡ doba. Snad oni v poÅ™Ã¡dek. VrchnÃ­ vÃ¡leÄnÃ­k Å™Ã­kat ty do jeskyÅˆ? Ty moct jÃ­t.}
+{210}{}{DÃ­ky. DÃ¡m ti vÄ›dÄ›t, kdyÅ¾ budu nÄ›co potÅ™ebovat.}
+{300}{}{Hej, proÄ ty spÄ›chat? NajÃ­t ty nÄ›co?}
+{301}{}{Ano, podaÅ™ilo se mi najÃ­t ty pohÅ™eÅ¡ovanÃ© lovce. Jeden z nich je mrtvÃ½ a druhÃ½ oÅ¡klivÄ› poranÄ›nÃ½. PotÅ™ebuju, abys ho vynesl ven a odnesl ho k Å¡amanovi. JÃ¡ mezitÃ­m poÄkÃ¡m u Å¡amana.}
+{302}{}{ÄŒlen kmen potÅ™ebovat pomoc? JÃ¡ muset on pomoct. V jeskyÅˆ? JÃ¡ jÃ­t!}
 {303}{}{[KONEC]}
-{400}{}{Dìkovat ty pomoct Serin. On dobrı váleèník. Ty teï kmen pøítel.}
-{401}{}{Díky. No, u musím jít.}
-{402}{}{Ahoj pøítel. Co ty potøebovat?}
-{403}{}{Nic. Jen procházím. Mìj se.}
-{500}{}{Ty hrdina! Já obejmout!}
-{501}{}{Ty nauèit já hrdina jako ty!}
+{400}{}{DÄ›kovat ty pomoct Serin. On dobrÃ½ vÃ¡leÄnÃ­k. Ty teÄ kmen pÅ™Ã­tel.}
+{401}{}{DÃ­ky. No, uÅ¾ musÃ­m jÃ­t.}
+{402}{}{Ahoj pÅ™Ã­tel. Co ty potÅ™ebovat?}
+{403}{}{Nic. Jen prochÃ¡zÃ­m. MÄ›j se.}
+{500}{}{Ty hrdina! JÃ¡ obejmout!}
+{501}{}{Ty nauÄit jÃ¡ hrdina jako ty!}

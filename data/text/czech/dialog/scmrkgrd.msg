@@ -1,10 +1,10 @@
-{100}{}{Vypadá jako jeden z tìch, kdo myslí pìstmi místo hlavou.}
-{101}{}{Hmmm. Jeden z Merkovıch stráí.}
-{102}{}{Velkı. Tvrdı. Hloupı. Bodyguard.}
-{103}{}{Odstup dál. Nevstupuj do prostoru pana Merka.}
+{100}{}{VypadÃ¡ jako jeden z tÄ›ch, kdo myslÃ­ pÄ›stmi mÃ­sto hlavou.}
+{101}{}{Hmmm. Jeden z MerkovÃ½ch strÃ¡Å¾Ã­.}
+{102}{}{VelkÃ½. TvrdÃ½. HloupÃ½. Bodyguard.}
+{103}{}{Odstup dÃ¡l. Nevstupuj do prostoru pana Merka.}
 {104}{}{Eh...}
-{105}{}{Nemìl bych se s tebou bavit, jsem ve slubì.}
-{106}{}{Jestli budeš dìlat potíe, tak uvidíš. Rozumíš?}
-{107}{}{Jdi pryè, ano?}
-{108}{}{Neobtìuj mì.}
-{109}{}{Pan Merk nechce bıt vyrušován.}
+{105}{}{NemÄ›l bych se s tebou bavit, jsem ve sluÅ¾bÄ›.}
+{106}{}{Jestli budeÅ¡ dÄ›lat potÃ­Å¾e, tak uvidÃ­Å¡. RozumÃ­Å¡?}
+{107}{}{Jdi pryÄ, ano?}
+{108}{}{NeobtÄ›Å¾uj mÄ›.}
+{109}{}{Pan Merk nechce bÃ½t vyruÅ¡ovÃ¡n.}

@@ -1,3 +1,3 @@
-{100}{}{Potkáváš skupinu dùleitì vypadajících osob. Vyzaøuje z nich nìco zvláštního.}
-{200}{}{Ach ne, další popkulturní odkaz!}
-{5000}{}{Boj zde není dovolen.}
+{100}{}{PotkÃ¡vÃ¡Å¡ skupinu dÅ¯leÅ¾itÄ› vypadajÃ­cÃ­ch osob. VyzaÅ™uje z nich nÄ›co zvlÃ¡Å¡tnÃ­ho.}
+{200}{}{Ach ne, dalÅ¡Ã­ popkulturnÃ­ odkaz!}
+{5000}{}{Boj zde nenÃ­ dovolen.}

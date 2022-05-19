@@ -1,6 +1,6 @@
-{100}{}{Na køíi je napsáno: "Zde leí náš milovanı syn, Richard Wright. Nikdy na tebe nezapomeneme."}
-{200}{}{V rakvi vidíš tìlo mladíka.}
-{201}{}{Prozkoumáváš hrob Richarda Wrighta. Z tìla vychází hnilobnı zápach.}
-{202}{}{Ten zápach mi pøipomíná radškorpioní jed... ten kluk neumøel na pøedávkování... nìkdo ho otrávil.}
-{203}{}{Nìco na tom smradu mi nesedí, je mi povìdomı... ale co to je...}
-{300}{}{Podaøilo se ti zjisti, e byl Richard Wright otráven.}
+{100}{}{Na kÅ™Ã­Å¾i je napsÃ¡no: "Zde leÅ¾Ã­ nÃ¡Å¡ milovanÃ½ syn, Richard Wright. Nikdy na tebe nezapomeneme."}
+{200}{}{V rakvi vidÃ­Å¡ tÄ›lo mladÃ­ka.}
+{201}{}{ProzkoumÃ¡vÃ¡Å¡ hrob Richarda Wrighta. Z tÄ›la vychÃ¡zÃ­ hnilobnÃ½ zÃ¡pach.}
+{202}{}{Ten zÃ¡pach mi pÅ™ipomÃ­nÃ¡ radÅ¡korpionÃ­ jed... ten kluk neumÅ™el na pÅ™edÃ¡vkovÃ¡nÃ­... nÄ›kdo ho otrÃ¡vil.}
+{203}{}{NÄ›co na tom smradu mi nesedÃ­, je mi povÄ›domÃ½... ale co to je...}
+{300}{}{PodaÅ™ilo se ti zjisti, Å¾e byl Richard Wright otrÃ¡ven.}

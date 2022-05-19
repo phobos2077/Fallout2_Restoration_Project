@@ -1,60 +1,60 @@
-{100}{}{Vidíš obyèejnì vypadajícího, ale vkusnì obleèeného mue.}
-{101}{}{Vidíš recepèního.}
-{102}{}{Na tomhle chlápkovi není nic vıjimeèného. Vypadá jako ztìlesnìní nadìjného byrokrata.}
-{103}{}{Vítejte v Kongresu. Jak vám mohu pomoci?}
-{104}{}{Á, zase zpátky? Jak vám mohu pomoci tentokrát?}
-{105}{}{Take jak vám mohu pomoci?}
+{100}{}{VidÃ­Å¡ obyÄejnÄ› vypadajÃ­cÃ­ho, ale vkusnÄ› obleÄenÃ©ho muÅ¾e.}
+{101}{}{VidÃ­Å¡ recepÄnÃ­ho.}
+{102}{}{Na tomhle chlÃ¡pkovi nenÃ­ nic vÃ½jimeÄnÃ©ho. VypadÃ¡ jako ztÄ›lesnÄ›nÃ­ nadÄ›jnÃ©ho byrokrata.}
+{103}{}{VÃ­tejte v Kongresu. Jak vÃ¡m mohu pomoci?}
+{104}{}{Ã, zase zpÃ¡tky? Jak vÃ¡m mohu pomoci tentokrÃ¡t?}
+{105}{}{TakÅ¾e jak vÃ¡m mohu pomoci?}
 {106}{}{Ehhh...}
-{107}{}{Já vidìt Tandi?}
-{108}{}{Já vidìt Tandi?}
-{109}{}{Potøebuju vidìt prezidentku Tandi.}
-{110}{}{Mùete mi pomoct najít Vault 13?}
-{111}{}{Nijak, pokud nemáte GECK.}
-{112}{}{Mám dùleité novinky pro vašeho šéfa.}
-{113}{}{Potøebuju vidìt prezidentku Tandi.}
-{114}{}{Potøebuju vidìt prezidentku Tandi.}
-{115}{}{Hledám práci.}
-{116}{}{Co je tohle za místo?}
+{107}{}{JÃ¡ vidÄ›t Tandi?}
+{108}{}{JÃ¡ vidÄ›t Tandi?}
+{109}{}{PotÅ™ebuju vidÄ›t prezidentku Tandi.}
+{110}{}{MÅ¯Å¾ete mi pomoct najÃ­t Vault 13?}
+{111}{}{Nijak, pokud nemÃ¡te GECK.}
+{112}{}{MÃ¡m dÅ¯leÅ¾itÃ© novinky pro vaÅ¡eho Å¡Ã©fa.}
+{113}{}{PotÅ™ebuju vidÄ›t prezidentku Tandi.}
+{114}{}{PotÅ™ebuju vidÄ›t prezidentku Tandi.}
+{115}{}{HledÃ¡m prÃ¡ci.}
+{116}{}{Co je tohle za mÃ­sto?}
 {117}{}{Nijak.}
-{118}{}{Já jít pryè.}
-{119}{}{Promiòte, ale tady nejsou veøejné záchody. Jdìte pryè.}
-{120}{}{Ohlednì èeho?}
-{121}{}{Hmmm... proè chcete vidìt madam prezidentku?}
-{122}{}{Lidi øíkat Tandi najmout já.}
-{123}{}{Malá mìsto v pouš chtít pøítel s Tandi.}
-{124}{}{Prı vaše prezidentka shání nìjakého specialistu.}
-{125}{}{Lidé z Vaultu 15 chtìjí uzavøít dohodu.}
+{118}{}{JÃ¡ jÃ­t pryÄ.}
+{119}{}{PromiÅˆte, ale tady nejsou veÅ™ejnÃ© zÃ¡chody. JdÄ›te pryÄ.}
+{120}{}{OhlednÄ› Äeho?}
+{121}{}{Hmmm... proÄ chcete vidÄ›t madam prezidentku?}
+{122}{}{Lidi Å™Ã­kat Tandi najmout jÃ¡.}
+{123}{}{MalÃ¡ mÄ›sto v pouÅ¡Å¥ chtÃ­t pÅ™Ã­tel s Tandi.}
+{124}{}{PrÃ½ vaÅ¡e prezidentka shÃ¡nÃ­ nÄ›jakÃ©ho specialistu.}
+{125}{}{LidÃ© z Vaultu 15 chtÄ›jÃ­ uzavÅ™Ã­t dohodu.}
 {126}{}{}
-{127}{}{Jako tøeba?}
-{128}{}{Nìkdo vynáší informace ven.}
-{129}{}{To není vaše vìc.}
-{130}{}{To je sice hezké, ale tady není ádná náborová kanceláø. Proè to nezkusíte v centru?}
-{131}{}{Toto je Kongres. Tady se tvoøí zákony pro NCR.}
-{132}{}{(Pokraèovat)}
-{133}{}{13? Nemyslíte spíš 15?}
-{134}{}{Øíkám 13.}
+{127}{}{Jako tÅ™eba?}
+{128}{}{NÄ›kdo vynÃ¡Å¡Ã­ informace ven.}
+{129}{}{To nenÃ­ vaÅ¡e vÄ›c.}
+{130}{}{To je sice hezkÃ©, ale tady nenÃ­ Å¾Ã¡dnÃ¡ nÃ¡borovÃ¡ kancelÃ¡Å™. ProÄ to nezkusÃ­te v centru?}
+{131}{}{Toto je Kongres. Tady se tvoÅ™Ã­ zÃ¡kony pro NCR.}
+{132}{}{(PokraÄovat)}
+{133}{}{13? NemyslÃ­te spÃ­Å¡ 15?}
+{134}{}{Å˜Ã­kÃ¡m 13.}
 {135}{}{15?}
 {136}{}{Ne.}
-{137}{}{(Pokraèovat)}
-{138}{}{Ach táák. V tom pøípadì si jdìte promluvit s panem Guntherem. Je vzadu.}
-{139}{}{Vault 15? Chtìjí dohodu? Zajímavé. Jdìte si promluvit s panem Guntherem. Je vzadu.}
-{140}{}{Mùete jí to vyøídit osobnì. Jdìte si promluvit s panem Guntherem.}
-{141}{}{To není dobré. A teï mì omluvte, mám práci.}
-{142}{}{Musím jí nìco øíct.}
-{143}{}{Fajn, tak jí øeknìte, e má ve své kanceláøi špeha.}
-{144}{}{Prostì jí øeknìte, e ji chci vidìt. Rozumíte?}
-{145}{}{No, tak s tím vám nemohu pomoci.}
-{146}{}{(Pokraèovat)}
-{147}{}{To nic, moje chyba. Øíkáte 13, jo? Hmm, o tom nic nevím.}
-{148}{}{(Pokraèovat)}
-{149}{}{Já vyøešit problém. Zabít zlá chlap. Chtít peníze.}
-{150}{}{Øeknìte prezidentce, e je problém se squattery vyøešenı.}
-{151}{}{Darion je mrtvı? Och, tak to se vám omlouvám. Mùete vstoupit.}
-{152}{}{Opravdu? No... to je vıborná zpráva. Podaøilo se vám zjistit ještì nìco?}
+{137}{}{(PokraÄovat)}
+{138}{}{Ach tÃ¡Ã¡k. V tom pÅ™Ã­padÄ› si jdÄ›te promluvit s panem Guntherem. Je vzadu.}
+{139}{}{Vault 15? ChtÄ›jÃ­ dohodu? ZajÃ­mavÃ©. JdÄ›te si promluvit s panem Guntherem. Je vzadu.}
+{140}{}{MÅ¯Å¾ete jÃ­ to vyÅ™Ã­dit osobnÄ›. JdÄ›te si promluvit s panem Guntherem.}
+{141}{}{To nenÃ­ dobrÃ©. A teÄ mÄ› omluvte, mÃ¡m prÃ¡ci.}
+{142}{}{MusÃ­m jÃ­ nÄ›co Å™Ã­ct.}
+{143}{}{Fajn, tak jÃ­ Å™eknÄ›te, Å¾e mÃ¡ ve svÃ© kancelÃ¡Å™i Å¡peha.}
+{144}{}{ProstÄ› jÃ­ Å™eknÄ›te, Å¾e ji chci vidÄ›t. RozumÃ­te?}
+{145}{}{No, tak s tÃ­m vÃ¡m nemohu pomoci.}
+{146}{}{(PokraÄovat)}
+{147}{}{To nic, moje chyba. Å˜Ã­kÃ¡te 13, jo? Hmm, o tom nic nevÃ­m.}
+{148}{}{(PokraÄovat)}
+{149}{}{JÃ¡ vyÅ™eÅ¡it problÃ©m. ZabÃ­t zlÃ¡ chlap. ChtÃ­t penÃ­ze.}
+{150}{}{Å˜eknÄ›te prezidentce, Å¾e je problÃ©m se squattery vyÅ™eÅ¡enÃ½.}
+{151}{}{Darion je mrtvÃ½? Och, tak to se vÃ¡m omlouvÃ¡m. MÅ¯Å¾ete vstoupit.}
+{152}{}{Opravdu? No... to je vÃ½bornÃ¡ zprÃ¡va. PodaÅ™ilo se vÃ¡m zjistit jeÅ¡tÄ› nÄ›co?}
 {153}{}{Ne.}
-{154}{}{Jo, ještì nìco - nìco o špehovi.}
-{155}{}{Co to pov... ehm, chci øíct, jsem rád, e je po všem. Mùete vstoupit.}
-{500}{}{Promiòte, ale tam nemùete vstoupit bez povolení.}
-{501}{}{Musím vás poádat, a to necháte na pokoji.}
-{502}{}{To je poslední varování. Odejdìte, nebo budete mít problémy.}
-{503}{}{Ochranka, vyprovoïte prosím našeho "hosta" ven.}
+{154}{}{Jo, jeÅ¡tÄ› nÄ›co - nÄ›co o Å¡pehovi.}
+{155}{}{Co to pov... ehm, chci Å™Ã­ct, jsem rÃ¡d, Å¾e je po vÅ¡em. MÅ¯Å¾ete vstoupit.}
+{500}{}{PromiÅˆte, ale tam nemÅ¯Å¾ete vstoupit bez povolenÃ­.}
+{501}{}{MusÃ­m vÃ¡s poÅ¾Ã¡dat, aÅ¥ to nechÃ¡te na pokoji.}
+{502}{}{To je poslednÃ­ varovÃ¡nÃ­. OdejdÄ›te, nebo budete mÃ­t problÃ©my.}
+{503}{}{Ochranka, vyprovoÄte prosÃ­m naÅ¡eho "hosta" ven.}

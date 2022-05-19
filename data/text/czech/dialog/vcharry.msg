@@ -1,53 +1,53 @@
-{100}{}{Vidíš malého veselého mue.}
-{101}{}{Vidíš Šastného Harryho, majitele obchodu.}
-{102}{}{Zdravíèko... co pro tebe mùu udìlat?}
-{103}{}{Chci obchodovat. Mùu vidìt, co nabízíš?}
-{104}{}{Ten pluh venku je poøád na prodej?}
-{105}{}{Já koupit.}
-{106}{}{Dnes nic, díky.}
-{107}{}{Promiò. Nemùu ti pomoct, sousede.}
-{108}{}{Ano, je. Mùu ti ho nechat za... øeknìme, osm set.}
-{109}{}{Dám ti za nìj šest set.}
+{100}{}{VidÃ­Å¡ malÃ©ho veselÃ©ho muÅ¾e.}
+{101}{}{VidÃ­Å¡ Å Å¥astnÃ©ho Harryho, majitele obchodu.}
+{102}{}{ZdravÃ­Äko... co pro tebe mÅ¯Å¾u udÄ›lat?}
+{103}{}{Chci obchodovat. MÅ¯Å¾u vidÄ›t, co nabÃ­zÃ­Å¡?}
+{104}{}{Ten pluh venku je poÅ™Ã¡d na prodej?}
+{105}{}{JÃ¡ koupit.}
+{106}{}{Dnes nic, dÃ­ky.}
+{107}{}{PromiÅˆ. NemÅ¯Å¾u ti pomoct, sousede.}
+{108}{}{Ano, je. MÅ¯Å¾u ti ho nechat za... Å™eknÄ›me, osm set.}
+{109}{}{DÃ¡m ti za nÄ›j Å¡est set.}
 {110}{}{Dohodnuto. To beru.}
-{111}{}{Eh, osm set? Vydr, vrátím se... s penìzi.}
-{112}{}{Zapomeò na to. Jen a si Smithovi hladoví.}
-{113}{}{Je tvùj. (Dá si do kapsy peníze.) Vezmeš si ho hned, nebo ho chceš nìkam dopravit?}
-{114}{}{Doprav ho ke Smithovım.}
-{115}{}{Promiò, pøíteli. Bude tì to stát osm set.}
-{119}{}{Na zaplacení potøebuješ peníze, pøíteli.}
-{120}{}{Vrátím se s penìzi.}
-{121}{}{ádnı problém. Hned ho tam nechám dopravit.}
-{122}{}{Chtìli jsme si pøilepšit, co? Zatracenej zlodìji... stráe! Stráe!}
-{123}{}{Posílá mì Dave. Pokoušíme se opravit rozbitou vodní pumpu a on mi øíkal, e budeš mít náhradní motor.}
-{124}{}{Pracuješ s Davem, jo? Jo, znám toho chlápka. Koukám, e se mu stále daøí pøemlouvat ostatní, aby udìlali práci za nìj. Parchant jeden línej. (Usmìje se.) No ale myslím, e mám pøesnì to, co potøebuješ, ale pro jistotu se zajdu podívat. (Harry odejde do zadní místnosti, odkud je slyšet, jak hıbe s nìjakımi krabicemi. Za minutu se vrátí.) Jo, mám ho tady. $500 a je tvùj.}
-{125}{}{Jistì. Tady jsou peníze.}
-{126}{}{$500? Sakra. Doufám, e se mi to vyplatí. Fajn, tady jsou peníze.}
-{127}{}{Díky za obchod. Mìj se.}
+{111}{}{Eh, osm set? VydrÅ¾, vrÃ¡tÃ­m se... s penÄ›zi.}
+{112}{}{ZapomeÅˆ na to. Jen aÅ¥ si Smithovi hladovÃ­.}
+{113}{}{Je tvÅ¯j. (DÃ¡ si do kapsy penÃ­ze.) VezmeÅ¡ si ho hned, nebo ho chceÅ¡ nÄ›kam dopravit?}
+{114}{}{Doprav ho ke SmithovÃ½m.}
+{115}{}{PromiÅˆ, pÅ™Ã­teli. Bude tÄ› to stÃ¡t osm set.}
+{119}{}{Na zaplacenÃ­ potÅ™ebujeÅ¡ penÃ­ze, pÅ™Ã­teli.}
+{120}{}{VrÃ¡tÃ­m se s penÄ›zi.}
+{121}{}{Å½Ã¡dnÃ½ problÃ©m. Hned ho tam nechÃ¡m dopravit.}
+{122}{}{ChtÄ›li jsme si pÅ™ilepÅ¡it, co? Zatracenej zlodÄ›ji... strÃ¡Å¾e! StrÃ¡Å¾e!}
+{123}{}{PosÃ­lÃ¡ mÄ› Dave. PokouÅ¡Ã­me se opravit rozbitou vodnÃ­ pumpu a on mi Å™Ã­kal, Å¾e budeÅ¡ mÃ­t nÃ¡hradnÃ­ motor.}
+{124}{}{PracujeÅ¡ s Davem, jo? Jo, znÃ¡m toho chlÃ¡pka. KoukÃ¡m, Å¾e se mu stÃ¡le daÅ™Ã­ pÅ™emlouvat ostatnÃ­, aby udÄ›lali prÃ¡ci za nÄ›j. Parchant jeden lÃ­nej. (UsmÄ›je se.) No ale myslÃ­m, Å¾e mÃ¡m pÅ™esnÄ› to, co potÅ™ebujeÅ¡, ale pro jistotu se zajdu podÃ­vat. (Harry odejde do zadnÃ­ mÃ­stnosti, odkud je slyÅ¡et, jak hÃ½be s nÄ›jakÃ½mi krabicemi. Za minutu se vrÃ¡tÃ­.) Jo, mÃ¡m ho tady. $500 a je tvÅ¯j.}
+{125}{}{JistÄ›. Tady jsou penÃ­ze.}
+{126}{}{$500? Sakra. DoufÃ¡m, Å¾e se mi to vyplatÃ­. Fajn, tady jsou penÃ­ze.}
+{127}{}{DÃ­ky za obchod. MÄ›j se.}
 {128}{}{Nashle.}
-{129}{}{Connar mì posílá pro nìjaké zboí.}
-{130}{}{(Harryho oèi mihotají kolem a vypadá trochu nervóznì.) Ano, jistì. Jenom chvilièku...}
-{131}{}{(Harry ti pøinese pušky.) Tady, vezmi si je. Bude to deset tisíc, ale rychle.}
-{132}{}{Jistì, tady jsou peníze.}
-{133}{}{Ale Connar mi dal jenom pìt tisíc.}
-{134}{}{Ale Connar mi dal jenom dva tisíce.}
-{135}{}{To není mùj problém. Promiò, ale obchody u nejsou to, co bıvaly. Jestli nìkdo zjistí, e zásobuju Connara zbranìmi, budou se dít ošklivı vìci. U takhle to má se slevou.}
-{136}{}{Podívej, nasazuju kvùli tomu vlastní krk... ale k èertu s tím, nemám èas se hádat. Tak si je vem. (Dává si peníze do kapsy.) A teï odsud vypadni, ale pamatuj, e já ti je neprodal.}
-{137}{}{Vıbornì. Ale pamatuj, e ty zbranì nemáš odsud.}
+{129}{}{Connar mÄ› posÃ­lÃ¡ pro nÄ›jakÃ© zboÅ¾Ã­.}
+{130}{}{(Harryho oÄi mihotajÃ­ kolem a vypadÃ¡ trochu nervÃ³znÄ›.) Ano, jistÄ›. Jenom chviliÄku...}
+{131}{}{(Harry ti pÅ™inese puÅ¡ky.) Tady, vezmi si je. Bude to deset tisÃ­c, ale rychle.}
+{132}{}{JistÄ›, tady jsou penÃ­ze.}
+{133}{}{Ale Connar mi dal jenom pÄ›t tisÃ­c.}
+{134}{}{Ale Connar mi dal jenom dva tisÃ­ce.}
+{135}{}{To nenÃ­ mÅ¯j problÃ©m. PromiÅˆ, ale obchody uÅ¾ nejsou to, co bÃ½valy. Jestli nÄ›kdo zjistÃ­, Å¾e zÃ¡sobuju Connara zbranÄ›mi, budou se dÃ­t oÅ¡klivÃ½ vÄ›ci. UÅ¾ takhle to mÃ¡ se slevou.}
+{136}{}{PodÃ­vej, nasazuju kvÅ¯li tomu vlastnÃ­ krk... ale k Äertu s tÃ­m, nemÃ¡m Äas se hÃ¡dat. Tak si je vem. (DÃ¡vÃ¡ si penÃ­ze do kapsy.) A teÄ odsud vypadni, ale pamatuj, Å¾e jÃ¡ ti je neprodal.}
+{137}{}{VÃ½bornÄ›. Ale pamatuj, Å¾e ty zbranÄ› nemÃ¡Å¡ odsud.}
 {138}{}{Dohodnuto. Nashle.}
-{139}{}{[Více]}
-{140}{}{Tak dobøe. Poèkej chvíli, ne seenu peníze.}
-{141}{}{Tak jak, máš ty peníze?}
-{142}{}{Co kdy ti dám jenom pìt tisíc?}
-{143}{}{A co takhle dva tisíce?}
-{144}{}{Ehmmm... deset tisíc?! Tolik penìz nemám. Poèkej chvíli, ne je seenu.}
-{145}{}{Zatracenì! Kdo mì prásknul?!}
-{146}{}{Hej! Za co jsem ve vìzení?}
-{147}{}{No, alespoò to jídlo není špatnı.}
-{148}{}{Na co èumíš?}
-{149}{}{Co bude s mım obchodem?}
-{200}{}{$500? Poslyš, nemohl bys mi dát nìjakou slevu? Pøeci jen ty a Dave jste pøátele, ne?}
-{201}{}{Abych ti øekl pravdu, tak ten chlap mi byl vdycky ukradenej. $500 za ten motor. Ber, nebo nech bıt.}
-{202}{}{Fajn. Tady jsou peníze.}
-{203}{}{Zapomeò na to, padám odsud.}
-{204}{}{$500!? Tak na to zapomeò, padám odsud.}
-{1288}{}{Vypadá to, e nemám dost penìz. Nashle.}
+{139}{}{[VÃ­ce]}
+{140}{}{Tak dobÅ™e. PoÄkej chvÃ­li, neÅ¾ seÅ¾enu penÃ­ze.}
+{141}{}{Tak jak, mÃ¡Å¡ ty penÃ­ze?}
+{142}{}{Co kdyÅ¾ ti dÃ¡m jenom pÄ›t tisÃ­c?}
+{143}{}{A co takhle dva tisÃ­ce?}
+{144}{}{Ehmmm... deset tisÃ­c?! Tolik penÄ›z nemÃ¡m. PoÄkej chvÃ­li, neÅ¾ je seÅ¾enu.}
+{145}{}{ZatracenÄ›! Kdo mÄ› prÃ¡sknul?!}
+{146}{}{Hej! Za co jsem ve vÄ›zenÃ­?}
+{147}{}{No, alespoÅˆ to jÃ­dlo nenÃ­ Å¡patnÃ½.}
+{148}{}{Na co ÄumÃ­Å¡?}
+{149}{}{Co bude s mÃ½m obchodem?}
+{200}{}{$500? PoslyÅ¡, nemohl bys mi dÃ¡t nÄ›jakou slevu? PÅ™eci jen ty a Dave jste pÅ™Ã¡tele, ne?}
+{201}{}{Abych ti Å™ekl pravdu, tak ten chlap mi byl vÅ¾dycky ukradenej. $500 za ten motor. Ber, nebo nech bÃ½t.}
+{202}{}{Fajn. Tady jsou penÃ­ze.}
+{203}{}{ZapomeÅˆ na to, padÃ¡m odsud.}
+{204}{}{$500!? Tak na to zapomeÅˆ, padÃ¡m odsud.}
+{1288}{}{VypadÃ¡ to, Å¾e nemÃ¡m dost penÄ›z. Nashle.}

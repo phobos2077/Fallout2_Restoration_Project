@@ -1,17 +1,17 @@
-{100}{}{Vidíš funkèní poèítaè.}
-{101}{}{Zdá se, e tento poèítaè ovládá atomovou bombu, která je hned vedle.}
-{200}{}{Vítejte v PoseidoNet. Tento terminál kontroluje chod bomby MK-17. Status bomby je: Deaktivovaná.}
+{100}{}{VidÃ­Å¡ funkÄnÃ­ poÄÃ­taÄ.}
+{101}{}{ZdÃ¡ se, Å¾e tento poÄÃ­taÄ ovlÃ¡dÃ¡ atomovou bombu, kterÃ¡ je hned vedle.}
+{200}{}{VÃ­tejte v PoseidoNet. Tento terminÃ¡l kontroluje chod bomby MK-17. Status bomby je: DeaktivovanÃ¡.}
 {201}{}{Aktivovat bombu.}
-{202}{}{Odhlásit se.}
-{210}{}{Aktivace bomby vyaduje dvì bezpeènostní opatøení. Opatøení è.1: Èervená pøístupová karta - reaktor, kterou mají k dispozici pouze vysoce postavení vìdeètí pracovníci Spojenıch státù. Opatøení è.2: Prezidentská pøístupová karta, kterou má u sebe pouze prezident Spojenıch státù americkıch.}
-{220}{}{Vypadá to, e nic z toho nemám.}
-{221}{}{Vloit Èervenou pøístupovou kartu - reaktor.}
-{222}{}{Karta pøijata. Bezpeènostní opatøení è.1 v poøádku. Bezpeènostní opatøení è.2 stále aktivní.}
-{223}{}{Vloit Prezidentskou pøístupovou kartu.}
-{224}{}{Vypadá to, e stále postrádám jednu kartu.}
-{225}{}{Karta pøijata. Bezpeènostní opatøení è.2 v poøádku.}
+{202}{}{OdhlÃ¡sit se.}
+{210}{}{Aktivace bomby vyÅ¾aduje dvÄ› bezpeÄnostnÃ­ opatÅ™enÃ­. OpatÅ™enÃ­ Ä.1: ÄŒervenÃ¡ pÅ™Ã­stupovÃ¡ karta - reaktor, kterou majÃ­ k dispozici pouze vysoce postavenÃ­ vÄ›deÄtÃ­ pracovnÃ­ci SpojenÃ½ch stÃ¡tÅ¯. OpatÅ™enÃ­ Ä.2: PrezidentskÃ¡ pÅ™Ã­stupovÃ¡ karta, kterou mÃ¡ u sebe pouze prezident SpojenÃ½ch stÃ¡tÅ¯ americkÃ½ch.}
+{220}{}{VypadÃ¡ to, Å¾e nic z toho nemÃ¡m.}
+{221}{}{VloÅ¾it ÄŒervenou pÅ™Ã­stupovou kartu - reaktor.}
+{222}{}{Karta pÅ™ijata. BezpeÄnostnÃ­ opatÅ™enÃ­ Ä.1 v poÅ™Ã¡dku. BezpeÄnostnÃ­ opatÅ™enÃ­ Ä.2 stÃ¡le aktivnÃ­.}
+{223}{}{VloÅ¾it Prezidentskou pÅ™Ã­stupovou kartu.}
+{224}{}{VypadÃ¡ to, Å¾e stÃ¡le postrÃ¡dÃ¡m jednu kartu.}
+{225}{}{Karta pÅ™ijata. BezpeÄnostnÃ­ opatÅ™enÃ­ Ä.2 v poÅ™Ã¡dku.}
 {226}{}{Aktivovat bombu.}
-{227}{}{Odhlásit se.}
+{227}{}{OdhlÃ¡sit se.}
 {228}{}{Bomb has been activated and will detonate in T-minus 5 min. Error in countdown procedure. Countdown restated at
  T-minus 5 seconds. Please make sure you are at least 80 miles from the blast area. Have a great day.}
 {229}{}{A DO PRDELE...}

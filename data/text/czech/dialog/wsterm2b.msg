@@ -1,71 +1,71 @@
-{100}{}{Poèítaèovı terminál.}
-{101}{}{Na rùznıch místech poèítaèe jsou nalepeny obrázky spoøe odìnıch dívek.}
-{102}{}{Obrazovka je pro tebe zcela neèitelná.}
-{103}{}{Zbrojní pøístupovı terminál                                        Silová pole - Vypnuta                                           Elektrická podlaha - Vypnuta}
-{104}{}{Zbrojní pøístupovı terminál                                        Silová pole - Vypnuta                                           Elektrická podlaha - Zapnuta}
-{105}{}{Zbrojní pøístupovı terminál                                        Silová pole - Zapnuta                                           Elektrická podlaha - Vypnuta}
-{106}{}{Zbrojní pøístupovı terminál                                        Silová pole - Zapnuta                                           Elektrická podlaha - Zapnuta}
+{100}{}{PoÄÃ­taÄovÃ½ terminÃ¡l.}
+{101}{}{Na rÅ¯znÃ½ch mÃ­stech poÄÃ­taÄe jsou nalepeny obrÃ¡zky spoÅ™e odÄ›nÃ½ch dÃ­vek.}
+{102}{}{Obrazovka je pro tebe zcela neÄitelnÃ¡.}
+{103}{}{ZbrojnÃ­ pÅ™Ã­stupovÃ½ terminÃ¡l                                        SilovÃ¡ pole - Vypnuta                                           ElektrickÃ¡ podlaha - Vypnuta}
+{104}{}{ZbrojnÃ­ pÅ™Ã­stupovÃ½ terminÃ¡l                                        SilovÃ¡ pole - Vypnuta                                           ElektrickÃ¡ podlaha - Zapnuta}
+{105}{}{ZbrojnÃ­ pÅ™Ã­stupovÃ½ terminÃ¡l                                        SilovÃ¡ pole - Zapnuta                                           ElektrickÃ¡ podlaha - Vypnuta}
+{106}{}{ZbrojnÃ­ pÅ™Ã­stupovÃ½ terminÃ¡l                                        SilovÃ¡ pole - Zapnuta                                           ElektrickÃ¡ podlaha - Zapnuta}
 {107}{}{Vypnout elektrickou podlahu.}
-{108}{}{Vypnout silová pole.}
-{109}{}{Èíst poštu.}
+{108}{}{Vypnout silovÃ¡ pole.}
+{109}{}{ÄŒÃ­st poÅ¡tu.}
 {110}{}{Konec.}
-{111}{}{(A se snaíš sebevíc, tyhle zakroucené èáry ti nedávají praádnı smysl.)}
-{112}{}{Vypnout elektrickou podlahu                                        Prosím zadejte heslo:}
-{113}{}{Hacknout se do systému.}
-{114}{}{Hádat heslo.}
-{115}{}{Zpìt do hlavního menu.}
+{111}{}{(AÅ¥ se snaÅ¾Ã­Å¡ sebevÃ­c, tyhle zakroucenÃ© ÄÃ¡ry ti nedÃ¡vajÃ­ praÅ¾Ã¡dnÃ½ smysl.)}
+{112}{}{Vypnout elektrickou podlahu                                        ProsÃ­m zadejte heslo:}
+{113}{}{Hacknout se do systÃ©mu.}
+{114}{}{HÃ¡dat heslo.}
+{115}{}{ZpÄ›t do hlavnÃ­ho menu.}
 {116}{}{Konec.}
-{117}{}{(Tento program je na tebe pøíliš sloitı.)}
-{118}{}{Zpìt do hlavního menu.}
+{117}{}{(Tento program je na tebe pÅ™Ã­liÅ¡ sloÅ¾itÃ½.)}
+{118}{}{ZpÄ›t do hlavnÃ­ho menu.}
 {119}{}{Konec.}
-{120}{}{(Podaøilo se ti obejít pøístupové heslo a deaktivovat elektrickou podlahu.)}
-{121}{}{Zpìt do hlavního menu.}
+{120}{}{(PodaÅ™ilo se ti obejÃ­t pÅ™Ã­stupovÃ© heslo a deaktivovat elektrickou podlahu.)}
+{121}{}{ZpÄ›t do hlavnÃ­ho menu.}
 {122}{}{Konec.}
-{123}{}{Vypnout silová pole                                             Prosím zadejte heslo:}
-{124}{}{Hacknout se do systému.}
-{125}{}{Hádat heslo.}
-{126}{}{Zpìt do hlavního menu.}
+{123}{}{Vypnout silovÃ¡ pole                                             ProsÃ­m zadejte heslo:}
+{124}{}{Hacknout se do systÃ©mu.}
+{125}{}{HÃ¡dat heslo.}
+{126}{}{ZpÄ›t do hlavnÃ­ho menu.}
 {127}{}{Konec.}
-{128}{}{(Soubory jsou zašifrovány a bez dekodéru je nedokáeš pøeèíst.)}
-{129}{}{Zpìt do hlavního menu.}
+{128}{}{(Soubory jsou zaÅ¡ifrovÃ¡ny a bez dekodÃ©ru je nedokÃ¡Å¾eÅ¡ pÅ™eÄÃ­st.)}
+{129}{}{ZpÄ›t do hlavnÃ­ho menu.}
 {130}{}{Konec.}
-{131}{}{(Tak tohle byla celkem hraèka... silová pole jsou nyní vypnuta.)}
-{132}{}{Zpìt do hlavního menu.}
+{131}{}{(Tak tohle byla celkem hraÄka... silovÃ¡ pole jsou nynÃ­ vypnuta.)}
+{132}{}{ZpÄ›t do hlavnÃ­ho menu.}
 {133}{}{Konec.}
-{134}{}{(Nìkdo zapomnìl zavøít svùj mailbox.)                     Potvrzení objednávky                                              Pokyny k evakuaci                                                   Pøátelskı pozdrav                                                   Obchodní mail}
-{135}{}{[Vybrat soubor k pøeètení]}
-{136}{}{Èíst Potvrzení objednávky.}
-{137}{}{èíst Pokyny k evakuaci.}
-{138}{}{Èíst Pøátelskı pozdrav.}
-{139}{}{Èíst Obchodní mail.}
-{140}{}{Zpìt do hlavního menu.}
+{134}{}{(NÄ›kdo zapomnÄ›l zavÅ™Ã­t svÅ¯j mailbox.)                     PotvrzenÃ­ objednÃ¡vky                                              Pokyny k evakuaci                                                   PÅ™Ã¡telskÃ½ pozdrav                                                   ObchodnÃ­ mail}
+{135}{}{[Vybrat soubor k pÅ™eÄtenÃ­]}
+{136}{}{ÄŒÃ­st PotvrzenÃ­ objednÃ¡vky.}
+{137}{}{ÄÃ­st Pokyny k evakuaci.}
+{138}{}{ÄŒÃ­st PÅ™Ã¡telskÃ½ pozdrav.}
+{139}{}{ÄŒÃ­st ObchodnÃ­ mail.}
+{140}{}{ZpÄ›t do hlavnÃ­ho menu.}
 {141}{}{Konec.}
-{142}{}{Tato zpráva potvrzuje vaši objednávku videa "Debbie pracuje v armádì a polyká - díl 1059". Titul by vám mìl bıt doruèen poštou do dvou tıdnù. Dìkujeme, e jste vyuili našich slueb.}
-{143}{}{Èíst další mail.}
+{142}{}{Tato zprÃ¡va potvrzuje vaÅ¡i objednÃ¡vku videa "Debbie pracuje v armÃ¡dÄ› a polykÃ¡ - dÃ­l 1059". Titul by vÃ¡m mÄ›l bÃ½t doruÄen poÅ¡tou do dvou tÃ½dnÅ¯. DÄ›kujeme, Å¾e jste vyuÅ¾ili naÅ¡ich sluÅ¾eb.}
+{143}{}{ÄŒÃ­st dalÅ¡Ã­ mail.}
 {144}{}{Konec.}
-{145}{}{Evakuace Armádního skladu Sierra byla posunuta o jeden tıden dopøedu. Všechna bezpeènostní naøízení musí bıt splnìna do tohoto data. To vše na pøíkaz Generála Cliftona.}
-{146}{}{Èíst další mail.}
+{145}{}{Evakuace ArmÃ¡dnÃ­ho skladu Sierra byla posunuta o jeden tÃ½den dopÅ™edu. VÅ¡echna bezpeÄnostnÃ­ naÅ™Ã­zenÃ­ musÃ­ bÃ½t splnÄ›na do tohoto data. To vÅ¡e na pÅ™Ã­kaz GenerÃ¡la Cliftona.}
+{146}{}{ÄŒÃ­st dalÅ¡Ã­ mail.}
 {147}{}{Konec.}
-{148}{}{(Uslyšíš zvuk jiskøení nìkde z útrob terminálu. Zaèíná se z nìj kouøit... s mírnım odstupem sleduješ, jak se z klávesnice stává cosi tekutého. Hmm... to musí bıt jeden z tìch virù, o kterém se všichni zmiòují.)}
+{148}{}{(UslyÅ¡Ã­Å¡ zvuk jiskÅ™enÃ­ nÄ›kde z Ãºtrob terminÃ¡lu. ZaÄÃ­nÃ¡ se z nÄ›j kouÅ™it... s mÃ­rnÃ½m odstupem sledujeÅ¡, jak se z klÃ¡vesnice stÃ¡vÃ¡ cosi tekutÃ©ho. Hmm... to musÃ­ bÃ½t jeden z tÄ›ch virÅ¯, o kterÃ©m se vÅ¡ichni zmiÅˆujÃ­.)}
 {149}{}{Konec.}
-{150}{}{Tady Klinger z 8063. NUTNÌ potøebujeme souèástku ev. èíslo 102-53B. Mám tady bedınku Chateau Lafayette, roèník 2155, pokud by se ti to podaøilo nìjak popohnat. Díky a ozvi se!}
-{151}{}{Èíst další mail.}
+{150}{}{Tady Klinger z 8063. NUTNÄš potÅ™ebujeme souÄÃ¡stku ev. ÄÃ­slo 102-53B. MÃ¡m tady bedÃ½nku Chateau Lafayette, roÄnÃ­k 2155, pokud by se ti to podaÅ™ilo nÄ›jak popohnat. DÃ­ky a ozvi se!}
+{151}{}{ÄŒÃ­st dalÅ¡Ã­ mail.}
 {152}{}{Konec.}
-{153}{}{(Máš neuvìøitelné štìstí! Podaøilo se ti uhádnout heslo "Dudy".)
+{153}{}{(MÃ¡Å¡ neuvÄ›Å™itelnÃ© Å¡tÄ›stÃ­! PodaÅ™ilo se ti uhÃ¡dnout heslo "Dudy".)
                                                                Deaktivuji elektrickou podlahu}
-{154}{}{Zpìt do hlavního menu.}
+{154}{}{ZpÄ›t do hlavnÃ­ho menu.}
 {155}{}{Konec.}
-{156}{}{(Je úplnì jedno, jak dlouho se budeš snait... to heslo stejnì neuhádneš.)}
-{157}{}{Zpìt do hlavního menu.}
+{156}{}{(Je ÃºplnÄ› jedno, jak dlouho se budeÅ¡ snaÅ¾it... to heslo stejnÄ› neuhÃ¡dneÅ¡.)}
+{157}{}{ZpÄ›t do hlavnÃ­ho menu.}
 {158}{}{Konec.}
-{159}{}{(Ten, kdo tu vymıšlel hesla, musel bıt blázen do poprsí. Správné heslo je "Bradavky".)                                   Deaktivuji silová pole}
-{160}{}{Zpìt do hlavního menu.}
+{159}{}{(Ten, kdo tu vymÃ½Å¡lel hesla, musel bÃ½t blÃ¡zen do poprsÃ­. SprÃ¡vnÃ© heslo je "Bradavky".)                                   Deaktivuji silovÃ¡ pole}
+{160}{}{ZpÄ›t do hlavnÃ­ho menu.}
 {161}{}{Konec.}
-{162}{}{(Je úplnì jedno, jak dlouho se budeš snait... to heslo stejnì neuhádneš.)}
-{163}{}{Zpìt do hlavního menu.}
+{162}{}{(Je ÃºplnÄ› jedno, jak dlouho se budeÅ¡ snaÅ¾it... to heslo stejnÄ› neuhÃ¡dneÅ¡.)}
+{163}{}{ZpÄ›t do hlavnÃ­ho menu.}
 {164}{}{Konec.}
-{165}{}{(Tvoje neodborné hrátky zpùsobily, e ti terminál explodoval pøímo do tváøe.)}
+{165}{}{(Tvoje neodbornÃ© hrÃ¡tky zpÅ¯sobily, Å¾e ti terminÃ¡l explodoval pÅ™Ã­mo do tvÃ¡Å™e.)}
 {166}{}{Konec.}
-{200}{}{Tento terminál je nefunkèní.}
-{300}{}{Vypínáš energetické pláty.}
-{400}{}{Poèítaè je v diagnostickém reimu. Prosím vyèkejte, dokud proces neskonèí.}
+{200}{}{Tento terminÃ¡l je nefunkÄnÃ­.}
+{300}{}{VypÃ­nÃ¡Å¡ energetickÃ© plÃ¡ty.}
+{400}{}{PoÄÃ­taÄ je v diagnostickÃ©m reÅ¾imu. ProsÃ­m vyÄkejte, dokud proces neskonÄÃ­.}

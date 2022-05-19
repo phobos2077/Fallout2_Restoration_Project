@@ -1,9 +1,9 @@
-{100}{}{Vidíš paní Petersonovou.}
-{101}{}{Vidíš mladou, dobøe vypadající enu. Usmívá se, kdy tì vidí.}
-{200}{}{Vítej v Opatství.}
-{201}{}{Jestli nìco potøebuješ, promluv si s mım manelem.}
-{202}{}{To máme dnes ale krásnı den, e?}
-{300}{}{Vítej v Opatství.}
-{301}{}{Jestli nìco potøebuješ, promluv si s mım manelem.}
-{302}{}{To máme dnes ale kouzelnı veèer, e?}
-{400}{}{Nemám ti co øíct. Prosím, odejdi.}
+{100}{}{VidÃ­Å¡ panÃ­ Petersonovou.}
+{101}{}{VidÃ­Å¡ mladou, dobÅ™e vypadajÃ­cÃ­ Å¾enu. UsmÃ­vÃ¡ se, kdyÅ¾ tÄ› vidÃ­.}
+{200}{}{VÃ­tej v OpatstvÃ­.}
+{201}{}{Jestli nÄ›co potÅ™ebujeÅ¡, promluv si s mÃ½m manÅ¾elem.}
+{202}{}{To mÃ¡me dnes ale krÃ¡snÃ½ den, Å¾e?}
+{300}{}{VÃ­tej v OpatstvÃ­.}
+{301}{}{Jestli nÄ›co potÅ™ebujeÅ¡, promluv si s mÃ½m manÅ¾elem.}
+{302}{}{To mÃ¡me dnes ale kouzelnÃ½ veÄer, Å¾e?}
+{400}{}{NemÃ¡m ti co Å™Ã­ct. ProsÃ­m, odejdi.}

@@ -1,3 +1,3 @@
-{100}{}{Vidíš ponièenı pásek.}
-{101}{}{Pip-Boy ukazuje: Soubor nalezen v systému. Stahování zrušeno.}
+{100}{}{VidÃ­Å¡ poniÄenÃ½ pÃ¡sek.}
+{101}{}{Pip-Boy ukazuje: Soubor nalezen v systÃ©mu. StahovÃ¡nÃ­ zruÅ¡eno.}
 {102}{}{Pip-Boy ukazuje: Stahuji data z disku.}

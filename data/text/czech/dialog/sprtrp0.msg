@@ -1,7 +1,7 @@
-{100}{}{Vidíš vyvıšenou desku. Vypadá to jako èást nìjaké pasti.}
-{101}{}{ vidí vyvıšenou desku. Vypadá to jako èást nìjaké pasti.}
-{102}{}{Vidíš vyvıšenou desku.}
-{103}{}{ vidí vyvıšenou desku.}
-{104}{}{Tvou neopatrností se aktivovala past a jen tak tak se ti podaøilo vyhnout støele, která vyletìla ze zdi.}
-{105}{}{ svou neopatrností aktivoval past a jen tak tak se vyhnul støele, která vyletìla ze zdi.}
-{106}{}{Vidíš vyvıšenou desku. Nevypadá nebezpeènì.}
+{100}{}{VidÃ­Å¡ vyvÃ½Å¡enou desku. VypadÃ¡ to jako ÄÃ¡st nÄ›jakÃ© pasti.}
+{101}{}{ vidÃ­ vyvÃ½Å¡enou desku. VypadÃ¡ to jako ÄÃ¡st nÄ›jakÃ© pasti.}
+{102}{}{VidÃ­Å¡ vyvÃ½Å¡enou desku.}
+{103}{}{ vidÃ­ vyvÃ½Å¡enou desku.}
+{104}{}{Tvou neopatrnostÃ­ se aktivovala past a jen tak tak se ti podaÅ™ilo vyhnout stÅ™ele, kterÃ¡ vyletÄ›la ze zdi.}
+{105}{}{ svou neopatrnostÃ­ aktivoval past a jen tak tak se vyhnul stÅ™ele, kterÃ¡ vyletÄ›la ze zdi.}
+{106}{}{VidÃ­Å¡ vyvÃ½Å¡enou desku. NevypadÃ¡ nebezpeÄnÄ›.}

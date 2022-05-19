@@ -1,30 +1,30 @@
-{100}{}{Vidíš bystrého mue. Vypadá, e se pohybuje v byznysu.}
-{101}{}{Vidíš krupiéra hry Craps.}
-{102}{}{Má shrabovací hùl a spoustu etonù. Moná by stálo za to vyzkoušet své štìstí.}
-{103}{}{Vaše sázky, prosím. Zaèíná nové kolo.}
-{104}{}{Kolik vsadíte na PASSLINE?}
-{105}{}{Kolik vsadíte na DON'T PASSLINE?}
-{106}{}{Kolik vsadíte na COMELINE?}
-{107}{}{Kolik vsadíte na DON'T COMELINE?}
-{108}{}{Kolik vsadíte na FIELD?}
+{100}{}{VidÃ­Å¡ bystrÃ©ho muÅ¾e. VypadÃ¡, Å¾e se pohybuje v byznysu.}
+{101}{}{VidÃ­Å¡ krupiÃ©ra hry Craps.}
+{102}{}{MÃ¡ shrabovacÃ­ hÅ¯l a spoustu Å¾etonÅ¯. MoÅ¾nÃ¡ by stÃ¡lo za to vyzkouÅ¡et svÃ© Å¡tÄ›stÃ­.}
+{103}{}{VaÅ¡e sÃ¡zky, prosÃ­m. ZaÄÃ­nÃ¡ novÃ© kolo.}
+{104}{}{Kolik vsadÃ­te na PASSLINE?}
+{105}{}{Kolik vsadÃ­te na DON'T PASSLINE?}
+{106}{}{Kolik vsadÃ­te na COMELINE?}
+{107}{}{Kolik vsadÃ­te na DON'T COMELINE?}
+{108}{}{Kolik vsadÃ­te na FIELD?}
 {109}{}{Vsadit na}
 {110}{}{Pass line.}
 {111}{}{Don't Pass line.}
 {112}{}{Come line.}
 {113}{}{Don't Come line.}
-{114}{}{Propozièní sázky...}
-{115}{}{Umístit sázky...}
-{116}{}{Umístit sázku do pole.}
-{118}{}{Házet}
-{119}{}{Pass line sázka nastavena na:}
-{120}{}{Don't pass line sázka nastavena na:}
-{121}{}{Come line sázka nastavena na:}
+{114}{}{PropoziÄnÃ­ sÃ¡zky...}
+{115}{}{UmÃ­stit sÃ¡zky...}
+{116}{}{UmÃ­stit sÃ¡zku do pole.}
+{118}{}{HÃ¡zet}
+{119}{}{Pass line sÃ¡zka nastavena na:}
+{120}{}{Don't pass line sÃ¡zka nastavena na:}
+{121}{}{Come line sÃ¡zka nastavena na:}
 {122}{}{Don't come line nastaveno na:}
 {123}{}{7:}
-{124}{}{dvì trojky:}
-{125}{}{dvì ètyøky:}
-{126}{}{dvì pìtky:}
-{127}{}{dvì dvojky:}
+{124}{}{dvÄ› trojky:}
+{125}{}{dvÄ› ÄtyÅ™ky:}
+{126}{}{dvÄ› pÄ›tky:}
+{127}{}{dvÄ› dvojky:}
 {128}{}{1 a 2:}
 {129}{}{5 a 6:}
 {130}{}{1 a 1:}
@@ -48,99 +48,99 @@
 {148}{}{Odds 8:}
 {149}{}{Odds 9:}
 {150}{}{Odds 10:}
-{151}{}{Field sázka nastavena na:}
-{152}{}{Kterou PROPOZIÈNÍ SÁZKU?}
+{151}{}{Field sÃ¡zka nastavena na:}
+{152}{}{Kterou PROPOZIÄŒNÃ SÃZKU?}
 {153}{}{Kolik za to?}
-{154}{}{Single Roll sázky...}
-{155}{}{Tvrdé sázky...}
-{156}{}{Typ sázky?}
-{157}{}{Kolik vsadíte na svùj PLACEBET?}
+{154}{}{Single Roll sÃ¡zky...}
+{155}{}{TvrdÃ© sÃ¡zky...}
+{156}{}{Typ sÃ¡zky?}
+{157}{}{Kolik vsadÃ­te na svÅ¯j PLACEBET?}
 {200}{}{sedm (kurz 5 ku 1)}
-{201}{}{dvì trojky (kurz 10 ku 1)}
-{202}{}{dvì ètyøky (kurz 10 ku 1)}
-{203}{}{dvì pìtky (kurz 8 ku 1)}
-{204}{}{dvì dvojky (kurz 8 ku 1)}
+{201}{}{dvÄ› trojky (kurz 10 ku 1)}
+{202}{}{dvÄ› ÄtyÅ™ky (kurz 10 ku 1)}
+{203}{}{dvÄ› pÄ›tky (kurz 8 ku 1)}
+{204}{}{dvÄ› dvojky (kurz 8 ku 1)}
 {205}{}{1 a 2 (kurz 15 ku 1)}
 {206}{}{5 a 6 (kurz 15 ku 1)}
 {207}{}{1 a 1 (kurz 30 ku 1)}
 {208}{}{6 a 6 (kurz 30 ku 1)}
-{209}{}{Kterékoliv kostky (kurz 8 ku 1)}
-{299}{}{Kterou SÁZKU?}
+{209}{}{KterÃ©koliv kostky (kurz 8 ku 1)}
+{299}{}{Kterou SÃZKU?}
 {300}{}{na 4 (kurz 1.8)}
 {301}{}{na 5 (kurz 1.4)}
 {302}{}{na 6 (kurz 1.16)}
 {303}{}{na 8 (kurz 1.16)}
 {304}{}{na 9 (kurz 1.4)}
 {305}{}{na 10 (kurz 1.8)}
-{400}{}{Zpìt...}
+{400}{}{ZpÄ›t...}
 {500}{}{$}
 {501}{}{.}
-{600}{}{Sedm vyhrává.}
-{601}{}{Jedenáct vyhrává.}
-{602}{}{Dvì, prohrává.}
-{603}{}{Tøi, prohrává.}
-{604}{}{Dvanáct, prohrává.}
-{610}{}{Sedm prohrává.}
-{611}{}{Jedenáct prohrává.}
-{612}{}{Dvì, vyhrává.}
-{613}{}{Tøi, vyhrává.}
-{614}{}{Dvanáct, remíza.}
-{620}{}{Prop sázka na 7}
+{600}{}{Sedm vyhrÃ¡vÃ¡.}
+{601}{}{JedenÃ¡ct vyhrÃ¡vÃ¡.}
+{602}{}{DvÄ›, prohrÃ¡vÃ¡.}
+{603}{}{TÅ™i, prohrÃ¡vÃ¡.}
+{604}{}{DvanÃ¡ct, prohrÃ¡vÃ¡.}
+{610}{}{Sedm prohrÃ¡vÃ¡.}
+{611}{}{JedenÃ¡ct prohrÃ¡vÃ¡.}
+{612}{}{DvÄ›, vyhrÃ¡vÃ¡.}
+{613}{}{TÅ™i, vyhrÃ¡vÃ¡.}
+{614}{}{DvanÃ¡ct, remÃ­za.}
+{620}{}{Prop sÃ¡zka na 7}
 {621}{}{Prop bet double 3s}
-{622}{}{Prop sázka na dvì ètyøky}
-{623}{}{Prop sázka na dvì pìtky}
-{624}{}{Prop sázka na dvì dvojky}
-{625}{}{Prop sázka na 1 a 2}
-{626}{}{Prop sázka na 5 a 6}
-{627}{}{Prop sázka na 1 a 1}
-{628}{}{Prop sázka na 6 a 6}
-{629}{}{Prop sázka na Craps 2,3,12}
-{630}{}{Prohrává!}
-{631}{}{Vyhrává!}
-{650}{}{Place sázka 4}
-{651}{}{Place sázka 5}
-{652}{}{Place sázka 6}
-{653}{}{Place sázka 8}
-{654}{}{Place sázka 9}
-{655}{}{Place sázka 10}
-{660}{}{Field sázka 2 dvojnásobná vıhra.}
-{661}{}{Field sázka 3 vyhrává.}
-{662}{}{Field sázka 4 vyhrává.}
-{663}{}{Field sázka 9 vyhrává.}
-{664}{}{Field sázka 10 vyhrává.}
-{665}{}{Field sázka 11 vyhrává.}
-{666}{}{Field sázka 12 trojnásobná vıhra.}
-{667}{}{Field sázka prohrává.}
-{670}{}{Flat sázka 4}
-{671}{}{Flat sázka 5}
-{672}{}{Flat sázka 6}
-{673}{}{Flat sázka 8}
-{674}{}{Flat sázka 9}
-{675}{}{Flat sázka 10}
-{680}{}{Odds sázka 4}
-{681}{}{Odds sázka 5}
-{682}{}{Odds sázka 6}
-{683}{}{Odds sázka 8}
-{684}{}{Odds sázka 9}
-{685}{}{Odds sázka 10}
-{700}{}{Chybnı hod odds vráceny.}
-{701}{}{Hrát}
-{702}{}{Nehrát}
+{622}{}{Prop sÃ¡zka na dvÄ› ÄtyÅ™ky}
+{623}{}{Prop sÃ¡zka na dvÄ› pÄ›tky}
+{624}{}{Prop sÃ¡zka na dvÄ› dvojky}
+{625}{}{Prop sÃ¡zka na 1 a 2}
+{626}{}{Prop sÃ¡zka na 5 a 6}
+{627}{}{Prop sÃ¡zka na 1 a 1}
+{628}{}{Prop sÃ¡zka na 6 a 6}
+{629}{}{Prop sÃ¡zka na Craps 2,3,12}
+{630}{}{ProhrÃ¡vÃ¡!}
+{631}{}{VyhrÃ¡vÃ¡!}
+{650}{}{Place sÃ¡zka 4}
+{651}{}{Place sÃ¡zka 5}
+{652}{}{Place sÃ¡zka 6}
+{653}{}{Place sÃ¡zka 8}
+{654}{}{Place sÃ¡zka 9}
+{655}{}{Place sÃ¡zka 10}
+{660}{}{Field sÃ¡zka 2 dvojnÃ¡sobnÃ¡ vÃ½hra.}
+{661}{}{Field sÃ¡zka 3 vyhrÃ¡vÃ¡.}
+{662}{}{Field sÃ¡zka 4 vyhrÃ¡vÃ¡.}
+{663}{}{Field sÃ¡zka 9 vyhrÃ¡vÃ¡.}
+{664}{}{Field sÃ¡zka 10 vyhrÃ¡vÃ¡.}
+{665}{}{Field sÃ¡zka 11 vyhrÃ¡vÃ¡.}
+{666}{}{Field sÃ¡zka 12 trojnÃ¡sobnÃ¡ vÃ½hra.}
+{667}{}{Field sÃ¡zka prohrÃ¡vÃ¡.}
+{670}{}{Flat sÃ¡zka 4}
+{671}{}{Flat sÃ¡zka 5}
+{672}{}{Flat sÃ¡zka 6}
+{673}{}{Flat sÃ¡zka 8}
+{674}{}{Flat sÃ¡zka 9}
+{675}{}{Flat sÃ¡zka 10}
+{680}{}{Odds sÃ¡zka 4}
+{681}{}{Odds sÃ¡zka 5}
+{682}{}{Odds sÃ¡zka 6}
+{683}{}{Odds sÃ¡zka 8}
+{684}{}{Odds sÃ¡zka 9}
+{685}{}{Odds sÃ¡zka 10}
+{700}{}{ChybnÃ½ hod odds vrÃ¡ceny.}
+{701}{}{HrÃ¡t}
+{702}{}{NehrÃ¡t}
 {710}{}{Kostka1:}
 {711}{}{Kostka2:}
-{712}{}{Promiòte, ale musím odejít.}
-{713}{}{Promiòte, ale tuhle sázku neuzavøu.}
-{714}{}{Odebírám.}
-{800}{}{Vem Odds na hranıch èíslech.}
-{801}{}{Vybrat odds násobitel. Odds:}
+{712}{}{PromiÅˆte, ale musÃ­m odejÃ­t.}
+{713}{}{PromiÅˆte, ale tuhle sÃ¡zku neuzavÅ™u.}
+{714}{}{OdebÃ­rÃ¡m.}
+{800}{}{Vem Odds na hranÃ½ch ÄÃ­slech.}
+{801}{}{Vybrat odds nÃ¡sobitel. Odds:}
 {802}{}{x odds.}
-{803}{}{momentálnì na:}
-{804}{}{Odds sázka na 4.}
-{805}{}{Odds sázka na 5.}
-{806}{}{Odds sázka na 6.}
-{807}{}{Odds sázka na 8.}
-{808}{}{Odds sázka na 9.}
-{809}{}{Odds sázka na 10.}
-{810}{}{Na které èíslo vsadit?}
-{1100}{}{Vidíš všímavou enu se smyslem pro byznys.}
-{1102}{}{Má shrabovací hùl a spoustu etonù. Moná bys mìl vyzkoušet své štìstí.}
+{803}{}{momentÃ¡lnÄ› na:}
+{804}{}{Odds sÃ¡zka na 4.}
+{805}{}{Odds sÃ¡zka na 5.}
+{806}{}{Odds sÃ¡zka na 6.}
+{807}{}{Odds sÃ¡zka na 8.}
+{808}{}{Odds sÃ¡zka na 9.}
+{809}{}{Odds sÃ¡zka na 10.}
+{810}{}{Na kterÃ© ÄÃ­slo vsadit?}
+{1100}{}{VidÃ­Å¡ vÅ¡Ã­mavou Å¾enu se smyslem pro byznys.}
+{1102}{}{MÃ¡ shrabovacÃ­ hÅ¯l a spoustu Å¾etonÅ¯. MoÅ¾nÃ¡ bys mÄ›l vyzkouÅ¡et svÃ© Å¡tÄ›stÃ­.}

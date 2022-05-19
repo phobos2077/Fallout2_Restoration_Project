@@ -1,3 +1,3 @@
-{100}{}{Vidíš strá.}
-{101}{}{Vidíš jednoho z Darionovıch muù.}
-{102}{}{Má zbroj, zbranì a špatnou náladu. Jeden z tìch, co ani trochu nemají rádi tvou spoleènost.}
+{100}{}{VidÃ­Å¡ strÃ¡Å¾.}
+{101}{}{VidÃ­Å¡ jednoho z DarionovÃ½ch muÅ¾Å¯.}
+{102}{}{MÃ¡ zbroj, zbranÄ› a Å¡patnou nÃ¡ladu. Jeden z tÄ›ch, co ani trochu nemajÃ­ rÃ¡di tvou spoleÄnost.}

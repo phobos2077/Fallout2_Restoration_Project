@@ -1,383 +1,383 @@
-{150}{}{Vidíš èernocha v obnošeném obleku. Kdy si všimne, e se na nìj díváš, usmìje se a jeho zlaté zuby se zatøpytí ve svìtle lamp.}
-{151}{}{Vidíš Julese.}
-{200}{}{Ukáu ti to tady, otrokáøi.}
-{201}{}{Jdi za Mordinama, otrokáøi. Kšeftujou s vìtšinou otrokù, kterı se dostanou do New Rena.}
-{202}{}{Nováèek v Renu, otrokáøi? Tak to potøebuješ pøátelskou radu.}
-{203}{}{Zdar, otrokáøi. Pojï si na chvíli pokecat.}
-{204}{}{Otrokáøi, kdy si nepromluvíš s Julesem, tak se nikdy nedozvíš ani POLOVINU vìcí, co New Reno nabízí.}
-{205}{}{Nazdar, otrokáøi! Máš minutku?}
-{206}{}{Hledáš nìco, otrokáøi? Jules ti to pomùe najít.}
-{220}{}{Nováèek ve mìstì? Nechceš se na nìco zeptat?}
-{221}{}{Nazdar. Pojï si na chvíli pokecat.}
-{222}{}{Kámo, kdy si nepromluvíš s Julesem, tak se nikdy nedozvíš ani POLOVINU vìcí, co New Reno nabízí.}
-{223}{}{New Reno je nebezpeènı místo, kámo. Pojï sem a já ti vysvìtlím, co je bezpeènı a co ne.}
-{224}{}{Nazdar! Máš minutku, kámo?}
-{225}{}{Kámo, ty a já bysme si mìli pokecat. Ukáu ti to tady.}
-{226}{}{Hledáš nìco, kámo? Jules ti to pomùe najít.}
-{240}{}{Halelujááá! Vdycky jsem vìdìl, e z tebe bude hrdina! Vìdìl jsem to!}
-{241}{}{Hrdina pøichází! Udìlejte místo, udìlejte místo!}
-{242}{}{Pojï se pozdravit se starım kámošem Julesem.}
-{243}{}{Nechceš se se mnou podìlit o trochu svı slávy, hrdino?}
-{244}{}{Nechceš se se mnou podìlit o trochu svıho bohatství, hrdino?}
-{245}{}{Jules se k tobì vdycky choval slušnì... take všem øíkej, e mì znáš, hrdino, jasnı?}
-{246}{}{Slyšel jsem, e tì shánìj Korsiètí bratøi, hrdino...}
-{260}{}{Sáákryš. Myslím, e my dva bysme mìli bıt kámoši.}
-{261}{}{Jak sakra chodíš s tou zbrojí na záchod?}
-{262}{}{Co TO sakra je? Chodící auto?}
-{263}{}{Feáci se podìlaj strachy, a tì v tomhle uvidìj.}
-{280}{}{Pøimluvíš se za mì u svıho šéfa, brácho?}
-{281}{}{Nazdar, brácho, doufám, e jsi pøi svım vzestupu nezapomnìl na starıho kámoše Julese.}
-{282}{}{Nazdar, Zlej a Nebezpeènej! Øekl bych, e se ti v New Renu daøí!}
-{283}{}{Kdyby tvùj šéf potøeboval nìjakıho dealera Jetu, jsem tu...}
-{284}{}{Pøimluvíš se za mì u svıho šéfa, ségro?}
-{285}{}{Nazdar, ségro, doufám, e jsi pøi svım vzestupu nezapomnìla na starıho kámoše Julese.}
-{300}{}{Zdar, šampióne! Øekl bych, e se ti v New Renu daøí!}
-{301}{}{Nazdar, šampióne, doufám, e jsi pøi svım vzestupu nezapomnìl na starıho kámoše Julese.}
-{302}{}{Štìstìna se na tebe usmála, brácho. Jseš boí.}
-{303}{}{Vdycky jsem vìdìl, e tvı jméno bude záøit. Vìdìl jsem to hned, jak jsem tì spatøil.}
-{304}{}{Zdar, ségro bitkáøko! Øekl bych, e se ti v New Renu daøí!}
-{305}{}{Nazdar, ségro šampiónko, doufám, e jsi pøi svım vzestupu nezapomnìla na starıho kámoše Julese.}
-{306}{}{Štìstìna se na tebe usmála, paní šampiónko. Jseš boí.}
-{320}{}{Sákryš, podívejte se na tu záøící hvìzdu... záøíš tak, e tì skoro nevidím, brácho!}
-{321}{}{Zdar, mùj obdaøenej brácho! Øekl bych, e se ti v New Renu daøí!}
-{322}{}{Co kdybys mì pøedstavil nìkterejm hereèkám, se kterıma dìláš, brácho?}
-{323}{}{Nazdar, doufám, e jsi pøi svım vzestupu nezapomnìla na starıho kámoše Julese.}
-{324}{}{Štìstìna se na tebe usmála, chlape. Jseš boí.}
-{325}{}{Vdycky jsem vìdìl, e tvı jméno bude záøit. Vìdìl jsem to hned, jak jsem tì spatøil.}
-{340}{}{No podívejte se na tu slaïounkou sestøièku.}
-{341}{}{Puká mi srdce, kdy tì vidím.}
-{342}{}{No tak, ségro, co takhle pusa pro starıho Julese?}
-{343}{}{Sákryš, podívejte se na tu záøící hvìzdu... záøíš tak, e tì skoro nevidím, ségro!}
-{344}{}{Nazdar! Øekl bych, e se ti v New Renu daøí!}
-{345}{}{Co kdybych si s tebou zahrál v pár scénách, drahoušku?}
-{346}{}{Nazdar, doufám, e jsi pøi svım vzestupu nezapomnìla na starıho kámoše Julese.}
-{347}{}{Štìstìna se na tebe usmála, drahoušku. Jseš boí.}
-{348}{}{Vdycky jsem vìdìl, e tvı jméno bude záøit. Vìdìl jsem to hned, jak jsem tì spatøil.}
-{349}{}{Jseš fakt parádní koèka, kdy øveš a vzdycháš ve filmech.}
-{350}{}{Nedokáu popsat, jak moc tvrdì tì zase vidím.}
+{150}{}{VidÃ­Å¡ Äernocha v obnoÅ¡enÃ©m obleku. KdyÅ¾ si vÅ¡imne, Å¾e se na nÄ›j dÃ­vÃ¡Å¡, usmÄ›je se a jeho zlatÃ© zuby se zatÅ™pytÃ­ ve svÄ›tle lamp.}
+{151}{}{VidÃ­Å¡ Julese.}
+{200}{}{UkÃ¡Å¾u ti to tady, otrokÃ¡Å™i.}
+{201}{}{Jdi za Mordinama, otrokÃ¡Å™i. KÅ¡eftujou s vÄ›tÅ¡inou otrokÅ¯, kterÃ½ se dostanou do New Rena.}
+{202}{}{NovÃ¡Äek v Renu, otrokÃ¡Å™i? Tak to potÅ™ebujeÅ¡ pÅ™Ã¡telskou radu.}
+{203}{}{Zdar, otrokÃ¡Å™i. PojÄ si na chvÃ­li pokecat.}
+{204}{}{OtrokÃ¡Å™i, kdyÅ¾ si nepromluvÃ­Å¡ s Julesem, tak se nikdy nedozvÃ­Å¡ ani POLOVINU vÄ›cÃ­, co New Reno nabÃ­zÃ­.}
+{205}{}{Nazdar, otrokÃ¡Å™i! MÃ¡Å¡ minutku?}
+{206}{}{HledÃ¡Å¡ nÄ›co, otrokÃ¡Å™i? Jules ti to pomÅ¯Å¾e najÃ­t.}
+{220}{}{NovÃ¡Äek ve mÄ›stÄ›? NechceÅ¡ se na nÄ›co zeptat?}
+{221}{}{Nazdar. PojÄ si na chvÃ­li pokecat.}
+{222}{}{KÃ¡mo, kdyÅ¾ si nepromluvÃ­Å¡ s Julesem, tak se nikdy nedozvÃ­Å¡ ani POLOVINU vÄ›cÃ­, co New Reno nabÃ­zÃ­.}
+{223}{}{New Reno je nebezpeÄnÃ½ mÃ­sto, kÃ¡mo. PojÄ sem a jÃ¡ ti vysvÄ›tlÃ­m, co je bezpeÄnÃ½ a co ne.}
+{224}{}{Nazdar! MÃ¡Å¡ minutku, kÃ¡mo?}
+{225}{}{KÃ¡mo, ty a jÃ¡ bysme si mÄ›li pokecat. UkÃ¡Å¾u ti to tady.}
+{226}{}{HledÃ¡Å¡ nÄ›co, kÃ¡mo? Jules ti to pomÅ¯Å¾e najÃ­t.}
+{240}{}{HalelujÃ¡Ã¡Ã¡! VÅ¾dycky jsem vÄ›dÄ›l, Å¾e z tebe bude hrdina! VÄ›dÄ›l jsem to!}
+{241}{}{Hrdina pÅ™ichÃ¡zÃ­! UdÄ›lejte mÃ­sto, udÄ›lejte mÃ­sto!}
+{242}{}{PojÄ se pozdravit se starÃ½m kÃ¡moÅ¡em Julesem.}
+{243}{}{NechceÅ¡ se se mnou podÄ›lit o trochu svÃ½ slÃ¡vy, hrdino?}
+{244}{}{NechceÅ¡ se se mnou podÄ›lit o trochu svÃ½ho bohatstvÃ­, hrdino?}
+{245}{}{Jules se k tobÄ› vÅ¾dycky choval sluÅ¡nÄ›... takÅ¾e vÅ¡em Å™Ã­kej, Å¾e mÄ› znÃ¡Å¡, hrdino, jasnÃ½?}
+{246}{}{SlyÅ¡el jsem, Å¾e tÄ› shÃ¡nÄ›j KorsiÄtÃ­ bratÅ™i, hrdino...}
+{260}{}{SÃ¡Ã¡kryÅ¡. MyslÃ­m, Å¾e my dva bysme mÄ›li bÃ½t kÃ¡moÅ¡i.}
+{261}{}{Jak sakra chodÃ­Å¡ s tou zbrojÃ­ na zÃ¡chod?}
+{262}{}{Co TO sakra je? ChodÃ­cÃ­ auto?}
+{263}{}{FeÅ¥Ã¡ci se podÄ›laj strachy, aÅ¾ tÄ› v tomhle uvidÄ›j.}
+{280}{}{PÅ™imluvÃ­Å¡ se za mÄ› u svÃ½ho Å¡Ã©fa, brÃ¡cho?}
+{281}{}{Nazdar, brÃ¡cho, doufÃ¡m, Å¾e jsi pÅ™i svÃ½m vzestupu nezapomnÄ›l na starÃ½ho kÃ¡moÅ¡e Julese.}
+{282}{}{Nazdar, Zlej a NebezpeÄnej! Å˜ekl bych, Å¾e se ti v New Renu daÅ™Ã­!}
+{283}{}{Kdyby tvÅ¯j Å¡Ã©f potÅ™eboval nÄ›jakÃ½ho dealera Jetu, jsem tu...}
+{284}{}{PÅ™imluvÃ­Å¡ se za mÄ› u svÃ½ho Å¡Ã©fa, sÃ©gro?}
+{285}{}{Nazdar, sÃ©gro, doufÃ¡m, Å¾e jsi pÅ™i svÃ½m vzestupu nezapomnÄ›la na starÃ½ho kÃ¡moÅ¡e Julese.}
+{300}{}{Zdar, Å¡ampiÃ³ne! Å˜ekl bych, Å¾e se ti v New Renu daÅ™Ã­!}
+{301}{}{Nazdar, Å¡ampiÃ³ne, doufÃ¡m, Å¾e jsi pÅ™i svÃ½m vzestupu nezapomnÄ›l na starÃ½ho kÃ¡moÅ¡e Julese.}
+{302}{}{Å tÄ›stÄ›na se na tebe usmÃ¡la, brÃ¡cho. JseÅ¡ boÅ¾Ã­.}
+{303}{}{VÅ¾dycky jsem vÄ›dÄ›l, Å¾e tvÃ½ jmÃ©no bude zÃ¡Å™it. VÄ›dÄ›l jsem to hned, jak jsem tÄ› spatÅ™il.}
+{304}{}{Zdar, sÃ©gro bitkÃ¡Å™ko! Å˜ekl bych, Å¾e se ti v New Renu daÅ™Ã­!}
+{305}{}{Nazdar, sÃ©gro Å¡ampiÃ³nko, doufÃ¡m, Å¾e jsi pÅ™i svÃ½m vzestupu nezapomnÄ›la na starÃ½ho kÃ¡moÅ¡e Julese.}
+{306}{}{Å tÄ›stÄ›na se na tebe usmÃ¡la, panÃ­ Å¡ampiÃ³nko. JseÅ¡ boÅ¾Ã­.}
+{320}{}{SÃ¡kryÅ¡, podÃ­vejte se na tu zÃ¡Å™Ã­cÃ­ hvÄ›zdu... zÃ¡Å™Ã­Å¡ tak, Å¾e tÄ› skoro nevidÃ­m, brÃ¡cho!}
+{321}{}{Zdar, mÅ¯j obdaÅ™enej brÃ¡cho! Å˜ekl bych, Å¾e se ti v New Renu daÅ™Ã­!}
+{322}{}{Co kdybys mÄ› pÅ™edstavil nÄ›kterejm hereÄkÃ¡m, se kterÃ½ma dÄ›lÃ¡Å¡, brÃ¡cho?}
+{323}{}{Nazdar, doufÃ¡m, Å¾e jsi pÅ™i svÃ½m vzestupu nezapomnÄ›la na starÃ½ho kÃ¡moÅ¡e Julese.}
+{324}{}{Å tÄ›stÄ›na se na tebe usmÃ¡la, chlape. JseÅ¡ boÅ¾Ã­.}
+{325}{}{VÅ¾dycky jsem vÄ›dÄ›l, Å¾e tvÃ½ jmÃ©no bude zÃ¡Å™it. VÄ›dÄ›l jsem to hned, jak jsem tÄ› spatÅ™il.}
+{340}{}{No podÃ­vejte se na tu slaÄounkou sestÅ™iÄku.}
+{341}{}{PukÃ¡ mi srdce, kdyÅ¾ tÄ› vidÃ­m.}
+{342}{}{No tak, sÃ©gro, co takhle pusa pro starÃ½ho Julese?}
+{343}{}{SÃ¡kryÅ¡, podÃ­vejte se na tu zÃ¡Å™Ã­cÃ­ hvÄ›zdu... zÃ¡Å™Ã­Å¡ tak, Å¾e tÄ› skoro nevidÃ­m, sÃ©gro!}
+{344}{}{Nazdar! Å˜ekl bych, Å¾e se ti v New Renu daÅ™Ã­!}
+{345}{}{Co kdybych si s tebou zahrÃ¡l v pÃ¡r scÃ©nÃ¡ch, drahouÅ¡ku?}
+{346}{}{Nazdar, doufÃ¡m, Å¾e jsi pÅ™i svÃ½m vzestupu nezapomnÄ›la na starÃ½ho kÃ¡moÅ¡e Julese.}
+{347}{}{Å tÄ›stÄ›na se na tebe usmÃ¡la, drahouÅ¡ku. JseÅ¡ boÅ¾Ã­.}
+{348}{}{VÅ¾dycky jsem vÄ›dÄ›l, Å¾e tvÃ½ jmÃ©no bude zÃ¡Å™it. VÄ›dÄ›l jsem to hned, jak jsem tÄ› spatÅ™il.}
+{349}{}{JseÅ¡ fakt parÃ¡dnÃ­ koÄka, kdyÅ¾ Å™veÅ¡ a vzdychÃ¡Å¡ ve filmech.}
+{350}{}{NedokÃ¡Å¾u popsat, jak moc tvrdÄ› tÄ› zase vidÃ­m.}
 {365}{}{To je MUTANT?}
-{366}{}{Ten mutant vypadá jako pìknì velkej hajzl.}
-{367}{}{Mutanti v New Renu? To urèitì znamená, e se blíí pohroma...}
-{368}{}{Mutanti z pustin? Nebylo to tak pøed osmdesáti lety?}
-{369}{}{Ten mutant v Renu dlouho nepøeije...}
-{370}{}{To bude masakr, a si nìkdo z rodin všimne toho mutanta...}
-{380}{}{To je nìjakej hrací automat co za tebou poøád jezdí?}
-{381}{}{To je nìjakej novej hrací automat?}
-{382}{}{Umí ten tvùj robot nìjakı triky? Eh... myslím kouzelnı triky.}
-{383}{}{Nechceš toho robota prodat? Mozek si mùeš nechat.}
-{390}{}{A hele ghoul... já vìdìl, e nìco cítím.}
-{391}{}{Ten ghoul v Renu dlouho nepøeije...}
-{392}{}{To bude masakr, a si nìkdo z rodin všimne toho ghoula...}
+{366}{}{Ten mutant vypadÃ¡ jako pÄ›knÄ› velkej hajzl.}
+{367}{}{Mutanti v New Renu? To urÄitÄ› znamenÃ¡, Å¾e se blÃ­Å¾Ã­ pohroma...}
+{368}{}{Mutanti z pustin? Nebylo to tak pÅ™ed osmdesÃ¡ti lety?}
+{369}{}{Ten mutant v Renu dlouho nepÅ™eÅ¾ije...}
+{370}{}{To bude masakr, aÅ¾ si nÄ›kdo z rodin vÅ¡imne toho mutanta...}
+{380}{}{To je nÄ›jakej hracÃ­ automat co za tebou poÅ™Ã¡d jezdÃ­?}
+{381}{}{To je nÄ›jakej novej hracÃ­ automat?}
+{382}{}{UmÃ­ ten tvÅ¯j robot nÄ›jakÃ½ triky? Eh... myslÃ­m kouzelnÃ½ triky.}
+{383}{}{NechceÅ¡ toho robota prodat? Mozek si mÅ¯Å¾eÅ¡ nechat.}
+{390}{}{A hele ghoul... jÃ¡ vÄ›dÄ›l, Å¾e nÄ›co cÃ­tÃ­m.}
+{391}{}{Ten ghoul v Renu dlouho nepÅ™eÅ¾ije...}
+{392}{}{To bude masakr, aÅ¾ si nÄ›kdo z rodin vÅ¡imne toho ghoula...}
 {400}{}{Hodnej kyberpejsek, hodnej pejsek...}
-{401}{}{Hodnej kyberpejsek... hodnej pejsek... moná mám u sebe nìjakou kostièku...}
-{402}{}{Ten pes je první dobrej dùvod, proè byl zavedenej zákon o nutnosti vodítka.}
-{403}{}{Ten pes je ze eleza? A já si o sobì myslel, e jsem tvrïák.}
-{404}{}{Zajímalo by mì, jestli se daj kyberpsi chovat...}
-{410}{}{Reno si tì dá klidnì ke snídani. Nebo svaèinì.}
-{411}{}{Èlovìk se tu snadno ztratí a Jules je ten, kterej ti pomùe.}
-{412}{}{Tohle mìsto je pro nováèky pìknì nebezpeènı... pojï si se mnou pokecat a já ti poradím.}
-{413}{}{enskı, prachy, enskı, prachy... co víc si pøát?}
-{414}{}{Jet, enskı, kvéry... vím všechno. Staèí se jenom ZEPTAT.}
-{415}{}{Reno... mìsto, kterı nikdy nespí.}
-{416}{}{Jet, prachy, Jet, prachy... co víc si pøát?}
-{417}{}{Pøistup blíe.}
-{418}{}{Jules jsou tvı OÈI a tvı UŠI v New Renu.}
-{419}{}{Reno - nejvìtší malı mìsto v pustinì, kámo.}
-{420}{}{Jseš novej ve mìstì? Tak to potøebuješ pøátelskou radu.}
-{421}{}{Jules je ten, kterıho POTØEBUJEŠ.}
-{422}{}{Ty máš chu, já mám spásu.}
-{423}{}{Reno NIKDY nespí, take potøebuješ pár rad.}
-{424}{}{Reno si tì dá klidnì ke snídani. A já taky.}
-{425}{}{enská se tu snadno ztratí. Jestli chceš, tak ti Jules pomùe.}
-{426}{}{Tohle mìsto dokáe enskou svlíknout donaha... pojï si se mnou pokecat a já tì svlíknu poøádnì.}
-{427}{}{Hej! Na slovíèko, ségro!}
-{428}{}{Jseš nová ve mìstì, ségro? Tak to potøebuješ pøátelskou radu, holka.}
-{429}{}{Potøebuješ Jet? Potøebuješ zbranì? Ségro, já vím všechno. Staèí se ZEPTAT.}
-{450}{}{(Usmìje se a v jeho ústech se zatøpytí zlatı zub. Síla jeho kolínské ti vehnala slzy do oèí.) }
-{451}{}{VÍTEJ v záøivıch ulicích mìsta New Reno, brácho!}
-{452}{}{VÍTEJ v záøivıch ulicích mìsta New Reno, ségro!}
+{401}{}{Hodnej kyberpejsek... hodnej pejsek... moÅ¾nÃ¡ mÃ¡m u sebe nÄ›jakou kostiÄku...}
+{402}{}{Ten pes je prvnÃ­ dobrej dÅ¯vod, proÄ byl zavedenej zÃ¡kon o nutnosti vodÃ­tka.}
+{403}{}{Ten pes je ze Å¾eleza? A jÃ¡ si o sobÄ› myslel, Å¾e jsem tvrÄÃ¡k.}
+{404}{}{ZajÃ­malo by mÄ›, jestli se daj kyberpsi chovat...}
+{410}{}{Reno si tÄ› dÃ¡ klidnÄ› ke snÃ­dani. Nebo svaÄinÄ›.}
+{411}{}{ÄŒlovÄ›k se tu snadno ztratÃ­ a Jules je ten, kterej ti pomÅ¯Å¾e.}
+{412}{}{Tohle mÄ›sto je pro novÃ¡Äky pÄ›knÄ› nebezpeÄnÃ½... pojÄ si se mnou pokecat a jÃ¡ ti poradÃ­m.}
+{413}{}{Å½enskÃ½, prachy, Å¾enskÃ½, prachy... co vÃ­c si pÅ™Ã¡t?}
+{414}{}{Jet, Å¾enskÃ½, kvÃ©ry... vÃ­m vÅ¡echno. StaÄÃ­ se jenom ZEPTAT.}
+{415}{}{Reno... mÄ›sto, kterÃ½ nikdy nespÃ­.}
+{416}{}{Jet, prachy, Jet, prachy... co vÃ­c si pÅ™Ã¡t?}
+{417}{}{PÅ™istup blÃ­Å¾e.}
+{418}{}{Jules jsou tvÃ½ OÄŒI a tvÃ½ UÅ I v New Renu.}
+{419}{}{Reno - nejvÄ›tÅ¡Ã­ malÃ½ mÄ›sto v pustinÄ›, kÃ¡mo.}
+{420}{}{JseÅ¡ novej ve mÄ›stÄ›? Tak to potÅ™ebujeÅ¡ pÅ™Ã¡telskou radu.}
+{421}{}{Jules je ten, kterÃ½ho POTÅ˜EBUJEÅ .}
+{422}{}{Ty mÃ¡Å¡ chuÅ¥, jÃ¡ mÃ¡m spÃ¡su.}
+{423}{}{Reno NIKDY nespÃ­, takÅ¾e potÅ™ebujeÅ¡ pÃ¡r rad.}
+{424}{}{Reno si tÄ› dÃ¡ klidnÄ› ke snÃ­dani. A jÃ¡ taky.}
+{425}{}{Å½enskÃ¡ se tu snadno ztratÃ­. Jestli chceÅ¡, tak ti Jules pomÅ¯Å¾e.}
+{426}{}{Tohle mÄ›sto dokÃ¡Å¾e Å¾enskou svlÃ­knout donaha... pojÄ si se mnou pokecat a jÃ¡ tÄ› svlÃ­knu poÅ™Ã¡dnÄ›.}
+{427}{}{Hej! Na slovÃ­Äko, sÃ©gro!}
+{428}{}{JseÅ¡ novÃ¡ ve mÄ›stÄ›, sÃ©gro? Tak to potÅ™ebujeÅ¡ pÅ™Ã¡telskou radu, holka.}
+{429}{}{PotÅ™ebujeÅ¡ Jet? PotÅ™ebujeÅ¡ zbranÄ›? SÃ©gro, jÃ¡ vÃ­m vÅ¡echno. StaÄÃ­ se ZEPTAT.}
+{450}{}{(UsmÄ›je se a v jeho Ãºstech se zatÅ™pytÃ­ zlatÃ½ zub. SÃ­la jeho kolÃ­nskÃ© ti vehnala slzy do oÄÃ­.) }
+{451}{}{VÃTEJ v zÃ¡Å™ivÃ½ch ulicÃ­ch mÄ›sta New Reno, brÃ¡cho!}
+{452}{}{VÃTEJ v zÃ¡Å™ivÃ½ch ulicÃ­ch mÄ›sta New Reno, sÃ©gro!}
 {453}{}{Cooo? Co...?}
 {454}{}{A ty jsi...?}
-{460}{}{Jmenuju se Jules a bude mi potìšením tì provıst tímhle mìstem a seenu ti cokoliv, co budeš potøebovat.}
-{461}{}{Jmenuju se Jules a musím øíct, e jsem v ulicích New Rena ještì nevidìl hezèí enskou, ne jseš ty. Bude mi potìšením tì provıst tímhle mìstem a seenu ti cokoliv, co budeš potøebovat.}
-{462}{}{Hej, hej, hej, vítej zpátky. Potøebuješ nìco od Julese, kámo?}
-{463}{}{Já hledat... eh. Já zase zapomnìt.}
+{460}{}{Jmenuju se Jules a bude mi potÄ›Å¡enÃ­m tÄ› provÃ½st tÃ­mhle mÄ›stem a seÅ¾enu ti cokoliv, co budeÅ¡ potÅ™ebovat.}
+{461}{}{Jmenuju se Jules a musÃ­m Å™Ã­ct, Å¾e jsem v ulicÃ­ch New Rena jeÅ¡tÄ› nevidÄ›l hezÄÃ­ Å¾enskou, neÅ¾ jseÅ¡ ty. Bude mi potÄ›Å¡enÃ­m tÄ› provÃ½st tÃ­mhle mÄ›stem a seÅ¾enu ti cokoliv, co budeÅ¡ potÅ™ebovat.}
+{462}{}{Hej, hej, hej, vÃ­tej zpÃ¡tky. PotÅ™ebujeÅ¡ nÄ›co od Julese, kÃ¡mo?}
+{463}{}{JÃ¡ hledat... eh. JÃ¡ zase zapomnÄ›t.}
 {464}{}{Odbelhat se.}
-{465}{}{Fajn. Mùeš mi pomoct?}
+{465}{}{Fajn. MÅ¯Å¾eÅ¡ mi pomoct?}
 {466}{}{Well, I had some questions...}
-{467}{}{Julesi, nevíš co se stalo synovi pana Wrighta?}
-{468}{}{Julesi, nevidìl jsi moje auto? Bylo támhle zaparkovanı a teï je pryè.}
-{469}{}{Poslyš... "Jules", ano? Nejspíš se touhle konverzací snaíš nìco získat, take na rovinu: O co se tu snaíš?}
-{470}{}{No, zajímalo by mì... co máš z toho, kdy provádíš návštìvníky mìstem, Julesi?}
-{471}{}{Dnes ne, Julesi. Díky.}
-{472}{}{Ne, díky. Zatím, Julesi.}
-{480}{}{Eh... nenamáhej si mozek, brácho. Hlavnì si nìjak neubli, jasnı?}
-{481}{}{Eh... nenamáhej si mozek, ségro. Hlavnì si nìjak neubli, jasnı?}
-{482}{}{Hi tı hi tı hi tı hou.}
-{490}{}{Mùu ti sehnat COKOLIV, brácho. Jestli se chceš proletìt a vznášet se v nebeskejch vıšinách, Jules ví, kam jít. Take moje otázka zní: Bez èeho nemùeš dál ít?}
-{491}{}{Jules ti seene cokoliv budeš chtít, ségro. Jestli se chceš proletìt a vznášet se v nebeskejch vıšinách, Jules ví, kam jít. Take moje otázka zní: Bez èeho nemùeš dál ít?}
-{492}{}{Jules ti seene cokoliv budeš chtít, moje sladká sestøièko. Jestli se chceš proletìt a vznášet se v nebeskejch vıšinách, Jules ví, kam jít. Take moje otázka zní: Bez èeho nemùeš dál ít?}
-{493}{}{Jasnı, jasnı... take co potøebuješ?}
-{494}{}{Mùeš mi øíct nìco o New Renu?}
-{495}{}{Kde seenu nìjaké drogy?}
-{496}{}{Sháním se po nìjaké poøádné palebné síle.}
-{497}{}{Sháním zásoby.}
-{498}{}{Chci si zapíchat.}
-{499}{}{Hledám místo, kterému se øíká Vault 13.}
-{500}{}{Hledám svùj kmen. Byl unesen.}
-{501}{}{Nevíš, jak opravit ropnı tanker?}
-{502}{}{Hledám GECK.}
-{503}{}{Dnes nic, díky.}
-{515}{}{Jestli ti mùe Jules ØÍCT nìco o New Renu? Jo, sakra! PRVNÍ vìc, kterou musíš vìdìt: Reno ovládaj ètyøi rodiny: Mordinové, Salvatoøi, Bishopové a Wrightové. Kadá z rodin má pod palcem kousek Rena.}
-{516}{}{Reno má ètyøi rodiny: Mordiny, Salvatory, Bishopy a Wrighty. Kadá z rodin má pod palcem kousek Rena.}
-{517}{}{Povìz mi o tìch rodinách.}
-{518}{}{A co zákony?}
-{519}{}{Vlastnì se chci ještì zeptat...}
-{520}{}{Zajímavé. Díky za rozhovor.}
-{525}{}{ádnı zákony, ádní fízlové, ádnej šerif. Jsou tu JENOM rodiny.}
-{527}{}{Kdo tedy v Renu udruje poøádek?}
-{528}{}{Aha. Mám ještì jiné otázky...}
-{535}{}{O to se staraj samotnı rodiny. Nemaj RÁDI problémy v Renu, paè to narušuje turistickej ruch a to znamená míò penìz pro všechny. Nedìlej problémy, pla svı dluhy a neskonèíš v Golgotì.}
-{537}{}{Golgotì?}
-{545}{}{No, to je høbitov za mìstem. Tam odpoèívaj lidi, co se dostali do køíku s nìkterou z rodin. Pøiváou je na kùly a nechaj je pomalu umøít na slunci. Nechtìl bych takhle umøít. A taky to tam strašnì smrdí.}
+{467}{}{Julesi, nevÃ­Å¡ co se stalo synovi pana Wrighta?}
+{468}{}{Julesi, nevidÄ›l jsi moje auto? Bylo tÃ¡mhle zaparkovanÃ½ a teÄ je pryÄ.}
+{469}{}{PoslyÅ¡... "Jules", ano? NejspÃ­Å¡ se touhle konverzacÃ­ snaÅ¾Ã­Å¡ nÄ›co zÃ­skat, takÅ¾e na rovinu: O co se tu snaÅ¾Ã­Å¡?}
+{470}{}{No, zajÃ­malo by mÄ›... co mÃ¡Å¡ z toho, kdyÅ¾ provÃ¡dÃ­Å¡ nÃ¡vÅ¡tÄ›vnÃ­ky mÄ›stem, Julesi?}
+{471}{}{Dnes ne, Julesi. DÃ­ky.}
+{472}{}{Ne, dÃ­ky. ZatÃ­m, Julesi.}
+{480}{}{Eh... nenamÃ¡hej si mozek, brÃ¡cho. HlavnÄ› si nÄ›jak neubliÅ¾, jasnÃ½?}
+{481}{}{Eh... nenamÃ¡hej si mozek, sÃ©gro. HlavnÄ› si nÄ›jak neubliÅ¾, jasnÃ½?}
+{482}{}{Hi tÃ½ hi tÃ½ hi tÃ½ hou.}
+{490}{}{MÅ¯Å¾u ti sehnat COKOLIV, brÃ¡cho. Jestli se chceÅ¡ proletÄ›t a vznÃ¡Å¡et se v nebeskejch vÃ½Å¡inÃ¡ch, Jules vÃ­, kam jÃ­t. TakÅ¾e moje otÃ¡zka znÃ­: Bez Äeho nemÅ¯Å¾eÅ¡ dÃ¡l Å¾Ã­t?}
+{491}{}{Jules ti seÅ¾ene cokoliv budeÅ¡ chtÃ­t, sÃ©gro. Jestli se chceÅ¡ proletÄ›t a vznÃ¡Å¡et se v nebeskejch vÃ½Å¡inÃ¡ch, Jules vÃ­, kam jÃ­t. TakÅ¾e moje otÃ¡zka znÃ­: Bez Äeho nemÅ¯Å¾eÅ¡ dÃ¡l Å¾Ã­t?}
+{492}{}{Jules ti seÅ¾ene cokoliv budeÅ¡ chtÃ­t, moje sladkÃ¡ sestÅ™iÄko. Jestli se chceÅ¡ proletÄ›t a vznÃ¡Å¡et se v nebeskejch vÃ½Å¡inÃ¡ch, Jules vÃ­, kam jÃ­t. TakÅ¾e moje otÃ¡zka znÃ­: Bez Äeho nemÅ¯Å¾eÅ¡ dÃ¡l Å¾Ã­t?}
+{493}{}{JasnÃ½, jasnÃ½... takÅ¾e co potÅ™ebujeÅ¡?}
+{494}{}{MÅ¯Å¾eÅ¡ mi Å™Ã­ct nÄ›co o New Renu?}
+{495}{}{Kde seÅ¾enu nÄ›jakÃ© drogy?}
+{496}{}{ShÃ¡nÃ­m se po nÄ›jakÃ© poÅ™Ã¡dnÃ© palebnÃ© sÃ­le.}
+{497}{}{ShÃ¡nÃ­m zÃ¡soby.}
+{498}{}{Chci si zapÃ­chat.}
+{499}{}{HledÃ¡m mÃ­sto, kterÃ©mu se Å™Ã­kÃ¡ Vault 13.}
+{500}{}{HledÃ¡m svÅ¯j kmen. Byl unesen.}
+{501}{}{NevÃ­Å¡, jak opravit ropnÃ½ tanker?}
+{502}{}{HledÃ¡m GECK.}
+{503}{}{Dnes nic, dÃ­ky.}
+{515}{}{Jestli ti mÅ¯Å¾e Jules Å˜ÃCT nÄ›co o New Renu? Jo, sakra! PRVNÃ vÄ›c, kterou musÃ­Å¡ vÄ›dÄ›t: Reno ovlÃ¡daj ÄtyÅ™i rodiny: MordinovÃ©, SalvatoÅ™i, BishopovÃ© a WrightovÃ©. KaÅ¾dÃ¡ z rodin mÃ¡ pod palcem kousek Rena.}
+{516}{}{Reno mÃ¡ ÄtyÅ™i rodiny: Mordiny, Salvatory, Bishopy a Wrighty. KaÅ¾dÃ¡ z rodin mÃ¡ pod palcem kousek Rena.}
+{517}{}{PovÄ›z mi o tÄ›ch rodinÃ¡ch.}
+{518}{}{A co zÃ¡kony?}
+{519}{}{VlastnÄ› se chci jeÅ¡tÄ› zeptat...}
+{520}{}{ZajÃ­mavÃ©. DÃ­ky za rozhovor.}
+{525}{}{Å½Ã¡dnÃ½ zÃ¡kony, Å¾Ã¡dnÃ­ fÃ­zlovÃ©, Å¾Ã¡dnej Å¡erif. Jsou tu JENOM rodiny.}
+{527}{}{Kdo tedy v Renu udrÅ¾uje poÅ™Ã¡dek?}
+{528}{}{Aha. MÃ¡m jeÅ¡tÄ› jinÃ© otÃ¡zky...}
+{535}{}{O to se staraj samotnÃ½ rodiny. Nemaj RÃDI problÃ©my v Renu, paÄ to naruÅ¡uje turistickej ruch a to znamenÃ¡ mÃ­Åˆ penÄ›z pro vÅ¡echny. NedÄ›lej problÃ©my, plaÅ¥ svÃ½ dluhy a neskonÄÃ­Å¡ v GolgotÄ›.}
+{537}{}{GolgotÄ›?}
+{545}{}{No, to je hÅ™bitov za mÄ›stem. Tam odpoÄÃ­vaj lidi, co se dostali do kÅ™Ã­Å¾ku s nÄ›kterou z rodin. PÅ™ivÃ¡Å¾ou je na kÅ¯ly a nechaj je pomalu umÅ™Ã­t na slunci. NechtÄ›l bych takhle umÅ™Ã­t. A taky to tam straÅ¡nÄ› smrdÃ­.}
 {547}{}{Interesting. Say, I had some other questions...}
-{548}{}{Paráda. Díky za informace.}
-{555}{}{No a DALŠÍ vìc, kterou musíš o Renu vìdìt je to, e nic není zadarmo. A pokud jo, tak si to radši poøádnì provìø.}
-{556}{}{No, takovı informace nejsou levnı. Máš prachy? Pak máš moji pozornost.}
-{557}{}{Zaplatit mu 25 dolarù.}
-{558}{}{Zaplatit mu 50 dolarù.}
-{559}{}{Zaplatit mu 75 dolarù.}
-{560}{}{Zaplatit mu 100 dolarù.}
-{561}{}{Vlastnì se chci ještì... zeptat na nìco, co... se netıká rodin.}
-{562}{}{Vypadá to, e si tvé znalosti teï nemùu dovolit. Vrátím se, a budu mít víc penìz.}
-{563}{}{Budu si to pamatovat. Díky za rady, Julesi.}
-{575}{}{(Jules schová peníze tak rychle, e to vypadá, jako by se vypaøily.) Take... která z rodin tì zajímá?}
-{576}{}{(Jules schová peníze.) Take... o kterı rodinì se chceš nìco dozvìdìt?}
-{577}{}{Povìz mi o rodinì Mordinù.}
-{578}{}{Povìz mi o rodinì Salvatorù.}
-{579}{}{Povìz mi o rodinì Bishopù.}
-{580}{}{Povìz mi o rodinì Wrightù.}
-{581}{}{Chci se zeptat na nìco jiného ohlednì Rena...}
-{582}{}{No, vlastnì nic. Promluvíme si pozdìji.}
-{590}{}{(Vztyèí dva prsty.) Mordinové jsou jako dvouhlavá saò, kámo, a obì hlavy se jmenujou Jeíš Mordino.}
-{591}{}{Pokraèujte...}
-{592}{}{Nìco mi øíkalo, e je Jeíš zapleten do organizovaného zloèinu.}
-{594}{}{Vrame se k ostatním rodinám.}
-{596}{}{No, vlastnì nic. Díky za rozhovor.}
-{615}{}{Ti dva jsou tatík Velkej Jeíš Mordino a jeho synáèek Malej Jeíš Mordino. Oba jsou to ti nejvìtší zkurvysyni, jakı kdy mùeš potkat. Byli tu jako otroci, ale pøed pár lety se vzmohli a vybudovali si svoje vlastní malı impérium.}
-{616}{}{Jak velké je to jejich "impérium?"}
-{625}{}{Vlastní Desperado kousek dál na tıhle ulici. Nemùeš ho minout. A taky maj nejvìtší zdroje Jetu v celım New Renu. Take kdy budeš mít chu se proletìt...}
-{626}{}{Co mi pøipomíná, nevíš, kde seenu nìjaké drogy?}
-{627}{}{Jak to, e mají Mordinové nejvìtší zdroje Jetu?}
-{628}{}{Povìz mi o ostatních rodinách.}
-{635}{}{Protoe jsou na vrcholu, kámo. ádnej jinej dùvod pro to není. Maj továrny, svıho tvùrce a vlastní distribuci. Maj tolik Jetu, e jsou jako podìlaná letecká spoleènost.}
-{636}{}{Jo, co chceš ještì vìdìt?}
-{637}{}{Jakou továrnu?}
-{638}{}{Jakého "tvùrce?"}
-{639}{}{Jak rozsáhlá je jejich distribuèní sí?}
-{650}{}{Maj továrny po celım Renu, take dìlaj fet nepøetritì. Proto se dá koupit jakıkoliv mnoství Jetu skoro kdekoliv: v barech, kasínech, na ulici... a pochopitelnì i ode MÌ.}
-{651}{}{Mùu se podívat, co máš?}
-{652}{}{Zpátky k Mordinùm a Jetu...}
-{660}{}{No... (Nakloní se k tobì.) ...víš, Mordinové získali svùj vlastní malej zlatej dùl jménem Myron. Díky nìmu jsou na vrcholu... víš, to on VYTVOØIL Jet.}
-{662}{}{Dost o Mordinech a ostatních rodinách. Povìz mi nìco o Myronovi...}
-{670}{}{Pumpujou to do celıho New Rena. Pak na sever do Denu a taky... eh... (Zarazí se, poté pokrèí rameny a pokraèuje.) ...no a teï ho taky prodávaj do Reddingu.}
-{672}{}{Povìz mi o Reddingu.}
-{685}{}{Není moc o èem mluvit. Je to hornickı mìsto severozápadnì odsud. Øíká se, e tam chtìj Mordinové získat vliv kvùli ZLATU, co se tam tìí. Take Mordino jim posílá Jet, oni posílaj nazpátek zlato a všichni jsou šastní.}
-{695}{}{Tichá banda. Vede je Louis Salvatore, stárnoucí gangster. Jejich teritorium je na Druhı ulici. Jejich hlavní flek je bar Salvatore na Druhı ulici. Bejt tebou, nedìlám tam problémy.}
-{696}{}{Proè ne?}
-{710}{}{Dám ti radu: Jestli uvidíš nìjakıho Salvatora, skloò hlavu a dr hubu, nebo tì rozpùlí vejpùl. Maj nejsilnìjší zbranì na tıhle stranì mìsta, take nikdo, kdo má aspoò špetku rozumu, s nima nevyjebává, rozumíš?}
-{711}{}{Jaké mají Salvatoøi "zbranì"?}
-{712}{}{To zní, jako by mìli nìjaké brutální bouchaèky. Co je to za zbranì?}
-{715}{}{Zajímavé... díky za varování.}
-{725}{}{Pistole... a na to, e støílej SVÌTLO. Víš, Reno je sice mìsto svìtel, ale svìtlo, kterı TYHLE pistole støílej, dokáe rozpùlit chlapa vejpùl... *vum*... (Jules sekne rukou ve vzduchu.) Rozpùlí tì na dvì pùlky jako nic.}
-{726}{}{Støílejí svìtlo? Neøíkají jim náhodou 'laserové pistole?'}
-{727}{}{Tak na to si dám pozor. Mùeš mi øíct nìco o ostatních rodinách?}
-{735}{}{No, eh, vlastnì ani nevím... nejsem si tak úplnì jistej, o èem to mluvíš, ale øeknu ti tohle: Neptej se na ty pistole Salvatorù. Maj takovej ošklivej zlozvyk zabíjet lidi, co jsou moc zvìdaví.}
-{736}{}{Julesi, 'laserovımi pistolemi' myslím pistole, které vyzaøují paprsek koherentního svìtla. Takovı paprsek o síle... øeknìme nìkolika megawattù... dokáe napáchat znaèné škody, pokud se zamìøí na cíl po dobu nìkolika sekund, èím vytvoøí efekt, kterı popisuješ.}
-{737}{}{Mìli tyhle pistole odjakiva?}
-{750}{}{Odjakiva ne... jinak by u šéfovali New Renu... CELİMU New Renu. Zatím se jenom pomalu propracovávaj nahoru. Ty pistole se objevily... asi pøed pár mìsícema, jak byl ten masakr.}
+{548}{}{ParÃ¡da. DÃ­ky za informace.}
+{555}{}{No a DALÅ Ã vÄ›c, kterou musÃ­Å¡ o Renu vÄ›dÄ›t je to, Å¾e nic nenÃ­ zadarmo. A pokud jo, tak si to radÅ¡i poÅ™Ã¡dnÄ› provÄ›Å™.}
+{556}{}{No, takovÃ½ informace nejsou levnÃ½. MÃ¡Å¡ prachy? Pak mÃ¡Å¡ moji pozornost.}
+{557}{}{Zaplatit mu 25 dolarÅ¯.}
+{558}{}{Zaplatit mu 50 dolarÅ¯.}
+{559}{}{Zaplatit mu 75 dolarÅ¯.}
+{560}{}{Zaplatit mu 100 dolarÅ¯.}
+{561}{}{VlastnÄ› se chci jeÅ¡tÄ›... zeptat na nÄ›co, co... se netÃ½kÃ¡ rodin.}
+{562}{}{VypadÃ¡ to, Å¾e si tvÃ© znalosti teÄ nemÅ¯Å¾u dovolit. VrÃ¡tÃ­m se, aÅ¾ budu mÃ­t vÃ­c penÄ›z.}
+{563}{}{Budu si to pamatovat. DÃ­ky za rady, Julesi.}
+{575}{}{(Jules schovÃ¡ penÃ­ze tak rychle, Å¾e to vypadÃ¡, jako by se vypaÅ™ily.) TakÅ¾e... kterÃ¡ z rodin tÄ› zajÃ­mÃ¡?}
+{576}{}{(Jules schovÃ¡ penÃ­ze.) TakÅ¾e... o kterÃ½ rodinÄ› se chceÅ¡ nÄ›co dozvÄ›dÄ›t?}
+{577}{}{PovÄ›z mi o rodinÄ› MordinÅ¯.}
+{578}{}{PovÄ›z mi o rodinÄ› SalvatorÅ¯.}
+{579}{}{PovÄ›z mi o rodinÄ› BishopÅ¯.}
+{580}{}{PovÄ›z mi o rodinÄ› WrightÅ¯.}
+{581}{}{Chci se zeptat na nÄ›co jinÃ©ho ohlednÄ› Rena...}
+{582}{}{No, vlastnÄ› nic. PromluvÃ­me si pozdÄ›ji.}
+{590}{}{(VztyÄÃ­ dva prsty.) MordinovÃ© jsou jako dvouhlavÃ¡ saÅˆ, kÃ¡mo, a obÄ› hlavy se jmenujou JeÅ¾Ã­Å¡ Mordino.}
+{591}{}{PokraÄujte...}
+{592}{}{NÄ›co mi Å™Ã­kalo, Å¾e je JeÅ¾Ã­Å¡ zapleten do organizovanÃ©ho zloÄinu.}
+{594}{}{VraÅ¥me se k ostatnÃ­m rodinÃ¡m.}
+{596}{}{No, vlastnÄ› nic. DÃ­ky za rozhovor.}
+{615}{}{Ti dva jsou tatÃ­k Velkej JeÅ¾Ã­Å¡ Mordino a jeho synÃ¡Äek Malej JeÅ¾Ã­Å¡ Mordino. Oba jsou to ti nejvÄ›tÅ¡Ã­ zkurvysyni, jakÃ½ kdy mÅ¯Å¾eÅ¡ potkat. Byli tu jako otroci, ale pÅ™ed pÃ¡r lety se vzmohli a vybudovali si svoje vlastnÃ­ malÃ½ impÃ©rium.}
+{616}{}{Jak velkÃ© je to jejich "impÃ©rium?"}
+{625}{}{VlastnÃ­ Desperado kousek dÃ¡l na tÃ½hle ulici. NemÅ¯Å¾eÅ¡ ho minout. A taky maj nejvÄ›tÅ¡Ã­ zdroje Jetu v celÃ½m New Renu. TakÅ¾e kdyÅ¾ budeÅ¡ mÃ­t chuÅ¥ se proletÄ›t...}
+{626}{}{CoÅ¾ mi pÅ™ipomÃ­nÃ¡, nevÃ­Å¡, kde seÅ¾enu nÄ›jakÃ© drogy?}
+{627}{}{Jak to, Å¾e majÃ­ MordinovÃ© nejvÄ›tÅ¡Ã­ zdroje Jetu?}
+{628}{}{PovÄ›z mi o ostatnÃ­ch rodinÃ¡ch.}
+{635}{}{ProtoÅ¾e jsou na vrcholu, kÃ¡mo. Å½Ã¡dnej jinej dÅ¯vod pro to nenÃ­. Maj tovÃ¡rny, svÃ½ho tvÅ¯rce a vlastnÃ­ distribuci. Maj tolik Jetu, Å¾e jsou jako podÄ›lanÃ¡ leteckÃ¡ spoleÄnost.}
+{636}{}{Jo, co chceÅ¡ jeÅ¡tÄ› vÄ›dÄ›t?}
+{637}{}{Jakou tovÃ¡rnu?}
+{638}{}{JakÃ©ho "tvÅ¯rce?"}
+{639}{}{Jak rozsÃ¡hlÃ¡ je jejich distribuÄnÃ­ sÃ­Å¥?}
+{650}{}{Maj tovÃ¡rny po celÃ½m Renu, takÅ¾e dÄ›laj fet nepÅ™etrÅ¾itÄ›. Proto se dÃ¡ koupit jakÃ½koliv mnoÅ¾stvÃ­ Jetu skoro kdekoliv: v barech, kasÃ­nech, na ulici... a pochopitelnÄ› i ode MÄš.}
+{651}{}{MÅ¯Å¾u se podÃ­vat, co mÃ¡Å¡?}
+{652}{}{ZpÃ¡tky k MordinÅ¯m a Jetu...}
+{660}{}{No... (NaklonÃ­ se k tobÄ›.) ...vÃ­Å¡, MordinovÃ© zÃ­skali svÅ¯j vlastnÃ­ malej zlatej dÅ¯l jmÃ©nem Myron. DÃ­ky nÄ›mu jsou na vrcholu... vÃ­Å¡, to on VYTVOÅ˜IL Jet.}
+{662}{}{Dost o Mordinech a ostatnÃ­ch rodinÃ¡ch. PovÄ›z mi nÄ›co o Myronovi...}
+{670}{}{Pumpujou to do celÃ½ho New Rena. Pak na sever do Denu a taky... eh... (ZarazÃ­ se, potÃ© pokrÄÃ­ rameny a pokraÄuje.) ...no a teÄ ho taky prodÃ¡vaj do Reddingu.}
+{672}{}{PovÄ›z mi o Reddingu.}
+{685}{}{NenÃ­ moc o Äem mluvit. Je to hornickÃ½ mÄ›sto severozÃ¡padnÄ› odsud. Å˜Ã­kÃ¡ se, Å¾e tam chtÄ›j MordinovÃ© zÃ­skat vliv kvÅ¯li ZLATU, co se tam tÄ›Å¾Ã­. TakÅ¾e Mordino jim posÃ­lÃ¡ Jet, oni posÃ­laj nazpÃ¡tek zlato a vÅ¡ichni jsou Å¡Å¥astnÃ­.}
+{695}{}{TichÃ¡ banda. Vede je Louis Salvatore, stÃ¡rnoucÃ­ gangster. Jejich teritorium je na DruhÃ½ ulici. Jejich hlavnÃ­ flek je bar Salvatore na DruhÃ½ ulici. Bejt tebou, nedÄ›lÃ¡m tam problÃ©my.}
+{696}{}{ProÄ ne?}
+{710}{}{DÃ¡m ti radu: Jestli uvidÃ­Å¡ nÄ›jakÃ½ho Salvatora, skloÅˆ hlavu a drÅ¾ hubu, nebo tÄ› rozpÅ¯lÃ­ vejpÅ¯l. Maj nejsilnÄ›jÅ¡Ã­ zbranÄ› na tÃ½hle stranÄ› mÄ›sta, takÅ¾e nikdo, kdo mÃ¡ aspoÅˆ Å¡petku rozumu, s nima nevyjebÃ¡vÃ¡, rozumÃ­Å¡?}
+{711}{}{JakÃ© majÃ­ SalvatoÅ™i "zbranÄ›"?}
+{712}{}{To znÃ­, jako by mÄ›li nÄ›jakÃ© brutÃ¡lnÃ­ bouchaÄky. Co je to za zbranÄ›?}
+{715}{}{ZajÃ­mavÃ©... dÃ­ky za varovÃ¡nÃ­.}
+{725}{}{Pistole... aÅ¾ na to, Å¾e stÅ™Ã­lej SVÄšTLO. VÃ­Å¡, Reno je sice mÄ›sto svÄ›tel, ale svÄ›tlo, kterÃ½ TYHLE pistole stÅ™Ã­lej, dokÃ¡Å¾e rozpÅ¯lit chlapa vejpÅ¯l... *vÅ¾um*... (Jules sekne rukou ve vzduchu.) RozpÅ¯lÃ­ tÄ› na dvÄ› pÅ¯lky jako nic.}
+{726}{}{StÅ™Ã­lejÃ­ svÄ›tlo? NeÅ™Ã­kajÃ­ jim nÃ¡hodou 'laserovÃ© pistole?'}
+{727}{}{Tak na to si dÃ¡m pozor. MÅ¯Å¾eÅ¡ mi Å™Ã­ct nÄ›co o ostatnÃ­ch rodinÃ¡ch?}
+{735}{}{No, eh, vlastnÄ› ani nevÃ­m... nejsem si tak ÃºplnÄ› jistej, o Äem to mluvÃ­Å¡, ale Å™eknu ti tohle: Neptej se na ty pistole SalvatorÅ¯. Maj takovej oÅ¡klivej zlozvyk zabÃ­jet lidi, co jsou moc zvÄ›davÃ­.}
+{736}{}{Julesi, 'laserovÃ½mi pistolemi' myslÃ­m pistole, kterÃ© vyzaÅ™ujÃ­ paprsek koherentnÃ­ho svÄ›tla. TakovÃ½ paprsek o sÃ­le... Å™eknÄ›me nÄ›kolika megawattÅ¯... dokÃ¡Å¾e napÃ¡chat znaÄnÃ© Å¡kody, pokud se zamÄ›Å™Ã­ na cÃ­l po dobu nÄ›kolika sekund, ÄÃ­mÅ¾ vytvoÅ™Ã­ efekt, kterÃ½ popisujeÅ¡.}
+{737}{}{MÄ›li tyhle pistole odjakÅ¾iva?}
+{750}{}{OdjakÅ¾iva ne... jinak by uÅ¾ Å¡Ã©fovali New Renu... CELÃMU New Renu. ZatÃ­m se jenom pomalu propracovÃ¡vaj nahoru. Ty pistole se objevily... asi pÅ™ed pÃ¡r mÄ›sÃ­cema, jak byl ten masakr.}
 {751}{}{Masakr?}
-{765}{}{Jo... dva Salvatorovi mui zabili tìma pistolema hromadu Bishopovejch chlapù a pak ještì postøíleli pár Mordinù, co se chtìli dostat na Druhou ulici. Od tı doby si dávaj ostatní rodiny na Salvatory bacha.}
-{766}{}{To urèitì zní jako lasery. Nevíš, èím Salvatoøi pohánìjí své laserové pistole? Pouívají baterie, fúzní èlánky nebo snad nìjaké napájení pøes kabely?}
-{767}{}{Nenapadá tì, odkud ty pistole mají?}
-{780}{}{Nemám páru, kámo, neptal jsem se a ty to taky radši nedìlej... vìø mi. Jestli se sháníš po zbraních, jsou i jinı... bezpeènìjší... místa, kde se mùeš poptat.}
-{781}{}{Jako tøeba?}
-{782}{}{Povìz mi ještì nìco o ostatních rodinách.}
-{795}{}{Eh... no, o tom já nic nevím a... hmmmm. Víš, mluvíš jako jeden z tìch bílejch plášù ze Stájí. Nejseš náhodou jeden z nich?}
-{796}{}{Stájí?}
-{810}{}{(Nakloní se k tobì.) No, nechce se mi zrovna mluvit o míò PØÍJEMNEJCH èástech New Rena, ale ve Stájích na sever od mìsta je pár tıpkù v bílejch pláštích, co mluvìj pøesnì jako ty. Jsou tìce hlídanı Mordinovımi mui.}
-{811}{}{A co tam dìlají?}
-{825}{}{Co jsem slyšel, tak prej testujou novı druhy Jetu. Ale mezi náma, kámo, nechoï tam vyzvídat... Mordinové nemaj rádi návštìvníky. A krom toho... Jules ti seene jakıkoliv mnoství Jetu budeš chtít.}
-{826}{}{Proè poøád Mordinové testují Jet? Pøipadá mi, e u je dost návykovı.}
-{827}{}{Na kom Mordinové testují ty drogy?}
-{828}{}{Nevíš, jak se do tìch Stájí dostat?}
-{840}{}{Na otrocích. Maj je tam zavøenı ve stájích jako brahmíny. }
-{841}{}{Mordinové je nakupujou od otrokáøù, kterı procházej kolem. }
-{842}{}{Mordinové je nakupujou od otrokáøù, jako jseš ty, kterı procházej New Renem. }
-{843}{}{Kupujou jich fakt hodnì, paè èasto onemocní, uteèou... nebo umøou. Vìtšinou umøou.}
-{860}{}{Nejspíš proto, aby byl ještì lepší. Vylepšíš proces, vylepšíš drogu. Jet je dobrej, ale jestli ho dokáou udìlat ještì LEPŠÍ... tak to bude jako rozdíl mezi poletováním na obloze a letem na mìsíc.}
-{880}{}{Zadr... na tvım místì bych na to ani NEPOMYSLEL, kámo. Mordinové to místo hlídaj jak vzteklí psi. Prostì na to zapomeò.}
-{881}{}{Musí bıt nìjakı zpùsob, jak se tam dostat...}
-{886}{}{Tak dobøe, kašli na to. Díky za informace.}
-{895}{}{No... kdy budeš mluvit stejnì chytøe jako doteï, moná se budeš moct vydávat za jednoho z tìch bílejch plášù. No a nebo se mùeš nechat naverbovat Mordinama a oni tì tam tøeba pošlou...}
-{910}{}{Ha! John Bishop? Není o èem mluvit: Bishop je mazanej, tvrdej a chce mít VŠECHNO.}
-{911}{}{No, tak to si to bude muset nejdøív vyøídit se mnou. Kde má ten kokot území?}
-{912}{}{Kde je jeho území?}
-{925}{}{Vìtšinou je v klubu Shark na Druhı ulici. Je kolem nìj spousta stráí, take na návštìvu zapomeò, pokud s ním nemáš OPRAVDOVEJ byznys. (Šibalsky se usmìje.) A dr se dál od jeho eny. A jeho DCERY.}
+{765}{}{Jo... dva Salvatorovi muÅ¾i zabili tÄ›ma pistolema hromadu Bishopovejch chlapÅ¯ a pak jeÅ¡tÄ› postÅ™Ã­leli pÃ¡r MordinÅ¯, co se chtÄ›li dostat na Druhou ulici. Od tÃ½ doby si dÃ¡vaj ostatnÃ­ rodiny na Salvatory bacha.}
+{766}{}{To urÄitÄ› znÃ­ jako lasery. NevÃ­Å¡, ÄÃ­m SalvatoÅ™i pohÃ¡nÄ›jÃ­ svÃ© laserovÃ© pistole? PouÅ¾Ã­vajÃ­ baterie, fÃºznÃ­ ÄlÃ¡nky nebo snad nÄ›jakÃ© napÃ¡jenÃ­ pÅ™es kabely?}
+{767}{}{NenapadÃ¡ tÄ›, odkud ty pistole majÃ­?}
+{780}{}{NemÃ¡m pÃ¡ru, kÃ¡mo, neptal jsem se a ty to taky radÅ¡i nedÄ›lej... vÄ›Å™ mi. Jestli se shÃ¡nÃ­Å¡ po zbranÃ­ch, jsou i jinÃ½... bezpeÄnÄ›jÅ¡Ã­... mÃ­sta, kde se mÅ¯Å¾eÅ¡ poptat.}
+{781}{}{Jako tÅ™eba?}
+{782}{}{PovÄ›z mi jeÅ¡tÄ› nÄ›co o ostatnÃ­ch rodinÃ¡ch.}
+{795}{}{Eh... no, o tom jÃ¡ nic nevÃ­m a... hmmmm. VÃ­Å¡, mluvÃ­Å¡ jako jeden z tÄ›ch bÃ­lejch plÃ¡Å¡Å¥Å¯ ze StÃ¡jÃ­. NejseÅ¡ nÃ¡hodou jeden z nich?}
+{796}{}{StÃ¡jÃ­?}
+{810}{}{(NaklonÃ­ se k tobÄ›.) No, nechce se mi zrovna mluvit o mÃ­Åˆ PÅ˜ÃJEMNEJCH ÄÃ¡stech New Rena, ale ve StÃ¡jÃ­ch na sever od mÄ›sta je pÃ¡r tÃ½pkÅ¯ v bÃ­lejch plÃ¡Å¡tÃ­ch, co mluvÄ›j pÅ™esnÄ› jako ty. Jsou tÄ›Å¾ce hlÃ­danÃ½ MordinovÃ½mi muÅ¾i.}
+{811}{}{A co tam dÄ›lajÃ­?}
+{825}{}{Co jsem slyÅ¡el, tak prej testujou novÃ½ druhy Jetu. Ale mezi nÃ¡ma, kÃ¡mo, nechoÄ tam vyzvÃ­dat... MordinovÃ© nemaj rÃ¡di nÃ¡vÅ¡tÄ›vnÃ­ky. A krom toho... Jules ti seÅ¾ene jakÃ½koliv mnoÅ¾stvÃ­ Jetu budeÅ¡ chtÃ­t.}
+{826}{}{ProÄ poÅ™Ã¡d MordinovÃ© testujÃ­ Jet? PÅ™ipadÃ¡ mi, Å¾e uÅ¾ je dost nÃ¡vykovÃ½.}
+{827}{}{Na kom MordinovÃ© testujÃ­ ty drogy?}
+{828}{}{NevÃ­Å¡, jak se do tÄ›ch StÃ¡jÃ­ dostat?}
+{840}{}{Na otrocÃ­ch. Maj je tam zavÅ™enÃ½ ve stÃ¡jÃ­ch jako brahmÃ­ny. }
+{841}{}{MordinovÃ© je nakupujou od otrokÃ¡Å™Å¯, kterÃ½ prochÃ¡zej kolem. }
+{842}{}{MordinovÃ© je nakupujou od otrokÃ¡Å™Å¯, jako jseÅ¡ ty, kterÃ½ prochÃ¡zej New Renem. }
+{843}{}{Kupujou jich fakt hodnÄ›, paÄ Äasto onemocnÃ­, uteÄou... nebo umÅ™ou. VÄ›tÅ¡inou umÅ™ou.}
+{860}{}{NejspÃ­Å¡ proto, aby byl jeÅ¡tÄ› lepÅ¡Ã­. VylepÅ¡Ã­Å¡ proces, vylepÅ¡Ã­Å¡ drogu. Jet je dobrej, ale jestli ho dokÃ¡Å¾ou udÄ›lat jeÅ¡tÄ› LEPÅ Ã... tak to bude jako rozdÃ­l mezi poletovÃ¡nÃ­m na obloze a letem na mÄ›sÃ­c.}
+{880}{}{ZadrÅ¾... na tvÃ½m mÃ­stÄ› bych na to ani NEPOMYSLEL, kÃ¡mo. MordinovÃ© to mÃ­sto hlÃ­daj jak vzteklÃ­ psi. ProstÄ› na to zapomeÅˆ.}
+{881}{}{MusÃ­ bÃ½t nÄ›jakÃ½ zpÅ¯sob, jak se tam dostat...}
+{886}{}{Tak dobÅ™e, kaÅ¡li na to. DÃ­ky za informace.}
+{895}{}{No... kdyÅ¾ budeÅ¡ mluvit stejnÄ› chytÅ™e jako doteÄ, moÅ¾nÃ¡ se budeÅ¡ moct vydÃ¡vat za jednoho z tÄ›ch bÃ­lejch plÃ¡Å¡Å¥Å¯. No a nebo se mÅ¯Å¾eÅ¡ nechat naverbovat Mordinama a oni tÄ› tam tÅ™eba poÅ¡lou...}
+{910}{}{Ha! John Bishop? NenÃ­ o Äem mluvit: Bishop je mazanej, tvrdej a chce mÃ­t VÅ ECHNO.}
+{911}{}{No, tak to si to bude muset nejdÅ™Ã­v vyÅ™Ã­dit se mnou. Kde mÃ¡ ten kokot ÃºzemÃ­?}
+{912}{}{Kde je jeho ÃºzemÃ­?}
+{925}{}{VÄ›tÅ¡inou je v klubu Shark na DruhÃ½ ulici. Je kolem nÄ›j spousta strÃ¡Å¾Ã­, takÅ¾e na nÃ¡vÅ¡tÄ›vu zapomeÅˆ, pokud s nÃ­m nemÃ¡Å¡ OPRAVDOVEJ byznys. (Å ibalsky se usmÄ›je.) A drÅ¾ se dÃ¡l od jeho Å¾eny. A jeho DCERY.}
 {926}{}{Eh, byznys?}
-{927}{}{Nemusíš se bát.}
-{935}{}{Však víš, co tím myslím, brácho. Dr se dál od tìch dvou, jestli se nechceš dostat na Bishopùv seznam.}
-{936}{}{No to je monı, ale na tom, CO máš mezi nohama, nezáleí... aspoò ne sleènì Bishopovı. Ta je nadrená jak stepní koza.}
-{937}{}{Eh, povìz mi ještì nìco o ostatních rodinách.}
-{945}{}{Wrightovi? Hehe. Wrightovi jsou jediná rodina, která JE opravdová rodina, kdeto ostatní rodiny maj jen oldáky a gangstery, ale Wrightovic rodina JE Wrigtovic rodina, rozumíš?}
-{946}{}{Mám pro tebe varování tıkající se Wrigtovic rodiny, otrokáøi... víš, Wrightovi jsou toti jediná rodina, která JE opravdová rodina.}
-{947}{}{Jsou opravdová rodina? Kolik jich je?}
-{960}{}{Nejmíò dvacet nebo víc pokrevnì pøíbuznejch Wrightù. Jsou hroznì zlí a jeden ošklivìjší ne druhej.}
-{961}{}{Nejmíò dvacet nebo víc pokrevnì pøíbuznejch Wrightù a nemaj vùbec v oblibì lidi tvıho øemesla. Øíká se, e jim kdysi nìjakej otrokáø unesl sestru a od tı doby je nemaj v lásce.}
-{962}{}{Co ovládají Wrightové v New Renu?}
-{975}{}{Nemaj ádnı kasína, take vìtšinou jen kšeftujou s alkoholem a prodávaj ho ostatním rodinám. Take jestli se sháníš po poøádnı flašce... najdeš je na vıchodní stranì mìsta v takovı velkı vile.}
-{985}{}{Brácho, nemusíš chodit dál ne ke zde pøítomnımu Julesovi. }
-{986}{}{Ségro, nemusíš chodit dál ne ke zde pøítomnımu Julesovi. }
-{987}{}{Sladká sestøièko, nemusíš chodit dál ne ke zde pøítomnımu Julesovi. }
-{988}{}{Mám VŠECHNO a co nemám, to nepotøebuješ. Take, mùem pøejít k obchodu?}
-{989}{}{Jasnì. Pojïme obchodovat.}
-{990}{}{Jaké drogy se dají v New Renu sehnat?}
-{991}{}{Teï ne. Chci se ještì zeptat...}
-{992}{}{Vlastnì mì teï ádné drogy nezajímají. Musím jít.}
-{1005}{}{JAKİKOLIV. Mám vìci, po kterıch budeš nadrenej, tvoje stará bude nadrená, tvoje péro bude stát, daj ti sílu, rozum... a samozøejmì mám i drogu, která ti umoní lítat... Jet.}
-{1006}{}{JAKİKOLIV. Mám vìci, po kterıch budeš nadrená, vlhká, zbavìj tì kocoviny, uklidnìj tì, zvıšej ti libido, budeš šastná, daj ti sílu, rozum... a samozøejmì mám i drogu, která ti umoní lítat... Jet.}
-{1008}{}{Odkud pochází Jet? Byl tu odjakiva?}
-{1025}{}{No... eh... Jet je odsud... z Rena. Není tady dlouho, ale je po nìm velká POPTÁVKA, jestli mi rozumíš. (Mrkne.) Totální hit mezi turisty, jako jseš ty.}
-{1026}{}{Chci si nìco koupit. Pojïme obchodovat.}
-{1027}{}{Ale jak to, e je Jet odsud?}
-{1035}{}{No... víš, Mordinové mìli zatracenì velkı štìstí, kdy našli tu mozkovnu jménem Myron. Má talent, kdy jde o vytváøení drog. To on VYTVOØIL Jet.}
+{927}{}{NemusÃ­Å¡ se bÃ¡t.}
+{935}{}{VÅ¡ak vÃ­Å¡, co tÃ­m myslÃ­m, brÃ¡cho. DrÅ¾ se dÃ¡l od tÄ›ch dvou, jestli se nechceÅ¡ dostat na BishopÅ¯v seznam.}
+{936}{}{No to je moÅ¾nÃ½, ale na tom, CO mÃ¡Å¡ mezi nohama, nezÃ¡leÅ¾Ã­... aspoÅˆ ne sleÄnÄ› BishopovÃ½. Ta je nadrÅ¾enÃ¡ jak stepnÃ­ koza.}
+{937}{}{Eh, povÄ›z mi jeÅ¡tÄ› nÄ›co o ostatnÃ­ch rodinÃ¡ch.}
+{945}{}{Wrightovi? Hehe. Wrightovi jsou jedinÃ¡ rodina, kterÃ¡ JE opravdovÃ¡ rodina, kdeÅ¾to ostatnÃ­ rodiny maj jen Å¾oldÃ¡ky a gangstery, ale Wrightovic rodina JE Wrigtovic rodina, rozumÃ­Å¡?}
+{946}{}{MÃ¡m pro tebe varovÃ¡nÃ­ tÃ½kajÃ­cÃ­ se Wrigtovic rodiny, otrokÃ¡Å™i... vÃ­Å¡, Wrightovi jsou totiÅ¾ jedinÃ¡ rodina, kterÃ¡ JE opravdovÃ¡ rodina.}
+{947}{}{Jsou opravdovÃ¡ rodina? Kolik jich je?}
+{960}{}{NejmÃ­Åˆ dvacet nebo vÃ­c pokrevnÄ› pÅ™Ã­buznejch WrightÅ¯. Jsou hroznÄ› zlÃ­ a jeden oÅ¡klivÄ›jÅ¡Ã­ neÅ¾ druhej.}
+{961}{}{NejmÃ­Åˆ dvacet nebo vÃ­c pokrevnÄ› pÅ™Ã­buznejch WrightÅ¯ a nemaj vÅ¯bec v oblibÄ› lidi tvÃ½ho Å™emesla. Å˜Ã­kÃ¡ se, Å¾e jim kdysi nÄ›jakej otrokÃ¡Å™ unesl sestru a od tÃ½ doby je nemaj v lÃ¡sce.}
+{962}{}{Co ovlÃ¡dajÃ­ WrightovÃ© v New Renu?}
+{975}{}{Nemaj Å¾Ã¡dnÃ½ kasÃ­na, takÅ¾e vÄ›tÅ¡inou jen kÅ¡eftujou s alkoholem a prodÃ¡vaj ho ostatnÃ­m rodinÃ¡m. TakÅ¾e jestli se shÃ¡nÃ­Å¡ po poÅ™Ã¡dnÃ½ flaÅ¡ce... najdeÅ¡ je na vÃ½chodnÃ­ stranÄ› mÄ›sta v takovÃ½ velkÃ½ vile.}
+{985}{}{BrÃ¡cho, nemusÃ­Å¡ chodit dÃ¡l neÅ¾ ke zde pÅ™Ã­tomnÃ½mu Julesovi. }
+{986}{}{SÃ©gro, nemusÃ­Å¡ chodit dÃ¡l neÅ¾ ke zde pÅ™Ã­tomnÃ½mu Julesovi. }
+{987}{}{SladkÃ¡ sestÅ™iÄko, nemusÃ­Å¡ chodit dÃ¡l neÅ¾ ke zde pÅ™Ã­tomnÃ½mu Julesovi. }
+{988}{}{MÃ¡m VÅ ECHNO a co nemÃ¡m, to nepotÅ™ebujeÅ¡. TakÅ¾e, mÅ¯Å¾em pÅ™ejÃ­t k obchodu?}
+{989}{}{JasnÄ›. PojÄme obchodovat.}
+{990}{}{JakÃ© drogy se dajÃ­ v New Renu sehnat?}
+{991}{}{TeÄ ne. Chci se jeÅ¡tÄ› zeptat...}
+{992}{}{VlastnÄ› mÄ› teÄ Å¾Ã¡dnÃ© drogy nezajÃ­majÃ­. MusÃ­m jÃ­t.}
+{1005}{}{JAKÃKOLIV. MÃ¡m vÄ›ci, po kterÃ½ch budeÅ¡ nadrÅ¾enej, tvoje starÃ¡ bude nadrÅ¾enÃ¡, tvoje pÃ©ro bude stÃ¡t, daj ti sÃ­lu, rozum... a samozÅ™ejmÄ› mÃ¡m i drogu, kterÃ¡ ti umoÅ¾nÃ­ lÃ­tat... Jet.}
+{1006}{}{JAKÃKOLIV. MÃ¡m vÄ›ci, po kterÃ½ch budeÅ¡ nadrÅ¾enÃ¡, vlhkÃ¡, zbavÄ›j tÄ› kocoviny, uklidnÄ›j tÄ›, zvÃ½Å¡ej ti libido, budeÅ¡ Å¡Å¥astnÃ¡, daj ti sÃ­lu, rozum... a samozÅ™ejmÄ› mÃ¡m i drogu, kterÃ¡ ti umoÅ¾nÃ­ lÃ­tat... Jet.}
+{1008}{}{Odkud pochÃ¡zÃ­ Jet? Byl tu odjakÅ¾iva?}
+{1025}{}{No... eh... Jet je odsud... z Rena. NenÃ­ tady dlouho, ale je po nÄ›m velkÃ¡ POPTÃVKA, jestli mi rozumÃ­Å¡. (Mrkne.) TotÃ¡lnÃ­ hit mezi turisty, jako jseÅ¡ ty.}
+{1026}{}{Chci si nÄ›co koupit. PojÄme obchodovat.}
+{1027}{}{Ale jak to, Å¾e je Jet odsud?}
+{1035}{}{No... vÃ­Å¡, MordinovÃ© mÄ›li zatracenÄ› velkÃ½ Å¡tÄ›stÃ­, kdyÅ¾ naÅ¡li tu mozkovnu jmÃ©nem Myron. MÃ¡ talent, kdyÅ¾ jde o vytvÃ¡Å™enÃ­ drog. To on VYTVOÅ˜IL Jet.}
 {1036}{}{Tak Myron, jo? Kde ho najdu?}
-{1045}{}{(Nakloní se k tobì.) No, nechce se mi zrovna mluvit o míò PØÍJEMNEJCH èástech New Rena, ale na sever od mìsta jsou Stáje. Je to tam tìce hlídanı Mordinovımi mui. Tam najdeš i Myrona.}
-{1046}{}{Stáje za mìstem?}
-{1055}{}{Jo, Mordinové tam drej svıho zlatıho chlapce. Dávaj mu prachy, kurvy, cokoliv chce, dokud dìlá drogy. Jet je jeho NEJLEPŠÍ vıtvor. Nikdy jsem nevidìl nic tak návykovıho. Pøevrátil s ním Reno naruby, to ti teda øeknu.}
-{1056}{}{Myslíš, e by bylo moné se s tím Myronem setkat?}
-{1065}{}{(Jules se zastaví a prohlédne si tì od hlavy k patì.)}
-{1066}{}{Julesi? Haló? Ptala jsem se, jestli se mùu setkat s Myronem.}
-{1075}{}{Prr, bratøe, mám pro tebe radu: Nepokoušej se setkat s Myronem, paè jestli TO Mordinové zjistìj, tak tì vykuchaj a nechaj tì chcípnout v Golgotì.}
-{1076}{}{To bych ani nezkoušel. Jestli potøebuješ Jet, nemusíš chodit za Myronem, protoe ho mùeš mít ode mì. Jestli Mordinové zjistìj, e se snaíš dostat k Myronovi, tak tì vykuchaj a nechaj tì chcípnout v Golgotì.}
-{1077}{}{No... MONÁ by to šlo. Problém je v tom, e jestli se o tom dozvìdìj Mordinové, tak tì vykuchaj a nechaj tì chcípnout v Golgotì.}
+{1045}{}{(NaklonÃ­ se k tobÄ›.) No, nechce se mi zrovna mluvit o mÃ­Åˆ PÅ˜ÃJEMNEJCH ÄÃ¡stech New Rena, ale na sever od mÄ›sta jsou StÃ¡je. Je to tam tÄ›Å¾ce hlÃ­danÃ½ MordinovÃ½mi muÅ¾i. Tam najdeÅ¡ i Myrona.}
+{1046}{}{StÃ¡je za mÄ›stem?}
+{1055}{}{Jo, MordinovÃ© tam drÅ¾ej svÃ½ho zlatÃ½ho chlapce. DÃ¡vaj mu prachy, kurvy, cokoliv chce, dokud dÄ›lÃ¡ drogy. Jet je jeho NEJLEPÅ Ã vÃ½tvor. Nikdy jsem nevidÄ›l nic tak nÃ¡vykovÃ½ho. PÅ™evrÃ¡til s nÃ­m Reno naruby, to ti teda Å™eknu.}
+{1056}{}{MyslÃ­Å¡, Å¾e by bylo moÅ¾nÃ© se s tÃ­m Myronem setkat?}
+{1065}{}{(Jules se zastavÃ­ a prohlÃ©dne si tÄ› od hlavy k patÄ›.)}
+{1066}{}{Julesi? HalÃ³? Ptala jsem se, jestli se mÅ¯Å¾u setkat s Myronem.}
+{1075}{}{Prr, bratÅ™e, mÃ¡m pro tebe radu: NepokouÅ¡ej se setkat s Myronem, paÄ jestli TO MordinovÃ© zjistÄ›j, tak tÄ› vykuchaj a nechaj tÄ› chcÃ­pnout v GolgotÄ›.}
+{1076}{}{To bych ani nezkouÅ¡el. Jestli potÅ™ebujeÅ¡ Jet, nemusÃ­Å¡ chodit za Myronem, protoÅ¾e ho mÅ¯Å¾eÅ¡ mÃ­t ode mÄ›. Jestli MordinovÃ© zjistÄ›j, Å¾e se snaÅ¾Ã­Å¡ dostat k Myronovi, tak tÄ› vykuchaj a nechaj tÄ› chcÃ­pnout v GolgotÄ›.}
+{1077}{}{No... MOÅ½NÃ by to Å¡lo. ProblÃ©m je v tom, Å¾e jestli se o tom dozvÄ›dÄ›j MordinovÃ©, tak tÄ› vykuchaj a nechaj tÄ› chcÃ­pnout v GolgotÄ›.}
 {1078}{}{Opravdu to jinak nejde?}
-{1079}{}{Jak by to moná šlo?}
-{1080}{}{Proè sis mì pøed chvílí prohlíel jako nìjakou sochu?}
-{1081}{}{Golgota? Co je to za místo?}
-{1083}{}{Zajímavé. Díky za informace.}
+{1079}{}{Jak by to moÅ¾nÃ¡ Å¡lo?}
+{1080}{}{ProÄ sis mÄ› pÅ™ed chvÃ­lÃ­ prohlÃ­Å¾el jako nÄ›jakou sochu?}
+{1081}{}{Golgota? Co je to za mÃ­sto?}
+{1083}{}{ZajÃ­mavÃ©. DÃ­ky za informace.}
 {1101}{}{Opravdu to jinak nejde?}
-{1102}{}{Jak by to moná šlo?}
-{1103}{}{Proè sis mì pøed chvílí prohlíel jako nìjakou sochu?}
-{1115}{}{Protoe jsem chtìl zjistit, jestli jseš Myronùv typ, ale nevypadáš na to. Moná kdyby ses trochu upravila, tak bys moná mohla Myrona zaujmout... víš, on je hodnì na enskı. }
-{1116}{}{(Ušklíbne se.) Protoe vypadáš DOBØE, zlato. A Myron má rád enskı, kterı vypadaj DOBØE. }
-{1117}{}{Ten kluk je jako králíèek, kterej poøád hledá novı jamky pro svı mrkvièky.}
-{1118}{}{Co jsi to pøedtím øíkal o Golgotì?}
-{1119}{}{Eh, skvìlı. Díky za radu, Julesi. Poslyš, chci se ještì zeptat...}
-{1120}{}{No, tak to abych šla.}
-{1121}{}{Krásnì øeèeno. Kdy mluvíš, je to jako poezie... díky slovu "mrkvièka" si to dokáu parádnì pøedstavit. DÍKY.}
-{1130}{}{Moná kdybys byl hezká enská, ale jinak potøebuješ povolení od Mordinù. A ani jedno není moc pravdìpodobnı.}
+{1102}{}{Jak by to moÅ¾nÃ¡ Å¡lo?}
+{1103}{}{ProÄ sis mÄ› pÅ™ed chvÃ­lÃ­ prohlÃ­Å¾el jako nÄ›jakou sochu?}
+{1115}{}{ProtoÅ¾e jsem chtÄ›l zjistit, jestli jseÅ¡ MyronÅ¯v typ, ale nevypadÃ¡Å¡ na to. MoÅ¾nÃ¡ kdyby ses trochu upravila, tak bys moÅ¾nÃ¡ mohla Myrona zaujmout... vÃ­Å¡, on je hodnÄ› na Å¾enskÃ½. }
+{1116}{}{(UÅ¡klÃ­bne se.) ProtoÅ¾e vypadÃ¡Å¡ DOBÅ˜E, zlato. A Myron mÃ¡ rÃ¡d Å¾enskÃ½, kterÃ½ vypadaj DOBÅ˜E. }
+{1117}{}{Ten kluk je jako krÃ¡lÃ­Äek, kterej poÅ™Ã¡d hledÃ¡ novÃ½ jamky pro svÃ½ mrkviÄky.}
+{1118}{}{Co jsi to pÅ™edtÃ­m Å™Ã­kal o GolgotÄ›?}
+{1119}{}{Eh, skvÄ›lÃ½. DÃ­ky za radu, Julesi. PoslyÅ¡, chci se jeÅ¡tÄ› zeptat...}
+{1120}{}{No, tak to abych Å¡la.}
+{1121}{}{KrÃ¡snÄ› Å™eÄeno. KdyÅ¾ mluvÃ­Å¡, je to jako poezie... dÃ­ky slovu "mrkviÄka" si to dokÃ¡Å¾u parÃ¡dnÄ› pÅ™edstavit. DÃKY.}
+{1130}{}{MoÅ¾nÃ¡ kdybys byl hezkÃ¡ Å¾enskÃ¡, ale jinak potÅ™ebujeÅ¡ povolenÃ­ od MordinÅ¯. A ani jedno nenÃ­ moc pravdÄ›podobnÃ½.}
 {1132}{}{I see. Say, I had some other questions...}
-{1145}{}{Pokud chceš zbranì, tak zajdi za mım kámošem Eldridgem do Obchodní ètvrti. Má bouchaèky, kterı zabijou èlovìka døív, ne tì vùbec UVIDÍ. Øekni mu, e tì posílám.}
-{1146}{}{Rozumím, brácho, rozumím. Jestli chceš to nejlepší, tak zajdi za mım kámošem Eldridgem do Obchodní ètvrti. Má bouchaèky, kterı zabijou èlovìka døív, ne tì vùbec UVIDÍ. Øekni mu, e tì posílám.}
-{1147}{}{Rozumím, ségro, rozumím. Jestli chceš to nejlepší, tak zajdi za mım kámošem Eldridgem do Obchodní ètvrti. Má bouchaèky, kterı zabijou èlovìka døív, ne tì vùbec UVIDÍ. Øekni mu, e tì posílám.}
-{1148}{}{Drahoušku, ty U jseš ïábelsky vyzbrojená svım tìlem. Ale jestli chceš víc, tak zajdi za mım kámošem Eldridgem do Obchodní ètvrti. Má bouchaèky, kterı zabijou èlovìka døív, ne tì vùbec UVIDÍ. Øekni mu, e tì posílám.}
-{1150}{}{Díky za radu. Myslím, e u pùjdu.}
-{1165}{}{Potøebuješ zásoby? No, MÙEŠ jít za Renescem do Obchodní ètvrti... ale je v tom takovej malej háèek: ádnı drogy od nìj nekupuj, paè jsou NEBEZPEÈNİ. Sice má spoustu zboí, ale jestli chceš drogy, tak si radši promluv se mnou.}
-{1166}{}{Budu si to pamatovat. Poslyš, chci se ještì zeptat...}
-{1167}{}{Jeho drogy jsou nebezpeèné, jo? No, tak díky za radu, já u pùjdu.}
-{1175}{}{Rozumím, brácho. Vìtšina TURISTÙ se jen projde po ulici Panen a nechaj si ho vykouøit od nìjakı lacinı kurvy, ale ty vypadáš na to, e máš docela úroveò, take zajdi do Koèièí Packy tady pøes ulici a øekni jim, e tì posílá Jules.}
-{1176}{}{Rozumím, ségro. Vìtšina TURISTEK se jen projde po ulici Panen a nechaj si ji vylízat od nìjakıho teplouše, ale ty vypadáš na to, e máš docela úroveò, take zajdi do Koèièí Packy tady pøes ulici a øekni jim, e tì posílá Jules.}
-{1177}{}{(Usmìje se a roztáhne ruce.) Dál u nehledej, má sladká sestøièko. Jules je ti k slubám!}
-{1178}{}{Eh, díky, Julesi, ale ne. Chci se ještì zeptat...}
-{1180}{}{No, díky za radu, ale budu muset jít.}
-{1181}{}{No, eh, díky, ale budu muset jít.}
-{1190}{}{Myslíš Vault CITY, e jo? To je na severovıchod. Nemùeš ho minout, staèí sledovat vyjetı cesty od karavan.}
-{1191}{}{Dobøe. Poslyš, chci se ještì zeptat...}
-{1192}{}{Díky za radu, ale u musím jít.}
-{1200}{}{GECK? To je nìjaká nová droga? Co to dìlá? Lítáš po ní?}
-{1201}{}{Ne, to je... ale nic, to je jedno. Chci se zeptat na nìco jiného...}
-{1202}{}{To je jedno. Budu muset jít.}
-{1210}{}{O tom nic nevím, promiò. Nemohli to bejt otrokáøi?}
-{1211}{}{Moná. Chci se ještì zeptat...}
-{1220}{}{Coe?}
-{1221}{}{Zapomeòte na to. Chci se ještì na nìco zeptat...}
-{1230}{}{Eh... Wrightovic kluk? Jo, slyšel jsem o tom. Je to fakt škoda, takhle malı dìti by drogy brát nemìli. Mùou proít úasnej ivot i bez míchanıho fetu.}
-{1231}{}{Kdy u mluvíme o míchaném fetu, Renesco øíkal, e prodáváš Jet øíznutı arsenem.}
-{1232}{}{Co myslíš tím "míchaného fetu?"}
-{1233}{}{Nevíš náhodou nìco o téhle prázdné nádobce Jetu?}
-{1234}{}{Zajímavé, e to øíkáš zrovna ty... já si toti myslím, e se nepøedávkoval. Podle mì ho nìkdo otrávil.}
-{1250}{}{(Pokrèí rameny.) Nìkterejm dealerùm je fuk co prodávaj a jestli lidi umøou. Nic jsem neøekl, ale já bych si proklepnul Rakeáka Renesca a zjistil, jak dobrej fet má.}
-{1251}{}{Mluvil jsem s Renescem... a on mi øekl, e prodáváš Jet øíznutı arsenem.}
-{1252}{}{Reno je velké mìsto, Julesi. Nenapadá tì ještì nìkdo?}
-{1253}{}{Chci se ještì zeptat...}
-{1254}{}{Dobøe, podívám se na nìj.}
-{1270}{}{Ve mìstì je hromada dealerù... moná Malej Jeíš Mordino, ale proè by prodával Wrightovi? To nedává smysl. Pak je tady Poøezanej Jimmy J nahoøe na Druhı ulici, ale to je malá ryba. Já bych si stejnì proklepl Renesca.}
-{1272}{}{"Poøezanej Jimmy J?" Kdo to je?}
-{1273}{}{Malej Jeíš Mordino? Kde ho najdu?}
-{1274}{}{To moná udìlám. Chci se ještì zeptat...}
-{1275}{}{Malej Jeíš... Poøezanej Jimmy J... Renesco. Mám to. Díky.}
-{1290}{}{(Julesùv úsmìv zmizí.) Hledám lidi, jako jseš ty. Lidi, co pøicházej do Rena. Tohle je toti skvìlı místo k obchodu. A navíc mi nìkterı podniky platìj za to, e k nim posílám turisty. Staèí ti TAKOVÁ odpovìï?}
-{1291}{}{Ano. Chci se zeptat na nìco jiného...}
-{1292}{}{Jen se tak ptám. Díky za upøímnost.}
-{1305}{}{Tvoje AUTO? Urèitì bylo zaparkovanı tady? Nevidìl jsem ho.}
-{1306}{}{Coe? Najednou jsi SLEPİ? A moji PÌST vidíš, zmrde? VIDÍŠ ji?!! Ještì jednou øekni, e jsi moje auto nevidìl... a DOSTANEŠ ránu.}
-{1307}{}{Julesi, jestli mi neøekneš, co se stalo s mım autem, øeknu Wrightovi, e jsi to byl TY, kdo prodal jeho synovi Jet, kterı ho zabil. Budeš mrtvej do hodiny. Mluv.}
-{1308}{}{Jsi si JISTİ, Julesi?}
-{1309}{}{Ano, bylo zaparkované tady. Nevíš náhodou, kde by mohlo bıt?}
-{1310}{}{Tak dobøe. Chci se ještì na nìco zeptat...}
-{1311}{}{Jdu se po nìm radìji podívat.}
-{1320}{}{Ne, brácho, nevidìl jsem ho. }
-{1321}{}{Ne, ségro, nevidìl jsem ho. }
-{1322}{}{Zkusím se poptat. (Pokrèí rameny.) Ale Reno je velkı mìsto...}
-{1323}{}{Julesi, mám takovı divnı POCIT, e víš, kam zmizelo moje auto. Jestli mi to neøekneš, pouiju tì jako cviènı terè. A teï mluv.}
-{1324}{}{No, stejnì díky. Chci se zeptat...}
-{1340}{}{Ségro, já o tvım autì NIC nevím. }
-{1341}{}{Brácho, já o tvım autì NIC nevím. }
-{1342}{}{NEVIDÌL jsem, co se s ním stalo a ani NEVÍM, kde je. }
-{1343}{}{(Nenávistnì se podívá na Codyho pøes ulici.)}
-{1344}{}{Opravdu? To zní jako pìkná hromada SRAÈEK.}
-{1345}{}{Fakt? Já VÍM, e jsi s ním nìco udìlal, take mi radši øekni, kde je, ne TI nìco udìlám.}
-{1346}{}{Tak nic, budu hledat dál.}
-{1360}{}{Tak jo, brácho, tak jo! }
-{1361}{}{Tak jo, ségro, tak jo! }
-{1362}{}{...vidìl jsem nìjakı chlápky, jak ho pøed chvíli odtáhli. Bylo jich moc, abych je zastavil, víš, a...}
-{1363}{}{Dr hubu a zaveï mì k nim. HNED.}
-{1364}{}{Nevadí, podívám se po nich i bez tebe.}
+{1145}{}{Pokud chceÅ¡ zbranÄ›, tak zajdi za mÃ½m kÃ¡moÅ¡em Eldridgem do ObchodnÃ­ Ätvrti. MÃ¡ bouchaÄky, kterÃ½ zabijou ÄlovÄ›ka dÅ™Ã­v, neÅ¾ tÄ› vÅ¯bec UVIDÃ. Å˜ekni mu, Å¾e tÄ› posÃ­lÃ¡m.}
+{1146}{}{RozumÃ­m, brÃ¡cho, rozumÃ­m. Jestli chceÅ¡ to nejlepÅ¡Ã­, tak zajdi za mÃ½m kÃ¡moÅ¡em Eldridgem do ObchodnÃ­ Ätvrti. MÃ¡ bouchaÄky, kterÃ½ zabijou ÄlovÄ›ka dÅ™Ã­v, neÅ¾ tÄ› vÅ¯bec UVIDÃ. Å˜ekni mu, Å¾e tÄ› posÃ­lÃ¡m.}
+{1147}{}{RozumÃ­m, sÃ©gro, rozumÃ­m. Jestli chceÅ¡ to nejlepÅ¡Ã­, tak zajdi za mÃ½m kÃ¡moÅ¡em Eldridgem do ObchodnÃ­ Ätvrti. MÃ¡ bouchaÄky, kterÃ½ zabijou ÄlovÄ›ka dÅ™Ã­v, neÅ¾ tÄ› vÅ¯bec UVIDÃ. Å˜ekni mu, Å¾e tÄ› posÃ­lÃ¡m.}
+{1148}{}{DrahouÅ¡ku, ty UÅ½ jseÅ¡ ÄÃ¡belsky vyzbrojenÃ¡ svÃ½m tÄ›lem. Ale jestli chceÅ¡ vÃ­c, tak zajdi za mÃ½m kÃ¡moÅ¡em Eldridgem do ObchodnÃ­ Ätvrti. MÃ¡ bouchaÄky, kterÃ½ zabijou ÄlovÄ›ka dÅ™Ã­v, neÅ¾ tÄ› vÅ¯bec UVIDÃ. Å˜ekni mu, Å¾e tÄ› posÃ­lÃ¡m.}
+{1150}{}{DÃ­ky za radu. MyslÃ­m, Å¾e uÅ¾ pÅ¯jdu.}
+{1165}{}{PotÅ™ebujeÅ¡ zÃ¡soby? No, MÅ®Å½EÅ  jÃ­t za Renescem do ObchodnÃ­ Ätvrti... ale je v tom takovej malej hÃ¡Äek: Å¾Ã¡dnÃ½ drogy od nÄ›j nekupuj, paÄ jsou NEBEZPEÄŒNÃ. Sice mÃ¡ spoustu zboÅ¾Ã­, ale jestli chceÅ¡ drogy, tak si radÅ¡i promluv se mnou.}
+{1166}{}{Budu si to pamatovat. PoslyÅ¡, chci se jeÅ¡tÄ› zeptat...}
+{1167}{}{Jeho drogy jsou nebezpeÄnÃ©, jo? No, tak dÃ­ky za radu, jÃ¡ uÅ¾ pÅ¯jdu.}
+{1175}{}{RozumÃ­m, brÃ¡cho. VÄ›tÅ¡ina TURISTÅ® se jen projde po ulici Panen a nechaj si ho vykouÅ™it od nÄ›jakÃ½ lacinÃ½ kurvy, ale ty vypadÃ¡Å¡ na to, Å¾e mÃ¡Å¡ docela ÃºroveÅˆ, takÅ¾e zajdi do KoÄiÄÃ­ Packy tady pÅ™es ulici a Å™ekni jim, Å¾e tÄ› posÃ­lÃ¡ Jules.}
+{1176}{}{RozumÃ­m, sÃ©gro. VÄ›tÅ¡ina TURISTEK se jen projde po ulici Panen a nechaj si ji vylÃ­zat od nÄ›jakÃ½ho teplouÅ¡e, ale ty vypadÃ¡Å¡ na to, Å¾e mÃ¡Å¡ docela ÃºroveÅˆ, takÅ¾e zajdi do KoÄiÄÃ­ Packy tady pÅ™es ulici a Å™ekni jim, Å¾e tÄ› posÃ­lÃ¡ Jules.}
+{1177}{}{(UsmÄ›je se a roztÃ¡hne ruce.) DÃ¡l uÅ¾ nehledej, mÃ¡ sladkÃ¡ sestÅ™iÄko. Jules je ti k sluÅ¾bÃ¡m!}
+{1178}{}{Eh, dÃ­ky, Julesi, ale ne. Chci se jeÅ¡tÄ› zeptat...}
+{1180}{}{No, dÃ­ky za radu, ale budu muset jÃ­t.}
+{1181}{}{No, eh, dÃ­ky, ale budu muset jÃ­t.}
+{1190}{}{MyslÃ­Å¡ Vault CITY, Å¾e jo? To je na severovÃ½chod. NemÅ¯Å¾eÅ¡ ho minout, staÄÃ­ sledovat vyjetÃ½ cesty od karavan.}
+{1191}{}{DobÅ™e. PoslyÅ¡, chci se jeÅ¡tÄ› zeptat...}
+{1192}{}{DÃ­ky za radu, ale uÅ¾ musÃ­m jÃ­t.}
+{1200}{}{GECK? To je nÄ›jakÃ¡ novÃ¡ droga? Co to dÄ›lÃ¡? LÃ­tÃ¡Å¡ po nÃ­?}
+{1201}{}{Ne, to je... ale nic, to je jedno. Chci se zeptat na nÄ›co jinÃ©ho...}
+{1202}{}{To je jedno. Budu muset jÃ­t.}
+{1210}{}{O tom nic nevÃ­m, promiÅˆ. Nemohli to bejt otrokÃ¡Å™i?}
+{1211}{}{MoÅ¾nÃ¡. Chci se jeÅ¡tÄ› zeptat...}
+{1220}{}{CoÅ¾e?}
+{1221}{}{ZapomeÅˆte na to. Chci se jeÅ¡tÄ› na nÄ›co zeptat...}
+{1230}{}{Eh... Wrightovic kluk? Jo, slyÅ¡el jsem o tom. Je to fakt Å¡koda, takhle malÃ½ dÄ›ti by drogy brÃ¡t nemÄ›li. MÅ¯Å¾ou proÅ¾Ã­t ÃºÅ¾asnej Å¾ivot i bez mÃ­chanÃ½ho fetu.}
+{1231}{}{KdyÅ¾ uÅ¾ mluvÃ­me o mÃ­chanÃ©m fetu, Renesco Å™Ã­kal, Å¾e prodÃ¡vÃ¡Å¡ Jet Å™Ã­znutÃ½ arsenem.}
+{1232}{}{Co myslÃ­Å¡ tÃ­m "mÃ­chanÃ©ho fetu?"}
+{1233}{}{NevÃ­Å¡ nÃ¡hodou nÄ›co o tÃ©hle prÃ¡zdnÃ© nÃ¡dobce Jetu?}
+{1234}{}{ZajÃ­mavÃ©, Å¾e to Å™Ã­kÃ¡Å¡ zrovna ty... jÃ¡ si totiÅ¾ myslÃ­m, Å¾e se nepÅ™edÃ¡vkoval. Podle mÄ› ho nÄ›kdo otrÃ¡vil.}
+{1250}{}{(PokrÄÃ­ rameny.) NÄ›kterejm dealerÅ¯m je fuk co prodÃ¡vaj a jestli lidi umÅ™ou. Nic jsem neÅ™ekl, ale jÃ¡ bych si proklepnul RakeÅ¥Ã¡ka Renesca a zjistil, jak dobrej fet mÃ¡.}
+{1251}{}{Mluvil jsem s Renescem... a on mi Å™ekl, Å¾e prodÃ¡vÃ¡Å¡ Jet Å™Ã­znutÃ½ arsenem.}
+{1252}{}{Reno je velkÃ© mÄ›sto, Julesi. NenapadÃ¡ tÄ› jeÅ¡tÄ› nÄ›kdo?}
+{1253}{}{Chci se jeÅ¡tÄ› zeptat...}
+{1254}{}{DobÅ™e, podÃ­vÃ¡m se na nÄ›j.}
+{1270}{}{Ve mÄ›stÄ› je hromada dealerÅ¯... moÅ¾nÃ¡ Malej JeÅ¾Ã­Å¡ Mordino, ale proÄ by prodÃ¡val Wrightovi? To nedÃ¡vÃ¡ smysl. Pak je tady PoÅ™ezanej Jimmy J nahoÅ™e na DruhÃ½ ulici, ale to je malÃ¡ ryba. JÃ¡ bych si stejnÄ› proklepl Renesca.}
+{1272}{}{"PoÅ™ezanej Jimmy J?" Kdo to je?}
+{1273}{}{Malej JeÅ¾Ã­Å¡ Mordino? Kde ho najdu?}
+{1274}{}{To moÅ¾nÃ¡ udÄ›lÃ¡m. Chci se jeÅ¡tÄ› zeptat...}
+{1275}{}{Malej JeÅ¾Ã­Å¡... PoÅ™ezanej Jimmy J... Renesco. MÃ¡m to. DÃ­ky.}
+{1290}{}{(JulesÅ¯v ÃºsmÄ›v zmizÃ­.) HledÃ¡m lidi, jako jseÅ¡ ty. Lidi, co pÅ™ichÃ¡zej do Rena. Tohle je totiÅ¾ skvÄ›lÃ½ mÃ­sto k obchodu. A navÃ­c mi nÄ›kterÃ½ podniky platÄ›j za to, Å¾e k nim posÃ­lÃ¡m turisty. StaÄÃ­ ti TAKOVÃ odpovÄ›Ä?}
+{1291}{}{Ano. Chci se zeptat na nÄ›co jinÃ©ho...}
+{1292}{}{Jen se tak ptÃ¡m. DÃ­ky za upÅ™Ã­mnost.}
+{1305}{}{Tvoje AUTO? UrÄitÄ› bylo zaparkovanÃ½ tady? NevidÄ›l jsem ho.}
+{1306}{}{CoÅ¾e? Najednou jsi SLEPÃ? A moji PÄšST vidÃ­Å¡, zmrde? VIDÃÅ  ji?!! JeÅ¡tÄ› jednou Å™ekni, Å¾e jsi moje auto nevidÄ›l... a DOSTANEÅ  rÃ¡nu.}
+{1307}{}{Julesi, jestli mi neÅ™ekneÅ¡, co se stalo s mÃ½m autem, Å™eknu Wrightovi, Å¾e jsi to byl TY, kdo prodal jeho synovi Jet, kterÃ½ ho zabil. BudeÅ¡ mrtvej do hodiny. Mluv.}
+{1308}{}{Jsi si JISTÃ, Julesi?}
+{1309}{}{Ano, bylo zaparkovanÃ© tady. NevÃ­Å¡ nÃ¡hodou, kde by mohlo bÃ½t?}
+{1310}{}{Tak dobÅ™e. Chci se jeÅ¡tÄ› na nÄ›co zeptat...}
+{1311}{}{Jdu se po nÄ›m radÄ›ji podÃ­vat.}
+{1320}{}{Ne, brÃ¡cho, nevidÄ›l jsem ho. }
+{1321}{}{Ne, sÃ©gro, nevidÄ›l jsem ho. }
+{1322}{}{ZkusÃ­m se poptat. (PokrÄÃ­ rameny.) Ale Reno je velkÃ½ mÄ›sto...}
+{1323}{}{Julesi, mÃ¡m takovÃ½ divnÃ½ POCIT, Å¾e vÃ­Å¡, kam zmizelo moje auto. Jestli mi to neÅ™ekneÅ¡, pouÅ¾iju tÄ› jako cviÄnÃ½ terÄ. A teÄ mluv.}
+{1324}{}{No, stejnÄ› dÃ­ky. Chci se zeptat...}
+{1340}{}{SÃ©gro, jÃ¡ o tvÃ½m autÄ› NIC nevÃ­m. }
+{1341}{}{BrÃ¡cho, jÃ¡ o tvÃ½m autÄ› NIC nevÃ­m. }
+{1342}{}{NEVIDÄšL jsem, co se s nÃ­m stalo a ani NEVÃM, kde je. }
+{1343}{}{(NenÃ¡vistnÄ› se podÃ­vÃ¡ na Codyho pÅ™es ulici.)}
+{1344}{}{Opravdu? To znÃ­ jako pÄ›knÃ¡ hromada SRAÄŒEK.}
+{1345}{}{Fakt? JÃ¡ VÃM, Å¾e jsi s nÃ­m nÄ›co udÄ›lal, takÅ¾e mi radÅ¡i Å™ekni, kde je, neÅ¾ TI nÄ›co udÄ›lÃ¡m.}
+{1346}{}{Tak nic, budu hledat dÃ¡l.}
+{1360}{}{Tak jo, brÃ¡cho, tak jo! }
+{1361}{}{Tak jo, sÃ©gro, tak jo! }
+{1362}{}{...vidÄ›l jsem nÄ›jakÃ½ chlÃ¡pky, jak ho pÅ™ed chvÃ­li odtÃ¡hli. Bylo jich moc, abych je zastavil, vÃ­Å¡, a...}
+{1363}{}{DrÅ¾ hubu a zaveÄ mÄ› k nim. HNED.}
+{1364}{}{NevadÃ­, podÃ­vÃ¡m se po nich i bez tebe.}
 {1375}{}{Okay, okay...}
-{1376}{}{Mimochodem... Julesi... jestli se jenom špatnì PODÍVÁŠ na toho kluka pøes ulici, vrátím se zpátky a zabiju tì tolikrát, e budeš potøebovat nìkolik závìtí. Jasné? A teï jdi.}
-{1377}{}{Ještì jedna vìc, Julesi: Jestli uslyším, e nìco zkoušíš na Codyho, tak tì zabiju. A teï mì zaveï k mému autu.}
-{1378}{}{[Jít za ním]}
-{1385}{}{N... nazdar. (Nervóznì se usmìje. Jeho kolínská tì málem porazí.) Jmenuju se Jules. Potøebuješ nìco, kámo? C... cokoliv?}
-{1386}{}{N... nazdar. Hej, vítej zpátky! (Nervóznì se usmìje. Jeho kolínská tì málem porazí.) Potøebuješ nìco od kámoše Julese, kámo? C... cokoliv?}
-{1389}{}{Mám nìjaké otázky...}
-{1390}{}{Fajn kolínská, Julesi. Byla cítit všude kolem Codyho tìla. Jsi mrtvı.}
-{1391}{}{Cody je mrtvı, Julesi. A vsadím se, e za to mùeš ty. Jsi mrtvı.}
-{1405}{}{H-hej, RÁD bych ti pomohl, ale já nic nevím... poslyš, u musím jít.}
-{1406}{}{Fajn kolínská, Julesi. Byla cítit všude kolem Codyho tìla. Jseš kurva mrtvej.}
-{1407}{}{Cody je mrtvı, Julesi. A vsadím se, e za to mùeš ty. Jseš kurva mrtvej.}
-{1408}{}{Zatím, Julesi.}
-{1415}{}{To je jeden debilní zkurvysyn, kterej si myslí, e je velkej dealer. Nemùeš ho minout... má velkou jizvu pøes celej oblièej. Ten blbec jednou v noci lítal na Jetu a zkoušel se oholit bojovım noem. Smutnı je, e to PØEIL.}
-{1416}{}{A Malej Jeíš Mordino? Kde najdu jeho?}
-{1417}{}{Vidím, e se tu mají všichni rádi... poslyš, chci se ještì zeptat...}
-{1425}{}{No, kámo, já bych byl opatrnej a rozhodnì bych jen tak nevtrhnul k Malımu Jeíšovi a nezaèal ho z nìèeho obviòovat. Ale jestli s ním chceš OPRAVDU mluvit, nebudu ti v tom bránit. Vìtšinou je v Desperadu támhle pøes ulici.}
-{1426}{}{A "Poøezanej Jimmy J?" Kdo je to?}
-{1427}{}{Poslyšte, chci se ještì zeptat...}
-{1435}{}{To mì nepøekvapuje... takovı vìci se v tomhle mìstì stávaj ÈASTO.}
-{1436}{}{Co tím myslíš?}
-{1437}{}{Co mi mùeš øíct o téhle prázdné nádobce Jetu?}
-{1439}{}{Aha. No, díky za tvùj èas.}
-{1450}{}{(Podívá se na nádobku.) Takovejch jsem vidìl stovky. Ale moje není... mohla by bıt Poøezanıho Jimmyho J nebo Renesca.}
-{1451}{}{Poøezanej Jimmy J?}
+{1376}{}{Mimochodem... Julesi... jestli se jenom Å¡patnÄ› PODÃVÃÅ  na toho kluka pÅ™es ulici, vrÃ¡tÃ­m se zpÃ¡tky a zabiju tÄ› tolikrÃ¡t, Å¾e budeÅ¡ potÅ™ebovat nÄ›kolik zÃ¡vÄ›tÃ­. JasnÃ©? A teÄ jdi.}
+{1377}{}{JeÅ¡tÄ› jedna vÄ›c, Julesi: Jestli uslyÅ¡Ã­m, Å¾e nÄ›co zkouÅ¡Ã­Å¡ na Codyho, tak tÄ› zabiju. A teÄ mÄ› zaveÄ k mÃ©mu autu.}
+{1378}{}{[JÃ­t za nÃ­m]}
+{1385}{}{N... nazdar. (NervÃ³znÄ› se usmÄ›je. Jeho kolÃ­nskÃ¡ tÄ› mÃ¡lem porazÃ­.) Jmenuju se Jules. PotÅ™ebujeÅ¡ nÄ›co, kÃ¡mo? C... cokoliv?}
+{1386}{}{N... nazdar. Hej, vÃ­tej zpÃ¡tky! (NervÃ³znÄ› se usmÄ›je. Jeho kolÃ­nskÃ¡ tÄ› mÃ¡lem porazÃ­.) PotÅ™ebujeÅ¡ nÄ›co od kÃ¡moÅ¡e Julese, kÃ¡mo? C... cokoliv?}
+{1389}{}{MÃ¡m nÄ›jakÃ© otÃ¡zky...}
+{1390}{}{Fajn kolÃ­nskÃ¡, Julesi. Byla cÃ­tit vÅ¡ude kolem Codyho tÄ›la. Jsi mrtvÃ½.}
+{1391}{}{Cody je mrtvÃ½, Julesi. A vsadÃ­m se, Å¾e za to mÅ¯Å¾eÅ¡ ty. Jsi mrtvÃ½.}
+{1405}{}{H-hej, RÃD bych ti pomohl, ale jÃ¡ nic nevÃ­m... poslyÅ¡, uÅ¾ musÃ­m jÃ­t.}
+{1406}{}{Fajn kolÃ­nskÃ¡, Julesi. Byla cÃ­tit vÅ¡ude kolem Codyho tÄ›la. JseÅ¡ kurva mrtvej.}
+{1407}{}{Cody je mrtvÃ½, Julesi. A vsadÃ­m se, Å¾e za to mÅ¯Å¾eÅ¡ ty. JseÅ¡ kurva mrtvej.}
+{1408}{}{ZatÃ­m, Julesi.}
+{1415}{}{To je jeden debilnÃ­ zkurvysyn, kterej si myslÃ­, Å¾e je velkej dealer. NemÅ¯Å¾eÅ¡ ho minout... mÃ¡ velkou jizvu pÅ™es celej obliÄej. Ten blbec jednou v noci lÃ­tal na Jetu a zkouÅ¡el se oholit bojovÃ½m noÅ¾em. SmutnÃ½ je, Å¾e to PÅ˜EÅ½IL.}
+{1416}{}{A Malej JeÅ¾Ã­Å¡ Mordino? Kde najdu jeho?}
+{1417}{}{VidÃ­m, Å¾e se tu majÃ­ vÅ¡ichni rÃ¡di... poslyÅ¡, chci se jeÅ¡tÄ› zeptat...}
+{1425}{}{No, kÃ¡mo, jÃ¡ bych byl opatrnej a rozhodnÄ› bych jen tak nevtrhnul k MalÃ½mu JeÅ¾Ã­Å¡ovi a nezaÄal ho z nÄ›Äeho obviÅˆovat. Ale jestli s nÃ­m chceÅ¡ OPRAVDU mluvit, nebudu ti v tom brÃ¡nit. VÄ›tÅ¡inou je v Desperadu tÃ¡mhle pÅ™es ulici.}
+{1426}{}{A "PoÅ™ezanej Jimmy J?" Kdo je to?}
+{1427}{}{PoslyÅ¡te, chci se jeÅ¡tÄ› zeptat...}
+{1435}{}{To mÄ› nepÅ™ekvapuje... takovÃ½ vÄ›ci se v tomhle mÄ›stÄ› stÃ¡vaj ÄŒASTO.}
+{1436}{}{Co tÃ­m myslÃ­Å¡?}
+{1437}{}{Co mi mÅ¯Å¾eÅ¡ Å™Ã­ct o tÃ©hle prÃ¡zdnÃ© nÃ¡dobce Jetu?}
+{1439}{}{Aha. No, dÃ­ky za tvÅ¯j Äas.}
+{1450}{}{(PodÃ­vÃ¡ se na nÃ¡dobku.) Takovejch jsem vidÄ›l stovky. Ale moje nenÃ­... mohla by bÃ½t PoÅ™ezanÃ½ho Jimmyho J nebo Renesca.}
+{1451}{}{PoÅ™ezanej Jimmy J?}
 {1452}{}{Renesco?}
-{1453}{}{Hmmm. Chci se ještì zeptat...}
-{1470}{}{To je jeden debilní zkurvysyn na Druhı ulici. Nemùeš ho minout... má velkou jizvu pøes celej oblièej. Ten blbec jednou v noci lítal na Jetu a zkoušel se oholit bojovım noem. Smutnı je, e to PØEIL.}
+{1453}{}{Hmmm. Chci se jeÅ¡tÄ› zeptat...}
+{1470}{}{To je jeden debilnÃ­ zkurvysyn na DruhÃ½ ulici. NemÅ¯Å¾eÅ¡ ho minout... mÃ¡ velkou jizvu pÅ™es celej obliÄej. Ten blbec jednou v noci lÃ­tal na Jetu a zkouÅ¡el se oholit bojovÃ½m noÅ¾em. SmutnÃ½ je, Å¾e to PÅ˜EÅ½IL.}
 {1471}{}{A Renesco? Kde najdu jeho?}
-{1473}{}{Rozumím. Díky.}
-{1485}{}{To je jeden starej hajzl, kterej má lékarnu v Obchodní ètvrti... jdi pár ulic na sever, zahni doleva u Salvatorova a Bishopova kasína a pak pokraèuj furt rovnì. Je to napravo.}
-{1486}{}{A "Poøezanej Jimmy J?" Kde najdu jeho?}
-{1487}{}{Dobøe... poslyš, chci se ještì na nìco zeptat...}
-{1500}{}{Øekni tomu hajzlovi, e jestli ještì nìkdy øekne takovou sraèku, tak ho ZABIJU døív, ne to udìlá starej Wright. Víš, kdo takhle kecá? Takhle kecá nìkdo, kdo je posranej STRACHY.}
+{1473}{}{RozumÃ­m. DÃ­ky.}
+{1485}{}{To je jeden starej hajzl, kterej mÃ¡ lÃ©karnu v ObchodnÃ­ Ätvrti... jdi pÃ¡r ulic na sever, zahni doleva u Salvatorova a Bishopova kasÃ­na a pak pokraÄuj furt rovnÄ›. Je to napravo.}
+{1486}{}{A "PoÅ™ezanej Jimmy J?" Kde najdu jeho?}
+{1487}{}{DobÅ™e... poslyÅ¡, chci se jeÅ¡tÄ› na nÄ›co zeptat...}
+{1500}{}{Å˜ekni tomu hajzlovi, Å¾e jestli jeÅ¡tÄ› nÄ›kdy Å™ekne takovou sraÄku, tak ho ZABIJU dÅ™Ã­v, neÅ¾ to udÄ›lÃ¡ starej Wright. VÃ­Å¡, kdo takhle kecÃ¡? Takhle kecÃ¡ nÄ›kdo, kdo je posranej STRACHY.}
 {1501}{}{I see... say, I had some other questions...}
-{1502}{}{Rozumím. Pùjdu se za ním podívat.}
-{2000}{}{To je AUTO? Sákryš.}
+{1502}{}{RozumÃ­m. PÅ¯jdu se za nÃ­m podÃ­vat.}
+{2000}{}{To je AUTO? SÃ¡kryÅ¡.}

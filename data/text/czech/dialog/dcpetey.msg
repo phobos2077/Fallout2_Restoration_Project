@@ -1,73 +1,73 @@
-{100}{}{Vidíš drogového závisláka.}
-{101}{}{Vidíš Peteyho.}
-{150}{}{Je to chudı drogovı závislák.}
-{151}{}{Tady Petey by potøeboval píchnout.}
+{100}{}{VidÃ­Å¡ drogovÃ©ho zÃ¡vislÃ¡ka.}
+{101}{}{VidÃ­Å¡ Peteyho.}
+{150}{}{Je to chudÃ½ drogovÃ½ zÃ¡vislÃ¡k.}
+{151}{}{Tady Petey by potÅ™eboval pÃ­chnout.}
 {152}{}{[MLUVIT]}
-{155}{}{[kašlání] Nemáš nìjakı drobnı pro Peteyho?}
-{156}{}{Jistì, tady máš.}
-{157}{}{Ne, vypadni ode mì.}
-{158}{}{Tıpí?}
-{159}{}{Jseš na tom hùø ne já [kašlání]. Kadopádnì díky.}
-{160}{}{Promiò, nashle.}
-{161}{}{No jo, není zaè, eh, jo.}
-{162}{}{Moná pøíštì. Kadopádnì díky [kašlání]}
+{155}{}{[kaÅ¡lÃ¡nÃ­] NemÃ¡Å¡ nÄ›jakÃ½ drobnÃ½ pro Peteyho?}
+{156}{}{JistÄ›, tady mÃ¡Å¡.}
+{157}{}{Ne, vypadni ode mÄ›.}
+{158}{}{TÃ½pÃ­?}
+{159}{}{JseÅ¡ na tom hÅ¯Å™ neÅ¾ jÃ¡ [kaÅ¡lÃ¡nÃ­]. KaÅ¾dopÃ¡dnÄ› dÃ­ky.}
+{160}{}{PromiÅˆ, nashle.}
+{161}{}{No jo, nenÃ­ zaÄ, eh, jo.}
+{162}{}{MoÅ¾nÃ¡ pÅ™Ã­Å¡tÄ›. KaÅ¾dopÃ¡dnÄ› dÃ­ky [kaÅ¡lÃ¡nÃ­]}
 {163}{}{[KONEC]}
-{164}{}{Diky moc. [kašlání] Opravdu, opravdu moc.}
-{165}{}{Není zaè.}
+{164}{}{Diky moc. [kaÅ¡lÃ¡nÃ­] Opravdu, opravdu moc.}
+{165}{}{NenÃ­ zaÄ.}
 {166}{}{Jo jo.}
-{167}{}{Pane, [kašlání] nechcete pomoct uboákovi, kterı je na dnì?}
-{168}{}{Tady máš $5.}
+{167}{}{Pane, [kaÅ¡lÃ¡nÃ­] nechcete pomoct uboÅ¾Ã¡kovi, kterÃ½ je na dnÄ›?}
+{168}{}{Tady mÃ¡Å¡ $5.}
 {169}{}{Dnes ne.}
-{170}{}{Seeò si práci.}
-{171}{}{Paní, buïte tak laskavá a pomozte prosím [kašlání] hladovìjícímu chudákovi, kterej je [kašlání] tak nemocnej, e nemùe pracovat.}
-{172}{}{Ty chudinko, tady máš $5.}
-{173}{}{ebrákùm peníze zásadnì nedávám.}
+{170}{}{SeÅ¾eÅˆ si prÃ¡ci.}
+{171}{}{PanÃ­, buÄte tak laskavÃ¡ a pomozte prosÃ­m [kaÅ¡lÃ¡nÃ­] hladovÄ›jÃ­cÃ­mu chudÃ¡kovi, kterej je [kaÅ¡lÃ¡nÃ­] tak nemocnej, Å¾e nemÅ¯Å¾e pracovat.}
+{172}{}{Ty chudinko, tady mÃ¡Å¡ $5.}
+{173}{}{Å½ebrÃ¡kÅ¯m penÃ­ze zÃ¡sadnÄ› nedÃ¡vÃ¡m.}
 {174}{}{Ne.}
-{175}{}{Promiò, ale nemám u sebe ádné peníze.}
-{200}{}{Haló, pane, nemáte nìjakı peníze?}
-{201}{}{Nemáte nìjakı drobnı, laskavı pane?}
-{202}{}{Haló, mùete mi vypomoct pár doláèema?}
-{203}{}{Nechceš mi vypomoct pár doláèema?}
-{204}{}{Mùeš mi pùjèit pár doláèù?}
-{205}{}{Nemáte nìjakı drobnı, laskavá paní?}
-{206}{}{Haló, paní, nemáte nìjakı peníze?}
-{220}{}{Prosím, pomozte mi, pane.}
-{221}{}{Áááá, to bolí.}
-{222}{}{Potøebuju pomoct. Strašnì to bolí.}
-{223}{}{Paní, mùete zavolat pomoc?}
-{225}{}{Strašnì si toho váím.}
-{226}{}{Hej, co si myslíš, e dìláš?}
-{230}{}{Cítím se tak dobøe.}
+{175}{}{PromiÅˆ, ale nemÃ¡m u sebe Å¾Ã¡dnÃ© penÃ­ze.}
+{200}{}{HalÃ³, pane, nemÃ¡te nÄ›jakÃ½ penÃ­ze?}
+{201}{}{NemÃ¡te nÄ›jakÃ½ drobnÃ½, laskavÃ½ pane?}
+{202}{}{HalÃ³, mÅ¯Å¾ete mi vypomoct pÃ¡r dolÃ¡Äema?}
+{203}{}{NechceÅ¡ mi vypomoct pÃ¡r dolÃ¡Äema?}
+{204}{}{MÅ¯Å¾eÅ¡ mi pÅ¯jÄit pÃ¡r dolÃ¡ÄÅ¯?}
+{205}{}{NemÃ¡te nÄ›jakÃ½ drobnÃ½, laskavÃ¡ panÃ­?}
+{206}{}{HalÃ³, panÃ­, nemÃ¡te nÄ›jakÃ½ penÃ­ze?}
+{220}{}{ProsÃ­m, pomozte mi, pane.}
+{221}{}{ÃÃ¡Ã¡Ã¡, to bolÃ­.}
+{222}{}{PotÅ™ebuju pomoct. StraÅ¡nÄ› to bolÃ­.}
+{223}{}{PanÃ­, mÅ¯Å¾ete zavolat pomoc?}
+{225}{}{StraÅ¡nÄ› si toho vÃ¡Å¾Ã­m.}
+{226}{}{Hej, co si myslÃ­Å¡, Å¾e dÄ›lÃ¡Å¡?}
+{230}{}{CÃ­tÃ­m se tak dobÅ™e.}
 {231}{}{Ehhh...}
-{232}{}{[hihòání]}
+{232}{}{[hihÅˆÃ¡nÃ­]}
 {233}{}{Hej...}
-{234}{}{Hezkııııı...}
-{235}{}{To jóó...}
-{300}{}{Nemùu uvìøit, e nìkdo kurva zavradil Tubbyho...}
+{234}{}{HezkÃ½Ã½Ã½Ã½Ã½...}
+{235}{}{To jÃ³Ã³...}
+{300}{}{NemÅ¯Å¾u uvÄ›Å™it, Å¾e nÄ›kdo kurva zavraÅ¾dil Tubbyho...}
 {301}{}{Co se kurva stalo Tubbymu?}
-{302}{}{Ach jo, proè musel Tubby umøít?}
-{303}{}{Áááá...}
-{304}{}{Stejnì jsem toho kreténa nemìl rád.}
+{302}{}{Ach jo, proÄ musel Tubby umÅ™Ã­t?}
+{303}{}{ÃÃ¡Ã¡Ã¡...}
+{304}{}{StejnÄ› jsem toho kretÃ©na nemÄ›l rÃ¡d.}
 {305}{}{Flick je mrtvej... do hajzlu.}
 {306}{}{Co se stalo Flickovi?}
-{307}{}{Chybí mi Flick...}
-{310}{}{Hej, Tubby, já... ehh... potøebuju píchnout.}
+{307}{}{ChybÃ­ mi Flick...}
+{310}{}{Hej, Tubby, jÃ¡... ehh... potÅ™ebuju pÃ­chnout.}
 {311}{}{HEJ, TUBBY!}
 {312}{}{Ahoj.}
 {313}{}{HEJ!}
-{314}{}{Hej, Flicku, já... ehh... potøebuju píchnout.}
+{314}{}{Hej, Flicku, jÃ¡... ehh... potÅ™ebuju pÃ­chnout.}
 {315}{}{HEJ, FLICKU!}
-{320}{}{Hej, Tubby, mùeš mi nìco sehnat? Mám prachy.}
-{321}{}{Ehhh, Tubby, mám nìjakı prachy.}
+{320}{}{Hej, Tubby, mÅ¯Å¾eÅ¡ mi nÄ›co sehnat? MÃ¡m prachy.}
+{321}{}{Ehhh, Tubby, mÃ¡m nÄ›jakÃ½ prachy.}
 {322}{}{Ehhh...}
-{323}{}{Potøebuju dávku.}
-{324}{}{Hey, Flicku, mùeš mi nìco sehnat? Mám prachy.}
-{325}{}{Ehhh, Flicku, mám nìjakı prachy.}
-{330}{}{Ehhh... ještì jednou díky, Tubby.}
-{331}{}{Jseš kámoš, Tubby.}
-{332}{}{Pøísahám, e s tím od zejtra pøestanu.}
-{333}{}{Jseš kámoš.}
-{334}{}{Ehhh... ještì jednou díky, Flicku.}
-{335}{}{Jseš kámoš, Flicku.}
-{340}{}{Tady. A teï zmiz, feáku.}
-{341}{}{Vem si to a jdi k èertu.}
+{323}{}{PotÅ™ebuju dÃ¡vku.}
+{324}{}{Hey, Flicku, mÅ¯Å¾eÅ¡ mi nÄ›co sehnat? MÃ¡m prachy.}
+{325}{}{Ehhh, Flicku, mÃ¡m nÄ›jakÃ½ prachy.}
+{330}{}{Ehhh... jeÅ¡tÄ› jednou dÃ­ky, Tubby.}
+{331}{}{JseÅ¡ kÃ¡moÅ¡, Tubby.}
+{332}{}{PÅ™Ã­sahÃ¡m, Å¾e s tÃ­m od zejtra pÅ™estanu.}
+{333}{}{JseÅ¡ kÃ¡moÅ¡.}
+{334}{}{Ehhh... jeÅ¡tÄ› jednou dÃ­ky, Flicku.}
+{335}{}{JseÅ¡ kÃ¡moÅ¡, Flicku.}
+{340}{}{Tady. A teÄ zmiz, feÅ¥Ã¡ku.}
+{341}{}{Vem si to a jdi k Äertu.}

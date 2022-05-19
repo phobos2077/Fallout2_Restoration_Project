@@ -1,1 +1,1 @@
-{100}{}{Tato laboratoø se zdá bıt dokonale zvukotìsná.}
+{100}{}{Tato laboratoÅ™ se zdÃ¡ bÃ½t dokonale zvukotÄ›snÃ¡.}

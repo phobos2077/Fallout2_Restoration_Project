@@ -1,6 +1,6 @@
-{100}{}{Vidíš sejf ve zdi.}
-{110}{}{Sejf je zamèenı.}
-{200}{}{Úspìšnì odemykáš sejf.}
-{201}{}{Úspìšnì zamykáš sejf.}
-{210}{}{Nepodaøilo se ti sejf zamknout.}
-{211}{}{Nepodaøilo se ti sejf odemknout.}
+{100}{}{VidÃ­Å¡ sejf ve zdi.}
+{110}{}{Sejf je zamÄenÃ½.}
+{200}{}{ÃšspÄ›Å¡nÄ› odemykÃ¡Å¡ sejf.}
+{201}{}{ÃšspÄ›Å¡nÄ› zamykÃ¡Å¡ sejf.}
+{210}{}{NepodaÅ™ilo se ti sejf zamknout.}
+{211}{}{NepodaÅ™ilo se ti sejf odemknout.}

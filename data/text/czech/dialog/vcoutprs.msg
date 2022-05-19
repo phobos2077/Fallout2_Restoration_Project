@@ -1,8 +1,8 @@
-{100}{}{Vidíš vìznì.}
-{101}{}{Vidíš vìznì, kterı není zdejší.}
-{102}{}{To je naposled, co jsem porušil zákaz vycházení.}
-{103}{}{Ještì jeden tejden a vrátím se do Centra rozdìlování sluebníkù...}
-{104}{}{Pøíteli, bì radši dál. Jestli nás spolu uvidìj mluvit, budeme mít ze ivota peklo.}
-{105}{}{Strèil mì sem podìlanej Barkus. A ho dostanu do ruky...}
-{106}{}{Vstoupit do Vault City byla osudová chyba. "Svobodnı" mìsto... takovej vtip.}
-{107}{}{Aspoò e to rádlo není špatnı.}
+{100}{}{VidÃ­Å¡ vÄ›znÄ›.}
+{101}{}{VidÃ­Å¡ vÄ›znÄ›, kterÃ½ nenÃ­ zdejÅ¡Ã­.}
+{102}{}{To je naposled, co jsem poruÅ¡il zÃ¡kaz vychÃ¡zenÃ­.}
+{103}{}{JeÅ¡tÄ› jeden tejden a vrÃ¡tÃ­m se do Centra rozdÄ›lovÃ¡nÃ­ sluÅ¾ebnÃ­kÅ¯...}
+{104}{}{PÅ™Ã­teli, bÄ›Å¾ radÅ¡i dÃ¡l. Jestli nÃ¡s spolu uvidÄ›j mluvit, budeme mÃ­t ze Å¾ivota peklo.}
+{105}{}{StrÄil mÄ› sem podÄ›lanej Barkus. AÅ¾ ho dostanu do ruky...}
+{106}{}{Vstoupit do Vault City byla osudovÃ¡ chyba. "SvobodnÃ½" mÄ›sto... takovej vtip.}
+{107}{}{AspoÅˆ Å¾e to Å¾rÃ¡dlo nenÃ­ Å¡patnÃ½.}

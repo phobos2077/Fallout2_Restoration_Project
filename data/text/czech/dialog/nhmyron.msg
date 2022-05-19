@@ -1,659 +1,659 @@
-{100}{}{Vidíš Myrona! Myron, jó, Myron!}
-{150}{}{Vidíš bledého puberáka, kterı po tobì pokukuje. Má mastné vlasy a lehce páchne po formaldehydu.}
-{151}{}{Vidíš Myrona. Nenápadnì po tobì pokukuje.}
-{200}{}{Vidíš bledého puberáka. Má mastné vlasy a lehce páchne po formaldehydu.}
-{201}{}{Vidíš Myrona. Rozhlíí se kolem jako nìjakı špeh.}
-{202}{}{Vidíš Myrona. Posmrkává, jako kdyby mìl rımu.}
-{203}{}{Vidíš Myrona. Vypadá znudìnì.}
-{204}{}{Vidíš Myrona. Zívá a mne si oèi.}
-{210}{}{Zvednìte ty svı zadky a pojïte sem, chlapi! Máme tu vetøelce!}
-{215}{}{Co sakra chceš?}
-{216}{}{Jestli jseš tady kvùli Jetu, tak na to zapomeò a vypadni.}
-{217}{}{Nìco tady smrdí...}
-{225}{}{Nazdárek, krásko.}
-{226}{}{Pojï ke mnì na chvilku. Neboj, nekoušu.}
-{227}{}{Pøestaò mì škádlit a pojï blí.}
-{228}{}{Myslím, e jsem se právì zamiloval.}
-{229}{}{Chodíš sem èasto?}
-{230}{}{Mmmm-mmmm. Máš krásnı dlouhı nohy.}
-{235}{}{Co je to za smrad? Smrdí to jako divoch.}
-{236}{}{Fajn kost co má ten tvùj kámoš. Fakt stylovı.}
-{237}{}{Ten divoch je tvùj otrok?}
-{238}{}{Nekompenzuje si ten tvùj divoch nìco?}
-{239}{}{Jak se sem ta vìc sakra dostala?}
-{240}{}{No skvìlı. Teï u sem pouštìj i mutanty.}
-{241}{}{Víš urèitì, e je dobrı nápad tahat sebou mutanta?}
-{242}{}{Ten mutant je tvùj otrok?}
-{243}{}{Jak rychle se ten tvùj hnusnej mutantí kámoš naštve?}
-{244}{}{Co je to za smrad? Smrdí to jako mutant.}
-{255}{}{Co to tady smrdí? Jako by tu nìco chcíplo.}
-{256}{}{No skvìlı. Teï u sem pouštìj i ghouly.}
-{257}{}{Ten ghoul by potøeboval vyvenèit. Pìknì smrdí.}
-{258}{}{Není ten ghoul radioaktivní?}
-{259}{}{Nechceš toho ghoula pomazat skunkem? Urèitì by vonìl líp.}
-{265}{}{Budeme u taky nìco dìlat?}
-{266}{}{Pojïme sbalit nìjakı enskı v tomhle strašnım ohozu.}
-{267}{}{Co takhle jít nìkam, kde je víc enskejch?}
-{268}{}{Mùeš dìkovat nebesùm, e jsem s tebou a upozoròuju tì na všechny tvoje hloupı chyby.}
-{375}{}{Hej, já tady umírám! Dej mi u koneènì Stimpak!}
+{100}{}{VidÃ­Å¡ Myrona! Myron, jÃ³, Myron!}
+{150}{}{VidÃ­Å¡ bledÃ©ho puberÅ¥Ã¡ka, kterÃ½ po tobÄ› pokukuje. MÃ¡ mastnÃ© vlasy a lehce pÃ¡chne po formaldehydu.}
+{151}{}{VidÃ­Å¡ Myrona. NenÃ¡padnÄ› po tobÄ› pokukuje.}
+{200}{}{VidÃ­Å¡ bledÃ©ho puberÅ¥Ã¡ka. MÃ¡ mastnÃ© vlasy a lehce pÃ¡chne po formaldehydu.}
+{201}{}{VidÃ­Å¡ Myrona. RozhlÃ­Å¾Ã­ se kolem jako nÄ›jakÃ½ Å¡peh.}
+{202}{}{VidÃ­Å¡ Myrona. PosmrkÃ¡vÃ¡, jako kdyby mÄ›l rÃ½mu.}
+{203}{}{VidÃ­Å¡ Myrona. VypadÃ¡ znudÄ›nÄ›.}
+{204}{}{VidÃ­Å¡ Myrona. ZÃ­vÃ¡ a mne si oÄi.}
+{210}{}{ZvednÄ›te ty svÃ½ zadky a pojÄte sem, chlapi! MÃ¡me tu vetÅ™elce!}
+{215}{}{Co sakra chceÅ¡?}
+{216}{}{Jestli jseÅ¡ tady kvÅ¯li Jetu, tak na to zapomeÅˆ a vypadni.}
+{217}{}{NÄ›co tady smrdÃ­...}
+{225}{}{NazdÃ¡rek, krÃ¡sko.}
+{226}{}{PojÄ ke mnÄ› na chvilku. Neboj, nekouÅ¡u.}
+{227}{}{PÅ™estaÅˆ mÄ› Å¡kÃ¡dlit a pojÄ blÃ­Å¾.}
+{228}{}{MyslÃ­m, Å¾e jsem se prÃ¡vÄ› zamiloval.}
+{229}{}{ChodÃ­Å¡ sem Äasto?}
+{230}{}{Mmmm-mmmm. MÃ¡Å¡ krÃ¡snÃ½ dlouhÃ½ nohy.}
+{235}{}{Co je to za smrad? SmrdÃ­ to jako divoch.}
+{236}{}{Fajn kost co mÃ¡ ten tvÅ¯j kÃ¡moÅ¡. Fakt stylovÃ½.}
+{237}{}{Ten divoch je tvÅ¯j otrok?}
+{238}{}{Nekompenzuje si ten tvÅ¯j divoch nÄ›co?}
+{239}{}{Jak se sem ta vÄ›c sakra dostala?}
+{240}{}{No skvÄ›lÃ½. TeÄ uÅ¾ sem pouÅ¡tÄ›j i mutanty.}
+{241}{}{VÃ­Å¡ urÄitÄ›, Å¾e je dobrÃ½ nÃ¡pad tahat sebou mutanta?}
+{242}{}{Ten mutant je tvÅ¯j otrok?}
+{243}{}{Jak rychle se ten tvÅ¯j hnusnej mutantÃ­ kÃ¡moÅ¡ naÅ¡tve?}
+{244}{}{Co je to za smrad? SmrdÃ­ to jako mutant.}
+{255}{}{Co to tady smrdÃ­? Jako by tu nÄ›co chcÃ­plo.}
+{256}{}{No skvÄ›lÃ½. TeÄ uÅ¾ sem pouÅ¡tÄ›j i ghouly.}
+{257}{}{Ten ghoul by potÅ™eboval vyvenÄit. PÄ›knÄ› smrdÃ­.}
+{258}{}{NenÃ­ ten ghoul radioaktivnÃ­?}
+{259}{}{NechceÅ¡ toho ghoula pomazat skunkem? UrÄitÄ› by vonÄ›l lÃ­p.}
+{265}{}{Budeme uÅ¾ taky nÄ›co dÄ›lat?}
+{266}{}{PojÄme sbalit nÄ›jakÃ½ Å¾enskÃ½ v tomhle straÅ¡nÃ½m ohozu.}
+{267}{}{Co takhle jÃ­t nÄ›kam, kde je vÃ­c Å¾enskejch?}
+{268}{}{MÅ¯Å¾eÅ¡ dÄ›kovat nebesÅ¯m, Å¾e jsem s tebou a upozorÅˆuju tÄ› na vÅ¡echny tvoje hloupÃ½ chyby.}
+{375}{}{Hej, jÃ¡ tady umÃ­rÃ¡m! Dej mi uÅ¾ koneÄnÄ› Stimpak!}
 {376}{}{To je moje krev?}
 {377}{}{Medik!}
-{378}{}{Auuuuuuu. Kurva! Auuu, to bolí!}
-{379}{}{Au! To štípe!}
+{378}{}{Auuuuuuu. Kurva! Auuu, to bolÃ­!}
+{379}{}{Au! To Å¡tÃ­pe!}
 {380}{}{Auuuuuuuuuuuu auuuuuuu Au. Au. Au?}
-{381}{}{Auuuu. Ké by mì tak NÌKDO obvázal.}
-{390}{}{Dej mi Stimpak nebo omdlím!}
-{391}{}{Dej mi sakra Stimpak! Jsem v šoku!}
-{392}{}{Dejte mi nìkdo rychle první pomoc! Umírám tady!}
-{400}{}{Jejda... jsem nìjakej slabej...}
-{401}{}{Hmm... zvedá se mi aludek... zvıšenej tep... horeèka. To bude nejspíš jed.}
-{402}{}{Eh... u... dlouho... nevydrím... jed... se... šíøí...}
-{403}{}{Mùe ze mì nìkdo prosím vysát ten jed?}
+{381}{}{Auuuu. KÃ©Å¾ by mÄ› tak NÄšKDO obvÃ¡zal.}
+{390}{}{Dej mi Stimpak nebo omdlÃ­m!}
+{391}{}{Dej mi sakra Stimpak! Jsem v Å¡oku!}
+{392}{}{Dejte mi nÄ›kdo rychle prvnÃ­ pomoc! UmÃ­rÃ¡m tady!}
+{400}{}{Jejda... jsem nÄ›jakej slabej...}
+{401}{}{Hmm... zvedÃ¡ se mi Å¾aludek... zvÃ½Å¡enej tep... horeÄka. To bude nejspÃ­Å¡ jed.}
+{402}{}{Eh... uÅ¾... dlouho... nevydrÅ¾Ã­m... jed... se... Å¡Ã­Å™Ã­...}
+{403}{}{MÅ¯Å¾e ze mÄ› nÄ›kdo prosÃ­m vysÃ¡t ten jed?}
 {410}{}{Is that me glowing? Give me some Rad-X next time we dick around in radiation zones, okay?}
 {411}{}{I need some RadAway before the radiation eats my Gnads-away.}
-{412}{}{Co kdybysme se pøíštì toho radioaktivního slizu rovnou napili? Aspoò chcípneme rychleji!}
-{413}{}{Svım tìlem bych mohl osvìtlovat celı New Reno.}
+{412}{}{Co kdybysme se pÅ™Ã­Å¡tÄ› toho radioaktivnÃ­ho slizu rovnou napili? AspoÅˆ chcÃ­pneme rychleji!}
+{413}{}{SvÃ½m tÄ›lem bych mohl osvÄ›tlovat celÃ½ New Reno.}
 {414}{}{I'm glowing brighter than New Reno at midnight. Anybody got some RadAway?}
-{415}{}{No skvìlı. Trocha radiace a hned je ze mì lidská baterka.}
+{415}{}{No skvÄ›lÃ½. Trocha radiace a hned je ze mÄ› lidskÃ¡ baterka.}
 {416}{}{Somebody let me hold the RadAway. I won't use all of it. I promise.}
-{425}{}{Co kdybysme se vrátili do prvního patra dungeonu mezi koboldy?}
-{426}{}{Ještì, e jsem hrával Draèí Doupì. Za ty roky jsem se nauèil pár vìci o odvaze.}
-{427}{}{Podej mi Buffout. Asi ho budu brzo potøebovat.}
-{428}{}{Skvìlı místo. Fakt skvìlı místo. Co kdybysme se tu zdreli jen na chvíli?}
-{429}{}{Jó, tohle je fakt MNOHEM lepší, ne bejt v nìjakım útulnım bordelu.}
-{430}{}{Rychle dovnitø, rychle ven, jasnı?}
-{431}{}{Co kdybysme se sem podívali pozdìji?}
-{432}{}{Proè tu sakra jsme?}
-{433}{}{Tohle místo mi nièí morálku.}
-{434}{}{Navrhuju, abysme poslali Kostìnıho Nosa na prùzkum okolí. Samotnıho.}
-{435}{}{Co kdybysme poslali Kostìnıho Nosa na prùzkum okolí?}
-{445}{}{Co kdybysme poslali Marcuse na prùzkum okolí?}
-{446}{}{Navrhuju, abysme poslali Marcuse na prùzkum okolí. Samotnıho.}
-{447}{}{Podej mi Buffout. Asi ho budu brzo potøebovat.}
-{448}{}{Co kdybysme se vrátili do prvního patra dungeonu mezi koboldy?}
-{449}{}{Ještì, e jsem hrával Draèí Doupì. Za ty roky jsem se nauèil pár vìci o odvaze.}
-{450}{}{Skvìlı místo. Fakt skvìlı místo. Co kdybysme se tu zdreli jen na chvíli?}
-{451}{}{Jó, tohle je fakt MNOHEM lepší, ne bejt v nìjakım útulnım bordelu.}
-{452}{}{Rychle dovnitø, rychle ven, jasnı?}
-{453}{}{Co kdybysme se sem podívali pozdìji?}
-{454}{}{Proè tu sakra jsme?}
-{455}{}{Tohle místo mi nièí morálku.}
-{456}{}{Navrhuju, abysme poslali Lennyho na prùzkum okolí. Samotnıho.}
-{457}{}{Co kdybysme poslali Lennyho na prùzkum okolí?}
-{465}{}{Hej, díky. To mi fakt bodlo.}
-{466}{}{Není nad poøádnou dávku pøímo do íly.}
-{467}{}{Doufám, e to neznamená, e jsme svoji, e ne?}
-{468}{}{Nemáš nìjakou trávu?}
-{469}{}{Co kdybych nesl Stimpaky já?}
-{470}{}{Ááááááááách.}
-{471}{}{Óóóóóóóch. Áááááááách. Mmmmmm.}
-{472}{}{Miluju, kdy tohle dìláš.}
-{473}{}{Drogy mì vdycky úplnì omámí.}
-{485}{}{Hej, nedávej mi tu sraèku! Nech si to pro závisláky!}
-{486}{}{Hele, já lítat nechci a ty taky ne. Zahoï tu sraèku nìkam.}
-{487}{}{Co kdybys tu sraèku dal Kostìnımu Nosovi?}
-{495}{}{Co kdybys tu sraèku dal Marcusovi?}
-{496}{}{Hej, nedávej mi tu sraèku! Nech si to pro závisláky!}
-{497}{}{Ty vole, já lítat nechci a ty taky ne. Zahoï tu sraèku nìkam.}
-{498}{}{Co kdybys tu sraèku dal Lennymu?}
-{505}{}{Dobøe, dobøe. U jdu na to.}
-{506}{}{Zùstaò vzadu, idiote. Já na to pøijdu.}
-{507}{}{To vypadá jednoduše. Zùstaò vzadu, jasnı?}
-{508}{}{ádnı problém.}
-{509}{}{Èas na mı 'kouzelnı prstíky'...}
+{425}{}{Co kdybysme se vrÃ¡tili do prvnÃ­ho patra dungeonu mezi koboldy?}
+{426}{}{JeÅ¡tÄ›, Å¾e jsem hrÃ¡val DraÄÃ­ DoupÄ›. Za ty roky jsem se nauÄil pÃ¡r vÄ›ci o odvaze.}
+{427}{}{Podej mi Buffout. Asi ho budu brzo potÅ™ebovat.}
+{428}{}{SkvÄ›lÃ½ mÃ­sto. Fakt skvÄ›lÃ½ mÃ­sto. Co kdybysme se tu zdrÅ¾eli jen na chvÃ­li?}
+{429}{}{JÃ³, tohle je fakt MNOHEM lepÅ¡Ã­, neÅ¾ bejt v nÄ›jakÃ½m ÃºtulnÃ½m bordelu.}
+{430}{}{Rychle dovnitÅ™, rychle ven, jasnÃ½?}
+{431}{}{Co kdybysme se sem podÃ­vali pozdÄ›ji?}
+{432}{}{ProÄ tu sakra jsme?}
+{433}{}{Tohle mÃ­sto mi niÄÃ­ morÃ¡lku.}
+{434}{}{Navrhuju, abysme poslali KostÄ›nÃ½ho Nosa na prÅ¯zkum okolÃ­. SamotnÃ½ho.}
+{435}{}{Co kdybysme poslali KostÄ›nÃ½ho Nosa na prÅ¯zkum okolÃ­?}
+{445}{}{Co kdybysme poslali Marcuse na prÅ¯zkum okolÃ­?}
+{446}{}{Navrhuju, abysme poslali Marcuse na prÅ¯zkum okolÃ­. SamotnÃ½ho.}
+{447}{}{Podej mi Buffout. Asi ho budu brzo potÅ™ebovat.}
+{448}{}{Co kdybysme se vrÃ¡tili do prvnÃ­ho patra dungeonu mezi koboldy?}
+{449}{}{JeÅ¡tÄ›, Å¾e jsem hrÃ¡val DraÄÃ­ DoupÄ›. Za ty roky jsem se nauÄil pÃ¡r vÄ›ci o odvaze.}
+{450}{}{SkvÄ›lÃ½ mÃ­sto. Fakt skvÄ›lÃ½ mÃ­sto. Co kdybysme se tu zdrÅ¾eli jen na chvÃ­li?}
+{451}{}{JÃ³, tohle je fakt MNOHEM lepÅ¡Ã­, neÅ¾ bejt v nÄ›jakÃ½m ÃºtulnÃ½m bordelu.}
+{452}{}{Rychle dovnitÅ™, rychle ven, jasnÃ½?}
+{453}{}{Co kdybysme se sem podÃ­vali pozdÄ›ji?}
+{454}{}{ProÄ tu sakra jsme?}
+{455}{}{Tohle mÃ­sto mi niÄÃ­ morÃ¡lku.}
+{456}{}{Navrhuju, abysme poslali Lennyho na prÅ¯zkum okolÃ­. SamotnÃ½ho.}
+{457}{}{Co kdybysme poslali Lennyho na prÅ¯zkum okolÃ­?}
+{465}{}{Hej, dÃ­ky. To mi fakt bodlo.}
+{466}{}{NenÃ­ nad poÅ™Ã¡dnou dÃ¡vku pÅ™Ã­mo do Å¾Ã­ly.}
+{467}{}{DoufÃ¡m, Å¾e to neznamenÃ¡, Å¾e jsme svoji, Å¾e ne?}
+{468}{}{NemÃ¡Å¡ nÄ›jakou trÃ¡vu?}
+{469}{}{Co kdybych nesl Stimpaky jÃ¡?}
+{470}{}{ÃÃ¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡ch.}
+{471}{}{Ã“Ã³Ã³Ã³Ã³Ã³Ã³ch. ÃÃ¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡ch. Mmmmmm.}
+{472}{}{Miluju, kdyÅ¾ tohle dÄ›lÃ¡Å¡.}
+{473}{}{Drogy mÄ› vÅ¾dycky ÃºplnÄ› omÃ¡mÃ­.}
+{485}{}{Hej, nedÃ¡vej mi tu sraÄku! Nech si to pro zÃ¡vislÃ¡ky!}
+{486}{}{Hele, jÃ¡ lÃ­tat nechci a ty taky ne. ZahoÄ tu sraÄku nÄ›kam.}
+{487}{}{Co kdybys tu sraÄku dal KostÄ›nÃ½mu Nosovi?}
+{495}{}{Co kdybys tu sraÄku dal Marcusovi?}
+{496}{}{Hej, nedÃ¡vej mi tu sraÄku! Nech si to pro zÃ¡vislÃ¡ky!}
+{497}{}{Ty vole, jÃ¡ lÃ­tat nechci a ty taky ne. ZahoÄ tu sraÄku nÄ›kam.}
+{498}{}{Co kdybys tu sraÄku dal Lennymu?}
+{505}{}{DobÅ™e, dobÅ™e. UÅ¾ jdu na to.}
+{506}{}{ZÅ¯staÅˆ vzadu, idiote. JÃ¡ na to pÅ™ijdu.}
+{507}{}{To vypadÃ¡ jednoduÅ¡e. ZÅ¯staÅˆ vzadu, jasnÃ½?}
+{508}{}{Å½Ã¡dnÃ½ problÃ©m.}
+{509}{}{ÄŒas na mÃ½ 'kouzelnÃ½ prstÃ­ky'...}
 {515}{}{Bingo!}
-{516}{}{Heuréka!}
+{516}{}{HeurÃ©ka!}
 {517}{}{Jo kurva!}
-{518}{}{Myron to opìt dokázal. Dav šílí!}
-{519}{}{Hele, nìco jsem našel.}
+{518}{}{Myron to opÄ›t dokÃ¡zal. Dav Å¡Ã­lÃ­!}
+{519}{}{Hele, nÄ›co jsem naÅ¡el.}
 {520}{}{Hotovo. Finito.}
-{521}{}{Lehèí ne jezdit na kole. Nebo na tvı matce! Hahahahaha!}
-{522}{}{Ano. Myron je... bùh vìdy.}
-{523}{}{Cink. Myron úspìšnì pouil dovednost VÌDA.}
+{521}{}{LehÄÃ­ neÅ¾ jezdit na kole. Nebo na tvÃ½ matce! Hahahahaha!}
+{522}{}{Ano. Myron je... bÅ¯h vÄ›dy.}
+{523}{}{Cink. Myron ÃºspÄ›Å¡nÄ› pouÅ¾il dovednost VÄšDA.}
 {530}{}{No nic.}
 {531}{}{Nada.}
-{532}{}{Smùla.}
-{533}{}{Do hajzlu! Zkusil jsem všechno...}
-{534}{}{S tím nic nesvedu.}
-{535}{}{Na nic jsem nepøišel. Prozatím.}
-{536}{}{Moná, e bych to s Mentats zvládl... mmmm. Mentats.}
-{537}{}{Nemám na to dostateènì vysokou dovednost. Dej mi pár dovednostních bodù a pak to mùu zkusit znovu. Haha.}
-{538}{}{Nic jsem se nenauèil.}
-{539}{}{Za tìchto podmínek nedokáu uspìt v hodu na dovednost Vìda.}
-{540}{}{Cink. Myron neúspìšnì pouil dovednost VÌDA.}
-{550}{}{Dobøe, dobøe! Pøestaò do mì strkat!}
-{551}{}{Pøestaò do mì strkat, nebo tì... no, prostì do mì pøestaò strkat.}
-{552}{}{Dobøe, TAK PROMIÒ.}
-{553}{}{Tak dobøe, ale pøíštì uhneš TY MNÌ.}
-{554}{}{Já tu byl první, ale a je po tvım.}
-{560}{}{To mi nemusíš øíkat dvakrát.}
-{561}{}{Spíš by mì vyléèilo trochu enskı lásky, jestli mi rozumíš.}
-{562}{}{Ááááách. Ještì, e nejsou Stimpaky tak návykovı.}
-{563}{}{Jo jó. Ještì, e nejsou Stimpaky tak návykovı.}
-{570}{}{Nepíchej do mì tu sraèku. Je mi fajn, jasnı?}
-{571}{}{Nestarej se furt o mì. Jsem v poøádku.}
-{572}{}{Vykašli se na to. Jsem v poøádku. Ale ty Stimpaky klidnì ponesu, jestli chceš.}
-{580}{}{Hej, chci se k tobì zase pøidat! No ták!}
-{581}{}{Promiò, e jsem byl takovej kretén. Dej mi ještì jednu šanci.}
-{582}{}{U je mi z toho èekání blbì.}
-{583}{}{Já se tak nudím. No ták, nechceš, abych to s tebou zase chvilku táhnul?}
-{584}{}{Mìl jsem si vzít knihu.}
-{585}{}{U na tebe NEBUDU dál èekat.}
-{590}{}{Hele... Miria je fakt tvoje stará?}
-{591}{}{Miria je docela kost. Mohl bych... no, však víš... co ty na to?}
-{592}{}{Tvoje ena vypadá faaaakt dobøe.}
-{593}{}{Take... ty a Miria. Je to s váma vánı, nebo...?}
-{594}{}{Take... ty a Miria. Jste spolu nezávaznì, nebo...?}
-{595}{}{Nechceš si vymìnit manelky? Pùjèím ti svoji, a si nìjakou najdu.}
+{532}{}{SmÅ¯la.}
+{533}{}{Do hajzlu! Zkusil jsem vÅ¡echno...}
+{534}{}{S tÃ­m nic nesvedu.}
+{535}{}{Na nic jsem nepÅ™iÅ¡el. ProzatÃ­m.}
+{536}{}{MoÅ¾nÃ¡, Å¾e bych to s Mentats zvlÃ¡dl... mmmm. Mentats.}
+{537}{}{NemÃ¡m na to dostateÄnÄ› vysokou dovednost. Dej mi pÃ¡r dovednostnÃ­ch bodÅ¯ a pak to mÅ¯Å¾u zkusit znovu. Haha.}
+{538}{}{Nic jsem se nenauÄil.}
+{539}{}{Za tÄ›chto podmÃ­nek nedokÃ¡Å¾u uspÄ›t v hodu na dovednost VÄ›da.}
+{540}{}{Cink. Myron neÃºspÄ›Å¡nÄ› pouÅ¾il dovednost VÄšDA.}
+{550}{}{DobÅ™e, dobÅ™e! PÅ™estaÅˆ do mÄ› strkat!}
+{551}{}{PÅ™estaÅˆ do mÄ› strkat, nebo tÄ›... no, prostÄ› do mÄ› pÅ™estaÅˆ strkat.}
+{552}{}{DobÅ™e, TAK PROMIÅ‡.}
+{553}{}{Tak dobÅ™e, ale pÅ™Ã­Å¡tÄ› uhneÅ¡ TY MNÄš.}
+{554}{}{JÃ¡ tu byl prvnÃ­, ale aÅ¥ je po tvÃ½m.}
+{560}{}{To mi nemusÃ­Å¡ Å™Ã­kat dvakrÃ¡t.}
+{561}{}{SpÃ­Å¡ by mÄ› vylÃ©Äilo trochu Å¾enskÃ½ lÃ¡sky, jestli mi rozumÃ­Å¡.}
+{562}{}{ÃÃ¡Ã¡Ã¡Ã¡ch. JeÅ¡tÄ›, Å¾e nejsou Stimpaky tak nÃ¡vykovÃ½.}
+{563}{}{Jo jÃ³. JeÅ¡tÄ›, Å¾e nejsou Stimpaky tak nÃ¡vykovÃ½.}
+{570}{}{NepÃ­chej do mÄ› tu sraÄku. Je mi fajn, jasnÃ½?}
+{571}{}{Nestarej se furt o mÄ›. Jsem v poÅ™Ã¡dku.}
+{572}{}{VykaÅ¡li se na to. Jsem v poÅ™Ã¡dku. Ale ty Stimpaky klidnÄ› ponesu, jestli chceÅ¡.}
+{580}{}{Hej, chci se k tobÄ› zase pÅ™idat! No tÃ¡k!}
+{581}{}{PromiÅˆ, Å¾e jsem byl takovej kretÃ©n. Dej mi jeÅ¡tÄ› jednu Å¡anci.}
+{582}{}{UÅ¾ je mi z toho ÄekÃ¡nÃ­ blbÄ›.}
+{583}{}{JÃ¡ se tak nudÃ­m. No tÃ¡k, nechceÅ¡, abych to s tebou zase chvilku tÃ¡hnul?}
+{584}{}{MÄ›l jsem si vzÃ­t knihu.}
+{585}{}{UÅ¾ na tebe NEBUDU dÃ¡l Äekat.}
+{590}{}{Hele... Miria je fakt tvoje starÃ¡?}
+{591}{}{Miria je docela kost. Mohl bych... no, vÅ¡ak vÃ­Å¡... co ty na to?}
+{592}{}{Tvoje Å¾ena vypadÃ¡ faaaakt dobÅ™e.}
+{593}{}{TakÅ¾e... ty a Miria. Je to s vÃ¡ma vÃ¡Å¾nÃ½, nebo...?}
+{594}{}{TakÅ¾e... ty a Miria. Jste spolu nezÃ¡vaznÄ›, nebo...?}
+{595}{}{NechceÅ¡ si vymÄ›nit manÅ¾elky? PÅ¯jÄÃ­m ti svoji, aÅ¾ si nÄ›jakou najdu.}
 {596}{}{Hele... kdo je ta sexy asiatka?}
-{597}{}{Kitsune je docela kost. Mohl bych... no, však víš... co ty na to?}
-{598}{}{Ta asiatka vypadá faaaakt dobøe.}
-{599}{}{Take... ty a Kitsune. Chodíte spolu nebo tak nìco?}
-{600}{}{Mùeme jít?}
-{605}{}{Proè TADY sakra jsme?}
-{606}{}{Všichni by v tomhle mìstì potøebovali klystır.}
-{607}{}{Z Vault City se mi dìlá... špatnì.}
-{608}{}{Proè se mi chce z Vaulty City blejt?}
-{609}{}{Kdy se vrátíme do Rena?}
-{615}{myn102b}{Take jsi koneènì zpátky, co? Vìdìl jsem, e se vrátíš. Potøebuješ mì.}
-{616}{myn102a}{Take jsi koneènì zpátky, co krásko? Vìdìl jsem, e se vrátíš. Dobøe, pøidám se zas k tobì.}
-{617}{myn103a}{Jo, co je? Nevidíš, e pøemejšlím?}
-{618}{myn103b}{Take jsi koneènì dostala rozum, krásko? Pochopila jsi, e já jsem pro tebe ten jedinej?}
-{619}{}{Nevypadáš moc dobøe, Myrone. Uzdrav se.}
-{620}{}{Poèkej tady, dokud se, eh, nevrátím.}
-{621}{}{Schovej tu zbraò, nebo si ublííš.}
-{622}{}{Dr se blízko mì.}
-{623}{}{Dr se trochu dál, Myrone.}
-{624}{}{Odstup trochu, Myrone. Bude to tak pro oba lepší.}
-{625}{}{Mám nìjaké otázky...}
-{626}{}{Teï ne, Myrone. Mám nìjaké otázky...}
-{627}{}{Tak dobøe. Pospìš si a pùjdeme.}
-{628}{}{Ne, zùstaneš tady. Vrátím se pro tebe, slibuju.}
-{629}{}{V tom pøípadì tì nechám pokraèovat v nic nedìlání.}
-{630}{}{Myrone, tvoje ruka je ta "jediná" pro tebe.}
-{640}{myn105_b}{Je to nìkde u Golgoty... dám ti vìdìt, a pùjdeme kolem.}
-{641}{}{Dobøe, Myrone.}
-{645}{myn106}{Jo. Co chceš vìdìt?}
-{646}{}{Povìz mi nìco o Jetu.}
-{647}{}{Mùeš mi udìlat nìjaké drogy?}
-{648}{}{Nevypadáš zrovna nejlépe, Myrone. Zkus se dát do poøádku.}
-{650}{}{Kde je ta Mordinova skrıš, o které jsi mluvil?}
-{655}{myn107a}{Á, moje malé mistrovské dílko. Co s ním?}
-{656}{myn107b}{To u jsme pøece probírali. Nejsem tvoje osobní databanka.}
-{657}{myn107c}{To u jsme pøece probírali. Podívej, klidnì budu tvùj otrok lásky, krásko, ale ne tvoje osobní databanka.}
-{658}{}{Jak jsi ho vytvoøil?}
-{659}{}{Je na nìj nìjakı lék?}
-{660}{}{Mùeš mi udìlat nìjakı Jet?}
-{661}{}{Udìlám z tebe mrtvolu, jestli mi neodpovíš na moje otázky. Jak jsi vytvoøil Jet?}
-{662}{}{Nech tìch kecù, Myrone. Je na Jet nìjakı lék?}
-{664}{}{To si radìji propíchnu vøedy jazykem, ne abys byl mım otrokem lásky, Myrone.}
-{665}{}{Myrone, 'otrok lásky' je ta poslední vìc, která mì napadne, kdy si na tebe vzpomenu.}
-{666}{}{Vlastnì jsem spíš pøemıšlela o tom, e si z tebe místo otroka lásky udìlám cviènı terè.}
-{667}{}{To radìji políbím Sulika, ne abys byl mım otrokem lásky. Eh... bez uráky, Suliku.}
-{668}{}{To radìji políbím Marcuse, ne abys byl mım otrokem lásky. Eh... bez uráky, Marcusi.}
-{669}{}{Zapomeò na to, Myrone.}
-{680}{myn108}{Eh, ve svı laboratoøi. Další otázka?}
-{681}{}{JAK jsi ho vytvoøil, chytráku?}
-{682}{}{Zapomeò na to. Zmìòme téma...}
-{683}{}{Tohle nikam nevede. Zapomeò na to, Myrone.}
-{690}{myn109}{Jeíš. No... kdy jsem kdysi dávno narazil na Mordiny, pìstovali pejotlovı kaktusy a pokoušeli se to prodat turistùm jako 'záitek z Rena.' Taková hovadina.}
-{691}{}{Pokraèuj.}
+{597}{}{Kitsune je docela kost. Mohl bych... no, vÅ¡ak vÃ­Å¡... co ty na to?}
+{598}{}{Ta asiatka vypadÃ¡ faaaakt dobÅ™e.}
+{599}{}{TakÅ¾e... ty a Kitsune. ChodÃ­te spolu nebo tak nÄ›co?}
+{600}{}{MÅ¯Å¾eme jÃ­t?}
+{605}{}{ProÄ TADY sakra jsme?}
+{606}{}{VÅ¡ichni by v tomhle mÄ›stÄ› potÅ™ebovali klystÃ½r.}
+{607}{}{Z Vault City se mi dÄ›lÃ¡... Å¡patnÄ›.}
+{608}{}{ProÄ se mi chce z Vaulty City blejt?}
+{609}{}{Kdy se vrÃ¡tÃ­me do Rena?}
+{615}{myn102b}{TakÅ¾e jsi koneÄnÄ› zpÃ¡tky, co? VÄ›dÄ›l jsem, Å¾e se vrÃ¡tÃ­Å¡. PotÅ™ebujeÅ¡ mÄ›.}
+{616}{myn102a}{TakÅ¾e jsi koneÄnÄ› zpÃ¡tky, co krÃ¡sko? VÄ›dÄ›l jsem, Å¾e se vrÃ¡tÃ­Å¡. DobÅ™e, pÅ™idÃ¡m se zas k tobÄ›.}
+{617}{myn103a}{Jo, co je? NevidÃ­Å¡, Å¾e pÅ™emejÅ¡lÃ­m?}
+{618}{myn103b}{TakÅ¾e jsi koneÄnÄ› dostala rozum, krÃ¡sko? Pochopila jsi, Å¾e jÃ¡ jsem pro tebe ten jedinej?}
+{619}{}{NevypadÃ¡Å¡ moc dobÅ™e, Myrone. Uzdrav se.}
+{620}{}{PoÄkej tady, dokud se, eh, nevrÃ¡tÃ­m.}
+{621}{}{Schovej tu zbraÅˆ, nebo si ublÃ­Å¾Ã­Å¡.}
+{622}{}{DrÅ¾ se blÃ­zko mÄ›.}
+{623}{}{DrÅ¾ se trochu dÃ¡l, Myrone.}
+{624}{}{Odstup trochu, Myrone. Bude to tak pro oba lepÅ¡Ã­.}
+{625}{}{MÃ¡m nÄ›jakÃ© otÃ¡zky...}
+{626}{}{TeÄ ne, Myrone. MÃ¡m nÄ›jakÃ© otÃ¡zky...}
+{627}{}{Tak dobÅ™e. PospÄ›Å¡ si a pÅ¯jdeme.}
+{628}{}{Ne, zÅ¯staneÅ¡ tady. VrÃ¡tÃ­m se pro tebe, slibuju.}
+{629}{}{V tom pÅ™Ã­padÄ› tÄ› nechÃ¡m pokraÄovat v nic nedÄ›lÃ¡nÃ­.}
+{630}{}{Myrone, tvoje ruka je ta "jedinÃ¡" pro tebe.}
+{640}{myn105_b}{Je to nÄ›kde u Golgoty... dÃ¡m ti vÄ›dÄ›t, aÅ¾ pÅ¯jdeme kolem.}
+{641}{}{DobÅ™e, Myrone.}
+{645}{myn106}{Jo. Co chceÅ¡ vÄ›dÄ›t?}
+{646}{}{PovÄ›z mi nÄ›co o Jetu.}
+{647}{}{MÅ¯Å¾eÅ¡ mi udÄ›lat nÄ›jakÃ© drogy?}
+{648}{}{NevypadÃ¡Å¡ zrovna nejlÃ©pe, Myrone. Zkus se dÃ¡t do poÅ™Ã¡dku.}
+{650}{}{Kde je ta Mordinova skrÃ½Å¡, o kterÃ© jsi mluvil?}
+{655}{myn107a}{Ã, moje malÃ© mistrovskÃ© dÃ­lko. Co s nÃ­m?}
+{656}{myn107b}{To uÅ¾ jsme pÅ™ece probÃ­rali. Nejsem tvoje osobnÃ­ databanka.}
+{657}{myn107c}{To uÅ¾ jsme pÅ™ece probÃ­rali. PodÃ­vej, klidnÄ› budu tvÅ¯j otrok lÃ¡sky, krÃ¡sko, ale ne tvoje osobnÃ­ databanka.}
+{658}{}{Jak jsi ho vytvoÅ™il?}
+{659}{}{Je na nÄ›j nÄ›jakÃ½ lÃ©k?}
+{660}{}{MÅ¯Å¾eÅ¡ mi udÄ›lat nÄ›jakÃ½ Jet?}
+{661}{}{UdÄ›lÃ¡m z tebe mrtvolu, jestli mi neodpovÃ­Å¡ na moje otÃ¡zky. Jak jsi vytvoÅ™il Jet?}
+{662}{}{Nech tÄ›ch kecÅ¯, Myrone. Je na Jet nÄ›jakÃ½ lÃ©k?}
+{664}{}{To si radÄ›ji propÃ­chnu vÅ™edy jazykem, neÅ¾ abys byl mÃ½m otrokem lÃ¡sky, Myrone.}
+{665}{}{Myrone, 'otrok lÃ¡sky' je ta poslednÃ­ vÄ›c, kterÃ¡ mÄ› napadne, kdyÅ¾ si na tebe vzpomenu.}
+{666}{}{VlastnÄ› jsem spÃ­Å¡ pÅ™emÃ½Å¡lela o tom, Å¾e si z tebe mÃ­sto otroka lÃ¡sky udÄ›lÃ¡m cviÄnÃ½ terÄ.}
+{667}{}{To radÄ›ji polÃ­bÃ­m Sulika, neÅ¾ abys byl mÃ½m otrokem lÃ¡sky. Eh... bez urÃ¡Å¾ky, Suliku.}
+{668}{}{To radÄ›ji polÃ­bÃ­m Marcuse, neÅ¾ abys byl mÃ½m otrokem lÃ¡sky. Eh... bez urÃ¡Å¾ky, Marcusi.}
+{669}{}{ZapomeÅˆ na to, Myrone.}
+{680}{myn108}{Eh, ve svÃ½ laboratoÅ™i. DalÅ¡Ã­ otÃ¡zka?}
+{681}{}{JAK jsi ho vytvoÅ™il, chytrÃ¡ku?}
+{682}{}{ZapomeÅˆ na to. ZmÄ›Åˆme tÃ©ma...}
+{683}{}{Tohle nikam nevede. ZapomeÅˆ na to, Myrone.}
+{690}{myn109}{JeÅ¾Ã­Å¡. No... kdyÅ¾ jsem kdysi dÃ¡vno narazil na Mordiny, pÄ›stovali pejotlovÃ½ kaktusy a pokouÅ¡eli se to prodat turistÅ¯m jako 'zÃ¡Å¾itek z Rena.' TakovÃ¡ hovadina.}
+{691}{}{PokraÄuj.}
 {692}{}{Forget this. I had some other questions...}
-{693}{}{Zapomeò na to.}
-{700}{myn110}{Proè zrovna pejotl? Takovej nesmysl. Vdy to nemá ani polovièní úèinek v porovnání tøeba se starım dobrım LSD.}
+{693}{}{ZapomeÅˆ na to.}
+{700}{myn110}{ProÄ zrovna pejotl? Takovej nesmysl. VÅ¾dyÅ¥ to nemÃ¡ ani poloviÄnÃ­ ÃºÄinek v porovnÃ¡nÃ­ tÅ™eba se starÃ½m dobrÃ½m LSD.}
 {701}{}{Eh, no a co ten Jet?}
-{710}{myn112}{Navíc, pejotlovej trip je moc dlouhej. Zisky jsou tam, kde je krátkodobej úèinek a vysoká závislost jako tøeba, eh, barbituráty pøed Velkou Válkou, víš?}
-{711}{}{Doufám, e tohle nìkam vede.}
-{712}{}{Kdy to øíkáš.}
-{713}{}{Barbituráty... jako tøeba kokain, krek a tak?}
-{714}{}{Myslíš barbituráty jako tøeba kokain, krek a tak?}
-{716}{}{Zapomeò na to, Myrone. Nemám èas na ty tvoje zdlouhavı kecy.}
-{725}{myn113a}{Pøesnì. Mùu to dokonèit? }
-{726}{myn113b}{Problém je v tom, e máme novı klima a v nìm neroste vìtšina zeleninky, ze kterı se dìlají ty nejlepší drogy.}
-{727}{}{Ty se rád posloucháš, e jo?}
-{728}{}{Poslouchám.}
-{729}{}{'Zeleninky'? Myslíš tøeba koku, mák a takovı vìci?}
-{740}{myn114a}{Nedokáeme vypìstovat koku ani mák... a e jsme to fakt zkoušeli. Take jsme usoudili, e naší nejvìtší nadìjí jsou houby.}
-{741}{myn114b}{Pøesnì tak, Sherloku. Zkoušeli jsme to, ale ani uk. Take jsme usoudili, e naší nejvìtší nadìjí jsou houby.}
-{742}{myn114c}{Protoe se dají vypìstovat, kdy pouiješ dost brahmíních hoven jako hnojivo.}
-{743}{}{Kdy u mluvíš o hovnech... pokraèuj.}
+{710}{myn112}{NavÃ­c, pejotlovej trip je moc dlouhej. Zisky jsou tam, kde je krÃ¡tkodobej ÃºÄinek a vysokÃ¡ zÃ¡vislost jako tÅ™eba, eh, barbiturÃ¡ty pÅ™ed Velkou VÃ¡lkou, vÃ­Å¡?}
+{711}{}{DoufÃ¡m, Å¾e tohle nÄ›kam vede.}
+{712}{}{KdyÅ¾ to Å™Ã­kÃ¡Å¡.}
+{713}{}{BarbiturÃ¡ty... jako tÅ™eba kokain, krek a tak?}
+{714}{}{MyslÃ­Å¡ barbiturÃ¡ty jako tÅ™eba kokain, krek a tak?}
+{716}{}{ZapomeÅˆ na to, Myrone. NemÃ¡m Äas na ty tvoje zdlouhavÃ½ kecy.}
+{725}{myn113a}{PÅ™esnÄ›. MÅ¯Å¾u to dokonÄit? }
+{726}{myn113b}{ProblÃ©m je v tom, Å¾e mÃ¡me novÃ½ klima a v nÄ›m neroste vÄ›tÅ¡ina zeleninky, ze kterÃ½ se dÄ›lajÃ­ ty nejlepÅ¡Ã­ drogy.}
+{727}{}{Ty se rÃ¡d poslouchÃ¡Å¡, Å¾e jo?}
+{728}{}{PoslouchÃ¡m.}
+{729}{}{'Zeleninky'? MyslÃ­Å¡ tÅ™eba koku, mÃ¡k a takovÃ½ vÄ›ci?}
+{740}{myn114a}{NedokÃ¡Å¾eme vypÄ›stovat koku ani mÃ¡k... a Å¾e jsme to fakt zkouÅ¡eli. TakÅ¾e jsme usoudili, Å¾e naÅ¡Ã­ nejvÄ›tÅ¡Ã­ nadÄ›jÃ­ jsou houby.}
+{741}{myn114b}{PÅ™esnÄ› tak, Sherloku. ZkouÅ¡eli jsme to, ale ani Å¥uk. TakÅ¾e jsme usoudili, Å¾e naÅ¡Ã­ nejvÄ›tÅ¡Ã­ nadÄ›jÃ­ jsou houby.}
+{742}{myn114c}{ProtoÅ¾e se dajÃ­ vypÄ›stovat, kdyÅ¾ pouÅ¾ijeÅ¡ dost brahmÃ­nÃ­ch hoven jako hnojivo.}
+{743}{}{KdyÅ¾ uÅ¾ mluvÃ­Å¡ o hovnech... pokraÄuj.}
 {744}{}{Aha...}
-{755}{myn115}{A navíc, halucinogeny mají nízkej vrchol, take jsem zaèal experimentovat s deriváty diethylamid kyseliny lysergové a psilocybinem. Ale poøád...}
-{756}{}{Ale poøád co?}
-{765}{myn116}{Ale poøád jsem chtìl namíchat nìjakou poøádnou bombu, která by nebyla zaloená na extraktech ze zeleninek. Byl jsem pìknej idiot, páè se ukázalo, e odpovìdí JSOU právì ty extrakty nebo lépe øeèeno to, v ÈEM rostou.}
-{766}{}{Tebe vùbec nezajímá, co øíkám, e? Ty prostì rád vyprávíš svùj pøíbìh.}
-{767}{}{Jak to myslíš?}
-{775}{myn117}{Víš, starej Jeíš Mordino chtìl nìco, na èem by se horníci z Reddingu stali rychle závislí a co by je donutilo víc pracovat. Tak jsem mu øekl 'no problemo,' jasnı?}
-{776}{}{Vysvìtli mi to s tím Reddingem.}
-{777}{}{Vysvìtli mi ještì jednou to s tím Reddingem.}
-{778}{}{Jasnı. Pokraèuj.}
+{755}{myn115}{A navÃ­c, halucinogeny majÃ­ nÃ­zkej vrchol, takÅ¾e jsem zaÄal experimentovat s derivÃ¡ty diethylamid kyseliny lysergovÃ© a psilocybinem. Ale poÅ™Ã¡d...}
+{756}{}{Ale poÅ™Ã¡d co?}
+{765}{myn116}{Ale poÅ™Ã¡d jsem chtÄ›l namÃ­chat nÄ›jakou poÅ™Ã¡dnou bombu, kterÃ¡ by nebyla zaloÅ¾enÃ¡ na extraktech ze zeleninek. Byl jsem pÄ›knej idiot, pÃ¡Ä se ukÃ¡zalo, Å¾e odpovÄ›dÃ­ JSOU prÃ¡vÄ› ty extrakty nebo lÃ©pe Å™eÄeno to, v ÄŒEM rostou.}
+{766}{}{Tebe vÅ¯bec nezajÃ­mÃ¡, co Å™Ã­kÃ¡m, Å¾e? Ty prostÄ› rÃ¡d vyprÃ¡vÃ­Å¡ svÅ¯j pÅ™Ã­bÄ›h.}
+{767}{}{Jak to myslÃ­Å¡?}
+{775}{myn117}{VÃ­Å¡, starej JeÅ¾Ã­Å¡ Mordino chtÄ›l nÄ›co, na Äem by se hornÃ­ci z Reddingu stali rychle zÃ¡vislÃ­ a co by je donutilo vÃ­c pracovat. Tak jsem mu Å™ekl 'no problemo,' jasnÃ½?}
+{776}{}{VysvÄ›tli mi to s tÃ­m Reddingem.}
+{777}{}{VysvÄ›tli mi jeÅ¡tÄ› jednou to s tÃ­m Reddingem.}
+{778}{}{JasnÃ½. PokraÄuj.}
 {779}{}{Jo, no problemo.}
-{790}{myn118}{No, nebylo moc tìkı najít ten správnej vylepšovák. Staèilo vzít vzorek pøedváleènıho proteinovıho extraktu, udìlat pár úprav a BUM... máme slušnej amfetamin.}
-{791}{}{Vysvìtli mi ještì jednou to s tím Reddingem.}
-{792}{}{Eh, "proteinovı extrakt?"}
-{800}{myn119}{Redding? To je mìsto plnı zlatokopù. Mordino ho chce mít celı pod palcem, take jednoho dne pøišel za mnou a zaèal sípat tím svım hlasem: 'Myrone, Myrone, vytvoø mi nìco, èím si podmaním Redding.'}
-{801}{}{A ty jsi øekl...}
-{810}{myn120}{A já øekl, 'Fajn, kdy to má bejt hotovı?' A on samozøejmì øekl: 'Vèera bylo pozdì.' Mafiáni. Chtìj mít všechno rychle hotovı a nedodìlanı. Aspoò, e nemaj marketingovı oddìlení.}
-{811}{}{Aha. Vra se k tvorbì Jetu.}
-{820}{myn121}{Nìkterı masnı spoleènosti experimentovaly pøed Velkou Válkou s levnım proteinovım extraktem na zvıšení produkce jídla, ale museli se na to vykašlat. Staèila jedna malá koní bakterie a všechno bylo v hajzlu.}
+{790}{myn118}{No, nebylo moc tÄ›Å¾kÃ½ najÃ­t ten sprÃ¡vnej vylepÅ¡ovÃ¡k. StaÄilo vzÃ­t vzorek pÅ™edvÃ¡leÄnÃ½ho proteinovÃ½ho extraktu, udÄ›lat pÃ¡r Ãºprav a BUM... mÃ¡me sluÅ¡nej amfetamin.}
+{791}{}{VysvÄ›tli mi jeÅ¡tÄ› jednou to s tÃ­m Reddingem.}
+{792}{}{Eh, "proteinovÃ½ extrakt?"}
+{800}{myn119}{Redding? To je mÄ›sto plnÃ½ zlatokopÅ¯. Mordino ho chce mÃ­t celÃ½ pod palcem, takÅ¾e jednoho dne pÅ™iÅ¡el za mnou a zaÄal sÃ­pat tÃ­m svÃ½m hlasem: 'Myrone, Myrone, vytvoÅ™ mi nÄ›co, ÄÃ­m si podmanÃ­m Redding.'}
+{801}{}{A ty jsi Å™ekl...}
+{810}{myn120}{A jÃ¡ Å™ekl, 'Fajn, kdy to mÃ¡ bejt hotovÃ½?' A on samozÅ™ejmÄ› Å™ekl: 'VÄera bylo pozdÄ›.' MafiÃ¡ni. ChtÄ›j mÃ­t vÅ¡echno rychle hotovÃ½ a nedodÄ›lanÃ½. AspoÅˆ, Å¾e nemaj marketingovÃ½ oddÄ›lenÃ­.}
+{811}{}{Aha. VraÅ¥ se k tvorbÄ› Jetu.}
+{820}{myn121}{NÄ›kterÃ½ masnÃ½ spoleÄnosti experimentovaly pÅ™ed Velkou VÃ¡lkou s levnÃ½m proteinovÃ½m extraktem na zvÃ½Å¡enÃ­ produkce jÃ­dla, ale museli se na to vykaÅ¡lat. StaÄila jedna malÃ¡ koÅ¾nÃ­ bakterie a vÅ¡echno bylo v hajzlu.}
 {821}{}{V hajzlu? Jak to?}
-{830}{myn122}{Ta kontaminovaná verze se po spolknutí chovala jako amfetamin. Takovı drobnı vedlejší efekt. Neptej se mì, jak je to monı. Je to trochu, eh, odbornı.}
-{831}{}{Take... jsi nìjakım zpùsobem získal ten proteinovı extrakt?}
-{840}{myn123}{To nebylo tøeba. Kdy to podìlali poprvı, zakontaminovali tuny tìch sraèek. A ne aby to vyhodili, nakrmili s tím svoje brahmíny, aby se jim aspoò trochu vrátily ztráty.}
-{841}{}{Eh, dobøe...}
-{842}{}{Doufám, e to nìkam vede, Myrone.}
-{843}{}{Take jsi pouil brahmíní hovna jako hnojivo pro houby, a na to, e ten pøedváleènı kontaminovanı protein díky nim získal... jisté ingredience navíc?}
-{850}{myn124a}{Pøihoøívá...}
-{851}{myn124b}{Víš, kdy jsme zaèali experimentovat s brahmíníma hovnama jako hnojivem pro houby, tak jsme si všimli, e otroci pracující u kádí s hnojivem byli zfetovaní z vıparù...}
-{853}{}{Take jen samotné vıpary staèily na to, aby byli zfetovaní?}
-{860}{myn125a}{Pøeeeesnì...}
-{861}{myn125b}{Zjistili jsme, e kdy do kádí nacpeme tuny brahmíních sraèek, tak ty vıpary mají víc ne dostateènej úèinek. Heuréka. Doslova. Samozøejmì jsme ale museli udìlat nìjakı testy, abysme získali ten správnej pomìr...}
+{830}{myn122}{Ta kontaminovanÃ¡ verze se po spolknutÃ­ chovala jako amfetamin. TakovÃ½ drobnÃ½ vedlejÅ¡Ã­ efekt. Neptej se mÄ›, jak je to moÅ¾nÃ½. Je to trochu, eh, odbornÃ½.}
+{831}{}{TakÅ¾e... jsi nÄ›jakÃ½m zpÅ¯sobem zÃ­skal ten proteinovÃ½ extrakt?}
+{840}{myn123}{To nebylo tÅ™eba. KdyÅ¾ to podÄ›lali poprvÃ½, zakontaminovali tuny tÄ›ch sraÄek. A neÅ¾ aby to vyhodili, nakrmili s tÃ­m svoje brahmÃ­ny, aby se jim aspoÅˆ trochu vrÃ¡tily ztrÃ¡ty.}
+{841}{}{Eh, dobÅ™e...}
+{842}{}{DoufÃ¡m, Å¾e to nÄ›kam vede, Myrone.}
+{843}{}{TakÅ¾e jsi pouÅ¾il brahmÃ­nÃ­ hovna jako hnojivo pro houby, aÅ¾ na to, Å¾e ten pÅ™edvÃ¡leÄnÃ½ kontaminovanÃ½ protein dÃ­ky nim zÃ­skal... jistÃ© ingredience navÃ­c?}
+{850}{myn124a}{PÅ™ihoÅ™Ã­vÃ¡...}
+{851}{myn124b}{VÃ­Å¡, kdyÅ¾ jsme zaÄali experimentovat s brahmÃ­nÃ­ma hovnama jako hnojivem pro houby, tak jsme si vÅ¡imli, Å¾e otroci pracujÃ­cÃ­ u kÃ¡dÃ­ s hnojivem byli zfetovanÃ­ z vÃ½parÅ¯...}
+{853}{}{TakÅ¾e jen samotnÃ© vÃ½pary staÄily na to, aby byli zfetovanÃ­?}
+{860}{myn125a}{PÅ™eeeesnÄ›...}
+{861}{myn125b}{Zjistili jsme, Å¾e kdyÅ¾ do kÃ¡dÃ­ nacpeme tuny brahmÃ­nÃ­ch sraÄek, tak ty vÃ½pary majÃ­ vÃ­c neÅ¾ dostateÄnej ÃºÄinek. HeurÃ©ka. Doslova. SamozÅ™ejmÄ› jsme ale museli udÄ›lat nÄ›jakÃ½ testy, abysme zÃ­skali ten sprÃ¡vnej pomÄ›r...}
 {862}{}{Eh, kolik jste toho otestovali?}
-{863}{}{Kolik jste toho pøesnì otestovali?}
-{865}{}{Zapomeò na to, Myrone.}
-{866}{}{To zní jako hromada sraèek... doslova. Zdá se mi, e toho o vırobì drog moc nevíš. "Vıpary z brahmíních hoven?" Prosím tì. U to nebudu poslouchat.}
-{870}{myn126}{Hmmm... asi sto otrokù? Vìtšinou dostali infarkty, krvácení do mozku, psychotickı záchvaty... a tak podobnì.}
-{871}{}{Zbláznil ses? Ty jsi zabil pøes sto lidí jen kvùli otestování drogy?!}
-{872}{}{Tak to jo... pøeci jen Jet dokáe bıt poøádnì silná potvora. Aspoò, e neumøel nikdo dùleitı. Ale i pøesto se mi nechce uvìøit, e jsi jich zabil tolik...}
-{873}{}{Aha. Mám ještì nìjaké otázky...}
-{880}{myn127}{No, ne bezdùvodnì. Víš, otroci jsou dost drazí. Ale naštìstí jsme ztráty vyrovnali bìhem nìkolika prvních mìsícù, take na mì Mordinové nebyli moc nasraní.}
-{881}{}{Myslím, e my dva spolu budeme vycházet, Myrone. Pøeci jen, úèel svìtí prostøedky. Mám ještì nìjaké otázky...}
-{882}{}{Myrone, ty jsi neuvìøitelnı mizera. Zabíjet lidi kvùli testování drog... to je ta nejvìtší podlost, jaká existuje.}
-{883}{}{Ty jsi zabil pøes sto lidí jen kvùli otestování drogy? Nevyoperovali ti náhodou svìdomí u jako malému dítìti?}
-{884}{}{To mi povídej. Ceny otrokù jdou poøád nahoru. Ké by se tak lidé mnoili rychleji. Nicménì, mám ještì nìjaké otázky...}
+{863}{}{Kolik jste toho pÅ™esnÄ› otestovali?}
+{865}{}{ZapomeÅˆ na to, Myrone.}
+{866}{}{To znÃ­ jako hromada sraÄek... doslova. ZdÃ¡ se mi, Å¾e toho o vÃ½robÄ› drog moc nevÃ­Å¡. "VÃ½pary z brahmÃ­nÃ­ch hoven?" ProsÃ­m tÄ›. UÅ¾ to nebudu poslouchat.}
+{870}{myn126}{Hmmm... asi sto otrokÅ¯? VÄ›tÅ¡inou dostali infarkty, krvÃ¡cenÃ­ do mozku, psychotickÃ½ zÃ¡chvaty... a tak podobnÄ›.}
+{871}{}{ZblÃ¡znil ses? Ty jsi zabil pÅ™es sto lidÃ­ jen kvÅ¯li otestovÃ¡nÃ­ drogy?!}
+{872}{}{Tak to jo... pÅ™eci jen Jet dokÃ¡Å¾e bÃ½t poÅ™Ã¡dnÄ› silnÃ¡ potvora. AspoÅˆ, Å¾e neumÅ™el nikdo dÅ¯leÅ¾itÃ½. Ale i pÅ™esto se mi nechce uvÄ›Å™it, Å¾e jsi jich zabil tolik...}
+{873}{}{Aha. MÃ¡m jeÅ¡tÄ› nÄ›jakÃ© otÃ¡zky...}
+{880}{myn127}{No, ne bezdÅ¯vodnÄ›. VÃ­Å¡, otroci jsou dost drazÃ­. Ale naÅ¡tÄ›stÃ­ jsme ztrÃ¡ty vyrovnali bÄ›hem nÄ›kolika prvnÃ­ch mÄ›sÃ­cÅ¯, takÅ¾e na mÄ› MordinovÃ© nebyli moc nasranÃ­.}
+{881}{}{MyslÃ­m, Å¾e my dva spolu budeme vychÃ¡zet, Myrone. PÅ™eci jen, ÃºÄel svÄ›tÃ­ prostÅ™edky. MÃ¡m jeÅ¡tÄ› nÄ›jakÃ© otÃ¡zky...}
+{882}{}{Myrone, ty jsi neuvÄ›Å™itelnÃ½ mizera. ZabÃ­jet lidi kvÅ¯li testovÃ¡nÃ­ drog... to je ta nejvÄ›tÅ¡Ã­ podlost, jakÃ¡ existuje.}
+{883}{}{Ty jsi zabil pÅ™es sto lidÃ­ jen kvÅ¯li otestovÃ¡nÃ­ drogy? Nevyoperovali ti nÃ¡hodou svÄ›domÃ­ uÅ¾ jako malÃ©mu dÃ­tÄ›ti?}
+{884}{}{To mi povÃ­dej. Ceny otrokÅ¯ jdou poÅ™Ã¡d nahoru. KÃ©Å¾ by se tak lidÃ© mnoÅ¾ili rychleji. NicmÃ©nÄ›, mÃ¡m jeÅ¡tÄ› nÄ›jakÃ© otÃ¡zky...}
 {885}{}{I... see. Look, I had some other questions...}
-{886}{}{To u by staèilo, u to nebudu poslouchat.}
-{887}{}{Aha, take je TO vlastnì v poøádku. U to nebudu poslouchat. Odcházím.}
-{890}{myn128}{Mám se snad podìlat kvùli pár otrokùm? Hele, museli jsme se pøesvìdèit, e je Jet pro naše zákazníky bezpeènej.}
-{891}{}{To je fakt, Myrone. Mám ještì nìjaké otázky...}
-{893}{}{Aha, take je TO vlastnì v poøádku. Gratuluju, Myrone, dosáhl jsi toho nejhlubšího morálního dna, jakého kdy mùe lidská bytost dosáhnout. Odcházím.}
-{894}{}{To zní rozumnì. Moná si popovídáme pozdìji.}
-{900}{myn129a}{To je legraèní. Lék? No to urèitì. Staèí ho úplnì pøestat brát, ale to samozøejmì není tak snadnı, o to jsem se postaral.}
-{901}{myn129b}{Hele, krásko, mluvíme tu o závislosti na drogách a ne o nìjakı chøipce nebo angínì. Jedinej lék je pøestat brát Jet, hehe, ale to není zrovna snadnı.}
-{902}{}{Jak jsi vytvoøil Jet?}
-{903}{}{Myrone, vdy ty jsi pìknì chytrı chlapík. Ber to jako vızvu. Co by bylo zapotøebí k vytvoøení léku na Jet?}
-{910}{myn130}{To nejde kurva, chápeš? Je to droga a ne nìjaká bakteriální infekce.}
-{911}{}{V podstatì je to vysoce návykovı meta-amfetamin, e? Nemohl bys ke sníení závislosti pouít tøeba tlumièe nervové soustavy?}
-{913}{}{Zapomeò na to, Myrone.}
-{920}{myn131}{Zajímavej nápad, ale nepouitelnej. Jet se nedá tak snadno utlumit. Jakmile ho máš v sobì, nedostaneš ho pryè.}
-{921}{}{A co takhle pouít nìjakı blokátor endorfinù? To by potlaèilo chemickou i psychickou závislost, ne?}
+{886}{}{To uÅ¾ by staÄilo, uÅ¾ to nebudu poslouchat.}
+{887}{}{Aha, takÅ¾e je TO vlastnÄ› v poÅ™Ã¡dku. UÅ¾ to nebudu poslouchat. OdchÃ¡zÃ­m.}
+{890}{myn128}{MÃ¡m se snad podÄ›lat kvÅ¯li pÃ¡r otrokÅ¯m? Hele, museli jsme se pÅ™esvÄ›dÄit, Å¾e je Jet pro naÅ¡e zÃ¡kaznÃ­ky bezpeÄnej.}
+{891}{}{To je fakt, Myrone. MÃ¡m jeÅ¡tÄ› nÄ›jakÃ© otÃ¡zky...}
+{893}{}{Aha, takÅ¾e je TO vlastnÄ› v poÅ™Ã¡dku. Gratuluju, Myrone, dosÃ¡hl jsi toho nejhlubÅ¡Ã­ho morÃ¡lnÃ­ho dna, jakÃ©ho kdy mÅ¯Å¾e lidskÃ¡ bytost dosÃ¡hnout. OdchÃ¡zÃ­m.}
+{894}{}{To znÃ­ rozumnÄ›. MoÅ¾nÃ¡ si popovÃ­dÃ¡me pozdÄ›ji.}
+{900}{myn129a}{To je legraÄnÃ­. LÃ©k? No to urÄitÄ›. StaÄÃ­ ho ÃºplnÄ› pÅ™estat brÃ¡t, ale to samozÅ™ejmÄ› nenÃ­ tak snadnÃ½, o to jsem se postaral.}
+{901}{myn129b}{Hele, krÃ¡sko, mluvÃ­me tu o zÃ¡vislosti na drogÃ¡ch a ne o nÄ›jakÃ½ chÅ™ipce nebo angÃ­nÄ›. Jedinej lÃ©k je pÅ™estat brÃ¡t Jet, hehe, ale to nenÃ­ zrovna snadnÃ½.}
+{902}{}{Jak jsi vytvoÅ™il Jet?}
+{903}{}{Myrone, vÅ¾dyÅ¥ ty jsi pÄ›knÄ› chytrÃ½ chlapÃ­k. Ber to jako vÃ½zvu. Co by bylo zapotÅ™ebÃ­ k vytvoÅ™enÃ­ lÃ©ku na Jet?}
+{910}{myn130}{To nejde kurva, chÃ¡peÅ¡? Je to droga a ne nÄ›jakÃ¡ bakteriÃ¡lnÃ­ infekce.}
+{911}{}{V podstatÄ› je to vysoce nÃ¡vykovÃ½ meta-amfetamin, Å¾e? Nemohl bys ke snÃ­Å¾enÃ­ zÃ¡vislosti pouÅ¾Ã­t tÅ™eba tlumiÄe nervovÃ© soustavy?}
+{913}{}{ZapomeÅˆ na to, Myrone.}
+{920}{myn131}{ZajÃ­mavej nÃ¡pad, ale nepouÅ¾itelnej. Jet se nedÃ¡ tak snadno utlumit. Jakmile ho mÃ¡Å¡ v sobÄ›, nedostaneÅ¡ ho pryÄ.}
+{921}{}{A co takhle pouÅ¾Ã­t nÄ›jakÃ½ blokÃ¡tor endorfinÅ¯? To by potlaÄilo chemickou i psychickou zÃ¡vislost, ne?}
 {924}{}{Tak nic.}
-{930}{myn132}{Jeíš, to je ten nejblbìjší... hmmmm...}
+{930}{myn132}{JeÅ¾Ã­Å¡, to je ten nejblbÄ›jÅ¡Ã­... hmmmm...}
 {931}{}{Ano?}
-{940}{myn133}{No... moná by to mohlo fungovat, ale jsem si jistej, e se Jet pøes tu sraèku stejnì prokouše. A p-p-proè se o tom vùbec bavíme?! K-kde chceš vlastnì vzít ty endorfinové blokátory?}
-{941}{}{To mi øekni ty, Myrone. Chytrı jsi na to dost.}
-{950}{myn134}{Moná ve Vault City. Mají docela dobrej sklad chemikálií. A spousta starejch pøed-holokaustovejch základen je mìla na skladì kvùli prevenci závislosti na bojovejch drogách.}
-{951}{}{Take mám zkusit Vault City?}
-{952}{}{Pøed-holokaustové základny? Kde?}
-{954}{}{Tak dobøe. Snad je nìkde najdu.}
-{960}{myn135}{Ha! To se ti spíš podaøí pøesvìdèit radškorpiona, aby si nechal uøíznout ocas, ne pøesvìdèit Vault City, aby ti nìco dali.}
-{961}{}{A co ty pøed-holokaustové základny? Kde se nachází?}
-{962}{}{Jo, moná. Mám ještì nìjaké otázky...}
-{963}{}{Za pokus nic nedám.}
-{970}{myn136}{Vypadám snad jako nìjakej kartograf? Ale jestli je chceš hledat v poušti, tak si klidnì poslu.}
+{940}{myn133}{No... moÅ¾nÃ¡ by to mohlo fungovat, ale jsem si jistej, Å¾e se Jet pÅ™es tu sraÄku stejnÄ› prokouÅ¡e. A p-p-proÄ se o tom vÅ¯bec bavÃ­me?! K-kde chceÅ¡ vlastnÄ› vzÃ­t ty endorfinovÃ© blokÃ¡tory?}
+{941}{}{To mi Å™ekni ty, Myrone. ChytrÃ½ jsi na to dost.}
+{950}{myn134}{MoÅ¾nÃ¡ ve Vault City. MajÃ­ docela dobrej sklad chemikÃ¡liÃ­. A spousta starejch pÅ™ed-holokaustovejch zÃ¡kladen je mÄ›la na skladÄ› kvÅ¯li prevenci zÃ¡vislosti na bojovejch drogÃ¡ch.}
+{951}{}{TakÅ¾e mÃ¡m zkusit Vault City?}
+{952}{}{PÅ™ed-holokaustovÃ© zÃ¡kladny? Kde?}
+{954}{}{Tak dobÅ™e. Snad je nÄ›kde najdu.}
+{960}{myn135}{Ha! To se ti spÃ­Å¡ podaÅ™Ã­ pÅ™esvÄ›dÄit radÅ¡korpiona, aby si nechal uÅ™Ã­znout ocas, neÅ¾ pÅ™esvÄ›dÄit Vault City, aby ti nÄ›co dali.}
+{961}{}{A co ty pÅ™ed-holokaustovÃ© zÃ¡kladny? Kde se nachÃ¡zÃ­?}
+{962}{}{Jo, moÅ¾nÃ¡. MÃ¡m jeÅ¡tÄ› nÄ›jakÃ© otÃ¡zky...}
+{963}{}{Za pokus nic nedÃ¡m.}
+{970}{myn136}{VypadÃ¡m snad jako nÄ›jakej kartograf? Ale jestli je chceÅ¡ hledat v pouÅ¡ti, tak si klidnÄ› posluÅ¾.}
 {971}{}{A co Vault City?}
-{973}{}{Tak díky za nic, Myrone.}
-{974}{}{To moná udìlám.}
-{980}{myn137}{Hehe... s takovım dùvtipem dostaneš urèitì èasem rozum a budeš mì chtít, krásko. Uvidíš.}
-{981}{}{Kdy myslíš... jak jsi vytvoøil Jet?}
-{983}{}{Jo, uvidíme. Mùeš mi udìlat nìjakı Jet?}
-{985}{}{Zapomeò na to, Myrone.}
-{990}{myn139}{C-c-oooo? Dìláš si kurva srandu? Prr, prr, hej, hej... kdy mì necháš jít s tebou, prokáu ti laskavost. Co? C-co øíkáš?}
+{973}{}{Tak dÃ­ky za nic, Myrone.}
+{974}{}{To moÅ¾nÃ¡ udÄ›lÃ¡m.}
+{980}{myn137}{Hehe... s takovÃ½m dÅ¯vtipem dostaneÅ¡ urÄitÄ› Äasem rozum a budeÅ¡ mÄ› chtÃ­t, krÃ¡sko. UvidÃ­Å¡.}
+{981}{}{KdyÅ¾ myslÃ­Å¡... jak jsi vytvoÅ™il Jet?}
+{983}{}{Jo, uvidÃ­me. MÅ¯Å¾eÅ¡ mi udÄ›lat nÄ›jakÃ½ Jet?}
+{985}{}{ZapomeÅˆ na to, Myrone.}
+{990}{myn139}{C-c-oooo? DÄ›lÃ¡Å¡ si kurva srandu? Prr, prr, hej, hej... kdyÅ¾ mÄ› nechÃ¡Å¡ jÃ­t s tebou, prokÃ¡Å¾u ti laskavost. Co? C-co Å™Ã­kÃ¡Å¡?}
 {991}{}{Jakou laskavost?}
-{992}{}{O laskavosti nemám zájem. A teï odpal, ty otravnı hovado.}
-{993}{}{O laskavosti nemám zájem. A teï tu poèkej, ty otravnı hovado.}
-{994}{}{Zapomeò na to. Mùeš zùstat.}
-{1005}{myn140}{Ohó! Aha, t-t-take to byl jenom nìjakej divošskej vtípek, jo? Buehehehe. Fakt kurva sranda.}
-{1006}{}{Jo, my divoši jsme tím proslulí. Pojïme.}
-{1010}{myn141}{Dobøe! Dobøe! Poèkám tady, ale zaslouím si trochu vìtší respekt, víš. Jsem toti MYRON.}
-{1020}{myn142a}{Slyšel jsem o tajnı budovì se spoustou podivnı vegetace. Kdy budu s tebou, mùu ti jí ukázat na mapì.}
-{1021}{myn142b}{Moná vím o jednı malı skrıši Mordinù v Golgotì poblí Rena. Spousta zátek. Spousta drog. Jen mì musíš vzít s sebou.}
-{1022}{myn142c}{Já... budu nosit víc tvejch vìcí! A nebudu remcat, kdy budeš chtít udìlat drogy! Jen mì musíš vzít s sebou, jasnı?}
-{1023}{}{Dobøe. Mùeš zùstat.}
-{1026}{}{Zapomeò na to, Myrone. Poèkej tady, ne se vrátím.}
-{1035}{myn143a}{"Jestli mùu udìlat nìjaké drogy?" Jsem pøece Myron. Co potøebuješ?}
-{1036}{myn143b}{Copak, u ti došly? Co potøebuješ?}
-{1037}{}{Protijed na radškorpioní jed.}
+{992}{}{O laskavosti nemÃ¡m zÃ¡jem. A teÄ odpal, ty otravnÃ½ hovado.}
+{993}{}{O laskavosti nemÃ¡m zÃ¡jem. A teÄ tu poÄkej, ty otravnÃ½ hovado.}
+{994}{}{ZapomeÅˆ na to. MÅ¯Å¾eÅ¡ zÅ¯stat.}
+{1005}{myn140}{OhÃ³! Aha, t-t-takÅ¾e to byl jenom nÄ›jakej divoÅ¡skej vtÃ­pek, jo? Buehehehe. Fakt kurva sranda.}
+{1006}{}{Jo, my divoÅ¡i jsme tÃ­m proslulÃ­. PojÄme.}
+{1010}{myn141}{DobÅ™e! DobÅ™e! PoÄkÃ¡m tady, ale zaslouÅ¾Ã­m si trochu vÄ›tÅ¡Ã­ respekt, vÃ­Å¡. Jsem totiÅ¾ MYRON.}
+{1020}{myn142a}{SlyÅ¡el jsem o tajnÃ½ budovÄ› se spoustou podivnÃ½ vegetace. KdyÅ¾ budu s tebou, mÅ¯Å¾u ti jÃ­ ukÃ¡zat na mapÄ›.}
+{1021}{myn142b}{MoÅ¾nÃ¡ vÃ­m o jednÃ½ malÃ½ skrÃ½Å¡i MordinÅ¯ v GolgotÄ› poblÃ­Å¾ Rena. Spousta zÃ¡tek. Spousta drog. Jen mÄ› musÃ­Å¡ vzÃ­t s sebou.}
+{1022}{myn142c}{JÃ¡... budu nosit vÃ­c tvejch vÄ›cÃ­! A nebudu remcat, kdyÅ¾ budeÅ¡ chtÃ­t udÄ›lat drogy! Jen mÄ› musÃ­Å¡ vzÃ­t s sebou, jasnÃ½?}
+{1023}{}{DobÅ™e. MÅ¯Å¾eÅ¡ zÅ¯stat.}
+{1026}{}{ZapomeÅˆ na to, Myrone. PoÄkej tady, neÅ¾ se vrÃ¡tÃ­m.}
+{1035}{myn143a}{"Jestli mÅ¯Å¾u udÄ›lat nÄ›jakÃ© drogy?" Jsem pÅ™ece Myron. Co potÅ™ebujeÅ¡?}
+{1036}{myn143b}{Copak, uÅ¾ ti doÅ¡ly? Co potÅ™ebujeÅ¡?}
+{1037}{}{Protijed na radÅ¡korpionÃ­ jed.}
 {1038}{}{Jet.}
 {1039}{}{Stimpaky.}
-{1040}{}{Mùeš udìlat nìjaké Super-Stimpaky?}
-{1041}{}{Nic. Mám nìjaké otázky...}
-{1042}{}{Zapomeò na to.}
-{1050}{myn145a}{Eh, nejdøív budu potøebovat pár radškorpioních jedovıch váèkù. Ironie, e?}
-{1051}{myn145b}{No, víš, to bych moc rád, krásko, ale potøebuju radškorpioní ocasy.}
-{1052}{}{Mùeš udìlat nìjaké jiné drogy?}
+{1040}{}{MÅ¯Å¾eÅ¡ udÄ›lat nÄ›jakÃ© Super-Stimpaky?}
+{1041}{}{Nic. MÃ¡m nÄ›jakÃ© otÃ¡zky...}
+{1042}{}{ZapomeÅˆ na to.}
+{1050}{myn145a}{Eh, nejdÅ™Ã­v budu potÅ™ebovat pÃ¡r radÅ¡korpionÃ­ch jedovÃ½ch vÃ¡ÄkÅ¯. Ironie, Å¾e?}
+{1051}{myn145b}{No, vÃ­Å¡, to bych moc rÃ¡d, krÃ¡sko, ale potÅ™ebuju radÅ¡korpionÃ­ ocasy.}
+{1052}{}{MÅ¯Å¾eÅ¡ udÄ›lat nÄ›jakÃ© jinÃ© drogy?}
 {1053}{}{Forget it then. I had some questions...}
-{1060}{myn146a}{Hmmm, to by nemìlo bejt moc tìkı. Kolik tìch lahví chceš?}
-{1061}{myn146b}{Jeišimarjá. Nenapadlo tì nìkdy, e by bylo lehèí se tìm blbejm radškorpionùm radši vyhnout, Einsteine? Kolik jich chceš tentokrát?!}
-{1062}{myn146c}{Pro tebe cokoliv, krásko. Hehe. Kolik jich chceš?}
+{1060}{myn146a}{Hmmm, to by nemÄ›lo bejt moc tÄ›Å¾kÃ½. Kolik tÄ›ch lahvÃ­ chceÅ¡?}
+{1061}{myn146b}{JeÅ¾iÅ¡imarjÃ¡. Nenapadlo tÄ› nÄ›kdy, Å¾e by bylo lehÄÃ­ se tÄ›m blbejm radÅ¡korpionÅ¯m radÅ¡i vyhnout, Einsteine? Kolik jich chceÅ¡ tentokrÃ¡t?!}
+{1062}{myn146c}{Pro tebe cokoliv, krÃ¡sko. Hehe. Kolik jich chceÅ¡?}
 {1063}{}{Jenom jednu.}
-{1065}{}{Tøi budou akorát.}
-{1066}{}{Udìlej protijedy ze všech ocasù, které máme. Stejnì jsou jinak k nièemu.}
-{1067}{}{Zapomeò na to. Mùeš udìlat nìjaké jiné drogy?}
-{1068}{}{Ani jednu. Mám nìjaké otázky...}
-{1081}{myn147a}{Hotovo. Tady to máš.}
-{1082}{myn147b}{Tady máš. A u dost. U ty sraèky nechci ani vidìt, jasnı? Pøíštì si na to najdi nìjakıho medicinmana.}
-{1083}{myn147c}{Hotovo. Tady to máš, krásko.}
-{1085}{}{Díky. Mám ještì nìjaké otázky...}
-{1086}{}{Díky, Myrone. Jsi opravdovı pøítel.}
-{1095}{myn148}{Promiò, nemám na to ty "suroviny", kterı potøebuju... a ani je nechci shánìt.}
+{1065}{}{TÅ™i budou akorÃ¡t.}
+{1066}{}{UdÄ›lej protijedy ze vÅ¡ech ocasÅ¯, kterÃ© mÃ¡me. StejnÄ› jsou jinak k niÄemu.}
+{1067}{}{ZapomeÅˆ na to. MÅ¯Å¾eÅ¡ udÄ›lat nÄ›jakÃ© jinÃ© drogy?}
+{1068}{}{Ani jednu. MÃ¡m nÄ›jakÃ© otÃ¡zky...}
+{1081}{myn147a}{Hotovo. Tady to mÃ¡Å¡.}
+{1082}{myn147b}{Tady mÃ¡Å¡. A uÅ¾ dost. UÅ¾ ty sraÄky nechci ani vidÄ›t, jasnÃ½? PÅ™Ã­Å¡tÄ› si na to najdi nÄ›jakÃ½ho medicinmana.}
+{1083}{myn147c}{Hotovo. Tady to mÃ¡Å¡, krÃ¡sko.}
+{1085}{}{DÃ­ky. MÃ¡m jeÅ¡tÄ› nÄ›jakÃ© otÃ¡zky...}
+{1086}{}{DÃ­ky, Myrone. Jsi opravdovÃ½ pÅ™Ã­tel.}
+{1095}{myn148}{PromiÅˆ, nemÃ¡m na to ty "suroviny", kterÃ½ potÅ™ebuju... a ani je nechci shÃ¡nÄ›t.}
 {1097}{}{Forget it then. I had some other questions...}
-{1098}{}{Dobøe. Fakt díky, Myrone.}
-{1105}{myn149a}{To je hraèka. Kolik jich chceš?}
-{1106}{myn149b}{Hele, ty Einsteine. Nenapadlo tì nìkdy, e by bylo lehèí si dávat vìtší pozor, co? No dobøe, kolik?}
-{1107}{myn149c}{Staèí øíct kolik a kde je chceš mít, krásko.}
-{1111}{}{Udìlej jich tolik, kolik jich mùeš udìlat z toho co máme.}
-{1113}{}{Mùeš udìlat nìjaké Super-Stimpaky?}
-{1114}{}{Zapomeò na to. Mám nìjaké otázky...}
-{1125}{myn151}{Promiò, nemáme u sebe nic, z èeho by se dal spíchnout Stim. Potøebuješ koøen Xanderu, kvìtinu Broc... a prázdnou støíkaèku.}
-{1126}{}{Mùeš udìlat nìjaké jiné drogy?}
-{1127}{}{Kdy dokáeš udìlat Stimpaky, nemohl bys taky udìlat nìjaké Super-Stimpaky?}
-{1128}{}{Tak dobøe. Mám nìjaké otázky...}
-{1135}{myn152}{Samozøejmì, e bych mohl... akorát, e na to nemáme suroviny. Potøebuju nìjakı zmutovanı ovoce, abych získal kyselinu citrónovou... trochu Nuka Coly... a normální Stimpak.}
-{1145}{myn153a}{Opakuj po mnì: Myron je génius. Kolik jich chceš?}
-{1146}{myn153b}{Co takhle. Si. Dávat. Pozor? No nic, asi je to pro tebe moc sloitı. Kolik jich chceš tentokrát?}
-{1147}{myn153c}{K slubám, krásko. Kolik jich chceš?}
-{1149}{}{Udìlej mi dva.}
-{1151}{}{Udìlej jich tolik, kolik jich mùeš udìlat z toho co máme.}
-{1170}{myn201a}{Kdo jsi a kde se tady sakra bereš? K-kde jsou ti kreténi, co mì mají hlídat?}
-{1171}{myn201b}{Panejooooo. Nazdárek, krásko. Co ti, eh, co pro tebe mùe Myron udìlat?}
-{1172}{}{Brı. Ne-e.}
-{1173}{}{Nazdárek Moron. Já }
-{1174}{}{Brı. Mrtvej.}
-{1175}{}{Slabı lidi u dveøe nedıchat kdy já zabít je.}
-{1176}{}{Pá-pá.}
-{1177}{}{Tvoje stráe mají teï dost práce s posmrtnım ivotem.}
-{1178}{}{Mám tuhle ID kartu. Posílá mì Marjorie.}
+{1098}{}{DobÅ™e. Fakt dÃ­ky, Myrone.}
+{1105}{myn149a}{To je hraÄka. Kolik jich chceÅ¡?}
+{1106}{myn149b}{Hele, ty Einsteine. Nenapadlo tÄ› nÄ›kdy, Å¾e by bylo lehÄÃ­ si dÃ¡vat vÄ›tÅ¡Ã­ pozor, co? No dobÅ™e, kolik?}
+{1107}{myn149c}{StaÄÃ­ Å™Ã­ct kolik a kde je chceÅ¡ mÃ­t, krÃ¡sko.}
+{1111}{}{UdÄ›lej jich tolik, kolik jich mÅ¯Å¾eÅ¡ udÄ›lat z toho co mÃ¡me.}
+{1113}{}{MÅ¯Å¾eÅ¡ udÄ›lat nÄ›jakÃ© Super-Stimpaky?}
+{1114}{}{ZapomeÅˆ na to. MÃ¡m nÄ›jakÃ© otÃ¡zky...}
+{1125}{myn151}{PromiÅˆ, nemÃ¡me u sebe nic, z Äeho by se dal spÃ­chnout Stim. PotÅ™ebujeÅ¡ koÅ™en Xanderu, kvÄ›tinu Broc... a prÃ¡zdnou stÅ™Ã­kaÄku.}
+{1126}{}{MÅ¯Å¾eÅ¡ udÄ›lat nÄ›jakÃ© jinÃ© drogy?}
+{1127}{}{KdyÅ¾ dokÃ¡Å¾eÅ¡ udÄ›lat Stimpaky, nemohl bys taky udÄ›lat nÄ›jakÃ© Super-Stimpaky?}
+{1128}{}{Tak dobÅ™e. MÃ¡m nÄ›jakÃ© otÃ¡zky...}
+{1135}{myn152}{SamozÅ™ejmÄ›, Å¾e bych mohl... akorÃ¡t, Å¾e na to nemÃ¡me suroviny. PotÅ™ebuju nÄ›jakÃ½ zmutovanÃ½ ovoce, abych zÃ­skal kyselinu citrÃ³novou... trochu Nuka Coly... a normÃ¡lnÃ­ Stimpak.}
+{1145}{myn153a}{Opakuj po mnÄ›: Myron je gÃ©nius. Kolik jich chceÅ¡?}
+{1146}{myn153b}{Co takhle. Si. DÃ¡vat. Pozor? No nic, asi je to pro tebe moc sloÅ¾itÃ½. Kolik jich chceÅ¡ tentokrÃ¡t?}
+{1147}{myn153c}{K sluÅ¾bÃ¡m, krÃ¡sko. Kolik jich chceÅ¡?}
+{1149}{}{UdÄ›lej mi dva.}
+{1151}{}{UdÄ›lej jich tolik, kolik jich mÅ¯Å¾eÅ¡ udÄ›lat z toho co mÃ¡me.}
+{1170}{myn201a}{Kdo jsi a kde se tady sakra bereÅ¡? K-kde jsou ti kretÃ©ni, co mÄ› majÃ­ hlÃ­dat?}
+{1171}{myn201b}{Panejooooo. NazdÃ¡rek, krÃ¡sko. Co ti, eh, co pro tebe mÅ¯Å¾e Myron udÄ›lat?}
+{1172}{}{BrÃ½. Ne-e.}
+{1173}{}{NazdÃ¡rek Moron. JÃ¡ }
+{1174}{}{BrÃ½. Mrtvej.}
+{1175}{}{SlabÃ½ lidi u dveÅ™e nedÃ½chat kdyÅ¾ jÃ¡ zabÃ­t je.}
+{1176}{}{PÃ¡-pÃ¡.}
+{1177}{}{Tvoje strÃ¡Å¾e majÃ­ teÄ dost prÃ¡ce s posmrtnÃ½m Å¾ivotem.}
+{1178}{}{MÃ¡m tuhle ID kartu. PosÃ­lÃ¡ mÄ› Marjorie.}
 {1179}{}{Kdo jsi?}
 {1180}{}{Ty jsi Myron?}
-{1181}{}{Klídek, tygøe. Zklidni hormony. Kdo jsi?}
-{1182}{}{Klídek, tygøe. Zklidni hormony. Ty jsi Myron?}
-{1183}{}{Promiò. Asi jsem ve špatné místnosti.}
-{1195}{myn202}{No dobøe, take kdo jsi? Vyklop to, nebo øeknu stráím, a to z tebe VYMLÁTÍ.}
-{1196}{}{Tvoje stráe teï mají moc práce s posmrtnım ivotem, take ti jsou k nièemu. Ještì nìjakı otázky, ty malej sráèi?}
+{1181}{}{KlÃ­dek, tygÅ™e. Zklidni hormony. Kdo jsi?}
+{1182}{}{KlÃ­dek, tygÅ™e. Zklidni hormony. Ty jsi Myron?}
+{1183}{}{PromiÅˆ. Asi jsem ve Å¡patnÃ© mÃ­stnosti.}
+{1195}{myn202}{No dobÅ™e, takÅ¾e kdo jsi? Vyklop to, nebo Å™eknu strÃ¡Å¾Ã­m, aÅ¥ to z tebe VYMLÃTÃ.}
+{1196}{}{Tvoje strÃ¡Å¾e teÄ majÃ­ moc prÃ¡ce s posmrtnÃ½m Å¾ivotem, takÅ¾e ti jsou k niÄemu. JeÅ¡tÄ› nÄ›jakÃ½ otÃ¡zky, ty malej srÃ¡Äi?}
 {1197}{}{Kdo jsi?}
 {1198}{}{Ty jsi Myron?}
-{1199}{}{Myslím, e bude nejlepší, kdy odsud odejdu. Bylo mi potìšením.}
-{1205}{myn203}{No skvìlı, mentální zakrslík z pustiny. Hele, moc toho tady nemám, ale mùeš si v-v-vzít, co chceš.}
-{1206}{}{JÁ CHTÍT TY MRTVEJ.}
-{1207}{}{Chtít šecko. Hned.}
-{1208}{}{Gdo ty? Ty PÍTEL od }
+{1199}{}{MyslÃ­m, Å¾e bude nejlepÅ¡Ã­, kdyÅ¾ odsud odejdu. Bylo mi potÄ›Å¡enÃ­m.}
+{1205}{myn203}{No skvÄ›lÃ½, mentÃ¡lnÃ­ zakrslÃ­k z pustiny. Hele, moc toho tady nemÃ¡m, ale mÅ¯Å¾eÅ¡ si v-v-vzÃ­t, co chceÅ¡.}
+{1206}{}{JÃ CHTÃT TY MRTVEJ.}
+{1207}{}{ChtÃ­t Å¡ecko. Hned.}
+{1208}{}{Gdo ty? Ty PÅ½ÃTEL od }
 {1209}{}{Ahooooj.}
-{1215}{myn204}{Jasnì! To si piš! Eh, tady máš. To je všechno. A teï, eh, bì zpátky do svı klece, ano?}
-{1216}{}{Ne-e. Zabít.}
-{1217}{}{Gdó tı? Tı PÍTEL od }
-{1225}{myn205}{Pøesnì tak kurva! Hehe, to si piš! My dva budeme nejlepší kamarádi, jasnı?}
-{1226}{}{Lhát? }
-{1227}{}{Pítel dát šecko }
-{1235}{myn207}{Samozøejmì, e jsi. Posaï se na postel. Mùu ti pøinıst nìco k pití nebo tøeba trochu... Jetu?}
-{1236}{}{Posadit. Blití.}
-{1237}{}{Tı pítel?}
-{1245}{myn208}{Vıbornì... tady máš. Tenhle malı drink ti pomùe uvolnit se, jestli mi rozumíš.}
-{1246}{}{Pytí.}
+{1215}{myn204}{JasnÄ›! To si piÅ¡! Eh, tady mÃ¡Å¡. To je vÅ¡echno. A teÄ, eh, bÄ›Å¾ zpÃ¡tky do svÃ½ klece, ano?}
+{1216}{}{Ne-e. ZabÃ­t.}
+{1217}{}{GdÃ³ tÃ½? TÃ½ PÅ½ÃTEL od }
+{1225}{myn205}{PÅ™esnÄ› tak kurva! Hehe, to si piÅ¡! My dva budeme nejlepÅ¡Ã­ kamarÃ¡di, jasnÃ½?}
+{1226}{}{LhÃ¡t? }
+{1227}{}{PÅ¾Ã­tel dÃ¡t Å¡ecko }
+{1235}{myn207}{SamozÅ™ejmÄ›, Å¾e jsi. PosaÄ se na postel. MÅ¯Å¾u ti pÅ™inÃ½st nÄ›co k pitÃ­ nebo tÅ™eba trochu... Jetu?}
+{1236}{}{Posadit. BlitÃ­.}
+{1237}{}{TÃ½ pÅ¾Ã­tel?}
+{1245}{myn208}{VÃ½bornÄ›... tady mÃ¡Å¡. Tenhle malÃ½ drink ti pomÅ¯Å¾e uvolnit se, jestli mi rozumÃ­Å¡.}
+{1246}{}{PytÃ­.}
 {1247}{}{Ty }
-{1255}{myn209}{Eh, hej, hej, hej! Poèkej chvilku! Zùstaò... nechceš nìco k pití? Mùeme si popovídat, spøátelit se... CHCEŠ, abysme byli pøátelé, ne?}
-{1265}{myn210}{Jsem si jistej, e budeme pøátelé.}
-{1266}{}{Chtít pøítel.}
-{1267}{}{Pítel. Dát šecko. Hned.}
-{1275}{myn211}{Tak a teï pìknì odpoèívej...}
-{1276}{}{Dóbroooooo zzzz Zznnzznn Zzznnnzzzz.}
-{1285}{myn212}{Hmmmm. Máš vıdr jako brahmína. Vypadni, krásko.}
-{1295}{myn213}{Hmm, ty stráe stojej za starou baèkoru... no nic, mùj retardovanej pøíteli, u jsme se pøedstavili, take co kdybys ODSUD SAKRA VYPADNUL?}
-{1296}{}{AÙ UŠI. ZABÍT.}
-{1297}{}{Ne pítel?}
-{1305}{myn214a}{Jo, to si piš, kámo. }
-{1306}{myn214b}{Jo, to si piš, zlato. }
-{1307}{myn214c}{Ty a já - navdy pøátelé. Nebo do další injekce. A TEÏ SAKRA VYPADNI!}
-{1308}{}{NE PÍTEL. ZABÍT.}
-{1309}{}{Pítel dát šecko. Hned.}
-{1325}{myn215a}{ZATRACENÌ! Øíkal jsem Jeíšovi, e ti dva kreténi neuhlídaj ani kus šutru! Je, eh, po nich, co? A mì zabiješ taky?}
-{1326}{myn215b}{Páni! Sexy a ještì nebezpeèná! Take jsi je sejmula, jo? A mì zabiješ taky?}
-{1327}{}{Pøemıšlím o tom. Máš nìco, co by mì mohlo pøesvìdèit o tom, e to nemám udìlat... chlapèe?}
-{1328}{}{Ne, pokud nebudeš dìlat problémy. Kdo jsi?}
-{1329}{}{Ne, pokud nebudeš dìlat problémy. Ty jsi Myron?}
-{1330}{}{Jo, proè ne? U dlouho tady nikdo nezemøel. }
-{1331}{}{Teï ne. Moná pozdìji. }
-{1345}{myn216a}{Jasnì, kámo. }
-{1346}{myn216b}{Jasnì, holka. }
-{1347}{myn216c}{To si piš, krásko. }
-{1348}{myn216d}{J-já... mùu ti dát nìjakı drogy. Chceš se proletìt?}
-{1349}{}{No, vlastnì chci všechno, co máš. Dej mi to a nechám tì ít.}
-{1350}{}{Jasnì. Dej mi všechny drogy, co máš.}
-{1351}{}{Teï nic nechci. Moná pozdìji.}
-{1365}{myn217}{Dobøe, dobøe. Tady to máš. Necháš mì u teï na pokoji?}
+{1255}{myn209}{Eh, hej, hej, hej! PoÄkej chvilku! ZÅ¯staÅˆ... nechceÅ¡ nÄ›co k pitÃ­? MÅ¯Å¾eme si popovÃ­dat, spÅ™Ã¡telit se... CHCEÅ , abysme byli pÅ™Ã¡telÃ©, ne?}
+{1265}{myn210}{Jsem si jistej, Å¾e budeme pÅ™Ã¡telÃ©.}
+{1266}{}{ChtÃ­t pÅ™Ã­tel.}
+{1267}{}{PÅ¾Ã­tel. DÃ¡t Å¡ecko. Hned.}
+{1275}{myn211}{Tak a teÄ pÄ›knÄ› odpoÄÃ­vej...}
+{1276}{}{DÃ³broooooo zzzz Zznnzznn Zzznnnzzzz.}
+{1285}{myn212}{Hmmmm. MÃ¡Å¡ vÃ½drÅ¾ jako brahmÃ­na. Vypadni, krÃ¡sko.}
+{1295}{myn213}{Hmm, ty strÃ¡Å¾e stojej za starou baÄkoru... no nic, mÅ¯j retardovanej pÅ™Ã­teli, uÅ¾ jsme se pÅ™edstavili, takÅ¾e co kdybys ODSUD SAKRA VYPADNUL?}
+{1296}{}{AÅ® UÅ I. ZABÃT.}
+{1297}{}{Ne pÅ¾Ã­tel?}
+{1305}{myn214a}{Jo, to si piÅ¡, kÃ¡mo. }
+{1306}{myn214b}{Jo, to si piÅ¡, zlato. }
+{1307}{myn214c}{Ty a jÃ¡ - navÅ¾dy pÅ™Ã¡telÃ©. Nebo do dalÅ¡Ã­ injekce. A TEÄ SAKRA VYPADNI!}
+{1308}{}{NE PÅ½ÃTEL. ZABÃT.}
+{1309}{}{PÅ¾Ã­tel dÃ¡t Å¡ecko. Hned.}
+{1325}{myn215a}{ZATRACENÄš! Å˜Ã­kal jsem JeÅ¾Ã­Å¡ovi, Å¾e ti dva kretÃ©ni neuhlÃ­daj ani kus Å¡utru! Je, eh, po nich, co? A mÄ› zabijeÅ¡ taky?}
+{1326}{myn215b}{PÃ¡ni! Sexy a jeÅ¡tÄ› nebezpeÄnÃ¡! TakÅ¾e jsi je sejmula, jo? A mÄ› zabijeÅ¡ taky?}
+{1327}{}{PÅ™emÃ½Å¡lÃ­m o tom. MÃ¡Å¡ nÄ›co, co by mÄ› mohlo pÅ™esvÄ›dÄit o tom, Å¾e to nemÃ¡m udÄ›lat... chlapÄe?}
+{1328}{}{Ne, pokud nebudeÅ¡ dÄ›lat problÃ©my. Kdo jsi?}
+{1329}{}{Ne, pokud nebudeÅ¡ dÄ›lat problÃ©my. Ty jsi Myron?}
+{1330}{}{Jo, proÄ ne? UÅ¾ dlouho tady nikdo nezemÅ™el. }
+{1331}{}{TeÄ ne. MoÅ¾nÃ¡ pozdÄ›ji. }
+{1345}{myn216a}{JasnÄ›, kÃ¡mo. }
+{1346}{myn216b}{JasnÄ›, holka. }
+{1347}{myn216c}{To si piÅ¡, krÃ¡sko. }
+{1348}{myn216d}{J-jÃ¡... mÅ¯Å¾u ti dÃ¡t nÄ›jakÃ½ drogy. ChceÅ¡ se proletÄ›t?}
+{1349}{}{No, vlastnÄ› chci vÅ¡echno, co mÃ¡Å¡. Dej mi to a nechÃ¡m tÄ› Å¾Ã­t.}
+{1350}{}{JasnÄ›. Dej mi vÅ¡echny drogy, co mÃ¡Å¡.}
+{1351}{}{TeÄ nic nechci. MoÅ¾nÃ¡ pozdÄ›ji.}
+{1365}{myn217}{DobÅ™e, dobÅ™e. Tady to mÃ¡Å¡. NechÃ¡Å¡ mÄ› uÅ¾ teÄ na pokoji?}
 {1366}{}{Ne. Kdo jsi?}
 {1367}{}{Ne. Ty jsi Myron?}
-{1368}{}{Jasnì. Prozatím... ale moná se ještì vrátím.}
-{1375}{myn218a}{M-moná. K-kdo sakra jsi?}
-{1376}{myn218b}{Poslyš, ty jseš nìjaká nová Mordinova kurva, nebo jenom velká fanynka Myrona? Jo a mùu vìdìt, jak se jmenuje majitelka tìch krásnejch noek?}
+{1368}{}{JasnÄ›. ProzatÃ­m... ale moÅ¾nÃ¡ se jeÅ¡tÄ› vrÃ¡tÃ­m.}
+{1375}{myn218a}{M-moÅ¾nÃ¡. K-kdo sakra jsi?}
+{1376}{myn218b}{PoslyÅ¡, ty jseÅ¡ nÄ›jakÃ¡ novÃ¡ Mordinova kurva, nebo jenom velkÃ¡ fanynka Myrona? Jo a mÅ¯Å¾u vÄ›dÄ›t, jak se jmenuje majitelka tÄ›ch krÃ¡snejch noÅ¾ek?}
 {1377}{myn218c}{Kdo sakra jsi?}
-{1378}{myn218d}{Jsem nìkdo, kdo hledá nìkoho, jako jsi ty, krásko. A ty jsi...?}
+{1378}{myn218d}{Jsem nÄ›kdo, kdo hledÃ¡ nÄ›koho, jako jsi ty, krÃ¡sko. A ty jsi...?}
 {1379}{}{.}
-{1380}{}{Jsem jen poutník procházející kolem.}
-{1381}{}{Jsem nìkdo, kdo je ve špatné místnosti. Zatím.}
-{1395}{myn219a}{Opravdu? A proè jsi tady? No? Myslíš si, e z Myrona dostaneš nìjakı drogy zadarmo, co?}
-{1396}{myn219b}{To je jedno, krásko. Nechceš nìjakı drogy, a prolomíme ledy, nebo si rovnou zaskotaèíme v posteli?}
-{1397}{}{Moná, ale nemám teï deset sekund nazbyt. O jakıch drogách to mluvíš?}
-{1398}{}{Drogy? Jaké tøeba?}
-{1399}{}{Jsem urèitì ve špatné místnosti. Promiò.}
-{1405}{myn220a}{Jseš snad blbej? Jet, ty mamrde, Jet! Mluvíš s jeho tvùrcem. Jeho stvoøitelem. Jeho... bohem.}
-{1406}{myn220b}{Jseš snad blbá? Jet, ty krávo, Jet! Mluvíš s jeho tvùrcem. Jeho stvoøitelem. Jeho... bohem.}
-{1407}{myn220c}{Slyšela jsi nìkdy o Jetu, krásko? Mluvíš s jeho tvùrcem. Jeho stvoøitelem. Jeho... bohem.}
-{1408}{}{Hovno. Ty jsi nevytvoøil Jet.}
-{1409}{}{Ty jsi vytvoøil Jet?}
-{1410}{}{Ty jsi vytvoøil Jet? Hustı! Dá se na nìm hroznì moc VYDÌLAT!}
-{1411}{}{No a co má bejt? U musím jít.}
-{1412}{}{To na tebe musí bıt maminka opravdu pyšná. Zatím, chlapèe.}
-{1413}{}{Opravdu? Zajímavé, ale musím teï odejít.}
-{1425}{myn221a}{Opravdu jsem vytvoøil Jet! Myslíš, e tahle laboratoø je jen pro srandu králíkùm?}
-{1426}{myn221b}{Je mi líto, e tì musím pøesvìdèit o opaku, krásko, ale rozhlídni se kolem sebe. Tahle laboratoø není jen pro srandu králíkùm.}
-{1427}{}{No dobøe, MONÁ jsi opravdu vytvoøil Jet.}
-{1428}{}{Proè jsi vytvoøil Jet?}
-{1430}{}{To na tebe musí bıt maminka opravdu pyšná. Odcházím.}
-{1445}{myn222}{To si sakra piš, e jo! Vytváøím fet, po kterım všichni šílí a poøád ho nemají dost.}
-{1455}{myn223}{"Proè?" Paè jsem mohl. Rodina Mordinù potøebovala nìjakej produkt a tak Myron vytvoøil produkt a za to ho èiní šastnım... v rámci moností. Hezkej milostnej kruh, co?}
-{1456}{}{Jak jsi vytvoøil Jet?}
-{1457}{}{'V rámci moností?' Ty jsi tady šastnı?}
-{1458}{}{A co kdy ti navrhnu novı kruh? Mordinové nedokáou poznat talent, i kdyby je mlátili do hlavy kladivem, ale já ano.}
-{1459}{}{Jo, jasnì. Musím odejít.}
-{1465}{myn224a}{Pche, to nemáš šanci pochopit. Je to na tebe MOC sloitı.}
-{1466}{myn224b}{Netrap si s tím tu svoji hezkou malou hlavièku, krásko, ale mùu ti dát nìco jinıho, nad èím bys ji mohla trochu potrápit.}
-{1467}{}{Ty jsi tady šastnı?}
-{1468}{}{Jasnì, hádám, e od takového idiota, jako jsem já, se nedá oèekávat pochopení sloitého procesu vıroby halucinogen-amfetaminového hybridu, jako je Jet, e?}
-{1469}{}{Jasnì, hádám, e od takové nány, jako jsem já, se nedá oèekávat pochopení sloitého procesu vıroby halucinogen-amfetaminového hybridu, jako je Jet, e?}
-{1472}{}{Myslím, e bys byl docela pøekvapenı, kolik toho vím o tom tvém amatérském halucinogen-amfetaminovém hybridu. Dítì jako ty na nìj klidnì mohlo tøeba jen náhodou NARAZIT.}
-{1473}{}{No, díky, e sis udìlal èas, Myrone. U musím jít.}
-{1485}{myn225}{Docela jo. Dávají mi kurvy, prachy, drogy. Taky mám vlastní laboratoø a volnost pøi tvorbì, kterou potøebuju, abych vytvoøil kouzla, ale... ne, je to dobrı místo.}
-{1486}{}{Ale co? Nechovají se k tobì dobøe?}
-{1487}{}{To je dobøe, Myrone. U musím jít.}
-{1495}{myn226}{No, víš, Mordinové nechovají k Myronovi R-E-S-P-E-K-T, chápeš? Já jim øeknu, co mají udìlat a oni øeknou 'dr hubu, Myrone' nebo 'jdi zpátky do laboratoøe, Myrone.' Bastardi.}
-{1496}{}{Moná mùu nìjak pomoct. Nechceš vypadnout z mìsta? Pøidej se ke mnì a moná si pak Mordinové uvìdomí, jakou máš vlastnì cenu.}
-{1497}{}{Jsi pøíliš cennı na to, abys tady sedìl, Myrone. Mìl bys odejít.}
-{1498}{}{To je opravdu ošklivé, Myrone. U musím jít.}
-{1505}{myn227}{Zapomínají na to, e jen díky MNÌ ovládají Reno a za pár mìsícù budou mít v kapse i Redding. Vìtšina Mordinù má víc chlupù na zadku ne mozkovejch bunìk, jestli mi rozumíš.}
-{1506}{}{Eh, moná ti mùu nìjak pomoct...}
-{1507}{}{Jsi opravdu pøíliš cennı na to, abys tu byl, Myrone... vánì bys mìl odejít.}
-{1509}{}{Zaèínám u chápat, proè tì neposlouchají.}
-{1510}{}{To si piš, Myrone. U musím jít.}
-{1515}{myn228}{A další vìc: Mordinové nedokáou zaboha pochopit, e mì èištìní Jetu nezajímá. Funguje pøesnì tak, jak má. Já chci vytváøet NOVİ drogy, ne pøedìlávat ty starı, chápeš?}
-{1516}{}{Moná ti mùu pomoct. Co kdybys vypadnul z tohohle mìsta a cestoval se mnou? Moná si pak Mordinové uvìdomí, jakou máš vlastnì cenu.}
-{1517}{}{Máš naprostou pravdu. Jsi pøíliš cennı na to, abys tu byl, Myrone! Mìl bys odejít!}
-{1518}{}{Co jsi to øíkal o Reddingu?}
-{1525}{myn229a}{Hmm... jejich boskej chlapec utíká z mìsta. Ha. To je probere. Jo. }
-{1526}{myn229e}{To se mi líbí.}
-{1527}{myn229d}{Líbí se mi tvùj zpùsob myšlení, krásko.}
-{1528}{myn229c}{Take, kam máme namíøeno?}
-{1529}{myn229b}{Take, kam máme namíøeno, krásko?}
-{1530}{}{Pojï za mnou, Myrone.}
-{1531}{}{Tak pojï se mnou.}
-{1532}{}{Tak poèkat. Neøíkám, e tì hned beru. Co vlastnì umíš, Myrone? Nemùu s sebou brát kadého. Mám urèitì poadavky.}
-{1533}{}{Nejdøív mi øekni, v èem jsi dobrı, Myrone.}
-{1534}{}{Zatím nikam. Mám ještì nìjaké otázky...}
-{1535}{}{Zatím nikam, Myrone, ale za chvíli se pro tebe vrátím.}
-{1545}{myn230a}{Asi né, vypadá to, e je vás moc. Co kdybys vyrazil toho divocha? Zdá se, e ty kosti bere moc vánì.}
-{1546}{myn230b}{Asi né, vypadá to, e je vás moc. A Myron se nekamarádí s mutantama. Eh, bez uráky, velkej kámo.}
-{1547}{myn230c}{Eh, asi né, vypadá to, e je vás moc. A eh, Myron se nekamarádí s ghoulama. Nikdy nevíš, kdy z nich odpadne kousek tìla pøímo na tvoji botu.}
-{1548}{myn230d}{Asi né, nechci se zaplíst s další rodinou. Mordinové mi staèili. Vykopni pár lidí a pak mi øekni.}
-{1549}{myn230e}{Jo, jasnì. Ani mouchy by za tebou nelítaly, kdybys byl obalenej hovnama. Pche, zapomeò na to.}
-{1550}{}{Tak dobøe. No, mám ještì nìjaké otázky...}
-{1551}{}{Máš opravdu vybrané chování. Popøemıšlím o tom, Myrone.}
-{1552}{}{Ne, má minimálnì dvakrát takovou cenu jak ty. Zatím, chlapèe.}
-{1553}{}{Chlapèe, na to jak vypadáš, ti to fakt kecá. Pøiprav se na smrt.}
-{1554}{}{Ale lítaly! To mi vìø.}
-{1555}{}{Tvoje chyba, Myrone. Zatím.}
-{1565}{myn231}{Jo? Poslouchám...}
-{1566}{}{Moná bychom si mohli navzájem pomoct. Hodil by se mi nìkdo s tvımi dovednostmi. Co kdyby ses vykašlal na tohle mìsto a cestoval chvíli se mnou? Moná si pak Mordinové uvìdomí, jakou máš vlastnì cenu.}
-{1567}{}{Ále, zapomeò na to. Mám ještì nìjaké otázky...}
-{1568}{}{Zapomeò na to. Stejnì by to mezi námi nefungovalo.}
-{1575}{myn232a}{Tak dobøe. }
-{1576}{myn232b}{Tak dobøe, krásko. }
-{1577}{myn232c}{No proè ne? Prásknem do bot.}
-{1578}{}{Mizíme odsud.}
-{1579}{}{Do Arroya je to 106 mil, máme plnı fùzní èlánek, pùl tuctu RadAway, je pùlnoc a já mám na sobì 50 let starou kombinézu Vaultu 13. Tak pojïme.}
-{1585}{myn233}{Á! Co, chceš snad Myronùv ivotopis? Jsem vìdátor. Všechno vím, všechno znám. Nemluvì o tom, e ti dokáu udìlat jakoukoliv drogu, která tì napadne. Pokud mám ty správnı suroviny.}
-{1586}{}{Tak dobøe, prošel jsi u pohovoru. Ta èást o drogách ti pomohla. Pojï se mnou.}
-{1587}{}{Popøemıšlím o tom. Mám ještì nìjaké otázky...}
-{1588}{}{Hmm, popøemıšlím o tom... ale, víš, bez uráky, vìdátoøi jsou nechvalnì proslulí svojí neschopností v boji.}
-{1589}{}{Musím si to rozmyslet. Ještì se vrátím.}
-{1595}{myn119}{Redding? To je mìsto plnı zlatokopù. Mordino ho chce mít celı pod palcem, take jednoho dne pøišel za mnou a zaèal sípat tím svım hlasem: 'Myrone, Myrone, vytvoø mi nìco, èím si podmaním Redding.'}
-{1596}{}{A ty jsi øekl...}
-{1597}{}{Hmmm. Chci se ještì zeptat...}
-{1605}{myn120}{A já øekl, 'Fajn, kdy to má bejt hotovı?' A on samozøejmì øekl: 'Vèera bylo pozdì.' Mafiáni. Chtìjí mít všechno rychle hotovı a nedodìlanı. Aspoò, e nemají marketingovı oddìlení.}
-{1615}{myn236a}{Jo. Proè? Chceš mi snad dokázat, e se pletu, kámo? }
-{1616}{myn236b}{Jo. Proè? Chceš mi snad dokázat, e se pletu, dámo? }
-{1617}{myn236c}{Jo? Hele, krásko, nemusíš se bránit. Nenarodila ses kvùli svı inteligenci, víš? }
-{1618}{myn236d}{Zapomnìl jsem toho o farmaceutickım vızkumu víc, ne budeš kdy vìdìt.}
-{1619}{}{Je na Jet nìjakı lék?}
-{1620}{}{Fajn, tak jak jsi vytvoøil Jet?}
-{1621}{}{Nejdøív mi odpovìz na tuhle otázku: Jak jsi vytvoøil halucinogen-amfetaminovı hybrid? Zdá se, e má Jet nìjaké... unikátní vlastnosti.}
-{1623}{}{Zapomeòte na to. Chci se ještì na nìco zeptat...}
-{1624}{}{Zapomeò na to. Mizím odsud.}
-{1625}{}{Polib mi prdel, ty arogantní sráèi. Mizím odsud.}
-{1635}{myn237}{Amatérskı? Ama-amatérskı?! Jet je práce génia, na to nezapomínej! A já na nìj jen tak nenarazil, já ho VYTVOØIL.}
-{1636}{}{Nevìøím ti. Øekni mi, jak se vyrábí.}
-{1637}{}{To je jedno, chlapèe. Mizím odsud.}
-{1645}{myn238}{Dvì slova: brahmíní hovna.}
-{1646}{}{To je to, v èem necháváš vyrùstat ten halucinogen?}
-{1647}{}{Pouíváš brahmíní hovna jako hnojivo pro rùst Jetu, e jo?}
-{1648}{}{Nechceš mi to øíct? Fajn. Tak mi odpovìz na jiné otázky...}
-{1649}{}{Tak dobøe. Je mi jasné, kam tohle vede. Kašli na to.}
-{1655}{myn239a}{Vıbornì a to je taky to jedinı, co se o tom kdy dozvíš, kámo. A jestli chceš vìdìt víc, tak si na to pøijï sám.}
-{1656}{myn239b}{Vıbornì a to je taky to jedinı, co se o tom kdy dozvíš, dámo. A jestli chceš vìdìt víc, tak si na to pøijï sama.}
-{1657}{myn239c}{Vıbornì, krásko, a to je taky to jedinı, co se o tom kdy dozvíš, take si s tím u netrap tu svoji roztomilou hlavièku. Ale dost øeèí, co kdybysme si ty a já... eh, hehe...}
-{1658}{}{Take brahmíní hovna mají nìjaké zvláštní chemické vlastnosti, které stimulují lidskı nervovı systém?}
-{1659}{}{To moná udìlám. Mám ještì nìjaké otázky...}
-{1660}{}{...ještì chvíli povídali? Vıbornì! Mám ještì nìjaké otázky...}
-{1661}{}{Fajn. Musím jít.}
-{1662}{}{Eh, co kdybysme si popovídali pozdìji? Dobrı nápad. Zatím.}
-{1675}{myn240}{Máš fakt spoustu blbejch otázek. Odpovìï zní: Jo, moná... hele, o-odkud vlastnì tohle všechno víš? Jseš snad z Vault City nebo co?}
-{1676}{}{Odpovìï na tvou otázku zní: Jo... MONÁ. A odkud to víš TY?}
-{1677}{}{Ne tak docela. Obèas prostì nìkde nìco pochytím. Je to docela jednoduché.}
+{1380}{}{Jsem jen poutnÃ­k prochÃ¡zejÃ­cÃ­ kolem.}
+{1381}{}{Jsem nÄ›kdo, kdo je ve Å¡patnÃ© mÃ­stnosti. ZatÃ­m.}
+{1395}{myn219a}{Opravdu? A proÄ jsi tady? No? MyslÃ­Å¡ si, Å¾e z Myrona dostaneÅ¡ nÄ›jakÃ½ drogy zadarmo, co?}
+{1396}{myn219b}{To je jedno, krÃ¡sko. NechceÅ¡ nÄ›jakÃ½ drogy, aÅ¥ prolomÃ­me ledy, nebo si rovnou zaskotaÄÃ­me v posteli?}
+{1397}{}{MoÅ¾nÃ¡, ale nemÃ¡m teÄ deset sekund nazbyt. O jakÃ½ch drogÃ¡ch to mluvÃ­Å¡?}
+{1398}{}{Drogy? JakÃ© tÅ™eba?}
+{1399}{}{Jsem urÄitÄ› ve Å¡patnÃ© mÃ­stnosti. PromiÅˆ.}
+{1405}{myn220a}{JseÅ¡ snad blbej? Jet, ty mamrde, Jet! MluvÃ­Å¡ s jeho tvÅ¯rcem. Jeho stvoÅ™itelem. Jeho... bohem.}
+{1406}{myn220b}{JseÅ¡ snad blbÃ¡? Jet, ty krÃ¡vo, Jet! MluvÃ­Å¡ s jeho tvÅ¯rcem. Jeho stvoÅ™itelem. Jeho... bohem.}
+{1407}{myn220c}{SlyÅ¡ela jsi nÄ›kdy o Jetu, krÃ¡sko? MluvÃ­Å¡ s jeho tvÅ¯rcem. Jeho stvoÅ™itelem. Jeho... bohem.}
+{1408}{}{Hovno. Ty jsi nevytvoÅ™il Jet.}
+{1409}{}{Ty jsi vytvoÅ™il Jet?}
+{1410}{}{Ty jsi vytvoÅ™il Jet? HustÃ½! DÃ¡ se na nÄ›m hroznÄ› moc VYDÄšLAT!}
+{1411}{}{No a co mÃ¡ bejt? UÅ¾ musÃ­m jÃ­t.}
+{1412}{}{To na tebe musÃ­ bÃ½t maminka opravdu pyÅ¡nÃ¡. ZatÃ­m, chlapÄe.}
+{1413}{}{Opravdu? ZajÃ­mavÃ©, ale musÃ­m teÄ odejÃ­t.}
+{1425}{myn221a}{Opravdu jsem vytvoÅ™il Jet! MyslÃ­Å¡, Å¾e tahle laboratoÅ™ je jen pro srandu krÃ¡lÃ­kÅ¯m?}
+{1426}{myn221b}{Je mi lÃ­to, Å¾e tÄ› musÃ­m pÅ™esvÄ›dÄit o opaku, krÃ¡sko, ale rozhlÃ­dni se kolem sebe. Tahle laboratoÅ™ nenÃ­ jen pro srandu krÃ¡lÃ­kÅ¯m.}
+{1427}{}{No dobÅ™e, MOÅ½NÃ jsi opravdu vytvoÅ™il Jet.}
+{1428}{}{ProÄ jsi vytvoÅ™il Jet?}
+{1430}{}{To na tebe musÃ­ bÃ½t maminka opravdu pyÅ¡nÃ¡. OdchÃ¡zÃ­m.}
+{1445}{myn222}{To si sakra piÅ¡, Å¾e jo! VytvÃ¡Å™Ã­m fet, po kterÃ½m vÅ¡ichni Å¡Ã­lÃ­ a poÅ™Ã¡d ho nemajÃ­ dost.}
+{1455}{myn223}{"ProÄ?" PaÄ jsem mohl. Rodina MordinÅ¯ potÅ™ebovala nÄ›jakej produkt a tak Myron vytvoÅ™il produkt a za to ho ÄinÃ­ Å¡Å¥astnÃ½m... v rÃ¡mci moÅ¾nostÃ­. Hezkej milostnej kruh, co?}
+{1456}{}{Jak jsi vytvoÅ™il Jet?}
+{1457}{}{'V rÃ¡mci moÅ¾nostÃ­?' Ty jsi tady Å¡Å¥astnÃ½?}
+{1458}{}{A co kdyÅ¾ ti navrhnu novÃ½ kruh? MordinovÃ© nedokÃ¡Å¾ou poznat talent, i kdyby je mlÃ¡tili do hlavy kladivem, ale jÃ¡ ano.}
+{1459}{}{Jo, jasnÄ›. MusÃ­m odejÃ­t.}
+{1465}{myn224a}{Pche, to nemÃ¡Å¡ Å¡anci pochopit. Je to na tebe MOC sloÅ¾itÃ½.}
+{1466}{myn224b}{Netrap si s tÃ­m tu svoji hezkou malou hlaviÄku, krÃ¡sko, ale mÅ¯Å¾u ti dÃ¡t nÄ›co jinÃ½ho, nad ÄÃ­m bys ji mohla trochu potrÃ¡pit.}
+{1467}{}{Ty jsi tady Å¡Å¥astnÃ½?}
+{1468}{}{JasnÄ›, hÃ¡dÃ¡m, Å¾e od takovÃ©ho idiota, jako jsem jÃ¡, se nedÃ¡ oÄekÃ¡vat pochopenÃ­ sloÅ¾itÃ©ho procesu vÃ½roby halucinogen-amfetaminovÃ©ho hybridu, jako je Jet, Å¾e?}
+{1469}{}{JasnÄ›, hÃ¡dÃ¡m, Å¾e od takovÃ© nÃ¡ny, jako jsem jÃ¡, se nedÃ¡ oÄekÃ¡vat pochopenÃ­ sloÅ¾itÃ©ho procesu vÃ½roby halucinogen-amfetaminovÃ©ho hybridu, jako je Jet, Å¾e?}
+{1472}{}{MyslÃ­m, Å¾e bys byl docela pÅ™ekvapenÃ½, kolik toho vÃ­m o tom tvÃ©m amatÃ©rskÃ©m halucinogen-amfetaminovÃ©m hybridu. DÃ­tÄ› jako ty na nÄ›j klidnÄ› mohlo tÅ™eba jen nÃ¡hodou NARAZIT.}
+{1473}{}{No, dÃ­ky, Å¾e sis udÄ›lal Äas, Myrone. UÅ¾ musÃ­m jÃ­t.}
+{1485}{myn225}{Docela jo. DÃ¡vajÃ­ mi kurvy, prachy, drogy. Taky mÃ¡m vlastnÃ­ laboratoÅ™ a volnost pÅ™i tvorbÄ›, kterou potÅ™ebuju, abych vytvoÅ™il kouzla, ale... ne, je to dobrÃ½ mÃ­sto.}
+{1486}{}{Ale co? NechovajÃ­ se k tobÄ› dobÅ™e?}
+{1487}{}{To je dobÅ™e, Myrone. UÅ¾ musÃ­m jÃ­t.}
+{1495}{myn226}{No, vÃ­Å¡, MordinovÃ© nechovajÃ­ k Myronovi R-E-S-P-E-K-T, chÃ¡peÅ¡? JÃ¡ jim Å™eknu, co majÃ­ udÄ›lat a oni Å™eknou 'drÅ¾ hubu, Myrone' nebo 'jdi zpÃ¡tky do laboratoÅ™e, Myrone.' Bastardi.}
+{1496}{}{MoÅ¾nÃ¡ mÅ¯Å¾u nÄ›jak pomoct. NechceÅ¡ vypadnout z mÄ›sta? PÅ™idej se ke mnÄ› a moÅ¾nÃ¡ si pak MordinovÃ© uvÄ›domÃ­, jakou mÃ¡Å¡ vlastnÄ› cenu.}
+{1497}{}{Jsi pÅ™Ã­liÅ¡ cennÃ½ na to, abys tady sedÄ›l, Myrone. MÄ›l bys odejÃ­t.}
+{1498}{}{To je opravdu oÅ¡klivÃ©, Myrone. UÅ¾ musÃ­m jÃ­t.}
+{1505}{myn227}{ZapomÃ­najÃ­ na to, Å¾e jen dÃ­ky MNÄš ovlÃ¡dajÃ­ Reno a za pÃ¡r mÄ›sÃ­cÅ¯ budou mÃ­t v kapse i Redding. VÄ›tÅ¡ina MordinÅ¯ mÃ¡ vÃ­c chlupÅ¯ na zadku neÅ¾ mozkovejch bunÄ›k, jestli mi rozumÃ­Å¡.}
+{1506}{}{Eh, moÅ¾nÃ¡ ti mÅ¯Å¾u nÄ›jak pomoct...}
+{1507}{}{Jsi opravdu pÅ™Ã­liÅ¡ cennÃ½ na to, abys tu byl, Myrone... vÃ¡Å¾nÄ› bys mÄ›l odejÃ­t.}
+{1509}{}{ZaÄÃ­nÃ¡m uÅ¾ chÃ¡pat, proÄ tÄ› neposlouchajÃ­.}
+{1510}{}{To si piÅ¡, Myrone. UÅ¾ musÃ­m jÃ­t.}
+{1515}{myn228}{A dalÅ¡Ã­ vÄ›c: MordinovÃ© nedokÃ¡Å¾ou zaboha pochopit, Å¾e mÄ› ÄiÅ¡tÄ›nÃ­ Jetu nezajÃ­mÃ¡. Funguje pÅ™esnÄ› tak, jak mÃ¡. JÃ¡ chci vytvÃ¡Å™et NOVÃ drogy, ne pÅ™edÄ›lÃ¡vat ty starÃ½, chÃ¡peÅ¡?}
+{1516}{}{MoÅ¾nÃ¡ ti mÅ¯Å¾u pomoct. Co kdybys vypadnul z tohohle mÄ›sta a cestoval se mnou? MoÅ¾nÃ¡ si pak MordinovÃ© uvÄ›domÃ­, jakou mÃ¡Å¡ vlastnÄ› cenu.}
+{1517}{}{MÃ¡Å¡ naprostou pravdu. Jsi pÅ™Ã­liÅ¡ cennÃ½ na to, abys tu byl, Myrone! MÄ›l bys odejÃ­t!}
+{1518}{}{Co jsi to Å™Ã­kal o Reddingu?}
+{1525}{myn229a}{Hmm... jejich boÅ¾skej chlapec utÃ­kÃ¡ z mÄ›sta. Ha. To je probere. Jo. }
+{1526}{myn229e}{To se mi lÃ­bÃ­.}
+{1527}{myn229d}{LÃ­bÃ­ se mi tvÅ¯j zpÅ¯sob myÅ¡lenÃ­, krÃ¡sko.}
+{1528}{myn229c}{TakÅ¾e, kam mÃ¡me namÃ­Å™eno?}
+{1529}{myn229b}{TakÅ¾e, kam mÃ¡me namÃ­Å™eno, krÃ¡sko?}
+{1530}{}{PojÄ za mnou, Myrone.}
+{1531}{}{Tak pojÄ se mnou.}
+{1532}{}{Tak poÄkat. NeÅ™Ã­kÃ¡m, Å¾e tÄ› hned beru. Co vlastnÄ› umÃ­Å¡, Myrone? NemÅ¯Å¾u s sebou brÃ¡t kaÅ¾dÃ©ho. MÃ¡m urÄitÄ› poÅ¾adavky.}
+{1533}{}{NejdÅ™Ã­v mi Å™ekni, v Äem jsi dobrÃ½, Myrone.}
+{1534}{}{ZatÃ­m nikam. MÃ¡m jeÅ¡tÄ› nÄ›jakÃ© otÃ¡zky...}
+{1535}{}{ZatÃ­m nikam, Myrone, ale za chvÃ­li se pro tebe vrÃ¡tÃ­m.}
+{1545}{myn230a}{Asi nÃ©, vypadÃ¡ to, Å¾e je vÃ¡s moc. Co kdybys vyrazil toho divocha? ZdÃ¡ se, Å¾e ty kosti bere moc vÃ¡Å¾nÄ›.}
+{1546}{myn230b}{Asi nÃ©, vypadÃ¡ to, Å¾e je vÃ¡s moc. A Myron se nekamarÃ¡dÃ­ s mutantama. Eh, bez urÃ¡Å¾ky, velkej kÃ¡mo.}
+{1547}{myn230c}{Eh, asi nÃ©, vypadÃ¡ to, Å¾e je vÃ¡s moc. A eh, Myron se nekamarÃ¡dÃ­ s ghoulama. Nikdy nevÃ­Å¡, kdy z nich odpadne kousek tÄ›la pÅ™Ã­mo na tvoji botu.}
+{1548}{myn230d}{Asi nÃ©, nechci se zaplÃ­st s dalÅ¡Ã­ rodinou. MordinovÃ© mi staÄili. Vykopni pÃ¡r lidÃ­ a pak mi Å™ekni.}
+{1549}{myn230e}{Jo, jasnÄ›. Ani mouchy by za tebou nelÃ­taly, kdybys byl obalenej hovnama. Pche, zapomeÅˆ na to.}
+{1550}{}{Tak dobÅ™e. No, mÃ¡m jeÅ¡tÄ› nÄ›jakÃ© otÃ¡zky...}
+{1551}{}{MÃ¡Å¡ opravdu vybranÃ© chovÃ¡nÃ­. PopÅ™emÃ½Å¡lÃ­m o tom, Myrone.}
+{1552}{}{Ne, mÃ¡ minimÃ¡lnÄ› dvakrÃ¡t takovou cenu jak ty. ZatÃ­m, chlapÄe.}
+{1553}{}{ChlapÄe, na to jak vypadÃ¡Å¡, ti to fakt kecÃ¡. PÅ™iprav se na smrt.}
+{1554}{}{Ale lÃ­taly! To mi vÄ›Å™.}
+{1555}{}{Tvoje chyba, Myrone. ZatÃ­m.}
+{1565}{myn231}{Jo? PoslouchÃ¡m...}
+{1566}{}{MoÅ¾nÃ¡ bychom si mohli navzÃ¡jem pomoct. Hodil by se mi nÄ›kdo s tvÃ½mi dovednostmi. Co kdyby ses vykaÅ¡lal na tohle mÄ›sto a cestoval chvÃ­li se mnou? MoÅ¾nÃ¡ si pak MordinovÃ© uvÄ›domÃ­, jakou mÃ¡Å¡ vlastnÄ› cenu.}
+{1567}{}{Ãle, zapomeÅˆ na to. MÃ¡m jeÅ¡tÄ› nÄ›jakÃ© otÃ¡zky...}
+{1568}{}{ZapomeÅˆ na to. StejnÄ› by to mezi nÃ¡mi nefungovalo.}
+{1575}{myn232a}{Tak dobÅ™e. }
+{1576}{myn232b}{Tak dobÅ™e, krÃ¡sko. }
+{1577}{myn232c}{No proÄ ne? PrÃ¡sknem do bot.}
+{1578}{}{MizÃ­me odsud.}
+{1579}{}{Do Arroya je to 106 mil, mÃ¡me plnÃ½ fÅ¯znÃ­ ÄlÃ¡nek, pÅ¯l tuctu RadAway, je pÅ¯lnoc a jÃ¡ mÃ¡m na sobÄ› 50 let starou kombinÃ©zu Vaultu 13. Tak pojÄme.}
+{1585}{myn233}{Ã! Co, chceÅ¡ snad MyronÅ¯v Å¾ivotopis? Jsem vÄ›dÃ¡tor. VÅ¡echno vÃ­m, vÅ¡echno znÃ¡m. NemluvÄ› o tom, Å¾e ti dokÃ¡Å¾u udÄ›lat jakoukoliv drogu, kterÃ¡ tÄ› napadne. Pokud mÃ¡m ty sprÃ¡vnÃ½ suroviny.}
+{1586}{}{Tak dobÅ™e, proÅ¡el jsi u pohovoru. Ta ÄÃ¡st o drogÃ¡ch ti pomohla. PojÄ se mnou.}
+{1587}{}{PopÅ™emÃ½Å¡lÃ­m o tom. MÃ¡m jeÅ¡tÄ› nÄ›jakÃ© otÃ¡zky...}
+{1588}{}{Hmm, popÅ™emÃ½Å¡lÃ­m o tom... ale, vÃ­Å¡, bez urÃ¡Å¾ky, vÄ›dÃ¡toÅ™i jsou nechvalnÄ› proslulÃ­ svojÃ­ neschopnostÃ­ v boji.}
+{1589}{}{MusÃ­m si to rozmyslet. JeÅ¡tÄ› se vrÃ¡tÃ­m.}
+{1595}{myn119}{Redding? To je mÄ›sto plnÃ½ zlatokopÅ¯. Mordino ho chce mÃ­t celÃ½ pod palcem, takÅ¾e jednoho dne pÅ™iÅ¡el za mnou a zaÄal sÃ­pat tÃ­m svÃ½m hlasem: 'Myrone, Myrone, vytvoÅ™ mi nÄ›co, ÄÃ­m si podmanÃ­m Redding.'}
+{1596}{}{A ty jsi Å™ekl...}
+{1597}{}{Hmmm. Chci se jeÅ¡tÄ› zeptat...}
+{1605}{myn120}{A jÃ¡ Å™ekl, 'Fajn, kdy to mÃ¡ bejt hotovÃ½?' A on samozÅ™ejmÄ› Å™ekl: 'VÄera bylo pozdÄ›.' MafiÃ¡ni. ChtÄ›jÃ­ mÃ­t vÅ¡echno rychle hotovÃ½ a nedodÄ›lanÃ½. AspoÅˆ, Å¾e nemajÃ­ marketingovÃ½ oddÄ›lenÃ­.}
+{1615}{myn236a}{Jo. ProÄ? ChceÅ¡ mi snad dokÃ¡zat, Å¾e se pletu, kÃ¡mo? }
+{1616}{myn236b}{Jo. ProÄ? ChceÅ¡ mi snad dokÃ¡zat, Å¾e se pletu, dÃ¡mo? }
+{1617}{myn236c}{Jo? Hele, krÃ¡sko, nemusÃ­Å¡ se brÃ¡nit. Nenarodila ses kvÅ¯li svÃ½ inteligenci, vÃ­Å¡? }
+{1618}{myn236d}{ZapomnÄ›l jsem toho o farmaceutickÃ½m vÃ½zkumu vÃ­c, neÅ¾ budeÅ¡ kdy vÄ›dÄ›t.}
+{1619}{}{Je na Jet nÄ›jakÃ½ lÃ©k?}
+{1620}{}{Fajn, tak jak jsi vytvoÅ™il Jet?}
+{1621}{}{NejdÅ™Ã­v mi odpovÄ›z na tuhle otÃ¡zku: Jak jsi vytvoÅ™il halucinogen-amfetaminovÃ½ hybrid? ZdÃ¡ se, Å¾e mÃ¡ Jet nÄ›jakÃ©... unikÃ¡tnÃ­ vlastnosti.}
+{1623}{}{ZapomeÅˆte na to. Chci se jeÅ¡tÄ› na nÄ›co zeptat...}
+{1624}{}{ZapomeÅˆ na to. MizÃ­m odsud.}
+{1625}{}{Polib mi prdel, ty arogantnÃ­ srÃ¡Äi. MizÃ­m odsud.}
+{1635}{myn237}{AmatÃ©rskÃ½? Ama-amatÃ©rskÃ½?! Jet je prÃ¡ce gÃ©nia, na to nezapomÃ­nej! A jÃ¡ na nÄ›j jen tak nenarazil, jÃ¡ ho VYTVOÅ˜IL.}
+{1636}{}{NevÄ›Å™Ã­m ti. Å˜ekni mi, jak se vyrÃ¡bÃ­.}
+{1637}{}{To je jedno, chlapÄe. MizÃ­m odsud.}
+{1645}{myn238}{DvÄ› slova: brahmÃ­nÃ­ hovna.}
+{1646}{}{To je to, v Äem nechÃ¡vÃ¡Å¡ vyrÅ¯stat ten halucinogen?}
+{1647}{}{PouÅ¾Ã­vÃ¡Å¡ brahmÃ­nÃ­ hovna jako hnojivo pro rÅ¯st Jetu, Å¾e jo?}
+{1648}{}{NechceÅ¡ mi to Å™Ã­ct? Fajn. Tak mi odpovÄ›z na jinÃ© otÃ¡zky...}
+{1649}{}{Tak dobÅ™e. Je mi jasnÃ©, kam tohle vede. KaÅ¡li na to.}
+{1655}{myn239a}{VÃ½bornÄ› a to je taky to jedinÃ½, co se o tom kdy dozvÃ­Å¡, kÃ¡mo. A jestli chceÅ¡ vÄ›dÄ›t vÃ­c, tak si na to pÅ™ijÄ sÃ¡m.}
+{1656}{myn239b}{VÃ½bornÄ› a to je taky to jedinÃ½, co se o tom kdy dozvÃ­Å¡, dÃ¡mo. A jestli chceÅ¡ vÄ›dÄ›t vÃ­c, tak si na to pÅ™ijÄ sama.}
+{1657}{myn239c}{VÃ½bornÄ›, krÃ¡sko, a to je taky to jedinÃ½, co se o tom kdy dozvÃ­Å¡, takÅ¾e si s tÃ­m uÅ¾ netrap tu svoji roztomilou hlaviÄku. Ale dost Å™eÄÃ­, co kdybysme si ty a jÃ¡... eh, hehe...}
+{1658}{}{TakÅ¾e brahmÃ­nÃ­ hovna majÃ­ nÄ›jakÃ© zvlÃ¡Å¡tnÃ­ chemickÃ© vlastnosti, kterÃ© stimulujÃ­ lidskÃ½ nervovÃ½ systÃ©m?}
+{1659}{}{To moÅ¾nÃ¡ udÄ›lÃ¡m. MÃ¡m jeÅ¡tÄ› nÄ›jakÃ© otÃ¡zky...}
+{1660}{}{...jeÅ¡tÄ› chvÃ­li povÃ­dali? VÃ½bornÄ›! MÃ¡m jeÅ¡tÄ› nÄ›jakÃ© otÃ¡zky...}
+{1661}{}{Fajn. MusÃ­m jÃ­t.}
+{1662}{}{Eh, co kdybysme si popovÃ­dali pozdÄ›ji? DobrÃ½ nÃ¡pad. ZatÃ­m.}
+{1675}{myn240}{MÃ¡Å¡ fakt spoustu blbejch otÃ¡zek. OdpovÄ›Ä znÃ­: Jo, moÅ¾nÃ¡... hele, o-odkud vlastnÄ› tohle vÅ¡echno vÃ­Å¡? JseÅ¡ snad z Vault City nebo co?}
+{1676}{}{OdpovÄ›Ä na tvou otÃ¡zku znÃ­: Jo... MOÅ½NÃ. A odkud to vÃ­Å¡ TY?}
+{1677}{}{Ne tak docela. ObÄas prostÄ› nÄ›kde nÄ›co pochytÃ­m. Je to docela jednoduchÃ©.}
 {1678}{}{No. Look, I had some other questions...}
 {1679}{}{Vault City. Kde to je?}
-{1680}{}{Nechám tì hádat. U jsi mi stejnì øekl všechno, co potøebuju vìdìt.}
-{1685}{myn241a}{Jo, jen buï drzej, chytráku. Cejtím z tebe ty implantáty a tady. Já jsem pøírodní. Sám jsem se vypracoval. Nemám v sobì ádnı ty 'èistı' sraèky z Vault City, chápeš?}
-{1686}{myn241b}{Hehe, cha, ha! Jseš chytrá, krásko... èernı vlasy, zuby, drápy... mmm-mmm. Take ses ty hovadiny nauèila ve Vault City nebo co?}
-{1687}{}{Nemám to z Vault City. Obèas prostì nìkde nìco pochytím. Je to docela jednoduché.}
-{1689}{}{Chci se ještì zeptat...}
-{1695}{myn244}{Co chceš vìdìt?}
-{1696}{}{Povìz mi nìco o tomhle místì.}
-{1697}{}{Povìz mi o rodinì Mordinù.}
-{1699}{}{U pùjdu.}
-{1705}{myn245a}{Stáje? Testujeme tady novı druhy Jetu. Co chceš ještì vìdìt?}
-{1706}{myn245b}{Stáje? No, testujeme tady novı druhy Jetu. Co chceš ještì vìdìt, krásko?}
-{1715}{myn246}{Jsou to moji patronové. Jsou docela v pohodì... aspoò myslím.}
-{1716}{}{Aspoò myslíš? Nechovají se k tobì snad dobøe?}
-{1725}{myn247}{Zase ty? Take... mùeme jít?}
-{1726}{}{Jasnì, Myrone. Vypadneme odsud.}
-{1727}{}{Tak poèkat. Neøíkám, e tì hned beru. Co vlastnì umíš, Myrone? Nemùu s sebou brát kadého. Mám urèitì poadavky.}
-{1728}{}{Nejdøív mi øekni, v èem jsi dobrı, Myrone.}
-{1729}{}{Ne, ne tak docela. Mám nìjaké otázky...}
-{1730}{}{Teï ne. Co kdyby sis na chvíli odpoèinul?}
-{1735}{}{Jseš trochu podivná... a to se mi líbí.}
-{1736}{}{Jseš trochu podivná... a to se mi líbí.}
-{1745}{myrn104a}{Nestarej se o mì.}
-{1746}{myn104b}{Jauuu! To bolí! To bo- ach, lí. Ne. Ne, jsem celkem v poøádku. Jenom to trochu štípe.}
-{1747}{myn104c}{Umírám tady! D-dej mi Stimpak! Nebo dva. Nebo tøi.}
-{1748}{myn104d}{To... jseš... ty? Nevidím... ztrácím... vìdomí. *Ugh* *Ech* Pomoz... mi...}
-{1749}{}{Hmmmm. Zkus se znovu vyléèit.}
-{1753}{}{Dej mi na chvíli pokoj, Myrone.}
-{1756}{}{Zapomeò na to. Pojïme.}
-{1757}{}{Buï chlap a vydr to, Myrone. Máme to ještì daleko.}
-{1765}{myn138}{Eh, promiò, ale mám tady na tebe poèkat? Dìláš si srandu? Øekni mi, e si dìláš srandu.}
-{1766}{}{Zùstaò. Tady. Dokud. Se. Nevrátím. Rozumíš?}
-{1767}{}{Já se vrátím. Buï v klidu.}
-{1775}{myn1003a}{Ale no ták... fajn, jak myslíš. I kdy jsem si chtìl vyzkoušet tu novou techniku støelby dávkou, na kterı pracuju.}
-{1776}{myn1003b}{Eh, tuhle zbraò? Aha... promiò, krásko. Ona se mi vdycky tak nìjak... zjeví v rukách, víš?}
-{1781}{}{Moná bys mìl trochu odstoupit, Myrone.}
-{1784}{}{Ne, dokud jsi se mnou, tak ne. A teï pojï.}
-{1785}{}{Prı taky nìkdy pøedèasnì 'vystøelíš'. A teï pojï.}
-{1795}{myn1004a}{Eh... tak dobøe. Doufám, e mì netrefíš.}
-{1796}{myn1004b}{Cokoliv øekneš, krasotinko. Vrrrr.}
-{1802}{}{Radìji se dr opodál, Myrone. Bude to tak pro oba lepší.}
-{1804}{}{A tì trefím, tak to poznáš. A teï pojï.}
-{1805}{}{Uklidni se, Myrone. Pojïme.}
-{1815}{myn1005a}{No... tak dobøe. Ale slyšel jsem, e ten uprostøed to koupí vdycky jako první.}
-{1816}{myn1005b}{Tak dobøe, budu ti pozornì hlídat prdelku... er... eh, záda.}
-{1820}{}{Vlastnì, zapomeò na to. Dr se u mì.}
-{1822}{}{Bì ještì o trochu dál, Myrone. Bude to tak pro oba lepší.}
-{1824}{}{S tím poèítám. A teï pojï.}
-{1825}{}{Skvìlıııı. Pojïme.}
-{1835}{myn1006a}{Dobøe, pohlídám to tam vzadu. Aspoò mám dost prostoru na to, abych si vyzkoušel svoji techniku støelby dávkou.}
-{1836}{myn1006b}{Co... smrdím, nebo co?! Ach jo.}
-{1841}{}{Pojï blí, Myrone.}
-{1844}{}{To je jedno. A teï pojï.}
-{1845}{}{Kdyby to byl jen tvùj tìlesnı pach, dalo by se to vydret. Pojïme.}
-{1860}{myn232a}{Tak dobøe.}
-{1863}{}{Chlapèe, na to jak vypadáš, ti to fakt kecá. Pøiprav se na smrt.}
-{1866}{}{Pojïme.}
-{1870}{}{Já bıt òák blbì.}
-{1875}{}{Podaøilo se ti pøesvìdèit Myrona, e by mohl existovat lék na Jet.}
-{1880}{}{To je hrob, ve kterém Velkej Jeíš schoval peníze.}
-{1885}{}{Podaøilo se ti pøesvìdèit Myrona, aby odešel ze Stájí.}
-{1957}{}{Dobøe, dobøe! Pøestaò do mì strkat!}
-{1958}{}{Hej, dej mi pokoj! Já svoji AI neprogramoval.}
-{1959}{}{Dobøe, TAK PROMIÒ.}
-{1960}{}{Tak dobøe, ale pøíštì uhneš TY MNÌ.}
-{1961}{}{Já tu byl první. Ale a je po TVİM.}
+{1680}{}{NechÃ¡m tÄ› hÃ¡dat. UÅ¾ jsi mi stejnÄ› Å™ekl vÅ¡echno, co potÅ™ebuju vÄ›dÄ›t.}
+{1685}{myn241a}{Jo, jen buÄ drzej, chytrÃ¡ku. CejtÃ­m z tebe ty implantÃ¡ty aÅ¾ tady. JÃ¡ jsem pÅ™Ã­rodnÃ­. SÃ¡m jsem se vypracoval. NemÃ¡m v sobÄ› Å¾Ã¡dnÃ½ ty 'ÄistÃ½' sraÄky z Vault City, chÃ¡peÅ¡?}
+{1686}{myn241b}{Hehe, cha, ha! JseÅ¡ chytrÃ¡, krÃ¡sko... ÄernÃ½ vlasy, zuby, drÃ¡py... mmm-mmm. TakÅ¾e ses ty hovadiny nauÄila ve Vault City nebo co?}
+{1687}{}{NemÃ¡m to z Vault City. ObÄas prostÄ› nÄ›kde nÄ›co pochytÃ­m. Je to docela jednoduchÃ©.}
+{1689}{}{Chci se jeÅ¡tÄ› zeptat...}
+{1695}{myn244}{Co chceÅ¡ vÄ›dÄ›t?}
+{1696}{}{PovÄ›z mi nÄ›co o tomhle mÃ­stÄ›.}
+{1697}{}{PovÄ›z mi o rodinÄ› MordinÅ¯.}
+{1699}{}{UÅ¾ pÅ¯jdu.}
+{1705}{myn245a}{StÃ¡je? Testujeme tady novÃ½ druhy Jetu. Co chceÅ¡ jeÅ¡tÄ› vÄ›dÄ›t?}
+{1706}{myn245b}{StÃ¡je? No, testujeme tady novÃ½ druhy Jetu. Co chceÅ¡ jeÅ¡tÄ› vÄ›dÄ›t, krÃ¡sko?}
+{1715}{myn246}{Jsou to moji patronovÃ©. Jsou docela v pohodÄ›... aspoÅˆ myslÃ­m.}
+{1716}{}{AspoÅˆ myslÃ­Å¡? NechovajÃ­ se k tobÄ› snad dobÅ™e?}
+{1725}{myn247}{Zase ty? TakÅ¾e... mÅ¯Å¾eme jÃ­t?}
+{1726}{}{JasnÄ›, Myrone. Vypadneme odsud.}
+{1727}{}{Tak poÄkat. NeÅ™Ã­kÃ¡m, Å¾e tÄ› hned beru. Co vlastnÄ› umÃ­Å¡, Myrone? NemÅ¯Å¾u s sebou brÃ¡t kaÅ¾dÃ©ho. MÃ¡m urÄitÄ› poÅ¾adavky.}
+{1728}{}{NejdÅ™Ã­v mi Å™ekni, v Äem jsi dobrÃ½, Myrone.}
+{1729}{}{Ne, ne tak docela. MÃ¡m nÄ›jakÃ© otÃ¡zky...}
+{1730}{}{TeÄ ne. Co kdyby sis na chvÃ­li odpoÄinul?}
+{1735}{}{JseÅ¡ trochu podivnÃ¡... a to se mi lÃ­bÃ­.}
+{1736}{}{JseÅ¡ trochu podivnÃ¡... a to se mi lÃ­bÃ­.}
+{1745}{myrn104a}{Nestarej se o mÄ›.}
+{1746}{myn104b}{Jauuu! To bolÃ­! To bo- ach, lÃ­. Ne. Ne, jsem celkem v poÅ™Ã¡dku. Jenom to trochu Å¡tÃ­pe.}
+{1747}{myn104c}{UmÃ­rÃ¡m tady! D-dej mi Stimpak! Nebo dva. Nebo tÅ™i.}
+{1748}{myn104d}{To... jseÅ¡... ty? NevidÃ­m... ztrÃ¡cÃ­m... vÄ›domÃ­. *Ugh* *Ech* Pomoz... mi...}
+{1749}{}{Hmmmm. Zkus se znovu vylÃ©Äit.}
+{1753}{}{Dej mi na chvÃ­li pokoj, Myrone.}
+{1756}{}{ZapomeÅˆ na to. PojÄme.}
+{1757}{}{BuÄ chlap a vydrÅ¾ to, Myrone. MÃ¡me to jeÅ¡tÄ› daleko.}
+{1765}{myn138}{Eh, promiÅˆ, ale mÃ¡m tady na tebe poÄkat? DÄ›lÃ¡Å¡ si srandu? Å˜ekni mi, Å¾e si dÄ›lÃ¡Å¡ srandu.}
+{1766}{}{ZÅ¯staÅˆ. Tady. Dokud. Se. NevrÃ¡tÃ­m. RozumÃ­Å¡?}
+{1767}{}{JÃ¡ se vrÃ¡tÃ­m. BuÄ v klidu.}
+{1775}{myn1003a}{Ale no tÃ¡k... fajn, jak myslÃ­Å¡. I kdyÅ¾ jsem si chtÄ›l vyzkouÅ¡et tu novou techniku stÅ™elby dÃ¡vkou, na kterÃ½ pracuju.}
+{1776}{myn1003b}{Eh, tuhle zbraÅˆ? Aha... promiÅˆ, krÃ¡sko. Ona se mi vÅ¾dycky tak nÄ›jak... zjevÃ­ v rukÃ¡ch, vÃ­Å¡?}
+{1781}{}{MoÅ¾nÃ¡ bys mÄ›l trochu odstoupit, Myrone.}
+{1784}{}{Ne, dokud jsi se mnou, tak ne. A teÄ pojÄ.}
+{1785}{}{PrÃ½ taky nÄ›kdy pÅ™edÄasnÄ› 'vystÅ™elÃ­Å¡'. A teÄ pojÄ.}
+{1795}{myn1004a}{Eh... tak dobÅ™e. DoufÃ¡m, Å¾e mÄ› netrefÃ­Å¡.}
+{1796}{myn1004b}{Cokoliv Å™ekneÅ¡, krasotinko. Vrrrr.}
+{1802}{}{RadÄ›ji se drÅ¾ opodÃ¡l, Myrone. Bude to tak pro oba lepÅ¡Ã­.}
+{1804}{}{AÅ¾ tÄ› trefÃ­m, tak to poznÃ¡Å¡. A teÄ pojÄ.}
+{1805}{}{Uklidni se, Myrone. PojÄme.}
+{1815}{myn1005a}{No... tak dobÅ™e. Ale slyÅ¡el jsem, Å¾e ten uprostÅ™ed to koupÃ­ vÅ¾dycky jako prvnÃ­.}
+{1816}{myn1005b}{Tak dobÅ™e, budu ti pozornÄ› hlÃ­dat prdelku... er... eh, zÃ¡da.}
+{1820}{}{VlastnÄ›, zapomeÅˆ na to. DrÅ¾ se u mÄ›.}
+{1822}{}{BÄ›Å¾ jeÅ¡tÄ› o trochu dÃ¡l, Myrone. Bude to tak pro oba lepÅ¡Ã­.}
+{1824}{}{S tÃ­m poÄÃ­tÃ¡m. A teÄ pojÄ.}
+{1825}{}{SkvÄ›lÃ½Ã½Ã½Ã½. PojÄme.}
+{1835}{myn1006a}{DobÅ™e, pohlÃ­dÃ¡m to tam vzadu. AspoÅˆ mÃ¡m dost prostoru na to, abych si vyzkouÅ¡el svoji techniku stÅ™elby dÃ¡vkou.}
+{1836}{myn1006b}{Co... smrdÃ­m, nebo co?! Ach jo.}
+{1841}{}{PojÄ blÃ­Å¾, Myrone.}
+{1844}{}{To je jedno. A teÄ pojÄ.}
+{1845}{}{Kdyby to byl jen tvÅ¯j tÄ›lesnÃ½ pach, dalo by se to vydrÅ¾et. PojÄme.}
+{1860}{myn232a}{Tak dobÅ™e.}
+{1863}{}{ChlapÄe, na to jak vypadÃ¡Å¡, ti to fakt kecÃ¡. PÅ™iprav se na smrt.}
+{1866}{}{PojÄme.}
+{1870}{}{JÃ¡ bÃ½t ÅˆÃ¡k blbÄ›.}
+{1875}{}{PodaÅ™ilo se ti pÅ™esvÄ›dÄit Myrona, Å¾e by mohl existovat lÃ©k na Jet.}
+{1880}{}{To je hrob, ve kterÃ©m Velkej JeÅ¾Ã­Å¡ schoval penÃ­ze.}
+{1885}{}{PodaÅ™ilo se ti pÅ™esvÄ›dÄit Myrona, aby odeÅ¡el ze StÃ¡jÃ­.}
+{1957}{}{DobÅ™e, dobÅ™e! PÅ™estaÅˆ do mÄ› strkat!}
+{1958}{}{Hej, dej mi pokoj! JÃ¡ svoji AI neprogramoval.}
+{1959}{}{DobÅ™e, TAK PROMIÅ‡.}
+{1960}{}{Tak dobÅ™e, ale pÅ™Ã­Å¡tÄ› uhneÅ¡ TY MNÄš.}
+{1961}{}{JÃ¡ tu byl prvnÃ­. Ale aÅ¥ je po TVÃM.}
 {2001}{myn321}{To je na hovno.}
-{2004}{myn324}{O èem to sakra mluvíš?}
-{2023}{myn343}{To radši vylíu Marcusovi prdel.}
-{2024}{myn344}{To radši olíu Lennymu koule.}
-{2025}{myn345}{To radši nechám toho kyberpsa, a mi ukousne koule.}
-{2033}{myn353}{Co já vím.}
-{2091}{}{Nemáš pár drobnejch? Musím zbavit pár holek panenství.}
-{2675}{myn242a}{Jednoduchı, jo? Já jsem nejlepší. Dvakrát lepší ne ti ocasové ve Vault City.}
-{2676}{myn242b}{No jo, to máš pravdu. Jednodušší ne ty blbosti, co by ti tloukli do hlavy ti ocasové ve Vault City.}
-{2678}{}{Nech to bıt, pane Nejistı. Mám ještì nìjaké otázky...}
-{2679}{}{Máš opravdu vytøíbenı jazyk. Uvidíme se pozdìji, Myrone.}
-{2685}{myn243}{To je mìsto na severovıchodì. Banda "geneticky èistejch" lidí. Kdyby namyšlenost nadnášela, utopí se pøi prvním dešti.}
-{2686}{}{Nemám to z Vault City. Obèas prostì nìkde nìco pochytím. Je to docela jednoduché.}
-{2687}{}{Zajímavé. Mám ještì nìjaké otázky...}
-{2688}{}{Máš opravdu vytøíbenı jazyk. Uvidíme se pozdìji, Myrone.}
-{3000}{}{Myrone, myslím, e bychom si mìli promluvit o... vzdálenosti mezi námi.}
-{3001}{}{Promluvme si na chvíli o tvém vybavení.}
-{3002}{}{Zapomeò na to. Zùstaò kde jsi.}
-{3003}{}{Potøebuju, aby sis sundal zbroj.}
-{3004}{}{S jakımi zbranìmi umíš zacházet, Myrone?}
-{3005}{}{Nech to bıt, potøebuju od tebe nìco jiného.}
-{3025}{}{Nevadí.}
-{4000}{}{Jo, tady by mìlo bıt to zaøízení, kterı jsem ti vyznaèil do mapy. Nejspíš bude hluboko pod zemí.}
-{5000}{}{Kurva! Kurva! Necítím jednu konèetinu!}
-{5001}{}{Cítím se, jako bych se kurva rozpouštìl!}
-{5002}{}{Bleju tu svı zasranı vnitønosti!}
-{5616}{}{Jasnì. Vyzkoušej mì.}
-{5617}{}{Myslím, e ti mùu pár vìcí ukázat.}
-{5725}{}{Fajn, fajn. A v èem je problém s vırobou barbiturátù?}
+{2004}{myn324}{O Äem to sakra mluvÃ­Å¡?}
+{2023}{myn343}{To radÅ¡i vylÃ­Å¾u Marcusovi prdel.}
+{2024}{myn344}{To radÅ¡i olÃ­Å¾u Lennymu koule.}
+{2025}{myn345}{To radÅ¡i nechÃ¡m toho kyberpsa, aÅ¥ mi ukousne koule.}
+{2033}{myn353}{Co jÃ¡ vÃ­m.}
+{2091}{}{NemÃ¡Å¡ pÃ¡r drobnejch? MusÃ­m zbavit pÃ¡r holek panenstvÃ­.}
+{2675}{myn242a}{JednoduchÃ½, jo? JÃ¡ jsem nejlepÅ¡Ã­. DvakrÃ¡t lepÅ¡Ã­ neÅ¾ ti ocasovÃ© ve Vault City.}
+{2676}{myn242b}{No jo, to mÃ¡Å¡ pravdu. JednoduÅ¡Å¡Ã­ neÅ¾ ty blbosti, co by ti tloukli do hlavy ti ocasovÃ© ve Vault City.}
+{2678}{}{Nech to bÃ½t, pane NejistÃ½. MÃ¡m jeÅ¡tÄ› nÄ›jakÃ© otÃ¡zky...}
+{2679}{}{MÃ¡Å¡ opravdu vytÅ™Ã­benÃ½ jazyk. UvidÃ­me se pozdÄ›ji, Myrone.}
+{2685}{myn243}{To je mÄ›sto na severovÃ½chodÄ›. Banda "geneticky Äistejch" lidÃ­. Kdyby namyÅ¡lenost nadnÃ¡Å¡ela, utopÃ­ se pÅ™i prvnÃ­m deÅ¡ti.}
+{2686}{}{NemÃ¡m to z Vault City. ObÄas prostÄ› nÄ›kde nÄ›co pochytÃ­m. Je to docela jednoduchÃ©.}
+{2687}{}{ZajÃ­mavÃ©. MÃ¡m jeÅ¡tÄ› nÄ›jakÃ© otÃ¡zky...}
+{2688}{}{MÃ¡Å¡ opravdu vytÅ™Ã­benÃ½ jazyk. UvidÃ­me se pozdÄ›ji, Myrone.}
+{3000}{}{Myrone, myslÃ­m, Å¾e bychom si mÄ›li promluvit o... vzdÃ¡lenosti mezi nÃ¡mi.}
+{3001}{}{Promluvme si na chvÃ­li o tvÃ©m vybavenÃ­.}
+{3002}{}{ZapomeÅˆ na to. ZÅ¯staÅˆ kde jsi.}
+{3003}{}{PotÅ™ebuju, aby sis sundal zbroj.}
+{3004}{}{S jakÃ½mi zbranÄ›mi umÃ­Å¡ zachÃ¡zet, Myrone?}
+{3005}{}{Nech to bÃ½t, potÅ™ebuju od tebe nÄ›co jinÃ©ho.}
+{3025}{}{NevadÃ­.}
+{4000}{}{Jo, tady by mÄ›lo bÃ½t to zaÅ™Ã­zenÃ­, kterÃ½ jsem ti vyznaÄil do mapy. NejspÃ­Å¡ bude hluboko pod zemÃ­.}
+{5000}{}{Kurva! Kurva! NecÃ­tÃ­m jednu konÄetinu!}
+{5001}{}{CÃ­tÃ­m se, jako bych se kurva rozpouÅ¡tÄ›l!}
+{5002}{}{Bleju tu svÃ½ zasranÃ½ vnitÅ™nosti!}
+{5616}{}{JasnÄ›. VyzkouÅ¡ej mÄ›.}
+{5617}{}{MyslÃ­m, Å¾e ti mÅ¯Å¾u pÃ¡r vÄ›cÃ­ ukÃ¡zat.}
+{5725}{}{Fajn, fajn. A v Äem je problÃ©m s vÃ½robou barbiturÃ¡tÅ¯?}
 {5741}{}{Jak to?}
 {5851}{}{Ano...?}
-{5861}{}{U chápu.}
+{5861}{}{UÅ¾ chÃ¡pu.}
 {6208}{}{?}
-{6218}{}{ jít.}
-{6226}{}{ ZABÍT.}
-{6247}{}{ pítel?}
-{6256}{}{ pít.}
-{6257}{}{ pítel?}
-{6287}{}{ jít.}
-{6298}{}{ jít, }
+{6218}{}{ jÃ­t.}
+{6226}{}{ ZABÃT.}
+{6247}{}{ pÅ¾Ã­tel?}
+{6256}{}{ pÃ­t.}
+{6257}{}{ pÅ¾Ã­tel?}
+{6287}{}{ jÃ­t.}
+{6298}{}{ jÃ­t, }
 {6379}{}{Jsem }
-{6525}{}{Urèitì. Bıt tebou, tak to udìlám, aby si uvìdomili, o co pøichází.}
+{6525}{}{UrÄitÄ›. BÃ½t tebou, tak to udÄ›lÃ¡m, aby si uvÄ›domili, o co pÅ™ichÃ¡zÃ­.}

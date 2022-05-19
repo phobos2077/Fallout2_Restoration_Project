@@ -1,9 +1,9 @@
-{100}{}{Vidíš vstupní systém bez klíèe. Na ceduli stojí "Zde pouij Tanker FOB".}
-{101}{}{Vidíš vstupní systém bez klíèe. Na ceduli stojí "Zde pouij Tanker FOB".}
-{102}{}{Tato konzole má pøipevnìnou èernou desku s èervenım svìtlem nahoøe. Na ceduli stojí "Zde pouij Tanker FOB".}
-{103}{}{Tato konzole má pøipevnìnou èernou desku se zelenım svìtlem nahoøe. Na ceduli stojí "Zde pouij Tanker FOB".}
-{104}{}{[kliknutí] Svìtlo na èerné desce zezelenalo.}
-{105}{}{[kliknutí] Svìtlo na èerné desce zèervenalo.}
+{100}{}{VidÃ­Å¡ vstupnÃ­ systÃ©m bez klÃ­Äe. Na ceduli stojÃ­ "Zde pouÅ¾ij Tanker FOB".}
+{101}{}{VidÃ­Å¡ vstupnÃ­ systÃ©m bez klÃ­Äe. Na ceduli stojÃ­ "Zde pouÅ¾ij Tanker FOB".}
+{102}{}{Tato konzole mÃ¡ pÅ™ipevnÄ›nou Äernou desku s ÄervenÃ½m svÄ›tlem nahoÅ™e. Na ceduli stojÃ­ "Zde pouÅ¾ij Tanker FOB".}
+{103}{}{Tato konzole mÃ¡ pÅ™ipevnÄ›nou Äernou desku se zelenÃ½m svÄ›tlem nahoÅ™e. Na ceduli stojÃ­ "Zde pouÅ¾ij Tanker FOB".}
+{104}{}{[kliknutÃ­] SvÄ›tlo na ÄernÃ© desce zezelenalo.}
+{105}{}{[kliknutÃ­] SvÄ›tlo na ÄernÃ© desce zÄervenalo.}
 {106}{}{Nic se nestalo.}
 {107}{}{Nefunguje to.}
-{108}{}{Je to dálkovì ovládanı elektronickı systém dveøí. Ten obvykle vyaduje nìjakı magnetickı klíè.}
+{108}{}{Je to dÃ¡lkovÄ› ovlÃ¡danÃ½ elektronickÃ½ systÃ©m dveÅ™Ã­. Ten obvykle vyÅ¾aduje nÄ›jakÃ½ magnetickÃ½ klÃ­Ä.}

@@ -1,130 +1,130 @@
-{100}{}{Vidíš Randala, šéfa Obchodního centra.}
-{101}{}{Vidíš mue ve støedních letech s proøídlımi èernımi vlasy.}
-{102}{}{Vidíš Randala, šéfa Obchodního centra.}
-{103}{}{Vidíš mue ve støedních letech s proøídlımi èernımi vlasy.}
+{100}{}{VidÃ­Å¡ Randala, Å¡Ã©fa ObchodnÃ­ho centra.}
+{101}{}{VidÃ­Å¡ muÅ¾e ve stÅ™ednÃ­ch letech s proÅ™Ã­dlÃ½mi ÄernÃ½mi vlasy.}
+{102}{}{VidÃ­Å¡ Randala, Å¡Ã©fa ObchodnÃ­ho centra.}
+{103}{}{VidÃ­Å¡ muÅ¾e ve stÅ™ednÃ­ch letech s proÅ™Ã­dlÃ½mi ÄernÃ½mi vlasy.}
 {104}{}{Gratuluji, }
-{105}{}{Takhle se nakopává Enklávì prd... eh, zadek!}
-{106}{}{Slyšel jsem, e se ti podaøilo nakopat zadek tìm šmejdùm na jihu. Jen tak dál.}
-{107}{}{Vetøelec! Stráe! Stráe!}
-{108}{}{Co...?! Mutant! Stráe!}
-{109}{}{Co...? Ghoul! Stráe!}
-{110}{}{Dobrı den, Kapitáne.}
-{111}{}{Vault City vdy zvítìzí, Kapitáne.}
-{112}{}{Zdravíèko, Obèane.}
-{113}{}{Vault City vdy zvítìzí, Obèane.}
-{114}{}{Musím poslat seznam pøídìlù do koloniálù A a B...}
-{115}{}{Musím sepsat nejnovìjší soupis majetku a zadat je do poèítaèe...}
-{116}{}{Schází mi DOS. S tímto novım operaèním systémem je zadávání dat sloitìjší.}
-{117}{}{První Obèanka stále potøebuje ty vıpisy...}
-{118}{}{Promiò, máme zavøeno. Pøijï ráno.}
-{119}{}{Máme zavøeno. Jen sepíšu tyhle papíry a pùjdu domù.}
-{120}{}{Vítejte, venkovane. Rád vidím nìkoho nového. Jmenuji se Randal... jsem šéf Obchodního centra. Potøebujete nìco?}
+{105}{}{Takhle se nakopÃ¡vÃ¡ EnklÃ¡vÄ› prd... eh, zadek!}
+{106}{}{SlyÅ¡el jsem, Å¾e se ti podaÅ™ilo nakopat zadek tÄ›m Å¡mejdÅ¯m na jihu. Jen tak dÃ¡l.}
+{107}{}{VetÅ™elec! StrÃ¡Å¾e! StrÃ¡Å¾e!}
+{108}{}{Co...?! Mutant! StrÃ¡Å¾e!}
+{109}{}{Co...? Ghoul! StrÃ¡Å¾e!}
+{110}{}{DobrÃ½ den, KapitÃ¡ne.}
+{111}{}{Vault City vÅ¾dy zvÃ­tÄ›zÃ­, KapitÃ¡ne.}
+{112}{}{ZdravÃ­Äko, ObÄane.}
+{113}{}{Vault City vÅ¾dy zvÃ­tÄ›zÃ­, ObÄane.}
+{114}{}{MusÃ­m poslat seznam pÅ™Ã­dÄ›lÅ¯ do koloniÃ¡lÅ¯ A a B...}
+{115}{}{MusÃ­m sepsat nejnovÄ›jÅ¡Ã­ soupis majetku a zadat je do poÄÃ­taÄe...}
+{116}{}{SchÃ¡zÃ­ mi DOS. S tÃ­mto novÃ½m operaÄnÃ­m systÃ©mem je zadÃ¡vÃ¡nÃ­ dat sloÅ¾itÄ›jÅ¡Ã­.}
+{117}{}{PrvnÃ­ ObÄanka stÃ¡le potÅ™ebuje ty vÃ½pisy...}
+{118}{}{PromiÅˆ, mÃ¡me zavÅ™eno. PÅ™ijÄ rÃ¡no.}
+{119}{}{MÃ¡me zavÅ™eno. Jen sepÃ­Å¡u tyhle papÃ­ry a pÅ¯jdu domÅ¯.}
+{120}{}{VÃ­tejte, venkovane. RÃ¡d vidÃ­m nÄ›koho novÃ©ho. Jmenuji se Randal... jsem Å¡Ã©f ObchodnÃ­ho centra. PotÅ™ebujete nÄ›co?}
 {121}{}{Gek.}
 {122}{}{Ne-eeee.}
 {123}{}{Odbelhat se.}
-{124}{}{No, jak se to vezme. Co je tohle za místo?}
+{124}{}{No, jak se to vezme. Co je tohle za mÃ­sto?}
 {125}{}{Dnes nic.}
-{126}{}{GECK? To je souprava k vytvoøení rajské zahrady, takovı šedı kuføík, e ano? Naposled se o nìm nìkdo zmínil pøed... no... vìèností.}
-{127}{}{POTØEBOVAT Gek.}
+{126}{}{GECK? To je souprava k vytvoÅ™enÃ­ rajskÃ© zahrady, takovÃ½ Å¡edÃ½ kufÅ™Ã­k, Å¾e ano? Naposled se o nÄ›m nÄ›kdo zmÃ­nil pÅ™ed... no... vÄ›ÄnostÃ­.}
+{127}{}{POTÅ˜EBOVAT Gek.}
 {128}{}{Odbelhat se.}
-{129}{}{Nemáte jeden?}
-{130}{}{Nebude vám vadit, kdy se zeptám na nìco jiného?}
-{131}{}{No, nevadí.}
-{132}{}{Asi vás zklamu, pøíteli, ale ten náš u nemáme. Byl pouit k vytvoøení Vault City... *puf.* A byl pryè.}
-{133}{}{POTØEBOVAT Gek.}
+{129}{}{NemÃ¡te jeden?}
+{130}{}{Nebude vÃ¡m vadit, kdyÅ¾ se zeptÃ¡m na nÄ›co jinÃ©ho?}
+{131}{}{No, nevadÃ­.}
+{132}{}{Asi vÃ¡s zklamu, pÅ™Ã­teli, ale ten nÃ¡Å¡ uÅ¾ nemÃ¡me. Byl pouÅ¾it k vytvoÅ™enÃ­ Vault City... *puf.* A byl pryÄ.}
+{133}{}{POTÅ˜EBOVAT Gek.}
 {134}{}{Odbelhat se.}
-{135}{}{Aha...no a nevíte o nìjakém jiném místì, kde by ho mohli mít?}
-{136}{}{Nebude vám vadit, kdy se zeptám na nìco jiného?}
-{137}{}{No, nevadí.}
-{138}{}{No, hmmm. Podle mì máte docela problém. GECK je velmi stará technologie... ve skuteènosti pøedváleèná. Nemùete ho jen tak nìkde "najít." Byly umístìny pouze do Vaultù.}
-{139}{}{POTØEBOVAT Valt.}
+{135}{}{Aha...no a nevÃ­te o nÄ›jakÃ©m jinÃ©m mÃ­stÄ›, kde by ho mohli mÃ­t?}
+{136}{}{Nebude vÃ¡m vadit, kdyÅ¾ se zeptÃ¡m na nÄ›co jinÃ©ho?}
+{137}{}{No, nevadÃ­.}
+{138}{}{No, hmmm. Podle mÄ› mÃ¡te docela problÃ©m. GECK je velmi starÃ¡ technologie... ve skuteÄnosti pÅ™edvÃ¡leÄnÃ¡. NemÅ¯Å¾ete ho jen tak nÄ›kde "najÃ­t." Byly umÃ­stÄ›ny pouze do VaultÅ¯.}
+{139}{}{POTÅ˜EBOVAT Valt.}
 {140}{}{Odbelhat se.}
-{141}{}{Nevíte, kde se nachází jiné Vaulty?}
-{142}{}{Nebude vám vadit, kdy se zeptám na nìco jiného?}
-{143}{}{No, nevadí.}
-{144}{}{Zkuste prohledat databázi centrálního poèítaèe Vaultu. Tøeba jsou v nìm souøadnice nìjakıch jinıch Vaultù. Sice o tom pochybuji, ale za pokus to stojí.}
-{145}{}{No, kdybyste mìl pøístup k našemu centrálnímu poèítaèi, moná byste našel nìjaké zmínky o jinıch Vaultech. Ale pouze Obèané mìsta mohou vstoupit do Vaultu.}
-{146}{}{Dík.}
-{147}{}{Nebude vám vadit, kdy se zeptám na nìco jiného?}
-{148}{}{Díky za informace.}
-{149}{}{Zdravím, vítejte zpìt. Mùu pro vás nìco udìlat?}
-{150}{}{Jistì. Co máte na mysli?}
+{141}{}{NevÃ­te, kde se nachÃ¡zÃ­ jinÃ© Vaulty?}
+{142}{}{Nebude vÃ¡m vadit, kdyÅ¾ se zeptÃ¡m na nÄ›co jinÃ©ho?}
+{143}{}{No, nevadÃ­.}
+{144}{}{Zkuste prohledat databÃ¡zi centrÃ¡lnÃ­ho poÄÃ­taÄe Vaultu. TÅ™eba jsou v nÄ›m souÅ™adnice nÄ›jakÃ½ch jinÃ½ch VaultÅ¯. Sice o tom pochybuji, ale za pokus to stojÃ­.}
+{145}{}{No, kdybyste mÄ›l pÅ™Ã­stup k naÅ¡emu centrÃ¡lnÃ­mu poÄÃ­taÄi, moÅ¾nÃ¡ byste naÅ¡el nÄ›jakÃ© zmÃ­nky o jinÃ½ch Vaultech. Ale pouze ObÄanÃ© mÄ›sta mohou vstoupit do Vaultu.}
+{146}{}{DÃ­k.}
+{147}{}{Nebude vÃ¡m vadit, kdyÅ¾ se zeptÃ¡m na nÄ›co jinÃ©ho?}
+{148}{}{DÃ­ky za informace.}
+{149}{}{ZdravÃ­m, vÃ­tejte zpÄ›t. MÅ¯Å¾u pro vÃ¡s nÄ›co udÄ›lat?}
+{150}{}{JistÄ›. Co mÃ¡te na mysli?}
 {151}{}{Gek?}
 {152}{}{Odbelhat se.}
-{153}{}{Co e je tohle za místo?}
-{154}{}{Nemáte náhodou na skladì GECK?}
-{155}{}{Valerie z Centra Údrby potøebuje novı montání klíè a nìjaké kleštì.}
-{156}{}{Radní McClure mi øekl, e byste mìl mít... eh, jakousi hydro-magneto-vìcièku, kterou si mùu vzít na opravu elektrárny v Gecku.}
-{157}{}{Radní McClure mi øekl, e byste mìl mít na skladì hydroelektrickı regulátor magnetosféry, kterı si mùu vzít.}
-{158}{}{První Obèanka mì sem poslala pro odmìnu.}
+{153}{}{Co Å¾e je tohle za mÃ­sto?}
+{154}{}{NemÃ¡te nÃ¡hodou na skladÄ› GECK?}
+{155}{}{Valerie z Centra ÃšdrÅ¾by potÅ™ebuje novÃ½ montÃ¡Å¾nÃ­ klÃ­Ä a nÄ›jakÃ© kleÅ¡tÄ›.}
+{156}{}{RadnÃ­ McClure mi Å™ekl, Å¾e byste mÄ›l mÃ­t... eh, jakousi hydro-magneto-vÄ›ciÄku, kterou si mÅ¯Å¾u vzÃ­t na opravu elektrÃ¡rny v Gecku.}
+{157}{}{RadnÃ­ McClure mi Å™ekl, Å¾e byste mÄ›l mÃ­t na skladÄ› hydroelektrickÃ½ regulÃ¡tor magnetosfÃ©ry, kterÃ½ si mÅ¯Å¾u vzÃ­t.}
+{158}{}{PrvnÃ­ ObÄanka mÄ› sem poslala pro odmÄ›nu.}
 {159}{}{Dnes nic.}
-{160}{}{Toto je Obchodní centrum. Máme standardní zboí... základní ivotní potøeby, knihy, pøíruèky "Jak na to", náøadí, Stimpaky, lékaøské potøeby a tak podobnì.}
-{161}{}{To zní dobøe. Mùu vidìt, co máte na skladì?}
-{162}{}{Nemáš GECK?}
-{163}{}{Valerie z Centra Údrby potøebuje novı montání klíè a nìjaké kleštì.}
-{164}{}{Radní McClure mi øekl, e byste mìl mít... eh, jakousi hydro-magneto-vìcièku, kterou si mùu vzít na opravu elektrárny v Gecku.}
-{165}{}{Radní McClure mi øekl, e byste mìl mít na skladì hydroelektrickı regulátor magnetosféry, kterı si mùu vzít.}
-{166}{}{První Obèanka mì sem poslala pro odmìnu.}
-{167}{}{Nebude vám vadit, kdy se zeptám na nìco jiného?}
-{168}{}{Moná se vrátím pozdìji.}
-{169}{}{Promiòte, e vás pøerušuji, ale jsem oprávnìnı uzavírat obchody jen s Obèany. Bez uráky, ale takovı je zákon. Zkuste obchod Šastného Harryho na Pøedmìstí.}
-{170}{}{Promiòte, e vás pøerušuji, ale jsem oprávnìnı uzavírat obchody jen s Obèany. Bez uráky, ale takovı je zákon. Zkuste obchod Šastného Harryho na Pøedmìstí.}
-{171}{}{Jak se mùu stát Obèanem?}
-{172}{}{Ale... eh, já jsem Obèan. Copak si na mì nevzpomínáte?}
-{173}{}{Podívejte, moje peníze jsou stejnì dobré jako od Obèanù.}
-{174}{}{Radní McClure mi øekl, e byste mìl mít na skladì hydroelektrickı regulátor magnetosféry, kterı si mùu vzít.}
-{175}{}{První Obèanka mì sem poslala pro odmìnu.}
-{176}{}{Nebude vám vadit, kdy se zeptám na nìco jiného?}
+{160}{}{Toto je ObchodnÃ­ centrum. MÃ¡me standardnÃ­ zboÅ¾Ã­... zÃ¡kladnÃ­ Å¾ivotnÃ­ potÅ™eby, knihy, pÅ™Ã­ruÄky "Jak na to", nÃ¡Å™adÃ­, Stimpaky, lÃ©kaÅ™skÃ© potÅ™eby a tak podobnÄ›.}
+{161}{}{To znÃ­ dobÅ™e. MÅ¯Å¾u vidÄ›t, co mÃ¡te na skladÄ›?}
+{162}{}{NemÃ¡Å¡ GECK?}
+{163}{}{Valerie z Centra ÃšdrÅ¾by potÅ™ebuje novÃ½ montÃ¡Å¾nÃ­ klÃ­Ä a nÄ›jakÃ© kleÅ¡tÄ›.}
+{164}{}{RadnÃ­ McClure mi Å™ekl, Å¾e byste mÄ›l mÃ­t... eh, jakousi hydro-magneto-vÄ›ciÄku, kterou si mÅ¯Å¾u vzÃ­t na opravu elektrÃ¡rny v Gecku.}
+{165}{}{RadnÃ­ McClure mi Å™ekl, Å¾e byste mÄ›l mÃ­t na skladÄ› hydroelektrickÃ½ regulÃ¡tor magnetosfÃ©ry, kterÃ½ si mÅ¯Å¾u vzÃ­t.}
+{166}{}{PrvnÃ­ ObÄanka mÄ› sem poslala pro odmÄ›nu.}
+{167}{}{Nebude vÃ¡m vadit, kdyÅ¾ se zeptÃ¡m na nÄ›co jinÃ©ho?}
+{168}{}{MoÅ¾nÃ¡ se vrÃ¡tÃ­m pozdÄ›ji.}
+{169}{}{PromiÅˆte, Å¾e vÃ¡s pÅ™eruÅ¡uji, ale jsem oprÃ¡vnÄ›nÃ½ uzavÃ­rat obchody jen s ObÄany. Bez urÃ¡Å¾ky, ale takovÃ½ je zÃ¡kon. Zkuste obchod Å Å¥astnÃ©ho Harryho na PÅ™edmÄ›stÃ­.}
+{170}{}{PromiÅˆte, Å¾e vÃ¡s pÅ™eruÅ¡uji, ale jsem oprÃ¡vnÄ›nÃ½ uzavÃ­rat obchody jen s ObÄany. Bez urÃ¡Å¾ky, ale takovÃ½ je zÃ¡kon. Zkuste obchod Å Å¥astnÃ©ho Harryho na PÅ™edmÄ›stÃ­.}
+{171}{}{Jak se mÅ¯Å¾u stÃ¡t ObÄanem?}
+{172}{}{Ale... eh, jÃ¡ jsem ObÄan. Copak si na mÄ› nevzpomÃ­nÃ¡te?}
+{173}{}{PodÃ­vejte, moje penÃ­ze jsou stejnÄ› dobrÃ© jako od ObÄanÅ¯.}
+{174}{}{RadnÃ­ McClure mi Å™ekl, Å¾e byste mÄ›l mÃ­t na skladÄ› hydroelektrickÃ½ regulÃ¡tor magnetosfÃ©ry, kterÃ½ si mÅ¯Å¾u vzÃ­t.}
+{175}{}{PrvnÃ­ ObÄanka mÄ› sem poslala pro odmÄ›nu.}
+{176}{}{Nebude vÃ¡m vadit, kdyÅ¾ se zeptÃ¡m na nÄ›co jinÃ©ho?}
 {177}{}{To je jedno. Sbohem.}
-{178}{}{Mùete zkusit test Obèanství. Prokonzul Gregory ho dá kadému venkovanovi, kterı se chce stát Obèanem. Ale radìji si nejdøív promluvte s První Obèankou Lynette. Ona to tu tak nìjak øídí.}
-{179}{}{Dobøe. Kde ji najdu?}
-{180}{}{Aha. Nebude vám vadit, kdy se zeptám na nìco jiného?}
-{181}{}{Díky za informace. Pùjdu si s ní promluvit.}
-{182}{}{Je v budovì radnice... vyjdìte z této budovy, dejte se doprava a poté stále rovnì kolem parku. Nemùete to minout.}
-{183}{}{Aha. Nebude vám vadit, kdy se zeptám na nìco jiného?}
-{184}{}{Díky za informace. Pùjdu si s ní promluvit.}
-{185}{}{Opravdu? Vùbec si na vás nevzpomínám. Máte nìjaké doklady? To by mi mohlo oivit pamì.}
-{186}{}{Ne, zrovna je u sebe nemám.}
+{178}{}{MÅ¯Å¾ete zkusit test ObÄanstvÃ­. Prokonzul Gregory ho dÃ¡ kaÅ¾dÃ©mu venkovanovi, kterÃ½ se chce stÃ¡t ObÄanem. Ale radÄ›ji si nejdÅ™Ã­v promluvte s PrvnÃ­ ObÄankou Lynette. Ona to tu tak nÄ›jak Å™Ã­dÃ­.}
+{179}{}{DobÅ™e. Kde ji najdu?}
+{180}{}{Aha. Nebude vÃ¡m vadit, kdyÅ¾ se zeptÃ¡m na nÄ›co jinÃ©ho?}
+{181}{}{DÃ­ky za informace. PÅ¯jdu si s nÃ­ promluvit.}
+{182}{}{Je v budovÄ› radnice... vyjdÄ›te z tÃ©to budovy, dejte se doprava a potÃ© stÃ¡le rovnÄ› kolem parku. NemÅ¯Å¾ete to minout.}
+{183}{}{Aha. Nebude vÃ¡m vadit, kdyÅ¾ se zeptÃ¡m na nÄ›co jinÃ©ho?}
+{184}{}{DÃ­ky za informace. PÅ¯jdu si s nÃ­ promluvit.}
+{185}{}{Opravdu? VÅ¯bec si na vÃ¡s nevzpomÃ­nÃ¡m. MÃ¡te nÄ›jakÃ© doklady? To by mi mohlo oÅ¾ivit pamÄ›Å¥.}
+{186}{}{Ne, zrovna je u sebe nemÃ¡m.}
 {187}{}{Ano. Tady jsou.}
-{188}{}{Nevadí. Promluvíme si pozdìji.}
-{189}{}{Dobøe, tak já je projedu pøes tuhle èteèku a uvidíme. Zabere to jenom chvilku.}
-{190}{}{H...?! Hej! Vrate mi ty doklady!}
-{191}{}{Eh... vlastnì teï nemám na nakupování èas. Vrate mi zpìt moje doklady a já si pùjdu svojí cestou.}
-{192}{}{Dobøe. Jsem si jistı, e je vše v poøádku.}
-{193}{}{No... eh, dobøe.}
-{194}{}{Nebude ti vadit, kdy se na nìco zeptám?}
-{195}{}{Uvidíme se pozdìji.}
-{196}{}{Všechno v poøádku. Tady jsou vaše doklady. Co pro vás mohu udìlat?}
-{197}{}{Ukate mi co máte na skladì.}
-{198}{}{Vlastnì, nebude vám vadit, kdy se na nìco zeptám?}
+{188}{}{NevadÃ­. PromluvÃ­me si pozdÄ›ji.}
+{189}{}{DobÅ™e, tak jÃ¡ je projedu pÅ™es tuhle ÄteÄku a uvidÃ­me. Zabere to jenom chvilku.}
+{190}{}{H...?! Hej! VraÅ¥te mi ty doklady!}
+{191}{}{Eh... vlastnÄ› teÄ nemÃ¡m na nakupovÃ¡nÃ­ Äas. VraÅ¥te mi zpÄ›t moje doklady a jÃ¡ si pÅ¯jdu svojÃ­ cestou.}
+{192}{}{DobÅ™e. Jsem si jistÃ½, Å¾e je vÅ¡e v poÅ™Ã¡dku.}
+{193}{}{No... eh, dobÅ™e.}
+{194}{}{Nebude ti vadit, kdyÅ¾ se na nÄ›co zeptÃ¡m?}
+{195}{}{UvidÃ­me se pozdÄ›ji.}
+{196}{}{VÅ¡echno v poÅ™Ã¡dku. Tady jsou vaÅ¡e doklady. Co pro vÃ¡s mohu udÄ›lat?}
+{197}{}{UkaÅ¾te mi co mÃ¡te na skladÄ›.}
+{198}{}{VlastnÄ›, nebude vÃ¡m vadit, kdyÅ¾ se na nÄ›co zeptÃ¡m?}
 {199}{}{Dnes nic.}
-{200}{}{Take... vy jste Obèan }
-{201}{}{Jo, øekl mi, e se zastavíte... }
-{202}{}{Tak dobøe.}
-{203}{}{Vlastnì nevadí, vrátím se pro nìj pozdìji.}
-{204}{}{Dobøe, tady to máte. Jeden Hy-Mag. Vypadá to jako lávová lampa, e ano? Pozor, neupuste to... je to dost køehké.}
-{205}{}{Poslyšte, co máte ještì na skladì?}
-{206}{}{Nebude ti vadit, kdy se na nìco zeptám?}
-{207}{}{Díky. Moná do toho budu civìt nìkolik hodin, ne to odnesu do elektrárny v Gecku.}
-{208}{}{Mám to. Díky za souèástku.}
-{209}{}{Jo, První Obèanka øíkala, e se zastavíte... Kapitáne. (Mrkne.) Musím øíct, Kapitáne, e na vás èeká poøádná KRÁSKA.}
-{210}{}{Jo, První Obèanka øíkala, e se zastavíte. No, musím øíct, pøíteli, e na vás èeká poøádná KRÁSKA.}
+{200}{}{TakÅ¾e... vy jste ObÄan }
+{201}{}{Jo, Å™ekl mi, Å¾e se zastavÃ­te... }
+{202}{}{Tak dobÅ™e.}
+{203}{}{VlastnÄ› nevadÃ­, vrÃ¡tÃ­m se pro nÄ›j pozdÄ›ji.}
+{204}{}{DobÅ™e, tady to mÃ¡te. Jeden Hy-Mag. VypadÃ¡ to jako lÃ¡vovÃ¡ lampa, Å¾e ano? Pozor, neupusÅ¥te to... je to dost kÅ™ehkÃ©.}
+{205}{}{PoslyÅ¡te, co mÃ¡te jeÅ¡tÄ› na skladÄ›?}
+{206}{}{Nebude ti vadit, kdyÅ¾ se na nÄ›co zeptÃ¡m?}
+{207}{}{DÃ­ky. MoÅ¾nÃ¡ do toho budu civÄ›t nÄ›kolik hodin, neÅ¾ to odnesu do elektrÃ¡rny v Gecku.}
+{208}{}{MÃ¡m to. DÃ­ky za souÄÃ¡stku.}
+{209}{}{Jo, PrvnÃ­ ObÄanka Å™Ã­kala, Å¾e se zastavÃ­te... KapitÃ¡ne. (Mrkne.) MusÃ­m Å™Ã­ct, KapitÃ¡ne, Å¾e na vÃ¡s ÄekÃ¡ poÅ™Ã¡dnÃ¡ KRÃSKA.}
+{210}{}{Jo, PrvnÃ­ ObÄanka Å™Ã­kala, Å¾e se zastavÃ­te. No, musÃ­m Å™Ã­ct, pÅ™Ã­teli, Å¾e na vÃ¡s ÄekÃ¡ poÅ™Ã¡dnÃ¡ KRÃSKA.}
 {211}{}{Co to je?}
-{212}{}{Vlastnì chci, abyste mi to schoval. Vyzvednu si to pozdìji.}
-{213}{}{Unikátní Heckler&Koch G11, jedna z nejlepších útoènıch zbraní, která kdy byla vyrobena... (Vezme zbraò a podá ti ji.) ...støílí beznábojnicové 4.7 mm støelivo a má 50ti-ranı zásobník. Kdy zpívá, lidi poslouchají.}
-{214}{}{To vìøím. Díky.}
-{215}{}{ádnı problém. A tady máte ještì nìco ode mì... pár granátù. Berte to jako podìkování za zlikvidování tìch nájezdníkù.}
-{216}{}{Vıbornì. Mùu se podívat, co máte na skladì?}
-{217}{}{Mùu se vás ještì na nìco zeptat?}
-{218}{}{Díky. Budou se hodit.}
-{219}{}{Bude to všechno?}
-{220}{}{Nebude vám vadit, kdy se zeptám na nìco jiného?}
-{221}{}{Jo, to bude pro dnešek všechno.}
-{222}{}{Jo, já vím. Stále èekám na vıdejku, ale chvíli to potrvá. Nevím, co na to mám øíct. Prostì to trvá dlouho.}
-{223}{}{Aha. Nebude vám vadit, kdy se zeptám na nìco jiného?}
-{224}{}{Tak já zkusím najít to náøadí nìkde jinde.}
+{212}{}{VlastnÄ› chci, abyste mi to schoval. Vyzvednu si to pozdÄ›ji.}
+{213}{}{UnikÃ¡tnÃ­ Heckler&Koch G11, jedna z nejlepÅ¡Ã­ch ÃºtoÄnÃ½ch zbranÃ­, kterÃ¡ kdy byla vyrobena... (Vezme zbraÅˆ a podÃ¡ ti ji.) ...stÅ™Ã­lÃ­ beznÃ¡bojnicovÃ© 4.7 mm stÅ™elivo a mÃ¡ 50ti-ranÃ½ zÃ¡sobnÃ­k. KdyÅ¾ zpÃ­vÃ¡, lidi poslouchajÃ­.}
+{214}{}{To vÄ›Å™Ã­m. DÃ­ky.}
+{215}{}{Å½Ã¡dnÃ½ problÃ©m. A tady mÃ¡te jeÅ¡tÄ› nÄ›co ode mÄ›... pÃ¡r granÃ¡tÅ¯. Berte to jako podÄ›kovÃ¡nÃ­ za zlikvidovÃ¡nÃ­ tÄ›ch nÃ¡jezdnÃ­kÅ¯.}
+{216}{}{VÃ½bornÄ›. MÅ¯Å¾u se podÃ­vat, co mÃ¡te na skladÄ›?}
+{217}{}{MÅ¯Å¾u se vÃ¡s jeÅ¡tÄ› na nÄ›co zeptat?}
+{218}{}{DÃ­ky. Budou se hodit.}
+{219}{}{Bude to vÅ¡echno?}
+{220}{}{Nebude vÃ¡m vadit, kdyÅ¾ se zeptÃ¡m na nÄ›co jinÃ©ho?}
+{221}{}{Jo, to bude pro dneÅ¡ek vÅ¡echno.}
+{222}{}{Jo, jÃ¡ vÃ­m. StÃ¡le ÄekÃ¡m na vÃ½dejku, ale chvÃ­li to potrvÃ¡. NevÃ­m, co na to mÃ¡m Å™Ã­ct. ProstÄ› to trvÃ¡ dlouho.}
+{223}{}{Aha. Nebude vÃ¡m vadit, kdyÅ¾ se zeptÃ¡m na nÄ›co jinÃ©ho?}
+{224}{}{Tak jÃ¡ zkusÃ­m najÃ­t to nÃ¡Å™adÃ­ nÄ›kde jinde.}
 {225}{}{!}
-{226}{}{, e? Poèkejte chvíli, dám vám ten hydroelektrickı magneto... eh, Hy-Mag.}
-{227}{}{, ano? Poèkejte chvíli, dám vám ten hydroelektrickı magneto... eh, Hy-Mag.}
-{228}{}{Díky.}
-{229}{}{[Pokraèovat]}
+{226}{}{, Å¾e? PoÄkejte chvÃ­li, dÃ¡m vÃ¡m ten hydroelektrickÃ½ magneto... eh, Hy-Mag.}
+{227}{}{, ano? PoÄkejte chvÃ­li, dÃ¡m vÃ¡m ten hydroelektrickÃ½ magneto... eh, Hy-Mag.}
+{228}{}{DÃ­ky.}
+{229}{}{[PokraÄovat]}

@@ -1,90 +1,90 @@
-{100}{}{Vidíš Martina.}
-{101}{}{Vidíš rychle mrkajícího chlapíka s otevøenou pusou.}
-{102}{}{Vidíš Martina.}
-{103}{}{Vidíš rychle mrkajícího chlapíka s otevøenou pusou.}
-{104}{}{Díky, e jsi nás za-za-zachránil. Do-doslechl jsem se o tom i ta-ta-tady dole.}
-{105}{}{Po-pomóc! Vetøelec!}
-{106}{}{Mu-mu-mutant! Pomóc!}
-{107}{}{Gh-gh-ghoul! Pomóc!}
+{100}{}{VidÃ­Å¡ Martina.}
+{101}{}{VidÃ­Å¡ rychle mrkajÃ­cÃ­ho chlapÃ­ka s otevÅ™enou pusou.}
+{102}{}{VidÃ­Å¡ Martina.}
+{103}{}{VidÃ­Å¡ rychle mrkajÃ­cÃ­ho chlapÃ­ka s otevÅ™enou pusou.}
+{104}{}{DÃ­ky, Å¾e jsi nÃ¡s za-za-zachrÃ¡nil. Do-doslechl jsem se o tom i ta-ta-tady dole.}
+{105}{}{Po-pomÃ³c! VetÅ™elec!}
+{106}{}{Mu-mu-mutant! PomÃ³c!}
+{107}{}{Gh-gh-ghoul! PomÃ³c!}
 {108}{}{::Bum-ta-ra-ta-bum::}
-{109}{}{2 vteøiny}
+{109}{}{2 vteÅ™iny}
 {110}{}{"Maaaay-beeee..."}
-{111}{}{2 vteøiny}
+{111}{}{2 vteÅ™iny}
 {112}{}{"Yoooou'll think of meee...when you are alllll alone..."}
-{113}{}{2 vteøiny}
+{113}{}{2 vteÅ™iny}
 {114}{}{"Maaaay-beeee...the one whooo...is waaaaai-ting for yooou..."}
-{115}{}{2 vteøiny}
+{115}{}{2 vteÅ™iny}
 {116}{}{"...will prove un-truuuuuue..."}
-{117}{}{2 vteøiny}
+{117}{}{2 vteÅ™iny}
 {118}{}{"...then what will yooou dooooo?"}
-{119}{}{2 vteøiny}
-{120}{}{::Nìmı potlesk, davy jásají::}
-{121}{}{2 vteøiny}
-{122}{}{Dì-dìkuji vám, dì-dì-dìkuji vám... js-js-jste bá-bájeèné publikum.}
-{123}{}{2 vteøiny}
-{124}{}{O-o-opakovat? Do-dobøe!}
+{119}{}{2 vteÅ™iny}
+{120}{}{::NÄ›mÃ½ potlesk, davy jÃ¡sajÃ­::}
+{121}{}{2 vteÅ™iny}
+{122}{}{DÄ›-dÄ›kuji vÃ¡m, dÄ›-dÄ›-dÄ›kuji vÃ¡m... js-js-jste bÃ¡-bÃ¡jeÄnÃ© publikum.}
+{123}{}{2 vteÅ™iny}
+{124}{}{O-o-opakovat? Do-dobÅ™e!}
 {125}{}{*smrk*}
-{126}{}{Co...?! Ááááá!}
-{127}{}{Áááááá!}
-{128}{}{Hej, dávej bacha!}
-{129}{}{Co máš sakra za problém?! Uklidni se!}
-{130}{}{M-m-málem jsi mì vy-vydìsil k smrti.}
-{131}{}{Ááááááá! Ááááááá!}
-{132}{}{Omlouvám se, nechtìl jsem tì vylekat.}
-{133}{}{Mo-mo-moná, kdy budeš vìnovat víc pozornosti tomu, co se dìje kolem tebe, nedostaneme z toho OBA infarkt, kamaráde.}
-{134}{}{To-to je v pohodì.}
-{135}{}{J-jasnì.}
-{136}{}{To víš, m-m-moc lidí do V-vaultu n-nechodí.}
-{137}{}{(To je v poøádku. To víš, moc lidí do Vaultu nechodí.)}
-{138}{}{(Promiò. To víš, moc lidí do Vaultu nechodí.)}
-{139}{}{Co tady dìláš?}
-{140}{}{Mùeš mi øíct, kde je centrální poèítaè Vaultu?}
-{141}{}{Aha. Hezky jsme si popovídali. Sbohem.}
-{142}{}{Je p-pøímo ta-ta-támhle... te-ten mluvící po-po-poèítaè.}
-{143}{}{(Je pøímo támhle. Ten mluvící poèítaè.)}
-{144}{}{Co tady dìláš?}
-{145}{}{Díky. Sbohem.}
-{146}{}{H-h-hlídám vìci us-uskladnìné ta-ta-ta-tady do-dole a u-u-ujištuju se-se, e jsou všechny dveøe za-za-zamknuté.}
-{147}{}{(Hlídám vìci uskladnìné tady dole a ujišuju se, e jsou všechny dveøe zamknuté.)}
-{148}{}{Máš nìjakı klíè?}
+{126}{}{Co...?! ÃÃ¡Ã¡Ã¡Ã¡!}
+{127}{}{ÃÃ¡Ã¡Ã¡Ã¡Ã¡!}
+{128}{}{Hej, dÃ¡vej bacha!}
+{129}{}{Co mÃ¡Å¡ sakra za problÃ©m?! Uklidni se!}
+{130}{}{M-m-mÃ¡lem jsi mÄ› vy-vydÄ›sil k smrti.}
+{131}{}{ÃÃ¡Ã¡Ã¡Ã¡Ã¡Ã¡! ÃÃ¡Ã¡Ã¡Ã¡Ã¡Ã¡!}
+{132}{}{OmlouvÃ¡m se, nechtÄ›l jsem tÄ› vylekat.}
+{133}{}{Mo-mo-moÅ¾nÃ¡, kdyÅ¾ budeÅ¡ vÄ›novat vÃ­c pozornosti tomu, co se dÄ›je kolem tebe, nedostaneme z toho OBA infarkt, kamarÃ¡de.}
+{134}{}{To-to je v pohodÄ›.}
+{135}{}{J-jasnÄ›.}
+{136}{}{To vÃ­Å¡, m-m-moc lidÃ­ do V-vaultu n-nechodÃ­.}
+{137}{}{(To je v poÅ™Ã¡dku. To vÃ­Å¡, moc lidÃ­ do Vaultu nechodÃ­.)}
+{138}{}{(PromiÅˆ. To vÃ­Å¡, moc lidÃ­ do Vaultu nechodÃ­.)}
+{139}{}{Co tady dÄ›lÃ¡Å¡?}
+{140}{}{MÅ¯Å¾eÅ¡ mi Å™Ã­ct, kde je centrÃ¡lnÃ­ poÄÃ­taÄ Vaultu?}
+{141}{}{Aha. Hezky jsme si popovÃ­dali. Sbohem.}
+{142}{}{Je p-pÅ™Ã­mo ta-ta-tÃ¡mhle... te-ten mluvÃ­cÃ­ po-po-poÄÃ­taÄ.}
+{143}{}{(Je pÅ™Ã­mo tÃ¡mhle. Ten mluvÃ­cÃ­ poÄÃ­taÄ.)}
+{144}{}{Co tady dÄ›lÃ¡Å¡?}
+{145}{}{DÃ­ky. Sbohem.}
+{146}{}{H-h-hlÃ­dÃ¡m vÄ›ci us-uskladnÄ›nÃ© ta-ta-ta-tady do-dole a u-u-ujiÅ¡tuju se-se, Å¾e jsou vÅ¡echny dveÅ™e za-za-zamknutÃ©.}
+{147}{}{(HlÃ­dÃ¡m vÄ›ci uskladnÄ›nÃ© tady dole a ujiÅ¡Å¥uju se, Å¾e jsou vÅ¡echny dveÅ™e zamknutÃ©.)}
+{148}{}{MÃ¡Å¡ nÄ›jakÃ½ klÃ­Ä?}
 {149}{}{Co tady dole skladujete?}
-{150}{}{Jen se tak dívám. Nashle.}
-{151}{}{Ne-e. Ale to nevadí, protoe v-v-vìtšina dveøí je-je-je ta-ta-tak jako ta-ta-tak za-za-zaseklá.}
-{152}{}{(Ne. Ale to nevadí, protoe vìtšina dveøí je tak jako tak zaseklá.)}
+{150}{}{Jen se tak dÃ­vÃ¡m. Nashle.}
+{151}{}{Ne-e. Ale to nevadÃ­, protoÅ¾e v-v-vÄ›tÅ¡ina dveÅ™Ã­ je-je-je ta-ta-tak jako ta-ta-tak za-za-zaseklÃ¡.}
+{152}{}{(Ne. Ale to nevadÃ­, protoÅ¾e vÄ›tÅ¡ina dveÅ™Ã­ je tak jako tak zaseklÃ¡.)}
 {153}{}{Co tady dole skladujete?}
-{154}{}{Jen se tak dívám. Nashle.}
-{155}{}{Na-na-náhradní s-s-souèástky... z-z-zásoby... a ru-ru-rudu...}
-{156}{}{(Náhradní souèástky, zásoby a rudu.)}
+{154}{}{Jen se tak dÃ­vÃ¡m. Nashle.}
+{155}{}{Na-na-nÃ¡hradnÃ­ s-s-souÄÃ¡stky... z-z-zÃ¡soby... a ru-ru-rudu...}
+{156}{}{(NÃ¡hradnÃ­ souÄÃ¡stky, zÃ¡soby a rudu.)}
 {157}{}{Rudu?}
-{158}{}{Aha. Díky za informaci.}
-{159}{}{Eh... ru-ru-rudu z Re-Re-Redingu. A-a-ale u-u-u ne-ne-né to-to-tolik j-jako døív.}
-{160}{}{(Rudu z Redingu. Ale u ne tolik jako døív.)}
-{161}{}{Skladujete ménì rudy z Reddingu ne døív? Jak to?}
-{162}{}{Aha. Díky za informaci.}
-{163}{}{T-to ne-ne-nevím. Mm-McClure je z t-toho v-v-velmi z-z-znepokojenı.}
-{164}{}{(To nevím. McClure je z toho velmi znepokojenı.)}
-{165}{}{Mùeš mi øíct, kde je centrální poèítaè?}
-{166}{}{Moná si s ním pak promluvím. Díky.}
-{167}{}{N-n-nazdar. C-c-co po-potøebuješ?}
-{168}{}{(Nazdar. Co potøebuješ?)}
+{158}{}{Aha. DÃ­ky za informaci.}
+{159}{}{Eh... ru-ru-rudu z Re-Re-Redingu. A-a-ale u-u-uÅ¾ ne-ne-nÃ© to-to-tolik j-jako dÅ™Ã­v.}
+{160}{}{(Rudu z Redingu. Ale uÅ¾ ne tolik jako dÅ™Ã­v.)}
+{161}{}{Skladujete mÃ©nÄ› rudy z Reddingu neÅ¾ dÅ™Ã­v? Jak to?}
+{162}{}{Aha. DÃ­ky za informaci.}
+{163}{}{T-to ne-ne-nevÃ­m. Mm-McClure je z t-toho v-v-velmi z-z-znepokojenÃ½.}
+{164}{}{(To nevÃ­m. McClure je z toho velmi znepokojenÃ½.)}
+{165}{}{MÅ¯Å¾eÅ¡ mi Å™Ã­ct, kde je centrÃ¡lnÃ­ poÄÃ­taÄ?}
+{166}{}{MoÅ¾nÃ¡ si s nÃ­m pak promluvÃ­m. DÃ­ky.}
+{167}{}{N-n-nazdar. C-c-co po-potÅ™ebujeÅ¡?}
+{168}{}{(Nazdar. Co potÅ™ebujeÅ¡?)}
 {169}{}{Gek.}
-{170}{}{Mùeš pøestat s tím zatracenım zpíváním?! Pøivádí mì to k šílenství.}
-{171}{}{Máš hezkı hlas. Mìl bys cvièit.}
-{172}{}{Co jsi øíkal, e tady dìláš?}
-{173}{}{Zapomeò na to. Omlouvám se za obtìování.}
-{174}{}{Dí-dí-díky! To je od tebe hezkı.}
-{175}{}{Co jsi øíkal, e tady dìláš?}
-{176}{}{Jen jsem si øíkal, e bys to mìl vìdìt. Mìj se.}
-{177}{}{J-j-jasnì. N-n-nechám toho.}
-{178}{}{(Jasnì. Nechám toho.)}
-{179}{}{Take... co jsi øíkal, e tady dìláš?}
-{180}{}{Skvìle. Udìlej svìtu slubu a buï zticha.}
-{181}{}{Ty-ty-ty mu-mu-muset bıt S-ticha! Pššššš!}
-{182}{}{Promiò.}
-{183}{}{Cc-co ta-ta-tady do-do-dole dìláš?!}
+{170}{}{MÅ¯Å¾eÅ¡ pÅ™estat s tÃ­m zatracenÃ½m zpÃ­vÃ¡nÃ­m?! PÅ™ivÃ¡dÃ­ mÄ› to k Å¡Ã­lenstvÃ­.}
+{171}{}{MÃ¡Å¡ hezkÃ½ hlas. MÄ›l bys cviÄit.}
+{172}{}{Co jsi Å™Ã­kal, Å¾e tady dÄ›lÃ¡Å¡?}
+{173}{}{ZapomeÅˆ na to. OmlouvÃ¡m se za obtÄ›Å¾ovÃ¡nÃ­.}
+{174}{}{DÃ­-dÃ­-dÃ­ky! To je od tebe hezkÃ½.}
+{175}{}{Co jsi Å™Ã­kal, Å¾e tady dÄ›lÃ¡Å¡?}
+{176}{}{Jen jsem si Å™Ã­kal, Å¾e bys to mÄ›l vÄ›dÄ›t. MÄ›j se.}
+{177}{}{J-j-jasnÄ›. N-n-nechÃ¡m toho.}
+{178}{}{(JasnÄ›. NechÃ¡m toho.)}
+{179}{}{TakÅ¾e... co jsi Å™Ã­kal, Å¾e tady dÄ›lÃ¡Å¡?}
+{180}{}{SkvÄ›le. UdÄ›lej svÄ›tu sluÅ¾bu a buÄ zticha.}
+{181}{}{Ty-ty-ty mu-mu-muset bÃ½t S-ticha! PÅ¡Å¡Å¡Å¡Å¡!}
+{182}{}{PromiÅˆ.}
+{183}{}{Cc-co ta-ta-tady do-do-dole dÄ›lÃ¡Å¡?!}
 {184}{}{GEK.}
-{185}{}{Ge-ge-GECK? M-m-mùeš se po-po-podívat do po-po-poèítaèe... do t-té m-mluvící s-skøínì.}
-{186}{}{Dobøe. Dík.}
+{185}{}{Ge-ge-GECK? M-m-mÅ¯Å¾eÅ¡ se po-po-podÃ­vat do po-po-poÄÃ­taÄe... do t-tÃ© m-mluvÃ­cÃ­ s-skÅ™Ã­nÄ›.}
+{186}{}{DobÅ™e. DÃ­k.}
 {187}{}{Ch-rr-rr-chrrrrrrr}
-{188}{}{Ne-nepøibliuj se-se k tì-tì-tìm dveøím!}
+{188}{}{Ne-nepÅ™ibliÅ¾uj se-se k tÄ›-tÄ›-tÄ›m dveÅ™Ã­m!}
 {189}{}{Chrrrrrrrrrrr.}

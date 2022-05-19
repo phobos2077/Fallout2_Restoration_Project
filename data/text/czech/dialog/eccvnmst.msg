@@ -1,50 +1,50 @@
-{100}{}{Vidíš správce karavany.}
-{101}{}{Díky Bohu, e jsi tady. Je èím dál tìší dostat se z místa na místo bez toho, ani by byl èlovìk nìkım nebo nìèím pøepaden.}
-{102}{}{Co pro tebe mùu udìlat?}
-{103}{}{Kam máš namíøeno?}
+{100}{}{VidÃ­Å¡ sprÃ¡vce karavany.}
+{101}{}{DÃ­ky Bohu, Å¾e jsi tady. Je ÄÃ­m dÃ¡l tÄ›Å¾Å¡Ã­ dostat se z mÃ­sta na mÃ­sto bez toho, aniÅ¾ by byl ÄlovÄ›k nÄ›kÃ½m nebo nÄ›ÄÃ­m pÅ™epaden.}
+{102}{}{Co pro tebe mÅ¯Å¾u udÄ›lat?}
+{103}{}{Kam mÃ¡Å¡ namÃ­Å™eno?}
 {104}{}{Co vezete?}
 {105}{}{Nashle.}
 {106}{}{Eh.}
-{107}{}{Právì jsem vyzvedl zásilku z }
-{108}{}{ a mám namíøeno do }
+{107}{}{PrÃ¡vÄ› jsem vyzvedl zÃ¡silku z }
+{108}{}{ a mÃ¡m namÃ­Å™eno do }
 {109}{}{.}
 {110}{}{Co vezete?}
 {111}{}{Nashle.}
 {112}{}{Vezeme }
-{113}{}{Myslíš, e bysme spolu mohli obchodovat?}
-{114}{}{Kam máš namíøeno?}
+{113}{}{MyslÃ­Å¡, Å¾e bysme spolu mohli obchodovat?}
+{114}{}{Kam mÃ¡Å¡ namÃ­Å™eno?}
 {115}{}{Nashle.}
-{116}{}{No, proè ne. Uváím-li, e jsi nám pomohl, kdy bylo nejhùø a tak. Jasnì, proè ne. Tady je moje nabídka.}
+{116}{}{No, proÄ ne. UvÃ¡Å¾Ã­m-li, Å¾e jsi nÃ¡m pomohl, kdyÅ¾ bylo nejhÅ¯Å™ a tak. JasnÄ›, proÄ ne. Tady je moje nabÃ­dka.}
 {117}{}{[Obchodovat]}
 {118}{}{Rozmyslel jsem si to.}
-{119}{}{Tebe u jsem nìkde vidìl. Do prdele! Tvoje fotka je všude na tìch plakátech "hledá se". Podívej, nechceme ádné potíe. Ty si jdi vlastní cestou a my pùjdeme tou svojí. Nikomu neøeknu, e jsme tì vidìli. A teï u jdi!}
-{120}{}{Hej! Tvoje fotka je na všech plakátech "hledá se". Neboj se, já tì neudám. Pokud si dobøe pamatuju, je po mnì na nìkolika místech taky vyhlášeno pátrání. Take ty chceš obchodovat...}
+{119}{}{Tebe uÅ¾ jsem nÄ›kde vidÄ›l. Do prdele! Tvoje fotka je vÅ¡ude na tÄ›ch plakÃ¡tech "hledÃ¡ se". PodÃ­vej, nechceme Å¾Ã¡dnÃ© potÃ­Å¾e. Ty si jdi vlastnÃ­ cestou a my pÅ¯jdeme tou svojÃ­. Nikomu neÅ™eknu, Å¾e jsme tÄ› vidÄ›li. A teÄ uÅ¾ jdi!}
+{120}{}{Hej! Tvoje fotka je na vÅ¡ech plakÃ¡tech "hledÃ¡ se". Neboj se, jÃ¡ tÄ› neudÃ¡m. Pokud si dobÅ™e pamatuju, je po mnÄ› na nÄ›kolika mÃ­stech taky vyhlÃ¡Å¡eno pÃ¡trÃ¡nÃ­. TakÅ¾e ty chceÅ¡ obchodovat...}
 {121}{}{[Obchodovat]}
-{122}{}{To je dobrı. U musíme jít. Neboj se, neøeknu jim, e jsme tì vidìli.}
-{123}{}{Poèkej chvilku! U jsem o tobì slyšel. Ty jsi ten dobrodinec, co chodí kolem, zachraòuje lidi a pomáhá jim. Nemáme rádi lidi, jako jsi ty, take odpal!}
-{124}{}{Slyšel jsem hodnì dobrého o èlovìku, kterı vypadá jako ty. Myslím, e spolu mùeme vymìnit nìjaké zboí. Tady je moje nabídka.}
+{122}{}{To je dobrÃ½. UÅ¾ musÃ­me jÃ­t. Neboj se, neÅ™eknu jim, Å¾e jsme tÄ› vidÄ›li.}
+{123}{}{PoÄkej chvilku! UÅ¾ jsem o tobÄ› slyÅ¡el. Ty jsi ten dobrodinec, co chodÃ­ kolem, zachraÅˆuje lidi a pomÃ¡hÃ¡ jim. NemÃ¡me rÃ¡di lidi, jako jsi ty, takÅ¾e odpal!}
+{124}{}{SlyÅ¡el jsem hodnÄ› dobrÃ©ho o ÄlovÄ›ku, kterÃ½ vypadÃ¡ jako ty. MyslÃ­m, Å¾e spolu mÅ¯Å¾eme vymÄ›nit nÄ›jakÃ© zboÅ¾Ã­. Tady je moje nabÃ­dka.}
 {125}{}{[Obchodovat]}
 {126}{}{Nashle.}
-{127}{}{U jsem o tobì slyšel. Take ty jsi ten parchant, kterı tu všude kolem dìlá ten binec. Chtìl jsem se s tebou setkat a potøást ti rukou. Jenom myšlenka na všechny ty špatnosti, které se o tobì povídají, mi vhání slzy do oèí. Bude mi ctí s tebou obchodovat.}
+{127}{}{UÅ¾ jsem o tobÄ› slyÅ¡el. TakÅ¾e ty jsi ten parchant, kterÃ½ tu vÅ¡ude kolem dÄ›lÃ¡ ten binec. ChtÄ›l jsem se s tebou setkat a potÅ™Ã¡st ti rukou. Jenom myÅ¡lenka na vÅ¡echny ty Å¡patnosti, kterÃ© se o tobÄ› povÃ­dajÃ­, mi vhÃ¡nÃ­ slzy do oÄÃ­. Bude mi ctÃ­ s tebou obchodovat.}
 {128}{}{[Obchodovat]}
 {129}{}{Nashle}
-{130}{}{Øíká se, e nìkdo tobì podobnı dìlá v poslední dobì problémy. S takovımi lidmi neobchoduju. Je mi líto.}
-{131}{}{Nevím, proè tì hledají a popravdì øeèeno mì to ani moc nezajímá. S takovımi lidmi neobchodujeme.}
-{132}{}{Co takhle jít... 'konat dobro' nìkam jinam?}
-{133}{}{Èlovìk s tvou povìstí si jistì najde zásoby jinde.}
-{134}{}{Èím se zabıváš?}
-{135}{}{Kam máš namíøeno?}
+{130}{}{Å˜Ã­kÃ¡ se, Å¾e nÄ›kdo tobÄ› podobnÃ½ dÄ›lÃ¡ v poslednÃ­ dobÄ› problÃ©my. S takovÃ½mi lidmi neobchoduju. Je mi lÃ­to.}
+{131}{}{NevÃ­m, proÄ tÄ› hledajÃ­ a popravdÄ› Å™eÄeno mÄ› to ani moc nezajÃ­mÃ¡. S takovÃ½mi lidmi neobchodujeme.}
+{132}{}{Co takhle jÃ­t... 'konat dobro' nÄ›kam jinam?}
+{133}{}{ÄŒlovÄ›k s tvou povÄ›stÃ­ si jistÄ› najde zÃ¡soby jinde.}
+{134}{}{ÄŒÃ­m se zabÃ½vÃ¡Å¡?}
+{135}{}{Kam mÃ¡Å¡ namÃ­Å™eno?}
 {136}{}{Co vezete?}
 {137}{}{Nashle.}
 {138}{}{Eh.}
-{139}{}{To je... fajn. Tak se mìj. }
-{150}{}{léky.}
+{139}{}{To je... fajn. Tak se mÄ›j. }
+{150}{}{lÃ©ky.}
 {151}{}{zlatou rudu.}
 {152}{}{uranovou rudu.}
-{153}{}{farmáøské zboí.}
+{153}{}{farmÃ¡Å™skÃ© zboÅ¾Ã­.}
 {154}{}{drogy.}
 {155}{}{otroky.}
-{156}{}{rùzné vìci.}
+{156}{}{rÅ¯znÃ© vÄ›ci.}
 {198}{}{New Rena}
 {199}{}{Denu}
 {200}{}{Arroyo}
@@ -57,4 +57,4 @@
 {207}{}{Modocu}
 {208}{}{Klamath}
 {209}{}{Vaultu 15}
-{300}{}{Díky za obchod.}
+{300}{}{DÃ­ky za obchod.}

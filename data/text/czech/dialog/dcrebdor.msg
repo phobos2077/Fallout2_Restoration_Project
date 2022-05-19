@@ -1,34 +1,34 @@
-{100}{}{Vidíš strá.}
-{101}{}{Vidíš strá Beckyina Kasíno Baru.}
-{150}{}{Zdá se, e tyto dveøe bedlivì støeí.}
-{200}{}{Tak snadno se odsud nedostaneš.}
-{210}{}{Ty vedou do Rebeèina pokoje. Nikdo nesmí dovnitø.}
-{211}{}{Doufám, e se bavíš.}
-{212}{}{Hledáš Becky? Je támhle.}
+{100}{}{VidÃ­Å¡ strÃ¡Å¾.}
+{101}{}{VidÃ­Å¡ strÃ¡Å¾ Beckyina KasÃ­no Baru.}
+{150}{}{ZdÃ¡ se, Å¾e tyto dveÅ™e bedlivÄ› stÅ™eÅ¾Ã­.}
+{200}{}{Tak snadno se odsud nedostaneÅ¡.}
+{210}{}{Ty vedou do RebeÄina pokoje. Nikdo nesmÃ­ dovnitÅ™.}
+{211}{}{DoufÃ¡m, Å¾e se bavÃ­Å¡.}
+{212}{}{HledÃ¡Å¡ Becky? Je tÃ¡mhle.}
 {213}{}{Ahoj.}
-{214}{}{Uij si hrací stoly.}
-{215}{}{Becky má ty nejlevnìjší drinky ve mìstì.}
-{230}{}{Okamitì vypadni od tìch dveøí.}
-{231}{}{U se jich pøíštì nedotıkej.}
-{232}{}{Dr se od nich dál!}
+{214}{}{UÅ¾ij si hracÃ­ stoly.}
+{215}{}{Becky mÃ¡ ty nejlevnÄ›jÅ¡Ã­ drinky ve mÄ›stÄ›.}
+{230}{}{OkamÅ¾itÄ› vypadni od tÄ›ch dveÅ™Ã­.}
+{231}{}{UÅ¾ se jich pÅ™Ã­Å¡tÄ› nedotÃ½kej.}
+{232}{}{DrÅ¾ se od nich dÃ¡l!}
 {233}{}{Nech je na pokoji.}
-{234}{}{Co si myslíš, e dìláš?}
-{240}{}{Zlodìj!}
-{250}{}{Tohle u nás netolerujeme.}
-{300}{}{Máš po práci èas, bejby?}
-{301}{}{Jako obvykle vypadáš skvìle.}
-{302}{}{Bejby, ty opravdu víš, jak provozovat stoly.}
-{303}{}{Hej, zlato, mùeš hodit ty kostky ještì jednou? Zboòuju, jak se pohybuješ.}
+{234}{}{Co si myslÃ­Å¡, Å¾e dÄ›lÃ¡Å¡?}
+{240}{}{ZlodÄ›j!}
+{250}{}{Tohle u nÃ¡s netolerujeme.}
+{300}{}{MÃ¡Å¡ po prÃ¡ci Äas, bejby?}
+{301}{}{Jako obvykle vypadÃ¡Å¡ skvÄ›le.}
+{302}{}{Bejby, ty opravdu vÃ­Å¡, jak provozovat stoly.}
+{303}{}{Hej, zlato, mÅ¯Å¾eÅ¡ hodit ty kostky jeÅ¡tÄ› jednou? ZboÅ¾Åˆuju, jak se pohybujeÅ¡.}
 {304}{}{Nazdar. Jak se vede, zlato?}
-{305}{}{Co takhle... ty a já... po práci?}
-{306}{}{Becky by mi mohla dát zítra volno, pokud jseš... k mání.}
-{307}{}{U jsem ti nìkdy øekl, e máš krásné oèi?}
-{350}{}{Ty u mì zase ignoruješ. Tu hru mùou hrát klidnì dva.}
-{351}{}{Co? Poøád jseš na mì nasraná?}
-{352}{}{Odvádíš, eh, dobrou práci... pokraèuj v ní...}
-{353}{}{Co? U mì zase ignoruješ?}
-{354}{}{Máš práci... chápu. Pokecáme pozdìji.}
-{355}{}{Sakra, ty fakt víš, jak si hrát na nedostupnou.}
-{356}{}{Tak si... eh, promluvíme pozdìji.}
-{357}{}{Hezky jsme si popovídali... tak já pùjdu zase támhle.}
+{305}{}{Co takhle... ty a jÃ¡... po prÃ¡ci?}
+{306}{}{Becky by mi mohla dÃ¡t zÃ­tra volno, pokud jseÅ¡... k mÃ¡nÃ­.}
+{307}{}{UÅ¾ jsem ti nÄ›kdy Å™ekl, Å¾e mÃ¡Å¡ krÃ¡snÃ© oÄi?}
+{350}{}{Ty uÅ¾ mÄ› zase ignorujeÅ¡. Tu hru mÅ¯Å¾ou hrÃ¡t klidnÄ› dva.}
+{351}{}{Co? PoÅ™Ã¡d jseÅ¡ na mÄ› nasranÃ¡?}
+{352}{}{OdvÃ¡dÃ­Å¡, eh, dobrou prÃ¡ci... pokraÄuj v nÃ­...}
+{353}{}{Co? UÅ¾ mÄ› zase ignorujeÅ¡?}
+{354}{}{MÃ¡Å¡ prÃ¡ci... chÃ¡pu. PokecÃ¡me pozdÄ›ji.}
+{355}{}{Sakra, ty fakt vÃ­Å¡, jak si hrÃ¡t na nedostupnou.}
+{356}{}{Tak si... eh, promluvÃ­me pozdÄ›ji.}
+{357}{}{Hezky jsme si popovÃ­dali... tak jÃ¡ pÅ¯jdu zase tÃ¡mhle.}
 {375}{}{A do prdele...}

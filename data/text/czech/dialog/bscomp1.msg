@@ -1,6 +1,6 @@
-{100}{}{Vidíš poèítaèovı terminál.}
-{101}{}{Vidíš knihovní terminál.}
-{102}{}{Vidíš standardní poèítaèovı terminál. Zdá se bıt funkèní a pøipraven pro zadání vstupních dat.}
-{103}{}{Pøihlásíš se do poèítaèe a rychle prohledáváš dostupné soubory. Nacházíš lokaci Vaultu 13 a kopíruješ všechna dostupná data do svého Pip-Boye.}
-{104}{}{Máš problémy s pøístupem do souborù.}
-{106}{}{Kromì lokace Vaultu 13 neobsahuje terminál ádné jiné zajímavé informace.}
+{100}{}{VidÃ­Å¡ poÄÃ­taÄovÃ½ terminÃ¡l.}
+{101}{}{VidÃ­Å¡ knihovnÃ­ terminÃ¡l.}
+{102}{}{VidÃ­Å¡ standardnÃ­ poÄÃ­taÄovÃ½ terminÃ¡l. ZdÃ¡ se bÃ½t funkÄnÃ­ a pÅ™ipraven pro zadÃ¡nÃ­ vstupnÃ­ch dat.}
+{103}{}{PÅ™ihlÃ¡sÃ­Å¡ se do poÄÃ­taÄe a rychle prohledÃ¡vÃ¡Å¡ dostupnÃ© soubory. NachÃ¡zÃ­Å¡ lokaci Vaultu 13 a kopÃ­rujeÅ¡ vÅ¡echna dostupnÃ¡ data do svÃ©ho Pip-Boye.}
+{104}{}{MÃ¡Å¡ problÃ©my s pÅ™Ã­stupem do souborÅ¯.}
+{106}{}{KromÄ› lokace Vaultu 13 neobsahuje terminÃ¡l Å¾Ã¡dnÃ© jinÃ© zajÃ­mavÃ© informace.}

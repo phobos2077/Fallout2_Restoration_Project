@@ -1,49 +1,49 @@
-{100}{}{Vidíš velkého statného mutanta se smyslem pro vìc.}
-{101}{}{Vidíš jednoho ze strácù banky, velkého a drsného mutanta.}
-{102}{}{Vidíš dobøe ozbrojeného a pozorného stráce. Má u sebe zvláštnì vypadající zbraò.}
-{103}{}{Mohu vám nìjak pomoci?}
+{100}{}{VidÃ­Å¡ velkÃ©ho statnÃ©ho mutanta se smyslem pro vÄ›c.}
+{101}{}{VidÃ­Å¡ jednoho ze strÃ¡Å¾cÅ¯ banky, velkÃ©ho a drsnÃ©ho mutanta.}
+{102}{}{VidÃ­Å¡ dobÅ™e ozbrojenÃ©ho a pozornÃ©ho strÃ¡Å¾ce. MÃ¡ u sebe zvlÃ¡Å¡tnÄ› vypadajÃ­cÃ­ zbraÅˆ.}
+{103}{}{Mohu vÃ¡m nÄ›jak pomoci?}
 {104}{}{Agga agga!}
-{105}{}{Já do budova! Oooch!}
-{106}{}{Jenom se rozhlíím.}
+{105}{}{JÃ¡ do budova! Oooch!}
+{106}{}{Jenom se rozhlÃ­Å¾Ã­m.}
 {107}{}{Eh... ne, ani ne.}
-{108}{}{Jo, chci mluvit s tvımi vìzni.}
-{109}{}{Nepøemıšlel jsi nìkdy o tom, e tu moná dríte ty vìznì nezákonnì?}
-{110}{}{No skvìlı, další blbec. Odejdi prosím.}
-{111}{}{Ááááá!}
-{112}{}{Dobøe!}
-{113}{}{Tak se dívej nìkam jinam. Tady máme zloèince, take vypadni.}
-{114}{}{Aha. Tak dobøe.}
-{115}{}{Pomùeme kadému, kdo sem pøijde z nìjaké dùvodu. Pokud ti nemùeme pomoct, musíš odejít. Odejdi, nebo ti pomùeme.}
-{116}{}{Donutíš mì?}
-{117}{}{Chápu.}
-{118}{}{Chceš s nimi mluvit, jo? No, mùeš mluvit klidnì s námi. Co jim chceš øíct?}
-{119}{}{Nepøemıšlel jsi nìkdy o tom, e tu dríte ty vìznì nezákonnì?}
-{120}{}{er olovo, mutante!}
-{121}{}{Nic. Radìji pùjdu.}
-{122}{}{Eh... co tím chceš øíct?}
-{123}{}{Tím chci øíct, e nespáchali ádné zloèiny kromì toho, e mají pusu. Jen mluví ošklivì o mutantech. Tím nechci øíct, e ádnı zloèin nespáchají... ale ty bys snad chtìl bıt zadrenı za zloèin, kterı bys MOHL spáchat?}
-{124}{}{e moc dìlá právo. Já mám moc. Teï a tady.}
-{125}{}{Ne, to bych nechtìl, jene oni jsou oèividnì nebezpeèní.}
-{126}{}{Dokud nespáchají zloèin, jsou nevinní. Dokud neodhalí své plány a nezaènou zloèin provádìt, jsou nevinní. Jasné?}
-{127}{}{Nebezpeèní? Já jsem nebezpeènı, ty jsi nebezpeènı a pøesto nejsme za møíemi.}
-{128}{}{Take?}
-{129}{}{Ale... ale... tak dobøe. Mùou jít, na tvou odpovìdnost. Snad máš pravdu. Tady je klíè.}
-{130}{}{Pøesnì podle mıch pøedstav. Skvìlé. Díky a nashle.}
-{131}{}{To jo, ale moná bysme mìli. Oni jsou. A zùstanou tam, dokud se nenajde nìjakı lepší dùvod, proè bych je mìl pustit. A teï... odejdi.}
+{108}{}{Jo, chci mluvit s tvÃ½mi vÄ›zni.}
+{109}{}{NepÅ™emÃ½Å¡lel jsi nÄ›kdy o tom, Å¾e tu moÅ¾nÃ¡ drÅ¾Ã­te ty vÄ›znÄ› nezÃ¡konnÄ›?}
+{110}{}{No skvÄ›lÃ½, dalÅ¡Ã­ blbec. Odejdi prosÃ­m.}
+{111}{}{ÃÃ¡Ã¡Ã¡Ã¡!}
+{112}{}{DobÅ™e!}
+{113}{}{Tak se dÃ­vej nÄ›kam jinam. Tady mÃ¡me zloÄince, takÅ¾e vypadni.}
+{114}{}{Aha. Tak dobÅ™e.}
+{115}{}{PomÅ¯Å¾eme kaÅ¾dÃ©mu, kdo sem pÅ™ijde z nÄ›jakÃ© dÅ¯vodu. Pokud ti nemÅ¯Å¾eme pomoct, musÃ­Å¡ odejÃ­t. Odejdi, nebo ti pomÅ¯Å¾eme.}
+{116}{}{DonutÃ­Å¡ mÄ›?}
+{117}{}{ChÃ¡pu.}
+{118}{}{ChceÅ¡ s nimi mluvit, jo? No, mÅ¯Å¾eÅ¡ mluvit klidnÄ› s nÃ¡mi. Co jim chceÅ¡ Å™Ã­ct?}
+{119}{}{NepÅ™emÃ½Å¡lel jsi nÄ›kdy o tom, Å¾e tu drÅ¾Ã­te ty vÄ›znÄ› nezÃ¡konnÄ›?}
+{120}{}{Å½er olovo, mutante!}
+{121}{}{Nic. RadÄ›ji pÅ¯jdu.}
+{122}{}{Eh... co tÃ­m chceÅ¡ Å™Ã­ct?}
+{123}{}{TÃ­m chci Å™Ã­ct, Å¾e nespÃ¡chali Å¾Ã¡dnÃ© zloÄiny kromÄ› toho, Å¾e majÃ­ pusu. Jen mluvÃ­ oÅ¡klivÄ› o mutantech. TÃ­m nechci Å™Ã­ct, Å¾e Å¾Ã¡dnÃ½ zloÄin nespÃ¡chajÃ­... ale ty bys snad chtÄ›l bÃ½t zadrÅ¾enÃ½ za zloÄin, kterÃ½ bys MOHL spÃ¡chat?}
+{124}{}{Å½e moc dÄ›lÃ¡ prÃ¡vo. JÃ¡ mÃ¡m moc. TeÄ a tady.}
+{125}{}{Ne, to bych nechtÄ›l, jenÅ¾e oni jsou oÄividnÄ› nebezpeÄnÃ­.}
+{126}{}{Dokud nespÃ¡chajÃ­ zloÄin, jsou nevinnÃ­. Dokud neodhalÃ­ svÃ© plÃ¡ny a nezaÄnou zloÄin provÃ¡dÄ›t, jsou nevinnÃ­. JasnÃ©?}
+{127}{}{NebezpeÄnÃ­? JÃ¡ jsem nebezpeÄnÃ½, ty jsi nebezpeÄnÃ½ a pÅ™esto nejsme za mÅ™Ã­Å¾emi.}
+{128}{}{TakÅ¾e?}
+{129}{}{Ale... ale... tak dobÅ™e. MÅ¯Å¾ou jÃ­t, na tvou odpovÄ›dnost. Snad mÃ¡Å¡ pravdu. Tady je klÃ­Ä.}
+{130}{}{PÅ™esnÄ› podle mÃ½ch pÅ™edstav. SkvÄ›lÃ©. DÃ­ky a nashle.}
+{131}{}{To jo, ale moÅ¾nÃ¡ bysme mÄ›li. Oni jsou. A zÅ¯stanou tam, dokud se nenajde nÄ›jakÃ½ lepÅ¡Ã­ dÅ¯vod, proÄ bych je mÄ›l pustit. A teÄ... odejdi.}
 {132}{}{Ne.}
-{133}{}{Tak dobøe.}
-{134}{}{Take zùstanou ve vìzení. Musíme chránit spoleènost. A teï... odejdi.}
+{133}{}{Tak dobÅ™e.}
+{134}{}{TakÅ¾e zÅ¯stanou ve vÄ›zenÃ­. MusÃ­me chrÃ¡nit spoleÄnost. A teÄ... odejdi.}
 {135}{}{Ne.}
-{136}{}{Tak dobøe.}
-{137}{}{Hej, ty! Co to sakra dìláš? Vypadni odtamtud!}
-{138}{}{Teï schováš ty zbranì, pøíteli.}
-{139}{}{Zase ty? Potøebuješ nìco?}
-{140}{}{Jenom se rozhlíím.}
+{136}{}{Tak dobÅ™e.}
+{137}{}{Hej, ty! Co to sakra dÄ›lÃ¡Å¡? Vypadni odtamtud!}
+{138}{}{TeÄ schovÃ¡Å¡ ty zbranÄ›, pÅ™Ã­teli.}
+{139}{}{Zase ty? PotÅ™ebujeÅ¡ nÄ›co?}
+{140}{}{Jenom se rozhlÃ­Å¾Ã­m.}
 {141}{}{Eh... ne, ani ne.}
-{142}{}{Jo, chci mluvit s tvımi vìzni.}
-{143}{}{Nepøemıšlel jsi nìkdy o tom, e tu moná dríte ty vìznì nezákonnì?}
+{142}{}{Jo, chci mluvit s tvÃ½mi vÄ›zni.}
+{143}{}{NepÅ™emÃ½Å¡lel jsi nÄ›kdy o tom, Å¾e tu moÅ¾nÃ¡ drÅ¾Ã­te ty vÄ›znÄ› nezÃ¡konnÄ›?}
 {144}{}{Moc se tady nepoflakuj. Odejdi.}
-{145}{}{Jestli nìkdy zjistím, kam ti vìzòové zdrhli, tak si to nìkdo pìknì odskáèe!}
-{150}{}{Ale... ale... tak dobøe. Mùou jít, na tvou odpovìdnost. Snad máš pravdu. Tady je... hej, kam se podìl mùj klíè!? Doprdele, Marcus mi utrhne hlavu, jestli zjistí, e jsem ho ztratil. Promiò, musím jít.}
-{151}{}{Tak dobøe.}
-{152}{}{Vlastnì jsem ti ten klíè vzal. Co s tím udìláš?}
+{145}{}{Jestli nÄ›kdy zjistÃ­m, kam ti vÄ›zÅˆovÃ© zdrhli, tak si to nÄ›kdo pÄ›knÄ› odskÃ¡Äe!}
+{150}{}{Ale... ale... tak dobÅ™e. MÅ¯Å¾ou jÃ­t, na tvou odpovÄ›dnost. Snad mÃ¡Å¡ pravdu. Tady je... hej, kam se podÄ›l mÅ¯j klÃ­Ä!? Doprdele, Marcus mi utrhne hlavu, jestli zjistÃ­, Å¾e jsem ho ztratil. PromiÅˆ, musÃ­m jÃ­t.}
+{151}{}{Tak dobÅ™e.}
+{152}{}{VlastnÄ› jsem ti ten klÃ­Ä vzal. Co s tÃ­m udÄ›lÃ¡Å¡?}

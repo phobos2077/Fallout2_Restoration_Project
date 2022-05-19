@@ -1,59 +1,59 @@
-{100}{}{Vidíš vìdce.}
-{101}{}{Vidíš èlena vìdeckého personálu Enklávy.}
-{102}{}{Vidíš èlena protichemické jednotky Spojenıch Státù.}
-{103}{}{Ké by tak tyto vısledky dávaly nìjakı smysl.}
+{100}{}{VidÃ­Å¡ vÄ›dce.}
+{101}{}{VidÃ­Å¡ Älena vÄ›deckÃ©ho personÃ¡lu EnklÃ¡vy.}
+{102}{}{VidÃ­Å¡ Älena protichemickÃ© jednotky SpojenÃ½ch StÃ¡tÅ¯.}
+{103}{}{KÃ©Å¾ by tak tyto vÃ½sledky dÃ¡valy nÄ›jakÃ½ smysl.}
 {104}{}{To je blbost!}
-{105}{}{Tato data jsou konzistentní.}
-{106}{}{Tyto body tvoøí hezkou køivku.}
-{107}{}{Jaká je standardní odchylka?}
-{108}{}{Èekám, a se ty slouèeniny vyrovnají.}
-{109}{}{Ten spektrometr je nìjakı pokurvenı.}
-{110}{}{Kde jsou sakra údrbáøi, kdy je èlovìk potøebuje?}
-{111}{}{Zrovna jsem provedl kalibraci infraèerveného spektrometru.}
+{105}{}{Tato data jsou konzistentnÃ­.}
+{106}{}{Tyto body tvoÅ™Ã­ hezkou kÅ™ivku.}
+{107}{}{JakÃ¡ je standardnÃ­ odchylka?}
+{108}{}{ÄŒekÃ¡m, aÅ¾ se ty slouÄeniny vyrovnajÃ­.}
+{109}{}{Ten spektrometr je nÄ›jakÃ½ pokurvenÃ½.}
+{110}{}{Kde jsou sakra ÃºdrÅ¾bÃ¡Å™i, kdyÅ¾ je ÄlovÄ›k potÅ™ebuje?}
+{111}{}{Zrovna jsem provedl kalibraci infraÄervenÃ©ho spektrometru.}
 {112}{}{Jak dopadla ta rekrystalizace?}
-{113}{}{Syntéza je hotová, doktore.}
-{114}{}{Vıborná práce.}
-{115}{}{Projekt pokraèuje podle plánu.}
-{116}{}{To jsou vynikající vısledky.}
-{117}{}{Co to bude teï?}
-{118}{}{Ta radiace mi asi znièí celou práci.}
-{119}{}{Další cvièení.}
-{120}{}{Teï nemùu opustit svoji práci.}
-{121}{}{Nestihnu se dostat do úkrytu.}
+{113}{}{SyntÃ©za je hotovÃ¡, doktore.}
+{114}{}{VÃ½bornÃ¡ prÃ¡ce.}
+{115}{}{Projekt pokraÄuje podle plÃ¡nu.}
+{116}{}{To jsou vynikajÃ­cÃ­ vÃ½sledky.}
+{117}{}{Co to bude teÄ?}
+{118}{}{Ta radiace mi asi zniÄÃ­ celou prÃ¡ci.}
+{119}{}{DalÅ¡Ã­ cviÄenÃ­.}
+{120}{}{TeÄ nemÅ¯Å¾u opustit svoji prÃ¡ci.}
+{121}{}{Nestihnu se dostat do Ãºkrytu.}
 {122}{}{Je mi trochu nevolno.}
-{123}{}{Jak po mì mùou chtít, abych pracoval bez elektøiny?}
-{124}{}{Tak tohle mi posere celı experiment.}
-{125}{}{Tak to u je moc.}
-{126}{}{Mìli nás upozornit, e budou zkoušet bezpeènostní systémy.}
-{127}{}{Moje plíce jsou v jednom ohni.}
-{128}{}{Nic nevidím! Kdo vypnul svìtla?}
+{123}{}{Jak po mÄ› mÅ¯Å¾ou chtÃ­t, abych pracoval bez elektÅ™iny?}
+{124}{}{Tak tohle mi posere celÃ½ experiment.}
+{125}{}{Tak to uÅ¾ je moc.}
+{126}{}{MÄ›li nÃ¡s upozornit, Å¾e budou zkouÅ¡et bezpeÄnostnÃ­ systÃ©my.}
+{127}{}{Moje plÃ­ce jsou v jednom ohni.}
+{128}{}{Nic nevidÃ­m! Kdo vypnul svÄ›tla?}
 {129}{}{(Kuc, ech, kuc)}
 {130}{}{(Prsk, kuc)}
-{131}{}{Krvácí mi z pusy!}
-{132}{}{Moje oèi jsou v jednom ohni!}
-{133}{}{Dìlá se mi špatnì.}
-{134}{}{Jsem moc slabı na to, abych tady stál.}
+{131}{}{KrvÃ¡cÃ­ mi z pusy!}
+{132}{}{Moje oÄi jsou v jednom ohni!}
+{133}{}{DÄ›lÃ¡ se mi Å¡patnÄ›.}
+{134}{}{Jsem moc slabÃ½ na to, abych tady stÃ¡l.}
 {135}{}{Ach neeeeeeeee.}
-{136}{}{Vidím svìtlo... u jdu mami.}
-{137}{}{Nikoho nevidím.}
-{138}{}{To bude urèitì jen další bezpeènostní cvièení.}
-{139}{}{Copak nemají vojáci u dost všech tìch cviènıch poplachù?}
-{140}{}{Ale né, u zase. To u je podruhé v tomto mìsíci.}
-{141}{}{U mám tìch zelenıch gum a po krk.}
-{142}{}{Oni si prostì *musí* pøipadat dùleití.}
-{143}{}{Taková ztráta èasu.}
-{144}{}{Urèitì se sem nìkdy nìjakı vetøelec dostane.}
-{145}{}{No jasnì, jak by ses sem takovı vetøelec vùbec dostal?}
-{146}{}{Urèitì bychom toho vetøelce nevidìli pøicházet.}
-{147}{}{Další falešnı poplach. Vıbornì.}
-{148}{}{Seru na to, na tohle nemám èas.}
-{149}{}{Co chceš?}
-{150}{}{Nevidíš, e tu pracuji?}
-{151}{}{Jdi pryè. Mám práci.}
-{152}{}{Nemáš nic lepšího na práci?}
-{153}{}{Nevzpomínám si, e bych poadoval testovací subjekty.}
-{154}{}{Co sakra chceš?}
+{136}{}{VidÃ­m svÄ›tlo... uÅ¾ jdu mami.}
+{137}{}{Nikoho nevidÃ­m.}
+{138}{}{To bude urÄitÄ› jen dalÅ¡Ã­ bezpeÄnostnÃ­ cviÄenÃ­.}
+{139}{}{Copak nemajÃ­ vojÃ¡ci uÅ¾ dost vÅ¡ech tÄ›ch cviÄnÃ½ch poplachÅ¯?}
+{140}{}{Ale nÃ©, uÅ¾ zase. To uÅ¾ je podruhÃ© v tomto mÄ›sÃ­ci.}
+{141}{}{UÅ¾ mÃ¡m tÄ›ch zelenÃ½ch gum aÅ¾ po krk.}
+{142}{}{Oni si prostÄ› *musÃ­* pÅ™ipadat dÅ¯leÅ¾itÃ­.}
+{143}{}{TakovÃ¡ ztrÃ¡ta Äasu.}
+{144}{}{UrÄitÄ› se sem nÄ›kdy nÄ›jakÃ½ vetÅ™elec dostane.}
+{145}{}{No jasnÄ›, jak by ses sem takovÃ½ vetÅ™elec vÅ¯bec dostal?}
+{146}{}{UrÄitÄ› bychom toho vetÅ™elce nevidÄ›li pÅ™ichÃ¡zet.}
+{147}{}{DalÅ¡Ã­ faleÅ¡nÃ½ poplach. VÃ½bornÄ›.}
+{148}{}{Seru na to, na tohle nemÃ¡m Äas.}
+{149}{}{Co chceÅ¡?}
+{150}{}{NevidÃ­Å¡, Å¾e tu pracuji?}
+{151}{}{Jdi pryÄ. MÃ¡m prÃ¡ci.}
+{152}{}{NemÃ¡Å¡ nic lepÅ¡Ã­ho na prÃ¡ci?}
+{153}{}{NevzpomÃ­nÃ¡m si, Å¾e bych poÅ¾adoval testovacÃ­ subjekty.}
+{154}{}{Co sakra chceÅ¡?}
 {155}{}{Vypadni.}
-{156}{}{Jdi otravovat nìkoho jiného.}
+{156}{}{Jdi otravovat nÄ›koho jinÃ©ho.}
 {157}{}{Ano?}
-{158}{}{Tato práce je velice choulostivá, take jdi pryè.}
+{158}{}{Tato prÃ¡ce je velice choulostivÃ¡, takÅ¾e jdi pryÄ.}

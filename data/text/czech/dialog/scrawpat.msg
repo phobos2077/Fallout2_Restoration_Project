@@ -1,29 +1,29 @@
-{100}{}{Vypadá to na dalšího štamgasta.}
-{101}{}{Je to ten samı opilec jako minule.}
-{102}{}{Nevypadá zrovna moc pøíjemnì, ale kterı orala ano?}
-{103}{}{Hele, jen si tu popíjím. Nech mì bejt.}
-{104}{}{Nebavím se s cizinci. A vùbec, v tomhle baru pro tebe není bezpeèno.}
-{105}{}{Slyšel jsem o tobì. A tady jseš fakt na špatnım místì!}
-{106}{}{Hledáš problémy? Tak jdi za Merkem.}
-{107}{}{Hej puso, nepùjdem spolu nìkam, kde je víc soukromí a neuijem si?}
-{108}{}{Nemluv na mì! Nechci dostat další vıprask.}
-{109}{}{Zatracená laciná whisky! Hele, pro tvou informaci - tady se nalejvá jen to nejhorší pití.}
-{110}{}{Do prdele! Nechtìl jsem tì polít. Uka, trochu ti to vyèistím. Promiò mi to.}
-{111}{}{Dr se dál ode mì!}
-{112}{}{Slyšel jsem o tobì. Neubliuj mi prosím.}
-{113}{}{Ty jseš ve mìstì nováèek? Øíká se, e Merk shání nìjakıho poøádnıho drsòáka.}
-{114}{}{Co si o sobì myslíš? e jseš nìjakej drsòák? Ztra se mi z oèí!}
-{115}{}{To nemìli dìlat. Jednou, cizinèe, a budu mít zbraò, jim ukáu.}
-{116}{}{Jak by se ti líbilo bejt moje otrokynì lásky, fešando?}
-{117}{}{Chlastat a vanit - k èertu, v tomhle mìstì se nikdy nedìje nic zajímavıho.}
-{118}{}{Jdi pryè, otravuješ mì.}
-{119}{}{Znáš to jak...}
-{120}{}{A já mu øíkám, "Tak podívej,"...}
-{121}{}{Zkus peèenıho krtèího potkana. Tady je maj nejlepší.}
-{122}{}{Ahoj. Jak se jmenuješ?}
+{100}{}{VypadÃ¡ to na dalÅ¡Ã­ho Å¡tamgasta.}
+{101}{}{Je to ten samÃ½ opilec jako minule.}
+{102}{}{NevypadÃ¡ zrovna moc pÅ™Ã­jemnÄ›, ale kterÃ½ oÅ¾rala ano?}
+{103}{}{Hele, jen si tu popÃ­jÃ­m. Nech mÄ› bejt.}
+{104}{}{NebavÃ­m se s cizinci. A vÅ¯bec, v tomhle baru pro tebe nenÃ­ bezpeÄno.}
+{105}{}{SlyÅ¡el jsem o tobÄ›. A tady jseÅ¡ fakt na Å¡patnÃ½m mÃ­stÄ›!}
+{106}{}{HledÃ¡Å¡ problÃ©my? Tak jdi za Merkem.}
+{107}{}{Hej puso, nepÅ¯jdem spolu nÄ›kam, kde je vÃ­c soukromÃ­ a neuÅ¾ijem si?}
+{108}{}{Nemluv na mÄ›! Nechci dostat dalÅ¡Ã­ vÃ½prask.}
+{109}{}{ZatracenÃ¡ lacinÃ¡ whisky! Hele, pro tvou informaci - tady se nalejvÃ¡ jen to nejhorÅ¡Ã­ pitÃ­.}
+{110}{}{Do prdele! NechtÄ›l jsem tÄ› polÃ­t. UkaÅ¾, trochu ti to vyÄistÃ­m. PromiÅˆ mi to.}
+{111}{}{DrÅ¾ se dÃ¡l ode mÄ›!}
+{112}{}{SlyÅ¡el jsem o tobÄ›. NeubliÅ¾uj mi prosÃ­m.}
+{113}{}{Ty jseÅ¡ ve mÄ›stÄ› novÃ¡Äek? Å˜Ã­kÃ¡ se, Å¾e Merk shÃ¡nÃ­ nÄ›jakÃ½ho poÅ™Ã¡dnÃ½ho drsÅˆÃ¡ka.}
+{114}{}{Co si o sobÄ› myslÃ­Å¡? Å½e jseÅ¡ nÄ›jakej drsÅˆÃ¡k? ZtraÅ¥ se mi z oÄÃ­!}
+{115}{}{To nemÄ›li dÄ›lat. Jednou, cizinÄe, aÅ¾ budu mÃ­t zbraÅˆ, jim ukÃ¡Å¾u.}
+{116}{}{Jak by se ti lÃ­bilo bejt moje otrokynÄ› lÃ¡sky, feÅ¡ando?}
+{117}{}{Chlastat a Å¾vanit - k Äertu, v tomhle mÄ›stÄ› se nikdy nedÄ›je nic zajÃ­mavÃ½ho.}
+{118}{}{Jdi pryÄ, otravujeÅ¡ mÄ›.}
+{119}{}{ZnÃ¡Å¡ to jak...}
+{120}{}{A jÃ¡ mu Å™Ã­kÃ¡m, "Tak podÃ­vej,"...}
+{121}{}{Zkus peÄenÃ½ho krtÄÃ­ho potkana. Tady je maj nejlepÅ¡Ã­.}
+{122}{}{Ahoj. Jak se jmenujeÅ¡?}
 {123}{}{If you're looking for work, stranger, go down to the Stockman's.}
-{124}{}{Do prdele! Vidìli jste to?}
-{125}{}{Do hajzlu, je mi nìjak blbì.}
-{126}{}{U mám dost.}
-{127}{}{Hej, namíchej mi taky jeden!}
-{128}{}{Kdysi jsem takovej Rad-a-Waster mìl...}
+{124}{}{Do prdele! VidÄ›li jste to?}
+{125}{}{Do hajzlu, je mi nÄ›jak blbÄ›.}
+{126}{}{UÅ¾ mÃ¡m dost.}
+{127}{}{Hej, namÃ­chej mi taky jeden!}
+{128}{}{Kdysi jsem takovej Rad-a-Waster mÄ›l...}

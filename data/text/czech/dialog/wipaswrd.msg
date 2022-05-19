@@ -1,1 +1,1 @@
-{100}{}{Pøeloenı kus papíru a na nìm poznamenáno slovo "Èajkovskij".}
+{100}{}{PÅ™eloÅ¾enÃ½ kus papÃ­ru a na nÄ›m poznamenÃ¡no slovo "ÄŒajkovskij".}

@@ -1,3 +1,3 @@
-{100}{}{Nacházíš se na brahmíních pastvinách.}
-{200}{}{Brahmíny byly úspìšnì ochránìny.}
-{202}{}{Nepovedlo se ti pomoct Torrovi ochránit všechny brahmíny.}
+{100}{}{NachÃ¡zÃ­Å¡ se na brahmÃ­nÃ­ch pastvinÃ¡ch.}
+{200}{}{BrahmÃ­ny byly ÃºspÄ›Å¡nÄ› ochrÃ¡nÄ›ny.}
+{202}{}{Nepovedlo se ti pomoct Torrovi ochrÃ¡nit vÅ¡echny brahmÃ­ny.}

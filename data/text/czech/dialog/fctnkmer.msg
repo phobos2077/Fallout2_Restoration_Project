@@ -1,32 +1,32 @@
-{100}{}{Vidíš kupce.}
-{101}{}{Vidíš Jennu, obchodníka.}
-{102}{}{Vidíš hezkou majitelku obchodu.}
-{103}{}{Ahoj! Jsem Jenna. Mùu ti nìjak pomoct?}
-{104}{}{Já chtít informace.}
-{105}{}{Co ty mít?}
-{106}{}{Ne, já jít.}
-{107}{}{Chci nìjaké informace.}
-{108}{}{Jasnì. Uka mi co máš.}
-{109}{}{Teï ne.}
-{110}{}{Zjistila jsem, e èím míò toho víš, tím dıl iješ. Nemám pro tebe ádnı informace. Chceš vidìt mı zboí?}
+{100}{}{VidÃ­Å¡ kupce.}
+{101}{}{VidÃ­Å¡ Jennu, obchodnÃ­ka.}
+{102}{}{VidÃ­Å¡ hezkou majitelku obchodu.}
+{103}{}{Ahoj! Jsem Jenna. MÅ¯Å¾u ti nÄ›jak pomoct?}
+{104}{}{JÃ¡ chtÃ­t informace.}
+{105}{}{Co ty mÃ­t?}
+{106}{}{Ne, jÃ¡ jÃ­t.}
+{107}{}{Chci nÄ›jakÃ© informace.}
+{108}{}{JasnÄ›. UkaÅ¾ mi co mÃ¡Å¡.}
+{109}{}{TeÄ ne.}
+{110}{}{Zjistila jsem, Å¾e ÄÃ­m mÃ­Åˆ toho vÃ­Å¡, tÃ­m dÃ½l Å¾ijeÅ¡. NemÃ¡m pro tebe Å¾Ã¡dnÃ½ informace. ChceÅ¡ vidÄ›t mÃ½ zboÅ¾Ã­?}
 {111}{}{Ano.}
 {112}{}{Ne.}
-{113}{}{Skvìle. Tak se podívej.}
+{113}{}{SkvÄ›le. Tak se podÃ­vej.}
 {114}{}{}
-{115}{}{Dobøe.}
-{116}{}{Ještì nìco?}
+{115}{}{DobÅ™e.}
+{116}{}{JeÅ¡tÄ› nÄ›co?}
 {117}{}{Ano.}
 {118}{}{Ne.}
-{119}{}{Dobøe, tak se mìj.}
+{119}{}{DobÅ™e, tak se mÄ›j.}
 {120}{}{}
-{121}{}{Dobøe.}
-{122}{}{Vítej zpátky. Mùu ti s nìèím pomoct?}
+{121}{}{DobÅ™e.}
+{122}{}{VÃ­tej zpÃ¡tky. MÅ¯Å¾u ti s nÄ›ÄÃ­m pomoct?}
 {123}{}{Ano.}
 {124}{}{Ne.}
-{125}{}{Promiò, ale mám zavøeno. Otevírám v osm. Prosím, pøijï pozdìji.}
+{125}{}{PromiÅˆ, ale mÃ¡m zavÅ™eno. OtevÃ­rÃ¡m v osm. ProsÃ­m, pÅ™ijÄ pozdÄ›ji.}
 {126}{}{}
-{127}{}{Dobøe.}
-{128}{}{Tobì nic neprodám. Vypadni z mıho obchodu!}
+{127}{}{DobÅ™e.}
+{128}{}{TobÄ› nic neprodÃ¡m. Vypadni z mÃ½ho obchodu!}
 {129}{}{}
-{130}{}{Dobøe.}
-{131}{}{Doufám, e brzy pøijde další zboí.}
+{130}{}{DobÅ™e.}
+{131}{}{DoufÃ¡m, Å¾e brzy pÅ™ijde dalÅ¡Ã­ zboÅ¾Ã­.}

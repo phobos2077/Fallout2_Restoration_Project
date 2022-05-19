@@ -1,49 +1,49 @@
-{100}{}{Vidíš ozbrojeného mue v koeném obleèení.}
-{101}{}{Vidíš Felixe, pøedáka na farmì.}
-{102}{}{Vypadá jako mnohem vìtší pohodáø a drsòák ne všichni ostatní kolem.}
-{103}{}{Co pro tebe mùu udìlat, cizinèe?}
+{100}{}{VidÃ­Å¡ ozbrojenÃ©ho muÅ¾e v koÅ¾enÃ©m obleÄenÃ­.}
+{101}{}{VidÃ­Å¡ Felixe, pÅ™edÃ¡ka na farmÄ›.}
+{102}{}{VypadÃ¡ jako mnohem vÄ›tÅ¡Ã­ pohodÃ¡Å™ a drsÅˆÃ¡k neÅ¾ vÅ¡ichni ostatnÃ­ kolem.}
+{103}{}{Co pro tebe mÅ¯Å¾u udÄ›lat, cizinÄe?}
 {104}{}{Zase vy?}
 {105}{}{Hehg.}
-{106}{}{Posílá mì šerif. Øíkal, e by pro mì mohl mít pan Westin nìjakou práci.}
-{107}{}{Chci vidìt šéfa.}
-{108}{}{Hledám práci.}
-{109}{}{Hledám Vault 13.}
-{110}{}{Jenom se rozhlíím.}
-{111}{}{No skvìlı, další idiot. Budu hádat, chceš vidìt šéfa, e jo?}
+{106}{}{PosÃ­lÃ¡ mÄ› Å¡erif. Å˜Ã­kal, Å¾e by pro mÄ› mohl mÃ­t pan Westin nÄ›jakou prÃ¡ci.}
+{107}{}{Chci vidÄ›t Å¡Ã©fa.}
+{108}{}{HledÃ¡m prÃ¡ci.}
+{109}{}{HledÃ¡m Vault 13.}
+{110}{}{Jenom se rozhlÃ­Å¾Ã­m.}
+{111}{}{No skvÄ›lÃ½, dalÅ¡Ã­ idiot. Budu hÃ¡dat, chceÅ¡ vidÄ›t Å¡Ã©fa, Å¾e jo?}
 {112}{}{Aha.}
 {113}{}{Neee.}
-{114}{}{Fajn, tak jdi dovnitø.}
-{115}{}{Je pozdì. Vra se ráno.}
+{114}{}{Fajn, tak jdi dovnitÅ™.}
+{115}{}{Je pozdÄ›. VraÅ¥ se rÃ¡no.}
 {116}{}{Tak odsud vypadni.}
-{117}{}{Tak Dumont, jo? Dobøe, to mi jako provìøení staèí. Pan Westin je uvnitø.}
-{118}{}{To je sice hezkı, ale pan Westin nepøijímá jen tak nìkoho. Máš k tomu nìjakı dùvod?}
-{119}{}{Hledám Vault 13.}
-{120}{}{A co takhle kdy ti øeknu, e mì poslal Bishop z New Rena, a ho zabiju?}
+{117}{}{Tak Dumont, jo? DobÅ™e, to mi jako provÄ›Å™enÃ­ staÄÃ­. Pan Westin je uvnitÅ™.}
+{118}{}{To je sice hezkÃ½, ale pan Westin nepÅ™ijÃ­mÃ¡ jen tak nÄ›koho. MÃ¡Å¡ k tomu nÄ›jakÃ½ dÅ¯vod?}
+{119}{}{HledÃ¡m Vault 13.}
+{120}{}{A co takhle kdyÅ¾ ti Å™eknu, Å¾e mÄ› poslal Bishop z New Rena, aÅ¥ ho zabiju?}
 {121}{}{Eh, ne.}
-{122}{}{Ha! Další blázen. Bì si popovídat se Slaneèkem, budete si rozumìt.}
+{122}{}{Ha! DalÅ¡Ã­ blÃ¡zen. BÄ›Å¾ si popovÃ­dat se SlaneÄkem, budete si rozumÄ›t.}
 {123}{}{Kdo?}
-{124}{}{Padám odsud.}
-{125}{}{Slaneèek Bob - je támhle ve stájích. Pan Westin ho tam nechává pøespávat. A teï mì pøestaò otravovat.}
-{126}{}{Aha, díky.}
-{127}{}{No, tak v tom pøípadì tì musíme zabít.}
-{128}{}{Schùzka u skonèila?}
-{129}{}{Westin. Práce. Já.}
-{130}{}{Já jít.}
-{131}{}{Dobøe, mám ti dát práci, tak já ti ji teda dám. Nìkdo nebo nìco zabíjí bù-bùù. Ty jít se mnou. Ty hlídat. Hlídat bù-bùù. Udìlat šéf šastnı. Rozumìt?}
-{132}{}{Dobøe.}
-{133}{}{Ne. Já ne zabít.}
-{134}{}{Zase zpátky? Je ta práce u hotová?}
+{124}{}{PadÃ¡m odsud.}
+{125}{}{SlaneÄek Bob - je tÃ¡mhle ve stÃ¡jÃ­ch. Pan Westin ho tam nechÃ¡vÃ¡ pÅ™espÃ¡vat. A teÄ mÄ› pÅ™estaÅˆ otravovat.}
+{126}{}{Aha, dÃ­ky.}
+{127}{}{No, tak v tom pÅ™Ã­padÄ› tÄ› musÃ­me zabÃ­t.}
+{128}{}{SchÅ¯zka uÅ¾ skonÄila?}
+{129}{}{Westin. PrÃ¡ce. JÃ¡.}
+{130}{}{JÃ¡ jÃ­t.}
+{131}{}{DobÅ™e, mÃ¡m ti dÃ¡t prÃ¡ci, tak jÃ¡ ti ji teda dÃ¡m. NÄ›kdo nebo nÄ›co zabÃ­jÃ­ bÅ¯-bÅ¯Å¯. Ty jÃ­t se mnou. Ty hlÃ­dat. HlÃ­dat bÅ¯-bÅ¯Å¯. UdÄ›lat Å¡Ã©f Å¡Å¥astnÃ½. RozumÄ›t?}
+{132}{}{DobÅ™e.}
+{133}{}{Ne. JÃ¡ ne zabÃ­t.}
+{134}{}{Zase zpÃ¡tky? Je ta prÃ¡ce uÅ¾ hotovÃ¡?}
 {135}{}{Ano.}
 {136}{}{Ne.}
-{137}{}{Jo, nechal tu pøíkaz. Oèekává tì.}
+{137}{}{Jo, nechal tu pÅ™Ã­kaz. OÄekÃ¡vÃ¡ tÄ›.}
 {138}{}{HEJ TY! Vypadni odtamtud!}
-{139}{}{Dobøe.}
+{139}{}{DobÅ™e.}
 {140}{}{Jdi do prdele!}
-{141}{}{Jo. Øíkal, e máte nìjakı problém s brahmínami.}
-{142}{}{Ano. Mizím odsud.}
-{143}{}{Správnì. Nìkdo nebo nìco zabíjí brahmíny na západních pastvinách. Zavedu tì tam a ty se o to postarej. Pojïme.}
-{144}{}{Tak na to zapomeò!}
-{145}{}{Pan Westin tì oèekává.}
-{146}{}{No, mìli jsme problémy s nìjakımi škùdci, ale u nás nechali na pokoji. Jestli chceš, mùeš vidìt pana Westina.}
-{147}{}{Jsem tu obchodnì z Vault City.}
-{500}{}{Dotkni se tìch dveøí a draze za to zaplatíš. Rozumíš, kámo?}
+{141}{}{Jo. Å˜Ã­kal, Å¾e mÃ¡te nÄ›jakÃ½ problÃ©m s brahmÃ­nami.}
+{142}{}{Ano. MizÃ­m odsud.}
+{143}{}{SprÃ¡vnÄ›. NÄ›kdo nebo nÄ›co zabÃ­jÃ­ brahmÃ­ny na zÃ¡padnÃ­ch pastvinÃ¡ch. Zavedu tÄ› tam a ty se o to postarej. PojÄme.}
+{144}{}{Tak na to zapomeÅˆ!}
+{145}{}{Pan Westin tÄ› oÄekÃ¡vÃ¡.}
+{146}{}{No, mÄ›li jsme problÃ©my s nÄ›jakÃ½mi Å¡kÅ¯dci, ale uÅ¾ nÃ¡s nechali na pokoji. Jestli chceÅ¡, mÅ¯Å¾eÅ¡ vidÄ›t pana Westina.}
+{147}{}{Jsem tu obchodnÄ› z Vault City.}
+{500}{}{Dotkni se tÄ›ch dveÅ™Ã­ a draze za to zaplatÃ­Å¡. RozumÃ­Å¡, kÃ¡mo?}

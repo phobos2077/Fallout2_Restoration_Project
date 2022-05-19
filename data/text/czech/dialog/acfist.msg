@@ -1,34 +1,34 @@
-{100}{}{Vidíš Lucase.}
-{101}{}{Lucas je nejsilnìjší váleèník tvého kmene.}
-{102}{}{Tak tady jsi, Vyvolenı. Hmmm...jak jsi na tom se svım posláním?}
-{103}{}{Jde to skvìle.}
-{104}{}{Ne moc dobøe.}
+{100}{}{VidÃ­Å¡ Lucase.}
+{101}{}{Lucas je nejsilnÄ›jÅ¡Ã­ vÃ¡leÄnÃ­k tvÃ©ho kmene.}
+{102}{}{Tak tady jsi, VyvolenÃ½. Hmmm...jak jsi na tom se svÃ½m poslÃ¡nÃ­m?}
+{103}{}{Jde to skvÄ›le.}
+{104}{}{Ne moc dobÅ™e.}
 {105}{}{He?!}
-{106}{}{Musím se k tomu co nejdøív vrátit.}
-{107}{}{Moná, e by se ti hodilo nìkolik rad od zkušeného bojovníka.}
-{108}{}{Urèitì. S èím mi mùeš pomoct?}
-{109}{}{Ani ne. Daøí se mi docela dobøe.}
-{110}{}{Dobrá odpovìï, blbeèku. A teï sklapni, zrovna trénuju.}
-{111}{}{Dobøe.}
-{112}{}{Umím dobøe bojovat beze zbranì. Chceš, abych tì nìco nauèil?}
-{113}{}{Co mì mùeš nauèit?}
-{114}{}{Pøeju ti vítr v zádech, Vyvolenı.}
+{106}{}{MusÃ­m se k tomu co nejdÅ™Ã­v vrÃ¡tit.}
+{107}{}{MoÅ¾nÃ¡, Å¾e by se ti hodilo nÄ›kolik rad od zkuÅ¡enÃ©ho bojovnÃ­ka.}
+{108}{}{UrÄitÄ›. S ÄÃ­m mi mÅ¯Å¾eÅ¡ pomoct?}
+{109}{}{Ani ne. DaÅ™Ã­ se mi docela dobÅ™e.}
+{110}{}{DobrÃ¡ odpovÄ›Ä, blbeÄku. A teÄ sklapni, zrovna trÃ©nuju.}
+{111}{}{DobÅ™e.}
+{112}{}{UmÃ­m dobÅ™e bojovat beze zbranÄ›. ChceÅ¡, abych tÄ› nÄ›co nauÄil?}
+{113}{}{Co mÄ› mÅ¯Å¾eÅ¡ nauÄit?}
+{114}{}{PÅ™eju ti vÃ­tr v zÃ¡dech, VyvolenÃ½.}
 {115}{}{Sbohem.}
-{116}{}{Hmmm... zùstaò tu se mnou jeden den a nauèím tì, jak rozdávat vìtší rány.}
-{117}{}{Dobøe. Pojïme na to.}
-{118}{}{Promiò, zrovna teï nemám èas.}
-{119}{}{Umíš u všechno, co vím, Vyvolenı. Hodnì štìstí pøi tvém poslání.}
-{120}{}{Aha, dobøe.}
-{121}{}{Hm. Vyvolenı, nejsi dost obratnı. Nemùu tì nic nauèit.}
-{122}{}{Aha, dobøe.}
-{123}{}{Vyvolenı, chybí ti rychlost pohybu. Mùj trénink ti nepomùe.}
-{124}{}{Aha, dobøe.}
-{125}{}{Musíš se zlepšit v boji, ne tì budu moct zaèít trénovat.}
-{126}{}{Aha, dobøe.}
-{127}{}{Mùu tì nauèit jeden velmi mocnı kop. Potrvá nám to jeden celı den.}
-{128}{}{Dobøe.}
-{129}{}{Mùu tì nauèit dost na to, aby se ti lépe zápasilo. Potrvá nám to jeden celı den.}
-{130}{}{Dobøe.}
-{131}{}{Šlo ti to dobøe, Vyvolenı. Pøeju ti vítr v zádech.}
-{132}{}{Díky za pomoc.}
-{133}{}{Nauèil jsem tì u všechno, co vím, Vyvolenı. Hodnì štìstí pøi svém poslání.}
+{116}{}{Hmmm... zÅ¯staÅˆ tu se mnou jeden den a nauÄÃ­m tÄ›, jak rozdÃ¡vat vÄ›tÅ¡Ã­ rÃ¡ny.}
+{117}{}{DobÅ™e. PojÄme na to.}
+{118}{}{PromiÅˆ, zrovna teÄ nemÃ¡m Äas.}
+{119}{}{UmÃ­Å¡ uÅ¾ vÅ¡echno, co vÃ­m, VyvolenÃ½. HodnÄ› Å¡tÄ›stÃ­ pÅ™i tvÃ©m poslÃ¡nÃ­.}
+{120}{}{Aha, dobÅ™e.}
+{121}{}{Hm. VyvolenÃ½, nejsi dost obratnÃ½. NemÅ¯Å¾u tÄ› nic nauÄit.}
+{122}{}{Aha, dobÅ™e.}
+{123}{}{VyvolenÃ½, chybÃ­ ti rychlost pohybu. MÅ¯j trÃ©nink ti nepomÅ¯Å¾e.}
+{124}{}{Aha, dobÅ™e.}
+{125}{}{MusÃ­Å¡ se zlepÅ¡it v boji, neÅ¾ tÄ› budu moct zaÄÃ­t trÃ©novat.}
+{126}{}{Aha, dobÅ™e.}
+{127}{}{MÅ¯Å¾u tÄ› nauÄit jeden velmi mocnÃ½ kop. PotrvÃ¡ nÃ¡m to jeden celÃ½ den.}
+{128}{}{DobÅ™e.}
+{129}{}{MÅ¯Å¾u tÄ› nauÄit dost na to, aby se ti lÃ©pe zÃ¡pasilo. PotrvÃ¡ nÃ¡m to jeden celÃ½ den.}
+{130}{}{DobÅ™e.}
+{131}{}{Å lo ti to dobÅ™e, VyvolenÃ½. PÅ™eju ti vÃ­tr v zÃ¡dech.}
+{132}{}{DÃ­ky za pomoc.}
+{133}{}{NauÄil jsem tÄ› uÅ¾ vÅ¡echno, co vÃ­m, VyvolenÃ½. HodnÄ› Å¡tÄ›stÃ­ pÅ™i svÃ©m poslÃ¡nÃ­.}

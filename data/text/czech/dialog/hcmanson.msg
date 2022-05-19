@@ -1,80 +1,80 @@
-{100}{}{Vidíš špinavého mue v chatrném obleèení.}
-{101}{}{Vidíš Mansona, jednoho z èlenù protimutantského hnutí.}
-{102}{}{Vidíš mladého mue se strništìm, v otrhanıch šatech a se šílenım, ale pøesto dùvìøivım, nesmìlım pohledem.}
+{100}{}{VidÃ­Å¡ Å¡pinavÃ©ho muÅ¾e v chatrnÃ©m obleÄenÃ­.}
+{101}{}{VidÃ­Å¡ Mansona, jednoho z ÄlenÅ¯ protimutantskÃ©ho hnutÃ­.}
+{102}{}{VidÃ­Å¡ mladÃ©ho muÅ¾e se strniÅ¡tÄ›m, v otrhanÃ½ch Å¡atech a se Å¡Ã­lenÃ½m, ale pÅ™esto dÅ¯vÄ›Å™ivÃ½m, nesmÄ›lÃ½m pohledem.}
 {103}{}{Co?!}
 {104}{}{Duhhh... gabba gabba hej?}
-{105}{}{Ty za møíe?}
+{105}{}{Ty za mÅ™Ã­Å¾e?}
 {106}{}{Kdo jsi?}
-{107}{}{Proè jsi ve vìzení?}
-{108}{}{Povìz mi o Broken Hills.}
-{109}{}{ádnı. Zapomeò na to.}
-{110}{}{Vùbec nerozumím tı tvı debilní øeèi, take radši zmiz, ne mì taky nakazíš stupiditou.}
+{107}{}{ProÄ jsi ve vÄ›zenÃ­?}
+{108}{}{PovÄ›z mi o Broken Hills.}
+{109}{}{Å½Ã¡dnÃ½. ZapomeÅˆ na to.}
+{110}{}{VÅ¯bec nerozumÃ­m tÃ½ tvÃ½ debilnÃ­ Å™eÄi, takÅ¾e radÅ¡i zmiz, neÅ¾ mÄ› taky nakazÃ­Å¡ stupiditou.}
 {111}{}{Och!}
-{112}{}{Manson. Vzbouøenec proti spoleènosti.}
-{113}{}{A proti èemu bojuješ?}
-{114}{}{Jo! Pryè s tyranií!}
-{115}{}{Spíš spoleèenská nula.}
+{112}{}{Manson. VzbouÅ™enec proti spoleÄnosti.}
+{113}{}{A proti Äemu bojujeÅ¡?}
+{114}{}{Jo! PryÄ s tyraniÃ­!}
+{115}{}{SpÃ­Å¡ spoleÄenskÃ¡ nula.}
 {116}{}{Manson?}
-{117}{}{Já... rozumím. Nashle!}
-{118}{}{Protoe já a tady Franc jsme bojovali proti tomu, co se nám spoleènost snaí vtlouct do hlavy.}
+{117}{}{JÃ¡... rozumÃ­m. Nashle!}
+{118}{}{ProtoÅ¾e jÃ¡ a tady Franc jsme bojovali proti tomu, co se nÃ¡m spoleÄnost snaÅ¾Ã­ vtlouct do hlavy.}
 {119}{}{A to je...}
-{120}{}{Jo! Pryè s tyranií!}
-{121}{}{O Broken Hills? iju tady celej svùj ivot. A proto taky vím o všech špatnejch vìcech, co se tady dìjou. A proto taky vím, jak moc jsou mutanti zlí. Naštìstí jsou tu i lidi, co vidìj pravdu.}
-{122}{}{Jo, to vidím. Pryè s tyranií, jo?}
-{123}{}{Vidíš jenom nenávist, ale to není ádná pravda.}
-{124}{}{Moná si èasem uvìdomíš, e jediní, kdo jsou zaslepení, jsou ti, které pøesvìdèuješ o svojí pravdì a e kázání o nenávisti z tebe dìlá ještì vìtšího hlupáka.}
-{125}{}{Jasnì. Nashle.}
-{126}{}{Spoleènost chce, abysme vìøili, e lidi a mutanti spolu mùou bez problému ít. Ale mutanti nás chtìj zabít! Aspoò to øíká Franc.}
-{127}{}{Ty máš Franca opravdu rád, co?}
-{128}{}{To je asi ta nejhloupìjší vìc, kterou jsem kdy slyšel.}
-{129}{}{Tak dobøe. Nashle.}
-{130}{}{To je pravda! Mìli bysme... ehh... myslet sami za sebe! To øíká Franc a Jacob!}
-{131}{}{Páni, ty to tìm dvoum opravdu ereš, co? Co kdybys nìkdy zkusil myslet sám za sebe, místo toho abys jen papouškoval, co ti ostatní øeknou?}
-{132}{}{Ty máš Franca opravdu rád, co?}
+{120}{}{Jo! PryÄ s tyraniÃ­!}
+{121}{}{O Broken Hills? Å½iju tady celej svÅ¯j Å¾ivot. A proto taky vÃ­m o vÅ¡ech Å¡patnejch vÄ›cech, co se tady dÄ›jou. A proto taky vÃ­m, jak moc jsou mutanti zlÃ­. NaÅ¡tÄ›stÃ­ jsou tu i lidi, co vidÄ›j pravdu.}
+{122}{}{Jo, to vidÃ­m. PryÄ s tyraniÃ­, jo?}
+{123}{}{VidÃ­Å¡ jenom nenÃ¡vist, ale to nenÃ­ Å¾Ã¡dnÃ¡ pravda.}
+{124}{}{MoÅ¾nÃ¡ si Äasem uvÄ›domÃ­Å¡, Å¾e jedinÃ­, kdo jsou zaslepenÃ­, jsou ti, kterÃ© pÅ™esvÄ›dÄujeÅ¡ o svojÃ­ pravdÄ› a Å¾e kÃ¡zÃ¡nÃ­ o nenÃ¡visti z tebe dÄ›lÃ¡ jeÅ¡tÄ› vÄ›tÅ¡Ã­ho hlupÃ¡ka.}
+{125}{}{JasnÄ›. Nashle.}
+{126}{}{SpoleÄnost chce, abysme vÄ›Å™ili, Å¾e lidi a mutanti spolu mÅ¯Å¾ou bez problÃ©mu Å¾Ã­t. Ale mutanti nÃ¡s chtÄ›j zabÃ­t! AspoÅˆ to Å™Ã­kÃ¡ Franc.}
+{127}{}{Ty mÃ¡Å¡ Franca opravdu rÃ¡d, co?}
+{128}{}{To je asi ta nejhloupÄ›jÅ¡Ã­ vÄ›c, kterou jsem kdy slyÅ¡el.}
+{129}{}{Tak dobÅ™e. Nashle.}
+{130}{}{To je pravda! MÄ›li bysme... ehh... myslet sami za sebe! To Å™Ã­kÃ¡ Franc a Jacob!}
+{131}{}{PÃ¡ni, ty to tÄ›m dvoum opravdu Å¾ereÅ¡, co? Co kdybys nÄ›kdy zkusil myslet sÃ¡m za sebe, mÃ­sto toho abys jen papouÅ¡koval, co ti ostatnÃ­ Å™eknou?}
+{132}{}{Ty mÃ¡Å¡ Franca opravdu rÃ¡d, co?}
 {133}{}{Nashle.}
-{134}{}{Co ty o tom víš, kreténe? Vypadni odsud, ne se ti nìco stane!}
-{135}{}{Kdysi dávno tady byl èlovìk, co nás nauèil myslet sami za sebe. Moje matka a otec mi øíkali, e jsem s ním byl pøíbuznej. Zemøel ve vìzení, ale stejnì mìl na mì velkej vliv. Øíká se, e byl fakt chytrej a myslím, e je to pravda. Však se na mì podívej!}
-{136}{}{Eh... jasnì. Dívám se na tebe.}
-{137}{}{Ty a chytrák? Ha!}
-{138}{}{Jistì. Nashle.}
+{134}{}{Co ty o tom vÃ­Å¡, kretÃ©ne? Vypadni odsud, neÅ¾ se ti nÄ›co stane!}
+{135}{}{Kdysi dÃ¡vno tady byl ÄlovÄ›k, co nÃ¡s nauÄil myslet sami za sebe. Moje matka a otec mi Å™Ã­kali, Å¾e jsem s nÃ­m byl pÅ™Ã­buznej. ZemÅ™el ve vÄ›zenÃ­, ale stejnÄ› mÄ›l na mÄ› velkej vliv. Å˜Ã­kÃ¡ se, Å¾e byl fakt chytrej a myslÃ­m, Å¾e je to pravda. VÅ¡ak se na mÄ› podÃ­vej!}
+{136}{}{Eh... jasnÄ›. DÃ­vÃ¡m se na tebe.}
+{137}{}{Ty a chytrÃ¡k? Ha!}
+{138}{}{JistÄ›. Nashle.}
 {139}{}{Co?}
 {140}{}{No nic.}
-{141}{}{Jo. Myslím, e je to jeden z nejchytøejších lidí, kterı jsem kdy poznal. Jacob je chytrej, ale ne tolik jako Franc.}
-{142}{}{Franc je jen pytel sraèek a chce tì zatáhnout do kadého maléru.}
-{143}{}{Jo, potkal jsem ho. Je to dobrı chlap.}
-{144}{}{Nemìl jsem pøíleitost se s ním seznámit, take nemùu soudit.}
-{145}{}{Dík. Naskle.}
-{146}{}{Take co ještì potøebuješ?}
+{141}{}{Jo. MyslÃ­m, Å¾e je to jeden z nejchytÅ™ejÅ¡Ã­ch lidÃ­, kterÃ½ jsem kdy poznal. Jacob je chytrej, ale ne tolik jako Franc.}
+{142}{}{Franc je jen pytel sraÄek a chce tÄ› zatÃ¡hnout do kaÅ¾dÃ©ho malÃ©ru.}
+{143}{}{Jo, potkal jsem ho. Je to dobrÃ½ chlap.}
+{144}{}{NemÄ›l jsem pÅ™Ã­leÅ¾itost se s nÃ­m seznÃ¡mit, takÅ¾e nemÅ¯Å¾u soudit.}
+{145}{}{DÃ­k. Naskle.}
+{146}{}{TakÅ¾e co jeÅ¡tÄ› potÅ™ebujeÅ¡?}
 {147}{}{Kdo jsi?}
-{148}{}{Proè jsi ve vìzení?}
-{149}{}{Povìz mi o Broken Hills.}
-{150}{}{Máš rád Franca?}
-{151}{}{Proè ti øíkají Manson?}
-{152}{}{Proè jsi takovı blbec?}
-{153}{}{ádnı. Zapomeò na to.}
-{154}{}{Ty jsi s náma? Tak nás odsud dostaò!}
-{155}{}{Pracuju na tom. Mìj se.}
-{156}{}{Díky za pomoc. Vìdìl jsem, e se mùeme spolehnout na èlovìka, co vidí pravdu!}
+{148}{}{ProÄ jsi ve vÄ›zenÃ­?}
+{149}{}{PovÄ›z mi o Broken Hills.}
+{150}{}{MÃ¡Å¡ rÃ¡d Franca?}
+{151}{}{ProÄ ti Å™Ã­kajÃ­ Manson?}
+{152}{}{ProÄ jsi takovÃ½ blbec?}
+{153}{}{Å½Ã¡dnÃ½. ZapomeÅˆ na to.}
+{154}{}{Ty jsi s nÃ¡ma? Tak nÃ¡s odsud dostaÅˆ!}
+{155}{}{Pracuju na tom. MÄ›j se.}
+{156}{}{DÃ­ky za pomoc. VÄ›dÄ›l jsem, Å¾e se mÅ¯Å¾eme spolehnout na ÄlovÄ›ka, co vidÃ­ pravdu!}
 {157}{}{Jo. Jsem fakt dobrej.}
-{158}{}{Take co pro tebe ještì mùu udìlat?}
-{159}{}{Jaké máš teï plány?}
-{160}{}{Co znamená tvoje jméno?}
-{161}{}{Nic, jenom se tak dívám.}
-{162}{}{Teï se pokusíme znièit dùl, a budou mutanti uvnitø. A kadıho, kdo uteèe, umlátíme.}
-{163}{}{Chci do toho jít s vámi.}
-{164}{}{Tak to se mnou nepoèítej.}
-{165}{}{Paráda. Hodnì štìstí.}
-{166}{}{No, lidi si myslej, e to byl kazatel nebo tak nìco, ale Manson byl nìkdo, kdo zaloil vlastní náboenství a byl kvùli nìmu zabit. Byl to muèedník. Moná, e se jím taky stanu.}
-{167}{}{To zní... zajímavì. Nicménì...}
-{168}{}{O tom si promluv s Jacobem. Jsem si jistej, e tì pøijme, kdy jsi nám pomohl s tím útìkem.}
-{169}{}{Paráda. Mìj se.}
-{170}{}{Chtìl jsem s tebou spolupracovat! No nic, mìj se!}
-{171}{}{Ty kreténe! A my vìøili, e nám pomùeš!}
-{172}{}{Páni... tak tahle brutálního zabijáka jsem ještì nikdy nevidìl. Teï jsme volní a bez mutantù. Paráda!}
-{173}{}{Chystáme se vypadnout z mìsta. Radši udìlej to samı... mutanti budou potøebovat nìjakıho viníka.}
+{158}{}{TakÅ¾e co pro tebe jeÅ¡tÄ› mÅ¯Å¾u udÄ›lat?}
+{159}{}{JakÃ© mÃ¡Å¡ teÄ plÃ¡ny?}
+{160}{}{Co znamenÃ¡ tvoje jmÃ©no?}
+{161}{}{Nic, jenom se tak dÃ­vÃ¡m.}
+{162}{}{TeÄ se pokusÃ­me zniÄit dÅ¯l, aÅ¾ budou mutanti uvnitÅ™. A kaÅ¾dÃ½ho, kdo uteÄe, umlÃ¡tÃ­me.}
+{163}{}{Chci do toho jÃ­t s vÃ¡mi.}
+{164}{}{Tak to se mnou nepoÄÃ­tej.}
+{165}{}{ParÃ¡da. HodnÄ› Å¡tÄ›stÃ­.}
+{166}{}{No, lidi si myslej, Å¾e to byl kazatel nebo tak nÄ›co, ale Manson byl nÄ›kdo, kdo zaloÅ¾il vlastnÃ­ nÃ¡boÅ¾enstvÃ­ a byl kvÅ¯li nÄ›mu zabit. Byl to muÄednÃ­k. MoÅ¾nÃ¡, Å¾e se jÃ­m taky stanu.}
+{167}{}{To znÃ­... zajÃ­mavÄ›. NicmÃ©nÄ›...}
+{168}{}{O tom si promluv s Jacobem. Jsem si jistej, Å¾e tÄ› pÅ™ijme, kdyÅ¾ jsi nÃ¡m pomohl s tÃ­m ÃºtÄ›kem.}
+{169}{}{ParÃ¡da. MÄ›j se.}
+{170}{}{ChtÄ›l jsem s tebou spolupracovat! No nic, mÄ›j se!}
+{171}{}{Ty kretÃ©ne! A my vÄ›Å™ili, Å¾e nÃ¡m pomÅ¯Å¾eÅ¡!}
+{172}{}{PÃ¡ni... tak tahle brutÃ¡lnÃ­ho zabijÃ¡ka jsem jeÅ¡tÄ› nikdy nevidÄ›l. TeÄ jsme volnÃ­ a bez mutantÅ¯. ParÃ¡da!}
+{173}{}{ChystÃ¡me se vypadnout z mÄ›sta. RadÅ¡i udÄ›lej to samÃ½... mutanti budou potÅ™ebovat nÄ›jakÃ½ho vinÃ­ka.}
 {174}{}{Jdeme za tebou.}
-{175}{}{Otevøel jsi Mansonovi oèi.}
-{176}{}{Ušili to na nás! Ušili to na nás!}
-{177}{}{Díky za pomoc, kámo. Jdi si promluvit s Jacobem a Aileen.}
-{178}{}{Úspìšnì jsi provedl útìk z vìzení.}
-{179}{}{Hodnì štìstí v dole, bratøe.}
+{175}{}{OtevÅ™el jsi Mansonovi oÄi.}
+{176}{}{UÅ¡ili to na nÃ¡s! UÅ¡ili to na nÃ¡s!}
+{177}{}{DÃ­ky za pomoc, kÃ¡mo. Jdi si promluvit s Jacobem a Aileen.}
+{178}{}{ÃšspÄ›Å¡nÄ› jsi provedl ÃºtÄ›k z vÄ›zenÃ­.}
+{179}{}{HodnÄ› Å¡tÄ›stÃ­ v dole, bratÅ™e.}

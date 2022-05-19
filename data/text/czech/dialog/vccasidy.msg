@@ -1,233 +1,233 @@
-{100}{}{Vidíš postaršího mue s oblièejem plnım vrásek. Pokud si všiml, e se na nìj díváš, nedává to nijak znát.}
-{101}{}{Vidíš Cassidyho.}
-{102}{}{Vidíš postaršího mue s oblièejem plnım vrásek. Kıvne na tebe hlavou.}
-{103}{Cas0103}{A hele, tebe jsem tady ještì nevidìl. Jsem Cassidy. Vlastním tenhle podnik. Co pro tebe mùu udìlat?}
-{104}{Cas0104}{A hele, jestlipak to není náš tajemnı venkovan? Co pro tebe mùu dnes udìlat?}
+{100}{}{VidÃ­Å¡ postarÅ¡Ã­ho muÅ¾e s obliÄejem plnÃ½m vrÃ¡sek. Pokud si vÅ¡iml, Å¾e se na nÄ›j dÃ­vÃ¡Å¡, nedÃ¡vÃ¡ to nijak znÃ¡t.}
+{101}{}{VidÃ­Å¡ Cassidyho.}
+{102}{}{VidÃ­Å¡ postarÅ¡Ã­ho muÅ¾e s obliÄejem plnÃ½m vrÃ¡sek. KÃ½vne na tebe hlavou.}
+{103}{Cas0103}{A hele, tebe jsem tady jeÅ¡tÄ› nevidÄ›l. Jsem Cassidy. VlastnÃ­m tenhle podnik. Co pro tebe mÅ¯Å¾u udÄ›lat?}
+{104}{Cas0104}{A hele, jestlipak to nenÃ­ nÃ¡Å¡ tajemnÃ½ venkovan? Co pro tebe mÅ¯Å¾u dnes udÄ›lat?}
 {105}{}{Ug Nog?}
 {106}{}{Odbelhat se.}
-{107}{}{Hledám Vault.}
-{108}{}{Vypadá to, jako bys chtìl odsud vypadnout, nemám pravdu?}
-{109}{}{Co tady èepujete?}
-{110}{}{Dìje se tu v okolí nìco zajímavého?}
-{111}{}{Dnes nic, díky.}
-{112}{Cas0112}{Mlátili tì do hlavy èasto, co? Lituju, nemluvím imbecilštinou.}
-{113}{}{Béé-cil?}
-{114}{Cas0114}{Vault? Jedinej Vault, o kterım vím, je ten ve mìstì. Je to taková velká blbá díra...nemùeš ho minout, vìø mi.}
-{115}{}{Co tu máš k pití?}
-{116}{}{Dìje se tu v okolí nìco zajímavého?}
-{117}{}{Díky za informace. Sbohem.}
-{118}{Cas0118}{Pivo za $20, panák whisky za $30. Nic zvláštního. Dáš si teda nìco?}
-{119}{}{Hledám Vault.}
-{120}{}{Dám si pivo.}
-{121}{}{Dám si panáka.}
-{122}{}{Dìje se tu v okolí nìco zajímavého?}
-{123}{}{Ani ne. Kadopádnì díky.}
-{124}{Cas0124}{"Zajímavého?" Hehe. Pøíteli, Vault City není vùbec "zajímavı" místo...teda dokud se nezaènou stráe nudit, to je pak lepší nìkam zalízt. Proè se ptáš? Hledáš snad nìco v tıhle páchnoucí díøe?}
-{125}{}{Co tu máš k pití?}
-{126}{}{No, vlastnì hledám Vault.}
-{127}{}{Nemùe to tady bıt a tak špatné.}
-{128}{}{Ani ne. Kadopádnì díky.}
-{129}{Cas0129}{Tady máš. Kopni to do sebe. Obèas to pomáhá zapomenout na to, kde jseš.}
-{130}{}{Nemùe to tady bıt a tak špatné.}
-{131}{}{Díky za pití. U musím jít.}
-{132}{Cas0132}{Jo, vánì? No sakra, tak to jsem se asi spletl vzhledem k tomu, e TY JSI opravdová autorita a tak. Tu razii minulı tıden tady asi nìkdo prochrápal, co?}
+{107}{}{HledÃ¡m Vault.}
+{108}{}{VypadÃ¡ to, jako bys chtÄ›l odsud vypadnout, nemÃ¡m pravdu?}
+{109}{}{Co tady Äepujete?}
+{110}{}{DÄ›je se tu v okolÃ­ nÄ›co zajÃ­mavÃ©ho?}
+{111}{}{Dnes nic, dÃ­ky.}
+{112}{Cas0112}{MlÃ¡tili tÄ› do hlavy Äasto, co? Lituju, nemluvÃ­m imbecilÅ¡tinou.}
+{113}{}{BÃ©Ã©-cil?}
+{114}{Cas0114}{Vault? Jedinej Vault, o kterÃ½m vÃ­m, je ten ve mÄ›stÄ›. Je to takovÃ¡ velkÃ¡ blbÃ¡ dÃ­ra...nemÅ¯Å¾eÅ¡ ho minout, vÄ›Å™ mi.}
+{115}{}{Co tu mÃ¡Å¡ k pitÃ­?}
+{116}{}{DÄ›je se tu v okolÃ­ nÄ›co zajÃ­mavÃ©ho?}
+{117}{}{DÃ­ky za informace. Sbohem.}
+{118}{Cas0118}{Pivo za $20, panÃ¡k whisky za $30. Nic zvlÃ¡Å¡tnÃ­ho. DÃ¡Å¡ si teda nÄ›co?}
+{119}{}{HledÃ¡m Vault.}
+{120}{}{DÃ¡m si pivo.}
+{121}{}{DÃ¡m si panÃ¡ka.}
+{122}{}{DÄ›je se tu v okolÃ­ nÄ›co zajÃ­mavÃ©ho?}
+{123}{}{Ani ne. KaÅ¾dopÃ¡dnÄ› dÃ­ky.}
+{124}{Cas0124}{"ZajÃ­mavÃ©ho?" Hehe. PÅ™Ã­teli, Vault City nenÃ­ vÅ¯bec "zajÃ­mavÃ½" mÃ­sto...teda dokud se nezaÄnou strÃ¡Å¾e nudit, to je pak lepÅ¡Ã­ nÄ›kam zalÃ­zt. ProÄ se ptÃ¡Å¡? HledÃ¡Å¡ snad nÄ›co v tÃ½hle pÃ¡chnoucÃ­ dÃ­Å™e?}
+{125}{}{Co tu mÃ¡Å¡ k pitÃ­?}
+{126}{}{No, vlastnÄ› hledÃ¡m Vault.}
+{127}{}{NemÅ¯Å¾e to tady bÃ½t aÅ¾ tak Å¡patnÃ©.}
+{128}{}{Ani ne. KaÅ¾dopÃ¡dnÄ› dÃ­ky.}
+{129}{Cas0129}{Tady mÃ¡Å¡. Kopni to do sebe. ObÄas to pomÃ¡hÃ¡ zapomenout na to, kde jseÅ¡.}
+{130}{}{NemÅ¯Å¾e to tady bÃ½t aÅ¾ tak Å¡patnÃ©.}
+{131}{}{DÃ­ky za pitÃ­. UÅ¾ musÃ­m jÃ­t.}
+{132}{Cas0132}{Jo, vÃ¡Å¾nÄ›? No sakra, tak to jsem se asi spletl vzhledem k tomu, Å¾e TY JSI opravdovÃ¡ autorita a tak. Tu razii minulÃ½ tÃ½den tady asi nÄ›kdo prochrÃ¡pal, co?}
 {133}{}{Razii?}
-{134}{Cas0134}{Jo, byl to úasnej pohled. Vrazila sem hlídka a hledali tu "zakázanı látky." Rozmlátili dveøe, všechno moje zboí a pak taky zabásli pár mıch zákazníkù.}
+{134}{Cas0134}{Jo, byl to ÃºÅ¾asnej pohled. Vrazila sem hlÃ­dka a hledali tu "zakÃ¡zanÃ½ lÃ¡tky." RozmlÃ¡tili dveÅ™e, vÅ¡echno moje zboÅ¾Ã­ a pak taky zabÃ¡sli pÃ¡r mÃ½ch zÃ¡kaznÃ­kÅ¯.}
 {135}{}{Co se stalo potom?}
-{136}{}{To je mi líto. Promluvíme si pozdìji.}
-{137}{Cas0137}{Potom, co odsud odtáhli jednoho chlapíka, Joshuu, za to, e kladl odpor pøi zatıkání, mi napaøili pokutu za nález, teï poslouchej, OPRAVDOVÉ whisky. Co na tom, e jsem dostal od Starka pøed tøemi mìsíci povolení. Parchanti.}
-{138}{}{Pane jo. To si dìláš srandu.}
-{139}{}{To je mi líto. Promluvíme si pozdìji.}
-{140}{Cas0140}{A to ještì není všechno. Teï dluím stráím pokutu a musím od jednoho obchodníka nakoupit novı zásoby alkoholu za trojnásobnou cenu ne obvykle. No a pøedpokládám, e se tu stráe zase brzo objeví, jen aby mì mohli prudit. }
-{141}{}{Takhle to tu chodí poøád?}
-{142}{}{Snad se ti povede v budoucnu lépe. Zatím.}
-{143}{Cas0143}{I v dobrıch èasech to stojí za prd. Obèani moc nepijou, take tady trèím a nalejvám obchodníkùm. Pøíští lakomej zkurvysyn, co bude smlouvat o panáka, dostane poøádnou kopaèku do zadku.}
-{144}{}{Proè tu zùstáváš, kdy to tu tak nenávidíš?}
-{145}{}{To je mi líto. Hledám Vault. Mùeš mi pomoct?}
-{146}{}{To je mi líto. No, snad se to zlepší.}
-{147}{Cas0147}{Mám nemocnı srdce. Potøebuju injekce na podporu srdeèní èinnosti a tohle mìsto je jedinı místo s opravdovou lékaøskou péèí, take jsem se rozhodl, e se tu usadím a pokusím se nìjak uivit.}
-{148}{}{To zní, jako bys toho tady mìl a po krk.}
-{149}{}{Aha. No, hledám Vault. Mùeš mi pomoct?}
-{150}{}{Snad se to èasem zlepší. Zatím.}
-{151}{Cas0151}{Nejradši bych to tady zavøel, nechal tohle mìsto shnít a na všechny se vykašlal.}
-{152}{}{Tak proè prostì neodejdeš?}
-{153}{}{To je mi líto. Snad se to èasem zlepší.}
-{154}{Cas0154}{Odejít sám do pustiny? Cha! Tohle místo mì štve, ale nejsem blázen.}
-{155}{}{Brzy se chystám jít zpátky do pustiny. Nechceš jít se mnou?}
-{156}{}{No, tak hodnì štìstí.}
-{157}{Cas0157}{Nechci tì urazit nebo tak, ale nevypadáš na nìjak zvláš dobrıho vùdce. Mám dojem, e si z tebe v pustinách udìlaj brzo obìd.}
-{158}{Cas0158}{Ne, necestuju s otrokáøema. Maj takovej nepìknej zvyk tì prodat, kdy jim dojdou peníze. Bez uráky.}
-{159}{Cas0159}{Ne, vypadáš jako èlovìk s jednou nohou v hrobì a druhou v pekle. Myslím, e nepotøebuju sniovat svou u tak dost chabou povìst.}
-{160}{Cas0160}{Ne...zdá se, e u máš slušnou partu.}
-{161}{}{Dobrá, tak hodnì štìstí.}
-{162}{}{Tak na tu nabídku zapomeò, kreténe. Klidnì se vra ke svımu baru v tomhle podìlanım zapadákovì.}
-{163}{}{Jak myslíš, tvoje chyba.}
-{164}{Cas0164}{Hehe. Myslíš to vánì?}
-{165}{}{Jasnì. Proè sakra ne? Vypadáš na èlovìka, kterı umí bojovat.}
-{166}{}{No, kdy se tak nad tím zamyslím, venku je to docela drsné, zvláš pro nìkoho se srdeèními problémy. Radìji zùstaò tady.}
+{136}{}{To je mi lÃ­to. PromluvÃ­me si pozdÄ›ji.}
+{137}{Cas0137}{Potom, co odsud odtÃ¡hli jednoho chlapÃ­ka, Joshuu, za to, Å¾e kladl odpor pÅ™i zatÃ½kÃ¡nÃ­, mi napaÅ™ili pokutu za nÃ¡lez, teÄ poslouchej, OPRAVDOVÃ‰ whisky. Co na tom, Å¾e jsem dostal od Starka pÅ™ed tÅ™emi mÄ›sÃ­ci povolenÃ­. Parchanti.}
+{138}{}{Pane jo. To si dÄ›lÃ¡Å¡ srandu.}
+{139}{}{To je mi lÃ­to. PromluvÃ­me si pozdÄ›ji.}
+{140}{Cas0140}{A to jeÅ¡tÄ› nenÃ­ vÅ¡echno. TeÄ dluÅ¾Ã­m strÃ¡Å¾Ã­m pokutu a musÃ­m od jednoho obchodnÃ­ka nakoupit novÃ½ zÃ¡soby alkoholu za trojnÃ¡sobnou cenu neÅ¾ obvykle. No a pÅ™edpoklÃ¡dÃ¡m, Å¾e se tu strÃ¡Å¾e zase brzo objevÃ­, jen aby mÄ› mohli prudit. }
+{141}{}{Takhle to tu chodÃ­ poÅ™Ã¡d?}
+{142}{}{Snad se ti povede v budoucnu lÃ©pe. ZatÃ­m.}
+{143}{Cas0143}{I v dobrÃ½ch Äasech to stojÃ­ za prd. ObÄani moc nepijou, takÅ¾e tady trÄÃ­m a nalejvÃ¡m obchodnÃ­kÅ¯m. PÅ™Ã­Å¡tÃ­ lakomej zkurvysyn, co bude smlouvat o panÃ¡ka, dostane poÅ™Ã¡dnou kopaÄku do zadku.}
+{144}{}{ProÄ tu zÅ¯stÃ¡vÃ¡Å¡, kdyÅ¾ to tu tak nenÃ¡vidÃ­Å¡?}
+{145}{}{To je mi lÃ­to. HledÃ¡m Vault. MÅ¯Å¾eÅ¡ mi pomoct?}
+{146}{}{To je mi lÃ­to. No, snad se to zlepÅ¡Ã­.}
+{147}{Cas0147}{MÃ¡m nemocnÃ½ srdce. PotÅ™ebuju injekce na podporu srdeÄnÃ­ Äinnosti a tohle mÄ›sto je jedinÃ½ mÃ­sto s opravdovou lÃ©kaÅ™skou pÃ©ÄÃ­, takÅ¾e jsem se rozhodl, Å¾e se tu usadÃ­m a pokusÃ­m se nÄ›jak uÅ¾ivit.}
+{148}{}{To znÃ­, jako bys toho tady mÄ›l aÅ¾ po krk.}
+{149}{}{Aha. No, hledÃ¡m Vault. MÅ¯Å¾eÅ¡ mi pomoct?}
+{150}{}{Snad se to Äasem zlepÅ¡Ã­. ZatÃ­m.}
+{151}{Cas0151}{NejradÅ¡i bych to tady zavÅ™el, nechal tohle mÄ›sto shnÃ­t a na vÅ¡echny se vykaÅ¡lal.}
+{152}{}{Tak proÄ prostÄ› neodejdeÅ¡?}
+{153}{}{To je mi lÃ­to. Snad se to Äasem zlepÅ¡Ã­.}
+{154}{Cas0154}{OdejÃ­t sÃ¡m do pustiny? Cha! Tohle mÃ­sto mÄ› Å¡tve, ale nejsem blÃ¡zen.}
+{155}{}{Brzy se chystÃ¡m jÃ­t zpÃ¡tky do pustiny. NechceÅ¡ jÃ­t se mnou?}
+{156}{}{No, tak hodnÄ› Å¡tÄ›stÃ­.}
+{157}{Cas0157}{Nechci tÄ› urazit nebo tak, ale nevypadÃ¡Å¡ na nÄ›jak zvlÃ¡Å¡Å¥ dobrÃ½ho vÅ¯dce. MÃ¡m dojem, Å¾e si z tebe v pustinÃ¡ch udÄ›laj brzo obÄ›d.}
+{158}{Cas0158}{Ne, necestuju s otrokÃ¡Å™ema. Maj takovej nepÄ›knej zvyk tÄ› prodat, kdyÅ¾ jim dojdou penÃ­ze. Bez urÃ¡Å¾ky.}
+{159}{Cas0159}{Ne, vypadÃ¡Å¡ jako ÄlovÄ›k s jednou nohou v hrobÄ› a druhou v pekle. MyslÃ­m, Å¾e nepotÅ™ebuju sniÅ¾ovat svou uÅ¾ tak dost chabou povÄ›st.}
+{160}{Cas0160}{Ne...zdÃ¡ se, Å¾e uÅ¾ mÃ¡Å¡ sluÅ¡nou partu.}
+{161}{}{DobrÃ¡, tak hodnÄ› Å¡tÄ›stÃ­.}
+{162}{}{Tak na tu nabÃ­dku zapomeÅˆ, kretÃ©ne. KlidnÄ› se vraÅ¥ ke svÃ½mu baru v tomhle podÄ›lanÃ½m zapadÃ¡kovÄ›.}
+{163}{}{Jak myslÃ­Å¡, tvoje chyba.}
+{164}{Cas0164}{Hehe. MyslÃ­Å¡ to vÃ¡Å¾nÄ›?}
+{165}{}{JasnÄ›. ProÄ sakra ne? VypadÃ¡Å¡ na ÄlovÄ›ka, kterÃ½ umÃ­ bojovat.}
+{166}{}{No, kdyÅ¾ se tak nad tÃ­m zamyslÃ­m, venku je to docela drsnÃ©, zvlÃ¡Å¡Å¥ pro nÄ›koho se srdeÄnÃ­mi problÃ©my. RadÄ›ji zÅ¯staÅˆ tady.}
 {167}{Cas0167}{Tak jo, jdu s tebou.}
-{168}{}{Mùeme vyrazit.}
+{168}{}{MÅ¯Å¾eme vyrazit.}
 {169}{}{}
 {170}{}{}
-{171}{Cas0171}{Co se dìje? Máš zase ten pohled typu "Musím ti øíct nìco, co se ti moná nebude líbit."}
+{171}{Cas0171}{Co se dÄ›je? MÃ¡Å¡ zase ten pohled typu "MusÃ­m ti Å™Ã­ct nÄ›co, co se ti moÅ¾nÃ¡ nebude lÃ­bit."}
 {172}{Cas0172}{Jo?}
-{173}{Cas0173}{Co se dìje? Máš zase ten pohled "Já jsem tady šéf."}
-{174}{}{Chci se zeptat na pár otázek...}
-{175}{}{Zdá se, e jsi trochu zranìnı. Pouij pár Stimpakù a uzdrav se.}
-{176}{}{Cassidy, poèkej tady, ne se vrátím.}
-{177}{}{Schovej svoji zbraò.}
-{178}{}{Dr se blízko mì.}
+{173}{Cas0173}{Co se dÄ›je? MÃ¡Å¡ zase ten pohled "JÃ¡ jsem tady Å¡Ã©f."}
+{174}{}{Chci se zeptat na pÃ¡r otÃ¡zek...}
+{175}{}{ZdÃ¡ se, Å¾e jsi trochu zranÄ›nÃ½. PouÅ¾ij pÃ¡r StimpakÅ¯ a uzdrav se.}
+{176}{}{Cassidy, poÄkej tady, neÅ¾ se vrÃ¡tÃ­m.}
+{177}{}{Schovej svoji zbraÅˆ.}
+{178}{}{DrÅ¾ se blÃ­zko mÄ›.}
 {179}{}{Moc se nevzdaluj.}
-{180}{}{Mìli bychom se trochu rozestoupit.}
-{181}{}{Tak pojï, Cassidy. Je èas vyrazit.}
-{182}{}{Nic, zapomeò na to.}
-{261}{Cas0261}{Urèitì chceš, abych Myronovi vpálil kulku do hlavy, e jo? To nebude problém. Staèí øíct a já to udìlám.}
-{262}{Cas0262}{Co se dìje?}
-{263}{}{Proè chceš sejmout Myrona?}
-{264}{}{Jaké zbranì preferuješ?}
-{265}{}{Vlastnì po tobì chci ještì nìco jiného...}
-{266}{}{Vlastnì po tobì chci nìco jiného...}
-{267}{}{Zapomeò na to. Pokraèujme.}
-{268}{}{Ne, neubliuj Myronovi. Alespoò ne dnes. Dám ti ještì vìdìt.}
-{269}{Cas0269}{No, hlavnì brokovnice a pušky... tìm dávám pøednost. Ale s pistolema taky nejsem nejhorší.}
-{270}{}{Ještì nìco?}
-{271}{}{Dobøe. Mám ještì pár otázek...}
-{272}{}{Tak jo. Jenom se ujišuju.}
-{273}{Cas0273}{Jestli budeš nìkdy potøebovat nìkoho nauèit slušnımu chování, pùjè mi mosaznıho boxera a já mu to vtluèu do ksichtu.}
-{274}{}{Skvìlé. Ještì nìco?}
-{275}{}{Dobøe. Mám ještì pár otázek...}
-{276}{}{Tak jo. Jenom se ujišuju.}
-{277}{Cas0277}{No, hmm...mezi náma dvìma, dokáu se taky docela dobøe ohánìt s oštìpem. Kdysi jsem s kamarádama lovil radškorpiony jenom oštìpama, ale...no, já jsem naivu a oni u ti nic neøeknou, jestli mi rozumíš.}
-{278}{}{Na oštìpu není nic špatného.}
-{279}{}{Dobøe. Mám ještì pár otázek...}
-{280}{}{Tak jo. Jenom se ujišuju.}
-{281}{Cas0281}{To si myslíš ty. Staèí, kdy mi nebudeš øíkat divochu a bude to mezi náma v pohodì.}
-{282}{Cas0282}{Nechtìl bych, aby si mì lidi pletli támhle se starım Kostìjem. Hehe. V ivotì jsem ještì nevidìl divocha, kterej by udìlal takovou blbost a strèil si do nosu kost.}
-{283}{Cas0283}{Jasnì, e není. Oštìp je fajn zbraò. Spousta mejch divošskejch pøátel ho pouívá.}
-{284}{}{Víš o tom, e já jsem taky "divoch?"}
-{285}{}{Hmmm. Poslyš, mám ještì pár otázek...}
-{286}{}{Tak dobøe. Díky za rozbor.}
-{287}{Cas0287}{Ále, nedìlej si srandu ze starıho Cassidyho. Ty nejsi ádnej divoch.}
+{180}{}{MÄ›li bychom se trochu rozestoupit.}
+{181}{}{Tak pojÄ, Cassidy. Je Äas vyrazit.}
+{182}{}{Nic, zapomeÅˆ na to.}
+{261}{Cas0261}{UrÄitÄ› chceÅ¡, abych Myronovi vpÃ¡lil kulku do hlavy, Å¾e jo? To nebude problÃ©m. StaÄÃ­ Å™Ã­ct a jÃ¡ to udÄ›lÃ¡m.}
+{262}{Cas0262}{Co se dÄ›je?}
+{263}{}{ProÄ chceÅ¡ sejmout Myrona?}
+{264}{}{JakÃ© zbranÄ› preferujeÅ¡?}
+{265}{}{VlastnÄ› po tobÄ› chci jeÅ¡tÄ› nÄ›co jinÃ©ho...}
+{266}{}{VlastnÄ› po tobÄ› chci nÄ›co jinÃ©ho...}
+{267}{}{ZapomeÅˆ na to. PokraÄujme.}
+{268}{}{Ne, neubliÅ¾uj Myronovi. AlespoÅˆ ne dnes. DÃ¡m ti jeÅ¡tÄ› vÄ›dÄ›t.}
+{269}{Cas0269}{No, hlavnÄ› brokovnice a puÅ¡ky... tÄ›m dÃ¡vÃ¡m pÅ™ednost. Ale s pistolema taky nejsem nejhorÅ¡Ã­.}
+{270}{}{JeÅ¡tÄ› nÄ›co?}
+{271}{}{DobÅ™e. MÃ¡m jeÅ¡tÄ› pÃ¡r otÃ¡zek...}
+{272}{}{Tak jo. Jenom se ujiÅ¡Å¥uju.}
+{273}{Cas0273}{Jestli budeÅ¡ nÄ›kdy potÅ™ebovat nÄ›koho nauÄit sluÅ¡nÃ½mu chovÃ¡nÃ­, pÅ¯jÄ mi mosaznÃ½ho boxera a jÃ¡ mu to vtluÄu do ksichtu.}
+{274}{}{SkvÄ›lÃ©. JeÅ¡tÄ› nÄ›co?}
+{275}{}{DobÅ™e. MÃ¡m jeÅ¡tÄ› pÃ¡r otÃ¡zek...}
+{276}{}{Tak jo. Jenom se ujiÅ¡Å¥uju.}
+{277}{Cas0277}{No, hmm...mezi nÃ¡ma dvÄ›ma, dokÃ¡Å¾u se taky docela dobÅ™e ohÃ¡nÄ›t s oÅ¡tÄ›pem. Kdysi jsem s kamarÃ¡dama lovil radÅ¡korpiony jenom oÅ¡tÄ›pama, ale...no, jÃ¡ jsem naÅ¾ivu a oni uÅ¾ ti nic neÅ™eknou, jestli mi rozumÃ­Å¡.}
+{278}{}{Na oÅ¡tÄ›pu nenÃ­ nic Å¡patnÃ©ho.}
+{279}{}{DobÅ™e. MÃ¡m jeÅ¡tÄ› pÃ¡r otÃ¡zek...}
+{280}{}{Tak jo. Jenom se ujiÅ¡Å¥uju.}
+{281}{Cas0281}{To si myslÃ­Å¡ ty. StaÄÃ­, kdyÅ¾ mi nebudeÅ¡ Å™Ã­kat divochu a bude to mezi nÃ¡ma v pohodÄ›.}
+{282}{Cas0282}{NechtÄ›l bych, aby si mÄ› lidi pletli tÃ¡mhle se starÃ½m KostÄ›jem. Hehe. V Å¾ivotÄ› jsem jeÅ¡tÄ› nevidÄ›l divocha, kterej by udÄ›lal takovou blbost a strÄil si do nosu kost.}
+{283}{Cas0283}{JasnÄ›, Å¾e nenÃ­. OÅ¡tÄ›p je fajn zbraÅˆ. Spousta mejch divoÅ¡skejch pÅ™Ã¡tel ho pouÅ¾Ã­vÃ¡.}
+{284}{}{VÃ­Å¡ o tom, Å¾e jÃ¡ jsem taky "divoch?"}
+{285}{}{Hmmm. PoslyÅ¡, mÃ¡m jeÅ¡tÄ› pÃ¡r otÃ¡zek...}
+{286}{}{Tak dobÅ™e. DÃ­ky za rozbor.}
+{287}{Cas0287}{Ãle, nedÄ›lej si srandu ze starÃ½ho Cassidyho. Ty nejsi Å¾Ã¡dnej divoch.}
 {288}{}{Jo, jsem.}
-{289}{}{To je jedno. Poslyš, mám ještì pár otázek...}
-{290}{}{Zapomeò na to. Nechci to s tebou teï rozebírat.}
-{291}{Cas0291}{Eh, no... sakra práce. Tak já se ti omlouvám. Nechtìl jsem tì urazit.}
-{292}{}{V pohodì. Poslyš, mám ještì pár otázek...}
-{293}{}{Zapomeò na to. Pokraèujme.}
-{294}{Cas0294}{No, ne budeme pokraèovat, chtìl bych nìco vìdìt. Co tady vlastnì dìláme? Zdá se, e to tady v okolí všechno prohledáváme, jako bychom nìco hledali. Máme nìjakı plán nebo tak nìco?}
-{295}{}{Hledáme GECK. Soupravu pro vytvoøení rajské zahrady. Má vesnice ho potøebuje, abychom obnovili úrodu.}
-{296}{}{Jdeme do Vaultu a potom pøineseme GECK do mojí vesnice.}
-{297}{}{Moje vesnice byla unesena. Snaím se zjistit, co se jim stalo.}
-{298}{Cas0298}{Dneska u je to v soupravách, jo? Sákryš, v knihách se o tom nepíše, co? No, tak dobøe. Dáme se do hledání.}
-{299}{Cas0299}{Co? Tak jo, jenom se ptám.}
-{300}{Cas0300}{Nejsem proti udìlat øešeto z pár únoscù. Trocha soudce Lynche není nikdy na škodu... aspoò podle mì.}
-{301}{}{Tak dobøe. Mùeme jít.}
-{302}{Cas0302}{To, co øíká ten malej sprosák, se nehodí pro slušnı uši.}
-{303}{Cas0303}{Obzvlášt pro ty enskı.}
-{304}{}{Vánì, Cassidy? Pøekvapuje mì, e ti na tom záleí. Mé srdce se úplnì chvìje.}
-{305}{}{Co tím chceš øíct?}
-{306}{}{Víš, ty taky pìknì kleješ, Cassidy.}
-{307}{}{To mi povídej. Pokraèujme.}
-{308}{Cas0308}{Jo, ale kdy to øíkám já, má to styl. On je jenom malá nevymáchaná huba.}
-{309}{Cas0309}{A vùbec se mi nelíbí, jak na tebe civí.}
-{310}{}{Vánì, Cassidy? Pøekvapuje mì, e ti na tom záleí. Mé srdce se úplnì chvìje.}
-{311}{}{Co tím chceš øíct?}
-{312}{}{To mi povídej. Pokraèujme.}
+{289}{}{To je jedno. PoslyÅ¡, mÃ¡m jeÅ¡tÄ› pÃ¡r otÃ¡zek...}
+{290}{}{ZapomeÅˆ na to. Nechci to s tebou teÄ rozebÃ­rat.}
+{291}{Cas0291}{Eh, no... sakra prÃ¡ce. Tak jÃ¡ se ti omlouvÃ¡m. NechtÄ›l jsem tÄ› urazit.}
+{292}{}{V pohodÄ›. PoslyÅ¡, mÃ¡m jeÅ¡tÄ› pÃ¡r otÃ¡zek...}
+{293}{}{ZapomeÅˆ na to. PokraÄujme.}
+{294}{Cas0294}{No, neÅ¾ budeme pokraÄovat, chtÄ›l bych nÄ›co vÄ›dÄ›t. Co tady vlastnÄ› dÄ›lÃ¡me? ZdÃ¡ se, Å¾e to tady v okolÃ­ vÅ¡echno prohledÃ¡vÃ¡me, jako bychom nÄ›co hledali. MÃ¡me nÄ›jakÃ½ plÃ¡n nebo tak nÄ›co?}
+{295}{}{HledÃ¡me GECK. Soupravu pro vytvoÅ™enÃ­ rajskÃ© zahrady. MÃ¡ vesnice ho potÅ™ebuje, abychom obnovili Ãºrodu.}
+{296}{}{Jdeme do Vaultu a potom pÅ™ineseme GECK do mojÃ­ vesnice.}
+{297}{}{Moje vesnice byla unesena. SnaÅ¾Ã­m se zjistit, co se jim stalo.}
+{298}{Cas0298}{Dneska uÅ¾ je to v soupravÃ¡ch, jo? SÃ¡kryÅ¡, v knihÃ¡ch se o tom nepÃ­Å¡e, co? No, tak dobÅ™e. DÃ¡me se do hledÃ¡nÃ­.}
+{299}{Cas0299}{Co? Tak jo, jenom se ptÃ¡m.}
+{300}{Cas0300}{Nejsem proti udÄ›lat Å™eÅ¡eto z pÃ¡r ÃºnoscÅ¯. Trocha soudce Lynche nenÃ­ nikdy na Å¡kodu... aspoÅˆ podle mÄ›.}
+{301}{}{Tak dobÅ™e. MÅ¯Å¾eme jÃ­t.}
+{302}{Cas0302}{To, co Å™Ã­kÃ¡ ten malej sprosÅ¥Ã¡k, se nehodÃ­ pro sluÅ¡nÃ½ uÅ¡i.}
+{303}{Cas0303}{ObzvlÃ¡Å¡t pro ty Å¾enskÃ½.}
+{304}{}{VÃ¡Å¾nÄ›, Cassidy? PÅ™ekvapuje mÄ›, Å¾e ti na tom zÃ¡leÅ¾Ã­. MÃ© srdce se ÃºplnÄ› chvÄ›je.}
+{305}{}{Co tÃ­m chceÅ¡ Å™Ã­ct?}
+{306}{}{VÃ­Å¡, ty taky pÄ›knÄ› klejeÅ¡, Cassidy.}
+{307}{}{To mi povÃ­dej. PokraÄujme.}
+{308}{Cas0308}{Jo, ale kdyÅ¾ to Å™Ã­kÃ¡m jÃ¡, mÃ¡ to styl. On je jenom malÃ¡ nevymÃ¡chanÃ¡ huba.}
+{309}{Cas0309}{A vÅ¯bec se mi nelÃ­bÃ­, jak na tebe civÃ­.}
+{310}{}{VÃ¡Å¾nÄ›, Cassidy? PÅ™ekvapuje mÄ›, Å¾e ti na tom zÃ¡leÅ¾Ã­. MÃ© srdce se ÃºplnÄ› chvÄ›je.}
+{311}{}{Co tÃ­m chceÅ¡ Å™Ã­ct?}
+{312}{}{To mi povÃ­dej. PokraÄujme.}
 {313}{Cas0313}{Moment, tak jsem to nemyslel.}
-{314}{Cas0314}{Tím chci øíct, e nastane den, kdy tu bude jen ten malej parchant, já a hluboká jáma v poušti.}
-{315}{}{No, ivot dokáe bıt tvrdá škola. Mám ještì pár otázek...}
-{316}{}{No, je na nejlepší cestì k tomu, aby ho to potkalo. Netrap se tím.}
-{317}{}{Uklidni se, Cassidy. Nech Myrona bıt.}
-{318}{}{Nenávidím to tady.}
-{319}{}{Doufal jsem, e se tomudle místu navdy vyhneme.}
-{320}{}{Mìsto tìsnıch prdelí...}
-{321}{}{Tady to vypadá hùø ne ve Vault City.}
-{322}{}{Ještì, e jsem si pøed chvíli pøekontroloval zbranì.}
-{323}{}{Jestli mì nìkdy dostanou, nepohøbívej mì tady.}
-{324}{}{Dávej si tu bacha. Místní nevypadají moc pøátelsky.}
-{325}{}{Hehe. Nevìøil bych, e nìkdy spatøím San Francisco.}
-{326}{}{Nevìøil bych, e vytáhneš starocha jako já na takovou cestu. Udìláme si to svoje a vrátíme se domù.}
-{327}{}{Redding je dùlní mìsto. Tìí se tu hlavnì zlato. Jezdí odsud spousta karavan do Vault City.}
-{328}{}{Broken Hills je dùlní mìsto. Tìí se tu hlavnì uranová ruda. Bejvá to tu docela drsnı, take si dávej bacha.}
-{329}{}{Jsem nìjakej pøiotrávenej, nemáš nìjakej protijed?}
-{330}{}{Svítím jako támhleten neon. Nemáš nìjakı antiradiaèní tablety?}
-{331}{}{Jsem docela zranìnej. Nemáš nìjakı Stimpaky?}
-{332}{}{Hlavnì ádnej fet, Myrone. Sleduju tì.}
-{333}{}{Udìlej jeden špatnej krok, Myrone, a udìlám z tebe sekanou.}
-{334}{}{Sakra, Lenny, potøebuješ vykoupat. Nebo nìjakou dezinfekci.}
-{335}{}{Ghoulíku, radši se dr sakra dál. Fùùùùùj, ty ale smrdíš.}
-{336}{}{To je ten nejzlejší pes, kterıho jsem kdy vidìl.}
-{337}{}{Klídek, pejsku. Cassidy je tvùj kámoš, jasnı?}
-{338}{}{Co asi takovej kyberpes jí? Nejspíš lidi.}
-{339}{}{Jestli mì ten kyberpes zaène obskakovat nohu, tak ho na místì odprásknu.}
-{340}{}{Áááách. Jsem tak rád, e vyrobili miliony tìchhle vìcí, ne spadly bomby.}
-{341}{}{Díky, pøíteli.}
-{342}{}{Doufám, e mi ty Stimpaky neudìlaj nic se srdcem...}
-{343}{}{Co to sakr...?! Ne, moje srdce! Já...*rrrruuuup*}
-{344}{}{Pardon, jen jsem se kochal vıhledem.}
-{345}{}{Sakra, tak já si stoupnu támhle.}
-{346}{}{Omlouvám se, pøíteli. Nechtìl jsem ti stát v cestì.}
-{347}{}{Áááách. To je ono. Díky moc.}
-{348}{}{*škyt* Hehe. Není nic lepšího na rozproudìní krve ne stará dobrá ohnivá voda.}
-{349}{}{Díky. Sakra, nedáš si taky?}
-{350}{}{Támhle je Vault. Obrovská blbá vìc, co?}
-{351}{}{Chceš, abych se k tobì zase pøidal?}
-{352}{}{Jsem pøipraven vyrazit, kdykoliv budeš chtít.}
-{353}{}{Urèitì nepotøebuješ moji pomoc?}
-{354}{}{U chci zase vyrazit.}
-{355}{}{Dal bych cígo.}
-{356}{}{Táta mì pojmenoval podle jednı postavy z nìjakıho pøedváleènıho komiksu. Øíkal, e to byl taky pìknej parchant.}
-{357}{}{Je fajn bejt zase na cestách. Ze ivota ve Vault City jsem mìl u vøedy.}
-{358}{}{Doufám, e mì na cestách nebude zlobit srdce...}
-{359}{}{Dal bych si panáka.}
-{360}{}{Radši si ještì zkontroluju vıbavu.}
-{361}{}{Podìlaná artritida...}
-{362}{}{Bejt o dvacet let mladší, vyrazil bych na vıchod a prozkoumal støedozápad. Mám pocit, e teï u je na to pozdì.}
-{363}{}{Slyšel jsem, e maj na støedozápadì tornáda širokı nìkolik mil. Teï je z toho obrovská radioaktivní pánev.}
-{364}{}{Jestlipak Texas pøeil válku...}
-{365}{}{Díky, pøíteli. Já...jejda. Nìjak se mi mlí zrak.}
-{366}{}{Slyšel jsem, e tohle vyvolává halucin...jéje! Kde se tu vzali ti hadi?!}
-{367}{}{Kdykoliv si tohle dám, mám záblesky minulosti.}
-{368}{}{Nic se nevyrovná troše divošskıho léèitelskıho umìní...}
-{369}{}{Asi si budu muset pùjèit nìjakı berle a vozík.}
-{370}{}{Cassidy zemøel na infarkt.}
-{371}{}{Podaøilo se ti pøesvìdèit Cassidyho, aby se k tobì pøidal.}
-{372}{}{Musím si vzít prášky na srdce...}
-{1000}{Cas1000}{Dobøe... tak teda jo. Poèkám tu, ne se vrátíš. }
-{1100}{Cas1100}{Jasnì. Ale nemùu slíbit, e ji zas nevytasím, kdy nastanou potíe.}
-{1200}{Cas1200}{Fajn, budu ti nablízku. Asi budou problémy, co?}
-{1300}{Cas1300}{Fajn, budu si udrovat odstup. Mám aspoò lepší vıhled.}
-{1400}{Cas1400}{Fajn, budu ti krejt záda. A mì budeš potøebovat, tak zaøvi a já hned pøibìhnu.}
-{2000}{Cas2000}{Nechci tì urazit nebo tak, ale nevypadáš na nìjak zvláš dobrıho vùdce. Mám dojem, e si z tebe v pustinách brzo udìlaj obìd.}
-{2100}{Cas2100}{Ne, necestuju s otrokáøi. Maj takovej nepìknej zvyk tì prodat, kdy jim dojdou peníze. Bez uráky.}
-{2200}{Cas2200}{Ne, vypadáš na èlovìka s jednou nohou v hrobì a druhou v pekle. Myslím, e nepotøebuju sniovat svou u tak dost chabou povìst.}
-{2300}{Cas2300}{Ne...zdá se, e u máš slušnou partu.}
+{314}{Cas0314}{TÃ­m chci Å™Ã­ct, Å¾e nastane den, kdy tu bude jen ten malej parchant, jÃ¡ a hlubokÃ¡ jÃ¡ma v pouÅ¡ti.}
+{315}{}{No, Å¾ivot dokÃ¡Å¾e bÃ½t tvrdÃ¡ Å¡kola. MÃ¡m jeÅ¡tÄ› pÃ¡r otÃ¡zek...}
+{316}{}{No, je na nejlepÅ¡Ã­ cestÄ› k tomu, aby ho to potkalo. Netrap se tÃ­m.}
+{317}{}{Uklidni se, Cassidy. Nech Myrona bÃ½t.}
+{318}{}{NenÃ¡vidÃ­m to tady.}
+{319}{}{Doufal jsem, Å¾e se tomudle mÃ­stu navÅ¾dy vyhneme.}
+{320}{}{MÄ›sto tÄ›snÃ½ch prdelÃ­...}
+{321}{}{Tady to vypadÃ¡ hÅ¯Å™ neÅ¾ ve Vault City.}
+{322}{}{JeÅ¡tÄ›, Å¾e jsem si pÅ™ed chvÃ­li pÅ™ekontroloval zbranÄ›.}
+{323}{}{Jestli mÄ› nÄ›kdy dostanou, nepohÅ™bÃ­vej mÄ› tady.}
+{324}{}{DÃ¡vej si tu bacha. MÃ­stnÃ­ nevypadajÃ­ moc pÅ™Ã¡telsky.}
+{325}{}{Hehe. NevÄ›Å™il bych, Å¾e nÄ›kdy spatÅ™Ã­m San Francisco.}
+{326}{}{NevÄ›Å™il bych, Å¾e vytÃ¡hneÅ¡ starocha jako jÃ¡ na takovou cestu. UdÄ›lÃ¡me si to svoje a vrÃ¡tÃ­me se domÅ¯.}
+{327}{}{Redding je dÅ¯lnÃ­ mÄ›sto. TÄ›Å¾Ã­ se tu hlavnÄ› zlato. JezdÃ­ odsud spousta karavan do Vault City.}
+{328}{}{Broken Hills je dÅ¯lnÃ­ mÄ›sto. TÄ›Å¾Ã­ se tu hlavnÄ› uranovÃ¡ ruda. BejvÃ¡ to tu docela drsnÃ½, takÅ¾e si dÃ¡vej bacha.}
+{329}{}{Jsem nÄ›jakej pÅ™iotrÃ¡venej, nemÃ¡Å¡ nÄ›jakej protijed?}
+{330}{}{SvÃ­tÃ­m jako tÃ¡mhleten neon. NemÃ¡Å¡ nÄ›jakÃ½ antiradiaÄnÃ­ tablety?}
+{331}{}{Jsem docela zranÄ›nej. NemÃ¡Å¡ nÄ›jakÃ½ Stimpaky?}
+{332}{}{HlavnÄ› Å¾Ã¡dnej fet, Myrone. Sleduju tÄ›.}
+{333}{}{UdÄ›lej jeden Å¡patnej krok, Myrone, a udÄ›lÃ¡m z tebe sekanou.}
+{334}{}{Sakra, Lenny, potÅ™ebujeÅ¡ vykoupat. Nebo nÄ›jakou dezinfekci.}
+{335}{}{GhoulÃ­ku, radÅ¡i se drÅ¾ sakra dÃ¡l. FÅ¯Å¯Å¯Å¯Å¯j, ty ale smrdÃ­Å¡.}
+{336}{}{To je ten nejzlejÅ¡Ã­ pes, kterÃ½ho jsem kdy vidÄ›l.}
+{337}{}{KlÃ­dek, pejsku. Cassidy je tvÅ¯j kÃ¡moÅ¡, jasnÃ½?}
+{338}{}{Co asi takovej kyberpes jÃ­? NejspÃ­Å¡ lidi.}
+{339}{}{Jestli mÄ› ten kyberpes zaÄne obskakovat nohu, tak ho na mÃ­stÄ› odprÃ¡sknu.}
+{340}{}{ÃÃ¡Ã¡Ã¡ch. Jsem tak rÃ¡d, Å¾e vyrobili miliony tÄ›chhle vÄ›cÃ­, neÅ¾ spadly bomby.}
+{341}{}{DÃ­ky, pÅ™Ã­teli.}
+{342}{}{DoufÃ¡m, Å¾e mi ty Stimpaky neudÄ›laj nic se srdcem...}
+{343}{}{Co to sakr...?! Ne, moje srdce! JÃ¡...*rrrruuuup*}
+{344}{}{Pardon, jen jsem se kochal vÃ½hledem.}
+{345}{}{Sakra, tak jÃ¡ si stoupnu tÃ¡mhle.}
+{346}{}{OmlouvÃ¡m se, pÅ™Ã­teli. NechtÄ›l jsem ti stÃ¡t v cestÄ›.}
+{347}{}{ÃÃ¡Ã¡Ã¡ch. To je ono. DÃ­ky moc.}
+{348}{}{*Å¡kyt* Hehe. NenÃ­ nic lepÅ¡Ã­ho na rozproudÄ›nÃ­ krve neÅ¾ starÃ¡ dobrÃ¡ ohnivÃ¡ voda.}
+{349}{}{DÃ­ky. Sakra, nedÃ¡Å¡ si taky?}
+{350}{}{TÃ¡mhle je Vault. ObrovskÃ¡ blbÃ¡ vÄ›c, co?}
+{351}{}{ChceÅ¡, abych se k tobÄ› zase pÅ™idal?}
+{352}{}{Jsem pÅ™ipraven vyrazit, kdykoliv budeÅ¡ chtÃ­t.}
+{353}{}{UrÄitÄ› nepotÅ™ebujeÅ¡ moji pomoc?}
+{354}{}{UÅ¾ chci zase vyrazit.}
+{355}{}{Dal bych cÃ­go.}
+{356}{}{TÃ¡ta mÄ› pojmenoval podle jednÃ½ postavy z nÄ›jakÃ½ho pÅ™edvÃ¡leÄnÃ½ho komiksu. Å˜Ã­kal, Å¾e to byl taky pÄ›knej parchant.}
+{357}{}{Je fajn bejt zase na cestÃ¡ch. Ze Å¾ivota ve Vault City jsem mÄ›l uÅ¾ vÅ™edy.}
+{358}{}{DoufÃ¡m, Å¾e mÄ› na cestÃ¡ch nebude zlobit srdce...}
+{359}{}{Dal bych si panÃ¡ka.}
+{360}{}{RadÅ¡i si jeÅ¡tÄ› zkontroluju vÃ½bavu.}
+{361}{}{PodÄ›lanÃ¡ artritida...}
+{362}{}{Bejt o dvacet let mladÅ¡Ã­, vyrazil bych na vÃ½chod a prozkoumal stÅ™edozÃ¡pad. MÃ¡m pocit, Å¾e teÄ uÅ¾ je na to pozdÄ›.}
+{363}{}{SlyÅ¡el jsem, Å¾e maj na stÅ™edozÃ¡padÄ› tornÃ¡da Å¡irokÃ½ nÄ›kolik mil. TeÄ je z toho obrovskÃ¡ radioaktivnÃ­ pÃ¡nev.}
+{364}{}{Jestlipak Texas pÅ™eÅ¾il vÃ¡lku...}
+{365}{}{DÃ­ky, pÅ™Ã­teli. JÃ¡...jejda. NÄ›jak se mi mlÅ¾Ã­ zrak.}
+{366}{}{SlyÅ¡el jsem, Å¾e tohle vyvolÃ¡vÃ¡ halucin...jÃ©je! Kde se tu vzali ti hadi?!}
+{367}{}{Kdykoliv si tohle dÃ¡m, mÃ¡m zÃ¡blesky minulosti.}
+{368}{}{Nic se nevyrovnÃ¡ troÅ¡e divoÅ¡skÃ½ho lÃ©ÄitelskÃ½ho umÄ›nÃ­...}
+{369}{}{Asi si budu muset pÅ¯jÄit nÄ›jakÃ½ berle a vozÃ­k.}
+{370}{}{Cassidy zemÅ™el na infarkt.}
+{371}{}{PodaÅ™ilo se ti pÅ™esvÄ›dÄit Cassidyho, aby se k tobÄ› pÅ™idal.}
+{372}{}{MusÃ­m si vzÃ­t prÃ¡Å¡ky na srdce...}
+{1000}{Cas1000}{DobÅ™e... tak teda jo. PoÄkÃ¡m tu, neÅ¾ se vrÃ¡tÃ­Å¡. }
+{1100}{Cas1100}{JasnÄ›. Ale nemÅ¯Å¾u slÃ­bit, Å¾e ji zas nevytasÃ­m, kdyÅ¾ nastanou potÃ­Å¾e.}
+{1200}{Cas1200}{Fajn, budu ti nablÃ­zku. Asi budou problÃ©my, co?}
+{1300}{Cas1300}{Fajn, budu si udrÅ¾ovat odstup. MÃ¡m aspoÅˆ lepÅ¡Ã­ vÃ½hled.}
+{1400}{Cas1400}{Fajn, budu ti krejt zÃ¡da. AÅ¾ mÄ› budeÅ¡ potÅ™ebovat, tak zaÅ™vi a jÃ¡ hned pÅ™ibÄ›hnu.}
+{2000}{Cas2000}{Nechci tÄ› urazit nebo tak, ale nevypadÃ¡Å¡ na nÄ›jak zvlÃ¡Å¡Å¥ dobrÃ½ho vÅ¯dce. MÃ¡m dojem, Å¾e si z tebe v pustinÃ¡ch brzo udÄ›laj obÄ›d.}
+{2100}{Cas2100}{Ne, necestuju s otrokÃ¡Å™i. Maj takovej nepÄ›knej zvyk tÄ› prodat, kdyÅ¾ jim dojdou penÃ­ze. Bez urÃ¡Å¾ky.}
+{2200}{Cas2200}{Ne, vypadÃ¡Å¡ na ÄlovÄ›ka s jednou nohou v hrobÄ› a druhou v pekle. MyslÃ­m, Å¾e nepotÅ™ebuju sniÅ¾ovat svou uÅ¾ tak dost chabou povÄ›st.}
+{2300}{Cas2300}{Ne...zdÃ¡ se, Å¾e uÅ¾ mÃ¡Å¡ sluÅ¡nou partu.}
 {2400}{Cas2400}{Tak fajn.}
-{2999}{}{Tak dobøe, dej na sebe pozor.}
-{3000}{}{Mùeme vyrazit.}
-{3100}{}{Zapomeò na to, kreténe.}
-{3200}{}{Tak nic, tvoje mínus.}
-{4100}{Cas4100}{Fajn, jsem v poøádku. Mùeme jít.}
-{4200}{Cas4200}{Fajn, jsem skoro v poøádku.}
-{4300}{Cas4300}{Je to lepší, ale potøeboval bych ještì pár Stimpakù.}
-{4400}{Cas4400}{Všechno jsem pouil, ale jsem na tom poøád dost špatnì. Mùu sice chodit, ale pokud máš nìjakı Stimpaky, urèitì by se mi hodily.}
-{9999}{}{Chci se zeptat na pár otázek...}
-{10001}{}{Vezmi si pár Stimpakù a uzdrav se.}
-{10002}{}{Cassidy, poèkej tady, ne se vrátím.}
-{10003}{}{Schovej svoji zbraò.}
-{10004}{}{Dr se blízko mì.}
+{2999}{}{Tak dobÅ™e, dej na sebe pozor.}
+{3000}{}{MÅ¯Å¾eme vyrazit.}
+{3100}{}{ZapomeÅˆ na to, kretÃ©ne.}
+{3200}{}{Tak nic, tvoje mÃ­nus.}
+{4100}{Cas4100}{Fajn, jsem v poÅ™Ã¡dku. MÅ¯Å¾eme jÃ­t.}
+{4200}{Cas4200}{Fajn, jsem skoro v poÅ™Ã¡dku.}
+{4300}{Cas4300}{Je to lepÅ¡Ã­, ale potÅ™eboval bych jeÅ¡tÄ› pÃ¡r StimpakÅ¯.}
+{4400}{Cas4400}{VÅ¡echno jsem pouÅ¾il, ale jsem na tom poÅ™Ã¡d dost Å¡patnÄ›. MÅ¯Å¾u sice chodit, ale pokud mÃ¡Å¡ nÄ›jakÃ½ Stimpaky, urÄitÄ› by se mi hodily.}
+{9999}{}{Chci se zeptat na pÃ¡r otÃ¡zek...}
+{10001}{}{Vezmi si pÃ¡r StimpakÅ¯ a uzdrav se.}
+{10002}{}{Cassidy, poÄkej tady, neÅ¾ se vrÃ¡tÃ­m.}
+{10003}{}{Schovej svoji zbraÅˆ.}
+{10004}{}{DrÅ¾ se blÃ­zko mÄ›.}
 {10005}{}{Moc se nevzdaluj.}
-{10006}{}{Mìli bychom se trochu rozestoupit.}
-{10007}{}{Tak pojïme.}
-{10100}{}{Tak pojï, Cassidy. Je èas vyrazit.}
-{20000}{Cas20000}{Tak jo, poslouchám.}
-{20001}{Cas20001}{O mı vıbavì? Co je s ní?}
-{20002}{Cas20002}{V pohodì. Stejnì je tu moc horko. Potím se v tom jako dìvka z New Reno.}
-{20003}{}{Zkusíme jiné rozestavìní.}
-{20004}{}{Potøebuju si s tebou promluvit o tvé vıstroji.}
-{20005}{}{Zapomeò na to. Tohle rozestavìní je v poøádku.}
-{20006}{}{Vlastnì nic. Teï o tvé vıbavì nepotøebuju mluvit.}
-{20007}{}{Potøebuju, aby sis sundal tu zbroj, co máš na sobì.}
-{30000}{}{Ách, cítím se teï o moc líp. Mám pocit, e je teï všechno snazší.}
-{30001}{}{Hmm, cítím se teï jinak. Ty pilulky na srdce nejspíš fungujou.}
-{30100}{}{Jo, proè ne... budu se po tom cítit jako mrtvola.}
+{10006}{}{MÄ›li bychom se trochu rozestoupit.}
+{10007}{}{Tak pojÄme.}
+{10100}{}{Tak pojÄ, Cassidy. Je Äas vyrazit.}
+{20000}{Cas20000}{Tak jo, poslouchÃ¡m.}
+{20001}{Cas20001}{O mÃ½ vÃ½bavÄ›? Co je s nÃ­?}
+{20002}{Cas20002}{V pohodÄ›. StejnÄ› je tu moc horko. PotÃ­m se v tom jako dÄ›vka z New Reno.}
+{20003}{}{ZkusÃ­me jinÃ© rozestavÄ›nÃ­.}
+{20004}{}{PotÅ™ebuju si s tebou promluvit o tvÃ© vÃ½stroji.}
+{20005}{}{ZapomeÅˆ na to. Tohle rozestavÄ›nÃ­ je v poÅ™Ã¡dku.}
+{20006}{}{VlastnÄ› nic. TeÄ o tvÃ© vÃ½bavÄ› nepotÅ™ebuju mluvit.}
+{20007}{}{PotÅ™ebuju, aby sis sundal tu zbroj, co mÃ¡Å¡ na sobÄ›.}
+{30000}{}{Ãch, cÃ­tÃ­m se teÄ o moc lÃ­p. MÃ¡m pocit, Å¾e je teÄ vÅ¡echno snazÅ¡Ã­.}
+{30001}{}{Hmm, cÃ­tÃ­m se teÄ jinak. Ty pilulky na srdce nejspÃ­Å¡ fungujou.}
+{30100}{}{Jo, proÄ ne... budu se po tom cÃ­tit jako mrtvola.}

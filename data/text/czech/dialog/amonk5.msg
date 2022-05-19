@@ -1,62 +1,62 @@
-{100}{}{Vidíš mnicha.}
-{101}{}{Vidíš bratra Paula.}
-{102}{}{Tenhle mnich vypadá jako poèítaèovı nadšenec.}
+{100}{}{VidÃ­Å¡ mnicha.}
+{101}{}{VidÃ­Å¡ bratra Paula.}
+{102}{}{Tenhle mnich vypadÃ¡ jako poÄÃ­taÄovÃ½ nadÅ¡enec.}
 {200}{}{Ahoj!}
 {201}{}{Ahoj.}
-{202}{}{Zazálohoval jsem dnes ty soubory...}
-{203}{}{Omlouvám se, ale nemám èas na nìkoho s tvou inteligencí.}
+{202}{}{ZazÃ¡lohoval jsem dnes ty soubory...}
+{203}{}{OmlouvÃ¡m se, ale nemÃ¡m Äas na nÄ›koho s tvou inteligencÃ­.}
 {300}{}{Ano?}
-{301}{}{Máte dole opravdu spoustu poèítaèù.}
-{302}{}{Co mi mùeš øíct o Opatství?}
-{303}{}{Povìz mi nìco o vašem pøedstaveném.}
-{304}{}{Nemáte nìjaké informace o GECKu?}
-{305}{}{Nevíš, kde se nachází Vault 13?}
+{301}{}{MÃ¡te dole opravdu spoustu poÄÃ­taÄÅ¯.}
+{302}{}{Co mi mÅ¯Å¾eÅ¡ Å™Ã­ct o OpatstvÃ­?}
+{303}{}{PovÄ›z mi nÄ›co o vaÅ¡em pÅ™edstavenÃ©m.}
+{304}{}{NemÃ¡te nÄ›jakÃ© informace o GECKu?}
+{305}{}{NevÃ­Å¡, kde se nachÃ¡zÃ­ Vault 13?}
 {306}{}{Nashle.}
-{307}{}{Nutnì potøebuju jisté informace.}
-{308}{}{Jako tøeba?}
-{400}{}{Ano, máme. Podle mì a pøíliš. Je to dost otrava zálohovat takovou spoustu souborù kadı den. Tolik informací k zachování, ale nìkdo to samozøejmì udìlat musí.}
-{401}{}{Samozøejmì. Chci se na nìco zeptat.}
-{402}{}{Jsme nezávislá komunita. Kadı je tu vítán tak dlouho, dokud se chová slušnì.}
-{403}{}{Dobøe.}
-{404}{}{Opat je dobrı duchovní vùdce, ale je trochu rozmrzelı poté, co ta bestie zabila bratra Thomase.}
+{307}{}{NutnÄ› potÅ™ebuju jistÃ© informace.}
+{308}{}{Jako tÅ™eba?}
+{400}{}{Ano, mÃ¡me. Podle mÄ› aÅ¾ pÅ™Ã­liÅ¡. Je to dost otrava zÃ¡lohovat takovou spoustu souborÅ¯ kaÅ¾dÃ½ den. Tolik informacÃ­ k zachovÃ¡nÃ­, ale nÄ›kdo to samozÅ™ejmÄ› udÄ›lat musÃ­.}
+{401}{}{SamozÅ™ejmÄ›. Chci se na nÄ›co zeptat.}
+{402}{}{Jsme nezÃ¡vislÃ¡ komunita. KaÅ¾dÃ½ je tu vÃ­tÃ¡n tak dlouho, dokud se chovÃ¡ sluÅ¡nÄ›.}
+{403}{}{DobÅ™e.}
+{404}{}{Opat je dobrÃ½ duchovnÃ­ vÅ¯dce, ale je trochu rozmrzelÃ½ potÃ©, co ta bestie zabila bratra Thomase.}
 {405}{}{Co je to za bestii?}
-{406}{}{Nevidìl jsem ji. Mezi námi...na svìtì není nic, co by mì pøimìlo, abych šel tam dolù a prozkoumal ty jeskynì... ale kdybych mìl hádat, øekl bych, e je to obrovskı radškorpion.}
-{407}{}{Pokud jsi to nevidìl, tak co tì vede k tomu, e je to radškorpion?}
-{408}{}{Protoe jsem slyšel ozvìny zvukù z jeskyní, cvakání klepet a šramot pobíhajících noièek.}
-{409}{}{Dobøe.}
-{410}{}{Popravdì máme. Podívej se do tamhletoho poèítaèe. Tady, pouij tuhle pøístupovou kartu pro pøístup k šifrovanım souborùm. (Podá ti pøístupovou kartu.)}
-{411}{}{Vıbornì. Díky moc!}
-{412}{}{Nevím nic o Vaultu 13, ale smìrem na jih je Vault City. Moná tam mají informaci, kterou potøebuješ.}
-{413}{}{Díky.}
-{414}{}{Ten poèítaè vedle mì by o tom mohl mít nìjaké informace, ale potøebuješ pøístupovou kartu. Obvykle neudìlujeme pøístup komukoliv, take si napøed promluv s Opatem kvùli povolení.}
-{415}{}{Dobøe, díky.}
-{420}{}{Hádám, e jsi pøeèetl ve svém ivotì spoustu knih. Zajímalo by mì, jaká je ta nejzajímavìjší vìc, kterou ses dozvìdìl.}
-{421}{}{Hmm, tak tøeba... vìdìl jsi, e záøez ve stromì zùstane ve stejné vıšce nad zemí i kdy strom roste?}
-{422}{}{Jasnì. Kdy na nìco takového narazím, dám ti vìdìt.}
-{423}{}{Dobøe... no, chci se ještì zeptat.}
-{424}{}{Opravdu to udìláš? Moc bych to ocenil.}
-{425}{}{ádnı problém. Chci se ještì zeptat.}
-{426}{}{Kdykoliv. No, zatím nashle.}
-{430}{}{Mám tu nìco o botanice, co by tì mohlo zajímat.}
-{431}{}{Vánì?! To je skvìlé. Prosím, hned mi to øekni.}
-{432}{}{Fascinující! Vezmu si ten holodisk a hned ho pøidám do poèítaèové databáze. Oceòuji, e sis udìlal èas ho najít. Dìkuji ti, e jsi ho pro mì získal.}
-{433}{}{Podívej... pochopení destrukce prostøedí a zánik druhù je závislé na pøesné a kompletní katalogizaci systematiky rostlin a taxonomie. A to pak znamená, e...}
-{434}{}{Kdykoliv. Chci se ještì zeptat.}
-{435}{}{ádnı problém. Zatím nashle.}
-{436}{}{Fascinující. Oceòuji, e sis udìlal èas ho najít. Prosím, jdi a nahraj tyto informace do našich poèítaèù.}
-{437}{}{ádnı problém, udìlám to hned. Zatím nashle.}
-{500}{}{Pøestaò s tím, blbeèku!}
-{550}{}{Ten poèítaè vedle mì by o tom mohl mít nìjaké informace. Nyní máš k nìmu pøístup, take se mùeš podívat.}
-{600}{}{Opat mi udìlil oprávnìní pro pøístup k místním poèítaèùm.}
-{601}{}{Ach ano, slyšel jsem o tvém èinu. Díky za vyøešení. Tady je pøístupovı klíè. (Podá ti klíè.) Uij si to!}
-{602}{}{Díky. Zatím nashle.}
-{650}{}{Buï zdráv, cestovateli! Jsem bratr Paul a mojí povinností je sbírání informací pro Opatství. Co pro tebe mohu udìlat?}
-{651}{}{Tìší mì, Paule. Chci se na nìco zeptat.}
-{652}{}{Nic. Zatím nashle.}
-{4210}{}{Eh, ne, to jsem opravdu nevìdìl. To je...zajímavé.}
-{4211}{}{A víš, e je okurka z 96% voda?}
-{4212}{}{Páni, 96% jo? Úasné. Hmm, ale co je okurka?}
-{4213}{}{Nikdy jsem ádnou nevidìl, ale èetl jsem o nich. (Rozhlédne se nervóznì kolem a zaène šeptat.) Já vím, e ty knihy nemáme ve skuteènosti studovat, ale kdy jsem pøepisoval knihy o botanice, nemohl jsem si pomoci a úplnì mì to pohltilo. Svìt rostlin je prostì úchvatnı. Mìl bych na tebe jednu malou prosbu. Pokud na svıch cestách narazíš na nìjaké informace z botaniky, pøineseš mi je? Byl bych ti velice vdìènı. Bude to samozøejmì naše tajemství.}
-{4220}{}{Myslím si, e tì nebudu podporovat v tvé posedlosti rostlinami. Promiò.}
-{4221}{}{No, tak dobøe. Fajn, zapomeò, e jsem se ptal.}
-{4222}{}{Chci se ještì na nìco zeptat.}
+{406}{}{NevidÄ›l jsem ji. Mezi nÃ¡mi...na svÄ›tÄ› nenÃ­ nic, co by mÄ› pÅ™imÄ›lo, abych Å¡el tam dolÅ¯ a prozkoumal ty jeskynÄ›... ale kdybych mÄ›l hÃ¡dat, Å™ekl bych, Å¾e je to obrovskÃ½ radÅ¡korpion.}
+{407}{}{Pokud jsi to nevidÄ›l, tak co tÄ› vede k tomu, Å¾e je to radÅ¡korpion?}
+{408}{}{ProtoÅ¾e jsem slyÅ¡el ozvÄ›ny zvukÅ¯ z jeskynÃ­, cvakÃ¡nÃ­ klepet a Å¡ramot pobÃ­hajÃ­cÃ­ch noÅ¾iÄek.}
+{409}{}{DobÅ™e.}
+{410}{}{PopravdÄ› mÃ¡me. PodÃ­vej se do tamhletoho poÄÃ­taÄe. Tady, pouÅ¾ij tuhle pÅ™Ã­stupovou kartu pro pÅ™Ã­stup k Å¡ifrovanÃ½m souborÅ¯m. (PodÃ¡ ti pÅ™Ã­stupovou kartu.)}
+{411}{}{VÃ½bornÄ›. DÃ­ky moc!}
+{412}{}{NevÃ­m nic o Vaultu 13, ale smÄ›rem na jih je Vault City. MoÅ¾nÃ¡ tam majÃ­ informaci, kterou potÅ™ebujeÅ¡.}
+{413}{}{DÃ­ky.}
+{414}{}{Ten poÄÃ­taÄ vedle mÄ› by o tom mohl mÃ­t nÄ›jakÃ© informace, ale potÅ™ebujeÅ¡ pÅ™Ã­stupovou kartu. Obvykle neudÄ›lujeme pÅ™Ã­stup komukoliv, takÅ¾e si napÅ™ed promluv s Opatem kvÅ¯li povolenÃ­.}
+{415}{}{DobÅ™e, dÃ­ky.}
+{420}{}{HÃ¡dÃ¡m, Å¾e jsi pÅ™eÄetl ve svÃ©m Å¾ivotÄ› spoustu knih. ZajÃ­malo by mÄ›, jakÃ¡ je ta nejzajÃ­mavÄ›jÅ¡Ã­ vÄ›c, kterou ses dozvÄ›dÄ›l.}
+{421}{}{Hmm, tak tÅ™eba... vÄ›dÄ›l jsi, Å¾e zÃ¡Å™ez ve stromÄ› zÅ¯stane ve stejnÃ© vÃ½Å¡ce nad zemÃ­ i kdyÅ¾ strom roste?}
+{422}{}{JasnÄ›. KdyÅ¾ na nÄ›co takovÃ©ho narazÃ­m, dÃ¡m ti vÄ›dÄ›t.}
+{423}{}{DobÅ™e... no, chci se jeÅ¡tÄ› zeptat.}
+{424}{}{Opravdu to udÄ›lÃ¡Å¡? Moc bych to ocenil.}
+{425}{}{Å½Ã¡dnÃ½ problÃ©m. Chci se jeÅ¡tÄ› zeptat.}
+{426}{}{Kdykoliv. No, zatÃ­m nashle.}
+{430}{}{MÃ¡m tu nÄ›co o botanice, co by tÄ› mohlo zajÃ­mat.}
+{431}{}{VÃ¡Å¾nÄ›?! To je skvÄ›lÃ©. ProsÃ­m, hned mi to Å™ekni.}
+{432}{}{FascinujÃ­cÃ­! Vezmu si ten holodisk a hned ho pÅ™idÃ¡m do poÄÃ­taÄovÃ© databÃ¡ze. OceÅˆuji, Å¾e sis udÄ›lal Äas ho najÃ­t. DÄ›kuji ti, Å¾e jsi ho pro mÄ› zÃ­skal.}
+{433}{}{PodÃ­vej... pochopenÃ­ destrukce prostÅ™edÃ­ a zÃ¡nik druhÅ¯ je zÃ¡vislÃ© na pÅ™esnÃ© a kompletnÃ­ katalogizaci systematiky rostlin a taxonomie. A to pak znamenÃ¡, Å¾e...}
+{434}{}{Kdykoliv. Chci se jeÅ¡tÄ› zeptat.}
+{435}{}{Å½Ã¡dnÃ½ problÃ©m. ZatÃ­m nashle.}
+{436}{}{FascinujÃ­cÃ­. OceÅˆuji, Å¾e sis udÄ›lal Äas ho najÃ­t. ProsÃ­m, jdi a nahraj tyto informace do naÅ¡ich poÄÃ­taÄÅ¯.}
+{437}{}{Å½Ã¡dnÃ½ problÃ©m, udÄ›lÃ¡m to hned. ZatÃ­m nashle.}
+{500}{}{PÅ™estaÅˆ s tÃ­m, blbeÄku!}
+{550}{}{Ten poÄÃ­taÄ vedle mÄ› by o tom mohl mÃ­t nÄ›jakÃ© informace. NynÃ­ mÃ¡Å¡ k nÄ›mu pÅ™Ã­stup, takÅ¾e se mÅ¯Å¾eÅ¡ podÃ­vat.}
+{600}{}{Opat mi udÄ›lil oprÃ¡vnÄ›nÃ­ pro pÅ™Ã­stup k mÃ­stnÃ­m poÄÃ­taÄÅ¯m.}
+{601}{}{Ach ano, slyÅ¡el jsem o tvÃ©m Äinu. DÃ­ky za vyÅ™eÅ¡enÃ­. Tady je pÅ™Ã­stupovÃ½ klÃ­Ä. (PodÃ¡ ti klÃ­Ä.) UÅ¾ij si to!}
+{602}{}{DÃ­ky. ZatÃ­m nashle.}
+{650}{}{BuÄ zdrÃ¡v, cestovateli! Jsem bratr Paul a mojÃ­ povinnostÃ­ je sbÃ­rÃ¡nÃ­ informacÃ­ pro OpatstvÃ­. Co pro tebe mohu udÄ›lat?}
+{651}{}{TÄ›Å¡Ã­ mÄ›, Paule. Chci se na nÄ›co zeptat.}
+{652}{}{Nic. ZatÃ­m nashle.}
+{4210}{}{Eh, ne, to jsem opravdu nevÄ›dÄ›l. To je...zajÃ­mavÃ©.}
+{4211}{}{A vÃ­Å¡, Å¾e je okurka z 96% voda?}
+{4212}{}{PÃ¡ni, 96% jo? ÃšÅ¾asnÃ©. Hmm, ale co je okurka?}
+{4213}{}{Nikdy jsem Å¾Ã¡dnou nevidÄ›l, ale Äetl jsem o nich. (RozhlÃ©dne se nervÃ³znÄ› kolem a zaÄne Å¡eptat.) JÃ¡ vÃ­m, Å¾e ty knihy nemÃ¡me ve skuteÄnosti studovat, ale kdyÅ¾ jsem pÅ™episoval knihy o botanice, nemohl jsem si pomoci a ÃºplnÄ› mÄ› to pohltilo. SvÄ›t rostlin je prostÄ› ÃºchvatnÃ½. MÄ›l bych na tebe jednu malou prosbu. Pokud na svÃ½ch cestÃ¡ch narazÃ­Å¡ na nÄ›jakÃ© informace z botaniky, pÅ™ineseÅ¡ mi je? Byl bych ti velice vdÄ›ÄnÃ½. Bude to samozÅ™ejmÄ› naÅ¡e tajemstvÃ­.}
+{4220}{}{MyslÃ­m si, Å¾e tÄ› nebudu podporovat v tvÃ© posedlosti rostlinami. PromiÅˆ.}
+{4221}{}{No, tak dobÅ™e. Fajn, zapomeÅˆ, Å¾e jsem se ptal.}
+{4222}{}{Chci se jeÅ¡tÄ› na nÄ›co zeptat.}

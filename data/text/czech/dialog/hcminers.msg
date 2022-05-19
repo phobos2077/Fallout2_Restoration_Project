@@ -1,49 +1,49 @@
-{100}{}{Vidíš mutanta s krumpáèem ve špinavıch hadrech.}
-{101}{}{Vidíš mutantského horníka.}
-{102}{}{Vidíš mutanta s krumpáèem ve špinavıch hadrech. Podle mozolù na rukou si myslíš, e to bude asi horník. Vypadá unavenì a trochu zmatenì.}
-{103}{}{Co chceš?}
+{100}{}{VidÃ­Å¡ mutanta s krumpÃ¡Äem ve Å¡pinavÃ½ch hadrech.}
+{101}{}{VidÃ­Å¡ mutantskÃ©ho hornÃ­ka.}
+{102}{}{VidÃ­Å¡ mutanta s krumpÃ¡Äem ve Å¡pinavÃ½ch hadrech. Podle mozolÅ¯ na rukou si myslÃ­Å¡, Å¾e to bude asi hornÃ­k. VypadÃ¡ unavenÄ› a trochu zmatenÄ›.}
+{103}{}{Co chceÅ¡?}
 {104}{}{Ag-ag! Ooo!}
 {105}{}{Ork! Ooky!}
 {106}{}{Dallo?}
 {107}{}{Dallo!}
-{108}{}{Je tu nìjaká práce?}
+{108}{}{Je tu nÄ›jakÃ¡ prÃ¡ce?}
 {109}{}{Kdo jsi?}
-{110}{}{Ach boe, zase další blázen zasaenej rakovinou mozku. Vùbec ti nerozumím. Nemùu ti pomoct.}
-{111}{}{Øíkám, e ti nemùu pomoct! Jdi otravovat nìkoho jinıho!}
-{112}{}{Co se tu dá dìlat? No, dùl je zavøenej, protoe nefunguje èistièka vzduchu. Jinak je tu taky salón, karavany a obchod. A to je asi tak všechno. Poèkat... o èem se to vlastnì bavíme?}
-{113}{}{S kım si mùu popovídat o dole?}
-{114}{}{Kde je ten salón?}
-{115}{}{Kde najdu nìkoho od karavan?}
+{110}{}{Ach boÅ¾e, zase dalÅ¡Ã­ blÃ¡zen zasaÅ¾enej rakovinou mozku. VÅ¯bec ti nerozumÃ­m. NemÅ¯Å¾u ti pomoct.}
+{111}{}{Å˜Ã­kÃ¡m, Å¾e ti nemÅ¯Å¾u pomoct! Jdi otravovat nÄ›koho jinÃ½ho!}
+{112}{}{Co se tu dÃ¡ dÄ›lat? No, dÅ¯l je zavÅ™enej, protoÅ¾e nefunguje ÄistiÄka vzduchu. Jinak je tu taky salÃ³n, karavany a obchod. A to je asi tak vÅ¡echno. PoÄkat... o Äem se to vlastnÄ› bavÃ­me?}
+{113}{}{S kÃ½m si mÅ¯Å¾u popovÃ­dat o dole?}
+{114}{}{Kde je ten salÃ³n?}
+{115}{}{Kde najdu nÄ›koho od karavan?}
 {116}{}{Kde je ten obchod?}
-{117}{}{Dík. Naskle.}
-{118}{}{Jsem jeden z horníkù. Chceš nìco dùleitıho?}
+{117}{}{DÃ­k. Naskle.}
+{118}{}{Jsem jeden z hornÃ­kÅ¯. ChceÅ¡ nÄ›co dÅ¯leÅ¾itÃ½ho?}
 {119}{}{Ano.}
 {120}{}{Ne.}
 {121}{}{Nashle.}
-{122}{}{Hlavní osoby v tomhle mìstì jsou Marcus, on je nìco jako starosta a šerif, Zaius, hlavní dùlmistr, a Chad, kterej øídí karavany. Barman Phil je šéf ghoulù, aspoò myslím... jestli vùbec maj nìjakıho vùdce. Kde jsme to skonèili?}
+{122}{}{HlavnÃ­ osoby v tomhle mÄ›stÄ› jsou Marcus, on je nÄ›co jako starosta a Å¡erif, Zaius, hlavnÃ­ dÅ¯lmistr, a Chad, kterej Å™Ã­dÃ­ karavany. Barman Phil je Å¡Ã©f ghoulÅ¯, aspoÅˆ myslÃ­m... jestli vÅ¯bec maj nÄ›jakÃ½ho vÅ¯dce. Kde jsme to skonÄili?}
 {123}{}{Kde najdu Marcuse?}
 {124}{}{Kde najdu Zaiuse?}
 {125}{}{Kde najdu Camerona?}
 {126}{}{Kde najdu Chada?}
 {127}{}{Kde najdu Phila?}
-{128}{}{Dík. Naskle.}
-{129}{}{Jestli si myslíš, e nám mùeš pomoct s opravou dolu, tak si promluv se Zaiusem. Vìtšinou je ve svı chıši poblí dolu. Ale má špatnou náladu, protoe nefunguje èistièka vzduchu. Ještì nìco?}
-{130}{}{Phil je ghoul a patøí mu salón. Je nìco jako místní ghoulí šéf. Najdeš ho na vıchod od banky. Ještì nìco?}
-{131}{}{Chad øídí chod karavan a najdeš ho na jihozápadì mìsta. Ještì nìco?}
-{132}{}{Liz je jedna z mála slušnıch lidí. Patøí jí obchod na západ od banky. Ještì nìco?}
-{133}{}{Tak dobøe. Uvidíme se pozdìji.}
-{134}{}{Cameron je vùdce všech normálních lidí ve mìstì. Nemá sice moc rád mutanty nebo ghouly, ale zachází s námi v pohodì. Je to politik, take ho vìtšinou najdeš v bance nebo v salónu. Obèas ho taky najdeš v kovárnì. Ještì nìco? A kde jsem vlastnì já? No jo vlastnì... jo... ještì nìco?}
+{128}{}{DÃ­k. Naskle.}
+{129}{}{Jestli si myslÃ­Å¡, Å¾e nÃ¡m mÅ¯Å¾eÅ¡ pomoct s opravou dolu, tak si promluv se Zaiusem. VÄ›tÅ¡inou je ve svÃ½ chÃ½Å¡i poblÃ­Å¾ dolu. Ale mÃ¡ Å¡patnou nÃ¡ladu, protoÅ¾e nefunguje ÄistiÄka vzduchu. JeÅ¡tÄ› nÄ›co?}
+{130}{}{Phil je ghoul a patÅ™Ã­ mu salÃ³n. Je nÄ›co jako mÃ­stnÃ­ ghoulÃ­ Å¡Ã©f. NajdeÅ¡ ho na vÃ½chod od banky. JeÅ¡tÄ› nÄ›co?}
+{131}{}{Chad Å™Ã­dÃ­ chod karavan a najdeÅ¡ ho na jihozÃ¡padÄ› mÄ›sta. JeÅ¡tÄ› nÄ›co?}
+{132}{}{Liz je jedna z mÃ¡la sluÅ¡nÃ½ch lidÃ­. PatÅ™Ã­ jÃ­ obchod na zÃ¡pad od banky. JeÅ¡tÄ› nÄ›co?}
+{133}{}{Tak dobÅ™e. UvidÃ­me se pozdÄ›ji.}
+{134}{}{Cameron je vÅ¯dce vÅ¡ech normÃ¡lnÃ­ch lidÃ­ ve mÄ›stÄ›. NemÃ¡ sice moc rÃ¡d mutanty nebo ghouly, ale zachÃ¡zÃ­ s nÃ¡mi v pohodÄ›. Je to politik, takÅ¾e ho vÄ›tÅ¡inou najdeÅ¡ v bance nebo v salÃ³nu. ObÄas ho taky najdeÅ¡ v kovÃ¡rnÄ›. JeÅ¡tÄ› nÄ›co? A kde jsem vlastnÄ› jÃ¡? No jo vlastnÄ›... jo... jeÅ¡tÄ› nÄ›co?}
 {135}{}{Marcus is our leader. He helped found Broken Hills. You can usually find him at the bank or
  the jail. Anything else?}
-{136}{}{Chamtivej parchante. Víš jak tìce musíme pracovat? Doufám, e shniješ v pekle.}
-{137}{}{Díky za rudu!}
-{138}{}{Poøád nemùu uvìøit tomu, e dùl vyletìl do povìtøí. Teï tu všichni umøeme hlady. Ten dùl byl to jedinı, co udrovalo tohle mìsto pøi ivotì. No, aspoò budu moct jít do dùchodu...}
-{139}{}{Chcípni, bastarde!}
-{140}{}{Díky za opravení dolu. Jsme ti opravdu vdìèní. Co pro tebe mùu udìlat?}
+{136}{}{Chamtivej parchante. VÃ­Å¡ jak tÄ›Å¾ce musÃ­me pracovat? DoufÃ¡m, Å¾e shnijeÅ¡ v pekle.}
+{137}{}{DÃ­ky za rudu!}
+{138}{}{PoÅ™Ã¡d nemÅ¯Å¾u uvÄ›Å™it tomu, Å¾e dÅ¯l vyletÄ›l do povÄ›tÅ™Ã­. TeÄ tu vÅ¡ichni umÅ™eme hlady. Ten dÅ¯l byl to jedinÃ½, co udrÅ¾ovalo tohle mÄ›sto pÅ™i Å¾ivotÄ›. No, aspoÅˆ budu moct jÃ­t do dÅ¯chodu...}
+{139}{}{ChcÃ­pni, bastarde!}
+{140}{}{DÃ­ky za opravenÃ­ dolu. Jsme ti opravdu vdÄ›ÄnÃ­. Co pro tebe mÅ¯Å¾u udÄ›lat?}
 {141}{}{Kdo jsi?}
-{142}{}{Co se dá v tomhle mìstì dìlat?}
+{142}{}{Co se dÃ¡ v tomhle mÄ›stÄ› dÄ›lat?}
 {143}{}{No nic.}
-{144}{}{Jsme ti vdìèní za záchranu pøed tìma krysama z NCR. Opravdu díky. Co pro tebe mùu udìlat?}
+{144}{}{Jsme ti vdÄ›ÄnÃ­ za zÃ¡chranu pÅ™ed tÄ›ma krysama z NCR. Opravdu dÃ­ky. Co pro tebe mÅ¯Å¾u udÄ›lat?}
 {145}{}{Kdo jsi?}
-{146}{}{Co se dá v tomhle mìstì dìlat?}
+{146}{}{Co se dÃ¡ v tomhle mÄ›stÄ› dÄ›lat?}
 {147}{}{No nic.}

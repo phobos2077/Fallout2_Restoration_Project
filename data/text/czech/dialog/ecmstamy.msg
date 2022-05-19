@@ -1,5 +1,5 @@
-{100}{}{Vidíš nekompromisního èlena Vùdcovy armády.}
-{101}{}{Vùdce øekl, a pøivedeme všechny normálny.}
-{102}{}{Všichni normálové musí bıt ponoøeni do kádí.}
-{103}{}{Rozmáèknout normála!}
-{104}{}{Já chtít slyšet ten èvachtavı zvuk.}
+{100}{}{VidÃ­Å¡ nekompromisnÃ­ho Älena VÅ¯dcovy armÃ¡dy.}
+{101}{}{VÅ¯dce Å™ekl, aÅ¥ pÅ™ivedeme vÅ¡echny normÃ¡lny.}
+{102}{}{VÅ¡ichni normÃ¡lovÃ© musÃ­ bÃ½t ponoÅ™eni do kÃ¡dÃ­.}
+{103}{}{RozmÃ¡Äknout normÃ¡la!}
+{104}{}{JÃ¡ chtÃ­t slyÅ¡et ten ÄvachtavÃ½ zvuk.}

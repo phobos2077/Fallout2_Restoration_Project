@@ -1,17 +1,17 @@
-{100}{}{Musíme varovat Lynette!}
-{101}{}{MUsíme varovat Vault City!}
-{102}{}{Cizáckı zmetci...}
-{103}{}{Tupí špinavci...}
-{104}{}{Je naèase vyplít tu cizáckou špínu... chcípnìte, cizáci!}
-{105}{}{Co pohledáváš v blízkosti Vault City?}
-{106}{}{Co dìláš v blízkosti Vault City?}
-{107}{}{Tohle je území Vault City.}
-{108}{}{Dávej si pozor.}
-{109}{}{Vault City není útoèištìm pro *kadého.* Take pokraèuj.}
-{110}{}{Pro takové, jako jsi ty, je tu Den.}
-{111}{}{Radím ti, a se tam hned vydáš.}
-{112}{}{Buï zdráv, Obèane.}
-{113}{}{Mùeme pro tebe nìco udìlat, Obèane?}
-{114}{}{Potøebuješ doprovod do Vault City?}
-{115}{}{Co dìláš tak daleko od Vault City, Obèane?}
-{116}{}{Báli jsme se, e se ti nìco stalo, Obèane.}
+{100}{}{MusÃ­me varovat Lynette!}
+{101}{}{MUsÃ­me varovat Vault City!}
+{102}{}{CizÃ¡ckÃ½ zmetci...}
+{103}{}{TupÃ­ Å¡pinavci...}
+{104}{}{Je naÄase vyplÃ­t tu cizÃ¡ckou Å¡pÃ­nu... chcÃ­pnÄ›te, cizÃ¡ci!}
+{105}{}{Co pohledÃ¡vÃ¡Å¡ v blÃ­zkosti Vault City?}
+{106}{}{Co dÄ›lÃ¡Å¡ v blÃ­zkosti Vault City?}
+{107}{}{Tohle je ÃºzemÃ­ Vault City.}
+{108}{}{DÃ¡vej si pozor.}
+{109}{}{Vault City nenÃ­ ÃºtoÄiÅ¡tÄ›m pro *kaÅ¾dÃ©ho.* TakÅ¾e pokraÄuj.}
+{110}{}{Pro takovÃ©, jako jsi ty, je tu Den.}
+{111}{}{RadÃ­m ti, aÅ¥ se tam hned vydÃ¡Å¡.}
+{112}{}{BuÄ zdrÃ¡v, ObÄane.}
+{113}{}{MÅ¯Å¾eme pro tebe nÄ›co udÄ›lat, ObÄane?}
+{114}{}{PotÅ™ebujeÅ¡ doprovod do Vault City?}
+{115}{}{Co dÄ›lÃ¡Å¡ tak daleko od Vault City, ObÄane?}
+{116}{}{BÃ¡li jsme se, Å¾e se ti nÄ›co stalo, ObÄane.}

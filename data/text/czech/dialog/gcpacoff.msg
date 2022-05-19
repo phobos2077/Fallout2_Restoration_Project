@@ -1,99 +1,99 @@
 {100}{}{}
 {101}{}{}
 {102}{}{}
-{103}{powr1}{Tady ENKLÁVA. Proè ti nefunguje videokanál?}
-{104}{}{Eh, tady je všechno v poøádku. Já tì vidím.}
-{105}{}{Je rozbitı.}
-{106}{}{Právì dìláme na optickém vedení. Chtìl jsem to jen vyzkoušet.}
-{107}{}{Odhlásit se.}
+{103}{powr1}{Tady ENKLÃVA. ProÄ ti nefunguje videokanÃ¡l?}
+{104}{}{Eh, tady je vÅ¡echno v poÅ™Ã¡dku. JÃ¡ tÄ› vidÃ­m.}
+{105}{}{Je rozbitÃ½.}
+{106}{}{PrÃ¡vÄ› dÄ›lÃ¡me na optickÃ©m vedenÃ­. ChtÄ›l jsem to jen vyzkouÅ¡et.}
+{107}{}{OdhlÃ¡sit se.}
 {108}{powr2}{Kdo sakra jsi?}
-{109}{}{Eh, tady jsme všichni v poøádku. Jak jste na tom vy?}
-{110}{}{Tady caau, rit, sss, pu-, -lyšíš. Pøepínám.}
-{111}{}{Jsem Vyvolenı, take si dávej pozor na jazyk.}
-{112}{}{Tady jednotka tøi.}
-{113}{powr3_c}{Poøád ti to nefunguje, kámo. Kdo je tam?}
-{114}{powr3a}{Vùbec nic se nezmìnilo. Poøád nic nechytám. Kdo je tam?}
-{115}{}{Opakujte, prosím. Pøepínám.}
-{116}{}{Kdy ti to øeknu, tak tì budu muset zabít.}
-{117}{}{Jsem Vyvolenı.}
-{118}{}{No, to není nic neobvyklého. Nic u tady poøádnì nefunguje.}
-{119}{}{Já to vím a ty si to musíš zjistit. Sbohem.}
-{120}{powr3b_b}{O èem to mluvíš? Kdo-kdo jsi?}
-{121}{}{Kdy ti to øeknu, tak tì budu muset zabít.}
-{122}{}{Jsem Vyvolenı.}
-{123}{}{No, to není nic neobvyklého. Nic u tady poøádnì nefunguje.}
-{124}{}{Já to vím a ty si to musíš zjistit. Sbohem.}
-{125}{powr4a_a}{Prezident! Já, eh...}
-{126}{powr4b_b}{Aha? Tak vtipálek, jo? Tak hele, právì tì zamìøuju, kámo. Uvidíme, jak ti bude do smíchu, a na tebe pošlu zásahovou jednotku, kokote!}
-{127}{powr4c_a}{U mám dost tìch tvıch kecù. Jak by se ti líbilo zahrát si vybíjenou s plazmovıma puškama? Co?}
-{128}{}{Tak promiò, nechtìl jsem tì rozzlobit.}
-{129}{}{Mám tu tvoji stopu a ukáu ti, kam si ji mùeš strèit.}
-{130}{}{Tak ty mì zamìøuješ, jo? No, tak to já tì zamìøuju taky, kámo.}
-{131}{}{Hroznì rád bych se tady ještì zdrel a poklábosil s vámi o tom, jak si navzájem líbáte zadky, ale mám na práci dùleitìjší vìci. Sbohem.}
-{132}{}{No, já, hmm, u budu muset jít. Sbohem.}
-{133}{powr5_a}{Zkus upravit pøíjem.}
-{134}{}{Tak a... teï u by to mìlo jít. Je to lepší?}
-{135}{}{Pøíjem? Co je s pøíjmem? Mám dost práce, take mùj pøíjem není špatnı.}
-{136}{}{Zkusím to pozdìji. Sbohem.}
+{109}{}{Eh, tady jsme vÅ¡ichni v poÅ™Ã¡dku. Jak jste na tom vy?}
+{110}{}{Tady caau, rit, sss, pu-, -lyÅ¡Ã­Å¡. PÅ™epÃ­nÃ¡m.}
+{111}{}{Jsem VyvolenÃ½, takÅ¾e si dÃ¡vej pozor na jazyk.}
+{112}{}{Tady jednotka tÅ™i.}
+{113}{powr3_c}{PoÅ™Ã¡d ti to nefunguje, kÃ¡mo. Kdo je tam?}
+{114}{powr3a}{VÅ¯bec nic se nezmÄ›nilo. PoÅ™Ã¡d nic nechytÃ¡m. Kdo je tam?}
+{115}{}{Opakujte, prosÃ­m. PÅ™epÃ­nÃ¡m.}
+{116}{}{KdyÅ¾ ti to Å™eknu, tak tÄ› budu muset zabÃ­t.}
+{117}{}{Jsem VyvolenÃ½.}
+{118}{}{No, to nenÃ­ nic neobvyklÃ©ho. Nic uÅ¾ tady poÅ™Ã¡dnÄ› nefunguje.}
+{119}{}{JÃ¡ to vÃ­m a ty si to musÃ­Å¡ zjistit. Sbohem.}
+{120}{powr3b_b}{O Äem to mluvÃ­Å¡? Kdo-kdo jsi?}
+{121}{}{KdyÅ¾ ti to Å™eknu, tak tÄ› budu muset zabÃ­t.}
+{122}{}{Jsem VyvolenÃ½.}
+{123}{}{No, to nenÃ­ nic neobvyklÃ©ho. Nic uÅ¾ tady poÅ™Ã¡dnÄ› nefunguje.}
+{124}{}{JÃ¡ to vÃ­m a ty si to musÃ­Å¡ zjistit. Sbohem.}
+{125}{powr4a_a}{Prezident! JÃ¡, eh...}
+{126}{powr4b_b}{Aha? Tak vtipÃ¡lek, jo? Tak hele, prÃ¡vÄ› tÄ› zamÄ›Å™uju, kÃ¡mo. UvidÃ­me, jak ti bude do smÃ­chu, aÅ¾ na tebe poÅ¡lu zÃ¡sahovou jednotku, kokote!}
+{127}{powr4c_a}{UÅ¾ mÃ¡m dost tÄ›ch tvÃ½ch kecÅ¯. Jak by se ti lÃ­bilo zahrÃ¡t si vybÃ­jenou s plazmovÃ½ma puÅ¡kama? Co?}
+{128}{}{Tak promiÅˆ, nechtÄ›l jsem tÄ› rozzlobit.}
+{129}{}{MÃ¡m tu tvoji stopu a ukÃ¡Å¾u ti, kam si ji mÅ¯Å¾eÅ¡ strÄit.}
+{130}{}{Tak ty mÄ› zamÄ›Å™ujeÅ¡, jo? No, tak to jÃ¡ tÄ› zamÄ›Å™uju taky, kÃ¡mo.}
+{131}{}{HroznÄ› rÃ¡d bych se tady jeÅ¡tÄ› zdrÅ¾el a poklÃ¡bosil s vÃ¡mi o tom, jak si navzÃ¡jem lÃ­bÃ¡te zadky, ale mÃ¡m na prÃ¡ci dÅ¯leÅ¾itÄ›jÅ¡Ã­ vÄ›ci. Sbohem.}
+{132}{}{No, jÃ¡, hmm, uÅ¾ budu muset jÃ­t. Sbohem.}
+{133}{powr5_a}{Zkus upravit pÅ™Ã­jem.}
+{134}{}{Tak a... teÄ uÅ¾ by to mÄ›lo jÃ­t. Je to lepÅ¡Ã­?}
+{135}{}{PÅ™Ã­jem? Co je s pÅ™Ã­jmem? MÃ¡m dost prÃ¡ce, takÅ¾e mÅ¯j pÅ™Ã­jem nenÃ­ Å¡patnÃ½.}
+{136}{}{ZkusÃ­m to pozdÄ›ji. Sbohem.}
 {137}{powr6_a}{Chosen One, huh? Well, uh, pardon me for not blowing sunshine up your ass, but I'm a little too busy for this, your highness.}
-{138}{}{Poklekni pøede mnou a já moná ušetøím tvùj ivot. Jeíš, to se dobøe poslouchá.}
-{139}{}{Netrvám na tom, abys pøede mnou poklekl, ale myslím, e malá poklona a políbení mého prstenu bude staèit.}
-{140}{}{Eh, chtìl jsem øíct, e jsem *vyvolenı* k tomu, abych opravil komunikaèní jednotku. Zdá se, e u tady nic nefunguje.}
-{141}{}{No, myslím, e u mám dost tìch tvıch uráek. Sbohem, nádivo.}
-{142}{powr7_a}{Jednotka tøi? Nemáte bıt náhodou na základnì Navarro?}
-{143}{}{Na základnì Navarro? No jasnì, na základnì Navarro. Tam právì jsme. Jasnì. Vìdìl jsem to.}
+{138}{}{Poklekni pÅ™ede mnou a jÃ¡ moÅ¾nÃ¡ uÅ¡etÅ™Ã­m tvÅ¯j Å¾ivot. JeÅ¾Ã­Å¡, to se dobÅ™e poslouchÃ¡.}
+{139}{}{NetrvÃ¡m na tom, abys pÅ™ede mnou poklekl, ale myslÃ­m, Å¾e malÃ¡ poklona a polÃ­benÃ­ mÃ©ho prstenu bude staÄit.}
+{140}{}{Eh, chtÄ›l jsem Å™Ã­ct, Å¾e jsem *vyvolenÃ½* k tomu, abych opravil komunikaÄnÃ­ jednotku. ZdÃ¡ se, Å¾e uÅ¾ tady nic nefunguje.}
+{141}{}{No, myslÃ­m, Å¾e uÅ¾ mÃ¡m dost tÄ›ch tvÃ½ch urÃ¡Å¾ek. Sbohem, nÃ¡divo.}
+{142}{powr7_a}{Jednotka tÅ™i? NemÃ¡te bÃ½t nÃ¡hodou na zÃ¡kladnÄ› Navarro?}
+{143}{}{Na zÃ¡kladnÄ› Navarro? No jasnÄ›, na zÃ¡kladnÄ› Navarro. Tam prÃ¡vÄ› jsme. JasnÄ›. VÄ›dÄ›l jsem to.}
 {144}{}{Ne, museli jsme odtamtud vypadnout.}
-{145}{}{Ztrácím signál. Sbohem.}
-{146}{powr8_a}{To máš pravdu, ale bacha a se to nedoslechne nìkdo z prezidentovıch poskokù. Do smrti bys honil dobytek do New Rena, kámo.}
+{145}{}{ZtrÃ¡cÃ­m signÃ¡l. Sbohem.}
+{146}{powr8_a}{To mÃ¡Å¡ pravdu, ale bacha aÅ¥ se to nedoslechne nÄ›kdo z prezidentovÃ½ch poskokÅ¯. Do smrti bys honil dobytek do New Rena, kÃ¡mo.}
 {147}{}{Prezident?}
-{148}{}{Mám jenom dvì nohy. Ne bych se tam dostal, byl bych dost utahanı.}
-{149}{}{No, práce nepoèká. Radìji to pùjdu opravit. Sbohem.}
-{150}{powr9_a}{No, tak ten jsem ještì neslyšel. Mùj videokanál funguje, take urèitì vidíš, jak se tu válím po zemi. Dneska je tajnı úplnì všechno, co? Všechny ty speciální operace na pevninì a tak... nechápu, jak to dìlají.}
-{151}{}{Na pevninì? Kde jsi?}
-{152}{}{Jo no, tak u to chodí.}
-{153}{powr10_a}{Víš, jak je vdycky nešastnı, kdy si lidi stìují. Bere si to osobnì, jako by šlo o nìjakı projev vìrnosti. Nejspíš to asi patøí k prezidentùm Spojenıch Státù. Nebo k tomu, co z nich zbylo.}
-{154}{}{Prezidentùm Spojenıch Státù?}
-{155}{}{Já ho nevolil. Pøišlo mi, e ho nejvíc zajímá, jak si poøádnì zapíchat. Dávám pøednost kandidátovi, kterı u je moc starı na to, aby se mu ještì postavil. Víc pak myslí na svou práci.}
-{156}{}{Asi jo. Víš, budu se muset vrátit ke své práci. Sbohem.}
-{157}{powr11}{Haha, to bylo fakt vtipnı. Máme tady pro tebe pøipravené bezva místeèko... aspoò podle toho, co jsem slyšel.}
-{158}{}{Take ty teï nejsi v New Renu?}
-{159}{}{No, radìji se vrátím ke své práci. Musím opravit to spojení. Sbohem.}
-{160}{powr12}{Prezident zasranıch Spojenıch Státù Americkıch pøece. O kom myslíš, e mluvím? Kdo do pr... kdo je... co... mìl bych ti nakopat tu tvoji zasranou prdel. Kdo jsi?}
-{161}{}{Jsem Vyvolenı. A teï mi polib... nohy.}
-{162}{}{Jsem Vyvolenı.}
-{163}{}{Jsem Prezident a ty jsi v pìkném prùšvihu.}
-{164}{}{Na takovou informaci nejsi dost dùleitı.}
-{165}{}{Eh, radìji pùjdu. Mám ještì spoustu práce. Sbohem.}
-{166}{powr13}{Tady hlavní komunikaèní centrum ENKLÁVY... ale to snad víš. Kdo jsi?}
-{167}{}{Aha, já jenom e... hej, víš o tom, e vaøenı geckon chutná podobnì jako brahmíní zadek?}
-{168}{}{Jsem Vyvolenı a nauèím tì, aby sis to pamatoval.}
-{169}{}{Nikdo dùleitı. Sbohem.}
-{170}{powr14}{Ještì chvíli a budu mít zamìøenou tvoji prdel. Hej, tak moment. To snad není pravda... zachytil jsem tì nìkde na pevninì.}
-{171}{}{Správnì, kreténe. Jsem pøesnì tam, kde mì nemùeš dostat.}
-{172}{}{To nemùe bıt pravda. Jsem pøesnì naproti tobì pøes halu, u spojovacího terminálu... haha, jak ses ještì podíval. No ty jseš ale idiot.}
-{173}{}{Jo, jsem v elektrárnì Poseidon Oil èíslo 12. Pojï si pro mì.}
-{174}{powr15}{Mám tì. Poseidon Oil reaktor èíslo 5. Tak a teï nikam nechoï, uspoøádám pro tebe malou oslavu. I s ohòostrojem.}
-{175}{}{Páni. Miluju ohòostroje. Doufám, e to bude stát za to.}
-{176}{}{Jsem Vyvolenı. To, co øíkáš, øíkej radìji hezky s úsmìvem.}
-{177}{}{Nejsem nikdo dùleitı. A teï u pùjdu. Sbohem.}
-{178}{powr16_a}{A jsi kdo jsi, právì jsem na tebe poslal zásahovou jednotku. Pøeju hezkı zbytek dne.}
-{179}{}{Brr, kdyby fungoval videokanál, vidìl bys, jak se celı tøesu.}
-{180}{}{No a co chtìjí dìlat?}
-{181}{}{Tak já snad radìji pùjdu. Nechci, aby pøišli ještì pøedtím, ne pøipravím uvítací ceremoniál a rozvinu èervenı koberec na uvítanou. Sbohem.}
-{182}{powr17}{Vìtšinou nìkam vtrhnou a všechno to tam vystøílejí. Po nich pøijdou jiní, kteøí se prohrabávají popelem, aby zjistili, co se stalo.}
-{183}{}{No, mì jen tak nechytnou.}
-{184}{}{Fíha, tak teï jsi mì úplnì vystrašil. Musím si jít vymìnit spodky.}
-{185}{}{No, aspoò jsem vèera neèistil svoje zbranì nadarmo.}
-{186}{}{Jo, jasnì. U jsem zabil i horší. Sbohem.}
-{187}{powr18}{Sbohem. U se tìším, a si o tobì pøeètu ve zprávì o akci.}
-{188}{}{Coe? Ty umíš èíst?}
-{189}{}{Jo, jasnì. Jak myslíš.}
-{190}{}{Právì ses dostal na mùj seznam.}
-{191}{powr19_a}{Museli jste vypadnout? Proè? Jste pøece na pobøeí a máte nejlepší obranu. Neslyšel jsem nic o... hele, kdo vlastnì sakra jsi?}
-{192}{}{Jsem velkı a mocnı Willie. Poklekni pøede mnou, pros za odpuštìní a moná tì ušetøím.}
-{193}{}{Nikdo dùleitı. Kde e je to Navarro?}
-{194}{}{Jo, dobyli jsme Navarro a tam jsem našel nahé fotky tvojí matky. Nebo to byl jenom tvùj otec pøestrojenı za enskou? Není divu, e jsi tak kurva ošklivej. Sbohem, kreténe.}
-{195}{powr20}{Jo, to si piš. Všechno je tady v ENKLÁVÌ pøísnìjší a ten zasranej prezident nás sleduje jako ostøí.}
+{148}{}{MÃ¡m jenom dvÄ› nohy. NeÅ¾ bych se tam dostal, byl bych dost utahanÃ½.}
+{149}{}{No, prÃ¡ce nepoÄkÃ¡. RadÄ›ji to pÅ¯jdu opravit. Sbohem.}
+{150}{powr9_a}{No, tak ten jsem jeÅ¡tÄ› neslyÅ¡el. MÅ¯j videokanÃ¡l funguje, takÅ¾e urÄitÄ› vidÃ­Å¡, jak se tu vÃ¡lÃ­m po zemi. Dneska je tajnÃ½ ÃºplnÄ› vÅ¡echno, co? VÅ¡echny ty speciÃ¡lnÃ­ operace na pevninÄ› a tak... nechÃ¡pu, jak to dÄ›lajÃ­.}
+{151}{}{Na pevninÄ›? Kde jsi?}
+{152}{}{Jo no, tak uÅ¾ to chodÃ­.}
+{153}{powr10_a}{VÃ­Å¡, jak je vÅ¾dycky neÅ¡Å¥astnÃ½, kdyÅ¾ si lidi stÄ›Å¾ujÃ­. Bere si to osobnÄ›, jako by Å¡lo o nÄ›jakÃ½ projev vÄ›rnosti. NejspÃ­Å¡ to asi patÅ™Ã­ k prezidentÅ¯m SpojenÃ½ch StÃ¡tÅ¯. Nebo k tomu, co z nich zbylo.}
+{154}{}{PrezidentÅ¯m SpojenÃ½ch StÃ¡tÅ¯?}
+{155}{}{JÃ¡ ho nevolil. PÅ™iÅ¡lo mi, Å¾e ho nejvÃ­c zajÃ­mÃ¡, jak si poÅ™Ã¡dnÄ› zapÃ­chat. DÃ¡vÃ¡m pÅ™ednost kandidÃ¡tovi, kterÃ½ uÅ¾ je moc starÃ½ na to, aby se mu jeÅ¡tÄ› postavil. VÃ­c pak myslÃ­ na svou prÃ¡ci.}
+{156}{}{Asi jo. VÃ­Å¡, budu se muset vrÃ¡tit ke svÃ© prÃ¡ci. Sbohem.}
+{157}{powr11}{Haha, to bylo fakt vtipnÃ½. MÃ¡me tady pro tebe pÅ™ipravenÃ© bezva mÃ­steÄko... aspoÅˆ podle toho, co jsem slyÅ¡el.}
+{158}{}{TakÅ¾e ty teÄ nejsi v New Renu?}
+{159}{}{No, radÄ›ji se vrÃ¡tÃ­m ke svÃ© prÃ¡ci. MusÃ­m opravit to spojenÃ­. Sbohem.}
+{160}{powr12}{Prezident zasranÃ½ch SpojenÃ½ch StÃ¡tÅ¯ AmerickÃ½ch pÅ™ece. O kom myslÃ­Å¡, Å¾e mluvÃ­m? Kdo do pr... kdo je... co... mÄ›l bych ti nakopat tu tvoji zasranou prdel. Kdo jsi?}
+{161}{}{Jsem VyvolenÃ½. A teÄ mi polib... nohy.}
+{162}{}{Jsem VyvolenÃ½.}
+{163}{}{Jsem Prezident a ty jsi v pÄ›knÃ©m prÅ¯Å¡vihu.}
+{164}{}{Na takovou informaci nejsi dost dÅ¯leÅ¾itÃ½.}
+{165}{}{Eh, radÄ›ji pÅ¯jdu. MÃ¡m jeÅ¡tÄ› spoustu prÃ¡ce. Sbohem.}
+{166}{powr13}{Tady hlavnÃ­ komunikaÄnÃ­ centrum ENKLÃVY... ale to snad vÃ­Å¡. Kdo jsi?}
+{167}{}{Aha, jÃ¡ jenom Å¾e... hej, vÃ­Å¡ o tom, Å¾e vaÅ™enÃ½ geckon chutnÃ¡ podobnÄ› jako brahmÃ­nÃ­ zadek?}
+{168}{}{Jsem VyvolenÃ½ a nauÄÃ­m tÄ›, aby sis to pamatoval.}
+{169}{}{Nikdo dÅ¯leÅ¾itÃ½. Sbohem.}
+{170}{powr14}{JeÅ¡tÄ› chvÃ­li a budu mÃ­t zamÄ›Å™enou tvoji prdel. Hej, tak moment. To snad nenÃ­ pravda... zachytil jsem tÄ› nÄ›kde na pevninÄ›.}
+{171}{}{SprÃ¡vnÄ›, kretÃ©ne. Jsem pÅ™esnÄ› tam, kde mÄ› nemÅ¯Å¾eÅ¡ dostat.}
+{172}{}{To nemÅ¯Å¾e bÃ½t pravda. Jsem pÅ™esnÄ› naproti tobÄ› pÅ™es halu, u spojovacÃ­ho terminÃ¡lu... haha, jak ses jeÅ¡tÄ› podÃ­val. No ty jseÅ¡ ale idiot.}
+{173}{}{Jo, jsem v elektrÃ¡rnÄ› Poseidon Oil ÄÃ­slo 12. PojÄ si pro mÄ›.}
+{174}{powr15}{MÃ¡m tÄ›. Poseidon Oil reaktor ÄÃ­slo 5. Tak a teÄ nikam nechoÄ, uspoÅ™Ã¡dÃ¡m pro tebe malou oslavu. I s ohÅˆostrojem.}
+{175}{}{PÃ¡ni. Miluju ohÅˆostroje. DoufÃ¡m, Å¾e to bude stÃ¡t za to.}
+{176}{}{Jsem VyvolenÃ½. To, co Å™Ã­kÃ¡Å¡, Å™Ã­kej radÄ›ji hezky s ÃºsmÄ›vem.}
+{177}{}{Nejsem nikdo dÅ¯leÅ¾itÃ½. A teÄ uÅ¾ pÅ¯jdu. Sbohem.}
+{178}{powr16_a}{AÅ¥ jsi kdo jsi, prÃ¡vÄ› jsem na tebe poslal zÃ¡sahovou jednotku. PÅ™eju hezkÃ½ zbytek dne.}
+{179}{}{Brr, kdyby fungoval videokanÃ¡l, vidÄ›l bys, jak se celÃ½ tÅ™esu.}
+{180}{}{No a co chtÄ›jÃ­ dÄ›lat?}
+{181}{}{Tak jÃ¡ snad radÄ›ji pÅ¯jdu. Nechci, aby pÅ™iÅ¡li jeÅ¡tÄ› pÅ™edtÃ­m, neÅ¾ pÅ™ipravÃ­m uvÃ­tacÃ­ ceremoniÃ¡l a rozvinu ÄervenÃ½ koberec na uvÃ­tanou. Sbohem.}
+{182}{powr17}{VÄ›tÅ¡inou nÄ›kam vtrhnou a vÅ¡echno to tam vystÅ™Ã­lejÃ­. Po nich pÅ™ijdou jinÃ­, kteÅ™Ã­ se prohrabÃ¡vajÃ­ popelem, aby zjistili, co se stalo.}
+{183}{}{No, mÄ› jen tak nechytnou.}
+{184}{}{FÃ­ha, tak teÄ jsi mÄ› ÃºplnÄ› vystraÅ¡il. MusÃ­m si jÃ­t vymÄ›nit spodky.}
+{185}{}{No, aspoÅˆ jsem vÄera neÄistil svoje zbranÄ› nadarmo.}
+{186}{}{Jo, jasnÄ›. UÅ¾ jsem zabil i horÅ¡Ã­. Sbohem.}
+{187}{powr18}{Sbohem. UÅ¾ se tÄ›Å¡Ã­m, aÅ¾ si o tobÄ› pÅ™eÄtu ve zprÃ¡vÄ› o akci.}
+{188}{}{CoÅ¾e? Ty umÃ­Å¡ ÄÃ­st?}
+{189}{}{Jo, jasnÄ›. Jak myslÃ­Å¡.}
+{190}{}{PrÃ¡vÄ› ses dostal na mÅ¯j seznam.}
+{191}{powr19_a}{Museli jste vypadnout? ProÄ? Jste pÅ™ece na pobÅ™eÅ¾Ã­ a mÃ¡te nejlepÅ¡Ã­ obranu. NeslyÅ¡el jsem nic o... hele, kdo vlastnÄ› sakra jsi?}
+{192}{}{Jsem velkÃ½ a mocnÃ½ Willie. Poklekni pÅ™ede mnou, pros za odpuÅ¡tÄ›nÃ­ a moÅ¾nÃ¡ tÄ› uÅ¡etÅ™Ã­m.}
+{193}{}{Nikdo dÅ¯leÅ¾itÃ½. Kde Å¾e je to Navarro?}
+{194}{}{Jo, dobyli jsme Navarro a tam jsem naÅ¡el nahÃ© fotky tvojÃ­ matky. Nebo to byl jenom tvÅ¯j otec pÅ™estrojenÃ½ za Å¾enskou? NenÃ­ divu, Å¾e jsi tak kurva oÅ¡klivej. Sbohem, kretÃ©ne.}
+{195}{powr20}{Jo, to si piÅ¡. VÅ¡echno je tady v ENKLÃVÄš pÅ™Ã­snÄ›jÅ¡Ã­ a ten zasranej prezident nÃ¡s sleduje jako ostÅ™Ã­Å¾.}
 {196}{}{Prezident?}
-{197}{}{Tady? Kde pøesnì jsi?}
-{198}{}{No, tak u to chodí. Ale teï se musím vrátit ke své práci. Sbohem.}
+{197}{}{Tady? Kde pÅ™esnÄ› jsi?}
+{198}{}{No, tak uÅ¾ to chodÃ­. Ale teÄ se musÃ­m vrÃ¡tit ke svÃ© prÃ¡ci. Sbohem.}

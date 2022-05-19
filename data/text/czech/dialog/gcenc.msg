@@ -1,1 +1,1 @@
-{100}{}{Strá vùbec nereaguje.}
+{100}{}{StrÃ¡Å¾ vÅ¯bec nereaguje.}

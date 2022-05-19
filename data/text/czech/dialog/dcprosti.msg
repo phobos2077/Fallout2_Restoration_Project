@@ -1,5 +1,5 @@
-{100}{}{Vidíš prostitutku.}
-{101}{}{Vypadá dost "opotøebovanì".}
-{110}{}{Nazdar, fešáku.}
-{111}{}{Nazdar, koèièko.}
-{112}{}{Jseš tu taky na párty?}
+{100}{}{VidÃ­Å¡ prostitutku.}
+{101}{}{VypadÃ¡ dost "opotÅ™ebovanÄ›".}
+{110}{}{Nazdar, feÅ¡Ã¡ku.}
+{111}{}{Nazdar, koÄiÄko.}
+{112}{}{JseÅ¡ tu taky na pÃ¡rty?}

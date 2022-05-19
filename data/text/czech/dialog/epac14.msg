@@ -1,1 +1,1 @@
-{100}{}{Pouûil jsi celou n·dobku spreje proti hmyzu.}
+{100}{}{Pou≈æil jsi celou n√°dobku spreje proti hmyzu.}

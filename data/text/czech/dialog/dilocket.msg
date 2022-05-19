@@ -1,2 +1,2 @@
-{100}{}{Vidíš starı pøívìsek.}
-{101}{}{Pravdìpodobnì je to ten pøívìsek, kterı hledal ten duch.}
+{100}{}{VidÃ­Å¡ starÃ½ pÅ™Ã­vÄ›sek.}
+{101}{}{PravdÄ›podobnÄ› je to ten pÅ™Ã­vÄ›sek, kterÃ½ hledal ten duch.}

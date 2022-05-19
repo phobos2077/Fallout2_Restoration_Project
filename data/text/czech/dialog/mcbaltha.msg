@@ -1,64 +1,64 @@
-{100}{}{Vidíš velikého mue v koené zástìøe.}
-{101}{}{Vidíš koeluha Balthase.}
-{102}{}{Vidíš vysokého, svalnatého mue, kterı páchne kùí.}
-{151}{}{Mùj syn byl omylem zabit v boji.}
-{152}{}{Nevydrím ít bez Jonnyho.}
+{100}{}{VidÃ­Å¡ velikÃ©ho muÅ¾e v koÅ¾enÃ© zÃ¡stÄ›Å™e.}
+{101}{}{VidÃ­Å¡ koÅ¾eluha Balthase.}
+{102}{}{VidÃ­Å¡ vysokÃ©ho, svalnatÃ©ho muÅ¾e, kterÃ½ pÃ¡chne kÅ¯Å¾Ã­.}
+{151}{}{MÅ¯j syn byl omylem zabit v boji.}
+{152}{}{NevydrÅ¾Ã­m Å¾Ã­t bez Jonnyho.}
 {153}{}{[Vzlyk]}
-{154}{}{Setkáme se na Farmì Duchù. Zaútoèíme na ty duchy.}
-{155}{}{Zdravím, jmenuju se Balthas. Vedu koelunu tady v Modocu. Mùu ti nìjak pomoct?}
-{156}{}{Vypadáš ponìkud roztritì. Dìje se nìco?}
-{157}{}{Mùu vidìt tvoje zboí?}
-{158}{}{Nevidìl jsi nìkde leet zlaté hodinky?}
-{159}{}{Vrátím se pozdìji.}
-{160}{}{Hledám vìc, která se jmenuje GECK. Nevíš o tom náhodou nìco nebo nevíš, jak ho získat?}
+{154}{}{SetkÃ¡me se na FarmÄ› DuchÅ¯. ZaÃºtoÄÃ­me na ty duchy.}
+{155}{}{ZdravÃ­m, jmenuju se Balthas. Vedu koÅ¾eluÅ¾nu tady v Modocu. MÅ¯Å¾u ti nÄ›jak pomoct?}
+{156}{}{VypadÃ¡Å¡ ponÄ›kud roztrÅ¾itÄ›. DÄ›je se nÄ›co?}
+{157}{}{MÅ¯Å¾u vidÄ›t tvoje zboÅ¾Ã­?}
+{158}{}{NevidÄ›l jsi nÄ›kde leÅ¾et zlatÃ© hodinky?}
+{159}{}{VrÃ¡tÃ­m se pozdÄ›ji.}
+{160}{}{HledÃ¡m vÄ›c, kterÃ¡ se jmenuje GECK. NevÃ­Å¡ o tom nÃ¡hodou nÄ›co nebo nevÃ­Å¡, jak ho zÃ­skat?}
 {161}{}{GECK?}
-{163}{}{S èím ti mùu pomoct?}
-{168}{}{Jen se dívám, díky.}
-{171}{}{Máš nìjaké nové zprávy ohlednì Jonnyho?}
-{172}{}{Tohle leelo na dnì vyschlé studny. Èást studny se zøítila dovnitø a tohle bylo v sutinách. Je mi líto, ale myslím, e je Jonny mrtvı.}
-{173}{}{Ne, zatím nic.}
-{175}{}{Dìkuju ti za záchranu mého chlapce. Nevím, jak bych se ti mohl odvdìèit, ale vezmi si prosím tuhle koenou zbroj jako podìkování. Vynalezl jsem novı zpùsob vydìlávání kùí. Zjistíš, e je tahle zbroj velmi odolná a navíc v ní vypadáš opravdu dobøe.}
-{176}{}{Dìkuju ti za záchranu mého syna!}
-{177}{}{Prosím, nech mì truchlit o samotì.}
-{178}{}{Jonny je naivu! Nìjací lidé, kteøí si øíkají Svìtloplachové, ho zachránili. Kdy ještì chvíli vydríš, najdu zpùsob, jak dostat Jonnyho domù.}
-{179}{}{Jonny byl unesen. Drí ho duchové na farmì a chtìjí ho obìtovat svému temnému bohu.}
-{180}{}{Chápu. Promiò, e obtìuju.}
-{181}{}{Coe? Podívej, nebudu se bavit s cizincem o svém soukromém ivotì. Chceš nìco koupit nebo ne?}
-{182}{}{Omlouvám se, jmenuju se }
-{183}{}{. Tak a u jsme se koneènì pøedstavili. Zdá se, e tì nìco trápí.}
-{184}{}{Ano, zajímám se o nìjaké koené zboí.}
-{186}{}{Myslím, e ne.}
-{187}{}{Øíkáš }
-{188}{}{? Ano, myslím, e u jsem o tobì slyšel. Jeden ze strácù projídìjící karavany o tobì pochvalnì mluvil. Vím, e jsme se teprve seznámili, ale docela bych potøeboval tvoji pomoc.}
-{189}{}{A co kdybys mi øekl, co máš za problém? Tøeba ti s ním pomùu.}
-{190}{}{Mám svıch problémù dost, promiò.}
-{191}{}{(Vezme do ruky ocelovou tyè a zaène ji zuøivì kroutit. K tvému úasu se ocelová tyè kroutí, jako by byla z gumy. Ten chlap má ale sílu!) Ztratil se mi mùj chlapec Jonny! Pøed nìkolika dny si šel hrát ven a u se nevrátil. Hledali jsme všude, ale zatím jsme ho nenašli.}
-{192}{}{Kde si Jonny vìtšinou hrál? A hrál si ještì s nìkım jinım?}
-{193}{}{Je mi líto tvého chlapce. Mùu pro tebe nìco udìlat?}
-{194}{}{To je strašné! Ale zajímám se jen o tvé koené zboí. Asi mi nemùeš ukázat, co nabízíš, e?}
-{195}{}{Fíha! To je ale hodin. Musím bìet.}
-{196}{}{Znamená to, e mi pomùeš? Dìkuju ti! Naposledy vidìli Jonnyho, jak si hraje pøed domem na kovboje a indiány s jeho psem Laddie. Byli to dva nerozluèní pøátelé. A vlastnì díky ní jsme zjistili, e se nìco stalo. Jednoho dne se Laddie vrátila bez Jonnyho. Od té doby ho stále hledáme. Vezmi si Laddii s sebou, tøeba se vám ho podaøí najít.}
-{197}{}{No, vypadáš jako zkušenı cestovatel. S tvımi zkušenostmi se ti moná podaøí mého syna najít.}
-{198}{}{No, ano! Jsem zkušenı stopaø, tedy aspoò si to o sobì myslím. Dobrá, pomùu ti.}
-{199}{}{S lichotkami na mì nechoï. Podívej, mám na tebe pár otázek.}
-{200}{}{Mé modlitby byly vyslyšeny! Vezmi si Laddie s sebou, tøeba ti pomùe. Prosím, pospìš si!}
-{201}{}{No, moná máš pravdu. Díky za vyslechnutí.}
-{202}{}{Slyšel jsem o tobì. Podívej, nechci ádné problémy. Jsme mírumilovná spoleènost. Bavme se jen o obchodu, ano?}
-{203}{}{Chci se tì na nìco zeptat.}
-{204}{}{Momentálnì spolu nemáme ádnı obchod. Nashle.}
-{205}{}{No...mám strach o svého syna Jonnyho. Hledali jsme všude, ale nemùeme ho nikde najít. Bojím se, e ho roztrhala divoká zvìø.}
-{206}{}{Moná ti mùu pomoct. Hodnì cestuju, take se mùu po tvém chlapci podívat.}
-{208}{}{To bych byl moc rád. Kadá pomoc je vítaná. Mimochodem, nekoupíš si u mì nìco?}
-{210}{}{No, ani ne. U musím jít. Díky.}
-{211}{}{Promiò, ale o tom jsem nikdy neslyšel.}
-{214}{}{Hehehe. Tak tebe ten staroch Cornelius taky navezl do hledání jeho hodinek? Ne, tady je nenajdeš. Ten starej trouba je nejspíš nìkde zapomnìl a neví kde.}
-{215}{}{I pøesto dìkuju. Budu je hledat dál. Nashle.}
-{216}{}{(Zblízka se na tebe podívá a poté se usmìje.) Buï hodnı chlapec a bì si hrát ven.}
-{217}{}{(Zblízka se na tebe podívá a poté se usmìje.) Buï hodná holèièka a bì si hrát ven.}
-{218}{}{Prosím, nepøestávej hledat. Vím, e je naivu, cítím to!}
-{219}{}{To je Jonnyho vzduchovka. Neeeeeeeeeeeeeeeeeeee! (Balthas se zhroutí a zaène neovladatelnì plakat.)}
-{220}{}{Já vìdìl, e Jonny není mrtvı! Øíkáš, e musím èekat... tomu nerozumím! Je zranìnı? Mùj instinkt mi øíká, abych šel za svım synem, ale cítím, e ti na mém synovi opravdu záleí. Prosím, pospìš si a pøiveï mi mého syna.}
-{221}{}{Ale ne! Duchové ne! Já øíkal, abychom to místo vypálili. Nenechám jim svého syna... dostanu Jonnyho zpìt za kadou cenu. Jsem si jistı, e mi ho obyvatelé Modocu pomùou dostat zpìt! Setkáme se na Farmì Duchù. Všechny je zabijeme!}
-{230}{}{Jonny byl v poøádku vrácen zpìt do Modocu.}
-{240}{}{Prosím, pøiveï mi mého syna zpìt.}
-{2199}{}{To je Jonnyho vzduchovka... nevìøím, e je mrtvı. Prosím, nepøestávej hledat mého syna. Jsem si jistı, e tam nìkde venku poøád je.}
+{163}{}{S ÄÃ­m ti mÅ¯Å¾u pomoct?}
+{168}{}{Jen se dÃ­vÃ¡m, dÃ­ky.}
+{171}{}{MÃ¡Å¡ nÄ›jakÃ© novÃ© zprÃ¡vy ohlednÄ› Jonnyho?}
+{172}{}{Tohle leÅ¾elo na dnÄ› vyschlÃ© studny. ÄŒÃ¡st studny se zÅ™Ã­tila dovnitÅ™ a tohle bylo v sutinÃ¡ch. Je mi lÃ­to, ale myslÃ­m, Å¾e je Jonny mrtvÃ½.}
+{173}{}{Ne, zatÃ­m nic.}
+{175}{}{DÄ›kuju ti za zÃ¡chranu mÃ©ho chlapce. NevÃ­m, jak bych se ti mohl odvdÄ›Äit, ale vezmi si prosÃ­m tuhle koÅ¾enou zbroj jako podÄ›kovÃ¡nÃ­. Vynalezl jsem novÃ½ zpÅ¯sob vydÄ›lÃ¡vÃ¡nÃ­ kÅ¯Å¾Ã­. ZjistÃ­Å¡, Å¾e je tahle zbroj velmi odolnÃ¡ a navÃ­c v nÃ­ vypadÃ¡Å¡ opravdu dobÅ™e.}
+{176}{}{DÄ›kuju ti za zÃ¡chranu mÃ©ho syna!}
+{177}{}{ProsÃ­m, nech mÄ› truchlit o samotÄ›.}
+{178}{}{Jonny je naÅ¾ivu! NÄ›jacÃ­ lidÃ©, kteÅ™Ã­ si Å™Ã­kajÃ­ SvÄ›tloplachovÃ©, ho zachrÃ¡nili. KdyÅ¾ jeÅ¡tÄ› chvÃ­li vydrÅ¾Ã­Å¡, najdu zpÅ¯sob, jak dostat Jonnyho domÅ¯.}
+{179}{}{Jonny byl unesen. DrÅ¾Ã­ ho duchovÃ© na farmÄ› a chtÄ›jÃ­ ho obÄ›tovat svÃ©mu temnÃ©mu bohu.}
+{180}{}{ChÃ¡pu. PromiÅˆ, Å¾e obtÄ›Å¾uju.}
+{181}{}{CoÅ¾e? PodÃ­vej, nebudu se bavit s cizincem o svÃ©m soukromÃ©m Å¾ivotÄ›. ChceÅ¡ nÄ›co koupit nebo ne?}
+{182}{}{OmlouvÃ¡m se, jmenuju se }
+{183}{}{. Tak a uÅ¾ jsme se koneÄnÄ› pÅ™edstavili. ZdÃ¡ se, Å¾e tÄ› nÄ›co trÃ¡pÃ­.}
+{184}{}{Ano, zajÃ­mÃ¡m se o nÄ›jakÃ© koÅ¾enÃ© zboÅ¾Ã­.}
+{186}{}{MyslÃ­m, Å¾e ne.}
+{187}{}{Å˜Ã­kÃ¡Å¡ }
+{188}{}{? Ano, myslÃ­m, Å¾e uÅ¾ jsem o tobÄ› slyÅ¡el. Jeden ze strÃ¡Å¾cÅ¯ projÃ­Å¾dÄ›jÃ­cÃ­ karavany o tobÄ› pochvalnÄ› mluvil. VÃ­m, Å¾e jsme se teprve seznÃ¡mili, ale docela bych potÅ™eboval tvoji pomoc.}
+{189}{}{A co kdybys mi Å™ekl, co mÃ¡Å¡ za problÃ©m? TÅ™eba ti s nÃ­m pomÅ¯Å¾u.}
+{190}{}{MÃ¡m svÃ½ch problÃ©mÅ¯ dost, promiÅˆ.}
+{191}{}{(Vezme do ruky ocelovou tyÄ a zaÄne ji zuÅ™ivÄ› kroutit. K tvÃ©mu ÃºÅ¾asu se ocelovÃ¡ tyÄ kroutÃ­, jako by byla z gumy. Ten chlap mÃ¡ ale sÃ­lu!) Ztratil se mi mÅ¯j chlapec Jonny! PÅ™ed nÄ›kolika dny si Å¡el hrÃ¡t ven a uÅ¾ se nevrÃ¡til. Hledali jsme vÅ¡ude, ale zatÃ­m jsme ho nenaÅ¡li.}
+{192}{}{Kde si Jonny vÄ›tÅ¡inou hrÃ¡l? A hrÃ¡l si jeÅ¡tÄ› s nÄ›kÃ½m jinÃ½m?}
+{193}{}{Je mi lÃ­to tvÃ©ho chlapce. MÅ¯Å¾u pro tebe nÄ›co udÄ›lat?}
+{194}{}{To je straÅ¡nÃ©! Ale zajÃ­mÃ¡m se jen o tvÃ© koÅ¾enÃ© zboÅ¾Ã­. Asi mi nemÅ¯Å¾eÅ¡ ukÃ¡zat, co nabÃ­zÃ­Å¡, Å¾e?}
+{195}{}{FÃ­ha! To je ale hodin. MusÃ­m bÄ›Å¾et.}
+{196}{}{ZnamenÃ¡ to, Å¾e mi pomÅ¯Å¾eÅ¡? DÄ›kuju ti! Naposledy vidÄ›li Jonnyho, jak si hraje pÅ™ed domem na kovboje a indiÃ¡ny s jeho psem Laddie. Byli to dva nerozluÄnÃ­ pÅ™Ã¡telÃ©. A vlastnÄ› dÃ­ky nÃ­ jsme zjistili, Å¾e se nÄ›co stalo. Jednoho dne se Laddie vrÃ¡tila bez Jonnyho. Od tÃ© doby ho stÃ¡le hledÃ¡me. Vezmi si Laddii s sebou, tÅ™eba se vÃ¡m ho podaÅ™Ã­ najÃ­t.}
+{197}{}{No, vypadÃ¡Å¡ jako zkuÅ¡enÃ½ cestovatel. S tvÃ½mi zkuÅ¡enostmi se ti moÅ¾nÃ¡ podaÅ™Ã­ mÃ©ho syna najÃ­t.}
+{198}{}{No, ano! Jsem zkuÅ¡enÃ½ stopaÅ™, tedy aspoÅˆ si to o sobÄ› myslÃ­m. DobrÃ¡, pomÅ¯Å¾u ti.}
+{199}{}{S lichotkami na mÄ› nechoÄ. PodÃ­vej, mÃ¡m na tebe pÃ¡r otÃ¡zek.}
+{200}{}{MÃ© modlitby byly vyslyÅ¡eny! Vezmi si Laddie s sebou, tÅ™eba ti pomÅ¯Å¾e. ProsÃ­m, pospÄ›Å¡ si!}
+{201}{}{No, moÅ¾nÃ¡ mÃ¡Å¡ pravdu. DÃ­ky za vyslechnutÃ­.}
+{202}{}{SlyÅ¡el jsem o tobÄ›. PodÃ­vej, nechci Å¾Ã¡dnÃ© problÃ©my. Jsme mÃ­rumilovnÃ¡ spoleÄnost. Bavme se jen o obchodu, ano?}
+{203}{}{Chci se tÄ› na nÄ›co zeptat.}
+{204}{}{MomentÃ¡lnÄ› spolu nemÃ¡me Å¾Ã¡dnÃ½ obchod. Nashle.}
+{205}{}{No...mÃ¡m strach o svÃ©ho syna Jonnyho. Hledali jsme vÅ¡ude, ale nemÅ¯Å¾eme ho nikde najÃ­t. BojÃ­m se, Å¾e ho roztrhala divokÃ¡ zvÄ›Å™.}
+{206}{}{MoÅ¾nÃ¡ ti mÅ¯Å¾u pomoct. HodnÄ› cestuju, takÅ¾e se mÅ¯Å¾u po tvÃ©m chlapci podÃ­vat.}
+{208}{}{To bych byl moc rÃ¡d. KaÅ¾dÃ¡ pomoc je vÃ­tanÃ¡. Mimochodem, nekoupÃ­Å¡ si u mÄ› nÄ›co?}
+{210}{}{No, ani ne. UÅ¾ musÃ­m jÃ­t. DÃ­ky.}
+{211}{}{PromiÅˆ, ale o tom jsem nikdy neslyÅ¡el.}
+{214}{}{Hehehe. Tak tebe ten staroch Cornelius taky navezl do hledÃ¡nÃ­ jeho hodinek? Ne, tady je nenajdeÅ¡. Ten starej trouba je nejspÃ­Å¡ nÄ›kde zapomnÄ›l a nevÃ­ kde.}
+{215}{}{I pÅ™esto dÄ›kuju. Budu je hledat dÃ¡l. Nashle.}
+{216}{}{(ZblÃ­zka se na tebe podÃ­vÃ¡ a potÃ© se usmÄ›je.) BuÄ hodnÃ½ chlapec a bÄ›Å¾ si hrÃ¡t ven.}
+{217}{}{(ZblÃ­zka se na tebe podÃ­vÃ¡ a potÃ© se usmÄ›je.) BuÄ hodnÃ¡ holÄiÄka a bÄ›Å¾ si hrÃ¡t ven.}
+{218}{}{ProsÃ­m, nepÅ™estÃ¡vej hledat. VÃ­m, Å¾e je naÅ¾ivu, cÃ­tÃ­m to!}
+{219}{}{To je Jonnyho vzduchovka. Neeeeeeeeeeeeeeeeeeee! (Balthas se zhroutÃ­ a zaÄne neovladatelnÄ› plakat.)}
+{220}{}{JÃ¡ vÄ›dÄ›l, Å¾e Jonny nenÃ­ mrtvÃ½! Å˜Ã­kÃ¡Å¡, Å¾e musÃ­m Äekat... tomu nerozumÃ­m! Je zranÄ›nÃ½? MÅ¯j instinkt mi Å™Ã­kÃ¡, abych Å¡el za svÃ½m synem, ale cÃ­tÃ­m, Å¾e ti na mÃ©m synovi opravdu zÃ¡leÅ¾Ã­. ProsÃ­m, pospÄ›Å¡ si a pÅ™iveÄ mi mÃ©ho syna.}
+{221}{}{Ale ne! DuchovÃ© ne! JÃ¡ Å™Ã­kal, abychom to mÃ­sto vypÃ¡lili. NenechÃ¡m jim svÃ©ho syna... dostanu Jonnyho zpÄ›t za kaÅ¾dou cenu. Jsem si jistÃ½, Å¾e mi ho obyvatelÃ© Modocu pomÅ¯Å¾ou dostat zpÄ›t! SetkÃ¡me se na FarmÄ› DuchÅ¯. VÅ¡echny je zabijeme!}
+{230}{}{Jonny byl v poÅ™Ã¡dku vrÃ¡cen zpÄ›t do Modocu.}
+{240}{}{ProsÃ­m, pÅ™iveÄ mi mÃ©ho syna zpÄ›t.}
+{2199}{}{To je Jonnyho vzduchovka... nevÄ›Å™Ã­m, Å¾e je mrtvÃ½. ProsÃ­m, nepÅ™estÃ¡vej hledat mÃ©ho syna. Jsem si jistÃ½, Å¾e tam nÄ›kde venku poÅ™Ã¡d je.}

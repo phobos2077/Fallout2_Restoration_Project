@@ -1,44 +1,44 @@
-{100}{}{Vidíš ducha!}
-{101}{}{Vidíš ducha Annu.}
-{150}{}{Tohle je duch. To nevidíš kadı den.}
-{151}{}{Vypadá trochu utrápenì.}
+{100}{}{VidÃ­Å¡ ducha!}
+{101}{}{VidÃ­Å¡ ducha Annu.}
+{150}{}{Tohle je duch. To nevidÃ­Å¡ kaÅ¾dÃ½ den.}
+{151}{}{VypadÃ¡ trochu utrÃ¡penÄ›.}
 {152}{}{[MLUVIT]}
-{153}{}{Ach, ta bolest! To tak pálí!}
-{154}{}{Co se dìje?}
+{153}{}{Ach, ta bolest! To tak pÃ¡lÃ­!}
+{154}{}{Co se dÄ›je?}
 {155}{}{Kdo jsi?}
-{156}{}{Táhni, ty hnusnı duchu!}
-{157}{}{Zastavím se a zaklepu na kadé dveøe, ale nikdo nepøichází, nikdo neslyší.}
-{158}{}{Já tì slyším. Co se dìje?}
-{159}{}{Myslím, e byste mìla vypnout svùj Mizík, madam.}
-{160}{}{Kde to je? Nemohu ho najít! Jsem ztracena! Ach...}
-{161}{}{Co hledáš? Tøeba ti mùu pomoct.}
-{162}{}{Mìla bys koneènì pøestat kvièet a naøíkat a zaèít mluvit smysluplnì.}
-{163}{}{Mùj amulet! Je pryè. Zlodìj! Zlodìj!}
-{164}{}{Já? Jen tu tak stojím. Já za to nemùu.}
-{165}{}{Mùu ti ho pomoct najít?}
-{166}{}{Och, krutı osud.}
-{167}{}{Ty mì neslyšíš, e jo?}
-{168}{}{Pozdìji, duchu.}
-{169}{}{Nashle. Pokusím se ti pomoct.}
-{170}{}{Mùj amulet! Dej mi ho!!! Och!!!!}
-{171}{}{V ádném pøípadì! Jdi k èertu. Já ho poctivì našel.}
-{172}{}{Dobøe. Tady je.}
-{173}{}{Tady. Teï u mùeš odpoèívat v pokoji.}
-{174}{}{Dobøe.}
+{156}{}{TÃ¡hni, ty hnusnÃ½ duchu!}
+{157}{}{ZastavÃ­m se a zaklepu na kaÅ¾dÃ© dveÅ™e, ale nikdo nepÅ™ichÃ¡zÃ­, nikdo neslyÅ¡Ã­.}
+{158}{}{JÃ¡ tÄ› slyÅ¡Ã­m. Co se dÄ›je?}
+{159}{}{MyslÃ­m, Å¾e byste mÄ›la vypnout svÅ¯j MizÃ­k, madam.}
+{160}{}{Kde to je? Nemohu ho najÃ­t! Jsem ztracena! Ach...}
+{161}{}{Co hledÃ¡Å¡? TÅ™eba ti mÅ¯Å¾u pomoct.}
+{162}{}{MÄ›la bys koneÄnÄ› pÅ™estat kviÄet a naÅ™Ã­kat a zaÄÃ­t mluvit smysluplnÄ›.}
+{163}{}{MÅ¯j amulet! Je pryÄ. ZlodÄ›j! ZlodÄ›j!}
+{164}{}{JÃ¡? Jen tu tak stojÃ­m. JÃ¡ za to nemÅ¯Å¾u.}
+{165}{}{MÅ¯Å¾u ti ho pomoct najÃ­t?}
+{166}{}{Och, krutÃ½ osud.}
+{167}{}{Ty mÄ› neslyÅ¡Ã­Å¡, Å¾e jo?}
+{168}{}{PozdÄ›ji, duchu.}
+{169}{}{Nashle. PokusÃ­m se ti pomoct.}
+{170}{}{MÅ¯j amulet! Dej mi ho!!! Och!!!!}
+{171}{}{V Å¾Ã¡dnÃ©m pÅ™Ã­padÄ›! Jdi k Äertu. JÃ¡ ho poctivÄ› naÅ¡el.}
+{172}{}{DobÅ™e. Tady je.}
+{173}{}{Tady. TeÄ uÅ¾ mÅ¯Å¾eÅ¡ odpoÄÃ­vat v pokoji.}
+{174}{}{DobÅ™e.}
 {175}{}{Ne.}
-{176}{}{Mùj amulet, mùj amulet! U jdu, tatínku! U jdu!}
+{176}{}{MÅ¯j amulet, mÅ¯j amulet! UÅ¾ jdu, tatÃ­nku! UÅ¾ jdu!}
 {177}{}{Sbohem.}
-{178}{}{Poèkej! Nechoï!}
-{179}{}{Jdi za svìtlem.}
-{200}{}{Kde jen mùe bıt?}
+{178}{}{PoÄkej! NechoÄ!}
+{179}{}{Jdi za svÄ›tlem.}
+{200}{}{Kde jen mÅ¯Å¾e bÃ½t?}
 {201}{}{Och.}
 {202}{}{Mami? Tati? Kde jste?}
-{203}{}{Nemùu ho najít!}
-{500}{}{Mami... tati... u jdu...}
-{501}{}{Je to tak jasné...}
-{502}{}{Babi, já tì vidím...}
-{503}{}{Och, to je milı pan Cain. Ráda vás zase vidím...}
-{550}{}{Tento dùm je opìt èistı.}
-{551}{}{Ou, hezká kosti.}
-{560}{}{Krotitel duchù!}
+{203}{}{NemÅ¯Å¾u ho najÃ­t!}
+{500}{}{Mami... tati... uÅ¾ jdu...}
+{501}{}{Je to tak jasnÃ©...}
+{502}{}{Babi, jÃ¡ tÄ› vidÃ­m...}
+{503}{}{Och, to je milÃ½ pan Cain. RÃ¡da vÃ¡s zase vidÃ­m...}
+{550}{}{Tento dÅ¯m je opÄ›t ÄistÃ½.}
+{551}{}{Ou, hezkÃ¡ kosti.}
+{560}{}{Krotitel duchÅ¯!}
 {561}{}{Eh.}

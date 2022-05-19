@@ -1,1 +1,1 @@
-{100}{}{Vstupuješ do vıchodní èásti Broken Hills.}
+{100}{}{VstupujeÅ¡ do vÃ½chodnÃ­ ÄÃ¡sti Broken Hills.}

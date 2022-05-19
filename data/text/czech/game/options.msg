@@ -1,57 +1,57 @@
-{0}{}{ULOéIT HRU}
-{1}{}{NA»ÕST HRU}
-{2}{}{NASTAVENÕ}
+{0}{}{ULO≈ΩIT HRU}
+{1}{}{NAƒå√çST HRU}
+{2}{}{NASTAVEN√ç}
 {3}{}{KONEC HRY}
 {4}{}{[KONEC]}
-{100}{}{NASTAVENÕ HRY}
-{101}{}{OBTÕéNOST HRY}
-{102}{}{OBTÕéNOST BOJE}
-{103}{}{⁄ROVE“ N¡SILÕ}
-{104}{}{ZV›RAZNÃNÕ CÕLE}
-{105}{}{INFORMACE PÿI BOJI}
-{106}{}{BOJOV… HL¡äKY}
-{107}{}{BOJOV… NAD¡VKY}
-{108}{}{JAZYKOV› FILTR}
-{109}{}{BÃH}
+{100}{}{NASTAVEN√ç HRY}
+{101}{}{OBT√ç≈ΩNOST HRY}
+{102}{}{OBT√ç≈ΩNOST BOJE}
+{103}{}{√öROVE≈á N√ÅSIL√ç}
+{104}{}{ZV√ùRAZNƒöN√ç C√çLE}
+{105}{}{INFORMACE P≈òI BOJI}
+{106}{}{BOJOV√â HL√Å≈†KY}
+{107}{}{BOJOV√â NAD√ÅVKY}
+{108}{}{JAZYKOV√ù FILTR}
+{109}{}{BƒöH}
 {110}{}{TITULKY}
-{111}{}{ZV›RAZNÃNÕ VÃCÕ}
+{111}{}{ZV√ùRAZNƒöN√ç VƒöC√ç}
 {112}{}{RYCHLOST BOJE}
-{113}{}{RYCHLOST MIZENÕ TEXTU}
-{114}{}{CELKOV¡ HLASITOST}
+{113}{}{RYCHLOST MIZEN√ç TEXTU}
+{114}{}{CELKOV√Å HLASITOST}
 {115}{}{HLASITOST HUDBY/FILMU}
 {116}{}{HLASITOST ZVUKU}
-{117}{}{HLASITOST ÿE»I}
-{118}{}{⁄ROVE“ JASU}
-{119}{}{CITLIVOST MYäI}
-{120}{}{V›CHOZÕ}
-{121}{}{ZRUäIT}
-{122}{}{ZrychlenÌ hr·Ëovy postavy p¯i boji}
+{117}{}{HLASITOST ≈òEƒåI}
+{118}{}{√öROVE≈á JASU}
+{119}{}{CITLIVOST MY≈†I}
+{120}{}{V√ùCHOZ√ç}
+{121}{}{ZRU≈†IT}
+{122}{}{Zrychlen√≠ hr√°ƒçovy postavy p≈ôi boji}
 {123}{}{Pip-Boy speech}
 {201}{}{Zap}
 {202}{}{Vyp}
-{203}{}{Jednoduch·}
-{204}{}{Norm·lnÌ}
-{205}{}{TÏûk·}
-{206}{}{Pro dÏti}
-{207}{}{Norm·lnÌ}
-{208}{}{Pro drsÚ·ky}
-{209}{}{Norm·lnÌ}
-{210}{}{NejrychlejöÌ}
-{211}{}{BohatÈ}
-{212}{}{StrohÈ}
-{213}{}{Pouze zamÏ¯enÈ}
-{214}{}{é·dnÈ}
-{215}{}{Minim·lnÌ}
-{216}{}{Krv·k}
-{217}{}{Pomal·}
-{218}{}{Vysok·}
-{219}{}{Vûdy}
+{203}{}{Jednoduch√°}
+{204}{}{Norm√°ln√≠}
+{205}{}{Tƒõ≈æk√°}
+{206}{}{Pro dƒõti}
+{207}{}{Norm√°ln√≠}
+{208}{}{Pro drs≈à√°ky}
+{209}{}{Norm√°ln√≠}
+{210}{}{Nejrychlej≈°√≠}
+{211}{}{Bohat√©}
+{212}{}{Stroh√©}
+{213}{}{Pouze zamƒõ≈ôen√©}
+{214}{}{≈Ω√°dn√©}
+{215}{}{Minim√°ln√≠}
+{216}{}{Krv√°k}
+{217}{}{Pomal√°}
+{218}{}{Vysok√°}
+{219}{}{V≈ædy}
 {220}{}{Spousta}
-{221}{}{NÌzk·}
-{222}{}{Vysok·}
-{223}{}{Maxim·lnÌ}
-{224}{}{äirok˝}
+{221}{}{N√≠zk√°}
+{222}{}{Vysok√°}
+{223}{}{Maxim√°ln√≠}
+{224}{}{≈†irok√Ω}
 {300}{}{[KONEC]}
 {301}{}{PAUZA}
-{1000}{}{PromiÚ, menu nastavenÌ}
-{1001}{}{nenÌ k dispozici v demo verzi.}
+{1000}{}{Promi≈à, menu nastaven√≠}
+{1001}{}{nen√≠ k dispozici v demo verzi.}

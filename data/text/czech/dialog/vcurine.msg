@@ -1,30 +1,30 @@
-{100}{}{Vidíš Obèana Vaultu.}
-{101}{}{Vidíš Obèana v jasnì modré kombinéze, kterı koná potøebu.}
-{102}{}{Rád bych ti zatleskal, ale mám plnı ruce.}
-{103}{}{Gratuluju k vítìzství v Enklávì. Taky jsi je zastihl na záchodì?}
-{104}{}{Rád si poslechnu tvoje historky, a nebudu èùrat, díky.}
-{105}{}{No ták! Dìlej! No ták!}
-{106}{}{Nemìl jsem si dávat tolik syntetickıho chlastu.}
-{107}{}{Cejtím se, jako bych tu byl celou vìènost.}
-{108}{}{Áááááááách.}
-{109}{}{Cejtím se, jako by se na mì nìkdo seshora díval.}
-{110}{}{Není nic lepšího ne se poøádnì vymoèit.}
-{111}{}{Neruš mì, kdy... sakra! Moje nohavice!}
-{112}{}{Mlè. Dìlá se mi z toho zle.}
-{113}{}{Podívej, "Vyvolenı," pokouším se soustøedit, ano?}
-{114}{}{Škoda, e tady nemají kabinky.}
-{115}{}{Lidi, kteøí si chtìjí povídat na záchodì, se mají hodnì co uèit o pravidlech slušnıho chování.}
-{116}{}{Myslím si, e si mì pleteš s nìkım, KDO NEMOÈÍ!}
-{117}{}{Není tohle jeden z tìch rozhovorù ala Kevin a Bean?}
-{118}{}{Pro koho pracuje Èíslo dvì?!?!}
-{119}{}{Já vìdìl, e jít na veøejnı záchody byl špatnej nápad.}
-{120}{}{Teï ne, zlato. Copak nevidíš, e moèím?}
-{121}{}{Promiò, zlato. Záchodky mì nevzrušují.}
-{122}{}{Tohle není ádnej hotel, kamaráde. Jdi pryè, ano?}
-{123}{}{Myslím, e si mì pleteš s nìkım, kdo se chce seznámit s chlapem na záchodech.}
-{124}{}{Ne, neukáu ti, jak se pouívá záchod.}
-{125}{}{Mutant! Stráe! Stráe!}
-{126}{}{Ghoul! Stráe! Stráe!}
-{127}{}{Hej! Pøestaò do mì strkat! Poèkej, a na tebe bude øada!}
-{128}{}{Je tady ještì jeden záchod! Pouij ho!}
-{129}{}{Ještì jednou do mì strèíš a poèùrám tì. Rozumíš mi? Myslím to vánì!}
+{100}{}{VidÃ­Å¡ ObÄana Vaultu.}
+{101}{}{VidÃ­Å¡ ObÄana v jasnÄ› modrÃ© kombinÃ©ze, kterÃ½ konÃ¡ potÅ™ebu.}
+{102}{}{RÃ¡d bych ti zatleskal, ale mÃ¡m plnÃ½ ruce.}
+{103}{}{Gratuluju k vÃ­tÄ›zstvÃ­ v EnklÃ¡vÄ›. Taky jsi je zastihl na zÃ¡chodÄ›?}
+{104}{}{RÃ¡d si poslechnu tvoje historky, aÅ¾ nebudu ÄÅ¯rat, dÃ­ky.}
+{105}{}{No tÃ¡k! DÄ›lej! No tÃ¡k!}
+{106}{}{NemÄ›l jsem si dÃ¡vat tolik syntetickÃ½ho chlastu.}
+{107}{}{CejtÃ­m se, jako bych tu byl celou vÄ›Änost.}
+{108}{}{ÃÃ¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡ch.}
+{109}{}{CejtÃ­m se, jako by se na mÄ› nÄ›kdo seshora dÃ­val.}
+{110}{}{NenÃ­ nic lepÅ¡Ã­ho neÅ¾ se poÅ™Ã¡dnÄ› vymoÄit.}
+{111}{}{NeruÅ¡ mÄ›, kdyÅ¾... sakra! Moje nohavice!}
+{112}{}{MlÄ. DÄ›lÃ¡ se mi z toho zle.}
+{113}{}{PodÃ­vej, "VyvolenÃ½," pokouÅ¡Ã­m se soustÅ™edit, ano?}
+{114}{}{Å koda, Å¾e tady nemajÃ­ kabinky.}
+{115}{}{Lidi, kteÅ™Ã­ si chtÄ›jÃ­ povÃ­dat na zÃ¡chodÄ›, se majÃ­ hodnÄ› co uÄit o pravidlech sluÅ¡nÃ½ho chovÃ¡nÃ­.}
+{116}{}{MyslÃ­m si, Å¾e si mÄ› pleteÅ¡ s nÄ›kÃ½m, KDO NEMOÄŒÃ!}
+{117}{}{NenÃ­ tohle jeden z tÄ›ch rozhovorÅ¯ ala Kevin a Bean?}
+{118}{}{Pro koho pracuje ÄŒÃ­slo dvÄ›?!?!}
+{119}{}{JÃ¡ vÄ›dÄ›l, Å¾e jÃ­t na veÅ™ejnÃ½ zÃ¡chody byl Å¡patnej nÃ¡pad.}
+{120}{}{TeÄ ne, zlato. Copak nevidÃ­Å¡, Å¾e moÄÃ­m?}
+{121}{}{PromiÅˆ, zlato. ZÃ¡chodky mÄ› nevzruÅ¡ujÃ­.}
+{122}{}{Tohle nenÃ­ Å¾Ã¡dnej hotel, kamarÃ¡de. Jdi pryÄ, ano?}
+{123}{}{MyslÃ­m, Å¾e si mÄ› pleteÅ¡ s nÄ›kÃ½m, kdo se chce seznÃ¡mit s chlapem na zÃ¡chodech.}
+{124}{}{Ne, neukÃ¡Å¾u ti, jak se pouÅ¾Ã­vÃ¡ zÃ¡chod.}
+{125}{}{Mutant! StrÃ¡Å¾e! StrÃ¡Å¾e!}
+{126}{}{Ghoul! StrÃ¡Å¾e! StrÃ¡Å¾e!}
+{127}{}{Hej! PÅ™estaÅˆ do mÄ› strkat! PoÄkej, aÅ¾ na tebe bude Å™ada!}
+{128}{}{Je tady jeÅ¡tÄ› jeden zÃ¡chod! PouÅ¾ij ho!}
+{129}{}{JeÅ¡tÄ› jednou do mÄ› strÄÃ­Å¡ a poÄÅ¯rÃ¡m tÄ›. RozumÃ­Å¡ mi? MyslÃ­m to vÃ¡Å¾nÄ›!}

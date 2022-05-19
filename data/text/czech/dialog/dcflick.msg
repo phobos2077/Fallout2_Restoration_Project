@@ -1,80 +1,80 @@
-{100}{}{Vidíš hubeného oplzle vyhlíejícího mue.}
-{150}{}{Vidíš Flicka, kterı podrobuje svá varlata dùkladnému podrbání.}
-{151}{}{Vidíš špinavého chlápka s nepøíjemnım tikem v oblièeji.}
-{200}{}{Jdi do nìkam, cretino.}
-{201}{}{Hej, trdlo! Si, ty. Vypadni ocaï.}
-{202}{}{Jseš stupido nebo co?}
-{203}{}{Co máš za probléma, no?}
-{204}{}{Vypadni ocaï.}
-{220}{}{Èágo, já jsem Flick. Co kurva chceš, no?}
-{221}{}{Tag co bude? Zdruješ mì.}
-{222}{}{Co to je za praštìnı pøízvuk, Flicku?}
-{223}{}{Co tu k èertu dìláš?}
-{224}{}{Hledám Vault. Jo a taky jednoho obchodníka jménem Vic. Nevíš, kde by mohli bıt?}
+{100}{}{VidÃ­Å¡ hubenÃ©ho oplzle vyhlÃ­Å¾ejÃ­cÃ­ho muÅ¾e.}
+{150}{}{VidÃ­Å¡ Flicka, kterÃ½ podrobuje svÃ¡ varlata dÅ¯kladnÃ©mu podrbÃ¡nÃ­.}
+{151}{}{VidÃ­Å¡ Å¡pinavÃ©ho chlÃ¡pka s nepÅ™Ã­jemnÃ½m tikem v obliÄeji.}
+{200}{}{Jdi do nÄ›kam, cretino.}
+{201}{}{Hej, trdlo! Si, ty. Vypadni ocaÄ.}
+{202}{}{JseÅ¡ stupido nebo co?}
+{203}{}{Co mÃ¡Å¡ za problÃ©ma, no?}
+{204}{}{Vypadni ocaÄ.}
+{220}{}{ÄŒÃ¡go, jÃ¡ jsem Flick. Co kurva chceÅ¡, no?}
+{221}{}{Tag co bude? ZdrÅ¾ujeÅ¡ mÄ›.}
+{222}{}{Co to je za praÅ¡tÄ›nÃ½ pÅ™Ã­zvuk, Flicku?}
+{223}{}{Co tu k Äertu dÄ›lÃ¡Å¡?}
+{224}{}{HledÃ¡m Vault. Jo a taky jednoho obchodnÃ­ka jmÃ©nem Vic. NevÃ­Å¡, kde by mohli bÃ½t?}
 {225}{}{Chci s tebou obchodovat.}
-{240}{}{Bude to fšechno, kámo?}
-{241}{}{Vlastnì se chci ještì podívat na tvoje zboí, jestli mùu.}
-{242}{}{Vlastnì se chci na nìco zeptat.}
+{240}{}{Bude to fÅ¡echno, kÃ¡mo?}
+{241}{}{VlastnÄ› se chci jeÅ¡tÄ› podÃ­vat na tvoje zboÅ¾Ã­, jestli mÅ¯Å¾u.}
+{242}{}{VlastnÄ› se chci na nÄ›co zeptat.}
 {243}{}{That did it. See you around, Flick.}
-{260}{}{Jsem zasranej ivitel, co myslíš? Jsem nìco jako dobrej Samuraitán.}
-{261}{}{Co prosím?}
-{262}{}{Jo, eh, no... chci se ještì na nìco zeptat.}
-{263}{}{Eh, aha. Dobøe. Sbohem, Flicku.}
-{280}{}{Starám se o malı paisano.}
-{281}{}{Staráš se o malé piána?}
-{290}{}{Pai-san-o, však víš, dìcka. Moje dìcka.}
-{291}{}{Tvoje dìti?}
-{292}{}{Nestojím o hodiny hudby pro dìti. Chci se ještì na nìco zeptat.}
-{300}{}{Jo, oni pro mì pracujou. Nosí mi vìci. Malı vìci, víš.}
+{260}{}{Jsem zasranej Å¾ivitel, co myslÃ­Å¡? Jsem nÄ›co jako dobrej SamuraitÃ¡n.}
+{261}{}{Co prosÃ­m?}
+{262}{}{Jo, eh, no... chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{263}{}{Eh, aha. DobÅ™e. Sbohem, Flicku.}
+{280}{}{StarÃ¡m se o malÃ½ paisano.}
+{281}{}{StarÃ¡Å¡ se o malÃ© piÃ¡na?}
+{290}{}{Pai-san-o, vÅ¡ak vÃ­Å¡, dÄ›cka. Moje dÄ›cka.}
+{291}{}{Tvoje dÄ›ti?}
+{292}{}{NestojÃ­m o hodiny hudby pro dÄ›ti. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{300}{}{Jo, oni pro mÄ› pracujou. NosÃ­ mi vÄ›ci. MalÃ½ vÄ›ci, vÃ­Å¡.}
 {301}{}{Eh, ne.}
-{302}{}{Aha, dobøe. Chci se ještì na nìco zeptat.}
-{303}{}{Aha, chápu. No, nebudu rušit tvùj, eh, styl. Sbohem.}
-{315}{}{Nosej mi vìci, kerı najdou. Malı vìci. Vìci, kerı u nikdo nepouívá. Na oplátku se starám já o nì.}
-{316}{}{To zní jako dobrá dohoda.}
-{325}{}{(Flick pokrèí rameny) Vyhovuje mi to.}
-{326}{}{Chci se ještì na nìco zeptat.}
-{327}{}{Urèitì ti pøinesli nìjaké zajímavé vìci. Uka mi, co máš.}
-{328}{}{Jenom se dívám. Sbohem, Flicku.}
-{340}{}{O èem to mluvíš? Myslíš, e jsem nìjakej posranej blbej pirla? Nìjakej debilní filio di puttana? Myslíš, e jsem nìjakej šašek? e tì mám jako bavit nebo co?}
-{341}{}{Eh, ne. Promiò, jen mì to prostì zajímalo. Chci se ještì na nìco zeptat.}
-{342}{}{Jo, pøesnì o tom mluvím, ty sráèi. A nic mì nepobaví tak jako tvoje bolestivá smrt.}
-{343}{}{No, kdy tì to tak strašnì urazilo, tak odejdu.}
-{360}{}{Vault, jo? Moná o tom nìco ví Máma, páè já vùbec. Ale ten chlapík Vic, toho znám. Metzger má toho porca pistola.}
-{361}{}{Vic? Není náhodou s tebou? Ty biota. Ale Mámu, tu znám.}
+{302}{}{Aha, dobÅ™e. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{303}{}{Aha, chÃ¡pu. No, nebudu ruÅ¡it tvÅ¯j, eh, styl. Sbohem.}
+{315}{}{Nosej mi vÄ›ci, kerÃ½ najdou. MalÃ½ vÄ›ci. VÄ›ci, kerÃ½ uÅ¾ nikdo nepouÅ¾Ã­vÃ¡. Na oplÃ¡tku se starÃ¡m jÃ¡ o nÄ›.}
+{316}{}{To znÃ­ jako dobrÃ¡ dohoda.}
+{325}{}{(Flick pokrÄÃ­ rameny) Vyhovuje mi to.}
+{326}{}{Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{327}{}{UrÄitÄ› ti pÅ™inesli nÄ›jakÃ© zajÃ­mavÃ© vÄ›ci. UkaÅ¾ mi, co mÃ¡Å¡.}
+{328}{}{Jenom se dÃ­vÃ¡m. Sbohem, Flicku.}
+{340}{}{O Äem to mluvÃ­Å¡? MyslÃ­Å¡, Å¾e jsem nÄ›jakej posranej blbej pirla? NÄ›jakej debilnÃ­ filio di puttana? MyslÃ­Å¡, Å¾e jsem nÄ›jakej Å¡aÅ¡ek? Å½e tÄ› mÃ¡m jako bavit nebo co?}
+{341}{}{Eh, ne. PromiÅˆ, jen mÄ› to prostÄ› zajÃ­malo. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{342}{}{Jo, pÅ™esnÄ› o tom mluvÃ­m, ty srÃ¡Äi. A nic mÄ› nepobavÃ­ tak jako tvoje bolestivÃ¡ smrt.}
+{343}{}{No, kdyÅ¾ tÄ› to tak straÅ¡nÄ› urazilo, tak odejdu.}
+{360}{}{Vault, jo? MoÅ¾nÃ¡ o tom nÄ›co vÃ­ MÃ¡ma, pÃ¡Ä jÃ¡ vÅ¯bec. Ale ten chlapÃ­k Vic, toho znÃ¡m. Metzger mÃ¡ toho porca pistola.}
+{361}{}{Vic? NenÃ­ nÃ¡hodou s tebou? Ty biota. Ale MÃ¡mu, tu znÃ¡m.}
 {362}{}{Kdo je Metzger?}
-{363}{}{Kdo je Máma?}
-{364}{}{Díky. Chci se ještì na nìco zeptat.}
-{365}{}{Díky, to bude asi všechno. Sbohem.}
-{380}{}{Máma provozuje jídelnu ve vıchodní èásti mìsta. Hned za høbitovem. Je to hezkı místo, vaøí tam dobrı pasta, Mama mia.}
-{381}{}{Díky. A co ten chlápek Metzger, co má Vica?}
-{382}{}{Díky. Chci se ještì na nìco zeptat.}
-{383}{}{Díky, to bude asi všechno. Sbohem.}
-{400}{}{Metzger, ten stronzo, je mrtvej. Nevím, co se stalo s Vicem.}
-{401}{}{Ten Metzger, to je fakt rompiballe. Provozuje Cech otrokáøù. Na vıchodì mìsta, severnì od Mámy. Kadopádnì má Vica, to vím.}
-{402}{}{Díky, a co teï nìco o Mámì?}
-{403}{}{Díky. Chci se ještì na nìco zeptat.}
-{404}{}{Díky, to bude asi všechno. Sbohem.}
-{410}{}{No to mi ho vyndej, podívejme se, kdo pøišel. Náš dobrodinec, kterej "zachránil dìtièky", se rozhodl poctít mì svou pøítomností. Já jsem taky dobrej Samuraitán. Starám se o ty malı paisano a tak. Teda dokud jsi nešel kolem a nedostal ten zkurvenej nápad se sirotèincem.}
-{411}{}{No to mi ho vyndej, podívejme se, kdo pøišel. Naše dobrodinkynì, která "zachránila dìtièky", se rozhodla poctít mì svou pøítomností. Já jsem taky dobrobinec. Starám se o ty malı paisano a tak. Teda dokud jsi nešla kolem a nedostala ten zkurvenej nápad se sirotèincem.}
-{412}{}{Staráš se o malé piána?}
-{413}{}{To vypadá, jako by se ti nelíbilo, e u se dìti netoulají po ulicích.}
-{420}{}{Hej, neber si to špatnì. ivot na ulici je pro ty dìcka drsnej, jene teï je konec naší malı dohody a to mì nièí.}
-{421}{}{Jaké dohody?}
-{422}{}{Myslíš jejich kapsáøství a nošení ukradenıch vìcí k tobì na prodej?}
-{430}{}{Nesna se mì pøechcat, cretino. Dìcka mi nosej vìci, kerı *našly.* Nevím, odkud je maj a upøímnì je mi to u prdele.}
-{431}{}{Dobøe.}
-{432}{}{Jseš pìknej sráè. Je mi zle z takovıch hajzlù, jako jsi ty, co zneuívají dìti ke svému vlastnímu prospìchu. Èas umøít!}
-{440}{}{Pai-san-o, však víš, dìcka. Moje dìcka.}
-{441}{}{A ty máš s nimi nìjakou dohodu?}
-{450}{}{Nosej mi vìci, kerı najdou. Malı vìci. Vìci, kerı u nikdo nepouívá. Na oplátku se starám já o nì.}
-{451}{}{To zní jako dobrá dohoda.}
-{460}{}{Jo...obchody šly dobøe, ne jsi pøišel. Víš, ten tvùj malej nápad mì bude nìco stát. Moje obchody budou díky tobì trpìt. Proto tì opravdu nemám moc rád. Vlastnì tì teï kurevsky nesnáším, ale jsem obchodník, take jestli chceš obchodovat, tak se do toho dáme. Jestli ne, tak jdi do prdele.}
-{461}{}{Dobøe. Uka, co nabízíš.}
-{462}{}{Myslím, e to bude všechno. Sbohem.}
-{463}{}{Myslím, e zùstanu... a nakopu ti prdel.}
-{470}{}{Zas ty? Doufám, e jseš tu kvùli obchodování, páè u mì ten tvùj ksicht fakt sere. Vlastnì se skoro vdycky pobliju, kdy tì vidím. A tak se mi hnusíš. A jestli tu nejseš kvùli obchodu, tak se raèi rychle otoè a vypadni kurva ocaï.}
-{471}{}{Pojïme obchodovat.}
-{472}{}{Jenom se dívám. Sbohem, Flicku.}
-{480}{}{Pøestaneš u mrhat mım èasem?}
-{481}{}{Ještì se chci jednou podívat.}
-{482}{}{To bude všechno. Sbohem, Flicku.}
+{363}{}{Kdo je MÃ¡ma?}
+{364}{}{DÃ­ky. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{365}{}{DÃ­ky, to bude asi vÅ¡echno. Sbohem.}
+{380}{}{MÃ¡ma provozuje jÃ­delnu ve vÃ½chodnÃ­ ÄÃ¡sti mÄ›sta. Hned za hÅ™bitovem. Je to hezkÃ½ mÃ­sto, vaÅ™Ã­ tam dobrÃ½ pasta, Mama mia.}
+{381}{}{DÃ­ky. A co ten chlÃ¡pek Metzger, co mÃ¡ Vica?}
+{382}{}{DÃ­ky. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{383}{}{DÃ­ky, to bude asi vÅ¡echno. Sbohem.}
+{400}{}{Metzger, ten stronzo, je mrtvej. NevÃ­m, co se stalo s Vicem.}
+{401}{}{Ten Metzger, to je fakt rompiballe. Provozuje Cech otrokÃ¡Å™Å¯. Na vÃ½chodÄ› mÄ›sta, severnÄ› od MÃ¡my. KaÅ¾dopÃ¡dnÄ› mÃ¡ Vica, to vÃ­m.}
+{402}{}{DÃ­ky, a co teÄ nÄ›co o MÃ¡mÄ›?}
+{403}{}{DÃ­ky. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{404}{}{DÃ­ky, to bude asi vÅ¡echno. Sbohem.}
+{410}{}{No to mi ho vyndej, podÃ­vejme se, kdo pÅ™iÅ¡el. NÃ¡Å¡ dobrodinec, kterej "zachrÃ¡nil dÄ›tiÄky", se rozhodl poctÃ­t mÄ› svou pÅ™Ã­tomnostÃ­. JÃ¡ jsem taky dobrej SamuraitÃ¡n. StarÃ¡m se o ty malÃ½ paisano a tak. Teda dokud jsi neÅ¡el kolem a nedostal ten zkurvenej nÃ¡pad se sirotÄincem.}
+{411}{}{No to mi ho vyndej, podÃ­vejme se, kdo pÅ™iÅ¡el. NaÅ¡e dobrodinkynÄ›, kterÃ¡ "zachrÃ¡nila dÄ›tiÄky", se rozhodla poctÃ­t mÄ› svou pÅ™Ã­tomnostÃ­. JÃ¡ jsem taky dobrobinec. StarÃ¡m se o ty malÃ½ paisano a tak. Teda dokud jsi neÅ¡la kolem a nedostala ten zkurvenej nÃ¡pad se sirotÄincem.}
+{412}{}{StarÃ¡Å¡ se o malÃ© piÃ¡na?}
+{413}{}{To vypadÃ¡, jako by se ti nelÃ­bilo, Å¾e uÅ¾ se dÄ›ti netoulajÃ­ po ulicÃ­ch.}
+{420}{}{Hej, neber si to Å¡patnÄ›. Å½ivot na ulici je pro ty dÄ›cka drsnej, jenÅ¾e teÄ je konec naÅ¡Ã­ malÃ½ dohody a to mÄ› niÄÃ­.}
+{421}{}{JakÃ© dohody?}
+{422}{}{MyslÃ­Å¡ jejich kapsÃ¡Å™stvÃ­ a noÅ¡enÃ­ ukradenÃ½ch vÄ›cÃ­ k tobÄ› na prodej?}
+{430}{}{NesnaÅ¾ se mÄ› pÅ™echcat, cretino. DÄ›cka mi nosej vÄ›ci, kerÃ½ *naÅ¡ly.* NevÃ­m, odkud je maj a upÅ™Ã­mnÄ› je mi to u prdele.}
+{431}{}{DobÅ™e.}
+{432}{}{JseÅ¡ pÄ›knej srÃ¡Ä. Je mi zle z takovÃ½ch hajzlÅ¯, jako jsi ty, co zneuÅ¾Ã­vajÃ­ dÄ›ti ke svÃ©mu vlastnÃ­mu prospÄ›chu. ÄŒas umÅ™Ã­t!}
+{440}{}{Pai-san-o, vÅ¡ak vÃ­Å¡, dÄ›cka. Moje dÄ›cka.}
+{441}{}{A ty mÃ¡Å¡ s nimi nÄ›jakou dohodu?}
+{450}{}{Nosej mi vÄ›ci, kerÃ½ najdou. MalÃ½ vÄ›ci. VÄ›ci, kerÃ½ uÅ¾ nikdo nepouÅ¾Ã­vÃ¡. Na oplÃ¡tku se starÃ¡m jÃ¡ o nÄ›.}
+{451}{}{To znÃ­ jako dobrÃ¡ dohoda.}
+{460}{}{Jo...obchody Å¡ly dobÅ™e, neÅ¾ jsi pÅ™iÅ¡el. VÃ­Å¡, ten tvÅ¯j malej nÃ¡pad mÄ› bude nÄ›co stÃ¡t. Moje obchody budou dÃ­ky tobÄ› trpÄ›t. Proto tÄ› opravdu nemÃ¡m moc rÃ¡d. VlastnÄ› tÄ› teÄ kurevsky nesnÃ¡Å¡Ã­m, ale jsem obchodnÃ­k, takÅ¾e jestli chceÅ¡ obchodovat, tak se do toho dÃ¡me. Jestli ne, tak jdi do prdele.}
+{461}{}{DobÅ™e. UkaÅ¾, co nabÃ­zÃ­Å¡.}
+{462}{}{MyslÃ­m, Å¾e to bude vÅ¡echno. Sbohem.}
+{463}{}{MyslÃ­m, Å¾e zÅ¯stanu... a nakopu ti prdel.}
+{470}{}{Zas ty? DoufÃ¡m, Å¾e jseÅ¡ tu kvÅ¯li obchodovÃ¡nÃ­, pÃ¡Ä uÅ¾ mÄ› ten tvÅ¯j ksicht fakt sere. VlastnÄ› se skoro vÅ¾dycky pobliju, kdyÅ¾ tÄ› vidÃ­m. AÅ¾ tak se mi hnusÃ­Å¡. A jestli tu nejseÅ¡ kvÅ¯li obchodu, tak se raÄi rychle otoÄ a vypadni kurva ocaÄ.}
+{471}{}{PojÄme obchodovat.}
+{472}{}{Jenom se dÃ­vÃ¡m. Sbohem, Flicku.}
+{480}{}{PÅ™estaneÅ¡ uÅ¾ mrhat mÃ½m Äasem?}
+{481}{}{JeÅ¡tÄ› se chci jednou podÃ­vat.}
+{482}{}{To bude vÅ¡echno. Sbohem, Flicku.}

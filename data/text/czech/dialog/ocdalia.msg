@@ -1,56 +1,56 @@
-{100}{}{Vidíš mladou enu v kovové zbroji.}
-{101}{}{Vidíš Daliu.}
-{102}{}{Vidíš hezkou mladou enu v kovové zbroji. Pozornì sleduje okolí.}
-{103}{}{No to mì podr. Jak se ti daøí,}
-{104}{}{Ty Dalia. Já pamatovat na tvoje pomoc.}
-{105}{}{Všechno dobrı. Já teï jít.}
-{106}{}{Dalio! Díky tobì to jde skvìle.}
-{107}{}{Ujde to, ale u budu muset jít.}
-{108}{}{To ráda slyším. Bylo mi potìšením to pro tebe udìlat. Take, s èím ti mùu dnes pomoct?}
-{109}{}{Mít otázky.}
-{110}{}{Nic. Já øíct ahoj.}
-{111}{}{Chci se tì na nìco zeptat.}
-{112}{}{S nièím. Ale rád jsem tì zase vidìl. Nashle.}
-{113}{}{Co chceš vìdìt?}
-{114}{}{Ty vìzeò.}
-{115}{}{Ty odejít kdy chtít?}
-{116}{}{Co vìdìt o páraè?}
-{117}{}{Kde ty tu vzít?}
-{118}{}{Proè ty bát o bezpeènost?}
-{119}{}{Dík. Já jít.}
-{120}{}{Jsi tu vìzeò?}
-{121}{}{Mùeš odejít kdykoliv se ti zachce?}
-{122}{}{Co mi mùeš øíct o páraèích?}
+{100}{}{VidÃ­Å¡ mladou Å¾enu v kovovÃ© zbroji.}
+{101}{}{VidÃ­Å¡ Daliu.}
+{102}{}{VidÃ­Å¡ hezkou mladou Å¾enu v kovovÃ© zbroji. PozornÄ› sleduje okolÃ­.}
+{103}{}{No to mÄ› podrÅ¾. Jak se ti daÅ™Ã­,}
+{104}{}{Ty Dalia. JÃ¡ pamatovat na tvoje pomoc.}
+{105}{}{VÅ¡echno dobrÃ½. JÃ¡ teÄ jÃ­t.}
+{106}{}{Dalio! DÃ­ky tobÄ› to jde skvÄ›le.}
+{107}{}{Ujde to, ale uÅ¾ budu muset jÃ­t.}
+{108}{}{To rÃ¡da slyÅ¡Ã­m. Bylo mi potÄ›Å¡enÃ­m to pro tebe udÄ›lat. TakÅ¾e, s ÄÃ­m ti mÅ¯Å¾u dnes pomoct?}
+{109}{}{MÃ­t otÃ¡zky.}
+{110}{}{Nic. JÃ¡ Å™Ã­ct ahoj.}
+{111}{}{Chci se tÄ› na nÄ›co zeptat.}
+{112}{}{S niÄÃ­m. Ale rÃ¡d jsem tÄ› zase vidÄ›l. Nashle.}
+{113}{}{Co chceÅ¡ vÄ›dÄ›t?}
+{114}{}{Ty vÄ›zeÅˆ.}
+{115}{}{Ty odejÃ­t kdyÅ¾ chtÃ­t?}
+{116}{}{Co vÄ›dÄ›t o pÃ¡raÄ?}
+{117}{}{Kde ty tu vzÃ­t?}
+{118}{}{ProÄ ty bÃ¡t o bezpeÄnost?}
+{119}{}{DÃ­k. JÃ¡ jÃ­t.}
+{120}{}{Jsi tu vÄ›zeÅˆ?}
+{121}{}{MÅ¯Å¾eÅ¡ odejÃ­t kdykoliv se ti zachce?}
+{122}{}{Co mi mÅ¯Å¾eÅ¡ Å™Ã­ct o pÃ¡raÄÃ­ch?}
 {123}{}{Jak ses sem dostala?}
-{124}{}{Proè tak potøebuješ bezpeèné místo?}
-{125}{}{Díky, promluvíme si pozdìji.}
-{126}{}{Ne, nejsem. Jsem tu ze své vlastní vùle a líbí se mi tu. Myslím, e tohle je bezpeèné místo, take tu chvíli zùstanu.}
-{127}{}{Dobøe.}
+{124}{}{ProÄ tak potÅ™ebujeÅ¡ bezpeÄnÃ© mÃ­sto?}
+{125}{}{DÃ­ky, promluvÃ­me si pozdÄ›ji.}
+{126}{}{Ne, nejsem. Jsem tu ze svÃ© vlastnÃ­ vÅ¯le a lÃ­bÃ­ se mi tu. MyslÃ­m, Å¾e tohle je bezpeÄnÃ© mÃ­sto, takÅ¾e tu chvÃ­li zÅ¯stanu.}
+{127}{}{DobÅ™e.}
 {128}{}{Nashle.}
-{129}{}{Tak dobøe.}
-{130}{}{Aha. No, u pùjdu.}
-{131}{}{Jo, øekli mi, e mùu zùstat, nebo kdykoliv odejít. Prozatím zùstávám.}
-{132}{}{Já chápat.}
-{133}{}{Tak dobøe.}
-{134}{}{Myslím, e o nich nevím nic víc ne ty. Stále se snaím zvyknout na to, e na mì mluví místo toho, aby mi urvali hlavu a hráli s ní kopanou. Dìsivé, nemyslíš?}
-{135}{}{Jo, já divit.}
-{136}{}{Nee, já zvyklı.}
-{137}{}{Ano je, v mnoha smìrech.}
+{129}{}{Tak dobÅ™e.}
+{130}{}{Aha. No, uÅ¾ pÅ¯jdu.}
+{131}{}{Jo, Å™ekli mi, Å¾e mÅ¯Å¾u zÅ¯stat, nebo kdykoliv odejÃ­t. ProzatÃ­m zÅ¯stÃ¡vÃ¡m.}
+{132}{}{JÃ¡ chÃ¡pat.}
+{133}{}{Tak dobÅ™e.}
+{134}{}{MyslÃ­m, Å¾e o nich nevÃ­m nic vÃ­c neÅ¾ ty. StÃ¡le se snaÅ¾Ã­m zvyknout na to, Å¾e na mÄ› mluvÃ­ mÃ­sto toho, aby mi urvali hlavu a hrÃ¡li s nÃ­ kopanou. DÄ›sivÃ©, nemyslÃ­Å¡?}
+{135}{}{Jo, jÃ¡ divit.}
+{136}{}{Nee, jÃ¡ zvyklÃ½.}
+{137}{}{Ano je, v mnoha smÄ›rech.}
 {138}{}{Ne, je to jen o zvyku.}
-{139}{}{Potom, co jsem opustila Squat, jsem nevìdìla, co mám dìlat. Øekla jsem si, e prostì odejdu do jiného mìsta a nechám se zase najmout jako oldák... take jsem cestovala pouští a pøemıšlela kam jít. Jednoho dne jsem hledala místo pro utáboøení. Stmívalo se a já nechtìla bıt tak na ránì. V dálce jsem uvidìla táboøištì... a rozhodla jsem se na nìj podívat zblízka.}
-{140}{}{Páni.}
-{141}{}{To je zajímavé.}
-{142}{}{Kdy jsem tì nechala projít ve Squatu, porušila jsem smlouvu se svım zamìstnavatelem. Byla jsem si jistá, e mi pùjdou po krku. To, e tì tu teï vidím, mì pøesvìdèilo, e to mùu klidnì pustit z hlavy. Znamená to toti, e mùj bıvalı zamìstnavatel u nemá prostøedky na to, aby se mnou dál zabıval.}
-{143}{}{Ty teï v bezpeèí. Nebát, Dalia.}
-{144}{}{Teï u jsi v bezpeèí, Dalio. Nemusíš se obávat ádné odplaty.}
-{145}{}{Díky,}
-{146}{}{To bıt v poøádku.}
+{139}{}{Potom, co jsem opustila Squat, jsem nevÄ›dÄ›la, co mÃ¡m dÄ›lat. Å˜ekla jsem si, Å¾e prostÄ› odejdu do jinÃ©ho mÄ›sta a nechÃ¡m se zase najmout jako Å¾oldÃ¡k... takÅ¾e jsem cestovala pouÅ¡tÃ­ a pÅ™emÃ½Å¡lela kam jÃ­t. Jednoho dne jsem hledala mÃ­sto pro utÃ¡boÅ™enÃ­. StmÃ­valo se a jÃ¡ nechtÄ›la bÃ½t tak na rÃ¡nÄ›. V dÃ¡lce jsem uvidÄ›la tÃ¡boÅ™iÅ¡tÄ›... a rozhodla jsem se na nÄ›j podÃ­vat zblÃ­zka.}
+{140}{}{PÃ¡ni.}
+{141}{}{To je zajÃ­mavÃ©.}
+{142}{}{KdyÅ¾ jsem tÄ› nechala projÃ­t ve Squatu, poruÅ¡ila jsem smlouvu se svÃ½m zamÄ›stnavatelem. Byla jsem si jistÃ¡, Å¾e mi pÅ¯jdou po krku. To, Å¾e tÄ› tu teÄ vidÃ­m, mÄ› pÅ™esvÄ›dÄilo, Å¾e to mÅ¯Å¾u klidnÄ› pustit z hlavy. ZnamenÃ¡ to totiÅ¾, Å¾e mÅ¯j bÃ½valÃ½ zamÄ›stnavatel uÅ¾ nemÃ¡ prostÅ™edky na to, aby se mnou dÃ¡l zabÃ½val.}
+{143}{}{Ty teÄ v bezpeÄÃ­. NebÃ¡t, Dalia.}
+{144}{}{TeÄ uÅ¾ jsi v bezpeÄÃ­, Dalio. NemusÃ­Å¡ se obÃ¡vat Å¾Ã¡dnÃ© odplaty.}
+{145}{}{DÃ­ky,}
+{146}{}{To bÃ½t v poÅ™Ã¡dku.}
 {147}{}{Nashle.}
-{148}{}{Není zaè.}
-{149}{}{Zatím.}
+{148}{}{NenÃ­ zaÄ.}
+{149}{}{ZatÃ­m.}
 {150}{}{Ahoj.}
 {151}{}{Ahoj. Jak to jde?}
-{152}{}{Nemám ti co øíct. }
-{153}{}{. Doufám, e se ve Squatu všechno vyøešilo.}
-{154}{}{Pøiplíila jsem se k tomu táboøišti a u nìj sedìli dva páraèi a povídali si. Já husa jsem vyjekla pøekvapením, vyskoèila, vzala nohy na ramena... a vbìhla pøímo do náruèe dalšího páraèe stojícího hned za mnou. Kadopádnì abych to zkrátila, chvíli mi trvalo, ne jsem pochopila, e nebudu napíchnuta na rošt a ugrilována. Místo toho mì vzali sem a Gruthar mì "vyslechnul." Teï tady mùu ít, kdy chci.}
-{155}{}{. Spadl mi velkı kámen ze srdce.}
+{152}{}{NemÃ¡m ti co Å™Ã­ct. }
+{153}{}{. DoufÃ¡m, Å¾e se ve Squatu vÅ¡echno vyÅ™eÅ¡ilo.}
+{154}{}{PÅ™iplÃ­Å¾ila jsem se k tomu tÃ¡boÅ™iÅ¡ti a u nÄ›j sedÄ›li dva pÃ¡raÄi a povÃ­dali si. JÃ¡ husa jsem vyjekla pÅ™ekvapenÃ­m, vyskoÄila, vzala nohy na ramena... a vbÄ›hla pÅ™Ã­mo do nÃ¡ruÄe dalÅ¡Ã­ho pÃ¡raÄe stojÃ­cÃ­ho hned za mnou. KaÅ¾dopÃ¡dnÄ› abych to zkrÃ¡tila, chvÃ­li mi trvalo, neÅ¾ jsem pochopila, Å¾e nebudu napÃ­chnuta na roÅ¡t a ugrilovÃ¡na. MÃ­sto toho mÄ› vzali sem a Gruthar mÄ› "vyslechnul." TeÄ tady mÅ¯Å¾u Å¾Ã­t, kdyÅ¾ chci.}
+{155}{}{. Spadl mi velkÃ½ kÃ¡men ze srdce.}

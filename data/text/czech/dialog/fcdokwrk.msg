@@ -1,29 +1,29 @@
-{100}{}{Vidíš rolníka Shi.}
-{101}{}{Vidíš pøístavního dìlníka.}
-{102}{}{Vidíš rolníka Shi, jeho obleèení je zamazané šupinami, dehtem a solí.}
-{103}{}{Krásnı den na to strávit u oceánu.}
-{104}{}{Vlny se mi vdycky líbily.}
-{105}{}{Máš rád rybí omáèku?}
-{106}{}{Slunce, svìí vzduch a plody moøe. Co víc èlovìk potøebuje k tomu, aby si šel zaplavat?}
-{107}{}{Z ryb se mi zvedá aludek.}
-{108}{}{Bolí mì záda.}
-{109}{}{Hele, podívejte... další turista.}
-{112}{}{Dej si pozor na monstra v tankeru. Vlastnì poèkat... ty u jsi tam asi byl, co?}
-{113}{}{Jdeš do tankeru, jo?}
-{114}{}{Tanker je drsné místo. Øíkají to pankáèi.}
-{115}{}{Máš namíøeno dovnitø?}
-{116}{}{Krásnı den na to strávit u oceánu.}
-{117}{}{Vlny se mi vdycky líbily.}
-{118}{}{Máš rád rybí omáèku?}
-{119}{}{Slunce, svìí vzduch a plody moøe. Co víc èlovìk potøebuje k tomu, aby si šel zaplavat?}
-{120}{}{Z ryb se mi zvedá aludek.}
-{121}{}{Bolí mì záda.}
-{122}{}{Hele, podívejte... další turista.}
+{100}{}{VidÃ­Å¡ rolnÃ­ka Shi.}
+{101}{}{VidÃ­Å¡ pÅ™Ã­stavnÃ­ho dÄ›lnÃ­ka.}
+{102}{}{VidÃ­Å¡ rolnÃ­ka Shi, jehoÅ¾ obleÄenÃ­ je zamazanÃ© Å¡upinami, dehtem a solÃ­.}
+{103}{}{KrÃ¡snÃ½ den na to strÃ¡vit u oceÃ¡nu.}
+{104}{}{Vlny se mi vÅ¾dycky lÃ­bily.}
+{105}{}{MÃ¡Å¡ rÃ¡d rybÃ­ omÃ¡Äku?}
+{106}{}{Slunce, svÄ›Å¾Ã­ vzduch a plody moÅ™e. Co vÃ­c ÄlovÄ›k potÅ™ebuje k tomu, aby si Å¡el zaplavat?}
+{107}{}{Z ryb se mi zvedÃ¡ Å¾aludek.}
+{108}{}{BolÃ­ mÄ› zÃ¡da.}
+{109}{}{Hele, podÃ­vejte... dalÅ¡Ã­ turista.}
+{112}{}{Dej si pozor na monstra v tankeru. VlastnÄ› poÄkat... ty uÅ¾ jsi tam asi byl, co?}
+{113}{}{JdeÅ¡ do tankeru, jo?}
+{114}{}{Tanker je drsnÃ© mÃ­sto. Å˜Ã­kajÃ­ to pankÃ¡Äi.}
+{115}{}{MÃ¡Å¡ namÃ­Å™eno dovnitÅ™?}
+{116}{}{KrÃ¡snÃ½ den na to strÃ¡vit u oceÃ¡nu.}
+{117}{}{Vlny se mi vÅ¾dycky lÃ­bily.}
+{118}{}{MÃ¡Å¡ rÃ¡d rybÃ­ omÃ¡Äku?}
+{119}{}{Slunce, svÄ›Å¾Ã­ vzduch a plody moÅ™e. Co vÃ­c ÄlovÄ›k potÅ™ebuje k tomu, aby si Å¡el zaplavat?}
+{120}{}{Z ryb se mi zvedÃ¡ Å¾aludek.}
+{121}{}{BolÃ­ mÄ› zÃ¡da.}
+{122}{}{Hele, podÃ­vejte... dalÅ¡Ã­ turista.}
 {125}{}{}
 {126}{}{}
 {127}{}{}
 {128}{}{}
-{150}{}{Èas zemøít, turisto.}
-{151}{}{Myslíš, e zvládneš pøístavní rvaèku?}
-{152}{}{Nemyslím si, e jseš takovej tvrïák.}
-{153}{}{Uvidíme, jak se ti bude líbit, a dostaneš poøádnou nakládaèku od pøístavního dìlníka Shi!}
+{150}{}{ÄŒas zemÅ™Ã­t, turisto.}
+{151}{}{MyslÃ­Å¡, Å¾e zvlÃ¡dneÅ¡ pÅ™Ã­stavnÃ­ rvaÄku?}
+{152}{}{NemyslÃ­m si, Å¾e jseÅ¡ takovej tvrÄÃ¡k.}
+{153}{}{UvidÃ­me, jak se ti bude lÃ­bit, aÅ¾ dostaneÅ¡ poÅ™Ã¡dnou naklÃ¡daÄku od pÅ™Ã­stavnÃ­ho dÄ›lnÃ­ka Shi!}

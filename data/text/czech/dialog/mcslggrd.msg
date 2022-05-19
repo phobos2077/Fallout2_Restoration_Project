@@ -1,29 +1,29 @@
-{100}{}{Vypadá jako nìjakı stráce.}
-{101}{}{Vidíš ochránce.}
-{150}{}{Kdyby nemìl bledou kùi a rozšíøené zornièky, vypadal by jako normální èlovìk.}
+{100}{}{VypadÃ¡ jako nÄ›jakÃ½ strÃ¡Å¾ce.}
+{101}{}{VidÃ­Å¡ ochrÃ¡nce.}
+{150}{}{Kdyby nemÄ›l bledou kÅ¯Å¾i a rozÅ¡Ã­Å™enÃ© zorniÄky, vypadal by jako normÃ¡lnÃ­ ÄlovÄ›k.}
 {200}{}{Do prdele!}
-{201}{}{Óóóó! To muselo sakra bolet.}
-{210}{}{Víš, e mùeš pouít zadní vchod...?}
+{201}{}{Ã“Ã³Ã³Ã³! To muselo sakra bolet.}
+{210}{}{VÃ­Å¡, Å¾e mÅ¯Å¾eÅ¡ pouÅ¾Ã­t zadnÃ­ vchod...?}
 {211}{}{Chachachacha!}
-{212}{}{Nikomu nic neøeknu.}
-{213}{}{Boe! Ty mì znièíš! Udìlej to prosím ještì jednou!}
+{212}{}{Nikomu nic neÅ™eknu.}
+{213}{}{BoÅ¾e! Ty mÄ› zniÄÃ­Å¡! UdÄ›lej to prosÃ­m jeÅ¡tÄ› jednou!}
 {214}{}{To je ale idiot!}
 {215}{}{Hahahaha!}
-{220}{}{Dostali jsme instrukce dovést všechny Nadzemníky k Vegeirovi. Nic se ti nestane. Pojï prosím s námi.}
-{221}{}{Táhnìte k èertu, nikam s vámi nepùjdu.}
-{222}{}{Chci se na nìco zeptat.}
+{220}{}{Dostali jsme instrukce dovÃ©st vÅ¡echny NadzemnÃ­ky k Vegeirovi. Nic se ti nestane. PojÄ prosÃ­m s nÃ¡mi.}
+{221}{}{TÃ¡hnÄ›te k Äertu, nikam s vÃ¡mi nepÅ¯jdu.}
+{222}{}{Chci se na nÄ›co zeptat.}
 {223}{}{He?}
-{224}{}{Trochu ti to objasním. Nic se ti nestane, pokud NEBUDEŠ klást ODPOR. Budeš klást odpor?}
-{225}{}{Jasnì e jo, nikdy s vámi nepùjdu.}
-{226}{}{Ne, je mi jasné, e odpor je marnı. Pùjdu s vámi.}
-{230}{}{Vegeir ti odpoví na všechny otázky. Pojï prosím s námi.}
-{231}{}{Dobøe, pùjdu s vámi dobrovolnì.}
-{232}{}{Ne, dokud nedostanu odpovìdi na svoje otázky, tak s vámi nikam nepùjdu.}
-{240}{}{Hmm... zajímalo by mì, jestli tohle nebude vıjimka. Ne, ne, ne. Vegeir øekl VŠECHNY Nadzemníky, dokonce i idioty. Pojï se mnou.}
-{241}{}{[Jít se stráemi]}
-{242}{}{[Všechny pozabíjet a nechat jejich tìla na pospas bohùm]}
-{250}{}{Promiò, ale tudy nemùeš jít.}
-{251}{}{Tenhle vstup je jenom pro dìlníky.}
+{224}{}{Trochu ti to objasnÃ­m. Nic se ti nestane, pokud NEBUDEÅ  klÃ¡st ODPOR. BudeÅ¡ klÃ¡st odpor?}
+{225}{}{JasnÄ› Å¾e jo, nikdy s vÃ¡mi nepÅ¯jdu.}
+{226}{}{Ne, je mi jasnÃ©, Å¾e odpor je marnÃ½. PÅ¯jdu s vÃ¡mi.}
+{230}{}{Vegeir ti odpovÃ­ na vÅ¡echny otÃ¡zky. PojÄ prosÃ­m s nÃ¡mi.}
+{231}{}{DobÅ™e, pÅ¯jdu s vÃ¡mi dobrovolnÄ›.}
+{232}{}{Ne, dokud nedostanu odpovÄ›di na svoje otÃ¡zky, tak s vÃ¡mi nikam nepÅ¯jdu.}
+{240}{}{Hmm... zajÃ­malo by mÄ›, jestli tohle nebude vÃ½jimka. Ne, ne, ne. Vegeir Å™ekl VÅ ECHNY NadzemnÃ­ky, dokonce i idioty. PojÄ se mnou.}
+{241}{}{[JÃ­t se strÃ¡Å¾emi]}
+{242}{}{[VÅ¡echny pozabÃ­jet a nechat jejich tÄ›la na pospas bohÅ¯m]}
+{250}{}{PromiÅˆ, ale tudy nemÅ¯Å¾eÅ¡ jÃ­t.}
+{251}{}{Tenhle vstup je jenom pro dÄ›lnÃ­ky.}
 {252}{}{It takes too much effort to set up the ramps for just one person.}
-{253}{}{Jestli chceš odejít, zeptej se nejdøív Vegeira.}
-{260}{}{Dobe.}
+{253}{}{Jestli chceÅ¡ odejÃ­t, zeptej se nejdÅ™Ã­v Vegeira.}
+{260}{}{DobÅ¾e.}

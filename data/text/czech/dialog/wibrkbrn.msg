@@ -1,5 +1,5 @@
-{100}{}{Toto je kybernetická nádrka. Vypadá to, e by se dala opravit, jenom mít ty správné díly.}
-{101}{}{Vymìòuješ porouchanı motivátor.}
-{102}{}{Pøipojuješ mozek k nervovému rozhraní nádrky.}
-{103}{}{Nádre Biomed Gelu jsou nyní naplnìny.}
-{104}{}{Vypadá to, e vše je pøipraveno k aktivaci.}
+{100}{}{Toto je kybernetickÃ¡ nÃ¡drÅ¾ka. VypadÃ¡ to, Å¾e by se dala opravit, jenom mÃ­t ty sprÃ¡vnÃ© dÃ­ly.}
+{101}{}{VymÄ›ÅˆujeÅ¡ porouchanÃ½ motivÃ¡tor.}
+{102}{}{PÅ™ipojujeÅ¡ mozek k nervovÃ©mu rozhranÃ­ nÃ¡drÅ¾ky.}
+{103}{}{NÃ¡drÅ¾e Biomed Gelu jsou nynÃ­ naplnÄ›ny.}
+{104}{}{VypadÃ¡ to, Å¾e vÅ¡e je pÅ™ipraveno k aktivaci.}

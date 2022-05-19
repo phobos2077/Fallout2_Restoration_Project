@@ -1,17 +1,17 @@
-{100}{}{Vidíš náhrobek.}
-{101}{}{Na køíi stojí: }
-{102}{}{"Ateista. Celı nastrojenı a pøitom nemá kam jít."}
-{103}{}{"Zde leí potulnı noíø Toady. Øíkali mu "Maèeta". Dostal nabídku, která se neodmítá. Podveden a zrazen, ponechán napospas smrti, stanul tváøí tváø deseti nájezdníkùm. Mìl u sebe jen devìt vrhacích noù."}
-{104}{}{"Zde leí Per Joner. Zemøel a chybìl mu jen jedinı kámen."}
-{105}{}{"Zde odpoèívá otec Paul a sestra Tina. ili spolu, modlili se spolu a spoleènì i skonali. Byla to siamská dvojèata."}
-{106}{}{"Bratr Bardun. Mu, kterı neznal ádné limity. Vypil 5 litrù pálenky a snail se holıma rukama roztrhat páraèe. Trvalo tıden, ne jsme našli nìco, co jsme mohli pohøbít."}
-{107}{}{"To je Johnny Yeast. Omluvte ho, e pøi vašem pøíchodu zùstane leet."}
-{108}{}{"Zde odpoèívá bratr Cousino. Celı ivot se všemu divil. Naposledy se strašnì divil tomu, e u umírá. Bylo mu 126 let."}
-{109}{}{"Zde odpoèívá Mark Fisherman. Zemøel na vykrvácení, kdy si pro sušenku nechal vrtat koleno."}
-{110}{}{"Zde leí Sir John Divnı. Byl to èestnı právník a to je Divnı."}
-{111}{}{"Zde leí Petuel Schmink. Miloval svùj koenı pláš, vypelichaného èokla a upilovanou brokovnici. Bohuel ji drel naopak, kdy vystøelil."}
-{112}{}{"Zde leí Johny Slider, nadanı mladı mechanik. Pracoval na zdokonaleném lékaøském Auto-Doku. Tìsnì pøed dokonèením se však na nìj zøítil."}
-{250}{}{Na tomto køíi není nic vyryto.}
-{251}{}{Tento náhrobek je pøíliš rozbitı a popraskanı, ne aby se z nìho dalo èíst.}
-{252}{}{Na køíi je jméno John Doe.}
-{253}{}{Jméno a datum na tomto køíi je zašlé vlivem poèasí.}
+{100}{}{VidÃ­Å¡ nÃ¡hrobek.}
+{101}{}{Na kÅ™Ã­Å¾i stojÃ­: }
+{102}{}{"Ateista. CelÃ½ nastrojenÃ½ a pÅ™itom nemÃ¡ kam jÃ­t."}
+{103}{}{"Zde leÅ¾Ã­ potulnÃ½ noÅ¾Ã­Å™ Toady. Å˜Ã­kali mu "MaÄeta". Dostal nabÃ­dku, kterÃ¡ se neodmÃ­tÃ¡. Podveden a zrazen, ponechÃ¡n napospas smrti, stanul tvÃ¡Å™Ã­ tvÃ¡Å™ deseti nÃ¡jezdnÃ­kÅ¯m. MÄ›l u sebe jen devÄ›t vrhacÃ­ch noÅ¾Å¯."}
+{104}{}{"Zde leÅ¾Ã­ Per Joner. ZemÅ™el a chybÄ›l mu jen jedinÃ½ kÃ¡men."}
+{105}{}{"Zde odpoÄÃ­vÃ¡ otec Paul a sestra Tina. Å½ili spolu, modlili se spolu a spoleÄnÄ› i skonali. Byla to siamskÃ¡ dvojÄata."}
+{106}{}{"Bratr Bardun. MuÅ¾, kterÃ½ neznal Å¾Ã¡dnÃ© limity. Vypil 5 litrÅ¯ pÃ¡lenky a snaÅ¾il se holÃ½ma rukama roztrhat pÃ¡raÄe. Trvalo tÃ½den, neÅ¾ jsme naÅ¡li nÄ›co, co jsme mohli pohÅ™bÃ­t."}
+{107}{}{"To je Johnny Yeast. Omluvte ho, Å¾e pÅ™i vaÅ¡em pÅ™Ã­chodu zÅ¯stane leÅ¾et."}
+{108}{}{"Zde odpoÄÃ­vÃ¡ bratr Cousino. CelÃ½ Å¾ivot se vÅ¡emu divil. Naposledy se straÅ¡nÄ› divil tomu, Å¾e uÅ¾ umÃ­rÃ¡. Bylo mu 126 let."}
+{109}{}{"Zde odpoÄÃ­vÃ¡ Mark Fisherman. ZemÅ™el na vykrvÃ¡cenÃ­, kdyÅ¾ si pro suÅ¡enku nechal vrtat koleno."}
+{110}{}{"Zde leÅ¾Ã­ Sir John DivnÃ½. Byl to ÄestnÃ½ prÃ¡vnÃ­k a to je DivnÃ½."}
+{111}{}{"Zde leÅ¾Ã­ Petuel Schmink. Miloval svÅ¯j koÅ¾enÃ½ plÃ¡Å¡Å¥, vypelichanÃ©ho Äokla a upilovanou brokovnici. BohuÅ¾el ji drÅ¾el naopak, kdyÅ¾ vystÅ™elil."}
+{112}{}{"Zde leÅ¾Ã­ Johny Slider, nadanÃ½ mladÃ½ mechanik. Pracoval na zdokonalenÃ©m lÃ©kaÅ™skÃ©m Auto-Doku. TÄ›snÄ› pÅ™ed dokonÄenÃ­m se vÅ¡ak na nÄ›j zÅ™Ã­til."}
+{250}{}{Na tomto kÅ™Ã­Å¾i nenÃ­ nic vyryto.}
+{251}{}{Tento nÃ¡hrobek je pÅ™Ã­liÅ¡ rozbitÃ½ a popraskanÃ½, neÅ¾ aby se z nÄ›ho dalo ÄÃ­st.}
+{252}{}{Na kÅ™Ã­Å¾i je jmÃ©no John Doe.}
+{253}{}{JmÃ©no a datum na tomto kÅ™Ã­Å¾i je zaÅ¡lÃ© vlivem poÄasÃ­.}

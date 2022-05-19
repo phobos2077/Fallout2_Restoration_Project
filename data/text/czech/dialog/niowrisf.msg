@@ -1,28 +1,28 @@
-{100}{}{Vidíš sejf ve zdi. Je zavøenı.}
-{101}{}{Vidíš sejf ve zdi. Je otevøenı.}
-{120}{}{U skoro zaèínáš s páèením sejfu, kdy si náhle všimneš rozbušky vedoucí do zdi pod sejfem. Vypadá to, e je na sejfu past.}
+{100}{}{VidÃ­Å¡ sejf ve zdi. Je zavÅ™enÃ½.}
+{101}{}{VidÃ­Å¡ sejf ve zdi. Je otevÅ™enÃ½.}
+{120}{}{UÅ¾ skoro zaÄÃ­nÃ¡Å¡ s pÃ¡ÄenÃ­m sejfu, kdyÅ¾ si nÃ¡hle vÅ¡imneÅ¡ rozbuÅ¡ky vedoucÃ­ do zdi pod sejfem. VypadÃ¡ to, Å¾e je na sejfu past.}
 {121}{}{Na sejfu je past.}
-{150}{}{Je slyšet KLIK-CVAK. Sejf je otevøenı.}
-{160}{}{Náhodnì otáèíš èíselníkem, kdy najednou uslyšíš KLIK-CVAK. Sejf je otevøenı.}
-{170}{}{Nìkolik minut pomalu otáèíš knoflíky, ale nic se nestalo.}
-{171}{}{Nìkolik minut otáèíš èíselníky, ale nic se nestalo.}
-{180}{}{Nacházíš na sejfu past a úspìšnì ji zneškodòuješ.}
-{181}{}{Úspìšnì se ti podaøilo zneškodnit past na sejfu.}
-{190}{}{Nacházíš na sejfu past, ale nepodaøilo se ti ji zneškodnit.}
-{200}{}{Vypadá to, e na sejfu ádná past není.}
-{201}{}{Nepodaøilo se ti zneškodnit past na sejfu.}
-{220}{}{Asi by bylo lepší nejdøív sejf znovu zaminovat dynamitem nebo plastickou trhavinou.}
-{230}{}{Èíselná kombinace na sejfu byla úspìšnì zmìnìna... hehehe...}
-{231}{}{Èíselná kombinace na sejfu byla úspìšnì zmìnìna... znovu.}
-{240}{}{Nemáš dostateèné schopnosti na zmìnu èíselné kombinace.}
-{241}{}{ nemá dostateèné schopnosti na zmìnu èíselné kombinace.}
-{250}{}{Sejf je tøeba zavøít.}
-{260}{}{Vypadá to, e u na sejfu vıbušnina je.}
-{270}{}{Nepodaøilo se ti zaminovat sejf.}
-{271}{}{ nedokáe zaminovat sejf.}
-{280}{}{Past na sejfu je pøipravena.}
-{290}{}{Pøi hledání pasti na sejfu se ti omylem podaøilo spustit vıbušninu.}
-{291}{}{Pøi odstraòování vıbušniny se ti podaøilo omylem vytáhnout špatnı drát.}
-{300}{}{O patro vıš uslyšíš tlumenı vıbuch.}
+{150}{}{Je slyÅ¡et KLIK-CVAK. Sejf je otevÅ™enÃ½.}
+{160}{}{NÃ¡hodnÄ› otÃ¡ÄÃ­Å¡ ÄÃ­selnÃ­kem, kdyÅ¾ najednou uslyÅ¡Ã­Å¡ KLIK-CVAK. Sejf je otevÅ™enÃ½.}
+{170}{}{NÄ›kolik minut pomalu otÃ¡ÄÃ­Å¡ knoflÃ­ky, ale nic se nestalo.}
+{171}{}{NÄ›kolik minut otÃ¡ÄÃ­Å¡ ÄÃ­selnÃ­ky, ale nic se nestalo.}
+{180}{}{NachÃ¡zÃ­Å¡ na sejfu past a ÃºspÄ›Å¡nÄ› ji zneÅ¡kodÅˆujeÅ¡.}
+{181}{}{ÃšspÄ›Å¡nÄ› se ti podaÅ™ilo zneÅ¡kodnit past na sejfu.}
+{190}{}{NachÃ¡zÃ­Å¡ na sejfu past, ale nepodaÅ™ilo se ti ji zneÅ¡kodnit.}
+{200}{}{VypadÃ¡ to, Å¾e na sejfu Å¾Ã¡dnÃ¡ past nenÃ­.}
+{201}{}{NepodaÅ™ilo se ti zneÅ¡kodnit past na sejfu.}
+{220}{}{Asi by bylo lepÅ¡Ã­ nejdÅ™Ã­v sejf znovu zaminovat dynamitem nebo plastickou trhavinou.}
+{230}{}{ÄŒÃ­selnÃ¡ kombinace na sejfu byla ÃºspÄ›Å¡nÄ› zmÄ›nÄ›na... hehehe...}
+{231}{}{ÄŒÃ­selnÃ¡ kombinace na sejfu byla ÃºspÄ›Å¡nÄ› zmÄ›nÄ›na... znovu.}
+{240}{}{NemÃ¡Å¡ dostateÄnÃ© schopnosti na zmÄ›nu ÄÃ­selnÃ© kombinace.}
+{241}{}{ nemÃ¡ dostateÄnÃ© schopnosti na zmÄ›nu ÄÃ­selnÃ© kombinace.}
+{250}{}{Sejf je tÅ™eba zavÅ™Ã­t.}
+{260}{}{VypadÃ¡ to, Å¾e uÅ¾ na sejfu vÃ½buÅ¡nina je.}
+{270}{}{NepodaÅ™ilo se ti zaminovat sejf.}
+{271}{}{ nedokÃ¡Å¾e zaminovat sejf.}
+{280}{}{Past na sejfu je pÅ™ipravena.}
+{290}{}{PÅ™i hledÃ¡nÃ­ pasti na sejfu se ti omylem podaÅ™ilo spustit vÃ½buÅ¡ninu.}
+{291}{}{PÅ™i odstraÅˆovÃ¡nÃ­ vÃ½buÅ¡niny se ti podaÅ™ilo omylem vytÃ¡hnout Å¡patnÃ½ drÃ¡t.}
+{300}{}{O patro vÃ½Å¡ uslyÅ¡Ã­Å¡ tlumenÃ½ vÃ½buch.}
 {400}{}{You pry up a small panel on the bottom of the safe. You don't think you would have found it
  if Mrs. Bishop hadn't told you about it. Inside is an odd-looking Pip-Boy attachment.}

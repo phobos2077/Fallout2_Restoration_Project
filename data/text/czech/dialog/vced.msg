@@ -1,67 +1,67 @@
-{100}{}{Vidíš mue ve špinavém modrém svetru, kterı má mezeru mezi zuby. Je silnì cítit brahmínami.}
-{101}{}{Vidíš Eda, obchodníka s dobytkem.}
-{102}{}{Zatracenı brahmíny. Buèí tady, pak zas támhle...}
-{103}{}{Pøísahám, e jsem slyšel jednu z tìch brahmín mluvit. Øíkala "Bùù, povídám," nebo tak nìco.}
-{104}{}{Letos moc prodej brahmín nejde.}
-{105}{}{Netuším, kde se všechny ty hovna z brahmín berou. Vdycky se nìkde objeví.}
-{106}{}{To tì tady vítám, venkovane. Jsem Ed, místní obchodník s brahmínami. Potøebuješ s nìèím pomoct?}
-{107}{}{Rád tì zase vidím. Co pro tebe mùu udìlat?}
-{108}{}{Neznáš náhodou obchodníka jménem Vic? Øíkal mi, e od tebe koupil tuhle láhev na vodu z Vaultu.}
-{109}{}{Neznáš náhodou obchodníka jménem Vic?}
-{110}{}{Tady mùj pøítel Vic øíká, e od tebe koupil tuhle láhev na vodu.}
-{111}{}{Nemáš tušení, kde jsi vzal tuhle láhev na vodu?}
-{112}{}{Hledám Vault.}
-{113}{}{Mùete mi øíct nìco o Vault City?}
-{114}{}{Co tady dìláš?}
+{100}{}{VidÃ­Å¡ muÅ¾e ve Å¡pinavÃ©m modrÃ©m svetru, kterÃ½ mÃ¡ mezeru mezi zuby. Je silnÄ› cÃ­tit brahmÃ­nami.}
+{101}{}{VidÃ­Å¡ Eda, obchodnÃ­ka s dobytkem.}
+{102}{}{ZatracenÃ½ brahmÃ­ny. BuÄÃ­ tady, pak zas tÃ¡mhle...}
+{103}{}{PÅ™Ã­sahÃ¡m, Å¾e jsem slyÅ¡el jednu z tÄ›ch brahmÃ­n mluvit. Å˜Ã­kala "BÅ¯Å¯, povÃ­dÃ¡m," nebo tak nÄ›co.}
+{104}{}{Letos moc prodej brahmÃ­n nejde.}
+{105}{}{NetuÅ¡Ã­m, kde se vÅ¡echny ty hovna z brahmÃ­n berou. VÅ¾dycky se nÄ›kde objevÃ­.}
+{106}{}{ToÅ¾ tÄ› tady vÃ­tÃ¡m, venkovane. Jsem Ed, mÃ­stnÃ­ obchodnÃ­k s brahmÃ­nami. PotÅ™ebujeÅ¡ s nÄ›ÄÃ­m pomoct?}
+{107}{}{RÃ¡d tÄ› zase vidÃ­m. Co pro tebe mÅ¯Å¾u udÄ›lat?}
+{108}{}{NeznÃ¡Å¡ nÃ¡hodou obchodnÃ­ka jmÃ©nem Vic? Å˜Ã­kal mi, Å¾e od tebe koupil tuhle lÃ¡hev na vodu z Vaultu.}
+{109}{}{NeznÃ¡Å¡ nÃ¡hodou obchodnÃ­ka jmÃ©nem Vic?}
+{110}{}{Tady mÅ¯j pÅ™Ã­tel Vic Å™Ã­kÃ¡, Å¾e od tebe koupil tuhle lÃ¡hev na vodu.}
+{111}{}{NemÃ¡Å¡ tuÅ¡enÃ­, kde jsi vzal tuhle lÃ¡hev na vodu?}
+{112}{}{HledÃ¡m Vault.}
+{113}{}{MÅ¯Å¾ete mi Å™Ã­ct nÄ›co o Vault City?}
+{114}{}{Co tady dÄ›lÃ¡Å¡?}
 {115}{}{Sbohem.}
 {116}{}{Vic?}
-{117}{}{On ti prodal láhev na vodu? A byla na ní "13"?}
-{118}{}{U nic. Musím u jít.}
-{119}{}{Ty ji máš u sebe? Moná by mi mohla trochu osvìit pamì.}
-{120}{}{Zapomeò na to. Mám na tebe jiné otázky...}
-{121}{}{Uvidím, jestli ji nìkde najdu. Ještì se vrátím.}
-{122}{}{Ale jó... u si vzpomínám. Je to u hodnì dávno co, Vicu. Tak láhev na vodu, jo? A co s ní?}
-{123}{}{Ale jó... takovej tlustej chlápek, e jo? V takovı koenı vestì? Plešatej? Pamatuju si ho. A co jako s ním?}
-{124}{}{Mùeš mi øíct, odkud ta láhev je?}
-{125}{}{Øíkal, e ti prodal láhev na vodu.}
-{126}{}{Jenom zkouším, jestli jsi ho znal. Díky.}
-{127}{}{Víš, nedokáu si to pøesnì vybavit... mám toho v tı svı makovici nakupenıho za ty léta hroznì moc. Myslím, e jsem ji našel pøi jednom ze svıch brahmíních okruhù. Kdy jsem se pak usadil, nepotøeboval jsem ji.}
-{128}{}{Brahmíních okruhù?}
-{129}{}{Aha. Dobøe, stejnì dìkuju.}
-{130}{}{Kdy jsem byl mladší, míval jsem ve zvyku jezdit s brahmínama 'Velkı okruh'... Broken Hills, New Reno, Redding, Den, Modoc, a zase zpátky sem. Po èase se to stávalo èím dál nebezpeènìjší a tak jsem se usadil tady.}
-{131}{}{Kde jsou ty místa?}
-{132}{}{Aha. No, díky za informace.}
-{133}{}{Uka mi svoji mapu a já ti to tam naèmárám. Dívej, Broken Hills leí jinì... a kdy se vydáš odtamtud kousek na západ, nemùeš minout Reno. Severozápadnì od Rena je Redding, na severu je pak Den, na vıchod od nìj Modoc a o trochu dál na vıchod Vault City.}
-{134}{}{Vzpomínáš si, na kterém z tìch míst jsi tu láhev našel?}
-{135}{}{Díky za informace.}
-{136}{}{Promiò, ale na tohle ti nedokáu odpovìdìt. Je to u dávno. Proè to chceš vìdìt?}
-{137}{}{Hledám Vault, ze kterého pochází tahle láhev.}
-{138}{}{Díky za informace.}
-{139}{}{No sakra, jestli hledáš Vault, tak za zdmi tohohle mìsta jeden je.}
-{140}{}{Vault 13 je uvnitø mìsta?}
-{141}{}{Díky za informace.}
-{142}{}{Jo tak jestli je to zrovna "13", to fakt nevím, ale nìjakej Vault tam je. A jestli to není ten, kterej hledáš, tak centrální poèítaè uvnitø urèitì zná lokace dalších. Jsou v nìm seznamy všeho monıho.}
-{143}{}{Chci se ještì zeptat...}
-{144}{}{Díky za informace.}
-{145}{}{Jasnì. Co chceš vìdìt?}
-{146}{}{Neznáš náhodou obchodníka jménem Vic? Øíkal mi, e od tebe koupil tuhle láhev na vodu z Vaultu.}
-{147}{}{Neznáš náhodou obchodníka jménem Vic?}
-{148}{}{Tady mùj pøítel Vic øíká, e od tebe koupil tuhle láhev na vodu.}
-{149}{}{Nemáš tušení, kde jsi vzal tuhle láhev na vodu?}
-{150}{}{Hledám Vault.}
-{151}{}{Mùete mi øíct nìco o Vault City?}
-{152}{}{Co tady dìláš?}
+{117}{}{On ti prodal lÃ¡hev na vodu? A byla na nÃ­ "13"?}
+{118}{}{UÅ¾ nic. MusÃ­m uÅ¾ jÃ­t.}
+{119}{}{Ty ji mÃ¡Å¡ u sebe? MoÅ¾nÃ¡ by mi mohla trochu osvÄ›Å¾it pamÄ›Å¥.}
+{120}{}{ZapomeÅˆ na to. MÃ¡m na tebe jinÃ© otÃ¡zky...}
+{121}{}{UvidÃ­m, jestli ji nÄ›kde najdu. JeÅ¡tÄ› se vrÃ¡tÃ­m.}
+{122}{}{Ale jÃ³... uÅ¾ si vzpomÃ­nÃ¡m. Je to uÅ¾ hodnÄ› dÃ¡vno co, Vicu. Tak lÃ¡hev na vodu, jo? A co s nÃ­?}
+{123}{}{Ale jÃ³... takovej tlustej chlÃ¡pek, Å¾e jo? V takovÃ½ koÅ¾enÃ½ vestÄ›? PleÅ¡atej? Pamatuju si ho. A co jako s nÃ­m?}
+{124}{}{MÅ¯Å¾eÅ¡ mi Å™Ã­ct, odkud ta lÃ¡hev je?}
+{125}{}{Å˜Ã­kal, Å¾e ti prodal lÃ¡hev na vodu.}
+{126}{}{Jenom zkouÅ¡Ã­m, jestli jsi ho znal. DÃ­ky.}
+{127}{}{VÃ­Å¡, nedokÃ¡Å¾u si to pÅ™esnÄ› vybavit... mÃ¡m toho v tÃ½ svÃ½ makovici nakupenÃ½ho za ty lÃ©ta hroznÄ› moc. MyslÃ­m, Å¾e jsem ji naÅ¡el pÅ™i jednom ze svÃ½ch brahmÃ­nÃ­ch okruhÅ¯. KdyÅ¾ jsem se pak usadil, nepotÅ™eboval jsem ji.}
+{128}{}{BrahmÃ­nÃ­ch okruhÅ¯?}
+{129}{}{Aha. DobÅ™e, stejnÄ› dÄ›kuju.}
+{130}{}{KdyÅ¾ jsem byl mladÅ¡Ã­, mÃ­val jsem ve zvyku jezdit s brahmÃ­nama 'VelkÃ½ okruh'... Broken Hills, New Reno, Redding, Den, Modoc, a zase zpÃ¡tky sem. Po Äase se to stÃ¡valo ÄÃ­m dÃ¡l nebezpeÄnÄ›jÅ¡Ã­ a tak jsem se usadil tady.}
+{131}{}{Kde jsou ty mÃ­sta?}
+{132}{}{Aha. No, dÃ­ky za informace.}
+{133}{}{UkaÅ¾ mi svoji mapu a jÃ¡ ti to tam naÄmÃ¡rÃ¡m. DÃ­vej, Broken Hills leÅ¾Ã­ jiÅ¾nÄ›... a kdyÅ¾ se vydÃ¡Å¡ odtamtud kousek na zÃ¡pad, nemÅ¯Å¾eÅ¡ minout Reno. SeverozÃ¡padnÄ› od Rena je Redding, na severu je pak Den, na vÃ½chod od nÄ›j Modoc a o trochu dÃ¡l na vÃ½chod Vault City.}
+{134}{}{VzpomÃ­nÃ¡Å¡ si, na kterÃ©m z tÄ›ch mÃ­st jsi tu lÃ¡hev naÅ¡el?}
+{135}{}{DÃ­ky za informace.}
+{136}{}{PromiÅˆ, ale na tohle ti nedokÃ¡Å¾u odpovÄ›dÄ›t. Je to uÅ¾ dÃ¡vno. ProÄ to chceÅ¡ vÄ›dÄ›t?}
+{137}{}{HledÃ¡m Vault, ze kterÃ©ho pochÃ¡zÃ­ tahle lÃ¡hev.}
+{138}{}{DÃ­ky za informace.}
+{139}{}{No sakra, jestli hledÃ¡Å¡ Vault, tak za zdmi tohohle mÄ›sta jeden je.}
+{140}{}{Vault 13 je uvnitÅ™ mÄ›sta?}
+{141}{}{DÃ­ky za informace.}
+{142}{}{Jo tak jestli je to zrovna "13", to fakt nevÃ­m, ale nÄ›jakej Vault tam je. A jestli to nenÃ­ ten, kterej hledÃ¡Å¡, tak centrÃ¡lnÃ­ poÄÃ­taÄ uvnitÅ™ urÄitÄ› znÃ¡ lokace dalÅ¡Ã­ch. Jsou v nÄ›m seznamy vÅ¡eho moÅ¾nÃ½ho.}
+{143}{}{Chci se jeÅ¡tÄ› zeptat...}
+{144}{}{DÃ­ky za informace.}
+{145}{}{JasnÄ›. Co chceÅ¡ vÄ›dÄ›t?}
+{146}{}{NeznÃ¡Å¡ nÃ¡hodou obchodnÃ­ka jmÃ©nem Vic? Å˜Ã­kal mi, Å¾e od tebe koupil tuhle lÃ¡hev na vodu z Vaultu.}
+{147}{}{NeznÃ¡Å¡ nÃ¡hodou obchodnÃ­ka jmÃ©nem Vic?}
+{148}{}{Tady mÅ¯j pÅ™Ã­tel Vic Å™Ã­kÃ¡, Å¾e od tebe koupil tuhle lÃ¡hev na vodu.}
+{149}{}{NemÃ¡Å¡ tuÅ¡enÃ­, kde jsi vzal tuhle lÃ¡hev na vodu?}
+{150}{}{HledÃ¡m Vault.}
+{151}{}{MÅ¯Å¾ete mi Å™Ã­ct nÄ›co o Vault City?}
+{152}{}{Co tady dÄ›lÃ¡Å¡?}
 {153}{}{Sbohem.}
-{154}{}{Poslyš... uvnitø hlavní èásti mìsta je Vault. U to tam máš prohlídnutı? To by mohl bejt ten, kterej hledáš.}
-{155}{}{Poslyš... uvnitø hlavní èásti mìsta je Vault. Je to ten, kterej hledáš?}
-{156}{}{Moná. Mám ještì nìjaké otázky...}
-{157}{}{To by mohlo bıt ono. Díky za informace.}
-{158}{}{Fajn mìsto... kdy umíš jednat s Obèany. Sice ty jejich názory tak úplnì neschvaluju, ale co... jinak se tu ije docela fajn.}
-{159}{}{Chci se ještì zeptat...}
-{160}{}{Aha. Díky za informace. Nashle.}
-{161}{}{Prodávám brahmíny lidem, kterı je potøebujou. Pomáhá mi to zaplatit nájem za tenhle flek.}
-{162}{}{Chci se ještì zeptat...}
-{163}{}{Aha. Díky za informace. Nashle.}
-{164}{}{I nìkterı moje brahmíny jsou chytøejší ne ty. Jdi si radši po svejch.}
-{165}{}{Tohle vypadá jako Edùv obchod. Od nìj jsem koupil tu láhev na vodu.}
-{166}{}{Podaøilo se ti zjistit pùvod láhve na vodu.}
+{154}{}{PoslyÅ¡... uvnitÅ™ hlavnÃ­ ÄÃ¡sti mÄ›sta je Vault. UÅ¾ to tam mÃ¡Å¡ prohlÃ­dnutÃ½? To by mohl bejt ten, kterej hledÃ¡Å¡.}
+{155}{}{PoslyÅ¡... uvnitÅ™ hlavnÃ­ ÄÃ¡sti mÄ›sta je Vault. Je to ten, kterej hledÃ¡Å¡?}
+{156}{}{MoÅ¾nÃ¡. MÃ¡m jeÅ¡tÄ› nÄ›jakÃ© otÃ¡zky...}
+{157}{}{To by mohlo bÃ½t ono. DÃ­ky za informace.}
+{158}{}{Fajn mÄ›sto... kdyÅ¾ umÃ­Å¡ jednat s ObÄany. Sice ty jejich nÃ¡zory tak ÃºplnÄ› neschvaluju, ale co... jinak se tu Å¾ije docela fajn.}
+{159}{}{Chci se jeÅ¡tÄ› zeptat...}
+{160}{}{Aha. DÃ­ky za informace. Nashle.}
+{161}{}{ProdÃ¡vÃ¡m brahmÃ­ny lidem, kterÃ½ je potÅ™ebujou. PomÃ¡hÃ¡ mi to zaplatit nÃ¡jem za tenhle flek.}
+{162}{}{Chci se jeÅ¡tÄ› zeptat...}
+{163}{}{Aha. DÃ­ky za informace. Nashle.}
+{164}{}{I nÄ›kterÃ½ moje brahmÃ­ny jsou chytÅ™ejÅ¡Ã­ neÅ¾ ty. Jdi si radÅ¡i po svejch.}
+{165}{}{Tohle vypadÃ¡ jako EdÅ¯v obchod. Od nÄ›j jsem koupil tu lÃ¡hev na vodu.}
+{166}{}{PodaÅ™ilo se ti zjistit pÅ¯vod lÃ¡hve na vodu.}

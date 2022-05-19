@@ -1,43 +1,43 @@
-{100}{}{Vidíš mue v kovové zbroji.}
-{101}{}{Vidíš Luka.}
-{102}{}{Vidíš mue v kovové zbroji s odznakem blesku.}
+{100}{}{VidÃ­Å¡ muÅ¾e v kovovÃ© zbroji.}
+{101}{}{VidÃ­Å¡ Luka.}
+{102}{}{VidÃ­Å¡ muÅ¾e v kovovÃ© zbroji s odznakem blesku.}
 {103}{}{Ahoj,}
-{104}{}{. Já jsem Luke. Co pro tebe mùu udìlat?}
-{105}{}{Jak ty vìdìt jméno?}
-{106}{}{Jak víš, jak se jmenuju?}
-{107}{}{Joshua se zmínil, e ses zastavil na poboèce v Denu. Øíkal, e jsi malá ryba, která dìlá velké vlny.}
-{108}{}{Øeèi kolují rychle a spolehlivì. Prı jsi malá ryba, která dìlá velkı vlny.}
+{104}{}{. JÃ¡ jsem Luke. Co pro tebe mÅ¯Å¾u udÄ›lat?}
+{105}{}{Jak ty vÄ›dÄ›t jmÃ©no?}
+{106}{}{Jak vÃ­Å¡, jak se jmenuju?}
+{107}{}{Joshua se zmÃ­nil, Å¾e ses zastavil na poboÄce v Denu. Å˜Ã­kal, Å¾e jsi malÃ¡ ryba, kterÃ¡ dÄ›lÃ¡ velkÃ© vlny.}
+{108}{}{Å˜eÄi kolujÃ­ rychle a spolehlivÄ›. PrÃ½ jsi malÃ¡ ryba, kterÃ¡ dÄ›lÃ¡ velkÃ½ vlny.}
 {109}{}{Co to znamenat?}
-{110}{}{Co tím myslíš?}
-{111}{}{Pøitahuješ pozornost mnoha lidí. Dávej si pozor.}
-{112}{}{Pokraèuj.}
-{113}{}{Pokraèuj, poslouchám.}
-{114}{}{U jsem prozradil dost. Myslím, e bude lepší, kdy se vrátíš ke své práci.}
-{115}{}{To stejná øekl Joshua. Já potøebovat ty nìco zeptat.}
-{116}{}{Poèkat, já potøebovat zeptat otázka.}
-{117}{}{To samé mi øekl Joshua. Mùu ti poloit nìjaké otázky?}
-{118}{}{Poèkej, potøebuju se tì na nìco zeptat.}
-{119}{}{Joshua ti dovolil jednu otázku; Také ti povolím jen jednu. Ptej se.}
-{120}{}{Dobøe, povolím ti jednu otázku. Co to bude?}
-{121}{}{Ty vìdìt, kde já najít GECK?}
-{122}{}{Ty vìdìt, kde já najít Vault 13?}
-{123}{}{Kdo k èertu jste, chlapi?}
-{124}{}{Nevíš, kde najdu GECK?}
-{125}{}{Nevíš, kde najdu Vault 13?}
-{126}{}{Kdo k èertu jste, chlapi?}
-{127}{}{Vím. Myslím, e ten svùj Vault 13 nikdy nepouil. Moná ho tam najdeš. Hodnì štìstí,}
-{128}{}{Poèkat! Kde bıt Vault?}
-{129}{}{Poèkej chvíli! Kde je ten Vault?}
-{130}{}{Vím. Jeho lokace je uloena v poèítaèovıch systémech Vaultu 15, na vıchod odsud. Hodnì štìstí,}
+{110}{}{Co tÃ­m myslÃ­Å¡?}
+{111}{}{PÅ™itahujeÅ¡ pozornost mnoha lidÃ­. DÃ¡vej si pozor.}
+{112}{}{PokraÄuj.}
+{113}{}{PokraÄuj, poslouchÃ¡m.}
+{114}{}{UÅ¾ jsem prozradil dost. MyslÃ­m, Å¾e bude lepÅ¡Ã­, kdyÅ¾ se vrÃ¡tÃ­Å¡ ke svÃ© prÃ¡ci.}
+{115}{}{To stejnÃ¡ Å™ekl Joshua. JÃ¡ potÅ™ebovat ty nÄ›co zeptat.}
+{116}{}{PoÄkat, jÃ¡ potÅ™ebovat zeptat otÃ¡zka.}
+{117}{}{To samÃ© mi Å™ekl Joshua. MÅ¯Å¾u ti poloÅ¾it nÄ›jakÃ© otÃ¡zky?}
+{118}{}{PoÄkej, potÅ™ebuju se tÄ› na nÄ›co zeptat.}
+{119}{}{Joshua ti dovolil jednu otÃ¡zku; TakÃ© ti povolÃ­m jen jednu. Ptej se.}
+{120}{}{DobÅ™e, povolÃ­m ti jednu otÃ¡zku. Co to bude?}
+{121}{}{Ty vÄ›dÄ›t, kde jÃ¡ najÃ­t GECK?}
+{122}{}{Ty vÄ›dÄ›t, kde jÃ¡ najÃ­t Vault 13?}
+{123}{}{Kdo k Äertu jste, chlapi?}
+{124}{}{NevÃ­Å¡, kde najdu GECK?}
+{125}{}{NevÃ­Å¡, kde najdu Vault 13?}
+{126}{}{Kdo k Äertu jste, chlapi?}
+{127}{}{VÃ­m. MyslÃ­m, Å¾e ten svÅ¯j Vault 13 nikdy nepouÅ¾il. MoÅ¾nÃ¡ ho tam najdeÅ¡. HodnÄ› Å¡tÄ›stÃ­,}
+{128}{}{PoÄkat! Kde bÃ½t Vault?}
+{129}{}{PoÄkej chvÃ­li! Kde je ten Vault?}
+{130}{}{VÃ­m. Jeho lokace je uloÅ¾ena v poÄÃ­taÄovÃ½ch systÃ©mech Vaultu 15, na vÃ½chod odsud. HodnÄ› Å¡tÄ›stÃ­,}
 {131}{}{.}
-{132}{}{Díky.}
-{133}{}{My jsme Bratrstvo Oceli. Nic víc ti teï neøeknu. Hodnì štìstí,}
-{134}{}{Poèkat! Já potøebovat vìdìt víc!}
-{135}{}{Poèkej, povìz mi toho víc!}
-{136}{}{Zdravím. U ti nemám co øíct.}
-{137}{}{. No... u nejsi ten obyèejnı divoch jako na zaèátku. Navštiv nìkdy naši poboèku v San Franciscu. Urèitì se ti to vyplatí. A teï kdy mì omluvíš...}
-{138}{}{Zdravím. U ti nemám co øíct.}
-{139}{}{Èekat...}
-{140}{}{To je soukromá kanceláø.}
-{141}{}{Tam pro tebe nic není.}
-{142}{}{To je soukromı pozemek, take odejdi.}
+{132}{}{DÃ­ky.}
+{133}{}{My jsme Bratrstvo Oceli. Nic vÃ­c ti teÄ neÅ™eknu. HodnÄ› Å¡tÄ›stÃ­,}
+{134}{}{PoÄkat! JÃ¡ potÅ™ebovat vÄ›dÄ›t vÃ­c!}
+{135}{}{PoÄkej, povÄ›z mi toho vÃ­c!}
+{136}{}{ZdravÃ­m. UÅ¾ ti nemÃ¡m co Å™Ã­ct.}
+{137}{}{. No... uÅ¾ nejsi ten obyÄejnÃ½ divoch jako na zaÄÃ¡tku. NavÅ¡tiv nÄ›kdy naÅ¡i poboÄku v San Franciscu. UrÄitÄ› se ti to vyplatÃ­. A teÄ kdyÅ¾ mÄ› omluvÃ­Å¡...}
+{138}{}{ZdravÃ­m. UÅ¾ ti nemÃ¡m co Å™Ã­ct.}
+{139}{}{ÄŒekat...}
+{140}{}{To je soukromÃ¡ kancelÃ¡Å™.}
+{141}{}{Tam pro tebe nic nenÃ­.}
+{142}{}{To je soukromÃ½ pozemek, takÅ¾e odejdi.}

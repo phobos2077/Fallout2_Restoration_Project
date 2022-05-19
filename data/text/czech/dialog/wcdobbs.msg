@@ -1,27 +1,27 @@
-{100}{}{Vidíš mue obleèeného ve standardní vojenské kevlarové zbroji.}
-{101}{}{Vypadá zdravì, ale zdá se bıt ponìkud zmatenı.}
+{100}{}{VidÃ­Å¡ muÅ¾e obleÄenÃ©ho ve standardnÃ­ vojenskÃ© kevlarovÃ© zbroji.}
+{101}{}{VypadÃ¡ zdravÄ›, ale zdÃ¡ se bÃ½t ponÄ›kud zmatenÃ½.}
 {102}{}{Au, moje hlava.}
 {103}{}{Kdo jsi?}
 {104}{}{Ug!}
-{105}{}{Já-já jsem Dobbs... vojín Dobbs.}
-{106}{}{Mohl bys mi øíct, jak ses sem dostal?}
+{105}{}{JÃ¡-jÃ¡ jsem Dobbs... vojÃ­n Dobbs.}
+{106}{}{Mohl bys mi Å™Ã­ct, jak ses sem dostal?}
 {107}{}{Nashle.}
-{108}{}{Byl jsem v boji. Ano, v boji. Všude kolem se støílelo, granáty vybuchovaly a lidi umírali. Mìl jsem strach, ale bojoval jsem dál. Potom... potom se objevil oslepující záblesk.}
+{108}{}{Byl jsem v boji. Ano, v boji. VÅ¡ude kolem se stÅ™Ã­lelo, granÃ¡ty vybuchovaly a lidi umÃ­rali. MÄ›l jsem strach, ale bojoval jsem dÃ¡l. Potom... potom se objevil oslepujÃ­cÃ­ zÃ¡blesk.}
 {109}{}{A co se stalo potom?}
 {110}{}{Nashle.}
-{111}{}{Potom si vzpomínám, e jsem vidìl svoje tìlo, jako bych byl nìkde nad ním. Slyšel jsem doktory jak øíkají, e jsem mrtvı a pak moje tìlo hodili na hromadu jinıch mrtvıch tìl. }
+{111}{}{Potom si vzpomÃ­nÃ¡m, Å¾e jsem vidÄ›l svoje tÄ›lo, jako bych byl nÄ›kde nad nÃ­m. SlyÅ¡el jsem doktory jak Å™Ã­kajÃ­, Å¾e jsem mrtvÃ½ a pak moje tÄ›lo hodili na hromadu jinÃ½ch mrtvÃ½ch tÄ›l. }
 {112}{}{A potom?}
 {113}{}{Nashle.}
-{114}{}{Nìjací lidi pøišli a odnesli moje tìlo do laboratoøe. Potom jsem slyšel, jak mluvili o tom, e se pokusí zregenerovat moje tìlo ponoøením do nìèeho, èemu øíkali Biomed Gel.}
-{115}{}{Ještì nìco?}
+{114}{}{NÄ›jacÃ­ lidi pÅ™iÅ¡li a odnesli moje tÄ›lo do laboratoÅ™e. Potom jsem slyÅ¡el, jak mluvili o tom, Å¾e se pokusÃ­ zregenerovat moje tÄ›lo ponoÅ™enÃ­m do nÄ›Äeho, Äemu Å™Ã­kali Biomed Gel.}
+{115}{}{JeÅ¡tÄ› nÄ›co?}
 {116}{}{Nashle.}
-{117}{}{A potom jsem se probudil tady. Musím jít! Musím se vrátit zpátky ke svojí jednotce.}
+{117}{}{A potom jsem se probudil tady. MusÃ­m jÃ­t! MusÃ­m se vrÃ¡tit zpÃ¡tky ke svojÃ­ jednotce.}
 {118}{}{Nashle.}
 {200}{}{Kde to jsem?}
-{201}{}{Bolí mì hlava... au.}
-{202}{}{Proè jsem pokrytej tímhle slizem?}
-{300}{}{Musím se vrátit zpátky ke svojí jednotce.}
-{301}{}{Ale ne! Teï je ze mì dezertér!}
-{302}{}{Kudy na první frontu?}
+{201}{}{BolÃ­ mÄ› hlava... au.}
+{202}{}{ProÄ jsem pokrytej tÃ­mhle slizem?}
+{300}{}{MusÃ­m se vrÃ¡tit zpÃ¡tky ke svojÃ­ jednotce.}
+{301}{}{Ale ne! TeÄ je ze mÄ› dezertÃ©r!}
+{302}{}{Kudy na prvnÃ­ frontu?}
 {303}{}{Tohle je za tebe, Johny.}
-{400}{}{Vojín Dobbs prodìlal post-kryogenickı syndrom.}
+{400}{}{VojÃ­n Dobbs prodÄ›lal post-kryogenickÃ½ syndrom.}

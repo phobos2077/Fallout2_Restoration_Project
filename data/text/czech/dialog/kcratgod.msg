@@ -1,4 +1,4 @@
-{100}{}{Vidíš velkého bílého krtèího potkana.}
-{101}{}{Vidíš Krále Krysu.}
-{102}{}{Vidíš velkého albínovitého krtèího potkana s nadmìrne velikou hlavou. Má pìnu u tlamy.}
-{103}{}{Král Krysa zemøel!}
+{100}{}{VidÃ­Å¡ velkÃ©ho bÃ­lÃ©ho krtÄÃ­ho potkana.}
+{101}{}{VidÃ­Å¡ KrÃ¡le Krysu.}
+{102}{}{VidÃ­Å¡ velkÃ©ho albÃ­novitÃ©ho krtÄÃ­ho potkana s nadmÄ›rne velikou hlavou. MÃ¡ pÄ›nu u tlamy.}
+{103}{}{KrÃ¡l Krysa zemÅ™el!}

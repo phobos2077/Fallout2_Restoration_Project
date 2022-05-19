@@ -1,106 +1,106 @@
-{100}{}{Vidíš stálého návštìvníka Díry.}
-{150}{}{Tenhle chlápek není moc atraktivní.}
-{151}{}{Tenhle chlápek má jen jeden zub.}
+{100}{}{VidÃ­Å¡ stÃ¡lÃ©ho nÃ¡vÅ¡tÄ›vnÃ­ka DÃ­ry.}
+{150}{}{Tenhle chlÃ¡pek nenÃ­ moc atraktivnÃ­.}
+{151}{}{Tenhle chlÃ¡pek mÃ¡ jen jeden zub.}
 {152}{}{[MLUVIT]}
-{153}{}{Tvoje ena je moc pìkná!}
-{154}{}{Táhni od nás pryè, násosko.}
-{155}{}{Líbí se ti, jo?}
-{156}{}{Ano, líbí.}
+{153}{}{Tvoje Å¾ena je moc pÄ›knÃ¡!}
+{154}{}{TÃ¡hni od nÃ¡s pryÄ, nÃ¡sosko.}
+{155}{}{LÃ­bÃ­ se ti, jo?}
+{156}{}{Ano, lÃ­bÃ­.}
 {157}{}{Jo.}
-{158}{}{Rád bych si to s ní rozdal.}
-{159}{}{Poslu si.}
-{160}{}{Dobøe. Bude to $50.}
-{161}{}{Jistì, ale bude tì to stát $200.}
-{162}{}{V ádnım pøípadì! Kliï se od nás, smraïochu!}
-{163}{}{Dobøe.}
+{158}{}{RÃ¡d bych si to s nÃ­ rozdal.}
+{159}{}{PosluÅ¾ si.}
+{160}{}{DobÅ™e. Bude to $50.}
+{161}{}{JistÄ›, ale bude tÄ› to stÃ¡t $200.}
+{162}{}{V Å¾Ã¡dnÃ½m pÅ™Ã­padÄ›! KliÄ se od nÃ¡s, smraÄochu!}
+{163}{}{DobÅ™e.}
 {164}{}{Ne.}
-{165}{}{Tak fajn! Teï jdi pìknì tady s Billym, zlatíèko.}
-{166}{}{Teï odejdi.}
-{167}{}{Dík. Naskle.}
+{165}{}{Tak fajn! TeÄ jdi pÄ›knÄ› tady s Billym, zlatÃ­Äko.}
+{166}{}{TeÄ odejdi.}
+{167}{}{DÃ­k. Naskle.}
 {168}{}{Nashle.}
 {169}{}{Ou, sakra.}
 {170}{}{[KONEC]}
-{171}{}{Jsem úplnì vyèerpanej.}
-{172}{}{Ještì se vrátím.}
-{173}{}{Dobøe.}
-{174}{}{Jseš hodnì hezká holka.}
+{171}{}{Jsem ÃºplnÄ› vyÄerpanej.}
+{172}{}{JeÅ¡tÄ› se vrÃ¡tÃ­m.}
+{173}{}{DobÅ™e.}
+{174}{}{JseÅ¡ hodnÄ› hezkÃ¡ holka.}
 {175}{}{Dej mi pokoj.}
-{176}{}{Dej mi $200 a mùeš se mnou strávit nìjakı èas.}
-{177}{}{Stojím $50, Macu.}
-{178}{}{Hehe. Díky.}
-{179}{}{Nemám dost penìz.}
-{180}{}{Dobøe, tak teda $50.}
-{181}{}{To máš blbı.}
-{182}{}{Zatím.}
-{183}{}{Neotravuj mì. Vyhlíím nìjakou fajnovou kost.}
-{184}{}{Hodnì štìstí. Budeš ho potøebovat.}
-{185}{}{Jsem snad sekanı játra nebo co?}
+{176}{}{Dej mi $200 a mÅ¯Å¾eÅ¡ se mnou strÃ¡vit nÄ›jakÃ½ Äas.}
+{177}{}{StojÃ­m $50, Macu.}
+{178}{}{Hehe. DÃ­ky.}
+{179}{}{NemÃ¡m dost penÄ›z.}
+{180}{}{DobÅ™e, tak teda $50.}
+{181}{}{To mÃ¡Å¡ blbÃ½.}
+{182}{}{ZatÃ­m.}
+{183}{}{Neotravuj mÄ›. VyhlÃ­Å¾Ã­m nÄ›jakou fajnovou kost.}
+{184}{}{HodnÄ› Å¡tÄ›stÃ­. BudeÅ¡ ho potÅ™ebovat.}
+{185}{}{Jsem snad sekanÃ½ jÃ¡tra nebo co?}
 {186}{}{Nashle.}
-{187}{}{Ó. Dobøe. Nashle.}
-{188}{}{(Prohlédne si tì odshora dolù.) Ne. Já mám rád sekanı játra.}
-{189}{}{Tak si to udìlej sám, dìdku!}
-{190}{}{Promiò, u musím jít.}
-{191}{}{To je škoda. Zdál ses mi rozkošnı.}
-{203}{}{Chci svoje peníze zpátky.}
-{204}{}{Nedám ti nic, leda tak kulku mezi oèi.}
-{205}{}{Dobøe, tak dìlej.}
+{187}{}{Ã“. DobÅ™e. Nashle.}
+{188}{}{(ProhlÃ©dne si tÄ› odshora dolÅ¯.) Ne. JÃ¡ mÃ¡m rÃ¡d sekanÃ½ jÃ¡tra.}
+{189}{}{Tak si to udÄ›lej sÃ¡m, dÄ›dku!}
+{190}{}{PromiÅˆ, uÅ¾ musÃ­m jÃ­t.}
+{191}{}{To je Å¡koda. ZdÃ¡l ses mi rozkoÅ¡nÃ½.}
+{203}{}{Chci svoje penÃ­ze zpÃ¡tky.}
+{204}{}{NedÃ¡m ti nic, leda tak kulku mezi oÄi.}
+{205}{}{DobÅ™e, tak dÄ›lej.}
 {206}{}{Hej.}
 {207}{}{No tak, dej }
-{208}{}{ ještì jednu šanci.}
-{209}{}{Vidím, e u mi nic nechceš, tak odcházím.}
-{210}{}{Dal jsem ti šanci, ale ty jsi ji zahodil.}
-{211}{}{Dobøe, tak mi dej ještì jednu.}
+{208}{}{ jeÅ¡tÄ› jednu Å¡anci.}
+{209}{}{VidÃ­m, Å¾e uÅ¾ mi nic nechceÅ¡, tak odchÃ¡zÃ­m.}
+{210}{}{Dal jsem ti Å¡anci, ale ty jsi ji zahodil.}
+{211}{}{DobÅ™e, tak mi dej jeÅ¡tÄ› jednu.}
 {212}{}{To je ono.}
-{213}{}{V tom pøípadì tì musím zabít.}
-{220}{}{Hej, Frankie, na chvilku si vypùjèím pokoj vzadu.}
+{213}{}{V tom pÅ™Ã­padÄ› tÄ› musÃ­m zabÃ­t.}
+{220}{}{Hej, Frankie, na chvilku si vypÅ¯jÄÃ­m pokoj vzadu.}
 {221}{}{Hej, Frankie, koukni co jsem chytnul.}
-{222}{}{Eh, Frankie, kdy mì nìkdo... eh... bude hledat, budu vzadu.}
-{223}{}{Pojï za mnou.}
-{224}{}{Bude to muset poèkat. Promluvíme si pozdìji.}
-{225}{}{Nemám.}
-{300}{}{Sakra, pìknì jsem si zašukal.}
-{301}{}{Fíha.}
-{302}{}{Bylo to... bylo... PÁNI!!!}
-{303}{}{Byla opravdu havá.}
-{304}{}{Sakra, udìlalo mi to pìšinku ve vlasech... a to jich mám jen pár.}
-{305}{}{To bylo lepší, ne kdy si dám s Davem prda.}
-{320}{}{Dobrı... dobrı...}
-{321}{}{Moná, e si to dám ještì jednou.}
+{222}{}{Eh, Frankie, kdyÅ¾ mÄ› nÄ›kdo... eh... bude hledat, budu vzadu.}
+{223}{}{PojÄ za mnou.}
+{224}{}{Bude to muset poÄkat. PromluvÃ­me si pozdÄ›ji.}
+{225}{}{NemÃ¡m.}
+{300}{}{Sakra, pÄ›knÄ› jsem si zaÅ¡ukal.}
+{301}{}{FÃ­ha.}
+{302}{}{Bylo to... bylo... PÃNI!!!}
+{303}{}{Byla opravdu Å¾havÃ¡.}
+{304}{}{Sakra, udÄ›lalo mi to pÄ›Å¡inku ve vlasech... a to jich mÃ¡m jen pÃ¡r.}
+{305}{}{To bylo lepÅ¡Ã­, neÅ¾ kdyÅ¾ si dÃ¡m s Davem prda.}
+{320}{}{DobrÃ½... dobrÃ½...}
+{321}{}{MoÅ¾nÃ¡, Å¾e si to dÃ¡m jeÅ¡tÄ› jednou.}
 {322}{}{Mmmm...}
-{323}{}{To nebylo vùbec špatnı.}
-{324}{}{Budeme to muset udìlat ještì jednou a zapracovat na naší... prunosti.}
-{350}{}{Tak to vypadá, e se budu muset zase spolehnout na svoji levaèku.}
-{351}{}{Bacha a tì nepraští dveøe pøes tu tvoji SUCHOU VAGÍNU a pùjdeš ven!}
-{352}{}{Je èas dokonèit to, co jsi ani nedokázala zaèít!}
-{370}{}{Hmm, pìknı.}
-{371}{}{Billymu se to líbí.}
-{372}{}{To jó.}
-{373}{}{Hezkı.}
-{374}{}{Jeíš a Ramona.}
-{375}{}{Dobrı boe.}
-{376}{}{Mìl jsem si vzít s sebou krabici kapesníkù.}
-{377}{}{Hmmm, koho si teï mám pøedstavovat?}
-{390}{}{Hej, copak nevidíš, e mám práci?}
+{323}{}{To nebylo vÅ¯bec Å¡patnÃ½.}
+{324}{}{Budeme to muset udÄ›lat jeÅ¡tÄ› jednou a zapracovat na naÅ¡Ã­... pruÅ¾nosti.}
+{350}{}{Tak to vypadÃ¡, Å¾e se budu muset zase spolehnout na svoji levaÄku.}
+{351}{}{Bacha aÅ¥ tÄ› nepraÅ¡tÃ­ dveÅ™e pÅ™es tu tvoji SUCHOU VAGÃNU aÅ¾ pÅ¯jdeÅ¡ ven!}
+{352}{}{Je Äas dokonÄit to, co jsi ani nedokÃ¡zala zaÄÃ­t!}
+{370}{}{Hmm, pÄ›knÃ½.}
+{371}{}{Billymu se to lÃ­bÃ­.}
+{372}{}{To jÃ³.}
+{373}{}{HezkÃ½.}
+{374}{}{JeÅ¾Ã­Å¡ a Ramona.}
+{375}{}{DobrÃ½ boÅ¾e.}
+{376}{}{MÄ›l jsem si vzÃ­t s sebou krabici kapesnÃ­kÅ¯.}
+{377}{}{Hmmm, koho si teÄ mÃ¡m pÅ™edstavovat?}
+{390}{}{Hej, copak nevidÃ­Å¡, Å¾e mÃ¡m prÃ¡ci?}
 {391}{}{Hej, vypadni sakra.}
-{392}{}{Hej, ty to za mì neudìláš, tak neotravuj.}
-{393}{}{Mùeš mi dát mop a vrátit se tak v 5?}
-{400}{}{Billy, doufám, e jsi zase nezašpinil tu matraci!}
-{401}{}{Hej Billy, potøebuješ mop?}
-{402}{}{Billy, tvùj chcípák ti zase nestojí. ZASE!}
-{403}{}{Hej Billy, nezapomeò si pak vymìnit kalhoty.}
-{404}{}{Billy, jíš nìkdy koblihy?}
+{392}{}{Hej, ty to za mÄ› neudÄ›lÃ¡Å¡, tak neotravuj.}
+{393}{}{MÅ¯Å¾eÅ¡ mi dÃ¡t mop a vrÃ¡tit se tak v 5?}
+{400}{}{Billy, doufÃ¡m, Å¾e jsi zase nezaÅ¡pinil tu matraci!}
+{401}{}{Hej Billy, potÅ™ebujeÅ¡ mop?}
+{402}{}{Billy, tvÅ¯j chcÃ­pÃ¡k ti zase nestojÃ­. ZASE!}
+{403}{}{Hej Billy, nezapomeÅˆ si pak vymÄ›nit kalhoty.}
+{404}{}{Billy, jÃ­Å¡ nÄ›kdy koblihy?}
 {410}{}{Ehhh.}
 {411}{}{Sakra}
 {412}{}{Jooo}
 {413}{}{He, he, heee...}
 {414}{}{He?}
 {500}{}{*PLIVE* Tfuj...}
-{510}{}{Hej kámo, "nepronajmeš" mi na chvilku tu tvoji fajnovou kurvu?}
-{511}{}{Nemùe to chvíli poèkat? Musím si dát panáka.}
-{512}{}{Hele, jestli se mnou chceš mluvit, budu v Díøe.}
-{513}{}{Co takhle si dát sraz v Díøe a já tì pak pozvu na panáka?}
-{520}{}{Promiò, ale pospíchám domù. Pravì jsem sehnal nové porno.}
-{521}{}{Jsem, eh, unavenı, nechte mì jít prosím domù a, eh, spát...}
-{522}{}{Zajdu k Davovi. Má doma celou místnost jen s pornem!}
-{530}{}{Ehhh, ne díky. Nemám na takovı hovadiny peníze.}
-{540}{}{Tak dobøe, ještì to s tebou jednou zkusím.}
+{510}{}{Hej kÃ¡mo, "nepronajmeÅ¡" mi na chvilku tu tvoji fajnovou kurvu?}
+{511}{}{NemÅ¯Å¾e to chvÃ­li poÄkat? MusÃ­m si dÃ¡t panÃ¡ka.}
+{512}{}{Hele, jestli se mnou chceÅ¡ mluvit, budu v DÃ­Å™e.}
+{513}{}{Co takhle si dÃ¡t sraz v DÃ­Å™e a jÃ¡ tÄ› pak pozvu na panÃ¡ka?}
+{520}{}{PromiÅˆ, ale pospÃ­chÃ¡m domÅ¯. PravÄ› jsem sehnal novÃ© porno.}
+{521}{}{Jsem, eh, unavenÃ½, nechte mÄ› jÃ­t prosÃ­m domÅ¯ a, eh, spÃ¡t...}
+{522}{}{Zajdu k Davovi. MÃ¡ doma celou mÃ­stnost jen s pornem!}
+{530}{}{Ehhh, ne dÃ­ky. NemÃ¡m na takovÃ½ hovadiny penÃ­ze.}
+{540}{}{Tak dobÅ™e, jeÅ¡tÄ› to s tebou jednou zkusÃ­m.}

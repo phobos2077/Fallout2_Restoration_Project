@@ -1,79 +1,79 @@
-{100}{}{Vidíš pøíjemnou baculatou enu.}
-{101}{}{Vidíš Rózu.}
-{102}{}{Její šedé vlasy jsou staené do drdolu a pøi chùzi se trochu kolébá. Nemùeš si pomoct, ale cítíš se v její pøítomnosti uvolnìnì.}
-{150}{}{Je mi líto, ale máme zavøeno. Došlo k úmrtí v rodinì. (smrk)}
-{151}{}{Hej! Do krabice ztrát a nálezù smím jenom já.}
-{152}{}{Zaèínám si myslet, e jsi zlodìj!}
-{153}{}{Zlodìj! Zlodìj! Zlodìj!}
-{154}{}{Vítejte v Rózinì penziónu. Boínku, vy jste ale urostlı mladík. Co pro vás mùe dnes Róza udìlat?}
-{155}{}{Vítejte v Rózinì penziónu. Paneèku, vy jste ale pìkná sleèinka. Co pro vás mùe dnes Róza udìlat?}
-{156}{}{Mám hroznı hlad! Co tu máte k jídlu?}
+{100}{}{VidÃ­Å¡ pÅ™Ã­jemnou baculatou Å¾enu.}
+{101}{}{VidÃ­Å¡ RÃ³zu.}
+{102}{}{JejÃ­ Å¡edÃ© vlasy jsou staÅ¾enÃ© do drdolu a pÅ™i chÅ¯zi se trochu kolÃ©bÃ¡. NemÅ¯Å¾eÅ¡ si pomoct, ale cÃ­tÃ­Å¡ se v jejÃ­ pÅ™Ã­tomnosti uvolnÄ›nÄ›.}
+{150}{}{Je mi lÃ­to, ale mÃ¡me zavÅ™eno. DoÅ¡lo k ÃºmrtÃ­ v rodinÄ›. (smrk)}
+{151}{}{Hej! Do krabice ztrÃ¡t a nÃ¡lezÅ¯ smÃ­m jenom jÃ¡.}
+{152}{}{ZaÄÃ­nÃ¡m si myslet, Å¾e jsi zlodÄ›j!}
+{153}{}{ZlodÄ›j! ZlodÄ›j! ZlodÄ›j!}
+{154}{}{VÃ­tejte v RÃ³zinÄ› penziÃ³nu. BoÅ¾Ã­nku, vy jste ale urostlÃ½ mladÃ­k. Co pro vÃ¡s mÅ¯Å¾e dnes RÃ³za udÄ›lat?}
+{155}{}{VÃ­tejte v RÃ³zinÄ› penziÃ³nu. PaneÄku, vy jste ale pÄ›knÃ¡ sleÄinka. Co pro vÃ¡s mÅ¯Å¾e dnes RÃ³za udÄ›lat?}
+{156}{}{MÃ¡m hroznÃ½ hlad! Co tu mÃ¡te k jÃ­dlu?}
 {157}{}{Chci si pronajmout pokoj na jednu noc.}
-{158}{}{Pøi takové práci jste asi musela slyšet zajímavé vìci. Nevadilo by vám pár otázek?}
-{159}{}{[Hlasitì mlasknout pusou]}
-{160}{}{Ráda vás zase vidím! Co pro vás mùu udìlat?}
-{165}{}{Á! To jste vy. Kadı povídá o tom, jak jste kvùli nám riskoval svùj ivot a vyøešil tajemství Farmy Duchù. Samozøejmì vás tu vdy rádi uvítáme a všechno jídlo a pití je na úèet podniku. Za odmìnu se mùete prohrabat v naší krabici ztrát a nálezù a vzít si, co budete chtít.}
-{166}{}{To je hrdina Modocu! Vítejte zpátky.}
-{167}{}{Mám hroznou chu na jednu z vašich vıteènıch omelet.}
-{168}{}{To ráda slyším. Mladı dospívající mu musí poøádnì jíst a jak tak vidím, tak to vy nedìláte. Koukejte si pìknì sednout a podívejte se na jídelní lístek.}
-{169}{}{To vidím. Kdy jste naposledy jedla nìco poøádného, mladá dámo? Jste hubená jako lunt. Teï se pìknì posaïte, podívejte se na jídelní lístek a povìzte mi, co si dáte k jídlu.}
-{170}{}{Brahmíní krokety. [$5]}
+{158}{}{PÅ™i takovÃ© prÃ¡ci jste asi musela slyÅ¡et zajÃ­mavÃ© vÄ›ci. Nevadilo by vÃ¡m pÃ¡r otÃ¡zek?}
+{159}{}{[HlasitÄ› mlasknout pusou]}
+{160}{}{RÃ¡da vÃ¡s zase vidÃ­m! Co pro vÃ¡s mÅ¯Å¾u udÄ›lat?}
+{165}{}{Ã! To jste vy. KaÅ¾dÃ½ povÃ­dÃ¡ o tom, jak jste kvÅ¯li nÃ¡m riskoval svÅ¯j Å¾ivot a vyÅ™eÅ¡il tajemstvÃ­ Farmy DuchÅ¯. SamozÅ™ejmÄ› vÃ¡s tu vÅ¾dy rÃ¡di uvÃ­tÃ¡me a vÅ¡echno jÃ­dlo a pitÃ­ je na ÃºÄet podniku. Za odmÄ›nu se mÅ¯Å¾ete prohrabat v naÅ¡Ã­ krabici ztrÃ¡t a nÃ¡lezÅ¯ a vzÃ­t si, co budete chtÃ­t.}
+{166}{}{To je hrdina Modocu! VÃ­tejte zpÃ¡tky.}
+{167}{}{MÃ¡m hroznou chuÅ¥ na jednu z vaÅ¡ich vÃ½teÄnÃ½ch omelet.}
+{168}{}{To rÃ¡da slyÅ¡Ã­m. MladÃ½ dospÃ­vajÃ­cÃ­ muÅ¾ musÃ­ poÅ™Ã¡dnÄ› jÃ­st a jak tak vidÃ­m, tak to vy nedÄ›lÃ¡te. Koukejte si pÄ›knÄ› sednout a podÃ­vejte se na jÃ­delnÃ­ lÃ­stek.}
+{169}{}{To vidÃ­m. Kdy jste naposledy jedla nÄ›co poÅ™Ã¡dnÃ©ho, mladÃ¡ dÃ¡mo? Jste hubenÃ¡ jako lunt. TeÄ se pÄ›knÄ› posaÄte, podÃ­vejte se na jÃ­delnÃ­ lÃ­stek a povÄ›zte mi, co si dÃ¡te k jÃ­dlu.}
+{170}{}{BrahmÃ­nÃ­ krokety. [$5]}
 {171}{}{Omeleta z Pustin. [$25]}
 {172}{}{Voda. [$1000]}
-{173}{}{Brahmína ála pes. [$5]}
+{173}{}{BrahmÃ­na Ã¡la pes. [$5]}
 {174}{}{Pes-burger. [$7]}
-{175}{}{Dušené ovèí maso. [$3]}
-{176}{}{Ne, díky. Teï nemám hlad.}
-{177}{}{Je mi líto, ale zdá se, e nemáte dost penìz. Pøijïte pozdìji.}
-{178}{}{Ale já hladovím! Mùu si objednat nìco levnìjšího?}
-{179}{}{Poèkejte! Mùu se na nìco zeptat?}
-{180}{}{Zpátky pro nášup? Páni, vy musíte brahmíní krokety opravdu milovat. Nicménì mi je to líto, ale jeliko dríte rekord, nemùete opìt soutìit, dokud váš rekord nìkdo nepøekoná.}
-{181}{}{Take brahmíní krokety. Máme tu soutì v jejich pojídání. Prozatím je rekord 36. Kdy ho pøekonáte, nemusíte platit za to, co sníte. A jak se tak na vás dívám, nebudete s tím mít asi problém. Chcete to zkusit?}
-{182}{}{To není tøeba, zaplatím za vaše vynikající smaené brahmíní kulièky.}
-{183}{}{Mám takovı hlad, e ten rekord klidnì zdvojnásobím. Noste na stùl.}
-{184}{}{Ne, díky. Dám si to jen jednou, prosím.}
-{185}{}{Vıbornì. Kadı chod obsahuje 10 kouskù. Musím vás ale nejprve poádat o peníze. Jakmile pøekonáte rekord, dostanete je zpìt. Dìlá to $20, prosím.}
-{186}{}{Tolik nemám. Zkusím pøekonat rekord pozdìji. Teï si dám jen jednu porci. Díky.}
-{187}{}{Doufám, e to dostanu zpátky, a pøekonám rekord.}
-{188}{}{(Róza si vezme peníze a vrátí se s obrovskım talíøem brahmíních kroket. Vypadají docela jinak, ne sis pøedstavoval. Jsou veliké skoro jako golfovı míèek, obalené v tìstíèku a usmaené na oleji do zlatohnìda. Vezmeš si sousto na ochutnání. Jsou vynikající! Nadšenì se pustíš do jídla.)}
-{189}{}{(U 34. krokety cítíš, e u máš dost. Kolem tebe se shromádí velkı dav, aby se stal svìdky pøekonání starého rekordu. Pokoušíš se zklidnit a tak naváeš rozhovor s Rózou.)}
-{190}{}{(Strèíš další kroketu do úst.) Mmff... mfvakı... chro...' Nemluv s plnou pusou, drahoušku. (Polkneš.)}
-{191}{}{Jakı máte recept? Tedy jestli to není tajemství. Moje pøátele doma by to velmi zajímalo.}
-{192}{}{Ale ne, to není ádné tajemství. Musíte je obalit v tìstíèku, osolit a osmait na tuku. (Nacpeš si další kroketu do úst.)}
-{193}{}{A jak pøipravujete brahmíní maso? Má jedineènou barvu. (Nacpeš si další kroketu do úst. Jsou opravdu dobré!)}
-{194}{}{To je 37. kroketa! Rekord je pøekonán! (Dav jásá!)}
-{195}{}{(Chytneš druhı dech a nacpeš si další kroketu do úst.)}
-{196}{}{(Dav okolo køièí: "38!") No, ta chu je tak vynikající, protoe maso odøezáváme z brahmín zaiva. Popadnu brahmíního samce za varlata a 'ušmiknu' mu všechny ètyøi jedním øezem. Musíte bıt ale opatrnı. Pìknì pøi tom dovádí.}
-{197}{}{(38. brahmíní lahùdku vyplivneš rychlostí svìtla.)}
-{198}{}{Tu poslední nemùeme poèítat, ale i tak byl rekord pøekonán s neuvìøitelnımi 37 kousky! Tady jsou vaše peníze. Gratuluji!}
-{199}{}{(Je ti na zvracení.)}
-{200}{}{Á, to je moje specialita. Doufám, e máte hlad. Zaruèuji vám, e takovouhle omeletu jste ještì nikde nejedl. (Vrátí se s tou nejvìtší omeletou, jakou jsi kdy vidìl.)}
-{201}{}{(Po takovém poøádném jídle se ti navrátí síly.)}
-{202}{}{(Rychle zmizí za pultem a za chvíli se vrátí s tvojí objednávkou.)}
-{203}{}{Mùu se na nìco zeptat?}
-{204}{}{Je mi líto, drahoušku, musím obsluhovat i ostatní zákazníky. Kdy si ale objednáte nìjaké jídlo, moná si udìlám chvíli èas na otázky.}
-{205}{}{V tom pøípadì mám poøádnı hlad. Co máte k jídlu?}
-{206}{}{Jasnì, ale hoï sebou, brouku. Nemùu nechat ostatní zákazníky èekat.}
-{207}{}{Mùete mi øíct nìco o zmizelıch Corneliovıch hodinkách?}
-{208}{}{Slyšela jste nìkdy o vìci zvané GECK?}
-{209}{}{Co víte o Farmì Duchù?}
-{210}{}{To je ale velká omeleta, to snad není ani moné. Jaké zvíøe snáší tak veliké vejce?}
-{211}{}{Z èeho je ten pes-burger?}
-{212}{}{Ach ne! Vy jste mluvil s mım manelem Corneliem, e? Celá ta vìc s jeho hodinkami je hrozná. Celé mìsto si myslí, e mu je sebral Corneliùv nejlepší pøítel Farrel. Moná víte o tom, e Farrel není tak úplnì psychicky v poøádku. Jsem si témìø jistá, e je ten chudák jen nìkde zapomnìl, ale neví kde.}
-{213}{}{Jestli u je to všechno, tak já pùjdu obsluhovat další zákazníky.}
-{214}{}{Mùu se ještì na nìco zeptat?}
-{215}{}{Chvileèku. Mám poøád hlad.}
-{216}{}{Øíkáte GECK? Ne, neslyšela. Znám jeden dobrı recept na omáèku ze tøí geckonù, ale nikdy jsem neslyšela o GECKu.}
-{217}{}{(Oklepe se hrùzou.) Tam nechoïte! Od cestovatelù jsem slyšela, e tam jsou hnijící tìla nabodnutá na sloupy a v noci se tam pohybují svìtélkující stíny. Nevím, kolik z toho je pravda, ale vím, e tam Karl kdysi odešel a u ho nikdo nevidìl.}
-{218}{}{Á, tak vy u jste mìl omeletu z pustin. Jsou vynikající, e? Nìkteøí lidé tvrdí, e mají uzdravující úèinky. (Nervóznì se rozhlédne kolem.) Och! Pøišli noví zákazníci. Za chvíli budu zpátky. (Hmm... neodpovìdìla ti na otázku.)}
-{220}{}{Naše burgery jsou z tìch nejlepších, vybranıch, prvotøídních psù. Jejich maso potom krájíme na pùl-librové placky. A tu skvìlou uzenou chu získáváme pomalım grilováním nad vysušenım hnojem z brahmín.}
-{221}{}{Ty chudáèku. Vdy umíráš hlady. Posaï se a já ti pøinesu nìco k jídlu. (Za chvíli se vrátí s velkou omeletou.) Teï se nehneš z místa, dokud to nesníš do posledního drobeèku.}
-{222}{}{Bohuel, máme plno. Všechny pokoje si pronajala jedna velká karavana.}
-{225}{}{Opravdu!? Musíte mít opravdu ízeò. Trochu jsem zvedla cenu, aby to odradilo zákazníky. Pitná voda je to nejluxusnìjší zboí, co tu máme, protoe skoro neprší a studny vysychají. Skuteènì ji chcete?}
-{226}{}{Ano! Zoufale potøebuju vodu.}
-{227}{}{Vlastnì mám poøádnı hlad.}
-{228}{}{Je mi líto, ale omelety u nepodáváme. Nìjakı šílenec se vloupal do kurníku a zabil naše... slepice.}
-{229}{}{Mám opravdu velkı hlad, take mi ukate, co máte k jídlu.}
-{230}{}{Škoda, e si nemùu dát vaše vìhlasné omelety. Asi zùstanu o hladu.}
-{231}{}{Aáá! Safra!}
-{300}{}{(Rychle se vrátí se sklenicí nahnìdlé tekutiny. Zdá se, e je ve sklenici víc špíny ne vody, ale máš takovou ízeò, e to stejnì vypiješ.) Pøinesla jsem ti k tomu sušenku, zlato.}
+{175}{}{DuÅ¡enÃ© ovÄÃ­ maso. [$3]}
+{176}{}{Ne, dÃ­ky. TeÄ nemÃ¡m hlad.}
+{177}{}{Je mi lÃ­to, ale zdÃ¡ se, Å¾e nemÃ¡te dost penÄ›z. PÅ™ijÄte pozdÄ›ji.}
+{178}{}{Ale jÃ¡ hladovÃ­m! MÅ¯Å¾u si objednat nÄ›co levnÄ›jÅ¡Ã­ho?}
+{179}{}{PoÄkejte! MÅ¯Å¾u se na nÄ›co zeptat?}
+{180}{}{ZpÃ¡tky pro nÃ¡Å¡up? PÃ¡ni, vy musÃ­te brahmÃ­nÃ­ krokety opravdu milovat. NicmÃ©nÄ› mi je to lÃ­to, ale jelikoÅ¾ drÅ¾Ã­te rekord, nemÅ¯Å¾ete opÄ›t soutÄ›Å¾it, dokud vÃ¡Å¡ rekord nÄ›kdo nepÅ™ekonÃ¡.}
+{181}{}{TakÅ¾e brahmÃ­nÃ­ krokety. MÃ¡me tu soutÄ›Å¾ v jejich pojÃ­dÃ¡nÃ­. ProzatÃ­m je rekord 36. KdyÅ¾ ho pÅ™ekonÃ¡te, nemusÃ­te platit za to, co snÃ­te. A jak se tak na vÃ¡s dÃ­vÃ¡m, nebudete s tÃ­m mÃ­t asi problÃ©m. Chcete to zkusit?}
+{182}{}{To nenÃ­ tÅ™eba, zaplatÃ­m za vaÅ¡e vynikajÃ­cÃ­ smaÅ¾enÃ© brahmÃ­nÃ­ kuliÄky.}
+{183}{}{MÃ¡m takovÃ½ hlad, Å¾e ten rekord klidnÄ› zdvojnÃ¡sobÃ­m. Noste na stÅ¯l.}
+{184}{}{Ne, dÃ­ky. DÃ¡m si to jen jednou, prosÃ­m.}
+{185}{}{VÃ½bornÄ›. KaÅ¾dÃ½ chod obsahuje 10 kouskÅ¯. MusÃ­m vÃ¡s ale nejprve poÅ¾Ã¡dat o penÃ­ze. Jakmile pÅ™ekonÃ¡te rekord, dostanete je zpÄ›t. DÄ›lÃ¡ to $20, prosÃ­m.}
+{186}{}{Tolik nemÃ¡m. ZkusÃ­m pÅ™ekonat rekord pozdÄ›ji. TeÄ si dÃ¡m jen jednu porci. DÃ­ky.}
+{187}{}{DoufÃ¡m, Å¾e to dostanu zpÃ¡tky, aÅ¾ pÅ™ekonÃ¡m rekord.}
+{188}{}{(RÃ³za si vezme penÃ­ze a vrÃ¡tÃ­ se s obrovskÃ½m talÃ­Å™em brahmÃ­nÃ­ch kroket. VypadajÃ­ docela jinak, neÅ¾ sis pÅ™edstavoval. Jsou velikÃ© skoro jako golfovÃ½ mÃ­Äek, obalenÃ© v tÄ›stÃ­Äku a usmaÅ¾enÃ© na oleji do zlatohnÄ›da. VezmeÅ¡ si sousto na ochutnÃ¡nÃ­. Jsou vynikajÃ­cÃ­! NadÅ¡enÄ› se pustÃ­Å¡ do jÃ­dla.)}
+{189}{}{(U 34. krokety cÃ­tÃ­Å¡, Å¾e uÅ¾ mÃ¡Å¡ dost. Kolem tebe se shromÃ¡Å¾dÃ­ velkÃ½ dav, aby se stal svÄ›dky pÅ™ekonÃ¡nÃ­ starÃ©ho rekordu. PokouÅ¡Ã­Å¡ se zklidnit a tak navÃ¡Å¾eÅ¡ rozhovor s RÃ³zou.)}
+{190}{}{(StrÄÃ­Å¡ dalÅ¡Ã­ kroketu do Ãºst.) Mmff... mfvakÃ½... chro...' Nemluv s plnou pusou, drahouÅ¡ku. (PolkneÅ¡.)}
+{191}{}{JakÃ½ mÃ¡te recept? Tedy jestli to nenÃ­ tajemstvÃ­. Moje pÅ™Ã¡tele doma by to velmi zajÃ­malo.}
+{192}{}{Ale ne, to nenÃ­ Å¾Ã¡dnÃ© tajemstvÃ­. MusÃ­te je obalit v tÄ›stÃ­Äku, osolit a osmaÅ¾it na tuku. (NacpeÅ¡ si dalÅ¡Ã­ kroketu do Ãºst.)}
+{193}{}{A jak pÅ™ipravujete brahmÃ­nÃ­ maso? MÃ¡ jedineÄnou barvu. (NacpeÅ¡ si dalÅ¡Ã­ kroketu do Ãºst. Jsou opravdu dobrÃ©!)}
+{194}{}{To je 37. kroketa! Rekord je pÅ™ekonÃ¡n! (Dav jÃ¡sÃ¡!)}
+{195}{}{(ChytneÅ¡ druhÃ½ dech a nacpeÅ¡ si dalÅ¡Ã­ kroketu do Ãºst.)}
+{196}{}{(Dav okolo kÅ™iÄÃ­: "38!") No, ta chuÅ¥ je tak vynikajÃ­cÃ­, protoÅ¾e maso odÅ™ezÃ¡vÃ¡me z brahmÃ­n zaÅ¾iva. Popadnu brahmÃ­nÃ­ho samce za varlata a 'uÅ¡miknu' mu vÅ¡echny ÄtyÅ™i jednÃ­m Å™ezem. MusÃ­te bÃ½t ale opatrnÃ½. PÄ›knÄ› pÅ™i tom dovÃ¡dÃ­.}
+{197}{}{(38. brahmÃ­nÃ­ lahÅ¯dku vyplivneÅ¡ rychlostÃ­ svÄ›tla.)}
+{198}{}{Tu poslednÃ­ nemÅ¯Å¾eme poÄÃ­tat, ale i tak byl rekord pÅ™ekonÃ¡n s neuvÄ›Å™itelnÃ½mi 37 kousky! Tady jsou vaÅ¡e penÃ­ze. Gratuluji!}
+{199}{}{(Je ti na zvracenÃ­.)}
+{200}{}{Ã, to je moje specialita. DoufÃ¡m, Å¾e mÃ¡te hlad. ZaruÄuji vÃ¡m, Å¾e takovouhle omeletu jste jeÅ¡tÄ› nikde nejedl. (VrÃ¡tÃ­ se s tou nejvÄ›tÅ¡Ã­ omeletou, jakou jsi kdy vidÄ›l.)}
+{201}{}{(Po takovÃ©m poÅ™Ã¡dnÃ©m jÃ­dle se ti navrÃ¡tÃ­ sÃ­ly.)}
+{202}{}{(Rychle zmizÃ­ za pultem a za chvÃ­li se vrÃ¡tÃ­ s tvojÃ­ objednÃ¡vkou.)}
+{203}{}{MÅ¯Å¾u se na nÄ›co zeptat?}
+{204}{}{Je mi lÃ­to, drahouÅ¡ku, musÃ­m obsluhovat i ostatnÃ­ zÃ¡kaznÃ­ky. KdyÅ¾ si ale objednÃ¡te nÄ›jakÃ© jÃ­dlo, moÅ¾nÃ¡ si udÄ›lÃ¡m chvÃ­li Äas na otÃ¡zky.}
+{205}{}{V tom pÅ™Ã­padÄ› mÃ¡m poÅ™Ã¡dnÃ½ hlad. Co mÃ¡te k jÃ­dlu?}
+{206}{}{JasnÄ›, ale hoÄ sebou, brouku. NemÅ¯Å¾u nechat ostatnÃ­ zÃ¡kaznÃ­ky Äekat.}
+{207}{}{MÅ¯Å¾ete mi Å™Ã­ct nÄ›co o zmizelÃ½ch CorneliovÃ½ch hodinkÃ¡ch?}
+{208}{}{SlyÅ¡ela jste nÄ›kdy o vÄ›ci zvanÃ© GECK?}
+{209}{}{Co vÃ­te o FarmÄ› DuchÅ¯?}
+{210}{}{To je ale velkÃ¡ omeleta, to snad nenÃ­ ani moÅ¾nÃ©. JakÃ© zvÃ­Å™e snÃ¡Å¡Ã­ tak velikÃ© vejce?}
+{211}{}{Z Äeho je ten pes-burger?}
+{212}{}{Ach ne! Vy jste mluvil s mÃ½m manÅ¾elem Corneliem, Å¾e? CelÃ¡ ta vÄ›c s jeho hodinkami je hroznÃ¡. CelÃ© mÄ›sto si myslÃ­, Å¾e mu je sebral CorneliÅ¯v nejlepÅ¡Ã­ pÅ™Ã­tel Farrel. MoÅ¾nÃ¡ vÃ­te o tom, Å¾e Farrel nenÃ­ tak ÃºplnÄ› psychicky v poÅ™Ã¡dku. Jsem si tÃ©mÄ›Å™ jistÃ¡, Å¾e je ten chudÃ¡k jen nÄ›kde zapomnÄ›l, ale nevÃ­ kde.}
+{213}{}{Jestli uÅ¾ je to vÅ¡echno, tak jÃ¡ pÅ¯jdu obsluhovat dalÅ¡Ã­ zÃ¡kaznÃ­ky.}
+{214}{}{MÅ¯Å¾u se jeÅ¡tÄ› na nÄ›co zeptat?}
+{215}{}{ChvileÄku. MÃ¡m poÅ™Ã¡d hlad.}
+{216}{}{Å˜Ã­kÃ¡te GECK? Ne, neslyÅ¡ela. ZnÃ¡m jeden dobrÃ½ recept na omÃ¡Äku ze tÅ™Ã­ geckonÅ¯, ale nikdy jsem neslyÅ¡ela o GECKu.}
+{217}{}{(Oklepe se hrÅ¯zou.) Tam nechoÄte! Od cestovatelÅ¯ jsem slyÅ¡ela, Å¾e tam jsou hnijÃ­cÃ­ tÄ›la nabodnutÃ¡ na sloupy a v noci se tam pohybujÃ­ svÄ›tÃ©lkujÃ­cÃ­ stÃ­ny. NevÃ­m, kolik z toho je pravda, ale vÃ­m, Å¾e tam Karl kdysi odeÅ¡el a uÅ¾ ho nikdo nevidÄ›l.}
+{218}{}{Ã, tak vy uÅ¾ jste mÄ›l omeletu z pustin. Jsou vynikajÃ­cÃ­, Å¾e? NÄ›kteÅ™Ã­ lidÃ© tvrdÃ­, Å¾e majÃ­ uzdravujÃ­cÃ­ ÃºÄinky. (NervÃ³znÄ› se rozhlÃ©dne kolem.) Och! PÅ™iÅ¡li novÃ­ zÃ¡kaznÃ­ci. Za chvÃ­li budu zpÃ¡tky. (Hmm... neodpovÄ›dÄ›la ti na otÃ¡zku.)}
+{220}{}{NaÅ¡e burgery jsou z tÄ›ch nejlepÅ¡Ã­ch, vybranÃ½ch, prvotÅ™Ã­dnÃ­ch psÅ¯. Jejich maso potom krÃ¡jÃ­me na pÅ¯l-librovÃ© placky. A tu skvÄ›lou uzenou chuÅ¥ zÃ­skÃ¡vÃ¡me pomalÃ½m grilovÃ¡nÃ­m nad vysuÅ¡enÃ½m hnojem z brahmÃ­n.}
+{221}{}{Ty chudÃ¡Äku. VÅ¾dyÅ¥ umÃ­rÃ¡Å¡ hlady. PosaÄ se a jÃ¡ ti pÅ™inesu nÄ›co k jÃ­dlu. (Za chvÃ­li se vrÃ¡tÃ­ s velkou omeletou.) TeÄ se nehneÅ¡ z mÃ­sta, dokud to nesnÃ­Å¡ do poslednÃ­ho drobeÄku.}
+{222}{}{BohuÅ¾el, mÃ¡me plno. VÅ¡echny pokoje si pronajala jedna velkÃ¡ karavana.}
+{225}{}{Opravdu!? MusÃ­te mÃ­t opravdu Å¾Ã­zeÅˆ. Trochu jsem zvedla cenu, aby to odradilo zÃ¡kaznÃ­ky. PitnÃ¡ voda je to nejluxusnÄ›jÅ¡Ã­ zboÅ¾Ã­, co tu mÃ¡me, protoÅ¾e skoro neprÅ¡Ã­ a studny vysychajÃ­. SkuteÄnÄ› ji chcete?}
+{226}{}{Ano! Zoufale potÅ™ebuju vodu.}
+{227}{}{VlastnÄ› mÃ¡m poÅ™Ã¡dnÃ½ hlad.}
+{228}{}{Je mi lÃ­to, ale omelety uÅ¾ nepodÃ¡vÃ¡me. NÄ›jakÃ½ Å¡Ã­lenec se vloupal do kurnÃ­ku a zabil naÅ¡e... slepice.}
+{229}{}{MÃ¡m opravdu velkÃ½ hlad, takÅ¾e mi ukaÅ¾te, co mÃ¡te k jÃ­dlu.}
+{230}{}{Å koda, Å¾e si nemÅ¯Å¾u dÃ¡t vaÅ¡e vÄ›hlasnÃ© omelety. Asi zÅ¯stanu o hladu.}
+{231}{}{AÃ¡Ã¡! Safra!}
+{300}{}{(Rychle se vrÃ¡tÃ­ se sklenicÃ­ nahnÄ›dlÃ© tekutiny. ZdÃ¡ se, Å¾e je ve sklenici vÃ­c Å¡pÃ­ny neÅ¾ vody, ale mÃ¡Å¡ takovou Å¾Ã­zeÅˆ, Å¾e to stejnÄ› vypijeÅ¡.) PÅ™inesla jsem ti k tomu suÅ¡enku, zlato.}

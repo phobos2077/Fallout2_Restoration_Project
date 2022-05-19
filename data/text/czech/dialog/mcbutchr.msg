@@ -1,34 +1,34 @@
-{100}{}{Další zbytky pro Rózu.}
+{100}{}{DalÅ¡Ã­ zbytky pro RÃ³zu.}
 {101}{}{Uf! Nikdy si na tohle nezvyknu.}
-{102}{}{Miluju svoji práci.}
-{103}{}{Balthas mi za tuhle kùi zaplatí pìknı prachy.}
-{104}{}{Prı se dá udìlat vıbornı dezert z vymaèkanıch oèních bulv.}
-{105}{}{Maso je pøipraveno k uzení.}
-{120}{}{Hodná Bessy.}
-{200}{}{Uhnìte, pane. Mám tu brahmínu na poráku.}
-{201}{}{Uhnìte z cesty.}
-{202}{}{Mùete se prosím uhnout? Mám nìjakou práci.}
-{203}{}{Poslyšte, dámo, mohla byste se trochu uhnout? Mám tu brahmínu na poráku.}
-{250}{}{Vidíš øezníka.}
-{251}{}{Je to øezník-specialista.}
-{252}{}{Je to øezník z jatek. Jeho obleèení je nasáklé krví z mrtvıch brahmín.}
-{253}{}{Ten hroznı zápach je cítit a k tobì.}
-{275}{}{Sakra, budeme potøebovat další brahmíny.}
-{276}{}{Jóó, to byl den. U nemáme další brahmíny. Joooo!!! JE ÈAS ZAJÍT NA PIVO!!!}
-{277}{}{Kruci! U nemám co zabíjet! Moná bych mìl zajít za Miriou.}
-{280}{}{Ááá, èas jít domu a odpoèinout si ve vlastním smradu.}
-{281}{}{Je èas jít domu a dát si pìknı, propeèenı steak.}
-{282}{}{To byl ale dlouhı den. Doufám, e u se ráno neprobudím, abych to zase nemusel dìlat.}
-{300}{}{Sušenı maso je dobrı na kosti.}
-{301}{}{Sušenı maso je dobrı na vlasy.}
-{302}{}{Sušenı maso je dobrı na plíce.}
-{303}{}{Sušenı maso je dobrı na aludek.}
-{304}{}{Sušenı maso je dobrı na ledviny.}
-{305}{}{Sušenı maso je vynikající.}
-{306}{}{Sakra, co tu dìlá to brahmíní hovno?}
-{307}{}{Myslím, e jsem si ušpinil hadry. HA! HA! HA!}
-{308}{}{Dávejte pozor, kam šlapete. Je to tady samı svinstvo.}
-{309}{}{Chutná vám sušenı maso?}
-{310}{}{Mám rád sušenı maso i ke snídani.}
-{311}{}{Mléko, zmrzlina, z toho se mi dìlá akorát tak blbì. Ale SUŠENİ MASO!!!}
-{312}{}{Hej! Poslyšte, SUŠENİ MASO!!! HA! HA! HA!}
+{102}{}{Miluju svoji prÃ¡ci.}
+{103}{}{Balthas mi za tuhle kÅ¯Å¾i zaplatÃ­ pÄ›knÃ½ prachy.}
+{104}{}{PrÃ½ se dÃ¡ udÄ›lat vÃ½bornÃ½ dezert z vymaÄkanÃ½ch oÄnÃ­ch bulv.}
+{105}{}{Maso je pÅ™ipraveno k uzenÃ­.}
+{120}{}{HodnÃ¡ Bessy.}
+{200}{}{UhnÄ›te, pane. MÃ¡m tu brahmÃ­nu na porÃ¡Å¾ku.}
+{201}{}{UhnÄ›te z cesty.}
+{202}{}{MÅ¯Å¾ete se prosÃ­m uhnout? MÃ¡m nÄ›jakou prÃ¡ci.}
+{203}{}{PoslyÅ¡te, dÃ¡mo, mohla byste se trochu uhnout? MÃ¡m tu brahmÃ­nu na porÃ¡Å¾ku.}
+{250}{}{VidÃ­Å¡ Å™eznÃ­ka.}
+{251}{}{Je to Å™eznÃ­k-specialista.}
+{252}{}{Je to Å™eznÃ­k z jatek. Jeho obleÄenÃ­ je nasÃ¡klÃ© krvÃ­ z mrtvÃ½ch brahmÃ­n.}
+{253}{}{Ten hroznÃ½ zÃ¡pach je cÃ­tit aÅ¾ k tobÄ›.}
+{275}{}{Sakra, budeme potÅ™ebovat dalÅ¡Ã­ brahmÃ­ny.}
+{276}{}{JÃ³Ã³, to byl den. UÅ¾ nemÃ¡me dalÅ¡Ã­ brahmÃ­ny. Joooo!!! JE ÄŒAS ZAJÃT NA PIVO!!!}
+{277}{}{Kruci! UÅ¾ nemÃ¡m co zabÃ­jet! MoÅ¾nÃ¡ bych mÄ›l zajÃ­t za Miriou.}
+{280}{}{ÃÃ¡Ã¡, Äas jÃ­t domu a odpoÄinout si ve vlastnÃ­m smradu.}
+{281}{}{Je Äas jÃ­t domu a dÃ¡t si pÄ›knÃ½, propeÄenÃ½ steak.}
+{282}{}{To byl ale dlouhÃ½ den. DoufÃ¡m, Å¾e uÅ¾ se rÃ¡no neprobudÃ­m, abych to zase nemusel dÄ›lat.}
+{300}{}{SuÅ¡enÃ½ maso je dobrÃ½ na kosti.}
+{301}{}{SuÅ¡enÃ½ maso je dobrÃ½ na vlasy.}
+{302}{}{SuÅ¡enÃ½ maso je dobrÃ½ na plÃ­ce.}
+{303}{}{SuÅ¡enÃ½ maso je dobrÃ½ na Å¾aludek.}
+{304}{}{SuÅ¡enÃ½ maso je dobrÃ½ na ledviny.}
+{305}{}{SuÅ¡enÃ½ maso je vynikajÃ­cÃ­.}
+{306}{}{Sakra, co tu dÄ›lÃ¡ to brahmÃ­nÃ­ hovno?}
+{307}{}{MyslÃ­m, Å¾e jsem si uÅ¡pinil hadry. HA! HA! HA!}
+{308}{}{DÃ¡vejte pozor, kam Å¡lapete. Je to tady samÃ½ svinstvo.}
+{309}{}{ChutnÃ¡ vÃ¡m suÅ¡enÃ½ maso?}
+{310}{}{MÃ¡m rÃ¡d suÅ¡enÃ½ maso i ke snÃ­dani.}
+{311}{}{MlÃ©ko, zmrzlina, z toho se mi dÄ›lÃ¡ akorÃ¡t tak blbÄ›. Ale SUÅ ENÃ MASO!!!}
+{312}{}{Hej! PoslyÅ¡te, SUÅ ENÃ MASO!!! HA! HA! HA!}

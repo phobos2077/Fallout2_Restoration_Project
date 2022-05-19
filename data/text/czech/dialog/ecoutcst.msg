@@ -1,7 +1,7 @@
-{100}{}{Neutíkej.}
-{101}{}{Jsme tví pøátelé.}
-{102}{}{Neútoè.}
+{100}{}{NeutÃ­kej.}
+{101}{}{Jsme tvÃ­ pÅ™Ã¡telÃ©.}
+{102}{}{NeÃºtoÄ.}
 {103}{}{Troubo.}
-{104}{}{Nech nás na pokoji!}
-{105}{}{Špinavèe!}
-{106}{}{Jdi pryè!}
+{104}{}{Nech nÃ¡s na pokoji!}
+{105}{}{Å pinavÄe!}
+{106}{}{Jdi pryÄ!}

@@ -1,256 +1,256 @@
 {100}{}{[KONEC]}
 {101}{}{VOLBY}
-{102}{}{ZRUŠIT}
+{102}{}{ZRUÅ IT}
 {103}{}{TISK}
-{104}{}{VÌK}
-{105}{}{POHLAVÍ}
-{106}{}{JMÉNO}
-{107}{}{MU}
-{108}{}{ENA}
+{104}{}{VÄšK}
+{105}{}{POHLAVÃ}
+{106}{}{JMÃ‰NO}
+{107}{}{MUÅ½}
+{108}{}{Å½ENA}
 {109}{}{PERKY}
 {110}{}{KARMA}
-{111}{}{ZÁØEZY}
+{111}{}{ZÃÅ˜EZY}
 {112}{}{DOVED. BODY}
-{113}{}{Úroveò:}
-{114}{}{Zkušenost:}
-{115}{}{   Další úroveò:}
+{113}{}{ÃšroveÅˆ:}
+{114}{}{ZkuÅ¡enost:}
+{115}{}{   DalÅ¡Ã­ ÃºroveÅˆ:}
 {116}{}{CHAR. BODY}
 {117}{}{DOVEDNOSTI}
-{118}{}{Pøed zaèátkem hry musíš vyuít}
-{119}{}{vlastnosti v rozmezí 1 a 10!}
-{120}{}{Charakterové body}
-{121}{}{Mnoství bodù, které se dají pøidat k nìkteré ze základních vlastností.}
-{122}{}{Další úroveò}
-{123}{}{Mnoství zkušenostních bodù, které potøebuješ k postupu na další úroveò.}
+{118}{}{PÅ™ed zaÄÃ¡tkem hry musÃ­Å¡ vyuÅ¾Ã­t}
+{119}{}{vlastnosti v rozmezÃ­ 1 aÅ¾ 10!}
+{120}{}{CharakterovÃ© body}
+{121}{}{MnoÅ¾stvÃ­ bodÅ¯, kterÃ© se dajÃ­ pÅ™idat k nÄ›kterÃ© ze zÃ¡kladnÃ­ch vlastnostÃ­.}
+{122}{}{DalÅ¡Ã­ ÃºroveÅˆ}
+{123}{}{MnoÅ¾stvÃ­ zkuÅ¡enostnÃ­ch bodÅ¯, kterÃ© potÅ™ebujeÅ¡ k postupu na dalÅ¡Ã­ ÃºroveÅˆ.}
 {124}{}{Perky}
 {125}{}{Karma}
-{126}{}{Záøezy}
-{127}{}{Perky pøidávají tvé postavì speciální schopnosti. Kadou tøetí úroveò si mùeš zvolit novı perk.}
-{128}{}{Vliv tvıch rozhodnutí uèinìnıch bìhem hry.}
-{129}{}{Poèítadlo zaznamenávající druh a poèet stvoøení, která zemøela v tvé blízkosti nebo byla tebou zabita.}
-{130}{}{Dovednostní body}
-{131}{}{Volné dovednostní body mùeš pouít ke zvıšení úrovnì nìkteré z dovedností. Jak se bude tvá postava postupnì zdokonalovat, bude tì i kadé další procento stát více dovednostních bodù.}
-{132}{}{Na maximální úrovni.}
-{133}{}{Nelze zvıšit.}
-{134}{}{Na minimální úrovni.}
-{135}{}{Nelze sníit.}
-{136}{}{Nemáš dost dovednostních bodù.}
+{126}{}{ZÃ¡Å™ezy}
+{127}{}{Perky pÅ™idÃ¡vajÃ­ tvÃ© postavÄ› speciÃ¡lnÃ­ schopnosti. KaÅ¾dou tÅ™etÃ­ ÃºroveÅˆ si mÅ¯Å¾eÅ¡ zvolit novÃ½ perk.}
+{128}{}{Vliv tvÃ½ch rozhodnutÃ­ uÄinÄ›nÃ½ch bÄ›hem hry.}
+{129}{}{PoÄÃ­tadlo zaznamenÃ¡vajÃ­cÃ­ druh a poÄet stvoÅ™enÃ­, kterÃ¡ zemÅ™ela v tvÃ© blÃ­zkosti nebo byla tebou zabita.}
+{130}{}{DovednostnÃ­ body}
+{131}{}{VolnÃ© dovednostnÃ­ body mÅ¯Å¾eÅ¡ pouÅ¾Ã­t ke zvÃ½Å¡enÃ­ ÃºrovnÄ› nÄ›kterÃ© z dovednostÃ­. Jak se bude tvÃ¡ postava postupnÄ› zdokonalovat, bude tÄ› i kaÅ¾dÃ© dalÅ¡Ã­ procento stÃ¡t vÃ­ce dovednostnÃ­ch bodÅ¯.}
+{132}{}{Na maximÃ¡lnÃ­ Ãºrovni.}
+{133}{}{Nelze zvÃ½Å¡it.}
+{134}{}{Na minimÃ¡lnÃ­ Ãºrovni.}
+{135}{}{Nelze snÃ­Å¾it.}
+{136}{}{NemÃ¡Å¡ dost dovednostnÃ­ch bodÅ¯.}
 {137}{}{Base:}
 {138}{}{TALENTY}
-{139}{}{CHARAKTEROVÉ RYSY}
-{140}{}{Tvá postava mùe mít maximálnì}
-{141}{}{tøi talenty!}
-{142}{}{Pøed zaèátkem hry si musíš vybrat}
-{143}{}{vlastnosti v rozmezí 1 a 10!}
+{139}{}{CHARAKTEROVÃ‰ RYSY}
+{140}{}{TvÃ¡ postava mÅ¯Å¾e mÃ­t maximÃ¡lnÄ›}
+{141}{}{tÅ™i talenty!}
+{142}{}{PÅ™ed zaÄÃ¡tkem hry si musÃ­Å¡ vybrat}
+{143}{}{vlastnosti v rozmezÃ­ 1 aÅ¾ 10!}
 {144}{}{Talenty}
-{145}{}{Talenty jsou dovednosti, na které se tvá postava specializuje. U kadého talentu získá postava do zaèátku bonus +20% a zároveò se v nìm zdokonaluje dvojnásobnì rychle. Musíš vybrat tøi.}
-{146}{}{Charakterové rysy}
-{147}{}{Charakterové rysy popisují tvou postavu do vìtších podrobností. Kadı z nich má pozitivní i negativní efekty. Bìhem tvorby postavy si mùeš zvolit dva.}
-{148}{}{Tvá postava mùe mít maximálnì}
-{149}{}{dva charakterové rysy!}
+{145}{}{Talenty jsou dovednosti, na kterÃ© se tvÃ¡ postava specializuje. U kaÅ¾dÃ©ho talentu zÃ­skÃ¡ postava do zaÄÃ¡tku bonus +20% a zÃ¡roveÅˆ se v nÄ›m zdokonaluje dvojnÃ¡sobnÄ› rychle. MusÃ­Å¡ vybrat tÅ™i.}
+{146}{}{CharakterovÃ© rysy}
+{147}{}{CharakterovÃ© rysy popisujÃ­ tvou postavu do vÄ›tÅ¡Ã­ch podrobnostÃ­. KaÅ¾dÃ½ z nich mÃ¡ pozitivnÃ­ i negativnÃ­ efekty. BÄ›hem tvorby postavy si mÅ¯Å¾eÅ¡ zvolit dva.}
+{148}{}{TvÃ¡ postava mÅ¯Å¾e mÃ­t maximÃ¡lnÄ›}
+{149}{}{dva charakterovÃ© rysy!}
 {150}{}{Dovednosti}
-{151}{}{Dovednosti jsou odborné znalosti. Dovednosti se zlepšují zkušenostmi nebo speciálními událostmi bìhem hry. Èím je dovednost vyšší, tím je tvá postava v daném oboru lepší.}
+{151}{}{Dovednosti jsou odbornÃ© znalosti. Dovednosti se zlepÅ¡ujÃ­ zkuÅ¡enostmi nebo speciÃ¡lnÃ­mi udÃ¡lostmi bÄ›hem hry. ÄŒÃ­m je dovednost vyÅ¡Å¡Ã­, tÃ­m je tvÃ¡ postava v danÃ©m oboru lepÅ¡Ã­.}
 {152}{}{VYBER SI PERK}
 {153}{}{VYBER SI RYS}
-{154}{}{ZRUŠ RYS}
+{154}{}{ZRUÅ  RYS}
 {155}{}{VYBER SI TALENT}
 {156}{}{RYSY}
-{157}{}{Pøed zaèátkem hry musí bıt všechny}
-{158}{}{vlastnosti v rozmezí 1 a 10!}
-{160}{}{Upozornìní: Nezmìnil jsi jméno postavy.}
-{161}{}{Chceš ji opravdu pouít?}
-{175}{}{Další úroveò:}
-{200}{}{Ubohé}
-{201}{}{Hrozné}
-{202}{}{Špatné}
-{203}{}{Slušné}
-{204}{}{Prùmìr}
-{205}{}{Dobré}
+{157}{}{PÅ™ed zaÄÃ¡tkem hry musÃ­ bÃ½t vÅ¡echny}
+{158}{}{vlastnosti v rozmezÃ­ 1 aÅ¾ 10!}
+{160}{}{UpozornÄ›nÃ­: NezmÄ›nil jsi jmÃ©no postavy.}
+{161}{}{ChceÅ¡ ji opravdu pouÅ¾Ã­t?}
+{175}{}{DalÅ¡Ã­ ÃºroveÅˆ:}
+{200}{}{UbohÃ©}
+{201}{}{HroznÃ©}
+{202}{}{Å patnÃ©}
+{203}{}{SluÅ¡nÃ©}
+{204}{}{PrÅ¯mÄ›r}
+{205}{}{DobrÃ©}
 {206}{}{Bezva}
-{207}{}{Skvìlé}
-{208}{}{Skvìlé}
-{209}{}{Úasné}
+{207}{}{SkvÄ›lÃ©}
+{208}{}{SkvÄ›lÃ©}
+{209}{}{ÃšÅ¾asnÃ©}
 {300}{editor}{Hit body}
-{301}{}{Akèní body}
-{302}{editor}{Tøída zbroje}
-{303}{}{Boj beze zbranì}
-{304}{}{Boj zblízka}
-{305}{}{Odol. v. pošk.}
+{301}{}{AkÄnÃ­ body}
+{302}{editor}{TÅ™Ã­da zbroje}
+{303}{}{Boj beze zbranÄ›}
+{304}{}{Boj zblÃ­zka}
+{305}{}{Odol. v. poÅ¡k.}
 {306}{}{Odol. v. jedu}
 {307}{}{Odol. v. radiaci}
-{308}{editor}{Postøeh}
-{309}{editor}{Rychlost uzdravování}
-{310}{editor}{Šance na kritickı zásah}
+{308}{editor}{PostÅ™eh}
+{309}{editor}{Rychlost uzdravovÃ¡nÃ­}
+{310}{editor}{Å ance na kritickÃ½ zÃ¡sah}
 {311}{editor}{Nosnost}
 {312}{}{Otrava}
-{313}{}{Ozáøení}
-{314}{}{Poškozenı zrak}
-{315}{}{Zmrzaè. pravá ruka}
-{316}{}{Zmrzaè. levá ruka}
-{317}{}{Zmrzaè. pravá noha}
-{318}{}{Zmrzaè. levá noha}
-{400}{}{Tvá postava byla otrávena. Jed tì bude v pravidelnıch intervalech zraòovat, dokud se nevyléèíš nebo dokud se nedostane z tvého krevního obìhu. K vyléèení uij protijed nebo dlouhı spánek.}
-{401}{}{Tvá postava trpí nemocí z ozáøení. Pro zjištìní aktuálního stupnì ozáøení pouij Geigerùv poèítaè. Hodnoty nad 150 radù ovlivní tvé zákl. vlastnosti. Nad 1000 radù je nutná léèba do 24 hodin, jinak postava zemøe.}
-{402}{}{Tvá postava byla vánì zasaena do jednoho nebo obou oèí. To má bohuel negativní vliv na tvé VNÍMÁNÍ. Tvá pøesnost v boji se vıraznì sníí. K vyléèení pouij dovednost "Léèení" a potøebné lékaøské vybavení.}
-{403}{}{Tvá pravá ruka je zmrzaèena. Pokud máš zmrzaèenou jednu ruku, nemùeš pouívat obouruèní zbranì. Pokud obì, nemùeš pouívat ádnou zbraò. Pouij dovednost "Léèení" a potøebné lékaøské vybavení nebo navštiv doktora.}
-{404}{}{Tvá levá ruka je zmrzaèena. Pokud máš zmrzaèenou jednu ruku, nemùeš pouívat obouruèní zbranì. Pokud obì, nemùeš pouívat ádnou zbraò. Pouij dovednost "Léèení" a potøebné lékaøské vybavení nebo navštiv doktora.}
-{405}{}{Tvá pravá noha je zmrzaèena. Pokud máš zmrzaèenou nohu, nemùeš bìhat. V boji také spotøebuješ více akèních bodù na pohyb. K vyléèení pouij dovednost "Léèení" a potøebné lékaøské vybavení nebo navštiv doktora.}
-{406}{}{Tvá levá noha je zmrzaèena. Pokud máš zmrzaèenou nohu, nemùeš bìhat. V boji také spotøebuješ více akèních bodù na pohyb. K vyléèení pouij dovednost "Léèení" a potøebné lékaøské vybavení nebo navštiv doktora.}
+{313}{}{OzÃ¡Å™enÃ­}
+{314}{}{PoÅ¡kozenÃ½ zrak}
+{315}{}{ZmrzaÄ. pravÃ¡ ruka}
+{316}{}{ZmrzaÄ. levÃ¡ ruka}
+{317}{}{ZmrzaÄ. pravÃ¡ noha}
+{318}{}{ZmrzaÄ. levÃ¡ noha}
+{400}{}{TvÃ¡ postava byla otrÃ¡vena. Jed tÄ› bude v pravidelnÃ½ch intervalech zraÅˆovat, dokud se nevylÃ©ÄÃ­Å¡ nebo dokud se nedostane z tvÃ©ho krevnÃ­ho obÄ›hu. K vylÃ©ÄenÃ­ uÅ¾ij protijed nebo dlouhÃ½ spÃ¡nek.}
+{401}{}{TvÃ¡ postava trpÃ­ nemocÃ­ z ozÃ¡Å™enÃ­. Pro zjiÅ¡tÄ›nÃ­ aktuÃ¡lnÃ­ho stupnÄ› ozÃ¡Å™enÃ­ pouÅ¾ij GeigerÅ¯v poÄÃ­taÄ. Hodnoty nad 150 radÅ¯ ovlivnÃ­ tvÃ© zÃ¡kl. vlastnosti. Nad 1000 radÅ¯ je nutnÃ¡ lÃ©Äba do 24 hodin, jinak postava zemÅ™e.}
+{402}{}{TvÃ¡ postava byla vÃ¡Å¾nÄ› zasaÅ¾ena do jednoho nebo obou oÄÃ­. To mÃ¡ bohuÅ¾el negativnÃ­ vliv na tvÃ© VNÃMÃNÃ. TvÃ¡ pÅ™esnost v boji se vÃ½raznÄ› snÃ­Å¾Ã­. K vylÃ©ÄenÃ­ pouÅ¾ij dovednost "LÃ©ÄenÃ­" a potÅ™ebnÃ© lÃ©kaÅ™skÃ© vybavenÃ­.}
+{403}{}{TvÃ¡ pravÃ¡ ruka je zmrzaÄena. Pokud mÃ¡Å¡ zmrzaÄenou jednu ruku, nemÅ¯Å¾eÅ¡ pouÅ¾Ã­vat obouruÄnÃ­ zbranÄ›. Pokud obÄ›, nemÅ¯Å¾eÅ¡ pouÅ¾Ã­vat Å¾Ã¡dnou zbraÅˆ. PouÅ¾ij dovednost "LÃ©ÄenÃ­" a potÅ™ebnÃ© lÃ©kaÅ™skÃ© vybavenÃ­ nebo navÅ¡tiv doktora.}
+{404}{}{TvÃ¡ levÃ¡ ruka je zmrzaÄena. Pokud mÃ¡Å¡ zmrzaÄenou jednu ruku, nemÅ¯Å¾eÅ¡ pouÅ¾Ã­vat obouruÄnÃ­ zbranÄ›. Pokud obÄ›, nemÅ¯Å¾eÅ¡ pouÅ¾Ã­vat Å¾Ã¡dnou zbraÅˆ. PouÅ¾ij dovednost "LÃ©ÄenÃ­" a potÅ™ebnÃ© lÃ©kaÅ™skÃ© vybavenÃ­ nebo navÅ¡tiv doktora.}
+{405}{}{TvÃ¡ pravÃ¡ noha je zmrzaÄena. Pokud mÃ¡Å¡ zmrzaÄenou nohu, nemÅ¯Å¾eÅ¡ bÄ›hat. V boji takÃ© spotÅ™ebujeÅ¡ vÃ­ce akÄnÃ­ch bodÅ¯ na pohyb. K vylÃ©ÄenÃ­ pouÅ¾ij dovednost "LÃ©ÄenÃ­" a potÅ™ebnÃ© lÃ©kaÅ™skÃ© vybavenÃ­ nebo navÅ¡tiv doktora.}
+{406}{}{TvÃ¡ levÃ¡ noha je zmrzaÄena. Pokud mÃ¡Å¡ zmrzaÄenou nohu, nemÅ¯Å¾eÅ¡ bÄ›hat. V boji takÃ© spotÅ™ebujeÅ¡ vÃ­ce akÄnÃ­ch bodÅ¯ na pohyb. K vylÃ©ÄenÃ­ pouÅ¾ij dovednost "LÃ©ÄenÃ­" a potÅ™ebnÃ© lÃ©kaÅ™skÃ© vybavenÃ­ nebo navÅ¡tiv doktora.}
 {500}{}{Leden}
-{501}{}{Únor}
-{502}{}{Bøezen}
+{501}{}{Ãšnor}
+{502}{}{BÅ™ezen}
 {503}{}{Duben}
-{504}{}{Kvìten}
-{505}{}{Èerven}
-{506}{}{Èervenec}
+{504}{}{KvÄ›ten}
+{505}{}{ÄŒerven}
+{506}{}{ÄŒervenec}
 {507}{}{Srpen}
-{508}{}{Záøí}
-{509}{}{Øíjen}
+{508}{}{ZÃ¡Å™Ã­}
+{509}{}{Å˜Ã­jen}
 {510}{}{Listopad}
 {511}{}{Prosinec}
-{600}{}{ULOIT}
-{601}{}{NAÈÍST}
+{600}{}{ULOÅ½IT}
+{601}{}{NAÄŒÃST}
 {602}{}{EXPORT}
 {603}{}{VYMAZAT}
 {604}{}{[KONEC]}
-{605}{}{Opravdu chceš tuto postavu}
-{606}{}{vymazat a zaèít znovu?}
-{607}{}{ byl úspìšnì uloen.}
-{608}{}{ byl úspìšnì naèten.}
-{609}{}{u existuje.}
-{610}{}{Chceš soubor pøepsat?}
-{611}{}{Chyba ukládání }
-{612}{}{Chyba naèítání }
-{613}{}{Soubor s postavou je poškozenı.}
-{614}{}{Data postavy jsou poškozena.}
-{615}{}{Chyba pøi ètení seznamu souborù!}
+{605}{}{Opravdu chceÅ¡ tuto postavu}
+{606}{}{vymazat a zaÄÃ­t znovu?}
+{607}{}{ byl ÃºspÄ›Å¡nÄ› uloÅ¾en.}
+{608}{}{ byl ÃºspÄ›Å¡nÄ› naÄten.}
+{609}{}{uÅ¾ existuje.}
+{610}{}{ChceÅ¡ soubor pÅ™epsat?}
+{611}{}{Chyba uklÃ¡dÃ¡nÃ­ }
+{612}{}{Chyba naÄÃ­tÃ¡nÃ­ }
+{613}{}{Soubor s postavou je poÅ¡kozenÃ½.}
+{614}{}{Data postavy jsou poÅ¡kozena.}
+{615}{}{Chyba pÅ™i ÄtenÃ­ seznamu souborÅ¯!}
 {616}{}{TISK}
-{617}{}{HRÁÈ}
+{617}{}{HRÃÄŒ}
 {618}{}{BLANK.GCD}
 {620}{}{FALLOUT 2}
-{621}{}{OSOBNÍ ZÁZNAMY VAULTU 13}
+{621}{}{OSOBNÃ ZÃZNAMY VAULTU 13}
 {622}{}{hodin}
 {623}{}{ ::: Statistika :::}
-{624}{}{       Síla:}
+{624}{}{       SÃ­la:}
 {625}{}{            Hit body:}
-{626}{}{        Postøeh:}
-{627}{}{    Vnímání:}
-{628}{}{        Tøída zbroje:}
-{629}{}{        Uzdravování:}
+{626}{}{        PostÅ™eh:}
+{627}{}{    VnÃ­mÃ¡nÃ­:}
+{628}{}{        TÅ™Ã­da zbroje:}
+{629}{}{        UzdravovÃ¡nÃ­:}
 {630}{}{   Odolnost:}
-{631}{}{          Akèní body:}
-{632}{}{      Kritickı zásah:}
+{631}{}{          AkÄnÃ­ body:}
+{632}{}{      KritickÃ½ zÃ¡sah:}
 {633}{}{   Charisma:}
-{634}{}{         Boj zblízka:}
+{634}{}{         Boj zblÃ­zka:}
 {635}{}{             Nosnost:}
 {636}{}{Inteligence:}
-{637}{}{    Odol. v. zranìní:}
+{637}{}{    Odol. v. zranÄ›nÃ­:}
 {638}{}{    Hbitost:}
 {639}{}{    Odol. v. radiaci:}
-{640}{}{     Štìstí:}
-{641}{}{      Odol. v. jedùm:}
-{642}{}{  Jméno:}
-{643}{}{Vìk:}
-{644}{}{                   Pohlaví:}
-{645}{}{Mu}
-{646}{}{ena}
-{647}{}{ Úroveò:}
-{648}{}{        Zkušenosti:}
-{649}{}{   Další úroveò:}
+{640}{}{     Å tÄ›stÃ­:}
+{641}{}{      Odol. v. jedÅ¯m:}
+{642}{}{  JmÃ©no:}
+{643}{}{VÄ›k:}
+{644}{}{                   PohlavÃ­:}
+{645}{}{MuÅ¾}
+{646}{}{Å½ena}
+{647}{}{ ÃšroveÅˆ:}
+{648}{}{        ZkuÅ¡enosti:}
+{649}{}{   DalÅ¡Ã­ ÃºroveÅˆ:}
 {650}{}{ ::: Rysy :::}
 {651}{}{ ::: Perky :::}
 {652}{}{ ::: Karma :::}
-{653}{}{ ::: Dovednosti :::                ::: Záøezy :::}
-{654}{}{  ::: Inventáø :::}
-{655}{}{  Celková váha:}
-{656}{}{ ::: Závislosti :::}
+{653}{}{ ::: Dovednosti :::                ::: ZÃ¡Å™ezy :::}
+{654}{}{  ::: InventÃ¡Å™ :::}
+{655}{}{  CelkovÃ¡ vÃ¡ha:}
+{656}{}{ ::: ZÃ¡vislosti :::}
 {657}{}{   ::: Reputace :::}
-{1000}{}{Reputace (Obecnì) }
+{1000}{}{Reputace (ObecnÄ›) }
 {1001}{}{Berserk}
-{1002}{}{Šampión}
-{1003}{}{Vrah dìtí}
-{1004}{}{Závislost na Nuka Cole}
-{1005}{}{Závislost na Buffoutu}
-{1006}{}{Závislost na Mentats}
-{1007}{}{Závislost na Psycho}
-{1008}{}{Závislost na RadAway}
-{1009}{}{Závislost na alkoholu}
-{1010}{}{Závislost na Jetu}
-{1011}{}{Závislost na høe Tragic}
+{1002}{}{Å ampiÃ³n}
+{1003}{}{Vrah dÄ›tÃ­}
+{1004}{}{ZÃ¡vislost na Nuka Cole}
+{1005}{}{ZÃ¡vislost na Buffoutu}
+{1006}{}{ZÃ¡vislost na Mentats}
+{1007}{}{ZÃ¡vislost na Psycho}
+{1008}{}{ZÃ¡vislost na RadAway}
+{1009}{}{ZÃ¡vislost na alkoholu}
+{1010}{}{ZÃ¡vislost na Jetu}
+{1011}{}{ZÃ¡vislost na hÅ™e Tragic}
 {1012}{}{THIS GOES WITH THE TEMPORARY ONE FOR DESCRIPTIONS #1112: DON'T TRANSLATE THIS}
 {1013}{}{Sexpert}
-{1014}{}{Profesionální boxer}
+{1014}{}{ProfesionÃ¡lnÃ­ boxer}
 {1015}{}{Gigolo}
-{1016}{}{Vykradaè hrobù}
-{1017}{}{Èlen rodiny Salvatore}
-{1018}{}{enatı/Vdaná}
-{1019}{}{Pornohvìzda}
-{1020}{}{Otrokáø}
-{1021}{}{Pouštní panic}
-{1022}{}{Èlen rodiny Bishopù}
-{1023}{}{Èlen rodiny Mordino}
-{1024}{}{Èlen rodiny Wrightù}
-{1025}{}{Rozvedenı(á)}
-{1026}{}{Kuøák}
-{1100}{}{Tato poloka reprezentuje tvoji obecnou reputaci. Èím je èíslo vyšší, tím jsi známìjší a uznávanìjší. Pokud je tvá reputace negativní, lidé tì za tvé zloèiny nenávidí.}
-{1101}{}{Zabil jsi spoustu lidí. A to není moc dobrı zpùsob, jak se proslavit. Lidé z podsvìtí si tì ale váí a respektují tì.}
-{1102}{}{Tvé èiny z tebe udìlaly v oèích lidí šampióna. Tvùj boj se zlem a hanebností je všeobecnì známı. Èestní lidé si tì váí a uznávají tì.}
-{1103}{}{Co ti k tomu mám øíct? Zabíjíš nevinné a neozbrojené dìti. Chceš opravdu slyšet, co si o tobì myslíme?}
-{1104}{}{Umíš si dùkladnì vychutnat Nuka Colu, nealko nápoj postnukleárního svìta. Moná a moc dùkladnì. Pokud se chceš závislosti zbavit, pomùe ti jen dlouhá abstinence.}
+{1016}{}{VykradaÄ hrobÅ¯}
+{1017}{}{ÄŒlen rodiny Salvatore}
+{1018}{}{Å½enatÃ½/VdanÃ¡}
+{1019}{}{PornohvÄ›zda}
+{1020}{}{OtrokÃ¡Å™}
+{1021}{}{PouÅ¡tnÃ­ panic}
+{1022}{}{ÄŒlen rodiny BishopÅ¯}
+{1023}{}{ÄŒlen rodiny Mordino}
+{1024}{}{ÄŒlen rodiny WrightÅ¯}
+{1025}{}{RozvedenÃ½(Ã¡)}
+{1026}{}{KuÅ™Ã¡k}
+{1100}{}{Tato poloÅ¾ka reprezentuje tvoji obecnou reputaci. ÄŒÃ­m je ÄÃ­slo vyÅ¡Å¡Ã­, tÃ­m jsi znÃ¡mÄ›jÅ¡Ã­ a uznÃ¡vanÄ›jÅ¡Ã­. Pokud je tvÃ¡ reputace negativnÃ­, lidÃ© tÄ› za tvÃ© zloÄiny nenÃ¡vidÃ­.}
+{1101}{}{Zabil jsi spoustu lidÃ­. A to nenÃ­ moc dobrÃ½ zpÅ¯sob, jak se proslavit. LidÃ© z podsvÄ›tÃ­ si tÄ› ale vÃ¡Å¾Ã­ a respektujÃ­ tÄ›.}
+{1102}{}{TvÃ© Äiny z tebe udÄ›laly v oÄÃ­ch lidÃ­ Å¡ampiÃ³na. TvÅ¯j boj se zlem a hanebnostÃ­ je vÅ¡eobecnÄ› znÃ¡mÃ½. ÄŒestnÃ­ lidÃ© si tÄ› vÃ¡Å¾Ã­ a uznÃ¡vajÃ­ tÄ›.}
+{1103}{}{Co ti k tomu mÃ¡m Å™Ã­ct? ZabÃ­jÃ­Å¡ nevinnÃ© a neozbrojenÃ© dÄ›ti. ChceÅ¡ opravdu slyÅ¡et, co si o tobÄ› myslÃ­me?}
+{1104}{}{UmÃ­Å¡ si dÅ¯kladnÄ› vychutnat Nuka Colu, nealko nÃ¡poj postnukleÃ¡rnÃ­ho svÄ›ta. MoÅ¾nÃ¡ aÅ¾ moc dÅ¯kladnÄ›. Pokud se chceÅ¡ zÃ¡vislosti zbavit, pomÅ¯Å¾e ti jen dlouhÃ¡ abstinence.}
 {1105}{}{You are addicted to the drug Buffout. You must take this drug on an ongoing basis or suffer the effects of withdrawal.}
 {1106}{}{You are suffering from Mentat addiction. You must take this particular drug or suffer withdrawal.}
 {1107}{}{You have a drug addiction. If you do not take Psycho on a regular schedule, you will suffer. If you do, others will suffer.}
 {1108}{}{Your body has become addicted to RadAway. While not life threatening, you must take it regularly.}
-{1109}{}{Máš menší problém s alkoholem. No, vlastnì je to spíš vìtší problém. Pokud se chceš závislosti zbavit, pomùe ti jen dlouhá abstinence.}
+{1109}{}{MÃ¡Å¡ menÅ¡Ã­ problÃ©m s alkoholem. No, vlastnÄ› je to spÃ­Å¡ vÄ›tÅ¡Ã­ problÃ©m. Pokud se chceÅ¡ zÃ¡vislosti zbavit, pomÅ¯Å¾e ti jen dlouhÃ¡ abstinence.}
 {1110}{}{You have a drug addiction. You must take Jet on a regular basis.}
-{1111}{}{Bohuel, u je to tak. Jsi závislı na karetní høe "Tragic the Garnering". Cítíš neustálé nutkání shánìt nové a nové sady karet.}
+{1111}{}{BohuÅ¾el, uÅ¾ je to tak. Jsi zÃ¡vislÃ½ na karetnÃ­ hÅ™e "Tragic the Garnering". CÃ­tÃ­Å¡ neustÃ¡lÃ© nutkÃ¡nÃ­ shÃ¡nÄ›t novÃ© a novÃ© sady karet.}
 {1112}{}{TEMPORARY - What is this?}
-{1113}{}{Víš o sexu všechno. Obzvláš pøedehra je tvou silnou stránkou. Víš, jak potìšit pøíslušníka opaèného pohlaví a vzbudit v nìm touhu si to s tebou zopakovat.}
-{1114}{}{Jsi šampiónem severní Kalifornie v tìké váze. Získal sis slávu, obdiv i lásku tisícù fanouškù... a taky bonus k "Odolnosti vùèi poškození" a dovednosti "Boj beze zbranì".}
-{1115}{}{Buï k sobì upøímnı: Jsi ochotnı spát s èímkoliv, co má dvì nohy. A èas od èasu ti poèet dolních konèetin pøijde jako nechutnì diskriminující faktor.}
-{1116}{}{"Jsou mrtví, tak jim to mùe bıt ukradené" zní tvé heslo. Vykopávání mrtvol je pro tebe víc ne jen koníèek.}
-{1117}{}{Jsi váenım èlenem rodiny Salvatore. Kadı tì zná, kadı tì respektuje a v tom klobouku vypadáš zatracenì dobøe.}
-{1118}{}{Nechal ses dotáhnout k oltáøi. Nekoukej se tak, to je tvùj problém, ne náš.}
-{1119}{}{Jsi veliká a záøivá hvìzda domácího videa. Tvoje sexuální vıkony, tváø a velikost tvıch pohlavních orgánù jsou známé v celém New Renu.}
-{1120}{}{Byl jsi oznaèen jako èlen Cechu otrokáøù. Máš na èele tetování a tak kadı, kdo tì potká, hned ví, s kım má tu èest.}
-{1121}{}{No, opravdu by sis mìl nìkteré vìci asi trochu víc procvièit. Tvoje sexuální vıkony byly mírnì øeèeno... neuspokojivé.}
-{1122}{}{Jsi váenım èlenem Rodiny Bishopù. Kadı tì zná, kadı tì respektuje a v tom klobouku vypadáš zatracenì dobøe.}
-{1123}{}{Jsi váenım èlenem Rodiny Mordino. Kadı tì zná, kadı tì respektuje a v tom klobouku vypadáš zatracenì dobøe.}
-{1124}{}{Jsi váenım èlenem Rodiny Wrightù. Kadı tì zná, kadı tì respektuje a v tom klobouku vypadáš zatracenì dobøe.}
-{1125}{}{Tvá drahá polovièka je u navdy pryè. Snad teï budeš šastnìjší.}
-{1126}{}{Jsi závislı na nikotinu. Øíkají, e tì to jednou zabije, ale zatím vùbec nevypadáš jako mrtvola. Navíc je to dobrı zpùsob, jak v tomto postapokalyptickém svìtì vypadat zatracenì dobøe.}
+{1113}{}{VÃ­Å¡ o sexu vÅ¡echno. ObzvlÃ¡Å¡Å¥ pÅ™edehra je tvou silnou strÃ¡nkou. VÃ­Å¡, jak potÄ›Å¡it pÅ™Ã­sluÅ¡nÃ­ka opaÄnÃ©ho pohlavÃ­ a vzbudit v nÄ›m touhu si to s tebou zopakovat.}
+{1114}{}{Jsi Å¡ampiÃ³nem severnÃ­ Kalifornie v tÄ›Å¾kÃ© vÃ¡ze. ZÃ­skal sis slÃ¡vu, obdiv i lÃ¡sku tisÃ­cÅ¯ fanouÅ¡kÅ¯... a taky bonus k "Odolnosti vÅ¯Äi poÅ¡kozenÃ­" a dovednosti "Boj beze zbranÄ›".}
+{1115}{}{BuÄ k sobÄ› upÅ™Ã­mnÃ½: Jsi ochotnÃ½ spÃ¡t s ÄÃ­mkoliv, co mÃ¡ dvÄ› nohy. A Äas od Äasu ti poÄet dolnÃ­ch konÄetin pÅ™ijde jako nechutnÄ› diskriminujÃ­cÃ­ faktor.}
+{1116}{}{"Jsou mrtvÃ­, tak jim to mÅ¯Å¾e bÃ½t ukradenÃ©" znÃ­ tvÃ© heslo. VykopÃ¡vÃ¡nÃ­ mrtvol je pro tebe vÃ­c neÅ¾ jen konÃ­Äek.}
+{1117}{}{Jsi vÃ¡Å¾enÃ½m Älenem rodiny Salvatore. KaÅ¾dÃ½ tÄ› znÃ¡, kaÅ¾dÃ½ tÄ› respektuje a v tom klobouku vypadÃ¡Å¡ zatracenÄ› dobÅ™e.}
+{1118}{}{Nechal ses dotÃ¡hnout k oltÃ¡Å™i. Nekoukej se tak, to je tvÅ¯j problÃ©m, ne nÃ¡Å¡.}
+{1119}{}{Jsi velikÃ¡ a zÃ¡Å™ivÃ¡ hvÄ›zda domÃ¡cÃ­ho videa. Tvoje sexuÃ¡lnÃ­ vÃ½kony, tvÃ¡Å™ a velikost tvÃ½ch pohlavnÃ­ch orgÃ¡nÅ¯ jsou znÃ¡mÃ© v celÃ©m New Renu.}
+{1120}{}{Byl jsi oznaÄen jako Älen Cechu otrokÃ¡Å™Å¯. MÃ¡Å¡ na Äele tetovÃ¡nÃ­ a tak kaÅ¾dÃ½, kdo tÄ› potkÃ¡, hned vÃ­, s kÃ½m mÃ¡ tu Äest.}
+{1121}{}{No, opravdu by sis mÄ›l nÄ›kterÃ© vÄ›ci asi trochu vÃ­c procviÄit. Tvoje sexuÃ¡lnÃ­ vÃ½kony byly mÃ­rnÄ› Å™eÄeno... neuspokojivÃ©.}
+{1122}{}{Jsi vÃ¡Å¾enÃ½m Älenem Rodiny BishopÅ¯. KaÅ¾dÃ½ tÄ› znÃ¡, kaÅ¾dÃ½ tÄ› respektuje a v tom klobouku vypadÃ¡Å¡ zatracenÄ› dobÅ™e.}
+{1123}{}{Jsi vÃ¡Å¾enÃ½m Älenem Rodiny Mordino. KaÅ¾dÃ½ tÄ› znÃ¡, kaÅ¾dÃ½ tÄ› respektuje a v tom klobouku vypadÃ¡Å¡ zatracenÄ› dobÅ™e.}
+{1124}{}{Jsi vÃ¡Å¾enÃ½m Älenem Rodiny WrightÅ¯. KaÅ¾dÃ½ tÄ› znÃ¡, kaÅ¾dÃ½ tÄ› respektuje a v tom klobouku vypadÃ¡Å¡ zatracenÄ› dobÅ™e.}
+{1125}{}{TvÃ¡ drahÃ¡ poloviÄka je uÅ¾ navÅ¾dy pryÄ. Snad teÄ budeÅ¡ Å¡Å¥astnÄ›jÅ¡Ã­.}
+{1126}{}{Jsi zÃ¡vislÃ½ na nikotinu. Å˜Ã­kajÃ­, Å¾e tÄ› to jednou zabije, ale zatÃ­m vÅ¯bec nevypadÃ¡Å¡ jako mrtvola. NavÃ­c je to dobrÃ½ zpÅ¯sob, jak v tomto postapokalyptickÃ©m svÄ›tÄ› vypadat zatracenÄ› dobÅ™e.}
 {2000}{}{Idol}
-{2001}{}{Oblíbenı}
-{2002}{}{Uznávanı}
-{2003}{}{Neutrál}
-{2004}{}{Neoblíbenı}
-{2005}{}{Nenávidìnı}
-{2006}{}{Nepøítel è.1}
-{2100}{}{Kadı na tomto místì chce bıt jako ty. Jsi miláèkem mìsta a pro všechny záønım pøíkladem a ukázkou toho, jak vypadá opravdovı hrdina.}
-{2101}{}{Lidé tì vítají a oslavují, kdykoliv jen vejdeš na toto místo. Všichni o tobì slyšeli a všichni tì mají rádi.}
-{2102}{}{Aèkoliv nejsi vítán pøímo s otevøenou náruèí, vìtšina lidí ti v tomto místì na pozdrav odpoví. Nejsi pro nì však nijak zvláš vıjimeènı.}
-{2103}{}{Aèkoliv jsou obvykle vùèi cizincùm podezøívaví, proti tobì lidé na tomto místì nic nemají. Zatím.}
-{2104}{}{Pro lidi v tomto místì jsi jen dalším cizincem. Nutno dodat, e nijak zvláš vítanım.}
-{2105}{}{Lidem na tomto místì jsi dokázal, e jejich poèáteèní odpor vùèi tobì byl víc ne oprávnìnı. Všichni zmlknou, kdy se k nim pøiblííš. Vìdí, e tvá pøítomnost nevìstí nic dobrého.}
-{2106}{}{Kdy kráèíš ulicí, všichni zmlknou a s nenávistí a strachem tì pozorují. Kadı se ti snaí vyhnout. Všichni ví, e ty jsi ta nejhorší vìc, která kdy vkroèila na toto místo.}
-{3000}{}{Ochránce zatracenıch}
-{3001}{}{Stráce pouštì}
-{3002}{}{Štít nadìje}
-{3003}{}{Obránce}
-{3004}{}{Poutník}
-{3005}{}{Zrádce}
-{3006}{}{Meè zoufalství}
-{3007}{}{Postrach pouštì}
-{3008}{}{Ïáblùv spratek}
+{2001}{}{OblÃ­benÃ½}
+{2002}{}{UznÃ¡vanÃ½}
+{2003}{}{NeutrÃ¡l}
+{2004}{}{NeoblÃ­benÃ½}
+{2005}{}{NenÃ¡vidÄ›nÃ½}
+{2006}{}{NepÅ™Ã­tel Ä.1}
+{2100}{}{KaÅ¾dÃ½ na tomto mÃ­stÄ› chce bÃ½t jako ty. Jsi milÃ¡Äkem mÄ›sta a pro vÅ¡echny zÃ¡Å™nÃ½m pÅ™Ã­kladem a ukÃ¡zkou toho, jak vypadÃ¡ opravdovÃ½ hrdina.}
+{2101}{}{LidÃ© tÄ› vÃ­tajÃ­ a oslavujÃ­, kdykoliv jen vejdeÅ¡ na toto mÃ­sto. VÅ¡ichni o tobÄ› slyÅ¡eli a vÅ¡ichni tÄ› majÃ­ rÃ¡di.}
+{2102}{}{AÄkoliv nejsi vÃ­tÃ¡n pÅ™Ã­mo s otevÅ™enou nÃ¡ruÄÃ­, vÄ›tÅ¡ina lidÃ­ ti v tomto mÃ­stÄ› na pozdrav odpovÃ­. Nejsi pro nÄ› vÅ¡ak nijak zvlÃ¡Å¡Å¥ vÃ½jimeÄnÃ½.}
+{2103}{}{AÄkoliv jsou obvykle vÅ¯Äi cizincÅ¯m podezÅ™Ã­vavÃ­, proti tobÄ› lidÃ© na tomto mÃ­stÄ› nic nemajÃ­. ZatÃ­m.}
+{2104}{}{Pro lidi v tomto mÃ­stÄ› jsi jen dalÅ¡Ã­m cizincem. Nutno dodat, Å¾e nijak zvlÃ¡Å¡Å¥ vÃ­tanÃ½m.}
+{2105}{}{Lidem na tomto mÃ­stÄ› jsi dokÃ¡zal, Å¾e jejich poÄÃ¡teÄnÃ­ odpor vÅ¯Äi tobÄ› byl vÃ­c neÅ¾ oprÃ¡vnÄ›nÃ½. VÅ¡ichni zmlknou, kdyÅ¾ se k nim pÅ™iblÃ­Å¾Ã­Å¡. VÄ›dÃ­, Å¾e tvÃ¡ pÅ™Ã­tomnost nevÄ›stÃ­ nic dobrÃ©ho.}
+{2106}{}{KdyÅ¾ krÃ¡ÄÃ­Å¡ ulicÃ­, vÅ¡ichni zmlknou a s nenÃ¡vistÃ­ a strachem tÄ› pozorujÃ­. KaÅ¾dÃ½ se ti snaÅ¾Ã­ vyhnout. VÅ¡ichni vÃ­, Å¾e ty jsi ta nejhorÅ¡Ã­ vÄ›c, kterÃ¡ kdy vkroÄila na toto mÃ­sto.}
+{3000}{}{OchrÃ¡nce zatracenÃ½ch}
+{3001}{}{StrÃ¡Å¾ce pouÅ¡tÄ›}
+{3002}{}{Å tÃ­t nadÄ›je}
+{3003}{}{ObrÃ¡nce}
+{3004}{}{PoutnÃ­k}
+{3005}{}{ZrÃ¡dce}
+{3006}{}{MeÄ zoufalstvÃ­}
+{3007}{}{Postrach pouÅ¡tÄ›}
+{3008}{}{ÄÃ¡blÅ¯v spratek}
 {4000}{}{Reputace}
-{4001}{}{Závislosti}
-{4100}{}{Tato poloka pøedstavuje tvou povìst v rùznıch lokacích.}
-{4101}{}{Vìci, na kterıch ses stal závislı.}
-{5000}{}{Litujeme, ale svou postavu mùeš}
-{5001}{}{pouze v plné verzi hry.}
-{5002}{}{Litujeme, ale pozici mùeš uloit}
-{5003}{}{pouze v plné verzi hry.}
-{5004}{}{Litujeme, ale pozici mùeš nahrát}
-{5005}{}{pouze v plné verzi hry.}
-{5006}{}{CHEAT MÓD}
-{5007}{}{V demu není k dispozici.}
+{4001}{}{ZÃ¡vislosti}
+{4100}{}{Tato poloÅ¾ka pÅ™edstavuje tvou povÄ›st v rÅ¯znÃ½ch lokacÃ­ch.}
+{4101}{}{VÄ›ci, na kterÃ½ch ses stal zÃ¡vislÃ½.}
+{5000}{}{Litujeme, ale svou postavu mÅ¯Å¾eÅ¡}
+{5001}{}{pouze v plnÃ© verzi hry.}
+{5002}{}{Litujeme, ale pozici mÅ¯Å¾eÅ¡ uloÅ¾it}
+{5003}{}{pouze v plnÃ© verzi hry.}
+{5004}{}{Litujeme, ale pozici mÅ¯Å¾eÅ¡ nahrÃ¡t}
+{5005}{}{pouze v plnÃ© verzi hry.}
+{5006}{}{CHEAT MÃ“D}
+{5007}{}{V demu nenÃ­ k dispozici.}

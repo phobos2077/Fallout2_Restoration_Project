@@ -1,60 +1,60 @@
-{150}{}{Vidíš chlapíka v pomaèkaném obleèení. Mne si nos a nenápadnì se rozhlíí kolem.}
-{151}{}{Vidíš drogového dealera.}
-{152}{}{Vidíš drogového dealera. Vypadá to, e èeká na zákazníka.}
-{200}{}{Nazdar, hrdino! Nechceš oslavit svoje vítìzství nad Enklávou trochou toho nejlepšího Jetu? Jsem tvùj èlovìk!}
-{201}{}{Takhle se Enklávì nakopává prdel, hrdino! Nechceš toho zachraòování svìta na chvíli nechat a oslavit to trochou Jetu?}
-{202}{}{::Fandí::}
-{203}{}{::Píská::}
-{204}{}{Není nic lepšího, ne si dát trochu Jetu po zaslouenım vítìzství nad Enklávou, co øíkáš? Nemám pravdu?}
-{205}{}{Mám matroš, kterej tì dostane a do nebe, hrdino.}
-{206}{}{Nepotøebuješ píchnout?}
-{207}{}{Hrdino, kdykoliv budeš chtít trochu dobroty do mozku, pøijï za mnou. Dám ti speciální slevu, jenom pro tebe.}
-{208}{}{Vím, co hledáš, pøíteli, a taky e to mám. Mám tolik Jetu, kolik jen budeš CHTÍT.}
-{209}{}{Proè chodit po zemi, kdy mùeš lítat?}
-{210}{}{Mám ten nejèistší Jet ve mìstì. Není zrovna levnej, ale stojí za to.}
-{211}{}{Chceš lítat? Máš prachy? Pak jsem tvùj èlovìk.}
-{212}{}{Mám matroš, po kterım se budeš cítit jako v sedmım nebi, pøíteli.}
-{213}{}{Mám Jet. Hodnì Jetu. Promluvme si.}
-{214}{}{Øekni mi, jak ti mùu pomoct, hrdino. Øekni mi, co chceš a já ti dám takovou cenu, jakou ti nedá nikdo jinej široko daleko.}
-{215}{}{Chceš oslavit to vítìzství trochou Jetu, hrdino? Tak to jseš na správnım místì. PRO TEBE je všechno se slevou.}
-{216}{}{To nejmenší, co pro tebe mùu udìlat, je dát ti slevu na všechno, hrdino. Je to mùj zpùsob, jak ti podìkovat za záchranu našich zadkù.}
-{217}{}{Není nic lepšího, ne si dát trochu Jetu po  zaslouenım vítìzství nad Enklávou, co øíkáš? Nemám pravdu? Všechen mùj matroš je se slevou.}
-{218}{}{Mám matroš, po kterım se budeš cítit jako v sedmım nebi, hrdino. A speciálnì pro tebe mám parádní slevu. Co tomu øíkáš?}
-{219}{}{Ty mít dobroty? }
+{150}{}{VidÃ­Å¡ chlapÃ­ka v pomaÄkanÃ©m obleÄenÃ­. Mne si nos a nenÃ¡padnÄ› se rozhlÃ­Å¾Ã­ kolem.}
+{151}{}{VidÃ­Å¡ drogovÃ©ho dealera.}
+{152}{}{VidÃ­Å¡ drogovÃ©ho dealera. VypadÃ¡ to, Å¾e ÄekÃ¡ na zÃ¡kaznÃ­ka.}
+{200}{}{Nazdar, hrdino! NechceÅ¡ oslavit svoje vÃ­tÄ›zstvÃ­ nad EnklÃ¡vou trochou toho nejlepÅ¡Ã­ho Jetu? Jsem tvÅ¯j ÄlovÄ›k!}
+{201}{}{Takhle se EnklÃ¡vÄ› nakopÃ¡vÃ¡ prdel, hrdino! NechceÅ¡ toho zachraÅˆovÃ¡nÃ­ svÄ›ta na chvÃ­li nechat a oslavit to trochou Jetu?}
+{202}{}{::FandÃ­::}
+{203}{}{::PÃ­skÃ¡::}
+{204}{}{NenÃ­ nic lepÅ¡Ã­ho, neÅ¾ si dÃ¡t trochu Jetu po zaslouÅ¾enÃ½m vÃ­tÄ›zstvÃ­ nad EnklÃ¡vou, co Å™Ã­kÃ¡Å¡? NemÃ¡m pravdu?}
+{205}{}{MÃ¡m matroÅ¡, kterej tÄ› dostane aÅ¾ do nebe, hrdino.}
+{206}{}{NepotÅ™ebujeÅ¡ pÃ­chnout?}
+{207}{}{Hrdino, kdykoliv budeÅ¡ chtÃ­t trochu dobroty do mozku, pÅ™ijÄ za mnou. DÃ¡m ti speciÃ¡lnÃ­ slevu, jenom pro tebe.}
+{208}{}{VÃ­m, co hledÃ¡Å¡, pÅ™Ã­teli, a taky Å¾e to mÃ¡m. MÃ¡m tolik Jetu, kolik jen budeÅ¡ CHTÃT.}
+{209}{}{ProÄ chodit po zemi, kdyÅ¾ mÅ¯Å¾eÅ¡ lÃ­tat?}
+{210}{}{MÃ¡m ten nejÄistÅ¡Ã­ Jet ve mÄ›stÄ›. NenÃ­ zrovna levnej, ale stojÃ­ za to.}
+{211}{}{ChceÅ¡ lÃ­tat? MÃ¡Å¡ prachy? Pak jsem tvÅ¯j ÄlovÄ›k.}
+{212}{}{MÃ¡m matroÅ¡, po kterÃ½m se budeÅ¡ cÃ­tit jako v sedmÃ½m nebi, pÅ™Ã­teli.}
+{213}{}{MÃ¡m Jet. HodnÄ› Jetu. Promluvme si.}
+{214}{}{Å˜ekni mi, jak ti mÅ¯Å¾u pomoct, hrdino. Å˜ekni mi, co chceÅ¡ a jÃ¡ ti dÃ¡m takovou cenu, jakou ti nedÃ¡ nikdo jinej Å¡iroko daleko.}
+{215}{}{ChceÅ¡ oslavit to vÃ­tÄ›zstvÃ­ trochou Jetu, hrdino? Tak to jseÅ¡ na sprÃ¡vnÃ½m mÃ­stÄ›. PRO TEBE je vÅ¡echno se slevou.}
+{216}{}{To nejmenÅ¡Ã­, co pro tebe mÅ¯Å¾u udÄ›lat, je dÃ¡t ti slevu na vÅ¡echno, hrdino. Je to mÅ¯j zpÅ¯sob, jak ti podÄ›kovat za zÃ¡chranu naÅ¡ich zadkÅ¯.}
+{217}{}{NenÃ­ nic lepÅ¡Ã­ho, neÅ¾ si dÃ¡t trochu Jetu po  zaslouÅ¾enÃ½m vÃ­tÄ›zstvÃ­ nad EnklÃ¡vou, co Å™Ã­kÃ¡Å¡? NemÃ¡m pravdu? VÅ¡echen mÅ¯j matroÅ¡ je se slevou.}
+{218}{}{MÃ¡m matroÅ¡, po kterÃ½m se budeÅ¡ cÃ­tit jako v sedmÃ½m nebi, hrdino. A speciÃ¡lnÄ› pro tebe mÃ¡m parÃ¡dnÃ­ slevu. Co tomu Å™Ã­kÃ¡Å¡?}
+{219}{}{Ty mÃ­t dobroty? }
 {220}{}{Odbelhat se.}
-{221}{}{Co nabízíš?}
-{222}{}{Nic nechci, díky.}
-{230}{}{Páni... jsem v pøítomnosti vıznamnı osoby. Pro TEBE, kámo, mám zvláštní slevu. Jo a øekni o mnì všem svım kámošùm, jo?}
-{231}{}{Take ty si chceš dát trochu do nosu, co? Tak to jseš na správnım místì. PRO TEBE je všechno se slevou.}
-{232}{}{Mám tolik Jetu, e vyletíš a do kosmu, kámo. A speciálnì pro tebe mám parádní slevu. Tak co, dohodnem se?}
-{233}{}{Mám matroš, po kterım se budeš cítit jako v sedmım nebi, kámo. A speciálnì pro tebe mám parádní slevu. Co tomu øíkáš?}
-{234}{}{To nejmenší, co pro tebe mùu udìlat, je dát ti slevu na veškerı zboí, kámo. Je to mùj zpùsob, jak bejt pøátelskej.}
-{235}{}{Jseš tøída, víš to? Fakt tøída. A kdy je nìkdo taková tøída jako ty, dostane u mì parádní slevu, chápeš?}
-{236}{}{Øekni, jak TI mùu pomoct, pøíteli. Øekni, co potøebuješ, a já ti udìlám tu nejlepší cenu.}
-{237}{}{Po tak namáhavym dnu je trocha Jetu potøeba, co? No nemám pravdu? Pro TEBE je všechno se slevou.}
-{238}{}{Páni... jsem v pøítomnosti vıznamnı osoby. Pro TEBE mám holka zvláštní slevu. Jo a øekni o mnì všem svım kámošùm, jo?}
-{239}{}{Take ty si chceš dát trochu do nosu, holka? Tak to jseš na správnım místì. PRO TEBE je všechno se slevou.}
-{240}{}{Mám tolik Jetu, e vyletíš a do kosmu, holka. A speciálnì pro tebe mám parádní slevu. Tak co, dohodnem se?}
-{241}{}{Mám matroš, po kterım se budeš cítit jako v sedmım nebi, holka. A speciálnì pro tebe mám parádní slevu. Co tomu øíkáš?}
-{242}{}{To nejmenší, co pro tebe mùu udìlat, je dát ti slevu na veškerı zboí, holka. Je to mùj zpùsob, jak bejt pøátelskej.}
-{247}{}{Vím, co hledáš, otrokáøi, a taky e to mám. Mám tolik Jetu, kolik jen budeš CHTÍT.}
-{248}{}{Proè chodit po zemi, kdy mùeš lítat? Ty máš škváru, já mám zboí.}
-{249}{}{Mám nejèistší Jet ve mìstì, otrokáøi. Není zrovna levnej, ale stojí za to.}
-{250}{}{Chceš si zalítat, otrokáøi? Máš prachy? Pak jsem tvùj èlovìk.}
-{251}{}{Mám matroš, po kterım se budeš cítit jako v sedmım nebi, otrokáøi.}
-{252}{}{Mám Jet. Hodnì Jetu. Promluvme si.}
-{253}{}{Mám tolik Jetu, e vyletíš a do kosmu, otrokáøi. Tak co, dohodnem se?}
-{254}{}{Nepotøebuješ píchnout, otrokáøi? Mám ten nejlepší Jet široko daleko.}
-{255}{}{Sháníš Jet? Tak pojï, otrokáøi, promluvme si.}
-{256}{}{Sháníš Jet? Tak pojï, otrokáøi, ty a já hodíme øeè.}
-{261}{}{Vím, co hledáš, pøíteli, a taky e to mám. Mám tolik Jetu, kolik jen budeš CHTÍT.}
-{262}{}{Proè chodit po zemi, kdy mùeš lítat?}
-{263}{}{Mám nejèistší Jet ve mìstì, otrokáøi. Není zrovna levnej, ale stojí za to.}
-{264}{}{Chceš si zalítat? Máš prachy? Pak jsem tvùj èlovìk.}
-{265}{}{Mám matroš, po kterım se budeš cítit jako v sedmım nebi, pøíteli.}
-{266}{}{Mám Jet. Hodnì Jetu. Promluvme si.}
-{267}{}{Mám tolik Jetu, e vyletíš a do kosmu, pøíteli. Tak co, dohodnem se?}
-{268}{}{Nepotøebuješ píchnout, otrokáøi? Mám ten nejlepší Jet široko daleko.}
-{269}{}{Sháníš Jet? Tak pojïme obchodovat.}
-{270}{}{Sháníš Jet? Promluvme si.}
-{519}{}{ RÁD dobroty!}
+{221}{}{Co nabÃ­zÃ­Å¡?}
+{222}{}{Nic nechci, dÃ­ky.}
+{230}{}{PÃ¡ni... jsem v pÅ™Ã­tomnosti vÃ½znamnÃ½ osoby. Pro TEBE, kÃ¡mo, mÃ¡m zvlÃ¡Å¡tnÃ­ slevu. Jo a Å™ekni o mnÄ› vÅ¡em svÃ½m kÃ¡moÅ¡Å¯m, jo?}
+{231}{}{TakÅ¾e ty si chceÅ¡ dÃ¡t trochu do nosu, co? Tak to jseÅ¡ na sprÃ¡vnÃ½m mÃ­stÄ›. PRO TEBE je vÅ¡echno se slevou.}
+{232}{}{MÃ¡m tolik Jetu, Å¾e vyletÃ­Å¡ aÅ¾ do kosmu, kÃ¡mo. A speciÃ¡lnÄ› pro tebe mÃ¡m parÃ¡dnÃ­ slevu. Tak co, dohodnem se?}
+{233}{}{MÃ¡m matroÅ¡, po kterÃ½m se budeÅ¡ cÃ­tit jako v sedmÃ½m nebi, kÃ¡mo. A speciÃ¡lnÄ› pro tebe mÃ¡m parÃ¡dnÃ­ slevu. Co tomu Å™Ã­kÃ¡Å¡?}
+{234}{}{To nejmenÅ¡Ã­, co pro tebe mÅ¯Å¾u udÄ›lat, je dÃ¡t ti slevu na veÅ¡kerÃ½ zboÅ¾Ã­, kÃ¡mo. Je to mÅ¯j zpÅ¯sob, jak bejt pÅ™Ã¡telskej.}
+{235}{}{JseÅ¡ tÅ™Ã­da, vÃ­Å¡ to? Fakt tÅ™Ã­da. A kdyÅ¾ je nÄ›kdo takovÃ¡ tÅ™Ã­da jako ty, dostane u mÄ› parÃ¡dnÃ­ slevu, chÃ¡peÅ¡?}
+{236}{}{Å˜ekni, jak TI mÅ¯Å¾u pomoct, pÅ™Ã­teli. Å˜ekni, co potÅ™ebujeÅ¡, a jÃ¡ ti udÄ›lÃ¡m tu nejlepÅ¡Ã­ cenu.}
+{237}{}{Po tak namÃ¡havym dnu je trocha Jetu potÅ™eba, co? No nemÃ¡m pravdu? Pro TEBE je vÅ¡echno se slevou.}
+{238}{}{PÃ¡ni... jsem v pÅ™Ã­tomnosti vÃ½znamnÃ½ osoby. Pro TEBE mÃ¡m holka zvlÃ¡Å¡tnÃ­ slevu. Jo a Å™ekni o mnÄ› vÅ¡em svÃ½m kÃ¡moÅ¡Å¯m, jo?}
+{239}{}{TakÅ¾e ty si chceÅ¡ dÃ¡t trochu do nosu, holka? Tak to jseÅ¡ na sprÃ¡vnÃ½m mÃ­stÄ›. PRO TEBE je vÅ¡echno se slevou.}
+{240}{}{MÃ¡m tolik Jetu, Å¾e vyletÃ­Å¡ aÅ¾ do kosmu, holka. A speciÃ¡lnÄ› pro tebe mÃ¡m parÃ¡dnÃ­ slevu. Tak co, dohodnem se?}
+{241}{}{MÃ¡m matroÅ¡, po kterÃ½m se budeÅ¡ cÃ­tit jako v sedmÃ½m nebi, holka. A speciÃ¡lnÄ› pro tebe mÃ¡m parÃ¡dnÃ­ slevu. Co tomu Å™Ã­kÃ¡Å¡?}
+{242}{}{To nejmenÅ¡Ã­, co pro tebe mÅ¯Å¾u udÄ›lat, je dÃ¡t ti slevu na veÅ¡kerÃ½ zboÅ¾Ã­, holka. Je to mÅ¯j zpÅ¯sob, jak bejt pÅ™Ã¡telskej.}
+{247}{}{VÃ­m, co hledÃ¡Å¡, otrokÃ¡Å™i, a taky Å¾e to mÃ¡m. MÃ¡m tolik Jetu, kolik jen budeÅ¡ CHTÃT.}
+{248}{}{ProÄ chodit po zemi, kdyÅ¾ mÅ¯Å¾eÅ¡ lÃ­tat? Ty mÃ¡Å¡ Å¡kvÃ¡ru, jÃ¡ mÃ¡m zboÅ¾Ã­.}
+{249}{}{MÃ¡m nejÄistÅ¡Ã­ Jet ve mÄ›stÄ›, otrokÃ¡Å™i. NenÃ­ zrovna levnej, ale stojÃ­ za to.}
+{250}{}{ChceÅ¡ si zalÃ­tat, otrokÃ¡Å™i? MÃ¡Å¡ prachy? Pak jsem tvÅ¯j ÄlovÄ›k.}
+{251}{}{MÃ¡m matroÅ¡, po kterÃ½m se budeÅ¡ cÃ­tit jako v sedmÃ½m nebi, otrokÃ¡Å™i.}
+{252}{}{MÃ¡m Jet. HodnÄ› Jetu. Promluvme si.}
+{253}{}{MÃ¡m tolik Jetu, Å¾e vyletÃ­Å¡ aÅ¾ do kosmu, otrokÃ¡Å™i. Tak co, dohodnem se?}
+{254}{}{NepotÅ™ebujeÅ¡ pÃ­chnout, otrokÃ¡Å™i? MÃ¡m ten nejlepÅ¡Ã­ Jet Å¡iroko daleko.}
+{255}{}{ShÃ¡nÃ­Å¡ Jet? Tak pojÄ, otrokÃ¡Å™i, promluvme si.}
+{256}{}{ShÃ¡nÃ­Å¡ Jet? Tak pojÄ, otrokÃ¡Å™i, ty a jÃ¡ hodÃ­me Å™eÄ.}
+{261}{}{VÃ­m, co hledÃ¡Å¡, pÅ™Ã­teli, a taky Å¾e to mÃ¡m. MÃ¡m tolik Jetu, kolik jen budeÅ¡ CHTÃT.}
+{262}{}{ProÄ chodit po zemi, kdyÅ¾ mÅ¯Å¾eÅ¡ lÃ­tat?}
+{263}{}{MÃ¡m nejÄistÅ¡Ã­ Jet ve mÄ›stÄ›, otrokÃ¡Å™i. NenÃ­ zrovna levnej, ale stojÃ­ za to.}
+{264}{}{ChceÅ¡ si zalÃ­tat? MÃ¡Å¡ prachy? Pak jsem tvÅ¯j ÄlovÄ›k.}
+{265}{}{MÃ¡m matroÅ¡, po kterÃ½m se budeÅ¡ cÃ­tit jako v sedmÃ½m nebi, pÅ™Ã­teli.}
+{266}{}{MÃ¡m Jet. HodnÄ› Jetu. Promluvme si.}
+{267}{}{MÃ¡m tolik Jetu, Å¾e vyletÃ­Å¡ aÅ¾ do kosmu, pÅ™Ã­teli. Tak co, dohodnem se?}
+{268}{}{NepotÅ™ebujeÅ¡ pÃ­chnout, otrokÃ¡Å™i? MÃ¡m ten nejlepÅ¡Ã­ Jet Å¡iroko daleko.}
+{269}{}{ShÃ¡nÃ­Å¡ Jet? Tak pojÄme obchodovat.}
+{270}{}{ShÃ¡nÃ­Å¡ Jet? Promluvme si.}
+{519}{}{ RÃD dobroty!}

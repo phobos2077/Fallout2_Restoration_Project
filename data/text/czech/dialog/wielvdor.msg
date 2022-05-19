@@ -1,4 +1,4 @@
-{100}{}{Tyto dveøe asi neotevøeš. Zdá se, e jsou ovládány odnìkud jinud.}
-{101}{}{Na tìchto dveøích není ádnı konvenèní zámek.}
-{102}{}{Vidíš dveøe od vıtahu.}
-{103}{}{Tyto dveøe jsou ovládány z jiného místa.}
+{100}{}{Tyto dveÅ™e asi neotevÅ™eÅ¡. ZdÃ¡ se, Å¾e jsou ovlÃ¡dÃ¡ny odnÄ›kud jinud.}
+{101}{}{Na tÄ›chto dveÅ™Ã­ch nenÃ­ Å¾Ã¡dnÃ½ konvenÄnÃ­ zÃ¡mek.}
+{102}{}{VidÃ­Å¡ dveÅ™e od vÃ½tahu.}
+{103}{}{Tyto dveÅ™e jsou ovlÃ¡dÃ¡ny z jinÃ©ho mÃ­sta.}

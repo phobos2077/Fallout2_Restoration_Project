@@ -1,95 +1,95 @@
-{100}{}{Vidíš chemickou soupravu.}
-{101}{}{Vidíš Malého chemika.}
-{102}{}{Vidíš Malého chemika. Soupravu, se kterou mùeš namíchat pìkná svinstva.}
-{103}{}{Kde chceš zaèít? Máš ètyøi tekutiny v lahvièkách: èervenou, modrou, lutou a èirou.}
-{104}{}{S èervenou.}
+{100}{}{VidÃ­Å¡ chemickou soupravu.}
+{101}{}{VidÃ­Å¡ MalÃ©ho chemika.}
+{102}{}{VidÃ­Å¡ MalÃ©ho chemika. Soupravu, se kterou mÅ¯Å¾eÅ¡ namÃ­chat pÄ›knÃ¡ svinstva.}
+{103}{}{Kde chceÅ¡ zaÄÃ­t? MÃ¡Å¡ ÄtyÅ™i tekutiny v lahviÄkÃ¡ch: Äervenou, modrou, Å¾lutou a Äirou.}
+{104}{}{S Äervenou.}
 {105}{}{S modrou.}
-{106}{}{Se lutou.}
-{107}{}{S èirou.}
-{108}{}{Nic nevytváøet.}
-{109}{}{Vybíráš èervenou. S èím ji chceš smíchat?}
-{110}{}{S modrou. To vytvoøí fialovou.}
-{111}{}{Se lutou. To vytvoøí oranovou.}
-{112}{}{S èirou. To vytvoøí èervenou.}
-{113}{}{Vypít ji.}
-{114}{}{S modrou. Jak jistì víš, to vytvoøí drogu Jet, vysoce návykovı amfetamin... pokud dodríš správné dávkování.}
-{115}{}{Se lutou. Tvé vìdecké znalosti ti øíkají, e pøi správném smíchání vznikne kyselina chlorovodíková.}
-{116}{}{S èirou. Tvùj trénovanı zrak ví, e to vytvoøí silnı vitamín... pokud to správnì namícháš.}
-{117}{}{Pøestat.}
-{118}{}{Vybíráš modrou. S èím ji chceš smíchat?}
-{119}{}{S èervenou. To vytvoøí fialovou.}
-{120}{}{Se lutou. To vytvoøí zelenou.}
-{121}{}{S èirou. To vytvoøí modrou.}
-{122}{}{S èervenou. Jak jistì víš, to vytvoøí drogu Jet, vysoce návykovı amfetamin... pokud dodríš správné dávkování.}
-{123}{}{Se lutou. Ještì pøed zamícháním ti došlo, e tím vznikne nitroglycerin, silná vıbušnina.}
-{124}{}{S èirou. To vytvoøí toxickou látku, která je dobrá akorát tak k napodobení úèinkù z ozáøení.}
-{125}{}{Vypít ji.}
-{126}{}{Pøestat.}
-{127}{}{Vybíráš lutou. S èím ji chceš smíchat?}
-{128}{}{S modrou. To vytvoøí zelenou.}
-{129}{}{S èervenou. To vytvoøí oranovou.}
-{130}{}{S èirou. To vytvoøí lutou.}
-{131}{}{Vypít ji.}
-{132}{}{S modrou. Ještì pøed zamícháním ti došlo, e tím vznikne nitroglycerin, silná vıbušnina.}
-{133}{}{S èervenou. Tvé vìdecké oko ti øíká, e pøi správném smíchání vznikne kyselina chlorovodíková.}
-{134}{}{S èistou. Kdy budeš pokraèovat, vytvoøíš slabı jed.}
-{135}{}{Pøestat.}
-{136}{}{Vybíráš èirou. S èím ji chceš smíchat?}
-{137}{}{S modrou, aby to vytvoøilo modrou.}
-{138}{}{S èervenou, aby to vytvoøilo èervenou.}
-{139}{}{Se lutou, aby to vytvoøilo lutou.}
-{140}{}{Vypít ji.}
-{141}{}{Se lutou. Kdy budeš pokraèovat, vytvoøíš slabı jed.}
-{142}{}{S modrou. To vytvoøí toxickou látku, která je dobrá akorát tak k napodobení úèinkù z ozáøení.}
-{143}{}{S èervenou. Tvùj trénovanı zrak ví, e to vytvoøí silnı vitamín... pokud to správnì namícháš.}
-{144}{}{Pøestat.}
-{145}{}{Vznikla zajímavá fialová tekutina. Co s ní chceš udìlat?}
-{146}{}{Vypít ji.}
-{147}{}{Schovat si ji do inventáøe.}
-{148}{}{Hmmm. Zajímavá oranová barva. Co s ní udìláš?}
-{149}{}{Vypít ji.}
-{150}{}{Schovat si ji do inventáøe.}
-{151}{}{Tmavì rudá barva. Co teï?}
-{152}{}{Vypít ji.}
-{153}{}{Schovat si ji do inventáøe.}
-{154}{}{Tmavì zelená tekutina. Co teï?}
-{155}{}{Vypít ji.}
-{156}{}{Dát ji pryè.}
-{157}{}{Zajímavı odstín modré. Co teï udìláš?}
-{158}{}{Vypít ji.}
-{159}{}{Schovat si ji na pozdìji.}
-{160}{}{Tahle lutá vypadá jako moè a smrdí ještì hùø. Co teï udìláš?}
-{161}{}{Vypít ji.}
-{162}{}{Nechat si ji na pozdìji. Mùe se hodit.}
-{163}{}{Á, dobrá práce. Podaøilo se ti vytvoøit Jet. S tímhle mùeš bıt v New Renu docela populární. Co s ním udìláš?}
-{164}{}{Vypít ji.}
-{165}{}{Nechat si ho na pozdìji.}
-{166}{}{Ajajaj! Vznikl z toho nìjakı podivnı toxickı mrak! Trochu ses ho nadıchal a to tì zcela omráèilo. Cítíš se pìknì blbì.}
+{106}{}{Se Å¾lutou.}
+{107}{}{S Äirou.}
+{108}{}{Nic nevytvÃ¡Å™et.}
+{109}{}{VybÃ­rÃ¡Å¡ Äervenou. S ÄÃ­m ji chceÅ¡ smÃ­chat?}
+{110}{}{S modrou. To vytvoÅ™Ã­ fialovou.}
+{111}{}{Se Å¾lutou. To vytvoÅ™Ã­ oranÅ¾ovou.}
+{112}{}{S Äirou. To vytvoÅ™Ã­ Äervenou.}
+{113}{}{VypÃ­t ji.}
+{114}{}{S modrou. Jak jistÄ› vÃ­Å¡, to vytvoÅ™Ã­ drogu Jet, vysoce nÃ¡vykovÃ½ amfetamin... pokud dodrÅ¾Ã­Å¡ sprÃ¡vnÃ© dÃ¡vkovÃ¡nÃ­.}
+{115}{}{Se Å¾lutou. TvÃ© vÄ›deckÃ© znalosti ti Å™Ã­kajÃ­, Å¾e pÅ™i sprÃ¡vnÃ©m smÃ­chÃ¡nÃ­ vznikne kyselina chlorovodÃ­kovÃ¡.}
+{116}{}{S Äirou. TvÅ¯j trÃ©novanÃ½ zrak vÃ­, Å¾e to vytvoÅ™Ã­ silnÃ½ vitamÃ­n... pokud to sprÃ¡vnÄ› namÃ­chÃ¡Å¡.}
+{117}{}{PÅ™estat.}
+{118}{}{VybÃ­rÃ¡Å¡ modrou. S ÄÃ­m ji chceÅ¡ smÃ­chat?}
+{119}{}{S Äervenou. To vytvoÅ™Ã­ fialovou.}
+{120}{}{Se Å¾lutou. To vytvoÅ™Ã­ zelenou.}
+{121}{}{S Äirou. To vytvoÅ™Ã­ modrou.}
+{122}{}{S Äervenou. Jak jistÄ› vÃ­Å¡, to vytvoÅ™Ã­ drogu Jet, vysoce nÃ¡vykovÃ½ amfetamin... pokud dodrÅ¾Ã­Å¡ sprÃ¡vnÃ© dÃ¡vkovÃ¡nÃ­.}
+{123}{}{Se Å¾lutou. JeÅ¡tÄ› pÅ™ed zamÃ­chÃ¡nÃ­m ti doÅ¡lo, Å¾e tÃ­m vznikne nitroglycerin, silnÃ¡ vÃ½buÅ¡nina.}
+{124}{}{S Äirou. To vytvoÅ™Ã­ toxickou lÃ¡tku, kterÃ¡ je dobrÃ¡ akorÃ¡t tak k napodobenÃ­ ÃºÄinkÅ¯ z ozÃ¡Å™enÃ­.}
+{125}{}{VypÃ­t ji.}
+{126}{}{PÅ™estat.}
+{127}{}{VybÃ­rÃ¡Å¡ Å¾lutou. S ÄÃ­m ji chceÅ¡ smÃ­chat?}
+{128}{}{S modrou. To vytvoÅ™Ã­ zelenou.}
+{129}{}{S Äervenou. To vytvoÅ™Ã­ oranÅ¾ovou.}
+{130}{}{S Äirou. To vytvoÅ™Ã­ Å¾lutou.}
+{131}{}{VypÃ­t ji.}
+{132}{}{S modrou. JeÅ¡tÄ› pÅ™ed zamÃ­chÃ¡nÃ­m ti doÅ¡lo, Å¾e tÃ­m vznikne nitroglycerin, silnÃ¡ vÃ½buÅ¡nina.}
+{133}{}{S Äervenou. TvÃ© vÄ›deckÃ© oko ti Å™Ã­kÃ¡, Å¾e pÅ™i sprÃ¡vnÃ©m smÃ­chÃ¡nÃ­ vznikne kyselina chlorovodÃ­kovÃ¡.}
+{134}{}{S Äistou. KdyÅ¾ budeÅ¡ pokraÄovat, vytvoÅ™Ã­Å¡ slabÃ½ jed.}
+{135}{}{PÅ™estat.}
+{136}{}{VybÃ­rÃ¡Å¡ Äirou. S ÄÃ­m ji chceÅ¡ smÃ­chat?}
+{137}{}{S modrou, aby to vytvoÅ™ilo modrou.}
+{138}{}{S Äervenou, aby to vytvoÅ™ilo Äervenou.}
+{139}{}{Se Å¾lutou, aby to vytvoÅ™ilo Å¾lutou.}
+{140}{}{VypÃ­t ji.}
+{141}{}{Se Å¾lutou. KdyÅ¾ budeÅ¡ pokraÄovat, vytvoÅ™Ã­Å¡ slabÃ½ jed.}
+{142}{}{S modrou. To vytvoÅ™Ã­ toxickou lÃ¡tku, kterÃ¡ je dobrÃ¡ akorÃ¡t tak k napodobenÃ­ ÃºÄinkÅ¯ z ozÃ¡Å™enÃ­.}
+{143}{}{S Äervenou. TvÅ¯j trÃ©novanÃ½ zrak vÃ­, Å¾e to vytvoÅ™Ã­ silnÃ½ vitamÃ­n... pokud to sprÃ¡vnÄ› namÃ­chÃ¡Å¡.}
+{144}{}{PÅ™estat.}
+{145}{}{Vznikla zajÃ­mavÃ¡ fialovÃ¡ tekutina. Co s nÃ­ chceÅ¡ udÄ›lat?}
+{146}{}{VypÃ­t ji.}
+{147}{}{Schovat si ji do inventÃ¡Å™e.}
+{148}{}{Hmmm. ZajÃ­mavÃ¡ oranÅ¾ovÃ¡ barva. Co s nÃ­ udÄ›lÃ¡Å¡?}
+{149}{}{VypÃ­t ji.}
+{150}{}{Schovat si ji do inventÃ¡Å™e.}
+{151}{}{TmavÄ› rudÃ¡ barva. Co teÄ?}
+{152}{}{VypÃ­t ji.}
+{153}{}{Schovat si ji do inventÃ¡Å™e.}
+{154}{}{TmavÄ› zelenÃ¡ tekutina. Co teÄ?}
+{155}{}{VypÃ­t ji.}
+{156}{}{DÃ¡t ji pryÄ.}
+{157}{}{ZajÃ­mavÃ½ odstÃ­n modrÃ©. Co teÄ udÄ›lÃ¡Å¡?}
+{158}{}{VypÃ­t ji.}
+{159}{}{Schovat si ji na pozdÄ›ji.}
+{160}{}{Tahle Å¾lutÃ¡ vypadÃ¡ jako moÄ a smrdÃ­ jeÅ¡tÄ› hÅ¯Å™. Co teÄ udÄ›lÃ¡Å¡?}
+{161}{}{VypÃ­t ji.}
+{162}{}{Nechat si ji na pozdÄ›ji. MÅ¯Å¾e se hodit.}
+{163}{}{Ã, dobrÃ¡ prÃ¡ce. PodaÅ™ilo se ti vytvoÅ™it Jet. S tÃ­mhle mÅ¯Å¾eÅ¡ bÃ½t v New Renu docela populÃ¡rnÃ­. Co s nÃ­m udÄ›lÃ¡Å¡?}
+{164}{}{VypÃ­t ji.}
+{165}{}{Nechat si ho na pozdÄ›ji.}
+{166}{}{Ajajaj! Vznikl z toho nÄ›jakÃ½ podivnÃ½ toxickÃ½ mrak! Trochu ses ho nadÃ½chal a to tÄ› zcela omrÃ¡Äilo. CÃ­tÃ­Å¡ se pÄ›knÄ› blbÄ›.}
 {167}{}{[KONEC]}
-{168}{}{To vypadá pìknì silnì. Co s tím udìláš?}
-{169}{}{Vypít ji.}
-{170}{}{Schovat si ji na pozdìji.}
-{171}{}{Ach ne! Koncentrace je moc silná! Proralo se to skrz sklo pøímo na tvoji ruku! Au!}
-{172}{}{Podaøilo se ti vytvoøit vıbušnou látku!}
-{173}{}{Vypít ji.}
-{174}{}{Schovat si ji do inventáøe.}
-{175}{}{Špetku sem, špetku tam a... a sakra... BÙM!}
-{176}{}{Ach ne! Ty idiote! Právì jsi vypil vıbušnou látku!}
-{177}{}{Cítíš se trochu divnì. Ne, cítíš se hodnì divnì. Ve skuteènosti se cítíš, jako kdyby tvoje srdce zrychlilo a svìt kolem tebe zpomalil a ty nevíš, co se dìje a nikdo ti nemùe pomoct, protoe nevíš, co to je... ach ne, za tebou! ÁÁÁÁÁÁÁ! TO JE HRÙZA!!!}
-{178}{}{Pøi ochutnání se ušklíbneš a poté zjistíš, e tì všechno uvnitø tìla pálí. Au. AU. AU!! Pomalu tì to zaèíná rozeírat zevnitø! }
-{179}{}{Je to trochu práškovité, ale dostal jsi to do sebe. Zvláštní je, e se teï cítíš lépe.}
-{180}{}{Ále, k èertu s tím. I kdy to vypadá hroznì, kopneš to do sebe. Okamitì zaèneš plivat a dusit se. Byl jsi ozáøen!}
+{168}{}{To vypadÃ¡ pÄ›knÄ› silnÄ›. Co s tÃ­m udÄ›lÃ¡Å¡?}
+{169}{}{VypÃ­t ji.}
+{170}{}{Schovat si ji na pozdÄ›ji.}
+{171}{}{Ach ne! Koncentrace je moc silnÃ¡! ProÅ¾ralo se to skrz sklo pÅ™Ã­mo na tvoji ruku! Au!}
+{172}{}{PodaÅ™ilo se ti vytvoÅ™it vÃ½buÅ¡nou lÃ¡tku!}
+{173}{}{VypÃ­t ji.}
+{174}{}{Schovat si ji do inventÃ¡Å™e.}
+{175}{}{Å petku sem, Å¡petku tam a... a sakra... BÅ®M!}
+{176}{}{Ach ne! Ty idiote! PrÃ¡vÄ› jsi vypil vÃ½buÅ¡nou lÃ¡tku!}
+{177}{}{CÃ­tÃ­Å¡ se trochu divnÄ›. Ne, cÃ­tÃ­Å¡ se hodnÄ› divnÄ›. Ve skuteÄnosti se cÃ­tÃ­Å¡, jako kdyby tvoje srdce zrychlilo a svÄ›t kolem tebe zpomalil a ty nevÃ­Å¡, co se dÄ›je a nikdo ti nemÅ¯Å¾e pomoct, protoÅ¾e nevÃ­Å¡, co to je... ach ne, za tebou! ÃÃÃÃÃÃÃ! TO JE HRÅ®ZA!!!}
+{178}{}{PÅ™i ochutnÃ¡nÃ­ se uÅ¡klÃ­bneÅ¡ a potÃ© zjistÃ­Å¡, Å¾e tÄ› vÅ¡echno uvnitÅ™ tÄ›la pÃ¡lÃ­. Au. AU. AU!! Pomalu tÄ› to zaÄÃ­nÃ¡ rozeÅ¾Ã­rat zevnitÅ™! }
+{179}{}{Je to trochu prÃ¡Å¡kovitÃ©, ale dostal jsi to do sebe. ZvlÃ¡Å¡tnÃ­ je, Å¾e se teÄ cÃ­tÃ­Å¡ lÃ©pe.}
+{180}{}{Ãle, k Äertu s tÃ­m. I kdyÅ¾ to vypadÃ¡ hroznÄ›, kopneÅ¡ to do sebe. OkamÅ¾itÄ› zaÄneÅ¡ plivat a dusit se. Byl jsi ozÃ¡Å™en!}
 {181}{}{[KONEC]}
-{182}{}{No... tak dobøe. Vzpomeneš si, co jsi pil jako dítì, zakloníš se a naliješ to do sebe. Trochu se ti zvedne aludek. Cítíš se, jako kdyby tì právì uštkl radškorpion.}
-{183}{}{Vypadá to jako voda, take to asi nebude nic špatného, ne? Jakmile se ti tekutina dostala do krku, uvìdomil sis, e jsi udìlal chybu. Tohle pìknì PÁLÍ. Svíjíš se bolestí. Dlouho, opravdu dlouho.}
-{184}{}{Trochu toho a trochu tohohle... tak moment... proè se z té lahvièky kouøí... co dìlám špatnì? ACH NÉÉ! Lahvièka ti vybouchla pøímo pøed oblièejem!}
-{185}{}{Škodolibì smícháš ingredience dohromady, doufaje, e tak vytvoøíš správnou smìs. Poté si sedneš a èekáš, a to bude. A èekáš. A èekáš. Po nìjaké dobì se barva tekutiny zmìní na tmavì hnìdou. Je k nièemu.}
-{186}{}{Podaøilo se ti vytvoøit silnı vitamín. Co s ním teï budeš dìlat?}
-{187}{}{Vypít ji.}
-{188}{}{Schovat si ji na pozdìji.}
-{189}{}{Podaøilo se ti vytvoøit toxin! Co teï?}
-{190}{}{Vypít ji.}
-{191}{}{Schovat si ji na pozdìji.}
-{192}{}{Úspìšnì se ti podaøilo vytvoøit látku, která simuluje úèinky z ozáøení. Co s ní chceš udìlat?}
-{193}{}{Vypít ji.}
-{194}{}{Schovat si ji na pozdìji.}
+{182}{}{No... tak dobÅ™e. VzpomeneÅ¡ si, co jsi pil jako dÃ­tÄ›, zaklonÃ­Å¡ se a nalijeÅ¡ to do sebe. Trochu se ti zvedne Å¾aludek. CÃ­tÃ­Å¡ se, jako kdyby tÄ› prÃ¡vÄ› uÅ¡tkl radÅ¡korpion.}
+{183}{}{VypadÃ¡ to jako voda, takÅ¾e to asi nebude nic Å¡patnÃ©ho, ne? Jakmile se ti tekutina dostala do krku, uvÄ›domil sis, Å¾e jsi udÄ›lal chybu. Tohle pÄ›knÄ› PÃLÃ. SvÃ­jÃ­Å¡ se bolestÃ­. Dlouho, opravdu dlouho.}
+{184}{}{Trochu toho a trochu tohohle... tak moment... proÄ se z tÃ© lahviÄky kouÅ™Ã­... co dÄ›lÃ¡m Å¡patnÄ›? ACH NÃ‰Ã‰! LahviÄka ti vybouchla pÅ™Ã­mo pÅ™ed obliÄejem!}
+{185}{}{Å kodolibÄ› smÃ­chÃ¡Å¡ ingredience dohromady, doufaje, Å¾e tak vytvoÅ™Ã­Å¡ sprÃ¡vnou smÄ›s. PotÃ© si sedneÅ¡ a ÄekÃ¡Å¡, aÅ¾ to bude. A ÄekÃ¡Å¡. A ÄekÃ¡Å¡. Po nÄ›jakÃ© dobÄ› se barva tekutiny zmÄ›nÃ­ na tmavÄ› hnÄ›dou. Je k niÄemu.}
+{186}{}{PodaÅ™ilo se ti vytvoÅ™it silnÃ½ vitamÃ­n. Co s nÃ­m teÄ budeÅ¡ dÄ›lat?}
+{187}{}{VypÃ­t ji.}
+{188}{}{Schovat si ji na pozdÄ›ji.}
+{189}{}{PodaÅ™ilo se ti vytvoÅ™it toxin! Co teÄ?}
+{190}{}{VypÃ­t ji.}
+{191}{}{Schovat si ji na pozdÄ›ji.}
+{192}{}{ÃšspÄ›Å¡nÄ› se ti podaÅ™ilo vytvoÅ™it lÃ¡tku, kterÃ¡ simuluje ÃºÄinky z ozÃ¡Å™enÃ­. Co s nÃ­ chceÅ¡ udÄ›lat?}
+{193}{}{VypÃ­t ji.}
+{194}{}{Schovat si ji na pozdÄ›ji.}

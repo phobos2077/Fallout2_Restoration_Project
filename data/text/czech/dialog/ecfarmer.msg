@@ -1,40 +1,40 @@
-{100}{}{Vidíš štíhlého, opáleného mue.}
-{101}{}{Vidíš farmáøku.}
-{102}{}{Všimneš si, e je opálenı jako farmáø.}
-{103}{}{Pøišel jsi v pravou chvíli. Kdyby nebylo tebe... no, øeknìme, e jsme vdìèní za to, e jsi pøišel vèas. Moc toho nemáme, ale pøijmi toto prosím jako odmìnu za tvou pomoc. (Nìco ti podá.)}
-{104}{}{Díky.}
+{100}{}{VidÃ­Å¡ Å¡tÃ­hlÃ©ho, opÃ¡lenÃ©ho muÅ¾e.}
+{101}{}{VidÃ­Å¡ farmÃ¡Å™ku.}
+{102}{}{VÅ¡imneÅ¡ si, Å¾e je opÃ¡lenÃ½ jako farmÃ¡Å™.}
+{103}{}{PÅ™iÅ¡el jsi v pravou chvÃ­li. Kdyby nebylo tebe... no, Å™eknÄ›me, Å¾e jsme vdÄ›ÄnÃ­ za to, Å¾e jsi pÅ™iÅ¡el vÄas. Moc toho nemÃ¡me, ale pÅ™ijmi toto prosÃ­m jako odmÄ›nu za tvou pomoc. (NÄ›co ti podÃ¡.)}
+{104}{}{DÃ­ky.}
 {105}{}{Eh...}
-{106}{}{Ještì jednou dìkujeme za pomoc.}
+{106}{}{JeÅ¡tÄ› jednou dÄ›kujeme za pomoc.}
 {107}{}{}
 {108}{}{}
-{109}{}{Dr ty ruce tak, aby na nì bylo vidìt. V poslední dobì nás obtìuje hodnì banditù a ty vypadáš jako oni. Co chceš?}
-{110}{}{Chci jenom vymìnit nìjaké zásoby.}
-{111}{}{Jenom tudy procházím. Brzy odejdu.}
+{109}{}{DrÅ¾ ty ruce tak, aby na nÄ› bylo vidÄ›t. V poslednÃ­ dobÄ› nÃ¡s obtÄ›Å¾uje hodnÄ› banditÅ¯ a ty vypadÃ¡Å¡ jako oni. Co chceÅ¡?}
+{110}{}{Chci jenom vymÄ›nit nÄ›jakÃ© zÃ¡soby.}
+{111}{}{Jenom tudy prochÃ¡zÃ­m. Brzy odejdu.}
 {112}{}{Eh.}
-{113}{}{No, myslím, e z toho ádné nebezpeèí nehrozí. Tady je moje nabídka.}
+{113}{}{No, myslÃ­m, Å¾e z toho Å¾Ã¡dnÃ© nebezpeÄÃ­ nehrozÃ­. Tady je moje nabÃ­dka.}
 {114}{}{[Obchodovat]}
-{115}{}{Dobøe, tak vypadni!}
+{115}{}{DobÅ™e, tak vypadni!}
 {116}{}{[Obchodovat]}
-{117}{}{Øekl jsem bì!}
+{117}{}{Å˜ekl jsem bÄ›Å¾!}
 {118}{}{}
-{119}{}{(Trochu se uklidní.) Na banditu jsi pøíliš velkı hlupák. Potøebuješ zásoby?}
+{119}{}{(Trochu se uklidnÃ­.) Na banditu jsi pÅ™Ã­liÅ¡ velkÃ½ hlupÃ¡k. PotÅ™ebujeÅ¡ zÃ¡soby?}
 {120}{}{Aha.}
 {121}{}{Eh eh.}
-{122}{}{V tom pøípadì není dùvod, proè bysme se spolu mìli dál bavit. Jdi si po svıch.}
+{122}{}{V tom pÅ™Ã­padÄ› nenÃ­ dÅ¯vod, proÄ bysme se spolu mÄ›li dÃ¡l bavit. Jdi si po svÃ½ch.}
 {123}{}{[KONEC]}
-{124}{}{Odejdìte z mojí farmy!}
-{125}{}{Nikdo mi mùj domov nevezme.}
-{126}{}{Proradní banditi.}
-{127}{}{Zmizte z mé pùdy.}
-{128}{}{Dneska u nemùeš vìøit nikomu.}
-{129}{}{Zatracení banditi.}
-{130}{}{Pracoval jsem pøíliš tvrdì na to, abych to teï vzdal.}
-{131}{}{Moná pùjdu farmaøit jinam.}
-{132}{}{Jsem jen chudı farmáø.}
-{133}{}{Prosím, nevypaluj moji farmu.}
-{134}{}{Stejnì jsem farmaøení nesnášel.}
-{135}{}{Ještì se vrátím.}
-{136}{}{Vezmìte si moji enu... prosím...}
-{200}{}{Vidíš štíhlou opálenou enu.}
-{201}{}{Vidíš farmáøku.}
-{202}{}{Vypadá jako farmáøka.}
+{124}{}{OdejdÄ›te z mojÃ­ farmy!}
+{125}{}{Nikdo mi mÅ¯j domov nevezme.}
+{126}{}{ProradnÃ­ banditi.}
+{127}{}{Zmizte z mÃ© pÅ¯dy.}
+{128}{}{Dneska uÅ¾ nemÅ¯Å¾eÅ¡ vÄ›Å™it nikomu.}
+{129}{}{ZatracenÃ­ banditi.}
+{130}{}{Pracoval jsem pÅ™Ã­liÅ¡ tvrdÄ› na to, abych to teÄ vzdal.}
+{131}{}{MoÅ¾nÃ¡ pÅ¯jdu farmaÅ™it jinam.}
+{132}{}{Jsem jen chudÃ½ farmÃ¡Å™.}
+{133}{}{ProsÃ­m, nevypaluj moji farmu.}
+{134}{}{StejnÄ› jsem farmaÅ™enÃ­ nesnÃ¡Å¡el.}
+{135}{}{JeÅ¡tÄ› se vrÃ¡tÃ­m.}
+{136}{}{VezmÄ›te si moji Å¾enu... prosÃ­m...}
+{200}{}{VidÃ­Å¡ Å¡tÃ­hlou opÃ¡lenou Å¾enu.}
+{201}{}{VidÃ­Å¡ farmÃ¡Å™ku.}
+{202}{}{VypadÃ¡ jako farmÃ¡Å™ka.}

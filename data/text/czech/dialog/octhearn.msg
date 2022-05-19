@@ -1,44 +1,44 @@
-{100}{}{Vidíš páraèe. Sleduje tì podivuhodnì inteligentníma oèima.}
-{101}{}{Vidíš páraèe Thearna.}
-{102}{}{Vidíš obyèejného páraèe. Je to mohutnı tvor s ostrımi zuby a dlouhımi paøáty.}
-{103}{}{Odpustit. Já neumìt dobøe mluvit. Já zkusit mluvit s ty.}
-{104}{}{Co ty chtít?}
+{100}{}{VidÃ­Å¡ pÃ¡raÄe. Sleduje tÄ› podivuhodnÄ› inteligentnÃ­ma oÄima.}
+{101}{}{VidÃ­Å¡ pÃ¡raÄe Thearna.}
+{102}{}{VidÃ­Å¡ obyÄejnÃ©ho pÃ¡raÄe. Je to mohutnÃ½ tvor s ostrÃ½mi zuby a dlouhÃ½mi paÅ™Ã¡ty.}
+{103}{}{Odpustit. JÃ¡ neumÄ›t dobÅ™e mluvit. JÃ¡ zkusit mluvit s ty.}
+{104}{}{Co ty chtÃ­t?}
 {105}{}{Kdo ty?}
-{106}{}{Co ty dìlat?}
-{107}{}{Jak ty chytrı?}
-{108}{}{Já teï jít.}
+{106}{}{Co ty dÄ›lat?}
+{107}{}{Jak ty chytrÃ½?}
+{108}{}{JÃ¡ teÄ jÃ­t.}
 {109}{}{Kdo jsi?}
-{110}{}{Co tu dìláš?}
-{111}{}{Bez uráky, ale jak moc jsi chytrı?}
-{112}{}{Jen se tak dívám.}
-{113}{}{Já Thearn. Kdo ty?}
-{114}{}{Já}
-{115}{}{Já jít.}
-{116}{}{U musím jít.}
-{117}{}{Tìší mì, Thearne. Jsem}
-{118}{}{Chápu.}
-{119}{}{Kdy o tom tak pøemıšlím, tak je mi úplnì u prdele kdo jsi.}
-{120}{}{Já hlídat chodba. Starat o bezpeèí smeèka.}
+{110}{}{Co tu dÄ›lÃ¡Å¡?}
+{111}{}{Bez urÃ¡Å¾ky, ale jak moc jsi chytrÃ½?}
+{112}{}{Jen se tak dÃ­vÃ¡m.}
+{113}{}{JÃ¡ Thearn. Kdo ty?}
+{114}{}{JÃ¡}
+{115}{}{JÃ¡ jÃ­t.}
+{116}{}{UÅ¾ musÃ­m jÃ­t.}
+{117}{}{TÄ›Å¡Ã­ mÄ›, Thearne. Jsem}
+{118}{}{ChÃ¡pu.}
+{119}{}{KdyÅ¾ o tom tak pÅ™emÃ½Å¡lÃ­m, tak je mi ÃºplnÄ› u prdele kdo jsi.}
+{120}{}{JÃ¡ hlÃ­dat chodba. Starat o bezpeÄÃ­ smeÄka.}
 {121}{}{Aha... eh...}
-{122}{}{Hlídat? Co?}
-{123}{}{Dobøe. Já jít.}
-{124}{}{No tak pokraèuj. U musím jít.}
-{125}{}{Odvádíš skvìlou práci!}
-{126}{}{Ty si øíkáš strá? Haha!}
-{127}{}{A pøed èím to tu hlídáš?}
-{128}{}{Vetøelec. Èlovìk, páraè, cokoliv. Smeèka v nebezpeèí, já útoèit.}
+{122}{}{HlÃ­dat? Co?}
+{123}{}{DobÅ™e. JÃ¡ jÃ­t.}
+{124}{}{No tak pokraÄuj. UÅ¾ musÃ­m jÃ­t.}
+{125}{}{OdvÃ¡dÃ­Å¡ skvÄ›lou prÃ¡ci!}
+{126}{}{Ty si Å™Ã­kÃ¡Å¡ strÃ¡Å¾? Haha!}
+{127}{}{A pÅ™ed ÄÃ­m to tu hlÃ­dÃ¡Å¡?}
+{128}{}{VetÅ™elec. ÄŒlovÄ›k, pÃ¡raÄ, cokoliv. SmeÄka v nebezpeÄÃ­, jÃ¡ ÃºtoÄit.}
 {129}{}{Aha.}
 {130}{}{Aha.}
-{131}{}{Pøekvapilo by mì, kdybys vùbec rozpoznal pøítele od nepøítele.}
-{132}{}{Je mi líto všech vetøelcù, kteøí tì potkají.}
-{133}{}{Nevadí. Zatím.}
-{134}{}{Jak to posoudit? Nevìdìt. Nìkteré vìci rozumìt moc, nìkteré málo a nìkteré vùbec.}
-{135}{}{Ty, já, stejnı.}
-{136}{}{Jo, já jsem na tom úplnì stejnì.}
+{131}{}{PÅ™ekvapilo by mÄ›, kdybys vÅ¯bec rozpoznal pÅ™Ã­tele od nepÅ™Ã­tele.}
+{132}{}{Je mi lÃ­to vÅ¡ech vetÅ™elcÅ¯, kteÅ™Ã­ tÄ› potkajÃ­.}
+{133}{}{NevadÃ­. ZatÃ­m.}
+{134}{}{Jak to posoudit? NevÄ›dÄ›t. NÄ›kterÃ© vÄ›ci rozumÄ›t moc, nÄ›kterÃ© mÃ¡lo a nÄ›kterÃ© vÅ¯bec.}
+{135}{}{Ty, jÃ¡, stejnÃ½.}
+{136}{}{Jo, jÃ¡ jsem na tom ÃºplnÄ› stejnÄ›.}
 {137}{}{Jde ti to fajn.}
-{138}{}{Jinımi slovy jsi blbec.}
-{139}{}{Ty pøítel smeèka. Ty zachránit smeèka opravením stroj.}
-{140}{}{Ahoj. Já tady poøád hlídat.}
+{138}{}{JinÃ½mi slovy jsi blbec.}
+{139}{}{Ty pÅ™Ã­tel smeÄka. Ty zachrÃ¡nit smeÄka opravenÃ­m stroj.}
+{140}{}{Ahoj. JÃ¡ tady poÅ™Ã¡d hlÃ­dat.}
 {141}{}{}
-{142}{}{Áááááááááá! Zemøi!}
+{142}{}{ÃÃ¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡! ZemÅ™i!}
 {143}{}{.}

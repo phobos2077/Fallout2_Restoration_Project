@@ -1,29 +1,29 @@
-{100}{}{Vidíš strá.}
-{101}{}{Vidíš strá v kevlarové zbroji .}
-{102}{}{Vidíš osobu v kevlarové zbroji neobvyklého vzhledu. Na prsou má znak, kterı nepoznáváš.}
-{103}{}{Po dobu mé sluby se nic zvláštního nestalo.}
-{104}{}{U mì nic novıho a co u tebe?}
-{105}{}{Nemìl bys stát na svım místì, vojáku? Tady se nemùeš jen tak poflakovat.}
-{106}{}{Kde máš uniformu?}
-{107}{}{Mìl by ses nahlásit u seri a pøevlíknout se.}
-{108}{}{Pìknì riskuješ, kdy tu takhle pobíháš bez uniformy. Radìji si ji vyfasuj.}
-{109}{}{Kdo k èertu jste? Poplach! Vetøelci!}
+{100}{}{VidÃ­Å¡ strÃ¡Å¾.}
+{101}{}{VidÃ­Å¡ strÃ¡Å¾ v kevlarovÃ© zbroji .}
+{102}{}{VidÃ­Å¡ osobu v kevlarovÃ© zbroji neobvyklÃ©ho vzhledu. Na prsou mÃ¡ znak, kterÃ½ nepoznÃ¡vÃ¡Å¡.}
+{103}{}{Po dobu mÃ© sluÅ¾by se nic zvlÃ¡Å¡tnÃ­ho nestalo.}
+{104}{}{U mÄ› nic novÃ½ho a co u tebe?}
+{105}{}{NemÄ›l bys stÃ¡t na svÃ½m mÃ­stÄ›, vojÃ¡ku? Tady se nemÅ¯Å¾eÅ¡ jen tak poflakovat.}
+{106}{}{Kde mÃ¡Å¡ uniformu?}
+{107}{}{MÄ›l by ses nahlÃ¡sit u serÅ¾i a pÅ™evlÃ­knout se.}
+{108}{}{PÄ›knÄ› riskujeÅ¡, kdyÅ¾ tu takhle pobÃ­hÃ¡Å¡ bez uniformy. RadÄ›ji si ji vyfasuj.}
+{109}{}{Kdo k Äertu jste? Poplach! VetÅ™elci!}
 {110}{}{Byli jsme napadeni! Poplach!}
-{111}{}{Vetøelci! Spuste alarm!}
-{112}{}{Poplach! Chraòte základnu!}
-{113}{}{Zabezpeète všechny stanice! Máme tu poplach!}
-{114}{}{Poplach! Èervenı kód!}
-{115}{}{Chcípneš!}
-{116}{}{Enkláva bude vládnou svìtu!}
-{117}{}{Ty zhebneš, Enkláva bude ít dál!}
-{118}{}{Promiò, vojáku, ale tahle zóna je jen pro vyhrazenı personál. Musím tì poádat o odchod.}
-{119}{}{Doktor chtít, abych já zabít páraè. Nechtít to udìlat sám.}
-{120}{}{Dobøe, já jít.}
-{121}{}{Doktor po mnì chce zabít to zvíøe. Sám si na to netroufá.}
-{122}{}{Já vìdìla, e ten bastard nebude mít koule na to, aby to udìlal sám, take tu špinavou práci musíme vdycky udìlat my. (Povzdech) No dobøe. Jdi dál a hodnì štìstí, vojáku.}
-{123}{}{Díky.}
-{124}{}{Proè na mì tak zíráš, vojáku?}
-{125}{}{Vyvolenı slyšet ty øíkat Snookie. To hezké.}
-{126}{}{Prı ti øíkají Snookie. Myslím, e to je velmi roztomilé.}
-{127}{}{Coe... tohle ti øekl? A mi skonèí sluba, tak mu nakopu zadek... jdi si po svém, vojáku. A vyma si ten debilní úsmìv z oblièeje!}
-{128}{}{Dobøe.}
+{111}{}{VetÅ™elci! SpusÅ¥te alarm!}
+{112}{}{Poplach! ChraÅˆte zÃ¡kladnu!}
+{113}{}{ZabezpeÄte vÅ¡echny stanice! MÃ¡me tu poplach!}
+{114}{}{Poplach! ÄŒervenÃ½ kÃ³d!}
+{115}{}{ChcÃ­pneÅ¡!}
+{116}{}{EnklÃ¡va bude vlÃ¡dnou svÄ›tu!}
+{117}{}{Ty zhebneÅ¡, EnklÃ¡va bude Å¾Ã­t dÃ¡l!}
+{118}{}{PromiÅˆ, vojÃ¡ku, ale tahle zÃ³na je jen pro vyhrazenÃ½ personÃ¡l. MusÃ­m tÄ› poÅ¾Ã¡dat o odchod.}
+{119}{}{Doktor chtÃ­t, abych jÃ¡ zabÃ­t pÃ¡raÄ. NechtÃ­t to udÄ›lat sÃ¡m.}
+{120}{}{DobÅ™e, jÃ¡ jÃ­t.}
+{121}{}{Doktor po mnÄ› chce zabÃ­t to zvÃ­Å™e. SÃ¡m si na to netroufÃ¡.}
+{122}{}{JÃ¡ vÄ›dÄ›la, Å¾e ten bastard nebude mÃ­t koule na to, aby to udÄ›lal sÃ¡m, takÅ¾e tu Å¡pinavou prÃ¡ci musÃ­me vÅ¾dycky udÄ›lat my. (Povzdech) No dobÅ™e. Jdi dÃ¡l a hodnÄ› Å¡tÄ›stÃ­, vojÃ¡ku.}
+{123}{}{DÃ­ky.}
+{124}{}{ProÄ na mÄ› tak zÃ­rÃ¡Å¡, vojÃ¡ku?}
+{125}{}{VyvolenÃ½ slyÅ¡et ty Å™Ã­kat Snookie. To hezkÃ©.}
+{126}{}{PrÃ½ ti Å™Ã­kajÃ­ Snookie. MyslÃ­m, Å¾e to je velmi roztomilÃ©.}
+{127}{}{CoÅ¾e... tohle ti Å™ekl? AÅ¾ mi skonÄÃ­ sluÅ¾ba, tak mu nakopu zadek... jdi si po svÃ©m, vojÃ¡ku. A vymaÅ¾ si ten debilnÃ­ ÃºsmÄ›v z obliÄeje!}
+{128}{}{DobÅ™e.}

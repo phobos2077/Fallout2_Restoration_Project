@@ -1,17 +1,17 @@
-{100}{}{Vidíš hubenou, snìdou enu.}
-{101}{}{Vidíš farmáøku.}
-{102}{}{Vypadá jako farmáøka.}
-{200}{}{To je mùj dùm.}
-{201}{}{Zatracení banditi.}
-{202}{}{Nech nás na pokoji!}
-{203}{}{Nenávidím bandity.}
-{204}{}{Nemáme nic cenného.}
-{205}{}{Nezabíjej mì.}
-{206}{}{U toho mám dost.}
-{207}{}{Vezmi si co chceš.}
-{208}{}{Prosím, nezabíjej mì.}
-{209}{}{Stejnì nenávidím farmaøení.}
-{210}{}{Prosím, nevypaluj mi mùj dùm.}
-{220}{}{Neobtìuj mì.}
-{230}{}{Dìkuji za pomoc.}
-{231}{}{Ké by na svìtì bylo více takovıch jako ty.}
+{100}{}{VidÃ­Å¡ hubenou, snÄ›dou Å¾enu.}
+{101}{}{VidÃ­Å¡ farmÃ¡Å™ku.}
+{102}{}{VypadÃ¡ jako farmÃ¡Å™ka.}
+{200}{}{To je mÅ¯j dÅ¯m.}
+{201}{}{ZatracenÃ­ banditi.}
+{202}{}{Nech nÃ¡s na pokoji!}
+{203}{}{NenÃ¡vidÃ­m bandity.}
+{204}{}{NemÃ¡me nic cennÃ©ho.}
+{205}{}{NezabÃ­jej mÄ›.}
+{206}{}{UÅ¾ toho mÃ¡m dost.}
+{207}{}{Vezmi si co chceÅ¡.}
+{208}{}{ProsÃ­m, nezabÃ­jej mÄ›.}
+{209}{}{StejnÄ› nenÃ¡vidÃ­m farmaÅ™enÃ­.}
+{210}{}{ProsÃ­m, nevypaluj mi mÅ¯j dÅ¯m.}
+{220}{}{NeobtÄ›Å¾uj mÄ›.}
+{230}{}{DÄ›kuji za pomoc.}
+{231}{}{KÃ©Å¾ by na svÄ›tÄ› bylo vÃ­ce takovÃ½ch jako ty.}

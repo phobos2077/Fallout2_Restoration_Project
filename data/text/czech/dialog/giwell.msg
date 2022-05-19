@@ -1,4 +1,4 @@
-{100}{}{Vidíš studnu.}
-{101}{}{Moná, e se mılíš, ale kdy se nakloníš ke studni, ucítíš teplo vycházející z temnoty.}
-{102}{}{Zhluboka se napiješ vody ze studny. Je neobvykle teplá.}
-{103}{}{Zhluboka se napiješ vody ze studny. Chutná mnohem lépe ne pøedtím.}
+{100}{}{VidÃ­Å¡ studnu.}
+{101}{}{MoÅ¾nÃ¡, Å¾e se mÃ½lÃ­Å¡, ale kdyÅ¾ se naklonÃ­Å¡ ke studni, ucÃ­tÃ­Å¡ teplo vychÃ¡zejÃ­cÃ­ z temnoty.}
+{102}{}{Zhluboka se napijeÅ¡ vody ze studny. Je neobvykle teplÃ¡.}
+{103}{}{Zhluboka se napijeÅ¡ vody ze studny. ChutnÃ¡ mnohem lÃ©pe neÅ¾ pÅ™edtÃ­m.}

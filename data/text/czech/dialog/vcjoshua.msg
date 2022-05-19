@@ -1,3 +1,3 @@
-{100}{}{Vidíš Joshuu.}
-{101}{}{Vidíš plešatého chlapíka s nevinnım úsmìvem.}
-{102}{}{Díky za vyjednání mého propuštìní. Nikdy na to nezapomenu. Já a moje ena brzy odjedeme nìkam pryè.}
+{100}{}{VidÃ­Å¡ Joshuu.}
+{101}{}{VidÃ­Å¡ pleÅ¡atÃ©ho chlapÃ­ka s nevinnÃ½m ÃºsmÄ›vem.}
+{102}{}{DÃ­ky za vyjednÃ¡nÃ­ mÃ©ho propuÅ¡tÄ›nÃ­. Nikdy na to nezapomenu. JÃ¡ a moje Å¾ena brzy odjedeme nÄ›kam pryÄ.}

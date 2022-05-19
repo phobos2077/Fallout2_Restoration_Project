@@ -1,22 +1,22 @@
-{100}{}{Bìet!}
+{100}{}{BÄ›Å¾et!}
 {101}{}{Pomoc!}
-{102}{}{Napadli nás Nadzemníci.}
-{103}{}{Nech nás na pokoji.}
-{104}{}{Nemùeš nás prostì všechny nechat na pokoji?}
-{150}{}{Vrate se, odkud jste pøišli.}
-{151}{}{Tady nejsi vítán.}
-{152}{}{Vy Nadzemníci jste všichni stejní.}
+{102}{}{Napadli nÃ¡s NadzemnÃ­ci.}
+{103}{}{Nech nÃ¡s na pokoji.}
+{104}{}{NemÅ¯Å¾eÅ¡ nÃ¡s prostÄ› vÅ¡echny nechat na pokoji?}
+{150}{}{VraÅ¥te se, odkud jste pÅ™iÅ¡li.}
+{151}{}{Tady nejsi vÃ­tÃ¡n.}
+{152}{}{Vy NadzemnÃ­ci jste vÅ¡ichni stejnÃ­.}
 {153}{}{Neuniknete!}
-{200}{}{Do øiti!}
+{200}{}{Do Å™iti!}
 {201}{}{Bum!}
 {202}{}{Auuuuuuu.}
-{203}{}{*Tøesk*}
+{203}{}{*TÅ™esk*}
 {204}{}{*Cvak*}
-{250}{}{ili jsme døív nad zemí.}
-{251}{}{Jakı to je ít nad zemí?}
-{252}{}{Tam nahoøe je to tak VELKİ.}
-{253}{}{Jak vypadá Slunce?}
-{254}{}{Zdravím, Nadzemníku.}
-{300}{}{Vìdìli jsme, e ti mùeme vìøit.}
-{301}{}{Dìkuji za pomoc.}
-{302}{}{Ráda tì zase vidím.}
+{250}{}{Å½ili jsme dÅ™Ã­v nad zemÃ­.}
+{251}{}{JakÃ½ to je Å¾Ã­t nad zemÃ­?}
+{252}{}{Tam nahoÅ™e je to tak VELKÃ.}
+{253}{}{Jak vypadÃ¡ Slunce?}
+{254}{}{ZdravÃ­m, NadzemnÃ­ku.}
+{300}{}{VÄ›dÄ›li jsme, Å¾e ti mÅ¯Å¾eme vÄ›Å™it.}
+{301}{}{DÄ›kuji za pomoc.}
+{302}{}{RÃ¡da tÄ› zase vidÃ­m.}

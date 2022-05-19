@@ -1,21 +1,21 @@
-{100}{}{Vidíš jednu z mnoha špinavıch existencí.}
-{101}{}{Nevypadá to, e by tenhle èlovìk byl v ivotì nìjak zvláš úspìšnı.}
-{102}{}{Hej ty, na co èumíš?}
-{103}{}{Hezkej den...pro nìkoho.}
-{104}{}{Bejt tebou, tak tady moc neokouním.}
-{105}{}{Pøál bych si, abych se mohl dostat do mìsta.}
-{106}{}{Kde je ten dolar, co jsem mìl...?}
-{107}{}{Pìknı hadry.}
-{108}{}{Fajn místo... pokud ti nevadìj pravidla.}
-{109}{}{Aspoò e nejsem v pustinì...}
-{110}{}{Bì dál.}
-{111}{}{Docházej mi peníze...}
-{112}{}{Zmiz odsud, rozumíš?}
-{113}{}{Jdi mi z oèí.}
-{114}{}{Jseš stejnej hajzl jako oni.}
+{100}{}{VidÃ­Å¡ jednu z mnoha Å¡pinavÃ½ch existencÃ­.}
+{101}{}{NevypadÃ¡ to, Å¾e by tenhle ÄlovÄ›k byl v Å¾ivotÄ› nÄ›jak zvlÃ¡Å¡Å¥ ÃºspÄ›Å¡nÃ½.}
+{102}{}{Hej ty, na co ÄumÃ­Å¡?}
+{103}{}{Hezkej den...pro nÄ›koho.}
+{104}{}{Bejt tebou, tak tady moc neokounÃ­m.}
+{105}{}{PÅ™Ã¡l bych si, abych se mohl dostat do mÄ›sta.}
+{106}{}{Kde je ten dolar, co jsem mÄ›l...?}
+{107}{}{PÄ›knÃ½ hadry.}
+{108}{}{Fajn mÃ­sto... pokud ti nevadÄ›j pravidla.}
+{109}{}{AspoÅˆ Å¾e nejsem v pustinÄ›...}
+{110}{}{BÄ›Å¾ dÃ¡l.}
+{111}{}{DochÃ¡zej mi penÃ­ze...}
+{112}{}{Zmiz odsud, rozumÃ­Å¡?}
+{113}{}{Jdi mi z oÄÃ­.}
+{114}{}{JseÅ¡ stejnej hajzl jako oni.}
 {115}{}{Vypadni.}
-{116}{}{Bì dál.}
-{117}{}{Hleï si svıho.}
-{118}{}{Nechceme tady lidi, jako jseš ty.}
-{119}{}{Brána je támhle, tak vypadni.}
-{120}{}{Pouštní odpad...}
+{116}{}{BÄ›Å¾ dÃ¡l.}
+{117}{}{HleÄ si svÃ½ho.}
+{118}{}{Nechceme tady lidi, jako jseÅ¡ ty.}
+{119}{}{BrÃ¡na je tÃ¡mhle, tak vypadni.}
+{120}{}{PouÅ¡tnÃ­ odpad...}

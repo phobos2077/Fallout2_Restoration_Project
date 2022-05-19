@@ -1,53 +1,53 @@
-{100}{}{Vidíš osobu v kombinéze vaultu.}
-{101}{}{Vidíš obyvatele Enklávy.}
-{102}{}{Vidíš pobledlého, ale jinak docela zdravì vyhlíejícího obyvatele.}
-{103}{}{Trochu si odpoènu.}
-{104}{}{Jakıpak bezpeènostní film asi dávají dneska veèer v kinì?}
-{105}{}{Co jseš zaè?}
-{106}{}{Poèasí je tu stále stejné.}
-{107}{}{Projekt pokraèuje podle plánu.}
-{108}{}{To o viceprezidentovi Birdovi je hnusná pomluva.}
-{109}{}{Další smìnu mám a za nìkolik hodin.}
-{110}{}{Bùh ehnej Americe.}
-{111}{}{Projekt je naše záchrana.}
-{112}{}{Jsem opravdu rád, e nejsem na pevninì.}
-{113}{}{Další cvièení.}
-{114}{}{Proè je tu takovı rámus?}
+{100}{}{VidÃ­Å¡ osobu v kombinÃ©ze vaultu.}
+{101}{}{VidÃ­Å¡ obyvatele EnklÃ¡vy.}
+{102}{}{VidÃ­Å¡ pobledlÃ©ho, ale jinak docela zdravÄ› vyhlÃ­Å¾ejÃ­cÃ­ho obyvatele.}
+{103}{}{Trochu si odpoÄnu.}
+{104}{}{JakÃ½pak bezpeÄnostnÃ­ film asi dÃ¡vajÃ­ dneska veÄer v kinÄ›?}
+{105}{}{Co jseÅ¡ zaÄ?}
+{106}{}{PoÄasÃ­ je tu stÃ¡le stejnÃ©.}
+{107}{}{Projekt pokraÄuje podle plÃ¡nu.}
+{108}{}{To o viceprezidentovi Birdovi je hnusnÃ¡ pomluva.}
+{109}{}{DalÅ¡Ã­ smÄ›nu mÃ¡m aÅ¾ za nÄ›kolik hodin.}
+{110}{}{BÅ¯h Å¾ehnej Americe.}
+{111}{}{Projekt je naÅ¡e zÃ¡chrana.}
+{112}{}{Jsem opravdu rÃ¡d, Å¾e nejsem na pevninÄ›.}
+{113}{}{DalÅ¡Ã­ cviÄenÃ­.}
+{114}{}{ProÄ je tu takovÃ½ rÃ¡mus?}
 {115}{}{To je poplach od reaktoru.}
 {116}{}{Eh, och.}
-{117}{}{Radìji se podívám po nìjakıch Rad-X tabletách... u zase.}
-{118}{}{Ta vìc se poøád rozbíjí.}
-{119}{}{Sakra. Asi jsem se spálil.}
-{120}{}{Není tu nìjak horko?}
-{121}{}{To není dobrı.}
-{122}{}{Kurva, kurva a ještì jednou kurva.}
-{123}{}{Kde je moje kyslíková maska?}
-{124}{}{Nìco je špatnì.}
-{125}{}{Necítím se moc dobøe.}
-{126}{}{Pálí mì v krku.}
-{127}{}{Hroznì mì píchá u srdce.}
-{128}{}{Moje plíce jsou v jednom ohni.}
-{129}{}{Potøebuju se nadıchat èerstvého vzduchu.}
-{130}{}{Nestmívá se tady?}
-{131}{}{Jsem tak unavenı, musím odpoèívat.}
-{132}{}{Myslím, e si na chvíli sednu.}
-{133}{}{Další vıcvik?}
-{134}{}{Myslím, e jsem slyšel støelbu.}
+{117}{}{RadÄ›ji se podÃ­vÃ¡m po nÄ›jakÃ½ch Rad-X tabletÃ¡ch... uÅ¾ zase.}
+{118}{}{Ta vÄ›c se poÅ™Ã¡d rozbÃ­jÃ­.}
+{119}{}{Sakra. Asi jsem se spÃ¡lil.}
+{120}{}{NenÃ­ tu nÄ›jak horko?}
+{121}{}{To nenÃ­ dobrÃ½.}
+{122}{}{Kurva, kurva a jeÅ¡tÄ› jednou kurva.}
+{123}{}{Kde je moje kyslÃ­kovÃ¡ maska?}
+{124}{}{NÄ›co je Å¡patnÄ›.}
+{125}{}{NecÃ­tÃ­m se moc dobÅ™e.}
+{126}{}{PÃ¡lÃ­ mÄ› v krku.}
+{127}{}{HroznÄ› mÄ› pÃ­chÃ¡ u srdce.}
+{128}{}{Moje plÃ­ce jsou v jednom ohni.}
+{129}{}{PotÅ™ebuju se nadÃ½chat ÄerstvÃ©ho vzduchu.}
+{130}{}{NestmÃ­vÃ¡ se tady?}
+{131}{}{Jsem tak unavenÃ½, musÃ­m odpoÄÃ­vat.}
+{132}{}{MyslÃ­m, Å¾e si na chvÃ­li sednu.}
+{133}{}{DalÅ¡Ã­ vÃ½cvik?}
+{134}{}{MyslÃ­m, Å¾e jsem slyÅ¡el stÅ™elbu.}
 {135}{}{Hej, kdo jsi?}
-{136}{}{Stát! Kdo je tam?}
-{137}{}{U mì ty cvièení unavují.}
-{138}{}{No jasnì, já tak urèitì poznám vetøelce.}
-{139}{}{Netrap se tím.}
-{140}{}{Vojáci se o nás postarají.}
-{141}{}{Kde jsou sakra ti vojáci, kdy je èlovìk potøebuje?}
-{142}{}{Musím zùstat v klidu - zùstat v klidu.}
-{143}{}{Tohle nikdy nedokonèím.}
-{144}{}{Radìji bych byl nìkde jinde.}
-{145}{}{Ten operátor u terminálu byl docela roztomilı.}
-{146}{}{To nedává smysl.}
-{147}{}{Za tuhle práci mi platí málo.}
-{148}{}{Dìlám práci za všechny ostatní.}
-{149}{}{Proè lidé nedìlají to, co mají?}
-{150}{}{Kdy nìjakı terminál nefunguje, tak do nìj prostì kopnu a tím ho skoro vdycky opravím.}
-{151}{}{Tahle pong hra je fakt parádní. Doufám, e mì nikdo nenachytá.}
-{152}{}{Potøebuju kafe.}
+{136}{}{StÃ¡t! Kdo je tam?}
+{137}{}{UÅ¾ mÄ› ty cviÄenÃ­ unavujÃ­.}
+{138}{}{No jasnÄ›, jÃ¡ tak urÄitÄ› poznÃ¡m vetÅ™elce.}
+{139}{}{Netrap se tÃ­m.}
+{140}{}{VojÃ¡ci se o nÃ¡s postarajÃ­.}
+{141}{}{Kde jsou sakra ti vojÃ¡ci, kdyÅ¾ je ÄlovÄ›k potÅ™ebuje?}
+{142}{}{MusÃ­m zÅ¯stat v klidu - zÅ¯stat v klidu.}
+{143}{}{Tohle nikdy nedokonÄÃ­m.}
+{144}{}{RadÄ›ji bych byl nÄ›kde jinde.}
+{145}{}{Ten operÃ¡tor u terminÃ¡lu byl docela roztomilÃ½.}
+{146}{}{To nedÃ¡vÃ¡ smysl.}
+{147}{}{Za tuhle prÃ¡ci mi platÃ­ mÃ¡lo.}
+{148}{}{DÄ›lÃ¡m prÃ¡ci za vÅ¡echny ostatnÃ­.}
+{149}{}{ProÄ lidÃ© nedÄ›lajÃ­ to, co majÃ­?}
+{150}{}{KdyÅ¾ nÄ›jakÃ½ terminÃ¡l nefunguje, tak do nÄ›j prostÄ› kopnu a tÃ­m ho skoro vÅ¾dycky opravÃ­m.}
+{151}{}{Tahle pong hra je fakt parÃ¡dnÃ­. DoufÃ¡m, Å¾e mÄ› nikdo nenachytÃ¡.}
+{152}{}{PotÅ™ebuju kafe.}

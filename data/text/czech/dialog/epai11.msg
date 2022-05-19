@@ -1,3 +1,3 @@
-{100}{}{Tohle není to, co jsem doufal, e z tìch semen vyroste!}
-{101}{}{Tohle pomùe vyøešit problém s nedostatkem jídla.}
-{102}{}{Po jednom tıdnu rychlého rùstu vyrostly kukuøièné stonky po celé oseté ploše.}
+{100}{}{Tohle nenÃ­ to, co jsem doufal, Å¾e z tÄ›ch semen vyroste!}
+{101}{}{Tohle pomÅ¯Å¾e vyÅ™eÅ¡it problÃ©m s nedostatkem jÃ­dla.}
+{102}{}{Po jednom tÃ½dnu rychlÃ©ho rÅ¯stu vyrostly kukuÅ™iÄnÃ© stonky po celÃ© osetÃ© ploÅ¡e.}

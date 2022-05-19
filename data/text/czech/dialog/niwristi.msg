@@ -1,14 +1,14 @@
-{100}{}{Vidíš velkou nádr na vırobu alkoholu. Vychází z ní hlubokı bzuèivı zvuk.}
-{110}{}{Vidíš velkou nádr na vırobu alkoholu. Uvnitø plave ocas radškorpiona.}
-{120}{}{Vidíš velkou nádr na vırobu alkoholu. Je rozbitá a vypadá to, e nelze opravit.}
-{130}{}{Nádr pøestala fungovat. Vypadá neopravitelnì.}
-{140}{}{Hodíš ho do nádre a díváš se, jak klesá na dno a jed z jedovıch váèkù pomalu vytéká.}
-{150}{}{Vypadá neopravitelnì.}
+{100}{}{VidÃ­Å¡ velkou nÃ¡drÅ¾ na vÃ½robu alkoholu. VychÃ¡zÃ­ z nÃ­ hlubokÃ½ bzuÄivÃ½ zvuk.}
+{110}{}{VidÃ­Å¡ velkou nÃ¡drÅ¾ na vÃ½robu alkoholu. UvnitÅ™ plave ocas radÅ¡korpiona.}
+{120}{}{VidÃ­Å¡ velkou nÃ¡drÅ¾ na vÃ½robu alkoholu. Je rozbitÃ¡ a vypadÃ¡ to, Å¾e nelze opravit.}
+{130}{}{NÃ¡drÅ¾ pÅ™estala fungovat. VypadÃ¡ neopravitelnÄ›.}
+{140}{}{HodÃ­Å¡ ho do nÃ¡drÅ¾e a dÃ­vÃ¡Å¡ se, jak klesÃ¡ na dno a jed z jedovÃ½ch vÃ¡ÄkÅ¯ pomalu vytÃ©kÃ¡.}
+{150}{}{VypadÃ¡ neopravitelnÄ›.}
 {200}{}{::Ker-cvak::}
-{201}{}{::Bøink::}
-{202}{}{::Bzrrrr-bøink::}
+{201}{}{::BÅ™ink::}
+{202}{}{::Bzrrrr-bÅ™ink::}
 {203}{}{::Krrrrr-cvak::}
 {204}{}{::Kzzztttt::}
 {250}{}{Hmmmmmmmm}
 {251}{}{Thmmmmmmm}
-{300}{}{Palírna rodiny Wrightù byla znièena.}
+{300}{}{PalÃ­rna rodiny WrightÅ¯ byla zniÄena.}

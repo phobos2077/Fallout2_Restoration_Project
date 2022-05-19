@@ -1,31 +1,31 @@
-{100}{}{Dámy a pánové!}
-{101}{}{Chlapci a dìvèata!}
-{102}{}{Dnešní zápas vám pøináší...}
+{100}{}{DÃ¡my a pÃ¡novÃ©!}
+{101}{}{Chlapci a dÄ›vÄata!}
+{102}{}{DneÅ¡nÃ­ zÃ¡pas vÃ¡m pÅ™inÃ¡Å¡Ã­...}
 {103}{}{...ROTGUT!}
-{104}{}{Kdy opravdu MUSÍTE nìco vypít a je vám celkem jedno, co to je...}
+{104}{}{KdyÅ¾ opravdu MUSÃTE nÄ›co vypÃ­t a je vÃ¡m celkem jedno, co to je...}
 {105}{}{Vyberte si Rotgut!}
-{106}{}{V tomto rohu stojí vyzyvatel váící }
-{107}{}{A v tomto rohu... váící }
-{108}{}{Take, bez dalšího prodluování...}
-{109}{}{Zápas ZAÈÍNÁÁÁ!}
+{106}{}{V tomto rohu stojÃ­ vyzyvatel vÃ¡Å¾Ã­cÃ­ }
+{107}{}{A v tomto rohu... vÃ¡Å¾Ã­cÃ­ }
+{108}{}{TakÅ¾e, bez dalÅ¡Ã­ho prodluÅ¾ovÃ¡nÃ­...}
+{109}{}{ZÃ¡pas ZAÄŒÃNÃÃÃ!}
 {123}{}{...Gamma Gulp pivo!}
-{124}{}{Kdy vaše kùe málo "svítí"...}
+{124}{}{KdyÅ¾ vaÅ¡e kÅ¯Å¾e mÃ¡lo "svÃ­tÃ­"...}
 {125}{}{Vyberte si Gamma Gulp pivo!}
-{143}{}{...Koèièí Packa!}
+{143}{}{...KoÄiÄÃ­ Packa!}
 {144}{}{When you got that itch that you NEED to scratch...}
-{145}{}{Zajdìte do Koèièí Packy!}
-{163}{}{...Lovecké potøeby!}
-{164}{}{Kdy chcete nìkoho zabít z bezpeèné vzdálenosti...}
-{165}{}{Zastavte se v Loveckıch potøebách!}
-{200}{}{A vítìzem se stávááááá...}
+{145}{}{ZajdÄ›te do KoÄiÄÃ­ Packy!}
+{163}{}{...LoveckÃ© potÅ™eby!}
+{164}{}{KdyÅ¾ chcete nÄ›koho zabÃ­t z bezpeÄnÃ© vzdÃ¡lenosti...}
+{165}{}{Zastavte se v LoveckÃ½ch potÅ™ebÃ¡ch!}
+{200}{}{A vÃ­tÄ›zem se stÃ¡vÃ¡Ã¡Ã¡Ã¡Ã¡...}
 {201}{}{...stylem k.o...}
-{202}{}{...technickım k.o...}
-{203}{}{...po diskvalifikaci soupeøe...}
+{202}{}{...technickÃ½m k.o...}
+{203}{}{...po diskvalifikaci soupeÅ™e...}
 {204}{}{...na body }
 {205}{}{ k }
 {206}{}{...}
 {210}{}{!!!}
-{1106}{}{ liber, èerstvı z pustiny a novı v New Renu, }
-{1107}{}{ liber, ZNÁTE ho, MILUJETE ho... }
+{1106}{}{ liber, ÄerstvÃ½ z pustiny a novÃ½ v New Renu, }
+{1107}{}{ liber, ZNÃTE ho, MILUJETE ho... }
 {2106}{}{!}
 {2107}{}{!}

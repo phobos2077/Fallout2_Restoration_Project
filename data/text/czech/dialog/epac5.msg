@@ -1,25 +1,25 @@
-{100}{}{Vidíš hologram.}
-{101}{}{Vidíš provozního øeditele.}
-{102}{}{Hologram 12001. V popisu práce má koordinaci komplexu EPA.}
-{200}{}{(Od pohledu mazanı hologram ti vìnuje nervózní úsmìv.) Dobrı den a vítejte v komplexu EPA. Pravdìpodobnì vám neušlo, e se v souèasné sobì potıkáme s drobnımi potíemi. Právì probíhající brainstorming bude jistì plodnı a odhalí nám, jak s tìmito citlivımi záleitostmi dále naloit.}
-{201}{}{Eh, dobøe. Kdo vlastnì jste?}
-{210}{}{Jsem provozní øeditel EPA.}
-{211}{}{Aha, no jasnì. (Poškrábeš se na hlavì.) Ale co to vlastnì znamená?}
-{220}{}{(Nervóznì se usmìje.) Øídím bìh událostí. Sleduji vıvoj dìní a zaujímám patøièná stanoviska. Jak vdy øíkám, mìli bychom pøedevším hledat rezervy sami v sobì. O to tu v komplexu EPA pøedevším bìí. Iniciativa, intenzita, integrita. Dìkujeme vám, vašeho názoru si velmi váíme a bude k nìmu pøihlíeno.}
-{221}{}{O èem to sakra mluvíš?}
-{230}{}{Ujišuji vás, e intenzivnì pracujeme na vyøešení stávajících obtíí. V nìkterıch aspektech vızkumu došlo k jistım omezením, ale situace se rychle obrací k lepšímu. Nepochybuji o tom, e pøíslušné kvóty budou splnìny s dostateènım pøedstihem oproti pùvodním pøedpokladùm.}
-{231}{}{Jaké kvóty? To nedává ádnı smysl. Dìláte tu ve skuteènosti vùbec nìco? Mùete mi pomoct nebo ne?}
-{240}{}{To záleí pøedevším na perspektivì vašeho pohledu. V této záleitosti mám bohuel svázané ruce, ale jakmile se váš problém vyøeší, vše se jistì urovná.}
-{241}{}{Zapomeò na to. Nashle.}
-{242}{}{Je mi líto, e jsem vám nemohl bıt více nápomocen.}
-{243}{}{Dìkuji vám za váš èas.}
-{244}{}{To nehodlám komentovat.}
-{245}{}{Bez komentáøe.}
-{246}{}{Rád bych, ale bohuel jsem momentálnì v oblasti pravomocí ponìkud handicapován.}
-{247}{}{Øešení tohoto problému není v souèasné dobì prioritou.}
-{248}{}{Úèelem tohoto meetingu je pøedevším projednávat, nikoliv jednat.}
-{249}{}{Jsem pøesvìdèen, e má komplex EPA pøed sebou svìtlou budoucnost.}
-{250}{}{Relevance tohoto problému je dosti sporná.}
-{251}{}{Nemìli bychom se v tomto ohledu ukvapovat.}
-{252}{}{To se mi zdá pøijatelné.}
-{253}{}{Chápu vaše obavy.}
+{100}{}{VidÃ­Å¡ hologram.}
+{101}{}{VidÃ­Å¡ provoznÃ­ho Å™editele.}
+{102}{}{Hologram 12001. V popisu prÃ¡ce mÃ¡ koordinaci komplexu EPA.}
+{200}{}{(Od pohledu mazanÃ½ hologram ti vÄ›nuje nervÃ³znÃ­ ÃºsmÄ›v.) DobrÃ½ den a vÃ­tejte v komplexu EPA. PravdÄ›podobnÄ› vÃ¡m neuÅ¡lo, Å¾e se v souÄasnÃ© sobÄ› potÃ½kÃ¡me s drobnÃ½mi potÃ­Å¾emi. PrÃ¡vÄ› probÃ­hajÃ­cÃ­ brainstorming bude jistÄ› plodnÃ½ a odhalÃ­ nÃ¡m, jak s tÄ›mito citlivÃ½mi zÃ¡leÅ¾itostmi dÃ¡le naloÅ¾it.}
+{201}{}{Eh, dobÅ™e. Kdo vlastnÄ› jste?}
+{210}{}{Jsem provoznÃ­ Å™editel EPA.}
+{211}{}{Aha, no jasnÄ›. (PoÅ¡krÃ¡beÅ¡ se na hlavÄ›.) Ale co to vlastnÄ› znamenÃ¡?}
+{220}{}{(NervÃ³znÄ› se usmÄ›je.) Å˜Ã­dÃ­m bÄ›h udÃ¡lostÃ­. Sleduji vÃ½voj dÄ›nÃ­ a zaujÃ­mÃ¡m patÅ™iÄnÃ¡ stanoviska. Jak vÅ¾dy Å™Ã­kÃ¡m, mÄ›li bychom pÅ™edevÅ¡Ã­m hledat rezervy sami v sobÄ›. O to tu v komplexu EPA pÅ™edevÅ¡Ã­m bÄ›Å¾Ã­. Iniciativa, intenzita, integrita. DÄ›kujeme vÃ¡m, vaÅ¡eho nÃ¡zoru si velmi vÃ¡Å¾Ã­me a bude k nÄ›mu pÅ™ihlÃ­Å¾eno.}
+{221}{}{O Äem to sakra mluvÃ­Å¡?}
+{230}{}{UjiÅ¡Å¥uji vÃ¡s, Å¾e intenzivnÄ› pracujeme na vyÅ™eÅ¡enÃ­ stÃ¡vajÃ­cÃ­ch obtÃ­Å¾Ã­. V nÄ›kterÃ½ch aspektech vÃ½zkumu doÅ¡lo k jistÃ½m omezenÃ­m, ale situace se rychle obracÃ­ k lepÅ¡Ã­mu. Nepochybuji o tom, Å¾e pÅ™Ã­sluÅ¡nÃ© kvÃ³ty budou splnÄ›ny s dostateÄnÃ½m pÅ™edstihem oproti pÅ¯vodnÃ­m pÅ™edpokladÅ¯m.}
+{231}{}{JakÃ© kvÃ³ty? To nedÃ¡vÃ¡ Å¾Ã¡dnÃ½ smysl. DÄ›lÃ¡te tu ve skuteÄnosti vÅ¯bec nÄ›co? MÅ¯Å¾ete mi pomoct nebo ne?}
+{240}{}{To zÃ¡leÅ¾Ã­ pÅ™edevÅ¡Ã­m na perspektivÄ› vaÅ¡eho pohledu. V tÃ©to zÃ¡leÅ¾itosti mÃ¡m bohuÅ¾el svÃ¡zanÃ© ruce, ale jakmile se vÃ¡Å¡ problÃ©m vyÅ™eÅ¡Ã­, vÅ¡e se jistÄ› urovnÃ¡.}
+{241}{}{ZapomeÅˆ na to. Nashle.}
+{242}{}{Je mi lÃ­to, Å¾e jsem vÃ¡m nemohl bÃ½t vÃ­ce nÃ¡pomocen.}
+{243}{}{DÄ›kuji vÃ¡m za vÃ¡Å¡ Äas.}
+{244}{}{To nehodlÃ¡m komentovat.}
+{245}{}{Bez komentÃ¡Å™e.}
+{246}{}{RÃ¡d bych, ale bohuÅ¾el jsem momentÃ¡lnÄ› v oblasti pravomocÃ­ ponÄ›kud handicapovÃ¡n.}
+{247}{}{Å˜eÅ¡enÃ­ tohoto problÃ©mu nenÃ­ v souÄasnÃ© dobÄ› prioritou.}
+{248}{}{ÃšÄelem tohoto meetingu je pÅ™edevÅ¡Ã­m projednÃ¡vat, nikoliv jednat.}
+{249}{}{Jsem pÅ™esvÄ›dÄen, Å¾e mÃ¡ komplex EPA pÅ™ed sebou svÄ›tlou budoucnost.}
+{250}{}{Relevance tohoto problÃ©mu je dosti spornÃ¡.}
+{251}{}{NemÄ›li bychom se v tomto ohledu ukvapovat.}
+{252}{}{To se mi zdÃ¡ pÅ™ijatelnÃ©.}
+{253}{}{ChÃ¡pu vaÅ¡e obavy.}

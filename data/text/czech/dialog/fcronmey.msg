@@ -1,63 +1,63 @@
-{100}{}{Vidíš osobu s kapitánskou èepicí.}
-{101}{}{Vidíš kapitána A. Ron Meyerse.}
-{102}{}{Vidíš pankáèe v potrhanıch šatech a kapitánskou èepicí.}
-{103}{}{Co tady sakra chceš? S nikım se nebavím, jenom s pøáteli a dobrımi lidmi. Nejdøív udìlej nìjakou slubu pro jednoho z mejch pøátel a pak si pøijï promluvit.}
+{100}{}{VidÃ­Å¡ osobu s kapitÃ¡nskou ÄepicÃ­.}
+{101}{}{VidÃ­Å¡ kapitÃ¡na A. Ron Meyerse.}
+{102}{}{VidÃ­Å¡ pankÃ¡Äe v potrhanÃ½ch Å¡atech a kapitÃ¡nskou ÄepicÃ­.}
+{103}{}{Co tady sakra chceÅ¡? S nikÃ½m se nebavÃ­m, jenom s pÅ™Ã¡teli a dobrÃ½mi lidmi. NejdÅ™Ã­v udÄ›lej nÄ›jakou sluÅ¾bu pro jednoho z mejch pÅ™Ã¡tel a pak si pÅ™ijÄ promluvit.}
 {104}{}{[KONEC]}
-{105}{}{Slyšel jsem, co jsi udìlal pro mı mue. Díky. S èím ti mùu pomoct?}
+{105}{}{SlyÅ¡el jsem, co jsi udÄ›lal pro mÃ½ muÅ¾e. DÃ­ky. S ÄÃ­m ti mÅ¯Å¾u pomoct?}
 {106}{}{Kdo ty?}
-{107}{}{Øíká se, e víš o téhle lodi všechno.}
-{108}{}{Proè ti øíkají kapitán?}
-{109}{}{Jak tuhle vìc uvedeš do pohybu?}
+{107}{}{Å˜Ã­kÃ¡ se, Å¾e vÃ­Å¡ o tÃ©hle lodi vÅ¡echno.}
+{108}{}{ProÄ ti Å™Ã­kajÃ­ kapitÃ¡n?}
+{109}{}{Jak tuhle vÄ›c uvedeÅ¡ do pohybu?}
 {110}{}{No nic.}
-{111}{}{Jsem kapitán a øídím tuhle loï. Jestli máš nìjakı otázky, tak si jdi promluvit s nìkım od Shi, s Badgerem a nebo s nìkım jinım. Nemám na tebe èas.}
+{111}{}{Jsem kapitÃ¡n a Å™Ã­dÃ­m tuhle loÄ. Jestli mÃ¡Å¡ nÄ›jakÃ½ otÃ¡zky, tak si jdi promluvit s nÄ›kÃ½m od Shi, s Badgerem a nebo s nÄ›kÃ½m jinÃ½m. NemÃ¡m na tebe Äas.}
 {112}{}{[KONEC]}
-{113}{}{Tahle loï je tanker Poseidon. Je vybavená technikou, která pøeila válku. Má v sobì FOB, kterej umoòuje pøístup k místnosti s navigaèním poèítaèem a dále obsahuje IFF radarovou rušièku, která ochraòuje pøed støelami Poseidonu. Akorát, e ti to proti tı starı èínskı ponorce vùbec nepomùe, take doufej, e je ta vìc stejnì tak nefunkèní jak vypadá.}
-{114}{}{Jak tohle všechno víš?}
-{115}{}{Co je to IFF radarová rušièka?}
-{116}{}{Jak tuhle vìc uvedeš do pohybu?}
-{117}{}{Dík. Naskle.}
-{118}{}{Kdysi jsem slouil Enklávì. Pak jsem pøišel na to, e jsem vlastnì nebojoval za USA, ale za ty bohatı starı bastardy, kteøí se nechtìli vzdát svı moci. Dezertoval jsem a teï iju tady mezi poctivìjšími lidmi.}
-{119}{}{Poctivìjšími lidmi? Tihle?}
-{120}{}{Co je pøesnì Enkláva?}
-{121}{}{Jak tuhle vìc uvedeš do pohybu?}
+{113}{}{Tahle loÄ je tanker Poseidon. Je vybavenÃ¡ technikou, kterÃ¡ pÅ™eÅ¾ila vÃ¡lku. MÃ¡ v sobÄ› FOB, kterej umoÅ¾Åˆuje pÅ™Ã­stup k mÃ­stnosti s navigaÄnÃ­m poÄÃ­taÄem a dÃ¡le obsahuje IFF radarovou ruÅ¡iÄku, kterÃ¡ ochraÅˆuje pÅ™ed stÅ™elami Poseidonu. AkorÃ¡t, Å¾e ti to proti tÃ½ starÃ½ ÄÃ­nskÃ½ ponorce vÅ¯bec nepomÅ¯Å¾e, takÅ¾e doufej, Å¾e je ta vÄ›c stejnÄ› tak nefunkÄnÃ­ jak vypadÃ¡.}
+{114}{}{Jak tohle vÅ¡echno vÃ­Å¡?}
+{115}{}{Co je to IFF radarovÃ¡ ruÅ¡iÄka?}
+{116}{}{Jak tuhle vÄ›c uvedeÅ¡ do pohybu?}
+{117}{}{DÃ­k. Naskle.}
+{118}{}{Kdysi jsem slouÅ¾il EnklÃ¡vÄ›. Pak jsem pÅ™iÅ¡el na to, Å¾e jsem vlastnÄ› nebojoval za USA, ale za ty bohatÃ½ starÃ½ bastardy, kteÅ™Ã­ se nechtÄ›li vzdÃ¡t svÃ½ moci. Dezertoval jsem a teÄ Å¾iju tady mezi poctivÄ›jÅ¡Ã­mi lidmi.}
+{119}{}{PoctivÄ›jÅ¡Ã­mi lidmi? Tihle?}
+{120}{}{Co je pÅ™esnÄ› EnklÃ¡va?}
+{121}{}{Jak tuhle vÄ›c uvedeÅ¡ do pohybu?}
 {122}{}{Nashle.}
-{123}{}{Jak se tahle bárka ovládá? Nejdøív ji naplníš palivem - zkus to u Hubologistù nebo u Shi - a a budeš mít všechno ostatní hotovı, zmáèkneš knoflík a poèítaè se postará o všechno ostatní, teda jestli to bude ještì fungovat. Loï popluje pøímo k ropnı plošinì, pokud tì nesejme ta stará ponorka. Ale aspoò se nebudeš muset obávat, e po tobì bude støílet Enkláva, protoe máš IFF rušièku. Hlavnì se ujisti, e máš všechno, co potøebuješ k pøístupu: FOB, funkèní navigaèní poèítaè a palivo. Jasnı jako facka, ne?}
-{124}{}{Jasnì. Jak tohle všechno víš?}
-{125}{}{Co je to IFF radarová rušièka a ten FOB?}
-{126}{}{Jaká ropná plošina?}
+{123}{}{Jak se tahle bÃ¡rka ovlÃ¡dÃ¡? NejdÅ™Ã­v ji naplnÃ­Å¡ palivem - zkus to u HubologistÅ¯ nebo u Shi - a aÅ¾ budeÅ¡ mÃ­t vÅ¡echno ostatnÃ­ hotovÃ½, zmÃ¡ÄkneÅ¡ knoflÃ­k a poÄÃ­taÄ se postarÃ¡ o vÅ¡echno ostatnÃ­, teda jestli to bude jeÅ¡tÄ› fungovat. LoÄ popluje pÅ™Ã­mo k ropnÃ½ ploÅ¡inÄ›, pokud tÄ› nesejme ta starÃ¡ ponorka. Ale aspoÅˆ se nebudeÅ¡ muset obÃ¡vat, Å¾e po tobÄ› bude stÅ™Ã­let EnklÃ¡va, protoÅ¾e mÃ¡Å¡ IFF ruÅ¡iÄku. HlavnÄ› se ujisti, Å¾e mÃ¡Å¡ vÅ¡echno, co potÅ™ebujeÅ¡ k pÅ™Ã­stupu: FOB, funkÄnÃ­ navigaÄnÃ­ poÄÃ­taÄ a palivo. JasnÃ½ jako facka, ne?}
+{124}{}{JasnÄ›. Jak tohle vÅ¡echno vÃ­Å¡?}
+{125}{}{Co je to IFF radarovÃ¡ ruÅ¡iÄka a ten FOB?}
+{126}{}{JakÃ¡ ropnÃ¡ ploÅ¡ina?}
 {127}{}{Ano. Nashle.}
-{128}{}{IFF: Identifikuj Pøítele nebo Nepøítele. To znamená, e je tahle loï identifikována jako pøátelská, take ostatní zaøízení Poseidonu jako tøeba ropná plošina, na tebe nebudou støílet, kdy se dostaneš na dostøel. Jo a FOB je druh Enklávskı technologie, která ti umoòuje otevøít dveøe elektronicky. Nejspíš se nachází v jednı z jejich základen nebo na podobnejch místech.}
-{129}{}{Jak tohle všechno víš?}
-{130}{}{Jaká ropná plošina?}
-{131}{}{Dík. Naskle.}
-{132}{}{Ano. U tìhlech lidí pøesnì víš, na èem jsi. Na nic si toti nehrajou. Enkláva byla jako smeèka hyen - ve vteøinì ti vrazili kudlu do zad.}
-{133}{}{Co je pøesnì Enkláva?}
+{128}{}{IFF: Identifikuj PÅ™Ã­tele nebo NepÅ™Ã­tele. To znamenÃ¡, Å¾e je tahle loÄ identifikovÃ¡na jako pÅ™Ã¡telskÃ¡, takÅ¾e ostatnÃ­ zaÅ™Ã­zenÃ­ Poseidonu jako tÅ™eba ropnÃ¡ ploÅ¡ina, na tebe nebudou stÅ™Ã­let, kdyÅ¾ se dostaneÅ¡ na dostÅ™el. Jo a FOB je druh EnklÃ¡vskÃ½ technologie, kterÃ¡ ti umoÅ¾Åˆuje otevÅ™Ã­t dveÅ™e elektronicky. NejspÃ­Å¡ se nachÃ¡zÃ­ v jednÃ½ z jejich zÃ¡kladen nebo na podobnejch mÃ­stech.}
+{129}{}{Jak tohle vÅ¡echno vÃ­Å¡?}
+{130}{}{JakÃ¡ ropnÃ¡ ploÅ¡ina?}
+{131}{}{DÃ­k. Naskle.}
+{132}{}{Ano. U tÄ›hlech lidÃ­ pÅ™esnÄ› vÃ­Å¡, na Äem jsi. Na nic si totiÅ¾ nehrajou. EnklÃ¡va byla jako smeÄka hyen - ve vteÅ™inÄ› ti vrazili kudlu do zad.}
+{133}{}{Co je pÅ™esnÄ› EnklÃ¡va?}
 {134}{}{Jak ses sem dostal?}
-{135}{}{Enkláva je pozùstatek starejch èasù. Jestli se rozhodneš s touhle vìcí doplout k tı plošinì, pøesvìdèíš se o tom sám.}
-{136}{}{Jak se to ovládá?}
-{137}{}{Jaká plošina?}
-{138}{}{Docela lehce. Prostì jsem jednoho dne opustil základnu Navarro a zamíøil sem dolù. Domníval jsem se, e je tohle poslední místo, kde mì budou hledat. A navíc nejsem pro Enklávu dost dùleitej na to, aby mì vùbec hledali - jsem pro nì prostì ztracenej.}
-{139}{}{Co je pøesnì Enkláva?}
-{140}{}{Dík. Naskle.}
-{141}{}{V oceánu stojí osamocená velká ropná plošina Poseidonu. Je to poslední základna Enklávy}
-{142}{}{Jak tohle všechno víš?}
-{143}{}{Co se na té plošinì ještì dìje?}
-{144}{}{Dík. Naskle.}
-{145}{}{Øíká se to.}
-{146}{}{Aha. Co se na té plošinì ještì dìje?}
+{135}{}{EnklÃ¡va je pozÅ¯statek starejch ÄasÅ¯. Jestli se rozhodneÅ¡ s touhle vÄ›cÃ­ doplout k tÃ½ ploÅ¡inÄ›, pÅ™esvÄ›dÄÃ­Å¡ se o tom sÃ¡m.}
+{136}{}{Jak se to ovlÃ¡dÃ¡?}
+{137}{}{JakÃ¡ ploÅ¡ina?}
+{138}{}{Docela lehce. ProstÄ› jsem jednoho dne opustil zÃ¡kladnu Navarro a zamÃ­Å™il sem dolÅ¯. DomnÃ­val jsem se, Å¾e je tohle poslednÃ­ mÃ­sto, kde mÄ› budou hledat. A navÃ­c nejsem pro EnklÃ¡vu dost dÅ¯leÅ¾itej na to, aby mÄ› vÅ¯bec hledali - jsem pro nÄ› prostÄ› ztracenej.}
+{139}{}{Co je pÅ™esnÄ› EnklÃ¡va?}
+{140}{}{DÃ­k. Naskle.}
+{141}{}{V oceÃ¡nu stojÃ­ osamocenÃ¡ velkÃ¡ ropnÃ¡ ploÅ¡ina Poseidonu. Je to poslednÃ­ zÃ¡kladna EnklÃ¡vy}
+{142}{}{Jak tohle vÅ¡echno vÃ­Å¡?}
+{143}{}{Co se na tÃ© ploÅ¡inÄ› jeÅ¡tÄ› dÄ›je?}
+{144}{}{DÃ­k. Naskle.}
+{145}{}{Å˜Ã­kÃ¡ se to.}
+{146}{}{Aha. Co se na tÃ© ploÅ¡inÄ› jeÅ¡tÄ› dÄ›je?}
 {147}{}{Aha. Nashle.}
-{148}{}{Co já vím? Byl jsem v Navarru technik, ne operátor plošiny. Mluvili jsme spolu pøes komunikátory a to bylo naše jedinı spojení.}
-{149}{}{Aha. Jake se tahle loï ovládá?}
-{150}{}{Dík. Naskle.}
-{151}{}{Udìlal jsi chybu zahrávat si s kapitánem a jeho pøáteli...}
-{152}{}{Jak se tahle bárka ovládá? Koukám, e u je naplnìná palivem. A budeš mít všechno ostatní hotovı, zmáèkni knoflík. Poèítaè se postará o všechno ostatní, teda jestli to ještì bude fungovat. Loï popluje pøímo k ropnı plošinì, pokud tì nesejme ta stará ponorka. Ale alespoò se nebudeš muset obávat, e po tobì bude støílet Enkláva, protoe máš IFF rušièku. Ujisti se, e máš všechno, co potøebuješ k pøístupu: FOB, funkèní navigaèní poèítaè a palivo. Jasnı jako facka, ne?}
-{153}{}{Jo a musíš ještì zprovoznit navigaèní poèítaè. Vsadím se, e pro nìj najdeš nìjakı souèástky v jednom z tìch starejch vaultù.}
-{154}{}{Rád tì zase vidím. Co potøebuješ?}
-{155}{}{ a moc bych za to nedal, e tam jsou i tví pøátelé.}
+{148}{}{Co jÃ¡ vÃ­m? Byl jsem v Navarru technik, ne operÃ¡tor ploÅ¡iny. Mluvili jsme spolu pÅ™es komunikÃ¡tory a to bylo naÅ¡e jedinÃ½ spojenÃ­.}
+{149}{}{Aha. JakÅ¾e se tahle loÄ ovlÃ¡dÃ¡?}
+{150}{}{DÃ­k. Naskle.}
+{151}{}{UdÄ›lal jsi chybu zahrÃ¡vat si s kapitÃ¡nem a jeho pÅ™Ã¡teli...}
+{152}{}{Jak se tahle bÃ¡rka ovlÃ¡dÃ¡? KoukÃ¡m, Å¾e uÅ¾ je naplnÄ›nÃ¡ palivem. AÅ¾ budeÅ¡ mÃ­t vÅ¡echno ostatnÃ­ hotovÃ½, zmÃ¡Äkni knoflÃ­k. PoÄÃ­taÄ se postarÃ¡ o vÅ¡echno ostatnÃ­, teda jestli to jeÅ¡tÄ› bude fungovat. LoÄ popluje pÅ™Ã­mo k ropnÃ½ ploÅ¡inÄ›, pokud tÄ› nesejme ta starÃ¡ ponorka. Ale alespoÅˆ se nebudeÅ¡ muset obÃ¡vat, Å¾e po tobÄ› bude stÅ™Ã­let EnklÃ¡va, protoÅ¾e mÃ¡Å¡ IFF ruÅ¡iÄku. Ujisti se, Å¾e mÃ¡Å¡ vÅ¡echno, co potÅ™ebujeÅ¡ k pÅ™Ã­stupu: FOB, funkÄnÃ­ navigaÄnÃ­ poÄÃ­taÄ a palivo. JasnÃ½ jako facka, ne?}
+{153}{}{Jo a musÃ­Å¡ jeÅ¡tÄ› zprovoznit navigaÄnÃ­ poÄÃ­taÄ. VsadÃ­m se, Å¾e pro nÄ›j najdeÅ¡ nÄ›jakÃ½ souÄÃ¡stky v jednom z tÄ›ch starejch vaultÅ¯.}
+{154}{}{RÃ¡d tÄ› zase vidÃ­m. Co potÅ™ebujeÅ¡?}
+{155}{}{ a moc bych za to nedal, Å¾e tam jsou i tvÃ­ pÅ™Ã¡telÃ©.}
 {156}{}{.}
-{200}{}{Jaká stará ponorka?}
-{210}{}{Nìkde v zálivu je ztroskotaná stará èínská ponorka. Naskakuje mi husí kùe z toho, jak se tam pod vodou skrıvá jako rezavı duch. Pochybuju, e je ještì funkèní, ale pokud jo, její automatickı zbraòovı systémy by poslaly celej tenhle tanker do pekla døív, ne se k tı ropnı plošinì vùbec pøiblííš.}
-{211}{}{Proè si myslíš, e u ta ponorka není funkèní?}
-{220}{}{No, tak nìjak leí a rozpadá se na dnì oceánu u od dob Velkı války. Navíc, pokud by byla aktivní, opìtovala by palbu na plošinu kdy tady Enkláva poprvı zakotvila. Ale je klidnì monı, e se k ní dostali Shi zaèali ji opravovat, take nikdy nevíš. Bylo by lepší to zjistit ne vypluješ.}
-{221}{}{Jak to zjistím?}
-{230}{}{Jestli nìkdo ví, co se dìje s tou ponorkou, budou to Shi. Ponorka je toti to, díky èemu se sem dostali. Nepøekvapilo by mì kdyby tu vìc uctívali. Císaø Shi bude vìdìt samozøejmì o všem, ale stejnì pøeju hodnì štìstí. Nejlepší bude, kdy se zeptáš Lao Chou ve Flying Dragon 8 - je známej tím, e èas od èasu utrousí nìjakou informaci. A nebo moná donutíš mluvit nìjakıho dìlníka v pøístavu.}
+{200}{}{JakÃ¡ starÃ¡ ponorka?}
+{210}{}{NÄ›kde v zÃ¡livu je ztroskotanÃ¡ starÃ¡ ÄÃ­nskÃ¡ ponorka. Naskakuje mi husÃ­ kÅ¯Å¾e z toho, jak se tam pod vodou skrÃ½vÃ¡ jako rezavÃ½ duch. Pochybuju, Å¾e je jeÅ¡tÄ› funkÄnÃ­, ale pokud jo, jejÃ­ automatickÃ½ zbraÅˆovÃ½ systÃ©my by poslaly celej tenhle tanker do pekla dÅ™Ã­v, neÅ¾ se k tÃ½ ropnÃ½ ploÅ¡inÄ› vÅ¯bec pÅ™iblÃ­Å¾Ã­Å¡.}
+{211}{}{ProÄ si myslÃ­Å¡, Å¾e uÅ¾ ta ponorka nenÃ­ funkÄnÃ­?}
+{220}{}{No, tak nÄ›jak leÅ¾Ã­ a rozpadÃ¡ se na dnÄ› oceÃ¡nu uÅ¾ od dob VelkÃ½ vÃ¡lky. NavÃ­c, pokud by byla aktivnÃ­, opÄ›tovala by palbu na ploÅ¡inu kdyÅ¾ tady EnklÃ¡va poprvÃ½ zakotvila. Ale je klidnÄ› moÅ¾nÃ½, Å¾e se k nÃ­ dostali Shi zaÄali ji opravovat, takÅ¾e nikdy nevÃ­Å¡. Bylo by lepÅ¡Ã­ to zjistit neÅ¾ vyplujeÅ¡.}
+{221}{}{Jak to zjistÃ­m?}
+{230}{}{Jestli nÄ›kdo vÃ­, co se dÄ›je s tou ponorkou, budou to Shi. Ponorka je totiÅ¾ to, dÃ­ky Äemu se sem dostali. NepÅ™ekvapilo by mÄ› kdyby tu vÄ›c uctÃ­vali. CÃ­saÅ™ Shi bude vÄ›dÄ›t samozÅ™ejmÄ› o vÅ¡em, ale stejnÄ› pÅ™eju hodnÄ› Å¡tÄ›stÃ­. NejlepÅ¡Ã­ bude, kdyÅ¾ se zeptÃ¡Å¡ Lao Chou ve Flying Dragon 8 - je znÃ¡mej tÃ­m, Å¾e Äas od Äasu utrousÃ­ nÄ›jakou informaci. A nebo moÅ¾nÃ¡ donutÃ­Å¡ mluvit nÄ›jakÃ½ho dÄ›lnÃ­ka v pÅ™Ã­stavu.}

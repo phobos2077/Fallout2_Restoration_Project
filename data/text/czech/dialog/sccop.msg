@@ -1,16 +1,16 @@
-{100}{}{Vidíš postavu obleèenou v uniformì NCR policie.}
-{101}{}{Vidíš policistu NCR.}
-{102}{}{Podle toho, jak se tváøí, neèekej ádnı soucit.}
-{103}{}{Schovej tu zbraò - HNED!}
-{104}{}{V tomto mìstì se nesmí nosit zbranì, cizinèe. Schovej ji.}
-{105}{}{Schovej zbraò a nikomu se nic nestane.}
-{106}{}{Je zákaz vycházení, cizinèe. Co tu ještì dìláš?}
-{107}{}{Jdi dál. Tady není nic k vidìní.}
-{108}{}{Noc není vhodná doba na procházení po ulici.}
-{109}{}{Dobrı den, cizinèe. Jsi tu novı?}
-{110}{}{Jdi dál. Tady není nic k vidìní.}
-{111}{}{Jsem zamìstnán. Jestli je nìjakı problém, nahlaš to šerifovi.}
-{112}{}{Hej, pøestaò si s tím hrát.}
+{100}{}{VidÃ­Å¡ postavu obleÄenou v uniformÄ› NCR policie.}
+{101}{}{VidÃ­Å¡ policistu NCR.}
+{102}{}{Podle toho, jak se tvÃ¡Å™Ã­, neÄekej Å¾Ã¡dnÃ½ soucit.}
+{103}{}{Schovej tu zbraÅˆ - HNED!}
+{104}{}{V tomto mÄ›stÄ› se nesmÃ­ nosit zbranÄ›, cizinÄe. Schovej ji.}
+{105}{}{Schovej zbraÅˆ a nikomu se nic nestane.}
+{106}{}{Je zÃ¡kaz vychÃ¡zenÃ­, cizinÄe. Co tu jeÅ¡tÄ› dÄ›lÃ¡Å¡?}
+{107}{}{Jdi dÃ¡l. Tady nenÃ­ nic k vidÄ›nÃ­.}
+{108}{}{Noc nenÃ­ vhodnÃ¡ doba na prochÃ¡zenÃ­ po ulici.}
+{109}{}{DobrÃ½ den, cizinÄe. Jsi tu novÃ½?}
+{110}{}{Jdi dÃ¡l. Tady nenÃ­ nic k vidÄ›nÃ­.}
+{111}{}{Jsem zamÄ›stnÃ¡n. Jestli je nÄ›jakÃ½ problÃ©m, nahlaÅ¡ to Å¡erifovi.}
+{112}{}{Hej, pÅ™estaÅˆ si s tÃ­m hrÃ¡t.}
 {113}{}{Jdi odtamtud.}
 {114}{}{Nech to na pokoji.}
-{115}{}{Jestli s tím hned nepøestaneš, mám povolení tì zastøelit.}
+{115}{}{Jestli s tÃ­m hned nepÅ™estaneÅ¡, mÃ¡m povolenÃ­ tÄ› zastÅ™elit.}

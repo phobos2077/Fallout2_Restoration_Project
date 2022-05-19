@@ -1,18 +1,18 @@
-{100}{}{Vidíš strá.}
-{101}{}{Vidíš strá v energo zbroji.}
-{102}{}{Vidíš osobu v energo zbroji neobvyklého vzhledu. Na prsou má znak, kterı nepoznáváš.}
-{103}{}{Táhni odsud.}
-{104}{}{Jsem na strái. Nemám èas se s tebou vybavovat.}
-{105}{}{Pokraèuj v cestì. Vchod je támhle.}
-{106}{}{Jdi si po své práci.}
-{107}{}{Moc se tu okolo nepromenáduj bez uniformy.}
-{108}{}{Teï jsi v armádì. Dej si bacha, a tì nechytí bez uniformy.}
-{109}{}{Vetøelci u hlavní brány!}
-{110}{}{Spuste alarm! Vetøelci!}
-{111}{}{Pošlete zálohy k hlavní bránì. Máme tu nezvanou návštìvu!}
-{112}{}{Pohotovost u hlavní brány!}
-{113}{}{Zabezpeète všechny stanice! Hlavní vchod je pod útokem!}
-{114}{}{Poplach u hlavní brány! Èervenı kód!}
-{115}{}{Chcípneš!}
-{116}{}{Enkláva bude vládnou svìtu!}
-{117}{}{Ty zhebneš, Enkláva bude ít dál!}
+{100}{}{VidÃ­Å¡ strÃ¡Å¾.}
+{101}{}{VidÃ­Å¡ strÃ¡Å¾ v energo zbroji.}
+{102}{}{VidÃ­Å¡ osobu v energo zbroji neobvyklÃ©ho vzhledu. Na prsou mÃ¡ znak, kterÃ½ nepoznÃ¡vÃ¡Å¡.}
+{103}{}{TÃ¡hni odsud.}
+{104}{}{Jsem na strÃ¡Å¾i. NemÃ¡m Äas se s tebou vybavovat.}
+{105}{}{PokraÄuj v cestÄ›. Vchod je tÃ¡mhle.}
+{106}{}{Jdi si po svÃ© prÃ¡ci.}
+{107}{}{Moc se tu okolo nepromenÃ¡duj bez uniformy.}
+{108}{}{TeÄ jsi v armÃ¡dÄ›. Dej si bacha, aÅ¥ tÄ› nechytÃ­ bez uniformy.}
+{109}{}{VetÅ™elci u hlavnÃ­ brÃ¡ny!}
+{110}{}{SpusÅ¥te alarm! VetÅ™elci!}
+{111}{}{PoÅ¡lete zÃ¡lohy k hlavnÃ­ brÃ¡nÄ›. MÃ¡me tu nezvanou nÃ¡vÅ¡tÄ›vu!}
+{112}{}{Pohotovost u hlavnÃ­ brÃ¡ny!}
+{113}{}{ZabezpeÄte vÅ¡echny stanice! HlavnÃ­ vchod je pod Ãºtokem!}
+{114}{}{Poplach u hlavnÃ­ brÃ¡ny! ÄŒervenÃ½ kÃ³d!}
+{115}{}{ChcÃ­pneÅ¡!}
+{116}{}{EnklÃ¡va bude vlÃ¡dnou svÄ›tu!}
+{117}{}{Ty zhebneÅ¡, EnklÃ¡va bude Å¾Ã­t dÃ¡l!}

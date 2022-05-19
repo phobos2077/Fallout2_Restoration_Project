@@ -1,72 +1,72 @@
-{100}{}{Vidíš zamraèenou osobu obleèenou v kombinéze vaultu.}
-{101}{}{Vidíš vìznì z Vaultu 13.}
-{102}{}{Vidíš pobledlou osobu obleèenou v kombinéze Vaultu 13.}
-{103}{}{Vidíš èlena tvého kmene.}
-{104}{}{Vidíš svého dobrého pøítele z tvého kmene.}
-{105}{}{Vidíš èleny tvého kmene... nevypadají pøíliš dobøe.}
-{106}{}{Tohle místo nemùe bıt vault, je tu moc rzi.}
-{107}{}{Myslím, e slyším oceán.}
-{108}{}{Mluvil jsi u s Martinem Frobisherem?}
+{100}{}{VidÃ­Å¡ zamraÄenou osobu obleÄenou v kombinÃ©ze vaultu.}
+{101}{}{VidÃ­Å¡ vÄ›znÄ› z Vaultu 13.}
+{102}{}{VidÃ­Å¡ pobledlou osobu obleÄenou v kombinÃ©ze Vaultu 13.}
+{103}{}{VidÃ­Å¡ Älena tvÃ©ho kmene.}
+{104}{}{VidÃ­Å¡ svÃ©ho dobrÃ©ho pÅ™Ã­tele z tvÃ©ho kmene.}
+{105}{}{VidÃ­Å¡ Äleny tvÃ©ho kmene... nevypadajÃ­ pÅ™Ã­liÅ¡ dobÅ™e.}
+{106}{}{Tohle mÃ­sto nemÅ¯Å¾e bÃ½t vault, je tu moc rzi.}
+{107}{}{MyslÃ­m, Å¾e slyÅ¡Ã­m oceÃ¡n.}
+{108}{}{Mluvil jsi uÅ¾ s Martinem Frobisherem?}
 {109}{}{Promluv si s Martinem.}
-{110}{}{Martin je náš mluvèí, promluv si s ním.}
-{111}{}{Pan Frobisher je v první cele.}
-{112}{}{Nemají tu ani ádná zábavná videa.}
-{113}{}{Chci mluvit s nìkım o kvalitì jídla.}
-{114}{}{No paráda, teï se nás snaí zastrašit nìjakım hrubiánem.}
+{110}{}{Martin je nÃ¡Å¡ mluvÄÃ­, promluv si s nÃ­m.}
+{111}{}{Pan Frobisher je v prvnÃ­ cele.}
+{112}{}{NemajÃ­ tu ani Å¾Ã¡dnÃ¡ zÃ¡bavnÃ¡ videa.}
+{113}{}{Chci mluvit s nÄ›kÃ½m o kvalitÄ› jÃ­dla.}
+{114}{}{No parÃ¡da, teÄ se nÃ¡s snaÅ¾Ã­ zastraÅ¡it nÄ›jakÃ½m hrubiÃ¡nem.}
 {115}{}{Ty jsi utekl?}
 {116}{}{Jak ses dostal ven?}
-{117}{}{Mluvíš jako Vyvolenı.}
-{118}{}{Ty jsi... ty jsi Vyvolenı?}
-{119}{}{Musíš si promluvit se Starší.}
-{120}{}{Starší øíká, e nás zachráníš!}
-{121}{}{U jsi mluvil se Starší?}
-{122}{}{Starší je zavøená v první cele. Musíš si s ní promluvit.}
-{123}{}{Promluv si se Starší.}
-{124}{}{Ty dát svobodu my!}
-{125}{}{Dostaò nás odsud.}
-{126}{}{U to tady nevydrím.}
-{127}{}{Moc si pøeju, abych aspoò ještì jednou ucítil vítr ve tváøi.}
-{128}{}{Osvoboï nás, Vyvolenı!}
-{129}{}{Vyvolenı je tady!}
-{130}{}{Osvoboï nás!}
-{131}{}{Udìlej, co ti Starší øekla.}
-{132}{}{Dostaò nás odsud, ne se ti ïáblové vrátí zpátky!}
-{133}{}{Prosím, pomoz nám, Vyvolenı.}
-{134}{}{Díky bohu, Vyvolenı koneènì pøišel.}
-{135}{}{Pomoz nám }
-{136}{}{Osvoboï nás }
+{117}{}{MluvÃ­Å¡ jako VyvolenÃ½.}
+{118}{}{Ty jsi... ty jsi VyvolenÃ½?}
+{119}{}{MusÃ­Å¡ si promluvit se StarÅ¡Ã­.}
+{120}{}{StarÅ¡Ã­ Å™Ã­kÃ¡, Å¾e nÃ¡s zachrÃ¡nÃ­Å¡!}
+{121}{}{UÅ¾ jsi mluvil se StarÅ¡Ã­?}
+{122}{}{StarÅ¡Ã­ je zavÅ™enÃ¡ v prvnÃ­ cele. MusÃ­Å¡ si s nÃ­ promluvit.}
+{123}{}{Promluv si se StarÅ¡Ã­.}
+{124}{}{Ty dÃ¡t svobodu my!}
+{125}{}{DostaÅˆ nÃ¡s odsud.}
+{126}{}{UÅ¾ to tady nevydrÅ¾Ã­m.}
+{127}{}{Moc si pÅ™eju, abych aspoÅˆ jeÅ¡tÄ› jednou ucÃ­til vÃ­tr ve tvÃ¡Å™i.}
+{128}{}{OsvoboÄ nÃ¡s, VyvolenÃ½!}
+{129}{}{VyvolenÃ½ je tady!}
+{130}{}{OsvoboÄ nÃ¡s!}
+{131}{}{UdÄ›lej, co ti StarÅ¡Ã­ Å™ekla.}
+{132}{}{DostaÅˆ nÃ¡s odsud, neÅ¾ se ti ÄÃ¡blovÃ© vrÃ¡tÃ­ zpÃ¡tky!}
+{133}{}{ProsÃ­m, pomoz nÃ¡m, VyvolenÃ½.}
+{134}{}{DÃ­ky bohu, VyvolenÃ½ koneÄnÄ› pÅ™iÅ¡el.}
+{135}{}{Pomoz nÃ¡m }
+{136}{}{OsvoboÄ nÃ¡s }
 {137}{}{Jsi tady, }
-{138}{}{Víš co máš dìlat, tak to udìlej!}
-{139}{}{Bìte!}
-{140}{}{Dostaò nás odsud.}
-{141}{}{Vypni elektøinu!}
-{142}{}{Osvoboï nás.}
-{143}{}{Bì a dostaò nás odsud!}
-{144}{}{Pomoz nám prosím!}
-{145}{}{Jsi naše jediná nadìje!}
-{146}{}{Prosím, u to tady dlouho nevydrím.}
-{147}{}{U nechci ádné prášky. Ne, ne. Neeeeeeee!}
-{148}{}{Duchové, ochraòte nás!}
-{149}{}{Kde jsou duchové, kdy je potøebujeme?}
-{150}{}{Pomozte nám!}
-{151}{}{Ty dát svobodu my!}
-{152}{}{Chci se vrátit domù.}
-{153}{}{Nejdøív sucho a teï tohle.}
-{154}{}{U ádné jehly, u ne!}
-{155}{}{U to nevydrím! Zdi se poøád pøibliují!}
+{138}{}{VÃ­Å¡ co mÃ¡Å¡ dÄ›lat, tak to udÄ›lej!}
+{139}{}{BÄ›Å¾te!}
+{140}{}{DostaÅˆ nÃ¡s odsud.}
+{141}{}{Vypni elektÅ™inu!}
+{142}{}{OsvoboÄ nÃ¡s.}
+{143}{}{BÄ›Å¾ a dostaÅˆ nÃ¡s odsud!}
+{144}{}{Pomoz nÃ¡m prosÃ­m!}
+{145}{}{Jsi naÅ¡e jedinÃ¡ nadÄ›je!}
+{146}{}{ProsÃ­m, uÅ¾ to tady dlouho nevydrÅ¾Ã­m.}
+{147}{}{UÅ¾ nechci Å¾Ã¡dnÃ© prÃ¡Å¡ky. Ne, ne. Neeeeeeee!}
+{148}{}{DuchovÃ©, ochraÅˆte nÃ¡s!}
+{149}{}{Kde jsou duchovÃ©, kdyÅ¾ je potÅ™ebujeme?}
+{150}{}{Pomozte nÃ¡m!}
+{151}{}{Ty dÃ¡t svobodu my!}
+{152}{}{Chci se vrÃ¡tit domÅ¯.}
+{153}{}{NejdÅ™Ã­v sucho a teÄ tohle.}
+{154}{}{UÅ¾ Å¾Ã¡dnÃ© jehly, uÅ¾ ne!}
+{155}{}{UÅ¾ to nevydrÅ¾Ã­m! Zdi se poÅ™Ã¡d pÅ™ibliÅ¾ujÃ­!}
 {156}{}{(Vzlyk, vzlyk)}
-{157}{}{Puste nás!}
-{158}{}{Starší nás odsud dostane.}
-{159}{}{Èím jsme se provinili vùèi tìmto zlım duchùm?}
-{160}{}{U je mi všechno jedno.}
+{157}{}{PusÅ¥te nÃ¡s!}
+{158}{}{StarÅ¡Ã­ nÃ¡s odsud dostane.}
+{159}{}{ÄŒÃ­m jsme se provinili vÅ¯Äi tÄ›mto zlÃ½m duchÅ¯m?}
+{160}{}{UÅ¾ je mi vÅ¡echno jedno.}
 {161}{}{Kde je Martin?}
-{162}{}{Tohle nevypadá ani trochu jako vault.}
-{163}{}{Dostaò nás odsud!}
-{164}{}{Haló? Haló!}
-{165}{}{Trvám na tom, abych byl propuštìn.}
-{166}{}{Jsem obèan Spojenıch státù a chci mluvit s nadøízenım.}
-{167}{}{Puste mì ven.}
-{168}{}{To je hrozná nuda.}
-{169}{}{U ádné prášky. U jich mám po krk.}
-{170}{}{Nemùou nás tu dret navìky.}
-{171}{}{Válka ještì neskonèila?}
+{162}{}{Tohle nevypadÃ¡ ani trochu jako vault.}
+{163}{}{DostaÅˆ nÃ¡s odsud!}
+{164}{}{HalÃ³? HalÃ³!}
+{165}{}{TrvÃ¡m na tom, abych byl propuÅ¡tÄ›n.}
+{166}{}{Jsem obÄan SpojenÃ½ch stÃ¡tÅ¯ a chci mluvit s nadÅ™Ã­zenÃ½m.}
+{167}{}{PusÅ¥te mÄ› ven.}
+{168}{}{To je hroznÃ¡ nuda.}
+{169}{}{UÅ¾ Å¾Ã¡dnÃ© prÃ¡Å¡ky. UÅ¾ jich mÃ¡m po krk.}
+{170}{}{NemÅ¯Å¾ou nÃ¡s tu drÅ¾et navÄ›ky.}
+{171}{}{VÃ¡lka jeÅ¡tÄ› neskonÄila?}

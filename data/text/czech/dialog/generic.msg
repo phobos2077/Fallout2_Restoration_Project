@@ -1,215 +1,215 @@
-{100}{}{Získáváš }
-{101}{}{ zkušenostních bodù.}
-{102}{}{Úspìšnì zneškodòuješ past.}
+{100}{}{ZÃ­skÃ¡vÃ¡Å¡ }
+{101}{}{ zkuÅ¡enostnÃ­ch bodÅ¯.}
+{102}{}{ÃšspÄ›Å¡nÄ› zneÅ¡kodÅˆujeÅ¡ past.}
 {103}{}{Nepovedlo se ti odstranit past.}
-{104}{}{Náhodnì spouštíš past.}
-{105}{}{ úspìšnì zneškodòuje past.}
-{106}{}{ nedokáe zneškodnit past.}
-{107}{}{ náhodnì spouští past.}
-{200}{}{Díky.}
-{201}{}{Hezkı den.}
-{202}{}{Díky.}
-{203}{}{Díky!}
-{204}{}{Ne, díky.}
-{205}{}{Ne, díky.}
-{206}{}{Jasnì.}
+{104}{}{NÃ¡hodnÄ› spouÅ¡tÃ­Å¡ past.}
+{105}{}{ ÃºspÄ›Å¡nÄ› zneÅ¡kodÅˆuje past.}
+{106}{}{ nedokÃ¡Å¾e zneÅ¡kodnit past.}
+{107}{}{ nÃ¡hodnÄ› spouÅ¡tÃ­ past.}
+{200}{}{DÃ­ky.}
+{201}{}{HezkÃ½ den.}
+{202}{}{DÃ­ky.}
+{203}{}{DÃ­ky!}
+{204}{}{Ne, dÃ­ky.}
+{205}{}{Ne, dÃ­ky.}
+{206}{}{JasnÄ›.}
 {207}{}{Ano.}
 {208}{}{Ne.}
-{209}{}{Dobøe.}
+{209}{}{DobÅ™e.}
 {300}{}{Eh.}
 {301}{}{Eee.}
 {302}{}{Ooga.}
 {303}{}{Uhmm.}
 {350}{}{[KONEC]}
 {351}{}{[NASHLE]}
-{352}{}{[Více]}
-{353}{}{Pokraèovat.}
+{352}{}{[VÃ­ce]}
+{353}{}{PokraÄovat.}
 {354}{}{[BOJ]}
-{355}{}{[Dát peníze]}
+{355}{}{[DÃ¡t penÃ­ze]}
 {375}{}{Nashle.}
 {376}{}{Sbohem.}
-{400}{}{Umíráš díky smrtelné injekci doktora Troye.}
-{450}{}{Vzduch je èistı. Pojïme odsud!}
-{900}{}{Tyto staré opotøebované dveøe vypadají, e by se daly znièit dobøe umístìnou vıbušninou.}
-{901}{}{Vidíš povoz, kterım mùeš odvézt otroky zpìt do Denu.}
+{400}{}{UmÃ­rÃ¡Å¡ dÃ­ky smrtelnÃ© injekci doktora Troye.}
+{450}{}{Vzduch je ÄistÃ½. PojÄme odsud!}
+{900}{}{Tyto starÃ© opotÅ™ebovanÃ© dveÅ™e vypadajÃ­, Å¾e by se daly zniÄit dobÅ™e umÃ­stÄ›nou vÃ½buÅ¡ninou.}
+{901}{}{VidÃ­Å¡ povoz, kterÃ½m mÅ¯Å¾eÅ¡ odvÃ©zt otroky zpÄ›t do Denu.}
 {905}{}{HAF! HAF!}
-{910}{}{Dostáváš ránu od elektrické podlahy.}
-{911}{}{ dostává ránu od elektrické podlahy.}
-{912}{}{Energie klesla na nulu a kdy naskoèily záloní generátory, vrátila se zpìt na 50%.}
-{913}{}{Je slyšet nepatrné bzuèení, jak elektrická energie opìt prochází základnou.}
-{920}{}{Naráíš na pozùstatky Nagora, kterı zemøel pøi pokusu zachránit svého psa.}
-{921}{}{Nagor zemøel pøi pokusu odtáhnout tìlo svého psa zpátky do vesnice.}
+{910}{}{DostÃ¡vÃ¡Å¡ rÃ¡nu od elektrickÃ© podlahy.}
+{911}{}{ dostÃ¡vÃ¡ rÃ¡nu od elektrickÃ© podlahy.}
+{912}{}{Energie klesla na nulu a kdyÅ¾ naskoÄily zÃ¡loÅ¾nÃ­ generÃ¡tory, vrÃ¡tila se zpÄ›t na 50%.}
+{913}{}{Je slyÅ¡et nepatrnÃ© bzuÄenÃ­, jak elektrickÃ¡ energie opÄ›t prochÃ¡zÃ­ zÃ¡kladnou.}
+{920}{}{NarÃ¡Å¾Ã­Å¡ na pozÅ¯statky Nagora, kterÃ½ zemÅ™el pÅ™i pokusu zachrÃ¡nit svÃ©ho psa.}
+{921}{}{Nagor zemÅ™el pÅ™i pokusu odtÃ¡hnout tÄ›lo svÃ©ho psa zpÃ¡tky do vesnice.}
 {930}{}{Voooooouuuuu!}
 {950}{}{You take some time out to practice some moves. Your unarmed combat skills increase.}
-{951}{}{Bojující krtèí potkan jde zasadit koneènı úder.}
-{952}{}{Zápas skonèil.}
-{1000}{}{Podaøilo se ti úspìšnì sloit test Obèanství.}
-{1001}{}{McClure byl informován o závislosti obyvatel Reddingu na Jetu.}
-{1002}{}{Podaøilo se ti obnovit obchodování z Reddingem.}
-{1003}{}{Podaøilo se ti vypnout silová pole.}
-{1004}{}{Podaøilo se ti hacknout do poèítaèe.}
-{1005}{}{Podaøilo se ti opravit studnu.}
-{1006}{}{Podaøilo se ti pøedvést Hakeswilla pøed spravedlnost.}
-{1007}{}{Podaøilo se ti doruèit èip pro dùlní rypadlo.}
-{1008}{}{Podaøilo se ti vyøešit problém s vdovou Rooneyovou.}
-{1009}{}{Podaøilo se ti projít zkouškami Arroya.}
-{1010}{}{Dáváš Dr. Troyovi recept na protijed.}
-{1011}{}{Reaktor byl znièen.}
-{1012}{}{VAROVÁNÍ! Hrozí kompletní roztavení reaktoru!}
-{1013}{}{VAROVÁNÍ! TOXINY vypuštìny do ventilaèních šachet.}
-{1014}{}{Podaøilo se ti vyèistit dùl Wanamingo.}
-{1015}{}{Podaøilo se ti dostat skrz místnost plnou pastí.}
-{1016}{}{Jejda, málem bych zapomnìl na GECK. Zajímalo by mì, jestli se tu nìjakı nachází.}
-{1017}{}{Dveøe se rozletìly po naukání GECK kódu.}
-{1018}{}{Podaøilo se ti vyhladit gang abáka Mortona.}
-{1019}{}{Vypínáš energetické pláty.}
-{1020}{}{Podaøilo se ti ukonèit hádku v baru.}
-{1021}{}{Podaøilo se ti vypnout terminál opravárenskıch robotù.}
-{1050}{}{Z toxinu škorpiona získáváš protijed.}
-{1051}{}{Smíchal jsi koøen Xanderu s kvìtinou Broc a tím tak vytvoøil léèivı prášek.}
-{1099}{}{GECK je pro vesnici pøíliš cennı, ne abys ho tady jen tak nechal leet.}
+{951}{}{BojujÃ­cÃ­ krtÄÃ­ potkan jde zasadit koneÄnÃ½ Ãºder.}
+{952}{}{ZÃ¡pas skonÄil.}
+{1000}{}{PodaÅ™ilo se ti ÃºspÄ›Å¡nÄ› sloÅ¾it test ObÄanstvÃ­.}
+{1001}{}{McClure byl informovÃ¡n o zÃ¡vislosti obyvatel Reddingu na Jetu.}
+{1002}{}{PodaÅ™ilo se ti obnovit obchodovÃ¡nÃ­ z Reddingem.}
+{1003}{}{PodaÅ™ilo se ti vypnout silovÃ¡ pole.}
+{1004}{}{PodaÅ™ilo se ti hacknout do poÄÃ­taÄe.}
+{1005}{}{PodaÅ™ilo se ti opravit studnu.}
+{1006}{}{PodaÅ™ilo se ti pÅ™edvÃ©st Hakeswilla pÅ™ed spravedlnost.}
+{1007}{}{PodaÅ™ilo se ti doruÄit Äip pro dÅ¯lnÃ­ rypadlo.}
+{1008}{}{PodaÅ™ilo se ti vyÅ™eÅ¡it problÃ©m s vdovou Rooneyovou.}
+{1009}{}{PodaÅ™ilo se ti projÃ­t zkouÅ¡kami Arroya.}
+{1010}{}{DÃ¡vÃ¡Å¡ Dr. Troyovi recept na protijed.}
+{1011}{}{Reaktor byl zniÄen.}
+{1012}{}{VAROVÃNÃ! HrozÃ­ kompletnÃ­ roztavenÃ­ reaktoru!}
+{1013}{}{VAROVÃNÃ! TOXINY vypuÅ¡tÄ›ny do ventilaÄnÃ­ch Å¡achet.}
+{1014}{}{PodaÅ™ilo se ti vyÄistit dÅ¯l Wanamingo.}
+{1015}{}{PodaÅ™ilo se ti dostat skrz mÃ­stnost plnou pastÃ­.}
+{1016}{}{Jejda, mÃ¡lem bych zapomnÄ›l na GECK. ZajÃ­malo by mÄ›, jestli se tu nÄ›jakÃ½ nachÃ¡zÃ­.}
+{1017}{}{DveÅ™e se rozletÄ›ly po naÅ¥ukÃ¡nÃ­ GECK kÃ³du.}
+{1018}{}{PodaÅ™ilo se ti vyhladit gang Å½abÃ¡ka Mortona.}
+{1019}{}{VypÃ­nÃ¡Å¡ energetickÃ© plÃ¡ty.}
+{1020}{}{PodaÅ™ilo se ti ukonÄit hÃ¡dku v baru.}
+{1021}{}{PodaÅ™ilo se ti vypnout terminÃ¡l opravÃ¡renskÃ½ch robotÅ¯.}
+{1050}{}{Z toxinu Å¡korpiona zÃ­skÃ¡vÃ¡Å¡ protijed.}
+{1051}{}{SmÃ­chal jsi koÅ™en Xanderu s kvÄ›tinou Broc a tÃ­m tak vytvoÅ™il lÃ©ÄivÃ½ prÃ¡Å¡ek.}
+{1099}{}{GECK je pro vesnici pÅ™Ã­liÅ¡ cennÃ½, neÅ¾ abys ho tady jen tak nechal leÅ¾et.}
 {2000}{}{nula}
 {2001}{}{jedna}
 {2002}{}{dva}
-{2003}{}{tøi}
-{2004}{}{ètyøi}
-{2005}{}{pìt}
-{2006}{}{šest}
+{2003}{}{tÅ™i}
+{2004}{}{ÄtyÅ™i}
+{2005}{}{pÄ›t}
+{2006}{}{Å¡est}
 {2007}{}{sedm}
 {2008}{}{osm}
-{2009}{}{devìt}
+{2009}{}{devÄ›t}
 {2010}{}{deset}
-{2011}{}{jedenáct}
-{2012}{}{dvanáct}
-{2013}{}{tøináct}
-{2014}{}{ètrnáct}
-{2015}{}{patnáct}
-{2016}{}{šestnáct}
-{2017}{}{sedmnáct}
-{2018}{}{osmnáct}
-{2019}{}{devatenáct}
+{2011}{}{jedenÃ¡ct}
+{2012}{}{dvanÃ¡ct}
+{2013}{}{tÅ™inÃ¡ct}
+{2014}{}{ÄtrnÃ¡ct}
+{2015}{}{patnÃ¡ct}
+{2016}{}{Å¡estnÃ¡ct}
+{2017}{}{sedmnÃ¡ct}
+{2018}{}{osmnÃ¡ct}
+{2019}{}{devatenÃ¡ct}
 {2021}{}{dvacet-jedna}
 {2022}{}{dvacet-dva}
-{2023}{}{dvacet-tøi}
-{2024}{}{dvacet-ètyøi}
-{2025}{}{dvacet-pìt}
-{2026}{}{dvacet-šest}
+{2023}{}{dvacet-tÅ™i}
+{2024}{}{dvacet-ÄtyÅ™i}
+{2025}{}{dvacet-pÄ›t}
+{2026}{}{dvacet-Å¡est}
 {2027}{}{dvacet-sedm}
 {2028}{}{dvacet-osm}
-{2029}{}{dvacet-devìt}
-{2030}{}{tøicet}
-{2031}{}{tøicet-jedna}
-{2032}{}{tøicet-dva}
-{2033}{}{tøicet-tøi}
-{2034}{}{tøicet-ètyøi}
-{2035}{}{tøicet-pìt}
-{2036}{}{tøicet-šest}
-{2037}{}{tøicet-sedm}
-{2038}{}{tøicet-osm}
-{2039}{}{tøicet-devìt}
-{2040}{}{ètyøicet}
-{2041}{}{ètyøicet-jedna}
-{2042}{}{ètyøicet-dva}
-{2043}{}{ètyøicet-tøi}
-{2044}{}{ètyøicet-ètyøi}
-{2045}{}{ètyøicet-pìt}
-{2046}{}{ètyøicet-šest}
-{2047}{}{ètyøicet-sedm}
-{2048}{}{ètyøicet-osm}
-{2049}{}{ètyøicet-devìt}
-{2050}{}{padesát}
-{2051}{}{padesát-jedna}
-{2052}{}{padesát-dva}
-{2053}{}{padesát-tøi}
-{2054}{}{padesát-ètyøi}
-{2055}{}{padesát-pìt}
-{2056}{}{padesát-šest}
-{2057}{}{padesát-sedm}
-{2058}{}{padesát-osm}
-{2059}{}{padesát-devìt}
-{2060}{}{šedesát}
-{2061}{}{šedesát-jedna}
-{2062}{}{šedesát-dva}
-{2063}{}{šedesát-tøi}
-{2064}{}{šedesát-ètyøi}
-{2065}{}{šedesát-pìt}
-{2066}{}{šedesát-šest}
-{2067}{}{šedesát-sedm}
-{2068}{}{šedesát-osm}
-{2069}{}{šedesát-devìt}
-{2070}{}{sedmdesát}
-{2071}{}{sedmdesát-jedna}
-{2072}{}{sedmdesát-dva}
-{2073}{}{sedmdesát-tøi}
-{2074}{}{sedmdesát-ètyøi}
-{2075}{}{sedmdesát-pìt}
-{2076}{}{sedmdesát-šest}
-{2077}{}{sedmdesát-sedm}
-{2078}{}{sedmdesát-osm}
-{2079}{}{sedmdesát-devìt}
-{2080}{}{osmdesát}
-{2081}{}{osmdesát-jedna}
-{2082}{}{osmdesát-dva}
-{2083}{}{osmdesát-tøi}
-{2084}{}{osmdesát-ètyøi}
-{2085}{}{osmdesát-pìt}
-{2086}{}{osmdesát-šest}
-{2087}{}{osmdesát-sedm}
-{2088}{}{osmdesát-osm}
-{2089}{}{osmdesát-devìt}
-{2090}{}{devadesát}
-{2091}{}{devadesát-jedna}
-{2092}{}{devadesát-dva}
-{2093}{}{devadesát-tøi}
-{2094}{}{devadesát-ètyøi}
-{2095}{}{devadesát-pìt}
-{2096}{}{devadesát-šest}
-{2097}{}{devadesát-sedm}
-{2098}{}{devadesát-osm}
-{2099}{}{devadesát-devìt}
+{2029}{}{dvacet-devÄ›t}
+{2030}{}{tÅ™icet}
+{2031}{}{tÅ™icet-jedna}
+{2032}{}{tÅ™icet-dva}
+{2033}{}{tÅ™icet-tÅ™i}
+{2034}{}{tÅ™icet-ÄtyÅ™i}
+{2035}{}{tÅ™icet-pÄ›t}
+{2036}{}{tÅ™icet-Å¡est}
+{2037}{}{tÅ™icet-sedm}
+{2038}{}{tÅ™icet-osm}
+{2039}{}{tÅ™icet-devÄ›t}
+{2040}{}{ÄtyÅ™icet}
+{2041}{}{ÄtyÅ™icet-jedna}
+{2042}{}{ÄtyÅ™icet-dva}
+{2043}{}{ÄtyÅ™icet-tÅ™i}
+{2044}{}{ÄtyÅ™icet-ÄtyÅ™i}
+{2045}{}{ÄtyÅ™icet-pÄ›t}
+{2046}{}{ÄtyÅ™icet-Å¡est}
+{2047}{}{ÄtyÅ™icet-sedm}
+{2048}{}{ÄtyÅ™icet-osm}
+{2049}{}{ÄtyÅ™icet-devÄ›t}
+{2050}{}{padesÃ¡t}
+{2051}{}{padesÃ¡t-jedna}
+{2052}{}{padesÃ¡t-dva}
+{2053}{}{padesÃ¡t-tÅ™i}
+{2054}{}{padesÃ¡t-ÄtyÅ™i}
+{2055}{}{padesÃ¡t-pÄ›t}
+{2056}{}{padesÃ¡t-Å¡est}
+{2057}{}{padesÃ¡t-sedm}
+{2058}{}{padesÃ¡t-osm}
+{2059}{}{padesÃ¡t-devÄ›t}
+{2060}{}{Å¡edesÃ¡t}
+{2061}{}{Å¡edesÃ¡t-jedna}
+{2062}{}{Å¡edesÃ¡t-dva}
+{2063}{}{Å¡edesÃ¡t-tÅ™i}
+{2064}{}{Å¡edesÃ¡t-ÄtyÅ™i}
+{2065}{}{Å¡edesÃ¡t-pÄ›t}
+{2066}{}{Å¡edesÃ¡t-Å¡est}
+{2067}{}{Å¡edesÃ¡t-sedm}
+{2068}{}{Å¡edesÃ¡t-osm}
+{2069}{}{Å¡edesÃ¡t-devÄ›t}
+{2070}{}{sedmdesÃ¡t}
+{2071}{}{sedmdesÃ¡t-jedna}
+{2072}{}{sedmdesÃ¡t-dva}
+{2073}{}{sedmdesÃ¡t-tÅ™i}
+{2074}{}{sedmdesÃ¡t-ÄtyÅ™i}
+{2075}{}{sedmdesÃ¡t-pÄ›t}
+{2076}{}{sedmdesÃ¡t-Å¡est}
+{2077}{}{sedmdesÃ¡t-sedm}
+{2078}{}{sedmdesÃ¡t-osm}
+{2079}{}{sedmdesÃ¡t-devÄ›t}
+{2080}{}{osmdesÃ¡t}
+{2081}{}{osmdesÃ¡t-jedna}
+{2082}{}{osmdesÃ¡t-dva}
+{2083}{}{osmdesÃ¡t-tÅ™i}
+{2084}{}{osmdesÃ¡t-ÄtyÅ™i}
+{2085}{}{osmdesÃ¡t-pÄ›t}
+{2086}{}{osmdesÃ¡t-Å¡est}
+{2087}{}{osmdesÃ¡t-sedm}
+{2088}{}{osmdesÃ¡t-osm}
+{2089}{}{osmdesÃ¡t-devÄ›t}
+{2090}{}{devadesÃ¡t}
+{2091}{}{devadesÃ¡t-jedna}
+{2092}{}{devadesÃ¡t-dva}
+{2093}{}{devadesÃ¡t-tÅ™i}
+{2094}{}{devadesÃ¡t-ÄtyÅ™i}
+{2095}{}{devadesÃ¡t-pÄ›t}
+{2096}{}{devadesÃ¡t-Å¡est}
+{2097}{}{devadesÃ¡t-sedm}
+{2098}{}{devadesÃ¡t-osm}
+{2099}{}{devadesÃ¡t-devÄ›t}
 {2100}{}{sto}
 {3000}{}{}
 {3025}{}{}
-{3050}{}{Jestli se o to ještì jednou pokusíš, budu tì muset zabít.}
-{3051}{}{Nemám nic, co mi mùeš ukrást, idiote.}
-{3052}{}{Myslím, e my dva se neznáme *tak* dobøe.}
-{3053}{}{Dotkni se toho ještì jednou a zaplatíš za to.}
-{3054}{}{Dej ty pracky pryè.}
-{3055}{}{Udìlej to ještì jednou a utrhnu ti hlavu.}
-{3056}{}{Ruce pryè!}
-{3057}{}{Hledáš problémy?}
-{3058}{}{Dotkni se mì ještì jednou a zemøeš.}
-{3059}{}{Koleduješ si o malér.}
-{3060}{}{Hej! Ruce pryè.}
-{3061}{}{Dávej bacha!}
-{3062}{}{Chceš chcípnout?}
-{3063}{}{Zkus to ještì jednou a rozbiju ti hlavu.}
-{3064}{}{To je moje, ruce pryè!}
+{3050}{}{Jestli se o to jeÅ¡tÄ› jednou pokusÃ­Å¡, budu tÄ› muset zabÃ­t.}
+{3051}{}{NemÃ¡m nic, co mi mÅ¯Å¾eÅ¡ ukrÃ¡st, idiote.}
+{3052}{}{MyslÃ­m, Å¾e my dva se neznÃ¡me *tak* dobÅ™e.}
+{3053}{}{Dotkni se toho jeÅ¡tÄ› jednou a zaplatÃ­Å¡ za to.}
+{3054}{}{Dej ty pracky pryÄ.}
+{3055}{}{UdÄ›lej to jeÅ¡tÄ› jednou a utrhnu ti hlavu.}
+{3056}{}{Ruce pryÄ!}
+{3057}{}{HledÃ¡Å¡ problÃ©my?}
+{3058}{}{Dotkni se mÄ› jeÅ¡tÄ› jednou a zemÅ™eÅ¡.}
+{3059}{}{KoledujeÅ¡ si o malÃ©r.}
+{3060}{}{Hej! Ruce pryÄ.}
+{3061}{}{DÃ¡vej bacha!}
+{3062}{}{ChceÅ¡ chcÃ­pnout?}
+{3063}{}{Zkus to jeÅ¡tÄ› jednou a rozbiju ti hlavu.}
+{3064}{}{To je moje, ruce pryÄ!}
 {3075}{}{}
 {3100}{}{}
 {3300}{}{}
-{3325}{}{Vra všechno tam, kam to patøí.}
-{3326}{}{Víš, není hezké brát nìco, co ti nepatøí.}
+{3325}{}{VraÅ¥ vÅ¡echno tam, kam to patÅ™Ã­.}
+{3326}{}{VÃ­Å¡, nenÃ­ hezkÃ© brÃ¡t nÄ›co, co ti nepatÅ™Ã­.}
 {3327}{}{Vypadni odsud, hajzle!}
-{3328}{}{Hlavnì mi neøíkej, e "hledáš klíèe." Vypadni odsud!}
-{3329}{}{A u hledáš cokoliv, tak tam to není. Rozumíš?}
+{3328}{}{HlavnÄ› mi neÅ™Ã­kej, Å¾e "hledÃ¡Å¡ klÃ­Äe." Vypadni odsud!}
+{3329}{}{AÅ¥ uÅ¾ hledÃ¡Å¡ cokoliv, tak tam to nenÃ­. RozumÃ­Å¡?}
 {3350}{}{}
 {3375}{}{}
 {3400}{}{}
 {3600}{}{}
-{3625}{}{Hej ty! Co se kolem toho ochomejtáš?}
-{3626}{}{Jestli nemáš v ruce klíè, tak radši odejdi.}
-{3627}{}{Je to zamèenı z nìjakıho dùvodu, hajzle.}
-{3628}{}{Nech toho, nebo budeš mít problémy!}
+{3625}{}{Hej ty! Co se kolem toho ochomejtÃ¡Å¡?}
+{3626}{}{Jestli nemÃ¡Å¡ v ruce klÃ­Ä, tak radÅ¡i odejdi.}
+{3627}{}{Je to zamÄenÃ½ z nÄ›jakÃ½ho dÅ¯vodu, hajzle.}
+{3628}{}{Nech toho, nebo budeÅ¡ mÃ­t problÃ©my!}
 {3650}{}{}
 {3675}{}{}
 {3700}{}{}
 {3900}{}{}
-{3925}{}{Hej ty! Co to tam dìláš?}
-{3926}{}{Tady nemáš co dìlat!}
-{3927}{}{Jestli si myslíš, e kolem mì jen tak projdeš, tak na to mùeš zapomenout!}
-{3928}{}{Doufám, e nechceš udìlat to, co si myslím, e chceš udìlat, cizinèe.}
-{3929}{}{Co? Ty si myslíš, e tì nevidím? Vypadni odsud!}
+{3925}{}{Hej ty! Co to tam dÄ›lÃ¡Å¡?}
+{3926}{}{Tady nemÃ¡Å¡ co dÄ›lat!}
+{3927}{}{Jestli si myslÃ­Å¡, Å¾e kolem mÄ› jen tak projdeÅ¡, tak na to mÅ¯Å¾eÅ¡ zapomenout!}
+{3928}{}{DoufÃ¡m, Å¾e nechceÅ¡ udÄ›lat to, co si myslÃ­m, Å¾e chceÅ¡ udÄ›lat, cizinÄe.}
+{3929}{}{Co? Ty si myslÃ­Å¡, Å¾e tÄ› nevidÃ­m? Vypadni odsud!}
 {3950}{}{}
 {3975}{}{}
 {4000}{}{}
@@ -233,28 +233,28 @@
 {5150}{}{}
 {5175}{}{}
 {5200}{}{}
-{5400}{}{Tam nemùeš.}
-{9000}{}{Opravy ukonèeny.}
-{9001}{}{Pøezbrojení ukonèeno.}
-{9002}{}{Opravuji fyzické poškození.}
-{10000}{}{Povìz mi nìco.}
-{10001}{}{Mìl by ses teï vyléèit.}
-{10002}{}{Potøebuju, abys tu poèkal, ne se vrátím.}
-{10003}{}{Schovej svoji zbraò.}
-{10004}{}{Dr se blízko mì.}
+{5400}{}{Tam nemÅ¯Å¾eÅ¡.}
+{9000}{}{Opravy ukonÄeny.}
+{9001}{}{PÅ™ezbrojenÃ­ ukonÄeno.}
+{9002}{}{Opravuji fyzickÃ© poÅ¡kozenÃ­.}
+{10000}{}{PovÄ›z mi nÄ›co.}
+{10001}{}{MÄ›l by ses teÄ vylÃ©Äit.}
+{10002}{}{PotÅ™ebuju, abys tu poÄkal, neÅ¾ se vrÃ¡tÃ­m.}
+{10003}{}{Schovej svoji zbraÅˆ.}
+{10004}{}{DrÅ¾ se blÃ­zko mÄ›.}
 {10005}{}{Moc se nevzdaluj.}
-{10006}{}{Mìli bychom se trochu rozestoupit.}
-{10007}{}{To bude prozatím všechno.}
-{10008}{}{Mìli bychom zmìnit náš rozestup.}
-{10009}{}{Potøebuju si s tebou promluvit o tvé vıstroji.}
-{10010}{}{Kdy o tom tak pøemıšlím, tak je tahle vzdálenost v poøádku.}
-{10011}{}{Ve skuteènosti zrovna teï nepotøebuju o tvé vıstroji nic vìdìt.}
-{10012}{}{Potøebuju od tebe tu zbroj, co máš zrovna na sobì.}
-{10013}{}{Potøebuju vìdìt, jaké druhy zbraní umíš pouívat.}
-{10100}{}{Pojïme.}
-{20000}{}{Nic to nedìlá.}
-{20100}{}{Tyto dveøe nemají zámek.}
+{10006}{}{MÄ›li bychom se trochu rozestoupit.}
+{10007}{}{To bude prozatÃ­m vÅ¡echno.}
+{10008}{}{MÄ›li bychom zmÄ›nit nÃ¡Å¡ rozestup.}
+{10009}{}{PotÅ™ebuju si s tebou promluvit o tvÃ© vÃ½stroji.}
+{10010}{}{KdyÅ¾ o tom tak pÅ™emÃ½Å¡lÃ­m, tak je tahle vzdÃ¡lenost v poÅ™Ã¡dku.}
+{10011}{}{Ve skuteÄnosti zrovna teÄ nepotÅ™ebuju o tvÃ© vÃ½stroji nic vÄ›dÄ›t.}
+{10012}{}{PotÅ™ebuju od tebe tu zbroj, co mÃ¡Å¡ zrovna na sobÄ›.}
+{10013}{}{PotÅ™ebuju vÄ›dÄ›t, jakÃ© druhy zbranÃ­ umÃ­Å¡ pouÅ¾Ã­vat.}
+{10100}{}{PojÄme.}
+{20000}{}{Nic to nedÄ›lÃ¡.}
+{20100}{}{Tyto dveÅ™e nemajÃ­ zÃ¡mek.}
 {21020}{}{dvacet}
-{30000}{}{Okrádáš svùj vlastní kmen.}
+{30000}{}{OkrÃ¡dÃ¡Å¡ svÅ¯j vlastnÃ­ kmen.}
 {40000}{}{Finta na automaty}
-{40001}{}{Díky malému, ale odvánému kuchyòskému zaøízení víš o tajném zpùsobu, jak vytøískat všechny peníze z jakéhokoliv hracího automatu. Jen škoda, e se pøi tom rozbije. Ups!}
+{40001}{}{DÃ­ky malÃ©mu, ale odvÃ¡Å¾nÃ©mu kuchyÅˆskÃ©mu zaÅ™Ã­zenÃ­ vÃ­Å¡ o tajnÃ©m zpÅ¯sobu, jak vytÅ™Ã­skat vÅ¡echny penÃ­ze z jakÃ©hokoliv hracÃ­ho automatu. Jen Å¡koda, Å¾e se pÅ™i tom rozbije. Ups!}

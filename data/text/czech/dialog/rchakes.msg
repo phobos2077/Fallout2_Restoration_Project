@@ -1,49 +1,49 @@
-{100}{}{Vidíš vysokého mue s velkım bøichem.}
-{101}{}{Vidíš Hakeswilla, morningstarského horníka.}
-{102}{}{Vidíš tlustého mue s naloutlou kùí, jizvou na krku a velkım bøichem.}
-{103}{}{Co si myslíš, e dìláš?}
-{104}{}{Hakeswill ti ukáe, to si piš.}
-{105}{}{Ty jeden zavšivenej šmejde.}
-{106}{}{Chovej se slušnì.}
-{107}{}{To myslíš vánì?}
+{100}{}{VidÃ­Å¡ vysokÃ©ho muÅ¾e s velkÃ½m bÅ™ichem.}
+{101}{}{VidÃ­Å¡ Hakeswilla, morningstarskÃ©ho hornÃ­ka.}
+{102}{}{VidÃ­Å¡ tlustÃ©ho muÅ¾e s naÅ¾loutlou kÅ¯Å¾Ã­, jizvou na krku a velkÃ½m bÅ™ichem.}
+{103}{}{Co si myslÃ­Å¡, Å¾e dÄ›lÃ¡Å¡?}
+{104}{}{Hakeswill ti ukÃ¡Å¾e, to si piÅ¡.}
+{105}{}{Ty jeden zavÅ¡ivenej Å¡mejde.}
+{106}{}{Chovej se sluÅ¡nÄ›.}
+{107}{}{To myslÃ­Å¡ vÃ¡Å¾nÄ›?}
 {108}{}{Vypadni.}
-{109}{}{Tady pro tebe není místo.}
-{110}{}{My víme, jak si s tebou poradit.}
-{111}{}{Na co èumíš?}
-{112}{}{Vypadni, dokud se ještì drím na uzdì.}
-{113}{}{Já si tì nìkdy podám.}
-{114}{}{Nemùeš mì zabít, u se o to hodnì lidí pokoušelo.}
-{115}{}{Já odsud odejdu. Uvidíš.}
-{116}{}{Ta èubka si o to øíkala.}
-{117}{}{To, co jsem provedl tı èubce, je nic proti tomu, co provedu tobì.}
-{118}{}{Schoval jsem si pro tebe pìknì ostrej høebík.}
-{119}{}{Jsem kurva nesmrtelnej. Tady mì moc dlouho neudríte.}
-{120}{}{To bylo od tebe chytrı.}
-{121}{}{Hakeswill má milující matku.}
-{122}{}{Pøíštì to odskáèe Lou.}
-{123}{}{Jseš chytøejší, ne vypadáš.}
-{124}{}{Zatracenı kurvy. Jsou všechny stejnı. Kde mám bøitvu?}
-{125}{}{Slyšel jsem, e si chce nìkdo promluvit se starım Hakeswillem. Nìkdo, kdo chce pøedat Obidiaha do rukou spravedlnosti. To jseš ty?}
-{126}{}{Hledám horníka, kterı poøezal Louino dìvèe. A zdá se, e ses právì pøiznal.}
-{127}{}{Pøináším ti spravedlnost. Spravedlnost ráe 10mm.}
-{128}{}{Moná. Co o tom víš?}
-{129}{}{Ne, pane, hehe. To bych nikdy neudìlal. Na-nashledanou... pane.}
-{130}{}{Poøezal jsem tu èubku. Udìlala velkou chybu.}
-{131}{}{Udìlala chybu?}
-{132}{}{Je mi jedno, co ti udìlala. Jsi šílenec a já jsem ten, kdo s tebou skoncuje.}
-{133}{}{To ty jsi udìlal chybu, zmrde. Pùjdeš za møíe, dokud tì neodsoudí a nepovìsí.}
-{134}{}{Ty mì zavøeš za møíe? Dobøe, pùjdu dobrovolnì. Ta èubka u stejnì dostala, co si zaslouila a nemá smysl si pøidìlávat další problémy. Ale nemùeš mì zabít, jsem nesmrtelnej. Urèitì tím ale nasereš ostatní horníky. U se klepeš strachy, co?}
-{135}{}{Neboj, dokáu se o sebe postarat. Jsem šerif a právì tì zatıkám.}
-{136}{}{Vlastnì mám lepší nápad. Myslím, e ušetøím lidem v Reddingu trochu starostí a zabiju tì hned teï.}
-{137}{}{Nehodlám si znepøátelit všechny morningstarské horníky, take tì nechám odejít jenom s varováním. Ale jestli se to bude opakovat...}
-{138}{}{Ach, díky, pane. Díky. Obidiah bude opatrnı, pane. Dìkuju.}
-{139}{}{Díky, paní. Díky. Obidiah bude opatrnı, paní. Dìkuju.}
-{140}{}{Dávej si pøíštì pozor. Ne abys provedl nìco podobného! Sbohem.}
-{141}{}{Utahovala si z mı matky. Nikdo nebude pomlouvat Hakeswillovu matku. Ona je jedinej hodnej èlovìk na tomhle prohnilım svìtì.}
-{142}{}{Nezajímá mì, proè jsi to udìlal. Pùjdeš se mnou do vìzení. Hned teï.}
-{143}{}{Tvoje matka mìla pouít lepší antikoncepci.}
-{144}{}{Ona si utahovala z tvojí matky? No, to sice není nic pøíjemného, ale tohle jsi jí dìlat nemusel.}
-{145}{}{No, jenome jsem to u udìlal. Ale já a kluci si myslíme, e to bylo od ní zlı, opravdu zlı. Ale slibuju, e u to víckrát neudìlám.}
-{146}{}{No, za to, e jsi jí uøízl pùlku oblièeje, si vìzení zaslouíš, ale pokud se to u nebude opakovat... tak to nechám bıt... pro tentokrát.}
-{147}{}{Porota to urèitì zváí. Ale i pøesto pùjdeš do vìzení.}
-{148}{}{Doufám, e ostatní horníci nemají takové úchylky jako ty. A pokud mají, tak je snad zmírní tenhle odstrašující pøípad.}
+{109}{}{Tady pro tebe nenÃ­ mÃ­sto.}
+{110}{}{My vÃ­me, jak si s tebou poradit.}
+{111}{}{Na co ÄumÃ­Å¡?}
+{112}{}{Vypadni, dokud se jeÅ¡tÄ› drÅ¾Ã­m na uzdÄ›.}
+{113}{}{JÃ¡ si tÄ› nÄ›kdy podÃ¡m.}
+{114}{}{NemÅ¯Å¾eÅ¡ mÄ› zabÃ­t, uÅ¾ se o to hodnÄ› lidÃ­ pokouÅ¡elo.}
+{115}{}{JÃ¡ odsud odejdu. UvidÃ­Å¡.}
+{116}{}{Ta Äubka si o to Å™Ã­kala.}
+{117}{}{To, co jsem provedl tÃ½ Äubce, je nic proti tomu, co provedu tobÄ›.}
+{118}{}{Schoval jsem si pro tebe pÄ›knÄ› ostrej hÅ™ebÃ­k.}
+{119}{}{Jsem kurva nesmrtelnej. Tady mÄ› moc dlouho neudrÅ¾Ã­te.}
+{120}{}{To bylo od tebe chytrÃ½.}
+{121}{}{Hakeswill mÃ¡ milujÃ­cÃ­ matku.}
+{122}{}{PÅ™Ã­Å¡tÄ› to odskÃ¡Äe Lou.}
+{123}{}{JseÅ¡ chytÅ™ejÅ¡Ã­, neÅ¾ vypadÃ¡Å¡.}
+{124}{}{ZatracenÃ½ kurvy. Jsou vÅ¡echny stejnÃ½. Kde mÃ¡m bÅ™itvu?}
+{125}{}{SlyÅ¡el jsem, Å¾e si chce nÄ›kdo promluvit se starÃ½m Hakeswillem. NÄ›kdo, kdo chce pÅ™edat Obidiaha do rukou spravedlnosti. To jseÅ¡ ty?}
+{126}{}{HledÃ¡m hornÃ­ka, kterÃ½ poÅ™ezal Louino dÄ›vÄe. A zdÃ¡ se, Å¾e ses prÃ¡vÄ› pÅ™iznal.}
+{127}{}{PÅ™inÃ¡Å¡Ã­m ti spravedlnost. Spravedlnost rÃ¡Å¾e 10mm.}
+{128}{}{MoÅ¾nÃ¡. Co o tom vÃ­Å¡?}
+{129}{}{Ne, pane, hehe. To bych nikdy neudÄ›lal. Na-nashledanou... pane.}
+{130}{}{PoÅ™ezal jsem tu Äubku. UdÄ›lala velkou chybu.}
+{131}{}{UdÄ›lala chybu?}
+{132}{}{Je mi jedno, co ti udÄ›lala. Jsi Å¡Ã­lenec a jÃ¡ jsem ten, kdo s tebou skoncuje.}
+{133}{}{To ty jsi udÄ›lal chybu, zmrde. PÅ¯jdeÅ¡ za mÅ™Ã­Å¾e, dokud tÄ› neodsoudÃ­ a nepovÄ›sÃ­.}
+{134}{}{Ty mÄ› zavÅ™eÅ¡ za mÅ™Ã­Å¾e? DobÅ™e, pÅ¯jdu dobrovolnÄ›. Ta Äubka uÅ¾ stejnÄ› dostala, co si zaslouÅ¾ila a nemÃ¡ smysl si pÅ™idÄ›lÃ¡vat dalÅ¡Ã­ problÃ©my. Ale nemÅ¯Å¾eÅ¡ mÄ› zabÃ­t, jsem nesmrtelnej. UrÄitÄ› tÃ­m ale nasereÅ¡ ostatnÃ­ hornÃ­ky. UÅ¾ se klepeÅ¡ strachy, co?}
+{135}{}{Neboj, dokÃ¡Å¾u se o sebe postarat. Jsem Å¡erif a prÃ¡vÄ› tÄ› zatÃ½kÃ¡m.}
+{136}{}{VlastnÄ› mÃ¡m lepÅ¡Ã­ nÃ¡pad. MyslÃ­m, Å¾e uÅ¡etÅ™Ã­m lidem v Reddingu trochu starostÃ­ a zabiju tÄ› hned teÄ.}
+{137}{}{NehodlÃ¡m si znepÅ™Ã¡telit vÅ¡echny morningstarskÃ© hornÃ­ky, takÅ¾e tÄ› nechÃ¡m odejÃ­t jenom s varovÃ¡nÃ­m. Ale jestli se to bude opakovat...}
+{138}{}{Ach, dÃ­ky, pane. DÃ­ky. Obidiah bude opatrnÃ½, pane. DÄ›kuju.}
+{139}{}{DÃ­ky, panÃ­. DÃ­ky. Obidiah bude opatrnÃ½, panÃ­. DÄ›kuju.}
+{140}{}{DÃ¡vej si pÅ™Ã­Å¡tÄ› pozor. Ne abys provedl nÄ›co podobnÃ©ho! Sbohem.}
+{141}{}{Utahovala si z mÃ½ matky. Nikdo nebude pomlouvat Hakeswillovu matku. Ona je jedinej hodnej ÄlovÄ›k na tomhle prohnilÃ½m svÄ›tÄ›.}
+{142}{}{NezajÃ­mÃ¡ mÄ›, proÄ jsi to udÄ›lal. PÅ¯jdeÅ¡ se mnou do vÄ›zenÃ­. Hned teÄ.}
+{143}{}{Tvoje matka mÄ›la pouÅ¾Ã­t lepÅ¡Ã­ antikoncepci.}
+{144}{}{Ona si utahovala z tvojÃ­ matky? No, to sice nenÃ­ nic pÅ™Ã­jemnÃ©ho, ale tohle jsi jÃ­ dÄ›lat nemusel.}
+{145}{}{No, jenomÅ¾e jsem to uÅ¾ udÄ›lal. Ale jÃ¡ a kluci si myslÃ­me, Å¾e to bylo od nÃ­ zlÃ½, opravdu zlÃ½. Ale slibuju, Å¾e uÅ¾ to vÃ­ckrÃ¡t neudÄ›lÃ¡m.}
+{146}{}{No, za to, Å¾e jsi jÃ­ uÅ™Ã­zl pÅ¯lku obliÄeje, si vÄ›zenÃ­ zaslouÅ¾Ã­Å¡, ale pokud se to uÅ¾ nebude opakovat... tak to nechÃ¡m bÃ½t... pro tentokrÃ¡t.}
+{147}{}{Porota to urÄitÄ› zvÃ¡Å¾Ã­. Ale i pÅ™esto pÅ¯jdeÅ¡ do vÄ›zenÃ­.}
+{148}{}{DoufÃ¡m, Å¾e ostatnÃ­ hornÃ­ci nemajÃ­ takovÃ© Ãºchylky jako ty. A pokud majÃ­, tak je snad zmÃ­rnÃ­ tenhle odstraÅ¡ujÃ­cÃ­ pÅ™Ã­pad.}

@@ -1,11 +1,11 @@
-{100}{}{Vidíš osobu v legraèním pyamu. Vypadá zamyšlenì.}
-{101}{}{Vidíš technika ponorky Shi.}
-{150}{}{Eh, proè se tady plííš?}
-{151}{}{Ty jsi nìjakı špión nebo co?}
-{200}{}{Nenávidím práci s tíhmle krámem.}
+{100}{}{VidÃ­Å¡ osobu v legraÄnÃ­m pyÅ¾amu. VypadÃ¡ zamyÅ¡lenÄ›.}
+{101}{}{VidÃ­Å¡ technika ponorky Shi.}
+{150}{}{Eh, proÄ se tady plÃ­Å¾Ã­Å¡?}
+{151}{}{Ty jsi nÄ›jakÃ½ Å¡piÃ³n nebo co?}
+{200}{}{NenÃ¡vidÃ­m prÃ¡ci s tÃ­hmle krÃ¡mem.}
 {201}{}{Zkalibrujeme to... hotovo.}
-{202}{}{Všude samé holé kabely a ádná izolace po ruce...}
-{203}{}{Doufám, e bìhem nábíjení generátoru nedostanu ránu.}
-{300}{}{Hele, mám tu práci.}
-{301}{}{Promiò, teï pracuju.}
-{302}{}{Ty kabely se samy neopraví, bì otravovat nìkoho jiného.}
+{202}{}{VÅ¡ude samÃ© holÃ© kabely a Å¾Ã¡dnÃ¡ izolace po ruce...}
+{203}{}{DoufÃ¡m, Å¾e bÄ›hem nÃ¡bÃ­jenÃ­ generÃ¡toru nedostanu rÃ¡nu.}
+{300}{}{Hele, mÃ¡m tu prÃ¡ci.}
+{301}{}{PromiÅˆ, teÄ pracuju.}
+{302}{}{Ty kabely se samy neopravÃ­, bÄ›Å¾ otravovat nÄ›koho jinÃ©ho.}

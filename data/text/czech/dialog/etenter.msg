@@ -1,1 +1,1 @@
-{100}{}{Zdá se, e se vchod do jeskynì nedávno zøítil. Dobøe umístìná nálo by mohla odstranit sutiny.}
+{100}{}{ZdÃ¡ se, Å¾e se vchod do jeskynÄ› nedÃ¡vno zÅ™Ã­til. DobÅ™e umÃ­stÄ›nÃ¡ nÃ¡loÅ¾ by mohla odstranit sutiny.}

@@ -1,1 +1,1 @@
-{100}{}{Vstupuješ do malé jeskynì. V dáli slyšíš nìjaké zvuky.}
+{100}{}{VstupujeÅ¡ do malÃ© jeskynÄ›. V dÃ¡li slyÅ¡Ã­Å¡ nÄ›jakÃ© zvuky.}

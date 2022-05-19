@@ -1,32 +1,32 @@
-{100}{}{Vidíš otrokáøe.}
-{101}{}{Tenhle otrokáø vypadá jako pìknì drsnı chlápek.}
-{200}{}{Tady jseš!}
-{201}{}{Teï chcípneš.}
-{202}{}{Do prdele, Rangeøi! Èas zemøít!}
-{300}{}{Hledáš nìco?}
-{301}{}{Tady šéfuje Don. Promluv si s ním.}
-{302}{}{Tohle je soukromej majetek. Nemùeš se tady jen tak procházet.}
-{303}{}{Není moc en otrokáøek.}
-{304}{}{Jsme rádi, e jseš s náma.}
+{100}{}{VidÃ­Å¡ otrokÃ¡Å™e.}
+{101}{}{Tenhle otrokÃ¡Å™ vypadÃ¡ jako pÄ›knÄ› drsnÃ½ chlÃ¡pek.}
+{200}{}{Tady jseÅ¡!}
+{201}{}{TeÄ chcÃ­pneÅ¡.}
+{202}{}{Do prdele, RangeÅ™i! ÄŒas zemÅ™Ã­t!}
+{300}{}{HledÃ¡Å¡ nÄ›co?}
+{301}{}{Tady Å¡Ã©fuje Don. Promluv si s nÃ­m.}
+{302}{}{Tohle je soukromej majetek. NemÅ¯Å¾eÅ¡ se tady jen tak prochÃ¡zet.}
+{303}{}{NenÃ­ moc Å¾en otrokÃ¡Å™ek.}
+{304}{}{Jsme rÃ¡di, Å¾e jseÅ¡ s nÃ¡ma.}
 {305}{}{Ahoj. Jak to jde?}
-{306}{}{U jsi nìkdy zmlátil otroka?}
+{306}{}{UÅ¾ jsi nÄ›kdy zmlÃ¡til otroka?}
 {307}{}{Ahoj.}
-{308}{}{Chystáš se na další hon?}
-{309}{}{Nic moc se nedìje.}
-{310}{}{Kdy pùjdeme zase do akce?}
-{311}{}{Svazování otrokù mi vdycky vykouzlí úsmìv na tváøi.}
-{312}{}{Hony otrokù jsou bomba.}
-{313}{}{Nazdar. Jsem fakt rád, e jseš s náma.}
-{500}{}{Hej ty! Co si myslíš, e dìláš? Ještì jsem tì tu nikdy nevidìl.}
-{501}{}{Metzger mì poslal zkontrolovat zboí. Víš, jakı je. Pokud není všechno dokonalé, je z toho prùser. U teï mám zpodìní. Musím dokonèit tuhle inspekci a pak se mu ohlásit zpátky. Chceš bıt zodpovìdnı za moje zpodìní?}
-{502}{}{Eh... no... tak jo, pokraèuj. Budu tady, kdy budeš nìco potøebovat.}
-{503}{}{Díky. Pøimluvím se za tebe u šéfa. Nashle.}
-{504}{}{Hehe, Metzger by tak urèitì poslal nìkoho, kdo nemá naše tetování. Mì nenapálíš. Èas vyøídit tuhle paká.}
-{505}{}{Podívej, jednohlavá brahmína!}
-{506}{}{Ale, eh, nikdy pøedtím jsem tì tady nevidìl. Kde je ten, co sem vdycky chodí?}
-{507}{}{Je nemocnı. Má chøipku.}
-{508}{}{Zemøel pøi honu na otroky.}
-{509}{}{Sakra, taková škoda. No, tak pokraèuj. Budu tady, kdy budeš nìco potøebovat.}
-{510}{}{Chøipku? No jasnì. Vypadá to, e tu máme vetøelce.}
-{600}{}{Varoval jsem tì, kreténe!}
+{308}{}{ChystÃ¡Å¡ se na dalÅ¡Ã­ hon?}
+{309}{}{Nic moc se nedÄ›je.}
+{310}{}{Kdy pÅ¯jdeme zase do akce?}
+{311}{}{SvazovÃ¡nÃ­ otrokÅ¯ mi vÅ¾dycky vykouzlÃ­ ÃºsmÄ›v na tvÃ¡Å™i.}
+{312}{}{Hony otrokÅ¯ jsou bomba.}
+{313}{}{Nazdar. Jsem fakt rÃ¡d, Å¾e jseÅ¡ s nÃ¡ma.}
+{500}{}{Hej ty! Co si myslÃ­Å¡, Å¾e dÄ›lÃ¡Å¡? JeÅ¡tÄ› jsem tÄ› tu nikdy nevidÄ›l.}
+{501}{}{Metzger mÄ› poslal zkontrolovat zboÅ¾Ã­. VÃ­Å¡, jakÃ½ je. Pokud nenÃ­ vÅ¡echno dokonalÃ©, je z toho prÅ¯ser. UÅ¾ teÄ mÃ¡m zpoÅ¾dÄ›nÃ­. MusÃ­m dokonÄit tuhle inspekci a pak se mu ohlÃ¡sit zpÃ¡tky. ChceÅ¡ bÃ½t zodpovÄ›dnÃ½ za moje zpoÅ¾dÄ›nÃ­?}
+{502}{}{Eh... no... tak jo, pokraÄuj. Budu tady, kdyÅ¾ budeÅ¡ nÄ›co potÅ™ebovat.}
+{503}{}{DÃ­ky. PÅ™imluvÃ­m se za tebe u Å¡Ã©fa. Nashle.}
+{504}{}{Hehe, Metzger by tak urÄitÄ› poslal nÄ›koho, kdo nemÃ¡ naÅ¡e tetovÃ¡nÃ­. MÄ› nenapÃ¡lÃ­Å¡. ÄŒas vyÅ™Ã­dit tuhle pakÃ¡Å¾.}
+{505}{}{PodÃ­vej, jednohlavÃ¡ brahmÃ­na!}
+{506}{}{Ale, eh, nikdy pÅ™edtÃ­m jsem tÄ› tady nevidÄ›l. Kde je ten, co sem vÅ¾dycky chodÃ­?}
+{507}{}{Je nemocnÃ½. MÃ¡ chÅ™ipku.}
+{508}{}{ZemÅ™el pÅ™i honu na otroky.}
+{509}{}{Sakra, takovÃ¡ Å¡koda. No, tak pokraÄuj. Budu tady, kdyÅ¾ budeÅ¡ nÄ›co potÅ™ebovat.}
+{510}{}{ChÅ™ipku? No jasnÄ›. VypadÃ¡ to, Å¾e tu mÃ¡me vetÅ™elce.}
+{600}{}{Varoval jsem tÄ›, kretÃ©ne!}
 {800}{}{[KONEC]}

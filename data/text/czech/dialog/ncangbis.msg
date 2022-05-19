@@ -1,203 +1,203 @@
-{100}{}{Vidíš Angelu Bishopovou.}
-{101}{}{Vidíš plaèící Angelu Bishopovou.}
-{150}{}{Vidíš mladou atraktivní enu v tìsném koeném obleèení.}
-{151}{}{Vidíš Angelu Bishopovou. Kdy tì spatøí, smyslnì si olízne rty.}
-{152}{}{Vidíš Angelu Bishopovou. Ošklivì se na tebe mraèí.}
-{175}{}{Vidíš mladou enu v tìsném koeném obleèení. Na štìtku vypadá moc nóbl.}
-{176}{}{Vidíš Angelu Bishopovou. Pohrdavì se na tebe usmívá.}
-{200}{}{Mùj otec tì ZABIJE, a se dozví, co jsi mi chtìl udìlat.}
-{205}{}{VÍM, e jsi to byl ty. Najdu zpùsob, jak tì dostat za to, co jsi udìlal mımu tátovi.}
-{210}{}{Hmmmm, jestlipak tohle není naše velká hrdinka.}
-{215}{}{Doufej, e se v tom brnìní nepropadneš podlahou.}
-{220}{}{NUDÍM SE.}
-{221}{}{Nazdárek.}
+{100}{}{VidÃ­Å¡ Angelu Bishopovou.}
+{101}{}{VidÃ­Å¡ plaÄÃ­cÃ­ Angelu Bishopovou.}
+{150}{}{VidÃ­Å¡ mladou atraktivnÃ­ Å¾enu v tÄ›snÃ©m koÅ¾enÃ©m obleÄenÃ­.}
+{151}{}{VidÃ­Å¡ Angelu Bishopovou. KdyÅ¾ tÄ› spatÅ™Ã­, smyslnÄ› si olÃ­zne rty.}
+{152}{}{VidÃ­Å¡ Angelu Bishopovou. OÅ¡klivÄ› se na tebe mraÄÃ­.}
+{175}{}{VidÃ­Å¡ mladou Å¾enu v tÄ›snÃ©m koÅ¾enÃ©m obleÄenÃ­. Na Å¡tÄ›tku vypadÃ¡ moc nÃ³bl.}
+{176}{}{VidÃ­Å¡ Angelu Bishopovou. PohrdavÄ› se na tebe usmÃ­vÃ¡.}
+{200}{}{MÅ¯j otec tÄ› ZABIJE, aÅ¾ se dozvÃ­, co jsi mi chtÄ›l udÄ›lat.}
+{205}{}{VÃM, Å¾e jsi to byl ty. Najdu zpÅ¯sob, jak tÄ› dostat za to, co jsi udÄ›lal mÃ½mu tÃ¡tovi.}
+{210}{}{Hmmmm, jestlipak tohle nenÃ­ naÅ¡e velkÃ¡ hrdinka.}
+{215}{}{Doufej, Å¾e se v tom brnÄ›nÃ­ nepropadneÅ¡ podlahou.}
+{220}{}{NUDÃM SE.}
+{221}{}{NazdÃ¡rek.}
 {222}{}{Ty. Mluv se mnou. Hned.}
-{223}{}{Ty. Pojï sem. Hned.}
+{223}{}{Ty. PojÄ sem. Hned.}
 {224}{}{Vrrrr.}
 {225}{}{Hmmmm.}
 {226}{}{Well, well...}
-{230}{}{NUDÍM SE.}
-{231}{}{Vypadáš jako jedna z novejch tátovejch kurev...}
-{232}{}{Další z tátovejch levnejch dìvek...}
-{240}{}{TEBE jsem tady ještì nevidìla. Jak se jmenuješ, cizinèe? (Pousmìje se.) Víš ty co, zapomeò na to, nechci to vìdìt. Taky se tak nudíš jako já?}
-{241}{}{Á, to jsi zase ty? Poøád se nudíš?}
-{242}{}{Koèka, vrrr. Já rád èièí.}
-{243}{}{Já bıt zvyklı cestovat s nìkım, kdo jmenovat Ian. On poøád støílet do zad, kdy pouít dávka.}
-{244}{}{Já nudit taky.}
-{245}{}{Néééé, já radši jít.}
+{230}{}{NUDÃM SE.}
+{231}{}{VypadÃ¡Å¡ jako jedna z novejch tÃ¡tovejch kurev...}
+{232}{}{DalÅ¡Ã­ z tÃ¡tovejch levnejch dÄ›vek...}
+{240}{}{TEBE jsem tady jeÅ¡tÄ› nevidÄ›la. Jak se jmenujeÅ¡, cizinÄe? (PousmÄ›je se.) VÃ­Å¡ ty co, zapomeÅˆ na to, nechci to vÄ›dÄ›t. Taky se tak nudÃ­Å¡ jako jÃ¡?}
+{241}{}{Ã, to jsi zase ty? PoÅ™Ã¡d se nudÃ­Å¡?}
+{242}{}{KoÄka, vrrr. JÃ¡ rÃ¡d ÄiÄÃ­.}
+{243}{}{JÃ¡ bÃ½t zvyklÃ½ cestovat s nÄ›kÃ½m, kdo jmenovat Ian. On poÅ™Ã¡d stÅ™Ã­let do zad, kdyÅ¾ pouÅ¾Ã­t dÃ¡vka.}
+{244}{}{JÃ¡ nudit taky.}
+{245}{}{NÃ©Ã©Ã©Ã©, jÃ¡ radÅ¡i jÃ­t.}
 {246}{}{Ne.}
 {247}{}{Ano.}
-{248}{}{Eh... proè se na mì tak díváš?}
-{249}{}{Moná. Proè, hledáš nìjaké vzrušení, princezno?}
-{250}{}{Ani ne, musím teï nìkam jít.}
-{260}{}{Hmm, tak to bude zajímavı. Pojï se mnou, chci ti ukázat svùj pokoj.}
-{261}{}{Jasòaèka hezká holka.}
-{262}{}{Eh... my jít si hrát?}
-{263}{}{Já nejít nikam.}
-{270}{}{To si piš. Tak u pojï.}
-{271}{}{Já jít.}
-{272}{}{Já rád hrát. Ale jen já hrát s já.}
+{248}{}{Eh... proÄ se na mÄ› tak dÃ­vÃ¡Å¡?}
+{249}{}{MoÅ¾nÃ¡. ProÄ, hledÃ¡Å¡ nÄ›jakÃ© vzruÅ¡enÃ­, princezno?}
+{250}{}{Ani ne, musÃ­m teÄ nÄ›kam jÃ­t.}
+{260}{}{Hmm, tak to bude zajÃ­mavÃ½. PojÄ se mnou, chci ti ukÃ¡zat svÅ¯j pokoj.}
+{261}{}{JasÅˆaÄka hezkÃ¡ holka.}
+{262}{}{Eh... my jÃ­t si hrÃ¡t?}
+{263}{}{JÃ¡ nejÃ­t nikam.}
+{270}{}{To si piÅ¡. Tak uÅ¾ pojÄ.}
+{271}{}{JÃ¡ jÃ­t.}
+{272}{}{JÃ¡ rÃ¡d hrÃ¡t. Ale jen jÃ¡ hrÃ¡t s jÃ¡.}
 {280}{}{Exactly...}
-{281}{}{[Jít za ní]}
-{290}{}{Ale no ták! Prosííím? Hroznì moc ti chci ukázat svùj pokoj. Zabere to jenom chvilièku, slibuju.}
-{291}{}{Ne jít! Já ne jít! Ty ne donutit já jít! Ty vzít já na špatná místo! Ne!}
-{292}{}{Jasòaèka. Já ne chtít ty smutná. Já jít.}
-{293}{}{JÁ JÍT PÁ. TY PØESTAT MLUVIT S JÁ.}
-{300}{}{U tì mám akorát tak dost, ty blbej retarde! Vypadni odsud! ::Idiot.::}
-{310}{}{Ty jsi tady NOVEJ nebo co? Já jsem Angela BISHOPOVÁ. Mùj otec je HLAVOU rodiny Bishopù. }
-{311}{}{Ty pracuješ pro nìho, co znamená, e pracuješ i pro MÌ. }
-{312}{}{Radši udìlej, co ti øíkám a já ti øíkám, abys šel se mnou. Hned.}
-{313}{}{Máš naprostou pravdu. Tvùj otec JE hlavou Bishopovy rodiny a právì proto nikam nepùjdeme.}
-{314}{}{No dobøe, ale jen proto, e jsi nade mnou... tak pojïme.}
-{315}{}{To mi opravdu LICHOTÍ, ale...}
-{316}{}{Ne a víckrát u to nebudu opakovat.}
-{317}{}{V ádném pøípadì, drahoušku. A teï utíkej, ne ti naplácám.}
-{318}{}{Vyjasnìme si jednu vìc, princeznièko. Já tady rozkazuju a ty posloucháš.}
-{320}{}{Jestli se nudíš, princeznièko... tak si sedni na ruce a zaèni se toèit dokola. Já odsud odcházím.}
-{330}{}{Budeš si pøát, abys mì nikdy neodmítnul. Taka o tobì brzy zaène slıchávat SPOUSTU vìcí. Jen poèkej.}
-{340}{}{Proè? Protoe od tebe èekám reakci. (Udìlá jeden malı krok smìrem k tobì a ztiší svùj hlas.) Dostávám tì snad do... tìkého POSTAVENÍ?}
+{281}{}{[JÃ­t za nÃ­]}
+{290}{}{Ale no tÃ¡k! ProsÃ­Ã­Ã­m? HroznÄ› moc ti chci ukÃ¡zat svÅ¯j pokoj. Zabere to jenom chviliÄku, slibuju.}
+{291}{}{Ne jÃ­t! JÃ¡ ne jÃ­t! Ty ne donutit jÃ¡ jÃ­t! Ty vzÃ­t jÃ¡ na Å¡patnÃ¡ mÃ­sto! Ne!}
+{292}{}{JasÅˆaÄka. JÃ¡ ne chtÃ­t ty smutnÃ¡. JÃ¡ jÃ­t.}
+{293}{}{JÃ JÃT PÃ. TY PÅ˜ESTAT MLUVIT S JÃ.}
+{300}{}{UÅ¾ tÄ› mÃ¡m akorÃ¡t tak dost, ty blbej retarde! Vypadni odsud! ::Idiot.::}
+{310}{}{Ty jsi tady NOVEJ nebo co? JÃ¡ jsem Angela BISHOPOVÃ. MÅ¯j otec je HLAVOU rodiny BishopÅ¯. }
+{311}{}{Ty pracujeÅ¡ pro nÄ›ho, coÅ¾ znamenÃ¡, Å¾e pracujeÅ¡ i pro MÄš. }
+{312}{}{RadÅ¡i udÄ›lej, co ti Å™Ã­kÃ¡m a jÃ¡ ti Å™Ã­kÃ¡m, abys Å¡el se mnou. Hned.}
+{313}{}{MÃ¡Å¡ naprostou pravdu. TvÅ¯j otec JE hlavou Bishopovy rodiny a prÃ¡vÄ› proto nikam nepÅ¯jdeme.}
+{314}{}{No dobÅ™e, ale jen proto, Å¾e jsi nade mnou... tak pojÄme.}
+{315}{}{To mi opravdu LICHOTÃ, ale...}
+{316}{}{Ne a vÃ­ckrÃ¡t uÅ¾ to nebudu opakovat.}
+{317}{}{V Å¾Ã¡dnÃ©m pÅ™Ã­padÄ›, drahouÅ¡ku. A teÄ utÃ­kej, neÅ¾ ti naplÃ¡cÃ¡m.}
+{318}{}{VyjasnÄ›me si jednu vÄ›c, princezniÄko. JÃ¡ tady rozkazuju a ty poslouchÃ¡Å¡.}
+{320}{}{Jestli se nudÃ­Å¡, princezniÄko... tak si sedni na ruce a zaÄni se toÄit dokola. JÃ¡ odsud odchÃ¡zÃ­m.}
+{330}{}{BudeÅ¡ si pÅ™Ã¡t, abys mÄ› nikdy neodmÃ­tnul. TaÅ¥ka o tobÄ› brzy zaÄne slÃ½chÃ¡vat SPOUSTU vÄ›cÃ­. Jen poÄkej.}
+{340}{}{ProÄ? ProtoÅ¾e od tebe ÄekÃ¡m reakci. (UdÄ›lÃ¡ jeden malÃ½ krok smÄ›rem k tobÄ› a ztiÅ¡Ã­ svÅ¯j hlas.) DostÃ¡vÃ¡m tÄ› snad do... tÄ›Å¾kÃ©ho POSTAVENÃ?}
 {341}{}{Ani ne.}
-{342}{}{Holka, ty mì akorát dostaneš do maléru. Pøestaò s tím teï hned.}
-{343}{}{Promiò, ale mohla bys trochu couvnout?}
-{344}{}{Jo, zaèínám se dostávat do poøádnì tìkého postavení. Mùeš mi s tím nìjak pomoct?}
+{342}{}{Holka, ty mÄ› akorÃ¡t dostaneÅ¡ do malÃ©ru. PÅ™estaÅˆ s tÃ­m teÄ hned.}
+{343}{}{PromiÅˆ, ale mohla bys trochu couvnout?}
+{344}{}{Jo, zaÄÃ­nÃ¡m se dostÃ¡vat do poÅ™Ã¡dnÄ› tÄ›Å¾kÃ©ho postavenÃ­. MÅ¯Å¾eÅ¡ mi s tÃ­m nÄ›jak pomoct?}
 {345}{}{Ne, ale hned odejdu.}
-{350}{}{(Udìlá ještì jeden malı krok smìrem k tobì a se tì témìø dotıká.) NECHCE se mi. Co s tím udìláš?}
-{352}{}{Nic. Podívej, odstup. Na tohle nemám náladu.}
-{353}{}{Odstup. Nemám náladu na tyhle zvrhlé prasárny, ano?}
-{354}{}{A co s tím budeš dìlat TY? To jsou jen samé øeèièky, ale co takhle nìjaké skutky?}
-{360}{}{Jasnì, e mùu. }
-{361}{}{Podívej, mám ve svım pokoji trochu Jetu... ale NE ádnı sraèky, co prodávaj lacinım dìvkám a feákùm. Chceš si zalítat?}
-{362}{}{Jasnì. Tak to rozjedem, bejby.}
-{363}{}{U se na tu jízdu tìším.}
-{364}{}{Ví tvùj otec, e to svinstvo bereš?}
-{365}{}{Zmìnil jsem názor. Ne, díky.}
-{366}{}{Ne, jen jsem chtìl vìdìt, jestli jsi taková kurva, jak jsem si myslel. Pozdìji, princeznièko.}
-{370}{}{Dávej si pozor na to, co øíkáš. Já jsem Angela BISHOPOVÁ a mùj táta je HLAVOU rodiny Bishopovıch. Budeš mi projevovat stejnou úctu jako jemu, nebo tì budou po kouscích seškrabovat ze zdi. ROZUMÍŠ?}
-{371}{}{Jasnı, rozumím. Potøebuješ poøádnıho chlapa, kterej ti zahøeje pelíšek, PRINCEZNO, a ten nìkdo jsem já.}
-{372}{}{Rozumnìl jsem. Jsem rád, e jsme si vyjasnili rodinné vztahy.}
-{373}{}{Uklidni se. Jenom si dìlám srandu.}
-{374}{}{Zapomeò na to.}
-{375}{}{Zapomeò na všechno. Odcházím.}
-{380}{}{Ty arogantní zkurvysynu... mìla bych hned jít za takou a øíct mu všechno, co jsi mi teï øekl.}
-{381}{}{No tak si jdi. Nebudu ti v tom bránit, princeznièko.}
-{382}{}{Myslím, e to neudìláš. Myslím, e chceš vìdìt, jakej jsem chlap.}
-{383}{}{Radìji toho necháme ne se nìkomu nìco stane.}
-{384}{}{Jo, tak si jdi. Mám dùleitìjší vìci na práci.}
-{385}{}{Zapomeò na tyhle pubertální kecy. Mizím odsud.}
-{390}{}{Ty... mi za ten ÈAS nestojíš.}
-{391}{}{A ty mi zase nestojíš za ten mùj, ty rozmazlenej spratku.}
-{392}{}{Zlato, ty bys mùj èas NIKDY nezískala.}
-{393}{}{Nápodobnì.}
-{394}{}{Jo, to jsem si myslel. Odcházím.}
-{400}{}{Fakt jo? Jakej jseš chlap? Chceš mi to UKÁZAT?}
-{401}{}{Jo. Pojïme do tvıho pokoje, princeznièko, a já ti ukáu, co to znamená bejt pravej chlap.}
-{402}{}{Ne, byl jsem jenom zvìdavı, jak moc velká coura doopravdy jsi. Mìj se, kotì.}
-{410}{}{Jo, to je dobøe, e chápeš, jak to tady chodí. (Prohlédne si tì odshora dolù.)}
+{350}{}{(UdÄ›lÃ¡ jeÅ¡tÄ› jeden malÃ½ krok smÄ›rem k tobÄ› aÅ¾ se tÄ› tÃ©mÄ›Å™ dotÃ½kÃ¡.) NECHCE se mi. Co s tÃ­m udÄ›lÃ¡Å¡?}
+{352}{}{Nic. PodÃ­vej, odstup. Na tohle nemÃ¡m nÃ¡ladu.}
+{353}{}{Odstup. NemÃ¡m nÃ¡ladu na tyhle zvrhlÃ© prasÃ¡rny, ano?}
+{354}{}{A co s tÃ­m budeÅ¡ dÄ›lat TY? To jsou jen samÃ© Å™eÄiÄky, ale co takhle nÄ›jakÃ© skutky?}
+{360}{}{JasnÄ›, Å¾e mÅ¯Å¾u. }
+{361}{}{PodÃ­vej, mÃ¡m ve svÃ½m pokoji trochu Jetu... ale NE Å¾Ã¡dnÃ½ sraÄky, co prodÃ¡vaj lacinÃ½m dÄ›vkÃ¡m a feÅ¥Ã¡kÅ¯m. ChceÅ¡ si zalÃ­tat?}
+{362}{}{JasnÄ›. Tak to rozjedem, bejby.}
+{363}{}{UÅ¾ se na tu jÃ­zdu tÄ›Å¡Ã­m.}
+{364}{}{VÃ­ tvÅ¯j otec, Å¾e to svinstvo bereÅ¡?}
+{365}{}{ZmÄ›nil jsem nÃ¡zor. Ne, dÃ­ky.}
+{366}{}{Ne, jen jsem chtÄ›l vÄ›dÄ›t, jestli jsi takovÃ¡ kurva, jak jsem si myslel. PozdÄ›ji, princezniÄko.}
+{370}{}{DÃ¡vej si pozor na to, co Å™Ã­kÃ¡Å¡. JÃ¡ jsem Angela BISHOPOVÃ a mÅ¯j tÃ¡ta je HLAVOU rodiny BishopovÃ½ch. BudeÅ¡ mi projevovat stejnou Ãºctu jako jemu, nebo tÄ› budou po kouscÃ­ch seÅ¡krabovat ze zdi. ROZUMÃÅ ?}
+{371}{}{JasnÃ½, rozumÃ­m. PotÅ™ebujeÅ¡ poÅ™Ã¡dnÃ½ho chlapa, kterej ti zahÅ™eje pelÃ­Å¡ek, PRINCEZNO, a ten nÄ›kdo jsem jÃ¡.}
+{372}{}{RozumnÄ›l jsem. Jsem rÃ¡d, Å¾e jsme si vyjasnili rodinnÃ© vztahy.}
+{373}{}{Uklidni se. Jenom si dÄ›lÃ¡m srandu.}
+{374}{}{ZapomeÅˆ na to.}
+{375}{}{ZapomeÅˆ na vÅ¡echno. OdchÃ¡zÃ­m.}
+{380}{}{Ty arogantnÃ­ zkurvysynu... mÄ›la bych hned jÃ­t za taÅ¥kou a Å™Ã­ct mu vÅ¡echno, co jsi mi teÄ Å™ekl.}
+{381}{}{No tak si jdi. Nebudu ti v tom brÃ¡nit, princezniÄko.}
+{382}{}{MyslÃ­m, Å¾e to neudÄ›lÃ¡Å¡. MyslÃ­m, Å¾e chceÅ¡ vÄ›dÄ›t, jakej jsem chlap.}
+{383}{}{RadÄ›ji toho nechÃ¡me neÅ¾ se nÄ›komu nÄ›co stane.}
+{384}{}{Jo, tak si jdi. MÃ¡m dÅ¯leÅ¾itÄ›jÅ¡Ã­ vÄ›ci na prÃ¡ci.}
+{385}{}{ZapomeÅˆ na tyhle pubertÃ¡lnÃ­ kecy. MizÃ­m odsud.}
+{390}{}{Ty... mi za ten ÄŒAS nestojÃ­Å¡.}
+{391}{}{A ty mi zase nestojÃ­Å¡ za ten mÅ¯j, ty rozmazlenej spratku.}
+{392}{}{Zlato, ty bys mÅ¯j Äas NIKDY nezÃ­skala.}
+{393}{}{NÃ¡podobnÄ›.}
+{394}{}{Jo, to jsem si myslel. OdchÃ¡zÃ­m.}
+{400}{}{Fakt jo? Jakej jseÅ¡ chlap? ChceÅ¡ mi to UKÃZAT?}
+{401}{}{Jo. PojÄme do tvÃ½ho pokoje, princezniÄko, a jÃ¡ ti ukÃ¡Å¾u, co to znamenÃ¡ bejt pravej chlap.}
+{402}{}{Ne, byl jsem jenom zvÄ›davÃ½, jak moc velkÃ¡ coura doopravdy jsi. MÄ›j se, kotÄ›.}
+{410}{}{Jo, to je dobÅ™e, Å¾e chÃ¡peÅ¡, jak to tady chodÃ­. (ProhlÃ©dne si tÄ› odshora dolÅ¯.)}
 {411}{}{Eh...}
-{413}{}{[Stát rozpaèitì na svém místì, zatímco si tì zálibnì prohlíí]}
-{420}{}{No dobøe... (Prohlédne si tì odshora dolù.)}
-{422}{}{No, take...}
-{430}{}{(Pokrèí rameny.) Je mu to jedno. (Zamraèí se.) Podívej, chceš si se mnou zalítat nebo ne?}
-{432}{}{Tak dobøe. Pojïme do tvého pokoje.}
-{433}{}{Poslyš, nemùeme bıt jenom pøátelé?}
-{434}{}{Ne, radìji u pùjdu.}
-{435}{}{Ne. Kdybych chtìl nìjakou èubku, poøídil bych si psa. Mìj se.}
-{440}{}{CO jsi to øekl?}
-{441}{}{Nic. Pojïme do tvého pokoje.}
-{442}{}{Øekl jsem "nemùeme bıt jenom pøátelé?"}
-{443}{}{Nic. Poslyš, radìji u pùjdu.}
-{450}{}{Nazdar, to jsi zase ty... pøed tím, ne jsi odešel nakopat prdel Enklávì, jsme spolu strávili moc hezkı chvíle. Nechceš si trochu oivit vzpomínky?}
-{451}{}{Á, to jsi zase ty? Nechceš zabít trochu nudy?}
-{452}{}{Teï ne.}
-{453}{}{Jasnì. Pojïme do tvého pokoje.}
-{460}{}{Slyšela jsem, co jsi provedl v Enklávì, }
+{413}{}{[StÃ¡t rozpaÄitÄ› na svÃ©m mÃ­stÄ›, zatÃ­mco si tÄ› zÃ¡libnÄ› prohlÃ­Å¾Ã­]}
+{420}{}{No dobÅ™e... (ProhlÃ©dne si tÄ› odshora dolÅ¯.)}
+{422}{}{No, takÅ¾e...}
+{430}{}{(PokrÄÃ­ rameny.) Je mu to jedno. (ZamraÄÃ­ se.) PodÃ­vej, chceÅ¡ si se mnou zalÃ­tat nebo ne?}
+{432}{}{Tak dobÅ™e. PojÄme do tvÃ©ho pokoje.}
+{433}{}{PoslyÅ¡, nemÅ¯Å¾eme bÃ½t jenom pÅ™Ã¡telÃ©?}
+{434}{}{Ne, radÄ›ji uÅ¾ pÅ¯jdu.}
+{435}{}{Ne. Kdybych chtÄ›l nÄ›jakou Äubku, poÅ™Ã­dil bych si psa. MÄ›j se.}
+{440}{}{CO jsi to Å™ekl?}
+{441}{}{Nic. PojÄme do tvÃ©ho pokoje.}
+{442}{}{Å˜ekl jsem "nemÅ¯Å¾eme bÃ½t jenom pÅ™Ã¡telÃ©?"}
+{443}{}{Nic. PoslyÅ¡, radÄ›ji uÅ¾ pÅ¯jdu.}
+{450}{}{Nazdar, to jsi zase ty... pÅ™ed tÃ­m, neÅ¾ jsi odeÅ¡el nakopat prdel EnklÃ¡vÄ›, jsme spolu strÃ¡vili moc hezkÃ½ chvÃ­le. NechceÅ¡ si trochu oÅ¾ivit vzpomÃ­nky?}
+{451}{}{Ã, to jsi zase ty? NechceÅ¡ zabÃ­t trochu nudy?}
+{452}{}{TeÄ ne.}
+{453}{}{JasnÄ›. PojÄme do tvÃ©ho pokoje.}
+{460}{}{SlyÅ¡ela jsem, co jsi provedl v EnklÃ¡vÄ›, }
 {462}{}{Ale, ale: }
-{463}{}{VELMI úchvatné. Myslím, e jsi ta pravá osoba, která mi pomùe s... mım problémem. }
-{464}{}{Já mít problémy.}
-{465}{}{Jen ty moct zachránit les pøed oheò.}
+{463}{}{VELMI ÃºchvatnÃ©. MyslÃ­m, Å¾e jsi ta pravÃ¡ osoba, kterÃ¡ mi pomÅ¯Å¾e s... mÃ½m problÃ©mem. }
+{464}{}{JÃ¡ mÃ­t problÃ©my.}
+{465}{}{Jen ty moct zachrÃ¡nit les pÅ™ed oheÅˆ.}
 {466}{}{Odbelhat se.}
-{467}{}{Co je to za problém?}
-{468}{}{Ne. Myslím, e ne. Radìji u pùjdu.}
-{469}{}{Na tohle teï nemám èas. Odcházím.}
-{480}{}{Víš, mám ve svém pokoji spoustu toho nejkvalitnìjšího Jetu a sama ho nezvládnu.}
-{481}{}{Coe?}
-{482}{}{A to je problém, protoe...?}
-{483}{}{Eh... myslím, e nejsem ta pravá osob...}
-{490}{}{TEBE jsem tady ještì nevidìla. Ty jseš nìjaká nová tátova kurva?}
+{467}{}{Co je to za problÃ©m?}
+{468}{}{Ne. MyslÃ­m, Å¾e ne. RadÄ›ji uÅ¾ pÅ¯jdu.}
+{469}{}{Na tohle teÄ nemÃ¡m Äas. OdchÃ¡zÃ­m.}
+{480}{}{VÃ­Å¡, mÃ¡m ve svÃ©m pokoji spoustu toho nejkvalitnÄ›jÅ¡Ã­ho Jetu a sama ho nezvlÃ¡dnu.}
+{481}{}{CoÅ¾e?}
+{482}{}{A to je problÃ©m, protoÅ¾e...?}
+{483}{}{Eh... myslÃ­m, Å¾e nejsem ta pravÃ¡ osob...}
+{490}{}{TEBE jsem tady jeÅ¡tÄ› nevidÄ›la. Ty jseÅ¡ nÄ›jakÃ¡ novÃ¡ tÃ¡tova kurva?}
 {491}{}{Coo?}
 {493}{}{Ne. A ty?}
-{494}{}{Ne, jenom procházím.}
-{495}{}{Ty musíš bıt Bishopova dcera. Pracuju pro tvého otce, sleèno Bishopová.}
-{496}{}{Ve skuteènosti pro tvého otce PRACUJU. Jsem èlenkou rodiny.}
-{497}{}{Ve skuteènosti pro nìj PRACUJU jako vymahaè.}
-{499}{}{Nejsem ádná kurva, ale právì jsem s jednou domluvila.}
-{510}{}{Vidím, e se tátovy pøijímací podmínky nemìní. Dávej si bacha, zlato, nebo by se ti mohlo nìco stát.}
-{511}{}{Dobøe! Díky!}
-{520}{}{Jako sraèky støevama, co? Nezùstávej tady dlouho, dìvko, nebo by se ti mohlo nìco stát.}
-{521}{}{Nevadí.}
-{522}{}{Dìvko...}
-{531}{}{Jasnı, rozumím. Potøebuješ nìkoho, kdo ti zahøeje pelíšek, PRINCEZNO, a ten nìkdo jsem já.}
-{532}{}{Rozumím, sleèno Bishopová.}
-{534}{}{Radìji u pùjdu.}
-{535}{}{Padám odsud.}
-{540}{}{NAZVALA jsem tì snad kurvou, nebo ne? Mezi 'èlenem rodiny' a kurvou není moc velkej rozdíl, nebo snad jo?}
-{541}{}{Vymahaè, kurva... jakej je v tom rozdíl?}
-{542}{}{To je velkı rozdíl. Chceš, abych ti ukázala jakı, ty malá rozmazlená dìvko?}
-{543}{}{Skoro ádnı rozdíl, sleèno Bishopová.}
-{544}{}{Promiòte, sleèno Bishopová, ale teï nemám èas si povídat.}
-{550}{}{Zkus mi zkøivit jenom jedinej vlásek na hlavì a budeš mrtvá døív, ne se vùbec pohneš.}
-{551}{}{Chceš si na to vsadit? Myslím, e bys prohrála.}
-{552}{}{Uvidíme. Odcházím.}
-{560}{}{Ty... dotkni se mì a dozví se o tom mùj táta.}
+{494}{}{Ne, jenom prochÃ¡zÃ­m.}
+{495}{}{Ty musÃ­Å¡ bÃ½t Bishopova dcera. Pracuju pro tvÃ©ho otce, sleÄno BishopovÃ¡.}
+{496}{}{Ve skuteÄnosti pro tvÃ©ho otce PRACUJU. Jsem Älenkou rodiny.}
+{497}{}{Ve skuteÄnosti pro nÄ›j PRACUJU jako vymahaÄ.}
+{499}{}{Nejsem Å¾Ã¡dnÃ¡ kurva, ale prÃ¡vÄ› jsem s jednou domluvila.}
+{510}{}{VidÃ­m, Å¾e se tÃ¡tovy pÅ™ijÃ­macÃ­ podmÃ­nky nemÄ›nÃ­. DÃ¡vej si bacha, zlato, nebo by se ti mohlo nÄ›co stÃ¡t.}
+{511}{}{DobÅ™e! DÃ­ky!}
+{520}{}{Jako sraÄky stÅ™evama, co? NezÅ¯stÃ¡vej tady dlouho, dÄ›vko, nebo by se ti mohlo nÄ›co stÃ¡t.}
+{521}{}{NevadÃ­.}
+{522}{}{DÄ›vko...}
+{531}{}{JasnÃ½, rozumÃ­m. PotÅ™ebujeÅ¡ nÄ›koho, kdo ti zahÅ™eje pelÃ­Å¡ek, PRINCEZNO, a ten nÄ›kdo jsem jÃ¡.}
+{532}{}{RozumÃ­m, sleÄno BishopovÃ¡.}
+{534}{}{RadÄ›ji uÅ¾ pÅ¯jdu.}
+{535}{}{PadÃ¡m odsud.}
+{540}{}{NAZVALA jsem tÄ› snad kurvou, nebo ne? Mezi 'Älenem rodiny' a kurvou nenÃ­ moc velkej rozdÃ­l, nebo snad jo?}
+{541}{}{VymahaÄ, kurva... jakej je v tom rozdÃ­l?}
+{542}{}{To je velkÃ½ rozdÃ­l. ChceÅ¡, abych ti ukÃ¡zala jakÃ½, ty malÃ¡ rozmazlenÃ¡ dÄ›vko?}
+{543}{}{Skoro Å¾Ã¡dnÃ½ rozdÃ­l, sleÄno BishopovÃ¡.}
+{544}{}{PromiÅˆte, sleÄno BishopovÃ¡, ale teÄ nemÃ¡m Äas si povÃ­dat.}
+{550}{}{Zkus mi zkÅ™ivit jenom jedinej vlÃ¡sek na hlavÄ› a budeÅ¡ mrtvÃ¡ dÅ™Ã­v, neÅ¾ se vÅ¯bec pohneÅ¡.}
+{551}{}{ChceÅ¡ si na to vsadit? MyslÃ­m, Å¾e bys prohrÃ¡la.}
+{552}{}{UvidÃ­me. OdchÃ¡zÃ­m.}
+{560}{}{Ty... dotkni se mÄ› a dozvÃ­ se o tom mÅ¯j tÃ¡ta.}
 {561}{}{Bude mu to jedno.}
-{563}{}{Uklidni se. Jenom si dìlám srandu, chápeš?}
-{564}{}{Jasnì, uvidíme.}
-{570}{}{Ne... nebude mu to jedno. Uvidíš.}
-{571}{}{Vypadni odsud, ty malá dìvko. Hned.}
-{573}{}{Uklidni se. Jenom si dìlám srandu.}
-{580}{}{(Ušklíbne se na tebe a poté se otoèí a uraenì odejde.)}
-{581}{}{[Odejít]}
-{590}{}{(Stále na tebe zírá, ale vypadá nejistì. Kousne se do rtu, otoèí se a rychle odejde.)}
-{591}{}{Jo, pøesnì to jsem si MYSLEL.}
-{600}{}{(Plivne ti na nohu.) Jo, to já taky. (Pohrdavì se na tebe podívá, otoèí se a odejde.)}
-{610}{}{'Skoro adnı rozdíl, sleèno Bishopová?' A já si myslela, e moje máma byla jediná tátova otrokynì. Zmiz mi z oèí.}
-{620}{}{'Rozumím, sleèno Bishopová?' A já si myslela, e moje máma byla jediná tátova otrokynì. Zmiz mi z oèí.}
-{630}{}{'PROMIÒTE, sleèno Bishopová, ale teï nemám èas si povídat?' A já si myslela, e moje máma byla jediná tátova otrokynì. Zmiz mi z oèí.}
-{640}{}{Jo, jen bì. Taka o tobì brzo zaène slıchávat SPOUSTU vìcí. Jen poèkej. }
-{641}{}{(Otoèí se a odejde.)}
-{642}{}{Øekni jediné slovo svému starému takovi a 'poletíš' ze støechy nejvyšší budovy v New Renu. A a u tebe najdou krátkı dopis na rozlouèenou, budou si všichni myslet, e to byla sebevrada. Bude to STRAŠLIVÁ tragédie. V ulicích se bude rozléhat pláè.}
-{643}{}{[Odejít]}
-{650}{}{Ne, myslím, e bys tu sázka prohrála TY, dìvko. Jen to zkus.}
-{651}{}{[Zaútoèit na ni]}
-{652}{}{[Nechat ji bıt]}
-{660}{}{Jdi ode mì. Nechci s tebou mluvit.}
-{661}{}{Taka o tobì brzo zaène slıchávat SPOUSTU vìcí. Jen poèkej.}
-{670}{}{Nejenom to, ale kdy si vezmu Jet, tak jsem poøádnì DIVOKÁ a jen stìí se dokáu kontrolovat. Potøebuju nìkoho, kdo na mì dohlídne, abych neprovedla nìjakou... hloupost.}
-{671}{}{Jsem tvùj èlovìk. Pojïme na to.}
-{672}{}{Bıt hrdinou nìkdy znamená chránit krásné mladé eny pøed nimi samotnımi, a to stojí co to stojí. Veï mì.}
-{673}{}{Myslím, e sis mì spletla s nìkım, kdo by se tì chtìl opravdu dotknout.}
-{680}{}{Vidíš Angelu Bishopovou, která právì usnula. Lehce chrápe, její vlasy jsou rozcuchané a na tváøi má drobnı úsmìv.}
-{690}{}{Vidíš mladou enu v tìsnıch koenıch šatech, která køièí z plnıch plic.}
+{563}{}{Uklidni se. Jenom si dÄ›lÃ¡m srandu, chÃ¡peÅ¡?}
+{564}{}{JasnÄ›, uvidÃ­me.}
+{570}{}{Ne... nebude mu to jedno. UvidÃ­Å¡.}
+{571}{}{Vypadni odsud, ty malÃ¡ dÄ›vko. Hned.}
+{573}{}{Uklidni se. Jenom si dÄ›lÃ¡m srandu.}
+{580}{}{(UÅ¡klÃ­bne se na tebe a potÃ© se otoÄÃ­ a uraÅ¾enÄ› odejde.)}
+{581}{}{[OdejÃ­t]}
+{590}{}{(StÃ¡le na tebe zÃ­rÃ¡, ale vypadÃ¡ nejistÄ›. Kousne se do rtu, otoÄÃ­ se a rychle odejde.)}
+{591}{}{Jo, pÅ™esnÄ› to jsem si MYSLEL.}
+{600}{}{(Plivne ti na nohu.) Jo, to jÃ¡ taky. (PohrdavÄ› se na tebe podÃ­vÃ¡, otoÄÃ­ se a odejde.)}
+{610}{}{'Skoro Å¾adnÃ½ rozdÃ­l, sleÄno BishopovÃ¡?' A jÃ¡ si myslela, Å¾e moje mÃ¡ma byla jedinÃ¡ tÃ¡tova otrokynÄ›. Zmiz mi z oÄÃ­.}
+{620}{}{'RozumÃ­m, sleÄno BishopovÃ¡?' A jÃ¡ si myslela, Å¾e moje mÃ¡ma byla jedinÃ¡ tÃ¡tova otrokynÄ›. Zmiz mi z oÄÃ­.}
+{630}{}{'PROMIÅ‡TE, sleÄno BishopovÃ¡, ale teÄ nemÃ¡m Äas si povÃ­dat?' A jÃ¡ si myslela, Å¾e moje mÃ¡ma byla jedinÃ¡ tÃ¡tova otrokynÄ›. Zmiz mi z oÄÃ­.}
+{640}{}{Jo, jen bÄ›Å¾. TaÅ¥ka o tobÄ› brzo zaÄne slÃ½chÃ¡vat SPOUSTU vÄ›cÃ­. Jen poÄkej. }
+{641}{}{(OtoÄÃ­ se a odejde.)}
+{642}{}{Å˜ekni jedinÃ© slovo svÃ©mu starÃ©mu taÅ¥kovi a 'poletÃ­Å¡' ze stÅ™echy nejvyÅ¡Å¡Ã­ budovy v New Renu. A aÅ¾ u tebe najdou krÃ¡tkÃ½ dopis na rozlouÄenou, budou si vÅ¡ichni myslet, Å¾e to byla sebevraÅ¾da. Bude to STRAÅ LIVÃ tragÃ©die. V ulicÃ­ch se bude rozlÃ©hat plÃ¡Ä.}
+{643}{}{[OdejÃ­t]}
+{650}{}{Ne, myslÃ­m, Å¾e bys tu sÃ¡zka prohrÃ¡la TY, dÄ›vko. Jen to zkus.}
+{651}{}{[ZaÃºtoÄit na ni]}
+{652}{}{[Nechat ji bÃ½t]}
+{660}{}{Jdi ode mÄ›. Nechci s tebou mluvit.}
+{661}{}{TaÅ¥ka o tobÄ› brzo zaÄne slÃ½chÃ¡vat SPOUSTU vÄ›cÃ­. Jen poÄkej.}
+{670}{}{Nejenom to, ale kdyÅ¾ si vezmu Jet, tak jsem poÅ™Ã¡dnÄ› DIVOKÃ a jen stÄ›Å¾Ã­ se dokÃ¡Å¾u kontrolovat. PotÅ™ebuju nÄ›koho, kdo na mÄ› dohlÃ­dne, abych neprovedla nÄ›jakou... hloupost.}
+{671}{}{Jsem tvÅ¯j ÄlovÄ›k. PojÄme na to.}
+{672}{}{BÃ½t hrdinou nÄ›kdy znamenÃ¡ chrÃ¡nit krÃ¡snÃ© mladÃ© Å¾eny pÅ™ed nimi samotnÃ½mi, aÅ¥ to stojÃ­ co to stojÃ­. VeÄ mÄ›.}
+{673}{}{MyslÃ­m, Å¾e sis mÄ› spletla s nÄ›kÃ½m, kdo by se tÄ› chtÄ›l opravdu dotknout.}
+{680}{}{VidÃ­Å¡ Angelu Bishopovou, kterÃ¡ prÃ¡vÄ› usnula. Lehce chrÃ¡pe, jejÃ­ vlasy jsou rozcuchanÃ© a na tvÃ¡Å™i mÃ¡ drobnÃ½ ÃºsmÄ›v.}
+{690}{}{VidÃ­Å¡ mladou Å¾enu v tÄ›snÃ½ch koÅ¾enÃ½ch Å¡atech, kterÃ¡ kÅ™iÄÃ­ z plnÃ½ch plic.}
 {700}{}{Chrrrxxssnnn... ach, }
 {701}{}{Zzzzz...}
-{800}{}{Pomoc, chce mì znásilnit!}
-{801}{}{Pomoc, on mì napadl! Pomoc!}
-{802}{}{Chce mì znásilnit! Chce mì znásilnit!}
-{810}{}{(Angela tì zavede nahoru do svého pokoje ve tøetím patøe, otevøe malé dveøe ve stìnì, vezme podivnou plastikovou láhev
- a nabídne ti ji.) Dáš si, brouèku? Je toho víc ne dost pro nás oba.}
-{811}{}{(Angela tì zavede nahoru do svého pokoje ve tøetím patøe, otevøe trezor ve stìnì, vezme trochu Jetu
- a nabídne ti ho.) Dáš si, brouèku? Je toho víc ne dost pro nás oba.}
+{800}{}{Pomoc, chce mÄ› znÃ¡silnit!}
+{801}{}{Pomoc, on mÄ› napadl! Pomoc!}
+{802}{}{Chce mÄ› znÃ¡silnit! Chce mÄ› znÃ¡silnit!}
+{810}{}{(Angela tÄ› zavede nahoru do svÃ©ho pokoje ve tÅ™etÃ­m patÅ™e, otevÅ™e malÃ© dveÅ™e ve stÄ›nÄ›, vezme podivnou plastikovou lÃ¡hev
+ a nabÃ­dne ti ji.) DÃ¡Å¡ si, brouÄku? Je toho vÃ­c neÅ¾ dost pro nÃ¡s oba.}
+{811}{}{(Angela tÄ› zavede nahoru do svÃ©ho pokoje ve tÅ™etÃ­m patÅ™e, otevÅ™e trezor ve stÄ›nÄ›, vezme trochu Jetu
+ a nabÃ­dne ti ho.) DÃ¡Å¡ si, brouÄku? Je toho vÃ­c neÅ¾ dost pro nÃ¡s oba.}
 {812}{}{E-he.}
 {813}{}{Ne-e.}
-{820}{}{Mmmmmmmm... (Angela nasaje poøádnou dávku Jetu z láhve.) Mmmmmmm... pojï trošku blí. (Lehne si na postel a opìt nasaje poøádnou dávku Jetu.) Kdy si pospíšíš, mùeš si nasát trochu Jetu pøímo z mıch úst...}
-{821}{}{No, kdy to øekneš takhle... tak nemùu odmítnout.}
-{822}{}{Ne, díky, ještì bych se mohl z toho svinstva pozvracet... nebo kdybych tu zùstal ještì o trochu déle.}
-{830}{}{(Angela se na tebe vztekle podívá, vyskoèí z postele a zaène køièet z plnıch plic!) Chce mì znásilnit! Pomoc, chce mì znásilnit!}
-{831}{}{Pššššst! Jestli nebudeš sticha, tag mì George nenechá hrád s králíèkama! Pšššst!}
-{832}{}{Nekøièet! Nekøièet!}
-{833}{}{Radìji odsud RYCHLE vypadnu.}
+{820}{}{Mmmmmmmm... (Angela nasaje poÅ™Ã¡dnou dÃ¡vku Jetu z lÃ¡hve.) Mmmmmmm... pojÄ troÅ¡ku blÃ­Å¾. (Lehne si na postel a opÄ›t nasaje poÅ™Ã¡dnou dÃ¡vku Jetu.) KdyÅ¾ si pospÃ­Å¡Ã­Å¡, mÅ¯Å¾eÅ¡ si nasÃ¡t trochu Jetu pÅ™Ã­mo z mÃ½ch Ãºst...}
+{821}{}{No, kdyÅ¾ to Å™ekneÅ¡ takhle... tak nemÅ¯Å¾u odmÃ­tnout.}
+{822}{}{Ne, dÃ­ky, jeÅ¡tÄ› bych se mohl z toho svinstva pozvracet... nebo kdybych tu zÅ¯stal jeÅ¡tÄ› o trochu dÃ©le.}
+{830}{}{(Angela se na tebe vztekle podÃ­vÃ¡, vyskoÄÃ­ z postele a zaÄne kÅ™iÄet z plnÃ½ch plic!) Chce mÄ› znÃ¡silnit! Pomoc, chce mÄ› znÃ¡silnit!}
+{831}{}{PÅ¡Å¡Å¡Å¡st! Jestli nebudeÅ¡ sticha, tag mÄ› George nenechÃ¡ hrÃ¡d s krÃ¡lÃ­Äkama! PÅ¡Å¡Å¡st!}
+{832}{}{NekÅ™iÄet! NekÅ™iÄet!}
+{833}{}{RadÄ›ji odsud RYCHLE vypadnu.}
 {1460}{}{. }
-{1461}{}{. Vidìla jsem tvùj poslední film. }
-{1462}{}{. Slyšela jsem o tvejch vynikajících vıkonech v ringu. }
-{1700}{}{, áááááach... chrxnhchrr.}
-{1701}{}{, ještì? Áááách... }
+{1461}{}{. VidÄ›la jsem tvÅ¯j poslednÃ­ film. }
+{1462}{}{. SlyÅ¡ela jsem o tvejch vynikajÃ­cÃ­ch vÃ½konech v ringu. }
+{1700}{}{, Ã¡Ã¡Ã¡Ã¡Ã¡ach... chrxnhchrr.}
+{1701}{}{, jeÅ¡tÄ›? ÃÃ¡Ã¡Ã¡ch... }

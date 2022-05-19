@@ -1,6 +1,6 @@
-{100}{}{Pøístup povolen pro podlaí }
-{101}{}{Pøístup zamítnut.}
-{102}{}{Neznámı vzor sítnice.}
-{103}{}{Porušení bezpeènosti na podlaí }
-{104}{}{Pøístup povolen pro podlaí 4.}
-{105}{}{Porušení bezpeènosti na podlaí 4.}
+{100}{}{PÅ™Ã­stup povolen pro podlaÅ¾Ã­ }
+{101}{}{PÅ™Ã­stup zamÃ­tnut.}
+{102}{}{NeznÃ¡mÃ½ vzor sÃ­tnice.}
+{103}{}{PoruÅ¡enÃ­ bezpeÄnosti na podlaÅ¾Ã­ }
+{104}{}{PÅ™Ã­stup povolen pro podlaÅ¾Ã­ 4.}
+{105}{}{PoruÅ¡enÃ­ bezpeÄnosti na podlaÅ¾Ã­ 4.}

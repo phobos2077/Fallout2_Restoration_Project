@@ -1,18 +1,18 @@
-{100}{}{Vidíš ponìkud baculatìjší blonïatou sekretáøku ve velmi tìsném obleèení.}
-{101}{}{Vidíš prezidentovu "osobní asistentku".}
-{102}{}{Vidíš baculatou, ale celkem atraktivní stáistku, eh, sekretáøku. Je trochu rozcuchaná.}
-{103}{}{Ano? Co potøebuješ, kocourku?}
-{104}{}{Teï ne, zrovna jsem si vyèistila šaty.}
-{105}{}{Copak dìlá náš Pan Dùleitı?}
-{106}{}{Neøíkají mu *Dick* Richardson pro nic za nic.}
-{107}{}{Umím psát i na stroji.}
-{108}{}{Pøíštì nejdøív zaklep ne sem vtrhneš.}
-{109}{}{Potøebuju ústní vodu.}
-{110}{}{Kde je tady èistírna?}
-{111}{}{Myslím, e je èas na povıšení.}
-{112}{}{To se všichni agenti tajné sluby poøád nìkde potulují?}
-{113}{}{Pøijï pozdìji. Za chvilku budu dost zaneprázdnìná.}
-{114}{}{Myslím, e tyhle šaty nebudu prát - moná se mi budou jednou hodit.}
-{115}{}{Prezident øíká, e skvìle líbám.}
-{116}{}{Netoèíš si mì, e ne?}
-{117}{}{Kde jsou moje chránièe kolen? Hehe, dìlám si srandu.}
+{100}{}{VidÃ­Å¡ ponÄ›kud baculatÄ›jÅ¡Ã­ blonÄatou sekretÃ¡Å™ku ve velmi tÄ›snÃ©m obleÄenÃ­.}
+{101}{}{VidÃ­Å¡ prezidentovu "osobnÃ­ asistentku".}
+{102}{}{VidÃ­Å¡ baculatou, ale celkem atraktivnÃ­ stÃ¡Å¾istku, eh, sekretÃ¡Å™ku. Je trochu rozcuchanÃ¡.}
+{103}{}{Ano? Co potÅ™ebujeÅ¡, kocourku?}
+{104}{}{TeÄ ne, zrovna jsem si vyÄistila Å¡aty.}
+{105}{}{Copak dÄ›lÃ¡ nÃ¡Å¡ Pan DÅ¯leÅ¾itÃ½?}
+{106}{}{NeÅ™Ã­kajÃ­ mu *Dick* Richardson pro nic za nic.}
+{107}{}{UmÃ­m psÃ¡t i na stroji.}
+{108}{}{PÅ™Ã­Å¡tÄ› nejdÅ™Ã­v zaklep neÅ¾ sem vtrhneÅ¡.}
+{109}{}{PotÅ™ebuju ÃºstnÃ­ vodu.}
+{110}{}{Kde je tady ÄistÃ­rna?}
+{111}{}{MyslÃ­m, Å¾e je Äas na povÃ½Å¡enÃ­.}
+{112}{}{To se vÅ¡ichni agenti tajnÃ© sluÅ¾by poÅ™Ã¡d nÄ›kde potulujÃ­?}
+{113}{}{PÅ™ijÄ pozdÄ›ji. Za chvilku budu dost zaneprÃ¡zdnÄ›nÃ¡.}
+{114}{}{MyslÃ­m, Å¾e tyhle Å¡aty nebudu prÃ¡t - moÅ¾nÃ¡ se mi budou jednou hodit.}
+{115}{}{Prezident Å™Ã­kÃ¡, Å¾e skvÄ›le lÃ­bÃ¡m.}
+{116}{}{NetoÄÃ­Å¡ si mÄ›, Å¾e ne?}
+{117}{}{Kde jsou moje chrÃ¡niÄe kolen? Hehe, dÄ›lÃ¡m si srandu.}

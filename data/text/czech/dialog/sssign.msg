@@ -1,30 +1,30 @@
-{100}{}{Vidíš informaèní tabuli.}
-{101}{}{Vidíš informaèní tabuli se stanovenımi zákony NCR.}
-{102}{}{Typická informaèní tabule s nìkolika pøišpendlenımi papíry. Mezi nimi vyènívají zákony NCR.}
-{103}{}{Vítejte v New California Republic! Pøedtím, ne vstoupíte do našeho krásného mìsta, si prosím udìlejte èas k obeznámení se s následujícími pravidly a naøízeními.}
-{104}{}{Uvnitø mìsta se nesmí viditelnì nosit ádné zbranì.}
-{105}{}{Osoby pod vlivem alkoholu nebo drog budou zatèeny.}
-{106}{}{Otrokáøství, hazard a prostituce jsou uvnitø mìsta zakázány.}
-{107}{}{Neznalost zákona neomlouvá. Hlupáci budou vyhoštìni stejnì tak rychle jako chytráci.}
-{108}{}{Jestli nehodláte dodrovat naše zákony - tak táhnìte k èertu!}
-{109}{}{Bude lepší, kdy schováš zbranì. A myslíme to vánì.}
-{110}{}{Dobrı obèan vdy dodruje zákony.}
-{111}{}{Zpìt.}
-{112}{}{Nic dalšího u èíst nechci.}
-{113}{}{To nevìští nic dobrého pro moje rekreaèní návyky.}
-{114}{}{Prima, aspoò tam nebudou ádní opilci nebo ebráci, kteøí jenom tahají z èlovìka peníze.}
-{115}{}{Zpìt.}
-{116}{}{Nic dalšího u èíst nechci.}
-{117}{}{A sakra, tak to vypadá, e mám v tomhle mìstì s pøivıdìlkem útrum.}
-{118}{}{Hmm... zdá se, e se tu nìkdo snaí vytvoøit poèestnou a slušnou spoleènost.}
-{119}{}{Zpìt.}
-{120}{}{Nic dalšího u èíst nechci.}
-{121}{}{Pìknì drsná slova, ale tøeba se mi je podaøí obejít.}
-{122}{}{Rovnost všech pøed zákonem nezní jako špatnı nápad.}
-{123}{}{Zpìt.}
-{124}{}{Nic dalšího u èíst nechci.}
-{125}{}{Nauèit tyhle chlápky respektu se právì dostalo na vyšší místo na mém seznamu.}
-{126}{}{No, to je sice trochu pøehnané, ale naprosto srozumitelné.}
-{127}{}{Zpìt.}
-{128}{}{Nic dalšího u èíst nechci.}
-{130}{}{Au au hlava bolet. Moc písmena.}
+{100}{}{VidÃ­Å¡ informaÄnÃ­ tabuli.}
+{101}{}{VidÃ­Å¡ informaÄnÃ­ tabuli se stanovenÃ½mi zÃ¡kony NCR.}
+{102}{}{TypickÃ¡ informaÄnÃ­ tabule s nÄ›kolika pÅ™iÅ¡pendlenÃ½mi papÃ­ry. Mezi nimi vyÄnÃ­vajÃ­ zÃ¡kony NCR.}
+{103}{}{VÃ­tejte v New California Republic! PÅ™edtÃ­m, neÅ¾ vstoupÃ­te do naÅ¡eho krÃ¡snÃ©ho mÄ›sta, si prosÃ­m udÄ›lejte Äas k obeznÃ¡menÃ­ se s nÃ¡sledujÃ­cÃ­mi pravidly a naÅ™Ã­zenÃ­mi.}
+{104}{}{UvnitÅ™ mÄ›sta se nesmÃ­ viditelnÄ› nosit Å¾Ã¡dnÃ© zbranÄ›.}
+{105}{}{Osoby pod vlivem alkoholu nebo drog budou zatÄeny.}
+{106}{}{OtrokÃ¡Å™stvÃ­, hazard a prostituce jsou uvnitÅ™ mÄ›sta zakÃ¡zÃ¡ny.}
+{107}{}{Neznalost zÃ¡kona neomlouvÃ¡. HlupÃ¡ci budou vyhoÅ¡tÄ›ni stejnÄ› tak rychle jako chytrÃ¡ci.}
+{108}{}{Jestli nehodlÃ¡te dodrÅ¾ovat naÅ¡e zÃ¡kony - tak tÃ¡hnÄ›te k Äertu!}
+{109}{}{Bude lepÅ¡Ã­, kdyÅ¾ schovÃ¡Å¡ zbranÄ›. A myslÃ­me to vÃ¡Å¾nÄ›.}
+{110}{}{DobrÃ½ obÄan vÅ¾dy dodrÅ¾uje zÃ¡kony.}
+{111}{}{ZpÄ›t.}
+{112}{}{Nic dalÅ¡Ã­ho uÅ¾ ÄÃ­st nechci.}
+{113}{}{To nevÄ›Å¡tÃ­ nic dobrÃ©ho pro moje rekreaÄnÃ­ nÃ¡vyky.}
+{114}{}{Prima, aspoÅˆ tam nebudou Å¾Ã¡dnÃ­ opilci nebo Å¾ebrÃ¡ci, kteÅ™Ã­ jenom tahajÃ­ z ÄlovÄ›ka penÃ­ze.}
+{115}{}{ZpÄ›t.}
+{116}{}{Nic dalÅ¡Ã­ho uÅ¾ ÄÃ­st nechci.}
+{117}{}{A sakra, tak to vypadÃ¡, Å¾e mÃ¡m v tomhle mÄ›stÄ› s pÅ™ivÃ½dÄ›lkem Ãºtrum.}
+{118}{}{Hmm... zdÃ¡ se, Å¾e se tu nÄ›kdo snaÅ¾Ã­ vytvoÅ™it poÄestnou a sluÅ¡nou spoleÄnost.}
+{119}{}{ZpÄ›t.}
+{120}{}{Nic dalÅ¡Ã­ho uÅ¾ ÄÃ­st nechci.}
+{121}{}{PÄ›knÄ› drsnÃ¡ slova, ale tÅ™eba se mi je podaÅ™Ã­ obejÃ­t.}
+{122}{}{Rovnost vÅ¡ech pÅ™ed zÃ¡konem neznÃ­ jako Å¡patnÃ½ nÃ¡pad.}
+{123}{}{ZpÄ›t.}
+{124}{}{Nic dalÅ¡Ã­ho uÅ¾ ÄÃ­st nechci.}
+{125}{}{NauÄit tyhle chlÃ¡pky respektu se prÃ¡vÄ› dostalo na vyÅ¡Å¡Ã­ mÃ­sto na mÃ©m seznamu.}
+{126}{}{No, to je sice trochu pÅ™ehnanÃ©, ale naprosto srozumitelnÃ©.}
+{127}{}{ZpÄ›t.}
+{128}{}{Nic dalÅ¡Ã­ho uÅ¾ ÄÃ­st nechci.}
+{130}{}{Au au hlava bolet. Moc pÃ­smena.}

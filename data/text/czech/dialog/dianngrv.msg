@@ -1,2 +1,2 @@
-{101}{}{Na náhrobním kameni stojí: "Anna Winslow."}
-{200}{}{Anniny kosti byly uloeny k odpoèinku.}
+{101}{}{Na nÃ¡hrobnÃ­m kameni stojÃ­: "Anna Winslow."}
+{200}{}{Anniny kosti byly uloÅ¾eny k odpoÄinku.}

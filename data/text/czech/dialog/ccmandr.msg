@@ -1,57 +1,57 @@
-{100}{}{Vidíš osobu v energo zbroji.}
-{101}{}{Vidíš velitele základny Navarro.}
-{102}{}{Vidíš osobu v energo zbroji neobvyklého vzhledu. Na prsou má znak, kterı nepoznáváš.}
-{103}{}{Kdo k èertu jste? Poplach! Vetøelci pronikli na základnu!}
-{104}{}{Nemám èas tlachat s pìšáky. Odchod.}
-{105}{}{Èas zemøít.}
-{106}{}{Dobøe.}
-{107}{}{U jsem øekl, e na tebe nemám èas. Vypadni z mojí kanceláøe a nevracej se, dokud tì nezavolám. Odchod!}
-{108}{}{Neuposlechnutí pøímého rozkazu nadøízeného dùstojníka je povaováno za zradu. Na váleènı soud nemám èas, take to vyøídím sám. Stráe! Zabijte toho idiota!}
-{109}{}{Dobøe.}
+{100}{}{VidÃ­Å¡ osobu v energo zbroji.}
+{101}{}{VidÃ­Å¡ velitele zÃ¡kladny Navarro.}
+{102}{}{VidÃ­Å¡ osobu v energo zbroji neobvyklÃ©ho vzhledu. Na prsou mÃ¡ znak, kterÃ½ nepoznÃ¡vÃ¡Å¡.}
+{103}{}{Kdo k Äertu jste? Poplach! VetÅ™elci pronikli na zÃ¡kladnu!}
+{104}{}{NemÃ¡m Äas tlachat s pÄ›Å¡Ã¡ky. Odchod.}
+{105}{}{ÄŒas zemÅ™Ã­t.}
+{106}{}{DobÅ™e.}
+{107}{}{UÅ¾ jsem Å™ekl, Å¾e na tebe nemÃ¡m Äas. Vypadni z mojÃ­ kancelÃ¡Å™e a nevracej se, dokud tÄ› nezavolÃ¡m. Odchod!}
+{108}{}{NeuposlechnutÃ­ pÅ™Ã­mÃ©ho rozkazu nadÅ™Ã­zenÃ©ho dÅ¯stojnÃ­ka je povaÅ¾ovÃ¡no za zradu. Na vÃ¡leÄnÃ½ soud nemÃ¡m Äas, takÅ¾e to vyÅ™Ã­dÃ­m sÃ¡m. StrÃ¡Å¾e! Zabijte toho idiota!}
+{109}{}{DobÅ™e.}
 {110}{}{Polib si!}
-{111}{}{FOB je v támhleté skøíòce. A mì vedoucí kontaktuje, jakmile bude zabezpeèen. Odchod!}
+{111}{}{FOB je v tÃ¡mhletÃ© skÅ™Ã­Åˆce. AÅ¥ mÄ› vedoucÃ­ kontaktuje, jakmile bude zabezpeÄen. Odchod!}
 {112}{}{Ano, pane!}
-{113}{}{Pohni s tím, vojáku. Nemám na to celı den.}
+{113}{}{Pohni s tÃ­m, vojÃ¡ku. NemÃ¡m na to celÃ½ den.}
 {114}{}{Ano, pane!}
-{115}{}{Nech moji skøíòku na pokoji, nebo ti ukáu co je to opravdová bolest.}
+{115}{}{Nech moji skÅ™Ã­Åˆku na pokoji, nebo ti ukÃ¡Å¾u co je to opravdovÃ¡ bolest.}
 {116}{}{Ano, pane!}
-{117}{}{Na základnì je vyhlášen poplach a já vás nepoznávám. Vaše doklady, vojáku.}
-{118}{}{Jaké doklady?}
+{117}{}{Na zÃ¡kladnÄ› je vyhlÃ¡Å¡en poplach a jÃ¡ vÃ¡s nepoznÃ¡vÃ¡m. VaÅ¡e doklady, vojÃ¡ku.}
+{118}{}{JakÃ© doklady?}
 {119}{}{Ty vyhulit mi!}
-{120}{}{Zdá se, e je nemám u sebe...}
-{121}{}{Doklady? Mám vaše doklady pøímo tady!}
-{122}{}{Špatná odpovìï, èerve. Doklady bys mìl mít vdy u sebe. To bys mìl vìdìt!}
+{120}{}{ZdÃ¡ se, Å¾e je nemÃ¡m u sebe...}
+{121}{}{Doklady? MÃ¡m vaÅ¡e doklady pÅ™Ã­mo tady!}
+{122}{}{Å patnÃ¡ odpovÄ›Ä, Äerve. Doklady bys mÄ›l mÃ­t vÅ¾dy u sebe. To bys mÄ›l vÄ›dÄ›t!}
 {123}{}{Jdi do prdele.}
-{124}{}{Nech moji skøíòku na pokoji, nebo ti ukáu co je to opravdová bolest.}
-{125}{}{Èas zemøít.}
-{200}{}{No dobøe, tak a to máme rychle za sebou. Nemám rád, kdy mi mutanti smrdí v kanceláøi a já mám práce, e bych se z toho mohl posrat. Pracuješ pro Salvatora? }
-{201}{}{Do toho ti nic není, kreténe.}
+{124}{}{Nech moji skÅ™Ã­Åˆku na pokoji, nebo ti ukÃ¡Å¾u co je to opravdovÃ¡ bolest.}
+{125}{}{ÄŒas zemÅ™Ã­t.}
+{200}{}{No dobÅ™e, tak aÅ¥ to mÃ¡me rychle za sebou. NemÃ¡m rÃ¡d, kdyÅ¾ mi mutanti smrdÃ­ v kancelÃ¡Å™i a jÃ¡ mÃ¡m prÃ¡ce, Å¾e bych se z toho mohl posrat. PracujeÅ¡ pro Salvatora? }
+{201}{}{Do toho ti nic nenÃ­, kretÃ©ne.}
 {202}{}{Nepracuju pro nikoho.}
 {203}{}{A pokud ano?}
-{204}{}{Jasnì, pracuju pro Salvatora.}
-{205}{}{Ne odpovím na jakoukoliv otázku, chci se nejdøív zeptat na pár vlastních.}
-{210}{}{Na takové kecy nemám èas. Stráe! Zabijte toho mutanta!}
-{220}{}{Take øíkáš, e nejsi nic ne bludná krysa z pustiny, která jen tak naskoèila do jednoho z našich vertibirdù?}
-{221}{}{Eee, jo. Víceménì... a na tu èást, e jsem krysa.}
-{222}{}{Pøesnì tak.}
-{223}{}{Ne. Øíkám, e je to jenom jedno velké nedorozumìní. Vùbec nevím, kdo jste a ani mì to nezajímá. Take pokud vám to nebude vadit, pùjdu zase dál.}
-{230}{}{Dobøe, take pokud jsi sám, tak s tebou u nemusím dál ztrácet èas. Stráe! Zabijte toho mutanta!}
-{240}{}{Odsud se ivı nedostaneš, mutante. Nemùu pøece riskovat, e vykecáš polohu základny všem svım kamarádùm z pustiny, e? Stráe! Zabijte toho mutanta!}
-{250}{}{Øekni mi, co chci vìdìt a zaruèuju ti, e tvá smrt bude rychlá a... relativnì bezbolestná. Poslal tì Salvatore?}
-{251}{}{Eeeee... ne? Poèkat, jo. Moná.}
-{252}{}{Ne. Hrát si na schovku v tom vašem létajícím stroji byl mùj nápad. Geniální, já vím.}
-{253}{}{Jo. Myslel si, e by ten obchod mohl ještì vylepšit, kdy mì pošle s váma. Dobrı, ne?}
-{254}{}{Ne odpovím na jakoukoliv otázku, chci se nejdøív zeptat na pár vlastních.}
-{260}{}{Na takové kecy nemám èas. Stráe! Zabijte toho mutanta!}
-{270}{}{To má bıt vtip, mutante? Myslím, e budeš mnohem vtipnìjší jako krvácející mrtvola. Stráe! Zabijte toho mutanta!}
-{280}{}{Coe? (Zachechtá se.) Krucinál, proè ne? Stejnì u jseš jednou nohou v hrobì. Co chceš vìdìt, mutante?}
-{281}{}{Proè mi poøád øíkáš mutant?}
-{282}{}{Kdo k èertu jste, chlapi?}
+{204}{}{JasnÄ›, pracuju pro Salvatora.}
+{205}{}{NeÅ¾ odpovÃ­m na jakoukoliv otÃ¡zku, chci se nejdÅ™Ã­v zeptat na pÃ¡r vlastnÃ­ch.}
+{210}{}{Na takovÃ© kecy nemÃ¡m Äas. StrÃ¡Å¾e! Zabijte toho mutanta!}
+{220}{}{TakÅ¾e Å™Ã­kÃ¡Å¡, Å¾e nejsi nic neÅ¾ bludnÃ¡ krysa z pustiny, kterÃ¡ jen tak naskoÄila do jednoho z naÅ¡ich vertibirdÅ¯?}
+{221}{}{Eee, jo. VÃ­cemÃ©nÄ›... aÅ¾ na tu ÄÃ¡st, Å¾e jsem krysa.}
+{222}{}{PÅ™esnÄ› tak.}
+{223}{}{Ne. Å˜Ã­kÃ¡m, Å¾e je to jenom jedno velkÃ© nedorozumÄ›nÃ­. VÅ¯bec nevÃ­m, kdo jste a ani mÄ› to nezajÃ­mÃ¡. TakÅ¾e pokud vÃ¡m to nebude vadit, pÅ¯jdu zase dÃ¡l.}
+{230}{}{DobÅ™e, takÅ¾e pokud jsi sÃ¡m, tak s tebou uÅ¾ nemusÃ­m dÃ¡l ztrÃ¡cet Äas. StrÃ¡Å¾e! Zabijte toho mutanta!}
+{240}{}{Odsud se Å¾ivÃ½ nedostaneÅ¡, mutante. NemÅ¯Å¾u pÅ™ece riskovat, Å¾e vykecÃ¡Å¡ polohu zÃ¡kladny vÅ¡em svÃ½m kamarÃ¡dÅ¯m z pustiny, Å¾e? StrÃ¡Å¾e! Zabijte toho mutanta!}
+{250}{}{Å˜ekni mi, co chci vÄ›dÄ›t a zaruÄuju ti, Å¾e tvÃ¡ smrt bude rychlÃ¡ a... relativnÄ› bezbolestnÃ¡. Poslal tÄ› Salvatore?}
+{251}{}{Eeeee... ne? PoÄkat, jo. MoÅ¾nÃ¡.}
+{252}{}{Ne. HrÃ¡t si na schovku v tom vaÅ¡em lÃ©tajÃ­cÃ­m stroji byl mÅ¯j nÃ¡pad. GeniÃ¡lnÃ­, jÃ¡ vÃ­m.}
+{253}{}{Jo. Myslel si, Å¾e by ten obchod mohl jeÅ¡tÄ› vylepÅ¡it, kdyÅ¾ mÄ› poÅ¡le s vÃ¡ma. DobrÃ½, ne?}
+{254}{}{NeÅ¾ odpovÃ­m na jakoukoliv otÃ¡zku, chci se nejdÅ™Ã­v zeptat na pÃ¡r vlastnÃ­ch.}
+{260}{}{Na takovÃ© kecy nemÃ¡m Äas. StrÃ¡Å¾e! Zabijte toho mutanta!}
+{270}{}{To mÃ¡ bÃ½t vtip, mutante? MyslÃ­m, Å¾e budeÅ¡ mnohem vtipnÄ›jÅ¡Ã­ jako krvÃ¡cejÃ­cÃ­ mrtvola. StrÃ¡Å¾e! Zabijte toho mutanta!}
+{280}{}{CoÅ¾e? (ZachechtÃ¡ se.) KrucinÃ¡l, proÄ ne? StejnÄ› uÅ¾ jseÅ¡ jednou nohou v hrobÄ›. Co chceÅ¡ vÄ›dÄ›t, mutante?}
+{281}{}{ProÄ mi poÅ™Ã¡d Å™Ã­kÃ¡Å¡ mutant?}
+{282}{}{Kdo k Äertu jste, chlapi?}
 {283}{}{Kde to jsem?}
-{284}{}{Kde seenu takové hezké brnìní?}
-{285}{}{To u mi staèilo.}
-{290}{}{Protoe jím JSI. Jistì, moná vypadáš jako èlovìk, ale nenech se zmást. Poøád jsi mutant. Ty a všichni ostatní na pevninì. Všichni jste nakaení. Nìjaké další otázky?}
-{300}{}{My jsme Enkláva. Poslední bašta skuteèného lidstva na téhle prokleté planetì. My jsme jediní, kteøí stále vzdávají hold staré èervenobílomodré. Je to tak, my jsme praví patrioti. Jíme orly bìlohlavé a serem hvìzdy a pruhy. Jsme vše, co zbylo ze slavnıch Spojenıch státù americkıch. Ale je nás dost. Ó ano, je nás dost na to, abysme to tady dali do poøádku. Na to se mùeš spolehnout, mutante. Nìjaké další otázky?}
-{310}{}{Tohle je Navarro. Naše skrytá základna na pevninì. Jsme pøímo na pobøeí Kalifornie a Tichého oceánu. Nìjaké další otázky?}
-{320}{}{Jen kdy ji sundáš z mého mrtvého tìla. Pøeju hodnì štìstí, mutante. Nìjaké další otázky?}
-{330}{}{To je dobøe, protoe mì u unavuje plıtvat dechem na tlachání s mutantem. Popravdì, celá tahle záleitost je jen plıtvání mım drahocennım èasem, protoe je mi úplnì jedno, co mi chceš sdìlit. Stráe! Zabijte toho mutanta!}
+{284}{}{Kde seÅ¾enu takovÃ© hezkÃ© brnÄ›nÃ­?}
+{285}{}{To uÅ¾ mi staÄilo.}
+{290}{}{ProtoÅ¾e jÃ­m JSI. JistÄ›, moÅ¾nÃ¡ vypadÃ¡Å¡ jako ÄlovÄ›k, ale nenech se zmÃ¡st. PoÅ™Ã¡d jsi mutant. Ty a vÅ¡ichni ostatnÃ­ na pevninÄ›. VÅ¡ichni jste nakaÅ¾enÃ­. NÄ›jakÃ© dalÅ¡Ã­ otÃ¡zky?}
+{300}{}{My jsme EnklÃ¡va. PoslednÃ­ baÅ¡ta skuteÄnÃ©ho lidstva na tÃ©hle prokletÃ© planetÄ›. My jsme jedinÃ­, kteÅ™Ã­ stÃ¡le vzdÃ¡vajÃ­ hold starÃ© ÄervenobÃ­lomodrÃ©. Je to tak, my jsme pravÃ­ patrioti. JÃ­me orly bÄ›lohlavÃ© a serem hvÄ›zdy a pruhy. Jsme vÅ¡e, co zbylo ze slavnÃ½ch SpojenÃ½ch stÃ¡tÅ¯ americkÃ½ch. Ale je nÃ¡s dost. Ã“ ano, je nÃ¡s dost na to, abysme to tady dali do poÅ™Ã¡dku. Na to se mÅ¯Å¾eÅ¡ spolehnout, mutante. NÄ›jakÃ© dalÅ¡Ã­ otÃ¡zky?}
+{310}{}{Tohle je Navarro. NaÅ¡e skrytÃ¡ zÃ¡kladna na pevninÄ›. Jsme pÅ™Ã­mo na pobÅ™eÅ¾Ã­ Kalifornie a TichÃ©ho oceÃ¡nu. NÄ›jakÃ© dalÅ¡Ã­ otÃ¡zky?}
+{320}{}{Jen kdyÅ¾ ji sundÃ¡Å¡ z mÃ©ho mrtvÃ©ho tÄ›la. PÅ™eju hodnÄ› Å¡tÄ›stÃ­, mutante. NÄ›jakÃ© dalÅ¡Ã­ otÃ¡zky?}
+{330}{}{To je dobÅ™e, protoÅ¾e mÄ› uÅ¾ unavuje plÃ½tvat dechem na tlachÃ¡nÃ­ s mutantem. PopravdÄ›, celÃ¡ tahle zÃ¡leÅ¾itost je jen plÃ½tvÃ¡nÃ­ mÃ½m drahocennÃ½m Äasem, protoÅ¾e je mi ÃºplnÄ› jedno, co mi chceÅ¡ sdÄ›lit. StrÃ¡Å¾e! Zabijte toho mutanta!}

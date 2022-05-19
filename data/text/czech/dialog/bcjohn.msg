@@ -1,15 +1,15 @@
-{100}{}{Vidíš bezdomovce.}
-{101}{}{Vidíš bezdomovce Johna.}
-{102}{}{Vidíš mue støedního vìku ve starıch obnošenıch šatech.}
-{103}{}{Promiò, cizinèe, ale nemám na tebe èas.}
-{104}{}{Proè nechtít mluvit?}
-{105}{}{Dobøe, pápá.}
-{106}{}{Tak dobøe, mìj se.}
-{107}{}{Poèkej minutku. Proè se mnou nechceš mluvit?}
-{108}{}{Jsme velmi uzavøené spoleèenství a nechceme tu ádné problémy ani zásahy z okolního svìta. Prosím, nech nás bıt.}
-{109}{}{Dobøe.}
+{100}{}{VidÃ­Å¡ bezdomovce.}
+{101}{}{VidÃ­Å¡ bezdomovce Johna.}
+{102}{}{VidÃ­Å¡ muÅ¾e stÅ™ednÃ­ho vÄ›ku ve starÃ½ch obnoÅ¡enÃ½ch Å¡atech.}
+{103}{}{PromiÅˆ, cizinÄe, ale nemÃ¡m na tebe Äas.}
+{104}{}{ProÄ nechtÃ­t mluvit?}
+{105}{}{DobÅ™e, pÃ¡pÃ¡.}
+{106}{}{Tak dobÅ™e, mÄ›j se.}
+{107}{}{PoÄkej minutku. ProÄ se mnou nechceÅ¡ mluvit?}
+{108}{}{Jsme velmi uzavÅ™enÃ© spoleÄenstvÃ­ a nechceme tu Å¾Ã¡dnÃ© problÃ©my ani zÃ¡sahy z okolnÃ­ho svÄ›ta. ProsÃ­m, nech nÃ¡s bÃ½t.}
+{109}{}{DobÅ™e.}
 {110}{}{Ahoj... a sbohem.}
-{111}{}{Díky za všechno, co jsi pro nás udìlal. Omlouvám se za svoje pøedešlé chování.}
+{111}{}{DÃ­ky za vÅ¡echno, co jsi pro nÃ¡s udÄ›lal. OmlouvÃ¡m se za svoje pÅ™edeÅ¡lÃ© chovÃ¡nÃ­.}
 {112}{}{Jdi do hajzlu, ty parchante!}
-{113}{}{Sakra. Nesnáším, kdy se tohle stane.}
-{114}{}{Tu máš! Tohle tì nauèí.}
+{113}{}{Sakra. NesnÃ¡Å¡Ã­m, kdyÅ¾ se tohle stane.}
+{114}{}{Tu mÃ¡Å¡! Tohle tÄ› nauÄÃ­.}

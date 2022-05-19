@@ -1,48 +1,48 @@
-{100}{}{Vidíš ghoula s oholenou hlavou.}
-{101}{}{Vidíš Jeremyho, ghoula, kterı má na starosti zásoby.}
-{102}{}{Vidíš vysokého a hubeného ghoula, kterı vypadá velmi zamìstnanì.}
-{110}{}{Zdravím. Jmenuju se Jeremy. Jsem správcem zdejší všemohoucí kartotéky. Mám na starosti veškeré záznamy tıkající se našich uloenıch zásob.}
-{111}{}{Zdravím. Pøicházíš navštívit všemohoucí kartotéku, nebo jen potøebuješ nìco ze skladu?}
-{112}{}{Všemohoucí?}
-{113}{}{Potøebuju nìco ze skladu.}
-{114}{}{Nepotøebuju nic. Jen se tak dívám. Sbohem.}
-{120}{}{No, jestli chceš nìco ze skladu, potøebuješ vyplnìnou ádanku. Máš vyplnìnou ádanku?}
-{121}{}{Ano, mám. Tady je.}
-{122}{}{Eh, nemám. Kde dostanu formuláø na vyplnìní?}
-{130}{}{No, to bude asi ono, v poøádku. Co potøebuješ?}
-{131}{}{Potøebuju tøícestnı plazma-transformer.}
-{132}{}{Potøebuju tøícestnı plazma-transformer. Chceš vìdìt, na co ho potøebuju?}
-{133}{}{Potøebuju mechem pokrytou, tøírukou gredunzu.}
-{140}{}{Myslím, e mám jeden v téhle skøíni. Ach ano, tady je.}
-{141}{}{No, není to zrovna poslední model, ale bude muset staèit. Díky. Sbohem.}
-{150}{}{Nechci to vìdìt. Myslím, e mám jeden v téhle skøíni. Ach ano, tady je.}
-{151}{}{No, není to zrovna poslední model, ale bude muset staèit. Díky. Sbohem.}
-{160}{}{Nemùu ti teï pomoct. Mám moc práce.}
-{161}{}{Víš, všechno je to o vìcech.}
-{162}{}{Víš, všechno je to o nápadech.}
-{163}{}{Víš, všechno je to o slovech.}
-{164}{}{Víš, všechno je to o Natas.}
-{165}{}{Víš, všechno je to o holohlavıch opicích.}
-{166}{}{Víš, všechno je to o tajemstvích.}
-{167}{}{Víš, všechno je to o marketingu.}
-{170}{}{Dobøe, moná ne všemohoucí, ale je zatracenì dost dùleitá. Co potøebuješ?}
-{171}{}{Potøebuju nìco ze skladu.}
-{172}{}{Eh, nic. Jen se tak dívám. Sbohem.}
-{180}{}{Nemùu uvìøit, co za blbce dneska pustìj dovnitø.}
-{181}{}{Blbec u od pohledu, e jo?}
-{182}{}{Nechoï do místnosti reaktoru.}
-{183}{}{Eh, nemám èas ti teï èíst pohádku.}
-{184}{}{Jdi dál... pokraèuj. Hodnej hezounek.}
-{190}{}{Co e to potøebuješ? No, na to si budeš muset poèkat. Potøebuješ ještì nìco?}
-{191}{}{Eh, myslím, e zùstanu u tøícestného plazma-transformeru.}
-{192}{}{Sakra. Ne, nic jiného nechci. Budu se sem muset vrátit pozdìji. Sbohem.}
-{200}{}{Hmm, nejsi ty náhodou Skeeterùv pøítel? Vdycky se mì snaí pøemluvit, abych mu dal cenné zásoby. Potom je jen rozmontuje a rozbije. Nesvìøil bych mu ani opravu toustovaèe.}
-{201}{}{Eh, no, ve skuteènosti to potøebuju pro Skeetera.}
-{202}{}{Kdo je Skeeter? Jen potøebuju tuhle souèástku donést do ovládací místnosti reaktoru k opravì... hele, podívej! Není támhle krysa?}
-{203}{}{Nevím, co s tou vìcí chtìjí dìlat. Já ji mám jenom vyzvednout.}
-{210}{}{Já to vìdìl. Jak sakra Skeeter sehnal nìkoho, kdo mu schválí vydání té souèástky? Jen doufám, e tentokrát nic nevyhodí do vzduchu. No ale mì to vlastnì mùe bıt jedno.}
-{211}{}{Eh, co ta souèástka? Potøebuju ji okamitì vyzvednout.}
-{220}{}{No, buï ji mùeš získat od Harolda v osadì nebo od Festuse pøímo tady v hlavní ovládací místnosti reaktoru. Je mi jedno, od koho ji seeneš, hlavnì ji seeò. ádná vyplnìná ádanka, ádná souèástka. Tak to tu chodí.}
-{221}{}{U máš tu ádanku? Abych ti mohl dát nìjakou souèástku, musím nejdøív dostat ádanku.}
-{222}{}{Aha, dobøe. No, radìji ji pùjdu sehnat. Sbohem.}
-{300}{}{Myslím, e ji seenu pozdìji. Sbohem.}
+{100}{}{VidÃ­Å¡ ghoula s oholenou hlavou.}
+{101}{}{VidÃ­Å¡ Jeremyho, ghoula, kterÃ½ mÃ¡ na starosti zÃ¡soby.}
+{102}{}{VidÃ­Å¡ vysokÃ©ho a hubenÃ©ho ghoula, kterÃ½ vypadÃ¡ velmi zamÄ›stnanÄ›.}
+{110}{}{ZdravÃ­m. Jmenuju se Jeremy. Jsem sprÃ¡vcem zdejÅ¡Ã­ vÅ¡emohoucÃ­ kartotÃ©ky. MÃ¡m na starosti veÅ¡kerÃ© zÃ¡znamy tÃ½kajÃ­cÃ­ se naÅ¡ich uloÅ¾enÃ½ch zÃ¡sob.}
+{111}{}{ZdravÃ­m. PÅ™ichÃ¡zÃ­Å¡ navÅ¡tÃ­vit vÅ¡emohoucÃ­ kartotÃ©ku, nebo jen potÅ™ebujeÅ¡ nÄ›co ze skladu?}
+{112}{}{VÅ¡emohoucÃ­?}
+{113}{}{PotÅ™ebuju nÄ›co ze skladu.}
+{114}{}{NepotÅ™ebuju nic. Jen se tak dÃ­vÃ¡m. Sbohem.}
+{120}{}{No, jestli chceÅ¡ nÄ›co ze skladu, potÅ™ebujeÅ¡ vyplnÄ›nou Å¾Ã¡danku. MÃ¡Å¡ vyplnÄ›nou Å¾Ã¡danku?}
+{121}{}{Ano, mÃ¡m. Tady je.}
+{122}{}{Eh, nemÃ¡m. Kde dostanu formulÃ¡Å™ na vyplnÄ›nÃ­?}
+{130}{}{No, to bude asi ono, v poÅ™Ã¡dku. Co potÅ™ebujeÅ¡?}
+{131}{}{PotÅ™ebuju tÅ™Ã­cestnÃ½ plazma-transformer.}
+{132}{}{PotÅ™ebuju tÅ™Ã­cestnÃ½ plazma-transformer. ChceÅ¡ vÄ›dÄ›t, na co ho potÅ™ebuju?}
+{133}{}{PotÅ™ebuju mechem pokrytou, tÅ™Ã­rukou gredunzu.}
+{140}{}{MyslÃ­m, Å¾e mÃ¡m jeden v tÃ©hle skÅ™Ã­ni. Ach ano, tady je.}
+{141}{}{No, nenÃ­ to zrovna poslednÃ­ model, ale bude muset staÄit. DÃ­ky. Sbohem.}
+{150}{}{Nechci to vÄ›dÄ›t. MyslÃ­m, Å¾e mÃ¡m jeden v tÃ©hle skÅ™Ã­ni. Ach ano, tady je.}
+{151}{}{No, nenÃ­ to zrovna poslednÃ­ model, ale bude muset staÄit. DÃ­ky. Sbohem.}
+{160}{}{NemÅ¯Å¾u ti teÄ pomoct. MÃ¡m moc prÃ¡ce.}
+{161}{}{VÃ­Å¡, vÅ¡echno je to o vÄ›cech.}
+{162}{}{VÃ­Å¡, vÅ¡echno je to o nÃ¡padech.}
+{163}{}{VÃ­Å¡, vÅ¡echno je to o slovech.}
+{164}{}{VÃ­Å¡, vÅ¡echno je to o Natas.}
+{165}{}{VÃ­Å¡, vÅ¡echno je to o holohlavÃ½ch opicÃ­ch.}
+{166}{}{VÃ­Å¡, vÅ¡echno je to o tajemstvÃ­ch.}
+{167}{}{VÃ­Å¡, vÅ¡echno je to o marketingu.}
+{170}{}{DobÅ™e, moÅ¾nÃ¡ ne vÅ¡emohoucÃ­, ale je zatracenÄ› dost dÅ¯leÅ¾itÃ¡. Co potÅ™ebujeÅ¡?}
+{171}{}{PotÅ™ebuju nÄ›co ze skladu.}
+{172}{}{Eh, nic. Jen se tak dÃ­vÃ¡m. Sbohem.}
+{180}{}{NemÅ¯Å¾u uvÄ›Å™it, co za blbce dneska pustÄ›j dovnitÅ™.}
+{181}{}{Blbec uÅ¾ od pohledu, Å¾e jo?}
+{182}{}{NechoÄ do mÃ­stnosti reaktoru.}
+{183}{}{Eh, nemÃ¡m Äas ti teÄ ÄÃ­st pohÃ¡dku.}
+{184}{}{Jdi dÃ¡l... pokraÄuj. Hodnej hezounek.}
+{190}{}{Co Å¾e to potÅ™ebujeÅ¡? No, na to si budeÅ¡ muset poÄkat. PotÅ™ebujeÅ¡ jeÅ¡tÄ› nÄ›co?}
+{191}{}{Eh, myslÃ­m, Å¾e zÅ¯stanu u tÅ™Ã­cestnÃ©ho plazma-transformeru.}
+{192}{}{Sakra. Ne, nic jinÃ©ho nechci. Budu se sem muset vrÃ¡tit pozdÄ›ji. Sbohem.}
+{200}{}{Hmm, nejsi ty nÃ¡hodou SkeeterÅ¯v pÅ™Ã­tel? VÅ¾dycky se mÄ› snaÅ¾Ã­ pÅ™emluvit, abych mu dal cennÃ© zÃ¡soby. Potom je jen rozmontuje a rozbije. NesvÄ›Å™il bych mu ani opravu toustovaÄe.}
+{201}{}{Eh, no, ve skuteÄnosti to potÅ™ebuju pro Skeetera.}
+{202}{}{Kdo je Skeeter? Jen potÅ™ebuju tuhle souÄÃ¡stku donÃ©st do ovlÃ¡dacÃ­ mÃ­stnosti reaktoru k opravÄ›... hele, podÃ­vej! NenÃ­ tÃ¡mhle krysa?}
+{203}{}{NevÃ­m, co s tou vÄ›cÃ­ chtÄ›jÃ­ dÄ›lat. JÃ¡ ji mÃ¡m jenom vyzvednout.}
+{210}{}{JÃ¡ to vÄ›dÄ›l. Jak sakra Skeeter sehnal nÄ›koho, kdo mu schvÃ¡lÃ­ vydÃ¡nÃ­ tÃ© souÄÃ¡stky? Jen doufÃ¡m, Å¾e tentokrÃ¡t nic nevyhodÃ­ do vzduchu. No ale mÄ› to vlastnÄ› mÅ¯Å¾e bÃ½t jedno.}
+{211}{}{Eh, co ta souÄÃ¡stka? PotÅ™ebuju ji okamÅ¾itÄ› vyzvednout.}
+{220}{}{No, buÄ ji mÅ¯Å¾eÅ¡ zÃ­skat od Harolda v osadÄ› nebo od Festuse pÅ™Ã­mo tady v hlavnÃ­ ovlÃ¡dacÃ­ mÃ­stnosti reaktoru. Je mi jedno, od koho ji seÅ¾eneÅ¡, hlavnÄ› ji seÅ¾eÅˆ. Å½Ã¡dnÃ¡ vyplnÄ›nÃ¡ Å¾Ã¡danka, Å¾Ã¡dnÃ¡ souÄÃ¡stka. Tak to tu chodÃ­.}
+{221}{}{UÅ¾ mÃ¡Å¡ tu Å¾Ã¡danku? Abych ti mohl dÃ¡t nÄ›jakou souÄÃ¡stku, musÃ­m nejdÅ™Ã­v dostat Å¾Ã¡danku.}
+{222}{}{Aha, dobÅ™e. No, radÄ›ji ji pÅ¯jdu sehnat. Sbohem.}
+{300}{}{MyslÃ­m, Å¾e ji seÅ¾enu pozdÄ›ji. Sbohem.}

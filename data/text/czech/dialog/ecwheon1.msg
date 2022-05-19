@@ -1,14 +1,14 @@
-{100}{}{Vidíš... bílou dívku. Hrdinku.}
-{101}{}{Vidíš krásnou dívku s havraními vlasy obleèenou do kombinézy Vaultu 13. ertuje a smìje se s ostatními okolo.}
-{102}{}{Vidíš bílou dívku-hrdinku. ertuje a smìje se.}
-{103}{}{Vidíš bílou dívku-hrdinku. ertuje a smìje se.}
-{104}{}{Myslím, e jsem byla øízena nìjakou neviditelnou postavou.}
-{105}{}{Zkoušel kadého okrást... a docela to fungovalo. VÌTŠINOU.}
-{106}{}{Ale kdy ne...}
-{107}{}{V ivotì jsem nevidìla tolikrát ukládat a znovu nahrávat. Jeííšš. Dejte mi bojovníka. Jasnì.}
-{108}{}{Víte, sama sobì jsem se líbila v bojové zbroji.}
-{109}{}{Ještì nikdy jsem o tom nemluvila, ale ve Falloutu 1 na mnì Ian mohl oèi nechat.}
-{110}{}{To se mi moc nelíbilo.}
-{111}{}{Chtìla jsem o tom mluvit s grafiky, ale pak jsem si øekla, e to tak nechám, kdy to Ianovi nevadí.}
-{112}{}{Ian vypadal docela dobøe. Snad jenom ty vlasy. Fakt potøeboval nutnì ostøíhat.}
+{100}{}{VidÃ­Å¡... bÃ­lou dÃ­vku. Hrdinku.}
+{101}{}{VidÃ­Å¡ krÃ¡snou dÃ­vku s havranÃ­mi vlasy obleÄenou do kombinÃ©zy Vaultu 13. Å½ertuje a smÄ›je se s ostatnÃ­mi okolo.}
+{102}{}{VidÃ­Å¡ bÃ­lou dÃ­vku-hrdinku. Å½ertuje a smÄ›je se.}
+{103}{}{VidÃ­Å¡ bÃ­lou dÃ­vku-hrdinku. Å½ertuje a smÄ›je se.}
+{104}{}{MyslÃ­m, Å¾e jsem byla Å™Ã­zena nÄ›jakou neviditelnou postavou.}
+{105}{}{ZkouÅ¡el kaÅ¾dÃ©ho okrÃ¡st... a docela to fungovalo. VÄšTÅ INOU.}
+{106}{}{Ale kdyÅ¾ ne...}
+{107}{}{V Å¾ivotÄ› jsem nevidÄ›la tolikrÃ¡t uklÃ¡dat a znovu nahrÃ¡vat. JeÅ¾Ã­Ã­Å¡Å¡. Dejte mi bojovnÃ­ka. JasnÄ›.}
+{108}{}{VÃ­te, sama sobÄ› jsem se lÃ­bila v bojovÃ© zbroji.}
+{109}{}{JeÅ¡tÄ› nikdy jsem o tom nemluvila, ale ve Falloutu 1 na mnÄ› Ian mohl oÄi nechat.}
+{110}{}{To se mi moc nelÃ­bilo.}
+{111}{}{ChtÄ›la jsem o tom mluvit s grafiky, ale pak jsem si Å™ekla, Å¾e to tak nechÃ¡m, kdyÅ¾ to Ianovi nevadÃ­.}
+{112}{}{Ian vypadal docela dobÅ™e. Snad jenom ty vlasy. Fakt potÅ™eboval nutnÄ› ostÅ™Ã­hat.}
 {113}{}{A vykoupat. To teda.}

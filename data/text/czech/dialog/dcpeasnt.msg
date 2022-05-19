@@ -1,13 +1,13 @@
-{100}{}{Vidíš obyvatelku Denu.}
-{101}{}{Vidíš obyvatelku Denu.}
+{100}{}{VidÃ­Å¡ obyvatelku Denu.}
+{101}{}{VidÃ­Å¡ obyvatelku Denu.}
 {102}{}{Ahoj.}
-{103}{}{Rád tì vidím.}
-{104}{}{Ty nejsi odsud, e?}
-{105}{}{Máma je skvìlá paní, e?}
-{106}{}{Jsem rád, e mají sirotci z Denu koneènì svùj domov.}
-{200}{}{Brı den, pane!}
-{201}{}{Jsem rád, e ostatní dìti u nekradou.}
-{300}{}{Brı den, paní!}
-{301}{}{Jsem rád, e ostatní dìti u nekradou.}
-{400}{}{Malı chlapec.}
-{401}{}{Vidíš malou dívku.}
+{103}{}{RÃ¡d tÄ› vidÃ­m.}
+{104}{}{Ty nejsi odsud, Å¾e?}
+{105}{}{MÃ¡ma je skvÄ›lÃ¡ panÃ­, Å¾e?}
+{106}{}{Jsem rÃ¡d, Å¾e majÃ­ sirotci z Denu koneÄnÄ› svÅ¯j domov.}
+{200}{}{BrÃ½ den, pane!}
+{201}{}{Jsem rÃ¡d, Å¾e ostatnÃ­ dÄ›ti uÅ¾ nekradou.}
+{300}{}{BrÃ½ den, panÃ­!}
+{301}{}{Jsem rÃ¡d, Å¾e ostatnÃ­ dÄ›ti uÅ¾ nekradou.}
+{400}{}{MalÃ½ chlapec.}
+{401}{}{VidÃ­Å¡ malou dÃ­vku.}

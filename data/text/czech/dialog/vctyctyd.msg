@@ -1,1 +1,1 @@
-{100}{}{Nacházíš se na okraji Vault City. Za zdmi leí vyrovnané øady bílıch budov z vepøovic.}
+{100}{}{NachÃ¡zÃ­Å¡ se na okraji Vault City. Za zdmi leÅ¾Ã­ vyrovnanÃ© Å™ady bÃ­lÃ½ch budov z vepÅ™ovic.}

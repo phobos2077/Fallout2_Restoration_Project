@@ -1,10 +1,10 @@
-{100}{}{Vidíš mue, kterı brnká na loutnu.}
+{100}{}{VidÃ­Å¡ muÅ¾e, kterÃ½ brnkÃ¡ na loutnu.}
 {101}{}{To je Joshua.}
-{102}{}{Je to potulného barda.}
-{103}{}{Hrdinnı Sir Robin utekl...}
-{104}{}{Hrdinnì z boje utekl...}
-{105}{}{Kdy nebezpeèí ukázalo svoji hnusnou tváø, hrdinnì stáhl ocas mezi nohy a utekl...}
-{106}{}{Ano, je to tak. Hrdina Sir Robin se otoèil...}
-{107}{}{A galantnì se vypaøil. Hrdinnì práskl do bot...}
-{108}{}{Hrdinnì troubil na ústup...}
-{109}{}{Ó, Hrdinnı Sir Robin.}
+{102}{}{Je to potulnÃ©ho barda.}
+{103}{}{HrdinnÃ½ Sir Robin utekl...}
+{104}{}{HrdinnÄ› z boje utekl...}
+{105}{}{KdyÅ¾ nebezpeÄÃ­ ukÃ¡zalo svoji hnusnou tvÃ¡Å™, hrdinnÄ› stÃ¡hl ocas mezi nohy a utekl...}
+{106}{}{Ano, je to tak. Hrdina Sir Robin se otoÄil...}
+{107}{}{A galantnÄ› se vypaÅ™il. HrdinnÄ› prÃ¡skl do bot...}
+{108}{}{HrdinnÄ› troubil na Ãºstup...}
+{109}{}{Ã“, HrdinnÃ½ Sir Robin.}

@@ -1,1 +1,1 @@
-{100}{}{Vstupujeö do hornickÈ kolonie Reddingu.}
+{100}{}{Vstupuje≈° do hornick√© kolonie Reddingu.}

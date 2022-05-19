@@ -1,96 +1,96 @@
-{100}{}{Vidíš mladého mnicha s brılemi.}
-{101}{}{Vidíš Bratra Jasona.}
-{102}{}{Tento mnich vypadá zamyšlenì.}
-{200}{}{(Jakmile tì spatøí, rychle schová do kapsy balíèek karet "Tragic".) Co chceš?}
+{100}{}{VidÃ­Å¡ mladÃ©ho mnicha s brÃ½lemi.}
+{101}{}{VidÃ­Å¡ Bratra Jasona.}
+{102}{}{Tento mnich vypadÃ¡ zamyÅ¡lenÄ›.}
+{200}{}{(Jakmile tÄ› spatÅ™Ã­, rychle schovÃ¡ do kapsy balÃ­Äek karet "Tragic".) Co chceÅ¡?}
 {201}{}{Od tebe nic. Nashle.}
-{202}{}{Chci vìdìt, proè jsi pøede mnou schoval ten balíèek karet.}
-{210}{}{Vùbec nevím, o èem to mluvíš. ádné karty nemám.}
-{211}{}{Neli mi. Vidìl jsem, jak si je dáváš do kapsy. Chci jen vìdìt proè.}
-{212}{}{No dobøe, jak myslíš. Mìj se.}
-{220}{}{Poslyš, nikomu ani muk, ano? Nemáme dovoleno "pouívat" pøedváleèné relikvie, jen je uctívat. Jene tyhle Tragic karty jsou tak parádní... (S láskou se zahledí na balíèek karet a vypadá, jako by se ztratil v jiném svìtì. Po chvíli opìt vzhlédne k tobì.) Ach, promiò, jsem bratr Jason. Ty, eh, nehraješ náhodou Tragic?}
-{221}{}{POJÏME HRÁT GARNERING!!!}
-{222}{}{To si piš, miluju Tragic the Garnering.}
-{223}{}{Ale jo, obèas kdysi, ale není to nic pro mì.}
-{224}{}{Tahle hra mì kdysi dostala do poøádné závislosti. Teï se jí snaím vyhıbat.}
+{202}{}{Chci vÄ›dÄ›t, proÄ jsi pÅ™ede mnou schoval ten balÃ­Äek karet.}
+{210}{}{VÅ¯bec nevÃ­m, o Äem to mluvÃ­Å¡. Å½Ã¡dnÃ© karty nemÃ¡m.}
+{211}{}{NelÅ¾i mi. VidÄ›l jsem, jak si je dÃ¡vÃ¡Å¡ do kapsy. Chci jen vÄ›dÄ›t proÄ.}
+{212}{}{No dobÅ™e, jak myslÃ­Å¡. MÄ›j se.}
+{220}{}{PoslyÅ¡, nikomu ani muk, ano? NemÃ¡me dovoleno "pouÅ¾Ã­vat" pÅ™edvÃ¡leÄnÃ© relikvie, jen je uctÃ­vat. JenÅ¾e tyhle Tragic karty jsou tak parÃ¡dnÃ­... (S lÃ¡skou se zahledÃ­ na balÃ­Äek karet a vypadÃ¡, jako by se ztratil v jinÃ©m svÄ›tÄ›. Po chvÃ­li opÄ›t vzhlÃ©dne k tobÄ›.) Ach, promiÅˆ, jsem bratr Jason. Ty, eh, nehrajeÅ¡ nÃ¡hodou Tragic?}
+{221}{}{POJÄME HRÃT GARNERING!!!}
+{222}{}{To si piÅ¡, miluju Tragic the Garnering.}
+{223}{}{Ale jo, obÄas kdysi, ale nenÃ­ to nic pro mÄ›.}
+{224}{}{Tahle hra mÄ› kdysi dostala do poÅ™Ã¡dnÃ© zÃ¡vislosti. TeÄ se jÃ­ snaÅ¾Ã­m vyhÃ½bat.}
 {225}{}{Ne.}
-{226}{}{To teda nehraju. Vypadám snad jako nìjakı bøídil?}
-{230}{}{Hele, jdi do prdele, kreténe. Nech mì bıt.}
-{231}{}{Hele, jdi do prdele, dìvko. Nech mì bıt.}
-{232}{}{S radostí, ale mám hroznou chu ti poøádnì ublíit.}
-{233}{}{Dobøe, tak jo. Nashle.}
-{234}{}{Poslyš, omlouvám se. Bylo to ode mì nezdvoøilé, jen prostì nejsem fanoušek Tragicu.}
-{240}{}{Èlovìèe, hroznì rád bych si s tebou zahrál, ale je to moc riskantní. Nechci o tyhle karty pøijít. To na tomhle místì nesnáším. Máme kolem sebe úasné poklady z pøedváleèné doby, ale odpíráme si jejich uívání. Nedává to ádnı smysl. Je to kurva blbost.}
-{241}{}{Èlovìèe, úplnì tì chápu. Pøál bych si, abych mohl víc hrát, ale je to moc riskantní. Nechci o tyhle karty pøijít. To na tomhle místì nesnáším. Máme kolem sebe úasné poklady z pøedváleèné doby, ale odpíráme si jejich uívání. Nedává to ádnı smysl. Je to kurva blbost.}
-{242}{}{(Uchichtne se.) Koukám, e tu máme závisláka. Pøál bych si, abych mohl víc hrát, ale je to moc riskantní. Nechci o tyhle karty pøijít. To na tomhle místì nesnáším. Máme kolem sebe úasné poklady z pøedváleèné doby, ale odpíráme si jejich uívání. Nedává to ádnı smysl. Je to kurva blbost.}
-{243}{}{To nevadí, stejnì bychom si nemohli zahrát, je to moc riskantní. Nechci o tyhle karty pøijít. To na tomhle místì nesnáším. Máme kolem sebe úasné poklady z pøedváleèné doby, ale odpíráme si jejich uívání. Nedává to ádnı smysl. Je to kurva blbost.}
-{244}{}{Jo, zní to hloupì.}
-{245}{}{Pokud nesouhlasíš s ideály svého øádu, tak proè jsi mnich?}
-{250}{}{Myslíš, e jsem si *vybral* bıt mnichem? Já se do tohodle zasranıho ivota narodil. Pøál bych si jen, aby se ostatní probrali a uvìdomili si, jak hloupé je nevyuít všechny ty skvìlé vìci, které jsme nashromádili. Ale ne, oni jsou naprosto spokojení s uctíváním a sepisováním tìch relikvií, ale nikdy s nimi neudìlají nic uiteèného. Jak jsem øekl, je to kurva blbost.}
-{251}{}{Máš pravdu, zní to opravdu dost hloupì.}
-{252}{}{Je to asi taková blbost jako sedìt tady a poslouchat ty tvoje kecy o ivotì. Nashle.}
-{253}{}{Kdy to povauješ za hloupé, tak proè s tím nìco neudìláš?}
-{260}{}{Koneènì nìkdo, kdo se mnou souhlasí! Poslyš, mám takovı nápad a hodila by se mi tvoje pomoc. Víš, zdejší mniši strávili *roky* pøepisováním pøedváleènıch informací do naší poèítaèové databáze. Kdyby tu databázi nìkdo "náhodou" vymazal, pøišli by o všechnu dosavadní práci. Myslím, e by je nìco takového mohlo vrátit zpìt do reality a poté bychom se koneènì mohli vzdát tohohle hloupého zpùsobu ivota. Take co øíkáš?}
-{261}{}{Øíkám, e je to pøíšernı nápad a tímto náš rozhovor skonèil.}
-{262}{}{Vymazat nìkolik let nìèí tvrdé práce? To bude sranda. Udìlám to.}
-{263}{}{Proè to nevymaeš sám?}
-{264}{}{Kdy to tu tak nesnášíš, proè prostì neodejdeš?}
-{270}{}{Ve skuteènosti *mám* nápad, jak všechno zmìnit. Moná mi mùeš pomoct. Víš, zdejší mniši strávili *roky* pøepisováním pøedváleènıch informací do naší poèítaèové databáze. Kdyby tu databázi nìkdo "náhodou" vymazal, pøišli by o všechnu dosavadní práci. Myslím, e by je nìco takového mohlo vrátit zpìt do reality a poté bychom se koneènì mohli vzdát tohohle hloupého zpùsobu ivota. Take co øíkáš?}
-{271}{}{Øíkám, e je to pøíšernı nápad a tímto náš rozhovor skonèil.}
-{272}{}{Vymazat nìkolik let nìèí tvrdé práce? To bude sranda. Udìlám to.}
-{273}{}{Proè to nevymaeš sám?}
-{274}{}{Kdy to tu tak nesnášíš, proè prostì neodejdeš?}
-{280}{}{Dìláš si srandu? Za to by mì ukøiovali. Kdeto ty jsi zkušenı dobrodruh. Do háje, vsadím se, e by pro tebe nebyl problém tu všechny do jednoho zmasakrovat a ani se u toho nezapotit. Take udìláš to, nebo se snad bojíš bandy mírumilovnıch mnichù?}
-{281}{}{Nebojím se nikoho. Udìlám to.}
-{282}{}{Tak dobøe. Udìlám to.}
-{283}{}{Ne. Myslím, e nejdøív vyzkouším tu tvoji teorii o masakru. A zaènu u tebe.}
-{284}{}{Z toho mì vynech. To není nic pro mì. Nashle.}
-{285}{}{Ne, tohle neudìlám. Kdy to tu tak nesnášíš, proè neodejdeš?}
-{286}{}{Pokud se tvùj názor nezmìnil, tak se jdi vysrat.}
-{287}{}{Tak dobøe. Udìlám to.}
-{288}{}{Ne, tohle neudìlám. Kdy to tu tak nesnášíš, proè neodejdeš?}
-{290}{}{Ty to udìláš? Vánì? Èlovìèe, to je super. Nejdøív budeš potøebovat pøístup, protoe si svou databázi úzkostlivì chrání. Nemìlo by to bıt tak tìké, tihle mniši jsou docela dùvìøiví. Budou pìknì nasraní, a jim to zformátuješ, ale jsou to pìknı mìkoty, take se neboj. Jen zkus nikoho nezabít, nechci to nechat zajít a tak daleko, chápeš?}
-{291}{}{Samozøejmì. Ještì nìco?}
-{292}{}{Nic neslibuju. Ještì nìco?}
-{300}{}{Prostì ji zformátuj a pak zmiz, protoe urèitì nebudou nadšení, kdy se tu budeš motat kolem. A a tì ani nenapadne mi pøijít øíct, e u je to hotové, protoe se budu muset chovat stejnì jako všichni ostatní, jinak by mì mohli podezírat. Ještì jednou díky za pomoc. Je to pro jejich vlastní dobro.}
-{301}{}{Kdy myslíš. Nashle.}
-{310}{}{Blázníš? Nikdy jsem v pustinách nebyl, ale mám zatracenì dobrou pøedstavu, jaké to tam asi je. Kdy budu mít štìstí, ujdu padesát metrù døív, ne mi nìjakej radškorpion vrazí tøiceticentimetrovı ihadlo do prdele. Nebo moná hùø, budu zajat a muèen tlupou nájezdnickıch maniakù, *nebo* budu zaiva snìden kanibaly. To je jedno. Prostì vím, e kdy odsud odejdu, tak budu v prdeli. Take ne, zùstanu tady.}
-{311}{}{Ale no tak, venku to není a *tak* špatné... i kdy, máš pravdu. Nejspíš by ses nedostal ani do Gecka. Urèitì ne bez pomoci. Ale co kdy ti nabídnu, e tì tam odvedu?}
-{312}{}{Bıt tebou musí bıt pìknì na hovno. Nashle.}
-{313}{}{Nevzdávej se. Urèitì je poblí nìjaké mìsto, kam by se dalo bezpeènì odcestovat.}
-{315}{}{Jo, tak a nìjaké najdeš, dej mi vìdìt.}
-{316}{}{Dám. Nashle.}
-{320}{}{Do Gecka? To je mìsto ghoulù, e? Díky, ale nechci.}
-{321}{}{Víš, tihle ghoulové jsou docela pøátelští. Navíc znám osobnì jednoho, kterı velice rád hraje Tragic.}
-{322}{}{Víš, tihle ghoulové jsou ve skuteènosti docela pøátelští.}
-{323}{}{Víš, tihle ghoulové jsou prı ve skuteènosti docela pøátelští.}
-{324}{}{Tak dobøe. Jak chceš. Nashle.}
-{330}{}{Hovno, další hráè Tragicu? Hmm, to mìní situaci... jsem zvìdavı, jestli má na vımìnu Black Dahliu. Tak dobøe. Pùjdu, pokud mì tam dovedeš.}
+{226}{}{To teda nehraju. VypadÃ¡m snad jako nÄ›jakÃ½ bÅ™Ã­dil?}
+{230}{}{Hele, jdi do prdele, kretÃ©ne. Nech mÄ› bÃ½t.}
+{231}{}{Hele, jdi do prdele, dÄ›vko. Nech mÄ› bÃ½t.}
+{232}{}{S radostÃ­, ale mÃ¡m hroznou chuÅ¥ ti poÅ™Ã¡dnÄ› ublÃ­Å¾it.}
+{233}{}{DobÅ™e, tak jo. Nashle.}
+{234}{}{PoslyÅ¡, omlouvÃ¡m se. Bylo to ode mÄ› nezdvoÅ™ilÃ©, jen prostÄ› nejsem fanouÅ¡ek Tragicu.}
+{240}{}{ÄŒlovÄ›Äe, hroznÄ› rÃ¡d bych si s tebou zahrÃ¡l, ale je to moc riskantnÃ­. Nechci o tyhle karty pÅ™ijÃ­t. To na tomhle mÃ­stÄ› nesnÃ¡Å¡Ã­m. MÃ¡me kolem sebe ÃºÅ¾asnÃ© poklady z pÅ™edvÃ¡leÄnÃ© doby, ale odpÃ­rÃ¡me si jejich uÅ¾Ã­vÃ¡nÃ­. NedÃ¡vÃ¡ to Å¾Ã¡dnÃ½ smysl. Je to kurva blbost.}
+{241}{}{ÄŒlovÄ›Äe, ÃºplnÄ› tÄ› chÃ¡pu. PÅ™Ã¡l bych si, abych mohl vÃ­c hrÃ¡t, ale je to moc riskantnÃ­. Nechci o tyhle karty pÅ™ijÃ­t. To na tomhle mÃ­stÄ› nesnÃ¡Å¡Ã­m. MÃ¡me kolem sebe ÃºÅ¾asnÃ© poklady z pÅ™edvÃ¡leÄnÃ© doby, ale odpÃ­rÃ¡me si jejich uÅ¾Ã­vÃ¡nÃ­. NedÃ¡vÃ¡ to Å¾Ã¡dnÃ½ smysl. Je to kurva blbost.}
+{242}{}{(Uchichtne se.) KoukÃ¡m, Å¾e tu mÃ¡me zÃ¡vislÃ¡ka. PÅ™Ã¡l bych si, abych mohl vÃ­c hrÃ¡t, ale je to moc riskantnÃ­. Nechci o tyhle karty pÅ™ijÃ­t. To na tomhle mÃ­stÄ› nesnÃ¡Å¡Ã­m. MÃ¡me kolem sebe ÃºÅ¾asnÃ© poklady z pÅ™edvÃ¡leÄnÃ© doby, ale odpÃ­rÃ¡me si jejich uÅ¾Ã­vÃ¡nÃ­. NedÃ¡vÃ¡ to Å¾Ã¡dnÃ½ smysl. Je to kurva blbost.}
+{243}{}{To nevadÃ­, stejnÄ› bychom si nemohli zahrÃ¡t, je to moc riskantnÃ­. Nechci o tyhle karty pÅ™ijÃ­t. To na tomhle mÃ­stÄ› nesnÃ¡Å¡Ã­m. MÃ¡me kolem sebe ÃºÅ¾asnÃ© poklady z pÅ™edvÃ¡leÄnÃ© doby, ale odpÃ­rÃ¡me si jejich uÅ¾Ã­vÃ¡nÃ­. NedÃ¡vÃ¡ to Å¾Ã¡dnÃ½ smysl. Je to kurva blbost.}
+{244}{}{Jo, znÃ­ to hloupÄ›.}
+{245}{}{Pokud nesouhlasÃ­Å¡ s ideÃ¡ly svÃ©ho Å™Ã¡du, tak proÄ jsi mnich?}
+{250}{}{MyslÃ­Å¡, Å¾e jsem si *vybral* bÃ½t mnichem? JÃ¡ se do tohodle zasranÃ½ho Å¾ivota narodil. PÅ™Ã¡l bych si jen, aby se ostatnÃ­ probrali a uvÄ›domili si, jak hloupÃ© je nevyuÅ¾Ã­t vÅ¡echny ty skvÄ›lÃ© vÄ›ci, kterÃ© jsme nashromÃ¡Å¾dili. Ale ne, oni jsou naprosto spokojenÃ­ s uctÃ­vÃ¡nÃ­m a sepisovÃ¡nÃ­m tÄ›ch relikviÃ­, ale nikdy s nimi neudÄ›lajÃ­ nic uÅ¾iteÄnÃ©ho. Jak jsem Å™ekl, je to kurva blbost.}
+{251}{}{MÃ¡Å¡ pravdu, znÃ­ to opravdu dost hloupÄ›.}
+{252}{}{Je to asi takovÃ¡ blbost jako sedÄ›t tady a poslouchat ty tvoje kecy o Å¾ivotÄ›. Nashle.}
+{253}{}{KdyÅ¾ to povaÅ¾ujeÅ¡ za hloupÃ©, tak proÄ s tÃ­m nÄ›co neudÄ›lÃ¡Å¡?}
+{260}{}{KoneÄnÄ› nÄ›kdo, kdo se mnou souhlasÃ­! PoslyÅ¡, mÃ¡m takovÃ½ nÃ¡pad a hodila by se mi tvoje pomoc. VÃ­Å¡, zdejÅ¡Ã­ mniÅ¡i strÃ¡vili *roky* pÅ™episovÃ¡nÃ­m pÅ™edvÃ¡leÄnÃ½ch informacÃ­ do naÅ¡Ã­ poÄÃ­taÄovÃ© databÃ¡ze. Kdyby tu databÃ¡zi nÄ›kdo "nÃ¡hodou" vymazal, pÅ™iÅ¡li by o vÅ¡echnu dosavadnÃ­ prÃ¡ci. MyslÃ­m, Å¾e by je nÄ›co takovÃ©ho mohlo vrÃ¡tit zpÄ›t do reality a potÃ© bychom se koneÄnÄ› mohli vzdÃ¡t tohohle hloupÃ©ho zpÅ¯sobu Å¾ivota. TakÅ¾e co Å™Ã­kÃ¡Å¡?}
+{261}{}{Å˜Ã­kÃ¡m, Å¾e je to pÅ™Ã­Å¡ernÃ½ nÃ¡pad a tÃ­mto nÃ¡Å¡ rozhovor skonÄil.}
+{262}{}{Vymazat nÄ›kolik let nÄ›ÄÃ­ tvrdÃ© prÃ¡ce? To bude sranda. UdÄ›lÃ¡m to.}
+{263}{}{ProÄ to nevymaÅ¾eÅ¡ sÃ¡m?}
+{264}{}{KdyÅ¾ to tu tak nesnÃ¡Å¡Ã­Å¡, proÄ prostÄ› neodejdeÅ¡?}
+{270}{}{Ve skuteÄnosti *mÃ¡m* nÃ¡pad, jak vÅ¡echno zmÄ›nit. MoÅ¾nÃ¡ mi mÅ¯Å¾eÅ¡ pomoct. VÃ­Å¡, zdejÅ¡Ã­ mniÅ¡i strÃ¡vili *roky* pÅ™episovÃ¡nÃ­m pÅ™edvÃ¡leÄnÃ½ch informacÃ­ do naÅ¡Ã­ poÄÃ­taÄovÃ© databÃ¡ze. Kdyby tu databÃ¡zi nÄ›kdo "nÃ¡hodou" vymazal, pÅ™iÅ¡li by o vÅ¡echnu dosavadnÃ­ prÃ¡ci. MyslÃ­m, Å¾e by je nÄ›co takovÃ©ho mohlo vrÃ¡tit zpÄ›t do reality a potÃ© bychom se koneÄnÄ› mohli vzdÃ¡t tohohle hloupÃ©ho zpÅ¯sobu Å¾ivota. TakÅ¾e co Å™Ã­kÃ¡Å¡?}
+{271}{}{Å˜Ã­kÃ¡m, Å¾e je to pÅ™Ã­Å¡ernÃ½ nÃ¡pad a tÃ­mto nÃ¡Å¡ rozhovor skonÄil.}
+{272}{}{Vymazat nÄ›kolik let nÄ›ÄÃ­ tvrdÃ© prÃ¡ce? To bude sranda. UdÄ›lÃ¡m to.}
+{273}{}{ProÄ to nevymaÅ¾eÅ¡ sÃ¡m?}
+{274}{}{KdyÅ¾ to tu tak nesnÃ¡Å¡Ã­Å¡, proÄ prostÄ› neodejdeÅ¡?}
+{280}{}{DÄ›lÃ¡Å¡ si srandu? Za to by mÄ› ukÅ™iÅ¾ovali. KdeÅ¾to ty jsi zkuÅ¡enÃ½ dobrodruh. Do hÃ¡je, vsadÃ­m se, Å¾e by pro tebe nebyl problÃ©m tu vÅ¡echny do jednoho zmasakrovat a ani se u toho nezapotit. TakÅ¾e udÄ›lÃ¡Å¡ to, nebo se snad bojÃ­Å¡ bandy mÃ­rumilovnÃ½ch mnichÅ¯?}
+{281}{}{NebojÃ­m se nikoho. UdÄ›lÃ¡m to.}
+{282}{}{Tak dobÅ™e. UdÄ›lÃ¡m to.}
+{283}{}{Ne. MyslÃ­m, Å¾e nejdÅ™Ã­v vyzkouÅ¡Ã­m tu tvoji teorii o masakru. A zaÄnu u tebe.}
+{284}{}{Z toho mÄ› vynech. To nenÃ­ nic pro mÄ›. Nashle.}
+{285}{}{Ne, tohle neudÄ›lÃ¡m. KdyÅ¾ to tu tak nesnÃ¡Å¡Ã­Å¡, proÄ neodejdeÅ¡?}
+{286}{}{Pokud se tvÅ¯j nÃ¡zor nezmÄ›nil, tak se jdi vysrat.}
+{287}{}{Tak dobÅ™e. UdÄ›lÃ¡m to.}
+{288}{}{Ne, tohle neudÄ›lÃ¡m. KdyÅ¾ to tu tak nesnÃ¡Å¡Ã­Å¡, proÄ neodejdeÅ¡?}
+{290}{}{Ty to udÄ›lÃ¡Å¡? VÃ¡Å¾nÄ›? ÄŒlovÄ›Äe, to je super. NejdÅ™Ã­v budeÅ¡ potÅ™ebovat pÅ™Ã­stup, protoÅ¾e si svou databÃ¡zi ÃºzkostlivÄ› chrÃ¡nÃ­. NemÄ›lo by to bÃ½t tak tÄ›Å¾kÃ©, tihle mniÅ¡i jsou docela dÅ¯vÄ›Å™ivÃ­. Budou pÄ›knÄ› nasranÃ­, aÅ¾ jim to zformÃ¡tujeÅ¡, ale jsou to pÄ›knÃ½ mÄ›koty, takÅ¾e se neboj. Jen zkus nikoho nezabÃ­t, nechci to nechat zajÃ­t aÅ¾ tak daleko, chÃ¡peÅ¡?}
+{291}{}{SamozÅ™ejmÄ›. JeÅ¡tÄ› nÄ›co?}
+{292}{}{Nic neslibuju. JeÅ¡tÄ› nÄ›co?}
+{300}{}{ProstÄ› ji zformÃ¡tuj a pak zmiz, protoÅ¾e urÄitÄ› nebudou nadÅ¡enÃ­, kdyÅ¾ se tu budeÅ¡ motat kolem. A aÅ¥ tÄ› ani nenapadne mi pÅ™ijÃ­t Å™Ã­ct, Å¾e uÅ¾ je to hotovÃ©, protoÅ¾e se budu muset chovat stejnÄ› jako vÅ¡ichni ostatnÃ­, jinak by mÄ› mohli podezÃ­rat. JeÅ¡tÄ› jednou dÃ­ky za pomoc. Je to pro jejich vlastnÃ­ dobro.}
+{301}{}{KdyÅ¾ myslÃ­Å¡. Nashle.}
+{310}{}{BlÃ¡znÃ­Å¡? Nikdy jsem v pustinÃ¡ch nebyl, ale mÃ¡m zatracenÄ› dobrou pÅ™edstavu, jakÃ© to tam asi je. KdyÅ¾ budu mÃ­t Å¡tÄ›stÃ­, ujdu padesÃ¡t metrÅ¯ dÅ™Ã­v, neÅ¾ mi nÄ›jakej radÅ¡korpion vrazÃ­ tÅ™iceticentimetrovÃ½ Å¾ihadlo do prdele. Nebo moÅ¾nÃ¡ hÅ¯Å™, budu zajat a muÄen tlupou nÃ¡jezdnickÃ½ch maniakÅ¯, *nebo* budu zaÅ¾iva snÄ›den kanibaly. To je jedno. ProstÄ› vÃ­m, Å¾e kdyÅ¾ odsud odejdu, tak budu v prdeli. TakÅ¾e ne, zÅ¯stanu tady.}
+{311}{}{Ale no tak, venku to nenÃ­ aÅ¾ *tak* Å¡patnÃ©... i kdyÅ¾, mÃ¡Å¡ pravdu. NejspÃ­Å¡ by ses nedostal ani do Gecka. UrÄitÄ› ne bez pomoci. Ale co kdyÅ¾ ti nabÃ­dnu, Å¾e tÄ› tam odvedu?}
+{312}{}{BÃ½t tebou musÃ­ bÃ½t pÄ›knÄ› na hovno. Nashle.}
+{313}{}{NevzdÃ¡vej se. UrÄitÄ› je poblÃ­Å¾ nÄ›jakÃ© mÄ›sto, kam by se dalo bezpeÄnÄ› odcestovat.}
+{315}{}{Jo, tak aÅ¾ nÄ›jakÃ© najdeÅ¡, dej mi vÄ›dÄ›t.}
+{316}{}{DÃ¡m. Nashle.}
+{320}{}{Do Gecka? To je mÄ›sto ghoulÅ¯, Å¾e? DÃ­ky, ale nechci.}
+{321}{}{VÃ­Å¡, tihle ghoulovÃ© jsou docela pÅ™Ã¡telÅ¡tÃ­. NavÃ­c znÃ¡m osobnÄ› jednoho, kterÃ½ velice rÃ¡d hraje Tragic.}
+{322}{}{VÃ­Å¡, tihle ghoulovÃ© jsou ve skuteÄnosti docela pÅ™Ã¡telÅ¡tÃ­.}
+{323}{}{VÃ­Å¡, tihle ghoulovÃ© jsou prÃ½ ve skuteÄnosti docela pÅ™Ã¡telÅ¡tÃ­.}
+{324}{}{Tak dobÅ™e. Jak chceÅ¡. Nashle.}
+{330}{}{Hovno, dalÅ¡Ã­ hrÃ¡Ä Tragicu? Hmm, to mÄ›nÃ­ situaci... jsem zvÄ›davÃ½, jestli mÃ¡ na vÃ½mÄ›nu Black Dahliu. Tak dobÅ™e. PÅ¯jdu, pokud mÄ› tam dovedeÅ¡.}
 {331}{}{Tak jdeme.}
-{332}{}{Dobøe, ale musím se nejdøív ještì o nìco postarat. A to bude hotové, dám ti vìdìt.}
-{340}{}{Opravdu? To ale nemìní nic na tom, e vypadají jako brahmíní hovno. Ne, díky.}
-{341}{}{Tak dobøe. Jak chceš. Nashle.}
-{350}{}{Co chceš?}
-{351}{}{Chci tì jen pozdravit. Mìj se.}
-{352}{}{Tak jo, mìním názor. Zformátuju pro tebe ten poèítaè.}
-{353}{}{Poslyš, moná bys mìl pøehodnotit moji nabídku na cestu do Gecka. Znám tam toti nìkoho, kdo velice rád hraje Tragic.}
-{354}{}{Poslyš, znám v Gecku nìkoho, kdo velice rád hraje Tragic. Mùu tì tam vzít.}
-{360}{}{Mùeme u vyrazit? Jsem hroznì zvìdavı, jaké má ten chlap karty.}
-{361}{}{Tak dobøe, jdeme.}
-{362}{}{Ještì nevím. Dám ti vìdìt.}
-{370}{}{(Po pøíchodu do Gecka pøedstavuješ Woozovi mladého mnicha. Ihned si padli do noty a zaèali porovnávat své balíèky karet. U chceš odejít, kdy v tom se bratr Jason na chvíli odtrhne od Tragicu, aby si s tebou promluvil.)}
-{371}{}{[Více]}
-{372}{}{Ty krávo, Wooz má Black Dahliu! U jenom díky tomu ta cesta stála za to. Jasnì, ghoulové jsou strašnì ohavní, ale kdy si sundám brıle, tak docela ujdou. Kadopádnì díky moc, e jsem s tebou mohl jít. Tady, já, eh, tohle jsem si "pùjèil" z Memorabilia v Opatství. Je to jedna z mála technickıch relikvií, která jako zázrakem stále funguje. (Podá ti Mizík.) Mìj se.}
-{373}{}{Dík. Naskle.}
-{374}{}{Hlavnì, e u nemusím dál poslouchat ty tvoje kecy. Nashle.}
-{380}{}{Ty krávo, Wooz má Black Dahliu! U jenom díky tomu ta cesta stála za to. Jasnì, ghoulové jsou strašnì ohavní, ale kdy si sundám brıle, tak docela ujdou. Kadopádnì díky moc, e jsem s tebou mohl jít. Tady, (Šátrá v kapse a poté se zamraèí.) Co to sakra? Pøísahám, e jsem ho mìl. Eh, promiò, ale vypadá to, e jsem ztratil tvoji odmìnu, take se budeš smíøit s prostım díky. Mìj se.}
-{381}{}{Och, eh, s tím si nelam hlavu. Kdy mùu, pomùu. Nashle.}
-{382}{}{Hlavnì, e u nemusím dál poslouchat ty tvoje kecy. Nashle.}
-{400}{}{Nemùu s tebou mluvit... musím sestavit silnìjší balíèek...}
-{500}{}{Nech mì bıt.}
-{501}{}{Jdi pryè.}
+{332}{}{DobÅ™e, ale musÃ­m se nejdÅ™Ã­v jeÅ¡tÄ› o nÄ›co postarat. AÅ¾ to bude hotovÃ©, dÃ¡m ti vÄ›dÄ›t.}
+{340}{}{Opravdu? To ale nemÄ›nÃ­ nic na tom, Å¾e vypadajÃ­ jako brahmÃ­nÃ­ hovno. Ne, dÃ­ky.}
+{341}{}{Tak dobÅ™e. Jak chceÅ¡. Nashle.}
+{350}{}{Co chceÅ¡?}
+{351}{}{Chci tÄ› jen pozdravit. MÄ›j se.}
+{352}{}{Tak jo, mÄ›nÃ­m nÃ¡zor. ZformÃ¡tuju pro tebe ten poÄÃ­taÄ.}
+{353}{}{PoslyÅ¡, moÅ¾nÃ¡ bys mÄ›l pÅ™ehodnotit moji nabÃ­dku na cestu do Gecka. ZnÃ¡m tam totiÅ¾ nÄ›koho, kdo velice rÃ¡d hraje Tragic.}
+{354}{}{PoslyÅ¡, znÃ¡m v Gecku nÄ›koho, kdo velice rÃ¡d hraje Tragic. MÅ¯Å¾u tÄ› tam vzÃ­t.}
+{360}{}{MÅ¯Å¾eme uÅ¾ vyrazit? Jsem hroznÄ› zvÄ›davÃ½, jakÃ© mÃ¡ ten chlap karty.}
+{361}{}{Tak dobÅ™e, jdeme.}
+{362}{}{JeÅ¡tÄ› nevÃ­m. DÃ¡m ti vÄ›dÄ›t.}
+{370}{}{(Po pÅ™Ã­chodu do Gecka pÅ™edstavujeÅ¡ Woozovi mladÃ©ho mnicha. Ihned si padli do noty a zaÄali porovnÃ¡vat svÃ© balÃ­Äky karet. UÅ¾ chceÅ¡ odejÃ­t, kdyÅ¾ v tom se bratr Jason na chvÃ­li odtrhne od Tragicu, aby si s tebou promluvil.)}
+{371}{}{[VÃ­ce]}
+{372}{}{Ty krÃ¡vo, Wooz mÃ¡ Black Dahliu! UÅ¾ jenom dÃ­ky tomu ta cesta stÃ¡la za to. JasnÄ›, ghoulovÃ© jsou straÅ¡nÄ› ohavnÃ­, ale kdyÅ¾ si sundÃ¡m brÃ½le, tak docela ujdou. KaÅ¾dopÃ¡dnÄ› dÃ­ky moc, Å¾e jsem s tebou mohl jÃ­t. Tady, jÃ¡, eh, tohle jsem si "pÅ¯jÄil" z Memorabilia v OpatstvÃ­. Je to jedna z mÃ¡la technickÃ½ch relikviÃ­, kterÃ¡ jako zÃ¡zrakem stÃ¡le funguje. (PodÃ¡ ti MizÃ­k.) MÄ›j se.}
+{373}{}{DÃ­k. Naskle.}
+{374}{}{HlavnÄ›, Å¾e uÅ¾ nemusÃ­m dÃ¡l poslouchat ty tvoje kecy. Nashle.}
+{380}{}{Ty krÃ¡vo, Wooz mÃ¡ Black Dahliu! UÅ¾ jenom dÃ­ky tomu ta cesta stÃ¡la za to. JasnÄ›, ghoulovÃ© jsou straÅ¡nÄ› ohavnÃ­, ale kdyÅ¾ si sundÃ¡m brÃ½le, tak docela ujdou. KaÅ¾dopÃ¡dnÄ› dÃ­ky moc, Å¾e jsem s tebou mohl jÃ­t. Tady, (Å Ã¡trÃ¡ v kapse a potÃ© se zamraÄÃ­.) Co to sakra? PÅ™Ã­sahÃ¡m, Å¾e jsem ho mÄ›l. Eh, promiÅˆ, ale vypadÃ¡ to, Å¾e jsem ztratil tvoji odmÄ›nu, takÅ¾e se budeÅ¡ smÃ­Å™it s prostÃ½m dÃ­ky. MÄ›j se.}
+{381}{}{Och, eh, s tÃ­m si nelam hlavu. KdyÅ¾ mÅ¯Å¾u, pomÅ¯Å¾u. Nashle.}
+{382}{}{HlavnÄ›, Å¾e uÅ¾ nemusÃ­m dÃ¡l poslouchat ty tvoje kecy. Nashle.}
+{400}{}{NemÅ¯Å¾u s tebou mluvit... musÃ­m sestavit silnÄ›jÅ¡Ã­ balÃ­Äek...}
+{500}{}{Nech mÄ› bÃ½t.}
+{501}{}{Jdi pryÄ.}
 {502}{}{Jdi se vysrat.}
-{600}{}{Nazdar, to jsi ty. Nìkdo vyhodil do vzduchu reaktor v Gecku a všichni ghoulové odešli. Nemìl jsem dùvod tam zùstat, tak jsem odešel a vrátil se sem. Naštìstí pro mì mnichy vùbec nezajímalo, kde jsem byl, take nemám ádnı malér. Do háje, u jsem myslel, e zaènu novı ivot, ve kterém budu moct dìlat to, co mám rád. (Hluboce si povzdechne.)}
-{601}{}{To mì mrzí. Zatím.}
-{602}{}{Takovı je ivot. Jednou jsi na vrcholu svìta a hned na to leíš s oblièejem v bahnì. ij a uè se. Nashle.}
-{610}{}{Nejspíš si tu budu muset prostì zvyknout.}
-{1000}{}{Podaøilo se ti bezpeènì odvést bratra Jasona do jeho nového domova.}
+{600}{}{Nazdar, to jsi ty. NÄ›kdo vyhodil do vzduchu reaktor v Gecku a vÅ¡ichni ghoulovÃ© odeÅ¡li. NemÄ›l jsem dÅ¯vod tam zÅ¯stat, tak jsem odeÅ¡el a vrÃ¡til se sem. NaÅ¡tÄ›stÃ­ pro mÄ› mnichy vÅ¯bec nezajÃ­malo, kde jsem byl, takÅ¾e nemÃ¡m Å¾Ã¡dnÃ½ malÃ©r. Do hÃ¡je, uÅ¾ jsem myslel, Å¾e zaÄnu novÃ½ Å¾ivot, ve kterÃ©m budu moct dÄ›lat to, co mÃ¡m rÃ¡d. (Hluboce si povzdechne.)}
+{601}{}{To mÄ› mrzÃ­. ZatÃ­m.}
+{602}{}{TakovÃ½ je Å¾ivot. Jednou jsi na vrcholu svÄ›ta a hned na to leÅ¾Ã­Å¡ s obliÄejem v bahnÄ›. Å½ij a uÄ se. Nashle.}
+{610}{}{NejspÃ­Å¡ si tu budu muset prostÄ› zvyknout.}
+{1000}{}{PodaÅ™ilo se ti bezpeÄnÄ› odvÃ©st bratra Jasona do jeho novÃ©ho domova.}

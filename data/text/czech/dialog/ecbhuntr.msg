@@ -1,9 +1,9 @@
-{100}{}{Vidíš lovce odmìn.}
-{101}{}{Teï zemøeš.}
-{102}{}{Take ty jsi ten, co má zemøít.}
-{103}{}{Mìl by ses nauèit lepším zpùsobùm.}
-{104}{}{Odnesu si tì v pytli na mrtvoly.}
-{105}{}{Chcípni, ty svinì!}
-{106}{}{Kašlu na to... a si tu odmìnu nechají.}
-{107}{}{Padám odsud.}
-{108}{}{Za ty peníze ta práce nestojí.}
+{100}{}{VidÃ­Å¡ lovce odmÄ›n.}
+{101}{}{TeÄ zemÅ™eÅ¡.}
+{102}{}{TakÅ¾e ty jsi ten, co mÃ¡ zemÅ™Ã­t.}
+{103}{}{MÄ›l by ses nauÄit lepÅ¡Ã­m zpÅ¯sobÅ¯m.}
+{104}{}{Odnesu si tÄ› v pytli na mrtvoly.}
+{105}{}{ChcÃ­pni, ty svinÄ›!}
+{106}{}{KaÅ¡lu na to... aÅ¥ si tu odmÄ›nu nechajÃ­.}
+{107}{}{PadÃ¡m odsud.}
+{108}{}{Za ty penÃ­ze ta prÃ¡ce nestojÃ­.}

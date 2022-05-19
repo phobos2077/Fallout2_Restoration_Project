@@ -1,26 +1,26 @@
-{100}{}{Vidíš velkého tvrïáka.}
-{101}{}{Vidíš Rica.}
-{150}{}{Vidíš obrovského mue s kamennou tváøí. Vypadá, jako by jedl cihly.}
-{151}{}{Vidíš Rica, bodyguarda "Tøi Karty" Monteho. Vypadá, jako by jedl cihly.}
+{100}{}{VidÃ­Å¡ velkÃ©ho tvrÄÃ¡ka.}
+{101}{}{VidÃ­Å¡ Rica.}
+{150}{}{VidÃ­Å¡ obrovskÃ©ho muÅ¾e s kamennou tvÃ¡Å™Ã­. VypadÃ¡, jako by jedl cihly.}
+{151}{}{VidÃ­Å¡ Rica, bodyguarda "TÅ™i Karty" Monteho. VypadÃ¡, jako by jedl cihly.}
 {175}{}{Hurggg}
 {176}{}{Hnrfff}
 {177}{}{Snffff}
 {178}{}{Urb-luu}
 {179}{}{Klurgggg}
 {180}{}{Oog}
-{200}{}{Já kamarád Monte. TY kamarád Monte?}
+{200}{}{JÃ¡ kamarÃ¡d Monte. TY kamarÃ¡d Monte?}
 {201}{}{Me hit people Monte tell me to.}
-{202}{}{Já mlátit lidi.}
-{203}{}{Já mlátit lidi ruky jako hrát na buben.}
-{204}{}{Já rád mlátit.}
-{205}{}{::Bezzubì se usmívá::}
-{206}{}{::Škrábe se::}
+{202}{}{JÃ¡ mlÃ¡tit lidi.}
+{203}{}{JÃ¡ mlÃ¡tit lidi ruky jako hrÃ¡t na buben.}
+{204}{}{JÃ¡ rÃ¡d mlÃ¡tit.}
+{205}{}{::BezzubÄ› se usmÃ­vÃ¡::}
+{206}{}{::Å krÃ¡be se::}
 {207}{}{::Protahuje se::}
 {208}{}{Mmm.}
 {209}{}{Hmmm- mmm.}
-{210}{}{Já nerad mluvit.}
-{211}{}{Ty vonìt dobe...}
+{210}{}{JÃ¡ nerad mluvit.}
+{211}{}{Ty vonÄ›t dobÅ¾e...}
 {212}{}{Yoo smell like mom.}
 {213}{}{Yoo cute. Me no hit you.}
-{214}{}{Ty líbit Rico.}
-{215}{}{Ehhh... já Rico...}
+{214}{}{Ty lÃ­bit Rico.}
+{215}{}{Ehhh... jÃ¡ Rico...}

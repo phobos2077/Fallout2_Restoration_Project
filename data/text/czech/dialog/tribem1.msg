@@ -1,4 +1,4 @@
-{100}{}{Vstupuješ do hustì zalesnìné oblasti. Vidíš úzkou pìšinku vedoucí na sever.}
-{101}{}{Vstupuješ na pobøeí Umbra, domov kmene Umbra. Vidíš mnoho rozdílù mezi jednotlivımi vesnièany a jejich stany, jako by pocházeli z rozdílnıch míst.}
-{102}{}{Podaøilo se ti zjistit, co se stalo se ztracenımi lovci.}
-{200}{}{Podaøilo se ti osvobodit Sulikovu sestru z rukou otrokáøù.}
+{100}{}{VstupujeÅ¡ do hustÄ› zalesnÄ›nÃ© oblasti. VidÃ­Å¡ Ãºzkou pÄ›Å¡inku vedoucÃ­ na sever.}
+{101}{}{VstupujeÅ¡ na pobÅ™eÅ¾Ã­ Umbra, domov kmene Umbra. VidÃ­Å¡ mnoho rozdÃ­lÅ¯ mezi jednotlivÃ½mi vesniÄany a jejich stany, jako by pochÃ¡zeli z rozdÃ­lnÃ½ch mÃ­st.}
+{102}{}{PodaÅ™ilo se ti zjistit, co se stalo se ztracenÃ½mi lovci.}
+{200}{}{PodaÅ™ilo se ti osvobodit Sulikovu sestru z rukou otrokÃ¡Å™Å¯.}

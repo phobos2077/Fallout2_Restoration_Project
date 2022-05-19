@@ -1,18 +1,18 @@
-{100}{}{Šastnı Novı rok!}
-{101}{}{Šastnı Valentın!}
-{102}{}{Veselého Apríla!}
-{103}{}{Šastnı den vydání Falloutu!}
-{104}{}{Šastnı Den nezávislosti!}
-{105}{}{Šastnı Halloween!}
-{106}{}{Šastnı Den díkùvzdání!}
-{107}{}{Veselé Vánoce!}
-{200}{}{VÍCE}
-{201}{}{ZPÌT}
+{100}{}{Å Å¥astnÃ½ NovÃ½ rok!}
+{101}{}{Å Å¥astnÃ½ ValentÃ½n!}
+{102}{}{VeselÃ©ho AprÃ­la!}
+{103}{}{Å Å¥astnÃ½ den vydÃ¡nÃ­ Falloutu!}
+{104}{}{Å Å¥astnÃ½ Den nezÃ¡vislosti!}
+{105}{}{Å Å¥astnÃ½ Halloween!}
+{106}{}{Å Å¥astnÃ½ Den dÃ­kÅ¯vzdÃ¡nÃ­!}
+{107}{}{VeselÃ© VÃ¡noce!}
+{200}{}{VÃCE}
+{201}{}{ZPÄšT}
 {202}{}{LOKACE}
-{203}{}{Nemáš ádné úkoly.}
-{204}{}{VODÍTKA}
+{203}{}{NemÃ¡Å¡ Å¾Ã¡dnÃ© Ãºkoly.}
+{204}{}{VODÃTKA}
 {205}{}{AUTOMAPY}
-{206}{}{VIDEO ARCHÍVY}
+{206}{}{VIDEO ARCHÃVY}
 {207}{}{DATA}
 {208}{}{}
 {209}{}{}
@@ -21,1126 +21,1126 @@
 {212}{}{z}
 {213}{}{Strana}
 {214}{}{[KONEC]}
-{215}{}{Na tomto místì nemùeš odpoèívat!}
-{300}{}{BUDÍK}
+{215}{}{Na tomto mÃ­stÄ› nemÅ¯Å¾eÅ¡ odpoÄÃ­vat!}
+{300}{}{BUDÃK}
 {301}{}{Hit body}
-{302}{}{Odpoèívat deset minut}
-{303}{}{Odpoèívat pùl hodiny}
-{304}{}{Odpoèívat hodinu}
-{305}{}{Odpoèívat dvì hodiny}
-{306}{}{Odpoèívat tøi hodiny}
-{307}{}{Odpoèívat ètyøi hodiny}
-{308}{}{Odpoèívat pìt hodin}
-{309}{}{Odpoèívat šest hodin}
-{310}{}{Odpoèívat do rána (0800)}
-{311}{}{Odpoèívat do poledne (1200)}
-{312}{}{Odpoèívat do veèera (1800)}
-{313}{}{Odpoèívat do pùlnoci (0000)}
-{314}{}{Odpoèívat do plného uzdravení}
-{315}{}{Odpoèívat do uzdravení celé skupiny}
+{302}{}{OdpoÄÃ­vat deset minut}
+{303}{}{OdpoÄÃ­vat pÅ¯l hodiny}
+{304}{}{OdpoÄÃ­vat hodinu}
+{305}{}{OdpoÄÃ­vat dvÄ› hodiny}
+{306}{}{OdpoÄÃ­vat tÅ™i hodiny}
+{307}{}{OdpoÄÃ­vat ÄtyÅ™i hodiny}
+{308}{}{OdpoÄÃ­vat pÄ›t hodin}
+{309}{}{OdpoÄÃ­vat Å¡est hodin}
+{310}{}{OdpoÄÃ­vat do rÃ¡na (0800)}
+{311}{}{OdpoÄÃ­vat do poledne (1200)}
+{312}{}{OdpoÄÃ­vat do veÄera (1800)}
+{313}{}{OdpoÄÃ­vat do pÅ¯lnoci (0000)}
+{314}{}{OdpoÄÃ­vat do plnÃ©ho uzdravenÃ­}
+{315}{}{OdpoÄÃ­vat do uzdravenÃ­ celÃ© skupiny}
 {400}{}{Holodisk Vault 13}
-{401}{}{Vojenská základna: Exteriér}
-{402}{}{Vojenská základna: 1. patro}
-{403}{}{Vojenská základna: 2. patro}
-{404}{}{Vojenská základna: 3. patro}
-{405}{}{Vojenská základna: 4. patro}
-{406}{}{Sklad Sierra: Záznam o exp.}
-{407}{}{Sklad Sierra: Lék. záznam}
+{401}{}{VojenskÃ¡ zÃ¡kladna: ExteriÃ©r}
+{402}{}{VojenskÃ¡ zÃ¡kladna: 1. patro}
+{403}{}{VojenskÃ¡ zÃ¡kladna: 2. patro}
+{404}{}{VojenskÃ¡ zÃ¡kladna: 3. patro}
+{405}{}{VojenskÃ¡ zÃ¡kladna: 4. patro}
+{406}{}{Sklad Sierra: ZÃ¡znam o exp.}
+{407}{}{Sklad Sierra: LÃ©k. zÃ¡znam}
 {408}{}{Sklad Sierra: Evakuace}
-{409}{}{Sklad Sierra: Zprávy GNN}
+{409}{}{Sklad Sierra: ZprÃ¡vy GNN}
 {410}{}{Mise Sierra}
-{411}{}{Uèení Hubologistù}
-{412}{}{Poznámky tvùrce Vault City}
-{413}{}{Cestovní záznam Vault City}
-{414}{}{Špionání holodisk NCR}
-{415}{}{Holodisk s historií NCR}
-{416}{}{Westinùv holodisk}
-{417}{}{Stát Národù}
+{411}{}{UÄenÃ­ HubologistÅ¯}
+{412}{}{PoznÃ¡mky tvÅ¯rce Vault City}
+{413}{}{CestovnÃ­ zÃ¡znam Vault City}
+{414}{}{Å pionÃ¡Å¾nÃ­ holodisk NCR}
+{415}{}{Holodisk s historiÃ­ NCR}
+{416}{}{WestinÅ¯v holodisk}
+{417}{}{StÃ¡t NÃ¡rodÅ¯}
 {418}{}{Seznam slov}
 {419}{}{Projekt}
-{420}{}{Operace jaderné elektrárny}
+{420}{}{Operace jadernÃ© elektrÃ¡rny}
 {500}{}{Logo Interplay}
-{501}{}{Úvodní sekvence}
-{502}{}{Øeè Starší}
-{503}{}{Získání kombinézy Valtu}
-{504}{}{Selhání Arroya}
-{505}{}{Arroyo znièeno}
-{506}{}{Startování auta}
-{507}{}{Rodina Cartucciovıch}
-{508}{}{Vùdce páraèù}
-{509}{}{Tanker odplouvá}
-{510}{}{Vìzòové v Enklávì}
-{511}{}{Znièení Enklávy}
+{501}{}{ÃšvodnÃ­ sekvence}
+{502}{}{Å˜eÄ StarÅ¡Ã­}
+{503}{}{ZÃ­skÃ¡nÃ­ kombinÃ©zy Valtu}
+{504}{}{SelhÃ¡nÃ­ Arroya}
+{505}{}{Arroyo zniÄeno}
+{506}{}{StartovÃ¡nÃ­ auta}
+{507}{}{Rodina CartucciovÃ½ch}
+{508}{}{VÅ¯dce pÃ¡raÄÅ¯}
+{509}{}{Tanker odplouvÃ¡}
+{510}{}{VÄ›zÅˆovÃ© v EnklÃ¡vÄ›}
+{511}{}{ZniÄenÃ­ EnklÃ¡vy}
 {512}{}{Sen o Arroyo 1}
 {513}{}{Sen o Arroyo 2}
 {514}{}{Sen o Arroyo 3}
 {515}{}{Sen o Arroyo 4}
-{516}{}{Autoøi}
+{516}{}{AutoÅ™i}
 {600}{}{Stav}
-{601}{}{Vodítka}
+{601}{}{VodÃ­tka}
 {602}{}{Automapy}
-{603}{}{Archívy}
-{604}{}{Budík}
-{605}{}{Dù da dù da dum dı dı dùdlaj dù dum dum dum dù da dù da dù da dù da dù da dù da dù}
+{603}{}{ArchÃ­vy}
+{604}{}{BudÃ­k}
+{605}{}{DÅ¯ da dÅ¯ da dum dÃ½ dÃ½ dÅ¯dlaj dÅ¯ dum dum dum dÅ¯ da dÅ¯ da dÅ¯ da dÅ¯ da dÅ¯ da dÅ¯ da dÅ¯}
 {606}{}{Welcome to the RobCo Pip-Boy 2000.}
-{607}{}{Zatím.}
-{608}{}{Vstávej.}
+{607}{}{ZatÃ­m.}
+{608}{}{VstÃ¡vej.}
 {700}{}{Vault 13}
 {701}{}{Uklidnit povstaleckou frakci.}
-{702}{}{Znièit velitele Mutantù.}
-{703}{}{Znièit zdroj Mutantù.}
-{704}{}{Najít Vodní èip.}
-{705}{}{Najít zlodìje vody.}
-{710}{}{Znièenı Vault}
+{702}{}{ZniÄit velitele MutantÅ¯.}
+{703}{}{ZniÄit zdroj MutantÅ¯.}
+{704}{}{NajÃ­t VodnÃ­ Äip.}
+{705}{}{NajÃ­t zlodÄ›je vody.}
+{710}{}{ZniÄenÃ½ Vault}
 {720}{}{Shady Sands}
-{721}{}{Vyléèit Jarvise z otrávení.}
+{721}{}{VylÃ©Äit Jarvise z otrÃ¡venÃ­.}
 {722}{}{Vyrob protijed.}
-{723}{}{Zachránit Tandi od Nájezdníkù.}
-{724}{}{Zastavit Radškorpiony.}
+{723}{}{ZachrÃ¡nit Tandi od NÃ¡jezdnÃ­kÅ¯.}
+{724}{}{Zastavit RadÅ¡korpiony.}
 {730}{}{Junktown}
 {731}{}{Pomoct Saulovi.}
-{732}{}{Zabít Kiliana.}
-{733}{}{Zachránit Sinthiu.}
-{734}{}{Zachránit Trish.}
+{732}{}{ZabÃ­t Kiliana.}
+{733}{}{ZachrÃ¡nit Sinthiu.}
+{734}{}{ZachrÃ¡nit Trish.}
 {735}{}{Zastavit Gizma.}
-{736}{}{Znièit gang Lebek.}
+{736}{}{ZniÄit gang Lebek.}
 {740}{}{Najezdnici}
 {750}{}{Necropole}
-{751}{}{Znièit supermutanty u vodního zdroje.}
-{752}{}{Opravit vodní pumpu v Necropoli.}
+{751}{}{ZniÄit supermutanty u vodnÃ­ho zdroje.}
+{752}{}{Opravit vodnÃ­ pumpu v Necropoli.}
 {760}{}{Hub}
-{761}{}{Znièit páraèe.}
+{761}{}{ZniÄit pÃ¡raÄe.}
 {762}{}{Sjednat obchod s Jainem.}
-{763}{}{Sjednat obchod s nákupèími.}
-{764}{}{Najít ztracené karavany.}
-{765}{}{Ukrást náhrdelník obchodníkùm.}
+{763}{}{Sjednat obchod s nÃ¡kupÄÃ­mi.}
+{764}{}{NajÃ­t ztracenÃ© karavany.}
+{765}{}{UkrÃ¡st nÃ¡hrdelnÃ­k obchodnÃ­kÅ¯m.}
 {770}{}{Bratrstvo}
-{771}{}{Stát se Zasvìcenım.}
-{772}{}{Zachránit Zasvìcence z Hubu.}
+{771}{}{StÃ¡t se ZasvÄ›cenÃ½m.}
+{772}{}{ZachrÃ¡nit ZasvÄ›cence z Hubu.}
 {780}{}{Vojenska zakladna}
-{790}{}{Kráter}
+{790}{}{KrÃ¡ter}
 {791}{}{Odblokovat pasti v lokaci.}
-{792}{}{Nahodit elektøinu v Kráteru.}
-{800}{}{Pohøebištì}
-{801}{}{Stát se Bladem.}
-{802}{}{Pøinést medailonek pro Romero.}
-{803}{}{Doruèit zásilku pro Gun Runnery.}
-{804}{}{Najít dìtského špióna u Následníkù.}
+{792}{}{Nahodit elektÅ™inu v KrÃ¡teru.}
+{800}{}{PohÅ™ebiÅ¡tÄ›}
+{801}{}{StÃ¡t se Bladem.}
+{802}{}{PÅ™inÃ©st medailonek pro Romero.}
+{803}{}{DoruÄit zÃ¡silku pro Gun Runnery.}
+{804}{}{NajÃ­t dÄ›tskÃ©ho Å¡piÃ³na u NÃ¡slednÃ­kÅ¯.}
 {805}{}{Opravit hydroponickou farmu v Adytu.}
-{806}{}{Zachránit Jasona Zimmermana.}
-{807}{}{Zastavit útoky gangù na Adytum.}
-{810}{}{Katedrála}
+{806}{}{ZachrÃ¡nit Jasona Zimmermana.}
+{807}{}{Zastavit Ãºtoky gangÅ¯ na Adytum.}
+{810}{}{KatedrÃ¡la}
 {1000}{}{VAULT 13 HOLODISK od Ziggy}
-{1001}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
-{1002}{}{Na tomto holodisku je uloena lokace Vaultu 13.}
-{1003}{}{Jeho poloha byla zaznamenána do tvé mapy.}
+{1001}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
+{1002}{}{Na tomto holodisku je uloÅ¾ena lokace Vaultu 13.}
+{1003}{}{Jeho poloha byla zaznamenÃ¡na do tvÃ© mapy.}
 {1004}{}{**END-DISK**}
-{2000}{}{Pro: Centrální Velitelství}
-{2001}{}{Náš vìdeckı tım dokonèil zkoumání vzorkù získanıch ze}
-{2002}{}{základny. Byly potvrzeny jako 99% èisté. Poèítejte, e}
-{2003}{}{vzorek brzy dorazí. Jak jsme oèekávali, dìlnická populace}
-{2004}{}{pøi vystavení èisté smìsi silnì zmutovala. Jsou hlášeny}
-{2005}{}{tìké, ale pøijatelné ztráty. Naøídil jsem evakuaci}
-{2006}{}{základny. Jakmile budou odtamtud všichni pryè, odpálíme}
-{2007}{}{vchod do základny a zavøeme tam ty bastardy.}
+{2000}{}{Pro: CentrÃ¡lnÃ­ VelitelstvÃ­}
+{2001}{}{NÃ¡Å¡ vÄ›deckÃ½ tÃ½m dokonÄil zkoumÃ¡nÃ­ vzorkÅ¯ zÃ­skanÃ½ch ze}
+{2002}{}{zÃ¡kladny. Byly potvrzeny jako 99% ÄistÃ©. PoÄÃ­tejte, Å¾e}
+{2003}{}{vzorek brzy dorazÃ­. Jak jsme oÄekÃ¡vali, dÄ›lnickÃ¡ populace}
+{2004}{}{pÅ™i vystavenÃ­ ÄistÃ© smÄ›si silnÄ› zmutovala. Jsou hlÃ¡Å¡eny}
+{2005}{}{tÄ›Å¾kÃ©, ale pÅ™ijatelnÃ© ztrÃ¡ty. NaÅ™Ã­dil jsem evakuaci}
+{2006}{}{zÃ¡kladny. Jakmile budou odtamtud vÅ¡ichni pryÄ, odpÃ¡lÃ­me}
+{2007}{}{vchod do zÃ¡kladny a zavÅ™eme tam ty bastardy.}
 {2008}{}{entrance to the base and seal the bastards in.}
 {2009}{}{}
 {2010}{}{**END-DISK**}
 {2011}{}{**END-DISK**}
-{3000}{}{Toto je kapitán Pickard hlásící se z kontrolního bodu 1.}
-{3001}{}{Spojení s kontrolními body 2 a 3 bylo ztraceno. Mùeme}
-{3002}{}{oèekávat jen to nejhorší. Nestvùry šplhají z dùlních}
-{3003}{}{šachet. Selhaly všechny zpùsoby, jak je zastavit.}
-{3004}{}{Pokusíme se je udret v této pozici jak nejdéle to bude}
-{3005}{}{moné.}
+{3000}{}{Toto je kapitÃ¡n Pickard hlÃ¡sÃ­cÃ­ se z kontrolnÃ­ho bodu 1.}
+{3001}{}{SpojenÃ­ s kontrolnÃ­mi body 2 a 3 bylo ztraceno. MÅ¯Å¾eme}
+{3002}{}{oÄekÃ¡vat jen to nejhorÅ¡Ã­. NestvÅ¯ry Å¡plhajÃ­ z dÅ¯lnÃ­ch}
+{3003}{}{Å¡achet. Selhaly vÅ¡echny zpÅ¯soby, jak je zastavit.}
+{3004}{}{PokusÃ­me se je udrÅ¾et v tÃ©to pozici jak nejdÃ©le to bude}
+{3005}{}{moÅ¾nÃ©.}
 {3006}{}{**END-DISK**}
-{4000}{}{Kontrolní bod 3 je pod útokem. Pro jistotu jsme vypnuli}
-{4001}{}{dùlní vıtahy, ale slyším je, jakou lezou šachtami.}
-{4002}{}{Do prdele! Z niších pater sem lezou obøí, odporná,}
-{4003}{}{zelená monstra! Kvùli nim tu nejspíš jsme. Musí to bıt}
-{4004}{}{nìjakı druh supervojáka. Kdy to do nich napálíme,}
-{4005}{}{vylezou další dva a ti, které jsme u zastøelili, vstanou}
-{4006}{}{a jdou poøád po nás. Potøebujeme posi...}
+{4000}{}{KontrolnÃ­ bod 3 je pod Ãºtokem. Pro jistotu jsme vypnuli}
+{4001}{}{dÅ¯lnÃ­ vÃ½tahy, ale slyÅ¡Ã­m je, jakou lezou Å¡achtami.}
+{4002}{}{Do prdele! Z niÅ¾Å¡Ã­ch pater sem lezou obÅ™Ã­, odpornÃ¡,}
+{4003}{}{zelenÃ¡ monstra! KvÅ¯li nim tu nejspÃ­Å¡ jsme. MusÃ­ to bÃ½t}
+{4004}{}{nÄ›jakÃ½ druh supervojÃ¡ka. KdyÅ¾ to do nich napÃ¡lÃ­me,}
+{4005}{}{vylezou dalÅ¡Ã­ dva a ti, kterÃ© jsme uÅ¾ zastÅ™elili, vstanou}
+{4006}{}{a jdou poÅ™Ã¡d po nÃ¡s. PotÅ™ebujeme posi...}
 {4007}{}{**END-DISK**}
 {4008}{}{**END-DISK**}
-{5000}{}{Serant Bracks, hlášení z kontrolního bodu 3. Všechno}
-{5001}{}{v poøádku, stejnì tak jako vèera a pøedevèírem. Nevím,}
-{5002}{}{proè nás sem poslali stráit zbídaèené horníky. Jsou tak}
-{5003}{}{slabí a vyzáblí, e u pomalu neuzvednou ani krumpáè.}
-{5004}{}{Nicménì pøed chvílí tudy prošli vìdátoøi s nìjakım}
-{5005}{}{vzorkem. Zdáli se jím bıt dost nadšení. Nevíte, jestli}
-{5006}{}{našli to, co hledali? Moná, e u se koneènì z tohoto}
-{5007}{}{opuštìného místa dostaneme. Dostávám z toho tady husí}
-{5008}{}{kùi. Moment, šachtou pøijídí další náklad. Mùj boe!}
-{5009}{}{Proboha, co jsou zaè? Obklièují nás. Pošlete pomoc!}
-{5010}{}{Opakuji, tady je kontrolní bod 3. Pošlete nìkoho na pom...}
+{5000}{}{SerÅ¾ant Bracks, hlÃ¡Å¡enÃ­ z kontrolnÃ­ho bodu 3. VÅ¡echno}
+{5001}{}{v poÅ™Ã¡dku, stejnÄ› tak jako vÄera a pÅ™edevÄÃ­rem. NevÃ­m,}
+{5002}{}{proÄ nÃ¡s sem poslali strÃ¡Å¾it zbÃ­daÄenÃ© hornÃ­ky. Jsou tak}
+{5003}{}{slabÃ­ a vyzÃ¡blÃ­, Å¾e uÅ¾ pomalu neuzvednou ani krumpÃ¡Ä.}
+{5004}{}{NicmÃ©nÄ› pÅ™ed chvÃ­lÃ­ tudy proÅ¡li vÄ›dÃ¡toÅ™i s nÄ›jakÃ½m}
+{5005}{}{vzorkem. ZdÃ¡li se jÃ­m bÃ½t dost nadÅ¡enÃ­. NevÃ­te, jestli}
+{5006}{}{naÅ¡li to, co hledali? MoÅ¾nÃ¡, Å¾e uÅ¾ se koneÄnÄ› z tohoto}
+{5007}{}{opuÅ¡tÄ›nÃ©ho mÃ­sta dostaneme. DostÃ¡vÃ¡m z toho tady husÃ­}
+{5008}{}{kÅ¯Å¾i. Moment, Å¡achtou pÅ™ijÃ­Å¾dÃ­ dalÅ¡Ã­ nÃ¡klad. MÅ¯j boÅ¾e!}
+{5009}{}{Proboha, co jsou zaÄ? ObkliÄujÃ­ nÃ¡s. PoÅ¡lete pomoc!}
+{5010}{}{Opakuji, tady je kontrolnÃ­ bod 3. PoÅ¡lete nÄ›koho na pom...}
 {5011}{}{**END-DISK**}
 {5012}{}{send he_}
 {5013}{}{**END-DISK**}
-{6000}{}{Vykopávky probíhají pøesnì podle plánu. Soudì podle}
-{6001}{}{plánù staré základny bychom brzy mìli dosáhnout oblasti}
-{6002}{}{s kádìmi. Ve vzorcích pùdy i ovzduší, které jsme}
-{6003}{}{odebrali, je pøítomna vysoká hladina viru FEV. Naše}
-{6004}{}{kombinézy ten virus naštìstí odfiltrují. Èlenùm Enklávy}
-{6005}{}{mùete sdìlit, e budou mít brzy èistı vzorek tohoto}
+{6000}{}{VykopÃ¡vky probÃ­hajÃ­ pÅ™esnÄ› podle plÃ¡nu. SoudÄ› podle}
+{6001}{}{plÃ¡nÅ¯ starÃ© zÃ¡kladny bychom brzy mÄ›li dosÃ¡hnout oblasti}
+{6002}{}{s kÃ¡dÄ›mi. Ve vzorcÃ­ch pÅ¯dy i ovzduÅ¡Ã­, kterÃ© jsme}
+{6003}{}{odebrali, je pÅ™Ã­tomna vysokÃ¡ hladina viru FEV. NaÅ¡e}
+{6004}{}{kombinÃ©zy ten virus naÅ¡tÄ›stÃ­ odfiltrujÃ­. ÄŒlenÅ¯m EnklÃ¡vy}
+{6005}{}{mÅ¯Å¾ete sdÄ›lit, Å¾e budou mÃ­t brzy ÄistÃ½ vzorek tohoto}
 {6006}{}{mutagenu.}
-{6007}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
-{6008}{}{Navíc si zaèínám všímat jistıch zmìn na hornících.}
-{6009}{}{Zdá se, e se na nich projevují známky zvıšené síly,}
-{6010}{}{vıdre a drobnıch zmìn ve zbarvení pokoky - oèividnı}
-{6011}{}{projev mutace virem FEV. Mui zaèínají bıt nervózní,}
-{6012}{}{po tom, co si také všimli tìchto zmìn. Zvıšil jsem}
-{6013}{}{poèet stráí, protoe se bojím, e pokud dìlníci}
-{6014}{}{zmutují kompletnì, budou ve velké pøesile. Osobnì}
-{6015}{}{doufám, e jeliko vyuíváme na pracovní sílu místní}
-{6016}{}{obyvatele, plná mutace nenastane, pokud nebudou}
-{6017}{}{pøímo ponoøeni do kádì nebo vystaveni dlouhodobému}
-{6018}{}{pùsobení viru. Jak si jistì vzpomínáte, po celé}
-{6019}{}{oblasti byly zjištìny nepatrné dávky viru. Testy na}
-{6020}{}{subjektech ijících v této oblasti ukázaly, e si vùèi}
-{6021}{}{FEV viru vytvoøili jistou odolnost. I pøesto je tu ale}
-{6022}{}{monost pøípadného nebezpeèí, protoe jsme s}
-{6023}{}{vystavením takovému mnoství viru FEV nikdy}
-{6024}{}{nepoèítali. Navrhuji, abychom vchod do základy nechali}
-{6025}{}{zasypat ihned poté, co obdríme èistı vzorek. Tímto}
-{6026}{}{krokem uvìzníme zmutované horníky v základnì a}
-{6027}{}{pøedejdeme nebezpeèí získání viru nìkım jinım po našem}
+{6007}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
+{6008}{}{NavÃ­c si zaÄÃ­nÃ¡m vÅ¡Ã­mat jistÃ½ch zmÄ›n na hornÃ­cÃ­ch.}
+{6009}{}{ZdÃ¡ se, Å¾e se na nich projevujÃ­ znÃ¡mky zvÃ½Å¡enÃ© sÃ­ly,}
+{6010}{}{vÃ½drÅ¾e a drobnÃ½ch zmÄ›n ve zbarvenÃ­ pokoÅ¾ky - oÄividnÃ½}
+{6011}{}{projev mutace virem FEV. MuÅ¾i zaÄÃ­najÃ­ bÃ½t nervÃ³znÃ­,}
+{6012}{}{po tom, co si takÃ© vÅ¡imli tÄ›chto zmÄ›n. ZvÃ½Å¡il jsem}
+{6013}{}{poÄet strÃ¡Å¾Ã­, protoÅ¾e se bojÃ­m, Å¾e pokud dÄ›lnÃ­ci}
+{6014}{}{zmutujÃ­ kompletnÄ›, budou ve velkÃ© pÅ™esile. OsobnÄ›}
+{6015}{}{doufÃ¡m, Å¾e jelikoÅ¾ vyuÅ¾Ã­vÃ¡me na pracovnÃ­ sÃ­lu mÃ­stnÃ­}
+{6016}{}{obyvatele, plnÃ¡ mutace nenastane, pokud nebudou}
+{6017}{}{pÅ™Ã­mo ponoÅ™eni do kÃ¡dÄ› nebo vystaveni dlouhodobÃ©mu}
+{6018}{}{pÅ¯sobenÃ­ viru. Jak si jistÄ› vzpomÃ­nÃ¡te, po celÃ©}
+{6019}{}{oblasti byly zjiÅ¡tÄ›ny nepatrnÃ© dÃ¡vky viru. Testy na}
+{6020}{}{subjektech Å¾ijÃ­cÃ­ch v tÃ©to oblasti ukÃ¡zaly, Å¾e si vÅ¯Äi}
+{6021}{}{FEV viru vytvoÅ™ili jistou odolnost. I pÅ™esto je tu ale}
+{6022}{}{moÅ¾nost pÅ™Ã­padnÃ©ho nebezpeÄÃ­, protoÅ¾e jsme s}
+{6023}{}{vystavenÃ­m takovÃ©mu mnoÅ¾stvÃ­ viru FEV nikdy}
+{6024}{}{nepoÄÃ­tali. Navrhuji, abychom vchod do zÃ¡klady nechali}
+{6025}{}{zasypat ihned potÃ©, co obdrÅ¾Ã­me ÄistÃ½ vzorek. TÃ­mto}
+{6026}{}{krokem uvÄ›znÃ­me zmutovanÃ© hornÃ­ky v zÃ¡kladnÄ› a}
+{6027}{}{pÅ™edejdeme nebezpeÄÃ­ zÃ­skÃ¡nÃ­ viru nÄ›kÃ½m jinÃ½m po naÅ¡em}
 {6028}{}{odchodu.}
 {6029}{}{**END-DISK**}
-{7000}{}{Armádní sklad Sierra - V & V}
-{7001}{}{Zodpovìdnı lékaø - Dr. H. Lector}
-{7002}{}{Osobní záznam}
-{7003}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
-{7004}{}{28. èervna 2077}
-{7005}{}{Dnes na mì kluci z biologického zahráli skvìlı vtípek.}
-{7006}{}{Jeden z tìch malıch ulièníkù zvıšil nastavení na mém}
-{7007}{}{automatizovaném extraktoru orgánù Vault-Tec. Páni, to}
-{7008}{}{jsem byl ale pøekvapenı, kdy vojín Callow odešel z}
-{7009}{}{operaèní místnosti bez traèníku! Naštìstí u byl po}
-{7010}{}{smrti, jinak bych mìl problém. Pøeprogramoval jsem tedy}
-{7011}{}{ten pøístroj tak, aby vyjímal pouze mozky, take se to}
-{7012}{}{u nikdy nestane. Za tohle je dostanu.}
-{7013}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
-{7014}{}{29. èervna 2077}
-{7015}{}{Odstranil jsem játra vojínu Callowovi a uvaøil je. Poté}
-{7016}{}{jsem je poslal dolù klukùm do biologického spolu s}
-{7017}{}{fazolemi a lahodnou èínou. Mysleli si, e to bylo zvláštní}
-{7018}{}{podìkování od generála za dobøe odvedenou práci. Miluju}
-{7019}{}{svoji práci.}
-{7020}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
-{7021}{}{30. èervna 2077}
+{7000}{}{ArmÃ¡dnÃ­ sklad Sierra - V & V}
+{7001}{}{ZodpovÄ›dnÃ½ lÃ©kaÅ™ - Dr. H. Lector}
+{7002}{}{OsobnÃ­ zÃ¡znam}
+{7003}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
+{7004}{}{28. Äervna 2077}
+{7005}{}{Dnes na mÄ› kluci z biologickÃ©ho zahrÃ¡li skvÄ›lÃ½ vtÃ­pek.}
+{7006}{}{Jeden z tÄ›ch malÃ½ch uliÄnÃ­kÅ¯ zvÃ½Å¡il nastavenÃ­ na mÃ©m}
+{7007}{}{automatizovanÃ©m extraktoru orgÃ¡nÅ¯ Vault-Tec. PÃ¡ni, to}
+{7008}{}{jsem byl ale pÅ™ekvapenÃ½, kdyÅ¾ vojÃ­n Callow odeÅ¡el z}
+{7009}{}{operaÄnÃ­ mÃ­stnosti bez traÄnÃ­ku! NaÅ¡tÄ›stÃ­ uÅ¾ byl po}
+{7010}{}{smrti, jinak bych mÄ›l problÃ©m. PÅ™eprogramoval jsem tedy}
+{7011}{}{ten pÅ™Ã­stroj tak, aby vyjÃ­mal pouze mozky, takÅ¾e se to}
+{7012}{}{uÅ¾ nikdy nestane. Za tohle je dostanu.}
+{7013}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
+{7014}{}{29. Äervna 2077}
+{7015}{}{Odstranil jsem jÃ¡tra vojÃ­nu Callowovi a uvaÅ™il je. PotÃ©}
+{7016}{}{jsem je poslal dolÅ¯ klukÅ¯m do biologickÃ©ho spolu s}
+{7017}{}{fazolemi a lahodnou ÄÃ­nou. Mysleli si, Å¾e to bylo zvlÃ¡Å¡tnÃ­}
+{7018}{}{podÄ›kovÃ¡nÃ­ od generÃ¡la za dobÅ™e odvedenou prÃ¡ci. Miluju}
+{7019}{}{svoji prÃ¡ci.}
+{7020}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
+{7021}{}{30. Äervna 2077}
 {7022}{}{I tried a new drug cocktail of Buffout and Psychos}
-{7023}{}{koktejl Buffoutu a Psycha smíchanı s nìkterımi}
-{7024}{}{speciálními zlepšováky, se kterımi jsem si hrál. Vısledky}
-{7025}{}{byly velice slibné, avšak komplikované. Subjekt zaèal}
-{7026}{}{bıt velice násilnı a pokusil se uprchnout z místnosti.}
-{7027}{}{Naštìstí byli ti noví bezpeènostní roboti na místì a}
-{7028}{}{zastavili ho. Mìl bych zavolat údrbu, a ty dveøe}
-{7029}{}{vymìní.}
-{7030}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
-{7031}{}{1. èervence 2077}
-{7032}{}{Mùj oblíbenı pokusnı objekt zemøel. Stravoval jsem ho}
-{7033}{}{vyváenou dietou Mentatù smíchanıch s mımi speciálními}
-{7034}{}{zlepšováky. Bìhem pár tıdnù se mu IQ zvıšilo z 39 na}
-{7035}{}{200. Jsem smutnı, protoe to byl jeden z mála lidí, se}
-{7036}{}{kterımi jsem si mohl opravdu popovídat. Bude mi moc}
-{7037}{}{chybìt.}
-{7038}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
-{7039}{}{5. èervenec 2077}
-{7040}{}{Myslíme si, e je náš novı kybernetickı mozek koneènì}
-{7041}{}{pøipraven. Musíme provést ještì nìjaké testy, ale}
-{7042}{}{vypadá to slibnì.}
-{7043}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
-{7044}{}{6. èervence 2077}
-{7045}{}{Oddìlení robotiky nebylo rádo, e byl jejich drahocennı}
-{7046}{}{poèítaè upraven pro spouštìní bezpeènosti bìhem}
-{7047}{}{evakuace. Také nemùu øíci, e bych byl šastnı, protoe}
-{7048}{}{Skynet byl neocenitelnı pøi vırobì nového kybernetic-}
-{7049}{}{kého mozku.}
-{7050}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
-{7051}{}{9. èervence 2077}
-{7052}{}{Byla zahájena evakuace. Opravdu hrozné naèasování.}
-{7053}{}{Zrovna jsme chtìli zahájit instalaci našeho nového}
-{7054}{}{kybernetického mozku. Tvrdí, e je evakuace jen}
-{7055}{}{doèasná, take budu ve svém vızkumu pokraèovat, a se}
-{7056}{}{vrátím. Toto je asi na nìjakı èas mùj poslední záznam,}
-{7057}{}{jeliko se teï budu snait nashromádit co nejvíce dat}
-{7058}{}{ze svého vızkumu.}
+{7023}{}{koktejl Buffoutu a Psycha smÃ­chanÃ½ s nÄ›kterÃ½mi}
+{7024}{}{speciÃ¡lnÃ­mi zlepÅ¡ovÃ¡ky, se kterÃ½mi jsem si hrÃ¡l. VÃ½sledky}
+{7025}{}{byly velice slibnÃ©, avÅ¡ak komplikovanÃ©. Subjekt zaÄal}
+{7026}{}{bÃ½t velice nÃ¡silnÃ½ a pokusil se uprchnout z mÃ­stnosti.}
+{7027}{}{NaÅ¡tÄ›stÃ­ byli ti novÃ­ bezpeÄnostnÃ­ roboti na mÃ­stÄ› a}
+{7028}{}{zastavili ho. MÄ›l bych zavolat ÃºdrÅ¾bu, aÅ¥ ty dveÅ™e}
+{7029}{}{vymÄ›nÃ­.}
+{7030}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
+{7031}{}{1. Äervence 2077}
+{7032}{}{MÅ¯j oblÃ­benÃ½ pokusnÃ½ objekt zemÅ™el. Stravoval jsem ho}
+{7033}{}{vyvÃ¡Å¾enou dietou MentatÅ¯ smÃ­chanÃ½ch s mÃ½mi speciÃ¡lnÃ­mi}
+{7034}{}{zlepÅ¡ovÃ¡ky. BÄ›hem pÃ¡r tÃ½dnÅ¯ se mu IQ zvÃ½Å¡ilo z 39 na}
+{7035}{}{200. Jsem smutnÃ½, protoÅ¾e to byl jeden z mÃ¡la lidÃ­, se}
+{7036}{}{kterÃ½mi jsem si mohl opravdu popovÃ­dat. Bude mi moc}
+{7037}{}{chybÄ›t.}
+{7038}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
+{7039}{}{5. Äervenec 2077}
+{7040}{}{MyslÃ­me si, Å¾e je nÃ¡Å¡ novÃ½ kybernetickÃ½ mozek koneÄnÄ›}
+{7041}{}{pÅ™ipraven. MusÃ­me provÃ©st jeÅ¡tÄ› nÄ›jakÃ© testy, ale}
+{7042}{}{vypadÃ¡ to slibnÄ›.}
+{7043}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
+{7044}{}{6. Äervence 2077}
+{7045}{}{OddÄ›lenÃ­ robotiky nebylo rÃ¡do, Å¾e byl jejich drahocennÃ½}
+{7046}{}{poÄÃ­taÄ upraven pro spouÅ¡tÄ›nÃ­ bezpeÄnosti bÄ›hem}
+{7047}{}{evakuace. TakÃ© nemÅ¯Å¾u Å™Ã­ci, Å¾e bych byl Å¡Å¥astnÃ½, protoÅ¾e}
+{7048}{}{Skynet byl neocenitelnÃ½ pÅ™i vÃ½robÄ› novÃ©ho kybernetic-}
+{7049}{}{kÃ©ho mozku.}
+{7050}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
+{7051}{}{9. Äervence 2077}
+{7052}{}{Byla zahÃ¡jena evakuace. Opravdu hroznÃ© naÄasovÃ¡nÃ­.}
+{7053}{}{Zrovna jsme chtÄ›li zahÃ¡jit instalaci naÅ¡eho novÃ©ho}
+{7054}{}{kybernetickÃ©ho mozku. TvrdÃ­, Å¾e je evakuace jen}
+{7055}{}{doÄasnÃ¡, takÅ¾e budu ve svÃ©m vÃ½zkumu pokraÄovat, aÅ¾ se}
+{7056}{}{vrÃ¡tÃ­m. Toto je asi na nÄ›jakÃ½ Äas mÅ¯j poslednÃ­ zÃ¡znam,}
+{7057}{}{jelikoÅ¾ se teÄ budu snaÅ¾it nashromÃ¡Å¾dit co nejvÃ­ce dat}
+{7058}{}{ze svÃ©ho vÃ½zkumu.}
 {7059}{}{**END-DISK**}
 {7060}{}{**END-DISK**}
-{8000}{}{5. èervenec 2077}
-{8001}{}{Armádní sklad Sierra - Ošetøovna}
-{8002}{}{Zodpovìdnı lékaø - Dr. Solomon}
-{8003}{}{Subjekt - plukovník Dixon}
-{8004}{}{Záznam o nehodì # 8332-523D}
-{8005}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
-{8006}{}{Subjekt se pokoušel instalovat útoènou minu ve}
-{8007}{}{skladišti jako souèást evakuaèní obrany Armádního}
-{8008}{}{skladu Sierra. Mina vybuchla pøedèasnì a zpùsobila}
-{8009}{}{plukovníku Dixonovi a generálu Cliftonovi èetná poranìní.}
-{8010}{}{Plukovník Dixon utrpìl mnoho trnıch ran na rukou, hrudi}
-{8011}{}{a oblièeji. Pravá ruka byla zcela odtrena a nepodaøilo}
-{8012}{}{se nám nalézt její zbıvající èást. Váná trná poranìní}
-{8013}{}{na hrudi a oblièeji vyadovala rozsáhlou chirurgickou}
-{8014}{}{operaci. Celkem bylo vyjmuto 32 støepin. Pravé oko bylo}
-{8015}{}{poškozeno natolik, e jej bylo nutno chirurgicky}
-{8016}{}{odstranit. Je zde ale ještì nadìje, e pokud poškozené,}
-{8017}{}{ale stále ještì ivé oko umístíme do Biomed gelu, samo}
-{8018}{}{se zregeneruje. Doufejme, e jej budeme moci pozdìji}
-{8019}{}{opìtovnì implantovat. Experimentální Biomed gel se dá}
-{8020}{}{velice vhodnì vyuít ke stimulaci ivıch bunìk, ale je}
-{8021}{}{velice nešastné testovat tento novı objev za tak}
-{8022}{}{nepøíjemnıch okolností.}
+{8000}{}{5. Äervenec 2077}
+{8001}{}{ArmÃ¡dnÃ­ sklad Sierra - OÅ¡etÅ™ovna}
+{8002}{}{ZodpovÄ›dnÃ½ lÃ©kaÅ™ - Dr. Solomon}
+{8003}{}{Subjekt - plukovnÃ­k Dixon}
+{8004}{}{ZÃ¡znam o nehodÄ› # 8332-523D}
+{8005}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
+{8006}{}{Subjekt se pokouÅ¡el instalovat ÃºtoÄnou minu ve}
+{8007}{}{skladiÅ¡ti jako souÄÃ¡st evakuaÄnÃ­ obrany ArmÃ¡dnÃ­ho}
+{8008}{}{skladu Sierra. Mina vybuchla pÅ™edÄasnÄ› a zpÅ¯sobila}
+{8009}{}{plukovnÃ­ku Dixonovi a generÃ¡lu Cliftonovi ÄetnÃ¡ poranÄ›nÃ­.}
+{8010}{}{PlukovnÃ­k Dixon utrpÄ›l mnoho trÅ¾nÃ½ch ran na rukou, hrudi}
+{8011}{}{a obliÄeji. PravÃ¡ ruka byla zcela odtrÅ¾ena a nepodaÅ™ilo}
+{8012}{}{se nÃ¡m nalÃ©zt jejÃ­ zbÃ½vajÃ­cÃ­ ÄÃ¡st. VÃ¡Å¾nÃ¡ trÅ¾nÃ¡ poranÄ›nÃ­}
+{8013}{}{na hrudi a obliÄeji vyÅ¾adovala rozsÃ¡hlou chirurgickou}
+{8014}{}{operaci. Celkem bylo vyjmuto 32 stÅ™epin. PravÃ© oko bylo}
+{8015}{}{poÅ¡kozeno natolik, Å¾e jej bylo nutno chirurgicky}
+{8016}{}{odstranit. Je zde ale jeÅ¡tÄ› nadÄ›je, Å¾e pokud poÅ¡kozenÃ©,}
+{8017}{}{ale stÃ¡le jeÅ¡tÄ› Å¾ivÃ© oko umÃ­stÃ­me do Biomed gelu, samo}
+{8018}{}{se zregeneruje. Doufejme, Å¾e jej budeme moci pozdÄ›ji}
+{8019}{}{opÄ›tovnÄ› implantovat. ExperimentÃ¡lnÃ­ Biomed gel se dÃ¡}
+{8020}{}{velice vhodnÄ› vyuÅ¾Ã­t ke stimulaci Å¾ivÃ½ch bunÄ›k, ale je}
+{8021}{}{velice neÅ¡Å¥astnÃ© testovat tento novÃ½ objev za tak}
+{8022}{}{nepÅ™Ã­jemnÃ½ch okolnostÃ­.}
 {8023}{}{**END-DISK**}
 {8024}{}{This experimental Biomed gel shows great}
 {8025}{}{promise in stimulating growth in living cells.}
 {8026}{}{It is, however, unfortunate to test this new gel}
 {8027}{}{under such circumstances.}
 {8028}{}{**END-DISK**}
-{9000}{}{9. èervence 2077}
-{9001}{}{Pøednostní vydání}
-{9002}{}{Všeobecné hlášení}
+{9000}{}{9. Äervence 2077}
+{9001}{}{PÅ™ednostnÃ­ vydÃ¡nÃ­}
+{9002}{}{VÅ¡eobecnÃ© hlÃ¡Å¡enÃ­}
 {9003}{}{}
-{9004}{}{Oznámení celému personálu. Evakuace Armádního skladu}
-{9005}{}{Sierra byla urychlena o jeden tıden. Do té doby musí}
-{9006}{}{bıt dokonèena instalace bezpeènostních a obrannıch}
-{9007}{}{systémù. Všechen personál se musí hlásit u vedoucích}
-{9008}{}{jednotlivıch oddìlení kvùli zmìnì rozkazù. Bìhem této}
-{9009}{}{doby bude bezpeènost velmi zesílena. Identifikaèní karty}
-{9010}{}{musí bıt neustále viditelnì nošeny.}
+{9004}{}{OznÃ¡menÃ­ celÃ©mu personÃ¡lu. Evakuace ArmÃ¡dnÃ­ho skladu}
+{9005}{}{Sierra byla urychlena o jeden tÃ½den. Do tÃ© doby musÃ­}
+{9006}{}{bÃ½t dokonÄena instalace bezpeÄnostnÃ­ch a obrannÃ½ch}
+{9007}{}{systÃ©mÅ¯. VÅ¡echen personÃ¡l se musÃ­ hlÃ¡sit u vedoucÃ­ch}
+{9008}{}{jednotlivÃ½ch oddÄ›lenÃ­ kvÅ¯li zmÄ›nÄ› rozkazÅ¯. BÄ›hem tÃ©to}
+{9009}{}{doby bude bezpeÄnost velmi zesÃ­lena. IdentifikaÄnÃ­ karty}
+{9010}{}{musÃ­ bÃ½t neustÃ¡le viditelnÄ› noÅ¡eny.}
 {9011}{}{at all times.}
 {9012}{}{}
 {9013}{}{**END-DISK**}
 {9014}{}{**END-DISK**}
 {10000}{}{Armadni sklad Sierra}
-{10001}{}{Záznam mise v letech 1942 - 1991}
-{10002}{}{Skladování a udrování obranného materiálu vojenského}
-{10003}{}{pùvodu. V pøípadì moné invaze musí Armádní sklad}
-{10004}{}{Sierra zajistit dodávky vybavení a materiálu nedalekım}
-{10005}{}{vojenskım bázím.}
-{10006}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
+{10001}{}{ZÃ¡znam mise v letech 1942 - 1991}
+{10002}{}{SkladovÃ¡nÃ­ a udrÅ¾ovÃ¡nÃ­ obrannÃ©ho materiÃ¡lu vojenskÃ©ho}
+{10003}{}{pÅ¯vodu. V pÅ™Ã­padÄ› moÅ¾nÃ© invaze musÃ­ ArmÃ¡dnÃ­ sklad}
+{10004}{}{Sierra zajistit dodÃ¡vky vybavenÃ­ a materiÃ¡lu nedalekÃ½m}
+{10005}{}{vojenskÃ½m bÃ¡zÃ­m.}
+{10006}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
 {10007}{}{Armadni sklad Sierra}
-{10008}{}{Záznam mise v letech 1992 - 2050}
-{10009}{}{Zodpovìdnost za likvidaci pøebyteèné munice, která je}
-{10010}{}{zastaralá nebo nevhodná pro vojenské úèely. O tyto}
-{10011}{}{úkoly se stará Prùmyslové operaèní støedisko (IOC) ve}
-{10012}{}{spolupráci s Agenturou na ochranu ivotního prostøedí}
-{10013}{}{(EPA), která zajišuje lepší a ekologiètìjší zpùsob}
-{10014}{}{likvidace vojenského materiálu.}
-{10015}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
+{10008}{}{ZÃ¡znam mise v letech 1992 - 2050}
+{10009}{}{ZodpovÄ›dnost za likvidaci pÅ™ebyteÄnÃ© munice, kterÃ¡ je}
+{10010}{}{zastaralÃ¡ nebo nevhodnÃ¡ pro vojenskÃ© ÃºÄely. O tyto}
+{10011}{}{Ãºkoly se starÃ¡ PrÅ¯myslovÃ© operaÄnÃ­ stÅ™edisko (IOC) ve}
+{10012}{}{spoluprÃ¡ci s Agenturou na ochranu Å¾ivotnÃ­ho prostÅ™edÃ­}
+{10013}{}{(EPA), kterÃ¡ zajiÅ¡Å¥uje lepÅ¡Ã­ a ekologiÄtÄ›jÅ¡Ã­ zpÅ¯sob}
+{10014}{}{likvidace vojenskÃ©ho materiÃ¡lu.}
+{10015}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
 {10016}{}{Armadni sklad Sierra}
-{10017}{}{Záznam mise v letech 2050 - 2076}
-{10018}{}{TAJNÉ}
-{10019}{}{Vyaduje 5. stupeò utajení}
-{10020}{}{Základna je neustále doplòována nejnovìjšími techno-}
-{10021}{}{logiemi a je pouívána jako tajné zaøízení pro vızkum a}
-{10022}{}{testování robotickıch, biologickıch a konvenèních}
-{10023}{}{zbraní.}
-{10024}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
+{10017}{}{ZÃ¡znam mise v letech 2050 - 2076}
+{10018}{}{TAJNÃ‰}
+{10019}{}{VyÅ¾aduje 5. stupeÅˆ utajenÃ­}
+{10020}{}{ZÃ¡kladna je neustÃ¡le doplÅˆovÃ¡na nejnovÄ›jÅ¡Ã­mi techno-}
+{10021}{}{logiemi a je pouÅ¾Ã­vÃ¡na jako tajnÃ© zaÅ™Ã­zenÃ­ pro vÃ½zkum a}
+{10022}{}{testovÃ¡nÃ­ robotickÃ½ch, biologickÃ½ch a konvenÄnÃ­ch}
+{10023}{}{zbranÃ­.}
+{10024}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
 {10025}{}{Armadni sklad Sierra}
-{10026}{}{Záznam mise roku 2077}
-{10027}{}{Díky nedostatku cvièeného personálu bude Armádní sklad}
-{10028}{}{Sierra modifikován na plnì automatickou obrannou}
+{10026}{}{ZÃ¡znam mise roku 2077}
+{10027}{}{DÃ­ky nedostatku cviÄenÃ©ho personÃ¡lu bude ArmÃ¡dnÃ­ sklad}
+{10028}{}{Sierra modifikovÃ¡n na plnÄ› automatickou obrannou}
 {10029}{}{personnel are to be relocated to neighboring}
 {10030}{}{installations or sent to the front line.}
 {10031}{}{**END-DISK**}
-{11000}{}{Díky stateènému duchu našich ozbrojenıch sil a našim}
-{11001}{}{Pøepis vysílání z 11. ledna 2073}
-{11002}{}{Zprávy dne na GNN. Díky finanènímu pøevratu se USA}
-{11003}{}{podaøilo jako prvnímu národu na svìtì èerpat z}
-{11004}{}{posledních svìtovıch zásob ropy. A doposud se myslelo,}
-{11005}{}{e jsou tyto zásoby ropy nedostupné díky tomu, e se}
-{11006}{}{loisko nachází tisíce stop pod hladinou Tichého oceánu.}
-{11007}{}{Se svìtovou zásobou ropy blíící se nule zapoèal závod}
-{11008}{}{o tom, kdo první vynalezne metodu, jak toto loisko}
-{11009}{}{vytìit. My z GNN jsme hrdí na to, e vám mùeme}
-{11010}{}{oznámit, e USA jsou prvním státem, kterému se to}
-{11011}{}{podaøilo a tím pádem prohlašuje tyto zásoby za majetek}
-{11012}{}{majetek Spojenıch státù. Jen tak dál, Ameriko!}
+{11000}{}{DÃ­ky stateÄnÃ©mu duchu naÅ¡ich ozbrojenÃ½ch sil a naÅ¡im}
+{11001}{}{PÅ™epis vysÃ­lÃ¡nÃ­ z 11. ledna 2073}
+{11002}{}{ZprÃ¡vy dne na GNN. DÃ­ky finanÄnÃ­mu pÅ™evratu se USA}
+{11003}{}{podaÅ™ilo jako prvnÃ­mu nÃ¡rodu na svÄ›tÄ› Äerpat z}
+{11004}{}{poslednÃ­ch svÄ›tovÃ½ch zÃ¡sob ropy. AÅ¾ doposud se myslelo,}
+{11005}{}{Å¾e jsou tyto zÃ¡soby ropy nedostupnÃ© dÃ­ky tomu, Å¾e se}
+{11006}{}{loÅ¾isko nachÃ¡zÃ­ tisÃ­ce stop pod hladinou TichÃ©ho oceÃ¡nu.}
+{11007}{}{Se svÄ›tovou zÃ¡sobou ropy blÃ­Å¾Ã­cÃ­ se nule zapoÄal zÃ¡vod}
+{11008}{}{o tom, kdo prvnÃ­ vynalezne metodu, jak toto loÅ¾isko}
+{11009}{}{vytÄ›Å¾it. My z GNN jsme hrdÃ­ na to, Å¾e vÃ¡m mÅ¯Å¾eme}
+{11010}{}{oznÃ¡mit, Å¾e USA jsou prvnÃ­m stÃ¡tem, kterÃ©mu se to}
+{11011}{}{podaÅ™ilo a tÃ­m pÃ¡dem prohlaÅ¡uje tyto zÃ¡soby za majetek}
+{11012}{}{majetek SpojenÃ½ch stÃ¡tÅ¯. Jen tak dÃ¡l, Ameriko!}
 {11013}{}{**END-PAR**}
-{11014}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
-{11015}{}{za podvod. Èínskı prezident Xin na to reagoval}
-{11016}{}{okamitım prohlášením, e projekt jejich tìebních vìí}
-{11017}{}{byl dokonèen mìsíce pøed uveøejnìním projektu USA,}
-{11018}{}{avšak èínské plošiny doprovázely neustálı øetìzec}
-{11019}{}{nešastnıch událostí, které tento projekt znaènì}
-{11020}{}{pozdrely. Prezident Xin také poznamenal, e má}
-{11021}{}{nezpochybnitelnı dùkaz o tom, e ve všech tìchto}
-{11022}{}{sabotáích mají prsty USA a oficiálnì poaduje}
-{11023}{}{prošetøení pøed mezinárodním soudem.}
+{11014}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
+{11015}{}{za podvod. ÄŒÃ­nskÃ½ prezident Xin na to reagoval}
+{11016}{}{okamÅ¾itÃ½m prohlÃ¡Å¡enÃ­m, Å¾e projekt jejich tÄ›Å¾ebnÃ­ch vÄ›Å¾Ã­}
+{11017}{}{byl dokonÄen mÄ›sÃ­ce pÅ™ed uveÅ™ejnÄ›nÃ­m projektu USA,}
+{11018}{}{avÅ¡ak ÄÃ­nskÃ© ploÅ¡iny doprovÃ¡zely neustÃ¡lÃ½ Å™etÄ›zec}
+{11019}{}{neÅ¡Å¥astnÃ½ch udÃ¡lostÃ­, kterÃ© tento projekt znaÄnÄ›}
+{11020}{}{pozdrÅ¾ely. Prezident Xin takÃ© poznamenal, Å¾e mÃ¡}
+{11021}{}{nezpochybnitelnÃ½ dÅ¯kaz o tom, Å¾e ve vÅ¡ech tÄ›chto}
+{11022}{}{sabotÃ¡Å¾Ã­ch majÃ­ prsty USA a oficiÃ¡lnÄ› poÅ¾aduje}
+{11023}{}{proÅ¡etÅ™enÃ­ pÅ™ed mezinÃ¡rodnÃ­m soudem.}
 {11024}{}{**END-PAR**}
-{11025}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
-{11026}{}{v souvislosti s nárùstem cen paliv. Zatím se nikdy v}
-{11027}{}{minulosti ceny nepohybovaly tak vysoko a všechny}
-{11028}{}{dosavadní rekordy byly u dávno pøekonány.}
+{11025}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
+{11026}{}{v souvislosti s nÃ¡rÅ¯stem cen paliv. ZatÃ­m se nikdy v}
+{11027}{}{minulosti ceny nepohybovaly tak vysoko a vÅ¡echny}
+{11028}{}{dosavadnÃ­ rekordy byly uÅ¾ dÃ¡vno pÅ™ekonÃ¡ny.}
 {11029}{}{**END-PAR**}
-{11030}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
-{11031}{}{Ve støedu kolem -3 a -5 st. C a na obou pobøeích}
-{11032}{}{-10 st. C. Obleète se dnes teple!}
+{11030}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
+{11031}{}{Ve stÅ™edu kolem -3 aÅ¾ -5 st. C a na obou pobÅ™eÅ¾Ã­ch}
+{11032}{}{-10 st. C. ObleÄte se dnes teple!}
 {11033}{}{**END-PAR**}
-{11034}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
-{11035}{}{Díky stateènému duchu našich ozbrojenıch sil a našim}
-{11036}{}{Jednání mezi Spojenımi státy a ostatními svìtovımi}
-{11037}{}{mocnostmi došly k dramatickému konci, kdy se prezident}
-{11038}{}{rozhodl uzavøít veškeré diskuze o ropì. Po prudké}
-{11039}{}{debatì se vyøítil ze zasedací místnosti a prohlásil,}
-{11040}{}{e poslední známı zdroj ropy bude vyuíván vıhradnì}
-{11041}{}{Spojenımi státy a ty nebudou v ádném pøípadì ropu}
-{11042}{}{prodávat dalším státùm ani s ní jinak obchodovat.}
-{11043}{}{Hrozby OSN padají na "neúrodnou" pùdu.}
+{11034}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
+{11035}{}{DÃ­ky stateÄnÃ©mu duchu naÅ¡ich ozbrojenÃ½ch sil a naÅ¡im}
+{11036}{}{JednÃ¡nÃ­ mezi SpojenÃ½mi stÃ¡ty a ostatnÃ­mi svÄ›tovÃ½mi}
+{11037}{}{mocnostmi doÅ¡ly k dramatickÃ©mu konci, kdyÅ¾ se prezident}
+{11038}{}{rozhodl uzavÅ™Ã­t veÅ¡kerÃ© diskuze o ropÄ›. Po prudkÃ©}
+{11039}{}{debatÄ› se vyÅ™Ã­til ze zasedacÃ­ mÃ­stnosti a prohlÃ¡sil,}
+{11040}{}{Å¾e poslednÃ­ znÃ¡mÃ½ zdroj ropy bude vyuÅ¾Ã­vÃ¡n vÃ½hradnÄ›}
+{11041}{}{SpojenÃ½mi stÃ¡ty a ty nebudou v Å¾Ã¡dnÃ©m pÅ™Ã­padÄ› ropu}
+{11042}{}{prodÃ¡vat dalÅ¡Ã­m stÃ¡tÅ¯m ani s nÃ­ jinak obchodovat.}
+{11043}{}{Hrozby OSN padajÃ­ na "neÃºrodnou" pÅ¯du.}
 {11044}{}{**END-PAR**}
-{11045}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
-{11046}{}{vyèerpání zásob ropy. Volání o pomoc však nezùstala}
-{11047}{}{vyslyšena, jeliko se vıvoz USA zdvacetinásobil a to i}
-{11048}{}{pøes sankce OSN. Zdá se, e ekonomika Spojenıch státù}
-{11049}{}{zaívá v souèasné dobì nejvyšší rùst od Reaganovy}
-{11050}{}{vlády.}
+{11045}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
+{11046}{}{vyÄerpÃ¡nÃ­ zÃ¡sob ropy. VolÃ¡nÃ­ o pomoc vÅ¡ak nezÅ¯stala}
+{11047}{}{vyslyÅ¡ena, jelikoÅ¾ se vÃ½voz USA zdvacetinÃ¡sobil a to i}
+{11048}{}{pÅ™es sankce OSN. ZdÃ¡ se, Å¾e ekonomika SpojenÃ½ch stÃ¡tÅ¯}
+{11049}{}{zaÅ¾Ã­vÃ¡ v souÄasnÃ© dobÄ› nejvyÅ¡Å¡Ã­ rÅ¯st od Reaganovy}
+{11050}{}{vlÃ¡dy.}
 {11051}{}{**END-PAR**}
-{11052}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
-{11053}{}{Díky stateènému duchu našich ozbrojenıch sil a našim}
-{11054}{}{Dnes se zmìnila historie Kanady. Veøejnım hlasováním}
-{11055}{}{jejich obèanù se stala dalším státem USA. Prezident}
-{11056}{}{na to reagoval prohlášením, e "Kanada je jedním z}
-{11057}{}{nejvìtších svìtovıch zdrojù hokejovıch hráèù" a její}
-{11058}{}{vstup do USA je vøele vítán. Proslıchá se, e Kanada}
-{11059}{}{obdrí celıch 10% svìtovıch zásob ropy kontrolovanıch}
-{11060}{}{pouze Spojenımi státy a rovnì dojde k okamitému}
-{11061}{}{sníení daní o 50%, jeliko nyní spadá pod americkou}
+{11052}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
+{11053}{}{DÃ­ky stateÄnÃ©mu duchu naÅ¡ich ozbrojenÃ½ch sil a naÅ¡im}
+{11054}{}{Dnes se zmÄ›nila historie Kanady. VeÅ™ejnÃ½m hlasovÃ¡nÃ­m}
+{11055}{}{jejich obÄanÅ¯ se stala dalÅ¡Ã­m stÃ¡tem USA. Prezident}
+{11056}{}{na to reagoval prohlÃ¡Å¡enÃ­m, Å¾e "Kanada je jednÃ­m z}
+{11057}{}{nejvÄ›tÅ¡Ã­ch svÄ›tovÃ½ch zdrojÅ¯ hokejovÃ½ch hrÃ¡ÄÅ¯" a jejÃ­}
+{11058}{}{vstup do USA je vÅ™ele vÃ­tÃ¡n. ProslÃ½chÃ¡ se, Å¾e Kanada}
+{11059}{}{obdrÅ¾Ã­ celÃ½ch 10% svÄ›tovÃ½ch zÃ¡sob ropy kontrolovanÃ½ch}
+{11060}{}{pouze SpojenÃ½mi stÃ¡ty a rovnÄ›Å¾ dojde k okamÅ¾itÃ©mu}
+{11061}{}{snÃ­Å¾enÃ­ danÃ­ o 50%, jelikoÅ¾ nynÃ­ spadÃ¡ pod americkou}
 {11062}{}{legislativu.}
 {11063}{}{**END-PAR**}
-{11064}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
-{11065}{}{své síly pøi závìreèném utkání SuperBowlu CXII. Bylo to}
-{11066}{}{opravdové drama, ale J. Montana IV zachránil tım}
-{11067}{}{krásnım únikem od 5 yardové èáry a zaznamenal tak}
-{11068}{}{vítìznı touchdown v posledních vteøinách hry.}
-{11069}{}{Koneèné skóre je 95 - 90. Anaheim Jets vyhráli}
+{11064}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
+{11065}{}{svÃ© sÃ­ly pÅ™i zÃ¡vÄ›reÄnÃ©m utkÃ¡nÃ­ SuperBowlu CXII. Bylo to}
+{11066}{}{opravdovÃ© drama, ale J. Montana IV zachrÃ¡nil tÃ½m}
+{11067}{}{krÃ¡snÃ½m Ãºnikem od 5 yardovÃ© ÄÃ¡ry a zaznamenal tak}
+{11068}{}{vÃ­tÄ›znÃ½ touchdown v poslednÃ­ch vteÅ™inÃ¡ch hry.}
+{11069}{}{KoneÄnÃ© skÃ³re je 95 - 90. Anaheim Jets vyhrÃ¡li}
 {11070}{}{Super Bowl CXII.}
 {11071}{}{**END-PAR**}
-{11072}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
-{11073}{}{Díky stateènému duchu našich ozbrojenıch sil a našim}
-{11074}{}{Jako omraèující dùkaz solidarity byl prezident jedno-}
-{11075}{}{hlasnì obvinìn z vlastizrady Snìmovnou reprezentantù a}
-{11076}{}{Kongresem. Obì komory konstatovaly, e se prezident}
-{11077}{}{nemùe povyšovat nad zákon a mìl by lépe zvaovat}
-{11078}{}{svá prohlášení. Obì strany popírají, e by to mìlo}
-{11079}{}{cokoliv spoleèného s nedávnım pøipojením Kanady.}
+{11072}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
+{11073}{}{DÃ­ky stateÄnÃ©mu duchu naÅ¡ich ozbrojenÃ½ch sil a naÅ¡im}
+{11074}{}{Jako omraÄujÃ­cÃ­ dÅ¯kaz solidarity byl prezident jedno-}
+{11075}{}{hlasnÄ› obvinÄ›n z vlastizrady SnÄ›movnou reprezentantÅ¯ a}
+{11076}{}{Kongresem. ObÄ› komory konstatovaly, Å¾e se prezident}
+{11077}{}{nemÅ¯Å¾e povyÅ¡ovat nad zÃ¡kon a mÄ›l by lÃ©pe zvaÅ¾ovat}
+{11078}{}{svÃ¡ prohlÃ¡Å¡enÃ­. ObÄ› strany popÃ­rajÃ­, Å¾e by to mÄ›lo}
+{11079}{}{cokoliv spoleÄnÃ©ho s nedÃ¡vnÃ½m pÅ™ipojenÃ­m Kanady.}
 {11080}{}{**END-PAR**}
-{11081}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
-{11082}{}{Díky stateènému duchu našich ozbrojenıch sil a našim}
-{11083}{}{Dnes prezident naøídil Pacifické flotile chránit hluboko-}
-{11084}{}{moøskou tìební plošinu Poseidon umístìnou na tajném}
-{11085}{}{místì v Pacifiku. Uvedl obavy o vojenské cvièení èínské}
-{11086}{}{flotily, která je "nebezpeènì blízko našim strategickım}
-{11087}{}{zásobám ropy." Èínská vláda popøela jakékoliv nepøá-}
-{11088}{}{telské úmysly.}
+{11081}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
+{11082}{}{DÃ­ky stateÄnÃ©mu duchu naÅ¡ich ozbrojenÃ½ch sil a naÅ¡im}
+{11083}{}{Dnes prezident naÅ™Ã­dil PacifickÃ© flotile chrÃ¡nit hluboko-}
+{11084}{}{moÅ™skou tÄ›Å¾ebnÃ­ ploÅ¡inu Poseidon umÃ­stÄ›nou na tajnÃ©m}
+{11085}{}{mÃ­stÄ› v Pacifiku. Uvedl obavy o vojenskÃ© cviÄenÃ­ ÄÃ­nskÃ©}
+{11086}{}{flotily, kterÃ¡ je "nebezpeÄnÄ› blÃ­zko naÅ¡im strategickÃ½m}
+{11087}{}{zÃ¡sobÃ¡m ropy." ÄŒÃ­nskÃ¡ vlÃ¡da popÅ™ela jakÃ©koliv nepÅ™Ã¡-}
+{11088}{}{telskÃ© Ãºmysly.}
 {11089}{}{**END-PAR**}
-{11090}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
-{11091}{}{prezident pouívá tuto diverzní taktiku, aby odvrátil}
-{11092}{}{pozornost veøejnosti od svıch neustále se opakujících}
-{11093}{}{nemanelskıch afér se stáistkami. Naše anketa rovnì}
-{11094}{}{ukazuje, e 70% respondentù tyto aféry nezajímá a jsou}
-{11095}{}{spokojeni s tím, jak Prezident stát øídí. Velkı poèet}
-{11096}{}{(60%) si také myslí, e si ve svıch aférách mùe dál}
-{11097}{}{pokraèovat, kdy to pomùe hladkému chodu státu.}
+{11090}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
+{11091}{}{prezident pouÅ¾Ã­vÃ¡ tuto diverznÃ­ taktiku, aby odvrÃ¡til}
+{11092}{}{pozornost veÅ™ejnosti od svÃ½ch neustÃ¡le se opakujÃ­cÃ­ch}
+{11093}{}{nemanÅ¾elskÃ½ch afÃ©r se stÃ¡Å¾istkami. NaÅ¡e anketa rovnÄ›Å¾}
+{11094}{}{ukazuje, Å¾e 70% respondentÅ¯ tyto afÃ©ry nezajÃ­mÃ¡ a jsou}
+{11095}{}{spokojeni s tÃ­m, jak Prezident stÃ¡t Å™Ã­dÃ­. VelkÃ½ poÄet}
+{11096}{}{(60%) si takÃ© myslÃ­, Å¾e si ve svÃ½ch afÃ©rÃ¡ch mÅ¯Å¾e dÃ¡l}
+{11097}{}{pokraÄovat, kdyÅ¾ to pomÅ¯Å¾e hladkÃ©mu chodu stÃ¡tu.}
 {11098}{}{**END-PAR**}
 {11099}{}{Galaxy News Network}
-{11100}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
-{11101}{}{Díky stateènému duchu našich ozbrojenıch sil a našim}
-{11102}{}{státy pøes Aljašku! Na protest proti nedávnım}
-{11103}{}{tahanicím okolo ropy se rozhodla rada OSN tento akt}
-{11104}{}{násilí ignorovat. Prezident Spojenıch státù VÁS volá}
-{11105}{}{do zbranì, abyste pomohli bránit naši zem proti tìm,}
-{11106}{}{kdo ji chtìjí znièit. JSTE vyzváni, abyste se}
-{11107}{}{dostavili do nejblišího náborového støediska a}
-{11108}{}{pøipojili se k ozbrojenım silám. Strıèek Sam VÁS}
-{11109}{}{potøebuje! Za právo a za svobodu!}
+{11100}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
+{11101}{}{DÃ­ky stateÄnÃ©mu duchu naÅ¡ich ozbrojenÃ½ch sil a naÅ¡im}
+{11102}{}{stÃ¡ty pÅ™es AljaÅ¡ku! Na protest proti nedÃ¡vnÃ½m}
+{11103}{}{tahanicÃ­m okolo ropy se rozhodla rada OSN tento akt}
+{11104}{}{nÃ¡silÃ­ ignorovat. Prezident SpojenÃ½ch stÃ¡tÅ¯ VÃS volÃ¡}
+{11105}{}{do zbranÄ›, abyste pomohli brÃ¡nit naÅ¡i zem proti tÄ›m,}
+{11106}{}{kdo ji chtÄ›jÃ­ zniÄit. JSTE vyzvÃ¡ni, abyste se}
+{11107}{}{dostavili do nejbliÅ¾Å¡Ã­ho nÃ¡borovÃ©ho stÅ™ediska a}
+{11108}{}{pÅ™ipojili se k ozbrojenÃ½m silÃ¡m. StrÃ½Äek Sam VÃS}
+{11109}{}{potÅ™ebuje! Za prÃ¡vo a za svobodu!}
 {11110}{}{**END-PAR**}
 {11111}{}{Galaxy News Network}
-{11112}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
-{11113}{}{Díky stateènému duchu našich ozbrojenıch sil a našim}
-{11114}{}{nejnovìjším typùm energo zbrojí odrazily naše jednotky}
-{11115}{}{èínské utlaèovatele. Kvùli nedostatku paliva byly}
-{11116}{}{nepøátelské jednotky zatlaèeny zpìt a do hlavního}
-{11117}{}{mìsta Peking.}
+{11112}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
+{11113}{}{DÃ­ky stateÄnÃ©mu duchu naÅ¡ich ozbrojenÃ½ch sil a naÅ¡im}
+{11114}{}{nejnovÄ›jÅ¡Ã­m typÅ¯m energo zbrojÃ­ odrazily naÅ¡e jednotky}
+{11115}{}{ÄÃ­nskÃ© utlaÄovatele. KvÅ¯li nedostatku paliva byly}
+{11116}{}{nepÅ™Ã¡telskÃ© jednotky zatlaÄeny zpÄ›t aÅ¾ do hlavnÃ­ho}
+{11117}{}{mÄ›sta Peking.}
 {11118}{}{**END-DISK**}
 {11119}{}{home capital of Beijing.}
 {11120}{}{**END-DISK**}
-{12000}{}{Vítej!}
-{12001}{}{Vítejte na holodisku Hubologistù! Na tìchto elektro-}
-{12002}{}{nickıch stránkách naleznete struènı popis naší víry}
-{12003}{}{vèetnì døíve potlaèovaného uèení Hubu. Tento holodisk}
-{12004}{}{není zamıšlen jako interpretace koneènıch slov o}
-{12005}{}{Hubologii - chápejte jej jako modlitební kníku a nás}
-{12006}{}{jako vaše duchovní stráce.}
-{12007}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
-{12008}{}{HLAVNÍ NABÍDKA}
+{12000}{}{VÃ­tej!}
+{12001}{}{VÃ­tejte na holodisku HubologistÅ¯! Na tÄ›chto elektro-}
+{12002}{}{nickÃ½ch strÃ¡nkÃ¡ch naleznete struÄnÃ½ popis naÅ¡Ã­ vÃ­ry}
+{12003}{}{vÄetnÄ› dÅ™Ã­ve potlaÄovanÃ©ho uÄenÃ­ Hubu. Tento holodisk}
+{12004}{}{nenÃ­ zamÃ½Å¡len jako interpretace koneÄnÃ½ch slov o}
+{12005}{}{Hubologii - chÃ¡pejte jej jako modlitebnÃ­ knÃ­Å¾ku a nÃ¡s}
+{12006}{}{jako vaÅ¡e duchovnÃ­ strÃ¡Å¾ce.}
+{12007}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
+{12008}{}{HLAVNÃ NABÃDKA}
 {12009}{}{Historie}
 {12010}{}{Filozofie}
-{12011}{}{Malı slovníèek pojmù}
+{12011}{}{MalÃ½ slovnÃ­Äek pojmÅ¯}
 {12012}{}{Bibliografie Hubu}
-{12013}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
+{12013}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
 {12014}{}{HISTORIE}
-{12015}{}{Byli jsme zaloeni stvoøitelem a vizionáøem velkého}
-{12016}{}{pøíslibu, muem jménem Dick Hubbell, ještì pøed Velkou}
-{12017}{}{Potopou. Vidìl úpadek lékaøství té doby, úpadek}
-{12018}{}{náboenství a úpadek vlády. Byl si vìdom toho, e svìt}
-{12019}{}{potøebuje zmìnu... e svìt potøebuje Hubologii.}
-{12020}{}{Inspirován hudbou vìkù a svou osobní zkušeností s mimo-}
-{12021}{}{zemskımi jevy, se nám Hubbell snail ze všech sil ukázat}
-{12022}{}{kola na obloze, udret jejich oheò a pomoci nám pochopit}
-{12023}{}{podstatu Velkého Kola ivota.}
-{12024}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
-{12025}{}{Nazıváme jej Hubem, jeliko je to on, jeho prostøed-}
-{12026}{}{nictvím chápeme naše umístìní v Kole - on je naším}
-{12027}{}{støedem a my jsme jeho paprsky. Obíháme okolo jeho}
-{12028}{}{vznešenıch pravd a uèení.}
-{12029}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
-{12030}{}{Po zveøejnìní nespoètu publikací, knih a urnálù zaèal}
-{12031}{}{Hub šíøit slova Hubologie - a okamitì se tím stal}
-{12032}{}{terèem pomlouvaèù a oèeròovatelù. Nazıvali jeho práci}
-{12033}{}{"pseudovìdou" a "nebezpeènou fanatièností, která mùe}
-{12034}{}{ublíit svım pøívrencùm". Navzdory mnoha prokázanım}
-{12035}{}{pozorováním mimozemskıch plavidel po celé Zemi, trvali}
-{12036}{}{na potlaèení a hanobení Hubovıch slov. Víme, e byli}
-{12037}{}{jednoduše zaslepení a hloupí, ale mìli moc. Pracovali}
-{12038}{}{ve vládách, v korporacích a v mnoha vlivnıch institucích,}
-{12039}{}{aby zabránili nejvìtším novinám všech dob, aby se}
-{12040}{}{dostali k obyvatelùm Zemì.}
-{12041}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
-{12042}{}{Hubologie byla po jistou dobu øízena z podsvìtí a}
-{12043}{}{koordinovala odtud své síly proti útokùm tìch, kteøí}
-{12044}{}{závidìli její jednoduchost a snadnost vyuití i pro}
-{12045}{}{bìného èlovìka. Kdy se nakonec Hubologisti té doby}
-{12046}{}{postavili na odpor, udìlali to stejnım zpùsobem jako ti,}
-{12047}{}{kteøí stáli proti nim - pronikli do organizací, které}
-{12048}{}{usilovaly o jejich znièení a vytvoøili "televizní" poøady}
-{12049}{}{za úèelem odhalení lí, kterımi vláda krmila lidi.}
-{12050}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
-{12051}{}{To zapøíèinilo rafinovanı protiútok vùèi našemu nábo-}
-{12052}{}{enství. Obyèejnı èlovìk mìl dùvod, proè o Hubologii}
-{12053}{}{pochybovat, protoe popírala uèení médií a my museli vést}
-{12054}{}{dlouhı boj proti tìm, kteøí nás nazıvali magory. Bìhem}
-{12055}{}{této doby bohuel velikı Hub zmizel.}
-{12056}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
-{12057}{}{S pevnım vìdomím, e Hub dospìl ke sjednocení s}
-{12058}{}{Nebeskım otcem a nyní pomáhá obrátit kosmické kolo}
-{12059}{}{naším smìrem a dosahuje vyššího stavu vìdomí, jsme}
-{12060}{}{zùstali pøesvìdèeni, e naše cesta byla tou správnou}
-{12061}{}{cestou. Postupnì jsme získávali pøívrence, z nich}
-{12062}{}{mnozí jednoduše chtìli vìøit, e nìkde tam venku je}
-{12063}{}{místo mnohem lepší, ne je tento svìt. Nabízeli jsme}
-{12064}{}{dùkazy ivota na jinıch planetách a filozofii, která}
-{12065}{}{nám umoòuje pochopit smysl a øád vesmíru. Po celé}
-{12066}{}{vìky k nám pøicházeli lidé zaujatí pravostí našich}
-{12067}{}{myšlenek. A prostı fakt, e jsme pøeili Velkou Potopu}
-{12068}{}{bez újmy, nás utvrzuje v tom, e se Velké Kolo toèí}
-{12069}{}{pro naše uèení!}
+{12015}{}{Byli jsme zaloÅ¾eni stvoÅ™itelem a vizionÃ¡Å™em velkÃ©ho}
+{12016}{}{pÅ™Ã­slibu, muÅ¾em jmÃ©nem Dick Hubbell, jeÅ¡tÄ› pÅ™ed Velkou}
+{12017}{}{Potopou. VidÄ›l Ãºpadek lÃ©kaÅ™stvÃ­ tÃ© doby, Ãºpadek}
+{12018}{}{nÃ¡boÅ¾enstvÃ­ a Ãºpadek vlÃ¡dy. Byl si vÄ›dom toho, Å¾e svÄ›t}
+{12019}{}{potÅ™ebuje zmÄ›nu... Å¾e svÄ›t potÅ™ebuje Hubologii.}
+{12020}{}{InspirovÃ¡n hudbou vÄ›kÅ¯ a svou osobnÃ­ zkuÅ¡enostÃ­ s mimo-}
+{12021}{}{zemskÃ½mi jevy, se nÃ¡m Hubbell snaÅ¾il ze vÅ¡ech sil ukÃ¡zat}
+{12022}{}{kola na obloze, udrÅ¾et jejich oheÅˆ a pomoci nÃ¡m pochopit}
+{12023}{}{podstatu VelkÃ©ho Kola Å½ivota.}
+{12024}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
+{12025}{}{NazÃ½vÃ¡me jej Hubem, jelikoÅ¾ je to on, jehoÅ¾ prostÅ™ed-}
+{12026}{}{nictvÃ­m chÃ¡peme naÅ¡e umÃ­stÄ›nÃ­ v Kole - on je naÅ¡Ã­m}
+{12027}{}{stÅ™edem a my jsme jeho paprsky. ObÃ­hÃ¡me okolo jeho}
+{12028}{}{vzneÅ¡enÃ½ch pravd a uÄenÃ­.}
+{12029}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
+{12030}{}{Po zveÅ™ejnÄ›nÃ­ nespoÄtu publikacÃ­, knih a Å¾urnÃ¡lÅ¯ zaÄal}
+{12031}{}{Hub Å¡Ã­Å™it slova Hubologie - a okamÅ¾itÄ› se tÃ­m stal}
+{12032}{}{terÄem pomlouvaÄÅ¯ a oÄerÅˆovatelÅ¯. NazÃ½vali jeho prÃ¡ci}
+{12033}{}{"pseudovÄ›dou" a "nebezpeÄnou fanatiÄnostÃ­, kterÃ¡ mÅ¯Å¾e}
+{12034}{}{ublÃ­Å¾it svÃ½m pÅ™Ã­vrÅ¾encÅ¯m". Navzdory mnoha prokÃ¡zanÃ½m}
+{12035}{}{pozorovÃ¡nÃ­m mimozemskÃ½ch plavidel po celÃ© Zemi, trvali}
+{12036}{}{na potlaÄenÃ­ a hanobenÃ­ HubovÃ½ch slov. VÃ­me, Å¾e byli}
+{12037}{}{jednoduÅ¡e zaslepenÃ­ a hloupÃ­, ale mÄ›li moc. Pracovali}
+{12038}{}{ve vlÃ¡dÃ¡ch, v korporacÃ­ch a v mnoha vlivnÃ½ch institucÃ­ch,}
+{12039}{}{aby zabrÃ¡nili nejvÄ›tÅ¡Ã­m novinÃ¡m vÅ¡ech dob, aby se}
+{12040}{}{dostali k obyvatelÅ¯m ZemÄ›.}
+{12041}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
+{12042}{}{Hubologie byla po jistou dobu Å™Ã­zena z podsvÄ›tÃ­ a}
+{12043}{}{koordinovala odtud svÃ© sÃ­ly proti ÃºtokÅ¯m tÄ›ch, kteÅ™Ã­}
+{12044}{}{zÃ¡vidÄ›li jejÃ­ jednoduchost a snadnost vyuÅ¾itÃ­ i pro}
+{12045}{}{bÄ›Å¾nÃ©ho ÄlovÄ›ka. KdyÅ¾ se nakonec Hubologisti tÃ© doby}
+{12046}{}{postavili na odpor, udÄ›lali to stejnÃ½m zpÅ¯sobem jako ti,}
+{12047}{}{kteÅ™Ã­ stÃ¡li proti nim - pronikli do organizacÃ­, kterÃ©}
+{12048}{}{usilovaly o jejich zniÄenÃ­ a vytvoÅ™ili "televiznÃ­" poÅ™ady}
+{12049}{}{za ÃºÄelem odhalenÃ­ lÅ¾Ã­, kterÃ½mi vlÃ¡da krmila lidi.}
+{12050}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
+{12051}{}{To zapÅ™Ã­Äinilo rafinovanÃ½ protiÃºtok vÅ¯Äi naÅ¡emu nÃ¡bo-}
+{12052}{}{Å¾enstvÃ­. ObyÄejnÃ½ ÄlovÄ›k mÄ›l dÅ¯vod, proÄ o Hubologii}
+{12053}{}{pochybovat, protoÅ¾e popÃ­rala uÄenÃ­ mÃ©diÃ­ a my museli vÃ©st}
+{12054}{}{dlouhÃ½ boj proti tÄ›m, kteÅ™Ã­ nÃ¡s nazÃ½vali magory. BÄ›hem}
+{12055}{}{tÃ©to doby bohuÅ¾el velikÃ½ Hub zmizel.}
+{12056}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
+{12057}{}{S pevnÃ½m vÄ›domÃ­m, Å¾e Hub dospÄ›l ke sjednocenÃ­ s}
+{12058}{}{NebeskÃ½m otcem a nynÃ­ pomÃ¡hÃ¡ obrÃ¡tit kosmickÃ© kolo}
+{12059}{}{naÅ¡Ã­m smÄ›rem a dosahuje vyÅ¡Å¡Ã­ho stavu vÄ›domÃ­, jsme}
+{12060}{}{zÅ¯stali pÅ™esvÄ›dÄeni, Å¾e naÅ¡e cesta byla tou sprÃ¡vnou}
+{12061}{}{cestou. PostupnÄ› jsme zÃ­skÃ¡vali pÅ™Ã­vrÅ¾ence, z nichÅ¾}
+{12062}{}{mnozÃ­ jednoduÅ¡e chtÄ›li vÄ›Å™it, Å¾e nÄ›kde tam venku je}
+{12063}{}{mÃ­sto mnohem lepÅ¡Ã­, neÅ¾ je tento svÄ›t. NabÃ­zeli jsme}
+{12064}{}{dÅ¯kazy Å¾ivota na jinÃ½ch planetÃ¡ch a filozofii, kterÃ¡}
+{12065}{}{nÃ¡m umoÅ¾Åˆuje pochopit smysl a Å™Ã¡d vesmÃ­ru. Po celÃ©}
+{12066}{}{vÄ›ky k nÃ¡m pÅ™ichÃ¡zeli lidÃ© zaujatÃ­ pravostÃ­ naÅ¡ich}
+{12067}{}{myÅ¡lenek. A prostÃ½ fakt, Å¾e jsme pÅ™eÅ¾ili Velkou Potopu}
+{12068}{}{bez Ãºjmy, nÃ¡s utvrzuje v tom, Å¾e se VelkÃ© Kolo toÄÃ­}
+{12069}{}{pro naÅ¡e uÄenÃ­!}
 {12070}{}{**END-PAR**}
-{12071}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
-{12072}{}{Hubologie oplıvá jednoduchou filozofií sestavenou z}
-{12073}{}{nejproslulejších náboenskıch a filozofickıch myšlenek}
-{12074}{}{na Zemi pøed Potopou - vìøíme, e ivot, vesmír a vše}
-{12075}{}{kolem nás mùe bıt symbolizováno otáèejícím se kolem.}
-{12076}{}{Vnìjší okraj kola zahrnuje ty, kteøí nerozumí našemu}
-{12077}{}{uèení a pravdì. Nazıváme je "špinavci", protoe Kolo}
-{12078}{}{se pøes nì otáèí a drtí je a oni nedoceòují a}
-{12079}{}{neváí si jeho chodu.}
+{12071}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
+{12072}{}{Hubologie oplÃ½vÃ¡ jednoduchou filozofiÃ­ sestavenou z}
+{12073}{}{nejproslulejÅ¡Ã­ch nÃ¡boÅ¾enskÃ½ch a filozofickÃ½ch myÅ¡lenek}
+{12074}{}{na Zemi pÅ™ed Potopou - vÄ›Å™Ã­me, Å¾e Å¾ivot, vesmÃ­r a vÅ¡e}
+{12075}{}{kolem nÃ¡s mÅ¯Å¾e bÃ½t symbolizovÃ¡no otÃ¡ÄejÃ­cÃ­m se kolem.}
+{12076}{}{VnÄ›jÅ¡Ã­ okraj kola zahrnuje ty, kteÅ™Ã­ nerozumÃ­ naÅ¡emu}
+{12077}{}{uÄenÃ­ a pravdÄ›. NazÃ½vÃ¡me je "Å¡pinavci", protoÅ¾e Kolo}
+{12078}{}{se pÅ™es nÄ› otÃ¡ÄÃ­ a drtÃ­ je a oni nedoceÅˆujÃ­ a}
+{12079}{}{nevÃ¡Å¾Ã­ si jeho chodu.}
 {12080}{}{**END-PAR**}
-{12081}{}{Ti, kteøí praktikují Hubologii, jsou Paprsky Kola.}
-{12082}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
-{12083}{}{usnadnit jeho otáèení. Ti, kteøí se podílejí na ovládání}
-{12084}{}{samotného kola, jsou nazıváni Huby - a pokud dobøe}
-{12085}{}{víme, bylo jenom velice málo Hubù, osvícenıch to jedincù,}
-{12086}{}{kteøí usilovali o zlepšení osudù svıch pozemskıch pøátel.}
+{12081}{}{Ti, kteÅ™Ã­ praktikujÃ­ Hubologii, jsou Paprsky Kola.}
+{12082}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
+{12083}{}{usnadnit jeho otÃ¡ÄenÃ­. Ti, kteÅ™Ã­ se podÃ­lejÃ­ na ovlÃ¡dÃ¡nÃ­}
+{12084}{}{samotnÃ©ho kola, jsou nazÃ½vÃ¡ni Huby - a pokud dobÅ™e}
+{12085}{}{vÃ­me, bylo jenom velice mÃ¡lo HubÅ¯, osvÃ­cenÃ½ch to jedincÅ¯,}
+{12086}{}{kteÅ™Ã­ usilovali o zlepÅ¡enÃ­ osudÅ¯ svÃ½ch pozemskÃ½ch pÅ™Ã¡tel.}
 {12087}{}{Na zakladatele Hubologie poukazujeme jako na TEN Hub,}
-{12088}{}{jeliko právì jeho uèení je nejpravdivìjší.}
+{12088}{}{jelikoÅ¾ prÃ¡vÄ› jeho uÄenÃ­ je nejpravdivÄ›jÅ¡Ã­.}
 {12089}{}{**END-PAR**}
-{12090}{}{Praxí našeho náboenství je jednoduché aplikování}
-{12091}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
-{12092}{}{pøívrenci k tomu, abychom srovnali vadné neurodyny,}
-{12093}{}{které zpùsobují disharmonii a nesoumìrnost kola. Toto}
-{12094}{}{nám umoòuje oèistit sebe sama a pøipravit se na sebe-}
-{12095}{}{poznání. Pouze a jen skrze sebepoznání mùeme uspìt a}
-{12096}{}{jen skrze sebepoznání dokáeme porozumìt naší pozici ve}
-{12097}{}{vesmíru a na Velkém Kole. Jen díky sebepoznání zjistíme,}
-{12098}{}{zda-li jsme dostateènì hodni pøistoupit k hnoucím}
-{12099}{}{prstenùm, které nás potkají na planetì Quetzel.}
+{12090}{}{PraxÃ­ naÅ¡eho nÃ¡boÅ¾enstvÃ­ je jednoduchÃ© aplikovÃ¡nÃ­}
+{12091}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
+{12092}{}{pÅ™Ã­vrÅ¾enci k tomu, abychom srovnali vadnÃ© neurodyny,}
+{12093}{}{kterÃ© zpÅ¯sobujÃ­ disharmonii a nesoumÄ›rnost kola. Toto}
+{12094}{}{nÃ¡m umoÅ¾Åˆuje oÄistit sebe sama a pÅ™ipravit se na sebe-}
+{12095}{}{poznÃ¡nÃ­. Pouze a jen skrze sebepoznÃ¡nÃ­ mÅ¯Å¾eme uspÄ›t a}
+{12096}{}{jen skrze sebepoznÃ¡nÃ­ dokÃ¡Å¾eme porozumÄ›t naÅ¡Ã­ pozici ve}
+{12097}{}{vesmÃ­ru a na VelkÃ©m Kole. Jen dÃ­ky sebepoznÃ¡nÃ­ zjistÃ­me,}
+{12098}{}{zda-li jsme dostateÄnÄ› hodni pÅ™istoupit k Å¾hnoucÃ­m}
+{12099}{}{prstenÅ¯m, kterÃ© nÃ¡s potkajÃ­ na planetÄ› Quetzel.}
 {12100}{}{**END-PAR**}
-{12101}{}{Povaujeme se za náboenství zkombinované s tou}
-{12102}{}{nejvyspìlejší vìdeckou technikou - øíkáme tomu vìdecká}
-{12103}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
-{12104}{}{zanedlouho øíkat!}
+{12101}{}{PovaÅ¾ujeme se za nÃ¡boÅ¾enstvÃ­ zkombinovanÃ© s tou}
+{12102}{}{nejvyspÄ›lejÅ¡Ã­ vÄ›deckou technikou - Å™Ã­kÃ¡me tomu vÄ›deckÃ¡}
+{12103}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
+{12104}{}{zanedlouho Å™Ã­kat!}
 {12105}{}{**END-PAR**}
-{12106}{}{Toto je pøíbìh našeho stvoøení:}
-{12107}{}{Pøed dávnımi vìky ili všichni v míru a vzájemné harmonii.}
-{12108}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
-{12109}{}{existující technologie byla bez pøedstavivosti. Byl to èas}
-{12110}{}{míru, tvoøivosti a srovnání. Poté ale nastaly Temné dny.}
-{12111}{}{Thrakazog Vımol zaèal uèit o dualismu tìla a mysli a}
-{12112}{}{rozdìlení ducha. Nastala válka. Duše a tìla byla bìhem}
-{12113}{}{Velké Války znièena a jejich ostatky se rozptılily po}
-{12114}{}{celém vesmíru. Velké Kolo se témìø oddìlilo od své}
-{12115}{}{existenèní nápravy a jeho paprsky se ve vyjedìnıch}
-{12116}{}{kolejích, které stvoøil Thrakazog, zlomily. Musel}
-{12117}{}{vzniknout novı ivot.}
+{12106}{}{Toto je pÅ™Ã­bÄ›h naÅ¡eho stvoÅ™enÃ­:}
+{12107}{}{PÅ™ed dÃ¡vnÃ½mi vÄ›ky Å¾ili vÅ¡ichni v mÃ­ru a vzÃ¡jemnÃ© harmonii.}
+{12108}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
+{12109}{}{existujÃ­cÃ­ technologie byla bez pÅ™edstavivosti. Byl to Äas}
+{12110}{}{mÃ­ru, tvoÅ™ivosti a srovnÃ¡nÃ­. PotÃ© ale nastaly TemnÃ© dny.}
+{12111}{}{Thrakazog VÃ½mol zaÄal uÄit o dualismu tÄ›la a mysli a}
+{12112}{}{rozdÄ›lenÃ­ ducha. Nastala vÃ¡lka. DuÅ¡e a tÄ›la byla bÄ›hem}
+{12113}{}{VelkÃ© VÃ¡lky zniÄena a jejich ostatky se rozptÃ½lily po}
+{12114}{}{celÃ©m vesmÃ­ru. VelkÃ© Kolo se tÃ©mÄ›Å™ oddÄ›lilo od svÃ©}
+{12115}{}{existenÄnÃ­ nÃ¡pravy a jeho paprsky se ve vyjeÅ¾dÄ›nÃ½ch}
+{12116}{}{kolejÃ­ch, kterÃ© stvoÅ™il Thrakazog, zlomily. Musel}
+{12117}{}{vzniknout novÃ½ Å¾ivot.}
 {12118}{}{**END-PAR**}
-{12119}{}{A také e vzniknul, na planetì Terra, stejnì jako na}
-{12120}{}{dalších planetách ve vesmíru. (My se zamìøujeme}
-{12121}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
-{12122}{}{vìøíme, e se nám a našim hvìzdnım bratrùm opìt podaøí}
-{12123}{}{zahojit zlomené paprsky Kola, musíme se nejdøíve}
-{12124}{}{soustøedit na to, abychom my sami byli uiteènımi}
-{12125}{}{paprsky.) Tento novı ivot byl zneèištìn èástmi duší}
-{12126}{}{mrtvıch, co vedlo k nenávisti a nepochopení a to vedlo}
-{12127}{}{k válkám na celém povrchu Terry a do onoho dne, kdy}
-{12128}{}{jeden vizionáø došel k myšlence, e jedinım zpùsobem, jak}
-{12129}{}{nastolit mír a porozumìní je oèistit tyto èásti duše od}
-{12130}{}{rysù lidského ducha. Oním vizionáøem byl Hub. Jeho}
-{12131}{}{oèišování pokraèuje dodnes.}
+{12119}{}{A takÃ© Å¾e vzniknul, na planetÄ› Terra, stejnÄ› jako na}
+{12120}{}{dalÅ¡Ã­ch planetÃ¡ch ve vesmÃ­ru. (My se zamÄ›Å™ujeme}
+{12121}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
+{12122}{}{vÄ›Å™Ã­me, Å¾e se nÃ¡m a naÅ¡im hvÄ›zdnÃ½m bratrÅ¯m opÄ›t podaÅ™Ã­}
+{12123}{}{zahojit zlomenÃ© paprsky Kola, musÃ­me se nejdÅ™Ã­ve}
+{12124}{}{soustÅ™edit na to, abychom my sami byli uÅ¾iteÄnÃ½mi}
+{12125}{}{paprsky.) Tento novÃ½ Å¾ivot byl zneÄiÅ¡tÄ›n ÄÃ¡stmi duÅ¡Ã­}
+{12126}{}{mrtvÃ½ch, coÅ¾ vedlo k nenÃ¡visti a nepochopenÃ­ a to vedlo}
+{12127}{}{k vÃ¡lkÃ¡m na celÃ©m povrchu Terry aÅ¾ do onoho dne, kdy}
+{12128}{}{jeden vizionÃ¡Å™ doÅ¡el k myÅ¡lence, Å¾e jedinÃ½m zpÅ¯sobem, jak}
+{12129}{}{nastolit mÃ­r a porozumÄ›nÃ­ je oÄistit tyto ÄÃ¡sti duÅ¡e od}
+{12130}{}{rysÅ¯ lidskÃ©ho ducha. OnÃ­m vizionÃ¡Å™em byl Hub. Jeho}
+{12131}{}{oÄiÅ¡Å¥ovÃ¡nÃ­ pokraÄuje dodnes.}
 {12132}{}{**END-PAR**}
-{12133}{}{MALİ SLOVNÍÈEK}
-{12134}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
-{12135}{}{mìøeny podle oèištìní vašich neurodynù, oèištìní od}
-{12136}{}{vaší základní negativní energie vašeho tìla a podle její}
-{12137}{}{pøemìny v mentální energii na pozitivní. Jakmile dosáhnete}
-{12138}{}{dostateènì vysoké úrovnì zetanové energie, mùete}
-{12139}{}{odcestovat na planetu Quetzel, nebo èekat a doufat, e}
-{12140}{}{bìhem vašeho ivota dojde k Povznesení.}
+{12133}{}{MALÃ SLOVNÃÄŒEK}
+{12134}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
+{12135}{}{mÄ›Å™eny podle oÄiÅ¡tÄ›nÃ­ vaÅ¡ich neurodynÅ¯, oÄiÅ¡tÄ›nÃ­ od}
+{12136}{}{vaÅ¡Ã­ zÃ¡kladnÃ­ negativnÃ­ energie vaÅ¡eho tÄ›la a podle jejÃ­}
+{12137}{}{pÅ™emÄ›ny v mentÃ¡lnÃ­ energii na pozitivnÃ­. Jakmile dosÃ¡hnete}
+{12138}{}{dostateÄnÄ› vysokÃ© ÃºrovnÄ› zetanovÃ© energie, mÅ¯Å¾ete}
+{12139}{}{odcestovat na planetu Quetzel, nebo Äekat a doufat, Å¾e}
+{12140}{}{bÄ›hem vaÅ¡eho Å¾ivota dojde k PovznesenÃ­.}
 {12141}{}{**END-PAR**}
-{12142}{}{Srovnání: Kdy je neurodyn zneèistìnı a udruje}
-{12143}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
-{12144}{}{Zeta-scanu na afektovaném neurodynu "srovnáme"}
-{12145}{}{úrovnì s univerzálním Kolem, oèisujíce jej tak od kazù.}
-{12146}{}{Kadopádnì pøíliš mnoho srovnání v jednu chvíli zraòuje}
+{12142}{}{SrovnÃ¡nÃ­: KdyÅ¾ je neurodyn zneÄistÄ›nÃ½ a udrÅ¾uje}
+{12143}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
+{12144}{}{Zeta-scanu na afektovanÃ©m neurodynu "srovnÃ¡me"}
+{12145}{}{ÃºrovnÄ› s univerzÃ¡lnÃ­m Kolem, oÄisÅ¥ujÃ­ce jej tak od kazÅ¯.}
+{12146}{}{KaÅ¾dopÃ¡dnÄ› pÅ™Ã­liÅ¡ mnoho srovnÃ¡nÃ­ v jednu chvÃ­li zraÅˆuje}
 {12147}{}{ducha.}
 {12148}{}{**END-PAR**}
-{12149}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
-{12150}{}{kdy hledaè získal ji tolik znalostí, e se stává vnitøní}
-{12151}{}{souèástí Velkého Kola a zanechává za sebou svoji}
-{12152}{}{pozemskou existenci. Nìkteøí z Osvícenıch zùstanou na}
-{12153}{}{Teøøe, aby dovedli ostatní do stavu milosti, aby nám}
-{12154}{}{ukázali, jak se dostat za Kolo našich vlastních ivotù.}
+{12149}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
+{12150}{}{kdy hledaÄ zÃ­skal jiÅ¾ tolik znalostÃ­, Å¾e se stÃ¡vÃ¡ vnitÅ™nÃ­}
+{12151}{}{souÄÃ¡stÃ­ VelkÃ©ho Kola a zanechÃ¡vÃ¡ za sebou svoji}
+{12152}{}{pozemskou existenci. NÄ›kteÅ™Ã­ z OsvÃ­cenÃ½ch zÅ¯stanou na}
+{12153}{}{TeÅ™Å™e, aby dovedli ostatnÃ­ do stavu milosti, aby nÃ¡m}
+{12154}{}{ukÃ¡zali, jak se dostat za Kolo naÅ¡ich vlastnÃ­ch Å¾ivotÅ¯.}
 {12155}{}{**END-PAR**}
-{12156}{}{Velké Kolo: Jedná se o opakující se podstatu vesmíru,}
-{12157}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
-{12158}{}{Existují jedinci, kteøí mùou pøevzít kontrolu nad}
-{12159}{}{Kolem - nebo moná jen rozumí smìru a cestì, po které}
-{12160}{}{cestuje - a ty nazıváme bohy, proroky a vizionáøi. Ti,}
-{12161}{}{jen ovládnou Velké Kolo, jsou opravdu osvícení.}
+{12156}{}{VelkÃ© Kolo: JednÃ¡ se o opakujÃ­cÃ­ se podstatu vesmÃ­ru,}
+{12157}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
+{12158}{}{ExistujÃ­ jedinci, kteÅ™Ã­ mÅ¯Å¾ou pÅ™evzÃ­t kontrolu nad}
+{12159}{}{Kolem - nebo moÅ¾nÃ¡ jen rozumÃ­ smÄ›ru a cestÄ›, po kterÃ©}
+{12160}{}{cestuje - a ty nazÃ½vÃ¡me bohy, proroky a vizionÃ¡Å™i. Ti,}
+{12161}{}{jenÅ¾ ovlÃ¡dnou VelkÃ© Kolo, jsou opravdu osvÃ­cenÃ­.}
 {12162}{}{**END-PAR**}
-{12163}{}{Neurodyn: Neurodyny jsou duchovní postavení. Staro-}
-{12164}{}{dávná náboenství je nazıvala "èakry". Mohou bıt}
-{12165}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
-{12166}{}{z utlaèovatelù.}
+{12163}{}{Neurodyn: Neurodyny jsou duchovnÃ­ postavenÃ­. Staro-}
+{12164}{}{dÃ¡vnÃ¡ nÃ¡boÅ¾enstvÃ­ je nazÃ½vala "Äakry". Mohou bÃ½t}
+{12165}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
+{12166}{}{z utlaÄovatelÅ¯.}
 {12167}{}{**END-PAR**}
-{12168}{}{Utlaèovatelé: Utlaèovatelé jsou jedinci, kteøí oplıvají}
-{12169}{}{takovım mnostvím negativní energie a zneèištìnıch}
-{12170}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
-{12171}{}{cenství v jejich blízkosti. Je tøeba se jim vyhıbat -}
-{12172}{}{mnoho z nich je natolik poskvrnìno, e neuznávají}
-{12173}{}{hodnotu skrytou v dobrém oèištìní a ze všech sil se}
-{12174}{}{snaí odklonit kurz Velkého Kola.}
+{12168}{}{UtlaÄovatelÃ©: UtlaÄovatelÃ© jsou jedinci, kteÅ™Ã­ oplÃ½vajÃ­}
+{12169}{}{takovÃ½m mnoÅ¾stvÃ­m negativnÃ­ energie a zneÄiÅ¡tÄ›nÃ½ch}
+{12170}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
+{12171}{}{censtvÃ­ v jejich blÃ­zkosti. Je tÅ™eba se jim vyhÃ½bat -}
+{12172}{}{mnoho z nich je natolik poskvrnÄ›no, Å¾e neuznÃ¡vajÃ­}
+{12173}{}{hodnotu skrytou v dobrÃ©m oÄiÅ¡tÄ›nÃ­ a ze vÅ¡ech sil se}
+{12174}{}{snaÅ¾Ã­ odklonit kurz VelkÃ©ho Kola.}
 {12175}{}{**END-PAR**}
-{12176}{}{Quetzel: Planeta, na kterou nás dovede Hvìzdnı otec,}
-{12177}{}{jakmile se staneme Optimalizovanımi. Tam se setkáme}
-{12178}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
-{12179}{}{ohnivıch kolech na obloze.}
+{12176}{}{Quetzel: Planeta, na kterou nÃ¡s dovede HvÄ›zdnÃ½ otec,}
+{12177}{}{jakmile se staneme OptimalizovanÃ½mi. Tam se setkÃ¡me}
+{12178}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
+{12179}{}{ohnivÃ½ch kolech na obloze.}
 {12180}{}{**END-PAR**}
-{12181}{}{Špinavec: Základní osoba, ten, kdo prozatím nebyl}
-{12182}{}{srovnán, aby oèistil své neurodyny.}
-{12183}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
-{12184}{}{Hvìzdnı otec: Nìkteøí by Hvìzdného otce nazvali}
-{12185}{}{"bohem". My ale upøednostòujeme smıšlet o Hvìzdném}
-{12186}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
-{12187}{}{a kterou na oplátku ivíme svojí energií - opìt jde o}
-{12188}{}{cyklickı vztah.}
+{12181}{}{Å pinavec: ZÃ¡kladnÃ­ osoba, ten, kdo prozatÃ­m nebyl}
+{12182}{}{srovnÃ¡n, aby oÄistil svÃ© neurodyny.}
+{12183}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
+{12184}{}{HvÄ›zdnÃ½ otec: NÄ›kteÅ™Ã­ by HvÄ›zdnÃ©ho otce nazvali}
+{12185}{}{"bohem". My ale upÅ™ednostÅˆujeme smÃ½Å¡let o HvÄ›zdnÃ©m}
+{12186}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
+{12187}{}{a kterou na oplÃ¡tku Å¾ivÃ­me svojÃ­ energiÃ­ - opÄ›t jde o}
+{12188}{}{cyklickÃ½ vztah.}
 {12189}{}{**END-PAR**}
-{12190}{}{Povznesení: Doba, kdy nás Hvìzdnı otec volá na planetu}
-{12191}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
-{12192}{}{a pøiblííme se støedu Velkého Kola. Ti, jen projevili}
-{12193}{}{velkou snahu porozumìt a pøijmout velká slova Hubu,}
-{12194}{}{a u je jejich AHS úroveò jakákoliv, budou pozváni}
-{12195}{}{do nebes na planetu Quetzel, aby se pøipojili k našemu}
-{12196}{}{Hvìzdnému otci.}
+{12190}{}{PovznesenÃ­: Doba, kdy nÃ¡s HvÄ›zdnÃ½ otec volÃ¡ na planetu}
+{12191}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
+{12192}{}{a pÅ™iblÃ­Å¾Ã­me se stÅ™edu VelkÃ©ho Kola. Ti, jenÅ¾ projevili}
+{12193}{}{velkou snahu porozumÄ›t a pÅ™ijmout velkÃ¡ slova Hubu,}
+{12194}{}{aÅ¥ uÅ¾ je jejich AHS ÃºroveÅˆ jakÃ¡koliv, budou pozvÃ¡ni}
+{12195}{}{do nebes na planetu Quetzel, aby se pÅ™ipojili k naÅ¡emu}
+{12196}{}{HvÄ›zdnÃ©mu otci.}
 {12197}{}{**END-PAR**}
-{12198}{}{Zeta sken: Jinı vıraz pro "srovnání". Zeta sken}
-{12199}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
-{12200}{}{Skládá se z pøístroje, kterı do vašeho tìla pouští}
-{12201}{}{masivní dávky elektøiny - tato elektøina byla pøesnì}
-{12202}{}{zkalibrována na volt a peèlivì zformována do mnoství,}
-{12203}{}{které je potøebné k odstranìní negativní energie z}
-{12204}{}{neurodynu. Podstoupením Zeta skenu je váš kurz lehce}
-{12205}{}{napraven, aby se více shodoval s pohybem Velkého kola.}
+{12198}{}{Zeta sken: JinÃ½ vÃ½raz pro "srovnÃ¡nÃ­". Zeta sken}
+{12199}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
+{12200}{}{SklÃ¡dÃ¡ se z pÅ™Ã­stroje, kterÃ½ do vaÅ¡eho tÄ›la pouÅ¡tÃ­}
+{12201}{}{masivnÃ­ dÃ¡vky elektÅ™iny - tato elektÅ™ina byla pÅ™esnÄ›}
+{12202}{}{zkalibrovÃ¡na na volt a peÄlivÄ› zformovÃ¡na do mnoÅ¾stvÃ­,}
+{12203}{}{kterÃ© je potÅ™ebnÃ© k odstranÄ›nÃ­ negativnÃ­ energie z}
+{12204}{}{neurodynu. PodstoupenÃ­m Zeta skenu je vÃ¡Å¡ kurz lehce}
+{12205}{}{napraven, aby se vÃ­ce shodoval s pohybem VelkÃ©ho kola.}
 {12206}{}{**END-PAR**}
 {12207}{}{BIBLIOGRAFIE}
 {12208}{}{Knihy Hubu}
-{12209}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
-{12210}{}{slavnıch titulù jako: Vìdecká spiritualita, Bojištì}
-{12211}{}{Quetzel, Hvìzdnı otec nad námi, Kolekce nákupních}
-{12212}{}{seznamù, Poznámky a úvahy, Jak úspìšnì alovat své}
-{12213}{}{nepøátele, Jak vytvoøit kult a budoucí knihy, které}
-{12214}{}{budou napsány, a budu mrtev.)}
+{12209}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
+{12210}{}{slavnÃ½ch titulÅ¯ jako: VÄ›deckÃ¡ spiritualita, BojiÅ¡tÄ›}
+{12211}{}{Quetzel, HvÄ›zdnÃ½ otec nad nÃ¡mi, Kolekce nÃ¡kupnÃ­ch}
+{12212}{}{seznamÅ¯, PoznÃ¡mky a Ãºvahy, Jak ÃºspÄ›Å¡nÄ› Å¾alovat svÃ©}
+{12213}{}{nepÅ™Ã¡tele, Jak vytvoÅ™it kult a budoucÃ­ knihy, kterÃ©}
+{12214}{}{budou napsÃ¡ny, aÅ¾ budu mrtev.)}
 {12215}{}{**END-DISK**}
 {12216}{}{Enemies Effectively, How to Create a Cult, and Future }
 {12217}{}{Books to be Written When I'm Dead.)}
 {12218}{}{**END-DISK**}
-{13000}{}{POZNÁMKY TVÙRCE VAULT CITY}
-{13001}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
-{13002}{}{Mìsto Vault City prošlo mnoha podobami. Bylo navreno}
+{13000}{}{POZNÃMKY TVÅ®RCE VAULT CITY}
+{13001}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
+{13002}{}{MÄ›sto Vault City proÅ¡lo mnoha podobami. Bylo navrÅ¾eno}
 {13003}{}{Leonardem Boyarskym, Jasonem Andersonem, Feargusem}
-{13004}{}{Urquhartem a Chrisem Avellonem. Scott Everts vytvoøil}
-{13005}{}{mapy a tìmi šastnımi mui, kteøí tohoto architekto-}
-{13006}{}{nického Frankensteina naskriptovali, byli Rob Herten-}
-{13007}{}{stein III a Dan Spitzley. A na závìr - Eric Pribley málem}
-{13008}{}{pøišel o ivot, kdy tuto monstróznost celou testoval.}
-{13009}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
-{13010}{}{Chris by rád podìkoval tìmto lidem, kteøí mu bìhem}
+{13004}{}{Urquhartem a Chrisem Avellonem. Scott Everts vytvoÅ™il}
+{13005}{}{mapy a tÄ›mi Å¡Å¥astnÃ½mi muÅ¾i, kteÅ™Ã­ tohoto architekto-}
+{13006}{}{nickÃ©ho Frankensteina naskriptovali, byli Rob Herten-}
+{13007}{}{stein III a Dan Spitzley. A na zÃ¡vÄ›r - Eric Pribley mÃ¡lem}
+{13008}{}{pÅ™iÅ¡el o Å¾ivot, kdyÅ¾ tuto monstrÃ³znost celou testoval.}
+{13009}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
+{13010}{}{Chris by rÃ¡d podÄ›koval tÄ›mto lidem, kteÅ™Ã­ mu bÄ›hem}
 {13011}{}{tvorby Falloutu 2 pomohli: Rob, Scotty a Dan (samo-}
-{13012}{}{zøejmì), Eileen Suhová, Sarah Smartová, Emily Yanceová,}
-{13013}{}{Thuy Dang (tomu jsem nikdy za nic nepodìkoval), Chrisu}
+{13012}{}{zÅ™ejmÄ›), Eileen SuhovÃ¡, Sarah SmartovÃ¡, Emily YanceovÃ¡,}
+{13013}{}{Thuy Dang (tomu jsem nikdy za nic nepodÄ›koval), Chrisu}
 {13014}{}{Wrightovi a Timu Winkleovi.}
-{13015}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
-{13016}{}{Scotty by rád podìkoval tìmto lidem: Donu a Aileen}
-{13017}{}{Evertsovım a Avisi Andremu. A velkı dík Billu Bridgesovi}
-{13018}{}{za všechny ty skvìlé Fading Suns kníky!}
-{13019}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
-{13020}{}{Dan by rád podìkoval tìmto lidem:}
-{13021}{}{Split Enzové za vynikající melodie, Jamesi Cameronovi za}
-{13022}{}{Pravdivé li, Joe Viskocilovi za jeho bombastické exploze,}
-{13023}{}{restauraci Chong's na Triangle Square za to, e mì ivili,}
-{13024}{}{Carlosi Kotkinovi za to, e to koneènì vydal (nìkdy v}
-{13025}{}{tìchto dnech by se mìla pouštìt premiéra jeho prvního}
-{13026}{}{filmu), Jonu Landovi za jeho zábavné novely o Blaine}
-{13027}{}{McCrakenovi, Èervenému trpaslíkovi za jeho humor a}
-{13028}{}{nakonec - jako ostatnì vdycky - mámì a tátovi za to,}
-{13029}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
+{13015}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
+{13016}{}{Scotty by rÃ¡d podÄ›koval tÄ›mto lidem: Donu a Aileen}
+{13017}{}{EvertsovÃ½m a Avisi Andremu. A velkÃ½ dÃ­k Billu Bridgesovi}
+{13018}{}{za vÅ¡echny ty skvÄ›lÃ© Fading Suns knÃ­Å¾ky!}
+{13019}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
+{13020}{}{Dan by rÃ¡d podÄ›koval tÄ›mto lidem:}
+{13021}{}{Split EnzovÃ© za vynikajÃ­cÃ­ melodie, Jamesi Cameronovi za}
+{13022}{}{PravdivÃ© lÅ¾i, Joe Viskocilovi za jeho bombastickÃ© exploze,}
+{13023}{}{restauraci Chong's na Triangle Square za to, Å¾e mÄ› Å¾ivili,}
+{13024}{}{Carlosi Kotkinovi za to, Å¾e to koneÄnÄ› vydal (nÄ›kdy v}
+{13025}{}{tÄ›chto dnech by se mÄ›la pouÅ¡tÄ›t premiÃ©ra jeho prvnÃ­ho}
+{13026}{}{filmu), Jonu Landovi za jeho zÃ¡bavnÃ© novely o Blaine}
+{13027}{}{McCrakenovi, ÄŒervenÃ©mu trpaslÃ­kovi za jeho humor a}
+{13028}{}{nakonec - jako ostatnÄ› vÅ¾dycky - mÃ¡mÄ› a tÃ¡tovi za to,}
+{13029}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
 {13030}{}{**END-PAR**}
-{13031}{}{Rob Hertenstein by rád podìkoval tìmto lidem:}
-{13032}{}{Becky Warnerové (poøád se mì snaí dret dál problémù),}
-{13033}{}{Billie Ryderové (za to, e mì bìhem tohoto projektu}
-{13034}{}{drela pøi smyslech), malému Ryderovi (kterı se má}
-{13035}{}{narodit ve stejnou dobu, kdy má hra vyjít) a Nicole}
-{13036}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
+{13031}{}{Rob Hertenstein by rÃ¡d podÄ›koval tÄ›mto lidem:}
+{13032}{}{Becky WarnerovÃ© (poÅ™Ã¡d se mÄ› snaÅ¾Ã­ drÅ¾et dÃ¡l problÃ©mÅ¯),}
+{13033}{}{Billie RyderovÃ© (za to, Å¾e mÄ› bÄ›hem tohoto projektu}
+{13034}{}{drÅ¾ela pÅ™i smyslech), malÃ©mu Ryderovi (kterÃ½ se mÃ¡}
+{13035}{}{narodit ve stejnou dobu, kdy mÃ¡ hra vyjÃ­t) a Nicole}
+{13036}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
 {13037}{}{**END-PAR**}
-{13038}{}{Eric Pribish by rád podìkoval tìmto lidem:}
+{13038}{}{Eric Pribish by rÃ¡d podÄ›koval tÄ›mto lidem:}
 {13039}{}{Tommymu Hoodovi, Jr., Joe Isipovi a Julio Matovi za to,}
-{13040}{}{e se na mì nevykašlali, kdy jsem nechal Draèáka, mım}
-{13041}{}{starım pøátelùm Bradu a Davovi Carnesovım za pøátel-}
-{13042}{}{ství (všechny ty roky)a koneènì, asi nejdùleitìjší}
-{13043}{}{osobì, mému milujícímu dìvèeti Rhondì Laufferové za to,}
-{13044}{}{e mìla pochopení pro všechny ty dlouhé noci a víkendy,}
-{13045}{}{kdy jsem mìl moc práce a e tu byla vdy, kdy jsem se}
-{13046}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
+{13040}{}{Å¾e se na mÄ› nevykaÅ¡lali, kdyÅ¾ jsem nechal DraÄÃ¡ka, mÃ½m}
+{13041}{}{starÃ½m pÅ™Ã¡telÅ¯m Bradu a Davovi CarnesovÃ½m za pÅ™Ã¡tel-}
+{13042}{}{stvÃ­ (vÅ¡echny ty roky)a koneÄnÄ›, asi nejdÅ¯leÅ¾itÄ›jÅ¡Ã­}
+{13043}{}{osobÄ›, mÃ©mu milujÃ­cÃ­mu dÄ›vÄeti RhondÄ› LaufferovÃ© za to,}
+{13044}{}{Å¾e mÄ›la pochopenÃ­ pro vÅ¡echny ty dlouhÃ© noci a vÃ­kendy,}
+{13045}{}{kdy jsem mÄ›l moc prÃ¡ce a Å¾e tu byla vÅ¾dy, kdyÅ¾ jsem se}
+{13046}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
 {13047}{}{**END-PAR**}
-{13048}{}{Jako odmìna za znièení Enklávy by Chris, Scotty,}
-{13049}{}{Rob, Dan, a Eric rádi vyuili této pøíleitosti, aby ti}
-{13050}{}{sdìlili, e máš jít k poèítaèovému terminálu v levém}
-{13051}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
+{13048}{}{Jako odmÄ›na za zniÄenÃ­ EnklÃ¡vy by Chris, Scotty,}
+{13049}{}{Rob, Dan, a Eric rÃ¡di vyuÅ¾ili tÃ©to pÅ™Ã­leÅ¾itosti, aby ti}
+{13050}{}{sdÄ›lili, Å¾e mÃ¡Å¡ jÃ­t k poÄÃ­taÄovÃ©mu terminÃ¡lu v levÃ©m}
+{13051}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
 {13052}{}{**END-PAR**}
-{13053}{}{Gratulujeme, zachránil jsi svìt. A ještì jednou dìkujeme}
+{13053}{}{Gratulujeme, zachrÃ¡nil jsi svÄ›t. A jeÅ¡tÄ› jednou dÄ›kujeme}
 {13054}{}{**END-DISK**}
-{14000}{}{VAULT CITY - CESTOVNÍ ZÁZNAM SEVERNÍ KALIFORNIE}
-{14001}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
-{14002}{}{VAROVÁNÍ: Pokud obèané Vault City uznají za nezbytné}
-{14003}{}{opustit mìsto, nemìli by opomenout si s sebou vzít vìci}
+{14000}{}{VAULT CITY - CESTOVNÃ ZÃZNAM SEVERNÃ KALIFORNIE}
+{14001}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
+{14002}{}{VAROVÃNÃ: Pokud obÄanÃ© Vault City uznajÃ­ za nezbytnÃ©}
+{14003}{}{opustit mÄ›sto, nemÄ›li by opomenout si s sebou vzÃ­t vÄ›ci}
 {14004}{}{z tohoto seznamu:}
 {14005}{}{}
-{14006}{}{1. Zásobu balíèkù potravin Vault City. Nikdy nejezte}
-{14007}{}{   ádné jídlo nabídnuté cizincem, jinak se do vašeho}
-{14008}{}{   trávícího systému dostanou bakterie a radioaktivní}
-{14009}{}{   peèné látky!}
+{14006}{}{1. ZÃ¡sobu balÃ­ÄkÅ¯ potravin Vault City. Nikdy nejezte}
+{14007}{}{   Å¾Ã¡dnÃ© jÃ­dlo nabÃ­dnutÃ© cizincem, jinak se do vaÅ¡eho}
+{14008}{}{   trÃ¡vÃ­cÃ­ho systÃ©mu dostanou bakterie a radioaktivnÃ­}
+{14009}{}{   peÄnÃ© lÃ¡tky!}
 {14010}{}{}
-{14011}{}{2. Geigerùv poèítaè, kterım mùete neustále monitorovat}
-{14012}{}{   radioaktivitu kamkoliv pùjdete!}
+{14011}{}{2. GeigerÅ¯v poÄÃ­taÄ, kterÃ½m mÅ¯Å¾ete neustÃ¡le monitorovat}
+{14012}{}{   radioaktivitu kamkoliv pÅ¯jdete!}
 {14013}{}{}
-{14014}{}{3. Alespoò dva Stimpaky. Jakımkoliv drobnım øíznutím}
-{14015}{}{   èi škrábnutím se mùou do vašeho tìla dostat nebez-}
-{14016}{}{   peèné látky!}
-{14017}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
-{14018}{}{REDDING: Malé hornické mìsto nacházející se na západ od}
-{14019}{}{Vault City. Redding mìní zlatou rudu za lékaøské vyba-}
-{14020}{}{vení Vault City. Všichni Obyvatelé Vault City by se mìli}
-{14021}{}{mít na velikém pozoru pøi vstupu do Reddingu, jeliko}
-{14022}{}{místní horníci neuznávají ádnou autoritu.}
+{14014}{}{3. AlespoÅˆ dva Stimpaky. JakÃ½mkoliv drobnÃ½m Å™Ã­znutÃ­m}
+{14015}{}{   Äi Å¡krÃ¡bnutÃ­m se mÅ¯Å¾ou do vaÅ¡eho tÄ›la dostat nebez-}
+{14016}{}{   peÄnÃ© lÃ¡tky!}
+{14017}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
+{14018}{}{REDDING: MalÃ© hornickÃ© mÄ›sto nachÃ¡zejÃ­cÃ­ se na zÃ¡pad od}
+{14019}{}{Vault City. Redding mÄ›nÃ­ zlatou rudu za lÃ©kaÅ™skÃ© vyba-}
+{14020}{}{venÃ­ Vault City. VÅ¡ichni ObyvatelÃ© Vault City by se mÄ›li}
+{14021}{}{mÃ­t na velikÃ©m pozoru pÅ™i vstupu do Reddingu, jelikoÅ¾}
+{14022}{}{mÃ­stnÃ­ hornÃ­ci neuznÃ¡vajÃ­ Å¾Ã¡dnou autoritu.}
 {14023}{}{governed.}
 {14024}{}{}
-{14025}{}{je v Reddinu nìkolik set obyvatel.}
-{14026}{}{VLÁDA: Starosta a mìstská rada.}
-{14027}{}{MÍRA RADIOAKTIVNÍHO ZAMOØENÍ: Aktuální mìøení nejsou}
-{14028}{}{se pravdìpodobnì nachází spoustu rùznıch druhù mutací.}
-{14029}{}{BROKEN HILLS: Malé hornické mìsto na jih od Vault City}
-{14030}{}{NEW CALIFORNIA REPUBLIC: Teritorium NCR se nachází}
-{14031}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
-{14032}{}{za lékaøské vybavení z Vault City. Reno utrpìlo bìhem}
-{14033}{}{války jen malé poškození (i kdy plenìní a škody na}
-{14034}{}{majetku si vybraly svoji daò), take mnoho ulic a budov}
-{14035}{}{zùstalo nedotèeno. Varování! Neexistuje zde ádná}
-{14036}{}{vládní instituce ani zákon. Hazard, prostituce a uívání}
-{14037}{}{drog jsou zde na denním poøádku. Obyvatelé Vault City}
+{14025}{}{je v Reddinu nÄ›kolik set obyvatel.}
+{14026}{}{VLÃDA: Starosta a mÄ›stskÃ¡ rada.}
+{14027}{}{MÃRA RADIOAKTIVNÃHO ZAMOÅ˜ENÃ: AktuÃ¡lnÃ­ mÄ›Å™enÃ­ nejsou}
+{14028}{}{se pravdÄ›podobnÄ› nachÃ¡zÃ­ spoustu rÅ¯znÃ½ch druhÅ¯ mutacÃ­.}
+{14029}{}{BROKEN HILLS: MalÃ© hornickÃ© mÄ›sto na jih od Vault City}
+{14030}{}{NEW CALIFORNIA REPUBLIC: Teritorium NCR se nachÃ¡zÃ­}
+{14031}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
+{14032}{}{za lÃ©kaÅ™skÃ© vybavenÃ­ z Vault City. Reno utrpÄ›lo bÄ›hem}
+{14033}{}{vÃ¡lky jen malÃ© poÅ¡kozenÃ­ (i kdyÅ¾ plenÄ›nÃ­ a Å¡kody na}
+{14034}{}{majetku si vybraly svoji daÅˆ), takÅ¾e mnoho ulic a budov}
+{14035}{}{zÅ¯stalo nedotÄeno. VarovÃ¡nÃ­! Neexistuje zde Å¾Ã¡dnÃ¡}
+{14036}{}{vlÃ¡dnÃ­ instituce ani zÃ¡kon. Hazard, prostituce a uÅ¾Ã­vÃ¡nÃ­}
+{14037}{}{drog jsou zde na dennÃ­m poÅ™Ã¡dku. ObyvatelÃ© Vault City}
 {14038}{}{enforcement. Gambling, prostitution, and drug use}
 {14039}{}{are rampant. Vault Citizens are warned to avoid New}
-{14040}{}{POPULACE: ádné známé hodnoty, ale pravdìpodobnì}
+{14040}{}{POPULACE: Å½Ã¡dnÃ© znÃ¡mÃ© hodnoty, ale pravdÄ›podobnÄ›}
 {14041}{}{}
-{14042}{}{VLÁDA: New Reno se v souèasné dobì témìø blíí}
-{14043}{}{anarchii. Podle našich zpráv si nìkolik "zloèineckıch}
-{14044}{}{rodin" rozdìlilo mìsto na nìkolik èástí.}
-{14045}{}{MÍRA RADIOAKTIVNÍHO ZAMOØENÍ: Aktuální mìøení nejsou}
+{14042}{}{VLÃDA: New Reno se v souÄasnÃ© dobÄ› tÃ©mÄ›Å™ blÃ­Å¾Ã­}
+{14043}{}{anarchii. Podle naÅ¡ich zprÃ¡v si nÄ›kolik "zloÄineckÃ½ch}
+{14044}{}{rodin" rozdÄ›lilo mÄ›sto na nÄ›kolik ÄÃ¡stÃ­.}
+{14045}{}{MÃRA RADIOAKTIVNÃHO ZAMOÅ˜ENÃ: AktuÃ¡lnÃ­ mÄ›Å™enÃ­ nejsou}
 {14046}{}{k dispozici.}
-{14047}{}{se pravdìpodobnì nachází spoustu rùznıch druhù mutací.}
-{14048}{}{BROKEN HILLS: Malé hornické mìsto na jih od Vault City}
-{14049}{}{NEW CALIFORNIA REPUBLIC: Teritorium NCR se nachází}
-{14050}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
-{14051}{}{zlato a rùznı nadbyteènı materiál za lékaøskou techno-}
-{14052}{}{logii Vault City. NCR vyvíjí úsilí, aby získalo Vault City}
-{14053}{}{jako svoji pohranièní kolonii, proto nabádáme Obèany}
-{14054}{}{Vault City k extrémní opatrnosti pøi cestách do NCR.}
+{14047}{}{se pravdÄ›podobnÄ› nachÃ¡zÃ­ spoustu rÅ¯znÃ½ch druhÅ¯ mutacÃ­.}
+{14048}{}{BROKEN HILLS: MalÃ© hornickÃ© mÄ›sto na jih od Vault City}
+{14049}{}{NEW CALIFORNIA REPUBLIC: Teritorium NCR se nachÃ¡zÃ­}
+{14050}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
+{14051}{}{zlato a rÅ¯znÃ½ nadbyteÄnÃ½ materiÃ¡l za lÃ©kaÅ™skou techno-}
+{14052}{}{logii Vault City. NCR vyvÃ­jÃ­ ÃºsilÃ­, aby zÃ­skalo Vault City}
+{14053}{}{jako svoji pohraniÄnÃ­ kolonii, proto nabÃ¡dÃ¡me ObÄany}
+{14054}{}{Vault City k extrÃ©mnÃ­ opatrnosti pÅ™i cestÃ¡ch do NCR.}
 {14055}{}{NCR has recently stepped up efforts to absorb Vault}
-{14056}{}{POPULACE: Jsou provádìna sèítání lidu, bohuel nemáme}
-{14057}{}{pøístup k poadovanım údajùm. Podle našich domnìnek}
+{14056}{}{POPULACE: Jsou provÃ¡dÄ›na sÄÃ­tÃ¡nÃ­ lidu, bohuÅ¾el nemÃ¡me}
+{14057}{}{pÅ™Ã­stup k poÅ¾adovanÃ½m ÃºdajÅ¯m. Podle naÅ¡ich domnÄ›nek}
 {14058}{}{}
-{14059}{}{VLÁDA: Prezident a Kongres.}
-{14060}{}{MÍRA RADIOAKTIVNÍHO ZAMOØENÍ: Aktuální mìøení nejsou}
+{14059}{}{VLÃDA: Prezident a Kongres.}
+{14060}{}{MÃRA RADIOAKTIVNÃHO ZAMOÅ˜ENÃ: AktuÃ¡lnÃ­ mÄ›Å™enÃ­ nejsou}
 {14061}{}{k dispozici.}
-{14062}{}{ÚROVEÒ MUTACE: Liší se dle oblasti.}
-{14063}{}{se pravdìpodobnì nachází spoustu rùznıch druhù mutací.}
-{14064}{}{BROKEN HILLS: Malé hornické mìsto na jih od Vault City}
-{14065}{}{zabıvající se tìbou uranové rudy. Ruda se mìní za}
-{14066}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
-{14067}{}{RadAway. Lidé jsou nejspíše nuceni ít pohromadì s}
-{14068}{}{mutanty a ghouly. Díky pøírodní povaze obyvatel a}
-{14069}{}{hlavnì jejich vysokému stupni ozáøení doporuèujeme}
-{14070}{}{Obyvatelùm Vault City vyhnout se Broken Hills za}
-{14071}{}{kadou cenu!}
+{14062}{}{ÃšROVEÅ‡ MUTACE: LiÅ¡Ã­ se dle oblasti.}
+{14063}{}{se pravdÄ›podobnÄ› nachÃ¡zÃ­ spoustu rÅ¯znÃ½ch druhÅ¯ mutacÃ­.}
+{14064}{}{BROKEN HILLS: MalÃ© hornickÃ© mÄ›sto na jih od Vault City}
+{14065}{}{zabÃ½vajÃ­cÃ­ se tÄ›Å¾bou uranovÃ© rudy. Ruda se mÄ›nÃ­ za}
+{14066}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
+{14067}{}{RadAway. LidÃ© jsou nejspÃ­Å¡e nuceni Å¾Ã­t pohromadÄ› s}
+{14068}{}{mutanty a ghouly. DÃ­ky pÅ™Ã­rodnÃ­ povaze obyvatel a}
+{14069}{}{hlavnÄ› jejich vysokÃ©mu stupni ozÃ¡Å™enÃ­ doporuÄujeme}
+{14070}{}{ObyvatelÅ¯m Vault City vyhnout se Broken Hills za}
+{14071}{}{kaÅ¾dou cenu!}
 {14072}{}{of the inhabitants and the high probability of}
-{14073}{}{POPULACE: ádné známé hodnoty, ale pøedpokládá se}
-{14074}{}{asi nìkolik set obyvatel.}
+{14073}{}{POPULACE: Å½Ã¡dnÃ© znÃ¡mÃ© hodnoty, ale pÅ™edpoklÃ¡dÃ¡ se}
+{14074}{}{asi nÄ›kolik set obyvatel.}
 {14075}{}{}
-{14076}{}{je MUTANT. To je velice nepravdìpodobné, jeliko}
-{14077}{}{vìtšina mutantù postrádá jakıkoliv rozum. Pokud JE ale}
-{14078}{}{tato zvìst pravdivá, je to další dùvod proè se vyhnout}
+{14076}{}{je MUTANT. To je velice nepravdÄ›podobnÃ©, jelikoÅ¾}
+{14077}{}{vÄ›tÅ¡ina mutantÅ¯ postrÃ¡dÃ¡ jakÃ½koliv rozum. Pokud JE ale}
+{14078}{}{tato zvÄ›st pravdivÃ¡, je to dalÅ¡Ã­ dÅ¯vod proÄ se vyhnout}
 {14079}{}{Broken Hills.}
-{14080}{}{MÍRA RADIOAKTIVNÍHO ZAMOØENÍ: ádné známé hodnoty,}
-{14081}{}{ale pøedpokládá se vysoká.}
-{14082}{}{ÚROVEÒ MUTACE: Pøedpokládá se vysoká. V Broken Hills}
-{14083}{}{se pravdìpodobnì nachází spoustu rùznıch druhù mutací.}
+{14080}{}{MÃRA RADIOAKTIVNÃHO ZAMOÅ˜ENÃ: Å½Ã¡dnÃ© znÃ¡mÃ© hodnoty,}
+{14081}{}{ale pÅ™edpoklÃ¡dÃ¡ se vysokÃ¡.}
+{14082}{}{ÃšROVEÅ‡ MUTACE: PÅ™edpoklÃ¡dÃ¡ se vysokÃ¡. V Broken Hills}
+{14083}{}{se pravdÄ›podobnÄ› nachÃ¡zÃ­ spoustu rÅ¯znÃ½ch druhÅ¯ mutacÃ­.}
 {14084}{}{**END-PAR**}
-{14085}{}{VAULT CITY: Toto utopické mìsto nezná kriminalitu ani}
-{14086}{}{jiné sociální nemoce, kterımi trpí vìtšina mìst v Severní}
-{14087}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
-{14088}{}{Vaultu 8 a udruje prosperující ekonomiku stojící na}
-{14089}{}{vıvozu lékaøského vybavení do dalších lokalit v Severní}
-{14090}{}{Kalifornii. Všichni Obèané mohou ve Vault City zùstat}
-{14091}{}{kdykoliv budou chtít.}
+{14085}{}{VAULT CITY: Toto utopickÃ© mÄ›sto neznÃ¡ kriminalitu ani}
+{14086}{}{jinÃ© sociÃ¡lnÃ­ nemoce, kterÃ½mi trpÃ­ vÄ›tÅ¡ina mÄ›st v SevernÃ­}
+{14087}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
+{14088}{}{Vaultu 8 a udrÅ¾uje prosperujÃ­cÃ­ ekonomiku stojÃ­cÃ­ na}
+{14089}{}{vÃ½vozu lÃ©kaÅ™skÃ©ho vybavenÃ­ do dalÅ¡Ã­ch lokalit v SevernÃ­}
+{14090}{}{Kalifornii. VÅ¡ichni ObÄanÃ© mohou ve Vault City zÅ¯stat}
+{14091}{}{kdykoliv budou chtÃ­t.}
 {14092}{}{thriving economy based on exporting medical technology}
-{14093}{}{POPULACE: Podle posledního sèítání lidu 103 Obèanù.}
-{14094}{}{VLÁDA: První Obèan a Mìstská rada.}
-{14095}{}{MÍRA RADIOAKTIVNÍHO ZAMOØENÍ: Soubory byly vymazány}
+{14093}{}{POPULACE: Podle poslednÃ­ho sÄÃ­tÃ¡nÃ­ lidu 103 ObÄanÅ¯.}
+{14094}{}{VLÃDA: PrvnÃ­ ObÄan a MÄ›stskÃ¡ rada.}
+{14095}{}{MÃRA RADIOAKTIVNÃHO ZAMOÅ˜ENÃ: Soubory byly vymazÃ¡ny}
 {14096}{}{}
-{14097}{}{podzemní vody-]}
-{14098}{}{ÚROVEÒ MUTACE: Soubory byly vymazány a chybí násle-}
-{14099}{}{dující údaje: [-$Porodnost %-]}
+{14097}{}{podzemnÃ­ vody-]}
+{14098}{}{ÃšROVEÅ‡ MUTACE: Soubory byly vymazÃ¡ny a chybÃ­ nÃ¡sle-}
+{14099}{}{dujÃ­cÃ­ Ãºdaje: [-$Porodnost %-]}
 {14100}{}{**END-DISK**}
 {14101}{}{Contamination-]}
 {14102}{}{MUTATION RATE: Files have been deleted, missing the}
 {14103}{}{following strings: [-$Birthrate %-]}
 {14104}{}{**END-DISK**}
-{15000}{}{INFORMAÈNÍ DISK NEW CALIFORNIA REPUBLIC È. 5}
-{15001}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
-{15002}{}{Na tomto disku se nachází zajímavé informace o NCR -}
-{15003}{}{celková mìsíèní produkce, rozpisy karavan, rozpisy}
-{15004}{}{bezpeènostních slueb, slyšení Kongresu, tajná hlášení}
-{15005}{}{rady, diplomatická korespondence z New Rena, Reddingu}
-{15006}{}{a Vault City a dokonce i nìkolik tıdnù záznamù prezi-}
-{15007}{}{dentky Tandi. Není tu nic o Vaultu 13 nebo GECKu.}
-{15008}{}{Všechna hlášení jsou adresována a podepsána jako}
+{15000}{}{INFORMAÄŒNÃ DISK NEW CALIFORNIA REPUBLIC ÄŒ. 5}
+{15001}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
+{15002}{}{Na tomto disku se nachÃ¡zÃ­ zajÃ­mavÃ© informace o NCR -}
+{15003}{}{celkovÃ¡ mÄ›sÃ­ÄnÃ­ produkce, rozpisy karavan, rozpisy}
+{15004}{}{bezpeÄnostnÃ­ch sluÅ¾eb, slyÅ¡enÃ­ Kongresu, tajnÃ¡ hlÃ¡Å¡enÃ­}
+{15005}{}{rady, diplomatickÃ¡ korespondence z New Rena, Reddingu}
+{15006}{}{a Vault City a dokonce i nÄ›kolik tÃ½dnÅ¯ zÃ¡znamÅ¯ prezi-}
+{15007}{}{dentky Tandi. NenÃ­ tu nic o Vaultu 13 nebo GECKu.}
+{15008}{}{VÅ¡echna hlÃ¡Å¡enÃ­ jsou adresovÃ¡na a podepsÃ¡na jako}
 {15009}{}{"F-".}
 {15010}{}{**END-DISK**}
 {15011}{}{**END-DISK**}
-{16000}{}{INFORMAÈNÍ DISK NEW CALIFORNIA REPUBLIC È. 1}
-{16001}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
-{16002}{}{Jsme tady! Proè se k nám nepøidat?}
-{16003}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
-{16004}{}{Leí pøed námi neuvìøitelná budoucnost - a s NCR mùe}
-{16005}{}{bıt celá vaše!}
-{16006}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
-{16007}{}{Vy ale chcete vìdìt, co to pøesnì je, e?}
-{16008}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
-{16009}{}{JAK VELKÁ JE NCR?}
-{16010}{}{NCR byla zaloena pøed osmdesáti lety a momentálnì se}
-{16011}{}{skládá ze státù Shady, Los Angeles, Maxson, Hub a}
-{16012}{}{Dayglow. Pøiblinì 700 000 lidí dnes mùe povaovat NCR}
-{16013}{}{za svùj domov.}
-{16014}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
-{16015}{}{JAKÉ JSOU CÍLE NCR?}
-{16016}{}{New California Republic chce pøinést mír, bezpeènost a}
-{16017}{}{právo všem lidem ijícím na velkém západì. Naše skvìlé}
-{16018}{}{policejní sloky neustále hlídkují a zatıkají všechny}
-{16019}{}{nájezdníky, kanibaly, otrokáøe a nepøizpùsobivé mutanty.}
-{16020}{}{Naše silná armáda hlídá a chrání naše hranice proti}
-{16021}{}{venkovním narušitelùm. Aby bylo zaruèeno právo a}
-{16022}{}{svoboda, všichni obèané mají pøístup k našim soudním}
-{16023}{}{dvorùm a mají právo volit svoje vybrané kandidáty, kteøí}
-{16024}{}{zasednou v Kongresové hale. Slovy naší prezidentky}
-{16025}{}{Tandi: "Lid je silnı, pokud ije v bezpeèí."}
+{16000}{}{INFORMAÄŒNÃ DISK NEW CALIFORNIA REPUBLIC ÄŒ. 1}
+{16001}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
+{16002}{}{Jsme tady! ProÄ se k nÃ¡m nepÅ™idat?}
+{16003}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
+{16004}{}{LeÅ¾Ã­ pÅ™ed nÃ¡mi neuvÄ›Å™itelnÃ¡ budoucnost - a s NCR mÅ¯Å¾e}
+{16005}{}{bÃ½t celÃ¡ vaÅ¡e!}
+{16006}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
+{16007}{}{Vy ale chcete vÄ›dÄ›t, co to pÅ™esnÄ› je, Å¾e?}
+{16008}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
+{16009}{}{JAK VELKÃ JE NCR?}
+{16010}{}{NCR byla zaloÅ¾ena pÅ™ed osmdesÃ¡ti lety a momentÃ¡lnÄ› se}
+{16011}{}{sklÃ¡dÃ¡ ze stÃ¡tÅ¯ Shady, Los Angeles, Maxson, Hub a}
+{16012}{}{Dayglow. PÅ™ibliÅ¾nÄ› 700 000 lidÃ­ dnes mÅ¯Å¾e povaÅ¾ovat NCR}
+{16013}{}{za svÅ¯j domov.}
+{16014}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
+{16015}{}{JAKÃ‰ JSOU CÃLE NCR?}
+{16016}{}{New California Republic chce pÅ™inÃ©st mÃ­r, bezpeÄnost a}
+{16017}{}{prÃ¡vo vÅ¡em lidem Å¾ijÃ­cÃ­m na velkÃ©m zÃ¡padÄ›. NaÅ¡e skvÄ›lÃ©}
+{16018}{}{policejnÃ­ sloÅ¾ky neustÃ¡le hlÃ­dkujÃ­ a zatÃ½kajÃ­ vÅ¡echny}
+{16019}{}{nÃ¡jezdnÃ­ky, kanibaly, otrokÃ¡Å™e a nepÅ™izpÅ¯sobivÃ© mutanty.}
+{16020}{}{NaÅ¡e silnÃ¡ armÃ¡da hlÃ­dÃ¡ a chrÃ¡nÃ­ naÅ¡e hranice proti}
+{16021}{}{venkovnÃ­m naruÅ¡itelÅ¯m. Aby bylo zaruÄeno prÃ¡vo a}
+{16022}{}{svoboda, vÅ¡ichni obÄanÃ© majÃ­ pÅ™Ã­stup k naÅ¡im soudnÃ­m}
+{16023}{}{dvorÅ¯m a majÃ­ prÃ¡vo volit svoje vybranÃ© kandidÃ¡ty, kteÅ™Ã­}
+{16024}{}{zasednou v KongresovÃ© hale. Slovy naÅ¡Ã­ prezidentky}
+{16025}{}{Tandi: "Lid je silnÃ½, pokud Å¾ije v bezpeÄÃ­."}
 {16026}{}{**END-PAR**}
-{16027}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
-{16028}{}{NCR má moná jinı styl vlády, ne na kterı jste zvyklı.}
-{16029}{}{Nejsou tu ádní náèelníci, mìstští šéfové, králové nebo}
-{16030}{}{diktátoøi. Naši vùdcové jsou voleni ve volbách! Pøesnì}
-{16031}{}{tak - kadı stát má právo vyslat svoje reprezentanty}
-{16032}{}{do Kongresové haly. Tito reprezentanti zvolí prezidenta}
-{16033}{}{a viceprezidenta do èela rady a jsou to právì oni, kdo}
-{16034}{}{radí prezidentovi pøi veškerıch rozhodnutích. U po}
-{16035}{}{dlouhıch deset období je naší prezidentkou Tandi, která}
-{16036}{}{byla zvolena jednohlasnì radou, která respektuje její}
-{16037}{}{vìdomosti a pøedvídavost.}
+{16027}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
+{16028}{}{NCR mÃ¡ moÅ¾nÃ¡ jinÃ½ styl vlÃ¡dy, neÅ¾ na kterÃ½ jste zvyklÃ½.}
+{16029}{}{Nejsou tu Å¾Ã¡dnÃ­ nÃ¡ÄelnÃ­ci, mÄ›stÅ¡tÃ­ Å¡Ã©fovÃ©, krÃ¡lovÃ© nebo}
+{16030}{}{diktÃ¡toÅ™i. NaÅ¡i vÅ¯dcovÃ© jsou voleni ve volbÃ¡ch! PÅ™esnÄ›}
+{16031}{}{tak - kaÅ¾dÃ½ stÃ¡t mÃ¡ prÃ¡vo vyslat svoje reprezentanty}
+{16032}{}{do KongresovÃ© haly. Tito reprezentanti zvolÃ­ prezidenta}
+{16033}{}{a viceprezidenta do Äela rady a jsou to prÃ¡vÄ› oni, kdo}
+{16034}{}{radÃ­ prezidentovi pÅ™i veÅ¡kerÃ½ch rozhodnutÃ­ch. UÅ¾ po}
+{16035}{}{dlouhÃ½ch deset obdobÃ­ je naÅ¡Ã­ prezidentkou Tandi, kterÃ¡}
+{16036}{}{byla zvolena jednohlasnÄ› radou, kterÃ¡ respektuje jejÃ­}
+{16037}{}{vÄ›domosti a pÅ™edvÃ­davost.}
 {16038}{}{**END-PAR**}
-{16039}{}{TO ZNÍ SKVÌLE! JAK SE K NCR PØIPOJÍM?}
-{16040}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
-{16041}{}{je hoden stát se obèanem NCR. Abyste se stali obèany,}
-{16042}{}{musíte jen pøijít do NCR a pøednést vás poadavek na}
-{16043}{}{pøistìhování. Po tréninku na obèana a pøijetí vaší}
-{16044}{}{ádosti budete povıšen(a) do nového stavu jako PO}
-{16045}{}{(Prozatímní Obèan). Odsud u je jen malı krùèek k}
-{16046}{}{plnému obèanství!}
+{16039}{}{TO ZNÃ SKVÄšLE! JAK SE K NCR PÅ˜IPOJÃM?}
+{16040}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
+{16041}{}{je hoden stÃ¡t se obÄanem NCR. Abyste se stali obÄany,}
+{16042}{}{musÃ­te jen pÅ™ijÃ­t do NCR a pÅ™ednÃ©st vÃ¡s poÅ¾adavek na}
+{16043}{}{pÅ™istÄ›hovÃ¡nÃ­. Po trÃ©ninku na obÄana a pÅ™ijetÃ­ vaÅ¡Ã­}
+{16044}{}{Å¾Ã¡dosti budete povÃ½Å¡en(a) do novÃ©ho stavu jako PO}
+{16045}{}{(ProzatÃ­mnÃ­ ObÄan). Odsud uÅ¾ je jen malÃ½ krÅ¯Äek k}
+{16046}{}{plnÃ©mu obÄanstvÃ­!}
 {16047}{}{**END-PAR**}
-{16048}{}{Samozøejmì, NCR není pro kadého - otrokáøi, nenapra-}
-{16049}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
-{16050}{}{nebudou pøijati!}
+{16048}{}{SamozÅ™ejmÄ›, NCR nenÃ­ pro kaÅ¾dÃ©ho - otrokÃ¡Å™i, nenapra-}
+{16049}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
+{16050}{}{nebudou pÅ™ijati!}
 {16051}{}{**END-PAR**}
-{16052}{}{CO KDY SE CHCE PØIPOJIT CELÉ MOJE MÌSTO?}
-{16053}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
+{16052}{}{CO KDYÅ½ SE CHCE PÅ˜IPOJIT CELÃ‰ MOJE MÄšSTO?}
+{16053}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
 {16054}{}{BUT WHAT IF MY ENTIRE TOWN WANTS TO JOIN?}
-{16055}{}{státù a dokonce i menších království. Ve chvíli, kdy}
-{16056}{}{bude ádost pøijata, dostanete od NCR územní status.}
-{16057}{}{A budou zøízeny potøebné vojenské a policejní sloky}
-{16058}{}{a veškeré zloèinecké a další nekalé èinnosti budou}
-{16059}{}{potøeny, mùe vaše vesnice poádat o plnou státní}
-{16060}{}{pøíslušnost k NCR.}
-{16061}{}{Jak jednoduché!}
+{16055}{}{stÃ¡tÅ¯ a dokonce i menÅ¡Ã­ch krÃ¡lovstvÃ­. Ve chvÃ­li, kdy}
+{16056}{}{bude Å¾Ã¡dost pÅ™ijata, dostanete od NCR ÃºzemnÃ­ status.}
+{16057}{}{AÅ¾ budou zÅ™Ã­zeny potÅ™ebnÃ© vojenskÃ© a policejnÃ­ sloÅ¾ky}
+{16058}{}{a veÅ¡kerÃ© zloÄineckÃ© a dalÅ¡Ã­ nekalÃ© Äinnosti budou}
+{16059}{}{potÅ™eny, mÅ¯Å¾e vaÅ¡e vesnice poÅ¾Ã¡dat o plnou stÃ¡tnÃ­}
+{16060}{}{pÅ™Ã­sluÅ¡nost k NCR.}
+{16061}{}{Jak jednoduchÃ©!}
 {16062}{}{**END-PAR**}
-{16063}{}{Take pamatujte - JSME TU, TAK PROÈ SE K NÁM}
-{16064}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
+{16063}{}{TakÅ¾e pamatujte - JSME TU, TAK PROÄŒ SE K NÃM}
+{16064}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
 {16065}{}{**END-PAR**}
-{16066}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
+{16066}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
 {16067}{}{**END-PAR**}
-{16068}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
+{16068}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
 {16069}{}{**END-PAR**}
-{16070}{}{Tato stránka byla zámìrnì ponechána prázdná.}
+{16070}{}{Tato strÃ¡nka byla zÃ¡mÄ›rnÄ› ponechÃ¡na prÃ¡zdnÃ¡.}
 {16071}{}{**END-DISK**}
-{17000}{}{První Obèance Lynette:}
-{17001}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
-{17002}{}{Kurır doruèil disk, kterı jsi mi poslala. Mìla jsi samo-}
-{17003}{}{zøejmì pravdu. Informace se ukázala bıt velmi uiteèná na}
-{17004}{}{dalším zasedání rady. Jsem si jistı, e s tím, co jsi mi}
-{17005}{}{poslala, mùu bránit a maøit všechny další pokusy o}
-{17006}{}{vytvoøení aliance NCR/New Reno.}
-{17007}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
-{17008}{}{    Mohu tì ujistit, e pokud se všechno povede tak,}
-{17009}{}{jak oèekávám, nebudou u ádné další zásahy a provo-}
-{17010}{}{kace od NCR vùèi Vault City. Já sám respektuji vaši}
-{17011}{}{samostatnost a nesouhlasím s ádnımi potíisty, kteøí}
-{17012}{}{se snaí vzít svobodu našim nevinnım sousedùm.}
+{17000}{}{PrvnÃ­ ObÄance Lynette:}
+{17001}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
+{17002}{}{KurÃ½r doruÄil disk, kterÃ½ jsi mi poslala. MÄ›la jsi samo-}
+{17003}{}{zÅ™ejmÄ› pravdu. Informace se ukÃ¡zala bÃ½t velmi uÅ¾iteÄnÃ¡ na}
+{17004}{}{dalÅ¡Ã­m zasedÃ¡nÃ­ rady. Jsem si jistÃ½, Å¾e s tÃ­m, co jsi mi}
+{17005}{}{poslala, mÅ¯Å¾u brÃ¡nit a maÅ™it vÅ¡echny dalÅ¡Ã­ pokusy o}
+{17006}{}{vytvoÅ™enÃ­ aliance NCR/New Reno.}
+{17007}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
+{17008}{}{    Mohu tÄ› ujistit, Å¾e pokud se vÅ¡echno povede tak,}
+{17009}{}{jak oÄekÃ¡vÃ¡m, nebudou uÅ¾ Å¾Ã¡dnÃ© dalÅ¡Ã­ zÃ¡sahy a provo-}
+{17010}{}{kace od NCR vÅ¯Äi Vault City. JÃ¡ sÃ¡m respektuji vaÅ¡i}
+{17011}{}{samostatnost a nesouhlasÃ­m s Å¾Ã¡dnÃ½mi potÃ­Å¾isty, kteÅ™Ã­}
+{17012}{}{se snaÅ¾Ã­ vzÃ­t svobodu naÅ¡im nevinnÃ½m sousedÅ¯m.}
 {17013}{}{**END-PAR**}
-{17014}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
+{17014}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
 {17015}{}{Roger Westin}
 {17016}{}{**END-DISK**}
 {17017}{}{**END-DISK**}
-{18000}{}{Vìc: Stát národù}
+{18000}{}{VÄ›c: StÃ¡t nÃ¡rodÅ¯}
 {18001}{}{Od: Prezident Dick Richardson}
-{18002}{}{Pro: Lidem tohoto velkého národa}
-{18003}{}{Zpráva: Oslovení státù Unie}
-{18004}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
-{18005}{}{Drazí Amerièané, byl jsem poctìn stát se pastıøem,}
-{18006}{}{kterı pøivede všechny Amerièany zpìt na pevninu, abych}
-{18007}{}{vrátil Spojené státy pùvodním obyvatelùm. Budeme první}
-{18008}{}{generací oproštìnou od mutantské hrozby po sto letech.}
+{18002}{}{Pro: Lidem tohoto velkÃ©ho nÃ¡roda}
+{18003}{}{ZprÃ¡va: OslovenÃ­ stÃ¡tÅ¯ Unie}
+{18004}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
+{18005}{}{DrazÃ­ AmeriÄanÃ©, byl jsem poctÄ›n stÃ¡t se pastÃ½Å™em,}
+{18006}{}{kterÃ½ pÅ™ivede vÅ¡echny AmeriÄany zpÄ›t na pevninu, abych}
+{18007}{}{vrÃ¡til SpojenÃ© stÃ¡ty pÅ¯vodnÃ­m obyvatelÅ¯m. Budeme prvnÃ­}
+{18008}{}{generacÃ­ oproÅ¡tÄ›nou od mutantskÃ© hrozby po sto letech.}
 {18009}{}{**END-PAR**}
-{18010}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
-{18011}{}{byla nároèná. To, co vypadalo jako nemonı sen, se díky}
-{18012}{}{stateènosti a neúnavnému úsilí našeho nejlepšího}
-{18013}{}{hlavního èlena protichemickıch jednotek, Doktora}
-{18014}{}{Charlese Curlinga, stalo skuteèností. Hodina naší spásy}
+{18010}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
+{18011}{}{byla nÃ¡roÄnÃ¡. To, co vypadalo jako nemoÅ¾nÃ½ sen, se dÃ­ky}
+{18012}{}{stateÄnosti a neÃºnavnÃ©mu ÃºsilÃ­ naÅ¡eho nejlepÅ¡Ã­ho}
+{18013}{}{hlavnÃ­ho Älena protichemickÃ½ch jednotek, Doktora}
+{18014}{}{Charlese Curlinga, stalo skuteÄnostÃ­. Hodina naÅ¡Ã­ spÃ¡sy}
 {18015}{}{je na dosah.}
 {18016}{}{**END-PAR**}
-{18017}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
-{18018}{}{kecy nìkdo opravdu poslouchá?}
+{18017}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
+{18018}{}{kecy nÄ›kdo opravdu poslouchÃ¡?}
 {18019}{}{**END-PAR**}
-{18020}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
-{18021}{}{  1) Takhle chvíli vanit, abych utajil Curlingùv projekt.}
-{18022}{}{  2) Øíct všem, jak jsou neochvìjní atd. Tády dááády dá}
+{18020}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
+{18021}{}{  1) Takhle chvÃ­li Å¾vanit, abych utajil CurlingÅ¯v projekt.}
+{18022}{}{  2) Å˜Ã­ct vÅ¡em, jak jsou neochvÄ›jnÃ­ atd. TÃ¡dy dÃ¡Ã¡Ã¡dy dÃ¡}
 {18023}{}{2)  Tell everyone how steadfast, etc., they are.}
 {18024}{}{**END-PAR**}
-{18025}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
+{18025}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
 {18026}{}{**END-PAR**}
-{18027}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
+{18027}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
 {18028}{}{**END-PAR**}
-{18029}{}{Dùleité: Tohle brzy dopsat. Ji brzy budeme schopni}
-{18030}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
-{18031}{}{pokud se Curlingova zpráva o testech ukáe jako}
-{18032}{}{pozitivní.}
+{18029}{}{DÅ¯leÅ¾itÃ©: Tohle brzy dopsat. JiÅ¾ brzy budeme schopni}
+{18030}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
+{18031}{}{pokud se Curlingova zprÃ¡va o testech ukÃ¡Å¾e jako}
+{18032}{}{pozitivnÃ­.}
 {18033}{}{**END-DISK**}
 {18034}{}{**END-DISK**}
-{19000}{}{Vìc: Zásoba slov}
+{19000}{}{VÄ›c: ZÃ¡soba slov}
 {19001}{}{Od: viceprezident Daniel Bird}
-{19002}{}{Komu: Mnì}
-{19003}{}{Téma: Moje zásoba slov}
-{19004}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
-{19005}{}{Obtíná slova:}
+{19002}{}{Komu: MnÄ›}
+{19003}{}{TÃ©ma: Moje zÃ¡soba slov}
+{19004}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
+{19005}{}{ObtÃ­Å¾nÃ¡ slova:}
 {19006}{}{--------------------}
 {19007}{}{Brambora}
-{19008}{}{Klíè}
+{19008}{}{KlÃ­Ä}
 {19009}{}{Psycho}
-{19010}{}{Bıt}
-{19011}{}{Podvìdomí}
-{19012}{}{Kalení}
+{19010}{}{BÃ½t}
+{19011}{}{PodvÄ›domÃ­}
+{19012}{}{KalenÃ­}
 {19013}{}{Vina}
 {19014}{}{Konverzace}
-{19015}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
-{19016}{}{Zamìnitelná slova:}
+{19015}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
+{19016}{}{ZamÄ›nitelnÃ¡ slova:}
 {19017}{}{----------------------}
 {19018}{}{Barbora}
-{19019}{}{Kıè}
+{19019}{}{KÃ½Ä}
 {19020}{}{Srpem}
-{19021}{}{Bít}
-{19022}{}{Podvìdomí}
-{19023}{}{Kálení}
-{19024}{}{Vína}
+{19021}{}{BÃ­t}
+{19022}{}{PodvÄ›domÃ­}
+{19023}{}{KÃ¡lenÃ­}
+{19024}{}{VÃ­na}
 {19025}{}{Konzervace}
 {19026}{}{**END-DISK**}
-{20000}{}{Vìc: Projekt, Ètvrtletní zpráva}
-{20001}{}{Od: Podplukovník Dr. Charles Curling, protichemické}
+{20000}{}{VÄ›c: Projekt, ÄŒtvrtletnÃ­ zprÃ¡va}
+{20001}{}{Od: PodplukovnÃ­k Dr. Charles Curling, protichemickÃ©}
 {20002}{}{Pro: Kabinet}
-{20003}{}{Komu: Vládì}
-{20004}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
+{20003}{}{Komu: VlÃ¡dÄ›}
+{20004}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
 {20005}{}{**END-PAR**}
-{20006}{}{Je mi ctí a radostí vám sdìlit, e jsme v koneèné fázi}
-{20007}{}{operace Projekt. Po letech usilovné práce jsme zjistili,}
-{20008}{}{jak izolovat vìtšinu toxickıch prvkù ve viru F.E.V. K}
-{20009}{}{vızkumu nám dopomohly nedávno rozšifrované informace,}
-{20010}{}{které jsme získali z opuštìné vojenské základny na}
-{20011}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
+{20006}{}{Je mi ctÃ­ a radostÃ­ vÃ¡m sdÄ›lit, Å¾e jsme v koneÄnÃ© fÃ¡zi}
+{20007}{}{operace Projekt. Po letech usilovnÃ© prÃ¡ce jsme zjistili,}
+{20008}{}{jak izolovat vÄ›tÅ¡inu toxickÃ½ch prvkÅ¯ ve viru F.E.V. K}
+{20009}{}{vÃ½zkumu nÃ¡m dopomohly nedÃ¡vno rozÅ¡ifrovanÃ© informace,}
+{20010}{}{kterÃ© jsme zÃ­skali z opuÅ¡tÄ›nÃ© vojenskÃ© zÃ¡kladny na}
+{20011}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
 {20012}{}{**END-PAR**}
 {20013}{}{designed to be used as an agent for the creation of}
 {20014}{}{super-soldiers. Initially, it appears, the F.E.V. was }
-{20015}{}{pùvodnì vytvoøen jako silnì nakalivı toxin. A pozdìji}
-{20016}{}{byl virus F.E.V. pøetvoøen za úèelem vytvoøení super-}
-{20017}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
+{20015}{}{pÅ¯vodnÄ› vytvoÅ™en jako silnÄ› nakaÅ¾livÃ½ toxin. AÅ¾ pozdÄ›ji}
+{20016}{}{byl virus F.E.V. pÅ™etvoÅ™en za ÃºÄelem vytvoÅ™enÃ­ super-}
+{20017}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
 {20018}{}{**END-PAR**}
-{20019}{}{Po podrobném pøezkoumání našich pøedchozích vızkumù a}
-{20020}{}{s pomocí nahrávek získanıch ve vojenské základnì jsme}
-{20021}{}{byli koneènì schopni vytvoøit z viru F.E.V (F.E.V. Curling}
-{20022}{}{-13) daleko silnìjší toxin.}
-{20023}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
-{20024}{}{Koneèné testy provedené na potomcích lidí z Vaultu,}
-{20025}{}{obyvatelích "Arroya", vykazovaly úmrtnost sto procent.}
-{20026}{}{Vìtšina subjektù zemøela do hodiny od rozprášení .0001%}
-{20027}{}{aerosolového roztoku. Na druhou stranu u subjektù}
-{20028}{}{pøivezenıch z Vaultu 13 se objevuje krvácení do mozku}
-{20029}{}{a køeèe v první hodinì od rozprášení. V tomto pøípadì}
-{20030}{}{nastává prùmìrnì smrt kolem 14,5 hodiny od infikace.}
+{20019}{}{Po podrobnÃ©m pÅ™ezkoumÃ¡nÃ­ naÅ¡ich pÅ™edchozÃ­ch vÃ½zkumÅ¯ a}
+{20020}{}{s pomocÃ­ nahrÃ¡vek zÃ­skanÃ½ch ve vojenskÃ© zÃ¡kladnÄ› jsme}
+{20021}{}{byli koneÄnÄ› schopni vytvoÅ™it z viru F.E.V (F.E.V. Curling}
+{20022}{}{-13) daleko silnÄ›jÅ¡Ã­ toxin.}
+{20023}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
+{20024}{}{KoneÄnÃ© testy provedenÃ© na potomcÃ­ch lidÃ­ z Vaultu,}
+{20025}{}{obyvatelÃ­ch "Arroya", vykazovaly Ãºmrtnost sto procent.}
+{20026}{}{VÄ›tÅ¡ina subjektÅ¯ zemÅ™ela do hodiny od rozprÃ¡Å¡enÃ­ .0001%}
+{20027}{}{aerosolovÃ©ho roztoku. Na druhou stranu u subjektÅ¯}
+{20028}{}{pÅ™ivezenÃ½ch z Vaultu 13 se objevuje krvÃ¡cenÃ­ do mozku}
+{20029}{}{a kÅ™eÄe v prvnÃ­ hodinÄ› od rozprÃ¡Å¡enÃ­. V tomto pÅ™Ã­padÄ›}
+{20030}{}{nastÃ¡vÃ¡ prÅ¯mÄ›rnÄ› smrt kolem 14,5 hodiny od infikace.}
 {20031}{}{**END-PAR**}
-{20032}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
-{20033}{}{dostateènì vysoké k dùkladnému "vyèištìní" všech}
-{20034}{}{zamoøenıch (vyjma Enklávy) lokalit. Souèasná dostupná}
-{20035}{}{mìøení viru F.E.V. Curling-13 ukazují 95% pravdìpobnost}
-{20036}{}{zamoøení v prùmìru .00007% I kdy se protichemické}
-{20037}{}{jednotky shodují na tom, e je to uspokojivá hodnota}
-{20038}{}{k úspìšnému dokonèení Projektu, vìøíme, e se vyplatí}
-{20039}{}{poèkat, dokud nenashromádíme dostatek toxinu F.E.V.,}
-{20040}{}{abychom dosáhli našeho cíle .0001% a 99.5% úspìšnosti}
-{20041}{}{vyhlazení.}
+{20032}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
+{20033}{}{dostateÄnÄ› vysokÃ© k dÅ¯kladnÃ©mu "vyÄiÅ¡tÄ›nÃ­" vÅ¡ech}
+{20034}{}{zamoÅ™enÃ½ch (vyjma EnklÃ¡vy) lokalit. SouÄasnÃ¡ dostupnÃ¡}
+{20035}{}{mÄ›Å™enÃ­ viru F.E.V. Curling-13 ukazujÃ­ 95% pravdÄ›pobnost}
+{20036}{}{zamoÅ™enÃ­ v prÅ¯mÄ›ru .00007% I kdyÅ¾ se protichemickÃ©}
+{20037}{}{jednotky shodujÃ­ na tom, Å¾e je to uspokojivÃ¡ hodnota}
+{20038}{}{k ÃºspÄ›Å¡nÃ©mu dokonÄenÃ­ Projektu, vÄ›Å™Ã­me, Å¾e se vyplatÃ­}
+{20039}{}{poÄkat, dokud nenashromÃ¡Å¾dÃ­me dostatek toxinu F.E.V.,}
+{20040}{}{abychom dosÃ¡hli naÅ¡eho cÃ­le .0001% a 99.5% ÃºspÄ›Å¡nosti}
+{20041}{}{vyhlazenÃ­.}
 {20042}{}{**END-PAR**}
-{20043}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
-{20044}{}{našeho cíle 250 000 galonù dosáhneme bìhem šesti tıdnù.}
+{20043}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
+{20044}{}{naÅ¡eho cÃ­le 250 000 galonÅ¯ dosÃ¡hneme bÄ›hem Å¡esti tÃ½dnÅ¯.}
 {20045}{}{**END-PAR**}
-{20046}{}{Gratuluji, dámy a pánové, dlouhá léta naší tvrdé práce}
-{20047}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
-{20048}{}{Bùh ehnej Americe.}
+{20046}{}{Gratuluji, dÃ¡my a pÃ¡novÃ©, dlouhÃ¡ lÃ©ta naÅ¡Ã­ tvrdÃ© prÃ¡ce}
+{20047}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
+{20048}{}{BÅ¯h Å¾ehnej Americe.}
 {20049}{}{**END-DISK**}
-{20050}{}{Bùh ehnej Americe.}
+{20050}{}{BÅ¯h Å¾ehnej Americe.}
 {20051}{}{**END-DISK**}
-{21000}{}{Vìc: Komise pro jadernou energii, Zpráva}
-{21001}{}{Od: Tom Murray, pøedseda Komise pro jadernou energii}
+{21000}{}{VÄ›c: Komise pro jadernou energii, ZprÃ¡va}
+{21001}{}{Od: Tom Murray, pÅ™edseda Komise pro jadernou energii}
 {21002}{}{Pro: Kabinet}
-{21003}{}{Téma: Nebezpeèí pøílišné závislosti na hlavním poèítaèi}
-{21004}{}{ovládajícím celı reaktor.}
-{21005}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
-{21006}{}{POZNÁMKA pro KABINET: U mì nebaví neustále pouka-}
-{21007}{}{zovat na tuto záleitost, ale rád bych opìt zdùraznil}
-{21008}{}{dùleitost rozdìlení ovládacích systémù pro naši atomo-}
-{21009}{}{vou elektrárnu. Tady je má oficiální zpráva. Myslím, e}
-{21010}{}{a si ji pøeètete, pochopíte, proè potøebujeme záloní}
-{21011}{}{systém.}
+{21003}{}{TÃ©ma: NebezpeÄÃ­ pÅ™Ã­liÅ¡nÃ© zÃ¡vislosti na hlavnÃ­m poÄÃ­taÄi}
+{21004}{}{ovlÃ¡dajÃ­cÃ­m celÃ½ reaktor.}
+{21005}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
+{21006}{}{POZNÃMKA pro KABINET: UÅ¾ mÄ› nebavÃ­ neustÃ¡le pouka-}
+{21007}{}{zovat na tuto zÃ¡leÅ¾itost, ale rÃ¡d bych opÄ›t zdÅ¯raznil}
+{21008}{}{dÅ¯leÅ¾itost rozdÄ›lenÃ­ ovlÃ¡dacÃ­ch systÃ©mÅ¯ pro naÅ¡i atomo-}
+{21009}{}{vou elektrÃ¡rnu. Tady je mÃ¡ oficiÃ¡lnÃ­ zprÃ¡va. MyslÃ­m, Å¾e}
+{21010}{}{aÅ¾ si ji pÅ™eÄtete, pochopÃ­te, proÄ potÅ™ebujeme zÃ¡loÅ¾nÃ­}
+{21011}{}{systÃ©m.}
 {21012}{}{-Tom}
-{21013}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
-{21014}{}{Regulátor jaderné energie reaktoru}
+{21013}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
+{21014}{}{RegulÃ¡tor jadernÃ© energie reaktoru}
 {21015}{}{------------------------------------------}
-{21016}{}{Novı uranovı nukleární reaktor Vault-Tec prozatím}
-{21017}{}{pracuje zcela efektivnì. Díky nejmodernìjším poèíta-}
-{21018}{}{èovım systémùm, které byly navreny specielnì pro regu-}
-{21019}{}{laci chladící teploty a další velmi dùleité funkce, jsme}
-{21020}{}{byli schopni provozovat reaktor jen s velmi minimální}
+{21016}{}{NovÃ½ uranovÃ½ nukleÃ¡rnÃ­ reaktor Vault-Tec prozatÃ­m}
+{21017}{}{pracuje zcela efektivnÄ›. DÃ­ky nejmodernÄ›jÅ¡Ã­m poÄÃ­ta-}
+{21018}{}{ÄovÃ½m systÃ©mÅ¯m, kterÃ© byly navrÅ¾eny specielnÄ› pro regu-}
+{21019}{}{laci chladÃ­cÃ­ teploty a dalÅ¡Ã­ velmi dÅ¯leÅ¾itÃ© funkce, jsme}
+{21020}{}{byli schopni provozovat reaktor jen s velmi minimÃ¡lnÃ­}
 {21021}{}{obsluhou.}
-{21022}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
-{21023}{}{Nové synchronické multi-procesory, které jsme zabudo-}
-{21024}{}{vali do tri-procesorové základní desky, jsou schopné}
-{21025}{}{najednou ovládat teplotu chlazení, vstup studené moøské}
-{21026}{}{vody, vıstup spotøebovaného chladiva, odpad ze štìpnıch}
-{21027}{}{reakcí a regulaci bombardování neutronù na uran. Bez}
-{21028}{}{poèítaèovıch systémù by se reaktor zaèal okamitì}
-{21029}{}{hroutit a zpùsobil by øetìzovou reakci bombardování}
-{21030}{}{uranovıch izotopù. Za dvì hodiny, moná i ménì, by došlo}
-{21031}{}{k atomovému vıbuchu o síle pøiblinì 100 kilotun TNT.}
+{21022}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
+{21023}{}{NovÃ© synchronickÃ© multi-procesory, kterÃ© jsme zabudo-}
+{21024}{}{vali do tri-procesorovÃ© zÃ¡kladnÃ­ desky, jsou schopnÃ©}
+{21025}{}{najednou ovlÃ¡dat teplotu chlazenÃ­, vstup studenÃ© moÅ™skÃ©}
+{21026}{}{vody, vÃ½stup spotÅ™ebovanÃ©ho chladiva, odpad ze Å¡tÄ›pnÃ½ch}
+{21027}{}{reakcÃ­ a regulaci bombardovÃ¡nÃ­ neutronÅ¯ na uran. Bez}
+{21028}{}{poÄÃ­taÄovÃ½ch systÃ©mÅ¯ by se reaktor zaÄal okamÅ¾itÄ›}
+{21029}{}{hroutit a zpÅ¯sobil by Å™etÄ›zovou reakci bombardovÃ¡nÃ­}
+{21030}{}{uranovÃ½ch izotopÅ¯. Za dvÄ› hodiny, moÅ¾nÃ¡ i mÃ©nÄ›, by doÅ¡lo}
+{21031}{}{k atomovÃ©mu vÃ½buchu o sÃ­le pÅ™ibliÅ¾nÄ› 100 kilotun TNT.}
 {21032}{}{**END-PAR**}
-{21033}{}{Vìtšina hlavních èástí reaktoru je umístìna pod vodou}
-{21034}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
-{21035}{}{exteriéru pøírodní teplotou oceánu. Moøská voda z}
-{21036}{}{hloubky 500 metrù je pumpována do chladící komory.}
-{21037}{}{Èást studené moøské vody je odvedena do èásti, kde je}
-{21038}{}{jádro a kontrolní tyèe. Tady cirkuluje skrz jádro a}
-{21039}{}{ohøeje se vlivem nukleárních reakcí. Voda dosáhne bodu}
-{21040}{}{varu a všechna vzniklá pára se pouije k chodu turbí-}
-{21041}{}{nového generátoru, kterı vytváøí veškerou elektrickou}
-{21042}{}{energii. Pára poté zkondenzuje a vrátí se do filtrovací}
-{21043}{}{nádre. Vyèištìná voda se vrátí zpìt do pøípravné}
-{21044}{}{nádre, kde je pøipravena na další cyklus.}
+{21033}{}{VÄ›tÅ¡ina hlavnÃ­ch ÄÃ¡stÃ­ reaktoru je umÃ­stÄ›na pod vodou}
+{21034}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
+{21035}{}{exteriÃ©ru pÅ™Ã­rodnÃ­ teplotou oceÃ¡nu. MoÅ™skÃ¡ voda z}
+{21036}{}{hloubky 500 metrÅ¯ je pumpovÃ¡na do chladÃ­cÃ­ komory.}
+{21037}{}{ÄŒÃ¡st studenÃ© moÅ™skÃ© vody je odvedena do ÄÃ¡sti, kde je}
+{21038}{}{jÃ¡dro a kontrolnÃ­ tyÄe. Tady cirkuluje skrz jÃ¡dro a}
+{21039}{}{ohÅ™eje se vlivem nukleÃ¡rnÃ­ch reakcÃ­. Voda dosÃ¡hne bodu}
+{21040}{}{varu a vÅ¡echna vzniklÃ¡ pÃ¡ra se pouÅ¾ije k chodu turbÃ­-}
+{21041}{}{novÃ©ho generÃ¡toru, kterÃ½ vytvÃ¡Å™Ã­ veÅ¡kerou elektrickou}
+{21042}{}{energii. PÃ¡ra potÃ© zkondenzuje a vrÃ¡tÃ­ se do filtrovacÃ­}
+{21043}{}{nÃ¡drÅ¾e. VyÄiÅ¡tÄ›nÃ¡ voda se vrÃ¡tÃ­ zpÄ›t do pÅ™Ã­pravnÃ©}
+{21044}{}{nÃ¡drÅ¾e, kde je pÅ™ipravena na dalÅ¡Ã­ cyklus.}
 {21045}{}{**END-PAR**}
-{21046}{}{Veškerá radioaktivní voda a ostatní toxické látky jsou}
-{21047}{}{odèerpány pryè ze stanice skrz odpadní kanál, kterı je}
-{21048}{}{dlouhı jednu míli. Hlášení od našich pøedsunutıch hlídek}
-{21049}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
-{21050}{}{Kalifornie a Mexika, kde zpùsobují rozsáhlé ekologické}
-{21051}{}{škody. Mnoho pláí je nyní nasyceno toxickım odpadem a}
-{21052}{}{vysoce radioaktivním moøskım ivotem. Naštìstí to na}
-{21053}{}{nás nemá ádnı vliv.}
+{21046}{}{VeÅ¡kerÃ¡ radioaktivnÃ­ voda a ostatnÃ­ toxickÃ© lÃ¡tky jsou}
+{21047}{}{odÄerpÃ¡ny pryÄ ze stanice skrz odpadnÃ­ kanÃ¡l, kterÃ½ je}
+{21048}{}{dlouhÃ½ jednu mÃ­li. HlÃ¡Å¡enÃ­ od naÅ¡ich pÅ™edsunutÃ½ch hlÃ­dek}
+{21049}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
+{21050}{}{Kalifornie a Mexika, kde zpÅ¯sobujÃ­ rozsÃ¡hlÃ© ekologickÃ©}
+{21051}{}{Å¡kody. Mnoho plÃ¡Å¾Ã­ je nynÃ­ nasyceno toxickÃ½m odpadem a}
+{21052}{}{vysoce radioaktivnÃ­m moÅ™skÃ½m Å¾ivotem. NaÅ¡tÄ›stÃ­ to na}
+{21053}{}{nÃ¡s nemÃ¡ Å¾Ã¡dnÃ½ vliv.}
 {21054}{}{**END-PAR**}
-{21055}{}{Kadopádnì pokud se náš reaktor vypne, máme k dispozici}
-{21056}{}{záloní baterie, které mùeme pouít pro napájení klí-}
-{21057}{}{èovıch systémù Enklávy, dokud nebude obnovena dodávka}
-{21058}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
-{21059}{}{vysokoenergetické záleitosti jako napø. silové pole. Také}
-{21060}{}{se pøi poklesu energie uzavøou (bezpeènostní opatøení)}
-{21061}{}{nìkteré vodotìsné dveøe po celé základnì, aby se}
-{21062}{}{zamezilo pøípadnému zatopení. To omezí pohyb po stanici,}
-{21063}{}{avšak pohyb v horních patrech bude stále monı pøes}
-{21064}{}{vedlejší chodby.}
+{21055}{}{KaÅ¾dopÃ¡dnÄ› pokud se nÃ¡Å¡ reaktor vypne, mÃ¡me k dispozici}
+{21056}{}{zÃ¡loÅ¾nÃ­ baterie, kterÃ© mÅ¯Å¾eme pouÅ¾Ã­t pro napÃ¡jenÃ­ klÃ­-}
+{21057}{}{ÄovÃ½ch systÃ©mÅ¯ EnklÃ¡vy, dokud nebude obnovena dodÃ¡vka}
+{21058}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
+{21059}{}{vysokoenergetickÃ© zÃ¡leÅ¾itosti jako napÅ™. silovÃ© pole. TakÃ©}
+{21060}{}{se pÅ™i poklesu energie uzavÅ™ou (bezpeÄnostnÃ­ opatÅ™enÃ­)}
+{21061}{}{nÄ›kterÃ© vodotÄ›snÃ© dveÅ™e po celÃ© zÃ¡kladnÄ›, aby se}
+{21062}{}{zamezilo pÅ™Ã­padnÃ©mu zatopenÃ­. To omezÃ­ pohyb po stanici,}
+{21063}{}{avÅ¡ak pohyb v hornÃ­ch patrech bude stÃ¡le moÅ¾nÃ½ pÅ™es}
+{21064}{}{vedlejÅ¡Ã­ chodby.}
 {21065}{}{**END-PAR**}
-{21066}{}{Hlavní problém je v tom, e pokud bude centrální poèítaè}
-{21067}{}{vypnut nebo znièen, jakkoliv jsou oba stavy nepravdì-}
-{21068}{}{podobné, dostane se reaktor do kritickıch hodnot a}
-{21069}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
-{21070}{}{nìjakı druh záloního systému øízeného èlovìkem. Vím,}
-{21071}{}{e si o mnì mùete myslet, e zbyteènì panikaøím, kdy}
-{21072}{}{po vás ádám tyto opatøení proti nepøedvídatelné}
-{21073}{}{události, nicménì vdy se vyplatí bıt pøipraven.}
+{21066}{}{HlavnÃ­ problÃ©m je v tom, Å¾e pokud bude centrÃ¡lnÃ­ poÄÃ­taÄ}
+{21067}{}{vypnut nebo zniÄen, jakkoliv jsou oba stavy nepravdÄ›-}
+{21068}{}{podobnÃ©, dostane se reaktor do kritickÃ½ch hodnot a}
+{21069}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
+{21070}{}{nÄ›jakÃ½ druh zÃ¡loÅ¾nÃ­ho systÃ©mu Å™Ã­zenÃ©ho ÄlovÄ›kem. VÃ­m,}
+{21071}{}{Å¾e si o mnÄ› mÅ¯Å¾ete myslet, Å¾e zbyteÄnÄ› panikaÅ™Ã­m, kdyÅ¾}
+{21072}{}{po vÃ¡s Å¾Ã¡dÃ¡m tyto opatÅ™enÃ­ proti nepÅ™edvÃ­datelnÃ©}
+{21073}{}{udÃ¡losti, nicmÃ©nÄ› vÅ¾dy se vyplatÃ­ bÃ½t pÅ™ipraven.}
 {21074}{}{**END-PAR**}
-{21075}{}{Mezitím se pùjdeme ujistit, e nìkdo náhodou nevyhodil}
-{21076}{}{do vzduchu náš hlavní poèítaè (haha).}
+{21075}{}{MezitÃ­m se pÅ¯jdeme ujistit, Å¾e nÄ›kdo nÃ¡hodou nevyhodil}
+{21076}{}{do vzduchu nÃ¡Å¡ hlavnÃ­ poÄÃ­taÄ (haha).}
 {21077}{}{**END-PAR**}
-{21078}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
+{21078}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
 {21079}{}{**END-DISK**}
 {21080}{}{computer (hah, hah).}
-{21081}{}{Váš Tom Murray, pøedseda Komise pro jadernou energii.}
+{21081}{}{VÃ¡Å¡ Tom Murray, pÅ™edseda Komise pro jadernou energii.}
 {21082}{}{Yours, Tom Murray, Chairman, A.E.C.}
 {21083}{}{**END-DISK**}

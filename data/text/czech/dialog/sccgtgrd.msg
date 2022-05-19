@@ -1,15 +1,15 @@
-{100}{}{Další strá. Nìkdo je snad musí vyrábìt nebo co, protoe vypadají všichni stejnì.}
-{101}{}{Poøád je to strá. Asi se mu nelíbíš.}
-{102}{}{Podíváš se na nìj zblízka a jsi pøesvìdèenı, e je to strá.}
-{103}{}{Nemáš povolení tu bıt.}
-{104}{}{Mùu vidìt tvoji propustku?}
-{105}{}{Tohle je státní majetek. Jdi si po svıch, cizinèe.}
-{106}{}{Ty jsi ten, o kterım mluvil Merk? Fajn, nechte ho projít, chlapi.}
-{107}{}{V poøádku. Dejte si pohov, hoši.}
-{108}{}{Fajn, v poøádku. Otevøete bránu, hoši.}
-{109}{}{Ty jsi ta, o kterı mluvil Merk? Fajn, nechte ji projít, chlapi.}
-{110}{}{Jsem ve slubì. Nemám èas na konverzování.}
-{111}{}{Pìknı boty.}
-{112}{}{Jdi si po svıch.}
+{100}{}{DalÅ¡Ã­ strÃ¡Å¾. NÄ›kdo je snad musÃ­ vyrÃ¡bÄ›t nebo co, protoÅ¾e vypadajÃ­ vÅ¡ichni stejnÄ›.}
+{101}{}{PoÅ™Ã¡d je to strÃ¡Å¾. Asi se mu nelÃ­bÃ­Å¡.}
+{102}{}{PodÃ­vÃ¡Å¡ se na nÄ›j zblÃ­zka a jsi pÅ™esvÄ›dÄenÃ½, Å¾e je to strÃ¡Å¾.}
+{103}{}{NemÃ¡Å¡ povolenÃ­ tu bÃ½t.}
+{104}{}{MÅ¯Å¾u vidÄ›t tvoji propustku?}
+{105}{}{Tohle je stÃ¡tnÃ­ majetek. Jdi si po svÃ½ch, cizinÄe.}
+{106}{}{Ty jsi ten, o kterÃ½m mluvil Merk? Fajn, nechte ho projÃ­t, chlapi.}
+{107}{}{V poÅ™Ã¡dku. Dejte si pohov, hoÅ¡i.}
+{108}{}{Fajn, v poÅ™Ã¡dku. OtevÅ™ete brÃ¡nu, hoÅ¡i.}
+{109}{}{Ty jsi ta, o kterÃ½ mluvil Merk? Fajn, nechte ji projÃ­t, chlapi.}
+{110}{}{Jsem ve sluÅ¾bÄ›. NemÃ¡m Äas na konverzovÃ¡nÃ­.}
+{111}{}{PÄ›knÃ½ boty.}
+{112}{}{Jdi si po svÃ½ch.}
 {113}{}{There you are, sir. Have a good day.}
-{114}{}{Stala se nehoda. Jdi si po svıch.}
+{114}{}{Stala se nehoda. Jdi si po svÃ½ch.}

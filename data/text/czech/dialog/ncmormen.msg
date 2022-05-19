@@ -1,196 +1,196 @@
-{100}{}{Vidíš jednoho z Mordinovıch muù.}
-{101}{}{Vidíš Ramireze.}
-{150}{}{Vidíš opáleného mue s mnoha pohmodìninami a odlupující se kùí. Nervóznì se dívá kolem sebe.}
-{151}{}{Vidíš jednoho z Mordinovıch muù.}
-{152}{}{Vidíš jednoho z Mordinovıch muù. Trochu se klepe.}
-{153}{}{Vidíš jednoho z Mordinovıch muù. Vypadá nervóznì.}
-{154}{}{Vidíš jednoho z Mordinovıch muù. Vypadá to, e u dlouho nespal.}
-{160}{}{Vidíš podezøele vypadajícího chlapíka s èernımi vlasy na jeka. Nervóznì se dívá kolem sebe.}
-{200}{}{Jóó! }
-{201}{}{Hustì, }
+{100}{}{VidÃ­Å¡ jednoho z MordinovÃ½ch muÅ¾Å¯.}
+{101}{}{VidÃ­Å¡ Ramireze.}
+{150}{}{VidÃ­Å¡ opÃ¡lenÃ©ho muÅ¾e s mnoha pohmoÅ¾dÄ›ninami a odlupujÃ­cÃ­ se kÅ¯Å¾Ã­. NervÃ³znÄ› se dÃ­vÃ¡ kolem sebe.}
+{151}{}{VidÃ­Å¡ jednoho z MordinovÃ½ch muÅ¾Å¯.}
+{152}{}{VidÃ­Å¡ jednoho z MordinovÃ½ch muÅ¾Å¯. Trochu se klepe.}
+{153}{}{VidÃ­Å¡ jednoho z MordinovÃ½ch muÅ¾Å¯. VypadÃ¡ nervÃ³znÄ›.}
+{154}{}{VidÃ­Å¡ jednoho z MordinovÃ½ch muÅ¾Å¯. VypadÃ¡ to, Å¾e uÅ¾ dlouho nespal.}
+{160}{}{VidÃ­Å¡ podezÅ™ele vypadajÃ­cÃ­ho chlapÃ­ka s ÄernÃ½mi vlasy na jeÅ¾ka. NervÃ³znÄ› se dÃ­vÃ¡ kolem sebe.}
+{200}{}{JÃ³Ã³! }
+{201}{}{HustÄ›, }
 {202}{}{::Ukazuje ti palec nahoru::}
-{203}{}{::Píská::}
-{205}{}{Jak s tou zbrojí chèiješ?}
-{210}{}{Pìkná vìcièka, }
-{215}{}{Co se tady plazíš, no, }
-{220}{}{Nemáš u sebe trochu Jetu, kámo?}
+{203}{}{::PÃ­skÃ¡::}
+{205}{}{Jak s tou zbrojÃ­ chÄijeÅ¡?}
+{210}{}{PÄ›knÃ¡ vÄ›ciÄka, }
+{215}{}{Co se tady plazÃ­Å¡, no, }
+{220}{}{NemÃ¡Å¡ u sebe trochu Jetu, kÃ¡mo?}
 {221}{}{Nazdar, }
-{222}{}{Dal bych si panáka. Zatracenì...}
+{222}{}{Dal bych si panÃ¡ka. ZatracenÄ›...}
 {223}{}{Kuurva to je hic.}
-{224}{}{Nìjakı novinky od šéfa, }
-{230}{}{Hej! Cabron! Hledáš snad Andìla Smrti? Vypadni!}
-{231}{}{No kur... ty! Hej, co tu chceš?}
-{232}{}{Hej! Puta! Hledáš snad Andìla Smrti? Vypadni!}
-{235}{}{Hej! Promiò, hombre, ale tuhle vìcièku tu nemùeš jen tak nosit.}
-{236}{}{Hej! Homes, schovej tu vìc. Lidi jsou pak nervózní.}
-{240}{}{Hej! Chica, nemùeš tady pobíhat s tou vìcí.}
-{241}{}{Hej! Chica, schovej tu vìc. Lidi jsou pak nervózní.}
-{245}{}{Co se tady sakra plazíš, }
-{250}{}{Co se tady plazíš, chica? S tím tvım pravım hákem bys mìla chodit se vztyèenou hlavou.}
-{255}{}{Kde ses nauèil tak rvát, }
-{256}{}{Máš cojones jako Mordino.}
-{257}{}{Ten poslední boj byl teda nìco, hombre.}
-{258}{}{Bacha na dímaèku. Chutnaj mu uši.}
-{259}{}{Lítá jako motılek, ale píchá jako vosa. Tím myslím tebe, }
-{260}{}{Taky jsem døív boxoval, ale zranil jsem si ruku, take u neboxuju, chápeš?}
-{261}{}{Víš, Mordinové by takovı svaly potøebovali, }
-{262}{}{Odkud seš, e se umíš tak prát? Jseš dobrej. Fakt DOBREJ.}
-{263}{}{Promluv si s Malım Jeíšem o práci, }
-{264}{}{Vsadil jsem si na tebe a byly to mı nejlíp vsazenı prachy. Zametl jsi s ním jako nic.}
-{265}{}{Vidìl jsem tì bojovat v ringu, }
-{266}{}{Kolik zvedneš na benchi, }
-{267}{}{Kde posiluješ, hm?}
-{268}{}{Koupil bych ti drink, ale pøišel jsem o všechny peníze, kdy jsem vsadil na tvıho protivníka.}
-{269}{}{Kde ses nauèila tak rvát, chica? Jseš krutá. Fakt.}
-{270}{}{Máš na to bejt jedním z Mordinù.}
-{271}{}{Ten minulej zápas byl úasnej, chica.}
-{272}{}{Kde posiluješ, hm? Nepotøebuješ pomocníka?}
-{273}{}{Dávej si bacha na dímaèku. Chutnaj mu uši... je to pìknej zvrhlík.}
+{224}{}{NÄ›jakÃ½ novinky od Å¡Ã©fa, }
+{230}{}{Hej! Cabron! HledÃ¡Å¡ snad AndÄ›la Smrti? Vypadni!}
+{231}{}{No kur... ty! Hej, co tu chceÅ¡?}
+{232}{}{Hej! Puta! HledÃ¡Å¡ snad AndÄ›la Smrti? Vypadni!}
+{235}{}{Hej! PromiÅˆ, hombre, ale tuhle vÄ›ciÄku tu nemÅ¯Å¾eÅ¡ jen tak nosit.}
+{236}{}{Hej! Homes, schovej tu vÄ›c. Lidi jsou pak nervÃ³znÃ­.}
+{240}{}{Hej! Chica, nemÅ¯Å¾eÅ¡ tady pobÃ­hat s tou vÄ›cÃ­.}
+{241}{}{Hej! Chica, schovej tu vÄ›c. Lidi jsou pak nervÃ³znÃ­.}
+{245}{}{Co se tady sakra plazÃ­Å¡, }
+{250}{}{Co se tady plazÃ­Å¡, chica? S tÃ­m tvÃ½m pravÃ½m hÃ¡kem bys mÄ›la chodit se vztyÄenou hlavou.}
+{255}{}{Kde ses nauÄil tak rvÃ¡t, }
+{256}{}{MÃ¡Å¡ cojones jako Mordino.}
+{257}{}{Ten poslednÃ­ boj byl teda nÄ›co, hombre.}
+{258}{}{Bacha na Å½dÃ­maÄku. Chutnaj mu uÅ¡i.}
+{259}{}{LÃ­tÃ¡ jako motÃ½lek, ale pÃ­chÃ¡ jako vosa. TÃ­m myslÃ­m tebe, }
+{260}{}{Taky jsem dÅ™Ã­v boxoval, ale zranil jsem si ruku, takÅ¾e uÅ¾ neboxuju, chÃ¡peÅ¡?}
+{261}{}{VÃ­Å¡, MordinovÃ© by takovÃ½ svaly potÅ™ebovali, }
+{262}{}{Odkud seÅ¡, Å¾e se umÃ­Å¡ tak prÃ¡t? JseÅ¡ dobrej. Fakt DOBREJ.}
+{263}{}{Promluv si s MalÃ½m JeÅ¾Ã­Å¡em o prÃ¡ci, }
+{264}{}{Vsadil jsem si na tebe a byly to mÃ½ nejlÃ­p vsazenÃ½ prachy. Zametl jsi s nÃ­m jako nic.}
+{265}{}{VidÄ›l jsem tÄ› bojovat v ringu, }
+{266}{}{Kolik zvedneÅ¡ na benchi, }
+{267}{}{Kde posilujeÅ¡, hm?}
+{268}{}{Koupil bych ti drink, ale pÅ™iÅ¡el jsem o vÅ¡echny penÃ­ze, kdyÅ¾ jsem vsadil na tvÃ½ho protivnÃ­ka.}
+{269}{}{Kde ses nauÄila tak rvÃ¡t, chica? JseÅ¡ krutÃ¡. Fakt.}
+{270}{}{MÃ¡Å¡ na to bejt jednÃ­m z MordinÅ¯.}
+{271}{}{Ten minulej zÃ¡pas byl ÃºÅ¾asnej, chica.}
+{272}{}{Kde posilujeÅ¡, hm? NepotÅ™ebujeÅ¡ pomocnÃ­ka?}
+{273}{}{DÃ¡vej si bacha na Å½dÃ­maÄku. Chutnaj mu uÅ¡i... je to pÄ›knej zvrhlÃ­k.}
 {280}{}{Hey, hey, hey! Chica, you need me to put that weapon away for you?}
-{281}{}{Copak, chceš abych tì snad prohledal? No tak, schovej to elezo, nebo ti ukáu zaè je toho loket.}
-{285}{}{Co se tady sakra plazíš, }
-{290}{}{S takovım tìlem se nemáš šanci proplíit kolem Mordina, chica.}
-{295}{}{Tvùj film nebyl špatnej, ale oèividnì ode mì potøebuješ pár rad.}
-{296}{}{Pøimluv se za mì u Bratrù, jo?}
+{281}{}{Copak, chceÅ¡ abych tÄ› snad prohledal? No tak, schovej to Å¾elezo, nebo ti ukÃ¡Å¾u zaÄ je toho loket.}
+{285}{}{Co se tady sakra plazÃ­Å¡, }
+{290}{}{S takovÃ½m tÄ›lem se nemÃ¡Å¡ Å¡anci proplÃ­Å¾it kolem Mordina, chica.}
+{295}{}{TvÅ¯j film nebyl Å¡patnej, ale oÄividnÄ› ode mÄ› potÅ™ebujeÅ¡ pÃ¡r rad.}
+{296}{}{PÅ™imluv se za mÄ› u BratrÅ¯, jo?}
 {297}{}{Nazdar, }
-{298}{}{Jsem pøipravenej a volnej, take mì mùeš klidnì obsadit do filmu, jasnı? Doufám, e je to placenı, }
-{299}{}{Jsem nejlepší latino milovník. Nikdo není lepší.}
-{300}{}{Promluv si o mì s Bratry, }
-{301}{}{Slyšel jsem, e tì chce Tommy Tvrïák pozvat na soukromej casting.}
-{302}{}{Co kdybysme spolu natoèili film? Budu nìnej, chica. Ukáu ti, co umí latino milovník.}
-{303}{}{Nechceš se po práci stavit?}
-{304}{}{Nemáš nìjakı kámošky?}
-{305}{}{Dìláš dobrou vìc, e se dríš Mordinù. My jsme toti nejlepší.}
-{306}{}{Nepotøebuješ Jet? Seenu ti cokoliv, chica.}
-{307}{}{Chica, udìlám pro tebe cokoliv... no ták, dej mi malou pusu.}
-{308}{}{Potøebuješ fet? Chlast? Seenu ti cokoliv. Mám toti konexe, víš?}
-{315}{}{Neukazuj se tady s tím elezem, kamaráde. Schovej to.}
-{320}{}{Pøestaò se tady plazit, otrokáøi. Jseš mezi kamarádama.}
-{325}{}{Hej! Jseš blbej nebo co? Schovej tu vìc, nebo ti ublíím.}
-{326}{}{Chceš snad mít v hlavì díru? Schovej tu vìc.}
-{327}{}{Hej, chica! Jseš blbá nebo co? Schovej tu vìc, nebo ti ublíím.}
-{330}{}{Co se tady sakra plazíš? Chceš, aby tì nìkdo odprásknul?}
-{335}{}{Co se tady plazíš, chica? Chceš, aby tì nìkdo odprásknul?}
-{340}{}{Odvez si tu pojízdnou popelnici pryè.}
-{341}{}{Roboti sem nemaj pøístup. Vypadni.}
-{342}{}{Z toho robota zbude jen šrot, jestli tu ještì chvíli zùstane.}
-{345}{}{Já VÌDÌL, e tu cejtím mutanta. Pošli ho pryè, nebo se naštveme.}
-{346}{}{Jseš snad mutantofil? Jeho místo je VENKU. Nebo uvidí.}
-{347}{}{Ten mutant se chce stát cviènım cílem nebo co? Tak a zmizne, nebo mu to pøání splním.}
-{350}{}{Já VÌDÌL, e tu nìco hnije. Vypadni s tím ghoulem.}
-{351}{}{Odveï si odsud toho smradlavıho ghoula. Hned.}
-{352}{}{Jestli odsud ten ghoul do minuty nezmizí, bude ještì mrtvìjší, ne je teï.}
-{355}{}{Chtìl jsem bejt jednou z hlavních NPC v tıhle høe, ale dostal jsem jenom tenhle štìk. Doufám, e dostanu v budoucnu i jinou roli.}
-{356}{}{New Reno bylo navreno Chrisem Avellonem a naskriptováno Tomem Frenchem. Jsou to pìkní úchylové.}
-{357}{}{Jóó! }
-{358}{}{Hustì, }
-{359}{}{Proslıchá se, e tì hledaj Korsiètí Bratøi.}
-{360}{}{Myslel jsem si, e je prezident jenom legenda.}
-{361}{}{Vypadáš, jako bys zrovna prošel peklem a vrátil se zpátky. Odpoèiò si. Zaslouíš si to.}
-{362}{}{Ti bastardi z Enklávy mìli štìstí, e se nezapletli s Mordinama.}
-{370}{}{Nemáš u sebe trochu Jetu, kámo?}
-{371}{}{Jak to jde? U mì parádnì, kámo.}
+{298}{}{Jsem pÅ™ipravenej a volnej, takÅ¾e mÄ› mÅ¯Å¾eÅ¡ klidnÄ› obsadit do filmu, jasnÃ½? DoufÃ¡m, Å¾e je to placenÃ½, }
+{299}{}{Jsem nejlepÅ¡Ã­ latino milovnÃ­k. Nikdo nenÃ­ lepÅ¡Ã­.}
+{300}{}{Promluv si o mÄ› s Bratry, }
+{301}{}{SlyÅ¡el jsem, Å¾e tÄ› chce Tommy TvrÄÃ¡k pozvat na soukromej casting.}
+{302}{}{Co kdybysme spolu natoÄili film? Budu nÄ›Å¾nej, chica. UkÃ¡Å¾u ti, co umÃ­ latino milovnÃ­k.}
+{303}{}{NechceÅ¡ se po prÃ¡ci stavit?}
+{304}{}{NemÃ¡Å¡ nÄ›jakÃ½ kÃ¡moÅ¡ky?}
+{305}{}{DÄ›lÃ¡Å¡ dobrou vÄ›c, Å¾e se drÅ¾Ã­Å¡ MordinÅ¯. My jsme totiÅ¾ nejlepÅ¡Ã­.}
+{306}{}{NepotÅ™ebujeÅ¡ Jet? SeÅ¾enu ti cokoliv, chica.}
+{307}{}{Chica, udÄ›lÃ¡m pro tebe cokoliv... no tÃ¡k, dej mi malou pusu.}
+{308}{}{PotÅ™ebujeÅ¡ fet? Chlast? SeÅ¾enu ti cokoliv. MÃ¡m totiÅ¾ konexe, vÃ­Å¡?}
+{315}{}{Neukazuj se tady s tÃ­m Å¾elezem, kamarÃ¡de. Schovej to.}
+{320}{}{PÅ™estaÅˆ se tady plazit, otrokÃ¡Å™i. JseÅ¡ mezi kamarÃ¡dama.}
+{325}{}{Hej! JseÅ¡ blbej nebo co? Schovej tu vÄ›c, nebo ti ublÃ­Å¾Ã­m.}
+{326}{}{ChceÅ¡ snad mÃ­t v hlavÄ› dÃ­ru? Schovej tu vÄ›c.}
+{327}{}{Hej, chica! JseÅ¡ blbÃ¡ nebo co? Schovej tu vÄ›c, nebo ti ublÃ­Å¾Ã­m.}
+{330}{}{Co se tady sakra plazÃ­Å¡? ChceÅ¡, aby tÄ› nÄ›kdo odprÃ¡sknul?}
+{335}{}{Co se tady plazÃ­Å¡, chica? ChceÅ¡, aby tÄ› nÄ›kdo odprÃ¡sknul?}
+{340}{}{Odvez si tu pojÃ­zdnou popelnici pryÄ.}
+{341}{}{Roboti sem nemaj pÅ™Ã­stup. Vypadni.}
+{342}{}{Z toho robota zbude jen Å¡rot, jestli tu jeÅ¡tÄ› chvÃ­li zÅ¯stane.}
+{345}{}{JÃ¡ VÄšDÄšL, Å¾e tu cejtÃ­m mutanta. PoÅ¡li ho pryÄ, nebo se naÅ¡tveme.}
+{346}{}{JseÅ¡ snad mutantofil? Jeho mÃ­sto je VENKU. Nebo uvidÃ­.}
+{347}{}{Ten mutant se chce stÃ¡t cviÄnÃ½m cÃ­lem nebo co? Tak aÅ¥ zmizne, nebo mu to pÅ™Ã¡nÃ­ splnÃ­m.}
+{350}{}{JÃ¡ VÄšDÄšL, Å¾e tu nÄ›co hnije. Vypadni s tÃ­m ghoulem.}
+{351}{}{OdveÄ si odsud toho smradlavÃ½ho ghoula. Hned.}
+{352}{}{Jestli odsud ten ghoul do minuty nezmizÃ­, bude jeÅ¡tÄ› mrtvÄ›jÅ¡Ã­, neÅ¾ je teÄ.}
+{355}{}{ChtÄ›l jsem bejt jednou z hlavnÃ­ch NPC v tÃ½hle hÅ™e, ale dostal jsem jenom tenhle Å¡tÄ›k. DoufÃ¡m, Å¾e dostanu v budoucnu i jinou roli.}
+{356}{}{New Reno bylo navrÅ¾eno Chrisem Avellonem a naskriptovÃ¡no Tomem Frenchem. Jsou to pÄ›knÃ­ ÃºchylovÃ©.}
+{357}{}{JÃ³Ã³! }
+{358}{}{HustÄ›, }
+{359}{}{ProslÃ½chÃ¡ se, Å¾e tÄ› hledaj KorsiÄtÃ­ BratÅ™i.}
+{360}{}{Myslel jsem si, Å¾e je prezident jenom legenda.}
+{361}{}{VypadÃ¡Å¡, jako bys zrovna proÅ¡el peklem a vrÃ¡til se zpÃ¡tky. OdpoÄiÅˆ si. ZaslouÅ¾Ã­Å¡ si to.}
+{362}{}{Ti bastardi z EnklÃ¡vy mÄ›li Å¡tÄ›stÃ­, Å¾e se nezapletli s Mordinama.}
+{370}{}{NemÃ¡Å¡ u sebe trochu Jetu, kÃ¡mo?}
+{371}{}{Jak to jde? U mÄ› parÃ¡dnÄ›, kÃ¡mo.}
 {372}{}{Co? ::Odplivne si:: Jak se vede, }
-{373}{}{Rád tì vidím, }
-{374}{}{Dal bych si panáka. Zatracenì...}
-{375}{}{Ále, vdy to znáš, poøád to samı. A co ty, }
+{373}{}{RÃ¡d tÄ› vidÃ­m, }
+{374}{}{Dal bych si panÃ¡ka. ZatracenÄ›...}
+{375}{}{Ãle, vÅ¾dyÅ¥ to znÃ¡Å¡, poÅ™Ã¡d to samÃ½. A co ty, }
 {376}{}{Kuurva to je hic.}
-{377}{}{Jak se má Velkej Mordino? Øekni mu, e na nìj dávám pozor, }
-{378}{}{Minulou noc jsem oddìlal radškorpiona. Skoro mì uštknul, hajzl jeden.}
-{379}{}{Jestli se do nás Bishop zaène srát, udìláme z nìj rádlo pro èervy, e jo?}
-{380}{}{Nìjakı novinky od šéfa, }
-{381}{}{Kdy zas sejmeme nìjakıho Bishopa, co? Moje pistole u rezaví.}
-{382}{}{Ti Salvatoøi si tu kolem chodìj, jako kdyby jim Reno patøilo. Potøebovali by malou lekci, nemyslíš?}
-{383}{}{Slyšel jsem, e je Tommy Tvrïák ve mìstì. Radši si dávej bacha.}
-{384}{}{Nemáš u sebe trochu Jetu, chica? Je mi na chcípnutí.}
-{400}{}{Máš fakt cojones sem pøijít. Radši zmiz.}
-{401}{}{Vypadáš, jako kdyby tvoje matka byla pìkná èubka.}
-{402}{}{Vypadáš jako èlovìk, kterej nemá tušení, e brzo chcípne.}
+{377}{}{Jak se mÃ¡ Velkej Mordino? Å˜ekni mu, Å¾e na nÄ›j dÃ¡vÃ¡m pozor, }
+{378}{}{Minulou noc jsem oddÄ›lal radÅ¡korpiona. Skoro mÄ› uÅ¡tknul, hajzl jeden.}
+{379}{}{Jestli se do nÃ¡s Bishop zaÄne srÃ¡t, udÄ›lÃ¡me z nÄ›j Å¾rÃ¡dlo pro Äervy, Å¾e jo?}
+{380}{}{NÄ›jakÃ½ novinky od Å¡Ã©fa, }
+{381}{}{Kdy zas sejmeme nÄ›jakÃ½ho Bishopa, co? Moje pistole uÅ¾ rezavÃ­.}
+{382}{}{Ti SalvatoÅ™i si tu kolem chodÄ›j, jako kdyby jim Reno patÅ™ilo. PotÅ™ebovali by malou lekci, nemyslÃ­Å¡?}
+{383}{}{SlyÅ¡el jsem, Å¾e je Tommy TvrÄÃ¡k ve mÄ›stÄ›. RadÅ¡i si dÃ¡vej bacha.}
+{384}{}{NemÃ¡Å¡ u sebe trochu Jetu, chica? Je mi na chcÃ­pnutÃ­.}
+{400}{}{MÃ¡Å¡ fakt cojones sem pÅ™ijÃ­t. RadÅ¡i zmiz.}
+{401}{}{VypadÃ¡Å¡, jako kdyby tvoje matka byla pÄ›knÃ¡ Äubka.}
+{402}{}{VypadÃ¡Å¡ jako ÄlovÄ›k, kterej nemÃ¡ tuÅ¡enÃ­, Å¾e brzo chcÃ­pne.}
 {403}{}{Hijo de puta...}
-{404}{}{To mluvíš se mnou? To mluvíš se mnou?}
-{405}{}{Promluv na mì ještì jednou a nasypu do tebe tolik olova, e ani Superman skrz tebe neuvidí.}
+{404}{}{To mluvÃ­Å¡ se mnou? To mluvÃ­Å¡ se mnou?}
+{405}{}{Promluv na mÄ› jeÅ¡tÄ› jednou a nasypu do tebe tolik olova, Å¾e ani Superman skrz tebe neuvidÃ­.}
 {406}{}{::Plivne ti pod nohy::}
-{407}{}{Myslíš, e si sem mùeš jen tak napochodovat a mluvit s Mordinem? Vypadni.}
-{408}{}{Promluv na mì ještì jednou a zabiju tvou rodinu, tvıho psa a pak i tebe. Dvakrát.}
+{407}{}{MyslÃ­Å¡, Å¾e si sem mÅ¯Å¾eÅ¡ jen tak napochodovat a mluvit s Mordinem? Vypadni.}
+{408}{}{Promluv na mÄ› jeÅ¡tÄ› jednou a zabiju tvou rodinu, tvÃ½ho psa a pak i tebe. DvakrÃ¡t.}
 {409}{}{::Plivne ti pod nohy::}
-{410}{}{Myslíš, e si sem mùeš jen tak napochodovat a mluvit s Mordinem? Vypadni.}
-{411}{}{Promluv na mì ještì jednou, puta, a nasypu do tebe tolik olova, e ani Superman skrz tebe neuvidí.}
-{412}{}{Bude lepší, kdy se vrátíš zpátky do boudy, puta.}
-{413}{}{Ty musíš bejt ta nejblbìjší puta na celım svìtì, kdy se mnou chceš mluvit.}
+{410}{}{MyslÃ­Å¡, Å¾e si sem mÅ¯Å¾eÅ¡ jen tak napochodovat a mluvit s Mordinem? Vypadni.}
+{411}{}{Promluv na mÄ› jeÅ¡tÄ› jednou, puta, a nasypu do tebe tolik olova, Å¾e ani Superman skrz tebe neuvidÃ­.}
+{412}{}{Bude lepÅ¡Ã­, kdyÅ¾ se vrÃ¡tÃ­Å¡ zpÃ¡tky do boudy, puta.}
+{413}{}{Ty musÃ­Å¡ bejt ta nejblbÄ›jÅ¡Ã­ puta na celÃ½m svÄ›tÄ›, kdyÅ¾ se mnou chceÅ¡ mluvit.}
 {414}{}{Hija de puta...}
-{420}{}{Ne, já nemám na starosti obchod s otroky... promluv si s Malım Jeíšem.}
-{421}{}{Kdy koneènì pøivezete nìjakı pìknı otrokynì? Minulej rok to byla dost bída, otrokáøi. Fakt bída.}
-{422}{}{Mordinové teï nepotøebujou ádnı otroky. Ale samozøejmì jestli se chceš nìkoho zbavit...}
-{423}{}{Nemám na starosti obchod s otroky.}
-{424}{}{Dìláš dobrou vìc, e to táhneš s Mordinama. My jsme toti nejlepší.}
+{420}{}{Ne, jÃ¡ nemÃ¡m na starosti obchod s otroky... promluv si s MalÃ½m JeÅ¾Ã­Å¡em.}
+{421}{}{Kdy koneÄnÄ› pÅ™ivezete nÄ›jakÃ½ pÄ›knÃ½ otrokynÄ›? Minulej rok to byla dost bÃ­da, otrokÃ¡Å™i. Fakt bÃ­da.}
+{422}{}{MordinovÃ© teÄ nepotÅ™ebujou Å¾Ã¡dnÃ½ otroky. Ale samozÅ™ejmÄ› jestli se chceÅ¡ nÄ›koho zbavit...}
+{423}{}{NemÃ¡m na starosti obchod s otroky.}
+{424}{}{DÄ›lÃ¡Å¡ dobrou vÄ›c, Å¾e to tÃ¡hneÅ¡ s Mordinama. My jsme totiÅ¾ nejlepÅ¡Ã­.}
 {425}{}{Jak to jde v Denu?}
-{430}{}{Hledáš práci? Promluv si s Malım Jeíšem.}
-{435}{}{Podívej, nejsem tvùj compadre, take u na mì víckrát nemluv.}
-{436}{}{Mordinové nemaj ádnı pøátele s vıjimkou Mordinù. Padej, divochu.}
-{437}{}{Vyfiè, divochu.}
-{438}{}{Nemám na tebe ÈAS.}
+{430}{}{HledÃ¡Å¡ prÃ¡ci? Promluv si s MalÃ½m JeÅ¾Ã­Å¡em.}
+{435}{}{PodÃ­vej, nejsem tvÅ¯j compadre, takÅ¾e uÅ¾ na mÄ› vÃ­ckrÃ¡t nemluv.}
+{436}{}{MordinovÃ© nemaj Å¾Ã¡dnÃ½ pÅ™Ã¡tele s vÃ½jimkou MordinÅ¯. Padej, divochu.}
+{437}{}{VyfiÄ, divochu.}
+{438}{}{NemÃ¡m na tebe ÄŒAS.}
 {439}{}{Vypadni odsud.}
-{440}{}{Divošskej odpade...}
-{441}{}{Co sakra chceš, divochu?}
-{442}{}{Nemám na tebe ÈAS.}
+{440}{}{DivoÅ¡skej odpade...}
+{441}{}{Co sakra chceÅ¡, divochu?}
+{442}{}{NemÃ¡m na tebe ÄŒAS.}
 {443}{}{Zmizni.}
-{444}{}{Divošskej odpade...}
-{445}{}{Nedám ti ádnej Jet a je mi fuk, jestli budeš ebrat. Padej.}
-{446}{}{Hele, já NEJSEM tvùj brácha, take na mì u víckrát nemluv.}
-{447}{}{Hele, a budu potøebovat kurvu, tak si ji koupím. Teï vypadni, chica.}
-{448}{}{Mordinové nemaj ádnı pøátele s vıjimkou Mordinù. Padej, puta.}
-{449}{}{Vyfiè, puta.}
-{460}{}{(Jakmile tì spatøí, ušklíbne se.) Hledáš problémy, homes?}
-{461}{}{(Jakmile tì spatøí, ušklíbne se.) Hledáš problémy, chica?}
-{462}{}{Ty jsi Ramirez? Velkej Jeíš mi pro tebe dal tenhle balík.}
-{463}{}{Nehledám. U pùjdu.}
-{470}{}{(Vezme si balík.) No u bylo naèase, málem nám úplnì došel Jet. (Popotáhne nosem a poté lehce zakašle.) Nevím, kam se furt ztrácí...}
-{471}{}{Jo, dobøe, buï opatrnı...}
-{472}{}{Kdy tì tak pozoruju jak kašleš a jak si mneš nos, tak je myslím docela jasné, kam se ty dodávky Jetu ztrácí.}
-{473}{}{Víš, Velkej J se o nás stará, jasnı? Minulej tejden jsem chytil tøi otroky, co byli natolik pitomı, e chtìli utıct. Take jsem dostal odmìnu, víš? Hehe. A ty nedostaneš ani hovno. Ty jseš jen poslíèek. Ale já, já jsem STRÁ.}
-{474}{}{Jo, bezva. Tak se mìj.}
+{444}{}{DivoÅ¡skej odpade...}
+{445}{}{NedÃ¡m ti Å¾Ã¡dnej Jet a je mi fuk, jestli budeÅ¡ Å¾ebrat. Padej.}
+{446}{}{Hele, jÃ¡ NEJSEM tvÅ¯j brÃ¡cha, takÅ¾e na mÄ› uÅ¾ vÃ­ckrÃ¡t nemluv.}
+{447}{}{Hele, aÅ¾ budu potÅ™ebovat kurvu, tak si ji koupÃ­m. TeÄ vypadni, chica.}
+{448}{}{MordinovÃ© nemaj Å¾Ã¡dnÃ½ pÅ™Ã¡tele s vÃ½jimkou MordinÅ¯. Padej, puta.}
+{449}{}{VyfiÄ, puta.}
+{460}{}{(Jakmile tÄ› spatÅ™Ã­, uÅ¡klÃ­bne se.) HledÃ¡Å¡ problÃ©my, homes?}
+{461}{}{(Jakmile tÄ› spatÅ™Ã­, uÅ¡klÃ­bne se.) HledÃ¡Å¡ problÃ©my, chica?}
+{462}{}{Ty jsi Ramirez? Velkej JeÅ¾Ã­Å¡ mi pro tebe dal tenhle balÃ­k.}
+{463}{}{NehledÃ¡m. UÅ¾ pÅ¯jdu.}
+{470}{}{(Vezme si balÃ­k.) No uÅ¾ bylo naÄase, mÃ¡lem nÃ¡m ÃºplnÄ› doÅ¡el Jet. (PopotÃ¡hne nosem a potÃ© lehce zakaÅ¡le.) NevÃ­m, kam se furt ztrÃ¡cÃ­...}
+{471}{}{Jo, dobÅ™e, buÄ opatrnÃ½...}
+{472}{}{KdyÅ¾ tÄ› tak pozoruju jak kaÅ¡leÅ¡ a jak si mneÅ¡ nos, tak je myslÃ­m docela jasnÃ©, kam se ty dodÃ¡vky Jetu ztrÃ¡cÃ­.}
+{473}{}{VÃ­Å¡, Velkej J se o nÃ¡s starÃ¡, jasnÃ½? Minulej tejden jsem chytil tÅ™i otroky, co byli natolik pitomÃ½, Å¾e chtÄ›li utÃ½ct. TakÅ¾e jsem dostal odmÄ›nu, vÃ­Å¡? Hehe. A ty nedostaneÅ¡ ani hovno. Ty jseÅ¡ jen poslÃ­Äek. Ale jÃ¡, jÃ¡ jsem STRÃÅ½.}
+{474}{}{Jo, bezva. Tak se mÄ›j.}
 {475}{}{I wonder if Big Jesus realizes how those three slaves might have escaped under the NOSES of such perceptive, Jet-addicted
  guards such as yourself.}
-{476}{}{Ramirezi... dej si bacha na to, co øíkáš, rozumíš? Ten tvùj jazyk by tì mohl jednou dostat do maléru.}
-{480}{}{(Mrkne.) Co...? Co øíkáš?}
-{481}{}{Nic, èemu bys rozumìl nebo co budu opakovat. Dávej na sebe pozor, rozumíš?}
+{476}{}{Ramirezi... dej si bacha na to, co Å™Ã­kÃ¡Å¡, rozumÃ­Å¡? Ten tvÅ¯j jazyk by tÄ› mohl jednou dostat do malÃ©ru.}
+{480}{}{(Mrkne.) Co...? Co Å™Ã­kÃ¡Å¡?}
+{481}{}{Nic, Äemu bys rozumÄ›l nebo co budu opakovat. DÃ¡vej na sebe pozor, rozumÃ­Å¡?}
 {482}{}{I said, "I wonder if Big Jesus realizes how those slaves might have escaped under the NOSES of such
  perceptive, Jet-addicted guards such as yourself."}
-{490}{}{(Zamrká a zmatenì se usmìje.) Co? Jo, jo. Jsem bdìlej a... os-ostraitej... jsem pøece STRÁ, jasnı?}
-{491}{}{Jo, to u jsi øíkal. Myslím, e bys prokázal lidstvu velkou laskavost, Ramirezi, kdybys celej ten balík Jetu vyšòupal najednou. Mìj se.}
-{492}{}{Jsem opravdu moc rád, e mìl nìkdo tolik rozumu, aby vám všem dal automatické zbranì. Dává mi to pocit jistoty. Mìj se, Ramirezi.}
-{493}{}{(Mrkne.) Co...? Co øíkáš?}
-{494}{}{Zapomeò na to. Strè si do tlamy pistoli a zmáèkni spouš, jo?}
-{495}{}{Ale nic. Myslím, e bys prokázal lidstvu velkou laskavost, Ramirezi, kdybys celou tu krabici Jetu vyšòupal najednou. Mìj se.}
-{496}{}{[Odejít]}
-{500}{}{(Kdy u se chystáš jít pryè, Ramirez zachrochtá.) Hej! Ta krabice byla otevøená! }
-{501}{}{Zahráváš si se mnou, homes? }
-{502}{}{Zahráváš si se mnou, chica? }
-{503}{}{Nikdo si nebude zahrávat s Ramirezem, slyšíš?!}
-{504}{}{Jo, slyším tì. Ale naštìstí u ne nadlouho.}
-{505}{}{Špatná volba posledních slov, Ramirezi.}
-{600}{}{Podaøilo se ti Ramirezovi doruèit balík od Velkého Jeíše.}
-{1200}{}{! Takhle se nakopává Enklávì prdel!}
-{1201}{}{, takhle se na ty bastardy z Enklávy musí.}
+{490}{}{(ZamrkÃ¡ a zmatenÄ› se usmÄ›je.) Co? Jo, jo. Jsem bdÄ›lej a... os-ostraÅ¾itej... jsem pÅ™ece STRÃÅ½, jasnÃ½?}
+{491}{}{Jo, to uÅ¾ jsi Å™Ã­kal. MyslÃ­m, Å¾e bys prokÃ¡zal lidstvu velkou laskavost, Ramirezi, kdybys celej ten balÃ­k Jetu vyÅ¡Åˆupal najednou. MÄ›j se.}
+{492}{}{Jsem opravdu moc rÃ¡d, Å¾e mÄ›l nÄ›kdo tolik rozumu, aby vÃ¡m vÅ¡em dal automatickÃ© zbranÄ›. DÃ¡vÃ¡ mi to pocit jistoty. MÄ›j se, Ramirezi.}
+{493}{}{(Mrkne.) Co...? Co Å™Ã­kÃ¡Å¡?}
+{494}{}{ZapomeÅˆ na to. StrÄ si do tlamy pistoli a zmÃ¡Äkni spouÅ¡Å¥, jo?}
+{495}{}{Ale nic. MyslÃ­m, Å¾e bys prokÃ¡zal lidstvu velkou laskavost, Ramirezi, kdybys celou tu krabici Jetu vyÅ¡Åˆupal najednou. MÄ›j se.}
+{496}{}{[OdejÃ­t]}
+{500}{}{(KdyÅ¾ uÅ¾ se chystÃ¡Å¡ jÃ­t pryÄ, Ramirez zachrochtÃ¡.) Hej! Ta krabice byla otevÅ™enÃ¡! }
+{501}{}{ZahrÃ¡vÃ¡Å¡ si se mnou, homes? }
+{502}{}{ZahrÃ¡vÃ¡Å¡ si se mnou, chica? }
+{503}{}{Nikdo si nebude zahrÃ¡vat s Ramirezem, slyÅ¡Ã­Å¡?!}
+{504}{}{Jo, slyÅ¡Ã­m tÄ›. Ale naÅ¡tÄ›stÃ­ uÅ¾ ne nadlouho.}
+{505}{}{Å patnÃ¡ volba poslednÃ­ch slov, Ramirezi.}
+{600}{}{PodaÅ™ilo se ti Ramirezovi doruÄit balÃ­k od VelkÃ©ho JeÅ¾Ã­Å¡e.}
+{1200}{}{! Takhle se nakopÃ¡vÃ¡ EnklÃ¡vÄ› prdel!}
+{1201}{}{, takhle se na ty bastardy z EnklÃ¡vy musÃ­.}
 {1210}{}{.}
-{1215}{}{? Mordinové chodìj hrdì.}
+{1215}{}{? MordinovÃ© chodÄ›j hrdÄ›.}
 {1221}{}{! Que pasa?}
 {1224}{}{?}
-{1245}{}{? S tím tvım pravım hákem bys mìl chodit se vztyèenou hlavou.}
-{1255}{}{? Jseš brutální. Máš parádní údery, homes.}
+{1245}{}{? S tÃ­m tvÃ½m pravÃ½m hÃ¡kem bys mÄ›l chodit se vztyÄenou hlavou.}
+{1255}{}{? JseÅ¡ brutÃ¡lnÃ­. MÃ¡Å¡ parÃ¡dnÃ­ Ãºdery, homes.}
 {1259}{}{.}
-{1261}{}{. A tì ostatní rodiny uvidìj, tak se strachy podìlaj.}
+{1261}{}{. AÅ¾ tÄ› ostatnÃ­ rodiny uvidÄ›j, tak se strachy podÄ›laj.}
 {1263}{}{.}
-{1265}{}{. Pìknì jsi toho chlápka vyøídil.}
+{1265}{}{. PÄ›knÄ› jsi toho chlÃ¡pka vyÅ™Ã­dil.}
 {1266}{}{?}
-{1285}{}{? No ták, chovej se sebevìdomì.}
-{1297}{}{! Que pasa? Domluvíš mi to teda u Bratrù nebo jak?}
-{1298}{}{, hlavnì a je to placenı!}
-{1300}{}{...no ták. Já na to mám.}
-{1357}{}{! Takhle se nakopává Enklávì prdel!}
-{1358}{}{, takhle se na ty bastardy z Enklávy musí.}
+{1285}{}{? No tÃ¡k, chovej se sebevÄ›domÄ›.}
+{1297}{}{! Que pasa? DomluvÃ­Å¡ mi to teda u BratrÅ¯ nebo jak?}
+{1298}{}{, hlavnÄ› aÅ¥ je to placenÃ½!}
+{1300}{}{...no tÃ¡k. JÃ¡ na to mÃ¡m.}
+{1357}{}{! Takhle se nakopÃ¡vÃ¡ EnklÃ¡vÄ› prdel!}
+{1358}{}{, takhle se na ty bastardy z EnklÃ¡vy musÃ­.}
 {1372}{}{?}
-{1373}{}{. Kde se flákáš?}
+{1373}{}{. Kde se flÃ¡kÃ¡Å¡?}
 {1375}{}{?}
 {1377}{}{?}
 {1380}{}{?}

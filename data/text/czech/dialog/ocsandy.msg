@@ -1,41 +1,41 @@
-{100}{}{Vidíš malou holèièku ve lutıch šatièkách.}
-{101}{}{Vidíš Sandy.}
-{102}{}{Vidíš malou holèièku ve lutıch šatièkách s kytièkami. Zdá se, e mòouká jako koèka. Má jmenovku se jménem "Sandy".}
-{103}{}{Mòau... mòau... já jsem koèka. A mám speciální schopnosti jako koèky. Co jsi ty?}
-{104}{}{Já pejsek! Haf! Haf! Kdo ty?}
-{105}{}{He? (Zmatenı psí pohled)}
-{106}{}{Ty divnı. Já pryè.}
-{107}{}{Já jsem èlovìk, kterı ti nakope prdel, jestli nepøestaneš s tìma koèièíma blbostma a neøekneš mi svoje jméno.}
-{108}{}{Jsem jen obyèejnı èlovìk, kterého zajímá tvoje speciální osobnost. Øekneš mi svoje jméno?}
-{109}{}{Zapomeò na to.}
-{110}{}{(Smìje se) Vypadáš srandovnì! Mòau... jsem Sandy. Nejsem opravdová koèka, jen si na ni ráda hraju.}
-{111}{}{(Køièí) Mami! Mami! Mami!}
-{112}{}{Jsem Sandy. Nejsem opravdová koèka, jenom si ráda hraju.}
-{113}{}{Já taky hrát. Já ptát ty otázky?}
-{114}{}{Já teï jít.}
-{115}{}{Aha. Mùu se na nìco zeptat?}
-{116}{}{Dobøe, mizím.}
-{117}{}{Na co se mì chceš zeptat?}
-{118}{}{Ty bıt tady protoe muset?}
-{119}{}{Ty líbit tady?}
-{120}{}{Ty bıt v bezpeèí?}
-{121}{}{To nic. Já odejít.}
-{122}{}{Ty tady musíš bıt?}
-{123}{}{Líbí se ti tady?}
-{124}{}{Jsi tady v bezpeèí?}
+{100}{}{VidÃ­Å¡ malou holÄiÄku ve Å¾lutÃ½ch Å¡atiÄkÃ¡ch.}
+{101}{}{VidÃ­Å¡ Sandy.}
+{102}{}{VidÃ­Å¡ malou holÄiÄku ve Å¾lutÃ½ch Å¡atiÄkÃ¡ch s kytiÄkami. ZdÃ¡ se, Å¾e mÅˆoukÃ¡ jako koÄka. MÃ¡ jmenovku se jmÃ©nem "Sandy".}
+{103}{}{MÅˆau... mÅˆau... jÃ¡ jsem koÄka. A mÃ¡m speciÃ¡lnÃ­ schopnosti jako koÄky. Co jsi ty?}
+{104}{}{JÃ¡ pejsek! Haf! Haf! Kdo ty?}
+{105}{}{He? (ZmatenÃ½ psÃ­ pohled)}
+{106}{}{Ty divnÃ½. JÃ¡ pryÄ.}
+{107}{}{JÃ¡ jsem ÄlovÄ›k, kterÃ½ ti nakope prdel, jestli nepÅ™estaneÅ¡ s tÄ›ma koÄiÄÃ­ma blbostma a neÅ™ekneÅ¡ mi svoje jmÃ©no.}
+{108}{}{Jsem jen obyÄejnÃ½ ÄlovÄ›k, kterÃ©ho zajÃ­mÃ¡ tvoje speciÃ¡lnÃ­ osobnost. Å˜ekneÅ¡ mi svoje jmÃ©no?}
+{109}{}{ZapomeÅˆ na to.}
+{110}{}{(SmÄ›je se) VypadÃ¡Å¡ srandovnÄ›! MÅˆau... jsem Sandy. Nejsem opravdovÃ¡ koÄka, jen si na ni rÃ¡da hraju.}
+{111}{}{(KÅ™iÄÃ­) Mami! Mami! Mami!}
+{112}{}{Jsem Sandy. Nejsem opravdovÃ¡ koÄka, jenom si rÃ¡da hraju.}
+{113}{}{JÃ¡ taky hrÃ¡t. JÃ¡ ptÃ¡t ty otÃ¡zky?}
+{114}{}{JÃ¡ teÄ jÃ­t.}
+{115}{}{Aha. MÅ¯Å¾u se na nÄ›co zeptat?}
+{116}{}{DobÅ™e, mizÃ­m.}
+{117}{}{Na co se mÄ› chceÅ¡ zeptat?}
+{118}{}{Ty bÃ½t tady protoÅ¾e muset?}
+{119}{}{Ty lÃ­bit tady?}
+{120}{}{Ty bÃ½t v bezpeÄÃ­?}
+{121}{}{To nic. JÃ¡ odejÃ­t.}
+{122}{}{Ty tady musÃ­Å¡ bÃ½t?}
+{123}{}{LÃ­bÃ­ se ti tady?}
+{124}{}{Jsi tady v bezpeÄÃ­?}
 {125}{}{Ale nic. Nashle.}
-{126}{}{Jo. Maminka mi vdycky øíká kam mùu a kam ne. Øíká mi, kde si mùu hrát, kdy mám jíst, kdy mám jít spát, kdy mám èùrat a kdy mám jít do školy, no prostì všechno. Myslím, e to není fér, kdy si ona mùe dìlat co chce, ale já ji musím poøád poslouchat.}
-{127}{}{Dobøe.}
-{128}{}{Já muset jít.}
+{126}{}{Jo. Maminka mi vÅ¾dycky Å™Ã­kÃ¡ kam mÅ¯Å¾u a kam ne. Å˜Ã­kÃ¡ mi, kde si mÅ¯Å¾u hrÃ¡t, kdy mÃ¡m jÃ­st, kdy mÃ¡m jÃ­t spÃ¡t, kdy mÃ¡m ÄÅ¯rat a kdy mÃ¡m jÃ­t do Å¡koly, no prostÄ› vÅ¡echno. MyslÃ­m, Å¾e to nenÃ­ fÃ©r, kdyÅ¾ si ona mÅ¯Å¾e dÄ›lat co chce, ale jÃ¡ ji musÃ­m poÅ™Ã¡d poslouchat.}
+{127}{}{DobÅ™e.}
+{128}{}{JÃ¡ muset jÃ­t.}
 {129}{}{Aha.}
-{130}{}{Tak to by mi prozatím staèilo. Ahoj.}
-{131}{}{Asi jo. Chybí mi tu další dìti, se kterejma bych si mohla hrát, ale maminka øíká, e se to jednou zmìní. Myslí si, e sem pøijdou ít další rodiny s dìtmi. Zatím si hraju s Valdisem. Je s ním sranda a hraje si se mnou na koníèka. Maminka øíká, abych ho nechala bıt. Má moc práce a nemá èas si hrát, ale kdy mu øeknu, tak si se mnou stejnì hraje. Jenom o tom mamince neøíkám.}
-{132}{}{Na koníèka... (Zmatenı psí pohled)}
-{133}{}{Já jít.}
-{134}{}{To je milé.}
-{135}{}{Dobøe, zatím.}
-{136}{}{Jo. Maminka se o mì stará a Valdis nedovolí, aby mi nìkdo ublíil. Jsem v bezpeèí.}
-{137}{}{Dobøe. Já teï jít.}
-{138}{}{Dobøe. U musím jít.}
+{130}{}{Tak to by mi prozatÃ­m staÄilo. Ahoj.}
+{131}{}{Asi jo. ChybÃ­ mi tu dalÅ¡Ã­ dÄ›ti, se kterejma bych si mohla hrÃ¡t, ale maminka Å™Ã­kÃ¡, Å¾e se to jednou zmÄ›nÃ­. MyslÃ­ si, Å¾e sem pÅ™ijdou Å¾Ã­t dalÅ¡Ã­ rodiny s dÄ›tmi. ZatÃ­m si hraju s Valdisem. Je s nÃ­m sranda a hraje si se mnou na konÃ­Äka. Maminka Å™Ã­kÃ¡, abych ho nechala bÃ½t. MÃ¡ moc prÃ¡ce a nemÃ¡ Äas si hrÃ¡t, ale kdyÅ¾ mu Å™eknu, tak si se mnou stejnÄ› hraje. Jenom o tom mamince neÅ™Ã­kÃ¡m.}
+{132}{}{Na konÃ­Äka... (ZmatenÃ½ psÃ­ pohled)}
+{133}{}{JÃ¡ jÃ­t.}
+{134}{}{To je milÃ©.}
+{135}{}{DobÅ™e, zatÃ­m.}
+{136}{}{Jo. Maminka se o mÄ› starÃ¡ a Valdis nedovolÃ­, aby mi nÄ›kdo ublÃ­Å¾il. Jsem v bezpeÄÃ­.}
+{137}{}{DobÅ™e. JÃ¡ teÄ jÃ­t.}
+{138}{}{DobÅ™e. UÅ¾ musÃ­m jÃ­t.}
 {139}{}{Ahoj.}
-{140}{}{Bì pryè! Nemám tì ráda!}
+{140}{}{BÄ›Å¾ pryÄ! NemÃ¡m tÄ› rÃ¡da!}

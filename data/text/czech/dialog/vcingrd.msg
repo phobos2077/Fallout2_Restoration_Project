@@ -1,67 +1,67 @@
-{100}{}{Sleduju tì, venkovane.}
-{101}{}{Myslím, e je naèase, abys odsud odešel.}
-{102}{}{Nelíbíš se mi.}
-{103}{}{Nestrkej do nièeho nos, jinak ti seberu Denní propustku.}
-{104}{}{Je po šesté hodinì veèerní. Nejvyšší èas vrátit se na Pøedmìstí.}
-{105}{}{Dobøe. Ihned odcházím.}
-{106}{}{Dobøe. Za minutku pùjdu.}
+{100}{}{Sleduju tÄ›, venkovane.}
+{101}{}{MyslÃ­m, Å¾e je naÄase, abys odsud odeÅ¡el.}
+{102}{}{NelÃ­bÃ­Å¡ se mi.}
+{103}{}{Nestrkej do niÄeho nos, jinak ti seberu DennÃ­ propustku.}
+{104}{}{Je po Å¡estÃ© hodinÄ› veÄernÃ­. NejvyÅ¡Å¡Ã­ Äas vrÃ¡tit se na PÅ™edmÄ›stÃ­.}
+{105}{}{DobÅ™e. Ihned odchÃ¡zÃ­m.}
+{106}{}{DobÅ™e. Za minutku pÅ¯jdu.}
 {107}{}{I got things to do. I'll go when I'm ready to go.}
 {108}{}{Bubu baba!?! BUBU BABA!}
-{109}{}{No, jenom se ujistím, e dojdeš na Pøedmìstí v poøádku. Tak pojï, jdeme.}
-{110}{}{Dobrá. Tak jdeme.}
+{109}{}{No, jenom se ujistÃ­m, Å¾e dojdeÅ¡ na PÅ™edmÄ›stÃ­ v poÅ™Ã¡dku. Tak pojÄ, jdeme.}
+{110}{}{DobrÃ¡. Tak jdeme.}
 {111}{}{Bongo Dongo.}
-{112}{}{Dojdu tam po svıch.}
-{113}{}{Promiò, ale mám svoje rozkazy. Musím tì eskortovat na druhou stranu mìstské brány.}
-{114}{}{Dobøe... ale nelíbí se mi to. Asi na tebe podám stí...}
-{115}{}{Promiò, ale já mám zase *SVOJE* rozkazy. Zùstávám.}
-{116}{}{(Nakloní se k tobì.) Podívej, *dnešní* den byl dlouhı, pøíteli. Pojï se mnou, nedìlej ádné problémy a všechno bude v pohodì. Rozumíš?}
-{117}{}{Dobøe. Tak fajn, pùjdu.}
-{118}{}{Jen pøes mou mrtvolu!}
-{119}{}{Vault City vdy zvítìzí, Obèane.}
-{120}{}{Rád vás vidím, Obèane.}
-{121}{}{Pernı den, Obèane?}
-{122}{}{A po vás, Obèane.}
-{123}{}{Zdravím tì, cestovateli.}
-{124}{}{Jdi si po svém, venkovane.}
-{125}{}{Pamatuj, máš èas do šesti do veèera.}
-{126}{}{A jsi pryè do šesti do veèera.}
-{127}{}{Podívej, já jsem Obèan.}
-{128}{}{Nic nového, Kapitáne.}
-{129}{}{Vše bedlivì sleduji, Kapitáne.}
-{130}{}{Vault City vdy zvítìzí, Kapitáne.}
-{131}{}{Dobrı den, Kapitáne.}
-{132}{}{Hej ty! Stùj! Co dìlá ten ghoul ve Vault City?!}
-{133}{}{Hej ty! Stùj! Co dìlá ten mutant ve Vault City?!}
-{134}{}{Eeech-èup kiki kiki.}
+{112}{}{Dojdu tam po svÃ½ch.}
+{113}{}{PromiÅˆ, ale mÃ¡m svoje rozkazy. MusÃ­m tÄ› eskortovat na druhou stranu mÄ›stskÃ© brÃ¡ny.}
+{114}{}{DobÅ™e... ale nelÃ­bÃ­ se mi to. Asi na tebe podÃ¡m stÃ­Å¾...}
+{115}{}{PromiÅˆ, ale jÃ¡ mÃ¡m zase *SVOJE* rozkazy. ZÅ¯stÃ¡vÃ¡m.}
+{116}{}{(NaklonÃ­ se k tobÄ›.) PodÃ­vej, *dneÅ¡nÃ­* den byl dlouhÃ½, pÅ™Ã­teli. PojÄ se mnou, nedÄ›lej Å¾Ã¡dnÃ© problÃ©my a vÅ¡echno bude v pohodÄ›. RozumÃ­Å¡?}
+{117}{}{DobÅ™e. Tak fajn, pÅ¯jdu.}
+{118}{}{Jen pÅ™es mou mrtvolu!}
+{119}{}{Vault City vÅ¾dy zvÃ­tÄ›zÃ­, ObÄane.}
+{120}{}{RÃ¡d vÃ¡s vidÃ­m, ObÄane.}
+{121}{}{PernÃ½ den, ObÄane?}
+{122}{}{AÅ¾ po vÃ¡s, ObÄane.}
+{123}{}{ZdravÃ­m tÄ›, cestovateli.}
+{124}{}{Jdi si po svÃ©m, venkovane.}
+{125}{}{Pamatuj, mÃ¡Å¡ Äas do Å¡esti do veÄera.}
+{126}{}{AÅ¥ jsi pryÄ do Å¡esti do veÄera.}
+{127}{}{PodÃ­vej, jÃ¡ jsem ObÄan.}
+{128}{}{Nic novÃ©ho, KapitÃ¡ne.}
+{129}{}{VÅ¡e bedlivÄ› sleduji, KapitÃ¡ne.}
+{130}{}{Vault City vÅ¾dy zvÃ­tÄ›zÃ­, KapitÃ¡ne.}
+{131}{}{DobrÃ½ den, KapitÃ¡ne.}
+{132}{}{Hej ty! StÅ¯j! Co dÄ›lÃ¡ ten ghoul ve Vault City?!}
+{133}{}{Hej ty! StÅ¯j! Co dÄ›lÃ¡ ten mutant ve Vault City?!}
+{134}{}{Eeech-Äup kiki kiki.}
 {135}{}{Ghoul? Kde?}
 {136}{}{Mutant? Kde?}
 {137}{}{Je tu se mnou.}
-{138}{}{Cestuje se mnou. A jestli s tím má nìkdo z vás rasistù problém, tak ho mùeme vyøešit hned teï.}
-{139}{}{On je s tebou? Tak to potom pùjdete s námi. Vyprovodíme vás zpátky na Pøedmìstí, kam ty... a ta vìc... patøíte.}
-{140}{}{Tak dobøe, pùjdeme bez protestu.}
-{141}{}{Mùeš nás odsud zkusit vyprovodit, ale zaruèuju ti, e to bude zatracenì tvrdá zkušenost.}
-{142}{}{No skvìlı, vypadá to, e tu máme pár pìknıch idiotù. Jak chcete, hlupáci.}
-{143}{}{Velmi vtipné.}
-{144}{}{Pùjdete s námi. Vyprovodíme vás zpátky na Pøedmìstí, kam ty... a ta vìc... patøíte.}
-{145}{}{JÁ NECHTÍT BİT TVÙJ KÁMOŠ! TY NE MÙJ KÁMOŠ!}
-{146}{}{My jít my jít potichùùù.}
-{147}{}{Tak dobøe, pùjdeme bez protestu.}
-{148}{}{Cestuje se mnou. A jestli s tím má nìkdo z vás debilù problém, tak mu hned teï udìlám bezplatnı odbìr krve.}
-{149}{}{Take to chceš po zlém? Jak chceš. Stráe! Vetøelci!}
-{150}{}{Uáááááááááááááááááá!}
-{151}{}{Zemøeš døív, ne se ti tvoji pøátelé vùbec objeví.}
-{152}{}{Hej! To je ten, kterı porazil Enklávu!}
-{153}{}{Nazdar, gratuluju k vítìzství nad Enklávou!}
-{154}{}{Vítej ve Vault City, hrdino!}
-{155}{}{Vaše bitva proti enklávì zapùsobila i na První Obèanku.}
-{156}{}{Slyšel jsem, e tvoje cesty vedly a na jih do San Francisca. Je to pravda?}
-{157}{}{Je to pravda? Opravdu vláda starého svìta vedla poøád válku?}
-{158}{}{Bylo by dobré zaznamenat své cesty do hlavního poèítaèe Vault City.}
-{159}{}{Mùeš tu zùstat, jak dlouho chceš, hrdino.}
-{160}{}{Mìl bys sepsat seznam svıch hrdinskıch èinù proti Enklávì a nahrát je na rozesílací server.}
-{161}{}{Nepoznávám tì. Kde máš doklady?}
-{162}{}{Tady jsou, "stráníku." Myslím, e zjistíš, e je všechno v naprostém poøádku.}
-{163}{}{Teï je nemám u sebe, ale...}
-{164}{}{Hmmmm. V poøádku, všechno vypadá normálnì. Omlouvám se, e jsem vás obtìoval, Obèane. Vault City vdy zvítìzí.}
-{165}{}{Ano. Vault City vdy zvítìzí.}
-{166}{}{Máš štìstí, e tì nedám do hlášení. Vypadni odsud.}
+{138}{}{Cestuje se mnou. A jestli s tÃ­m mÃ¡ nÄ›kdo z vÃ¡s rasistÅ¯ problÃ©m, tak ho mÅ¯Å¾eme vyÅ™eÅ¡it hned teÄ.}
+{139}{}{On je s tebou? Tak to potom pÅ¯jdete s nÃ¡mi. VyprovodÃ­me vÃ¡s zpÃ¡tky na PÅ™edmÄ›stÃ­, kam ty... a ta vÄ›c... patÅ™Ã­te.}
+{140}{}{Tak dobÅ™e, pÅ¯jdeme bez protestu.}
+{141}{}{MÅ¯Å¾eÅ¡ nÃ¡s odsud zkusit vyprovodit, ale zaruÄuju ti, Å¾e to bude zatracenÄ› tvrdÃ¡ zkuÅ¡enost.}
+{142}{}{No skvÄ›lÃ½, vypadÃ¡ to, Å¾e tu mÃ¡me pÃ¡r pÄ›knÃ½ch idiotÅ¯. Jak chcete, hlupÃ¡ci.}
+{143}{}{Velmi vtipnÃ©.}
+{144}{}{PÅ¯jdete s nÃ¡mi. VyprovodÃ­me vÃ¡s zpÃ¡tky na PÅ™edmÄ›stÃ­, kam ty... a ta vÄ›c... patÅ™Ã­te.}
+{145}{}{JÃ NECHTÃT BÃT TVÅ®J KÃMOÅ ! TY NE MÅ®J KÃMOÅ !}
+{146}{}{My jÃ­t my jÃ­t potichÅ¯Å¯Å¯.}
+{147}{}{Tak dobÅ™e, pÅ¯jdeme bez protestu.}
+{148}{}{Cestuje se mnou. A jestli s tÃ­m mÃ¡ nÄ›kdo z vÃ¡s debilÅ¯ problÃ©m, tak mu hned teÄ udÄ›lÃ¡m bezplatnÃ½ odbÄ›r krve.}
+{149}{}{TakÅ¾e to chceÅ¡ po zlÃ©m? Jak chceÅ¡. StrÃ¡Å¾e! VetÅ™elci!}
+{150}{}{UÃ¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡!}
+{151}{}{ZemÅ™eÅ¡ dÅ™Ã­v, neÅ¾ se ti tvoji pÅ™Ã¡telÃ© vÅ¯bec objevÃ­.}
+{152}{}{Hej! To je ten, kterÃ½ porazil EnklÃ¡vu!}
+{153}{}{Nazdar, gratuluju k vÃ­tÄ›zstvÃ­ nad EnklÃ¡vou!}
+{154}{}{VÃ­tej ve Vault City, hrdino!}
+{155}{}{VaÅ¡e bitva proti enklÃ¡vÄ› zapÅ¯sobila i na PrvnÃ­ ObÄanku.}
+{156}{}{SlyÅ¡el jsem, Å¾e tvoje cesty vedly aÅ¾ na jih do San Francisca. Je to pravda?}
+{157}{}{Je to pravda? Opravdu vlÃ¡da starÃ©ho svÄ›ta vedla poÅ™Ã¡d vÃ¡lku?}
+{158}{}{Bylo by dobrÃ© zaznamenat svÃ© cesty do hlavnÃ­ho poÄÃ­taÄe Vault City.}
+{159}{}{MÅ¯Å¾eÅ¡ tu zÅ¯stat, jak dlouho chceÅ¡, hrdino.}
+{160}{}{MÄ›l bys sepsat seznam svÃ½ch hrdinskÃ½ch ÄinÅ¯ proti EnklÃ¡vÄ› a nahrÃ¡t je na rozesÃ­lacÃ­ server.}
+{161}{}{NepoznÃ¡vÃ¡m tÄ›. Kde mÃ¡Å¡ doklady?}
+{162}{}{Tady jsou, "strÃ¡Å¾nÃ­ku." MyslÃ­m, Å¾e zjistÃ­Å¡, Å¾e je vÅ¡echno v naprostÃ©m poÅ™Ã¡dku.}
+{163}{}{TeÄ je nemÃ¡m u sebe, ale...}
+{164}{}{Hmmmm. V poÅ™Ã¡dku, vÅ¡echno vypadÃ¡ normÃ¡lnÄ›. OmlouvÃ¡m se, Å¾e jsem vÃ¡s obtÄ›Å¾oval, ObÄane. Vault City vÅ¾dy zvÃ­tÄ›zÃ­.}
+{165}{}{Ano. Vault City vÅ¾dy zvÃ­tÄ›zÃ­.}
+{166}{}{MÃ¡Å¡ Å¡tÄ›stÃ­, Å¾e tÄ› nedÃ¡m do hlÃ¡Å¡enÃ­. Vypadni odsud.}

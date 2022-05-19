@@ -1,10 +1,10 @@
-{100}{}{Vidíš odporného pokladníka.}
-{101}{}{Vypadá to, e by vykoupil cokoliv, jen aby lidé v této hernì hráli.}
-{102}{}{Co chceš?}
-{103}{}{Chci vymìnit pár vìcí.}
+{100}{}{VidÃ­Å¡ odpornÃ©ho pokladnÃ­ka.}
+{101}{}{VypadÃ¡ to, Å¾e by vykoupil cokoliv, jen aby lidÃ© v tÃ©to hernÄ› hrÃ¡li.}
+{102}{}{Co chceÅ¡?}
+{103}{}{Chci vymÄ›nit pÃ¡r vÄ›cÃ­.}
 {104}{}{No nic.}
-{105}{}{Chtít blıskátka.}
-{106}{}{Jít pryè.}
-{107}{}{Ještì nìco?}
-{108}{}{Mám další vìci na vımìnu.}
-{109}{}{Chtít víc blıskátka.}
+{105}{}{ChtÃ­t blÃ½skÃ¡tka.}
+{106}{}{JÃ­t pryÄ.}
+{107}{}{JeÅ¡tÄ› nÄ›co?}
+{108}{}{MÃ¡m dalÅ¡Ã­ vÄ›ci na vÃ½mÄ›nu.}
+{109}{}{ChtÃ­t vÃ­c blÃ½skÃ¡tka.}

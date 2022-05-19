@@ -1,2 +1,2 @@
-{100}{}{Vidíš tìké dveøe, které vedou do další èásti komplexu EPA.}
-{101}{}{Vidíš dveøe.}
+{100}{}{VidÃ­Å¡ tÄ›Å¾kÃ© dveÅ™e, kterÃ© vedou do dalÅ¡Ã­ ÄÃ¡sti komplexu EPA.}
+{101}{}{VidÃ­Å¡ dveÅ™e.}

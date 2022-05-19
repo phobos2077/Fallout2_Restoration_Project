@@ -1,52 +1,52 @@
-{100}{}{Vidíš páraèe. Sleduje tì podivuhodnì inteligentníma oèima.}
-{101}{}{Vidíš páraèe Valdise.}
-{102}{}{Vidíš obyèejného páraèe. Je to mohutnı tvor s ostrımi zuby a dlouhımi paøáty.}
-{103}{}{Vítej, èlovìku.}
-{104}{}{Jak ti mùu pomoct?}
-{105}{}{Kdo ty bıt?}
-{106}{}{Co ty dìlat?}
-{107}{}{Mozek bolet. Já pøijít pozdìji.}
-{108}{}{Zdravím, kdopak jsi?}
-{109}{}{Co tu dìláš?}
-{110}{}{Nechci urazit tvé kamarády páraèe, ale ty zníš docela... vzdìlanì.}
-{111}{}{Jen se tak dívám.}
-{112}{}{Øíkají mi Valdis. A ty jsi?}
-{113}{}{Já èlovìk.}
-{114}{}{Óóóó! Támhle nìco blıskat. Já jít.}
-{115}{}{Hele, já tu pokládám otázky.}
-{116}{}{U musím jít.}
-{117}{}{Tìší mì, já jsem}
-{118}{}{Chápu.}
-{119}{}{Momentálnì hlídám tuto oblast vaultu proti neoprávnìnému vniknutí.}
-{120}{}{Co bıt 'neoprávnìné'?}
-{121}{}{Eh... jistì.}
-{122}{}{Ty mluvit srandovnì. Já odejít.}
-{123}{}{U musím jít, Valdisi.}
+{100}{}{VidÃ­Å¡ pÃ¡raÄe. Sleduje tÄ› podivuhodnÄ› inteligentnÃ­ma oÄima.}
+{101}{}{VidÃ­Å¡ pÃ¡raÄe Valdise.}
+{102}{}{VidÃ­Å¡ obyÄejnÃ©ho pÃ¡raÄe. Je to mohutnÃ½ tvor s ostrÃ½mi zuby a dlouhÃ½mi paÅ™Ã¡ty.}
+{103}{}{VÃ­tej, ÄlovÄ›ku.}
+{104}{}{Jak ti mÅ¯Å¾u pomoct?}
+{105}{}{Kdo ty bÃ½t?}
+{106}{}{Co ty dÄ›lat?}
+{107}{}{Mozek bolet. JÃ¡ pÅ™ijÃ­t pozdÄ›ji.}
+{108}{}{ZdravÃ­m, kdopak jsi?}
+{109}{}{Co tu dÄ›lÃ¡Å¡?}
+{110}{}{Nechci urazit tvÃ© kamarÃ¡dy pÃ¡raÄe, ale ty znÃ­Å¡ docela... vzdÄ›lanÄ›.}
+{111}{}{Jen se tak dÃ­vÃ¡m.}
+{112}{}{Å˜Ã­kajÃ­ mi Valdis. A ty jsi?}
+{113}{}{JÃ¡ ÄlovÄ›k.}
+{114}{}{Ã“Ã³Ã³Ã³! TÃ¡mhle nÄ›co blÃ½skat. JÃ¡ jÃ­t.}
+{115}{}{Hele, jÃ¡ tu poklÃ¡dÃ¡m otÃ¡zky.}
+{116}{}{UÅ¾ musÃ­m jÃ­t.}
+{117}{}{TÄ›Å¡Ã­ mÄ›, jÃ¡ jsem}
+{118}{}{ChÃ¡pu.}
+{119}{}{MomentÃ¡lnÄ› hlÃ­dÃ¡m tuto oblast vaultu proti neoprÃ¡vnÄ›nÃ©mu vniknutÃ­.}
+{120}{}{Co bÃ½t 'neoprÃ¡vnÄ›nÃ©'?}
+{121}{}{Eh... jistÄ›.}
+{122}{}{Ty mluvit srandovnÄ›. JÃ¡ odejÃ­t.}
+{123}{}{UÅ¾ musÃ­m jÃ­t, Valdisi.}
 {124}{}{Aha.}
-{125}{}{No, to vypadá, e víš, co dìláš.}
-{126}{}{A to ten tvùj mozek rozezná, kdo je a kdo není 'oprávnìnı?'}
-{127}{}{Co by ne? Ten dokonce pozná i kdo je a kdo není debil... a zrovna teï mi øíká, e ty patøíš do té druhé kategorie! A teï radìji zmiz, nebo si zatancuju na tvım ksichtì.}
-{128}{}{Tak dobøe.}
-{129}{}{Ty jsi ale zlá ještìrka. Budu tì muset zastøelit.}
-{130}{}{Promiò. Dám si pøíštì pozor na jazyk.}
-{131}{}{Ano. Ve vzdìlanosti se pomìrnì dost odlišujeme. Snaím se na sobì pracovat ve svém volném èase.}
-{132}{}{Odhodlaná ještìrka. Fakt srandovní.}
+{125}{}{No, to vypadÃ¡, Å¾e vÃ­Å¡, co dÄ›lÃ¡Å¡.}
+{126}{}{A to ten tvÅ¯j mozek rozeznÃ¡, kdo je a kdo nenÃ­ 'oprÃ¡vnÄ›nÃ½?'}
+{127}{}{Co by ne? Ten dokonce poznÃ¡ i kdo je a kdo nenÃ­ debil... a zrovna teÄ mi Å™Ã­kÃ¡, Å¾e ty patÅ™Ã­Å¡ do tÃ© druhÃ© kategorie! A teÄ radÄ›ji zmiz, nebo si zatancuju na tvÃ½m ksichtÄ›.}
+{128}{}{Tak dobÅ™e.}
+{129}{}{Ty jsi ale zlÃ¡ jeÅ¡tÄ›rka. Budu tÄ› muset zastÅ™elit.}
+{130}{}{PromiÅˆ. DÃ¡m si pÅ™Ã­Å¡tÄ› pozor na jazyk.}
+{131}{}{Ano. Ve vzdÄ›lanosti se pomÄ›rnÄ› dost odliÅ¡ujeme. SnaÅ¾Ã­m se na sobÄ› pracovat ve svÃ©m volnÃ©m Äase.}
+{132}{}{OdhodlanÃ¡ jeÅ¡tÄ›rka. Fakt srandovnÃ­.}
 {133}{}{Jde ti to fajn.}
-{134}{}{To je skvìlı cíl. Jen tak dál.}
-{135}{}{Coe? Moc dobøe vím, e jsi èlovìk. Tázal jsem se na tvé jméno.}
-{136}{}{Neptat jméno, ptát 'kdo jsi.' Já bıt èlovìk.}
-{137}{}{Já vìdìt. Já jen zkoušet ty. Eh... dobøe ty.}
-{138}{}{Nìkdo volat já. Muset jít.}
-{139}{}{Aha. Tak to zkusíme jinak. Ahoj, já jsem Valdis. Jak se jmenuješ ty?}
-{140}{}{Já}
+{134}{}{To je skvÄ›lÃ½ cÃ­l. Jen tak dÃ¡l.}
+{135}{}{CoÅ¾e? Moc dobÅ™e vÃ­m, Å¾e jsi ÄlovÄ›k. TÃ¡zal jsem se na tvÃ© jmÃ©no.}
+{136}{}{Neptat jmÃ©no, ptÃ¡t 'kdo jsi.' JÃ¡ bÃ½t ÄlovÄ›k.}
+{137}{}{JÃ¡ vÄ›dÄ›t. JÃ¡ jen zkouÅ¡et ty. Eh... dobÅ™e ty.}
+{138}{}{NÄ›kdo volat jÃ¡. Muset jÃ­t.}
+{139}{}{Aha. Tak to zkusÃ­me jinak. Ahoj, jÃ¡ jsem Valdis. Jak se jmenujeÅ¡ ty?}
+{140}{}{JÃ¡}
 {141}{}{Nashle.}
-{142}{}{Neoprávnìná osoba, to znamená 'èlovìk, co tu nemá co pohledávat.'}
-{143}{}{Dobøe. Rozumìt.}
-{144}{}{Já mít zase bolehlav. Já teï jít.}
-{145}{}{Mım úkolem je bıt co moná nejvíce trpìlivı, i teï, kdy jsi na mì hrubı. Jestli se ke mnì nebudeš chovat civilizovanì, tak prosím odejdi.}
-{146}{}{Promiò, pokusím se chovat civilizovanìji.}
+{142}{}{NeoprÃ¡vnÄ›nÃ¡ osoba, to znamenÃ¡ 'ÄlovÄ›k, co tu nemÃ¡ co pohledÃ¡vat.'}
+{143}{}{DobÅ™e. RozumÄ›t.}
+{144}{}{JÃ¡ mÃ­t zase bolehlav. JÃ¡ teÄ jÃ­t.}
+{145}{}{MÃ½m Ãºkolem je bÃ½t co moÅ¾nÃ¡ nejvÃ­ce trpÄ›livÃ½, i teÄ, kdyÅ¾ jsi na mÄ› hrubÃ½. Jestli se ke mnÄ› nebudeÅ¡ chovat civilizovanÄ›, tak prosÃ­m odejdi.}
+{146}{}{PromiÅˆ, pokusÃ­m se chovat civilizovanÄ›ji.}
 {147}{}{Jdi se vycpat.}
 {148}{}{Jooo.}
-{149}{}{Pøeju hezkej den.}
-{150}{}{Lituju toho, e tì musím zabít.}
+{149}{}{PÅ™eju hezkej den.}
+{150}{}{Lituju toho, Å¾e tÄ› musÃ­m zabÃ­t.}
 {151}{}{.}

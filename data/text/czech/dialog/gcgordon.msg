@@ -1,110 +1,110 @@
-{100}{}{Vidíš dalšího ghoula. Vypadá zamyšlenì.}
-{101}{}{Vidíš Gordona z Gecka.}
-{102}{}{Vidíš velmi vkusnì obleèeného ghoula s vlasy ulíznutımi dozadu.}
-{110}{}{Nemám èas na pitomce.}
-{111}{}{Mám na práci dùleitìjší vìci. Vypadni odsud.}
-{112}{}{Jsi blbec stejnì jako všichni ostatní.}
-{113}{}{Tohle není místnost pro hodiny nápravného ètení.}
-{114}{}{Myslím, e se hezounci mezi sebou moc køíili.}
-{120}{}{Zdravím. Jmenuju se Gordon. Gordon z Gecka.}
+{100}{}{VidÃ­Å¡ dalÅ¡Ã­ho ghoula. VypadÃ¡ zamyÅ¡lenÄ›.}
+{101}{}{VidÃ­Å¡ Gordona z Gecka.}
+{102}{}{VidÃ­Å¡ velmi vkusnÄ› obleÄenÃ©ho ghoula s vlasy ulÃ­znutÃ½mi dozadu.}
+{110}{}{NemÃ¡m Äas na pitomce.}
+{111}{}{MÃ¡m na prÃ¡ci dÅ¯leÅ¾itÄ›jÅ¡Ã­ vÄ›ci. Vypadni odsud.}
+{112}{}{Jsi blbec stejnÄ› jako vÅ¡ichni ostatnÃ­.}
+{113}{}{Tohle nenÃ­ mÃ­stnost pro hodiny nÃ¡pravnÃ©ho ÄtenÃ­.}
+{114}{}{MyslÃ­m, Å¾e se hezounci mezi sebou moc kÅ™Ã­Å¾ili.}
+{120}{}{ZdravÃ­m. Jmenuju se Gordon. Gordon z Gecka.}
 {121}{}{Ahoj }
-{122}{}{Ahoj, Gordone. Já jsem }
-{123}{}{Tìší mì. Já jsem }
-{124}{}{Gordone, co jsi øíkal, e tu dìláš?}
-{125}{}{Jenom se snaím bıt v kontaktu se svımi pøáteli. Mám radost, e tì zase vidím. Sbohem.}
-{130}{}{Hledám pøíleitosti.}
-{131}{}{Pøíleitosti? Napøíklad?}
-{135}{}{Hledám zpùsob, jak maximalizovat svou cenu.}
-{136}{}{Hmm, to zní chamtivì.}
-{140}{}{Jsem chamtivı, ale spousta lidí chamtivost tak docela nechápe. Chamtivost je silnı motor, kterı tì ene kupøedu. Historie nám øíká, e všechny veliké èiny byly vykonány lidmi, kteøí se chtìli dostat vıš. Jejich hnací silou byla právì chamtivost. Chamtivost, nevím jak jinak to nazvat, je dobrá.}
-{141}{}{Budu ti vìøit, Gordone, ale co má chamtivost spoleèného s Geckem?}
-{150}{}{Doposud takøka nic, ale v chamtivosti leí spása Gecka. Mám dùleitou informaci o tom, jak mùe Gecko pøeít, ale nikdo mi nechce naslouchat.}
+{122}{}{Ahoj, Gordone. JÃ¡ jsem }
+{123}{}{TÄ›Å¡Ã­ mÄ›. JÃ¡ jsem }
+{124}{}{Gordone, co jsi Å™Ã­kal, Å¾e tu dÄ›lÃ¡Å¡?}
+{125}{}{Jenom se snaÅ¾Ã­m bÃ½t v kontaktu se svÃ½mi pÅ™Ã¡teli. MÃ¡m radost, Å¾e tÄ› zase vidÃ­m. Sbohem.}
+{130}{}{HledÃ¡m pÅ™Ã­leÅ¾itosti.}
+{131}{}{PÅ™Ã­leÅ¾itosti? NapÅ™Ã­klad?}
+{135}{}{HledÃ¡m zpÅ¯sob, jak maximalizovat svou cenu.}
+{136}{}{Hmm, to znÃ­ chamtivÄ›.}
+{140}{}{Jsem chamtivÃ½, ale spousta lidÃ­ chamtivost tak docela nechÃ¡pe. Chamtivost je silnÃ½ motor, kterÃ½ tÄ› Å¾ene kupÅ™edu. Historie nÃ¡m Å™Ã­kÃ¡, Å¾e vÅ¡echny velikÃ© Äiny byly vykonÃ¡ny lidmi, kteÅ™Ã­ se chtÄ›li dostat vÃ½Å¡. Jejich hnacÃ­ silou byla prÃ¡vÄ› chamtivost. Chamtivost, nevÃ­m jak jinak to nazvat, je dobrÃ¡.}
+{141}{}{Budu ti vÄ›Å™it, Gordone, ale co mÃ¡ chamtivost spoleÄnÃ©ho s Geckem?}
+{150}{}{Doposud takÅ™ka nic, ale v chamtivosti leÅ¾Ã­ spÃ¡sa Gecka. MÃ¡m dÅ¯leÅ¾itou informaci o tom, jak mÅ¯Å¾e Gecko pÅ™eÅ¾Ã­t, ale nikdo mi nechce naslouchat.}
 {151}{}{Jakou informaci?}
-{160}{}{No, spoèítal jsem, e pokud by náš reaktor bìel efektivnì, mohli bychom vyrobit enormní mnoství pøebyteèné energie. Mnohem víc ne Gecko potøebuje.}
-{161}{}{Aha, a co s tím?}
-{170}{}{No, teï, kdy je naše jaderná elektrárna opravená, mám mnohem vìtší šanci dosáhnout toho, co chci. Maximalizovat svùj potenciál.}
-{171}{}{Maximalizovat svùj potenciál? Co tím myslíš?}
-{172}{}{U zase mluvíš o chamtivosti, Gordone?}
-{180}{}{Taky jsem zjistil z velmi vìrohodnıch zdrojù, e se Vault City nemùe bez dodateèné energie dál rozšiøovat.}
-{181}{}{Vault City se nemùe rozšiøovat?}
-{182}{}{Z velmi vìrohodného zdroje? Od koho?}
-{190}{}{Vault City, jak jistì víš, má dostatek energie pro svoje bìné potøeby. Pokud si dají pozor. Jene elektrárna ve Vault City nebyla nikdy projektována na zvıšenou zátì, které ji momentálnì vystavují. Právì teï je na hranici svojí kapacity. Bez další energie se nemùou rozšiøovat.}
-{191}{}{Nevidím v tom nic, co by ti mohlo nìjak pomoct.}
-{200}{}{No, kdyby naše elektrárna pracovala lépe, mohli bychom vymìnit naši pøebyteènou energií a technické znalosti za lékaøskou technologii Vault City.}
+{160}{}{No, spoÄÃ­tal jsem, Å¾e pokud by nÃ¡Å¡ reaktor bÄ›Å¾el efektivnÄ›, mohli bychom vyrobit enormnÃ­ mnoÅ¾stvÃ­ pÅ™ebyteÄnÃ© energie. Mnohem vÃ­c neÅ¾ Gecko potÅ™ebuje.}
+{161}{}{Aha, a co s tÃ­m?}
+{170}{}{No, teÄ, kdyÅ¾ je naÅ¡e jadernÃ¡ elektrÃ¡rna opravenÃ¡, mÃ¡m mnohem vÄ›tÅ¡Ã­ Å¡anci dosÃ¡hnout toho, co chci. Maximalizovat svÅ¯j potenciÃ¡l.}
+{171}{}{Maximalizovat svÅ¯j potenciÃ¡l? Co tÃ­m myslÃ­Å¡?}
+{172}{}{UÅ¾ zase mluvÃ­Å¡ o chamtivosti, Gordone?}
+{180}{}{Taky jsem zjistil z velmi vÄ›rohodnÃ½ch zdrojÅ¯, Å¾e se Vault City nemÅ¯Å¾e bez dodateÄnÃ© energie dÃ¡l rozÅ¡iÅ™ovat.}
+{181}{}{Vault City se nemÅ¯Å¾e rozÅ¡iÅ™ovat?}
+{182}{}{Z velmi vÄ›rohodnÃ©ho zdroje? Od koho?}
+{190}{}{Vault City, jak jistÄ› vÃ­Å¡, mÃ¡ dostatek energie pro svoje bÄ›Å¾nÃ© potÅ™eby. Pokud si dajÃ­ pozor. JenÅ¾e elektrÃ¡rna ve Vault City nebyla nikdy projektovÃ¡na na zvÃ½Å¡enou zÃ¡tÄ›Å¾, kterÃ© ji momentÃ¡lnÄ› vystavujÃ­. PrÃ¡vÄ› teÄ je na hranici svojÃ­ kapacity. Bez dalÅ¡Ã­ energie se nemÅ¯Å¾ou rozÅ¡iÅ™ovat.}
+{191}{}{NevidÃ­m v tom nic, co by ti mohlo nÄ›jak pomoct.}
+{200}{}{No, kdyby naÅ¡e elektrÃ¡rna pracovala lÃ©pe, mohli bychom vymÄ›nit naÅ¡i pÅ™ebyteÄnou energiÃ­ a technickÃ© znalosti za lÃ©kaÅ™skou technologii Vault City.}
 {201}{}{A?}
-{210}{}{Bez vìtšího mnoství energie spálí Vault City svùj reaktor bìhem patnácti let. Pokud se reaktor v Gecku neopraví, nedoijeme se ani poloviny této doby. Bez lékaøské technologie stejnì všichni ghoulové v pøíštích dvaceti letech vymøou. Všichni na tom prodìlají, pokud nebudou Vault City a Gecko spolupracovat.}
-{211}{}{Take jsi nìco jako velkı dobrodinec, jo? Tomu se mi nechce vìøit.}
-{220}{}{Vùbec ne, já u jsem na stáøí zajištìnı. Stal bych se øeditelem tohohle projektu. Chamtivost je sice mou hnací silou, ale zachránila by tisíce ivotù. Chamtivost je dobrá. Tedy za pøedpokladu, e pøesvìdèím nìkoho ve Vault City, aby si pøeèetl moje ekonomická data.}
-{221}{}{Myslím, e tì nechci vidìt nìco øídit.}
-{222}{}{Hmm, moná mùu ty data ukázat nìkomu ve Vault City.}
-{223}{}{Vsadím se, e radní McClure z Vault City by velmi rád dostal ty data do svıch rukou. Zdá se, e je to èlovìk, kterı dává pøednost rozumu pøed pøedsudky.}
-{224}{}{To je úasnı pøíbìh, Gordone. Jsi nejlepší. (checht) Budu si ho pamatovat. Sbohem.}
-{230}{}{Zaznamenávám ekonomická data o hospodaøení Gecka a reportuju je Haroldovi. Ale on mì vìtšinou neposlouchá.}
-{231}{}{To je mi líto. Ekonomická data o èem?}
-{232}{}{No, vím urèitì, e je Harold velmi zaneprázdnìnı. Uvidíme se pozdìji.}
-{240}{}{Jednou v noci jsem slyšel hlas, kterı ke mnì promlouval ze šachty reaktoru. Hlas z pøítmí. Zpoèátku jsem nevìdìl, co si mám myslet, ale všechno, co ten hlas øekl, dávalo smysl a jeho údaje byly naprosto pøesné. Nevím, kdo nebo co ten hlas je, ale všechno se dìje tak, jak to øekl.}
-{241}{}{O èem ten hlas mluvil?}
-{250}{}{Pøevánì o zpùsobech maximalizování potenciální hodnoty. Mojí potenciální hodnoty. }
-{251}{}{Tvojí potenciální hodnoty? To zní chamtivì.}
-{260}{}{Pøevánì o zpùsobech maximalizování potenciální hodnoty. Mojí potenciální hodnoty. }
-{261}{}{Tvojí potenciální hodnoty? To zní chamtivì.}
-{270}{}{Proè ne?}
-{271}{}{Protoe nesouhlasím s tvım názorem, e je chamtivost dobrá. Vsadím se, e bys rozprodal všechno, co bys mìl spravovat a potom zdrhl i s penìzi pryè. Sbohem.}
-{272}{}{Protoe jsi vynechal nejdùleitìjší èást svého plánu. Partnera. Jmenovitì mì.}
-{280}{}{No, všechna dùleitá ekonomická data mám na holodisku. Dám ti ho, pokud slíbíš, e ho ve Vault City ukáeš nìkomu, kdo tìm datùm porozumí a pouije je ke správnım úèelùm. Ale dej si pozor... ne kadı tam bude štìstím bez sebe, a se dozví, e zastupuješ ghouly.}
-{281}{}{Myslím, e nechci mít nic spoleèného s tím tvım holodiskem. Díky. Sbohem.}
-{282}{}{Dobøe, vezmu si ten holodisk. Urèitì ho pøedám do správnıch rukou. Sbohem.}
-{290}{}{Pche, tvoji pomoc nepotøebuju. Jsi jen divoch.}
-{291}{}{No, tak se mi zdá, e pánbíèkáøi neijí jenom ve Vault City, e jo, Gordie, ty starej brachu? Sbohem.}
+{210}{}{Bez vÄ›tÅ¡Ã­ho mnoÅ¾stvÃ­ energie spÃ¡lÃ­ Vault City svÅ¯j reaktor bÄ›hem patnÃ¡cti let. Pokud se reaktor v Gecku neopravÃ­, nedoÅ¾ijeme se ani poloviny tÃ©to doby. Bez lÃ©kaÅ™skÃ© technologie stejnÄ› vÅ¡ichni ghoulovÃ© v pÅ™Ã­Å¡tÃ­ch dvaceti letech vymÅ™ou. VÅ¡ichni na tom prodÄ›lajÃ­, pokud nebudou Vault City a Gecko spolupracovat.}
+{211}{}{TakÅ¾e jsi nÄ›co jako velkÃ½ dobrodinec, jo? Tomu se mi nechce vÄ›Å™it.}
+{220}{}{VÅ¯bec ne, jÃ¡ uÅ¾ jsem na stÃ¡Å™Ã­ zajiÅ¡tÄ›nÃ½. Stal bych se Å™editelem tohohle projektu. Chamtivost je sice mou hnacÃ­ silou, ale zachrÃ¡nila by tisÃ­ce Å¾ivotÅ¯. Chamtivost je dobrÃ¡. Tedy za pÅ™edpokladu, Å¾e pÅ™esvÄ›dÄÃ­m nÄ›koho ve Vault City, aby si pÅ™eÄetl moje ekonomickÃ¡ data.}
+{221}{}{MyslÃ­m, Å¾e tÄ› nechci vidÄ›t nÄ›co Å™Ã­dit.}
+{222}{}{Hmm, moÅ¾nÃ¡ mÅ¯Å¾u ty data ukÃ¡zat nÄ›komu ve Vault City.}
+{223}{}{VsadÃ­m se, Å¾e radnÃ­ McClure z Vault City by velmi rÃ¡d dostal ty data do svÃ½ch rukou. ZdÃ¡ se, Å¾e je to ÄlovÄ›k, kterÃ½ dÃ¡vÃ¡ pÅ™ednost rozumu pÅ™ed pÅ™edsudky.}
+{224}{}{To je ÃºÅ¾asnÃ½ pÅ™Ã­bÄ›h, Gordone. Jsi nejlepÅ¡Ã­. (checht) Budu si ho pamatovat. Sbohem.}
+{230}{}{ZaznamenÃ¡vÃ¡m ekonomickÃ¡ data o hospodaÅ™enÃ­ Gecka a reportuju je Haroldovi. Ale on mÄ› vÄ›tÅ¡inou neposlouchÃ¡.}
+{231}{}{To je mi lÃ­to. EkonomickÃ¡ data o Äem?}
+{232}{}{No, vÃ­m urÄitÄ›, Å¾e je Harold velmi zaneprÃ¡zdnÄ›nÃ½. UvidÃ­me se pozdÄ›ji.}
+{240}{}{Jednou v noci jsem slyÅ¡el hlas, kterÃ½ ke mnÄ› promlouval ze Å¡achty reaktoru. Hlas z pÅ™Ã­tmÃ­. ZpoÄÃ¡tku jsem nevÄ›dÄ›l, co si mÃ¡m myslet, ale vÅ¡echno, co ten hlas Å™ekl, dÃ¡valo smysl a jeho Ãºdaje byly naprosto pÅ™esnÃ©. NevÃ­m, kdo nebo co ten hlas je, ale vÅ¡echno se dÄ›je tak, jak to Å™ekl.}
+{241}{}{O Äem ten hlas mluvil?}
+{250}{}{PÅ™evÃ¡Å¾nÄ› o zpÅ¯sobech maximalizovÃ¡nÃ­ potenciÃ¡lnÃ­ hodnoty. MojÃ­ potenciÃ¡lnÃ­ hodnoty. }
+{251}{}{TvojÃ­ potenciÃ¡lnÃ­ hodnoty? To znÃ­ chamtivÄ›.}
+{260}{}{PÅ™evÃ¡Å¾nÄ› o zpÅ¯sobech maximalizovÃ¡nÃ­ potenciÃ¡lnÃ­ hodnoty. MojÃ­ potenciÃ¡lnÃ­ hodnoty. }
+{261}{}{TvojÃ­ potenciÃ¡lnÃ­ hodnoty? To znÃ­ chamtivÄ›.}
+{270}{}{ProÄ ne?}
+{271}{}{ProtoÅ¾e nesouhlasÃ­m s tvÃ½m nÃ¡zorem, Å¾e je chamtivost dobrÃ¡. VsadÃ­m se, Å¾e bys rozprodal vÅ¡echno, co bys mÄ›l spravovat a potom zdrhl i s penÄ›zi pryÄ. Sbohem.}
+{272}{}{ProtoÅ¾e jsi vynechal nejdÅ¯leÅ¾itÄ›jÅ¡Ã­ ÄÃ¡st svÃ©ho plÃ¡nu. Partnera. JmenovitÄ› mÄ›.}
+{280}{}{No, vÅ¡echna dÅ¯leÅ¾itÃ¡ ekonomickÃ¡ data mÃ¡m na holodisku. DÃ¡m ti ho, pokud slÃ­bÃ­Å¡, Å¾e ho ve Vault City ukÃ¡Å¾eÅ¡ nÄ›komu, kdo tÄ›m datÅ¯m porozumÃ­ a pouÅ¾ije je ke sprÃ¡vnÃ½m ÃºÄelÅ¯m. Ale dej si pozor... ne kaÅ¾dÃ½ tam bude Å¡tÄ›stÃ­m bez sebe, aÅ¾ se dozvÃ­, Å¾e zastupujeÅ¡ ghouly.}
+{281}{}{MyslÃ­m, Å¾e nechci mÃ­t nic spoleÄnÃ©ho s tÃ­m tvÃ½m holodiskem. DÃ­ky. Sbohem.}
+{282}{}{DobÅ™e, vezmu si ten holodisk. UrÄitÄ› ho pÅ™edÃ¡m do sprÃ¡vnÃ½ch rukou. Sbohem.}
+{290}{}{Pche, tvoji pomoc nepotÅ™ebuju. Jsi jen divoch.}
+{291}{}{No, tak se mi zdÃ¡, Å¾e pÃ¡nbÃ­ÄkÃ¡Å™i neÅ¾ijÃ­ jenom ve Vault City, Å¾e jo, Gordie, ty starej brachu? Sbohem.}
 {300}{}{Our atomic power plant is still barely operational. You must not take the information to
  Vault City yet.}
-{301}{}{Myslím, e Vault City nebude pøíliš dùvìøovat datùm od ghoulù.}
-{302}{}{Ne, vdy ne... ale doruèím. Sbohem.}
-{303}{}{Doruèení tìch dat do Vault City je jen jeden z mnoha krokù, které musíš uèinit. Naše atomová elektrárna v souèasné chvíli sotva bìí a potøebuje opravit.}
-{304}{}{Hned se do toho dám. Sbohem.}
-{305}{}{Jo, moná nìkdy jindy.}
-{310}{}{Díky za opravu naší atomové elektrárny. Další èást plánu starého Gordona z Gecka, která dobøe funguje. Chamtivost je úasná vìc. Mìl bys bıt pyšnı na to, e jsi toho souèástí.}
-{311}{}{Chamtivost je dobrá, Gordone? No, mám své vlastní plány. Sbohem.}
-{320}{}{Jsme odsouzeni k záhubì. Všichni jsme odsouzeni k záhubì. Teï u nás nic nezachrání. Jdi pryè.}
-{321}{}{Kliï se mi z oèí.}
+{301}{}{MyslÃ­m, Å¾e Vault City nebude pÅ™Ã­liÅ¡ dÅ¯vÄ›Å™ovat datÅ¯m od ghoulÅ¯.}
+{302}{}{Ne, vÅ¾dyÅ¥ ne... ale doruÄÃ­m. Sbohem.}
+{303}{}{DoruÄenÃ­ tÄ›ch dat do Vault City je jen jeden z mnoha krokÅ¯, kterÃ© musÃ­Å¡ uÄinit. NaÅ¡e atomovÃ¡ elektrÃ¡rna v souÄasnÃ© chvÃ­li sotva bÄ›Å¾Ã­ a potÅ™ebuje opravit.}
+{304}{}{Hned se do toho dÃ¡m. Sbohem.}
+{305}{}{Jo, moÅ¾nÃ¡ nÄ›kdy jindy.}
+{310}{}{DÃ­ky za opravu naÅ¡Ã­ atomovÃ© elektrÃ¡rny. DalÅ¡Ã­ ÄÃ¡st plÃ¡nu starÃ©ho Gordona z Gecka, kterÃ¡ dobÅ™e funguje. Chamtivost je ÃºÅ¾asnÃ¡ vÄ›c. MÄ›l bys bÃ½t pyÅ¡nÃ½ na to, Å¾e jsi toho souÄÃ¡stÃ­.}
+{311}{}{Chamtivost je dobrÃ¡, Gordone? No, mÃ¡m svÃ© vlastnÃ­ plÃ¡ny. Sbohem.}
+{320}{}{Jsme odsouzeni k zÃ¡hubÄ›. VÅ¡ichni jsme odsouzeni k zÃ¡hubÄ›. TeÄ uÅ¾ nÃ¡s nic nezachrÃ¡nÃ­. Jdi pryÄ.}
+{321}{}{KliÄ se mi z oÄÃ­.}
 {322}{}{Fajn, sbohem.}
-{330}{}{Jsem ti opravdu zavázán. Jakmile budu jmenován novım pøedákem, budu moct získat všechno, co jsem kdy chtìl a to vše na úèet Gecka a Vault City. Jooo, Harold bude teï opravdu v prdeli.}
-{331}{}{Eh, jasnì. Jak myslíš, Gordone. (obrátíš oèi v sloup) No, myslím, e u pùjdu.}
-{332}{}{Dávejsi radìji pozor, Gordone. Cesta dolù je obvykle o hodnì rychlejší ne cesta nahoru. Sbohem.}
-{340}{}{Vidím, e máš u sebe symbol. Jsi tu pro tu informaci?}
+{330}{}{Jsem ti opravdu zavÃ¡zÃ¡n. Jakmile budu jmenovÃ¡n novÃ½m pÅ™edÃ¡kem, budu moct zÃ­skat vÅ¡echno, co jsem kdy chtÄ›l a to vÅ¡e na ÃºÄet Gecka a Vault City. Jooo, Harold bude teÄ opravdu v prdeli.}
+{331}{}{Eh, jasnÄ›. Jak myslÃ­Å¡, Gordone. (obrÃ¡tÃ­Å¡ oÄi v sloup) No, myslÃ­m, Å¾e uÅ¾ pÅ¯jdu.}
+{332}{}{DÃ¡vejsi radÄ›ji pozor, Gordone. Cesta dolÅ¯ je obvykle o hodnÄ› rychlejÅ¡Ã­ neÅ¾ cesta nahoru. Sbohem.}
+{340}{}{VidÃ­m, Å¾e mÃ¡Å¡ u sebe symbol. Jsi tu pro tu informaci?}
 {341}{}{Symbol?}
 {342}{}{Informaci?}
-{343}{}{Samozøejmì. Nosím ten symbol s hrdostí a tu informaci nutnì potøebuju.}
-{344}{}{Pššš. Teï ne, bratøe. Sledují nás. Sbohem.}
-{350}{}{Nosíš symbol Obrození. Patøíš k nám. Obroï se, soudruhu! Obroï se!}
-{351}{}{Ano, patøím k vám. Obøez... eh, Obroï se!}
-{352}{}{Zrovna jsem to našel. Co to je?}
-{353}{}{Leelo to vedle nìjaké mrtvoly. Co to hernajs je?}
-{360}{}{Poslal tì pro ty data na holodisku?}
-{361}{}{Ano, samozøejmì. Jsem tady pro ten holodisk. Pøedej mi ho.}
-{362}{}{Jakı holodisk?}
-{370}{}{Aha, no, nikdy nás nebude dost. Víc soudruhù znamená vìtší šanci pro starého Gordona dostat to, co chce. Jsi tu pro ten holodisk?}
-{371}{}{Jakı holodisk?}
-{372}{}{Myslím, e ti radiace usmaila mozek. Odcházím. Sbohem.}
-{380}{}{Tady to je, ale nechci, aby se nìjaká nepravá osoba dozvìdìla, e ho máš. Dej ho jenom radnímu McCluremu ve Vault City.}
-{381}{}{Ano, samozøejmì. Eh, Obroï se, bratøe.}
-{382}{}{Neponesu ádnı ghoulí holodisk do Vault City. Za to by mi napíchli hlavu na kopí. Sbohem.}
-{390}{}{Holodisk s ekonomickımi daty, kterı dokazuje, e musí Gecko s Vault City spolupracovat, aby obì mìsta pøeila. To mají všichni hezouni tak malı mozek?}
-{391}{}{Ach ano, tenhle holodisk. Jistì, vezmu si ho.}
-{392}{}{To zní jako opravdu komplikovaná vìc, e? Na takového pitomce, jako jsem já, je to pøíliš sloité. Sbohem.}
-{400}{}{Á, samozøejmì. (mrk, mrk) Všichni jsme ten symbol "našli". Obroï se, kamaráde! Jsi tu pro ten holodisk?}
+{343}{}{SamozÅ™ejmÄ›. NosÃ­m ten symbol s hrdostÃ­ a tu informaci nutnÄ› potÅ™ebuju.}
+{344}{}{PÅ¡Å¡Å¡. TeÄ ne, bratÅ™e. SledujÃ­ nÃ¡s. Sbohem.}
+{350}{}{NosÃ­Å¡ symbol ObrozenÃ­. PatÅ™Ã­Å¡ k nÃ¡m. ObroÄ se, soudruhu! ObroÄ se!}
+{351}{}{Ano, patÅ™Ã­m k vÃ¡m. ObÅ™ez... eh, ObroÄ se!}
+{352}{}{Zrovna jsem to naÅ¡el. Co to je?}
+{353}{}{LeÅ¾elo to vedle nÄ›jakÃ© mrtvoly. Co to hernajs je?}
+{360}{}{Poslal tÄ› pro ty data na holodisku?}
+{361}{}{Ano, samozÅ™ejmÄ›. Jsem tady pro ten holodisk. PÅ™edej mi ho.}
+{362}{}{JakÃ½ holodisk?}
+{370}{}{Aha, no, nikdy nÃ¡s nebude dost. VÃ­c soudruhÅ¯ znamenÃ¡ vÄ›tÅ¡Ã­ Å¡anci pro starÃ©ho Gordona dostat to, co chce. Jsi tu pro ten holodisk?}
+{371}{}{JakÃ½ holodisk?}
+{372}{}{MyslÃ­m, Å¾e ti radiace usmaÅ¾ila mozek. OdchÃ¡zÃ­m. Sbohem.}
+{380}{}{Tady to je, ale nechci, aby se nÄ›jakÃ¡ nepravÃ¡ osoba dozvÄ›dÄ›la, Å¾e ho mÃ¡Å¡. Dej ho jenom radnÃ­mu McCluremu ve Vault City.}
+{381}{}{Ano, samozÅ™ejmÄ›. Eh, ObroÄ se, bratÅ™e.}
+{382}{}{Neponesu Å¾Ã¡dnÃ½ ghoulÃ­ holodisk do Vault City. Za to by mi napÃ­chli hlavu na kopÃ­. Sbohem.}
+{390}{}{Holodisk s ekonomickÃ½mi daty, kterÃ½ dokazuje, Å¾e musÃ­ Gecko s Vault City spolupracovat, aby obÄ› mÄ›sta pÅ™eÅ¾ila. To majÃ­ vÅ¡ichni hezouni tak malÃ½ mozek?}
+{391}{}{Ach ano, tenhle holodisk. JistÄ›, vezmu si ho.}
+{392}{}{To znÃ­ jako opravdu komplikovanÃ¡ vÄ›c, Å¾e? Na takovÃ©ho pitomce, jako jsem jÃ¡, je to pÅ™Ã­liÅ¡ sloÅ¾itÃ©. Sbohem.}
+{400}{}{Ã, samozÅ™ejmÄ›. (mrk, mrk) VÅ¡ichni jsme ten symbol "naÅ¡li". ObroÄ se, kamarÃ¡de! Jsi tu pro ten holodisk?}
 {401}{}{Ano, jsem. Kde je?}
-{402}{}{Jakı holodisk?}
-{403}{}{Ne, vlastnì ne. Myslím, e u radìji pùjdu. Sbohem.}
-{410}{}{Mrtvoly? Kdo z nás zemøel?}
-{411}{}{Eh, vlastnì, nìkdo mi ho dal.}
-{412}{}{Kdo zemøel? Vdy jste všichni mrtví. Jste snad sakra ghoulové nebo ne? Dal mi to jeden z tvıch ghoulích pøátel.}
-{413}{}{No, spíš by ses mìl zeptat, kdo z vás nezemøel mojí rukou. Mimochodem, jsi na øadì.}
-{414}{}{Ne, ty mi nerozumíš. Povídám, e se pøipojím k jednotce. Obroï se, bratøe!}
-{420}{}{Fakta hovoøí za sebe. Pokud to ukáeš nìkomu s dost otevøenou myslí, nebudeš muset nikoho pøesvìdèovat.}
-{421}{}{No, dobøe. Zkusím to. Sbohem.}
-{422}{}{Budu o tom pøemıšlet. Sbohem.}
-{500}{}{. Co tu dìláš?}
-{501}{}{. Uvidíme se pozdìji, Gordone. Sbohem.}
+{402}{}{JakÃ½ holodisk?}
+{403}{}{Ne, vlastnÄ› ne. MyslÃ­m, Å¾e uÅ¾ radÄ›ji pÅ¯jdu. Sbohem.}
+{410}{}{Mrtvoly? Kdo z nÃ¡s zemÅ™el?}
+{411}{}{Eh, vlastnÄ›, nÄ›kdo mi ho dal.}
+{412}{}{Kdo zemÅ™el? VÅ¾dyÅ¥ jste vÅ¡ichni mrtvÃ­. Jste snad sakra ghoulovÃ© nebo ne? Dal mi to jeden z tvÃ½ch ghoulÃ­ch pÅ™Ã¡tel.}
+{413}{}{No, spÃ­Å¡ by ses mÄ›l zeptat, kdo z vÃ¡s nezemÅ™el mojÃ­ rukou. Mimochodem, jsi na Å™adÄ›.}
+{414}{}{Ne, ty mi nerozumÃ­Å¡. PovÃ­dÃ¡m, Å¾e se pÅ™ipojÃ­m k jednotce. ObroÄ se, bratÅ™e!}
+{420}{}{Fakta hovoÅ™Ã­ za sebe. Pokud to ukÃ¡Å¾eÅ¡ nÄ›komu s dost otevÅ™enou myslÃ­, nebudeÅ¡ muset nikoho pÅ™esvÄ›dÄovat.}
+{421}{}{No, dobÅ™e. ZkusÃ­m to. Sbohem.}
+{422}{}{Budu o tom pÅ™emÃ½Å¡let. Sbohem.}
+{500}{}{. Co tu dÄ›lÃ¡Å¡?}
+{501}{}{. UvidÃ­me se pozdÄ›ji, Gordone. Sbohem.}
 {502}{}{.}
-{600}{}{Díky za informaci, Gordone. Sbohem.}
+{600}{}{DÃ­ky za informaci, Gordone. Sbohem.}

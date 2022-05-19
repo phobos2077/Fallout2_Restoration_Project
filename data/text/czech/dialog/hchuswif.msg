@@ -1,26 +1,26 @@
-{100}{}{Vidíš špinavého mutanta.}
-{101}{}{Je obleèenı v propocené košili a pod ní má luté tílko. Vypadá, e na nìkoho èeká.}
-{102}{}{Vidíš naštvanou mutantku.}
-{103}{}{Je obleèená v potøísnìné zástìøe a ve vlasech má rùové natáèky.}
-{104}{}{Kde je ten mùj blbej brahmíní koláè, enská?!}
-{105}{}{Doufám, e ti zas neujede ruka s pepøem, ty megero!}
+{100}{}{VidÃ­Å¡ Å¡pinavÃ©ho mutanta.}
+{101}{}{Je obleÄenÃ½ v propocenÃ© koÅ¡ili a pod nÃ­ mÃ¡ Å¾lutÃ© tÃ­lko. VypadÃ¡, Å¾e na nÄ›koho ÄekÃ¡.}
+{102}{}{VidÃ­Å¡ naÅ¡tvanou mutantku.}
+{103}{}{Je obleÄenÃ¡ v potÅ™Ã­snÄ›nÃ© zÃ¡stÄ›Å™e a ve vlasech mÃ¡ rÅ¯Å¾ovÃ© natÃ¡Äky.}
+{104}{}{Kde je ten mÅ¯j blbej brahmÃ­nÃ­ kolÃ¡Ä, Å¾enskÃ¡?!}
+{105}{}{DoufÃ¡m, Å¾e ti zas neujede ruka s pepÅ™em, ty megero!}
 {106}{}{Kde jsi byla minulou noc?!}
-{107}{}{Kde je moje Koèièí Packa? Zase jsi ji vyhodila, e jo?}
+{107}{}{Kde je moje KoÄiÄÃ­ Packa? Zase jsi ji vyhodila, Å¾e jo?}
 {108}{}{**Prrrrrrdddddd**}
-{109}{}{Zaius øíkal, e by pro mì pøíští mìsíc mohl mít práci.}
-{110}{}{Tady je bordel jak v tanku! Kdy se chystáš uklízet, enská?}
+{109}{}{Zaius Å™Ã­kal, Å¾e by pro mÄ› pÅ™Ã­Å¡tÃ­ mÄ›sÃ­c mohl mÃ­t prÃ¡ci.}
+{110}{}{Tady je bordel jak v tanku! Kdy se chystÃ¡Å¡ uklÃ­zet, Å¾enskÃ¡?}
 {111}{}{You got a real smart mouth on ya', woman!}
-{112}{}{Miluju tì, koèko.}
-{113}{}{Mám ti nafackovat, krávo?}
-{140}{}{Upeè si ten zatracenej koláè sám, ty lenochu!}
-{141}{}{...(mumlá) dám mu tam tolik pepøe, kolik budu chtít (mumlá)... }
-{142}{}{Prala jsem tvoje spodky v mìstskı studni, jako vdycky!}
-{143}{}{Na co potøebuješ ten èasák, kdy máš mì?!}
-{144}{}{Øíkala jsem ti, abys nejedl ty leguány na špejli! Otevøi okno! Fuj!}
-{145}{}{To je dobøe! Budu moc ráda, kdy taky jednou zvedneš ten svùj tlustej zadek!}
-{146}{}{A mi zaèneš projevovat nìjakou úctu, ty parchante!}
-{147}{}{Nìkdo v tomhle baráku musí mít rozum!}
-{148}{}{Já tebe taky, kocourku.}
-{149}{}{Nechci mít nic spoleènıho s tvojí prackou!}
-{200}{}{Co k èertu chceš? Vypadni z mıho domu, blbeèku.}
-{201}{}{Pøísahám, e se jednoho dne seberu a zmizím odsud. A jsem moc zvìdavá, co si tady ten línej zadek potom sám poène.}
+{112}{}{Miluju tÄ›, koÄko.}
+{113}{}{MÃ¡m ti nafackovat, krÃ¡vo?}
+{140}{}{UpeÄ si ten zatracenej kolÃ¡Ä sÃ¡m, ty lenochu!}
+{141}{}{...(mumlÃ¡) dÃ¡m mu tam tolik pepÅ™e, kolik budu chtÃ­t (mumlÃ¡)... }
+{142}{}{Prala jsem tvoje spodky v mÄ›stskÃ½ studni, jako vÅ¾dycky!}
+{143}{}{Na co potÅ™ebujeÅ¡ ten ÄasÃ¡k, kdyÅ¾ mÃ¡Å¡ mÄ›?!}
+{144}{}{Å˜Ã­kala jsem ti, abys nejedl ty leguÃ¡ny na Å¡pejli! OtevÅ™i okno! Fuj!}
+{145}{}{To je dobÅ™e! Budu moc rÃ¡da, kdyÅ¾ taky jednou zvedneÅ¡ ten svÅ¯j tlustej zadek!}
+{146}{}{AÅ¾ mi zaÄneÅ¡ projevovat nÄ›jakou Ãºctu, ty parchante!}
+{147}{}{NÄ›kdo v tomhle barÃ¡ku musÃ­ mÃ­t rozum!}
+{148}{}{JÃ¡ tebe taky, kocourku.}
+{149}{}{Nechci mÃ­t nic spoleÄnÃ½ho s tvojÃ­ prackou!}
+{200}{}{Co k Äertu chceÅ¡? Vypadni z mÃ½ho domu, blbeÄku.}
+{201}{}{PÅ™Ã­sahÃ¡m, Å¾e se jednoho dne seberu a zmizÃ­m odsud. A jsem moc zvÄ›davÃ¡, co si tady ten lÃ­nej zadek potom sÃ¡m poÄne.}

@@ -1,17 +1,17 @@
-{100}{}{Vidíš èlena Enklávské patroly.}
-{200}{}{Jsi neoprávnìnì na území Enklávy. Podle vyhlášky èíslo 312 máme naøízeno støílet bez vıstrahy. Promiò, kámo!}
-{201}{}{To je špión mutantù! Sundejte ho!}
-{202}{}{Jako oddanı voják Enklávy jsem dostal rozkaz tì zastøelit. Doufám, e ti to nevadí.}
-{203}{}{Základno, v sektoru 3 máme narušitele. Èekám na další rozkazy... zabít? Rozumím, základno.}
-{204}{}{Teï mi urèitì budeš chtít tvrdit, e tady jenom hledáš vodní èip. Myslíš, e jsem blbej? Dostaòte ho!}
-{205}{}{Chcípni, špíno z pustiny!}
-{206}{}{Ty! Tobì podobní znièili náš kdysi mocnı národ. Za to zaplatíš!}
-{207}{}{Hej, Louie! U jsi vidìl, co dokáou tyhle hraèièky? Tak sleduj!}
-{300}{}{Jeíš, nesnáším, kdy musím zabít enskou. Udìláme to rychle, jo?}
+{100}{}{VidÃ­Å¡ Älena EnklÃ¡vskÃ© patroly.}
+{200}{}{Jsi neoprÃ¡vnÄ›nÄ› na ÃºzemÃ­ EnklÃ¡vy. Podle vyhlÃ¡Å¡ky ÄÃ­slo 312 mÃ¡me naÅ™Ã­zeno stÅ™Ã­let bez vÃ½strahy. PromiÅˆ, kÃ¡mo!}
+{201}{}{To je Å¡piÃ³n mutantÅ¯! Sundejte ho!}
+{202}{}{Jako oddanÃ½ vojÃ¡k EnklÃ¡vy jsem dostal rozkaz tÄ› zastÅ™elit. DoufÃ¡m, Å¾e ti to nevadÃ­.}
+{203}{}{ZÃ¡kladno, v sektoru 3 mÃ¡me naruÅ¡itele. ÄŒekÃ¡m na dalÅ¡Ã­ rozkazy... zabÃ­t? RozumÃ­m, zÃ¡kladno.}
+{204}{}{TeÄ mi urÄitÄ› budeÅ¡ chtÃ­t tvrdit, Å¾e tady jenom hledÃ¡Å¡ vodnÃ­ Äip. MyslÃ­Å¡, Å¾e jsem blbej? DostaÅˆte ho!}
+{205}{}{ChcÃ­pni, Å¡pÃ­no z pustiny!}
+{206}{}{Ty! TobÄ› podobnÃ­ zniÄili nÃ¡Å¡ kdysi mocnÃ½ nÃ¡rod. Za to zaplatÃ­Å¡!}
+{207}{}{Hej, Louie! UÅ¾ jsi vidÄ›l, co dokÃ¡Å¾ou tyhle hraÄiÄky? Tak sleduj!}
+{300}{}{JeÅ¾Ã­Å¡, nesnÃ¡Å¡Ã­m, kdyÅ¾ musÃ­m zabÃ­t Å¾enskou. UdÄ›lÃ¡me to rychle, jo?}
 {301}{}{Poplach! Poplach!}
-{302}{}{Zdá se, e jsi urazila takovou dálku pro nic za nic, dámo.}
-{303}{}{Jako oddanı voják Enklávy jsem dostal rozkaz tì zastøelit. Doufám, e ti to nevadí.}
-{304}{}{Ty! Tobì podobní znièili náš kdysi mocnı národ. Za to zaplatíš!}
-{305}{}{Neboj. Je to jenom nìjaká enská z pustiny. Ta se nezmùe na nìjakej vìtší odpor.}
-{306}{}{Škoda, e jsme se nemohli setkat za jinıch okolností.}
-{307}{}{Nemluv na mì. Já nepodlehnu tvım enskım svodùm. Zemøi!}
+{302}{}{ZdÃ¡ se, Å¾e jsi urazila takovou dÃ¡lku pro nic za nic, dÃ¡mo.}
+{303}{}{Jako oddanÃ½ vojÃ¡k EnklÃ¡vy jsem dostal rozkaz tÄ› zastÅ™elit. DoufÃ¡m, Å¾e ti to nevadÃ­.}
+{304}{}{Ty! TobÄ› podobnÃ­ zniÄili nÃ¡Å¡ kdysi mocnÃ½ nÃ¡rod. Za to zaplatÃ­Å¡!}
+{305}{}{Neboj. Je to jenom nÄ›jakÃ¡ Å¾enskÃ¡ z pustiny. Ta se nezmÅ¯Å¾e na nÄ›jakej vÄ›tÅ¡Ã­ odpor.}
+{306}{}{Å koda, Å¾e jsme se nemohli setkat za jinÃ½ch okolnostÃ­.}
+{307}{}{Nemluv na mÄ›. JÃ¡ nepodlehnu tvÃ½m Å¾enskÃ½m svodÅ¯m. ZemÅ™i!}

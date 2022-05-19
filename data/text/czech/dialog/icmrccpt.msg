@@ -1,23 +1,23 @@
-{100}{}{Vidíš vùdce oldákù.}
-{150}{}{Vidíš drsnì vypadajícího mùe v kevlarové zbroji. Jeho vıstroj a zbranì jsou dobøe udrované, témìø jako nové.}
-{151}{}{Vidíš vùdce oldákù. Pozoruje okolí a má prst na spoušti.}
-{200}{}{No, tak ten si teda troufá...}
+{100}{}{VidÃ­Å¡ vÅ¯dce Å¾oldÃ¡kÅ¯.}
+{150}{}{VidÃ­Å¡ drsnÄ› vypadajÃ­cÃ­ho mÅ¯Å¾e v kevlarovÃ© zbroji. Jeho vÃ½stroj a zbranÄ› jsou dobÅ™e udrÅ¾ovanÃ©, tÃ©mÄ›Å™ jako novÃ©.}
+{151}{}{VidÃ­Å¡ vÅ¯dce Å¾oldÃ¡kÅ¯. Pozoruje okolÃ­ a mÃ¡ prst na spouÅ¡ti.}
+{200}{}{No, tak ten si teda troufÃ¡...}
 {201}{}{Kontakt!}
-{202}{}{Chlapi, máme nezvaného hosta!}
-{203}{}{Do zbranì, chlapi, máme tu vetøelce!}
-{204}{}{A hele kdo pøišel chcípnout...}
-{205}{}{Zatracenì! Nìkdo nás našel!}
-{206}{}{Máš fakt odvahu sem pøijít...}
-{207}{}{Jseš na *špatnım* místì, dìvko.}
-{208}{}{Hele, podívejte se na tu dìvku, jak se tu naparuje...}
-{215}{}{Radši brzo zavolám ty speciální zabijácká komanda...}
-{216}{}{Myslím, e Bravo tım je pár kilákù na jih od Vault City... poøád stopují tu karavanu.}
-{217}{}{Doufám, e ta skvrna od vína brzo zmizí... v poušti to jen tak nevyperu.}
-{218}{}{U je skoro èas vyslat mue na obhlídku...}
-{219}{}{Kdybychom tak mohli nìjak zneškodnit ty laserové vìe ve Vault City...}
-{220}{}{Stále èekám na zprávu od Bishopa...}
-{221}{}{U je to tıden, co vyslal Bishop posla.}
-{222}{}{Poèítám, e další karavan pojede z NCR do Vault City...}
-{223}{}{Musíme bıt pøipraveni k okamitému pøesunu.}
-{224}{}{Doufám, e chlapi zkontrolovali pasti.}
-{225}{}{u se vrátili Alpha a Bravo tımy?}
+{202}{}{Chlapi, mÃ¡me nezvanÃ©ho hosta!}
+{203}{}{Do zbranÄ›, chlapi, mÃ¡me tu vetÅ™elce!}
+{204}{}{A hele kdo pÅ™iÅ¡el chcÃ­pnout...}
+{205}{}{ZatracenÄ›! NÄ›kdo nÃ¡s naÅ¡el!}
+{206}{}{MÃ¡Å¡ fakt odvahu sem pÅ™ijÃ­t...}
+{207}{}{JseÅ¡ na *Å¡patnÃ½m* mÃ­stÄ›, dÄ›vko.}
+{208}{}{Hele, podÃ­vejte se na tu dÄ›vku, jak se tu naparuje...}
+{215}{}{RadÅ¡i brzo zavolÃ¡m ty speciÃ¡lnÃ­ zabijÃ¡ckÃ¡ komanda...}
+{216}{}{MyslÃ­m, Å¾e Bravo tÃ½m je pÃ¡r kilÃ¡kÅ¯ na jih od Vault City... poÅ™Ã¡d stopujÃ­ tu karavanu.}
+{217}{}{DoufÃ¡m, Å¾e ta skvrna od vÃ­na brzo zmizÃ­... v pouÅ¡ti to jen tak nevyperu.}
+{218}{}{UÅ¾ je skoro Äas vyslat muÅ¾e na obhlÃ­dku...}
+{219}{}{Kdybychom tak mohli nÄ›jak zneÅ¡kodnit ty laserovÃ© vÄ›Å¾e ve Vault City...}
+{220}{}{StÃ¡le ÄekÃ¡m na zprÃ¡vu od Bishopa...}
+{221}{}{UÅ¾ je to tÃ½den, co vyslal Bishop posla.}
+{222}{}{PoÄÃ­tÃ¡m, Å¾e dalÅ¡Ã­ karavan pojede z NCR do Vault City...}
+{223}{}{MusÃ­me bÃ½t pÅ™ipraveni k okamÅ¾itÃ©mu pÅ™esunu.}
+{224}{}{DoufÃ¡m, Å¾e chlapi zkontrolovali pasti.}
+{225}{}{uÅ¾ se vrÃ¡tili Alpha a Bravo tÃ½my?}

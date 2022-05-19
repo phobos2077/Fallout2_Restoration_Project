@@ -1,10 +1,10 @@
-{100}{}{Vidíš mue v energo zbroji.}
+{100}{}{VidÃ­Å¡ muÅ¾e v energo zbroji.}
 {101}{}{Tohle je Sir Galahad.}
-{102}{}{Èervená se, kdy zjistí, e na nìj civíš.}
-{103}{}{Sir Galahad, k tvım slubám!}
-{104}{}{Kdysi jsem byl vìznìm v zámku Anthrax.}
-{105}{}{Sir Lancelot mì zachránil. K èertu s ním!}
-{106}{}{Mohl jsem bıt vìznìm. *popotáhne nosem*}
-{200}{}{Jej! Máš hroznì ledové ruce!}
-{201}{}{To ti nepatøí.}
-{202}{}{Hej, to jsou moje vìci!}
+{102}{}{ÄŒervenÃ¡ se, kdyÅ¾ zjistÃ­, Å¾e na nÄ›j civÃ­Å¡.}
+{103}{}{Sir Galahad, k tvÃ½m sluÅ¾bÃ¡m!}
+{104}{}{Kdysi jsem byl vÄ›znÄ›m v zÃ¡mku Anthrax.}
+{105}{}{Sir Lancelot mÄ› zachrÃ¡nil. K Äertu s nÃ­m!}
+{106}{}{Mohl jsem bÃ½t vÄ›znÄ›m. *popotÃ¡hne nosem*}
+{200}{}{Jej! MÃ¡Å¡ hroznÄ› ledovÃ© ruce!}
+{201}{}{To ti nepatÅ™Ã­.}
+{202}{}{Hej, to jsou moje vÄ›ci!}

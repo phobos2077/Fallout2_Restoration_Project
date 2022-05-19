@@ -1,35 +1,35 @@
-{100}{}{Vidíš velké letadlo.}
-{101}{}{Vidíš Vertibird.}
-{200}{}{(Vlezeš do vertibirdu a pøihlásíš se do palubního terminálu.) Vítejte v síti PoseidoNet. Tento terminál je omezen na pøenosy mezi posádkami vertibirdù Enklávy a pøistávací plošinou. Pøíkaz?}
+{100}{}{VidÃ­Å¡ velkÃ© letadlo.}
+{101}{}{VidÃ­Å¡ Vertibird.}
+{200}{}{(VlezeÅ¡ do vertibirdu a pÅ™ihlÃ¡sÃ­Å¡ se do palubnÃ­ho terminÃ¡lu.) VÃ­tejte v sÃ­ti PoseidoNet. Tento terminÃ¡l je omezen na pÅ™enosy mezi posÃ¡dkami vertibirdÅ¯ EnklÃ¡vy a pÅ™istÃ¡vacÃ­ ploÅ¡inou. PÅ™Ã­kaz?}
 {201}{}{Zobrazit stav.}
-{202}{}{Odhlásit se.}
-{203}{}{Toto letadlo má dostatek paliva pouze pro let ze základny Navarro na pøistávací plošinu Enklávy a zpìt. Všechny postupy jsou plnì automatizovány a proto není potøeba zásahu posádky do øízení bìhem letu. Souèasnı stav paliva je: Plná nádr.}
-{204}{}{Letìt k ropné plošinì.}
-{205}{}{Odhlásit se.}
-{206}{}{Chyba. "lutá pøístupová karta - reaktor" není vloena. Všichni piloti jsou vybaveni touto kartou, která je potøebná k potvrzení oprávnìní ke vzletu. Bez pøítomnosti této karty nebude autopilot na pøíkazy reagovat.}
-{207}{}{Vloit kartu.}
-{208}{}{Sakra. Vypadá to, e tu kartu budu muset najít.}
-{209}{}{Karta pøijmuta. Vertibird je nyní aktivován.}
-{210}{}{Spustit pøedstartovní diagnostiku.}
-{211}{}{Odhlásit se.}
-{212}{}{Spouští se systémová diagnostika...35% hotovo...75% hotovo..100% hotovo. Všechny systémy se zdají bıt funkèní. Kontroluji spojení s pøistávací plošinou...}
-{213}{}{[Více]}
-{214}{}{Z plošiny neobdren ádnı signál. Pøíèina: Satelity nejsou zamìøeny na automatické navádìní k ropné plošinì. Prosím, zajistìte, aby byla pøistávací plošina upozornìna na pøítomnost pøilétávajících letadel.}
-{215}{}{Hmm, to vypadá, e musím najít zpùsob, jak navést satelity.}
+{202}{}{OdhlÃ¡sit se.}
+{203}{}{Toto letadlo mÃ¡ dostatek paliva pouze pro let ze zÃ¡kladny Navarro na pÅ™istÃ¡vacÃ­ ploÅ¡inu EnklÃ¡vy a zpÄ›t. VÅ¡echny postupy jsou plnÄ› automatizovÃ¡ny a proto nenÃ­ potÅ™eba zÃ¡sahu posÃ¡dky do Å™Ã­zenÃ­ bÄ›hem letu. SouÄasnÃ½ stav paliva je: PlnÃ¡ nÃ¡drÅ¾.}
+{204}{}{LetÄ›t k ropnÃ© ploÅ¡inÄ›.}
+{205}{}{OdhlÃ¡sit se.}
+{206}{}{Chyba. "Å½lutÃ¡ pÅ™Ã­stupovÃ¡ karta - reaktor" nenÃ­ vloÅ¾ena. VÅ¡ichni piloti jsou vybaveni touto kartou, kterÃ¡ je potÅ™ebnÃ¡ k potvrzenÃ­ oprÃ¡vnÄ›nÃ­ ke vzletu. Bez pÅ™Ã­tomnosti tÃ©to karty nebude autopilot na pÅ™Ã­kazy reagovat.}
+{207}{}{VloÅ¾it kartu.}
+{208}{}{Sakra. VypadÃ¡ to, Å¾e tu kartu budu muset najÃ­t.}
+{209}{}{Karta pÅ™ijmuta. Vertibird je nynÃ­ aktivovÃ¡n.}
+{210}{}{Spustit pÅ™edstartovnÃ­ diagnostiku.}
+{211}{}{OdhlÃ¡sit se.}
+{212}{}{SpouÅ¡tÃ­ se systÃ©movÃ¡ diagnostika...35% hotovo...75% hotovo..100% hotovo. VÅ¡echny systÃ©my se zdajÃ­ bÃ½t funkÄnÃ­. Kontroluji spojenÃ­ s pÅ™istÃ¡vacÃ­ ploÅ¡inou...}
+{213}{}{[VÃ­ce]}
+{214}{}{Z ploÅ¡iny neobdrÅ¾en Å¾Ã¡dnÃ½ signÃ¡l. PÅ™Ã­Äina: Satelity nejsou zamÄ›Å™eny na automatickÃ© navÃ¡dÄ›nÃ­ k ropnÃ© ploÅ¡inÄ›. ProsÃ­m, zajistÄ›te, aby byla pÅ™istÃ¡vacÃ­ ploÅ¡ina upozornÄ›na na pÅ™Ã­tomnost pÅ™ilÃ©tÃ¡vajÃ­cÃ­ch letadel.}
+{215}{}{Hmm, to vypadÃ¡, Å¾e musÃ­m najÃ­t zpÅ¯sob, jak navÃ©st satelity.}
 {216}{}{He?}
-{220}{}{Vertibird byl aktivován. Pøíkaz?}
-{221}{}{Spustit pøedstartovní diagnostiku.}
-{222}{}{Odhlásit se.}
-{230}{}{Testovací signál zachycen. Pøijímám cílové souøadnice...hotovo. Vertibird je pøipraven k odletu.}
+{220}{}{Vertibird byl aktivovÃ¡n. PÅ™Ã­kaz?}
+{221}{}{Spustit pÅ™edstartovnÃ­ diagnostiku.}
+{222}{}{OdhlÃ¡sit se.}
+{230}{}{TestovacÃ­ signÃ¡l zachycen. PÅ™ijÃ­mÃ¡m cÃ­lovÃ© souÅ™adnice...hotovo. Vertibird je pÅ™ipraven k odletu.}
 {231}{}{Vyplout.}
-{232}{}{Odhlásit se.}
-{240}{}{Vertibird je zamìøen na cíl. Èas letu je pøiblinì 6 hodin. Pøejeme pøíjemnı let.}
-{241}{}{Tak a je to, okamik pravdy. Mùj kmen je v nesnázích a všechno záleí jenom na mnì. Nohy mám opuchlé, bolí mì celé tìlo a u si ani nepamatuju, kdy jsem naposledy jedl dobré jídlo. Tohle jsou ty okamiky, pro které ijeme. Není cesty zpìt. Je naèase svìtu ukázat jak }
-{242}{}{ nakope pár plechovıch zadkù. Tak pojï, Enklávo!}
-{243}{}{Hehe... lítat ptáèek lítat!}
-{244}{}{ zachrání svìt.}
-{300}{}{(Vlezeš do vertibirdu a pøihlásíš se do palubního terminálu.) Vítejte v síti PoseidoNet. Tento terminál je omezen na pøenosy mezi posádkami vertibirdù Enklávy a pøistávací plošinou. Pøíkaz?}
+{232}{}{OdhlÃ¡sit se.}
+{240}{}{Vertibird je zamÄ›Å™en na cÃ­l. ÄŒas letu je pÅ™ibliÅ¾nÄ› 6 hodin. PÅ™ejeme pÅ™Ã­jemnÃ½ let.}
+{241}{}{Tak a je to, okamÅ¾ik pravdy. MÅ¯j kmen je v nesnÃ¡zÃ­ch a vÅ¡echno zÃ¡leÅ¾Ã­ jenom na mnÄ›. Nohy mÃ¡m opuchlÃ©, bolÃ­ mÄ› celÃ© tÄ›lo a uÅ¾ si ani nepamatuju, kdy jsem naposledy jedl dobrÃ© jÃ­dlo. Tohle jsou ty okamÅ¾iky, pro kterÃ© Å¾ijeme. NenÃ­ cesty zpÄ›t. Je naÄase svÄ›tu ukÃ¡zat jak }
+{242}{}{ nakope pÃ¡r plechovÃ½ch zadkÅ¯. Tak pojÄ, EnklÃ¡vo!}
+{243}{}{Hehe... lÃ­tat ptÃ¡Äek lÃ­tat!}
+{244}{}{ zachrÃ¡nÃ­ svÄ›t.}
+{300}{}{(VlezeÅ¡ do vertibirdu a pÅ™ihlÃ¡sÃ­Å¡ se do palubnÃ­ho terminÃ¡lu.) VÃ­tejte v sÃ­ti PoseidoNet. Tento terminÃ¡l je omezen na pÅ™enosy mezi posÃ¡dkami vertibirdÅ¯ EnklÃ¡vy a pÅ™istÃ¡vacÃ­ ploÅ¡inou. PÅ™Ã­kaz?}
 {301}{}{Zobrazit stav.}
-{302}{}{Odhlásit se.}
-{303}{}{Tento vertibird má dostatek paliva pouze pro let ze základny Navarro na pøistávací plošinu Enklávy a zpìt. Všechny postupy jsou plnì automatizovány a proto není potøeba zásahu posádky do øízení bìhem letu. Souèasnı stav paliva je: Prázdná nádr.}
-{304}{}{Odhlásit se.}
+{302}{}{OdhlÃ¡sit se.}
+{303}{}{Tento vertibird mÃ¡ dostatek paliva pouze pro let ze zÃ¡kladny Navarro na pÅ™istÃ¡vacÃ­ ploÅ¡inu EnklÃ¡vy a zpÄ›t. VÅ¡echny postupy jsou plnÄ› automatizovÃ¡ny a proto nenÃ­ potÅ™eba zÃ¡sahu posÃ¡dky do Å™Ã­zenÃ­ bÄ›hem letu. SouÄasnÃ½ stav paliva je: PrÃ¡zdnÃ¡ nÃ¡drÅ¾.}
+{304}{}{OdhlÃ¡sit se.}

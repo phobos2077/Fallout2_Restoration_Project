@@ -1,1 +1,1 @@
-{100}{}{Napravo vidíš skupinku krys hodujících na tìle dívky.}
+{100}{}{Napravo vidÃ­Å¡ skupinku krys hodujÃ­cÃ­ch na tÄ›le dÃ­vky.}

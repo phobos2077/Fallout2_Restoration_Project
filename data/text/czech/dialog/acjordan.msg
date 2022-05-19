@@ -1,9 +1,9 @@
-{100}{}{Vidíš Jordana. Jako obvykle si pohrává se svım kopím.}
-{101}{}{Vidíš Jordana. Jako obvykle si pohrává se svım kopím.}
-{102}{}{Hodnì štìstí! Naše vesnice na tebe spoléhá.}
-{103}{}{Vyvolenı, pokud budeš své kopí pouívat tímto zpùsobem, stane se z tebe brzy rádlo pro geckony. Mùu ti ukázat nìkolik trikù.}
-{104}{}{Jasnì.}
-{105}{}{Ne, díky.}
+{100}{}{VidÃ­Å¡ Jordana. Jako obvykle si pohrÃ¡vÃ¡ se svÃ½m kopÃ­m.}
+{101}{}{VidÃ­Å¡ Jordana. Jako obvykle si pohrÃ¡vÃ¡ se svÃ½m kopÃ­m.}
+{102}{}{HodnÄ› Å¡tÄ›stÃ­! NaÅ¡e vesnice na tebe spolÃ©hÃ¡.}
+{103}{}{VyvolenÃ½, pokud budeÅ¡ svÃ© kopÃ­ pouÅ¾Ã­vat tÃ­mto zpÅ¯sobem, stane se z tebe brzy Å¾rÃ¡dlo pro geckony. MÅ¯Å¾u ti ukÃ¡zat nÄ›kolik trikÅ¯.}
+{104}{}{JasnÄ›.}
+{105}{}{Ne, dÃ­ky.}
 {106}{}{Bude to chvilku trvat.}
-{107}{}{Uèíš se rychle. Vypadá to, e u umíš všechno, co vím.}
-{108}{}{Díky, Jordane. Myslím, e mi to v budoucnu hodnì pomùe.}
+{107}{}{UÄÃ­Å¡ se rychle. VypadÃ¡ to, Å¾e uÅ¾ umÃ­Å¡ vÅ¡echno, co vÃ­m.}
+{108}{}{DÃ­ky, Jordane. MyslÃ­m, Å¾e mi to v budoucnu hodnÄ› pomÅ¯Å¾e.}

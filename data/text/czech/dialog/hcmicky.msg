@@ -1,47 +1,47 @@
-{100}{}{Vidíš malého, èilého gentlemana.}
-{101}{}{Vidíš Mickyho, hledaèe pokladù.}
-{102}{}{Tento velmi malı mu vypadá pøátelsky a stateènì. Rozhlíí se kolem a hledá lesklé pøedmìty.}
-{103}{}{Zdravíèko, pøíteli! Nevidìl jsi nìkde kolem leet nìjaké cennosti nebo cenné kovy?}
-{104}{}{Ještì jednou vítám tvoji malièkost. Nevíš o nìjakém pokladu?}
-{105}{}{Poslyš, nepotøebuješ najít nìjakej poklad? Jsem nejlepší z nejlepších!}
-{106}{}{Dnezka ádná poklat.}
-{107}{}{Jo. Potøebovat tvoje pomoc.}
+{100}{}{VidÃ­Å¡ malÃ©ho, ÄilÃ©ho gentlemana.}
+{101}{}{VidÃ­Å¡ Mickyho, hledaÄe pokladÅ¯.}
+{102}{}{Tento velmi malÃ½ muÅ¾ vypadÃ¡ pÅ™Ã¡telsky a stateÄnÄ›. RozhlÃ­Å¾Ã­ se kolem a hledÃ¡ lesklÃ© pÅ™edmÄ›ty.}
+{103}{}{ZdravÃ­Äko, pÅ™Ã­teli! NevidÄ›l jsi nÄ›kde kolem leÅ¾et nÄ›jakÃ© cennosti nebo cennÃ© kovy?}
+{104}{}{JeÅ¡tÄ› jednou vÃ­tÃ¡m tvoji maliÄkost. NevÃ­Å¡ o nÄ›jakÃ©m pokladu?}
+{105}{}{PoslyÅ¡, nepotÅ™ebujeÅ¡ najÃ­t nÄ›jakej poklad? Jsem nejlepÅ¡Ã­ z nejlepÅ¡Ã­ch!}
+{106}{}{Dnezka Å¾Ã¡dnÃ¡ poklat.}
+{107}{}{Jo. PotÅ™ebovat tvoje pomoc.}
 {108}{}{Kdo ty?}
 {109}{}{Nashle.}
-{110}{}{Ne, dneska ne, ale jestli na nìco narazím, dám ti vìdìt.}
-{111}{}{No, vlastnì jo. Myslím, e bys mohl bıt dobrı partner pro nìco jako "spoleèné dobrodruství".}
-{112}{}{Jak se jmenuješ?}
-{113}{}{Zapomeò na to.}
-{114}{}{Já? Jsem Micky, sympatickı a spolehlivı hledaè pokladù v Broken Hills.}
-{115}{}{Hledaè?}
-{116}{}{Pá pá.}
-{117}{}{Hledaè pokladù?}
-{118}{}{Zajímavé. Hezkı den.}
-{119}{}{Neøíkej, e jsi o mì nikdy neslyšel! Copak ti jako malému nevyprávìli pohádky o rychlım Mickym? O jeho vítìznıch pøestøelkách, neuvìøitelnıch rvaèkách a krvavıch loupeích?}
+{110}{}{Ne, dneska ne, ale jestli na nÄ›co narazÃ­m, dÃ¡m ti vÄ›dÄ›t.}
+{111}{}{No, vlastnÄ› jo. MyslÃ­m, Å¾e bys mohl bÃ½t dobrÃ½ partner pro nÄ›co jako "spoleÄnÃ© dobrodruÅ¾stvÃ­".}
+{112}{}{Jak se jmenujeÅ¡?}
+{113}{}{ZapomeÅˆ na to.}
+{114}{}{JÃ¡? Jsem Micky, sympatickÃ½ a spolehlivÃ½ hledaÄ pokladÅ¯ v Broken Hills.}
+{115}{}{HledaÄ?}
+{116}{}{PÃ¡ pÃ¡.}
+{117}{}{HledaÄ pokladÅ¯?}
+{118}{}{ZajÃ­mavÃ©. HezkÃ½ den.}
+{119}{}{NeÅ™Ã­kej, Å¾e jsi o mÄ› nikdy neslyÅ¡el! Copak ti jako malÃ©mu nevyprÃ¡vÄ›li pohÃ¡dky o rychlÃ½m Mickym? O jeho vÃ­tÄ›znÃ½ch pÅ™estÅ™elkÃ¡ch, neuvÄ›Å™itelnÃ½ch rvaÄkÃ¡ch a krvavÃ½ch loupeÅ¾Ã­ch?}
 {120}{}{Nee.}
-{121}{}{Je mi líto, ale ne.}
-{122}{}{No, tak to jsi o hodnì pøišel, pøíteli. Jednou ti moná povím nìjakı pøíbìh.}
-{123}{}{Paráda.}
-{124}{}{Budu èekat se zatajenım dechem.}
-{125}{}{No, to mì ani moc nepøekvapuje. Naše spoleènost Hledaèù pokladù poslední dobou stagnuje. Všechno to strádání, smrt a boj o pøeití moc dobrodruhùm neprospívá. Ale urèitì mi dej vìdìt, jestli na nìco narazíš.}
-{126}{}{Jasòaèka.}
-{127}{}{Budeš první na seznamu.}
-{128}{}{Vánì?! To je skvìlé! Co je to? Zlato? Cennosti? Posvátné artefakty?}
-{129}{}{Móc penìs.}
+{121}{}{Je mi lÃ­to, ale ne.}
+{122}{}{No, tak to jsi o hodnÄ› pÅ™iÅ¡el, pÅ™Ã­teli. Jednou ti moÅ¾nÃ¡ povÃ­m nÄ›jakÃ½ pÅ™Ã­bÄ›h.}
+{123}{}{ParÃ¡da.}
+{124}{}{Budu Äekat se zatajenÃ½m dechem.}
+{125}{}{No, to mÄ› ani moc nepÅ™ekvapuje. NaÅ¡e spoleÄnost HledaÄÅ¯ pokladÅ¯ poslednÃ­ dobou stagnuje. VÅ¡echno to strÃ¡dÃ¡nÃ­, smrt a boj o pÅ™eÅ¾itÃ­ moc dobrodruhÅ¯m neprospÃ­vÃ¡. Ale urÄitÄ› mi dej vÄ›dÄ›t, jestli na nÄ›co narazÃ­Å¡.}
+{126}{}{JasÅˆaÄka.}
+{127}{}{BudeÅ¡ prvnÃ­ na seznamu.}
+{128}{}{VÃ¡Å¾nÄ›?! To je skvÄ›lÃ©! Co je to? Zlato? Cennosti? PosvÃ¡tnÃ© artefakty?}
+{129}{}{MÃ³c penÄ›s.}
 {130}{}{Nefadit.}
-{131}{}{Podle všeho pìknej balík penìz. Dost na to ít a do smrti v pøepychu.}
-{132}{}{No, vlastnì myslím, e si to zatím nechám pro sebe.}
-{133}{}{Páni! Tak to je pøesnì to, na co jsem èekal. Tak co øíkáš, budeme paráci? Øeknìme fifty fifty?}
+{131}{}{Podle vÅ¡eho pÄ›knej balÃ­k penÄ›z. Dost na to Å¾Ã­t aÅ¾ do smrti v pÅ™epychu.}
+{132}{}{No, vlastnÄ› myslÃ­m, Å¾e si to zatÃ­m nechÃ¡m pro sebe.}
+{133}{}{PÃ¡ni! Tak to je pÅ™esnÄ› to, na co jsem Äekal. Tak co Å™Ã­kÃ¡Å¡, budeme parÅ¥Ã¡ci? Å˜eknÄ›me fifty fifty?}
 {134}{}{Jo!}
-{135}{}{Ne. Pápá.}
-{136}{}{To si piš.}
-{137}{}{No, kdy o tom tak pøemıšlím, moná ho zkusím najít sám. Zatím.}
-{138}{}{Vıbornì! Take jakej je pøíbìh? Kde jsou záporáci? A co chceš, abych udìlal?}
-{139}{}{Jít s já! Jít na temná místo.}
-{140}{}{Øeknìme, e strávíš hodnì èasu v "jeskyních".}
-{141}{}{Paráda! Staèí, kdy mì nasmìruješ!}
-{142}{}{Kde poklat? Nìkde v Centrum?}
-{143}{}{No, nevím to jistì, ale jeden èlovìk mi øekl, e tu nìkde poblí jeden je.}
-{144}{}{Coe? Tady v Centru? Ha! Ten, kdo ti to øekl, buï le, nebo je blázen. Kromì pár temnejch zákoutí jsem prolezl celı Broken Hills a nikde jsem nic nenašel. Vlastnì pøemıšlím o tom, e odejdu.}
-{145}{}{Mooc špatnı. Pápá.}
-{146}{}{Tak to je škoda. Doufal jsem, e mì nasmìruješ. No, tak nashle.}
+{135}{}{Ne. PÃ¡pÃ¡.}
+{136}{}{To si piÅ¡.}
+{137}{}{No, kdyÅ¾ o tom tak pÅ™emÃ½Å¡lÃ­m, moÅ¾nÃ¡ ho zkusÃ­m najÃ­t sÃ¡m. ZatÃ­m.}
+{138}{}{VÃ½bornÄ›! TakÅ¾e jakej je pÅ™Ã­bÄ›h? Kde jsou zÃ¡porÃ¡ci? A co chceÅ¡, abych udÄ›lal?}
+{139}{}{JÃ­t s jÃ¡! JÃ­t na temnÃ¡ mÃ­sto.}
+{140}{}{Å˜eknÄ›me, Å¾e strÃ¡vÃ­Å¡ hodnÄ› Äasu v "jeskynÃ­ch".}
+{141}{}{ParÃ¡da! StaÄÃ­, kdyÅ¾ mÄ› nasmÄ›rujeÅ¡!}
+{142}{}{Kde poklat? NÄ›kde v Centrum?}
+{143}{}{No, nevÃ­m to jistÄ›, ale jeden ÄlovÄ›k mi Å™ekl, Å¾e tu nÄ›kde poblÃ­Å¾ jeden je.}
+{144}{}{CoÅ¾e? Tady v Centru? Ha! Ten, kdo ti to Å™ekl, buÄ lÅ¾e, nebo je blÃ¡zen. KromÄ› pÃ¡r temnejch zÃ¡koutÃ­ jsem prolezl celÃ½ Broken Hills a nikde jsem nic nenaÅ¡el. VlastnÄ› pÅ™emÃ½Å¡lÃ­m o tom, Å¾e odejdu.}
+{145}{}{Mooc Å¡patnÃ½. PÃ¡pÃ¡.}
+{146}{}{Tak to je Å¡koda. Doufal jsem, Å¾e mÄ› nasmÄ›rujeÅ¡. No, tak nashle.}

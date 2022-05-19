@@ -1,49 +1,49 @@
-{100}{}{Poèítaèovı terminál.}
-{101}{}{Zdá se, e na tomto poèítaèi je pøimontována kamera.}
-{102}{}{Obrazovka je pro tebe zcela neèitelná.}
-{103}{}{(Nasmìrovala se na tebe miniaturní kamera.)                   Skynet - Bezpeènostní systém                                  Obcházím bezpeènostní terminál - Patro 3                Získávám osobní data - desátník Dixon                   Neshoduje se                                                          Kdo... jsi...?}
+{100}{}{PoÄÃ­taÄovÃ½ terminÃ¡l.}
+{101}{}{ZdÃ¡ se, Å¾e na tomto poÄÃ­taÄi je pÅ™imontovÃ¡na kamera.}
+{102}{}{Obrazovka je pro tebe zcela neÄitelnÃ¡.}
+{103}{}{(NasmÄ›rovala se na tebe miniaturnÃ­ kamera.)                   Skynet - BezpeÄnostnÃ­ systÃ©m                                  ObchÃ¡zÃ­m bezpeÄnostnÃ­ terminÃ¡l - Patro 3                ZÃ­skÃ¡vÃ¡m osobnÃ­ data - desÃ¡tnÃ­k Dixon                   Neshoduje se                                                          Kdo... jsi...?}
 {104}{}{}
 {105}{}{}
 {106}{}{}
 {107}{}{}
 {108}{}{}
-{109}{}{Co to... a kdo jsi k èertu ty?}
-{110}{}{Jsem poruèík Dixon.}
+{109}{}{Co to... a kdo jsi k Äertu ty?}
+{110}{}{Jsem poruÄÃ­k Dixon.}
 {111}{}{Jsem }
 {112}{}{Eh!}
-{113}{}{(Nedokáeš pøeèíst text na obrazovce.)}
-{114}{}{Chyba!                                                                Nejsou dostupné ádné programy                          Prosím restartujte}
+{113}{}{(NedokÃ¡Å¾eÅ¡ pÅ™eÄÃ­st text na obrazovce.)}
+{114}{}{Chyba!                                                                Nejsou dostupnÃ© Å¾Ã¡dnÃ© programy                          ProsÃ­m restartujte}
 {115}{}{}
 {116}{}{}
 {117}{}{Eh...}
 {118}{}{Konec.}
-{119}{}{Jsem Skynet. Umìlá inteligence - projekt èíslo 59234. Primární úkol vızkum a vıvoj. Sekundární úkol obrana Armádního skladu Sierra proti nepøíteli.                   Prosím identifikuj se}
+{119}{}{Jsem Skynet. UmÄ›lÃ¡ inteligence - projekt ÄÃ­slo 59234. PrimÃ¡rnÃ­ Ãºkol vÃ½zkum a vÃ½voj. SekundÃ¡rnÃ­ Ãºkol obrana ArmÃ¡dnÃ­ho skladu Sierra proti nepÅ™Ã­teli.                   ProsÃ­m identifikuj se}
 {120}{}{}
-{121}{}{Jsem poruèík Dixon.}
+{121}{}{Jsem poruÄÃ­k Dixon.}
 {122}{}{Jsem }
-{123}{}{Jsem pøítel.}
+{123}{}{Jsem pÅ™Ã­tel.}
 {124}{}{Konec.}
-{125}{}{Obraz se neshoduje s osobními daty poruèíka Dixona    Závìr: Objekt le                                             Závìr: Nepøítel                                                 Závìr: Znièit!                                                     -Konec pøenosu-}
+{125}{}{Obraz se neshoduje s osobnÃ­mi daty poruÄÃ­ka Dixona    ZÃ¡vÄ›r: Objekt lÅ¾e                                             ZÃ¡vÄ›r: NepÅ™Ã­tel                                                 ZÃ¡vÄ›r: ZniÄit!                                                     -Konec pÅ™enosu-}
 {126}{}{}
 {127}{}{}
 {128}{}{}
 {129}{}{}
 {130}{}{Konec.}
-{131}{}{ádnı záznam s tímto ID nebyl nalezen                       Skenuji...                                                       Èlovìk  - ena                                              Pokraèovat do kontrolní místnosti pro další analızu           -Konec pøenosu-}
+{131}{}{Å½Ã¡dnÃ½ zÃ¡znam s tÃ­mto ID nebyl nalezen                       Skenuji...                                                       ÄŒlovÄ›k  - Å¾ena                                              PokraÄovat do kontrolnÃ­ mÃ­stnosti pro dalÅ¡Ã­ analÃ½zu           -Konec pÅ™enosu-}
 {132}{}{}
 {133}{}{}
 {134}{}{}
-{135}{}{ádnı záznam s tímto ID nebyl nalezen                       Skenuji...                                                       Èlovìk  - mu                                               Pokraèovat do kontrolní místnosti pro další analızu           -Konec pøenosu-}
+{135}{}{Å½Ã¡dnÃ½ zÃ¡znam s tÃ­mto ID nebyl nalezen                       Skenuji...                                                       ÄŒlovÄ›k  - muÅ¾                                               PokraÄovat do kontrolnÃ­ mÃ­stnosti pro dalÅ¡Ã­ analÃ½zu           -Konec pÅ™enosu-}
 {136}{}{}
 {137}{}{}
 {138}{}{}
 {139}{}{Konec.}
-{140}{}{Definice: Pøítel                                                    Podstatné jméno - Nìkdo, kdo není nepøítelem                       Pokraèovat do kontrolní místnosti pro další analızu           -Konec pøenosu-}
+{140}{}{Definice: PÅ™Ã­tel                                                    PodstatnÃ© jmÃ©no - NÄ›kdo, kdo nenÃ­ nepÅ™Ã­telem                       PokraÄovat do kontrolnÃ­ mÃ­stnosti pro dalÅ¡Ã­ analÃ½zu           -Konec pÅ™enosu-}
 {141}{}{}
 {142}{}{}
 {143}{}{Konec.}
-{200}{}{ nedokáe pøeèíst text na monitoru.}
-{300}{}{Vypadá to, e je v poèítaèi nìjakı obrannı mechanismus.}
-{301}{}{Dostáváš ránu a ztrácíš }
-{302}{}{ dostává ránu a ztrácí }
-{303}{}{ hit bodù.}
+{200}{}{ nedokÃ¡Å¾e pÅ™eÄÃ­st text na monitoru.}
+{300}{}{VypadÃ¡ to, Å¾e je v poÄÃ­taÄi nÄ›jakÃ½ obrannÃ½ mechanismus.}
+{301}{}{DostÃ¡vÃ¡Å¡ rÃ¡nu a ztrÃ¡cÃ­Å¡ }
+{302}{}{ dostÃ¡vÃ¡ rÃ¡nu a ztrÃ¡cÃ­ }
+{303}{}{ hit bodÅ¯.}

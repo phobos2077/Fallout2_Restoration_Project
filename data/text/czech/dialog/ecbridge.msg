@@ -1,17 +1,17 @@
-{100}{}{Vidíš stráce Mostu Smrti.}
-{101}{}{Vidíš mue s vykulenım pohledem, neudrovanım plnovousem a chraplavım hlasem. Jeho levé oko vypadá, e mu kadou chvíli vypadne z dùlku.}
-{102}{}{Vidíš stráce Mostu Smrti.}
-{103}{}{Vidíš mue s vykulenım pohledem, neudrovanım plnovousem a chraplavım hlasem. Jeho levé oko vypadá, e mu kadou chvíli vypadne z dùlku.}
-{104}{}{Stát! Kdo chce pøekroèit Most Smrti, musí znát odpovìï na mé tøi otázky.}
-{105}{}{Cééé... Dééé... Eééé... Efff... Gééé}
+{100}{}{VidÃ­Å¡ strÃ¡Å¾ce Mostu Smrti.}
+{101}{}{VidÃ­Å¡ muÅ¾e s vykulenÃ½m pohledem, neudrÅ¾ovanÃ½m plnovousem a chraplavÃ½m hlasem. Jeho levÃ© oko vypadÃ¡, Å¾e mu kaÅ¾dou chvÃ­li vypadne z dÅ¯lku.}
+{102}{}{VidÃ­Å¡ strÃ¡Å¾ce Mostu Smrti.}
+{103}{}{VidÃ­Å¡ muÅ¾e s vykulenÃ½m pohledem, neudrÅ¾ovanÃ½m plnovousem a chraplavÃ½m hlasem. Jeho levÃ© oko vypadÃ¡, Å¾e mu kaÅ¾dou chvÃ­li vypadne z dÅ¯lku.}
+{104}{}{StÃ¡t! Kdo chce pÅ™ekroÄit Most Smrti, musÃ­ znÃ¡t odpovÄ›Ä na mÃ© tÅ™i otÃ¡zky.}
+{105}{}{CÃ©Ã©Ã©... DÃ©Ã©Ã©... EÃ©Ã©Ã©... Efff... GÃ©Ã©Ã©}
 {106}{}{Odbelhat se.}
-{107}{}{Tak dobrá.}
-{108}{}{Ptej se, stráèe. Nebojím se.}
-{109}{}{Myslím, e pøijdu pozdìji.}
-{110}{}{Jak se jmenuješ?}
-{111}{}{Háá... Iíí... Jéé... Káá... Ell...}
+{107}{}{Tak dobrÃ¡.}
+{108}{}{Ptej se, strÃ¡Å¾Äe. NebojÃ­m se.}
+{109}{}{MyslÃ­m, Å¾e pÅ™ijdu pozdÄ›ji.}
+{110}{}{Jak se jmenujeÅ¡?}
+{111}{}{HÃ¡Ã¡... IÃ­Ã­... JÃ©Ã©... KÃ¡Ã¡... Ell...}
 {112}{}{?}
-{113}{}{Já}
+{113}{}{JÃ¡}
 {114}{}{Odbelhat se.}
 {115}{}{z Arroya.}
 {116}{}{Harry}
@@ -19,63 +19,63 @@
 {118}{}{Testocles}
 {119}{}{Richard Grey}
 {120}{}{Seymour Heine}
-{121}{}{Vyvolenı!}
-{122}{}{Myslím, e pøijdu pozdìji.}
-{123}{}{Co je smyslem tvé vıpravy?}
-{124}{}{Mmmm... nnnn... ó... èùrat.}
+{121}{}{VyvolenÃ½!}
+{122}{}{MyslÃ­m, Å¾e pÅ™ijdu pozdÄ›ji.}
+{123}{}{Co je smyslem tvÃ© vÃ½pravy?}
+{124}{}{Mmmm... nnnn... Ã³... ÄÅ¯rat.}
 {125}{}{GEK. Arro-yo.}
 {126}{}{Odbelhat se.}
-{127}{}{Najít svatı GECK.}
-{128}{}{Najít zpùsob, jak zachránit svoji vesnici.}
-{129}{}{Najít svùj unesenı kmen.}
-{130}{}{Opravit rozbitı tanker.}
-{131}{}{Eh... vıpravy?}
-{132}{}{Myslím, e pøijdu, a se budeš cítit trochu lépe.}
-{133}{}{Která postava z Falloutu 1 pøeila a objevuje se i v sequelu, pøestoe je u asi velmi stará?}
-{134}{}{Která postava z Falloutu 1 pøeila a objevuje se i v sequelu?}
-{135}{}{Eh, stará?}
+{127}{}{NajÃ­t svatÃ½ GECK.}
+{128}{}{NajÃ­t zpÅ¯sob, jak zachrÃ¡nit svoji vesnici.}
+{129}{}{NajÃ­t svÅ¯j unesenÃ½ kmen.}
+{130}{}{Opravit rozbitÃ½ tanker.}
+{131}{}{Eh... vÃ½pravy?}
+{132}{}{MyslÃ­m, Å¾e pÅ™ijdu, aÅ¾ se budeÅ¡ cÃ­tit trochu lÃ©pe.}
+{133}{}{KterÃ¡ postava z Falloutu 1 pÅ™eÅ¾ila a objevuje se i v sequelu, pÅ™estoÅ¾e je uÅ¾ asi velmi starÃ¡?}
+{134}{}{KterÃ¡ postava z Falloutu 1 pÅ™eÅ¾ila a objevuje se i v sequelu?}
+{135}{}{Eh, starÃ¡?}
 {136}{}{Se-kvelu?}
 {137}{}{Odbelhat se.}
-{138}{}{Co... ?! To nevím!}
+{138}{}{Co... ?! To nevÃ­m!}
 {139}{}{Eh... Ian?}
 {140}{}{Eh... Dogmeat?}
 {141}{}{Eh... Tandi?}
 {142}{}{Eh... Tycho?}
 {143}{}{Eh... Harold?}
-{144}{}{Co tím myslíš? Poèítáš náhodná setkání jako souèást sequelu, nebo je povauješ za zvláštní události?}
-{145}{}{Co tím myslíš? NPC nebo nepøátele?}
-{146}{}{Kolik unese èlovìk se sílou 6 a perkem Silná záda?}
-{147}{}{To doopravdy nevím.}
+{144}{}{Co tÃ­m myslÃ­Å¡? PoÄÃ­tÃ¡Å¡ nÃ¡hodnÃ¡ setkÃ¡nÃ­ jako souÄÃ¡st sequelu, nebo je povaÅ¾ujeÅ¡ za zvlÃ¡Å¡tnÃ­ udÃ¡losti?}
+{145}{}{Co tÃ­m myslÃ­Å¡? NPC nebo nepÅ™Ã¡tele?}
+{146}{}{Kolik unese ÄlovÄ›k se sÃ­lou 6 a perkem SilnÃ¡ zÃ¡da?}
+{147}{}{To doopravdy nevÃ­m.}
 {148}{}{Eh... 200 liber?}
 {149}{}{Eh... 225 liber?}
 {150}{}{Eh... 250 liber?}
 {151}{}{Eh... 275 liber?}
 {152}{}{Eh... 300 liber?}
 {153}{}{Eh... 325 liber?}
-{154}{}{Kolikátého levelu perku Silná záda mùeš dosáhnout?}
-{155}{}{Jaké jsou minimální poadavky na perk Puntièkáø?}
-{156}{}{To doopravdy nevím.}
-{157}{}{Eh... síla pìt?}
-{158}{}{Eh... hbitost pìt?}
-{159}{}{Eh... hbitost šest?}
-{160}{}{Eh... level tøi?}
-{161}{}{Eh... level šest?}
-{162}{}{Eh... level devìt?}
-{163}{}{Co tím myslíš? Hlavní atributy nebo poadavky na úroveò?}
-{164}{}{Dobrá. U bì.}
-{165}{}{Dík}
+{154}{}{KolikÃ¡tÃ©ho levelu perku SilnÃ¡ zÃ¡da mÅ¯Å¾eÅ¡ dosÃ¡hnout?}
+{155}{}{JakÃ© jsou minimÃ¡lnÃ­ poÅ¾adavky na perk PuntiÄkÃ¡Å™?}
+{156}{}{To doopravdy nevÃ­m.}
+{157}{}{Eh... sÃ­la pÄ›t?}
+{158}{}{Eh... hbitost pÄ›t?}
+{159}{}{Eh... hbitost Å¡est?}
+{160}{}{Eh... level tÅ™i?}
+{161}{}{Eh... level Å¡est?}
+{162}{}{Eh... level devÄ›t?}
+{163}{}{Co tÃ­m myslÃ­Å¡? HlavnÃ­ atributy nebo poÅ¾adavky na ÃºroveÅˆ?}
+{164}{}{DobrÃ¡. UÅ¾ bÄ›Å¾.}
+{165}{}{DÃ­k}
 {166}{}{Bezva}
-{167}{}{Jo, díky. Díky moc.}
-{168}{}{To nevím!}
-{169}{}{Hráè je rozloen.}
+{167}{}{Jo, dÃ­ky. DÃ­ky moc.}
+{168}{}{To nevÃ­m!}
+{169}{}{HrÃ¡Ä je rozloÅ¾en.}
 {170}{}{Hehe.}
-{171}{}{Z nìjakého dùvodu si myslím, e bych si mìl uloit hru na nové pozici.}
+{171}{}{Z nÄ›jakÃ©ho dÅ¯vodu si myslÃ­m, Å¾e bych si mÄ›l uloÅ¾it hru na novÃ© pozici.}
 {172}{}{jak ty jmenovat?}
-{173}{}{Nikdy se nedostanu k tomu, abych poloil ty dobré otázky.}
-{174}{}{Budu si o tom muset promluvit se svım agentem.}
-{175}{}{Poøád mu øíkám, e musím nechat tìhlech lacinıch štìkù.}
-{176}{}{Jak si mám získat respekt, kdy jsem jenom ve filmech a videohrách s nízkım rozpoètem?}
-{177}{}{Hmmm... myslím, e bych se mìl dát na opravování aut.}
-{178}{}{Slyšel jsem, e se na tom dá dnes pìknì vydìlat.}
-{200}{}{Ááááááááááááááááááááá!}
-{1171}{}{Eh, já radši uloit hra na nová pozice.}
+{173}{}{Nikdy se nedostanu k tomu, abych poloÅ¾il ty dobrÃ© otÃ¡zky.}
+{174}{}{Budu si o tom muset promluvit se svÃ½m agentem.}
+{175}{}{PoÅ™Ã¡d mu Å™Ã­kÃ¡m, Å¾e musÃ­m nechat tÄ›hlech lacinÃ½ch Å¡tÄ›kÅ¯.}
+{176}{}{Jak si mÃ¡m zÃ­skat respekt, kdyÅ¾ jsem jenom ve filmech a videohrÃ¡ch s nÃ­zkÃ½m rozpoÄtem?}
+{177}{}{Hmmm... myslÃ­m, Å¾e bych se mÄ›l dÃ¡t na opravovÃ¡nÃ­ aut.}
+{178}{}{SlyÅ¡el jsem, Å¾e se na tom dÃ¡ dnes pÄ›knÄ› vydÄ›lat.}
+{200}{}{ÃÃ¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡!}
+{1171}{}{Eh, jÃ¡ radÅ¡i uloÅ¾it hra na novÃ¡ pozice.}

@@ -1,52 +1,52 @@
-{100}{}{Vidíš nadšeného Shi.}
-{101}{}{Vidíš Mai Da Chianga, majitele Èervenıch 888 Zbraní.}
-{102}{}{Vidíš baculatého Shi, kterı vypadá, e neustále pracuje.}
-{103}{}{Ahoj! Vítej u Èervenıch 888 Zbraní! Jsem Mai Da Chiang, majitel tohoto podniku. Jak ti mùu pomoct?}
+{100}{}{VidÃ­Å¡ nadÅ¡enÃ©ho Shi.}
+{101}{}{VidÃ­Å¡ Mai Da Chianga, majitele ÄŒervenÃ½ch 888 ZbranÃ­.}
+{102}{}{VidÃ­Å¡ baculatÃ©ho Shi, kterÃ½ vypadÃ¡, Å¾e neustÃ¡le pracuje.}
+{103}{}{Ahoj! VÃ­tej u ÄŒervenÃ½ch 888 ZbranÃ­! Jsem Mai Da Chiang, majitel tohoto podniku. Jak ti mÅ¯Å¾u pomoct?}
 {104}{}{Grokken di ma!}
-{105}{}{Já koupit!}
-{106}{}{Hledám nìjaké zbranì.}
-{107}{}{Povìz mi o tomhle místì.}
-{108}{}{Zapomeò na to.}
-{109}{}{Lituju! Nemluvím tvojí øeèí! Mìj se hezky!}
+{105}{}{JÃ¡ koupit!}
+{106}{}{HledÃ¡m nÄ›jakÃ© zbranÄ›.}
+{107}{}{PovÄ›z mi o tomhle mÃ­stÄ›.}
+{108}{}{ZapomeÅˆ na to.}
+{109}{}{Lituju! NemluvÃ­m tvojÃ­ Å™eÄÃ­! MÄ›j se hezky!}
 {110}{}{Rrr?}
-{111}{}{Á, tak zbranì, jo? No, mám tohle.}
-{112}{}{[Více]}
-{113}{}{Skvìlé, skvìlé. Díky za obchod. Pøijï zas!}
-{114}{}{Další otázky!}
+{111}{}{Ã, tak zbranÄ›, jo? No, mÃ¡m tohle.}
+{112}{}{[VÃ­ce]}
+{113}{}{SkvÄ›lÃ©, skvÄ›lÃ©. DÃ­ky za obchod. PÅ™ijÄ zas!}
+{114}{}{DalÅ¡Ã­ otÃ¡zky!}
 {115}{}{Nashle!}
-{116}{}{Ne, to není dost dobré. Lituju. Moná nìco jiného?}
-{117}{}{Další otázky.}
+{116}{}{Ne, to nenÃ­ dost dobrÃ©. Lituju. MoÅ¾nÃ¡ nÄ›co jinÃ©ho?}
+{117}{}{DalÅ¡Ã­ otÃ¡zky.}
 {118}{}{Ne. Nashle.}
-{119}{}{Potøebuješ ještì nìco?}
-{120}{}{Já koupit!}
+{119}{}{PotÅ™ebujeÅ¡ jeÅ¡tÄ› nÄ›co?}
+{120}{}{JÃ¡ koupit!}
 {121}{}{Ne. Nashle.}
-{122}{}{Hledám nìjaké zbranì.}
-{123}{}{Povìz mi o tomhle místì.}
-{124}{}{Zapomeò na to.}
-{125}{}{ijeme tu u spoustu let, ale ne vdy jsme tady ili. Dr. Fung zná úplnou historii. Vsadím se, e tì zajímá co dìláme teï.}
+{122}{}{HledÃ¡m nÄ›jakÃ© zbranÄ›.}
+{123}{}{PovÄ›z mi o tomhle mÃ­stÄ›.}
+{124}{}{ZapomeÅˆ na to.}
+{125}{}{Å½ijeme tu uÅ¾ spoustu let, ale ne vÅ¾dy jsme tady Å¾ili. Dr. Fung znÃ¡ Ãºplnou historii. VsadÃ­m se, Å¾e tÄ› zajÃ­mÃ¡ co dÄ›lÃ¡me teÄ.}
 {126}{}{Jo.}
-{127}{}{Ne, ve skuteènosti chci znát historii. Pùjdu najít Funga. Zatím.}
-{128}{}{Teï jsme pøevánì rybáøi a vìdci. Naši rybáøi chytají ryby a naši vìdci pracují na projektu, o nìm prohlašují, e zmìní svìt.}
-{129}{}{Zmìní svìt? Jak?}
-{130}{}{Co se ještì dìje ve mìstì?}
-{131}{}{Hmm. Zajímavé. Mám další otázky.}
-{132}{}{Dík. Naskle.}
-{133}{}{To nevím. Oni svoje tajemství nevyzrazují.}
-{134}{}{Aha. Co se ještì dìje ve mìstì?}
-{135}{}{Chápu. Mám další otázky.}
-{136}{}{Dík. Naskle.}
-{137}{}{Máme tu dva rivaly ve váleènıch umìních. Jsou to Lo Pan, èlovìk zamilovanı sám do sebe, a Dragon, kterı miluje ostatní. Øíká se, e kdo zvítìzí, ten rozhodne o budoucnosti váleènıch umìní.}
-{138}{}{Aha. Co se ještì dìje ve mìstì?}
-{139}{}{Chápu. Mám další otázky.}
-{140}{}{Díky.}
-{141}{}{Je tu gang tulákù, kteøí se pøestìhovali do tankeru Poseidon Oil v pøístavu. Uvnitø ily nìjaké pøíšery, ale tuláci je zavøeli do nišího podpalubí. A aèkoliv jsou to cizinci, jsme jim za to vdìèní.}
-{142}{}{Nìjaké jiné novinky?}
-{143}{}{Chápu. Mám další otázky.}
-{144}{}{Dík. Naskle.}
-{145}{}{Vìdci tvrdí, e se nìkdo dostal pøes jejich poèítaèovou ochranu a ukradl jejich tajemství.}
-{146}{}{Nìjaké jiné novinky?}
-{147}{}{Chápu. Mám další otázky.}
-{148}{}{Dík. Naskle.}
-{149}{}{Na nic dalšího si momentálnì nevzpomínám. Mìj se.}
-{150}{}{Hezkı den.}
-{151}{}{Jsi zlodìj, vrah a nièema. Obávám se, e tì budu muset zabít.}
+{127}{}{Ne, ve skuteÄnosti chci znÃ¡t historii. PÅ¯jdu najÃ­t Funga. ZatÃ­m.}
+{128}{}{TeÄ jsme pÅ™evÃ¡Å¾nÄ› rybÃ¡Å™i a vÄ›dci. NaÅ¡i rybÃ¡Å™i chytajÃ­ ryby a naÅ¡i vÄ›dci pracujÃ­ na projektu, o nÄ›mÅ¾ prohlaÅ¡ujÃ­, Å¾e zmÄ›nÃ­ svÄ›t.}
+{129}{}{ZmÄ›nÃ­ svÄ›t? Jak?}
+{130}{}{Co se jeÅ¡tÄ› dÄ›je ve mÄ›stÄ›?}
+{131}{}{Hmm. ZajÃ­mavÃ©. MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
+{132}{}{DÃ­k. Naskle.}
+{133}{}{To nevÃ­m. Oni svoje tajemstvÃ­ nevyzrazujÃ­.}
+{134}{}{Aha. Co se jeÅ¡tÄ› dÄ›je ve mÄ›stÄ›?}
+{135}{}{ChÃ¡pu. MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
+{136}{}{DÃ­k. Naskle.}
+{137}{}{MÃ¡me tu dva rivaly ve vÃ¡leÄnÃ½ch umÄ›nÃ­ch. Jsou to Lo Pan, ÄlovÄ›k zamilovanÃ½ sÃ¡m do sebe, a Dragon, kterÃ½ miluje ostatnÃ­. Å˜Ã­kÃ¡ se, Å¾e kdo zvÃ­tÄ›zÃ­, ten rozhodne o budoucnosti vÃ¡leÄnÃ½ch umÄ›nÃ­.}
+{138}{}{Aha. Co se jeÅ¡tÄ› dÄ›je ve mÄ›stÄ›?}
+{139}{}{ChÃ¡pu. MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
+{140}{}{DÃ­ky.}
+{141}{}{Je tu gang tulÃ¡kÅ¯, kteÅ™Ã­ se pÅ™estÄ›hovali do tankeru Poseidon Oil v pÅ™Ã­stavu. UvnitÅ™ Å¾ily nÄ›jakÃ© pÅ™Ã­Å¡ery, ale tulÃ¡ci je zavÅ™eli do niÅ¾Å¡Ã­ho podpalubÃ­. A aÄkoliv jsou to cizinci, jsme jim za to vdÄ›ÄnÃ­.}
+{142}{}{NÄ›jakÃ© jinÃ© novinky?}
+{143}{}{ChÃ¡pu. MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
+{144}{}{DÃ­k. Naskle.}
+{145}{}{VÄ›dci tvrdÃ­, Å¾e se nÄ›kdo dostal pÅ™es jejich poÄÃ­taÄovou ochranu a ukradl jejich tajemstvÃ­.}
+{146}{}{NÄ›jakÃ© jinÃ© novinky?}
+{147}{}{ChÃ¡pu. MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
+{148}{}{DÃ­k. Naskle.}
+{149}{}{Na nic dalÅ¡Ã­ho si momentÃ¡lnÄ› nevzpomÃ­nÃ¡m. MÄ›j se.}
+{150}{}{HezkÃ½ den.}
+{151}{}{Jsi zlodÄ›j, vrah a niÄema. ObÃ¡vÃ¡m se, Å¾e tÄ› budu muset zabÃ­t.}

@@ -1,7 +1,7 @@
-{100}{}{Vidíš starou konzoli.}
-{101}{}{Zdá se, e tato konzole ovládá systém nabíjení a odpalování torpéd. Je zrezlá, stejnì jako všechno na této ponorce, a funguje jen na dobré slovo.}
-{200}{}{Pokud bude tento subsystém vyøazen, znemoní se tím znovunabití torpédometù. Vypnutí by nemìlo bıt pøíliš sloité. Kovovı kryt se doslova rozpadá a skrz jsou vidìt elektronky.}
-{210}{}{Pøesnì jak se dalo oèekávat. Kovovı kryt snadno povolil a konzole je brzy rozebrána. Tato ponorka nebude moct v dohledné dobì nabít své torpédomety.}
-{211}{}{Nepodaøilo se ti vyøadit systém.}
-{212}{}{*píp*}
-{213}{}{*tùùùt*}
+{100}{}{VidÃ­Å¡ starou konzoli.}
+{101}{}{ZdÃ¡ se, Å¾e tato konzole ovlÃ¡dÃ¡ systÃ©m nabÃ­jenÃ­ a odpalovÃ¡nÃ­ torpÃ©d. Je zrezlÃ¡, stejnÄ› jako vÅ¡echno na tÃ©to ponorce, a funguje jen na dobrÃ© slovo.}
+{200}{}{Pokud bude tento subsystÃ©m vyÅ™azen, znemoÅ¾nÃ­ se tÃ­m znovunabitÃ­ torpÃ©dometÅ¯. VypnutÃ­ by nemÄ›lo bÃ½t pÅ™Ã­liÅ¡ sloÅ¾itÃ©. KovovÃ½ kryt se doslova rozpadÃ¡ a skrz jsou vidÄ›t elektronky.}
+{210}{}{PÅ™esnÄ› jak se dalo oÄekÃ¡vat. KovovÃ½ kryt snadno povolil a konzole je brzy rozebrÃ¡na. Tato ponorka nebude moct v dohlednÃ© dobÄ› nabÃ­t svÃ© torpÃ©domety.}
+{211}{}{NepodaÅ™ilo se ti vyÅ™adit systÃ©m.}
+{212}{}{*pÃ­p*}
+{213}{}{*tÅ¯Å¯Å¯t*}

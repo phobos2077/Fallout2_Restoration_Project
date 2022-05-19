@@ -1,7 +1,7 @@
-{100}{}{Vidíš nápadnou hromadu kamení.}
-{101}{}{Vidíš malou hromádku kamení. Vypadají, jako by tady byly naskládány za nìjakım úèelem.}
-{102}{}{Prostì hromada kamení.}
-{103}{}{Hej! Tady pod tìmi kameny je klíè.}
-{104}{}{U tady nic není.}
-{110}{}{Jé! Já našla klíèa.}
-{111}{}{ádná poklad tu u nebıt.}
+{100}{}{VidÃ­Å¡ nÃ¡padnou hromadu kamenÃ­.}
+{101}{}{VidÃ­Å¡ malou hromÃ¡dku kamenÃ­. VypadajÃ­, jako by tady byly nasklÃ¡dÃ¡ny za nÄ›jakÃ½m ÃºÄelem.}
+{102}{}{ProstÄ› hromada kamenÃ­.}
+{103}{}{Hej! Tady pod tÄ›mi kameny je klÃ­Ä.}
+{104}{}{UÅ¾ tady nic nenÃ­.}
+{110}{}{JÃ©! JÃ¡ naÅ¡la klÃ­Äa.}
+{111}{}{Å½Ã¡dnÃ¡ poklad tu uÅ¾ nebÃ½t.}

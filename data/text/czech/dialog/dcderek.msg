@@ -1,63 +1,63 @@
-{100}{}{Vidíš obèana Denu.}
-{101}{}{Vidíš Dereka.}
-{150}{}{Vypadá docela obratnì.}
+{100}{}{VidÃ­Å¡ obÄana Denu.}
+{101}{}{VidÃ­Å¡ Dereka.}
+{150}{}{VypadÃ¡ docela obratnÄ›.}
 {200}{}{Vypadni.}
-{201}{}{Jsem moc unavenej na to, abych si povídal.}
-{202}{}{Vypadni z mıho území.}
-{203}{}{Najdi si svoje místo na spaní.}
-{204}{}{Pøestaò mì otravovat.}
+{201}{}{Jsem moc unavenej na to, abych si povÃ­dal.}
+{202}{}{Vypadni z mÃ½ho ÃºzemÃ­.}
+{203}{}{Najdi si svoje mÃ­sto na spanÃ­.}
+{204}{}{PÅ™estaÅˆ mÄ› otravovat.}
 {205}{}{Jsem utahanej.}
 {206}{}{Doh!}
-{207}{}{Hej, co tu dìláš?}
+{207}{}{Hej, co tu dÄ›lÃ¡Å¡?}
 {220}{}{Vyhni se Metzgerovi, divochu.}
-{221}{}{Proè je poøád takovı zatracenı horko?}
-{222}{}{Proè ijem v poušti?}
-{223}{}{Jsem dobrej kuchaø.}
-{224}{}{Jednou si otevøu svoji vlastní restauraci.}
-{225}{}{Ké bych tak mìl opravdovou kuchyò.}
-{226}{}{Proè mám poøád takovou smùlu?}
-{227}{}{Lidi mì vdycky podrazej.}
-{228}{}{Fred je snílek. Mistr plánování, to urèitì.}
-{240}{}{Pšššt! Jsou všude.}
+{221}{}{ProÄ je poÅ™Ã¡d takovÃ½ zatracenÃ½ horko?}
+{222}{}{ProÄ Å¾ijem v pouÅ¡ti?}
+{223}{}{Jsem dobrej kuchaÅ™.}
+{224}{}{Jednou si otevÅ™u svoji vlastnÃ­ restauraci.}
+{225}{}{KÃ©Å¾ bych tak mÄ›l opravdovou kuchyÅˆ.}
+{226}{}{ProÄ mÃ¡m poÅ™Ã¡d takovou smÅ¯lu?}
+{227}{}{Lidi mÄ› vÅ¾dycky podrazej.}
+{228}{}{Fred je snÃ­lek. Mistr plÃ¡novÃ¡nÃ­, to urÄitÄ›.}
+{240}{}{PÅ¡Å¡Å¡t! Jsou vÅ¡ude.}
 {241}{}{Zastav je!}
-{242}{}{Take jsi našel tu zatracenou knihu?}
-{243}{}{Nevím, proè mì Becky nechce zamìstnat.}
-{244}{}{Já se nezblázním!}
-{245}{}{Získal jsem svı ètvráky!}
-{246}{}{Vycházejí pøevánì v noci.}
-{247}{}{Mám rád brambory!}
-{248}{}{Nechoï po tom zelenım bez bot!}
-{249}{}{Obra to naruby.}
-{250}{}{Och, pìknì mì bolí hlava.}
-{251}{}{Jsem šéfkuchaø!}
-{252}{}{Nikdy bych neotrávil nováèkùm jídlo.}
-{260}{}{Nazdar, hledáš èerstvì upeèenej chleba?}
+{242}{}{TakÅ¾e jsi naÅ¡el tu zatracenou knihu?}
+{243}{}{NevÃ­m, proÄ mÄ› Becky nechce zamÄ›stnat.}
+{244}{}{JÃ¡ se nezblÃ¡znÃ­m!}
+{245}{}{ZÃ­skal jsem svÃ½ ÄtvrÅ¥Ã¡ky!}
+{246}{}{VychÃ¡zejÃ­ pÅ™evÃ¡Å¾nÄ› v noci.}
+{247}{}{MÃ¡m rÃ¡d brambory!}
+{248}{}{NechoÄ po tom zelenÃ½m bez bot!}
+{249}{}{ObraÅ¥ to naruby.}
+{250}{}{Och, pÄ›knÄ› mÄ› bolÃ­ hlava.}
+{251}{}{Jsem Å¡Ã©fkuchaÅ™!}
+{252}{}{Nikdy bych neotrÃ¡vil novÃ¡ÄkÅ¯m jÃ­dlo.}
+{260}{}{Nazdar, hledÃ¡Å¡ ÄerstvÄ› upeÄenej chleba?}
 {261}{}{Ano.}
-{262}{}{Hledám Beckyinu knihu.}
+{262}{}{HledÃ¡m Beckyinu knihu.}
 {263}{}{Ne, nashle.}
-{270}{}{Zdravím.}
+{270}{}{ZdravÃ­m.}
 {271}{}{Kde je Beckyina kniha?}
 {272}{}{Hej, co takhle kousek toho chleba?}
 {273}{}{Nashle.}
-{280}{}{Ha! Já taky. U jsem ti øíkal, jakej jsem skvìlej kuchaø? Becky mì ale z nìjakıho dùvodu nechce zamìstnat. Øíká, e jsem prej labilní.}
-{281}{}{Nejspíš má pravdu.}
-{282}{}{Hledám Beckyinu knihu.}
-{283}{}{To je skvìlé. U, eh... musím jít.}
-{290}{}{Co? Ty! Jdi do hajzlu, kámo! Já nejsem... au! Kurva.}
-{291}{}{Co? Ty! Jdi do hajzlu, holka! Já nejsem... au! Kurva.}
-{292}{}{Zatracenì.}
-{293}{}{U dost.}
-{300}{}{Jo tahle. Nelíbila se mi. Samı líbání. Hodil jsem ji do kouta támhletı budovy... ne, támhletı budovy... ne... byla to vùbec budova? Moná jsem ji zahodil nìkde jinde... zahodil jsem ji vùbec? Au! Moje hlava!}
-{301}{}{Kniha? Jó, tahle kniha. Kdo tì poslal? Nejsem si jistej, jestli je to tahle strana. Nezapomeò na kapesník.}
-{302}{}{Nemùu! Oni jsou... a do hajzlu... máš ten sır? Schovej se!}
-{303}{}{Hej! To není mùj problém. Co jsem mìl jako dìlat? Bojovat s nima? Malí zelení muíci, velkı zuby! Kurva! Jau! Pøestaò!}
-{304}{}{Bolí mì hlava! Co... kdo to øekl?}
+{280}{}{Ha! JÃ¡ taky. UÅ¾ jsem ti Å™Ã­kal, jakej jsem skvÄ›lej kuchaÅ™? Becky mÄ› ale z nÄ›jakÃ½ho dÅ¯vodu nechce zamÄ›stnat. Å˜Ã­kÃ¡, Å¾e jsem prej labilnÃ­.}
+{281}{}{NejspÃ­Å¡ mÃ¡ pravdu.}
+{282}{}{HledÃ¡m Beckyinu knihu.}
+{283}{}{To je skvÄ›lÃ©. UÅ¾, eh... musÃ­m jÃ­t.}
+{290}{}{Co? Ty! Jdi do hajzlu, kÃ¡mo! JÃ¡ nejsem... au! Kurva.}
+{291}{}{Co? Ty! Jdi do hajzlu, holka! JÃ¡ nejsem... au! Kurva.}
+{292}{}{ZatracenÄ›.}
+{293}{}{UÅ¾ dost.}
+{300}{}{Jo tahle. NelÃ­bila se mi. SamÃ½ lÃ­bÃ¡nÃ­. Hodil jsem ji do kouta tÃ¡mhletÃ½ budovy... ne, tÃ¡mhletÃ½ budovy... ne... byla to vÅ¯bec budova? MoÅ¾nÃ¡ jsem ji zahodil nÄ›kde jinde... zahodil jsem ji vÅ¯bec? Au! Moje hlava!}
+{301}{}{Kniha? JÃ³, tahle kniha. Kdo tÄ› poslal? Nejsem si jistej, jestli je to tahle strana. NezapomeÅˆ na kapesnÃ­k.}
+{302}{}{NemÅ¯Å¾u! Oni jsou... a do hajzlu... mÃ¡Å¡ ten sÃ½r? Schovej se!}
+{303}{}{Hej! To nenÃ­ mÅ¯j problÃ©m. Co jsem mÄ›l jako dÄ›lat? Bojovat s nima? MalÃ­ zelenÃ­ muÅ¾Ã­ci, velkÃ½ zuby! Kurva! Jau! PÅ™estaÅˆ!}
+{304}{}{BolÃ­ mÄ› hlava! Co... kdo to Å™ekl?}
 {305}{}{No to mi opravdu pomohlo.}
 {306}{}{Eh.}
-{310}{}{Co? Posmíváš se mi! Jdi do hajzlu! Nejsem labilní! Umím vaøit! Nemám ádnı hlasy v hlavì!}
-{311}{}{Chystám se... do prdele! Kurva! Zatracenì! Pøestaò s tím. Buï zticha! Co?... dobøe.}
-{312}{}{Hej! Pøe... dìlat... kurva.}
+{310}{}{Co? PosmÃ­vÃ¡Å¡ se mi! Jdi do hajzlu! Nejsem labilnÃ­! UmÃ­m vaÅ™it! NemÃ¡m Å¾Ã¡dnÃ½ hlasy v hlavÄ›!}
+{311}{}{ChystÃ¡m se... do prdele! Kurva! ZatracenÄ›! PÅ™estaÅˆ s tÃ­m. BuÄ zticha! Co?... dobÅ™e.}
+{312}{}{Hej! PÅ™e... dÄ›lat... kurva.}
 {313}{}{Nashle.}
 {314}{}{No nic.}
-{320}{}{Hej! Vypadni ode mì!}
-{321}{}{Nedotıkej se mì!}
+{320}{}{Hej! Vypadni ode mÄ›!}
+{321}{}{NedotÃ½kej se mÄ›!}

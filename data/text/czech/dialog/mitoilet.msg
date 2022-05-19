@@ -1,1 +1,1 @@
-{100}{}{Všimneš si ebøíku vedoucího dolù do díry.}
+{100}{}{VÅ¡imneÅ¡ si Å¾ebÅ™Ã­ku vedoucÃ­ho dolÅ¯ do dÃ­ry.}

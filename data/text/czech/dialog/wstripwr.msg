@@ -1,2 +1,2 @@
-{100}{}{Všimneš si nástraného drátu a tìsnì se mu vyhıbáš.}
-{101}{}{ si všimne nástraného drátu a tìsnì se mu vyhıbáš.}
+{100}{}{VÅ¡imneÅ¡ si nÃ¡straÅ¾nÃ©ho drÃ¡tu a tÄ›snÄ› se mu vyhÃ½bÃ¡Å¡.}
+{101}{}{ si vÅ¡imne nÃ¡straÅ¾nÃ©ho drÃ¡tu a tÄ›snÄ› se mu vyhÃ½bÃ¡Å¡.}

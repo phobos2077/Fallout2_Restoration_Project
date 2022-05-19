@@ -1,8 +1,8 @@
-{100}{}{Vidíš podivnı stroj.}
-{101}{}{Vidíš záloní projektor Hologramu 00000.}
-{102}{}{Vidíš stroj, kterı je urèen pouze k projekci hologramu øeditele pro vìdu a vızkum.}
+{100}{}{VidÃ­Å¡ podivnÃ½ stroj.}
+{101}{}{VidÃ­Å¡ zÃ¡loÅ¾nÃ­ projektor Hologramu 00000.}
+{102}{}{VidÃ­Å¡ stroj, kterÃ½ je urÄen pouze k projekci hologramu Å™editele pro vÄ›du a vÃ½zkum.}
 {103}{}{Chyba ve stroji byla opravena.}
-{104}{}{Tento stroj ji funguje.}
-{105}{}{Oprava tohoto stroje se zdá bıt pøíliš sloitá.}
-{106}{}{Co vùbec hledám?}
-{107}{}{Ani s pomocí svého náøadí ten stroj nedokáeš opravit.}
+{104}{}{Tento stroj jiÅ¾ funguje.}
+{105}{}{Oprava tohoto stroje se zdÃ¡ bÃ½t pÅ™Ã­liÅ¡ sloÅ¾itÃ¡.}
+{106}{}{Co vÅ¯bec hledÃ¡m?}
+{107}{}{Ani s pomocÃ­ svÃ©ho nÃ¡Å™adÃ­ ten stroj nedokÃ¡Å¾eÅ¡ opravit.}

@@ -1,50 +1,50 @@
 {101}{}{}
-{102}{}{Test skriptù 0}
-{103}{}{Test skriptù 1}
-{104}{}{Test skriptù 2}
-{105}{}{Test skriptù 3}
-{106}{}{Test skriptù 4}
-{107}{}{Test skriptù 5}
-{108}{}{Váleèník Arroya}
+{102}{}{Test skriptÅ¯ 0}
+{103}{}{Test skriptÅ¯ 1}
+{104}{}{Test skriptÅ¯ 2}
+{105}{}{Test skriptÅ¯ 3}
+{106}{}{Test skriptÅ¯ 4}
+{107}{}{Test skriptÅ¯ 5}
+{108}{}{VÃ¡leÄnÃ­k Arroya}
 {109}{}{Obyvatel Arroya}
 {110}{}{Mynoc}
-{111}{}{Starší}
+{111}{}{StarÅ¡Ã­}
 {112}{}{Hakunin}
-{113}{}{Dveøe}
-{114}{}{Obecné}
+{113}{}{DveÅ™e}
+{114}{}{ObecnÃ©}
 {115}{}{Truhla}
 {116}{}{Truhla}
-{117}{}{Brahmína}
-{118}{}{Masoravı plevel}
+{117}{}{BrahmÃ­na}
+{118}{}{MasoÅ¾ravÃ½ plevel}
 {119}{}{}
-{120}{}{Malı radškorpion}
-{121}{}{Malı mantis}
-{122}{}{Malı páraè}
-{123}{}{Váza}
+{120}{}{MalÃ½ radÅ¡korpion}
+{121}{}{MalÃ½ mantis}
+{122}{}{MalÃ½ pÃ¡raÄ}
+{123}{}{VÃ¡za}
 {124}{}{Truhla}
-{125}{}{Jeskynì v Arroyo}
-{126}{}{Døevìné dveøe}
+{125}{}{JeskynÄ› v Arroyo}
+{126}{}{DÅ™evÄ›nÃ© dveÅ™e}
 {127}{}{Vesnice Arroyo}
 {128}{}{Most v Arroyo}
-{129}{}{Staré dveøe}
-{130}{}{Nášlapná deska}
-{131}{}{Nášlapná deska}
-{132}{}{Nášlapná deska}
-{133}{}{Nášlapná deska}
-{134}{}{Nášlapná deska}
-{135}{}{Dveøe}
-{136}{}{Feák}
-{137}{}{Strá}
-{138}{}{Místní obyvatel}
-{139}{}{Hrdloøez}
+{129}{}{StarÃ© dveÅ™e}
+{130}{}{NÃ¡Å¡lapnÃ¡ deska}
+{131}{}{NÃ¡Å¡lapnÃ¡ deska}
+{132}{}{NÃ¡Å¡lapnÃ¡ deska}
+{133}{}{NÃ¡Å¡lapnÃ¡ deska}
+{134}{}{NÃ¡Å¡lapnÃ¡ deska}
+{135}{}{DveÅ™e}
+{136}{}{FeÅ¥Ã¡k}
+{137}{}{StrÃ¡Å¾}
+{138}{}{MÃ­stnÃ­ obyvatel}
+{139}{}{HrdloÅ™ez}
 {140}{}{Sirotek}
 {141}{}{Joey}
 {142}{}{Flick}
-{143}{}{Strá}
+{143}{}{StrÃ¡Å¾}
 {144}{}{Petey}
 {145}{}{Smitty}
 {146}{}{Metzger}
-{147}{}{Otrokáø}
+{147}{}{OtrokÃ¡Å™}
 {148}{}{Tubby}
 {149}{}{Anna}
 {150}{}{Vic}
@@ -52,48 +52,48 @@
 {152}{}{Rebecca}
 {153}{}{Billy}
 {154}{}{Sheila}
-{155}{}{Máma}
-{156}{}{Vesnièanka}
-{157}{}{Hon otrokù}
-{158}{}{Vùz na otroky}
-{159}{}{Obchodní zóna Denu}
-{160}{}{Obchodní zóna Denu}
-{161}{}{Obytná ètvr Denu}
+{155}{}{MÃ¡ma}
+{156}{}{VesniÄanka}
+{157}{}{Hon otrokÅ¯}
+{158}{}{VÅ¯z na otroky}
+{159}{}{ObchodnÃ­ zÃ³na Denu}
+{160}{}{ObchodnÃ­ zÃ³na Denu}
+{161}{}{ObytnÃ¡ ÄtvrÅ¥ Denu}
 {162}{}{Hrob}
 {163}{}{Hrob}
 {164}{}{Hrob}
 {165}{}{Kosti}
-{166}{}{Deník}
-{167}{}{Pøívìsek}
-{168}{}{Destilátor}
+{166}{}{DenÃ­k}
+{167}{}{PÅ™Ã­vÄ›sek}
+{168}{}{DestilÃ¡tor}
 {169}{}{Hrob}
-{170}{}{Stùl pro blackjack}
+{170}{}{StÅ¯l pro blackjack}
 {171}{}{Otrok}
-{172}{}{Stùl pro blackjack}
-{173}{}{Dveøe}
+{172}{}{StÅ¯l pro blackjack}
+{173}{}{DveÅ™e}
 {174}{}{Whiskey Bob}
 {175}{}{Craps}
 {176}{}{Aldo}
 {177}{}{Ardin}
-{178}{}{Dítì}
+{178}{}{DÃ­tÄ›}
 {179}{}{Obyvatel}
 {180}{}{Maida}
 {181}{}{Sajag}
 {182}{}{Sally}
-{183}{}{Vysmátej}
+{183}{}{VysmÃ¡tej}
 {184}{}{Jenny}
-{185}{}{Hubeòour}
+{185}{}{HubeÅˆour}
 {186}{}{Torr}
 {187}{}{Dunton}
 {188}{}{Obyvatel}
 {189}{}{Cestovatel}
-{190}{}{Strá Vault City}
-{191}{}{Strá Vault City}
+{190}{}{StrÃ¡Å¾ Vault City}
+{191}{}{StrÃ¡Å¾ Vault City}
 {192}{}{Steve}
 {193}{}{Andrew}
-{194}{}{Strá Vault City}
+{194}{}{StrÃ¡Å¾ Vault City}
 {195}{}{Dr. Troy}
-{196}{}{lutı pes}
+{196}{}{Å½lutÃ½ pes}
 {197}{}{Balthas}
 {198}{}{Cornelius}
 {199}{}{Davina}
@@ -104,30 +104,30 @@
 {204}{}{Karl}
 {205}{}{Laddie}
 {206}{}{Mirie}
-{207}{}{Stráce}
+{207}{}{StrÃ¡Å¾ce}
 {208}{}{Rose}
 {209}{}{Vegeir}
 {210}{}{Ed}
 {211}{}{Harry}
-{212}{}{Paní Smithová}
+{212}{}{PanÃ­ SmithovÃ¡}
 {213}{}{Melinda}
-{214}{}{Stopaøka}
+{214}{}{StopaÅ™ka}
 {215}{}{Pan Smith}
 {216}{}{Skeeve}
 {217}{}{Prokonzul Gregory}
 {218}{}{Nurse Phyllis}
 {219}{}{Randal}
-{220}{}{Mazlavá hmota}
+{220}{}{MazlavÃ¡ hmota}
 {221}{}{Barkus}
-{222}{}{Vesnièanka}
+{222}{}{VesniÄanka}
 {223}{}{Stark}
-{224}{}{Stráce vstupu do Vaultu}
+{224}{}{StrÃ¡Å¾ce vstupu do Vaultu}
 {225}{}{Starej Joe}
 {226}{}{Connar}
 {227}{}{Wallace}
 {228}{}{Lynette}
 {229}{}{McClure}
-{230}{}{Zmutovanı potkan}
+{230}{}{ZmutovanÃ½ potkan}
 {231}{}{Festus}
 {232}{}{Gordon}
 {233}{}{Hank}
@@ -137,78 +137,78 @@
 {237}{}{Zomak}
 {238}{}{Wooz}
 {239}{}{Lenny}
-{240}{}{Ghoulí stráce}
-{241}{}{Ghoulí dìlník}
-{242}{}{Dìlník "Záøících"}
-{243}{}{Ghoulí stráce}
+{240}{}{GhoulÃ­ strÃ¡Å¾ce}
+{241}{}{GhoulÃ­ dÄ›lnÃ­k}
+{242}{}{DÄ›lnÃ­k "ZÃ¡Å™Ã­cÃ­ch"}
+{243}{}{GhoulÃ­ strÃ¡Å¾ce}
 {244}{}{Robot}
-{245}{}{Ghoulí obyvatel}
+{245}{}{GhoulÃ­ obyvatel}
 {246}{}{Map Script}
 {247}{}{Map Script}
 {248}{}{Map Script}
-{249}{}{Hlídací Robot}
-{250}{}{Opravárenskı Robot}
+{249}{}{HlÃ­dacÃ­ Robot}
+{250}{}{OpravÃ¡renskÃ½ Robot}
 {251}{}{Holodisk}
 {252}{}{Holodisk}
 {253}{}{Holodisk}
-{254}{}{Terminál}
-{255}{}{Terminál}
-{256}{}{Terminál}
-{257}{}{Terminál}
-{258}{}{Terminál}
-{259}{}{Terminál}
-{260}{}{Terminál}
-{261}{}{Terminál}
-{262}{}{Terminál}
-{263}{}{Terminál}
-{264}{}{Terminál}
-{265}{}{List papíru}
-{266}{}{Vojín Dobbs}
+{254}{}{TerminÃ¡l}
+{255}{}{TerminÃ¡l}
+{256}{}{TerminÃ¡l}
+{257}{}{TerminÃ¡l}
+{258}{}{TerminÃ¡l}
+{259}{}{TerminÃ¡l}
+{260}{}{TerminÃ¡l}
+{261}{}{TerminÃ¡l}
+{262}{}{TerminÃ¡l}
+{263}{}{TerminÃ¡l}
+{264}{}{TerminÃ¡l}
+{265}{}{List papÃ­ru}
+{266}{}{VojÃ­n Dobbs}
 {267}{}{Skynet}
-{268}{}{Vıtah}
-{269}{}{Vıtah}
+{268}{}{VÃ½tah}
+{269}{}{VÃ½tah}
 {270}{}{Truhla}
 {271}{}{Truhla}
 {272}{}{Tandi}
-{273}{}{Vrhací past}
-{274}{}{Vrhací past}
-{275}{}{Vrhací past}
-{276}{}{Vrhací past}
-{277}{}{Vrhací past}
-{278}{}{Vrhací past}
-{279}{}{Vrhací past}
-{280}{}{Vrhací past}
-{281}{}{Vrhací past}
-{282}{}{Vrhací past}
-{283}{}{Vrhací past}
-{284}{}{Vrhací past}
-{285}{}{Vrhací past}
-{286}{}{Vrhací past}
-{287}{}{Vrhací past}
-{288}{}{Vrhací past}
-{289}{}{Jeskynì Duchù 1}
-{290}{}{Jeskynì Duchù 2}
+{273}{}{VrhacÃ­ past}
+{274}{}{VrhacÃ­ past}
+{275}{}{VrhacÃ­ past}
+{276}{}{VrhacÃ­ past}
+{277}{}{VrhacÃ­ past}
+{278}{}{VrhacÃ­ past}
+{279}{}{VrhacÃ­ past}
+{280}{}{VrhacÃ­ past}
+{281}{}{VrhacÃ­ past}
+{282}{}{VrhacÃ­ past}
+{283}{}{VrhacÃ­ past}
+{284}{}{VrhacÃ­ past}
+{285}{}{VrhacÃ­ past}
+{286}{}{VrhacÃ­ past}
+{287}{}{VrhacÃ­ past}
+{288}{}{VrhacÃ­ past}
+{289}{}{JeskynÄ› DuchÅ¯ 1}
+{290}{}{JeskynÄ› DuchÅ¯ 2}
 {291}{}{Farma duchu}
-{292}{}{Modocké pastviny brahmín}
-{293}{}{Modocká zahrada}
-{294}{}{Modocká hospoda}
-{295}{}{Modocké námìstí}
-{296}{}{Modockı septik}
-{297}{}{Modocká studna}
-{298}{}{NCR Zóna 2}
+{292}{}{ModockÃ© pastviny brahmÃ­n}
+{293}{}{ModockÃ¡ zahrada}
+{294}{}{ModockÃ¡ hospoda}
+{295}{}{ModockÃ© nÃ¡mÄ›stÃ­}
+{296}{}{ModockÃ½ septik}
+{297}{}{ModockÃ¡ studna}
+{298}{}{NCR ZÃ³na 2}
 {299}{}{Zahrady Arroya}
 {300}{}{Gecka}
-{301}{}{Kvìtina Broc}
-{302}{}{Koøen Xander}
-{303}{}{Brahmína}
-{304}{}{Balthasova ena}
-{305}{}{Brahmína}
-{306}{}{Zdivoèelé plemeno psa.}
+{301}{}{KvÄ›tina Broc}
+{302}{}{KoÅ™en Xander}
+{303}{}{BrahmÃ­na}
+{304}{}{Balthasova Å¾ena}
+{305}{}{BrahmÃ­na}
+{306}{}{ZdivoÄelÃ© plemeno psa.}
 {307}{}{Kameny}
 {308}{}{Kameny}
-{309}{}{Nástìnnı sejf}
-{310}{}{Pytlík s mincemi}
-{311}{}{Záchod}
+{309}{}{NÃ¡stÄ›nnÃ½ sejf}
+{310}{}{PytlÃ­k s mincemi}
+{311}{}{ZÃ¡chod}
 {312}{}{Bedna}
 {313}{}{Jordan}
 {314}{}{Teta Morlis}
@@ -219,11 +219,11 @@
 {319}{}{Map Script}
 {320}{}{Doofus}
 {321}{}{Nagor}
-{322}{}{Kouø}
-{323}{}{NCR Zóna 1}
-{324}{}{NCR Zóna 3}
-{325}{}{NCR Zóna 4}
-{326}{}{NCR Vstupní zóna}
+{322}{}{KouÅ™}
+{323}{}{NCR ZÃ³na 1}
+{324}{}{NCR ZÃ³na 3}
+{325}{}{NCR ZÃ³na 4}
+{326}{}{NCR VstupnÃ­ zÃ³na}
 {327}{}{Mikey}
 {328}{}{Mikeyho truhla}
 {329}{}{Emitor}
@@ -237,36 +237,36 @@
 {337}{}{Emitor}
 {338}{}{Emitor}
 {339}{}{Emitor}
-{340}{}{Silové pole}
-{341}{}{Silové pole}
-{342}{}{Silové pole}
-{343}{}{Silové pole}
-{344}{}{Silové pole}
-{345}{}{Silové pole}
-{346}{}{Silové pole}
-{347}{}{Silové pole}
-{348}{}{Silové pole}
-{349}{}{Silové pole}
-{350}{}{Silové pole}
-{351}{}{Siréna}
+{340}{}{SilovÃ© pole}
+{341}{}{SilovÃ© pole}
+{342}{}{SilovÃ© pole}
+{343}{}{SilovÃ© pole}
+{344}{}{SilovÃ© pole}
+{345}{}{SilovÃ© pole}
+{346}{}{SilovÃ© pole}
+{347}{}{SilovÃ© pole}
+{348}{}{SilovÃ© pole}
+{349}{}{SilovÃ© pole}
+{350}{}{SilovÃ© pole}
+{351}{}{SirÃ©na}
 {352}{}{Buster}
 {353}{}{Knihovna}
 {354}{}{Knihovna}
 {355}{}{Knihovna}
-{356}{}{Nájezdnice}
-{357}{}{Rolník}
+{356}{}{NÃ¡jezdnice}
+{357}{}{RolnÃ­k}
 {358}{}{Obchodnik}
-{359}{}{Strá}
-{360}{}{Patron z "Nevydìlanı kùe"}
+{359}{}{StrÃ¡Å¾}
+{360}{}{Patron z "NevydÄ›lanÃ½ kÅ¯Å¾e"}
 {361}{}{Podlaha}
-{362}{}{Plazmová past}
-{363}{}{Plazmová past}
-{364}{}{Terminál}
-{365}{}{Nástìnka}
-{366}{}{Brána}
-{367}{}{Mazlavá hmota}
-{368}{}{Dveøe}
-{369}{}{Dveøe}
+{362}{}{PlazmovÃ¡ past}
+{363}{}{PlazmovÃ¡ past}
+{364}{}{TerminÃ¡l}
+{365}{}{NÃ¡stÄ›nka}
+{366}{}{BrÃ¡na}
+{367}{}{MazlavÃ¡ hmota}
+{368}{}{DveÅ™e}
+{369}{}{DveÅ™e}
 {370}{}{}
 {371}{}{}
 {372}{}{Map Script}
@@ -293,23 +293,23 @@
 {393}{}{Map Script}
 {394}{}{Map Script}
 {395}{}{Map Script}
-{396}{}{Destilátor}
-{397}{}{Zákazník}
-{398}{}{Zákazník}
+{396}{}{DestilÃ¡tor}
+{397}{}{ZÃ¡kaznÃ­k}
+{398}{}{ZÃ¡kaznÃ­k}
 {399}{}{Vortis}
-{400}{}{Obsluha lázní}
+{400}{}{Obsluha lÃ¡znÃ­}
 {401}{}{Otroci}
-{402}{}{Škorpion}
-{403}{}{Brahmína}
+{402}{}{Å korpion}
+{403}{}{BrahmÃ­na}
 {404}{}{Auto}
-{405}{}{Stùl}
+{405}{}{StÅ¯l}
 {406}{}{Map Script}
 {407}{}{Map Script}
 {408}{}{Map Script}
 {409}{}{Map Script}
 {410}{}{Corvega}
 {411}{}{Map Script}
-{412}{}{elezné dveøe}
+{412}{}{Å½eleznÃ© dveÅ™e}
 {413}{}{Map Script}
 {414}{}{Map Script}
 {415}{}{Map Script}
@@ -320,15 +320,15 @@
 {420}{}{Boxer}
 {421}{}{Pete McKneely}
 {422}{}{Evan Hollyfeld}
-{423}{}{dímaèka}
-{424}{}{Vìdec}
+{423}{}{Å½dÃ­maÄka}
+{424}{}{VÄ›dec}
 {425}{}{Merk}
-{426}{}{Ventilátor}
-{427}{}{Pøekupník drog}
+{426}{}{VentilÃ¡tor}
+{427}{}{PÅ™ekupnÃ­k drog}
 {428}{}{Patron kasina}
-{429}{}{Pasák}
-{430}{}{Feák}
-{431}{}{Nábytek}
+{429}{}{PasÃ¡k}
+{430}{}{FeÅ¥Ã¡k}
+{431}{}{NÃ¡bytek}
 {432}{}{Podlaha}
 {433}{}{Zem}
 {434}{}{Holodisk}
@@ -337,136 +337,136 @@
 {437}{}{Prostitutka}
 {438}{}{Otrok}
 {439}{}{Rico}
-{440}{}{Pornohereèka}
-{441}{}{Nabíjeèka}
+{440}{}{PornohereÄka}
+{441}{}{NabÃ­jeÄka}
 {442}{}{Map Script}
 {443}{}{Vlk}
-{444}{}{Generátor}
-{445}{}{Dveøe}
+{444}{}{GenerÃ¡tor}
+{445}{}{DveÅ™e}
 {446}{}{Super mutant}
-{447}{}{Salvatorùv èlovìk}
-{448}{}{Bishopùv èlovìk}
-{449}{}{Mordinùv èlovìk}
-{450}{}{Wrightovo dítì}
-{451}{}{Vyhazovaè}
+{447}{}{SalvatorÅ¯v ÄlovÄ›k}
+{448}{}{BishopÅ¯v ÄlovÄ›k}
+{449}{}{MordinÅ¯v ÄlovÄ›k}
+{450}{}{Wrightovo dÃ­tÄ›}
+{451}{}{VyhazovaÄ}
 {452}{}{Mira}
 {453}{}{New Reno Ulice Panen}
-{454}{}{New Reno Druhá ulice}
-{455}{}{New Reno Obchodní ètvr}
-{456}{}{New Reno Vıchodní ètvr}
-{457}{}{New Reno Stáje}
-{458}{}{New Reno Èerpací stanice}
+{454}{}{New Reno DruhÃ¡ ulice}
+{455}{}{New Reno ObchodnÃ­ ÄtvrÅ¥}
+{456}{}{New Reno VÃ½chodnÃ­ ÄtvrÅ¥}
+{457}{}{New Reno StÃ¡je}
+{458}{}{New Reno ÄŒerpacÃ­ stanice}
 {459}{}{New Reno Golgotha}
-{460}{}{New Reno Bishopùv suterén}
+{460}{}{New Reno BishopÅ¯v suterÃ©n}
 {461}{}{Holodisk}
 {462}{}{Holodisk}
 {463}{}{Holodisk}
 {464}{}{Holodisk}
 {465}{}{Holodisk}
-{466}{}{Strá}
-{467}{}{Dùlní vozík}
+{466}{}{StrÃ¡Å¾}
+{467}{}{DÅ¯lnÃ­ vozÃ­k}
 {468}{}{Melchior}
-{469}{}{Zmutovanı potkan}
+{469}{}{ZmutovanÃ½ potkan}
 {470}{}{FEV odpad}
-{471}{}{Kapitán stráí}
-{472}{}{Dozorce otrokù}
-{473}{}{Melchiorùv mazlíèek}
-{474}{}{Hlídaè otrokù}
-{475}{}{Dveøe}
-{476}{}{Terminál}
-{477}{}{Hrací automat}
-{478}{}{Dítì}
+{471}{}{KapitÃ¡n strÃ¡Å¾Ã­}
+{472}{}{Dozorce otrokÅ¯}
+{473}{}{MelchiorÅ¯v mazlÃ­Äek}
+{474}{}{HlÃ­daÄ otrokÅ¯}
+{475}{}{DveÅ™e}
+{476}{}{TerminÃ¡l}
+{477}{}{HracÃ­ automat}
+{478}{}{DÃ­tÄ›}
 {479}{}{Sheb}
-{480}{}{Strá}
+{480}{}{StrÃ¡Å¾}
 {481}{}{Emitor}
-{482}{}{Silové pole}
+{482}{}{SilovÃ© pole}
 {483}{}{Sulik}
 {484}{}{Dr. Henry}
-{485}{}{Strá}
-{486}{}{Carlsonova osobní ochranka}
-{487}{}{Hlídaè Carlsonovy brány}
-{488}{}{Vìzeò}
-{489}{}{Vìzeò}
+{485}{}{StrÃ¡Å¾}
+{486}{}{Carlsonova osobnÃ­ ochranka}
+{487}{}{HlÃ­daÄ Carlsonovy brÃ¡ny}
+{488}{}{VÄ›zeÅˆ}
+{489}{}{VÄ›zeÅˆ}
 {490}{}{Obyvatel}
-{491}{}{Obchodní pøíruèí}
-{492}{}{Stráce u vchodu}
-{493}{}{Ghoulí dìlník}
-{494}{}{"Záøící"}
-{495}{}{Ghoulí stráce}
+{491}{}{ObchodnÃ­ pÅ™Ã­ruÄÃ­}
+{492}{}{StrÃ¡Å¾ce u vchodu}
+{493}{}{GhoulÃ­ dÄ›lnÃ­k}
+{494}{}{"ZÃ¡Å™Ã­cÃ­"}
+{495}{}{GhoulÃ­ strÃ¡Å¾ce}
 {496}{}{Robot}
 {497}{}{Ghoul}
-{498}{}{Uctívaè}
+{498}{}{UctÃ­vaÄ}
 {499}{}{Harold}
-{500}{}{Dùstojník}
+{500}{}{DÅ¯stojnÃ­k}
 {501}{}{Toto}
 {502}{}{Dorothy}
-{503}{}{Místní obyvatel}
-{504}{}{Ghoulí stráce}
-{505}{}{Ghoulí stráce}
+{503}{}{MÃ­stnÃ­ obyvatel}
+{504}{}{GhoulÃ­ strÃ¡Å¾ce}
+{505}{}{GhoulÃ­ strÃ¡Å¾ce}
 {506}{}{Gond}
 {507}{}{Duppo}
-{508}{}{Vìci}
+{508}{}{VÄ›ci}
 {509}{}{Bob}
-{510}{}{Krupiérka}
-{511}{}{Krupiérka}
-{512}{}{Magická koule}
-{513}{}{Brahmína}
-{514}{}{Hrací automat}
+{510}{}{KrupiÃ©rka}
+{511}{}{KrupiÃ©rka}
+{512}{}{MagickÃ¡ koule}
+{513}{}{BrahmÃ­na}
+{514}{}{HracÃ­ automat}
 {515}{}{Starej McGee}
-{516}{}{Monte "Tøi karty"}
+{516}{}{Monte "TÅ™i karty"}
 {517}{}{Algernon}
 {518}{}{Bill}
 {519}{}{Bishop's Bodyguard}
 {520}{}{John Bishop}
-{521}{}{Hrací automat}
-{522}{}{Èórkaø}
+{521}{}{HracÃ­ automat}
+{522}{}{ÄŒÃ³rkaÅ™}
 {523}{}{Chris Wright}
 {524}{}{Cody}
-{525}{}{Korsickı bratr}
+{525}{}{KorsickÃ½ bratr}
 {526}{}{Eldridge}
-{527}{}{Ethyl Wrightová}
+{527}{}{Ethyl WrightovÃ¡}
 {528}{}{Otec Tully}
 {529}{}{HumperdumperDIDO}
-{530}{}{Malej Jeíš Mordino}
-{531}{}{Poøezanej Jimmy J}
+{530}{}{Malej JeÅ¾Ã­Å¡ Mordino}
+{531}{}{PoÅ™ezanej Jimmy J}
 {532}{}{Keith Wright}
-{533}{}{Lee Anne Bishopová}
+{533}{}{Lee Anne BishopovÃ¡}
 {534}{}{Hezoun Lloyd}
 {535}{}{Mason}
-{536}{}{Strá}
+{536}{}{StrÃ¡Å¾}
 {537}{}{Myron}
 {538}{}{Nikki}
 {539}{}{Orville Wright}
-{540}{}{Šéf kasína}
-{541}{}{Renesco Rakeák}
+{540}{}{Å Ã©f kasÃ­na}
+{541}{}{Renesco RakeÅ¥Ã¡k}
 {542}{}{Marjorie Reed}
 {543}{}{Don Salvatore}
 {544}{}{Malej Stuart}
 {545}{}{T-Ray}
-{546}{}{Šlapka}
-{547}{}{Wrightovic dìcko}
+{546}{}{Å lapka}
+{547}{}{Wrightovic dÄ›cko}
 {548}{}{NCR policista}
 {549}{}{Oswald}
 {550}{}{Dusty}
 {551}{}{Jules}
-{552}{}{Sleèna Kitty}
+{552}{}{SleÄna Kitty}
 {553}{}{Barman}
-{554}{}{Zástupce Karl}
-{555}{}{Dveøe cely}
-{556}{}{Velkej Jeíš Mordino}
+{554}{}{ZÃ¡stupce Karl}
+{555}{}{DveÅ™e cely}
+{556}{}{Velkej JeÅ¾Ã­Å¡ Mordino}
 {557}{}{Hoss}
-{558}{}{Mutagenní sérum}
+{558}{}{MutagennÃ­ sÃ©rum}
 {559}{}{Bedna}
 {560}{}{Bedna}
 {561}{}{Bedna}
 {562}{}{Bedna}
 {563}{}{Doktor Jubilee}
-{564}{}{Dveøe}
-{565}{}{Dveøe}
+{564}{}{DveÅ™e}
+{565}{}{DveÅ™e}
 {566}{}{Knihovna}
-{567}{}{Šerif Dumont}
+{567}{}{Å erif Dumont}
 {568}{}{Elise}
-{569}{}{Nádeník}
+{569}{}{NÃ¡denÃ­k}
 {570}{}{Felix}
 {571}{}{Westin}
 {572}{}{Rondo}
@@ -474,204 +474,204 @@
 {574}{}{Schody}
 {575}{}{Hal}
 {576}{}{Gunther}
-{577}{}{Brahmína}
-{578}{}{Správce karavany}
-{579}{}{Øidiè karavany}
-{580}{}{Stráce karavany}
-{581}{}{Nájezdnice}
-{582}{}{Mafián}
+{577}{}{BrahmÃ­na}
+{578}{}{SprÃ¡vce karavany}
+{579}{}{Å˜idiÄ karavany}
+{580}{}{StrÃ¡Å¾ce karavany}
+{581}{}{NÃ¡jezdnice}
+{582}{}{MafiÃ¡n}
 {583}{}{Lovec}
 {584}{}{Lovec}
 {585}{}{Ranger}
-{586}{}{oldák}
-{587}{}{oldák}
-{588}{}{Nájezdnice}
-{589}{}{Øidiè karavany}
-{590}{}{Stráce karavany}
-{591}{}{Èlen hlídky}
-{592}{}{Velitel hlídky}
-{593}{}{Farmáøka}
-{594}{}{Brahmína}
-{595}{}{Brahmína}
+{586}{}{Å½oldÃ¡k}
+{587}{}{Å½oldÃ¡k}
+{588}{}{NÃ¡jezdnice}
+{589}{}{Å˜idiÄ karavany}
+{590}{}{StrÃ¡Å¾ce karavany}
+{591}{}{ÄŒlen hlÃ­dky}
+{592}{}{Velitel hlÃ­dky}
+{593}{}{FarmÃ¡Å™ka}
+{594}{}{BrahmÃ­na}
+{595}{}{BrahmÃ­na}
 {596}{}{Cestovatel}
-{597}{}{Èlen hlídky}
-{598}{}{Velitel hlídky}
-{599}{}{Èlen hlídky}
-{600}{}{Velitel hlídky}
-{601}{}{Pasák brahmín}
-{602}{}{Zlodìj dobytka}
+{597}{}{ÄŒlen hlÃ­dky}
+{598}{}{Velitel hlÃ­dky}
+{599}{}{ÄŒlen hlÃ­dky}
+{600}{}{Velitel hlÃ­dky}
+{601}{}{PasÃ¡k brahmÃ­n}
+{602}{}{ZlodÄ›j dobytka}
 {603}{}{Squatter}
-{604}{}{Likvidátor}
-{605}{}{Pøekupnice s alkoholem}
+{604}{}{LikvidÃ¡tor}
+{605}{}{PÅ™ekupnice s alkoholem}
 {606}{}{Super mutant}
-{607}{}{Rybáø}
-{608}{}{Otrokáø}
-{609}{}{Stopaøka}
-{610}{}{Carlsonovo dítì}
+{607}{}{RybÃ¡Å™}
+{608}{}{OtrokÃ¡Å™}
+{609}{}{StopaÅ™ka}
+{610}{}{Carlsonovo dÃ­tÄ›}
 {611}{}{Carlson}
 {612}{}{}
-{613}{}{Dùstojník Jack}
-{614}{}{"Osvícenı"}
-{615}{}{Dveøe}
-{616}{}{Poèítaè}
-{617}{}{Brahmína}
-{618}{}{páraè                                                         }
-{619}{}{Vıchod}
-{620}{}{Poèítaè}
+{613}{}{DÅ¯stojnÃ­k Jack}
+{614}{}{"OsvÃ­cenÃ½"}
+{615}{}{DveÅ™e}
+{616}{}{PoÄÃ­taÄ}
+{617}{}{BrahmÃ­na}
+{618}{}{pÃ¡raÄ                                                         }
+{619}{}{VÃ½chod}
+{620}{}{PoÄÃ­taÄ}
 {621}{}{Feargus}
 {622}{}{Ariel}
 {623}{}{Fannie Mae}
-{624}{}{Poèítaèovı terminál}
+{624}{}{PoÄÃ­taÄovÃ½ terminÃ¡l}
 {625}{}{Dalia}
 {626}{}{Dar}
 {627}{}{Dave}
 {628}{}{Gordon}
-{629}{}{Cedule "Zavøeno"}
-{630}{}{Kontrolní systém reaktoru}
+{629}{}{Cedule "ZavÅ™eno"}
+{630}{}{KontrolnÃ­ systÃ©m reaktoru}
 {631}{}{Jimmy}
 {632}{}{Joseph}
 {633}{}{Matt}
 {634}{}{}
 {635}{}{Map Script}
-{636}{}{Scénáø mapy V13}
+{636}{}{ScÃ©nÃ¡Å™ mapy V13}
 {637}{}{Sandy}
 {638}{}{Bedna}
 {639}{}{Thearn}
 {640}{}{Bedna}
 {641}{}{Bedna}
 {642}{}{Valdis}
-{643}{}{Poèítaèovı terminál}
-{644}{}{Kovová skøíòka}
-{645}{}{Botník}
-{646}{}{Páraè stráce}
+{643}{}{PoÄÃ­taÄovÃ½ terminÃ¡l}
+{644}{}{KovovÃ¡ skÅ™Ã­Åˆka}
+{645}{}{BotnÃ­k}
+{646}{}{PÃ¡raÄ strÃ¡Å¾ce}
 {647}{}{Goris}
 {648}{}{Bedna}
-{649}{}{Kovová skøíòka}
-{650}{}{Podfukáø}
-{651}{}{Scénáø mapy V15}
+{649}{}{KovovÃ¡ skÅ™Ã­Åˆka}
+{650}{}{PodfukÃ¡Å™}
+{651}{}{ScÃ©nÃ¡Å™ mapy V15}
 {652}{}{Phil}
 {653}{}{Bill}
-{654}{}{Øezník}
+{654}{}{Å˜eznÃ­k}
 {655}{}{Dalia}
 {656}{}{John}
 {657}{}{Jones}
 {658}{}{Karla}
-{659}{}{Tajnı vstup do V15}
+{659}{}{TajnÃ½ vstup do V15}
 {660}{}{Rebecca}
-{661}{}{Dveøe}
-{662}{}{páraè                                                         }
+{661}{}{DveÅ™e}
+{662}{}{pÃ¡raÄ                                                         }
 {663}{}{Roberta}
-{664}{}{Sára}
+{664}{}{SÃ¡ra}
 {665}{}{Zeke}
-{666}{}{Brahmína}
-{667}{}{Døevìné dveøe}
+{666}{}{BrahmÃ­na}
+{667}{}{DÅ™evÄ›nÃ© dveÅ™e}
 {668}{}{Chrissy}
 {669}{}{Darion}
-{670}{}{Darionùv stráce}
-{671}{}{Darionùv pes}
+{670}{}{DarionÅ¯v strÃ¡Å¾ce}
+{671}{}{DarionÅ¯v pes}
 {672}{}{Cassidy}
 {673}{}{Studna}
-{674}{}{Krtèí potkan}
-{675}{}{Øeznickı špalek}
-{676}{}{Brahmína}
-{677}{}{Dveøe vıtahu}
+{674}{}{KrtÄÃ­ potkan}
+{675}{}{Å˜eznickÃ½ Å¡palek}
+{676}{}{BrahmÃ­na}
+{677}{}{DveÅ™e vÃ½tahu}
 {678}{}{Pes}
 {679}{}{Krysa}
-{680}{}{Proslunìné místo}
+{680}{}{ProslunÄ›nÃ© mÃ­sto}
 {681}{}{Bess}
 {682}{}{Bedna}
-{683}{}{Prodavaè šrotu}
-{684}{}{Stráce Vaultu 15}
-{685}{}{Svìtloplach}
+{683}{}{ProdavaÄ Å¡rotu}
+{684}{}{StrÃ¡Å¾ce Vaultu 15}
+{685}{}{SvÄ›tloplach}
 {686}{}{Koberec}
-{687}{}{Dítì}
+{687}{}{DÃ­tÄ›}
 {688}{}{Aileen}
-{689}{}{Strá}
+{689}{}{StrÃ¡Å¾}
 {690}{}{Doc Holiday}
-{691}{}{Pøisluhovaè}
-{692}{}{Pøisluhovaè}
-{693}{}{ena}
+{691}{}{PÅ™isluhovaÄ}
+{692}{}{PÅ™isluhovaÄ}
+{693}{}{Å½ena}
 {694}{}{Francis}
 {695}{}{Frank}
 {696}{}{Ghoul}
 {697}{}{Liz}
-{698}{}{Mu}
+{698}{}{MuÅ¾}
 {699}{}{Manson}
 {700}{}{Marcus}
-{701}{}{Horník}
+{701}{}{HornÃ­k}
 {702}{}{mutant                                                        }
 {703}{}{Bill}
 {704}{}{Phil}
 {705}{}{Steve}
-{706}{}{Dozorèí}
+{706}{}{DozorÄÃ­}
 {707}{}{Zaius}
 {708}{}{Jacob}
-{709}{}{Chemické zaøízení}
-{710}{}{Podpìra}
-{711}{}{Dveøe}
-{712}{}{Poèítaè}
+{709}{}{ChemickÃ© zaÅ™Ã­zenÃ­}
+{710}{}{PodpÄ›ra}
+{711}{}{DveÅ™e}
+{712}{}{PoÄÃ­taÄ}
 {713}{}{Chad}
-{714}{}{Masoravı plevel}
+{714}{}{MasoÅ¾ravÃ½ plevel}
 {715}{}{}
-{716}{}{Radškorpion}
+{716}{}{RadÅ¡korpion}
 {717}{}{}
-{718}{}{Váleèník}
+{718}{}{VÃ¡leÄnÃ­k}
 {719}{}{Kanibal}
 {720}{}{Psanec}
-{721}{}{Svatoušek}
-{722}{}{Nomád}
+{721}{}{SvatouÅ¡ek}
+{722}{}{NomÃ¡d}
 {723}{}{Bezdomovec}
 {724}{}{Bandita}
-{725}{}{Lupiè}
-{726}{}{Zabiják}
-{727}{}{Otrokáø}
+{725}{}{LupiÄ}
+{726}{}{ZabijÃ¡k}
+{727}{}{OtrokÃ¡Å™}
 {728}{}{Otrok}
-{729}{}{Zuøivec}
+{729}{}{ZuÅ™ivec}
 {730}{}{Kudlanka}
-{731}{}{Brahmína}
-{732}{}{Zdivoèelé plemeno psa.}
-{733}{}{Poèítaè}
-{734}{}{Poèítaè}
-{735}{}{Poèítaèovı terminál}
-{736}{}{Poèítaè}
-{737}{}{Generátor}
-{738}{}{Silové pole}
-{739}{}{Rolník}
+{731}{}{BrahmÃ­na}
+{732}{}{ZdivoÄelÃ© plemeno psa.}
+{733}{}{PoÄÃ­taÄ}
+{734}{}{PoÄÃ­taÄ}
+{735}{}{PoÄÃ­taÄovÃ½ terminÃ¡l}
+{736}{}{PoÄÃ­taÄ}
+{737}{}{GenerÃ¡tor}
+{738}{}{SilovÃ© pole}
+{739}{}{RolnÃ­k}
 {740}{}{Emitor}
-{741}{}{Dveøe vaultu}
-{742}{}{Bezpeènostní dveøe}
-{743}{}{Setkání s Bess}
+{741}{}{DveÅ™e vaultu}
+{742}{}{BezpeÄnostnÃ­ dveÅ™e}
+{743}{}{SetkÃ¡nÃ­ s Bess}
 {744}{}{Bess}
-{745}{}{Brahmína}
-{746}{}{Angela Bishopová}
-{747}{}{Tommy Tvrïák}
+{745}{}{BrahmÃ­na}
+{746}{}{Angela BishopovÃ¡}
+{747}{}{Tommy TvrÄÃ¡k}
 {748}{}{Sejf}
 {749}{}{Sejf}
 {750}{}{Sejf}
 {751}{}{Sejf}
 {752}{}{Hrob}
-{753}{}{Prádelník}
+{753}{}{PrÃ¡delnÃ­k}
 {754}{}{Hrob}
-{755}{}{Destilátor}
+{755}{}{DestilÃ¡tor}
 {756}{}{Ramirez}
-{757}{}{Mapa náhodné lokace Jeskynì 1}
+{757}{}{Mapa nÃ¡hodnÃ© lokace JeskynÄ› 1}
 {758}{}{Bedna}
-{759}{}{Dveøe}
-{760}{}{Mapa náhodné lokace Jeskynì 2}
-{761}{}{Mapa náhodné lokace Jeskynì 3}
-{762}{}{Mapa náhodné lokace Jeskynì 4}
-{763}{}{Mapa náhodné lokace Jeskynì 2}
-{764}{}{Dveøe}
+{759}{}{DveÅ™e}
+{760}{}{Mapa nÃ¡hodnÃ© lokace JeskynÄ› 2}
+{761}{}{Mapa nÃ¡hodnÃ© lokace JeskynÄ› 3}
+{762}{}{Mapa nÃ¡hodnÃ© lokace JeskynÄ› 4}
+{763}{}{Mapa nÃ¡hodnÃ© lokace JeskynÄ› 2}
+{764}{}{DveÅ™e}
 {765}{}{Map Script}
 {766}{}{Propadlo}
 {767}{}{Truhla}
 {768}{}{Sklep}
 {769}{}{Thomas Moore}
-{770}{}{Dveøe}
-{771}{}{Skøíòka}
-{772}{}{Prùlez}
+{770}{}{DveÅ™e}
+{771}{}{SkÅ™Ã­Åˆka}
+{772}{}{PrÅ¯lez}
 {773}{}{Hrob}
-{774}{}{Stráce skladu}
+{774}{}{StrÃ¡Å¾ce skladu}
 {775}{}{Map Script}
 {776}{}{Map Script}
 {777}{}{Silene brahminy}
@@ -687,8 +687,8 @@
 {787}{}{Galahad}
 {788}{}{Ben Wade}
 {789}{}{Athabaska Dick}
-{790}{}{Vdova Rooneyová}
-{791}{}{Místní obyvatel}
+{790}{}{Vdova RooneyovÃ¡}
+{791}{}{MÃ­stnÃ­ obyvatel}
 {792}{}{Stanwell}
 {793}{}{Savinelli}
 {794}{}{Marge}
@@ -700,58 +700,58 @@
 {800}{}{Eric}
 {801}{}{John}
 {802}{}{Joshua}
-{803}{}{ebøík}
-{804}{}{Kamenná hlava}
-{805}{}{Èernı hrdina}
-{806}{}{Zrzavá hrdinka}
+{803}{}{Å½ebÅ™Ã­k}
+{804}{}{KamennÃ¡ hlava}
+{805}{}{ÄŒernÃ½ hrdina}
+{806}{}{ZrzavÃ¡ hrdinka}
 {807}{}{Set}
 {808}{}{Tandi}
-{809}{}{Druhı bílı hrdina}
-{810}{}{Druhı bílı hrdina}
-{811}{}{Bílá hrdinka}
+{809}{}{DruhÃ½ bÃ­lÃ½ hrdina}
+{810}{}{DruhÃ½ bÃ­lÃ½ hrdina}
+{811}{}{BÃ­lÃ¡ hrdinka}
 {812}{}{Bedna}
 {813}{}{Bedna}
 {814}{}{Bedna}
 {815}{}{Map Script}
 {816}{}{Vorpal krysa}
 {817}{}{Pes}
-{818}{}{Serant}
-{819}{}{Strá}
+{818}{}{SerÅ¾ant}
+{819}{}{StrÃ¡Å¾}
 {820}{}{Technik}
 {821}{}{Velitel}
 {822}{}{Chris}
-{823}{}{Dozorèí}
-{824}{}{Strá}
+{823}{}{DozorÄÃ­}
+{824}{}{StrÃ¡Å¾}
 {825}{}{Hrob}
 {826}{}{Auto}
 {827}{}{Auto}
 {828}{}{Hrob}
-{829}{}{Postava v kápi}
-{830}{}{Obchodník s dobytkem}
+{829}{}{Postava v kÃ¡pi}
+{830}{}{ObchodnÃ­k s dobytkem}
 {831}{}{Map Script}
-{832}{}{Záhadnı cizinec}
+{832}{}{ZÃ¡hadnÃ½ cizinec}
 {833}{}{Silene brahminy}
-{834}{}{Èlen Yakuzy}
-{835}{}{Divoška}
+{834}{}{ÄŒlen Yakuzy}
+{835}{}{DivoÅ¡ka}
 {836}{}{Pes}
 {837}{}{Bedna}
-{838}{}{Èlen hlídky}
+{838}{}{ÄŒlen hlÃ­dky}
 {839}{}{Cestovatel}
-{840}{}{Kouø}
-{841}{}{Obchodník}
-{842}{}{Mrchorout}
+{840}{}{KouÅ™}
+{841}{}{ObchodnÃ­k}
+{842}{}{MrchoÅ¾rout}
 {843}{}{Obchodnik}
-{844}{}{Rolník}
-{845}{}{Chrám v Arroyo}
-{846}{}{Pøístavní dìlník}
-{847}{}{Rolník}
-{848}{}{Strá Shi}
+{844}{}{RolnÃ­k}
+{845}{}{ChrÃ¡m v Arroyo}
+{846}{}{PÅ™Ã­stavnÃ­ dÄ›lnÃ­k}
+{847}{}{RolnÃ­k}
+{848}{}{StrÃ¡Å¾ Shi}
 {849}{}{Cameron}
-{850}{}{Dveøe}
+{850}{}{DveÅ™e}
 {851}{}{Klint}
-{852}{}{Úroda}
-{853}{}{Laboratorní technik Shi}
-{854}{}{Dítì}
+{852}{}{Ãšroda}
+{853}{}{LaboratornÃ­ technik Shi}
+{854}{}{DÃ­tÄ›}
 {855}{}{Ghoul}
 {856}{}{Dr. Fung}
 {857}{}{Jul}
@@ -761,40 +761,40 @@
 {861}{}{}
 {862}{}{}
 {863}{}{Prospektorka}
-{864}{}{Èlen gangu}
-{865}{}{Vùdce nomádù}
+{864}{}{ÄŒlen gangu}
+{865}{}{VÅ¯dce nomÃ¡dÅ¯}
 {866}{}{Hubologistka}
-{867}{}{Blázen}
-{868}{}{Zlodìj pùdy}
+{867}{}{BlÃ¡zen}
+{868}{}{ZlodÄ›j pÅ¯dy}
 {869}{}{Kanibal}
-{870}{}{Nomádskı šaman}
-{871}{}{Zbìh}
-{872}{}{Tulák}
-{873}{}{Poustevník}
+{870}{}{NomÃ¡dskÃ½ Å¡aman}
+{871}{}{ZbÄ›h}
+{872}{}{TulÃ¡k}
+{873}{}{PoustevnÃ­k}
 {874}{}{}
-{875}{}{Správce karavany}
-{876}{}{Správce karavany}
-{877}{}{Správce karavany}
-{878}{}{Správce karavany}
-{879}{}{Správce karavany}
-{880}{}{Správce karavany}
-{881}{}{Správce karavany}
-{882}{}{Správce karavany}
-{883}{}{Správce karavany}
-{884}{}{Farmáøova ena}
-{885}{}{Farmáøovo dítì}
+{875}{}{SprÃ¡vce karavany}
+{876}{}{SprÃ¡vce karavany}
+{877}{}{SprÃ¡vce karavany}
+{878}{}{SprÃ¡vce karavany}
+{879}{}{SprÃ¡vce karavany}
+{880}{}{SprÃ¡vce karavany}
+{881}{}{SprÃ¡vce karavany}
+{882}{}{SprÃ¡vce karavany}
+{883}{}{SprÃ¡vce karavany}
+{884}{}{FarmÃ¡Å™ova Å¾ena}
+{885}{}{FarmÃ¡Å™ovo dÃ­tÄ›}
 {886}{}{Starousedlice}
-{887}{}{Hospodáøova ena}
-{888}{}{Hospodáøovo dítì}
-{889}{}{Správce karavany}
+{887}{}{HospodÃ¡Å™ova Å¾ena}
+{888}{}{HospodÃ¡Å™ovo dÃ­tÄ›}
+{889}{}{SprÃ¡vce karavany}
 {890}{}{}
 {891}{}{}
 {892}{}{}
 {893}{}{}
-{894}{}{Èlen Enklávské hlídky}
-{895}{}{Kapitán oldákù}
-{896}{}{oldák}
-{897}{}{"Stín-kterı-kráèí"}
+{894}{}{ÄŒlen EnklÃ¡vskÃ© hlÃ­dky}
+{895}{}{KapitÃ¡n Å¾oldÃ¡kÅ¯}
+{896}{}{Å½oldÃ¡k}
+{897}{}{"StÃ­n-kterÃ½-krÃ¡ÄÃ­"}
 {898}{}{Sejf}
 {899}{}{}
 {900}{}{}
@@ -802,162 +802,162 @@
 {902}{}{Bedna}
 {903}{}{Prezident Richardson}
 {904}{}{Houfnice}
-{905}{}{Dveøe}
-{906}{}{Mládì páraèe}
-{907}{}{Nebezpeènej Dan}
+{905}{}{DveÅ™e}
+{906}{}{MlÃ¡dÄ› pÃ¡raÄe}
+{907}{}{NebezpeÄnej Dan}
 {908}{}{Doktor Johnson}
-{909}{}{Šerif Marion}
+{909}{}{Å erif Marion}
 {910}{}{Starosta Ascorti}
 {911}{}{Nording}
 {912}{}{Velani}
 {913}{}{Ferndown}
 {914}{}{Dragon}
 {915}{}{Pacholek}
-{916}{}{Obchodník}
-{917}{}{Místní obyvatel}
-{918}{}{Svìtloplach}
-{919}{}{Svìtloplach}
+{916}{}{ObchodnÃ­k}
+{917}{}{MÃ­stnÃ­ obyvatel}
+{918}{}{SvÄ›tloplach}
+{919}{}{SvÄ›tloplach}
 {920}{}{Lo Pan}
 {921}{}{Badger}
 {922}{}{Josh}
 {923}{}{Caminetto}
 {924}{}{Bette}
 {925}{}{Mai Da Chiang}
-{926}{}{Dveøe}
-{927}{}{Dveøe}
+{926}{}{DveÅ™e}
+{927}{}{DveÅ™e}
 {928}{}{Emitor}
-{929}{}{Král Krysa}
+{929}{}{KrÃ¡l Krysa}
 {930}{}{}
 {931}{}{Kaga}
 {932}{}{Kaga}
 {933}{}{Kaga}
 {934}{}{Kaga}
 {935}{}{Kaga}
-{936}{}{Lovec odmìn}
-{937}{}{Poèítaè}
-{938}{}{Poèítaè}
-{939}{}{Poèítaè}
+{936}{}{Lovec odmÄ›n}
+{937}{}{PoÄÃ­taÄ}
+{938}{}{PoÄÃ­taÄ}
+{939}{}{PoÄÃ­taÄ}
 {940}{}{Darrow}
 {941}{}{Farrell}
 {942}{}{Barman}
-{943}{}{Obèan}
+{943}{}{ObÄan}
 {944}{}{Sluha}
-{945}{}{Ventilaèní šachta}
+{945}{}{VentilaÄnÃ­ Å¡achta}
 {946}{}{Charlie}
-{947}{}{Ovládací panel chlazení}
+{947}{}{OvlÃ¡dacÃ­ panel chlazenÃ­}
 {948}{}{Lejno}
 {949}{}{Grant}
 {950}{}{Emitor}
 {951}{}{Emitor}
-{952}{}{Poèítaèovı terminál}
-{953}{}{Terminál Imperátora v8.8}
+{952}{}{PoÄÃ­taÄovÃ½ terminÃ¡l}
+{953}{}{TerminÃ¡l ImperÃ¡tora v8.8}
 {954}{}{Viceprezident Bird}
 {955}{}{Martin}
 {956}{}{Ken Lee}
-{957}{}{Serant Granite}
+{957}{}{SerÅ¾ant Granite}
 {958}{}{Frank Horrigan}
 {959}{}{Map Script}
 {960}{}{Map Script}
-{961}{}{Dveøe}
-{962}{}{Dveøe}
-{963}{}{Dveøe}
+{961}{}{DveÅ™e}
+{962}{}{DveÅ™e}
+{963}{}{DveÅ™e}
 {964}{}{Provaz}
 {965}{}{Emitor}
 {966}{}{Dr. Curling}
-{967}{}{Nástìnka}
-{968}{}{Krtèí potkan}
-{969}{}{Prezidentova sekretáøka}
+{967}{}{NÃ¡stÄ›nka}
+{968}{}{KrtÄÃ­ potkan}
+{969}{}{Prezidentova sekretÃ¡Å™ka}
 {970}{}{Tom Murray}
-{971}{}{Zesílené dveøe}
-{972}{}{Místní obyvatel}
+{971}{}{ZesÃ­lenÃ© dveÅ™e}
+{972}{}{MÃ­stnÃ­ obyvatel}
 {973}{}{Oblast radnice Vault City}
-{974}{}{Èistièka vzduchu}
+{974}{}{ÄŒistiÄka vzduchu}
 {975}{}{Kameny}
-{976}{}{Hazardní hráè}
+{976}{}{HazardnÃ­ hrÃ¡Ä}
 {977}{}{Spatial Script}
-{978}{}{Podvodník}
-{979}{}{Vìzeò}
+{978}{}{PodvodnÃ­k}
+{979}{}{VÄ›zeÅˆ}
 {980}{}{Obyvatel}
-{981}{}{Strá}
-{982}{}{Vìdec}
-{983}{}{Terminál}
+{981}{}{StrÃ¡Å¾}
+{982}{}{VÄ›dec}
+{983}{}{TerminÃ¡l}
 {984}{}{}
 {985}{}{}
 {986}{}{Emitor}
-{987}{}{Pancéøové dveøe}
-{988}{}{Pancéøové dveøe}
-{989}{}{Darrowùv sklad}
-{990}{}{Dveøe}
-{991}{}{Superhloupı mutant}
+{987}{}{PancÃ©Å™ovÃ© dveÅ™e}
+{988}{}{PancÃ©Å™ovÃ© dveÅ™e}
+{989}{}{DarrowÅ¯v sklad}
+{990}{}{DveÅ™e}
+{991}{}{SuperhloupÃ½ mutant}
 {992}{}{Dr. Jing Tie Gahng}
 {993}{}{Grundel}
-{994}{}{Malı Melchior}
-{995}{}{Oèní skener}
-{996}{}{Dveøe vıtahu}
-{997}{}{Kybernetická nádoba}
-{998}{}{Stìna}
+{994}{}{MalÃ½ Melchior}
+{995}{}{OÄnÃ­ skener}
+{996}{}{DveÅ™e vÃ½tahu}
+{997}{}{KybernetickÃ¡ nÃ¡doba}
+{998}{}{StÄ›na}
 {999}{}{Map Script}
-{1000}{}{Farrellùv sklad}
+{1000}{}{FarrellÅ¯v sklad}
 {1001}{}{Harryho sklad}
 {1002}{}{Bedna}
 {1003}{}{Bedna}
 {1004}{}{Derek}
-{1005}{}{Tubbyho pøítel}
-{1006}{}{Hazardní hráè}
+{1005}{}{Tubbyho pÅ™Ã­tel}
+{1006}{}{HazardnÃ­ hrÃ¡Ä}
 {1007}{}{Otrok}
-{1008}{}{Strá}
-{1009}{}{Otrokáø}
+{1008}{}{StrÃ¡Å¾}
+{1009}{}{OtrokÃ¡Å™}
 {1010}{}{Lara}
 {1011}{}{Tyler}
 {1012}{}{Marc}
-{1013}{}{Nástìnka}
-{1014}{}{Otrokáø}
-{1015}{}{Otrokáø}
+{1013}{}{NÃ¡stÄ›nka}
+{1014}{}{OtrokÃ¡Å™}
+{1015}{}{OtrokÃ¡Å™}
 {1016}{}{Fred}
 {1017}{}{Bedna}
 {1018}{}{Bedna}
 {1019}{}{Bedna}
 {1020}{}{Kufr auta}
-{1021}{}{Bezpeènostní dveøe}
-{1022}{}{Poèítaèovı terminál}
-{1023}{}{Poèítaèovı terminál}
-{1024}{}{Poèítaèovı terminál}
+{1021}{}{BezpeÄnostnÃ­ dveÅ™e}
+{1022}{}{PoÄÃ­taÄovÃ½ terminÃ¡l}
+{1023}{}{PoÄÃ­taÄovÃ½ terminÃ¡l}
+{1024}{}{PoÄÃ­taÄovÃ½ terminÃ¡l}
 {1025}{}{Lao Chou}
 {1026}{}{}
-{1027}{}{Ventilaèní šachta}
+{1027}{}{VentilaÄnÃ­ Å¡achta}
 {1028}{}{Map Script}
 {1029}{}{Mrtvola}
-{1030}{}{Dráty bez izolace}
+{1030}{}{DrÃ¡ty bez izolace}
 {1031}{}{Bedna}
 {1032}{}{Otrok}
 {1033}{}{Otrok}
-{1034}{}{Otrokáø}
+{1034}{}{OtrokÃ¡Å™}
 {1035}{}{Chip}
 {1036}{}{- Reaktor}
-{1037}{}{Poèítaè reaktoru}
-{1038}{}{Pokladník}
+{1037}{}{PoÄÃ­taÄ reaktoru}
+{1038}{}{PokladnÃ­k}
 {1039}{}{Pokladna}
 {1040}{}{Wanamingo}
 {1041}{}{Barman}
 {1042}{}{Barman}
-{1043}{}{Dveøe vìznice}
+{1043}{}{DveÅ™e vÄ›znice}
 {1044}{}{Suze}
-{1045}{}{Kapitán Ron Meyers}
+{1045}{}{KapitÃ¡n Ron Meyers}
 {1046}{}{Vrata}
-{1047}{}{Dùl Wanamingo}
+{1047}{}{DÅ¯l Wanamingo}
 {1048}{}{Vstup do dolu Wanamingo}
-{1049}{}{abák Morton}
+{1049}{}{Å½abÃ¡k Morton}
 {1050}{}{Dave H.}
-{1051}{}{Dveøe}
-{1052}{}{Dveøe}
-{1053}{}{Blijící Charlie}
+{1051}{}{DveÅ™e}
+{1052}{}{DveÅ™e}
+{1053}{}{BlijÃ­cÃ­ Charlie}
 {1054}{}{Kresba}
 {1055}{}{Map Script}
 {1056}{}{Barman}
 {1057}{}{Bedna}
 {1058}{}{AutoDok}
 {1059}{}{}
-{1060}{}{Dùlní chodba}
+{1060}{}{DÅ¯lnÃ­ chodba}
 {1061}{}{Robot}
 {1062}{}{}
 {1063}{}{Map Script}
@@ -970,60 +970,60 @@
 {1070}{}{Amanda}
 {1071}{}{Joshua}
 {1072}{}{Valerie}
-{1073}{}{Vyuèovací systém}
+{1073}{}{VyuÄovacÃ­ systÃ©m}
 {1074}{}{Bedna}
-{1075}{}{Èùrající chlapeèek}
+{1075}{}{ÄŒÅ¯rajÃ­cÃ­ chlapeÄek}
 {1076}{}{Curtis}
 {1077}{}{Marc}
-{1078}{}{Poèítaè}
+{1078}{}{PoÄÃ­taÄ}
 {1079}{}{AHS-9}
-{1080}{}{Strá}
-{1081}{}{Hromada kamení}
-{1082}{}{Dveøe}
-{1083}{}{Strá}
-{1084}{}{Strá}
-{1085}{}{Dveøe}
-{1086}{}{Zatykaè}
+{1080}{}{StrÃ¡Å¾}
+{1081}{}{Hromada kamenÃ­}
+{1082}{}{DveÅ™e}
+{1083}{}{StrÃ¡Å¾}
+{1084}{}{StrÃ¡Å¾}
+{1085}{}{DveÅ™e}
+{1086}{}{ZatykaÄ}
 {1087}{}{Dr. Wong}
-{1088}{}{Stùl}
-{1089}{}{Dveøe}
+{1088}{}{StÅ¯l}
+{1089}{}{DveÅ™e}
 {1090}{}{Punkerka}
 {1091}{}{Punkerka}
 {1092}{}{Ryan}
 {1093}{}{Bedna}
 {1094}{}{}
-{1095}{}{Prùlez}
+{1095}{}{PrÅ¯lez}
 {1096}{}{Map Script}
-{1097}{}{ebøík}
-{1098}{}{Boxovací pytel}
-{1099}{}{Dveøe}
+{1097}{}{Å½ebÅ™Ã­k}
+{1098}{}{BoxovacÃ­ pytel}
+{1099}{}{DveÅ™e}
 {1100}{}{Alarm}
-{1101}{}{Nášlapná deska}
-{1102}{}{Nášlapná deska}
-{1103}{}{Nášlapná deska}
-{1104}{}{Nášlapná deska}
-{1105}{}{Nášlapná deska}
-{1106}{}{Nášlapná deska}
-{1107}{}{Nášlapná deska}
-{1108}{}{Nášlapná deska}
-{1109}{}{Nášlapná deska}
-{1110}{}{Nášlapná deska}
-{1111}{}{Nášlapná deska}
-{1112}{}{Nášlapná deska}
-{1113}{}{Nášlapná deska}
-{1114}{}{Nášlapná deska}
+{1101}{}{NÃ¡Å¡lapnÃ¡ deska}
+{1102}{}{NÃ¡Å¡lapnÃ¡ deska}
+{1103}{}{NÃ¡Å¡lapnÃ¡ deska}
+{1104}{}{NÃ¡Å¡lapnÃ¡ deska}
+{1105}{}{NÃ¡Å¡lapnÃ¡ deska}
+{1106}{}{NÃ¡Å¡lapnÃ¡ deska}
+{1107}{}{NÃ¡Å¡lapnÃ¡ deska}
+{1108}{}{NÃ¡Å¡lapnÃ¡ deska}
+{1109}{}{NÃ¡Å¡lapnÃ¡ deska}
+{1110}{}{NÃ¡Å¡lapnÃ¡ deska}
+{1111}{}{NÃ¡Å¡lapnÃ¡ deska}
+{1112}{}{NÃ¡Å¡lapnÃ¡ deska}
+{1113}{}{NÃ¡Å¡lapnÃ¡ deska}
+{1114}{}{NÃ¡Å¡lapnÃ¡ deska}
 {1115}{}{Emitor}
 {1116}{}{Emitor}
 {1117}{}{Emitor}
-{1118}{}{Silové pole}
-{1119}{}{Silové pole}
-{1120}{}{Silové pole}
+{1118}{}{SilovÃ© pole}
+{1119}{}{SilovÃ© pole}
+{1120}{}{SilovÃ© pole}
 {1121}{}{Hubologistka}
-{1122}{}{Poèítaè}
-{1123}{}{Dveøe bunkru}
-{1124}{}{Brána}
+{1122}{}{PoÄÃ­taÄ}
+{1123}{}{DveÅ™e bunkru}
+{1124}{}{BrÃ¡na}
 {1125}{}{Bedna}
-{1126}{}{Mortonùv brácha}
+{1126}{}{MortonÅ¯v brÃ¡cha}
 {1127}{}{Emitor}
 {1128}{}{Emitor}
 {1129}{}{Emitor}
@@ -1031,76 +1031,76 @@
 {1131}{}{Chet}
 {1132}{}{Map Script}
 {1133}{}{Vertibird}
-{1134}{}{Salvatorùv stráce}
-{1135}{}{Salvatorùv stráce}
-{1136}{}{Voják}
-{1137}{}{Voják}
+{1134}{}{SalvatorÅ¯v strÃ¡Å¾ce}
+{1135}{}{SalvatorÅ¯v strÃ¡Å¾ce}
+{1136}{}{VojÃ¡k}
+{1137}{}{VojÃ¡k}
 {1138}{}{Bedna}
 {1139}{}{Mr. Handy}
-{1140}{}{Salvatorùv stráce}
+{1140}{}{SalvatorÅ¯v strÃ¡Å¾ce}
 {1141}{}{Spacial Script}
-{1142}{}{Dveøe}
-{1143}{}{Dveøe}
-{1144}{}{Dveøe}
+{1142}{}{DveÅ™e}
+{1143}{}{DveÅ™e}
+{1144}{}{DveÅ™e}
 {1145}{}{}
 {1146}{}{Map Script}
 {1147}{}{Otrok}
-{1148}{}{Obèan}
-{1149}{}{Dveøe}
+{1148}{}{ObÄan}
+{1149}{}{DveÅ™e}
 {1150}{}{Boxer}
-{1151}{}{Dveøe vaultu}
+{1151}{}{DveÅ™e vaultu}
 {1152}{}{Xarn}
 {1153}{}{Raul}
 {1154}{}{Quincy}
 {1155}{}{Ubytovatel}
-{1156}{}{Strá}
+{1156}{}{StrÃ¡Å¾}
 {1157}{}{K-9}
 {1158}{}{Doctor Schreber}
 {1159}{}{Technik}
 {1160}{}{Technik}
-{1161}{}{Strá}
-{1162}{}{Strá}
-{1163}{}{Strá}
-{1164}{}{Strá}
+{1161}{}{StrÃ¡Å¾}
+{1162}{}{StrÃ¡Å¾}
+{1163}{}{StrÃ¡Å¾}
+{1164}{}{StrÃ¡Å¾}
 {1165}{}{Technik}
 {1166}{}{Technik}
 {1167}{}{Technik}
 {1168}{}{Technik}
 {1169}{}{Sesuv}
-{1170}{}{Hlídka Enklávy}
-{1171}{}{Pancéøové dveøe}
+{1170}{}{HlÃ­dka EnklÃ¡vy}
+{1171}{}{PancÃ©Å™ovÃ© dveÅ™e}
 {1172}{}{Map Script}
 {1173}{}{Map Script}
 {1174}{}{Map Script}
 {1175}{}{Map Script}
 {1176}{}{Map Script}
 {1177}{}{Map Script}
-{1178}{}{Hlídací Robot}
-{1179}{}{Almunièka}
+{1178}{}{HlÃ­dacÃ­ Robot}
+{1179}{}{AlmuÅ¾niÄka}
 {1180}{}{Mrtvola}
 {1181}{}{Bedna}
 {1182}{}{Bedna}
 {1183}{}{Bedna}
-{1184}{}{Stráce karavany}
-{1185}{}{Øidiè karavany}
+{1184}{}{StrÃ¡Å¾ce karavany}
+{1185}{}{Å˜idiÄ karavany}
 {1186}{}{Hlasatel}
-{1187}{}{Šougirl}
+{1187}{}{Å ougirl}
 {1188}{}{Boxer}
-{1189}{}{Dveøe}
-{1190}{}{Falešnı hráè}
+{1189}{}{DveÅ™e}
+{1190}{}{FaleÅ¡nÃ½ hrÃ¡Ä}
 {1191}{}{Holodisk}
 {1192}{}{Holodisk}
 {1193}{}{Holodisk}
 {1194}{}{Dopis}
 {1195}{}{Dogmeat}
-{1196}{}{Magazín "Koèièí Packa" #5}
-{1197}{}{Mapa nájezdníkù}
+{1196}{}{MagazÃ­n "KoÄiÄÃ­ Packa" #5}
+{1197}{}{Mapa nÃ¡jezdnÃ­kÅ¯}
 {1198}{}{Pes Pariah}
-{1199}{}{Siréna}
-{1200}{}{- Dùl}
-{1201}{}{Díra}
+{1199}{}{SirÃ©na}
+{1200}{}{- DÅ¯l}
+{1201}{}{DÃ­ra}
 {1202}{}{Cal}
-{1203}{}{Hubeòour}
+{1203}{}{HubeÅˆour}
 {1204}{}{Jenna}
 {1205}{}{}
 {1206}{}{}
@@ -1111,66 +1111,66 @@
 {1211}{}{Fallout 2 - tipy a triky}
 {1212}{}{}
 {1213}{}{}
-{1214}{}{Strá}
+{1214}{}{StrÃ¡Å¾}
 {1215}{}{Prospektorka}
-{1216}{}{Pašeráci}
+{1216}{}{PaÅ¡erÃ¡ci}
 {1217}{}{}
 {1218}{}{Dan}
-{1219}{}{Špatnı komediant}
-{1220}{}{Zpìvák od "Popelnice"}
+{1219}{}{Å patnÃ½ komediant}
+{1220}{}{ZpÄ›vÃ¡k od "Popelnice"}
 {1221}{}{Map Script}
 {1222}{}{}
 {1223}{}{Hrob}
 {1224}{}{Coffin Willie}
-{1225}{}{Ovládácí konzole}
-{1226}{}{Dveøe bez zámku}
-{1227}{}{Poèítaè}
+{1225}{}{OvlÃ¡dÃ¡cÃ­ konzole}
+{1226}{}{DveÅ™e bez zÃ¡mku}
+{1227}{}{PoÄÃ­taÄ}
 {1228}{}{Kohl}
-{1229}{}{Dítì}
-{1230}{}{Sušenka}
-{1231}{}{Vìièka}
+{1229}{}{DÃ­tÄ›}
+{1230}{}{SuÅ¡enka}
+{1231}{}{VÄ›Å¾iÄka}
 {1232}{}{Brian}
-{1233}{}{Generátor}
+{1233}{}{GenerÃ¡tor}
 {1234}{}{Konzole}
-{1235}{}{Obøí mravenec}
-{1236}{}{Obøí mravenec}
-{1237}{}{Dveøe}
+{1235}{}{ObÅ™Ã­ mravenec}
+{1236}{}{ObÅ™Ã­ mravenec}
+{1237}{}{DveÅ™e}
 {1238}{}{}
 {1239}{}{Bedna}
 {1240}{}{Eric}
 {1241}{}{}
 {1242}{}{Bedna}
-{1243}{}{Obøí radškorpion}
+{1243}{}{ObÅ™Ã­ radÅ¡korpion}
 {1244}{}{Jane}
 {1245}{}{}
 {1246}{}{Map Script}
-{1247}{}{Podkoní Pip-Boy}
+{1247}{}{PodkoÅ¾nÃ­ Pip-Boy}
 {1248}{}{Psisko}
 {1249}{}{Rattray}
 {1250}{}{Dagmar}
-{1251}{}{LoPanùv stráce}
+{1251}{}{LoPanÅ¯v strÃ¡Å¾ce}
 {1252}{}{Map Script}
-{1253}{}{Dveøe}
+{1253}{}{DveÅ™e}
 {1254}{}{Kyberpes}
 {1255}{}{Luke}
 {1256}{}{Joshua}
-{1257}{}{Brána}
+{1257}{}{BrÃ¡na}
 {1258}{}{Matt}
-{1259}{}{Dveøe}
-{1260}{}{Strá}
-{1261}{}{Dveøe}
-{1262}{}{Poèítaè}
-{1263}{}{Terminál}
-{1264}{}{Vìièka}
+{1259}{}{DveÅ™e}
+{1260}{}{StrÃ¡Å¾}
+{1261}{}{DveÅ™e}
+{1262}{}{PoÄÃ­taÄ}
+{1263}{}{TerminÃ¡l}
+{1264}{}{VÄ›Å¾iÄka}
 {1265}{}{Chuck Stodgers}
 {1266}{}{}
-{1267}{}{Terminál}
-{1268}{}{Hrdloøez}
-{1269}{}{Podfukáø}
+{1267}{}{TerminÃ¡l}
+{1268}{}{HrdloÅ™ez}
+{1269}{}{PodfukÃ¡Å™}
 {1270}{}{}
-{1271}{}{Rolník}
+{1271}{}{RolnÃ­k}
 {1272}{}{Levandule}
-{1273}{}{Radškorpion}
+{1273}{}{RadÅ¡korpion}
 {1274}{}{Profesor}
 {1275}{}{Bedna}
 {1276}{}{Bedna}
@@ -1180,90 +1180,90 @@
 {1280}{}{}
 {1281}{}{}
 {1282}{}{}
-{1283}{}{Strá}
+{1283}{}{StrÃ¡Å¾}
 {1284}{}{}
 {1285}{}{}
 {1286}{}{Typhon}
 {1287}{}{Bodyguard}
 {1288}{}{Map Script}
-{1289}{}{Skøíòka}
+{1289}{}{SkÅ™Ã­Åˆka}
 {1290}{}{Studna}
 {1291}{}{Micky}
-{1292}{}{Vìièka}
-{1293}{}{Starı ghoul}
-{1294}{}{Pøisluhovaè}
+{1292}{}{VÄ›Å¾iÄka}
+{1293}{}{StarÃ½ ghoul}
+{1294}{}{PÅ™isluhovaÄ}
 {1295}{}{Elmo}
-{1296}{}{Záchod}
-{1297}{}{Køí}
+{1296}{}{ZÃ¡chod}
+{1297}{}{KÅ™Ã­Å¾}
 {1298}{}{Pluh}
 {1299}{}{Pluh}
-{1300}{}{Škorpion}
-{1301}{}{Generátor}
-{1302}{}{Dveøe}
-{1303}{}{Dveøe}
-{1304}{}{Lékaøskı Pip-Boy}
-{1305}{}{Skøíòka}
-{1306}{}{Skøíòka}
-{1307}{}{Skøíòka}
-{1308}{}{Skøíòka}
-{1309}{}{Skøíòka}
-{1310}{}{Skøíòka}
-{1311}{}{Skøíòka}
-{1312}{}{Skøíòka}
-{1313}{}{Skøíòka}
-{1314}{}{Skøíòka}
-{1315}{}{Skøíòka}
-{1316}{}{Skøíòka}
-{1317}{}{Skøíòka}
-{1318}{}{Skøíòka}
-{1319}{}{Skøíòka}
-{1320}{}{Skøíòka}
-{1321}{}{Skøíòka}
-{1322}{}{Skøíòka}
-{1323}{}{Skøíòka}
-{1324}{}{Skøíòka}
+{1300}{}{Å korpion}
+{1301}{}{GenerÃ¡tor}
+{1302}{}{DveÅ™e}
+{1303}{}{DveÅ™e}
+{1304}{}{LÃ©kaÅ™skÃ½ Pip-Boy}
+{1305}{}{SkÅ™Ã­Åˆka}
+{1306}{}{SkÅ™Ã­Åˆka}
+{1307}{}{SkÅ™Ã­Åˆka}
+{1308}{}{SkÅ™Ã­Åˆka}
+{1309}{}{SkÅ™Ã­Åˆka}
+{1310}{}{SkÅ™Ã­Åˆka}
+{1311}{}{SkÅ™Ã­Åˆka}
+{1312}{}{SkÅ™Ã­Åˆka}
+{1313}{}{SkÅ™Ã­Åˆka}
+{1314}{}{SkÅ™Ã­Åˆka}
+{1315}{}{SkÅ™Ã­Åˆka}
+{1316}{}{SkÅ™Ã­Åˆka}
+{1317}{}{SkÅ™Ã­Åˆka}
+{1318}{}{SkÅ™Ã­Åˆka}
+{1319}{}{SkÅ™Ã­Åˆka}
+{1320}{}{SkÅ™Ã­Åˆka}
+{1321}{}{SkÅ™Ã­Åˆka}
+{1322}{}{SkÅ™Ã­Åˆka}
+{1323}{}{SkÅ™Ã­Åˆka}
+{1324}{}{SkÅ™Ã­Åˆka}
 {1325}{}{Map Script}
-{1326}{}{Mì nikdy neuvidíš}
-{1327}{}{Plechovı Drevorubec}
+{1326}{}{MÄ› nikdy neuvidÃ­Å¡}
+{1327}{}{PlechovÃ½ Drevorubec}
 {1328}{}{Map Script}
-{1329}{}{Kamennı útvar}
+{1329}{}{KamennÃ½ Ãºtvar}
 {1330}{}{}
-{1331}{}{Terminál}
-{1332}{}{Skøíòka}
+{1331}{}{TerminÃ¡l}
+{1332}{}{SkÅ™Ã­Åˆka}
 {1333}{}{}
 {1334}{}{Map Script}
-{1335}{}{Stránı robot}
-{1336}{}{Stránı robot}
-{1337}{}{Skøíòka}
-{1338}{}{Skøíòka}
-{1339}{}{Skøíòka}
-{1340}{}{Skøíòka}
-{1341}{}{Skøíòka}
-{1342}{}{Skøíòka}
-{1343}{}{Skøíòka}
-{1344}{}{Skøíòka}
-{1345}{}{Skøíòka}
-{1346}{}{Skøíòka}
-{1347}{}{Skøíòka}
-{1348}{}{Skøíòka}
-{1349}{}{Skøíòka}
-{1350}{}{Skøíòka}
-{1351}{}{Skøíòka}
-{1352}{}{Skøíòka}
-{1353}{}{Skøíòka}
-{1354}{}{Skøíòka}
-{1355}{}{Skøíòka}
-{1356}{}{Skøíòka}
-{1357}{}{Obyvatel pøístavu}
-{1358}{}{Dìcko z dokù}
+{1335}{}{StrÃ¡Å¾nÃ½ robot}
+{1336}{}{StrÃ¡Å¾nÃ½ robot}
+{1337}{}{SkÅ™Ã­Åˆka}
+{1338}{}{SkÅ™Ã­Åˆka}
+{1339}{}{SkÅ™Ã­Åˆka}
+{1340}{}{SkÅ™Ã­Åˆka}
+{1341}{}{SkÅ™Ã­Åˆka}
+{1342}{}{SkÅ™Ã­Åˆka}
+{1343}{}{SkÅ™Ã­Åˆka}
+{1344}{}{SkÅ™Ã­Åˆka}
+{1345}{}{SkÅ™Ã­Åˆka}
+{1346}{}{SkÅ™Ã­Åˆka}
+{1347}{}{SkÅ™Ã­Åˆka}
+{1348}{}{SkÅ™Ã­Åˆka}
+{1349}{}{SkÅ™Ã­Åˆka}
+{1350}{}{SkÅ™Ã­Åˆka}
+{1351}{}{SkÅ™Ã­Åˆka}
+{1352}{}{SkÅ™Ã­Åˆka}
+{1353}{}{SkÅ™Ã­Åˆka}
+{1354}{}{SkÅ™Ã­Åˆka}
+{1355}{}{SkÅ™Ã­Åˆka}
+{1356}{}{SkÅ™Ã­Åˆka}
+{1357}{}{Obyvatel pÅ™Ã­stavu}
+{1358}{}{DÄ›cko z dokÅ¯}
 {1359}{}{Map Script}
 {1360}{}{Percy Crump}
 {1361}{}{Bedna}
 {1362}{}{Bedna}
-{1363}{}{Dveøe}
+{1363}{}{DveÅ™e}
 {1364}{}{Velkej Ananias}
 {1365}{}{Map Script}
-{1366}{}{Špinavı vesnièan}
+{1366}{}{Å pinavÃ½ vesniÄan}
 {1367}{}{Spammer}
 {1368}{}{Mapa}
 {1369}{}{Map Script}
@@ -1271,18 +1271,18 @@
 {1371}{}{Map Script}
 {1372}{}{Map Script}
 {1373}{}{Automat na Nuka-Colu}
-{1374}{}{- Pøístav}
-{1375}{}{Dveøe}
-{1376}{}{Pìchotní mina}
-{1377}{}{Pìchotní mina}
-{1378}{}{Tvùj expartner}
+{1374}{}{- PÅ™Ã­stav}
+{1375}{}{DveÅ™e}
+{1376}{}{PÄ›chotnÃ­ mina}
+{1377}{}{PÄ›chotnÃ­ mina}
+{1378}{}{TvÅ¯j expartner}
 {1379}{}{Mel}
-{1380}{}{Vìtrací otvor}
+{1380}{}{VÄ›tracÃ­ otvor}
 {1381}{}{Kevin}
 {1382}{}{Alarm}
-{1383}{}{Skøíòka}
-{1384}{}{Skøíòka}
-{1385}{}{Skøíòka}
+{1383}{}{SkÅ™Ã­Åˆka}
+{1384}{}{SkÅ™Ã­Åˆka}
+{1385}{}{SkÅ™Ã­Åˆka}
 {1386}{}{}
 {1387}{}{}
 {1388}{}{}
@@ -1291,15 +1291,15 @@
 {1391}{}{}
 {1392}{}{}
 {1393}{}{}
-{1394}{}{Pøekupnice s alkoholem}
+{1394}{}{PÅ™ekupnice s alkoholem}
 {1395}{}{}
 {1396}{}{}
 {1397}{}{Carny Kid}
 {1398}{}{}
 {1399}{}{}
-{1400}{}{- Dùl}
-{1401}{}{Skøíòka}
-{1402}{}{Dveøe}
+{1400}{}{- DÅ¯l}
+{1401}{}{SkÅ™Ã­Åˆka}
+{1402}{}{DveÅ™e}
 {1403}{}{}
 {1404}{}{}
 {1405}{}{}
@@ -1309,8 +1309,8 @@
 {1409}{}{}
 {1410}{}{Bill}
 {1411}{}{}
-{1412}{}{Dítì}
-{1413}{}{páraè                                                         }
+{1412}{}{DÃ­tÄ›}
+{1413}{}{pÃ¡raÄ                                                         }
 {1414}{}{Sestra Elaine}
 {1415}{}{Hrob}
 {1416}{}{Hrob}
@@ -1320,30 +1320,30 @@
 {1420}{}{Bratr Max}
 {1421}{}{Obchodnik}
 {1422}{}{Obchodnik}
-{1423}{}{Obchodníkova ochranka}
-{1424}{}{Paní Petersonová}
-{1425}{}{Obyvatel Opatství}
+{1423}{}{ObchodnÃ­kova ochranka}
+{1424}{}{PanÃ­ PetersonovÃ¡}
+{1425}{}{Obyvatel OpatstvÃ­}
 {1426}{}{Pan Peterson}
-{1427}{}{Vodní pumpa}
+{1427}{}{VodnÃ­ pumpa}
 {1428}{}{Bratr Samuel}
-{1429}{}{Obyvatel Opatství}
+{1429}{}{Obyvatel OpatstvÃ­}
 {1430}{}{Bratr Thomas}
 {1431}{}{Tom}
-{1432}{}{Poèítaè}
-{1433}{}{Pøedstavenı mnich}
-{1434}{}{Mnich z Opatství}
-{1435}{}{Mnich z Opatství}
-{1436}{}{Mnich z Opatství}
-{1437}{}{Mnich z Opatství}
+{1432}{}{PoÄÃ­taÄ}
+{1433}{}{PÅ™edstavenÃ½ mnich}
+{1434}{}{Mnich z OpatstvÃ­}
+{1435}{}{Mnich z OpatstvÃ­}
+{1436}{}{Mnich z OpatstvÃ­}
+{1437}{}{Mnich z OpatstvÃ­}
 {1438}{}{Bratr Paul}
 {1439}{}{Divoch}
 {1440}{}{Bratr Matthew}
 {1441}{}{map}
-{1442}{}{Krtèí potkan}
+{1442}{}{KrtÄÃ­ potkan}
 {1443}{}{Ann}
-{1444}{}{Vrchní váleèník}
+{1444}{}{VrchnÃ­ vÃ¡leÄnÃ­k}
 {1445}{}{Marli}
-{1446}{}{Vesnièané}
+{1446}{}{VesniÄanÃ©}
 {1447}{}{Saman}
 {1448}{}{Duch}
 {1449}{}{Divoch}
@@ -1356,47 +1356,47 @@
 {1456}{}{Mapa kmene 2 - spacial 1}
 {1457}{}{Mapa kmene 2 - spacial 2}
 {1458}{}{Gecka}
-{1459}{}{Stráce jeskynì}
+{1459}{}{StrÃ¡Å¾ce jeskynÄ›}
 {1460}{}{Mrtvola}
 {1461}{}{Les spacial}
 {1462}{}{Don}
-{1463}{}{Otrokáø}
+{1463}{}{OtrokÃ¡Å™}
 {1464}{}{map script}
 {1465}{}{Pes}
-{1466}{}{Otrokáø}
+{1466}{}{OtrokÃ¡Å™}
 {1467}{}{Otrok}
-{1468}{}{Branka od otrokáøskıch kotcù}
+{1468}{}{Branka od otrokÃ¡Å™skÃ½ch kotcÅ¯}
 {1469}{}{Police}
-{1470}{}{Dveøe}
-{1471}{}{Malı Bobby}
-{1472}{}{Otec malého Bobbyho}
+{1470}{}{DveÅ™e}
+{1471}{}{MalÃ½ Bobby}
+{1472}{}{Otec malÃ©ho Bobbyho}
 {1473}{}{Squatter}
-{1474}{}{Pøekupník drog}
+{1474}{}{PÅ™ekupnÃ­k drog}
 {1475}{}{Obyvatel Denu}
 {1476}{}{Sirotek}
-{1477}{}{Rolník}
+{1477}{}{RolnÃ­k}
 {1478}{}{map script}
-{1479}{}{Hlídka Enklávy}
-{1480}{}{Hlídka Enklávy}
+{1479}{}{HlÃ­dka EnklÃ¡vy}
+{1480}{}{HlÃ­dka EnklÃ¡vy}
 {1481}{}{Trezor}
-{1482}{}{Stráce}
+{1482}{}{StrÃ¡Å¾ce}
 {1483}{}{Hubologistka}
-{1484}{}{Strá Hubologistù}
-{1485}{}{Strá Hubologistù}
-{1486}{}{elezné dveøe}
+{1484}{}{StrÃ¡Å¾ HubologistÅ¯}
+{1485}{}{StrÃ¡Å¾ HubologistÅ¯}
+{1486}{}{Å½eleznÃ© dveÅ™e}
 {1487}{}{map script}
 {1488}{}{container script}
-{1489}{}{Brahmína}
-{1490}{}{Dveøe}
-{1491}{}{Brána}
-{1492}{}{Náèelník kmene}
-{1493}{}{Štìkající mu}
+{1489}{}{BrahmÃ­na}
+{1490}{}{DveÅ™e}
+{1491}{}{BrÃ¡na}
+{1492}{}{NÃ¡ÄelnÃ­k kmene}
+{1493}{}{Å tÄ›kajÃ­cÃ­ muÅ¾}
 {1494}{}{epax map script}
-{1495}{}{EPA podzemní patro}
-{1496}{}{EPA tajné patro}
+{1495}{}{EPA podzemnÃ­ patro}
+{1496}{}{EPA tajnÃ© patro}
 {1497}{}{Mr. Handy}
 {1498}{}{Hologram 00000}
-{1499}{}{Malı odvánı toustovaè}
+{1499}{}{MalÃ½ odvÃ¡Å¾nÃ½ toustovaÄ}
 {1500}{}{Hologram 10001}
 {1501}{}{Hologram 12001}
 {1502}{}{Hologram 10031}
@@ -1406,43 +1406,43 @@
 {1506}{}{Dex}
 {1507}{}{Kocour Jules}
 {1508}{}{Kitsune}
-{1509}{}{Váleèník}
+{1509}{}{VÃ¡leÄnÃ­k}
 {1510}{}{Sprej proti hmyzu}
-{1511}{}{Doktorùv vìzeò}
-{1512}{}{Obøí mravenec}
+{1511}{}{DoktorÅ¯v vÄ›zeÅˆ}
+{1512}{}{ObÅ™Ã­ mravenec}
 {1513}{}{Doktor}
 {1514}{}{Octomilka}
-{1515}{}{Stvoøení}
+{1515}{}{StvoÅ™enÃ­}
 {1516}{}{Robot}
 {1517}{}{Robot}
-{1518}{}{EPA leták}
-{1519}{}{Hlasovı poèítaè}
-{1520}{}{Vızkumnı poèítaè}
-{1521}{}{Poèítaèová stanice elektrického køesla}
-{1522}{}{Elektronické dveøe}
-{1523}{}{Generátor pro napájení hologramù}
-{1524}{}{Bezpeènostní dveøe}
-{1525}{}{Dveøe vıtahu}
-{1526}{}{Dveøe}
-{1527}{}{Rùzné chemikálie}
-{1528}{}{Úrodná pùda}
-{1529}{}{Úrodná pùda}
-{1530}{}{Øídící poèítaè hibernaèní komory}
-{1531}{}{Generátor pro napájení osvìtlení}
-{1532}{}{Silové pole}
-{1533}{}{Sprej proti rostlinám}
-{1534}{}{Elektromagnetickı poèítaè}
-{1535}{}{Silové pole}
+{1518}{}{EPA letÃ¡k}
+{1519}{}{HlasovÃ½ poÄÃ­taÄ}
+{1520}{}{VÃ½zkumnÃ½ poÄÃ­taÄ}
+{1521}{}{PoÄÃ­taÄovÃ¡ stanice elektrickÃ©ho kÅ™esla}
+{1522}{}{ElektronickÃ© dveÅ™e}
+{1523}{}{GenerÃ¡tor pro napÃ¡jenÃ­ hologramÅ¯}
+{1524}{}{BezpeÄnostnÃ­ dveÅ™e}
+{1525}{}{DveÅ™e vÃ½tahu}
+{1526}{}{DveÅ™e}
+{1527}{}{RÅ¯znÃ© chemikÃ¡lie}
+{1528}{}{ÃšrodnÃ¡ pÅ¯da}
+{1529}{}{ÃšrodnÃ¡ pÅ¯da}
+{1530}{}{Å˜Ã­dÃ­cÃ­ poÄÃ­taÄ hibernaÄnÃ­ komory}
+{1531}{}{GenerÃ¡tor pro napÃ¡jenÃ­ osvÄ›tlenÃ­}
+{1532}{}{SilovÃ© pole}
+{1533}{}{Sprej proti rostlinÃ¡m}
+{1534}{}{ElektromagnetickÃ½ poÄÃ­taÄ}
+{1535}{}{SilovÃ© pole}
 {1536}{}{Projektor}
-{1537}{}{Dveøe}
-{1538}{}{Poèítaè}
-{1539}{}{Dveøe}
-{1540}{}{Poèítaè}
-{1541}{}{Silové pole}
+{1537}{}{DveÅ™e}
+{1538}{}{PoÄÃ­taÄ}
+{1539}{}{DveÅ™e}
+{1540}{}{PoÄÃ­taÄ}
+{1541}{}{SilovÃ© pole}
 {1542}{}{Dynamit}
-{1543}{}{Spouš dynamitu}
-{1544}{}{Vìci na stole}
-{1545}{}{Skøíòka}
+{1543}{}{SpouÅ¡Å¥ dynamitu}
+{1544}{}{VÄ›ci na stole}
+{1545}{}{SkÅ™Ã­Åˆka}
 {1546}{}{Spatial Script}
 {1547}{}{Spatial Script}
 {1548}{}{Spatial Script}
@@ -1451,21 +1451,21 @@
 {1551}{}{Spatial Script}
 {1552}{}{Spatial Script}
 {1553}{}{Spatial Script}
-{1554}{}{Prùduch klimatizace}
-{1555}{}{Ventilátor}
-{1556}{}{Ventilátor}
+{1554}{}{PrÅ¯duch klimatizace}
+{1555}{}{VentilÃ¡tor}
+{1556}{}{VentilÃ¡tor}
 {1557}{}{spatial script}
-{1558}{}{Poèítaèovı terminál}
-{1559}{}{Úrodná pùda}
+{1558}{}{PoÄÃ­taÄovÃ½ terminÃ¡l}
+{1559}{}{ÃšrodnÃ¡ pÅ¯da}
 {1560}{}{spatial}
 {1561}{}{Hologram}
 {1562}{}{spatial}
 {1563}{}{}
-{1564}{}{Ovládací poèítaè hologramu}
-{1565}{}{Dítì}
+{1564}{}{OvlÃ¡dacÃ­ poÄÃ­taÄ hologramu}
+{1565}{}{DÃ­tÄ›}
 {1566}{}{spatial}
 {1567}{}{Vertibird}
-{1568}{}{Poèítaè}
+{1568}{}{PoÄÃ­taÄ}
 {1569}{}{spatial}
 {1570}{}{Mr. Handy}
 {1571}{}{Atomovka}
@@ -1478,7 +1478,7 @@
 {1578}{}{object name}
 {1579}{}{Mapa}
 {1580}{}{Ranger z NCR}
-{1581}{}{Otrokáø}
+{1581}{}{OtrokÃ¡Å™}
 {1582}{}{}
 {1583}{}{}
 {1584}{}{}
@@ -1486,73 +1486,73 @@
 {1586}{}{}
 {1587}{}{}
 {1588}{}{}
-{1589}{}{Dveøe}
+{1589}{}{DveÅ™e}
 {1590}{}{}
-{1591}{}{Hrdloøez}
-{1592}{}{Nastraenı drát}
-{1593}{}{Nastraenı drát spatial}
+{1591}{}{HrdloÅ™ez}
+{1592}{}{NastraÅ¾enÃ½ drÃ¡t}
+{1593}{}{NastraÅ¾enÃ½ drÃ¡t spatial}
 {1594}{}{Prostitutka}
-{1595}{}{Mazlavá hmota}
+{1595}{}{MazlavÃ¡ hmota}
 {1596}{}{Prostor}
-{1597}{}{Hibernaèní komora}
+{1597}{}{HibernaÄnÃ­ komora}
 {1598}{}{}
-{1599}{}{Skøíòka}
+{1599}{}{SkÅ™Ã­Åˆka}
 {1600}{}{Map Script}
 {1601}{}{Modder}
-{1602}{}{Kouøení}
-{1603}{}{Moèení}
+{1602}{}{KouÅ™enÃ­}
+{1603}{}{MoÄenÃ­}
 {1604}{}{Map Script}
 {1605}{}{Map Script}
 {1606}{}{Obchodnik}
-{1607}{}{Obchodníkova ochranka}
-{1608}{}{Obchodníkova ochranka}
+{1607}{}{ObchodnÃ­kova ochranka}
+{1608}{}{ObchodnÃ­kova ochranka}
 {1609}{}{Merchant Map}
-{1610}{}{Poèítaè}
-{1611}{}{Poèítaè}
+{1610}{}{PoÄÃ­taÄ}
+{1611}{}{PoÄÃ­taÄ}
 {1612}{}{AutoDok}
 {1613}{}{Bratr Jason}
 {1614}{}{Todd}
 {1615}{}{Robert Baron}
-{1616}{}{Strá}
+{1616}{}{StrÃ¡Å¾}
 {1617}{}{Bedna}
-{1618}{}{Dravı èlovìk}
+{1618}{}{DravÃ½ ÄlovÄ›k}
 {1619}{}{map}
-{1620}{}{Panel ovládání silového pole}
-{1621}{}{Ventilátor}
-{1622}{}{Strá}
-{1623}{}{Motorovı èlun}
-{1624}{}{Strá}
-{1625}{}{Haraburdí}
+{1620}{}{Panel ovlÃ¡dÃ¡nÃ­ silovÃ©ho pole}
+{1621}{}{VentilÃ¡tor}
+{1622}{}{StrÃ¡Å¾}
+{1623}{}{MotorovÃ½ Älun}
+{1624}{}{StrÃ¡Å¾}
+{1625}{}{HaraburdÃ­}
 {1626}{}{Schody}
-{1627}{}{Šachta vıtahu}
+{1627}{}{Å achta vÃ½tahu}
 {1628}{}{spatial}
-{1629}{}{Šachta vıtahu}
-{1630}{}{Skøíòka}
-{1631}{}{Strá v docích}
+{1629}{}{Å achta vÃ½tahu}
+{1630}{}{SkÅ™Ã­Åˆka}
+{1631}{}{StrÃ¡Å¾ v docÃ­ch}
 {1632}{}{Technik}
 {1633}{}{Technik}
 {1634}{}{Technik}
 {1635}{}{spatial}
-{1636}{}{Pøístavní dìlník}
+{1636}{}{PÅ™Ã­stavnÃ­ dÄ›lnÃ­k}
 {1637}{}{map script}
-{1638}{}{Dveøe}
+{1638}{}{DveÅ™e}
 {1639}{}{spatial}
-{1640}{}{Konzole napájení}
-{1641}{}{Ovládání torpéd}
-{1642}{}{Zamìøovací zaøízení}
-{1643}{}{Torpédová komora}
-{1644}{}{Dveøe}
-{1645}{}{Strá}
+{1640}{}{Konzole napÃ¡jenÃ­}
+{1641}{}{OvlÃ¡dÃ¡nÃ­ torpÃ©d}
+{1642}{}{ZamÄ›Å™ovacÃ­ zaÅ™Ã­zenÃ­}
+{1643}{}{TorpÃ©dovÃ¡ komora}
+{1644}{}{DveÅ™e}
+{1645}{}{StrÃ¡Å¾}
 {1646}{}{Vertibird}
 {1647}{}{spatial}
-{1648}{}{Sérum}
-{1649}{}{Starı stráce karavan}
+{1648}{}{SÃ©rum}
+{1649}{}{StarÃ½ strÃ¡Å¾ce karavan}
 {1650}{}{Dr. Sheng}
-{1651}{}{Rostlinnı tvor}
-{1652}{}{Úkryt Dr. Shenga}
-{1653}{}{Dveøe}
-{1654}{}{Dveøe}
+{1651}{}{RostlinnÃ½ tvor}
+{1652}{}{Ãškryt Dr. Shenga}
+{1653}{}{DveÅ™e}
+{1654}{}{DveÅ™e}
 {1655}{}{spatial}
-{1656}{}{Opravárenskı Robot}
-{1657}{}{Hlídací Robot}
-{1658}{}{Dveøe}
+{1656}{}{OpravÃ¡renskÃ½ Robot}
+{1657}{}{HlÃ­dacÃ­ Robot}
+{1658}{}{DveÅ™e}

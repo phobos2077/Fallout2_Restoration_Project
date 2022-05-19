@@ -1,1 +1,1 @@
-{100}{}{Vidíš bedny s nìjakımi chemikáliemi, které ti jsou k nièemu.}
+{100}{}{VidÃ­Å¡ bedny s nÄ›jakÃ½mi chemikÃ¡liemi, kterÃ© ti jsou k niÄemu.}

@@ -1,1 +1,1 @@
-{100}{}{Stojíš v temném, zatuchlém chrámu. Stíny si pohrávají s tvıma oèima a slyšíš nìjakı pohyb.}
+{100}{}{StojÃ­Å¡ v temnÃ©m, zatuchlÃ©m chrÃ¡mu. StÃ­ny si pohrÃ¡vajÃ­ s tvÃ½ma oÄima a slyÅ¡Ã­Å¡ nÄ›jakÃ½ pohyb.}

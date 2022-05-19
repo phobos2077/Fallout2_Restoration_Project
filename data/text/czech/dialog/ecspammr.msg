@@ -1,16 +1,16 @@
-{100}{}{Vidíš alostnì vyhlíejícího spammera.}
-{110}{}{Nevidíš absolutnì nic zajímavého.}
+{100}{}{VidÃ­Å¡ Å¾alostnÄ› vyhlÃ­Å¾ejÃ­cÃ­ho spammera.}
+{110}{}{NevidÃ­Å¡ absolutnÄ› nic zajÃ­mavÃ©ho.}
 {120}{}{Bude taky verze pro Mac?}
-{121}{}{Já chci multiplayer!}
-{122}{}{Všechny vás nenávidím!}
+{121}{}{JÃ¡ chci multiplayer!}
+{122}{}{VÅ¡echny vÃ¡s nenÃ¡vidÃ­m!}
 {123}{}{Ahhh!}
-{124}{}{Mnì nemùeš ublíit!}
-{125}{}{Já jsem Grim Reaper, nemùeš mì zabít. No nejsem já vtipnı?}
+{124}{}{MnÄ› nemÅ¯Å¾eÅ¡ ublÃ­Å¾it!}
+{125}{}{JÃ¡ jsem Grim Reaper, nemÅ¯Å¾eÅ¡ mÄ› zabÃ­t. No nejsem jÃ¡ vtipnÃ½?}
 {126}{}{Chci tank!}
-{127}{}{Kde je moje motorová pila?}
-{128}{}{Neubliuj mnì.}
-{129}{}{Nechtìl jsem bıt takovı kretén.}
-{130}{}{Nemyslel jsem ty vıhruky smrti vánì.}
+{127}{}{Kde je moje motorovÃ¡ pila?}
+{128}{}{NeubliÅ¾uj mnÄ›.}
+{129}{}{NechtÄ›l jsem bÃ½t takovÃ½ kretÃ©n.}
+{130}{}{Nemyslel jsem ty vÃ½hruÅ¾ky smrti vÃ¡Å¾nÄ›.}
 {131}{}{I'm sorry, Buffy!}
 {132}{}{I'm sorry, Unwashed! I just wanted to be noticed.}
 {133}{}{Chci online verzi!}

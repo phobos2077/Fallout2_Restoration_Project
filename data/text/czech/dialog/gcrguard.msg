@@ -1,61 +1,61 @@
-{100}{}{Vidíš osobu, její kùe byla velice škaredì popálena. Vypadá to, e je tu na strái.}
-{101}{}{Vidíš ghoula, kterı je tu na strái.}
-{102}{}{Vidíš osobu, její kùe vypadá, e byla popálena radiací. Tak vysoká radiace by ho mìla zabít, ale vypadá to, e mu to nevadí. Vypadá to, e tu je na strái.}
-{110}{}{Radši se mì nepokoušej zase okrást.}
-{111}{}{Vy hezouni tu nejste vítáni. Radši se mì nepokoušej zase okrást.}
-{112}{}{Snad sis nemyslel, e mi mùeš nìco ukrást z mojí kapsy?}
-{113}{}{Nech toho, nebo uvidíš.}
-{114}{}{Bejt tebou, u bych to podruhé nedìlal.}
-{115}{}{To, e ti urazím obì ruce, bude jenom zaèátek.}
-{116}{}{Nemáš bejt pøátelskej?}
-{117}{}{Staèí jedna chyba a uvidíš. Snaíš se snad o ni?}
-{120}{}{Proè se tu sakra poøád plííš?}
-{121}{}{Jestli se tudy snaíš proplíit, tak musíš bıt trochu víc potichu.}
-{122}{}{Jsi fakt nenápadnej.}
-{123}{}{Jde ti to náramnì. Hehe.}
-{124}{}{Choï normálnì, blbeèku.}
-{125}{}{Další uteèenec z Ministerstva Smìšného Chození.}
-{126}{}{Já tì vidím. Vlastnì tì mám v zamìøovaèi.}
-{127}{}{Znamená to snad, e mì taky nevidíš?}
-{128}{}{Co to bylo? Tohle není ádná šaráda. Vyaduje to maximální soustøedìní.}
-{129}{}{Eh, opravdu se pokoušíš bejt tichej?}
-{130}{}{Tyhle dveøe vedou do oblasti s omezenım pøístupem. Potøebuješ lutou vstupní kartu.}
-{131}{}{Potøebuješ lutou vstupní kartu.}
-{132}{}{Promluv si s Haroldem, jestli chceš lutou vstupní kartu.}
-{133}{}{ádnej klíè, ádnej vstup.}
-{134}{}{Nemùeš projít tìmahle dveøma bez luté vstupní karty, chlape.}
-{140}{}{Jsem rád, e máš povolení.}
+{100}{}{VidÃ­Å¡ osobu, jejÃ­Å¾ kÅ¯Å¾e byla velice Å¡karedÄ› popÃ¡lena. VypadÃ¡ to, Å¾e je tu na strÃ¡Å¾i.}
+{101}{}{VidÃ­Å¡ ghoula, kterÃ½ je tu na strÃ¡Å¾i.}
+{102}{}{VidÃ­Å¡ osobu, jejÃ­Å¾ kÅ¯Å¾e vypadÃ¡, Å¾e byla popÃ¡lena radiacÃ­. Tak vysokÃ¡ radiace by ho mÄ›la zabÃ­t, ale vypadÃ¡ to, Å¾e mu to nevadÃ­. VypadÃ¡ to, Å¾e tu je na strÃ¡Å¾i.}
+{110}{}{RadÅ¡i se mÄ› nepokouÅ¡ej zase okrÃ¡st.}
+{111}{}{Vy hezouni tu nejste vÃ­tÃ¡ni. RadÅ¡i se mÄ› nepokouÅ¡ej zase okrÃ¡st.}
+{112}{}{Snad sis nemyslel, Å¾e mi mÅ¯Å¾eÅ¡ nÄ›co ukrÃ¡st z mojÃ­ kapsy?}
+{113}{}{Nech toho, nebo uvidÃ­Å¡.}
+{114}{}{Bejt tebou, uÅ¾ bych to podruhÃ© nedÄ›lal.}
+{115}{}{To, Å¾e ti urazÃ­m obÄ› ruce, bude jenom zaÄÃ¡tek.}
+{116}{}{NemÃ¡Å¡ bejt pÅ™Ã¡telskej?}
+{117}{}{StaÄÃ­ jedna chyba a uvidÃ­Å¡. SnaÅ¾Ã­Å¡ se snad o ni?}
+{120}{}{ProÄ se tu sakra poÅ™Ã¡d plÃ­Å¾Ã­Å¡?}
+{121}{}{Jestli se tudy snaÅ¾Ã­Å¡ proplÃ­Å¾it, tak musÃ­Å¡ bÃ½t trochu vÃ­c potichu.}
+{122}{}{Jsi fakt nenÃ¡padnej.}
+{123}{}{Jde ti to nÃ¡ramnÄ›. Hehe.}
+{124}{}{ChoÄ normÃ¡lnÄ›, blbeÄku.}
+{125}{}{DalÅ¡Ã­ uteÄenec z Ministerstva SmÄ›Å¡nÃ©ho ChozenÃ­.}
+{126}{}{JÃ¡ tÄ› vidÃ­m. VlastnÄ› tÄ› mÃ¡m v zamÄ›Å™ovaÄi.}
+{127}{}{ZnamenÃ¡ to snad, Å¾e mÄ› taky nevidÃ­Å¡?}
+{128}{}{Co to bylo? Tohle nenÃ­ Å¾Ã¡dnÃ¡ Å¡arÃ¡da. VyÅ¾aduje to maximÃ¡lnÃ­ soustÅ™edÄ›nÃ­.}
+{129}{}{Eh, opravdu se pokouÅ¡Ã­Å¡ bejt tichej?}
+{130}{}{Tyhle dveÅ™e vedou do oblasti s omezenÃ½m pÅ™Ã­stupem. PotÅ™ebujeÅ¡ Å¾lutou vstupnÃ­ kartu.}
+{131}{}{PotÅ™ebujeÅ¡ Å¾lutou vstupnÃ­ kartu.}
+{132}{}{Promluv si s Haroldem, jestli chceÅ¡ Å¾lutou vstupnÃ­ kartu.}
+{133}{}{Å½Ã¡dnej klÃ­Ä, Å¾Ã¡dnej vstup.}
+{134}{}{NemÅ¯Å¾eÅ¡ projÃ­t tÄ›mahle dveÅ™ma bez Å¾lutÃ© vstupnÃ­ karty, chlape.}
+{140}{}{Jsem rÃ¡d, Å¾e mÃ¡Å¡ povolenÃ­.}
 {141}{}{Nazdar hezoune.}
-{142}{}{Jestli se tu nìco pokazí, hned budeme vìdìt, kdo za to mùe.}
-{143}{}{Radši tam nechoï. Pro takovı, jako jsi ty, je tam moc velkı horko.}
-{144}{}{No, tenhle klíè vypadá jako pravı.}
-{150}{}{ádnej klíè, ádnej vstup.}
-{151}{}{Tohle je oblast s omezenım pøístupem.}
-{152}{}{Radši nedìlej ádnı vylomeniny.}
-{153}{}{Potøebuješ èervenou vstupní kartu.}
-{154}{}{Radši se zeptej Harolda na èervenou vstupní kartu, jestli se tam chceš dostat.}
-{160}{}{Dávej si tady pozor.}
-{161}{}{Vítej v kontrolní oblasti.}
-{162}{}{Nièeho se tu nedotıkej.}
+{142}{}{Jestli se tu nÄ›co pokazÃ­, hned budeme vÄ›dÄ›t, kdo za to mÅ¯Å¾e.}
+{143}{}{RadÅ¡i tam nechoÄ. Pro takovÃ½, jako jsi ty, je tam moc velkÃ½ horko.}
+{144}{}{No, tenhle klÃ­Ä vypadÃ¡ jako pravÃ½.}
+{150}{}{Å½Ã¡dnej klÃ­Ä, Å¾Ã¡dnej vstup.}
+{151}{}{Tohle je oblast s omezenÃ½m pÅ™Ã­stupem.}
+{152}{}{RadÅ¡i nedÄ›lej Å¾Ã¡dnÃ½ vylomeniny.}
+{153}{}{PotÅ™ebujeÅ¡ Äervenou vstupnÃ­ kartu.}
+{154}{}{RadÅ¡i se zeptej Harolda na Äervenou vstupnÃ­ kartu, jestli se tam chceÅ¡ dostat.}
+{160}{}{DÃ¡vej si tady pozor.}
+{161}{}{VÃ­tej v kontrolnÃ­ oblasti.}
+{162}{}{NiÄeho se tu nedotÃ½kej.}
 {163}{}{If something goes wrong in there, we'll come looking for you.}
-{164}{}{Jestli nìco zaviníš, tak tì nepozná ani vlastní máma.}
-{170}{}{Jsem pøekvapenej, e tu vidím hezouna, jako jsi ty.}
-{171}{}{Vypadá to, e tu pomalu chytáš bronz.}
-{172}{}{Hmm, miluju únik radiace... ty snad ne?}
-{173}{}{Nièeho se tu nedotıkej.}
-{174}{}{Nech na pokoji ty svı nenechavı pracky a nebude ádnej problém.}
-{180}{}{Nemùeš si brát vìci bez povolení.}
-{181}{}{Nemùeš si odtud vzít nic bez ádanky.}
-{182}{}{Promluv si s Jeremym nebo Haroldem, jestli chceš nìjaké vìci.}
-{183}{}{Nic se odtud nedostane bez ádanky.}
-{184}{}{ádná ádanka, ádnı vybavení.}
-{190}{}{Dávej si tu pozor, hezoune.}
-{191}{}{Tobì ta radiace nevadí?}
-{192}{}{Dávej si tu pozor.}
-{193}{}{Jestli se tu nìco stane, budeš první, za kım pùjdeme.}
-{194}{}{Usmívej se do bezpeènostních kamer.}
-{200}{}{Co to sakra dìláš s tìma dveøma?}
+{164}{}{Jestli nÄ›co zavinÃ­Å¡, tak tÄ› nepoznÃ¡ ani vlastnÃ­ mÃ¡ma.}
+{170}{}{Jsem pÅ™ekvapenej, Å¾e tu vidÃ­m hezouna, jako jsi ty.}
+{171}{}{VypadÃ¡ to, Å¾e tu pomalu chytÃ¡Å¡ bronz.}
+{172}{}{Hmm, miluju Ãºnik radiace... ty snad ne?}
+{173}{}{NiÄeho se tu nedotÃ½kej.}
+{174}{}{Nech na pokoji ty svÃ½ nenechavÃ½ pracky a nebude Å¾Ã¡dnej problÃ©m.}
+{180}{}{NemÅ¯Å¾eÅ¡ si brÃ¡t vÄ›ci bez povolenÃ­.}
+{181}{}{NemÅ¯Å¾eÅ¡ si odtud vzÃ­t nic bez Å¾Ã¡danky.}
+{182}{}{Promluv si s Jeremym nebo Haroldem, jestli chceÅ¡ nÄ›jakÃ© vÄ›ci.}
+{183}{}{Nic se odtud nedostane bez Å¾Ã¡danky.}
+{184}{}{Å½Ã¡dnÃ¡ Å¾Ã¡danka, Å¾Ã¡dnÃ½ vybavenÃ­.}
+{190}{}{DÃ¡vej si tu pozor, hezoune.}
+{191}{}{TobÄ› ta radiace nevadÃ­?}
+{192}{}{DÃ¡vej si tu pozor.}
+{193}{}{Jestli se tu nÄ›co stane, budeÅ¡ prvnÃ­, za kÃ½m pÅ¯jdeme.}
+{194}{}{UsmÃ­vej se do bezpeÄnostnÃ­ch kamer.}
+{200}{}{Co to sakra dÄ›lÃ¡Å¡ s tÄ›ma dveÅ™ma?}
 {201}{}{Nech to na pokoji a vypadni odsud.}
-{202}{}{Hmm, to urèitì nevypadá jako vstupní karta.}
-{203}{}{Jestli se o to pokusíš ještì jednou, budeme tì muset zabít.}
-{204}{}{Ty fakt musíš bejt blbìjší ne vypadáš, kdy to zkoušíš pøímo pøed námi.}
+{202}{}{Hmm, to urÄitÄ› nevypadÃ¡ jako vstupnÃ­ karta.}
+{203}{}{Jestli se o to pokusÃ­Å¡ jeÅ¡tÄ› jednou, budeme tÄ› muset zabÃ­t.}
+{204}{}{Ty fakt musÃ­Å¡ bejt blbÄ›jÅ¡Ã­ neÅ¾ vypadÃ¡Å¡, kdyÅ¾ to zkouÅ¡Ã­Å¡ pÅ™Ã­mo pÅ™ed nÃ¡mi.}

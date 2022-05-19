@@ -1,214 +1,214 @@
-{100}{}{Vidíš Poøezanıho Jimma J.}
-{150}{}{Vidíš podezøele vypadajícího mue. Má drobnı tik v oblièeji a dlouhou jizvu na tváøi.}
-{151}{}{Vidíš Poøezanıho Jimma J. Vypadá to, e vyhlíí dalšího zákazníka.}
-{152}{}{Vidíš Poøezanıho Jimma J. Jakmile tì spatøí, kıvne na tebe.}
-{153}{}{Vidíš Poøezanıho Jimma J. Zachytí tvùj pohled a mávne na tebe, a jdeš blí.}
-{200}{}{Nazdar, no jestlipak to není }
+{100}{}{VidÃ­Å¡ PoÅ™ezanÃ½ho Jimma J.}
+{150}{}{VidÃ­Å¡ podezÅ™ele vypadajÃ­cÃ­ho muÅ¾e. MÃ¡ drobnÃ½ tik v obliÄeji a dlouhou jizvu na tvÃ¡Å™i.}
+{151}{}{VidÃ­Å¡ PoÅ™ezanÃ½ho Jimma J. VypadÃ¡ to, Å¾e vyhlÃ­Å¾Ã­ dalÅ¡Ã­ho zÃ¡kaznÃ­ka.}
+{152}{}{VidÃ­Å¡ PoÅ™ezanÃ½ho Jimma J. Jakmile tÄ› spatÅ™Ã­, kÃ½vne na tebe.}
+{153}{}{VidÃ­Å¡ PoÅ™ezanÃ½ho Jimma J. ZachytÃ­ tvÅ¯j pohled a mÃ¡vne na tebe, aÅ¥ jdeÅ¡ blÃ­Å¾.}
+{200}{}{Nazdar, no jestlipak to nenÃ­ }
 {201}{}{Nazdar, }
-{202}{}{Támhle jde jeden poøádnej tvrïák... a Jimmy J pozná poøádnıho tvrïáka.}
-{203}{}{Nestává se kadej den, aby nìkdo zapíchnul prezidenta v jeho vlastním bejváku.}
-{204}{}{Nechceš si trochu orazit a oslavit svı vítìzství trochou Jetu od Poøezanıho Jimma, hrdino?}
-{205}{}{Zachraníš svìt a Poøezanej Jimmy ti DÁ svìt, hrdino. Tolik Jetu, kolik budeš chtít.}
-{206}{}{Slyšel jsem, e tì shánìj Korsiètí bratøi, hrdino...}
-{220}{}{Jsem Poøezanej Jimmy a mám tolik Jetu, kolik budeš CHTÍT.}
-{221}{}{Chceš se proletìt? Poøezanej Jimmy je tvùj èlovìk.}
-{222}{}{Chceš lítat? Poøezanej Jimmy má pro tebe lístek.}
-{223}{}{Jestli chceš fet, Poøezanej Jimmy má Jet.}
-{224}{}{Chceš se vznášet? Poøezanej Jimmy má pro tebe Jet.}
-{225}{}{Tenhle tejden mám nìco speciálního, tak pojïme obchodovat.}
-{226}{}{Buï si koupíš sraèku po kterı lidi chcípaj, nebo si koupíš èistej, silnej fet u Poøezanıho Jimma.}
-{227}{}{Jimmy J má vdycky otevøíno, kámo.}
-{228}{}{Chceš lítat jako tryskáè? Tak si promluv s Jimmym, on je tvùj èlovìk.}
-{240}{}{(Tento mu má drobnı tik v oblièeji a dlouhou jizvu na tváøi. Jizva vypadá jako po noi.) }
-{241}{}{Brácho, všiml jsem si tì sotva jsi vyšel na ulici. Víš, co vidím?}
-{242}{}{Ségro, všiml jsem si tì sotva jsi vyšla na ulici. Víš, co vidím?}
-{243}{}{Ty vidìt já.}
-{244}{}{Co ty vidìt?! Co ty vidìt?!}
-{245}{}{Já muset jít n...}
-{246}{}{Co vidíš?}
-{247}{}{Nech tìch kecù, ty jeden blbej...}
-{248}{}{Promiò, nemám zájem...}
-{260}{}{Vidím pilota. Vidím nìkoho, kdo chce LÍTAT. Potøebuješ akorát trochu píchnout, trochu... JETU.}
+{202}{}{TÃ¡mhle jde jeden poÅ™Ã¡dnej tvrÄÃ¡k... a Jimmy J poznÃ¡ poÅ™Ã¡dnÃ½ho tvrÄÃ¡ka.}
+{203}{}{NestÃ¡vÃ¡ se kaÅ¾dej den, aby nÄ›kdo zapÃ­chnul prezidenta v jeho vlastnÃ­m bejvÃ¡ku.}
+{204}{}{NechceÅ¡ si trochu orazit a oslavit svÃ½ vÃ­tÄ›zstvÃ­ trochou Jetu od PoÅ™ezanÃ½ho Jimma, hrdino?}
+{205}{}{ZachranÃ­Å¡ svÄ›t a PoÅ™ezanej Jimmy ti DÃ svÄ›t, hrdino. Tolik Jetu, kolik budeÅ¡ chtÃ­t.}
+{206}{}{SlyÅ¡el jsem, Å¾e tÄ› shÃ¡nÄ›j KorsiÄtÃ­ bratÅ™i, hrdino...}
+{220}{}{Jsem PoÅ™ezanej Jimmy a mÃ¡m tolik Jetu, kolik budeÅ¡ CHTÃT.}
+{221}{}{ChceÅ¡ se proletÄ›t? PoÅ™ezanej Jimmy je tvÅ¯j ÄlovÄ›k.}
+{222}{}{ChceÅ¡ lÃ­tat? PoÅ™ezanej Jimmy mÃ¡ pro tebe lÃ­stek.}
+{223}{}{Jestli chceÅ¡ fet, PoÅ™ezanej Jimmy mÃ¡ Jet.}
+{224}{}{ChceÅ¡ se vznÃ¡Å¡et? PoÅ™ezanej Jimmy mÃ¡ pro tebe Jet.}
+{225}{}{Tenhle tejden mÃ¡m nÄ›co speciÃ¡lnÃ­ho, tak pojÄme obchodovat.}
+{226}{}{BuÄ si koupÃ­Å¡ sraÄku po kterÃ½ lidi chcÃ­paj, nebo si koupÃ­Å¡ Äistej, silnej fet u PoÅ™ezanÃ½ho Jimma.}
+{227}{}{Jimmy J mÃ¡ vÅ¾dycky otevÅ™Ã­no, kÃ¡mo.}
+{228}{}{ChceÅ¡ lÃ­tat jako tryskÃ¡Ä? Tak si promluv s Jimmym, on je tvÅ¯j ÄlovÄ›k.}
+{240}{}{(Tento muÅ¾ mÃ¡ drobnÃ½ tik v obliÄeji a dlouhou jizvu na tvÃ¡Å™i. Jizva vypadÃ¡ jako po noÅ¾i.) }
+{241}{}{BrÃ¡cho, vÅ¡iml jsem si tÄ› sotva jsi vyÅ¡el na ulici. VÃ­Å¡, co vidÃ­m?}
+{242}{}{SÃ©gro, vÅ¡iml jsem si tÄ› sotva jsi vyÅ¡la na ulici. VÃ­Å¡, co vidÃ­m?}
+{243}{}{Ty vidÄ›t jÃ¡.}
+{244}{}{Co ty vidÄ›t?! Co ty vidÄ›t?!}
+{245}{}{JÃ¡ muset jÃ­t n...}
+{246}{}{Co vidÃ­Å¡?}
+{247}{}{Nech tÄ›ch kecÅ¯, ty jeden blbej...}
+{248}{}{PromiÅˆ, nemÃ¡m zÃ¡jem...}
+{260}{}{VidÃ­m pilota. VidÃ­m nÄ›koho, kdo chce LÃTAT. PotÅ™ebujeÅ¡ akorÃ¡t trochu pÃ­chnout, trochu... JETU.}
 {261}{}{Jet? V nebe? Gde?}
 {263}{}{Jet, jo? Chci se zep...}
-{264}{}{Poslyš, já nejsem...}
-{270}{}{Mùj leteckej kámo, kdy jde o JET, Poøezanej Jimmy J je tvùj MU. Mám nejlepší zboí v New Renu. Èistej Jet, silnej Jet a NEJBEZPEÈNÌJŠÍ Jet.}
-{271}{}{Gde jet? Já nevidìt nikoho jet v nebe.}
-{272}{}{Já muset JÍT n...}
-{273}{}{Poøezanej Jimmy J, jo? Poslyš, chci se zep...}
-{274}{}{Promiò, mì nezaj...}
-{280}{}{OSTATNÍ dealery kvalita nezajímá, ale já, já si rád DRÍM stálı zákazníky a dohlíím na to, aby byli ŠASTNÍ, chápeš? To je mùj styl... styl Jimma J.}
-{281}{}{Ja nevidìt nikoho jet. Ty lhát }
-{282}{}{PUS JÁ CHTÍT J...}
-{283}{}{No, eh, Jimmyho styl zní sice skvìle, ale já se chci na nìco ze...}
-{284}{}{Ne, myslím, e ne...}
+{264}{}{PoslyÅ¡, jÃ¡ nejsem...}
+{270}{}{MÅ¯j leteckej kÃ¡mo, kdyÅ¾ jde o JET, PoÅ™ezanej Jimmy J je tvÅ¯j MUÅ½. MÃ¡m nejlepÅ¡Ã­ zboÅ¾Ã­ v New Renu. ÄŒistej Jet, silnej Jet a NEJBEZPEÄŒNÄšJÅ Ã Jet.}
+{271}{}{Gde jet? JÃ¡ nevidÄ›t nikoho jet v nebe.}
+{272}{}{JÃ¡ muset JÃT n...}
+{273}{}{PoÅ™ezanej Jimmy J, jo? PoslyÅ¡, chci se zep...}
+{274}{}{PromiÅˆ, mÄ› nezaj...}
+{280}{}{OSTATNÃ dealery kvalita nezajÃ­mÃ¡, ale jÃ¡, jÃ¡ si rÃ¡d DRÅ½ÃM stÃ¡lÃ½ zÃ¡kaznÃ­ky a dohlÃ­Å¾Ã­m na to, aby byli Å Å¤ASTNÃ, chÃ¡peÅ¡? To je mÅ¯j styl... styl Jimma J.}
+{281}{}{Ja nevidÄ›t nikoho jet. Ty lhÃ¡t }
+{282}{}{PUSÅ¤ JÃ CHTÃT J...}
+{283}{}{No, eh, Jimmyho styl znÃ­ sice skvÄ›le, ale jÃ¡ se chci na nÄ›co ze...}
+{284}{}{Ne, myslÃ­m, Å¾e ne...}
 {290}{}{Knew you'd be back, knew it! Didn't Jagged Jimmy J say that it would be that WAY? Keep 'em happy, and they'll never let you down. So my pilot friend... what can Jagged Jimmy J do for you today?}
-{291}{}{Ale, jestlipak to není mùj leteckej "kámoš"... POTØEBUJEŠ snad nìco od Poøezanıho Jimma?}
-{292}{}{Eh... já zapomnìt co já chtít øíct. Já jít.}
-{294}{}{My vymìnit vìci? Já RÁD vìci.}
-{295}{}{Máš Jet? Tak pøejdìme k obchodu... kamaráde.}
-{296}{}{Kde jsi pøišel k té jizvì, Jimmy?}
-{297}{}{Odkud bereš Jet, Jimmy?}
-{298}{}{Nevíš, kdo dal Wrightovic dìcku ten Jet, kterı ho zabil?}
-{299}{}{Pøedtím jsi øíkal, e je tvùj Jet "nejbezpeènìjší." On se tu vyskytuje i nìjakı nebezpeènı Jet?}
-{300}{}{Dnes nic. Díky, Jimmy.}
-{310}{}{Tak co to BUDE? Co pro tebe mùe dneska Poøezanej Jimmy J udìlat?}
-{311}{}{Jo, co chceš? Vymáèkni se... nemám na to celej den.}
-{312}{}{Nìco potøebuješ nebo máš otázky... co pro tebe mùe dneska Poøezanej Jimmy J udìlat?}
-{314}{}{Já zapomnìt! Já koneènì vzpomnìt a já zas zapomnìt! }
-{330}{}{Hej... nìkoho mi PØIPOMÍNÁŠ. Neznáme se, mùj leteckej kámo?}
-{331}{}{PØÍSAHÁM, e tì znám, mùj leteckej kámo. Ten tvùj ksicht je mi povìdomej...}
-{332}{}{JÁ MOC VELKÁ HRDINA, JÁ DOHRÁT HRA A NAKOPAT PRDEL A VYHODIT ROPNÁ VÌ DO VZDUCH A ZACHRÁNIT SVÌT.}
-{333}{}{Já bojovat v ringu pøed moc hluèná lidi co øvát zabij sráè tak já mlátit dokud on nespadnout na zem.}
-{334}{}{Já dìlat ošklivá vìci s cizá lidi co poøád mluvit s bùh.}
-{335}{}{Já MAFIÁN. Já VELKÁ chlap v REEnu.}
-{336}{}{Jak mùe nìkdo nìkoho DOOPRAVDY znát, Jimmy? Lze nìèeho takového vùbec dosáhnout na tomhle hrozném svìtì? Nebo je to moné a tehdy, kdy se osvobodíme od svıch fyzickıch tìl?}
-{337}{}{Já CHTÍT mluvit ale ty mì NENECHAT já NASKLE.}
-{338}{}{No, podaøilo se mi zastavit plány Enklávy na zabití všech lidí na tomhle svìtì, porazit Prezidenta, vyhodit do vzduchu jejich základnu a jen tak tak uniknout smrti.}
-{339}{}{Moná mì znáš z boxerského ringu.}
-{340}{}{Moná mì znáš z nìjakého filmu. Slyšel jsi o }
-{341}{}{Jsem blízkı pøítel rodiny }
-{342}{}{Ne, myslím, e ne, Jimmy. Budeme tedy obchodovat, nebo ne?}
-{343}{}{Ne, myslím, e ne. Poslyš, chci se ještì na nìco zeptat...}
-{344}{}{Ne, u musím jít. Zatím, Jimmy.}
-{360}{}{To je ono! Já VÌDÌL, e jsem tì u nìkde vidìl! Sakra, máš to øíct hned a ne aby si s tím musel Jimmy lámat hlavu...?! Co pro tebe mùu udìlat?}
-{361}{}{Eh... já zapomnìt. Já jít.}
-{363}{}{No, sháním nìjakı Jet...}
+{291}{}{Ale, jestlipak to nenÃ­ mÅ¯j leteckej "kÃ¡moÅ¡"... POTÅ˜EBUJEÅ  snad nÄ›co od PoÅ™ezanÃ½ho Jimma?}
+{292}{}{Eh... jÃ¡ zapomnÄ›t co jÃ¡ chtÃ­t Å™Ã­ct. JÃ¡ jÃ­t.}
+{294}{}{My vymÄ›nit vÄ›ci? JÃ¡ RÃD vÄ›ci.}
+{295}{}{MÃ¡Å¡ Jet? Tak pÅ™ejdÄ›me k obchodu... kamarÃ¡de.}
+{296}{}{Kde jsi pÅ™iÅ¡el k tÃ© jizvÄ›, Jimmy?}
+{297}{}{Odkud bereÅ¡ Jet, Jimmy?}
+{298}{}{NevÃ­Å¡, kdo dal Wrightovic dÄ›cku ten Jet, kterÃ½ ho zabil?}
+{299}{}{PÅ™edtÃ­m jsi Å™Ã­kal, Å¾e je tvÅ¯j Jet "nejbezpeÄnÄ›jÅ¡Ã­." On se tu vyskytuje i nÄ›jakÃ½ nebezpeÄnÃ½ Jet?}
+{300}{}{Dnes nic. DÃ­ky, Jimmy.}
+{310}{}{Tak co to BUDE? Co pro tebe mÅ¯Å¾e dneska PoÅ™ezanej Jimmy J udÄ›lat?}
+{311}{}{Jo, co chceÅ¡? VymÃ¡Äkni se... nemÃ¡m na to celej den.}
+{312}{}{NÄ›co potÅ™ebujeÅ¡ nebo mÃ¡Å¡ otÃ¡zky... co pro tebe mÅ¯Å¾e dneska PoÅ™ezanej Jimmy J udÄ›lat?}
+{314}{}{JÃ¡ zapomnÄ›t! JÃ¡ koneÄnÄ› vzpomnÄ›t a jÃ¡ zas zapomnÄ›t! }
+{330}{}{Hej... nÄ›koho mi PÅ˜IPOMÃNÃÅ . NeznÃ¡me se, mÅ¯j leteckej kÃ¡mo?}
+{331}{}{PÅ˜ÃSAHÃM, Å¾e tÄ› znÃ¡m, mÅ¯j leteckej kÃ¡mo. Ten tvÅ¯j ksicht je mi povÄ›domej...}
+{332}{}{JÃ MOC VELKÃ HRDINA, JÃ DOHRÃT HRA A NAKOPAT PRDEL A VYHODIT ROPNÃ VÄšÅ½ DO VZDUCH A ZACHRÃNIT SVÄšT.}
+{333}{}{JÃ¡ bojovat v ringu pÅ™ed moc hluÄnÃ¡ lidi co Å™vÃ¡t zabij srÃ¡Ä tak jÃ¡ mlÃ¡tit dokud on nespadnout na zem.}
+{334}{}{JÃ¡ dÄ›lat oÅ¡klivÃ¡ vÄ›ci s cizÃ¡ lidi co poÅ™Ã¡d mluvit s bÅ¯h.}
+{335}{}{JÃ¡ MAFIÃN. JÃ¡ VELKÃ chlap v REEnu.}
+{336}{}{Jak mÅ¯Å¾e nÄ›kdo nÄ›koho DOOPRAVDY znÃ¡t, Jimmy? Lze nÄ›Äeho takovÃ©ho vÅ¯bec dosÃ¡hnout na tomhle hroznÃ©m svÄ›tÄ›? Nebo je to moÅ¾nÃ© aÅ¾ tehdy, kdyÅ¾ se osvobodÃ­me od svÃ½ch fyzickÃ½ch tÄ›l?}
+{337}{}{JÃ¡ CHTÃT mluvit ale ty mÄ› NENECHAT jÃ¡ NASKLE.}
+{338}{}{No, podaÅ™ilo se mi zastavit plÃ¡ny EnklÃ¡vy na zabitÃ­ vÅ¡ech lidÃ­ na tomhle svÄ›tÄ›, porazit Prezidenta, vyhodit do vzduchu jejich zÃ¡kladnu a jen tak tak uniknout smrti.}
+{339}{}{MoÅ¾nÃ¡ mÄ› znÃ¡Å¡ z boxerskÃ©ho ringu.}
+{340}{}{MoÅ¾nÃ¡ mÄ› znÃ¡Å¡ z nÄ›jakÃ©ho filmu. SlyÅ¡el jsi o }
+{341}{}{Jsem blÃ­zkÃ½ pÅ™Ã­tel rodiny }
+{342}{}{Ne, myslÃ­m, Å¾e ne, Jimmy. Budeme tedy obchodovat, nebo ne?}
+{343}{}{Ne, myslÃ­m, Å¾e ne. PoslyÅ¡, chci se jeÅ¡tÄ› na nÄ›co zeptat...}
+{344}{}{Ne, uÅ¾ musÃ­m jÃ­t. ZatÃ­m, Jimmy.}
+{360}{}{To je ono! JÃ¡ VÄšDÄšL, Å¾e jsem tÄ› uÅ¾ nÄ›kde vidÄ›l! Sakra, mÃ¡Å¡ to Å™Ã­ct hned a ne aby si s tÃ­m musel Jimmy lÃ¡mat hlavu...?! Co pro tebe mÅ¯Å¾u udÄ›lat?}
+{361}{}{Eh... jÃ¡ zapomnÄ›t. JÃ¡ jÃ­t.}
+{363}{}{No, shÃ¡nÃ­m nÄ›jakÃ½ Jet...}
 {364}{}{Hey, I wanted something else...}
-{365}{}{U musím jít. Zatím, Jimmy.}
-{375}{}{(Jimmy pøekvapením ztichne. Asi jsi mu paralyzoval mozek.)}
-{376}{}{[Ukrást mu všechno, co má]}
-{377}{}{ je s prací hotov.}
-{385}{}{Poøezanej Jimmy J je plnej lásky, mùj leteckej kámo, ale svìt ne vdycky miluje Poøezanıho Jimma, chápeš?}
-{386}{}{Chápu. Chápu.}
-{387}{}{To mi povídej. Nìkdy je svìt opravdu krutı.}
-{388}{}{To je SKVÌLİ pøíbìh. Poslyš, Jimmy, chci se ještì na nìco zeptat...}
-{389}{}{Dobrı pøíbìh. Ty máš Jet, já mám prachy... jdeme obchodovat?}
-{390}{}{Dobrı pøíbìh, ale u musím jít, Jimmy.}
-{400}{}{(Ukáe na svoji jizvu.) Tohle mi zùstalo po tom, co jsem bránil jednu babu pøed takovım velkım OŠKLIVİM hajzlem, kterej ji chtìl uhodit, protoe se jí nelíbilo, jak ji osahává, chápeš?}
+{365}{}{UÅ¾ musÃ­m jÃ­t. ZatÃ­m, Jimmy.}
+{375}{}{(Jimmy pÅ™ekvapenÃ­m ztichne. Asi jsi mu paralyzoval mozek.)}
+{376}{}{[UkrÃ¡st mu vÅ¡echno, co mÃ¡]}
+{377}{}{ je s pracÃ­ hotov.}
+{385}{}{PoÅ™ezanej Jimmy J je plnej lÃ¡sky, mÅ¯j leteckej kÃ¡mo, ale svÄ›t ne vÅ¾dycky miluje PoÅ™ezanÃ½ho Jimma, chÃ¡peÅ¡?}
+{386}{}{ChÃ¡pu. ChÃ¡pu.}
+{387}{}{To mi povÃ­dej. NÄ›kdy je svÄ›t opravdu krutÃ½.}
+{388}{}{To je SKVÄšLÃ pÅ™Ã­bÄ›h. PoslyÅ¡, Jimmy, chci se jeÅ¡tÄ› na nÄ›co zeptat...}
+{389}{}{DobrÃ½ pÅ™Ã­bÄ›h. Ty mÃ¡Å¡ Jet, jÃ¡ mÃ¡m prachy... jdeme obchodovat?}
+{390}{}{DobrÃ½ pÅ™Ã­bÄ›h, ale uÅ¾ musÃ­m jÃ­t, Jimmy.}
+{400}{}{(UkÃ¡Å¾e na svoji jizvu.) Tohle mi zÅ¯stalo po tom, co jsem brÃ¡nil jednu babu pÅ™ed takovÃ½m velkÃ½m OÅ KLIVÃM hajzlem, kterej ji chtÄ›l uhodit, protoÅ¾e se jÃ­ nelÃ­bilo, jak ji osahÃ¡vÃ¡, chÃ¡peÅ¡?}
 {401}{}{Opravdu? Jak se to stalo?}
-{402}{}{Vánì? Øeknu ti, chlapi, co mlátí eny, si zaslouí dostat poøádnou nakládaèku.}
-{415}{}{(Zaujme bojovı postoj.) Pøišel jsem k nìmu jo a on vytáhl KUDLU na starıho JJ! Já nemìl nic ne holı ruce, chápeš? Bohuel se mu povedl jeden šastnej zásah, ne jsem mu... *BUM!* nakopal prdel!}
-{416}{}{Fakt jo? Jules øíkal, e jsi lítal na Jetu a poøezal sis oblièej, kdy ses snail oholit svım bojovım noem.}
-{417}{}{Hovno! Na nìco takovıho bych teda nemìl koule. Vdy tì ten chlap mohl ZABÍT!}
-{418}{}{SKVÌLİ pøíbìh. Poslyš, chci se ještì na nìco zeptat...}
-{419}{}{Jo... poslyš, mám nìjaké peníze... jdeme obchodovat?}
-{420}{}{Dobrı pøíbìh... tak dobrı, e musím odejít.}
-{430}{}{Cooooo...? Jules mi mùe políbit moji pøírodnì èernou øi. Navíc by to byla jediná PRDEL ve mìstì, kterou ještì nepolíbil. Ví HOVNO. Nemá ani koule na to, aby mi takovı sraèky øekl do oèí. TY se rozhodni, kdo z nás dvou mluví pravdu.}
-{431}{}{Jo, jo... poslyš, ty máš JET, já mám peníze... jdeme obchodovat?}
-{432}{}{Jo, jo... poslyš, Jimmy, chci se ještì na nìco zeptat...}
-{433}{}{Poslyš, pane Velká Hubo, jdeme obchodovat, nebo budu muset ty tvoje kecy poslouchat celı den?}
-{434}{}{U to nehodlám poslouchat, Jimmy. Dej pozor, a se budeš zase holit, ano?}
-{435}{}{Tak dobøe. Zatím, Jimmy.}
-{445}{}{Taky e skoro zabil! Víš, kdy jsem vidìl, co se dìje, nemyslel jsem si, e si 'Budu hrát na pana stateènıho a tak', ale...}
-{446}{}{Udìlal jsi, co bylo podle tebe správné, e?}
-{447}{}{Aha. Poslyš, chci se ještì na nìco zeptat...}
-{448}{}{U musím jít. Zatím, Jimmy.}
-{455}{}{Jó... jó... prostì jsem vidìl nìco špatnıho a tak jsem musel nìco UDÌLAT, chápeš? Nemohl jsem pøece dopustit, aby se taková vìc stala, kdy jsem byl poblí, chápeš?}
-{456}{}{Máš opravdu KOULE, Jimmy. Vìtšina lidí by jen sklopila zrak a odešla.}
-{457}{}{Rozumím. Poslyš, chci se ještì na nìco zeptat...}
-{465}{}{Já mám lidi RÁD a nemám rád nìkoho, kdo do lidí rejpá jen proto, e mùe. To není kurva SPRÁVNİ.}
-{466}{}{Jsi stateènı mu, Jimmy, opravdu stateènı mu. Nos svoji jizvu s pıchou. Poslyš, mùu vidìt, co nabízíš?}
-{467}{}{To máš pravdu. Poslyš, chci se ještì na nìco zeptat...}
-{475}{}{Sakra, mùj leteckej kámo, líbíš se mi, take tu kšeftovací obrazovku s tìma drátkama a pojistkama ani nevytahuj.}
-{476}{}{Eh... tak dobøe... ale jak tedy budeme obchodovat...?}
-{480}{}{Hele, sice je to pro mì špatnej kšeft a tak a nikomu ani muk, ale chci ti dát trochu Jetu jako pøátelskej dárek. Pøíštì budeš muset samozøejmì zaplatit, ale tohle je na Poøezanıho Jimma J, chápeš?}
-{481}{}{Díky, Jimmy. Poslyš, mùu se ještì podívat, co nabízíš?}
-{482}{}{Páni, díky. Poslyš, chci se ještì na nìco zeptat...}
-{483}{}{Tak dobøe. Díky, Jimmy.}
-{490}{}{Jsem rád, e se ptáš, mùj leteckej kámo. Víš, OSTATNÍ dealeøi, chápeš, maj fet z druhı ruky. Øedìnı a okoøenìnı všelijakım sajrajtem.}
-{491}{}{Ale na druhou stranu tvùj Jet...}
-{492}{}{Zapomeò na to. Chci se ještì na nìco zeptat...}
-{500}{}{Døív jsem ho mìl od samotnıho boha Myrona, víš, jene se napakoval a pak zmizel... nebo to koupil. Teïka vìtšinou beru pøímo od rodiny Mordinù.}
-{501}{}{No, DØÍV jsem ho mìl od starıho Myrona, ne se napakoval a vykašlal se na to... e jo, Myrone? Ha! Teïka vìtšinou toèím fet od Mordinù.}
-{502}{}{Zajímavé. Mám ještì nìjaké otázky...}
+{402}{}{VÃ¡Å¾nÄ›? Å˜eknu ti, chlapi, co mlÃ¡tÃ­ Å¾eny, si zaslouÅ¾Ã­ dostat poÅ™Ã¡dnou naklÃ¡daÄku.}
+{415}{}{(Zaujme bojovÃ½ postoj.) PÅ™iÅ¡el jsem k nÄ›mu jo a on vytÃ¡hl KUDLU na starÃ½ho JJ! JÃ¡ nemÄ›l nic neÅ¾ holÃ½ ruce, chÃ¡peÅ¡? BohuÅ¾el se mu povedl jeden Å¡Å¥astnej zÃ¡sah, neÅ¾ jsem mu... *BUM!* nakopal prdel!}
+{416}{}{Fakt jo? Jules Å™Ã­kal, Å¾e jsi lÃ­tal na Jetu a poÅ™ezal sis obliÄej, kdyÅ¾ ses snaÅ¾il oholit svÃ½m bojovÃ½m noÅ¾em.}
+{417}{}{Hovno! Na nÄ›co takovÃ½ho bych teda nemÄ›l koule. VÅ¾dyÅ¥ tÄ› ten chlap mohl ZABÃT!}
+{418}{}{SKVÄšLÃ pÅ™Ã­bÄ›h. PoslyÅ¡, chci se jeÅ¡tÄ› na nÄ›co zeptat...}
+{419}{}{Jo... poslyÅ¡, mÃ¡m nÄ›jakÃ© penÃ­ze... jdeme obchodovat?}
+{420}{}{DobrÃ½ pÅ™Ã­bÄ›h... tak dobrÃ½, Å¾e musÃ­m odejÃ­t.}
+{430}{}{Cooooo...? Jules mi mÅ¯Å¾e polÃ­bit moji pÅ™Ã­rodnÄ› Äernou Å™iÅ¥. NavÃ­c by to byla jedinÃ¡ PRDEL ve mÄ›stÄ›, kterou jeÅ¡tÄ› nepolÃ­bil. VÃ­ HOVNO. NemÃ¡ ani koule na to, aby mi takovÃ½ sraÄky Å™ekl do oÄÃ­. TY se rozhodni, kdo z nÃ¡s dvou mluvÃ­ pravdu.}
+{431}{}{Jo, jo... poslyÅ¡, ty mÃ¡Å¡ JET, jÃ¡ mÃ¡m penÃ­ze... jdeme obchodovat?}
+{432}{}{Jo, jo... poslyÅ¡, Jimmy, chci se jeÅ¡tÄ› na nÄ›co zeptat...}
+{433}{}{PoslyÅ¡, pane VelkÃ¡ Hubo, jdeme obchodovat, nebo budu muset ty tvoje kecy poslouchat celÃ½ den?}
+{434}{}{UÅ¾ to nehodlÃ¡m poslouchat, Jimmy. Dej pozor, aÅ¾ se budeÅ¡ zase holit, ano?}
+{435}{}{Tak dobÅ™e. ZatÃ­m, Jimmy.}
+{445}{}{Taky Å¾e skoro zabil! VÃ­Å¡, kdyÅ¾ jsem vidÄ›l, co se dÄ›je, nemyslel jsem si, Å¾e si 'Budu hrÃ¡t na pana stateÄnÃ½ho a tak', ale...}
+{446}{}{UdÄ›lal jsi, co bylo podle tebe sprÃ¡vnÃ©, Å¾e?}
+{447}{}{Aha. PoslyÅ¡, chci se jeÅ¡tÄ› na nÄ›co zeptat...}
+{448}{}{UÅ¾ musÃ­m jÃ­t. ZatÃ­m, Jimmy.}
+{455}{}{JÃ³... jÃ³... prostÄ› jsem vidÄ›l nÄ›co Å¡patnÃ½ho a tak jsem musel nÄ›co UDÄšLAT, chÃ¡peÅ¡? Nemohl jsem pÅ™ece dopustit, aby se takovÃ¡ vÄ›c stala, kdyÅ¾ jsem byl poblÃ­Å¾, chÃ¡peÅ¡?}
+{456}{}{MÃ¡Å¡ opravdu KOULE, Jimmy. VÄ›tÅ¡ina lidÃ­ by jen sklopila zrak a odeÅ¡la.}
+{457}{}{RozumÃ­m. PoslyÅ¡, chci se jeÅ¡tÄ› na nÄ›co zeptat...}
+{465}{}{JÃ¡ mÃ¡m lidi RÃD a nemÃ¡m rÃ¡d nÄ›koho, kdo do lidÃ­ rejpÃ¡ jen proto, Å¾e mÅ¯Å¾e. To nenÃ­ kurva SPRÃVNÃ.}
+{466}{}{Jsi stateÄnÃ½ muÅ¾, Jimmy, opravdu stateÄnÃ½ muÅ¾. Nos svoji jizvu s pÃ½chou. PoslyÅ¡, mÅ¯Å¾u vidÄ›t, co nabÃ­zÃ­Å¡?}
+{467}{}{To mÃ¡Å¡ pravdu. PoslyÅ¡, chci se jeÅ¡tÄ› na nÄ›co zeptat...}
+{475}{}{Sakra, mÅ¯j leteckej kÃ¡mo, lÃ­bÃ­Å¡ se mi, takÅ¾e tu kÅ¡eftovacÃ­ obrazovku s tÄ›ma drÃ¡tkama a pojistkama ani nevytahuj.}
+{476}{}{Eh... tak dobÅ™e... ale jak tedy budeme obchodovat...?}
+{480}{}{Hele, sice je to pro mÄ› Å¡patnej kÅ¡eft a tak a nikomu ani muk, ale chci ti dÃ¡t trochu Jetu jako pÅ™Ã¡telskej dÃ¡rek. PÅ™Ã­Å¡tÄ› budeÅ¡ muset samozÅ™ejmÄ› zaplatit, ale tohle je na PoÅ™ezanÃ½ho Jimma J, chÃ¡peÅ¡?}
+{481}{}{DÃ­ky, Jimmy. PoslyÅ¡, mÅ¯Å¾u se jeÅ¡tÄ› podÃ­vat, co nabÃ­zÃ­Å¡?}
+{482}{}{PÃ¡ni, dÃ­ky. PoslyÅ¡, chci se jeÅ¡tÄ› na nÄ›co zeptat...}
+{483}{}{Tak dobÅ™e. DÃ­ky, Jimmy.}
+{490}{}{Jsem rÃ¡d, Å¾e se ptÃ¡Å¡, mÅ¯j leteckej kÃ¡mo. VÃ­Å¡, OSTATNÃ dealeÅ™i, chÃ¡peÅ¡, maj fet z druhÃ½ ruky. Å˜edÄ›nÃ½ a okoÅ™enÄ›nÃ½ vÅ¡elijakÃ½m sajrajtem.}
+{491}{}{Ale na druhou stranu tvÅ¯j Jet...}
+{492}{}{ZapomeÅˆ na to. Chci se jeÅ¡tÄ› na nÄ›co zeptat...}
+{500}{}{DÅ™Ã­v jsem ho mÄ›l od samotnÃ½ho boha Myrona, vÃ­Å¡, jenÅ¾e se napakoval a pak zmizel... nebo to koupil. TeÄka vÄ›tÅ¡inou beru pÅ™Ã­mo od rodiny MordinÅ¯.}
+{501}{}{No, DÅ˜ÃV jsem ho mÄ›l od starÃ½ho Myrona, neÅ¾ se napakoval a vykaÅ¡lal se na to... Å¾e jo, Myrone? Ha! TeÄka vÄ›tÅ¡inou toÄÃ­m fet od MordinÅ¯.}
+{502}{}{ZajÃ­mavÃ©. MÃ¡m jeÅ¡tÄ› nÄ›jakÃ© otÃ¡zky...}
 {510}{}{Me, I got ties to the CREATOR, my pilot friend. I get my Jet straight from the brainiac, the living god of drug n' compounds,
  MYRON.}
 {511}{}{Myrona?}
 {512}{}{Interesting. Say, I had some other questions...}
-{513}{}{Od Myrona, jo? Mùu se setkat... s tímhle ivım bohem?}
-{514}{}{Opravdu? No, tak to se musím nìkdy stavit a trochu si koupit. Díky, Jimmy.}
-{520}{}{Myron je zlatej kluk Mordinù. To on VYTVOØIL Jet. Kupovat od Poøezanıho Jimma je jako brát pøímo od Myrona, chápeš? A proto má J-J èistej Jet. Ten NEJLEPŠÍ Jet.}
-{521}{}{To zní dobøe. Pojïme obchodovat.}
-{523}{}{Myslíš, e by bylo moné se s tím Myronem setkat?}
-{530}{}{Ani hovno! Mordinové toho kluka støeej líp ne panu v New Renu. V ádnım pøípadì nikoho nenechaj, aby se jejich ivobytí jenom dotkl, chápeš?}
-{531}{}{Rozumím. Jak dobøe je ten chlapec hlídanı?}
-{532}{}{A na to, e má prı spoustu pøítelkyò... mezi prostitutkami. Jak je to vùbec moné, kdy je tak dobøe hlídanı?}
-{533}{}{Rozumím. Poslyš, chci se ještì na nìco zeptat...}
-{534}{}{Zajímavé. Díky za informace, Jimmy.}
-{540}{}{Stráe, stráe a další stráe. A nejsilnìjší elektronickej bezpeènostní systém v New Renu. Kdy budeš mít štìstí, tak moná USLYŠÍŠ o nìkom, kdo Myrona vidìl. A tak dobøe je hlídanej.}
-{541}{}{Je dobøe hlídanı, jo? Kde pøesnì?}
+{513}{}{Od Myrona, jo? MÅ¯Å¾u se setkat... s tÃ­mhle Å¾ivÃ½m bohem?}
+{514}{}{Opravdu? No, tak to se musÃ­m nÄ›kdy stavit a trochu si koupit. DÃ­ky, Jimmy.}
+{520}{}{Myron je zlatej kluk MordinÅ¯. To on VYTVOÅ˜IL Jet. Kupovat od PoÅ™ezanÃ½ho Jimma je jako brÃ¡t pÅ™Ã­mo od Myrona, chÃ¡peÅ¡? A proto mÃ¡ J-J Äistej Jet. Ten NEJLEPÅ Ã Jet.}
+{521}{}{To znÃ­ dobÅ™e. PojÄme obchodovat.}
+{523}{}{MyslÃ­Å¡, Å¾e by bylo moÅ¾nÃ© se s tÃ­m Myronem setkat?}
+{530}{}{Ani hovno! MordinovÃ© toho kluka stÅ™eÅ¾ej lÃ­p neÅ¾ panu v New Renu. V Å¾Ã¡dnÃ½m pÅ™Ã­padÄ› nikoho nenechaj, aby se jejich Å¾ivobytÃ­ jenom dotkl, chÃ¡peÅ¡?}
+{531}{}{RozumÃ­m. Jak dobÅ™e je ten chlapec hlÃ­danÃ½?}
+{532}{}{AÅ¾ na to, Å¾e mÃ¡ prÃ½ spoustu pÅ™Ã­telkyÅˆ... mezi prostitutkami. Jak je to vÅ¯bec moÅ¾nÃ©, kdyÅ¾ je tak dobÅ™e hlÃ­danÃ½?}
+{533}{}{RozumÃ­m. PoslyÅ¡, chci se jeÅ¡tÄ› na nÄ›co zeptat...}
+{534}{}{ZajÃ­mavÃ©. DÃ­ky za informace, Jimmy.}
+{540}{}{StrÃ¡Å¾e, strÃ¡Å¾e a dalÅ¡Ã­ strÃ¡Å¾e. A nejsilnÄ›jÅ¡Ã­ elektronickej bezpeÄnostnÃ­ systÃ©m v New Renu. KdyÅ¾ budeÅ¡ mÃ­t Å¡tÄ›stÃ­, tak moÅ¾nÃ¡ USLYÅ ÃÅ  o nÄ›kom, kdo Myrona vidÄ›l. AÅ¾ tak dobÅ™e je hlÃ­danej.}
+{541}{}{Je dobÅ™e hlÃ­danÃ½, jo? Kde pÅ™esnÄ›?}
 {543}{}{I see. Say, I had some other questions...}
-{550}{}{Maj ho schovanıho na místì zvanım "Stáje", severnì od Rena. Byl jsem tam jenom jednou. Nikdy mì nenechali projít pøes bránu a to pro rodinu PRACUJU.}
-{551}{}{No tak, musí bıt pøece nìjakı zpùsob, jak se s ním mùu setkat.}
-{554}{}{Stáje, jo? Severnì od Rena... (Hned si to poznamenám do Pip-Boye.) ...díky za informace, Jimmy.}
-{560}{}{Nemám tušení, kámo. Sice pro toho kluka PRODÁVÁM, ale stejnì jsem ho vidìl asi jenom jednou nebo dvakrát a navíc ještì z pìknı dálky. Velkej Jeíš Mordino k nìmu nepustí nikoho, kdo nepatøí k rodinì.}
-{561}{}{Tak dobøe, pojïme obchodovat.}
-{564}{}{Tak dobøe. Díky, Jimmy. Já u pùjdu.}
-{570}{}{No, tak to je ale... úplnì... jinej pøíbìh, mùj leteckej kámo. To teda jo.}
-{571}{}{Myslím, e tohle je pøesnì ten pøíbìh, kterı chci slyšet. Povídej, Jimmy...}
-{572}{}{Zapomeòte na to. Chci se ještì na nìco zeptat...}
-{573}{}{Myslím, e na tohle nemám èas, Jimmy. U musím jít.}
-{580}{}{Víš, o Myrona se dobøe staraj... Mordinové dávaj svımu ivobytí to NEJLEPŠÍ z New Rena.}
-{581}{}{Tím myslíš...?}
-{582}{}{Myslíš prostitutky, e ano? Jen tak ze zvìdavosti, odkud berou Mordinové ty prostitutky a jak je vybírají?}
-{584}{}{Aha. Díky, Jimmy. U musím jít.}
-{590}{}{Mordinové vodìj kurvy do Stájí osobnì a pak je zas odvádìj pryè. Hehe. Myronovi je sotva devatenáct, ale hormony má jako dvacet... dvacet CHLAPÙ.}
-{592}{}{Zajímavé... poslyš, jen tak ze zvìdavosti, odkud berou Mordinové ty prostitutky a jak je vybírají?}
-{600}{}{(Pokrèí rameny.) Slyšel jsem, e se jeden z Mordinovejch chlapù projde Koèièí Packou a vybere si jednu z nabídky sleèny Kitty, která by se mohla Myronovi líbit... (Jimmy najednou pøestane mluvit, podívá se na tebe a zamraèí se.) Tak moment...}
-{601}{}{Co se dìje?}
+{550}{}{Maj ho schovanÃ½ho na mÃ­stÄ› zvanÃ½m "StÃ¡je", severnÄ› od Rena. Byl jsem tam jenom jednou. Nikdy mÄ› nenechali projÃ­t pÅ™es brÃ¡nu a to pro rodinu PRACUJU.}
+{551}{}{No tak, musÃ­ bÃ½t pÅ™ece nÄ›jakÃ½ zpÅ¯sob, jak se s nÃ­m mÅ¯Å¾u setkat.}
+{554}{}{StÃ¡je, jo? SevernÄ› od Rena... (Hned si to poznamenÃ¡m do Pip-Boye.) ...dÃ­ky za informace, Jimmy.}
+{560}{}{NemÃ¡m tuÅ¡enÃ­, kÃ¡mo. Sice pro toho kluka PRODÃVÃM, ale stejnÄ› jsem ho vidÄ›l asi jenom jednou nebo dvakrÃ¡t a navÃ­c jeÅ¡tÄ› z pÄ›knÃ½ dÃ¡lky. Velkej JeÅ¾Ã­Å¡ Mordino k nÄ›mu nepustÃ­ nikoho, kdo nepatÅ™Ã­ k rodinÄ›.}
+{561}{}{Tak dobÅ™e, pojÄme obchodovat.}
+{564}{}{Tak dobÅ™e. DÃ­ky, Jimmy. JÃ¡ uÅ¾ pÅ¯jdu.}
+{570}{}{No, tak to je ale... ÃºplnÄ›... jinej pÅ™Ã­bÄ›h, mÅ¯j leteckej kÃ¡mo. To teda jo.}
+{571}{}{MyslÃ­m, Å¾e tohle je pÅ™esnÄ› ten pÅ™Ã­bÄ›h, kterÃ½ chci slyÅ¡et. PovÃ­dej, Jimmy...}
+{572}{}{ZapomeÅˆte na to. Chci se jeÅ¡tÄ› na nÄ›co zeptat...}
+{573}{}{MyslÃ­m, Å¾e na tohle nemÃ¡m Äas, Jimmy. UÅ¾ musÃ­m jÃ­t.}
+{580}{}{VÃ­Å¡, o Myrona se dobÅ™e staraj... MordinovÃ© dÃ¡vaj svÃ½mu Å¾ivobytÃ­ to NEJLEPÅ Ã z New Rena.}
+{581}{}{TÃ­m myslÃ­Å¡...?}
+{582}{}{MyslÃ­Å¡ prostitutky, Å¾e ano? Jen tak ze zvÄ›davosti, odkud berou MordinovÃ© ty prostitutky a jak je vybÃ­rajÃ­?}
+{584}{}{Aha. DÃ­ky, Jimmy. UÅ¾ musÃ­m jÃ­t.}
+{590}{}{MordinovÃ© vodÄ›j kurvy do StÃ¡jÃ­ osobnÄ› a pak je zas odvÃ¡dÄ›j pryÄ. Hehe. Myronovi je sotva devatenÃ¡ct, ale hormony mÃ¡ jako dvacet... dvacet CHLAPÅ®.}
+{592}{}{ZajÃ­mavÃ©... poslyÅ¡, jen tak ze zvÄ›davosti, odkud berou MordinovÃ© ty prostitutky a jak je vybÃ­rajÃ­?}
+{600}{}{(PokrÄÃ­ rameny.) SlyÅ¡el jsem, Å¾e se jeden z Mordinovejch chlapÅ¯ projde KoÄiÄÃ­ Packou a vybere si jednu z nabÃ­dky sleÄny Kitty, kterÃ¡ by se mohla Myronovi lÃ­bit... (Jimmy najednou pÅ™estane mluvit, podÃ­vÃ¡ se na tebe a zamraÄÃ­ se.) Tak moment...}
+{601}{}{Co se dÄ›je?}
 {602}{}{Uh... nevermind. Say, I had some other questions...}
-{603}{}{Eh, no, díky za informace, Jimmy.}
-{610}{}{Proè tì zajímaj takovı sraèky? Já mám Jet a to je všechno, co potøebuješ. Nepotøebuješ vìdìt nic o Myronovi, ani co mìl k veèeøi, ani koho ojede, ne jde spát.}
-{611}{}{Proè tì zajímaj takovı sraèky... (Zarazí se, poté se usmìje a prohlédne si tì od hlavy k patì.) Ahá, u je mi to jasnı. Chceš jít pøímo ke zdroji Jetu, e jo, ségro?}
-{612}{}{Teï ne. Uka mi, co nabízíš, Jimmy.}
-{613}{}{Zapomeò na to. Pojïme obchodovat.}
+{603}{}{Eh, no, dÃ­ky za informace, Jimmy.}
+{610}{}{ProÄ tÄ› zajÃ­maj takovÃ½ sraÄky? JÃ¡ mÃ¡m Jet a to je vÅ¡echno, co potÅ™ebujeÅ¡. NepotÅ™ebujeÅ¡ vÄ›dÄ›t nic o Myronovi, ani co mÄ›l k veÄeÅ™i, ani koho ojede, neÅ¾ jde spÃ¡t.}
+{611}{}{ProÄ tÄ› zajÃ­maj takovÃ½ sraÄky... (ZarazÃ­ se, potÃ© se usmÄ›je a prohlÃ©dne si tÄ› od hlavy k patÄ›.) AhÃ¡, uÅ¾ je mi to jasnÃ½. ChceÅ¡ jÃ­t pÅ™Ã­mo ke zdroji Jetu, Å¾e jo, sÃ©gro?}
+{612}{}{TeÄ ne. UkaÅ¾ mi, co nabÃ­zÃ­Å¡, Jimmy.}
+{613}{}{ZapomeÅˆ na to. PojÄme obchodovat.}
 {614}{}{Nevermind then. I had some other questions...}
-{615}{}{Moná. Poslyš, chci se ještì na nìco zeptat...}
-{616}{}{Ne, jsem jenom zvìdavá. Díky, Jimmy. U musím jít.}
-{617}{}{Tak dobøe. Zatím, Jimmy. U musím jít.}
-{625}{}{Krucinál, JÁ jen øíkám, e má Jimmy rád svı kupce šastnı a IVİ. Domysli si zbytek, mùj leteckej kámo. Je pro tebe pøednìjší vlastní ivot nebo pár drobnejch pøi kupování další dávky Jetu?}
-{626}{}{Rozumím. Mùeme obchodovat?}
-{627}{}{Nevíš náhodou nìco o téhle prázdné nádobce od Jetu?}
-{628}{}{Myslím, e se ten kluk nepøedávkoval Jetem. Spíš si myslím, e byl otráven.}
-{629}{}{Chci se ještì zeptat...}
-{635}{}{Aha, tak TOHLE tì zajímá, jo?! Chceš vìdìt, jestli v tom starej Jimmy nemá pracky, co?!}
-{636}{}{Ne, jen se ptám...}
-{637}{}{Dobøe, zapomeò na to. Mùeme obchodovat?}
-{638}{}{Poslyš, chci se ještì na nìco zeptat...}
-{639}{}{Díky za radu, Jimmy. Radìji u pùj...}
-{645}{}{JDI DO PRDELE! Já prodávám ÈISTEJ fet! Jestli chceš vìdìt, kdo otrávil Wrightovic kluka, tak se jdi zeptat toho starıho blbeèka Renesca nebo toho syèáka Julese a uvidíš, co z nich vypadne!}
-{646}{}{Dobøe, dobøe. Uklidni se...}
-{648}{}{Dobøe, dobøe. Poslyš, chci se ještì na nìco zep...}
-{655}{}{Tak POSLOUCHEJ... jestli zjistím, e vykládáš nìjakı sraèky o tom, e mám nìco spoleènıho se smrtí Wrightovic kluka, tak skonèíš v Golgotì hned vedle nìj.}
-{656}{}{Renesco øíká, e prodáváš JET øíznutı arsenem.}
-{659}{}{ádnı problém. Poslyš, chci se ještì na nìco zeptat...}
-{660}{}{Tak v Golgotì, jo? Jako Richard, co?}
-{661}{}{Nevyhrouj MI, ty malej buzerante. Neštvi mì, nebo tì zabiju tolikrát, e si budeš myslet, e jsi Lazarus.}
-{662}{}{Klídek, Jimmy. Nikdo nebude roznášet ádné drby.}
-{663}{}{Nic neøeknu, Jimmy. U odcházím, vidíš? U odcházím.}
-{675}{}{(Vezme si nádobku a prohlédne si ji.) Uuuf, já... (Èichne si k hrdlu a zamraèí se.) Kuuuurva. Tenhle Jet mìl v sobì šávu z radškorpiona. Ten, kdo si tohodle cucnul, dlouho nepøeil... (Vrátí ti nádobku.)}
-{676}{}{Byl otrávenı?}
-{677}{}{Hmmm. Chci se ještì zeptat...}
-{678}{}{Aha. Díky.}
-{685}{}{Jo sakra! Dávej si bacha, komu tohle ve mìstì ukáeš... a proto Jimmy vdycky øíká...}
-{686}{}{Nenapadá tì odkud mùe bıt?}
-{695}{}{Ne, nenapadá... hele, nikomu neøíkej, e to máš ode mì, ale... na tvım místì bych se zeptal Julese nebo Renesca... ale ode mì to nemáš, jasnı?}
-{696}{}{Tak dobøe. Chci se ještì na nìco zeptat...}
-{697}{}{Renesca a Julese, jo? Pùjdu se jich zeptat. Díky za radu.}
-{705}{}{To mì vùbec nepøekvapuje.}
-{706}{}{Co tím chceš øíct?}
-{707}{}{Aha. Mám ještì jiné otázky...}
-{708}{}{No, nevadí.}
-{715}{}{Jo, to øíká PROTO, protoe si myslí, e o tom ví VŠECHNO.}
-{716}{}{Co tím myslíš?}
-{725}{}{Co tím myslím? Tím myslím, e Jimmy má svı zákazníky rád šastnı a IVİ. Renescovi je to putna, take... zbytek si domysli, mùj leteckej kámo.}
-{727}{}{Díky za radu, Jimmy. U musím jít.}
-{800}{}{Podaøilo se ti zjistit, e byl Richard Wright otráven.}
-{5200}{}{! Pojï si vzít trochu Jetu od J-J. Je to gratis...}
-{5201}{}{! Jestli chceš slavit JETem, promluv si se starım Jimmym J...}
-{5281}{}{ ty lhát }
-{5314}{}{ ZABÍT TY.}
+{615}{}{MoÅ¾nÃ¡. PoslyÅ¡, chci se jeÅ¡tÄ› na nÄ›co zeptat...}
+{616}{}{Ne, jsem jenom zvÄ›davÃ¡. DÃ­ky, Jimmy. UÅ¾ musÃ­m jÃ­t.}
+{617}{}{Tak dobÅ™e. ZatÃ­m, Jimmy. UÅ¾ musÃ­m jÃ­t.}
+{625}{}{KrucinÃ¡l, JÃ jen Å™Ã­kÃ¡m, Å¾e mÃ¡ Jimmy rÃ¡d svÃ½ kupce Å¡Å¥astnÃ½ a Å½IVÃ. Domysli si zbytek, mÅ¯j leteckej kÃ¡mo. Je pro tebe pÅ™ednÄ›jÅ¡Ã­ vlastnÃ­ Å¾ivot nebo pÃ¡r drobnejch pÅ™i kupovÃ¡nÃ­ dalÅ¡Ã­ dÃ¡vky Jetu?}
+{626}{}{RozumÃ­m. MÅ¯Å¾eme obchodovat?}
+{627}{}{NevÃ­Å¡ nÃ¡hodou nÄ›co o tÃ©hle prÃ¡zdnÃ© nÃ¡dobce od Jetu?}
+{628}{}{MyslÃ­m, Å¾e se ten kluk nepÅ™edÃ¡vkoval Jetem. SpÃ­Å¡ si myslÃ­m, Å¾e byl otrÃ¡ven.}
+{629}{}{Chci se jeÅ¡tÄ› zeptat...}
+{635}{}{Aha, tak TOHLE tÄ› zajÃ­mÃ¡, jo?! ChceÅ¡ vÄ›dÄ›t, jestli v tom starej Jimmy nemÃ¡ pracky, co?!}
+{636}{}{Ne, jen se ptÃ¡m...}
+{637}{}{DobÅ™e, zapomeÅˆ na to. MÅ¯Å¾eme obchodovat?}
+{638}{}{PoslyÅ¡, chci se jeÅ¡tÄ› na nÄ›co zeptat...}
+{639}{}{DÃ­ky za radu, Jimmy. RadÄ›ji uÅ¾ pÅ¯j...}
+{645}{}{JDI DO PRDELE! JÃ¡ prodÃ¡vÃ¡m ÄŒISTEJ fet! Jestli chceÅ¡ vÄ›dÄ›t, kdo otrÃ¡vil Wrightovic kluka, tak se jdi zeptat toho starÃ½ho blbeÄka Renesca nebo toho syÄÃ¡ka Julese a uvidÃ­Å¡, co z nich vypadne!}
+{646}{}{DobÅ™e, dobÅ™e. Uklidni se...}
+{648}{}{DobÅ™e, dobÅ™e. PoslyÅ¡, chci se jeÅ¡tÄ› na nÄ›co zep...}
+{655}{}{Tak POSLOUCHEJ... jestli zjistÃ­m, Å¾e vyklÃ¡dÃ¡Å¡ nÄ›jakÃ½ sraÄky o tom, Å¾e mÃ¡m nÄ›co spoleÄnÃ½ho se smrtÃ­ Wrightovic kluka, tak skonÄÃ­Å¡ v GolgotÄ› hned vedle nÄ›j.}
+{656}{}{Renesco Å™Ã­kÃ¡, Å¾e prodÃ¡vÃ¡Å¡ JET Å™Ã­znutÃ½ arsenem.}
+{659}{}{Å½Ã¡dnÃ½ problÃ©m. PoslyÅ¡, chci se jeÅ¡tÄ› na nÄ›co zeptat...}
+{660}{}{Tak v GolgotÄ›, jo? Jako Richard, co?}
+{661}{}{NevyhroÅ¾uj MI, ty malej buzerante. NeÅ¡tvi mÄ›, nebo tÄ› zabiju tolikrÃ¡t, Å¾e si budeÅ¡ myslet, Å¾e jsi Lazarus.}
+{662}{}{KlÃ­dek, Jimmy. Nikdo nebude roznÃ¡Å¡et Å¾Ã¡dnÃ© drby.}
+{663}{}{Nic neÅ™eknu, Jimmy. UÅ¾ odchÃ¡zÃ­m, vidÃ­Å¡? UÅ¾ odchÃ¡zÃ­m.}
+{675}{}{(Vezme si nÃ¡dobku a prohlÃ©dne si ji.) Uuuf, jÃ¡... (ÄŒichne si k hrdlu a zamraÄÃ­ se.) Kuuuurva. Tenhle Jet mÄ›l v sobÄ› Å¡Å¥Ã¡vu z radÅ¡korpiona. Ten, kdo si tohodle cucnul, dlouho nepÅ™eÅ¾il... (VrÃ¡tÃ­ ti nÃ¡dobku.)}
+{676}{}{Byl otrÃ¡venÃ½?}
+{677}{}{Hmmm. Chci se jeÅ¡tÄ› zeptat...}
+{678}{}{Aha. DÃ­ky.}
+{685}{}{Jo sakra! DÃ¡vej si bacha, komu tohle ve mÄ›stÄ› ukÃ¡Å¾eÅ¡... a proto Jimmy vÅ¾dycky Å™Ã­kÃ¡...}
+{686}{}{NenapadÃ¡ tÄ› odkud mÅ¯Å¾e bÃ½t?}
+{695}{}{Ne, nenapadÃ¡... hele, nikomu neÅ™Ã­kej, Å¾e to mÃ¡Å¡ ode mÄ›, ale... na tvÃ½m mÃ­stÄ› bych se zeptal Julese nebo Renesca... ale ode mÄ› to nemÃ¡Å¡, jasnÃ½?}
+{696}{}{Tak dobÅ™e. Chci se jeÅ¡tÄ› na nÄ›co zeptat...}
+{697}{}{Renesca a Julese, jo? PÅ¯jdu se jich zeptat. DÃ­ky za radu.}
+{705}{}{To mÄ› vÅ¯bec nepÅ™ekvapuje.}
+{706}{}{Co tÃ­m chceÅ¡ Å™Ã­ct?}
+{707}{}{Aha. MÃ¡m jeÅ¡tÄ› jinÃ© otÃ¡zky...}
+{708}{}{No, nevadÃ­.}
+{715}{}{Jo, to Å™Ã­kÃ¡ PROTO, protoÅ¾e si myslÃ­, Å¾e o tom vÃ­ VÅ ECHNO.}
+{716}{}{Co tÃ­m myslÃ­Å¡?}
+{725}{}{Co tÃ­m myslÃ­m? TÃ­m myslÃ­m, Å¾e Jimmy mÃ¡ svÃ½ zÃ¡kaznÃ­ky rÃ¡d Å¡Å¥astnÃ½ a Å½IVÃ. Renescovi je to putna, takÅ¾e... zbytek si domysli, mÅ¯j leteckej kÃ¡mo.}
+{727}{}{DÃ­ky za radu, Jimmy. UÅ¾ musÃ­m jÃ­t.}
+{800}{}{PodaÅ™ilo se ti zjistit, Å¾e byl Richard Wright otrÃ¡ven.}
+{5200}{}{! PojÄ si vzÃ­t trochu Jetu od J-J. Je to gratis...}
+{5201}{}{! Jestli chceÅ¡ slavit JETem, promluv si se starÃ½m Jimmym J...}
+{5281}{}{ ty lhÃ¡t }
+{5314}{}{ ZABÃT TY.}
 {5340}{}{?}
 {5341}{}{ .}
 {6281}{}{ o jet?}

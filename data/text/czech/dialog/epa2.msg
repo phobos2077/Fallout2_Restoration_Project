@@ -1,1 +1,1 @@
-{100}{}{Vstupujeö do podzemnÌch pater EPA.}
+{100}{}{Vstupuje≈° do podzemn√≠ch pater EPA.}

@@ -1,5 +1,5 @@
-{100}{}{Vidíš poèítaè.}
-{101}{}{Poèítaè. Zdá se, e funguje normálnì.}
-{102}{}{Poèítaè. Nejspíš je poškozenı.}
-{103}{}{On-line. Diagnostika spuštìna...}
-{104}{}{Nic to nedìlá.}
+{100}{}{VidÃ­Å¡ poÄÃ­taÄ.}
+{101}{}{PoÄÃ­taÄ. ZdÃ¡ se, Å¾e funguje normÃ¡lnÄ›.}
+{102}{}{PoÄÃ­taÄ. NejspÃ­Å¡ je poÅ¡kozenÃ½.}
+{103}{}{On-line. Diagnostika spuÅ¡tÄ›na...}
+{104}{}{Nic to nedÄ›lÃ¡.}

@@ -1,3 +1,3 @@
-{100}{}{Vidíš strá.}
-{200}{}{Vegeir øíká, e ještì nemùeš odejít.}
-{210}{}{Vegeir øíká, e tì mùeme nechat projít.}
+{100}{}{VidÃ­Å¡ strÃ¡Å¾.}
+{200}{}{Vegeir Å™Ã­kÃ¡, Å¾e jeÅ¡tÄ› nemÅ¯Å¾eÅ¡ odejÃ­t.}
+{210}{}{Vegeir Å™Ã­kÃ¡, Å¾e tÄ› mÅ¯Å¾eme nechat projÃ­t.}

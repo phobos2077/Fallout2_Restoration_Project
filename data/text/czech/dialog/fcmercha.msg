@@ -1,47 +1,47 @@
-{100}{}{Vidíš kupce.}
-{101}{}{Vidíš kupce.}
-{102}{}{Vidíš èilého obchodníka ze Shi. Vypadá to, e se má k svìtu stejnì jako všichni ostatní.}
-{103}{}{Pojï koupit chobotnice! Velmi dobrá!}
-{104}{}{Ty rád ryba? My mít ryba!}
+{100}{}{VidÃ­Å¡ kupce.}
+{101}{}{VidÃ­Å¡ kupce.}
+{102}{}{VidÃ­Å¡ ÄilÃ©ho obchodnÃ­ka ze Shi. VypadÃ¡ to, Å¾e se mÃ¡ k svÄ›tu stejnÄ› jako vÅ¡ichni ostatnÃ­.}
+{103}{}{PojÄ koupit chobotnice! Velmi dobrÃ¡!}
+{104}{}{Ty rÃ¡d ryba? My mÃ­t ryba!}
 {105}{}{Hej! Hej! Kup to! Kup to!}
-{106}{}{Nekupuj od nìj! Je to hroznı zlodìj!}
-{107}{}{Jít sem a podívat na tohle! Bude se tobì líbit!}
-{108}{}{Podívat se! Podívat se! Podívat se!}
-{109}{}{Hej, lao wai! Chceš obchodovat? Dìlám obchody!}
-{110}{}{Jít sem! Jít sem! Jít sem!}
-{111}{}{Myslíš, e tohle dobrı? Podívat se!}
-{112}{}{Máme ryba, máme moøská rostlina, máme rıe, máme... eh...}
-{113}{}{Moc toho tady nerùst, ale èemu se daøit, to máme skladem!}
-{114}{}{Ty jít domù! Ty jít domù, lao wai!}
-{115}{}{Nechceme tì tady!}
-{116}{}{Odejít! Odejít!}
-{117}{}{Tvoje peníze tady špatná! Ty hned odejít!}
-{118}{}{Ty hned odejít!}
-{119}{}{Nemít rád boj rukama? Mai Da Chiang má pro tebe zbranì!}
-{120}{}{Ty milovník a ne bojovník, co?}
-{121}{}{Hej, zelenáèi!}
-{122}{}{Pojï koupit chobotnice! Velmi dobrá!}
-{123}{}{Ty rád ryba? My mít ryba!}
+{106}{}{Nekupuj od nÄ›j! Je to hroznÃ½ zlodÄ›j!}
+{107}{}{JÃ­t sem a podÃ­vat na tohle! Bude se tobÄ› lÃ­bit!}
+{108}{}{PodÃ­vat se! PodÃ­vat se! PodÃ­vat se!}
+{109}{}{Hej, lao wai! ChceÅ¡ obchodovat? DÄ›lÃ¡m obchody!}
+{110}{}{JÃ­t sem! JÃ­t sem! JÃ­t sem!}
+{111}{}{MyslÃ­Å¡, Å¾e tohle dobrÃ½? PodÃ­vat se!}
+{112}{}{MÃ¡me ryba, mÃ¡me moÅ™skÃ¡ rostlina, mÃ¡me rÃ½Å¾e, mÃ¡me... eh...}
+{113}{}{Moc toho tady nerÅ¯st, ale Äemu se daÅ™it, to mÃ¡me skladem!}
+{114}{}{Ty jÃ­t domÅ¯! Ty jÃ­t domÅ¯, lao wai!}
+{115}{}{Nechceme tÄ› tady!}
+{116}{}{OdejÃ­t! OdejÃ­t!}
+{117}{}{Tvoje penÃ­ze tady Å¡patnÃ¡! Ty hned odejÃ­t!}
+{118}{}{Ty hned odejÃ­t!}
+{119}{}{NemÃ­t rÃ¡d boj rukama? Mai Da Chiang mÃ¡ pro tebe zbranÄ›!}
+{120}{}{Ty milovnÃ­k a ne bojovnÃ­k, co?}
+{121}{}{Hej, zelenÃ¡Äi!}
+{122}{}{PojÄ koupit chobotnice! Velmi dobrÃ¡!}
+{123}{}{Ty rÃ¡d ryba? My mÃ­t ryba!}
 {124}{}{Hej! Hej! Kup to! Kup to!}
-{125}{}{Nekupuj od nìj! Je to hroznı zlodìj!}
-{126}{}{Jít sem a podívat na tohle! Bude se tobì líbit!}
-{127}{}{Podívat se! Podívat se! Podívat se!}
-{128}{}{Hej, lao wai! Chceš obchodovat? Dìlám obchody!}
-{129}{}{Jít sem! Jít sem! Jít sem!}
-{130}{}{Myslíš, e tohle dobrı? Podívat se!}
-{131}{}{Máme ryba, máme moøská rostlina, máme rıe, máme... eh...}
-{132}{}{Moc toho tady nerùst, ale èemu se daøit, to máme skladem!}
-{133}{}{Máme velká slevy!}
-{134}{}{Sakra... dá nám novı vùdce niší danì?}
-{135}{}{Chudák Ken Lee.}
-{136}{}{Mìsto Shi u nikdy nebude to samé bez starého Kena Lea.}
-{137}{}{Ty rád ryba? My mít ryba!}
+{125}{}{Nekupuj od nÄ›j! Je to hroznÃ½ zlodÄ›j!}
+{126}{}{JÃ­t sem a podÃ­vat na tohle! Bude se tobÄ› lÃ­bit!}
+{127}{}{PodÃ­vat se! PodÃ­vat se! PodÃ­vat se!}
+{128}{}{Hej, lao wai! ChceÅ¡ obchodovat? DÄ›lÃ¡m obchody!}
+{129}{}{JÃ­t sem! JÃ­t sem! JÃ­t sem!}
+{130}{}{MyslÃ­Å¡, Å¾e tohle dobrÃ½? PodÃ­vat se!}
+{131}{}{MÃ¡me ryba, mÃ¡me moÅ™skÃ¡ rostlina, mÃ¡me rÃ½Å¾e, mÃ¡me... eh...}
+{132}{}{Moc toho tady nerÅ¯st, ale Äemu se daÅ™it, to mÃ¡me skladem!}
+{133}{}{MÃ¡me velkÃ¡ slevy!}
+{134}{}{Sakra... dÃ¡ nÃ¡m novÃ½ vÅ¯dce niÅ¾Å¡Ã­ danÄ›?}
+{135}{}{ChudÃ¡k Ken Lee.}
+{136}{}{MÄ›sto Shi uÅ¾ nikdy nebude to samÃ© bez starÃ©ho Kena Lea.}
+{137}{}{Ty rÃ¡d ryba? My mÃ­t ryba!}
 {138}{}{Hej! Hej! Kup to! Kup to!}
-{139}{}{Nekupuj od nìj! Je to hroznı zlodìj!}
-{140}{}{Jít sem a podívat na tohle! Bude se tobì líbit!}
-{141}{}{Podívat se! Podívat se! Podívat se!}
-{142}{}{Hej, lao wai! Chceš obchodovat? Dìlám obchody!}
-{143}{}{Jít sem! Jít sem! Jít sem!}
-{144}{}{Myslíš, e tohle dobrı? Podívat se!}
-{145}{}{Máme ryba, máme moøská rostlina, máme rıe, máme... eh...}
-{146}{}{Moc toho tady nerùst, ale èemu se daøit, to máme skladem!}
+{139}{}{Nekupuj od nÄ›j! Je to hroznÃ½ zlodÄ›j!}
+{140}{}{JÃ­t sem a podÃ­vat na tohle! Bude se tobÄ› lÃ­bit!}
+{141}{}{PodÃ­vat se! PodÃ­vat se! PodÃ­vat se!}
+{142}{}{Hej, lao wai! ChceÅ¡ obchodovat? DÄ›lÃ¡m obchody!}
+{143}{}{JÃ­t sem! JÃ­t sem! JÃ­t sem!}
+{144}{}{MyslÃ­Å¡, Å¾e tohle dobrÃ½? PodÃ­vat se!}
+{145}{}{MÃ¡me ryba, mÃ¡me moÅ™skÃ¡ rostlina, mÃ¡me rÃ½Å¾e, mÃ¡me... eh...}
+{146}{}{Moc toho tady nerÅ¯st, ale Äemu se daÅ™it, to mÃ¡me skladem!}

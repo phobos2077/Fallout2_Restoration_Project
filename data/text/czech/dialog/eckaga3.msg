@@ -1,22 +1,22 @@
-{100}{}{Vidíš mue v kovové zbroji.}
-{101}{}{Vidíš Kagu v kovové zbroji.}
-{102}{}{Jo, je to Kaga, ne-a-tak-velkı. Má kovovou zbroj a chce tì zabít.}
+{100}{}{VidÃ­Å¡ muÅ¾e v kovovÃ© zbroji.}
+{101}{}{VidÃ­Å¡ Kagu v kovovÃ© zbroji.}
+{102}{}{Jo, je to Kaga, ne-aÅ¾-tak-velkÃ½. MÃ¡ kovovou zbroj a chce tÄ› zabÃ­t.}
 {103}{}{Zase ty!}
-{104}{}{U mì ta neustálá setkání zaèínají unavovat.}
-{105}{}{Vyvolenı - hmm!}
-{106}{}{Skonèeme to.}
-{107}{}{Bude tì mrzet, e jsi kdy slyšel jméno Kaga!}
-{108}{}{Mé schopnosti doznaly velkého zlepšení od doby, co jsme se naposled setkali.}
-{109}{}{Stává se z toho zlozvyk.}
-{110}{}{Kaga musí ještì trochu trénovat.}
-{111}{}{Kaga se vrátí.}
-{120}{}{Take se opìt setkáváme, Kago.}
-{150}{}{(Pøed tebou stojí vysokı a dobøe stavìnı váleèník. Jeho oèi prahnou nenávistí, kdy si tì prohlíí.) Take potom, co vyhnali Kagu, zvolili Vyvolenım tebe? Haha! Myslíš, e kdy jsi vnuk Zakladatele, e jsi vıjimeènı?! Myslíš, e jsi lepší ne já, velkı Kaga?!}
-{151}{}{No, já JSEM pøece Vyvolenı, nebo ne?}
-{152}{}{Hej hej, poèkej vteøinku. Nikdy jsem neøekl, e jsem lepší ne ty.}
-{160}{}{Ten titul nebude znamenat nic a ti Kaga utrhne hlavu!}
-{161}{}{ádné øeèi ti kùi nezachrání. Tvou smrtí bude Kagovi navrácena èest. Kaga se teï pomstí!}
+{104}{}{UÅ¾ mÄ› ta neustÃ¡lÃ¡ setkÃ¡nÃ­ zaÄÃ­najÃ­ unavovat.}
+{105}{}{VyvolenÃ½ - hmm!}
+{106}{}{SkonÄeme to.}
+{107}{}{Bude tÄ› mrzet, Å¾e jsi kdy slyÅ¡el jmÃ©no Kaga!}
+{108}{}{MÃ© schopnosti doznaly velkÃ©ho zlepÅ¡enÃ­ od doby, co jsme se naposled setkali.}
+{109}{}{StÃ¡vÃ¡ se z toho zlozvyk.}
+{110}{}{Kaga musÃ­ jeÅ¡tÄ› trochu trÃ©novat.}
+{111}{}{Kaga se vrÃ¡tÃ­.}
+{120}{}{TakÅ¾e se opÄ›t setkÃ¡vÃ¡me, Kago.}
+{150}{}{(PÅ™ed tebou stojÃ­ vysokÃ½ a dobÅ™e stavÄ›nÃ½ vÃ¡leÄnÃ­k. Jeho oÄi prahnou nenÃ¡vistÃ­, kdyÅ¾ si tÄ› prohlÃ­Å¾Ã­.) TakÅ¾e potom, co vyhnali Kagu, zvolili VyvolenÃ½m tebe? Haha! MyslÃ­Å¡, Å¾e kdyÅ¾ jsi vnuk Zakladatele, Å¾e jsi vÃ½jimeÄnÃ½?! MyslÃ­Å¡, Å¾e jsi lepÅ¡Ã­ neÅ¾ jÃ¡, velkÃ½ Kaga?!}
+{151}{}{No, jÃ¡ JSEM pÅ™ece VyvolenÃ½, nebo ne?}
+{152}{}{Hej hej, poÄkej vteÅ™inku. Nikdy jsem neÅ™ekl, Å¾e jsem lepÅ¡Ã­ neÅ¾ ty.}
+{160}{}{Ten titul nebude znamenat nic aÅ¾ ti Kaga utrhne hlavu!}
+{161}{}{Å½Ã¡dnÃ© Å™eÄi ti kÅ¯Å¾i nezachrÃ¡nÃ­. Tvou smrtÃ­ bude Kagovi navrÃ¡cena Äest. Kaga se teÄ pomstÃ­!}
 {200}{}{*Chichi*}
-{201}{}{Coe!? Ty jsi novı Vyvolenı? No teda, ti u musí bıt vánì zoufalí.}
-{202}{}{Já ty nelíbit. Ty vypadat zlá.}
-{203}{}{Kaga se ani nebude namáhat s tebou dál mluvit. Pøiprav se na smrt rukou Kagy!}
+{201}{}{CoÅ¾e!? Ty jsi novÃ½ VyvolenÃ½? No teda, ti uÅ¾ musÃ­ bÃ½t vÃ¡Å¾nÄ› zoufalÃ­.}
+{202}{}{JÃ¡ ty nelÃ­bit. Ty vypadat zlÃ¡.}
+{203}{}{Kaga se ani nebude namÃ¡hat s tebou dÃ¡l mluvit. PÅ™iprav se na smrt rukou Kagy!}

@@ -1,16 +1,16 @@
-{100}{}{Vidíš zcestovalého èlovìka.}
-{101}{}{Vidíš kupce.}
-{102}{}{Páni, v tìhlech konèinách vidím èlovìka jen zøídkakdy.}
-{103}{}{Hej! Poèkej! Mám vìci, kterı by ti mohly pomoct na tvejch dalších cestách!}
-{104}{}{Ahoj! Máš nìco, co bys mohl vymìnit za tohle?}
-{105}{}{Dneska je tvùj šastnej den. Pojï a podívej se, co mám na prodej.}
-{200}{}{Buï zdráv, poutníku! Na tıhle trase moc lidí nepotkávám, ale vdycky mì potìší získat novıho zákazníka. Chceš obchodovat?}
-{201}{}{Zdravím! Je skvìlı, e ses u mì zastavil. Vìtšina lidí na tıhle trase ani nezastaví. Nechceš nìco vymìnit?}
-{202}{}{Nemáš zájem o malej obchod?}
-{250}{}{To by bylo dobré.}
-{251}{}{Promiò, ale musím pokraèovat v cestì.}
-{252}{}{Jo. Já mít zboí!}
-{253}{}{Já jít.}
-{260}{}{Bylo fajn s tebou obchodovat. A tì na tvejch cestách doprovází štìstí.}
+{100}{}{VidÃ­Å¡ zcestovalÃ©ho ÄlovÄ›ka.}
+{101}{}{VidÃ­Å¡ kupce.}
+{102}{}{PÃ¡ni, v tÄ›hlech konÄinÃ¡ch vidÃ­m ÄlovÄ›ka jen zÅ™Ã­dkakdy.}
+{103}{}{Hej! PoÄkej! MÃ¡m vÄ›ci, kterÃ½ by ti mohly pomoct na tvejch dalÅ¡Ã­ch cestÃ¡ch!}
+{104}{}{Ahoj! MÃ¡Å¡ nÄ›co, co bys mohl vymÄ›nit za tohle?}
+{105}{}{Dneska je tvÅ¯j Å¡Å¥astnej den. PojÄ a podÃ­vej se, co mÃ¡m na prodej.}
+{200}{}{BuÄ zdrÃ¡v, poutnÃ­ku! Na tÃ½hle trase moc lidÃ­ nepotkÃ¡vÃ¡m, ale vÅ¾dycky mÄ› potÄ›Å¡Ã­ zÃ­skat novÃ½ho zÃ¡kaznÃ­ka. ChceÅ¡ obchodovat?}
+{201}{}{ZdravÃ­m! Je skvÄ›lÃ½, Å¾e ses u mÄ› zastavil. VÄ›tÅ¡ina lidÃ­ na tÃ½hle trase ani nezastavÃ­. NechceÅ¡ nÄ›co vymÄ›nit?}
+{202}{}{NemÃ¡Å¡ zÃ¡jem o malej obchod?}
+{250}{}{To by bylo dobrÃ©.}
+{251}{}{PromiÅˆ, ale musÃ­m pokraÄovat v cestÄ›.}
+{252}{}{Jo. JÃ¡ mÃ­t zboÅ¾Ã­!}
+{253}{}{JÃ¡ jÃ­t.}
+{260}{}{Bylo fajn s tebou obchodovat. AÅ¥ tÄ› na tvejch cestÃ¡ch doprovÃ¡zÃ­ Å¡tÄ›stÃ­.}
 {261}{}{Nashle.}
-{270}{}{Vítej zpátky. Chceš se podívat, co nabízím?}
+{270}{}{VÃ­tej zpÃ¡tky. ChceÅ¡ se podÃ­vat, co nabÃ­zÃ­m?}

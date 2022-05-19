@@ -1,89 +1,89 @@
-{100}{}{Vidíš gamblera.}
-{101}{}{Zdá se, e se tomuhle gamblerovi neobyèejnì daøí.}
-{102}{}{Zdá se, e vyhrává, ale všechny jeho peníze jsou na hracím stole.}
-{103}{}{Zdá se, e vyhrává, ale všechny její peníze jsou na hracím stole.}
-{104}{}{Zdá se, e tato osoba nevyhrává ani neprohrává.}
-{105}{}{Tato osoba u dlouho nevyhrála.}
-{106}{}{Vypadá to, e bude plakat a zdá se, e nemá ani cent.}
-{107}{}{Vypadá dost naštvanì a zdá se, e prohrál velkou èástku.}
-{200}{}{Neubliuj mi!}
-{201}{}{Nestøílej!}
-{202}{}{ádnı peníze nemám!}
-{203}{}{Proè jsi zavradil nebohou Becky?}
-{204}{}{Co ti kdy udìlala?}
-{205}{}{Já jsem nic neudìlal!}
-{206}{}{Jdi prosím, nechci s tebou mluvit.}
-{300}{}{Ano! Kostky mì mají rády!}
-{301}{}{Jé, to bylo tìsnì.}
-{302}{}{Nevyrušuj mì. Pøerušíš mi moji vítìznou øadu.}
+{100}{}{VidÃ­Å¡ gamblera.}
+{101}{}{ZdÃ¡ se, Å¾e se tomuhle gamblerovi neobyÄejnÄ› daÅ™Ã­.}
+{102}{}{ZdÃ¡ se, Å¾e vyhrÃ¡vÃ¡, ale vÅ¡echny jeho penÃ­ze jsou na hracÃ­m stole.}
+{103}{}{ZdÃ¡ se, Å¾e vyhrÃ¡vÃ¡, ale vÅ¡echny jejÃ­ penÃ­ze jsou na hracÃ­m stole.}
+{104}{}{ZdÃ¡ se, Å¾e tato osoba nevyhrÃ¡vÃ¡ ani neprohrÃ¡vÃ¡.}
+{105}{}{Tato osoba uÅ¾ dlouho nevyhrÃ¡la.}
+{106}{}{VypadÃ¡ to, Å¾e bude plakat a zdÃ¡ se, Å¾e nemÃ¡ ani cent.}
+{107}{}{VypadÃ¡ dost naÅ¡tvanÄ› a zdÃ¡ se, Å¾e prohrÃ¡l velkou ÄÃ¡stku.}
+{200}{}{NeubliÅ¾uj mi!}
+{201}{}{NestÅ™Ã­lej!}
+{202}{}{Å½Ã¡dnÃ½ penÃ­ze nemÃ¡m!}
+{203}{}{ProÄ jsi zavraÅ¾dil nebohou Becky?}
+{204}{}{Co ti kdy udÄ›lala?}
+{205}{}{JÃ¡ jsem nic neudÄ›lal!}
+{206}{}{Jdi prosÃ­m, nechci s tebou mluvit.}
+{300}{}{Ano! Kostky mÄ› majÃ­ rÃ¡dy!}
+{301}{}{JÃ©, to bylo tÄ›snÄ›.}
+{302}{}{NevyruÅ¡uj mÄ›. PÅ™eruÅ¡Ã­Å¡ mi moji vÃ­tÄ›znou Å™adu.}
 {303}{}{Je mi horko!}
 {304}{}{Prachy, prachy, prachy!}
 {305}{}{Miluju tuhle hru!}
 {306}{}{No vida! Jo!}
 {307}{}{Ruleta je hra her!}
-{308}{}{Daøí se mi celkem dobøe. A co ty, jak jsi na tom?}
-{309}{}{Daøí se mi líp ne obvykle.}
-{310}{}{Skvìlı místo, nemyslíš?}
-{311}{}{Beckyny hrací stoly jsou lepší ne ty v New Renu.}
-{312}{}{Líbí se ti ta hra? Je to skvìlá zábava.}
-{313}{}{Ještì jsem nemìl dobrou hru.}
-{314}{}{Potøebuju dobrou hru.}
-{315}{}{Aspoò, e neprohrávám.}
-{316}{}{Nikam nepùjdu.}
-{317}{}{Neprodìlávám.}
-{318}{}{Musíš hrát na èísla.}
-{319}{}{Vsázet jen na èervenou nebo èernou je špatnı.}
+{308}{}{DaÅ™Ã­ se mi celkem dobÅ™e. A co ty, jak jsi na tom?}
+{309}{}{DaÅ™Ã­ se mi lÃ­p neÅ¾ obvykle.}
+{310}{}{SkvÄ›lÃ½ mÃ­sto, nemyslÃ­Å¡?}
+{311}{}{Beckyny hracÃ­ stoly jsou lepÅ¡Ã­ neÅ¾ ty v New Renu.}
+{312}{}{LÃ­bÃ­ se ti ta hra? Je to skvÄ›lÃ¡ zÃ¡bava.}
+{313}{}{JeÅ¡tÄ› jsem nemÄ›l dobrou hru.}
+{314}{}{PotÅ™ebuju dobrou hru.}
+{315}{}{AspoÅˆ, Å¾e neprohrÃ¡vÃ¡m.}
+{316}{}{Nikam nepÅ¯jdu.}
+{317}{}{NeprodÄ›lÃ¡vÃ¡m.}
+{318}{}{MusÃ­Å¡ hrÃ¡t na ÄÃ­sla.}
+{319}{}{VsÃ¡zet jen na Äervenou nebo Äernou je Å¡patnÃ½.}
 {320}{}{Kostky mi nejdou.}
-{321}{}{Jsem na dnì a nevypadá to dobøe.}
-{322}{}{Doufám, e se ti daøí líp ne mnì.}
-{323}{}{U jsem mìl i lepší dny.}
-{324}{}{Vím, jak hrát poctivì.}
-{325}{}{Ta kulièka mì dneska vùbec neposlouchá.}
-{326}{}{Další vıplatní den je nadobro ztracen.}
-{327}{}{Jsem skoro na dnì!}
-{328}{}{Zatracenì. K èertu s tím.}
-{329}{}{Proè se to vdycky stane jenom mì?}
-{330}{}{Nemùu vyhrát.}
-{331}{}{Nenávidím tuhle hru.}
-{400}{}{Zatracenì, U Becky bylo široko daleko jedinı místo, kde se mohlo hrát!}
-{401}{}{Nepøibliuj se.}
-{402}{}{Nestøílej!}
-{403}{}{Nech nás o samotì, prosím.}
+{321}{}{Jsem na dnÄ› a nevypadÃ¡ to dobÅ™e.}
+{322}{}{DoufÃ¡m, Å¾e se ti daÅ™Ã­ lÃ­p neÅ¾ mnÄ›.}
+{323}{}{UÅ¾ jsem mÄ›l i lepÅ¡Ã­ dny.}
+{324}{}{VÃ­m, jak hrÃ¡t poctivÄ›.}
+{325}{}{Ta kuliÄka mÄ› dneska vÅ¯bec neposlouchÃ¡.}
+{326}{}{DalÅ¡Ã­ vÃ½platnÃ­ den je nadobro ztracen.}
+{327}{}{Jsem skoro na dnÄ›!}
+{328}{}{ZatracenÄ›. K Äertu s tÃ­m.}
+{329}{}{ProÄ se to vÅ¾dycky stane jenom mÄ›?}
+{330}{}{NemÅ¯Å¾u vyhrÃ¡t.}
+{331}{}{NenÃ¡vidÃ­m tuhle hru.}
+{400}{}{ZatracenÄ›, U Becky bylo Å¡iroko daleko jedinÃ½ mÃ­sto, kde se mohlo hrÃ¡t!}
+{401}{}{NepÅ™ibliÅ¾uj se.}
+{402}{}{NestÅ™Ã­lej!}
+{403}{}{Nech nÃ¡s o samotÄ›, prosÃ­m.}
 {500}{}{Nezastavuj se.}
-{501}{}{Jdi si po svıch.}
-{502}{}{TAK POJÏ, sedmièko!}
+{501}{}{Jdi si po svÃ½ch.}
+{502}{}{TAK POJÄ, sedmiÄko!}
 {503}{}{Ano!}
 {504}{}{Nezastavuj se!}
-{505}{}{Becky! Chystám se ti dneska vzít všechny tvoje peníze!}
-{506}{}{Juchùùù! Vítìz!}
-{507}{}{Ještì jednou se poøádnì odraz!}
+{505}{}{Becky! ChystÃ¡m se ti dneska vzÃ­t vÅ¡echny tvoje penÃ­ze!}
+{506}{}{JuchÅ¯Å¯Å¯! VÃ­tÄ›z!}
+{507}{}{JeÅ¡tÄ› jednou se poÅ™Ã¡dnÄ› odraz!}
 {508}{}{Ano!}
-{509}{}{Paráda!}
-{510}{}{Chci to vidìt ještì jednou.}
-{511}{}{Tak pojï.}
+{509}{}{ParÃ¡da!}
+{510}{}{Chci to vidÄ›t jeÅ¡tÄ› jednou.}
+{511}{}{Tak pojÄ.}
 {512}{}{To je to, co chci.}
 {513}{}{Skoro.}
-{514}{}{To není špatnı.}
+{514}{}{To nenÃ­ Å¡patnÃ½.}
 {515}{}{Jak se to stalo?}
 {516}{}{A sakra.}
 {517}{}{No whammies, no whammies. Stop!}
-{518}{}{No, u chápu, proè se ta hra tak jmenuje.}
-{519}{}{Potøebuju jenom jednu velkou vıhru.}
-{520}{}{No jasnì!}
-{521}{}{U zase?}
-{522}{}{To nevypadá dobøe.}
-{523}{}{Zatracená ruleta!}
-{524}{}{Becky! Tvoje hrací stoly mì zabíjí!}
-{525}{}{Ty kostky jsou cinknutı nebo co?}
-{526}{}{U ne!}
-{527}{}{Proè já?}
-{528}{}{Zatracenì! Tìsnì!}
-{529}{}{Ach, dobrı Boe, ZABIJ MÌ!}
-{530}{}{Nenávidím tuhle hru!}
-{531}{}{Zatracenì! To bylo moje èíslo!}
-{532}{}{Zase èerná!?!?}
-{600}{}{Pus mì!}
-{601}{}{Proè jsi to udìlal?}
-{602}{}{Pus mì!}
-{603}{}{Pøestaò s tím, jsem køehkı.}
+{518}{}{No, uÅ¾ chÃ¡pu, proÄ se ta hra tak jmenuje.}
+{519}{}{PotÅ™ebuju jenom jednu velkou vÃ½hru.}
+{520}{}{No jasnÄ›!}
+{521}{}{UÅ¾ zase?}
+{522}{}{To nevypadÃ¡ dobÅ™e.}
+{523}{}{ZatracenÃ¡ ruleta!}
+{524}{}{Becky! Tvoje hracÃ­ stoly mÄ› zabÃ­jÃ­!}
+{525}{}{Ty kostky jsou cinknutÃ½ nebo co?}
+{526}{}{UÅ¾ ne!}
+{527}{}{ProÄ jÃ¡?}
+{528}{}{ZatracenÄ›! TÄ›snÄ›!}
+{529}{}{Ach, dobrÃ½ BoÅ¾e, ZABIJ MÄš!}
+{530}{}{NenÃ¡vidÃ­m tuhle hru!}
+{531}{}{ZatracenÄ›! To bylo moje ÄÃ­slo!}
+{532}{}{Zase ÄernÃ¡!?!?}
+{600}{}{PusÅ¥ mÄ›!}
+{601}{}{ProÄ jsi to udÄ›lal?}
+{602}{}{PusÅ¥ mÄ›!}
+{603}{}{PÅ™estaÅˆ s tÃ­m, jsem kÅ™ehkÃ½.}
 {604}{}{I wouldn't do that to you.}

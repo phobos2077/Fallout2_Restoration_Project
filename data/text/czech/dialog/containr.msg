@@ -1,116 +1,116 @@
-{100}{}{Vidíš døevìnou bednu.}
-{101}{}{Vidíš kovovou skøíòku.}
-{102}{}{Vidíš masivní kontejner se zámkem odemykatelnım pomocí paklíèù a vysoce vıbušnou pastí umístìnou na zárubni kontejneru, kterou se mùeš pokusit odstranit.}
-{103}{}{Vidíš masivní kontejner se zámkem a vysoce vıbušnou pastí umístìnou na zárubni kontejneru, kterou se mùeš pokusit odstranit.}
-{104}{}{Vidíš masivní kontejner bez zjevného odemykacího zaøízení a vysoce vıbušnou pastí umístìnou na zárubni kontejneru, kterou se mùeš pokusit odstranit.}
-{105}{}{Vidíš masivní kontejner se starım, rezavım zámkem a vysoce vıbušnou pastí umístìnou na zárubni kontejneru, kterou se mùeš pokusit odstranit.}
-{106}{}{Vidíš masivní kontejner se zámkem odemykatelnım pomocí paklíèù a pastí umístìnou na zárubni kontejneru, kterou se mùeš pokusit zneškodnit.}
-{107}{}{Vidíš masivní kontejner se zámkem a pastí umístìnou na zárubni kontejneru, kterou se mùeš pokusit zneškodnit.}
-{108}{}{Vidíš masivní kontejner bez zjevného odemykacího zaøízení a pastí umístìnou na zárubni kontejneru, kterou se mùeš pokusit zneškodnit.}
-{109}{}{Vidíš masivní kontejner se starım, rezavım zámkem a pastí umístìnou na zárubni kontejneru, kterou se mùeš pokusit zneškodnit.}
-{110}{}{Vidíš masivní kontejner se zámkem odemykatelnım sadou paklíèù a kousek drátku, kterı èouhá ze zárubnì kontejneru, kterı se mùeš pokusit zneškodnit.}
-{111}{}{Vidíš masivní kontejner se zámkem a kousek drátku, kterı èouhá ze zárubnì kontejneru, kterı se mùeš pokusit zneškodnit.}
-{112}{}{Vidíš masivní kontejner bez zjevného odemykacího zaøízení a kousek drátku, kterı èouhá ze zárubnì kontejneru, kterı se mùeš pokusit odstranit.}
-{113}{}{Vidíš masivní kontejner se starım, rezavım zámkem a kousek drátku, kterı èouhá ze zárubnì kontejneru, kterı se mùeš pokusit odstranit.}
-{114}{}{Vidíš masivní kontejner se zámkem odemykatelnım pomocí paklíèù, kterı se mùeš pokusit vypáèit.}
-{115}{}{Vidíš masivní kontejner se zámkem, kterı se mùeš pokusit vypáèit.}
-{116}{}{Vidíš masivní kontejner bez zjevného odemykacího zaøízení, kterı se mùeš pokusit vypáèit.}
-{117}{}{Vidíš masivní kontejner se starım, rezavım zámkem, kterı se mùeš pokusit vypáèit.}
-{118}{}{Vidíš masivní kontejner se zámkem odemykatelnım pomocí paklíèù a vysoce vıbušnou pastí umístìnou na zárubni kontejneru.}
-{119}{}{Vidíš masivní kontejner se zámkem a vysoce vıbušnou pastí umístìnou na zárubni kontejneru.}
-{120}{}{Vidíš masivní kontejner bez zjevného odemykacího zaøízení a vysoce vıbušnou pastí umístìnou na zárubni kontejneru.}
-{121}{}{Vidíš masivní kontejner se starım, rezavım zámkem a vysoce vıbušnou pastí umístìnou na zárubni kontejneru.}
-{122}{}{Vidíš masivní kontejner se zámkem odemykatelnım pomocí paklíèù a pastí umístìnou na zárubni kontejneru.}
-{123}{}{Vidíš masivní kontejner se zámkem a pastí umístìnou na zárubni kontejneru.}
-{124}{}{Vidíš masivní kontejner bez zjevného odemykacího zaøízení a pastí umístìnou na zárubni kontejneru.}
-{125}{}{Vidíš masivní kontejner se starım a rezavım zámkem a pastí umístìnou na zárubni kontejneru.}
-{126}{}{Vidíš masivní kontejner se zámkem odemykatelnım pomocí paklíèù a kousek drátku, kterı vyèuhuje ze zárubnì kontejneru.}
-{127}{}{Vidíš masivní kontejner se zámkem a kousek drátku, kterı vyèuhuje ze zárubnì kontejneru.}
-{128}{}{Vidíš masivní kontejner bez zjevného odemykacího zaøízení a kousek drátku, kterı vyèuhuje ze zárubnì kontejneru.}
-{129}{}{Vidíš masivní kontejner se starım, rezavım zámkem a kousek drátku, kterı vyèuhuje ze zárubnì kontejneru.}
-{130}{}{Vidíš masivní kontejner se zámkem odemykatelnım pomocí paklíèù.}
-{131}{}{Vidíš masivní kontejner se zámkem.}
-{132}{}{Vidíš masivní kontejner bez zjevného odemykacího zaøízení.}
-{133}{}{Vidíš masivní kontejner se starım, rezavım zámkem.}
-{134}{}{Vidíš ponièenı kontejner se zámkem odemykatelnım pomocí paklíèù a vysoce vıbušnou pastí umístìnou na zárubni kontejneru.}
-{135}{}{Vidíš ponièenı kontejner se zámkem a vysoce vıbušnou pastí umístìnou na zárubni kontejneru.}
-{136}{}{Vidíš ponièenı kontejner bez zjevného odemykacího zaøízení a vysoce vıbušnou pastí umístìnou na zárubni kontejneru.}
-{137}{}{Vidíš ponièenı kontejner se starım, rezavım zámkem a vysoce vıbušnou pastí umístìnou na zárubni kontejneru.}
-{138}{}{Vidíš ponièenı kontejner se zámkem odemykatelnım pomocí paklíèù a pastí umístìnou na zárubni kontejneru.}
-{139}{}{Vidíš ponièenı kontejner se zámkem a pastí umístìnou na zárubni kontejneru.}
-{140}{}{Vidíš ponièenı kontejner bez zjevného odemykacího zaøízení a pastí umístìnou na zárubni kontejneru.}
-{141}{}{Vidíš ponièenı kontejner se starım, rezavım zámkem a pastí umístìnou na zárubni kontejneru.}
-{142}{}{Vidíš ponièenı kontejner se zámkem demykatelnım pomocí paklíèù a kousek drátku, kterı vyèuhuje ze zárubnì kontejneru.}
-{143}{}{Vidíš ponièenı kontejner se zámkem a kousek drátku, kterı vyèuhuje ze zárubnì kontejneru.}
-{144}{}{Vidíš ponièenı kontejner bez zjevného odemykacího zaøízení a kousek drátku, kterı vyèuhuje ze zárubnì kontejneru.}
-{145}{}{Vidíš ponièenı kontejner se starım, rezavım zámkem a kousek drátku, kterı vyèuhuje ze zárubnì kontejneru.}
-{146}{}{Vidíš ponièenı kontejner se zámkem odemykatelnım pomocí paklíèù.}
-{147}{}{Vidíš ponièenı kontejner se zámkem.}
-{148}{}{Vidíš ponièenı kontejner bez zjevného odemykacího zaøízení.}
-{149}{}{Vidíš ponièenı kontejner se starım, rezavım zámkem.}
-{150}{}{Vidíš starı kontejner se zámkem odemykatelnım pomocí paklíèù a vysoce vıbušnou pastí umístìnou na zárubni kontejneru.}
-{151}{}{Vidíš starı kontejner se zámkem a vysoce vıbušnou pastí umístìnou na zárubni kontejneru.}
-{152}{}{Vidíš starı kontejner bez zjevného odemykacího zaøízení a vysoce vıbušnou pastí umístìnou na zárubni kontejneru.}
-{153}{}{Vidíš starı kontejner se starım, rezavım zámkem a vysoce vıbušnou pastí umístìnou na zárubni kontejneru.}
-{154}{}{Vidíš starı kontejner se zámkem odemykatelnım pomocí paklíèù a pastí umístìnou na zárubni kontejneru.}
-{155}{}{Vidíš starı kontejner se zámkem a pastí umístìnou na zárubni kontejneru.}
-{156}{}{Vidíš starı kontejner bez zjevného odemykacího zaøízení a pastí umístìnou na zárubni kontejneru.}
-{157}{}{Vidíš starı kontejner se starım, rezavım zámkem a pastí umístìnou na zárubni kontejneru.}
-{158}{}{Vidíš starı kontejner se zámkem odemykatelnım pomocí paklíèù a kousek drátku, kterı vyèuhuje ze zárubnì kontejneru.}
-{159}{}{Vidíš starı kontejner se zámkem a kousek drátku, kterı vyèuhuje ze zárubnì kontejneru.}
-{160}{}{Vidíš starı kontejner bez zjevného odemykacího zaøízení a kousek drátku, kterı vyèuhuje ze zárubnì kontejneru.}
-{161}{}{Vidíš starı kontejner se starım, rezavım zámkem a kousek drátku, kterı vyèuhuje ze zárubnì kontejneru.}
-{162}{}{Vidíš starı kontejner se zámkem, kterı mùeš odemknout pomocí paklíèù.}
-{163}{}{Vidíš starı kontejner se zámkem.}
-{164}{}{Vidíš starı kontejner bez zjevného odemykacího zaøízení.}
-{165}{}{Vidíš starı kontejner se starım, rezavım zámkem.}
-{166}{}{Aktivuješ past a ta tì zasáhla za }
-{167}{}{ hit bodù.}
-{168}{}{ aktivuje past a byl zasaen za }
-{169}{}{ hit bodù.}
-{170}{}{Úspìšnì odemykáš zámek kontejneru.}
-{171}{}{Díky své nešikovnosti se zámek kontejneru zasekl.}
-{172}{}{Nepodaøilo se ti kontejner odemknout.}
-{173}{}{ úspìšnì odemyká zámek kontejneru.}
-{174}{}{ nezkušeností zpùsobí zaseknutí zámku kontejneru.}
-{175}{}{ se nepodaøilo dveøe zamknout.}
-{176}{}{Podaøilo se ti vypáèit zámek kontejneru.}
-{177}{}{Pøi páèení zámku sis poranil záda a to ti zpùsobilo jeden bod poškození.}
-{178}{}{Pøi páèení zámku sis poranil záda a to ti zpùsobilo poškození za }
-{179}{}{ hit bodù.}
-{180}{}{Na vypáèení tohoto zámku nemáš dostateènou sílu.}
-{181}{}{ se podaøilo vypáèit zámek kontejneru.}
-{182}{}{ si poranil záda, kdy se pokoušel vypáèit zámek, co mu zpùsobilo jeden bod poškození.}
-{183}{}{ si poranil záda, kdy se pokoušel vypáèit zámek, co mu zpùsobilo poškození za }
-{184}{}{ hit bodù.}
-{185}{}{ nemá na vypáèení zámku dostateènou sílu.}
-{186}{}{ si poranila záda, kdy se pokoušela vypáèit zámek, co jí zpùsobilo jeden bod poškození.}
-{187}{}{ si poranila záda, kdy se pokoušela vypáèit zámek, co jí zpùsobilo poškození za }
-{188}{}{ hit bodù.}
-{189}{}{Úspìšnì zamykáš kontejner.}
-{190}{}{Nepodaøilo se ti kontejner zamknout.}
-{191}{}{ úspìšnì zamyká kontejner.}
-{192}{}{ se nepodaøilo kontejner zamknout.}
-{193}{}{Vıbuch na tomto kontejneru nezanechal ani škrábnutí.}
-{194}{}{Nacházíš na kontejneru past.}
-{195}{}{Nepodaøilo se ti na kontejneru najít past.}
-{196}{}{Zkušenì odstraòuješ past.}
+{100}{}{VidÃ­Å¡ dÅ™evÄ›nou bednu.}
+{101}{}{VidÃ­Å¡ kovovou skÅ™Ã­Åˆku.}
+{102}{}{VidÃ­Å¡ masivnÃ­ kontejner se zÃ¡mkem odemykatelnÃ½m pomocÃ­ paklÃ­ÄÅ¯ a vysoce vÃ½buÅ¡nou pastÃ­ umÃ­stÄ›nou na zÃ¡rubni kontejneru, kterou se mÅ¯Å¾eÅ¡ pokusit odstranit.}
+{103}{}{VidÃ­Å¡ masivnÃ­ kontejner se zÃ¡mkem a vysoce vÃ½buÅ¡nou pastÃ­ umÃ­stÄ›nou na zÃ¡rubni kontejneru, kterou se mÅ¯Å¾eÅ¡ pokusit odstranit.}
+{104}{}{VidÃ­Å¡ masivnÃ­ kontejner bez zjevnÃ©ho odemykacÃ­ho zaÅ™Ã­zenÃ­ a vysoce vÃ½buÅ¡nou pastÃ­ umÃ­stÄ›nou na zÃ¡rubni kontejneru, kterou se mÅ¯Å¾eÅ¡ pokusit odstranit.}
+{105}{}{VidÃ­Å¡ masivnÃ­ kontejner se starÃ½m, rezavÃ½m zÃ¡mkem a vysoce vÃ½buÅ¡nou pastÃ­ umÃ­stÄ›nou na zÃ¡rubni kontejneru, kterou se mÅ¯Å¾eÅ¡ pokusit odstranit.}
+{106}{}{VidÃ­Å¡ masivnÃ­ kontejner se zÃ¡mkem odemykatelnÃ½m pomocÃ­ paklÃ­ÄÅ¯ a pastÃ­ umÃ­stÄ›nou na zÃ¡rubni kontejneru, kterou se mÅ¯Å¾eÅ¡ pokusit zneÅ¡kodnit.}
+{107}{}{VidÃ­Å¡ masivnÃ­ kontejner se zÃ¡mkem a pastÃ­ umÃ­stÄ›nou na zÃ¡rubni kontejneru, kterou se mÅ¯Å¾eÅ¡ pokusit zneÅ¡kodnit.}
+{108}{}{VidÃ­Å¡ masivnÃ­ kontejner bez zjevnÃ©ho odemykacÃ­ho zaÅ™Ã­zenÃ­ a pastÃ­ umÃ­stÄ›nou na zÃ¡rubni kontejneru, kterou se mÅ¯Å¾eÅ¡ pokusit zneÅ¡kodnit.}
+{109}{}{VidÃ­Å¡ masivnÃ­ kontejner se starÃ½m, rezavÃ½m zÃ¡mkem a pastÃ­ umÃ­stÄ›nou na zÃ¡rubni kontejneru, kterou se mÅ¯Å¾eÅ¡ pokusit zneÅ¡kodnit.}
+{110}{}{VidÃ­Å¡ masivnÃ­ kontejner se zÃ¡mkem odemykatelnÃ½m sadou paklÃ­ÄÅ¯ a kousek drÃ¡tku, kterÃ½ ÄouhÃ¡ ze zÃ¡rubnÄ› kontejneru, kterÃ½ se mÅ¯Å¾eÅ¡ pokusit zneÅ¡kodnit.}
+{111}{}{VidÃ­Å¡ masivnÃ­ kontejner se zÃ¡mkem a kousek drÃ¡tku, kterÃ½ ÄouhÃ¡ ze zÃ¡rubnÄ› kontejneru, kterÃ½ se mÅ¯Å¾eÅ¡ pokusit zneÅ¡kodnit.}
+{112}{}{VidÃ­Å¡ masivnÃ­ kontejner bez zjevnÃ©ho odemykacÃ­ho zaÅ™Ã­zenÃ­ a kousek drÃ¡tku, kterÃ½ ÄouhÃ¡ ze zÃ¡rubnÄ› kontejneru, kterÃ½ se mÅ¯Å¾eÅ¡ pokusit odstranit.}
+{113}{}{VidÃ­Å¡ masivnÃ­ kontejner se starÃ½m, rezavÃ½m zÃ¡mkem a kousek drÃ¡tku, kterÃ½ ÄouhÃ¡ ze zÃ¡rubnÄ› kontejneru, kterÃ½ se mÅ¯Å¾eÅ¡ pokusit odstranit.}
+{114}{}{VidÃ­Å¡ masivnÃ­ kontejner se zÃ¡mkem odemykatelnÃ½m pomocÃ­ paklÃ­ÄÅ¯, kterÃ½ se mÅ¯Å¾eÅ¡ pokusit vypÃ¡Äit.}
+{115}{}{VidÃ­Å¡ masivnÃ­ kontejner se zÃ¡mkem, kterÃ½ se mÅ¯Å¾eÅ¡ pokusit vypÃ¡Äit.}
+{116}{}{VidÃ­Å¡ masivnÃ­ kontejner bez zjevnÃ©ho odemykacÃ­ho zaÅ™Ã­zenÃ­, kterÃ½ se mÅ¯Å¾eÅ¡ pokusit vypÃ¡Äit.}
+{117}{}{VidÃ­Å¡ masivnÃ­ kontejner se starÃ½m, rezavÃ½m zÃ¡mkem, kterÃ½ se mÅ¯Å¾eÅ¡ pokusit vypÃ¡Äit.}
+{118}{}{VidÃ­Å¡ masivnÃ­ kontejner se zÃ¡mkem odemykatelnÃ½m pomocÃ­ paklÃ­ÄÅ¯ a vysoce vÃ½buÅ¡nou pastÃ­ umÃ­stÄ›nou na zÃ¡rubni kontejneru.}
+{119}{}{VidÃ­Å¡ masivnÃ­ kontejner se zÃ¡mkem a vysoce vÃ½buÅ¡nou pastÃ­ umÃ­stÄ›nou na zÃ¡rubni kontejneru.}
+{120}{}{VidÃ­Å¡ masivnÃ­ kontejner bez zjevnÃ©ho odemykacÃ­ho zaÅ™Ã­zenÃ­ a vysoce vÃ½buÅ¡nou pastÃ­ umÃ­stÄ›nou na zÃ¡rubni kontejneru.}
+{121}{}{VidÃ­Å¡ masivnÃ­ kontejner se starÃ½m, rezavÃ½m zÃ¡mkem a vysoce vÃ½buÅ¡nou pastÃ­ umÃ­stÄ›nou na zÃ¡rubni kontejneru.}
+{122}{}{VidÃ­Å¡ masivnÃ­ kontejner se zÃ¡mkem odemykatelnÃ½m pomocÃ­ paklÃ­ÄÅ¯ a pastÃ­ umÃ­stÄ›nou na zÃ¡rubni kontejneru.}
+{123}{}{VidÃ­Å¡ masivnÃ­ kontejner se zÃ¡mkem a pastÃ­ umÃ­stÄ›nou na zÃ¡rubni kontejneru.}
+{124}{}{VidÃ­Å¡ masivnÃ­ kontejner bez zjevnÃ©ho odemykacÃ­ho zaÅ™Ã­zenÃ­ a pastÃ­ umÃ­stÄ›nou na zÃ¡rubni kontejneru.}
+{125}{}{VidÃ­Å¡ masivnÃ­ kontejner se starÃ½m a rezavÃ½m zÃ¡mkem a pastÃ­ umÃ­stÄ›nou na zÃ¡rubni kontejneru.}
+{126}{}{VidÃ­Å¡ masivnÃ­ kontejner se zÃ¡mkem odemykatelnÃ½m pomocÃ­ paklÃ­ÄÅ¯ a kousek drÃ¡tku, kterÃ½ vyÄuhuje ze zÃ¡rubnÄ› kontejneru.}
+{127}{}{VidÃ­Å¡ masivnÃ­ kontejner se zÃ¡mkem a kousek drÃ¡tku, kterÃ½ vyÄuhuje ze zÃ¡rubnÄ› kontejneru.}
+{128}{}{VidÃ­Å¡ masivnÃ­ kontejner bez zjevnÃ©ho odemykacÃ­ho zaÅ™Ã­zenÃ­ a kousek drÃ¡tku, kterÃ½ vyÄuhuje ze zÃ¡rubnÄ› kontejneru.}
+{129}{}{VidÃ­Å¡ masivnÃ­ kontejner se starÃ½m, rezavÃ½m zÃ¡mkem a kousek drÃ¡tku, kterÃ½ vyÄuhuje ze zÃ¡rubnÄ› kontejneru.}
+{130}{}{VidÃ­Å¡ masivnÃ­ kontejner se zÃ¡mkem odemykatelnÃ½m pomocÃ­ paklÃ­ÄÅ¯.}
+{131}{}{VidÃ­Å¡ masivnÃ­ kontejner se zÃ¡mkem.}
+{132}{}{VidÃ­Å¡ masivnÃ­ kontejner bez zjevnÃ©ho odemykacÃ­ho zaÅ™Ã­zenÃ­.}
+{133}{}{VidÃ­Å¡ masivnÃ­ kontejner se starÃ½m, rezavÃ½m zÃ¡mkem.}
+{134}{}{VidÃ­Å¡ poniÄenÃ½ kontejner se zÃ¡mkem odemykatelnÃ½m pomocÃ­ paklÃ­ÄÅ¯ a vysoce vÃ½buÅ¡nou pastÃ­ umÃ­stÄ›nou na zÃ¡rubni kontejneru.}
+{135}{}{VidÃ­Å¡ poniÄenÃ½ kontejner se zÃ¡mkem a vysoce vÃ½buÅ¡nou pastÃ­ umÃ­stÄ›nou na zÃ¡rubni kontejneru.}
+{136}{}{VidÃ­Å¡ poniÄenÃ½ kontejner bez zjevnÃ©ho odemykacÃ­ho zaÅ™Ã­zenÃ­ a vysoce vÃ½buÅ¡nou pastÃ­ umÃ­stÄ›nou na zÃ¡rubni kontejneru.}
+{137}{}{VidÃ­Å¡ poniÄenÃ½ kontejner se starÃ½m, rezavÃ½m zÃ¡mkem a vysoce vÃ½buÅ¡nou pastÃ­ umÃ­stÄ›nou na zÃ¡rubni kontejneru.}
+{138}{}{VidÃ­Å¡ poniÄenÃ½ kontejner se zÃ¡mkem odemykatelnÃ½m pomocÃ­ paklÃ­ÄÅ¯ a pastÃ­ umÃ­stÄ›nou na zÃ¡rubni kontejneru.}
+{139}{}{VidÃ­Å¡ poniÄenÃ½ kontejner se zÃ¡mkem a pastÃ­ umÃ­stÄ›nou na zÃ¡rubni kontejneru.}
+{140}{}{VidÃ­Å¡ poniÄenÃ½ kontejner bez zjevnÃ©ho odemykacÃ­ho zaÅ™Ã­zenÃ­ a pastÃ­ umÃ­stÄ›nou na zÃ¡rubni kontejneru.}
+{141}{}{VidÃ­Å¡ poniÄenÃ½ kontejner se starÃ½m, rezavÃ½m zÃ¡mkem a pastÃ­ umÃ­stÄ›nou na zÃ¡rubni kontejneru.}
+{142}{}{VidÃ­Å¡ poniÄenÃ½ kontejner se zÃ¡mkem demykatelnÃ½m pomocÃ­ paklÃ­ÄÅ¯ a kousek drÃ¡tku, kterÃ½ vyÄuhuje ze zÃ¡rubnÄ› kontejneru.}
+{143}{}{VidÃ­Å¡ poniÄenÃ½ kontejner se zÃ¡mkem a kousek drÃ¡tku, kterÃ½ vyÄuhuje ze zÃ¡rubnÄ› kontejneru.}
+{144}{}{VidÃ­Å¡ poniÄenÃ½ kontejner bez zjevnÃ©ho odemykacÃ­ho zaÅ™Ã­zenÃ­ a kousek drÃ¡tku, kterÃ½ vyÄuhuje ze zÃ¡rubnÄ› kontejneru.}
+{145}{}{VidÃ­Å¡ poniÄenÃ½ kontejner se starÃ½m, rezavÃ½m zÃ¡mkem a kousek drÃ¡tku, kterÃ½ vyÄuhuje ze zÃ¡rubnÄ› kontejneru.}
+{146}{}{VidÃ­Å¡ poniÄenÃ½ kontejner se zÃ¡mkem odemykatelnÃ½m pomocÃ­ paklÃ­ÄÅ¯.}
+{147}{}{VidÃ­Å¡ poniÄenÃ½ kontejner se zÃ¡mkem.}
+{148}{}{VidÃ­Å¡ poniÄenÃ½ kontejner bez zjevnÃ©ho odemykacÃ­ho zaÅ™Ã­zenÃ­.}
+{149}{}{VidÃ­Å¡ poniÄenÃ½ kontejner se starÃ½m, rezavÃ½m zÃ¡mkem.}
+{150}{}{VidÃ­Å¡ starÃ½ kontejner se zÃ¡mkem odemykatelnÃ½m pomocÃ­ paklÃ­ÄÅ¯ a vysoce vÃ½buÅ¡nou pastÃ­ umÃ­stÄ›nou na zÃ¡rubni kontejneru.}
+{151}{}{VidÃ­Å¡ starÃ½ kontejner se zÃ¡mkem a vysoce vÃ½buÅ¡nou pastÃ­ umÃ­stÄ›nou na zÃ¡rubni kontejneru.}
+{152}{}{VidÃ­Å¡ starÃ½ kontejner bez zjevnÃ©ho odemykacÃ­ho zaÅ™Ã­zenÃ­ a vysoce vÃ½buÅ¡nou pastÃ­ umÃ­stÄ›nou na zÃ¡rubni kontejneru.}
+{153}{}{VidÃ­Å¡ starÃ½ kontejner se starÃ½m, rezavÃ½m zÃ¡mkem a vysoce vÃ½buÅ¡nou pastÃ­ umÃ­stÄ›nou na zÃ¡rubni kontejneru.}
+{154}{}{VidÃ­Å¡ starÃ½ kontejner se zÃ¡mkem odemykatelnÃ½m pomocÃ­ paklÃ­ÄÅ¯ a pastÃ­ umÃ­stÄ›nou na zÃ¡rubni kontejneru.}
+{155}{}{VidÃ­Å¡ starÃ½ kontejner se zÃ¡mkem a pastÃ­ umÃ­stÄ›nou na zÃ¡rubni kontejneru.}
+{156}{}{VidÃ­Å¡ starÃ½ kontejner bez zjevnÃ©ho odemykacÃ­ho zaÅ™Ã­zenÃ­ a pastÃ­ umÃ­stÄ›nou na zÃ¡rubni kontejneru.}
+{157}{}{VidÃ­Å¡ starÃ½ kontejner se starÃ½m, rezavÃ½m zÃ¡mkem a pastÃ­ umÃ­stÄ›nou na zÃ¡rubni kontejneru.}
+{158}{}{VidÃ­Å¡ starÃ½ kontejner se zÃ¡mkem odemykatelnÃ½m pomocÃ­ paklÃ­ÄÅ¯ a kousek drÃ¡tku, kterÃ½ vyÄuhuje ze zÃ¡rubnÄ› kontejneru.}
+{159}{}{VidÃ­Å¡ starÃ½ kontejner se zÃ¡mkem a kousek drÃ¡tku, kterÃ½ vyÄuhuje ze zÃ¡rubnÄ› kontejneru.}
+{160}{}{VidÃ­Å¡ starÃ½ kontejner bez zjevnÃ©ho odemykacÃ­ho zaÅ™Ã­zenÃ­ a kousek drÃ¡tku, kterÃ½ vyÄuhuje ze zÃ¡rubnÄ› kontejneru.}
+{161}{}{VidÃ­Å¡ starÃ½ kontejner se starÃ½m, rezavÃ½m zÃ¡mkem a kousek drÃ¡tku, kterÃ½ vyÄuhuje ze zÃ¡rubnÄ› kontejneru.}
+{162}{}{VidÃ­Å¡ starÃ½ kontejner se zÃ¡mkem, kterÃ½ mÅ¯Å¾eÅ¡ odemknout pomocÃ­ paklÃ­ÄÅ¯.}
+{163}{}{VidÃ­Å¡ starÃ½ kontejner se zÃ¡mkem.}
+{164}{}{VidÃ­Å¡ starÃ½ kontejner bez zjevnÃ©ho odemykacÃ­ho zaÅ™Ã­zenÃ­.}
+{165}{}{VidÃ­Å¡ starÃ½ kontejner se starÃ½m, rezavÃ½m zÃ¡mkem.}
+{166}{}{AktivujeÅ¡ past a ta tÄ› zasÃ¡hla za }
+{167}{}{ hit bodÅ¯.}
+{168}{}{ aktivuje past a byl zasaÅ¾en za }
+{169}{}{ hit bodÅ¯.}
+{170}{}{ÃšspÄ›Å¡nÄ› odemykÃ¡Å¡ zÃ¡mek kontejneru.}
+{171}{}{DÃ­ky svÃ© neÅ¡ikovnosti se zÃ¡mek kontejneru zasekl.}
+{172}{}{NepodaÅ™ilo se ti kontejner odemknout.}
+{173}{}{ ÃºspÄ›Å¡nÄ› odemykÃ¡ zÃ¡mek kontejneru.}
+{174}{}{ nezkuÅ¡enostÃ­ zpÅ¯sobÃ­ zaseknutÃ­ zÃ¡mku kontejneru.}
+{175}{}{ se nepodaÅ™ilo dveÅ™e zamknout.}
+{176}{}{PodaÅ™ilo se ti vypÃ¡Äit zÃ¡mek kontejneru.}
+{177}{}{PÅ™i pÃ¡ÄenÃ­ zÃ¡mku sis poranil zÃ¡da a to ti zpÅ¯sobilo jeden bod poÅ¡kozenÃ­.}
+{178}{}{PÅ™i pÃ¡ÄenÃ­ zÃ¡mku sis poranil zÃ¡da a to ti zpÅ¯sobilo poÅ¡kozenÃ­ za }
+{179}{}{ hit bodÅ¯.}
+{180}{}{Na vypÃ¡ÄenÃ­ tohoto zÃ¡mku nemÃ¡Å¡ dostateÄnou sÃ­lu.}
+{181}{}{ se podaÅ™ilo vypÃ¡Äit zÃ¡mek kontejneru.}
+{182}{}{ si poranil zÃ¡da, kdyÅ¾ se pokouÅ¡el vypÃ¡Äit zÃ¡mek, coÅ¾ mu zpÅ¯sobilo jeden bod poÅ¡kozenÃ­.}
+{183}{}{ si poranil zÃ¡da, kdyÅ¾ se pokouÅ¡el vypÃ¡Äit zÃ¡mek, coÅ¾ mu zpÅ¯sobilo poÅ¡kozenÃ­ za }
+{184}{}{ hit bodÅ¯.}
+{185}{}{ nemÃ¡ na vypÃ¡ÄenÃ­ zÃ¡mku dostateÄnou sÃ­lu.}
+{186}{}{ si poranila zÃ¡da, kdyÅ¾ se pokouÅ¡ela vypÃ¡Äit zÃ¡mek, coÅ¾ jÃ­ zpÅ¯sobilo jeden bod poÅ¡kozenÃ­.}
+{187}{}{ si poranila zÃ¡da, kdyÅ¾ se pokouÅ¡ela vypÃ¡Äit zÃ¡mek, coÅ¾ jÃ­ zpÅ¯sobilo poÅ¡kozenÃ­ za }
+{188}{}{ hit bodÅ¯.}
+{189}{}{ÃšspÄ›Å¡nÄ› zamykÃ¡Å¡ kontejner.}
+{190}{}{NepodaÅ™ilo se ti kontejner zamknout.}
+{191}{}{ ÃºspÄ›Å¡nÄ› zamykÃ¡ kontejner.}
+{192}{}{ se nepodaÅ™ilo kontejner zamknout.}
+{193}{}{VÃ½buch na tomto kontejneru nezanechal ani Å¡krÃ¡bnutÃ­.}
+{194}{}{NachÃ¡zÃ­Å¡ na kontejneru past.}
+{195}{}{NepodaÅ™ilo se ti na kontejneru najÃ­t past.}
+{196}{}{ZkuÅ¡enÄ› odstraÅˆujeÅ¡ past.}
 {198}{}{Nepovedlo se ti odstranit past.}
-{199}{}{ nachází na kontejneru past.}
-{200}{}{ se nepodaøilo najít na kontejneru past.}
-{201}{}{ zkušenì odstraòuje past.}
-{202}{}{ se nepodaøilo zneškodnit past na dveøích.}
-{203}{}{Zdá se, e ten kontejner je zamèenı.}
-{204}{}{Všiml sis pasti v zárubni kontejneru.}
-{205}{}{ objevil past v zárubni kontejneru.}
-{206}{}{Na tento kontejner nemùeš umístit past, protoe je otevøenı.}
-{207}{}{ nemùe na tento kontejner umístit past, protoe je otevøenı.}
-{208}{}{Zkušenì umisuješ past na kontejner.}
-{209}{}{Nepodaøilo se ti umístit past na kontejner.}
-{210}{}{ zkušenì umisuje past na kontejner.}
-{211}{}{ se nepodaøilo umístit past na kontejner.}
-{212}{}{Vidíš lednièku.}
-{400}{}{Odemykáš kontejner.}
+{199}{}{ nachÃ¡zÃ­ na kontejneru past.}
+{200}{}{ se nepodaÅ™ilo najÃ­t na kontejneru past.}
+{201}{}{ zkuÅ¡enÄ› odstraÅˆuje past.}
+{202}{}{ se nepodaÅ™ilo zneÅ¡kodnit past na dveÅ™Ã­ch.}
+{203}{}{ZdÃ¡ se, Å¾e ten kontejner je zamÄenÃ½.}
+{204}{}{VÅ¡iml sis pasti v zÃ¡rubni kontejneru.}
+{205}{}{ objevil past v zÃ¡rubni kontejneru.}
+{206}{}{Na tento kontejner nemÅ¯Å¾eÅ¡ umÃ­stit past, protoÅ¾e je otevÅ™enÃ½.}
+{207}{}{ nemÅ¯Å¾e na tento kontejner umÃ­stit past, protoÅ¾e je otevÅ™enÃ½.}
+{208}{}{ZkuÅ¡enÄ› umisÅ¥ujeÅ¡ past na kontejner.}
+{209}{}{NepodaÅ™ilo se ti umÃ­stit past na kontejner.}
+{210}{}{ zkuÅ¡enÄ› umisÅ¥uje past na kontejner.}
+{211}{}{ se nepodaÅ™ilo umÃ­stit past na kontejner.}
+{212}{}{VidÃ­Å¡ ledniÄku.}
+{400}{}{OdemykÃ¡Å¡ kontejner.}
 {601}{}{It is open, dummy.}
 {610}{}{You fail spectacularly, and the explosive goes off prematurely.}
 {611}{}{ fails spectacularly, and the explosive goes off prematurely.}

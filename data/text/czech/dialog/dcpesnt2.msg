@@ -1,9 +1,9 @@
-{100}{}{Vidíš obyvatelku Denu.}
-{101}{}{Vidíš obyvatelku Denu.}
-{200}{}{Ahoj a vítej v... hej! Ty jsi ten, kterı udìlal tohle místo obyvatelnìjší. Obyvatelé Denu opravdu oceòují, co jsi pro nás udìlal.}
-{201}{}{Bylo mi potìšením. Jak se daøí dìtem?}
-{202}{}{Mají se dobøe. Díky tobì u nejsou na ulici a mají kde ít. Squatteøi, s kterımi ses domluvil, jsou pro tohle místo taky velkım pøínosem. Ještì jednou díky za všechno!}
-{203}{}{Mají se dobøe. Díky tobì u nejsou na ulici a mají kde ít. Ještì jednou díky za všechno!}
-{204}{}{Rádo se stalo. Mìjte se.}
-{205}{}{Ahoj! Chceš s nìèím pomoct?}
-{206}{}{Ne ne, jen se tu rozhlíím.}
+{100}{}{VidÃ­Å¡ obyvatelku Denu.}
+{101}{}{VidÃ­Å¡ obyvatelku Denu.}
+{200}{}{Ahoj a vÃ­tej v... hej! Ty jsi ten, kterÃ½ udÄ›lal tohle mÃ­sto obyvatelnÄ›jÅ¡Ã­. ObyvatelÃ© Denu opravdu oceÅˆujÃ­, co jsi pro nÃ¡s udÄ›lal.}
+{201}{}{Bylo mi potÄ›Å¡enÃ­m. Jak se daÅ™Ã­ dÄ›tem?}
+{202}{}{MajÃ­ se dobÅ™e. DÃ­ky tobÄ› uÅ¾ nejsou na ulici a majÃ­ kde Å¾Ã­t. SquatteÅ™i, s kterÃ½mi ses domluvil, jsou pro tohle mÃ­sto taky velkÃ½m pÅ™Ã­nosem. JeÅ¡tÄ› jednou dÃ­ky za vÅ¡echno!}
+{203}{}{MajÃ­ se dobÅ™e. DÃ­ky tobÄ› uÅ¾ nejsou na ulici a majÃ­ kde Å¾Ã­t. JeÅ¡tÄ› jednou dÃ­ky za vÅ¡echno!}
+{204}{}{RÃ¡do se stalo. MÄ›jte se.}
+{205}{}{Ahoj! ChceÅ¡ s nÄ›ÄÃ­m pomoct?}
+{206}{}{Ne ne, jen se tu rozhlÃ­Å¾Ã­m.}

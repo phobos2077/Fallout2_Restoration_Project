@@ -1,3 +1,3 @@
-{100}{}{Vidíš geckona.}
-{101}{}{Vidíš geckona pokrytého kusy kamení. Vypadá opravdu naštvanì.}
-{200}{}{Zámìrnì jsi nechal zranìného a bezbranného mue umøít. Na tváøi se ti vytvoøil škodolibı úsmìv.}
+{100}{}{VidÃ­Å¡ geckona.}
+{101}{}{VidÃ­Å¡ geckona pokrytÃ©ho kusy kamenÃ­. VypadÃ¡ opravdu naÅ¡tvanÄ›.}
+{200}{}{ZÃ¡mÄ›rnÄ› jsi nechal zranÄ›nÃ©ho a bezbrannÃ©ho muÅ¾e umÅ™Ã­t. Na tvÃ¡Å™i se ti vytvoÅ™il Å¡kodolibÃ½ ÃºsmÄ›v.}

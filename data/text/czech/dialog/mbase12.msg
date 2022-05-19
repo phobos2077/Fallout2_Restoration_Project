@@ -1,1 +1,1 @@
-{100}{}{Stìny této jeskynì jsou kombinací pøírodního kamene a ruènì vybudovanıch zdí. Vypadá to, e tuto základnu znièila pøed dávnou dobou obrovská exploze.}
+{100}{}{StÄ›ny tÃ©to jeskynÄ› jsou kombinacÃ­ pÅ™Ã­rodnÃ­ho kamene a ruÄnÄ› vybudovanÃ½ch zdÃ­. VypadÃ¡ to, Å¾e tuto zÃ¡kladnu zniÄila pÅ™ed dÃ¡vnou dobou obrovskÃ¡ exploze.}

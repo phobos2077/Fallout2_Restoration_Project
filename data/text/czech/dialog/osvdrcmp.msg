@@ -1,2 +1,2 @@
-{100}{}{Vidíš terminál od dveøí k Vaultu.}
-{101}{}{Vypadá to jako poèítaè ovládající nedaleké dveøe.}
+{100}{}{VidÃ­Å¡ terminÃ¡l od dveÅ™Ã­ k Vaultu.}
+{101}{}{VypadÃ¡ to jako poÄÃ­taÄ ovlÃ¡dajÃ­cÃ­ nedalekÃ© dveÅ™e.}

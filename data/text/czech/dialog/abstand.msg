@@ -1,11 +1,11 @@
-{100}{}{Vidíš nìjakého mue.}
-{101}{}{Vidíš enu.}
-{102}{}{Je obyvatelem Opatství.}
-{103}{}{Je obyvatelkou Opatství.}
-{200}{}{Vítej, cizinèe.}
-{201}{}{Mír s tebou.}
-{202}{}{Tohle místo je tak hezké!}
+{100}{}{VidÃ­Å¡ nÄ›jakÃ©ho muÅ¾e.}
+{101}{}{VidÃ­Å¡ Å¾enu.}
+{102}{}{Je obyvatelem OpatstvÃ­.}
+{103}{}{Je obyvatelkou OpatstvÃ­.}
+{200}{}{VÃ­tej, cizinÄe.}
+{201}{}{MÃ­r s tebou.}
+{202}{}{Tohle mÃ­sto je tak hezkÃ©!}
 {203}{}{Ahoj.}
-{204}{}{Krásné poèasí.}
-{205}{}{Dávej si v pustinì pozor.}
-{500}{}{CHMATÁKU!}
+{204}{}{KrÃ¡snÃ© poÄasÃ­.}
+{205}{}{DÃ¡vej si v pustinÄ› pozor.}
+{500}{}{CHMATÃKU!}

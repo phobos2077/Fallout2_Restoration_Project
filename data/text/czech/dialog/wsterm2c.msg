@@ -1,22 +1,22 @@
-{100}{}{Poèítaèovı terminál.}
-{101}{}{Celkem zastaralı terminál. Frekvence procesoru je jen 500Mhz.}
-{102}{}{Obrazovka je pro tebe zcela neèitelná.}
-{103}{}{Automatická Opravná Stanice                                  Poadavek na opravu - provádí se                               Povolány opravárenské jednotky}
+{100}{}{PoÄÃ­taÄovÃ½ terminÃ¡l.}
+{101}{}{Celkem zastaralÃ½ terminÃ¡l. Frekvence procesoru je jen 500Mhz.}
+{102}{}{Obrazovka je pro tebe zcela neÄitelnÃ¡.}
+{103}{}{AutomatickÃ¡ OpravnÃ¡ Stanice                                  PoÅ¾adavek na opravu - provÃ¡dÃ­ se                               PovolÃ¡ny opravÃ¡renskÃ© jednotky}
 {104}{}{}
 {105}{}{}
 {106}{}{Pokusit se deaktivovat opravnou stanici.}
-{107}{}{Vypojit poèítaè ze zdi.}
-{108}{}{Zmáèknout VELKÉ èervené tlaèítko s nápisem OFF.}
+{107}{}{Vypojit poÄÃ­taÄ ze zdi.}
+{108}{}{ZmÃ¡Äknout VELKÃ‰ ÄervenÃ© tlaÄÃ­tko s nÃ¡pisem OFF.}
 {109}{}{Konec.}
-{110}{}{(Nemáš tušení, jak by se dal tento program ukonèit.)}
+{110}{}{(NemÃ¡Å¡ tuÅ¡enÃ­, jak by se dal tento program ukonÄit.)}
 {111}{}{Konec.}
-{112}{}{(Naukání slovíèka "OFF" se zdálo bıt to pravé oøechové. Automatickı opravnı systém je nyní vypnutı.)}
+{112}{}{(NaÅ¥ukÃ¡nÃ­ slovÃ­Äka "OFF" se zdÃ¡lo bÃ½t to pravÃ© oÅ™echovÃ©. AutomatickÃ½ opravnÃ½ systÃ©m je nynÃ­ vypnutÃ½.)}
 {113}{}{Konec.}
-{114}{}{(Èistì náhodou si všímáš kabelu elektrického vedení vedoucího z poèítaèe do zdi. Obrazovka poèítaèe zèernala pøesnì ve chvíli, kdy jsi ho vypojil z elektrické sítì.)}
+{114}{}{(ÄŒistÄ› nÃ¡hodou si vÅ¡Ã­mÃ¡Å¡ kabelu elektrickÃ©ho vedenÃ­ vedoucÃ­ho z poÄÃ­taÄe do zdi. Obrazovka poÄÃ­taÄe zÄernala pÅ™esnÄ› ve chvÃ­li, kdy jsi ho vypojil z elektrickÃ© sÃ­tÄ›.)}
 {115}{}{Konec.}
-{116}{}{(Stisknout tlaèítko s nápisem "OFF" bylo dílem okamiku. Jak se dalo oèekávat, obrazovka zèernala.)}
+{116}{}{(Stisknout tlaÄÃ­tko s nÃ¡pisem "OFF" bylo dÃ­lem okamÅ¾iku. Jak se dalo oÄekÃ¡vat, obrazovka zÄernala.)}
 {117}{}{Konec.}
-{118}{}{(Ve chvíli, kdy se tvé prsty dotkly klávesnice, zaèaly klávesy vypadávat na zem. Asi u je toho na tento terminál moc.)}
+{118}{}{(Ve chvÃ­li, kdy se tvÃ© prsty dotkly klÃ¡vesnice, zaÄaly klÃ¡vesy vypadÃ¡vat na zem. Asi uÅ¾ je toho na tento terminÃ¡l moc.)}
 {119}{}{Konec.}
-{120}{}{Automatickı Opravnı systém je ji mimo provoz.}
-{121}{}{Tento terminál nelze pouít. Nìkdo rozbil klávesnici.}
+{120}{}{AutomatickÃ½ OpravnÃ½ systÃ©m je jiÅ¾ mimo provoz.}
+{121}{}{Tento terminÃ¡l nelze pouÅ¾Ã­t. NÄ›kdo rozbil klÃ¡vesnici.}

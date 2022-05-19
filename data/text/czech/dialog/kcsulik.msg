@@ -1,491 +1,491 @@
-{100}{}{Vidíš vysokého mue s tetováním na tváøi a velikou kostí v nose.}
-{101}{}{Vidíš Sulika.}
-{102}{}{Vidíš vysokého, svalnatého divocha. V nose má velikou kost, na oblièeji tetování a pùsobí sebevìdomım a klidnım dojmem.}
+{100}{}{VidÃ­Å¡ vysokÃ©ho muÅ¾e s tetovÃ¡nÃ­m na tvÃ¡Å™i a velikou kostÃ­ v nose.}
+{101}{}{VidÃ­Å¡ Sulika.}
+{102}{}{VidÃ­Å¡ vysokÃ©ho, svalnatÃ©ho divocha. V nose mÃ¡ velikou kost, na obliÄeji tetovÃ¡nÃ­ a pÅ¯sobÃ­ sebevÄ›domÃ½m a klidnÃ½m dojmem.}
 {103}{}{.}
-{104}{slk1}{My zdraviti tebe, pøítela. Já jmenovati Sulik. Èeho ty ádati?}
+{104}{slk1}{My zdraviti tebe, pÅ™Ã­tela. JÃ¡ jmenovati Sulik. ÄŒeho ty Å¾Ã¡dati?}
 {105}{}{Eh?}
-{107}{slk2a}{Ach ne. S ty nechtíti mluvila. Taková jako ty, nám ségra naše vzíti. Špatná povìst... ty mít.}
-{108}{slk2b}{Ach ne. My nebaviti s otrokáø!}
-{109}{slk3}{Mnoho lidí míti ducha zlého v sobì. Ty? Ty míti hloupá ducha. Za šaman ty choditi, šaman on udìlati díra do hlava... velká díra... velmi moc velká... obrovská.}
+{107}{slk2a}{Ach ne. S ty nechtÃ­ti mluvila. TakovÃ¡ jako ty, nÃ¡m sÃ©gra naÅ¡e vzÃ­ti. Å patnÃ¡ povÄ›st... ty mÃ­t.}
+{108}{slk2b}{Ach ne. My nebaviti s otrokÃ¡Å™!}
+{109}{slk3}{Mnoho lidÃ­ mÃ­ti ducha zlÃ©ho v sobÄ›. Ty? Ty mÃ­ti hloupÃ¡ ducha. Za Å¡aman ty choditi, Å¡aman on udÄ›lati dÃ­ra do hlava... velkÃ¡ dÃ­ra... velmi moc velkÃ¡... obrovskÃ¡.}
 {110}{}{Ee?}
 {111}{}{E-he!}
-{112}{}{Gug! (tváøit se, e tì to zajímá)}
-{113}{slk4}{Díru ne? Za Torr ty choditi, on bıti naším duchovní bratra. Pracovati pro Maidu-ádná-smích. Jako my a já.}
+{112}{}{Gug! (tvÃ¡Å™it se, Å¾e tÄ› to zajÃ­mÃ¡)}
+{113}{slk4}{DÃ­ru ne? Za Torr ty choditi, on bÃ½ti naÅ¡Ã­m duchovnÃ­ bratra. Pracovati pro Maidu-Å¾Ã¡dnÃ¡-smÃ­ch. Jako my a jÃ¡.}
 {114}{}{Aha.}
 {115}{}{He?}
-{116}{slk5a}{Ach, doprdela, pøítela. Otrokáøi vzíti naši sestru. My napøed opíti, pak rozbíjeti. Teï cálovati všecko Maida. A tu dokonèiti, my èmuchala dál po náša ségra.}
-{117}{slk5b}{My pøipravit odejíti. Hledati sestru my jíti. Otrokáøi oni lapiti ji.}
+{116}{slk5a}{Ach, doprdela, pÅ™Ã­tela. OtrokÃ¡Å™i vzÃ­ti naÅ¡i sestru. My napÅ™ed opÃ­ti, pak rozbÃ­jeti. TeÄ cÃ¡lovati vÅ¡ecko Maida. AÅ¾ tu dokonÄiti, my Ämuchala dÃ¡l po nÃ¡Å¡a sÃ©gra.}
+{117}{slk5b}{My pÅ™ipravit odejÃ­ti. Hledati sestru my jÃ­ti. OtrokÃ¡Å™i oni lapiti ji.}
 {118}{}{Eh?}
-{119}{}{Hmm, kolik musíš ještì zaplatit, abys mohl odejít?}
+{119}{}{Hmm, kolik musÃ­Å¡ jeÅ¡tÄ› zaplatit, abys mohl odejÃ­t?}
 {120}{}{Aha.}
-{121}{}{Nìco hledám. Moná by ses ke mnì mohl pøipojit.}
-{122}{slk6}{My dluiti Maida $350. Míti namíøeno na jih? My kráèeti s ty a ségru hledati. Míti ty $350?}
+{121}{}{NÄ›co hledÃ¡m. MoÅ¾nÃ¡ by ses ke mnÄ› mohl pÅ™ipojit.}
+{122}{slk6}{My dluÅ¾iti Maida $350. MÃ­ti namÃ­Å™eno na jih? My krÃ¡Äeti s ty a sÃ©gru hledati. MÃ­ti ty $350?}
 {123}{}{Ne-e.}
 {124}{}{E-he!}
 {125}{}{Tady je $350.}
 {126}{}{Kdo je "my"?}
-{127}{}{Moná jo, Suliku. Nejdøív se chci na nìco zeptat.}
-{128}{}{$350 je spousta penìz. Ještì si tu chvíli pobudeš. Sbohem.}
-{129}{}{Kdy máš teï pána, tak aspoò nedìláš problémy. Nemyslím si, e pùjdeš v dohledné dobì na jih. Sbohem.}
-{140}{slk6a}{Duchové s já, pøítela! Bıti všude kolem. A nìkdy promlouvati.}
-{141}{}{Máš nejspíš o koleèko navíc, viï?}
-{142}{}{Jací duchové?}
-{143}{}{Dobøe...mùu se zeptat na nìco jiného?}
-{150}{slk6b}{To vtipná, pøíteli. Alespoò Dìdek Kostìj si to mysleti. Øíkati, e ty míti mozek v hlava. A on øíkati, e ty ho potøebovati.}
+{127}{}{MoÅ¾nÃ¡ jo, Suliku. NejdÅ™Ã­v se chci na nÄ›co zeptat.}
+{128}{}{$350 je spousta penÄ›z. JeÅ¡tÄ› si tu chvÃ­li pobudeÅ¡. Sbohem.}
+{129}{}{KdyÅ¾ mÃ¡Å¡ teÄ pÃ¡na, tak aspoÅˆ nedÄ›lÃ¡Å¡ problÃ©my. NemyslÃ­m si, Å¾e pÅ¯jdeÅ¡ v dohlednÃ© dobÄ› na jih. Sbohem.}
+{140}{slk6a}{DuchovÃ© s jÃ¡, pÅ™Ã­tela! BÃ½ti vÅ¡ude kolem. A nÄ›kdy promlouvati.}
+{141}{}{MÃ¡Å¡ nejspÃ­Å¡ o koleÄko navÃ­c, viÄ?}
+{142}{}{JacÃ­ duchovÃ©?}
+{143}{}{DobÅ™e...mÅ¯Å¾u se zeptat na nÄ›co jinÃ©ho?}
+{150}{slk6b}{To vtipnÃ¡, pÅ™Ã­teli. AlespoÅˆ DÄ›dek KostÄ›j si to mysleti. Å˜Ã­kati, Å¾e ty mÃ­ti mozek v hlava. A on Å™Ã­kati, Å¾e ty ho potÅ™ebovati.}
 {151}{}{Jak to?}
-{152}{}{Kdo je Dìdek Kostìj?}
-{153}{}{Mùu se vás zeptat na nìco jiného?}
-{160}{slk6c}{On to v ty cítiti. Dìdek Kostìj on jedna chytrá a mazaná ducha.}
-{162}{}{Co cítí?}
-{170}{slk6d}{Duchové bıti všude. Putovati s my a já. Dìdek Kostìj hodnì vykládati.}
-{171}{}{Chci se ještì na nìco zeptat.}
-{180}{slk6e}{To bıti všecko co on teï øíkat. Duchové vidìti a øíkati vìci jinak. Ne jako normální èlovìk.}
-{181}{}{A máš vùbec pøedstavu o tom, co je normální?}
-{182}{}{Povìz mi o Dìdku Kostìjovi.}
-{190}{slk6f}{On míti silná ducha. A bıti v nìm moc èesti.}
-{191}{}{Poèkat, to myslíš tu kost ve svém nose?}
-{200}{slk6g}{Ty museti se dret blízko on. Snadnìjší pak naslouchati jeho duch. Pak on mluviti hodnì.}
-{201}{}{Ale já zatím slyším jen tebe.}
-{210}{slk6h}{My si dobøe rozumìti.}
-{211}{}{Tøeba si popovídáme nìkdy jindy. Nashle.}
-{220}{slk7}{Vic zrádce. Pøicházeti on do vesnice naša, kecati, co vìdìla on o otrokáøa. My pøijíti, abychom ho vidìti. My pøijíti, ale on není tam.}
-{221}{}{Tvoje sestra byla unesena otrokáøi?}
-{222}{}{Chci se ještì na nìco zeptat.}
-{223}{}{Myslím, e to bude všechno. Nashle.}
-{230}{slk8}{My a já ti dìkovati. Jméno naše je Sulik. Jak my se ti odvdìèila?}
+{152}{}{Kdo je DÄ›dek KostÄ›j?}
+{153}{}{MÅ¯Å¾u se vÃ¡s zeptat na nÄ›co jinÃ©ho?}
+{160}{slk6c}{On to v ty cÃ­titi. DÄ›dek KostÄ›j on jedna chytrÃ¡ a mazanÃ¡ ducha.}
+{162}{}{Co cÃ­tÃ­?}
+{170}{slk6d}{DuchovÃ© bÃ½ti vÅ¡ude. Putovati s my a jÃ¡. DÄ›dek KostÄ›j hodnÄ› vyklÃ¡dati.}
+{171}{}{Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{180}{slk6e}{To bÃ½ti vÅ¡ecko co on teÄ Å™Ã­kat. DuchovÃ© vidÄ›ti a Å™Ã­kati vÄ›ci jinak. Ne jako normÃ¡lnÃ­ ÄlovÄ›k.}
+{181}{}{A mÃ¡Å¡ vÅ¯bec pÅ™edstavu o tom, co je normÃ¡lnÃ­?}
+{182}{}{PovÄ›z mi o DÄ›dku KostÄ›jovi.}
+{190}{slk6f}{On mÃ­ti silnÃ¡ ducha. A bÃ½ti v nÄ›m moc Äesti.}
+{191}{}{PoÄkat, to myslÃ­Å¡ tu kost ve svÃ©m nose?}
+{200}{slk6g}{Ty museti se drÅ¾et blÃ­zko on. SnadnÄ›jÅ¡Ã­ pak naslouchati jeho duch. Pak on mluviti hodnÄ›.}
+{201}{}{Ale jÃ¡ zatÃ­m slyÅ¡Ã­m jen tebe.}
+{210}{slk6h}{My si dobÅ™e rozumÄ›ti.}
+{211}{}{TÅ™eba si popovÃ­dÃ¡me nÄ›kdy jindy. Nashle.}
+{220}{slk7}{Vic zrÃ¡dce. PÅ™ichÃ¡zeti on do vesnice naÅ¡a, kecati, co vÄ›dÄ›la on o otrokÃ¡Å™a. My pÅ™ijÃ­ti, abychom ho vidÄ›ti. My pÅ™ijÃ­ti, ale on nenÃ­ tam.}
+{221}{}{Tvoje sestra byla unesena otrokÃ¡Å™i?}
+{222}{}{Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{223}{}{MyslÃ­m, Å¾e to bude vÅ¡echno. Nashle.}
+{230}{slk8}{My a jÃ¡ ti dÄ›kovati. JmÃ©no naÅ¡e je Sulik. Jak my se ti odvdÄ›Äila?}
 {231}{}{Eh.}
-{232}{}{Pápá.}
+{232}{}{PÃ¡pÃ¡.}
 {233}{}{Kdo je "my?"}
-{234}{}{Rádo se stalo, Suliku. Povìz mi o sobì.}
-{235}{}{Co kdybys mi povìdìl, co se dìje ve mìstì?}
-{236}{}{U jsem se nemohl dívat, jak jsi tu byl uvìznìnı. Sbohem.}
-{237}{}{Povìz mi o sobì.}
-{240}{slk9a}{My a já tak uèiniti.}
-{241}{slk9b}{My a já bıti duchové zloba, pøítela.}
-{243}{slk10a}{Máš to míti, pøítela.}
-{244}{slk10b}{My a já pøipraveni bojovala.}
-{246}{slk11a}{My bıti jako elva, pøítela.}
-{247}{slk11b}{My a já tak uèiniti.}
-{250}{slk12a}{To bıti špatná vılet, pøítela.}
-{251}{slk12b}{Cítiti se pøedtím lépe.}
-{253}{slk13a}{Je to špatná, všechno nás boleti.}
-{254}{slk13b}{Duchové mysleti, e my a já brzy spojiti se.}
-{257}{slk14a}{Duchové jedu, domov uvnitø nás udìlala.}
-{258}{slk14b}{Duchové jedu pøicházeti, dobrá duchové odcházeti rychle.}
-{260}{slk15a}{Zlí duchové nás posednouti, pøítela. Poøádnı kusák vlasa nám odpadnouti!}
-{261}{slk15b}{My a já záøiti! Tady bıti velmi moc zlá duchové.}
-{263}{slk16a}{Tady dobré místo. Snad nás nikdo tady zabíti nezkusila.}
-{264}{slk16b}{Dìdek Kostìj øíkati tady dobré místo.}
-{267}{slk17a}{Špatná duchové tady èíhati. Je tøeba kráèeti dál.}
-{268}{slk17b}{Dìdek Kostìj øíkati my opustiti tahle místa.}
-{270}{slk18a}{My a já u bıti na hodnì špatná místech. Tohle bıti horší.}
-{271}{slk18b}{Dìdek Kostìj øíkati tohleto bıti špatná místo. Kdy on mluviti, já a my tøeba naslouchati.}
-{280}{slk21}{Ségra jíti kšefty kšefty do jiná vesnice a nikdy nevrátiti zpìt. My a já jdeme ji hledati.}
+{234}{}{RÃ¡do se stalo, Suliku. PovÄ›z mi o sobÄ›.}
+{235}{}{Co kdybys mi povÄ›dÄ›l, co se dÄ›je ve mÄ›stÄ›?}
+{236}{}{UÅ¾ jsem se nemohl dÃ­vat, jak jsi tu byl uvÄ›znÄ›nÃ½. Sbohem.}
+{237}{}{PovÄ›z mi o sobÄ›.}
+{240}{slk9a}{My a jÃ¡ tak uÄiniti.}
+{241}{slk9b}{My a jÃ¡ bÃ½ti duchovÃ© zloba, pÅ™Ã­tela.}
+{243}{slk10a}{MÃ¡Å¡ to mÃ­ti, pÅ™Ã­tela.}
+{244}{slk10b}{My a jÃ¡ pÅ™ipraveni bojovala.}
+{246}{slk11a}{My bÃ½ti jako Å¾elva, pÅ™Ã­tela.}
+{247}{slk11b}{My a jÃ¡ tak uÄiniti.}
+{250}{slk12a}{To bÃ½ti Å¡patnÃ¡ vÃ½let, pÅ™Ã­tela.}
+{251}{slk12b}{CÃ­titi se pÅ™edtÃ­m lÃ©pe.}
+{253}{slk13a}{Je to Å¡patnÃ¡, vÅ¡echno nÃ¡s boleti.}
+{254}{slk13b}{DuchovÃ© mysleti, Å¾e my a jÃ¡ brzy spojiti se.}
+{257}{slk14a}{DuchovÃ© jedu, domov uvnitÅ™ nÃ¡s udÄ›lala.}
+{258}{slk14b}{DuchovÃ© jedu pÅ™ichÃ¡zeti, dobrÃ¡ duchovÃ© odchÃ¡zeti rychle.}
+{260}{slk15a}{ZlÃ­ duchovÃ© nÃ¡s posednouti, pÅ™Ã­tela. PoÅ™Ã¡dnÃ½ kusÃ¡k vlasa nÃ¡m odpadnouti!}
+{261}{slk15b}{My a jÃ¡ zÃ¡Å™iti! Tady bÃ½ti velmi moc zlÃ¡ duchovÃ©.}
+{263}{slk16a}{Tady dobrÃ© mÃ­sto. Snad nÃ¡s nikdo tady zabÃ­ti nezkusila.}
+{264}{slk16b}{DÄ›dek KostÄ›j Å™Ã­kati tady dobrÃ© mÃ­sto.}
+{267}{slk17a}{Å patnÃ¡ duchovÃ© tady ÄÃ­hati. Je tÅ™eba krÃ¡Äeti dÃ¡l.}
+{268}{slk17b}{DÄ›dek KostÄ›j Å™Ã­kati my opustiti tahle mÃ­sta.}
+{270}{slk18a}{My a jÃ¡ uÅ¾ bÃ½ti na hodnÄ› Å¡patnÃ¡ mÃ­stech. Tohle bÃ½ti horÅ¡Ã­.}
+{271}{slk18b}{DÄ›dek KostÄ›j Å™Ã­kati tohleto bÃ½ti Å¡patnÃ¡ mÃ­sto. KdyÅ¾ on mluviti, jÃ¡ a my tÅ™eba naslouchati.}
+{280}{slk21}{SÃ©gra jÃ­ti kÅ¡efty kÅ¡efty do jinÃ¡ vesnice a nikdy nevrÃ¡titi zpÄ›t. My a jÃ¡ jdeme ji hledati.}
 {281}{}{A co jsi zjistil?}
-{290}{slk22}{My a já vìdìti o otrokáøách v Den. A bıti volni, podívati se tam.}
-{291}{}{Povìz mi o nìèem jiném.}
-{292}{}{Myslím, e to bude všechno. Sbohem.}
-{300}{slk23a}{My øíkati ne.}
-{301}{}{Chápu. To bude prozatím všechno. Sbohem.}
-{302}{slk23b}{My a já pouívati jenom bylinka moci léèivé.}
-{310}{slk25a}{Ona bıti šéf. My zaplatila škody a jíti hledati ségra.}
-{311}{slk25b}{Maida døív øídila nás. My mysleti, e nás míti ráda. Nerada nás pouštìti.}
-{312}{}{Hmm, povìz mi o nìèem jiném.}
-{320}{slk26a}{Oni teï zrovna nechtíti promlouvat.}
-{321}{slk26b}{Duchùm bıti nìkdy tìké porozumìti. Oni vidìti vìci ty a my nemohouti.}
-{322}{slk26c}{Duchové bıti ochotni promlouvati. Co ty chtìla?}
+{290}{slk22}{My a jÃ¡ vÄ›dÄ›ti o otrokÃ¡Å™Ã¡ch v Den. AÅ¾ bÃ½ti volni, podÃ­vati se tam.}
+{291}{}{PovÄ›z mi o nÄ›Äem jinÃ©m.}
+{292}{}{MyslÃ­m, Å¾e to bude vÅ¡echno. Sbohem.}
+{300}{slk23a}{My Å™Ã­kati ne.}
+{301}{}{ChÃ¡pu. To bude prozatÃ­m vÅ¡echno. Sbohem.}
+{302}{slk23b}{My a jÃ¡ pouÅ¾Ã­vati jenom bylinka moci lÃ©ÄivÃ©.}
+{310}{slk25a}{Ona bÃ½ti Å¡Ã©f. My zaplatila Å¡kody a jÃ­ti hledati sÃ©gra.}
+{311}{slk25b}{Maida dÅ™Ã­v Å™Ã­dila nÃ¡s. My mysleti, Å¾e nÃ¡s mÃ­ti rÃ¡da. Nerada nÃ¡s pouÅ¡tÄ›ti.}
+{312}{}{Hmm, povÄ›z mi o nÄ›Äem jinÃ©m.}
+{320}{slk26a}{Oni teÄ zrovna nechtÃ­ti promlouvat.}
+{321}{slk26b}{DuchÅ¯m bÃ½ti nÄ›kdy tÄ›Å¾kÃ© porozumÄ›ti. Oni vidÄ›ti vÄ›ci ty a my nemohouti.}
+{322}{slk26c}{DuchovÃ© bÃ½ti ochotni promlouvati. Co ty chtÄ›la?}
 {323}{}{Eh?}
 {324}{}{Ne-e.}
 {325}{}{Ne-e.}
-{326}{}{Co nám mùou øíct o tomhle místì?}
-{327}{}{Mùou nám øíct jaké máme šance?}
-{328}{}{Chci si promluvit o nìèem jiném.}
-{329}{}{Myslím, e nechci vìdìt, co si duchové myslí.}
-{350}{slk27aa}{Všichni duchové øíkati, e temná mraka se zatahovati.}
-{351}{slk27ab}{Dìdek Kostìj øíkati, e všichni pryè.}
-{352}{slk27ac}{Duchové vidìti více pøidávati k nìm. Mnohem více.}
-{360}{slk27ba}{Dìdek Kostìj øíkati, e oni všichni státi na Velká Voda...smysl to nedávati my ani já.}
-{361}{slk27bb}{Duchové nechápati pøíèinu jejich odchoda. Vidìti oni to, ale nerozumìti tomu.}
-{362}{slk27bc}{Oni øíkati tady silná duch. Nìjak on je všechny vzíti.}
-{370}{slk27ca}{Zlá duchové nezabíjeti dobytek.}
-{371}{slk27cb}{Špatná duchové pod nìèím...zlomiti. Nebıti jistá, co tím myslela.}
-{380}{slk27da}{Dìdek Kostìj øíkati, e tady samá špatná èlovìk.}
-{381}{slk27db}{Oni øíkati, e èlovìk se tu ztrácet velmi snadno. Všelijak.}
-{382}{slk27dc}{Hej! Oni øíkati, e tu bıti další kosti duchù. Potøebovati pomoc.}
-{390}{}{Oni všichni moc smutní. Øíkati brzy pøijít èas, kdy tu nikdo nebıti, pouze kosti duchù ano.}
-{391}{}{Tohle místo nemìla ádná budoucnost. My a ty potøebovala dìlati nìco s tím.}
-{400}{slk27fa}{Dìdek Kostìj se chechtati, i kdy to moc smìšná nebıti. Bojem vdy nìco ztratiti, ne získati.}
-{401}{slk27fb}{Duchové oni nešastná. Nìkteøí se jenom dìlati bıti duchy, zkoušela nás strašiti jako dìti.}
-{402}{slk27fc}{On ten, kdo s duchem nebıti...to je to, co oni øíkati.}
-{403}{slk27fd}{Kadá v zemi nebıti mrtvá.}
-{410}{slk27ga}{Dìdek Kostìj øíkati, e vìci moct bıti udìlaná dobrá, ale pomoc muset pøicházeti z venka.}
-{411}{slk27gb}{Na jednom místì pomoci jiní, jinde pomoci ty sám. Moc špatné, e oni to nevidìti s okama otevøená.}
-{420}{slk27ha}{My potøebovati jít tam, kam choditi duchové. Oni nebıti tím, co zdají se bıti.}
-{421}{slk27hb}{On nebıti on, ale ono pomáháti bıti on...moná duchové znalostí více míti, moná ne. My a já mysleti, e oni rádi mluvit takhlenc.}
-{430}{slk27ia}{Duchové øíkati, e tito bıti dotknutá stínama ze svìtel mìsta.}
-{431}{slk27ib}{Hlava nebıti s tìlo.}
-{440}{slk27ja}{Duchové vidìti dvì cesty, co spojovat další. Špatná cesta vésti do špatná stíny v jasné místo. Dobrá cesta vésti na jasná místa, která bıti ze stínù zrozená.}
-{441}{slk27jb}{Neposílati je ke svìtlu.}
-{442}{slk27jc}{Pøesvìdèiti je, aby oni bıti èásteèka nìèeho vìtšího.}
-{450}{slk27ka}{ádní duchové nevésti tyto ruce.}
-{451}{slk27kb}{Rákos ohıbati se, dub bıti rozmetán.}
-{452}{slk27kc}{Tady si moci pøítele udìlati.}
-{460}{slk27la}{Kdo otráviti mladé?}
-{461}{slk27lb}{Správnì bıti správnì.}
-{462}{slk27lc}{Tohle místo jedu plná.}
-{470}{slk27ma}{Ti, kdo vpøedu stojí, do zad rádi bodati.}
-{471}{slk27mb}{Zemì svítiti svìtly, které duchùm nepatøiti.}
-{480}{slk27na}{Ty museti bıti mùstek mezi stranami dvìma.}
-{481}{slk27nb}{Uklidniti to, co pod vodou bıti, jinak spása kmene tvého moci pod vodu jíti.}
-{482}{slk27nc}{Ten, co tlaèiti velká ocelová stroma na oblohu, museti kmena tvého pohoupati.}
-{483}{slk27nd}{Tví lidé míti cena vìtší ne tmavá zlata. Starati se o nì péèí ne menší.}
-{490}{}{Ti, kdo se jako duchová tváøiti, ale oni nebıti, oni tajemství mnoho míti.}
-{491}{}{Jako cibule zde mnoho mnoho vrstev, vìtšina skrytıch.}
-{492}{}{Zvedací stroj mono dostati ty na neoèekávaná místa.}
-{500}{slk27pa}{Duchové vidìti stín, kterı vrhati tvého stín sem z døívìjška.}
-{501}{slk27pb}{Tam bıti nebezpeèná osoby.}
-{502}{slk27pc}{Tam bıti další stína z toho, která stína tvého vrhati sem.}
-{510}{slk27qa}{Unesena. Všichni unesena.}
-{511}{slk27qb}{Duchové vidìti ten samı polykající mraka smìøovat k domova tvého.}
-{512}{slk27qc}{Všichni unesena k Velká Slaná Voda.}
-{520}{slk27ra}{Co ty hledati, tady nebıti. Cesta to bıti.}
-{521}{slk27rb}{Potichu ty choditi a moc více ty vìdìti.}
-{522}{slk27rc}{Odolná zrna bıti zde zaseta. Dobrá zrna.}
-{530}{slk27sa}{Prázdná schránka spáti pod tìmi, kdo odpoèívati.}
-{531}{slk27sb}{Drápy smrti bıti blízko.}
-{532}{slk27sc}{Malá smrt následovati bude tebe.}
-{540}{slk27ta}{Hlas více hlasitá ne zvuk zbranì jakékoli.}
+{326}{}{Co nÃ¡m mÅ¯Å¾ou Å™Ã­ct o tomhle mÃ­stÄ›?}
+{327}{}{MÅ¯Å¾ou nÃ¡m Å™Ã­ct jakÃ© mÃ¡me Å¡ance?}
+{328}{}{Chci si promluvit o nÄ›Äem jinÃ©m.}
+{329}{}{MyslÃ­m, Å¾e nechci vÄ›dÄ›t, co si duchovÃ© myslÃ­.}
+{350}{slk27aa}{VÅ¡ichni duchovÃ© Å™Ã­kati, Å¾e temnÃ¡ mraka se zatahovati.}
+{351}{slk27ab}{DÄ›dek KostÄ›j Å™Ã­kati, Å¾e vÅ¡ichni pryÄ.}
+{352}{slk27ac}{DuchovÃ© vidÄ›ti vÃ­ce pÅ™idÃ¡vati k nÄ›m. Mnohem vÃ­ce.}
+{360}{slk27ba}{DÄ›dek KostÄ›j Å™Ã­kati, Å¾e oni vÅ¡ichni stÃ¡ti na VelkÃ¡ Voda...smysl to nedÃ¡vati my ani jÃ¡.}
+{361}{slk27bb}{DuchovÃ© nechÃ¡pati pÅ™Ã­Äinu jejich odchoda. VidÄ›ti oni to, ale nerozumÄ›ti tomu.}
+{362}{slk27bc}{Oni Å™Ã­kati tady silnÃ¡ duch. NÄ›jak on je vÅ¡echny vzÃ­ti.}
+{370}{slk27ca}{ZlÃ¡ duchovÃ© nezabÃ­jeti dobytek.}
+{371}{slk27cb}{Å patnÃ¡ duchovÃ© pod nÄ›ÄÃ­m...zlomiti. NebÃ½ti jistÃ¡, co tÃ­m myslela.}
+{380}{slk27da}{DÄ›dek KostÄ›j Å™Ã­kati, Å¾e tady samÃ¡ Å¡patnÃ¡ ÄlovÄ›k.}
+{381}{slk27db}{Oni Å™Ã­kati, Å¾e ÄlovÄ›k se tu ztrÃ¡cet velmi snadno. VÅ¡elijak.}
+{382}{slk27dc}{Hej! Oni Å™Ã­kati, Å¾e tu bÃ½ti dalÅ¡Ã­ kosti duchÅ¯. PotÅ™ebovati pomoc.}
+{390}{}{Oni vÅ¡ichni moc smutnÃ­. Å˜Ã­kati brzy pÅ™ijÃ­t Äas, kdy tu nikdo nebÃ½ti, pouze kosti duchÅ¯ ano.}
+{391}{}{Tohle mÃ­sto nemÄ›la Å¾Ã¡dnÃ¡ budoucnost. My a ty potÅ™ebovala dÄ›lati nÄ›co s tÃ­m.}
+{400}{slk27fa}{DÄ›dek KostÄ›j se chechtati, i kdyÅ¾ to moc smÄ›Å¡nÃ¡ nebÃ½ti. Bojem vÅ¾dy nÄ›co ztratiti, ne zÃ­skati.}
+{401}{slk27fb}{DuchovÃ© oni neÅ¡Å¥astnÃ¡. NÄ›kteÅ™Ã­ se jenom dÄ›lati bÃ½ti duchy, zkouÅ¡ela nÃ¡s straÅ¡iti jako dÄ›ti.}
+{402}{slk27fc}{On ten, kdo s duchem nebÃ½ti...to je to, co oni Å™Ã­kati.}
+{403}{slk27fd}{KaÅ¾dÃ¡ v zemi nebÃ½ti mrtvÃ¡.}
+{410}{slk27ga}{DÄ›dek KostÄ›j Å™Ã­kati, Å¾e vÄ›ci moct bÃ½ti udÄ›lanÃ¡ dobrÃ¡, ale pomoc muset pÅ™ichÃ¡zeti z venka.}
+{411}{slk27gb}{Na jednom mÃ­stÄ› pomoci jinÃ­, jinde pomoci ty sÃ¡m. Moc Å¡patnÃ©, Å¾e oni to nevidÄ›ti s okama otevÅ™enÃ¡.}
+{420}{slk27ha}{My potÅ™ebovati jÃ­t tam, kam choditi duchovÃ©. Oni nebÃ½ti tÃ­m, co zdajÃ­ se bÃ½ti.}
+{421}{slk27hb}{On nebÃ½ti on, ale ono pomÃ¡hÃ¡ti bÃ½ti on...moÅ¾nÃ¡ duchovÃ© znalostÃ­ vÃ­ce mÃ­ti, moÅ¾nÃ¡ ne. My a jÃ¡ mysleti, Å¾e oni rÃ¡di mluvit takhlenc.}
+{430}{slk27ia}{DuchovÃ© Å™Ã­kati, Å¾e tito bÃ½ti dotknutÃ¡ stÃ­nama ze svÄ›tel mÄ›sta.}
+{431}{slk27ib}{Hlava nebÃ½ti s tÄ›lo.}
+{440}{slk27ja}{DuchovÃ© vidÄ›ti dvÄ› cesty, co spojovat dalÅ¡Ã­. Å patnÃ¡ cesta vÃ©sti do Å¡patnÃ¡ stÃ­ny v jasnÃ© mÃ­sto. DobrÃ¡ cesta vÃ©sti na jasnÃ¡ mÃ­sta, kterÃ¡ bÃ½ti ze stÃ­nÅ¯ zrozenÃ¡.}
+{441}{slk27jb}{NeposÃ­lati je ke svÄ›tlu.}
+{442}{slk27jc}{PÅ™esvÄ›dÄiti je, aby oni bÃ½ti ÄÃ¡steÄka nÄ›Äeho vÄ›tÅ¡Ã­ho.}
+{450}{slk27ka}{Å½Ã¡dnÃ­ duchovÃ© nevÃ©sti tyto ruce.}
+{451}{slk27kb}{RÃ¡kos ohÃ½bati se, dub bÃ½ti rozmetÃ¡n.}
+{452}{slk27kc}{Tady si moci pÅ™Ã­tele udÄ›lati.}
+{460}{slk27la}{Kdo otrÃ¡viti mladÃ©?}
+{461}{slk27lb}{SprÃ¡vnÄ› bÃ½ti sprÃ¡vnÄ›.}
+{462}{slk27lc}{Tohle mÃ­sto jedu plnÃ¡.}
+{470}{slk27ma}{Ti, kdoÅ¾ vpÅ™edu stojÃ­, do zad rÃ¡di bodati.}
+{471}{slk27mb}{ZemÄ› svÃ­titi svÄ›tly, kterÃ© duchÅ¯m nepatÅ™iti.}
+{480}{slk27na}{Ty museti bÃ½ti mÅ¯stek mezi stranami dvÄ›ma.}
+{481}{slk27nb}{Uklidniti to, co pod vodou bÃ½ti, jinak spÃ¡sa kmene tvÃ©ho moci pod vodu jÃ­ti.}
+{482}{slk27nc}{Ten, co tlaÄiti velkÃ¡ ocelovÃ¡ stroma na oblohu, museti kmena tvÃ©ho pohoupati.}
+{483}{slk27nd}{TvÃ­ lidÃ© mÃ­ti cena vÄ›tÅ¡Ã­ neÅ¾ tmavÃ¡ zlata. Starati se o nÄ› pÃ©ÄÃ­ ne menÅ¡Ã­.}
+{490}{}{Ti, kdoÅ¾ se jako duchovÃ¡ tvÃ¡Å™iti, ale oni nebÃ½ti, oni tajemstvÃ­ mnoho mÃ­ti.}
+{491}{}{Jako cibule zde mnoho mnoho vrstev, vÄ›tÅ¡ina skrytÃ½ch.}
+{492}{}{ZvedacÃ­ stroj moÅ¾no dostati ty na neoÄekÃ¡vanÃ¡ mÃ­sta.}
+{500}{slk27pa}{DuchovÃ© vidÄ›ti stÃ­n, kterÃ½ vrhati tvÃ©ho stÃ­n sem z dÅ™Ã­vÄ›jÅ¡ka.}
+{501}{slk27pb}{Tam bÃ½ti nebezpeÄnÃ¡ osoby.}
+{502}{slk27pc}{Tam bÃ½ti dalÅ¡Ã­ stÃ­na z toho, kterÃ¡ stÃ­na tvÃ©ho vrhati sem.}
+{510}{slk27qa}{Unesena. VÅ¡ichni unesena.}
+{511}{slk27qb}{DuchovÃ© vidÄ›ti ten samÃ½ polykajÃ­cÃ­ mraka smÄ›Å™ovat k domova tvÃ©ho.}
+{512}{slk27qc}{VÅ¡ichni unesena k VelkÃ¡ SlanÃ¡ Voda.}
+{520}{slk27ra}{Co ty hledati, tady nebÃ½ti. Cesta to bÃ½ti.}
+{521}{slk27rb}{Potichu ty choditi a moc vÃ­ce ty vÄ›dÄ›ti.}
+{522}{slk27rc}{OdolnÃ¡ zrna bÃ½ti zde zaseta. DobrÃ¡ zrna.}
+{530}{slk27sa}{PrÃ¡zdnÃ¡ schrÃ¡nka spÃ¡ti pod tÄ›mi, kdo odpoÄÃ­vati.}
+{531}{slk27sb}{DrÃ¡py smrti bÃ½ti blÃ­zko.}
+{532}{slk27sc}{MalÃ¡ smrt nÃ¡sledovati bude tebe.}
+{540}{slk27ta}{Hlas vÃ­ce hlasitÃ¡ neÅ¾ zvuk zbranÄ› jakÃ©koli.}
 {541}{slk27tb}{Zlo poskakovati zde.}
-{542}{slk27tc}{Stezka zla zde leeti jasnì.}
-{550}{}{Tady bıti veliká znalosti.}
-{551}{}{Silnìjší cesta budoucnosti zaèínat na takováto malá místech.}
-{560}{slk28a}{My potøebovati chvíla krátkou, aby bıti sami sebou.}
-{561}{slk28b}{Potøebovati èasu trochu volného. Trocha kouøa, trocha myšlenka.}
-{600}{}{Dobøe. Díky.}
-{704}{slk28a}{My potøebovati chvíla krátkou, aby bıti sami sebou.}
-{705}{slk28b}{Potøebovati èasu trochu volného. Trocha kouøa, trocha myšlenka.}
-{706}{slk29a}{My ukázati jak v našem kmeni my to dìlati.}
-{707}{slk29b}{My znát zemi a vìtry dobøe. My postarati se o toto.}
-{708}{slk29c}{Kosti duchù nám pomáhati s tímto.}
-{709}{slk30a}{My bıti jako špína na...ty.}
-{710}{slk30b}{Jasná vìca, ty potøebovati nás blízko státi. Dreti tì od probléma.}
-{711}{slk30c}{My a já si stoupnouti k tobì blíe, ale musela nám slíbiti, e v nejbliším mìstì si mıdlo koupiti.}
-{712}{slk31a}{Stani se.}
-{713}{slk31b}{My zde bıti, jestli nás potøebovala.}
-{714}{slk31c}{Pravdìpodobnì dobrá nápada dreti se kouska dál. Èlovìci zkoušeti zabíti tì dobu celou co my s tebou.}
-{715}{slk32a}{Nebıti problém.}
-{716}{slk32b}{Dobrı nápada. Nejspíše stejnì na tebe nìkdo støíleti.}
-{717}{slk32c}{My a mùj nos ti dìkovati.}
-{718}{slk33a}{Èas pro bylinka moci léèivé. Více pro nás.}
-{719}{slk33b}{Zníti to jako plán. Zlá vìci sledovala tebe stejnì poøád.}
-{720}{slk33c}{Štìstí tobì, pøítela. My mysleti ty ho potøebovala.}
-{721}{slk34a}{My zde bıti.}
-{722}{slk34b}{My jíti malá chrápání, ty pokecala s Dìdek Kostìj. Nechoditi nikam.}
-{723}{slk34c}{Tohle bıti vhodné místo na sedìní krátké.}
-{724}{slk35a}{Samozøejmá, pøítela. Jenom nám povìdìti my vypadnouti z cesta tvá.}
-{725}{slk35b}{Promiò, pøítela.}
-{726}{slk35c}{My uhnout ti, nebıti problém.}
-{727}{slk36a}{Stani se.}
-{728}{slk36b}{Dìdek Kostìj nám povídati stejná vìci.}
-{729}{slk36c}{Moc bojování. Lepší zbraò potøebovati.}
-{730}{slk37a}{Duchové taky pomáhati. Oni a zbroj témìø staèiti kolem tebe.}
-{731}{slk37b}{Dobrá nápad. Ty lákati èlovìky naštvaná jako mouchy na masová koláèek.}
-{732}{slk37c}{S tebou poblí my potøebovati všecko, co my moci míti.}
-{733}{slk37d}{Bıti to moc tìké, pøítela. My radìji odtancovat od špatná vìci.}
-{734}{slk38a}{Ty potøebovati to, ty dostati to.}
-{735}{slk38b}{Udìláme to.}
-{736}{slk38c}{Kšeftování nebıti problém, pøítela. Ale míti jenom jeden Dìdek Kostìj. Promiò.}
-{737}{slk39a}{To bıti dobrı vìc, pøítela.}
-{738}{slk39b}{Stani se.}
-{739}{slk39c}{My nechtíti jako malá holèièka kvùli toho bıti, ale...}
-{740}{slk39d}{Nebıti problém, pøítela. My bıti silní.}
-{741}{slk39e}{Duchové chrániti nás. My bıti v poøádku.}
-{742}{slk40a}{My a já se na to podívati.}
-{743}{slk40b}{Dìdek Kostìj øíkati my bıti opatrní.}
-{744}{slk40c}{Nebıti problém. My zabezpeèiti to pro náš pøítela.}
-{745}{slk41a}{Odteï ty dva dávati za jeden, kdy my kšeftovala...jenom srandu dìlati si. Dìdek Kostìj øíkati ty srandovní ksicht udìlati...jako tenhlenc.}
-{746}{slk41b}{Zníti dobøe.}
-{747}{slk41c}{Co bıti naše, bıti i tvoje, pøítela.}
-{750}{slk42}{My a já ti dìkovati. Ty pokoušela bıti dobrá, jene ty nemít dost vata. Moná ty zvıšila o nìco?}
+{542}{slk27tc}{Stezka zla zde leÅ¾eti jasnÄ›.}
+{550}{}{Tady bÃ½ti velikÃ¡ znalosti.}
+{551}{}{SilnÄ›jÅ¡Ã­ cesta budoucnosti zaÄÃ­nat na takovÃ¡to malÃ¡ mÃ­stech.}
+{560}{slk28a}{My potÅ™ebovati chvÃ­la krÃ¡tkou, aby bÃ½ti sami sebou.}
+{561}{slk28b}{PotÅ™ebovati Äasu trochu volnÃ©ho. Trocha kouÅ™a, trocha myÅ¡lenka.}
+{600}{}{DobÅ™e. DÃ­ky.}
+{704}{slk28a}{My potÅ™ebovati chvÃ­la krÃ¡tkou, aby bÃ½ti sami sebou.}
+{705}{slk28b}{PotÅ™ebovati Äasu trochu volnÃ©ho. Trocha kouÅ™a, trocha myÅ¡lenka.}
+{706}{slk29a}{My ukÃ¡zati jak v naÅ¡em kmeni my to dÄ›lati.}
+{707}{slk29b}{My znÃ¡t zemi a vÄ›try dobÅ™e. My postarati se o toto.}
+{708}{slk29c}{Kosti duchÅ¯ nÃ¡m pomÃ¡hati s tÃ­mto.}
+{709}{slk30a}{My bÃ½ti jako Å¡pÃ­na na...ty.}
+{710}{slk30b}{JasnÃ¡ vÄ›ca, ty potÅ™ebovati nÃ¡s blÃ­zko stÃ¡ti. DrÅ¾eti tÄ› od problÃ©ma.}
+{711}{slk30c}{My a jÃ¡ si stoupnouti k tobÄ› blÃ­Å¾e, ale musela nÃ¡m slÃ­biti, Å¾e v nejbliÅ¾Å¡Ã­m mÄ›stÄ› si mÃ½dlo koupiti.}
+{712}{slk31a}{StaniÅ¾ se.}
+{713}{slk31b}{My zde bÃ½ti, jestli nÃ¡s potÅ™ebovala.}
+{714}{slk31c}{PravdÄ›podobnÄ› dobrÃ¡ nÃ¡pada drÅ¾eti se kouska dÃ¡l. ÄŒlovÄ›ci zkouÅ¡eti zabÃ­ti tÄ› dobu celou co my s tebou.}
+{715}{slk32a}{NebÃ½ti problÃ©m.}
+{716}{slk32b}{DobrÃ½ nÃ¡pada. NejspÃ­Å¡e stejnÄ› na tebe nÄ›kdo stÅ™Ã­leti.}
+{717}{slk32c}{My a mÅ¯j nos ti dÄ›kovati.}
+{718}{slk33a}{ÄŒas pro bylinka moci lÃ©ÄivÃ©. VÃ­ce pro nÃ¡s.}
+{719}{slk33b}{ZnÃ­ti to jako plÃ¡n. ZlÃ¡ vÄ›ci sledovala tebe stejnÄ› poÅ™Ã¡d.}
+{720}{slk33c}{Å tÄ›stÃ­ tobÄ›, pÅ™Ã­tela. My mysleti ty ho potÅ™ebovala.}
+{721}{slk34a}{My zde bÃ½ti.}
+{722}{slk34b}{My jÃ­ti malÃ¡ chrÃ¡pÃ¡nÃ­, ty pokecala s DÄ›dek KostÄ›j. Nechoditi nikam.}
+{723}{slk34c}{Tohle bÃ½ti vhodnÃ© mÃ­sto na sedÄ›nÃ­ krÃ¡tkÃ©.}
+{724}{slk35a}{SamozÅ™ejmÃ¡, pÅ™Ã­tela. Jenom nÃ¡m povÄ›dÄ›ti my vypadnouti z cesta tvÃ¡.}
+{725}{slk35b}{PromiÅˆ, pÅ™Ã­tela.}
+{726}{slk35c}{My uhnout ti, nebÃ½ti problÃ©m.}
+{727}{slk36a}{StaniÅ¾ se.}
+{728}{slk36b}{DÄ›dek KostÄ›j nÃ¡m povÃ­dati stejnÃ¡ vÄ›ci.}
+{729}{slk36c}{Moc bojovÃ¡nÃ­. LepÅ¡Ã­ zbraÅˆ potÅ™ebovati.}
+{730}{slk37a}{DuchovÃ© taky pomÃ¡hati. Oni a zbroj tÃ©mÄ›Å™ staÄiti kolem tebe.}
+{731}{slk37b}{DobrÃ¡ nÃ¡pad. Ty lÃ¡kati ÄlovÄ›ky naÅ¡tvanÃ¡ jako mouchy na masovÃ¡ kolÃ¡Äek.}
+{732}{slk37c}{S tebou poblÃ­Å¾ my potÅ™ebovati vÅ¡ecko, co my moci mÃ­ti.}
+{733}{slk37d}{BÃ½ti to moc tÄ›Å¾kÃ©, pÅ™Ã­tela. My radÄ›ji odtancovat od Å¡patnÃ¡ vÄ›ci.}
+{734}{slk38a}{Ty potÅ™ebovati to, ty dostati to.}
+{735}{slk38b}{UdÄ›lÃ¡me to.}
+{736}{slk38c}{KÅ¡eftovÃ¡nÃ­ nebÃ½ti problÃ©m, pÅ™Ã­tela. Ale mÃ­ti jenom jeden DÄ›dek KostÄ›j. PromiÅˆ.}
+{737}{slk39a}{To bÃ½ti dobrÃ½ vÄ›c, pÅ™Ã­tela.}
+{738}{slk39b}{StaniÅ¾ se.}
+{739}{slk39c}{My nechtÃ­ti jako malÃ¡ holÄiÄka kvÅ¯li toho bÃ½ti, ale...}
+{740}{slk39d}{NebÃ½ti problÃ©m, pÅ™Ã­tela. My bÃ½ti silnÃ­.}
+{741}{slk39e}{DuchovÃ© chrÃ¡niti nÃ¡s. My bÃ½ti v poÅ™Ã¡dku.}
+{742}{slk40a}{My a jÃ¡ se na to podÃ­vati.}
+{743}{slk40b}{DÄ›dek KostÄ›j Å™Ã­kati my bÃ½ti opatrnÃ­.}
+{744}{slk40c}{NebÃ½ti problÃ©m. My zabezpeÄiti to pro nÃ¡Å¡ pÅ™Ã­tela.}
+{745}{slk41a}{OdteÄ ty dva dÃ¡vati za jeden, kdyÅ¾ my kÅ¡eftovala...jenom srandu dÄ›lati si. DÄ›dek KostÄ›j Å™Ã­kati ty srandovnÃ­ ksicht udÄ›lati...jako tenhlenc.}
+{746}{slk41b}{ZnÃ­ti dobÅ™e.}
+{747}{slk41c}{Co bÃ½ti naÅ¡e, bÃ½ti i tvoje, pÅ™Ã­tela.}
+{750}{slk42}{My a jÃ¡ ti dÄ›kovati. Ty pokouÅ¡ela bÃ½ti dobrÃ¡, jenÅ¾e ty nemÃ­t dost vata. MoÅ¾nÃ¡ ty zvÃ½Å¡ila o nÄ›co?}
 {751}{}{Eh.}
-{752}{}{Promiò, špatnì jsem to spoèítal. Sbohem.}
-{753}{}{Zdálo si mi, e mám dost. Promiò. Chci se na nìco zeptat.}
-{754}{slk43a}{Jasan. My dáti to Maidì. Pak bıti volní. Chtíti my kráèeti s ty?}
-{755}{slk43b}{Jasan. Ty moná hnusobnì vypadati navenek, ale uvnitø ty fajn. Teï ségru my vysvoboditi, kdy my volní.}
-{756}{slk43c}{Aha, jasan. Ty moc fajn. My choditi s ty, ale ty u partu velkou sebou míti.}
+{752}{}{PromiÅˆ, Å¡patnÄ› jsem to spoÄÃ­tal. Sbohem.}
+{753}{}{ZdÃ¡lo si mi, Å¾e mÃ¡m dost. PromiÅˆ. Chci se na nÄ›co zeptat.}
+{754}{slk43a}{Jasan. My dÃ¡ti to MaidÄ›. Pak bÃ½ti volnÃ­. ChtÃ­ti my krÃ¡Äeti s ty?}
+{755}{slk43b}{Jasan. Ty moÅ¾nÃ¡ hnusobnÄ› vypadati navenek, ale uvnitÅ™ ty fajn. TeÄ sÃ©gru my vysvoboditi, kdyÅ¾ my volnÃ­.}
+{756}{slk43c}{Aha, jasan. Ty moc fajn. My choditi s ty, ale ty uÅ¾ partu velkou sebou mÃ­ti.}
 {757}{}{Ne-e.}
 {758}{}{Aha.}
-{759}{}{Teï ne, díky.}
-{760}{}{To by bylo skvìlé.}
-{761}{slk44a}{My a já hodnì vìcí vìdìti. My cestovati od Velká Slaná Voda a k domova ještìrek kousavá.}
-{762}{slk44b}{My a já rádi odpovìdìti.}
-{763}{}{Povìz mi o Velké Slané Vodì.}
-{764}{}{Kousavıch ještìrek?}
-{766}{}{Proè jsi tolik cestoval?}
-{767}{}{Co tu dìláš?}
-{768}{}{Zajímají mì nìjaké místní informace.}
-{769}{}{Chceš se ke mnì pøidat? Tøeba bychom mohli bìhem mého putování najít tvoji sestru.}
-{770}{}{Myslím, e to bude prozatím všechno.}
-{771}{slk45}{Domov kmene bıti poblí Velká Slaná Voda. Dva mìsíce odtud, pøítela.}
-{772}{}{Chci se ještì na nìco zeptat.}
-{773}{}{Dva mìsíce? To je pìknì daleko. Jak ses dostal a sem?}
-{774}{}{To bude prozatím všechno. Sbohem.}
-{775}{slk46}{Geckoni. Ty malé potvùrky nekousat hodnì. Ale ti zlatí... oni pøekousnouti ti nohu jako stará stéblo trávy.}
-{776}{slk47}{Obchodník Vic mìl tady bıti. On øíkati, e vìdìla o otrokáøách. My ukázati, nevidìti ho, tak bıti poøádnì naštvaná.}
-{777}{}{Vic je se mnou, ale myslím, e toho moc o otrocích neví. Tedy a na to, e byl v Denu jedním z nich. Povìz mi o nìèem jiném.}
+{759}{}{TeÄ ne, dÃ­ky.}
+{760}{}{To by bylo skvÄ›lÃ©.}
+{761}{slk44a}{My a jÃ¡ hodnÄ› vÄ›cÃ­ vÄ›dÄ›ti. My cestovati od VelkÃ¡ SlanÃ¡ Voda aÅ¾ k domova jeÅ¡tÄ›rek kousavÃ¡.}
+{762}{slk44b}{My a jÃ¡ rÃ¡di odpovÄ›dÄ›ti.}
+{763}{}{PovÄ›z mi o VelkÃ© SlanÃ© VodÄ›.}
+{764}{}{KousavÃ½ch jeÅ¡tÄ›rek?}
+{766}{}{ProÄ jsi tolik cestoval?}
+{767}{}{Co tu dÄ›lÃ¡Å¡?}
+{768}{}{ZajÃ­majÃ­ mÄ› nÄ›jakÃ© mÃ­stnÃ­ informace.}
+{769}{}{ChceÅ¡ se ke mnÄ› pÅ™idat? TÅ™eba bychom mohli bÄ›hem mÃ©ho putovÃ¡nÃ­ najÃ­t tvoji sestru.}
+{770}{}{MyslÃ­m, Å¾e to bude prozatÃ­m vÅ¡echno.}
+{771}{slk45}{Domov kmene bÃ½ti poblÃ­Å¾ VelkÃ¡ SlanÃ¡ Voda. Dva mÄ›sÃ­ce odtud, pÅ™Ã­tela.}
+{772}{}{Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{773}{}{Dva mÄ›sÃ­ce? To je pÄ›knÄ› daleko. Jak ses dostal aÅ¾ sem?}
+{774}{}{To bude prozatÃ­m vÅ¡echno. Sbohem.}
+{775}{slk46}{Geckoni. Ty malÃ© potvÅ¯rky nekousat hodnÄ›. Ale ti zlatÃ­... oni pÅ™ekousnouti ti nohu jako starÃ¡ stÃ©blo trÃ¡vy.}
+{776}{slk47}{ObchodnÃ­k Vic mÄ›l tady bÃ½ti. On Å™Ã­kati, Å¾e vÄ›dÄ›la o otrokÃ¡Å™Ã¡ch. My ukÃ¡zati, nevidÄ›ti ho, tak bÃ½ti poÅ™Ã¡dnÄ› naÅ¡tvanÃ¡.}
+{777}{}{Vic je se mnou, ale myslÃ­m, Å¾e toho moc o otrocÃ­ch nevÃ­. Tedy aÅ¾ na to, Å¾e byl v Denu jednÃ­m z nich. PovÄ›z mi o nÄ›Äem jinÃ©m.}
 {778}{}{Nashle.}
-{779}{slk48a}{Otrokáøi unésti ségra naši. Mysleti, e Vic míti informace. My ho nevidìti, poøádnì se nasrati a píti jako ryba íznivá. Duchové Hnìv a Chaos si s námi zahráti a teï my muset zaplatiti za škody.}
-{780}{slk48b}{My zkoušeti zjistiti cestu, kterou hledati otrokáøe, co unést naša ségra. Snad jih.}
-{781}{slk48c}{Chtíti jít hledati ségra. Mysleti, e bıti nìkde na jih, ale nemíti jistota. Chtíti spoleènost?}
-{782}{}{Ty hledáš obchodníka Vica?}
-{783}{}{Ty musíš zaplatit škody?}
+{779}{slk48a}{OtrokÃ¡Å™i unÃ©sti sÃ©gra naÅ¡i. Mysleti, Å¾e Vic mÃ­ti informace. My ho nevidÄ›ti, poÅ™Ã¡dnÄ› se nasrati a pÃ­ti jako ryba Å¾Ã­znivÃ¡. DuchovÃ© HnÄ›v a Chaos si s nÃ¡mi zahrÃ¡ti a teÄ my muset zaplatiti za Å¡kody.}
+{780}{slk48b}{My zkouÅ¡eti zjistiti cestu, kterou hledati otrokÃ¡Å™e, co unÃ©st naÅ¡a sÃ©gra. Snad jih.}
+{781}{slk48c}{ChtÃ­ti jÃ­t hledati sÃ©gra. Mysleti, Å¾e bÃ½ti nÄ›kde na jih, ale nemÃ­ti jistota. ChtÃ­ti spoleÄnost?}
+{782}{}{Ty hledÃ¡Å¡ obchodnÃ­ka Vica?}
+{783}{}{Ty musÃ­Å¡ zaplatit Å¡kody?}
 {784}{}{E-he! E-he, e-he!}
-{785}{}{Chci jít na jih. Uvítám, kdy pùjdeš se mnou.}
-{786}{}{Hledáš svoji sestru?}
-{787}{slk50}{Pøítela, se všema duchy, co se mnou choditi, se nemuseti pøi cestách báti nièeho.}
-{790}{slk52a}{Tebe provázeti vìci špatné. Dìdek Kostìj øíkati, e my nashromáditi povìst špatná jen kolem tebe bıti.}
-{791}{slk52b}{Tady mì míti. Dìdek Kostìj øíkati my moná najíti ségru s tebou.}
+{785}{}{Chci jÃ­t na jih. UvÃ­tÃ¡m, kdyÅ¾ pÅ¯jdeÅ¡ se mnou.}
+{786}{}{HledÃ¡Å¡ svoji sestru?}
+{787}{slk50}{PÅ™Ã­tela, se vÅ¡ema duchy, co se mnou choditi, se nemuseti pÅ™i cestÃ¡ch bÃ¡ti niÄeho.}
+{790}{slk52a}{Tebe provÃ¡zeti vÄ›ci Å¡patnÃ©. DÄ›dek KostÄ›j Å™Ã­kati, Å¾e my nashromÃ¡Å¾diti povÄ›st Å¡patnÃ¡ jen kolem tebe bÃ½ti.}
+{791}{slk52b}{Tady mÄ› mÃ­ti. DÄ›dek KostÄ›j Å™Ã­kati my moÅ¾nÃ¡ najÃ­ti sÃ©gru s tebou.}
 {792}{}{Eh.}
-{793}{}{To doufám. Kadopádnì bude hezké cestovat s tebou a, ehm, kostí tvého dìdeèka.}
-{794}{slk53}{Nejen Dìdek Kostìj, všechny kmenová duchy. Dìdek Kostìj on jen moudøejší a silnìjší ne ostatní. Dopøáti mu trochu klid.}
-{795}{}{Jo, jasnì. Dobøe, Suliku.}
-{796}{slk54}{Co pro tebe my a já moct udìlati?}
-{797}{}{Chci se tì na nìco zeptat.}
-{798}{}{Kde mùu najít nìjaké obchodníky, léèitele nebo pokoj?}
-{799}{}{Neslyšel jsi nìkdy o GECKu?}
-{800}{}{Co se dìje ve mìstì?}
-{801}{}{Co tu dìláš?}
-{802}{}{Nechceš jít se mnou, kdy jsi teï volnı?}
-{803}{}{Myslím, e teï nic nepotøebuju. Sbohem.}
-{804}{slk55}{Tak moc otázek. Maida ona o obchod starati a matka její, Ardin, míti na starosti pokoje. Ve mìstì ádnı šaman, ale ty moct vykšeftovati nìjaké vìci na léèení.}
-{805}{}{Aha, díky. Chci se ještì na nìco zeptat.}
-{806}{}{Myslím, e to bude asi všechno. Sbohem.}
-{807}{slk56}{O nìèem takovém my nikdy neslyšela. Ale Maida nám nedat oddych.}
+{793}{}{To doufÃ¡m. KaÅ¾dopÃ¡dnÄ› bude hezkÃ© cestovat s tebou a, ehm, kostÃ­ tvÃ©ho dÄ›deÄka.}
+{794}{slk53}{Nejen DÄ›dek KostÄ›j, vÅ¡echny kmenovÃ¡ duchy. DÄ›dek KostÄ›j on jen moudÅ™ejÅ¡Ã­ a silnÄ›jÅ¡Ã­ neÅ¾ ostatnÃ­. DopÅ™Ã¡ti mu trochu klid.}
+{795}{}{Jo, jasnÄ›. DobÅ™e, Suliku.}
+{796}{slk54}{Co pro tebe my a jÃ¡ moct udÄ›lati?}
+{797}{}{Chci se tÄ› na nÄ›co zeptat.}
+{798}{}{Kde mÅ¯Å¾u najÃ­t nÄ›jakÃ© obchodnÃ­ky, lÃ©Äitele nebo pokoj?}
+{799}{}{NeslyÅ¡el jsi nÄ›kdy o GECKu?}
+{800}{}{Co se dÄ›je ve mÄ›stÄ›?}
+{801}{}{Co tu dÄ›lÃ¡Å¡?}
+{802}{}{NechceÅ¡ jÃ­t se mnou, kdyÅ¾ jsi teÄ volnÃ½?}
+{803}{}{MyslÃ­m, Å¾e teÄ nic nepotÅ™ebuju. Sbohem.}
+{804}{slk55}{Tak moc otÃ¡zek. Maida ona o obchod starati a matka jejÃ­, Ardin, mÃ­ti na starosti pokoje. Ve mÄ›stÄ› Å¾Ã¡dnÃ½ Å¡aman, ale ty moct vykÅ¡eftovati nÄ›jakÃ© vÄ›ci na lÃ©ÄenÃ­.}
+{805}{}{Aha, dÃ­ky. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{806}{}{MyslÃ­m, Å¾e to bude asi vÅ¡echno. Sbohem.}
+{807}{slk56}{O nÄ›Äem takovÃ©m my nikdy neslyÅ¡ela. Ale Maida nÃ¡m nedat oddych.}
 {808}{}{Kdo je Maida?}
-{809}{}{Aha, chci se ještì na nìco zeptat.}
-{810}{}{Dobrá, nechám tì dìlat svoji práci. Sbohem.}
-{811}{slk57a}{Rušnı místo. Lido-brouci unášela dobytek, duchové kráèela, Smiley se ztratiti.}
-{812}{slk57b}{Rušné místo. Lido-brouci unášela dobytek, duchové kráèela, Smiley se ztratiti. Teï taky Torr se ztratiti.}
-{813}{slk57c}{Míti více otázek na Sulik?}
-{814}{}{Povìz mi o tìch lido-broucích.}
-{815}{}{Kráèející duchové? Povìz mi o nich.}
+{809}{}{Aha, chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{810}{}{DobrÃ¡, nechÃ¡m tÄ› dÄ›lat svoji prÃ¡ci. Sbohem.}
+{811}{slk57a}{RuÅ¡nÃ½ mÃ­sto. Lido-brouci unÃ¡Å¡ela dobytek, duchovÃ© krÃ¡Äela, Smiley se ztratiti.}
+{812}{slk57b}{RuÅ¡nÃ© mÃ­sto. Lido-brouci unÃ¡Å¡ela dobytek, duchovÃ© krÃ¡Äela, Smiley se ztratiti. TeÄ taky Torr se ztratiti.}
+{813}{slk57c}{MÃ­ti vÃ­ce otÃ¡zek na Sulik?}
+{814}{}{PovÄ›z mi o tÄ›ch lido-broucÃ­ch.}
+{815}{}{KrÃ¡ÄejÃ­cÃ­ duchovÃ©? PovÄ›z mi o nich.}
 {816}{}{Smiley? Kdo je Smiley?}
-{817}{}{Torr se ztratil? Kam myslíš, e mohl jít?}
-{818}{}{Chci se ještì na nìco zeptat.}
-{819}{}{Myslím, e to bude prozatím všechno. Sbohem.}
-{820}{slk58alt}{My bıti dobrá s pìstí, kopíjem, velká kladivoun nebo sámopalá. My bıti zruèní.}
-{821}{slk59}{Torr povídati nám o nìjakıch broukách, co chodit po nohách dvou a krást brahmíny. On bıti vystrašenı.}
-{822}{}{Zajímavé. Chci se ještì na nìco zeptat.}
-{823}{}{Myslím, e to bude asi všechno. Sbohem.}
-{824}{slk60}{Kaòon vıchodnì od pastvina prı obsahovati chodící, vyjící ducha. Otøást to místními. Ale Dìdek Kostìj neøíkati ádná slova.}
-{825}{slk61}{Smiley bıti dobrá lovec. On øíkati hledati hnízdo zlatıch geckonù. On stále nevrátiti.}
-{830}{slk62a}{Kde chvìjící se kameny pobıvati následovala cesta, co vidìti nemoci.}
-{831}{slk62b}{Vítr vanouti na skrytá místa.}
-{832}{slk62c}{Dívat se po vidìní co nenáleet.}
-{833}{slk62d}{Vyšší místa, delší oblièej.}
-{834}{slk62e}{Klidná voda netéct vùbec.}
-{835}{slk62f}{Kvìtina otevírat své kvìty ke slunce. Hledati to, co jako kvìtina.}
-{836}{slk62g}{To, co dveøe bıti, vdy nevésti nìkam. To, co dveøe nebıti, nìkdy vésti.}
-{837}{slk62h}{Hledat odraz seba sama. Stezky se pøed tebou otevøela.}
-{838}{slk62i}{Tráva je zelenìjšá za ohradou, ale nejprve muset najíti ohradu.}
-{839}{slk62j}{Zdviháním kamenù najít víc ne slimáky.}
-{840}{slk63a}{Dveøe bıti pouze jedna cesta na druhou stranu.}
-{841}{slk63b}{Nìkdy bıti èas mluviti a nìkdy èas naslouchati.}
-{842}{slk63c}{Nejlepší odpovìï nebıti vdy ta nejhlasitìjší.}
-{843}{slk63d}{I ta nejmenší mysl obsahovati nìjakou znalost.}
-{844}{slk63e}{Potom co ty nìco zabiti, ono s tebou nepromluviti.}
-{845}{slk63f}{Jestli to bıti rozbito, pak to kdysi fungovati.}
-{846}{slk63g}{Nástroje nìkdy míti podivná tvary.}
-{847}{slk63h}{Ty neposílat kováøe péct chleba.}
-{848}{slk63i}{Nikdo nevyslıchati ty, co on vidí den kadá.}
-{849}{slk63j}{Jestli ty poèkati dost dlouho, mnoho návykù samy vyléèiti.}
-{850}{slk63k}{Zabíjení dobrıch lidí skvrnit tvoja duša. Nìkteøí èlovìk to moct vycítit.}
-{851}{slk63l}{Zabíjení špatnıch lidí bıti dobré pro tvá Karma. Nìkteøí èlovìci to moct vycítit.}
-{852}{slk63m}{Laskavé skutky zøídka zapomínati se.}
-{860}{slk64a}{Zelená bıti šastná pro ty.}
-{861}{slk64b}{O nìco tišeji teï.}
-{862}{slk64c}{Podívat ne ty spadnout.}
-{863}{slk64d}{Dikobraz nebıti polštáø.}
-{864}{slk64e}{Kde zmizeti stíny kdy potmì?}
-{865}{slk64f}{O nìco hlasitìji teï.}
-{866}{slk64g}{Houby dìlat špatnou veèeøi.}
-{867}{slk64h}{Bıti snadné duchem státi se.}
-{868}{slk64i}{Køièeti.}
-{869}{slk64j}{Vousy rùsti, voda téci, ale skály jen státi.}
-{870}{slk64k}{Kdy denní svit konèit, co zaèínat?}
-{880}{slk65}{Co ty potøebovati?}
-{881}{}{Potøebuju, abys mi uhnul z cesty.}
-{882}{}{Potøebuju zmìnit tvoji bojovou taktiku.}
-{883}{}{Potøebuju, abys tu poèkal.}
-{884}{}{Mìl by ses vyléèit.}
-{885}{}{Povìz mi jak na tom jsi.}
-{886}{}{To bude prozatím všechno, Suliku.}
-{887}{}{Povìz mi nìco o tomhle místì.}
-{890}{slk66}{Jaká bojová strategie chtíti zmìnila?}
-{891}{}{Chci, abys zmìnil rozestup.}
-{892}{}{Chci, abys pouil svoji nejlepší zbraò.}
-{893}{}{Chci, aby sis vzal tu nejlepší zbroj.}
-{894}{}{Chci zmìnit tvùj zpùsob boje.}
-{895}{}{Zapomeò na to.}
-{900}{slk67}{Jaká vzdálenost ty vyadovat od nás?}
-{901}{}{Chci, abys stál blízko.}
-{902}{}{Chci, abys stál kousek opodál.}
-{903}{}{Chci, abys stál daleko ode mì.}
-{904}{}{Chci, abys šel napøed.}
-{905}{slk68}{Jakı zpùsob boje my pouít?}
-{906}{}{Chci, abys bojoval defenzivnì.}
-{907}{}{Chci, abys bojoval normálnì.}
-{908}{}{Chci, abys bojoval agresivnì.}
-{910}{slk69}{Jeden pøeívat. Chlap on špatná stav. Øíkat, e zlá váleèníka pøijíti s kouzelnımi ohnivımi holemi. Oheò z nich olíznouti bojovníka z kmena a oni k duchùm odejíti.}
-{911}{}{A co se stalo s tvojí sestrou?}
-{912}{slk69a}{Zlí bojovníci svázat zbylá otrok a zmizet. Ségru oni vzíti s sebou. Pøítela, my ji najíti nebo umírati pøi hledání.}
-{913}{}{To opravdu zní jako otrokáøi. Zjistil jsi o nich nìco?}
-{914}{}{To je mi líto. Doufám, e ji najdeš. Chci se ještì na nìco zeptat.}
-{915}{}{Myslím, e to bude všechno. Sbohem.}
-{916}{slk70a}{Bıt tu trochu jako v mraveništi. Moc tìsno pro nás.}
-{917}{slk70b}{Náš kmen se zdát menší ne tento. Moc lidí na tuhle cestu.}
-{918}{slk70c}{Ty u míti úplná armáda. Nepotøebovat abychom ti my a já pomáhati.}
-{919}{slk71}{My a já bıti zarmouceni, kdy vidìti, e ty vzít znamení. My myslet, e tvá duše èernat. Museti odejíti. Nashledaná.}
-{920}{slk72}{Ty mysleti, e vlastniti èlovìka v pohodì bıti? Potom bıvalı pøítel. My odcházeti.}
-{921}{slk73a}{Ty míti mnoho problémù s lidmi. My odejíti, dokud ty nevyøešiti problém tento.}
-{922}{slk73b}{Ty bıti jako špatnı sen. My odejít pryè.}
-{923}{slk74}{My nikdy nebıti pøítel se zabijákem dìtí.}
-{924}{slk75}{My mysleti, e ty dìlat velkou chybu, ale v pohodì.}
-{925}{slk76}{My slyšeti, e ty chtìla Torr pomáhati. Bıti problém, jestli on ztratiti ještì další brahmína.}
+{817}{}{Torr se ztratil? Kam myslÃ­Å¡, Å¾e mohl jÃ­t?}
+{818}{}{Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{819}{}{MyslÃ­m, Å¾e to bude prozatÃ­m vÅ¡echno. Sbohem.}
+{820}{slk58alt}{My bÃ½ti dobrÃ¡ s pÄ›stÃ­, kopÃ­jem, velkÃ¡ kladivoun nebo sÃ¡mopalÃ¡. My bÃ½ti zruÄnÃ­.}
+{821}{slk59}{Torr povÃ­dati nÃ¡m o nÄ›jakÃ½ch broukÃ¡ch, co chodit po nohÃ¡ch dvou a krÃ¡st brahmÃ­ny. On bÃ½ti vystraÅ¡enÃ½.}
+{822}{}{ZajÃ­mavÃ©. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{823}{}{MyslÃ­m, Å¾e to bude asi vÅ¡echno. Sbohem.}
+{824}{slk60}{KaÅˆon vÃ½chodnÄ› od pastvina prÃ½ obsahovati chodÃ­cÃ­, vyjÃ­cÃ­ ducha. OtÅ™Ã¡st to mÃ­stnÃ­mi. Ale DÄ›dek KostÄ›j neÅ™Ã­kati Å¾Ã¡dnÃ¡ slova.}
+{825}{slk61}{Smiley bÃ½ti dobrÃ¡ lovec. On Å™Ã­kati hledati hnÃ­zdo zlatÃ½ch geckonÅ¯. On stÃ¡le nevrÃ¡titi.}
+{830}{slk62a}{Kde chvÄ›jÃ­cÃ­ se kameny pobÃ½vati nÃ¡sledovala cesta, co vidÄ›ti nemoci.}
+{831}{slk62b}{VÃ­tr vanouti na skrytÃ¡ mÃ­sta.}
+{832}{slk62c}{DÃ­vat se po vidÄ›nÃ­ co nenÃ¡leÅ¾et.}
+{833}{slk62d}{VyÅ¡Å¡Ã­ mÃ­sta, delÅ¡Ã­ obliÄej.}
+{834}{slk62e}{KlidnÃ¡ voda netÃ©ct vÅ¯bec.}
+{835}{slk62f}{KvÄ›tina otevÃ­rat svÃ© kvÄ›ty ke slunce. Hledati to, co jako kvÄ›tina.}
+{836}{slk62g}{To, co dveÅ™e bÃ½ti, vÅ¾dy nevÃ©sti nÄ›kam. To, co dveÅ™e nebÃ½ti, nÄ›kdy vÃ©sti.}
+{837}{slk62h}{Hledat odraz seba sama. Stezky se pÅ™ed tebou otevÅ™ela.}
+{838}{slk62i}{TrÃ¡va je zelenÄ›jÅ¡Ã¡ za ohradou, ale nejprve muset najÃ­ti ohradu.}
+{839}{slk62j}{ZdvihÃ¡nÃ­m kamenÅ¯ najÃ­t vÃ­c neÅ¾ slimÃ¡ky.}
+{840}{slk63a}{DveÅ™e bÃ½ti pouze jedna cesta na druhou stranu.}
+{841}{slk63b}{NÄ›kdy bÃ½ti Äas mluviti a nÄ›kdy Äas naslouchati.}
+{842}{slk63c}{NejlepÅ¡Ã­ odpovÄ›Ä nebÃ½ti vÅ¾dy ta nejhlasitÄ›jÅ¡Ã­.}
+{843}{slk63d}{I ta nejmenÅ¡Ã­ mysl obsahovati nÄ›jakou znalost.}
+{844}{slk63e}{Potom co ty nÄ›co zabiti, ono s tebou nepromluviti.}
+{845}{slk63f}{Jestli to bÃ½ti rozbito, pak to kdysi fungovati.}
+{846}{slk63g}{NÃ¡stroje nÄ›kdy mÃ­ti podivnÃ¡ tvary.}
+{847}{slk63h}{Ty neposÃ­lat kovÃ¡Å™e pÃ©ct chleba.}
+{848}{slk63i}{Nikdo nevyslÃ½chati ty, co on vidÃ­ den kaÅ¾dÃ¡.}
+{849}{slk63j}{Jestli ty poÄkati dost dlouho, mnoho nÃ¡vykÅ¯ samy vylÃ©Äiti.}
+{850}{slk63k}{ZabÃ­jenÃ­ dobrÃ½ch lidÃ­ skvrnit tvoja duÅ¡a. NÄ›kteÅ™Ã­ ÄlovÄ›k to moct vycÃ­tit.}
+{851}{slk63l}{ZabÃ­jenÃ­ Å¡patnÃ½ch lidÃ­ bÃ½ti dobrÃ© pro tvÃ¡ Karma. NÄ›kteÅ™Ã­ ÄlovÄ›ci to moct vycÃ­tit.}
+{852}{slk63m}{LaskavÃ© skutky zÅ™Ã­dka zapomÃ­nati se.}
+{860}{slk64a}{ZelenÃ¡ bÃ½ti Å¡Å¥astnÃ¡ pro ty.}
+{861}{slk64b}{O nÄ›co tiÅ¡eji teÄ.}
+{862}{slk64c}{PodÃ­vat neÅ¾ ty spadnout.}
+{863}{slk64d}{Dikobraz nebÃ½ti polÅ¡tÃ¡Å™.}
+{864}{slk64e}{Kde zmizeti stÃ­ny kdyÅ¾ potmÄ›?}
+{865}{slk64f}{O nÄ›co hlasitÄ›ji teÄ.}
+{866}{slk64g}{Houby dÄ›lat Å¡patnou veÄeÅ™i.}
+{867}{slk64h}{BÃ½ti snadnÃ© duchem stÃ¡ti se.}
+{868}{slk64i}{KÅ™iÄeti.}
+{869}{slk64j}{Vousy rÅ¯sti, voda tÃ©ci, ale skÃ¡ly jen stÃ¡ti.}
+{870}{slk64k}{KdyÅ¾ dennÃ­ svit konÄit, co zaÄÃ­nat?}
+{880}{slk65}{Co ty potÅ™ebovati?}
+{881}{}{PotÅ™ebuju, abys mi uhnul z cesty.}
+{882}{}{PotÅ™ebuju zmÄ›nit tvoji bojovou taktiku.}
+{883}{}{PotÅ™ebuju, abys tu poÄkal.}
+{884}{}{MÄ›l by ses vylÃ©Äit.}
+{885}{}{PovÄ›z mi jak na tom jsi.}
+{886}{}{To bude prozatÃ­m vÅ¡echno, Suliku.}
+{887}{}{PovÄ›z mi nÄ›co o tomhle mÃ­stÄ›.}
+{890}{slk66}{JakÃ¡ bojovÃ¡ strategie chtÃ­ti zmÄ›nila?}
+{891}{}{Chci, abys zmÄ›nil rozestup.}
+{892}{}{Chci, abys pouÅ¾il svoji nejlepÅ¡Ã­ zbraÅˆ.}
+{893}{}{Chci, aby sis vzal tu nejlepÅ¡Ã­ zbroj.}
+{894}{}{Chci zmÄ›nit tvÅ¯j zpÅ¯sob boje.}
+{895}{}{ZapomeÅˆ na to.}
+{900}{slk67}{JakÃ¡ vzdÃ¡lenost ty vyÅ¾adovat od nÃ¡s?}
+{901}{}{Chci, abys stÃ¡l blÃ­zko.}
+{902}{}{Chci, abys stÃ¡l kousek opodÃ¡l.}
+{903}{}{Chci, abys stÃ¡l daleko ode mÄ›.}
+{904}{}{Chci, abys Å¡el napÅ™ed.}
+{905}{slk68}{JakÃ½ zpÅ¯sob boje my pouÅ¾Ã­t?}
+{906}{}{Chci, abys bojoval defenzivnÄ›.}
+{907}{}{Chci, abys bojoval normÃ¡lnÄ›.}
+{908}{}{Chci, abys bojoval agresivnÄ›.}
+{910}{slk69}{Jeden pÅ™eÅ¾Ã­vat. Chlap on Å¡patnÃ¡ stav. Å˜Ã­kat, Å¾e zlÃ¡ vÃ¡leÄnÃ­ka pÅ™ijÃ­ti s kouzelnÃ½mi ohnivÃ½mi holemi. OheÅˆ z nich olÃ­znouti bojovnÃ­ka z kmena a oni k duchÅ¯m odejÃ­ti.}
+{911}{}{A co se stalo s tvojÃ­ sestrou?}
+{912}{slk69a}{ZlÃ­ bojovnÃ­ci svÃ¡zat zbylÃ¡ otrok a zmizet. SÃ©gru oni vzÃ­ti s sebou. PÅ™Ã­tela, my ji najÃ­ti nebo umÃ­rati pÅ™i hledÃ¡nÃ­.}
+{913}{}{To opravdu znÃ­ jako otrokÃ¡Å™i. Zjistil jsi o nich nÄ›co?}
+{914}{}{To je mi lÃ­to. DoufÃ¡m, Å¾e ji najdeÅ¡. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{915}{}{MyslÃ­m, Å¾e to bude vÅ¡echno. Sbohem.}
+{916}{slk70a}{BÃ½t tu trochu jako v mraveniÅ¡ti. Moc tÄ›sno pro nÃ¡s.}
+{917}{slk70b}{NÃ¡Å¡ kmen se zdÃ¡t menÅ¡Ã­ neÅ¾ tento. Moc lidÃ­ na tuhle cestu.}
+{918}{slk70c}{Ty uÅ¾ mÃ­ti ÃºplnÃ¡ armÃ¡da. NepotÅ™ebovat abychom ti my a jÃ¡ pomÃ¡hati.}
+{919}{slk71}{My a jÃ¡ bÃ½ti zarmouceni, kdyÅ¾ vidÄ›ti, Å¾e ty vzÃ­t znamenÃ­. My myslet, Å¾e tvÃ¡ duÅ¡e Äernat. Museti odejÃ­ti. NashledanÃ¡.}
+{920}{slk72}{Ty mysleti, Å¾e vlastniti ÄlovÄ›ka v pohodÄ› bÃ½ti? Potom bÃ½valÃ½ pÅ™Ã­tel. My odchÃ¡zeti.}
+{921}{slk73a}{Ty mÃ­ti mnoho problÃ©mÅ¯ s lidmi. My odejÃ­ti, dokud ty nevyÅ™eÅ¡iti problÃ©m tento.}
+{922}{slk73b}{Ty bÃ½ti jako Å¡patnÃ½ sen. My odejÃ­t pryÄ.}
+{923}{slk74}{My nikdy nebÃ½ti pÅ™Ã­tel se zabijÃ¡kem dÄ›tÃ­.}
+{924}{slk75}{My mysleti, Å¾e ty dÄ›lat velkou chybu, ale v pohodÄ›.}
+{925}{slk76}{My slyÅ¡eti, Å¾e ty chtÄ›la Torr pomÃ¡hati. BÃ½ti problÃ©m, jestli on ztratiti jeÅ¡tÄ› dalÅ¡Ã­ brahmÃ­na.}
 {926}{}{Eh?}
 {927}{}{Ehm. Ahoj.}
-{928}{}{No, vypadal jako nìkdo, kdo potøebuje pomoc. Mám na tebe nìjaké otázky.}
-{929}{}{Prostì potøeboval pomoc. Potøebuju nìjaké místní informace.}
-{930}{}{Torr potøebuje pomoc. Radìji se na to podívám. Sbohem.}
-{931}{slk77}{My slyšeti, e ty nemohla pomoci Torr. Moc špatné, on potøebovati píchnouti.}
-{932}{}{No, stane se. Ale teï potøebuju nìjaké místní informace.}
-{933}{}{Opravdu jsem se mu snail pomoct. Je mi líto, e to nešlo. Sbohem.}
-{934}{}{No, byl to idiot, take koho zajímá co se s ním stane. Sbohem.}
-{935}{slk78}{Doufat, e ty Torra najít. On pomoc potøebovati.}
-{936}{}{Kam odešel?}
-{937}{}{Je mi líto, e se Torr ztratil. Ale teï mám na tebe pár otázek.}
-{938}{}{Chci pomoct Torrovi, ale teï zrovna nemám èas. Sbohem.}
-{939}{}{Torr je prostì vadnej. Nikdo mu nedokáe pomoct. Sbohem.}
-{940}{slk79}{My ho slyšeti. On øíkati, e chtít zabít Ducha, kterı kráèí. Zkoušet bıti stateènı.}
-{941}{}{Duch, kterı kráèí?}
-{942}{}{Páni. Duchové? To zní strašidelnì. Sbohem.}
-{943}{slk80}{Na vıchod bıti kaòon, kde brahmíny krmiti. My slyšet odtama mnoho mìsícù zpìt hømìní a vidìti blesky... bez mrakù. Zlí duchové tam pøicházeti.}
+{928}{}{No, vypadal jako nÄ›kdo, kdo potÅ™ebuje pomoc. MÃ¡m na tebe nÄ›jakÃ© otÃ¡zky.}
+{929}{}{ProstÄ› potÅ™eboval pomoc. PotÅ™ebuju nÄ›jakÃ© mÃ­stnÃ­ informace.}
+{930}{}{Torr potÅ™ebuje pomoc. RadÄ›ji se na to podÃ­vÃ¡m. Sbohem.}
+{931}{slk77}{My slyÅ¡eti, Å¾e ty nemohla pomoci Torr. Moc Å¡patnÃ©, on potÅ™ebovati pÃ­chnouti.}
+{932}{}{No, stane se. Ale teÄ potÅ™ebuju nÄ›jakÃ© mÃ­stnÃ­ informace.}
+{933}{}{Opravdu jsem se mu snaÅ¾il pomoct. Je mi lÃ­to, Å¾e to neÅ¡lo. Sbohem.}
+{934}{}{No, byl to idiot, takÅ¾e koho zajÃ­mÃ¡ co se s nÃ­m stane. Sbohem.}
+{935}{slk78}{Doufat, Å¾e ty Torra najÃ­t. On pomoc potÅ™ebovati.}
+{936}{}{Kam odeÅ¡el?}
+{937}{}{Je mi lÃ­to, Å¾e se Torr ztratil. Ale teÄ mÃ¡m na tebe pÃ¡r otÃ¡zek.}
+{938}{}{Chci pomoct Torrovi, ale teÄ zrovna nemÃ¡m Äas. Sbohem.}
+{939}{}{Torr je prostÄ› vadnej. Nikdo mu nedokÃ¡Å¾e pomoct. Sbohem.}
+{940}{slk79}{My ho slyÅ¡eti. On Å™Ã­kati, Å¾e chtÃ­t zabÃ­t Ducha, kterÃ½ krÃ¡ÄÃ­. ZkouÅ¡et bÃ½ti stateÄnÃ½.}
+{941}{}{Duch, kterÃ½ krÃ¡ÄÃ­?}
+{942}{}{PÃ¡ni. DuchovÃ©? To znÃ­ straÅ¡idelnÄ›. Sbohem.}
+{943}{slk80}{Na vÃ½chod bÃ½ti kaÅˆon, kde brahmÃ­ny krmiti. My slyÅ¡et odtama mnoho mÄ›sÃ­cÅ¯ zpÄ›t hÅ™mÄ›nÃ­ a vidÄ›ti blesky... bez mrakÅ¯. ZlÃ­ duchovÃ© tam pÅ™ichÃ¡zeti.}
 {944}{}{Opravdu?}
-{945}{slk80a}{Místní slyšet divné zvuky. Duchové v trızni, øíkati my a já. Nìkdo tam dokonce nìco vidìt. Duchové-pøíšery nemající tvar èlovìk.}
+{945}{slk80a}{MÃ­stnÃ­ slyÅ¡et divnÃ© zvuky. DuchovÃ© v trÃ½zni, Å™Ã­kati my a jÃ¡. NÄ›kdo tam dokonce nÄ›co vidÄ›t. DuchovÃ©-pÅ™Ã­Å¡ery nemajÃ­cÃ­ tvar ÄlovÄ›k.}
 {946}{}{He.}
-{947}{}{To zní nebezpeènì. Co s tím má Torr spoleèného?}
-{948}{slk80b}{Torr bıti terèem mnoha erta. A tak on si mysleti kdy nalézti a zabiti duchy zlá, on hrdina. My mysleti on míti velká problém. Pomoct Torrovi?}
+{947}{}{To znÃ­ nebezpeÄnÄ›. Co s tÃ­m mÃ¡ Torr spoleÄnÃ©ho?}
+{948}{slk80b}{Torr bÃ½ti terÄem mnoha Å¾erta. A tak on si mysleti kdyÅ¾ nalÃ©zti a zabiti duchy zlÃ¡, on hrdina. My mysleti on mÃ­ti velkÃ¡ problÃ©m. Pomoct Torrovi?}
 {949}{}{E-e!}
 {950}{}{Aha.}
-{951}{}{Pùjdu se po nìm hned podívat.}
-{952}{}{Samozøejmì, pomùu mu. Nejdøív ale potøebuju nìjaké informace.}
-{953}{}{Moná bychom mu mìli dát víc èasu. Nebude z nìj hrdina, kdy se do toho budu míchat. Potøebuju ještì nìjaké místní informace.}
-{954}{}{Eh, zajímavı pøíbìh, ale nemùu teï Torrovi pomoct, mám moc práce. Sbohem.}
-{955}{slk81a}{Ségra ona nalezena. My poslati domù ji. Ona silná, zvládnouti to. My chtìla jít s tebou. Dìdek Kostìj øíkati, e ty míti dlouhá cesta.}
-{956}{slk81b}{Ty vzíti nás teï s sebou?}
+{951}{}{PÅ¯jdu se po nÄ›m hned podÃ­vat.}
+{952}{}{SamozÅ™ejmÄ›, pomÅ¯Å¾u mu. NejdÅ™Ã­v ale potÅ™ebuju nÄ›jakÃ© informace.}
+{953}{}{MoÅ¾nÃ¡ bychom mu mÄ›li dÃ¡t vÃ­c Äasu. Nebude z nÄ›j hrdina, kdyÅ¾ se do toho budu mÃ­chat. PotÅ™ebuju jeÅ¡tÄ› nÄ›jakÃ© mÃ­stnÃ­ informace.}
+{954}{}{Eh, zajÃ­mavÃ½ pÅ™Ã­bÄ›h, ale nemÅ¯Å¾u teÄ Torrovi pomoct, mÃ¡m moc prÃ¡ce. Sbohem.}
+{955}{slk81a}{SÃ©gra ona nalezena. My poslati domÅ¯ ji. Ona silnÃ¡, zvlÃ¡dnouti to. My chtÄ›la jÃ­t s tebou. DÄ›dek KostÄ›j Å™Ã­kati, Å¾e ty mÃ­ti dlouhÃ¡ cesta.}
+{956}{slk81b}{Ty vzÃ­ti nÃ¡s teÄ s sebou?}
 {957}{}{Ne-e.}
 {958}{}{Aha.}
-{959}{}{Mìl by ses vrátit se svojí sestrou do vesnice, aby ses ujistil, e je v bezpeèí. Budeš mi chybìt, Suliku.}
+{959}{}{MÄ›l by ses vrÃ¡tit se svojÃ­ sestrou do vesnice, aby ses ujistil, Å¾e je v bezpeÄÃ­. BudeÅ¡ mi chybÄ›t, Suliku.}
 {960}{}{Tak jdeme, Suliku.}
-{961}{slk82a}{A ty skonèiti, nebıti na svìtì jediná zlá èlovìk.}
-{962}{slk82b}{Pøítela, ty nìkdy zvìdavá zda bıti více èlovìkù špatnıch ne kulek?}
-{963}{slk83a}{Ty prostì ráda dívati se dovnitø èlovìka, co?}
-{964}{slk83b}{Dìdek Kostìj øíkati, e mám obávati se, jestli tu nebıti nìkde okolo nikdo, koho ty moct zabíti.}
-{965}{slk84a}{My a já mysleti tvoje malá hlava dìlati všechna myšlení.}
-{966}{slk84b}{Ty se pøíliš zamìstnávat svım úkola.}
-{1016}{}{Bıt tu trochu jako v mraveništi. Moc tìsno pro nás.}
-{1017}{}{Náš kmen se zdát menší ne tento. Moc lidí na tuhle cestu.}
-{1018}{}{Ty u míti úplná armáda. Nepotøebovati abychom ti my a já pomáhati.}
-{1020}{}{Ty mysleti, e vlastnit èlovìka v pohodì bıti? Potom bıvalı pøítel. My odcházet.}
-{1021}{}{Ty míti mnoho problémù s lidmi. My odejíti, dokud ty nevyøešit problém tento.}
-{1023}{}{My nikdy nebıti pøítel se zabijákem dìtí.}
-{1025}{}{Ty dìlati probléma v Klamath. My odcházet.}
-{1026}{}{Ty dìlati probléma v má vesnica. My odcházet.}
+{961}{slk82a}{AÅ¾ ty skonÄiti, nebÃ½ti na svÄ›tÄ› jedinÃ¡ zlÃ¡ ÄlovÄ›k.}
+{962}{slk82b}{PÅ™Ã­tela, ty nÄ›kdy zvÄ›davÃ¡ zda bÃ½ti vÃ­ce ÄlovÄ›kÅ¯ Å¡patnÃ½ch neÅ¾ kulek?}
+{963}{slk83a}{Ty prostÄ› rÃ¡da dÃ­vati se dovnitÅ™ ÄlovÄ›ka, co?}
+{964}{slk83b}{DÄ›dek KostÄ›j Å™Ã­kati, Å¾e mÃ¡m obÃ¡vati se, jestli tu nebÃ½ti nÄ›kde okolo nikdo, koho ty moct zabÃ­ti.}
+{965}{slk84a}{My a jÃ¡ mysleti tvoje malÃ¡ hlava dÄ›lati vÅ¡echna myÅ¡lenÃ­.}
+{966}{slk84b}{Ty se pÅ™Ã­liÅ¡ zamÄ›stnÃ¡vat svÃ½m Ãºkola.}
+{1016}{}{BÃ½t tu trochu jako v mraveniÅ¡ti. Moc tÄ›sno pro nÃ¡s.}
+{1017}{}{NÃ¡Å¡ kmen se zdÃ¡t menÅ¡Ã­ neÅ¾ tento. Moc lidÃ­ na tuhle cestu.}
+{1018}{}{Ty uÅ¾ mÃ­ti ÃºplnÃ¡ armÃ¡da. NepotÅ™ebovati abychom ti my a jÃ¡ pomÃ¡hati.}
+{1020}{}{Ty mysleti, Å¾e vlastnit ÄlovÄ›ka v pohodÄ› bÃ½ti? Potom bÃ½valÃ½ pÅ™Ã­tel. My odchÃ¡zet.}
+{1021}{}{Ty mÃ­ti mnoho problÃ©mÅ¯ s lidmi. My odejÃ­ti, dokud ty nevyÅ™eÅ¡it problÃ©m tento.}
+{1023}{}{My nikdy nebÃ½ti pÅ™Ã­tel se zabijÃ¡kem dÄ›tÃ­.}
+{1025}{}{Ty dÄ›lati problÃ©ma v Klamath. My odchÃ¡zet.}
+{1026}{}{Ty dÄ›lati problÃ©ma v mÃ¡ vesnica. My odchÃ¡zet.}
 {2300}{}{De spirits be movin' us.}
 {2301}{}{We and I be movin'.}
-{2302}{}{Dobøe, ty brát to v pohodì.}
+{2302}{}{DobÅ™e, ty brÃ¡t to v pohodÄ›.}
 {2303}{}{Don' worry, We an' I be movin'.}
-{2304}{}{My myslet, e ty potøebovat obèas èichnout ke kvìtina. Dìdek Kostìj øíkati, e ty nìkdy pøíliš spìchati. Ty bráti ivota pomaleji.}
+{2304}{}{My myslet, Å¾e ty potÅ™ebovat obÄas Äichnout ke kvÄ›tina. DÄ›dek KostÄ›j Å™Ã­kati, Å¾e ty nÄ›kdy pÅ™Ã­liÅ¡ spÄ›chati. Ty brÃ¡ti Å¾ivota pomaleji.}
 {2305}{}{We be movin' an' groovin'.}
-{2306}{}{My a já jít teï támhletam.}
-{2307}{}{Relaxovat, štastná bıti, my se teï pohybovati.}
+{2306}{}{My a jÃ¡ jÃ­t teÄ tÃ¡mhletam.}
+{2307}{}{Relaxovat, Å¡tastnÃ¡ bÃ½ti, my se teÄ pohybovati.}
 {3000}{}{Na sever.}
-{3001}{}{Na severozápad.}
+{3001}{}{Na severozÃ¡pad.}
 {3002}{}{Tam, kde mizeti slunce.}
-{3003}{}{Na jihozápad.}
+{3003}{}{Na jihozÃ¡pad.}
 {3004}{}{Na jih.}
-{3005}{}{Na jihovıchod.}
+{3005}{}{Na jihovÃ½chod.}
 {3006}{}{Tam, kde slunce vznikati.}
-{3007}{}{Na severovıchod.}
-{3008}{}{My o tomhle nic nevìdìti.}
+{3007}{}{Na severovÃ½chod.}
+{3008}{}{My o tomhle nic nevÄ›dÄ›ti.}
 {3009}{}{Ano.}
 {3010}{}{Ne.}
-{3011}{}{Co ty od nás oèekávati?}
-{3012}{}{To nebıti hezké.}
-{3013}{}{Dík.}
-{3014}{}{To je dobrı.}
-{3015}{}{To není dobrı.}
-{3016}{}{My z tohoto míti dobrá pocit.}
-{3017}{}{My z tohoto míti zlá pocit.}
-{3018}{}{Ti lidi jsou šílení.}
-{3020}{}{Musí bıt i jinı zpùsob.}
-{3021}{}{Následovat nás.}
+{3011}{}{Co ty od nÃ¡s oÄekÃ¡vati?}
+{3012}{}{To nebÃ½ti hezkÃ©.}
+{3013}{}{DÃ­k.}
+{3014}{}{To je dobrÃ½.}
+{3015}{}{To nenÃ­ dobrÃ½.}
+{3016}{}{My z tohoto mÃ­ti dobrÃ¡ pocit.}
+{3017}{}{My z tohoto mÃ­ti zlÃ¡ pocit.}
+{3018}{}{Ti lidi jsou Å¡Ã­lenÃ­.}
+{3020}{}{MusÃ­ bÃ½t i jinÃ½ zpÅ¯sob.}
+{3021}{}{NÃ¡sledovat nÃ¡s.}
 {3022}{}{Zkus tohle.}
-{3023}{}{My teï jíti sem.}
-{3024}{}{Jíti to touhle cestou.}
-{3025}{}{Oni jíti takto.}
-{3026}{}{Tohle bıti cesta.}
-{3027}{}{My nalézti stezku.}
-{3028}{}{Dobré lovištì tady.}
-{3029}{}{Špatné lovištì tady.}
-{3030}{}{Bezpeèné pro táboøištì tady.}
-{3031}{}{Ne bezpeèné pro táboøištì tady.}
-{3032}{}{My moci odpoèívala tady.}
-{3033}{}{My míti štìstí.}
-{3034}{}{Musíš to spravit.}
-{3035}{}{Musíš to zapnout.}
-{3036}{}{Musíš to odemknout.}
-{3037}{}{Musíš to otevøít.}
-{3038}{}{Moná bychom se mìli vrátit.}
-{3039}{}{My nerozumìti.}
-{3040}{}{My nevìdìti.}
-{3050}{slk86}{Bıti doma paráda, ale tohle místo teï vypadati tak malé. Nám chybìti cesta a spoleènost tak dobrého pøítela, jako ty bıti. Potøebovati nás zase kráèeti po boku?}
-{3051}{}{To by bylo skvìlé.}
-{3052}{}{Promiò, teï ne.}
-{3053}{slk87}{My udìlat nìjaká ta louèeníèko, pak chytnouti tì na cesta pryè.}
-{3054}{}{Dobøe.}
-{3055}{slk88}{To bıti moc špatná. Øíct ti co, ty potøebovat tenhlenc kráma víc ne my. Dobøe jíti.}
-{3056}{}{Kdy o tom tak pøemıšlím, moná bys mìl jít se mnou. Promiò, nechtìl jsem tì tak brzy odtrhnout od tvého domova.}
-{3057}{slk89}{Dobré vidìti domov, ale ne dokud ségra ona poøád ztracena. My zatím stále zùstati v tvá spoleènost, dobøe?}
+{3023}{}{My teÄ jÃ­ti sem.}
+{3024}{}{JÃ­ti to touhle cestou.}
+{3025}{}{Oni jÃ­ti takto.}
+{3026}{}{Tohle bÃ½ti cesta.}
+{3027}{}{My nalÃ©zti stezku.}
+{3028}{}{DobrÃ© loviÅ¡tÄ› tady.}
+{3029}{}{Å patnÃ© loviÅ¡tÄ› tady.}
+{3030}{}{BezpeÄnÃ© pro tÃ¡boÅ™iÅ¡tÄ› tady.}
+{3031}{}{Ne bezpeÄnÃ© pro tÃ¡boÅ™iÅ¡tÄ› tady.}
+{3032}{}{My moci odpoÄÃ­vala tady.}
+{3033}{}{My mÃ­ti Å¡tÄ›stÃ­.}
+{3034}{}{MusÃ­Å¡ to spravit.}
+{3035}{}{MusÃ­Å¡ to zapnout.}
+{3036}{}{MusÃ­Å¡ to odemknout.}
+{3037}{}{MusÃ­Å¡ to otevÅ™Ã­t.}
+{3038}{}{MoÅ¾nÃ¡ bychom se mÄ›li vrÃ¡tit.}
+{3039}{}{My nerozumÄ›ti.}
+{3040}{}{My nevÄ›dÄ›ti.}
+{3050}{slk86}{BÃ½ti doma parÃ¡da, ale tohle mÃ­sto teÄ vypadati tak malÃ©. NÃ¡m chybÄ›ti cesta a spoleÄnost tak dobrÃ©ho pÅ™Ã­tela, jako ty bÃ½ti. PotÅ™ebovati nÃ¡s zase krÃ¡Äeti po boku?}
+{3051}{}{To by bylo skvÄ›lÃ©.}
+{3052}{}{PromiÅˆ, teÄ ne.}
+{3053}{slk87}{My udÄ›lat nÄ›jakÃ¡ ta louÄenÃ­Äko, pak chytnouti tÄ› na cesta pryÄ.}
+{3054}{}{DobÅ™e.}
+{3055}{slk88}{To bÃ½ti moc Å¡patnÃ¡. Å˜Ã­ct ti co, ty potÅ™ebovat tenhlenc krÃ¡ma vÃ­c neÅ¾ my. DobÅ™e jÃ­ti.}
+{3056}{}{KdyÅ¾ o tom tak pÅ™emÃ½Å¡lÃ­m, moÅ¾nÃ¡ bys mÄ›l jÃ­t se mnou. PromiÅˆ, nechtÄ›l jsem tÄ› tak brzy odtrhnout od tvÃ©ho domova.}
+{3057}{slk89}{DobrÃ© vidÄ›ti domov, ale ne dokud sÃ©gra ona poÅ™Ã¡d ztracena. My zatÃ­m stÃ¡le zÅ¯stati v tvÃ¡ spoleÄnost, dobÅ™e?}
 {3058}{}{Ano.}
-{3059}{}{Ne. Myslím, e je naèase, abys ji zaèal hledat sám.}
-{3060}{slk90}{Moná jo. Ty chybìti já a my. Dobrá duchové bıti s tebou, pøítela.}
-{3061}{}{Díky, Suliku. Sbohem. (Sulik ti pøedá svoji vıbavu.)}
-{3062}{}{No, moná bys mohl zùstat se mnou. Moná najdeme tvoji sestru.}
-{3063}{slk91a}{Ty potøebovati po tom všem nìjaká spoleènost?}
-{3064}{slk91b}{Bıti dobré zase bıti zpátky doma.}
-{3065}{slk91c}{My potøebovala promluviti si zblízka s malá hojivá bylinka. A svìt letí kolem okolo.}
-{3066}{slk91d}{Tak mnoho mladá dívka chtíti vyslechnouti o naše cestování a tak málo èasu.}
-{3067}{slk91e}{Podivná vìc. My bıti šastná, e doma, ale cítit trochu nepokoj, e ne na cestách.}
-{3068}{}{Ano, potøebuju.}
-{3069}{}{Ne, nemám.}
-{3070}{}{Suliku, mùeš se poradit s duchy?}
-{3071}{}{Suliku, schovej prosím svoji zbraò.}
-{3080}{}{Ty nebıti náš pøítel. Dìdek Kostìj ti nic neøíct.}
-{3081}{}{Ne, myslím, e je na èase, abychom šli kadı svojí cestou. Zùstaò tady se svojí sestrou, potøebuje tì.}
-{3082}{}{Bıti dobré zase bıti zpátky doma.}
-{3083}{}{Tak mnoho mladá dívka chtíti vyslechnouti o naše cestování a tak málo èasu.}
-{3084}{}{My potøebovala promluviti si zblízka s malá hojivá bylinka. A svìt letí kolem okolo.}
+{3059}{}{Ne. MyslÃ­m, Å¾e je naÄase, abys ji zaÄal hledat sÃ¡m.}
+{3060}{slk90}{MoÅ¾nÃ¡ jo. Ty chybÄ›ti jÃ¡ a my. DobrÃ¡ duchovÃ© bÃ½ti s tebou, pÅ™Ã­tela.}
+{3061}{}{DÃ­ky, Suliku. Sbohem. (Sulik ti pÅ™edÃ¡ svoji vÃ½bavu.)}
+{3062}{}{No, moÅ¾nÃ¡ bys mohl zÅ¯stat se mnou. MoÅ¾nÃ¡ najdeme tvoji sestru.}
+{3063}{slk91a}{Ty potÅ™ebovati po tom vÅ¡em nÄ›jakÃ¡ spoleÄnost?}
+{3064}{slk91b}{BÃ½ti dobrÃ© zase bÃ½ti zpÃ¡tky doma.}
+{3065}{slk91c}{My potÅ™ebovala promluviti si zblÃ­zka s malÃ¡ hojivÃ¡ bylinka. AÅ¥ svÄ›t letÃ­ kolem okolo.}
+{3066}{slk91d}{Tak mnoho mladÃ¡ dÃ­vka chtÃ­ti vyslechnouti o naÅ¡e cestovÃ¡nÃ­ a tak mÃ¡lo Äasu.}
+{3067}{slk91e}{PodivnÃ¡ vÄ›c. My bÃ½ti Å¡Å¥astnÃ¡, Å¾e doma, ale cÃ­tit trochu nepokoj, Å¾e ne na cestÃ¡ch.}
+{3068}{}{Ano, potÅ™ebuju.}
+{3069}{}{Ne, nemÃ¡m.}
+{3070}{}{Suliku, mÅ¯Å¾eÅ¡ se poradit s duchy?}
+{3071}{}{Suliku, schovej prosÃ­m svoji zbraÅˆ.}
+{3080}{}{Ty nebÃ½ti nÃ¡Å¡ pÅ™Ã­tel. DÄ›dek KostÄ›j ti nic neÅ™Ã­ct.}
+{3081}{}{Ne, myslÃ­m, Å¾e je na Äase, abychom Å¡li kaÅ¾dÃ½ svojÃ­ cestou. ZÅ¯staÅˆ tady se svojÃ­ sestrou, potÅ™ebuje tÄ›.}
+{3082}{}{BÃ½ti dobrÃ© zase bÃ½ti zpÃ¡tky doma.}
+{3083}{}{Tak mnoho mladÃ¡ dÃ­vka chtÃ­ti vyslechnouti o naÅ¡e cestovÃ¡nÃ­ a tak mÃ¡lo Äasu.}
+{3084}{}{My potÅ™ebovala promluviti si zblÃ­zka s malÃ¡ hojivÃ¡ bylinka. AÅ¥ svÄ›t letÃ­ kolem okolo.}
 {3086}{}{Take care, fren.}
-{3087}{}{My a já pøát ty moc štìstí.}
+{3087}{}{My a jÃ¡ pÅ™Ã¡t ty moc Å¡tÄ›stÃ­.}
 {3088}{}{Thanks again for everything, fren.}
-{3090}{}{Tady bıti naša vesnica. My a já jdeme promluvit s pøátela.}
-{3091}{}{My a já jdeme znova promluvit s pøátela pøedtím, ne odcházeti.}
-{3100}{}{[Více]}
-{3101}{}{Kde pøesnì se nachází tvùj kmen, Suliku?}
-{3102}{}{Díky. Chci se ještì na nìco zeptat.}
-{3103}{}{Ty taky, Suliku. Dávej na sebe pozor.}
-{3200}{}{Ano, mluvil jsem s paní Bucklerovou ohlednì tvého dluhu. Teï jen musím všechno domluvit s Maidou. Pøijdu zase za tebou, a to s ní proberu.}
-{3500}{}{My a já mysleti nìco špatná s námi. Ty raèi podívala na naša úda.}
-{3501}{}{My a já mysleti nìco špatná s námi. My záøiti jako slunce.}
-{3502}{}{My a já mysleti nìco špatná s námi. My cítiti otrávená.}
+{3090}{}{Tady bÃ½ti naÅ¡a vesnica. My a jÃ¡ jdeme promluvit s pÅ™Ã¡tela.}
+{3091}{}{My a jÃ¡ jdeme znova promluvit s pÅ™Ã¡tela pÅ™edtÃ­m, neÅ¾ odchÃ¡zeti.}
+{3100}{}{[VÃ­ce]}
+{3101}{}{Kde pÅ™esnÄ› se nachÃ¡zÃ­ tvÅ¯j kmen, Suliku?}
+{3102}{}{DÃ­ky. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{3103}{}{Ty taky, Suliku. DÃ¡vej na sebe pozor.}
+{3200}{}{Ano, mluvil jsem s panÃ­ Bucklerovou ohlednÄ› tvÃ©ho dluhu. TeÄ jen musÃ­m vÅ¡echno domluvit s Maidou. PÅ™ijdu zase za tebou, aÅ¾ to s nÃ­ proberu.}
+{3500}{}{My a jÃ¡ mysleti nÄ›co Å¡patnÃ¡ s nÃ¡mi. Ty raÄi podÃ­vala na naÅ¡a Ãºda.}
+{3501}{}{My a jÃ¡ mysleti nÄ›co Å¡patnÃ¡ s nÃ¡mi. My zÃ¡Å™iti jako slunce.}
+{3502}{}{My a jÃ¡ mysleti nÄ›co Å¡patnÃ¡ s nÃ¡mi. My cÃ­titi otrÃ¡venÃ¡.}

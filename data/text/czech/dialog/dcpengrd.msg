@@ -1,21 +1,21 @@
-{100}{}{Vidíš otrokáøe.}
-{150}{}{Vypadá velmi ostraitì.}
-{200}{}{Dotkni se toho ještì jednou a pøijdeš o ruku.}
+{100}{}{VidÃ­Å¡ otrokÃ¡Å™e.}
+{150}{}{VypadÃ¡ velmi ostraÅ¾itÄ›.}
+{200}{}{Dotkni se toho jeÅ¡tÄ› jednou a pÅ™ijdeÅ¡ o ruku.}
 {201}{}{Tak dost!}
-{210}{}{Tam vzadu nic není, jenom otroci.}
-{211}{}{Otroci nemají návštìvy.}
-{212}{}{Jen èlenové našeho cechu mùou projít tìmito dveømi.}
-{213}{}{Hledáš nìjakého otroka? Promluv si s Metzgerem.}
-{214}{}{Promluv si s Metzgerem. Ohrady pro otroky nejsou volnì pøístupné.}
-{215}{}{Co se tady motáš kolem? Vypadni.}
-{216}{}{Vypadni odsud, dìvko. Otroci nemají ádné návštìvy.}
-{230}{}{Jak to jde, kámo?}
-{231}{}{Dneska se to vleèe.}
-{232}{}{Doufám, e se ti v cechu líbí.}
-{233}{}{Tvoje tetování vypadá dobøe.}
-{234}{}{Byl jsi na minulém honu?}
+{210}{}{Tam vzadu nic nenÃ­, jenom otroci.}
+{211}{}{Otroci nemajÃ­ nÃ¡vÅ¡tÄ›vy.}
+{212}{}{Jen ÄlenovÃ© naÅ¡eho cechu mÅ¯Å¾ou projÃ­t tÄ›mito dveÅ™mi.}
+{213}{}{HledÃ¡Å¡ nÄ›jakÃ©ho otroka? Promluv si s Metzgerem.}
+{214}{}{Promluv si s Metzgerem. Ohrady pro otroky nejsou volnÄ› pÅ™Ã­stupnÃ©.}
+{215}{}{Co se tady motÃ¡Å¡ kolem? Vypadni.}
+{216}{}{Vypadni odsud, dÄ›vko. Otroci nemajÃ­ Å¾Ã¡dnÃ© nÃ¡vÅ¡tÄ›vy.}
+{230}{}{Jak to jde, kÃ¡mo?}
+{231}{}{Dneska se to vleÄe.}
+{232}{}{DoufÃ¡m, Å¾e se ti v cechu lÃ­bÃ­.}
+{233}{}{Tvoje tetovÃ¡nÃ­ vypadÃ¡ dobÅ™e.}
+{234}{}{Byl jsi na minulÃ©m honu?}
 {235}{}{Ahoj.}
-{236}{}{Jsi mùj typ enské.}
-{237}{}{enská otrokáøem... máš mùj obdiv.}
-{238}{}{Zdravím.}
-{239}{}{Vypadáš dobøe.}
+{236}{}{Jsi mÅ¯j typ Å¾enskÃ©.}
+{237}{}{Å½enskÃ¡ otrokÃ¡Å™em... mÃ¡Å¡ mÅ¯j obdiv.}
+{238}{}{ZdravÃ­m.}
+{239}{}{VypadÃ¡Å¡ dobÅ™e.}

@@ -1,74 +1,74 @@
-{100}{}{Vidíš osobu v legraèním pyamu.}
-{101}{}{Vidíš Shi, mìstského obyvatele.}
-{102}{}{Tato osoba vypadá jinak ne ostatní. Nevypadá to, e se o tebe zajímá.}
-{103}{}{Nejsi špión, e ne?}
+{100}{}{VidÃ­Å¡ osobu v legraÄnÃ­m pyÅ¾amu.}
+{101}{}{VidÃ­Å¡ Shi, mÄ›stskÃ©ho obyvatele.}
+{102}{}{Tato osoba vypadÃ¡ jinak neÅ¾ ostatnÃ­. NevypadÃ¡ to, Å¾e se o tebe zajÃ­mÃ¡.}
+{103}{}{Nejsi Å¡piÃ³n, Å¾e ne?}
 {104}{}{Kdo jsi?}
-{105}{}{Ryby a moøské øasy. To je to jediné, co tady máme.}
-{106}{}{Hehe, koukni na ty legraèní kulaté oèi!}
-{107}{}{Vypadáš jako Hubologista.}
-{108}{}{Nech nás na pokoji.}
-{109}{}{A ije Lo Pan!}
-{110}{}{Pryè s Dragonem!}
+{105}{}{Ryby a moÅ™skÃ© Å™asy. To je to jedinÃ©, co tady mÃ¡me.}
+{106}{}{Hehe, koukni na ty legraÄnÃ­ kulatÃ© oÄi!}
+{107}{}{VypadÃ¡Å¡ jako Hubologista.}
+{108}{}{Nech nÃ¡s na pokoji.}
+{109}{}{AÅ¥ Å¾ije Lo Pan!}
+{110}{}{PryÄ s Dragonem!}
 {111}{}{Lo Pan je hrdina.}
-{112}{}{Pozor na Dragona. Jsou s ním problémy.}
-{113}{}{Ti pankáèi jsou vdycky tak hlasití.}
-{114}{}{Práce, práce a zase jenom práce. Rıe, rıe a zase jenom rıe. ::povzdech::}
-{115}{}{To je celı ivot jenom o tomhle?}
-{116}{}{Jsme chytøejší, ne si myslíš.}
-{117}{}{Podívej! Lao wai!}
-{118}{}{Vítej v San Franciscu.}
-{119}{}{Vypadáš jako nìkdo, kdo to má v hlavì v poøádku.}
+{112}{}{Pozor na Dragona. Jsou s nÃ­m problÃ©my.}
+{113}{}{Ti pankÃ¡Äi jsou vÅ¾dycky tak hlasitÃ­.}
+{114}{}{PrÃ¡ce, prÃ¡ce a zase jenom prÃ¡ce. RÃ½Å¾e, rÃ½Å¾e a zase jenom rÃ½Å¾e. ::povzdech::}
+{115}{}{To je celÃ½ Å¾ivot jenom o tomhle?}
+{116}{}{Jsme chytÅ™ejÅ¡Ã­, neÅ¾ si myslÃ­Å¡.}
+{117}{}{PodÃ­vej! Lao wai!}
+{118}{}{VÃ­tej v San Franciscu.}
+{119}{}{VypadÃ¡Å¡ jako nÄ›kdo, kdo to mÃ¡ v hlavÄ› v poÅ™Ã¡dku.}
 {120}{}{Lo Panovi by se hodila tvoje pomoc.}
-{121}{}{Neubliuj lidem v èerveném, lao wai.}
-{122}{}{Lao wai znamená "cizinec".}
-{123}{}{Jsi na naší stranì, e ano?}
-{124}{}{Zabij pro nás Dragona, ano?}
-{125}{}{Tvoje pøítomnost je nám ctí.}
-{126}{}{Náš vùdce! Ach ne!}
-{127}{}{Musíme se pomstít za Lo Pana!}
-{128}{}{Kdo nás povede vstøíc lepším zítøkùm, kdy je teï Lo Pan mrtev?}
-{129}{}{Co budeme teï dìlat?}
-{130}{}{Jsme zneuctìni. Mìli bychom bıt mrtví jako Lo Pan.}
-{131}{}{ivot nemá ádnı smysl.}
-{132}{}{S Lo Panem odešly i naše sny.}
-{133}{}{Lo Pan byl náš poslední velkı vùdce.}
-{134}{}{Dragon je mrtvı! Lo Pan zvítìzil!}
-{135}{}{Vysmívejte se poraenım!}
+{121}{}{NeubliÅ¾uj lidem v ÄervenÃ©m, lao wai.}
+{122}{}{Lao wai znamenÃ¡ "cizinec".}
+{123}{}{Jsi na naÅ¡Ã­ stranÄ›, Å¾e ano?}
+{124}{}{Zabij pro nÃ¡s Dragona, ano?}
+{125}{}{Tvoje pÅ™Ã­tomnost je nÃ¡m ctÃ­.}
+{126}{}{NÃ¡Å¡ vÅ¯dce! Ach ne!}
+{127}{}{MusÃ­me se pomstÃ­t za Lo Pana!}
+{128}{}{Kdo nÃ¡s povede vstÅ™Ã­c lepÅ¡Ã­m zÃ­tÅ™kÅ¯m, kdyÅ¾ je teÄ Lo Pan mrtev?}
+{129}{}{Co budeme teÄ dÄ›lat?}
+{130}{}{Jsme zneuctÄ›ni. MÄ›li bychom bÃ½t mrtvÃ­ jako Lo Pan.}
+{131}{}{Å½ivot nemÃ¡ Å¾Ã¡dnÃ½ smysl.}
+{132}{}{S Lo Panem odeÅ¡ly i naÅ¡e sny.}
+{133}{}{Lo Pan byl nÃ¡Å¡ poslednÃ­ velkÃ½ vÅ¯dce.}
+{134}{}{Dragon je mrtvÃ½! Lo Pan zvÃ­tÄ›zil!}
+{135}{}{VysmÃ­vejte se poraÅ¾enÃ½m!}
 {136}{}{Dragon padl!}
 {137}{}{Lo Pan! Lo Pan! Lo Pan!}
-{138}{}{Jsme vítìzi!}
-{139}{}{Dragon je mrtev. Jó!}
-{140}{}{Práce, práce a zase jenom práce. Rıe, rıe a zase jenom rıe. ::povzdech::}
-{141}{}{To je celı ivot jenom o tomhle?}
-{142}{}{Jsme chytøejší, ne si myslíš.}
-{143}{}{Podívej! Lao wai!}
-{144}{}{Císaøùv mluvèí! A mrtev! Celé mìsto se teï zhroutí!}
-{145}{}{Co teï s námi bude?}
-{146}{}{Doufám, e nás teï divoši nepøedbìhnou!}
-{147}{}{Dobro vdy umírá mladé.}
-{148}{}{Doufám, e bez Kena Lee pøeijeme zimu.}
-{149}{}{Øíká se, e byl Ken Lee jedinı èlovìk, kterı dokázal Císaøe zmanipulovat.}
-{150}{}{Øíká se, e byl Císaø pouhou loutkou Kena Lee. }
-{151}{}{Moná by mohl Lo Pan pøevzít pozici Kena Lee...}
-{152}{}{Práce, práce a zase jenom práce. Rıe, rıe a zase jenom rıe. ::povzdech::}
-{153}{}{To je celı ivot jenom o tomhle?}
-{154}{}{Jsme chytøejší, ne si myslíš.}
-{155}{}{Podívej! Lao wai!}
-{163}{}{Ty jsi zabil AHS-9? Jó!}
-{164}{}{Ti hubologisti mi nahání husí kùi.}
-{165}{}{Prokázal jsi nám velkou slubu.}
-{166}{}{Smrt Hubologistùm!}
-{167}{}{Snad to odsud vyene Hubologisty.}
-{168}{}{Pitomí Hubologisti, neumí si ani ochránit svého vùdce.}
-{169}{}{Snad se nám Hubologisti nebudou chtít pomstít.}
-{170}{}{Tak nakonec asi nejsi špión.}
-{171}{}{Prase! Chcípni!}
+{138}{}{Jsme vÃ­tÄ›zi!}
+{139}{}{Dragon je mrtev. JÃ³!}
+{140}{}{PrÃ¡ce, prÃ¡ce a zase jenom prÃ¡ce. RÃ½Å¾e, rÃ½Å¾e a zase jenom rÃ½Å¾e. ::povzdech::}
+{141}{}{To je celÃ½ Å¾ivot jenom o tomhle?}
+{142}{}{Jsme chytÅ™ejÅ¡Ã­, neÅ¾ si myslÃ­Å¡.}
+{143}{}{PodÃ­vej! Lao wai!}
+{144}{}{CÃ­saÅ™Å¯v mluvÄÃ­! A mrtev! CelÃ© mÄ›sto se teÄ zhroutÃ­!}
+{145}{}{Co teÄ s nÃ¡mi bude?}
+{146}{}{DoufÃ¡m, Å¾e nÃ¡s teÄ divoÅ¡i nepÅ™edbÄ›hnou!}
+{147}{}{Dobro vÅ¾dy umÃ­rÃ¡ mladÃ©.}
+{148}{}{DoufÃ¡m, Å¾e bez Kena Lee pÅ™eÅ¾ijeme zimu.}
+{149}{}{Å˜Ã­kÃ¡ se, Å¾e byl Ken Lee jedinÃ½ ÄlovÄ›k, kterÃ½ dokÃ¡zal CÃ­saÅ™e zmanipulovat.}
+{150}{}{Å˜Ã­kÃ¡ se, Å¾e byl CÃ­saÅ™ pouhou loutkou Kena Lee. }
+{151}{}{MoÅ¾nÃ¡ by mohl Lo Pan pÅ™evzÃ­t pozici Kena Lee...}
+{152}{}{PrÃ¡ce, prÃ¡ce a zase jenom prÃ¡ce. RÃ½Å¾e, rÃ½Å¾e a zase jenom rÃ½Å¾e. ::povzdech::}
+{153}{}{To je celÃ½ Å¾ivot jenom o tomhle?}
+{154}{}{Jsme chytÅ™ejÅ¡Ã­, neÅ¾ si myslÃ­Å¡.}
+{155}{}{PodÃ­vej! Lao wai!}
+{163}{}{Ty jsi zabil AHS-9? JÃ³!}
+{164}{}{Ti hubologisti mi nahÃ¡nÃ­ husÃ­ kÅ¯Å¾i.}
+{165}{}{ProkÃ¡zal jsi nÃ¡m velkou sluÅ¾bu.}
+{166}{}{Smrt HubologistÅ¯m!}
+{167}{}{Snad to odsud vyÅ¾ene Hubologisty.}
+{168}{}{PitomÃ­ Hubologisti, neumÃ­ si ani ochrÃ¡nit svÃ©ho vÅ¯dce.}
+{169}{}{Snad se nÃ¡m Hubologisti nebudou chtÃ­t pomstÃ­t.}
+{170}{}{Tak nakonec asi nejsi Å¡piÃ³n.}
+{171}{}{Prase! ChcÃ­pni!}
 {172}{}{Zneuctil jsi svoji rodinu!}
-{173}{}{Nech nás na pokoji, lao wai!}
-{174}{}{Copak jsi u nezpùsobil dost problémù?}
-{175}{}{Nenávidím tì!}
-{176}{}{Opus toto mìsto!}
-{177}{}{Vra se domù ke svım lidem!}
-{178}{}{Nezastiòuj mùj ivot svım oblièejem!}
-{179}{}{Co mì bude stát, abych se tì zbavil?}
+{173}{}{Nech nÃ¡s na pokoji, lao wai!}
+{174}{}{Copak jsi uÅ¾ nezpÅ¯sobil dost problÃ©mÅ¯?}
+{175}{}{NenÃ¡vidÃ­m tÄ›!}
+{176}{}{OpusÅ¥ toto mÄ›sto!}
+{177}{}{VraÅ¥ se domÅ¯ ke svÃ½m lidem!}
+{178}{}{NezastiÅˆuj mÅ¯j Å¾ivot svÃ½m obliÄejem!}
+{179}{}{Co mÄ› bude stÃ¡t, abych se tÄ› zbavil?}
 {180}{}{Pomoc! Pomoc!}

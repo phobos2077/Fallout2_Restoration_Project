@@ -1,1 +1,1 @@
-{100}{}{Poskládané útrky vytvoøí seznam hesel.}
+{100}{}{PosklÃ¡danÃ© ÃºtrÅ¾ky vytvoÅ™Ã­ seznam hesel.}

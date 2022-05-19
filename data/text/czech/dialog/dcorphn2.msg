@@ -1,11 +1,11 @@
-{100}{}{Vidíš dítì.}
-{101}{}{Vidíš chlapce. Vypadá šastnì.}
-{102}{}{Vidíš dìvèe. Vypadá šastnì.}
-{200}{}{Brı den, pane!}
-{201}{}{Promiòte, e jsem se vás pokoušel okrást.}
-{202}{}{Mám to tu fakt rád.}
-{203}{}{Dìkujeme, e jste pomohla Mámì to tady všechno zaøídit!}
-{300}{}{Brı den, paní!}
-{301}{}{Promiòte, e jsem se vás pokoušel okrást.}
-{302}{}{Mám to tu fakt rád.}
-{303}{}{Dìkujeme, e jste pomohla Mámì to tady všechno zaøídit!}
+{100}{}{VidÃ­Å¡ dÃ­tÄ›.}
+{101}{}{VidÃ­Å¡ chlapce. VypadÃ¡ Å¡Å¥astnÄ›.}
+{102}{}{VidÃ­Å¡ dÄ›vÄe. VypadÃ¡ Å¡Å¥astnÄ›.}
+{200}{}{BrÃ½ den, pane!}
+{201}{}{PromiÅˆte, Å¾e jsem se vÃ¡s pokouÅ¡el okrÃ¡st.}
+{202}{}{MÃ¡m to tu fakt rÃ¡d.}
+{203}{}{DÄ›kujeme, Å¾e jste pomohla MÃ¡mÄ› to tady vÅ¡echno zaÅ™Ã­dit!}
+{300}{}{BrÃ½ den, panÃ­!}
+{301}{}{PromiÅˆte, Å¾e jsem se vÃ¡s pokouÅ¡el okrÃ¡st.}
+{302}{}{MÃ¡m to tu fakt rÃ¡d.}
+{303}{}{DÄ›kujeme, Å¾e jste pomohla MÃ¡mÄ› to tady vÅ¡echno zaÅ™Ã­dit!}

@@ -1,2 +1,2 @@
-{100}{}{Mùj boe, to je Bess!}
-{101}{}{Tahle brahmína vypadá nìjak povìdomì.}
+{100}{}{MÅ¯j boÅ¾e, to je Bess!}
+{101}{}{Tahle brahmÃ­na vypadÃ¡ nÄ›jak povÄ›domÄ›.}

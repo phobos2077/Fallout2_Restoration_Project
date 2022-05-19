@@ -1,1 +1,1 @@
-{100}{}{Tahle místnost silnì voní døevinou.}
+{100}{}{Tahle mÃ­stnost silnÄ› vonÃ­ dÅ™evinou.}

@@ -1,16 +1,16 @@
-{100}{}{Vidíš strá Svìtloplachù.}
-{150}{}{Vzdej se, nebo zemøeš!}
-{151}{}{Vzdávám se.}
-{152}{}{Ty zemøít!}
+{100}{}{VidÃ­Å¡ strÃ¡Å¾ SvÄ›tloplachÅ¯.}
+{150}{}{Vzdej se, nebo zemÅ™eÅ¡!}
+{151}{}{VzdÃ¡vÃ¡m se.}
+{152}{}{Ty zemÅ™Ã­t!}
 {153}{}{Ug!}
-{154}{}{Jestli chceš vidìt Vegeira, mùeme tì k nìmu doprovodit.}
-{155}{}{Teï ne. Sejdu se s Vegeirem pozdìji.}
-{156}{}{Ano, chci hned vidìt Vegeira.}
-{160}{}{Ty jsi ale hlupák! Jestli chceš vidìt Vegeira, najdi si ho.}
-{200}{}{Nevìøím Nadzemníkùm.}
-{201}{}{Vegeir øíkal, a tì necháme na pokoji... ZATÍM.}
-{202}{}{Odpovídáme za ochranu našich lidí.}
-{203}{}{Sleduju tì.}
-{220}{}{Myslím, e jsi v pohodì... na Nadzemníka.}
-{221}{}{Moná bysme mohli spolupracovat s Nadzemníky.}
-{222}{}{Jsem rád, e jsem se v tobì mılil.}
+{154}{}{Jestli chceÅ¡ vidÄ›t Vegeira, mÅ¯Å¾eme tÄ› k nÄ›mu doprovodit.}
+{155}{}{TeÄ ne. Sejdu se s Vegeirem pozdÄ›ji.}
+{156}{}{Ano, chci hned vidÄ›t Vegeira.}
+{160}{}{Ty jsi ale hlupÃ¡k! Jestli chceÅ¡ vidÄ›t Vegeira, najdi si ho.}
+{200}{}{NevÄ›Å™Ã­m NadzemnÃ­kÅ¯m.}
+{201}{}{Vegeir Å™Ã­kal, aÅ¥ tÄ› nechÃ¡me na pokoji... ZATÃM.}
+{202}{}{OdpovÃ­dÃ¡me za ochranu naÅ¡ich lidÃ­.}
+{203}{}{Sleduju tÄ›.}
+{220}{}{MyslÃ­m, Å¾e jsi v pohodÄ›... na NadzemnÃ­ka.}
+{221}{}{MoÅ¾nÃ¡ bysme mohli spolupracovat s NadzemnÃ­ky.}
+{222}{}{Jsem rÃ¡d, Å¾e jsem se v tobÄ› mÃ½lil.}

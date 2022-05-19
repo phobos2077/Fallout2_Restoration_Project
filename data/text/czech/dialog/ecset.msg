@@ -1,16 +1,16 @@
-{100}{}{Vidíš... Seta.}
-{101}{}{Vidíš rozkládajícího se vlkodlaka. Z hlavy mu trèí èásti rùznıch pøístrojù. Je tìké poznat jestli je pøi smyslech.}
-{102}{}{Vidíš Seta. Mluví si sám pro sebe.}
-{103}{}{Vidíš Seta. Mluví si sám pro sebe.}
-{104}{}{"Prdìt do hlíny!"}
-{105}{}{"Prdìt do hlíny!"}
-{106}{}{"Prdìt do hlíny...pomáhá rùst mımu stínu."}
+{100}{}{VidÃ­Å¡... Seta.}
+{101}{}{VidÃ­Å¡ rozklÃ¡dajÃ­cÃ­ho se vlkodlaka. Z hlavy mu trÄÃ­ ÄÃ¡sti rÅ¯znÃ½ch pÅ™Ã­strojÅ¯. Je tÄ›Å¾kÃ© poznat jestli je pÅ™i smyslech.}
+{102}{}{VidÃ­Å¡ Seta. MluvÃ­ si sÃ¡m pro sebe.}
+{103}{}{VidÃ­Å¡ Seta. MluvÃ­ si sÃ¡m pro sebe.}
+{104}{}{"PrdÄ›t do hlÃ­ny!"}
+{105}{}{"PrdÄ›t do hlÃ­ny!"}
+{106}{}{"PrdÄ›t do hlÃ­ny...pomÃ¡hÃ¡ rÅ¯st mÃ½mu stÃ­nu."}
 {107}{}{Hehe.}
-{108}{}{Prdìt.}
-{109}{}{Do hlíny.}
-{110}{}{Prdìt do hlíny!}
-{111}{}{Hehe. Vlááádnu v Necropolis.}
-{112}{}{Normálové. Všude samí normálové.}
-{113}{}{Moje jméno je Set. Tvoje je Svìt-bolest.}
+{108}{}{PrdÄ›t.}
+{109}{}{Do hlÃ­ny.}
+{110}{}{PrdÄ›t do hlÃ­ny!}
+{111}{}{Hehe. VlÃ¡Ã¡Ã¡dnu v Necropolis.}
+{112}{}{NormÃ¡lovÃ©. VÅ¡ude samÃ­ normÃ¡lovÃ©.}
+{113}{}{Moje jmÃ©no je Set. Tvoje je SvÄ›t-bolest.}
 {114}{}{Chichi.}
-{115}{}{Prdìt. Do hlíny. Prdìt do hlíny!}
+{115}{}{PrdÄ›t. Do hlÃ­ny. PrdÄ›t do hlÃ­ny!}

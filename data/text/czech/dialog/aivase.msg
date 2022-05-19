@@ -1,2 +1,2 @@
-{100}{}{Vid� oby�ejnou v�zu.}
-{101}{}{Vid� na slunci usu�enou hlin�nou v�zu.}
+{100}{}{Vidíš obyčejnou vázu.}
+{101}{}{Vidíš na slunci usušenou hliněnou vázu.}

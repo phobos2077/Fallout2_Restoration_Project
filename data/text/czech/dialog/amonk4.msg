@@ -1,18 +1,18 @@
-{100}{}{Vidíš mnicha.}
-{101}{}{Tenhle mich vypadá jako kupec.}
-{200}{}{Vítej, cestovateli.}
-{201}{}{Mír s tebou.}
-{202}{}{Krásné poèasí.}
-{203}{}{Bì si hrát jinam.}
+{100}{}{VidÃ­Å¡ mnicha.}
+{101}{}{Tenhle mich vypadÃ¡ jako kupec.}
+{200}{}{VÃ­tej, cestovateli.}
+{201}{}{MÃ­r s tebou.}
+{202}{}{KrÃ¡snÃ© poÄasÃ­.}
+{203}{}{BÄ›Å¾ si hrÃ¡t jinam.}
 {300}{}{Ahoj, jak ti mohu pomoci?}
-{301}{}{Co mi mùeš øíct o vašem øádu?}
-{302}{}{Pojïme obchodovat.}
+{301}{}{Co mi mÅ¯Å¾eÅ¡ Å™Ã­ct o vaÅ¡em Å™Ã¡du?}
+{302}{}{PojÄme obchodovat.}
 {303}{}{Nashle.}
-{400}{}{Naším svatım posláním je sbírat a chránit posvátné relikvie dávno zapomenutıch èasù. Kadı je u nás vítán, pokud nic neznièí.}
-{401}{}{Kdo je váš pøedstavenı?}
-{402}{}{Jaké relikvie?}
-{403}{}{Najdeš ho ve tøetím patøe. Jestli chceš o našem øádu vìdìt víc, jdi si s ním promluvit.}
-{404}{}{Relikvie všeho druhu, ale pøeváná èást naší Memorabilie se skládá z prastarıch knih ve kterıch je spousta informací. Je naším posláním uchovat tyto vìdomosti pro budoucí generace, aby na jejich základì mohly vybudovat novı svìt plnı míru a potìšení.}
-{405}{}{Dobøe.}
-{406}{}{Dobøe.}
-{500}{}{Pøestaò s tím!}
+{400}{}{NaÅ¡Ã­m svatÃ½m poslÃ¡nÃ­m je sbÃ­rat a chrÃ¡nit posvÃ¡tnÃ© relikvie dÃ¡vno zapomenutÃ½ch ÄasÅ¯. KaÅ¾dÃ½ je u nÃ¡s vÃ­tÃ¡n, pokud nic nezniÄÃ­.}
+{401}{}{Kdo je vÃ¡Å¡ pÅ™edstavenÃ½?}
+{402}{}{JakÃ© relikvie?}
+{403}{}{NajdeÅ¡ ho ve tÅ™etÃ­m patÅ™e. Jestli chceÅ¡ o naÅ¡em Å™Ã¡du vÄ›dÄ›t vÃ­c, jdi si s nÃ­m promluvit.}
+{404}{}{Relikvie vÅ¡eho druhu, ale pÅ™evÃ¡Å¾nÃ¡ ÄÃ¡st naÅ¡Ã­ Memorabilie se sklÃ¡dÃ¡ z prastarÃ½ch knih ve kterÃ½ch je spousta informacÃ­. Je naÅ¡Ã­m poslÃ¡nÃ­m uchovat tyto vÄ›domosti pro budoucÃ­ generace, aby na jejich zÃ¡kladÄ› mohly vybudovat novÃ½ svÄ›t plnÃ½ mÃ­ru a potÄ›Å¡enÃ­.}
+{405}{}{DobÅ™e.}
+{406}{}{DobÅ™e.}
+{500}{}{PÅ™estaÅˆ s tÃ­m!}

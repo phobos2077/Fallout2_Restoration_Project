@@ -1,2 +1,2 @@
-{200}{}{Skøíòka se odmítá otevøít. Je vyadován kód.}
-{201}{}{Zadáš kód a skøíòka se otevøe.}
+{200}{}{SkÅ™Ã­Åˆka se odmÃ­tÃ¡ otevÅ™Ã­t. Je vyÅ¾adovÃ¡n kÃ³d.}
+{201}{}{ZadÃ¡Å¡ kÃ³d a skÅ™Ã­Åˆka se otevÅ™e.}

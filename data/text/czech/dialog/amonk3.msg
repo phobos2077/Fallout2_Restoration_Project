@@ -1,14 +1,14 @@
-{100}{}{Vidíš mnicha.}
-{101}{}{Vidíš jeptišku.}
-{102}{}{Tenhle mnich vypadá, jako by vìdìl nìco málo o poèítaèích.}
-{103}{}{Tahle jeptiška vypadá, jako by vìdìla nìco málo o poèítaèích.}
+{100}{}{VidÃ­Å¡ mnicha.}
+{101}{}{VidÃ­Å¡ jeptiÅ¡ku.}
+{102}{}{Tenhle mnich vypadÃ¡, jako by vÄ›dÄ›l nÄ›co mÃ¡lo o poÄÃ­taÄÃ­ch.}
+{103}{}{Tahle jeptiÅ¡ka vypadÃ¡, jako by vÄ›dÄ›la nÄ›co mÃ¡lo o poÄÃ­taÄÃ­ch.}
 {200}{}{Nic nerozbij.}
-{201}{}{Promiò, mám teï moc práce.}
-{202}{}{Buï zdráv.}
-{203}{}{Klidnì se tu porozhlédni.}
-{204}{}{Pøepisujeme znalosti pro budoucí generace.}
-{205}{}{Tyto staré knihy jsou velmi køehké.}
-{206}{}{Pøepisování knih je velice nároèná práce.}
+{201}{}{PromiÅˆ, mÃ¡m teÄ moc prÃ¡ce.}
+{202}{}{BuÄ zdrÃ¡v.}
+{203}{}{KlidnÄ› se tu porozhlÃ©dni.}
+{204}{}{PÅ™episujeme znalosti pro budoucÃ­ generace.}
+{205}{}{Tyto starÃ© knihy jsou velmi kÅ™ehkÃ©.}
+{206}{}{PÅ™episovÃ¡nÃ­ knih je velice nÃ¡roÄnÃ¡ prÃ¡ce.}
 {207}{}{Ahoj.}
-{208}{}{Je tu spousta knih na pøepsání.}
-{500}{}{Pøestaò s tím!}
+{208}{}{Je tu spousta knih na pÅ™epsÃ¡nÃ­.}
+{500}{}{PÅ™estaÅˆ s tÃ­m!}

@@ -1,1 +1,1 @@
-{100}{}{Podaøilo se ti získat plány vertibirdu.}
+{100}{}{PodaÅ™ilo se ti zÃ­skat plÃ¡ny vertibirdu.}

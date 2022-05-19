@@ -1,7 +1,7 @@
-{100}{}{Vidíš toxickı odpad.}
-{101}{}{Vidíš toxickı odpad.}
-{110}{}{Au - ten odpad pálí.}
-{120}{}{Tyhle staré gumáky mì pøed tím odpornım slizem ochrání.}
+{100}{}{VidÃ­Å¡ toxickÃ½ odpad.}
+{101}{}{VidÃ­Å¡ toxickÃ½ odpad.}
+{110}{}{Au - ten odpad pÃ¡lÃ­.}
+{120}{}{Tyhle starÃ© gumÃ¡ky mÄ› pÅ™ed tÃ­m odpornÃ½m slizem ochrÃ¡nÃ­.}
 {130}{}{Tvoje boty se rozpadly.}
-{140}{}{Tvoje chodidla tì zaèínají svrbìt a pálit.}
-{150}{}{Tvoje chodidla tì pøed chvílí pìknì pálily, ale teï u to zaèíná bıt lepší.}
+{140}{}{Tvoje chodidla tÄ› zaÄÃ­najÃ­ svrbÄ›t a pÃ¡lit.}
+{150}{}{Tvoje chodidla tÄ› pÅ™ed chvÃ­lÃ­ pÄ›knÄ› pÃ¡lily, ale teÄ uÅ¾ to zaÄÃ­nÃ¡ bÃ½t lepÅ¡Ã­.}

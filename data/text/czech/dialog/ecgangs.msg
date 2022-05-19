@@ -1,9 +1,9 @@
-{100}{}{Zmiz z našeho revíru!}
-{101}{}{Jseš na špatnı stranì, kámo.}
-{102}{}{Tohle tì bude bolet.}
-{103}{}{Co dìláš na mım území?}
-{104}{}{U jsi nìkdy dostal nakládaèku?}
-{105}{}{Táhni!}
-{106}{}{Tohle tì bude mrzet!}
-{107}{}{Tvrdı oøíšek!}
-{108}{}{Pøíštì.}
+{100}{}{Zmiz z naÅ¡eho revÃ­ru!}
+{101}{}{JseÅ¡ na Å¡patnÃ½ stranÄ›, kÃ¡mo.}
+{102}{}{Tohle tÄ› bude bolet.}
+{103}{}{Co dÄ›lÃ¡Å¡ na mÃ½m ÃºzemÃ­?}
+{104}{}{UÅ¾ jsi nÄ›kdy dostal naklÃ¡daÄku?}
+{105}{}{TÃ¡hni!}
+{106}{}{Tohle tÄ› bude mrzet!}
+{107}{}{TvrdÃ½ oÅ™Ã­Å¡ek!}
+{108}{}{PÅ™Ã­Å¡tÄ›.}

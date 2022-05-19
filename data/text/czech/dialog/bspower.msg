@@ -1,11 +1,11 @@
-{100}{}{Generátor funguje normálnì. Vıroba energie je na optimální úrovni.}
-{101}{}{Generátor je v nouzovém pohotovostním reimu. Vıroba energie je minimální.}
-{102}{}{Zkusit zjistit, v èem je problém.}
-{103}{}{No nic. Musím jít.}
-{104}{}{V systému musel kdysi nastat zkrat. Nouzovı obvod sice nahodil pojistky, ale ty se zasekly v otevøené poloze. Moná je mùeš zkusit uvolnit a obnovit tak dodávku proudu.}
-{105}{}{Nedokáeš zjistit, co je špatnì. Prostì to nefunguje.}
+{100}{}{GenerÃ¡tor funguje normÃ¡lnÄ›. VÃ½roba energie je na optimÃ¡lnÃ­ Ãºrovni.}
+{101}{}{GenerÃ¡tor je v nouzovÃ©m pohotovostnÃ­m reÅ¾imu. VÃ½roba energie je minimÃ¡lnÃ­.}
+{102}{}{Zkusit zjistit, v Äem je problÃ©m.}
+{103}{}{No nic. MusÃ­m jÃ­t.}
+{104}{}{V systÃ©mu musel kdysi nastat zkrat. NouzovÃ½ obvod sice nahodil pojistky, ale ty se zasekly v otevÅ™enÃ© poloze. MoÅ¾nÃ¡ je mÅ¯Å¾eÅ¡ zkusit uvolnit a obnovit tak dodÃ¡vku proudu.}
+{105}{}{NedokÃ¡Å¾eÅ¡ zjistit, co je Å¡patnÄ›. ProstÄ› to nefunguje.}
 {106}{}{Zkusit to opravit.}
-{107}{}{Èas vypadnout.}
-{108}{}{Podaøilo se ti uvolnit kontakty a obnovit tak dodávku energie!}
-{109}{}{Zatracenì. Je to tìší, ne se zdá.}
+{107}{}{ÄŒas vypadnout.}
+{108}{}{PodaÅ™ilo se ti uvolnit kontakty a obnovit tak dodÃ¡vku energie!}
+{109}{}{ZatracenÄ›. Je to tÄ›Å¾Å¡Ã­, neÅ¾ se zdÃ¡.}
 {110}{}{Beru.}

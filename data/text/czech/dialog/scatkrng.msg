@@ -1,5 +1,5 @@
-{100}{}{Vidíš mue v kevlarové zbroji.}
-{101}{}{Vidíš enu v kevlarové zbroji.}
-{102}{}{Nosí odznak s nápisem NCR Ranger.}
-{103}{}{Nosí odznak s nápisem NCR Ranger.}
-{200}{}{Díky za pomoc, kolego Rangere. Vra se zpìt do NCR a povìz jim ty dobré zprávy.}
+{100}{}{VidÃ­Å¡ muÅ¾e v kevlarovÃ© zbroji.}
+{101}{}{VidÃ­Å¡ Å¾enu v kevlarovÃ© zbroji.}
+{102}{}{NosÃ­ odznak s nÃ¡pisem NCR Ranger.}
+{103}{}{NosÃ­ odznak s nÃ¡pisem NCR Ranger.}
+{200}{}{DÃ­ky za pomoc, kolego Rangere. VraÅ¥ se zpÄ›t do NCR a povÄ›z jim ty dobrÃ© zprÃ¡vy.}

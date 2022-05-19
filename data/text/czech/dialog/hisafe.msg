@@ -1,9 +1,9 @@
-{100}{}{Vidíš velkı kovovı trezor.}
-{101}{}{Tento velmi robustní trezor je zamèenı.}
-{102}{}{Tento velmi robustní trezor je odemèenı!}
-{170}{}{Zkušenì odemykáš zámek trezoru.}
-{171}{}{Díky tvé nezkušenosti se zámek trezoru zasekl.}
-{172}{}{Nepodaøilo se ti odemknout zámek trezoru.}
-{189}{}{Zkušenì zamykáš zámek trezoru.}
-{190}{}{Nepodaøilo se ti zamknout zámek trezoru.}
-{200}{}{Trezor je bezpeènì zamèenı.}
+{100}{}{VidÃ­Å¡ velkÃ½ kovovÃ½ trezor.}
+{101}{}{Tento velmi robustnÃ­ trezor je zamÄenÃ½.}
+{102}{}{Tento velmi robustnÃ­ trezor je odemÄenÃ½!}
+{170}{}{ZkuÅ¡enÄ› odemykÃ¡Å¡ zÃ¡mek trezoru.}
+{171}{}{DÃ­ky tvÃ© nezkuÅ¡enosti se zÃ¡mek trezoru zasekl.}
+{172}{}{NepodaÅ™ilo se ti odemknout zÃ¡mek trezoru.}
+{189}{}{ZkuÅ¡enÄ› zamykÃ¡Å¡ zÃ¡mek trezoru.}
+{190}{}{NepodaÅ™ilo se ti zamknout zÃ¡mek trezoru.}
+{200}{}{Trezor je bezpeÄnÄ› zamÄenÃ½.}

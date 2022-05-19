@@ -1,2 +1,2 @@
-{100}{}{Dùl byl zavalen.}
-{101}{}{Vıbuch èistièky vzduchu zpùsobil zavalení celého dolu.}
+{100}{}{DÅ¯l byl zavalen.}
+{101}{}{VÃ½buch ÄistiÄky vzduchu zpÅ¯sobil zavalenÃ­ celÃ©ho dolu.}

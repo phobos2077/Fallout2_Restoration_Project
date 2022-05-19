@@ -1,14 +1,14 @@
 {100}{}{You see a man dressed in working clothes.}
 {101}{}{It's brahmin buyer. He is expecting Hal's caravan.}
 {102}{}{He's smells of brahmin.}
-{113}{}{No, tak to je teda pìknì v hajzlu! Bojím se, e za tenhle okruh nikdo z nás ádnı prachy nedostane. Mùem bejt rádi, e jsme zùstali naivu.}
-{114}{}{No, ranèeøi z toho nejsou zrovna na vìtvi - jenom $1000 za okruh. Holt smùla.}
+{113}{}{No, tak to je teda pÄ›knÄ› v hajzlu! BojÃ­m se, Å¾e za tenhle okruh nikdo z nÃ¡s Å¾Ã¡dnÃ½ prachy nedostane. MÅ¯Å¾em bejt rÃ¡di, Å¾e jsme zÅ¯stali naÅ¾ivu.}
+{114}{}{No, ranÄeÅ™i z toho nejsou zrovna na vÄ›tvi - jenom $1000 za okruh. Holt smÅ¯la.}
 {115}{}{Well, you had little string of bad luck but did all right. Here's the $2000 you signed on for.}
-{116}{}{Zatracenì, to bylo skvìlı! Tady máš $1000 navrch k tìm $2000, kterı jsem ti slíbil. A Redding dneska zaije malı zemìtøesení!}
-{118}{}{Ty jseš ta nejhorší napodobenina stráce, jakou jsem kdy vidìl. Vypadni odsud.}
+{116}{}{ZatracenÄ›, to bylo skvÄ›lÃ½! Tady mÃ¡Å¡ $1000 navrch k tÄ›m $2000, kterÃ½ jsem ti slÃ­bil. A Redding dneska zaÅ¾ije malÃ½ zemÄ›tÅ™esenÃ­!}
+{118}{}{Ty jseÅ¡ ta nejhorÅ¡Ã­ napodobenina strÃ¡Å¾ce, jakou jsem kdy vidÄ›l. Vypadni odsud.}
 {119}{}{Too bad Hal didn't make it.}
 {120}{}{Shame about Hal...}
-{121}{}{Bylo mi potìšením s tebou obchodovat.}
+{121}{}{Bylo mi potÄ›Å¡enÃ­m s tebou obchodovat.}
 {213}{}{Damn, Hal's dead! And the brahmin too! Afraid there's no money in this run for any of us. Just be happy you're alive.}
 {214}{}{Damn, Hal's dead! And the ranchers are none too happy - it's only a $1000 run. Tough luck.}
 {215}{}{Damn, Hal's dead! At least the brahmin are all right. Here's the $2000 you signed on for.}

@@ -1,2 +1,2 @@
-{100}{}{Vidíš bar.}
-{101}{}{Tahle deska ze døeva je urèena k odkládání vìcí. Všímáš si, e je velmi èistá.}
+{100}{}{VidÃ­Å¡ bar.}
+{101}{}{Tahle deska ze dÅ™eva je urÄena k odklÃ¡dÃ¡nÃ­ vÄ›cÃ­. VÅ¡Ã­mÃ¡Å¡ si, Å¾e je velmi ÄistÃ¡.}

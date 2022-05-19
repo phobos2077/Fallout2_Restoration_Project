@@ -1,33 +1,33 @@
-{100}{}{Vidíš barmana.}
-{150}{}{Vidíš zavalitého mue, kterı obsluhuje bar. Kıvne na tebe.}
+{100}{}{VidÃ­Å¡ barmana.}
+{150}{}{VidÃ­Å¡ zavalitÃ©ho muÅ¾e, kterÃ½ obsluhuje bar. KÃ½vne na tebe.}
 {200}{}{Hej! }
-{201}{}{! Takhle se nakopává Enklávì prdel! Nechceš drink?}
+{201}{}{! Takhle se nakopÃ¡vÃ¡ EnklÃ¡vÄ› prdel! NechceÅ¡ drink?}
 {206}{}{! Tak jak to jde?!}
-{210}{}{Jeden panák rotgutu, u se nese...}
+{210}{}{Jeden panÃ¡k rotgutu, uÅ¾ se nese...}
 {211}{}{To budou $3...}
-{212}{}{Další, kamaráde?}
-{213}{}{Tady máš obvaz, pokud ho budeš potøebovat.}
-{214}{}{Nevdechuj ten Jet najednou... trochu potáhni, zhluboka se nadechni a nech ho pùsobit.}
+{212}{}{DalÅ¡Ã­, kamarÃ¡de?}
+{213}{}{Tady mÃ¡Å¡ obvaz, pokud ho budeÅ¡ potÅ™ebovat.}
+{214}{}{Nevdechuj ten Jet najednou... trochu potÃ¡hni, zhluboka se nadechni a nech ho pÅ¯sobit.}
 {215}{}{You want two half ounce bags, or a canister?}
-{216}{}{Inhalátor Jetu je za pøíplatek...}
-{217}{}{Nech mì hádat: Mám ti to pøipsat na úèet, co?}
-{218}{}{Jedna Nuka-Cola na aludek, hned to bude.}
-{219}{}{Zákazníci tu nesmí brát Buffout, kamaráde.}
-{225}{}{Radši odsud rychle vypadni, ne do tebe nasázím olovo, rozumíš?}
-{226}{}{Jdi u... vypadni. Nechceme tu ádnı potíe.}
-{227}{}{Zabijou tì, jestli tu zùstaneš, take padej.}
-{228}{}{Všechno u nám došlo, take vypadni.}
-{236}{}{! Tak co si dáš?}
-{237}{}{Nazdar, šampióne! Tak co si dáš?}
-{238}{}{Co si dáš, kamaráde?}
-{239}{}{Co si dáš, drahoušku?}
-{240}{}{Alko-hol znít dobøe.}
-{241}{}{Alkohol?! Já nechtít alkohol!}
-{242}{}{Co se dneska èepuje?}
-{243}{}{Co máš za drogy?}
-{244}{}{Co je to za dìdka u toho starého automatu?}
-{245}{}{Co je to za chlápka s noem u baru?}
-{246}{}{Dnes nic, díky.}
-{250}{}{Myslíš starıho McGee? Ten je neškodnej. Naházel do toho starıho automatu celı jmìní a za celı ty roky se mu to nevrátilo. Myslím, e je ten automat rozbitej. Poslyš... mùu ti nìco nabídnout, pøíteli?}
-{260}{}{To je Jeíšùv malej kluk, Malej Jeíš. On a jeho nù jsou nejlepší pøátelé... vidìl jsem ho, jak s ním dìlá fakt úasnı kousky. Poslyš, mùu ti nìco nabídnout, pøíteli?}
-{270}{}{Díky za obchod.}
+{216}{}{InhalÃ¡tor Jetu je za pÅ™Ã­platek...}
+{217}{}{Nech mÄ› hÃ¡dat: MÃ¡m ti to pÅ™ipsat na ÃºÄet, co?}
+{218}{}{Jedna Nuka-Cola na Å¾aludek, hned to bude.}
+{219}{}{ZÃ¡kaznÃ­ci tu nesmÃ­ brÃ¡t Buffout, kamarÃ¡de.}
+{225}{}{RadÅ¡i odsud rychle vypadni, neÅ¾ do tebe nasÃ¡zÃ­m olovo, rozumÃ­Å¡?}
+{226}{}{Jdi uÅ¾... vypadni. Nechceme tu Å¾Ã¡dnÃ½ potÃ­Å¾e.}
+{227}{}{Zabijou tÄ›, jestli tu zÅ¯staneÅ¡, takÅ¾e padej.}
+{228}{}{VÅ¡echno uÅ¾ nÃ¡m doÅ¡lo, takÅ¾e vypadni.}
+{236}{}{! Tak co si dÃ¡Å¡?}
+{237}{}{Nazdar, Å¡ampiÃ³ne! Tak co si dÃ¡Å¡?}
+{238}{}{Co si dÃ¡Å¡, kamarÃ¡de?}
+{239}{}{Co si dÃ¡Å¡, drahouÅ¡ku?}
+{240}{}{Alko-hol znÃ­t dobÅ™e.}
+{241}{}{Alkohol?! JÃ¡ nechtÃ­t alkohol!}
+{242}{}{Co se dneska Äepuje?}
+{243}{}{Co mÃ¡Å¡ za drogy?}
+{244}{}{Co je to za dÄ›dka u toho starÃ©ho automatu?}
+{245}{}{Co je to za chlÃ¡pka s noÅ¾em u baru?}
+{246}{}{Dnes nic, dÃ­ky.}
+{250}{}{MyslÃ­Å¡ starÃ½ho McGee? Ten je neÅ¡kodnej. NahÃ¡zel do toho starÃ½ho automatu celÃ½ jmÄ›nÃ­ a za celÃ½ ty roky se mu to nevrÃ¡tilo. MyslÃ­m, Å¾e je ten automat rozbitej. PoslyÅ¡... mÅ¯Å¾u ti nÄ›co nabÃ­dnout, pÅ™Ã­teli?}
+{260}{}{To je JeÅ¾Ã­Å¡Å¯v malej kluk, Malej JeÅ¾Ã­Å¡. On a jeho nÅ¯Å¾ jsou nejlepÅ¡Ã­ pÅ™Ã¡telÃ©... vidÄ›l jsem ho, jak s nÃ­m dÄ›lÃ¡ fakt ÃºÅ¾asnÃ½ kousky. PoslyÅ¡, mÅ¯Å¾u ti nÄ›co nabÃ­dnout, pÅ™Ã­teli?}
+{270}{}{DÃ­ky za obchod.}

@@ -1,217 +1,217 @@
-{100}{}{Vidíš funkèní terminál.}
-{101}{}{Vidíš Ovládací Terminál Údrbáøského a Opravárenského Robota Reaktoru, zkrácenì OTÚ&ORR.}
-{102}{}{Vidíš terminál. Vypadá to, e je funkèní.}
-{110}{}{Zdravím. Vítejte ve stanici OTÚ&ORR è.3}
-{111}{}{OTÚORR?}
+{100}{}{VidÃ­Å¡ funkÄnÃ­ terminÃ¡l.}
+{101}{}{VidÃ­Å¡ OvlÃ¡dacÃ­ TerminÃ¡l ÃšdrÅ¾bÃ¡Å™skÃ©ho a OpravÃ¡renskÃ©ho Robota Reaktoru, zkrÃ¡cenÄ› OTÃš&ORR.}
+{102}{}{VidÃ­Å¡ terminÃ¡l. VypadÃ¡ to, Å¾e je funkÄnÃ­.}
+{110}{}{ZdravÃ­m. VÃ­tejte ve stanici OTÃš&ORR Ä.3}
+{111}{}{OTÃšORR?}
 {112}{}{Funkce?}
 {113}{}{Akce:}
 {114}{}{Inicializace:}
-{115}{}{Odhlásit se.}
-{120}{}{Stanice è.3 Ovládacího Terminálu Údrbáøského a Opravárenského Robota Reaktoru.}
+{115}{}{OdhlÃ¡sit se.}
+{120}{}{Stanice Ä.3 OvlÃ¡dacÃ­ho TerminÃ¡lu ÃšdrÅ¾bÃ¡Å™skÃ©ho a OpravÃ¡renskÃ©ho Robota Reaktoru.}
 {121}{}{Funkce?}
-{122}{}{Robota? Zobraz mi veškeré dostupné informace.}
-{123}{}{Odhlásit se.}
-{130}{}{Tento terminál byl zkonstruován ke koordinaci a ovládání Údrbáøského a Opravárenského Robota Reaktoru.}
-{131}{}{OTÚORR?}
-{132}{}{Robota? Zobraz mi veškeré dostupné informace.}
-{133}{}{Odhlásit se.}
-{140}{}{Tento terminál slouí k zadávání pøíkazù pro údrbáøského a opravárenského robota Poseidon Oil reaktoru è.5. Také dovoluje pøístup na PoseidoNet.}
-{141}{}{Robota? Zobraz mi veškeré dostupné informace.}
-{142}{}{Nìjakı druh poèítaèové sítì? Zajímalo by mì, jestli mám do ní pøístup.}
-{143}{}{Odhlásit se.}
-{150}{}{Fl>)$#_~)u-*+$#\)_+@#$%-0? %#$ (Nyní spouštím Win21, prosím èekejte... OS nerozpoznal pøíkaz. Nyní se spouští mazání DOD HDD.}
+{122}{}{Robota? Zobraz mi veÅ¡kerÃ© dostupnÃ© informace.}
+{123}{}{OdhlÃ¡sit se.}
+{130}{}{Tento terminÃ¡l byl zkonstruovÃ¡n ke koordinaci a ovlÃ¡dÃ¡nÃ­ ÃšdrÅ¾bÃ¡Å™skÃ©ho a OpravÃ¡renskÃ©ho Robota Reaktoru.}
+{131}{}{OTÃšORR?}
+{132}{}{Robota? Zobraz mi veÅ¡kerÃ© dostupnÃ© informace.}
+{133}{}{OdhlÃ¡sit se.}
+{140}{}{Tento terminÃ¡l slouÅ¾Ã­ k zadÃ¡vÃ¡nÃ­ pÅ™Ã­kazÅ¯ pro ÃºdrÅ¾bÃ¡Å™skÃ©ho a opravÃ¡renskÃ©ho robota Poseidon Oil reaktoru Ä.5. TakÃ© dovoluje pÅ™Ã­stup na PoseidoNet.}
+{141}{}{Robota? Zobraz mi veÅ¡kerÃ© dostupnÃ© informace.}
+{142}{}{NÄ›jakÃ½ druh poÄÃ­taÄovÃ© sÃ­tÄ›? ZajÃ­malo by mÄ›, jestli mÃ¡m do nÃ­ pÅ™Ã­stup.}
+{143}{}{OdhlÃ¡sit se.}
+{150}{}{Fl>)$#_~)u-*+$#\)_+@#$%-0? %#$ (NynÃ­ spouÅ¡tÃ­m Win21, prosÃ­m Äekejte... OS nerozpoznal pÅ™Ã­kaz. NynÃ­ se spouÅ¡tÃ­ mazÃ¡nÃ­ DOD HDD.}
 {151}{}{Hmmm. Coo?}
 {152}{}{Ajasdfaa coheroto?}
-{160}{}{Údrbáøskı a opravárenskı robot reaktoru pøipraven na inicializaèní/spouštìcí sekvenci. Zadejte primární pøístupovı kód:}
+{160}{}{ÃšdrÅ¾bÃ¡Å™skÃ½ a opravÃ¡renskÃ½ robot reaktoru pÅ™ipraven na inicializaÄnÃ­/spouÅ¡tÄ›cÃ­ sekvenci. Zadejte primÃ¡rnÃ­ pÅ™Ã­stupovÃ½ kÃ³d:}
 {161}{}{Funkce?}
 {162}{}{Akce?}
 {163}{}{35C76863}
 {164}{}{A1546761}
 {165}{}{5B576005}
-{166}{}{Odhlásit se.}
-{170}{}{Primární pøístupovı kód pøijat. Zadejte sekundární pøístupovı kód.}
-{171}{}{Vynulování.}
+{166}{}{OdhlÃ¡sit se.}
+{170}{}{PrimÃ¡rnÃ­ pÅ™Ã­stupovÃ½ kÃ³d pÅ™ijat. Zadejte sekundÃ¡rnÃ­ pÅ™Ã­stupovÃ½ kÃ³d.}
+{171}{}{VynulovÃ¡nÃ­.}
 {172}{}{Funkce?}
 {173}{}{Akce?}
 {174}{}{35C76863}
 {175}{}{A1546761}
 {176}{}{5B576005}
-{177}{}{Odhlásit se.}
-{180}{}{Sekundární pøístupovı kód pøijat. Zadejte terciální pøístupovı kód.}
-{181}{}{Vynulování.}
+{177}{}{OdhlÃ¡sit se.}
+{180}{}{SekundÃ¡rnÃ­ pÅ™Ã­stupovÃ½ kÃ³d pÅ™ijat. Zadejte terciÃ¡lnÃ­ pÅ™Ã­stupovÃ½ kÃ³d.}
+{181}{}{VynulovÃ¡nÃ­.}
 {182}{}{Funkce?}
 {183}{}{Akce?}
 {184}{}{35C76863}
 {185}{}{A1546761}
 {186}{}{5B576005}
-{187}{}{Odhlásit se.}
-{190}{}{Terciální pøístupovı kód pøijat. Jednotka Ú&ORR se zahøívá... jednotka pøipravena k úkolùm. Vyberte servisní akci:}
-{191}{}{Jednotka Ú&ORR pøipravena k plnìní úkolù. Vyberte servisní akci:}
-{192}{}{Zahájit celkovou údrbáøskou sekvenci.}
-{193}{}{Zahájit chladící sekvenci.}
-{194}{}{Zahájit èistící sekvenci.}
-{195}{}{Zahájit opravárenskou sekvenci.}
-{196}{}{Zùstat v pøipraveném stavu a odhlásit se.}
-{200}{}{Tato servisní procedura není v pamìti. Nahrát souèasnou servisní proceduru?}
-{201}{}{Nahrát souèasnou servisní proceduru.}
-{202}{}{Zpìt.}
-{203}{}{Odhlásit se.}
-{210}{}{Prohledávání... aktualizace servisní procedury se nenachází lokálnì na tomto terminálu.}
-{211}{}{Zpìt.}
-{212}{}{Stáhnout servisní proceduru ze sítì.}
-{213}{}{Odhlásit se.}
-{220}{}{Pøipojení k sítí PoseidoNet zahájeno. Zadejte primární sekvenci bezpeènostního pøístupového kódu: 70Y644, 008Z21, 9X7299, A46123.}
+{187}{}{OdhlÃ¡sit se.}
+{190}{}{TerciÃ¡lnÃ­ pÅ™Ã­stupovÃ½ kÃ³d pÅ™ijat. Jednotka Ãš&ORR se zahÅ™Ã­vÃ¡... jednotka pÅ™ipravena k ÃºkolÅ¯m. Vyberte servisnÃ­ akci:}
+{191}{}{Jednotka Ãš&ORR pÅ™ipravena k plnÄ›nÃ­ ÃºkolÅ¯. Vyberte servisnÃ­ akci:}
+{192}{}{ZahÃ¡jit celkovou ÃºdrÅ¾bÃ¡Å™skou sekvenci.}
+{193}{}{ZahÃ¡jit chladÃ­cÃ­ sekvenci.}
+{194}{}{ZahÃ¡jit ÄistÃ­cÃ­ sekvenci.}
+{195}{}{ZahÃ¡jit opravÃ¡renskou sekvenci.}
+{196}{}{ZÅ¯stat v pÅ™ipravenÃ©m stavu a odhlÃ¡sit se.}
+{200}{}{Tato servisnÃ­ procedura nenÃ­ v pamÄ›ti. NahrÃ¡t souÄasnou servisnÃ­ proceduru?}
+{201}{}{NahrÃ¡t souÄasnou servisnÃ­ proceduru.}
+{202}{}{ZpÄ›t.}
+{203}{}{OdhlÃ¡sit se.}
+{210}{}{ProhledÃ¡vÃ¡nÃ­... aktualizace servisnÃ­ procedury se nenachÃ¡zÃ­ lokÃ¡lnÄ› na tomto terminÃ¡lu.}
+{211}{}{ZpÄ›t.}
+{212}{}{StÃ¡hnout servisnÃ­ proceduru ze sÃ­tÄ›.}
+{213}{}{OdhlÃ¡sit se.}
+{220}{}{PÅ™ipojenÃ­ k sÃ­tÃ­ PoseidoNet zahÃ¡jeno. Zadejte primÃ¡rnÃ­ sekvenci bezpeÄnostnÃ­ho pÅ™Ã­stupovÃ©ho kÃ³du: 70Y644, 008Z21, 9X7299, A46123.}
 {221}{}{70Y644}
 {222}{}{008Z21}
 {223}{}{9X7299}
 {224}{}{A46123}
-{225}{}{Odhlásit se.}
-{230}{}{Zahájena chladící sekvence. Pøíprava pøesunu k hlavnímu uzávìru chladícího systému.}
-{231}{}{To bylo mnohem lehèí, ne jsem si myslel.}
-{232}{}{Odhlásit se.}
-{240}{}{Zahájena opravárenská sekvence. Prohledávání... je vyadován hydroelektrickı regulátor magnetosféry. Pøíprava pøesunu k hlavnímu uzávìru chladícího systému pro vımìnu souèástky. Umístìte souèástku do pøihrádky pod terminálem.}
-{241}{}{Aha, to asi myslí tohle.}
-{242}{}{Myslím, e nemám tu souèástku, kterou to potøebuje.}
-{243}{}{Odhlásit se.}
-{250}{}{Terminál byl uzavøen z bezpeènostních dùvodù. Prosím informujte správce PoseidoNetu.}
-{251}{}{Hmm. To vypadá, e z tıhle mašinky víc nedostanu.}
-{252}{}{Hmm. Zajímalo by mì, jestli má tahle mašina lokální reset. No jo, fakt má. Tak ho otestuju.}
-{300}{}{Zadán špatnı bezpeènostní pøístupovı kód.}
-{301}{}{Zadán špatnı bezpeènostní pøístupovı kód. Pøístup odepøen. Prosím zadejte správnı kód. Máte na to ještì dva pokusy.}
-{302}{}{Zadán špatnı bezpeènostní pøístupovı kód. Pøístup odepøen. Zbıvá ještì jeden pokus.}
-{303}{}{Zadán špatnı bezpeènostní pøístupovı kód. Pøístup odepøen. Aktivace vnitøních bezpeènostních procedur.}
+{225}{}{OdhlÃ¡sit se.}
+{230}{}{ZahÃ¡jena chladÃ­cÃ­ sekvence. PÅ™Ã­prava pÅ™esunu k hlavnÃ­mu uzÃ¡vÄ›ru chladÃ­cÃ­ho systÃ©mu.}
+{231}{}{To bylo mnohem lehÄÃ­, neÅ¾ jsem si myslel.}
+{232}{}{OdhlÃ¡sit se.}
+{240}{}{ZahÃ¡jena opravÃ¡renskÃ¡ sekvence. ProhledÃ¡vÃ¡nÃ­... je vyÅ¾adovÃ¡n hydroelektrickÃ½ regulÃ¡tor magnetosfÃ©ry. PÅ™Ã­prava pÅ™esunu k hlavnÃ­mu uzÃ¡vÄ›ru chladÃ­cÃ­ho systÃ©mu pro vÃ½mÄ›nu souÄÃ¡stky. UmÃ­stÄ›te souÄÃ¡stku do pÅ™ihrÃ¡dky pod terminÃ¡lem.}
+{241}{}{Aha, to asi myslÃ­ tohle.}
+{242}{}{MyslÃ­m, Å¾e nemÃ¡m tu souÄÃ¡stku, kterou to potÅ™ebuje.}
+{243}{}{OdhlÃ¡sit se.}
+{250}{}{TerminÃ¡l byl uzavÅ™en z bezpeÄnostnÃ­ch dÅ¯vodÅ¯. ProsÃ­m informujte sprÃ¡vce PoseidoNetu.}
+{251}{}{Hmm. To vypadÃ¡, Å¾e z tÃ½hle maÅ¡inky vÃ­c nedostanu.}
+{252}{}{Hmm. ZajÃ­malo by mÄ›, jestli mÃ¡ tahle maÅ¡ina lokÃ¡lnÃ­ reset. No jo, fakt mÃ¡. Tak ho otestuju.}
+{300}{}{ZadÃ¡n Å¡patnÃ½ bezpeÄnostnÃ­ pÅ™Ã­stupovÃ½ kÃ³d.}
+{301}{}{ZadÃ¡n Å¡patnÃ½ bezpeÄnostnÃ­ pÅ™Ã­stupovÃ½ kÃ³d. PÅ™Ã­stup odepÅ™en. ProsÃ­m zadejte sprÃ¡vnÃ½ kÃ³d. MÃ¡te na to jeÅ¡tÄ› dva pokusy.}
+{302}{}{ZadÃ¡n Å¡patnÃ½ bezpeÄnostnÃ­ pÅ™Ã­stupovÃ½ kÃ³d. PÅ™Ã­stup odepÅ™en. ZbÃ½vÃ¡ jeÅ¡tÄ› jeden pokus.}
+{303}{}{ZadÃ¡n Å¡patnÃ½ bezpeÄnostnÃ­ pÅ™Ã­stupovÃ½ kÃ³d. PÅ™Ã­stup odepÅ™en. Aktivace vnitÅ™nÃ­ch bezpeÄnostnÃ­ch procedur.}
 {304}{}{A sakra.}
-{305}{}{Radìji si dám pøíštì vìtší pozor.}
-{306}{}{Radìji bych u nemìl udìlat ádnou chybu.}
-{307}{}{To nezní moc dobøe.}
-{308}{}{Odhlásit se.}
-{310}{}{Zadejte sekundární sekvenci bezpeènostního pøístupového kódu: 70Y644, 008Z21, 9X7299, A46123.}
+{305}{}{RadÄ›ji si dÃ¡m pÅ™Ã­Å¡tÄ› vÄ›tÅ¡Ã­ pozor.}
+{306}{}{RadÄ›ji bych uÅ¾ nemÄ›l udÄ›lat Å¾Ã¡dnou chybu.}
+{307}{}{To neznÃ­ moc dobÅ™e.}
+{308}{}{OdhlÃ¡sit se.}
+{310}{}{Zadejte sekundÃ¡rnÃ­ sekvenci bezpeÄnostnÃ­ho pÅ™Ã­stupovÃ©ho kÃ³du: 70Y644, 008Z21, 9X7299, A46123.}
 {311}{}{70Y644}
 {312}{}{008Z21}
 {313}{}{9X7299}
 {314}{}{A46123}
-{315}{}{Odhlásit se.}
-{320}{}{Zadejte terciální sekvenci bezpeènostního pøístupového kódu: 70Y644, 008Z21, 9X7299, A46123.}
+{315}{}{OdhlÃ¡sit se.}
+{320}{}{Zadejte terciÃ¡lnÃ­ sekvenci bezpeÄnostnÃ­ho pÅ™Ã­stupovÃ©ho kÃ³du: 70Y644, 008Z21, 9X7299, A46123.}
 {321}{}{70Y644}
 {322}{}{008Z21}
 {323}{}{9X7299}
 {324}{}{A46123}
-{325}{}{Odhlásit se.}
-{330}{}{Sekvence bezpeènostního pøístupového kódu pøijata. Vítejte v síti PoseidoNet: }
-{331}{}{Stáhnout servisní procedury pro údrbáøského robota.}
-{332}{}{Seznam dalších stanic.}
-{333}{}{Odhlásit se.}
-{340}{}{Prohledávání... servisní procedury pro údrbáøského robota nebyly nalezeny.}
-{341}{}{Hmm. To vypadá, e tady nejsou.}
+{325}{}{OdhlÃ¡sit se.}
+{330}{}{Sekvence bezpeÄnostnÃ­ho pÅ™Ã­stupovÃ©ho kÃ³du pÅ™ijata. VÃ­tejte v sÃ­ti PoseidoNet: }
+{331}{}{StÃ¡hnout servisnÃ­ procedury pro ÃºdrÅ¾bÃ¡Å™skÃ©ho robota.}
+{332}{}{Seznam dalÅ¡Ã­ch stanic.}
+{333}{}{OdhlÃ¡sit se.}
+{340}{}{ProhledÃ¡vÃ¡nÃ­... servisnÃ­ procedury pro ÃºdrÅ¾bÃ¡Å™skÃ©ho robota nebyly nalezeny.}
+{341}{}{Hmm. To vypadÃ¡, Å¾e tady nejsou.}
 {342}{}{Zobrazit seznam stanic.}
-{343}{}{Odhlásit se.}
-{350}{}{Prohledávání Comlinks... prohledávání... Iron Mountain... offline, NORAD... offline, SAC... offline. Prohledávání PoseidoNetu... --Více?--}
-{351}{}{Stáhnout servisní procedury pro údrbáøského robota.}
-{352}{}{Více.}
-{353}{}{Odhlásit se.}
-{360}{}{Aktivní stanice PoseidoNetu: Atomová elektrárna è.5, rafinérie Navarro, kontrolní stanice Enkláva, Vault Enklávy-vızkumné støedisko... pøístup odepøen.}
-{361}{}{Všechna svìtla svítí, ale nikdo není doma. }
-{362}{}{Všechno je vypnuté kromì Vaultu Enklávy-vızkumného støediska. Zajímalo by mì, co to je.}
-{363}{}{Hmm, zdá se, e je všechno vypnuté nebo offline. No tak nic.}
-{370}{}{Pøipojování... Enklávská stanice... pøístup odepøen.}
-{371}{}{Pøipojování... opìt... Enklávská stanice... pøístup odepøen.}
-{372}{}{Pøipojování... ještì jednou... ty jsi ale vytrvalı, e jo? Enklávská stanice... pøístup odepøen.}
-{373}{}{Pøipojování... ještì jednou... nezaèíná tì to u unavovat? Enklávská stanice... pøístup odepøen.}
-{374}{}{Pøipojování... ještì jednou... nemáš teï nic lepšího na práci? Enklávská stanice... pøístup odepøen.}
-{375}{}{Tak a dost. U mám dost toho neustálého otravování. Jestli to zkusíš ještì jednou, budeš toho litovat.}
-{376}{}{Já tì varoval. (Pøi ètení této zprávy najednou pocítíš silnı proud elektøiny, kterı projde tvımi prsty skrz klávesnici terminálu.)}
-{377}{}{Moná bych to mìl zkusit znovu.}
-{378}{}{Tak to by u staèilo. Radìji se pokusím zprovoznit tu Ú&ORR jednotku.}
-{379}{}{Zatracenì, nìkdo mì musel odøíznout.}
-{380}{}{Pøed zapoèetím opravárenské sekvence je zapotøebí hydroelektrickı regulátor magnetosféry.}
-{381}{}{Zahájit údrbu chlazení.}
-{382}{}{Odhlásit se.}
-{390}{}{Hydroelektrickı regulátor magnetosféry pøijat. Scanování... souèástka v poøádku... jednotka dokonèila opravu... pokraèovat?}
+{343}{}{OdhlÃ¡sit se.}
+{350}{}{ProhledÃ¡vÃ¡nÃ­ Comlinks... prohledÃ¡vÃ¡nÃ­... Iron Mountain... offline, NORAD... offline, SAC... offline. ProhledÃ¡vÃ¡nÃ­ PoseidoNetu... --VÃ­ce?--}
+{351}{}{StÃ¡hnout servisnÃ­ procedury pro ÃºdrÅ¾bÃ¡Å™skÃ©ho robota.}
+{352}{}{VÃ­ce.}
+{353}{}{OdhlÃ¡sit se.}
+{360}{}{AktivnÃ­ stanice PoseidoNetu: AtomovÃ¡ elektrÃ¡rna Ä.5, rafinÃ©rie Navarro, kontrolnÃ­ stanice EnklÃ¡va, Vault EnklÃ¡vy-vÃ½zkumnÃ© stÅ™edisko... pÅ™Ã­stup odepÅ™en.}
+{361}{}{VÅ¡echna svÄ›tla svÃ­tÃ­, ale nikdo nenÃ­ doma. }
+{362}{}{VÅ¡echno je vypnutÃ© kromÄ› Vaultu EnklÃ¡vy-vÃ½zkumnÃ©ho stÅ™ediska. ZajÃ­malo by mÄ›, co to je.}
+{363}{}{Hmm, zdÃ¡ se, Å¾e je vÅ¡echno vypnutÃ© nebo offline. No tak nic.}
+{370}{}{PÅ™ipojovÃ¡nÃ­... EnklÃ¡vskÃ¡ stanice... pÅ™Ã­stup odepÅ™en.}
+{371}{}{PÅ™ipojovÃ¡nÃ­... opÄ›t... EnklÃ¡vskÃ¡ stanice... pÅ™Ã­stup odepÅ™en.}
+{372}{}{PÅ™ipojovÃ¡nÃ­... jeÅ¡tÄ› jednou... ty jsi ale vytrvalÃ½, Å¾e jo? EnklÃ¡vskÃ¡ stanice... pÅ™Ã­stup odepÅ™en.}
+{373}{}{PÅ™ipojovÃ¡nÃ­... jeÅ¡tÄ› jednou... nezaÄÃ­nÃ¡ tÄ› to uÅ¾ unavovat? EnklÃ¡vskÃ¡ stanice... pÅ™Ã­stup odepÅ™en.}
+{374}{}{PÅ™ipojovÃ¡nÃ­... jeÅ¡tÄ› jednou... nemÃ¡Å¡ teÄ nic lepÅ¡Ã­ho na prÃ¡ci? EnklÃ¡vskÃ¡ stanice... pÅ™Ã­stup odepÅ™en.}
+{375}{}{Tak a dost. UÅ¾ mÃ¡m dost toho neustÃ¡lÃ©ho otravovÃ¡nÃ­. Jestli to zkusÃ­Å¡ jeÅ¡tÄ› jednou, budeÅ¡ toho litovat.}
+{376}{}{JÃ¡ tÄ› varoval. (PÅ™i ÄtenÃ­ tÃ©to zprÃ¡vy najednou pocÃ­tÃ­Å¡ silnÃ½ proud elektÅ™iny, kterÃ½ projde tvÃ½mi prsty skrz klÃ¡vesnici terminÃ¡lu.)}
+{377}{}{MoÅ¾nÃ¡ bych to mÄ›l zkusit znovu.}
+{378}{}{Tak to by uÅ¾ staÄilo. RadÄ›ji se pokusÃ­m zprovoznit tu Ãš&ORR jednotku.}
+{379}{}{ZatracenÄ›, nÄ›kdo mÄ› musel odÅ™Ã­znout.}
+{380}{}{PÅ™ed zapoÄetÃ­m opravÃ¡renskÃ© sekvence je zapotÅ™ebÃ­ hydroelektrickÃ½ regulÃ¡tor magnetosfÃ©ry.}
+{381}{}{ZahÃ¡jit ÃºdrÅ¾bu chlazenÃ­.}
+{382}{}{OdhlÃ¡sit se.}
+{390}{}{HydroelektrickÃ½ regulÃ¡tor magnetosfÃ©ry pÅ™ijat. ScanovÃ¡nÃ­... souÄÃ¡stka v poÅ™Ã¡dku... jednotka dokonÄila opravu... pokraÄovat?}
 {391}{}{Ano.}
-{392}{}{Odhlásit se.}
-{400}{}{Logické okruhy poškozeny. V pøípadì nouze mùe bıt jednotka Ú&ORR øízena manuálnì.}
-{401}{}{Hmm, tím se všechno vysvìtluje. Myslím, e to zkusím ruènì.}
-{402}{}{Hmm, to nezní moc slibnì. Radìji se odhlásím.}
-{410}{}{Zahájení spuštìní Ú&ORR jednotky. Kontrola systému... OK, kontrola manipulaèního ramena... OK, kontrola vnitøního stabilizátoru... OK, logické okruhy... CHYBA.}
-{411}{}{Hmm, logické okruhy hlásí chybu. To by mì zajímalo, co to znamená.}
-{412}{}{Vypadá to, e vìtšina z toho funguje. Zkusím to zprovoznit.}
-{420}{}{Rozpoznávání pozice nefunkèní. Jednotka nemùe chodit na dlouhé vzdálenosti. Doporuèení: Pøesunujte jednotku po krátkıch krocích a k místu úkolu.}
-{421}{}{Zajímalo by mì, co se stane, kdy nezadám kroky ve správném poøadí.}
-{422}{}{Myslím, e u jsem tìch varování èetl dost. Jsem pøipraven tu vìc teï vyzkoušet.}
-{430}{}{Robot se vrátí na svoji základnu, pokud program obsahuje kritické chyby.}
-{431}{}{Aha, rozumím. Zajímalo by mì, jak na tom jsou logické obvody.}
-{432}{}{Jsem pøipraven pokusit se tuhle vìc rozchodit.}
-{440}{}{Manuální navádìní: Jednotka Ú&ORR musí bıt øízena manuálnì a ke svému koneènému cíli. Jednotka se bude pohybovat podle pøíkazù (MovVarù), které jí zadáte, ale jestli bude její cesta blokována nebo bude hodnì poškozena, automaticky se vrátí na své pùvodní místo.}
-{441}{}{Kam budu potøebovat pøemístit robota? Uka mi procedury.}
-{442}{}{Myslím, e jsem pøipraven zaèít.}
-{443}{}{Odhlásit se.}
-{450}{}{ádost o procedury:}
-{451}{}{Chci vìdìt, kde se nachází hydroelektrickı regulátor magnetosféry.}
-{452}{}{Potøebuju vìdìt, kde se nachází hlavní uzávìr chladícího systému.}
-{453}{}{Odhlásit se.}
-{460}{}{Hydroelektrickı regulátor magnetosféry se nachází naproti vıchodní zdi jádra reaktoru. Je hned po pravé stranì hlavního uzávìru chladícího sytému.}
-{461}{}{Kde je hlavní uzávìr chladícího systému?}
-{462}{}{Myslím, e jsem pøipraven zaèít.}
-{463}{}{Odhlásit se.}
-{470}{}{Hlavní uzávìr chladícího systému se nachází blízko vıchodní zdi jádra reaktoru. Je ovládán velkım èervenım kolem.}
-{471}{}{To by nemìlo bıt tak tìké najít... pokud se ta èervená barva nesloupla.}
-{472}{}{Myslím, e jsem pøipraven zaèít.}
-{473}{}{Odhlásit se.}
-{480}{}{Pohotovostní manuál ovládání jednotky Ú&ORR: Aby se mohla jednotka pohybovat, musíš jí zadat pøíkazy Otoè se doleva, Otoè se doprava, Jdi rovnì a jako poslední v dané sekvenci musí bıt pøíkaz Vykonat Proceduru.}
-{482}{}{Pokud byla tato sekvence ji zkoušena, uka mi pøedchozí øadu pohybovıch pøíkazù. Pøíkazy?: MoveVar1}
-{484}{}{Pokud byla tato sekvence ji zkoušena, uka mi pøedchozí øadu pohybovıch pøíkazù. Jednotka zahøáta na 5% maxima. Pøíkazy?: MoveVar1, MoveVar2}
-{486}{}{Pokud byla tato sekvence ji zkoušena, uka mi pøedchozí øadu pohybovıch pøíkazù. Jednotka zahøáta na 10% maxima. Pøíkazy?: MoveVar1, MoveVar2, MoveVar3}
-{488}{}{Pokud byla tato sekvence ji zkoušena, uka mi pøedchozí øadu pohybovıch pøíkazù. Jednotka zahøáta na 15% maxima. Pøíkazy?: MoveVar1, MoveVar2, MoveVar3, MoveVar4}
-{490}{}{Pokud byla tato sekvence ji zkoušena, uka mi pøedchozí øadu pohybovıch pøíkazù. Jednotka zahøáta na 20% maxima. Pøíkazy?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5}
-{492}{}{Pokud byla tato sekvence ji zkoušena, uka mi pøedchozí øadu pohybovıch pøíkazù. Jednotka zahøáta na 25% maxima. Pøíkazy?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6}
-{494}{}{Pokud byla tato sekvence ji zkoušena, uka mi pøedchozí øadu pohybovıch pøíkazù. Jednotka zahøáta na 30% maxima. Pøíkazy?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7}
-{496}{}{Pokud byla tato sekvence ji zkoušena, uka mi pøedchozí øadu pohybovıch pøíkazù. Jednotka zahøáta na 35% maxima. Pøíkazy?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8}
-{498}{}{Pokud byla tato sekvence ji zkoušena, uka mi pøedchozí øadu pohybovıch pøíkazù. Jednotka zahøáta na 40% maxima. Pøíkazy?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9}
-{500}{}{Pokud byla tato sekvence ji zkoušena, uka mi pøedchozí øadu pohybovıch pøíkazù. Jednotka zahøáta na 45% maxima. Pøíkazy?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10}
-{502}{}{Pokud byla tato sekvence ji zkoušena, uka mi pøedchozí øadu pohybovıch pøíkazù. Jednotka zahøáta na 50% maxima. Pøíkazy?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11}
-{504}{}{Pokud byla tato sekvence ji zkoušena, uka mi pøedchozí øadu pohybovıch pøíkazù. Jednotka zahøáta na 55% maxima. Pøíkazy?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11, MoveVar12}
-{506}{}{Pokud byla tato sekvence ji zkoušena, uka mi pøedchozí øadu pohybovıch pøíkazù. Jednotka zahøáta na 60% maxima. Pøíkazy?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11,MoveVar12, MoveVar13}
-{508}{}{Pokud byla tato sekvence ji zkoušena, uka mi pøedchozí øadu pohybovıch pøíkazù. Jednotka zahøáta na 65% maxima. Pøíkazy?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11,MoveVar12, MoveVar13, MoveVar14}
-{510}{}{Pokud byla tato sekvence ji zkoušena, uka mi pøedchozí øadu pohybovıch pøíkazù. Jednotka zahøáta na 70% maxima. Pøíkazy?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11,MoveVar12, MoveVar13, MoveVar14, MoveVar15}
-{512}{}{Pokud byla tato sekvence ji zkoušena, uka mi pøedchozí øadu pohybovıch pøíkazù. Jednotka zahøáta na 75% maxima. Pøíkazy?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11,MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16}
-{514}{}{Pokud byla tato sekvence ji zkoušena, uka mi pøedchozí øadu pohybovıch pøíkazù. Jednotka zahøáta na 80% maxima. Pøíkazy?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11,MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16, MoveVar17}
-{516}{}{Pokud byla tato sekvence ji zkoušena, uka mi pøedchozí øadu pohybovıch pøíkazù. Jednotka zahøáta na 85% maxima. Pøíkazy?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11,MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16, MoveVar17, MoveVar18}
+{392}{}{OdhlÃ¡sit se.}
+{400}{}{LogickÃ© okruhy poÅ¡kozeny. V pÅ™Ã­padÄ› nouze mÅ¯Å¾e bÃ½t jednotka Ãš&ORR Å™Ã­zena manuÃ¡lnÄ›.}
+{401}{}{Hmm, tÃ­m se vÅ¡echno vysvÄ›tluje. MyslÃ­m, Å¾e to zkusÃ­m ruÄnÄ›.}
+{402}{}{Hmm, to neznÃ­ moc slibnÄ›. RadÄ›ji se odhlÃ¡sÃ­m.}
+{410}{}{ZahÃ¡jenÃ­ spuÅ¡tÄ›nÃ­ Ãš&ORR jednotky. Kontrola systÃ©mu... OK, kontrola manipulaÄnÃ­ho ramena... OK, kontrola vnitÅ™nÃ­ho stabilizÃ¡toru... OK, logickÃ© okruhy... CHYBA.}
+{411}{}{Hmm, logickÃ© okruhy hlÃ¡sÃ­ chybu. To by mÄ› zajÃ­malo, co to znamenÃ¡.}
+{412}{}{VypadÃ¡ to, Å¾e vÄ›tÅ¡ina z toho funguje. ZkusÃ­m to zprovoznit.}
+{420}{}{RozpoznÃ¡vÃ¡nÃ­ pozice nefunkÄnÃ­. Jednotka nemÅ¯Å¾e chodit na dlouhÃ© vzdÃ¡lenosti. DoporuÄenÃ­: PÅ™esunujte jednotku po krÃ¡tkÃ½ch krocÃ­ch aÅ¾ k mÃ­stu Ãºkolu.}
+{421}{}{ZajÃ­malo by mÄ›, co se stane, kdyÅ¾ nezadÃ¡m kroky ve sprÃ¡vnÃ©m poÅ™adÃ­.}
+{422}{}{MyslÃ­m, Å¾e uÅ¾ jsem tÄ›ch varovÃ¡nÃ­ Äetl dost. Jsem pÅ™ipraven tu vÄ›c teÄ vyzkouÅ¡et.}
+{430}{}{Robot se vrÃ¡tÃ­ na svoji zÃ¡kladnu, pokud program obsahuje kritickÃ© chyby.}
+{431}{}{Aha, rozumÃ­m. ZajÃ­malo by mÄ›, jak na tom jsou logickÃ© obvody.}
+{432}{}{Jsem pÅ™ipraven pokusit se tuhle vÄ›c rozchodit.}
+{440}{}{ManuÃ¡lnÃ­ navÃ¡dÄ›nÃ­: Jednotka Ãš&ORR musÃ­ bÃ½t Å™Ã­zena manuÃ¡lnÄ› aÅ¾ ke svÃ©mu koneÄnÃ©mu cÃ­li. Jednotka se bude pohybovat podle pÅ™Ã­kazÅ¯ (MovVarÅ¯), kterÃ© jÃ­ zadÃ¡te, ale jestli bude jejÃ­ cesta blokovÃ¡na nebo bude hodnÄ› poÅ¡kozena, automaticky se vrÃ¡tÃ­ na svÃ© pÅ¯vodnÃ­ mÃ­sto.}
+{441}{}{Kam budu potÅ™ebovat pÅ™emÃ­stit robota? UkaÅ¾ mi procedury.}
+{442}{}{MyslÃ­m, Å¾e jsem pÅ™ipraven zaÄÃ­t.}
+{443}{}{OdhlÃ¡sit se.}
+{450}{}{Å½Ã¡dost o procedury:}
+{451}{}{Chci vÄ›dÄ›t, kde se nachÃ¡zÃ­ hydroelektrickÃ½ regulÃ¡tor magnetosfÃ©ry.}
+{452}{}{PotÅ™ebuju vÄ›dÄ›t, kde se nachÃ¡zÃ­ hlavnÃ­ uzÃ¡vÄ›r chladÃ­cÃ­ho systÃ©mu.}
+{453}{}{OdhlÃ¡sit se.}
+{460}{}{HydroelektrickÃ½ regulÃ¡tor magnetosfÃ©ry se nachÃ¡zÃ­ naproti vÃ½chodnÃ­ zdi jÃ¡dra reaktoru. Je hned po pravÃ© stranÄ› hlavnÃ­ho uzÃ¡vÄ›ru chladÃ­cÃ­ho sytÃ©mu.}
+{461}{}{Kde je hlavnÃ­ uzÃ¡vÄ›r chladÃ­cÃ­ho systÃ©mu?}
+{462}{}{MyslÃ­m, Å¾e jsem pÅ™ipraven zaÄÃ­t.}
+{463}{}{OdhlÃ¡sit se.}
+{470}{}{HlavnÃ­ uzÃ¡vÄ›r chladÃ­cÃ­ho systÃ©mu se nachÃ¡zÃ­ blÃ­zko vÃ½chodnÃ­ zdi jÃ¡dra reaktoru. Je ovlÃ¡dÃ¡n velkÃ½m ÄervenÃ½m kolem.}
+{471}{}{To by nemÄ›lo bÃ½t tak tÄ›Å¾kÃ© najÃ­t... pokud se ta ÄervenÃ¡ barva nesloupla.}
+{472}{}{MyslÃ­m, Å¾e jsem pÅ™ipraven zaÄÃ­t.}
+{473}{}{OdhlÃ¡sit se.}
+{480}{}{PohotovostnÃ­ manuÃ¡l ovlÃ¡dÃ¡nÃ­ jednotky Ãš&ORR: Aby se mohla jednotka pohybovat, musÃ­Å¡ jÃ­ zadat pÅ™Ã­kazy OtoÄ se doleva, OtoÄ se doprava, Jdi rovnÄ› a jako poslednÃ­ v danÃ© sekvenci musÃ­ bÃ½t pÅ™Ã­kaz Vykonat Proceduru.}
+{482}{}{Pokud byla tato sekvence jiÅ¾ zkouÅ¡ena, ukaÅ¾ mi pÅ™edchozÃ­ Å™adu pohybovÃ½ch pÅ™Ã­kazÅ¯. PÅ™Ã­kazy?: MoveVar1}
+{484}{}{Pokud byla tato sekvence jiÅ¾ zkouÅ¡ena, ukaÅ¾ mi pÅ™edchozÃ­ Å™adu pohybovÃ½ch pÅ™Ã­kazÅ¯. Jednotka zahÅ™Ã¡ta na 5% maxima. PÅ™Ã­kazy?: MoveVar1, MoveVar2}
+{486}{}{Pokud byla tato sekvence jiÅ¾ zkouÅ¡ena, ukaÅ¾ mi pÅ™edchozÃ­ Å™adu pohybovÃ½ch pÅ™Ã­kazÅ¯. Jednotka zahÅ™Ã¡ta na 10% maxima. PÅ™Ã­kazy?: MoveVar1, MoveVar2, MoveVar3}
+{488}{}{Pokud byla tato sekvence jiÅ¾ zkouÅ¡ena, ukaÅ¾ mi pÅ™edchozÃ­ Å™adu pohybovÃ½ch pÅ™Ã­kazÅ¯. Jednotka zahÅ™Ã¡ta na 15% maxima. PÅ™Ã­kazy?: MoveVar1, MoveVar2, MoveVar3, MoveVar4}
+{490}{}{Pokud byla tato sekvence jiÅ¾ zkouÅ¡ena, ukaÅ¾ mi pÅ™edchozÃ­ Å™adu pohybovÃ½ch pÅ™Ã­kazÅ¯. Jednotka zahÅ™Ã¡ta na 20% maxima. PÅ™Ã­kazy?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5}
+{492}{}{Pokud byla tato sekvence jiÅ¾ zkouÅ¡ena, ukaÅ¾ mi pÅ™edchozÃ­ Å™adu pohybovÃ½ch pÅ™Ã­kazÅ¯. Jednotka zahÅ™Ã¡ta na 25% maxima. PÅ™Ã­kazy?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6}
+{494}{}{Pokud byla tato sekvence jiÅ¾ zkouÅ¡ena, ukaÅ¾ mi pÅ™edchozÃ­ Å™adu pohybovÃ½ch pÅ™Ã­kazÅ¯. Jednotka zahÅ™Ã¡ta na 30% maxima. PÅ™Ã­kazy?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7}
+{496}{}{Pokud byla tato sekvence jiÅ¾ zkouÅ¡ena, ukaÅ¾ mi pÅ™edchozÃ­ Å™adu pohybovÃ½ch pÅ™Ã­kazÅ¯. Jednotka zahÅ™Ã¡ta na 35% maxima. PÅ™Ã­kazy?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8}
+{498}{}{Pokud byla tato sekvence jiÅ¾ zkouÅ¡ena, ukaÅ¾ mi pÅ™edchozÃ­ Å™adu pohybovÃ½ch pÅ™Ã­kazÅ¯. Jednotka zahÅ™Ã¡ta na 40% maxima. PÅ™Ã­kazy?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9}
+{500}{}{Pokud byla tato sekvence jiÅ¾ zkouÅ¡ena, ukaÅ¾ mi pÅ™edchozÃ­ Å™adu pohybovÃ½ch pÅ™Ã­kazÅ¯. Jednotka zahÅ™Ã¡ta na 45% maxima. PÅ™Ã­kazy?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10}
+{502}{}{Pokud byla tato sekvence jiÅ¾ zkouÅ¡ena, ukaÅ¾ mi pÅ™edchozÃ­ Å™adu pohybovÃ½ch pÅ™Ã­kazÅ¯. Jednotka zahÅ™Ã¡ta na 50% maxima. PÅ™Ã­kazy?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11}
+{504}{}{Pokud byla tato sekvence jiÅ¾ zkouÅ¡ena, ukaÅ¾ mi pÅ™edchozÃ­ Å™adu pohybovÃ½ch pÅ™Ã­kazÅ¯. Jednotka zahÅ™Ã¡ta na 55% maxima. PÅ™Ã­kazy?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11, MoveVar12}
+{506}{}{Pokud byla tato sekvence jiÅ¾ zkouÅ¡ena, ukaÅ¾ mi pÅ™edchozÃ­ Å™adu pohybovÃ½ch pÅ™Ã­kazÅ¯. Jednotka zahÅ™Ã¡ta na 60% maxima. PÅ™Ã­kazy?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11,MoveVar12, MoveVar13}
+{508}{}{Pokud byla tato sekvence jiÅ¾ zkouÅ¡ena, ukaÅ¾ mi pÅ™edchozÃ­ Å™adu pohybovÃ½ch pÅ™Ã­kazÅ¯. Jednotka zahÅ™Ã¡ta na 65% maxima. PÅ™Ã­kazy?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11,MoveVar12, MoveVar13, MoveVar14}
+{510}{}{Pokud byla tato sekvence jiÅ¾ zkouÅ¡ena, ukaÅ¾ mi pÅ™edchozÃ­ Å™adu pohybovÃ½ch pÅ™Ã­kazÅ¯. Jednotka zahÅ™Ã¡ta na 70% maxima. PÅ™Ã­kazy?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11,MoveVar12, MoveVar13, MoveVar14, MoveVar15}
+{512}{}{Pokud byla tato sekvence jiÅ¾ zkouÅ¡ena, ukaÅ¾ mi pÅ™edchozÃ­ Å™adu pohybovÃ½ch pÅ™Ã­kazÅ¯. Jednotka zahÅ™Ã¡ta na 75% maxima. PÅ™Ã­kazy?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11,MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16}
+{514}{}{Pokud byla tato sekvence jiÅ¾ zkouÅ¡ena, ukaÅ¾ mi pÅ™edchozÃ­ Å™adu pohybovÃ½ch pÅ™Ã­kazÅ¯. Jednotka zahÅ™Ã¡ta na 80% maxima. PÅ™Ã­kazy?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11,MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16, MoveVar17}
+{516}{}{Pokud byla tato sekvence jiÅ¾ zkouÅ¡ena, ukaÅ¾ mi pÅ™edchozÃ­ Å™adu pohybovÃ½ch pÅ™Ã­kazÅ¯. Jednotka zahÅ™Ã¡ta na 85% maxima. PÅ™Ã­kazy?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11,MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16, MoveVar17, MoveVar18}
 {518}{}{If this has been attempted before, show the previous set of movement commands here. Heat at 90% of unit tolerance. Shutdown imminent. Commands?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11,MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16, MoveVar17, MoveVar18, MoveVar19}
-{520}{}{Pokud byla tato sekvence ji zkoušena, uka mi pøedchozí øadu pohybovıch pøíkazù. Jednotka zahøáta na 95% maxima. Hrozí kolaps systému. Pøíkazy?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11,MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16, MoveVar17, MoveVar18, MoveVar19, MoveVar20}
-{522}{}{Otoè se doleva.}
-{524}{}{Otoè se doprava.}
-{526}{}{Jdi rovnì.}
-{530}{}{Vykonat Proceduru: Nainstaluj hydroelektrickı regulátor magnetosféry.}
-{531}{}{Vykonat Proceduru: Vypni hlavní uzávìr chladícího systému.}
-{535}{}{Pohotovostní pøíruèka kontrolní jednotky Ú&ORR:}
-{540}{}{Pøidat pøíkaz.}
-{541}{}{Seznam programù.}
-{542}{}{Informace o nastavení senzorù.}
-{543}{}{Nahlášení škod.}
-{544}{}{Smazat všechny pøíkazy.}
+{520}{}{Pokud byla tato sekvence jiÅ¾ zkouÅ¡ena, ukaÅ¾ mi pÅ™edchozÃ­ Å™adu pohybovÃ½ch pÅ™Ã­kazÅ¯. Jednotka zahÅ™Ã¡ta na 95% maxima. HrozÃ­ kolaps systÃ©mu. PÅ™Ã­kazy?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11,MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16, MoveVar17, MoveVar18, MoveVar19, MoveVar20}
+{522}{}{OtoÄ se doleva.}
+{524}{}{OtoÄ se doprava.}
+{526}{}{Jdi rovnÄ›.}
+{530}{}{Vykonat Proceduru: Nainstaluj hydroelektrickÃ½ regulÃ¡tor magnetosfÃ©ry.}
+{531}{}{Vykonat Proceduru: Vypni hlavnÃ­ uzÃ¡vÄ›r chladÃ­cÃ­ho systÃ©mu.}
+{535}{}{PohotovostnÃ­ pÅ™Ã­ruÄka kontrolnÃ­ jednotky Ãš&ORR:}
+{540}{}{PÅ™idat pÅ™Ã­kaz.}
+{541}{}{Seznam programÅ¯.}
+{542}{}{Informace o nastavenÃ­ senzorÅ¯.}
+{543}{}{NahlÃ¡Å¡enÃ­ Å¡kod.}
+{544}{}{Smazat vÅ¡echny pÅ™Ã­kazy.}
 {545}{}{Spustit program.}
-{546}{}{Zpìt.}
-{547}{}{Odhlásit se.}
-{550}{}{Zpìt do hlavního menu.}
-{600}{}{Vyber pøíkaz:}
-{601}{}{Zkalibrovat uranové palivové tyèe.}
-{602}{}{Zvìtšit plutoniovı gamma štít.}
-{603}{}{Nastavit voltá saturnového kondenzátoru.}
-{604}{}{Zharmonizovat neptunovı rotor.}
-{605}{}{Otestovat jupiterovı vlnovı kompilátor.}
-{606}{}{Nainstalovat hydroelektrickı regulátor magnetosféry.}
-{607}{}{Vypnout hlavní uzávìr chladícího systému.}
-{608}{}{Zapnout hlavní uzávìr chladícího systému.}
-{620}{}{Seznam programù:}
-{630}{}{Informace o nastavení systému:}
-{640}{}{Nahlášení škod:}
-{650}{}{Pøíkazy smazány.}
+{546}{}{ZpÄ›t.}
+{547}{}{OdhlÃ¡sit se.}
+{550}{}{ZpÄ›t do hlavnÃ­ho menu.}
+{600}{}{Vyber pÅ™Ã­kaz:}
+{601}{}{Zkalibrovat uranovÃ© palivovÃ© tyÄe.}
+{602}{}{ZvÄ›tÅ¡it plutoniovÃ½ gamma Å¡tÃ­t.}
+{603}{}{Nastavit voltÃ¡Å¾ saturnovÃ©ho kondenzÃ¡toru.}
+{604}{}{Zharmonizovat neptunovÃ½ rotor.}
+{605}{}{Otestovat jupiterovÃ½ vlnovÃ½ kompilÃ¡tor.}
+{606}{}{Nainstalovat hydroelektrickÃ½ regulÃ¡tor magnetosfÃ©ry.}
+{607}{}{Vypnout hlavnÃ­ uzÃ¡vÄ›r chladÃ­cÃ­ho systÃ©mu.}
+{608}{}{Zapnout hlavnÃ­ uzÃ¡vÄ›r chladÃ­cÃ­ho systÃ©mu.}
+{620}{}{Seznam programÅ¯:}
+{630}{}{Informace o nastavenÃ­ systÃ©mu:}
+{640}{}{NahlÃ¡Å¡enÃ­ Å¡kod:}
+{650}{}{PÅ™Ã­kazy smazÃ¡ny.}
 {660}{}{--KONEC PROGRAMU--}
-{700}{}{Prosím èekejte. Program se spouští...}
+{700}{}{ProsÃ­m Äekejte. Program se spouÅ¡tÃ­...}
 {710}{}{Jednotka nekomunikuje.}
-{720}{}{Chyba - špatnı pøíkaz. Jednotka odmítla pøíkaz. Jednotka se vrátila do kontrolního doku.}
-{730}{}{Chyba - pøíliš mnoho pøíkazù.}
-{740}{}{Dobøe.}
-{800}{}{Optimalizaèní procedura byla úspìšná.}
-{900}{}{Zpracování spouštìcích souborù. Prosím èekejte.}
+{720}{}{Chyba - Å¡patnÃ½ pÅ™Ã­kaz. Jednotka odmÃ­tla pÅ™Ã­kaz. Jednotka se vrÃ¡tila do kontrolnÃ­ho doku.}
+{730}{}{Chyba - pÅ™Ã­liÅ¡ mnoho pÅ™Ã­kazÅ¯.}
+{740}{}{DobÅ™e.}
+{800}{}{OptimalizaÄnÃ­ procedura byla ÃºspÄ›Å¡nÃ¡.}
+{900}{}{ZpracovÃ¡nÃ­ spouÅ¡tÄ›cÃ­ch souborÅ¯. ProsÃ­m Äekejte.}
 {910}{}{[KONEC]}

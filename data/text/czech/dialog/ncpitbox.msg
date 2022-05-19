@@ -1,41 +1,41 @@
-{100}{}{Vidíš šéfa spodního patra kasína.}
-{150}{}{Vidíš dobøe obleèeného mue. Hlídá kasíno.}
+{100}{}{VidÃ­Å¡ Å¡Ã©fa spodnÃ­ho patra kasÃ­na.}
+{150}{}{VidÃ­Å¡ dobÅ™e obleÄenÃ©ho muÅ¾e. HlÃ­dÃ¡ kasÃ­no.}
 {200}{}{Eh... budete si muset sundat tu zbroj.}
-{210}{}{Eh, proè se tady tak plííte, pane?}
-{220}{}{Eh, proè se tady tak plííte, madam?}
-{230}{}{Dobrı veèer, [MM], pane.}
-{240}{}{Dobrı veèer, [MM], sleèno.}
-{250}{}{Zdravíèko, [MM], pane.}
-{260}{}{Zdravíèko, [MM], sleèno.}
-{270}{}{Jseš ve špatnım kasínu, pøíteli.}
-{280}{}{Je mi líto, pane, ale tu zbraò budete muset dát pryè.}
-{290}{}{Je mi líto, madam, ale tu zbraò budete muset dát pryè.}
-{300}{}{Je mi líto zlato, ale s tou zbraní do kasina nesmíte. [Smìje se.] U tak jste dost nebezpeèná.}
-{310}{}{S takovouhle figurou se nikam neproplííš, zlato.}
-{320}{}{Hej, tu zbraò byste mìl radìji odloit hned teï.}
-{330}{}{Hej, myslím, e byste toho šmejdìní mìl okamitì nechat.}
-{340}{}{[Myronovi] Hele... Myrone! U tì pìknì dlouho nebylo vidìt venku...}
-{350}{}{[Kıvá na Marcuse.] ádní mutanti. Èeká venku.}
-{360}{}{Droidùm vstup zakázán.}
-{370}{}{Nemìl bych se sice vykecávat pøi práci, ale jsem rád, e Enklávì koneènì nìkdo nakopal prdel.}
-{380}{}{Potøebujeme další etony na stùl tøi...}
-{390}{}{Potøebujeme další etony na stùl tøi...}
-{400}{}{Hej, [X]! Slyšel jsem, e jsi byl ty, kdo poslal Enklávu tam, kam patøí! [Zvání.] Mám vám dát jako pozornost kasina nìjakı drobnı. Bavte se, pane.}
-{420}{}{Hej, podívej, kdo pøišel! Hej, [PS]. [Smìje se.] Vítejte v [CN]. Miluju vaše filmy.}
-{440}{}{Jasnì. Co chceš vìdìt?}
-{460}{}{Eh, mìl byste radìji odejít, pane.}
-{470}{}{Jo, to mi tvoje máma taky øekla. A teï zmiz... tøeba ji najdeš nìkde na ulici Panen.}
-{480}{}{Jsem zdejší šéf. [vypadá trochu podrádìnì.] Co pro tebe mùu udìlat?}
-{490}{}{Tohle je [CN]. Nìco chceš, ptej se.}
-{500}{}{Proklatì nejlepší kasino ve mìstì... ale moná jsem trochu zaujatı. [Chechtá se.] Ještì nìco si chtìl?}
-{510}{}{[CA] rodina. Vloili do toho velké mnoství práce a udìlali z toho skvìlı noèní podnik, opravdovı diamant New Rena.}
-{520}{}{Támhleten chlápek? Starej McGee? Ten bláznivej sráè... hraje tady pár posledních let a poøád èeká na velkou ránu. Jeho ivotní bohatství je zøejmì zavøené v tamté krabici, ale zatím z ní nevymlátil ani dolar.}
-{530}{}{[Kıve hlavou.] Ne, je to jen tvrdohlavej stroj, stejnì jako on. [Krèí rameny.] Moná by to chtìlo nìjakou malou opravièku, ale na tuhle práci tu bohuel nikoho nemáme.}
-{540}{}{Jasnì, ten hajzl se tu pøed tıdnem objevil, rozbil bank u jednoho ze stolù a pak zmizel. Nevím, kde teï je, ale míval pokoj v Desperadu.}
-{550}{}{Nikki? [Prohledává plac.] Jo, támhle je, uprostøed stolu. Je snad nìjakı problém?}
-{560}{}{Její jméno *bylo* Nikki. Pracovala tu, ale nedávno jí vyhodili.. je to jen pár dní.}
-{570}{}{Jmenovala se Nikki. Pracovala tu, ale nedávno odešla. Prostì si sbalila svıch pár švestek a znièehonic zmizela.}
-{580}{}{Jasnì, to bude dobré pro kšefty. Šatna je vzadu...}
-{590}{}{[Pokyvuje hlavou.] Ne, ještì se stále vzpamatováváme z tvého posledního èísla. Moná bys mìl zkontrolovat i další kasina.}
-{600}{}{Projel si veèerní zápis. [C] = drobnı. To nebyl špatnı vıstup.}
-{610}{}{Jo, zapáchá víc ne brahmíní hovno. Ty jsi ještì tady...? [Skepticky tì sjídí oèima.] K èertu, proè ne. Malá improvizace neublíí, ale je tu narváno... take doufám, e opravdu umíš.}
+{210}{}{Eh, proÄ se tady tak plÃ­Å¾Ã­te, pane?}
+{220}{}{Eh, proÄ se tady tak plÃ­Å¾Ã­te, madam?}
+{230}{}{DobrÃ½ veÄer, [MM], pane.}
+{240}{}{DobrÃ½ veÄer, [MM], sleÄno.}
+{250}{}{ZdravÃ­Äko, [MM], pane.}
+{260}{}{ZdravÃ­Äko, [MM], sleÄno.}
+{270}{}{JseÅ¡ ve Å¡patnÃ½m kasÃ­nu, pÅ™Ã­teli.}
+{280}{}{Je mi lÃ­to, pane, ale tu zbraÅˆ budete muset dÃ¡t pryÄ.}
+{290}{}{Je mi lÃ­to, madam, ale tu zbraÅˆ budete muset dÃ¡t pryÄ.}
+{300}{}{Je mi lÃ­to zlato, ale s tou zbranÃ­ do kasina nesmÃ­te. [SmÄ›je se.] UÅ¾ tak jste dost nebezpeÄnÃ¡.}
+{310}{}{S takovouhle figurou se nikam neproplÃ­Å¾Ã­Å¡, zlato.}
+{320}{}{Hej, tu zbraÅˆ byste mÄ›l radÄ›ji odloÅ¾it hned teÄ.}
+{330}{}{Hej, myslÃ­m, Å¾e byste toho Å¡mejdÄ›nÃ­ mÄ›l okamÅ¾itÄ› nechat.}
+{340}{}{[Myronovi] Hele... Myrone! UÅ¾ tÄ› pÄ›knÄ› dlouho nebylo vidÄ›t venku...}
+{350}{}{[KÃ½vÃ¡ na Marcuse.] Å½Ã¡dnÃ­ mutanti. ÄŒekÃ¡ venku.}
+{360}{}{DroidÅ¯m vstup zakÃ¡zÃ¡n.}
+{370}{}{NemÄ›l bych se sice vykecÃ¡vat pÅ™i prÃ¡ci, ale jsem rÃ¡d, Å¾e EnklÃ¡vÄ› koneÄnÄ› nÄ›kdo nakopal prdel.}
+{380}{}{PotÅ™ebujeme dalÅ¡Ã­ Å¾etony na stÅ¯l tÅ™i...}
+{390}{}{PotÅ™ebujeme dalÅ¡Ã­ Å¾etony na stÅ¯l tÅ™i...}
+{400}{}{Hej, [X]! SlyÅ¡el jsem, Å¾e jsi byl ty, kdo poslal EnklÃ¡vu tam, kam patÅ™Ã­! [ZvÃ¡Å¾nÃ­.] MÃ¡m vÃ¡m dÃ¡t jako pozornost kasina nÄ›jakÃ½ drobnÃ½. Bavte se, pane.}
+{420}{}{Hej, podÃ­vej, kdo pÅ™iÅ¡el! Hej, [PS]. [SmÄ›je se.] VÃ­tejte v [CN]. Miluju vaÅ¡e filmy.}
+{440}{}{JasnÄ›. Co chceÅ¡ vÄ›dÄ›t?}
+{460}{}{Eh, mÄ›l byste radÄ›ji odejÃ­t, pane.}
+{470}{}{Jo, to mi tvoje mÃ¡ma taky Å™ekla. A teÄ zmiz... tÅ™eba ji najdeÅ¡ nÄ›kde na ulici Panen.}
+{480}{}{Jsem zdejÅ¡Ã­ Å¡Ã©f. [vypadÃ¡ trochu podrÃ¡Å¾dÄ›nÄ›.] Co pro tebe mÅ¯Å¾u udÄ›lat?}
+{490}{}{Tohle je [CN]. NÄ›co chceÅ¡, ptej se.}
+{500}{}{ProklatÄ› nejlepÅ¡Ã­ kasino ve mÄ›stÄ›... ale moÅ¾nÃ¡ jsem trochu zaujatÃ½. [ChechtÃ¡ se.] JeÅ¡tÄ› nÄ›co si chtÄ›l?}
+{510}{}{[CA] rodina. VloÅ¾ili do toho velkÃ© mnoÅ¾stvÃ­ prÃ¡ce a udÄ›lali z toho skvÄ›lÃ½ noÄnÃ­ podnik, opravdovÃ½ diamant New Rena.}
+{520}{}{TÃ¡mhleten chlÃ¡pek? Starej McGee? Ten blÃ¡znivej srÃ¡Ä... hraje tady pÃ¡r poslednÃ­ch let a poÅ™Ã¡d ÄekÃ¡ na velkou rÃ¡nu. Jeho Å¾ivotnÃ­ bohatstvÃ­ je zÅ™ejmÄ› zavÅ™enÃ© v tamtÃ© krabici, ale zatÃ­m z nÃ­ nevymlÃ¡til ani dolar.}
+{530}{}{[KÃ½ve hlavou.] Ne, je to jen tvrdohlavej stroj, stejnÄ› jako on. [KrÄÃ­ rameny.] MoÅ¾nÃ¡ by to chtÄ›lo nÄ›jakou malou opraviÄku, ale na tuhle prÃ¡ci tu bohuÅ¾el nikoho nemÃ¡me.}
+{540}{}{JasnÄ›, ten hajzl se tu pÅ™ed tÃ½dnem objevil, rozbil bank u jednoho ze stolÅ¯ a pak zmizel. NevÃ­m, kde teÄ je, ale mÃ­val pokoj v Desperadu.}
+{550}{}{Nikki? [ProhledÃ¡vÃ¡ plac.] Jo, tÃ¡mhle je, uprostÅ™ed stolu. Je snad nÄ›jakÃ½ problÃ©m?}
+{560}{}{JejÃ­ jmÃ©no *bylo* Nikki. Pracovala tu, ale nedÃ¡vno jÃ­ vyhodili.. je to jen pÃ¡r dnÃ­.}
+{570}{}{Jmenovala se Nikki. Pracovala tu, ale nedÃ¡vno odeÅ¡la. ProstÄ› si sbalila svÃ½ch pÃ¡r Å¡vestek a zniÄehonic zmizela.}
+{580}{}{JasnÄ›, to bude dobrÃ© pro kÅ¡efty. Å atna je vzadu...}
+{590}{}{[Pokyvuje hlavou.] Ne, jeÅ¡tÄ› se stÃ¡le vzpamatovÃ¡vÃ¡me z tvÃ©ho poslednÃ­ho ÄÃ­sla. MoÅ¾nÃ¡ bys mÄ›l zkontrolovat i dalÅ¡Ã­ kasina.}
+{600}{}{Projel si veÄernÃ­ zÃ¡pis. [C] = drobnÃ½. To nebyl Å¡patnÃ½ vÃ½stup.}
+{610}{}{Jo, zapÃ¡chÃ¡ vÃ­c neÅ¾ brahmÃ­nÃ­ hovno. Ty jsi jeÅ¡tÄ› tady...? [Skepticky tÄ› sjÃ­Å¾dÃ­ oÄima.] K Äertu, proÄ ne. MalÃ¡ improvizace neublÃ­Å¾Ã­, ale je tu narvÃ¡no... takÅ¾e doufÃ¡m, Å¾e opravdu umÃ­Å¡.}

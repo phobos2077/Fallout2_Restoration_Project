@@ -1,32 +1,32 @@
-{100}{}{Rychlı metabolismus}
-{101}{}{Mlátièka}
-{102}{}{Mròous}
-{103}{}{Jednorukı}
+{100}{}{RychlÃ½ metabolismus}
+{101}{}{MlÃ¡tiÄka}
+{102}{}{MrÅˆous}
+{103}{}{JednorukÃ½}
 {104}{}{Finesa}
 {105}{}{Kamikaze}
-{106}{}{Tìká ruka}
-{107}{}{Rychlostøelec}
-{108}{}{Krvák}
-{109}{}{Poznamenanı}
-{110}{}{Dobrák}
+{106}{}{TÄ›Å¾kÃ¡ ruka}
+{107}{}{RychlostÅ™elec}
+{108}{}{KrvÃ¡k}
+{109}{}{PoznamenanÃ½}
+{110}{}{DobrÃ¡k}
 {111}{}{Drug Reliant}
 {112}{}{Drug Resistant}
-{113}{}{Pøitalivı}
-{114}{}{Zkušenı}
-{115}{}{Talentovanı}
-{200}{}{Tvoje látková vımìna je dvakrát rychlejší ne u normálních lidí. To znamená, e jsi ménì odolnı vùèi radiaci a jedùm, ale tvé tìlo se rychleji léèí z utrpìnıch zranìní.}
-{201}{}{Trochu pomalejší, ale trochu mohutnìjší. Moná svého soupeøe a tak èasto nezasáhneš, ale kdy ano, tak to setsakramentsky pocítí! Celkové mnoství tvıch akèních bodù je sníeno, ale tvá Síla je zvıšena.}
-{202}{}{Nejsi tak urostlı jako ostatní z tvé vesnice, ale to tì nikdy netrápilo. Neuneseš sice moc nákladu, za to jsi hbitìjší.}
-{203}{}{Jedna z tvıch rukou je neobvykle dominantní. Exceluješ s jednoruèními zbranìmi, za to ovládání obouruèních ti dìlá problémy.}
-{204}{}{Tvoje útoky vykazují velkou míru šikovnosti. Nezpùsobuješ soupeøùm a tolik poškození, za to se ti èastìji podaøí kritickı zásah.}
-{205}{}{Protoe nebereš ohled na pøípadné nebezpeèí, mùeš v boji mnohem rychleji reagovat. To ponìkud redukuje tvou tøídu zbroje, ale tvùj postøeh je v boji mnohem lepší.}
-{206}{}{To, e umíš udeøit tvrdìji, neznamená, e to dìláš lépe. Tvé útoky se vyznaèují velkou brutalitou, ale postrádají obratnost. Jen málokdy se ti podaøí kritickı zásah, ale vdy nadìláš hodnì škody.}
-{207}{}{Nemáš èas na to, abys peèlivì zamìøil svùj útok, protoe útoèíš rychleji ne druzí. Na druhou stranu tì pouívání støelnıch a vrhacích zbraní stojí o jeden akèní bod ménì.}
-{208}{}{Nìjakım podivnım øízením osudu lidé kolem tebe umírají násilnì. Vdy uvidíš ten nejhorší monı zpùsob smrti.}
-{209}{}{Ta dobrá zpráva je, e všem okolo tebe v boji èastìji nìco sele. Ta špatná zpráva je, e se to stává i tobì!}
-{210}{}{Bìhem svého ivota ses zamìøoval pøedevším na studium nebojovıch dovedností. Se svımi bojovımi dovednostmi zaèínáš na niším stupni, ale První Pomoc, Léèení, Øeè a Obchodování jsou podstatnì vylepšeny.}
+{113}{}{PÅ™itaÅ¾livÃ½}
+{114}{}{ZkuÅ¡enÃ½}
+{115}{}{TalentovanÃ½}
+{200}{}{Tvoje lÃ¡tkovÃ¡ vÃ½mÄ›na je dvakrÃ¡t rychlejÅ¡Ã­ neÅ¾ u normÃ¡lnÃ­ch lidÃ­. To znamenÃ¡, Å¾e jsi mÃ©nÄ› odolnÃ½ vÅ¯Äi radiaci a jedÅ¯m, ale tvÃ© tÄ›lo se rychleji lÃ©ÄÃ­ z utrpÄ›nÃ½ch zranÄ›nÃ­.}
+{201}{}{Trochu pomalejÅ¡Ã­, ale trochu mohutnÄ›jÅ¡Ã­. MoÅ¾nÃ¡ svÃ©ho soupeÅ™e aÅ¾ tak Äasto nezasÃ¡hneÅ¡, ale kdyÅ¾ ano, tak to setsakramentsky pocÃ­tÃ­! CelkovÃ© mnoÅ¾stvÃ­ tvÃ½ch akÄnÃ­ch bodÅ¯ je snÃ­Å¾eno, ale tvÃ¡ SÃ­la je zvÃ½Å¡ena.}
+{202}{}{Nejsi tak urostlÃ½ jako ostatnÃ­ z tvÃ© vesnice, ale to tÄ› nikdy netrÃ¡pilo. NeuneseÅ¡ sice moc nÃ¡kladu, za to jsi hbitÄ›jÅ¡Ã­.}
+{203}{}{Jedna z tvÃ½ch rukou je neobvykle dominantnÃ­. ExcelujeÅ¡ s jednoruÄnÃ­mi zbranÄ›mi, za to ovlÃ¡dÃ¡nÃ­ obouruÄnÃ­ch ti dÄ›lÃ¡ problÃ©my.}
+{204}{}{Tvoje Ãºtoky vykazujÃ­ velkou mÃ­ru Å¡ikovnosti. NezpÅ¯sobujeÅ¡ soupeÅ™Å¯m aÅ¾ tolik poÅ¡kozenÃ­, za to se ti ÄastÄ›ji podaÅ™Ã­ kritickÃ½ zÃ¡sah.}
+{205}{}{ProtoÅ¾e nebereÅ¡ ohled na pÅ™Ã­padnÃ© nebezpeÄÃ­, mÅ¯Å¾eÅ¡ v boji mnohem rychleji reagovat. To ponÄ›kud redukuje tvou tÅ™Ã­du zbroje, ale tvÅ¯j postÅ™eh je v boji mnohem lepÅ¡Ã­.}
+{206}{}{To, Å¾e umÃ­Å¡ udeÅ™it tvrdÄ›ji, neznamenÃ¡, Å¾e to dÄ›lÃ¡Å¡ lÃ©pe. TvÃ© Ãºtoky se vyznaÄujÃ­ velkou brutalitou, ale postrÃ¡dajÃ­ obratnost. Jen mÃ¡lokdy se ti podaÅ™Ã­ kritickÃ½ zÃ¡sah, ale vÅ¾dy nadÄ›lÃ¡Å¡ hodnÄ› Å¡kody.}
+{207}{}{NemÃ¡Å¡ Äas na to, abys peÄlivÄ› zamÄ›Å™il svÅ¯j Ãºtok, protoÅ¾e ÃºtoÄÃ­Å¡ rychleji neÅ¾ druzÃ­. Na druhou stranu tÄ› pouÅ¾Ã­vÃ¡nÃ­ stÅ™elnÃ½ch a vrhacÃ­ch zbranÃ­ stojÃ­ o jeden akÄnÃ­ bod mÃ©nÄ›.}
+{208}{}{NÄ›jakÃ½m podivnÃ½m Å™Ã­zenÃ­m osudu lidÃ© kolem tebe umÃ­rajÃ­ nÃ¡silnÄ›. VÅ¾dy uvidÃ­Å¡ ten nejhorÅ¡Ã­ moÅ¾nÃ½ zpÅ¯sob smrti.}
+{209}{}{Ta dobrÃ¡ zprÃ¡va je, Å¾e vÅ¡em okolo tebe v boji ÄastÄ›ji nÄ›co selÅ¾e. Ta Å¡patnÃ¡ zprÃ¡va je, Å¾e se to stÃ¡vÃ¡ i tobÄ›!}
+{210}{}{BÄ›hem svÃ©ho Å¾ivota ses zamÄ›Å™oval pÅ™edevÅ¡Ã­m na studium nebojovÃ½ch dovednostÃ­. Se svÃ½mi bojovÃ½mi dovednostmi zaÄÃ­nÃ¡Å¡ na niÅ¾Å¡Ã­m stupni, ale PrvnÃ­ Pomoc, LÃ©ÄenÃ­, Å˜eÄ a ObchodovÃ¡nÃ­ jsou podstatnÄ› vylepÅ¡eny.}
 {211}{}{You are more easily influenced by drugs.  Your chance to be addicted to drug use is twice normal, but you recover faster from their ill effects.}
 {212}{}{Drugs only affect you half as long as normal, but your chance to be addicted is also only 50% of normal.}
-{213}{}{Máš pøesnì to pravé "vybavení". Pro opaèné pohlaví jsi velmi pøitalivá osoba, ale pøíslušníci stejného pohlaví mívají tendenci ponìkud árlit.}
-{214}{}{Protoe jsi vìnoval zlepšování svıch dovedností víc èasu ne ostatní, obdríš za kadou novou úroveò 5 dovednostních bodù navíc. Vımìnou za to získáš perk jen jednou za ètyøi úrovnì.}
-{215}{}{Máš více vrozenıch schopností ne ostatní. Všechny tvé základní vlastnosti budou navıšeny o 1 bod, ale do zaèátku ztratíš 10% ze všech dovedností a pøi postupu na další úroveò obdríš o 5 dovednostních bodù ménì.}
+{213}{}{MÃ¡Å¡ pÅ™esnÄ› to pravÃ© "vybavenÃ­". Pro opaÄnÃ© pohlavÃ­ jsi velmi pÅ™itaÅ¾livÃ¡ osoba, ale pÅ™Ã­sluÅ¡nÃ­ci stejnÃ©ho pohlavÃ­ mÃ­vajÃ­ tendenci ponÄ›kud Å¾Ã¡rlit.}
+{214}{}{ProtoÅ¾e jsi vÄ›noval zlepÅ¡ovÃ¡nÃ­ svÃ½ch dovednostÃ­ vÃ­c Äasu neÅ¾ ostatnÃ­, obdrÅ¾Ã­Å¡ za kaÅ¾dou novou ÃºroveÅˆ 5 dovednostnÃ­ch bodÅ¯ navÃ­c. VÃ½mÄ›nou za to zÃ­skÃ¡Å¡ perk jen jednou za ÄtyÅ™i ÃºrovnÄ›.}
+{215}{}{MÃ¡Å¡ vÃ­ce vrozenÃ½ch schopnostÃ­ neÅ¾ ostatnÃ­. VÅ¡echny tvÃ© zÃ¡kladnÃ­ vlastnosti budou navÃ½Å¡eny o 1 bod, ale do zaÄÃ¡tku ztratÃ­Å¡ 10% ze vÅ¡ech dovednostÃ­ a pÅ™i postupu na dalÅ¡Ã­ ÃºroveÅˆ obdrÅ¾Ã­Å¡ o 5 dovednostnÃ­ch bodÅ¯ mÃ©nÄ›.}

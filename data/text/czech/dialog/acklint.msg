@@ -1,25 +1,25 @@
-{100}{}{Vidíš Klinta, èlena tvého kmene.}
-{101}{}{Vidíš Klinta.}
-{102}{}{Vidíš velmi sebevìdomého mladíka s vyvinutımi svaly.}
-{103}{}{Pìknı den pøeju, }
-{104}{}{. Zdravím tì. Zatím máš stále pøed sebou zkoušku od Starší. Dokud ji nesplníš, nemùu tì pustit zpátky.}
+{100}{}{VidÃ­Å¡ Klinta, Älena tvÃ©ho kmene.}
+{101}{}{VidÃ­Å¡ Klinta.}
+{102}{}{VidÃ­Å¡ velmi sebevÄ›domÃ©ho mladÃ­ka s vyvinutÃ½mi svaly.}
+{103}{}{PÄ›knÃ½ den pÅ™eju, }
+{104}{}{. ZdravÃ­m tÄ›. ZatÃ­m mÃ¡Å¡ stÃ¡le pÅ™ed sebou zkouÅ¡ku od StarÅ¡Ã­. Dokud ji nesplnÃ­Å¡, nemÅ¯Å¾u tÄ› pustit zpÃ¡tky.}
 {105}{}{Eh...}
-{106}{}{Potøebuju se vrátit do vesnice.}
-{107}{}{Chci se tì na nìco zeptat.}
-{108}{}{Dobrá, dobrá, odcházím udìlat tu pitomou zkoušku.}
+{106}{}{PotÅ™ebuju se vrÃ¡tit do vesnice.}
+{107}{}{Chci se tÄ› na nÄ›co zeptat.}
+{108}{}{DobrÃ¡, dobrÃ¡, odchÃ¡zÃ­m udÄ›lat tu pitomou zkouÅ¡ku.}
 {109}{}{(povzdech) }
-{110}{}{. Ty jít chrám. Ty sloit zkouška. Ty nejít zpìt, dokud nesloit zkouška. Poslechnout Starší! Jít!}
-{111}{}{Já jít.}
-{112}{}{Promiò, }
-{113}{}{, ale nemùu tì pustit. Jestli se chceš vrátit do vesnice, mùeš to udìlat jen tak, e projdeš zkouškou v chrámu za tebou.}
-{114}{}{Chápu. Tak já teda jdu.}
-{115}{}{Mùu se tì alespoò na nìco zeptat?}
-{116}{}{Taky ti mùu nakopat zadek a jednoduše odtud odejít.}
-{117}{}{Promiò, ale na tvé otázky neznám odpovìdi. Slo zkoušku od Starší a proka svou schopnost vést a spasit naše lidi.}
-{118}{}{Tak dobrá.}
-{119}{}{Dva lidé spoleènì mohou pohnout tím totemem, kterı ti stojí v cestì. ádnı èlovìk to sám nedokáe. A já nemám v úmyslu ti pomoct, dokud neprojdeš Chrámem Zkoušek.}
-{120}{}{A... aha. Je mi to jasné.}
-{121}{}{Zdravím, Vyvolenı! Rád tì vidím. Mùu ti nìjak poslouit?}
-{122}{}{Já øíct ahoj. To vše.}
-{123}{}{Jenom se s tebou chci rozlouèit. Brzy kvùli mému poslání opustím vesnici.}
-{124}{}{Nech tì duchové našich pøedkù ochraòují, Vyvolenı. Pøeju ti pøi tvém poslání jen to nejlepší.}
+{110}{}{. Ty jÃ­t chrÃ¡m. Ty sloÅ¾it zkouÅ¡ka. Ty nejÃ­t zpÄ›t, dokud nesloÅ¾it zkouÅ¡ka. Poslechnout StarÅ¡Ã­! JÃ­t!}
+{111}{}{JÃ¡ jÃ­t.}
+{112}{}{PromiÅˆ, }
+{113}{}{, ale nemÅ¯Å¾u tÄ› pustit. Jestli se chceÅ¡ vrÃ¡tit do vesnice, mÅ¯Å¾eÅ¡ to udÄ›lat jen tak, Å¾e projdeÅ¡ zkouÅ¡kou v chrÃ¡mu za tebou.}
+{114}{}{ChÃ¡pu. Tak jÃ¡ teda jdu.}
+{115}{}{MÅ¯Å¾u se tÄ› alespoÅˆ na nÄ›co zeptat?}
+{116}{}{Taky ti mÅ¯Å¾u nakopat zadek a jednoduÅ¡e odtud odejÃ­t.}
+{117}{}{PromiÅˆ, ale na tvÃ© otÃ¡zky neznÃ¡m odpovÄ›di. SloÅ¾ zkouÅ¡ku od StarÅ¡Ã­ a prokaÅ¾ svou schopnost vÃ©st a spasit naÅ¡e lidi.}
+{118}{}{Tak dobrÃ¡.}
+{119}{}{Dva lidÃ© spoleÄnÄ› mohou pohnout tÃ­m totemem, kterÃ½ ti stojÃ­ v cestÄ›. Å½Ã¡dnÃ½ ÄlovÄ›k to sÃ¡m nedokÃ¡Å¾e. A jÃ¡ nemÃ¡m v Ãºmyslu ti pomoct, dokud neprojdeÅ¡ ChrÃ¡mem ZkouÅ¡ek.}
+{120}{}{A... aha. Je mi to jasnÃ©.}
+{121}{}{ZdravÃ­m, VyvolenÃ½! RÃ¡d tÄ› vidÃ­m. MÅ¯Å¾u ti nÄ›jak poslouÅ¾it?}
+{122}{}{JÃ¡ Å™Ã­ct ahoj. To vÅ¡e.}
+{123}{}{Jenom se s tebou chci rozlouÄit. Brzy kvÅ¯li mÃ©mu poslÃ¡nÃ­ opustÃ­m vesnici.}
+{124}{}{NechÅ¥ tÄ› duchovÃ© naÅ¡ich pÅ™edkÅ¯ ochraÅˆujÃ­, VyvolenÃ½. PÅ™eju ti pÅ™i tvÃ©m poslÃ¡nÃ­ jen to nejlepÅ¡Ã­.}

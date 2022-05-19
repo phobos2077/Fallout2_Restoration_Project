@@ -1,1 +1,1 @@
-{100}{}{Nacházíš se v kaòonu poblí Klamathu.}
+{100}{}{NachÃ¡zÃ­Å¡ se v kaÅˆonu poblÃ­Å¾ Klamathu.}

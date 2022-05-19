@@ -1,49 +1,49 @@
-{150}{}{Vidíš škaredı, prorezivìlı hrací automat.}
-{151}{}{Vidíš odpornì vypadající hrací automat. Je pokrytı rzí a je na nìm nìkolik promáèklin, jako by do nìj nìkdo bušil tìkım pøedmìtem.}
-{200}{}{*Nazdar, mlad... ::kuc:: ::kuc:: ::síp:: ...pojï... ::cvak:: ...si na chvíli zahrát.*}
+{150}{}{VidÃ­Å¡ Å¡karedÃ½, prorezivÄ›lÃ½ hracÃ­ automat.}
+{151}{}{VidÃ­Å¡ odpornÄ› vypadajÃ­cÃ­ hracÃ­ automat. Je pokrytÃ½ rzÃ­ a je na nÄ›m nÄ›kolik promÃ¡Äklin, jako by do nÄ›j nÄ›kdo buÅ¡il tÄ›Å¾kÃ½m pÅ™edmÄ›tem.}
+{200}{}{*Nazdar, mlad... ::kuc:: ::kuc:: ::sÃ­p:: ...pojÄ... ::cvak:: ...si na chvÃ­li zahrÃ¡t.*}
 {201}{}{*Nazdar, mlad... ::kuc:: ::kuc::*}
-{202}{}{*Nazdar, mladej... ::kuc:: ::cvak:: ::síp:: ...nechceš si ::cvak:: ...zariskovat?*}
+{202}{}{*Nazdar, mladej... ::kuc:: ::cvak:: ::sÃ­p:: ...nechceÅ¡ si ::cvak:: ...zariskovat?*}
 {203}{}{*KRRRR*}
 {204}{}{*Cvak*}
 {205}{}{*DUM*}
 {206}{}{*Cink cink*}
 {207}{}{*Bzzzz*}
 {208}{}{*Ka-cink-cvak*}
-{209}{}{*Ka-drrrz-cvak-skvíííí*}
+{209}{}{*Ka-drrrz-cvak-skvÃ­Ã­Ã­Ã­*}
 {210}{}{*Bum*}
 {211}{}{*Cink-Cinkety-Cink*}
-{212}{}{*Pitomı zvukovı efekt*}
-{213}{}{*Nazdar, krás... ::kuc:: ::kuc:: ::síp:: ...pojï... ::cvak:: ...si na chvíli zahrát.*}
-{214}{}{*Nazdar, krás... ::kuc:: ::kuc:: Sakra!*}
-{215}{}{*Hoï do mì dolar a zatáhni za ruku. Budu na tebe hodnı. Hehe.*}
-{216}{}{*No ty jsi ale krásná mladá... ::kuc:: ::cvak:: ::síp: Nechceš... ::klik:: ...si na chvíli zahrát?*}
-{230}{}{Vidíš podivnou eleznou krabici se tøema oèima a jednou rukou.}
-{235}{}{Ta podivná elezná krabice se tøema oèima a jednou rukou neodpovídá.}
-{240}{}{Uchopíš ruku a zatøeseš s ní. Uslyšíš ostrı chrastící zvuk!}
-{245}{}{(Vidíš hrací automat. Je to asi ten nejošklivìjší automat v celém New Renu. Má ohnutou páku, dvì rozbitá okınka a spoustu promáèklin.)}
-{246}{}{Natahuješ se pro mince a pøi tom se ti chvìje celá ruka. (Automat ti nestále šeptá chraplavım hlasem.) *No ták... ::kuc:: ...to je ono...*}
-{250}{}{Zevnitø se ozıvá nepøíjemnı chrastící zvuk...}
-{251}{}{NIC! (Stroj se suše usmìje.) *Pøíštì to urèitì vyjde, mla... ::kuc:: ::kuc:: ::síp::}
-{255}{}{(Automat ti zašeptá.) *Zkus to znovu, mlad... ještì jednou... ::kuc:: ::cvak:: ...pro štìstí.*}
-{260}{}{Po chvíli chrastìní se dotoèí koleèka a odhalí... }
-{261}{}{(Stroj se chichotá.) *To je ono. Já vìdìl, e... ::kuc:: ::kuc:: ...to dokáeš.*}
-{265}{}{(Stroj se usmìje.) *To je ono! Já vìdìl, e ve mnì ještì zbylo... ::vvzzzz:: ...trochu kuráe! Hehe!*}
-{270}{}{(Pøed tebou je pravdìpodobne ten nejošklivìjší hrací automat na svìtì. Chvíli na nìj fascinovanì zíráš, kdy najednou zaène z automatu šeptat chraplavı muskı hlas.) *Tebe jsem tady ještì... ::kuc:: ::kuc:: nevidìl. Nechceš zkusit... ::cvak:: ::síp:: ...štìstí?*}
-{275}{}{*Jsem poøád tady, mladej*, cvaká hrací automat. *Pojï... nechceš si vsadit? U tady moc dlouho nebudu.*}
-{280}{}{*Jsem nejstarší jednorukı bandita v Renu. U jsem tady skoro... ::kuc:: ::kuc:: ...no, skoro celou vìènost. A zaèíná to bıt na mì vidìt. Poslyš, budeš teda hrát, nebo mì tu necháš rezivìt?*}
-{285}{}{::Kuc:: ::kuc:: *Nemám èas s tebou vykecávat, mladej. A ty máš taky urèitì dùleitìjší vìci na práci, ne se se mnou bavit, e jo? Nebo tì snad nìco trápí?*}
-{295}{}{*Klídek, mladej. Pøestaò u bulet. Všechno bude v pohodì, slyšíš? Dám na tebe pozor, jo?*}
-{300}{}{*Ale no ták, u toho nech. Projdi se, proèisti si hlavu... ::kuc:: ...to ti pomùe. Budeš v pohodì, mladej?*}
-{301}{}{Budu v pohoda... dík e ty se mnou mluvit, mašina.}
-{305}{}{*Ále! Nemusíš mi dìkovat, [X]. Tak a teï u bì a dej jim co proto. Jseš jedinej hrdina v tomhle proklatım svìtì plnım bastardù a zlodìjù... ::síp:: ::kuc:: ...take si dávej bacha, slyšíš?*}
-{306}{}{Jásnì... ty taky, jo?}
-{310}{}{(Po zatáhnutí páky ti pøišlo, jako by ze stroje vyšel úlevnı oddech následovanı dlouhım tichem. U se skoro chystáš k odchodu, kdy najednou uslyšíš hluboko ve stroji nìco chrastit. O pár vteøin pozdìji se chrastìní zmìní v ohlušující øev, kdy zaène automat plivat mince všude kolem!) JACKPOT!}
-{311}{}{Vybrat vıhru!}
-{315}{}{(Tenhle stroj vypadá, e u ze sebe vydal všechno. Vyplacení jackpotu byl jeho smrtelnı vıkøik. Nemùeš si pomoct, ale je ti té staré trosky trochu líto.)}
-{320}{}{Tenhle automat je velmi starı. Je zázrak, e ještì vùbec funguje.}
-{321}{}{Nemùeš na automatu pracovat, kdy na nìm ten dìdek hraje.}
-{322}{}{Stroj je neopravitelnı.}
-{323}{}{Nemùeš u s tímhle automatem nic udìlat.}
-{324}{}{Tenhle automat je velmi starı. Je zázrak, e ještì vùbec funguje. Chvíli si s ním hraješ, dokud neuslyšíš hrozivé skøípání. Rozhodneš se, e ho radìji necháš bıt.}
-{325}{}{Tenhle automat je velmi starı. Je zázrak, e ještì vùbec funguje. Chvíli si s ním hraješ, ale vypadá to, e ho nedokáeš opravit. Spíš je to teï ještì horší.}
-{326}{}{Tenhle automat je velmi starı. Je zázrak, e ještì vùbec funguje. Chvíli si s ním hraješ a oèistíš nìkterá ozubená kola, ale stále je v pomìrnì bídném stavu.}
+{212}{}{*PitomÃ½ zvukovÃ½ efekt*}
+{213}{}{*Nazdar, krÃ¡s... ::kuc:: ::kuc:: ::sÃ­p:: ...pojÄ... ::cvak:: ...si na chvÃ­li zahrÃ¡t.*}
+{214}{}{*Nazdar, krÃ¡s... ::kuc:: ::kuc:: Sakra!*}
+{215}{}{*HoÄ do mÄ› dolar a zatÃ¡hni za ruku. Budu na tebe hodnÃ½. Hehe.*}
+{216}{}{*No ty jsi ale krÃ¡snÃ¡ mladÃ¡... ::kuc:: ::cvak:: ::sÃ­p: NechceÅ¡... ::klik:: ...si na chvÃ­li zahrÃ¡t?*}
+{230}{}{VidÃ­Å¡ podivnou Å¾eleznou krabici se tÅ™ema oÄima a jednou rukou.}
+{235}{}{Ta podivnÃ¡ Å¾eleznÃ¡ krabice se tÅ™ema oÄima a jednou rukou neodpovÃ­dÃ¡.}
+{240}{}{UchopÃ­Å¡ ruku a zatÅ™eseÅ¡ s nÃ­. UslyÅ¡Ã­Å¡ ostrÃ½ chrastÃ­cÃ­ zvuk!}
+{245}{}{(VidÃ­Å¡ hracÃ­ automat. Je to asi ten nejoÅ¡klivÄ›jÅ¡Ã­ automat v celÃ©m New Renu. MÃ¡ ohnutou pÃ¡ku, dvÄ› rozbitÃ¡ okÃ½nka a spoustu promÃ¡Äklin.)}
+{246}{}{NatahujeÅ¡ se pro mince a pÅ™i tom se ti chvÄ›je celÃ¡ ruka. (Automat ti nestÃ¡le Å¡eptÃ¡ chraplavÃ½m hlasem.) *No tÃ¡k... ::kuc:: ...to je ono...*}
+{250}{}{ZevnitÅ™ se ozÃ½vÃ¡ nepÅ™Ã­jemnÃ½ chrastÃ­cÃ­ zvuk...}
+{251}{}{NIC! (Stroj se suÅ¡e usmÄ›je.) *PÅ™Ã­Å¡tÄ› to urÄitÄ› vyjde, mla... ::kuc:: ::kuc:: ::sÃ­p::}
+{255}{}{(Automat ti zaÅ¡eptÃ¡.) *Zkus to znovu, mlad... jeÅ¡tÄ› jednou... ::kuc:: ::cvak:: ...pro Å¡tÄ›stÃ­.*}
+{260}{}{Po chvÃ­li chrastÄ›nÃ­ se dotoÄÃ­ koleÄka a odhalÃ­... }
+{261}{}{(Stroj se chichotÃ¡.) *To je ono. JÃ¡ vÄ›dÄ›l, Å¾e... ::kuc:: ::kuc:: ...to dokÃ¡Å¾eÅ¡.*}
+{265}{}{(Stroj se usmÄ›je.) *To je ono! JÃ¡ vÄ›dÄ›l, Å¾e ve mnÄ› jeÅ¡tÄ› zbylo... ::vvzzzz:: ...trochu kurÃ¡Å¾e! Hehe!*}
+{270}{}{(PÅ™ed tebou je pravdÄ›podobne ten nejoÅ¡klivÄ›jÅ¡Ã­ hracÃ­ automat na svÄ›tÄ›. ChvÃ­li na nÄ›j fascinovanÄ› zÃ­rÃ¡Å¡, kdyÅ¾ najednou zaÄne z automatu Å¡eptat chraplavÃ½ muÅ¾skÃ½ hlas.) *Tebe jsem tady jeÅ¡tÄ›... ::kuc:: ::kuc:: nevidÄ›l. NechceÅ¡ zkusit... ::cvak:: ::sÃ­p:: ...Å¡tÄ›stÃ­?*}
+{275}{}{*Jsem poÅ™Ã¡d tady, mladej*, cvakÃ¡ hracÃ­ automat. *PojÄ... nechceÅ¡ si vsadit? UÅ¾ tady moc dlouho nebudu.*}
+{280}{}{*Jsem nejstarÅ¡Ã­ jednorukÃ½ bandita v Renu. UÅ¾ jsem tady skoro... ::kuc:: ::kuc:: ...no, skoro celou vÄ›Änost. A zaÄÃ­nÃ¡ to bÃ½t na mÄ› vidÄ›t. PoslyÅ¡, budeÅ¡ teda hrÃ¡t, nebo mÄ› tu nechÃ¡Å¡ rezivÄ›t?*}
+{285}{}{::Kuc:: ::kuc:: *NemÃ¡m Äas s tebou vykecÃ¡vat, mladej. A ty mÃ¡Å¡ taky urÄitÄ› dÅ¯leÅ¾itÄ›jÅ¡Ã­ vÄ›ci na prÃ¡ci, neÅ¾ se se mnou bavit, Å¾e jo? Nebo tÄ› snad nÄ›co trÃ¡pÃ­?*}
+{295}{}{*KlÃ­dek, mladej. PÅ™estaÅˆ uÅ¾ bulet. VÅ¡echno bude v pohodÄ›, slyÅ¡Ã­Å¡? DÃ¡m na tebe pozor, jo?*}
+{300}{}{*Ale no tÃ¡k, uÅ¾ toho nech. Projdi se, proÄisti si hlavu... ::kuc:: ...to ti pomÅ¯Å¾e. BudeÅ¡ v pohodÄ›, mladej?*}
+{301}{}{Budu v pohoda... dÃ­k Å¾e ty se mnou mluvit, maÅ¡ina.}
+{305}{}{*Ãle! NemusÃ­Å¡ mi dÄ›kovat, [X]. Tak a teÄ uÅ¾ bÄ›Å¾ a dej jim co proto. JseÅ¡ jedinej hrdina v tomhle proklatÃ½m svÄ›tÄ› plnÃ½m bastardÅ¯ a zlodÄ›jÅ¯... ::sÃ­p:: ::kuc:: ...takÅ¾e si dÃ¡vej bacha, slyÅ¡Ã­Å¡?*}
+{306}{}{JÃ¡snÄ›... ty taky, jo?}
+{310}{}{(Po zatÃ¡hnutÃ­ pÃ¡ky ti pÅ™iÅ¡lo, jako by ze stroje vyÅ¡el ÃºlevnÃ½ oddech nÃ¡sledovanÃ½ dlouhÃ½m tichem. UÅ¾ se skoro chystÃ¡Å¡ k odchodu, kdyÅ¾ najednou uslyÅ¡Ã­Å¡ hluboko ve stroji nÄ›co chrastit. O pÃ¡r vteÅ™in pozdÄ›ji se chrastÄ›nÃ­ zmÄ›nÃ­ v ohluÅ¡ujÃ­cÃ­ Å™ev, kdyÅ¾ zaÄne automat plivat mince vÅ¡ude kolem!) JACKPOT!}
+{311}{}{Vybrat vÃ½hru!}
+{315}{}{(Tenhle stroj vypadÃ¡, Å¾e uÅ¾ ze sebe vydal vÅ¡echno. VyplacenÃ­ jackpotu byl jeho smrtelnÃ½ vÃ½kÅ™ik. NemÅ¯Å¾eÅ¡ si pomoct, ale je ti tÃ© starÃ© trosky trochu lÃ­to.)}
+{320}{}{Tenhle automat je velmi starÃ½. Je zÃ¡zrak, Å¾e jeÅ¡tÄ› vÅ¯bec funguje.}
+{321}{}{NemÅ¯Å¾eÅ¡ na automatu pracovat, kdyÅ¾ na nÄ›m ten dÄ›dek hraje.}
+{322}{}{Stroj je neopravitelnÃ½.}
+{323}{}{NemÅ¯Å¾eÅ¡ uÅ¾ s tÃ­mhle automatem nic udÄ›lat.}
+{324}{}{Tenhle automat je velmi starÃ½. Je zÃ¡zrak, Å¾e jeÅ¡tÄ› vÅ¯bec funguje. ChvÃ­li si s nÃ­m hrajeÅ¡, dokud neuslyÅ¡Ã­Å¡ hrozivÃ© skÅ™Ã­pÃ¡nÃ­. RozhodneÅ¡ se, Å¾e ho radÄ›ji nechÃ¡Å¡ bÃ½t.}
+{325}{}{Tenhle automat je velmi starÃ½. Je zÃ¡zrak, Å¾e jeÅ¡tÄ› vÅ¯bec funguje. ChvÃ­li si s nÃ­m hrajeÅ¡, ale vypadÃ¡ to, Å¾e ho nedokÃ¡Å¾eÅ¡ opravit. SpÃ­Å¡ je to teÄ jeÅ¡tÄ› horÅ¡Ã­.}
+{326}{}{Tenhle automat je velmi starÃ½. Je zÃ¡zrak, Å¾e jeÅ¡tÄ› vÅ¯bec funguje. ChvÃ­li si s nÃ­m hrajeÅ¡ a oÄistÃ­Å¡ nÄ›kterÃ¡ ozubenÃ¡ kola, ale stÃ¡le je v pomÄ›rnÄ› bÃ­dnÃ©m stavu.}

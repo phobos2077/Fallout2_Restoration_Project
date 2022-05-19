@@ -1,1 +1,1 @@
-{100}{}{Na zadní stranì obrázku nacházíš naèrtnutou mapu znázoròující lokaci Vaultu 13.}
+{100}{}{Na zadnÃ­ stranÄ› obrÃ¡zku nachÃ¡zÃ­Å¡ naÄrtnutou mapu znÃ¡zorÅˆujÃ­cÃ­ lokaci Vaultu 13.}

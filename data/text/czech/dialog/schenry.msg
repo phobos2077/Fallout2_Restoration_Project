@@ -1,69 +1,69 @@
-{100}{}{Vidíš vypaseného chlápka s lesknoucí se pleší a brılemi s tlustımi skly.}
-{101}{}{Vidíš Dr. Henry.}
-{102}{}{Tenhle chlápek je tak mimo, a to bolí. Je to intelektuál, kterı ije úplnì mimo reálnı svìt, o tom není pochyb.}
-{103}{}{Jsem Dr. Henry a mám teï moc práce. Co potøebujete?}
+{100}{}{VidÃ­Å¡ vypasenÃ©ho chlÃ¡pka s lesknoucÃ­ se pleÅ¡Ã­ a brÃ½lemi s tlustÃ½mi skly.}
+{101}{}{VidÃ­Å¡ Dr. Henry.}
+{102}{}{Tenhle chlÃ¡pek je tak mimo, aÅ¾ to bolÃ­. Je to intelektuÃ¡l, kterÃ½ Å¾ije ÃºplnÄ› mimo reÃ¡lnÃ½ svÄ›t, o tom nenÃ­ pochyb.}
+{103}{}{Jsem Dr. Henry a mÃ¡m teÄ moc prÃ¡ce. Co potÅ™ebujete?}
 {104}{}{Zase vy? Co chcete?}
 {105}{}{Hurgh.}
-{106}{}{Já jsem}
-{107}{}{Dost øeèí. Máte u sebe dokumenty, které chce pan Merk. Dejte mi je a nikomu se nic nestane.}
-{108}{}{Neslyšel jste nìkdy o místì zvaném Enkláva?}
-{109}{}{Do toho ti nic není.}
-{110}{}{Hmm, podprùmìrnì vyvinutá lebka... zakrnìlı intelektuální vıvoj, avšak ádné nechutné tìlesné mutace. Ne, oèividnì jste mi k nièemu. Pøeji hezkı den.}
-{111}{}{Vyvolenı? Ovšem, to dává smysl. Zajímavé... obávám se, e vám však nemohu pomoci. Pøiøadili mì na kybergenetickı vızkum, nikoliv na projekt zajištìní chodu Vaultù.}
-{112}{}{O èem to mluvíš?}
-{113}{}{Projekt zajištìní chodu Vaultù?}
-{114}{}{Kybergenetika? O nièem takovém nevím zhola nic.}
-{115}{}{Jasnì. Jste blázen. Sbohem.}
-{116}{}{Sakra, øekl jsem vám toho u mnohem víc, ne jsem mìl. No, nevadí. Kdyby se nìkdo ptal, nic jsem neøekl.}
-{117}{}{Tıkalo se to extrémních sociologickıch podmínek, avšak já si myslím, e to bylo celé podfuk. Nebyla v tom toti ádná opravdová vìda. Ale slyšel jsem nìco ohlednì 13tky, která musela bìhem svého experimentu improvizovat. Pìknì to odflákli.}
-{118}{}{Bìhem svého experimentu? Jakého experimentu?}
+{106}{}{JÃ¡ jsem}
+{107}{}{Dost Å™eÄÃ­. MÃ¡te u sebe dokumenty, kterÃ© chce pan Merk. Dejte mi je a nikomu se nic nestane.}
+{108}{}{NeslyÅ¡el jste nÄ›kdy o mÃ­stÄ› zvanÃ©m EnklÃ¡va?}
+{109}{}{Do toho ti nic nenÃ­.}
+{110}{}{Hmm, podprÅ¯mÄ›rnÄ› vyvinutÃ¡ lebka... zakrnÄ›lÃ½ intelektuÃ¡lnÃ­ vÃ½voj, avÅ¡ak Å¾Ã¡dnÃ© nechutnÃ© tÄ›lesnÃ© mutace. Ne, oÄividnÄ› jste mi k niÄemu. PÅ™eji hezkÃ½ den.}
+{111}{}{VyvolenÃ½? OvÅ¡em, to dÃ¡vÃ¡ smysl. ZajÃ­mavÃ©... obÃ¡vÃ¡m se, Å¾e vÃ¡m vÅ¡ak nemohu pomoci. PÅ™iÅ™adili mÄ› na kybergenetickÃ½ vÃ½zkum, nikoliv na projekt zajiÅ¡tÄ›nÃ­ chodu VaultÅ¯.}
+{112}{}{O Äem to mluvÃ­Å¡?}
+{113}{}{Projekt zajiÅ¡tÄ›nÃ­ chodu VaultÅ¯?}
+{114}{}{Kybergenetika? O niÄem takovÃ©m nevÃ­m zhola nic.}
+{115}{}{JasnÄ›. Jste blÃ¡zen. Sbohem.}
+{116}{}{Sakra, Å™ekl jsem vÃ¡m toho uÅ¾ mnohem vÃ­c, neÅ¾ jsem mÄ›l. No, nevadÃ­. Kdyby se nÄ›kdo ptal, nic jsem neÅ™ekl.}
+{117}{}{TÃ½kalo se to extrÃ©mnÃ­ch sociologickÃ½ch podmÃ­nek, avÅ¡ak jÃ¡ si myslÃ­m, Å¾e to bylo celÃ© podfuk. Nebyla v tom totiÅ¾ Å¾Ã¡dnÃ¡ opravdovÃ¡ vÄ›da. Ale slyÅ¡el jsem nÄ›co ohlednÄ› 13tky, kterÃ¡ musela bÄ›hem svÃ©ho experimentu improvizovat. PÄ›knÄ› to odflÃ¡kli.}
+{118}{}{BÄ›hem svÃ©ho experimentu? JakÃ©ho experimentu?}
 {119}{}{Co je to ta kybergenetika?}
-{120}{}{Snad si nemyslíte, e nìèemu z toho uvìøím? Jste cvok.}
-{121}{}{No, to je zcela novı obor... ale velmi vzrušující. Právì teï pracuji na jednom projektu... zcela zásadním pojetím problému mutantù. Víte, je to vlastnì docela jednoduché... mutace není trvalá a nemìnná. Je mono ji vyléèit.}
-{122}{}{Ovšem moji ponìkud prostoduší kolegové se tento problém snaili vyøešit tou nejjednodušší cestou. Oèistou. Pøipouštím, e jsem mìl hned od zaèátku nìkolik problémù, ale u jsem je všechny vyøešil... aspoò myslím.}
+{120}{}{Snad si nemyslÃ­te, Å¾e nÄ›Äemu z toho uvÄ›Å™Ã­m? Jste cvok.}
+{121}{}{No, to je zcela novÃ½ obor... ale velmi vzruÅ¡ujÃ­cÃ­. PrÃ¡vÄ› teÄ pracuji na jednom projektu... zcela zÃ¡sadnÃ­m pojetÃ­m problÃ©mu mutantÅ¯. VÃ­te, je to vlastnÄ› docela jednoduchÃ©... mutace nenÃ­ trvalÃ¡ a nemÄ›nnÃ¡. Je moÅ¾no ji vylÃ©Äit.}
+{122}{}{OvÅ¡em moji ponÄ›kud prostoduÅ¡Ã­ kolegovÃ© se tento problÃ©m snaÅ¾ili vyÅ™eÅ¡it tou nejjednoduÅ¡Å¡Ã­ cestou. OÄistou. PÅ™ipouÅ¡tÃ­m, Å¾e jsem mÄ›l hned od zaÄÃ¡tku nÄ›kolik problÃ©mÅ¯, ale uÅ¾ jsem je vÅ¡echny vyÅ™eÅ¡il... aspoÅˆ myslÃ­m.}
 {123}{}{}
-{124}{}{Pokraèovat.}
-{125}{}{Vlastnì mi moná mùete pomoci s testováním. Máte zájem?}
-{126}{}{S testováním? Co máte na mysli?}
-{127}{}{V ádném pøípadì.}
-{128}{}{Pøipravil jsem malı vzorek séra, kterı se musí vpravit do hostitele.}
-{129}{}{Nenechám do sebe píchat ádné jehly!}
-{130}{}{Tak a dost, odcházím odsud.}
-{131}{}{Do vás? Ale ne. Sérum by nezabralo na nìkom s tak nízkım mutagenním kvocientem. Lze ho pouít pouze na supermutanty. Vpíchnìte sérum do supermutanta a poté se vrate zpìt a oznamte mi vısledek. Co vím, tak takové Broken Hills je jich plné.}
-{132}{}{A co to udìlá?}
-{133}{}{Co z toho budu mít?}
-{134}{}{No, mìlo by to zpùsobit zpìtnı pohyb v genetické matrici, jen vyústí v destabilizaci a pøizpùsobení zmutované DNA tak, e hostitel bude v koneèném dùsledku oné zmutované DNA zbaven. Ovšem, kdybych si tím byl úplnì jist, nebudu to po vás chtít otestovat.}
-{135}{}{Co z toho budu mít?}
-{136}{}{Zúèastníte se dùleitého experimentu. Vlastnì toho nejdùleitìjšího, nejvìdeètìjšího... aha, vy máte na mysli peníze. No, mám Kyberpsa Mk. II, model pro osobní ochranu, kterého jsem si s sebou pøivedl. Myslím, e bych ho mohl uvést do chodu, ne se vrátíte. Pøijímáte tuto nabídku?}
-{137}{}{Kyberpes? Jasnì, proè ne.}
-{138}{}{Jste úplnì mimo. Jste naprostı blázen.}
-{139}{}{Vıbornì. Zde je pøipravené sérum v injekèní støíkaèce. Staèí ho jen pouít na supermutanta a poté mi pøijít oznámit vısledek. Jak jsem øekl, zkuste to v Broken Hills. Hodnì štìstí.}
-{140}{}{Øeknìte tomu svému panu Merkovi, e má odpovìï zní stále stejnì. Nemám zájem o ádnou jeho "spolupráci." Díky a hezkı den.}
-{141}{}{To nemá ádnı vıznam, u se tam nevrátím. Nikdo z vás moji práci nedokázal ocenit, take nepøedstírejte, e jste mùj pøítel. Dìkuji mnohokrát!}
-{142}{}{V tom pøípadì se nemáme o èem bavit. Hezkı den.}
-{143}{}{Tak jak to šlo? Otestováno?}
+{124}{}{PokraÄovat.}
+{125}{}{VlastnÄ› mi moÅ¾nÃ¡ mÅ¯Å¾ete pomoci s testovÃ¡nÃ­m. MÃ¡te zÃ¡jem?}
+{126}{}{S testovÃ¡nÃ­m? Co mÃ¡te na mysli?}
+{127}{}{V Å¾Ã¡dnÃ©m pÅ™Ã­padÄ›.}
+{128}{}{PÅ™ipravil jsem malÃ½ vzorek sÃ©ra, kterÃ½ se musÃ­ vpravit do hostitele.}
+{129}{}{NenechÃ¡m do sebe pÃ­chat Å¾Ã¡dnÃ© jehly!}
+{130}{}{Tak a dost, odchÃ¡zÃ­m odsud.}
+{131}{}{Do vÃ¡s? Ale ne. SÃ©rum by nezabralo na nÄ›kom s tak nÃ­zkÃ½m mutagennÃ­m kvocientem. Lze ho pouÅ¾Ã­t pouze na supermutanty. VpÃ­chnÄ›te sÃ©rum do supermutanta a potÃ© se vraÅ¥te zpÄ›t a oznamte mi vÃ½sledek. Co vÃ­m, tak takovÃ© Broken Hills je jich plnÃ©.}
+{132}{}{A co to udÄ›lÃ¡?}
+{133}{}{Co z toho budu mÃ­t?}
+{134}{}{No, mÄ›lo by to zpÅ¯sobit zpÄ›tnÃ½ pohyb v genetickÃ© matrici, jenÅ¾ vyÃºstÃ­ v destabilizaci a pÅ™izpÅ¯sobenÃ­ zmutovanÃ© DNA tak, Å¾e hostitel bude v koneÄnÃ©m dÅ¯sledku onÃ© zmutovanÃ© DNA zbaven. OvÅ¡em, kdybych si tÃ­m byl ÃºplnÄ› jist, nebudu to po vÃ¡s chtÃ­t otestovat.}
+{135}{}{Co z toho budu mÃ­t?}
+{136}{}{ZÃºÄastnÃ­te se dÅ¯leÅ¾itÃ©ho experimentu. VlastnÄ› toho nejdÅ¯leÅ¾itÄ›jÅ¡Ã­ho, nejvÄ›deÄtÄ›jÅ¡Ã­ho... aha, vy mÃ¡te na mysli penÃ­ze. No, mÃ¡m Kyberpsa Mk. II, model pro osobnÃ­ ochranu, kterÃ©ho jsem si s sebou pÅ™ivedl. MyslÃ­m, Å¾e bych ho mohl uvÃ©st do chodu, neÅ¾ se vrÃ¡tÃ­te. PÅ™ijÃ­mÃ¡te tuto nabÃ­dku?}
+{137}{}{Kyberpes? JasnÄ›, proÄ ne.}
+{138}{}{Jste ÃºplnÄ› mimo. Jste naprostÃ½ blÃ¡zen.}
+{139}{}{VÃ½bornÄ›. Zde je pÅ™ipravenÃ© sÃ©rum v injekÄnÃ­ stÅ™Ã­kaÄce. StaÄÃ­ ho jen pouÅ¾Ã­t na supermutanta a potÃ© mi pÅ™ijÃ­t oznÃ¡mit vÃ½sledek. Jak jsem Å™ekl, zkuste to v Broken Hills. HodnÄ› Å¡tÄ›stÃ­.}
+{140}{}{Å˜eknÄ›te tomu svÃ©mu panu Merkovi, Å¾e mÃ¡ odpovÄ›Ä znÃ­ stÃ¡le stejnÄ›. NemÃ¡m zÃ¡jem o Å¾Ã¡dnou jeho "spoluprÃ¡ci." DÃ­ky a hezkÃ½ den.}
+{141}{}{To nemÃ¡ Å¾Ã¡dnÃ½ vÃ½znam, uÅ¾ se tam nevrÃ¡tÃ­m. Nikdo z vÃ¡s moji prÃ¡ci nedokÃ¡zal ocenit, takÅ¾e nepÅ™edstÃ­rejte, Å¾e jste mÅ¯j pÅ™Ã­tel. DÄ›kuji mnohokrÃ¡t!}
+{142}{}{V tom pÅ™Ã­padÄ› se nemÃ¡me o Äem bavit. HezkÃ½ den.}
+{143}{}{Tak jak to Å¡lo? OtestovÃ¡no?}
 {144}{}{Ano.}
 {145}{}{Ne.}
-{146}{}{No, pokud by vám to nevadilo, mùete si s tím pospíšit? Já u nejsem ádnı mladík.}
+{146}{}{No, pokud by vÃ¡m to nevadilo, mÅ¯Å¾ete si s tÃ­m pospÃ­Å¡it? JÃ¡ uÅ¾ nejsem Å¾Ã¡dnÃ½ mladÃ­k.}
 {147}{}{No a... co se stalo?}
-{148}{}{Zabilo ho to! Øíkal jste pøece, e to bude mutanty léèit!}
-{149}{}{Je mrtvı, Jime.}
-{150}{}{Tak to jsme si nerozumìli. Øíkal jsem, e by to mìlo odstranit jejich zmutovanou èást. Zdá se, e je celı proces pøíliš agresivní. No nic, budu to muset ještì doladit.}
-{151}{}{A co moje odmìna?}
-{152}{}{Jste zrùda! Nechci u s vámi mít nic spoleèného.}
-{153}{}{Koukám, e to má ještì nìjaké mouchy. No, chybami se èlovìk uèí.}
-{154}{}{A co moje odmìna?}
-{155}{}{Jste zrùda! Nechci u s vámi mít nic spoleèného.}
-{156}{}{Ach, zajisté. Kyberpes je váš. A teï mám ještì spoustu práce.}
-{157}{}{...take úroveò mutace se stabilizuje... teï mì neobtìujte.}
-{158}{}{Primitivní pøizpùsobení se okolnímu prostøedí. Fascinující.}
-{159}{}{Nemáte oscilaèní kalibrátor? Ne, ovšem e ne.}
-{160}{}{, Vyvolenı. Hledám Vault 13.}
-{161}{}{Hezkı den? No to urèitì, kreténe. Dejte mi ty papíry, nebo vám zaènu øezat prsty. Aspoò se podíváme, jak dobrı jste doktor.}
-{162}{}{Fajn, vyøídím mu to.}
-{163}{}{Eh... dobøe, ty papíry jsou v mém psacím stole tamhle. Vezmìte si je. Jenom nechte mé prsty na pokoji, ano?}
-{164}{}{Polib mi prdel, kreténe! Stráe! Stráe!}
-{165}{}{To bylo od vás velice moudré. Vyøídím to panu Merkovi.}
+{148}{}{Zabilo ho to! Å˜Ã­kal jste pÅ™ece, Å¾e to bude mutanty lÃ©Äit!}
+{149}{}{Je mrtvÃ½, Jime.}
+{150}{}{Tak to jsme si nerozumÄ›li. Å˜Ã­kal jsem, Å¾e by to mÄ›lo odstranit jejich zmutovanou ÄÃ¡st. ZdÃ¡ se, Å¾e je celÃ½ proces pÅ™Ã­liÅ¡ agresivnÃ­. No nic, budu to muset jeÅ¡tÄ› doladit.}
+{151}{}{A co moje odmÄ›na?}
+{152}{}{Jste zrÅ¯da! Nechci uÅ¾ s vÃ¡mi mÃ­t nic spoleÄnÃ©ho.}
+{153}{}{KoukÃ¡m, Å¾e to mÃ¡ jeÅ¡tÄ› nÄ›jakÃ© mouchy. No, chybami se ÄlovÄ›k uÄÃ­.}
+{154}{}{A co moje odmÄ›na?}
+{155}{}{Jste zrÅ¯da! Nechci uÅ¾ s vÃ¡mi mÃ­t nic spoleÄnÃ©ho.}
+{156}{}{Ach, zajistÃ©. Kyberpes je vÃ¡Å¡. A teÄ mÃ¡m jeÅ¡tÄ› spoustu prÃ¡ce.}
+{157}{}{...takÅ¾e ÃºroveÅˆ mutace se stabilizuje... teÄ mÄ› neobtÄ›Å¾ujte.}
+{158}{}{PrimitivnÃ­ pÅ™izpÅ¯sobenÃ­ se okolnÃ­mu prostÅ™edÃ­. FascinujÃ­cÃ­.}
+{159}{}{NemÃ¡te oscilaÄnÃ­ kalibrÃ¡tor? Ne, ovÅ¡em Å¾e ne.}
+{160}{}{, VyvolenÃ½. HledÃ¡m Vault 13.}
+{161}{}{HezkÃ½ den? No to urÄitÄ›, kretÃ©ne. Dejte mi ty papÃ­ry, nebo vÃ¡m zaÄnu Å™ezat prsty. AspoÅˆ se podÃ­vÃ¡me, jak dobrÃ½ jste doktor.}
+{162}{}{Fajn, vyÅ™Ã­dÃ­m mu to.}
+{163}{}{Eh... dobÅ™e, ty papÃ­ry jsou v mÃ©m psacÃ­m stole tamhle. VezmÄ›te si je. Jenom nechte mÃ© prsty na pokoji, ano?}
+{164}{}{Polib mi prdel, kretÃ©ne! StrÃ¡Å¾e! StrÃ¡Å¾e!}
+{165}{}{To bylo od vÃ¡s velice moudrÃ©. VyÅ™Ã­dÃ­m to panu Merkovi.}
 {166}{}{Toho budete litovat, doktore.}
-{167}{}{Hej! Máte pøesnì deset vteøin na vrácení tìch papírù zpìt tam, kde byly, ne zavolám stráe.}
-{168}{}{Vy si nedáte pokoj, e? Fajn, tak a si to s vámi vyøídí zákon. Stráe! Stráe!}
+{167}{}{Hej! MÃ¡te pÅ™esnÄ› deset vteÅ™in na vrÃ¡cenÃ­ tÄ›ch papÃ­rÅ¯ zpÄ›t tam, kde byly, neÅ¾ zavolÃ¡m strÃ¡Å¾e.}
+{168}{}{Vy si nedÃ¡te pokoj, Å¾e? Fajn, tak aÅ¥ si to s vÃ¡mi vyÅ™Ã­dÃ­ zÃ¡kon. StrÃ¡Å¾e! StrÃ¡Å¾e!}

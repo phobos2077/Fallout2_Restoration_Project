@@ -1,38 +1,38 @@
-{100}{}{Vidíš mue v kovové zbroji.}
-{101}{}{Vidíš Joshuu.}
-{102}{}{Vidíš mue v kovové zbroji s odznakem blesku.}
+{100}{}{VidÃ­Å¡ muÅ¾e v kovovÃ© zbroji.}
+{101}{}{VidÃ­Å¡ Joshuu.}
+{102}{}{VidÃ­Å¡ muÅ¾e v kovovÃ© zbroji s odznakem blesku.}
 {103}{}{Ahoj,}
-{104}{}{. Jmenuju se Joshua. Co pro tebe mùu udìlat?}
-{105}{}{Jak ty vìdìt jméno?}
-{106}{}{Jak víš, jak se jmenuju?}
-{107}{}{Tvoje nedávné èiny k nám pøitáhly pozornost. Jedni mluví, druzí poslouchají a pak u se to šíøí rychle. Ale pamatuj, e jsi jen malá rybka v oceánu plném ralokù,}
+{104}{}{. Jmenuju se Joshua. Co pro tebe mÅ¯Å¾u udÄ›lat?}
+{105}{}{Jak ty vÄ›dÄ›t jmÃ©no?}
+{106}{}{Jak vÃ­Å¡, jak se jmenuju?}
+{107}{}{Tvoje nedÃ¡vnÃ© Äiny k nÃ¡m pÅ™itÃ¡hly pozornost. Jedni mluvÃ­, druzÃ­ poslouchajÃ­ a pak uÅ¾ se to Å¡Ã­Å™Ã­ rychle. Ale pamatuj, Å¾e jsi jen malÃ¡ rybka v oceÃ¡nu plnÃ©m Å¾ralokÅ¯,}
 {108}{}{.}
 {109}{}{Co to znamenat?}
-{110}{}{Co tím myslíš?}
-{111}{}{Øeknìme, e jsi tu novı a nevíš, co se tu dìje. Avšak vìz, e tu nejde jen o jeden malı úkol...}
-{112}{}{Pokraèuj.}
-{113}{}{Pokraèuj, poslouchám.}
-{114}{}{U jsem prozradil dost. Myslím, e bude lepší, kdy se vrátíš ke své práci.}
-{115}{}{Poèkat, já potøebovat zeptat otázka.}
-{116}{}{Poèkej, potøebuju se tì na nìco zeptat.}
-{117}{}{Dobøe, povolím ti jednu otázku. Co to bude?}
-{118}{}{Ty vìdìt, kde já najít GECK?}
-{119}{}{Ty vìdìt, kde já najít Vault 13?}
-{120}{}{Já hledat obchodník Vic. Kde já najít?}
-{121}{}{Nevíš, kde najdu GECK?}
-{122}{}{Nevíš, kde najdu Vault 13?}
-{123}{}{Hledám obchodníka jménem Vic. Nevíš, kde ho najdu?}
-{124}{}{GECK bylo standardní vybavení kadého vaultu. Jestli si dobøe vzpomínám, pouívaly se k obnovení civilizace po otevøení vaultu. Pøedpokládám tedy, e by se jeden mohl nalézat v nìjakém dosud neotevøeném vaultu. Hodnì štìstí,}
-{125}{}{Díky.}
-{126}{}{Slyšel jsem spoustu pøíbìhù o Vaultu 13, ale v ádném z nich nebylo ani slovo o tom, kde se nachází. Hodnì štìstí,}
-{127}{}{Díky.}
-{128}{}{Vic se zapletl s Cechem otrokáøù. Tam ho najdeš. Hodnì štìstí,}
-{129}{}{Poèkej! Kde najdu ten Cech?}
-{130}{}{Poèkej, mùeš mi øíct, kde je ten Cech otrokáøù?}
-{131}{}{Zdravím. U ti nemám co øíct.}
-{132}{}{. No... u nejsi ten obyèejnı divoch jako na zaèátku. Doporuèuju ti navštívit naši poboèku v New California Republic. Urèitì se ti to vyplatí. A teï kdy mì omluvíš...}
-{133}{}{Zdravím. U ti nemám co øíct.}
-{134}{}{Èekat...}
-{135}{}{To je soukromá kanceláø.}
-{136}{}{Tam pro tebe nic není.}
-{137}{}{To je soukromı pozemek, take odejdi.}
+{110}{}{Co tÃ­m myslÃ­Å¡?}
+{111}{}{Å˜eknÄ›me, Å¾e jsi tu novÃ½ a nevÃ­Å¡, co se tu dÄ›je. AvÅ¡ak vÄ›z, Å¾e tu nejde jen o jeden malÃ½ Ãºkol...}
+{112}{}{PokraÄuj.}
+{113}{}{PokraÄuj, poslouchÃ¡m.}
+{114}{}{UÅ¾ jsem prozradil dost. MyslÃ­m, Å¾e bude lepÅ¡Ã­, kdyÅ¾ se vrÃ¡tÃ­Å¡ ke svÃ© prÃ¡ci.}
+{115}{}{PoÄkat, jÃ¡ potÅ™ebovat zeptat otÃ¡zka.}
+{116}{}{PoÄkej, potÅ™ebuju se tÄ› na nÄ›co zeptat.}
+{117}{}{DobÅ™e, povolÃ­m ti jednu otÃ¡zku. Co to bude?}
+{118}{}{Ty vÄ›dÄ›t, kde jÃ¡ najÃ­t GECK?}
+{119}{}{Ty vÄ›dÄ›t, kde jÃ¡ najÃ­t Vault 13?}
+{120}{}{JÃ¡ hledat obchodnÃ­k Vic. Kde jÃ¡ najÃ­t?}
+{121}{}{NevÃ­Å¡, kde najdu GECK?}
+{122}{}{NevÃ­Å¡, kde najdu Vault 13?}
+{123}{}{HledÃ¡m obchodnÃ­ka jmÃ©nem Vic. NevÃ­Å¡, kde ho najdu?}
+{124}{}{GECK bylo standardnÃ­ vybavenÃ­ kaÅ¾dÃ©ho vaultu. Jestli si dobÅ™e vzpomÃ­nÃ¡m, pouÅ¾Ã­valy se k obnovenÃ­ civilizace po otevÅ™enÃ­ vaultu. PÅ™edpoklÃ¡dÃ¡m tedy, Å¾e by se jeden mohl nalÃ©zat v nÄ›jakÃ©m dosud neotevÅ™enÃ©m vaultu. HodnÄ› Å¡tÄ›stÃ­,}
+{125}{}{DÃ­ky.}
+{126}{}{SlyÅ¡el jsem spoustu pÅ™Ã­bÄ›hÅ¯ o Vaultu 13, ale v Å¾Ã¡dnÃ©m z nich nebylo ani slovo o tom, kde se nachÃ¡zÃ­. HodnÄ› Å¡tÄ›stÃ­,}
+{127}{}{DÃ­ky.}
+{128}{}{Vic se zapletl s Cechem otrokÃ¡Å™Å¯. Tam ho najdeÅ¡. HodnÄ› Å¡tÄ›stÃ­,}
+{129}{}{PoÄkej! Kde najdu ten Cech?}
+{130}{}{PoÄkej, mÅ¯Å¾eÅ¡ mi Å™Ã­ct, kde je ten Cech otrokÃ¡Å™Å¯?}
+{131}{}{ZdravÃ­m. UÅ¾ ti nemÃ¡m co Å™Ã­ct.}
+{132}{}{. No... uÅ¾ nejsi ten obyÄejnÃ½ divoch jako na zaÄÃ¡tku. DoporuÄuju ti navÅ¡tÃ­vit naÅ¡i poboÄku v New California Republic. UrÄitÄ› se ti to vyplatÃ­. A teÄ kdyÅ¾ mÄ› omluvÃ­Å¡...}
+{133}{}{ZdravÃ­m. UÅ¾ ti nemÃ¡m co Å™Ã­ct.}
+{134}{}{ÄŒekat...}
+{135}{}{To je soukromÃ¡ kancelÃ¡Å™.}
+{136}{}{Tam pro tebe nic nenÃ­.}
+{137}{}{To je soukromÃ½ pozemek, takÅ¾e odejdi.}

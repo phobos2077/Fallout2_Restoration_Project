@@ -1,28 +1,28 @@
-{100}{}{Vidíš nomáda.}
-{101}{}{Je to náèelník nomádù.}
-{102}{}{Podle toho, co má na sobì a jaké z nìj vyzaøuje charisma, to musí bıt nìjakı vùdce.}
-{103}{}{Á, poutník. Vítej v mém skromném stanu. Spoèiò ve stínu a ulev si od nekoneèného vedra.}
-{104}{}{Dìkuju. S povdìkem pøijímám nabídku stínu.}
-{105}{}{Musím odmítnout tvoji nabídku. Jenom procházím.}
+{100}{}{VidÃ­Å¡ nomÃ¡da.}
+{101}{}{Je to nÃ¡ÄelnÃ­k nomÃ¡dÅ¯.}
+{102}{}{Podle toho, co mÃ¡ na sobÄ› a jakÃ© z nÄ›j vyzaÅ™uje charisma, to musÃ­ bÃ½t nÄ›jakÃ½ vÅ¯dce.}
+{103}{}{Ã, poutnÃ­k. VÃ­tej v mÃ©m skromnÃ©m stanu. SpoÄiÅˆ ve stÃ­nu a ulev si od nekoneÄnÃ©ho vedra.}
+{104}{}{DÄ›kuju. S povdÄ›kem pÅ™ijÃ­mÃ¡m nabÃ­dku stÃ­nu.}
+{105}{}{MusÃ­m odmÃ­tnout tvoji nabÃ­dku. Jenom prochÃ¡zÃ­m.}
 {106}{}{Ooga.}
-{107}{}{Vítej. U dlouho jsme odøíznuti od civilizovanıch konèin. Potøebovali bychom urèité zboí. Snad bychom mohli nìco vymìnit.}
-{108}{}{Co máš k obchodování?}
-{109}{}{Nemám nic ke smìnìní. Je mi líto.}
-{110}{}{Tak snad nìkdy jindy. A jsou tvé cesty prosty nebezpeèí.}
-{111}{}{Dík. Naskle.}
-{112}{}{Jaká škoda. Odpoèiò si tedy a vítej v našem táboøe.}
-{113}{}{Dìkuju. Sbohem.}
-{114}{}{Vidím, e moje nabídka stínu pøišla pøíliš pozdì. Slunce ti u nejspíš vypálilo mozek. Musím bıt pøívìtivı k tìm, kteøí v ivotì nemají tolik štìstí. Zùstaò v mém táboøe, jak dlouho budeš chtít, zabednìnèe.}
+{107}{}{VÃ­tej. UÅ¾ dlouho jsme odÅ™Ã­znuti od civilizovanÃ½ch konÄin. PotÅ™ebovali bychom urÄitÃ© zboÅ¾Ã­. Snad bychom mohli nÄ›co vymÄ›nit.}
+{108}{}{Co mÃ¡Å¡ k obchodovÃ¡nÃ­?}
+{109}{}{NemÃ¡m nic ke smÄ›nÄ›nÃ­. Je mi lÃ­to.}
+{110}{}{Tak snad nÄ›kdy jindy. AÅ¥ jsou tvÃ© cesty prosty nebezpeÄÃ­.}
+{111}{}{DÃ­k. Naskle.}
+{112}{}{JakÃ¡ Å¡koda. OdpoÄiÅˆ si tedy a vÃ­tej v naÅ¡em tÃ¡boÅ™e.}
+{113}{}{DÄ›kuju. Sbohem.}
+{114}{}{VidÃ­m, Å¾e moje nabÃ­dka stÃ­nu pÅ™iÅ¡la pÅ™Ã­liÅ¡ pozdÄ›. Slunce ti uÅ¾ nejspÃ­Å¡ vypÃ¡lilo mozek. MusÃ­m bÃ½t pÅ™Ã­vÄ›tivÃ½ k tÄ›m, kteÅ™Ã­ v Å¾ivotÄ› nemajÃ­ tolik Å¡tÄ›stÃ­. ZÅ¯staÅˆ v mÃ©m tÃ¡boÅ™e, jak dlouho budeÅ¡ chtÃ­t, zabednÄ›nÄe.}
 {115}{}{Nashle.}
-{116}{}{Nevìøící!}
-{117}{}{Proè na nás útoèíš?}
-{118}{}{Budu bránit svùj kmen do poslední kapky krve!}
-{119}{}{Jak se opovauješ zneuít mé pohostinnosti!}
+{116}{}{NevÄ›Å™Ã­cÃ­!}
+{117}{}{ProÄ na nÃ¡s ÃºtoÄÃ­Å¡?}
+{118}{}{Budu brÃ¡nit svÅ¯j kmen do poslednÃ­ kapky krve!}
+{119}{}{Jak se opovaÅ¾ujeÅ¡ zneuÅ¾Ã­t mÃ© pohostinnosti!}
 {120}{}{Zmiz!}
-{121}{}{Nech nás na pokoji.}
-{122}{}{Jsme mírumilovnı kmen.}
-{200}{}{Á, poutník. Omlouvám se, ale nemáme ádnı stan, v jeho stínu mùeš spoèinout a ulevit si od nekoneèného vedra. Odpoèiò si na chvíli a poté si promluvíme.}
-{201}{}{Dìkuju ti. S vdìèností pøijímám tvoji nabídku.}
-{202}{}{Jaká škoda. Odpoèiò si tedy a vítej v našem táboøe.}
-{203}{}{Doufám, e jsi nalezl to, co jsi potøeboval. Ještì nìco?}
-{204}{}{Dnes ne. U musím jít.}
+{121}{}{Nech nÃ¡s na pokoji.}
+{122}{}{Jsme mÃ­rumilovnÃ½ kmen.}
+{200}{}{Ã, poutnÃ­k. OmlouvÃ¡m se, ale nemÃ¡me Å¾Ã¡dnÃ½ stan, v jehoÅ¾ stÃ­nu mÅ¯Å¾eÅ¡ spoÄinout a ulevit si od nekoneÄnÃ©ho vedra. OdpoÄiÅˆ si na chvÃ­li a potÃ© si promluvÃ­me.}
+{201}{}{DÄ›kuju ti. S vdÄ›ÄnostÃ­ pÅ™ijÃ­mÃ¡m tvoji nabÃ­dku.}
+{202}{}{JakÃ¡ Å¡koda. OdpoÄiÅˆ si tedy a vÃ­tej v naÅ¡em tÃ¡boÅ™e.}
+{203}{}{DoufÃ¡m, Å¾e jsi nalezl to, co jsi potÅ™eboval. JeÅ¡tÄ› nÄ›co?}
+{204}{}{Dnes ne. UÅ¾ musÃ­m jÃ­t.}

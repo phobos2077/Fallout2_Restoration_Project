@@ -1,1 +1,1 @@
-{100}{}{Koho jsi nasral, e jsi skonèil tady?}
+{100}{}{Koho jsi nasral, Å¾e jsi skonÄil tady?}

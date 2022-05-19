@@ -1,5 +1,5 @@
-{100}{}{Plakát s jednoduchım náèrtem hledané osoby pomocí uhlíku. Osoba na tomto obrázku se ti zdá povìdomá.}
-{101}{}{Na plakátu je napsáno:}
-{102}{}{-Hledá se mrtvı nebo ivı -Zabiják dìtí a Krysí bastard. Odmìna $10000 - mrtvı nebo $5000 - ivı.}
-{103}{}{-Hledá se mrtvı nebo ivı -Zabiják dìtí. Odmìna $10000 - mrtvı nebo $5000 - ivı.}
-{104}{}{-Hledá se mrtvı nebo ivı -Krysí bastard. Odmìna $10000 - mrtvı nebo $5000 - ivı.}
+{100}{}{PlakÃ¡t s jednoduchÃ½m nÃ¡Ärtem hledanÃ© osoby pomocÃ­ uhlÃ­ku. Osoba na tomto obrÃ¡zku se ti zdÃ¡ povÄ›domÃ¡.}
+{101}{}{Na plakÃ¡tu je napsÃ¡no:}
+{102}{}{-HledÃ¡ se mrtvÃ½ nebo Å¾ivÃ½ -ZabijÃ¡k dÄ›tÃ­ a KrysÃ­ bastard. OdmÄ›na $10000 - mrtvÃ½ nebo $5000 - Å¾ivÃ½.}
+{103}{}{-HledÃ¡ se mrtvÃ½ nebo Å¾ivÃ½ -ZabijÃ¡k dÄ›tÃ­. OdmÄ›na $10000 - mrtvÃ½ nebo $5000 - Å¾ivÃ½.}
+{104}{}{-HledÃ¡ se mrtvÃ½ nebo Å¾ivÃ½ -KrysÃ­ bastard. OdmÄ›na $10000 - mrtvÃ½ nebo $5000 - Å¾ivÃ½.}

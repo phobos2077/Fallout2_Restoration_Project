@@ -1,152 +1,152 @@
-{100}{}{Vidíš mue, kterı vypadá jako prodavaè.}
-{101}{}{Vidíš prodavaèe Lao Choua.}
-{102}{}{Vidíš mue v pohodlném pracovním obleèení.}
-{103}{}{Zdravím! Vítej v mém obchodì Flying Dragon 8.}
-{104}{}{Co pro tebe mohu udìlat?}
+{100}{}{VidÃ­Å¡ muÅ¾e, kterÃ½ vypadÃ¡ jako prodavaÄ.}
+{101}{}{VidÃ­Å¡ prodavaÄe Lao Choua.}
+{102}{}{VidÃ­Å¡ muÅ¾e v pohodlnÃ©m pracovnÃ­m obleÄenÃ­.}
+{103}{}{ZdravÃ­m! VÃ­tej v mÃ©m obchodÄ› Flying Dragon 8.}
+{104}{}{Co pro tebe mohu udÄ›lat?}
 {105}{}{Da aggle oo!}
-{106}{}{Vìcièky!}
+{106}{}{VÄ›ciÄky!}
 {107}{}{Kdo jsi?}
-{108}{}{Hledám nìjaké vybavení.}
-{109}{}{Sháním nìjaké informace.}
+{108}{}{HledÃ¡m nÄ›jakÃ© vybavenÃ­.}
+{109}{}{ShÃ¡nÃ­m nÄ›jakÃ© informace.}
 {110}{}{Nashle.}
-{111}{}{Chceš nìco koupit?}
-{112}{}{::kıvnout hlavou::}
-{113}{}{::zavrtìt hlavou::}
-{114}{}{Tohle máme na skladì.}
+{111}{}{ChceÅ¡ nÄ›co koupit?}
+{112}{}{::kÃ½vnout hlavou::}
+{113}{}{::zavrtÄ›t hlavou::}
+{114}{}{Tohle mÃ¡me na skladÄ›.}
 {115}{}{[KONEC]}
-{116}{}{No, obávám se, e víc u pro tebe nemùu udìlat. Pìknı den.}
+{116}{}{No, obÃ¡vÃ¡m se, Å¾e vÃ­c uÅ¾ pro tebe nemÅ¯Å¾u udÄ›lat. PÄ›knÃ½ den.}
 {117}{}{[KONEC]}
-{118}{}{Jsem Lao Chou. Provozuju tenhle obchod, Flying Dragon 8. Jsem známı tím, e obchoduju i... s informacemi.}
-{119}{}{S jakımi informacemi?}
-{120}{}{Aha. Potøebuju nìjaké vybavení.}
-{121}{}{V tomhle mìstì se stane jen málo vìcí, o kterıch bych nevìdìl. Samozøejmì se také musíš umìt správnì zeptat, e? Co potøebuješ vìdìt?}
-{122}{}{Hledám nìjaké vylepšení pro svoje vybavení.}
-{123}{}{Kde najdu plány vertibirdu?}
-{124}{}{Potøebuju najít palivo pro PMV Valdez.}
-{125}{}{Potøebuju nìjakı FOB k pøístupu do poèítaèe Valdezu.}
-{126}{}{Potøebuju nìjaké souèásti do poèítaèe PMV Valdezu.}
-{127}{}{Hledám slezinu.}
-{128}{}{Prı tudy pøeváeli nìjaké létající stroje náklad vesnièanù.}
+{118}{}{Jsem Lao Chou. Provozuju tenhle obchod, Flying Dragon 8. Jsem znÃ¡mÃ½ tÃ­m, Å¾e obchoduju i... s informacemi.}
+{119}{}{S jakÃ½mi informacemi?}
+{120}{}{Aha. PotÅ™ebuju nÄ›jakÃ© vybavenÃ­.}
+{121}{}{V tomhle mÄ›stÄ› se stane jen mÃ¡lo vÄ›cÃ­, o kterÃ½ch bych nevÄ›dÄ›l. SamozÅ™ejmÄ› se takÃ© musÃ­Å¡ umÄ›t sprÃ¡vnÄ› zeptat, Å¾e? Co potÅ™ebujeÅ¡ vÄ›dÄ›t?}
+{122}{}{HledÃ¡m nÄ›jakÃ© vylepÅ¡enÃ­ pro svoje vybavenÃ­.}
+{123}{}{Kde najdu plÃ¡ny vertibirdu?}
+{124}{}{PotÅ™ebuju najÃ­t palivo pro PMV Valdez.}
+{125}{}{PotÅ™ebuju nÄ›jakÃ½ FOB k pÅ™Ã­stupu do poÄÃ­taÄe Valdezu.}
+{126}{}{PotÅ™ebuju nÄ›jakÃ© souÄÃ¡sti do poÄÃ­taÄe PMV Valdezu.}
+{127}{}{HledÃ¡m slezinu.}
+{128}{}{PrÃ½ tudy pÅ™evÃ¡Å¾eli nÄ›jakÃ© lÃ©tajÃ­cÃ­ stroje nÃ¡klad vesniÄanÅ¯.}
 {129}{}{Nic. Nashle.}
 {130}{}{Talk to Crockett, over in the Hubologist camp. He is their head scientist.}
-{131}{}{Díky. Potøebuju víc informací.}
-{132}{}{Dík. Naskle.}
-{133}{}{Hledej na severu, v Navarru. Je tam skrytá základna poblí benzínové pumpy.}
-{134}{}{Díky. Potøebuju víc informací.}
-{135}{}{Dík. Naskle.}
-{136}{}{Co se zkusit podívat do starıch Vaultù? Slyšel jsem, e je uvnitø spousta informací a starobylıch technologií.}
-{137}{}{Díky. Potøebuju víc informací.}
-{138}{}{Dík. Naskle.}
-{139}{}{Slezinu? Haha! Ano, Chip z Valdezu prohrál svoji slezinu v kartách. Prodal jsem ji Dr. Wongovi. Fascinovala ho.}
+{131}{}{DÃ­ky. PotÅ™ebuju vÃ­c informacÃ­.}
+{132}{}{DÃ­k. Naskle.}
+{133}{}{Hledej na severu, v Navarru. Je tam skrytÃ¡ zÃ¡kladna poblÃ­Å¾ benzÃ­novÃ© pumpy.}
+{134}{}{DÃ­ky. PotÅ™ebuju vÃ­c informacÃ­.}
+{135}{}{DÃ­k. Naskle.}
+{136}{}{Co se zkusit podÃ­vat do starÃ½ch VaultÅ¯? SlyÅ¡el jsem, Å¾e je uvnitÅ™ spousta informacÃ­ a starobylÃ½ch technologiÃ­.}
+{137}{}{DÃ­ky. PotÅ™ebuju vÃ­c informacÃ­.}
+{138}{}{DÃ­k. Naskle.}
+{139}{}{Slezinu? Haha! Ano, Chip z Valdezu prohrÃ¡l svoji slezinu v kartÃ¡ch. Prodal jsem ji Dr. Wongovi. Fascinovala ho.}
 {140}{}{Dr. Wong? Kde ho najdu?}
-{141}{}{Jak se dá prohrát slezina?}
-{142}{}{Díky. Mám další otázky.}
+{141}{}{Jak se dÃ¡ prohrÃ¡t slezina?}
+{142}{}{DÃ­ky. MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
 {143}{}{Aha. Nashle.}
-{144}{}{Dr. Wong je hlavní vìdec v Ocelovém Paláci. Tam ho zastihneš.}
-{145}{}{Jak se dá prohrát slezina?}
-{146}{}{Díky. Potøebuju víc informací.}
-{147}{}{Dík. Naskle.}
-{148}{}{Byl opilı. Velmi, velmi opilı. Celı veèer se chlubil svojí slezinou a pak ji vsadil.}
-{149}{}{Take ty jsi mu vzal jeho SLEZINU?}
-{150}{}{Chápu. No, mám další otázky.}
-{151}{}{Ano. Dluil mi. Je to èestnı mu.}
-{152}{}{Aha. Potøebuju víc informací.}
+{144}{}{Dr. Wong je hlavnÃ­ vÄ›dec v OcelovÃ©m PalÃ¡ci. Tam ho zastihneÅ¡.}
+{145}{}{Jak se dÃ¡ prohrÃ¡t slezina?}
+{146}{}{DÃ­ky. PotÅ™ebuju vÃ­c informacÃ­.}
+{147}{}{DÃ­k. Naskle.}
+{148}{}{Byl opilÃ½. Velmi, velmi opilÃ½. CelÃ½ veÄer se chlubil svojÃ­ slezinou a pak ji vsadil.}
+{149}{}{TakÅ¾e ty jsi mu vzal jeho SLEZINU?}
+{150}{}{ChÃ¡pu. No, mÃ¡m dalÅ¡Ã­ otÃ¡zky.}
+{151}{}{Ano. DluÅ¾il mi. Je to ÄestnÃ½ muÅ¾.}
+{152}{}{Aha. PotÅ™ebuju vÃ­c informacÃ­.}
 {153}{}{Jsi hnusnej nevychovanej hajzl.}
-{154}{}{Jasnì. Nashle.}
-{155}{}{Jsi neèestná osoba. Nechci tì teï ve svém obchodì. Pøijï nìkdy jindy.}
-{156}{}{Nevadí.}
-{157}{}{Tudy ne. Pøiletìli ze severu, proletìli nad našimi hlavami a pokraèovali dál pøes moøe.}
-{158}{}{A za obzor? Jak se tam sakra dostanu?}
-{159}{}{Jo, to urèitì. Øekni mi, kde jsou, nebo tì otevøu jako plechovku sardinek.}
-{160}{}{Mno... ádná z našich lodí není schopná urazit takovou vzdálenost. Ledae...}
-{161}{}{Ledae...?}
-{162}{}{Díky za "pomoc". Radìji se poohlédnu po nìjaké opravdové radì.}
-{163}{}{...ledae by se ti podaøilo zprovoznit ten starı tanker v pøístavu. Je to sice stará loï, ale kdyby se na ní udìlalo pár oprav, tak bude moná ještì fungovat. Zeptej se tulákù v tankeru, øeknou ti toho víc.}
-{164}{}{Díky. Potøebuju víc informací.}
-{165}{}{Dík. Naskle.}
-{166}{}{Slyšel jsem, e Hubologisté nedávno pøišli k velkému mnoství paliva. Domluv se s nimi.}
-{167}{}{Díky. Potøebuju víc informací.}
-{168}{}{Dík. Naskle.}
-{169}{}{Zkus se zeptat nìjakého vìdce Shi v Ocelovém Paláci. Moná by ti s tím palivem mohli pomoct.}
-{170}{}{Díky. Potøebuju víc informací.}
-{171}{}{Dík. Naskle.}
-{172}{}{Jsi nepøítel mého lidu. Chcípni!}
-{173}{}{Náš lid je ti za zabití AHS-9 velmi vdìènı. Doufám, e ti budu moct nìjak pomoct.}
+{154}{}{JasnÄ›. Nashle.}
+{155}{}{Jsi neÄestnÃ¡ osoba. Nechci tÄ› teÄ ve svÃ©m obchodÄ›. PÅ™ijÄ nÄ›kdy jindy.}
+{156}{}{NevadÃ­.}
+{157}{}{Tudy ne. PÅ™iletÄ›li ze severu, proletÄ›li nad naÅ¡imi hlavami a pokraÄovali dÃ¡l pÅ™es moÅ™e.}
+{158}{}{AÅ¾ za obzor? Jak se tam sakra dostanu?}
+{159}{}{Jo, to urÄitÄ›. Å˜ekni mi, kde jsou, nebo tÄ› otevÅ™u jako plechovku sardinek.}
+{160}{}{Mno... Å¾Ã¡dnÃ¡ z naÅ¡ich lodÃ­ nenÃ­ schopnÃ¡ urazit takovou vzdÃ¡lenost. LedaÅ¾e...}
+{161}{}{LedaÅ¾e...?}
+{162}{}{DÃ­ky za "pomoc". RadÄ›ji se poohlÃ©dnu po nÄ›jakÃ© opravdovÃ© radÄ›.}
+{163}{}{...ledaÅ¾e by se ti podaÅ™ilo zprovoznit ten starÃ½ tanker v pÅ™Ã­stavu. Je to sice starÃ¡ loÄ, ale kdyby se na nÃ­ udÄ›lalo pÃ¡r oprav, tak bude moÅ¾nÃ¡ jeÅ¡tÄ› fungovat. Zeptej se tulÃ¡kÅ¯ v tankeru, Å™eknou ti toho vÃ­c.}
+{164}{}{DÃ­ky. PotÅ™ebuju vÃ­c informacÃ­.}
+{165}{}{DÃ­k. Naskle.}
+{166}{}{SlyÅ¡el jsem, Å¾e HubologistÃ© nedÃ¡vno pÅ™iÅ¡li k velkÃ©mu mnoÅ¾stvÃ­ paliva. Domluv se s nimi.}
+{167}{}{DÃ­ky. PotÅ™ebuju vÃ­c informacÃ­.}
+{168}{}{DÃ­k. Naskle.}
+{169}{}{Zkus se zeptat nÄ›jakÃ©ho vÄ›dce Shi v OcelovÃ©m PalÃ¡ci. MoÅ¾nÃ¡ by ti s tÃ­m palivem mohli pomoct.}
+{170}{}{DÃ­ky. PotÅ™ebuju vÃ­c informacÃ­.}
+{171}{}{DÃ­k. Naskle.}
+{172}{}{Jsi nepÅ™Ã­tel mÃ©ho lidu. ChcÃ­pni!}
+{173}{}{NÃ¡Å¡ lid je ti za zabitÃ­ AHS-9 velmi vdÄ›ÄnÃ½. DoufÃ¡m, Å¾e ti budu moct nÄ›jak pomoct.}
 {174}{}{Kdo jsi?}
-{175}{}{Hledám nìjaké vybavení.}
-{176}{}{Sháním nìjaké informace.}
+{175}{}{HledÃ¡m nÄ›jakÃ© vybavenÃ­.}
+{176}{}{ShÃ¡nÃ­m nÄ›jakÃ© informace.}
 {177}{}{Nashle.}
-{178}{}{U jsi je dal Hubologistùm. Nebo ne?}
-{179}{}{A jo... eh... mùu se zeptat na nìco jiného?}
+{178}{}{UÅ¾ jsi je dal HubologistÅ¯m. Nebo ne?}
+{179}{}{A jo... eh... mÅ¯Å¾u se zeptat na nÄ›co jinÃ©ho?}
 {180}{}{A jo... nashle.}
-{200}{}{Co mi mùeš ještì øíct o tom tankeru?}
-{210}{}{I kdyby se ti podaøilo zprovoznit NavCom a naplnit tanker palivem, poøád budeš potøebovat hromadu štìstí, aby ta loï opìt vyplula.}
-{211}{}{Co myslíš tím 'hromadu štìstí?'}
-{220}{}{Tím myslím, e ta hromada šrotu je starší ne vìtšina ghoulù. Bude zázrak, kdy se to s tebou nepotopí. To jsem myslel.}
-{221}{}{Mám takovı dojem, e jsi mi o tom tankeru nìco neøekl.}
-{230}{}{Moná, e ano... (Usmìje se.) a moná jsi jen z té pustiny paranoidní.}
-{231}{}{Poslyš, potøebuju najít svùj kmen. Ti šmejdi, co je unesli, jsou nebezpeèní a nìkdo je musí zastavit.}
-{232}{}{No ták. Co je na tom tankeru tak zvláštního? Vdy si jen tak povídáme.}
-{233}{}{Víš to jistì? Co kdybych ti to nìjak vynahradila?}
-{234}{}{Na tyhle hry nemám èas. Sbohem.}
-{240}{}{Pche. To jsou nicky. Na tom tankeru není nic zvláštního. Je to jen starı, velkı, rezavı tanker. Za to naše ponorka...}
+{200}{}{Co mi mÅ¯Å¾eÅ¡ jeÅ¡tÄ› Å™Ã­ct o tom tankeru?}
+{210}{}{I kdyby se ti podaÅ™ilo zprovoznit NavCom a naplnit tanker palivem, poÅ™Ã¡d budeÅ¡ potÅ™ebovat hromadu Å¡tÄ›stÃ­, aby ta loÄ opÄ›t vyplula.}
+{211}{}{Co myslÃ­Å¡ tÃ­m 'hromadu Å¡tÄ›stÃ­?'}
+{220}{}{TÃ­m myslÃ­m, Å¾e ta hromada Å¡rotu je starÅ¡Ã­ neÅ¾ vÄ›tÅ¡ina ghoulÅ¯. Bude zÃ¡zrak, kdyÅ¾ se to s tebou nepotopÃ­. To jsem myslel.}
+{221}{}{MÃ¡m takovÃ½ dojem, Å¾e jsi mi o tom tankeru nÄ›co neÅ™ekl.}
+{230}{}{MoÅ¾nÃ¡, Å¾e ano... (UsmÄ›je se.) a moÅ¾nÃ¡ jsi jen z tÃ© pustiny paranoidnÃ­.}
+{231}{}{PoslyÅ¡, potÅ™ebuju najÃ­t svÅ¯j kmen. Ti Å¡mejdi, co je unesli, jsou nebezpeÄnÃ­ a nÄ›kdo je musÃ­ zastavit.}
+{232}{}{No tÃ¡k. Co je na tom tankeru tak zvlÃ¡Å¡tnÃ­ho? VÅ¾dyÅ¥ si jen tak povÃ­dÃ¡me.}
+{233}{}{VÃ­Å¡ to jistÄ›? Co kdybych ti to nÄ›jak vynahradila?}
+{234}{}{Na tyhle hry nemÃ¡m Äas. Sbohem.}
+{240}{}{Pche. To jsou nicky. Na tom tankeru nenÃ­ nic zvlÃ¡Å¡tnÃ­ho. Je to jen starÃ½, velkÃ½, rezavÃ½ tanker. Za to naÅ¡e ponorka...}
 {241}{}{Ponorka?}
-{250}{}{Tak si budeme jen tak povídat. Na tom tankeru není nic zvláštního. Máš mé slovo.}
-{251}{}{Co kdy ti zaplatím, abys mi to øekl?}
-{260}{}{Hmm... obchody se poslední dobou moc nehıbou. Hodilo by se mi víc zákazníkù. Nebo nìjaká štìdrá dotace. Øeknìme $2000?}
-{261}{}{Tady jsou. Ale a ta informace stojí za to.}
-{262}{}{$1500 a to je má poslední nabídka.}
+{250}{}{Tak si budeme jen tak povÃ­dat. Na tom tankeru nenÃ­ nic zvlÃ¡Å¡tnÃ­ho. MÃ¡Å¡ mÃ© slovo.}
+{251}{}{Co kdyÅ¾ ti zaplatÃ­m, abys mi to Å™ekl?}
+{260}{}{Hmm... obchody se poslednÃ­ dobou moc nehÃ½bou. Hodilo by se mi vÃ­c zÃ¡kaznÃ­kÅ¯. Nebo nÄ›jakÃ¡ Å¡tÄ›drÃ¡ dotace. Å˜eknÄ›me $2000?}
+{261}{}{Tady jsou. Ale aÅ¥ ta informace stojÃ­ za to.}
+{262}{}{$1500 a to je mÃ¡ poslednÃ­ nabÃ­dka.}
 {263}{}{Tak to tedy ne. To je moc.}
-{270}{}{(Lao Chou schová $2000.) Na tom tankeru není nic zvláštního. Je to jen starı, velkı, rezavı tanker. Za to naše ponorka...}
+{270}{}{(Lao Chou schovÃ¡ $2000.) Na tom tankeru nenÃ­ nic zvlÃ¡Å¡tnÃ­ho. Je to jen starÃ½, velkÃ½, rezavÃ½ tanker. Za to naÅ¡e ponorka...}
 {271}{}{Ponorka?}
-{280}{}{Pak se nemáme o èem dál bavit.}
-{281}{}{Víš to jistì? Moje pùvabná ena Miria ti to bohatì vynahradí.}
+{280}{}{Pak se nemÃ¡me o Äem dÃ¡l bavit.}
+{281}{}{VÃ­Å¡ to jistÄ›? Moje pÅ¯vabnÃ¡ Å¾ena Miria ti to bohatÄ› vynahradÃ­.}
 {282}{}{Sbohem.}
-{285}{}{Jsi tvrdı obchodník. Dobøe, $1500.}
-{286}{}{Tady jsou. Ale a ta informace stojí za to.}
-{287}{}{(Lao Chou schová $1500.) Na tom tankeru není nic zvláštního. Je to jen starı, velkı, rezavı tanker. Za to naše ponorka...}
+{285}{}{Jsi tvrdÃ½ obchodnÃ­k. DobÅ™e, $1500.}
+{286}{}{Tady jsou. Ale aÅ¥ ta informace stojÃ­ za to.}
+{287}{}{(Lao Chou schovÃ¡ $1500.) Na tom tankeru nenÃ­ nic zvlÃ¡Å¡tnÃ­ho. Je to jen starÃ½, velkÃ½, rezavÃ½ tanker. Za to naÅ¡e ponorka...}
 {288}{}{Ponorka?}
-{290}{}{No, kdy to øekneš takhle... jsem v tomhle hrozném obchodì zavøenı u pìknì dlouho. U je to nìjakou dobu, co mi dìlala spoleènost taková okouzlující dáma, jako jsi ty.}
-{291}{}{Pokraèovat.}
-{300}{}{(Ubìhne nìkolik hodin a konec je stále v nedohlednu. Zaèínáš mít podezøení, e Lao Chou moná není tak úplnì èlovìk. Nakonec ztratíš vìdomí.)}
+{290}{}{No, kdyÅ¾ to Å™ekneÅ¡ takhle... jsem v tomhle hroznÃ©m obchodÄ› zavÅ™enÃ½ uÅ¾ pÄ›knÄ› dlouho. UÅ¾ je to nÄ›jakou dobu, co mi dÄ›lala spoleÄnost takovÃ¡ okouzlujÃ­cÃ­ dÃ¡ma, jako jsi ty.}
+{291}{}{PokraÄovat.}
+{300}{}{(UbÄ›hne nÄ›kolik hodin a konec je stÃ¡le v nedohlednu. ZaÄÃ­nÃ¡Å¡ mÃ­t podezÅ™enÃ­, Å¾e Lao Chou moÅ¾nÃ¡ nenÃ­ tak ÃºplnÄ› ÄlovÄ›k. Nakonec ztratÃ­Å¡ vÄ›domÃ­.)}
 {301}{}{Hhh... co se stalo?}
-{310}{}{Omdlela jsi, kdy jsem ti to chtìl dìlat v trojitém tureckém sedu. Nakonec jsem si to musel udìlat sám speciálním karatistickım chvatem. Ale dohoda je dohoda. Na tom tankeru není nic zvláštního. Je to jen starı, velkı, rezavı tanker. Za to naše ponorka...}
+{310}{}{Omdlela jsi, kdyÅ¾ jsem ti to chtÄ›l dÄ›lat v trojitÃ©m tureckÃ©m sedu. Nakonec jsem si to musel udÄ›lat sÃ¡m speciÃ¡lnÃ­m karatistickÃ½m chvatem. Ale dohoda je dohoda. Na tom tankeru nenÃ­ nic zvlÃ¡Å¡tnÃ­ho. Je to jen starÃ½, velkÃ½, rezavÃ½ tanker. Za to naÅ¡e ponorka...}
 {311}{}{Ponorka?}
-{330}{}{Jáá... myslím, e ne.}
-{331}{}{Nebraò se tomu. Chceš mì a ty to víš.}
-{340}{}{Ani ne. Nejsi mùj typ.}
-{341}{}{Aha, u to chápu. Ty nejsi na holky.}
-{350}{}{Jsem. Jen mi nepøijdeš moc pøitalivá. Moná kdybych byl opilı.}
-{351}{}{Ty jsi oèividnì slepı. To je jedno. Tvoje chyba.}
-{360}{}{Co tím myslíš? Aha... no, jsem v tomhle hrozném obchodì zavøenı u pìknì dlouho. Povím ti všechno, co vím, vımìnou za pùvab tvé kamarádky Mirie.}
-{361}{}{Mirio, zlato... myslím, e budeš muset, ehm, vydojit z tohohle chlápka nìjaké informace.}
-{362}{}{Dìlám si srandu, staøíku. Snad si nemyslíš, e tì nechám, aby sis mohl uít s mojí enou... odcházím.}
-{370}{}{(Èekáš venku a zevnitø Flying Dragon 8 slyšíš slabé sténání. Ubìhne hodina a poté další. Zabušíš na dveøe a zakøièíš, "Pospìšte si!" Nakonec se vzdychání zmìní na hlasité vıkøiky.)}
-{371}{}{[Zabušit na dveøe] Hej, co to tam dìláte!?}
-{380}{}{(Z lonice vyjde usmívající se Lao Chou oblékající si kalhoty. O chvíli pozdìji se za ním pøiklopıtá omámená a zmatená Miria s velmi uspokojenım vırazem.) Tvoje ena je mnohem zkušenìjší, ne vypadá.}
-{381}{}{Já, eh, vím. Teï si oblékni ty zatracenı kalhoty a øekni mi, co je tak zvláštního na tom tankeru.}
-{390}{}{Na tom tankeru není nic zvláštního. Je to jen starı, velkı, rezavı tanker. Za to naše ponorka...}
+{330}{}{JÃ¡Ã¡... myslÃ­m, Å¾e ne.}
+{331}{}{NebraÅˆ se tomu. ChceÅ¡ mÄ› a ty to vÃ­Å¡.}
+{340}{}{Ani ne. Nejsi mÅ¯j typ.}
+{341}{}{Aha, uÅ¾ to chÃ¡pu. Ty nejsi na holky.}
+{350}{}{Jsem. Jen mi nepÅ™ijdeÅ¡ moc pÅ™itaÅ¾livÃ¡. MoÅ¾nÃ¡ kdybych byl opilÃ½.}
+{351}{}{Ty jsi oÄividnÄ› slepÃ½. To je jedno. Tvoje chyba.}
+{360}{}{Co tÃ­m myslÃ­Å¡? Aha... no, jsem v tomhle hroznÃ©m obchodÄ› zavÅ™enÃ½ uÅ¾ pÄ›knÄ› dlouho. PovÃ­m ti vÅ¡echno, co vÃ­m, vÃ½mÄ›nou za pÅ¯vab tvÃ© kamarÃ¡dky Mirie.}
+{361}{}{Mirio, zlato... myslÃ­m, Å¾e budeÅ¡ muset, ehm, vydojit z tohohle chlÃ¡pka nÄ›jakÃ© informace.}
+{362}{}{DÄ›lÃ¡m si srandu, staÅ™Ã­ku. Snad si nemyslÃ­Å¡, Å¾e tÄ› nechÃ¡m, aby sis mohl uÅ¾Ã­t s mojÃ­ Å¾enou... odchÃ¡zÃ­m.}
+{370}{}{(ÄŒekÃ¡Å¡ venku a zevnitÅ™ Flying Dragon 8 slyÅ¡Ã­Å¡ slabÃ© stÃ©nÃ¡nÃ­. UbÄ›hne hodina a potÃ© dalÅ¡Ã­. ZabuÅ¡Ã­Å¡ na dveÅ™e a zakÅ™iÄÃ­Å¡, "PospÄ›Å¡te si!" Nakonec se vzdychÃ¡nÃ­ zmÄ›nÃ­ na hlasitÃ© vÃ½kÅ™iky.)}
+{371}{}{[ZabuÅ¡it na dveÅ™e] Hej, co to tam dÄ›lÃ¡te!?}
+{380}{}{(Z loÅ¾nice vyjde usmÃ­vajÃ­cÃ­ se Lao Chou oblÃ©kajÃ­cÃ­ si kalhoty. O chvÃ­li pozdÄ›ji se za nÃ­m pÅ™iklopÃ½tÃ¡ omÃ¡menÃ¡ a zmatenÃ¡ Miria s velmi uspokojenÃ½m vÃ½razem.) Tvoje Å¾ena je mnohem zkuÅ¡enÄ›jÅ¡Ã­, neÅ¾ vypadÃ¡.}
+{381}{}{JÃ¡, eh, vÃ­m. TeÄ si oblÃ©kni ty zatracenÃ½ kalhoty a Å™ekni mi, co je tak zvlÃ¡Å¡tnÃ­ho na tom tankeru.}
+{390}{}{Na tom tankeru nenÃ­ nic zvlÃ¡Å¡tnÃ­ho. Je to jen starÃ½, velkÃ½, rezavÃ½ tanker. Za to naÅ¡e ponorka...}
 {391}{}{Ponorka?}
-{400}{}{Shi-Huang-Ti. Mùj pradìdeèek Ye Li byl její kapitán. Odpálil z ní atomové hlavice na pobøeí Kalifornie jako z rozzuøeného draka.}
+{400}{}{Shi-Huang-Ti. MÅ¯j pradÄ›deÄek Ye Li byl jejÃ­ kapitÃ¡n. OdpÃ¡lil z nÃ­ atomovÃ© hlavice na pobÅ™eÅ¾Ã­ Kalifornie jako z rozzuÅ™enÃ©ho draka.}
 {401}{}{Nekecej.}
-{410}{}{Ironií je, e se jedna porouchaná raketa z naší vlasti dostala mimo kurz a explodovala nad oceánem poblí Shi-Huang-Ti. Vıbuch vyøadil její systémy a zanechal kapitána Ye Li i s jeho posádkou ztroskotané na moøi.}
-{411}{}{Tomu se øíká karma.}
-{420}{}{Ale pak pøišla záchrana. Po tıdnech unášení proudy a vìtrem narazila koneènì ponorka na mìlèinu v San Franciské zátoce. Toto mìsto se stalo naším novım domovem. Nakonec jsme Shi-Huang-Ti zrekonstruovali. Její zamìøovací systém i zbranì. Má dostatek palebné síly na to, aby z vody smetla jakéhokoliv potencionálního nepøítele. Take i kdyby se ti podaøilo zprovoznit ten starı tanker, tak se nedostaneš moc daleko, jeliko ponorka znièí jakékoliv plavidlo plující zálivem, které nepatøí Èínì.}
-{421}{}{To zní jako problém. Jak se tedy dostanu do té ponorky?}
-{430}{}{Budeš muset plavat. Nebo si vzít motorovı èlun v pøístavu, ale ten hlídá jeden z našich nejlepších vojákù a nenechá jen tak nìjakého cizince projít.}
-{431}{}{Máš nìjakou pøedstavu, jak se pøes nìj dostat, ani bych mu vystøelil mozek?}
-{440}{}{Má pøísné rozkazy ho hlídat nonstop. Nikoho nenechá projít bez správného hesla.}
-{441}{}{Náhodou to heslo asi neznáš, e ne?}
-{450}{}{To záleí na tom, jestli náhodou nemáš $10000 k zajištìní pokraèující prosperity mého obchodu.}
-{451}{}{Tady je tvıch $10000.}
-{452}{}{To je pøehnaná cena za jedno blbé heslo. Nemùu jít vıš ne $5000.}
-{453}{}{Tvoji nabídku odmítáme.}
-{460}{}{Váím si toho. Heslo je XY8QIV2SHI. Je moné, e mì potom bude nìkdo sledovat, take to heslo nezapomeò. A pokud se o tom budeme nìkdy opìt bavit, tak poèítej s ještì více penìzi na úplatky.}
-{461}{}{Díky. Sbohem.}
-{470}{}{Máš talent na smlouvání, to se musí nechat. Fajn. Pøijímám tvoji nabídku. Heslo je XY8QIV2SHI. A nezapomeò ho, jinak si ho budeš muset koupit znovu.}
-{471}{}{Díky. Sbohem.}
-{480}{}{Tak malá nabídka mì jen uráí. $10000. Ber, nebo nech bıt.}
-{481}{}{Fajn. Tady je tvıch $10000.}
-{482}{}{Tvoji nabídku odmítáme.}
-{490}{}{Tvoje mínus. Myslím, e u se nemáme spolu o èem bavit. Sbohem.}
+{410}{}{IroniÃ­ je, Å¾e se jedna porouchanÃ¡ raketa z naÅ¡Ã­ vlasti dostala mimo kurz a explodovala nad oceÃ¡nem poblÃ­Å¾ Shi-Huang-Ti. VÃ½buch vyÅ™adil jejÃ­ systÃ©my a zanechal kapitÃ¡na Ye Li i s jeho posÃ¡dkou ztroskotanÃ© na moÅ™i.}
+{411}{}{Tomu se Å™Ã­kÃ¡ karma.}
+{420}{}{Ale pak pÅ™iÅ¡la zÃ¡chrana. Po tÃ½dnech unÃ¡Å¡enÃ­ proudy a vÄ›trem narazila koneÄnÄ› ponorka na mÄ›lÄinu v San FranciskÃ© zÃ¡toce. Toto mÄ›sto se stalo naÅ¡Ã­m novÃ½m domovem. Nakonec jsme Shi-Huang-Ti zrekonstruovali. JejÃ­ zamÄ›Å™ovacÃ­ systÃ©m i zbranÄ›. MÃ¡ dostatek palebnÃ© sÃ­ly na to, aby z vody smetla jakÃ©hokoliv potencionÃ¡lnÃ­ho nepÅ™Ã­tele. TakÅ¾e i kdyby se ti podaÅ™ilo zprovoznit ten starÃ½ tanker, tak se nedostaneÅ¡ moc daleko, jelikoÅ¾ ponorka zniÄÃ­ jakÃ©koliv plavidlo plujÃ­cÃ­ zÃ¡livem, kterÃ© nepatÅ™Ã­ ÄŒÃ­nÄ›.}
+{421}{}{To znÃ­ jako problÃ©m. Jak se tedy dostanu do tÃ© ponorky?}
+{430}{}{BudeÅ¡ muset plavat. Nebo si vzÃ­t motorovÃ½ Älun v pÅ™Ã­stavu, ale ten hlÃ­dÃ¡ jeden z naÅ¡ich nejlepÅ¡Ã­ch vojÃ¡kÅ¯ a nenechÃ¡ jen tak nÄ›jakÃ©ho cizince projÃ­t.}
+{431}{}{MÃ¡Å¡ nÄ›jakou pÅ™edstavu, jak se pÅ™es nÄ›j dostat, aniÅ¾ bych mu vystÅ™elil mozek?}
+{440}{}{MÃ¡ pÅ™Ã­snÃ© rozkazy ho hlÃ­dat nonstop. Nikoho nenechÃ¡ projÃ­t bez sprÃ¡vnÃ©ho hesla.}
+{441}{}{NÃ¡hodou to heslo asi neznÃ¡Å¡, Å¾e ne?}
+{450}{}{To zÃ¡leÅ¾Ã­ na tom, jestli nÃ¡hodou nemÃ¡Å¡ $10000 k zajiÅ¡tÄ›nÃ­ pokraÄujÃ­cÃ­ prosperity mÃ©ho obchodu.}
+{451}{}{Tady je tvÃ½ch $10000.}
+{452}{}{To je pÅ™ehnanÃ¡ cena za jedno blbÃ© heslo. NemÅ¯Å¾u jÃ­t vÃ½Å¡ neÅ¾ $5000.}
+{453}{}{Tvoji nabÃ­dku odmÃ­tÃ¡me.}
+{460}{}{VÃ¡Å¾Ã­m si toho. Heslo je XY8QIV2SHI. Je moÅ¾nÃ©, Å¾e mÄ› potom bude nÄ›kdo sledovat, takÅ¾e to heslo nezapomeÅˆ. A pokud se o tom budeme nÄ›kdy opÄ›t bavit, tak poÄÃ­tej s jeÅ¡tÄ› vÃ­ce penÄ›zi na Ãºplatky.}
+{461}{}{DÃ­ky. Sbohem.}
+{470}{}{MÃ¡Å¡ talent na smlouvÃ¡nÃ­, to se musÃ­ nechat. Fajn. PÅ™ijÃ­mÃ¡m tvoji nabÃ­dku. Heslo je XY8QIV2SHI. A nezapomeÅˆ ho, jinak si ho budeÅ¡ muset koupit znovu.}
+{471}{}{DÃ­ky. Sbohem.}
+{480}{}{Tak malÃ¡ nabÃ­dka mÄ› jen urÃ¡Å¾Ã­. $10000. Ber, nebo nech bÃ½t.}
+{481}{}{Fajn. Tady je tvÃ½ch $10000.}
+{482}{}{Tvoji nabÃ­dku odmÃ­tÃ¡me.}
+{490}{}{Tvoje mÃ­nus. MyslÃ­m, Å¾e uÅ¾ se nemÃ¡me spolu o Äem bavit. Sbohem.}
 {491}{}{Nashle.}

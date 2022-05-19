@@ -1,25 +1,25 @@
-{100}{}{Vidíš ostraitého stráce Shi.}
-{101}{}{Zamraèenì hledí a zdá se, e hlídá motorovı èlun. Vypadá to, e bere svou práci velmi vánì.}
-{200}{}{(Podezíravì si tì prohlíí.) Mùu ti pomoct?}
-{201}{}{Ne. Jsem v pohodì. Sbohem.}
-{202}{}{Jen mì zajímalo co dìláš.}
-{203}{}{Máš tu hezkou loï. Funguje ta vìc vùbec ještì?}
-{204}{}{Já jet na elezná rybo-ryba?}
-{210}{}{To tì nemusí zajímat, cizinèe. Vypadni.}
-{211}{}{Špatná odpovìï, kreténe. A bude tvoje poslední.}
-{212}{}{Staèí mi jen naznaèit. Není potøeba se hned chovat jako debil. Nashle.}
-{213}{}{Jak myslíš, kámo.}
-{220}{}{(Dívá se na tebe jako na to nejpitomìjší stvoøení, které si dokáe pøedstavit. Poté pomalu zavrtí hlavou.) Ty ádná projíïka. Be. Bì, nebo já støílet. Bum. Prásk. U rozumíš?}
-{221}{}{Dobe! Pápá!}
-{222}{}{Ty hnusná chlap. Já bacit hnusná chlap!}
-{230}{}{(Stráce sevøe svou zbraò a beze slova se na tebe zamraèí.)}
-{231}{}{Mùu si na chvilku pùjèit tu loï?}
-{232}{}{Jen se chci pøesvìdèit, jestli jsi poøád kretén. Jo, vypadá to, e jo. Nazdar.}
-{233}{}{Promiò, myslel jsem, eh, e jsi nìkdo jinı. Nashle.}
-{234}{}{Doufám, e tu vìc umíš pouít, protoe já si tu zasranou kocábku hodlám vzít tak jako tak.}
-{240}{}{(Dívá se na tebe jako na to nejpitomìjší stvoøení, které si dokáe pøedstavit. Poté pomalu zavrtí hlavou.) Ne. Teï odejdi. Zeptej se mì ještì na nìco a bude tì to bolet.}
-{241}{}{Dobøe, u jdu. Nashle.}
-{242}{}{Vánì?}
+{100}{}{VidÃ­Å¡ ostraÅ¾itÃ©ho strÃ¡Å¾ce Shi.}
+{101}{}{ZamraÄenÄ› hledÃ­ a zdÃ¡ se, Å¾e hlÃ­dÃ¡ motorovÃ½ Älun. VypadÃ¡ to, Å¾e bere svou prÃ¡ci velmi vÃ¡Å¾nÄ›.}
+{200}{}{(PodezÃ­ravÄ› si tÄ› prohlÃ­Å¾Ã­.) MÅ¯Å¾u ti pomoct?}
+{201}{}{Ne. Jsem v pohodÄ›. Sbohem.}
+{202}{}{Jen mÄ› zajÃ­malo co dÄ›lÃ¡Å¡.}
+{203}{}{MÃ¡Å¡ tu hezkou loÄ. Funguje ta vÄ›c vÅ¯bec jeÅ¡tÄ›?}
+{204}{}{JÃ¡ jet na Å¾eleznÃ¡ rybo-ryba?}
+{210}{}{To tÄ› nemusÃ­ zajÃ­mat, cizinÄe. Vypadni.}
+{211}{}{Å patnÃ¡ odpovÄ›Ä, kretÃ©ne. A bude tvoje poslednÃ­.}
+{212}{}{StaÄÃ­ mi jen naznaÄit. NenÃ­ potÅ™eba se hned chovat jako debil. Nashle.}
+{213}{}{Jak myslÃ­Å¡, kÃ¡mo.}
+{220}{}{(DÃ­vÃ¡ se na tebe jako na to nejpitomÄ›jÅ¡Ã­ stvoÅ™enÃ­, kterÃ© si dokÃ¡Å¾e pÅ™edstavit. PotÃ© pomalu zavrtÃ­ hlavou.) Ty Å¾Ã¡dnÃ¡ projÃ­Å¾Äka. BeÅ¾. BÄ›Å¾, nebo jÃ¡ stÅ™Ã­let. Bum. PrÃ¡sk. UÅ¾ rozumÃ­Å¡?}
+{221}{}{DobÅ¾e! PÃ¡pÃ¡!}
+{222}{}{Ty hnusnÃ¡ chlap. JÃ¡ bacit hnusnÃ¡ chlap!}
+{230}{}{(StrÃ¡Å¾ce sevÅ™e svou zbraÅˆ a beze slova se na tebe zamraÄÃ­.)}
+{231}{}{MÅ¯Å¾u si na chvilku pÅ¯jÄit tu loÄ?}
+{232}{}{Jen se chci pÅ™esvÄ›dÄit, jestli jsi poÅ™Ã¡d kretÃ©n. Jo, vypadÃ¡ to, Å¾e jo. Nazdar.}
+{233}{}{PromiÅˆ, myslel jsem, eh, Å¾e jsi nÄ›kdo jinÃ½. Nashle.}
+{234}{}{DoufÃ¡m, Å¾e tu vÄ›c umÃ­Å¡ pouÅ¾Ã­t, protoÅ¾e jÃ¡ si tu zasranou kocÃ¡bku hodlÃ¡m vzÃ­t tak jako tak.}
+{240}{}{(DÃ­vÃ¡ se na tebe jako na to nejpitomÄ›jÅ¡Ã­ stvoÅ™enÃ­, kterÃ© si dokÃ¡Å¾e pÅ™edstavit. PotÃ© pomalu zavrtÃ­ hlavou.) Ne. TeÄ odejdi. Zeptej se mÄ› jeÅ¡tÄ› na nÄ›co a bude tÄ› to bolet.}
+{241}{}{DobÅ™e, uÅ¾ jdu. Nashle.}
+{242}{}{VÃ¡Å¾nÄ›?}
 {250}{}{Vypadni odsud!}
-{251}{}{Sáhni na to ještì jednou a zabiju tì.}
-{252}{}{Varoval jsem tì!}
+{251}{}{SÃ¡hni na to jeÅ¡tÄ› jednou a zabiju tÄ›.}
+{252}{}{Varoval jsem tÄ›!}

@@ -1,17 +1,17 @@
-{100}{}{Vidíš poèítaèovı terminál.}
-{101}{}{Vidíš bezpeènostní poèítaèovı terminál.}
-{102}{}{Vidíš standardní poèítaèovı terminál. Zdá se bıt funkèní a pøipraven pro zadání vstupních dat.}
-{103}{}{Tento terminál monitoruje èinnost generátoru silového pole. Ukazuje, e všechno funguje normálnì.}
-{104}{}{Tento terminál monitoruje èinnost generátoru silového pole. Ukazuje, e je jednotka mimo provoz z dùvodu nedostatku energie.}
-{105}{}{Vypnout silové pole.}
-{106}{}{Zapnout silové pole.}
+{100}{}{VidÃ­Å¡ poÄÃ­taÄovÃ½ terminÃ¡l.}
+{101}{}{VidÃ­Å¡ bezpeÄnostnÃ­ poÄÃ­taÄovÃ½ terminÃ¡l.}
+{102}{}{VidÃ­Å¡ standardnÃ­ poÄÃ­taÄovÃ½ terminÃ¡l. ZdÃ¡ se bÃ½t funkÄnÃ­ a pÅ™ipraven pro zadÃ¡nÃ­ vstupnÃ­ch dat.}
+{103}{}{Tento terminÃ¡l monitoruje Äinnost generÃ¡toru silovÃ©ho pole. Ukazuje, Å¾e vÅ¡echno funguje normÃ¡lnÄ›.}
+{104}{}{Tento terminÃ¡l monitoruje Äinnost generÃ¡toru silovÃ©ho pole. Ukazuje, Å¾e je jednotka mimo provoz z dÅ¯vodu nedostatku energie.}
+{105}{}{Vypnout silovÃ© pole.}
+{106}{}{Zapnout silovÃ© pole.}
 {107}{}{Beru.}
-{108}{}{Zadáváš pøíkaz k deaktivaci silového pole.}
-{109}{}{Nedokáeš proniknout pøes bezpeènostní kódy, aby se dalo deaktivovat silové pole.}
+{108}{}{ZadÃ¡vÃ¡Å¡ pÅ™Ã­kaz k deaktivaci silovÃ©ho pole.}
+{109}{}{NedokÃ¡Å¾eÅ¡ proniknout pÅ™es bezpeÄnostnÃ­ kÃ³dy, aby se dalo deaktivovat silovÃ© pole.}
 {110}{}{Beru.}
-{111}{}{Zadáváš pøíkaz k aktivování silového pole.}
-{112}{}{Nedokáeš proniknout pøes bezpeènostní kódy, aby se dalo aktivovat silové pole.}
+{111}{}{ZadÃ¡vÃ¡Å¡ pÅ™Ã­kaz k aktivovÃ¡nÃ­ silovÃ©ho pole.}
+{112}{}{NedokÃ¡Å¾eÅ¡ proniknout pÅ™es bezpeÄnostnÃ­ kÃ³dy, aby se dalo aktivovat silovÃ© pole.}
 {113}{}{Beru.}
-{114}{}{Tento terminál monitoruje èinnost generátoru silového pole. Ukazuje, e je silové pole vypnuté.}
-{115}{}{Tento terminál monitoruje èinnost generátoru silového pole. Ukazuje, e je silové pole doèasnì vypnuté.}
-{116}{}{Tento terminál monitoruje èinnost generátoru silového pole. Ukazuje, e bylo silové pole narušeno.}
+{114}{}{Tento terminÃ¡l monitoruje Äinnost generÃ¡toru silovÃ©ho pole. Ukazuje, Å¾e je silovÃ© pole vypnutÃ©.}
+{115}{}{Tento terminÃ¡l monitoruje Äinnost generÃ¡toru silovÃ©ho pole. Ukazuje, Å¾e je silovÃ© pole doÄasnÄ› vypnutÃ©.}
+{116}{}{Tento terminÃ¡l monitoruje Äinnost generÃ¡toru silovÃ©ho pole. Ukazuje, Å¾e bylo silovÃ© pole naruÅ¡eno.}

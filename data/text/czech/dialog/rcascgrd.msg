@@ -1,93 +1,93 @@
-{100}{}{Vidíš statnì vypadající strá, která si tì prohlíí.}
-{101}{}{Vidíš jednoho z Ascortiho strácù.}
-{102}{}{Vidíš strá bedlivì pozorující okolní lidi.}
-{103}{}{Dej ty pracky pryè, Jacku.}
-{104}{}{Za svoji chamtivost zaplatíš.}
-{105}{}{To nebylo moc chytrı.}
-{106}{}{Snad si nemyslíš, e ti to projde?}
-{107}{}{Tady jsi skonèil.}
-{108}{}{Za tuhle práci by mel bıt zvláštní pøíplatek.}
-{109}{}{A já si zrovna øíkal, jaká je tu nuda. Díky, cizinèe.}
-{110}{}{Mejdan zaèíná.}
+{100}{}{VidÃ­Å¡ statnÄ› vypadajÃ­cÃ­ strÃ¡Å¾, kterÃ¡ si tÄ› prohlÃ­Å¾Ã­.}
+{101}{}{VidÃ­Å¡ jednoho z Ascortiho strÃ¡Å¾cÅ¯.}
+{102}{}{VidÃ­Å¡ strÃ¡Å¾ bedlivÄ› pozorujÃ­cÃ­ okolnÃ­ lidi.}
+{103}{}{Dej ty pracky pryÄ, Jacku.}
+{104}{}{Za svoji chamtivost zaplatÃ­Å¡.}
+{105}{}{To nebylo moc chytrÃ½.}
+{106}{}{Snad si nemyslÃ­Å¡, Å¾e ti to projde?}
+{107}{}{Tady jsi skonÄil.}
+{108}{}{Za tuhle prÃ¡ci by mel bÃ½t zvlÃ¡Å¡tnÃ­ pÅ™Ã­platek.}
+{109}{}{A jÃ¡ si zrovna Å™Ã­kal, jakÃ¡ je tu nuda. DÃ­ky, cizinÄe.}
+{110}{}{Mejdan zaÄÃ­nÃ¡.}
 {111}{}{To je ale ztroskotanec. }
-{112}{}{A já myslel, e jseš chytøejší.}
-{113}{}{Zrovna jsem se zaèínal nudit.}
-{114}{}{Jó! Mejdan zaèíná!}
+{112}{}{A jÃ¡ myslel, Å¾e jseÅ¡ chytÅ™ejÅ¡Ã­.}
+{113}{}{Zrovna jsem se zaÄÃ­nal nudit.}
+{114}{}{JÃ³! Mejdan zaÄÃ­nÃ¡!}
 {115}{}{Zatancujeme si.}
-{116}{}{Pøipraven na rvaèku?}
-{117}{}{Jo, tak se uka, drsòáku.}
-{118}{}{Chci vidìt, jak vypadaj tvoje vnitønosti.}
-{119}{}{Jsem fakt rád, e nebudu muset uklízet ten svinèík, co tu nadìlaj tvoje støeva.}
-{120}{}{U tejden jsem nezail poøádnou bitku.}
-{121}{}{Jo, jóóóóó!}
+{116}{}{PÅ™ipraven na rvaÄku?}
+{117}{}{Jo, tak se ukaÅ¾, drsÅˆÃ¡ku.}
+{118}{}{Chci vidÄ›t, jak vypadaj tvoje vnitÅ™nosti.}
+{119}{}{Jsem fakt rÃ¡d, Å¾e nebudu muset uklÃ­zet ten svinÄÃ­k, co tu nadÄ›laj tvoje stÅ™eva.}
+{120}{}{UÅ¾ tejden jsem nezaÅ¾il poÅ™Ã¡dnou bitku.}
+{121}{}{Jo, jÃ³Ã³Ã³Ã³Ã³!}
 {122}{}{Jdeme na to.}
-{123}{}{Nepokoušej se ojebávat zákazníky.}
-{124}{}{Teï uvidíš, co znamená plnı servis.}
-{125}{}{Nemùeš jen tak napadnout hosty a pak si klidnì odejít.}
-{126}{}{Tady nejseš doma, kamarádíèku.}
-{127}{}{Vyrušování tu trpìt nebudem.}
-{128}{}{Právì jsi vsadil svùj ivot a prohrál.}
-{129}{}{Vypadá to, e tohle prohraješ.}
-{130}{}{Za vyprovokování rvaèky z tebe teï nadìlám karbanátky.}
-{131}{}{Blbeèku.}
-{132}{}{Nemùeš tohle dìlat a oèekávat, e to pøeiješ.}
+{123}{}{NepokouÅ¡ej se ojebÃ¡vat zÃ¡kaznÃ­ky.}
+{124}{}{TeÄ uvidÃ­Å¡, co znamenÃ¡ plnÃ½ servis.}
+{125}{}{NemÅ¯Å¾eÅ¡ jen tak napadnout hosty a pak si klidnÄ› odejÃ­t.}
+{126}{}{Tady nejseÅ¡ doma, kamarÃ¡dÃ­Äku.}
+{127}{}{VyruÅ¡ovÃ¡nÃ­ tu trpÄ›t nebudem.}
+{128}{}{PrÃ¡vÄ› jsi vsadil svÅ¯j Å¾ivot a prohrÃ¡l.}
+{129}{}{VypadÃ¡ to, Å¾e tohle prohrajeÅ¡.}
+{130}{}{Za vyprovokovÃ¡nÃ­ rvaÄky z tebe teÄ nadÄ›lÃ¡m karbanÃ¡tky.}
+{131}{}{BlbeÄku.}
+{132}{}{NemÅ¯Å¾eÅ¡ tohle dÄ›lat a oÄekÃ¡vat, Å¾e to pÅ™eÅ¾ijeÅ¡.}
 {133}{}{Time to take you outta' da' gene-pool.}
-{134}{}{To nebylo chytrı.}
-{135}{}{Je mi líto, e k tomu muselo dojít.}
-{136}{}{Uboáku.}
+{134}{}{To nebylo chytrÃ½.}
+{135}{}{Je mi lÃ­to, Å¾e k tomu muselo dojÃ­t.}
+{136}{}{UboÅ¾Ã¡ku.}
 {137}{}{Tady bude klid.}
-{138}{}{Tohle tì bude bolet víc ne nás.}
-{139}{}{Je èas zaplatit, pøíteli.}
-{140}{}{Øíkal jsem ti, a toho necháš. Škoda, e neposloucháš.}
-{141}{}{Teï ti ukáeme, zaè je toho loket.}
+{138}{}{Tohle tÄ› bude bolet vÃ­c neÅ¾ nÃ¡s.}
+{139}{}{Je Äas zaplatit, pÅ™Ã­teli.}
+{140}{}{Å˜Ã­kal jsem ti, aÅ¥ toho nechÃ¡Å¡. Å koda, Å¾e neposlouchÃ¡Å¡.}
+{141}{}{TeÄ ti ukÃ¡Å¾eme, zaÄ je toho loket.}
 {142}{}{Tohle bude opravdu bolet... ale tebe.}
-{143}{}{Radši zastrè tu pistolku, kamaráde.}
+{143}{}{RadÅ¡i zastrÄ tu pistolku, kamarÃ¡de.}
 {144}{}{We don't want any trouble here, friend. Put that away.}
-{145}{}{Radši dej tu vìcièku pryè.}
-{146}{}{Nech to pìknì v pouzdøe, chlape.}
-{147}{}{Schovej tu zbraò.}
-{148}{}{Radši dej tu zbraò pryè.}
-{149}{}{Dokud jseš tady, tak dr svoje ruèièky pìknì daleko od svejch bouchaèek.}
-{150}{}{Schovej tu zbraò, kámo.}
-{151}{}{Promiò, ale musím tì poádat, abys odloil svoji zbraò.}
-{152}{}{Dej tu zbraò pryè. Chceme tu klid.}
-{153}{}{Nestojíme tu o ádnı problémy.}
-{154}{}{Chovej se slušnì.}
-{155}{}{Buï pìknì v klidu.}
-{156}{}{Táhni odsud.}
-{157}{}{Tady není nic k vidìní.}
-{158}{}{Hezkı den.}
-{159}{}{Vítej u Ascortiho.}
-{160}{}{Chovej se pøátelsky.}
-{161}{}{Hezkı den.}
-{162}{}{U Ascortiho vyhrává kadej.}
-{163}{}{No a pak jim øíkám: dejte ty ruce pryè z mı...}
-{164}{}{Nemùu uvìøit, e nìkdo mùe bejt tak blbej a chtìl tu spát.}
-{165}{}{Jo, to je pìknì na prd.}
-{166}{}{Sakra, není mi nìjak dobøe.}
-{167}{}{To je jeden z Ascortiho nej zákazníkù.}
-{168}{}{Psst, dávej bacha, šéf se na nás kouká.}
-{169}{}{No, bylo to asi takhle, bylo jich nejmíò dvacet...}
-{170}{}{Z toho geckonskıho koláèe mì pálí áha.}
-{171}{}{Minulou noc pozdì v noci?}
-{172}{}{Z toho musíš mít asi poøádnou kocovinu, co?}
-{173}{}{Pøekraèujem zákony, pøekraèujem zákony.}
-{174}{}{Nemùeš jen tak pøijít do našeho mìsta a vyvádìt tu.}
-{175}{}{Nemùeš tu dìlat takovıhle kraviny.}
+{145}{}{RadÅ¡i dej tu vÄ›ciÄku pryÄ.}
+{146}{}{Nech to pÄ›knÄ› v pouzdÅ™e, chlape.}
+{147}{}{Schovej tu zbraÅˆ.}
+{148}{}{RadÅ¡i dej tu zbraÅˆ pryÄ.}
+{149}{}{Dokud jseÅ¡ tady, tak drÅ¾ svoje ruÄiÄky pÄ›knÄ› daleko od svejch bouchaÄek.}
+{150}{}{Schovej tu zbraÅˆ, kÃ¡mo.}
+{151}{}{PromiÅˆ, ale musÃ­m tÄ› poÅ¾Ã¡dat, abys odloÅ¾il svoji zbraÅˆ.}
+{152}{}{Dej tu zbraÅˆ pryÄ. Chceme tu klid.}
+{153}{}{NestojÃ­me tu o Å¾Ã¡dnÃ½ problÃ©my.}
+{154}{}{Chovej se sluÅ¡nÄ›.}
+{155}{}{BuÄ pÄ›knÄ› v klidu.}
+{156}{}{TÃ¡hni odsud.}
+{157}{}{Tady nenÃ­ nic k vidÄ›nÃ­.}
+{158}{}{HezkÃ½ den.}
+{159}{}{VÃ­tej u Ascortiho.}
+{160}{}{Chovej se pÅ™Ã¡telsky.}
+{161}{}{HezkÃ½ den.}
+{162}{}{U Ascortiho vyhrÃ¡vÃ¡ kaÅ¾dej.}
+{163}{}{No a pak jim Å™Ã­kÃ¡m: dejte ty ruce pryÄ z mÃ½...}
+{164}{}{NemÅ¯Å¾u uvÄ›Å™it, Å¾e nÄ›kdo mÅ¯Å¾e bejt tak blbej a chtÄ›l tu spÃ¡t.}
+{165}{}{Jo, to je pÄ›knÄ› na prd.}
+{166}{}{Sakra, nenÃ­ mi nÄ›jak dobÅ™e.}
+{167}{}{To je jeden z Ascortiho nej zÃ¡kaznÃ­kÅ¯.}
+{168}{}{Psst, dÃ¡vej bacha, Å¡Ã©f se na nÃ¡s koukÃ¡.}
+{169}{}{No, bylo to asi takhle, bylo jich nejmÃ­Åˆ dvacet...}
+{170}{}{Z toho geckonskÃ½ho kolÃ¡Äe mÄ› pÃ¡lÃ­ Å¾Ã¡ha.}
+{171}{}{Minulou noc pozdÄ› v noci?}
+{172}{}{Z toho musÃ­Å¡ mÃ­t asi poÅ™Ã¡dnou kocovinu, co?}
+{173}{}{PÅ™ekraÄujem zÃ¡kony, pÅ™ekraÄujem zÃ¡kony.}
+{174}{}{NemÅ¯Å¾eÅ¡ jen tak pÅ™ijÃ­t do naÅ¡eho mÄ›sta a vyvÃ¡dÄ›t tu.}
+{175}{}{NemÅ¯Å¾eÅ¡ tu dÄ›lat takovÃ½hle kraviny.}
 {176}{}{Lidi, jako jsi ty, tu nechceme.}
-{177}{}{Nìkdo by ti mìl dát poøádnì pøes hubu.}
-{178}{}{V tomhle mìstì nìco smrdí a já myslím, e jseš to ty.}
-{179}{}{Cejtím nìjakı hovno... á, to jsi ty.}
-{180}{}{Vypadni z našeho mìsta, mamrde.}
-{181}{}{U pìknì dlouho jsem nìkomu nerozbil lebku.}
-{182}{}{Za to zaplatíš krví.}
-{183}{}{*Opravdu* sis myslel, e si toho nevšimneme?}
-{184}{}{Nemùu uvìøit, e dìláš takovou kravinu pøímo pøed našima oèima.}
-{185}{}{Eh, promiò, ale PØESTAÒ DÌLAT KRAVINY!}
-{186}{}{Pøestaò blbnout s tìma dveøma, ty idiote.}
-{187}{}{Co tu dìláš?}
-{188}{}{Jeíši, ti zlodìji nemaj dneska ádnou úroveò. }
-{189}{}{Jdi pryè od tìch dveøí.}
-{190}{}{Nesahej na ty dveøe.}
-{191}{}{Jdi pryè od tìch dveøí.}
-{192}{}{Nesahej na ty dveøe.}
+{177}{}{NÄ›kdo by ti mÄ›l dÃ¡t poÅ™Ã¡dnÄ› pÅ™es hubu.}
+{178}{}{V tomhle mÄ›stÄ› nÄ›co smrdÃ­ a jÃ¡ myslÃ­m, Å¾e jseÅ¡ to ty.}
+{179}{}{CejtÃ­m nÄ›jakÃ½ hovno... Ã¡, to jsi ty.}
+{180}{}{Vypadni z naÅ¡eho mÄ›sta, mamrde.}
+{181}{}{UÅ¾ pÄ›knÄ› dlouho jsem nÄ›komu nerozbil lebku.}
+{182}{}{Za to zaplatÃ­Å¡ krvÃ­.}
+{183}{}{*Opravdu* sis myslel, Å¾e si toho nevÅ¡imneme?}
+{184}{}{NemÅ¯Å¾u uvÄ›Å™it, Å¾e dÄ›lÃ¡Å¡ takovou kravinu pÅ™Ã­mo pÅ™ed naÅ¡ima oÄima.}
+{185}{}{Eh, promiÅˆ, ale PÅ˜ESTAÅ‡ DÄšLAT KRAVINY!}
+{186}{}{PÅ™estaÅˆ blbnout s tÄ›ma dveÅ™ma, ty idiote.}
+{187}{}{Co tu dÄ›lÃ¡Å¡?}
+{188}{}{JeÅ¾Ã­Å¡i, ti zlodÄ›ji nemaj dneska Å¾Ã¡dnou ÃºroveÅˆ. }
+{189}{}{Jdi pryÄ od tÄ›ch dveÅ™Ã­.}
+{190}{}{Nesahej na ty dveÅ™e.}
+{191}{}{Jdi pryÄ od tÄ›ch dveÅ™Ã­.}
+{192}{}{Nesahej na ty dveÅ™e.}

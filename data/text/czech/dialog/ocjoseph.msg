@@ -1,63 +1,63 @@
-{100}{}{Vidíš malého mue drícího knihu.}
-{101}{}{Vidíš bylinkáøe Josepha.}
-{102}{}{Vidíš menšího mue s knihou, která se jmenuje "Byliny a jejich lékaøské vyuití."}
-{103}{}{Vítej, jsem bylinkáø Joseph. S èím ti mohu pomoci?}
-{104}{}{Mít bebí. Ty pomoct?}
-{105}{}{Cítit blbì. Ty pomoct?}
-{106}{}{Já ochrnout. Ty pomoct?}
-{107}{}{Mít otázky. Jo?}
-{108}{}{Promiò, já jít.}
-{109}{}{Mám zranìní. Mùeš mi pomoct?}
-{110}{}{Cítím se slabì. Mùeš mi pomoct?}
-{111}{}{Mám ochrnutou konèetinu. Mùeš mi pomoct?}
-{112}{}{Chci se tì na nìco zeptat.}
-{113}{}{Jen jsem tì chtìl pozdravit.}
-{114}{}{Ale zajisté. Hmmm. Asi budeš potøebovat trochu téhle masti, tak ji vetøeme pìknì do rány. Teï si tady lehni a chvíli si odpoèiò.}
-{115}{}{Já dík. Ahoj.}
-{116}{}{Díky, doktore. Cítím se mnohem lépe.}
-{117}{}{Ale zajisté. Hmm. Ale chvíli to zabere, take tady budeš muset zùstat pøes noc. Vypij tenhle nápoj... a do dna. Já vím, e chutná odpornì. A teï si tady lehni a já tì ráno probudím.}
-{118}{}{Já cítit dobøe. Ahoj.}
-{119}{}{Díky. To mi pomohlo.}
-{120}{}{Promiò, ale nejsem klasickı doktor, take neumím provádìt chirurgické zákroky. Doporuèoval bych ti zajít si do jednoho z velkıch mìst a tam vyhledat chirurga. Zkus tøeba New California Republic. Je to na vıchod odsud.}
-{121}{}{Dobøe. Ahoj.}
-{122}{}{Tak dobøe, ale stejnì díky.}
-{123}{}{Co potøebujete vìdìt?}
-{124}{}{Ty vìzeò?}
-{125}{}{Ty odejít odsud kdy chtít?}
-{126}{}{Co vìdìt o páraèi?}
-{127}{}{Kde ty tu vzít?}
-{128}{}{Já teï jít.}
-{129}{}{Jsi tu vìzeò?}
-{130}{}{Mùeš odejít kdykoliv chceš?}
-{131}{}{Co mi mùeš øíct o páraèích?}
+{100}{}{VidÃ­Å¡ malÃ©ho muÅ¾e drÅ¾Ã­cÃ­ho knihu.}
+{101}{}{VidÃ­Å¡ bylinkÃ¡Å™e Josepha.}
+{102}{}{VidÃ­Å¡ menÅ¡Ã­ho muÅ¾e s knihou, kterÃ¡ se jmenuje "Byliny a jejich lÃ©kaÅ™skÃ© vyuÅ¾itÃ­."}
+{103}{}{VÃ­tej, jsem bylinkÃ¡Å™ Joseph. S ÄÃ­m ti mohu pomoci?}
+{104}{}{MÃ­t bebÃ­. Ty pomoct?}
+{105}{}{CÃ­tit blbÄ›. Ty pomoct?}
+{106}{}{JÃ¡ ochrnout. Ty pomoct?}
+{107}{}{MÃ­t otÃ¡zky. Jo?}
+{108}{}{PromiÅˆ, jÃ¡ jÃ­t.}
+{109}{}{MÃ¡m zranÄ›nÃ­. MÅ¯Å¾eÅ¡ mi pomoct?}
+{110}{}{CÃ­tÃ­m se slabÄ›. MÅ¯Å¾eÅ¡ mi pomoct?}
+{111}{}{MÃ¡m ochrnutou konÄetinu. MÅ¯Å¾eÅ¡ mi pomoct?}
+{112}{}{Chci se tÄ› na nÄ›co zeptat.}
+{113}{}{Jen jsem tÄ› chtÄ›l pozdravit.}
+{114}{}{Ale zajistÃ©. Hmmm. Asi budeÅ¡ potÅ™ebovat trochu tÃ©hle masti, tak ji vetÅ™eme pÄ›knÄ› do rÃ¡ny. TeÄ si tady lehni a chvÃ­li si odpoÄiÅˆ.}
+{115}{}{JÃ¡ dÃ­k. Ahoj.}
+{116}{}{DÃ­ky, doktore. CÃ­tÃ­m se mnohem lÃ©pe.}
+{117}{}{Ale zajistÃ©. Hmm. Ale chvÃ­li to zabere, takÅ¾e tady budeÅ¡ muset zÅ¯stat pÅ™es noc. Vypij tenhle nÃ¡poj... aÅ¾ do dna. JÃ¡ vÃ­m, Å¾e chutnÃ¡ odpornÄ›. A teÄ si tady lehni a jÃ¡ tÄ› rÃ¡no probudÃ­m.}
+{118}{}{JÃ¡ cÃ­tit dobÅ™e. Ahoj.}
+{119}{}{DÃ­ky. To mi pomohlo.}
+{120}{}{PromiÅˆ, ale nejsem klasickÃ½ doktor, takÅ¾e neumÃ­m provÃ¡dÄ›t chirurgickÃ© zÃ¡kroky. DoporuÄoval bych ti zajÃ­t si do jednoho z velkÃ½ch mÄ›st a tam vyhledat chirurga. Zkus tÅ™eba New California Republic. Je to na vÃ½chod odsud.}
+{121}{}{DobÅ™e. Ahoj.}
+{122}{}{Tak dobÅ™e, ale stejnÄ› dÃ­ky.}
+{123}{}{Co potÅ™ebujete vÄ›dÄ›t?}
+{124}{}{Ty vÄ›zeÅˆ?}
+{125}{}{Ty odejÃ­t odsud kdy chtÃ­t?}
+{126}{}{Co vÄ›dÄ›t o pÃ¡raÄi?}
+{127}{}{Kde ty tu vzÃ­t?}
+{128}{}{JÃ¡ teÄ jÃ­t.}
+{129}{}{Jsi tu vÄ›zeÅˆ?}
+{130}{}{MÅ¯Å¾eÅ¡ odejÃ­t kdykoliv chceÅ¡?}
+{131}{}{Co mi mÅ¯Å¾eÅ¡ Å™Ã­ct o pÃ¡raÄÃ­ch?}
 {132}{}{Jak ses sem dostal?}
-{133}{}{Díky za informace. U musím jít.}
-{134}{}{Ne, nejsem vìzeò. Zùstávám tu, protoe jsem potøebnı. Nauèil jsem se pøijmout fakt, e mnozí moji pacienti jsou páraèi.}
-{135}{}{Dobøe. Potøebovat vìdìt víc.}
-{136}{}{Dík. Naskle.}
-{137}{}{To je od tebe velmi chvályhodné.}
+{133}{}{DÃ­ky za informace. UÅ¾ musÃ­m jÃ­t.}
+{134}{}{Ne, nejsem vÄ›zeÅˆ. ZÅ¯stÃ¡vÃ¡m tu, protoÅ¾e jsem potÅ™ebnÃ½. NauÄil jsem se pÅ™ijmout fakt, Å¾e mnozÃ­ moji pacienti jsou pÃ¡raÄi.}
+{135}{}{DobÅ™e. PotÅ™ebovat vÄ›dÄ›t vÃ­c.}
+{136}{}{DÃ­k. Naskle.}
+{137}{}{To je od tebe velmi chvÃ¡lyhodnÃ©.}
 {138}{}{Aha.}
-{139}{}{Sice je to rozhodnutí se kterım nesouhlasím, ale je to tvùj ivot.}
-{140}{}{Ano, mùu a také to èasto dìlám. Èas od èasu musím jít nasbírat byliny a ještì nikdo se mì nepokusil zastavit. Kolikrát mì napadlo, jestli mì páraèi náhodou tajnì nesledují a jestli by mì zastavili, kdybych se pokusil utéct. Jednoho dne jsem to otestoval v praxi.}
-{141}{}{Já chápat. Já jít.}
-{142}{}{Potøebovat zeptat víc.}
-{143}{}{Mìl jsi štìstí, e to vyšlo.}
-{144}{}{Tak dobøe.}
-{145}{}{Dobrı nápad. Vidím, e fungoval.}
-{146}{}{No, hmm... zdá se, e páraèi zmutovali z chameleona tøírohého, z té rohatìjší verze. Mnoho rysù sice stále zùstalo, ale i pøesto se velmi odlišují. Faktor mutace je zde opravdu velikı. Tito tvorové jsou vysoce inteligentní, zhruba na úrovni osmiletého dítìte, a v nìkterıch pøípadech se vyrovnají i prùmìrnému dospìlému èlovìku. Kapacita jejich mozku je velmi vysoká a navíc jsou schopni abstraktního myšlení a uvaování.}
-{147}{}{Eh... co ty øíkat?}
-{148}{}{Muset teï jít.}
+{139}{}{Sice je to rozhodnutÃ­ se kterÃ½m nesouhlasÃ­m, ale je to tvÅ¯j Å¾ivot.}
+{140}{}{Ano, mÅ¯Å¾u a takÃ© to Äasto dÄ›lÃ¡m. ÄŒas od Äasu musÃ­m jÃ­t nasbÃ­rat byliny a jeÅ¡tÄ› nikdo se mÄ› nepokusil zastavit. KolikrÃ¡t mÄ› napadlo, jestli mÄ› pÃ¡raÄi nÃ¡hodou tajnÄ› nesledujÃ­ a jestli by mÄ› zastavili, kdybych se pokusil utÃ©ct. Jednoho dne jsem to otestoval v praxi.}
+{141}{}{JÃ¡ chÃ¡pat. JÃ¡ jÃ­t.}
+{142}{}{PotÅ™ebovat zeptat vÃ­c.}
+{143}{}{MÄ›l jsi Å¡tÄ›stÃ­, Å¾e to vyÅ¡lo.}
+{144}{}{Tak dobÅ™e.}
+{145}{}{DobrÃ½ nÃ¡pad. VidÃ­m, Å¾e fungoval.}
+{146}{}{No, hmm... zdÃ¡ se, Å¾e pÃ¡raÄi zmutovali z chameleona tÅ™Ã­rohÃ©ho, z tÃ© rohatÄ›jÅ¡Ã­ verze. Mnoho rysÅ¯ sice stÃ¡le zÅ¯stalo, ale i pÅ™esto se velmi odliÅ¡ujÃ­. Faktor mutace je zde opravdu velikÃ½. Tito tvorovÃ© jsou vysoce inteligentnÃ­, zhruba na Ãºrovni osmiletÃ©ho dÃ­tÄ›te, a v nÄ›kterÃ½ch pÅ™Ã­padech se vyrovnajÃ­ i prÅ¯mÄ›rnÃ©mu dospÄ›lÃ©mu ÄlovÄ›ku. Kapacita jejich mozku je velmi vysokÃ¡ a navÃ­c jsou schopni abstraktnÃ­ho myÅ¡lenÃ­ a uvaÅ¾ovÃ¡nÃ­.}
+{147}{}{Eh... co ty Å™Ã­kat?}
+{148}{}{Muset teÄ jÃ­t.}
 {149}{}{Aha.}
-{150}{}{Páni, tvoje vìdomosti jsou úasné.}
-{151}{}{To zní jako pìkná blbost.}
-{152}{}{Jednou v noci jsem sbíral bylinky a zavolal na mì z temnoty nìjakı hlas. 'U dlouho tì sleduji,' øekl, 'a vím, e jsi léèitel. Jsi svému umìní natolik oddanı, e bys byl ochoten léèit nìkoho, kdo není èlovìk? Nìkoho, o kom se øíká, e je nepøítel?'}
+{150}{}{PÃ¡ni, tvoje vÄ›domosti jsou ÃºÅ¾asnÃ©.}
+{151}{}{To znÃ­ jako pÄ›knÃ¡ blbost.}
+{152}{}{Jednou v noci jsem sbÃ­ral bylinky a zavolal na mÄ› z temnoty nÄ›jakÃ½ hlas. 'UÅ¾ dlouho tÄ› sleduji,' Å™ekl, 'a vÃ­m, Å¾e jsi lÃ©Äitel. Jsi svÃ©mu umÄ›nÃ­ natolik oddanÃ½, Å¾e bys byl ochoten lÃ©Äit nÄ›koho, kdo nenÃ­ ÄlovÄ›k? NÄ›koho, o kom se Å™Ã­kÃ¡, Å¾e je nepÅ™Ã­tel?'}
 {153}{}{Eh.}
-{154}{}{Díky. Já muset jít.}
-{155}{}{Taková škoda tady plıtvat èasem, zatímco bys mohl pomáhat jinım.}
-{156}{}{Jsi opravdu oddanı mu, kterı zasluhuje uznání.}
-{157}{}{Zajímavé.}
-{158}{}{Nebudu pomáhat nìkomu takovému, jako jsi ty. Jdi pryè.}
-{159}{}{Odjel jsem asi na tıden do jiného mìsta. Kdy jsem se vrátil, byl jsem srdeènì pøivítán. Gruthar, vùdce smeèky, za mnou pøišel a osobnì mi podìkoval za to, e jsem se vrátil zpìt. Ne, jsem tu, protoe tu bıt chci.}
-{160}{}{A aèkoliv nemají hlasivky, vypadá to, e páraèi napodobují lidskou artikulaci podobnì jako tøeba papoušci. Zatím jsem ale ještì nepøišel na to, jak to pøesnì dìlají, take o tom zatím nemohu øíct více. Co se tıèe spoleèenského uspoøádání, jsou to zvíøata ijící ve smeèce s velmi pøísnou morálkou. Jejich vùdcem je vdy 'alfa samec', kterı vládne se souhlasem smeèky. Zdá se, e jsou extrémnì loajální ke smeèce, která je pro nì nìco jako jedna velká rodina. Neijí v malıch uzavøenıch rodinách jako lidé.}
-{161}{}{Velmi dobøe chápou rozdíl mezi dobrem a zlem. Mají etickı kodex, kterı vyznává celá smeèka. Pokud je mi známo, násilí není nikdy pouíváno k øešení problému. Nebyly zde spáchány ádné 'veliké zloèiny', take nemohu øíct, jak takovéto situace øeší. Hmmm. To je asi tak vše, co mì napadá. Doufám, e ti to pomohlo.}
-{162}{}{Odpovìdìl jsem mu, e uznávám všechen ivot a udìlám vše, co bude v mıch silách, abych uzdravil nemocné nebo zranìné, lhostejno, kdo jsou, nebo kım byli. Myslel jsem, e je to nìjakı zlodìj nebo nájezdník, kterı se zranil a potøeboval doktora. Nedokáeš si ani pøedstavit, jak jsem byl pøekvapenı, kdy na mì uprostøed noci vyskoèilo nìkolik páraèù se svım zranìnım pøítelem. Nìkdo ho opravdu zle postøelil. Øekl jsem jim, e s ním tady nic neudìlám, take mi dali šátek pøes oèi a odvedli mì sem. Od té doby tu iju.}
+{154}{}{DÃ­ky. JÃ¡ muset jÃ­t.}
+{155}{}{TakovÃ¡ Å¡koda tady plÃ½tvat Äasem, zatÃ­mco bys mohl pomÃ¡hat jinÃ½m.}
+{156}{}{Jsi opravdu oddanÃ½ muÅ¾, kterÃ½ zasluhuje uznÃ¡nÃ­.}
+{157}{}{ZajÃ­mavÃ©.}
+{158}{}{Nebudu pomÃ¡hat nÄ›komu takovÃ©mu, jako jsi ty. Jdi pryÄ.}
+{159}{}{Odjel jsem asi na tÃ½den do jinÃ©ho mÄ›sta. KdyÅ¾ jsem se vrÃ¡til, byl jsem srdeÄnÄ› pÅ™ivÃ­tÃ¡n. Gruthar, vÅ¯dce smeÄky, za mnou pÅ™iÅ¡el a osobnÄ› mi podÄ›koval za to, Å¾e jsem se vrÃ¡til zpÄ›t. Ne, jsem tu, protoÅ¾e tu bÃ½t chci.}
+{160}{}{A aÄkoliv nemajÃ­ hlasivky, vypadÃ¡ to, Å¾e pÃ¡raÄi napodobujÃ­ lidskou artikulaci podobnÄ› jako tÅ™eba papouÅ¡ci. ZatÃ­m jsem ale jeÅ¡tÄ› nepÅ™iÅ¡el na to, jak to pÅ™esnÄ› dÄ›lajÃ­, takÅ¾e o tom zatÃ­m nemohu Å™Ã­ct vÃ­ce. Co se tÃ½Äe spoleÄenskÃ©ho uspoÅ™Ã¡dÃ¡nÃ­, jsou to zvÃ­Å™ata Å¾ijÃ­cÃ­ ve smeÄce s velmi pÅ™Ã­snou morÃ¡lkou. Jejich vÅ¯dcem je vÅ¾dy 'alfa samec', kterÃ½ vlÃ¡dne se souhlasem smeÄky. ZdÃ¡ se, Å¾e jsou extrÃ©mnÄ› loajÃ¡lnÃ­ ke smeÄce, kterÃ¡ je pro nÄ› nÄ›co jako jedna velkÃ¡ rodina. NeÅ¾ijÃ­ v malÃ½ch uzavÅ™enÃ½ch rodinÃ¡ch jako lidÃ©.}
+{161}{}{Velmi dobÅ™e chÃ¡pou rozdÃ­l mezi dobrem a zlem. MajÃ­ etickÃ½ kodex, kterÃ½ vyznÃ¡vÃ¡ celÃ¡ smeÄka. Pokud je mi znÃ¡mo, nÃ¡silÃ­ nenÃ­ nikdy pouÅ¾Ã­vÃ¡no k Å™eÅ¡enÃ­ problÃ©mu. Nebyly zde spÃ¡chÃ¡ny Å¾Ã¡dnÃ© 'velikÃ© zloÄiny', takÅ¾e nemohu Å™Ã­ct, jak takovÃ©to situace Å™eÅ¡Ã­. Hmmm. To je asi tak vÅ¡e, co mÄ› napadÃ¡. DoufÃ¡m, Å¾e ti to pomohlo.}
+{162}{}{OdpovÄ›dÄ›l jsem mu, Å¾e uznÃ¡vÃ¡m vÅ¡echen Å¾ivot a udÄ›lÃ¡m vÅ¡e, co bude v mÃ½ch silÃ¡ch, abych uzdravil nemocnÃ© nebo zranÄ›nÃ©, lhostejno, kdo jsou, nebo kÃ½m byli. Myslel jsem, Å¾e je to nÄ›jakÃ½ zlodÄ›j nebo nÃ¡jezdnÃ­k, kterÃ½ se zranil a potÅ™eboval doktora. NedokÃ¡Å¾eÅ¡ si ani pÅ™edstavit, jak jsem byl pÅ™ekvapenÃ½, kdyÅ¾ na mÄ› uprostÅ™ed noci vyskoÄilo nÄ›kolik pÃ¡raÄÅ¯ se svÃ½m zranÄ›nÃ½m pÅ™Ã­telem. NÄ›kdo ho opravdu zle postÅ™elil. Å˜ekl jsem jim, Å¾e s nÃ­m tady nic neudÄ›lÃ¡m, takÅ¾e mi dali Å¡Ã¡tek pÅ™es oÄi a odvedli mÄ› sem. Od tÃ© doby tu Å¾iju.}

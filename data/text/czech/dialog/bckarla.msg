@@ -1,7 +1,7 @@
-{100}{}{Vidíš èlenku Khanù.}
-{101}{}{Vidíš Karlu, èlenku gangu Khanù.}
-{102}{}{Vidíš drsnì vypadající enu v kovovém brnìní. Nebıt jizev v oblièeji, byla by docela hezká.}
-{103}{}{Promluv si s Philem, kreténe.}
-{104}{}{Promluv si s Philem, krávo.}
-{105}{}{Dobøe.}
-{106}{}{Ta malá dìvka je mrtvá.}
+{100}{}{VidÃ­Å¡ Älenku KhanÅ¯.}
+{101}{}{VidÃ­Å¡ Karlu, Älenku gangu KhanÅ¯.}
+{102}{}{VidÃ­Å¡ drsnÄ› vypadajÃ­cÃ­ Å¾enu v kovovÃ©m brnÄ›nÃ­. NebÃ½t jizev v obliÄeji, byla by docela hezkÃ¡.}
+{103}{}{Promluv si s Philem, kretÃ©ne.}
+{104}{}{Promluv si s Philem, krÃ¡vo.}
+{105}{}{DobÅ™e.}
+{106}{}{Ta malÃ¡ dÄ›vka je mrtvÃ¡.}

@@ -1,27 +1,27 @@
-{170}{}{Zruènì odemykáš skøíòku.}
-{171}{}{Díky tvé nezkušenosti se zámek skøíòky zasekl.}
-{172}{}{Nepodaøilo se ti skøíòku odemknout.}
-{173}{}{ zkušenì odemyká skøíòku.}
-{174}{}{ díky nezkušenosti zablokoval zámek skøíòky.}
-{175}{}{ nedokáe skøíòku odemknout.}
-{176}{}{Podaøilo se ti vypáèit zámek u dveøí.}
-{177}{}{Pøi páèení zámku sis poranil záda a to ti zpùsobilo jeden bod poškození.}
-{178}{}{Pøi páèení zámku sis poranil záda a to ti zpùsobilo poškození za }
-{179}{}{ hit bodù.}
-{180}{}{Na vypáèení tohoto zámku nemáš dostateènou sílu.}
-{181}{}{ se podaøilo vypáèit zámek u dveøí.}
-{182}{}{ si poranil záda, kdy se pokoušel vypáèit zámek, co mu zpùsobilo jeden bod poškození.}
-{183}{}{ si poranil záda, kdy se pokoušel vypáèit zámek, co mu zpùsobilo poškození za }
-{184}{}{ hit bodù.}
-{185}{}{ nemá na vypáèení zámku dostateènou sílu.}
-{186}{}{ si poranil záda, kdy se pokoušel vypáèit zámek, co mu zpùsobilo jeden bod poškození.}
-{187}{}{ si poranila záda, kdy se pokoušela vypáèit zámek, co jí zpùsobilo poškození za }
-{188}{}{ hit bodù.}
-{189}{}{Rychle zamykáš zámek.}
-{190}{}{Nepovedlo se ti zámek zamknout.}
-{191}{}{ úspìšnì zamyká zámek.}
-{192}{}{ nedokáe zamknout zámek.}
-{203}{}{Zdá se, e je zamèeno.}
-{800}{}{Podaøilo se ti získat FOB.}
-{810}{}{Podaøilo se ti získat plány vertibirdu.}
-{820}{}{Podaøilo se ti získat K-9 motivátor.}
+{170}{}{ZruÄnÄ› odemykÃ¡Å¡ skÅ™Ã­Åˆku.}
+{171}{}{DÃ­ky tvÃ© nezkuÅ¡enosti se zÃ¡mek skÅ™Ã­Åˆky zasekl.}
+{172}{}{NepodaÅ™ilo se ti skÅ™Ã­Åˆku odemknout.}
+{173}{}{ zkuÅ¡enÄ› odemykÃ¡ skÅ™Ã­Åˆku.}
+{174}{}{ dÃ­ky nezkuÅ¡enosti zablokoval zÃ¡mek skÅ™Ã­Åˆky.}
+{175}{}{ nedokÃ¡Å¾e skÅ™Ã­Åˆku odemknout.}
+{176}{}{PodaÅ™ilo se ti vypÃ¡Äit zÃ¡mek u dveÅ™Ã­.}
+{177}{}{PÅ™i pÃ¡ÄenÃ­ zÃ¡mku sis poranil zÃ¡da a to ti zpÅ¯sobilo jeden bod poÅ¡kozenÃ­.}
+{178}{}{PÅ™i pÃ¡ÄenÃ­ zÃ¡mku sis poranil zÃ¡da a to ti zpÅ¯sobilo poÅ¡kozenÃ­ za }
+{179}{}{ hit bodÅ¯.}
+{180}{}{Na vypÃ¡ÄenÃ­ tohoto zÃ¡mku nemÃ¡Å¡ dostateÄnou sÃ­lu.}
+{181}{}{ se podaÅ™ilo vypÃ¡Äit zÃ¡mek u dveÅ™Ã­.}
+{182}{}{ si poranil zÃ¡da, kdyÅ¾ se pokouÅ¡el vypÃ¡Äit zÃ¡mek, coÅ¾ mu zpÅ¯sobilo jeden bod poÅ¡kozenÃ­.}
+{183}{}{ si poranil zÃ¡da, kdyÅ¾ se pokouÅ¡el vypÃ¡Äit zÃ¡mek, coÅ¾ mu zpÅ¯sobilo poÅ¡kozenÃ­ za }
+{184}{}{ hit bodÅ¯.}
+{185}{}{ nemÃ¡ na vypÃ¡ÄenÃ­ zÃ¡mku dostateÄnou sÃ­lu.}
+{186}{}{ si poranil zÃ¡da, kdyÅ¾ se pokouÅ¡el vypÃ¡Äit zÃ¡mek, coÅ¾ mu zpÅ¯sobilo jeden bod poÅ¡kozenÃ­.}
+{187}{}{ si poranila zÃ¡da, kdyÅ¾ se pokouÅ¡ela vypÃ¡Äit zÃ¡mek, coÅ¾ jÃ­ zpÅ¯sobilo poÅ¡kozenÃ­ za }
+{188}{}{ hit bodÅ¯.}
+{189}{}{Rychle zamykÃ¡Å¡ zÃ¡mek.}
+{190}{}{Nepovedlo se ti zÃ¡mek zamknout.}
+{191}{}{ ÃºspÄ›Å¡nÄ› zamykÃ¡ zÃ¡mek.}
+{192}{}{ nedokÃ¡Å¾e zamknout zÃ¡mek.}
+{203}{}{ZdÃ¡ se, Å¾e je zamÄeno.}
+{800}{}{PodaÅ™ilo se ti zÃ­skat FOB.}
+{810}{}{PodaÅ™ilo se ti zÃ­skat plÃ¡ny vertibirdu.}
+{820}{}{PodaÅ™ilo se ti zÃ­skat K-9 motivÃ¡tor.}

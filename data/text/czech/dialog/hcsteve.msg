@@ -1,114 +1,114 @@
-{100}{}{Vidíš usmìvavého mue obleèeného v koené zbroji.}
-{101}{}{Vidíš Steva, vítaèe Broken Hills.}
-{102}{}{Vidíš pøátelského chlapíka v koené zbroji. Vypadá to, jako kdyby tu èekal celı den, jen aby si mohl s nìkım popovídat.}
-{103}{}{Vítej! Jsem Steve. Já jsem ten, co ti øekne kde co je a co se dìje v našem krásném mìstì. Mùu tì nìkam nasmìrovat nebo ti s nìèím pomoct?}
+{100}{}{VidÃ­Å¡ usmÄ›vavÃ©ho muÅ¾e obleÄenÃ©ho v koÅ¾enÃ© zbroji.}
+{101}{}{VidÃ­Å¡ Steva, vÃ­taÄe Broken Hills.}
+{102}{}{VidÃ­Å¡ pÅ™Ã¡telskÃ©ho chlapÃ­ka v koÅ¾enÃ© zbroji. VypadÃ¡ to, jako kdyby tu Äekal celÃ½ den, jen aby si mohl s nÄ›kÃ½m popovÃ­dat.}
+{103}{}{VÃ­tej! Jsem Steve. JÃ¡ jsem ten, co ti Å™ekne kde co je a co se dÄ›je v naÅ¡em krÃ¡snÃ©m mÄ›stÄ›. MÅ¯Å¾u tÄ› nÄ›kam nasmÄ›rovat nebo ti s nÄ›ÄÃ­m pomoct?}
 {104}{}{Ehh...}
 {105}{}{Bokem Hilz?}
-{106}{}{Povìz mi o tomhle místì.}
-{107}{}{Kdo tu ije?}
-{108}{}{Kdo to tu øídí?}
-{109}{}{Nìjaké novinky?}
-{110}{}{Jaké tu poskytujete sluby?}
-{111}{}{Ne, promiòte.}
-{112}{}{Ach boe, další ubohé dítì z pustin. No, tak pojï dál. Brzy zjistíš, e jsme stejnì pohostinní jako ostatní mìsta v pustinì.}
-{113}{}{Paráda!}
-{114}{}{Opravdu. Mnoho štìstí, poutníku. A sbohem.}
+{106}{}{PovÄ›z mi o tomhle mÃ­stÄ›.}
+{107}{}{Kdo tu Å¾ije?}
+{108}{}{Kdo to tu Å™Ã­dÃ­?}
+{109}{}{NÄ›jakÃ© novinky?}
+{110}{}{JakÃ© tu poskytujete sluÅ¾by?}
+{111}{}{Ne, promiÅˆte.}
+{112}{}{Ach boÅ¾e, dalÅ¡Ã­ ubohÃ© dÃ­tÄ› z pustin. No, tak pojÄ dÃ¡l. Brzy zjistÃ­Å¡, Å¾e jsme stejnÄ› pohostinnÃ­ jako ostatnÃ­ mÄ›sta v pustinÄ›.}
+{113}{}{ParÃ¡da!}
+{114}{}{Opravdu. Mnoho Å¡tÄ›stÃ­, poutnÃ­ku. A sbohem.}
 {115}{}{Zbohem!}
-{116}{}{Broken Hills. Jsme hornické mìsto. Tìíme vìci a pak je prodáváme.}
-{117}{}{Tìíte?}
-{118}{}{Dávat!}
-{119}{}{Správnì, pøímo ze zemì. Máme vlastní dùl. Ale pochybuju, e by se v nìm pro tebe našla práce. Jestli chceš práci, zajdi za vetešníkem.}
-{120}{}{Dobøe.}
-{121}{}{Prodat vìci?}
-{122}{}{To, co vykopeme, prodáváme ostatním mìstùm v okolí. Potøebují to. Jestli chceš nìco prodat, mùeš si promluvit se spoustou zdejších obchodníkù. Nicménì já u se musím vrátit do práce. Mìj se a dávej na sebe pozor, ano?}
-{123}{}{Dobøe! Naskle!}
-{124}{}{Musím se vrátit do práce. Mìj se hezky a dávej na sebe pozor, ano?}
+{116}{}{Broken Hills. Jsme hornickÃ© mÄ›sto. TÄ›Å¾Ã­me vÄ›ci a pak je prodÃ¡vÃ¡me.}
+{117}{}{TÄ›Å¾Ã­te?}
+{118}{}{DÃ¡vat!}
+{119}{}{SprÃ¡vnÄ›, pÅ™Ã­mo ze zemÄ›. MÃ¡me vlastnÃ­ dÅ¯l. Ale pochybuju, Å¾e by se v nÄ›m pro tebe naÅ¡la prÃ¡ce. Jestli chceÅ¡ prÃ¡ci, zajdi za veteÅ¡nÃ­kem.}
+{120}{}{DobÅ™e.}
+{121}{}{Prodat vÄ›ci?}
+{122}{}{To, co vykopeme, prodÃ¡vÃ¡me ostatnÃ­m mÄ›stÅ¯m v okolÃ­. PotÅ™ebujÃ­ to. Jestli chceÅ¡ nÄ›co prodat, mÅ¯Å¾eÅ¡ si promluvit se spoustou zdejÅ¡Ã­ch obchodnÃ­kÅ¯. NicmÃ©nÄ› jÃ¡ uÅ¾ se musÃ­m vrÃ¡tit do prÃ¡ce. MÄ›j se a dÃ¡vej na sebe pozor, ano?}
+{123}{}{DobÅ™e! Naskle!}
+{124}{}{MusÃ­m se vrÃ¡tit do prÃ¡ce. MÄ›j se hezky a dÃ¡vej na sebe pozor, ano?}
 {125}{}{You again? Well, you know what you have to do -- be good and careful. Take care!}
-{126}{}{Dobøe! Pápááááá!}
-{127}{}{Schovej tu zbraò, kamaráde. Dokud budeš mít prst na spoušti, tak ode mì ádné informace nedostaneš.}
-{128}{}{Jsme malá tìební komunita. Tohle místo zaloil pøed mnoha lety náš šerif Marcus, spoleènì s muem jménem Jacob. Vybrali si tohle místo, protoe je to blízko loisek uranu. Chceš o tom slyšet víc?}
+{126}{}{DobÅ™e! PÃ¡pÃ¡Ã¡Ã¡Ã¡Ã¡!}
+{127}{}{Schovej tu zbraÅˆ, kamarÃ¡de. Dokud budeÅ¡ mÃ­t prst na spouÅ¡ti, tak ode mÄ› Å¾Ã¡dnÃ© informace nedostaneÅ¡.}
+{128}{}{Jsme malÃ¡ tÄ›Å¾ebnÃ­ komunita. Tohle mÃ­sto zaloÅ¾il pÅ™ed mnoha lety nÃ¡Å¡ Å¡erif Marcus, spoleÄnÄ› s muÅ¾em jmÃ©nem Jacob. Vybrali si tohle mÃ­sto, protoÅ¾e je to blÃ­zko loÅ¾isek uranu. ChceÅ¡ o tom slyÅ¡et vÃ­c?}
 {129}{}{Ano.}
 {130}{}{Ne.}
-{131}{}{Jsme spoleènost lidí, mutantù a ghoulù. Nemáme proti sobì ádné rasové pøedsudky jako tøeba ve Vault City. U nás jsou si všichni rovni.}
-{132}{}{ijete dohromady s mutanty? Copak nevíte, e jsou zlí?}
+{131}{}{Jsme spoleÄnost lidÃ­, mutantÅ¯ a ghoulÅ¯. NemÃ¡me proti sobÄ› Å¾Ã¡dnÃ© rasovÃ© pÅ™edsudky jako tÅ™eba ve Vault City. U nÃ¡s jsou si vÅ¡ichni rovni.}
+{132}{}{Å½ijete dohromady s mutanty? Copak nevÃ­te, Å¾e jsou zlÃ­?}
 {133}{}{Rovni?}
-{134}{}{Dík. Naskle.}
-{135}{}{Šerif Marcus to tady øídí. Pomohl tohle místo zaloit a taky nám pomohl s našimi problémy. Ale ve skuteènosti mùe kadı ve mìstì prosadit svùj názor.}
-{136}{}{To mi pøijde nereálné.}
-{137}{}{To zní jako dobrı zpùsob, jak nìco øídit.}
-{138}{}{Pokraèuj.}
-{139}{}{Mutant, kterı pomohl zaloit tohle mìsto, ho poøád øídí? Ale to musí bıt opravdu velmi starı.}
-{140}{}{Dík. Naskle.}
-{141}{}{Kromì toho, e jsou všichni mutanti MRTVÍ a tohle mìsto je odsouzeno k ZÁNIKU...}
-{142}{}{Kromì toho, e jsou všichni mutanti MRTVÍ a náš jedinı zdroj ivobytí znièen...}
-{143}{}{Kromì toho, e ses stal hrdinou za to, e jsi mezi námi odhalil korupci...}
-{144}{}{Kromì toho, e máme teï mezi sebou rakovinu jménem Franc a Manson, kteøí utekli...}
+{134}{}{DÃ­k. Naskle.}
+{135}{}{Å erif Marcus to tady Å™Ã­dÃ­. Pomohl tohle mÃ­sto zaloÅ¾it a taky nÃ¡m pomohl s naÅ¡imi problÃ©my. Ale ve skuteÄnosti mÅ¯Å¾e kaÅ¾dÃ½ ve mÄ›stÄ› prosadit svÅ¯j nÃ¡zor.}
+{136}{}{To mi pÅ™ijde nereÃ¡lnÃ©.}
+{137}{}{To znÃ­ jako dobrÃ½ zpÅ¯sob, jak nÄ›co Å™Ã­dit.}
+{138}{}{PokraÄuj.}
+{139}{}{Mutant, kterÃ½ pomohl zaloÅ¾it tohle mÄ›sto, ho poÅ™Ã¡d Å™Ã­dÃ­? Ale to musÃ­ bÃ½t opravdu velmi starÃ½.}
+{140}{}{DÃ­k. Naskle.}
+{141}{}{KromÄ› toho, Å¾e jsou vÅ¡ichni mutanti MRTVÃ a tohle mÄ›sto je odsouzeno k ZÃNIKU...}
+{142}{}{KromÄ› toho, Å¾e jsou vÅ¡ichni mutanti MRTVÃ a nÃ¡Å¡ jedinÃ½ zdroj Å¾ivobytÃ­ zniÄen...}
+{143}{}{KromÄ› toho, Å¾e ses stal hrdinou za to, Å¾e jsi mezi nÃ¡mi odhalil korupci...}
+{144}{}{KromÄ› toho, Å¾e mÃ¡me teÄ mezi sebou rakovinu jmÃ©nem Franc a Manson, kteÅ™Ã­ utekli...}
 {145}{}{Aside from Chad's betrayal of the city and your justice -- for which everyone's grateful -- }
-{146}{}{Momentálnì se nedìje nic zvláštního.}
-{147}{}{Mám další otázky.}
+{146}{}{MomentÃ¡lnÄ› se nedÄ›je nic zvlÃ¡Å¡tnÃ­ho.}
+{147}{}{MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
 {148}{}{Nashle.}
 {149}{}{Ale, zase ty?}
 {150}{}{Ahoj.}
-{151}{}{Vítej zpìt.}
-{152}{}{Chceš vìdìt víc?}
-{153}{}{Nìjaké novinky?}
-{154}{}{Kdo to tu øídí?}
-{155}{}{Povìz mi o tomhle místì.}
-{156}{}{Kdo tu ije?}
-{157}{}{Jaké tu poskytujete sluby?}
-{158}{}{Ne, díky.}
-{159}{}{Naším ivobytím je tìba rudy z nedalekıch hor, kterou pak prodáváme do okolních mìst jako je tøeba Vault City, Gecko nebo New California Republic. Èást taky vyuíváme pro vlastní potøebu. Chceš vìdìt víc?}
+{151}{}{VÃ­tej zpÄ›t.}
+{152}{}{ChceÅ¡ vÄ›dÄ›t vÃ­c?}
+{153}{}{NÄ›jakÃ© novinky?}
+{154}{}{Kdo to tu Å™Ã­dÃ­?}
+{155}{}{PovÄ›z mi o tomhle mÃ­stÄ›.}
+{156}{}{Kdo tu Å¾ije?}
+{157}{}{JakÃ© tu poskytujete sluÅ¾by?}
+{158}{}{Ne, dÃ­ky.}
+{159}{}{NaÅ¡Ã­m Å¾ivobytÃ­m je tÄ›Å¾ba rudy z nedalekÃ½ch hor, kterou pak prodÃ¡vÃ¡me do okolnÃ­ch mÄ›st jako je tÅ™eba Vault City, Gecko nebo New California Republic. ÄŒÃ¡st taky vyuÅ¾Ã­vÃ¡me pro vlastnÃ­ potÅ™ebu. ChceÅ¡ vÄ›dÄ›t vÃ­c?}
 {160}{}{Ano.}
 {161}{}{Ne.}
-{162}{}{Všichni jsou si rovni. Všichni jsme vznikli z èlovìka. Pod vnìjší slupkou se skrıvá stejné jádro. Øíct o nìkom, e je zlı jen podle toho jak vypadá, mùe jen ignorant.}
-{163}{}{Ty mì nazıváš ignorantem?}
-{164}{}{To máš pravdu.}
-{165}{}{Ne tak docela. Kdo ví, co jim ten zmutovanı virus udìlal s myslí.}
-{166}{}{Nevadí. Nashle.}
-{167}{}{Zjistili jsme, e nám to docela vyhovuje. Navíc je Marcus a pozoruhodnì férovı.}
+{162}{}{VÅ¡ichni jsou si rovni. VÅ¡ichni jsme vznikli z ÄlovÄ›ka. Pod vnÄ›jÅ¡Ã­ slupkou se skrÃ½vÃ¡ stejnÃ© jÃ¡dro. Å˜Ã­ct o nÄ›kom, Å¾e je zlÃ½ jen podle toho jak vypadÃ¡, mÅ¯Å¾e jen ignorant.}
+{163}{}{Ty mÄ› nazÃ½vÃ¡Å¡ ignorantem?}
+{164}{}{To mÃ¡Å¡ pravdu.}
+{165}{}{Ne tak docela. Kdo vÃ­, co jim ten zmutovanÃ½ virus udÄ›lal s myslÃ­.}
+{166}{}{NevadÃ­. Nashle.}
+{167}{}{Zjistili jsme, Å¾e nÃ¡m to docela vyhovuje. NavÃ­c je Marcus aÅ¾ pozoruhodnÄ› fÃ©rovÃ½.}
 {168}{}{Kde ho najdu?}
 {169}{}{Nashle.}
-{170}{}{Je sice starı, ale poøád mu to myslí. To víš, je mutant a ti oèividnì ijí o trochu déle ne my.}
-{171}{}{Vy necháte MUTANTA øídit tohle mìsto? Zbláznili jste se nebo co?}
-{172}{}{Vánì? Mám takovı pocit, e vìtšina z nich u musí bıt po smrti.}
-{173}{}{Mutant a šerif, jo? To musí fungovat skvìle. Vsadím se, e tu vìtšina lidí dodruje zákon.}
+{170}{}{Je sice starÃ½, ale poÅ™Ã¡d mu to myslÃ­. To vÃ­Å¡, je mutant a ti oÄividnÄ› Å¾ijÃ­ o trochu dÃ©le neÅ¾ my.}
+{171}{}{Vy nechÃ¡te MUTANTA Å™Ã­dit tohle mÄ›sto? ZblÃ¡znili jste se nebo co?}
+{172}{}{VÃ¡Å¾nÄ›? MÃ¡m takovÃ½ pocit, Å¾e vÄ›tÅ¡ina z nich uÅ¾ musÃ­ bÃ½t po smrti.}
+{173}{}{Mutant a Å¡erif, jo? To musÃ­ fungovat skvÄ›le. VsadÃ­m se, Å¾e tu vÄ›tÅ¡ina lidÃ­ dodrÅ¾uje zÃ¡kon.}
 {174}{}{Nashle.}
 {175}{}{So now we're eking out a living, creating our own version of civilization, and doing our best
  to avoid giving in to Vault City or NCR -- we don't need their style of government. That's all.}
-{176}{}{Super. Mám další otázky.}
-{177}{}{Dík. Naskle.}
-{178}{}{Pokud stále trváš na tom, e mùeš nìkoho soudit podle jeho vzhledu, tak ano. Potom jsi nepochybnì ignorant.}
-{179}{}{Táhni k èertu, kámo. SÁM jsi ignorant.}
-{180}{}{Aha, no dobøe. Máš pravdu.}
-{181}{}{Tak to je asi tak všechno, co jsem ti chtìl øíct. Vítej v Broken Hills.}
-{182}{}{Èekat.}
+{176}{}{Super. MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
+{177}{}{DÃ­k. Naskle.}
+{178}{}{Pokud stÃ¡le trvÃ¡Å¡ na tom, Å¾e mÅ¯Å¾eÅ¡ nÄ›koho soudit podle jeho vzhledu, tak ano. Potom jsi nepochybnÄ› ignorant.}
+{179}{}{TÃ¡hni k Äertu, kÃ¡mo. SÃM jsi ignorant.}
+{180}{}{Aha, no dobÅ™e. MÃ¡Å¡ pravdu.}
+{181}{}{Tak to je asi tak vÅ¡echno, co jsem ti chtÄ›l Å™Ã­ct. VÃ­tej v Broken Hills.}
+{182}{}{ÄŒekat.}
 {183}{}{Nashle.}
 {184}{}{If the mutants intended us harm, they'd have moved on us before now. They're not going to last
  forever -- in fact, most of them are going senile now. Building a community isn't going to help them
  achieve their aims.}
-{185}{}{To máš pravdu.}
-{186}{}{Poøád jsou ale zlí.}
+{185}{}{To mÃ¡Å¡ pravdu.}
+{186}{}{PoÅ™Ã¡d jsou ale zlÃ­.}
 {187}{}{Nashle.}
-{188}{}{Kámo, èím víc s tebou mluvím, tím hloupìjší si pøipadám. S takovımi názory v Broken Hills dlouho nevydríš. A teï mì omluv, mám ještì nìjakou práci.}
-{189}{}{Kreténe.}
-{190}{}{Je èas zemøít, kreténe.}
+{188}{}{KÃ¡mo, ÄÃ­m vÃ­c s tebou mluvÃ­m, tÃ­m hloupÄ›jÅ¡Ã­ si pÅ™ipadÃ¡m. S takovÃ½mi nÃ¡zory v Broken Hills dlouho nevydrÅ¾Ã­Å¡. A teÄ mÄ› omluv, mÃ¡m jeÅ¡tÄ› nÄ›jakou prÃ¡ci.}
+{189}{}{KretÃ©ne.}
+{190}{}{Je Äas zemÅ™Ã­t, kretÃ©ne.}
 {191}{}{We have a mine, a refinery, a tavern, a hotel -- which, by the way, has lost its owner, so we
  just let people stay there free -- a hospital, a general store, and a chemist. We grow our own food.}
-{192}{}{Tak dobøe. Mám další otázky.}
+{192}{}{Tak dobÅ™e. MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
 {193}{}{Nashle.}
-{194}{}{No, vìtšina z nich taky je, jeliko jsou mutanti neplodní... tedy alespoò co já vím... take pomalu vymírají. Ti, co zbyli, jsou u senilní. Kromì Marcuse, ten je na tom poøád jako zamlada.}
+{194}{}{No, vÄ›tÅ¡ina z nich taky je, jelikoÅ¾ jsou mutanti neplodnÃ­... tedy alespoÅˆ co jÃ¡ vÃ­m... takÅ¾e pomalu vymÃ­rajÃ­. Ti, co zbyli, jsou uÅ¾ senilnÃ­. KromÄ› Marcuse, ten je na tom poÅ™Ã¡d jako zamlada.}
 {195}{}{Kde najdu Marcuse?}
-{196}{}{Mám další otázky.}
+{196}{}{MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
 {197}{}{Nashle.}
-{198}{}{Marcusi, jsi si jistı, e tu nechceš zùstat a ještì to tady chvíli øídit?}
-{199}{}{Marcus: To nemá budoucnost. Zvládnete to i beze mì.}
-{200}{}{[Více]}
-{201}{}{Kámo, nejsi tu vítán. U jsi toho pokazil dost.}
+{198}{}{Marcusi, jsi si jistÃ½, Å¾e tu nechceÅ¡ zÅ¯stat a jeÅ¡tÄ› to tady chvÃ­li Å™Ã­dit?}
+{199}{}{Marcus: To nemÃ¡ budoucnost. ZvlÃ¡dnete to i beze mÄ›.}
+{200}{}{[VÃ­ce]}
+{201}{}{KÃ¡mo, nejsi tu vÃ­tÃ¡n. UÅ¾ jsi toho pokazil dost.}
 {202}{}{[KONEC]}
 {300}{}{You can usually find Marcus near the bank -- that also serves as a tougher jail -- or at the
  Jail. Sometimes he's in the tavern or at home, but he's usually working.}
 {301}{}{A sakra!}
-{302}{}{Zatracenì!}
-{303}{}{Huráá!}
-{304}{}{Darebáci!}
-{305}{}{Ten proradnı parchant!}
+{302}{}{ZatracenÄ›!}
+{303}{}{HurÃ¡Ã¡!}
+{304}{}{DarebÃ¡ci!}
+{305}{}{Ten proradnÃ½ parchant!}

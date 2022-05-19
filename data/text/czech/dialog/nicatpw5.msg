@@ -1,1 +1,1 @@
-{100}{}{V èlánku byla spousta zajímavıch vìcí o energetickıch zbraních, které se ti urèitì budou hodit.}
+{100}{}{V ÄlÃ¡nku byla spousta zajÃ­mavÃ½ch vÄ›cÃ­ o energetickÃ½ch zbranÃ­ch, kterÃ© se ti urÄitÄ› budou hodit.}

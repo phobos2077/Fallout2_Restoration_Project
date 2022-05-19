@@ -1,127 +1,127 @@
-{100}{}{Vidíš starce se scvrklou kùí obleèeného v doktorském plášti.}
+{100}{}{VidÃ­Å¡ starce se scvrklou kÅ¯Å¾Ã­ obleÄenÃ©ho v doktorskÃ©m plÃ¡Å¡ti.}
 {101}{}{To je doktor Holliday.}
-{102}{}{Vidíš starce se scvrklou kùí obleèeného v lehce zakrváceném doktorském plášti. Vyzaøují z nìj ohromné vìdomosti. Také se zdá, e je trochu nemocnı.}
-{103}{}{::sípavì:: Vítám tì. Jsem doktor Holliday. Jak ti mùu pomoct?}
-{104}{}{Take co chceš?}
+{102}{}{VidÃ­Å¡ starce se scvrklou kÅ¯Å¾Ã­ obleÄenÃ©ho v lehce zakrvÃ¡cenÃ©m doktorskÃ©m plÃ¡Å¡ti. VyzaÅ™ujÃ­ z nÄ›j ohromnÃ© vÄ›domosti. TakÃ© se zdÃ¡, Å¾e je trochu nemocnÃ½.}
+{103}{}{::sÃ­pavÄ›:: VÃ­tÃ¡m tÄ›. Jsem doktor Holliday. Jak ti mÅ¯Å¾u pomoct?}
+{104}{}{TakÅ¾e co chceÅ¡?}
 {105}{}{Jauvajs!}
-{106}{}{Mám zranìní a potøebuju vyléèit.}
-{107}{}{Jeden z mıch pøátel je zranìnı a potøebuje vyléèit.}
-{108}{}{Co tady dìláš?}
-{109}{}{Povìz mi nìco o tomhle mìstì.}
-{110}{}{Neslyšel jsi nìjaké drby?}
-{111}{}{Potøebuju nìjaké Stimpaky.}
-{112}{}{Zapomeò na to. Promiò.}
-{113}{}{Uka, podívám se na to. Vyléèím tì, ale bude tì to nìco stát.}
+{106}{}{MÃ¡m zranÄ›nÃ­ a potÅ™ebuju vylÃ©Äit.}
+{107}{}{Jeden z mÃ½ch pÅ™Ã¡tel je zranÄ›nÃ½ a potÅ™ebuje vylÃ©Äit.}
+{108}{}{Co tady dÄ›lÃ¡Å¡?}
+{109}{}{PovÄ›z mi nÄ›co o tomhle mÄ›stÄ›.}
+{110}{}{NeslyÅ¡el jsi nÄ›jakÃ© drby?}
+{111}{}{PotÅ™ebuju nÄ›jakÃ© Stimpaky.}
+{112}{}{ZapomeÅˆ na to. PromiÅˆ.}
+{113}{}{UkaÅ¾, podÃ­vÃ¡m se na to. VylÃ©ÄÃ­m tÄ›, ale bude tÄ› to nÄ›co stÃ¡t.}
 {114}{}{Kolik za to?}
-{115}{}{Zapomeò na to.}
-{116}{}{Ano, to se dá vyléèit... ::sípavì:: za malı obnos.}
+{115}{}{ZapomeÅˆ na to.}
+{116}{}{Ano, to se dÃ¡ vylÃ©Äit... ::sÃ­pavÄ›:: za malÃ½ obnos.}
 {117}{}{Kolik za to?}
-{118}{}{Zapomeò na to.}
-{119}{}{Co tu dìlám? Jsi v nemocnici, já mám na sobì doktorskı pláš, jsem celı od krve a povalují se tu ostré špièaté vìci. Take buï jsem úspìšnı zabiják nebo slušnı doktor. Vyber si.}
-{120}{}{Asi ti budu øíkat doktore.}
-{121}{}{Nehraj si na chytrıho, staøíku.}
-{122}{}{Opravdu dobrı doktor by nebyl celı od krve.}
-{123}{}{Tak poslouchej. Pøed lety jsem se tu narodil. Zrovna se to tu zaèínalo rozjídìt. Kdy jsem byl ještì mladı, potloukal jsem se kolem a potkal jsem dívku. Zamiloval jsem se. Po èase onemocnìla a zemøela. Po této události jsem se rozhodl bıt doktorem.}
-{124}{}{Opravdu? Pokraèuj.}
-{125}{}{Mìl jsi mluvit o Broken Hills, ne o svém mládí.}
-{126}{}{Divil by ses, co dokáí lidé øíct, kdy proívají bolest.}
-{127}{}{Opravdu? Co tøeba?}
-{128}{}{U mì to nezajímá. Radìji se zeptám na nìco jiného.}
+{118}{}{ZapomeÅˆ na to.}
+{119}{}{Co tu dÄ›lÃ¡m? Jsi v nemocnici, jÃ¡ mÃ¡m na sobÄ› doktorskÃ½ plÃ¡Å¡Å¥, jsem celÃ½ od krve a povalujÃ­ se tu ostrÃ© Å¡piÄatÃ© vÄ›ci. TakÅ¾e buÄ jsem ÃºspÄ›Å¡nÃ½ zabijÃ¡k nebo sluÅ¡nÃ½ doktor. Vyber si.}
+{120}{}{Asi ti budu Å™Ã­kat doktore.}
+{121}{}{Nehraj si na chytrÃ½ho, staÅ™Ã­ku.}
+{122}{}{Opravdu dobrÃ½ doktor by nebyl celÃ½ od krve.}
+{123}{}{Tak poslouchej. PÅ™ed lety jsem se tu narodil. Zrovna se to tu zaÄÃ­nalo rozjÃ­Å¾dÄ›t. KdyÅ¾ jsem byl jeÅ¡tÄ› mladÃ½, potloukal jsem se kolem a potkal jsem dÃ­vku. Zamiloval jsem se. Po Äase onemocnÄ›la a zemÅ™ela. Po tÃ©to udÃ¡losti jsem se rozhodl bÃ½t doktorem.}
+{124}{}{Opravdu? PokraÄuj.}
+{125}{}{MÄ›l jsi mluvit o Broken Hills, ne o svÃ©m mlÃ¡dÃ­.}
+{126}{}{Divil by ses, co dokÃ¡Å¾Ã­ lidÃ© Å™Ã­ct, kdyÅ¾ proÅ¾Ã­vajÃ­ bolest.}
+{127}{}{Opravdu? Co tÅ™eba?}
+{128}{}{UÅ¾ mÄ› to nezajÃ­mÃ¡. RadÄ›ji se zeptÃ¡m na nÄ›co jinÃ©ho.}
 {129}{}{Bude to za $50.}
-{130}{}{Zaplatím.}
-{131}{}{Zapomeò na to.}
-{132}{}{Tak tohle zranìní tì pøijde na $100.}
-{133}{}{Zaplatím.}
-{134}{}{Zapomeò na to.}
-{135}{}{To muselo pìknì bolet. A bude to bolet i tvoji penìenku... $150.}
-{136}{}{Zaplatím.}
-{137}{}{Zapomeò na to.}
-{138}{}{Jau! Tohle nebude tak jednoduché. $200.}
-{139}{}{Zaplatím.}
-{140}{}{Zapomeò na to.}
-{141}{}{Fíha... no, pøíteli, tohle bude bolet. $300 a bude z tebe novı èlovìk.}
-{142}{}{Zaplatím.}
-{143}{}{Zapomeò na to.}
-{144}{}{Bude se cítit jako znovuzrozenı... ::sípavì:: za smìšnıch $50.}
-{145}{}{Zaplatím.}
-{146}{}{Zapomeò na to.}
-{147}{}{Dostali jste se do pìkné šlamastiky, e? Také jsem byl v mládí horká hlava a pár jich koupil. Tohle neštìstí tì pøijde na $100.}
-{148}{}{Zaplatím.}
-{149}{}{Zapomeò na to.}
-{150}{}{Poslyš, dáváš vùbec pozor na svoje pøátele? ::zakašlání:: Jestli chceš, abych se o toho kamaráda postaral, tak mi zapla $150.}
-{151}{}{Zaplatím.}
-{152}{}{Zapomeò na to.}
-{153}{}{Musíš bıt opravdu dobrı èlovìk, kdy jsou tví pøátelé tak oddaní. Doufám, e jsi dobrı... protoe tì to pøijde na ::zakašlání:: $200.}
-{154}{}{Zaplatím.}
-{155}{}{Zapomeò na to.}
-{156}{}{Jau! Na to budu muset dát dlahu nebo nìco takového. Mé široké lékaøské znalosti tì budou stát $300.}
-{157}{}{Zaplatím.}
-{158}{}{Zapomeò na to.}
-{159}{}{Pøíteli, nemáš dost penìz. Jestli chceš, prodám ti nìjaké Stimpaky, protoe s tím, co máš, si toho ode mì víc nekoupíš.}
+{130}{}{ZaplatÃ­m.}
+{131}{}{ZapomeÅˆ na to.}
+{132}{}{Tak tohle zranÄ›nÃ­ tÄ› pÅ™ijde na $100.}
+{133}{}{ZaplatÃ­m.}
+{134}{}{ZapomeÅˆ na to.}
+{135}{}{To muselo pÄ›knÄ› bolet. A bude to bolet i tvoji penÄ›Å¾enku... $150.}
+{136}{}{ZaplatÃ­m.}
+{137}{}{ZapomeÅˆ na to.}
+{138}{}{Jau! Tohle nebude tak jednoduchÃ©. $200.}
+{139}{}{ZaplatÃ­m.}
+{140}{}{ZapomeÅˆ na to.}
+{141}{}{FÃ­ha... no, pÅ™Ã­teli, tohle bude bolet. $300 a bude z tebe novÃ½ ÄlovÄ›k.}
+{142}{}{ZaplatÃ­m.}
+{143}{}{ZapomeÅˆ na to.}
+{144}{}{Bude se cÃ­tit jako znovuzrozenÃ½... ::sÃ­pavÄ›:: za smÄ›Å¡nÃ½ch $50.}
+{145}{}{ZaplatÃ­m.}
+{146}{}{ZapomeÅˆ na to.}
+{147}{}{Dostali jste se do pÄ›knÃ© Å¡lamastiky, Å¾e? TakÃ© jsem byl v mlÃ¡dÃ­ horkÃ¡ hlava a pÃ¡r jich koupil. Tohle neÅ¡tÄ›stÃ­ tÄ› pÅ™ijde na $100.}
+{148}{}{ZaplatÃ­m.}
+{149}{}{ZapomeÅˆ na to.}
+{150}{}{PoslyÅ¡, dÃ¡vÃ¡Å¡ vÅ¯bec pozor na svoje pÅ™Ã¡tele? ::zakaÅ¡lÃ¡nÃ­:: Jestli chceÅ¡, abych se o toho kamarÃ¡da postaral, tak mi zaplaÅ¥ $150.}
+{151}{}{ZaplatÃ­m.}
+{152}{}{ZapomeÅˆ na to.}
+{153}{}{MusÃ­Å¡ bÃ½t opravdu dobrÃ½ ÄlovÄ›k, kdyÅ¾ jsou tvÃ­ pÅ™Ã¡telÃ© tak oddanÃ­. DoufÃ¡m, Å¾e jsi dobrÃ½... protoÅ¾e tÄ› to pÅ™ijde na ::zakaÅ¡lÃ¡nÃ­:: $200.}
+{154}{}{ZaplatÃ­m.}
+{155}{}{ZapomeÅˆ na to.}
+{156}{}{Jau! Na to budu muset dÃ¡t dlahu nebo nÄ›co takovÃ©ho. MÃ© Å¡irokÃ© lÃ©kaÅ™skÃ© znalosti tÄ› budou stÃ¡t $300.}
+{157}{}{ZaplatÃ­m.}
+{158}{}{ZapomeÅˆ na to.}
+{159}{}{PÅ™Ã­teli, nemÃ¡Å¡ dost penÄ›z. Jestli chceÅ¡, prodÃ¡m ti nÄ›jakÃ© Stimpaky, protoÅ¾e s tÃ­m, co mÃ¡Å¡, si toho ode mÄ› vÃ­c nekoupÃ­Å¡.}
 {160}{}{Dej mi ty Stimpaky.}
-{161}{}{Ne, díky.}
-{162}{}{Bylo mi potìšením.}
-{163}{}{Díky.}
-{164}{}{To je nepøijatelné.}
+{161}{}{Ne, dÃ­ky.}
+{162}{}{Bylo mi potÄ›Å¡enÃ­m.}
+{163}{}{DÃ­ky.}
+{164}{}{To je nepÅ™ijatelnÃ©.}
 {165}{}{A co tohle?}
-{166}{}{Víc nabídnout nemùu. Sbohem.}
-{167}{}{::sípavì:: Máš zranìní? Tak uka, podívám se na to. Máš nìjaké peníze?}
+{166}{}{VÃ­c nabÃ­dnout nemÅ¯Å¾u. Sbohem.}
+{167}{}{::sÃ­pavÄ›:: MÃ¡Å¡ zranÄ›nÃ­? Tak ukaÅ¾, podÃ­vÃ¡m se na to. MÃ¡Å¡ nÄ›jakÃ© penÃ­ze?}
 {168}{}{Penis-e?}
 {169}{}{Jo!}
-{170}{}{Uka mi svùj batoh. (Hledá v batohu a nìco vytáhne.) Dobøe. Bude to teï trochu bolet.}
+{170}{}{UkaÅ¾ mi svÅ¯j batoh. (HledÃ¡ v batohu a nÄ›co vytÃ¡hne.) DobÅ™e. Bude to teÄ trochu bolet.}
 {171}{}{Bolet?}
-{172}{}{Ano. Tak... a je to! Hotovo. Hodnì štìstí, ano? Dávej na sebe pozor!}
-{173}{}{Díky!}
-{174}{}{Pøesnì tak, jsem doktor. Jsem rád, e jsou v tomhle post-nukleárním svìtì stále ještì inteligentní bytosti.}
-{175}{}{Ha! To øíká dìdek, kterımu je 70!}
-{176}{}{Hele dìdku, stejnì si od tebe ádnı sraèky nevezmu.}
-{177}{}{Ehmmm... jasnì. Chci se zeptat.}
+{172}{}{Ano. Tak... a je to! Hotovo. HodnÄ› Å¡tÄ›stÃ­, ano? DÃ¡vej na sebe pozor!}
+{173}{}{DÃ­ky!}
+{174}{}{PÅ™esnÄ› tak, jsem doktor. Jsem rÃ¡d, Å¾e jsou v tomhle post-nukleÃ¡rnÃ­m svÄ›tÄ› stÃ¡le jeÅ¡tÄ› inteligentnÃ­ bytosti.}
+{175}{}{Ha! To Å™Ã­kÃ¡ dÄ›dek, kterÃ½mu je 70!}
+{176}{}{Hele dÄ›dku, stejnÄ› si od tebe Å¾Ã¡dnÃ½ sraÄky nevezmu.}
+{177}{}{Ehmmm... jasnÄ›. Chci se zeptat.}
 {178}{}{Nashle.}
-{179}{}{Vyhroovat jedinému doktorovi ve mìstì není moc dobrı nápad. ::kašle:: Pøíteli, jestli ode mì nìco chceš, tak se mnou mluv slušnì. Jinak táhni z tıhle nemocnice.}
-{180}{}{Polib si, dìdku. Pøiprav se zemøít.}
-{181}{}{Jo, jasnì.}
-{182}{}{Promiò, mám špatnı den.}
+{179}{}{VyhroÅ¾ovat jedinÃ©mu doktorovi ve mÄ›stÄ› nenÃ­ moc dobrÃ½ nÃ¡pad. ::kaÅ¡le:: PÅ™Ã­teli, jestli ode mÄ› nÄ›co chceÅ¡, tak se mnou mluv sluÅ¡nÄ›. Jinak tÃ¡hni z tÃ½hle nemocnice.}
+{180}{}{Polib si, dÄ›dku. PÅ™iprav se zemÅ™Ã­t.}
+{181}{}{Jo, jasnÄ›.}
+{182}{}{PromiÅˆ, mÃ¡m Å¡patnÃ½ den.}
 {183}{}{Byla to jen legrace.}
-{184}{}{Ty jeden spratku, máš se ještì hodnì co uèit ohlednì slušného chování.}
-{185}{}{Dítì, máš se ještì co uèit ohlednì humoru.}
-{186}{}{Jo, dobøe.}
-{187}{}{Tak jo, nasral jsi mì. Teï se budeš muset léèit.}
-{188}{}{(I pøes své brıle jsou v jeho oèích vidìt záblesky smíchu.) To u dnes moc nikde neuvidíš. Napøíklad ta dnešní mláde...}
+{184}{}{Ty jeden spratku, mÃ¡Å¡ se jeÅ¡tÄ› hodnÄ› co uÄit ohlednÄ› sluÅ¡nÃ©ho chovÃ¡nÃ­.}
+{185}{}{DÃ­tÄ›, mÃ¡Å¡ se jeÅ¡tÄ› co uÄit ohlednÄ› humoru.}
+{186}{}{Jo, dobÅ™e.}
+{187}{}{Tak jo, nasral jsi mÄ›. TeÄ se budeÅ¡ muset lÃ©Äit.}
+{188}{}{(I pÅ™es svÃ© brÃ½le jsou v jeho oÄÃ­ch vidÄ›t zÃ¡blesky smÃ­chu.) To uÅ¾ dnes moc nikde neuvidÃ­Å¡. NapÅ™Ã­klad ta dneÅ¡nÃ­ mlÃ¡deÅ¾...}
 {189}{}{Hej!}
-{190}{}{Dìdku, nedrádi mì.}
-{191}{}{...má stejné znalosti, jako mìli naši staøí...}
-{192}{}{Jo, jo, jo... u musím jít.}
-{193}{}{Klid, dítì, jenom ertuju.}
-{194}{}{Jo, já vím. Take... ehm... }
-{195}{}{...mínus to, co vám odmítneme øíct, vy malí bastardi! (Dostane záchvat smíchu.) Dítì, a ode mì budeš zase chtít nìjaké léèení, máš to zadarmo.}
-{196}{}{Chci se ještì na nìco zeptat.}
-{197}{}{Díky. Uvidíme se pozdìji.}
-{198}{}{Máš zranìní? Tak uka, ošetøím tì.}
+{190}{}{DÄ›dku, nedrÃ¡Å¾di mÄ›.}
+{191}{}{...mÃ¡ stejnÃ© znalosti, jako mÄ›li naÅ¡i staÅ™Ã­...}
+{192}{}{Jo, jo, jo... uÅ¾ musÃ­m jÃ­t.}
+{193}{}{Klid, dÃ­tÄ›, jenom Å¾ertuju.}
+{194}{}{Jo, jÃ¡ vÃ­m. TakÅ¾e... ehm... }
+{195}{}{...mÃ­nus to, co vÃ¡m odmÃ­tneme Å™Ã­ct, vy malÃ­ bastardi! (Dostane zÃ¡chvat smÃ­chu.) DÃ­tÄ›, aÅ¾ ode mÄ› budeÅ¡ zase chtÃ­t nÄ›jakÃ© lÃ©ÄenÃ­, mÃ¡Å¡ to zadarmo.}
+{196}{}{Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{197}{}{DÃ­ky. UvidÃ­me se pozdÄ›ji.}
+{198}{}{MÃ¡Å¡ zranÄ›nÃ­? Tak ukaÅ¾, oÅ¡etÅ™Ã­m tÄ›.}
 {199}{}{Umm...}
-{200}{}{Díky. Nashle!}
-{201}{}{Kdo má zranìní? Aha, tak se postavte do øady a já se na vás podívám.}
+{200}{}{DÃ­ky. Nashle!}
+{201}{}{Kdo mÃ¡ zranÄ›nÃ­? Aha, tak se postavte do Å™ady a jÃ¡ se na vÃ¡s podÃ­vÃ¡m.}
 {202}{}{One more thing...}
 {203}{}{Diky! Nashle!}
-{204}{}{Pøekvapivì málo. Promiò, ale kdy se soustøedím na nìèí léèbu, nevìnuji obvykle pozornost jeho nejintimnìjším tajemstvím.}
-{205}{}{Aha. Mùu se ještì na nìco zeptat?}
-{206}{}{Poté jsem odešel do San Francisca a tam jsem zaèal studovat medicínu v Èínské ètvrti u pana Funga, kterı mì nauèil všemu, co o medicínì vím. A nauèil mì i nìkterá moudra.}
+{204}{}{PÅ™ekvapivÄ› mÃ¡lo. PromiÅˆ, ale kdyÅ¾ se soustÅ™edÃ­m na nÄ›ÄÃ­ lÃ©Äbu, nevÄ›nuji obvykle pozornost jeho nejintimnÄ›jÅ¡Ã­m tajemstvÃ­m.}
+{205}{}{Aha. MÅ¯Å¾u se jeÅ¡tÄ› na nÄ›co zeptat?}
+{206}{}{PotÃ© jsem odeÅ¡el do San Francisca a tam jsem zaÄal studovat medicÃ­nu v ÄŒÃ­nskÃ© Ätvrti u pana Funga, kterÃ½ mÄ› nauÄil vÅ¡emu, co o medicÃ­nÄ› vÃ­m. A nauÄil mÄ› i nÄ›kterÃ¡ moudra.}
 {207}{}{Co se stalo potom?}
-{208}{}{A jak to souvisí s Broken Hills?}
-{209}{}{Poèkej, k tomu se teprve dostaneme! Vy mladí jste tak netrpìliví.}
-{210}{}{Promiò, pokraèuj.}
-{211}{}{Tohle je na prd. Odcházím.}
-{212}{}{Potom jsem se sem vrátil a sledoval jsem Marcuse, jak z nìkolika chatrèí, které si pamatuji ještì z mládí, vybudoval "rozlehlou metropoli", kterou teï vidíš pøed sebou. Vidìl jsem, jak sem pøicházejí lidé s vidinou bohatství a vidìl jsem, jak lidé dospívají a umírají. Znám celou historii mìsta.}
-{213}{}{Take to znamená...}
-{214}{}{To znamená, e mnoho novıch lidí u ani neznám. Vìtšina z toho u jsou jen... vzpomínky.}
-{215}{}{Aha. No, díky za pøíbìh.}
-{216}{}{Ty kreténe! Nechal jsi mì èekat tak dlouho jen tak pro nic?}
-{217}{}{Ne. Já díky za vyslechnutí mıch blábolù. Pøíštì, a budeš chtít vyléèit, budeš to mít zadarmo.}
-{218}{}{Díky! Take...}
-{219}{}{Díky. Sbohem!}
-{220}{}{Jo. Doufám, e to stálo za to! (Zlomyslnì se usmìje.)}
-{221}{}{Ne, ani ne. Povìz mi ještì o nìèem.}
-{222}{}{Ne, ty starı seschlı kreténe. Nashle.}
-{300}{}{Kdo potøebuje uzdravit?}
+{208}{}{A jak to souvisÃ­ s Broken Hills?}
+{209}{}{PoÄkej, k tomu se teprve dostaneme! Vy mladÃ­ jste tak netrpÄ›livÃ­.}
+{210}{}{PromiÅˆ, pokraÄuj.}
+{211}{}{Tohle je na prd. OdchÃ¡zÃ­m.}
+{212}{}{Potom jsem se sem vrÃ¡til a sledoval jsem Marcuse, jak z nÄ›kolika chatrÄÃ­, kterÃ© si pamatuji jeÅ¡tÄ› z mlÃ¡dÃ­, vybudoval "rozlehlou metropoli", kterou teÄ vidÃ­Å¡ pÅ™ed sebou. VidÄ›l jsem, jak sem pÅ™ichÃ¡zejÃ­ lidÃ© s vidinou bohatstvÃ­ a vidÄ›l jsem, jak lidÃ© dospÃ­vajÃ­ a umÃ­rajÃ­. ZnÃ¡m celou historii mÄ›sta.}
+{213}{}{TakÅ¾e to znamenÃ¡...}
+{214}{}{To znamenÃ¡, Å¾e mnoho novÃ½ch lidÃ­ uÅ¾ ani neznÃ¡m. VÄ›tÅ¡ina z toho uÅ¾ jsou jen... vzpomÃ­nky.}
+{215}{}{Aha. No, dÃ­ky za pÅ™Ã­bÄ›h.}
+{216}{}{Ty kretÃ©ne! Nechal jsi mÄ› Äekat tak dlouho jen tak pro nic?}
+{217}{}{Ne. JÃ¡ dÃ­ky za vyslechnutÃ­ mÃ½ch blÃ¡bolÅ¯. PÅ™Ã­Å¡tÄ›, aÅ¾ budeÅ¡ chtÃ­t vylÃ©Äit, budeÅ¡ to mÃ­t zadarmo.}
+{218}{}{DÃ­ky! TakÅ¾e...}
+{219}{}{DÃ­ky. Sbohem!}
+{220}{}{Jo. DoufÃ¡m, Å¾e to stÃ¡lo za to! (ZlomyslnÄ› se usmÄ›je.)}
+{221}{}{Ne, ani ne. PovÄ›z mi jeÅ¡tÄ› o nÄ›Äem.}
+{222}{}{Ne, ty starÃ½ seschlÃ½ kretÃ©ne. Nashle.}
+{300}{}{Kdo potÅ™ebuje uzdravit?}
 {301}{}{Vic.}
 {302}{}{Myron.}
 {303}{}{Marcus.}
@@ -134,10 +134,10 @@
 {310}{}{Davin.}
 {311}{}{Miria.}
 {312}{}{Skynet.}
-{313}{}{Zapomeò na to.}
-{314}{}{Máš zranìní? Uka, podívám se na to a na tvé pøátele taky.}
-{315}{}{Tak, hotovo. U by to mìlo bıt lepší.}
-{316}{}{[Pokraèovat]}
+{313}{}{ZapomeÅˆ na to.}
+{314}{}{MÃ¡Å¡ zranÄ›nÃ­? UkaÅ¾, podÃ­vÃ¡m se na to a na tvÃ© pÅ™Ã¡tele taky.}
+{315}{}{Tak, hotovo. UÅ¾ by to mÄ›lo bÃ½t lepÅ¡Ã­.}
+{316}{}{[PokraÄovat]}
 {400}{}{Dogmeat.}
 {401}{}{K-9.}
 {402}{}{Kitsune.}

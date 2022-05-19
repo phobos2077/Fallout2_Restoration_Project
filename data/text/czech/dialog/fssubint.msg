@@ -1,4 +1,4 @@
-{100}{}{Zakopneš a øízneš se o vyènívající kus eleza.}
-{101}{}{Nìjaké staré dráty tì švihly po tváøi.}
-{102}{}{Tvoje noha propadla skrz zrezivìlou møí. Podaøilo se ti ji dostat ven, ale pøitom sis ji poranil.}
-{103}{}{Zápach rzi a zatuchliny je nesnesitelnı. Ztìka dıcháš a naráíš na odhalenou vıztu. Au.}
+{100}{}{ZakopneÅ¡ a Å™Ã­zneÅ¡ se o vyÄnÃ­vajÃ­cÃ­ kus Å¾eleza.}
+{101}{}{NÄ›jakÃ© starÃ© drÃ¡ty tÄ› Å¡vihly po tvÃ¡Å™i.}
+{102}{}{Tvoje noha propadla skrz zrezivÄ›lou mÅ™Ã­Å¾. PodaÅ™ilo se ti ji dostat ven, ale pÅ™itom sis ji poranil.}
+{103}{}{ZÃ¡pach rzi a zatuchliny je nesnesitelnÃ½. ZtÄ›Å¾ka dÃ½chÃ¡Å¡ a narÃ¡Å¾Ã­Å¡ na odhalenou vÃ½ztuÅ¾. Au.}

@@ -1,1 +1,1 @@
-{100}{}{Vstupuješ na opuštìnou základnu.}
+{100}{}{VstupujeÅ¡ na opuÅ¡tÄ›nou zÃ¡kladnu.}

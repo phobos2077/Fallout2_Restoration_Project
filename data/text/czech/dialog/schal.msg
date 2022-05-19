@@ -1,19 +1,19 @@
-{100}{}{Vidíš svalnatého chlápka s velkım hrudníkem.}
-{101}{}{Vidíš Hala, vùdce brahmíních okruhù.}
-{102}{}{vıká chuchvalec nìèeho neurèitého a ty doufáš, e to nevyplivne smìrem k tobì, protoe to pøíšernì páchne.}
-{103}{}{Jseš tady kvùli okruhùm?}
+{100}{}{VidÃ­Å¡ svalnatÃ©ho chlÃ¡pka s velkÃ½m hrudnÃ­kem.}
+{101}{}{VidÃ­Å¡ Hala, vÅ¯dce brahmÃ­nÃ­ch okruhÅ¯.}
+{102}{}{Å½vÃ½kÃ¡ chuchvalec nÄ›Äeho neurÄitÃ©ho a ty doufÃ¡Å¡, Å¾e to nevyplivne smÄ›rem k tobÄ›, protoÅ¾e to pÅ™Ã­Å¡ernÄ› pÃ¡chne.}
+{103}{}{JseÅ¡ tady kvÅ¯li okruhÅ¯m?}
 {104}{}{}
 {105}{}{Ano.}
 {106}{}{Ne.}
-{107}{}{Mìj oèi na šopkách.}
-{108}{}{Drte se u sebe, chlapi!}
-{109}{}{Jen tak dál, chlapi.}
-{110}{}{Skvìlı. Teï se všichni nachystejte... a šnìrujte do Reddingu, hoši!}
-{111}{}{Nech mì teï na pokoji. Mám 500 brahmín, kterı musím nachystat na cestu.}
-{112}{}{Zase ty? Jdi pryè.}
-{113}{}{No, tak to je teda pìknì v hajzlu! Bojím se, e za tenhle okruh nikdo z nás ádnı prachy nedostane. Mùem bejt rádi, e jsme zùstali naivu.}
-{114}{}{No, ranèeøi z toho nejsou zrovna na vìtvi - jenom $1000 za okruh. Holt smùla.}
+{107}{}{MÄ›j oÄi na Å¡Å¥opkÃ¡ch.}
+{108}{}{DrÅ¾te se u sebe, chlapi!}
+{109}{}{Jen tak dÃ¡l, chlapi.}
+{110}{}{SkvÄ›lÃ½. TeÄ se vÅ¡ichni nachystejte... a Å¡nÄ›rujte do Reddingu, hoÅ¡i!}
+{111}{}{Nech mÄ› teÄ na pokoji. MÃ¡m 500 brahmÃ­n, kterÃ½ musÃ­m nachystat na cestu.}
+{112}{}{Zase ty? Jdi pryÄ.}
+{113}{}{No, tak to je teda pÄ›knÄ› v hajzlu! BojÃ­m se, Å¾e za tenhle okruh nikdo z nÃ¡s Å¾Ã¡dnÃ½ prachy nedostane. MÅ¯Å¾em bejt rÃ¡di, Å¾e jsme zÅ¯stali naÅ¾ivu.}
+{114}{}{No, ranÄeÅ™i z toho nejsou zrovna na vÄ›tvi - jenom $1000 za okruh. Holt smÅ¯la.}
 {115}{}{Well, we had little string of bad luck but did all right. Here's the $2000 you signed on for.}
-{116}{}{Zatracenì, to bylo skvìlı! Tady máš $1000 navrch k tìm $2000, kterı jsem ti slíbil. A Redding dneska zaije malı zemìtøesení!}
-{117}{}{Tak a je to. Dobøe se nám s tebou cestovalo.}
-{118}{}{Ty jseš ta nejhorší napodobenina stráce, jakou jsem kdy vidìl. Vypadni odsud.}
+{116}{}{ZatracenÄ›, to bylo skvÄ›lÃ½! Tady mÃ¡Å¡ $1000 navrch k tÄ›m $2000, kterÃ½ jsem ti slÃ­bil. A Redding dneska zaÅ¾ije malÃ½ zemÄ›tÅ™esenÃ­!}
+{117}{}{Tak a je to. DobÅ™e se nÃ¡m s tebou cestovalo.}
+{118}{}{Ty jseÅ¡ ta nejhorÅ¡Ã­ napodobenina strÃ¡Å¾ce, jakou jsem kdy vidÄ›l. Vypadni odsud.}

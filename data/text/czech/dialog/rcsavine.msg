@@ -1,60 +1,60 @@
-{100}{}{Vidíš špinavého mue s mastnımi vlasy. Je celı zaprášenı.}
-{101}{}{Vidíš Savinelliho, správce karavany New Reno - Redding.}
-{102}{}{Vidíš malého svalnatého mue s ulíznutımi vlasy dozadu.}
-{103}{}{Jestli sem ještì jednou vkroèíš, tak si mì nepøej.}
-{104}{}{U jsem tì jednou varoval. Teï odsud vypadni.}
-{105}{}{Odveï si ty svoje èokly pryè!}
-{106}{}{Eh, èokly? No jak myslíš. Pojïme.}
-{107}{}{Ahoj, jmenuju se Enrico Savinneli. Starám se o karavanu New Reno - Redding. Hodila by se nám další strá, jestli ti nevadí, e odjídíme hned teï.}
-{108}{}{Ahoj, jmenuju se Enrico Savinneli. Starám se o karavanu New Reno - Redding. Vdycky se mi hodí spolehlivá strá navíc. Odjídíme z mìsta kadı 21. den v mìsíci, take jestli chceš jít s námi, pøijï vèas.}
-{109}{}{Co potøebuješ?}
-{110}{}{Bùù-bùù?}
-{111}{}{Potøebuješ strá, jo?}
-{112}{}{S èím obchoduješ?}
-{113}{}{Proè se èeká a do 21.?}
-{114}{}{To není nic pro mì. Sbohem.}
-{115}{}{Vybrali si fakt špatnou karavanu.}
-{116}{}{Chtìj vyjebat s mojí karavanou, jo?}
-{117}{}{Tihle zmrdi právì udìlali nejvìtší chybu svıho ivota.}
-{118}{}{Tak a u jsou pod drnem. Mùeme jít.}
-{119}{}{Tìhle sráèù je èím dál víc.}
-{120}{}{Nejdøív opustíš moji karavanu a pak máš ještì tu drzost se sem vrátit? Vypadni.}
-{121}{}{Øekl jsem vypadni! Jseš hluchej nebo co?}
-{122}{}{Nevadìj mi zlodìji... ale jenom ti dobøí. A ty nejseš zrovna jeden z nich. Radil bych ti vypadnout døív, ne se opravdu naštvu.}
-{123}{}{Já e jsem zlodìj? Tak to si budu pamatovat, ty zatracenej nevdìèníku. Sbohem.}
-{124}{}{To tì bude jednou mrzet. Sbohem.}
-{125}{}{Tohle byla ta nejhorší karavana za posledních pár let. Na tomhle vùbec nic netrhnu, take ty taky ne. Zmiz mi z oèí.}
-{126}{}{Opravdu? Tak to si mùeš zkusit, ty proradnej bastarde. Sbohem.}
-{127}{}{No, nìkdy holt štìstí nepøeje. Jako tøeba v tomhle pøípadì. Sbohem.}
-{128}{}{Kurva. Jsem v prdeli. Ztratili jsme hroznì moc vìcí. Já vìdìl, e mám najmout profíky. Tady máš $500, ty neschopná hroudo sraèek.}
-{129}{}{No, lepší nìco ne nic. Sbohem.}
-{130}{}{Ty jeden proradnej bastarde! Nikdo by neodvedl lepší práci ne já. Sbohem.}
-{131}{}{To je ono. Tahle jízda šla jako po másle. Tady máš $1500, kámo.}
-{132}{}{U nikdy nechci strávit tolik èasu pozorováním brahmíních zadkù. Sbohem.}
-{133}{}{Díky. Uvidíme se pozdìji. Sbohem.}
-{134}{}{Takhle pøesnì by mìla karavana probíhat. Hladce jako dìtská prdelka. Tady máš $1500 a dalších $200 za skvìle odvedenou práci.}
-{135}{}{Koneènì potkávám nìkoho, kdo je schopen ocenit moji práci. Uvidíme se pozdìji... moná. Sbohem.}
-{136}{}{Díky za peníze navíc, Savinelli. Sbohem.}
-{137}{}{Protoe nemám tušení, jak dlouho to tìm špinavcùm potrvá, ne vykopaj dost zlata na vıvoz. Odjídíme a 21. Stav se pak u mì, jestli budeš chtít práci.}
-{138}{}{Víš, vyváím pøevánì køehkı zboí. Zboí, kterı se nedá uspìchat. Kvalita potøebuje èas, chápeš? Odjídíme a 21. Stav se pak u mì, jestli budeš chtít práci.}
-{139}{}{Co vìtšinou pøeváíte?}
-{140}{}{Chci se ještì na nìco zeptat.}
-{141}{}{Díky, stavím se. Sbohem.}
-{142}{}{Vìtšinou hledáme stráce karavan, ale teï stejnì nemùeme vyrazit. Odjídíme a 21. Stav se pak u mì, jestli budeš chtít práci.}
-{143}{}{Proè a 21.?}
-{144}{}{Co tahle karavana pøeváí?}
-{145}{}{Dobøe, díky. Sbohem.}
-{146}{}{Poslyš, kámo, nìkdy musíš umìt øíct ne. A *já* øíkám NE!}
-{147}{}{Aha, dobøe.}
-{148}{}{Obchodujeme hlavnì s, eh, lékaøskımi potøebami... jo, s lékaøskımi potøebami... z New Rena a vymìòujeme je za zlato z Reddingu.}
-{149}{}{Zajímavé. Øíkal jsi, e sháníš stráe?}
-{150}{}{Chci se ještì na nìco zeptat.}
-{151}{}{Aha, dobøe. Sbohem.}
-{152}{}{Jdeš právì vèas, zrovna odjídíme. Nabízím ti $1500, ale jenom tobì, jeliko potøebuju jenom jednu strá. Bereš to?}
-{153}{}{Jdeš právì vèas, zrovna odjídíme. Nabízím ti $1500. Bereš to?}
-{154}{}{To zní dobøe. Mùeme vyrazit.}
-{155}{}{Myslím, e stráce karavany není práce pro mì. Uvidíme se pozdìji. Sbohem.}
-{156}{}{Jseš zábavnej šašek, ale u mì unavuješ. Kliï se odsud, blbeèku.}
-{157}{}{Šašek? Pápá.}
-{158}{}{Grrr! Já zabít!}
-{200}{}{Tak pojïte!}
+{100}{}{VidÃ­Å¡ Å¡pinavÃ©ho muÅ¾e s mastnÃ½mi vlasy. Je celÃ½ zaprÃ¡Å¡enÃ½.}
+{101}{}{VidÃ­Å¡ Savinelliho, sprÃ¡vce karavany New Reno - Redding.}
+{102}{}{VidÃ­Å¡ malÃ©ho svalnatÃ©ho muÅ¾e s ulÃ­znutÃ½mi vlasy dozadu.}
+{103}{}{Jestli sem jeÅ¡tÄ› jednou vkroÄÃ­Å¡, tak si mÄ› nepÅ™ej.}
+{104}{}{UÅ¾ jsem tÄ› jednou varoval. TeÄ odsud vypadni.}
+{105}{}{OdveÄ si ty svoje Äokly pryÄ!}
+{106}{}{Eh, Äokly? No jak myslÃ­Å¡. PojÄme.}
+{107}{}{Ahoj, jmenuju se Enrico Savinneli. StarÃ¡m se o karavanu New Reno - Redding. Hodila by se nÃ¡m dalÅ¡Ã­ strÃ¡Å¾, jestli ti nevadÃ­, Å¾e odjÃ­Å¾dÃ­me hned teÄ.}
+{108}{}{Ahoj, jmenuju se Enrico Savinneli. StarÃ¡m se o karavanu New Reno - Redding. VÅ¾dycky se mi hodÃ­ spolehlivÃ¡ strÃ¡Å¾ navÃ­c. OdjÃ­Å¾dÃ­me z mÄ›sta kaÅ¾dÃ½ 21. den v mÄ›sÃ­ci, takÅ¾e jestli chceÅ¡ jÃ­t s nÃ¡mi, pÅ™ijÄ vÄas.}
+{109}{}{Co potÅ™ebujeÅ¡?}
+{110}{}{BÅ¯Å¯-bÅ¯Å¯?}
+{111}{}{PotÅ™ebujeÅ¡ strÃ¡Å¾, jo?}
+{112}{}{S ÄÃ­m obchodujeÅ¡?}
+{113}{}{ProÄ se ÄekÃ¡ aÅ¾ do 21.?}
+{114}{}{To nenÃ­ nic pro mÄ›. Sbohem.}
+{115}{}{Vybrali si fakt Å¡patnou karavanu.}
+{116}{}{ChtÄ›j vyjebat s mojÃ­ karavanou, jo?}
+{117}{}{Tihle zmrdi prÃ¡vÄ› udÄ›lali nejvÄ›tÅ¡Ã­ chybu svÃ½ho Å¾ivota.}
+{118}{}{Tak a uÅ¾ jsou pod drnem. MÅ¯Å¾eme jÃ­t.}
+{119}{}{TÄ›hle srÃ¡ÄÅ¯ je ÄÃ­m dÃ¡l vÃ­c.}
+{120}{}{NejdÅ™Ã­v opustÃ­Å¡ moji karavanu a pak mÃ¡Å¡ jeÅ¡tÄ› tu drzost se sem vrÃ¡tit? Vypadni.}
+{121}{}{Å˜ekl jsem vypadni! JseÅ¡ hluchej nebo co?}
+{122}{}{NevadÄ›j mi zlodÄ›ji... ale jenom ti dobÅ™Ã­. A ty nejseÅ¡ zrovna jeden z nich. Radil bych ti vypadnout dÅ™Ã­v, neÅ¾ se opravdu naÅ¡tvu.}
+{123}{}{JÃ¡ Å¾e jsem zlodÄ›j? Tak to si budu pamatovat, ty zatracenej nevdÄ›ÄnÃ­ku. Sbohem.}
+{124}{}{To tÄ› bude jednou mrzet. Sbohem.}
+{125}{}{Tohle byla ta nejhorÅ¡Ã­ karavana za poslednÃ­ch pÃ¡r let. Na tomhle vÅ¯bec nic netrhnu, takÅ¾e ty taky ne. Zmiz mi z oÄÃ­.}
+{126}{}{Opravdu? Tak to si mÅ¯Å¾eÅ¡ zkusit, ty proradnej bastarde. Sbohem.}
+{127}{}{No, nÄ›kdy holt Å¡tÄ›stÃ­ nepÅ™eje. Jako tÅ™eba v tomhle pÅ™Ã­padÄ›. Sbohem.}
+{128}{}{Kurva. Jsem v prdeli. Ztratili jsme hroznÄ› moc vÄ›cÃ­. JÃ¡ vÄ›dÄ›l, Å¾e mÃ¡m najmout profÃ­ky. Tady mÃ¡Å¡ $500, ty neschopnÃ¡ hroudo sraÄek.}
+{129}{}{No, lepÅ¡Ã­ nÄ›co neÅ¾ nic. Sbohem.}
+{130}{}{Ty jeden proradnej bastarde! Nikdo by neodvedl lepÅ¡Ã­ prÃ¡ci neÅ¾ jÃ¡. Sbohem.}
+{131}{}{To je ono. Tahle jÃ­zda Å¡la jako po mÃ¡sle. Tady mÃ¡Å¡ $1500, kÃ¡mo.}
+{132}{}{UÅ¾ nikdy nechci strÃ¡vit tolik Äasu pozorovÃ¡nÃ­m brahmÃ­nÃ­ch zadkÅ¯. Sbohem.}
+{133}{}{DÃ­ky. UvidÃ­me se pozdÄ›ji. Sbohem.}
+{134}{}{Takhle pÅ™esnÄ› by mÄ›la karavana probÃ­hat. Hladce jako dÄ›tskÃ¡ prdelka. Tady mÃ¡Å¡ $1500 a dalÅ¡Ã­ch $200 za skvÄ›le odvedenou prÃ¡ci.}
+{135}{}{KoneÄnÄ› potkÃ¡vÃ¡m nÄ›koho, kdo je schopen ocenit moji prÃ¡ci. UvidÃ­me se pozdÄ›ji... moÅ¾nÃ¡. Sbohem.}
+{136}{}{DÃ­ky za penÃ­ze navÃ­c, Savinelli. Sbohem.}
+{137}{}{ProtoÅ¾e nemÃ¡m tuÅ¡enÃ­, jak dlouho to tÄ›m Å¡pinavcÅ¯m potrvÃ¡, neÅ¾ vykopaj dost zlata na vÃ½voz. OdjÃ­Å¾dÃ­me aÅ¾ 21. Stav se pak u mÄ›, jestli budeÅ¡ chtÃ­t prÃ¡ci.}
+{138}{}{VÃ­Å¡, vyvÃ¡Å¾Ã­m pÅ™evÃ¡Å¾nÄ› kÅ™ehkÃ½ zboÅ¾Ã­. ZboÅ¾Ã­, kterÃ½ se nedÃ¡ uspÄ›chat. Kvalita potÅ™ebuje Äas, chÃ¡peÅ¡? OdjÃ­Å¾dÃ­me aÅ¾ 21. Stav se pak u mÄ›, jestli budeÅ¡ chtÃ­t prÃ¡ci.}
+{139}{}{Co vÄ›tÅ¡inou pÅ™evÃ¡Å¾Ã­te?}
+{140}{}{Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{141}{}{DÃ­ky, stavÃ­m se. Sbohem.}
+{142}{}{VÄ›tÅ¡inou hledÃ¡me strÃ¡Å¾ce karavan, ale teÄ stejnÄ› nemÅ¯Å¾eme vyrazit. OdjÃ­Å¾dÃ­me aÅ¾ 21. Stav se pak u mÄ›, jestli budeÅ¡ chtÃ­t prÃ¡ci.}
+{143}{}{ProÄ aÅ¾ 21.?}
+{144}{}{Co tahle karavana pÅ™evÃ¡Å¾Ã­?}
+{145}{}{DobÅ™e, dÃ­ky. Sbohem.}
+{146}{}{PoslyÅ¡, kÃ¡mo, nÄ›kdy musÃ­Å¡ umÄ›t Å™Ã­ct ne. A *jÃ¡* Å™Ã­kÃ¡m NE!}
+{147}{}{Aha, dobÅ™e.}
+{148}{}{Obchodujeme hlavnÄ› s, eh, lÃ©kaÅ™skÃ½mi potÅ™ebami... jo, s lÃ©kaÅ™skÃ½mi potÅ™ebami... z New Rena a vymÄ›Åˆujeme je za zlato z Reddingu.}
+{149}{}{ZajÃ­mavÃ©. Å˜Ã­kal jsi, Å¾e shÃ¡nÃ­Å¡ strÃ¡Å¾e?}
+{150}{}{Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{151}{}{Aha, dobÅ™e. Sbohem.}
+{152}{}{JdeÅ¡ prÃ¡vÄ› vÄas, zrovna odjÃ­Å¾dÃ­me. NabÃ­zÃ­m ti $1500, ale jenom tobÄ›, jelikoÅ¾ potÅ™ebuju jenom jednu strÃ¡Å¾. BereÅ¡ to?}
+{153}{}{JdeÅ¡ prÃ¡vÄ› vÄas, zrovna odjÃ­Å¾dÃ­me. NabÃ­zÃ­m ti $1500. BereÅ¡ to?}
+{154}{}{To znÃ­ dobÅ™e. MÅ¯Å¾eme vyrazit.}
+{155}{}{MyslÃ­m, Å¾e strÃ¡Å¾ce karavany nenÃ­ prÃ¡ce pro mÄ›. UvidÃ­me se pozdÄ›ji. Sbohem.}
+{156}{}{JseÅ¡ zÃ¡bavnej Å¡aÅ¡ek, ale uÅ¾ mÄ› unavujeÅ¡. KliÄ se odsud, blbeÄku.}
+{157}{}{Å aÅ¡ek? PÃ¡pÃ¡.}
+{158}{}{Grrr! JÃ¡ zabÃ­t!}
+{200}{}{Tak pojÄte!}

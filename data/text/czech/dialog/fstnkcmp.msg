@@ -1,24 +1,24 @@
-{100}{}{Vidíš poèítaè PoseidoNet.}
-{101}{}{Vidíš poèítaè PoseidoNet.}
-{102}{}{Vidíš poèítaè PoseidoNet.}
-{103}{}{::pííp:: Terminál nefunkèní. Nutná instalace NavComp. ::pííp::}
+{100}{}{VidÃ­Å¡ poÄÃ­taÄ PoseidoNet.}
+{101}{}{VidÃ­Å¡ poÄÃ­taÄ PoseidoNet.}
+{102}{}{VidÃ­Å¡ poÄÃ­taÄ PoseidoNet.}
+{103}{}{::pÃ­Ã­p:: TerminÃ¡l nefunkÄnÃ­. NutnÃ¡ instalace NavComp. ::pÃ­Ã­p::}
 {104}{}{[KONEC]}
-{105}{}{Vítejte v PoseidoNet. Tento terminál je omezen na komunikaci mezi jedním tankerem - PMV Valdez - a pøístavem. Pøíkaz?}
+{105}{}{VÃ­tejte v PoseidoNet. Tento terminÃ¡l je omezen na komunikaci mezi jednÃ­m tankerem - PMV Valdez - a pÅ™Ã­stavem. PÅ™Ã­kaz?}
 {106}{}{Vyplout.}
-{107}{}{Ovìøit stav.}
-{108}{}{Odhlásit se.}
-{109}{}{-Palivové nádre: Prázdné- -Nákladovı prostor: Prázdnı- -Navigaèní poèítaè: Nefunkèní- -Kotevní lana: Pøipevnìna-}
-{110}{}{[Zpìt]}
-{111}{}{Odhlásit se.}
-{112}{}{-Palivové nádre: Plné- -Nákladovı prostor: Prázdnı- -Navigaèní poèítaè: Nefunkèní- -Kotevní lana: Pøipevnìna-}
-{113}{}{[Zpìt]}
-{114}{}{Odhlásit se.}
-{115}{}{CHYBA: Prázdné palivové nádre.}
+{107}{}{OvÄ›Å™it stav.}
+{108}{}{OdhlÃ¡sit se.}
+{109}{}{-PalivovÃ© nÃ¡drÅ¾e: PrÃ¡zdnÃ©- -NÃ¡kladovÃ½ prostor: PrÃ¡zdnÃ½- -NavigaÄnÃ­ poÄÃ­taÄ: NefunkÄnÃ­- -KotevnÃ­ lana: PÅ™ipevnÄ›na-}
+{110}{}{[ZpÄ›t]}
+{111}{}{OdhlÃ¡sit se.}
+{112}{}{-PalivovÃ© nÃ¡drÅ¾e: PlnÃ©- -NÃ¡kladovÃ½ prostor: PrÃ¡zdnÃ½- -NavigaÄnÃ­ poÄÃ­taÄ: NefunkÄnÃ­- -KotevnÃ­ lana: PÅ™ipevnÄ›na-}
+{113}{}{[ZpÄ›t]}
+{114}{}{OdhlÃ¡sit se.}
+{115}{}{CHYBA: PrÃ¡zdnÃ© palivovÃ© nÃ¡drÅ¾e.}
 {116}{}{ERROR: Navigation Computer non Functional.}
-{117}{}{-Palivové nádre: Prázdné- -Nákladovı prostor: Prázdnı- -Navigaèní poèítaè: Funkèní- -Kotevní lana: Pøipevnìna-}
-{118}{}{-Palivové nádre: Plné- -Nákladovı prostor: Prázdnı- -Navigaèní poèítaè: Funkèní- -Kotevní lana: Pøipevnìna-}
+{117}{}{-PalivovÃ© nÃ¡drÅ¾e: PrÃ¡zdnÃ©- -NÃ¡kladovÃ½ prostor: PrÃ¡zdnÃ½- -NavigaÄnÃ­ poÄÃ­taÄ: FunkÄnÃ­- -KotevnÃ­ lana: PÅ™ipevnÄ›na-}
+{118}{}{-PalivovÃ© nÃ¡drÅ¾e: PlnÃ©- -NÃ¡kladovÃ½ prostor: PrÃ¡zdnÃ½- -NavigaÄnÃ­ poÄÃ­taÄ: FunkÄnÃ­- -KotevnÃ­ lana: PÅ™ipevnÄ›na-}
 {119}{}{You see a PoseidoNet Navigation Computer.}
-{129}{}{(Rychle spustíš sekvenci pro uvolnìní kotevních lan a loï vypluje z pøístavu.)}
+{129}{}{(Rychle spustÃ­Å¡ sekvenci pro uvolnÄ›nÃ­ kotevnÃ­ch lan a loÄ vypluje z pÅ™Ã­stavu.)}
 {130}{}{[KONEC]}
 {131}{}{Navigation Computer on-line.}
-{200}{}{VAROVÁNÍ: Ponorka stále aktivní. Pokraèování skonèí znièením lodì.}
+{200}{}{VAROVÃNÃ: Ponorka stÃ¡le aktivnÃ­. PokraÄovÃ¡nÃ­ skonÄÃ­ zniÄenÃ­m lodÄ›.}

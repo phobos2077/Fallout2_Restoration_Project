@@ -1,61 +1,61 @@
-{100}{}{Vidíš hologram.}
-{101}{}{Vidíš hologram.}
-{200}{}{Zzzzzt... ahoj... zzZzzt... jsou... zzzZzzZtt... stát... mì?}
+{100}{}{VidÃ­Å¡ hologram.}
+{101}{}{VidÃ­Å¡ hologram.}
+{200}{}{Zzzzzt... ahoj... zzZzzt... jsou... zzzZzzZtt... stÃ¡t... mÄ›?}
 {201}{}{Pardon?}
-{202}{}{Jasnì. Nashle.}
-{203}{}{Mùj... zZzzzt... senzor... ZzzzzzZzt... *breptání*... opraven?}
-{204}{}{Promiò, ale nerozumím ti. Asi jde o nìjaké rušení. Tøeba se mi tì povede nìjak opravit.}
-{205}{}{Na tohle nemám èas. Nashle.}
-{300}{}{Á, dìkuji moc za opravení! Dìsil jsem se té pøedstavy, e se tu objeví nìjakı návštìvník a já bych kvùli tomu rušení nemohl øádnì zodpovìdìt jeho otázky. Samozøejmì jsi první návštìvník, kterého jsem od války vidìl, ale stejnì, *kdybych* byl bıval narazil na nìkoho jiného, mohlo by to bıt docela trapné.}
-{301}{}{V pohodì. Co je tohle vùbec za místo?}
-{302}{}{(Ušklíbne se, jak se nadšenì domnívá, e bude mít pøíleitost zodpovìdìt otázky.) Právì jsi v Agentuøe na ochranu ivotního prostøedí, bìnì známé jako komplex EPA. Jsme vládní vızkumné zaøízení specializující se na testování chemikálií, abychom se ujistili, e jsou pro Zemské ovzduší bezpeèné. Ale to je jenom zlomek naší práce. Probíhala zde spousta zajímavıch vìcí, alespoò ne bylo zaøízení opuštìno kvùli válce. Od té doby u to tu není co bıvalo.}
-{303}{}{Zajímavé. Take co pøesnì je zde tvım úèelem?}
-{304}{}{No, na rozdíl od ostatních hologramù, na které mùeš narazit, jsem nebyl vytvoøen pro ádnı konkrétní úèel. Pouze odpovídám na otázky návštìvníkù nebo pomáhám vyøešit sloité matematické problémy, se kterımi si lidská mysl nedokáe poradit.}
-{305}{}{Aha. Pak bys mi tedy mohl odpovìdìt na pár otázek.}
-{310}{}{Och, bude mi potìšením zodpovìdìt tvoje otázky. Ptej se a já ti odpovím jak nejlépe dokáu.}
-{311}{}{Neustále nacházím zmínky o Modrém Podlaí. Jak se tam dostanu?}
-{312}{}{Podaøilo se mi najít i jinou cestu do tohoto zaøízení, ale vyaduje heslo. Vede k ní servisní vıtah.}
-{313}{}{Mùeš mi pomoct identifikovat nìjaké vìci, co jsem tady našel?}
-{314}{}{Zapomeò na to. Nic nepotøebuju.}
-{320}{}{Ale ovšem, hlavní vıtah na povrchu by tì mìl zavést pøesnì tam, kam potøebuješ! Naè chodit ventilaèním systémem?}
-{321}{}{No, on ten vıtah u toti nefunguje a jediná cesta, kterou se mi podaøilo najít, byla skrz ventilaci.}
-{322}{}{Aha, chápu. To u dává smysl. Je tu ještì jedna cesta dovnitø. Servisní vıtah, kterı zastavuje na druhém podlaí. Mìl by bıt pøístupnı zpod doktorovy dílny. Najdeš ho venku, na vıchod od hlavního vchodu do komplexu EPA. Budeš ale potøebovat pøístupovı kód, aby ses dostal dovnitø. A protoe ti vdìèím za opravu, tak ti ho øeknu. Heslo je "KVÌTINÁÈ".}
-{323}{}{Díky. Chci se ještì na nìco zeptat.}
-{324}{}{Lituji, ale Modré Podlaí obsahuje vızkum nejvyššího utajení. Pøístup do tohoto podlaí je pouze pro... ale k èertu s tím. Byl jsi tak laskavı, e jsi mì opravil, take ti to heslo asi mùu dát. Je to "KVÌTINÁÈ".}
-{330}{}{Budu se snait. Jaké vìci chceš identifikovat?}
-{331}{}{Jakı je úèel tohoto psího rádla?}
-{332}{}{Našel jsem tuhle støíkaèku plnou neznámé látky. Nevíš náhodou k èemu je?}
-{333}{}{Našel jsem tenhle stojánek na zkumavky. Mùu s tím dìlat nìco konkrétního?}
-{334}{}{Jaké jsou efekty tìchto drog, které jsem našel?}
-{335}{}{Vyrobil jsem nìjaké neznáme látky s pomocí Mr. Chemmie! pøístroje. Co dìlají?}
-{336}{}{Našel jsem dynamit, kterı vypadá jinak ne ostatní, které jsem kdy vidìl. Jak se pouívá?}
-{337}{}{Vlastnì se chci zeptat na nìco jiného.}
-{340}{}{No, pùvodní tvùrci tohoto místa vdy rádi zanechávali nìjaké drobné odkazy na filmy, knihy a další podobné zdroje. Pøipadalo jim to zábavné a ostatním také. Psí rádlo je odkaz na jeden film, ale nechám na tobì, abys na název pøišel sám.}
-{341}{}{Dobøe. Chci se zeptat na nìco jiného.}
-{350}{}{No, to jsou základní pomùcky kadého chemika. Myslím, e kdybys chtìl nìco vytvoøit, našlo by se pro to vyuití.}
-{351}{}{Dobøe. Chci se zeptat na nìco jiného.}
-{360}{}{Á, to je ale zajímavı vzorek. Bohuel ho nepoznávám. Polo ho do nádoby vedle mì a já ho s radostí prozkoumám.}
-{361}{}{Dobøe. (Umístíš pøedmìt do nádoby a zavøeš víko.)}
-{362}{}{Vlastnì se chci zeptat na nìco jiného.}
-{363}{}{Provádím analızu molekulárního sloení tekutiny ve støíkaèce... úspìšnì. Analıza hotova. Zajímavé. Vypadá to, e tekutina v této støíkaèce obsahuje unikátní sérum se stopami koèièího DNA. Vypadá to jako experimentální droga, která zvyšuje èlovìku hbitost. Samozøejmì bych nedoporuèoval uít cokoliv, co je stále v experimentální fázi.}
-{364}{}{Dobøe. Chci se zeptat na nìco jiného.}
-{370}{}{Á, to bude kannabis, známá také jako marihuana, tráva a mimo jiné ganja. Je to druh nelegální drogy, která mùe navodit psychoaktivní efekty, kdy se kouøí nebo konzumuje. Nìkteøí zdejší technici ji rádi kouøili, protoe jim pomáhala v relaxaci. Mìl bys ale vìdìt, e její kouøení ti mùe otupit myšlení a na nìjakou dobu zpomalit reakce.}
-{371}{}{Dobøe. Chci se zeptat na nìco jiného.}
-{380}{}{Á, to je ale zajímavı vzorek. Bohuel ho nepoznávám. Polo ho do nádoby vedle mì a já ho s radostí prozkoumám.}
-{381}{}{Dobøe. (Umístíš pøedmìt do nádoby a zavøeš víko.)}
-{382}{}{Vlastnì se chci zeptat na nìco jiného.}
-{383}{}{Bohuel nemám ve své databázi ádnou informaci o tomto pøedmìtu. Radím ti, abys byl velmi opatrnı, ne se rozhodneš tuto látku uít, co ostatnì platí pro jakoukoliv neznámou látku. Omlouvám se, e jsem nemohl víc pomoct.}
-{384}{}{Dobøe. Chci se zeptat na nìco jiného.}
-{390}{}{Tohle je zajímavı pøedmìt. Narozdíl od dynamitu s èasovaèem je tento øízenı na dálku rádiem. Jednoduše umísti dynamit kdekoliv chceš a zpovzdálí zmáèkni spouš. Celkem šikovná vìcièka, nemyslíš?}
-{391}{}{To rozhodnì. Chci se zeptat na nìco jiného.}
-{400}{}{Zdravím. Mùu ti ještì s nìèím pomoct?}
-{401}{}{Mám nìjaké otázky.}
+{202}{}{JasnÄ›. Nashle.}
+{203}{}{MÅ¯j... zZzzzt... senzor... ZzzzzzZzt... *breptÃ¡nÃ­*... opraven?}
+{204}{}{PromiÅˆ, ale nerozumÃ­m ti. Asi jde o nÄ›jakÃ© ruÅ¡enÃ­. TÅ™eba se mi tÄ› povede nÄ›jak opravit.}
+{205}{}{Na tohle nemÃ¡m Äas. Nashle.}
+{300}{}{Ã, dÄ›kuji moc za opravenÃ­! DÄ›sil jsem se tÃ© pÅ™edstavy, Å¾e se tu objevÃ­ nÄ›jakÃ½ nÃ¡vÅ¡tÄ›vnÃ­k a jÃ¡ bych kvÅ¯li tomu ruÅ¡enÃ­ nemohl Å™Ã¡dnÄ› zodpovÄ›dÄ›t jeho otÃ¡zky. SamozÅ™ejmÄ› jsi prvnÃ­ nÃ¡vÅ¡tÄ›vnÃ­k, kterÃ©ho jsem od vÃ¡lky vidÄ›l, ale stejnÄ›, *kdybych* byl bÃ½val narazil na nÄ›koho jinÃ©ho, mohlo by to bÃ½t docela trapnÃ©.}
+{301}{}{V pohodÄ›. Co je tohle vÅ¯bec za mÃ­sto?}
+{302}{}{(UÅ¡klÃ­bne se, jak se nadÅ¡enÄ› domnÃ­vÃ¡, Å¾e bude mÃ­t pÅ™Ã­leÅ¾itost zodpovÄ›dÄ›t otÃ¡zky.) PrÃ¡vÄ› jsi v AgentuÅ™e na ochranu Å¾ivotnÃ­ho prostÅ™edÃ­, bÄ›Å¾nÄ› znÃ¡mÃ© jako komplex EPA. Jsme vlÃ¡dnÃ­ vÃ½zkumnÃ© zaÅ™Ã­zenÃ­ specializujÃ­cÃ­ se na testovÃ¡nÃ­ chemikÃ¡liÃ­, abychom se ujistili, Å¾e jsou pro ZemskÃ© ovzduÅ¡Ã­ bezpeÄnÃ©. Ale to je jenom zlomek naÅ¡Ã­ prÃ¡ce. ProbÃ­hala zde spousta zajÃ­mavÃ½ch vÄ›cÃ­, alespoÅˆ neÅ¾ bylo zaÅ™Ã­zenÃ­ opuÅ¡tÄ›no kvÅ¯li vÃ¡lce. Od tÃ© doby uÅ¾ to tu nenÃ­ co bÃ½valo.}
+{303}{}{ZajÃ­mavÃ©. TakÅ¾e co pÅ™esnÄ› je zde tvÃ½m ÃºÄelem?}
+{304}{}{No, na rozdÃ­l od ostatnÃ­ch hologramÅ¯, na kterÃ© mÅ¯Å¾eÅ¡ narazit, jsem nebyl vytvoÅ™en pro Å¾Ã¡dnÃ½ konkrÃ©tnÃ­ ÃºÄel. Pouze odpovÃ­dÃ¡m na otÃ¡zky nÃ¡vÅ¡tÄ›vnÃ­kÅ¯ nebo pomÃ¡hÃ¡m vyÅ™eÅ¡it sloÅ¾itÃ© matematickÃ© problÃ©my, se kterÃ½mi si lidskÃ¡ mysl nedokÃ¡Å¾e poradit.}
+{305}{}{Aha. Pak bys mi tedy mohl odpovÄ›dÄ›t na pÃ¡r otÃ¡zek.}
+{310}{}{Och, bude mi potÄ›Å¡enÃ­m zodpovÄ›dÄ›t tvoje otÃ¡zky. Ptej se a jÃ¡ ti odpovÃ­m jak nejlÃ©pe dokÃ¡Å¾u.}
+{311}{}{NeustÃ¡le nachÃ¡zÃ­m zmÃ­nky o ModrÃ©m PodlaÅ¾Ã­. Jak se tam dostanu?}
+{312}{}{PodaÅ™ilo se mi najÃ­t i jinou cestu do tohoto zaÅ™Ã­zenÃ­, ale vyÅ¾aduje heslo. Vede k nÃ­ servisnÃ­ vÃ½tah.}
+{313}{}{MÅ¯Å¾eÅ¡ mi pomoct identifikovat nÄ›jakÃ© vÄ›ci, co jsem tady naÅ¡el?}
+{314}{}{ZapomeÅˆ na to. Nic nepotÅ™ebuju.}
+{320}{}{Ale ovÅ¡em, hlavnÃ­ vÃ½tah na povrchu by tÄ› mÄ›l zavÃ©st pÅ™esnÄ› tam, kam potÅ™ebujeÅ¡! NaÄ chodit ventilaÄnÃ­m systÃ©mem?}
+{321}{}{No, on ten vÃ½tah uÅ¾ totiÅ¾ nefunguje a jedinÃ¡ cesta, kterou se mi podaÅ™ilo najÃ­t, byla skrz ventilaci.}
+{322}{}{Aha, chÃ¡pu. To uÅ¾ dÃ¡vÃ¡ smysl. Je tu jeÅ¡tÄ› jedna cesta dovnitÅ™. ServisnÃ­ vÃ½tah, kterÃ½ zastavuje na druhÃ©m podlaÅ¾Ã­. MÄ›l by bÃ½t pÅ™Ã­stupnÃ½ zpod doktorovy dÃ­lny. NajdeÅ¡ ho venku, na vÃ½chod od hlavnÃ­ho vchodu do komplexu EPA. BudeÅ¡ ale potÅ™ebovat pÅ™Ã­stupovÃ½ kÃ³d, aby ses dostal dovnitÅ™. A protoÅ¾e ti vdÄ›ÄÃ­m za opravu, tak ti ho Å™eknu. Heslo je "KVÄšTINÃÄŒ".}
+{323}{}{DÃ­ky. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{324}{}{Lituji, ale ModrÃ© PodlaÅ¾Ã­ obsahuje vÃ½zkum nejvyÅ¡Å¡Ã­ho utajenÃ­. PÅ™Ã­stup do tohoto podlaÅ¾Ã­ je pouze pro... ale k Äertu s tÃ­m. Byl jsi tak laskavÃ½, Å¾e jsi mÄ› opravil, takÅ¾e ti to heslo asi mÅ¯Å¾u dÃ¡t. Je to "KVÄšTINÃÄŒ".}
+{330}{}{Budu se snaÅ¾it. JakÃ© vÄ›ci chceÅ¡ identifikovat?}
+{331}{}{JakÃ½ je ÃºÄel tohoto psÃ­ho Å¾rÃ¡dla?}
+{332}{}{NaÅ¡el jsem tuhle stÅ™Ã­kaÄku plnou neznÃ¡mÃ© lÃ¡tky. NevÃ­Å¡ nÃ¡hodou k Äemu je?}
+{333}{}{NaÅ¡el jsem tenhle stojÃ¡nek na zkumavky. MÅ¯Å¾u s tÃ­m dÄ›lat nÄ›co konkrÃ©tnÃ­ho?}
+{334}{}{JakÃ© jsou efekty tÄ›chto drog, kterÃ© jsem naÅ¡el?}
+{335}{}{Vyrobil jsem nÄ›jakÃ© neznÃ¡me lÃ¡tky s pomocÃ­ Mr. Chemmie! pÅ™Ã­stroje. Co dÄ›lajÃ­?}
+{336}{}{NaÅ¡el jsem dynamit, kterÃ½ vypadÃ¡ jinak neÅ¾ ostatnÃ­, kterÃ© jsem kdy vidÄ›l. Jak se pouÅ¾Ã­vÃ¡?}
+{337}{}{VlastnÄ› se chci zeptat na nÄ›co jinÃ©ho.}
+{340}{}{No, pÅ¯vodnÃ­ tvÅ¯rci tohoto mÃ­sta vÅ¾dy rÃ¡di zanechÃ¡vali nÄ›jakÃ© drobnÃ© odkazy na filmy, knihy a dalÅ¡Ã­ podobnÃ© zdroje. PÅ™ipadalo jim to zÃ¡bavnÃ© a ostatnÃ­m takÃ©. PsÃ­ Å¾rÃ¡dlo je odkaz na jeden film, ale nechÃ¡m na tobÄ›, abys na nÃ¡zev pÅ™iÅ¡el sÃ¡m.}
+{341}{}{DobÅ™e. Chci se zeptat na nÄ›co jinÃ©ho.}
+{350}{}{No, to jsou zÃ¡kladnÃ­ pomÅ¯cky kaÅ¾dÃ©ho chemika. MyslÃ­m, Å¾e kdybys chtÄ›l nÄ›co vytvoÅ™it, naÅ¡lo by se pro to vyuÅ¾itÃ­.}
+{351}{}{DobÅ™e. Chci se zeptat na nÄ›co jinÃ©ho.}
+{360}{}{Ã, to je ale zajÃ­mavÃ½ vzorek. BohuÅ¾el ho nepoznÃ¡vÃ¡m. PoloÅ¾ ho do nÃ¡doby vedle mÄ› a jÃ¡ ho s radostÃ­ prozkoumÃ¡m.}
+{361}{}{DobÅ™e. (UmÃ­stÃ­Å¡ pÅ™edmÄ›t do nÃ¡doby a zavÅ™eÅ¡ vÃ­ko.)}
+{362}{}{VlastnÄ› se chci zeptat na nÄ›co jinÃ©ho.}
+{363}{}{ProvÃ¡dÃ­m analÃ½zu molekulÃ¡rnÃ­ho sloÅ¾enÃ­ tekutiny ve stÅ™Ã­kaÄce... ÃºspÄ›Å¡nÄ›. AnalÃ½za hotova. ZajÃ­mavÃ©. VypadÃ¡ to, Å¾e tekutina v tÃ©to stÅ™Ã­kaÄce obsahuje unikÃ¡tnÃ­ sÃ©rum se stopami koÄiÄÃ­ho DNA. VypadÃ¡ to jako experimentÃ¡lnÃ­ droga, kterÃ¡ zvyÅ¡uje ÄlovÄ›ku hbitost. SamozÅ™ejmÄ› bych nedoporuÄoval uÅ¾Ã­t cokoliv, co je stÃ¡le v experimentÃ¡lnÃ­ fÃ¡zi.}
+{364}{}{DobÅ™e. Chci se zeptat na nÄ›co jinÃ©ho.}
+{370}{}{Ã, to bude kannabis, znÃ¡mÃ¡ takÃ© jako marihuana, trÃ¡va a mimo jinÃ© ganja. Je to druh nelegÃ¡lnÃ­ drogy, kterÃ¡ mÅ¯Å¾e navodit psychoaktivnÃ­ efekty, kdyÅ¾ se kouÅ™Ã­ nebo konzumuje. NÄ›kteÅ™Ã­ zdejÅ¡Ã­ technici ji rÃ¡di kouÅ™ili, protoÅ¾e jim pomÃ¡hala v relaxaci. MÄ›l bys ale vÄ›dÄ›t, Å¾e jejÃ­ kouÅ™enÃ­ ti mÅ¯Å¾e otupit myÅ¡lenÃ­ a na nÄ›jakou dobu zpomalit reakce.}
+{371}{}{DobÅ™e. Chci se zeptat na nÄ›co jinÃ©ho.}
+{380}{}{Ã, to je ale zajÃ­mavÃ½ vzorek. BohuÅ¾el ho nepoznÃ¡vÃ¡m. PoloÅ¾ ho do nÃ¡doby vedle mÄ› a jÃ¡ ho s radostÃ­ prozkoumÃ¡m.}
+{381}{}{DobÅ™e. (UmÃ­stÃ­Å¡ pÅ™edmÄ›t do nÃ¡doby a zavÅ™eÅ¡ vÃ­ko.)}
+{382}{}{VlastnÄ› se chci zeptat na nÄ›co jinÃ©ho.}
+{383}{}{BohuÅ¾el nemÃ¡m ve svÃ© databÃ¡zi Å¾Ã¡dnou informaci o tomto pÅ™edmÄ›tu. RadÃ­m ti, abys byl velmi opatrnÃ½, neÅ¾ se rozhodneÅ¡ tuto lÃ¡tku uÅ¾Ã­t, coÅ¾ ostatnÄ› platÃ­ pro jakoukoliv neznÃ¡mou lÃ¡tku. OmlouvÃ¡m se, Å¾e jsem nemohl vÃ­c pomoct.}
+{384}{}{DobÅ™e. Chci se zeptat na nÄ›co jinÃ©ho.}
+{390}{}{Tohle je zajÃ­mavÃ½ pÅ™edmÄ›t. NarozdÃ­l od dynamitu s ÄasovaÄem je tento Å™Ã­zenÃ½ na dÃ¡lku rÃ¡diem. JednoduÅ¡e umÃ­sti dynamit kdekoliv chceÅ¡ a zpovzdÃ¡lÃ­ zmÃ¡Äkni spouÅ¡Å¥. Celkem Å¡ikovnÃ¡ vÄ›ciÄka, nemyslÃ­Å¡?}
+{391}{}{To rozhodnÄ›. Chci se zeptat na nÄ›co jinÃ©ho.}
+{400}{}{ZdravÃ­m. MÅ¯Å¾u ti jeÅ¡tÄ› s nÄ›ÄÃ­m pomoct?}
+{401}{}{MÃ¡m nÄ›jakÃ© otÃ¡zky.}
 {402}{}{Ale nic. Nashle.}
-{500}{}{Otevøeš boèní panel emitoru hologramu a podíváš se dovnitø. Vidíš zmì kabelù a plošnıch spojù.}
-{501}{}{Dobrá, dáme se do toho.}
-{502}{}{Po chvíli se ti podaøilo izolovat problém a opravit ho. Zavøeš panel a otøeš si pot z èela.}
-{503}{}{Úspìšnì se ti podaøilo opravit hologram.}
-{504}{}{Ani po pár pokusech se ti nepodaøilo pøijít na, co je s tím hologramem špatnì.}
-{505}{}{Zatracenì. Tohle je na mì pøíliš sloité. Opravování prostì není moje silná stránka.}
+{500}{}{OtevÅ™eÅ¡ boÄnÃ­ panel emitoru hologramu a podÃ­vÃ¡Å¡ se dovnitÅ™. VidÃ­Å¡ zmÄ›Å¥ kabelÅ¯ a ploÅ¡nÃ½ch spojÅ¯.}
+{501}{}{DobrÃ¡, dÃ¡me se do toho.}
+{502}{}{Po chvÃ­li se ti podaÅ™ilo izolovat problÃ©m a opravit ho. ZavÅ™eÅ¡ panel a otÅ™eÅ¡ si pot z Äela.}
+{503}{}{ÃšspÄ›Å¡nÄ› se ti podaÅ™ilo opravit hologram.}
+{504}{}{Ani po pÃ¡r pokusech se ti nepodaÅ™ilo pÅ™ijÃ­t na, co je s tÃ­m hologramem Å¡patnÄ›.}
+{505}{}{ZatracenÄ›. Tohle je na mÄ› pÅ™Ã­liÅ¡ sloÅ¾itÃ©. OpravovÃ¡nÃ­ prostÄ› nenÃ­ moje silnÃ¡ strÃ¡nka.}
 {506}{}{Nepovedlo se ti opravit hologram.}
 {507}{}{[KONEC]}

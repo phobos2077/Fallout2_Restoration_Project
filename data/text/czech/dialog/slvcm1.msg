@@ -1,2 +1,2 @@
-{100}{}{Pøi vstupu do zalesnìné oblasti tì praští do nosu zápach nemytıch otrokù ijících ve špinavé kleci na západì. Pøed tebou je dùm s nìkolika ozbrojenımi mui stráícími kolem.}
-{200}{}{Podaøilo se ti vyhladit tábor otrokáøù.}
+{100}{}{PÅ™i vstupu do zalesnÄ›nÃ© oblasti tÄ› praÅ¡tÃ­ do nosu zÃ¡pach nemytÃ½ch otrokÅ¯ Å¾ijÃ­cÃ­ch ve Å¡pinavÃ© kleci na zÃ¡padÄ›. PÅ™ed tebou je dÅ¯m s nÄ›kolika ozbrojenÃ½mi muÅ¾i strÃ¡Å¾Ã­cÃ­mi kolem.}
+{200}{}{PodaÅ™ilo se ti vyhladit tÃ¡bor otrokÃ¡Å™Å¯.}

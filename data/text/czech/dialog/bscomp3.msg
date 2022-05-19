@@ -1,15 +1,15 @@
-{100}{}{Vidíš poèítaèovı terminál.}
-{101}{}{Vidíš terminál kontrolního centra.}
-{102}{}{Vidíš standardní poèítaèovı terminál. Zdá se bıt funkèní a pøipraven pro zadání vstupních dat.}
-{103}{}{Terminál indikuje, e bezpeènostní silové pole u vstupu do Vaultu bylo po obnovení dodávky energie aktivováno.}
-{104}{}{Terminál indikuje, e všechny bezpeènostní systémy Vaultu jsou mimo provoz z dùvodu nedostatku energie.}
-{105}{}{Vypnout silové pole.}
-{106}{}{Zapnout silové pole.}
+{100}{}{VidÃ­Å¡ poÄÃ­taÄovÃ½ terminÃ¡l.}
+{101}{}{VidÃ­Å¡ terminÃ¡l kontrolnÃ­ho centra.}
+{102}{}{VidÃ­Å¡ standardnÃ­ poÄÃ­taÄovÃ½ terminÃ¡l. ZdÃ¡ se bÃ½t funkÄnÃ­ a pÅ™ipraven pro zadÃ¡nÃ­ vstupnÃ­ch dat.}
+{103}{}{TerminÃ¡l indikuje, Å¾e bezpeÄnostnÃ­ silovÃ© pole u vstupu do Vaultu bylo po obnovenÃ­ dodÃ¡vky energie aktivovÃ¡no.}
+{104}{}{TerminÃ¡l indikuje, Å¾e vÅ¡echny bezpeÄnostnÃ­ systÃ©my Vaultu jsou mimo provoz z dÅ¯vodu nedostatku energie.}
+{105}{}{Vypnout silovÃ© pole.}
+{106}{}{Zapnout silovÃ© pole.}
 {107}{}{Beru.}
-{108}{}{Zadáváš pøíkaz k deaktivaci silového pole.}
+{108}{}{ZadÃ¡vÃ¡Å¡ pÅ™Ã­kaz k deaktivaci silovÃ©ho pole.}
 {109}{}{Beru.}
-{110}{}{Zadáváš pøíkaz k aktivování silového pole.}
+{110}{}{ZadÃ¡vÃ¡Å¡ pÅ™Ã­kaz k aktivovÃ¡nÃ­ silovÃ©ho pole.}
 {111}{}{Beru.}
-{112}{}{Terminál indikuje, e bylo silové pole ruènì vypnuto.}
-{113}{}{Terminál indikuje, e bylo silové pole vypnuto.}
-{114}{}{Terminál indikuje, e je silové pole vypnuto.}
+{112}{}{TerminÃ¡l indikuje, Å¾e bylo silovÃ© pole ruÄnÄ› vypnuto.}
+{113}{}{TerminÃ¡l indikuje, Å¾e bylo silovÃ© pole vypnuto.}
+{114}{}{TerminÃ¡l indikuje, Å¾e je silovÃ© pole vypnuto.}

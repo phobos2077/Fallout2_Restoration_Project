@@ -1,5 +1,5 @@
-{100}{}{Cítím se zvláštnì... tak byl to její zahradník, nebo druhı švagr její nejlepší pøítelkynì? Bolí mì z toho hlava.}
-{101}{}{Bylo to krásné... ale nezaslouil si ji.}
-{102}{}{<èmuch, èmuch>}
-{103}{}{Proè poøád ètu tuhle hovadinu?}
-{200}{}{Cítíš se bájeènì po pøeètení této knihy, ale nic ti to nedalo.}
+{100}{}{CÃ­tÃ­m se zvlÃ¡Å¡tnÄ›... tak byl to jejÃ­ zahradnÃ­k, nebo druhÃ½ Å¡vagr jejÃ­ nejlepÅ¡Ã­ pÅ™Ã­telkynÄ›? BolÃ­ mÄ› z toho hlava.}
+{101}{}{Bylo to krÃ¡snÃ©... ale nezaslouÅ¾il si ji.}
+{102}{}{<Ämuch, Ämuch>}
+{103}{}{ProÄ poÅ™Ã¡d Ätu tuhle hovadinu?}
+{200}{}{CÃ­tÃ­Å¡ se bÃ¡jeÄnÄ› po pÅ™eÄtenÃ­ tÃ©to knihy, ale nic ti to nedalo.}

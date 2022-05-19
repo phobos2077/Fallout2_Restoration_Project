@@ -1,21 +1,21 @@
-{100}{}{Dobrı den, vítejte v Agentuøe na ochranu ivotního prostøedí, známé také jako komplex EPA! V tomto Rozcestníku naleznete informace o jednotlivıch barevnì odlišenıch zónách, na které jsou rozdìlena podlaí našeho komplexu. Vyberte prosím zónu, o které se chcete dozvìdìt více.}
-{101}{}{ORANOVÁ ZÓNA}
-{102}{}{ÈERVENÁ ZÓNA}
-{103}{}{LUTÁ ZÓNA}
-{104}{}{INDIGO ZÓNA}
-{105}{}{FIALOVÁ ZÓNA}
-{106}{}{ZELENÁ ZÓNA}
-{107}{}{MODRÁ ZÓNA}
-{108}{}{V Oranové zónì naleznete konferenèní místnosti, kde padají všechna vzrušující rozhodnutí, dále bistro s chutnımi pokrmy a úloištì nebezpeènıch chemikálií.}
-{109}{}{V Èervené zónì je umístìno naše oddìlení ostrahy (take se chovejte ukáznìnì!) a malé, ale velmi informativní muzeum. Dále si nezapomeòte koupit svaèinu a zastavte se v našem støedisku veøejnıch poprav! (Upozornìní: Støedisko poprav není vhodné pro dìti do ètyø let.)}
-{110}{}{Ve luté zónì je umístìna místnost s generátory energie pro naše nové fascinující hologramy. Také zde najdete oblíbenı pøístroj na vırobu lékù a drog, Mr. Chemmieho! (Upozornìní: Kvùli nedostatku skladovıch prostor jsou zde v souèasné dobì uskladnìny také nìkteré nebezpeèné chemikálie, dbejte proto zvıšené opatrnosti!)}
-{111}{}{V Indigo zónì provádìjí naši geniální vìdci pøísnì tajnı vızkum! Vzrušující, e ano? Mìjte na pamìti, e nepovolaní civilisté v této zónì budou na místì zastøeleni, proto prosíme rodièe, aby nenechávali své dìti volnì pobíhat bez dozoru.}
-{112}{}{Ve Fialové zónì je umístìno pamìové jádro pro uchovávání informací a další vìci, které jsou bohuel pro návštìvníky relativnì nezajímavé. Omlouváme se! Nicménì je tato zóna pøímo propojena s mnohem zajímavìjší lutou zónou, kde najdete napøíklad Mr. Chemmieho, farmaceutickı automat budoucnosti!}
-{113}{}{Ve vzrušující Zelené zónì najdete arboretum, vızkum biologickıch zbraní, fascinující nová stvoøení a EPA interaktivní zoo, tolik oblíbenou u dìtí.}
-{114}{}{Modrá zóna neexistuje. Pokud vám nìkdo tvrdí opak, je to hnusnı lháø a pravdìpodobnì pøívrenec komunismu. Jako správnı americkı vlastenec jej prosím nahlaste na oddìlení ostrahy v Èervené zónì a naše ochranka se s ním u vypoøádá. Dìkujeme vám!}
-{115}{}{Zpìt do hlavního menu.}
-{116}{}{Dìkujeme za pouití Rozcestníku.}
+{100}{}{DobrÃ½ den, vÃ­tejte v AgentuÅ™e na ochranu Å¾ivotnÃ­ho prostÅ™edÃ­, znÃ¡mÃ© takÃ© jako komplex EPA! V tomto RozcestnÃ­ku naleznete informace o jednotlivÃ½ch barevnÄ› odliÅ¡enÃ½ch zÃ³nÃ¡ch, na kterÃ© jsou rozdÄ›lena podlaÅ¾Ã­ naÅ¡eho komplexu. Vyberte prosÃ­m zÃ³nu, o kterÃ© se chcete dozvÄ›dÄ›t vÃ­ce.}
+{101}{}{ORANÅ½OVÃ ZÃ“NA}
+{102}{}{ÄŒERVENÃ ZÃ“NA}
+{103}{}{Å½LUTÃ ZÃ“NA}
+{104}{}{INDIGO ZÃ“NA}
+{105}{}{FIALOVÃ ZÃ“NA}
+{106}{}{ZELENÃ ZÃ“NA}
+{107}{}{MODRÃ ZÃ“NA}
+{108}{}{V OranÅ¾ovÃ© zÃ³nÄ› naleznete konferenÄnÃ­ mÃ­stnosti, kde padajÃ­ vÅ¡echna vzruÅ¡ujÃ­cÃ­ rozhodnutÃ­, dÃ¡le bistro s chutnÃ½mi pokrmy a ÃºloÅ¾iÅ¡tÄ› nebezpeÄnÃ½ch chemikÃ¡liÃ­.}
+{109}{}{V ÄŒervenÃ© zÃ³nÄ› je umÃ­stÄ›no naÅ¡e oddÄ›lenÃ­ ostrahy (takÅ¾e se chovejte ukÃ¡znÄ›nÄ›!) a malÃ©, ale velmi informativnÃ­ muzeum. DÃ¡le si nezapomeÅˆte koupit svaÄinu a zastavte se v naÅ¡em stÅ™edisku veÅ™ejnÃ½ch poprav! (UpozornÄ›nÃ­: StÅ™edisko poprav nenÃ­ vhodnÃ© pro dÄ›ti do ÄtyÅ™ let.)}
+{110}{}{Ve Å½lutÃ© zÃ³nÄ› je umÃ­stÄ›na mÃ­stnost s generÃ¡tory energie pro naÅ¡e novÃ© fascinujÃ­cÃ­ hologramy. TakÃ© zde najdete oblÃ­benÃ½ pÅ™Ã­stroj na vÃ½robu lÃ©kÅ¯ a drog, Mr. Chemmieho! (UpozornÄ›nÃ­: KvÅ¯li nedostatku skladovÃ½ch prostor jsou zde v souÄasnÃ© dobÄ› uskladnÄ›ny takÃ© nÄ›kterÃ© nebezpeÄnÃ© chemikÃ¡lie, dbejte proto zvÃ½Å¡enÃ© opatrnosti!)}
+{111}{}{V Indigo zÃ³nÄ› provÃ¡dÄ›jÃ­ naÅ¡i geniÃ¡lnÃ­ vÄ›dci pÅ™Ã­snÄ› tajnÃ½ vÃ½zkum! VzruÅ¡ujÃ­cÃ­, Å¾e ano? MÄ›jte na pamÄ›ti, Å¾e nepovolanÃ­ civilistÃ© v tÃ©to zÃ³nÄ› budou na mÃ­stÄ› zastÅ™eleni, proto prosÃ­me rodiÄe, aby nenechÃ¡vali svÃ© dÄ›ti volnÄ› pobÃ­hat bez dozoru.}
+{112}{}{Ve FialovÃ© zÃ³nÄ› je umÃ­stÄ›no pamÄ›Å¥ovÃ© jÃ¡dro pro uchovÃ¡vÃ¡nÃ­ informacÃ­ a dalÅ¡Ã­ vÄ›ci, kterÃ© jsou bohuÅ¾el pro nÃ¡vÅ¡tÄ›vnÃ­ky relativnÄ› nezajÃ­mavÃ©. OmlouvÃ¡me se! NicmÃ©nÄ› je tato zÃ³na pÅ™Ã­mo propojena s mnohem zajÃ­mavÄ›jÅ¡Ã­ Å½lutou zÃ³nou, kde najdete napÅ™Ã­klad Mr. Chemmieho, farmaceutickÃ½ automat budoucnosti!}
+{113}{}{Ve vzruÅ¡ujÃ­cÃ­ ZelenÃ© zÃ³nÄ› najdete arboretum, vÃ½zkum biologickÃ½ch zbranÃ­, fascinujÃ­cÃ­ novÃ¡ stvoÅ™enÃ­ a EPA interaktivnÃ­ zoo, tolik oblÃ­benou u dÄ›tÃ­.}
+{114}{}{ModrÃ¡ zÃ³na neexistuje. Pokud vÃ¡m nÄ›kdo tvrdÃ­ opak, je to hnusnÃ½ lhÃ¡Å™ a pravdÄ›podobnÄ› pÅ™Ã­vrÅ¾enec komunismu. Jako sprÃ¡vnÃ½ americkÃ½ vlastenec jej prosÃ­m nahlaste na oddÄ›lenÃ­ ostrahy v ÄŒervenÃ© zÃ³nÄ› a naÅ¡e ochranka se s nÃ­m uÅ¾ vypoÅ™Ã¡dÃ¡. DÄ›kujeme vÃ¡m!}
+{115}{}{ZpÄ›t do hlavnÃ­ho menu.}
+{116}{}{DÄ›kujeme za pouÅ¾itÃ­ RozcestnÃ­ku.}
 {117}{}{[KONEC]}
-{118}{}{Vidíš poèítaè.}
-{119}{}{Vidíš EPA Rozcestník.}
-{120}{}{Vidíš poèítaè, kterı obsahuje detailní informace o barevnıch zónách komplexu EPA.}
+{118}{}{VidÃ­Å¡ poÄÃ­taÄ.}
+{119}{}{VidÃ­Å¡ EPA RozcestnÃ­k.}
+{120}{}{VidÃ­Å¡ poÄÃ­taÄ, kterÃ½ obsahuje detailnÃ­ informace o barevnÃ½ch zÃ³nÃ¡ch komplexu EPA.}

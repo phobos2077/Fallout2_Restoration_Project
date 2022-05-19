@@ -1,68 +1,68 @@
-{100}{}{Vidíš starého mue. Proti nìmu je i sušená køíala èerstvá.}
-{101}{}{Vidíš Farrela.}
-{102}{}{Pøi kadém jeho pohybu je slyšet praskání kloubù.}
+{100}{}{VidÃ­Å¡ starÃ©ho muÅ¾e. Proti nÄ›mu je i suÅ¡enÃ¡ kÅ™Ã­Å¾ala ÄerstvÃ¡.}
+{101}{}{VidÃ­Å¡ Farrela.}
+{102}{}{PÅ™i kaÅ¾dÃ©m jeho pohybu je slyÅ¡et praskÃ¡nÃ­ kloubÅ¯.}
 {150}{}{Hej, jdi odtamtud!}
-{151}{}{Pøestaò s tím!}
-{152}{}{Zlodìj!}
-{153}{}{Já jsem ty hodinky neukradl, tak sem pøestaòte chodit a neotravujte starého chudáka Farrela!}
-{154}{}{Ale Cornelius øíká, e jste ukradl jeho zlaté hodinky.}
-{155}{}{Kde jste vzal peníze na nové náøadí?}
-{156}{}{Mùete mi øíct nìco o Modocu?}
-{157}{}{Co tady dìláš?}
-{158}{}{Hodinky? O èem to mluvíte?}
+{151}{}{PÅ™estaÅˆ s tÃ­m!}
+{152}{}{ZlodÄ›j!}
+{153}{}{JÃ¡ jsem ty hodinky neukradl, tak sem pÅ™estaÅˆte chodit a neotravujte starÃ©ho chudÃ¡ka Farrela!}
+{154}{}{Ale Cornelius Å™Ã­kÃ¡, Å¾e jste ukradl jeho zlatÃ© hodinky.}
+{155}{}{Kde jste vzal penÃ­ze na novÃ© nÃ¡Å™adÃ­?}
+{156}{}{MÅ¯Å¾ete mi Å™Ã­ct nÄ›co o Modocu?}
+{157}{}{Co tady dÄ›lÃ¡Å¡?}
+{158}{}{Hodinky? O Äem to mluvÃ­te?}
 {159}{}{Ano?}
-{162}{}{Copak to schováváte v sejfu ve zdi?}
-{165}{}{Mùete mi ukázat vaši zahradu?}
-{166}{}{Všechna ta malá havì z vaší zahrady je pryè.}
-{167}{}{Pøedtím jste se zmínil o hodinkách.}
-{168}{}{Jsou to ty hodinky, které hledáte?}
-{169}{}{Všechna bestie mrtvá!}
+{162}{}{Copak to schovÃ¡vÃ¡te v sejfu ve zdi?}
+{165}{}{MÅ¯Å¾ete mi ukÃ¡zat vaÅ¡i zahradu?}
+{166}{}{VÅ¡echna ta malÃ¡ havÄ›Å¥ z vaÅ¡Ã­ zahrady je pryÄ.}
+{167}{}{PÅ™edtÃ­m jste se zmÃ­nil o hodinkÃ¡ch.}
+{168}{}{Jsou to ty hodinky, kterÃ© hledÃ¡te?}
+{169}{}{VÅ¡echna bestie mrtvÃ¡!}
 {170}{}{Za-hra-da?}
-{171}{}{U dost! Kolik lidí za mnou Cornelius ještì pošle kvùli tìm svım hodinkám? Já jsem to neudìlal! Vlastnì jsem moná obìtí stejného zlodìje. V tu dobu, kdy zmizely jeho hodinky, mi ukradli pár vìcí z náøadí. Urèitì mi to nevìøíš, take se tady klidnì porozhlédni, jinak se tì asi nezbavím. No tak se dej do toho!}
-{172}{}{Myslím, e se tady porozhlédnu.}
-{173}{}{To ti øíkala Miria? Budu jí muset naplácat na zadek, aby pøestala šíøit drby! Podívej, jsem moná chudı, ale mám svou hrdost. Pomohl jsem jednomu obchodníkovi opravit jeho vùz a on mi za to dal nìjaké náøadí.}
-{174}{}{Pøiznejte se. Udìlal jste to!}
-{175}{}{A jakı máš dùkaz?}
-{176}{}{A to vám mám jako vìøit?}
-{177}{}{Moje èest je dostateènım dùkazem, e mluvím pravdu. Nemám nic jiného.}
-{178}{}{Kdy jste je nevzal vy, tak kdo myslíte, e to byl?}
-{179}{}{Mám podezøení, e ty hodinky vzal zlodìj, kterı tudy jenom procházel. Ale vùbec nechápu, na co by mu mohlo bıt moje staré náøadí...}
-{180}{}{A to vám mám jako vìøit?}
-{181}{}{Ne, ale je to jediná teorie, která mì napadá. Protoe vím, e já jsem to neudìlal.}
-{182}{}{Mùu mít ještì pár otázek?}
-{183}{}{HA! Kdy si myslíš, e za to mùu já, tak proè mì rovnou nezastøelíš? Tak pojï, ty hajzle!}
-{184}{}{Coe? To není moné!!? Schoval jsem ten sejf tak, aby ho nikdo nenašel. Urèitì jsi profesionální zlodìj. Hmm... kde jsi byl, kdy ty zlaté hodinky zmizely? Radìji hned odejdi. A a nic nechybí v sejfu, jinak na tebe zavolám šerifa Jo. A teï vypadni!}
-{185}{}{Modoc je malá osada farmáøù a chovatelù dobytka. Dodáváme vìtšinu jídla do okolních mìst a vesnicí a vımìnou za to dostáváme nejrùznìjší zboí. Je to velmi vıhodná dohoda. Ale všechno se to mùe zmìnit v období sucha. Pokud nastane, budeme mít sotva dost jídla pro sebe, nato abychom s ním ještì obchodovali.}
-{187}{}{Vìtšinou døu na zahradì a snaím se pìstovat ty proklaté rostliny i bez vody, ale teï to nejde, protoe se mi do zahrady nastìhovali nìjací škùdci a já se jich nemùu zbavit. A navíc mi nikdo nechce pomoct, protoe si všichni myslí, e jsem Corneliovi ukradl jeho zlaté hodinky.}
-{188}{}{Vìtšinou døu na zahradì a snaím se pìstovat ty proklaté rostliny i bez vody, ale teï to nejde, protoe se mi do zahrady nastìhovali nìjací škùdci a já se jich nemùu zbavit. Bez potravin z mé zahrady umøu hlady.}
-{189}{}{Moná, e vám mùu pomoct... za menší odmìnu.}
-{190}{}{Pomùu vám.}
-{191}{}{Pøiznejte se ke krádei tìch hodinek a já vám pomùu.}
-{193}{}{Podívej se kolem! Jsem jen starı, chudı mu. Nemám dost jídla ani pro sebe a ty chceš ještì odmìnu.}
-{194}{}{Dobøe. I pøesto vám pomùu.}
-{195}{}{Je mi líto, ale nemùu vám pomoct.}
-{196}{}{To by bylo skvìlé. Ani nevím, jak ti mám za to podìkovat. Moje zahrada leí kousek na vıchod. Pojï se mnou, ukáu ti ji.}
-{197}{}{Díky! Jsi opravdovı hrdina. Jen málo lidí by riskovalo svùj ivot pro úplného cizince. Díky! Díky! Díky... (Máš zase ten pøíjemnı høejivı pocit po celém tìle.)}
-{198}{}{Mùu se ještì na nìco zeptat?}
-{199}{}{Radìji umøu, ne abych pošpinil své dobré jméno! Táhni k èertu!}
-{200}{}{Kadı mì obviòuje z krádee zlatıch hodinek mého nejlepšího pøítele Corneliuse. Já a Cornelius jsme byli vdy pøátelé. Nikdy bych neukradl jeho hodinky. Všude jsem je hledal, abychom mohli bıt opìt dobøí pøátelé, ale bohuel.}
-{201}{}{Chvíli se ve mìstì zdrím. Kdy na nì narazím, dám vám vìdìt.}
-{202}{}{To je opravdu škoda. Mùu se ještì na nìco zeptat?}
-{203}{}{Opravdu? Nikdo mi nechce pomoct, protoe si všichni myslí, e jsem ukradl ty hodinky. Bylo by skvìlé mít koneènì zase nìkoho, kdo mi dùvìøuje. U jsem se na nì ptal snad kadého, ale nebude na škodu se jich zeptat znovu. Tøeba ti øeknou nìco, co mnì øíct nechtìli. Taky nebude na škodu porozhlédnout se okolo Rózina penzionu. Cornelius je známı tím, e všude odkládá svoje vìci a za chvíli si u nedokáe vzpomenout, kde je nechal.}
-{205}{}{Poèkej, podívám se! Ano, to jsou ony! Øíkáš, e ty hodinky ukradla krysa z kanalizace? A ty ses tam vydal a našel je? FUUJ! Musím je dát okamitì Corneliovi! Mùeme bıt zase pøátelé. Díky.}
-{206}{}{Taky tì zdravím. Mùeš udìlat pro starého Farrela malou laskavost, mùj zabrdìnı pøíteli? Mám problém se škùdci v zahradì. Zlikviduj je a dostaneš odmìnu.}
-{207}{}{Ne, ne, ne... já neudìlat to.}
-{208}{}{Jo, udìlat to.}
-{209}{}{Pá pá!}
-{210}{}{V tom pøípadì vypadni, ty zabednìnı tupèe!}
-{211}{}{To je od tebe milé, mùj drahı pøíteli. (Vezme tì za ruku a zavede tì do zahrady.) Nechci, aby ses ztratil. Pøijï za mnou, a vyhubíš ty škùdce.}
-{212}{}{Mùj drahoušku. Jsi tak laskavá ke starému mui. (Vezme tì za ruku a zavede tì do zahrady.) Nechci, aby ses ztratila. Pøijï za mnou, a vyhubíš ty škùdce.}
-{213}{}{Vıbornì! Tady je tvoje odmìna. (Zaloví ve svıch kalhotách a najde napùl snìdenou sušenku.) Tak a teï buï hodnı divoch, vezmi si svou sušenku a jdi si hrát ven.}
-{300}{}{Já toho parchanta zabiju.}
-{301}{}{Nenávidím ho...}
+{171}{}{UÅ¾ dost! Kolik lidÃ­ za mnou Cornelius jeÅ¡tÄ› poÅ¡le kvÅ¯li tÄ›m svÃ½m hodinkÃ¡m? JÃ¡ jsem to neudÄ›lal! VlastnÄ› jsem moÅ¾nÃ¡ obÄ›tÃ­ stejnÃ©ho zlodÄ›je. V tu dobu, kdy zmizely jeho hodinky, mi ukradli pÃ¡r vÄ›cÃ­ z nÃ¡Å™adÃ­. UrÄitÄ› mi to nevÄ›Å™Ã­Å¡, takÅ¾e se tady klidnÄ› porozhlÃ©dni, jinak se tÄ› asi nezbavÃ­m. No tak se dej do toho!}
+{172}{}{MyslÃ­m, Å¾e se tady porozhlÃ©dnu.}
+{173}{}{To ti Å™Ã­kala Miria? Budu jÃ­ muset naplÃ¡cat na zadek, aby pÅ™estala Å¡Ã­Å™it drby! PodÃ­vej, jsem moÅ¾nÃ¡ chudÃ½, ale mÃ¡m svou hrdost. Pomohl jsem jednomu obchodnÃ­kovi opravit jeho vÅ¯z a on mi za to dal nÄ›jakÃ© nÃ¡Å™adÃ­.}
+{174}{}{PÅ™iznejte se. UdÄ›lal jste to!}
+{175}{}{A jakÃ½ mÃ¡Å¡ dÅ¯kaz?}
+{176}{}{A to vÃ¡m mÃ¡m jako vÄ›Å™it?}
+{177}{}{Moje Äest je dostateÄnÃ½m dÅ¯kazem, Å¾e mluvÃ­m pravdu. NemÃ¡m nic jinÃ©ho.}
+{178}{}{KdyÅ¾ jste je nevzal vy, tak kdo myslÃ­te, Å¾e to byl?}
+{179}{}{MÃ¡m podezÅ™enÃ­, Å¾e ty hodinky vzal zlodÄ›j, kterÃ½ tudy jenom prochÃ¡zel. Ale vÅ¯bec nechÃ¡pu, na co by mu mohlo bÃ½t moje starÃ© nÃ¡Å™adÃ­...}
+{180}{}{A to vÃ¡m mÃ¡m jako vÄ›Å™it?}
+{181}{}{Ne, ale je to jedinÃ¡ teorie, kterÃ¡ mÄ› napadÃ¡. ProtoÅ¾e vÃ­m, Å¾e jÃ¡ jsem to neudÄ›lal.}
+{182}{}{MÅ¯Å¾u mÃ­t jeÅ¡tÄ› pÃ¡r otÃ¡zek?}
+{183}{}{HA! KdyÅ¾ si myslÃ­Å¡, Å¾e za to mÅ¯Å¾u jÃ¡, tak proÄ mÄ› rovnou nezastÅ™elÃ­Å¡? Tak pojÄ, ty hajzle!}
+{184}{}{CoÅ¾e? To nenÃ­ moÅ¾nÃ©!!? Schoval jsem ten sejf tak, aby ho nikdo nenaÅ¡el. UrÄitÄ› jsi profesionÃ¡lnÃ­ zlodÄ›j. Hmm... kde jsi byl, kdyÅ¾ ty zlatÃ© hodinky zmizely? RadÄ›ji hned odejdi. A aÅ¥ nic nechybÃ­ v sejfu, jinak na tebe zavolÃ¡m Å¡erifa Jo. A teÄ vypadni!}
+{185}{}{Modoc je malÃ¡ osada farmÃ¡Å™Å¯ a chovatelÅ¯ dobytka. DodÃ¡vÃ¡me vÄ›tÅ¡inu jÃ­dla do okolnÃ­ch mÄ›st a vesnicÃ­ a vÃ½mÄ›nou za to dostÃ¡vÃ¡me nejrÅ¯znÄ›jÅ¡Ã­ zboÅ¾Ã­. Je to velmi vÃ½hodnÃ¡ dohoda. Ale vÅ¡echno se to mÅ¯Å¾e zmÄ›nit v obdobÃ­ sucha. Pokud nastane, budeme mÃ­t sotva dost jÃ­dla pro sebe, natoÅ¾ abychom s nÃ­m jeÅ¡tÄ› obchodovali.}
+{187}{}{VÄ›tÅ¡inou dÅ™u na zahradÄ› a snaÅ¾Ã­m se pÄ›stovat ty proklatÃ© rostliny i bez vody, ale teÄ to nejde, protoÅ¾e se mi do zahrady nastÄ›hovali nÄ›jacÃ­ Å¡kÅ¯dci a jÃ¡ se jich nemÅ¯Å¾u zbavit. A navÃ­c mi nikdo nechce pomoct, protoÅ¾e si vÅ¡ichni myslÃ­, Å¾e jsem Corneliovi ukradl jeho zlatÃ© hodinky.}
+{188}{}{VÄ›tÅ¡inou dÅ™u na zahradÄ› a snaÅ¾Ã­m se pÄ›stovat ty proklatÃ© rostliny i bez vody, ale teÄ to nejde, protoÅ¾e se mi do zahrady nastÄ›hovali nÄ›jacÃ­ Å¡kÅ¯dci a jÃ¡ se jich nemÅ¯Å¾u zbavit. Bez potravin z mÃ© zahrady umÅ™u hlady.}
+{189}{}{MoÅ¾nÃ¡, Å¾e vÃ¡m mÅ¯Å¾u pomoct... za menÅ¡Ã­ odmÄ›nu.}
+{190}{}{PomÅ¯Å¾u vÃ¡m.}
+{191}{}{PÅ™iznejte se ke krÃ¡deÅ¾i tÄ›ch hodinek a jÃ¡ vÃ¡m pomÅ¯Å¾u.}
+{193}{}{PodÃ­vej se kolem! Jsem jen starÃ½, chudÃ½ muÅ¾. NemÃ¡m dost jÃ­dla ani pro sebe a ty chceÅ¡ jeÅ¡tÄ› odmÄ›nu.}
+{194}{}{DobÅ™e. I pÅ™esto vÃ¡m pomÅ¯Å¾u.}
+{195}{}{Je mi lÃ­to, ale nemÅ¯Å¾u vÃ¡m pomoct.}
+{196}{}{To by bylo skvÄ›lÃ©. Ani nevÃ­m, jak ti mÃ¡m za to podÄ›kovat. Moje zahrada leÅ¾Ã­ kousek na vÃ½chod. PojÄ se mnou, ukÃ¡Å¾u ti ji.}
+{197}{}{DÃ­ky! Jsi opravdovÃ½ hrdina. Jen mÃ¡lo lidÃ­ by riskovalo svÅ¯j Å¾ivot pro ÃºplnÃ©ho cizince. DÃ­ky! DÃ­ky! DÃ­ky... (MÃ¡Å¡ zase ten pÅ™Ã­jemnÃ½ hÅ™ejivÃ½ pocit po celÃ©m tÄ›le.)}
+{198}{}{MÅ¯Å¾u se jeÅ¡tÄ› na nÄ›co zeptat?}
+{199}{}{RadÄ›ji umÅ™u, neÅ¾ abych poÅ¡pinil svÃ© dobrÃ© jmÃ©no! TÃ¡hni k Äertu!}
+{200}{}{KaÅ¾dÃ½ mÄ› obviÅˆuje z krÃ¡deÅ¾e zlatÃ½ch hodinek mÃ©ho nejlepÅ¡Ã­ho pÅ™Ã­tele Corneliuse. JÃ¡ a Cornelius jsme byli vÅ¾dy pÅ™Ã¡telÃ©. Nikdy bych neukradl jeho hodinky. VÅ¡ude jsem je hledal, abychom mohli bÃ½t opÄ›t dobÅ™Ã­ pÅ™Ã¡telÃ©, ale bohuÅ¾el.}
+{201}{}{ChvÃ­li se ve mÄ›stÄ› zdrÅ¾Ã­m. KdyÅ¾ na nÄ› narazÃ­m, dÃ¡m vÃ¡m vÄ›dÄ›t.}
+{202}{}{To je opravdu Å¡koda. MÅ¯Å¾u se jeÅ¡tÄ› na nÄ›co zeptat?}
+{203}{}{Opravdu? Nikdo mi nechce pomoct, protoÅ¾e si vÅ¡ichni myslÃ­, Å¾e jsem ukradl ty hodinky. Bylo by skvÄ›lÃ© mÃ­t koneÄnÄ› zase nÄ›koho, kdo mi dÅ¯vÄ›Å™uje. UÅ¾ jsem se na nÄ› ptal snad kaÅ¾dÃ©ho, ale nebude na Å¡kodu se jich zeptat znovu. TÅ™eba ti Å™eknou nÄ›co, co mnÄ› Å™Ã­ct nechtÄ›li. Taky nebude na Å¡kodu porozhlÃ©dnout se okolo RÃ³zina penzionu. Cornelius je znÃ¡mÃ½ tÃ­m, Å¾e vÅ¡ude odklÃ¡dÃ¡ svoje vÄ›ci a za chvÃ­li si uÅ¾ nedokÃ¡Å¾e vzpomenout, kde je nechal.}
+{205}{}{PoÄkej, podÃ­vÃ¡m se! Ano, to jsou ony! Å˜Ã­kÃ¡Å¡, Å¾e ty hodinky ukradla krysa z kanalizace? A ty ses tam vydal a naÅ¡el je? FUUJ! MusÃ­m je dÃ¡t okamÅ¾itÄ› Corneliovi! MÅ¯Å¾eme bÃ½t zase pÅ™Ã¡telÃ©. DÃ­ky.}
+{206}{}{Taky tÄ› zdravÃ­m. MÅ¯Å¾eÅ¡ udÄ›lat pro starÃ©ho Farrela malou laskavost, mÅ¯j zabrÅ¾dÄ›nÃ½ pÅ™Ã­teli? MÃ¡m problÃ©m se Å¡kÅ¯dci v zahradÄ›. Zlikviduj je a dostaneÅ¡ odmÄ›nu.}
+{207}{}{Ne, ne, ne... jÃ¡ neudÄ›lat to.}
+{208}{}{Jo, udÄ›lat to.}
+{209}{}{PÃ¡ pÃ¡!}
+{210}{}{V tom pÅ™Ã­padÄ› vypadni, ty zabednÄ›nÃ½ tupÄe!}
+{211}{}{To je od tebe milÃ©, mÅ¯j drahÃ½ pÅ™Ã­teli. (Vezme tÄ› za ruku a zavede tÄ› do zahrady.) Nechci, aby ses ztratil. PÅ™ijÄ za mnou, aÅ¾ vyhubÃ­Å¡ ty Å¡kÅ¯dce.}
+{212}{}{MÅ¯j drahouÅ¡ku. Jsi tak laskavÃ¡ ke starÃ©mu muÅ¾i. (Vezme tÄ› za ruku a zavede tÄ› do zahrady.) Nechci, aby ses ztratila. PÅ™ijÄ za mnou, aÅ¾ vyhubÃ­Å¡ ty Å¡kÅ¯dce.}
+{213}{}{VÃ½bornÄ›! Tady je tvoje odmÄ›na. (ZalovÃ­ ve svÃ½ch kalhotÃ¡ch a najde napÅ¯l snÄ›denou suÅ¡enku.) Tak a teÄ buÄ hodnÃ½ divoch, vezmi si svou suÅ¡enku a jdi si hrÃ¡t ven.}
+{300}{}{JÃ¡ toho parchanta zabiju.}
+{301}{}{NenÃ¡vidÃ­m ho...}
 {302}{}{Vrrr...}
-{501}{}{Já ty pitomı hodinky neukradl!}
-{502}{}{Øíkám ti, e jsem nevinnı!}
-{503}{}{Vdy netrefíš ani vrata od stodoly!}
-{550}{}{Neposlouchá tì.}
-{600}{}{Dlouhotrvající spor mezi Farrelem a Corneliem byl ukonèen usmíøením.}
+{501}{}{JÃ¡ ty pitomÃ½ hodinky neukradl!}
+{502}{}{Å˜Ã­kÃ¡m ti, Å¾e jsem nevinnÃ½!}
+{503}{}{VÅ¾dyÅ¥ netrefÃ­Å¡ ani vrata od stodoly!}
+{550}{}{NeposlouchÃ¡ tÄ›.}
+{600}{}{DlouhotrvajÃ­cÃ­ spor mezi Farrelem a Corneliem byl ukonÄen usmÃ­Å™enÃ­m.}

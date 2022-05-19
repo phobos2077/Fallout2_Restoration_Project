@@ -1,8 +1,8 @@
-{100}{}{Vidíš lovce.}
-{101}{}{Jsi tady vítán, Vyvolenı.}
-{102}{}{U se ti podaøilo najít svatı GECK?}
-{103}{}{Vra se brzy i s GECKem.}
-{104}{}{A jsou tvé cesty bez bolesti.}
-{105}{}{Vra nám to, co je nám dlueno.}
-{106}{}{Musíš si pospíšit, Vyvolenı.}
-{107}{}{Naše modlitby jsou s tebou, Vyvolenı.}
+{100}{}{VidÃ­Å¡ lovce.}
+{101}{}{Jsi tady vÃ­tÃ¡n, VyvolenÃ½.}
+{102}{}{UÅ¾ se ti podaÅ™ilo najÃ­t svatÃ½ GECK?}
+{103}{}{VraÅ¥ se brzy i s GECKem.}
+{104}{}{AÅ¥ jsou tvÃ© cesty bez bolesti.}
+{105}{}{VraÅ¥ nÃ¡m to, co je nÃ¡m dluÅ¾eno.}
+{106}{}{MusÃ­Å¡ si pospÃ­Å¡it, VyvolenÃ½.}
+{107}{}{NaÅ¡e modlitby jsou s tebou, VyvolenÃ½.}

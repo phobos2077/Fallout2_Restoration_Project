@@ -1,3 +1,3 @@
-{100}{}{Vidíš robota.}
-{101}{}{Tento robot je velmi poškozenı. Jeho promáèknutı povrch je pokryt škrábanci, blátem a èouhajícími dráty.}
+{100}{}{VidÃ­Å¡ robota.}
+{101}{}{Tento robot je velmi poÅ¡kozenÃ½. Jeho promÃ¡ÄknutÃ½ povrch je pokryt Å¡krÃ¡banci, blÃ¡tem a ÄouhajÃ­cÃ­mi drÃ¡ty.}
 {102}{}{}

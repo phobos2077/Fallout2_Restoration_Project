@@ -1,82 +1,82 @@
-{100}{}{Vidíš malého, udìlaného horníka s kudrnatımi èernımi vlasy.}
-{101}{}{Vidíš Caminetta, vıtrníka z dolu Kokoweef.}
-{102}{}{Vidíš zavalitého mue se sebevìdomım vırazem.}
-{103}{}{Caminetto, tví horníci z Kokoweefu jsou k smíchu.}
-{104}{}{Já ti ukáu kam máš jít, Rouhavá Betty.}
-{105}{}{Ty bys mi to neukázal, ani kdybys mìl mapu.}
-{106}{}{Ale jen proto, abych se k tobì nemusel pøibliovat.}
-{107}{}{Moc si lichotíš, ty zakrslíku.}
-{108}{}{Ty bys byla šastná i za toho zakrslíka namísto tı vrtaèky, kterou obvykle pouíváš.}
-{109}{}{No, aspoò ta vrtaèka vydrí dıl ne tøicet sekund.}
-{110}{}{Není divu, e jsou vrtáky Morningstaru vìènì zlámanı.}
-{111}{}{Já ti ukáu zlámanı... pìstma!}
-{112}{}{Tvıma pìstma? Staèí mi tvùj dech.}
-{113}{}{Nechápu, jak to mùeš cítit pøes ten oblak vlastního smradu.}
-{114}{}{Smradu? Pouhı pohled na tebe mi pùsobí mnohem vìtší utrpení.}
-{115}{}{Ty nevíš o bolesti vùbec nic, ale dám ti o ní pár lekcí.}
-{116}{}{Ty mnì?}
-{117}{}{Jo, pøesnì tak. Paè tvoje máma na to asi zapomnìla.}
-{118}{}{Teï zaèneš mluvit o mojí mámì? To není moc kreativní.}
-{119}{}{Kreativní to bude, a ti udìlám novej ksicht. Na ten starej se u nedá koukat.}
-{120}{}{Ty? A kde na to vezmeš lidi?}
-{121}{}{Vystaèím si sama. Vsadím se, e my z Morningstaru vás rozneseme levou zadní.}
-{122}{}{Pochybuju. Tady vládne Kokoweef. Mìl bych tì o tom pouèit.}
-{123}{}{To se ti bude tìko dìlat, kdy budeš v bezvìdomí.}
-{124}{}{Myslíš, e budeš mít takovı štìstí, jo?}
-{125}{}{Na to, abych tì zadupala do podlahy, nepotøebuju štìstí.}
-{126}{}{No, tlustá jsi na to dost, to je fakt. Pomoc, u se bojím.}
-{127}{}{Tak se uka, nebo sklapni, ty skrèku.}
-{128}{}{Tak se uka, ty krávo.}
-{129}{}{A kdo teï doufá, e bude mít štìstí?}
-{130}{}{U toho mám dost, za tohle tì vynesu v zubech.}
-{131}{}{Kdo to na nás sakra èumí?}
-{132}{}{To je nìkdo novej. Hej, tohle je soukromá záleitost! Vypadni!}
-{133}{}{Pro jednou s tebou musím souhlasit. Vypadni!}
-{134}{}{To je ono. Strè všechny zatracenı horníky v Reddingu za møíe.}
-{135}{}{Máš fakt kurá nás všechny zavøít.}
-{136}{}{Jen jsme se trochu bavili. Nech nás na pokoji.}
-{137}{}{Do toho, co jsme dìlali, ti je houby.}
+{100}{}{VidÃ­Å¡ malÃ©ho, udÄ›lanÃ©ho hornÃ­ka s kudrnatÃ½mi ÄernÃ½mi vlasy.}
+{101}{}{VidÃ­Å¡ Caminetta, vÃ½trÅ¾nÃ­ka z dolu Kokoweef.}
+{102}{}{VidÃ­Å¡ zavalitÃ©ho muÅ¾e se sebevÄ›domÃ½m vÃ½razem.}
+{103}{}{Caminetto, tvÃ­ hornÃ­ci z Kokoweefu jsou k smÃ­chu.}
+{104}{}{JÃ¡ ti ukÃ¡Å¾u kam mÃ¡Å¡ jÃ­t, RouhavÃ¡ Betty.}
+{105}{}{Ty bys mi to neukÃ¡zal, ani kdybys mÄ›l mapu.}
+{106}{}{Ale jen proto, abych se k tobÄ› nemusel pÅ™ibliÅ¾ovat.}
+{107}{}{Moc si lichotÃ­Å¡, ty zakrslÃ­ku.}
+{108}{}{Ty bys byla Å¡Å¥astnÃ¡ i za toho zakrslÃ­ka namÃ­sto tÃ½ vrtaÄky, kterou obvykle pouÅ¾Ã­vÃ¡Å¡.}
+{109}{}{No, aspoÅˆ ta vrtaÄka vydrÅ¾Ã­ dÃ½l neÅ¾ tÅ™icet sekund.}
+{110}{}{NenÃ­ divu, Å¾e jsou vrtÃ¡ky Morningstaru vÄ›ÄnÄ› zlÃ¡manÃ½.}
+{111}{}{JÃ¡ ti ukÃ¡Å¾u zlÃ¡manÃ½... pÄ›stma!}
+{112}{}{TvÃ½ma pÄ›stma? StaÄÃ­ mi tvÅ¯j dech.}
+{113}{}{NechÃ¡pu, jak to mÅ¯Å¾eÅ¡ cÃ­tit pÅ™es ten oblak vlastnÃ­ho smradu.}
+{114}{}{Smradu? PouhÃ½ pohled na tebe mi pÅ¯sobÃ­ mnohem vÄ›tÅ¡Ã­ utrpenÃ­.}
+{115}{}{Ty nevÃ­Å¡ o bolesti vÅ¯bec nic, ale dÃ¡m ti o nÃ­ pÃ¡r lekcÃ­.}
+{116}{}{Ty mnÄ›?}
+{117}{}{Jo, pÅ™esnÄ› tak. PaÄ tvoje mÃ¡ma na to asi zapomnÄ›la.}
+{118}{}{TeÄ zaÄneÅ¡ mluvit o mojÃ­ mÃ¡mÄ›? To nenÃ­ moc kreativnÃ­.}
+{119}{}{KreativnÃ­ to bude, aÅ¾ ti udÄ›lÃ¡m novej ksicht. Na ten starej se uÅ¾ nedÃ¡ koukat.}
+{120}{}{Ty? A kde na to vezmeÅ¡ lidi?}
+{121}{}{VystaÄÃ­m si sama. VsadÃ­m se, Å¾e my z Morningstaru vÃ¡s rozneseme levou zadnÃ­.}
+{122}{}{Pochybuju. Tady vlÃ¡dne Kokoweef. MÄ›l bych tÄ› o tom pouÄit.}
+{123}{}{To se ti bude tÄ›Å¾ko dÄ›lat, kdyÅ¾ budeÅ¡ v bezvÄ›domÃ­.}
+{124}{}{MyslÃ­Å¡, Å¾e budeÅ¡ mÃ­t takovÃ½ Å¡tÄ›stÃ­, jo?}
+{125}{}{Na to, abych tÄ› zadupala do podlahy, nepotÅ™ebuju Å¡tÄ›stÃ­.}
+{126}{}{No, tlustÃ¡ jsi na to dost, to je fakt. Pomoc, uÅ¾ se bojÃ­m.}
+{127}{}{Tak se ukaÅ¾, nebo sklapni, ty skrÄku.}
+{128}{}{Tak se ukaÅ¾, ty krÃ¡vo.}
+{129}{}{A kdo teÄ doufÃ¡, Å¾e bude mÃ­t Å¡tÄ›stÃ­?}
+{130}{}{UÅ¾ toho mÃ¡m dost, za tohle tÄ› vynesu v zubech.}
+{131}{}{Kdo to na nÃ¡s sakra ÄumÃ­?}
+{132}{}{To je nÄ›kdo novej. Hej, tohle je soukromÃ¡ zÃ¡leÅ¾itost! Vypadni!}
+{133}{}{Pro jednou s tebou musÃ­m souhlasit. Vypadni!}
+{134}{}{To je ono. StrÄ vÅ¡echny zatracenÃ½ hornÃ­ky v Reddingu za mÅ™Ã­Å¾e.}
+{135}{}{MÃ¡Å¡ fakt kurÃ¡Å¾ nÃ¡s vÅ¡echny zavÅ™Ã­t.}
+{136}{}{Jen jsme se trochu bavili. Nech nÃ¡s na pokoji.}
+{137}{}{Do toho, co jsme dÄ›lali, ti je houby.}
 {138}{}{Vypadni sakra odsud.}
-{139}{}{Dostaòte mì odsud.}
-{140}{}{Hej, puste mì ven.}
-{141}{}{Jsem nevinnı.}
-{142}{}{Nic jsem neudìlal.}
-{143}{}{Šerife, musím na záchod.}
-{144}{}{Co sakra chceš?}
-{145}{}{Nedovolím, abyste se navzájem pomlátili.}
-{146}{}{Zajímalo by mì, co se tady dìje.}
-{147}{}{Já a moji hoši dáme tìmhle chudákùm z Morningstaru malièkou lekci. A zaèneme támhle s Rouhavou Betty.}
-{148}{}{Proè? Jak to zaèalo?}
-{149}{}{Aha. Jene já ti to nedovolím. Musíte toho hned nechat.}
-{150}{}{U nás nebaví èichat jejich smrad v našem baru.}
-{151}{}{To mi nepøijde jako dobrı dùvod. Nedovolím, abyste se pomlátili.}
-{152}{}{No, to opravdu vypadá jako problém. Nebudu vás rušit. Hodnì štìstí.}
-{153}{}{Fakt jo? A jak nás zastavíš?}
-{154}{}{Prvního, kdo udeøí, zabiju.}
-{155}{}{No, nejdøív vás mile poádám. Pak vytáhnu bouchaèku a budu èekat, kdo mi dá šanci se trochu procvièit ve støelbì.}
-{156}{}{Šerif mì poádal o pomoc do doby, ne bude mít zdravou nohu. Dal jsem mu svoje slovo, e tu bude klid.}
-{157}{}{No dobøe... kvùli šerifovi svoje hochy moná uklidním.}
-{158}{}{Díky. Doufal jsem, e se na to budeš dívat stejnì. Sbohem.}
-{159}{}{No ty jsi mi ale dobrák. Vùbec se mi nelíbí ten tvùj drzej tón.}
-{160}{}{Ani se ti nemusí líbit. Buï se mnou pùjdeš do basy dobrovolnì, nebo tu zbyde jen tvoje mrtvola. Je to na tobì.}
-{161}{}{Promiò. Opravdu jsem nechtìl bıt tak nezdvoøilı. Radìji u pùjdu. Sbohem.}
-{162}{}{Dobøe, dobøe. Pùjdu s tebou, kdy zavøeš i Betty. To je fér, ne?}
-{163}{}{Nejsi zrovna v situaci, kdy si mùeš klást podmínky.}
-{164}{}{To není špatnı nápad. Kdy mezi vámi budou møíe, tak snad trochu vychladnete. A teï sebou pohnìte.}
-{165}{}{No ty jsi mi ale tvrïák. Pochybuju, e nás dostaneš, ani by nìkdo nepøišel k úrazu. Myslíš, e se to šerifovi bude líbit?}
+{139}{}{DostaÅˆte mÄ› odsud.}
+{140}{}{Hej, pusÅ¥te mÄ› ven.}
+{141}{}{Jsem nevinnÃ½.}
+{142}{}{Nic jsem neudÄ›lal.}
+{143}{}{Å erife, musÃ­m na zÃ¡chod.}
+{144}{}{Co sakra chceÅ¡?}
+{145}{}{NedovolÃ­m, abyste se navzÃ¡jem pomlÃ¡tili.}
+{146}{}{ZajÃ­malo by mÄ›, co se tady dÄ›je.}
+{147}{}{JÃ¡ a moji hoÅ¡i dÃ¡me tÄ›mhle chudÃ¡kÅ¯m z Morningstaru maliÄkou lekci. A zaÄneme tÃ¡mhle s Rouhavou Betty.}
+{148}{}{ProÄ? Jak to zaÄalo?}
+{149}{}{Aha. JenÅ¾e jÃ¡ ti to nedovolÃ­m. MusÃ­te toho hned nechat.}
+{150}{}{UÅ¾ nÃ¡s nebavÃ­ Äichat jejich smrad v naÅ¡em baru.}
+{151}{}{To mi nepÅ™ijde jako dobrÃ½ dÅ¯vod. NedovolÃ­m, abyste se pomlÃ¡tili.}
+{152}{}{No, to opravdu vypadÃ¡ jako problÃ©m. Nebudu vÃ¡s ruÅ¡it. HodnÄ› Å¡tÄ›stÃ­.}
+{153}{}{Fakt jo? A jak nÃ¡s zastavÃ­Å¡?}
+{154}{}{PrvnÃ­ho, kdo udeÅ™Ã­, zabiju.}
+{155}{}{No, nejdÅ™Ã­v vÃ¡s mile poÅ¾Ã¡dÃ¡m. Pak vytÃ¡hnu bouchaÄku a budu Äekat, kdo mi dÃ¡ Å¡anci se trochu procviÄit ve stÅ™elbÄ›.}
+{156}{}{Å erif mÄ› poÅ¾Ã¡dal o pomoc do doby, neÅ¾ bude mÃ­t zdravou nohu. Dal jsem mu svoje slovo, Å¾e tu bude klid.}
+{157}{}{No dobÅ™e... kvÅ¯li Å¡erifovi svoje hochy moÅ¾nÃ¡ uklidnÃ­m.}
+{158}{}{DÃ­ky. Doufal jsem, Å¾e se na to budeÅ¡ dÃ­vat stejnÄ›. Sbohem.}
+{159}{}{No ty jsi mi ale dobrÃ¡k. VÅ¯bec se mi nelÃ­bÃ­ ten tvÅ¯j drzej tÃ³n.}
+{160}{}{Ani se ti nemusÃ­ lÃ­bit. BuÄ se mnou pÅ¯jdeÅ¡ do basy dobrovolnÄ›, nebo tu zbyde jen tvoje mrtvola. Je to na tobÄ›.}
+{161}{}{PromiÅˆ. Opravdu jsem nechtÄ›l bÃ½t tak nezdvoÅ™ilÃ½. RadÄ›ji uÅ¾ pÅ¯jdu. Sbohem.}
+{162}{}{DobÅ™e, dobÅ™e. PÅ¯jdu s tebou, kdyÅ¾ zavÅ™eÅ¡ i Betty. To je fÃ©r, ne?}
+{163}{}{Nejsi zrovna v situaci, kdy si mÅ¯Å¾eÅ¡ klÃ¡st podmÃ­nky.}
+{164}{}{To nenÃ­ Å¡patnÃ½ nÃ¡pad. KdyÅ¾ mezi vÃ¡mi budou mÅ™Ã­Å¾e, tak snad trochu vychladnete. A teÄ sebou pohnÄ›te.}
+{165}{}{No ty jsi mi ale tvrÄÃ¡k. Pochybuju, Å¾e nÃ¡s dostaneÅ¡, aniÅ¾ by nÄ›kdo nepÅ™iÅ¡el k Ãºrazu. MyslÃ­Å¡, Å¾e se to Å¡erifovi bude lÃ­bit?}
 {166}{}{No, to asi ne.}
-{167}{}{To je mi jedno. Nebude to *moje* krev, která tu poteèe.}
-{168}{}{Dostal jsi mì. Dobøe, pùjdu s tebou dobrovolnì. (Na ostatní.) Jdìte zpátky na šachtu, hoši. Uvidíme se zítra.}
-{169}{}{To je rozumná volba.}
-{170}{}{Nemìj obavy, beru Betty s sebou a bude ti tam dìlat spoleènost. Je to tak, Betty?}
-{171}{}{Myslím, e to udìláme jinak. Myslím, e bude lepší, kdy si stoupneš doprostøed a my tì roztrhneme jako hada.}
-{172}{}{No, tak v tom pøípadì budu muset zavøít oba.}
-{173}{}{No, tak v tom pøípadì muset odprásknout oba.}
-{174}{}{Hmm, myslím, e mì teï zrovna potøebujou nìkde jinde ve mìstì. Budu muset jít. Sbohem.}
-{175}{}{To se vsaï, e ne. Tak proè se za ním nevrátíš a neøekneš mu, e se s tím nedalo nic dìlat?}
-{176}{}{Tak dost. U mám tìch tvıch kecù a po krk. Poslední vızva. Pojï v klidu se mnou, nebo tì roztrhnu jak hada.}
-{177}{}{To moná udìlám. Nechci nikomu ublíit. Sbohem.}
-{178}{}{Tak dobøe. Myslím, e to násilí opravdu nevyøeší... e jo, Betty? (Ona pøikıvne.) Dostal jsi nás. Jdeme s tebou, šerife.}
-{179}{}{Tak se mi to líbí.}
-{180}{}{Ne, u je pozdì. Udìlám z vás obou rádlo pro psy. }
-{181}{}{Bez obav. Dneska veèer nebudu dìlat ádnı potíe.}
+{167}{}{To je mi jedno. Nebude to *moje* krev, kterÃ¡ tu poteÄe.}
+{168}{}{Dostal jsi mÄ›. DobÅ™e, pÅ¯jdu s tebou dobrovolnÄ›. (Na ostatnÃ­.) JdÄ›te zpÃ¡tky na Å¡achtu, hoÅ¡i. UvidÃ­me se zÃ­tra.}
+{169}{}{To je rozumnÃ¡ volba.}
+{170}{}{NemÄ›j obavy, beru Betty s sebou a bude ti tam dÄ›lat spoleÄnost. Je to tak, Betty?}
+{171}{}{MyslÃ­m, Å¾e to udÄ›lÃ¡me jinak. MyslÃ­m, Å¾e bude lepÅ¡Ã­, kdyÅ¾ si stoupneÅ¡ doprostÅ™ed a my tÄ› roztrhneme jako hada.}
+{172}{}{No, tak v tom pÅ™Ã­padÄ› budu muset zavÅ™Ã­t oba.}
+{173}{}{No, tak v tom pÅ™Ã­padÄ› muset odprÃ¡sknout oba.}
+{174}{}{Hmm, myslÃ­m, Å¾e mÄ› teÄ zrovna potÅ™ebujou nÄ›kde jinde ve mÄ›stÄ›. Budu muset jÃ­t. Sbohem.}
+{175}{}{To se vsaÄ, Å¾e ne. Tak proÄ se za nÃ­m nevrÃ¡tÃ­Å¡ a neÅ™ekneÅ¡ mu, Å¾e se s tÃ­m nedalo nic dÄ›lat?}
+{176}{}{Tak dost. UÅ¾ mÃ¡m tÄ›ch tvÃ½ch kecÅ¯ aÅ¾ po krk. PoslednÃ­ vÃ½zva. PojÄ v klidu se mnou, nebo tÄ› roztrhnu jak hada.}
+{177}{}{To moÅ¾nÃ¡ udÄ›lÃ¡m. Nechci nikomu ublÃ­Å¾it. Sbohem.}
+{178}{}{Tak dobÅ™e. MyslÃ­m, Å¾e to nÃ¡silÃ­ opravdu nevyÅ™eÅ¡Ã­... Å¾e jo, Betty? (Ona pÅ™ikÃ½vne.) Dostal jsi nÃ¡s. Jdeme s tebou, Å¡erife.}
+{179}{}{Tak se mi to lÃ­bÃ­.}
+{180}{}{Ne, uÅ¾ je pozdÄ›. UdÄ›lÃ¡m z vÃ¡s obou Å¾rÃ¡dlo pro psy. }
+{181}{}{Bez obav. Dneska veÄer nebudu dÄ›lat Å¾Ã¡dnÃ½ potÃ­Å¾e.}

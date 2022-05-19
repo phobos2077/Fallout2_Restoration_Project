@@ -1,9 +1,9 @@
-{100}{}{Zabíjení je forma umìní.}
-{101}{}{Zemøít je tvùj osud.}
-{102}{}{ivot a smrt jsou stejné.}
-{103}{}{Zemøi se ctí!}
-{104}{}{Pøišel mùj èas zemøít.}
-{105}{}{Zemøít v bitvì je pocta. Jo, pøesnì tak!}
-{106}{}{Je tøeba víc studovat.}
-{107}{}{Utéct je potupné. Zemøít by bylo horší.}
-{108}{}{Lepší ivı zbabìlec ne mrtvı hrdina.}
+{100}{}{ZabÃ­jenÃ­ je forma umÄ›nÃ­.}
+{101}{}{ZemÅ™Ã­t je tvÅ¯j osud.}
+{102}{}{Å½ivot a smrt jsou stejnÃ©.}
+{103}{}{ZemÅ™i se ctÃ­!}
+{104}{}{PÅ™iÅ¡el mÅ¯j Äas zemÅ™Ã­t.}
+{105}{}{ZemÅ™Ã­t v bitvÄ› je pocta. Jo, pÅ™esnÄ› tak!}
+{106}{}{Je tÅ™eba vÃ­c studovat.}
+{107}{}{UtÃ©ct je potupnÃ©. ZemÅ™Ã­t by bylo horÅ¡Ã­.}
+{108}{}{LepÅ¡Ã­ Å¾ivÃ½ zbabÄ›lec neÅ¾ mrtvÃ½ hrdina.}

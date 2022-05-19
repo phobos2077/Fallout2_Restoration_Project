@@ -1,50 +1,50 @@
-{100}{}{Vidíš Obèana ve svìtlemodrém obleèení. Vypadá to jako kombinéza Zakladatele, ale na zádech nemá ádné èíslo.}
-{101}{}{Vidíš Darrow, asistentku koloniálu.}
-{102}{}{Vidíš Obèana ve svìtlemodrém obleèení. Vypadá to jako kombinéza Zakladatele, ale na zádech nemá ádné èíslo.}
+{100}{}{VidÃ­Å¡ ObÄana ve svÄ›tlemodrÃ©m obleÄenÃ­. VypadÃ¡ to jako kombinÃ©za Zakladatele, ale na zÃ¡dech nemÃ¡ Å¾Ã¡dnÃ© ÄÃ­slo.}
+{101}{}{VidÃ­Å¡ Darrow, asistentku koloniÃ¡lu.}
+{102}{}{VidÃ­Å¡ ObÄana ve svÄ›tlemodrÃ©m obleÄenÃ­. VypadÃ¡ to jako kombinÃ©za Zakladatele, ale na zÃ¡dech nemÃ¡ Å¾Ã¡dnÃ© ÄÃ­slo.}
 {103}{}{::tlesk::}
-{104}{}{To je ten hrdina! Podívejte!}
-{105}{}{Na mou duši! To je ten hrdina, pøímo tady ve Vault City!}
-{106}{}{Dobrı den, Kapitáne.}
-{107}{}{Vault City vdy zvítìzí, Kapitáne.}
-{108}{}{Zdravíèko, Obèane.}
-{109}{}{Vault City vdy zvítìzí, Obèane.}
-{110}{}{Mutant! Stráe! Stráe!}
-{111}{}{Ghoul! Stráe! Stráe!}
-{112}{}{Potøebuju objednat další náøadí z Reddingu.}
-{113}{}{Dneska to jde nìjak pomalu.}
-{114}{}{Zajímalo by mì, jestli u Randal dodìlal ten seznam dodávek.}
-{115}{}{Myslím, e jsem ten seznam zásob dal Randalovi u vèera.}
-{116}{}{Pøinejmenším je tahle práce lepší ne dìlat na Úøadì seznamù.}
-{117}{}{Sluebníci neustále opotøebovávají náøadí. Ké by se o nì trochu lépe starali...}
-{118}{}{Potøebuju dovolenou.}
-{119}{}{Koloniál se na noc zavírá... pøijïte ráno. }
-{120}{}{Zrovna zavíráme. Zkuste pøijít zítra ráno.}
-{121}{}{Zavíráme. Jestli nìco nutnì potøebujete, mùete zkusit obchod venku na Pøedmìstí.}
-{122}{}{Mùu vám nìjak pomoct, Kapitán?}
-{123}{}{Mùu vám nìjak pomoct, Obèane?}
-{124}{}{Promiòte, ale mùu vám s nìèím pomoct?}
-{125}{}{Pomoè? Tádyjádydá.}
+{104}{}{To je ten hrdina! PodÃ­vejte!}
+{105}{}{Na mou duÅ¡i! To je ten hrdina, pÅ™Ã­mo tady ve Vault City!}
+{106}{}{DobrÃ½ den, KapitÃ¡ne.}
+{107}{}{Vault City vÅ¾dy zvÃ­tÄ›zÃ­, KapitÃ¡ne.}
+{108}{}{ZdravÃ­Äko, ObÄane.}
+{109}{}{Vault City vÅ¾dy zvÃ­tÄ›zÃ­, ObÄane.}
+{110}{}{Mutant! StrÃ¡Å¾e! StrÃ¡Å¾e!}
+{111}{}{Ghoul! StrÃ¡Å¾e! StrÃ¡Å¾e!}
+{112}{}{PotÅ™ebuju objednat dalÅ¡Ã­ nÃ¡Å™adÃ­ z Reddingu.}
+{113}{}{Dneska to jde nÄ›jak pomalu.}
+{114}{}{ZajÃ­malo by mÄ›, jestli uÅ¾ Randal dodÄ›lal ten seznam dodÃ¡vek.}
+{115}{}{MyslÃ­m, Å¾e jsem ten seznam zÃ¡sob dal Randalovi uÅ¾ vÄera.}
+{116}{}{PÅ™inejmenÅ¡Ã­m je tahle prÃ¡ce lepÅ¡Ã­ neÅ¾ dÄ›lat na ÃšÅ™adÄ› seznamÅ¯.}
+{117}{}{SluÅ¾ebnÃ­ci neustÃ¡le opotÅ™ebovÃ¡vajÃ­ nÃ¡Å™adÃ­. KÃ©Å¾ by se o nÄ› trochu lÃ©pe starali...}
+{118}{}{PotÅ™ebuju dovolenou.}
+{119}{}{KoloniÃ¡l se na noc zavÃ­rÃ¡... pÅ™ijÄte rÃ¡no. }
+{120}{}{Zrovna zavÃ­rÃ¡me. Zkuste pÅ™ijÃ­t zÃ­tra rÃ¡no.}
+{121}{}{ZavÃ­rÃ¡me. Jestli nÄ›co nutnÄ› potÅ™ebujete, mÅ¯Å¾ete zkusit obchod venku na PÅ™edmÄ›stÃ­.}
+{122}{}{MÅ¯Å¾u vÃ¡m nÄ›jak pomoct, KapitÃ¡n?}
+{123}{}{MÅ¯Å¾u vÃ¡m nÄ›jak pomoct, ObÄane?}
+{124}{}{PromiÅˆte, ale mÅ¯Å¾u vÃ¡m s nÄ›ÄÃ­m pomoct?}
+{125}{}{PomoÄ? TÃ¡dyjÃ¡dydÃ¡.}
 {126}{}{Odbelhat se.}
-{127}{}{Co je tohle za místo?}
-{128}{}{Mùu vidìt, co máš na skladì?}
-{129}{}{Dnes nic, díky.}
-{130}{}{Poèkejte tu chvíli, ano? Pøivedu nìkoho, aby vás vyprovodil.}
-{131}{}{NE JÁ NE JÍT.}
-{132}{}{Dobøe.}
-{133}{}{Jak jistì víte, na Pøedmìstí je také obchod. Zkuste se tam podívat. Slyšela jsem, e mají témìø stejnì dobrou nabídku jako my.}
-{134}{}{Eh, díky.}
-{135}{}{Budu si obchodovat kde chci, jasné?}
-{136}{}{Díky za návštìvu. Vault City vdy zvítìzí, Obèane.}
-{137}{}{Díky za návštìvu. Vault City vdy zvítìzí, Kapitáne.}
-{138}{}{Vault City vdy zvítìzí, Obèane.}
-{139}{}{Zdravíèko, Obèane.}
-{140}{}{Koloniál A. Mám na starosti hlavní zásobování jako je náøadí a vìci na opravu. Jmenuju se Darow... úøednice Darrow. Potøebujete nìco? }
-{141}{}{Tohle je Koloniál A... staráme se o náøadí a vìci na opravu. Víte urèitì, e je tohle místo, které hledáte?}
-{142}{}{Mùu vidìt, co máš na skladì?}
-{143}{}{Ano, to je pøesnì ono. Mùu se podívat, co nabízíte?}
-{144}{}{Dnes nic, díky.}
-{145}{}{Myslím, e ne. Sbohem.}
+{127}{}{Co je tohle za mÃ­sto?}
+{128}{}{MÅ¯Å¾u vidÄ›t, co mÃ¡Å¡ na skladÄ›?}
+{129}{}{Dnes nic, dÃ­ky.}
+{130}{}{PoÄkejte tu chvÃ­li, ano? PÅ™ivedu nÄ›koho, aby vÃ¡s vyprovodil.}
+{131}{}{NE JÃ NE JÃT.}
+{132}{}{DobÅ™e.}
+{133}{}{Jak jistÄ› vÃ­te, na PÅ™edmÄ›stÃ­ je takÃ© obchod. Zkuste se tam podÃ­vat. SlyÅ¡ela jsem, Å¾e majÃ­ tÃ©mÄ›Å™ stejnÄ› dobrou nabÃ­dku jako my.}
+{134}{}{Eh, dÃ­ky.}
+{135}{}{Budu si obchodovat kde chci, jasnÃ©?}
+{136}{}{DÃ­ky za nÃ¡vÅ¡tÄ›vu. Vault City vÅ¾dy zvÃ­tÄ›zÃ­, ObÄane.}
+{137}{}{DÃ­ky za nÃ¡vÅ¡tÄ›vu. Vault City vÅ¾dy zvÃ­tÄ›zÃ­, KapitÃ¡ne.}
+{138}{}{Vault City vÅ¾dy zvÃ­tÄ›zÃ­, ObÄane.}
+{139}{}{ZdravÃ­Äko, ObÄane.}
+{140}{}{KoloniÃ¡l A. MÃ¡m na starosti hlavnÃ­ zÃ¡sobovÃ¡nÃ­ jako je nÃ¡Å™adÃ­ a vÄ›ci na opravu. Jmenuju se Darow... ÃºÅ™ednice Darrow. PotÅ™ebujete nÄ›co? }
+{141}{}{Tohle je KoloniÃ¡l A... starÃ¡me se o nÃ¡Å™adÃ­ a vÄ›ci na opravu. VÃ­te urÄitÄ›, Å¾e je tohle mÃ­sto, kterÃ© hledÃ¡te?}
+{142}{}{MÅ¯Å¾u vidÄ›t, co mÃ¡Å¡ na skladÄ›?}
+{143}{}{Ano, to je pÅ™esnÄ› ono. MÅ¯Å¾u se podÃ­vat, co nabÃ­zÃ­te?}
+{144}{}{Dnes nic, dÃ­ky.}
+{145}{}{MyslÃ­m, Å¾e ne. Sbohem.}
 {146}{}{Hej! Nesahejte na to!}
-{147}{}{Tak a dost! Vypadnìte odsud!}
-{148}{}{Díky.}
-{149}{}{[Pokraèovat]}
+{147}{}{Tak a dost! VypadnÄ›te odsud!}
+{148}{}{DÃ­ky.}
+{149}{}{[PokraÄovat]}

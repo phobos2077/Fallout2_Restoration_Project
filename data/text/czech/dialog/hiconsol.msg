@@ -1,11 +1,11 @@
-{100}{}{Vidíš poèítaèovou konzoli elektrárny.}
-{101}{}{Tato konzole se pouívá k regulaci a smìrování toku energie v Broken Hills.}
-{102}{}{Radìji na to bezdùvodnì nesahej.}
-{103}{}{Nevìdeckı pøístup k ovládání Erikovi extra šávu nepøidá.}
-{104}{}{Erikùv dùm u má dost energie.}
-{105}{}{Radìji na to bezdùvodnì nesahej.}
-{106}{}{Pokoušíš se zvıšit pøíkon energie do Erikova domu, ale nezdaøilo se.}
-{107}{}{Hrát s proudem se nevyplácí. Dostáváš poøádnou elektrickou ránu.}
-{108}{}{Podaøilo se ti pøijít na to, jak pøesmìrovat víc energie do Erikova domu.}
-{109}{}{Podaøilo se ti pøesmìrovat víc energie do Erikova domu a navíc ještì zoptimalizovat celou elektrickou sí Broken Hills.}
-{110}{}{Erikùv dùm u má dost energie.}
+{100}{}{VidÃ­Å¡ poÄÃ­taÄovou konzoli elektrÃ¡rny.}
+{101}{}{Tato konzole se pouÅ¾Ã­vÃ¡ k regulaci a smÄ›rovÃ¡nÃ­ toku energie v Broken Hills.}
+{102}{}{RadÄ›ji na to bezdÅ¯vodnÄ› nesahej.}
+{103}{}{NevÄ›deckÃ½ pÅ™Ã­stup k ovlÃ¡dÃ¡nÃ­ Erikovi extra Å¡Å¥Ã¡vu nepÅ™idÃ¡.}
+{104}{}{ErikÅ¯v dÅ¯m uÅ¾ mÃ¡ dost energie.}
+{105}{}{RadÄ›ji na to bezdÅ¯vodnÄ› nesahej.}
+{106}{}{PokouÅ¡Ã­Å¡ se zvÃ½Å¡it pÅ™Ã­kon energie do Erikova domu, ale nezdaÅ™ilo se.}
+{107}{}{HrÃ¡t s proudem se nevyplÃ¡cÃ­. DostÃ¡vÃ¡Å¡ poÅ™Ã¡dnou elektrickou rÃ¡nu.}
+{108}{}{PodaÅ™ilo se ti pÅ™ijÃ­t na to, jak pÅ™esmÄ›rovat vÃ­c energie do Erikova domu.}
+{109}{}{PodaÅ™ilo se ti pÅ™esmÄ›rovat vÃ­c energie do Erikova domu a navÃ­c jeÅ¡tÄ› zoptimalizovat celou elektrickou sÃ­Å¥ Broken Hills.}
+{110}{}{ErikÅ¯v dÅ¯m uÅ¾ mÃ¡ dost energie.}

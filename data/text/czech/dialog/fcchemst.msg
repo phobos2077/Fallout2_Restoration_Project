@@ -1,75 +1,75 @@
-{100}{}{Vidíš Shi mue se zamraèenım vırazem ve tváøi.}
-{101}{}{Vidíš Dr. Jing Tie Gahnga.}
-{102}{}{Vidíš Shi mue v laboratorním plášti.}
+{100}{}{VidÃ­Å¡ Shi muÅ¾e se zamraÄenÃ½m vÃ½razem ve tvÃ¡Å™i.}
+{101}{}{VidÃ­Å¡ Dr. Jing Tie Gahnga.}
+{102}{}{VidÃ­Å¡ Shi muÅ¾e v laboratornÃ­m plÃ¡Å¡ti.}
 {103}{}{Kdo jste? Co chcete?}
-{104}{}{Có?}
+{104}{}{CÃ³?}
 {105}{}{Kdo JSTE VY?}
-{106}{}{Já jsem}
-{107}{}{Do toho ti nic není.}
-{108}{}{Nic. U musím jít.}
-{109}{}{Nepatøíte sem, pokud jste hloupı. Utíkejte pryè, ne zavolám stráe.}
-{110}{}{Vy mi asi opravdu nerozumíte, e? Moná budete rozumìt stráím. Stráe! Vetøelec!}
+{106}{}{JÃ¡ jsem}
+{107}{}{Do toho ti nic nenÃ­.}
+{108}{}{Nic. UÅ¾ musÃ­m jÃ­t.}
+{109}{}{NepatÅ™Ã­te sem, pokud jste hloupÃ½. UtÃ­kejte pryÄ, neÅ¾ zavolÃ¡m strÃ¡Å¾e.}
+{110}{}{Vy mi asi opravdu nerozumÃ­te, Å¾e? MoÅ¾nÃ¡ budete rozumÄ›t strÃ¡Å¾Ã­m. StrÃ¡Å¾e! VetÅ™elec!}
 {111}{}{[KONEC]}
-{112}{}{Jsem Jing Tie Gahng. Jsem zodpovìdnı za chemickou laboratoø Ocelového Paláce... a rušíte mì pøi dùleité práci. Odejdìte prosím. HNED... nebo zavolám stráe.}
-{113}{}{Tak si poslute a zavolejte je, starochu.}
-{114}{}{Fajn, fajn. U jdu.}
-{115}{}{Dobøe,}
-{116}{}{Ano. Potøebuju získat palivo pro Poseidon Oil tanker.}
-{117}{}{Chci vìdìt, co tady dìláte.}
-{118}{}{Potøebuju získat palivo pro Hubologisty.}
-{119}{}{Ne. Právì odcházím.}
-{120}{}{A právì v tom se mılíte. Tohle je toti moje laboratoø. A teï mi øeknìte, co tu chcete.}
-{121}{}{Potøebuju získat palivo pro Poseidon Oil tanker.}
-{122}{}{Chci vìdìt, co tady dìláte.}
-{123}{}{Potøebuju získat palivo pro Hubologisty.}
-{124}{}{Ne. Právì odcházím.}
+{112}{}{Jsem Jing Tie Gahng. Jsem zodpovÄ›dnÃ½ za chemickou laboratoÅ™ OcelovÃ©ho PalÃ¡ce... a ruÅ¡Ã­te mÄ› pÅ™i dÅ¯leÅ¾itÃ© prÃ¡ci. OdejdÄ›te prosÃ­m. HNED... nebo zavolÃ¡m strÃ¡Å¾e.}
+{113}{}{Tak si posluÅ¾te a zavolejte je, starochu.}
+{114}{}{Fajn, fajn. UÅ¾ jdu.}
+{115}{}{DobÅ™e,}
+{116}{}{Ano. PotÅ™ebuju zÃ­skat palivo pro Poseidon Oil tanker.}
+{117}{}{Chci vÄ›dÄ›t, co tady dÄ›lÃ¡te.}
+{118}{}{PotÅ™ebuju zÃ­skat palivo pro Hubologisty.}
+{119}{}{Ne. PrÃ¡vÄ› odchÃ¡zÃ­m.}
+{120}{}{A prÃ¡vÄ› v tom se mÃ½lÃ­te. Tohle je totiÅ¾ moje laboratoÅ™. A teÄ mi Å™eknÄ›te, co tu chcete.}
+{121}{}{PotÅ™ebuju zÃ­skat palivo pro Poseidon Oil tanker.}
+{122}{}{Chci vÄ›dÄ›t, co tady dÄ›lÃ¡te.}
+{123}{}{PotÅ™ebuju zÃ­skat palivo pro Hubologisty.}
+{124}{}{Ne. PrÃ¡vÄ› odchÃ¡zÃ­m.}
 {125}{}{You want fuel for the tanker? I want hardened power armor. I understand a Hubologist, one called Crockett, has a process whereby a regular suit of power armor can be upgraded. Get me such a suit and I will divert the fuel for you.}
-{126}{}{Samozøejmì.}
-{127}{}{Nemùu nic slíbit.}
-{128}{}{Jednu mám zrovna u sebe.}
-{129}{}{Vytváøím chemické slouèeniny a prostøedky pro Císaøe a jeho rádce, Kena Lee. Právì teï pracuji na palivovıch derivátech a polymerech, které budou schopny odolat velkému tlaku. Samozøejmì vás to ale asi nezajímá, jeliko je to zatím spíše teorie.}
-{130}{}{Vlastnì mì to zajímá. Chci palivo pro Poseidon Oil Tanker.}
-{131}{}{Vsadím se, e to bude zajímat Hubologisty. Ti chtìjí palivo.}
-{132}{}{Zatím ne. Ale ještì se vrátím.}
+{126}{}{SamozÅ™ejmÄ›.}
+{127}{}{NemÅ¯Å¾u nic slÃ­bit.}
+{128}{}{Jednu mÃ¡m zrovna u sebe.}
+{129}{}{VytvÃ¡Å™Ã­m chemickÃ© slouÄeniny a prostÅ™edky pro CÃ­saÅ™e a jeho rÃ¡dce, Kena Lee. PrÃ¡vÄ› teÄ pracuji na palivovÃ½ch derivÃ¡tech a polymerech, kterÃ© budou schopny odolat velkÃ©mu tlaku. SamozÅ™ejmÄ› vÃ¡s to ale asi nezajÃ­mÃ¡, jelikoÅ¾ je to zatÃ­m spÃ­Å¡e teorie.}
+{130}{}{VlastnÄ› mÄ› to zajÃ­mÃ¡. Chci palivo pro Poseidon Oil Tanker.}
+{131}{}{VsadÃ­m se, Å¾e to bude zajÃ­mat Hubologisty. Ti chtÄ›jÃ­ palivo.}
+{132}{}{ZatÃ­m ne. Ale jeÅ¡tÄ› se vrÃ¡tÃ­m.}
 {133}{}{They want fuel, do they? Well, as irritating as they are, they do have their uses. I have heard they have developed a process wherein they make a suit of power armor even more invincible. If they will upgrade such a suit of armor for me, I will pass the fuel along the pipeline. I assume it's for their toy spaceship. It is the one called Crockett that you will wish to speak with.}
-{134}{}{Samozøejmì.}
-{135}{}{Nemùu nic slíbit.}
-{136}{}{Jednu mám zrovna u sebe.}
-{137}{}{I kdybych vám chtìl pomoci, nemohl bych. Naše palivové rezervy byly vyèerpány. Moná bude lepší, kdy poádáte o pomoc Hubologisty. Sbohem.}
-{138}{}{Dobøe, v tom pøípadì to je všechno.}
-{139}{}{To bohuel nepùjde. Naše zásoby paliva zmizely. I kdybych chtìl pomoci Hubologistùm, co nechci, nemohl bych. Hezkı den.}
-{140}{}{Dobøe. Ahoj.}
-{141}{}{Dobøe. A teï mì omluvte, mám práci.}
+{134}{}{SamozÅ™ejmÄ›.}
+{135}{}{NemÅ¯Å¾u nic slÃ­bit.}
+{136}{}{Jednu mÃ¡m zrovna u sebe.}
+{137}{}{I kdybych vÃ¡m chtÄ›l pomoci, nemohl bych. NaÅ¡e palivovÃ© rezervy byly vyÄerpÃ¡ny. MoÅ¾nÃ¡ bude lepÅ¡Ã­, kdyÅ¾ poÅ¾Ã¡dÃ¡te o pomoc Hubologisty. Sbohem.}
+{138}{}{DobÅ™e, v tom pÅ™Ã­padÄ› to je vÅ¡echno.}
+{139}{}{To bohuÅ¾el nepÅ¯jde. NaÅ¡e zÃ¡soby paliva zmizely. I kdybych chtÄ›l pomoci HubologistÅ¯m, coÅ¾ nechci, nemohl bych. HezkÃ½ den.}
+{140}{}{DobÅ™e. Ahoj.}
+{141}{}{DobÅ™e. A teÄ mÄ› omluvte, mÃ¡m prÃ¡ci.}
 {142}{}{[KONEC]}
-{143}{}{Vy to neudìláte? Pak vám nemohu prodat to palivo. A teï jdìte pryè, mám práci.}
+{143}{}{Vy to neudÄ›lÃ¡te? Pak vÃ¡m nemohu prodat to palivo. A teÄ jdÄ›te pryÄ, mÃ¡m prÃ¡ci.}
 {144}{}{[KONEC]}
-{145}{}{Máte tvrzenou energo zbroj? Vıbornì! Jak chcete, abych vám zaplatil?}
-{146}{}{Pøeveïte palivo Hubologistùm.}
-{147}{}{Pøeveïte palivo do Poseidon Oil tankeru.}
-{148}{}{Co takhle nìjaké peníze? Takovıch $}
-{149}{}{Myslím, e si ji radìji nechám.}
-{150}{}{Povaujte to za hotové. Úpravy udìlám brzy. A teï mì omluvte, rád bych se vrátil ke své práci.}
-{151}{}{Dík. Naskle.}
-{152}{}{Tolik? Hmm, ale budu moci zkoumat tu silnou energo zbroj... tak dobøe. Tady jsou vaše peníze.}
-{153}{}{Díky. Zatím.}
-{154}{}{Vy si ji chcete nechat? Tak dobøe. Pokud si to rozmyslíte, dejte mi vìdìt.}
+{145}{}{MÃ¡te tvrzenou energo zbroj? VÃ½bornÄ›! Jak chcete, abych vÃ¡m zaplatil?}
+{146}{}{PÅ™eveÄte palivo HubologistÅ¯m.}
+{147}{}{PÅ™eveÄte palivo do Poseidon Oil tankeru.}
+{148}{}{Co takhle nÄ›jakÃ© penÃ­ze? TakovÃ½ch $}
+{149}{}{MyslÃ­m, Å¾e si ji radÄ›ji nechÃ¡m.}
+{150}{}{PovaÅ¾ujte to za hotovÃ©. Ãšpravy udÄ›lÃ¡m brzy. A teÄ mÄ› omluvte, rÃ¡d bych se vrÃ¡til ke svÃ© prÃ¡ci.}
+{151}{}{DÃ­k. Naskle.}
+{152}{}{Tolik? Hmm, ale budu moci zkoumat tu silnou energo zbroj... tak dobÅ™e. Tady jsou vaÅ¡e penÃ­ze.}
+{153}{}{DÃ­ky. ZatÃ­m.}
+{154}{}{Vy si ji chcete nechat? Tak dobÅ™e. Pokud si to rozmyslÃ­te, dejte mi vÄ›dÄ›t.}
 {155}{}{Ano. Nashle.}
-{156}{}{Ani náhodou. Nashle.}
-{157}{}{Stráe! Stráe! Ten cizinec je zpátky! Zabijte ho! }
+{156}{}{Ani nÃ¡hodou. Nashle.}
+{157}{}{StrÃ¡Å¾e! StrÃ¡Å¾e! Ten cizinec je zpÃ¡tky! Zabijte ho! }
 {158}{}{Have you spoken to this Hubologist who calls himself Crockett, and gotten the armor?}
-{159}{}{Ne, ještì ne.}
-{160}{}{Tak proè se sem stále vracíte a otravujete mì?}
-{161}{}{Protoe mám nìjaké otázky.}
-{162}{}{Nemám ponìtí. sbohem.}
-{163}{}{Nepokoušejte mou trpìlivost.}
-{164}{}{Co chceš?}
-{165}{}{Co tady dìláš?}
-{166}{}{Potøebuju získat palivo pro Poseidon Oil Tanker.}
-{167}{}{Potøebuju získat palivo pro Hubologisty.}
-{168}{}{Nic. Promiòte.}
-{169}{}{Jsme bez paliva. S nièím jinım vám teï nemohu pomoci. Jsem pøíliš zamìstnán tou zbrojí. Hezkı den.}
+{159}{}{Ne, jeÅ¡tÄ› ne.}
+{160}{}{Tak proÄ se sem stÃ¡le vracÃ­te a otravujete mÄ›?}
+{161}{}{ProtoÅ¾e mÃ¡m nÄ›jakÃ© otÃ¡zky.}
+{162}{}{NemÃ¡m ponÄ›tÃ­. sbohem.}
+{163}{}{NepokouÅ¡ejte mou trpÄ›livost.}
+{164}{}{Co chceÅ¡?}
+{165}{}{Co tady dÄ›lÃ¡Å¡?}
+{166}{}{PotÅ™ebuju zÃ­skat palivo pro Poseidon Oil Tanker.}
+{167}{}{PotÅ™ebuju zÃ­skat palivo pro Hubologisty.}
+{168}{}{Nic. PromiÅˆte.}
+{169}{}{Jsme bez paliva. S niÄÃ­m jinÃ½m vÃ¡m teÄ nemohu pomoci. Jsem pÅ™Ã­liÅ¡ zamÄ›stnÃ¡n tou zbrojÃ­. HezkÃ½ den.}
 {170}{}{Nashle.}
-{171}{}{. Jen se rozhlíím kolem.}
-{172}{}{, potøebujete nìco?}
-{173}{}{ by mohlo staèit.}
-{174}{}{U mám všechno, co potøebuji. Promluvte si s Wongem.}
+{171}{}{. Jen se rozhlÃ­Å¾Ã­m kolem.}
+{172}{}{, potÅ™ebujete nÄ›co?}
+{173}{}{ by mohlo staÄit.}
+{174}{}{UÅ¾ mÃ¡m vÅ¡echno, co potÅ™ebuji. Promluvte si s Wongem.}

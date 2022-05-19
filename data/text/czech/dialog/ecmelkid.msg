@@ -1,11 +1,11 @@
-{100}{}{Vidíš malého skrèka.}
-{101}{}{Vidíš malého Melchiora.}
-{150}{}{Je to usmìvavı kluk s velkım kukuèem.}
-{200}{}{Ahoj! Jsem Melchior mladší.}
-{201}{}{Táta je horník. Jmenuje se stejnì jako já, Melchior.}
-{202}{}{Táta je dobrı horník, ale chtìl by se stát kouzelníkem.}
-{203}{}{Tátovo umìlecké jméno je "Melchior Velkolepı".}
-{204}{}{Jeho nejvìtším èíslem byla krysa z klobouku.}
-{205}{}{Odešel s nìjakımi mui odìnımi do plechové vıstroje.}
-{206}{}{Doufám, e se táta brzy vrátí. Je mi smutno po jeho kouzlech.}
-{207}{}{Chci se stát velkım kouzelníkem jako táta.}
+{100}{}{VidÃ­Å¡ malÃ©ho skrÄka.}
+{101}{}{VidÃ­Å¡ malÃ©ho Melchiora.}
+{150}{}{Je to usmÄ›vavÃ½ kluk s velkÃ½m kukuÄem.}
+{200}{}{Ahoj! Jsem Melchior mladÅ¡Ã­.}
+{201}{}{TÃ¡ta je hornÃ­k. Jmenuje se stejnÄ› jako jÃ¡, Melchior.}
+{202}{}{TÃ¡ta je dobrÃ½ hornÃ­k, ale chtÄ›l by se stÃ¡t kouzelnÃ­kem.}
+{203}{}{TÃ¡tovo umÄ›leckÃ© jmÃ©no je "Melchior VelkolepÃ½".}
+{204}{}{Jeho nejvÄ›tÅ¡Ã­m ÄÃ­slem byla krysa z klobouku.}
+{205}{}{OdeÅ¡el s nÄ›jakÃ½mi muÅ¾i odÄ›nÃ½mi do plechovÃ© vÃ½stroje.}
+{206}{}{DoufÃ¡m, Å¾e se tÃ¡ta brzy vrÃ¡tÃ­. Je mi smutno po jeho kouzlech.}
+{207}{}{Chci se stÃ¡t velkÃ½m kouzelnÃ­kem jako tÃ¡ta.}

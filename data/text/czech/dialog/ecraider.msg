@@ -1,19 +1,19 @@
-{100}{}{Vidíš drsnì vypadajícího èlovìka.}
-{101}{}{Vidíš nájezdníka.}
-{200}{}{Tohle je naše území. Teï zemøeš!}
-{201}{}{Jak se opovauješ pøijít bez pozvání?}
-{202}{}{Chcípni, mìstská kryso!}
-{203}{}{Tvoje smrt mi pøinese peníze.}
-{204}{}{Uteè, srágoro!}
-{205}{}{Víte, co máte dìlat, pánové.}
-{206}{}{ádní svìdci.}
-{207}{}{Kryjte mì.}
-{208}{}{ádnı slitování!}
-{209}{}{Nikdo nesmí pøeít.}
-{210}{}{Bishop øíká vstup zakázán.}
-{211}{}{Jdu si pro vıplatu!}
-{300}{}{Vidíš abáka Mortona.}
-{301}{}{Vidíš Ropuchu Mortona.}
-{302}{}{Vidíš Mloka Mortona.}
-{303}{}{Vidíš Hada Mortona.}
-{305}{}{Zabil jsi mıho bratra! Teï zabiju já tebe!}
+{100}{}{VidÃ­Å¡ drsnÄ› vypadajÃ­cÃ­ho ÄlovÄ›ka.}
+{101}{}{VidÃ­Å¡ nÃ¡jezdnÃ­ka.}
+{200}{}{Tohle je naÅ¡e ÃºzemÃ­. TeÄ zemÅ™eÅ¡!}
+{201}{}{Jak se opovaÅ¾ujeÅ¡ pÅ™ijÃ­t bez pozvÃ¡nÃ­?}
+{202}{}{ChcÃ­pni, mÄ›stskÃ¡ kryso!}
+{203}{}{Tvoje smrt mi pÅ™inese penÃ­ze.}
+{204}{}{UteÄ, srÃ¡goro!}
+{205}{}{VÃ­te, co mÃ¡te dÄ›lat, pÃ¡novÃ©.}
+{206}{}{Å½Ã¡dnÃ­ svÄ›dci.}
+{207}{}{Kryjte mÄ›.}
+{208}{}{Å½Ã¡dnÃ½ slitovÃ¡nÃ­!}
+{209}{}{Nikdo nesmÃ­ pÅ™eÅ¾Ã­t.}
+{210}{}{Bishop Å™Ã­kÃ¡ vstup zakÃ¡zÃ¡n.}
+{211}{}{Jdu si pro vÃ½platu!}
+{300}{}{VidÃ­Å¡ Å½abÃ¡ka Mortona.}
+{301}{}{VidÃ­Å¡ Ropuchu Mortona.}
+{302}{}{VidÃ­Å¡ Mloka Mortona.}
+{303}{}{VidÃ­Å¡ Hada Mortona.}
+{305}{}{Zabil jsi mÃ½ho bratra! TeÄ zabiju jÃ¡ tebe!}

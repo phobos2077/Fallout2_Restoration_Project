@@ -1,4 +1,4 @@
-{100}{}{Vidíš starı, rezavı vìtrák.}
-{101}{}{Vìtrák by se dal snadno zastavit nìjakım kusem eleza.}
-{102}{}{Ve vìtráku je zaseknutá kovová tyè.}
-{200}{}{Strèíš tyè do vìtráku. Slyšíš skøípání eleza a vìtrák se zastaví. Vydává bouchavı zvuk, kdy se pokouší roztoèit zaseknuté lopatky.}
+{100}{}{VidÃ­Å¡ starÃ½, rezavÃ½ vÄ›trÃ¡k.}
+{101}{}{VÄ›trÃ¡k by se dal snadno zastavit nÄ›jakÃ½m kusem Å¾eleza.}
+{102}{}{Ve vÄ›trÃ¡ku je zaseknutÃ¡ kovovÃ¡ tyÄ.}
+{200}{}{StrÄÃ­Å¡ tyÄ do vÄ›trÃ¡ku. SlyÅ¡Ã­Å¡ skÅ™Ã­pÃ¡nÃ­ Å¾eleza a vÄ›trÃ¡k se zastavÃ­. VydÃ¡vÃ¡ bouchavÃ½ zvuk, kdyÅ¾ se pokouÅ¡Ã­ roztoÄit zaseknutÃ© lopatky.}

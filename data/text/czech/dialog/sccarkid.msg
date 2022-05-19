@@ -1,37 +1,37 @@
-{100}{}{Vidíš malé usmrkané dítì.}
-{101}{}{To je dítì viceprezidenta Carlsona.}
-{102}{}{Vypadá jako rozmazlenı malı fracek. A taky je pìknì tlustı.}
-{103}{}{Mùj tatínek je viceprezident Carlson, tak se ke mnì chovej hezky! Kdo jsi?}
-{104}{}{[Jméno hráèe]}
-{105}{}{Jsem jeden ze stráí tvého otce.}
-{106}{}{Kde je tvùj otec?}
-{107}{}{Vidíš tenhle nù? Ten u zaøíznul i hodnìjší dìti, ne jsi ty.}
-{108}{}{Já jsem tvoje nejhorší noèní mùra, holomku.}
-{109}{}{Promiò chlapèe, ale nemám èas.}
-{110}{}{? To je ale ošklivı jméno. Máš debilní jméno! Debilní jméno!}
-{111}{}{Tak to bys na mì mìl bejt obzvláš hodnej, nebo to povím tatínkovi.}
-{112}{}{Opravdu? A co kdy (šeptem).}
-{113}{}{Jasnì chlapèe.}
-{114}{}{Je uvnitø ve svı kanceláøi. Vdycky tam je.}
-{115}{}{Kde je jeho kanceláø?}
-{116}{}{Dobøe. Díky.}
-{117}{}{U zásobníku s vodou. Nìkdy si tam hraju. Dívám se jak pracuje.}
-{118}{}{Jseš pìknì otravnej malej spratek.}
-{119}{}{Díky chlapèe, moc jsi mi pomohl.}
-{120}{}{Nejseš hodnej, ty jseš zlej! Jdu to øíct tatínkovi!}
-{121}{}{Ahoj, to jseš zase ty? Co chceš?}
-{122}{}{Zeptej se táty, jestli ho mùu navštívit.}
-{123}{}{Øekni tátovi, e mám zprávy o panu Bishopovi. Budeš si to pamatovat?}
-{124}{}{Fòuk.}
-{125}{}{Jseš hroznej blbec! Blbec!}
-{126}{}{Dobøe.}
-{127}{}{Zprávy o panu Mishopovi. Takhle?}
-{128}{}{No, to bude asi staèit.}
-{129}{}{Tatínek øíká, e se s tebou nemùe vidìt.}
-{130}{}{Øekl jsem to tatínkovi. Myslím, e tì nemá rád.}
-{131}{}{Tatínek øíká, e mùeš vstoupit do domu.}
-{132}{}{Øekl jsem tatínkovi, e jseš zlej.}
-{133}{}{Správnì. Jsem hroznì zlı! A sním tì.}
-{134}{}{S nìkım si mì urèitì pleteš, chlapèe.}
-{135}{}{U s tebou nemám mluvit.}
-{136}{}{Mùj tatínek je mrtvı. Proè jsi ho nezachránil?}
+{100}{}{VidÃ­Å¡ malÃ© usmrkanÃ© dÃ­tÄ›.}
+{101}{}{To je dÃ­tÄ› viceprezidenta Carlsona.}
+{102}{}{VypadÃ¡ jako rozmazlenÃ½ malÃ½ fracek. A taky je pÄ›knÄ› tlustÃ½.}
+{103}{}{MÅ¯j tatÃ­nek je viceprezident Carlson, tak se ke mnÄ› chovej hezky! Kdo jsi?}
+{104}{}{[JmÃ©no hrÃ¡Äe]}
+{105}{}{Jsem jeden ze strÃ¡Å¾Ã­ tvÃ©ho otce.}
+{106}{}{Kde je tvÅ¯j otec?}
+{107}{}{VidÃ­Å¡ tenhle nÅ¯Å¾? Ten uÅ¾ zaÅ™Ã­znul i hodnÄ›jÅ¡Ã­ dÄ›ti, neÅ¾ jsi ty.}
+{108}{}{JÃ¡ jsem tvoje nejhorÅ¡Ã­ noÄnÃ­ mÅ¯ra, holomku.}
+{109}{}{PromiÅˆ chlapÄe, ale nemÃ¡m Äas.}
+{110}{}{? To je ale oÅ¡klivÃ½ jmÃ©no. MÃ¡Å¡ debilnÃ­ jmÃ©no! DebilnÃ­ jmÃ©no!}
+{111}{}{Tak to bys na mÄ› mÄ›l bejt obzvlÃ¡Å¡Å¥ hodnej, nebo to povÃ­m tatÃ­nkovi.}
+{112}{}{Opravdu? A co kdyÅ¾ (Å¡eptem).}
+{113}{}{JasnÄ› chlapÄe.}
+{114}{}{Je uvnitÅ™ ve svÃ½ kancelÃ¡Å™i. VÅ¾dycky tam je.}
+{115}{}{Kde je jeho kancelÃ¡Å™?}
+{116}{}{DobÅ™e. DÃ­ky.}
+{117}{}{U zÃ¡sobnÃ­ku s vodou. NÄ›kdy si tam hraju. DÃ­vÃ¡m se jak pracuje.}
+{118}{}{JseÅ¡ pÄ›knÄ› otravnej malej spratek.}
+{119}{}{DÃ­ky chlapÄe, moc jsi mi pomohl.}
+{120}{}{NejseÅ¡ hodnej, ty jseÅ¡ zlej! Jdu to Å™Ã­ct tatÃ­nkovi!}
+{121}{}{Ahoj, to jseÅ¡ zase ty? Co chceÅ¡?}
+{122}{}{Zeptej se tÃ¡ty, jestli ho mÅ¯Å¾u navÅ¡tÃ­vit.}
+{123}{}{Å˜ekni tÃ¡tovi, Å¾e mÃ¡m zprÃ¡vy o panu Bishopovi. BudeÅ¡ si to pamatovat?}
+{124}{}{FÅˆuk.}
+{125}{}{JseÅ¡ hroznej blbec! Blbec!}
+{126}{}{DobÅ™e.}
+{127}{}{ZprÃ¡vy o panu Mishopovi. Takhle?}
+{128}{}{No, to bude asi staÄit.}
+{129}{}{TatÃ­nek Å™Ã­kÃ¡, Å¾e se s tebou nemÅ¯Å¾e vidÄ›t.}
+{130}{}{Å˜ekl jsem to tatÃ­nkovi. MyslÃ­m, Å¾e tÄ› nemÃ¡ rÃ¡d.}
+{131}{}{TatÃ­nek Å™Ã­kÃ¡, Å¾e mÅ¯Å¾eÅ¡ vstoupit do domu.}
+{132}{}{Å˜ekl jsem tatÃ­nkovi, Å¾e jseÅ¡ zlej.}
+{133}{}{SprÃ¡vnÄ›. Jsem hroznÄ› zlÃ½! A snÃ­m tÄ›.}
+{134}{}{S nÄ›kÃ½m si mÄ› urÄitÄ› pleteÅ¡, chlapÄe.}
+{135}{}{UÅ¾ s tebou nemÃ¡m mluvit.}
+{136}{}{MÅ¯j tatÃ­nek je mrtvÃ½. ProÄ jsi ho nezachrÃ¡nil?}

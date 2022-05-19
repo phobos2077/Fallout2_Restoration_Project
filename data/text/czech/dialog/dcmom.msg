@@ -1,154 +1,154 @@
-{100}{}{Vidíš pøátelsky vypadající starší enu.}
-{150}{}{Vidíš Mámu. Právì vaøí a uklízí.}
-{151}{}{Vidíš statnou starší enu s veselım úsmìvem na tváøi.}
-{200}{}{Zdravím, já jsem Máma. Ještì jsem tì tu nikdy nevidìla.}
-{201}{}{Zdravím. Co pro tebe mùe Máma udìlat?}
-{202}{}{Já }
-{203}{}{Mmmm. Dobe? Pápá Máma.}
-{220}{}{U se ti podaøilo sníst pùlku mıch zásob. Proè si nenajdeš nìjaké jiné místo na poflakování? U se ti toho podaøilo pro dnešek sníst dost.}
+{100}{}{VidÃ­Å¡ pÅ™Ã¡telsky vypadajÃ­cÃ­ starÅ¡Ã­ Å¾enu.}
+{150}{}{VidÃ­Å¡ MÃ¡mu. PrÃ¡vÄ› vaÅ™Ã­ a uklÃ­zÃ­.}
+{151}{}{VidÃ­Å¡ statnou starÅ¡Ã­ Å¾enu s veselÃ½m ÃºsmÄ›vem na tvÃ¡Å™i.}
+{200}{}{ZdravÃ­m, jÃ¡ jsem MÃ¡ma. JeÅ¡tÄ› jsem tÄ› tu nikdy nevidÄ›la.}
+{201}{}{ZdravÃ­m. Co pro tebe mÅ¯Å¾e MÃ¡ma udÄ›lat?}
+{202}{}{JÃ¡ }
+{203}{}{Mmmm. DobÅ¾e? PÃ¡pÃ¡ MÃ¡ma.}
+{220}{}{UÅ¾ se ti podaÅ™ilo snÃ­st pÅ¯lku mÃ½ch zÃ¡sob. ProÄ si nenajdeÅ¡ nÄ›jakÃ© jinÃ© mÃ­sto na poflakovÃ¡nÃ­? UÅ¾ se ti toho podaÅ™ilo pro dneÅ¡ek snÃ­st dost.}
 {221}{}{No, }
-{222}{}{ opravdu vypadáš, e jsi drobet zmatenı. Nesnáším, kdy nìjakı tvor trpí. Nechceš nìco k jídlu?}
-{223}{}{Já plnı. Máma mít jídlo mòam. Ahoj Máma.}
-{224}{}{Já platit?}
-{225}{}{Já jít. Ahoj Mámo.}
-{240}{}{Tak dobøe. Co tam máš? (Máma se natáhne pro tvoji penìenku.)}
-{241}{}{Mámo? [Zvednout svoji penìenku]}
-{242}{}{Ne! Já jít. Ahoj Máma.}
-{250}{}{Ne, ani ne. Promiò. Máme jenom krysí koláè, krysí sekanou a špagety.}
-{251}{}{Take co to bude tentokrát?}
-{252}{}{Eh, mùu dostat nìco, kde není tolik krys?}
-{253}{}{Myslím, e si dám krysí sekanou.}
-{254}{}{Myslím, e si dám krysí koláè.}
-{270}{}{Mùu ti dát špagety. V nich není tolik krys... jenom v omáèce, jinak ne.}
-{271}{}{Tak dobøe, myslím, e si dám špagety s krysí omáèkou.}
-{280}{}{Hned ti to pøinesu. Bude to $10.}
-{281}{}{Momentálnì nemám dost penìz. Mùu se místo toho na nìco zeptat?}
-{282}{}{$10 za krysu? Ty ses musela zbláznit. Sakra, vdy i my si v okolí vesnice úètujeme mnohem víc za pìknou šavnatou krysu. Dohodnuto.}
-{283}{}{Tak dobøe. Tady jsou peníze.}
-{284}{}{Myslím, e u nemám zájem. Chci se místo toho na nìco zeptat.}
-{285}{}{Myslím, e se vrátím pozdìji. Sbohem.}
-{300}{}{Máš docela dobrı apetit. Ráda vidím zdravé strávníky. Bude ti to staèit?}
-{301}{}{Ani náhodou, Mámo. Chci nášup.}
-{302}{}{Jo, bude. Mùu se tì na nìco zeptat, Mámo?}
-{303}{}{Teï u jo. Sbohem, Mámo.}
-{320}{}{No, nutnì potøebuju nìkoho, aby donesl Smittymu jídlo. Bydlí na západì odtud na smetišti. Udìláš to pro mì? Dám ti za to jídlo zdarma.}
-{321}{}{Jistì, ádnı problém.}
-{322}{}{Rozmyslím si to. Mezitím se tì chci na nìco zeptat.}
-{323}{}{Eh, promiò, Mámo. Nemùu. Sbohem.}
-{340}{}{Máš štìstí. Máme dušené radškorpiony.}
-{341}{}{Máme dušeného praseèího potkana.}
-{342}{}{Podáváme spaøené radškorpioní ocásky potøené máslem.}
-{343}{}{Zelòaèka je to jediné, co teï mám.}
-{344}{}{Èerstvé brahmíní hranolky!}
-{345}{}{U se to nese, horkı geckoní koláè.}
-{346}{}{Stejk z brahmíního boku.}
-{347}{}{Pìknì vypasenıho krtèího potkana.}
-{348}{}{Osmaenıho floatera.}
-{349}{}{Hovìzí panenku.}
-{350}{}{Medailonky z grilovaného geckona.}
-{351}{}{Èesnekem špikovaného mantise na vínì.}
-{352}{}{Rolka plnìná kousky krtèího potkana.}
-{353}{}{Peèené maso z brahmíny.}
-{354}{}{Radškorpion v tìstíèku.}
-{355}{}{Je to bašta!}
-{356}{}{Eh, nejsem si tak úplnì jistá, ale chutná to jako kuøe.}
+{222}{}{ opravdu vypadÃ¡Å¡, Å¾e jsi drobet zmatenÃ½. NesnÃ¡Å¡Ã­m, kdyÅ¾ nÄ›jakÃ½ tvor trpÃ­. NechceÅ¡ nÄ›co k jÃ­dlu?}
+{223}{}{JÃ¡ plnÃ½. MÃ¡ma mÃ­t jÃ­dlo mÅˆam. Ahoj MÃ¡ma.}
+{224}{}{JÃ¡ platit?}
+{225}{}{JÃ¡ jÃ­t. Ahoj MÃ¡mo.}
+{240}{}{Tak dobÅ™e. Co tam mÃ¡Å¡? (MÃ¡ma se natÃ¡hne pro tvoji penÄ›Å¾enku.)}
+{241}{}{MÃ¡mo? [Zvednout svoji penÄ›Å¾enku]}
+{242}{}{Ne! JÃ¡ jÃ­t. Ahoj MÃ¡ma.}
+{250}{}{Ne, ani ne. PromiÅˆ. MÃ¡me jenom krysÃ­ kolÃ¡Ä, krysÃ­ sekanou a Å¡pagety.}
+{251}{}{TakÅ¾e co to bude tentokrÃ¡t?}
+{252}{}{Eh, mÅ¯Å¾u dostat nÄ›co, kde nenÃ­ tolik krys?}
+{253}{}{MyslÃ­m, Å¾e si dÃ¡m krysÃ­ sekanou.}
+{254}{}{MyslÃ­m, Å¾e si dÃ¡m krysÃ­ kolÃ¡Ä.}
+{270}{}{MÅ¯Å¾u ti dÃ¡t Å¡pagety. V nich nenÃ­ tolik krys... jenom v omÃ¡Äce, jinak ne.}
+{271}{}{Tak dobÅ™e, myslÃ­m, Å¾e si dÃ¡m Å¡pagety s krysÃ­ omÃ¡Äkou.}
+{280}{}{Hned ti to pÅ™inesu. Bude to $10.}
+{281}{}{MomentÃ¡lnÄ› nemÃ¡m dost penÄ›z. MÅ¯Å¾u se mÃ­sto toho na nÄ›co zeptat?}
+{282}{}{$10 za krysu? Ty ses musela zblÃ¡znit. Sakra, vÅ¾dyÅ¥ i my si v okolÃ­ vesnice ÃºÄtujeme mnohem vÃ­c za pÄ›knou Å¡Å¥avnatou krysu. Dohodnuto.}
+{283}{}{Tak dobÅ™e. Tady jsou penÃ­ze.}
+{284}{}{MyslÃ­m, Å¾e uÅ¾ nemÃ¡m zÃ¡jem. Chci se mÃ­sto toho na nÄ›co zeptat.}
+{285}{}{MyslÃ­m, Å¾e se vrÃ¡tÃ­m pozdÄ›ji. Sbohem.}
+{300}{}{MÃ¡Å¡ docela dobrÃ½ apetit. RÃ¡da vidÃ­m zdravÃ© strÃ¡vnÃ­ky. Bude ti to staÄit?}
+{301}{}{Ani nÃ¡hodou, MÃ¡mo. Chci nÃ¡Å¡up.}
+{302}{}{Jo, bude. MÅ¯Å¾u se tÄ› na nÄ›co zeptat, MÃ¡mo?}
+{303}{}{TeÄ uÅ¾ jo. Sbohem, MÃ¡mo.}
+{320}{}{No, nutnÄ› potÅ™ebuju nÄ›koho, aby donesl Smittymu jÃ­dlo. BydlÃ­ na zÃ¡padÄ› odtud na smetiÅ¡ti. UdÄ›lÃ¡Å¡ to pro mÄ›? DÃ¡m ti za to jÃ­dlo zdarma.}
+{321}{}{JistÄ›, Å¾Ã¡dnÃ½ problÃ©m.}
+{322}{}{RozmyslÃ­m si to. MezitÃ­m se tÄ› chci na nÄ›co zeptat.}
+{323}{}{Eh, promiÅˆ, MÃ¡mo. NemÅ¯Å¾u. Sbohem.}
+{340}{}{MÃ¡Å¡ Å¡tÄ›stÃ­. MÃ¡me duÅ¡enÃ© radÅ¡korpiony.}
+{341}{}{MÃ¡me duÅ¡enÃ©ho praseÄÃ­ho potkana.}
+{342}{}{PodÃ¡vÃ¡me spaÅ™enÃ© radÅ¡korpionÃ­ ocÃ¡sky potÅ™enÃ© mÃ¡slem.}
+{343}{}{ZelÅˆaÄka je to jedinÃ©, co teÄ mÃ¡m.}
+{344}{}{ÄŒerstvÃ© brahmÃ­nÃ­ hranolky!}
+{345}{}{UÅ¾ se to nese, horkÃ½ geckonÃ­ kolÃ¡Ä.}
+{346}{}{Stejk z brahmÃ­nÃ­ho boku.}
+{347}{}{PÄ›knÄ› vypasenÃ½ho krtÄÃ­ho potkana.}
+{348}{}{OsmaÅ¾enÃ½ho floatera.}
+{349}{}{HovÄ›zÃ­ panenku.}
+{350}{}{Medailonky z grilovanÃ©ho geckona.}
+{351}{}{ÄŒesnekem Å¡pikovanÃ©ho mantise na vÃ­nÄ›.}
+{352}{}{Rolka plnÄ›nÃ¡ kousky krtÄÃ­ho potkana.}
+{353}{}{PeÄenÃ© maso z brahmÃ­ny.}
+{354}{}{RadÅ¡korpion v tÄ›stÃ­Äku.}
+{355}{}{Je to baÅ¡ta!}
+{356}{}{Eh, nejsem si tak ÃºplnÄ› jistÃ¡, ale chutnÃ¡ to jako kuÅ™e.}
 {357}{}{Kotleta z kentaura, moje specialita.}
-{358}{}{To je pøekvapení.}
-{359}{}{Nemùu prozradit své tajné recepty!}
+{358}{}{To je pÅ™ekvapenÃ­.}
+{359}{}{NemÅ¯Å¾u prozradit svÃ© tajnÃ© recepty!}
 {360}{}{Opravdu?}
-{375}{}{Tady máš. Vypadáš docela hladovì. (Máma ti podá velkı kouøící talíø lahodnì vonícího jídla.)}
-{376}{}{Dííííky, Mámo.}
-{385}{}{Tady máš. Jsem si jistá, e ti to bude chutnat.}
-{386}{}{Mmm, òam òam. Ahoj, Máma.}
-{395}{}{Díky moc. Udìlala bych to sama, ale nevím o nikom, kdo by mi to tu pohlídal, zatímco bych byla pryè. Tady je jídlo pro Smittyho. Jsem si jistá, e kdybych mu ho nedonesla, tak by zapomnìl jíst.}
-{396}{}{Já mu to donesu.}
-{405}{}{Jsem opravdu zklamaná. Chudák Smitty si musel pøijít pro své vlastní jídlo. Co ještì chceš?}
-{406}{}{Zdravím, jmenuju se Máma a provozuju tenhle podnik. Mám taky nejlepší jídlo severnì od New Rena.}
-{407}{}{O èem chceš s Mámou mluvit?}
-{408}{}{Nejsi moje máma.}
-{409}{}{U jsi nìkdy slyšela o Vaultu nebo o nìkom jménem Vic?}
-{410}{}{Co se tady dá ve mìstì podniknout?}
-{411}{}{Co tady máš k jídlu?}
-{417}{}{Jestlipak tohle není mùj hrdina. Co pro tebe mùe Máma dneska udìlat?}
-{425}{}{Já vím, ale kadı mi tak øíká. Vlastnì se i k lidem chovám, jako by to byly moje dìti... tedy pokud dodrují moje pravidla.}
+{375}{}{Tady mÃ¡Å¡. VypadÃ¡Å¡ docela hladovÄ›. (MÃ¡ma ti podÃ¡ velkÃ½ kouÅ™Ã­cÃ­ talÃ­Å™ lahodnÄ› vonÃ­cÃ­ho jÃ­dla.)}
+{376}{}{DÃ­Ã­Ã­Ã­ky, MÃ¡mo.}
+{385}{}{Tady mÃ¡Å¡. Jsem si jistÃ¡, Å¾e ti to bude chutnat.}
+{386}{}{Mmm, Åˆam Åˆam. Ahoj, MÃ¡ma.}
+{395}{}{DÃ­ky moc. UdÄ›lala bych to sama, ale nevÃ­m o nikom, kdo by mi to tu pohlÃ­dal, zatÃ­mco bych byla pryÄ. Tady je jÃ­dlo pro Smittyho. Jsem si jistÃ¡, Å¾e kdybych mu ho nedonesla, tak by zapomnÄ›l jÃ­st.}
+{396}{}{JÃ¡ mu to donesu.}
+{405}{}{Jsem opravdu zklamanÃ¡. ChudÃ¡k Smitty si musel pÅ™ijÃ­t pro svÃ© vlastnÃ­ jÃ­dlo. Co jeÅ¡tÄ› chceÅ¡?}
+{406}{}{ZdravÃ­m, jmenuju se MÃ¡ma a provozuju tenhle podnik. MÃ¡m taky nejlepÅ¡Ã­ jÃ­dlo severnÄ› od New Rena.}
+{407}{}{O Äem chceÅ¡ s MÃ¡mou mluvit?}
+{408}{}{Nejsi moje mÃ¡ma.}
+{409}{}{UÅ¾ jsi nÄ›kdy slyÅ¡ela o Vaultu nebo o nÄ›kom jmÃ©nem Vic?}
+{410}{}{Co se tady dÃ¡ ve mÄ›stÄ› podniknout?}
+{411}{}{Co tady mÃ¡Å¡ k jÃ­dlu?}
+{417}{}{Jestlipak tohle nenÃ­ mÅ¯j hrdina. Co pro tebe mÅ¯Å¾e MÃ¡ma dneska udÄ›lat?}
+{425}{}{JÃ¡ vÃ­m, ale kaÅ¾dÃ½ mi tak Å™Ã­kÃ¡. VlastnÄ› se i k lidem chovÃ¡m, jako by to byly moje dÄ›ti... tedy pokud dodrÅ¾ujÃ­ moje pravidla.}
 {426}{}{Pravidla?}
-{435}{}{Pøesnì tak. ádné okrádání, ádné klení a ádné rvaèky... ne v mém podniku. Paè kdy z toho nìco porušíš, pùjdeš pryè. Mám ráda klid.}
-{436}{}{Aha. Chci se ještì na nìco zeptat.}
-{437}{}{To dává smysl. Uvidíme se pozdìji, Mámo.}
-{445}{}{No, na vıchod odtud a pak ještì trochu na sever leí Vault City. A Vic, hmm, nech mì pøemıšlet.}
-{446}{}{Doufám, e víš, kde je Vic. Je to obchodník.}
-{447}{}{Díky, ale to bude asi všechno. Nashle, Mámo.}
-{455}{}{Obchodník Vic? U si vzpomínám. Ano, myslím, e ho z nìjakého dùvodu drí Metzger.}
+{435}{}{PÅ™esnÄ› tak. Å½Ã¡dnÃ© okrÃ¡dÃ¡nÃ­, Å¾Ã¡dnÃ© klenÃ­ a Å¾Ã¡dnÃ© rvaÄky... ne v mÃ©m podniku. PaÄ kdyÅ¾ z toho nÄ›co poruÅ¡Ã­Å¡, pÅ¯jdeÅ¡ pryÄ. MÃ¡m rÃ¡da klid.}
+{436}{}{Aha. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{437}{}{To dÃ¡vÃ¡ smysl. UvidÃ­me se pozdÄ›ji, MÃ¡mo.}
+{445}{}{No, na vÃ½chod odtud a pak jeÅ¡tÄ› trochu na sever leÅ¾Ã­ Vault City. A Vic, hmm, nech mÄ› pÅ™emÃ½Å¡let.}
+{446}{}{DoufÃ¡m, Å¾e vÃ­Å¡, kde je Vic. Je to obchodnÃ­k.}
+{447}{}{DÃ­ky, ale to bude asi vÅ¡echno. Nashle, MÃ¡mo.}
+{455}{}{ObchodnÃ­k Vic? UÅ¾ si vzpomÃ­nÃ¡m. Ano, myslÃ­m, Å¾e ho z nÄ›jakÃ©ho dÅ¯vodu drÅ¾Ã­ Metzger.}
 {456}{}{Kdo je Metzger a kde ho najdu?}
-{457}{}{To je skvìlé, Mámo. Díky.}
-{465}{}{Metzger je šéf místního Cechu otrokáøù. Má pod zámkem nejrùznìjší lidi. Je to pøímo nad touhle ulicí.}
-{466}{}{Metzger bıval šéfem místního Cechu otrokáøù. Mìl pod zámkem nejrùznìjší lidi. Ale teï nevím... slyšela jsem, e ho nìkdo zabil.}
-{467}{}{Díky za informaci. Chci se zeptat na nìco jiného, Mámo.}
-{468}{}{Potøebuju si ještì nìco zaøídit. Díky, Mámo.}
-{475}{}{Bì a dones Smittymu to jídlo.}
-{476}{}{Nepomùu ti, dokud nedodríš slovo.}
-{477}{}{Pospìš si.}
-{478}{}{Dones Smittymu to jídlo. A pospìš si.}
-{479}{}{Pøestaò se flákat a dones Smittymu to jídlo.}
-{485}{}{Dobrá práce. Urèitì ti muselo vyhládnout.
- Za odmìnu tu pro tebe mám úplnou lahùdku. Vıbìr toho nejlepšího jídla,
- co tu mám, jen pro tebe.}
-{486}{}{To zní skvìle! Sem s tím!}
-{487}{}{Panejo, Mámo. Teï nemùu jíst, ale stejnì díky. Sbohem.}
-{500}{}{Hmm, moc o tom nevím. Nejspíš si jen nìkdo dìlá srandu,
- nic víc.}
-{501}{}{Byl odjakiva strašidelnı?}
-{502}{}{Bydlí v tom domì nìkdo?}
-{503}{}{Souhlasím. Nashle.}
-{520}{}{Zaèalo to asi pøed dvìma lety. Slyšela jsem nìco o sténání a duchovi a tak.
- Sama tomu nevìøím.}
-{521}{}{Dva roky, jo? Nikdo tam v té dobì nebydlel?}
-{522}{}{Já taky ne. Díky.}
-{540}{}{Jeden z místních chlapcù tam pøed pár lety spával. Moná nìco ví.}
+{457}{}{To je skvÄ›lÃ©, MÃ¡mo. DÃ­ky.}
+{465}{}{Metzger je Å¡Ã©f mÃ­stnÃ­ho Cechu otrokÃ¡Å™Å¯. MÃ¡ pod zÃ¡mkem nejrÅ¯znÄ›jÅ¡Ã­ lidi. Je to pÅ™Ã­mo nad touhle ulicÃ­.}
+{466}{}{Metzger bÃ½val Å¡Ã©fem mÃ­stnÃ­ho Cechu otrokÃ¡Å™Å¯. MÄ›l pod zÃ¡mkem nejrÅ¯znÄ›jÅ¡Ã­ lidi. Ale teÄ nevÃ­m... slyÅ¡ela jsem, Å¾e ho nÄ›kdo zabil.}
+{467}{}{DÃ­ky za informaci. Chci se zeptat na nÄ›co jinÃ©ho, MÃ¡mo.}
+{468}{}{PotÅ™ebuju si jeÅ¡tÄ› nÄ›co zaÅ™Ã­dit. DÃ­ky, MÃ¡mo.}
+{475}{}{BÄ›Å¾ a dones Smittymu to jÃ­dlo.}
+{476}{}{NepomÅ¯Å¾u ti, dokud nedodrÅ¾Ã­Å¡ slovo.}
+{477}{}{PospÄ›Å¡ si.}
+{478}{}{Dones Smittymu to jÃ­dlo. A pospÄ›Å¡ si.}
+{479}{}{PÅ™estaÅˆ se flÃ¡kat a dones Smittymu to jÃ­dlo.}
+{485}{}{DobrÃ¡ prÃ¡ce. UrÄitÄ› ti muselo vyhlÃ¡dnout.
+ Za odmÄ›nu tu pro tebe mÃ¡m Ãºplnou lahÅ¯dku. VÃ½bÄ›r toho nejlepÅ¡Ã­ho jÃ­dla,
+ co tu mÃ¡m, jen pro tebe.}
+{486}{}{To znÃ­ skvÄ›le! Sem s tÃ­m!}
+{487}{}{Panejo, MÃ¡mo. TeÄ nemÅ¯Å¾u jÃ­st, ale stejnÄ› dÃ­ky. Sbohem.}
+{500}{}{Hmm, moc o tom nevÃ­m. NejspÃ­Å¡ si jen nÄ›kdo dÄ›lÃ¡ srandu,
+ nic vÃ­c.}
+{501}{}{Byl odjakÅ¾iva straÅ¡idelnÃ½?}
+{502}{}{BydlÃ­ v tom domÄ› nÄ›kdo?}
+{503}{}{SouhlasÃ­m. Nashle.}
+{520}{}{ZaÄalo to asi pÅ™ed dvÄ›ma lety. SlyÅ¡ela jsem nÄ›co o stÃ©nÃ¡nÃ­ a duchovi a tak.
+ Sama tomu nevÄ›Å™Ã­m.}
+{521}{}{Dva roky, jo? Nikdo tam v tÃ© dobÄ› nebydlel?}
+{522}{}{JÃ¡ taky ne. DÃ­ky.}
+{540}{}{Jeden z mÃ­stnÃ­ch chlapcÅ¯ tam pÅ™ed pÃ¡r lety spÃ¡val. MoÅ¾nÃ¡ nÄ›co vÃ­.}
 {541}{}{Kdo?}
-{542}{}{Pravdìpodobnì ne. Nashle.}
-{560}{}{Vdycky pøišel a snail se dát vìci do zástavy. Vìtšinou šperky.
- Vzpomínám si na malı zlatı pøívìšek, kterı si nechal pro sebe.}
-{561}{}{Nevzpomínáš si na jeho jméno?}
-{562}{}{Pøívìšek? Zvláštní. Kdo to byl?}
-{563}{}{Chci se ještì na nìco zeptat.}
-{564}{}{Díky, nashle.}
-{580}{}{Nejsem si jistá. Myslím, e to byl Joseph, Joel nebo tak nìjak. Je mu teï asi 19...
- opravdová škoda. Mám dojem, e se pøidal k nìjakım místním hrdloøezùm.}
-{581}{}{Díky. Mám na tebe ještì jednu otázku.}
-{582}{}{Díky, nashle.}
-{600}{}{Co víš o tom strašidelném domì?}
-{800}{}{Koukám, e je ve mìstì hodnì sirotkù.}
-{801}{}{Ano, není to škoda? Ty ubohé dìti ijí na ulici jako zvíøata. Skoro všechny musí krást...vìtšinou od cizincù... take pokud se tì bude snait nìjaké z nich o nìco obrat, slituj se nad nimi prosím. Neøíkám, e je to správné, ale ijeme v krutém svìtì a všichni dìláme to, co musíme, abychom pøeili další den.}
-{802}{}{Musí bıt nìco, co bychom pro nì mohli udìlat. Øíká se, e jsi jediná osoba,
- které nejsou ty dìti úplnì ukradené.}
+{542}{}{PravdÄ›podobnÄ› ne. Nashle.}
+{560}{}{VÅ¾dycky pÅ™iÅ¡el a snaÅ¾il se dÃ¡t vÄ›ci do zÃ¡stavy. VÄ›tÅ¡inou Å¡perky.
+ VzpomÃ­nÃ¡m si na malÃ½ zlatÃ½ pÅ™Ã­vÄ›Å¡ek, kterÃ½ si nechal pro sebe.}
+{561}{}{NevzpomÃ­nÃ¡Å¡ si na jeho jmÃ©no?}
+{562}{}{PÅ™Ã­vÄ›Å¡ek? ZvlÃ¡Å¡tnÃ­. Kdo to byl?}
+{563}{}{Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{564}{}{DÃ­ky, nashle.}
+{580}{}{Nejsem si jistÃ¡. MyslÃ­m, Å¾e to byl Joseph, Joel nebo tak nÄ›jak. Je mu teÄ asi 19...
+ opravdovÃ¡ Å¡koda. MÃ¡m dojem, Å¾e se pÅ™idal k nÄ›jakÃ½m mÃ­stnÃ­m hrdloÅ™ezÅ¯m.}
+{581}{}{DÃ­ky. MÃ¡m na tebe jeÅ¡tÄ› jednu otÃ¡zku.}
+{582}{}{DÃ­ky, nashle.}
+{600}{}{Co vÃ­Å¡ o tom straÅ¡idelnÃ©m domÄ›?}
+{800}{}{KoukÃ¡m, Å¾e je ve mÄ›stÄ› hodnÄ› sirotkÅ¯.}
+{801}{}{Ano, nenÃ­ to Å¡koda? Ty ubohÃ© dÄ›ti Å¾ijÃ­ na ulici jako zvÃ­Å™ata. Skoro vÅ¡echny musÃ­ krÃ¡st...vÄ›tÅ¡inou od cizincÅ¯... takÅ¾e pokud se tÄ› bude snaÅ¾it nÄ›jakÃ© z nich o nÄ›co obrat, slituj se nad nimi prosÃ­m. NeÅ™Ã­kÃ¡m, Å¾e je to sprÃ¡vnÃ©, ale Å¾ijeme v krutÃ©m svÄ›tÄ› a vÅ¡ichni dÄ›lÃ¡me to, co musÃ­me, abychom pÅ™eÅ¾ili dalÅ¡Ã­ den.}
+{802}{}{MusÃ­ bÃ½t nÄ›co, co bychom pro nÄ› mohli udÄ›lat. Å˜Ã­kÃ¡ se, Å¾e jsi jedinÃ¡ osoba,
+ kterÃ© nejsou ty dÄ›ti ÃºplnÄ› ukradenÃ©.}
 {803}{}{Why of course I do. Children are our future. They don't *have* to grow up to be jetheads, thugs, and whores like
  most of their deadbeat parents. Why, with an education and some love and care, these kids could grow into the kind of
  decent folk that we so desperately need in this world. I've tried establishing an orphanage for them, but sadly, that
  didn't pan out.}
-{804}{}{Moná, e je èas na další pokus. Nechci se ve mìstì zdrovat moc dlouho, ale pokusím se nìjak pomoct.}
-{805}{}{To je opravdu škoda. No, hezky jsme si popovídali. Nashle.}
-{806}{}{Ano, moná *mùeš* pomoct. Víš, získala jsem jednu velikou budovu na jihozápadní stranì. S trochou námahy by z toho byl vıbornı
- sirotèinec, ale nìjaká banda uboákù to tam obsadila a odmítá odejít, dokud jim nezaplatím nìjakı absurdní poplatek. I kdybych ty peníze *mìla*,
- nikdy bych je takovım grázlùm nedala... akorát by je pouili na další sebeotrávení. Šla bych za místními úøady, ale bohuel nic takového v Denu není.
- Moná budeš mít víc štìstí a pøesvìdèíš je, aby odešli.}
-{807}{}{Urèitì je odtamtud dostanu pryè. A tak, èi onak. Dám ti vìdìt, a budou pryè.}
-{808}{}{Nefandím vyhazování lidí. Moná se najde nìkdo, kdo se na to bude hodit víc ne já.}
-{809}{}{Aha... chápu. To je opravdu škoda. Díky, e se alespoò pokusíš. Chceš ještì nìco, ne odejdeš?}
-{810}{}{Ne. Nashle, Mámo.}
-{811}{}{Jestli chytím jednoho z tìch bastardù, jak mì okrádá, bude to ta poslední vìc, kterou kdy udìlá. Nezajímá mì, jaká je jejich vımluva,
- zlodìj je prostì zlodìj. Nashle.}
-{820}{}{Dobré zprávy, Mámo. Ta budova je celá tvoje. Byl tam malı zádrhel, ale ti squatteøi u tì nebudou nikdy otravovat.}
-{821}{}{Squatteøi øíkali, e odejdou a omlouvají se za to, e dìlali problémy. Právì teï to tam uklízejí a pokoušejí se ti to vynahradit. Napadlo mì, e kdyby se moná hodnì snaili, mohla bys jim dát nìjakou práci.}
-{822}{}{No to jsou skvìlé zprávy! Díky moc! Jen doufám, e nebyl nikdo zranìn. Spojím se s nìkolika pøáteli a budeme moct hned zaèít.
- Jestli budeš ještì za pár dní ve mìstì, mùeš se zastavit. Doufám, e do té doby to budeme mít hotové.
- Ach, jsem tak nadšená! Ještì jednou díky. Tady máš, tohle jídlo je na mì.}
-{823}{}{Hmm... myslím, e si všichni zaslouí druhou šanci. Zastavím se tam s nìkolika pøáteli a promluvíme si s nimi.
- Mockrát ti dìkuju za pomoc. Jestli budeš ještì za pár dní ve mìstì, urèitì se zastav. Doufám, e to budeme mít do té doby hotové.
- Ach, jsem tak nadšená! Ještì jednou díky. Tady máš, tohle jídlo je na mì.}
-{824}{}{Díky, Mámo. Zatím.}
-{850}{}{Díky tvé pomoci byl v Denu zaloen sirotèinec pro dìti.}
-{1821}{}{Dobré zprávy, Mámo. Ta budova je celá tvoje. Chtìlo to trochu pøesvìdèování, ale podaøilo se mi pøesvìdèit ty squattery, aby se pøestìhovali.
- U tì nebudou nikdy obtìovat.}
-{1822}{}{No to jsou skvìlé zprávy! Díky moc! Spojím se s nìkolika pøáteli a budeme moct hned zaèít.
- Jestli budeš ještì za pár dní ve mìstì, urèitì se zastav. Doufám, e to budeme mít do té doby hotové. Ach, jsem tak nadšená! Ještì jednou díky. Tady máš, tohle jídlo je na mì.}
+{804}{}{MoÅ¾nÃ¡, Å¾e je Äas na dalÅ¡Ã­ pokus. Nechci se ve mÄ›stÄ› zdrÅ¾ovat moc dlouho, ale pokusÃ­m se nÄ›jak pomoct.}
+{805}{}{To je opravdu Å¡koda. No, hezky jsme si popovÃ­dali. Nashle.}
+{806}{}{Ano, moÅ¾nÃ¡ *mÅ¯Å¾eÅ¡* pomoct. VÃ­Å¡, zÃ­skala jsem jednu velikou budovu na jihozÃ¡padnÃ­ stranÄ›. S trochou nÃ¡mahy by z toho byl vÃ½bornÃ½
+ sirotÄinec, ale nÄ›jakÃ¡ banda uboÅ¾Ã¡kÅ¯ to tam obsadila a odmÃ­tÃ¡ odejÃ­t, dokud jim nezaplatÃ­m nÄ›jakÃ½ absurdnÃ­ poplatek. I kdybych ty penÃ­ze *mÄ›la*,
+ nikdy bych je takovÃ½m grÃ¡zlÅ¯m nedala... akorÃ¡t by je pouÅ¾ili na dalÅ¡Ã­ sebeotrÃ¡venÃ­. Å la bych za mÃ­stnÃ­mi ÃºÅ™ady, ale bohuÅ¾el nic takovÃ©ho v Denu nenÃ­.
+ MoÅ¾nÃ¡ budeÅ¡ mÃ­t vÃ­c Å¡tÄ›stÃ­ a pÅ™esvÄ›dÄÃ­Å¡ je, aby odeÅ¡li.}
+{807}{}{UrÄitÄ› je odtamtud dostanu pryÄ. AÅ¥ tak, Äi onak. DÃ¡m ti vÄ›dÄ›t, aÅ¾ budou pryÄ.}
+{808}{}{NefandÃ­m vyhazovÃ¡nÃ­ lidÃ­. MoÅ¾nÃ¡ se najde nÄ›kdo, kdo se na to bude hodit vÃ­c neÅ¾ jÃ¡.}
+{809}{}{Aha... chÃ¡pu. To je opravdu Å¡koda. DÃ­ky, Å¾e se alespoÅˆ pokusÃ­Å¡. ChceÅ¡ jeÅ¡tÄ› nÄ›co, neÅ¾ odejdeÅ¡?}
+{810}{}{Ne. Nashle, MÃ¡mo.}
+{811}{}{Jestli chytÃ­m jednoho z tÄ›ch bastardÅ¯, jak mÄ› okrÃ¡dÃ¡, bude to ta poslednÃ­ vÄ›c, kterou kdy udÄ›lÃ¡. NezajÃ­mÃ¡ mÄ›, jakÃ¡ je jejich vÃ½mluva,
+ zlodÄ›j je prostÄ› zlodÄ›j. Nashle.}
+{820}{}{DobrÃ© zprÃ¡vy, MÃ¡mo. Ta budova je celÃ¡ tvoje. Byl tam malÃ½ zÃ¡drhel, ale ti squatteÅ™i uÅ¾ tÄ› nebudou nikdy otravovat.}
+{821}{}{SquatteÅ™i Å™Ã­kali, Å¾e odejdou a omlouvajÃ­ se za to, Å¾e dÄ›lali problÃ©my. PrÃ¡vÄ› teÄ to tam uklÃ­zejÃ­ a pokouÅ¡ejÃ­ se ti to vynahradit. Napadlo mÄ›, Å¾e kdyby se moÅ¾nÃ¡ hodnÄ› snaÅ¾ili, mohla bys jim dÃ¡t nÄ›jakou prÃ¡ci.}
+{822}{}{No to jsou skvÄ›lÃ© zprÃ¡vy! DÃ­ky moc! Jen doufÃ¡m, Å¾e nebyl nikdo zranÄ›n. SpojÃ­m se s nÄ›kolika pÅ™Ã¡teli a budeme moct hned zaÄÃ­t.
+ Jestli budeÅ¡ jeÅ¡tÄ› za pÃ¡r dnÃ­ ve mÄ›stÄ›, mÅ¯Å¾eÅ¡ se zastavit. DoufÃ¡m, Å¾e do tÃ© doby to budeme mÃ­t hotovÃ©.
+ Ach, jsem tak nadÅ¡enÃ¡! JeÅ¡tÄ› jednou dÃ­ky. Tady mÃ¡Å¡, tohle jÃ­dlo je na mÄ›.}
+{823}{}{Hmm... myslÃ­m, Å¾e si vÅ¡ichni zaslouÅ¾Ã­ druhou Å¡anci. ZastavÃ­m se tam s nÄ›kolika pÅ™Ã¡teli a promluvÃ­me si s nimi.
+ MockrÃ¡t ti dÄ›kuju za pomoc. Jestli budeÅ¡ jeÅ¡tÄ› za pÃ¡r dnÃ­ ve mÄ›stÄ›, urÄitÄ› se zastav. DoufÃ¡m, Å¾e to budeme mÃ­t do tÃ© doby hotovÃ©.
+ Ach, jsem tak nadÅ¡enÃ¡! JeÅ¡tÄ› jednou dÃ­ky. Tady mÃ¡Å¡, tohle jÃ­dlo je na mÄ›.}
+{824}{}{DÃ­ky, MÃ¡mo. ZatÃ­m.}
+{850}{}{DÃ­ky tvÃ© pomoci byl v Denu zaloÅ¾en sirotÄinec pro dÄ›ti.}
+{1821}{}{DobrÃ© zprÃ¡vy, MÃ¡mo. Ta budova je celÃ¡ tvoje. ChtÄ›lo to trochu pÅ™esvÄ›dÄovÃ¡nÃ­, ale podaÅ™ilo se mi pÅ™esvÄ›dÄit ty squattery, aby se pÅ™estÄ›hovali.
+ UÅ¾ tÄ› nebudou nikdy obtÄ›Å¾ovat.}
+{1822}{}{No to jsou skvÄ›lÃ© zprÃ¡vy! DÃ­ky moc! SpojÃ­m se s nÄ›kolika pÅ™Ã¡teli a budeme moct hned zaÄÃ­t.
+ Jestli budeÅ¡ jeÅ¡tÄ› za pÃ¡r dnÃ­ ve mÄ›stÄ›, urÄitÄ› se zastav. DoufÃ¡m, Å¾e to budeme mÃ­t do tÃ© doby hotovÃ©. Ach, jsem tak nadÅ¡enÃ¡! JeÅ¡tÄ› jednou dÃ­ky. Tady mÃ¡Å¡, tohle jÃ­dlo je na mÄ›.}

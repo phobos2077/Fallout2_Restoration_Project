@@ -1,179 +1,179 @@
-{100}{}{Vidíš ghoula obleèeného do starıch umaštìnıch hadrù.}
-{101}{}{Vidíš Skeetera, ghoulího vynálezce.}
-{102}{}{Vidíš špinavého, ale inteligentnì vypadajícího ghoula v umaštìném obleèení, kterému trèí z kapsy mikrometr.}
-{110}{}{Nièeho se nedotıkej... ještì si ublííš.}
-{111}{}{Já vìdìl, e jsou divoši jednodušší.}
-{112}{}{Mùeš se dívat a moná se i nìèemu pøiuèíš, i kdy o tom pochybuju.}
+{100}{}{VidÃ­Å¡ ghoula obleÄenÃ©ho do starÃ½ch umaÅ¡tÄ›nÃ½ch hadrÅ¯.}
+{101}{}{VidÃ­Å¡ Skeetera, ghoulÃ­ho vynÃ¡lezce.}
+{102}{}{VidÃ­Å¡ Å¡pinavÃ©ho, ale inteligentnÄ› vypadajÃ­cÃ­ho ghoula v umaÅ¡tÄ›nÃ©m obleÄenÃ­, kterÃ©mu trÄÃ­ z kapsy mikrometr.}
+{110}{}{NiÄeho se nedotÃ½kej... jeÅ¡tÄ› si ublÃ­Å¾Ã­Å¡.}
+{111}{}{JÃ¡ vÄ›dÄ›l, Å¾e jsou divoÅ¡i jednoduÅ¡Å¡Ã­.}
+{112}{}{MÅ¯Å¾eÅ¡ se dÃ­vat a moÅ¾nÃ¡ se i nÄ›Äemu pÅ™iuÄÃ­Å¡, i kdyÅ¾ o tom pochybuju.}
 {113}{}{No ty jsi ale pako.}
-{114}{}{Jsi fakt takovı tupec, nebo to jenom pøedstíráš?}
-{120}{}{Zvláštní, e se na to ptáš. Víš, k pohonu aut se pouívají vymìnitelné palivové èlánky nebo baterie. Vìtšinou na nich odcházel regulátor pøívodu energie. Vìtšina amatérskıch mechanikù si myslela, e je to baterií, ale víš jak to chodí, kdy jeden myslí?}
-{121}{}{Ne, to nevím. Co máš na mysli?}
-{122}{}{Znamená to tedy, e máš regulátor pøívodu energie?}
-{130}{}{No, pøece znáš to, jeden myslel a... chápeš? Dobrı, ne? Hehehe! Tenhle vtip jsem nepouil u roky.}
-{131}{}{Eh, díky za lekci. Máš tedy ten regulátor?}
-{140}{}{Jo. Jasnì, e mám. Mám ho pøímo tady. Jenom èeká na nìjakı auto, do kterıho bych ho mohl namontovat. Máš auto?}
-{141}{}{O jednom vím. Kolik mì bude stát ten regulátor?}
-{142}{}{Jedno bych snad mìl. Mám toti rád staré vìci. Kolik chceš za ten regulátor?}
-{143}{}{Chtìl bych ho mít. A nìjaké najdu, tak si pøijdu pro ten regulátor. Sbohem.}
-{144}{}{Vlastnì se chci zeptat na nìco jiného.}
-{150}{}{No, prachy jsou sice pìkná vìc, ale právì teï potøebuju nìco jinıho. Nìco, co si sám nejsem schopnej opatøit.}
-{151}{}{Co potøebuješ?}
-{160}{}{Paráda. Vidím, e máš mùj plazma-transformer. Díky. Za to máš u mì práci zdarma. Co chceš, abych pro tebe udìlal? Øeknu ti kolik by to stálo, ale u to máš samozøejmì pøedplacenı.}
-{161}{}{Tak se podíváme, na èem bys mohl pracovat.}
-{162}{}{Myslím, e si to nechám na jindy. Sbohem.}
-{170}{}{Díky za opravu našeho jadernıho reaktoru. U to potøeboval. Bıval bych jim ukázal, jak se to dìlá, ale u mi tam nikdo nevìøí. Všechnu práci tam má teï na starosti ten velkohubej idiot Festus.}
-{171}{}{Rádo se stalo. Potøebuju teï nìco jiného.}
-{172}{}{Urèitì by bylo jednodušší, kdyby to nechali opravit tebe. Ale co, aspoò je to u hotové. Mìj se.}
-{180}{}{Máš pro mì mùj tøícestnej plazma-transformer?}
-{181}{}{Ještì ne, ale pracuju na tom. Chci se zeptat na nìco jiného.}
-{182}{}{Ještì ne, ale seenu ho. Sbohem.}
-{190}{}{Zdravím, jsem Skeeter. Dávám tady vìci do kupy.}
-{191}{}{Zdravím. Co hledáš?}
-{192}{}{Co potøebuješ?}
-{200}{}{Neslyšel jsi o nìèem, co se jmenuje GECK?}
-{201}{}{Nemáš náhodou baterii, která by se dala pouít na opravu auta?}
-{202}{}{Mám nìjaké vìci, na které by ses mohl podívat.}
-{203}{}{Co tady dìláš?}
-{204}{}{Eh, jenom se tak dívám. Sbohem.}
-{210}{}{Na co se ti mám podívat?}
-{211}{}{Mám se mrknout ještì na nìco jinıho? Na co se mám ještì podívat?}
-{212}{}{Mám tady tenhle optickı zamìøovaè.}
-{213}{}{Mám 'X'}
-{214}{}{Mám 'X'}
-{215}{}{Mám 'X'}
-{216}{}{Mám 'X'}
-{217}{}{Mùu ty souèástky pozdìji vymìnit?}
-{218}{}{U nic nepotøebuju. Sbohem.}
-{220}{}{Hmm, mohl bych ten optickı zamìøovaè pøipevnit k tvojí pušce.}
-{221}{}{No, mohl bych ten optickı zamìøovaè pøipevnit k jednı z tvıch pušek. Ke kterı pušce chceš, abych ho pøipevnil?}
-{222}{}{Kolik by stálo namontování optického zamìøovaèe na loveckou pušku?}
-{223}{}{Kolik by stálo namontování optického zamìøovaèe na útoènou pušku?}
-{224}{}{Kolik by stálo namontování optického zamìøovaèe na odstøelovací pušku?}
-{225}{}{Chci se zeptat na nìco jiného.}
-{226}{}{Myslím, e to bude všechno. Sbohem.}
-{230}{}{Hmm, to jsem si myslel. Víš, s tím [Selected partname] nemùu nic dìlat. Musíš mít nìco jinıho.}
-{231}{}{Hmm, co takhle jinı pøedmìt?}
-{232}{}{Jakou souèástku potøebuju?}
-{233}{}{Myslím, e se vrátím, a budu mít nìco jiného. Sbohem.}
-{240}{}{Tady to máš. Snad ti to bude dobøe slouit. Ještì nìco?}
-{241}{}{Ano, mohl by ses mi podívat ještì na jeden pøedmìt?}
-{242}{}{To bude všechno, díky. Sbohem.}
-{250}{}{Hmm, nemáš dost penìz, abych se ti na to podíval. Nemáš nìco jiného, na co bych se mohl podívat?}
-{251}{}{Kolik by stálo zkombinovat nìco jiného?}
-{252}{}{Myslím, e ne. Kadopádnì díky. Sbohem.}
-{260}{}{Vìtšinou jenom tak podomácku opravuju rùznı vìci. Rozebírám je a zkouším je dát znovu dohromady... vìtšinou. Obèas je i vylepším. A vyhıbám se prùšvihùm. Víš, co tím myslím?}
-{261}{}{Myslím, e jo. Chci se ještì na nìco zeptat.}
-{262}{}{No, myslím, e pùjdu nìco dìlat. Sbohem.}
-{270}{}{Sháníš GECK, jo? No, fakt nevím, kde by se dal najít, ale vím, e ve Vault City snad jeden mìli.}
-{271}{}{Vault City jeden mìlo?}
-{272}{}{Hmm. Dobøe, chci se ještì na nìco zeptat.}
-{273}{}{Tak nic, budu pokraèovat v hledání. Sbohem.}
-{280}{}{Jasnì, e mìlo. Proto se teï maj tak zatracenì dobøe. Urèitì to není jenom proto, e vìdìj, co maj dìlat. Je to proto, e pomocí GECKu se zaèalo daøit jejich úrodì a kdy vyšli z Vaultu, zaloili si mìsto.}
-{281}{}{Kdo by tak mohl mít nepouitı GECK?}
-{290}{}{Hmm, nech mì pøemıšlet. Pokud si dobøe vzpomínám, ve vìtšinì vaultù by mìl jeden GECK bıt. Zkus hledat v nìkterım z jinıch vaultù.}
-{291}{}{Díky za radu. Chci se ještì na nìco zeptat.}
-{292}{}{Dobøe, budu pokraèovat v hledání. Sbohem.}
-{300}{}{Abych byl upøímnej, tak ani nevím. Kdy se mi podaøí získat všechny souèástky, zaènu tak nìjak chápat, jak zapadaj do sebe. Víš, co tím myslím?}
-{301}{}{Eh, chceš øíct, e to opravuješ metodou pokus/omyl?}
-{302}{}{Mùeš se podívat na nìco jiného?}
-{303}{}{No, to dává smysl. Radìji se poohlédnu po jiné souèástce. Sbohem.}
-{310}{}{Jo jo. Ale je to odbornej odhad. To teda je. Víš, co tím myslím?}
-{311}{}{Nevím sice, co máš pøesnì na mysli, ale myslím, e se teï radìji poohlédnu po jiné souèástce. Sbohem.}
-{312}{}{Mùeš se podívat na nìco jiného?}
-{313}{}{No, to dává smysl. Radìji se poohlédnu po jiné souèástce. Sbohem.}
-{320}{}{V tìhlech dnech je tìší sehnat poøádnı náøadí ne souèástky. Potøebuju novou soupravu super náøadí. Nìjakı znaèkovı by bylo nejlepší.}
-{321}{}{Novou soupravu náøadí? Kde to seenu?}
-{330}{}{Myslím, e se dá sehnat nìkde ve Vault City. Maj tam všechno monı náøadí, ale stoprocentnì by ho nedali ghoulovi.}
-{331}{}{Take ty chceš pøinést super náøadí a pak mi dáš tu souèástku do auta?}
-{340}{}{Pøesnì tak. Taková je dohoda. Jedno super náøadí za jeden regulátor pøívodu energie.}
-{341}{}{To zní fér. Chci se ještì na nìco zeptat.}
-{342}{}{Co kdy si to trochu ulehèím, zabiju tì a tu souèástku si prostì vezmu?}
-{343}{}{Myslím, e se pùjdu na chvíli projít a promyslím si to. Sbohem.}
-{360}{}{No, to si mùeš zkusit, ale tøeba na tebe èeká nemilı pøekvapení. Tøeba jsem silnìjší, ne si myslíš. A moná si tím jenom uškodíš. Umím toti dávat vìci dohromady a nìkdy je dobrı znát nìkoho, kdo to umí, nemyslíš?}
-{361}{}{No, asi máš pravdu. Zatím tì nechám naivu. Chci se ještì na nìco zeptat.}
-{362}{}{Ty máš koukám odpovìï na všechno, co? Doufám, e máš odpovìï i na to, co je po ivotì, protoe tì tam pošlu... právì teï.}
-{363}{}{O tom budu muset popøemıšlet. Zatím sbohem.}
-{370}{}{Vidím, e máš dost dobrou soupravu náøadí. To je Snapp-off, ne? Vymìním ji s tebou za tenhle regulátor pøívodu energie.}
+{114}{}{Jsi fakt takovÃ½ tupec, nebo to jenom pÅ™edstÃ­rÃ¡Å¡?}
+{120}{}{ZvlÃ¡Å¡tnÃ­, Å¾e se na to ptÃ¡Å¡. VÃ­Å¡, k pohonu aut se pouÅ¾Ã­vajÃ­ vymÄ›nitelnÃ© palivovÃ© ÄlÃ¡nky nebo baterie. VÄ›tÅ¡inou na nich odchÃ¡zel regulÃ¡tor pÅ™Ã­vodu energie. VÄ›tÅ¡ina amatÃ©rskÃ½ch mechanikÅ¯ si myslela, Å¾e je to bateriÃ­, ale vÃ­Å¡ jak to chodÃ­, kdyÅ¾ jeden myslÃ­?}
+{121}{}{Ne, to nevÃ­m. Co mÃ¡Å¡ na mysli?}
+{122}{}{ZnamenÃ¡ to tedy, Å¾e mÃ¡Å¡ regulÃ¡tor pÅ™Ã­vodu energie?}
+{130}{}{No, pÅ™ece znÃ¡Å¡ to, jeden myslel a... chÃ¡peÅ¡? DobrÃ½, ne? Hehehe! Tenhle vtip jsem nepouÅ¾il uÅ¾ roky.}
+{131}{}{Eh, dÃ­ky za lekci. MÃ¡Å¡ tedy ten regulÃ¡tor?}
+{140}{}{Jo. JasnÄ›, Å¾e mÃ¡m. MÃ¡m ho pÅ™Ã­mo tady. Jenom ÄekÃ¡ na nÄ›jakÃ½ auto, do kterÃ½ho bych ho mohl namontovat. MÃ¡Å¡ auto?}
+{141}{}{O jednom vÃ­m. Kolik mÄ› bude stÃ¡t ten regulÃ¡tor?}
+{142}{}{Jedno bych snad mÄ›l. MÃ¡m totiÅ¾ rÃ¡d starÃ© vÄ›ci. Kolik chceÅ¡ za ten regulÃ¡tor?}
+{143}{}{ChtÄ›l bych ho mÃ­t. AÅ¾ nÄ›jakÃ© najdu, tak si pÅ™ijdu pro ten regulÃ¡tor. Sbohem.}
+{144}{}{VlastnÄ› se chci zeptat na nÄ›co jinÃ©ho.}
+{150}{}{No, prachy jsou sice pÄ›knÃ¡ vÄ›c, ale prÃ¡vÄ› teÄ potÅ™ebuju nÄ›co jinÃ½ho. NÄ›co, co si sÃ¡m nejsem schopnej opatÅ™it.}
+{151}{}{Co potÅ™ebujeÅ¡?}
+{160}{}{ParÃ¡da. VidÃ­m, Å¾e mÃ¡Å¡ mÅ¯j plazma-transformer. DÃ­ky. Za to mÃ¡Å¡ u mÄ› prÃ¡ci zdarma. Co chceÅ¡, abych pro tebe udÄ›lal? Å˜eknu ti kolik by to stÃ¡lo, ale uÅ¾ to mÃ¡Å¡ samozÅ™ejmÄ› pÅ™edplacenÃ½.}
+{161}{}{Tak se podÃ­vÃ¡me, na Äem bys mohl pracovat.}
+{162}{}{MyslÃ­m, Å¾e si to nechÃ¡m na jindy. Sbohem.}
+{170}{}{DÃ­ky za opravu naÅ¡eho jadernÃ½ho reaktoru. UÅ¾ to potÅ™eboval. BÃ½val bych jim ukÃ¡zal, jak se to dÄ›lÃ¡, ale uÅ¾ mi tam nikdo nevÄ›Å™Ã­. VÅ¡echnu prÃ¡ci tam mÃ¡ teÄ na starosti ten velkohubej idiot Festus.}
+{171}{}{RÃ¡do se stalo. PotÅ™ebuju teÄ nÄ›co jinÃ©ho.}
+{172}{}{UrÄitÄ› by bylo jednoduÅ¡Å¡Ã­, kdyby to nechali opravit tebe. Ale co, aspoÅˆ je to uÅ¾ hotovÃ©. MÄ›j se.}
+{180}{}{MÃ¡Å¡ pro mÄ› mÅ¯j tÅ™Ã­cestnej plazma-transformer?}
+{181}{}{JeÅ¡tÄ› ne, ale pracuju na tom. Chci se zeptat na nÄ›co jinÃ©ho.}
+{182}{}{JeÅ¡tÄ› ne, ale seÅ¾enu ho. Sbohem.}
+{190}{}{ZdravÃ­m, jsem Skeeter. DÃ¡vÃ¡m tady vÄ›ci do kupy.}
+{191}{}{ZdravÃ­m. Co hledÃ¡Å¡?}
+{192}{}{Co potÅ™ebujeÅ¡?}
+{200}{}{NeslyÅ¡el jsi o nÄ›Äem, co se jmenuje GECK?}
+{201}{}{NemÃ¡Å¡ nÃ¡hodou baterii, kterÃ¡ by se dala pouÅ¾Ã­t na opravu auta?}
+{202}{}{MÃ¡m nÄ›jakÃ© vÄ›ci, na kterÃ© by ses mohl podÃ­vat.}
+{203}{}{Co tady dÄ›lÃ¡Å¡?}
+{204}{}{Eh, jenom se tak dÃ­vÃ¡m. Sbohem.}
+{210}{}{Na co se ti mÃ¡m podÃ­vat?}
+{211}{}{MÃ¡m se mrknout jeÅ¡tÄ› na nÄ›co jinÃ½ho? Na co se mÃ¡m jeÅ¡tÄ› podÃ­vat?}
+{212}{}{MÃ¡m tady tenhle optickÃ½ zamÄ›Å™ovaÄ.}
+{213}{}{MÃ¡m 'X'}
+{214}{}{MÃ¡m 'X'}
+{215}{}{MÃ¡m 'X'}
+{216}{}{MÃ¡m 'X'}
+{217}{}{MÅ¯Å¾u ty souÄÃ¡stky pozdÄ›ji vymÄ›nit?}
+{218}{}{UÅ¾ nic nepotÅ™ebuju. Sbohem.}
+{220}{}{Hmm, mohl bych ten optickÃ½ zamÄ›Å™ovaÄ pÅ™ipevnit k tvojÃ­ puÅ¡ce.}
+{221}{}{No, mohl bych ten optickÃ½ zamÄ›Å™ovaÄ pÅ™ipevnit k jednÃ½ z tvÃ½ch puÅ¡ek. Ke kterÃ½ puÅ¡ce chceÅ¡, abych ho pÅ™ipevnil?}
+{222}{}{Kolik by stÃ¡lo namontovÃ¡nÃ­ optickÃ©ho zamÄ›Å™ovaÄe na loveckou puÅ¡ku?}
+{223}{}{Kolik by stÃ¡lo namontovÃ¡nÃ­ optickÃ©ho zamÄ›Å™ovaÄe na ÃºtoÄnou puÅ¡ku?}
+{224}{}{Kolik by stÃ¡lo namontovÃ¡nÃ­ optickÃ©ho zamÄ›Å™ovaÄe na odstÅ™elovacÃ­ puÅ¡ku?}
+{225}{}{Chci se zeptat na nÄ›co jinÃ©ho.}
+{226}{}{MyslÃ­m, Å¾e to bude vÅ¡echno. Sbohem.}
+{230}{}{Hmm, to jsem si myslel. VÃ­Å¡, s tÃ­m [Selected partname] nemÅ¯Å¾u nic dÄ›lat. MusÃ­Å¡ mÃ­t nÄ›co jinÃ½ho.}
+{231}{}{Hmm, co takhle jinÃ½ pÅ™edmÄ›t?}
+{232}{}{Jakou souÄÃ¡stku potÅ™ebuju?}
+{233}{}{MyslÃ­m, Å¾e se vrÃ¡tÃ­m, aÅ¾ budu mÃ­t nÄ›co jinÃ©ho. Sbohem.}
+{240}{}{Tady to mÃ¡Å¡. Snad ti to bude dobÅ™e slouÅ¾it. JeÅ¡tÄ› nÄ›co?}
+{241}{}{Ano, mohl by ses mi podÃ­vat jeÅ¡tÄ› na jeden pÅ™edmÄ›t?}
+{242}{}{To bude vÅ¡echno, dÃ­ky. Sbohem.}
+{250}{}{Hmm, nemÃ¡Å¡ dost penÄ›z, abych se ti na to podÃ­val. NemÃ¡Å¡ nÄ›co jinÃ©ho, na co bych se mohl podÃ­vat?}
+{251}{}{Kolik by stÃ¡lo zkombinovat nÄ›co jinÃ©ho?}
+{252}{}{MyslÃ­m, Å¾e ne. KaÅ¾dopÃ¡dnÄ› dÃ­ky. Sbohem.}
+{260}{}{VÄ›tÅ¡inou jenom tak podomÃ¡cku opravuju rÅ¯znÃ½ vÄ›ci. RozebÃ­rÃ¡m je a zkouÅ¡Ã­m je dÃ¡t znovu dohromady... vÄ›tÅ¡inou. ObÄas je i vylepÅ¡Ã­m. A vyhÃ½bÃ¡m se prÅ¯Å¡vihÅ¯m. VÃ­Å¡, co tÃ­m myslÃ­m?}
+{261}{}{MyslÃ­m, Å¾e jo. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{262}{}{No, myslÃ­m, Å¾e pÅ¯jdu nÄ›co dÄ›lat. Sbohem.}
+{270}{}{ShÃ¡nÃ­Å¡ GECK, jo? No, fakt nevÃ­m, kde by se dal najÃ­t, ale vÃ­m, Å¾e ve Vault City snad jeden mÄ›li.}
+{271}{}{Vault City jeden mÄ›lo?}
+{272}{}{Hmm. DobÅ™e, chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{273}{}{Tak nic, budu pokraÄovat v hledÃ¡nÃ­. Sbohem.}
+{280}{}{JasnÄ›, Å¾e mÄ›lo. Proto se teÄ maj tak zatracenÄ› dobÅ™e. UrÄitÄ› to nenÃ­ jenom proto, Å¾e vÄ›dÄ›j, co maj dÄ›lat. Je to proto, Å¾e pomocÃ­ GECKu se zaÄalo daÅ™it jejich ÃºrodÄ› a kdyÅ¾ vyÅ¡li z Vaultu, zaloÅ¾ili si mÄ›sto.}
+{281}{}{Kdo by tak mohl mÃ­t nepouÅ¾itÃ½ GECK?}
+{290}{}{Hmm, nech mÄ› pÅ™emÃ½Å¡let. Pokud si dobÅ™e vzpomÃ­nÃ¡m, ve vÄ›tÅ¡inÄ› vaultÅ¯ by mÄ›l jeden GECK bÃ½t. Zkus hledat v nÄ›kterÃ½m z jinÃ½ch vaultÅ¯.}
+{291}{}{DÃ­ky za radu. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{292}{}{DobÅ™e, budu pokraÄovat v hledÃ¡nÃ­. Sbohem.}
+{300}{}{Abych byl upÅ™Ã­mnej, tak ani nevÃ­m. KdyÅ¾ se mi podaÅ™Ã­ zÃ­skat vÅ¡echny souÄÃ¡stky, zaÄnu tak nÄ›jak chÃ¡pat, jak zapadaj do sebe. VÃ­Å¡, co tÃ­m myslÃ­m?}
+{301}{}{Eh, chceÅ¡ Å™Ã­ct, Å¾e to opravujeÅ¡ metodou pokus/omyl?}
+{302}{}{MÅ¯Å¾eÅ¡ se podÃ­vat na nÄ›co jinÃ©ho?}
+{303}{}{No, to dÃ¡vÃ¡ smysl. RadÄ›ji se poohlÃ©dnu po jinÃ© souÄÃ¡stce. Sbohem.}
+{310}{}{Jo jo. Ale je to odbornej odhad. To teda je. VÃ­Å¡, co tÃ­m myslÃ­m?}
+{311}{}{NevÃ­m sice, co mÃ¡Å¡ pÅ™esnÄ› na mysli, ale myslÃ­m, Å¾e se teÄ radÄ›ji poohlÃ©dnu po jinÃ© souÄÃ¡stce. Sbohem.}
+{312}{}{MÅ¯Å¾eÅ¡ se podÃ­vat na nÄ›co jinÃ©ho?}
+{313}{}{No, to dÃ¡vÃ¡ smysl. RadÄ›ji se poohlÃ©dnu po jinÃ© souÄÃ¡stce. Sbohem.}
+{320}{}{V tÄ›hlech dnech je tÄ›Å¾Å¡Ã­ sehnat poÅ™Ã¡dnÃ½ nÃ¡Å™adÃ­ neÅ¾ souÄÃ¡stky. PotÅ™ebuju novou soupravu super nÃ¡Å™adÃ­. NÄ›jakÃ½ znaÄkovÃ½ by bylo nejlepÅ¡Ã­.}
+{321}{}{Novou soupravu nÃ¡Å™adÃ­? Kde to seÅ¾enu?}
+{330}{}{MyslÃ­m, Å¾e se dÃ¡ sehnat nÄ›kde ve Vault City. Maj tam vÅ¡echno moÅ¾nÃ½ nÃ¡Å™adÃ­, ale stoprocentnÄ› by ho nedali ghoulovi.}
+{331}{}{TakÅ¾e ty chceÅ¡ pÅ™inÃ©st super nÃ¡Å™adÃ­ a pak mi dÃ¡Å¡ tu souÄÃ¡stku do auta?}
+{340}{}{PÅ™esnÄ› tak. TakovÃ¡ je dohoda. Jedno super nÃ¡Å™adÃ­ za jeden regulÃ¡tor pÅ™Ã­vodu energie.}
+{341}{}{To znÃ­ fÃ©r. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{342}{}{Co kdyÅ¾ si to trochu ulehÄÃ­m, zabiju tÄ› a tu souÄÃ¡stku si prostÄ› vezmu?}
+{343}{}{MyslÃ­m, Å¾e se pÅ¯jdu na chvÃ­li projÃ­t a promyslÃ­m si to. Sbohem.}
+{360}{}{No, to si mÅ¯Å¾eÅ¡ zkusit, ale tÅ™eba na tebe ÄekÃ¡ nemilÃ½ pÅ™ekvapenÃ­. TÅ™eba jsem silnÄ›jÅ¡Ã­, neÅ¾ si myslÃ­Å¡. A moÅ¾nÃ¡ si tÃ­m jenom uÅ¡kodÃ­Å¡. UmÃ­m totiÅ¾ dÃ¡vat vÄ›ci dohromady a nÄ›kdy je dobrÃ½ znÃ¡t nÄ›koho, kdo to umÃ­, nemyslÃ­Å¡?}
+{361}{}{No, asi mÃ¡Å¡ pravdu. ZatÃ­m tÄ› nechÃ¡m naÅ¾ivu. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{362}{}{Ty mÃ¡Å¡ koukÃ¡m odpovÄ›Ä na vÅ¡echno, co? DoufÃ¡m, Å¾e mÃ¡Å¡ odpovÄ›Ä i na to, co je po Å¾ivotÄ›, protoÅ¾e tÄ› tam poÅ¡lu... prÃ¡vÄ› teÄ.}
+{363}{}{O tom budu muset popÅ™emÃ½Å¡let. ZatÃ­m sbohem.}
+{370}{}{VidÃ­m, Å¾e mÃ¡Å¡ dost dobrou soupravu nÃ¡Å™adÃ­. To je Snapp-off, ne? VymÄ›nÃ­m ji s tebou za tenhle regulÃ¡tor pÅ™Ã­vodu energie.}
 {371}{}{Hey there! Yur back with my repair kit. Mmm, Snap-off -- they're the best. Ready to trade?}
 {372}{}{Dohodnuto.}
-{373}{}{Teï ne. Ještì si ji chvíli nechám. Sbohem.}
-{380}{}{To je fakt dobrej obchod. Staèí ho jen zapojit a auto by mìlo jet.}
-{381}{}{To je fakt dobrej obchod. Staèí ho jen zapojit a auto by mìlo jet. A rád pro tebe zadarmo opravím nìco z tvejch vìcí.}
-{382}{}{Opravdu? A zadarmo, jo? A co pro tebe musím udìlat já?}
-{383}{}{Chci se ještì na nìco zeptat.}
-{384}{}{Hned to vyzkouším. Sbohem.}
-{390}{}{No, víš, potøebuju tøícestnej plazma-transformer. A jedinı místo, kde se dá získat, je zásobovací sklad.}
-{391}{}{Tak proè si ho odtamtud prostì nevyzvedneš?}
-{400}{}{Nejsem tam zrovna moc vítanej. Udìlal jsem tam kdysi malej poár. Mùe se to stát komukoliv. Take teï mì nepustí nikam do budovy reaktoru. Potøebuju nìkoho, kdo pro mì tu souèástku vyzvedne.}
-{401}{}{Jak ten plazma-transformer získám?}
-{410}{}{Musíš si obstarat ádanku. A ji budeš mít, dej ji Jeremymu v zásobovacím skladu a on ti dá cokoliv budeš chtít. ádanku získáš od Harolda nebo Festuse.}
-{411}{}{Kde najdu Harolda a Festuse? A dají mi vùbec tu ádanku?}
-{420}{}{Harold je v osadì a Festus je v ovládací místnosti reaktoru. Ale moná budeš muset získat tu ádanku nenápadnì, jestli mi rozumíš.}
-{421}{}{Tím chceš øíct, e tu ádanku budu muset ukrást, e jo?}
-{430}{}{No, eh, jo. Myslím, e jo. Mùeš se jich zeptat, ale myslím, e nemáš moc velkou šanci.}
-{431}{}{Dobøe. Uvidím, co se dá dìlat.}
-{432}{}{Myslím, e to neudìlám. Sbohem.}
-{440}{}{Jseš tady kvùli tı práci, kterou ti dluím?}
-{441}{}{Jistì. Tak se podíváme, co pro mì mùeš udìlat.}
-{442}{}{Ještì ne. Jenom se dívám, jestli jsi ještì poøád tady. Zatím nashle.}
-{450}{}{Promiò, ale nemáš nic, k èemu bych to mohl pouít. Nemáš ještì nìco?}
-{451}{}{Podívej se na nìco jiného.}
-{452}{}{Myslím, e to bude zatím všechno. Sbohem.}
-{460}{}{Tak se na to podíváme. Bude tì to stát $[Cena za kombinaci pøedmìtu a s pøedmìtem b]. Chceš, abych to udìlal?}
-{461}{}{Ano, chci. Díky.}
-{462}{}{Myslím, e to nakonec nechci. Co takhle nìco jiného?}
-{463}{}{Myslím, e vlastnì nechci, abys teï na nìèem pracoval. Sbohem.}
-{470}{}{Kdy jednou nìco smontuju, zùstane to tak napoøád. Neumím to pozdìjc rozebrat a namontovat to na nìco jinıho. Radši si vyber správnì hned napoprvı.}
-{471}{}{Dobøe, rozumím. Tak se mi na nìco podívej.}
-{472}{}{Myslím, e vlastnì nechci, abys teï na nìèem pracoval. Sbohem.}
-{500}{}{Rád bych vìdìl, kde je to moje náøadí. Øíkal jsi, e pro nìj jdeš nebo ne? Bez nìj toho pro tebe moc neudìlám. Promiò. Ve Vault City by jich mìlo bıt plno.}
-{501}{}{Vrátím se, a ho získám. Sbohem.}
-{502}{}{Myslím, e stejnì teï od tebe ádnou pomoc nepotøebuju. Sbohem.}
-{600}{}{Na co se ti mám podívat?}
-{601}{}{Mám tady tuhle pistoli a zajímalo by mì, jestli...}
-{602}{}{Zdá se, e by se k té pušce dalo nìco pøimontovat.}
-{603}{}{Obèas rád rozdávám rány na blízko. Mohl bys nìjak vylepšit moji energetickou zbraò na blízko?}
-{604}{}{Eh, moná pozdìji. Chci se ještì na nìco zeptat.}
-{605}{}{U nic nepotøebuju. Sbohem.}
-{610}{}{(Spatøí tvùj Magnum revolver.) Mùu vybavit tvùj Magnum rychlonabíjeèem. Bude tì to stát $}
-{611}{}{Hmm, tomu Desert Eaglu by urèitì slušel vìtší zásobník. Pøišlo by tì to na $}
-{612}{}{Pøipevni ten rychlonabíjeè na Magnum.}
-{613}{}{Zvìtši kapacitu zásobníku u mého Desert Eaglu.}
-{614}{}{Vlastnì mám na mysli jinou zbraò...}
-{615}{}{Hmm, chci se ještì na nìco zeptat.}
-{616}{}{Vrátím se pozdìji.}
-{617}{}{To je na mì moc drahé. Vrátím se, a budu mít víc penìz.}
-{620}{}{(Skeeter zkoumá tvoji pušku a pomalu pokyvuje hlavou.) }
-{621}{}{Mohl bych na tvou loveckou pušku pøipevnit slušnej optickej zamìøovaè do kadıho poèasí. Bude tì to stát $}
-{622}{}{Nic se nevyrovná tomu mít útoènou pušku s rozšíøenım zásobníkem. Udìlám to za $}
-{623}{}{Ta FN FAL je dobrá zbraò. Mám na ni noktovizor. Mùe bejt tvùj za $}
-{624}{}{Tak dobøe... pøipevni mi optickı zamìøovaè na loveckou pušku Colt.}
-{625}{}{Zvìtši kapacitu zásobníku u mé útoèné pušky AK-112.}
-{626}{}{Pøipevni na FN FAL ten noktovizor.}
-{627}{}{To je na mì moc drahé. Vrátím se, a budu mít víc penìz.}
-{630}{}{Chceš trochu posílit zbraò na boj zblízka? Mùu ji *vylepšit* za $}
-{631}{}{Jasnì.}
+{373}{}{TeÄ ne. JeÅ¡tÄ› si ji chvÃ­li nechÃ¡m. Sbohem.}
+{380}{}{To je fakt dobrej obchod. StaÄÃ­ ho jen zapojit a auto by mÄ›lo jet.}
+{381}{}{To je fakt dobrej obchod. StaÄÃ­ ho jen zapojit a auto by mÄ›lo jet. A rÃ¡d pro tebe zadarmo opravÃ­m nÄ›co z tvejch vÄ›cÃ­.}
+{382}{}{Opravdu? A zadarmo, jo? A co pro tebe musÃ­m udÄ›lat jÃ¡?}
+{383}{}{Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{384}{}{Hned to vyzkouÅ¡Ã­m. Sbohem.}
+{390}{}{No, vÃ­Å¡, potÅ™ebuju tÅ™Ã­cestnej plazma-transformer. A jedinÃ½ mÃ­sto, kde se dÃ¡ zÃ­skat, je zÃ¡sobovacÃ­ sklad.}
+{391}{}{Tak proÄ si ho odtamtud prostÄ› nevyzvedneÅ¡?}
+{400}{}{Nejsem tam zrovna moc vÃ­tanej. UdÄ›lal jsem tam kdysi malej poÅ¾Ã¡r. MÅ¯Å¾e se to stÃ¡t komukoliv. TakÅ¾e teÄ mÄ› nepustÃ­ nikam do budovy reaktoru. PotÅ™ebuju nÄ›koho, kdo pro mÄ› tu souÄÃ¡stku vyzvedne.}
+{401}{}{Jak ten plazma-transformer zÃ­skÃ¡m?}
+{410}{}{MusÃ­Å¡ si obstarat Å¾Ã¡danku. AÅ¾ ji budeÅ¡ mÃ­t, dej ji Jeremymu v zÃ¡sobovacÃ­m skladu a on ti dÃ¡ cokoliv budeÅ¡ chtÃ­t. Å½Ã¡danku zÃ­skÃ¡Å¡ od Harolda nebo Festuse.}
+{411}{}{Kde najdu Harolda a Festuse? A dajÃ­ mi vÅ¯bec tu Å¾Ã¡danku?}
+{420}{}{Harold je v osadÄ› a Festus je v ovlÃ¡dacÃ­ mÃ­stnosti reaktoru. Ale moÅ¾nÃ¡ budeÅ¡ muset zÃ­skat tu Å¾Ã¡danku nenÃ¡padnÄ›, jestli mi rozumÃ­Å¡.}
+{421}{}{TÃ­m chceÅ¡ Å™Ã­ct, Å¾e tu Å¾Ã¡danku budu muset ukrÃ¡st, Å¾e jo?}
+{430}{}{No, eh, jo. MyslÃ­m, Å¾e jo. MÅ¯Å¾eÅ¡ se jich zeptat, ale myslÃ­m, Å¾e nemÃ¡Å¡ moc velkou Å¡anci.}
+{431}{}{DobÅ™e. UvidÃ­m, co se dÃ¡ dÄ›lat.}
+{432}{}{MyslÃ­m, Å¾e to neudÄ›lÃ¡m. Sbohem.}
+{440}{}{JseÅ¡ tady kvÅ¯li tÃ½ prÃ¡ci, kterou ti dluÅ¾Ã­m?}
+{441}{}{JistÄ›. Tak se podÃ­vÃ¡me, co pro mÄ› mÅ¯Å¾eÅ¡ udÄ›lat.}
+{442}{}{JeÅ¡tÄ› ne. Jenom se dÃ­vÃ¡m, jestli jsi jeÅ¡tÄ› poÅ™Ã¡d tady. ZatÃ­m nashle.}
+{450}{}{PromiÅˆ, ale nemÃ¡Å¡ nic, k Äemu bych to mohl pouÅ¾Ã­t. NemÃ¡Å¡ jeÅ¡tÄ› nÄ›co?}
+{451}{}{PodÃ­vej se na nÄ›co jinÃ©ho.}
+{452}{}{MyslÃ­m, Å¾e to bude zatÃ­m vÅ¡echno. Sbohem.}
+{460}{}{Tak se na to podÃ­vÃ¡me. Bude tÄ› to stÃ¡t $[Cena za kombinaci pÅ™edmÄ›tu a s pÅ™edmÄ›tem b]. ChceÅ¡, abych to udÄ›lal?}
+{461}{}{Ano, chci. DÃ­ky.}
+{462}{}{MyslÃ­m, Å¾e to nakonec nechci. Co takhle nÄ›co jinÃ©ho?}
+{463}{}{MyslÃ­m, Å¾e vlastnÄ› nechci, abys teÄ na nÄ›Äem pracoval. Sbohem.}
+{470}{}{KdyÅ¾ jednou nÄ›co smontuju, zÅ¯stane to tak napoÅ™Ã¡d. NeumÃ­m to pozdÄ›jc rozebrat a namontovat to na nÄ›co jinÃ½ho. RadÅ¡i si vyber sprÃ¡vnÄ› hned napoprvÃ½.}
+{471}{}{DobÅ™e, rozumÃ­m. Tak se mi na nÄ›co podÃ­vej.}
+{472}{}{MyslÃ­m, Å¾e vlastnÄ› nechci, abys teÄ na nÄ›Äem pracoval. Sbohem.}
+{500}{}{RÃ¡d bych vÄ›dÄ›l, kde je to moje nÃ¡Å™adÃ­. Å˜Ã­kal jsi, Å¾e pro nÄ›j jdeÅ¡ nebo ne? Bez nÄ›j toho pro tebe moc neudÄ›lÃ¡m. PromiÅˆ. Ve Vault City by jich mÄ›lo bÃ½t plno.}
+{501}{}{VrÃ¡tÃ­m se, aÅ¾ ho zÃ­skÃ¡m. Sbohem.}
+{502}{}{MyslÃ­m, Å¾e stejnÄ› teÄ od tebe Å¾Ã¡dnou pomoc nepotÅ™ebuju. Sbohem.}
+{600}{}{Na co se ti mÃ¡m podÃ­vat?}
+{601}{}{MÃ¡m tady tuhle pistoli a zajÃ­malo by mÄ›, jestli...}
+{602}{}{ZdÃ¡ se, Å¾e by se k tÃ© puÅ¡ce dalo nÄ›co pÅ™imontovat.}
+{603}{}{ObÄas rÃ¡d rozdÃ¡vÃ¡m rÃ¡ny na blÃ­zko. Mohl bys nÄ›jak vylepÅ¡it moji energetickou zbraÅˆ na blÃ­zko?}
+{604}{}{Eh, moÅ¾nÃ¡ pozdÄ›ji. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{605}{}{UÅ¾ nic nepotÅ™ebuju. Sbohem.}
+{610}{}{(SpatÅ™Ã­ tvÅ¯j Magnum revolver.) MÅ¯Å¾u vybavit tvÅ¯j Magnum rychlonabÃ­jeÄem. Bude tÄ› to stÃ¡t $}
+{611}{}{Hmm, tomu Desert Eaglu by urÄitÄ› sluÅ¡el vÄ›tÅ¡Ã­ zÃ¡sobnÃ­k. PÅ™iÅ¡lo by tÄ› to na $}
+{612}{}{PÅ™ipevni ten rychlonabÃ­jeÄ na Magnum.}
+{613}{}{ZvÄ›tÅ¡i kapacitu zÃ¡sobnÃ­ku u mÃ©ho Desert Eaglu.}
+{614}{}{VlastnÄ› mÃ¡m na mysli jinou zbraÅˆ...}
+{615}{}{Hmm, chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{616}{}{VrÃ¡tÃ­m se pozdÄ›ji.}
+{617}{}{To je na mÄ› moc drahÃ©. VrÃ¡tÃ­m se, aÅ¾ budu mÃ­t vÃ­c penÄ›z.}
+{620}{}{(Skeeter zkoumÃ¡ tvoji puÅ¡ku a pomalu pokyvuje hlavou.) }
+{621}{}{Mohl bych na tvou loveckou puÅ¡ku pÅ™ipevnit sluÅ¡nej optickej zamÄ›Å™ovaÄ do kaÅ¾dÃ½ho poÄasÃ­. Bude tÄ› to stÃ¡t $}
+{622}{}{Nic se nevyrovnÃ¡ tomu mÃ­t ÃºtoÄnou puÅ¡ku s rozÅ¡Ã­Å™enÃ½m zÃ¡sobnÃ­kem. UdÄ›lÃ¡m to za $}
+{623}{}{Ta FN FAL je dobrÃ¡ zbraÅˆ. MÃ¡m na ni noktovizor. MÅ¯Å¾e bejt tvÅ¯j za $}
+{624}{}{Tak dobÅ™e... pÅ™ipevni mi optickÃ½ zamÄ›Å™ovaÄ na loveckou puÅ¡ku Colt.}
+{625}{}{ZvÄ›tÅ¡i kapacitu zÃ¡sobnÃ­ku u mÃ© ÃºtoÄnÃ© puÅ¡ky AK-112.}
+{626}{}{PÅ™ipevni na FN FAL ten noktovizor.}
+{627}{}{To je na mÄ› moc drahÃ©. VrÃ¡tÃ­m se, aÅ¾ budu mÃ­t vÃ­c penÄ›z.}
+{630}{}{ChceÅ¡ trochu posÃ­lit zbraÅˆ na boj zblÃ­zka? MÅ¯Å¾u ji *vylepÅ¡it* za $}
+{631}{}{JasnÄ›.}
 {640}{}{[Skeeter takes the item and looks it over with a weird gleam in his
  eye.] Well, this is a mite challengin', but I think I can fix this up real nice
  for ya. Just sit tight for a while. [Skeeter takes the weapon over to his
  workbench and locks it in a really big vise.]}
-{641}{}{Dobøe.}
+{641}{}{DobÅ™e.}
 {650}{}{[As you wait you can see Skeeter's back as he works on your weapon. You
  don't know exactly what he's doing but that weird chuckle and all the pounding are
  making you nervous.]}
-{651}{}{Èekat...}
-{660}{}{(Stále si podupává a uchechtává...)}
-{661}{}{(Potichu si pískáš a dìláš na stìnì Skeeterovy dílny stínohru...)}
-{670}{}{Tady to máš. (Náhle se probereš, kdy Skeeter vezme tvou zbraò z ponku. Kdy ti ji vrací, uvidíš mnoství malıch blıskavıch kovovıch èásteèek tøpytících se na ponku.) To by *mìlo* staèit, aspoò myslím. Vyzkoušej to.}
-{671}{}{Díky. Mohl bys vylepšit nìkterou z mıch jinıch zbraní?}
-{672}{}{Díky, Skeetere. Eh, chci se ještì na nìco zeptat.}
-{673}{}{Díky, Skeetere. Jdu to vyzkoušet.}
-{680}{}{(Spatøí tvùj magnum revolver.) Mohl bych ti na ten tvùj revolver zadarmo namontovat rychlonabíjeè.}
-{681}{}{Hmm, tomu Desert Eaglu by slušel vìtší zásobník. Mùu to udìlat zadarmo.}
-{682}{}{Zadarmo ti mùu na tvou loveckou pušku pøipevnit slušnej optickej zamìøovaè do kadıho poèasí.}
-{683}{}{Nic se nevyrovná tomu mít útoènou pušku s rozšíøenım zásobníkem. A mohl bych to udìlat zadarmo.}
-{684}{}{Ta FN FAL je dobrá zbraò. Mám na ni noktovizor. Mùe bejt tvùj. Zadarmo.}
-{685}{}{Chceš trochu posílit zbraò pro boj zblízka? Mùu ji zadarmo *vylepšit*.}
-{700}{}{Doruèil jsi souèástku Skeeterovi.}
-{710}{}{Doruèil jsi Skeeterovi sadu náøadí.}
+{651}{}{ÄŒekat...}
+{660}{}{(StÃ¡le si podupÃ¡vÃ¡ a uchechtÃ¡vÃ¡...)}
+{661}{}{(Potichu si pÃ­skÃ¡Å¡ a dÄ›lÃ¡Å¡ na stÄ›nÄ› Skeeterovy dÃ­lny stÃ­nohru...)}
+{670}{}{Tady to mÃ¡Å¡. (NÃ¡hle se probereÅ¡, kdyÅ¾ Skeeter vezme tvou zbraÅˆ z ponku. KdyÅ¾ ti ji vracÃ­, uvidÃ­Å¡ mnoÅ¾stvÃ­ malÃ½ch blÃ½skavÃ½ch kovovÃ½ch ÄÃ¡steÄek tÅ™pytÃ­cÃ­ch se na ponku.) To by *mÄ›lo* staÄit, aspoÅˆ myslÃ­m. VyzkouÅ¡ej to.}
+{671}{}{DÃ­ky. Mohl bys vylepÅ¡it nÄ›kterou z mÃ½ch jinÃ½ch zbranÃ­?}
+{672}{}{DÃ­ky, Skeetere. Eh, chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{673}{}{DÃ­ky, Skeetere. Jdu to vyzkouÅ¡et.}
+{680}{}{(SpatÅ™Ã­ tvÅ¯j magnum revolver.) Mohl bych ti na ten tvÅ¯j revolver zadarmo namontovat rychlonabÃ­jeÄ.}
+{681}{}{Hmm, tomu Desert Eaglu by sluÅ¡el vÄ›tÅ¡Ã­ zÃ¡sobnÃ­k. MÅ¯Å¾u to udÄ›lat zadarmo.}
+{682}{}{Zadarmo ti mÅ¯Å¾u na tvou loveckou puÅ¡ku pÅ™ipevnit sluÅ¡nej optickej zamÄ›Å™ovaÄ do kaÅ¾dÃ½ho poÄasÃ­.}
+{683}{}{Nic se nevyrovnÃ¡ tomu mÃ­t ÃºtoÄnou puÅ¡ku s rozÅ¡Ã­Å™enÃ½m zÃ¡sobnÃ­kem. A mohl bych to udÄ›lat zadarmo.}
+{684}{}{Ta FN FAL je dobrÃ¡ zbraÅˆ. MÃ¡m na ni noktovizor. MÅ¯Å¾e bejt tvÅ¯j. Zadarmo.}
+{685}{}{ChceÅ¡ trochu posÃ­lit zbraÅˆ pro boj zblÃ­zka? MÅ¯Å¾u ji zadarmo *vylepÅ¡it*.}
+{700}{}{DoruÄil jsi souÄÃ¡stku Skeeterovi.}
+{710}{}{DoruÄil jsi Skeeterovi sadu nÃ¡Å™adÃ­.}
 {5500}{}{.}

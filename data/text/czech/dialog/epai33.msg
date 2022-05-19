@@ -1,4 +1,4 @@
-{100}{}{Vrátím se to zkontrolovat za pár dní.}
-{101}{}{Zrovna jsem tu nìco zasadil. U tu není ádné další místo.}
-{102}{}{Tyhle bych mìl asi schovat pro Arroyo. Nemá smysl tím plıtvat tady.}
-{200}{}{Zasadil jsi semena do zemì.}
+{100}{}{VrÃ¡tÃ­m se to zkontrolovat za pÃ¡r dnÃ­.}
+{101}{}{Zrovna jsem tu nÄ›co zasadil. UÅ¾ tu nenÃ­ Å¾Ã¡dnÃ© dalÅ¡Ã­ mÃ­sto.}
+{102}{}{Tyhle bych mÄ›l asi schovat pro Arroyo. NemÃ¡ smysl tÃ­m plÃ½tvat tady.}
+{200}{}{Zasadil jsi semena do zemÄ›.}

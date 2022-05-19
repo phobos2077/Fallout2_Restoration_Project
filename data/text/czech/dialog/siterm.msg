@@ -1,8 +1,8 @@
-{100}{}{Vidíš terminál.}
-{101}{}{Vidíš poèítaèovı terminál. Vìtšinou se pouívá k ovládání jinıch vìcí.}
-{200}{}{Zdá se, e tento terminál ovládá dveøe v tomhle bloku.}
-{201}{}{Chybné poøadí kódù.}
-{202}{}{Dveøe jsou nyní otevøeny.}
-{203}{}{Dveøe jsou nyní zavøeny.}
-{204}{}{Zajímavı nápad, ale nic to nedìlá.}
-{205}{}{Hmmm, tyhle poèítaèe jsou dost sloité.}
+{100}{}{VidÃ­Å¡ terminÃ¡l.}
+{101}{}{VidÃ­Å¡ poÄÃ­taÄovÃ½ terminÃ¡l. VÄ›tÅ¡inou se pouÅ¾Ã­vÃ¡ k ovlÃ¡dÃ¡nÃ­ jinÃ½ch vÄ›cÃ­.}
+{200}{}{ZdÃ¡ se, Å¾e tento terminÃ¡l ovlÃ¡dÃ¡ dveÅ™e v tomhle bloku.}
+{201}{}{ChybnÃ© poÅ™adÃ­ kÃ³dÅ¯.}
+{202}{}{DveÅ™e jsou nynÃ­ otevÅ™eny.}
+{203}{}{DveÅ™e jsou nynÃ­ zavÅ™eny.}
+{204}{}{ZajÃ­mavÃ½ nÃ¡pad, ale nic to nedÄ›lÃ¡.}
+{205}{}{Hmmm, tyhle poÄÃ­taÄe jsou dost sloÅ¾itÃ©.}

@@ -1,46 +1,46 @@
-{100}{}{Vidíš hologram.}
-{101}{}{Vidíš øeditelku pro styk s veøejností.}
-{102}{}{Hologram 40011. Je zodpovìdná za všechny exkurze a tisková vyjádøení komplexu EPA.}
-{200}{}{(Tento hologram se vzhledem pøitalivé eny tì pøivítá s pøátelskım úsmìvem.) Zdravím, návštìvníku, vítejte v komplexu EPA. Jak vám mohu pomoci? Obìd se bude podávat v poledne v bufetì pro všechny zamìstnance spoleènosti.}
-{201}{}{Coe? No to je jedno. Kdo jste?}
-{202}{}{Musím jít. Nashle.}
-{210}{}{Já? Jsem hologram 40011, øeditelka pro styk s veøejností. Organizuji vılety, exkurze a jiné záleitosti. Dohlíím na to, aby kadı den vše probíhalo hladce a veøejnost byla spokojená. Exkurze po muzeu komplexu EPA brzy zaène. Prosím, pøipravte si vstupenky.}
-{211}{}{To zní jako fascinující práce. Sbohem.}
-{212}{}{Take byste mi mohla s nìèím pomoct?}
-{220}{}{Samozøejmì. Ráda pomùu. Jak vám mohu pomoci? Informaèní broury najdete v hlavní kanceláøi a v poštovních schránkách po celém komplexu EPA.}
-{221}{}{Na nìkterıch patrech jsou dveøe, které bez hesla nemùu otevøít. Potøebuju se pøes nì dostat a prozkoumat víc vaše zaøízení. Asi to heslo neznáte, e?}
-{230}{}{Samozøejmì, e to heslo znám, ale bohuel vám ho nemohu sdìlit. Chápu vaše nadšení prozkoumávat toto skvìlé zaøízení, ale existují pravidla, která se musí kvùli bezpeènosti dodrovat. Pamatujte, komplex EPA nabízí exkurze v pøedem danıch termínech.}
-{231}{}{O moje bezpeèí si nemusíte dìlat starosti. Jsem Vyvolenı. Navíc, kdy jste naposledy mìli nìjakou *opravdovou* návštìvu? Opravdu mì chcete zklamat?}
-{232}{}{Tak dobøe. Sbohem.}
-{240}{}{Samozøejmì, e ne. Ale kdy vám to heslo dám, tam tím ohrozím nejen vás, ale i celı komplex. Prosím dìti, aby se nedotıkaly hologramù.}
-{241}{}{Jak mùu ohrozit tenhle komplex? Nerad vám kazím iluze, dámo, ale tenhle komplex u šel dávno k èertu. Kromì nebezpeènıch chemikálií a rozbitıch robotù tady nic není. Upøímnì nechápu, jak to mùu ještì víc pokazit.}
-{242}{}{No tak na to zapomeòte.}
-{250}{}{Já... já nevím. Je to proti pøedpisùm. Ale... moná vám ho dám, kdy mi s nìèím pomùete. Návštìvníci, berte prosím na vìdomí, e na modré podlaí je zakázanı pøístup z naprosto nezajímavıch dùvodù. Není tøeba bıt zvìdavı.}
-{251}{}{Jasnì, pomùu vám. Jen mi øeknìte, co chcete.}
-{260}{}{Ach ano, u to tady vypadá o mnoho lépe, dìkuji vám. Heslo je ABRE. Jednoduše promluvte ke dveøím a ony se otevøou. Mohl by prosím kadı... }
-{261}{}{ANO, to u jsem slyšel. Díky za heslo. Sbohem.}
-{270}{}{Zdravím. Co potøebujete? Komplex EPA bude v dohledné budoucnosti uzavøen kvùli nedostatku personálu.}
-{271}{}{Teï kdy mám víc èasu, mùete mi øíct, co tu dìláte?}
-{272}{}{Zapomeò na to.}
-{280}{}{Vítejte zpìt, návštìvníku. Momentálnì neprobíhá ádná exkurze, ale pokud poèkáte na dostatek návštìvníkù, tak vám ji ráda zaøídím.}
-{281}{}{Nechci jít na exkurzi, díky. Sbohem.}
-{282}{}{Zajímalo by mì, jestli pro mì mùete nìco udìlat.}
-{290}{}{Zdravím. Jsem momentálnì trochu zaneprázdnìna pøipravou nového programu exkurzí pro nadcházející sezónu. Mùete pøijít pozdìji, prosím?}
-{291}{}{Mùu, ale docela spìchám. Víte, *opravdu* potøebuju to heslo ke dveøím. Dáte mi ho prosím?}
-{300}{}{Ještì jednou díky za vaši pomoc a buïte prosím s tím heslem opatrnı. Pamatujte, e je to naše malé tajemství. Dìkujeme, e jste navštívili komplex EPA a doufáme, e se vám tu líbilo.}
-{301}{}{Dík. Naskle.}
-{302}{}{Nìkdy nás zase navštivte.}
-{303}{}{Nezapomeòte navštívit stánek se suvenıry komplexu EPA.}
-{310}{}{Myslíte, e dokáete opravit osvìtlení? Je pro mì nepøípustné, abych provádìla exkurze v tak slabì osvìtleném komplexu. Kdy se vám podaøí to tady víc osvìtlit, dám vám to heslo. Poprosím vás, abyste si dùkladnì umyli ruce po prohlídce zvíøecí zoo.}
-{311}{}{Dobrá. Uvidím, co se dá dìlat.}
-{312}{}{Je mi to fuk. Nemám zájem.}
+{100}{}{VidÃ­Å¡ hologram.}
+{101}{}{VidÃ­Å¡ Å™editelku pro styk s veÅ™ejnostÃ­.}
+{102}{}{Hologram 40011. Je zodpovÄ›dnÃ¡ za vÅ¡echny exkurze a tiskovÃ¡ vyjÃ¡dÅ™enÃ­ komplexu EPA.}
+{200}{}{(Tento hologram se vzhledem pÅ™itaÅ¾livÃ© Å¾eny tÄ› pÅ™ivÃ­tÃ¡ s pÅ™Ã¡telskÃ½m ÃºsmÄ›vem.) ZdravÃ­m, nÃ¡vÅ¡tÄ›vnÃ­ku, vÃ­tejte v komplexu EPA. Jak vÃ¡m mohu pomoci? ObÄ›d se bude podÃ¡vat v poledne v bufetÄ› pro vÅ¡echny zamÄ›stnance spoleÄnosti.}
+{201}{}{CoÅ¾e? No to je jedno. Kdo jste?}
+{202}{}{MusÃ­m jÃ­t. Nashle.}
+{210}{}{JÃ¡? Jsem hologram 40011, Å™editelka pro styk s veÅ™ejnostÃ­. Organizuji vÃ½lety, exkurze a jinÃ© zÃ¡leÅ¾itosti. DohlÃ­Å¾Ã­m na to, aby kaÅ¾dÃ½ den vÅ¡e probÃ­halo hladce a veÅ™ejnost byla spokojenÃ¡. Exkurze po muzeu komplexu EPA brzy zaÄne. ProsÃ­m, pÅ™ipravte si vstupenky.}
+{211}{}{To znÃ­ jako fascinujÃ­cÃ­ prÃ¡ce. Sbohem.}
+{212}{}{TakÅ¾e byste mi mohla s nÄ›ÄÃ­m pomoct?}
+{220}{}{SamozÅ™ejmÄ›. RÃ¡da pomÅ¯Å¾u. Jak vÃ¡m mohu pomoci? InformaÄnÃ­ broÅ¾ury najdete v hlavnÃ­ kancelÃ¡Å™i a v poÅ¡tovnÃ­ch schrÃ¡nkÃ¡ch po celÃ©m komplexu EPA.}
+{221}{}{Na nÄ›kterÃ½ch patrech jsou dveÅ™e, kterÃ© bez hesla nemÅ¯Å¾u otevÅ™Ã­t. PotÅ™ebuju se pÅ™es nÄ› dostat a prozkoumat vÃ­c vaÅ¡e zaÅ™Ã­zenÃ­. Asi to heslo neznÃ¡te, Å¾e?}
+{230}{}{SamozÅ™ejmÄ›, Å¾e to heslo znÃ¡m, ale bohuÅ¾el vÃ¡m ho nemohu sdÄ›lit. ChÃ¡pu vaÅ¡e nadÅ¡enÃ­ prozkoumÃ¡vat toto skvÄ›lÃ© zaÅ™Ã­zenÃ­, ale existujÃ­ pravidla, kterÃ¡ se musÃ­ kvÅ¯li bezpeÄnosti dodrÅ¾ovat. Pamatujte, komplex EPA nabÃ­zÃ­ exkurze v pÅ™edem danÃ½ch termÃ­nech.}
+{231}{}{O moje bezpeÄÃ­ si nemusÃ­te dÄ›lat starosti. Jsem VyvolenÃ½. NavÃ­c, kdy jste naposledy mÄ›li nÄ›jakou *opravdovou* nÃ¡vÅ¡tÄ›vu? Opravdu mÄ› chcete zklamat?}
+{232}{}{Tak dobÅ™e. Sbohem.}
+{240}{}{SamozÅ™ejmÄ›, Å¾e ne. Ale kdyÅ¾ vÃ¡m to heslo dÃ¡m, tam tÃ­m ohrozÃ­m nejen vÃ¡s, ale i celÃ½ komplex. ProsÃ­m dÄ›ti, aby se nedotÃ½kaly hologramÅ¯.}
+{241}{}{Jak mÅ¯Å¾u ohrozit tenhle komplex? Nerad vÃ¡m kazÃ­m iluze, dÃ¡mo, ale tenhle komplex uÅ¾ Å¡el dÃ¡vno k Äertu. KromÄ› nebezpeÄnÃ½ch chemikÃ¡liÃ­ a rozbitÃ½ch robotÅ¯ tady nic nenÃ­. UpÅ™Ã­mnÄ› nechÃ¡pu, jak to mÅ¯Å¾u jeÅ¡tÄ› vÃ­c pokazit.}
+{242}{}{No tak na to zapomeÅˆte.}
+{250}{}{JÃ¡... jÃ¡ nevÃ­m. Je to proti pÅ™edpisÅ¯m. Ale... moÅ¾nÃ¡ vÃ¡m ho dÃ¡m, kdyÅ¾ mi s nÄ›ÄÃ­m pomÅ¯Å¾ete. NÃ¡vÅ¡tÄ›vnÃ­ci, berte prosÃ­m na vÄ›domÃ­, Å¾e na modrÃ© podlaÅ¾Ã­ je zakÃ¡zanÃ½ pÅ™Ã­stup z naprosto nezajÃ­mavÃ½ch dÅ¯vodÅ¯. NenÃ­ tÅ™eba bÃ½t zvÄ›davÃ½.}
+{251}{}{JasnÄ›, pomÅ¯Å¾u vÃ¡m. Jen mi Å™eknÄ›te, co chcete.}
+{260}{}{Ach ano, uÅ¾ to tady vypadÃ¡ o mnoho lÃ©pe, dÄ›kuji vÃ¡m. Heslo je ABRE. JednoduÅ¡e promluvte ke dveÅ™Ã­m a ony se otevÅ™ou. Mohl by prosÃ­m kaÅ¾dÃ½... }
+{261}{}{ANO, to uÅ¾ jsem slyÅ¡el. DÃ­ky za heslo. Sbohem.}
+{270}{}{ZdravÃ­m. Co potÅ™ebujete? Komplex EPA bude v dohlednÃ© budoucnosti uzavÅ™en kvÅ¯li nedostatku personÃ¡lu.}
+{271}{}{TeÄ kdyÅ¾ mÃ¡m vÃ­c Äasu, mÅ¯Å¾ete mi Å™Ã­ct, co tu dÄ›lÃ¡te?}
+{272}{}{ZapomeÅˆ na to.}
+{280}{}{VÃ­tejte zpÄ›t, nÃ¡vÅ¡tÄ›vnÃ­ku. MomentÃ¡lnÄ› neprobÃ­hÃ¡ Å¾Ã¡dnÃ¡ exkurze, ale pokud poÄkÃ¡te na dostatek nÃ¡vÅ¡tÄ›vnÃ­kÅ¯, tak vÃ¡m ji rÃ¡da zaÅ™Ã­dÃ­m.}
+{281}{}{Nechci jÃ­t na exkurzi, dÃ­ky. Sbohem.}
+{282}{}{ZajÃ­malo by mÄ›, jestli pro mÄ› mÅ¯Å¾ete nÄ›co udÄ›lat.}
+{290}{}{ZdravÃ­m. Jsem momentÃ¡lnÄ› trochu zaneprÃ¡zdnÄ›na pÅ™ipravou novÃ©ho programu exkurzÃ­ pro nadchÃ¡zejÃ­cÃ­ sezÃ³nu. MÅ¯Å¾ete pÅ™ijÃ­t pozdÄ›ji, prosÃ­m?}
+{291}{}{MÅ¯Å¾u, ale docela spÄ›chÃ¡m. VÃ­te, *opravdu* potÅ™ebuju to heslo ke dveÅ™Ã­m. DÃ¡te mi ho prosÃ­m?}
+{300}{}{JeÅ¡tÄ› jednou dÃ­ky za vaÅ¡i pomoc a buÄte prosÃ­m s tÃ­m heslem opatrnÃ½. Pamatujte, Å¾e je to naÅ¡e malÃ© tajemstvÃ­. DÄ›kujeme, Å¾e jste navÅ¡tÃ­vili komplex EPA a doufÃ¡me, Å¾e se vÃ¡m tu lÃ­bilo.}
+{301}{}{DÃ­k. Naskle.}
+{302}{}{NÄ›kdy nÃ¡s zase navÅ¡tivte.}
+{303}{}{NezapomeÅˆte navÅ¡tÃ­vit stÃ¡nek se suvenÃ½ry komplexu EPA.}
+{310}{}{MyslÃ­te, Å¾e dokÃ¡Å¾ete opravit osvÄ›tlenÃ­? Je pro mÄ› nepÅ™Ã­pustnÃ©, abych provÃ¡dÄ›la exkurze v tak slabÄ› osvÄ›tlenÃ©m komplexu. KdyÅ¾ se vÃ¡m podaÅ™Ã­ to tady vÃ­c osvÄ›tlit, dÃ¡m vÃ¡m to heslo. PoprosÃ­m vÃ¡s, abyste si dÅ¯kladnÄ› umyli ruce po prohlÃ­dce zvÃ­Å™ecÃ­ zoo.}
+{311}{}{DobrÃ¡. UvidÃ­m, co se dÃ¡ dÄ›lat.}
+{312}{}{Je mi to fuk. NemÃ¡m zÃ¡jem.}
 {320}{}{The complex is still looking rather drab. You're still going to fix the lights, aren't you? Remember visitors, all waivers must be signed before the end of the tour.}
 {321}{}{Nebojte se. Pracuju na tom.}
-{322}{}{Èasem se k tomu dostanu.}
-{330}{}{Kdyby byl areál èistı, mìli bychom víc návštìvníkù.}
-{331}{}{Jak mám provádìt exkurze bez poøádného osvìtlení?}
-{332}{}{Ty rostliny odpuzují všechny potenciální návštìvníky.}
-{333}{}{Všichni ti rozbití roboti jsou *velmi* nevzhlední.}
-{334}{}{10031, jsi k nièemu u nìkolik desetiletí.}
-{335}{}{Jen øíkám, e by mìlo bıt toto místo víc reprezentativní.}
-{336}{}{Znièení komplexu není øešením.}
+{322}{}{ÄŒasem se k tomu dostanu.}
+{330}{}{Kdyby byl areÃ¡l ÄistÃ½, mÄ›li bychom vÃ­c nÃ¡vÅ¡tÄ›vnÃ­kÅ¯.}
+{331}{}{Jak mÃ¡m provÃ¡dÄ›t exkurze bez poÅ™Ã¡dnÃ©ho osvÄ›tlenÃ­?}
+{332}{}{Ty rostliny odpuzujÃ­ vÅ¡echny potenciÃ¡lnÃ­ nÃ¡vÅ¡tÄ›vnÃ­ky.}
+{333}{}{VÅ¡ichni ti rozbitÃ­ roboti jsou *velmi* nevzhlednÃ­.}
+{334}{}{10031, jsi k niÄemu uÅ¾ nÄ›kolik desetiletÃ­.}
+{335}{}{Jen Å™Ã­kÃ¡m, Å¾e by mÄ›lo bÃ½t toto mÃ­sto vÃ­c reprezentativnÃ­.}
+{336}{}{ZniÄenÃ­ komplexu nenÃ­ Å™eÅ¡enÃ­m.}

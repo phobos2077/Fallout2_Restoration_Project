@@ -1,1 +1,1 @@
-{100}{}{Zdá se, e se tady pomìrnì nedávno bojovalo. Tìla jsou rozsekána na krvavou kaši.}
+{100}{}{ZdÃ¡ se, Å¾e se tady pomÄ›rnÄ› nedÃ¡vno bojovalo. TÄ›la jsou rozsekÃ¡na na krvavou kaÅ¡i.}

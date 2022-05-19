@@ -1,168 +1,168 @@
-{100}{}{Vidíš Louise Salvatora.}
-{150}{}{Vidíš staršího, dobøe obleèeného gentlemana. Nosí s sebou kyslíkovou bombu a zdá se, e má problémy s dıcháním.}
-{151}{}{Vidíš Louise Salvatora. Nosí s sebou kyslíkovou bombu a zdá se, e má problémy s dıcháním.}
+{100}{}{VidÃ­Å¡ Louise Salvatora.}
+{150}{}{VidÃ­Å¡ starÅ¡Ã­ho, dobÅ™e obleÄenÃ©ho gentlemana. NosÃ­ s sebou kyslÃ­kovou bombu a zdÃ¡ se, Å¾e mÃ¡ problÃ©my s dÃ½chÃ¡nÃ­m.}
+{151}{}{VidÃ­Å¡ Louise Salvatora. NosÃ­ s sebou kyslÃ­kovou bombu a zdÃ¡ se, Å¾e mÃ¡ problÃ©my s dÃ½chÃ¡nÃ­m.}
 {200}{}{*Kuc*}
-{201}{}{::Vzzz hvízd::}
+{201}{}{::Vzzz hvÃ­zd::}
 {202}{}{*Kuc* *Kuc*}
-{210}{}{Stráe! Strá...*Kuc* *Kuc*...stráe!}
-{215}{}{(Salvatore se k tobì otoèí s kamennou tváøí. Na zlomek vteøiny si tì prohlédne, poté udìlá podivnı pohyb rukou a v tu chvíli se rozezní poplašné sirény po celém kasínu.)}
-{216}{}{Jaùùùù! Ztlumit zvuk! Uši bolet! UŠI BOLET!}
-{217}{}{JÁ NEMOCT MLUVIT PØES SIRÉNA. TY VYPNOUT A MY MLUVIT.}
-{218}{}{ZMRZAÈÍM TÌ, dìdku! U nikdy nebudeš chodit!}
-{219}{}{Já vìdìl, e si mám nejdøív sehnat propustku...}
+{210}{}{StrÃ¡Å¾e! StrÃ¡...*Kuc* *Kuc*...strÃ¡Å¾e!}
+{215}{}{(Salvatore se k tobÄ› otoÄÃ­ s kamennou tvÃ¡Å™Ã­. Na zlomek vteÅ™iny si tÄ› prohlÃ©dne, potÃ© udÄ›lÃ¡ podivnÃ½ pohyb rukou a v tu chvÃ­li se rozeznÃ­ poplaÅ¡nÃ© sirÃ©ny po celÃ©m kasÃ­nu.)}
+{216}{}{JaÅ¯Å¯Å¯Å¯! Ztlumit zvuk! UÅ¡i bolet! UÅ I BOLET!}
+{217}{}{JÃ NEMOCT MLUVIT PÅ˜ES SIRÃ‰NA. TY VYPNOUT A MY MLUVIT.}
+{218}{}{ZMRZAÄŒÃM TÄš, dÄ›dku! UÅ¾ nikdy nebudeÅ¡ chodit!}
+{219}{}{JÃ¡ vÄ›dÄ›l, Å¾e si mÃ¡m nejdÅ™Ã­v sehnat propustku...}
 {220}{}{A do prdele!}
-{221}{}{Eh, to asi nebyla hotelová sluba, e?}
-{230}{}{(Starší mu si tì prohlédne. Jeho tváø je vyhublá a pokrytá jaterními skvrnami. V ruce drí dıchací masku, která je pøipojena ke kyslíkové bombì u pasu.) Co... ode mì chceš?}
-{231}{}{Já chtít... já nevìdìt co chtít.}
-{232}{}{Já chtít.}
-{233}{}{Já }
+{221}{}{Eh, to asi nebyla hotelovÃ¡ sluÅ¾ba, Å¾e?}
+{230}{}{(StarÅ¡Ã­ muÅ¾ si tÄ› prohlÃ©dne. Jeho tvÃ¡Å™ je vyhublÃ¡ a pokrytÃ¡ jaternÃ­mi skvrnami. V ruce drÅ¾Ã­ dÃ½chacÃ­ masku, kterÃ¡ je pÅ™ipojena ke kyslÃ­kovÃ© bombÄ› u pasu.) Co... ode mÄ› chceÅ¡?}
+{231}{}{JÃ¡ chtÃ­t... jÃ¡ nevÄ›dÄ›t co chtÃ­t.}
+{232}{}{JÃ¡ chtÃ­t.}
+{233}{}{JÃ¡ }
 {234}{}{Odbelhat se.}
-{235}{}{Mám pro ás nìjaké informace.}
-{236}{}{Mám pro vás nìjaké informace, pane Salvatore.}
-{237}{}{Hledám práci.}
-{238}{}{Pane Salvatore, øíká se o vás, e jste silnı a férovı. Chci pro vás pracovat.}
-{239}{}{Chci vìdìt, odkud máte ty svìtelné zbranì.}
-{240}{}{Øíká se, e jste nechal otrávit syna pana Wrighta. Proè?}
-{241}{}{Myslím, e jsem ve špatné místnosti. Pardon.}
-{250}{}{Øekl jsem ti dùvod, proè byl ten chlapec zabit. A ten dùvod nesmí opustit tuto místnost. (Salvatore udìlá podivnı pohyb rukou a v tu chvíli se rozezní poplašné sirény.)}
-{251}{}{(Salvatore si tì na zlomek vteøiny znechucenì prohlédne, poté udìlá podivnı pohyb rukou a v tu chvíli se rozezní poplašné sirény.)}
-{254}{}{ZMRZAÈÍM TÌ, dìdku! U nikdy nebudeš chodit!}
-{270}{}{(Hluboce se nadechne z masky a poté zatøese hlavou.) Nemáš nic... co by mì mohlo zajímat, }
-{271}{}{Eh, nevzpomínám si, e by tu padlo moje jméno. Odkud mì znáte?}
-{272}{}{Eh, dobøe. V tom pøípadì hledám práci.}
-{276}{}{Vlastnì myslím, e jsem ve špatné místnosti. Pardon.}
-{290}{}{(Mlèky se na tebe na chvíli podívá. Buï je tvojí otázkou pobavenı nebo podrádìnı... tìko øíct.) Tak znovu, }
-{291}{}{Eh... hmmm. No, eh, hledám práci.}
-{305}{}{(Zhluboka se nadechne ze své kyslíkové masky a poté se lehce usmìje.) Samozøejmì... e hledáš. Ale PROÈ bych tì mìl najmout?}
-{306}{}{No, proè ne? Øeknìte co a já to udìlám. Pracuju tvrdì a dokáu si poradit s èímkoliv.}
-{307}{}{Téda. Opravdu jsem øekl, e hledám práci? Chtìl jsem øíct, e u odcházím.}
-{315}{}{(Zhluboka se nadechne ze své kyslíkové masky a poté se lehce usmìje.) Samozøejmì... e hledáš. Ale poaduji... gesto dobré vùle. Ukázku tvé... ochoty pracovat pro mì.}
-{316}{}{Co mám udìlat?}
-{317}{}{Co mám pro vás udìlat, pane Salvatore?}
-{325}{}{(Zatøese lehce hlavou.) Tvoje naivita... nezná mezí. Ani slova na to nestaèí. Chceš pracovat pro Louise Salvatora? Potom musím vìdìt, jestli se na tebe mohu spolehnout.}
-{326}{}{Podívejte, na mì se mùete SPOLEHNOUT.}
-{327}{}{Dokáu vám to, pane Salvatore. Dejte mi nìjakı úkol.}
-{335}{}{(Zhluboka se nadechne ze své kyslíkové masky.) Je tu... jeden mu... kterı zneuil své... umìní v kartách a okradl mì. Suma není... podstatná. Uráka však ano. Chci ho mrtvého a také vrátit peníze, které ukradl.}
-{336}{}{Kdo je ten zlodìj?}
+{235}{}{MÃ¡m pro Ã¡s nÄ›jakÃ© informace.}
+{236}{}{MÃ¡m pro vÃ¡s nÄ›jakÃ© informace, pane Salvatore.}
+{237}{}{HledÃ¡m prÃ¡ci.}
+{238}{}{Pane Salvatore, Å™Ã­kÃ¡ se o vÃ¡s, Å¾e jste silnÃ½ a fÃ©rovÃ½. Chci pro vÃ¡s pracovat.}
+{239}{}{Chci vÄ›dÄ›t, odkud mÃ¡te ty svÄ›telnÃ© zbranÄ›.}
+{240}{}{Å˜Ã­kÃ¡ se, Å¾e jste nechal otrÃ¡vit syna pana Wrighta. ProÄ?}
+{241}{}{MyslÃ­m, Å¾e jsem ve Å¡patnÃ© mÃ­stnosti. Pardon.}
+{250}{}{Å˜ekl jsem ti dÅ¯vod, proÄ byl ten chlapec zabit. A ten dÅ¯vod nesmÃ­ opustit tuto mÃ­stnost. (Salvatore udÄ›lÃ¡ podivnÃ½ pohyb rukou a v tu chvÃ­li se rozeznÃ­ poplaÅ¡nÃ© sirÃ©ny.)}
+{251}{}{(Salvatore si tÄ› na zlomek vteÅ™iny znechucenÄ› prohlÃ©dne, potÃ© udÄ›lÃ¡ podivnÃ½ pohyb rukou a v tu chvÃ­li se rozeznÃ­ poplaÅ¡nÃ© sirÃ©ny.)}
+{254}{}{ZMRZAÄŒÃM TÄš, dÄ›dku! UÅ¾ nikdy nebudeÅ¡ chodit!}
+{270}{}{(Hluboce se nadechne z masky a potÃ© zatÅ™ese hlavou.) NemÃ¡Å¡ nic... co by mÄ› mohlo zajÃ­mat, }
+{271}{}{Eh, nevzpomÃ­nÃ¡m si, Å¾e by tu padlo moje jmÃ©no. Odkud mÄ› znÃ¡te?}
+{272}{}{Eh, dobÅ™e. V tom pÅ™Ã­padÄ› hledÃ¡m prÃ¡ci.}
+{276}{}{VlastnÄ› myslÃ­m, Å¾e jsem ve Å¡patnÃ© mÃ­stnosti. Pardon.}
+{290}{}{(MlÄky se na tebe na chvÃ­li podÃ­vÃ¡. BuÄ je tvojÃ­ otÃ¡zkou pobavenÃ½ nebo podrÃ¡Å¾dÄ›nÃ½... tÄ›Å¾ko Å™Ã­ct.) Tak znovu, }
+{291}{}{Eh... hmmm. No, eh, hledÃ¡m prÃ¡ci.}
+{305}{}{(Zhluboka se nadechne ze svÃ© kyslÃ­kovÃ© masky a potÃ© se lehce usmÄ›je.) SamozÅ™ejmÄ›... Å¾e hledÃ¡Å¡. Ale PROÄŒ bych tÄ› mÄ›l najmout?}
+{306}{}{No, proÄ ne? Å˜eknÄ›te co a jÃ¡ to udÄ›lÃ¡m. Pracuju tvrdÄ› a dokÃ¡Å¾u si poradit s ÄÃ­mkoliv.}
+{307}{}{TÃ©da. Opravdu jsem Å™ekl, Å¾e hledÃ¡m prÃ¡ci? ChtÄ›l jsem Å™Ã­ct, Å¾e uÅ¾ odchÃ¡zÃ­m.}
+{315}{}{(Zhluboka se nadechne ze svÃ© kyslÃ­kovÃ© masky a potÃ© se lehce usmÄ›je.) SamozÅ™ejmÄ›... Å¾e hledÃ¡Å¡. Ale poÅ¾aduji... gesto dobrÃ© vÅ¯le. UkÃ¡zku tvÃ©... ochoty pracovat pro mÄ›.}
+{316}{}{Co mÃ¡m udÄ›lat?}
+{317}{}{Co mÃ¡m pro vÃ¡s udÄ›lat, pane Salvatore?}
+{325}{}{(ZatÅ™ese lehce hlavou.) Tvoje naivita... neznÃ¡ mezÃ­. Ani slova na to nestaÄÃ­. ChceÅ¡ pracovat pro Louise Salvatora? Potom musÃ­m vÄ›dÄ›t, jestli se na tebe mohu spolehnout.}
+{326}{}{PodÃ­vejte, na mÄ› se mÅ¯Å¾ete SPOLEHNOUT.}
+{327}{}{DokÃ¡Å¾u vÃ¡m to, pane Salvatore. Dejte mi nÄ›jakÃ½ Ãºkol.}
+{335}{}{(Zhluboka se nadechne ze svÃ© kyslÃ­kovÃ© masky.) Je tu... jeden muÅ¾... kterÃ½ zneuÅ¾il svÃ©... umÄ›nÃ­ v kartÃ¡ch a okradl mÄ›. Suma nenÃ­... podstatnÃ¡. UrÃ¡Å¾ka vÅ¡ak ano. Chci ho mrtvÃ©ho a takÃ© vrÃ¡tit penÃ­ze, kterÃ© ukradl.}
+{336}{}{Kdo je ten zlodÄ›j?}
 {338}{}{Kolik ukradl?}
-{339}{}{To mùe bıt docela drsné. Mùu dostat jednu z tìch laserovıch pistolí, kterou vaše rodina pouívá?}
-{340}{}{Eh, nedìlám nájemné vrady. U pùjdu.}
-{350}{}{Mason ti øekne... detaily. (Kıvne k vıchodu.) Teï odejdi.}
-{351}{}{Tak dobøe.}
-{352}{}{Dìkuju vám, pane Salvatore. Pùjdu se zeptat Masona.}
-{360}{}{Potom pro mì tedy... nemáš uitek. Teï odejdi.}
-{361}{}{Eh, tak moment... udìlám to.}
-{362}{}{[Tiše odejít]}
-{370}{}{(Zúí oèi a svá další slova pronese sípavım hlasem.) ::Ještì jsi mi nic NEDOKÁZAL:: A teï jdi za Masonem, øekne ti... detaily tvého úkolu.}
-{371}{}{Tak dobøe, zapomeòte teï na ty pistole.}
-{372}{}{Rozumím, pane Salvatore. Odpuste mi to. Pùjdu za Masonem.}
-{373}{}{Poslyšte, jestli mì poøádnì nevyzbrojíte, tak pro vás u nemùu pracovat.}
-{380}{}{Promluv si s Masonem. Øekne ti... detaily tvého úkolu.}
-{385}{}{(Salvatore se na tebe podívá a zhluboka se nadechne ze své masky.) U je... ten zlodìj zlikvidován?}
-{386}{}{Ne... Lloyd utekl z mìsta i s penìzi.}
-{387}{}{Jo. Supi ho u teï nejspíš serou do písku.}
-{388}{}{Ještì ne.}
-{389}{}{Ne, pane Salvatore. Lloyd utekl z mìsta i s penìzi.}
-{390}{}{Ano. Udìlal jsem z nìj pøíklad, pane Salvatore.}
-{391}{}{Ještì ne, pane Salvatore.}
-{400}{}{A pøesto... jsi øekl Masonovi, e jsi úkol splnil.}
+{339}{}{To mÅ¯Å¾e bÃ½t docela drsnÃ©. MÅ¯Å¾u dostat jednu z tÄ›ch laserovÃ½ch pistolÃ­, kterou vaÅ¡e rodina pouÅ¾Ã­vÃ¡?}
+{340}{}{Eh, nedÄ›lÃ¡m nÃ¡jemnÃ© vraÅ¾dy. UÅ¾ pÅ¯jdu.}
+{350}{}{Mason ti Å™ekne... detaily. (KÃ½vne k vÃ½chodu.) TeÄ odejdi.}
+{351}{}{Tak dobÅ™e.}
+{352}{}{DÄ›kuju vÃ¡m, pane Salvatore. PÅ¯jdu se zeptat Masona.}
+{360}{}{Potom pro mÄ› tedy... nemÃ¡Å¡ uÅ¾itek. TeÄ odejdi.}
+{361}{}{Eh, tak moment... udÄ›lÃ¡m to.}
+{362}{}{[TiÅ¡e odejÃ­t]}
+{370}{}{(ZÃºÅ¾Ã­ oÄi a svÃ¡ dalÅ¡Ã­ slova pronese sÃ­pavÃ½m hlasem.) ::JeÅ¡tÄ› jsi mi nic NEDOKÃZAL:: A teÄ jdi za Masonem, Å™ekne ti... detaily tvÃ©ho Ãºkolu.}
+{371}{}{Tak dobÅ™e, zapomeÅˆte teÄ na ty pistole.}
+{372}{}{RozumÃ­m, pane Salvatore. OdpusÅ¥te mi to. PÅ¯jdu za Masonem.}
+{373}{}{PoslyÅ¡te, jestli mÄ› poÅ™Ã¡dnÄ› nevyzbrojÃ­te, tak pro vÃ¡s uÅ¾ nemÅ¯Å¾u pracovat.}
+{380}{}{Promluv si s Masonem. Å˜ekne ti... detaily tvÃ©ho Ãºkolu.}
+{385}{}{(Salvatore se na tebe podÃ­vÃ¡ a zhluboka se nadechne ze svÃ© masky.) UÅ¾ je... ten zlodÄ›j zlikvidovÃ¡n?}
+{386}{}{Ne... Lloyd utekl z mÄ›sta i s penÄ›zi.}
+{387}{}{Jo. Supi ho uÅ¾ teÄ nejspÃ­Å¡ serou do pÃ­sku.}
+{388}{}{JeÅ¡tÄ› ne.}
+{389}{}{Ne, pane Salvatore. Lloyd utekl z mÄ›sta i s penÄ›zi.}
+{390}{}{Ano. UdÄ›lal jsem z nÄ›j pÅ™Ã­klad, pane Salvatore.}
+{391}{}{JeÅ¡tÄ› ne, pane Salvatore.}
+{400}{}{A pÅ™esto... jsi Å™ekl Masonovi, Å¾e jsi Ãºkol splnil.}
 {401}{}{To jo, ale...}
-{405}{}{(Zaloí ruce.) A co... peníze? Máš je?}
-{406}{}{Ne, nepodaøilo se mi je najít.}
-{407}{}{Ne, Lloyd je staèil utratit.}
+{405}{}{(ZaloÅ¾Ã­ ruce.) A co... penÃ­ze? MÃ¡Å¡ je?}
+{406}{}{Ne, nepodaÅ™ilo se mi je najÃ­t.}
+{407}{}{Ne, Lloyd je staÄil utratit.}
 {408}{}{Ano.}
-{410}{}{Ne, pane Salvatore, nepodaøilo se mi je najít.}
-{411}{}{Ne, pane Salvatore, Lloyd je staèil utratit.}
+{410}{}{Ne, pane Salvatore, nepodaÅ™ilo se mi je najÃ­t.}
+{411}{}{Ne, pane Salvatore, Lloyd je staÄil utratit.}
 {412}{}{Ano, pane Salvatore.}
-{420}{}{Tvım úkolem bylo získat peníze, které ukradl. Bylo to splnìno?}
-{421}{}{No, ne, protoe...}
-{422}{}{Eh, mám peníze...}
-{423}{}{No, víte, já...}
-{430}{}{Vezmu si ty peníze.}
-{431}{}{No, ale já je u sebe nemám...}
-{432}{}{Dát mu 250 dolarù.}
-{433}{}{Dát mu 500 dolarù.}
-{434}{}{Dát mu 750 dolarù.}
-{435}{}{Dát mu 1000 dolarù.}
-{436}{}{Dát mu 1000 dolarù. (Tolik jich bylo.)}
-{437}{}{[Utéct]}
-{450}{}{Tato èástka... není tolik, kolik mi bylo ukradeno. Moná jen nevíš, kolik mi bylo ukradeno... nebo se mi to snaíš zatajit. Kadopádnì...}
-{451}{}{Aha, eh, drobná numerická chybka...}
-{455}{}{(Salvatore kıvne, kdy mu pøedáš peníze, ale nechá si jen polovinu.) Druhá... polovina je tvá.}
-{456}{}{Páni, díky.}
-{468}{}{Dìkuju vám, pane Salvatore.}
-{475}{}{(Pan Salvatore se zhluboka nadechne ze své masky.) Mám pro tebe další... záleitost, která si ádá tvoji pozornost.}
-{476}{}{Jistì, proè ne? Co je to za práci... další úkol zabij a pøines?}
-{477}{}{To mì zajímá, pane Salvatore. Co mám udìlat?}
-{478}{}{Ne, u nechci dìlat nájemného vraha. U pro vás nehodlám pracovat.}
-{479}{}{ádnou další práci u nechci, pane Salvatore. Musím jít.}
-{485}{}{Jeden abonent v mé... ètvrti mi nezaplatil... poplatek... za sluby, které mu poskytuji. Zinkasuj ho. Pokud bude nìco namítat, informuj ho, e jsi mùj... zástupce. Promluv si s Masonem o detailech.}
-{487}{}{Ano, pane Salvatore. Pùjdu za ním.}
-{488}{}{Ne, díky. Nebudu nikoho vydírat.}
-{495}{}{Ty mi... leš. Vím, e je stále naivu.}
-{500}{}{Je ta záleitost vyøízená?}
-{501}{}{Ano, pane Salvatore. Mám poplatek, kterı jste mì poslal vybrat.}
-{502}{}{Jo, mám ten 'poplatek' u sebe.}
-{503}{}{Ještì ne. Nedaøí se mi ho z toho starého dìdka vymlátit.}
-{504}{}{Ještì ne, pane Salvatore, ale a se pøíštì vrátím, budu ho mít.}
-{515}{}{Øekl jsi Masonovi, e jsi ten poplatek vybral. Je to pravda?}
-{525}{}{Vıbornì. (Èeká.)}
-{527}{}{Dát mu 900 dolarù.}
-{528}{}{Dát mu 800 dolarù.}
-{529}{}{Vlastnì ho u SEBE nemám...}
-{540}{}{Tato èástka... není tolik, kolik mi bylo ukradeno. Moná jen nevíš, kolik mi bylo ukradeno. Nebo se mi to snaíš zatajit. Kadopádnì...}
-{545}{}{(Salvatore kıvne, kdy mu pøedáš peníze.) Dobrá... práce. Zde je tvùj podíl 25%.}
-{546}{}{(Salvatore kıvne, kdy mu pøedáš peníze.) Uspokojující... práce. Zde je tvùj podíl 10%.}
-{555}{}{(Zhluboka se nadechne ze své masky.) Udìlal jsi... oè jsem tì ádal. U tvé sluby... nepotøebuji. (Ukáe k vıchodu.) Teï odejdi.}
-{556}{}{Jo... jasnì.}
-{557}{}{Mùu dostat jednu z tìch laserovıch pistolí jako èást svého platu?}
-{565}{}{(Zhluboka se nadechne ze své masky.) Mám pro tebe další... záleitost, se kterou bych potøeboval pomoc.}
-{566}{}{Jistì, proè ne? Co je to za práci? Další vydírání?}
-{568}{}{Ne, nemám zájem pokraèovat ve vydírání. U pro vás nehodlám pracovat.}
-{575}{}{Brzy dojde k... tajné transakci. Potøebuji další... strá, abych se ujistil, e nedojde k nìjakım zádrhelùm. Promluv si s Masonem a udìlej, co ti øekne.}
+{420}{}{TvÃ½m Ãºkolem bylo zÃ­skat penÃ­ze, kterÃ© ukradl. Bylo to splnÄ›no?}
+{421}{}{No, ne, protoÅ¾e...}
+{422}{}{Eh, mÃ¡m penÃ­ze...}
+{423}{}{No, vÃ­te, jÃ¡...}
+{430}{}{Vezmu si ty penÃ­ze.}
+{431}{}{No, ale jÃ¡ je u sebe nemÃ¡m...}
+{432}{}{DÃ¡t mu 250 dolarÅ¯.}
+{433}{}{DÃ¡t mu 500 dolarÅ¯.}
+{434}{}{DÃ¡t mu 750 dolarÅ¯.}
+{435}{}{DÃ¡t mu 1000 dolarÅ¯.}
+{436}{}{DÃ¡t mu 1000 dolarÅ¯. (Tolik jich bylo.)}
+{437}{}{[UtÃ©ct]}
+{450}{}{Tato ÄÃ¡stka... nenÃ­ tolik, kolik mi bylo ukradeno. MoÅ¾nÃ¡ jen nevÃ­Å¡, kolik mi bylo ukradeno... nebo se mi to snaÅ¾Ã­Å¡ zatajit. KaÅ¾dopÃ¡dnÄ›...}
+{451}{}{Aha, eh, drobnÃ¡ numerickÃ¡ chybka...}
+{455}{}{(Salvatore kÃ½vne, kdyÅ¾ mu pÅ™edÃ¡Å¡ penÃ­ze, ale nechÃ¡ si jen polovinu.) DruhÃ¡... polovina je tvÃ¡.}
+{456}{}{PÃ¡ni, dÃ­ky.}
+{468}{}{DÄ›kuju vÃ¡m, pane Salvatore.}
+{475}{}{(Pan Salvatore se zhluboka nadechne ze svÃ© masky.) MÃ¡m pro tebe dalÅ¡Ã­... zÃ¡leÅ¾itost, kterÃ¡ si Å¾Ã¡dÃ¡ tvoji pozornost.}
+{476}{}{JistÄ›, proÄ ne? Co je to za prÃ¡ci... dalÅ¡Ã­ Ãºkol zabij a pÅ™ines?}
+{477}{}{To mÄ› zajÃ­mÃ¡, pane Salvatore. Co mÃ¡m udÄ›lat?}
+{478}{}{Ne, uÅ¾ nechci dÄ›lat nÃ¡jemnÃ©ho vraha. UÅ¾ pro vÃ¡s nehodlÃ¡m pracovat.}
+{479}{}{Å½Ã¡dnou dalÅ¡Ã­ prÃ¡ci uÅ¾ nechci, pane Salvatore. MusÃ­m jÃ­t.}
+{485}{}{Jeden abonent v mÃ©... Ätvrti mi nezaplatil... poplatek... za sluÅ¾by, kterÃ© mu poskytuji. Zinkasuj ho. Pokud bude nÄ›co namÃ­tat, informuj ho, Å¾e jsi mÅ¯j... zÃ¡stupce. Promluv si s Masonem o detailech.}
+{487}{}{Ano, pane Salvatore. PÅ¯jdu za nÃ­m.}
+{488}{}{Ne, dÃ­ky. Nebudu nikoho vydÃ­rat.}
+{495}{}{Ty mi... lÅ¾eÅ¡. VÃ­m, Å¾e je stÃ¡le naÅ¾ivu.}
+{500}{}{Je ta zÃ¡leÅ¾itost vyÅ™Ã­zenÃ¡?}
+{501}{}{Ano, pane Salvatore. MÃ¡m poplatek, kterÃ½ jste mÄ› poslal vybrat.}
+{502}{}{Jo, mÃ¡m ten 'poplatek' u sebe.}
+{503}{}{JeÅ¡tÄ› ne. NedaÅ™Ã­ se mi ho z toho starÃ©ho dÄ›dka vymlÃ¡tit.}
+{504}{}{JeÅ¡tÄ› ne, pane Salvatore, ale aÅ¾ se pÅ™Ã­Å¡tÄ› vrÃ¡tÃ­m, budu ho mÃ­t.}
+{515}{}{Å˜ekl jsi Masonovi, Å¾e jsi ten poplatek vybral. Je to pravda?}
+{525}{}{VÃ½bornÄ›. (ÄŒekÃ¡.)}
+{527}{}{DÃ¡t mu 900 dolarÅ¯.}
+{528}{}{DÃ¡t mu 800 dolarÅ¯.}
+{529}{}{VlastnÄ› ho u SEBE nemÃ¡m...}
+{540}{}{Tato ÄÃ¡stka... nenÃ­ tolik, kolik mi bylo ukradeno. MoÅ¾nÃ¡ jen nevÃ­Å¡, kolik mi bylo ukradeno. Nebo se mi to snaÅ¾Ã­Å¡ zatajit. KaÅ¾dopÃ¡dnÄ›...}
+{545}{}{(Salvatore kÃ½vne, kdyÅ¾ mu pÅ™edÃ¡Å¡ penÃ­ze.) DobrÃ¡... prÃ¡ce. Zde je tvÅ¯j podÃ­l 25%.}
+{546}{}{(Salvatore kÃ½vne, kdyÅ¾ mu pÅ™edÃ¡Å¡ penÃ­ze.) UspokojujÃ­cÃ­... prÃ¡ce. Zde je tvÅ¯j podÃ­l 10%.}
+{555}{}{(Zhluboka se nadechne ze svÃ© masky.) UdÄ›lal jsi... oÄ jsem tÄ› Å¾Ã¡dal. UÅ¾ tvÃ© sluÅ¾by... nepotÅ™ebuji. (UkÃ¡Å¾e k vÃ½chodu.) TeÄ odejdi.}
+{556}{}{Jo... jasnÄ›.}
+{557}{}{MÅ¯Å¾u dostat jednu z tÄ›ch laserovÃ½ch pistolÃ­ jako ÄÃ¡st svÃ©ho platu?}
+{565}{}{(Zhluboka se nadechne ze svÃ© masky.) MÃ¡m pro tebe dalÅ¡Ã­... zÃ¡leÅ¾itost, se kterou bych potÅ™eboval pomoc.}
+{566}{}{JistÄ›, proÄ ne? Co je to za prÃ¡ci? DalÅ¡Ã­ vydÃ­rÃ¡nÃ­?}
+{568}{}{Ne, nemÃ¡m zÃ¡jem pokraÄovat ve vydÃ­rÃ¡nÃ­. UÅ¾ pro vÃ¡s nehodlÃ¡m pracovat.}
+{575}{}{Brzy dojde k... tajnÃ© transakci. PotÅ™ebuji dalÅ¡Ã­... strÃ¡Å¾, abych se ujistil, Å¾e nedojde k nÄ›jakÃ½m zÃ¡drhelÅ¯m. Promluv si s Masonem a udÄ›lej, co ti Å™ekne.}
 {576}{}{Co je to za transakci?}
-{577}{}{Kde se bude ta transakce odehrávat?}
-{578}{}{Mùu dostat jednu z tìch laserovıch pistolí, které pouíváte?}
-{579}{}{Nemùu se té mise zúèastnit, pane Salvatore. Musím odejít.}
-{585}{}{Mason ti poví... detaily. Teï jdi.}
-{595}{}{Ano. Tentokrát ano. Ale musíš mít s sebou i další vızbroj. Promluv si s Masonem o detailech. Dá ti jednu tu svìtelnou zbraò.}
-{596}{}{Tak dobøe.}
+{577}{}{Kde se bude ta transakce odehrÃ¡vat?}
+{578}{}{MÅ¯Å¾u dostat jednu z tÄ›ch laserovÃ½ch pistolÃ­, kterÃ© pouÅ¾Ã­vÃ¡te?}
+{579}{}{NemÅ¯Å¾u se tÃ© mise zÃºÄastnit, pane Salvatore. MusÃ­m odejÃ­t.}
+{585}{}{Mason ti povÃ­... detaily. TeÄ jdi.}
+{595}{}{Ano. TentokrÃ¡t ano. Ale musÃ­Å¡ mÃ­t s sebou i dalÅ¡Ã­ vÃ½zbroj. Promluv si s Masonem o detailech. DÃ¡ ti jednu tu svÄ›telnou zbraÅˆ.}
+{596}{}{Tak dobÅ™e.}
 {605}{}{Sedni si, }
-{607}{}{Bude mi ctí, pane Salvatore.}
-{608}{}{To nemùu. Mám další závazky. Ale díky za nabídku.}
-{610}{}{Je mi ctí, pane Salvatore, ale musím odmítnout. Mám závazky k jiné rodinì... pøesnìji ke své matce.}
-{615}{}{To je velice... nešastné. Nemohu riskovat, e... se nìkomu zmíníš o tom, co se stalo v poušti. Sbohem, }
+{607}{}{Bude mi ctÃ­, pane Salvatore.}
+{608}{}{To nemÅ¯Å¾u. MÃ¡m dalÅ¡Ã­ zÃ¡vazky. Ale dÃ­ky za nabÃ­dku.}
+{610}{}{Je mi ctÃ­, pane Salvatore, ale musÃ­m odmÃ­tnout. MÃ¡m zÃ¡vazky k jinÃ© rodinÄ›... pÅ™esnÄ›ji ke svÃ© matce.}
+{615}{}{To je velice... neÅ¡Å¥astnÃ©. Nemohu riskovat, Å¾e... se nÄ›komu zmÃ­nÃ­Å¡ o tom, co se stalo v pouÅ¡ti. Sbohem, }
 {616}{}{Hej! Tak moment...!}
-{617}{}{Tak jo! Klidnì si pøiveï celou tu svoji rodinu, a je mùu zabít jednoho po druhém.}
-{620}{}{Vıbornì. Musíš si vybrat jméno...}
+{617}{}{Tak jo! KlidnÄ› si pÅ™iveÄ celou tu svoji rodinu, aÅ¥ je mÅ¯Å¾u zabÃ­t jednoho po druhÃ©m.}
+{620}{}{VÃ½bornÄ›. MusÃ­Å¡ si vybrat jmÃ©no...}
 {621}{}{Co takhle...}
-{630}{}{(Kıvne.) To je... dobré jméno. Teï si jdi promluvit s Masonem. Nìco pro tebe... má.}
-{640}{}{Zdravím tì, }
-{645}{}{U tvé sluby nepotøebuji, }
+{630}{}{(KÃ½vne.) To je... dobrÃ© jmÃ©no. TeÄ si jdi promluvit s Masonem. NÄ›co pro tebe... mÃ¡.}
+{640}{}{ZdravÃ­m tÄ›, }
+{645}{}{UÅ¾ tvÃ© sluÅ¾by nepotÅ™ebuji, }
 {650}{}{...}
 {651}{}{...hurkkk...}
-{652}{}{...*uff*...já...*kuc*...*síp*...}
-{653}{}{...ne...já...*hurrkkk*}
-{654}{}{...pomoc...*polk*...prosím...}
+{652}{}{...*uff*...jÃ¡...*kuc*...*sÃ­p*...}
+{653}{}{...ne...jÃ¡...*hurrkkk*}
+{654}{}{...pomoc...*polk*...prosÃ­m...}
 {655}{}{...slituj...se...}
-{656}{}{*síp*}
-{657}{}{...já...}
-{658}{}{...já...}
-{659}{}{::Pøestane dıchat::}
-{660}{}{Haha. Miluju zabíjení starıch lidí.}
-{675}{}{(Pan Salvatore se na tebe v tichosti dlouze podívá a poté zaène mluvit.) My Salvatorové... budeme jednou vládnout New Renu a pokud kvùli tomu musí zemøít dítì, tak... zemøe. ádnı jinı dùvod neexistuje.}
-{676}{}{Co má vrada Wrightova syna spoleèného s vládou New Rena? To nedává SMYSL.}
-{677}{}{Zavradil jste nìèího SYNA, Salvatore. A tím jste si podepsal vlastní rozsudek smrti...}
-{678}{}{Aha. Jen mì zajímalo, proè jste to udìlal.}
-{800}{}{Pan Salvatore byl zavradìn.}
-{825}{}{Pan Salvatore byl oddìlán.}
-{850}{}{Podaøilo se ti vyøešit Lloydùv "pøípad".}
-{875}{}{Poplatky pana Salvatora byly vybrány.}
-{900}{}{Nyní jsi èlenem rodiny Salvatore.}
-{925}{}{Tajná transakce probìhla úspìšnì.}
+{656}{}{*sÃ­p*}
+{657}{}{...jÃ¡...}
+{658}{}{...jÃ¡...}
+{659}{}{::PÅ™estane dÃ½chat::}
+{660}{}{Haha. Miluju zabÃ­jenÃ­ starÃ½ch lidÃ­.}
+{675}{}{(Pan Salvatore se na tebe v tichosti dlouze podÃ­vÃ¡ a potÃ© zaÄne mluvit.) My SalvatorovÃ©... budeme jednou vlÃ¡dnout New Renu a pokud kvÅ¯li tomu musÃ­ zemÅ™Ã­t dÃ­tÄ›, tak... zemÅ™e. Å½Ã¡dnÃ½ jinÃ½ dÅ¯vod neexistuje.}
+{676}{}{Co mÃ¡ vraÅ¾da Wrightova syna spoleÄnÃ©ho s vlÃ¡dou New Rena? To nedÃ¡vÃ¡ SMYSL.}
+{677}{}{ZavraÅ¾dil jste nÄ›ÄÃ­ho SYNA, Salvatore. A tÃ­m jste si podepsal vlastnÃ­ rozsudek smrti...}
+{678}{}{Aha. Jen mÄ› zajÃ­malo, proÄ jste to udÄ›lal.}
+{800}{}{Pan Salvatore byl zavraÅ¾dÄ›n.}
+{825}{}{Pan Salvatore byl oddÄ›lÃ¡n.}
+{850}{}{PodaÅ™ilo se ti vyÅ™eÅ¡it LloydÅ¯v "pÅ™Ã­pad".}
+{875}{}{Poplatky pana Salvatora byly vybrÃ¡ny.}
+{900}{}{NynÃ­ jsi Älenem rodiny Salvatore.}
+{925}{}{TajnÃ¡ transakce probÄ›hla ÃºspÄ›Å¡nÄ›.}
 {5233}{}{! Gdo ty?}
-{5270}{}{. Take... co ode mì CHCEŠ?}
-{5290}{}{: Co... ode mì CHCEŠ?}
-{5605}{}{. Splnil jsi vše... oè jsem tì poádal. Budu rád, kdy se pøidáš k rodinì Salvatorù a staneš se tak... naším èlenem.}
+{5270}{}{. TakÅ¾e... co ode mÄ› CHCEÅ ?}
+{5290}{}{: Co... ode mÄ› CHCEÅ ?}
+{5605}{}{. Splnil jsi vÅ¡e... oÄ jsem tÄ› poÅ¾Ã¡dal. Budu rÃ¡d, kdyÅ¾ se pÅ™idÃ¡Å¡ k rodinÄ› SalvatorÅ¯ a staneÅ¡ se tak... naÅ¡Ã­m Älenem.}
 {5640}{}{.}
 {5645}{}{.}

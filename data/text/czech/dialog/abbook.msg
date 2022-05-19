@@ -1,3 +1,3 @@
-{100}{}{Vidíš obyèejnou knihovnu.}
-{101}{}{Tato knihovna obsahuje rùznorodé knihy.}
-{102}{}{Tato knihovna obsahuje mnoství knih z doby pøed válkou. Obsahují mnoho informací, je škoda, e nemáš èas sednout si a všechny je pøeèíst.}
+{100}{}{VidÃ­Å¡ obyÄejnou knihovnu.}
+{101}{}{Tato knihovna obsahuje rÅ¯znorodÃ© knihy.}
+{102}{}{Tato knihovna obsahuje mnoÅ¾stvÃ­ knih z doby pÅ™ed vÃ¡lkou. ObsahujÃ­ mnoho informacÃ­, je Å¡koda, Å¾e nemÃ¡Å¡ Äas sednout si a vÅ¡echny je pÅ™eÄÃ­st.}

@@ -1,50 +1,50 @@
-{100}{}{Vidíš vìdce.}
-{150}{}{Vidíš vánì vypadajícího mue se zápisníkem a injekèní støíkaèkou. Ignoruje tì.}
-{151}{}{Vypadá velmi unavenì a podrádìnì.}
-{152}{}{Vidíš unavenou enu. Kontroluje nìco v zápisníku a rozhlíí se kolem, jako by na nìco zapomnìla.}
-{153}{}{Plní injekèní støíkaèku a nìco si pro sebe mumlá.}
-{154}{}{Zdravím, pane Myrone.}
-{155}{}{Pane Myrone... máte chvíli...?}
-{156}{}{Pane Myrone, nevíte, kdy koneènì dorazí další otroci?}
-{157}{}{Pane Myrone, ty nové vısledky vypadají slibnì, velmi slibnì...}
-{158}{}{Pane Myrone, máte minutku?}
+{100}{}{VidÃ­Å¡ vÄ›dce.}
+{150}{}{VidÃ­Å¡ vÃ¡Å¾nÄ› vypadajÃ­cÃ­ho muÅ¾e se zÃ¡pisnÃ­kem a injekÄnÃ­ stÅ™Ã­kaÄkou. Ignoruje tÄ›.}
+{151}{}{VypadÃ¡ velmi unavenÄ› a podrÃ¡Å¾dÄ›nÄ›.}
+{152}{}{VidÃ­Å¡ unavenou Å¾enu. Kontroluje nÄ›co v zÃ¡pisnÃ­ku a rozhlÃ­Å¾Ã­ se kolem, jako by na nÄ›co zapomnÄ›la.}
+{153}{}{PlnÃ­ injekÄnÃ­ stÅ™Ã­kaÄku a nÄ›co si pro sebe mumlÃ¡.}
+{154}{}{ZdravÃ­m, pane Myrone.}
+{155}{}{Pane Myrone... mÃ¡te chvÃ­li...?}
+{156}{}{Pane Myrone, nevÃ­te, kdy koneÄnÄ› dorazÃ­ dalÅ¡Ã­ otroci?}
+{157}{}{Pane Myrone, ty novÃ© vÃ½sledky vypadajÃ­ slibnÄ›, velmi slibnÄ›...}
+{158}{}{Pane Myrone, mÃ¡te minutku?}
 {159}{}{Kde je sakra ten Myron...}
-{160}{}{Pøiveïte mi Myrona. Tohle musí vidìt.}
-{161}{}{Ké by ti otroci aspoò na chvíli zavøeli hubu...}
-{162}{}{Kde jsem sakra nechala tu støíkaèku?}
-{163}{}{Nevidìl nìkdo subjekt è. 31? Ještì pøed chvílí tu byl.}
-{164}{}{Zvyšte dávky Beta Jetu na otrocích.}
-{165}{}{Vısledky testù Beta Jetu jsou velmi slibné, ale...}
-{166}{}{"Létání" vydrí patnáct minut a hodinu... take kdy budeme poèítat jednu dávku za hodinu... hmmmmnnn.}
-{167}{}{Subjekt è. 12 stále trpí krvácením z nosu... }
-{168}{}{To je popáté, co mìl subjekt è. 12 záchvat... zvyšte dávku. Uvidíme, co se stane...}
-{169}{}{No a JAKÉ halucinace mìl?}
-{170}{}{Zkontrolujte mu tep. Jestli je v tolerované mezi, zvyšte dávku.}
-{171}{}{Proè se ta otrokynì z kontrolní skupiny zabila? Vdy jsme na ní nic netestovali!}
-{200}{}{Zdravím, pane Myrone. Testy probíhají podle plánu.}
+{160}{}{PÅ™iveÄte mi Myrona. Tohle musÃ­ vidÄ›t.}
+{161}{}{KÃ©Å¾ by ti otroci aspoÅˆ na chvÃ­li zavÅ™eli hubu...}
+{162}{}{Kde jsem sakra nechala tu stÅ™Ã­kaÄku?}
+{163}{}{NevidÄ›l nÄ›kdo subjekt Ä. 31? JeÅ¡tÄ› pÅ™ed chvÃ­lÃ­ tu byl.}
+{164}{}{ZvyÅ¡te dÃ¡vky Beta Jetu na otrocÃ­ch.}
+{165}{}{VÃ½sledky testÅ¯ Beta Jetu jsou velmi slibnÃ©, ale...}
+{166}{}{"LÃ©tÃ¡nÃ­" vydrÅ¾Ã­ patnÃ¡ct minut aÅ¾ hodinu... takÅ¾e kdyÅ¾ budeme poÄÃ­tat jednu dÃ¡vku za hodinu... hmmmmnnn.}
+{167}{}{Subjekt Ä. 12 stÃ¡le trpÃ­ krvÃ¡cenÃ­m z nosu... }
+{168}{}{To je popÃ¡tÃ©, co mÄ›l subjekt Ä. 12 zÃ¡chvat... zvyÅ¡te dÃ¡vku. UvidÃ­me, co se stane...}
+{169}{}{No a JAKÃ‰ halucinace mÄ›l?}
+{170}{}{Zkontrolujte mu tep. Jestli je v tolerovanÃ© mezi, zvyÅ¡te dÃ¡vku.}
+{171}{}{ProÄ se ta otrokynÄ› z kontrolnÃ­ skupiny zabila? VÅ¾dyÅ¥ jsme na nÃ­ nic netestovali!}
+{200}{}{ZdravÃ­m, pane Myrone. Testy probÃ­hajÃ­ podle plÃ¡nu.}
 {201}{}{This new strain of Jet is extremely addictive, sir. The slaves are almost
  willing to kill each other for it.}
-{202}{}{Otroci si místo jídla radìji vezmou Jet. A tak je silnı.}
-{203}{}{Kdo jsou ti lidé s vámi, Myrone? Nové subjekty na testování?}
-{204}{}{Pane Myrone, tøetí testovací skupina si zatím vede nejlépe.}
-{205}{}{Pane Myrone, myslím, e by další skupina mìla obsahovat alespoò tøi dìti.}
-{206}{}{Pane Myrone, subjekt è. 46 mìl infarkt. Omezili jsme všechny dávky na šest dennì.}
-{207}{}{Pane Myrone, potøebujeme novou zásobu injekèních støíkaèek z Vault City. Nemùeme neustále pouívat jedny a ty samé.}
-{208}{}{Pane Myrone, nevíte, kdy koneènì dorazí další otroci?}
-{209}{}{Pane Myrone, pøesunuli jsme tøi otroky z kontrolní skupiny do testovací skupiny kvùli tìm respiraèním problémùm z minulého tıdne.}
-{210}{}{Pane Myrone... museli jsme zastøelit jednoho otroka, kterı se pokusil utéct. Taková škoda.}
+{202}{}{Otroci si mÃ­sto jÃ­dla radÄ›ji vezmou Jet. AÅ¾ tak je silnÃ½.}
+{203}{}{Kdo jsou ti lidÃ© s vÃ¡mi, Myrone? NovÃ© subjekty na testovÃ¡nÃ­?}
+{204}{}{Pane Myrone, tÅ™etÃ­ testovacÃ­ skupina si zatÃ­m vede nejlÃ©pe.}
+{205}{}{Pane Myrone, myslÃ­m, Å¾e by dalÅ¡Ã­ skupina mÄ›la obsahovat alespoÅˆ tÅ™i dÄ›ti.}
+{206}{}{Pane Myrone, subjekt Ä. 46 mÄ›l infarkt. Omezili jsme vÅ¡echny dÃ¡vky na Å¡est dennÄ›.}
+{207}{}{Pane Myrone, potÅ™ebujeme novou zÃ¡sobu injekÄnÃ­ch stÅ™Ã­kaÄek z Vault City. NemÅ¯Å¾eme neustÃ¡le pouÅ¾Ã­vat jedny a ty samÃ©.}
+{208}{}{Pane Myrone, nevÃ­te, kdy koneÄnÄ› dorazÃ­ dalÅ¡Ã­ otroci?}
+{209}{}{Pane Myrone, pÅ™esunuli jsme tÅ™i otroky z kontrolnÃ­ skupiny do testovacÃ­ skupiny kvÅ¯li tÄ›m respiraÄnÃ­m problÃ©mÅ¯m z minulÃ©ho tÃ½dne.}
+{210}{}{Pane Myrone... museli jsme zastÅ™elit jednoho otroka, kterÃ½ se pokusil utÃ©ct. TakovÃ¡ Å¡koda.}
 {211}{}{Myron... this new mild hallucinogen you've developed is promising, but it is not as addictive as Jet...}
-{212}{}{Pokud máte nìjaké návrhy, napište je prosím na papír a pak je vyhoïte rovnou támhle do koše.}
+{212}{}{Pokud mÃ¡te nÄ›jakÃ© nÃ¡vrhy, napiÅ¡te je prosÃ­m na papÃ­r a pak je vyhoÄte rovnou tÃ¡mhle do koÅ¡e.}
 {213}{}{Ano, ano. Co je?}
-{214}{}{Takhle nic nedokonèím, kdy mì bude poøád nìkdo otravovat.}
-{215}{}{Dneska sem pustí u úplnì kadého...}
-{216}{}{Co chceš?}
-{217}{}{Promiòte, ale mám práci.}
-{218}{}{Jestli máte nìjaké otázky, tak se jdìte zeptat stráí, ne mì.}
-{219}{}{Ano, já vím, e urèitì potøebujete nìco *velmi* dùleitého, ale já mám svou vlastní práci a povinnosti.}
-{220}{}{Máte povolení tady bıt?}
-{221}{}{Kdo vás sem pustil?}
-{222}{}{A se Myron dozví, e nám chodí cizinci do laborky...}
-{223}{}{Máte ty vısledky testù, o které jsem vás á... och, promiòte. Spletl jsem si vás s technikem.}
-{224}{}{Promiòte, ale nemám èas si teï s vámi povídat.}
-{225}{}{Potøebujeme novou várku otrokù... tihle u melou z posledního.}
+{214}{}{Takhle nic nedokonÄÃ­m, kdyÅ¾ mÄ› bude poÅ™Ã¡d nÄ›kdo otravovat.}
+{215}{}{Dneska sem pustÃ­ uÅ¾ ÃºplnÄ› kaÅ¾dÃ©ho...}
+{216}{}{Co chceÅ¡?}
+{217}{}{PromiÅˆte, ale mÃ¡m prÃ¡ci.}
+{218}{}{Jestli mÃ¡te nÄ›jakÃ© otÃ¡zky, tak se jdÄ›te zeptat strÃ¡Å¾Ã­, ne mÄ›.}
+{219}{}{Ano, jÃ¡ vÃ­m, Å¾e urÄitÄ› potÅ™ebujete nÄ›co *velmi* dÅ¯leÅ¾itÃ©ho, ale jÃ¡ mÃ¡m svou vlastnÃ­ prÃ¡ci a povinnosti.}
+{220}{}{MÃ¡te povolenÃ­ tady bÃ½t?}
+{221}{}{Kdo vÃ¡s sem pustil?}
+{222}{}{AÅ¾ se Myron dozvÃ­, Å¾e nÃ¡m chodÃ­ cizinci do laborky...}
+{223}{}{MÃ¡te ty vÃ½sledky testÅ¯, o kterÃ© jsem vÃ¡s Å¾Ã¡... och, promiÅˆte. Spletl jsem si vÃ¡s s technikem.}
+{224}{}{PromiÅˆte, ale nemÃ¡m Äas si teÄ s vÃ¡mi povÃ­dat.}
+{225}{}{PotÅ™ebujeme novou vÃ¡rku otrokÅ¯... tihle uÅ¾ melou z poslednÃ­ho.}

@@ -1,2 +1,2 @@
-{100}{}{Zmáèknul jsi spouš, ale nic se nestalo.}
-{101}{}{Zmáèknul jsi spouš a tím odpálil dynamit.}
+{100}{}{ZmÃ¡Äknul jsi spouÅ¡Å¥, ale nic se nestalo.}
+{101}{}{ZmÃ¡Äknul jsi spouÅ¡Å¥ a tÃ­m odpÃ¡lil dynamit.}

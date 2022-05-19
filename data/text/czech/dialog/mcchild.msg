@@ -1,78 +1,78 @@
-{100}{}{Malı chlapec.}
-{101}{}{Malé dìvèe.}
-{120}{}{Malı chlapec. Je ponìkud rozpustilı.}
-{121}{}{Malé dìvèe. Je ponìkud rozpustilé.}
-{150}{}{Neseer mì!}
-{151}{}{Jéééé! Bubák!}
-{152}{}{Táta øíká, e jseš zlej èlovìk.}
-{153}{}{Ááááá! Uteète!}
-{154}{}{Dìsíš mì.}
-{155}{}{Pøestaò se na mì dívat.}
-{156}{}{Nemám mluvit s divochy.}
-{157}{}{Jezevèík.}
-{158}{}{Moje máma øíkala, e kdy budu zlobit, tak mì seereš.}
-{159}{}{Nebojím se tì!}
-{160}{}{Pomozte mííí!}
-{161}{}{Jde po mnì!}
-{162}{}{Prosím, neubliuj mi!}
-{163}{}{Dr se dál ode mì!}
-{164}{}{Jéééééééé!}
-{165}{}{Nenávidím tì!}
-{166}{}{Mamíí, mamíí, maminkoo!}
-{167}{}{Nech mì na pokoji!}
-{168}{}{Smrdíš!}
-{170}{}{Nazdárek.}
-{171}{}{Nechceš si se mnou zahrát na dospìlı?}
-{172}{}{Opravdu si strkáte do nosu kost?}
-{173}{}{Jaktoe vypadáš tak legraènì?}
-{174}{}{Moje máma øíká, e jste primitivové.}
-{175}{}{Pøestal tvùj kmen jíst lidi?}
-{176}{}{Kdo tì tak legraènì oblíknul?}
-{177}{}{Vsadím se, e jsi hodnìjší, ne vypadáš.}
-{178}{}{Zahrajem si na babu. Máš ji.}
-{179}{}{Zase tak hroznì nesmrdíte.}
-{180}{}{Nevidìl jsi mıho neviditelnıho pøítele?}
-{181}{}{Chci procestovat celı svìt, a budu stejnì starej jako ty.}
-{182}{}{Ty jsi hodnı divoch, ne jako ti ostatní.}
-{183}{}{Vsadím se, e se myjete.}
-{184}{}{Jseš chytøejší ne Torr.}
-{185}{}{Je ten nù opravdu ostrej?}
-{186}{}{A vyrostu, chci bıt jako ty.}
-{187}{}{Mùj pes má rád sušenı maso.}
-{188}{}{Mám lesklej kamínek.}
-{189}{}{Nevidìl jsi mıho neviditelnıho pøítele?}
-{190}{}{Mùu se pøipojit k tvımu kmenu?}
-{191}{}{Jseš hodnej.}
-{192}{}{Vypadáš legraènì.}
-{193}{}{Co to máš na sobì?}
-{194}{}{Chci se povozit na brahmínì!}
-{195}{}{Jseš z daleka?}
-{196}{}{Jéééé! Hahaha!}
-{197}{}{Neodcházej!}
-{198}{}{Nemáš nìjakı jídlo?}
-{199}{}{Neotravuju tì?}
-{200}{}{Kam chceš jít?}
-{201}{}{Mùu jít s tebou?}
+{100}{}{MalÃ½ chlapec.}
+{101}{}{MalÃ© dÄ›vÄe.}
+{120}{}{MalÃ½ chlapec. Je ponÄ›kud rozpustilÃ½.}
+{121}{}{MalÃ© dÄ›vÄe. Je ponÄ›kud rozpustilÃ©.}
+{150}{}{NeseÅ¾er mÄ›!}
+{151}{}{JÃ©Ã©Ã©Ã©! BubÃ¡k!}
+{152}{}{TÃ¡ta Å™Ã­kÃ¡, Å¾e jseÅ¡ zlej ÄlovÄ›k.}
+{153}{}{ÃÃ¡Ã¡Ã¡Ã¡! UteÄte!}
+{154}{}{DÄ›sÃ­Å¡ mÄ›.}
+{155}{}{PÅ™estaÅˆ se na mÄ› dÃ­vat.}
+{156}{}{NemÃ¡m mluvit s divochy.}
+{157}{}{JezevÄÃ­k.}
+{158}{}{Moje mÃ¡ma Å™Ã­kala, Å¾e kdyÅ¾ budu zlobit, tak mÄ› seÅ¾ereÅ¡.}
+{159}{}{NebojÃ­m se tÄ›!}
+{160}{}{Pomozte mÃ­Ã­Ã­!}
+{161}{}{Jde po mnÄ›!}
+{162}{}{ProsÃ­m, neubliÅ¾uj mi!}
+{163}{}{DrÅ¾ se dÃ¡l ode mÄ›!}
+{164}{}{JÃ©Ã©Ã©Ã©Ã©Ã©Ã©Ã©!}
+{165}{}{NenÃ¡vidÃ­m tÄ›!}
+{166}{}{MamÃ­Ã­, mamÃ­Ã­, maminkoo!}
+{167}{}{Nech mÄ› na pokoji!}
+{168}{}{SmrdÃ­Å¡!}
+{170}{}{NazdÃ¡rek.}
+{171}{}{NechceÅ¡ si se mnou zahrÃ¡t na dospÄ›lÃ½?}
+{172}{}{Opravdu si strkÃ¡te do nosu kost?}
+{173}{}{JaktoÅ¾e vypadÃ¡Å¡ tak legraÄnÄ›?}
+{174}{}{Moje mÃ¡ma Å™Ã­kÃ¡, Å¾e jste primitivovÃ©.}
+{175}{}{PÅ™estal tvÅ¯j kmen jÃ­st lidi?}
+{176}{}{Kdo tÄ› tak legraÄnÄ› oblÃ­knul?}
+{177}{}{VsadÃ­m se, Å¾e jsi hodnÄ›jÅ¡Ã­, neÅ¾ vypadÃ¡Å¡.}
+{178}{}{Zahrajem si na babu. MÃ¡Å¡ ji.}
+{179}{}{Zase tak hroznÄ› nesmrdÃ­te.}
+{180}{}{NevidÄ›l jsi mÃ½ho neviditelnÃ½ho pÅ™Ã­tele?}
+{181}{}{Chci procestovat celÃ½ svÄ›t, aÅ¾ budu stejnÄ› starej jako ty.}
+{182}{}{Ty jsi hodnÃ½ divoch, ne jako ti ostatnÃ­.}
+{183}{}{VsadÃ­m se, Å¾e se myjete.}
+{184}{}{JseÅ¡ chytÅ™ejÅ¡Ã­ neÅ¾ Torr.}
+{185}{}{Je ten nÅ¯Å¾ opravdu ostrej?}
+{186}{}{AÅ¾ vyrostu, chci bÃ½t jako ty.}
+{187}{}{MÅ¯j pes mÃ¡ rÃ¡d suÅ¡enÃ½ maso.}
+{188}{}{MÃ¡m lesklej kamÃ­nek.}
+{189}{}{NevidÄ›l jsi mÃ½ho neviditelnÃ½ho pÅ™Ã­tele?}
+{190}{}{MÅ¯Å¾u se pÅ™ipojit k tvÃ½mu kmenu?}
+{191}{}{JseÅ¡ hodnej.}
+{192}{}{VypadÃ¡Å¡ legraÄnÄ›.}
+{193}{}{Co to mÃ¡Å¡ na sobÄ›?}
+{194}{}{Chci se povozit na brahmÃ­nÄ›!}
+{195}{}{JseÅ¡ z daleka?}
+{196}{}{JÃ©Ã©Ã©Ã©! Hahaha!}
+{197}{}{NeodchÃ¡zej!}
+{198}{}{NemÃ¡Å¡ nÄ›jakÃ½ jÃ­dlo?}
+{199}{}{Neotravuju tÄ›?}
+{200}{}{Kam chceÅ¡ jÃ­t?}
+{201}{}{MÅ¯Å¾u jÃ­t s tebou?}
 {202}{}{Kolik je ti let?}
-{203}{}{Jak se jmenuješ?}
-{204}{}{Máš rád dìti?}
-{205}{}{Co to máš?}
-{206}{}{Nechceš si zahrát nìjakou hru?}
-{207}{}{Co to dìláš?}
-{208}{}{Nevidìl jsi nìjakı brouky?}
-{209}{}{Odkud to máš?}
-{210}{}{Dáš mi to?}
-{211}{}{Co dìláš?}
-{212}{}{Umím rychle utíkat. Chceš to vidìt?}
-{213}{}{Dívej! Dívej!}
-{214}{}{Maminka øíká, e moc mluvím.}
-{215}{}{Kde je tvùj domov?}
-{216}{}{Héééé! Héééé!}
-{217}{}{Zùstaneš tu napoøád?}
-{218}{}{Máš dìti?}
-{219}{}{Proè jseš tady?}
-{220}{}{Líbíš se mi.}
-{221}{}{Líbím se ti?}
-{222}{}{Máš rodinu?}
-{223}{}{Raz, dva, tøi... jéééé!}
+{203}{}{Jak se jmenujeÅ¡?}
+{204}{}{MÃ¡Å¡ rÃ¡d dÄ›ti?}
+{205}{}{Co to mÃ¡Å¡?}
+{206}{}{NechceÅ¡ si zahrÃ¡t nÄ›jakou hru?}
+{207}{}{Co to dÄ›lÃ¡Å¡?}
+{208}{}{NevidÄ›l jsi nÄ›jakÃ½ brouky?}
+{209}{}{Odkud to mÃ¡Å¡?}
+{210}{}{DÃ¡Å¡ mi to?}
+{211}{}{Co dÄ›lÃ¡Å¡?}
+{212}{}{UmÃ­m rychle utÃ­kat. ChceÅ¡ to vidÄ›t?}
+{213}{}{DÃ­vej! DÃ­vej!}
+{214}{}{Maminka Å™Ã­kÃ¡, Å¾e moc mluvÃ­m.}
+{215}{}{Kde je tvÅ¯j domov?}
+{216}{}{HÃ©Ã©Ã©Ã©! HÃ©Ã©Ã©Ã©!}
+{217}{}{ZÅ¯staneÅ¡ tu napoÅ™Ã¡d?}
+{218}{}{MÃ¡Å¡ dÄ›ti?}
+{219}{}{ProÄ jseÅ¡ tady?}
+{220}{}{LÃ­bÃ­Å¡ se mi.}
+{221}{}{LÃ­bÃ­m se ti?}
+{222}{}{MÃ¡Å¡ rodinu?}
+{223}{}{Raz, dva, tÅ™i... jÃ©Ã©Ã©Ã©!}
 {300}{}{Cizinec!}

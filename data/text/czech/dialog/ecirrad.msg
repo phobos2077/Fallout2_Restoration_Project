@@ -1,1 +1,1 @@
-{100}{}{Dostal jsi d·vku radiace.}
+{100}{}{Dostal jsi d√°vku radiace.}

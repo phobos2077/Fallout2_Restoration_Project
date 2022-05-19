@@ -1,50 +1,50 @@
-{100}{}{Vidíš pocestného.}
-{101}{}{Zdá se, e nìco hledá.}
-{200}{}{To je otrokáø! Zabijte ho!}
+{100}{}{VidÃ­Å¡ pocestnÃ©ho.}
+{101}{}{ZdÃ¡ se, Å¾e nÄ›co hledÃ¡.}
+{200}{}{To je otrokÃ¡Å™! Zabijte ho!}
 {201}{}{Zabijte ho, tyrana!}
-{202}{}{Zabijte toho ïábelského otrokáøe!}
-{203}{}{Pryè s otrokáøstvím! Zabijte otrokáøe!}
-{204}{}{Zhyò, otrokáøská špíno!}
-{250}{}{Zdravím!}
-{251}{}{Nazdar, cizinèe!}
-{300}{}{Nazdar, cizinèe. Co pohledáváš v tìhlech konèinách?}
+{202}{}{Zabijte toho ÄÃ¡belskÃ©ho otrokÃ¡Å™e!}
+{203}{}{PryÄ s otrokÃ¡Å™stvÃ­m! Zabijte otrokÃ¡Å™e!}
+{204}{}{ZhyÅˆ, otrokÃ¡Å™skÃ¡ Å¡pÃ­no!}
+{250}{}{ZdravÃ­m!}
+{251}{}{Nazdar, cizinÄe!}
+{300}{}{Nazdar, cizinÄe. Co pohledÃ¡vÃ¡Å¡ v tÄ›hlech konÄinÃ¡ch?}
 {301}{}{Ztratil jsem se.}
-{302}{}{Jenom se tak toulám.}
-{303}{}{Nic. A co tu dìláš ty?}
-{304}{}{Hledám lidi k zabití.}
+{302}{}{Jenom se tak toulÃ¡m.}
+{303}{}{Nic. A co tu dÄ›lÃ¡Å¡ ty?}
+{304}{}{HledÃ¡m lidi k zabitÃ­.}
 {305}{}{Nic. Nashle.}
 {306}{}{Co?}
-{307}{}{Eh, myslím, e u budu muset jít. Nashle.}
-{310}{}{Rád bych ti pomohl, ale u se toulám v tìhlech konèinách tak dlouho, e ani sám nevím, kde co je.}
-{311}{}{Proè se tady touláš?}
-{312}{}{Co tady dìláš?}
-{313}{}{Tak hodnì štìstí.}
-{314}{}{Á, tak hodnì štìstí. A mimochodem, dávej si pozor na Den. Rádi tam kšeftujou s lidma.}
+{307}{}{Eh, myslÃ­m, Å¾e uÅ¾ budu muset jÃ­t. Nashle.}
+{310}{}{RÃ¡d bych ti pomohl, ale uÅ¾ se toulÃ¡m v tÄ›hlech konÄinÃ¡ch tak dlouho, Å¾e ani sÃ¡m nevÃ­m, kde co je.}
+{311}{}{ProÄ se tady toulÃ¡Å¡?}
+{312}{}{Co tady dÄ›lÃ¡Å¡?}
+{313}{}{Tak hodnÄ› Å¡tÄ›stÃ­.}
+{314}{}{Ã, tak hodnÄ› Å¡tÄ›stÃ­. A mimochodem, dÃ¡vej si pozor na Den. RÃ¡di tam kÅ¡eftujou s lidma.}
 {315}{}{Den?}
-{316}{}{Kšeftují s lidma?}
-{317}{}{Jasnì, jak myslíš. Nashle.}
-{320}{}{Zdá se, e si lidé v tìhlech konèinách rádi obstarávají otroky. Pøišel jsem, abych se je pokusil osvobodit. A pokud pøitom nìjakı ten otrokáø chcípne, taky dobrı.}
-{321}{}{Co je špatného na tom mít otroky? Sám bych si nìjaké poøídil, kdybych vìdìl kde je sehnat.}
-{322}{}{Dám si na ty bastardy pozor.}
-{323}{}{Zabíjet není nikdy správné.}
-{324}{}{Zabíjení? Pomùu ti je zabít.}
-{330}{}{Vánì? To je super. Tak to musím vyrazit a najít další otroky, které bych mohl osvobodit.}
-{331}{}{Hodnì štìstí.}
-{335}{}{Ne, nìkdy musíš pár lidí zabít, abys jich hodnì zachránil. Prostì nutné obìti. A pak... jsou to pøece otrokáøi. To není jako by byli normální lidé.}
-{336}{}{Jo, máš pravdu. U musím jít.}
-{337}{}{Vánì? Tak to pro mì jsi mrtvola.}
-{338}{}{Nevadí. Nashle.}
-{340}{}{Bastarde! Za to tì zabiju!}
-{341}{}{Ty hajzle! Za to tì zabiju!}
-{342}{}{Ne, kdy tì zabiju jako první!}
-{350}{}{Jo. Útoèí na malé skupinky lidí. Všechno ivé jde do draby.}
-{351}{}{To je pøíšerné. Budu si na nì dávat pozor. Díky.}
-{355}{}{Den je mìsto. Zamìøuje se na otrokáøství a jiné špatnosti. Není v nìm nic dobrého.}
-{356}{}{Díky za informace. Sbohem.}
-{360}{}{Jen chci zlikvidovat obchodní cesty otrokáøù.}
-{361}{}{Co tím myslíš?}
-{362}{}{Aha, dobøe. Tak hodnì štìstí.}
-{363}{}{Nevadí. Nashle.}
-{370}{}{Zkus otrokáøe. Dobøe se zabíjejí. Pìknì si to èlovìk vychutná.}
-{371}{}{Super. Díky za informace.}
-{372}{}{Ty jsi tady. Nejradìji bych tì zabil.}
+{316}{}{KÅ¡eftujÃ­ s lidma?}
+{317}{}{JasnÄ›, jak myslÃ­Å¡. Nashle.}
+{320}{}{ZdÃ¡ se, Å¾e si lidÃ© v tÄ›hlech konÄinÃ¡ch rÃ¡di obstarÃ¡vajÃ­ otroky. PÅ™iÅ¡el jsem, abych se je pokusil osvobodit. A pokud pÅ™itom nÄ›jakÃ½ ten otrokÃ¡Å™ chcÃ­pne, taky dobrÃ½.}
+{321}{}{Co je Å¡patnÃ©ho na tom mÃ­t otroky? SÃ¡m bych si nÄ›jakÃ© poÅ™Ã­dil, kdybych vÄ›dÄ›l kde je sehnat.}
+{322}{}{DÃ¡m si na ty bastardy pozor.}
+{323}{}{ZabÃ­jet nenÃ­ nikdy sprÃ¡vnÃ©.}
+{324}{}{ZabÃ­jenÃ­? PomÅ¯Å¾u ti je zabÃ­t.}
+{330}{}{VÃ¡Å¾nÄ›? To je super. Tak to musÃ­m vyrazit a najÃ­t dalÅ¡Ã­ otroky, kterÃ© bych mohl osvobodit.}
+{331}{}{HodnÄ› Å¡tÄ›stÃ­.}
+{335}{}{Ne, nÄ›kdy musÃ­Å¡ pÃ¡r lidÃ­ zabÃ­t, abys jich hodnÄ› zachrÃ¡nil. ProstÄ› nutnÃ© obÄ›ti. A pak... jsou to pÅ™ece otrokÃ¡Å™i. To nenÃ­ jako by byli normÃ¡lnÃ­ lidÃ©.}
+{336}{}{Jo, mÃ¡Å¡ pravdu. UÅ¾ musÃ­m jÃ­t.}
+{337}{}{VÃ¡Å¾nÄ›? Tak to pro mÄ› jsi mrtvola.}
+{338}{}{NevadÃ­. Nashle.}
+{340}{}{Bastarde! Za to tÄ› zabiju!}
+{341}{}{Ty hajzle! Za to tÄ› zabiju!}
+{342}{}{Ne, kdyÅ¾ tÄ› zabiju jako prvnÃ­!}
+{350}{}{Jo. ÃštoÄÃ­ na malÃ© skupinky lidÃ­. VÅ¡echno Å¾ivÃ© jde do draÅ¾by.}
+{351}{}{To je pÅ™Ã­Å¡ernÃ©. Budu si na nÄ› dÃ¡vat pozor. DÃ­ky.}
+{355}{}{Den je mÄ›sto. ZamÄ›Å™uje se na otrokÃ¡Å™stvÃ­ a jinÃ© Å¡patnosti. NenÃ­ v nÄ›m nic dobrÃ©ho.}
+{356}{}{DÃ­ky za informace. Sbohem.}
+{360}{}{Jen chci zlikvidovat obchodnÃ­ cesty otrokÃ¡Å™Å¯.}
+{361}{}{Co tÃ­m myslÃ­Å¡?}
+{362}{}{Aha, dobÅ™e. Tak hodnÄ› Å¡tÄ›stÃ­.}
+{363}{}{NevadÃ­. Nashle.}
+{370}{}{Zkus otrokÃ¡Å™e. DobÅ™e se zabÃ­jejÃ­. PÄ›knÄ› si to ÄlovÄ›k vychutnÃ¡.}
+{371}{}{Super. DÃ­ky za informace.}
+{372}{}{Ty jsi tady. NejradÄ›ji bych tÄ› zabil.}

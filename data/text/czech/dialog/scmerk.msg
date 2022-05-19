@@ -1,175 +1,175 @@
-{100}{}{Vidíš dobøe obleèeného zavalitého mue, kterı se pohybuje pomalu a s rozvahou.}
-{101}{}{Vidíš Merka. Místní mu øíkají Chlapák.}
-{102}{}{Z tohohle chlápka pøímo vyzaøuje arogantní chlad. Nejsi pro nìj nic víc ne moucha rozmáznutá mezi prsty.}
-{103}{}{Hele, tebe jsem vidìl ve filmu! Jdeš se mi pøedvıst?}
-{104}{}{Co si o sobì myslíš, e mì mùeš takhle vyrušovat z klidu? Vypadni odsud.}
-{105}{}{Omluv mì, mám práci.}
-{106}{}{Jestli chceš mluvit o obchodu, najdeš mì v Nevydìlanı kùi. Jinak mì nech bejt.}
-{107}{}{Vidìl jsem tì na støíbrnım plátnì. Máš zajímavı... ehmm... dispozice.}
-{108}{}{Máš ten správnej vıraz v oèích. Stav se v Nevydìlanı kùi. Hodil by se mi nìkdo jako ty.}
-{109}{}{Do prdele co je to za smrad? Nìco zrovna vešlo do místnosti.}
-{110}{}{Skoè mi pro další whiskey. Hned.}
-{111}{}{Teï nemám èas.}
-{112}{}{Jsem tady host. Pøestaò mì otravovat.}
-{113}{}{Nazdar kotì, vypadáš fakt dobøe. Ten Carlson má poøád lepší a lepší vkus.}
-{114}{}{Tady obchody nedìlám.}
-{115}{}{Tebe neznám. Já jsem váenı obchodník.}
-{116}{}{Podívejme, není to náhodou ten srab? Padej a nech mì bejt.}
-{117}{}{Take ses mì nakonec rozhodla navštívit, kotì?}
-{118}{}{Nevím nic o nièem, pochop to.}
-{119}{}{Viceprezidentovi se nebude líbit, e otravuješ jeho hosty.}
+{100}{}{VidÃ­Å¡ dobÅ™e obleÄenÃ©ho zavalitÃ©ho muÅ¾e, kterÃ½ se pohybuje pomalu a s rozvahou.}
+{101}{}{VidÃ­Å¡ Merka. MÃ­stnÃ­ mu Å™Ã­kajÃ­ ChlapÃ¡k.}
+{102}{}{Z tohohle chlÃ¡pka pÅ™Ã­mo vyzaÅ™uje arogantnÃ­ chlad. Nejsi pro nÄ›j nic vÃ­c neÅ¾ moucha rozmÃ¡znutÃ¡ mezi prsty.}
+{103}{}{Hele, tebe jsem vidÄ›l ve filmu! JdeÅ¡ se mi pÅ™edvÃ½st?}
+{104}{}{Co si o sobÄ› myslÃ­Å¡, Å¾e mÄ› mÅ¯Å¾eÅ¡ takhle vyruÅ¡ovat z klidu? Vypadni odsud.}
+{105}{}{Omluv mÄ›, mÃ¡m prÃ¡ci.}
+{106}{}{Jestli chceÅ¡ mluvit o obchodu, najdeÅ¡ mÄ› v NevydÄ›lanÃ½ kÅ¯Å¾i. Jinak mÄ› nech bejt.}
+{107}{}{VidÄ›l jsem tÄ› na stÅ™Ã­brnÃ½m plÃ¡tnÄ›. MÃ¡Å¡ zajÃ­mavÃ½... ehmm... dispozice.}
+{108}{}{MÃ¡Å¡ ten sprÃ¡vnej vÃ½raz v oÄÃ­ch. Stav se v NevydÄ›lanÃ½ kÅ¯Å¾i. Hodil by se mi nÄ›kdo jako ty.}
+{109}{}{Do prdele co je to za smrad? NÄ›co zrovna veÅ¡lo do mÃ­stnosti.}
+{110}{}{SkoÄ mi pro dalÅ¡Ã­ whiskey. Hned.}
+{111}{}{TeÄ nemÃ¡m Äas.}
+{112}{}{Jsem tady host. PÅ™estaÅˆ mÄ› otravovat.}
+{113}{}{Nazdar kotÄ›, vypadÃ¡Å¡ fakt dobÅ™e. Ten Carlson mÃ¡ poÅ™Ã¡d lepÅ¡Ã­ a lepÅ¡Ã­ vkus.}
+{114}{}{Tady obchody nedÄ›lÃ¡m.}
+{115}{}{Tebe neznÃ¡m. JÃ¡ jsem vÃ¡Å¾enÃ½ obchodnÃ­k.}
+{116}{}{PodÃ­vejme, nenÃ­ to nÃ¡hodou ten srab? Padej a nech mÄ› bejt.}
+{117}{}{TakÅ¾e ses mÄ› nakonec rozhodla navÅ¡tÃ­vit, kotÄ›?}
+{118}{}{NevÃ­m nic o niÄem, pochop to.}
+{119}{}{Viceprezidentovi se nebude lÃ­bit, Å¾e otravujeÅ¡ jeho hosty.}
 {120}{}{Nalejvaj tady sakra dobrej chlast.}
 {121}{}{Uhni mi z cesty!}
-{122}{}{Jestli chceš s nìkım mluvit, bì si koupit kámoše.}
-{123}{}{Nedìlám prùvodce a nerozdávám drobnı. Odpal.}
-{124}{}{Co to má bejt? Myslíš, e jsem snad nìjaká linka dùvìry?}
-{125}{}{Jsem Merk. Co chceš?}
+{122}{}{Jestli chceÅ¡ s nÄ›kÃ½m mluvit, bÄ›Å¾ si koupit kÃ¡moÅ¡e.}
+{123}{}{NedÄ›lÃ¡m prÅ¯vodce a nerozdÃ¡vÃ¡m drobnÃ½. Odpal.}
+{124}{}{Co to mÃ¡ bejt? MyslÃ­Å¡, Å¾e jsem snad nÄ›jakÃ¡ linka dÅ¯vÄ›ry?}
+{125}{}{Jsem Merk. Co chceÅ¡?}
 {126}{}{Zase vy?}
 {127}{}{Well, keep it polite, punk, or this could get ugly.}
 {128}{}{Oort.}
-{129}{}{Hledám práci.}
-{130}{}{Informované zdroje øíkají, e ty jsi ten správnı èlovìk, u kterého mám hledat práci... jestli mi rozumíš.}
-{131}{}{Øíká se, e ty jsi ten, kdo mi vybral auto.}
-{132}{}{Sháním nìjaké informace.}
-{133}{}{Øíká se, e bys mohl vìdìt nìco o... øeknìme, zboí ztrácejícím se z aut.}
-{134}{}{Zase ty? Tak co, je ta práce hotová?}
+{129}{}{HledÃ¡m prÃ¡ci.}
+{130}{}{InformovanÃ© zdroje Å™Ã­kajÃ­, Å¾e ty jsi ten sprÃ¡vnÃ½ ÄlovÄ›k, u kterÃ©ho mÃ¡m hledat prÃ¡ci... jestli mi rozumÃ­Å¡.}
+{131}{}{Å˜Ã­kÃ¡ se, Å¾e ty jsi ten, kdo mi vybral auto.}
+{132}{}{ShÃ¡nÃ­m nÄ›jakÃ© informace.}
+{133}{}{Å˜Ã­kÃ¡ se, Å¾e bys mohl vÄ›dÄ›t nÄ›co o... Å™eknÄ›me, zboÅ¾Ã­ ztrÃ¡cejÃ­cÃ­m se z aut.}
+{134}{}{Zase ty? Tak co, je ta prÃ¡ce hotovÃ¡?}
 {135}{}{Glub.}
 {136}{}{Ne.}
-{137}{}{Mám nìkolik otázek.}
-{138}{}{Hmm... silnej. A blbej... jestli chceš práci, promluv si s Mirou. Rozumíš? Mi-rou. Támhle.}
-{139}{}{Rád vydáváš zvuky, co? Bude nìkdo tak laskav a vykopne odsud tohle brahmíní hovno?}
-{140}{}{Máš mì za debila? Myslíš, e najmu jen tak nìkoho? Jestli chceš pro mì pracovat, doka, e za nìco stojíš.}
-{141}{}{Co takhle kdy odprásknu támhle Lennyho? Zaslouí si to.}
-{142}{}{A jak to mám udìlat?}
-{143}{}{Nevíš o nìkom, kdo by chtìl koupit Jet?}
-{144}{}{Poslyš, jsem}
-{145}{}{Jasnì. Tobì tak budu nìco dokazovat. Zapomeò na to, ty slizkej èerve.}
-{146}{}{Byl to ten zatracenej Doofus, e jo? Ten malej feák moc vaní. Nìco ti øeknu. Sejmi ho pro mì... øíkejme tomu tøeba laskavost... a pak se spolu budeme dál bavit.}
-{147}{}{Platí.}
+{137}{}{MÃ¡m nÄ›kolik otÃ¡zek.}
+{138}{}{Hmm... silnej. A blbej... jestli chceÅ¡ prÃ¡ci, promluv si s Mirou. RozumÃ­Å¡? Mi-rou. TÃ¡mhle.}
+{139}{}{RÃ¡d vydÃ¡vÃ¡Å¡ zvuky, co? Bude nÄ›kdo tak laskav a vykopne odsud tohle brahmÃ­nÃ­ hovno?}
+{140}{}{MÃ¡Å¡ mÄ› za debila? MyslÃ­Å¡, Å¾e najmu jen tak nÄ›koho? Jestli chceÅ¡ pro mÄ› pracovat, dokaÅ¾, Å¾e za nÄ›co stojÃ­Å¡.}
+{141}{}{Co takhle kdyÅ¾ odprÃ¡sknu tÃ¡mhle Lennyho? ZaslouÅ¾Ã­ si to.}
+{142}{}{A jak to mÃ¡m udÄ›lat?}
+{143}{}{NevÃ­Å¡ o nÄ›kom, kdo by chtÄ›l koupit Jet?}
+{144}{}{PoslyÅ¡, jsem}
+{145}{}{JasnÄ›. TobÄ› tak budu nÄ›co dokazovat. ZapomeÅˆ na to, ty slizkej Äerve.}
+{146}{}{Byl to ten zatracenej Doofus, Å¾e jo? Ten malej feÅ¥Ã¡k moc Å¾vanÃ­. NÄ›co ti Å™eknu. Sejmi ho pro mÄ›... Å™Ã­kejme tomu tÅ™eba laskavost... a pak se spolu budeme dÃ¡l bavit.}
+{147}{}{PlatÃ­.}
 {148}{}{Hele, tak chladnokrevnej fakt nejsem!}
-{149}{}{A oni by øekli, e jseš magor. Hoši...}
-{150}{}{Zajímavı. Proè by nìkdo nìco takovıho tvrdil?}
-{151}{}{Neser mì, tlusochu. Jestli nedostanu zpátky to, co mi patøí, bude si ráno hrobník brát tvoje míry na rakev.}
-{152}{}{Roztomilé. Odpovíš mi na moji otázku nebo ne?}
-{153}{}{Ále, to jsem jen nìkde slyšel. Jen jsem chtìl vìdìt, co na to øekneš.}
-{154}{}{Øeknìme, e nìco vím. A co jako?}
-{155}{}{No a kdyby èlovìku pár vìcí chybìlo, myslíš, e by si je mohl koupit zpátky?}
-{156}{}{Chci svoje vìci zpátky, tlusochu!}
-{157}{}{Co kdy si pùjdu promluvit s policií?}
-{158}{}{U mì to unavuje. Hoši... postarejte se o našeho hosta.}
-{159}{}{Myslím, e by se mu to nelíbilo.}
-{160}{}{To nejspíš ne, ale jeho jsem se neptal.}
-{161}{}{A je teda po tvém.}
-{162}{}{Pravda. Je tu nuda. Èas na "jeden na jednoho" tady ve sklepì. Pojï, Lenny, chci vidìt, jak sejmeš tuhle}
-{163}{}{No, mám problémy, kterı potøebuju vyøešit.}
-{164}{}{Jako tøeba?}
-{165}{}{Jet? Chceš mi snad nìco navrhnout...?}
-{166}{}{Tady mùj pøítel ví, jak ho vyrobit. Máš zájem?}
-{167}{}{Nìco nezákonného? Ne, to bych neudìlal.}
-{168}{}{Zajímavé. Nabízím ti za jeho sluby $1000.}
-{169}{}{Platí.}
-{170}{}{Ne, to nemùu mému pøíteli udìlat.}
-{171}{}{Mohli bychom spolu udìlat obchod, pøíteli. Vìc se má takhle... ve mìstì je jeden praštìnej vìdec, Dr. Henry. Má nìjakı dokumenty, kterı by se mi hodily. Zaplatím ti za nì $1000. Jo a nechci, aby se Henrymu nìco stalo. Je uiteènej kdy je ivej. Máš zájem? }
+{149}{}{A oni by Å™ekli, Å¾e jseÅ¡ magor. HoÅ¡i...}
+{150}{}{ZajÃ­mavÃ½. ProÄ by nÄ›kdo nÄ›co takovÃ½ho tvrdil?}
+{151}{}{Neser mÄ›, tlusÅ¥ochu. Jestli nedostanu zpÃ¡tky to, co mi patÅ™Ã­, bude si rÃ¡no hrobnÃ­k brÃ¡t tvoje mÃ­ry na rakev.}
+{152}{}{RoztomilÃ©. OdpovÃ­Å¡ mi na moji otÃ¡zku nebo ne?}
+{153}{}{Ãle, to jsem jen nÄ›kde slyÅ¡el. Jen jsem chtÄ›l vÄ›dÄ›t, co na to Å™ekneÅ¡.}
+{154}{}{Å˜eknÄ›me, Å¾e nÄ›co vÃ­m. A co jako?}
+{155}{}{No a kdyby ÄlovÄ›ku pÃ¡r vÄ›cÃ­ chybÄ›lo, myslÃ­Å¡, Å¾e by si je mohl koupit zpÃ¡tky?}
+{156}{}{Chci svoje vÄ›ci zpÃ¡tky, tlusÅ¥ochu!}
+{157}{}{Co kdyÅ¾ si pÅ¯jdu promluvit s policiÃ­?}
+{158}{}{UÅ¾ mÄ› to unavuje. HoÅ¡i... postarejte se o naÅ¡eho hosta.}
+{159}{}{MyslÃ­m, Å¾e by se mu to nelÃ­bilo.}
+{160}{}{To nejspÃ­Å¡ ne, ale jeho jsem se neptal.}
+{161}{}{AÅ¥ je teda po tvÃ©m.}
+{162}{}{Pravda. Je tu nuda. ÄŒas na "jeden na jednoho" tady ve sklepÄ›. PojÄ, Lenny, chci vidÄ›t, jak sejmeÅ¡ tuhle}
+{163}{}{No, mÃ¡m problÃ©my, kterÃ½ potÅ™ebuju vyÅ™eÅ¡it.}
+{164}{}{Jako tÅ™eba?}
+{165}{}{Jet? ChceÅ¡ mi snad nÄ›co navrhnout...?}
+{166}{}{Tady mÅ¯j pÅ™Ã­tel vÃ­, jak ho vyrobit. MÃ¡Å¡ zÃ¡jem?}
+{167}{}{NÄ›co nezÃ¡konnÃ©ho? Ne, to bych neudÄ›lal.}
+{168}{}{ZajÃ­mavÃ©. NabÃ­zÃ­m ti za jeho sluÅ¾by $1000.}
+{169}{}{PlatÃ­.}
+{170}{}{Ne, to nemÅ¯Å¾u mÃ©mu pÅ™Ã­teli udÄ›lat.}
+{171}{}{Mohli bychom spolu udÄ›lat obchod, pÅ™Ã­teli. VÄ›c se mÃ¡ takhle... ve mÄ›stÄ› je jeden praÅ¡tÄ›nej vÄ›dec, Dr. Henry. MÃ¡ nÄ›jakÃ½ dokumenty, kterÃ½ by se mi hodily. ZaplatÃ­m ti za nÄ› $1000. Jo a nechci, aby se Henrymu nÄ›co stalo. Je uÅ¾iteÄnej kdyÅ¾ je Å¾ivej. MÃ¡Å¡ zÃ¡jem? }
 {172}{}{Jdu na to.}
-{173}{}{Ne, to není mùj styl.}
-{174}{}{Vìdomosti jsou drahé. Nemám pravdu?}
+{173}{}{Ne, to nenÃ­ mÅ¯j styl.}
+{174}{}{VÄ›domosti jsou drahÃ©. NemÃ¡m pravdu?}
 {175}{}{"Moudrost nad zlato."}
 {176}{}{Tady je $50.}
-{177}{}{Zapomeò na to.}
-{178}{}{Aha, ty jseš tenhle typ èlovìka.}
-{179}{}{Pokraèovat.}
-{180}{}{No, co se mì tıèe, tak tady jseš jen hromada hnoje.}
-{181}{}{Tušil jsem, e jseš baba.}
-{182}{}{Fajn, ádnej problém. Nechci problémy. Ale víš ty co? Øeknu svım hochùm, aby vrátili to zboí tam, kde ho našli.}
-{183}{}{To doufej, jinak se ještì uvidíme.}
-{184}{}{Takovı kraviny na mì nezkoušej!}
-{185}{}{Takovej èlovìk by toho mìl bejt schopnej.}
-{186}{}{A teï radši odejdi.}
-{187}{}{Klidnì si zavolej policii. Pøedpokládám, e máš dùkazy pro takovı nesmyslnı obvinìní.}
-{188}{}{Jo, jistì.}
-{189}{}{Zapomeò na to.}
-{190}{}{Jako tøeba ten zatracenej Hubologista ve mìstì, kterej mì pìknì štve. A tu osinu v zadku zlikviduješ, tak se vra zpátky.}
-{191}{}{Jakoby se u stalo. Mám pro nìj pøichystané speciální náøadí, ale... kdo je to ten Hubologista a kde ho najdu?}
-{192}{}{Jak se opovauješ mluvit proti pravı víøe?}
-{193}{}{Promiò, ale nebudu se plést do církevních sporù.}
-{194}{}{No, jsem vzdìlanej mu. Na co se chceš zeptat?}
+{177}{}{ZapomeÅˆ na to.}
+{178}{}{Aha, ty jseÅ¡ tenhle typ ÄlovÄ›ka.}
+{179}{}{PokraÄovat.}
+{180}{}{No, co se mÄ› tÃ½Äe, tak tady jseÅ¡ jen hromada hnoje.}
+{181}{}{TuÅ¡il jsem, Å¾e jseÅ¡ baba.}
+{182}{}{Fajn, Å¾Ã¡dnej problÃ©m. Nechci problÃ©my. Ale vÃ­Å¡ ty co? Å˜eknu svÃ½m hochÅ¯m, aby vrÃ¡tili to zboÅ¾Ã­ tam, kde ho naÅ¡li.}
+{183}{}{To doufej, jinak se jeÅ¡tÄ› uvidÃ­me.}
+{184}{}{TakovÃ½ kraviny na mÄ› nezkouÅ¡ej!}
+{185}{}{Takovej ÄlovÄ›k by toho mÄ›l bejt schopnej.}
+{186}{}{A teÄ radÅ¡i odejdi.}
+{187}{}{KlidnÄ› si zavolej policii. PÅ™edpoklÃ¡dÃ¡m, Å¾e mÃ¡Å¡ dÅ¯kazy pro takovÃ½ nesmyslnÃ½ obvinÄ›nÃ­.}
+{188}{}{Jo, jistÄ›.}
+{189}{}{ZapomeÅˆ na to.}
+{190}{}{Jako tÅ™eba ten zatracenej Hubologista ve mÄ›stÄ›, kterej mÄ› pÄ›knÄ› Å¡tve. AÅ¾ tu osinu v zadku zlikvidujeÅ¡, tak se vraÅ¥ zpÃ¡tky.}
+{191}{}{Jakoby se uÅ¾ stalo. MÃ¡m pro nÄ›j pÅ™ichystanÃ© speciÃ¡lnÃ­ nÃ¡Å™adÃ­, ale... kdo je to ten Hubologista a kde ho najdu?}
+{192}{}{Jak se opovaÅ¾ujeÅ¡ mluvit proti pravÃ½ vÃ­Å™e?}
+{193}{}{PromiÅˆ, ale nebudu se plÃ©st do cÃ­rkevnÃ­ch sporÅ¯.}
+{194}{}{No, jsem vzdÄ›lanej muÅ¾. Na co se chceÅ¡ zeptat?}
 {195}{}{Ptej se.}
-{196}{}{Hledám Vault 13.}
+{196}{}{HledÃ¡m Vault 13.}
 {197}{}{Ever heard of a GECK?}
-{198}{}{Co víš o skupinì, která si øíká Rangeøi?}
-{199}{}{Co mi mùeš øíct o chlápkovi jménem Westin?}
-{200}{}{Sháním informace o viceprezidentovi Carlsonovi.}
+{198}{}{Co vÃ­Å¡ o skupinÄ›, kterÃ¡ si Å™Ã­kÃ¡ RangeÅ™i?}
+{199}{}{Co mi mÅ¯Å¾eÅ¡ Å™Ã­ct o chlÃ¡pkovi jmÃ©nem Westin?}
+{200}{}{ShÃ¡nÃ­m informace o viceprezidentovi Carlsonovi.}
 {201}{}{To je ono.}
-{202}{}{Jedna platba, jedna otázka. Další tì bude stát $50.}
-{203}{}{Dobøe, tady máš.}
-{204}{}{Víc informací u nepotøebuju.}
-{205}{}{Èirou náhodou mám mapu k Vaultu 13. Stojí pouhıch 1000 babek. Máš zájem?}
-{206}{}{Jasnì. Vezmu si ji.}
-{207}{}{Tomu uvìøím, a budou z nebe padat trakaøe.}
-{208}{}{Moná pozdìji.}
+{202}{}{Jedna platba, jedna otÃ¡zka. DalÅ¡Ã­ tÄ› bude stÃ¡t $50.}
+{203}{}{DobÅ™e, tady mÃ¡Å¡.}
+{204}{}{VÃ­c informacÃ­ uÅ¾ nepotÅ™ebuju.}
+{205}{}{ÄŒirou nÃ¡hodou mÃ¡m mapu k Vaultu 13. StojÃ­ pouhÃ½ch 1000 babek. MÃ¡Å¡ zÃ¡jem?}
+{206}{}{JasnÄ›. Vezmu si ji.}
+{207}{}{Tomu uvÄ›Å™Ã­m, aÅ¾ budou z nebe padat trakaÅ™e.}
+{208}{}{MoÅ¾nÃ¡ pozdÄ›ji.}
 {209}{}{Is it some kind of drug out of New Reno? I've never heard of it.}
-{210}{}{Ne, ale mám ještì nìjaké otázky.}
-{211}{}{To u bude všechno.}
-{212}{}{Ti bastardi? A se ode mì drí dál, nebo je oddìlám.}
-{213}{}{Hmm, to bylo opravdu informativní. Další otázka.}
-{214}{}{To u bude všechno.}
-{215}{}{Ten ranèer? Jednou sem pøišel a strašnì kòuèel. Musel sem nabìhnout mìstskej doktor s nìjakejma lékama. Vypadá to, e má Westin nìjakı problémy se srdcem. Znièil mi kšeft za celou noc.}
-{216}{}{Díky za informaci. Mám ještì nìjaké otázky.}
-{217}{}{To u bude všechno.}
-{218}{}{Jako správnej obèan fandím Carlsonovì opozici proti vlivu New Rena. A teï kdy je Westin mrtvej, budu pomáhat s ochranou viceprezidenta.}
-{219}{}{No tak nic no. Vypadá to, e se s ním nikdy nesetkám. Taky jsem o nìm hodnì slyšel.}
-{220}{}{To u bude všechno.}
-{221}{}{Je to všechno?}
+{210}{}{Ne, ale mÃ¡m jeÅ¡tÄ› nÄ›jakÃ© otÃ¡zky.}
+{211}{}{To uÅ¾ bude vÅ¡echno.}
+{212}{}{Ti bastardi? AÅ¥ se ode mÄ› drÅ¾Ã­ dÃ¡l, nebo je oddÄ›lÃ¡m.}
+{213}{}{Hmm, to bylo opravdu informativnÃ­. DalÅ¡Ã­ otÃ¡zka.}
+{214}{}{To uÅ¾ bude vÅ¡echno.}
+{215}{}{Ten ranÄer? Jednou sem pÅ™iÅ¡el a straÅ¡nÄ› kÅˆuÄel. Musel sem nabÄ›hnout mÄ›stskej doktor s nÄ›jakejma lÃ©kama. VypadÃ¡ to, Å¾e mÃ¡ Westin nÄ›jakÃ½ problÃ©my se srdcem. ZniÄil mi kÅ¡eft za celou noc.}
+{216}{}{DÃ­ky za informaci. MÃ¡m jeÅ¡tÄ› nÄ›jakÃ© otÃ¡zky.}
+{217}{}{To uÅ¾ bude vÅ¡echno.}
+{218}{}{Jako sprÃ¡vnej obÄan fandÃ­m CarlsonovÄ› opozici proti vlivu New Rena. A teÄ kdyÅ¾ je Westin mrtvej, budu pomÃ¡hat s ochranou viceprezidenta.}
+{219}{}{No tak nic no. VypadÃ¡ to, Å¾e se s nÃ­m nikdy nesetkÃ¡m. Taky jsem o nÄ›m hodnÄ› slyÅ¡el.}
+{220}{}{To uÅ¾ bude vÅ¡echno.}
+{221}{}{Je to vÅ¡echno?}
 {222}{}{No, I've got some more questions.}
-{223}{}{Jo, prozatím je to všechno.}
-{224}{}{No, ale za pokus to stálo, ne? Vault 13 je tady prakticky modla. Dokonce tady postavili i sochu nìjakımu tıpkovi, kterej prej odtamtud pøišel. Nic víc nevím.}
-{225}{}{Prodal jsem ti mapu. Zkus ji pouít.}
-{226}{}{Ta mapa není pravá? Tak to promiò. Ten chlap pøísahal, e je. Jak jsem to mohl vìdìt? Nevím, kde je Vault 13.}
-{227}{}{Mám ještì nìjaké otázky.}
-{228}{}{To u bude všechno.}
-{229}{}{Nìco ti øeknu. Líbí se mi jak pracuješ a Carlsonovi by se hodil další stránej. Kdy se zastavíš pozdìji, budu pro tebe mít tam dole práci.}
+{223}{}{Jo, prozatÃ­m je to vÅ¡echno.}
+{224}{}{No, ale za pokus to stÃ¡lo, ne? Vault 13 je tady prakticky modla. Dokonce tady postavili i sochu nÄ›jakÃ½mu tÃ½pkovi, kterej prej odtamtud pÅ™iÅ¡el. Nic vÃ­c nevÃ­m.}
+{225}{}{Prodal jsem ti mapu. Zkus ji pouÅ¾Ã­t.}
+{226}{}{Ta mapa nenÃ­ pravÃ¡? Tak to promiÅˆ. Ten chlap pÅ™Ã­sahal, Å¾e je. Jak jsem to mohl vÄ›dÄ›t? NevÃ­m, kde je Vault 13.}
+{227}{}{MÃ¡m jeÅ¡tÄ› nÄ›jakÃ© otÃ¡zky.}
+{228}{}{To uÅ¾ bude vÅ¡echno.}
+{229}{}{NÄ›co ti Å™eknu. LÃ­bÃ­ se mi jak pracujeÅ¡ a Carlsonovi by se hodil dalÅ¡Ã­ strÃ¡Å¾nej. KdyÅ¾ se zastavÃ­Å¡ pozdÄ›ji, budu pro tebe mÃ­t tam dole prÃ¡ci.}
 {230}{}{Jdu na to, Merku.}
-{231}{}{Nepotøebuju práci, ale i tak díky.}
-{232}{}{Vıbornì. Vra se, a to dokonèíš.}
-{233}{}{To je velmi znepokojivé. Hoši, zabijte ho a zajistìte dùkazy.}
-{234}{}{Tvı chabı pokusy mì zastrašit jsou smìšnı. Doporuèuju ti odejít døív, ne mì tahle hra zaène nudit.}
-{235}{}{Jo, slyšel jsem tu novinu. Poøád máš zájem o tu práci?}
-{236}{}{Jo, u mì nebaví poøád nìco dìlat zadarmo. Potøebuju práci.}
+{231}{}{NepotÅ™ebuju prÃ¡ci, ale i tak dÃ­ky.}
+{232}{}{VÃ½bornÄ›. VraÅ¥ se, aÅ¾ to dokonÄÃ­Å¡.}
+{233}{}{To je velmi znepokojivÃ©. HoÅ¡i, zabijte ho a zajistÄ›te dÅ¯kazy.}
+{234}{}{TvÃ½ chabÃ½ pokusy mÄ› zastraÅ¡it jsou smÄ›Å¡nÃ½. DoporuÄuju ti odejÃ­t dÅ™Ã­v, neÅ¾ mÄ› tahle hra zaÄne nudit.}
+{235}{}{Jo, slyÅ¡el jsem tu novinu. PoÅ™Ã¡d mÃ¡Å¡ zÃ¡jem o tu prÃ¡ci?}
+{236}{}{Jo, uÅ¾ mÄ› nebavÃ­ poÅ™Ã¡d nÄ›co dÄ›lat zadarmo. PotÅ™ebuju prÃ¡ci.}
 {237}{}{Ne.}
-{238}{}{Co tady sakra dìláš?}
-{239}{}{Poslyš, to pøedtím... nìjak mi to nemyslelo. U se to nebude opakovat. Chci jen trochu tvého èasu.}
-{240}{}{Dìlám si co chci, ty malej syèáku.}
-{241}{}{Zmiz odsud, šmejde!}
-{242}{}{Tak co tady dìláš, ty jeden kreténe podìlanej? Jestli mì chceš ohromit, tak dokonèi svoji práci!}
-{243}{}{Nebudu se s tebou bavit, dokud nedodìláš svoji práci!}
-{244}{}{To mì opravdu mrzí a já obvykle likviduju vìci, kterı mì mrzí, ale v tvım pøípadì udìlám vıjimku. Kdy odejdeš a u se nikdy nevrátíš, tak na všechno zapomenu.}
-{245}{}{Take, je ta záleitost s Dr. Henrym vyøízená?}
-{246}{}{Jo, mám ty dokumenty, které jsi chtìl.}
+{238}{}{Co tady sakra dÄ›lÃ¡Å¡?}
+{239}{}{PoslyÅ¡, to pÅ™edtÃ­m... nÄ›jak mi to nemyslelo. UÅ¾ se to nebude opakovat. Chci jen trochu tvÃ©ho Äasu.}
+{240}{}{DÄ›lÃ¡m si co chci, ty malej syÄÃ¡ku.}
+{241}{}{Zmiz odsud, Å¡mejde!}
+{242}{}{Tak co tady dÄ›lÃ¡Å¡, ty jeden kretÃ©ne podÄ›lanej? Jestli mÄ› chceÅ¡ ohromit, tak dokonÄi svoji prÃ¡ci!}
+{243}{}{Nebudu se s tebou bavit, dokud nedodÄ›lÃ¡Å¡ svoji prÃ¡ci!}
+{244}{}{To mÄ› opravdu mrzÃ­ a jÃ¡ obvykle likviduju vÄ›ci, kterÃ½ mÄ› mrzÃ­, ale v tvÃ½m pÅ™Ã­padÄ› udÄ›lÃ¡m vÃ½jimku. KdyÅ¾ odejdeÅ¡ a uÅ¾ se nikdy nevrÃ¡tÃ­Å¡, tak na vÅ¡echno zapomenu.}
+{245}{}{TakÅ¾e, je ta zÃ¡leÅ¾itost s Dr. Henrym vyÅ™Ã­zenÃ¡?}
+{246}{}{Jo, mÃ¡m ty dokumenty, kterÃ© jsi chtÄ›l.}
 {247}{}{Ne.}
-{248}{}{Takovıhle dny mám fakt rád. Pojïme uzavøít náš obchod.}
-{249}{}{Doneslo se mi, e ten geniální doktor bìhem tvı návštìvy vydechl naposledy. To bylo proti mım pøíkazùm. Myslím, e mi za budoucí ztráty budeš muset dát náhradu.}
-{250}{}{Hele, tak já ti dám 500 babek a na celou tu záleitost zapomeneme.}
+{248}{}{TakovÃ½hle dny mÃ¡m fakt rÃ¡d. PojÄme uzavÅ™Ã­t nÃ¡Å¡ obchod.}
+{249}{}{Doneslo se mi, Å¾e ten geniÃ¡lnÃ­ doktor bÄ›hem tvÃ½ nÃ¡vÅ¡tÄ›vy vydechl naposledy. To bylo proti mÃ½m pÅ™Ã­kazÅ¯m. MyslÃ­m, Å¾e mi za budoucÃ­ ztrÃ¡ty budeÅ¡ muset dÃ¡t nÃ¡hradu.}
+{250}{}{Hele, tak jÃ¡ ti dÃ¡m 500 babek a na celou tu zÃ¡leÅ¾itost zapomeneme.}
 {251}{}{Jdi se vycpat.}
-{252}{}{No, tak hodnì štìstí do budoucna. Nevidím toti ádnej dùvod, proè bysme se spolu my dva mìli ještì nìkdy bavit.}
+{252}{}{No, tak hodnÄ› Å¡tÄ›stÃ­ do budoucna. NevidÃ­m totiÅ¾ Å¾Ã¡dnej dÅ¯vod, proÄ bysme se spolu my dva mÄ›li jeÅ¡tÄ› nÄ›kdy bavit.}
 {253}{}{To mi naprosto vyhovuje.}
-{254}{}{Platí, ale jen proto, e se mi líbíš. A doporuèuju ti, a se radši hned tak nevrátíš.}
-{255}{}{Myslím, e tì prostì zabiju, vezmu si svoje peníze a pak si vyzvednu odmìnu. Koneckoncù, to pøesnì znamená bıt dobrım obèanem.}
-{256}{}{Zase ty? CHCÍPNI!}
-{257}{}{Mám pocit, e jsem øekl, a u mì neotravuješ.}
-{258}{}{ a jsem pìknej drsòák. Zeptej se kohokoliv.}
+{254}{}{PlatÃ­, ale jen proto, Å¾e se mi lÃ­bÃ­Å¡. A doporuÄuju ti, aÅ¥ se radÅ¡i hned tak nevrÃ¡tÃ­Å¡.}
+{255}{}{MyslÃ­m, Å¾e tÄ› prostÄ› zabiju, vezmu si svoje penÃ­ze a pak si vyzvednu odmÄ›nu. KoneckoncÅ¯, to pÅ™esnÄ› znamenÃ¡ bÃ½t dobrÃ½m obÄanem.}
+{256}{}{Zase ty? CHCÃPNI!}
+{257}{}{MÃ¡m pocit, Å¾e jsem Å™ekl, aÅ¥ uÅ¾ mÄ› neotravujeÅ¡.}
+{258}{}{ a jsem pÄ›knej drsÅˆÃ¡k. Zeptej se kohokoliv.}
 {259}{}{ padavku.}
-{260}{}{ koèku.}
-{261}{}{Hubologista je takovej praštìnej náboenskej fanatik. Najdeš ho v kostele ve mìstì.}
+{260}{}{ koÄku.}
+{261}{}{Hubologista je takovej praÅ¡tÄ›nej nÃ¡boÅ¾enskej fanatik. NajdeÅ¡ ho v kostele ve mÄ›stÄ›.}
 {262}{}{Jdu na to.}
-{263}{}{Nebudu s tebou mluvit, dokud nedokonèíš svoji práci! Potøebuju ty dokumenty od Dr. Henryho, a rychle.}
-{264}{}{Ne, ale potøebuju nìjaké informace.}
-{265}{}{Vím, e Lennyho smrt nebyla nehoda, ty bastarde.}
-{266}{}{Poslyš, ta mapa není pravá.}
-{267}{}{A co ty peníze, co jsem ti za ni dal?}
-{268}{}{Jak jsem øekl, promiò, e ti nepomohla.}
-{269}{}{Hele a co kdybys za moje problémy seral tuhle kulku?}
+{263}{}{Nebudu s tebou mluvit, dokud nedokonÄÃ­Å¡ svoji prÃ¡ci! PotÅ™ebuju ty dokumenty od Dr. Henryho, a rychle.}
+{264}{}{Ne, ale potÅ™ebuju nÄ›jakÃ© informace.}
+{265}{}{VÃ­m, Å¾e Lennyho smrt nebyla nehoda, ty bastarde.}
+{266}{}{PoslyÅ¡, ta mapa nenÃ­ pravÃ¡.}
+{267}{}{A co ty penÃ­ze, co jsem ti za ni dal?}
+{268}{}{Jak jsem Å™ekl, promiÅˆ, Å¾e ti nepomohla.}
+{269}{}{Hele a co kdybys za moje problÃ©my seÅ¾ral tuhle kulku?}
 {270}{}{Hmmphf.}
 {271}{}{"Postaral" ses o Hubologistu pro Merka.}
-{272}{}{Podaøilo se ti získat dokumenty Dr. Henryho.}
-{300}{}{Kam si sakra myslíš, e jdeš?! Zkus to ještì jednou a nakopu ti prdel.}
-{301}{}{Varoval jsem tì!}
+{272}{}{PodaÅ™ilo se ti zÃ­skat dokumenty Dr. Henryho.}
+{300}{}{Kam si sakra myslÃ­Å¡, Å¾e jdeÅ¡?! Zkus to jeÅ¡tÄ› jednou a nakopu ti prdel.}
+{301}{}{Varoval jsem tÄ›!}

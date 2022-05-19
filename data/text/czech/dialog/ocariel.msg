@@ -1,81 +1,81 @@
-{100}{}{Vidíš malou štíhlou enu v modrıch sametovıch letních šatech.}
-{101}{}{Vidíš vdovu Ariel.}
-{102}{}{Vidíš malou štíhlou enu v modrıch sametovıch letních šatech. Vypadá dost nešastnì.}
-{103}{}{Ahoj, já jsem Ariel. Myslím, e jsem tì tu ještì nevidìla. Kdo jsi?}
-{104}{}{Já}
-{105}{}{Eh... vypadáš smutnì. Proèpak?}
-{106}{}{Já teï jít.}
-{107}{}{Ahoj Ariel, já jsem}
-{108}{}{Ahoj. Vypadáš nìjak sklesle. Co se stalo?}
-{109}{}{Nepotøebuješ znát moje jméno, ale já od tebe potøebuju pár informací.}
-{110}{}{Promiò, teï na tebe nemám èas.}
-{111}{}{Ráda tì poznávám. S èím ti mùu pomoct?}
-{112}{}{Odpovìdìt otázky?}
+{100}{}{VidÃ­Å¡ malou Å¡tÃ­hlou Å¾enu v modrÃ½ch sametovÃ½ch letnÃ­ch Å¡atech.}
+{101}{}{VidÃ­Å¡ vdovu Ariel.}
+{102}{}{VidÃ­Å¡ malou Å¡tÃ­hlou Å¾enu v modrÃ½ch sametovÃ½ch letnÃ­ch Å¡atech. VypadÃ¡ dost neÅ¡Å¥astnÄ›.}
+{103}{}{Ahoj, jÃ¡ jsem Ariel. MyslÃ­m, Å¾e jsem tÄ› tu jeÅ¡tÄ› nevidÄ›la. Kdo jsi?}
+{104}{}{JÃ¡}
+{105}{}{Eh... vypadÃ¡Å¡ smutnÄ›. ProÄpak?}
+{106}{}{JÃ¡ teÄ jÃ­t.}
+{107}{}{Ahoj Ariel, jÃ¡ jsem}
+{108}{}{Ahoj. VypadÃ¡Å¡ nÄ›jak sklesle. Co se stalo?}
+{109}{}{NepotÅ™ebujeÅ¡ znÃ¡t moje jmÃ©no, ale jÃ¡ od tebe potÅ™ebuju pÃ¡r informacÃ­.}
+{110}{}{PromiÅˆ, teÄ na tebe nemÃ¡m Äas.}
+{111}{}{RÃ¡da tÄ› poznÃ¡vÃ¡m. S ÄÃ­m ti mÅ¯Å¾u pomoct?}
+{112}{}{OdpovÄ›dÄ›t otÃ¡zky?}
 {113}{}{Nic. Nashle.}
-{114}{}{Ty mi nemùeš pomoct. Nashle.}
-{115}{}{Chci se na nìco zeptat.}
-{116}{}{Nerad ruším tvoje rozjímání, ale mùu se tì na nìco zeptat?}
-{117}{}{Mám nìjaké osobní problémy. Nestojí to ani za øeè, opravdu.}
-{118}{}{Ty mluvit, já poslouchat. To pomáhat.}
-{119}{}{Dobøe. Nemluvit o problém. Odpovìdìt otázka?}
-{120}{}{Jsem dobrı posluchaè, Ariel, a povídání o èemkoli, co tì trápí, by ti mohlo pomoct.}
-{121}{}{Dobøe. Zapomeneme teï na problémy. Mùu se tì na nìco zeptat?}
-{122}{}{Kadı má problémy, enská. Nauè se s nimi vypoøádat.}
-{123}{}{Odpus, ale nemám èas na nìkoho, jako jsi ty. Pøeji hezkı den.}
+{114}{}{Ty mi nemÅ¯Å¾eÅ¡ pomoct. Nashle.}
+{115}{}{Chci se na nÄ›co zeptat.}
+{116}{}{Nerad ruÅ¡Ã­m tvoje rozjÃ­mÃ¡nÃ­, ale mÅ¯Å¾u se tÄ› na nÄ›co zeptat?}
+{117}{}{MÃ¡m nÄ›jakÃ© osobnÃ­ problÃ©my. NestojÃ­ to ani za Å™eÄ, opravdu.}
+{118}{}{Ty mluvit, jÃ¡ poslouchat. To pomÃ¡hat.}
+{119}{}{DobÅ™e. Nemluvit o problÃ©m. OdpovÄ›dÄ›t otÃ¡zka?}
+{120}{}{Jsem dobrÃ½ posluchaÄ, Ariel, a povÃ­dÃ¡nÃ­ o Äemkoli, co tÄ› trÃ¡pÃ­, by ti mohlo pomoct.}
+{121}{}{DobÅ™e. Zapomeneme teÄ na problÃ©my. MÅ¯Å¾u se tÄ› na nÄ›co zeptat?}
+{122}{}{KaÅ¾dÃ½ mÃ¡ problÃ©my, Å¾enskÃ¡. NauÄ se s nimi vypoÅ™Ã¡dat.}
+{123}{}{OdpusÅ¥, ale nemÃ¡m Äas na nÄ›koho, jako jsi ty. PÅ™eji hezkÃ½ den.}
 {124}{}{}
 {125}{}{}
-{126}{}{Tak dobøe.}
-{127}{}{Co chceš vìdìt?}
-{128}{}{Ty vìzeò?}
-{129}{}{Páraèi s ty zacházet dobøe?}
-{130}{}{Chtít odejít?}
-{131}{}{Tak proè ty smutná?}
+{126}{}{Tak dobÅ™e.}
+{127}{}{Co chceÅ¡ vÄ›dÄ›t?}
+{128}{}{Ty vÄ›zeÅˆ?}
+{129}{}{PÃ¡raÄi s ty zachÃ¡zet dobÅ™e?}
+{130}{}{ChtÃ­t odejÃ­t?}
+{131}{}{Tak proÄ ty smutnÃ¡?}
 {132}{}{Jak ty sem dostala?}
-{133}{}{Muset teï jít.}
-{134}{}{Jsi tu vìzeò?}
-{135}{}{Zachází s tebou páraèi dobøe?}
-{136}{}{Chtìla bys opustit vault?}
-{137}{}{Povìz, Ariel, proè jsi tak smutná?}
+{133}{}{Muset teÄ jÃ­t.}
+{134}{}{Jsi tu vÄ›zeÅˆ?}
+{135}{}{ZachÃ¡zÃ­ s tebou pÃ¡raÄi dobÅ™e?}
+{136}{}{ChtÄ›la bys opustit vault?}
+{137}{}{PovÄ›z, Ariel, proÄ jsi tak smutnÃ¡?}
 {138}{}{Jak ses dostala do Vaultu?}
-{139}{}{U musím jít.}
-{140}{}{Ne, mùu odejít kdy chci. Páraèi mi to dali jasnì najevo. Nikoho tu nedrí proti jeho vùli, alespoò co já vím.}
-{141}{}{Eh, dobøe.}
-{142}{}{Chápat. Já jít.}
+{139}{}{UÅ¾ musÃ­m jÃ­t.}
+{140}{}{Ne, mÅ¯Å¾u odejÃ­t kdy chci. PÃ¡raÄi mi to dali jasnÄ› najevo. Nikoho tu nedrÅ¾Ã­ proti jeho vÅ¯li, alespoÅˆ co jÃ¡ vÃ­m.}
+{141}{}{Eh, dobÅ™e.}
+{142}{}{ChÃ¡pat. JÃ¡ jÃ­t.}
 {143}{}{Aha.}
-{144}{}{Myslím, e leš, ty dìvko!}
-{145}{}{Chápu. Pokud by ti to nevadilo, chci se zeptat ještì na pár vìcí.}
-{146}{}{Ano. Poskytují mi jídlo, vodu, pøístøeší a ochranu. Cítím se tady bezpeènì a to je víc, ne bych si mohla kdy pøát.}
-{147}{}{Dobøe. Muset u jít.}
-{148}{}{Dobøe. Ptát další.}
-{149}{}{Aha. Chci se ještì na nìco zeptat.}
-{150}{}{Dobøe, tak teï nìco úplnì jiného.}
-{151}{}{No bezva. Ještìrkofil.}
-{152}{}{Uvaovala jsem o tom, ale musím øíct, e ne. Cítím se tu bezpeènìji ne kdekoliv jinde, kde jsem kdy ila. Stıská se mi po spoleènosti lidí, jako jsem já, ale doufám, e sem pøijdou další takoví lidé a moje potøeba tak bude ukojena.}
-{153}{}{Já jít. Pápá.}
-{154}{}{Øíct víc.}
-{155}{}{Bezva, pro mì za mì tady klidnì shnij.}
-{156}{}{Dobøe. Myslím, e u pùjdu.}
-{157}{}{Moc jsi mi pomohla, ale musím tì ještì obtìovat.}
-{158}{}{Mùj manel nedávno zemøel. Chybí mi a nedokáu se s tím vyrovnat. To je všechno.}
-{159}{}{Promiò, jak se to stát?}
-{160}{}{Jéje. Muset jít, slyšet volání Starší.}
-{161}{}{Upøímnou soustrast. Jak se to stalo?}
-{162}{}{To naštve. Ještì se uvidíme.}
-{163}{}{Tak u to chodí, e lidi chcípaj. Obvykle kdy jsem poblí já.}
-{164}{}{U jsem ti o tom nájezdu øíkala. Stalo se to pøi nìm.}
-{165}{}{Mùj manel a já jsme cestovali s karavanou do NCR. Chtìli jsme zaèít novı ivot pro sebe i naši dceru Sandy. Bohuel byla karavana jedné noci pøepadena nájezdníky. Byli neskuteènì brutální. Zabili kadého: mue, eny, dìti. Rand, mùj manel, zemøel, kdy se pokoušel ochránit mì a Sandy. U jsme mìly na kahánku, kdy se v poslední chvíli stal zázrak. }
-{166}{}{Eh... páni.}
-{167}{}{Já rád ty a malá v poøádek.}
-{168}{}{Já padat odsud. Ahoj.}
-{169}{}{Páni, to je ale pøíbìh.}
-{170}{}{Pìkná hromada brahmíních ho... musím jít.}
-{171}{}{Díky bohu, e jste obì v poøádku.}
-{172}{}{Zdravíèko, jak to jde?}
+{144}{}{MyslÃ­m, Å¾e lÅ¾eÅ¡, ty dÄ›vko!}
+{145}{}{ChÃ¡pu. Pokud by ti to nevadilo, chci se zeptat jeÅ¡tÄ› na pÃ¡r vÄ›cÃ­.}
+{146}{}{Ano. PoskytujÃ­ mi jÃ­dlo, vodu, pÅ™Ã­stÅ™eÅ¡Ã­ a ochranu. CÃ­tÃ­m se tady bezpeÄnÄ› a to je vÃ­c, neÅ¾ bych si mohla kdy pÅ™Ã¡t.}
+{147}{}{DobÅ™e. Muset uÅ¾ jÃ­t.}
+{148}{}{DobÅ™e. PtÃ¡t dalÅ¡Ã­.}
+{149}{}{Aha. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{150}{}{DobÅ™e, tak teÄ nÄ›co ÃºplnÄ› jinÃ©ho.}
+{151}{}{No bezva. JeÅ¡tÄ›rkofil.}
+{152}{}{UvaÅ¾ovala jsem o tom, ale musÃ­m Å™Ã­ct, Å¾e ne. CÃ­tÃ­m se tu bezpeÄnÄ›ji neÅ¾ kdekoliv jinde, kde jsem kdy Å¾ila. StÃ½skÃ¡ se mi po spoleÄnosti lidÃ­, jako jsem jÃ¡, ale doufÃ¡m, Å¾e sem pÅ™ijdou dalÅ¡Ã­ takovÃ­ lidÃ© a moje potÅ™eba tak bude ukojena.}
+{153}{}{JÃ¡ jÃ­t. PÃ¡pÃ¡.}
+{154}{}{Å˜Ã­ct vÃ­c.}
+{155}{}{Bezva, pro mÄ› za mÄ› tady klidnÄ› shnij.}
+{156}{}{DobÅ™e. MyslÃ­m, Å¾e uÅ¾ pÅ¯jdu.}
+{157}{}{Moc jsi mi pomohla, ale musÃ­m tÄ› jeÅ¡tÄ› obtÄ›Å¾ovat.}
+{158}{}{MÅ¯j manÅ¾el nedÃ¡vno zemÅ™el. ChybÃ­ mi a nedokÃ¡Å¾u se s tÃ­m vyrovnat. To je vÅ¡echno.}
+{159}{}{PromiÅˆ, jak se to stÃ¡t?}
+{160}{}{JÃ©je. Muset jÃ­t, slyÅ¡et volÃ¡nÃ­ StarÅ¡Ã­.}
+{161}{}{UpÅ™Ã­mnou soustrast. Jak se to stalo?}
+{162}{}{To naÅ¡tve. JeÅ¡tÄ› se uvidÃ­me.}
+{163}{}{Tak uÅ¾ to chodÃ­, Å¾e lidi chcÃ­paj. Obvykle kdyÅ¾ jsem poblÃ­Å¾ jÃ¡.}
+{164}{}{UÅ¾ jsem ti o tom nÃ¡jezdu Å™Ã­kala. Stalo se to pÅ™i nÄ›m.}
+{165}{}{MÅ¯j manÅ¾el a jÃ¡ jsme cestovali s karavanou do NCR. ChtÄ›li jsme zaÄÃ­t novÃ½ Å¾ivot pro sebe i naÅ¡i dceru Sandy. BohuÅ¾el byla karavana jednÃ© noci pÅ™epadena nÃ¡jezdnÃ­ky. Byli neskuteÄnÄ› brutÃ¡lnÃ­. Zabili kaÅ¾dÃ©ho: muÅ¾e, Å¾eny, dÄ›ti. Rand, mÅ¯j manÅ¾el, zemÅ™el, kdyÅ¾ se pokouÅ¡el ochrÃ¡nit mÄ› a Sandy. UÅ¾ jsme mÄ›ly na kahÃ¡nku, kdyÅ¾ se v poslednÃ­ chvÃ­li stal zÃ¡zrak. }
+{166}{}{Eh... pÃ¡ni.}
+{167}{}{JÃ¡ rÃ¡d ty a malÃ¡ v poÅ™Ã¡dek.}
+{168}{}{JÃ¡ padat odsud. Ahoj.}
+{169}{}{PÃ¡ni, to je ale pÅ™Ã­bÄ›h.}
+{170}{}{PÄ›knÃ¡ hromada brahmÃ­nÃ­ch ho... musÃ­m jÃ­t.}
+{171}{}{DÃ­ky bohu, Å¾e jste obÄ› v poÅ™Ã¡dku.}
+{172}{}{ZdravÃ­Äko, jak to jde?}
 {173}{}{}
 {174}{}{}
-{175}{}{Vypadni, grázle! Nechci s tebou nic mít.}
-{176}{}{Táhni, dìvko! Nemám ti co øíct.}
+{175}{}{Vypadni, grÃ¡zle! Nechci s tebou nic mÃ­t.}
+{176}{}{TÃ¡hni, dÄ›vko! NemÃ¡m ti co Å™Ã­ct.}
 {177}{}{Nashle.}
 {178}{}{.}
-{179}{}{. Ano, jsem tu teprve chvíli.}
-{180}{}{Drela jsem Sandy za zády, aby byla co nejdál od toho monstra, co zastøelilo Randa. Stál hned vedle jeho mrtvoly a zaèal se smát, kdy mi namíøil svoji zbraò na hlavu. Náhle se ze tmy vynoøil obrovskı paøát, chytil ho zezadu a... no, díky bohu, e Sandy nevidìla, co se stalo potom. Kadopádnì, nájezdníci byli vyhlazeni skupinou tìchto páraèù. Ten, co zachránil mì i Sandy, stál vedle mì a mluvil se mnou. Neustále mì ujišoval, e jsem v bezpeèí a e je mu líto, e nemohli pøijít døív, aby nám pomohli. Potom nás vzali sem.}
+{179}{}{. Ano, jsem tu teprve chvÃ­li.}
+{180}{}{DrÅ¾ela jsem Sandy za zÃ¡dy, aby byla co nejdÃ¡l od toho monstra, co zastÅ™elilo Randa. StÃ¡l hned vedle jeho mrtvoly a zaÄal se smÃ¡t, kdyÅ¾ mi namÃ­Å™il svoji zbraÅˆ na hlavu. NÃ¡hle se ze tmy vynoÅ™il obrovskÃ½ paÅ™Ã¡t, chytil ho zezadu a... no, dÃ­ky bohu, Å¾e Sandy nevidÄ›la, co se stalo potom. KaÅ¾dopÃ¡dnÄ›, nÃ¡jezdnÃ­ci byli vyhlazeni skupinou tÄ›chto pÃ¡raÄÅ¯. Ten, co zachrÃ¡nil mÄ› i Sandy, stÃ¡l vedle mÄ› a mluvil se mnou. NeustÃ¡le mÄ› ujiÅ¡Å¥oval, Å¾e jsem v bezpeÄÃ­ a Å¾e je mu lÃ­to, Å¾e nemohli pÅ™ijÃ­t dÅ™Ã­v, aby nÃ¡m pomohli. Potom nÃ¡s vzali sem.}

@@ -1,51 +1,51 @@
-{100}{}{Vidíš osobu, její pokoka byla velmi škaredì popálena.}
-{101}{}{Vidíš ghoulího obèana Gecka.}
-{102}{}{Vidíš osobu, její pokoka byla popálena radiací. Tak vysoká radiace by ho mìla zabít, ale vypadá to, e je v pohodì.}
-{110}{}{Ahoj. Potøebuješ nìjaké vybavení?}
-{111}{}{Jestli potøebuješ nìjaké vybavení, budeš potøebovat ádanku.}
-{112}{}{Jestli nìco potøebuješ, promluv si radìji s Jeremym.}
-{113}{}{Jeremy se stará o všechny poadavky na vybavení.}
-{114}{}{Radši si promluv s Jeremym. Nesnáší, kdy si lidi berou vìci za jeho zády.}
-{115}{}{Nemùu ti pomoct, dokud si nejdøív nepromluvíš s Jeremym.}
-{116}{}{Promluv si s Jeremym. Znáš pravidla.}
-{120}{}{Myslím, e jsou nìkterı kontrolky rozbitı.}
-{121}{}{Prostì kopnu do tohodle panelu, aby to zase zaèalo fungovat.}
-{122}{}{Pochybuju, e tahle mašina nìkdy fungovala správnì.}
-{123}{}{Jsem pyšnı na to, e jsem stráce reaktoru.}
-{124}{}{Nejlíp se cítím, kdy všechny kontrolky svítí èervenì.}
-{125}{}{Doufám, e brzo pøijde nová dodávka uranu z Broken Hills.}
-{126}{}{Zaèíná nám docházet uran.}
-{127}{}{Vyuívám sílu atomu. Co dìláš ty?}
-{128}{}{Zaèíná tu bıt pìknı vedro.}
-{129}{}{Po nìjakı dobì se u ani nemusíš dívat na kontrolky.}
-{130}{}{To je nuda... ádná z tìch kontrolek nefunguje.}
-{131}{}{Únik radiace? Jakej únik?}
-{140}{}{Tohle je nejlepší místo pro ivot v celım Gecku.}
-{141}{}{Nic nezahøeje tyhle starı kosti tak jako poøádná dávka rentgenù.}
-{142}{}{Mmm, poøád je tu takovı horko... a to mám rád.}
-{143}{}{Jsem pøekvapenej, e tì tu vidím, hezoune.}
-{144}{}{Vìtšina hezounù se bojí sebemenšího ozáøení radiací.}
-{145}{}{Den bez úniku radiace je jako den bez slunce.}
-{146}{}{Jsem rád, e jsem tady zùstal.}
-{147}{}{Domove, sladkı domove...}
-{148}{}{Bez tohohle reaktoru by tu všichni zemøeli.}
-{149}{}{Doufám, e nás lidi z Vault City všechny nepozabíjí.}
-{150}{}{Díky, díky a ještì jednou díky.}
-{151}{}{Díky za opravu našeho reaktoru.}
-{152}{}{Náš domov je teï díky tobì bezpeènı.}
-{153}{}{Náš reaktor teï pøede jako koèka. Díky.}
-{154}{}{Reaktor teï funguje mnohem líp.}
-{160}{}{Nemùu uvìøit, e nám Vault City pomohlo.}
-{161}{}{Díky za to, e teï náš reaktor bìí tak dobøe.}
-{162}{}{Jsem rád, e reaktor pracuje líp.}
-{163}{}{Je to tu poslední dobou èím dál tím lepší.}
-{164}{}{Nemáš pocit, e je tu nìjaká zima?}
-{170}{}{Co se tu sakra poøád plííš?}
-{171}{}{Ehm, poøád tì vidím.}
-{172}{}{Vdycky chodíš takhle divnì?}
-{173}{}{Mám pocit, e slyším dupat slona... aha, to jsi ty.}
-{174}{}{Sledujeme tì, hezoune.}
-{175}{}{Doufám, e nechceš provıst nìjakou lumpárnu.}
-{176}{}{Jestli se tu nìco stane, budeš první, po kom pùjdeme.}
-{177}{}{Stráe! Je tu nìjakej hezoun, kterej se pokouší proklouznout.}
-{178}{}{Urèitì máš nìco za lubem.}
+{100}{}{VidÃ­Å¡ osobu, jejÃ­Å¾ pokoÅ¾ka byla velmi Å¡karedÄ› popÃ¡lena.}
+{101}{}{VidÃ­Å¡ ghoulÃ­ho obÄana Gecka.}
+{102}{}{VidÃ­Å¡ osobu, jejÃ­Å¾ pokoÅ¾ka byla popÃ¡lena radiacÃ­. Tak vysokÃ¡ radiace by ho mÄ›la zabÃ­t, ale vypadÃ¡ to, Å¾e je v pohodÄ›.}
+{110}{}{Ahoj. PotÅ™ebujeÅ¡ nÄ›jakÃ© vybavenÃ­?}
+{111}{}{Jestli potÅ™ebujeÅ¡ nÄ›jakÃ© vybavenÃ­, budeÅ¡ potÅ™ebovat Å¾Ã¡danku.}
+{112}{}{Jestli nÄ›co potÅ™ebujeÅ¡, promluv si radÄ›ji s Jeremym.}
+{113}{}{Jeremy se starÃ¡ o vÅ¡echny poÅ¾adavky na vybavenÃ­.}
+{114}{}{RadÅ¡i si promluv s Jeremym. NesnÃ¡Å¡Ã­, kdyÅ¾ si lidi berou vÄ›ci za jeho zÃ¡dy.}
+{115}{}{NemÅ¯Å¾u ti pomoct, dokud si nejdÅ™Ã­v nepromluvÃ­Å¡ s Jeremym.}
+{116}{}{Promluv si s Jeremym. ZnÃ¡Å¡ pravidla.}
+{120}{}{MyslÃ­m, Å¾e jsou nÄ›kterÃ½ kontrolky rozbitÃ½.}
+{121}{}{ProstÄ› kopnu do tohodle panelu, aby to zase zaÄalo fungovat.}
+{122}{}{Pochybuju, Å¾e tahle maÅ¡ina nÄ›kdy fungovala sprÃ¡vnÄ›.}
+{123}{}{Jsem pyÅ¡nÃ½ na to, Å¾e jsem strÃ¡Å¾ce reaktoru.}
+{124}{}{NejlÃ­p se cÃ­tÃ­m, kdyÅ¾ vÅ¡echny kontrolky svÃ­tÃ­ ÄervenÄ›.}
+{125}{}{DoufÃ¡m, Å¾e brzo pÅ™ijde novÃ¡ dodÃ¡vka uranu z Broken Hills.}
+{126}{}{ZaÄÃ­nÃ¡ nÃ¡m dochÃ¡zet uran.}
+{127}{}{VyuÅ¾Ã­vÃ¡m sÃ­lu atomu. Co dÄ›lÃ¡Å¡ ty?}
+{128}{}{ZaÄÃ­nÃ¡ tu bÃ½t pÄ›knÃ½ vedro.}
+{129}{}{Po nÄ›jakÃ½ dobÄ› se uÅ¾ ani nemusÃ­Å¡ dÃ­vat na kontrolky.}
+{130}{}{To je nuda... Å¾Ã¡dnÃ¡ z tÄ›ch kontrolek nefunguje.}
+{131}{}{Ãšnik radiace? Jakej Ãºnik?}
+{140}{}{Tohle je nejlepÅ¡Ã­ mÃ­sto pro Å¾ivot v celÃ½m Gecku.}
+{141}{}{Nic nezahÅ™eje tyhle starÃ½ kosti tak jako poÅ™Ã¡dnÃ¡ dÃ¡vka rentgenÅ¯.}
+{142}{}{Mmm, poÅ™Ã¡d je tu takovÃ½ horko... a to mÃ¡m rÃ¡d.}
+{143}{}{Jsem pÅ™ekvapenej, Å¾e tÄ› tu vidÃ­m, hezoune.}
+{144}{}{VÄ›tÅ¡ina hezounÅ¯ se bojÃ­ sebemenÅ¡Ã­ho ozÃ¡Å™enÃ­ radiacÃ­.}
+{145}{}{Den bez Ãºniku radiace je jako den bez slunce.}
+{146}{}{Jsem rÃ¡d, Å¾e jsem tady zÅ¯stal.}
+{147}{}{Domove, sladkÃ½ domove...}
+{148}{}{Bez tohohle reaktoru by tu vÅ¡ichni zemÅ™eli.}
+{149}{}{DoufÃ¡m, Å¾e nÃ¡s lidi z Vault City vÅ¡echny nepozabÃ­jÃ­.}
+{150}{}{DÃ­ky, dÃ­ky a jeÅ¡tÄ› jednou dÃ­ky.}
+{151}{}{DÃ­ky za opravu naÅ¡eho reaktoru.}
+{152}{}{NÃ¡Å¡ domov je teÄ dÃ­ky tobÄ› bezpeÄnÃ½.}
+{153}{}{NÃ¡Å¡ reaktor teÄ pÅ™ede jako koÄka. DÃ­ky.}
+{154}{}{Reaktor teÄ funguje mnohem lÃ­p.}
+{160}{}{NemÅ¯Å¾u uvÄ›Å™it, Å¾e nÃ¡m Vault City pomohlo.}
+{161}{}{DÃ­ky za to, Å¾e teÄ nÃ¡Å¡ reaktor bÄ›Å¾Ã­ tak dobÅ™e.}
+{162}{}{Jsem rÃ¡d, Å¾e reaktor pracuje lÃ­p.}
+{163}{}{Je to tu poslednÃ­ dobou ÄÃ­m dÃ¡l tÃ­m lepÅ¡Ã­.}
+{164}{}{NemÃ¡Å¡ pocit, Å¾e je tu nÄ›jakÃ¡ zima?}
+{170}{}{Co se tu sakra poÅ™Ã¡d plÃ­Å¾Ã­Å¡?}
+{171}{}{Ehm, poÅ™Ã¡d tÄ› vidÃ­m.}
+{172}{}{VÅ¾dycky chodÃ­Å¡ takhle divnÄ›?}
+{173}{}{MÃ¡m pocit, Å¾e slyÅ¡Ã­m dupat slona... aha, to jsi ty.}
+{174}{}{Sledujeme tÄ›, hezoune.}
+{175}{}{DoufÃ¡m, Å¾e nechceÅ¡ provÃ½st nÄ›jakou lumpÃ¡rnu.}
+{176}{}{Jestli se tu nÄ›co stane, budeÅ¡ prvnÃ­, po kom pÅ¯jdeme.}
+{177}{}{StrÃ¡Å¾e! Je tu nÄ›jakej hezoun, kterej se pokouÅ¡Ã­ proklouznout.}
+{178}{}{UrÄitÄ› mÃ¡Å¡ nÄ›co za lubem.}

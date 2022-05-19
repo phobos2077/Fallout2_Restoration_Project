@@ -1,14 +1,14 @@
-{100}{}{Nemáš tušení, jak by se dal tento emitor pouít.}
-{101}{}{Nemáš tušení, jak by se dalo toto silové pole pouít.}
-{102}{}{Dostáváš ránu zeslabenım silovım polem.}
-{103}{}{ dostává ránu zeslabenım silovım polem.}
-{107}{}{Dostáváš ránu silovım polem.}
-{108}{}{ dostává ránu silovım polem.}
-{109}{}{Nepodaøilo se ti oslabit silové pole.}
-{110}{}{ neúspìšnì oslabuje silové pole.}
-{111}{}{Z reproduktorù slyšíš: Pozor! Vetøelec! Aktivování bezpeènostního systému.}
-{112}{}{Silové pole deaktivováno.}
-{113}{}{ vypne silové pole.}
-{114}{}{Silové pole aktivováno.}
-{115}{}{ zapne silové pole.}
-{116}{}{Emitor silového pole byl znièen.}
+{100}{}{NemÃ¡Å¡ tuÅ¡enÃ­, jak by se dal tento emitor pouÅ¾Ã­t.}
+{101}{}{NemÃ¡Å¡ tuÅ¡enÃ­, jak by se dalo toto silovÃ© pole pouÅ¾Ã­t.}
+{102}{}{DostÃ¡vÃ¡Å¡ rÃ¡nu zeslabenÃ½m silovÃ½m polem.}
+{103}{}{ dostÃ¡vÃ¡ rÃ¡nu zeslabenÃ½m silovÃ½m polem.}
+{107}{}{DostÃ¡vÃ¡Å¡ rÃ¡nu silovÃ½m polem.}
+{108}{}{ dostÃ¡vÃ¡ rÃ¡nu silovÃ½m polem.}
+{109}{}{NepodaÅ™ilo se ti oslabit silovÃ© pole.}
+{110}{}{ neÃºspÄ›Å¡nÄ› oslabuje silovÃ© pole.}
+{111}{}{Z reproduktorÅ¯ slyÅ¡Ã­Å¡: Pozor! VetÅ™elec! AktivovÃ¡nÃ­ bezpeÄnostnÃ­ho systÃ©mu.}
+{112}{}{SilovÃ© pole deaktivovÃ¡no.}
+{113}{}{ vypne silovÃ© pole.}
+{114}{}{SilovÃ© pole aktivovÃ¡no.}
+{115}{}{ zapne silovÃ© pole.}
+{116}{}{Emitor silovÃ©ho pole byl zniÄen.}

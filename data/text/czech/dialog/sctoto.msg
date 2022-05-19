@@ -1,6 +1,6 @@
-{100}{}{Vidíš velkého robota s náøadím a dalšími vìcmi.}
-{101}{}{To je Toto, Dorotin údrbáøskı robot.}
-{102}{}{Je to robot, údrbáøskı model.}
-{103}{}{Bzzz... òaf, òaf!... bzzk. Klap... òaf!}
+{100}{}{VidÃ­Å¡ velkÃ©ho robota s nÃ¡Å™adÃ­m a dalÅ¡Ã­mi vÄ›cmi.}
+{101}{}{To je Toto, Dorotin ÃºdrÅ¾bÃ¡Å™skÃ½ robot.}
+{102}{}{Je to robot, ÃºdrÅ¾bÃ¡Å™skÃ½ model.}
+{103}{}{Bzzz... Åˆaf, Åˆaf!... bzzk. Klap... Åˆaf!}
 {104}{}{Haf. Haf.}
 {105}{}{(Klap, klap) Bzz... haf. Vrrrrrr.}

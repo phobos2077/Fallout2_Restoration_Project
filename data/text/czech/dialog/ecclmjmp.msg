@@ -1,6 +1,6 @@
-{100}{}{Vidíš zlodìje pùdy.}
-{101}{}{Byli jsme tady první.}
-{102}{}{Jdi si ukrást jinou pùdu.}
-{103}{}{Další záøez na pistoli.}
-{104}{}{Teï u tì nemùu nechat odejít.}
-{105}{}{Vidìl jsi pøíliš mnoho.}
+{100}{}{VidÃ­Å¡ zlodÄ›je pÅ¯dy.}
+{101}{}{Byli jsme tady prvnÃ­.}
+{102}{}{Jdi si ukrÃ¡st jinou pÅ¯du.}
+{103}{}{DalÅ¡Ã­ zÃ¡Å™ez na pistoli.}
+{104}{}{TeÄ uÅ¾ tÄ› nemÅ¯Å¾u nechat odejÃ­t.}
+{105}{}{VidÄ›l jsi pÅ™Ã­liÅ¡ mnoho.}

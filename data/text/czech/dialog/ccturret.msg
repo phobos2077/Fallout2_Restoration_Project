@@ -1,3 +1,3 @@
-{100}{}{Plazmová vì.}
-{101}{}{Mk II plazmová vì.}
-{102}{}{Nápis na vìi varuje, e neodborná manipulace znamená ve vìtšinì pøípadù smrt.}
+{100}{}{PlazmovÃ¡ vÄ›Å¾.}
+{101}{}{Mk II plazmovÃ¡ vÄ›Å¾.}
+{102}{}{NÃ¡pis na vÄ›Å¾i varuje, Å¾e neodbornÃ¡ manipulace znamenÃ¡ ve vÄ›tÅ¡inÄ› pÅ™Ã­padÅ¯ smrt.}

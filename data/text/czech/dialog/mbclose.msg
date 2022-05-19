@@ -1,1 +1,1 @@
-{100}{}{Vstupuješ na místo s nìkolika opuštìnımi stany. Slyšíš vytí ve vìtru.}
+{100}{}{VstupujeÅ¡ na mÃ­sto s nÄ›kolika opuÅ¡tÄ›nÃ½mi stany. SlyÅ¡Ã­Å¡ vytÃ­ ve vÄ›tru.}

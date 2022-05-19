@@ -1,54 +1,54 @@
-{100}{}{Vidíš osobu v èerné zbroji z kùe, která v rukou tøímá pìknı kanón a vypadá znaènì vztekle.}
-{101}{}{Vidíš }
-{102}{}{Vidíš zpoceného a zaprášeného stráce karavany. Øíkáš si, e obchodní cesty jsou dnes opravdu velmi nebezpeèné.}
-{103}{}{Mùu ti nìjak pomoct?}
-{104}{}{Co e to?}
-{105}{}{Já pracovat tady!}
-{106}{}{Ano, hledám správce karavany.}
-{107}{}{Zajímalo by mì, jestli se mùu zeptat na Chada.}
+{100}{}{VidÃ­Å¡ osobu v ÄernÃ© zbroji z kÅ¯Å¾e, kterÃ¡ v rukou tÅ™Ã­mÃ¡ pÄ›knÃ½ kanÃ³n a vypadÃ¡ znaÄnÄ› vztekle.}
+{101}{}{VidÃ­Å¡ }
+{102}{}{VidÃ­Å¡ zpocenÃ©ho a zaprÃ¡Å¡enÃ©ho strÃ¡Å¾ce karavany. Å˜Ã­kÃ¡Å¡ si, Å¾e obchodnÃ­ cesty jsou dnes opravdu velmi nebezpeÄnÃ©.}
+{103}{}{MÅ¯Å¾u ti nÄ›jak pomoct?}
+{104}{}{Co Å¾e to?}
+{105}{}{JÃ¡ pracovat tady!}
+{106}{}{Ano, hledÃ¡m sprÃ¡vce karavany.}
+{107}{}{ZajÃ­malo by mÄ›, jestli se mÅ¯Å¾u zeptat na Chada.}
 {108}{}{Kdo jsi?}
-{109}{}{Je mi líto Chada. Kdo je tady novı šéf?}
-{110}{}{Ne, díky.}
-{111}{}{Jestli hledáš práci, tak si promluv s Billem. Je uvnitø. UVNITØ. Moná ti bude rozumìt. Hodnì štìstí!}
+{109}{}{Je mi lÃ­to Chada. Kdo je tady novÃ½ Å¡Ã©f?}
+{110}{}{Ne, dÃ­ky.}
+{111}{}{Jestli hledÃ¡Å¡ prÃ¡ci, tak si promluv s Billem. Je uvnitÅ™. UVNITÅ˜. MoÅ¾nÃ¡ ti bude rozumÄ›t. HodnÄ› Å¡tÄ›stÃ­!}
 {112}{}{Duhhhh...}
 {113}{}{To bude }
 {114}{}{Ano.}
 {115}{}{Ne.}
-{116}{}{Ty máš otázky, já mám odpovìdi. Co chceš vìdìt?}
-{117}{}{Jakı je?}
-{118}{}{Je dùvìryhodnı?}
-{119}{}{Odkud získává peníze?}
-{120}{}{Co o nìm víš?}
-{121}{}{Zapomeò na to. Uvidíme se pozdìji.}
-{122}{}{Já? Jsem }
-{123}{}{Tobì je líto Chada? Ha! Dobøe jsi na nìm vydìlal, co? Novım šéfem je }
+{116}{}{Ty mÃ¡Å¡ otÃ¡zky, jÃ¡ mÃ¡m odpovÄ›di. Co chceÅ¡ vÄ›dÄ›t?}
+{117}{}{JakÃ½ je?}
+{118}{}{Je dÅ¯vÄ›ryhodnÃ½?}
+{119}{}{Odkud zÃ­skÃ¡vÃ¡ penÃ­ze?}
+{120}{}{Co o nÄ›m vÃ­Å¡?}
+{121}{}{ZapomeÅˆ na to. UvidÃ­me se pozdÄ›ji.}
+{122}{}{JÃ¡? Jsem }
+{123}{}{TobÄ› je lÃ­to Chada? Ha! DobÅ™e jsi na nÄ›m vydÄ›lal, co? NovÃ½m Å¡Ã©fem je }
 {124}{}{Nashle.}
-{125}{}{V tom pøípadì si promluv s Billem, obchodníkem z Broken Hills. On ti pomùe.}
-{126}{}{Díky.}
-{127}{}{Dobøe. Tak zatím.}
-{128}{}{Jakı je? No, je pøátelskı, ale drsnı. Je dobrı šéf a vìtšinou i spravedlivı. Nejedná s náma špatnì, jestli ti jde o tohle. Další otázky?}
-{129}{}{Vdycky jsem si tak nìjak myslel, e to má v sobì... a to hodnì. Víš, není to zrovna nìco, na co se èlovìka bìnì ptáš. Další otázky?}
-{130}{}{No, je trochu záhadnı, ale... kdo dnes není. Další otázky?}
-{131}{}{Nic o nìm nevím. Chci øíct, vìtšina strácù karavany jsou nìjací odpadlíci hledající práci. Øekl bych, e je to jen další èlovìk, kterı musel narychlo opustit svoje místo. Další otázky?}
-{132}{}{Protoe já jsem novı šéf, jsem asi jedinı, kdo k tobì necítí nenávist. Co pro tebe mùu udìlat?}
-{133}{}{Hledám práci.}
-{134}{}{Taky si pro sebe nìco uléváš?}
-{135}{}{Kdy odjídí další karavana?}
-{136}{}{Nic, díky.}
-{137}{}{Zeptej se Billa, jako vdycky.}
-{138}{}{Dobøe.}
-{139}{}{Potom, co se stalo Chadovi? Myslím, e ne. Ještì nìco?}
-{140}{}{Jsme na místì. Tady máš svıch $500. Jestli se chceš vrátit, odjídíme na sklonku dne. Vydìláš si peníze i na zpáteèní cestì.}
-{141}{}{Zatím.}
-{142}{}{Mùeme vyrazit?}
-{143}{}{Díky. Tady máš $500. Jestli chceš další práci, zeptej se Billa.}
-{144}{}{Ty hnusnej sráèi! Teï chcípneš!}
+{125}{}{V tom pÅ™Ã­padÄ› si promluv s Billem, obchodnÃ­kem z Broken Hills. On ti pomÅ¯Å¾e.}
+{126}{}{DÃ­ky.}
+{127}{}{DobÅ™e. Tak zatÃ­m.}
+{128}{}{JakÃ½ je? No, je pÅ™Ã¡telskÃ½, ale drsnÃ½. Je dobrÃ½ Å¡Ã©f a vÄ›tÅ¡inou i spravedlivÃ½. NejednÃ¡ s nÃ¡ma Å¡patnÄ›, jestli ti jde o tohle. DalÅ¡Ã­ otÃ¡zky?}
+{129}{}{VÅ¾dycky jsem si tak nÄ›jak myslel, Å¾e to mÃ¡ v sobÄ›... a to hodnÄ›. VÃ­Å¡, nenÃ­ to zrovna nÄ›co, na co se ÄlovÄ›ka bÄ›Å¾nÄ› ptÃ¡Å¡. DalÅ¡Ã­ otÃ¡zky?}
+{130}{}{No, je trochu zÃ¡hadnÃ½, ale... kdo dnes nenÃ­. DalÅ¡Ã­ otÃ¡zky?}
+{131}{}{Nic o nÄ›m nevÃ­m. Chci Å™Ã­ct, vÄ›tÅ¡ina strÃ¡Å¾cÅ¯ karavany jsou nÄ›jacÃ­ odpadlÃ­ci hledajÃ­cÃ­ prÃ¡ci. Å˜ekl bych, Å¾e je to jen dalÅ¡Ã­ ÄlovÄ›k, kterÃ½ musel narychlo opustit svoje mÃ­sto. DalÅ¡Ã­ otÃ¡zky?}
+{132}{}{ProtoÅ¾e jÃ¡ jsem novÃ½ Å¡Ã©f, jsem asi jedinÃ½, kdo k tobÄ› necÃ­tÃ­ nenÃ¡vist. Co pro tebe mÅ¯Å¾u udÄ›lat?}
+{133}{}{HledÃ¡m prÃ¡ci.}
+{134}{}{Taky si pro sebe nÄ›co ulÃ©vÃ¡Å¡?}
+{135}{}{Kdy odjÃ­Å¾dÃ­ dalÅ¡Ã­ karavana?}
+{136}{}{Nic, dÃ­ky.}
+{137}{}{Zeptej se Billa, jako vÅ¾dycky.}
+{138}{}{DobÅ™e.}
+{139}{}{Potom, co se stalo Chadovi? MyslÃ­m, Å¾e ne. JeÅ¡tÄ› nÄ›co?}
+{140}{}{Jsme na mÃ­stÄ›. Tady mÃ¡Å¡ svÃ½ch $500. Jestli se chceÅ¡ vrÃ¡tit, odjÃ­Å¾dÃ­me na sklonku dne. VydÄ›lÃ¡Å¡ si penÃ­ze i na zpÃ¡teÄnÃ­ cestÄ›.}
+{141}{}{ZatÃ­m.}
+{142}{}{MÅ¯Å¾eme vyrazit?}
+{143}{}{DÃ­ky. Tady mÃ¡Å¡ $500. Jestli chceÅ¡ dalÅ¡Ã­ prÃ¡ci, zeptej se Billa.}
+{144}{}{Ty hnusnej srÃ¡Äi! TeÄ chcÃ­pneÅ¡!}
 {145}{}{Umm...}
-{150}{}{, stráce karavany.}
-{151}{}{. Jsem strace Billovıch karavan. Ještì nìco?}
+{150}{}{, strÃ¡Å¾ce karavany.}
+{151}{}{. Jsem straÅ¾ce BillovÃ½ch karavan. JeÅ¡tÄ› nÄ›co?}
 {152}{}{.}
-{153}{}{. Nìkde tady urèitì bude. Hledáš práci?}
-{154}{}{. Hodnì štìstí v práci. Kreténe.}
+{153}{}{. NÄ›kde tady urÄitÄ› bude. HledÃ¡Å¡ prÃ¡ci?}
+{154}{}{. HodnÄ› Å¡tÄ›stÃ­ v prÃ¡ci. KretÃ©ne.}
 {200}{}{Chad}
 {201}{}{Hatch}
 {202}{}{Stark}

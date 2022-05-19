@@ -1,338 +1,338 @@
-{100}{}{Vidíš poèítaèovı terminál.}
-{101}{}{Vidíš terminál poèítaèe Císaø.}
-{102}{}{Vídíš poèítaè se zabudovanou dotykovou obrazovkou, která slouí jako rozhraní. Na boku má vyryto "Císaø v8.8 Poèítaèovı Terminál".}
-{103}{}{Zdravím. Prosím zadejte heslo pro ovìøení totonosti.}
+{100}{}{VidÃ­Å¡ poÄÃ­taÄovÃ½ terminÃ¡l.}
+{101}{}{VidÃ­Å¡ terminÃ¡l poÄÃ­taÄe CÃ­saÅ™.}
+{102}{}{VÃ­dÃ­Å¡ poÄÃ­taÄ se zabudovanou dotykovou obrazovkou, kterÃ¡ slouÅ¾Ã­ jako rozhranÃ­. Na boku mÃ¡ vyryto "CÃ­saÅ™ v8.8 PoÄÃ­taÄovÃ½ TerminÃ¡l".}
+{103}{}{ZdravÃ­m. ProsÃ­m zadejte heslo pro ovÄ›Å™enÃ­ totoÅ¾nosti.}
 {104}{}{::slintat::}
 {105}{}{CSPDMSHR-Shih-huang-ti-X9372}
 {106}{}{KSLJKJ:Ken-Lee-97313}
 {107}{}{TIUASPO-Lo-Shi-S12908}
-{108}{}{::hacknout se do poèítaèe::}
-{109}{}{Odhlásit se.}
+{108}{}{::hacknout se do poÄÃ­taÄe::}
+{109}{}{OdhlÃ¡sit se.}
 {110}{}{Identita potvrzena.}
-{111}{}{Kterou funkci si pøejete zpøístupnit?}
-{112}{}{Diagnostické funkce.}
-{113}{}{Databáze.}
-{114}{}{Pøedpovìdi.}
-{115}{}{Odhlásit se.}
-{116}{}{Prosím, obrate se na správce systému. Nashledanou.}
-{117}{}{::hacknout se do poèítaèe::}
-{118}{}{::odejít::}
-{119}{}{Zaznamenán nepovolenı pøístup. Automatické vypnutí. Pøeji hezkı den.}
+{111}{}{Kterou funkci si pÅ™ejete zpÅ™Ã­stupnit?}
+{112}{}{DiagnostickÃ© funkce.}
+{113}{}{DatabÃ¡ze.}
+{114}{}{PÅ™edpovÄ›di.}
+{115}{}{OdhlÃ¡sit se.}
+{116}{}{ProsÃ­m, obraÅ¥te se na sprÃ¡vce systÃ©mu. Nashledanou.}
+{117}{}{::hacknout se do poÄÃ­taÄe::}
+{118}{}{::odejÃ­t::}
+{119}{}{ZaznamenÃ¡n nepovolenÃ½ pÅ™Ã­stup. AutomatickÃ© vypnutÃ­. PÅ™eji hezkÃ½ den.}
 {120}{}{[KONEC]}
-{121}{}{Diagnostické funkce?}
-{122}{}{Procházet sí.}
-{123}{}{Zformátovat disk.}
-{124}{}{Zkontrolovat integritu pevného disku.}
-{125}{}{Zpìt.}
-{126}{}{Kterou databázi si pøejete provìøit?}
+{121}{}{DiagnostickÃ© funkce?}
+{122}{}{ProchÃ¡zet sÃ­Å¥.}
+{123}{}{ZformÃ¡tovat disk.}
+{124}{}{Zkontrolovat integritu pevnÃ©ho disku.}
+{125}{}{ZpÄ›t.}
+{126}{}{Kterou databÃ¡zi si pÅ™ejete provÄ›Å™it?}
 {127}{}{Biologie.}
 {128}{}{Chemie.}
 {129}{}{Fyzika.}
 {130}{}{Historie.}
-{131}{}{Zpìt.}
-{132}{}{Dìti mìsta Shi jsou v nebezpeèí. Je 50% pravdìpodobnost, e se mezi nimi pohybuje vrah.}
-{133}{}{Ve mìstì Shi se objevilo nebezpeèí. Je 75% pravdìpodobnost, e nìkdo pøijde k úrazu.}
-{134}{}{Start Hubologistù do vesmíru z 95% zkrachuje. Faktory: bez paliva, nevhodné tìsnìní, špatné vedení, nedostatek iniciativy.}
-{135}{}{Je 15% pravdìpodobnost, e urèenı "Vyvolenı" uspìje ve svém úkolu.}
-{136}{}{Fakta naznaèují, e je "Enkláva" mnohem silnìjší ne se pùvodnì pøedpokládalo; nepøibliovat se.}
-{137}{}{Pravdìpodobnost, e se v této høe opìt objeví ponorka: 100%}
-{138}{}{Tuláci v tankeru mají pravdìpodobnost 0%, e vyèistí zamoøení pøíšerami bez cizí pomoci. Zpracovávám vhodnost poskytnutí pomoci.}
-{139}{}{Fakt: Ropnı tanker Poseidon nevhodnı pro cestu. Vyaduji více informací.}
-{140}{}{ádné procesy. Vyaduji vstup.}
-{141}{}{[Více]}
-{142}{}{Zpìt.}
-{143}{}{Biologická stanice: Aktivní}
-{144}{}{Biologická stanice: Neaktivní}
-{145}{}{Chemická stanice: Aktivní}
-{146}{}{Chemická stanice: Neaktivní}
-{147}{}{Fyzikální stanice: Aktivní}
-{148}{}{Fyzikální stanice: Neaktivní}
+{131}{}{ZpÄ›t.}
+{132}{}{DÄ›ti mÄ›sta Shi jsou v nebezpeÄÃ­. Je 50% pravdÄ›podobnost, Å¾e se mezi nimi pohybuje vrah.}
+{133}{}{Ve mÄ›stÄ› Shi se objevilo nebezpeÄÃ­. Je 75% pravdÄ›podobnost, Å¾e nÄ›kdo pÅ™ijde k Ãºrazu.}
+{134}{}{Start HubologistÅ¯ do vesmÃ­ru z 95% zkrachuje. Faktory: bez paliva, nevhodnÃ© tÄ›snÄ›nÃ­, Å¡patnÃ© vedenÃ­, nedostatek iniciativy.}
+{135}{}{Je 15% pravdÄ›podobnost, Å¾e urÄenÃ½ "VyvolenÃ½" uspÄ›je ve svÃ©m Ãºkolu.}
+{136}{}{Fakta naznaÄujÃ­, Å¾e je "EnklÃ¡va" mnohem silnÄ›jÅ¡Ã­ neÅ¾ se pÅ¯vodnÄ› pÅ™edpoklÃ¡dalo; nepÅ™ibliÅ¾ovat se.}
+{137}{}{PravdÄ›podobnost, Å¾e se v tÃ©to hÅ™e opÄ›t objevÃ­ ponorka: 100%}
+{138}{}{TulÃ¡ci v tankeru majÃ­ pravdÄ›podobnost 0%, Å¾e vyÄistÃ­ zamoÅ™enÃ­ pÅ™Ã­Å¡erami bez cizÃ­ pomoci. ZpracovÃ¡vÃ¡m vhodnost poskytnutÃ­ pomoci.}
+{139}{}{Fakt: RopnÃ½ tanker Poseidon nevhodnÃ½ pro cestu. VyÅ¾aduji vÃ­ce informacÃ­.}
+{140}{}{Å½Ã¡dnÃ© procesy. VyÅ¾aduji vstup.}
+{141}{}{[VÃ­ce]}
+{142}{}{ZpÄ›t.}
+{143}{}{BiologickÃ¡ stanice: AktivnÃ­}
+{144}{}{BiologickÃ¡ stanice: NeaktivnÃ­}
+{145}{}{ChemickÃ¡ stanice: AktivnÃ­}
+{146}{}{ChemickÃ¡ stanice: NeaktivnÃ­}
+{147}{}{FyzikÃ¡lnÃ­ stanice: AktivnÃ­}
+{148}{}{FyzikÃ¡lnÃ­ stanice: NeaktivnÃ­}
 {149}{}{Deaktivovat Biologickou Stanici.}
 {150}{}{Deaktivovat Chemickou Stanici.}
-{151}{}{Deaktivovat Fyzikální Stanici.}
-{152}{}{Zpøístupnit Biologickou Stanici.}
-{153}{}{Zpøístupnit Chemickou Stanici.}
-{154}{}{Zpøístupnit Fyzikální Stanici.}
+{151}{}{Deaktivovat FyzikÃ¡lnÃ­ Stanici.}
+{152}{}{ZpÅ™Ã­stupnit Biologickou Stanici.}
+{153}{}{ZpÅ™Ã­stupnit Chemickou Stanici.}
+{154}{}{ZpÅ™Ã­stupnit FyzikÃ¡lnÃ­ Stanici.}
 {155}{}{Aktivovat Biologickou Stanici.}
 {156}{}{Aktivovat Chemickou Stanici.}
-{157}{}{Aktivovat Fyzikální Stanici.}
-{158}{}{Zpìt.}
-{159}{}{Formátování disku: Všechna data budou ztracena. Pøejete si pokraèovat?}
+{157}{}{Aktivovat FyzikÃ¡lnÃ­ Stanici.}
+{158}{}{ZpÄ›t.}
+{159}{}{FormÃ¡tovÃ¡nÃ­ disku: VÅ¡echna data budou ztracena. PÅ™ejete si pokraÄovat?}
 {160}{}{Ano.}
 {161}{}{Ne.}
-{162}{}{Funkèní integrita tohoto systému je 92% Stínìní jádra poèítaèe Císaø je 100% Integrita dat je 100% Pøedpovìdní uzel trpí menšími vıpadky energie - pøedpokládanı èas oprav 6 dní. Pøedpovìdi z 15% funkèní.}
-{163}{}{Zpìt.}
-{164}{}{Opravdu si pøejete zformátovat tuto jednotku? Proces je nevratnı.}
+{162}{}{FunkÄnÃ­ integrita tohoto systÃ©mu je 92% StÃ­nÄ›nÃ­ jÃ¡dra poÄÃ­taÄe CÃ­saÅ™ je 100% Integrita dat je 100% PÅ™edpovÄ›dnÃ­ uzel trpÃ­ menÅ¡Ã­mi vÃ½padky energie - pÅ™edpoklÃ¡danÃ½ Äas oprav 6 dnÃ­. PÅ™edpovÄ›di z 15% funkÄnÃ­.}
+{163}{}{ZpÄ›t.}
+{164}{}{Opravdu si pÅ™ejete zformÃ¡tovat tuto jednotku? Proces je nevratnÃ½.}
 {165}{}{Ano.}
 {166}{}{Ne.}
-{167}{}{Formátuji... formátuji... formátování dokonèeno. Restart vyaduje plnou instalaci. Vypínání. Vypnutí... poèítaèe... dokonèeno...}
+{167}{}{FormÃ¡tuji... formÃ¡tuji... formÃ¡tovÃ¡nÃ­ dokonÄeno. Restart vyÅ¾aduje plnou instalaci. VypÃ­nÃ¡nÃ­. VypnutÃ­... poÄÃ­taÄe... dokonÄeno...}
 {168}{}{[KONEC]}
 {169}{}{Data to find: - Botany program - Genetic program - Xeno program.}
-{170}{}{Botanickı program.}
-{171}{}{Genetickı program.}
+{170}{}{BotanickÃ½ program.}
+{171}{}{GenetickÃ½ program.}
 {172}{}{Xeno program.}
-{173}{}{Zpìt.}
-{174}{}{(Po dvaceti minutách se ti podaøilo objevit toto: Poèáteèní vısledky rušení radiace pomocí rostlin se ukázaly jako málo slibné. Dr. Sheng vyvinul rostlinnı ivot odolnı vùèi radiaci -- s nepøíjemnımi vedlejšími úèinky. Vıslednı rostlinnı ivot je povaován za pøíliš nebezpeènı. Sheng trvá na dalším zkoumání v kombinaci s genetickım programem.)}
-{175}{}{Genetickı program.}
+{173}{}{ZpÄ›t.}
+{174}{}{(Po dvaceti minutÃ¡ch se ti podaÅ™ilo objevit toto: PoÄÃ¡teÄnÃ­ vÃ½sledky ruÅ¡enÃ­ radiace pomocÃ­ rostlin se ukÃ¡zaly jako mÃ¡lo slibnÃ©. Dr. Sheng vyvinul rostlinnÃ½ Å¾ivot odolnÃ½ vÅ¯Äi radiaci -- s nepÅ™Ã­jemnÃ½mi vedlejÅ¡Ã­mi ÃºÄinky. VÃ½slednÃ½ rostlinnÃ½ Å¾ivot je povaÅ¾ovÃ¡n za pÅ™Ã­liÅ¡ nebezpeÄnÃ½. Sheng trvÃ¡ na dalÅ¡Ã­m zkoumÃ¡nÃ­ v kombinaci s genetickÃ½m programem.)}
+{175}{}{GenetickÃ½ program.}
 {176}{}{Xeno program.}
-{177}{}{Zpìt.}
-{178}{}{(Po dvaceti minutách se ti podaøilo poskládat dohromady tuto informaci: Dr. Long Wang byl pøesvìdèen o úspìchu vytvoøení zmutovanıch vojákù s pouitím základní struktury viru FEV. Vytvoøil sérum, které pøi pokusech s hlodavci vykazovalo zajímavé vısledky. Pøi aplikaci séra na sobì se zmìnil na rozplizlou mazlavou hmotu. Dr. Sheng ukonèil tuto oblast vızkumu. Po smrti Dr. Longa se stal Dr. Sheng vedoucím. Sheng poaduje, aby se vızkum soustøedil na rostlinnı ivot pohlcující radiaci.)}
-{179}{}{Botanickı program.}
+{177}{}{ZpÄ›t.}
+{178}{}{(Po dvaceti minutÃ¡ch se ti podaÅ™ilo posklÃ¡dat dohromady tuto informaci: Dr. Long Wang byl pÅ™esvÄ›dÄen o ÃºspÄ›chu vytvoÅ™enÃ­ zmutovanÃ½ch vojÃ¡kÅ¯ s pouÅ¾itÃ­m zÃ¡kladnÃ­ struktury viru FEV. VytvoÅ™il sÃ©rum, kterÃ© pÅ™i pokusech s hlodavci vykazovalo zajÃ­mavÃ© vÃ½sledky. PÅ™i aplikaci sÃ©ra na sobÄ› se zmÄ›nil na rozplizlou mazlavou hmotu. Dr. Sheng ukonÄil tuto oblast vÃ½zkumu. Po smrti Dr. Longa se stal Dr. Sheng vedoucÃ­m. Sheng poÅ¾aduje, aby se vÃ½zkum soustÅ™edil na rostlinnÃ½ Å¾ivot pohlcujÃ­cÃ­ radiaci.)}
+{179}{}{BotanickÃ½ program.}
 {180}{}{Xeno program.}
-{181}{}{Zpìt.}
+{181}{}{ZpÄ›t.}
 {182}{}{"The subject on which we had hoped to establish a series of meaningful experiments has disappeared, presumed either destroyed or stolen by the Hubologists. Further inquiries have proven fruitless. Until such time as further specimens are obtained, this database will remain inoperative." - Dr. Sheng.}
-{183}{}{Botanickı program.}
-{184}{}{Genetickı program.}
-{185}{}{Zpìt.}
-{186}{}{Chemické Databáze: Palivo a deriváty - Polymery}
-{187}{}{Paliva a deriváty.}
+{183}{}{BotanickÃ½ program.}
+{184}{}{GenetickÃ½ program.}
+{185}{}{ZpÄ›t.}
+{186}{}{ChemickÃ© DatabÃ¡ze: Palivo a derivÃ¡ty - Polymery}
+{187}{}{Paliva a derivÃ¡ty.}
 {188}{}{Polymery.}
-{189}{}{Zpìt.}
+{189}{}{ZpÄ›t.}
 {190}{}{(After sifting through the complex chemical formulae and lab notes, you come to the conclusion that the Shi have created a kind of fuel from plant extracts and sealife. Apparently, they have hooked into previously existing pipelines so they can transport fuel to a wide variety of destinations.)}
-{191}{}{(Narazil jsi na veliké mnoství sloitıch chemickıch vzorcù a laboratorních zápiskù. Nejsi si úplnì jistı, co všechno znamenají.)}
-{192}{}{Pøevést palivo do tankeru Poseidon.}
-{193}{}{Pøevést palivo k Hubologistùm.}
-{194}{}{Zpìt.}
-{195}{}{(Po pøelouskání symbologie a technické dokumentace se ti podaøilo zjistit, e Shi pracují na nové polymerické zbroji, která je odolná vùèi ohni a prùbojnım støelám. Dokonèení je však stále v nedohlednu. Také si všímáš zmínky o novıch zbraních a konstrukèních monostech. Oèividnì mají Shi nìjaké plány do budoucna.)}
-{196}{}{Zpìt.}
-{197}{}{Palivo pøevedeno dle poadavku. Skladovací nádre = Prázdné. Ukonèuji program.}
+{191}{}{(Narazil jsi na velikÃ© mnoÅ¾stvÃ­ sloÅ¾itÃ½ch chemickÃ½ch vzorcÅ¯ a laboratornÃ­ch zÃ¡piskÅ¯. Nejsi si ÃºplnÄ› jistÃ½, co vÅ¡echno znamenajÃ­.)}
+{192}{}{PÅ™evÃ©st palivo do tankeru Poseidon.}
+{193}{}{PÅ™evÃ©st palivo k HubologistÅ¯m.}
+{194}{}{ZpÄ›t.}
+{195}{}{(Po pÅ™elouskÃ¡nÃ­ symbologie a technickÃ© dokumentace se ti podaÅ™ilo zjistit, Å¾e Shi pracujÃ­ na novÃ© polymerickÃ© zbroji, kterÃ¡ je odolnÃ¡ vÅ¯Äi ohni a prÅ¯bojnÃ½m stÅ™elÃ¡m. DokonÄenÃ­ je vÅ¡ak stÃ¡le v nedohlednu. TakÃ© si vÅ¡Ã­mÃ¡Å¡ zmÃ­nky o novÃ½ch zbranÃ­ch a konstrukÄnÃ­ch moÅ¾nostech. OÄividnÄ› majÃ­ Shi nÄ›jakÃ© plÃ¡ny do budoucna.)}
+{196}{}{ZpÄ›t.}
+{197}{}{Palivo pÅ™evedeno dle poÅ¾adavku. SkladovacÃ­ nÃ¡drÅ¾e = PrÃ¡zdnÃ©. UkonÄuji program.}
 {198}{}{[KONEC]}
-{199}{}{Palivo pøevedeno dle poadavku. Skladovací nádre = Prázdné. Ukonèuji program.}
+{199}{}{Palivo pÅ™evedeno dle poÅ¾adavku. SkladovacÃ­ nÃ¡drÅ¾e = PrÃ¡zdnÃ©. UkonÄuji program.}
 {200}{}{[KONEC]}
-{201}{}{Fyzikální databáze: Vızkum - Teorie}
+{201}{}{FyzikÃ¡lnÃ­ databÃ¡ze: VÃ½zkum - Teorie}
 {202}{}{Exploration.}
 {203}{}{Theory.}
-{204}{}{Zpìt.}
-{205}{}{"Díky nedávnému získání plánù k vertibirdu se kvantovım skokem zvıšila šance na sestrojení praktického létajícího stroje. Oèekáváme, e koncem roku budeme mít funkèní prototyp a do dvou let budeme moci zahájit hromadnou vırobu." -Dr. Wong}
-{206}{}{::zkopírovat plány:: Zpìt.}
-{207}{}{Zpìt.}
-{208}{}{"Stále pøipravujeme funkèní model vzdušného stroje. ádnı z našich návrhù se neosvìdèil jako bezpeènı nebo aerodynamickı. Moná kdybychom mìli pøístup ke starodávnım plánùm..." -Dr. Wong}
-{209}{}{Zpìt.}
-{210}{}{(Po pøelouskání úvodu a matematiky zjišuješ, e se Shi opìt snaí zkoumat nukleární energii. Oivují tak teorii vesmírnıch letù našich pøedkù - a pøitom se vysmívají Hubologistùm - a vyuívají energii slunce, vìtru a moøe. Tohle je v tìch zápiskách opravdu napsáno.)}
-{211}{}{Zpìt.}
-{212}{}{Stanice aktivována.}
-{213}{}{Zpìt.}
-{214}{}{Poèítaèovı terminál pro tohle nemá rozhraní.}
-{215}{}{Poèítaèovı terminál vypadá, e není v provozu.}
-{216}{}{Systém byl napaden. Pøíkazy jsou zaútoèit!}
-{217}{}{Zaútoète na vetøelce!}
-{218}{}{Je èas zaplatit za své èiny, lao wai!}
-{219}{}{Mezi námi je zrádce!}
-{220}{}{Zemìpisná lokace.}
-{221}{}{Co si pøejete lokalizovat?}
-{222}{}{Vesnièany z mého domova.}
-{223}{}{Celkem 97% pravdìpodobnost - vesnièané lokalizováni na souøadnicích komplexu Enklávy.}
-{230}{}{(Obrazovka na vteøinu blikne ne se pøepne do èernobílého zobrazení plné èínskıch znakù.
- Po chvilce se obsah obrazovky vymae a zobrazí seznam souborù. Vìtšina souborù je velmi stará a poškozená,
- ale nìkteré se zdají bıt v poøádku.)}
-{231}{}{Lidové osvobozenecké námoønictvo                                       Císaø v. 4.01 Pøístupovı terminál
-                                  Prosím zvolte jednu z moností:}
+{204}{}{ZpÄ›t.}
+{205}{}{"DÃ­ky nedÃ¡vnÃ©mu zÃ­skÃ¡nÃ­ plÃ¡nÅ¯ k vertibirdu se kvantovÃ½m skokem zvÃ½Å¡ila Å¡ance na sestrojenÃ­ praktickÃ©ho lÃ©tajÃ­cÃ­ho stroje. OÄekÃ¡vÃ¡me, Å¾e koncem roku budeme mÃ­t funkÄnÃ­ prototyp a do dvou let budeme moci zahÃ¡jit hromadnou vÃ½robu." -Dr. Wong}
+{206}{}{::zkopÃ­rovat plÃ¡ny:: ZpÄ›t.}
+{207}{}{ZpÄ›t.}
+{208}{}{"StÃ¡le pÅ™ipravujeme funkÄnÃ­ model vzduÅ¡nÃ©ho stroje. Å½Ã¡dnÃ½ z naÅ¡ich nÃ¡vrhÅ¯ se neosvÄ›dÄil jako bezpeÄnÃ½ nebo aerodynamickÃ½. MoÅ¾nÃ¡ kdybychom mÄ›li pÅ™Ã­stup ke starodÃ¡vnÃ½m plÃ¡nÅ¯m..." -Dr. Wong}
+{209}{}{ZpÄ›t.}
+{210}{}{(Po pÅ™elouskÃ¡nÃ­ Ãºvodu a matematiky zjiÅ¡Å¥ujeÅ¡, Å¾e se Shi opÄ›t snaÅ¾Ã­ zkoumat nukleÃ¡rnÃ­ energii. OÅ¾ivujÃ­ tak teorii vesmÃ­rnÃ½ch letÅ¯ naÅ¡ich pÅ™edkÅ¯ - a pÅ™itom se vysmÃ­vajÃ­ HubologistÅ¯m - a vyuÅ¾Ã­vajÃ­ energii slunce, vÄ›tru a moÅ™e. Tohle je v tÄ›ch zÃ¡piskÃ¡ch opravdu napsÃ¡no.)}
+{211}{}{ZpÄ›t.}
+{212}{}{Stanice aktivovÃ¡na.}
+{213}{}{ZpÄ›t.}
+{214}{}{PoÄÃ­taÄovÃ½ terminÃ¡l pro tohle nemÃ¡ rozhranÃ­.}
+{215}{}{PoÄÃ­taÄovÃ½ terminÃ¡l vypadÃ¡, Å¾e nenÃ­ v provozu.}
+{216}{}{SystÃ©m byl napaden. PÅ™Ã­kazy jsou zaÃºtoÄit!}
+{217}{}{ZaÃºtoÄte na vetÅ™elce!}
+{218}{}{Je Äas zaplatit za svÃ© Äiny, lao wai!}
+{219}{}{Mezi nÃ¡mi je zrÃ¡dce!}
+{220}{}{ZemÄ›pisnÃ¡ lokace.}
+{221}{}{Co si pÅ™ejete lokalizovat?}
+{222}{}{VesniÄany z mÃ©ho domova.}
+{223}{}{Celkem 97% pravdÄ›podobnost - vesniÄanÃ© lokalizovÃ¡ni na souÅ™adnicÃ­ch komplexu EnklÃ¡vy.}
+{230}{}{(Obrazovka na vteÅ™inu blikne neÅ¾ se pÅ™epne do ÄernobÃ­lÃ©ho zobrazenÃ­ plnÃ© ÄÃ­nskÃ½ch znakÅ¯.
+ Po chvilce se obsah obrazovky vymaÅ¾e a zobrazÃ­ seznam souborÅ¯. VÄ›tÅ¡ina souborÅ¯ je velmi starÃ¡ a poÅ¡kozenÃ¡,
+ ale nÄ›kterÃ© se zdajÃ­ bÃ½t v poÅ™Ã¡dku.)}
+{231}{}{LidovÃ© osvobozeneckÃ© nÃ¡moÅ™nictvo                                       CÃ­saÅ™ v. 4.01 PÅ™Ã­stupovÃ½ terminÃ¡l
+                                  ProsÃ­m zvolte jednu z moÅ¾nostÃ­:}
 {232}{}{Stav ponorky.}
-{233}{}{Èínská vızvìdná sí.}
-{234}{}{Komunikaèní kanály.}
-{235}{}{Osobní záznamy.}
-{236}{}{::zpìt::}
-{240}{}{Jméno: Shi-Huang-Ti                                               Tøída: Typ 088 Jaderná balistická
- raketová ponorka   Vızbroj: Osm JL-3 jadernıch balistickıch støel
-               Spuštìna: 8. Srpna 2068                                         Povìøení: 18. kvìtna 2069
-                                       Kapitán: Admirál tøídy AAAA Ye Li
-                                Posádka: 15 dùstojníkù, 28 poddùstojníkù, 27 vojínù a 16 civilních technikù}
-{241}{}{Pokraèovat.}
-{250}{}{Cíl:                                                                     2069 - 2071: Ochrana èínskıch
- teritoriálních vod              2071 - 2077: Bojová hlídka v aljašské a pacifické operaèní oblasti
-                                                               Øíjen 2077: Bojová mise v Kalifornské operaèní oblasti.
+{233}{}{ÄŒÃ­nskÃ¡ vÃ½zvÄ›dnÃ¡ sÃ­Å¥.}
+{234}{}{KomunikaÄnÃ­ kanÃ¡ly.}
+{235}{}{OsobnÃ­ zÃ¡znamy.}
+{236}{}{::zpÄ›t::}
+{240}{}{JmÃ©no: Shi-Huang-Ti                                               TÅ™Ã­da: Typ 088 JadernÃ¡ balistickÃ¡
+ raketovÃ¡ ponorka   VÃ½zbroj: Osm JL-3 jadernÃ½ch balistickÃ½ch stÅ™el
+               SpuÅ¡tÄ›na: 8. Srpna 2068                                         PovÄ›Å™enÃ­: 18. kvÄ›tna 2069
+                                       KapitÃ¡n: AdmirÃ¡l tÅ™Ã­dy AAAA Ye Li
+                                PosÃ¡dka: 15 dÅ¯stojnÃ­kÅ¯, 28 poddÅ¯stojnÃ­kÅ¯, 27 vojÃ­nÅ¯ a 16 civilnÃ­ch technikÅ¯}
+{241}{}{PokraÄovat.}
+{250}{}{CÃ­l:                                                                     2069 - 2071: Ochrana ÄÃ­nskÃ½ch
+ teritoriÃ¡lnÃ­ch vod              2071 - 2077: BojovÃ¡ hlÃ­dka v aljaÅ¡skÃ© a pacifickÃ© operaÄnÃ­ oblasti
+                                                               Å˜Ã­jen 2077: BojovÃ¡ mise v KalifornskÃ© operaÄnÃ­ oblasti.
  Mise R.}
-{251}{}{Pokraèovat.}
-{260}{}{Souèasnı stav:
-                                                     Ponorka nenávratnì poškozena. Hlavní poèítaè odstranìn z plavidla
- a pøemístìn. Loï upravena na stacionární obranné zaøízení 3 kilometry severo-severovıchodnì od San Franciského pøístavu.}
-{261}{}{Co tam bylo o tìch bojovıch hlídkách?}
-{262}{}{Èíst více o Misi R.}
-{263}{}{Stacionární obranné zaøízení zní zajímavì.}
-{264}{}{::zpìt::}
-{270}{}{Na ádost velitele aljašské první linie, generála Jingwei-e, byla Shi-Huang-Ti pøevelena
- do Aljašsko-Pacifické operaèní oblasti, aby napadala americké konvoje v otevøenıch vodách. Pod velením Kontradmirála
- Ye Li potopila 9 nákladních a 4 váleèné lodì, poškodila dalších 18 plavidel a vytvoøila velkı tlak na nepøátelské
- zásobování.}
-{271}{}{Pokraèovat.}
-{275}{}{Admirál Ye Li byl také vyznamenán Lidovım osvobozeneckım námoønictvem za potopení USS
+{251}{}{PokraÄovat.}
+{260}{}{SouÄasnÃ½ stav:
+                                                     Ponorka nenÃ¡vratnÄ› poÅ¡kozena. HlavnÃ­ poÄÃ­taÄ odstranÄ›n z plavidla
+ a pÅ™emÃ­stÄ›n. LoÄ upravena na stacionÃ¡rnÃ­ obrannÃ© zaÅ™Ã­zenÃ­ 3 kilometry severo-severovÃ½chodnÄ› od San FranciskÃ©ho pÅ™Ã­stavu.}
+{261}{}{Co tam bylo o tÄ›ch bojovÃ½ch hlÃ­dkÃ¡ch?}
+{262}{}{ÄŒÃ­st vÃ­ce o Misi R.}
+{263}{}{StacionÃ¡rnÃ­ obrannÃ© zaÅ™Ã­zenÃ­ znÃ­ zajÃ­mavÄ›.}
+{264}{}{::zpÄ›t::}
+{270}{}{Na Å¾Ã¡dost velitele aljaÅ¡skÃ© prvnÃ­ linie, generÃ¡la Jingwei-e, byla Shi-Huang-Ti pÅ™evelena
+ do AljaÅ¡sko-PacifickÃ© operaÄnÃ­ oblasti, aby napadala americkÃ© konvoje v otevÅ™enÃ½ch vodÃ¡ch. Pod velenÃ­m KontradmirÃ¡la
+ Ye Li potopila 9 nÃ¡kladnÃ­ch a 4 vÃ¡leÄnÃ© lodÄ›, poÅ¡kodila dalÅ¡Ã­ch 18 plavidel a vytvoÅ™ila velkÃ½ tlak na nepÅ™Ã¡telskÃ©
+ zÃ¡sobovÃ¡nÃ­.}
+{271}{}{PokraÄovat.}
+{275}{}{AdmirÃ¡l Ye Li byl takÃ© vyznamenÃ¡n LidovÃ½m osvobozeneckÃ½m nÃ¡moÅ™nictvem za potopenÃ­ USS
  Ebon Atoll americkou ponorkou USS Interference.}
-{276}{}{::zpìt::}
-{280}{}{kvìten 2220: Poseidonské námoøní plavidlo Valdez zakotvilo v pøístavu, osazené posádkou s neznámım typem energetické
- pìchotní zbroje. Loï je vyøazena z provozu a zamoøena mutanty.
-                                               èerven 2220: Po konzultacích s Císaøem se Chiang Lee
- rozhodl, e Shi-Huang-Ti bude znovu aktivována a pøemìnìna na obranné zaøízení proti budoucím námoøním hrozbám.
-                                                           èervenec 2220: Ponorka je opìt aktivní. K aktivaci muselo bıt zapojeno
- nouzové napájení.                                  kvìten 2231: Rozbil se nouzovı generátor. Ken Lee naøídil,
- aby byl pøipojen generátor ElectroBox do energetického systému k zajištìní napájení ponorky.
-                          srpen 2238: Motorová loï Neptune Waveskimmer je opraven a pøedán
- údrbì ponorky.}
-{281}{}{Hmm, uvidíme, jestli se mi podaøí najít nìco víc o tìch údrbáøích...}
-{282}{}{::zpìt::}
-{290}{}{(Bingo! Po nìkolika minutách hraní si s pøíkazy se ti podaøilo vytáhnout malı textovı soubor tıkající se
- generátoru na ponorce. Zdá se, e je potøeba pravidelnıch cest k doplnìní paliva a údrbì generátoru. Soubor také
- obsahuje seznam aktuální posádky údrby.)}
-{291}{}{Posádka údrby ponorky (2241 a mladší): Tsing Tao, Hun Kwai, Shin Fai, Lo Chang, Wu Fei}
-{292}{}{::pøidat se na seznam posádky údrby::}
-{293}{}{::zpìt::}
-{300}{}{(Nìkolika stisky kláves se pøidáváš mezi posádku údrby na ponorce. Seznam hesel pro strá
- motorové lodi je nyní pøístupnı.)}
-{301}{}{::stáhnout seznam hesel do Pip-Boye::}
-{310}{}{(Pøipojíš Pip-Boy do jednoho z pøístupovıch portù. Po chvilce máš aktuální seznam hesel
- na celı další rok. To vypovídá nìco o bezpeènosti.)}
-{311}{}{::zpìt::}
-{320}{}{Nyní jsi plnì povìøenım technikem ponorky Shi.}
-{325}{}{Chyba. Vyadována tabulka pøístupovıch kódù. Vlote prosím správnou tabulku kódù.}
-{330}{}{(Díky tabulce pøístupovıch kódù nalezené na ponorce je ti umonìn pøístup k souborùm s omezenım pøístupem
- na Císaøovıch discích.)}
-{331}{}{Pøístupové kódy rozpoznány. Bezpeènostní oprávnìní zvıšena. Inicializace Èínské vızvìdné sítì...
+{276}{}{::zpÄ›t::}
+{280}{}{kvÄ›ten 2220: PoseidonskÃ© nÃ¡moÅ™nÃ­ plavidlo Valdez zakotvilo v pÅ™Ã­stavu, osazenÃ© posÃ¡dkou s neznÃ¡mÃ½m typem energetickÃ©
+ pÄ›chotnÃ­ zbroje. LoÄ je vyÅ™azena z provozu a zamoÅ™ena mutanty.
+                                               Äerven 2220: Po konzultacÃ­ch s CÃ­saÅ™em se Chiang Lee
+ rozhodl, Å¾e Shi-Huang-Ti bude znovu aktivovÃ¡na a pÅ™emÄ›nÄ›na na obrannÃ© zaÅ™Ã­zenÃ­ proti budoucÃ­m nÃ¡moÅ™nÃ­m hrozbÃ¡m.
+                                                           Äervenec 2220: Ponorka je opÄ›t aktivnÃ­. K aktivaci muselo bÃ½t zapojeno
+ nouzovÃ© napÃ¡jenÃ­.                                  kvÄ›ten 2231: Rozbil se nouzovÃ½ generÃ¡tor. Ken Lee naÅ™Ã­dil,
+ aby byl pÅ™ipojen generÃ¡tor ElectroBox do energetickÃ©ho systÃ©mu k zajiÅ¡tÄ›nÃ­ napÃ¡jenÃ­ ponorky.
+                          srpen 2238: MotorovÃ¡ loÄ Neptune Waveskimmer je opraven a pÅ™edÃ¡n
+ ÃºdrÅ¾bÄ› ponorky.}
+{281}{}{Hmm, uvidÃ­me, jestli se mi podaÅ™Ã­ najÃ­t nÄ›co vÃ­c o tÄ›ch ÃºdrÅ¾bÃ¡Å™Ã­ch...}
+{282}{}{::zpÄ›t::}
+{290}{}{(Bingo! Po nÄ›kolika minutÃ¡ch hranÃ­ si s pÅ™Ã­kazy se ti podaÅ™ilo vytÃ¡hnout malÃ½ textovÃ½ soubor tÃ½kajÃ­cÃ­ se
+ generÃ¡toru na ponorce. ZdÃ¡ se, Å¾e je potÅ™eba pravidelnÃ½ch cest k doplnÄ›nÃ­ paliva a ÃºdrÅ¾bÄ› generÃ¡toru. Soubor takÃ©
+ obsahuje seznam aktuÃ¡lnÃ­ posÃ¡dky ÃºdrÅ¾by.)}
+{291}{}{PosÃ¡dka ÃºdrÅ¾by ponorky (2241 a mladÅ¡Ã­): Tsing Tao, Hun Kwai, Shin Fai, Lo Chang, Wu Fei}
+{292}{}{::pÅ™idat se na seznam posÃ¡dky ÃºdrÅ¾by::}
+{293}{}{::zpÄ›t::}
+{300}{}{(NÄ›kolika stisky klÃ¡ves se pÅ™idÃ¡vÃ¡Å¡ mezi posÃ¡dku ÃºdrÅ¾by na ponorce. Seznam hesel pro strÃ¡Å¾
+ motorovÃ© lodi je nynÃ­ pÅ™Ã­stupnÃ½.)}
+{301}{}{::stÃ¡hnout seznam hesel do Pip-Boye::}
+{310}{}{(PÅ™ipojÃ­Å¡ Pip-Boy do jednoho z pÅ™Ã­stupovÃ½ch portÅ¯. Po chvilce mÃ¡Å¡ aktuÃ¡lnÃ­ seznam hesel
+ na celÃ½ dalÅ¡Ã­ rok. To vypovÃ­dÃ¡ nÄ›co o bezpeÄnosti.)}
+{311}{}{::zpÄ›t::}
+{320}{}{NynÃ­ jsi plnÄ› povÄ›Å™enÃ½m technikem ponorky Shi.}
+{325}{}{Chyba. VyÅ¾adovÃ¡na tabulka pÅ™Ã­stupovÃ½ch kÃ³dÅ¯. VloÅ¾te prosÃ­m sprÃ¡vnou tabulku kÃ³dÅ¯.}
+{330}{}{(DÃ­ky tabulce pÅ™Ã­stupovÃ½ch kÃ³dÅ¯ nalezenÃ© na ponorce je ti umoÅ¾nÄ›n pÅ™Ã­stup k souborÅ¯m s omezenÃ½m pÅ™Ã­stupem
+ na CÃ­saÅ™ovÃ½ch discÃ­ch.)}
+{331}{}{PÅ™Ã­stupovÃ© kÃ³dy rozpoznÃ¡ny. BezpeÄnostnÃ­ oprÃ¡vnÄ›nÃ­ zvÃ½Å¡ena. Inicializace ÄŒÃ­nskÃ© vÃ½zvÄ›dnÃ© sÃ­tÄ›...
 ...
 ...
-Upozornìní! Spojení s centrálním serverem Èínské vızvìdné sítì v Pekingu není dostupné. Obnovuji archivovaná data.
- (Zdá se, e je spousta archívù poškozenıch. Nicménì hlavnímu poèítaèi se nakonec podaøí obnovit nìkolik nepoškozenıch souborù.)}
-{332}{}{Hlášení 2069-11-5}
-{333}{}{Hlášení 2072-4-18}
-{334}{}{Hlášení 2073-12-4}
-{335}{}{Hlášení 2074-9-17}
-{336}{}{Hlášení 2075-10-17}
-{337}{}{Hlášení 2076-8-12}
-{338}{}{Hlášení 2077-10-12}
-{339}{}{Hlášení 2077-10-23}
+UpozornÄ›nÃ­! SpojenÃ­ s centrÃ¡lnÃ­m serverem ÄŒÃ­nskÃ© vÃ½zvÄ›dnÃ© sÃ­tÄ› v Pekingu nenÃ­ dostupnÃ©. Obnovuji archivovanÃ¡ data.
+ (ZdÃ¡ se, Å¾e je spousta archÃ­vÅ¯ poÅ¡kozenÃ½ch. NicmÃ©nÄ› hlavnÃ­mu poÄÃ­taÄi se nakonec podaÅ™Ã­ obnovit nÄ›kolik nepoÅ¡kozenÃ½ch souborÅ¯.)}
+{332}{}{HlÃ¡Å¡enÃ­ 2069-11-5}
+{333}{}{HlÃ¡Å¡enÃ­ 2072-4-18}
+{334}{}{HlÃ¡Å¡enÃ­ 2073-12-4}
+{335}{}{HlÃ¡Å¡enÃ­ 2074-9-17}
+{336}{}{HlÃ¡Å¡enÃ­ 2075-10-17}
+{337}{}{HlÃ¡Å¡enÃ­ 2076-8-12}
+{338}{}{HlÃ¡Å¡enÃ­ 2077-10-12}
+{339}{}{HlÃ¡Å¡enÃ­ 2077-10-23}
 {340}{}{}
-{341}{}{::další::}
-{342}{}{::zpìt::}
-{345}{}{Od: Divize kontrašpionáe
-                                  Nepokoje v Tibetu a v sousedních provinciích pokraèují, èím ohroují vıstavbu
- satelitního komunikaèního komplexu Eastern Dragon. Prezident Xin naøídil vojenskı zásah proti obyvatelùm. Následkem
- vıraznıch ztrát na stranì povstalcù je obnovena Èínská kontrola nad provincií a zbytek zbıvajících povstalcù je pøesídlen.}
-{346}{}{::zpìt::}
-{350}{}{Od: Divize biochemickıch zbraní
-                          Vypuknutí epidemie v Sovìtském svazu ohrouje severní protektoráty Èínské Lidové Republiky. BioChem
- WD doporuèuje karanténu a izolaci ohroenıch teritorií. To se tıká oblastí pro pøesídlení povstalcù, teroristù
- a neádoucích jedincù a oblastí pro testování novıch kmenù biologickıch zbraní. Plán byl pøedloen Stranì ke schválení.}
-{351}{}{::zpìt::}
-{360}{}{Od: Velitel aljašské fronty, generál Jingwei
-                Kmen #23-110 byl nasazen proti americkım jednotkám. Demoralizoval je a oslabil jejich operativní sílu.
- Poaduji další jednotky a tanky Battlemaster pro koneènı úder proti opevnìnım americkım silám
- na hranicích Aljašky.}
-{361}{}{::zpìt::}
-{370}{}{Od: Centrálního velení
-                                           Americké jednotky byly nasazeny na domovskou pevninu po porušení blokády Japonska.
- Aljašské jednotky jsou nadále operativní. Vojenské síly v obsazenıch teritoriích zvìtšují domácí obrannou frontu.
- Velení schválilo pouití chemickıch a biologickıch zbraní na domácí pùdì - cizí ïáblové musí bıt vyhlazeni!}
-{371}{}{::zpìt::}
-{380}{}{Od: Rudı Drak
-                                                     Záškodnické operace a teroristické útoky jsou vysoce efektivní
- pøi demoralizaci americké populace. Zámoøskıch vojenskıch zásobovacích operací ubıvá, jak jsou stávky a protesty vyvolávány
- napøíè americkou pevninou. Doporuèujeme útok proti vybranım vızkumnım a vojenskım cílùm po celıch Spojenıch Státech.
+{341}{}{::dalÅ¡Ã­::}
+{342}{}{::zpÄ›t::}
+{345}{}{Od: Divize kontraÅ¡pionÃ¡Å¾e
+                                  Nepokoje v Tibetu a v sousednÃ­ch provinciÃ­ch pokraÄujÃ­, ÄÃ­mÅ¾ ohroÅ¾ujÃ­ vÃ½stavbu
+ satelitnÃ­ho komunikaÄnÃ­ho komplexu Eastern Dragon. Prezident Xin naÅ™Ã­dil vojenskÃ½ zÃ¡sah proti obyvatelÅ¯m. NÃ¡sledkem
+ vÃ½raznÃ½ch ztrÃ¡t na stranÄ› povstalcÅ¯ je obnovena ÄŒÃ­nskÃ¡ kontrola nad provinciÃ­ a zbytek zbÃ½vajÃ­cÃ­ch povstalcÅ¯ je pÅ™esÃ­dlen.}
+{346}{}{::zpÄ›t::}
+{350}{}{Od: Divize biochemickÃ½ch zbranÃ­
+                          VypuknutÃ­ epidemie v SovÄ›tskÃ©m svazu ohroÅ¾uje severnÃ­ protektorÃ¡ty ÄŒÃ­nskÃ© LidovÃ© Republiky. BioChem
+ WD doporuÄuje karantÃ©nu a izolaci ohroÅ¾enÃ½ch teritoriÃ­. To se tÃ½kÃ¡ oblastÃ­ pro pÅ™esÃ­dlenÃ­ povstalcÅ¯, teroristÅ¯
+ a neÅ¾Ã¡doucÃ­ch jedincÅ¯ a oblastÃ­ pro testovÃ¡nÃ­ novÃ½ch kmenÅ¯ biologickÃ½ch zbranÃ­. PlÃ¡n byl pÅ™edloÅ¾en StranÄ› ke schvÃ¡lenÃ­.}
+{351}{}{::zpÄ›t::}
+{360}{}{Od: Velitel aljaÅ¡skÃ© fronty, generÃ¡l Jingwei
+                Kmen #23-110 byl nasazen proti americkÃ½m jednotkÃ¡m. Demoralizoval je a oslabil jejich operativnÃ­ sÃ­lu.
+ PoÅ¾aduji dalÅ¡Ã­ jednotky a tanky Battlemaster pro koneÄnÃ½ Ãºder proti opevnÄ›nÃ½m americkÃ½m silÃ¡m
+ na hranicÃ­ch AljaÅ¡ky.}
+{361}{}{::zpÄ›t::}
+{370}{}{Od: CentrÃ¡lnÃ­ho velenÃ­
+                                           AmerickÃ© jednotky byly nasazeny na domovskou pevninu po poruÅ¡enÃ­ blokÃ¡dy Japonska.
+ AljaÅ¡skÃ© jednotky jsou nadÃ¡le operativnÃ­. VojenskÃ© sÃ­ly v obsazenÃ½ch teritoriÃ­ch zvÄ›tÅ¡ujÃ­ domÃ¡cÃ­ obrannou frontu.
+ VelenÃ­ schvÃ¡lilo pouÅ¾itÃ­ chemickÃ½ch a biologickÃ½ch zbranÃ­ na domÃ¡cÃ­ pÅ¯dÄ› - cizÃ­ ÄÃ¡blovÃ© musÃ­ bÃ½t vyhlazeni!}
+{371}{}{::zpÄ›t::}
+{380}{}{Od: RudÃ½ Drak
+                                                     ZÃ¡Å¡kodnickÃ© operace a teroristickÃ© Ãºtoky jsou vysoce efektivnÃ­
+ pÅ™i demoralizaci americkÃ© populace. ZÃ¡moÅ™skÃ½ch vojenskÃ½ch zÃ¡sobovacÃ­ch operacÃ­ ubÃ½vÃ¡, jak jsou stÃ¡vky a protesty vyvolÃ¡vÃ¡ny
+ napÅ™Ã­Ä americkou pevninou. DoporuÄujeme Ãºtok proti vybranÃ½m vÃ½zkumnÃ½m a vojenskÃ½m cÃ­lÅ¯m po celÃ½ch SpojenÃ½ch StÃ¡tech.
  Priority: Raven Rock, West Tek, Mariposa, Boulder, Institute.}
-{381}{}{::zpìt::}
-{390}{}{Od: Centrálního velení
-                                              Pøevaha amerického vojska je nyní jasná  - jednotky T-51b energozbroj nasazeny
- na domácí pùdì. PLA nemá ádnou odpovìï a dennì ztrácí další území. Pøedseda Cheng poaduje, aby Peking zùstal
- v èínskıch rukou - opevòování je v plném proudu. Velení pøikazuje zintenzivnit partizánské operace za nepøátelskımi liniemi.
- Dìlníci ve všech zemích amerického Commonwealthu by se mìli pøipravit na inscenace povstání. Zbranì a vybavení odeslány.
- Prioritní cíl: Washington, DC, Columbia Commonwealth}
-{391}{}{::zpìt::}
-{400}{}{Od: Pøedseda Strany Cheng
-                                         Zhroucením aljašské fronty a posílením americké pùsobnosti na domácí pùdì
- hrozí poráka. Podle rozhodnutí 636860 Èínské komunistické strany tímto pøikazuji všem
- loajálním vojenskım silám zapoèít jaderné operace proti Amerièanùm, Misi R. Prioritní cíle jsou
- jsou obsaeny v operaèních smìrnicích. Nech se naše duše navrátí na tuto Zem.}
-{401}{}{::zpìt::}
-{410}{}{Od: Centrálního velení                                            Všechny jednotky na pozicích. Pøenáším poslední potvrzovací
- kódy. Operace Youmíng má zelenou.}
-{411}{}{::zpìt::}
-{420}{}{Prohledávám komunikaèní kanály...                                  PLA CentCom...		offline
+{381}{}{::zpÄ›t::}
+{390}{}{Od: CentrÃ¡lnÃ­ho velenÃ­
+                                              PÅ™evaha americkÃ©ho vojska je nynÃ­ jasnÃ¡  - jednotky T-51b energozbroj nasazeny
+ na domÃ¡cÃ­ pÅ¯dÄ›. PLA nemÃ¡ Å¾Ã¡dnou odpovÄ›Ä a dennÄ› ztrÃ¡cÃ­ dalÅ¡Ã­ ÃºzemÃ­. PÅ™edseda Cheng poÅ¾aduje, aby Peking zÅ¯stal
+ v ÄÃ­nskÃ½ch rukou - opevÅˆovÃ¡nÃ­ je v plnÃ©m proudu. VelenÃ­ pÅ™ikazuje zintenzivnit partizÃ¡nskÃ© operace za nepÅ™Ã¡telskÃ½mi liniemi.
+ DÄ›lnÃ­ci ve vÅ¡ech zemÃ­ch americkÃ©ho Commonwealthu by se mÄ›li pÅ™ipravit na inscenace povstÃ¡nÃ­. ZbranÄ› a vybavenÃ­ odeslÃ¡ny.
+ PrioritnÃ­ cÃ­l: Washington, DC, Columbia Commonwealth}
+{391}{}{::zpÄ›t::}
+{400}{}{Od: PÅ™edseda Strany Cheng
+                                         ZhroucenÃ­m aljaÅ¡skÃ© fronty a posÃ­lenÃ­m americkÃ© pÅ¯sobnosti na domÃ¡cÃ­ pÅ¯dÄ›
+ hrozÃ­ porÃ¡Å¾ka. Podle rozhodnutÃ­ 636860 ÄŒÃ­nskÃ© komunistickÃ© strany tÃ­mto pÅ™ikazuji vÅ¡em
+ loajÃ¡lnÃ­m vojenskÃ½m silÃ¡m zapoÄÃ­t jadernÃ© operace proti AmeriÄanÅ¯m, Misi R. PrioritnÃ­ cÃ­le jsou
+ jsou obsaÅ¾eny v operaÄnÃ­ch smÄ›rnicÃ­ch. NechÅ¥ se naÅ¡e duÅ¡e navrÃ¡tÃ­ na tuto Zem.}
+{401}{}{::zpÄ›t::}
+{410}{}{Od: CentrÃ¡lnÃ­ho velenÃ­                                            VÅ¡echny jednotky na pozicÃ­ch. PÅ™enÃ¡Å¡Ã­m poslednÃ­ potvrzovacÃ­
+ kÃ³dy. Operace YoumÃ­ng mÃ¡ zelenou.}
+{411}{}{::zpÄ›t::}
+{420}{}{ProhledÃ¡vÃ¡m komunikaÄnÃ­ kanÃ¡ly...                                  PLA CentCom...		offline
                                              CIN Peking...		offline
                                                    SSC Naval Yard...	offline
                                            SCA Eastern Dragon..	offline
-                                     Varování: Nebylo moné navázat spojení s ádnım externím serverem.}
-{421}{}{To je škoda...}
-{430}{}{Prohledávám místní disky...}
-{431}{}{Pokraèovat.}
-{440}{}{Nalezen jeden pøístupnı soubor. (Vypadá to, e je vìtšina archívù poškozena. Nicménì hlavnímu poèítaèi se podaøilo obnovit jeden nepoškozenı soubor.)}
-{441}{}{Osobní sloka: Li Ye, Admirál, Kapitán}
-{450}{}{2077-10-12: Tuhle válku prohráváme. Právì jsem obdrel potvrzení, e Strana s koneènou platností rozhodla
- zaèít s plánem R. Šílenství! Jak nám mùe jaderná válka pøinést vítìzství? Nikdo nevyhraje pokud rozpoutáme takové peklo.
- Ale jsem voják a budu poslouchat své rozkazy a do konce.}
-{451}{}{Pokraèovat.}
-{452}{}{::zpìt::}
-{460}{}{2077-10-19: Posádka zaèíná bıt neklidná. Wong øekl dùstojníkùm o plánu R a ti byli u vytrení.
- Nemám jim to za zlé, i kdy nesouhlasím: Wong ztratil své syny v Anchorage, zatímco Da Chiangùv bratr byl zajat
- na pobøeí Marylandu.}
-{461}{}{Pokraèovat.}
-{462}{}{::zpìt::}
-{470}{}{2077-10-21: Dokonèili jsme poslední pøípravy na odpal. Nyní u jen staèí vloit odpalovací kódy.
- Bylo mi ctí slouit s tìmito mui.}
-{471}{}{Pokraèovat.}
-{472}{}{::zpìt::}
-{480}{}{2077-10-23: Obdreli jsme odpalovací kódy a za patnáct minut budeme na místì. Toto je pravdìpodobnì
- mùj poslední zápis do deníku, tudí bych rád prohlásil, e nesouhlasím s tímto druhem krutosti. Válka se bojuje mezi vojáky,
- ne bombami mezi civilisty. Pokud nìkdo pøeije, doufám, e nám odpustí.}
-{481}{}{Pokraèovat.}
-{482}{}{::zpìt::}
-{490}{}{2077-10-29: K èertu s tìma maniakama! Myslel jsem, e jsme jediná skupina povìøená útokem na sektor Los Angeles,
- ale mılil jsem se. Oni na nì odpálili naši nejsilnìjší hlavici mezikontinentální balistické støely. Nechápu proè nebyla poslána na Washington, ale to je na delší diskuzi.
- Nyní plujeme oceánem. Císaø je mrtvı, navigace rozsekaná a vypadá to, e tohle bude náš
+                                     VarovÃ¡nÃ­: Nebylo moÅ¾nÃ© navÃ¡zat spojenÃ­ s Å¾Ã¡dnÃ½m externÃ­m serverem.}
+{421}{}{To je Å¡koda...}
+{430}{}{ProhledÃ¡vÃ¡m mÃ­stnÃ­ disky...}
+{431}{}{PokraÄovat.}
+{440}{}{Nalezen jeden pÅ™Ã­stupnÃ½ soubor. (VypadÃ¡ to, Å¾e je vÄ›tÅ¡ina archÃ­vÅ¯ poÅ¡kozena. NicmÃ©nÄ› hlavnÃ­mu poÄÃ­taÄi se podaÅ™ilo obnovit jeden nepoÅ¡kozenÃ½ soubor.)}
+{441}{}{OsobnÃ­ sloÅ¾ka: Li Ye, AdmirÃ¡l, KapitÃ¡n}
+{450}{}{2077-10-12: Tuhle vÃ¡lku prohrÃ¡vÃ¡me. PrÃ¡vÄ› jsem obdrÅ¾el potvrzenÃ­, Å¾e Strana s koneÄnou platnostÃ­ rozhodla
+ zaÄÃ­t s plÃ¡nem R. Å Ã­lenstvÃ­! Jak nÃ¡m mÅ¯Å¾e jadernÃ¡ vÃ¡lka pÅ™inÃ©st vÃ­tÄ›zstvÃ­? Nikdo nevyhraje pokud rozpoutÃ¡me takovÃ© peklo.
+ Ale jsem vojÃ¡k a budu poslouchat svÃ© rozkazy aÅ¾ do konce.}
+{451}{}{PokraÄovat.}
+{452}{}{::zpÄ›t::}
+{460}{}{2077-10-19: PosÃ¡dka zaÄÃ­nÃ¡ bÃ½t neklidnÃ¡. Wong Å™ekl dÅ¯stojnÃ­kÅ¯m o plÃ¡nu R a ti byli u vytrÅ¾enÃ­.
+ NemÃ¡m jim to za zlÃ©, i kdyÅ¾ nesouhlasÃ­m: Wong ztratil svÃ© syny v Anchorage, zatÃ­mco Da ChiangÅ¯v bratr byl zajat
+ na pobÅ™eÅ¾Ã­ Marylandu.}
+{461}{}{PokraÄovat.}
+{462}{}{::zpÄ›t::}
+{470}{}{2077-10-21: DokonÄili jsme poslednÃ­ pÅ™Ã­pravy na odpal. NynÃ­ uÅ¾ jen staÄÃ­ vloÅ¾it odpalovacÃ­ kÃ³dy.
+ Bylo mi ctÃ­ slouÅ¾it s tÄ›mito muÅ¾i.}
+{471}{}{PokraÄovat.}
+{472}{}{::zpÄ›t::}
+{480}{}{2077-10-23: ObdrÅ¾eli jsme odpalovacÃ­ kÃ³dy a za patnÃ¡ct minut budeme na mÃ­stÄ›. Toto je pravdÄ›podobnÄ›
+ mÅ¯j poslednÃ­ zÃ¡pis do denÃ­ku, tudÃ­Å¾ bych rÃ¡d prohlÃ¡sil, Å¾e nesouhlasÃ­m s tÃ­mto druhem krutosti. VÃ¡lka se bojuje mezi vojÃ¡ky,
+ ne bombami mezi civilisty. Pokud nÄ›kdo pÅ™eÅ¾ije, doufÃ¡m, Å¾e nÃ¡m odpustÃ­.}
+{481}{}{PokraÄovat.}
+{482}{}{::zpÄ›t::}
+{490}{}{2077-10-29: K Äertu s tÄ›ma maniakama! Myslel jsem, Å¾e jsme jedinÃ¡ skupina povÄ›Å™enÃ¡ Ãºtokem na sektor Los Angeles,
+ ale mÃ½lil jsem se. Oni na nÄ› odpÃ¡lili naÅ¡i nejsilnÄ›jÅ¡Ã­ hlavici mezikontinentÃ¡lnÃ­ balistickÃ© stÅ™ely. NechÃ¡pu proÄ nebyla poslÃ¡na na Washington, ale to je na delÅ¡Ã­ diskuzi.
+ NynÃ­ plujeme oceÃ¡nem. CÃ­saÅ™ je mrtvÃ½, navigace rozsekanÃ¡ a vypadÃ¡ to, Å¾e tohle bude nÃ¡Å¡
  konec.}
-{491}{}{Pokraèovat.}
-{492}{}{::zpìt::}
-{500}{}{2077-11-04: U plujeme na vlnách nìkolik dní. Jing dokázal dostat nìjakou energii do našich palubních
- systémù, take bychom mìli mít dostatek kyslíku na nìkolik tıdnù. Mnohem více se ale obávám o vodu a jídlo - naše zásoby
- jsou nízké a není jich dost, abychom vystaèili na delší dobu. Posádka je neklidná.}
-{501}{}{Pokraèovat.}
-{502}{}{::zpìt::}
-{510}{}{2077-11-08: Císaø je opìt spuštìn, ale funguje jen tak tak. Stále nemáme ádnou navigaci a posádka je na pokraji
- vzpoury - musel jsem zastavit dva námoøníky, aby nezmlátili Jinga. Naše situace je zoufalá. Obávám se, e pokud se bìhem nìkolika pøíštích dní nevynoøíme na hladinu,
- tak se tu všichni pozabíjíme.}
-{511}{}{Pokraèovat.}
-{512}{}{::zpìt::}
-{520}{}{2077-11-12: Koneènì! Najeli jsme na mìlèinu v San Franciské zátoce. Námoøníci oslavovali, dokud jsme neotevøeli
- poklopy. Z mìsta zbyly trosky znièené árem a radioaktivním spadem. Vyslal jsem na pobøeí nìkolik skupin, aby našli vhodné táboøištì.
- Zatím nikdo takové místo nenašel.}
-{521}{}{Pokraèovat.}
-{522}{}{::zpìt::}
-{530}{}{2077-11-16: Laoùv tım našel obyvatelnou èást. Zdá se, e ji obyvatelé opustili po zaznìní
- protileteckıch poplachù, nicménì utrpìla jen malé poškození. A co je nejvìtší ironie? e je to Èínská ètvr San Francisca,
- stále obklopená americkımi kontrolními stanovišti a opevnìnımi kasárnami. Kdyby to tak vìdìli...}
-{531}{}{Pokraèovat.}
-{532}{}{::zpìt::}
-{540}{}{2077-11-24: Zkontaktovali jsme Red Dragon. Severoamerické velení Èernıch Duchù se plahoèilo na západ
- a do 23., kdy ztratili kontakt s CentCom. Nejsou pøíliš nadšeni z toho, e byli ponecháni na nepøátelském území,
- ale museli jsme to udìlat.}
-{541}{}{Pokraèovat.}
-{542}{}{::zpìt::}
-{550}{}{2077-12-06: Tábor Shi-Huang-Ti je postaven a funkèní. Duchové provádìjí úklidové operace v pøilehlıch oblastech a pøinášejí veškeré zásoby na které narazili. Dal jsem jim jasné rozkazy,
- aby bezdùvodnì neútoèili na ádné americké pøeivší - nemùeme si znepøátelit potencionální spojence.}
-{551}{}{Pokraèovat.}
-{552}{}{::zpìt::}
-{560}{}{2077-12-14: Zvláštní - kult, kterı si øíká Kostel Hubologistù, nìjakım zpùsobem pøeil devastaci
- v zesíleném bunkru poblí pozùstatkù mostu Golden Gate. Jsou to neškodní fanatici, nicménì uiteèní. Jejich zdroje,
- síla a vìdomosti pøiléhajících oblastí nám pomohou si zde vybudovat novı domov.}
-{561}{}{Pokraèovat.}
-{562}{}{::zpìt::}
-{570}{}{2077-12-27: Základní potøeby jsou zajištìny. Nyní zvaujeme, e vybereme z ponorky veškerou elektroniku
- a další uiteèné vybavení - nemá ádnı smysl ji nadále udrovat, jeliko je pohonnı systém nenávratnì poškozen
- a na stavbì dokáeme vyuít vše. Jing navrhl plán na zesílenou stavbu - 'Ocelovı Palác'.}
-{571}{}{Pokraèovat.}
-{572}{}{::zpìt::}
-{580}{}{2077-12-31: Toto bude mùj poslední zápis do deníku. Ji nejsem admirál Lidového Osvobozeneckého
- Námoønictva. Zodpovídám za své mue a povedu je vstøíc budoucnosti. V roce 2078 jsme ji plnì oddìleni
- od Èíny. Pøedsedo Cheng, jsme lepší ne vy. Toto je Ye Li, velitel lidí Shi-Huang-Ti.}
-{581}{}{::zpìt::}
-{590}{}{Pøehled mise R:                                                    Nouzovı jadernı plán pøi vıjimeèném váleèném stavu
- pro lidovou osvobozeneckou armádu v pøípadì neodvratitelné poráky cizími silami, schválenı Èínskou komunistickou stranou
+{491}{}{PokraÄovat.}
+{492}{}{::zpÄ›t::}
+{500}{}{2077-11-04: UÅ¾ plujeme na vlnÃ¡ch nÄ›kolik dnÃ­. Jing dokÃ¡zal dostat nÄ›jakou energii do naÅ¡ich palubnÃ­ch
+ systÃ©mÅ¯, takÅ¾e bychom mÄ›li mÃ­t dostatek kyslÃ­ku na nÄ›kolik tÃ½dnÅ¯. Mnohem vÃ­ce se ale obÃ¡vÃ¡m o vodu a jÃ­dlo - naÅ¡e zÃ¡soby
+ jsou nÃ­zkÃ© a nenÃ­ jich dost, abychom vystaÄili na delÅ¡Ã­ dobu. PosÃ¡dka je neklidnÃ¡.}
+{501}{}{PokraÄovat.}
+{502}{}{::zpÄ›t::}
+{510}{}{2077-11-08: CÃ­saÅ™ je opÄ›t spuÅ¡tÄ›n, ale funguje jen tak tak. StÃ¡le nemÃ¡me Å¾Ã¡dnou navigaci a posÃ¡dka je na pokraji
+ vzpoury - musel jsem zastavit dva nÃ¡moÅ™nÃ­ky, aby nezmlÃ¡tili Jinga. NaÅ¡e situace je zoufalÃ¡. ObÃ¡vÃ¡m se, Å¾e pokud se bÄ›hem nÄ›kolika pÅ™Ã­Å¡tÃ­ch dnÃ­ nevynoÅ™Ã­me na hladinu,
+ tak se tu vÅ¡ichni pozabÃ­jÃ­me.}
+{511}{}{PokraÄovat.}
+{512}{}{::zpÄ›t::}
+{520}{}{2077-11-12: KoneÄnÄ›! Najeli jsme na mÄ›lÄinu v San FranciskÃ© zÃ¡toce. NÃ¡moÅ™nÃ­ci oslavovali, dokud jsme neotevÅ™eli
+ poklopy. Z mÄ›sta zbyly trosky zniÄenÃ© Å¾Ã¡rem a radioaktivnÃ­m spadem. Vyslal jsem na pobÅ™eÅ¾Ã­ nÄ›kolik skupin, aby naÅ¡li vhodnÃ© tÃ¡boÅ™iÅ¡tÄ›.
+ ZatÃ­m nikdo takovÃ© mÃ­sto nenaÅ¡el.}
+{521}{}{PokraÄovat.}
+{522}{}{::zpÄ›t::}
+{530}{}{2077-11-16: LaoÅ¯v tÃ½m naÅ¡el obyvatelnou ÄÃ¡st. ZdÃ¡ se, Å¾e ji obyvatelÃ© opustili po zaznÄ›nÃ­
+ protileteckÃ½ch poplachÅ¯, nicmÃ©nÄ› utrpÄ›la jen malÃ© poÅ¡kozenÃ­. A co je nejvÄ›tÅ¡Ã­ ironie? Å½e je to ÄŒÃ­nskÃ¡ ÄtvrÅ¥ San Francisca,
+ stÃ¡le obklopenÃ¡ americkÃ½mi kontrolnÃ­mi stanoviÅ¡ti a opevnÄ›nÃ½mi kasÃ¡rnami. Kdyby to tak vÄ›dÄ›li...}
+{531}{}{PokraÄovat.}
+{532}{}{::zpÄ›t::}
+{540}{}{2077-11-24: Zkontaktovali jsme Red Dragon. SeveroamerickÃ© velenÃ­ ÄŒernÃ½ch DuchÅ¯ se plahoÄilo na zÃ¡pad
+ aÅ¾ do 23., kdy ztratili kontakt s CentCom. Nejsou pÅ™Ã­liÅ¡ nadÅ¡eni z toho, Å¾e byli ponechÃ¡ni na nepÅ™Ã¡telskÃ©m ÃºzemÃ­,
+ ale museli jsme to udÄ›lat.}
+{541}{}{PokraÄovat.}
+{542}{}{::zpÄ›t::}
+{550}{}{2077-12-06: TÃ¡bor Shi-Huang-Ti je postaven a funkÄnÃ­. DuchovÃ© provÃ¡dÄ›jÃ­ ÃºklidovÃ© operace v pÅ™ilehlÃ½ch oblastech a pÅ™inÃ¡Å¡ejÃ­ veÅ¡kerÃ© zÃ¡soby na kterÃ© narazili. Dal jsem jim jasnÃ© rozkazy,
+ aby bezdÅ¯vodnÄ› neÃºtoÄili na Å¾Ã¡dnÃ© americkÃ© pÅ™eÅ¾ivÅ¡Ã­ - nemÅ¯Å¾eme si znepÅ™Ã¡telit potencionÃ¡lnÃ­ spojence.}
+{551}{}{PokraÄovat.}
+{552}{}{::zpÄ›t::}
+{560}{}{2077-12-14: ZvlÃ¡Å¡tnÃ­ - kult, kterÃ½ si Å™Ã­kÃ¡ Kostel HubologistÅ¯, nÄ›jakÃ½m zpÅ¯sobem pÅ™eÅ¾il devastaci
+ v zesÃ­lenÃ©m bunkru poblÃ­Å¾ pozÅ¯statkÅ¯ mostu Golden Gate. Jsou to neÅ¡kodnÃ­ fanatici, nicmÃ©nÄ› uÅ¾iteÄnÃ­. Jejich zdroje,
+ sÃ­la a vÄ›domosti pÅ™ilÃ©hajÃ­cÃ­ch oblastÃ­ nÃ¡m pomohou si zde vybudovat novÃ½ domov.}
+{561}{}{PokraÄovat.}
+{562}{}{::zpÄ›t::}
+{570}{}{2077-12-27: ZÃ¡kladnÃ­ potÅ™eby jsou zajiÅ¡tÄ›ny. NynÃ­ zvaÅ¾ujeme, Å¾e vybereme z ponorky veÅ¡kerou elektroniku
+ a dalÅ¡Ã­ uÅ¾iteÄnÃ© vybavenÃ­ - nemÃ¡ Å¾Ã¡dnÃ½ smysl ji nadÃ¡le udrÅ¾ovat, jelikoÅ¾ je pohonnÃ½ systÃ©m nenÃ¡vratnÄ› poÅ¡kozen
+ a na stavbÄ› dokÃ¡Å¾eme vyuÅ¾Ã­t vÅ¡e. Jing navrhl plÃ¡n na zesÃ­lenou stavbu - 'OcelovÃ½ PalÃ¡c'.}
+{571}{}{PokraÄovat.}
+{572}{}{::zpÄ›t::}
+{580}{}{2077-12-31: Toto bude mÅ¯j poslednÃ­ zÃ¡pis do denÃ­ku. JiÅ¾ nejsem admirÃ¡l LidovÃ©ho OsvobozeneckÃ©ho
+ NÃ¡moÅ™nictva. ZodpovÃ­dÃ¡m za svÃ© muÅ¾e a povedu je vstÅ™Ã­c budoucnosti. V roce 2078 jsme jiÅ¾ plnÄ› oddÄ›leni
+ od ÄŒÃ­ny. PÅ™edsedo Cheng, jsme lepÅ¡Ã­ neÅ¾ vy. Toto je Ye Li, velitel lidÃ­ Shi-Huang-Ti.}
+{581}{}{::zpÄ›t::}
+{590}{}{PÅ™ehled mise R:                                                    NouzovÃ½ jadernÃ½ plÃ¡n pÅ™i vÃ½jimeÄnÃ©m vÃ¡leÄnÃ©m stavu
+ pro lidovou osvobozeneckou armÃ¡du v pÅ™Ã­padÄ› neodvratitelnÃ© porÃ¡Å¾ky cizÃ­mi silami, schvÃ¡lenÃ½ ÄŒÃ­nskou komunistickou stranou
  11. Listopadu 2073.}
-{591}{}{Pokraèovat.}
-{600}{}{Plán zahrnuje sérii koordinovanıch jadernıch útokù proti strategickım cílùm napøíè Amerikou za pouití strategickıch
- letadel, jadernıch raketovıch ponorek, raketovıch odpalovacích systémù, pìchotních zbraní s ochuzenım uranem a ostatních jadernıch
- zaøízení. Cílem je ochromit schopnost americké odvety a vojenskıch moností.}
-{601}{}{Pokraèovat.}
-{610}{}{Shi-Huang-Ti je povìøena znièením osmi cílù na Kalifornském pobøeí vèetnì øeditelství West Tek Research
- Facility v Los Angeles a hlavních osídlenıch center.}
-{611}{}{Pokraèovat.}
-{620}{}{V pøípadì vzpoury, zrady, nebo poškození, je kapitán plavidla autorizován k pøedání pøíkazu Císaøi k pøevzetí kontroly
- nad plavidlem a dokonèení mise.}
-{621}{}{::zpìt::}
-{622}{}{::odhlásit se::}
+{591}{}{PokraÄovat.}
+{600}{}{PlÃ¡n zahrnuje sÃ©rii koordinovanÃ½ch jadernÃ½ch ÃºtokÅ¯ proti strategickÃ½m cÃ­lÅ¯m napÅ™Ã­Ä Amerikou za pouÅ¾itÃ­ strategickÃ½ch
+ letadel, jadernÃ½ch raketovÃ½ch ponorek, raketovÃ½ch odpalovacÃ­ch systÃ©mÅ¯, pÄ›chotnÃ­ch zbranÃ­ s ochuzenÃ½m uranem a ostatnÃ­ch jadernÃ½ch
+ zaÅ™Ã­zenÃ­. CÃ­lem je ochromit schopnost americkÃ© odvety a vojenskÃ½ch moÅ¾nostÃ­.}
+{601}{}{PokraÄovat.}
+{610}{}{Shi-Huang-Ti je povÄ›Å™ena zniÄenÃ­m osmi cÃ­lÅ¯ na KalifornskÃ©m pobÅ™eÅ¾Ã­ vÄetnÄ› Å™editelstvÃ­ West Tek Research
+ Facility v Los Angeles a hlavnÃ­ch osÃ­dlenÃ½ch center.}
+{611}{}{PokraÄovat.}
+{620}{}{V pÅ™Ã­padÄ› vzpoury, zrady, nebo poÅ¡kozenÃ­, je kapitÃ¡n plavidla autorizovÃ¡n k pÅ™edÃ¡nÃ­ pÅ™Ã­kazu CÃ­saÅ™i k pÅ™evzetÃ­ kontroly
+ nad plavidlem a dokonÄenÃ­ mise.}
+{621}{}{::zpÄ›t::}
+{622}{}{::odhlÃ¡sit se::}

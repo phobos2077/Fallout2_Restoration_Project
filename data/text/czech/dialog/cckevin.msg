@@ -1,18 +1,18 @@
-{100}{}{Vidíš mechanika.}
-{101}{}{Vidíš mechanika Kevina.}
-{102}{}{Vidíš mue ve vojenské uniformì. Podle mastnıch skvrn usuzuješ, e je to spíš mechanik ne voják.}
-{200}{}{Teï s tebou nemùu mluvit. Jdi za Quincym.}
-{201}{}{Quincy to tu má na starosti. Jdi za ním.}
-{202}{}{Jsem jen malá ryba. Promluv si spíš s Quincym.}
-{300}{}{Kde máš uniformu?}
-{301}{}{Radši se jdi pøevléct, vojáku.}
-{302}{}{Pìknì riskuješ, kdy tu takhle pobíháš bez uniformy. Radìji si ji vyfasuj.}
-{400}{}{Kdo k èertu jste? Poplach! Vetøelci!}
+{100}{}{VidÃ­Å¡ mechanika.}
+{101}{}{VidÃ­Å¡ mechanika Kevina.}
+{102}{}{VidÃ­Å¡ muÅ¾e ve vojenskÃ© uniformÄ›. Podle mastnÃ½ch skvrn usuzujeÅ¡, Å¾e je to spÃ­Å¡ mechanik neÅ¾ vojÃ¡k.}
+{200}{}{TeÄ s tebou nemÅ¯Å¾u mluvit. Jdi za Quincym.}
+{201}{}{Quincy to tu mÃ¡ na starosti. Jdi za nÃ­m.}
+{202}{}{Jsem jen malÃ¡ ryba. Promluv si spÃ­Å¡ s Quincym.}
+{300}{}{Kde mÃ¡Å¡ uniformu?}
+{301}{}{RadÅ¡i se jdi pÅ™evlÃ©ct, vojÃ¡ku.}
+{302}{}{PÄ›knÄ› riskujeÅ¡, kdyÅ¾ tu takhle pobÃ­hÃ¡Å¡ bez uniformy. RadÄ›ji si ji vyfasuj.}
+{400}{}{Kdo k Äertu jste? Poplach! VetÅ™elci!}
 {401}{}{Byli jsme napadeni! Poplach!}
-{402}{}{Vetøelci! Spuste alarm!}
-{500}{}{Sakra! Rychle zapnìte zálohy.}
-{501}{}{Ukonèete všechny probíhající operace.}
-{502}{}{Spuste ochranu systému a aktivujte všechna bezpeènostní hesla.}
-{600}{}{Jsem mechanik, ne voják!}
-{601}{}{Tím koncem s laserovou diodou se míøí na nepøítele. A pak se maèká kohoutek.}
-{602}{}{Pomóc! Pomóc! Rychle do údrby!}
+{402}{}{VetÅ™elci! SpusÅ¥te alarm!}
+{500}{}{Sakra! Rychle zapnÄ›te zÃ¡lohy.}
+{501}{}{UkonÄete vÅ¡echny probÃ­hajÃ­cÃ­ operace.}
+{502}{}{SpusÅ¥te ochranu systÃ©mu a aktivujte vÅ¡echna bezpeÄnostnÃ­ hesla.}
+{600}{}{Jsem mechanik, ne vojÃ¡k!}
+{601}{}{TÃ­m koncem s laserovou diodou se mÃ­Å™Ã­ na nepÅ™Ã­tele. AÅ¾ pak se maÄkÃ¡ kohoutek.}
+{602}{}{PomÃ³c! PomÃ³c! Rychle do ÃºdrÅ¾by!}

@@ -1,62 +1,62 @@
-{100}{}{Vidíš barmanku.}
-{101}{}{Vidíš Leannu.}
-{102}{}{Je velmi krásná, ale vypadá zamyšlenì.}
-{103}{}{Pøestaò!}
-{104}{}{Proè to dìláš?}
-{105}{}{Nech mì na pokoji!}
-{106}{}{Prosím, pøestaò!}
+{100}{}{VidÃ­Å¡ barmanku.}
+{101}{}{VidÃ­Å¡ Leannu.}
+{102}{}{Je velmi krÃ¡snÃ¡, ale vypadÃ¡ zamyÅ¡lenÄ›.}
+{103}{}{PÅ™estaÅˆ!}
+{104}{}{ProÄ to dÄ›lÃ¡Å¡?}
+{105}{}{Nech mÄ› na pokoji!}
+{106}{}{ProsÃ­m, pÅ™estaÅˆ!}
 {107}{}{Vrahu!}
-{108}{}{Jak jsi to mohl Becky udìlat!}
-{109}{}{Co ti kdy udìlala?}
-{110}{}{Budeš se smait v pekle.}
-{111}{}{Promiò, ádné pøíbìhy neznám.}
-{112}{}{Dìkuji za pití.}
-{113}{}{Hezky se mi s tebou povídá.}
-{114}{}{Díky za vyslechnutí.}
-{115}{}{Ráda tì zase vidím.}
-{116}{}{Štastnou cestu.}
-{117}{}{Ahoj! Je fajn vidìt tady novı oblièej. Mé jméno je Leanna. Jak se máš? Nechceš se posadit?}
-{118}{}{Ahoj. Daøí se mi dobøe.}
-{119}{}{Take, øekni mi co víš o Vùdci.}
-{120}{}{Skvìle. Jak se daøí tobì?}
-{121}{}{Vıbornì.}
-{122}{}{Teï nemùu mluvit. Nashle.}
+{108}{}{Jak jsi to mohl Becky udÄ›lat!}
+{109}{}{Co ti kdy udÄ›lala?}
+{110}{}{BudeÅ¡ se smaÅ¾it v pekle.}
+{111}{}{PromiÅˆ, Å¾Ã¡dnÃ© pÅ™Ã­bÄ›hy neznÃ¡m.}
+{112}{}{DÄ›kuji za pitÃ­.}
+{113}{}{Hezky se mi s tebou povÃ­dÃ¡.}
+{114}{}{DÃ­ky za vyslechnutÃ­.}
+{115}{}{RÃ¡da tÄ› zase vidÃ­m.}
+{116}{}{Å tastnou cestu.}
+{117}{}{Ahoj! Je fajn vidÄ›t tady novÃ½ obliÄej. MÃ© jmÃ©no je Leanna. Jak se mÃ¡Å¡? NechceÅ¡ se posadit?}
+{118}{}{Ahoj. DaÅ™Ã­ se mi dobÅ™e.}
+{119}{}{TakÅ¾e, Å™ekni mi co vÃ­Å¡ o VÅ¯dci.}
+{120}{}{SkvÄ›le. Jak se daÅ™Ã­ tobÄ›?}
+{121}{}{VÃ½bornÄ›.}
+{122}{}{TeÄ nemÅ¯Å¾u mluvit. Nashle.}
 {123}{}{Igsby?}
 {124}{}{Naskle.}
-{131}{}{Och, omlouvám se. Nerozumím. Nemìl bys tolik pít.}
+{131}{}{Och, omlouvÃ¡m se. NerozumÃ­m. NemÄ›l bys tolik pÃ­t.}
 {132}{}{Ugra.}
 {133}{}{Fegi.}
-{134}{}{Ále, vıbornì. Díky za optání. Becky má zajímavı rodinnı pøíbìh. Máš taky nìjakı?}
-{135}{}{Stále to jde, díky. Kde jsme to skonèili? Myslím, e jsme mluvili o historii tvé rodiny, ne?}
-{136}{}{Ano. Já jsem Vyvolenı. Mùj pøedek zachránil svìt pøed Vùdcem.}
-{137}{}{Jo. Mùj pøedek zachránil svìt pøed Vùdcem.}
-{138}{}{U musím jít.}
-{139}{}{Eh, dobøe. Ráda jsem tì poznala, Vyvolenı... opravdu. Nìco jsem o tom Vùdcovi kdysi slyšela.}
-{140}{}{Zajímavé. To mi pøipomíná jeden starı pøíbìh, kterı jsem slyšela. Je o Vùdci.}
+{134}{}{Ãle, vÃ½bornÄ›. DÃ­ky za optÃ¡nÃ­. Becky mÃ¡ zajÃ­mavÃ½ rodinnÃ½ pÅ™Ã­bÄ›h. MÃ¡Å¡ taky nÄ›jakÃ½?}
+{135}{}{StÃ¡le to jde, dÃ­ky. Kde jsme to skonÄili? MyslÃ­m, Å¾e jsme mluvili o historii tvÃ© rodiny, ne?}
+{136}{}{Ano. JÃ¡ jsem VyvolenÃ½. MÅ¯j pÅ™edek zachrÃ¡nil svÄ›t pÅ™ed VÅ¯dcem.}
+{137}{}{Jo. MÅ¯j pÅ™edek zachrÃ¡nil svÄ›t pÅ™ed VÅ¯dcem.}
+{138}{}{UÅ¾ musÃ­m jÃ­t.}
+{139}{}{Eh, dobÅ™e. RÃ¡da jsem tÄ› poznala, VyvolenÃ½... opravdu. NÄ›co jsem o tom VÅ¯dcovi kdysi slyÅ¡ela.}
+{140}{}{ZajÃ­mavÃ©. To mi pÅ™ipomÃ­nÃ¡ jeden starÃ½ pÅ™Ã­bÄ›h, kterÃ½ jsem slyÅ¡ela. Je o VÅ¯dci.}
 {141}{}{Opravdu? Co to bylo?}
-{142}{}{Povídej.}
-{143}{}{Aha, dobøe. Nashle.}
-{144}{}{No, chvíli to zabere. Buï gentleman a kup mi prosím drink, ano? Ne whiskey, Nuka-Colu prosím.}
-{145}{}{No, chvíli to zabere. Buï tak laskavá a kup mi prosím drink, ano? Ne whiskey, Nuka-Colu prosím.}
-{146}{}{Mùeme zaèít? Pamatuju si to docela dobøe.}
-{147}{}{Jasnì.}
-{148}{}{Promiò, nemám teï zrovna $5.}
-{149}{}{Díky. Tak poslouchej... pamatuju si, jak mi máma vyprávìla o té velké migraci, která se stala pøed 70ti nebo 80ti lety...}
-{150}{}{Pokraèuj prosím.}
-{151}{}{Velcí, ozbrojení mutanti, vysocí jako já a ty, pøišli z jihu. Máma øíkala, e to vypadalo jako velká migrace.}
+{142}{}{PovÃ­dej.}
+{143}{}{Aha, dobÅ™e. Nashle.}
+{144}{}{No, chvÃ­li to zabere. BuÄ gentleman a kup mi prosÃ­m drink, ano? Ne whiskey, Nuka-Colu prosÃ­m.}
+{145}{}{No, chvÃ­li to zabere. BuÄ tak laskavÃ¡ a kup mi prosÃ­m drink, ano? Ne whiskey, Nuka-Colu prosÃ­m.}
+{146}{}{MÅ¯Å¾eme zaÄÃ­t? Pamatuju si to docela dobÅ™e.}
+{147}{}{JasnÄ›.}
+{148}{}{PromiÅˆ, nemÃ¡m teÄ zrovna $5.}
+{149}{}{DÃ­ky. Tak poslouchej... pamatuju si, jak mi mÃ¡ma vyprÃ¡vÄ›la o tÃ© velkÃ© migraci, kterÃ¡ se stala pÅ™ed 70ti nebo 80ti lety...}
+{150}{}{PokraÄuj prosÃ­m.}
+{151}{}{VelcÃ­, ozbrojenÃ­ mutanti, vysocÃ­ jako jÃ¡ a ty, pÅ™iÅ¡li z jihu. MÃ¡ma Å™Ã­kala, Å¾e to vypadalo jako velkÃ¡ migrace.}
 {152}{}{Kolik jich bylo?}
-{153}{}{Nevím, ale byly to veliké skupiny. Nìkteøí šli na sever, jiní na vıchod. Nikdo nevìdìl kam jdou.}
-{154}{}{Pokraèuj.}
-{155}{}{Byli celkem rozrušení a vypadalo to, e pøed nìèím utíkali.}
+{153}{}{NevÃ­m, ale byly to velikÃ© skupiny. NÄ›kteÅ™Ã­ Å¡li na sever, jinÃ­ na vÃ½chod. Nikdo nevÄ›dÄ›l kam jdou.}
+{154}{}{PokraÄuj.}
+{155}{}{Byli celkem rozruÅ¡enÃ­ a vypadalo to, Å¾e pÅ™ed nÄ›ÄÃ­m utÃ­kali.}
 {156}{}{Opravdu?}
-{157}{}{Jo. Byli špinaví, v roztrhanıch šatech... mluvili o tom, e je Vùdce mrtev...}
-{158}{}{Zajímavé.}
-{159}{}{Nìkteøí z nich dokonce tady pøímo ve mìstì spáchali sebevradu!}
-{160}{}{Coe?}
-{161}{}{Mluvili o Vùdci, kterého tvùj pøedek zabil.}
-{162}{}{Díky za pøíbìh.}
-{163}{}{No, u je pozdì. Nashle.}
-{164}{}{Bylo mi potìšením. Nashle.}
+{157}{}{Jo. Byli Å¡pinavÃ­, v roztrhanÃ½ch Å¡atech... mluvili o tom, Å¾e je VÅ¯dce mrtev...}
+{158}{}{ZajÃ­mavÃ©.}
+{159}{}{NÄ›kteÅ™Ã­ z nich dokonce tady pÅ™Ã­mo ve mÄ›stÄ› spÃ¡chali sebevraÅ¾du!}
+{160}{}{CoÅ¾e?}
+{161}{}{Mluvili o VÅ¯dci, kterÃ©ho tvÅ¯j pÅ™edek zabil.}
+{162}{}{DÃ­ky za pÅ™Ã­bÄ›h.}
+{163}{}{No, uÅ¾ je pozdÄ›. Nashle.}
+{164}{}{Bylo mi potÄ›Å¡enÃ­m. Nashle.}
 {165}{}{Nashle.}
-{166}{}{Zapomeò na to.}
-{167}{}{Leanne ti øekla pøíbìh o Vùdci.}
+{166}{}{ZapomeÅˆ na to.}
+{167}{}{Leanne ti Å™ekla pÅ™Ã­bÄ›h o VÅ¯dci.}

@@ -1,37 +1,37 @@
-{100}{}{Vidíš mladou enu.}
-{101}{}{Vidíš Chrissy, Rebeèinu dceru.}
-{102}{}{Vidíš hezkou mladou enu. Vypadá sebejistì a urèitì umí i bojovat.}
-{103}{}{Jestli se mì pokusíš znásilnit, budeš nosit svoje koule jako motılka. Je ti to jasnı?}
-{104}{}{Nech mì hádat. Kámoše u omrzelo dostávat ode mì kopance do koulí, tak poslali tebe, a zkusíš nìjakı oplzlosti. Fajn, dopadneš stejnì jako oni. Jen budu muset kopnout trochu vıš. Je ti to jasnı?}
-{105}{}{Motılka?}
+{100}{}{VidÃ­Å¡ mladou Å¾enu.}
+{101}{}{VidÃ­Å¡ Chrissy, RebeÄinu dceru.}
+{102}{}{VidÃ­Å¡ hezkou mladou Å¾enu. VypadÃ¡ sebejistÄ› a urÄitÄ› umÃ­ i bojovat.}
+{103}{}{Jestli se mÄ› pokusÃ­Å¡ znÃ¡silnit, budeÅ¡ nosit svoje koule jako motÃ½lka. Je ti to jasnÃ½?}
+{104}{}{Nech mÄ› hÃ¡dat. KÃ¡moÅ¡e uÅ¾ omrzelo dostÃ¡vat ode mÄ› kopance do koulÃ­, tak poslali tebe, aÅ¥ zkusÃ­Å¡ nÄ›jakÃ½ oplzlosti. Fajn, dopadneÅ¡ stejnÄ› jako oni. Jen budu muset kopnout trochu vÃ½Å¡. Je ti to jasnÃ½?}
+{105}{}{MotÃ½lka?}
 {106}{}{}
-{107}{}{O co tu jít? Kdo ty?}
+{107}{}{O co tu jÃ­t? Kdo ty?}
 {108}{}{}
-{109}{}{Chci jen vìdìt, kdo jsi a co se tady dìje.}
-{110}{}{Jo. Je to takovı ozdobnı kus látky, co se nosí okolo krku pro okrasu. Pøipomíná trošku šálu, ale pro mue. Tak, a teï si pøedstav, e tì nakopnu vší silou TAK, e se ti ta tvoje chlouba omotá kolem krku. U je ti to jasnı?}
-{111}{}{Já rozumìt. Já nechtít motılka. Ty neubliovat.}
-{112}{}{Dovedu si to ivì pøedstavit. Prosím, neubliuj mi.}
-{113}{}{Dobøe, ale proè jsi tady?}
+{109}{}{Chci jen vÄ›dÄ›t, kdo jsi a co se tady dÄ›je.}
+{110}{}{Jo. Je to takovÃ½ ozdobnÃ½ kus lÃ¡tky, co se nosÃ­ okolo krku pro okrasu. PÅ™ipomÃ­nÃ¡ troÅ¡ku Å¡Ã¡lu, ale pro muÅ¾e. Tak, a teÄ si pÅ™edstav, Å¾e tÄ› nakopnu vÅ¡Ã­ silou TAK, Å¾e se ti ta tvoje chlouba omotÃ¡ kolem krku. UÅ¾ je ti to jasnÃ½?}
+{111}{}{JÃ¡ rozumÄ›t. JÃ¡ nechtÃ­t motÃ½lka. Ty neubliÅ¾ovat.}
+{112}{}{Dovedu si to Å¾ivÄ› pÅ™edstavit. ProsÃ­m, neubliÅ¾uj mi.}
+{113}{}{DobÅ™e, ale proÄ jsi tady?}
 {114}{}{}
-{115}{}{Já chtít vìdìt o co tu jít? Kdo ty?}
+{115}{}{JÃ¡ chtÃ­t vÄ›dÄ›t o co tu jÃ­t? Kdo ty?}
 {116}{}{}
-{117}{}{Chci jen vìdìt, kdo jsi a co se tady dìje.}
-{118}{}{Opravdu? Skvìlé! Tak jdeme.}
-{119}{}{Dobøe.}
-{120}{}{V krátkosti, jmenuju se Chrissy a jsem ze Squatu. Byla jsem minulı tıden venku na prùzkumu a našla jsem tu nìjakı vchod. Myslela jsem si, e by to mohl bıt tøeba starı opuštìnı dùl nebo tak nìco. Rozhodla jsem se to zjistit. No a není to dùl, je to tajnı vstup do Vaultu 15. Vault pouívá banda nájezdníkù jako svoji základnu. Øíkají si Khanové. Chytili mì, kdy jsem èmuchala kolem a jejich vùdce, Darion, mì tady zamknul.}
-{121}{}{Tak jo. Já vzít ty domù.}
-{122}{}{Tak dobøe, vezmu tì domù.}
-{123}{}{No to mì podr. Dneska musí bıt mùj šastnı den. Èemu vdìèím za to, e tì zase vidím?}
+{117}{}{Chci jen vÄ›dÄ›t, kdo jsi a co se tady dÄ›je.}
+{118}{}{Opravdu? SkvÄ›lÃ©! Tak jdeme.}
+{119}{}{DobÅ™e.}
+{120}{}{V krÃ¡tkosti, jmenuju se Chrissy a jsem ze Squatu. Byla jsem minulÃ½ tÃ½den venku na prÅ¯zkumu a naÅ¡la jsem tu nÄ›jakÃ½ vchod. Myslela jsem si, Å¾e by to mohl bÃ½t tÅ™eba starÃ½ opuÅ¡tÄ›nÃ½ dÅ¯l nebo tak nÄ›co. Rozhodla jsem se to zjistit. No a nenÃ­ to dÅ¯l, je to tajnÃ½ vstup do Vaultu 15. Vault pouÅ¾Ã­vÃ¡ banda nÃ¡jezdnÃ­kÅ¯ jako svoji zÃ¡kladnu. Å˜Ã­kajÃ­ si KhanovÃ©. Chytili mÄ›, kdyÅ¾ jsem Ämuchala kolem a jejich vÅ¯dce, Darion, mÄ› tady zamknul.}
+{121}{}{Tak jo. JÃ¡ vzÃ­t ty domÅ¯.}
+{122}{}{Tak dobÅ™e, vezmu tÄ› domÅ¯.}
+{123}{}{No to mÄ› podrÅ¾. Dneska musÃ­ bÃ½t mÅ¯j Å¡Å¥astnÃ½ den. ÄŒemu vdÄ›ÄÃ­m za to, Å¾e tÄ› zase vidÃ­m?}
 {124}{}{}
-{125}{}{O co tu jít? Kdo ty?}
+{125}{}{O co tu jÃ­t? Kdo ty?}
 {126}{}{}
-{127}{}{Chci jen vìdìt, kdo jsi a co se tady dìje.}
-{128}{}{Prosím, vezmi mì k mojí matce, Rebecce.}
-{129}{}{Mùj rytíø v lesklé zbroji se vrací. A leskla by se ještì víc, kdybys ji nìkdy taky vyèistil. Jo a taky by neškodilo se obèas vykoupat. Take, co pro tebe mùu udìlat?}
-{130}{}{Tak nashle. U muset jít.}
-{131}{}{Jdu tì jen pozdravit. U musím jít.}
-{132}{}{Hele, já vím, e jsem trošku drzá, ale chtìla jsem ti øíct, e jsem ti opravdu moc vdìèná za svou záchranu. Díky moc!}
-{133}{}{To bıt v poøádku.}
-{134}{}{Není zaè.}
-{135}{}{Lidé ze Squatu chrání ty chlapy tím, e jim pomáhají dret Vault v tajnosti, ale ani netuší, co se tam dole doopravdy dìje. Darion nám øekl, e se Vault opravuje, abysme v nìm mohli všichni bezpeènì ít a mìli spoustu vody a jídla, ale všechno jsou to jenom li. Byla jsem tam a všechno jsem vidìla. Vault je mrtvı a stroje na vırobu jídla a vody jsou rozbité. Naše jídlo a voda pochází z pøepadenıch karavan.}
-{136}{}{Podívej, musím jít domù a všechny varovat. Nemùeme tìm zrùdám u dál pomáhat. Vezmeš mì domù?}
+{127}{}{Chci jen vÄ›dÄ›t, kdo jsi a co se tady dÄ›je.}
+{128}{}{ProsÃ­m, vezmi mÄ› k mojÃ­ matce, Rebecce.}
+{129}{}{MÅ¯j rytÃ­Å™ v lesklÃ© zbroji se vracÃ­. A leskla by se jeÅ¡tÄ› vÃ­c, kdybys ji nÄ›kdy taky vyÄistil. Jo a taky by neÅ¡kodilo se obÄas vykoupat. TakÅ¾e, co pro tebe mÅ¯Å¾u udÄ›lat?}
+{130}{}{Tak nashle. UÅ¾ muset jÃ­t.}
+{131}{}{Jdu tÄ› jen pozdravit. UÅ¾ musÃ­m jÃ­t.}
+{132}{}{Hele, jÃ¡ vÃ­m, Å¾e jsem troÅ¡ku drzÃ¡, ale chtÄ›la jsem ti Å™Ã­ct, Å¾e jsem ti opravdu moc vdÄ›ÄnÃ¡ za svou zÃ¡chranu. DÃ­ky moc!}
+{133}{}{To bÃ½t v poÅ™Ã¡dku.}
+{134}{}{NenÃ­ zaÄ.}
+{135}{}{LidÃ© ze Squatu chrÃ¡nÃ­ ty chlapy tÃ­m, Å¾e jim pomÃ¡hajÃ­ drÅ¾et Vault v tajnosti, ale ani netuÅ¡Ã­, co se tam dole doopravdy dÄ›je. Darion nÃ¡m Å™ekl, Å¾e se Vault opravuje, abysme v nÄ›m mohli vÅ¡ichni bezpeÄnÄ› Å¾Ã­t a mÄ›li spoustu vody a jÃ­dla, ale vÅ¡echno jsou to jenom lÅ¾i. Byla jsem tam a vÅ¡echno jsem vidÄ›la. Vault je mrtvÃ½ a stroje na vÃ½robu jÃ­dla a vody jsou rozbitÃ©. NaÅ¡e jÃ­dlo a voda pochÃ¡zÃ­ z pÅ™epadenÃ½ch karavan.}
+{136}{}{PodÃ­vej, musÃ­m jÃ­t domÅ¯ a vÅ¡echny varovat. NemÅ¯Å¾eme tÄ›m zrÅ¯dÃ¡m uÅ¾ dÃ¡l pomÃ¡hat. VezmeÅ¡ mÄ› domÅ¯?}

@@ -1,217 +1,217 @@
-{100}{}{Vidíš Drahouška Nikki.}
-{125}{}{Vidíš jednu z rozdávaèek karet v kasínu.}
-{150}{}{Vidíš Drahouška Nikki.}
-{151}{}{Vidíš Drahouška Nikki. Mrká na tebe.}
-{152}{}{Vidíš Drahouška Nikki. Naznaèuje ti, a jdeš blí a zahraješ si.}
-{153}{}{Vidíš Drahouška Nikki. Mason mìl pravdu o jejím zadku.}
-{154}{}{Vidíš Drahouška Nikki. Její šaty sotva zakrıvají její tìlo.}
-{155}{}{Vidíš Drahouška Nikki. Mason mìl pravdu o jejím zadku.}
-{156}{}{Vidíš Drahouška Nikki. Její šaty sotva zakrıvají její tìlo.}
-{160}{}{Vidíš Drahouška Nikki. Naznaèuje ti, a jdeš blí a zahraješ si.}
-{161}{}{Vidíš Drahouška Nikki. Její šaty sotva zakrıvají její tìlo.}
-{162}{}{Vidíš Drahouška Nikki. Její šaty sotva zakrıvají její tìlo.}
-{170}{}{Vidíš jednu z rozdávaèek karet v kasínu.}
-{171}{}{Vidíš jednu z rozdávaèek karet v kasínu. Mrká na tebe.}
-{172}{}{Vidíš jednu z rozdávaèek karet v kasínu. Naznaèuje ti, a jdeš blí a zahraješ si.}
-{173}{}{Vidíš jednu z rozdávaèek karet v kasínu. Má opravdu hezké nohy.}
-{174}{}{Vidíš jednu z rozdávaèek karet v kasínu. Její šaty sotva zakrıvají její tìlo.}
-{175}{}{Vidíš jednu z rozdávaèek karet v kasínu. Voní opravdu nááádhernì.}
-{180}{}{Vidíš jednu z rozdávaèek karet v kasínu. Naznaèuje ti, a jdeš blí a zahraješ si.}
-{181}{}{Vidíš jednu z rozdávaèek karet v kasínu. Její šaty sotva zakrıvají její tìlo.}
-{182}{}{Vidíš jednu z rozdávaèek karet v kasínu. Její šaty sotva zakrıvají její tìlo.}
-{183}{}{Vidíš jednu z rozdávaèek karet v kasínu. Naznaèuje ti, a jdeš blí a zahraješ si.}
-{200}{}{::Fandí::}
-{201}{}{::Tleská::}
-{202}{}{::Píská::}
-{203}{}{! Vítej v kasínu, hrdino!}
-{204}{}{U jsme mysleli, e jsi na nás pøi zachraòování svìta zapomnìl.}
+{100}{}{VidÃ­Å¡ DrahouÅ¡ka Nikki.}
+{125}{}{VidÃ­Å¡ jednu z rozdÃ¡vaÄek karet v kasÃ­nu.}
+{150}{}{VidÃ­Å¡ DrahouÅ¡ka Nikki.}
+{151}{}{VidÃ­Å¡ DrahouÅ¡ka Nikki. MrkÃ¡ na tebe.}
+{152}{}{VidÃ­Å¡ DrahouÅ¡ka Nikki. NaznaÄuje ti, aÅ¥ jdeÅ¡ blÃ­Å¾ a zahrajeÅ¡ si.}
+{153}{}{VidÃ­Å¡ DrahouÅ¡ka Nikki. Mason mÄ›l pravdu o jejÃ­m zadku.}
+{154}{}{VidÃ­Å¡ DrahouÅ¡ka Nikki. JejÃ­ Å¡aty sotva zakrÃ½vajÃ­ jejÃ­ tÄ›lo.}
+{155}{}{VidÃ­Å¡ DrahouÅ¡ka Nikki. Mason mÄ›l pravdu o jejÃ­m zadku.}
+{156}{}{VidÃ­Å¡ DrahouÅ¡ka Nikki. JejÃ­ Å¡aty sotva zakrÃ½vajÃ­ jejÃ­ tÄ›lo.}
+{160}{}{VidÃ­Å¡ DrahouÅ¡ka Nikki. NaznaÄuje ti, aÅ¥ jdeÅ¡ blÃ­Å¾ a zahrajeÅ¡ si.}
+{161}{}{VidÃ­Å¡ DrahouÅ¡ka Nikki. JejÃ­ Å¡aty sotva zakrÃ½vajÃ­ jejÃ­ tÄ›lo.}
+{162}{}{VidÃ­Å¡ DrahouÅ¡ka Nikki. JejÃ­ Å¡aty sotva zakrÃ½vajÃ­ jejÃ­ tÄ›lo.}
+{170}{}{VidÃ­Å¡ jednu z rozdÃ¡vaÄek karet v kasÃ­nu.}
+{171}{}{VidÃ­Å¡ jednu z rozdÃ¡vaÄek karet v kasÃ­nu. MrkÃ¡ na tebe.}
+{172}{}{VidÃ­Å¡ jednu z rozdÃ¡vaÄek karet v kasÃ­nu. NaznaÄuje ti, aÅ¥ jdeÅ¡ blÃ­Å¾ a zahrajeÅ¡ si.}
+{173}{}{VidÃ­Å¡ jednu z rozdÃ¡vaÄek karet v kasÃ­nu. MÃ¡ opravdu hezkÃ© nohy.}
+{174}{}{VidÃ­Å¡ jednu z rozdÃ¡vaÄek karet v kasÃ­nu. JejÃ­ Å¡aty sotva zakrÃ½vajÃ­ jejÃ­ tÄ›lo.}
+{175}{}{VidÃ­Å¡ jednu z rozdÃ¡vaÄek karet v kasÃ­nu. VonÃ­ opravdu nÃ¡Ã¡Ã¡dhernÄ›.}
+{180}{}{VidÃ­Å¡ jednu z rozdÃ¡vaÄek karet v kasÃ­nu. NaznaÄuje ti, aÅ¥ jdeÅ¡ blÃ­Å¾ a zahrajeÅ¡ si.}
+{181}{}{VidÃ­Å¡ jednu z rozdÃ¡vaÄek karet v kasÃ­nu. JejÃ­ Å¡aty sotva zakrÃ½vajÃ­ jejÃ­ tÄ›lo.}
+{182}{}{VidÃ­Å¡ jednu z rozdÃ¡vaÄek karet v kasÃ­nu. JejÃ­ Å¡aty sotva zakrÃ½vajÃ­ jejÃ­ tÄ›lo.}
+{183}{}{VidÃ­Å¡ jednu z rozdÃ¡vaÄek karet v kasÃ­nu. NaznaÄuje ti, aÅ¥ jdeÅ¡ blÃ­Å¾ a zahrajeÅ¡ si.}
+{200}{}{::FandÃ­::}
+{201}{}{::TleskÃ¡::}
+{202}{}{::PÃ­skÃ¡::}
+{203}{}{! VÃ­tej v kasÃ­nu, hrdino!}
+{204}{}{UÅ¾ jsme mysleli, Å¾e jsi na nÃ¡s pÅ™i zachraÅˆovÃ¡nÃ­ svÄ›ta zapomnÄ›l.}
 {210}{}{Ahoj, }
-{211}{}{Jestli hledáš spoleènost na veèer...}
-{212}{}{Haló, vy... (Mrkne na tebe.) ...nechcete si zahrát?}
-{213}{}{Vypadá tak... (Zachvìje se.) ...nebezpeènì.}
-{214}{}{Vítej v kasínu, }
-{215}{}{Nepøimluvíte se za mì u šéfa?}
-{216}{}{Zdravím, madam. Dejte mi vìdet, a budete potøebovat s nìèím pomoci.}
-{217}{}{Nechcete si zahrát, madam?}
-{218}{}{Vypadá tak... (Zachvìje se.) ...nebezpeènì.}
-{220}{}{Vypadáte jako nìkdo, kdo kadodennì riskuje svùj ivot.}
-{221}{}{Eh, myslím, e právì vešel do špatného kasína...}
-{222}{}{Jestli neodejde døív, ne ho zahlédnou gorily...}
-{223}{}{A sakra. Problém...}
-{224}{}{Vypadáte jako nìkdo, kdo kadodennì riskuje svùj ivot.}
-{225}{}{Eh, myslím, e právì vešla do špatného kasína...}
-{226}{}{Jestli neodejde døív, ne ji zahlédnou gorily...}
-{230}{}{Ahoj, svalovèe, nechceš utratit nìjaké peníze?}
-{231}{}{Ahoj, šampióne... (Mrkne na tebe.) ...nechceš si zahrát?}
-{232}{}{Ahoj, šampióne... (Usmìje se.) ...nechceš zkusit štìstí?}
-{233}{}{Jestli hledáš spoleènost na veèer...}
-{234}{}{Pøemıšlím, jestli si s ním mám promluvit...}
+{211}{}{Jestli hledÃ¡Å¡ spoleÄnost na veÄer...}
+{212}{}{HalÃ³, vy... (Mrkne na tebe.) ...nechcete si zahrÃ¡t?}
+{213}{}{VypadÃ¡ tak... (ZachvÄ›je se.) ...nebezpeÄnÄ›.}
+{214}{}{VÃ­tej v kasÃ­nu, }
+{215}{}{NepÅ™imluvÃ­te se za mÄ› u Å¡Ã©fa?}
+{216}{}{ZdravÃ­m, madam. Dejte mi vÄ›det, aÅ¾ budete potÅ™ebovat s nÄ›ÄÃ­m pomoci.}
+{217}{}{Nechcete si zahrÃ¡t, madam?}
+{218}{}{VypadÃ¡ tak... (ZachvÄ›je se.) ...nebezpeÄnÄ›.}
+{220}{}{VypadÃ¡te jako nÄ›kdo, kdo kaÅ¾dodennÄ› riskuje svÅ¯j Å¾ivot.}
+{221}{}{Eh, myslÃ­m, Å¾e prÃ¡vÄ› veÅ¡el do Å¡patnÃ©ho kasÃ­na...}
+{222}{}{Jestli neodejde dÅ™Ã­v, neÅ¾ ho zahlÃ©dnou gorily...}
+{223}{}{A sakra. ProblÃ©m...}
+{224}{}{VypadÃ¡te jako nÄ›kdo, kdo kaÅ¾dodennÄ› riskuje svÅ¯j Å¾ivot.}
+{225}{}{Eh, myslÃ­m, Å¾e prÃ¡vÄ› veÅ¡la do Å¡patnÃ©ho kasÃ­na...}
+{226}{}{Jestli neodejde dÅ™Ã­v, neÅ¾ ji zahlÃ©dnou gorily...}
+{230}{}{Ahoj, svalovÄe, nechceÅ¡ utratit nÄ›jakÃ© penÃ­ze?}
+{231}{}{Ahoj, Å¡ampiÃ³ne... (Mrkne na tebe.) ...nechceÅ¡ si zahrÃ¡t?}
+{232}{}{Ahoj, Å¡ampiÃ³ne... (UsmÄ›je se.) ...nechceÅ¡ zkusit Å¡tÄ›stÃ­?}
+{233}{}{Jestli hledÃ¡Å¡ spoleÄnost na veÄer...}
+{234}{}{PÅ™emÃ½Å¡lÃ­m, jestli si s nÃ­m mÃ¡m promluvit...}
 {235}{}{Nazdar, }
-{236}{}{Jestli chcete vyhrát nìjaké peníze, tak jste na správné adrese.}
-{237}{}{Nejlepší kasíno v New Renu. Dokonce na celém SVÌTÌ.}
-{238}{}{Dnes je tu s námi Paní Štìstìna... dnes vyhrává kadı!}
-{239}{}{Pøistup blíe, }
-{240}{}{Nechceš ještì nìco k pití?}
-{241}{}{Vítej v kasínu, }
+{236}{}{Jestli chcete vyhrÃ¡t nÄ›jakÃ© penÃ­ze, tak jste na sprÃ¡vnÃ© adrese.}
+{237}{}{NejlepÅ¡Ã­ kasÃ­no v New Renu. Dokonce na celÃ©m SVÄšTÄš.}
+{238}{}{Dnes je tu s nÃ¡mi PanÃ­ Å tÄ›stÄ›na... dnes vyhrÃ¡vÃ¡ kaÅ¾dÃ½!}
+{239}{}{PÅ™istup blÃ­Å¾e, }
+{240}{}{NechceÅ¡ jeÅ¡tÄ› nÄ›co k pitÃ­?}
+{241}{}{VÃ­tej v kasÃ­nu, }
 {242}{}{Ahoj, }
-{243}{}{Nechceš si zahrát, }
-{244}{}{Vítej v kasínu, }
-{250}{}{Ahoj, filmová hvìzdo. Nechceš utratit nìjaké peníze?}
+{243}{}{NechceÅ¡ si zahrÃ¡t, }
+{244}{}{VÃ­tej v kasÃ­nu, }
+{250}{}{Ahoj, filmovÃ¡ hvÄ›zdo. NechceÅ¡ utratit nÄ›jakÃ© penÃ­ze?}
 {251}{}{Nazdar, }
 {252}{}{Nazdar, }
-{253}{}{Jestli chceš vyhrát nìjaké peníze }
-{254}{}{Nejlepší kasíno v New Renu. Dokonce na celém SVÌTÌ.}
-{255}{}{Dnes je tu s námi Paní Štìstìna... dnes vyhrává kadı!}
-{266}{}{Pøistup blíe, }
-{267}{}{Nechceš ještì nìco k pití?}
-{268}{}{Vítej v kasínu, }
-{269}{}{Zdravím, Paní Filmová Hvìzdo. Nechceš utratit vıplatu?}
-{270}{}{Zdravím, zlato. Nechcete utratit nìjaké peníze?}
-{271}{}{Zdravím, zlato... (Mrkne na tebe.) ...nechcete si zahrát?}
-{272}{}{Zdravím, zlato... (Usmìje se.) ...nechcete zkusit štìstí?}
-{273}{}{Jestli chcete vyhrát nìjaké peníze, tak jste na správné adrese.}
-{274}{}{Nejlepší kasíno v New Renu. Dokonce na celém SVÌTÌ.}
-{275}{}{Dnes je tu s námi Paní Štìstìna... dnes vyhrává kadı!}
-{276}{}{Pøistupte blíe a vyhrajte nìjaké peníze.}
-{277}{}{Nechcete ještì nìco k pití, drahoušku?}
-{278}{}{Vítejte v kasínu, drahoušku.}
-{279}{}{Jestli si chcete zahrát, tak je tento stùl volnı...}
-{280}{}{Zdravím, zlato. Nechcete utratit nìjaké peníze?}
-{281}{}{Nechcete si zahrát, drahoušku?}
-{282}{}{Vítejte v kasínu, drahoušku.}
-{290}{}{No, jste blázen, kdy tu jste, ale... vlote svoji sázku. Minimální èástka je 5 babek. Vlote svoji sázku...}
-{291}{}{Eh... vlote svoji sázku... minimální èástka je 5 babek. Vlote svoji sázku...}
-{292}{}{Vlote svoji sázku, pane. Minimální èástka je 5 babek. Vlote svoji sázku...}
-{293}{}{Vlote svoji sázku, madam. Minimální èástka je 5 babek. Vlote svoji sázku...}
-{294}{}{Vlote svoji sázku, minimální èástka je 5 babek. Vlote svoji sázku...}
-{295}{}{Já lepší ne ty.}
-{296}{}{Já hrát kostky o kalhota.}
-{297}{}{Co tahle hra? Moct vsadit kùe geckon? Já mít gek... jùùùù... tam bıt krásnı svìtla!}
+{253}{}{Jestli chceÅ¡ vyhrÃ¡t nÄ›jakÃ© penÃ­ze }
+{254}{}{NejlepÅ¡Ã­ kasÃ­no v New Renu. Dokonce na celÃ©m SVÄšTÄš.}
+{255}{}{Dnes je tu s nÃ¡mi PanÃ­ Å tÄ›stÄ›na... dnes vyhrÃ¡vÃ¡ kaÅ¾dÃ½!}
+{266}{}{PÅ™istup blÃ­Å¾e, }
+{267}{}{NechceÅ¡ jeÅ¡tÄ› nÄ›co k pitÃ­?}
+{268}{}{VÃ­tej v kasÃ­nu, }
+{269}{}{ZdravÃ­m, PanÃ­ FilmovÃ¡ HvÄ›zdo. NechceÅ¡ utratit vÃ½platu?}
+{270}{}{ZdravÃ­m, zlato. Nechcete utratit nÄ›jakÃ© penÃ­ze?}
+{271}{}{ZdravÃ­m, zlato... (Mrkne na tebe.) ...nechcete si zahrÃ¡t?}
+{272}{}{ZdravÃ­m, zlato... (UsmÄ›je se.) ...nechcete zkusit Å¡tÄ›stÃ­?}
+{273}{}{Jestli chcete vyhrÃ¡t nÄ›jakÃ© penÃ­ze, tak jste na sprÃ¡vnÃ© adrese.}
+{274}{}{NejlepÅ¡Ã­ kasÃ­no v New Renu. Dokonce na celÃ©m SVÄšTÄš.}
+{275}{}{Dnes je tu s nÃ¡mi PanÃ­ Å tÄ›stÄ›na... dnes vyhrÃ¡vÃ¡ kaÅ¾dÃ½!}
+{276}{}{PÅ™istupte blÃ­Å¾e a vyhrajte nÄ›jakÃ© penÃ­ze.}
+{277}{}{Nechcete jeÅ¡tÄ› nÄ›co k pitÃ­, drahouÅ¡ku?}
+{278}{}{VÃ­tejte v kasÃ­nu, drahouÅ¡ku.}
+{279}{}{Jestli si chcete zahrÃ¡t, tak je tento stÅ¯l volnÃ½...}
+{280}{}{ZdravÃ­m, zlato. Nechcete utratit nÄ›jakÃ© penÃ­ze?}
+{281}{}{Nechcete si zahrÃ¡t, drahouÅ¡ku?}
+{282}{}{VÃ­tejte v kasÃ­nu, drahouÅ¡ku.}
+{290}{}{No, jste blÃ¡zen, kdyÅ¾ tu jste, ale... vloÅ¾te svoji sÃ¡zku. MinimÃ¡lnÃ­ ÄÃ¡stka je 5 babek. VloÅ¾te svoji sÃ¡zku...}
+{291}{}{Eh... vloÅ¾te svoji sÃ¡zku... minimÃ¡lnÃ­ ÄÃ¡stka je 5 babek. VloÅ¾te svoji sÃ¡zku...}
+{292}{}{VloÅ¾te svoji sÃ¡zku, pane. MinimÃ¡lnÃ­ ÄÃ¡stka je 5 babek. VloÅ¾te svoji sÃ¡zku...}
+{293}{}{VloÅ¾te svoji sÃ¡zku, madam. MinimÃ¡lnÃ­ ÄÃ¡stka je 5 babek. VloÅ¾te svoji sÃ¡zku...}
+{294}{}{VloÅ¾te svoji sÃ¡zku, minimÃ¡lnÃ­ ÄÃ¡stka je 5 babek. VloÅ¾te svoji sÃ¡zku...}
+{295}{}{JÃ¡ lepÅ¡Ã­ neÅ¾ ty.}
+{296}{}{JÃ¡ hrÃ¡t kostky o kalhota.}
+{297}{}{Co tahle hra? Moct vsadit kÅ¯Å¾e geckon? JÃ¡ mÃ­t gek... jÅ¯Å¯Å¯Å¯... tam bÃ½t krÃ¡snÃ½ svÄ›tla!}
 {298}{}{Vsadit 5 babek}
 {299}{}{Vsadit 15 babek}
 {300}{}{Vsadit 25 babek}
 {301}{}{Vsadit 50 babek}
 {302}{}{Vy jste Nikki?}
-{303}{}{Jak se daøí, Nikki?}
-{304}{}{Jejda, to je na mì moc penìz. Mizím odsud.}
-{305}{}{Dnes nesázím, díky.}
-{310}{}{Eh, dobøe, pane. Pøijïte zase.}
-{311}{}{Eh, dobøe, madam. Pøijïte zase.}
-{312}{}{Eh... slyšela jsem, e vzadu rozdávají mozky. Moná nebude špatnı nápad, kdy se tam zajdete podívat.}
+{303}{}{Jak se daÅ™Ã­, Nikki?}
+{304}{}{Jejda, to je na mÄ› moc penÄ›z. MizÃ­m odsud.}
+{305}{}{Dnes nesÃ¡zÃ­m, dÃ­ky.}
+{310}{}{Eh, dobÅ™e, pane. PÅ™ijÄte zase.}
+{311}{}{Eh, dobÅ™e, madam. PÅ™ijÄte zase.}
+{312}{}{Eh... slyÅ¡ela jsem, Å¾e vzadu rozdÃ¡vajÃ­ mozky. MoÅ¾nÃ¡ nebude Å¡patnÃ½ nÃ¡pad, kdyÅ¾ se tam zajdete podÃ­vat.}
 {313}{}{Naaaskleeee.}
-{314}{}{Jupí. }
-{315}{}{Eh... mozek... co to bıt?}
-{320}{}{Dobøe, pane. Pøijïte zase.}
-{321}{}{Dobøe, madam. Pøijïte zase.}
-{322}{}{5 babek? 'To je na vás moc penìz?' Pøíteli, jste ve špatném mìstì.}
-{323}{}{5 babek? 'To je na vás moc penìz?' Pøíteli, jste ve špatném mìstì.}
-{324}{}{5 babek? 'To je na vás moc penìz?' Sleèno, jste ve špatném mìstì.}
-{325}{}{5 babek? 'To je na vás moc penìz?' Sleèno, jste ve špatném mìstì.}
-{326}{}{Pøijdu, díky.}
-{327}{}{To je moné, ale aspoò tady nebydlím.}
-{330}{}{Je mi líto, pane. Snad budete mít pøíštì více štìstí.}
-{331}{}{Je mi líto, madam. Snad budete mít pøíštì více štìstí.}
-{332}{}{Je mi líto. Snad budete mít pøíštì více štìstí.}
-{333}{}{Máš [C] babek. Budeš hrát dál?}
-{334}{}{Pro dnešek skonèit.}
-{335}{}{Pro dnešek skonèit.}
-{340}{}{Vıhra! Gratuluji, pane!}
-{341}{}{Vıhra! Gratuluji, madam!}
-{342}{}{Vıhra!}
-{343}{}{Máš [C] babek. Budeš hrát dál?}
-{344}{}{Pro dnešek skonèit.}
-{345}{}{Pro dnešek skonèit.}
-{350}{}{Vıhra! Zdvojnásobil jste své peníze! Gratuluji, pane!}
-{351}{}{Vıhra! Zdvojnásobila jste své peníze! Gratuluji, madam!}
-{352}{}{Vıhra! Zdvojnásobil jste své peníze!}
-{353}{}{Máš [C] babek. Budeš hrát dál?}
-{354}{}{Pro dnešek skonèit.}
-{355}{}{Pro dnešek skonèit.}
-{360}{}{Vıhra! Ztrojnásobila jste své peníze! Dnes se na vás lepí štìstí! Gratuluji, madam!}
-{361}{}{Vıhra! Ztrojnásobila jste své peníze! Dnes se na vás lepí štìstí! Gratuluji, madam!}
-{362}{}{Vıhra! Ztrojnásobil jste své peníze!}
-{363}{}{Máš [C] babek. Budeš hrát dál?}
-{364}{}{Pro dnešek skonèit.}
-{365}{}{Pro dnešek skonèit.}
-{370}{}{Co chcete? Budete jen plıtvat mım èasem, nebo si vsadíte?}
-{371}{}{Jsem kdokoliv jen budete CHTÍT, zlato. Take, vsadíte si?}
-{372}{}{Jsem kdokoliv jen budete CHTÍT, sleèno. Take, vsadíte si?}
+{314}{}{JupÃ­. }
+{315}{}{Eh... mozek... co to bÃ½t?}
+{320}{}{DobÅ™e, pane. PÅ™ijÄte zase.}
+{321}{}{DobÅ™e, madam. PÅ™ijÄte zase.}
+{322}{}{5 babek? 'To je na vÃ¡s moc penÄ›z?' PÅ™Ã­teli, jste ve Å¡patnÃ©m mÄ›stÄ›.}
+{323}{}{5 babek? 'To je na vÃ¡s moc penÄ›z?' PÅ™Ã­teli, jste ve Å¡patnÃ©m mÄ›stÄ›.}
+{324}{}{5 babek? 'To je na vÃ¡s moc penÄ›z?' SleÄno, jste ve Å¡patnÃ©m mÄ›stÄ›.}
+{325}{}{5 babek? 'To je na vÃ¡s moc penÄ›z?' SleÄno, jste ve Å¡patnÃ©m mÄ›stÄ›.}
+{326}{}{PÅ™ijdu, dÃ­ky.}
+{327}{}{To je moÅ¾nÃ©, ale aspoÅˆ tady nebydlÃ­m.}
+{330}{}{Je mi lÃ­to, pane. Snad budete mÃ­t pÅ™Ã­Å¡tÄ› vÃ­ce Å¡tÄ›stÃ­.}
+{331}{}{Je mi lÃ­to, madam. Snad budete mÃ­t pÅ™Ã­Å¡tÄ› vÃ­ce Å¡tÄ›stÃ­.}
+{332}{}{Je mi lÃ­to. Snad budete mÃ­t pÅ™Ã­Å¡tÄ› vÃ­ce Å¡tÄ›stÃ­.}
+{333}{}{MÃ¡Å¡ [C] babek. BudeÅ¡ hrÃ¡t dÃ¡l?}
+{334}{}{Pro dneÅ¡ek skonÄit.}
+{335}{}{Pro dneÅ¡ek skonÄit.}
+{340}{}{VÃ½hra! Gratuluji, pane!}
+{341}{}{VÃ½hra! Gratuluji, madam!}
+{342}{}{VÃ½hra!}
+{343}{}{MÃ¡Å¡ [C] babek. BudeÅ¡ hrÃ¡t dÃ¡l?}
+{344}{}{Pro dneÅ¡ek skonÄit.}
+{345}{}{Pro dneÅ¡ek skonÄit.}
+{350}{}{VÃ½hra! ZdvojnÃ¡sobil jste svÃ© penÃ­ze! Gratuluji, pane!}
+{351}{}{VÃ½hra! ZdvojnÃ¡sobila jste svÃ© penÃ­ze! Gratuluji, madam!}
+{352}{}{VÃ½hra! ZdvojnÃ¡sobil jste svÃ© penÃ­ze!}
+{353}{}{MÃ¡Å¡ [C] babek. BudeÅ¡ hrÃ¡t dÃ¡l?}
+{354}{}{Pro dneÅ¡ek skonÄit.}
+{355}{}{Pro dneÅ¡ek skonÄit.}
+{360}{}{VÃ½hra! ZtrojnÃ¡sobila jste svÃ© penÃ­ze! Dnes se na vÃ¡s lepÃ­ Å¡tÄ›stÃ­! Gratuluji, madam!}
+{361}{}{VÃ½hra! ZtrojnÃ¡sobila jste svÃ© penÃ­ze! Dnes se na vÃ¡s lepÃ­ Å¡tÄ›stÃ­! Gratuluji, madam!}
+{362}{}{VÃ½hra! ZtrojnÃ¡sobil jste svÃ© penÃ­ze!}
+{363}{}{MÃ¡Å¡ [C] babek. BudeÅ¡ hrÃ¡t dÃ¡l?}
+{364}{}{Pro dneÅ¡ek skonÄit.}
+{365}{}{Pro dneÅ¡ek skonÄit.}
+{370}{}{Co chcete? Budete jen plÃ½tvat mÃ½m Äasem, nebo si vsadÃ­te?}
+{371}{}{Jsem kdokoliv jen budete CHTÃT, zlato. TakÅ¾e, vsadÃ­te si?}
+{372}{}{Jsem kdokoliv jen budete CHTÃT, sleÄno. TakÅ¾e, vsadÃ­te si?}
 {373}{}{[Vsadit si]}
-{374}{}{Jo. Vsadím se, e víte, kde je Hezoun Lloyd.}
-{375}{}{Jo. Vsadím se, e jste s Hezounem Lloydem okrádali pana Salvatora. Tìko uvìøit, e jste si nevšimla, e neustále podvádìl.}
-{376}{}{Znáte nìkoho jménem Hezoun Lloyd?}
-{377}{}{Promluvíme si pozdìji, Nikki.}
-{380}{}{Jo, slyšela jsem, e je MRTVİ. To jste chtìl slyšet, vy vrahu?! Co?! Vsadíte si u, nebo budete dál kecat hovadiny?}
-{381}{}{Ne. Vsadíte si?}
+{374}{}{Jo. VsadÃ­m se, Å¾e vÃ­te, kde je Hezoun Lloyd.}
+{375}{}{Jo. VsadÃ­m se, Å¾e jste s Hezounem Lloydem okrÃ¡dali pana Salvatora. TÄ›Å¾ko uvÄ›Å™it, Å¾e jste si nevÅ¡imla, Å¾e neustÃ¡le podvÃ¡dÄ›l.}
+{376}{}{ZnÃ¡te nÄ›koho jmÃ©nem Hezoun Lloyd?}
+{377}{}{PromluvÃ­me si pozdÄ›ji, Nikki.}
+{380}{}{Jo, slyÅ¡ela jsem, Å¾e je MRTVÃ. To jste chtÄ›l slyÅ¡et, vy vrahu?! Co?! VsadÃ­te si uÅ¾, nebo budete dÃ¡l kecat hovadiny?}
+{381}{}{Ne. VsadÃ­te si?}
 {382}{}{[Vsadit si]}
-{383}{}{Jo. Vsadím se, e víte, kde je Hezoun Lloyd.}
-{384}{}{Jo. Vsadím se, e jste s Hezounem Lloyd okrádali pana Salvatora. Tìko uvìøit, e jste si nevšimla, e neustále podvádìl.}
-{385}{}{Promluvíme si pozdìji, Nikki.}
-{390}{}{V tom pøípadì byste tu sázku PROHRÁL, zlato, ale jestli jste stejnì tak blbı jako ošklivı, tak byste si stejnì vsadil. Nevidìla jsem toho pobudu od té doby, co podvedl pana Salvatora.}
-{391}{}{V tom pøípadì byste tu sázku PROHRÁL, zlato. Nevidìla jsem toho pobudu od té doby, co podvedl pana Salvatora.}
-{392}{}{V tom pøípadì byste tu sázku PROHRÁLA, sleèno. Nevidìla jsem toho pobudu od té doby, co podvedl pana Salvatora.}
-{393}{}{Moná jste mì napoprvé neslyšela, take to ještì jednou zopakuju: Kde je Lloyd?}
-{394}{}{To je velmi podezøelé, e jste si nevšimla, e neustále podvádìl. Musela byste bıt slepá... nebo podplacená.}
-{395}{}{Fajn. Promluvíme si pozdìji, Nikki.}
-{400}{}{Zlato, ØEKLA jsem vám, e nevím, kde je. Podívejte, já tady PRACUJI, take se vrate do té své jeskynì...}
-{401}{}{Sleèno, ØEKLA jsem vám, e nevím, kde je. Podívejte, já tady PRACUJI, take se vrate do té své jeskynì...}
-{402}{}{Nikki, Nikki... ztrácím TRPÌLIVOST. Jestli mi neøeknete, kde je Lloyd, tak ztratím i své zábrany.}
-{403}{}{Nikki, nevím, co se stalo mezi vámi a Lloydem, ale víte co? NEPOTØEBUJU to vìdìt. Staèí, kdy panu Salvatorovi povím o svém podezøení.}
-{404}{}{Nikki, vím, e jste pomáhala Lloydovi podvádìt. Øeknìte mi, kde je a já vám dám polovinu z toho, co si odtud odnesl: 500 babek.}
-{405}{}{To je velmi podezøelé, e jste si nevšimla, e neustále podvádìl. Musela byste bıt slepá... nebo podplacená.}
-{406}{}{Promluvíme si pozdìji, Nikki.}
-{410}{}{Dotknìte se mì a pan Salvatore vás stáhne zaiva z kùe.}
-{411}{}{Salvatore vás neochrání. Rozdavaèù karet, jako jste vy, jsou tucty. Vyserte se na ty kecy a øeknìte mi, kde je Lloyd, NEBO...}
-{412}{}{Salvatore vás neochrání. Je mrtvı. Vyserte se na ty kecy a øeknìte mi, kde je Lloyd, NEBO...}
-{413}{}{Nikki, vím, e jste pomáhala Lloydovi podvádìt. Øeknìte mi, kde je a já vám dám polovinu z toho, co si odtud odnesl: 500 babek.}
-{414}{}{To je velmi podezøelé, e jste si nevšimla, e neustále podvádìl. Musela byste bıt slepá... nebo podplacená.}
-{415}{}{Promluvíme si pozdìji, Nikki.}
-{420}{}{O èem to mluvíš?}
-{421}{}{Nikki, jestli mi teï všechno neøeknete, øeknu panu Salvatorovi, e v tom jedete taky, a u je to pravda nebo ne. Øekne Masonovi, a vás naporcuje a rozemele do sekané a vaše pozice bude do hodiny obsazená nìkım jinım.}
-{422}{}{Nikki, vím, e jste pomáhala Lloydovi podvádìt. Øeknìte mi, kde je a já vám dám polovinu z toho, co si odtud odnesl: 500 babek.}
-{423}{}{To je velmi podezøelé, e jste si nevšimla, e neustále podvádìl. Musela byste bıt slepá... nebo podplacená.}
-{424}{}{Promluvíme si pozdìji, Nikki.}
-{430}{}{Podívejte, JAK JSEM ØEKLA, já nevím kde je. Ale *moná* jsem zaslechla, e mìl kdysi pokoj u Desperada. Moná tam nìco najdete. A pokud mì omluvíte, vrátím se zpìt ke své práci.}
-{431}{}{Nikki, vím, e jste pomáhala Lloydovi podvádìt. Øeknìte mi, kde je a já vám dám polovinu z toho, co si odtud odnesl: 500 babek.}
-{432}{}{To je velmi podezøelé, e jste si nevšimla, e neustále podvádìl. Musela byste bıt slepá... nebo podplacená.}
-{433}{}{Promluvíme si pozdìji, Nikki.}
-{440}{}{Podívejte, ZAÈALA jsem tu pracovat teprve nedávno a ještì neodhalím kadého poèítaèe karet a vychytralého podvodníka, co sem pøijde. Také mám kliku na takové blbce, jako jste vy.}
+{383}{}{Jo. VsadÃ­m se, Å¾e vÃ­te, kde je Hezoun Lloyd.}
+{384}{}{Jo. VsadÃ­m se, Å¾e jste s Hezounem Lloyd okrÃ¡dali pana Salvatora. TÄ›Å¾ko uvÄ›Å™it, Å¾e jste si nevÅ¡imla, Å¾e neustÃ¡le podvÃ¡dÄ›l.}
+{385}{}{PromluvÃ­me si pozdÄ›ji, Nikki.}
+{390}{}{V tom pÅ™Ã­padÄ› byste tu sÃ¡zku PROHRÃL, zlato, ale jestli jste stejnÄ› tak blbÃ½ jako oÅ¡klivÃ½, tak byste si stejnÄ› vsadil. NevidÄ›la jsem toho pobudu od tÃ© doby, co podvedl pana Salvatora.}
+{391}{}{V tom pÅ™Ã­padÄ› byste tu sÃ¡zku PROHRÃL, zlato. NevidÄ›la jsem toho pobudu od tÃ© doby, co podvedl pana Salvatora.}
+{392}{}{V tom pÅ™Ã­padÄ› byste tu sÃ¡zku PROHRÃLA, sleÄno. NevidÄ›la jsem toho pobudu od tÃ© doby, co podvedl pana Salvatora.}
+{393}{}{MoÅ¾nÃ¡ jste mÄ› napoprvÃ© neslyÅ¡ela, takÅ¾e to jeÅ¡tÄ› jednou zopakuju: Kde je Lloyd?}
+{394}{}{To je velmi podezÅ™elÃ©, Å¾e jste si nevÅ¡imla, Å¾e neustÃ¡le podvÃ¡dÄ›l. Musela byste bÃ½t slepÃ¡... nebo podplacenÃ¡.}
+{395}{}{Fajn. PromluvÃ­me si pozdÄ›ji, Nikki.}
+{400}{}{Zlato, Å˜EKLA jsem vÃ¡m, Å¾e nevÃ­m, kde je. PodÃ­vejte, jÃ¡ tady PRACUJI, takÅ¾e se vraÅ¥te do tÃ© svÃ© jeskynÄ›...}
+{401}{}{SleÄno, Å˜EKLA jsem vÃ¡m, Å¾e nevÃ­m, kde je. PodÃ­vejte, jÃ¡ tady PRACUJI, takÅ¾e se vraÅ¥te do tÃ© svÃ© jeskynÄ›...}
+{402}{}{Nikki, Nikki... ztrÃ¡cÃ­m TRPÄšLIVOST. Jestli mi neÅ™eknete, kde je Lloyd, tak ztratÃ­m i svÃ© zÃ¡brany.}
+{403}{}{Nikki, nevÃ­m, co se stalo mezi vÃ¡mi a Lloydem, ale vÃ­te co? NEPOTÅ˜EBUJU to vÄ›dÄ›t. StaÄÃ­, kdyÅ¾ panu Salvatorovi povÃ­m o svÃ©m podezÅ™enÃ­.}
+{404}{}{Nikki, vÃ­m, Å¾e jste pomÃ¡hala Lloydovi podvÃ¡dÄ›t. Å˜eknÄ›te mi, kde je a jÃ¡ vÃ¡m dÃ¡m polovinu z toho, co si odtud odnesl: 500 babek.}
+{405}{}{To je velmi podezÅ™elÃ©, Å¾e jste si nevÅ¡imla, Å¾e neustÃ¡le podvÃ¡dÄ›l. Musela byste bÃ½t slepÃ¡... nebo podplacenÃ¡.}
+{406}{}{PromluvÃ­me si pozdÄ›ji, Nikki.}
+{410}{}{DotknÄ›te se mÄ› a pan Salvatore vÃ¡s stÃ¡hne zaÅ¾iva z kÅ¯Å¾e.}
+{411}{}{Salvatore vÃ¡s neochrÃ¡nÃ­. RozdavaÄÅ¯ karet, jako jste vy, jsou tucty. Vyserte se na ty kecy a Å™eknÄ›te mi, kde je Lloyd, NEBO...}
+{412}{}{Salvatore vÃ¡s neochrÃ¡nÃ­. Je mrtvÃ½. Vyserte se na ty kecy a Å™eknÄ›te mi, kde je Lloyd, NEBO...}
+{413}{}{Nikki, vÃ­m, Å¾e jste pomÃ¡hala Lloydovi podvÃ¡dÄ›t. Å˜eknÄ›te mi, kde je a jÃ¡ vÃ¡m dÃ¡m polovinu z toho, co si odtud odnesl: 500 babek.}
+{414}{}{To je velmi podezÅ™elÃ©, Å¾e jste si nevÅ¡imla, Å¾e neustÃ¡le podvÃ¡dÄ›l. Musela byste bÃ½t slepÃ¡... nebo podplacenÃ¡.}
+{415}{}{PromluvÃ­me si pozdÄ›ji, Nikki.}
+{420}{}{O Äem to mluvÃ­Å¡?}
+{421}{}{Nikki, jestli mi teÄ vÅ¡echno neÅ™eknete, Å™eknu panu Salvatorovi, Å¾e v tom jedete taky, aÅ¥ uÅ¾ je to pravda nebo ne. Å˜ekne Masonovi, aÅ¥ vÃ¡s naporcuje a rozemele do sekanÃ© a vaÅ¡e pozice bude do hodiny obsazenÃ¡ nÄ›kÃ½m jinÃ½m.}
+{422}{}{Nikki, vÃ­m, Å¾e jste pomÃ¡hala Lloydovi podvÃ¡dÄ›t. Å˜eknÄ›te mi, kde je a jÃ¡ vÃ¡m dÃ¡m polovinu z toho, co si odtud odnesl: 500 babek.}
+{423}{}{To je velmi podezÅ™elÃ©, Å¾e jste si nevÅ¡imla, Å¾e neustÃ¡le podvÃ¡dÄ›l. Musela byste bÃ½t slepÃ¡... nebo podplacenÃ¡.}
+{424}{}{PromluvÃ­me si pozdÄ›ji, Nikki.}
+{430}{}{PodÃ­vejte, JAK JSEM Å˜EKLA, jÃ¡ nevÃ­m kde je. Ale *moÅ¾nÃ¡* jsem zaslechla, Å¾e mÄ›l kdysi pokoj u Desperada. MoÅ¾nÃ¡ tam nÄ›co najdete. A pokud mÄ› omluvÃ­te, vrÃ¡tÃ­m se zpÄ›t ke svÃ© prÃ¡ci.}
+{431}{}{Nikki, vÃ­m, Å¾e jste pomÃ¡hala Lloydovi podvÃ¡dÄ›t. Å˜eknÄ›te mi, kde je a jÃ¡ vÃ¡m dÃ¡m polovinu z toho, co si odtud odnesl: 500 babek.}
+{432}{}{To je velmi podezÅ™elÃ©, Å¾e jste si nevÅ¡imla, Å¾e neustÃ¡le podvÃ¡dÄ›l. Musela byste bÃ½t slepÃ¡... nebo podplacenÃ¡.}
+{433}{}{PromluvÃ­me si pozdÄ›ji, Nikki.}
+{440}{}{PodÃ­vejte, ZAÄŒALA jsem tu pracovat teprve nedÃ¡vno a jeÅ¡tÄ› neodhalÃ­m kaÅ¾dÃ©ho poÄÃ­taÄe karet a vychytralÃ©ho podvodnÃ­ka, co sem pÅ™ijde. TakÃ© mÃ¡m kliku na takovÃ© blbce, jako jste vy.}
 {441}{}{Aha, tak takhle jste se dali s Lloydem dohromady, jo?}
-{442}{}{Take jste tu právì zaèala pracovat, jo? Velmi pøíhodné. No, to bude asi všechno. Øeknìte Lloydovi, e je mrtvı mu.}
-{443}{}{Nikki, vím, e jste pomáhala Lloydovi podvádìt. Øeknìte mi, kde je a já vám dám polovinu z toho, co si odtud odnesl: 500 babek.}
-{444}{}{Promluvíme si pozdìji, Nikki.}
-{450}{}{No jasnì, šlehnete si trochu Jetu a všechno se najednou zdá podezøelé, e?}
-{451}{}{Tohle JE podezøelé. Mìla jste odhadnout, co je Lloyd zaè v momentì, kdy se objevil v tomhle kasínu.}
-{452}{}{Nikki, vím, e jste pomáhala Lloydovi podvádìt. Øeknìte mi, kde je a já vám dám polovinu z toho, co si odtud odnesl: 500 babek.}
-{453}{}{Promluvíme si pozdìji, Nikki.}
-{460}{}{A teï odsud ihned vypadnìte. U vám nemám co øíct.}
-{461}{}{U vám nemám co øíct. Vypadnìte odsud.}
-{462}{}{Teï moná ne. Promluvíme si pozdìji, Nikki. Poèítejte s tím.}
-{470}{}{Mluvíte tak pøesvìdèivì... ale to kadá svinì. MONÁ vím, kde je Lloyd, MONÁ nevím. Máte 500 babek?}
-{471}{}{Moná. Záleí na tom, co pro mì máte.}
-{480}{}{MONÁ, e Lloyd má stále mùj podíl a nejsem si jistá, e mi ho dá. Take MONÁ vám za 500 babek povím, kde se právì teï skrıvá.}
-{481}{}{Platí. Tady máte 500 babek. Øeknìte mi, kde je.}
-{482}{}{To je pìknì pøehnaná cena za samé "asi" a "moná". Najdu si ho sám.}
-{483}{}{Nemám dost penìz, ale ještì se vrátím. Doufám, e tu ještì budete, a se vrátím.}
-{490}{}{(Vezme si úplatek.) Podívejte se do kotelny v suterénu podniku Desperado. Tam by se ten zkurvysyn mìl schovávat, kdyby se to profláklo.}
-{491}{}{Tak dobøe. Mìjte se, Nikki.}
-{500}{}{Nechcete odsud u vypadnout?! Nesmí nás vidìt, e spolu takhle mluvíme, jinak se to ROZKØIKNE. Rozumíte?}
-{501}{}{Tak dobøe. Mìjte se, Nikki.}
-{510}{}{Jdìte k èertu! U vám nic neøeknu. NIKDY.}
-{511}{}{To je opravdu škoda. Mìjte se, Nikki.}
-{600}{}{Podaøilo se ti podplatit Nikki, aby ti øekla, kde se Lloyd pravdìpodobnì skrıvá.}
+{442}{}{TakÅ¾e jste tu prÃ¡vÄ› zaÄala pracovat, jo? Velmi pÅ™Ã­hodnÃ©. No, to bude asi vÅ¡echno. Å˜eknÄ›te Lloydovi, Å¾e je mrtvÃ½ muÅ¾.}
+{443}{}{Nikki, vÃ­m, Å¾e jste pomÃ¡hala Lloydovi podvÃ¡dÄ›t. Å˜eknÄ›te mi, kde je a jÃ¡ vÃ¡m dÃ¡m polovinu z toho, co si odtud odnesl: 500 babek.}
+{444}{}{PromluvÃ­me si pozdÄ›ji, Nikki.}
+{450}{}{No jasnÄ›, Å¡lehnete si trochu Jetu a vÅ¡echno se najednou zdÃ¡ podezÅ™elÃ©, Å¾e?}
+{451}{}{Tohle JE podezÅ™elÃ©. MÄ›la jste odhadnout, co je Lloyd zaÄ v momentÄ›, kdy se objevil v tomhle kasÃ­nu.}
+{452}{}{Nikki, vÃ­m, Å¾e jste pomÃ¡hala Lloydovi podvÃ¡dÄ›t. Å˜eknÄ›te mi, kde je a jÃ¡ vÃ¡m dÃ¡m polovinu z toho, co si odtud odnesl: 500 babek.}
+{453}{}{PromluvÃ­me si pozdÄ›ji, Nikki.}
+{460}{}{A teÄ odsud ihned vypadnÄ›te. UÅ¾ vÃ¡m nemÃ¡m co Å™Ã­ct.}
+{461}{}{UÅ¾ vÃ¡m nemÃ¡m co Å™Ã­ct. VypadnÄ›te odsud.}
+{462}{}{TeÄ moÅ¾nÃ¡ ne. PromluvÃ­me si pozdÄ›ji, Nikki. PoÄÃ­tejte s tÃ­m.}
+{470}{}{MluvÃ­te tak pÅ™esvÄ›dÄivÄ›... ale to kaÅ¾dÃ¡ svinÄ›. MOÅ½NÃ vÃ­m, kde je Lloyd, MOÅ½NÃ nevÃ­m. MÃ¡te 500 babek?}
+{471}{}{MoÅ¾nÃ¡. ZÃ¡leÅ¾Ã­ na tom, co pro mÄ› mÃ¡te.}
+{480}{}{MOÅ½NÃ, Å¾e Lloyd mÃ¡ stÃ¡le mÅ¯j podÃ­l a nejsem si jistÃ¡, Å¾e mi ho dÃ¡. TakÅ¾e MOÅ½NÃ vÃ¡m za 500 babek povÃ­m, kde se prÃ¡vÄ› teÄ skrÃ½vÃ¡.}
+{481}{}{PlatÃ­. Tady mÃ¡te 500 babek. Å˜eknÄ›te mi, kde je.}
+{482}{}{To je pÄ›knÄ› pÅ™ehnanÃ¡ cena za samÃ© "asi" a "moÅ¾nÃ¡". Najdu si ho sÃ¡m.}
+{483}{}{NemÃ¡m dost penÄ›z, ale jeÅ¡tÄ› se vrÃ¡tÃ­m. DoufÃ¡m, Å¾e tu jeÅ¡tÄ› budete, aÅ¾ se vrÃ¡tÃ­m.}
+{490}{}{(Vezme si Ãºplatek.) PodÃ­vejte se do kotelny v suterÃ©nu podniku Desperado. Tam by se ten zkurvysyn mÄ›l schovÃ¡vat, kdyby se to proflÃ¡klo.}
+{491}{}{Tak dobÅ™e. MÄ›jte se, Nikki.}
+{500}{}{Nechcete odsud uÅ¾ vypadnout?! NesmÃ­ nÃ¡s vidÄ›t, Å¾e spolu takhle mluvÃ­me, jinak se to ROZKÅ˜IKNE. RozumÃ­te?}
+{501}{}{Tak dobÅ™e. MÄ›jte se, Nikki.}
+{510}{}{JdÄ›te k Äertu! UÅ¾ vÃ¡m nic neÅ™eknu. NIKDY.}
+{511}{}{To je opravdu Å¡koda. MÄ›jte se, Nikki.}
+{600}{}{PodaÅ™ilo se ti podplatit Nikki, aby ti Å™ekla, kde se Lloyd pravdÄ›podobnÄ› skrÃ½vÃ¡.}
 {1210}{}{. Can I help you with... anything?}
 {1214}{}{.}
-{1235}{}{. Nechceš utratit nìjaké peníze?}
-{1239}{}{, a vyhraj nìjaké peníze.}
+{1235}{}{. NechceÅ¡ utratit nÄ›jakÃ© penÃ­ze?}
+{1239}{}{, a vyhraj nÄ›jakÃ© penÃ­ze.}
 {1241}{}{.}
-{1242}{}{. Dej mi vìdet, a budeš potøebovat s nìèím pomoci.}
+{1242}{}{. Dej mi vÄ›det, aÅ¾ budeÅ¡ potÅ™ebovat s nÄ›ÄÃ­m pomoci.}
 {1243}{}{?}
 {1244}{}{.}
-{1251}{}{... (Mrkne na tebe.) ...nechceš si zahrát?}
-{1252}{}{... (Usmìje se.) ...nechceš zkusit štìstí?}
-{1253}{}{, tak jsi na správné adrese.}
-{1266}{}{, a vyhraj nìjaké peníze.}
+{1251}{}{... (Mrkne na tebe.) ...nechceÅ¡ si zahrÃ¡t?}
+{1252}{}{... (UsmÄ›je se.) ...nechceÅ¡ zkusit Å¡tÄ›stÃ­?}
+{1253}{}{, tak jsi na sprÃ¡vnÃ© adrese.}
+{1266}{}{, a vyhraj nÄ›jakÃ© penÃ­ze.}
 {1268}{}{.}
-{1314}{}{ vdy potøebovat další nová vìc v inventáø.}
-{2699}{}{Tancuješ dnes?}
+{1314}{}{ vÅ¾dy potÅ™ebovat dalÅ¡Ã­ novÃ¡ vÄ›c v inventÃ¡Å™.}
+{2699}{}{TancujeÅ¡ dnes?}

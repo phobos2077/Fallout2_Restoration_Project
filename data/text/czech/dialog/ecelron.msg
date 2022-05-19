@@ -1,6 +1,6 @@
-{100}{}{Vidíš Hubologistu.}
-{101}{}{Myslíš si, e mùeš uniknout rozhnìvanım oèím Hubu?}
-{102}{}{Jste špinavci. Jste rekruti. Modlete se, aby se z vás nestali nepøátelé.}
-{103}{}{Nechceš se pøidat k Hubologistùm?}
-{104}{}{Pohybuj se opatrnì. Shi jsou ve mìstì. Nièemu a nikomu ve mìstì neubliuj.}
-{105}{}{Moná tì necháme nahlédnout do našeho projektu.}
+{100}{}{VidÃ­Å¡ Hubologistu.}
+{101}{}{MyslÃ­Å¡ si, Å¾e mÅ¯Å¾eÅ¡ uniknout rozhnÄ›vanÃ½m oÄÃ­m Hubu?}
+{102}{}{Jste Å¡pinavci. Jste rekruti. Modlete se, aby se z vÃ¡s nestali nepÅ™Ã¡telÃ©.}
+{103}{}{NechceÅ¡ se pÅ™idat k HubologistÅ¯m?}
+{104}{}{Pohybuj se opatrnÄ›. Shi jsou ve mÄ›stÄ›. NiÄemu a nikomu ve mÄ›stÄ› neubliÅ¾uj.}
+{105}{}{MoÅ¾nÃ¡ tÄ› nechÃ¡me nahlÃ©dnout do naÅ¡eho projektu.}

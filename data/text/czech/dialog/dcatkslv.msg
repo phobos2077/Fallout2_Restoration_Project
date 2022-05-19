@@ -1,38 +1,38 @@
-{100}{}{Tenhle mu vypadá docela silnì a ostraitì.}
-{101}{}{Zdá se bıt silná navzdory své postavì.}
-{200}{}{Zdá se bıt dìsnì hubenı, ale rozzlobenı.}
-{201}{}{Tenhle vypadá docela silnì.}
+{100}{}{Tenhle muÅ¾ vypadÃ¡ docela silnÄ› a ostraÅ¾itÄ›.}
+{101}{}{ZdÃ¡ se bÃ½t silnÃ¡ navzdory svÃ© postavÄ›.}
+{200}{}{ZdÃ¡ se bÃ½t dÄ›snÄ› hubenÃ½, ale rozzlobenÃ½.}
+{201}{}{Tenhle vypadÃ¡ docela silnÄ›.}
 {202}{}{Pohybuje se velmi rychle.}
-{210}{}{Nevypadá to, e by se nìkdy koupala.}
-{211}{}{Vypadá jako silná bojovnice.}
-{212}{}{Nevypadá to, e bude dìlat potíe.}
-{245}{}{Ticho! Oni blízko.}
-{246}{}{Zabít špatnı èlovìk.}
+{210}{}{NevypadÃ¡ to, Å¾e by se nÄ›kdy koupala.}
+{211}{}{VypadÃ¡ jako silnÃ¡ bojovnice.}
+{212}{}{NevypadÃ¡ to, Å¾e bude dÄ›lat potÃ­Å¾e.}
+{245}{}{Ticho! Oni blÃ­zko.}
+{246}{}{ZabÃ­t Å¡patnÃ½ ÄlovÄ›k.}
 {247}{}{Nebrat moje rodina.}
-{248}{}{Já chránit rodina.}
-{249}{}{Nesmìt najít nás.}
-{250}{}{Oni špatnı lidé.}
-{260}{}{Pøicházejí otrokáøi. Všichni buïte zticha.}
-{261}{}{Pøipravte se. Myslím, e u jsou blízko.}
-{262}{}{Bez boje se nevzdám.}
-{263}{}{Nikdy nás nezotroèí.}
-{264}{}{Za to otrokáøi zaplatí.}
-{265}{}{ádnı otrokáø mi nevezme moji rodinu.}
-{300}{}{Teï chcípnout!}
-{301}{}{Já zabít!}
+{248}{}{JÃ¡ chrÃ¡nit rodina.}
+{249}{}{NesmÄ›t najÃ­t nÃ¡s.}
+{250}{}{Oni Å¡patnÃ½ lidÃ©.}
+{260}{}{PÅ™ichÃ¡zejÃ­ otrokÃ¡Å™i. VÅ¡ichni buÄte zticha.}
+{261}{}{PÅ™ipravte se. MyslÃ­m, Å¾e uÅ¾ jsou blÃ­zko.}
+{262}{}{Bez boje se nevzdÃ¡m.}
+{263}{}{Nikdy nÃ¡s nezotroÄÃ­.}
+{264}{}{Za to otrokÃ¡Å™i zaplatÃ­.}
+{265}{}{Å½Ã¡dnÃ½ otrokÃ¡Å™ mi nevezme moji rodinu.}
+{300}{}{TeÄ chcÃ­pnout!}
+{301}{}{JÃ¡ zabÃ­t!}
 {302}{}{Ty nezranit rodina!}
-{303}{}{Ty nevzít rodina!}
-{304}{}{Já ochránit!}
-{305}{}{Zraním ty!}
+{303}{}{Ty nevzÃ­t rodina!}
+{304}{}{JÃ¡ ochrÃ¡nit!}
+{305}{}{ZranÃ­m ty!}
 {306}{}{Ty zaplatit!}
-{307}{}{Ty zemøít!}
-{308}{}{Chystám se ty zranit.}
-{350}{}{Moji rodinu nedostaneš, otrokáøi!}
-{351}{}{Zhyò, otrokáøská špíno!}
-{352}{}{Za to zaplatíš, ty bastarde!}
-{353}{}{Za svoji rodinu budu bojovat do poslední kapky krve!}
+{307}{}{Ty zemÅ™Ã­t!}
+{308}{}{ChystÃ¡m se ty zranit.}
+{350}{}{Moji rodinu nedostaneÅ¡, otrokÃ¡Å™i!}
+{351}{}{ZhyÅˆ, otrokÃ¡Å™skÃ¡ Å¡pÃ­no!}
+{352}{}{Za to zaplatÃ­Å¡, ty bastarde!}
+{353}{}{Za svoji rodinu budu bojovat do poslednÃ­ kapky krve!}
 {354}{}{Tohle ti neprojde!}
-{355}{}{Odtud se s mımi pøáteli nedostaneš!}
-{356}{}{Za tohle tì dostanu!}
-{357}{}{Zatracení otrokáøi!}
-{358}{}{Za to zaplatíš!}
+{355}{}{Odtud se s mÃ½mi pÅ™Ã¡teli nedostaneÅ¡!}
+{356}{}{Za tohle tÄ› dostanu!}
+{357}{}{ZatracenÃ­ otrokÃ¡Å™i!}
+{358}{}{Za to zaplatÃ­Å¡!}

@@ -1,5 +1,5 @@
-{100}{}{Vstupuješ do nìkolika tunelù pod Loveckou ètvrtí. Cítíš velmi silnı smrad z krysích hoven.}
-{101}{}{Vıbuch zpùsobil zlomení poškozenıch podpìr a sesunutí laviny kamení. Slyšíš hlasité praskání ozıvající se celou jeskyní. Jak se tak rozhlííš kolem sebe, vidíš, e ostatní poškozené podpìry u také dlouho nevydrí.}
-{103}{}{Podaøilo se ti chytit Krále Krysu do pasti! Jeliko se nemùe dostat, tak hladovìní bude to jediné, co si teï bude plnımi doušky uívat.}
-{104}{}{Radìji rychle zmizím z dosahu tìch poškozenıch podpìr, ne mì to rozmaèká nebo zavalí a u se nedostanu nikdy ven.}
-{105}{}{Další podpìry se zlomily a lavina kamení se valí dolù.}
+{100}{}{VstupujeÅ¡ do nÄ›kolika tunelÅ¯ pod Loveckou ÄtvrtÃ­. CÃ­tÃ­Å¡ velmi silnÃ½ smrad z krysÃ­ch hoven.}
+{101}{}{VÃ½buch zpÅ¯sobil zlomenÃ­ poÅ¡kozenÃ½ch podpÄ›r a sesunutÃ­ laviny kamenÃ­. SlyÅ¡Ã­Å¡ hlasitÃ© praskÃ¡nÃ­ ozÃ½vajÃ­cÃ­ se celou jeskynÃ­. Jak se tak rozhlÃ­Å¾Ã­Å¡ kolem sebe, vidÃ­Å¡, Å¾e ostatnÃ­ poÅ¡kozenÃ© podpÄ›ry uÅ¾ takÃ© dlouho nevydrÅ¾Ã­.}
+{103}{}{PodaÅ™ilo se ti chytit KrÃ¡le Krysu do pasti! JelikoÅ¾ se nemÅ¯Å¾e dostat, tak hladovÄ›nÃ­ bude to jedinÃ©, co si teÄ bude plnÃ½mi douÅ¡ky uÅ¾Ã­vat.}
+{104}{}{RadÄ›ji rychle zmizÃ­m z dosahu tÄ›ch poÅ¡kozenÃ½ch podpÄ›r, neÅ¾ mÄ› to rozmaÄkÃ¡ nebo zavalÃ­ a uÅ¾ se nedostanu nikdy ven.}
+{105}{}{DalÅ¡Ã­ podpÄ›ry se zlomily a lavina kamenÃ­ se valÃ­ dolÅ¯.}

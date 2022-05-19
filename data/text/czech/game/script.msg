@@ -1,3 +1,3 @@
-{20}{}{Smyèka}
-{21}{}{Testuji, jedna, dva, já!}
+{20}{}{SmyÄka}
+{21}{}{Testuji, jedna, dva, jÃ¡!}
 {22}{}{jo.  bezva!}

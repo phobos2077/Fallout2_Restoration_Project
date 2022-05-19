@@ -1,206 +1,206 @@
 #.  .  .  .  .  .  .  .  .
 
-#ÈEŠTINA PRO RESTORATION PROJECT 2.3.3
+#ÄŒEÅ TINA PRO RESTORATION PROJECT 2.3.3
 
-@Vedoucí projektu, vaulmaster, alkoholik a
-@Expert expedice exkrementù v jedné osobì
-Jiøí "JaW" Kuèera
+@VedoucÃ­ projektu, vaulmaster, alkoholik a
+@Expert expedice exkrementÅ¯ v jednÃ© osobÄ›
+JiÅ™Ã­ "JaW" KuÄera
 
-@Kontrola a oprava všech textù ve høe oproti originálu!
-@Zástupce, pravá i levá ruka vedoucího projektu
-Aleš "Ewil" Horák
+@Kontrola a oprava vÅ¡ech textÅ¯ ve hÅ™e oproti originÃ¡lu!
+@ZÃ¡stupce, pravÃ¡ i levÃ¡ ruka vedoucÃ­ho projektu
+AleÅ¡ "Ewil" HorÃ¡k
 
-@Pøeklad
-Aleš "Ewil" Horák
+@PÅ™eklad
+AleÅ¡ "Ewil" HorÃ¡k
 Martin "Pahars" Bardun
 Pavel "Paja" Mohyla
-Kristına "Tina" Snìgoòová
+KristÃ½na "Tina" SnÄ›goÅˆovÃ¡
 Jan "Smejki" Smejkal
-Jiøí "JaW" Kuèera
+JiÅ™Ã­ "JaW" KuÄera
 "Kexx"
-Ladislav "Cain" Horák
-Vojtìch "Anei" Dundáèek
-Vít "Cruz" Horák
+Ladislav "Cain" HorÃ¡k
+VojtÄ›ch "Anei" DundÃ¡Äek
+VÃ­t "Cruz" HorÃ¡k
 "Shoggot"
-Lukáš "Knedlik" Straka
-Mikuláš "WestFlame" Krupièka
+LukÃ¡Å¡ "Knedlik" Straka
+MikulÃ¡Å¡ "WestFlame" KrupiÄka
 "Wooz"
 "jegros"
-"SaPéR"
+"SaPÃ©R"
 "Maxidejf"
-"Habík"
-"bidík"
+"HabÃ­k"
+"bidÃ­k"
 "Filipos"
-Tomáš "5thWheeL" Chlupa
+TomÃ¡Å¡ "5thWheeL" Chlupa
 "Templayer"
 
 @Grafika
-Milan "Toudi" Kušnier a Peter "Bigy" Kušnier
-(High Resolution patch interface, F1 nápovìda,
-zmìny v interface, pøedìlávky cedulí do èeštiny)
-Jan "Smejki" Smejkal (cedule Mámin sirotèinec)
-Jiøí "JaW" Kuèera (tlaèítko Nájezdníci)
+Milan "Toudi" KuÅ¡nier a Peter "Bigy" KuÅ¡nier
+(High Resolution patch interface, F1 nÃ¡povÄ›da,
+zmÄ›ny v interface, pÅ™edÄ›lÃ¡vky cedulÃ­ do ÄeÅ¡tiny)
+Jan "Smejki" Smejkal (cedule MÃ¡min sirotÄinec)
+JiÅ™Ã­ "JaW" KuÄera (tlaÄÃ­tko NÃ¡jezdnÃ­ci)
 
-@Pomocnou ruku dále podali
-Pavel "Ronin" Beran - poutaè k pøekladu
-"Continuum" - odborná pomoc s grafikou
-"Killap" - pomoc s vytvoøením instalátoru 
-a další mutanti a ghoulové z fóra VŠB.
+@Pomocnou ruku dÃ¡le podali
+Pavel "Ronin" Beran - poutaÄ k pÅ™ekladu
+"Continuum" - odbornÃ¡ pomoc s grafikou
+"Killap" - pomoc s vytvoÅ™enÃ­m instalÃ¡toru 
+a dalÅ¡Ã­ mutanti a ghoulovÃ© z fÃ³ra VÅ B.
 
 @Betatest
-Ondøej "Hakunin" Leksa
-Milan "Toudi" Kušnier
-"SaPéR"
+OndÅ™ej "Hakunin" Leksa
+Milan "Toudi" KuÅ¡nier
+"SaPÃ©R"
 Pavel "Paja" Mohyla
-Kristına "Tina" Snìgoòová
+KristÃ½na "Tina" SnÄ›goÅˆovÃ¡
 Krvavy_Patejl"
-Šimon "casino" Ševcech
+Å imon "casino" Å evcech
 Martin "Pahars" Bardun
 Jan "Smejki" Smejkal
-Tomáš "Perry" Perecz
-"bidík"
+TomÃ¡Å¡ "Perry" Perecz
+"bidÃ­k"
 
  
-#Nejnovìjší informace o svìtì Falloutu
-#a další pøeklady najdete v našem
-#Vaultu šílené brahmíny, na adrese:
+#NejnovÄ›jÅ¡Ã­ informace o svÄ›tÄ› Falloutu
+#a dalÅ¡Ã­ pÅ™eklady najdete v naÅ¡em
+#Vaultu Å¡Ã­lenÃ© brahmÃ­ny, na adrese:
 http://www.madbrahmin.cz
 
 
 #.  .  .  .  .  .  .  .  .
 
-#PÙVODNÍ ÈEŠTINA PRO FALLOUT 2
+#PÅ®VODNÃ ÄŒEÅ TINA PRO FALLOUT 2
 
 
-@Vedení projektu
-Karel "SOMNAMBULUS" Èervenka
+@VedenÃ­ projektu
+Karel "SOMNAMBULUS" ÄŒervenka
 
-@Programové záleitosti
+@ProgramovÃ© zÃ¡leÅ¾itosti
 Milan "LYSALEB" Tuser
-Radek "RADAR" Danìk
-René "RAPTOR" Spišák
+Radek "RADAR" DanÄ›k
+RenÃ© "RAPTOR" SpiÅ¡Ã¡k
 
 @Grafika
-Petr "LUCIFER666" Sedláèek
-Radek "RADAR" Danìk
+Petr "LUCIFER666" SedlÃ¡Äek
+Radek "RADAR" DanÄ›k
 
 @Fonty
 Idler
-René "RAPTOR" Spišák
+RenÃ© "RAPTOR" SpiÅ¡Ã¡k
 
-@Pøeklad
-@(seøazeno podle mnoství pøeloeného textu)
-Richard "MAWERICK" Kordík
+@PÅ™eklad
+@(seÅ™azeno podle mnoÅ¾stvÃ­ pÅ™eloÅ¾enÃ©ho textu)
+Richard "MAWERICK" KordÃ­k
 Jirka "BIRDMAN" Matyskiewicz
-Karel "SOMNAMBULUS" Èervenka
+Karel "SOMNAMBULUS" ÄŒervenka
 Radek "VACHY" Vachalec
-Radek "RADAR" Danìk
-Jiøí "MARKUS" Petrù
-Vladimír "SIR QWERTY" Sojka
+Radek "RADAR" DanÄ›k
+JiÅ™Ã­ "MARKUS" PetrÅ¯
+VladimÃ­r "SIR QWERTY" Sojka
 Radim "HIGHTOWER" Brix
-Václav "MYVAL" Kadoun
-Jarda "PIZDUCH" Škarda
-Tomáš "LOCKHEAR" Jureèka
+VÃ¡clav "MYVAL" Kadoun
+Jarda "PIZDUCH" Å karda
+TomÃ¡Å¡ "LOCKHEAR" JureÄka
 Patrik "GENIE" Lipina
-Marek "MAK" Gøešek
+Marek "MAK" GÅ™eÅ¡ek
 Radek "SENGAIA" Friedrich
-Martin "MAG2" Hošek
-René "RAPTOR" Spišák
-Petr "LEE" Bulíø
+Martin "MAG2" HoÅ¡ek
+RenÃ© "RAPTOR" SpiÅ¡Ã¡k
+Petr "LEE" BulÃ­Å™
 Michal "MISKOT" Hoferek
-"ÈEDIÈ"
+"ÄŒEDIÄŒ"
 
-@Betatestování
-Dana "ERINA" Baborová
-Luboš "GENERAL" Zálom
-Jan "HONZA" Èermák
-Jiøí "LEEROY" Nitsche
-Tomáš "LIRUK" Kuryl
-A. "LOLO" Opavskı
+@BetatestovÃ¡nÃ­
+Dana "ERINA" BaborovÃ¡
+LuboÅ¡ "GENERAL" ZÃ¡lom
+Jan "HONZA" ÄŒermÃ¡k
+JiÅ™Ã­ "LEEROY" Nitsche
+TomÃ¡Å¡ "LIRUK" Kuryl
+A. "LOLO" OpavskÃ½
 Petr "LONER" Vejmelka
-Petr "LUCIFER666" Sedláèek
+Petr "LUCIFER666" SedlÃ¡Äek
 Adam & Milan "LYSALEB" Tuser
-Richard "MAWERICK" Kordík
-Tomáš "THOMAS" Mazáè
+Richard "MAWERICK" KordÃ­k
+TomÃ¡Å¡ "THOMAS" MazÃ¡Ä
 Radek "VACHY" Vachalec
 
 @Korektury
-Ondøej "DRAKEN" Prùša
+OndÅ™ej "DRAKEN" PrÅ¯Å¡a
 Honza "HEROIN" Herodes
-Petr "LEE" Bulíø
-Radek "RADAR" Danìk
+Petr "LEE" BulÃ­Å™
+Radek "RADAR" DanÄ›k
 Radek "SENGAIA" Friedrich
-Karel "SOMNAMBULUS" Èervenka
+Karel "SOMNAMBULUS" ÄŒervenka
 
 @Web
 Petr "LONER" Vejmelka
 
-@Speciální podìkování od Somnambula
-- Celému FalloutIICZ tımu za jejich úsilí.
-Zvládnout nìco takovıho ve svém volném
-èase a èistì jen pro vlastní potìšení, to
-je nìco, nad èím moje okoralé srdce zjihlo...
+@SpeciÃ¡lnÃ­ podÄ›kovÃ¡nÃ­ od Somnambula
+- CelÃ©mu FalloutIICZ tÃ½mu za jejich ÃºsilÃ­.
+ZvlÃ¡dnout nÄ›co takovÃ½ho ve svÃ©m volnÃ©m
+Äase a ÄistÄ› jen pro vlastnÃ­ potÄ›Å¡enÃ­, to
+je nÄ›co, nad ÄÃ­m moje okoralÃ© srdce zjihlo...
 
-- RadaRovi za nekoneènou trpìlivost
-s jakou mi znova a znova vysvìtloval
-základní fakta. A vùbec za celé
-tohle dílo, kterı by bez nìj zaruèenì nevzniklo.
+- RadaRovi za nekoneÄnou trpÄ›livost
+s jakou mi znova a znova vysvÄ›tloval
+zÃ¡kladnÃ­ fakta. A vÅ¯bec za celÃ©
+tohle dÃ­lo, kterÃ½ by bez nÄ›j zaruÄenÄ› nevzniklo.
 
-- Raptorovi, kterı to všechno vlastnì zaèal
-a jeho komprimovací algoritmus nás
-v hodinì dvanácté zbavil našich
-noèních mùr o padání hry.
+- Raptorovi, kterÃ½ to vÅ¡echno vlastnÄ› zaÄal
+a jehoÅ¾ komprimovacÃ­ algoritmus nÃ¡s
+v hodinÄ› dvanÃ¡ctÃ© zbavil naÅ¡ich
+noÄnÃ­ch mÅ¯r o padÃ¡nÃ­ hry.
 
-- Mawerickovi za nejvetší kus pøekladu
-a fórky, kterıma mi neustále 
-pøehlcoval limit mailboxu.
+- Mawerickovi za nejvetÅ¡Ã­ kus pÅ™ekladu
+a fÃ³rky, kterÃ½ma mi neustÃ¡le 
+pÅ™ehlcoval limit mailboxu.
 
 - Birdmanovi za ty hlody a za komplex
-ménìcennosti, kterı ve mne vyvolal, kdy
-jsem zjistil, ze podobnı zhovadilosti
-vymyslet nedokáu.
+mÃ©nÄ›cennosti, kterÃ½ ve mne vyvolal, kdyÅ¾
+jsem zjistil, ze podobnÃ½ zhovadilosti
+vymyslet nedokÃ¡Å¾u.
 
-- Lonerovi za web, na kterım jsem se o sobì
-koneènì dozvìdìl jakej jsem parchant...:))
+- Lonerovi za web, na kterÃ½m jsem se o sobÄ›
+koneÄnÄ› dozvÄ›dÄ›l jakej jsem parchant...:))
 
-- Vachymu za obìtavost s jakou od odpadlíkù
-pøebíral nedodìlané kusy
+- Vachymu za obÄ›tavost s jakou od odpadlÃ­kÅ¯
+pÅ™ebÃ­ral nedodÄ›lanÃ© kusy
 
-- Nešastníkùm z Levelu, na kterı
+- NeÅ¡Å¥astnÃ­kÅ¯m z Levelu, na kterÃ½
 ty korektury nakonec spadly
 
-- K. S. za motivující
-báseò o Falloutu. Viz:
+- K. S. za motivujÃ­cÃ­
+bÃ¡seÅˆ o Falloutu. Viz:
 
 @Fallout je out
 @kdo ho hraje
 @nevyhraje
-@je naprosto debilní
-@pro dìdky senilní
+@je naprosto debilnÃ­
+@pro dÄ›dky senilnÃ­
 
 @Fallout je out
-@hemí se to zrùdama
-@s utrhanejma údama
-@tolik hnusnejch "lidí"
-@se málokdy vidí
+@hemÅ¾Ã­ se to zrÅ¯dama
+@s utrhanejma Ãºdama
+@tolik hnusnejch "lidÃ­"
+@se mÃ¡lokdy vidÃ­
 
 @Fallout je out
-@a co je nejhorší?
-@to, e to nekonèí!
-@bude tøetí díl
-@do prdele s ním!!!
+@a co je nejhorÅ¡Ã­?
+@to, Å¾e to nekonÄÃ­!
+@bude tÅ™etÃ­ dÃ­l
+@do prdele s nÃ­m!!!
 
-#Další informace o této èestine a její pøípadné
-#úpravy a vylepšení najdete na adrese:
+#DalÅ¡Ã­ informace o tÃ©to Äestine a jejÃ­ pÅ™Ã­padnÃ©
+#Ãºpravy a vylepÅ¡enÃ­ najdete na adrese:
 http://move.to/FalloutIICZ/
 
-#Fallout 2 je mrtev! At ije Fallout 3!
+#Fallout 2 je mrtev! At Å¾ije Fallout 3!
 
 #.  .  .  .  .  .  .  .  .
 
-@No a po tìch níe uvedenıch lidech jsme to pøekládali.
-@Bùh je naším svìdkem, e se nám to
-@ani trochu nepokoušeli usnadnit...:))
+@No a po tÄ›ch nÃ­Å¾e uvedenÃ½ch lidech jsme to pÅ™eklÃ¡dali.
+@BÅ¯h je naÅ¡Ã­m svÄ›dkem, Å¾e se nÃ¡m to
+@ani trochu nepokouÅ¡eli usnadnit...:))
 
 
 #FALLOUT 2 UNOFFICIAL PATCH

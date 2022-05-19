@@ -1,8 +1,8 @@
-{100}{}{Vidíš Obèana.}
-{101}{}{Vidíš asistenta koloniálu.}
-{102}{}{Jestli potøebujete pomoc, jdìte za Randalem.}
-{103}{}{Tady se shromaïuje zboí pro všechny Obèany.}
-{104}{}{Pokud nemáte povolení, dejte od toho zboí ruce pryè.}
-{105}{}{To je práce.}
-{106}{}{Randal vám pomùe s èímkoliv budete chtít.}
-{107}{}{Stroje ve Vaultu vyrábìjí hromadu tìchto vìcí.}
+{100}{}{VidÃ­Å¡ ObÄana.}
+{101}{}{VidÃ­Å¡ asistenta koloniÃ¡lu.}
+{102}{}{Jestli potÅ™ebujete pomoc, jdÄ›te za Randalem.}
+{103}{}{Tady se shromaÅ¾Äuje zboÅ¾Ã­ pro vÅ¡echny ObÄany.}
+{104}{}{Pokud nemÃ¡te povolenÃ­, dejte od toho zboÅ¾Ã­ ruce pryÄ.}
+{105}{}{To je prÃ¡ce.}
+{106}{}{Randal vÃ¡m pomÅ¯Å¾e s ÄÃ­mkoliv budete chtÃ­t.}
+{107}{}{Stroje ve Vaultu vyrÃ¡bÄ›jÃ­ hromadu tÄ›chto vÄ›cÃ­.}

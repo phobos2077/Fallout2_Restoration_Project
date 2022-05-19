@@ -1,5 +1,5 @@
-{100}{}{Vidíš terminál.}
-{101}{}{Zdá se, e tento terminál ovládá dveøe v této místnosti.}
-{102}{}{Slyšíš, jak se otevírají nìjaké dveøe.}
-{110}{}{Zdá se, e se nìco posunulo.}
-{120}{}{Elektrická podlaha vypustila vıboj.}
+{100}{}{VidÃ­Å¡ terminÃ¡l.}
+{101}{}{ZdÃ¡ se, Å¾e tento terminÃ¡l ovlÃ¡dÃ¡ dveÅ™e v tÃ©to mÃ­stnosti.}
+{102}{}{SlyÅ¡Ã­Å¡, jak se otevÃ­rajÃ­ nÄ›jakÃ© dveÅ™e.}
+{110}{}{ZdÃ¡ se, Å¾e se nÄ›co posunulo.}
+{120}{}{ElektrickÃ¡ podlaha vypustila vÃ½boj.}

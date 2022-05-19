@@ -1,10 +1,10 @@
-{100}{}{Vidíš... èerného hrdinu.}
-{101}{}{Vidíš svalnatého èernocha v kombinéze Vaultu 13. Rozzlobenì na tebe zírá.}
-{102}{}{Vidíš èernocha. Rozzlobenì na tebe zírá.}
-{103}{}{Vidíš èernocha. Rozzlobenì na tebe zírá.}
-{104}{}{Pùvodnì byl jedním z hrdinù pro Fallout 1.}
-{105}{}{Samozøejmì, e *já* jsem ve finální verzi chybìl.}
-{106}{}{Tvrdili, e by to bylo moc animací. Pøíliš obrázkù, øíkali.}
-{107}{}{Jsem èernej. Zbytek si domysli sám.}
-{108}{}{Pokadé, kdy u si zaèínáš myslet, e se dostaneš nahoru, pøijde nìjakej bílej a zmìní pravidla.}
-{109}{}{Chtìl bych toho hajzla dostat do rukou...}
+{100}{}{VidÃ­Å¡... ÄernÃ©ho hrdinu.}
+{101}{}{VidÃ­Å¡ svalnatÃ©ho Äernocha v kombinÃ©ze Vaultu 13. RozzlobenÄ› na tebe zÃ­rÃ¡.}
+{102}{}{VidÃ­Å¡ Äernocha. RozzlobenÄ› na tebe zÃ­rÃ¡.}
+{103}{}{VidÃ­Å¡ Äernocha. RozzlobenÄ› na tebe zÃ­rÃ¡.}
+{104}{}{PÅ¯vodnÄ› byl jednÃ­m z hrdinÅ¯ pro Fallout 1.}
+{105}{}{SamozÅ™ejmÄ›, Å¾e *jÃ¡* jsem ve finÃ¡lnÃ­ verzi chybÄ›l.}
+{106}{}{Tvrdili, Å¾e by to bylo moc animacÃ­. PÅ™Ã­liÅ¡ obrÃ¡zkÅ¯, Å™Ã­kali.}
+{107}{}{Jsem Äernej. Zbytek si domysli sÃ¡m.}
+{108}{}{PokaÅ¾dÃ©, kdyÅ¾ uÅ¾ si zaÄÃ­nÃ¡Å¡ myslet, Å¾e se dostaneÅ¡ nahoru, pÅ™ijde nÄ›jakej bÃ­lej a zmÄ›nÃ­ pravidla.}
+{109}{}{ChtÄ›l bych toho hajzla dostat do rukou...}

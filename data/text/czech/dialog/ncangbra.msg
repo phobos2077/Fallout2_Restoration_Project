@@ -1,14 +1,14 @@
-{100}{}{Vidíš mrzutou brahmínu.}
-{150}{}{Vidíš obrovskou, mrzutou brahmínu. Její bøicho vypadá nafoukle a oèi má podlité krví.}
-{151}{}{Vidíš obrovskou, mrzutou brahmínu. Její bøicho vypadá nafoukle a oèi má podlité krví. Vypadá velmi nemocnì. Moná existuje nìjaká monost, jak jí pomoct.}
+{100}{}{VidÃ­Å¡ mrzutou brahmÃ­nu.}
+{150}{}{VidÃ­Å¡ obrovskou, mrzutou brahmÃ­nu. JejÃ­ bÅ™icho vypadÃ¡ nafoukle a oÄi mÃ¡ podlitÃ© krvÃ­.}
+{151}{}{VidÃ­Å¡ obrovskou, mrzutou brahmÃ­nu. JejÃ­ bÅ™icho vypadÃ¡ nafoukle a oÄi mÃ¡ podlitÃ© krvÃ­. VypadÃ¡ velmi nemocnÄ›. MoÅ¾nÃ¡ existuje nÄ›jakÃ¡ moÅ¾nost, jak jÃ­ pomoct.}
 {198}{}{::Rnnnrrrrr?::}
 {199}{}{::Hrrnnnnr?::}
-{200}{}{Bùù}
-{201}{}{Bùùùùùùùùùù}
-{202}{}{Bùùùù}
+{200}{}{BÅ¯Å¯}
+{201}{}{BÅ¯Å¯Å¯Å¯Å¯Å¯Å¯Å¯Å¯Å¯}
+{202}{}{BÅ¯Å¯Å¯Å¯}
 {203}{}{::Rnnr::}
 {204}{}{::Rnnnrrrrr!!!::}
 {205}{}{::Gnnnnnrrrr!!!::}
 {206}{}{::Hrrnnnnr!!!::}
-{225}{}{Úspìšnì se ti podaøilo vytáhnout nìjakou vìc, která uvízla brahmínì ve støevech.}
-{235}{}{Nìco uvízlo brahmínì ve støevech, ale nepodaøilo se ti to vytáhnout.}
+{225}{}{ÃšspÄ›Å¡nÄ› se ti podaÅ™ilo vytÃ¡hnout nÄ›jakou vÄ›c, kterÃ¡ uvÃ­zla brahmÃ­nÄ› ve stÅ™evech.}
+{235}{}{NÄ›co uvÃ­zlo brahmÃ­nÄ› ve stÅ™evech, ale nepodaÅ™ilo se ti to vytÃ¡hnout.}

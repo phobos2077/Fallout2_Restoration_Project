@@ -1,37 +1,37 @@
-{100}{}{Vidíš mladého a na pohled silného mue.}
-{101}{}{Vidíš pana Petersona.}
-{200}{}{Zdravím, pøíteli. Ještì jsem tì tady nevidìl. Poprvé v Opatství?}
-{201}{}{Rád tì zase vidím. Co pro tebe mùu udìlat?}
-{202}{}{Jo. Co mi mùeš øíct o tomhle místì?}
-{203}{}{Mám za úkol najít svatı GECK. Nevíš o nìm nìco?}
-{204}{}{Bratr Samuel øíkal, e bys mohl nìco vìdìt o tom, kdo nièí hroby. Øíkal, e jsi slyšel nìjaké zvuky pøicházející z tvého pole.}
-{205}{}{No nic, u musím jít.}
-{300}{}{Já a moje ena jsme sem pøišli pøed pár lety s karavanou. Líbilo se nám tu natolik, e jsme se rozhodli zùstat a zaloit si vlastní malou farmu. Nìco ti povím, Opatství moná není tak senzaèní jako New Reno nebo tak pokroèilé jako Vault City, ale pokud jde o mì, tohle místo je to nejlepší, na co mùeš v pustinách narazit. Lidé jsou zde slušní a navzájem si pomáhají. Jistì, jsou i bezpeènìjší místa, ale za cenu osobní svobody. Dìkuji, ale nechci.}
-{301}{}{Pøišli jste s karavanou? Jezdí sem èasto?}
-{302}{}{Ani ne. Opatství je pøíliš malé a izolované na to, aby si ho karavany všímaly. Ale to nevadí, jsme docela sobìstaèná komunita. Jídlo si pìstujeme a chlast sami pálíme, take si vedeme docela dobøe. Jestli chceš, mùeš si s Billem promluvit o karavanách, vede obchod jihozápadnì odsud.}
-{303}{}{To zní všechno opravdu zajímavì, ale u musím bohuel jít.}
-{304}{}{Zajímavé. Povìz mi o nìèem jiném.}
-{305}{}{No nic, u musím jít.}
-{400}{}{Co chceš ještì vìdìt?}
-{401}{}{Co mi mùeš øíct o Opatství?}
-{402}{}{Nevíš nìco o GECKu?}
-{500}{}{Promiò, kamaráde, ale nikdy jsem o tom neslyšel. Ale jestli je to nìco pøedváleèného, tak vsadím svoje dìravı boty, e o tom bude zmínka v klášterních poèítaèích. Bohuel mniši své informace úzkostlivì chrání, protoe se bojí, e by mohla nastat další válka, pokud by se toho lidé dozvìdìli pøíliš mnoho. I pøesto bych se tam bıt tebou zeptal.}
-{501}{}{Díky, to udìlám. Mám ještì nìjaké otázky.}
-{502}{}{Díky za radu. Hned tam zajdu.}
-{600}{}{Bratr Samuel tì sem poslal? Co teï ten opilec vùbec dìlá?}
-{601}{}{Jako obvykle se stará o hroby, aspoò myslím. Take co se tıèe toho, co jsi slyšel...}
-{602}{}{(John si sedne na idli a naleje si panáka whiskey.) Všechno to zaèalo pøed pár dny. S enou jsme se zrovna chystali jít spát, kdy jsme uslyšeli nìjaké šustìní v poli. Popadl jsem lucernu a vybìhl ven, abych zjistil, co je to za hluk. Jakmile jsem se ale pøiblíil k polím, pøestalo to.}
-{603}{}{Pokraèuj.}
-{604}{}{Poslyš, u musím opravdu jít.}
-{605}{}{No, další noc jsme neslyšeli nic, ale noc poté jsme to šustìní v poli opìt uslyšeli. Tentokrát jsem nevybìhl ven, ale pøiplíil jsem se k oknu a nakoukl ven. Ve tmì jsem uvidìl tlumené svìtlo jako z nìjaké staré lucerny, které se pohybovalo v obilí. Po nìkolika minutách se svìtlo pøesunulo smìrem ke høbitovu.}
-{606}{}{Chtìl jsem jít ven a zjistit, kdo nebo co to bylo, ale ena mì pøesvìdèila, abych zùstal uvnitø a prozkoumal to a ráno. Ráno jsem se šel podívat na pole a zjistil jsem, e nìkdo snìdl èást úrody a všude okolo jsou èerstvé stopy. Nevadí mi dát jídlo chudım, ale nemám rád zlodìje.}
-{607}{}{Pokusím se toho pachatele chytit. Asi poèkám venku do pùlnoci a uvidím, jestli na nìco pøijdu. No, díky za informace. Mìj se.}
-{608}{}{Udìlám, co bude v mıch silách. Mám ještì nìjaké otázky.}
-{609}{}{Tenhle pøíbìh zaèíná bıt trochu moc dlouhı. Nashle.}
-{610}{}{Take jestli to chápu správnì, tak rád pomùeš nìkomu, kdo v noci šmejdí kolem tvého domu, krade ti úrodu a pokouší se okrást mrtvé? Potkal jsem u hodnì cvokù, ale ty zatím vedeš. Je zázrak, e jsi ještì naivu.}
-{611}{}{(Pøimhouøí oèi, ale zachová klid.) Tak u to tu v Opatství chodí. Jestli je ti laskavost proti srsti, pak ti doporuèuji vypadnout z mého domu. Nenechám se pøed mojí enou uráet od nìjakého tuláckého divocha.}
-{612}{}{Dobøe, dobøe. Odcházím.}
-{613}{}{Jak myslíš, tvrïáku, teï tì tenhle "tuláckı divoch" zabije pøímo pøed tvojí enou a potom moná zabiju i ji. Hmm, moná, e zabiju všechny v tomhle ubohım, zasranım místì. Mysleli jste si, e se všichni schováte pøed všemi hrùzami pustiny? Hádej co, mùj naivní pøíteli, hrùza si našla tebe a její jméno je }
+{100}{}{VidÃ­Å¡ mladÃ©ho a na pohled silnÃ©ho muÅ¾e.}
+{101}{}{VidÃ­Å¡ pana Petersona.}
+{200}{}{ZdravÃ­m, pÅ™Ã­teli. JeÅ¡tÄ› jsem tÄ› tady nevidÄ›l. PoprvÃ© v OpatstvÃ­?}
+{201}{}{RÃ¡d tÄ› zase vidÃ­m. Co pro tebe mÅ¯Å¾u udÄ›lat?}
+{202}{}{Jo. Co mi mÅ¯Å¾eÅ¡ Å™Ã­ct o tomhle mÃ­stÄ›?}
+{203}{}{MÃ¡m za Ãºkol najÃ­t svatÃ½ GECK. NevÃ­Å¡ o nÄ›m nÄ›co?}
+{204}{}{Bratr Samuel Å™Ã­kal, Å¾e bys mohl nÄ›co vÄ›dÄ›t o tom, kdo niÄÃ­ hroby. Å˜Ã­kal, Å¾e jsi slyÅ¡el nÄ›jakÃ© zvuky pÅ™ichÃ¡zejÃ­cÃ­ z tvÃ©ho pole.}
+{205}{}{No nic, uÅ¾ musÃ­m jÃ­t.}
+{300}{}{JÃ¡ a moje Å¾ena jsme sem pÅ™iÅ¡li pÅ™ed pÃ¡r lety s karavanou. LÃ­bilo se nÃ¡m tu natolik, Å¾e jsme se rozhodli zÅ¯stat a zaloÅ¾it si vlastnÃ­ malou farmu. NÄ›co ti povÃ­m, OpatstvÃ­ moÅ¾nÃ¡ nenÃ­ tak senzaÄnÃ­ jako New Reno nebo tak pokroÄilÃ© jako Vault City, ale pokud jde o mÄ›, tohle mÃ­sto je to nejlepÅ¡Ã­, na co mÅ¯Å¾eÅ¡ v pustinÃ¡ch narazit. LidÃ© jsou zde sluÅ¡nÃ­ a navzÃ¡jem si pomÃ¡hajÃ­. JistÄ›, jsou i bezpeÄnÄ›jÅ¡Ã­ mÃ­sta, ale za cenu osobnÃ­ svobody. DÄ›kuji, ale nechci.}
+{301}{}{PÅ™iÅ¡li jste s karavanou? JezdÃ­ sem Äasto?}
+{302}{}{Ani ne. OpatstvÃ­ je pÅ™Ã­liÅ¡ malÃ© a izolovanÃ© na to, aby si ho karavany vÅ¡Ã­maly. Ale to nevadÃ­, jsme docela sobÄ›staÄnÃ¡ komunita. JÃ­dlo si pÄ›stujeme a chlast sami pÃ¡lÃ­me, takÅ¾e si vedeme docela dobÅ™e. Jestli chceÅ¡, mÅ¯Å¾eÅ¡ si s Billem promluvit o karavanÃ¡ch, vede obchod jihozÃ¡padnÄ› odsud.}
+{303}{}{To znÃ­ vÅ¡echno opravdu zajÃ­mavÄ›, ale uÅ¾ musÃ­m bohuÅ¾el jÃ­t.}
+{304}{}{ZajÃ­mavÃ©. PovÄ›z mi o nÄ›Äem jinÃ©m.}
+{305}{}{No nic, uÅ¾ musÃ­m jÃ­t.}
+{400}{}{Co chceÅ¡ jeÅ¡tÄ› vÄ›dÄ›t?}
+{401}{}{Co mi mÅ¯Å¾eÅ¡ Å™Ã­ct o OpatstvÃ­?}
+{402}{}{NevÃ­Å¡ nÄ›co o GECKu?}
+{500}{}{PromiÅˆ, kamarÃ¡de, ale nikdy jsem o tom neslyÅ¡el. Ale jestli je to nÄ›co pÅ™edvÃ¡leÄnÃ©ho, tak vsadÃ­m svoje dÄ›ravÃ½ boty, Å¾e o tom bude zmÃ­nka v klÃ¡Å¡ternÃ­ch poÄÃ­taÄÃ­ch. BohuÅ¾el mniÅ¡i svÃ© informace ÃºzkostlivÄ› chrÃ¡nÃ­, protoÅ¾e se bojÃ­, Å¾e by mohla nastat dalÅ¡Ã­ vÃ¡lka, pokud by se toho lidÃ© dozvÄ›dÄ›li pÅ™Ã­liÅ¡ mnoho. I pÅ™esto bych se tam bÃ½t tebou zeptal.}
+{501}{}{DÃ­ky, to udÄ›lÃ¡m. MÃ¡m jeÅ¡tÄ› nÄ›jakÃ© otÃ¡zky.}
+{502}{}{DÃ­ky za radu. Hned tam zajdu.}
+{600}{}{Bratr Samuel tÄ› sem poslal? Co teÄ ten opilec vÅ¯bec dÄ›lÃ¡?}
+{601}{}{Jako obvykle se starÃ¡ o hroby, aspoÅˆ myslÃ­m. TakÅ¾e co se tÃ½Äe toho, co jsi slyÅ¡el...}
+{602}{}{(John si sedne na Å¾idli a naleje si panÃ¡ka whiskey.) VÅ¡echno to zaÄalo pÅ™ed pÃ¡r dny. S Å¾enou jsme se zrovna chystali jÃ­t spÃ¡t, kdyÅ¾ jsme uslyÅ¡eli nÄ›jakÃ© Å¡ustÄ›nÃ­ v poli. Popadl jsem lucernu a vybÄ›hl ven, abych zjistil, co je to za hluk. Jakmile jsem se ale pÅ™iblÃ­Å¾il k polÃ­m, pÅ™estalo to.}
+{603}{}{PokraÄuj.}
+{604}{}{PoslyÅ¡, uÅ¾ musÃ­m opravdu jÃ­t.}
+{605}{}{No, dalÅ¡Ã­ noc jsme neslyÅ¡eli nic, ale noc potÃ© jsme to Å¡ustÄ›nÃ­ v poli opÄ›t uslyÅ¡eli. TentokrÃ¡t jsem nevybÄ›hl ven, ale pÅ™iplÃ­Å¾il jsem se k oknu a nakoukl ven. Ve tmÄ› jsem uvidÄ›l tlumenÃ© svÄ›tlo jako z nÄ›jakÃ© starÃ© lucerny, kterÃ© se pohybovalo v obilÃ­. Po nÄ›kolika minutÃ¡ch se svÄ›tlo pÅ™esunulo smÄ›rem ke hÅ™bitovu.}
+{606}{}{ChtÄ›l jsem jÃ­t ven a zjistit, kdo nebo co to bylo, ale Å¾ena mÄ› pÅ™esvÄ›dÄila, abych zÅ¯stal uvnitÅ™ a prozkoumal to aÅ¾ rÃ¡no. RÃ¡no jsem se Å¡el podÃ­vat na pole a zjistil jsem, Å¾e nÄ›kdo snÄ›dl ÄÃ¡st Ãºrody a vÅ¡ude okolo jsou ÄerstvÃ© stopy. NevadÃ­ mi dÃ¡t jÃ­dlo chudÃ½m, ale nemÃ¡m rÃ¡d zlodÄ›je.}
+{607}{}{PokusÃ­m se toho pachatele chytit. Asi poÄkÃ¡m venku do pÅ¯lnoci a uvidÃ­m, jestli na nÄ›co pÅ™ijdu. No, dÃ­ky za informace. MÄ›j se.}
+{608}{}{UdÄ›lÃ¡m, co bude v mÃ½ch silÃ¡ch. MÃ¡m jeÅ¡tÄ› nÄ›jakÃ© otÃ¡zky.}
+{609}{}{Tenhle pÅ™Ã­bÄ›h zaÄÃ­nÃ¡ bÃ½t trochu moc dlouhÃ½. Nashle.}
+{610}{}{TakÅ¾e jestli to chÃ¡pu sprÃ¡vnÄ›, tak rÃ¡d pomÅ¯Å¾eÅ¡ nÄ›komu, kdo v noci Å¡mejdÃ­ kolem tvÃ©ho domu, krade ti Ãºrodu a pokouÅ¡Ã­ se okrÃ¡st mrtvÃ©? Potkal jsem uÅ¾ hodnÄ› cvokÅ¯, ale ty zatÃ­m vedeÅ¡. Je zÃ¡zrak, Å¾e jsi jeÅ¡tÄ› naÅ¾ivu.}
+{611}{}{(PÅ™imhouÅ™Ã­ oÄi, ale zachovÃ¡ klid.) Tak uÅ¾ to tu v OpatstvÃ­ chodÃ­. Jestli je ti laskavost proti srsti, pak ti doporuÄuji vypadnout z mÃ©ho domu. NenechÃ¡m se pÅ™ed mojÃ­ Å¾enou urÃ¡Å¾et od nÄ›jakÃ©ho tulÃ¡ckÃ©ho divocha.}
+{612}{}{DobÅ™e, dobÅ™e. OdchÃ¡zÃ­m.}
+{613}{}{Jak myslÃ­Å¡, tvrÄÃ¡ku, teÄ tÄ› tenhle "tulÃ¡ckÃ½ divoch" zabije pÅ™Ã­mo pÅ™ed tvojÃ­ Å¾enou a potom moÅ¾nÃ¡ zabiju i ji. Hmm, moÅ¾nÃ¡, Å¾e zabiju vÅ¡echny v tomhle ubohÃ½m, zasranÃ½m mÃ­stÄ›. Mysleli jste si, Å¾e se vÅ¡ichni schovÃ¡te pÅ™ed vÅ¡emi hrÅ¯zami pustiny? HÃ¡dej co, mÅ¯j naivnÃ­ pÅ™Ã­teli, hrÅ¯za si naÅ¡la tebe a jejÃ­ jmÃ©no je }
 {700}{}{Vypadni odsud.}
-{710}{}{Rád tì opìt vidím. Tom nám tu opravdu hodnì pomáhá. Ještì jednou díky za vyøešení. Co pro tebe mùu dìlat?}
-{6061}{}{Poté jsem se šel zeptat bratra Samuela, jestli se nìco nestalo na høbitovì. Øekl mi, e nìkdo zaèal vykopávat hroby. Ten, kdo to dìlá, není oèividnì dost silnı na to, aby je vykopal všechny za jednu noc. Mohl by to bıt nìjakı starı ebrák, co doufá, e vykope poklad. Pokud zjistíš, kdo za tím vìzí, øekni mu prosím, a se u mì zastaví. Tady v Opatství není potøeba krást a já budu rád, pokud budu moct té osobì jakkoliv pomoct.}
+{710}{}{RÃ¡d tÄ› opÄ›t vidÃ­m. Tom nÃ¡m tu opravdu hodnÄ› pomÃ¡hÃ¡. JeÅ¡tÄ› jednou dÃ­ky za vyÅ™eÅ¡enÃ­. Co pro tebe mÅ¯Å¾u dÄ›lat?}
+{6061}{}{PotÃ© jsem se Å¡el zeptat bratra Samuela, jestli se nÄ›co nestalo na hÅ™bitovÄ›. Å˜ekl mi, Å¾e nÄ›kdo zaÄal vykopÃ¡vat hroby. Ten, kdo to dÄ›lÃ¡, nenÃ­ oÄividnÄ› dost silnÃ½ na to, aby je vykopal vÅ¡echny za jednu noc. Mohl by to bÃ½t nÄ›jakÃ½ starÃ½ Å¾ebrÃ¡k, co doufÃ¡, Å¾e vykope poklad. Pokud zjistÃ­Å¡, kdo za tÃ­m vÄ›zÃ­, Å™ekni mu prosÃ­m, aÅ¥ se u mÄ› zastavÃ­. Tady v OpatstvÃ­ nenÃ­ potÅ™eba krÃ¡st a jÃ¡ budu rÃ¡d, pokud budu moct tÃ© osobÄ› jakkoliv pomoct.}

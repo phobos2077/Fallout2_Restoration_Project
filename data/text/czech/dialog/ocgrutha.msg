@@ -1,140 +1,140 @@
-{100}{}{Vidíš velikého páraèe. Má mohutné vypracované svaly, ostré zuby a paøáty.}
-{101}{}{Vidíš Gruthara, vùdce páraèù.}
-{102}{}{Vidíš toho nejimpozantnìjšího páraèe, jakého si dokáeš pøedstavit. Musí bıt unikátní svého druhu.}
-{103}{}{Neboj se mì, èlovìèe, nechci ti ublíit. Jsem Gruthar, vùdce této smeèky páraèù. Proè jsi tady?}
-{104}{}{Proè jsi tady?}
+{100}{}{VidÃ­Å¡ velikÃ©ho pÃ¡raÄe. MÃ¡ mohutnÃ© vypracovanÃ© svaly, ostrÃ© zuby a paÅ™Ã¡ty.}
+{101}{}{VidÃ­Å¡ Gruthara, vÅ¯dce pÃ¡raÄÅ¯.}
+{102}{}{VidÃ­Å¡ toho nejimpozantnÄ›jÅ¡Ã­ho pÃ¡raÄe, jakÃ©ho si dokÃ¡Å¾eÅ¡ pÅ™edstavit. MusÃ­ bÃ½t unikÃ¡tnÃ­ svÃ©ho druhu.}
+{103}{}{Neboj se mÄ›, ÄlovÄ›Äe, nechci ti ublÃ­Å¾it. Jsem Gruthar, vÅ¯dce tÃ©to smeÄky pÃ¡raÄÅ¯. ProÄ jsi tady?}
+{104}{}{ProÄ jsi tady?}
 {105}{}{Eh...}
 {106}{}{Abych ti nakopal prdel!}
-{107}{}{Jak je moné, e umí páraè mluvit... a tak dobøe?}
-{108}{}{Chci vìdìt, co se stalo s lidmi, kteøí tu pøedtím ili.}
-{109}{}{Hledám vìc zvanou GECK. Øekli mi, e tu jeden najdu.}
-{110}{}{Poádali mì o vyèištìní doupìte nebezpeènıch páraèù...}
-{111}{}{Vyšetøuju nájezdy na místní brahmíní farmy. Nevíš o tom nìco?}
-{112}{}{Myslím, e radìji pùjdu.}
-{113}{}{Nejsi ádnı idiot, èlovìèe. Vidím ti to na oèích. Nezkoušej mì prosím oklamat. Nemám trpìlivost na takové hry.}
-{114}{}{Tak dobøe. Pokud chceš bıt za idiota, máš to mít. A si to rozmyslíš, vra se zpìt.}
-{115}{}{Omlouvám se. Jsem na tebe asi trochu moc chytrı. Nepøedstavuješ pro mì a mou smeèku ádnou hrozbu. Vítej a povauj toto místo za bezpeènı úkryt pøed okolním svìtem. Nikomu neubliuj, nedìlej problémy a vdy tì tu rádi uvítáme.}
-{116}{}{Odpus. Nechci bıt nezdvoøilı, ale nechápu, jakou to má souvislost s naší konverzací. Umím mluvit tvım jazykem a èíst tvé písmo. Co víc chceš slyšet?}
+{107}{}{Jak je moÅ¾nÃ©, Å¾e umÃ­ pÃ¡raÄ mluvit... a tak dobÅ™e?}
+{108}{}{Chci vÄ›dÄ›t, co se stalo s lidmi, kteÅ™Ã­ tu pÅ™edtÃ­m Å¾ili.}
+{109}{}{HledÃ¡m vÄ›c zvanou GECK. Å˜ekli mi, Å¾e tu jeden najdu.}
+{110}{}{PoÅ¾Ã¡dali mÄ› o vyÄiÅ¡tÄ›nÃ­ doupÄ›te nebezpeÄnÃ½ch pÃ¡raÄÅ¯...}
+{111}{}{VyÅ¡etÅ™uju nÃ¡jezdy na mÃ­stnÃ­ brahmÃ­nÃ­ farmy. NevÃ­Å¡ o tom nÄ›co?}
+{112}{}{MyslÃ­m, Å¾e radÄ›ji pÅ¯jdu.}
+{113}{}{Nejsi Å¾Ã¡dnÃ½ idiot, ÄlovÄ›Äe. VidÃ­m ti to na oÄÃ­ch. NezkouÅ¡ej mÄ› prosÃ­m oklamat. NemÃ¡m trpÄ›livost na takovÃ© hry.}
+{114}{}{Tak dobÅ™e. Pokud chceÅ¡ bÃ½t za idiota, mÃ¡Å¡ to mÃ­t. AÅ¾ si to rozmyslÃ­Å¡, vraÅ¥ se zpÄ›t.}
+{115}{}{OmlouvÃ¡m se. Jsem na tebe asi trochu moc chytrÃ½. NepÅ™edstavujeÅ¡ pro mÄ› a mou smeÄku Å¾Ã¡dnou hrozbu. VÃ­tej a povaÅ¾uj toto mÃ­sto za bezpeÄnÃ½ Ãºkryt pÅ™ed okolnÃ­m svÄ›tem. Nikomu neubliÅ¾uj, nedÄ›lej problÃ©my a vÅ¾dy tÄ› tu rÃ¡di uvÃ­tÃ¡me.}
+{116}{}{OdpusÅ¥. Nechci bÃ½t nezdvoÅ™ilÃ½, ale nechÃ¡pu, jakou to mÃ¡ souvislost s naÅ¡Ã­ konverzacÃ­. UmÃ­m mluvit tvÃ½m jazykem a ÄÃ­st tvÃ© pÃ­smo. Co vÃ­c chceÅ¡ slyÅ¡et?}
 {117}{}{Aha.}
-{118}{}{Nechci nìjak vyzvídat, ale jistì chápeš mùj zájem.}
-{119}{}{Jooo, a co kdybys nechal posoudit mì, co má a co nemá souvislost?}
-{120}{}{Ano, to zajisté chápu. Tak dobrá. Pokud se rozlouèíme v dobrém, èlovìèe, zajdi si promluvit s Gorisem. Má v této záleitosti více porozumìní ne já. Bude nejspíše v knihovnì vaultu.}
-{121}{}{Díky. Tìším se na setkání s Gorisem.}
-{122}{}{Nemám v úmyslu pøidávat páraèe na seznam svıch pøátel. Nashle!}
-{123}{}{Tak dobøe.}
-{124}{}{Jsou pryè, èlovìèe. Nezabili jsme je, ani jim nesebrali jejich domov. Nemáme ve zvyku zabíjet. Pochopím, kdy mi nebudeš vìøit, ale zároveò doufám, e mì budeš posuzovat na základì mıch èinù vùèi tobì a ne ze strachu nebo pøedsudkù.}
-{125}{}{Nejspíš ti koneènì došlo, e ti mùu klidnì nakopat prdel.}
-{126}{}{Pøipadáš mi jako poèestná bytost, Gruthare.}
+{118}{}{Nechci nÄ›jak vyzvÃ­dat, ale jistÄ› chÃ¡peÅ¡ mÅ¯j zÃ¡jem.}
+{119}{}{Jooo, a co kdybys nechal posoudit mÄ›, co mÃ¡ a co nemÃ¡ souvislost?}
+{120}{}{Ano, to zajistÃ© chÃ¡pu. Tak dobrÃ¡. Pokud se rozlouÄÃ­me v dobrÃ©m, ÄlovÄ›Äe, zajdi si promluvit s Gorisem. MÃ¡ v tÃ©to zÃ¡leÅ¾itosti vÃ­ce porozumÄ›nÃ­ neÅ¾ jÃ¡. Bude nejspÃ­Å¡e v knihovnÄ› vaultu.}
+{121}{}{DÃ­ky. TÄ›Å¡Ã­m se na setkÃ¡nÃ­ s Gorisem.}
+{122}{}{NemÃ¡m v Ãºmyslu pÅ™idÃ¡vat pÃ¡raÄe na seznam svÃ½ch pÅ™Ã¡tel. Nashle!}
+{123}{}{Tak dobÅ™e.}
+{124}{}{Jsou pryÄ, ÄlovÄ›Äe. Nezabili jsme je, ani jim nesebrali jejich domov. NemÃ¡me ve zvyku zabÃ­jet. PochopÃ­m, kdyÅ¾ mi nebudeÅ¡ vÄ›Å™it, ale zÃ¡roveÅˆ doufÃ¡m, Å¾e mÄ› budeÅ¡ posuzovat na zÃ¡kladÄ› mÃ½ch ÄinÅ¯ vÅ¯Äi tobÄ› a ne ze strachu nebo pÅ™edsudkÅ¯.}
+{125}{}{NejspÃ­Å¡ ti koneÄnÄ› doÅ¡lo, Å¾e ti mÅ¯Å¾u klidnÄ› nakopat prdel.}
+{126}{}{PÅ™ipadÃ¡Å¡ mi jako poÄestnÃ¡ bytost, Gruthare.}
 {127}{}{Jo, asi jo.}
-{128}{}{GECK. Není to ta malá ještìrka... ne, poèkat... to je geckon. Promiò, ale nevím, co je to GECK ani kde se dá najít.}
-{129}{}{Ano, myslím, e u jsem to od tebe jednou slyšel. Nevím, co je to GECK ani kde se dá najít.}
-{130}{}{Mùu se tu po nìm podívat?}
-{131}{}{Hele, to s tou ještìrkou bylo opravdu vtipné. To je nìjakı tvùj pøíbuznı?}
-{132}{}{Mluvit s tebou je oèividnì ztráta èasu. Sbohem.}
-{133}{}{Popravdì ani já pøesnì nevím, co to je. Nebude ti vadit, kdy se tu po nìm podívám?}
-{134}{}{Je mi líto, ale nenechám tu jen tak nìkoho procházet. Jsem zodpovìdnı za bezpeèí všech, kteøí zde ijí, take musím bıt obezøetnı. Ale podívám se ti po tom gecku a dám ti vìdìt, pokud ho najdu.}
-{135}{}{Je mi líto, ale nenechám tu jen tak nìkoho procházet. Jsem zodpovìdnı za bezpeèí všech, kteøí zde ijí, take musím bıt obezøetnı.}
-{136}{}{Podívej, nepatøí ti to tady. Moná se tu porozhlédnu kolem bez ohledu na to, jestli se ti to líbí nebo ne!}
-{137}{}{Chápu, Gruthare, a budu respektovat tvoje pøání.}
-{138}{}{Chápu tvoje obavy. Neznáš mì natolik, abys mi vìøil. Co kdy ti ale s nìèím pomùu a ty mì tu pak na oplátku necháš porozhlédnout?}
-{139}{}{(Gruthar na tebe chvíli upøenì zírá.) Ty nám chceš pomoct? Souhlasím, cítím v tobì jen drobné zlo. Tak dobrá, budu ti dùvìøovat.}
-{140}{}{(Gruthar na tebe chvíli upøenì zírá.) Myslím, e ne. Cítím v tobì ïábla, èlovìèe. Nemùu riskovat ivoty ostatních, pokud bych ti dal šanci.}
-{141}{}{Díky.}
-{142}{}{Fajn. Myslím, e kulka mezi oèi vyøeší celı mùj problém.}
-{143}{}{Je mi líto, e to bereš takhle, Gruthare.}
-{144}{}{V tom pøípadì odcházím.}
-{145}{}{Je tu mnoho strojù, strojù postavenıch lidmi. Ruce páraèù je nemohou pouívat. Avšak je tu jeden stroj, kterı rozumí otázkám. Poádám jej, aby øídil ostatní stroje a on poslechne. Bohuel ji tento stroj neposlouchá, take nemùe øídit ostatní stroje. Dochází nám jídlo a voda, take jsem rozkázal nájezdy na lidské usedlosti, abychom vùbec pøeili. Nejsem na to hrdı a rád bych s tím pøestal. Pokud ten stroj opravíš, budu opìt schopen nakrmit svoji smeèku a rád zastavím ty nájezdy. Souhlasíš s tím?}
-{146}{}{Promiò, ale nemám ponìtí jak takovı stroj opravit.}
-{147}{}{Nejsem ádnı technik, ale mùu to zkusit.}
-{148}{}{Hmm... zdá se, e odešel modul pro rozpoznávání hlasu. Pùjdu se na to podívat.}
-{149}{}{Myslím, e ne, ale nechám si to ještì projít hlavou.}
-{150}{}{Udìlám, co budu moct.}
-{151}{}{Odmítám pomoct páraèùm.}
-{152}{}{Dìkuji ti. Stroj je v øídícím centru vaultu ve tøetím patøe. Pokud to pùjde opravit, udìlej to prosím. Máš moji dùvìru, take ji nezkoušej zneuít. Vítej.}
-{153}{}{Nezklamu tì, Gruthare. Máš moje slovo.}
-{154}{}{Díky. Pustím se do toho.}
-{155}{}{Vdycky se nìjakej blbec najde...}
-{156}{}{Aha... no, páraèi jsou od pøírody nebezpeèní a èlovìk musí bıt velmi opatrnı, kdy je potká v pustinì. Avšak jak jistì vidíš, my jsme vıjimka. Moje smeèka není pro tebe ani pro lidské komunity ádnou hrozbou. Vyvinuli jsme se nad naše pøíbuzné a pøejeme si ít v poklidu.}
+{128}{}{GECK. NenÃ­ to ta malÃ¡ jeÅ¡tÄ›rka... ne, poÄkat... to je geckon. PromiÅˆ, ale nevÃ­m, co je to GECK ani kde se dÃ¡ najÃ­t.}
+{129}{}{Ano, myslÃ­m, Å¾e uÅ¾ jsem to od tebe jednou slyÅ¡el. NevÃ­m, co je to GECK ani kde se dÃ¡ najÃ­t.}
+{130}{}{MÅ¯Å¾u se tu po nÄ›m podÃ­vat?}
+{131}{}{Hele, to s tou jeÅ¡tÄ›rkou bylo opravdu vtipnÃ©. To je nÄ›jakÃ½ tvÅ¯j pÅ™Ã­buznÃ½?}
+{132}{}{Mluvit s tebou je oÄividnÄ› ztrÃ¡ta Äasu. Sbohem.}
+{133}{}{PopravdÄ› ani jÃ¡ pÅ™esnÄ› nevÃ­m, co to je. Nebude ti vadit, kdyÅ¾ se tu po nÄ›m podÃ­vÃ¡m?}
+{134}{}{Je mi lÃ­to, ale nenechÃ¡m tu jen tak nÄ›koho prochÃ¡zet. Jsem zodpovÄ›dnÃ½ za bezpeÄÃ­ vÅ¡ech, kteÅ™Ã­ zde Å¾ijÃ­, takÅ¾e musÃ­m bÃ½t obezÅ™etnÃ½. Ale podÃ­vÃ¡m se ti po tom gecku a dÃ¡m ti vÄ›dÄ›t, pokud ho najdu.}
+{135}{}{Je mi lÃ­to, ale nenechÃ¡m tu jen tak nÄ›koho prochÃ¡zet. Jsem zodpovÄ›dnÃ½ za bezpeÄÃ­ vÅ¡ech, kteÅ™Ã­ zde Å¾ijÃ­, takÅ¾e musÃ­m bÃ½t obezÅ™etnÃ½.}
+{136}{}{PodÃ­vej, nepatÅ™Ã­ ti to tady. MoÅ¾nÃ¡ se tu porozhlÃ©dnu kolem bez ohledu na to, jestli se ti to lÃ­bÃ­ nebo ne!}
+{137}{}{ChÃ¡pu, Gruthare, a budu respektovat tvoje pÅ™Ã¡nÃ­.}
+{138}{}{ChÃ¡pu tvoje obavy. NeznÃ¡Å¡ mÄ› natolik, abys mi vÄ›Å™il. Co kdyÅ¾ ti ale s nÄ›ÄÃ­m pomÅ¯Å¾u a ty mÄ› tu pak na oplÃ¡tku nechÃ¡Å¡ porozhlÃ©dnout?}
+{139}{}{(Gruthar na tebe chvÃ­li upÅ™enÄ› zÃ­rÃ¡.) Ty nÃ¡m chceÅ¡ pomoct? SouhlasÃ­m, cÃ­tÃ­m v tobÄ› jen drobnÃ© zlo. Tak dobrÃ¡, budu ti dÅ¯vÄ›Å™ovat.}
+{140}{}{(Gruthar na tebe chvÃ­li upÅ™enÄ› zÃ­rÃ¡.) MyslÃ­m, Å¾e ne. CÃ­tÃ­m v tobÄ› ÄÃ¡bla, ÄlovÄ›Äe. NemÅ¯Å¾u riskovat Å¾ivoty ostatnÃ­ch, pokud bych ti dal Å¡anci.}
+{141}{}{DÃ­ky.}
+{142}{}{Fajn. MyslÃ­m, Å¾e kulka mezi oÄi vyÅ™eÅ¡Ã­ celÃ½ mÅ¯j problÃ©m.}
+{143}{}{Je mi lÃ­to, Å¾e to bereÅ¡ takhle, Gruthare.}
+{144}{}{V tom pÅ™Ã­padÄ› odchÃ¡zÃ­m.}
+{145}{}{Je tu mnoho strojÅ¯, strojÅ¯ postavenÃ½ch lidmi. Ruce pÃ¡raÄÅ¯ je nemohou pouÅ¾Ã­vat. AvÅ¡ak je tu jeden stroj, kterÃ½ rozumÃ­ otÃ¡zkÃ¡m. PoÅ¾Ã¡dÃ¡m jej, aby Å™Ã­dil ostatnÃ­ stroje a on poslechne. BohuÅ¾el jiÅ¾ tento stroj neposlouchÃ¡, takÅ¾e nemÅ¯Å¾e Å™Ã­dit ostatnÃ­ stroje. DochÃ¡zÃ­ nÃ¡m jÃ­dlo a voda, takÅ¾e jsem rozkÃ¡zal nÃ¡jezdy na lidskÃ© usedlosti, abychom vÅ¯bec pÅ™eÅ¾ili. Nejsem na to hrdÃ½ a rÃ¡d bych s tÃ­m pÅ™estal. Pokud ten stroj opravÃ­Å¡, budu opÄ›t schopen nakrmit svoji smeÄku a rÃ¡d zastavÃ­m ty nÃ¡jezdy. SouhlasÃ­Å¡ s tÃ­m?}
+{146}{}{PromiÅˆ, ale nemÃ¡m ponÄ›tÃ­ jak takovÃ½ stroj opravit.}
+{147}{}{Nejsem Å¾Ã¡dnÃ½ technik, ale mÅ¯Å¾u to zkusit.}
+{148}{}{Hmm... zdÃ¡ se, Å¾e odeÅ¡el modul pro rozpoznÃ¡vÃ¡nÃ­ hlasu. PÅ¯jdu se na to podÃ­vat.}
+{149}{}{MyslÃ­m, Å¾e ne, ale nechÃ¡m si to jeÅ¡tÄ› projÃ­t hlavou.}
+{150}{}{UdÄ›lÃ¡m, co budu moct.}
+{151}{}{OdmÃ­tÃ¡m pomoct pÃ¡raÄÅ¯m.}
+{152}{}{DÄ›kuji ti. Stroj je v Å™Ã­dÃ­cÃ­m centru vaultu ve tÅ™etÃ­m patÅ™e. Pokud to pÅ¯jde opravit, udÄ›lej to prosÃ­m. MÃ¡Å¡ moji dÅ¯vÄ›ru, takÅ¾e ji nezkouÅ¡ej zneuÅ¾Ã­t. VÃ­tej.}
+{153}{}{Nezklamu tÄ›, Gruthare. MÃ¡Å¡ moje slovo.}
+{154}{}{DÃ­ky. PustÃ­m se do toho.}
+{155}{}{VÅ¾dycky se nÄ›jakej blbec najde...}
+{156}{}{Aha... no, pÃ¡raÄi jsou od pÅ™Ã­rody nebezpeÄnÃ­ a ÄlovÄ›k musÃ­ bÃ½t velmi opatrnÃ½, kdyÅ¾ je potkÃ¡ v pustinÄ›. AvÅ¡ak jak jistÄ› vidÃ­Å¡, my jsme vÃ½jimka. Moje smeÄka nenÃ­ pro tebe ani pro lidskÃ© komunity Å¾Ã¡dnou hrozbou. Vyvinuli jsme se nad naÅ¡e pÅ™Ã­buznÃ© a pÅ™ejeme si Å¾Ã­t v poklidu.}
 {157}{}{Hmm... jo tak.}
-{158}{}{Gruthare, vaše zvıšená inteligence z vás dìlá ještì vìtší hrozbu, ne jakou pøedstavuje obyèejnı páraè.}
-{159}{}{Vidím, e nejste brutální zabijáci, jak se o páraèích øíká.}
-{160}{}{Strávil jsem mnoho probdìlıch nocí v hlubokém zamyšlení, uvaujíc o takovıch vìcech. Nakonec jsem došel k závìru, e s darem inteligence je spojené nespoèetné mnoství bøemen a povinností. Kadá myslící bytost má pouze dvì monosti. Buï pøijme ivot takovı, jakı je, a naplno vyuije tohoto daru pro sebe a své okolí, nebo jednoduše pøestane existovat. Vybral jsem si pøijmout vızvy ivota. Pokud to ze mì èiní hrozbu pro lidstvo, pak lituji všechny omezené jedince, kteøí si to myslí...}
-{161}{}{Pravda, no... moná, e jsem omezenı jedinec, ale mám VELIKİ kvér.}
-{162}{}{Nemùu ne souhlasit. Nemyslím, e jste hrozbou, Gruthare.}
-{163}{}{Eh... jo. Je to pøesnì tak, jak øíkáš.}
-{164}{}{(Gruthar se zarazí a vypadá, jako by pøemıšlel o své odpovìdi.) Je mi líto, e jsem naøídil ty nájezdy na lidské usedlosti. Zodpovídám tu za mnoho ivotù. Dochází nám jídlo, voda a další zásoby. Dokud se situace nezlepší, musím si já, páraè, brát od lidí vše, oè je nemùu ádat.}
-{165}{}{Take teï, kdy znám pùvod nájezdù, tak ho prostì zlikviduju!}
-{166}{}{To je mi líto. Je tu nìjakı zpùsob, jak vám mùu pomoct, abyste pøestali s tìmi nájezdy?}
-{167}{}{U toho vím dost. Potøebuju si to promyslet.}
-{168}{}{Chápu...}
-{169}{}{Tvoje rozhodnutí se mi nelíbí, ale pøijímám ho. Mùeš odejít, ale pokud si to rozmyslíš, vra se prosím.}
+{158}{}{Gruthare, vaÅ¡e zvÃ½Å¡enÃ¡ inteligence z vÃ¡s dÄ›lÃ¡ jeÅ¡tÄ› vÄ›tÅ¡Ã­ hrozbu, neÅ¾ jakou pÅ™edstavuje obyÄejnÃ½ pÃ¡raÄ.}
+{159}{}{VidÃ­m, Å¾e nejste brutÃ¡lnÃ­ zabijÃ¡ci, jak se o pÃ¡raÄÃ­ch Å™Ã­kÃ¡.}
+{160}{}{StrÃ¡vil jsem mnoho probdÄ›lÃ½ch nocÃ­ v hlubokÃ©m zamyÅ¡lenÃ­, uvaÅ¾ujÃ­c o takovÃ½ch vÄ›cech. Nakonec jsem doÅ¡el k zÃ¡vÄ›ru, Å¾e s darem inteligence je spojenÃ© nespoÄetnÃ© mnoÅ¾stvÃ­ bÅ™emen a povinnostÃ­. KaÅ¾dÃ¡ myslÃ­cÃ­ bytost mÃ¡ pouze dvÄ› moÅ¾nosti. BuÄ pÅ™ijme Å¾ivot takovÃ½, jakÃ½ je, a naplno vyuÅ¾ije tohoto daru pro sebe a svÃ© okolÃ­, nebo jednoduÅ¡e pÅ™estane existovat. Vybral jsem si pÅ™ijmout vÃ½zvy Å¾ivota. Pokud to ze mÄ› ÄinÃ­ hrozbu pro lidstvo, pak lituji vÅ¡echny omezenÃ© jedince, kteÅ™Ã­ si to myslÃ­...}
+{161}{}{Pravda, no... moÅ¾nÃ¡, Å¾e jsem omezenÃ½ jedinec, ale mÃ¡m VELIKÃ kvÃ©r.}
+{162}{}{NemÅ¯Å¾u neÅ¾ souhlasit. NemyslÃ­m, Å¾e jste hrozbou, Gruthare.}
+{163}{}{Eh... jo. Je to pÅ™esnÄ› tak, jak Å™Ã­kÃ¡Å¡.}
+{164}{}{(Gruthar se zarazÃ­ a vypadÃ¡, jako by pÅ™emÃ½Å¡lel o svÃ© odpovÄ›di.) Je mi lÃ­to, Å¾e jsem naÅ™Ã­dil ty nÃ¡jezdy na lidskÃ© usedlosti. ZodpovÃ­dÃ¡m tu za mnoho Å¾ivotÅ¯. DochÃ¡zÃ­ nÃ¡m jÃ­dlo, voda a dalÅ¡Ã­ zÃ¡soby. Dokud se situace nezlepÅ¡Ã­, musÃ­m si jÃ¡, pÃ¡raÄ, brÃ¡t od lidÃ­ vÅ¡e, oÄ je nemÅ¯Å¾u Å¾Ã¡dat.}
+{165}{}{TakÅ¾e teÄ, kdyÅ¾ znÃ¡m pÅ¯vod nÃ¡jezdÅ¯, tak ho prostÄ› zlikviduju!}
+{166}{}{To je mi lÃ­to. Je tu nÄ›jakÃ½ zpÅ¯sob, jak vÃ¡m mÅ¯Å¾u pomoct, abyste pÅ™estali s tÄ›mi nÃ¡jezdy?}
+{167}{}{UÅ¾ toho vÃ­m dost. PotÅ™ebuju si to promyslet.}
+{168}{}{ChÃ¡pu...}
+{169}{}{Tvoje rozhodnutÃ­ se mi nelÃ­bÃ­, ale pÅ™ijÃ­mÃ¡m ho. MÅ¯Å¾eÅ¡ odejÃ­t, ale pokud si to rozmyslÃ­Å¡, vraÅ¥ se prosÃ­m.}
 {170}{}{Beru.}
 {171}{}{Ahoj}
-{172}{}{Ne, ale pustím se do toho.}
-{173}{}{Je mi líto, Gruthare. Odešel hlasovı modul. Budu muset najít jinı.}
-{174}{}{Nerozumím takovım vìcem, ale vìøím ti,}
+{172}{}{Ne, ale pustÃ­m se do toho.}
+{173}{}{Je mi lÃ­to, Gruthare. OdeÅ¡el hlasovÃ½ modul. Budu muset najÃ­t jinÃ½.}
+{174}{}{NerozumÃ­m takovÃ½m vÄ›cem, ale vÄ›Å™Ã­m ti,}
 {175}{}{Beru.}
-{176}{}{Vrátím se, máš moje slovo.}
+{176}{}{VrÃ¡tÃ­m se, mÃ¡Å¡ moje slovo.}
 {177}{}{Ahoj}
-{178}{}{Bohuel zatím ne. Ale opravdu se snaím.}
+{178}{}{BohuÅ¾el zatÃ­m ne. Ale opravdu se snaÅ¾Ã­m.}
 {179}{}{Ano, tady je!}
 {180}{}{}
-{181}{}{Navrátil jsi moji dùvìru v lidi. Dìkuji ti za vše, co jsi pro moji smeèku udìlal. Mùu ti to nìjak oplatit?}
-{182}{}{Øíkal jsi, e mi dáš vìdìt, pokud tu najdeš GECK. Našel jsi ho?}
-{183}{}{Ano, hledám GECK. Øekli mi, e by tu mohl bıt. Víš, kde je?}
-{184}{}{Ne, díky. Nic víc nepotøebuju.}
-{185}{}{Hm, podívám se. (Odejde a po chvíli se vrátí s nìjakım kovovım kuføíkem, kterı neohrabanì svírá ve svıch velkıch paøátech.) Ano, ve skladišti byl jeden GECK. Je tvùj a moc ti dìkuji.}
-{186}{}{Ano, jeden GECK byl ve skladišti, ale teï chybí. Je mi líto, e ti ho nemùu dát jako odmìnu za tvoji štìdrou pomoc.}
-{187}{}{Díky!}
-{188}{}{Eh... to je dobrı. Zkusím ho najít nìkde jinde.}
-{189}{}{Zdravím, èlovìèe. Doufám, e ze mì nechceš udìlat hlupáka.}
-{190}{}{Chci se omluvit a zaèít od znovu, Gruthare.}
-{191}{}{Promiò, musím bìet.}
-{192}{}{Eh, já pardón.}
-{193}{}{Zdravím tì, èlovìèe. Zmìnil jsi názor? Pomùeš mi?}
-{194}{}{Ani omylem. Jen chci slyšet, jak zase przníš náš jazyk.}
-{195}{}{Ne. Myslím, e ne.}
-{196}{}{Ano, Gruthare. Pomùu ti.}
-{197}{}{Zdravím tì, pøíteli. Díval ses u na ten stroj?}
-{198}{}{Ještì ne, ale pustím se do toho.}
-{199}{}{Ahoj, pøíteli. Podaøilo se ti zachránit smeèku a za to ti dìkujeme.}
+{181}{}{NavrÃ¡til jsi moji dÅ¯vÄ›ru v lidi. DÄ›kuji ti za vÅ¡e, co jsi pro moji smeÄku udÄ›lal. MÅ¯Å¾u ti to nÄ›jak oplatit?}
+{182}{}{Å˜Ã­kal jsi, Å¾e mi dÃ¡Å¡ vÄ›dÄ›t, pokud tu najdeÅ¡ GECK. NaÅ¡el jsi ho?}
+{183}{}{Ano, hledÃ¡m GECK. Å˜ekli mi, Å¾e by tu mohl bÃ½t. VÃ­Å¡, kde je?}
+{184}{}{Ne, dÃ­ky. Nic vÃ­c nepotÅ™ebuju.}
+{185}{}{Hm, podÃ­vÃ¡m se. (Odejde a po chvÃ­li se vrÃ¡tÃ­ s nÄ›jakÃ½m kovovÃ½m kufÅ™Ã­kem, kterÃ½ neohrabanÄ› svÃ­rÃ¡ ve svÃ½ch velkÃ½ch paÅ™Ã¡tech.) Ano, ve skladiÅ¡ti byl jeden GECK. Je tvÅ¯j a moc ti dÄ›kuji.}
+{186}{}{Ano, jeden GECK byl ve skladiÅ¡ti, ale teÄ chybÃ­. Je mi lÃ­to, Å¾e ti ho nemÅ¯Å¾u dÃ¡t jako odmÄ›nu za tvoji Å¡tÄ›drou pomoc.}
+{187}{}{DÃ­ky!}
+{188}{}{Eh... to je dobrÃ½. ZkusÃ­m ho najÃ­t nÄ›kde jinde.}
+{189}{}{ZdravÃ­m, ÄlovÄ›Äe. DoufÃ¡m, Å¾e ze mÄ› nechceÅ¡ udÄ›lat hlupÃ¡ka.}
+{190}{}{Chci se omluvit a zaÄÃ­t od znovu, Gruthare.}
+{191}{}{PromiÅˆ, musÃ­m bÄ›Å¾et.}
+{192}{}{Eh, jÃ¡ pardÃ³n.}
+{193}{}{ZdravÃ­m tÄ›, ÄlovÄ›Äe. ZmÄ›nil jsi nÃ¡zor? PomÅ¯Å¾eÅ¡ mi?}
+{194}{}{Ani omylem. Jen chci slyÅ¡et, jak zase prznÃ­Å¡ nÃ¡Å¡ jazyk.}
+{195}{}{Ne. MyslÃ­m, Å¾e ne.}
+{196}{}{Ano, Gruthare. PomÅ¯Å¾u ti.}
+{197}{}{ZdravÃ­m tÄ›, pÅ™Ã­teli. DÃ­val ses uÅ¾ na ten stroj?}
+{198}{}{JeÅ¡tÄ› ne, ale pustÃ­m se do toho.}
+{199}{}{Ahoj, pÅ™Ã­teli. PodaÅ™ilo se ti zachrÃ¡nit smeÄku a za to ti dÄ›kujeme.}
 {200}{}{}
 {201}{}{}
-{202}{}{Chcípni, proradnı èerve!}
+{202}{}{ChcÃ­pni, proradnÃ½ Äerve!}
 {203}{}{}
 {204}{}{}
-{205}{}{Nemám s tebou nic co do èinìní, èlovìèe, a ani mít nechci. Snaím se to s tebou vyøešit v klidu, tak se o to sna i ty!}
-{206}{}{Dobrá, promluvme si.}
-{207}{}{Jsi páraè a to znamená ortel smrti... pro tebe!}
-{208}{}{Promiò, Gruthare. Promluvme si.}
-{209}{}{To je jedno. Odcházím.}
-{210}{}{Ne. Já jsem tady vùdce, take já rozhoduji. Jestli se ti to nelíbí, mùeš se vrátit do zemì lidí!}
-{211}{}{Vyli mi!}
-{212}{}{Dobøe, tak já pùjdu.}
-{213}{}{Jistì, Gruthare. Obèas zapomínám.}
-{214}{}{Ujišuji tì, e jsem se nesnail bıt vtipnı ani tì tahat za nos. Omlouvám se, jestli ti to tak pøipadalo. Pomùu ti, pokud budu moct.}
-{215}{}{Dobøe, díky.}
-{216}{}{Promiò, nechtìl jsem ze sebe dìlat chytráka.}
-{217}{}{Nech toho ušlechtilıho vatlání, kámo. To na mì neplatí.}
-{218}{}{(Gruthar ze sebe vydá nìkolik hrdelních øevù.) Moná mi to tu nepatøí, èlovìèe, ale je to mùj domov i domov mnoha dalších, kteøí se spoléhají na mou ochranu. Nenu mì udìlat nìco, èeho budeme oba litovat!}
-{219}{}{Promiò, pøekraèuju meze slušnosti.}
-{220}{}{K èertu s tebou a takovımi jako ty!}
-{221}{}{A sakra! Padám odsud.}
-{222}{}{Dìkuji ti. Zajdi prosím do øídící místnosti a vymìò hlasovı modul.}
+{205}{}{NemÃ¡m s tebou nic co do ÄinÄ›nÃ­, ÄlovÄ›Äe, a ani mÃ­t nechci. SnaÅ¾Ã­m se to s tebou vyÅ™eÅ¡it v klidu, tak se o to snaÅ¾ i ty!}
+{206}{}{DobrÃ¡, promluvme si.}
+{207}{}{Jsi pÃ¡raÄ a to znamenÃ¡ ortel smrti... pro tebe!}
+{208}{}{PromiÅˆ, Gruthare. Promluvme si.}
+{209}{}{To je jedno. OdchÃ¡zÃ­m.}
+{210}{}{Ne. JÃ¡ jsem tady vÅ¯dce, takÅ¾e jÃ¡ rozhoduji. Jestli se ti to nelÃ­bÃ­, mÅ¯Å¾eÅ¡ se vrÃ¡tit do zemÄ› lidÃ­!}
+{211}{}{VyliÅ¾ mi!}
+{212}{}{DobÅ™e, tak jÃ¡ pÅ¯jdu.}
+{213}{}{JistÄ›, Gruthare. ObÄas zapomÃ­nÃ¡m.}
+{214}{}{UjiÅ¡Å¥uji tÄ›, Å¾e jsem se nesnaÅ¾il bÃ½t vtipnÃ½ ani tÄ› tahat za nos. OmlouvÃ¡m se, jestli ti to tak pÅ™ipadalo. PomÅ¯Å¾u ti, pokud budu moct.}
+{215}{}{DobÅ™e, dÃ­ky.}
+{216}{}{PromiÅˆ, nechtÄ›l jsem ze sebe dÄ›lat chytrÃ¡ka.}
+{217}{}{Nech toho uÅ¡lechtilÃ½ho Å¾vatlÃ¡nÃ­, kÃ¡mo. To na mÄ› neplatÃ­.}
+{218}{}{(Gruthar ze sebe vydÃ¡ nÄ›kolik hrdelnÃ­ch Å™evÅ¯.) MoÅ¾nÃ¡ mi to tu nepatÅ™Ã­, ÄlovÄ›Äe, ale je to mÅ¯j domov i domov mnoha dalÅ¡Ã­ch, kteÅ™Ã­ se spolÃ©hajÃ­ na mou ochranu. NenuÅ¥ mÄ› udÄ›lat nÄ›co, Äeho budeme oba litovat!}
+{219}{}{PromiÅˆ, pÅ™ekraÄuju meze sluÅ¡nosti.}
+{220}{}{K Äertu s tebou a takovÃ½mi jako ty!}
+{221}{}{A sakra! PadÃ¡m odsud.}
+{222}{}{DÄ›kuji ti. Zajdi prosÃ­m do Å™Ã­dÃ­cÃ­ mÃ­stnosti a vymÄ›Åˆ hlasovÃ½ modul.}
 {223}{}{Jakoby se stalo!}
 {224}{}{}
-{225}{}{V tom pøípadì tu nejsi vítán. Odejdi.}
+{225}{}{V tom pÅ™Ã­padÄ› tu nejsi vÃ­tÃ¡n. Odejdi.}
 {226}{}{Sbohem.}
 {227}{}{Sbohem.}
 {228}{}{Beru.}
-{229}{}{Omluva pøijata, èlovìèe. Pøeji hezkı den!}
+{229}{}{Omluva pÅ™ijata, ÄlovÄ›Äe. PÅ™eji hezkÃ½ den!}
 {230}{}{Beru.}
-{231}{}{. Díval ses u na ten stroj?}
-{232}{}{. Budu èekat na tvùj návrat.}
-{233}{}{. Podaøilo se ti najít náhradní souèástku na opravu toho stroje?}
-{234}{}{Eh, dobøe.}
-{235}{}{Doufám, e si uíváš pobyt.}
-{236}{}{Bohuel k tomu muselo dojít. Dovolil jsem mu zùstat tak dlouho, dokud nepøedstavoval hrozbu pro smeèku. Vybral si svoji cestu. Doufám, e to chápeš.}
-{237}{}{Ty zlı.}
-{238}{}{Chápu, Gruthare.}
-{239}{}{Ano. Matt nebıt dobrı.}
+{231}{}{. DÃ­val ses uÅ¾ na ten stroj?}
+{232}{}{. Budu Äekat na tvÅ¯j nÃ¡vrat.}
+{233}{}{. PodaÅ™ilo se ti najÃ­t nÃ¡hradnÃ­ souÄÃ¡stku na opravu toho stroje?}
+{234}{}{Eh, dobÅ™e.}
+{235}{}{DoufÃ¡m, Å¾e si uÅ¾Ã­vÃ¡Å¡ pobyt.}
+{236}{}{BohuÅ¾el k tomu muselo dojÃ­t. Dovolil jsem mu zÅ¯stat tak dlouho, dokud nepÅ™edstavoval hrozbu pro smeÄku. Vybral si svoji cestu. DoufÃ¡m, Å¾e to chÃ¡peÅ¡.}
+{237}{}{Ty zlÃ½.}
+{238}{}{ChÃ¡pu, Gruthare.}
+{239}{}{Ano. Matt nebÃ½t dobrÃ½.}

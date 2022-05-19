@@ -1,10 +1,10 @@
-{100}{}{Kontrolní panel silového pole.}
-{200}{}{Úspìšnì vypínáš silové pole.}
-{201}{}{Nepodaøilo se ti vypnout silové pole.}
-{202}{}{Úspìšnì zapínáš silové pole.}
-{203}{}{Nepodaøilo se ti zapnout silové pole.}
-{210}{}{ vypne silové pole.}
-{211}{}{ se marnì snaí vypnout silové pole.}
-{212}{}{ zapne silové pole.}
-{213}{}{ se marnì snaí zapnout silové pole.}
-{300}{}{Poèítaè byl znièen.}
+{100}{}{KontrolnÃ­ panel silovÃ©ho pole.}
+{200}{}{ÃšspÄ›Å¡nÄ› vypÃ­nÃ¡Å¡ silovÃ© pole.}
+{201}{}{NepodaÅ™ilo se ti vypnout silovÃ© pole.}
+{202}{}{ÃšspÄ›Å¡nÄ› zapÃ­nÃ¡Å¡ silovÃ© pole.}
+{203}{}{NepodaÅ™ilo se ti zapnout silovÃ© pole.}
+{210}{}{ vypne silovÃ© pole.}
+{211}{}{ se marnÄ› snaÅ¾Ã­ vypnout silovÃ© pole.}
+{212}{}{ zapne silovÃ© pole.}
+{213}{}{ se marnÄ› snaÅ¾Ã­ zapnout silovÃ© pole.}
+{300}{}{PoÄÃ­taÄ byl zniÄen.}

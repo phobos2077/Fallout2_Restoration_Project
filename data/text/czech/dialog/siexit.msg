@@ -1,2 +1,2 @@
-{100}{}{Vidíš únikovı rastr.}
-{101}{}{Nìco tu zanechalo velmi zøetelné stopy. Nemìlo by bıt tìké je sledovat a do jejich hnízda. (Únikovı rastr na severovıchod)}
+{100}{}{VidÃ­Å¡ ÃºnikovÃ½ rastr.}
+{101}{}{NÄ›co tu zanechalo velmi zÅ™etelnÃ© stopy. NemÄ›lo by bÃ½t tÄ›Å¾kÃ© je sledovat aÅ¾ do jejich hnÃ­zda. (ÃšnikovÃ½ rastr na severovÃ½chod)}

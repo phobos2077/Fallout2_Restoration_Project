@@ -1,12 +1,12 @@
-{100}{}{Á! Další rekrut.}
-{101}{}{Pøidej se, nebo zemøi!}
-{102}{}{Buï vším, èím chceš bıt.}
-{103}{}{Jsme hrdí a vıjimeèní oldáci.}
-{104}{}{Pøidej se k nám!}
+{100}{}{Ã! DalÅ¡Ã­ rekrut.}
+{101}{}{PÅ™idej se, nebo zemÅ™i!}
+{102}{}{BuÄ vÅ¡Ã­m, ÄÃ­m chceÅ¡ bÃ½t.}
+{103}{}{Jsme hrdÃ­ a vÃ½jimeÄnÃ­ Å¾oldÃ¡ci.}
+{104}{}{PÅ™idej se k nÃ¡m!}
 {105}{}{4F.}
-{106}{}{Èas poohlédnout se jinde.}
-{107}{}{Jdi se pøidat k námoønictvu.}
-{108}{}{Zatracenì!}
-{109}{}{Ach! Podívej, kolik je hodin. Musím u jít!}
+{106}{}{ÄŒas poohlÃ©dnout se jinde.}
+{107}{}{Jdi se pÅ™idat k nÃ¡moÅ™nictvu.}
+{108}{}{ZatracenÄ›!}
+{109}{}{Ach! PodÃ­vej, kolik je hodin. MusÃ­m uÅ¾ jÃ­t!}
 {110}{}{Rekrute.}
-{111}{}{Serante.}
+{111}{}{SerÅ¾ante.}

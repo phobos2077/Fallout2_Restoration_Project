@@ -1,44 +1,44 @@
-{100}{}{Vidíš celkem pøitalivou enu støedního vìku.}
-{101}{}{Vidíš Aileen, jednu z mìstskıch chemièek.}
-{102}{}{Vidíš celkem pøitalivou enu støedního vìku. Vypadá drsnì a schopnì. Na rukou má skvrny od kyselin.}
-{103}{}{Díky za pomoc.}
-{104}{}{Jsem ráda, e patøíš k nám.}
-{105}{}{My tìm mutantùm ukáeme.}
-{106}{}{Máme stejná práva, soudruhu.}
-{107}{}{Máš to správné vybavení.}
+{100}{}{VidÃ­Å¡ celkem pÅ™itaÅ¾livou Å¾enu stÅ™ednÃ­ho vÄ›ku.}
+{101}{}{VidÃ­Å¡ Aileen, jednu z mÄ›stskÃ½ch chemiÄek.}
+{102}{}{VidÃ­Å¡ celkem pÅ™itaÅ¾livou Å¾enu stÅ™ednÃ­ho vÄ›ku. VypadÃ¡ drsnÄ› a schopnÄ›. Na rukou mÃ¡ skvrny od kyselin.}
+{103}{}{DÃ­ky za pomoc.}
+{104}{}{Jsem rÃ¡da, Å¾e patÅ™Ã­Å¡ k nÃ¡m.}
+{105}{}{My tÄ›m mutantÅ¯m ukÃ¡Å¾eme.}
+{106}{}{MÃ¡me stejnÃ¡ prÃ¡va, soudruhu.}
+{107}{}{MÃ¡Å¡ to sprÃ¡vnÃ© vybavenÃ­.}
 {108}{}{Zmizte odsud.}
 {109}{}{Mutantofile.}
-{110}{}{Radši dr klapaèku, jestli nechceš pøijít k úrazu.}
-{111}{}{Zatracenı ochránce mutantù.}
-{112}{}{Proè se nevrátíš ke svım zmutovanım kámošùm?}
-{113}{}{Lidi drí spolu, soudruhu.}
+{110}{}{RadÅ¡i drÅ¾ klapaÄku, jestli nechceÅ¡ pÅ™ijÃ­t k Ãºrazu.}
+{111}{}{ZatracenÃ½ ochrÃ¡nce mutantÅ¯.}
+{112}{}{ProÄ se nevrÃ¡tÃ­Å¡ ke svÃ½m zmutovanÃ½m kÃ¡moÅ¡Å¯m?}
+{113}{}{Lidi drÅ¾Ã­ spolu, soudruhu.}
 {114}{}{My proti nim.}
-{115}{}{Vybral sis vítìznou stranu.}
-{116}{}{Brzy vyeneme všechny mutanty.}
-{117}{}{Ukáeme tìm mutantùm, kdo je tady pán.}
-{118}{}{Ani mutanti nedokáou dıchat jed.}
-{119}{}{Èas lidstva se blíí.}
-{120}{}{Líbí se mi pøedstava, jak se všichni mutanti dusí k smrti.}
-{121}{}{Naše vítìzství se blíí!}
-{122}{}{U brzy bude Broken Hills naše.}
-{123}{}{Zatracenı mutantofile.}
+{115}{}{Vybral sis vÃ­tÄ›znou stranu.}
+{116}{}{Brzy vyÅ¾eneme vÅ¡echny mutanty.}
+{117}{}{UkÃ¡Å¾eme tÄ›m mutantÅ¯m, kdo je tady pÃ¡n.}
+{118}{}{Ani mutanti nedokÃ¡Å¾ou dÃ½chat jed.}
+{119}{}{ÄŒas lidstva se blÃ­Å¾Ã­.}
+{120}{}{LÃ­bÃ­ se mi pÅ™edstava, jak se vÅ¡ichni mutanti dusÃ­ k smrti.}
+{121}{}{NaÅ¡e vÃ­tÄ›zstvÃ­ se blÃ­Å¾Ã­!}
+{122}{}{UÅ¾ brzy bude Broken Hills naÅ¡e.}
+{123}{}{ZatracenÃ½ mutantofile.}
 {124}{}{Zmizte odsud.}
-{125}{}{Jsi obyèejnı kolaborant z øíše mutantù.}
-{126}{}{Tak teï sis teda nevybral zrovna nejlíp.}
-{127}{}{Toho, co jsi tady udìlal, budeš litovat.}
-{128}{}{Vypadni odsud, ty zkaenej idiote.}
-{129}{}{Urèitì jsi taky tak trochu mutant.}
-{130}{}{Vypadni odsud, špinavı ïáble.}
-{131}{}{Hloupı blázne, zmiz odsud.}
-{132}{}{Na takové lidi, jako jsi ty, nemám èas.}
-{133}{}{Jestli nìco chceš, zeptej se Jacoba.}
-{134}{}{Mùj manel Jacob se o tebe postará.}
-{135}{}{Eh, mùeš mì prosím pøestat otravovat?}
-{136}{}{Já ti moc nepomùu, ale mùj manel Jacob by mohl.}
-{137}{}{Nechte mì na pokoji.}
-{138}{}{Díky za návštìvu, ale teï u jdi.}
-{139}{}{Proè tì zajímá tahle špína?}
-{140}{}{Udìlal bys to samé i ve svım, eh, stanu?}
-{141}{}{Prosím, nech mì bıt.}
-{142}{}{Nevím, co po mì chceš, ale nech mì prosím na pokoji.}
-{143}{}{Nastraili to na nás! Ty lidi v tunelech jsme nezabili!}
+{125}{}{Jsi obyÄejnÃ½ kolaborant z Å™Ã­Å¡e mutantÅ¯.}
+{126}{}{Tak teÄ sis teda nevybral zrovna nejlÃ­p.}
+{127}{}{Toho, co jsi tady udÄ›lal, budeÅ¡ litovat.}
+{128}{}{Vypadni odsud, ty zkaÅ¾enej idiote.}
+{129}{}{UrÄitÄ› jsi taky tak trochu mutant.}
+{130}{}{Vypadni odsud, Å¡pinavÃ½ ÄÃ¡ble.}
+{131}{}{HloupÃ½ blÃ¡zne, zmiz odsud.}
+{132}{}{Na takovÃ© lidi, jako jsi ty, nemÃ¡m Äas.}
+{133}{}{Jestli nÄ›co chceÅ¡, zeptej se Jacoba.}
+{134}{}{MÅ¯j manÅ¾el Jacob se o tebe postarÃ¡.}
+{135}{}{Eh, mÅ¯Å¾eÅ¡ mÄ› prosÃ­m pÅ™estat otravovat?}
+{136}{}{JÃ¡ ti moc nepomÅ¯Å¾u, ale mÅ¯j manÅ¾el Jacob by mohl.}
+{137}{}{Nechte mÄ› na pokoji.}
+{138}{}{DÃ­ky za nÃ¡vÅ¡tÄ›vu, ale teÄ uÅ¾ jdi.}
+{139}{}{ProÄ tÄ› zajÃ­mÃ¡ tahle Å¡pÃ­na?}
+{140}{}{UdÄ›lal bys to samÃ© i ve svÃ½m, eh, stanu?}
+{141}{}{ProsÃ­m, nech mÄ› bÃ½t.}
+{142}{}{NevÃ­m, co po mÄ› chceÅ¡, ale nech mÄ› prosÃ­m na pokoji.}
+{143}{}{NastraÅ¾ili to na nÃ¡s! Ty lidi v tunelech jsme nezabili!}

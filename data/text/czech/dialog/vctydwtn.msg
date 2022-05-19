@@ -1,1 +1,1 @@
-{100}{}{Nacházíš se v Centru Vault City.}
+{100}{}{NachÃ¡zÃ­Å¡ se v Centru Vault City.}

@@ -1,1 +1,1 @@
-{100}{}{Vid� mantise.}
+{100}{}{Vidíš mantise.}

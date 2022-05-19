@@ -1,74 +1,74 @@
-{100}{}{Vidíš baculatého obchodníka s páskou pøes oko.}
-{101}{}{Jednookı Roy tì sleduje svım zdravım okem a pøitom si utírá pot z èela.}
-{200}{}{(Kdy jste se s Kromem pøiblíili k místu setkání, uvítal vás baculatı obchodník s páskou pøes oko a nìkolika doprovodnımi bodyguardy. I pøesto, e se náramnì potí, vypadá to, e je ve velmi dobré náladì.)}
-{201}{}{[Více]}
-{202}{}{(Poté, co nadšenì pøivítá Kroma, se k tobì obchodník otoèí a prohlédne si tì. I pøesto, e se šklebí stále stejnım zpùsobem, jeho slídící oko na nìm prozradí náznak nedùvìry.) Tady Krom øíká, e mám s tebou dnes nìjakı obchod. (Pokrèí rameny.) Pøátelé mi øíkají jednookı Roy, ale zaboha nemùu pøijít na to proè. (Srdeènì se zasmìje svému vtipu.) Jak se jmenuješ, pøíteli?}
+{100}{}{VidÃ­Å¡ baculatÃ©ho obchodnÃ­ka s pÃ¡skou pÅ™es oko.}
+{101}{}{JednookÃ½ Roy tÄ› sleduje svÃ½m zdravÃ½m okem a pÅ™itom si utÃ­rÃ¡ pot z Äela.}
+{200}{}{(KdyÅ¾ jste se s Kromem pÅ™iblÃ­Å¾ili k mÃ­stu setkÃ¡nÃ­, uvÃ­tal vÃ¡s baculatÃ½ obchodnÃ­k s pÃ¡skou pÅ™es oko a nÄ›kolika doprovodnÃ½mi bodyguardy. I pÅ™esto, Å¾e se nÃ¡ramnÄ› potÃ­, vypadÃ¡ to, Å¾e je ve velmi dobrÃ© nÃ¡ladÄ›.)}
+{201}{}{[VÃ­ce]}
+{202}{}{(PotÃ©, co nadÅ¡enÄ› pÅ™ivÃ­tÃ¡ Kroma, se k tobÄ› obchodnÃ­k otoÄÃ­ a prohlÃ©dne si tÄ›. I pÅ™esto, Å¾e se Å¡klebÃ­ stÃ¡le stejnÃ½m zpÅ¯sobem, jeho slÃ­dÃ­cÃ­ oko na nÄ›m prozradÃ­ nÃ¡znak nedÅ¯vÄ›ry.) Tady Krom Å™Ã­kÃ¡, Å¾e mÃ¡m s tebou dnes nÄ›jakÃ½ obchod. (PokrÄÃ­ rameny.) PÅ™Ã¡telÃ© mi Å™Ã­kajÃ­ jednookÃ½ Roy, ale zaboha nemÅ¯Å¾u pÅ™ijÃ­t na to proÄ. (SrdeÄnÄ› se zasmÄ›je svÃ©mu vtipu.) Jak se jmenujeÅ¡, pÅ™Ã­teli?}
 {203}{}{Jsem }
 {204}{}{ z Arroya.}
-{205}{}{. Dáme se do toho.}
-{210}{}{Velice rád tì poznávám, }
-{211}{}{. Doufám, e se neurazíš, kdy øeknu, e jsi tak trochu zvláštní typ divocha.}
-{212}{}{Nejsem jen tak obyèejnı divoch. Ve skuteènosti jsem Vyvolenı.}
-{213}{}{Vùbec nevím, co tím myslíš. Jsem obyèejnı Honza Divoch. Vùbec nic na mnì není zvláštní.}
-{214}{}{Hm, e by to bylo tím obleèením? Víš, snaím se prosadit novı styl oblékání divochù. U mì nebaví poøád ty stejné kalhoty z brahmíní kùe s páskem pøes hruï. To je *móda* roku 2240.}
-{215}{}{Kdo je u tebe "zvláštní typ", ty tlustej jednookej zmrde? [Zaútoèit]}
-{220}{}{(Jeho škleb lehce ochabne a poté pøikıvne.) Dobøe, pøejdìme tedy k obchodu. Povìz mi, pøíteli, øíká ti nìco malı pøedmìt zvanı... Stimpak? (Bìhem svého dramatického projevu vytáhne Stimpak z kapsy svého kabátu a drí ho jako nìjakı zázraènı artefakt.)}
-{230}{}{(Zùstane stát v údivu a vypustí ze sebe slabé hvízdnutí.) Tak Vyvolenı, jo? To jsem tedy neèekal. Pøejdìme k obchodu. Povìz mi, pøíteli, øíká ti nìco malı pøedmìt zvanı... Stimpak? (Bìhem svého dramatického projevu vytáhne Stimpak z kapsy svého kabátu a drí ho jako nìjakı zázraènı artefakt.)}
+{205}{}{. DÃ¡me se do toho.}
+{210}{}{Velice rÃ¡d tÄ› poznÃ¡vÃ¡m, }
+{211}{}{. DoufÃ¡m, Å¾e se neurazÃ­Å¡, kdyÅ¾ Å™eknu, Å¾e jsi tak trochu zvlÃ¡Å¡tnÃ­ typ divocha.}
+{212}{}{Nejsem jen tak obyÄejnÃ½ divoch. Ve skuteÄnosti jsem VyvolenÃ½.}
+{213}{}{VÅ¯bec nevÃ­m, co tÃ­m myslÃ­Å¡. Jsem obyÄejnÃ½ Honza Divoch. VÅ¯bec nic na mnÄ› nenÃ­ zvlÃ¡Å¡tnÃ­.}
+{214}{}{Hm, Å¾e by to bylo tÃ­m obleÄenÃ­m? VÃ­Å¡, snaÅ¾Ã­m se prosadit novÃ½ styl oblÃ©kÃ¡nÃ­ divochÅ¯. UÅ¾ mÄ› nebavÃ­ poÅ™Ã¡d ty stejnÃ© kalhoty z brahmÃ­nÃ­ kÅ¯Å¾e s pÃ¡skem pÅ™es hruÄ. To je *mÃ³da* roku 2240.}
+{215}{}{Kdo je u tebe "zvlÃ¡Å¡tnÃ­ typ", ty tlustej jednookej zmrde? [ZaÃºtoÄit]}
+{220}{}{(Jeho Å¡kleb lehce ochabne a potÃ© pÅ™ikÃ½vne.) DobÅ™e, pÅ™ejdÄ›me tedy k obchodu. PovÄ›z mi, pÅ™Ã­teli, Å™Ã­kÃ¡ ti nÄ›co malÃ½ pÅ™edmÄ›t zvanÃ½... Stimpak? (BÄ›hem svÃ©ho dramatickÃ©ho projevu vytÃ¡hne Stimpak z kapsy svÃ©ho kabÃ¡tu a drÅ¾Ã­ ho jako nÄ›jakÃ½ zÃ¡zraÄnÃ½ artefakt.)}
+{230}{}{(ZÅ¯stane stÃ¡t v Ãºdivu a vypustÃ­ ze sebe slabÃ© hvÃ­zdnutÃ­.) Tak VyvolenÃ½, jo? To jsem tedy neÄekal. PÅ™ejdÄ›me k obchodu. PovÄ›z mi, pÅ™Ã­teli, Å™Ã­kÃ¡ ti nÄ›co malÃ½ pÅ™edmÄ›t zvanÃ½... Stimpak? (BÄ›hem svÃ©ho dramatickÃ©ho projevu vytÃ¡hne Stimpak z kapsy svÃ©ho kabÃ¡tu a drÅ¾Ã­ ho jako nÄ›jakÃ½ zÃ¡zraÄnÃ½ artefakt.)}
 {240}{}{Whatever you say, friend. Now let's get down to business, shall we? Have you ever heard of a little item called...
  a stimpak? [As he dramatically speaks the last word, he produces a stimpak from his coat pocket and holds it up like a
  wondrous artifact.]}
-{241}{}{Ehm, jo. Vlastnì jsou docela bìné.}
-{242}{}{Samozøejmì. Hromadím je. Sakra, vdy já v podstatì ujídím na Stimpacích.}
-{243}{}{[Zakroutit hlavou a zírat na pøedmìt v úasu] Co je to... Stim-pak?}
-{250}{}{(Nervóznì se usmìje.) Neøekl bych, e jsou *bìné*, ale my civilizovaní lidé po nich zajisté prahneme. (Podívá se na Kroma.) A z dobrého dùvodu. Víš, tihle malí hoši obsahují magické léèící schopnosti, které tì *ohromí* a *udiví*. Samozøejmì, pouhá slova nic nedokazují, take dovol, abych ti pøedvedl, jaké zázraky takovı Stimpak dokáe.}
-{251}{}{(Jeho oblièej na chvíli zvání, ale poté se zase rychle zaène šklebit a podívá se na Kroma.) Víš, tihle malí hoši obsahují magické léèící schopnosti, které tì *ohromí* a *udiví*. Samozøejmì, pouhá slova nic nedokazují, take dovol, abych ti pøedvedl, jaké zázraky takovı Stimpak dokáe.}
-{252}{}{Vynikající otázka, mùj pøíteli! Stimpak je jeden z mnoha skvìlıch zázrakù, které nám zanechal Starı Svìt. Víš, tihle malí hoši obsahují magické léèící schopnosti, které tì *ohromí* a *udiví*. Samozøejmì, pouhá slova nic nedokazují, take dovol, abych ti pøedvedl, jaké zázraky takovı Stimpak dokáe.}
-{253}{}{To by mohlo bıt zajímavé. Podívám se na to.}
-{254}{}{Já vím jak fungují, nìkolikrát mi u zachránily ivot.}
-{260}{}{(Ušklíbne se na tebe a Kroma a poté se otoèí na jednoho ze svıch bodyguardù.) Warrene, dej sem svoji ruku. (Stráce se zamraèí, ale udìlá, co mu bylo pøikázáno. Roy rychle vytáhne nù a øízne Warrena do ramene. Warren se svíjí bolestí, ale neprotestuje. Roy se na tebe ušklíbne.) Jak vidíš, Warren má pìknì ošklivou ránu.}
-{261}{}{[Více]}
-{262}{}{Ujišuji vás pøátelé, e ta rána, i Warrenova bolest, je zcela skuteèná. Tohle není ádnı falešnı nù. (Podá nù Kromovi, kterı na nìj sotva pohlédne, souhlasnì kıvne a poté ho pøedá zpìt.) A teï se dívejte. (Vstøíkne Stimpak Warrenovi do ruky, èím témìø ihned zastaví krvácení. Otøe zbytky krve kusem špinavého hadru a odhalí tak témìø zacelenou ránu.)}
-{263}{}{[Více]}
-{264}{}{A teï si pøedstavte, jakou získáte vıhodu nad nepøátelskımi kmeny, kdy budete mít Stimpaky. A narozdíl od tìch vašich léèících práškù nezpùsobují *ádnou* ospalost. Ve skuteènosti je tento zázrak zcela *bez* vedlejších úèinkù. Ale vím, co si myslíte, urèitì to stojí celé jmìní, e? Omyl. Protoe se mi *líbíte*, tak vám je dám v podstatì zadarmo.}
-{270}{}{(Ignoruje tvùj komentáø, ušklíbne se na Kroma a poté se otoèí na jednoho ze svıch bodyguardù.) Warrene, dej sem svoji ruku. (Stráce se zamraèí, ale udìlá, co mu bylo pøikázáno. Roy rychle vytáhne nù a øízne Warrena do ramene. Warren se svíjí bolestí, ale neprotestuje. Roy se na tebe ušklíbne.) Jak vidíš, Warren má pìknì ošklivou ránu.}
+{241}{}{Ehm, jo. VlastnÄ› jsou docela bÄ›Å¾nÃ©.}
+{242}{}{SamozÅ™ejmÄ›. HromadÃ­m je. Sakra, vÅ¾dyÅ¥ jÃ¡ v podstatÄ› ujÃ­Å¾dÃ­m na StimpacÃ­ch.}
+{243}{}{[Zakroutit hlavou a zÃ­rat na pÅ™edmÄ›t v ÃºÅ¾asu] Co je to... Stim-pak?}
+{250}{}{(NervÃ³znÄ› se usmÄ›je.) NeÅ™ekl bych, Å¾e jsou *bÄ›Å¾nÃ©*, ale my civilizovanÃ­ lidÃ© po nich zajistÃ© prahneme. (PodÃ­vÃ¡ se na Kroma.) A z dobrÃ©ho dÅ¯vodu. VÃ­Å¡, tihle malÃ­ hoÅ¡i obsahujÃ­ magickÃ© lÃ©ÄÃ­cÃ­ schopnosti, kterÃ© tÄ› *ohromÃ­* a *udivÃ­*. SamozÅ™ejmÄ›, pouhÃ¡ slova nic nedokazujÃ­, takÅ¾e dovol, abych ti pÅ™edvedl, jakÃ© zÃ¡zraky takovÃ½ Stimpak dokÃ¡Å¾e.}
+{251}{}{(Jeho obliÄej na chvÃ­li zvÃ¡Å¾nÃ­, ale potÃ© se zase rychle zaÄne Å¡klebit a podÃ­vÃ¡ se na Kroma.) VÃ­Å¡, tihle malÃ­ hoÅ¡i obsahujÃ­ magickÃ© lÃ©ÄÃ­cÃ­ schopnosti, kterÃ© tÄ› *ohromÃ­* a *udivÃ­*. SamozÅ™ejmÄ›, pouhÃ¡ slova nic nedokazujÃ­, takÅ¾e dovol, abych ti pÅ™edvedl, jakÃ© zÃ¡zraky takovÃ½ Stimpak dokÃ¡Å¾e.}
+{252}{}{VynikajÃ­cÃ­ otÃ¡zka, mÅ¯j pÅ™Ã­teli! Stimpak je jeden z mnoha skvÄ›lÃ½ch zÃ¡zrakÅ¯, kterÃ© nÃ¡m zanechal StarÃ½ SvÄ›t. VÃ­Å¡, tihle malÃ­ hoÅ¡i obsahujÃ­ magickÃ© lÃ©ÄÃ­cÃ­ schopnosti, kterÃ© tÄ› *ohromÃ­* a *udivÃ­*. SamozÅ™ejmÄ›, pouhÃ¡ slova nic nedokazujÃ­, takÅ¾e dovol, abych ti pÅ™edvedl, jakÃ© zÃ¡zraky takovÃ½ Stimpak dokÃ¡Å¾e.}
+{253}{}{To by mohlo bÃ½t zajÃ­mavÃ©. PodÃ­vÃ¡m se na to.}
+{254}{}{JÃ¡ vÃ­m jak fungujÃ­, nÄ›kolikrÃ¡t mi uÅ¾ zachrÃ¡nily Å¾ivot.}
+{260}{}{(UÅ¡klÃ­bne se na tebe a Kroma a potÃ© se otoÄÃ­ na jednoho ze svÃ½ch bodyguardÅ¯.) Warrene, dej sem svoji ruku. (StrÃ¡Å¾ce se zamraÄÃ­, ale udÄ›lÃ¡, co mu bylo pÅ™ikÃ¡zÃ¡no. Roy rychle vytÃ¡hne nÅ¯Å¾ a Å™Ã­zne Warrena do ramene. Warren se svÃ­jÃ­ bolestÃ­, ale neprotestuje. Roy se na tebe uÅ¡klÃ­bne.) Jak vidÃ­Å¡, Warren mÃ¡ pÄ›knÄ› oÅ¡klivou rÃ¡nu.}
+{261}{}{[VÃ­ce]}
+{262}{}{UjiÅ¡Å¥uji vÃ¡s pÅ™Ã¡telÃ©, Å¾e ta rÃ¡na, i Warrenova bolest, je zcela skuteÄnÃ¡. Tohle nenÃ­ Å¾Ã¡dnÃ½ faleÅ¡nÃ½ nÅ¯Å¾. (PodÃ¡ nÅ¯Å¾ Kromovi, kterÃ½ na nÄ›j sotva pohlÃ©dne, souhlasnÄ› kÃ½vne a potÃ© ho pÅ™edÃ¡ zpÄ›t.) A teÄ se dÃ­vejte. (VstÅ™Ã­kne Stimpak Warrenovi do ruky, ÄÃ­mÅ¾ tÃ©mÄ›Å™ ihned zastavÃ­ krvÃ¡cenÃ­. OtÅ™e zbytky krve kusem Å¡pinavÃ©ho hadru a odhalÃ­ tak tÃ©mÄ›Å™ zacelenou rÃ¡nu.)}
+{263}{}{[VÃ­ce]}
+{264}{}{A teÄ si pÅ™edstavte, jakou zÃ­skÃ¡te vÃ½hodu nad nepÅ™Ã¡telskÃ½mi kmeny, kdyÅ¾ budete mÃ­t Stimpaky. A narozdÃ­l od tÄ›ch vaÅ¡ich lÃ©ÄÃ­cÃ­ch prÃ¡Å¡kÅ¯ nezpÅ¯sobujÃ­ *Å¾Ã¡dnou* ospalost. Ve skuteÄnosti je tento zÃ¡zrak zcela *bez* vedlejÅ¡Ã­ch ÃºÄinkÅ¯. Ale vÃ­m, co si myslÃ­te, urÄitÄ› to stojÃ­ celÃ© jmÄ›nÃ­, Å¾e? Omyl. ProtoÅ¾e se mi *lÃ­bÃ­te*, tak vÃ¡m je dÃ¡m v podstatÄ› zadarmo.}
+{270}{}{(Ignoruje tvÅ¯j komentÃ¡Å™, uÅ¡klÃ­bne se na Kroma a potÃ© se otoÄÃ­ na jednoho ze svÃ½ch bodyguardÅ¯.) Warrene, dej sem svoji ruku. (StrÃ¡Å¾ce se zamraÄÃ­, ale udÄ›lÃ¡, co mu bylo pÅ™ikÃ¡zÃ¡no. Roy rychle vytÃ¡hne nÅ¯Å¾ a Å™Ã­zne Warrena do ramene. Warren se svÃ­jÃ­ bolestÃ­, ale neprotestuje. Roy se na tebe uÅ¡klÃ­bne.) Jak vidÃ­Å¡, Warren mÃ¡ pÄ›knÄ› oÅ¡klivou rÃ¡nu.}
 {275}{}{Kolik za to?}
-{276}{}{Zadarmo? Kolik za nì chceš?}
-{280}{}{Dám vám celou tuhle bednu. To je *padesát* Stimpakù a na oplátku ádám ubohıch *dvacet* kùí zlatého geckona. Taková nabídka se nedá odmítnout.}
-{281}{}{(Na Kroma.) Má pravdu, to je dobrá nabídka. Vlastnì skvìlá. (Na Roye.) Bereme to.}
-{282}{}{To je opravdu dobrá nabídka. Pøíliš dobrá. V èem je háèek?}
-{283}{}{Nabízíme ti deset kùí zlatého geckona. Ne víc.}
-{284}{}{Musím si to promyslet.}
-{285}{}{Tvoji nabídku odmítáme.}
-{290}{}{(Royùv oblièej se rozzáøí.) Skvìlá volba! Platí. (Rychle si vymìníte zboí a Roy se poté rychle vydá na svoji další zastávku.)}
-{300}{}{(Roy se zasmìje, podívá se na své bodyguardy a poté se podívá zpìt na tebe.) Podívejte, jedinı Stimpak má vìtší cenu ne jedna zlatá kùe. Take jak vidíte, u takhle vám je nabízím za nehoráznou slevu. Chtít po mì víc by byla zlodìjna. Dvacet kùí, nebo navštívím kmen, kterı má více rozumu.}
-{301}{}{Tak dobøe. Bereme to.}
-{302}{}{V tom pøípadì bys mìl vyrazit. Tvoji nabídku odmítáme.}
-{303}{}{Musím si to promyslet.}
-{305}{}{(Roy se zamraèí a poškrábe se na svém špinavém krku. Posléze dlouze povzdechne.) Štvete mì, víte o tom? Ale udìlám vašemu kmeni laskavost a tu nabídku pøijmu. (Rychle si vymìníte zboí a Roy se poté rychle vydá na svoji další zastávku.)}
-{310}{}{(Zamraèí se.) Jenom naprostı idiot by odmítl takovou nabídku. (Zakroutí hlavou a otoèí se na své mue.) Dobrá, pojïme. (Pohlédne zpìt na tebe.) A ty jdi do prdele.}
-{311}{}{[Nechat je odejít]}
-{312}{}{[Zaútoèit]}
-{320}{}{ádnı háèek, mùj pøíteli. U mám dostateèné mnoství Stimpakù pro svoji potøebu, take prodávám pøebyteèné zásoby. Na druhou stranu zlaté kùe... tìch nebudu mít nikdy dost. Jistì, padesát Stimpakù má mnohem vyšší cenu ne obyèejnıch dvacet kùí zlatého geckona, ale jsem realista. Nemùu oèekávat, e tvùj kmen, zajisté zkušení lovci, bude u sebe mít sto kùí zlatého geckona, take jsem udìlal rozumnìjší nabídku. Proto *je* to tak dobrá nabídka.}
-{321}{}{(Na Kroma.) Má pravdu, to je dobrá nabídka. Vlastnì skvìlá. (Na Roye.) Bereme to.}
-{322}{}{Nejdøív si chci prohlédnout zbytek zboí a a potom se na nìèem mùeme dohodnout.}
-{330}{}{(Podezøívavì se na tebe podívá a poté se ušklíbne.) Samozøejmì. Jsou v té bednì vedle mì.}
+{276}{}{Zadarmo? Kolik za nÄ› chceÅ¡?}
+{280}{}{DÃ¡m vÃ¡m celou tuhle bednu. To je *padesÃ¡t* StimpakÅ¯ a na oplÃ¡tku Å¾Ã¡dÃ¡m ubohÃ½ch *dvacet* kÅ¯Å¾Ã­ zlatÃ©ho geckona. TakovÃ¡ nabÃ­dka se nedÃ¡ odmÃ­tnout.}
+{281}{}{(Na Kroma.) MÃ¡ pravdu, to je dobrÃ¡ nabÃ­dka. VlastnÄ› skvÄ›lÃ¡. (Na Roye.) Bereme to.}
+{282}{}{To je opravdu dobrÃ¡ nabÃ­dka. PÅ™Ã­liÅ¡ dobrÃ¡. V Äem je hÃ¡Äek?}
+{283}{}{NabÃ­zÃ­me ti deset kÅ¯Å¾Ã­ zlatÃ©ho geckona. Ne vÃ­c.}
+{284}{}{MusÃ­m si to promyslet.}
+{285}{}{Tvoji nabÃ­dku odmÃ­tÃ¡me.}
+{290}{}{(RoyÅ¯v obliÄej se rozzÃ¡Å™Ã­.) SkvÄ›lÃ¡ volba! PlatÃ­. (Rychle si vymÄ›nÃ­te zboÅ¾Ã­ a Roy se potÃ© rychle vydÃ¡ na svoji dalÅ¡Ã­ zastÃ¡vku.)}
+{300}{}{(Roy se zasmÄ›je, podÃ­vÃ¡ se na svÃ© bodyguardy a potÃ© se podÃ­vÃ¡ zpÄ›t na tebe.) PodÃ­vejte, jedinÃ½ Stimpak mÃ¡ vÄ›tÅ¡Ã­ cenu neÅ¾ jedna zlatÃ¡ kÅ¯Å¾e. TakÅ¾e jak vidÃ­te, uÅ¾ takhle vÃ¡m je nabÃ­zÃ­m za nehorÃ¡znou slevu. ChtÃ­t po mÄ› vÃ­c by byla zlodÄ›jna. Dvacet kÅ¯Å¾Ã­, nebo navÅ¡tÃ­vÃ­m kmen, kterÃ½ mÃ¡ vÃ­ce rozumu.}
+{301}{}{Tak dobÅ™e. Bereme to.}
+{302}{}{V tom pÅ™Ã­padÄ› bys mÄ›l vyrazit. Tvoji nabÃ­dku odmÃ­tÃ¡me.}
+{303}{}{MusÃ­m si to promyslet.}
+{305}{}{(Roy se zamraÄÃ­ a poÅ¡krÃ¡be se na svÃ©m Å¡pinavÃ©m krku. PoslÃ©ze dlouze povzdechne.) Å tvete mÄ›, vÃ­te o tom? Ale udÄ›lÃ¡m vaÅ¡emu kmeni laskavost a tu nabÃ­dku pÅ™ijmu. (Rychle si vymÄ›nÃ­te zboÅ¾Ã­ a Roy se potÃ© rychle vydÃ¡ na svoji dalÅ¡Ã­ zastÃ¡vku.)}
+{310}{}{(ZamraÄÃ­ se.) Jenom naprostÃ½ idiot by odmÃ­tl takovou nabÃ­dku. (ZakroutÃ­ hlavou a otoÄÃ­ se na svÃ© muÅ¾e.) DobrÃ¡, pojÄme. (PohlÃ©dne zpÄ›t na tebe.) A ty jdi do prdele.}
+{311}{}{[Nechat je odejÃ­t]}
+{312}{}{[ZaÃºtoÄit]}
+{320}{}{Å½Ã¡dnÃ½ hÃ¡Äek, mÅ¯j pÅ™Ã­teli. UÅ¾ mÃ¡m dostateÄnÃ© mnoÅ¾stvÃ­ StimpakÅ¯ pro svoji potÅ™ebu, takÅ¾e prodÃ¡vÃ¡m pÅ™ebyteÄnÃ© zÃ¡soby. Na druhou stranu zlatÃ© kÅ¯Å¾e... tÄ›ch nebudu mÃ­t nikdy dost. JistÄ›, padesÃ¡t StimpakÅ¯ mÃ¡ mnohem vyÅ¡Å¡Ã­ cenu neÅ¾ obyÄejnÃ½ch dvacet kÅ¯Å¾Ã­ zlatÃ©ho geckona, ale jsem realista. NemÅ¯Å¾u oÄekÃ¡vat, Å¾e tvÅ¯j kmen, zajistÃ© zkuÅ¡enÃ­ lovci, bude u sebe mÃ­t sto kÅ¯Å¾Ã­ zlatÃ©ho geckona, takÅ¾e jsem udÄ›lal rozumnÄ›jÅ¡Ã­ nabÃ­dku. Proto *je* to tak dobrÃ¡ nabÃ­dka.}
+{321}{}{(Na Kroma.) MÃ¡ pravdu, to je dobrÃ¡ nabÃ­dka. VlastnÄ› skvÄ›lÃ¡. (Na Roye.) Bereme to.}
+{322}{}{NejdÅ™Ã­v si chci prohlÃ©dnout zbytek zboÅ¾Ã­ a aÅ¾ potom se na nÄ›Äem mÅ¯Å¾eme dohodnout.}
+{330}{}{(PodezÅ™Ã­vavÄ› se na tebe podÃ­vÃ¡ a potÃ© se uÅ¡klÃ­bne.) SamozÅ™ejmÄ›. Jsou v tÃ© bednÄ› vedle mÄ›.}
 {331}{}{[KONEC]}
-{340}{}{Dobøe, ale a ti to netrvá moc dlouho. Musíme pøed soumrakem udìlat ještì jednu zastávku.}
-{350}{}{Dobrá, tak pokud u jste skonèili s mrháním èasu, tak to vyklopte. Jsem zaneprázdnìnı mu.}
-{351}{}{Dobøe. Pøijímáme nabídku.}
-{352}{}{Tvoji nabídku odmítáme.}
-{353}{}{Musím si to ještì promyslet.}
-{354}{}{Mám pro tebe novou nabídku: dej nám ty Stimpaky a necháme tì naivu.}
-{360}{}{Tak zaneprázdnìny mu, jo? A taky lháø a podvodník.}
-{361}{}{Ty Stimpaky jsou napodobeniny. Jsou to jen støíkaèky naplnìné brahmíní krví. Pokoušel ses okrást tenhle kmen.}
-{362}{}{Musím si to ještì promyslet.}
-{363}{}{Dobøe. Pøijímáme nabídku.}
-{370}{}{(Znejistí a nervóznì se podívá na Kroma.) O-o èem to mluvíš?}
-{371}{}{Ty Stimpaky jsou napodobeniny. Jsou to jen støíkaèky naplnìné brahmíní krví. Pokoušel ses okrást tenhle kmen.}
-{372}{}{T-to není moné. Sami jste vidìli tu demonstraci. Jsou naprosto v poøádku. Nehodlám tu jen tak stát a nechat si pošpinit své dobré jméno.}
-{373}{}{Jistì, ten Stimpak, kterı jsi pouil bìhem demonstrace, byl skuteènı, ale zajímalo by mì, co by se stalo, kdybys zkusil jeden ze Stimpakù v té bednì.}
-{374}{}{Mrdám na tvoje dobré jméno. Bude ti k nièemu, a s tebou skonèím. [Zaútoèit]}
-{380}{}{(Vysmívá se.) Dobøe! Fajn! Kdy øíkáš, e jsou to napodobeniny, tak moná jo. Jak to mám vìdìt? Já ty zkurvenı vìci nevyrobil, koupil jsem je. Take jsem to *já*, kdo tu byl okraden, ne ty. A jeliko tu nabídku nepøijímáš, tak tu nebudu ztrácet èas. Nashle.}
-{381}{}{[Nechat je odejít]}
-{382}{}{[Zaútoèit]}
-{390}{}{Kdo si kurva myslíš, e jseš? (Na své bodyguardy.) Zabijte ty zatracenı divochy!}
+{340}{}{DobÅ™e, ale aÅ¥ ti to netrvÃ¡ moc dlouho. MusÃ­me pÅ™ed soumrakem udÄ›lat jeÅ¡tÄ› jednu zastÃ¡vku.}
+{350}{}{DobrÃ¡, tak pokud uÅ¾ jste skonÄili s mrhÃ¡nÃ­m Äasu, tak to vyklopte. Jsem zaneprÃ¡zdnÄ›nÃ½ muÅ¾.}
+{351}{}{DobÅ™e. PÅ™ijÃ­mÃ¡me nabÃ­dku.}
+{352}{}{Tvoji nabÃ­dku odmÃ­tÃ¡me.}
+{353}{}{MusÃ­m si to jeÅ¡tÄ› promyslet.}
+{354}{}{MÃ¡m pro tebe novou nabÃ­dku: dej nÃ¡m ty Stimpaky a nechÃ¡me tÄ› naÅ¾ivu.}
+{360}{}{Tak zaneprÃ¡zdnÄ›ny muÅ¾, jo? A taky lhÃ¡Å™ a podvodnÃ­k.}
+{361}{}{Ty Stimpaky jsou napodobeniny. Jsou to jen stÅ™Ã­kaÄky naplnÄ›nÃ© brahmÃ­nÃ­ krvÃ­. PokouÅ¡el ses okrÃ¡st tenhle kmen.}
+{362}{}{MusÃ­m si to jeÅ¡tÄ› promyslet.}
+{363}{}{DobÅ™e. PÅ™ijÃ­mÃ¡me nabÃ­dku.}
+{370}{}{(ZnejistÃ­ a nervÃ³znÄ› se podÃ­vÃ¡ na Kroma.) O-o Äem to mluvÃ­Å¡?}
+{371}{}{Ty Stimpaky jsou napodobeniny. Jsou to jen stÅ™Ã­kaÄky naplnÄ›nÃ© brahmÃ­nÃ­ krvÃ­. PokouÅ¡el ses okrÃ¡st tenhle kmen.}
+{372}{}{T-to nenÃ­ moÅ¾nÃ©. Sami jste vidÄ›li tu demonstraci. Jsou naprosto v poÅ™Ã¡dku. NehodlÃ¡m tu jen tak stÃ¡t a nechat si poÅ¡pinit svÃ© dobrÃ© jmÃ©no.}
+{373}{}{JistÄ›, ten Stimpak, kterÃ½ jsi pouÅ¾il bÄ›hem demonstrace, byl skuteÄnÃ½, ale zajÃ­malo by mÄ›, co by se stalo, kdybys zkusil jeden ze StimpakÅ¯ v tÃ© bednÄ›.}
+{374}{}{MrdÃ¡m na tvoje dobrÃ© jmÃ©no. Bude ti k niÄemu, aÅ¾ s tebou skonÄÃ­m. [ZaÃºtoÄit]}
+{380}{}{(VysmÃ­vÃ¡ se.) DobÅ™e! Fajn! KdyÅ¾ Å™Ã­kÃ¡Å¡, Å¾e jsou to napodobeniny, tak moÅ¾nÃ¡ jo. Jak to mÃ¡m vÄ›dÄ›t? JÃ¡ ty zkurvenÃ½ vÄ›ci nevyrobil, koupil jsem je. TakÅ¾e jsem to *jÃ¡*, kdo tu byl okraden, ne ty. A jelikoÅ¾ tu nabÃ­dku nepÅ™ijÃ­mÃ¡Å¡, tak tu nebudu ztrÃ¡cet Äas. Nashle.}
+{381}{}{[Nechat je odejÃ­t]}
+{382}{}{[ZaÃºtoÄit]}
+{390}{}{Kdo si kurva myslÃ­Å¡, Å¾e jseÅ¡? (Na svÃ© bodyguardy.) Zabijte ty zatracenÃ½ divochy!}

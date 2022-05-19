@@ -1,69 +1,69 @@
-{100}{}{Tento terminál zobrazuje zelené sloupce, které nepravidelnì stoupají a klesají.}
-{101}{}{Vidíš lékaøskı terminál Vault City. }
-{102}{}{Tento terminál zobrazuje zelené sloupce, které nepravidelnì stoupají a klesají.}
-{103}{}{Dalo by se z nìj získat víc informací, jen to chce vìdeètìjší pøístup.}
-{104}{}{Nemáš tušení, jak tenhle terminál funguje.}
-{105}{}{Zatracené poèítaèe.}
-{106}{}{Nemáš tušení, jak tenhle terminál funguje.}
-{107}{}{Blbı po-ší-ta-še.}
-{108}{}{Podaøilo se ti pøihlásit do lékaøské databáze Vault City. Aèkoliv není uivatelské rozhraní pøíliš srozumitelné, samotná databáze se zdá bıt rozdìlena do sérií archívù.}
-{109}{}{Prohledat archívy: umístìní Vaultù.}
-{110}{}{Hledat jakoukoliv zmínku o GECKu ve všech archívech.}
-{111}{}{Prohledat lékaøskou databázi: cokoliv zajímavého.}
-{112}{}{Odhlásit se z terminálu.}
-{113}{}{Nenacházíš v databázi ádné informace o Vaultech. Vìtšina archívù obsahuje lékaøské informace tıkající se anatomie, známıch nemocí, ošetøení, lékù a implantátù.}
-{114}{}{Prohledat archívy: jakákoliv zmínka o GECKu.}
-{115}{}{Prohledat lékaøskou databázi: cokoliv zajímavého.}
-{116}{}{Odhlásit se z terminálu.}
-{117}{}{Nenacházíš v databázi ádné informace o GECKu. Vìtšina archívù obsahuje lékaøské informace tıkající se anatomie, známıch nemocí, ošetøení, lékù a implantátù.}
-{118}{}{Prohledat archívy: jakákoliv zmínka o Vaultech.}
-{119}{}{Prohledat lékaøskou databázi: cokoliv zajímavého.}
-{120}{}{Odhlásit se z terminálu.}
-{121}{}{Snaíš se prohledat databázi, ale lékaøská terminologie je na tebe pøíliš sloitá. Mít trochu více znalostí medicíny, moná by to nebyl a takovı problém.}
-{122}{}{Pokraèovat v prohledávání archívù.}
-{123}{}{Odhlásit se z terminálu.}
-{124}{}{Prohledáváš databázi a jsi fascinován informacemi obsaenımi v archívech. Souèasnı vızkum ve Vault City je naprosto ohromující a jejich lékaøská technologie je vysoce vyspìlá.}
-{125}{}{Opìt prohledáváš databázi, ale nenacházíš nic nového. Schémata implantátù byly nejcennìjšími informacemi v archívu. Je sice moné, e tam ještì nìco je, ale je to nepravdìpodobné.}
-{126}{}{Prohledáváš databázi... opìt... ale nenacházíš nic nového. Moná, kdy to udìláš ještì dvacetkrát, narazíš na nìco nového.}
-{127}{}{To byl jen vtip. U tu vánì nic není. Moná narazíš na nìco ukrytého na dnì archívù, kdy je ještì tak tøicetkrát prohledáš. Haha.}
-{128}{}{Hele... podívej. Jdi si zahrát i zbytek hry. Nemùeš tu bıt navìky.}
-{129}{}{Fajn. Tak hledej dál. Uvidíme, koho to pøestane døív bavit.}
-{130}{}{Stejnì jen marníš èas.}
-{131}{}{Ty máš inteligenci na 4, e?}
-{132}{}{Nech u toho.}
-{133}{}{Proè si radìji nejdeš hrát se zdravotní sestrou?}
-{134}{}{U tu nic není!}
-{135}{}{Opìt prohledáváš archívy a nic nenacházíš.}
-{136}{}{Prohledal jsi tento terminál 53 krát. Nenašel jsi nic zajímavého.}
-{137}{}{Musel jsi to zkusit ještì jednou, e jo? Ach jo.}
-{138}{}{Tak dobøe, podívej. Tady máš jedno tajemství. A dokonèíš hru, tak urèitì prozkoumej hlavní poèítaè ve tøetím patøe. Teï se odhlas z terminálu a jdi si hrát ven.}
-{139}{}{Opìt prohledáváš archívy a nic nenacházíš.}
-{140}{}{Pokraèovat v prohledávání archívù.}
-{141}{}{Opìt prohledat databázi a ujistit se, e u tam nic není.}
-{142}{}{Pokraèovat v prohledávání archívù.}
-{143}{}{Odhlásit se z terminálu.}
-{144}{}{Strávíš témìø hodinu studiem archívù. Kdy se dostaneš hloubìji do databáze, nalezneš øadu starších archívù obsahujících schémata nìjakého druhu "bojovıch implantátù".}
-{145}{}{Prostudovat informace o implantátech.}
-{146}{}{Schémata popisují detaily o implantaci speciálních termálních a protinárazovıch plátù na lidskou kostru, garantující vyšší odolnost jedince proti fyzickému poškození a teplu. Zdá se to bıt docela komplikovanı proces.}
-{147}{}{Poznamenat si informace a pokraèovat v prohledávání databáze.}
-{148}{}{Zapsat informace a odhlásit se z terminálu.}
-{149}{}{Jsi zpìt v hlavním menu. Na obrazovce terminálu jsou vypsány øady archívù a vyhledávacích programù.}
-{150}{}{Hledat jakoukoliv zmínku o Vaultu 13 ve všech archívech.}
-{151}{}{Hledat cokoliv o GECKu ve všech archívech.}
-{152}{}{Prohledat lékaøskou databázi: cokoliv zajímavého.}
-{153}{}{Odhlásit se z terminálu.}
-{200}{}{Dokonèil jsi studium lékaøské databáze Vault City.}
-{201}{}{Tvùj pøítel se tì sice snaí obeznámit s tou barevnou krabicí, která dìlá PÍÍP PÍÍP, ale nemáš tušení, jak ji otevøít, take tì to nakonec pøestane bavit a vzdáš to.}
+{100}{}{Tento terminÃ¡l zobrazuje zelenÃ© sloupce, kterÃ© nepravidelnÄ› stoupajÃ­ a klesajÃ­.}
+{101}{}{VidÃ­Å¡ lÃ©kaÅ™skÃ½ terminÃ¡l Vault City. }
+{102}{}{Tento terminÃ¡l zobrazuje zelenÃ© sloupce, kterÃ© nepravidelnÄ› stoupajÃ­ a klesajÃ­.}
+{103}{}{Dalo by se z nÄ›j zÃ­skat vÃ­c informacÃ­, jen to chce vÄ›deÄtÄ›jÅ¡Ã­ pÅ™Ã­stup.}
+{104}{}{NemÃ¡Å¡ tuÅ¡enÃ­, jak tenhle terminÃ¡l funguje.}
+{105}{}{ZatracenÃ© poÄÃ­taÄe.}
+{106}{}{NemÃ¡Å¡ tuÅ¡enÃ­, jak tenhle terminÃ¡l funguje.}
+{107}{}{BlbÃ½ po-Å¡Ã­-ta-Å¡e.}
+{108}{}{PodaÅ™ilo se ti pÅ™ihlÃ¡sit do lÃ©kaÅ™skÃ© databÃ¡ze Vault City. AÄkoliv nenÃ­ uÅ¾ivatelskÃ© rozhranÃ­ pÅ™Ã­liÅ¡ srozumitelnÃ©, samotnÃ¡ databÃ¡ze se zdÃ¡ bÃ½t rozdÄ›lena do sÃ©riÃ­ archÃ­vÅ¯.}
+{109}{}{Prohledat archÃ­vy: umÃ­stÄ›nÃ­ VaultÅ¯.}
+{110}{}{Hledat jakoukoliv zmÃ­nku o GECKu ve vÅ¡ech archÃ­vech.}
+{111}{}{Prohledat lÃ©kaÅ™skou databÃ¡zi: cokoliv zajÃ­mavÃ©ho.}
+{112}{}{OdhlÃ¡sit se z terminÃ¡lu.}
+{113}{}{NenachÃ¡zÃ­Å¡ v databÃ¡zi Å¾Ã¡dnÃ© informace o Vaultech. VÄ›tÅ¡ina archÃ­vÅ¯ obsahuje lÃ©kaÅ™skÃ© informace tÃ½kajÃ­cÃ­ se anatomie, znÃ¡mÃ½ch nemocÃ­, oÅ¡etÅ™enÃ­, lÃ©kÅ¯ a implantÃ¡tÅ¯.}
+{114}{}{Prohledat archÃ­vy: jakÃ¡koliv zmÃ­nka o GECKu.}
+{115}{}{Prohledat lÃ©kaÅ™skou databÃ¡zi: cokoliv zajÃ­mavÃ©ho.}
+{116}{}{OdhlÃ¡sit se z terminÃ¡lu.}
+{117}{}{NenachÃ¡zÃ­Å¡ v databÃ¡zi Å¾Ã¡dnÃ© informace o GECKu. VÄ›tÅ¡ina archÃ­vÅ¯ obsahuje lÃ©kaÅ™skÃ© informace tÃ½kajÃ­cÃ­ se anatomie, znÃ¡mÃ½ch nemocÃ­, oÅ¡etÅ™enÃ­, lÃ©kÅ¯ a implantÃ¡tÅ¯.}
+{118}{}{Prohledat archÃ­vy: jakÃ¡koliv zmÃ­nka o Vaultech.}
+{119}{}{Prohledat lÃ©kaÅ™skou databÃ¡zi: cokoliv zajÃ­mavÃ©ho.}
+{120}{}{OdhlÃ¡sit se z terminÃ¡lu.}
+{121}{}{SnaÅ¾Ã­Å¡ se prohledat databÃ¡zi, ale lÃ©kaÅ™skÃ¡ terminologie je na tebe pÅ™Ã­liÅ¡ sloÅ¾itÃ¡. MÃ­t trochu vÃ­ce znalostÃ­ medicÃ­ny, moÅ¾nÃ¡ by to nebyl aÅ¾ takovÃ½ problÃ©m.}
+{122}{}{PokraÄovat v prohledÃ¡vÃ¡nÃ­ archÃ­vÅ¯.}
+{123}{}{OdhlÃ¡sit se z terminÃ¡lu.}
+{124}{}{ProhledÃ¡vÃ¡Å¡ databÃ¡zi a jsi fascinovÃ¡n informacemi obsaÅ¾enÃ½mi v archÃ­vech. SouÄasnÃ½ vÃ½zkum ve Vault City je naprosto ohromujÃ­cÃ­ a jejich lÃ©kaÅ™skÃ¡ technologie je vysoce vyspÄ›lÃ¡.}
+{125}{}{OpÄ›t prohledÃ¡vÃ¡Å¡ databÃ¡zi, ale nenachÃ¡zÃ­Å¡ nic novÃ©ho. SchÃ©mata implantÃ¡tÅ¯ byly nejcennÄ›jÅ¡Ã­mi informacemi v archÃ­vu. Je sice moÅ¾nÃ©, Å¾e tam jeÅ¡tÄ› nÄ›co je, ale je to nepravdÄ›podobnÃ©.}
+{126}{}{ProhledÃ¡vÃ¡Å¡ databÃ¡zi... opÄ›t... ale nenachÃ¡zÃ­Å¡ nic novÃ©ho. MoÅ¾nÃ¡, kdyÅ¾ to udÄ›lÃ¡Å¡ jeÅ¡tÄ› dvacetkrÃ¡t, narazÃ­Å¡ na nÄ›co novÃ©ho.}
+{127}{}{To byl jen vtip. UÅ¾ tu vÃ¡Å¾nÄ› nic nenÃ­. MoÅ¾nÃ¡ narazÃ­Å¡ na nÄ›co ukrytÃ©ho na dnÄ› archÃ­vÅ¯, kdyÅ¾ je jeÅ¡tÄ› tak tÅ™icetkrÃ¡t prohledÃ¡Å¡. Haha.}
+{128}{}{Hele... podÃ­vej. Jdi si zahrÃ¡t i zbytek hry. NemÅ¯Å¾eÅ¡ tu bÃ½t navÄ›ky.}
+{129}{}{Fajn. Tak hledej dÃ¡l. UvidÃ­me, koho to pÅ™estane dÅ™Ã­v bavit.}
+{130}{}{StejnÄ› jen marnÃ­Å¡ Äas.}
+{131}{}{Ty mÃ¡Å¡ inteligenci na 4, Å¾e?}
+{132}{}{Nech uÅ¾ toho.}
+{133}{}{ProÄ si radÄ›ji nejdeÅ¡ hrÃ¡t se zdravotnÃ­ sestrou?}
+{134}{}{UÅ¾ tu nic nenÃ­!}
+{135}{}{OpÄ›t prohledÃ¡vÃ¡Å¡ archÃ­vy a nic nenachÃ¡zÃ­Å¡.}
+{136}{}{Prohledal jsi tento terminÃ¡l 53 krÃ¡t. NenaÅ¡el jsi nic zajÃ­mavÃ©ho.}
+{137}{}{Musel jsi to zkusit jeÅ¡tÄ› jednou, Å¾e jo? Ach jo.}
+{138}{}{Tak dobÅ™e, podÃ­vej. Tady mÃ¡Å¡ jedno tajemstvÃ­. AÅ¾ dokonÄÃ­Å¡ hru, tak urÄitÄ› prozkoumej hlavnÃ­ poÄÃ­taÄ ve tÅ™etÃ­m patÅ™e. TeÄ se odhlas z terminÃ¡lu a jdi si hrÃ¡t ven.}
+{139}{}{OpÄ›t prohledÃ¡vÃ¡Å¡ archÃ­vy a nic nenachÃ¡zÃ­Å¡.}
+{140}{}{PokraÄovat v prohledÃ¡vÃ¡nÃ­ archÃ­vÅ¯.}
+{141}{}{OpÄ›t prohledat databÃ¡zi a ujistit se, Å¾e uÅ¾ tam nic nenÃ­.}
+{142}{}{PokraÄovat v prohledÃ¡vÃ¡nÃ­ archÃ­vÅ¯.}
+{143}{}{OdhlÃ¡sit se z terminÃ¡lu.}
+{144}{}{StrÃ¡vÃ­Å¡ tÃ©mÄ›Å™ hodinu studiem archÃ­vÅ¯. KdyÅ¾ se dostaneÅ¡ hloubÄ›ji do databÃ¡ze, nalezneÅ¡ Å™adu starÅ¡Ã­ch archÃ­vÅ¯ obsahujÃ­cÃ­ch schÃ©mata nÄ›jakÃ©ho druhu "bojovÃ½ch implantÃ¡tÅ¯".}
+{145}{}{Prostudovat informace o implantÃ¡tech.}
+{146}{}{SchÃ©mata popisujÃ­ detaily o implantaci speciÃ¡lnÃ­ch termÃ¡lnÃ­ch a protinÃ¡razovÃ½ch plÃ¡tÅ¯ na lidskou kostru, garantujÃ­cÃ­ vyÅ¡Å¡Ã­ odolnost jedince proti fyzickÃ©mu poÅ¡kozenÃ­ a teplu. ZdÃ¡ se to bÃ½t docela komplikovanÃ½ proces.}
+{147}{}{Poznamenat si informace a pokraÄovat v prohledÃ¡vÃ¡nÃ­ databÃ¡ze.}
+{148}{}{Zapsat informace a odhlÃ¡sit se z terminÃ¡lu.}
+{149}{}{Jsi zpÄ›t v hlavnÃ­m menu. Na obrazovce terminÃ¡lu jsou vypsÃ¡ny Å™ady archÃ­vÅ¯ a vyhledÃ¡vacÃ­ch programÅ¯.}
+{150}{}{Hledat jakoukoliv zmÃ­nku o Vaultu 13 ve vÅ¡ech archÃ­vech.}
+{151}{}{Hledat cokoliv o GECKu ve vÅ¡ech archÃ­vech.}
+{152}{}{Prohledat lÃ©kaÅ™skou databÃ¡zi: cokoliv zajÃ­mavÃ©ho.}
+{153}{}{OdhlÃ¡sit se z terminÃ¡lu.}
+{200}{}{DokonÄil jsi studium lÃ©kaÅ™skÃ© databÃ¡ze Vault City.}
+{201}{}{TvÅ¯j pÅ™Ã­tel se tÄ› sice snaÅ¾Ã­ obeznÃ¡mit s tou barevnou krabicÃ­, kterÃ¡ dÄ›lÃ¡ PÃÃP PÃÃP, ale nemÃ¡Å¡ tuÅ¡enÃ­, jak ji otevÅ™Ã­t, takÅ¾e tÄ› to nakonec pÅ™estane bavit a vzdÃ¡Å¡ to.}
 {202}{}{Odbelhat se.}
-{203}{}{*Píp*}
-{204}{}{*Píííp-Píísk*}
-{205}{}{*Tııııt-Pííp*}
-{206}{}{*Pí... Oop*}
-{207}{}{*Píp*}
+{203}{}{*PÃ­p*}
+{204}{}{*PÃ­Ã­Ã­p-PÃ­Ã­sk*}
+{205}{}{*TÃ½Ã½Ã½Ã½t-PÃ­Ã­p*}
+{206}{}{*PÃ­... Oop*}
+{207}{}{*PÃ­p*}
 {208}{}{Pink!}
-{209}{}{Je mi líto, Dave. To nemùu udìlat.}
-{210}{}{Nebezpeèí! Will Robinson!}
-{211}{}{Tøicet sekund k dosaení minimální bezpeèné vzdálenosti.}
-{212}{}{PINK! Øíkám!}
-{213}{}{Prosím, vyjmìte kartu a odeberte hotovost.}
-{214}{}{Divná hra. Jedinı zpùsob, jak vyhrát, je nehrát.}
+{209}{}{Je mi lÃ­to, Dave. To nemÅ¯Å¾u udÄ›lat.}
+{210}{}{NebezpeÄÃ­! Will Robinson!}
+{211}{}{TÅ™icet sekund k dosaÅ¾enÃ­ minimÃ¡lnÃ­ bezpeÄnÃ© vzdÃ¡lenosti.}
+{212}{}{PINK! Å˜Ã­kÃ¡m!}
+{213}{}{ProsÃ­m, vyjmÄ›te kartu a odeberte hotovost.}
+{214}{}{DivnÃ¡ hra. JedinÃ½ zpÅ¯sob, jak vyhrÃ¡t, je nehrÃ¡t.}

@@ -1,3 +1,3 @@
-{100}{}{Vidíš døevìné dveøe.}
-{101}{}{Dveøe jsou zamèené bytelnım zámkem.}
-{102}{}{Dveøe jsou odemknuté.}
+{100}{}{VidÃ­Å¡ dÅ™evÄ›nÃ© dveÅ™e.}
+{101}{}{DveÅ™e jsou zamÄenÃ© bytelnÃ½m zÃ¡mkem.}
+{102}{}{DveÅ™e jsou odemknutÃ©.}

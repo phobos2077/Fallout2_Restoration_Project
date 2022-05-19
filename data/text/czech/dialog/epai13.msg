@@ -1,48 +1,48 @@
-{100}{}{Øídící poèítaè hibernaèní komory. Vyberte akci.}
-{101}{}{Historie subjektù.}
-{102}{}{Rozmrazit testovací subjekt.}
+{100}{}{Å˜Ã­dÃ­cÃ­ poÄÃ­taÄ hibernaÄnÃ­ komory. Vyberte akci.}
+{101}{}{Historie subjektÅ¯.}
+{102}{}{Rozmrazit testovacÃ­ subjekt.}
 {103}{}{[KONEC]}
-{104}{}{Hibernaèní komory. Pøed válkou zde byli uloeni tøi jedinci, kadı kvùli specifickım, utajovanım dùvodùm. Subjekty zùstaly zmraeny a izolovány od okolí. Pro kadı subjekt jsou dostupné záznamy.}
-{105}{}{Zpìt do hlavního menu.}
-{106}{}{VAROVÁNÍ: Dlouhodobı pobyt ve velmi chladném prostøedí zmìní chemické procesy v tìle. Pøed opuštìním komory je nutno aplikovat chemikálie do lidského tìla, jinak mùe subjekt trpìt ERS (Syndromem odmítání prostøedí). K zajištìní bezpeènosti subjektu je vysoce doporuèeno umístit kanystr s ERSI (Inhibitorem syndromu odmítání prostøedí) do dávkovaèe ještì pøed otevøením.}
-{107}{}{No skvìlı. Právì se probudila hromada kostí.}
-{108}{}{Ne, zpìt do hlavního menu.}
-{109}{}{Rozmrazuji testovací subjekt.}
-{110}{}{Rozmrazuji testovací subjekt.}
-{111}{}{Rozmrazuji testovací subjekt.}
-{112}{}{Dìkujeme, e jste pouili øídící poèítaè hibernaèní komory.}
-{113}{}{Vidíš velkı poèítaè.}
-{114}{}{Vidíš øídící poèítaè hibernaèní komory.}
-{115}{}{Vidíš poèítaè, kterı se pouívá k ovládání všeho kolem hibernaèních nádrí.}
-{116}{}{Umístit kanystr s ERSI do dávkovaèe.}
-{117}{}{Pokraèovat.}
-{118}{}{Inhibitory syndromu odmítání prostøedí byly úspìšnì aplikovány na jedince. Srdeèní tep jedince se zdá bıt normální. Prosím pokraèujte do kryogenické komory pro vyzvednutí subjektu.}
-{119}{}{VAROVÁNÍ: Na jedince nebyly aplikovány ádné inhibitory syndromu odmítání prostøedí. Stav jedince je neznámı. Prosím pokraèujte do kryogenické komory pro vyzvednutí subjektu.}
-{120}{}{Hmm, moná by nebylo špatné se podívat po nìjakém tom kanystru s ERSI. Nìkde tady ty chemikálie musí bıt...}
-{200}{}{Èíst záznamy.}
-{210}{}{Vyberte prosím subjekt.}
+{104}{}{HibernaÄnÃ­ komory. PÅ™ed vÃ¡lkou zde byli uloÅ¾eni tÅ™i jedinci, kaÅ¾dÃ½ kvÅ¯li specifickÃ½m, utajovanÃ½m dÅ¯vodÅ¯m. Subjekty zÅ¯staly zmraÅ¾eny a izolovÃ¡ny od okolÃ­. Pro kaÅ¾dÃ½ subjekt jsou dostupnÃ© zÃ¡znamy.}
+{105}{}{ZpÄ›t do hlavnÃ­ho menu.}
+{106}{}{VAROVÃNÃ: DlouhodobÃ½ pobyt ve velmi chladnÃ©m prostÅ™edÃ­ zmÄ›nÃ­ chemickÃ© procesy v tÄ›le. PÅ™ed opuÅ¡tÄ›nÃ­m komory je nutno aplikovat chemikÃ¡lie do lidskÃ©ho tÄ›la, jinak mÅ¯Å¾e subjekt trpÄ›t ERS (Syndromem odmÃ­tÃ¡nÃ­ prostÅ™edÃ­). K zajiÅ¡tÄ›nÃ­ bezpeÄnosti subjektu je vysoce doporuÄeno umÃ­stit kanystr s ERSI (Inhibitorem syndromu odmÃ­tÃ¡nÃ­ prostÅ™edÃ­) do dÃ¡vkovaÄe jeÅ¡tÄ› pÅ™ed otevÅ™enÃ­m.}
+{107}{}{No skvÄ›lÃ½. PrÃ¡vÄ› se probudila hromada kostÃ­.}
+{108}{}{Ne, zpÄ›t do hlavnÃ­ho menu.}
+{109}{}{Rozmrazuji testovacÃ­ subjekt.}
+{110}{}{Rozmrazuji testovacÃ­ subjekt.}
+{111}{}{Rozmrazuji testovacÃ­ subjekt.}
+{112}{}{DÄ›kujeme, Å¾e jste pouÅ¾ili Å™Ã­dÃ­cÃ­ poÄÃ­taÄ hibernaÄnÃ­ komory.}
+{113}{}{VidÃ­Å¡ velkÃ½ poÄÃ­taÄ.}
+{114}{}{VidÃ­Å¡ Å™Ã­dÃ­cÃ­ poÄÃ­taÄ hibernaÄnÃ­ komory.}
+{115}{}{VidÃ­Å¡ poÄÃ­taÄ, kterÃ½ se pouÅ¾Ã­vÃ¡ k ovlÃ¡dÃ¡nÃ­ vÅ¡eho kolem hibernaÄnÃ­ch nÃ¡drÅ¾Ã­.}
+{116}{}{UmÃ­stit kanystr s ERSI do dÃ¡vkovaÄe.}
+{117}{}{PokraÄovat.}
+{118}{}{Inhibitory syndromu odmÃ­tÃ¡nÃ­ prostÅ™edÃ­ byly ÃºspÄ›Å¡nÄ› aplikovÃ¡ny na jedince. SrdeÄnÃ­ tep jedince se zdÃ¡ bÃ½t normÃ¡lnÃ­. ProsÃ­m pokraÄujte do kryogenickÃ© komory pro vyzvednutÃ­ subjektu.}
+{119}{}{VAROVÃNÃ: Na jedince nebyly aplikovÃ¡ny Å¾Ã¡dnÃ© inhibitory syndromu odmÃ­tÃ¡nÃ­ prostÅ™edÃ­. Stav jedince je neznÃ¡mÃ½. ProsÃ­m pokraÄujte do kryogenickÃ© komory pro vyzvednutÃ­ subjektu.}
+{120}{}{Hmm, moÅ¾nÃ¡ by nebylo Å¡patnÃ© se podÃ­vat po nÄ›jakÃ©m tom kanystru s ERSI. NÄ›kde tady ty chemikÃ¡lie musÃ­ bÃ½t...}
+{200}{}{ÄŒÃ­st zÃ¡znamy.}
+{210}{}{Vyberte prosÃ­m subjekt.}
 {211}{}{Subjekt A.}
 {212}{}{Subjekt B.}
 {213}{}{Subjekt C.}
-{214}{}{Zpìt.}
-{220}{}{Záznam #87983: Tak k tomu nakonec došlo. Vypustili na nás atomovky a my na nì vypustili ty svoje. Brass nechce sdìlit podrobnosti, ale touhle dobou u musí bıt na povrchu Soudnı Den. Rádiové spojení bylo pøerušeno na neurèitou dobu. Ještì, e jsem si na toto místo zvykl. Ani nedoufám, e ještì nìkdy spatøím povrch.}
-{221}{}{[Více]}
-{222}{}{Pøivedli enu ke zmraení. Neøekli proè, jen to, e se jedná o pøísnì tajnou záleitost. Byla opravdu velmi pohledná. Taková drobná, s èínskımi koøeny, a na jejich oèích bylo nìco zvláštního. Oddìlala dva agenty tajné sluby, kdy se dozvìdìla, co s ní chceme udìlat. Pøekvapila je a rozpárala je jedním z Delnayovıch skalpelù. Jeiši Kriste, na nìco takového by se dokázal dívat jen zvrácenı èlovìk. Tøetí agent ji u pøemohl, ale i kdyby zabila úplnì všechny, stejnì by tu dole proila zbytek svého ivota. Teï je v bezvìdomí a pøipravuje se pro ni komora. Je hned vedle toho psychopata Patricka. Taková škoda. Chtìl sem ji poznat blíe. -Dr. David Kimble, 23.10.2077}
-{230}{}{Záznam #81977: Dexter "Dex" Patrick je velmi zajímavı jedinec. Je to narcistickı, šílenı vrah, kterı nesnáší eny a je znám obèasnım vyíváním se v nekrofilii a kanibalismu. Je a extrémnì bezcitnı a nemá ádné slitování se svımi obìtmi, mezi které patøí nevinné dìti, staøí lidé a postiení. Jeho nejèastìjšímí obìtmi byly pøitalivé, mladé eny, které nejdøíve svedl k souloi a poté je brutálnì zavradil.}
-{231}{}{[Více]}
-{232}{}{I pøes své anti-sociální chování je a pozoruhodnì pøátelskı a dokonce i galantní. Ve skuteènosti pøitahoval nìkolik zamìstnankyò, i kdy vìdìly o jeho mnoha spáchanıch zvìrstvech. Dex má v souèasnosti na svìdomí 68 potvrzenıch obìtí, i kdy se chvástal, e skuteèné èíslo je hodnì pøes sto. I pøesto, e se Dex ukázal bıt notorickım lháøem, nejsem stále schopen zpochybnit pravdivost tohoto tvrzení.}
-{233}{}{[Více]}
-{234}{}{Jediné Dexovy známé emoce jsou k rock 'n rollovému idolu poloviny dvacátého století, kterého povauje za svùj vzor a moná i za svého otce. Také se a nezdravì váe na oddìlené lidské ucho, které dle naší identifikace patøí Vicky Safronové, Dexovì støedoškolské lásky a jedné z jeho prvních obìtí. Tvrdí, e si to ucho schovává v kapse, aby Vicky slyšela køik všech jeho obìtí.}
-{235}{}{[Více]}
-{236}{}{Rozhodl jsem se, e prozatím nechám Dexe zmraeného, jeliko vláda pøevedla peníze z našeho projektu na váleènı program a mùj tım byl pøeøazen na jiné pozice. Nech je poznamenáno, e toto povauji za krok vedle, jeliko naše studie podstaty lidské zloby pokraèují rychlım tempem a já vìøím, e jsme blízko velikému prùlomu, kterı by byl pro naši vládu mnohem cennìjší ne vıroba "plechovıch oblekù". Ale zpìt k tématu.}
-{237}{}{[Více]}
-{238}{}{Dex tu zùstane zmraenı, dokud ti nahoøe nepøijdou k rozumu a neobnoví tento nesmírnì dùleitı projekt. Jen doufám, e budu ještì naivu, a ten den nastane. -Dr. Dustin C. Delnay, 13.04.2075}
-{240}{}{Záznam #80052: Serant Christopher "Kocour" Jules byl pøevelen na vojenskou ostrahu komplexu EPA dne 17.02.2074. Pøedtím byl souèástí vzdušnıch sil 205-tého prùzkumného oddílu. Serant má vynikající bojové vısledky a je jedním z nejlepších specialistù v oddílu na energetické zbranì a boj beze zbranì. Nicménì jsou tyto úspìchy zastøeny jeho stejnì dlouhım seznamem obvinìní z drobnıch krádeí, opakovanıch pøípadù nenošení uniformy a chováním s extrémní arogancí vùèi nadøízenım dùstojníkùm.}
-{241}{}{[Více]}
-{242}{}{Sr. Jules byl rekrutován jako pokusnı subjekt pro projekt zlepšení lidskıch reflexù dne 5.10.2075, vımìnou za vymazání nìkterıch záznamù z jeho sloky. U od poèátku však nastaly komplikace a Sr. Jules dostal sedativa, aby neohrozil bezpeènost okolí.}
-{243}{}{[Více]}
-{244}{}{Ubìhlo nìkolik dní a Sr. Jules se zdá bıt zdravı, ale spolu s pùvodními cíli projektu na zlepšení reflexù a zvıšenıch schopností smyslù, se u nìj vyvinuly prodlouené špièáky a jisté vıstøední vlastnosti. Zaznamenal jsem nìkolik zpráv od velitele základny poadující další financování, ale bohuel tu existují jedinci, kteøí si nepøejí pokraèovat v mém projektu. Je to docela škoda, jeliko vzorky tkání a psychologické testy Sr. Julese ukazují pouze lehké zohyzdìní a tendence ke sníenému rozsahu pozornosti. Jinak je naprosto schopnı vıkonu sluby a díky vısledkùm pokusu je ve skuteènosti ještì zpùsobilejší ne pøedtím. Sr. Jules zùstane v hibernaci, dokud nedostaneme VÍCE financí na tento projekt. -Dr. R.D. Crichton, 04.11.2075}
+{214}{}{ZpÄ›t.}
+{220}{}{ZÃ¡znam #87983: Tak k tomu nakonec doÅ¡lo. Vypustili na nÃ¡s atomovky a my na nÄ› vypustili ty svoje. Brass nechce sdÄ›lit podrobnosti, ale touhle dobou uÅ¾ musÃ­ bÃ½t na povrchu SoudnÃ½ Den. RÃ¡diovÃ© spojenÃ­ bylo pÅ™eruÅ¡eno na neurÄitou dobu. JeÅ¡tÄ›, Å¾e jsem si na toto mÃ­sto zvykl. Ani nedoufÃ¡m, Å¾e jeÅ¡tÄ› nÄ›kdy spatÅ™Ã­m povrch.}
+{221}{}{[VÃ­ce]}
+{222}{}{PÅ™ivedli Å¾enu ke zmraÅ¾enÃ­. NeÅ™ekli proÄ, jen to, Å¾e se jednÃ¡ o pÅ™Ã­snÄ› tajnou zÃ¡leÅ¾itost. Byla opravdu velmi pohlednÃ¡. TakovÃ¡ drobnÃ¡, s ÄÃ­nskÃ½mi koÅ™eny, a na jejich oÄÃ­ch bylo nÄ›co zvlÃ¡Å¡tnÃ­ho. OddÄ›lala dva agenty tajnÃ© sluÅ¾by, kdyÅ¾ se dozvÄ›dÄ›la, co s nÃ­ chceme udÄ›lat. PÅ™ekvapila je a rozpÃ¡rala je jednÃ­m z DelnayovÃ½ch skalpelÅ¯. JeÅ¾iÅ¡i Kriste, na nÄ›co takovÃ©ho by se dokÃ¡zal dÃ­vat jen zvrÃ¡cenÃ½ ÄlovÄ›k. TÅ™etÃ­ agent ji uÅ¾ pÅ™emohl, ale i kdyby zabila ÃºplnÄ› vÅ¡echny, stejnÄ› by tu dole proÅ¾ila zbytek svÃ©ho Å¾ivota. TeÄ je v bezvÄ›domÃ­ a pÅ™ipravuje se pro ni komora. Je hned vedle toho psychopata Patricka. TakovÃ¡ Å¡koda. ChtÄ›l sem ji poznat blÃ­Å¾e. -Dr. David Kimble, 23.10.2077}
+{230}{}{ZÃ¡znam #81977: Dexter "Dex" Patrick je velmi zajÃ­mavÃ½ jedinec. Je to narcistickÃ½, Å¡Ã­lenÃ½ vrah, kterÃ½ nesnÃ¡Å¡Ã­ Å¾eny a je znÃ¡m obÄasnÃ½m vyÅ¾Ã­vÃ¡nÃ­m se v nekrofilii a kanibalismu. Je aÅ¾ extrÃ©mnÄ› bezcitnÃ½ a nemÃ¡ Å¾Ã¡dnÃ© slitovÃ¡nÃ­ se svÃ½mi obÄ›tmi, mezi kterÃ© patÅ™Ã­ nevinnÃ© dÄ›ti, staÅ™Ã­ lidÃ© a postiÅ¾enÃ­. Jeho nejÄastÄ›jÅ¡Ã­mÃ­ obÄ›tmi byly pÅ™itaÅ¾livÃ©, mladÃ© Å¾eny, kterÃ© nejdÅ™Ã­ve svedl k souloÅ¾i a potÃ© je brutÃ¡lnÄ› zavraÅ¾dil.}
+{231}{}{[VÃ­ce]}
+{232}{}{I pÅ™es svÃ© anti-sociÃ¡lnÃ­ chovÃ¡nÃ­ je aÅ¾ pozoruhodnÄ› pÅ™Ã¡telskÃ½ a dokonce i galantnÃ­. Ve skuteÄnosti pÅ™itahoval nÄ›kolik zamÄ›stnankyÅˆ, i kdyÅ¾ vÄ›dÄ›ly o jeho mnoha spÃ¡chanÃ½ch zvÄ›rstvech. Dex mÃ¡ v souÄasnosti na svÄ›domÃ­ 68 potvrzenÃ½ch obÄ›tÃ­, i kdyÅ¾ se chvÃ¡stal, Å¾e skuteÄnÃ© ÄÃ­slo je hodnÄ› pÅ™es sto. I pÅ™esto, Å¾e se Dex ukÃ¡zal bÃ½t notorickÃ½m lhÃ¡Å™em, nejsem stÃ¡le schopen zpochybnit pravdivost tohoto tvrzenÃ­.}
+{233}{}{[VÃ­ce]}
+{234}{}{JedinÃ© Dexovy znÃ¡mÃ© emoce jsou k rock 'n rollovÃ©mu idolu poloviny dvacÃ¡tÃ©ho stoletÃ­, kterÃ©ho povaÅ¾uje za svÅ¯j vzor a moÅ¾nÃ¡ i za svÃ©ho otce. TakÃ© se aÅ¾ nezdravÄ› vÃ¡Å¾e na oddÄ›lenÃ© lidskÃ© ucho, kterÃ© dle naÅ¡Ã­ identifikace patÅ™Ã­ Vicky SafronovÃ©, DexovÄ› stÅ™edoÅ¡kolskÃ© lÃ¡sky a jednÃ© z jeho prvnÃ­ch obÄ›tÃ­. TvrdÃ­, Å¾e si to ucho schovÃ¡vÃ¡ v kapse, aby Vicky slyÅ¡ela kÅ™ik vÅ¡ech jeho obÄ›tÃ­.}
+{235}{}{[VÃ­ce]}
+{236}{}{Rozhodl jsem se, Å¾e prozatÃ­m nechÃ¡m Dexe zmraÅ¾enÃ©ho, jelikoÅ¾ vlÃ¡da pÅ™evedla penÃ­ze z naÅ¡eho projektu na vÃ¡leÄnÃ½ program a mÅ¯j tÃ½m byl pÅ™eÅ™azen na jinÃ© pozice. NechÅ¥ je poznamenÃ¡no, Å¾e toto povaÅ¾uji za krok vedle, jelikoÅ¾ naÅ¡e studie podstaty lidskÃ© zloby pokraÄujÃ­ rychlÃ½m tempem a jÃ¡ vÄ›Å™Ã­m, Å¾e jsme blÃ­zko velikÃ©mu prÅ¯lomu, kterÃ½ by byl pro naÅ¡i vlÃ¡du mnohem cennÄ›jÅ¡Ã­ neÅ¾ vÃ½roba "plechovÃ½ch oblekÅ¯". Ale zpÄ›t k tÃ©matu.}
+{237}{}{[VÃ­ce]}
+{238}{}{Dex tu zÅ¯stane zmraÅ¾enÃ½, dokud ti nahoÅ™e nepÅ™ijdou k rozumu a neobnovÃ­ tento nesmÃ­rnÄ› dÅ¯leÅ¾itÃ½ projekt. Jen doufÃ¡m, Å¾e budu jeÅ¡tÄ› naÅ¾ivu, aÅ¾ ten den nastane. -Dr. Dustin C. Delnay, 13.04.2075}
+{240}{}{ZÃ¡znam #80052: SerÅ¾ant Christopher "Kocour" Jules byl pÅ™evelen na vojenskou ostrahu komplexu EPA dne 17.02.2074. PÅ™edtÃ­m byl souÄÃ¡stÃ­ vzduÅ¡nÃ½ch sil 205-tÃ©ho prÅ¯zkumnÃ©ho oddÃ­lu. SerÅ¾ant mÃ¡ vynikajÃ­cÃ­ bojovÃ© vÃ½sledky a je jednÃ­m z nejlepÅ¡Ã­ch specialistÅ¯ v oddÃ­lu na energetickÃ© zbranÄ› a boj beze zbranÄ›. NicmÃ©nÄ› jsou tyto ÃºspÄ›chy zastÅ™eny jeho stejnÄ› dlouhÃ½m seznamem obvinÄ›nÃ­ z drobnÃ½ch krÃ¡deÅ¾Ã­, opakovanÃ½ch pÅ™Ã­padÅ¯ nenoÅ¡enÃ­ uniformy a chovÃ¡nÃ­m s extrÃ©mnÃ­ arogancÃ­ vÅ¯Äi nadÅ™Ã­zenÃ½m dÅ¯stojnÃ­kÅ¯m.}
+{241}{}{[VÃ­ce]}
+{242}{}{SrÅ¾. Jules byl rekrutovÃ¡n jako pokusnÃ½ subjekt pro projekt zlepÅ¡enÃ­ lidskÃ½ch reflexÅ¯ dne 5.10.2075, vÃ½mÄ›nou za vymazÃ¡nÃ­ nÄ›kterÃ½ch zÃ¡znamÅ¯ z jeho sloÅ¾ky. UÅ¾ od poÄÃ¡tku vÅ¡ak nastaly komplikace a SrÅ¾. Jules dostal sedativa, aby neohrozil bezpeÄnost okolÃ­.}
+{243}{}{[VÃ­ce]}
+{244}{}{UbÄ›hlo nÄ›kolik dnÃ­ a SrÅ¾. Jules se zdÃ¡ bÃ½t zdravÃ½, ale spolu s pÅ¯vodnÃ­mi cÃ­li projektu na zlepÅ¡enÃ­ reflexÅ¯ a zvÃ½Å¡enÃ½ch schopnostÃ­ smyslÅ¯, se u nÄ›j vyvinuly prodlouÅ¾enÃ© Å¡piÄÃ¡ky a jistÃ© vÃ½stÅ™ednÃ­ vlastnosti. Zaznamenal jsem nÄ›kolik zprÃ¡v od velitele zÃ¡kladny poÅ¾adujÃ­cÃ­ dalÅ¡Ã­ financovÃ¡nÃ­, ale bohuÅ¾el tu existujÃ­ jedinci, kteÅ™Ã­ si nepÅ™ejÃ­ pokraÄovat v mÃ©m projektu. Je to docela Å¡koda, jelikoÅ¾ vzorky tkÃ¡nÃ­ a psychologickÃ© testy SrÅ¾. Julese ukazujÃ­ pouze lehkÃ© zohyzdÄ›nÃ­ a tendence ke snÃ­Å¾enÃ©mu rozsahu pozornosti. Jinak je naprosto schopnÃ½ vÃ½konu sluÅ¾by a dÃ­ky vÃ½sledkÅ¯m pokusu je ve skuteÄnosti jeÅ¡tÄ› zpÅ¯sobilejÅ¡Ã­ neÅ¾ pÅ™edtÃ­m. SrÅ¾. Jules zÅ¯stane v hibernaci, dokud nedostaneme VÃCE financÃ­ na tento projekt. -Dr. R.D. Crichton, 04.11.2075}
 {300}{}{Vybrat subjekt:}
-{301}{}{Serant Christopher "Kocour" Jules}
+{301}{}{SerÅ¾ant Christopher "Kocour" Jules}
 {302}{}{Dexter "Dex" Patrick}
 {303}{}{Kitsune}

@@ -1,96 +1,96 @@
-{100}{}{Vidíš boxera.}
-{150}{}{Vidíš mohutného svalnatého èernocha. Vypadá to, e právì dokonèil svùj trénink.}
-{151}{}{Vidíš obrovského èernocha. A tím myslím opravdu OBROVSKÉHO.}
-{152}{}{Vypadá to, e právì dokonèil svùj trénink.}
-{153}{}{Málem sis ho spletl s malou horou.}
-{154}{}{Je obrovskı. Straaaaaaašnì obrovskı.}
-{155}{}{Bezzubì se na tebe šklebí.}
-{156}{}{Vypadá to, e právì dokonèil svùj trénink.}
-{157}{}{Málem sis ho spletl s malou horou.}
-{158}{}{Je obrovskı. Straaaaaaašnì obrovskı.}
-{159}{}{Bezzubì se na tebe šklebí.}
-{160}{}{Mlátí do neviditelného protivníka a vyhrouje mu.}
-{161}{}{Vypadá trochu zmatenì, jako kdyby zapomnìl, kdo je. Poté se usmìje a poškrábe se na hlavì.}
-{162}{}{Dìlá døepy.}
-{163}{}{Vidíš velkého bílého mue. Jeho ruce vypadají jako kmeny stromu.}
-{164}{}{Vidíš mohutného svalnatého bìlocha. Protahuje se a bruèí u toho.}
-{165}{}{Vidíš mohutného svalnatého bìlocha. Dívá se na tvoji hlavu jako by to byl boxovací pytel.}
-{166}{}{Mlátí do neviditelného protivníka a vyhrouje mu.}
-{167}{}{Vypadá trochu zmatenì, jako kdyby zapomnìl, kdo je. Poté se usmìje a poškrábe se na hlavì.}
-{168}{}{Dívá se na tvoji hlavu jako by to byl boxovací pytel.}
+{100}{}{VidÃ­Å¡ boxera.}
+{150}{}{VidÃ­Å¡ mohutnÃ©ho svalnatÃ©ho Äernocha. VypadÃ¡ to, Å¾e prÃ¡vÄ› dokonÄil svÅ¯j trÃ©nink.}
+{151}{}{VidÃ­Å¡ obrovskÃ©ho Äernocha. A tÃ­m myslÃ­m opravdu OBROVSKÃ‰HO.}
+{152}{}{VypadÃ¡ to, Å¾e prÃ¡vÄ› dokonÄil svÅ¯j trÃ©nink.}
+{153}{}{MÃ¡lem sis ho spletl s malou horou.}
+{154}{}{Je obrovskÃ½. StraaaaaaaÅ¡nÄ› obrovskÃ½.}
+{155}{}{BezzubÄ› se na tebe Å¡klebÃ­.}
+{156}{}{VypadÃ¡ to, Å¾e prÃ¡vÄ› dokonÄil svÅ¯j trÃ©nink.}
+{157}{}{MÃ¡lem sis ho spletl s malou horou.}
+{158}{}{Je obrovskÃ½. StraaaaaaaÅ¡nÄ› obrovskÃ½.}
+{159}{}{BezzubÄ› se na tebe Å¡klebÃ­.}
+{160}{}{MlÃ¡tÃ­ do neviditelnÃ©ho protivnÃ­ka a vyhroÅ¾uje mu.}
+{161}{}{VypadÃ¡ trochu zmatenÄ›, jako kdyby zapomnÄ›l, kdo je. PotÃ© se usmÄ›je a poÅ¡krÃ¡be se na hlavÄ›.}
+{162}{}{DÄ›lÃ¡ dÅ™epy.}
+{163}{}{VidÃ­Å¡ velkÃ©ho bÃ­lÃ©ho muÅ¾e. Jeho ruce vypadajÃ­ jako kmeny stromu.}
+{164}{}{VidÃ­Å¡ mohutnÃ©ho svalnatÃ©ho bÄ›locha. Protahuje se a bruÄÃ­ u toho.}
+{165}{}{VidÃ­Å¡ mohutnÃ©ho svalnatÃ©ho bÄ›locha. DÃ­vÃ¡ se na tvoji hlavu jako by to byl boxovacÃ­ pytel.}
+{166}{}{MlÃ¡tÃ­ do neviditelnÃ©ho protivnÃ­ka a vyhroÅ¾uje mu.}
+{167}{}{VypadÃ¡ trochu zmatenÄ›, jako kdyby zapomnÄ›l, kdo je. PotÃ© se usmÄ›je a poÅ¡krÃ¡be se na hlavÄ›.}
+{168}{}{DÃ­vÃ¡ se na tvoji hlavu jako by to byl boxovacÃ­ pytel.}
 {200}{}{Hnffff}
 {201}{}{Hrggg}
 {202}{}{::Protahuje se::}
-{203}{}{::Boxer se na tebe podívá s vystrašenıma oèima::}
+{203}{}{::Boxer se na tebe podÃ­vÃ¡ s vystraÅ¡enÃ½ma oÄima::}
 {204}{}{AAAAAnnno, pane?}
-{205}{}{Já moct pùjèit nìjakı fuby?}
-{206}{}{Nepotøebuješ pomoct?}
+{205}{}{JÃ¡ moct pÅ¯jÄit nÄ›jakÃ½ fuby?}
+{206}{}{NepotÅ™ebujeÅ¡ pomoct?}
 {207}{}{Aha.}
-{208}{}{::Hloupì pøikıvne na všechno co øekneš::}
-{209}{}{Ty velká èlovìk. Já malı.}
-{210}{}{Ty tvrïák. Já slaboch.}
-{211}{}{Já mít hlad.}
-{212}{}{Já nerad mluvit.}
-{213}{}{Ty hezká vùùùùùùnì.}
-{214}{}{Ty vonìt jako máma.}
-{215}{}{Dost mluvit. Èas na postel.}
-{216}{}{::Bezzubì se usmívá::}
-{217}{}{::Škrábe se::}
+{208}{}{::HloupÄ› pÅ™ikÃ½vne na vÅ¡echno co Å™ekneÅ¡::}
+{209}{}{Ty velkÃ¡ ÄlovÄ›k. JÃ¡ malÃ½.}
+{210}{}{Ty tvrÄÃ¡k. JÃ¡ slaboch.}
+{211}{}{JÃ¡ mÃ­t hlad.}
+{212}{}{JÃ¡ nerad mluvit.}
+{213}{}{Ty hezkÃ¡ vÅ¯Å¯Å¯Å¯Å¯Å¯nÄ›.}
+{214}{}{Ty vonÄ›t jako mÃ¡ma.}
+{215}{}{Dost mluvit. ÄŒas na postel.}
+{216}{}{::BezzubÄ› se usmÃ­vÃ¡::}
+{217}{}{::Å krÃ¡be se::}
 {218}{}{::Protahuje se::}
 {219}{}{Grrr}
-{220}{}{Ty bojovat s já?}
-{221}{}{Zuøit zuøit zuøit.}
-{222}{}{Soustøedit se, soustøedit se.}
-{223}{}{Dát kritikál.}
-{224}{}{Nevnímat bolest.}
-{225}{}{Já potøebovat pomoc.}
-{226}{}{Ty malá èlovìk.}
-{227}{}{Já nerad mluvit.}
+{220}{}{Ty bojovat s jÃ¡?}
+{221}{}{ZuÅ™it zuÅ™it zuÅ™it.}
+{222}{}{SoustÅ™edit se, soustÅ™edit se.}
+{223}{}{DÃ¡t kritikÃ¡l.}
+{224}{}{NevnÃ­mat bolest.}
+{225}{}{JÃ¡ potÅ™ebovat pomoc.}
+{226}{}{Ty malÃ¡ ÄlovÄ›k.}
+{227}{}{JÃ¡ nerad mluvit.}
 {300}{}{Ernhhh}
 {301}{}{Ufff}
 {302}{}{Hrghhh}
 {303}{}{Nfff}
 {304}{}{Hrggg}
 {305}{}{Ooou}
-{310}{}{Moc pomalı!}
-{311}{}{Do oblièeje ne!}
-{312}{}{Boxuješ jako moje babièka!}
-{313}{}{ádnı rány pod pás!}
-{314}{}{To nebylo špatnı.}
-{315}{}{To je všechno, co umíš?}
-{320}{}{A zùstaò leet!}
-{321}{}{Dostal jsi poøádnej knockout!}
-{322}{}{U máš dost?}
-{323}{}{Kdy zemøe, tak zemøe.}
-{330}{}{Mohl to bejt pìknej zápas!}
-{331}{}{Jak mùe takovej... geggghhh...}
+{310}{}{Moc pomalÃ½!}
+{311}{}{Do obliÄeje ne!}
+{312}{}{BoxujeÅ¡ jako moje babiÄka!}
+{313}{}{Å½Ã¡dnÃ½ rÃ¡ny pod pÃ¡s!}
+{314}{}{To nebylo Å¡patnÃ½.}
+{315}{}{To je vÅ¡echno, co umÃ­Å¡?}
+{320}{}{A zÅ¯staÅˆ leÅ¾et!}
+{321}{}{Dostal jsi poÅ™Ã¡dnej knockout!}
+{322}{}{UÅ¾ mÃ¡Å¡ dost?}
+{323}{}{KdyÅ¾ zemÅ™e, tak zemÅ™e.}
+{330}{}{Mohl to bejt pÄ›knej zÃ¡pas!}
+{331}{}{Jak mÅ¯Å¾e takovej... geggghhh...}
 {332}{}{*Huuuuurrrrllllll*}
-{333}{}{Óó, vidím hvìzdièky...}
-{334}{}{Myslím, e si tady ještì chvilku poleím.}
-{335}{}{To nebolí, to nebolí, to nebolí...}
-{340}{}{Tu máš!}
-{341}{}{Chceš nakládaèku?!}
-{342}{}{Dìvko!}
-{343}{}{A teï jseš mùj.}
-{344}{}{Zelenı barety si dávám k snídani.}
+{333}{}{Ã“Ã³, vidÃ­m hvÄ›zdiÄky...}
+{334}{}{MyslÃ­m, Å¾e si tady jeÅ¡tÄ› chvilku poleÅ¾Ã­m.}
+{335}{}{To nebolÃ­, to nebolÃ­, to nebolÃ­...}
+{340}{}{Tu mÃ¡Å¡!}
+{341}{}{ChceÅ¡ naklÃ¡daÄku?!}
+{342}{}{DÄ›vko!}
+{343}{}{A teÄ jseÅ¡ mÅ¯j.}
+{344}{}{ZelenÃ½ barety si dÃ¡vÃ¡m k snÃ­dani.}
 {345}{}{Huaaaaaaa.}
-{346}{}{A teï ZEMØEŠ.}
-{347}{}{PÌST... SUPER... NUKLEÁRNÍ... TORNÁDO...}
+{346}{}{A teÄ ZEMÅ˜EÅ .}
+{347}{}{PÄšST... SUPER... NUKLEÃRNÃ... TORNÃDO...}
 {350}{}{Adriano! Adriano!}
-{351}{}{Pùjdeš k zemi!}
-{352}{}{Udìlám si z tebe dìvku...}
-{353}{}{Dostanu tì.}
-{354}{}{Bojuješ jako bezdomovec!}
-{355}{}{Nemáš ádnou odvahu!}
-{356}{}{Jseš ubohej! Ubohej!}
-{357}{}{Zmlátím tì jako prašivıho psa...}
-{360}{}{ádná odveta nebude!}
-{361}{}{Dáváš rány jako moucha...}
-{362}{}{Dr ruce pìknì nahoru...}
-{363}{}{Buï ostraitej!}
-{364}{}{Pøekonej tu bolest!}
-{365}{}{Musíš dát kritikáè!}
-{366}{}{Øízni mì do oka, Micku.}
-{367}{}{Pamatuj, rychlı rány!}
-{368}{}{Vidím ho tøikrát!}
-{400}{}{Hroznì se potí.}
+{351}{}{PÅ¯jdeÅ¡ k zemi!}
+{352}{}{UdÄ›lÃ¡m si z tebe dÄ›vku...}
+{353}{}{Dostanu tÄ›.}
+{354}{}{BojujeÅ¡ jako bezdomovec!}
+{355}{}{NemÃ¡Å¡ Å¾Ã¡dnou odvahu!}
+{356}{}{JseÅ¡ ubohej! Ubohej!}
+{357}{}{ZmlÃ¡tÃ­m tÄ› jako praÅ¡ivÃ½ho psa...}
+{360}{}{Å½Ã¡dnÃ¡ odveta nebude!}
+{361}{}{DÃ¡vÃ¡Å¡ rÃ¡ny jako moucha...}
+{362}{}{DrÅ¾ ruce pÄ›knÄ› nahoru...}
+{363}{}{BuÄ ostraÅ¾itej!}
+{364}{}{PÅ™ekonej tu bolest!}
+{365}{}{MusÃ­Å¡ dÃ¡t kritikÃ¡Ä!}
+{366}{}{Å˜Ã­zni mÄ› do oka, Micku.}
+{367}{}{Pamatuj, rychlÃ½ rÃ¡ny!}
+{368}{}{VidÃ­m ho tÅ™ikrÃ¡t!}
+{400}{}{HroznÄ› se potÃ­.}

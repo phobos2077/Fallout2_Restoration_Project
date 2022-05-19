@@ -1,1 +1,1 @@
-{100}{}{Na podstavci je cedule, na které stojí - "Neznámému a Vaultu 13: Co neexistuje, to si musíme pøedstavit ve snech a nechat se jimi inspirovat k lepším zítøkùm. Tak to bylo i s Neznámım a jeho vírou v legendu o Vaultu 13.}
+{100}{}{Na podstavci je cedule, na kterÃ© stojÃ­ - "NeznÃ¡mÃ©mu a Vaultu 13: Co neexistuje, to si musÃ­me pÅ™edstavit ve snech a nechat se jimi inspirovat k lepÅ¡Ã­m zÃ­tÅ™kÅ¯m. Tak to bylo i s NeznÃ¡mÃ½m a jeho vÃ­rou v legendu o Vaultu 13.}

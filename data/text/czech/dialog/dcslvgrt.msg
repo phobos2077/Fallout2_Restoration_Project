@@ -1,112 +1,112 @@
-{100}{}{Vidíš otrokáøe.}
-{150}{}{Vypadá to, e se umí docela prát.}
-{200}{}{Á, èerstvı maso... vítej v Cechu otrokáøù. Jmenuju se Aidan.
- Jseš tady obchodnì? Doufám e jo.}
-{201}{}{Co pøesnì tvùj Cech dìlá?}
-{202}{}{Cech otrokáøù?}
-{203}{}{Cejch otakárù?}
+{100}{}{VidÃ­Å¡ otrokÃ¡Å™e.}
+{150}{}{VypadÃ¡ to, Å¾e se umÃ­ docela prÃ¡t.}
+{200}{}{Ã, ÄerstvÃ½ maso... vÃ­tej v Cechu otrokÃ¡Å™Å¯. Jmenuju se Aidan.
+ JseÅ¡ tady obchodnÄ›? DoufÃ¡m Å¾e jo.}
+{201}{}{Co pÅ™esnÄ› tvÅ¯j Cech dÄ›lÃ¡?}
+{202}{}{Cech otrokÃ¡Å™Å¯?}
+{203}{}{Cejch otakÃ¡rÅ¯?}
 {204}{}{Aruk kun sung?}
-{215}{}{(Aidan si tì prohlédne od hlavy k patì.) No, vypadá to, e by ses k nám hodil, kámo, ale nejdøív si musíš promluvit s Metzgerem. Je za tìma zadníma dveøma.}
-{216}{}{(Aidan si tì prohlédne od hlavy k patì.) Nevypadá to, e bys na to mìl aludek, kámo, ale já do toho nemám co kecat. Jdi si promluvit s Metzgerem. Je za tìma zadníma dveøma.}
-{217}{}{Øekl jsem ti, a si promluvíš s Metzgerem. Nedoslıcháš, nebo jsi jen blbec?}
+{215}{}{(Aidan si tÄ› prohlÃ©dne od hlavy k patÄ›.) No, vypadÃ¡ to, Å¾e by ses k nÃ¡m hodil, kÃ¡mo, ale nejdÅ™Ã­v si musÃ­Å¡ promluvit s Metzgerem. Je za tÄ›ma zadnÃ­ma dveÅ™ma.}
+{216}{}{(Aidan si tÄ› prohlÃ©dne od hlavy k patÄ›.) NevypadÃ¡ to, Å¾e bys na to mÄ›l Å¾aludek, kÃ¡mo, ale jÃ¡ do toho nemÃ¡m co kecat. Jdi si promluvit s Metzgerem. Je za tÄ›ma zadnÃ­ma dveÅ™ma.}
+{217}{}{Å˜ekl jsem ti, aÅ¥ si promluvÃ­Å¡ s Metzgerem. NedoslÃ½chÃ¡Å¡, nebo jsi jen blbec?}
 {218}{}{Kdo je Metzger?}
-{219}{}{Chci se ještì na nìco zeptat.}
-{220}{}{Díky, jdu si s ním promluvit.}
+{219}{}{Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{220}{}{DÃ­ky, jdu si s nÃ­m promluvit.}
 {221}{}{Medger.}
 {222}{}{Uh... kay.}
-{230}{}{Teï chcípneš.}
-{240}{}{To si snad dìláš prdel! Chytáme a prodáváme otroky. Proto jseš tady, ne?
- Hledáš nìjakou akci?}
-{241}{}{To si snad dìláš prdel! Chytáme a prodáváme otroky. Pokud tady nejsi kvùli tomu,
- tak co chceš?}
-{242}{}{Take teï k nám patøíš. No to bude zajmavı. Pokud máš rád akci, tak jseš na správnı adrese. Pokud ne, dlouho nepøeiješ.}
-{243}{}{Nikdy jsem si nemyslel, e uvidím tohle tetování na enskı. Ale vypadá to dobøe. Metzger bude pøekvapenej... no to mì poser. Take co potøebuješ?}
-{244}{}{Co chceš? Potøebuješ nìkam nasmìrovat nebo co?}
-{245}{}{Zdravím, mladá dámo. Co potøebuješ?}
-{246}{}{Coe?}
-{247}{}{Chci se k vám pøidat.}
-{248}{}{Odkud berete vaše otroky?}
-{249}{}{Chci koupit nìjaké otroky.}
-{250}{}{Znáš mue jménem Vic?}
-{251}{}{Hledám obchodníka.}
-{252}{}{Slyšel jsi nìkdy o Vaultu 13?}
+{230}{}{TeÄ chcÃ­pneÅ¡.}
+{240}{}{To si snad dÄ›lÃ¡Å¡ prdel! ChytÃ¡me a prodÃ¡vÃ¡me otroky. Proto jseÅ¡ tady, ne?
+ HledÃ¡Å¡ nÄ›jakou akci?}
+{241}{}{To si snad dÄ›lÃ¡Å¡ prdel! ChytÃ¡me a prodÃ¡vÃ¡me otroky. Pokud tady nejsi kvÅ¯li tomu,
+ tak co chceÅ¡?}
+{242}{}{TakÅ¾e teÄ k nÃ¡m patÅ™Ã­Å¡. No to bude zajmavÃ½. Pokud mÃ¡Å¡ rÃ¡d akci, tak jseÅ¡ na sprÃ¡vnÃ½ adrese. Pokud ne, dlouho nepÅ™eÅ¾ijeÅ¡.}
+{243}{}{Nikdy jsem si nemyslel, Å¾e uvidÃ­m tohle tetovÃ¡nÃ­ na Å¾enskÃ½. Ale vypadÃ¡ to dobÅ™e. Metzger bude pÅ™ekvapenej... no to mÄ› poser. TakÅ¾e co potÅ™ebujeÅ¡?}
+{244}{}{Co chceÅ¡? PotÅ™ebujeÅ¡ nÄ›kam nasmÄ›rovat nebo co?}
+{245}{}{ZdravÃ­m, mladÃ¡ dÃ¡mo. Co potÅ™ebujeÅ¡?}
+{246}{}{CoÅ¾e?}
+{247}{}{Chci se k vÃ¡m pÅ™idat.}
+{248}{}{Odkud berete vaÅ¡e otroky?}
+{249}{}{Chci koupit nÄ›jakÃ© otroky.}
+{250}{}{ZnÃ¡Å¡ muÅ¾e jmÃ©nem Vic?}
+{251}{}{HledÃ¡m obchodnÃ­ka.}
+{252}{}{SlyÅ¡el jsi nÄ›kdy o Vaultu 13?}
 {253}{}{Nashle.}
-{254}{}{Práce.}
-{255}{}{Jídlo.}
-{256}{}{Zabíjet.}
+{254}{}{PrÃ¡ce.}
+{255}{}{JÃ­dlo.}
+{256}{}{ZabÃ­jet.}
 {257}{}{Eh.}
-{270}{}{Á, krveíznivec. Dobrá... promluv si se šéfem. Moná budeme mít pro tebe místo. Jdi tìma zadníma dveøma.}
-{271}{}{Metzger nikdy nemìl dìvku jako otrokáøku, ale pokud jseš opravdu tak krveíznivá, promluv si s ním. Je pøímo za tìmahle dveøma.}
-{272}{}{Dobe.}
+{270}{}{Ã, krveÅ¾Ã­znivec. DobrÃ¡... promluv si se Å¡Ã©fem. MoÅ¾nÃ¡ budeme mÃ­t pro tebe mÃ­sto. Jdi tÄ›ma zadnÃ­ma dveÅ™ma.}
+{271}{}{Metzger nikdy nemÄ›l dÄ›vku jako otrokÃ¡Å™ku, ale pokud jseÅ¡ opravdu tak krveÅ¾Ã­znivÃ¡, promluv si s nÃ­m. Je pÅ™Ã­mo za tÄ›mahle dveÅ™ma.}
+{272}{}{DobÅ¾e.}
 {273}{}{Eh.}
 {274}{}{Krrk.}
-{280}{}{O tom si promluv s Metzgerem. Normálnì veøejnosti neprodává. Má spoustu práce s... velkejma zákazníkama.}
+{280}{}{O tom si promluv s Metzgerem. NormÃ¡lnÄ› veÅ™ejnosti neprodÃ¡vÃ¡. MÃ¡ spoustu prÃ¡ce s... velkejma zÃ¡kaznÃ­kama.}
 {281}{}{Kdo je Metzger?}
-{282}{}{Mùu se zeptat na nìco jiného?}
-{283}{}{Dobøe, nashle.}
+{282}{}{MÅ¯Å¾u se zeptat na nÄ›co jinÃ©ho?}
+{283}{}{DobÅ™e, nashle.}
 {284}{}{A co takhle Vic?}
-{290}{}{No nekecej. Táhni odsud!}
-{291}{}{Blbá dìvko.}
+{290}{}{No nekecej. TÃ¡hni odsud!}
+{291}{}{BlbÃ¡ dÄ›vko.}
 {292}{}{Anooo?}
 {293}{}{Hmph.}
-{300}{}{Ani omylem. Ten blbec Vic nasral Metzgera s nìjakım rádiem nebo co. Pochybuju, e ti ho prodá. Musíš si s ním promluvit osobnì.}
-{301}{}{No, slyšel jsem, e u koneènì opravil to rádio, ale zeptej se spíš Metzgera. Teï u je v podstatì k nièemu a navíc by se asi blbì prodával.}
+{300}{}{Ani omylem. Ten blbec Vic nasral Metzgera s nÄ›jakÃ½m rÃ¡diem nebo co. Pochybuju, Å¾e ti ho prodÃ¡. MusÃ­Å¡ si s nÃ­m promluvit osobnÄ›.}
+{301}{}{No, slyÅ¡el jsem, Å¾e uÅ¾ koneÄnÄ› opravil to rÃ¡dio, ale zeptej se spÃ­Å¡ Metzgera. TeÄ uÅ¾ je v podstatÄ› k niÄemu a navÃ­c by se asi blbÄ› prodÃ¡val.}
 {302}{}{Kdo je Metzger?}
 {303}{}{Kde je Metzger?}
-{304}{}{Dobøe, díky. Nashle.}
-{310}{}{Je v zadní místnosti, pøímo za tìmahle dveøma.}
-{311}{}{Chceš mì vytoèit? Je pøímo támhle vzadu. Staèí projít tìma dveøma.}
-{312}{}{Dobøe.}
-{313}{}{Díky.}
-{320}{}{Sakra, ty neznáš Metzgera? Proè jseš vùbec v tomhle mìstì kdy ne kvùli nìmu? Je šéfem Cechu otrokáøù.}
-{321}{}{Kolikrát ti to mám øíkat? On je šéf otrokù. Øídí tohle mìsto.}
-{322}{}{Mùu se vás zeptat na nìco jiného?}
-{323}{}{Dobøe, díky.}
-{330}{}{O tom se s tebou nebudu bavit. Metzger by mì uškrtil. A navíc nechceme ádnou konkurenci zvenèí.}
-{331}{}{U jsem øekl, e se o tom nebudu bavit.}
-{332}{}{Øekni mi to, nebo ti udìlám díru do hlavy.}
-{333}{}{Rozumím. Další otázky?}
-{334}{}{Dobøe, nashle.}
-{340}{}{Poslouchej, ty malej sráèi, nepokoušej se mi vyhroovat ani nikomu jinımu v našem Cechu, nebo jseš mrtvej. Rozumíš? Mrtvej.}
-{341}{}{Poslouchej, ty malá kundo, nepokoušej se mi vyhroovat ani nikomu jinımu v našem Cechu, nebo jseš mrtvá. Rozumíš? Mrtvá.}
-{342}{}{Teï chcípneš, feáku.}
+{304}{}{DobÅ™e, dÃ­ky. Nashle.}
+{310}{}{Je v zadnÃ­ mÃ­stnosti, pÅ™Ã­mo za tÄ›mahle dveÅ™ma.}
+{311}{}{ChceÅ¡ mÄ› vytoÄit? Je pÅ™Ã­mo tÃ¡mhle vzadu. StaÄÃ­ projÃ­t tÄ›ma dveÅ™ma.}
+{312}{}{DobÅ™e.}
+{313}{}{DÃ­ky.}
+{320}{}{Sakra, ty neznÃ¡Å¡ Metzgera? ProÄ jseÅ¡ vÅ¯bec v tomhle mÄ›stÄ› kdyÅ¾ ne kvÅ¯li nÄ›mu? Je Å¡Ã©fem Cechu otrokÃ¡Å™Å¯.}
+{321}{}{KolikrÃ¡t ti to mÃ¡m Å™Ã­kat? On je Å¡Ã©f otrokÅ¯. Å˜Ã­dÃ­ tohle mÄ›sto.}
+{322}{}{MÅ¯Å¾u se vÃ¡s zeptat na nÄ›co jinÃ©ho?}
+{323}{}{DobÅ™e, dÃ­ky.}
+{330}{}{O tom se s tebou nebudu bavit. Metzger by mÄ› uÅ¡krtil. A navÃ­c nechceme Å¾Ã¡dnou konkurenci zvenÄÃ­.}
+{331}{}{UÅ¾ jsem Å™ekl, Å¾e se o tom nebudu bavit.}
+{332}{}{Å˜ekni mi to, nebo ti udÄ›lÃ¡m dÃ­ru do hlavy.}
+{333}{}{RozumÃ­m. DalÅ¡Ã­ otÃ¡zky?}
+{334}{}{DobÅ™e, nashle.}
+{340}{}{Poslouchej, ty malej srÃ¡Äi, nepokouÅ¡ej se mi vyhroÅ¾ovat ani nikomu jinÃ½mu v naÅ¡em Cechu, nebo jseÅ¡ mrtvej. RozumÃ­Å¡? Mrtvej.}
+{341}{}{Poslouchej, ty malÃ¡ kundo, nepokouÅ¡ej se mi vyhroÅ¾ovat ani nikomu jinÃ½mu v naÅ¡em Cechu, nebo jseÅ¡ mrtvÃ¡. RozumÃ­Å¡? MrtvÃ¡.}
+{342}{}{TeÄ chcÃ­pneÅ¡, feÅ¥Ã¡ku.}
 {343}{}{Jdi se vycpat.}
-{344}{}{Promiò, neubliuj mi prosím.}
-{345}{}{Jo, jasnì. Tentokrát tì nechám naivu.}
-{350}{}{Fakt jo? Moná bych ti mìl udìlat díru do hlavy hned teï. Co myslíš, tvrïáku?}
-{351}{}{Mùeš to zkusit.}
-{352}{}{Nechtìj mì rozesmát.}
-{353}{}{Ty vole, jenom si dìlám srandu.}
-{354}{}{Omlouvám se. Chtìl jsem na tebe jenom zapùsobit.}
-{360}{}{Utíkej, ne si to rozmyslím.}
-{361}{}{Dobøe.}
-{370}{}{Coe? Jo, ty asi hledáš Mámu. Jseš o jednu budovu vedle. Je v budovì pøímo na jih. J-i-h. Tudy. (Aidan ukáe na dveøe.)}
+{344}{}{PromiÅˆ, neubliÅ¾uj mi prosÃ­m.}
+{345}{}{Jo, jasnÄ›. TentokrÃ¡t tÄ› nechÃ¡m naÅ¾ivu.}
+{350}{}{Fakt jo? MoÅ¾nÃ¡ bych ti mÄ›l udÄ›lat dÃ­ru do hlavy hned teÄ. Co myslÃ­Å¡, tvrÄÃ¡ku?}
+{351}{}{MÅ¯Å¾eÅ¡ to zkusit.}
+{352}{}{NechtÄ›j mÄ› rozesmÃ¡t.}
+{353}{}{Ty vole, jenom si dÄ›lÃ¡m srandu.}
+{354}{}{OmlouvÃ¡m se. ChtÄ›l jsem na tebe jenom zapÅ¯sobit.}
+{360}{}{UtÃ­kej, neÅ¾ si to rozmyslÃ­m.}
+{361}{}{DobÅ™e.}
+{370}{}{CoÅ¾e? Jo, ty asi hledÃ¡Å¡ MÃ¡mu. JseÅ¡ o jednu budovu vedle. Je v budovÄ› pÅ™Ã­mo na jih. J-i-h. Tudy. (Aidan ukÃ¡Å¾e na dveÅ™e.)}
 {371}{}{Co? Eh... aha.}
-{380}{}{Asi by ses k nám mohla pøidat, ale Metzger nikdy nenabírá enskı. Nevím proè, ale pochybuju, e s tím teï zaène.}
-{381}{}{Nevypadáš na to. Navíc Metzger ještì nikdy nenajmul enskou. Nevím proè, ale pochybuju, e s tím teï zaène.}
-{382}{}{Øekl jsem, e si musíš promluvit s Metzgerem.}
+{380}{}{Asi by ses k nÃ¡m mohla pÅ™idat, ale Metzger nikdy nenabÃ­rÃ¡ Å¾enskÃ½. NevÃ­m proÄ, ale pochybuju, Å¾e s tÃ­m teÄ zaÄne.}
+{381}{}{NevypadÃ¡Å¡ na to. NavÃ­c Metzger jeÅ¡tÄ› nikdy nenajmul Å¾enskou. NevÃ­m proÄ, ale pochybuju, Å¾e s tÃ­m teÄ zaÄne.}
+{382}{}{Å˜ekl jsem, Å¾e si musÃ­Å¡ promluvit s Metzgerem.}
 {383}{}{Kdo je Metzger?}
-{384}{}{Další otázka.}
-{385}{}{Díky, jdu si s ním promluvit.}
+{384}{}{DalÅ¡Ã­ otÃ¡zka.}
+{385}{}{DÃ­ky, jdu si s nÃ­m promluvit.}
 {386}{}{Medger.}
 {387}{}{Uh... kay.}
-{400}{}{Ne, ale bejt tebou, tak se zeptám šéfa. On byl pravdìpodobnì všude na tomhle zkurvenım svìtì.}
-{401}{}{Další otázka.}
-{402}{}{Dobøe, díky. Nashle.}
-{410}{}{Obchodníka? Jó, ty myslíš Vica, jak prodává starı vìci z Vaultù. Je v prdeli. Metzger je na nìj pìknì nasranej.}
-{411}{}{Jó, Vic... ten obchodník, e jo? Ten, co prodává starı vìci z Vaultù. Je v prdeli. Metzger je na nìj pìknì nasranej.}
-{412}{}{Kolikrát se mì na to chceš ještì ptát? Metzger ho drí pod zámkem.}
+{400}{}{Ne, ale bejt tebou, tak se zeptÃ¡m Å¡Ã©fa. On byl pravdÄ›podobnÄ› vÅ¡ude na tomhle zkurvenÃ½m svÄ›tÄ›.}
+{401}{}{DalÅ¡Ã­ otÃ¡zka.}
+{402}{}{DobÅ™e, dÃ­ky. Nashle.}
+{410}{}{ObchodnÃ­ka? JÃ³, ty myslÃ­Å¡ Vica, jak prodÃ¡vÃ¡ starÃ½ vÄ›ci z VaultÅ¯. Je v prdeli. Metzger je na nÄ›j pÄ›knÄ› nasranej.}
+{411}{}{JÃ³, Vic... ten obchodnÃ­k, Å¾e jo? Ten, co prodÃ¡vÃ¡ starÃ½ vÄ›ci z VaultÅ¯. Je v prdeli. Metzger je na nÄ›j pÄ›knÄ› nasranej.}
+{412}{}{KolikrÃ¡t se mÄ› na to chceÅ¡ jeÅ¡tÄ› ptÃ¡t? Metzger ho drÅ¾Ã­ pod zÃ¡mkem.}
 {413}{}{Kdo je Metzger?}
-{414}{}{Mùu se ještì na nìco zeptat?}
+{414}{}{MÅ¯Å¾u se jeÅ¡tÄ› na nÄ›co zeptat?}
 {415}{}{Je na prodej?}
-{416}{}{Dobøe, díky.}
-{430}{}{Hej, hoši, kouknìte, kdo k nám pøišel.}
-{431}{}{Utíkejte, to je otrokáø! Haha, já jsem tak vtipnej.}
-{432}{}{Zpátky do akce?}
-{433}{}{Víš, jak to chodí.}
-{434}{}{Mùeš jít dovnitø.}
-{435}{}{Èeká na tebe.}
-{436}{}{A teï co?}
-{437}{}{Znám ten hnusnej oblièej.}
+{416}{}{DobÅ™e, dÃ­ky.}
+{430}{}{Hej, hoÅ¡i, kouknÄ›te, kdo k nÃ¡m pÅ™iÅ¡el.}
+{431}{}{UtÃ­kejte, to je otrokÃ¡Å™! Haha, jÃ¡ jsem tak vtipnej.}
+{432}{}{ZpÃ¡tky do akce?}
+{433}{}{VÃ­Å¡, jak to chodÃ­.}
+{434}{}{MÅ¯Å¾eÅ¡ jÃ­t dovnitÅ™.}
+{435}{}{ÄŒekÃ¡ na tebe.}
+{436}{}{A teÄ co?}
+{437}{}{ZnÃ¡m ten hnusnej obliÄej.}
 {438}{}{Jak to jde?}
-{439}{}{Vítej zpìt. Chceš se k nám pøidat?}
+{439}{}{VÃ­tej zpÄ›t. ChceÅ¡ se k nÃ¡m pÅ™idat?}

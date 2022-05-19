@@ -1,80 +1,80 @@
-{100}{}{Vidíš pøátelsky vypadajícího hubeného mue.}
-{101}{}{Vidíš Chada, správce karavan.}
-{102}{}{Vidíš hubeného mue, kterı pøedstírá úsmìv. Má na sobì nepopsatelné obleèení a vypadá, e ví, co dìlá.}
-{120}{}{Jak to jde, pøíteli? Co pro tebe mùu udìlat?}
-{121}{}{Víc otázek? Pokusím se na nì odpovìdìt, jak nejlíp dokáu.}
-{122}{}{Všiváku prašivej!}
+{100}{}{VidÃ­Å¡ pÅ™Ã¡telsky vypadajÃ­cÃ­ho hubenÃ©ho muÅ¾e.}
+{101}{}{VidÃ­Å¡ Chada, sprÃ¡vce karavan.}
+{102}{}{VidÃ­Å¡ hubenÃ©ho muÅ¾e, kterÃ½ pÅ™edstÃ­rÃ¡ ÃºsmÄ›v. MÃ¡ na sobÄ› nepopsatelnÃ© obleÄenÃ­ a vypadÃ¡, Å¾e vÃ­, co dÄ›lÃ¡.}
+{120}{}{Jak to jde, pÅ™Ã­teli? Co pro tebe mÅ¯Å¾u udÄ›lat?}
+{121}{}{VÃ­c otÃ¡zek? PokusÃ­m se na nÄ› odpovÄ›dÄ›t, jak nejlÃ­p dokÃ¡Å¾u.}
+{122}{}{VÅ¡ivÃ¡ku praÅ¡ivej!}
 {123}{}{Kdo ty?}
 {124}{}{Marcus se na tebe ptal.}
-{125}{}{Mám dost dùkazù na to, abys byl zatèen za kráde penìz urèenıch pro Broken Hills. Máš to spoèítanı.}
-{126}{}{Je tu dost dùkazù na to, abys byl zatèen za kráde penìz urèenıch pro Broken Hills. Naval $1000 a zajistím ti bezpeènı útìk z mìsta.}
+{125}{}{MÃ¡m dost dÅ¯kazÅ¯ na to, abys byl zatÄen za krÃ¡deÅ¾ penÄ›z urÄenÃ½ch pro Broken Hills. MÃ¡Å¡ to spoÄÃ­tanÃ½.}
+{126}{}{Je tu dost dÅ¯kazÅ¯ na to, abys byl zatÄen za krÃ¡deÅ¾ penÄ›z urÄenÃ½ch pro Broken Hills. Naval $1000 a zajistÃ­m ti bezpeÄnÃ½ ÃºtÄ›k z mÄ›sta.}
 {127}{}{Kdo jsi?}
-{128}{}{Povìz mi nìco o tomhle místì.}
+{128}{}{PovÄ›z mi nÄ›co o tomhle mÃ­stÄ›.}
 {129}{}{Nic. Nashle.}
-{130}{}{Podívejte, co nám sem pustina donesla! Promiò kámo, ale nemùu ti pomoct.}
+{130}{}{PodÃ­vejte, co nÃ¡m sem pustina donesla! PromiÅˆ kÃ¡mo, ale nemÅ¯Å¾u ti pomoct.}
 {131}{}{Naskle!}
 {132}{}{Jsem Chad.}
-{133}{}{Podívej, mám moc práce. Bì prosím otravovat nìkoho jiného.}
-{134}{}{Jsem správce karavan tohohle mìsta. Starám se o vımìnu na druhém konci obchodních cest. Posledních pár dní jsem se zamìøoval hlavnì na Gecko.}
+{133}{}{PodÃ­vej, mÃ¡m moc prÃ¡ce. BÄ›Å¾ prosÃ­m otravovat nÄ›koho jinÃ©ho.}
+{134}{}{Jsem sprÃ¡vce karavan tohohle mÄ›sta. StarÃ¡m se o vÃ½mÄ›nu na druhÃ©m konci obchodnÃ­ch cest. PoslednÃ­ch pÃ¡r dnÃ­ jsem se zamÄ›Å™oval hlavnÄ› na Gecko.}
 {135}{}{To fajn!}
 {136}{}{Chci pro tebe pracovat.}
-{137}{}{To zní skvìle.}
-{138}{}{To zní nudnì.}
-{139}{}{Mám další otázky.}
-{140}{}{Dík. Naskle.}
+{137}{}{To znÃ­ skvÄ›le.}
+{138}{}{To znÃ­ nudnÄ›.}
+{139}{}{MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
+{140}{}{DÃ­k. Naskle.}
 {141}{}{Tell you about Broken Hills? Well... I moved here a few years back. Got a job with the Bill --
  that's the Outfitter -- and moved up to where I am now. I report to Marcus and the Bill, but I'm
  responsible for the livelihood of the town.}
-{142}{}{Mám další otázky.}
+{142}{}{MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
 {143}{}{Nashle.}
-{144}{}{Napøíklad?}
-{145}{}{Má podezøení, e si pro sebe uléváš peníze, které jsou urèené pro Broken Hills.}
-{146}{}{Vlastnì na nic. Sbohem.}
-{147}{}{Podívej, o tom já nic nevím a k smrti nesnáším, kdy mì nìkdo z nìèeho obviòuje. Radím ti, abys teï odešel.}
+{144}{}{NapÅ™Ã­klad?}
+{145}{}{MÃ¡ podezÅ™enÃ­, Å¾e si pro sebe ulÃ©vÃ¡Å¡ penÃ­ze, kterÃ© jsou urÄenÃ© pro Broken Hills.}
+{146}{}{VlastnÄ› na nic. Sbohem.}
+{147}{}{PodÃ­vej, o tom jÃ¡ nic nevÃ­m a k smrti nesnÃ¡Å¡Ã­m, kdyÅ¾ mÄ› nÄ›kdo z nÄ›Äeho obviÅˆuje. RadÃ­m ti, abys teÄ odeÅ¡el.}
 {150}{}{Jdu zjistit, jak to doopravdy je. Sbohem.}
-{156}{}{Promluv si s Billem. On ti pomùe.}
-{157}{}{Mám další otázky.}
-{158}{}{Dík. Naskle.}
-{159}{}{Jo, taky e je. Asi by tì to ani nenapadlo, ale docela cestuju po svìtì... a øekl bych, e pøispívám tomuhle mìstu. Je to dobrej ivot.}
-{160}{}{To zní skvìle. Taková práce by se mi líbila.}
-{161}{}{No, ve skuteènosti to zní jako pìkná nuda.}
-{162}{}{Mám další otázky.}
+{156}{}{Promluv si s Billem. On ti pomÅ¯Å¾e.}
+{157}{}{MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
+{158}{}{DÃ­k. Naskle.}
+{159}{}{Jo, taky Å¾e je. Asi by tÄ› to ani nenapadlo, ale docela cestuju po svÄ›tÄ›... a Å™ekl bych, Å¾e pÅ™ispÃ­vÃ¡m tomuhle mÄ›stu. Je to dobrej Å¾ivot.}
+{160}{}{To znÃ­ skvÄ›le. TakovÃ¡ prÃ¡ce by se mi lÃ­bila.}
+{161}{}{No, ve skuteÄnosti to znÃ­ jako pÄ›knÃ¡ nuda.}
+{162}{}{MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
 {163}{}{Nashle.}
-{164}{}{Urèitì je to podstatnì víc vzrušující ne to, co dìláš se svım ivotem ty, kokote.}
-{165}{}{No jasnì, jak myslíš. Mám další otázky.}
-{166}{}{Hahahaha! Jasnì. Zatím, pako.}
-{167}{}{Jednou za to zaplatíš, ocasi.}
-{168}{}{Zmiz mi z oèí, hovado.}
-{169}{}{Pìknì jsi tu karavanu podìlal, pøíteli. Na peníze zapomeò.}
-{170}{}{Opravdu si tu karavanu neskuteènì zbabral, pøíteli. Hodnì štìstí s nìkım jinım z Broken Hills.}
-{171}{}{Dobrá práce. Tady máš svıch $200.}
-{172}{}{Padej odsud. Tvoji pomoc tady nepotøebujeme.}
-{173}{}{Mìj oèi na šopkách.}
-{174}{}{Budu tì krıt.}
+{164}{}{UrÄitÄ› je to podstatnÄ› vÃ­c vzruÅ¡ujÃ­cÃ­ neÅ¾ to, co dÄ›lÃ¡Å¡ se svÃ½m Å¾ivotem ty, kokote.}
+{165}{}{No jasnÄ›, jak myslÃ­Å¡. MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
+{166}{}{Hahahaha! JasnÄ›. ZatÃ­m, pako.}
+{167}{}{Jednou za to zaplatÃ­Å¡, ocasi.}
+{168}{}{Zmiz mi z oÄÃ­, hovado.}
+{169}{}{PÄ›knÄ› jsi tu karavanu podÄ›lal, pÅ™Ã­teli. Na penÃ­ze zapomeÅˆ.}
+{170}{}{Opravdu si tu karavanu neskuteÄnÄ› zbabral, pÅ™Ã­teli. HodnÄ› Å¡tÄ›stÃ­ s nÄ›kÃ½m jinÃ½m z Broken Hills.}
+{171}{}{DobrÃ¡ prÃ¡ce. Tady mÃ¡Å¡ svÃ½ch $200.}
+{172}{}{Padej odsud. Tvoji pomoc tady nepotÅ™ebujeme.}
+{173}{}{MÄ›j oÄi na Å¡Å¥opkÃ¡ch.}
+{174}{}{Budu tÄ› krÃ½t.}
 {175}{}{Nenech ty bastardy kolem tebe proklouznout.}
-{200}{}{Nevím o èem to mluvíš. Radím ti, abys do toho nešoural, nebo nìkoho nasereš. A teï odsud vypadni.}
-{201}{}{Mám lepší nápad. Co kdybych tì místo toho umlátil k smrti?}
-{202}{}{Špatná odpovìï. Vypadá to, e sis zaèal se špatnım tıpkem.}
+{200}{}{NevÃ­m o Äem to mluvÃ­Å¡. RadÃ­m ti, abys do toho neÅ¡Å¥oural, nebo nÄ›koho nasereÅ¡. A teÄ odsud vypadni.}
+{201}{}{MÃ¡m lepÅ¡Ã­ nÃ¡pad. Co kdybych tÄ› mÃ­sto toho umlÃ¡til k smrti?}
+{202}{}{Å patnÃ¡ odpovÄ›Ä. VypadÃ¡ to, Å¾e sis zaÄal se Å¡patnÃ½m tÃ½pkem.}
 {203}{}{Fajn, sbohem.}
-{204}{}{Krucinál, vìdìl jsem, e to nebude trvat vìènì. (Rozhlédne se kolem a ztiší hlas.) Dobøe, poslouchej. Dr o téhle malé záleitosti hubu. Tady máš $1000. (Pøedá ti peníze.) A teï kdy mì omluvíš, musím u jít.}
+{204}{}{KrucinÃ¡l, vÄ›dÄ›l jsem, Å¾e to nebude trvat vÄ›ÄnÄ›. (RozhlÃ©dne se kolem a ztiÅ¡Ã­ hlas.) DobÅ™e, poslouchej. DrÅ¾ o tÃ©hle malÃ© zÃ¡leÅ¾itosti hubu. Tady mÃ¡Å¡ $1000. (PÅ™edÃ¡ ti penÃ­ze.) A teÄ kdyÅ¾ mÄ› omluvÃ­Å¡, musÃ­m uÅ¾ jÃ­t.}
 {205}{}{[KONEC]}
-{206}{}{Pomoc! Máme tu zlodìje.}
+{206}{}{Pomoc! MÃ¡me tu zlodÄ›je.}
 {207}{}{}
 {208}{}{Co to!? Kdo sakra jsi?}
-{209}{}{Já? Eh, jsem Víla Zubìnka. Jsem tu, abych ti pøinesla veliké bohatství.}
-{210}{}{No jasnì a já jsem Svatı Mikuláš. A teï mi øekni, kdo kurva jsi a proè jsi v mım domì?}
-{211}{}{Fakt? Potkal jsem v New Renu tıpka, kterı taky tvrdil, e je Svatı Mikuláš.}
-{212}{}{*Tupì zírá*}
-{213}{}{(pokraèuješ) Jo a pak jsem mu povìdìl svùj ivotní pøíbìh o Arroyu...}
-{214}{}{Tak poslouchej, ty tvoje zasranı kecy jsou mi úplnì u prdele. Ty jseš urèitì ten chlápek, co èmuchá kolem a ptá se na chybìjící peníze z karavan.}
-{215}{}{To je pravda. A jsem tu, abych získal poslední dùkaz, kterı potøebuju, abych tì dostal.}
-{216}{}{Fakt jo? Tak já ti pomùu. Ty dokumenty, které hledáš, jsou v kuføíku, kterı je zamèenı ve spodním šuplíku támhletoho prádelníku. Ale ty se ho nikdy ani nedotkneš, páè tì teï zabiju, ty jeden zkurvenej naivko. Nebıt tebe, mohl jsem odírat karavany ještì nìkolik dalších mìsícù. Ale ne, ty jsi sem musel pøijít a míchat se do vìcí, do kterıch ti kurva nic není. Tak a teï musím zmizet z mìsta, ale bude mi potìšením nechat po sobì tvoji mrtvolu.}
-{217}{}{Chade, nikdo tady nemusí zemøít. Místo toho, abys udìlal nìjakou blbost, která tì mùe stát ivot, bys mìl vychladnout a potom si o tom promluvíme s Marcusem.}
-{218}{}{Myslíš, e jsem blbej? Ten velkej hnusnej èùrák by mì hned zavøel. Ne, obávám se, e tady urèitì nìkdo umøe. A já to nebudu!}
-{219}{}{Jsem tu pro poslední dùkaz v kauze ulévání penìz z karavan.}
-{220}{}{Fakt jo?... já vìdìl, e jsem tì u nìkde vidìl.}
-{221}{}{Dobøe, dobøe. Ke všemu se pøiznávám. Nechci kvùli tomu umøít. Øekni Marcusovi, e se vzdám bez boje.}
+{209}{}{JÃ¡? Eh, jsem VÃ­la ZubÄ›nka. Jsem tu, abych ti pÅ™inesla velikÃ© bohatstvÃ­.}
+{210}{}{No jasnÄ› a jÃ¡ jsem SvatÃ½ MikulÃ¡Å¡. A teÄ mi Å™ekni, kdo kurva jsi a proÄ jsi v mÃ½m domÄ›?}
+{211}{}{Fakt? Potkal jsem v New Renu tÃ½pka, kterÃ½ taky tvrdil, Å¾e je SvatÃ½ MikulÃ¡Å¡.}
+{212}{}{*TupÄ› zÃ­rÃ¡*}
+{213}{}{(pokraÄujeÅ¡) Jo a pak jsem mu povÄ›dÄ›l svÅ¯j Å¾ivotnÃ­ pÅ™Ã­bÄ›h o Arroyu...}
+{214}{}{Tak poslouchej, ty tvoje zasranÃ½ kecy jsou mi ÃºplnÄ› u prdele. Ty jseÅ¡ urÄitÄ› ten chlÃ¡pek, co ÄmuchÃ¡ kolem a ptÃ¡ se na chybÄ›jÃ­cÃ­ penÃ­ze z karavan.}
+{215}{}{To je pravda. A jsem tu, abych zÃ­skal poslednÃ­ dÅ¯kaz, kterÃ½ potÅ™ebuju, abych tÄ› dostal.}
+{216}{}{Fakt jo? Tak jÃ¡ ti pomÅ¯Å¾u. Ty dokumenty, kterÃ© hledÃ¡Å¡, jsou v kufÅ™Ã­ku, kterÃ½ je zamÄenÃ½ ve spodnÃ­m Å¡uplÃ­ku tÃ¡mhletoho prÃ¡delnÃ­ku. Ale ty se ho nikdy ani nedotkneÅ¡, pÃ¡Ä tÄ› teÄ zabiju, ty jeden zkurvenej naivko. NebÃ½t tebe, mohl jsem odÃ­rat karavany jeÅ¡tÄ› nÄ›kolik dalÅ¡Ã­ch mÄ›sÃ­cÅ¯. Ale ne, ty jsi sem musel pÅ™ijÃ­t a mÃ­chat se do vÄ›cÃ­, do kterÃ½ch ti kurva nic nenÃ­. Tak a teÄ musÃ­m zmizet z mÄ›sta, ale bude mi potÄ›Å¡enÃ­m nechat po sobÄ› tvoji mrtvolu.}
+{217}{}{Chade, nikdo tady nemusÃ­ zemÅ™Ã­t. MÃ­sto toho, abys udÄ›lal nÄ›jakou blbost, kterÃ¡ tÄ› mÅ¯Å¾e stÃ¡t Å¾ivot, bys mÄ›l vychladnout a potom si o tom promluvÃ­me s Marcusem.}
+{218}{}{MyslÃ­Å¡, Å¾e jsem blbej? Ten velkej hnusnej ÄÅ¯rÃ¡k by mÄ› hned zavÅ™el. Ne, obÃ¡vÃ¡m se, Å¾e tady urÄitÄ› nÄ›kdo umÅ™e. A jÃ¡ to nebudu!}
+{219}{}{Jsem tu pro poslednÃ­ dÅ¯kaz v kauze ulÃ©vÃ¡nÃ­ penÄ›z z karavan.}
+{220}{}{Fakt jo?... jÃ¡ vÄ›dÄ›l, Å¾e jsem tÄ› uÅ¾ nÄ›kde vidÄ›l.}
+{221}{}{DobÅ™e, dobÅ™e. Ke vÅ¡emu se pÅ™iznÃ¡vÃ¡m. Nechci kvÅ¯li tomu umÅ™Ã­t. Å˜ekni Marcusovi, Å¾e se vzdÃ¡m bez boje.}
 {222}{}{Tak jo, ale ani se nehni. Jdu pro Marcuse.}
-{300}{}{Dovolil jsi Chadovi opustit mìsto.}
-{400}{}{Nech mì bıt.}
-{2040}{}{Krucinál, vìdìl jsem, e to nebude trvat vìènì. (Rozhlédne se kolem a ztiší hlas.) Dobøe, poslouchej. Dr o téhle malé záleitosti hubu. Tady máš za to $1000. (Pøedá ti peníze a ty mu pøedáš jeho kuføík.) A teï kdy mì omluvíš, musím u jít.}
+{300}{}{Dovolil jsi Chadovi opustit mÄ›sto.}
+{400}{}{Nech mÄ› bÃ½t.}
+{2040}{}{KrucinÃ¡l, vÄ›dÄ›l jsem, Å¾e to nebude trvat vÄ›ÄnÄ›. (RozhlÃ©dne se kolem a ztiÅ¡Ã­ hlas.) DobÅ™e, poslouchej. DrÅ¾ o tÃ©hle malÃ© zÃ¡leÅ¾itosti hubu. Tady mÃ¡Å¡ za to $1000. (PÅ™edÃ¡ ti penÃ­ze a ty mu pÅ™edÃ¡Å¡ jeho kufÅ™Ã­k.) A teÄ kdyÅ¾ mÄ› omluvÃ­Å¡, musÃ­m uÅ¾ jÃ­t.}

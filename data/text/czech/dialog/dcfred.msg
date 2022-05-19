@@ -1,159 +1,159 @@
-{100}{}{Vidíš obèana Denu.}
-{101}{}{Vidíš Freda.}
-{102}{}{Vidíš Freda ve velmi pìkném obleèení.}
-{150}{}{Vypadá to, e o nìèem usilovnì pøemıšlí.}
-{151}{}{Vypadá velice spokojenì ve svém novém ohozu.}
-{200}{}{Jednou to tady roztoèím.}
-{201}{}{Nech mì bıt. Nemám èas.}
-{202}{}{Mistrovskı plán...}
-{203}{}{Já na to nìkdy pøijdu...}
-{204}{}{Proè poøád prohrávám?}
-{205}{}{Musí to vypadat k svìtu.}
-{206}{}{Jo, jednou budu ve svım vlastním.}
-{207}{}{Seenu si nìco hezkıho na sebe.}
-{220}{}{Sakra! U je pozdì. Nech mì na pokoji.}
-{221}{}{Ne, fakt nepotøebuju spoleènost.}
-{222}{}{Víš kolik je hodin?}
-{223}{}{Nic nemám.}
-{224}{}{Pøijï otravovat a ráno. Chce se mi spát.}
+{100}{}{VidÃ­Å¡ obÄana Denu.}
+{101}{}{VidÃ­Å¡ Freda.}
+{102}{}{VidÃ­Å¡ Freda ve velmi pÄ›knÃ©m obleÄenÃ­.}
+{150}{}{VypadÃ¡ to, Å¾e o nÄ›Äem usilovnÄ› pÅ™emÃ½Å¡lÃ­.}
+{151}{}{VypadÃ¡ velice spokojenÄ› ve svÃ©m novÃ©m ohozu.}
+{200}{}{Jednou to tady roztoÄÃ­m.}
+{201}{}{Nech mÄ› bÃ½t. NemÃ¡m Äas.}
+{202}{}{MistrovskÃ½ plÃ¡n...}
+{203}{}{JÃ¡ na to nÄ›kdy pÅ™ijdu...}
+{204}{}{ProÄ poÅ™Ã¡d prohrÃ¡vÃ¡m?}
+{205}{}{MusÃ­ to vypadat k svÄ›tu.}
+{206}{}{Jo, jednou budu ve svÃ½m vlastnÃ­m.}
+{207}{}{SeÅ¾enu si nÄ›co hezkÃ½ho na sebe.}
+{220}{}{Sakra! UÅ¾ je pozdÄ›. Nech mÄ› na pokoji.}
+{221}{}{Ne, fakt nepotÅ™ebuju spoleÄnost.}
+{222}{}{VÃ­Å¡ kolik je hodin?}
+{223}{}{Nic nemÃ¡m.}
+{224}{}{PÅ™ijÄ otravovat aÅ¾ rÃ¡no. Chce se mi spÃ¡t.}
 {225}{}{Vypadni.}
-{226}{}{Nemám èas.}
-{227}{}{Nechci si povídat. U jdu spát.}
-{228}{}{Poslyš, holka, u je pozdì. Nech mì na pokoji.}
-{240}{}{U ádnı prachy! Nech mì na pokoji.}
-{241}{}{Není ádná práce. Co budu dìlat?}
-{242}{}{Neøíkej mi, e nìkomu dluím! Ááá!}
-{243}{}{Vypadá to, e to moc neroztoèím.}
-{244}{}{Jsem úplnì švorc.}
-{245}{}{Sakra, potøebuju nìjakı prachy.}
-{246}{}{Novı hadry si na sebe asi hned tak nekoupím.}
-{247}{}{Chce to novej plán...}
-{260}{}{Díky za zaloení!}
-{261}{}{Díky za záchranu.}
-{262}{}{U brzo budu mít pro tebe ty prachy.}
-{263}{}{U brzo musím vyhrát!}
-{264}{}{Jsi první za kım pùjdu a vyhraju.}
-{275}{}{Rozjel jsem mistrovskej plán!}
-{276}{}{Díky za pùjèku! Tvoje prachy jsou v dobrıch rukou!}
-{277}{}{Není to nic lehkıho, ale nemìj strach.}
-{278}{}{Jednou vyhraju hlavní cenu a to jenom díky tobì.}
-{279}{}{U to brzo bude! U to cítím.}
-{280}{}{Opravdu ti to všechno splatím, slibuju!}
-{281}{}{U brzo vyhraju hlavní cenu. Cítím to ve vzduchu.}
-{295}{}{Coe? My se známe? Co chceš?}
-{296}{}{Proè mì poøád otravuješ? Vdy tì ani neznám. Jdi prudit jinam.}
-{297}{}{Jdu vybrat peníze, co nìkomu dluíš.}
-{298}{}{Zapomeò na to.}
+{226}{}{NemÃ¡m Äas.}
+{227}{}{Nechci si povÃ­dat. UÅ¾ jdu spÃ¡t.}
+{228}{}{PoslyÅ¡, holka, uÅ¾ je pozdÄ›. Nech mÄ› na pokoji.}
+{240}{}{UÅ¾ Å¾Ã¡dnÃ½ prachy! Nech mÄ› na pokoji.}
+{241}{}{NenÃ­ Å¾Ã¡dnÃ¡ prÃ¡ce. Co budu dÄ›lat?}
+{242}{}{NeÅ™Ã­kej mi, Å¾e nÄ›komu dluÅ¾Ã­m! ÃÃ¡Ã¡!}
+{243}{}{VypadÃ¡ to, Å¾e to moc neroztoÄÃ­m.}
+{244}{}{Jsem ÃºplnÄ› Å¡vorc.}
+{245}{}{Sakra, potÅ™ebuju nÄ›jakÃ½ prachy.}
+{246}{}{NovÃ½ hadry si na sebe asi hned tak nekoupÃ­m.}
+{247}{}{Chce to novej plÃ¡n...}
+{260}{}{DÃ­ky za zaloÅ¾enÃ­!}
+{261}{}{DÃ­ky za zÃ¡chranu.}
+{262}{}{UÅ¾ brzo budu mÃ­t pro tebe ty prachy.}
+{263}{}{UÅ¾ brzo musÃ­m vyhrÃ¡t!}
+{264}{}{Jsi prvnÃ­ za kÃ½m pÅ¯jdu aÅ¾ vyhraju.}
+{275}{}{Rozjel jsem mistrovskej plÃ¡n!}
+{276}{}{DÃ­ky za pÅ¯jÄku! Tvoje prachy jsou v dobrÃ½ch rukou!}
+{277}{}{NenÃ­ to nic lehkÃ½ho, ale nemÄ›j strach.}
+{278}{}{Jednou vyhraju hlavnÃ­ cenu a to jenom dÃ­ky tobÄ›.}
+{279}{}{UÅ¾ to brzo bude! UÅ¾ to cÃ­tÃ­m.}
+{280}{}{Opravdu ti to vÅ¡echno splatÃ­m, slibuju!}
+{281}{}{UÅ¾ brzo vyhraju hlavnÃ­ cenu. CÃ­tÃ­m to ve vzduchu.}
+{295}{}{CoÅ¾e? My se znÃ¡me? Co chceÅ¡?}
+{296}{}{ProÄ mÄ› poÅ™Ã¡d otravujeÅ¡? VÅ¾dyÅ¥ tÄ› ani neznÃ¡m. Jdi prudit jinam.}
+{297}{}{Jdu vybrat penÃ­ze, co nÄ›komu dluÅ¾Ã­Å¡.}
+{298}{}{ZapomeÅˆ na to.}
 {299}{}{Uk!}
 {300}{}{Nashle.}
-{310}{}{HEJ! Tady jsi! Všude jsem tì hledal! Mrkni na ty hadry!}
-{311}{}{Ještì jednou díky.}
-{312}{}{Vypadá to moc pìknì.}
-{313}{}{Vypadáš jako debil!}
+{310}{}{HEJ! Tady jsi! VÅ¡ude jsem tÄ› hledal! Mrkni na ty hadry!}
+{311}{}{JeÅ¡tÄ› jednou dÃ­ky.}
+{312}{}{VypadÃ¡ to moc pÄ›knÄ›.}
+{313}{}{VypadÃ¡Å¡ jako debil!}
 {314}{}{Fuj!}
 {315}{}{Eh.}
-{320}{}{Díky moc! Díky tobì mám ještì ètvery takovı!}
-{321}{}{Take se ti to nakonec povedlo?}
-{322}{}{Take kde jsou moje peníze?}
-{330}{}{Tobì se moje hadry nelíbí? Víš, asi máš pravdu. Mnì se vlastnì taky nelíbí. Koupím si jinı... mùu si to teï dovolit!}
-{331}{}{Take se ti to nakonec povedlo?}
-{332}{}{A co moje peníze?}
+{320}{}{DÃ­ky moc! DÃ­ky tobÄ› mÃ¡m jeÅ¡tÄ› Ätvery takovÃ½!}
+{321}{}{TakÅ¾e se ti to nakonec povedlo?}
+{322}{}{TakÅ¾e kde jsou moje penÃ­ze?}
+{330}{}{TobÄ› se moje hadry nelÃ­bÃ­? VÃ­Å¡, asi mÃ¡Å¡ pravdu. MnÄ› se vlastnÄ› taky nelÃ­bÃ­. KoupÃ­m si jinÃ½... mÅ¯Å¾u si to teÄ dovolit!}
+{331}{}{TakÅ¾e se ti to nakonec povedlo?}
+{332}{}{A co moje penÃ­ze?}
 {333}{}{Hmph.}
-{340}{}{U jsem se k tomu dostával! Ani mì nenecháš uít si slávy? Dlouho jsem na to èekal, víš.}
-{341}{}{Já vím, uívej si.}
-{342}{}{Kašlu na to. Kde jsou moje peníze?}
+{340}{}{UÅ¾ jsem se k tomu dostÃ¡val! Ani mÄ› nenechÃ¡Å¡ uÅ¾Ã­t si slÃ¡vy? Dlouho jsem na to Äekal, vÃ­Å¡.}
+{341}{}{JÃ¡ vÃ­m, uÅ¾Ã­vej si.}
+{342}{}{KaÅ¡lu na to. Kde jsou moje penÃ­ze?}
 {343}{}{Na to ti seru. Kde jsou moje prachy?}
-{350}{}{Tak jo. Tady je máš. (Fred ti dá $500.) Je tam nìco navíc za to, e jsi mi vìøil. Tak zase nìkdy. A ještì jednou dík.}
-{351}{}{Díky!}
-{352}{}{Jo, jasnì.}
-{360}{}{Díky, e jsi mì zaloil. Fakt to pro mì hodnì znamená, e mi nìkdo úplnì cizí vìøil. Nìco ti dám.}
-{361}{}{Dobøe.}
-{362}{}{To nemusíš.}
+{350}{}{Tak jo. Tady je mÃ¡Å¡. (Fred ti dÃ¡ $500.) Je tam nÄ›co navÃ­c za to, Å¾e jsi mi vÄ›Å™il. Tak zase nÄ›kdy. A jeÅ¡tÄ› jednou dÃ­k.}
+{351}{}{DÃ­ky!}
+{352}{}{Jo, jasnÄ›.}
+{360}{}{DÃ­ky, Å¾e jsi mÄ› zaloÅ¾il. Fakt to pro mÄ› hodnÄ› znamenÃ¡, Å¾e mi nÄ›kdo ÃºplnÄ› cizÃ­ vÄ›Å™il. NÄ›co ti dÃ¡m.}
+{361}{}{DobÅ™e.}
+{362}{}{To nemusÃ­Å¡.}
 {363}{}{Eh.}
-{370}{}{Hodnì ti dluím. Vìøil jsi mi, kdy mi všechno padalo na hlavu. Jako malı projev vdìènosti pro tebe nìco mám.}
-{371}{}{Dobøe.}
-{372}{}{To nemusíš.}
+{370}{}{HodnÄ› ti dluÅ¾Ã­m. VÄ›Å™il jsi mi, kdyÅ¾ mi vÅ¡echno padalo na hlavu. Jako malÃ½ projev vdÄ›Änosti pro tebe nÄ›co mÃ¡m.}
+{371}{}{DobÅ™e.}
+{372}{}{To nemusÃ­Å¡.}
 {373}{}{Eh.}
-{380}{}{Tady. (Fred ti dá $1000.) Doufám, e to pomùe. Jsem si jistı, e u budeš vìdìt co s tím.}
-{381}{}{Promiò, ale tolik si toho nemùu vzít.}
-{382}{}{Díky.}
+{380}{}{Tady. (Fred ti dÃ¡ $1000.) DoufÃ¡m, Å¾e to pomÅ¯Å¾e. Jsem si jistÃ½, Å¾e uÅ¾ budeÅ¡ vÄ›dÄ›t co s tÃ­m.}
+{381}{}{PromiÅˆ, ale tolik si toho nemÅ¯Å¾u vzÃ­t.}
+{382}{}{DÃ­ky.}
 {383}{}{Ani ne, ale vezmu si to.}
 {384}{}{Vrrrr.}
-{390}{}{Tady. (Fred ti dá $2000, 5 mikro-fúzních èlánkù, 5 malıch energetickıch èlánkù a plazmovı granát.) Doufám, e ti to aspoò trochu pomùe.}
-{391}{}{Promiò, ale tolik si toho nemùu vzít.}
-{392}{}{Mockrát dìkuju.}
+{390}{}{Tady. (Fred ti dÃ¡ $2000, 5 mikro-fÃºznÃ­ch ÄlÃ¡nkÅ¯, 5 malÃ½ch energetickÃ½ch ÄlÃ¡nkÅ¯ a plazmovÃ½ granÃ¡t.) DoufÃ¡m, Å¾e ti to aspoÅˆ trochu pomÅ¯Å¾e.}
+{391}{}{PromiÅˆ, ale tolik si toho nemÅ¯Å¾u vzÃ­t.}
+{392}{}{MockrÃ¡t dÄ›kuju.}
 {393}{}{Ani ne, ale vezmu si to.}
 {394}{}{Vrrrr.}
-{400}{}{Coe? Tak dobøe, kdy na tom trváš. Opravdu ti moc dìkuju. Dávej na sebe pozor.}
+{400}{}{CoÅ¾e? Tak dobÅ™e, kdyÅ¾ na tom trvÃ¡Å¡. Opravdu ti moc dÄ›kuju. DÃ¡vej na sebe pozor.}
 {401}{}{Nashle.}
-{410}{}{Co? Jsi na nìjakıch drogách? Nevypadáš na feáka. Táhni ode mì, magore.}
+{410}{}{Co? Jsi na nÄ›jakÃ½ch drogÃ¡ch? NevypadÃ¡Å¡ na feÅ¥Ã¡ka. TÃ¡hni ode mÄ›, magore.}
 {411}{}{Vypadni!}
 {412}{}{Eh.}
-{420}{}{O èem to meleš? Nikomu nic nedluím. O kom to sakra mluvíš?}
-{421}{}{Jo, to jsi u pøedtím øíkal. O èem to tady poøád mluvíš? Jak e se ta vymyšlená osoba jmenovala?}
-{422}{}{Becky øíkala, e jí dluíš 500 dolarù.}
-{423}{}{Poslala mì Becky.}
-{424}{}{Rebecca øíkala, e ti pùjèila 200 dolarù.}
-{430}{}{No jo, pravda. Rebecca mi pùjèila 200 dolarù... vlastnì poèkej. Moná... eh...}
-{431}{}{Øekla mi, e ti mám urvat hlavu, jestli nezaplatíš.}
+{420}{}{O Äem to meleÅ¡? Nikomu nic nedluÅ¾Ã­m. O kom to sakra mluvÃ­Å¡?}
+{421}{}{Jo, to jsi uÅ¾ pÅ™edtÃ­m Å™Ã­kal. O Äem to tady poÅ™Ã¡d mluvÃ­Å¡? Jak Å¾e se ta vymyÅ¡lenÃ¡ osoba jmenovala?}
+{422}{}{Becky Å™Ã­kala, Å¾e jÃ­ dluÅ¾Ã­Å¡ 500 dolarÅ¯.}
+{423}{}{Poslala mÄ› Becky.}
+{424}{}{Rebecca Å™Ã­kala, Å¾e ti pÅ¯jÄila 200 dolarÅ¯.}
+{430}{}{No jo, pravda. Rebecca mi pÅ¯jÄila 200 dolarÅ¯... vlastnÄ› poÄkej. MoÅ¾nÃ¡... eh...}
+{431}{}{Å˜ekla mi, Å¾e ti mÃ¡m urvat hlavu, jestli nezaplatÃ­Å¡.}
 {432}{}{Naval ty prachy.}
-{440}{}{Aha, to urèitì. Tolik penìz pohromadì jsem v ivotì nevidìl.}
+{440}{}{Aha, to urÄitÄ›. Tolik penÄ›z pohromadÄ› jsem v Å¾ivotÄ› nevidÄ›l.}
 {441}{}{Hmmm.}
 {442}{}{Aha.}
-{450}{}{Aha! To ti tak budu vìøit. Becky by neublíila ani mouše.}
-{451}{}{Tak to se pleteš, sráèi.}
-{452}{}{Moná to byl nìkdo jinı.}
-{460}{}{Sakra. Myslím e máš pravdu, ale... jsem skoro švorc. Tolik penìz si nemùu dovolit! Musím taky jíst, víš?}
-{461}{}{Omlouvám se.}
-{462}{}{Smùla.}
-{470}{}{Sakra. Stìí si mùu dovolit 100. Mùeš mi pùjèit pùlku? Slibuju, e ti to vrátím!}
-{471}{}{Ne, promiò.}
-{472}{}{Ale no tak. Zapla všechno!}
-{473}{}{Tak dobøe.}
-{480}{}{Sakra. To mì zruinuje! Tak dobøe, tady to máš. Ale teï jsem úplnì švorc.}
-{481}{}{Tak dobøe. Zaloím tì.}
-{482}{}{Díky. Pøíštì se lépe starej o svoje peníze.}
-{483}{}{Bylo mi potìšením s tebou spolupracovat.}
-{490}{}{Øíkal jsem ti, e nemùu! Umøel bych hlady. No tak, nemùeš mi pomoct?}
-{491}{}{Tak dobøe. Pùjèím ti pùlku.}
-{492}{}{Ne, promiò. Taky nemám peníze.}
-{493}{}{Ještì se vrátím.}
-{500}{}{Co? Opravdu? Jo, díky moc, chlape! Tady je 100 babek. Tu stovku vrátím co nejdøív!}
-{501}{}{Co? Opravdu? Jo, díky moc, sleèno! Tady je 100 babek. Tu stovku vrátím co nejdøív!}
-{502}{}{ádnı problém.}
-{503}{}{To bys opravdu mìl.}
-{510}{}{No tak, neboj se. Fakt! Máš moje slovo, e tentokrát nezapomenu!}
-{511}{}{Dobøe.}
-{520}{}{Hele, víš co? Ta stovka hm...pomùe jenom trochu. Myslíš, e mi mùeš ještì trochu pùjèit?}
+{450}{}{Aha! To ti tak budu vÄ›Å™it. Becky by neublÃ­Å¾ila ani mouÅ¡e.}
+{451}{}{Tak to se pleteÅ¡, srÃ¡Äi.}
+{452}{}{MoÅ¾nÃ¡ to byl nÄ›kdo jinÃ½.}
+{460}{}{Sakra. MyslÃ­m Å¾e mÃ¡Å¡ pravdu, ale... jsem skoro Å¡vorc. Tolik penÄ›z si nemÅ¯Å¾u dovolit! MusÃ­m taky jÃ­st, vÃ­Å¡?}
+{461}{}{OmlouvÃ¡m se.}
+{462}{}{SmÅ¯la.}
+{470}{}{Sakra. StÄ›Å¾Ã­ si mÅ¯Å¾u dovolit 100. MÅ¯Å¾eÅ¡ mi pÅ¯jÄit pÅ¯lku? Slibuju, Å¾e ti to vrÃ¡tÃ­m!}
+{471}{}{Ne, promiÅˆ.}
+{472}{}{Ale no tak. ZaplaÅ¥ vÅ¡echno!}
+{473}{}{Tak dobÅ™e.}
+{480}{}{Sakra. To mÄ› zruinuje! Tak dobÅ™e, tady to mÃ¡Å¡. Ale teÄ jsem ÃºplnÄ› Å¡vorc.}
+{481}{}{Tak dobÅ™e. ZaloÅ¾Ã­m tÄ›.}
+{482}{}{DÃ­ky. PÅ™Ã­Å¡tÄ› se lÃ©pe starej o svoje penÃ­ze.}
+{483}{}{Bylo mi potÄ›Å¡enÃ­m s tebou spolupracovat.}
+{490}{}{Å˜Ã­kal jsem ti, Å¾e nemÅ¯Å¾u! UmÅ™el bych hlady. No tak, nemÅ¯Å¾eÅ¡ mi pomoct?}
+{491}{}{Tak dobÅ™e. PÅ¯jÄÃ­m ti pÅ¯lku.}
+{492}{}{Ne, promiÅˆ. Taky nemÃ¡m penÃ­ze.}
+{493}{}{JeÅ¡tÄ› se vrÃ¡tÃ­m.}
+{500}{}{Co? Opravdu? Jo, dÃ­ky moc, chlape! Tady je 100 babek. Tu stovku vrÃ¡tÃ­m co nejdÅ™Ã­v!}
+{501}{}{Co? Opravdu? Jo, dÃ­ky moc, sleÄno! Tady je 100 babek. Tu stovku vrÃ¡tÃ­m co nejdÅ™Ã­v!}
+{502}{}{Å½Ã¡dnÃ½ problÃ©m.}
+{503}{}{To bys opravdu mÄ›l.}
+{510}{}{No tak, neboj se. Fakt! MÃ¡Å¡ moje slovo, Å¾e tentokrÃ¡t nezapomenu!}
+{511}{}{DobÅ™e.}
+{520}{}{Hele, vÃ­Å¡ co? Ta stovka hm...pomÅ¯Å¾e jenom trochu. MyslÃ­Å¡, Å¾e mi mÅ¯Å¾eÅ¡ jeÅ¡tÄ› trochu pÅ¯jÄit?}
 {521}{}{Kolik za to?}
-{522}{}{Na to zapomeò.}
-{530}{}{Poèkej! U vím. Udìláme to takhle. Já ti dám $100, ty mi $100 pùjèíš a vrátíme to Becky. Brzo ti to splatím.}
-{531}{}{No tak dobøe.}
-{532}{}{Tvoji nabídku odmítáme.}
-{540}{}{Jenom $50. Prosím! Všechno je to souèást mého mistrovského plánu!}
-{541}{}{Tak dobøe.}
-{542}{}{Ale to budu mít jenom $50 na zaplacení tvého dluhu $200.}
+{522}{}{Na to zapomeÅˆ.}
+{530}{}{PoÄkej! UÅ¾ vÃ­m. UdÄ›lÃ¡me to takhle. JÃ¡ ti dÃ¡m $100, ty mi $100 pÅ¯jÄÃ­Å¡ a vrÃ¡tÃ­me to Becky. Brzo ti to splatÃ­m.}
+{531}{}{No tak dobÅ™e.}
+{532}{}{Tvoji nabÃ­dku odmÃ­tÃ¡me.}
+{540}{}{Jenom $50. ProsÃ­m! VÅ¡echno je to souÄÃ¡st mÃ©ho mistrovskÃ©ho plÃ¡nu!}
+{541}{}{Tak dobÅ™e.}
+{542}{}{Ale to budu mÃ­t jenom $50 na zaplacenÃ­ tvÃ©ho dluhu $200.}
 {543}{}{Ne.}
-{550}{}{Co... eh... sakra! Nebudeš toho litovat! Fakt se ti to vyplatí!}
-{551}{}{ádnı problém.}
-{560}{}{No, to jo. Vidím, e poèítat umíš. Prosím! Pro tebe to zase tolik není, ale pro mì je to strašnì moc.}
-{561}{}{Dobøe.}
+{550}{}{Co... eh... sakra! NebudeÅ¡ toho litovat! Fakt se ti to vyplatÃ­!}
+{551}{}{Å½Ã¡dnÃ½ problÃ©m.}
+{560}{}{No, to jo. VidÃ­m, Å¾e poÄÃ­tat umÃ­Å¡. ProsÃ­m! Pro tebe to zase tolik nenÃ­, ale pro mÄ› je to straÅ¡nÄ› moc.}
+{561}{}{DobÅ™e.}
 {562}{}{Ne.}
-{570}{}{Jo, to urèitì. Kadı ví, e to jméno nenávidí. Mì neoblafneš!}
-{571}{}{Nic jí nedluím.}
-{572}{}{Øíkala, e jsi trochu zapomnìtlivı.}
-{573}{}{Podívej se, na tohle nemám èas. Naval prachy!}
-{574}{}{Rebecca øíkala, e ti pùjèila u døív.}
-{580}{}{Ne, to nejsem! Já... poèkej. Asi máš pravdu. Já jsem to ještì nevrátil? Já myslel, e jo...}
-{581}{}{Ne, to jsi teda nevrátil. Proto poslala mì.}
-{582}{}{Prostì zapla a u mùu vypadnout.}
-{590}{}{Nevzpomínám si... ale Becky mì a mım pøátelùm pomáhala, to jo.}
-{591}{}{Naval 200 dolarù.}
-{592}{}{Prostì mi dej ty peníze.}
-{600}{}{Nech mì bıt.}
-{601}{}{Nevadí.}
-{602}{}{Dobøe.}
-{610}{}{Ehm. Nazdar. Take, ehm, pøedpokládám, e chceš peníze. Myslíš, e mì mùeš zaloit? Asi tak pùlku?}
-{611}{}{Ne, promiòte.}
-{612}{}{Jestli ti pùjèila 200 dolarù, tak je zaplatíš.}
-{613}{}{No tak dobøe.}
+{570}{}{Jo, to urÄitÄ›. KaÅ¾dÃ½ vÃ­, Å¾e to jmÃ©no nenÃ¡vidÃ­. MÄ› neoblafneÅ¡!}
+{571}{}{Nic jÃ­ nedluÅ¾Ã­m.}
+{572}{}{Å˜Ã­kala, Å¾e jsi trochu zapomnÄ›tlivÃ½.}
+{573}{}{PodÃ­vej se, na tohle nemÃ¡m Äas. Naval prachy!}
+{574}{}{Rebecca Å™Ã­kala, Å¾e ti pÅ¯jÄila uÅ¾ dÅ™Ã­v.}
+{580}{}{Ne, to nejsem! JÃ¡... poÄkej. Asi mÃ¡Å¡ pravdu. JÃ¡ jsem to jeÅ¡tÄ› nevrÃ¡til? JÃ¡ myslel, Å¾e jo...}
+{581}{}{Ne, to jsi teda nevrÃ¡til. Proto poslala mÄ›.}
+{582}{}{ProstÄ› zaplaÅ¥ aÅ¥ uÅ¾ mÅ¯Å¾u vypadnout.}
+{590}{}{NevzpomÃ­nÃ¡m si... ale Becky mÄ› a mÃ½m pÅ™Ã¡telÅ¯m pomÃ¡hala, to jo.}
+{591}{}{Naval 200 dolarÅ¯.}
+{592}{}{ProstÄ› mi dej ty penÃ­ze.}
+{600}{}{Nech mÄ› bÃ½t.}
+{601}{}{NevadÃ­.}
+{602}{}{DobÅ™e.}
+{610}{}{Ehm. Nazdar. TakÅ¾e, ehm, pÅ™edpoklÃ¡dÃ¡m, Å¾e chceÅ¡ penÃ­ze. MyslÃ­Å¡, Å¾e mÄ› mÅ¯Å¾eÅ¡ zaloÅ¾it? Asi tak pÅ¯lku?}
+{611}{}{Ne, promiÅˆte.}
+{612}{}{Jestli ti pÅ¯jÄila 200 dolarÅ¯, tak je zaplatÃ­Å¡.}
+{613}{}{No tak dobÅ™e.}

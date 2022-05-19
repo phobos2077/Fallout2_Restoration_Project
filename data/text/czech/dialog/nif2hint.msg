@@ -1,1 +1,1 @@
-{100}{}{Tahle kníka obsahuje TUNY informací o Falloutu 2. Je jich víc ne dost pro poøádné zlepšení tvıch schopností.}
+{100}{}{Tahle knÃ­Å¾ka obsahuje TUNY informacÃ­ o Falloutu 2. Je jich vÃ­c neÅ¾ dost pro poÅ™Ã¡dnÃ© zlepÅ¡enÃ­ tvÃ½ch schopnostÃ­.}

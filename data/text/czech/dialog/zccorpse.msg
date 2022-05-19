@@ -1,3 +1,3 @@
-{100}{}{Vidíš pìkného smolaøe.}
-{101}{}{Vypadá to, e tato osoba zemøela strašnou smrtí.}
+{100}{}{VidÃ­Å¡ pÄ›knÃ©ho smolaÅ™e.}
+{101}{}{VypadÃ¡ to, Å¾e tato osoba zemÅ™ela straÅ¡nou smrtÃ­.}
 {102}{}{To muselo bolet.}

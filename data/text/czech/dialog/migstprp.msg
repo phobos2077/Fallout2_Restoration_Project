@@ -1,2 +1,2 @@
-{100}{}{Tato tìla vypadají jako atrapy. Nic ne figuríny obalené brahmíními vnitønostmi.}
-{101}{}{Nìco tu nehraje.}
+{100}{}{Tato tÄ›la vypadajÃ­ jako atrapy. Nic neÅ¾ figurÃ­ny obalenÃ© brahmÃ­nÃ­mi vnitÅ™nostmi.}
+{101}{}{NÄ›co tu nehraje.}

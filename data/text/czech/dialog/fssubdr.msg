@@ -1,1 +1,1 @@
-{100}{}{Tyto dveøe jsou úplnì zrezivìlé. Nelze je otevøít.}
+{100}{}{Tyto dveÅ™e jsou ÃºplnÄ› zrezivÄ›lÃ©. Nelze je otevÅ™Ã­t.}

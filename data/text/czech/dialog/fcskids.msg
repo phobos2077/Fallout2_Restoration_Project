@@ -1,34 +1,34 @@
-{100}{}{Vidíš dítì.}
-{101}{}{Vidíš dítì.}
-{102}{}{Toto dítì vypadá stejnì jako ostatní dìti.}
-{103}{}{Vypadáš pìknì zle.}
-{104}{}{Neubliuj mi, jo?}
-{105}{}{Co máš s oèima?}
+{100}{}{VidÃ­Å¡ dÃ­tÄ›.}
+{101}{}{VidÃ­Å¡ dÃ­tÄ›.}
+{102}{}{Toto dÃ­tÄ› vypadÃ¡ stejnÄ› jako ostatnÃ­ dÄ›ti.}
+{103}{}{VypadÃ¡Å¡ pÄ›knÄ› zle.}
+{104}{}{NeubliÅ¾uj mi, jo?}
+{105}{}{Co mÃ¡Å¡ s oÄima?}
 {106}{}{To je lao wai?}
-{107}{}{Co jseš zaè?}
-{108}{}{Má tì nìkdo vùbec rád?}
-{109}{}{Nechceš doufám ublíit mojí mamince a tatínkovi, e ne?}
-{110}{}{Jdu si hrát.}
-{111}{}{Hehe! Ètyøoèko!}
+{107}{}{Co jseÅ¡ zaÄ?}
+{108}{}{MÃ¡ tÄ› nÄ›kdo vÅ¯bec rÃ¡d?}
+{109}{}{NechceÅ¡ doufÃ¡m ublÃ­Å¾it mojÃ­ mamince a tatÃ­nkovi, Å¾e ne?}
+{110}{}{Jdu si hrÃ¡t.}
+{111}{}{Hehe! ÄŒtyÅ™oÄko!}
 {112}{}{Poplach, blbec! Poplach, blbec!}
-{113}{}{::oèi dítìte se rozšíøí kdy kolem projde Marcus::}
-{114}{}{To je opravdu velkej zelenej pán.}
-{115}{}{Proè ten chlap nosí sukni?}
+{113}{}{::oÄi dÃ­tÄ›te se rozÅ¡Ã­Å™Ã­ kdyÅ¾ kolem projde Marcus::}
+{114}{}{To je opravdu velkej zelenej pÃ¡n.}
+{115}{}{ProÄ ten chlap nosÃ­ sukni?}
 {116}{}{Chce snad ten chlap bejt holka?}
-{117}{}{Ááááá! Divoch!}
-{118}{}{Ahoj, pane! Máte kost v nose!}
-{119}{}{Ááááá! Zombie!}
-{120}{}{Mami, je ten mu nakalivej?}
+{117}{}{ÃÃ¡Ã¡Ã¡Ã¡! Divoch!}
+{118}{}{Ahoj, pane! MÃ¡te kost v nose!}
+{119}{}{ÃÃ¡Ã¡Ã¡Ã¡! Zombie!}
+{120}{}{Mami, je ten muÅ¾ nakaÅ¾livej?}
 {121}{}{Roztomilej pejsek! Hodnej pejsek!}
-{122}{}{Ááááá! Pøíšera!}
-{123}{}{Koukejte na toho blbeèka!}
-{124}{}{To je tvoje máma?}
-{125}{}{Pomoc! Jde po mì robot!}
-{126}{}{Pomoc! Jde po mì robot!}
-{127}{}{Není ti v tom horko? Haló? Slyšíš mì vùbec?}
-{128}{}{Co jseš zaè? Jseš vùbec èlovìk?}
-{129}{}{Jseš hroznì velkej.}
+{122}{}{ÃÃ¡Ã¡Ã¡Ã¡! PÅ™Ã­Å¡era!}
+{123}{}{Koukejte na toho blbeÄka!}
+{124}{}{To je tvoje mÃ¡ma?}
+{125}{}{Pomoc! Jde po mÄ› robot!}
+{126}{}{Pomoc! Jde po mÄ› robot!}
+{127}{}{NenÃ­ ti v tom horko? HalÃ³? SlyÅ¡Ã­Å¡ mÄ› vÅ¯bec?}
+{128}{}{Co jseÅ¡ zaÄ? JseÅ¡ vÅ¯bec ÄlovÄ›k?}
+{129}{}{JseÅ¡ hroznÄ› velkej.}
 {130}{}{Tyyyyy jo!}
-{131}{}{Neubliuj mi!}
-{132}{}{::pláèe::}
+{131}{}{NeubliÅ¾uj mi!}
+{132}{}{::plÃ¡Äe::}
 {133}{}{Pomoc, maaamiiii!}

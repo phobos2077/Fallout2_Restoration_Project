@@ -1,2 +1,2 @@
 {100}{}{Panejo...}
-{101}{}{Pøicházíš k sobì asi po dvou hodinách. Tøeští ti hlava a cítíš se trochu jinak.}
+{101}{}{PÅ™ichÃ¡zÃ­Å¡ k sobÄ› asi po dvou hodinÃ¡ch. TÅ™eÅ¡tÃ­ ti hlava a cÃ­tÃ­Å¡ se trochu jinak.}

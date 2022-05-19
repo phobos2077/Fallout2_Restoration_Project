@@ -1,65 +1,65 @@
-{100}{}{Vidíš starého Algernona s otevøenou pusou.}
-{101}{}{Vidíš Algernona.}
-{150}{}{Vidíš špinavého mue s otevøenou pusou. Pohupuje se a nìco si píská.}
-{151}{}{Vidíš Algernona. Vypadá to, jako by si hrál na raketového inenıra ve své hlavì.}
+{100}{}{VidÃ­Å¡ starÃ©ho Algernona s otevÅ™enou pusou.}
+{101}{}{VidÃ­Å¡ Algernona.}
+{150}{}{VidÃ­Å¡ Å¡pinavÃ©ho muÅ¾e s otevÅ™enou pusou. Pohupuje se a nÄ›co si pÃ­skÃ¡.}
+{151}{}{VidÃ­Å¡ Algernona. VypadÃ¡ to, jako by si hrÃ¡l na raketovÃ©ho inÅ¾enÃ½ra ve svÃ© hlavÄ›.}
 {200}{}{Pif paf}
-{201}{}{Šššššš buum!}
-{202}{}{Dzín! Dzín!}
-{203}{}{Ššššššššššuuuuuu... *BÙM!*}
-{204}{}{Bác!}
-{205}{}{Bùm! Bù-bù-bùm!}
-{206}{}{D-d-d}
-{207}{}{D-d-d}
-{208}{}{Prásk! Prásk prásk prásk!}
-{209}{}{Prásk!}
+{201}{}{Å Å¡Å¡Å¡Å¡Å¡ buum!}
+{202}{}{DzÃ­n! DzÃ­n!}
+{203}{}{Å Å¡Å¡Å¡Å¡Å¡Å¡Å¡Å¡Å¡uuuuuu... *BÅ®M!*}
+{204}{}{BÃ¡c!}
+{205}{}{BÅ¯m! BÅ¯-bÅ¯-bÅ¯m!}
+{206}{}{DÅ¾-dÅ¾-dÅ¾}
+{207}{}{DÅ¾-dÅ¾-dÅ¾}
+{208}{}{PrÃ¡sk! PrÃ¡sk prÃ¡sk prÃ¡sk!}
+{209}{}{PrÃ¡sk!}
 {210}{}{Lup! Lup!}
-{211}{}{Bøink!}
-{212}{}{Øach!}
+{211}{}{BÅ™ink!}
+{212}{}{Å˜ach!}
 {213}{}{Ratatatatata}
-{214}{}{Tøísk}
-{220}{}{(Algernon se na tebe podívá a ukáe ti svùj bezzubı úsmìv.) Bùm! }
-{221}{}{(Mu s otevøenou pusou se na tebe podívá a ukáe ti svùj bezzubı úsmìv. Na jeho trièku je pøišita jmenovka "Algernon", která je napsána kurzívou.) Bùm! }
-{222}{}{(Kdy spatøí tvoje zbranì, zaène na nì nadšenì ukazovat.) Bùm!}
-{223}{}{Bùm!}
+{214}{}{TÅ™Ã­sk}
+{220}{}{(Algernon se na tebe podÃ­vÃ¡ a ukÃ¡Å¾e ti svÅ¯j bezzubÃ½ ÃºsmÄ›v.) BÅ¯m! }
+{221}{}{(MuÅ¾ s otevÅ™enou pusou se na tebe podÃ­vÃ¡ a ukÃ¡Å¾e ti svÅ¯j bezzubÃ½ ÃºsmÄ›v. Na jeho triÄku je pÅ™iÅ¡ita jmenovka "Algernon", kterÃ¡ je napsÃ¡na kurzÃ­vou.) BÅ¯m! }
+{222}{}{(KdyÅ¾ spatÅ™Ã­ tvoje zbranÄ›, zaÄne na nÄ› nadÅ¡enÄ› ukazovat.) BÅ¯m!}
+{223}{}{BÅ¯m!}
 {224}{}{Odbelhat se.}
-{225}{}{Eh... chceš se podívat na nìjakou z mıch zbraní?}
-{226}{}{Jo, tobì taky "bùm". Algernone, mùeš mi vylepšit nìjakou zbraò?}
-{227}{}{Eh, ne "bùm", teï ne. Díky. Nashle.}
-{230}{}{Hé! Hehé! (Algernon se zaène smát a poté na tebe ukáe prstem, jako by drel pistoli.) Prásk prásk!}
-{231}{}{Netrefit, netrefit! Tady máš! (Ukázat na nìj prstem, jako kdybys mìl pistoli.) PIF! PAF!}
-{232}{}{Eh. Já mrtvı. Já jít nìkam jinam.}
-{235}{}{(Algernon se na tebe udivenì podívá a poté se pomalu podívá na místo, kam byl 'zasaen'. Náhle dostane závra, jeho oèi se obrátí v sloup a padne k zemi, mrtev.)}
-{236}{}{Eh, Ale? Ty v poøádku?}
+{225}{}{Eh... chceÅ¡ se podÃ­vat na nÄ›jakou z mÃ½ch zbranÃ­?}
+{226}{}{Jo, tobÄ› taky "bÅ¯m". Algernone, mÅ¯Å¾eÅ¡ mi vylepÅ¡it nÄ›jakou zbraÅˆ?}
+{227}{}{Eh, ne "bÅ¯m", teÄ ne. DÃ­ky. Nashle.}
+{230}{}{HÃ©! HehÃ©! (Algernon se zaÄne smÃ¡t a potÃ© na tebe ukÃ¡Å¾e prstem, jako by drÅ¾el pistoli.) PrÃ¡sk prÃ¡sk!}
+{231}{}{Netrefit, netrefit! Tady mÃ¡Å¡! (UkÃ¡zat na nÄ›j prstem, jako kdybys mÄ›l pistoli.) PIF! PAF!}
+{232}{}{Eh. JÃ¡ mrtvÃ½. JÃ¡ jÃ­t nÄ›kam jinam.}
+{235}{}{(Algernon se na tebe udivenÄ› podÃ­vÃ¡ a potÃ© se pomalu podÃ­vÃ¡ na mÃ­sto, kam byl 'zasaÅ¾en'. NÃ¡hle dostane zÃ¡vraÅ¥, jeho oÄi se obrÃ¡tÃ­ v sloup a padne k zemi, mrtev.)}
+{236}{}{Eh, Ale? Ty v poÅ™Ã¡dku?}
 {237}{}{A sakra.}
-{240}{}{(Nehıbe se.)}
-{241}{}{(Zaèít tleskat.)}
-{245}{}{(Nezvedá se a ani nedıchá.)}
-{250}{}{(Co mu chceš dát?)}
-{251}{}{Dát mu jednu svoji pistoli.}
-{252}{}{Dát mu jednu svoji pušku.}
-{253}{}{Dát mu svoji náplò do plamenometu.}
-{254}{}{Dát mu jednu ze svıch chladnıch zbraní.}
-{255}{}{Promiò, ale myslím, e pro tebe nic nemám, Ale. Moná pøíštì.}
-{256}{}{Vlastnì myslím, e není zrovna nejlepší nápad dát do rukou zbraò oèividnému retardovi. Legraèní moná, ale chytré urèitì ne. Mìj se.}
-{260}{}{(Al si vezme tvoji vìc a v oèích se mu zablıskne. Chvíli si s ní hraje, poté ještì nìkolik minut, poté ještì... a o hodinu pozdìji ti ji Al vrátí zpìt s pokyvováním a ïábelskım úsmìvem.) *Bùùùùùùùùm.*}
-{261}{}{Poslyš... mùeš vylepšit i TOHLE?}
-{262}{}{Díky, Ale.}
+{240}{}{(NehÃ½be se.)}
+{241}{}{(ZaÄÃ­t tleskat.)}
+{245}{}{(NezvedÃ¡ se a ani nedÃ½chÃ¡.)}
+{250}{}{(Co mu chceÅ¡ dÃ¡t?)}
+{251}{}{DÃ¡t mu jednu svoji pistoli.}
+{252}{}{DÃ¡t mu jednu svoji puÅ¡ku.}
+{253}{}{DÃ¡t mu svoji nÃ¡plÅˆ do plamenometu.}
+{254}{}{DÃ¡t mu jednu ze svÃ½ch chladnÃ½ch zbranÃ­.}
+{255}{}{PromiÅˆ, ale myslÃ­m, Å¾e pro tebe nic nemÃ¡m, Ale. MoÅ¾nÃ¡ pÅ™Ã­Å¡tÄ›.}
+{256}{}{VlastnÄ› myslÃ­m, Å¾e nenÃ­ zrovna nejlepÅ¡Ã­ nÃ¡pad dÃ¡t do rukou zbraÅˆ oÄividnÃ©mu retardovi. LegraÄnÃ­ moÅ¾nÃ¡, ale chytrÃ© urÄitÄ› ne. MÄ›j se.}
+{260}{}{(Al si vezme tvoji vÄ›c a v oÄÃ­ch se mu zablÃ½skne. ChvÃ­li si s nÃ­ hraje, potÃ© jeÅ¡tÄ› nÄ›kolik minut, potÃ© jeÅ¡tÄ›... a o hodinu pozdÄ›ji ti ji Al vrÃ¡tÃ­ zpÄ›t s pokyvovÃ¡nÃ­m a ÄÃ¡belskÃ½m ÃºsmÄ›vem.) *BÅ¯Å¯Å¯Å¯Å¯Å¯Å¯Å¯m.*}
+{261}{}{PoslyÅ¡... mÅ¯Å¾eÅ¡ vylepÅ¡it i TOHLE?}
+{262}{}{DÃ­ky, Ale.}
 {265}{}{(Kterou?)}
 {266}{}{Tvoji .44 Magnum.}
 {267}{}{Tvoji Desert Eagle.}
 {268}{}{Tvoji Wattz 1000 laserovou pistoli.}
 {269}{}{Tvoji Glock 86 plazmovou pistoli.}
-{270}{}{Prohrabat se v batohu a dát mu nìco jiného...}
-{271}{}{Zapomeò na to, Ale. Uvidíme se pozdìji.}
-{272}{}{Zapomeò na to, dítì... pro dnešek ádné hraèky. Nashle.}
-{276}{}{Tvoji Colt loveckou pušku.}
-{277}{}{Tvoji útoènou pušku AK-112.}
+{270}{}{Prohrabat se v batohu a dÃ¡t mu nÄ›co jinÃ©ho...}
+{271}{}{ZapomeÅˆ na to, Ale. UvidÃ­me se pozdÄ›ji.}
+{272}{}{ZapomeÅˆ na to, dÃ­tÄ›... pro dneÅ¡ek Å¾Ã¡dnÃ© hraÄky. Nashle.}
+{276}{}{Tvoji Colt loveckou puÅ¡ku.}
+{277}{}{Tvoji ÃºtoÄnou puÅ¡ku AK-112.}
 {278}{}{Tvoji FN FAL.}
-{279}{}{Tvoji Wattz 2000 laserovou pušku.}
-{280}{}{Tvùj Flambe 450 plamenomet.}
-{281}{}{Tvoji plazmovou pušku.}
-{291}{}{Nechceš se mrknout na tuhle náplò do plamenometu?}
-{292}{}{Tady máš náplò do plamenometu. Mùeš s tím nìco udìlat?}
-{301}{}{Dát mu svùj elektrickı obušek. Eh... a se ujistíš, e ho vezme za dradlo.}
+{279}{}{Tvoji Wattz 2000 laserovou puÅ¡ku.}
+{280}{}{TvÅ¯j Flambe 450 plamenomet.}
+{281}{}{Tvoji plazmovou puÅ¡ku.}
+{291}{}{NechceÅ¡ se mrknout na tuhle nÃ¡plÅˆ do plamenometu?}
+{292}{}{Tady mÃ¡Å¡ nÃ¡plÅˆ do plamenometu. MÅ¯Å¾eÅ¡ s tÃ­m nÄ›co udÄ›lat?}
+{301}{}{DÃ¡t mu svÅ¯j elektrickÃ½ obuÅ¡ek. Eh... aÅ¾ se ujistÃ­Å¡, Å¾e ho vezme za drÅ¾adlo.}
 {302}{}{Your BeatCo "Bigger Frigger" Power Fist.}
-{400}{}{Já zabít Al. Já jít nìkam jinam.}
+{400}{}{JÃ¡ zabÃ­t Al. JÃ¡ jÃ­t nÄ›kam jinam.}

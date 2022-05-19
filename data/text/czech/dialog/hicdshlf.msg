@@ -1,11 +1,11 @@
-{100}{}{Otevíráš prádelník a nacházíš øadu sloek a poznámek.}
-{101}{}{Prohledat prádelník.}
-{102}{}{Odejít.}
-{103}{}{Pøi prohledávání záznamù v prádelníku nacházíš tenkı koenı kuføík úplnì dole.}
-{104}{}{Vytáhnout kuføík.}
-{105}{}{Nevšímat si kuføíku a pokraèovat v prohledávání záznamù.}
-{106}{}{Uplynulo dlouhıch tøicet minut a poøád nenacházíš nic dùleitého. Vše, na co jsi pøišel, je to, e Chad vlastní záznamy, které dokumentují kadı okamik jeho ivota. Je to ve skuteènosti pìknì nudnı chlapík. Zrovna ses chystal prádelník zavøít, kdy uslyšíš zvenèí kašlání a skøípání kliky od dveøí...}
-{107}{}{Vytáhnout kuføík.}
-{108}{}{V kuføíku nacházíš dokumenty dokazující, e si Chad po celá léta uléval peníze z karavan.}
-{109}{}{Pane jo... to opravdu vypadá, e Chad okrádal karavany o peníze. Zjevnì se i pøipravoval opustit mìsto. Asi bude lepší o tom všem informovat Marcuse.}
-{110}{}{Uplynulo dlouhıch tøicet minut a poøád nenacházíš nic dùleitého. Vše, na co jsi pøišel, je to, e Chad vlastní záznamy, které dokumentují kadı okamik jeho ivota. Je to ve skuteènosti pìknì nudnı chlapík.}
+{100}{}{OtevÃ­rÃ¡Å¡ prÃ¡delnÃ­k a nachÃ¡zÃ­Å¡ Å™adu sloÅ¾ek a poznÃ¡mek.}
+{101}{}{Prohledat prÃ¡delnÃ­k.}
+{102}{}{OdejÃ­t.}
+{103}{}{PÅ™i prohledÃ¡vÃ¡nÃ­ zÃ¡znamÅ¯ v prÃ¡delnÃ­ku nachÃ¡zÃ­Å¡ tenkÃ½ koÅ¾enÃ½ kufÅ™Ã­k ÃºplnÄ› dole.}
+{104}{}{VytÃ¡hnout kufÅ™Ã­k.}
+{105}{}{NevÅ¡Ã­mat si kufÅ™Ã­ku a pokraÄovat v prohledÃ¡vÃ¡nÃ­ zÃ¡znamÅ¯.}
+{106}{}{Uplynulo dlouhÃ½ch tÅ™icet minut a poÅ™Ã¡d nenachÃ¡zÃ­Å¡ nic dÅ¯leÅ¾itÃ©ho. VÅ¡e, na co jsi pÅ™iÅ¡el, je to, Å¾e Chad vlastnÃ­ zÃ¡znamy, kterÃ© dokumentujÃ­ kaÅ¾dÃ½ okamÅ¾ik jeho Å¾ivota. Je to ve skuteÄnosti pÄ›knÄ› nudnÃ½ chlapÃ­k. Zrovna ses chystal prÃ¡delnÃ­k zavÅ™Ã­t, kdyÅ¾ uslyÅ¡Ã­Å¡ zvenÄÃ­ kaÅ¡lÃ¡nÃ­ a skÅ™Ã­pÃ¡nÃ­ kliky od dveÅ™Ã­...}
+{107}{}{VytÃ¡hnout kufÅ™Ã­k.}
+{108}{}{V kufÅ™Ã­ku nachÃ¡zÃ­Å¡ dokumenty dokazujÃ­cÃ­, Å¾e si Chad po celÃ¡ lÃ©ta ulÃ©val penÃ­ze z karavan.}
+{109}{}{Pane jo... to opravdu vypadÃ¡, Å¾e Chad okrÃ¡dal karavany o penÃ­ze. ZjevnÄ› se i pÅ™ipravoval opustit mÄ›sto. Asi bude lepÅ¡Ã­ o tom vÅ¡em informovat Marcuse.}
+{110}{}{Uplynulo dlouhÃ½ch tÅ™icet minut a poÅ™Ã¡d nenachÃ¡zÃ­Å¡ nic dÅ¯leÅ¾itÃ©ho. VÅ¡e, na co jsi pÅ™iÅ¡el, je to, Å¾e Chad vlastnÃ­ zÃ¡znamy, kterÃ© dokumentujÃ­ kaÅ¾dÃ½ okamÅ¾ik jeho Å¾ivota. Je to ve skuteÄnosti pÄ›knÄ› nudnÃ½ chlapÃ­k.}

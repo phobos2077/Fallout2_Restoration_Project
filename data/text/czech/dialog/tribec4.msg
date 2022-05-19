@@ -1,74 +1,74 @@
-{100}{}{Vidíš malého mladého mue v hadrech.}
-{101}{}{Vidíš vesnického šamana.}
-{102}{}{Tento mladı mu zírá do dáli a má vystrašenı vıraz ve tváøi.}
-{103}{}{Šaman se u zdá bıt mnohem klidnìjší.}
-{200}{}{(Vypadá velmi zamyšlenì. Jakmile tì spatøí, polekanì vyskoèí, ale poté se rychle uklidní.) Eh, ano, cizinèe? Jestli pøicházíš hledat duchovní porozumìní, tak to bohuel v tuto chvíli nenabízím. Moná... moná nìkdy jindy.}
-{201}{}{Co to?! Aha, to jsi zase ty. Radìji s tím plíením pøestaò. Poslyš, mám toho teï hodnì, ale moná ti budu schopen pomoct nìkdy jindy.}
-{202}{}{Zdá se, e tì nìco trápí. Mùu ti s nìèím pomoct?}
-{203}{}{Pøijdu pozdìji.}
-{204}{}{Hehe! Já tebe vystrašit! Baf!}
-{210}{}{Cením si tvé nabídky, ale... ne, ne, jde o osobní záleitost, které musím èelit sám.}
-{211}{}{(Na chvíli se zamyslí a poté povzdechne.) Velmi nerad to pøiznávám, ale... víš, nikdy jsem vlastnì *nevìøil* na duchy, posmrtnı ivot, prostì na nic z toho. Je mi jasné, co si teï myslíš. K èemu je dobrı šaman, kterı nevìøí? Jde o to, e, no, buï jsem mìl na vıbìr tohle, nebo vzít do ruky oštìp a jít lovit geckony s ostatními váleèníky. Pøipadám ti snad jako váleèník? Zadr, neodpovídej.}
-{212}{}{Take jsi zbabìlec a podvodník. Hnusíš se mi.}
-{213}{}{Pokud nevìøíš, tak jak dohlííš na duchovní potøeby vesnice?}
-{220}{}{Nemám ti to za zlé. Vlastnì se sám sobì také dost hnusím. Nevím, proè jsem vùbec doufal, e mi pomùeš. Rozhodnì si ádnou pomoc nezaslouím. Dostal jsem se do této situace vlastní vinou, take je jenom na mnì, abych se z ní dostal. A teï kdy mì omluvíš...}
-{221}{}{Tak poèkat, pane lítostnej. Co kdybys mi øekl, jak jsi myslel, e ti mùu pomoct?}
-{222}{}{Ne. Neomluvím tì... zlikviduju tì a zbavím tenhle svìt tvé ubohé existence!}
-{230}{}{No, a do nedávné doby jsem byl pouhım podøízenım vesnického šamana. Nebylo to nic tìkého, jen jsem dìlal to, co mi øekl. Jene jednou o pùlnoci si šel oralı zaplavat do Velké Slané Vody a, no, já byl najednou povıšen. Netušil jsem, e to bude tak zlé. Myslel jsem si, e budu jen ze sebe chrlit nìjaké okultní nesmysly a všichni budou šastní. Mılil jsem se. Toho dne, kdy jsem získal titul šamana, jsem se zapletl do nìèeho, co bylo nad moje síly.}
+{100}{}{VidÃ­Å¡ malÃ©ho mladÃ©ho muÅ¾e v hadrech.}
+{101}{}{VidÃ­Å¡ vesnickÃ©ho Å¡amana.}
+{102}{}{Tento mladÃ½ muÅ¾ zÃ­rÃ¡ do dÃ¡li a mÃ¡ vystraÅ¡enÃ½ vÃ½raz ve tvÃ¡Å™i.}
+{103}{}{Å aman se uÅ¾ zdÃ¡ bÃ½t mnohem klidnÄ›jÅ¡Ã­.}
+{200}{}{(VypadÃ¡ velmi zamyÅ¡lenÄ›. Jakmile tÄ› spatÅ™Ã­, polekanÄ› vyskoÄÃ­, ale potÃ© se rychle uklidnÃ­.) Eh, ano, cizinÄe? Jestli pÅ™ichÃ¡zÃ­Å¡ hledat duchovnÃ­ porozumÄ›nÃ­, tak to bohuÅ¾el v tuto chvÃ­li nenabÃ­zÃ­m. MoÅ¾nÃ¡... moÅ¾nÃ¡ nÄ›kdy jindy.}
+{201}{}{Co to?! Aha, to jsi zase ty. RadÄ›ji s tÃ­m plÃ­Å¾enÃ­m pÅ™estaÅˆ. PoslyÅ¡, mÃ¡m toho teÄ hodnÄ›, ale moÅ¾nÃ¡ ti budu schopen pomoct nÄ›kdy jindy.}
+{202}{}{ZdÃ¡ se, Å¾e tÄ› nÄ›co trÃ¡pÃ­. MÅ¯Å¾u ti s nÄ›ÄÃ­m pomoct?}
+{203}{}{PÅ™ijdu pozdÄ›ji.}
+{204}{}{Hehe! JÃ¡ tebe vystraÅ¡it! Baf!}
+{210}{}{CenÃ­m si tvÃ© nabÃ­dky, ale... ne, ne, jde o osobnÃ­ zÃ¡leÅ¾itost, kterÃ© musÃ­m Äelit sÃ¡m.}
+{211}{}{(Na chvÃ­li se zamyslÃ­ a potÃ© povzdechne.) Velmi nerad to pÅ™iznÃ¡vÃ¡m, ale... vÃ­Å¡, nikdy jsem vlastnÄ› *nevÄ›Å™il* na duchy, posmrtnÃ½ Å¾ivot, prostÄ› na nic z toho. Je mi jasnÃ©, co si teÄ myslÃ­Å¡. K Äemu je dobrÃ½ Å¡aman, kterÃ½ nevÄ›Å™Ã­? Jde o to, Å¾e, no, buÄ jsem mÄ›l na vÃ½bÄ›r tohle, nebo vzÃ­t do ruky oÅ¡tÄ›p a jÃ­t lovit geckony s ostatnÃ­mi vÃ¡leÄnÃ­ky. PÅ™ipadÃ¡m ti snad jako vÃ¡leÄnÃ­k? ZadrÅ¾, neodpovÃ­dej.}
+{212}{}{TakÅ¾e jsi zbabÄ›lec a podvodnÃ­k. HnusÃ­Å¡ se mi.}
+{213}{}{Pokud nevÄ›Å™Ã­Å¡, tak jak dohlÃ­Å¾Ã­Å¡ na duchovnÃ­ potÅ™eby vesnice?}
+{220}{}{NemÃ¡m ti to za zlÃ©. VlastnÄ› se sÃ¡m sobÄ› takÃ© dost hnusÃ­m. NevÃ­m, proÄ jsem vÅ¯bec doufal, Å¾e mi pomÅ¯Å¾eÅ¡. RozhodnÄ› si Å¾Ã¡dnou pomoc nezaslouÅ¾Ã­m. Dostal jsem se do tÃ©to situace vlastnÃ­ vinou, takÅ¾e je jenom na mnÄ›, abych se z nÃ­ dostal. A teÄ kdyÅ¾ mÄ› omluvÃ­Å¡...}
+{221}{}{Tak poÄkat, pane lÃ­tostnej. Co kdybys mi Å™ekl, jak jsi myslel, Å¾e ti mÅ¯Å¾u pomoct?}
+{222}{}{Ne. NeomluvÃ­m tÄ›... zlikviduju tÄ› a zbavÃ­m tenhle svÄ›t tvÃ© ubohÃ© existence!}
+{230}{}{No, aÅ¾ do nedÃ¡vnÃ© doby jsem byl pouhÃ½m podÅ™Ã­zenÃ½m vesnickÃ©ho Å¡amana. Nebylo to nic tÄ›Å¾kÃ©ho, jen jsem dÄ›lal to, co mi Å™ekl. JenÅ¾e jednou o pÅ¯lnoci si Å¡el oÅ¾ralÃ½ zaplavat do VelkÃ© SlanÃ© Vody a, no, jÃ¡ byl najednou povÃ½Å¡en. NetuÅ¡il jsem, Å¾e to bude tak zlÃ©. Myslel jsem si, Å¾e budu jen ze sebe chrlit nÄ›jakÃ© okultnÃ­ nesmysly a vÅ¡ichni budou Å¡Å¥astnÃ­. MÃ½lil jsem se. Toho dne, kdy jsem zÃ­skal titul Å¡amana, jsem se zapletl do nÄ›Äeho, co bylo nad moje sÃ­ly.}
 {231}{}{Co se stalo?}
-{240}{}{V lese jinì od vesnice se potuluje *skuteènı* duch! Nevymıšlím si, vidìl jsem ho na vlastní oèi. Byla to hezká dívka s mrtvolnım vırazem ve tváøi. Z toho pohledu ve mì zamrazilo a do morku kostí. Kdy jsem ji spatøil, pochcal jsem se a utíkal jsem jak nejrychleji to šlo. Lidé ode mì oèekávají, e se tam vrátím a zavedu ji do mlhy, ale jak to mám udìlat? Jsem pøíliš vystrašenı na to, abych se k ní opìt pøiblíil.}
-{241}{}{Take jak mùu pomoct?}
-{242}{}{Pokud se ti nìkde neválí extra pár koulí, které na tebe mùu pøipíchnout, tak nevím, jak ti mùu pomoct.}
-{250}{}{Mùeš k ní zajít a pokusit se zjistit, proè setrvává v øíši smrtelníkù. Objevuje se vdy v noci na jihu v lese. Pokud se ti podaøí zjistit cokoliv, co by mi mohlo pomoct, budu ti velice vdìènı.}
-{251}{}{To není mùj problém. Je naèase se zachovat jako chlap a udìlat svoji práci.}
-{252}{}{Podívám se na to.}
-{260}{}{Rozleelo se ti to v hlavì? Pomùeš mi s tím ztracenım duchem?}
-{261}{}{Tak znova, to není mùj problém. Nashle.}
-{262}{}{Eh, myslím, e se na to asi mùu podívat. Dám ti vìdìt, pokud nìco zjistím.}
-{270}{}{Vítej zpìt. Podaøilo se ti zjistit nìco o tom ztraceném duchovi?}
-{271}{}{Pracuju na tom. Ještì se vrátím.}
-{272}{}{Mluvil jsem s... eh, vyslyšel jsem... toho ducha. Zdá se, e ji zradil a zavradil její milenec, nìjakı Thorg.}
-{280}{}{Thorg?! To je ten šaman, pod kterım jsem slouil. Vìdìl jsem, e je tak trochu kretén, ale netušil jsem, e je z nìj zabiják hezkıch, mladıch dìvèat. Hmm, tím se vysvìtluje, proè si chtìl oralı zaplavat, co nakonec skonèilo jeho smrtí... mìl vıèitky svìdomí. Take Thorg je vrah... kdo by to byl øekl...}
-{281}{}{Take co teï?}
-{290}{}{(Hluboce povzdechne.) Teï myslím, e bych ji mìl zavést do mlhy. Myslím, e to dokáu, ale musíš jít se mnou. V ádném pøípadì nebudu schopen ji èelit sám a nikdo jinı z vesnice se mnou nepùjde... vìøí, e setkání se ztracenım duchem je pro ne-šamana pøedzvìst nìèeho špatného.}
-{291}{}{Nee. U jsem pro tebe udìlal dost. Je to jen na tobì.}
-{292}{}{Nemìj strach, pomùu ti s tím.}
-{293}{}{Dobøe, udìlám to, ale jenom proto, e bude sranda tì pozorovat, jak se klepeš strachy.}
-{300}{}{Prosím, øekni mi, e se ti to rozleelo v hlavì. Pùjdeš se mnou za tím ztracenım duchem, e ano?}
-{301}{}{Ne. Je to jen na tobì. Nashle.}
-{302}{}{Dobøe, udìlám to, ale jenom proto, e bude sranda tì pozorovat, jak se klepeš strachy.}
-{310}{}{A doprdele... a doprdele... ne, já to nedokáu... dobøe. Nesso?}
-{311}{}{Ách... tak chladnı a sám...}
-{312}{}{Nesso, slyš mùj hlas. Volám na tebe z øíše smrtelníkù.}
-{313}{}{Já... nìkoho slyším! Kdo je tam? }
-{314}{}{Jsem šaman této vesnice. Musíš vstoupit do mlhy. Tam najdeš svùj klid.}
-{315}{}{Ano! Ano, u vidím mlhu. Vidím volající duchy.}
-{316}{}{Jdi za nimi, Nesso. Vstup do mlhy a pøidej se ke svım pøedkùm.}
-{317}{}{U nejsem sama.}
-{320}{}{Dìkuji ti za pomoc pøi záchranì Serina. Dal jsem mu nìjaké byliny, které utiší jeho bolest a pomohou mu s odpoèinkem. Kdy duchové svolí, bude zpìt na nohou za nìkolik dní.}
-{330}{}{Uka... no vıbornì. Ty budou skvìlé. Tady máš za to nìjaké léèivé prášky. Nech tì provázejí tví pøedkové.}
-{400}{}{Jo, jo, velmi vtipné. A teï bì. Mám práci.}
-{401}{}{::Naznaèit odchod a poté se rychle otoèit:: Baf!}
-{410}{}{Zatracenì! Vypadni odtud! Bì!}
+{240}{}{V lese jiÅ¾nÄ› od vesnice se potuluje *skuteÄnÃ½* duch! NevymÃ½Å¡lÃ­m si, vidÄ›l jsem ho na vlastnÃ­ oÄi. Byla to hezkÃ¡ dÃ­vka s mrtvolnÃ½m vÃ½razem ve tvÃ¡Å™i. Z toho pohledu ve mÄ› zamrazilo aÅ¾ do morku kostÃ­. KdyÅ¾ jsem ji spatÅ™il, pochcal jsem se a utÃ­kal jsem jak nejrychleji to Å¡lo. LidÃ© ode mÄ› oÄekÃ¡vajÃ­, Å¾e se tam vrÃ¡tÃ­m a zavedu ji do mlhy, ale jak to mÃ¡m udÄ›lat? Jsem pÅ™Ã­liÅ¡ vystraÅ¡enÃ½ na to, abych se k nÃ­ opÄ›t pÅ™iblÃ­Å¾il.}
+{241}{}{TakÅ¾e jak mÅ¯Å¾u pomoct?}
+{242}{}{Pokud se ti nÄ›kde nevÃ¡lÃ­ extra pÃ¡r koulÃ­, kterÃ© na tebe mÅ¯Å¾u pÅ™ipÃ­chnout, tak nevÃ­m, jak ti mÅ¯Å¾u pomoct.}
+{250}{}{MÅ¯Å¾eÅ¡ k nÃ­ zajÃ­t a pokusit se zjistit, proÄ setrvÃ¡vÃ¡ v Å™Ã­Å¡i smrtelnÃ­kÅ¯. Objevuje se vÅ¾dy v noci na jihu v lese. Pokud se ti podaÅ™Ã­ zjistit cokoliv, co by mi mohlo pomoct, budu ti velice vdÄ›ÄnÃ½.}
+{251}{}{To nenÃ­ mÅ¯j problÃ©m. Je naÄase se zachovat jako chlap a udÄ›lat svoji prÃ¡ci.}
+{252}{}{PodÃ­vÃ¡m se na to.}
+{260}{}{RozleÅ¾elo se ti to v hlavÄ›? PomÅ¯Å¾eÅ¡ mi s tÃ­m ztracenÃ½m duchem?}
+{261}{}{Tak znova, to nenÃ­ mÅ¯j problÃ©m. Nashle.}
+{262}{}{Eh, myslÃ­m, Å¾e se na to asi mÅ¯Å¾u podÃ­vat. DÃ¡m ti vÄ›dÄ›t, pokud nÄ›co zjistÃ­m.}
+{270}{}{VÃ­tej zpÄ›t. PodaÅ™ilo se ti zjistit nÄ›co o tom ztracenÃ©m duchovi?}
+{271}{}{Pracuju na tom. JeÅ¡tÄ› se vrÃ¡tÃ­m.}
+{272}{}{Mluvil jsem s... eh, vyslyÅ¡el jsem... toho ducha. ZdÃ¡ se, Å¾e ji zradil a zavraÅ¾dil jejÃ­ milenec, nÄ›jakÃ½ Thorg.}
+{280}{}{Thorg?! To je ten Å¡aman, pod kterÃ½m jsem slouÅ¾il. VÄ›dÄ›l jsem, Å¾e je tak trochu kretÃ©n, ale netuÅ¡il jsem, Å¾e je z nÄ›j zabijÃ¡k hezkÃ½ch, mladÃ½ch dÄ›vÄat. Hmm, tÃ­m se vysvÄ›tluje, proÄ si chtÄ›l oÅ¾ralÃ½ zaplavat, coÅ¾ nakonec skonÄilo jeho smrtÃ­... mÄ›l vÃ½Äitky svÄ›domÃ­. TakÅ¾e Thorg je vrah... kdo by to byl Å™ekl...}
+{281}{}{TakÅ¾e co teÄ?}
+{290}{}{(Hluboce povzdechne.) TeÄ myslÃ­m, Å¾e bych ji mÄ›l zavÃ©st do mlhy. MyslÃ­m, Å¾e to dokÃ¡Å¾u, ale musÃ­Å¡ jÃ­t se mnou. V Å¾Ã¡dnÃ©m pÅ™Ã­padÄ› nebudu schopen ji Äelit sÃ¡m a nikdo jinÃ½ z vesnice se mnou nepÅ¯jde... vÄ›Å™Ã­, Å¾e setkÃ¡nÃ­ se ztracenÃ½m duchem je pro ne-Å¡amana pÅ™edzvÄ›st nÄ›Äeho Å¡patnÃ©ho.}
+{291}{}{Nee. UÅ¾ jsem pro tebe udÄ›lal dost. Je to jen na tobÄ›.}
+{292}{}{NemÄ›j strach, pomÅ¯Å¾u ti s tÃ­m.}
+{293}{}{DobÅ™e, udÄ›lÃ¡m to, ale jenom proto, Å¾e bude sranda tÄ› pozorovat, jak se klepeÅ¡ strachy.}
+{300}{}{ProsÃ­m, Å™ekni mi, Å¾e se ti to rozleÅ¾elo v hlavÄ›. PÅ¯jdeÅ¡ se mnou za tÃ­m ztracenÃ½m duchem, Å¾e ano?}
+{301}{}{Ne. Je to jen na tobÄ›. Nashle.}
+{302}{}{DobÅ™e, udÄ›lÃ¡m to, ale jenom proto, Å¾e bude sranda tÄ› pozorovat, jak se klepeÅ¡ strachy.}
+{310}{}{A doprdele... a doprdele... ne, jÃ¡ to nedokÃ¡Å¾u... dobÅ™e. Nesso?}
+{311}{}{Ãch... tak chladnÃ½ a sÃ¡m...}
+{312}{}{Nesso, slyÅ¡ mÅ¯j hlas. VolÃ¡m na tebe z Å™Ã­Å¡e smrtelnÃ­kÅ¯.}
+{313}{}{JÃ¡... nÄ›koho slyÅ¡Ã­m! Kdo je tam? }
+{314}{}{Jsem Å¡aman tÃ©to vesnice. MusÃ­Å¡ vstoupit do mlhy. Tam najdeÅ¡ svÅ¯j klid.}
+{315}{}{Ano! Ano, uÅ¾ vidÃ­m mlhu. VidÃ­m volajÃ­cÃ­ duchy.}
+{316}{}{Jdi za nimi, Nesso. Vstup do mlhy a pÅ™idej se ke svÃ½m pÅ™edkÅ¯m.}
+{317}{}{UÅ¾ nejsem sama.}
+{320}{}{DÄ›kuji ti za pomoc pÅ™i zÃ¡chranÄ› Serina. Dal jsem mu nÄ›jakÃ© byliny, kterÃ© utiÅ¡Ã­ jeho bolest a pomohou mu s odpoÄinkem. KdyÅ¾ duchovÃ© svolÃ­, bude zpÄ›t na nohou za nÄ›kolik dnÃ­.}
+{330}{}{UkaÅ¾... no vÃ½bornÄ›. Ty budou skvÄ›lÃ©. Tady mÃ¡Å¡ za to nÄ›jakÃ© lÃ©ÄivÃ© prÃ¡Å¡ky. NechÅ¥ tÄ› provÃ¡zejÃ­ tvÃ­ pÅ™edkovÃ©.}
+{400}{}{Jo, jo, velmi vtipnÃ©. A teÄ bÄ›Å¾. MÃ¡m prÃ¡ci.}
+{401}{}{::NaznaÄit odchod a potÃ© se rychle otoÄit:: Baf!}
+{410}{}{ZatracenÄ›! Vypadni odtud! BÄ›Å¾!}
 {411}{}{Hehe! Ahoj!}
-{420}{}{U jsem ti jednou øekl, Jednoduchı, a odejdeš a necháš mì na pokoji.}
-{500}{}{Díky tobì jsem získal odvahu slouit této vesnici. Nedokáu ti za to dostateènì podìkovat.}
-{501}{}{Jsem navdy tvım dluníkem.}
-{600}{}{Dìkuji ti za pomoc pøi záchranì Serina. Dal jsem mu nìjaké byliny, které utiší jeho bolest a pomohou mu s odpoèinkem. Kdy duchové svolí, bude zpìt na nohou za nìkolik dní.}
-{601}{}{Rádo se stalo. Mùu ještì nìco udìlat?}
-{602}{}{To je dobøe, e to Serin zvládne. Mìj se.}
-{610}{}{Vlastnì ano, ještì bych tu nìco mìl. Léèba Serina spotøebovala témìø všechnu moji zásobu bylin. Kdy mi pøineseš pìt koøenù Xander a tøi kvìtiny Broc, budu ti moc vdìènı.}
-{611}{}{Pìt koøenù Xander a tøi kvìtiny Broc, mám to. Vrátím se, a je budu mít.}
-{612}{}{Zdá se, e máš dnes šastnı den. Náhodou je mám všechny u sebe. Vezmi si je, jsou tvoje.}
-{613}{}{Promiò, ale nemám èas se potulovat po lesích a sbírat pro tebe bylinky.}
-{614}{}{Proè chceš zrovna takové pøesné mnoství?}
-{620}{}{Protoe jsem velmi... peèlivı co se tıèe vìcí. Vše je o vyváení, pøesnıch èíslech... (Zamraèí se.) Podívej, neèekám, e to pochopíš, ale u jsem prostì takovı. Potøebuji pìt koøenù Xander a tøi kvìtiny Broc, ne víc, ne míò. Pomùeš mi?}
-{630}{}{U máš všechno, co potøebuji?}
-{631}{}{Jo, všechno mám tady.}
-{632}{}{Stále hledám. Nashle.}
-{640}{}{Uka... no vıbornì. Ty budou skvìlé. Tady máš za to nìjaké léèivé prášky.}
-{641}{}{Dìkuju. Sbohem.}
-{1000}{}{Podaøilo se ti oprostit vesnického šamana od jeho problémù.}
-{2000}{}{Donesl jsi šamanovi bylinky.}
-{3000}{}{Já vìdìl, e jsi velkı hrdina... duchové mi to øekli.}
-{3001}{}{Jsem rád, e tì mé léèivé prášky ochránily pøed Enklávou.}
+{420}{}{UÅ¾ jsem ti jednou Å™ekl, JednoduchÃ½, aÅ¥ odejdeÅ¡ a nechÃ¡Å¡ mÄ› na pokoji.}
+{500}{}{DÃ­ky tobÄ› jsem zÃ­skal odvahu slouÅ¾it tÃ©to vesnici. NedokÃ¡Å¾u ti za to dostateÄnÄ› podÄ›kovat.}
+{501}{}{Jsem navÅ¾dy tvÃ½m dluÅ¾nÃ­kem.}
+{600}{}{DÄ›kuji ti za pomoc pÅ™i zÃ¡chranÄ› Serina. Dal jsem mu nÄ›jakÃ© byliny, kterÃ© utiÅ¡Ã­ jeho bolest a pomohou mu s odpoÄinkem. KdyÅ¾ duchovÃ© svolÃ­, bude zpÄ›t na nohou za nÄ›kolik dnÃ­.}
+{601}{}{RÃ¡do se stalo. MÅ¯Å¾u jeÅ¡tÄ› nÄ›co udÄ›lat?}
+{602}{}{To je dobÅ™e, Å¾e to Serin zvlÃ¡dne. MÄ›j se.}
+{610}{}{VlastnÄ› ano, jeÅ¡tÄ› bych tu nÄ›co mÄ›l. LÃ©Äba Serina spotÅ™ebovala tÃ©mÄ›Å™ vÅ¡echnu moji zÃ¡sobu bylin. KdyÅ¾ mi pÅ™ineseÅ¡ pÄ›t koÅ™enÅ¯ Xander a tÅ™i kvÄ›tiny Broc, budu ti moc vdÄ›ÄnÃ½.}
+{611}{}{PÄ›t koÅ™enÅ¯ Xander a tÅ™i kvÄ›tiny Broc, mÃ¡m to. VrÃ¡tÃ­m se, aÅ¾ je budu mÃ­t.}
+{612}{}{ZdÃ¡ se, Å¾e mÃ¡Å¡ dnes Å¡Å¥astnÃ½ den. NÃ¡hodou je mÃ¡m vÅ¡echny u sebe. Vezmi si je, jsou tvoje.}
+{613}{}{PromiÅˆ, ale nemÃ¡m Äas se potulovat po lesÃ­ch a sbÃ­rat pro tebe bylinky.}
+{614}{}{ProÄ chceÅ¡ zrovna takovÃ© pÅ™esnÃ© mnoÅ¾stvÃ­?}
+{620}{}{ProtoÅ¾e jsem velmi... peÄlivÃ½ co se tÃ½Äe vÄ›cÃ­. VÅ¡e je o vyvÃ¡Å¾enÃ­, pÅ™esnÃ½ch ÄÃ­slech... (ZamraÄÃ­ se.) PodÃ­vej, neÄekÃ¡m, Å¾e to pochopÃ­Å¡, ale uÅ¾ jsem prostÄ› takovÃ½. PotÅ™ebuji pÄ›t koÅ™enÅ¯ Xander a tÅ™i kvÄ›tiny Broc, ne vÃ­c, ne mÃ­Åˆ. PomÅ¯Å¾eÅ¡ mi?}
+{630}{}{UÅ¾ mÃ¡Å¡ vÅ¡echno, co potÅ™ebuji?}
+{631}{}{Jo, vÅ¡echno mÃ¡m tady.}
+{632}{}{StÃ¡le hledÃ¡m. Nashle.}
+{640}{}{UkaÅ¾... no vÃ½bornÄ›. Ty budou skvÄ›lÃ©. Tady mÃ¡Å¡ za to nÄ›jakÃ© lÃ©ÄivÃ© prÃ¡Å¡ky.}
+{641}{}{DÄ›kuju. Sbohem.}
+{1000}{}{PodaÅ™ilo se ti oprostit vesnickÃ©ho Å¡amana od jeho problÃ©mÅ¯.}
+{2000}{}{Donesl jsi Å¡amanovi bylinky.}
+{3000}{}{JÃ¡ vÄ›dÄ›l, Å¾e jsi velkÃ½ hrdina... duchovÃ© mi to Å™ekli.}
+{3001}{}{Jsem rÃ¡d, Å¾e tÄ› mÃ© lÃ©ÄivÃ© prÃ¡Å¡ky ochrÃ¡nily pÅ™ed EnklÃ¡vou.}

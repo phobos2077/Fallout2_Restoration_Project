@@ -1,1 +1,1 @@
-{100}{}{Vidíš dveøe bez viditelné kliky nebo zámku.}
+{100}{}{VidÃ­Å¡ dveÅ™e bez viditelnÃ© kliky nebo zÃ¡mku.}

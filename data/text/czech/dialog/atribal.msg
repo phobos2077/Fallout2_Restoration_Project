@@ -1,11 +1,11 @@
-{100}{}{Vidíš divocha.}
-{101}{}{Vidíš svalnatého mue.}
-{200}{}{Buï zdráv.}
-{201}{}{Vítej v Opatství.}
+{100}{}{VidÃ­Å¡ divocha.}
+{101}{}{VidÃ­Å¡ svalnatÃ©ho muÅ¾e.}
+{200}{}{BuÄ zdrÃ¡v.}
+{201}{}{VÃ­tej v OpatstvÃ­.}
 {202}{}{Ahoj.}
 {203}{}{Ahoj.}
-{204}{}{Nejsi náhodou z Arroya?}
-{205}{}{Buï zdráv.}
-{206}{}{Pìkná vıstroj!}
-{207}{}{Nazdar, soukmenovèe!}
-{500}{}{Nedotıkej se mıch vìcí!}
+{204}{}{Nejsi nÃ¡hodou z Arroya?}
+{205}{}{BuÄ zdrÃ¡v.}
+{206}{}{PÄ›knÃ¡ vÃ½stroj!}
+{207}{}{Nazdar, soukmenovÄe!}
+{500}{}{NedotÃ½kej se mÃ½ch vÄ›cÃ­!}

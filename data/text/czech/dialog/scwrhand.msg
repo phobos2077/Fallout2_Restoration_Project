@@ -1,12 +1,12 @@
-{100}{}{Vidíš osobu v zaprášeném pracovním odìvu.}
-{101}{}{Vidíš jednoho z Westinovıch pomocníkù na ranèi.}
-{102}{}{Mùe to bıt jen pomocník na ranèi, ale také to mùe bıt nájemnı vrah. Rozhodnì ale vypadá pøipraven na problémy.}
-{103}{}{Víš urèitì, e se tu mùeš jen tak poflakovat?}
-{104}{}{Jestli hledáš práci, tak si jdi promluvit s Felixem, cizinèe.}
-{105}{}{U mám tìch brahmín plnı zuby.}
-{106}{}{Prej maj Bishopovi spadeno na našeho šéfa.}
-{107}{}{Jestli si chceš s nìkım popovídat, tak jdi za naším pøedákem Felixem.}
+{100}{}{VidÃ­Å¡ osobu v zaprÃ¡Å¡enÃ©m pracovnÃ­m odÄ›vu.}
+{101}{}{VidÃ­Å¡ jednoho z WestinovÃ½ch pomocnÃ­kÅ¯ na ranÄi.}
+{102}{}{MÅ¯Å¾e to bÃ½t jen pomocnÃ­k na ranÄi, ale takÃ© to mÅ¯Å¾e bÃ½t nÃ¡jemnÃ½ vrah. RozhodnÄ› ale vypadÃ¡ pÅ™ipraven na problÃ©my.}
+{103}{}{VÃ­Å¡ urÄitÄ›, Å¾e se tu mÅ¯Å¾eÅ¡ jen tak poflakovat?}
+{104}{}{Jestli hledÃ¡Å¡ prÃ¡ci, tak si jdi promluvit s Felixem, cizinÄe.}
+{105}{}{UÅ¾ mÃ¡m tÄ›ch brahmÃ­n plnÃ½ zuby.}
+{106}{}{Prej maj Bishopovi spadeno na naÅ¡eho Å¡Ã©fa.}
+{107}{}{Jestli si chceÅ¡ s nÄ›kÃ½m popovÃ­dat, tak jdi za naÅ¡Ã­m pÅ™edÃ¡kem Felixem.}
 {108}{}{You ain't with the Bishops, are you?}
-{109}{}{Víme, e to byla vrada. A a toho hada chytíme, zabijeme ho pomalu.}
-{110}{}{Felix pøísahá, e je za tím Bishop. Øíká, e na tom nìkdo pìknì vydìlal.}
-{111}{}{No, je naèase jít dál. Všechno tu jde do háje.}
+{109}{}{VÃ­me, Å¾e to byla vraÅ¾da. A aÅ¾ toho hada chytÃ­me, zabijeme ho pomalu.}
+{110}{}{Felix pÅ™Ã­sahÃ¡, Å¾e je za tÃ­m Bishop. Å˜Ã­kÃ¡, Å¾e na tom nÄ›kdo pÄ›knÄ› vydÄ›lal.}
+{111}{}{No, je naÄase jÃ­t dÃ¡l. VÅ¡echno tu jde do hÃ¡je.}

@@ -1,2 +1,2 @@
-{100}{}{K otevøení tìchto dveøí potøebuješ klíè.}
-{101}{}{Pouíváš klíè a odemykáš dveøe.}
+{100}{}{K otevÅ™enÃ­ tÄ›chto dveÅ™Ã­ potÅ™ebujeÅ¡ klÃ­Ä.}
+{101}{}{PouÅ¾Ã­vÃ¡Å¡ klÃ­Ä a odemykÃ¡Å¡ dveÅ™e.}

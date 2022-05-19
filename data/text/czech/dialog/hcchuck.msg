@@ -1,17 +1,17 @@
-{100}{}{Vidíš špinavého a ospalého mue.}
+{100}{}{VidÃ­Å¡ Å¡pinavÃ©ho a ospalÃ©ho muÅ¾e.}
 {101}{}{XXX}
-{102}{}{Vidíš špinavého a ospalého mue. Jeho obleèení vypadá velice, ale opravdu VELICE staøe.}
-{103}{}{::protírá si oèi:: Co... co to? Kde to jsem? Jak dlouho jsem spal?}
+{102}{}{VidÃ­Å¡ Å¡pinavÃ©ho a ospalÃ©ho muÅ¾e. Jeho obleÄenÃ­ vypadÃ¡ velice, ale opravdu VELICE staÅ™e.}
+{103}{}{::protÃ­rÃ¡ si oÄi:: Co... co to? Kde to jsem? Jak dlouho jsem spal?}
 {104}{}{Ehh?}
 {105}{}{Kdo jsi?}
-{106}{}{Nemám ponìtí, jak dlouho jsi spal, ale jsi v Broken Hills, nedaleko od New California Republic.}
-{107}{}{Ach ne! Spal jsem tak dlouho, e se mezitím svìt úplnì zbláznil! Ááááááááá! ::zaèíná panikaøit::}
+{106}{}{NemÃ¡m ponÄ›tÃ­, jak dlouho jsi spal, ale jsi v Broken Hills, nedaleko od New California Republic.}
+{107}{}{Ach ne! Spal jsem tak dlouho, Å¾e se mezitÃ­m svÄ›t ÃºplnÄ› zblÃ¡znil! ÃÃ¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡! ::zaÄÃ­nÃ¡ panikaÅ™it::}
 {108}{}{[KONEC]}
-{109}{}{Jsem Chuck Stodgers, nejlepší pilot letadel na svìtì! Bohuel... jsem havaroval. Celı otluèenı jsem se dobelhal do této jeskynì, abych se ukryl pøed vıbuchem, kde mì pohltil kouø.}
-{110}{}{To zní neuvìøitelnì. Skoro jako nìkterá z tìch starıch kreslenıch grotesek.}
-{111}{}{New CO? CALIFORNIA? SVÌT SE ZMÌNIL TAK HODNÌ? ÁÁÁÁÁÁÁÁÁÁÁ! ::zaèíná panikaøit::}
-{112}{}{Hej, poèkej chvíli...}
-{113}{}{Jo, to je fakt. Jdu se podívat, co se stalo se svìtem. Hodnì štìstí, pøíteli!}
-{114}{}{Tobì taky, pane Stodgers!}
-{115}{}{Podaøilo se ti odkrıt další tajemnı pop kulturní odkaz.}
+{109}{}{Jsem Chuck Stodgers, nejlepÅ¡Ã­ pilot letadel na svÄ›tÄ›! BohuÅ¾el... jsem havaroval. CelÃ½ otluÄenÃ½ jsem se dobelhal do tÃ©to jeskynÄ›, abych se ukryl pÅ™ed vÃ½buchem, kde mÄ› pohltil kouÅ™.}
+{110}{}{To znÃ­ neuvÄ›Å™itelnÄ›. Skoro jako nÄ›kterÃ¡ z tÄ›ch starÃ½ch kreslenÃ½ch grotesek.}
+{111}{}{New CO? CALIFORNIA? SVÄšT SE ZMÄšNIL TAK HODNÄš? ÃÃÃÃÃÃÃÃÃÃÃ! ::zaÄÃ­nÃ¡ panikaÅ™it::}
+{112}{}{Hej, poÄkej chvÃ­li...}
+{113}{}{Jo, to je fakt. Jdu se podÃ­vat, co se stalo se svÄ›tem. HodnÄ› Å¡tÄ›stÃ­, pÅ™Ã­teli!}
+{114}{}{TobÄ› taky, pane Stodgers!}
+{115}{}{PodaÅ™ilo se ti odkrÃ½t dalÅ¡Ã­ tajemnÃ½ pop kulturnÃ­ odkaz.}
 {116}{}{Chrrrrrrrr.}

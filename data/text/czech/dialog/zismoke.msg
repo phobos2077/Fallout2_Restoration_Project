@@ -1,18 +1,18 @@
-{100}{}{Kouøíš "Komouška".}
-{101}{}{Kouøíš dalšího "Komouška."}
-{102}{}{Uvnitø tvé helmy je varování: "NEBEZPEÈÍ! - Nekuøte!!". Radìji udìláš to, co je tam napsáno.}
-{103}{}{Všechny jsi je vykouøil.}
-{104}{}{Potøebuješ zapalovaè.}
-{200}{}{Hulíš špeka.}
-{201}{}{Hulíš dalšího špeka.}
-{203}{}{Došla ti tráva.}
-{210}{}{Waau. To je prvotøídní hulení.}
-{211}{}{Teï si tady na chvilku lehnu.}
-{212}{}{Zaèínáš se cítit VELMI lehounce.}
-{213}{}{Cítím se tak zvláštnì...}
-{214}{}{...takhle se asi musí cítit Hakunin ve své zahradì.}
-{215}{}{To bylo šílenı. U se cítím lépe.}
+{100}{}{KouÅ™Ã­Å¡ "KomouÅ¡ka".}
+{101}{}{KouÅ™Ã­Å¡ dalÅ¡Ã­ho "KomouÅ¡ka."}
+{102}{}{UvnitÅ™ tvÃ© helmy je varovÃ¡nÃ­: "NEBEZPEÄŒÃ! - NekuÅ™te!!". RadÄ›ji udÄ›lÃ¡Å¡ to, co je tam napsÃ¡no.}
+{103}{}{VÅ¡echny jsi je vykouÅ™il.}
+{104}{}{PotÅ™ebujeÅ¡ zapalovaÄ.}
+{200}{}{HulÃ­Å¡ Å¡peka.}
+{201}{}{HulÃ­Å¡ dalÅ¡Ã­ho Å¡peka.}
+{203}{}{DoÅ¡la ti trÃ¡va.}
+{210}{}{Waau. To je prvotÅ™Ã­dnÃ­ hulenÃ­.}
+{211}{}{TeÄ si tady na chvilku lehnu.}
+{212}{}{ZaÄÃ­nÃ¡Å¡ se cÃ­tit VELMI lehounce.}
+{213}{}{CÃ­tÃ­m se tak zvlÃ¡Å¡tnÄ›...}
+{214}{}{...takhle se asi musÃ­ cÃ­tit Hakunin ve svÃ© zahradÄ›.}
+{215}{}{To bylo Å¡Ã­lenÃ½. UÅ¾ se cÃ­tÃ­m lÃ©pe.}
 {216}{}{A kurva...}
 {217}{}{Omdlel jsi.}
-{218}{}{Vzbudil ses a cítíš se zkouøenı a zmatenı.}
-{250}{}{Kouøení je pro eny ošklivı zlozvyk.}
+{218}{}{Vzbudil ses a cÃ­tÃ­Å¡ se zkouÅ™enÃ½ a zmatenÃ½.}
+{250}{}{KouÅ™enÃ­ je pro Å¾eny oÅ¡klivÃ½ zlozvyk.}

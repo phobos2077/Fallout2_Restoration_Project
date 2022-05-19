@@ -1,2 +1,2 @@
-{100}{}{Kdy se pøiblííš k tìlu Codyho, praští tì pøes nos silná vùnì Julesovy kolínské.}
-{101}{}{Kdy se pøiblííš k tìlu Codyho, praští tì pøes nos vırazná vùnì kolínské.}
+{100}{}{KdyÅ¾ se pÅ™iblÃ­Å¾Ã­Å¡ k tÄ›lu Codyho, praÅ¡tÃ­ tÄ› pÅ™es nos silnÃ¡ vÅ¯nÄ› Julesovy kolÃ­nskÃ©.}
+{101}{}{KdyÅ¾ se pÅ™iblÃ­Å¾Ã­Å¡ k tÄ›lu Codyho, praÅ¡tÃ­ tÄ› pÅ™es nos vÃ½raznÃ¡ vÅ¯nÄ› kolÃ­nskÃ©.}

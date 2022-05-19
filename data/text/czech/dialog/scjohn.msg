@@ -1,13 +1,13 @@
-{100}{}{Vidíš bezdomovce.}
-{101}{}{Vidíš squattera Billa.}
-{102}{}{Vidíš mue ve støedních letech v obnošenıch šatech.}
-{103}{}{Promiò, cizinèe, ale nemám èas si teï s tebou povídat.}
-{104}{}{Proè nechtít mluvit?}
-{105}{}{Dobøe, trhan.}
-{106}{}{Tak dobøe, mìj se.}
-{107}{}{Poèkej minutku. Proè se mnou nechceš mluvit?}
-{108}{}{Jsme soukromá a velmi uzavøená spoleènost a nechceme mít ádné problémy ani jakıkoliv kontakt s okolním svìtem. Prosím, nech nás bıt.}
-{109}{}{Dobøe.}
+{100}{}{VidÃ­Å¡ bezdomovce.}
+{101}{}{VidÃ­Å¡ squattera Billa.}
+{102}{}{VidÃ­Å¡ muÅ¾e ve stÅ™ednÃ­ch letech v obnoÅ¡enÃ½ch Å¡atech.}
+{103}{}{PromiÅˆ, cizinÄe, ale nemÃ¡m Äas si teÄ s tebou povÃ­dat.}
+{104}{}{ProÄ nechtÃ­t mluvit?}
+{105}{}{DobÅ™e, trhan.}
+{106}{}{Tak dobÅ™e, mÄ›j se.}
+{107}{}{PoÄkej minutku. ProÄ se mnou nechceÅ¡ mluvit?}
+{108}{}{Jsme soukromÃ¡ a velmi uzavÅ™enÃ¡ spoleÄnost a nechceme mÃ­t Å¾Ã¡dnÃ© problÃ©my ani jakÃ½koliv kontakt s okolnÃ­m svÄ›tem. ProsÃ­m, nech nÃ¡s bÃ½t.}
+{109}{}{DobÅ™e.}
 {110}{}{Ahoj... a sbohem.}
-{111}{}{Díky za všechno, co jsi pro nás udìlal. Omlouvám se za to chladné uvítání.}
-{112}{}{Polib si, kreténe!}
+{111}{}{DÃ­ky za vÅ¡echno, co jsi pro nÃ¡s udÄ›lal. OmlouvÃ¡m se za to chladnÃ© uvÃ­tÃ¡nÃ­.}
+{112}{}{Polib si, kretÃ©ne!}

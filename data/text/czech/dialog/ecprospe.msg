@@ -1,19 +1,19 @@
-{100}{}{Vidíš zlatokopa.}
-{101}{}{Stùj cizinèe! Nejsem zvyklı pøepadat cizince, ale potøebuju zásoby a nemùu opustit tohle místo. Nechceš udìlat malı obchod?}
-{102}{}{Jasnì.}
-{103}{}{Nemám nic k obchodování. Promiò.}
+{100}{}{VidÃ­Å¡ zlatokopa.}
+{101}{}{StÅ¯j cizinÄe! Nejsem zvyklÃ½ pÅ™epadat cizince, ale potÅ™ebuju zÃ¡soby a nemÅ¯Å¾u opustit tohle mÃ­sto. NechceÅ¡ udÄ›lat malÃ½ obchod?}
+{102}{}{JasnÄ›.}
+{103}{}{NemÃ¡m nic k obchodovÃ¡nÃ­. PromiÅˆ.}
 {104}{}{Booga.}
-{105}{}{Jaké štìstí. Nemùeš mluvit, je to tak? Kdy nemùeš mluvit, nemùeš nikomu øíct, kde je tohle místo. Pojïme obchodovat.}
+{105}{}{JakÃ© Å¡tÄ›stÃ­. NemÅ¯Å¾eÅ¡ mluvit, je to tak? KdyÅ¾ nemÅ¯Å¾eÅ¡ mluvit, nemÅ¯Å¾eÅ¡ nikomu Å™Ã­ct, kde je tohle mÃ­sto. PojÄme obchodovat.}
 {106}{}{[Obchodovat]}
-{107}{}{Dobøe, tak vypadni! A radìji nikomu neøíkej, kde je tohle místo.}
+{107}{}{DobÅ™e, tak vypadni! A radÄ›ji nikomu neÅ™Ã­kej, kde je tohle mÃ­sto.}
 {108}{}{[Konec]}
-{109}{}{Myslím, e bude lepší, kdy pùjdeš dál.}
-{110}{}{U nemáme o èem mluvit.}
-{111}{}{Jak chceš!}
+{109}{}{MyslÃ­m, Å¾e bude lepÅ¡Ã­, kdyÅ¾ pÅ¯jdeÅ¡ dÃ¡l.}
+{110}{}{UÅ¾ nemÃ¡me o Äem mluvit.}
+{111}{}{Jak chceÅ¡!}
 {112}{}{Chytej.}
-{113}{}{Nemùu tì nechat, abys nìkomu vyzradil, kde je tohle místo.}
-{114}{}{Proè na mì útoèíš?}
-{115}{}{Teï tì musím zabít.}
-{116}{}{Chtìl jsem jenom nìjaké zásoby.}
-{117}{}{Mùeš mít moje území!}
+{113}{}{NemÅ¯Å¾u tÄ› nechat, abys nÄ›komu vyzradil, kde je tohle mÃ­sto.}
+{114}{}{ProÄ na mÄ› ÃºtoÄÃ­Å¡?}
+{115}{}{TeÄ tÄ› musÃ­m zabÃ­t.}
+{116}{}{ChtÄ›l jsem jenom nÄ›jakÃ© zÃ¡soby.}
+{117}{}{MÅ¯Å¾eÅ¡ mÃ­t moje ÃºzemÃ­!}
 {118}{}{Milost!}

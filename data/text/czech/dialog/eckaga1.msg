@@ -1,19 +1,19 @@
-{100}{}{Vidíš polonahého mue.}
-{101}{}{Vidíš Kagu v kovové zbroji.}
-{103}{}{Má na sobì kalhoty a vypadá, jako by pocházel z nìjakého kmene.}
-{104}{}{Já jsem mìl bıt Vyvolenım!}
-{105}{}{Jak se mohlo Arroyo opováit vyhnat mì z kmene.}
-{106}{}{Vykonám na tobì svou pomstu!}
-{107}{}{Kaga tì pošle na onen svìt.}
-{108}{}{Ještì se uvidíme!}
-{109}{}{Ještì nikdy jsem nebyl poraen!}
-{110}{}{Udìlám vše pro to, abych tì znièil.}
-{150}{}{(Pøed tebou stojí vysokı a dobøe stavìnı váleèník. Jeho oèi prahnou nenávistí, kdy si tì prohlíí.) Take potom, co vyhnali Kagu, zvolili Vyvolenım tebe? Haha! Myslíš, e kdy jsi vnuk Zakladatele, e jsi vıjimeènı?! Myslíš, e jsi lepší ne já, velkı Kaga?!}
-{151}{}{No, já JSEM pøece Vyvolenı, nebo ne?}
-{152}{}{Hej hej, poèkej vteøinku. Nikdy jsem neøekl, e jsem lepší ne ty.}
-{160}{}{Ten titul nebude znamenat nic a ti Kaga utrhne hlavu!}
-{161}{}{ádné øeèi ti kùi nezachrání. Tvou smrtí bude Kagovi navrácena èest. Kaga se teï pomstí!}
+{100}{}{VidÃ­Å¡ polonahÃ©ho muÅ¾e.}
+{101}{}{VidÃ­Å¡ Kagu v kovovÃ© zbroji.}
+{103}{}{MÃ¡ na sobÄ› kalhoty a vypadÃ¡, jako by pochÃ¡zel z nÄ›jakÃ©ho kmene.}
+{104}{}{JÃ¡ jsem mÄ›l bÃ½t VyvolenÃ½m!}
+{105}{}{Jak se mohlo Arroyo opovÃ¡Å¾it vyhnat mÄ› z kmene.}
+{106}{}{VykonÃ¡m na tobÄ› svou pomstu!}
+{107}{}{Kaga tÄ› poÅ¡le na onen svÄ›t.}
+{108}{}{JeÅ¡tÄ› se uvidÃ­me!}
+{109}{}{JeÅ¡tÄ› nikdy jsem nebyl poraÅ¾en!}
+{110}{}{UdÄ›lÃ¡m vÅ¡e pro to, abych tÄ› zniÄil.}
+{150}{}{(PÅ™ed tebou stojÃ­ vysokÃ½ a dobÅ™e stavÄ›nÃ½ vÃ¡leÄnÃ­k. Jeho oÄi prahnou nenÃ¡vistÃ­, kdyÅ¾ si tÄ› prohlÃ­Å¾Ã­.) TakÅ¾e potom, co vyhnali Kagu, zvolili VyvolenÃ½m tebe? Haha! MyslÃ­Å¡, Å¾e kdyÅ¾ jsi vnuk Zakladatele, Å¾e jsi vÃ½jimeÄnÃ½?! MyslÃ­Å¡, Å¾e jsi lepÅ¡Ã­ neÅ¾ jÃ¡, velkÃ½ Kaga?!}
+{151}{}{No, jÃ¡ JSEM pÅ™ece VyvolenÃ½, nebo ne?}
+{152}{}{Hej hej, poÄkej vteÅ™inku. Nikdy jsem neÅ™ekl, Å¾e jsem lepÅ¡Ã­ neÅ¾ ty.}
+{160}{}{Ten titul nebude znamenat nic aÅ¾ ti Kaga utrhne hlavu!}
+{161}{}{Å½Ã¡dnÃ© Å™eÄi ti kÅ¯Å¾i nezachrÃ¡nÃ­. Tvou smrtÃ­ bude Kagovi navrÃ¡cena Äest. Kaga se teÄ pomstÃ­!}
 {200}{}{*Chichi*}
-{201}{}{Coe!? Ty jsi novı Vyvolenı? No teda, ti u musí bıt vánì zoufalí.}
-{202}{}{Já ty nelíbit. Ty vypadat zlá.}
-{203}{}{Kaga se ani nebude namáhat s tebou dál mluvit. Pøiprav se na smrt rukou Kagy!}
+{201}{}{CoÅ¾e!? Ty jsi novÃ½ VyvolenÃ½? No teda, ti uÅ¾ musÃ­ bÃ½t vÃ¡Å¾nÄ› zoufalÃ­.}
+{202}{}{JÃ¡ ty nelÃ­bit. Ty vypadat zlÃ¡.}
+{203}{}{Kaga se ani nebude namÃ¡hat s tebou dÃ¡l mluvit. PÅ™iprav se na smrt rukou Kagy!}

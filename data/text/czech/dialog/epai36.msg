@@ -1,30 +1,30 @@
-{100}{}{Vidíš poèítaè.}
-{150}{}{Prosím vyberte jednu z moností níe.}
+{100}{}{VidÃ­Å¡ poÄÃ­taÄ.}
+{150}{}{ProsÃ­m vyberte jednu z moÅ¾nostÃ­ nÃ­Å¾e.}
 {151}{}{Informace.}
-{152}{}{Zamìstnaneckı pøístup.}
-{160}{}{Prosím vyberte jednu z moností níe.}
-{161}{}{Vypnout silové pole.}
-{162}{}{[Zpìt]}
-{170}{}{Pro vypnutí silového pole zadejte pøístupové heslo. (Jestli jste heslo ztratili nebo zapomnìli, pouijte prosím hologram 40011, Hologram øeditele styku s veøejností.)}
+{152}{}{ZamÄ›stnaneckÃ½ pÅ™Ã­stup.}
+{160}{}{ProsÃ­m vyberte jednu z moÅ¾nostÃ­ nÃ­Å¾e.}
+{161}{}{Vypnout silovÃ© pole.}
+{162}{}{[ZpÄ›t]}
+{170}{}{Pro vypnutÃ­ silovÃ©ho pole zadejte pÅ™Ã­stupovÃ© heslo. (Jestli jste heslo ztratili nebo zapomnÄ›li, pouÅ¾ijte prosÃ­m hologram 40011, Hologram Å™editele styku s veÅ™ejnostÃ­.)}
 {171}{}{ABRE}
-{172}{}{[Zpìt]}
-{180}{}{Dìkuji. Silová pole jsou nyní vypnuta.}
+{172}{}{[ZpÄ›t]}
+{180}{}{DÄ›kuji. SilovÃ¡ pole jsou nynÃ­ vypnuta.}
 {181}{}{[KONEC]}
-{200}{}{Vítejte v interaktivním zoo komplexu EPA! Zde budete mít to potìšení se seznámit blíe s unikátními bytostmi, které vypadají jako ohavní, znetvoøení lidé! Tyto odporné bestie jsou vısledkem vzrušujících experimentù, bìhem kterıch naši geniální vìdci zkoušejí spojit lidskou a zvíøecí DNA!}
-{201}{}{[Více]}
-{210}{}{Teoreticky by nám tento novı vìdeckı obor mohl jednou dovolit vytvoøit "super èlovìka". Pøedstavte si amerického vojáka se zrakem orla, rychlostí geparda a silou gorily! Pøedstavte si, jakı by tento "super voják" vnesl strach do srdcí komoušù! Zní to jako sci-fi, ale brzy se to mùe stát realitou!}
-{211}{}{[Více]}
-{220}{}{Stvoøení, která zde vidíte, jsou vısledkem experimentù, které nebyly pøíliš úspìšné. Øekli jsme si, e by mohla bıt zábava umístit tyto nevydaøené ohavnosti do naší interaktivní zoo namísto toho, abychom je utratili. Ale nebojte se, i navzdory jejich hrozivému vzhledu nejsou nebezpeèní, pokud jsou dobøe nakrmeni. S radostí vám mùeme oznámit, e za loòskı rok evidujeme jen tøi obìti z øad návštìvníkù!}
-{221}{}{[Odhlásit se]}
-{300}{}{Vítejte u našeho nejnovìjšího exponátu! Tato neobvykle vypadající chapadlovitá stvoøení, která uvidíte v této kleci, mùou vypadat, jako by pocházela z vesmíru, ale nejsou to mimozemšané. Ve skuteènosti byli stvoøeni pøímo tady v Americe! Jak asi tušíte, nebyli stvoøeni matkou pøírodou, ale jsou dílem vìdy!}
-{301}{}{[Více]}
-{310}{}{Pøesnì tak, tato hrùzostrašná monstra byla vyvinuta americkımi vìdci v pøísnì tajnıch laboratoøích jako nejnovìjší zbraò ve válce za svobodu. Jejich silná chapadla a ostré zuby byly speciálnì navreny k potírání nepøátel Ameriky. Chapadla jim také skvìle slouí ke kopání, take komouši nebudou v bezpeèí ani ve svıch podzemních bunkrech! Navíc mají tito zuøiví zabijáci tak tlustou kùi, e jí kulka jen velmi tìko pronikne!}
-{311}{}{[Více]}
-{320}{}{Díváte se na budoucnost biologického válèení! Ale nebojte se, tyto strašlivé stroje na zabíjení vás nemohou ohrozit, jeliko jsou bezpeènì uzavøeni v pøísnì støeenıch klecích. Omluvte prosím tlumené svìtlo, ale tito tvorové jsou nejradìji v chladnıch, temnıch místech a urèitì byste je nechtìli naštvat, e ano?}
-{321}{}{[Odhlásit se]}
-{400}{}{Zde mùete vidìt rostliny, jaké jste pravdìpodobnì ještì nikdy nevidìli! Tyto velmi zajímavé nové druhy, jejich nám známou pøíbuznou je "Mucholapka podivná", byly speciálnì vytvoøeny našimi geniálními vìdci, aby byly schopny pøeít ve svìtì znièeném jadernou válkou. Proè to dìláme? To je jednoduché.}
-{401}{}{[Více]}
-{410}{}{Vìdci vìøí, e se po globální jaderné válce vìtšina Zemì stane neúrodnou pustinou. Bìné rostliny jen tìko pøeijí v tomto novém nehostinném prostøedí. A teï si pøedstavte, e opustíme bezpeèí našich Vault-Tec vaultù jen proto, abychom zjistili, e je všechna vegetace mrtvá! U ádnı salát pro mámu a ádnı trávník pro Billyho a Rovera, kde by mohli aportovat.}
-{411}{}{[Více]}
-{420}{}{Zní to hrozivì, e ano? Ale nebojte se. Tyto nové rostliny mohou bıt øešením našeho problému. Jsou schopny získat iviny zabíjením a poíráním zvìøe stejnì jako lidé, namísto spoléhání se na úrodnou pùdu a dešové sráky! A to vše díky zázrakùm vìdy!}
-{421}{}{[Odhlásit se]}
+{200}{}{VÃ­tejte v interaktivnÃ­m zoo komplexu EPA! Zde budete mÃ­t to potÄ›Å¡enÃ­ se seznÃ¡mit blÃ­Å¾e s unikÃ¡tnÃ­mi bytostmi, kterÃ© vypadajÃ­ jako ohavnÃ­, znetvoÅ™enÃ­ lidÃ©! Tyto odpornÃ© bestie jsou vÃ½sledkem vzruÅ¡ujÃ­cÃ­ch experimentÅ¯, bÄ›hem kterÃ½ch naÅ¡i geniÃ¡lnÃ­ vÄ›dci zkouÅ¡ejÃ­ spojit lidskou a zvÃ­Å™ecÃ­ DNA!}
+{201}{}{[VÃ­ce]}
+{210}{}{Teoreticky by nÃ¡m tento novÃ½ vÄ›deckÃ½ obor mohl jednou dovolit vytvoÅ™it "super ÄlovÄ›ka". PÅ™edstavte si americkÃ©ho vojÃ¡ka se zrakem orla, rychlostÃ­ geparda a silou gorily! PÅ™edstavte si, jakÃ½ by tento "super vojÃ¡k" vnesl strach do srdcÃ­ komouÅ¡Å¯! ZnÃ­ to jako sci-fi, ale brzy se to mÅ¯Å¾e stÃ¡t realitou!}
+{211}{}{[VÃ­ce]}
+{220}{}{StvoÅ™enÃ­, kterÃ¡ zde vidÃ­te, jsou vÃ½sledkem experimentÅ¯, kterÃ© nebyly pÅ™Ã­liÅ¡ ÃºspÄ›Å¡nÃ©. Å˜ekli jsme si, Å¾e by mohla bÃ½t zÃ¡bava umÃ­stit tyto nevydaÅ™enÃ© ohavnosti do naÅ¡Ã­ interaktivnÃ­ zoo namÃ­sto toho, abychom je utratili. Ale nebojte se, i navzdory jejich hrozivÃ©mu vzhledu nejsou nebezpeÄnÃ­, pokud jsou dobÅ™e nakrmeni. S radostÃ­ vÃ¡m mÅ¯Å¾eme oznÃ¡mit, Å¾e za loÅˆskÃ½ rok evidujeme jen tÅ™i obÄ›ti z Å™ad nÃ¡vÅ¡tÄ›vnÃ­kÅ¯!}
+{221}{}{[OdhlÃ¡sit se]}
+{300}{}{VÃ­tejte u naÅ¡eho nejnovÄ›jÅ¡Ã­ho exponÃ¡tu! Tato neobvykle vypadajÃ­cÃ­ chapadlovitÃ¡ stvoÅ™enÃ­, kterÃ¡ uvidÃ­te v tÃ©to kleci, mÅ¯Å¾ou vypadat, jako by pochÃ¡zela z vesmÃ­ru, ale nejsou to mimozemÅ¡Å¥anÃ©. Ve skuteÄnosti byli stvoÅ™eni pÅ™Ã­mo tady v Americe! Jak asi tuÅ¡Ã­te, nebyli stvoÅ™eni matkou pÅ™Ã­rodou, ale jsou dÃ­lem vÄ›dy!}
+{301}{}{[VÃ­ce]}
+{310}{}{PÅ™esnÄ› tak, tato hrÅ¯zostraÅ¡nÃ¡ monstra byla vyvinuta americkÃ½mi vÄ›dci v pÅ™Ã­snÄ› tajnÃ½ch laboratoÅ™Ã­ch jako nejnovÄ›jÅ¡Ã­ zbraÅˆ ve vÃ¡lce za svobodu. Jejich silnÃ¡ chapadla a ostrÃ© zuby byly speciÃ¡lnÄ› navrÅ¾eny k potÃ­rÃ¡nÃ­ nepÅ™Ã¡tel Ameriky. Chapadla jim takÃ© skvÄ›le slouÅ¾Ã­ ke kopÃ¡nÃ­, takÅ¾e komouÅ¡i nebudou v bezpeÄÃ­ ani ve svÃ½ch podzemnÃ­ch bunkrech! NavÃ­c majÃ­ tito zuÅ™ivÃ­ zabijÃ¡ci tak tlustou kÅ¯Å¾i, Å¾e jÃ­ kulka jen velmi tÄ›Å¾ko pronikne!}
+{311}{}{[VÃ­ce]}
+{320}{}{DÃ­vÃ¡te se na budoucnost biologickÃ©ho vÃ¡lÄenÃ­! Ale nebojte se, tyto straÅ¡livÃ© stroje na zabÃ­jenÃ­ vÃ¡s nemohou ohrozit, jelikoÅ¾ jsou bezpeÄnÄ› uzavÅ™eni v pÅ™Ã­snÄ› stÅ™eÅ¾enÃ½ch klecÃ­ch. Omluvte prosÃ­m tlumenÃ© svÄ›tlo, ale tito tvorovÃ© jsou nejradÄ›ji v chladnÃ½ch, temnÃ½ch mÃ­stech a urÄitÄ› byste je nechtÄ›li naÅ¡tvat, Å¾e ano?}
+{321}{}{[OdhlÃ¡sit se]}
+{400}{}{Zde mÅ¯Å¾ete vidÄ›t rostliny, jakÃ© jste pravdÄ›podobnÄ› jeÅ¡tÄ› nikdy nevidÄ›li! Tyto velmi zajÃ­mavÃ© novÃ© druhy, jejichÅ¾ nÃ¡m znÃ¡mou pÅ™Ã­buznou je "Mucholapka podivnÃ¡", byly speciÃ¡lnÄ› vytvoÅ™eny naÅ¡imi geniÃ¡lnÃ­mi vÄ›dci, aby byly schopny pÅ™eÅ¾Ã­t ve svÄ›tÄ› zniÄenÃ©m jadernou vÃ¡lkou. ProÄ to dÄ›lÃ¡me? To je jednoduchÃ©.}
+{401}{}{[VÃ­ce]}
+{410}{}{VÄ›dci vÄ›Å™Ã­, Å¾e se po globÃ¡lnÃ­ jadernÃ© vÃ¡lce vÄ›tÅ¡ina ZemÄ› stane neÃºrodnou pustinou. BÄ›Å¾nÃ© rostliny jen tÄ›Å¾ko pÅ™eÅ¾ijÃ­ v tomto novÃ©m nehostinnÃ©m prostÅ™edÃ­. A teÄ si pÅ™edstavte, Å¾e opustÃ­me bezpeÄÃ­ naÅ¡ich Vault-Tec vaultÅ¯ jen proto, abychom zjistili, Å¾e je vÅ¡echna vegetace mrtvÃ¡! UÅ¾ Å¾Ã¡dnÃ½ salÃ¡t pro mÃ¡mu a Å¾Ã¡dnÃ½ trÃ¡vnÃ­k pro Billyho a Rovera, kde by mohli aportovat.}
+{411}{}{[VÃ­ce]}
+{420}{}{ZnÃ­ to hrozivÄ›, Å¾e ano? Ale nebojte se. Tyto novÃ© rostliny mohou bÃ½t Å™eÅ¡enÃ­m naÅ¡eho problÃ©mu. Jsou schopny zÃ­skat Å¾iviny zabÃ­jenÃ­m a poÅ¾Ã­rÃ¡nÃ­m zvÄ›Å™e stejnÄ› jako lidÃ©, namÃ­sto spolÃ©hÃ¡nÃ­ se na Ãºrodnou pÅ¯du a deÅ¡Å¥ovÃ© srÃ¡Å¾ky! A to vÅ¡e dÃ­ky zÃ¡zrakÅ¯m vÄ›dy!}
+{421}{}{[OdhlÃ¡sit se]}

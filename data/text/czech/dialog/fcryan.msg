@@ -1,27 +1,27 @@
-{100}{}{Vidíš pankáèe s napùl vyholenou hlavou.}
-{101}{}{Vidíš Ryana, pramen veškeré moudrosti.}
-{102}{}{Vidíš nafoukaného a potmìšilého pankáèe.}
-{103}{}{Musíš to vydret, ty vole.}
-{104}{}{Tohle je strašná prdel.}
-{105}{}{Udìlám tì tak, e budeš krvácet. Pardon, øekl jsem to snad nahlas?}
+{100}{}{VidÃ­Å¡ pankÃ¡Äe s napÅ¯l vyholenou hlavou.}
+{101}{}{VidÃ­Å¡ Ryana, pramen veÅ¡kerÃ© moudrosti.}
+{102}{}{VidÃ­Å¡ nafoukanÃ©ho a potmÄ›Å¡ilÃ©ho pankÃ¡Äe.}
+{103}{}{MusÃ­Å¡ to vydrÅ¾et, ty vole.}
+{104}{}{Tohle je straÅ¡nÃ¡ prdel.}
+{105}{}{UdÄ›lÃ¡m tÄ› tak, Å¾e budeÅ¡ krvÃ¡cet. Pardon, Å™ekl jsem to snad nahlas?}
 {106}{}{Aj karamba! Nalgas con queso!}
-{107}{}{Héhé héhé héhé!}
-{108}{}{Padám odsud.}
-{109}{}{Znal jsem Velkıho Jeíše Mordina kdy byl ještì malej Jeíš.}
-{110}{}{Jeíši Kriste Panno Marie!}
-{111}{}{Jsem vırobce. Dìlám hry. Hry jsou zábava. Zahraj si moje hry.}
+{107}{}{HÃ©hÃ© hÃ©hÃ© hÃ©hÃ©!}
+{108}{}{PadÃ¡m odsud.}
+{109}{}{Znal jsem VelkÃ½ho JeÅ¾Ã­Å¡e Mordina kdyÅ¾ byl jeÅ¡tÄ› malej JeÅ¾Ã­Å¡.}
+{110}{}{JeÅ¾Ã­Å¡i Kriste Panno Marie!}
+{111}{}{Jsem vÃ½robce. DÄ›lÃ¡m hry. Hry jsou zÃ¡bava. Zahraj si moje hry.}
 {112}{}{Plamenomet na buzny!}
-{113}{}{Øíkaj mi... LESKLİ KLADIVO.}
-{114}{}{Pøišel jsem do San Fran dìlat hry a nakopat pár zadkù.}
-{115}{}{Letní lásky...}
-{116}{}{Hola, seòore! Nebo je to seòorita?}
-{117}{}{Héhé!}
-{118}{}{Ty vole... tohle místo je jak slib ve Stocktonu... samej vítr a ádná akce.}
-{119}{}{Mùj pøítel Scott si myslel, e hlavní mìsto Old California je Stockton. Fakt!}
-{120}{}{Chtìl bych se udìlat na Chipa.}
+{113}{}{Å˜Ã­kaj mi... LESKLÃ KLADIVO.}
+{114}{}{PÅ™iÅ¡el jsem do San Fran dÄ›lat hry a nakopat pÃ¡r zadkÅ¯.}
+{115}{}{LetnÃ­ lÃ¡sky...}
+{116}{}{Hola, seÅˆore! Nebo je to seÅˆorita?}
+{117}{}{HÃ©hÃ©!}
+{118}{}{Ty vole... tohle mÃ­sto je jak slib ve Stocktonu... samej vÃ­tr a Å¾Ã¡dnÃ¡ akce.}
+{119}{}{MÅ¯j pÅ™Ã­tel Scott si myslel, Å¾e hlavnÃ­ mÄ›sto Old California je Stockton. Fakt!}
+{120}{}{ChtÄ›l bych se udÄ›lat na Chipa.}
 {121}{}{Ty vole!}
-{122}{}{Ale no ták!}
-{123}{}{Nával zlaaaaaaa!}
-{124}{}{Fakt mì chceš rozzuøit?}
-{125}{}{Jasnı, ne?}
-{126}{}{Pøesnì, pane. Hehehe.}
+{122}{}{Ale no tÃ¡k!}
+{123}{}{NÃ¡val zlaaaaaaa!}
+{124}{}{Fakt mÄ› chceÅ¡ rozzuÅ™it?}
+{125}{}{JasnÃ½, ne?}
+{126}{}{PÅ™esnÄ›, pane. Hehehe.}

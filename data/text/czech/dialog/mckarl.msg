@@ -1,88 +1,88 @@
-{100}{}{Orala. (Má ceduli s nápisem: "Budu pracovat za stravu.")}
-{101}{}{Vidíš Karla.}
-{102}{}{Je tak špinavı, e mu ve vlasech roste nìjakı plevel.}
-{150}{}{Tady máš pivo.}
-{151}{}{Tady máš láhev chlastu.}
-{152}{}{Tady máš Nuka-Colu.}
+{100}{}{OÅ¾rala. (MÃ¡ ceduli s nÃ¡pisem: "Budu pracovat za stravu.")}
+{101}{}{VidÃ­Å¡ Karla.}
+{102}{}{Je tak Å¡pinavÃ½, Å¾e mu ve vlasech roste nÄ›jakÃ½ plevel.}
+{150}{}{Tady mÃ¡Å¡ pivo.}
+{151}{}{Tady mÃ¡Å¡ lÃ¡hev chlastu.}
+{152}{}{Tady mÃ¡Å¡ Nuka-Colu.}
 {153}{}{Hej.}
 {154}{}{Hej!}
 {155}{}{HEJ!!}
-{156}{}{Duchové mì tu nenajdou... (smrk)}
-{157}{}{To je dobøe, e jsem zase doma.}
+{156}{}{DuchovÃ© mÄ› tu nenajdou... (smrk)}
+{157}{}{To je dobÅ™e, Å¾e jsem zase doma.}
 {159}{}{To je Karl. Je mimo.}
 {160}{}{Bude se z toho muset vyspat.}
-{161}{}{Aááá! Duchové z farmy mì chtìjí dostat!}
-{162}{}{Nemáš nìjakı drobnı (škyt) pro vyslouilıho farmáøe?}
-{163}{}{Jasnì, kámo. Kolik potøebuješ?}
-{164}{}{Nechceš tøeba koupit nìjaké teplé jídlo?}
-{165}{}{Je mi líto, ale nemám ádné peníze.}
-{166}{}{Co tu vlastnì dìláš?}
-{167}{}{DROB-Nİ?}
-{168}{}{Ftipnıı.}
-{169}{}{Oóó, jsi milı a štìdrı èlovìk. (škyt) Mùe ti Karl nìjak pomoct? (škyt) (Sundá si èepici a natáhne svoji ruku.)}
-{170}{}{Tady. Tady máš $100.}
-{173}{}{Promiò, nic pro tebe nemám. Nashle.}
-{174}{}{Nevíš, kde najdu GECK?}
-{175}{}{Pøed chvílí ses zmínil o zahradì. Povìz mi o tom víc.}
-{178}{}{Já jít.}
-{179}{}{Hej, lakoto! (škyt) No tak, já vím, e máš prachy... (škyt) Tak aspoò pár drobnejch... (škyt) Nìco, cokoliv! Slituj se.}
-{180}{}{Na. Tady máš $25.}
-{184}{}{Na. Tady máš $1.}
-{185}{}{Tady peníze.}
-{186}{}{Nemít peníze.}
-{187}{}{Co chceš?}
-{188}{}{(Øíct Karlovi, co øíkal Jo.)}
-{189}{}{Duchové, Karle... jsou všude. Podívej, tady je taky jeden!}
+{161}{}{AÃ¡Ã¡Ã¡! DuchovÃ© z farmy mÄ› chtÄ›jÃ­ dostat!}
+{162}{}{NemÃ¡Å¡ nÄ›jakÃ½ drobnÃ½ (Å¡kyt) pro vyslouÅ¾ilÃ½ho farmÃ¡Å™e?}
+{163}{}{JasnÄ›, kÃ¡mo. Kolik potÅ™ebujeÅ¡?}
+{164}{}{NechceÅ¡ tÅ™eba koupit nÄ›jakÃ© teplÃ© jÃ­dlo?}
+{165}{}{Je mi lÃ­to, ale nemÃ¡m Å¾Ã¡dnÃ© penÃ­ze.}
+{166}{}{Co tu vlastnÄ› dÄ›lÃ¡Å¡?}
+{167}{}{DROB-NÃ?}
+{168}{}{FtipnÃ½Ã½.}
+{169}{}{OÃ³Ã³, jsi milÃ½ a Å¡tÄ›drÃ½ ÄlovÄ›k. (Å¡kyt) MÅ¯Å¾e ti Karl nÄ›jak pomoct? (Å¡kyt) (SundÃ¡ si Äepici a natÃ¡hne svoji ruku.)}
+{170}{}{Tady. Tady mÃ¡Å¡ $100.}
+{173}{}{PromiÅˆ, nic pro tebe nemÃ¡m. Nashle.}
+{174}{}{NevÃ­Å¡, kde najdu GECK?}
+{175}{}{PÅ™ed chvÃ­lÃ­ ses zmÃ­nil o zahradÄ›. PovÄ›z mi o tom vÃ­c.}
+{178}{}{JÃ¡ jÃ­t.}
+{179}{}{Hej, lakoto! (Å¡kyt) No tak, jÃ¡ vÃ­m, Å¾e mÃ¡Å¡ prachy... (Å¡kyt) Tak aspoÅˆ pÃ¡r drobnejch... (Å¡kyt) NÄ›co, cokoliv! Slituj se.}
+{180}{}{Na. Tady mÃ¡Å¡ $25.}
+{184}{}{Na. Tady mÃ¡Å¡ $1.}
+{185}{}{Tady penÃ­ze.}
+{186}{}{NemÃ­t penÃ­ze.}
+{187}{}{Co chceÅ¡?}
+{188}{}{(Å˜Ã­ct Karlovi, co Å™Ã­kal Jo.)}
+{189}{}{DuchovÃ©, Karle... jsou vÅ¡ude. PodÃ­vej, tady je taky jeden!}
 {190}{}{Gibba gibba.}
-{191}{}{Chceš si (škyt) zase dìlat legraci z chudáka Karla? (škyt) Dobøe, tak na co èekáš? (škyt) Skonèíme to!}
-{198}{}{(Zastøenım hlasem.) Takovı zámonı èlovìk jako ty... (škyt) $1000 by se mi hodilo.}
-{199}{}{Jistì, tady máš.}
-{200}{}{A na jak dlouho, na rok? V ádném pøípadì. Tady máš $25.}
-{201}{}{Máš mì za blázna? Odcházím.}
-{202}{}{(Karlovi spadne pøekvapením èelist.) Díky! Jsi (škyt) velmi štìdrı èlovìk... (škyt) Pokud budeš nìco (škyt) potøebovat, pøijï za mnou. Mimochodem, (škyt) jmenuju se Karl.}
-{203}{}{Jistì, Karle. Vlastnì hledám vìc, která se jmenuje GECK. Netušíš, kde se dá nìco takového najít?}
-{204}{}{Budu si to pamatovat. Dávej na sebe pozor, Karle.}
-{205}{}{Co jseš to za èlovìka? (škyt) Zkoušet takovı triky na chudáka bezdomovce farm... (škyt) ...áøe. Dej mi pokoj!}
-{206}{}{Jóóó... (škyt) To je prej nìjaká (škyt) ještìrka, ale nikdy jsem ádnou nevidìl.}
-{207}{}{Ne, hledám GECK, ne geckona.}
-{208}{}{Zapomeò na to. Díky za informace.}
-{209}{}{Joo! Myslíš geckona... (škyt) Jóó, to je velká ješ... (škyt) ...tìrka. (Karl roztáhne ruce a ukáe, jak je asi veliká. Zdá se, e je ta ještìrka dlouhá nìco mezi osmi centimetry a jedním metrem.)}
-{210}{}{Pokusím se ti to vysvìtlit. Nehledám geckona, ale vìc, která se jmenuje GECK.}
-{212}{}{Proè to neøekneš hned? (škyt) Vím, kde ho získat... (škyt) Rajská zahr... (Karl sebou plácne o zem a usne.)}
-{213}{}{(Moná si s Karlem budeš moct promluvit a se probudí.)}
-{214}{}{Bùh ti ehnej! (škyt) Za záchranu mıho ivota.}
-{215}{}{Hledám GECK. Mùeš mi pomoct?}
-{216}{}{To nestálo za øeè. Uvidíme se pozdìji, Karle.}
-{217}{}{Em... (škyt) Teï nemám hlad... (škyt) Heleï, dej mi radši prachy, co øíkáš? (škyt)}
-{219}{}{Ty lháøi. Vsadím se, e potøebuješ peníze na drogy, e?}
-{220}{}{Lha... lah... háø... Coe? (škyt) Odvolej to... (škyt) A u to znamená cokoliv, urèitì to nebude nic dobrıho.}
-{221}{}{(Ne staèíš odpovìdìt, Karl upadne na zem a usne.)}
-{222}{}{To je v pohodììììì... (škyt) Nemáš u sebe nìjakı tekutı obèer... (škyt)...stvení? V noci tu bejvá pìkná (škyt) zima.}
-{224}{}{Jseš mùj (škyt) nejlepší kamarád na tomhle zatr... (škyt) ...acenım svìtì. (Karl si lokne z láhve a zase usne.)}
-{225}{}{No nic, moná si s Karlem budeš moct promluvit pozdìji.}
-{226}{}{Jseš mùj (škyt) nejlepší kamarád na tomhle zatr... (škyt) ...acenım svìtì. (Karl otevøe láhev, napije se a pak tì poprská.) Tfuj! Co to...?! Chceš mì snad otrávit?! Vypadni odsud!}
-{227}{}{Díky, (škyt) to bylo od tebe šlechetnı (škyt). Co kdybych ti pomohl s tím tìkım mìšcem? (Karl sáhne po tvém mìšci a vezme si polovinu penìz.) Jsi moc hodnej. (škyt) Jestli budeš nìco potøebovat, klidnì se mì zeptej.}
+{191}{}{ChceÅ¡ si (Å¡kyt) zase dÄ›lat legraci z chudÃ¡ka Karla? (Å¡kyt) DobÅ™e, tak na co ÄekÃ¡Å¡? (Å¡kyt) SkonÄÃ­me to!}
+{198}{}{(ZastÅ™enÃ½m hlasem.) TakovÃ½ zÃ¡moÅ¾nÃ½ ÄlovÄ›k jako ty... (Å¡kyt) $1000 by se mi hodilo.}
+{199}{}{JistÄ›, tady mÃ¡Å¡.}
+{200}{}{A na jak dlouho, na rok? V Å¾Ã¡dnÃ©m pÅ™Ã­padÄ›. Tady mÃ¡Å¡ $25.}
+{201}{}{MÃ¡Å¡ mÄ› za blÃ¡zna? OdchÃ¡zÃ­m.}
+{202}{}{(Karlovi spadne pÅ™ekvapenÃ­m Äelist.) DÃ­ky! Jsi (Å¡kyt) velmi Å¡tÄ›drÃ½ ÄlovÄ›k... (Å¡kyt) Pokud budeÅ¡ nÄ›co (Å¡kyt) potÅ™ebovat, pÅ™ijÄ za mnou. Mimochodem, (Å¡kyt) jmenuju se Karl.}
+{203}{}{JistÄ›, Karle. VlastnÄ› hledÃ¡m vÄ›c, kterÃ¡ se jmenuje GECK. NetuÅ¡Ã­Å¡, kde se dÃ¡ nÄ›co takovÃ©ho najÃ­t?}
+{204}{}{Budu si to pamatovat. DÃ¡vej na sebe pozor, Karle.}
+{205}{}{Co jseÅ¡ to za ÄlovÄ›ka? (Å¡kyt) ZkouÅ¡et takovÃ½ triky na chudÃ¡ka bezdomovce farm... (Å¡kyt) ...Ã¡Å™e. Dej mi pokoj!}
+{206}{}{JÃ³Ã³Ã³... (Å¡kyt) To je prej nÄ›jakÃ¡ (Å¡kyt) jeÅ¡tÄ›rka, ale nikdy jsem Å¾Ã¡dnou nevidÄ›l.}
+{207}{}{Ne, hledÃ¡m GECK, ne geckona.}
+{208}{}{ZapomeÅˆ na to. DÃ­ky za informace.}
+{209}{}{Joo! MyslÃ­Å¡ geckona... (Å¡kyt) JÃ³Ã³, to je velkÃ¡ jeÅ¡... (Å¡kyt) ...tÄ›rka. (Karl roztÃ¡hne ruce a ukÃ¡Å¾e, jak je asi velikÃ¡. ZdÃ¡ se, Å¾e je ta jeÅ¡tÄ›rka dlouhÃ¡ nÄ›co mezi osmi centimetry a jednÃ­m metrem.)}
+{210}{}{PokusÃ­m se ti to vysvÄ›tlit. NehledÃ¡m geckona, ale vÄ›c, kterÃ¡ se jmenuje GECK.}
+{212}{}{ProÄ to neÅ™ekneÅ¡ hned? (Å¡kyt) VÃ­m, kde ho zÃ­skat... (Å¡kyt) RajskÃ¡ zahr... (Karl sebou plÃ¡cne o zem a usne.)}
+{213}{}{(MoÅ¾nÃ¡ si s Karlem budeÅ¡ moct promluvit aÅ¾ se probudÃ­.)}
+{214}{}{BÅ¯h ti Å¾ehnej! (Å¡kyt) Za zÃ¡chranu mÃ½ho Å¾ivota.}
+{215}{}{HledÃ¡m GECK. MÅ¯Å¾eÅ¡ mi pomoct?}
+{216}{}{To nestÃ¡lo za Å™eÄ. UvidÃ­me se pozdÄ›ji, Karle.}
+{217}{}{Em... (Å¡kyt) TeÄ nemÃ¡m hlad... (Å¡kyt) HeleÄ, dej mi radÅ¡i prachy, co Å™Ã­kÃ¡Å¡? (Å¡kyt)}
+{219}{}{Ty lhÃ¡Å™i. VsadÃ­m se, Å¾e potÅ™ebujeÅ¡ penÃ­ze na drogy, Å¾e?}
+{220}{}{Lha... lah... hÃ¡Å™... CoÅ¾e? (Å¡kyt) Odvolej to... (Å¡kyt) AÅ¥ uÅ¾ to znamenÃ¡ cokoliv, urÄitÄ› to nebude nic dobrÃ½ho.}
+{221}{}{(NeÅ¾ staÄÃ­Å¡ odpovÄ›dÄ›t, Karl upadne na zem a usne.)}
+{222}{}{To je v pohodÄ›Ä›Ä›Ä›Ä›... (Å¡kyt) NemÃ¡Å¡ u sebe nÄ›jakÃ½ tekutÃ½ obÄer... (Å¡kyt)...stvenÃ­? V noci tu bejvÃ¡ pÄ›knÃ¡ (Å¡kyt) zima.}
+{224}{}{JseÅ¡ mÅ¯j (Å¡kyt) nejlepÅ¡Ã­ kamarÃ¡d na tomhle zatr... (Å¡kyt) ...acenÃ½m svÄ›tÄ›. (Karl si lokne z lÃ¡hve a zase usne.)}
+{225}{}{No nic, moÅ¾nÃ¡ si s Karlem budeÅ¡ moct promluvit pozdÄ›ji.}
+{226}{}{JseÅ¡ mÅ¯j (Å¡kyt) nejlepÅ¡Ã­ kamarÃ¡d na tomhle zatr... (Å¡kyt) ...acenÃ½m svÄ›tÄ›. (Karl otevÅ™e lÃ¡hev, napije se a pak tÄ› poprskÃ¡.) Tfuj! Co to...?! ChceÅ¡ mÄ› snad otrÃ¡vit?! Vypadni odsud!}
+{227}{}{DÃ­ky, (Å¡kyt) to bylo od tebe Å¡lechetnÃ½ (Å¡kyt). Co kdybych ti pomohl s tÃ­m tÄ›Å¾kÃ½m mÄ›Å¡cem? (Karl sÃ¡hne po tvÃ©m mÄ›Å¡ci a vezme si polovinu penÄ›z.) Jsi moc hodnej. (Å¡kyt) Jestli budeÅ¡ nÄ›co potÅ™ebovat, klidnÄ› se mÄ› zeptej.}
 {228}{}{GECK?}
-{229}{}{Já jít.}
-{230}{}{Jejda... škyt... asi pùjdu do vìzení.}
-{231}{}{Tak moná pozdìji.}
-{232}{}{Jéé... (škyt) ...díky. Moná bych si mohl koupit náboj a (škyt) zastøelit se. (škyt) Ale samozøejmì bych musel (škyt) nejdøív našetøit na pistoli.}
-{233}{}{Chceš øíct, e... mùu jít domù? Je konec s duchama? (Karl padne na zem a pláèe. Dospìlı mu a takhle breèí, to je pohled.) Díky, koneènì mùu jít zase domù!}
-{234}{}{Kde?! Neeeeeeeeeee! Našli mì!}
-{235}{}{No jo, mìl jsem tu nejvìtší zahradu, jakou (škyt) si èlovìk mùe pøát. A na to, (škyt) e tam odkud pocházím, jsme tomu øíkali farma...}
-{236}{}{Nevzpomínáš si? Mluvili jsme o GECKu a ty ses zmínil o zahradì.}
-{237}{}{Zapomeò na to, tohle nikam nevede.}
-{238}{}{Hej! (škyt) Jseš docela kost! Co kdybysme ty a já šli dozadu (škyt) a líp se poznali? Mùu zaplatit... mám $1000. (Karl na tebe šibalsky mrkne.)}
-{239}{}{Víš o tom, e mluvíš s chlapem?}
-{240}{}{Jistì, ale bude tì to stát $1000.}
-{241}{}{Díky za nabídku, ale radìji si promluvme o GECKu.}
+{229}{}{JÃ¡ jÃ­t.}
+{230}{}{Jejda... Å¡kyt... asi pÅ¯jdu do vÄ›zenÃ­.}
+{231}{}{Tak moÅ¾nÃ¡ pozdÄ›ji.}
+{232}{}{JÃ©Ã©... (Å¡kyt) ...dÃ­ky. MoÅ¾nÃ¡ bych si mohl koupit nÃ¡boj a (Å¡kyt) zastÅ™elit se. (Å¡kyt) Ale samozÅ™ejmÄ› bych musel (Å¡kyt) nejdÅ™Ã­v naÅ¡etÅ™it na pistoli.}
+{233}{}{ChceÅ¡ Å™Ã­ct, Å¾e... mÅ¯Å¾u jÃ­t domÅ¯? Je konec s duchama? (Karl padne na zem a plÃ¡Äe. DospÄ›lÃ½ muÅ¾ a takhle breÄÃ­, to je pohled.) DÃ­ky, koneÄnÄ› mÅ¯Å¾u jÃ­t zase domÅ¯!}
+{234}{}{Kde?! Neeeeeeeeeee! NaÅ¡li mÄ›!}
+{235}{}{No jo, mÄ›l jsem tu nejvÄ›tÅ¡Ã­ zahradu, jakou (Å¡kyt) si ÄlovÄ›k mÅ¯Å¾e pÅ™Ã¡t. AÅ¾ na to, (Å¡kyt) Å¾e tam odkud pochÃ¡zÃ­m, jsme tomu Å™Ã­kali farma...}
+{236}{}{NevzpomÃ­nÃ¡Å¡ si? Mluvili jsme o GECKu a ty ses zmÃ­nil o zahradÄ›.}
+{237}{}{ZapomeÅˆ na to, tohle nikam nevede.}
+{238}{}{Hej! (Å¡kyt) JseÅ¡ docela kost! Co kdybysme ty a jÃ¡ Å¡li dozadu (Å¡kyt) a lÃ­p se poznali? MÅ¯Å¾u zaplatit... mÃ¡m $1000. (Karl na tebe Å¡ibalsky mrkne.)}
+{239}{}{VÃ­Å¡ o tom, Å¾e mluvÃ­Å¡ s chlapem?}
+{240}{}{JistÄ›, ale bude tÄ› to stÃ¡t $1000.}
+{241}{}{DÃ­ky za nabÃ­dku, ale radÄ›ji si promluvme o GECKu.}
 {242}{}{Ani za nic!}
-{243}{}{Jseš tak heská... (škyt) Kdy nic nikomu neøekneš, tak já taky ne. (škyt)}
-{244}{}{(Nemùeš se ubránit smíchu.) Budu muset jít.}
-{245}{}{Dobøe, $1000.}
-{246}{}{(Ty a Karl se vypaøíte na jednu rychlovku. K tvému pøekvapení to nebylo špatné.)}
-{247}{}{(Rychle vystøízliví a zaène vyprávìt svùj pøíbìh.) Byl jsem poèestnı obèan, ne jsem pøišel sem. Byl jsem mírumilovnı farmáø, kterı pracoval na polích stejnì tvrdì jako všichni ostatní, dokud se nezaèali v noci objevovat. Všichni svìtélkovali a mìli bledé tváøe... vydìsili mì k smrti. Objevovali se kadou noc a kradli mi úrodu i dobytek. Nemohl jsem je nijak zastavit. Vím, co chceš øíct. "Proè jsi nepoádal o pomoc?" Poádal! Nikdo mi ale nevìøil, mysleli si, e jsem blázen. Nakonec toho bylo na mì moc. U JSEM TO NEMOHL VYDRET! Vzdal jsem to a pøišel sem... a od té doby iju tady. (Karl zaène šílenì plakat. Rozhodneš se odejít a nechat ho i s jeho utrpením.)}
-{248}{}{Kruci, musel jsem nìkde po cestì ztratit peníze. Tady je $}
+{243}{}{JseÅ¡ tak heskÃ¡... (Å¡kyt) KdyÅ¾ nic nikomu neÅ™ekneÅ¡, tak jÃ¡ taky ne. (Å¡kyt)}
+{244}{}{(NemÅ¯Å¾eÅ¡ se ubrÃ¡nit smÃ­chu.) Budu muset jÃ­t.}
+{245}{}{DobÅ™e, $1000.}
+{246}{}{(Ty a Karl se vypaÅ™Ã­te na jednu rychlovku. K tvÃ©mu pÅ™ekvapenÃ­ to nebylo Å¡patnÃ©.)}
+{247}{}{(Rychle vystÅ™Ã­zlivÃ­ a zaÄne vyprÃ¡vÄ›t svÅ¯j pÅ™Ã­bÄ›h.) Byl jsem poÄestnÃ½ obÄan, neÅ¾ jsem pÅ™iÅ¡el sem. Byl jsem mÃ­rumilovnÃ½ farmÃ¡Å™, kterÃ½ pracoval na polÃ­ch stejnÄ› tvrdÄ› jako vÅ¡ichni ostatnÃ­, dokud se nezaÄali v noci objevovat. VÅ¡ichni svÄ›tÃ©lkovali a mÄ›li bledÃ© tvÃ¡Å™e... vydÄ›sili mÄ› k smrti. Objevovali se kaÅ¾dou noc a kradli mi Ãºrodu i dobytek. Nemohl jsem je nijak zastavit. VÃ­m, co chceÅ¡ Å™Ã­ct. "ProÄ jsi nepoÅ¾Ã¡dal o pomoc?" PoÅ¾Ã¡dal! Nikdo mi ale nevÄ›Å™il, mysleli si, Å¾e jsem blÃ¡zen. Nakonec toho bylo na mÄ› moc. UÅ½ JSEM TO NEMOHL VYDRÅ½ET! Vzdal jsem to a pÅ™iÅ¡el sem... a od tÃ© doby Å¾iju tady. (Karl zaÄne Å¡Ã­lenÄ› plakat. RozhodneÅ¡ se odejÃ­t a nechat ho i s jeho utrpenÃ­m.)}
+{248}{}{Kruci, musel jsem nÄ›kde po cestÄ› ztratit penÃ­ze. Tady je $}
 {249}{}{.}
 {250}{}{Chrr}
 {251}{}{Chrrrrr}
@@ -90,8 +90,8 @@
 {253}{}{Chrrrrrrrrr}
 {254}{}{Chrrrrrrrrrrr}
 {255}{}{*frk* *chrocht* *frk*}
-{260}{}{Kruci, musel jsem nìkde po cestì ztratit peníze. Tady je $}
-{261}{}{. To je všechno, co mám.}
-{262}{}{Kruci, musel jsem nìkde po cestì ztratit peníze. Promiò, ale stejnì to byla zábava.}
-{300}{}{Mùu jít domù, dìkuju ti!}
-{400}{}{Posíláš Karla zpátky do Modocu.}
+{260}{}{Kruci, musel jsem nÄ›kde po cestÄ› ztratit penÃ­ze. Tady je $}
+{261}{}{. To je vÅ¡echno, co mÃ¡m.}
+{262}{}{Kruci, musel jsem nÄ›kde po cestÄ› ztratit penÃ­ze. PromiÅˆ, ale stejnÄ› to byla zÃ¡bava.}
+{300}{}{MÅ¯Å¾u jÃ­t domÅ¯, dÄ›kuju ti!}
+{400}{}{PosÃ­lÃ¡Å¡ Karla zpÃ¡tky do Modocu.}

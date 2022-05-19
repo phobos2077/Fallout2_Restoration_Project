@@ -1,18 +1,18 @@
-{100}{}{Vidíš mutanta... jednoho z tìch krotkıch.}
-{101}{}{To je Lenny, vzpomínáš si? Ten otrapa.}
-{102}{}{Tak tenhle chlápek je teda fakt nìco. Kromì toho, e je zelenı a škaredı, má na sobì víc jizev ne stará kurva. Je to bojovník, o tom ádná.}
-{103}{}{Já jsem Lenny a ty jseš vyvrhel. Vypadni odsud.}
-{104}{}{Proè otravuješ Lennyho, ty malej bílej èerve?}
-{105}{}{Co chceš po Lennym, ubohı èlovíèku?}
-{106}{}{Ještì chvíli do mì strkej a budeš mít pøíleitost osobnì vyøídit svımu stvoøiteli, e tì k nìmu poslal Lenny.}
-{107}{}{Rád tì vidím. Jsem Lenny a ty musíš bejt Hovno-místo-mozku. Haha!}
-{108}{}{Vyøiï svımu mutantnímu pánovi, e se jmenuju Lenny, otroku.}
-{109}{}{Hej, bratøe mutantíku, Lennyho by zajmalo, proè se zahazuješ s tím lidskım èervem.}
-{110}{}{Lenny s nikım nemluví. Dìlá z mutantù svı otroky, èerve.}
-{111}{}{Lenny øíká, e ty a ten tvùj mutantí vlezdoprdelka Tom mùete jít k èertu.}
-{112}{}{Dávej bacha. Lenny není ádnej krotkej mutant jako ten, co chodí s tebou.}
-{113}{}{A hele, ta malá bledá kùe je zpátky!}
-{114}{}{Nech mì bejt, èlovìèe.}
-{115}{}{Ztra se, troubo.}
-{116}{}{Co se dìje? Potøebuješ, aby ti nìkdo vymìnil plíny?}
-{117}{}{Ty jseš asi tak stejnì chytrej jako houpací kùò, èlovíèku.}
+{100}{}{VidÃ­Å¡ mutanta... jednoho z tÄ›ch krotkÃ½ch.}
+{101}{}{To je Lenny, vzpomÃ­nÃ¡Å¡ si? Ten otrapa.}
+{102}{}{Tak tenhle chlÃ¡pek je teda fakt nÄ›co. KromÄ› toho, Å¾e je zelenÃ½ a Å¡karedÃ½, mÃ¡ na sobÄ› vÃ­c jizev neÅ¾ starÃ¡ kurva. Je to bojovnÃ­k, o tom Å¾Ã¡dnÃ¡.}
+{103}{}{JÃ¡ jsem Lenny a ty jseÅ¡ vyvrhel. Vypadni odsud.}
+{104}{}{ProÄ otravujeÅ¡ Lennyho, ty malej bÃ­lej Äerve?}
+{105}{}{Co chceÅ¡ po Lennym, ubohÃ½ ÄlovÃ­Äku?}
+{106}{}{JeÅ¡tÄ› chvÃ­li do mÄ› strkej a budeÅ¡ mÃ­t pÅ™Ã­leÅ¾itost osobnÄ› vyÅ™Ã­dit svÃ½mu stvoÅ™iteli, Å¾e tÄ› k nÄ›mu poslal Lenny.}
+{107}{}{RÃ¡d tÄ› vidÃ­m. Jsem Lenny a ty musÃ­Å¡ bejt Hovno-mÃ­sto-mozku. Haha!}
+{108}{}{VyÅ™iÄ svÃ½mu mutantnÃ­mu pÃ¡novi, Å¾e se jmenuju Lenny, otroku.}
+{109}{}{Hej, bratÅ™e mutantÃ­ku, Lennyho by zajmalo, proÄ se zahazujeÅ¡ s tÃ­m lidskÃ½m Äervem.}
+{110}{}{Lenny s nikÃ½m nemluvÃ­. DÄ›lÃ¡ z mutantÅ¯ svÃ½ otroky, Äerve.}
+{111}{}{Lenny Å™Ã­kÃ¡, Å¾e ty a ten tvÅ¯j mutantÃ­ vlezdoprdelka Tom mÅ¯Å¾ete jÃ­t k Äertu.}
+{112}{}{DÃ¡vej bacha. Lenny nenÃ­ Å¾Ã¡dnej krotkej mutant jako ten, co chodÃ­ s tebou.}
+{113}{}{A hele, ta malÃ¡ bledÃ¡ kÅ¯Å¾e je zpÃ¡tky!}
+{114}{}{Nech mÄ› bejt, ÄlovÄ›Äe.}
+{115}{}{ZtraÅ¥ se, troubo.}
+{116}{}{Co se dÄ›je? PotÅ™ebujeÅ¡, aby ti nÄ›kdo vymÄ›nil plÃ­ny?}
+{117}{}{Ty jseÅ¡ asi tak stejnÄ› chytrej jako houpacÃ­ kÅ¯Åˆ, ÄlovÃ­Äku.}

@@ -1,5 +1,5 @@
-{100}{}{Vidíš robota.}
-{101}{}{Vidíš místnost pro údrbu reaktoru a robota OPRAVÁØE.}
-{102}{}{Vidíš robota. Vypadá to, e je funkèní.}
-{200}{}{Robot opravil jadernou elektrárnu.}
-{300}{}{Robot byl naprogramován, aby znièil reaktor.}
+{100}{}{VidÃ­Å¡ robota.}
+{101}{}{VidÃ­Å¡ mÃ­stnost pro ÃºdrÅ¾bu reaktoru a robota OPRAVÃÅ˜E.}
+{102}{}{VidÃ­Å¡ robota. VypadÃ¡ to, Å¾e je funkÄnÃ­.}
+{200}{}{Robot opravil jadernou elektrÃ¡rnu.}
+{300}{}{Robot byl naprogramovÃ¡n, aby zniÄil reaktor.}

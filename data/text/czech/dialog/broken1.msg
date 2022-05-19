@@ -1,1 +1,1 @@
-{100}{}{Vstupuješ do mìsta Broken Hills.}
+{100}{}{VstupujeÅ¡ do mÄ›sta Broken Hills.}

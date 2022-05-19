@@ -1,34 +1,34 @@
-{100}{}{Vidíš osobu v energo zbroji.}
-{101}{}{Vidíš ubytovatele.}
-{102}{}{Vidíš osobu v energo zbroji neobvyklého vzhledu. Na prsou má znak, kterı nepoznáváš.}
-{103}{}{Kdo k èertu jste? Poplach! Vetøelci pronikli na základnu!}
-{104}{}{Kdo mì zase... á, já vím, proè jsi tady. Urèitì se chceš zbavit toho zastaralého obleku, co máš na sobì.}
-{105}{}{Proè na sobì nemáš uniformu, vojáku?}
-{106}{}{Ty zemøít!}
+{100}{}{VidÃ­Å¡ osobu v energo zbroji.}
+{101}{}{VidÃ­Å¡ ubytovatele.}
+{102}{}{VidÃ­Å¡ osobu v energo zbroji neobvyklÃ©ho vzhledu. Na prsou mÃ¡ znak, kterÃ½ nepoznÃ¡vÃ¡Å¡.}
+{103}{}{Kdo k Äertu jste? Poplach! VetÅ™elci pronikli na zÃ¡kladnu!}
+{104}{}{Kdo mÄ› zase... Ã¡, jÃ¡ vÃ­m, proÄ jsi tady. UrÄitÄ› se chceÅ¡ zbavit toho zastaralÃ©ho obleku, co mÃ¡Å¡ na sobÄ›.}
+{105}{}{ProÄ na sobÄ› nemÃ¡Å¡ uniformu, vojÃ¡ku?}
+{106}{}{Ty zemÅ™Ã­t!}
 {107}{}{Eh, jo...}
 {108}{}{Eh...}
-{109}{}{Já tu novı.}
-{110}{}{Já ne jeden z vojákù!}
+{109}{}{JÃ¡ tu novÃ½.}
+{110}{}{JÃ¡ ne jeden z vojÃ¡kÅ¯!}
 {111}{}{Eh, no...}
-{112}{}{Jsem tu novı.}
-{113}{}{Nejsem jeden z vašich vojákù!}
-{114}{}{Coe? Nenapadá tì ádná vımluva? Já èekám, vojáku!}
-{115}{}{Ještì nemít uniformu.}
-{116}{}{Ještì ádnou uniformu nemám.}
-{117}{}{Jsi v myšlení trochu pomalejší, co? (Povzdech) No nic, ty za to nemùeš. Mám bratra, kterı se ti trochu podobá. Take jsi tu novej? Nevzpomínám si, e bych tì tu nìkdy vidìl.}
-{118}{}{Jsi tu novı? Nevzpomínám si, e bych tì tu nìkdy pøedtím vidìl.}
-{119}{}{Ano! Já tu novı!}
-{120}{}{Ano, jsem tu novı.}
-{121}{}{Dobøe, pak tedy budeš potøebovat standardní vybavení. Jdi do zbrojnice, pøevlékni se a dostaneš pøidìlenou zbraò. A potom se ohlas u seranta.}
-{122}{}{Díky!}
-{123}{}{Není zaè. A teï se odsud ztra. Mám ještì spoustu práce a nechci bıt rušen.}
-{124}{}{Teï mám moc práce. Pøijï pozdìji.}
-{125}{}{Nazdar, rekrute. Pøed chvílí volal serant. Øíkal, e se tu máš pøevléct a pak tì mám poslat zpátky k nìmu. Je to tak?}
+{112}{}{Jsem tu novÃ½.}
+{113}{}{Nejsem jeden z vaÅ¡ich vojÃ¡kÅ¯!}
+{114}{}{CoÅ¾e? NenapadÃ¡ tÄ› Å¾Ã¡dnÃ¡ vÃ½mluva? JÃ¡ ÄekÃ¡m, vojÃ¡ku!}
+{115}{}{JeÅ¡tÄ› nemÃ­t uniformu.}
+{116}{}{JeÅ¡tÄ› Å¾Ã¡dnou uniformu nemÃ¡m.}
+{117}{}{Jsi v myÅ¡lenÃ­ trochu pomalejÅ¡Ã­, co? (Povzdech) No nic, ty za to nemÅ¯Å¾eÅ¡. MÃ¡m bratra, kterÃ½ se ti trochu podobÃ¡. TakÅ¾e jsi tu novej? NevzpomÃ­nÃ¡m si, Å¾e bych tÄ› tu nÄ›kdy vidÄ›l.}
+{118}{}{Jsi tu novÃ½? NevzpomÃ­nÃ¡m si, Å¾e bych tÄ› tu nÄ›kdy pÅ™edtÃ­m vidÄ›l.}
+{119}{}{Ano! JÃ¡ tu novÃ½!}
+{120}{}{Ano, jsem tu novÃ½.}
+{121}{}{DobÅ™e, pak tedy budeÅ¡ potÅ™ebovat standardnÃ­ vybavenÃ­. Jdi do zbrojnice, pÅ™evlÃ©kni se a dostaneÅ¡ pÅ™idÄ›lenou zbraÅˆ. A potom se ohlas u serÅ¾anta.}
+{122}{}{DÃ­ky!}
+{123}{}{NenÃ­ zaÄ. A teÄ se odsud ztraÅ¥. MÃ¡m jeÅ¡tÄ› spoustu prÃ¡ce a nechci bÃ½t ruÅ¡en.}
+{124}{}{TeÄ mÃ¡m moc prÃ¡ce. PÅ™ijÄ pozdÄ›ji.}
+{125}{}{Nazdar, rekrute. PÅ™ed chvÃ­lÃ­ volal serÅ¾ant. Å˜Ã­kal, Å¾e se tu mÃ¡Å¡ pÅ™evlÃ©ct a pak tÄ› mÃ¡m poslat zpÃ¡tky k nÄ›mu. Je to tak?}
 {126}{}{Ano.}
-{127}{}{Základna je pod poplachem a já tì neznám. Uka mi svoje doklady, vojáku.}
-{128}{}{Já nemít doklady u já.}
-{129}{}{Já nepotøebovat doklady!}
-{130}{}{Nemám je u sebe. Jsou v mojí skøíòce.}
-{131}{}{Doklady? Mám vaše doklady pøímo tady!}
-{132}{}{Špatná odpovìï. Svoje doklady máš mít vdycky u sebe!}
+{127}{}{ZÃ¡kladna je pod poplachem a jÃ¡ tÄ› neznÃ¡m. UkaÅ¾ mi svoje doklady, vojÃ¡ku.}
+{128}{}{JÃ¡ nemÃ­t doklady u jÃ¡.}
+{129}{}{JÃ¡ nepotÅ™ebovat doklady!}
+{130}{}{NemÃ¡m je u sebe. Jsou v mojÃ­ skÅ™Ã­Åˆce.}
+{131}{}{Doklady? MÃ¡m vaÅ¡e doklady pÅ™Ã­mo tady!}
+{132}{}{Å patnÃ¡ odpovÄ›Ä. Svoje doklady mÃ¡Å¡ mÃ­t vÅ¾dycky u sebe!}
 {133}{}{A sakra.}

@@ -1,6 +1,6 @@
-{100}{}{Vidíš mládì páraèe.}
-{101}{}{Vidíš mládì páraèe.}
-{102}{}{Vypadá jako zmenšená verze páraèe vèetnì paøátù a všeho ostatního.}
-{103}{}{Víííí... rrrrrrr}
+{100}{}{VidÃ­Å¡ mlÃ¡dÄ› pÃ¡raÄe.}
+{101}{}{VidÃ­Å¡ mlÃ¡dÄ› pÃ¡raÄe.}
+{102}{}{VypadÃ¡ jako zmenÅ¡enÃ¡ verze pÃ¡raÄe vÄetnÄ› paÅ™Ã¡tÅ¯ a vÅ¡eho ostatnÃ­ho.}
+{103}{}{VÃ­Ã­Ã­Ã­... rrrrrrr}
 {104}{}{Maaamaa}
-{105}{}{Bramborák...}
+{105}{}{BramborÃ¡k...}

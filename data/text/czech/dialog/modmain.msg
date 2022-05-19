@@ -1,13 +1,13 @@
-{100}{}{Malá farmáøská osada obklopená rozlehlımi poli zvadlého obilí.}
-{500}{}{Zdá se, e u jsou všichni mrtví.}
-{501}{}{Zabila všechna škaredá obluda.}
-{502}{}{Podaøilo se ti vyèistit Farrelovu zahradu.}
-{600}{}{Vidíš mìšec.}
-{601}{}{Vidíš mìšec. Nìkdo ho asi hodil do studny, aby se mu splnilo pøání.}
-{610}{}{Tohle je MÙJ sen, MOJE pøání a já si ho beru zpìt. Všechny si je beru zpìt.}
-{1000}{}{Všechny je zabijte!}
-{1001}{}{Smrt Svìtloplachùm!}
-{1002}{}{Chci vidìt, jak budou øvát!}
+{100}{}{MalÃ¡ farmÃ¡Å™skÃ¡ osada obklopenÃ¡ rozlehlÃ½mi poli zvadlÃ©ho obilÃ­.}
+{500}{}{ZdÃ¡ se, Å¾e uÅ¾ jsou vÅ¡ichni mrtvÃ­.}
+{501}{}{Zabila vÅ¡echna Å¡karedÃ¡ obluda.}
+{502}{}{PodaÅ™ilo se ti vyÄistit Farrelovu zahradu.}
+{600}{}{VidÃ­Å¡ mÄ›Å¡ec.}
+{601}{}{VidÃ­Å¡ mÄ›Å¡ec. NÄ›kdo ho asi hodil do studny, aby se mu splnilo pÅ™Ã¡nÃ­.}
+{610}{}{Tohle je MÅ®J sen, MOJE pÅ™Ã¡nÃ­ a jÃ¡ si ho beru zpÄ›t. VÅ¡echny si je beru zpÄ›t.}
+{1000}{}{VÅ¡echny je zabijte!}
+{1001}{}{Smrt SvÄ›tloplachÅ¯m!}
+{1002}{}{Chci vidÄ›t, jak budou Å™vÃ¡t!}
 {1003}{}{Jdeme je sejmout!}
-{1100}{}{Padáš asi pìt metrù do špatnì osvìtlené jeskynì. O vzdálenìjší zeï je opøené všelijaké farmáøské vybavení.}
-{1200}{}{Podaøilo se ti dostat z jámy tìsnì pøed vıbuchem, kterı tì odhodil do vzduchu.}
+{1100}{}{PadÃ¡Å¡ asi pÄ›t metrÅ¯ do Å¡patnÄ› osvÄ›tlenÃ© jeskynÄ›. O vzdÃ¡lenÄ›jÅ¡Ã­ zeÄ je opÅ™enÃ© vÅ¡elijakÃ© farmÃ¡Å™skÃ© vybavenÃ­.}
+{1200}{}{PodaÅ™ilo se ti dostat z jÃ¡my tÄ›snÄ› pÅ™ed vÃ½buchem, kterÃ½ tÄ› odhodil do vzduchu.}

@@ -1,29 +1,29 @@
-{100}{}{Vidíš kupce.}
-{101}{}{Vidíš Cala, obchodníka se zbranìmi.}
-{102}{}{Vidíš znudìného, ale pøátelsky vypadajícího mue.}
-{103}{}{Dobrı den, pane. Mùu ti nìjak pomoct?}
-{104}{}{Dobrı den, paní. Mùu ti nìjak pomoct?}
-{105}{}{Já chtít informace.}
-{106}{}{Co ty mít?}
-{107}{}{Ne, já jít.}
-{108}{}{Chci nìjaké informace.}
-{109}{}{Jasnì. Uka mi co máš.}
-{110}{}{Zapomeò na to.}
-{111}{}{Neprodávám informace. Jenom zbranì. Chceš vidìt moje zboí?}
+{100}{}{VidÃ­Å¡ kupce.}
+{101}{}{VidÃ­Å¡ Cala, obchodnÃ­ka se zbranÄ›mi.}
+{102}{}{VidÃ­Å¡ znudÄ›nÃ©ho, ale pÅ™Ã¡telsky vypadajÃ­cÃ­ho muÅ¾e.}
+{103}{}{DobrÃ½ den, pane. MÅ¯Å¾u ti nÄ›jak pomoct?}
+{104}{}{DobrÃ½ den, panÃ­. MÅ¯Å¾u ti nÄ›jak pomoct?}
+{105}{}{JÃ¡ chtÃ­t informace.}
+{106}{}{Co ty mÃ­t?}
+{107}{}{Ne, jÃ¡ jÃ­t.}
+{108}{}{Chci nÄ›jakÃ© informace.}
+{109}{}{JasnÄ›. UkaÅ¾ mi co mÃ¡Å¡.}
+{110}{}{ZapomeÅˆ na to.}
+{111}{}{NeprodÃ¡vÃ¡m informace. Jenom zbranÄ›. ChceÅ¡ vidÄ›t moje zboÅ¾Ã­?}
 {112}{}{Ano.}
 {113}{}{Ne.}
-{114}{}{Myslím, e se ti bude moje zboí líbit. Nemusíš vùbec spìchat.}
-{115}{}{Dobøe.}
-{116}{}{Chceš ještì nìco jiného?}
+{114}{}{MyslÃ­m, Å¾e se ti bude moje zboÅ¾Ã­ lÃ­bit. NemusÃ­Å¡ vÅ¯bec spÄ›chat.}
+{115}{}{DobÅ™e.}
+{116}{}{ChceÅ¡ jeÅ¡tÄ› nÄ›co jinÃ©ho?}
 {117}{}{Ano.}
 {118}{}{Ne.}
-{119}{}{V tom pøípadì ti pøeju pìknej den.}
-{120}{}{Dobøe.}
-{121}{}{Vítej zpátky. Chceš ještì nìco koupit?}
+{119}{}{V tom pÅ™Ã­padÄ› ti pÅ™eju pÄ›knej den.}
+{120}{}{DobÅ™e.}
+{121}{}{VÃ­tej zpÃ¡tky. ChceÅ¡ jeÅ¡tÄ› nÄ›co koupit?}
 {122}{}{Ano.}
 {123}{}{Ne.}
-{124}{}{Je mi líto, ale mám zavøeno. Otvírám okolo osmı hodiny. Jestli budeš nìco potøebovat, pøijï pozdìji.}
-{125}{}{Dobøe.}
-{126}{}{Tobì nic neprodám. Vypadni z mıho obchodu!}
-{127}{}{Dobøe.}
-{128}{}{Doufám, e brzy pøijde další zboí.}
+{124}{}{Je mi lÃ­to, ale mÃ¡m zavÅ™eno. OtvÃ­rÃ¡m okolo osmÃ½ hodiny. Jestli budeÅ¡ nÄ›co potÅ™ebovat, pÅ™ijÄ pozdÄ›ji.}
+{125}{}{DobÅ™e.}
+{126}{}{TobÄ› nic neprodÃ¡m. Vypadni z mÃ½ho obchodu!}
+{127}{}{DobÅ™e.}
+{128}{}{DoufÃ¡m, Å¾e brzy pÅ™ijde dalÅ¡Ã­ zboÅ¾Ã­.}

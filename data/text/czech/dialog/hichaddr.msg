@@ -1,7 +1,7 @@
-{100}{}{Vidíš døevìné dveøe.}
-{101}{}{Tyto dveøe jsou vyrobeny z masivního døeva. Zdá se, e jsou opatøeny nìjakım pokroèilım zámkovım systémem.}
-{102}{}{Tyto dveøe jsou pevnì uzamèeny.}
-{103}{}{Pouitím techniky, kterou tì nauèil Max, opatrnì rozdìláváš spouštìcí mechanismus a snadno vypáèíš zámek.}
-{104}{}{Nìco je na tomto zámku zvláštního. Rozhodneš se ho radìji nechat bıt.}
-{105}{}{Právì se chystáš vypáèit zámek, kdy v tom si všimneš malého spouštìcího mechanismu v zámkovém systému. Pokud se spustí, tak u tyto dveøe nikdo neotevøe. Zkušenì tento spouštìcí mechanismus odstraòuješ a poté bìhem nìkolika vteøin vypáèíš zámek.}
-{106}{}{Nezanechalo to na dveøích ani škrábanec.}
+{100}{}{VidÃ­Å¡ dÅ™evÄ›nÃ© dveÅ™e.}
+{101}{}{Tyto dveÅ™e jsou vyrobeny z masivnÃ­ho dÅ™eva. ZdÃ¡ se, Å¾e jsou opatÅ™eny nÄ›jakÃ½m pokroÄilÃ½m zÃ¡mkovÃ½m systÃ©mem.}
+{102}{}{Tyto dveÅ™e jsou pevnÄ› uzamÄeny.}
+{103}{}{PouÅ¾itÃ­m techniky, kterou tÄ› nauÄil Max, opatrnÄ› rozdÄ›lÃ¡vÃ¡Å¡ spouÅ¡tÄ›cÃ­ mechanismus a snadno vypÃ¡ÄÃ­Å¡ zÃ¡mek.}
+{104}{}{NÄ›co je na tomto zÃ¡mku zvlÃ¡Å¡tnÃ­ho. RozhodneÅ¡ se ho radÄ›ji nechat bÃ½t.}
+{105}{}{PrÃ¡vÄ› se chystÃ¡Å¡ vypÃ¡Äit zÃ¡mek, kdyÅ¾ v tom si vÅ¡imneÅ¡ malÃ©ho spouÅ¡tÄ›cÃ­ho mechanismu v zÃ¡mkovÃ©m systÃ©mu. Pokud se spustÃ­, tak uÅ¾ tyto dveÅ™e nikdo neotevÅ™e. ZkuÅ¡enÄ› tento spouÅ¡tÄ›cÃ­ mechanismus odstraÅˆujeÅ¡ a potÃ© bÄ›hem nÄ›kolika vteÅ™in vypÃ¡ÄÃ­Å¡ zÃ¡mek.}
+{106}{}{Nezanechalo to na dveÅ™Ã­ch ani Å¡krÃ¡banec.}

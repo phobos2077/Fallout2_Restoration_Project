@@ -1,91 +1,91 @@
-{100}{}{Vidíš majitelku salónu.}
-{101}{}{Vidíš Becky.}
-{150}{}{Vypadá to, e jí to tu všechno patøí.}
+{100}{}{VidÃ­Å¡ majitelku salÃ³nu.}
+{101}{}{VidÃ­Å¡ Becky.}
+{150}{}{VypadÃ¡ to, Å¾e jÃ­ to tu vÅ¡echno patÅ™Ã­.}
 {151}{}{To je Becky, majitelka tohoto podniku.}
 {152}{}{[MLUVIT]}
-{153}{}{Dobrı den, cizinèe. Vítej v mém salónu. Já jsem Becky.}
-{154}{}{Dobrı den, já jsem }
+{153}{}{DobrÃ½ den, cizinÄe. VÃ­tej v mÃ©m salÃ³nu. JÃ¡ jsem Becky.}
+{154}{}{DobrÃ½ den, jÃ¡ jsem }
 {155}{}{. What's there to do around here?}
 {156}{}{Hi, I'm }
-{157}{}{. Mùu ti poloit nìkolik otázek?}
+{157}{}{. MÅ¯Å¾u ti poloÅ¾it nÄ›kolik otÃ¡zek?}
 {158}{}{Mami?}
 {159}{}{Mag gah.}
-{160}{}{Bì jinam. Nepotøebuju tì tady.}
+{160}{}{BÄ›Å¾ jinam. NepotÅ™ebuju tÄ› tady.}
 {161}{}{Mmmm...}
 {162}{}{Jdi se vycpat.}
-{163}{}{U odcházím.}
-{164}{}{Promiò, já to tak nemyslel. Mùu se na nìco zeptat?}
-{165}{}{Panák whiskey je za $5 a hrací stoly jsou pøímo támhle. Dobøe se bav.}
-{166}{}{Mùu se na nìco zeptat?}
-{167}{}{Dám si panáka!}
-{168}{}{Hmm, tyhle drinky jsou docela levné. Zkusím jeden.}
-{169}{}{Dík. Naskle.}
-{170}{}{Vault 13? Tak o tom jsem urèitì neslyšela.}
-{171}{}{Hmm, mùu se ještì na nìco zeptat?}
-{172}{}{Zatracenì, budu ho muset najít. Nashle.}
-{173}{}{Co potøebujete vìdìt?}
-{174}{}{Kde se dá dobøe najíst?}
-{175}{}{Nevíš kde se nachází Vault 13?}
-{176}{}{Proè jsou tvoje drinky tak levné?}
+{163}{}{UÅ¾ odchÃ¡zÃ­m.}
+{164}{}{PromiÅˆ, jÃ¡ to tak nemyslel. MÅ¯Å¾u se na nÄ›co zeptat?}
+{165}{}{PanÃ¡k whiskey je za $5 a hracÃ­ stoly jsou pÅ™Ã­mo tÃ¡mhle. DobÅ™e se bav.}
+{166}{}{MÅ¯Å¾u se na nÄ›co zeptat?}
+{167}{}{DÃ¡m si panÃ¡ka!}
+{168}{}{Hmm, tyhle drinky jsou docela levnÃ©. ZkusÃ­m jeden.}
+{169}{}{DÃ­k. Naskle.}
+{170}{}{Vault 13? Tak o tom jsem urÄitÄ› neslyÅ¡ela.}
+{171}{}{Hmm, mÅ¯Å¾u se jeÅ¡tÄ› na nÄ›co zeptat?}
+{172}{}{ZatracenÄ›, budu ho muset najÃ­t. Nashle.}
+{173}{}{Co potÅ™ebujete vÄ›dÄ›t?}
+{174}{}{Kde se dÃ¡ dobÅ™e najÃ­st?}
+{175}{}{NevÃ­Å¡ kde se nachÃ¡zÃ­ Vault 13?}
+{176}{}{ProÄ jsou tvoje drinky tak levnÃ©?}
 {177}{}{Nic. Nashle.}
-{178}{}{Máma provozuje malou restauraci na druhé stranì mìsta.}
-{179}{}{Máma! Máma!}
-{180}{}{Ještì jeden dotaz.}
-{181}{}{Dík. Naskle.}
+{178}{}{MÃ¡ma provozuje malou restauraci na druhÃ© stranÄ› mÄ›sta.}
+{179}{}{MÃ¡ma! MÃ¡ma!}
+{180}{}{JeÅ¡tÄ› jeden dotaz.}
+{181}{}{DÃ­k. Naskle.}
 {182}{}{Vypadni.}
 {183}{}{Gwah.}
-{184}{}{Já ti dám vypadnout.}
-{185}{}{Co takhle nejdøív jedna rychlá otázka?}
+{184}{}{JÃ¡ ti dÃ¡m vypadnout.}
+{185}{}{Co takhle nejdÅ™Ã­v jedna rychlÃ¡ otÃ¡zka?}
 {186}{}{Nashle.}
-{187}{}{Panák whiskey je za $5. Platí se pøedem.}
+{187}{}{PanÃ¡k whiskey je za $5. PlatÃ­ se pÅ™edem.}
 {188}{}{He?}
-{189}{}{Tady jsou peníze.}
+{189}{}{Tady jsou penÃ­ze.}
 {190}{}{Rozmyslel jsem si to.}
-{191}{}{Mám málo hotovosti. Mùeš mi to napsat na dluh?}
-{192}{}{Mùu se na nìco zeptat?}
-{193}{}{U musím jít.}
-{194}{}{Tady je ten drink. Ještì nìco?}
-{195}{}{Otázku?}
-{196}{}{Jo, co takhle ty a já...}
+{191}{}{MÃ¡m mÃ¡lo hotovosti. MÅ¯Å¾eÅ¡ mi to napsat na dluh?}
+{192}{}{MÅ¯Å¾u se na nÄ›co zeptat?}
+{193}{}{UÅ¾ musÃ­m jÃ­t.}
+{194}{}{Tady je ten drink. JeÅ¡tÄ› nÄ›co?}
+{195}{}{OtÃ¡zku?}
+{196}{}{Jo, co takhle ty a jÃ¡...}
 {197}{}{Ne.}
-{198}{}{Hele, na ten drink nemáš dost penìz. Jsi chudší ne místní notorici!}
-{199}{}{Omlouvám se.}
-{200}{}{Hmm, ještì se vrátím.}
-{201}{}{Hmm. Poèkej, skoèím pro nìkoho, kdo mi pohlídá bar. Pak mùeme jít do zadního pokoje a zahrát si hru, které øíkám "První útok". Jestli budeš dobrı, tak bude pak následovat "Hladké Pøistání."}
-{202}{}{Dobøe!}
-{203}{}{Eh...eh...u musím jít.}
-{205}{}{Byl jsi dobrı.}
-{206}{}{Pøíštì si zahrajeme "Do áru." Ale teï...}
-{207}{}{Mùeš pro mì nìco udìlat?}
-{208}{}{Musím jít, ale ještì se vrátím.}
-{209}{}{Co pro tebe mùu udìlat, fešáku?}
-{210}{}{Potøebuju víc lásky.}
-{211}{}{Mám nìkolik otázek.}
-{212}{}{Jak to, e prodáváš svoje drinky tak levnì?}
-{213}{}{Co takhle panáka?}
-{214}{}{U musím bìet. Mìj se.}
-{215}{}{Teï ne. Moná pozdìji. Ano, urèitì pozdìji.}
-{216}{}{Mùu se na nìco zeptat?}
-{217}{}{Tak pozdìji.}
-{218}{}{Mám ve sklepì destilátor. Postavila jsem si ho sama. Nebudu pøece tìm gangsterùm z New Rena platit tøikrát tolik.}
-{219}{}{Chytrá holka! To se mi líbí!}
-{220}{}{Hmm, u musím jít. Uvidíme se pozdìji.}
-{221}{}{Proè? Proè jsi znièil mùj destilátor? Ty bastarde!}
-{222}{}{Nic osobního. Dostal jsem za to zaplaceno.}
-{223}{}{To je mi líto.}
+{198}{}{Hele, na ten drink nemÃ¡Å¡ dost penÄ›z. Jsi chudÅ¡Ã­ neÅ¾ mÃ­stnÃ­ notorici!}
+{199}{}{OmlouvÃ¡m se.}
+{200}{}{Hmm, jeÅ¡tÄ› se vrÃ¡tÃ­m.}
+{201}{}{Hmm. PoÄkej, skoÄÃ­m pro nÄ›koho, kdo mi pohlÃ­dÃ¡ bar. Pak mÅ¯Å¾eme jÃ­t do zadnÃ­ho pokoje a zahrÃ¡t si hru, kterÃ© Å™Ã­kÃ¡m "PrvnÃ­ Ãºtok". Jestli budeÅ¡ dobrÃ½, tak bude pak nÃ¡sledovat "HladkÃ© PÅ™istÃ¡nÃ­."}
+{202}{}{DobÅ™e!}
+{203}{}{Eh...eh...uÅ¾ musÃ­m jÃ­t.}
+{205}{}{Byl jsi dobrÃ½.}
+{206}{}{PÅ™Ã­Å¡tÄ› si zahrajeme "Do Å¾Ã¡ru." Ale teÄ...}
+{207}{}{MÅ¯Å¾eÅ¡ pro mÄ› nÄ›co udÄ›lat?}
+{208}{}{MusÃ­m jÃ­t, ale jeÅ¡tÄ› se vrÃ¡tÃ­m.}
+{209}{}{Co pro tebe mÅ¯Å¾u udÄ›lat, feÅ¡Ã¡ku?}
+{210}{}{PotÅ™ebuju vÃ­c lÃ¡sky.}
+{211}{}{MÃ¡m nÄ›kolik otÃ¡zek.}
+{212}{}{Jak to, Å¾e prodÃ¡vÃ¡Å¡ svoje drinky tak levnÄ›?}
+{213}{}{Co takhle panÃ¡ka?}
+{214}{}{UÅ¾ musÃ­m bÄ›Å¾et. MÄ›j se.}
+{215}{}{TeÄ ne. MoÅ¾nÃ¡ pozdÄ›ji. Ano, urÄitÄ› pozdÄ›ji.}
+{216}{}{MÅ¯Å¾u se na nÄ›co zeptat?}
+{217}{}{Tak pozdÄ›ji.}
+{218}{}{MÃ¡m ve sklepÄ› destilÃ¡tor. Postavila jsem si ho sama. Nebudu pÅ™ece tÄ›m gangsterÅ¯m z New Rena platit tÅ™ikrÃ¡t tolik.}
+{219}{}{ChytrÃ¡ holka! To se mi lÃ­bÃ­!}
+{220}{}{Hmm, uÅ¾ musÃ­m jÃ­t. UvidÃ­me se pozdÄ›ji.}
+{221}{}{ProÄ? ProÄ jsi zniÄil mÅ¯j destilÃ¡tor? Ty bastarde!}
+{222}{}{Nic osobnÃ­ho. Dostal jsem za to zaplaceno.}
+{223}{}{To je mi lÃ­to.}
 {224}{}{Nashle.}
-{225}{}{Postavím si jinı, abys vìdìl.}
-{226}{}{Já vím.}
-{227}{}{No, dobøe ti tak.}
+{225}{}{PostavÃ­m si jinÃ½, abys vÄ›dÄ›l.}
+{226}{}{JÃ¡ vÃ­m.}
+{227}{}{No, dobÅ™e ti tak.}
 {228}{}{Nashle.}
-{232}{}{Proè? Proè jsi znièila mùj destilátor? Ty dìvko!}
-{233}{}{Kde jsi, miláèku?}
-{234}{}{U jdeš?}
-{235}{}{Já èekám.}
-{236}{}{Jsem tu, miláèku.}
-{237}{}{Musím dohlíet na bar.}
-{238}{}{Pojï za mnou, cukroušku.}
-{240}{}{Jak jsi ... to udìlal... ehhh...}
-{241}{}{To nevadí, na velikosti nezáleí.}
-{242}{}{To bylo, ehhh, hezkı... øekla bych.}
-{243}{}{Díky, cukroušku. Byla to zábava.}
+{232}{}{ProÄ? ProÄ jsi zniÄila mÅ¯j destilÃ¡tor? Ty dÄ›vko!}
+{233}{}{Kde jsi, milÃ¡Äku?}
+{234}{}{UÅ¾ jdeÅ¡?}
+{235}{}{JÃ¡ ÄekÃ¡m.}
+{236}{}{Jsem tu, milÃ¡Äku.}
+{237}{}{MusÃ­m dohlÃ­Å¾et na bar.}
+{238}{}{PojÄ za mnou, cukrouÅ¡ku.}
+{240}{}{Jak jsi ... to udÄ›lal... ehhh...}
+{241}{}{To nevadÃ­, na velikosti nezÃ¡leÅ¾Ã­.}
+{242}{}{To bylo, ehhh, hezkÃ½... Å™ekla bych.}
+{243}{}{DÃ­ky, cukrouÅ¡ku. Byla to zÃ¡bava.}

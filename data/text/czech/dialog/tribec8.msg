@@ -1,44 +1,44 @@
-{100}{}{Vidíš rybáøe.}
-{101}{}{Vidíš rybáøku.}
-{102}{}{Má naostøenou tyè, kterou pouívá k rybaøení.}
-{103}{}{Zdá se, e má plné ruce práce s vaøením.}
-{104}{}{Buï zdráv.}
-{200}{}{Nechceme tì tu.}
-{201}{}{Duchové tì nemají rádi.}
-{202}{}{Jdi pryè, cizinèe.}
-{203}{}{Proè nás trápíš?}
-{204}{}{Vítej, pøíteli.}
-{205}{}{Vdy tì tu uvítáme.}
-{206}{}{Duchové tì uznávají jako èlena našeho kmene.}
-{207}{}{Dìkuji za pomoc.}
-{208}{}{Myslel jsem, e jsou cizinci zlí. Není tomu tak...}
-{209}{}{Nedìlej to.}
-{300}{}{Promiò, e ruším, ale mùeš pro mì nìco udìlat? Mám nìjakou práci a nevím, jestli tady ten hrnec mùu nechat bez dozoru.}
-{301}{}{Jistì. Co potøebuješ?}
-{302}{}{Taky mám nìco na práci. Moná pozdìji.}
-{303}{}{Hele, ivot je plnı problémù a já tu nejsem od toho, abych je všechny vyøešil. Nashle.}
-{304}{}{Dochází mi døevo na oheò. Byla bych ti vdìèná, kdyby se ti podaøilo sehnat nìjaké další. Udìlala bych to sama, ale mám strach, e se mi to tu pøipálí. Jsem si jistá, e se v nedalekém lese pár polen najde. Tøi svazky budou staèit.}
-{305}{}{Bude mi potìšením.}
-{306}{}{Vlastnì mám tøi svazky polen z nìjakého zvláštního dùvodu u sebe. Tady máš.}
-{307}{}{Pomùeš mi? Skvìlé! Dej mi vìdìt, a je budeš mít.}
-{308}{}{Á, vıbornì. Tohle bude staèit na udrení ohnì. Díky moc. Akorát nemám nic, èím bych ti to oplatila.}
-{309}{}{Tvé díky mi staèí. Mìj se.}
-{310}{}{Nemáš nic na oplátku? Podívej, dámo, v tom lese je to velmi nebezpeèné. Je v nìm plno všelijakıch druhù smrtících potvor. Riskoval jsem svùj ivot kvùli tomu zkurvenému døevu. A to ani nemluvím o tom, e mám od jednoho polene tøísku. *Nesnáším* tøísky.}
-{311}{}{Dobøe. Tady, vezmi si tyhle peníze. Nepotøebuju je. A ještì jednou dìkuju.}
-{312}{}{To u je lepší. Nashle.}
+{100}{}{VidÃ­Å¡ rybÃ¡Å™e.}
+{101}{}{VidÃ­Å¡ rybÃ¡Å™ku.}
+{102}{}{MÃ¡ naostÅ™enou tyÄ, kterou pouÅ¾Ã­vÃ¡ k rybaÅ™enÃ­.}
+{103}{}{ZdÃ¡ se, Å¾e mÃ¡ plnÃ© ruce prÃ¡ce s vaÅ™enÃ­m.}
+{104}{}{BuÄ zdrÃ¡v.}
+{200}{}{Nechceme tÄ› tu.}
+{201}{}{DuchovÃ© tÄ› nemajÃ­ rÃ¡di.}
+{202}{}{Jdi pryÄ, cizinÄe.}
+{203}{}{ProÄ nÃ¡s trÃ¡pÃ­Å¡?}
+{204}{}{VÃ­tej, pÅ™Ã­teli.}
+{205}{}{VÅ¾dy tÄ› tu uvÃ­tÃ¡me.}
+{206}{}{DuchovÃ© tÄ› uznÃ¡vajÃ­ jako Älena naÅ¡eho kmene.}
+{207}{}{DÄ›kuji za pomoc.}
+{208}{}{Myslel jsem, Å¾e jsou cizinci zlÃ­. NenÃ­ tomu tak...}
+{209}{}{NedÄ›lej to.}
+{300}{}{PromiÅˆ, Å¾e ruÅ¡Ã­m, ale mÅ¯Å¾eÅ¡ pro mÄ› nÄ›co udÄ›lat? MÃ¡m nÄ›jakou prÃ¡ci a nevÃ­m, jestli tady ten hrnec mÅ¯Å¾u nechat bez dozoru.}
+{301}{}{JistÄ›. Co potÅ™ebujeÅ¡?}
+{302}{}{Taky mÃ¡m nÄ›co na prÃ¡ci. MoÅ¾nÃ¡ pozdÄ›ji.}
+{303}{}{Hele, Å¾ivot je plnÃ½ problÃ©mÅ¯ a jÃ¡ tu nejsem od toho, abych je vÅ¡echny vyÅ™eÅ¡il. Nashle.}
+{304}{}{DochÃ¡zÃ­ mi dÅ™evo na oheÅˆ. Byla bych ti vdÄ›ÄnÃ¡, kdyby se ti podaÅ™ilo sehnat nÄ›jakÃ© dalÅ¡Ã­. UdÄ›lala bych to sama, ale mÃ¡m strach, Å¾e se mi to tu pÅ™ipÃ¡lÃ­. Jsem si jistÃ¡, Å¾e se v nedalekÃ©m lese pÃ¡r polen najde. TÅ™i svazky budou staÄit.}
+{305}{}{Bude mi potÄ›Å¡enÃ­m.}
+{306}{}{VlastnÄ› mÃ¡m tÅ™i svazky polen z nÄ›jakÃ©ho zvlÃ¡Å¡tnÃ­ho dÅ¯vodu u sebe. Tady mÃ¡Å¡.}
+{307}{}{PomÅ¯Å¾eÅ¡ mi? SkvÄ›lÃ©! Dej mi vÄ›dÄ›t, aÅ¾ je budeÅ¡ mÃ­t.}
+{308}{}{Ã, vÃ½bornÄ›. Tohle bude staÄit na udrÅ¾enÃ­ ohnÄ›. DÃ­ky moc. AkorÃ¡t nemÃ¡m nic, ÄÃ­m bych ti to oplatila.}
+{309}{}{TvÃ© dÃ­ky mi staÄÃ­. MÄ›j se.}
+{310}{}{NemÃ¡Å¡ nic na oplÃ¡tku? PodÃ­vej, dÃ¡mo, v tom lese je to velmi nebezpeÄnÃ©. Je v nÄ›m plno vÅ¡elijakÃ½ch druhÅ¯ smrtÃ­cÃ­ch potvor. Riskoval jsem svÅ¯j Å¾ivot kvÅ¯li tomu zkurvenÃ©mu dÅ™evu. A to ani nemluvÃ­m o tom, Å¾e mÃ¡m od jednoho polene tÅ™Ã­sku. *NesnÃ¡Å¡Ã­m* tÅ™Ã­sky.}
+{311}{}{DobÅ™e. Tady, vezmi si tyhle penÃ­ze. NepotÅ™ebuju je. A jeÅ¡tÄ› jednou dÄ›kuju.}
+{312}{}{To uÅ¾ je lepÅ¡Ã­. Nashle.}
 {313}{}{[KONEC]}
-{314}{}{Hmmm. Jdi otravovat nìkoho jiného.}
-{315}{}{Máš to døevo?}
-{316}{}{Jo, mám ho u sebe.}
-{317}{}{Ne, ještì ne. Vrátím se, a získám ty tøi svazky.}
-{318}{}{U mi mùeš pomoct?}
-{319}{}{Jistì. Co potøebuješ?}
-{320}{}{Ne, poøád nemám èas. Nashle.}
-{321}{}{Ne a ani nepomùu. Vyøeš si svoje problémy sama. Nashle.}
-{330}{}{Ty je nepotøebuješ? Tak proè jsi mi je nedala hned? [Zamumlat] Krávo blbá.}
-{400}{}{Co ty potøebovat?}
-{401}{}{Ooo! Udìlat mi oblíbenı jídlo!}
-{410}{}{Já podívat.}
-{411}{}{Mám kládu. Hehe... kládu.}
-{420}{}{To dobøe. Naskle!}
-{500}{}{Hnusnı otrokáø!}
+{314}{}{Hmmm. Jdi otravovat nÄ›koho jinÃ©ho.}
+{315}{}{MÃ¡Å¡ to dÅ™evo?}
+{316}{}{Jo, mÃ¡m ho u sebe.}
+{317}{}{Ne, jeÅ¡tÄ› ne. VrÃ¡tÃ­m se, aÅ¾ zÃ­skÃ¡m ty tÅ™i svazky.}
+{318}{}{UÅ¾ mi mÅ¯Å¾eÅ¡ pomoct?}
+{319}{}{JistÄ›. Co potÅ™ebujeÅ¡?}
+{320}{}{Ne, poÅ™Ã¡d nemÃ¡m Äas. Nashle.}
+{321}{}{Ne a ani nepomÅ¯Å¾u. VyÅ™eÅ¡ si svoje problÃ©my sama. Nashle.}
+{330}{}{Ty je nepotÅ™ebujeÅ¡? Tak proÄ jsi mi je nedala hned? [Zamumlat] KrÃ¡vo blbÃ¡.}
+{400}{}{Co ty potÅ™ebovat?}
+{401}{}{Ooo! UdÄ›lat mi oblÃ­benÃ½ jÃ­dlo!}
+{410}{}{JÃ¡ podÃ­vat.}
+{411}{}{MÃ¡m klÃ¡du. Hehe... klÃ¡du.}
+{420}{}{To dobÅ™e. Naskle!}
+{500}{}{HnusnÃ½ otrokÃ¡Å™!}

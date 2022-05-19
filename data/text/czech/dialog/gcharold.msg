@@ -1,222 +1,222 @@
-{100}{}{Vidíš ghoula s velmi popraskanou kùí.}
-{101}{}{Vidíš Harolda.}
-{102}{}{Vidíš velmi starého, ale poøád ještì èilého ghoula.}
-{103}{hld1a}{Musím ti øíct, e starej Harold u je trošièku pomalejší. A kdy tu budeme takhle kecat, moc toho neudìláme.}
-{104}{hld1b}{Á, ty jsi ale roztomilej. Bohuel nemám zrovna èas na to, abych se tì snail pochopit.}
-{105}{hld1c}{Hehe, ty jsi ale bourák.}
-{106}{hld2a}{Nazdárek, hezounku. Mı jméno je Harold. Pomáhám udrovat tohle mìsto v chodu.}
-{107}{hld2a1}{Co potøebuješ, štìnì?}
-{108}{hld2b}{Nazdárek, hezoune. Fakt jsi nám hodnì píchnul s naší elektrárnou. Jmenuju se Harold. Pomáhám udrovat tohle mìsto v chodu.}
-{109}{hld2c}{Je od tebe fakt hezkı, e jsi nám pomohl s naší atomovou elektrárnou. Jsme tvı dluníci. Co pro tebe teï mùe tahle skoro-zdechlina udìlat?}
-{110}{hld2d}{Jseš èíslo. Pøesnì jako originál. Co pro tebe mùe starej Harold udìlat, Zakladateli? }
-{111}{hld2e}{Nezkazil jsi toho u dost, hezoune? Co ještì chceš?}
-{112}{}{Hezounku? Proè mi tak øíkáš?}
+{100}{}{VidÃ­Å¡ ghoula s velmi popraskanou kÅ¯Å¾Ã­.}
+{101}{}{VidÃ­Å¡ Harolda.}
+{102}{}{VidÃ­Å¡ velmi starÃ©ho, ale poÅ™Ã¡d jeÅ¡tÄ› ÄilÃ©ho ghoula.}
+{103}{hld1a}{MusÃ­m ti Å™Ã­ct, Å¾e starej Harold uÅ¾ je troÅ¡iÄku pomalejÅ¡Ã­. A kdyÅ¾ tu budeme takhle kecat, moc toho neudÄ›lÃ¡me.}
+{104}{hld1b}{Ã, ty jsi ale roztomilej. BohuÅ¾el nemÃ¡m zrovna Äas na to, abych se tÄ› snaÅ¾il pochopit.}
+{105}{hld1c}{Hehe, ty jsi ale bourÃ¡k.}
+{106}{hld2a}{NazdÃ¡rek, hezounku. MÃ½ jmÃ©no je Harold. PomÃ¡hÃ¡m udrÅ¾ovat tohle mÄ›sto v chodu.}
+{107}{hld2a1}{Co potÅ™ebujeÅ¡, Å¡tÄ›nÄ›?}
+{108}{hld2b}{NazdÃ¡rek, hezoune. Fakt jsi nÃ¡m hodnÄ› pÃ­chnul s naÅ¡Ã­ elektrÃ¡rnou. Jmenuju se Harold. PomÃ¡hÃ¡m udrÅ¾ovat tohle mÄ›sto v chodu.}
+{109}{hld2c}{Je od tebe fakt hezkÃ½, Å¾e jsi nÃ¡m pomohl s naÅ¡Ã­ atomovou elektrÃ¡rnou. Jsme tvÃ½ dluÅ¾nÃ­ci. Co pro tebe teÄ mÅ¯Å¾e tahle skoro-zdechlina udÄ›lat?}
+{110}{hld2d}{JseÅ¡ ÄÃ­slo. PÅ™esnÄ› jako originÃ¡l. Co pro tebe mÅ¯Å¾e starej Harold udÄ›lat, Zakladateli? }
+{111}{hld2e}{Nezkazil jsi toho uÅ¾ dost, hezoune? Co jeÅ¡tÄ› chceÅ¡?}
+{112}{}{Hezounku? ProÄ mi tak Å™Ã­kÃ¡Å¡?}
 {113}{}{Zakladateli? Nejsem Zakladatel.}
-{114}{}{Ahoj, Harolde. Co tady dìláš?}
-{115}{}{Dá se tady nìkde obchodovat nebo sehnat zásoby?}
+{114}{}{Ahoj, Harolde. Co tady dÄ›lÃ¡Å¡?}
+{115}{}{DÃ¡ se tady nÄ›kde obchodovat nebo sehnat zÃ¡soby?}
 {116}{}{To je strom, co ti roste z hlavy?}
-{117}{}{Ty urèitì víš, jestli se tady nachází vìc zvaná GECK.}
+{117}{}{Ty urÄitÄ› vÃ­Å¡, jestli se tady nachÃ¡zÃ­ vÄ›c zvanÃ¡ GECK.}
 {118}{}{Harolde, kde tu najdu doktora?}
-{119}{}{Vím, e se poøád zlobíš, ale zmínil ses o Vùdci. Mùj pøedek ho zabil.}
-{120}{}{Nazdar, Harolde. Jenom procházím. Sbohem.}
-{121}{hld3}{Co... cokoliv je potøeba k tomu, aby tohle místo drelo pohromadì... stejnì jako já.}
-{122}{}{Tohle místo se rozpadá?}
-{123}{}{To nezní moc dobøe.}
-{124}{hld3a}{Jasnì, ale na mrtvolu si vedu dost dobøe! Nikdy mì neomrzí ty pohledy, kdy tohle øeknu.}
-{125}{}{Aha, dobøe... take ty øíkáš, e se tohle místo rozpadá?}
-{126}{}{Øíkáš mrtvola? No, v tom pøípadì ti to jde fakt dobøe. Tak dobøe, e mi urèitì odpovíš na další otázku.}
-{127}{hld4a}{No, tak nìjak. Náš atomovı reaktor je malièko... citlivı. Lidi, co se o nìj starají, to myslí dobøe, ale... no, ale nejsou to zrovna štiky v rybníce, jestli mi rozumíš.}
-{128}{hld4b}{Vlastnì teï, kdy je reaktor opravenı, to jde dobøe. Nikdy by mì ani nenapadlo, e nìkdo pøesvìdèí ty idioty ve Vault City, aby nám pomohli.}
-{129}{hld4c}{Víš, teï to není tak špatnı. Podaøilo se ti opravit elektrárnu a pak sehnat data, kterı potøebujeme, aby byla jako nová. Doprèic, jsi fakt tøída!}
-{130}{}{Co tím myslíš?}
-{131}{}{Nechtìl jsem, aby Vault City znièilo vaše mìsto.}
-{132}{}{No, nechtìl jsem, aby Vault City znièilo vaše mìsto. Mimochodem, bylo v jejich zájmu, aby byla elektrárna opravena.}
-{133}{}{No, jeliko je ve vlastním zájmu Vault City, aby byl reaktor opravenı, nebylo moc tìké získat od nich optimalizaèní data.}
-{134}{}{Nerad nechávám vìci napùl rozdìlané.}
-{135}{}{No, hroznì rád bych zùstal a pokecal s tebou, ale mám spoustu práce a tak. Hodnì štìstí.}
-{136}{hld5}{No, technicky... je to taková vìcièka.}
-{137}{}{Dobøe a co to dìlá?}
-{138}{hld6}{Potøebuješ obèas trochu popostrèit, co? Tím myslím, e to nejsou zrovna géniové. Tak napøíklad jednou se mi dostala do ruky technická zpráva a v ní bylo napsanı, e by se mìl vypnout hlavní uzávìr chladícího sytému. To by zpùsobilo takovou paseku, vedle kterı by Grand Kaòon vypadal asi jako bahništì pro prasata.}
-{139}{}{To zní ošklivì.}
-{140}{hld7}{Eh, jo, to by bylo ošklivı. Teï u je to vyøešenı, ale moc nescházelo. Potøebujou nìkoho, kdo na nì dohlídne.}
-{141}{}{Ještì, e tu jsi a pomáháš jim.}
-{142}{hld8}{Kdo by si pomyslel, e budu muset øešit takovı vìci? Ale jestli hodnì rychle neseeneme hydroelektrickı regulátor magnetosféry, budou potíe.}
-{143}{}{Co je sakra ten hydra-magna-cokolivátor?}
-{144}{}{Hmm, to zní opravdu jako problém. Chci se ještì na nìco zeptat.}
-{145}{}{Potíe? Jaké potíe?}
-{146}{}{Víš, u jsem tì pøipravil o hodnì èasu. Sbohem.}
-{147}{hld9}{Sakra, nebıt tebe, ty zadìlanı idioti z Vault City by nám zaøídili rychlı ubytování v hlínì.}
-{148}{}{Nemohl jsem nechat dopustit, aby vás Vault City pozabíjelo.}
-{149}{}{Rádo se stalo, Harolde. Chci se ještì na nìco zeptat.}
-{150}{hld11a}{To je od tebe hezkı. Není moc hezounù, co by tohle udìlali pro mìsto plnı ghoulù. Trochu mi pøipomínáš hezouna, kterıho jsem kdysi znal.}
-{151}{hld11b}{Víš, jsi hodnì podobnı Zakladateli.}
-{152}{}{Jiného hezouna? Co tím myslíš?}
-{153}{}{Díky. Doufám, e budu ít jako mùj pøedek. Chci se ještì na nìco zeptat.}
-{154}{}{Rádo se stalo. Chci se ještì na nìco zeptat.}
-{155}{}{Vlastnì je to moje kadodenní práce. Ale u musím jít. Zachraòovat lidi, zabíjet pøíšery, zabraòovat katastrofám a podobné vìci. Sbohem.}
-{156}{hld14}{Nespadlo ti nìco na hlavièku? Nevypadáš jako pomeranèová kùra, kterou nìkdo nechá pøes den na slunci. Máš ještì poøád mìkkou a èistou kùi. }
-{157}{}{Dostal jsi mì. Pøíštì se zeptám na nìco dùleitìjšího.}
-{158}{}{Jo, jasnì. Poslyš, chci se ještì na nìco zeptat.}
-{159}{}{A tì ani nenapadne nìco dìlat s mojí kùí, jasnı?}
-{160}{}{Eh, no, u asi pùjdu. Sbohem.}
-{161}{hld15}{Myslíš jako stáhnout tì zaiva rezavım, tupım, starım noem a potom si naroubovat tvoji ještì teplou, vlhkou, blıskavou a tak jemnou kùi na svùj ztvrdlej povrch?}
-{162}{}{Hej! Dr se ode mì dál. Padám odsud, dokud jsem ještì ve svojí kùi!}
-{163}{}{Jo, pøesnì to mám na mysli. Dobrı odhad.}
-{164}{hld16}{No, nemusíš se nièeho bát... nemùu najít svùj kapesní noík.}
-{165}{}{Nezmìníme radìji téma?}
-{166}{}{Radìji na mì tìma umounìnıma prackama nehrabej. Sbohem.}
-{167}{hld17}{Víc kùe! ...potøebuju víc kùe! (Chechtá se) Co je s tebou? Ztratil jsi cestou smysl pro humor?}
-{168}{}{Mám toho hodnì na starosti, víš? Potøebuju informace.}
-{169}{}{Asi ho pùjdu hledat. Sbohem.}
-{170}{hld18}{Zrovna jsem si strašnì prdnul, ale tvùj smrad to stejnì nepøebije. Co kdybys odsud vypadnul?}
-{171}{}{Fajn, ale napøed se chci omluvit za svoje chování.}
-{172}{}{Tak si strè do nosu ponoku, ty starej, smradlavej ghoule. Sbohem.}
-{173}{hld19}{To u je lepší, ale poøád to nestaèí.}
-{174}{}{Nevím, co ještì øíct. Prostì nevím, jak se vypoøádat s novımi vìcmi. Omlouvám se.}
-{175}{}{Fajn a co tøeba tohle? Kdybych mìl u sebe sušené maso, které vypadá alespoò z poloviny tak ošklivì jako ty, tak bych ho radìji spálil, aby se mrchorouti neotrávili. Sbohem.}
-{176}{hld20a}{No, dobøe. Ale radši se pøestaò chovat jako tupec. }
-{177}{hld20b}{Nìco ti povím, štìnì. Hezkej pokus, ale poøád jsi idiot. Moná, e právì tohle je ta lekce, kterou potøebuješ. Vypadni.}
-{178}{}{Omlouvám se. Teï, kdy jsme to urovnali, mùu se na nìco zeptat?}
+{119}{}{VÃ­m, Å¾e se poÅ™Ã¡d zlobÃ­Å¡, ale zmÃ­nil ses o VÅ¯dci. MÅ¯j pÅ™edek ho zabil.}
+{120}{}{Nazdar, Harolde. Jenom prochÃ¡zÃ­m. Sbohem.}
+{121}{hld3}{Co... cokoliv je potÅ™eba k tomu, aby tohle mÃ­sto drÅ¾elo pohromadÄ›... stejnÄ› jako jÃ¡.}
+{122}{}{Tohle mÃ­sto se rozpadÃ¡?}
+{123}{}{To neznÃ­ moc dobÅ™e.}
+{124}{hld3a}{JasnÄ›, ale na mrtvolu si vedu dost dobÅ™e! Nikdy mÄ› neomrzÃ­ ty pohledy, kdyÅ¾ tohle Å™eknu.}
+{125}{}{Aha, dobÅ™e... takÅ¾e ty Å™Ã­kÃ¡Å¡, Å¾e se tohle mÃ­sto rozpadÃ¡?}
+{126}{}{Å˜Ã­kÃ¡Å¡ mrtvola? No, v tom pÅ™Ã­padÄ› ti to jde fakt dobÅ™e. Tak dobÅ™e, Å¾e mi urÄitÄ› odpovÃ­Å¡ na dalÅ¡Ã­ otÃ¡zku.}
+{127}{hld4a}{No, tak nÄ›jak. NÃ¡Å¡ atomovÃ½ reaktor je maliÄko... citlivÃ½. Lidi, co se o nÄ›j starajÃ­, to myslÃ­ dobÅ™e, ale... no, ale nejsou to zrovna Å¡tiky v rybnÃ­ce, jestli mi rozumÃ­Å¡.}
+{128}{hld4b}{VlastnÄ› teÄ, kdyÅ¾ je reaktor opravenÃ½, to jde dobÅ™e. Nikdy by mÄ› ani nenapadlo, Å¾e nÄ›kdo pÅ™esvÄ›dÄÃ­ ty idioty ve Vault City, aby nÃ¡m pomohli.}
+{129}{hld4c}{VÃ­Å¡, teÄ to nenÃ­ tak Å¡patnÃ½. PodaÅ™ilo se ti opravit elektrÃ¡rnu a pak sehnat data, kterÃ½ potÅ™ebujeme, aby byla jako novÃ¡. DoprÄic, jsi fakt tÅ™Ã­da!}
+{130}{}{Co tÃ­m myslÃ­Å¡?}
+{131}{}{NechtÄ›l jsem, aby Vault City zniÄilo vaÅ¡e mÄ›sto.}
+{132}{}{No, nechtÄ›l jsem, aby Vault City zniÄilo vaÅ¡e mÄ›sto. Mimochodem, bylo v jejich zÃ¡jmu, aby byla elektrÃ¡rna opravena.}
+{133}{}{No, jelikoÅ¾ je ve vlastnÃ­m zÃ¡jmu Vault City, aby byl reaktor opravenÃ½, nebylo moc tÄ›Å¾kÃ© zÃ­skat od nich optimalizaÄnÃ­ data.}
+{134}{}{Nerad nechÃ¡vÃ¡m vÄ›ci napÅ¯l rozdÄ›lanÃ©.}
+{135}{}{No, hroznÄ› rÃ¡d bych zÅ¯stal a pokecal s tebou, ale mÃ¡m spoustu prÃ¡ce a tak. HodnÄ› Å¡tÄ›stÃ­.}
+{136}{hld5}{No, technicky... je to takovÃ¡ vÄ›ciÄka.}
+{137}{}{DobÅ™e a co to dÄ›lÃ¡?}
+{138}{hld6}{PotÅ™ebujeÅ¡ obÄas trochu popostrÄit, co? TÃ­m myslÃ­m, Å¾e to nejsou zrovna gÃ©niovÃ©. Tak napÅ™Ã­klad jednou se mi dostala do ruky technickÃ¡ zprÃ¡va a v nÃ­ bylo napsanÃ½, Å¾e by se mÄ›l vypnout hlavnÃ­ uzÃ¡vÄ›r chladÃ­cÃ­ho sytÃ©mu. To by zpÅ¯sobilo takovou paseku, vedle kterÃ½ by Grand KaÅˆon vypadal asi jako bahniÅ¡tÄ› pro prasata.}
+{139}{}{To znÃ­ oÅ¡klivÄ›.}
+{140}{hld7}{Eh, jo, to by bylo oÅ¡klivÃ½. TeÄ uÅ¾ je to vyÅ™eÅ¡enÃ½, ale moc neschÃ¡zelo. PotÅ™ebujou nÄ›koho, kdo na nÄ› dohlÃ­dne.}
+{141}{}{JeÅ¡tÄ›, Å¾e tu jsi a pomÃ¡hÃ¡Å¡ jim.}
+{142}{hld8}{Kdo by si pomyslel, Å¾e budu muset Å™eÅ¡it takovÃ½ vÄ›ci? Ale jestli hodnÄ› rychle neseÅ¾eneme hydroelektrickÃ½ regulÃ¡tor magnetosfÃ©ry, budou potÃ­Å¾e.}
+{143}{}{Co je sakra ten hydra-magna-cokolivÃ¡tor?}
+{144}{}{Hmm, to znÃ­ opravdu jako problÃ©m. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{145}{}{PotÃ­Å¾e? JakÃ© potÃ­Å¾e?}
+{146}{}{VÃ­Å¡, uÅ¾ jsem tÄ› pÅ™ipravil o hodnÄ› Äasu. Sbohem.}
+{147}{hld9}{Sakra, nebÃ½t tebe, ty zadÄ›lanÃ½ idioti z Vault City by nÃ¡m zaÅ™Ã­dili rychlÃ½ ubytovÃ¡nÃ­ v hlÃ­nÄ›.}
+{148}{}{Nemohl jsem nechat dopustit, aby vÃ¡s Vault City pozabÃ­jelo.}
+{149}{}{RÃ¡do se stalo, Harolde. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{150}{hld11a}{To je od tebe hezkÃ½. NenÃ­ moc hezounÅ¯, co by tohle udÄ›lali pro mÄ›sto plnÃ½ ghoulÅ¯. Trochu mi pÅ™ipomÃ­nÃ¡Å¡ hezouna, kterÃ½ho jsem kdysi znal.}
+{151}{hld11b}{VÃ­Å¡, jsi hodnÄ› podobnÃ½ Zakladateli.}
+{152}{}{JinÃ©ho hezouna? Co tÃ­m myslÃ­Å¡?}
+{153}{}{DÃ­ky. DoufÃ¡m, Å¾e budu Å¾Ã­t jako mÅ¯j pÅ™edek. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{154}{}{RÃ¡do se stalo. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{155}{}{VlastnÄ› je to moje kaÅ¾dodennÃ­ prÃ¡ce. Ale uÅ¾ musÃ­m jÃ­t. ZachraÅˆovat lidi, zabÃ­jet pÅ™Ã­Å¡ery, zabraÅˆovat katastrofÃ¡m a podobnÃ© vÄ›ci. Sbohem.}
+{156}{hld14}{Nespadlo ti nÄ›co na hlaviÄku? NevypadÃ¡Å¡ jako pomeranÄovÃ¡ kÅ¯ra, kterou nÄ›kdo nechÃ¡ pÅ™es den na slunci. MÃ¡Å¡ jeÅ¡tÄ› poÅ™Ã¡d mÄ›kkou a Äistou kÅ¯Å¾i. }
+{157}{}{Dostal jsi mÄ›. PÅ™Ã­Å¡tÄ› se zeptÃ¡m na nÄ›co dÅ¯leÅ¾itÄ›jÅ¡Ã­ho.}
+{158}{}{Jo, jasnÄ›. PoslyÅ¡, chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{159}{}{AÅ¥ tÄ› ani nenapadne nÄ›co dÄ›lat s mojÃ­ kÅ¯Å¾Ã­, jasnÃ½?}
+{160}{}{Eh, no, uÅ¾ asi pÅ¯jdu. Sbohem.}
+{161}{hld15}{MyslÃ­Å¡ jako stÃ¡hnout tÄ› zaÅ¾iva rezavÃ½m, tupÃ½m, starÃ½m noÅ¾em a potom si naroubovat tvoji jeÅ¡tÄ› teplou, vlhkou, blÃ½skavou a tak jemnou kÅ¯Å¾i na svÅ¯j ztvrdlej povrch?}
+{162}{}{Hej! DrÅ¾ se ode mÄ› dÃ¡l. PadÃ¡m odsud, dokud jsem jeÅ¡tÄ› ve svojÃ­ kÅ¯Å¾i!}
+{163}{}{Jo, pÅ™esnÄ› to mÃ¡m na mysli. DobrÃ½ odhad.}
+{164}{hld16}{No, nemusÃ­Å¡ se niÄeho bÃ¡t... nemÅ¯Å¾u najÃ­t svÅ¯j kapesnÃ­ noÅ¾Ã­k.}
+{165}{}{NezmÄ›nÃ­me radÄ›ji tÃ©ma?}
+{166}{}{RadÄ›ji na mÄ› tÄ›ma umounÄ›nÃ½ma prackama nehrabej. Sbohem.}
+{167}{hld17}{VÃ­c kÅ¯Å¾e! ...potÅ™ebuju vÃ­c kÅ¯Å¾e! (ChechtÃ¡ se) Co je s tebou? Ztratil jsi cestou smysl pro humor?}
+{168}{}{MÃ¡m toho hodnÄ› na starosti, vÃ­Å¡? PotÅ™ebuju informace.}
+{169}{}{Asi ho pÅ¯jdu hledat. Sbohem.}
+{170}{hld18}{Zrovna jsem si straÅ¡nÄ› prdnul, ale tvÅ¯j smrad to stejnÄ› nepÅ™ebije. Co kdybys odsud vypadnul?}
+{171}{}{Fajn, ale napÅ™ed se chci omluvit za svoje chovÃ¡nÃ­.}
+{172}{}{Tak si strÄ do nosu ponoÅ¾ku, ty starej, smradlavej ghoule. Sbohem.}
+{173}{hld19}{To uÅ¾ je lepÅ¡Ã­, ale poÅ™Ã¡d to nestaÄÃ­.}
+{174}{}{NevÃ­m, co jeÅ¡tÄ› Å™Ã­ct. ProstÄ› nevÃ­m, jak se vypoÅ™Ã¡dat s novÃ½mi vÄ›cmi. OmlouvÃ¡m se.}
+{175}{}{Fajn a co tÅ™eba tohle? Kdybych mÄ›l u sebe suÅ¡enÃ© maso, kterÃ© vypadÃ¡ alespoÅˆ z poloviny tak oÅ¡klivÄ› jako ty, tak bych ho radÄ›ji spÃ¡lil, aby se mrchoÅ¾routi neotrÃ¡vili. Sbohem.}
+{176}{hld20a}{No, dobÅ™e. Ale radÅ¡i se pÅ™estaÅˆ chovat jako tupec. }
+{177}{hld20b}{NÄ›co ti povÃ­m, Å¡tÄ›nÄ›. Hezkej pokus, ale poÅ™Ã¡d jsi idiot. MoÅ¾nÃ¡, Å¾e prÃ¡vÄ› tohle je ta lekce, kterou potÅ™ebujeÅ¡. Vypadni.}
+{178}{}{OmlouvÃ¡m se. TeÄ, kdyÅ¾ jsme to urovnali, mÅ¯Å¾u se na nÄ›co zeptat?}
 {179}{}{Fajn, sbohem.}
-{180}{hld21a}{Radši budu vypadat takhle, ne abych vypadal jako ty a choval se tak. Jsi tupec. A teï sakra vypadni. }
-{181}{hld21b}{Jseš jak hnusnej sopl, kterej nejde odpinknout z prstu. Ale já poøád pinkám... a hele, u povolil!}
-{182}{hld21c}{Podívejme, co nám vítr pøivál. Mùj oblíbenı sráè. Proè odtud prostì nevymajzneš?}
-{183}{hld21d}{Chceš vìdìt, jak udret idiota v nejistotì?}
-{184}{hld21e}{Nazdar. Doufal jsem, e se ukáeš. Vyhrál jsi cenu pro nejvìtšího kreténa. Ve mìstì deset mil severnì odtud je mejdan na tvoji poèest. Radši si pospìš.}
-{185}{hld26}{V jejich zájmu? Co tím myslíš?}
-{186}{}{No, podle ekonomickıch dat, které se mi podaøilo získat, je pro Vault City lepší, kdy vám pomùou vaši elektrárnu opravit.}
-{187}{}{Tím myslím, e je vdycky lepší snait se se sousedy vycházet.}
-{188}{}{Eh, vlastnì nic.}
-{189}{}{Páni, to je ale hodin. Radìji pùjdu. Sbohem.}
-{190}{hld27}{Ekonomická data? Nedal jsi jim snad ty data, o kterıch poøád dokola mele Gordon, e ne?}
-{191}{}{Eh, jo, dal. Proè?}
-{192}{}{Eh, ne. Samozøejmì, e ne.}
-{193}{hld28}{Jo, no, mám pocit, e nìjakej tupec, jako jsi ty, øekl o Vùdci to samı.}
-{194}{}{To zní jako bezva pøíbìh. Bohuel nemám èas si ho poslechnout.}
-{195}{}{Vùdce? Toho mùj pøedek zabil!}
-{196}{hld29}{Nic, jo? Na to ti neskoèím. To jsme v pìknı reji. Co kdybys odsud vyfièel, zatímco já budu pøemıšlet o tom co dál?}
-{197}{}{Eh, promiò.}
-{198}{}{Jo, jasnì. To pøesnì udìlej. Jeíš, snaím se jen lidem pomoct...}
-{199}{hld30}{Proè?! Teï Vault City ví, jak moc potøebujeme uranovou rudu z Broken Hills. Mùou odøíznout dodávky a budeme vyøízení.}
-{200}{}{Ále, pøece to nemùe bıt tak zlé. Mnì pøipadají jako rozumní lidé.}
-{201}{}{Nevìdìl jsem, e ty data takhle zneuijí. Je mi to líto. Sbohem.}
-{202}{hld31}{No, doufám, e máš pravdu. Ti idioti z Vault City nenávidí ghouly. Klidnì by mohli ihned odøíznout naše dodávky z Broken Hills a pak si nadiktovat podmínky. Netrvalo by dlouho a z Gecka by se stal otrokáøskı tábor.}
-{203}{}{Ále, to urèitì neudìlají. Vypadají jako rozumní lidé.}
-{204}{}{Tak v tom pøípadì je dobøe, e jsem jim nic takového neøekl. Hehe. Poslyš, chci se ještì na nìco zeptat.}
-{205}{}{No, obèas se holt nìco posere. Sbohem.}
-{206}{hld32}{Rozumní? Rozumní! Jsem si jistej, e lidi øíkali, e byl Vùdce taky rozumnı. Ty jsi ale tupec. Vypadni. Hned!}
-{207}{}{Moná mají pravdu. Moná je naèase koneènì zatoèit se zrùdama, jako jste vy. Sbohem.}
-{208}{}{Eh, no, já ehm... tak jo. Sbohem.}
-{209}{hld33}{Tak to si promluv s Woozem v Harpyji. Nemùeš to minout... je to naproti.}
-{210}{}{Díky. Chci se ještì na nìco zeptat.}
-{211}{}{Díky. To je všechno, co teï potøebuju vìdìt. Sbohem.}
-{212}{hld34}{árlíš? Jmenuje se Herbert. Kdy je mi smutno, povídám si s ním... hehe. Dìlám si srandu... jmenuje se Bob.}
-{213}{}{Dobøe... moná ty nebo Bob budete znát odpovìï na tohle.}
-{214}{}{Díky. To je daleko víc, ne teï potøebuju vìdìt. Sbohem.}
-{215}{hld35}{GECK? Vzpomínám si, e nìco takovıho mìly Vaulty. Ale nevím, kde by se dal najít.}
-{216}{}{Díky. Chci se ještì na nìco zeptat.}
-{217}{}{Díky. To je všechno, co teï potøebuju vìdìt. Sbohem.}
-{218}{hld36}{Promluv si s mım asistentem Lennym. Urèitì bude schopnı tì dát do poøádku.}
-{219}{}{Díky. Chci se ještì na nìco zeptat.}
-{220}{}{Díky. To je všechno, co teï potøebuju vìdìt. Sbohem.}
-{221}{hld37}{Další hezoun. Fakt jsem si ho váil.}
+{180}{hld21a}{RadÅ¡i budu vypadat takhle, neÅ¾ abych vypadal jako ty a choval se tak. Jsi tupec. A teÄ sakra vypadni. }
+{181}{hld21b}{JseÅ¡ jak hnusnej sopl, kterej nejde odpinknout z prstu. Ale jÃ¡ poÅ™Ã¡d pinkÃ¡m... a hele, uÅ¾ povolil!}
+{182}{hld21c}{PodÃ­vejme, co nÃ¡m vÃ­tr pÅ™ivÃ¡l. MÅ¯j oblÃ­benÃ½ srÃ¡Ä. ProÄ odtud prostÄ› nevymajzneÅ¡?}
+{183}{hld21d}{ChceÅ¡ vÄ›dÄ›t, jak udrÅ¾et idiota v nejistotÄ›?}
+{184}{hld21e}{Nazdar. Doufal jsem, Å¾e se ukÃ¡Å¾eÅ¡. VyhrÃ¡l jsi cenu pro nejvÄ›tÅ¡Ã­ho kretÃ©na. Ve mÄ›stÄ› deset mil severnÄ› odtud je mejdan na tvoji poÄest. RadÅ¡i si pospÄ›Å¡.}
+{185}{hld26}{V jejich zÃ¡jmu? Co tÃ­m myslÃ­Å¡?}
+{186}{}{No, podle ekonomickÃ½ch dat, kterÃ© se mi podaÅ™ilo zÃ­skat, je pro Vault City lepÅ¡Ã­, kdyÅ¾ vÃ¡m pomÅ¯Å¾ou vaÅ¡i elektrÃ¡rnu opravit.}
+{187}{}{TÃ­m myslÃ­m, Å¾e je vÅ¾dycky lepÅ¡Ã­ snaÅ¾it se se sousedy vychÃ¡zet.}
+{188}{}{Eh, vlastnÄ› nic.}
+{189}{}{PÃ¡ni, to je ale hodin. RadÄ›ji pÅ¯jdu. Sbohem.}
+{190}{hld27}{EkonomickÃ¡ data? Nedal jsi jim snad ty data, o kterÃ½ch poÅ™Ã¡d dokola mele Gordon, Å¾e ne?}
+{191}{}{Eh, jo, dal. ProÄ?}
+{192}{}{Eh, ne. SamozÅ™ejmÄ›, Å¾e ne.}
+{193}{hld28}{Jo, no, mÃ¡m pocit, Å¾e nÄ›jakej tupec, jako jsi ty, Å™ekl o VÅ¯dci to samÃ½.}
+{194}{}{To znÃ­ jako bezva pÅ™Ã­bÄ›h. BohuÅ¾el nemÃ¡m Äas si ho poslechnout.}
+{195}{}{VÅ¯dce? Toho mÅ¯j pÅ™edek zabil!}
+{196}{hld29}{Nic, jo? Na to ti neskoÄÃ­m. To jsme v pÄ›knÃ½ rejÅ¾i. Co kdybys odsud vyfiÄel, zatÃ­mco jÃ¡ budu pÅ™emÃ½Å¡let o tom co dÃ¡l?}
+{197}{}{Eh, promiÅˆ.}
+{198}{}{Jo, jasnÄ›. To pÅ™esnÄ› udÄ›lej. JeÅ¾Ã­Å¡, snaÅ¾Ã­m se jen lidem pomoct...}
+{199}{hld30}{ProÄ?! TeÄ Vault City vÃ­, jak moc potÅ™ebujeme uranovou rudu z Broken Hills. MÅ¯Å¾ou odÅ™Ã­znout dodÃ¡vky a budeme vyÅ™Ã­zenÃ­.}
+{200}{}{Ãle, pÅ™ece to nemÅ¯Å¾e bÃ½t tak zlÃ©. MnÄ› pÅ™ipadajÃ­ jako rozumnÃ­ lidÃ©.}
+{201}{}{NevÄ›dÄ›l jsem, Å¾e ty data takhle zneuÅ¾ijÃ­. Je mi to lÃ­to. Sbohem.}
+{202}{hld31}{No, doufÃ¡m, Å¾e mÃ¡Å¡ pravdu. Ti idioti z Vault City nenÃ¡vidÃ­ ghouly. KlidnÄ› by mohli ihned odÅ™Ã­znout naÅ¡e dodÃ¡vky z Broken Hills a pak si nadiktovat podmÃ­nky. Netrvalo by dlouho a z Gecka by se stal otrokÃ¡Å™skÃ½ tÃ¡bor.}
+{203}{}{Ãle, to urÄitÄ› neudÄ›lajÃ­. VypadajÃ­ jako rozumnÃ­ lidÃ©.}
+{204}{}{Tak v tom pÅ™Ã­padÄ› je dobÅ™e, Å¾e jsem jim nic takovÃ©ho neÅ™ekl. Hehe. PoslyÅ¡, chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{205}{}{No, obÄas se holt nÄ›co posere. Sbohem.}
+{206}{hld32}{RozumnÃ­? RozumnÃ­! Jsem si jistej, Å¾e lidi Å™Ã­kali, Å¾e byl VÅ¯dce taky rozumnÃ½. Ty jsi ale tupec. Vypadni. Hned!}
+{207}{}{MoÅ¾nÃ¡ majÃ­ pravdu. MoÅ¾nÃ¡ je naÄase koneÄnÄ› zatoÄit se zrÅ¯dama, jako jste vy. Sbohem.}
+{208}{}{Eh, no, jÃ¡ ehm... tak jo. Sbohem.}
+{209}{hld33}{Tak to si promluv s Woozem v Harpyji. NemÅ¯Å¾eÅ¡ to minout... je to naproti.}
+{210}{}{DÃ­ky. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{211}{}{DÃ­ky. To je vÅ¡echno, co teÄ potÅ™ebuju vÄ›dÄ›t. Sbohem.}
+{212}{hld34}{Å½Ã¡rlÃ­Å¡? Jmenuje se Herbert. KdyÅ¾ je mi smutno, povÃ­dÃ¡m si s nÃ­m... hehe. DÄ›lÃ¡m si srandu... jmenuje se Bob.}
+{213}{}{DobÅ™e... moÅ¾nÃ¡ ty nebo Bob budete znÃ¡t odpovÄ›Ä na tohle.}
+{214}{}{DÃ­ky. To je daleko vÃ­c, neÅ¾ teÄ potÅ™ebuju vÄ›dÄ›t. Sbohem.}
+{215}{hld35}{GECK? VzpomÃ­nÃ¡m si, Å¾e nÄ›co takovÃ½ho mÄ›ly Vaulty. Ale nevÃ­m, kde by se dal najÃ­t.}
+{216}{}{DÃ­ky. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{217}{}{DÃ­ky. To je vÅ¡echno, co teÄ potÅ™ebuju vÄ›dÄ›t. Sbohem.}
+{218}{hld36}{Promluv si s mÃ½m asistentem Lennym. UrÄitÄ› bude schopnÃ½ tÄ› dÃ¡t do poÅ™Ã¡dku.}
+{219}{}{DÃ­ky. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{220}{}{DÃ­ky. To je vÅ¡echno, co teÄ potÅ™ebuju vÄ›dÄ›t. Sbohem.}
+{221}{hld37}{DalÅ¡Ã­ hezoun. Fakt jsem si ho vÃ¡Å¾il.}
 {222}{}{Kdo to byl?}
-{223}{hld38}{No, moná bych si to pamatoval, kdybych nebyl mrtvej. Tenhle vtip mì nikdy neomrzí. }
-{224}{}{Moná, e...}
-{225}{hld38a}{No, abych byl upøímnej, nepamatuju si jeho jméno, ale nosil srandovní kombinézu. Jako tu, co máš na sobì.}
-{226}{}{Tohle je kombinéza z Vaultu, kterou nosil mùj pøedek. Je to symbol mojí svaté vıpravy.}
-{227}{}{Coe, tuhle staroitnost?}
-{228}{hld38b}{Nekecáš?}
-{229}{}{Tohle je kombinéza z Vaultu, kterou nosil mùj pøedek. Je to symbol mojí svaté vıpravy.}
-{230}{}{Nelu, Harolde.}
-{231}{hld39}{Fakt? Dobrá, dobrá, dobrá. Tak tím se pár vìcí vysvìtluje. A já proè vypadáš tak povìdomì. U jsem myslel, e jsem ztratil i tu poslední špetku rozumu, která mi ještì zbyla.}
-{232}{}{Opravdu vypadáme podobnì?}
-{233}{}{Øekni mi, jakı byl ten Zakladatel?}
-{234}{hld40}{Jo, vypadala úplnì stejnì. A co si tak vzpomínám, taky mìla na sobì èíslo 13. }
-{235}{}{Po pravdì øeèeno, tohle je ta kombinéza, kterou nosil mùj pøedek, Zakladatel.}
-{236}{hld41}{Je tu jistá podoba. Aspoò co si vzpomínám. Víš, tvùj pøedek nás všechny zachránil.}
-{237}{}{Zakladatel zachránil všechny ghouly?}
-{238}{}{Díky, to je dobré vìdìt. Poslyš, musím na chvíli odbìhnout. Pøijdu pozdìji.}
-{239}{hld42}{Nedìlej ukvapenı závìry, štìnì. Jednou ti kvùli tomu nìkdo vystøelí mozek. Všechny z nás. Zachránil kadıho dvounohıho tvora na tıhle blbı planetì. }
-{240}{}{To jsem nevìdìl.}
-{241}{}{Myslím, e u nechci víc slyšet. Sbohem.}
-{242}{hld43}{No a teï u to víš. A víš, co se stalo pak? Místo toho, aby mu podìkovali, tak ho ti zatracení, arogantní Vauláci vyhnali. Vdycky mì zajímalo, co se s ním stalo potom.}
-{243}{}{Mùu ti øíct, co se stalo potom.}
-{244}{}{Konec vzpomínání. Chci se ještì na nìco zeptat.}
-{245}{hld44}{No, tak to si rád poslechnu.}
-{246}{}{Legenda Zakladatele zaèíná ve chvíli, kdy ho z Vaultu vyhnali do pustiny... (Povídáš Haroldovi pøíbìh o svém pøedkovi.) ...a proto teï hledám Vault 13.}
-{247}{hld45}{Díky za pøíbìh. Fakt mì to zajímalo. Vypadá to, e máš pøed sebou hromadu práce. Hele, víš ty co...}
+{223}{hld38}{No, moÅ¾nÃ¡ bych si to pamatoval, kdybych nebyl mrtvej. Tenhle vtip mÄ› nikdy neomrzÃ­. }
+{224}{}{MoÅ¾nÃ¡, Å¾e...}
+{225}{hld38a}{No, abych byl upÅ™Ã­mnej, nepamatuju si jeho jmÃ©no, ale nosil srandovnÃ­ kombinÃ©zu. Jako tu, co mÃ¡Å¡ na sobÄ›.}
+{226}{}{Tohle je kombinÃ©za z Vaultu, kterou nosil mÅ¯j pÅ™edek. Je to symbol mojÃ­ svatÃ© vÃ½pravy.}
+{227}{}{CoÅ¾e, tuhle staroÅ¾itnost?}
+{228}{hld38b}{NekecÃ¡Å¡?}
+{229}{}{Tohle je kombinÃ©za z Vaultu, kterou nosil mÅ¯j pÅ™edek. Je to symbol mojÃ­ svatÃ© vÃ½pravy.}
+{230}{}{NelÅ¾u, Harolde.}
+{231}{hld39}{Fakt? DobrÃ¡, dobrÃ¡, dobrÃ¡. Tak tÃ­m se pÃ¡r vÄ›cÃ­ vysvÄ›tluje. A jÃ¡ proÄ vypadÃ¡Å¡ tak povÄ›domÄ›. UÅ¾ jsem myslel, Å¾e jsem ztratil i tu poslednÃ­ Å¡petku rozumu, kterÃ¡ mi jeÅ¡tÄ› zbyla.}
+{232}{}{Opravdu vypadÃ¡me podobnÄ›?}
+{233}{}{Å˜ekni mi, jakÃ½ byl ten Zakladatel?}
+{234}{hld40}{Jo, vypadala ÃºplnÄ› stejnÄ›. A co si tak vzpomÃ­nÃ¡m, taky mÄ›la na sobÄ› ÄÃ­slo 13. }
+{235}{}{Po pravdÄ› Å™eÄeno, tohle je ta kombinÃ©za, kterou nosil mÅ¯j pÅ™edek, Zakladatel.}
+{236}{hld41}{Je tu jistÃ¡ podoba. AspoÅˆ co si vzpomÃ­nÃ¡m. VÃ­Å¡, tvÅ¯j pÅ™edek nÃ¡s vÅ¡echny zachrÃ¡nil.}
+{237}{}{Zakladatel zachrÃ¡nil vÅ¡echny ghouly?}
+{238}{}{DÃ­ky, to je dobrÃ© vÄ›dÄ›t. PoslyÅ¡, musÃ­m na chvÃ­li odbÄ›hnout. PÅ™ijdu pozdÄ›ji.}
+{239}{hld42}{NedÄ›lej ukvapenÃ½ zÃ¡vÄ›ry, Å¡tÄ›nÄ›. Jednou ti kvÅ¯li tomu nÄ›kdo vystÅ™elÃ­ mozek. VÅ¡echny z nÃ¡s. ZachrÃ¡nil kaÅ¾dÃ½ho dvounohÃ½ho tvora na tÃ½hle blbÃ½ planetÄ›. }
+{240}{}{To jsem nevÄ›dÄ›l.}
+{241}{}{MyslÃ­m, Å¾e uÅ¾ nechci vÃ­c slyÅ¡et. Sbohem.}
+{242}{hld43}{No a teÄ uÅ¾ to vÃ­Å¡. A vÃ­Å¡, co se stalo pak? MÃ­sto toho, aby mu podÄ›kovali, tak ho ti zatracenÃ­, arogantnÃ­ VaulÅ¥Ã¡ci vyhnali. VÅ¾dycky mÄ› zajÃ­malo, co se s nÃ­m stalo potom.}
+{243}{}{MÅ¯Å¾u ti Å™Ã­ct, co se stalo potom.}
+{244}{}{Konec vzpomÃ­nÃ¡nÃ­. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{245}{hld44}{No, tak to si rÃ¡d poslechnu.}
+{246}{}{Legenda Zakladatele zaÄÃ­nÃ¡ ve chvÃ­li, kdy ho z Vaultu vyhnali do pustiny... (PovÃ­dÃ¡Å¡ Haroldovi pÅ™Ã­bÄ›h o svÃ©m pÅ™edkovi.) ...a proto teÄ hledÃ¡m Vault 13.}
+{247}{hld45}{DÃ­ky za pÅ™Ã­bÄ›h. Fakt mÄ› to zajÃ­malo. VypadÃ¡ to, Å¾e mÃ¡Å¡ pÅ™ed sebou hromadu prÃ¡ce. Hele, vÃ­Å¡ ty co...}
 {248}{}{Ano?}
-{249}{}{U jsem tì pøipravil o dost èasu. Radìji pùjdu. Sbohem.}
-{250}{hld46a}{No, tohle jsem si sice schovával na horší èasy, ale vypadá to, e ty je budeš potøebovat víc ne já. Na, vem si je.}
-{251}{hld46b}{Chtìl jsem ti dát nìjakı léèící prostøedky, ale mám pocit, e u jsem to udìlal. Øeknu ti, to stárnutí nedìlá pamìti dobøe.}
-{252}{}{Díky. Chci se ještì na nìco zeptat.}
-{253}{}{Díky za všechno. Radìji u pùjdu. Sbohem.}
-{254}{hld48a}{Bez funkèního hydroelektrického regulátoru magnetosféry nám prosakuje radioaktivní chladící kapalina do podzemních vod. To znamená, e kdokoliv se tı vody napije, nebude potøebovat baterku, a pùjde o pùlnoci na záchod. A taky potøebujeme víc paliva, protoe ho elektrárna nespaluje efektivnì.}
-{255}{hld48b}{Potøebujeme hydroelektrickı regulátor magnetosféry a potøebujeme ho nainstalovat co nejdøív, jinak budeme mít vánej problém.}
-{256}{}{To nezní moc dobøe. Kde chcete sehnat ten hydro magnetonìco-nebo-tamto?}
-{257}{}{A co se stane, kdy tu souèástku neseenete?}
+{249}{}{UÅ¾ jsem tÄ› pÅ™ipravil o dost Äasu. RadÄ›ji pÅ¯jdu. Sbohem.}
+{250}{hld46a}{No, tohle jsem si sice schovÃ¡val na horÅ¡Ã­ Äasy, ale vypadÃ¡ to, Å¾e ty je budeÅ¡ potÅ™ebovat vÃ­c neÅ¾ jÃ¡. Na, vem si je.}
+{251}{hld46b}{ChtÄ›l jsem ti dÃ¡t nÄ›jakÃ½ lÃ©ÄÃ­cÃ­ prostÅ™edky, ale mÃ¡m pocit, Å¾e uÅ¾ jsem to udÄ›lal. Å˜eknu ti, to stÃ¡rnutÃ­ nedÄ›lÃ¡ pamÄ›ti dobÅ™e.}
+{252}{}{DÃ­ky. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{253}{}{DÃ­ky za vÅ¡echno. RadÄ›ji uÅ¾ pÅ¯jdu. Sbohem.}
+{254}{hld48a}{Bez funkÄnÃ­ho hydroelektrickÃ©ho regulÃ¡toru magnetosfÃ©ry nÃ¡m prosakuje radioaktivnÃ­ chladÃ­cÃ­ kapalina do podzemnÃ­ch vod. To znamenÃ¡, Å¾e kdokoliv se tÃ½ vody napije, nebude potÅ™ebovat baterku, aÅ¾ pÅ¯jde o pÅ¯lnoci na zÃ¡chod. A taky potÅ™ebujeme vÃ­c paliva, protoÅ¾e ho elektrÃ¡rna nespaluje efektivnÄ›.}
+{255}{hld48b}{PotÅ™ebujeme hydroelektrickÃ½ regulÃ¡tor magnetosfÃ©ry a potÅ™ebujeme ho nainstalovat co nejdÅ™Ã­v, jinak budeme mÃ­t vÃ¡Å¾nej problÃ©m.}
+{256}{}{To neznÃ­ moc dobÅ™e. Kde chcete sehnat ten hydro magnetonÄ›co-nebo-tamto?}
+{257}{}{A co se stane, kdyÅ¾ tu souÄÃ¡stku neseÅ¾enete?}
 {258}{}{Od koho kupujete palivo?}
-{259}{}{To mì mrzí. Chci se ještì na nìco zeptat.}
-{260}{}{Myslím, e ten problém zatím nechám na vás. Sbohem.}
-{261}{hld49}{No, jsem si jistej, e ti bastardi ve Vault City jeden mají. Ne e by nám ho chtìli dát. Sakra, i kdybysme tu vìcièku mìli, nejsem si jistej, jestli by tu zatracenou vìc Festus vùbec umìl nainstalovat.}
-{262}{}{Vault City vám tu souèástku nedá? I kdyby to vyøešilo problémy se zneèišováním vody?}
-{263}{}{Vypadá to, e máš hodnì starostí. Sbohem.}
-{264}{hld50}{Jestli ji neseeneme, tak se mùeš vsadit, e nám ti tupci z Vault City pøijdou zavøít naši elektrárnu. Navdy.}
-{265}{}{A co budete dìlat potom?}
-{266}{hld51}{Palivo máme z Broken Hills. To je tìaøská komunita jinì odtud.}
-{267}{}{Zajímavé. A kde chcete sehnat jeden z tìch hydro magnetonìco-nebo-tamto?}
-{268}{}{Co se stane, kdy neseenete tu hydro-souèástku?}
-{269}{}{Hmm, asi ten problém nechám na tobì. Sbohem.}
-{270}{hld52}{Prdìt do hlíny. Vault City se s náma párat nebude. Jestli tu souèástku neseeneme, tak prostì pøijdou a všechny nás zabijou. No, já bych mìl aspoò stromeèek místo pomníku.}
-{271}{}{Jak e se ta souèástka jmenuje?}
-{272}{}{Vypadá to, e tu hydro-vìc opravdu nutnì potøebujete. Chci se ještì na nìco zeptat.}
-{273}{}{To zní jako problém. Potøebuju nìkam zabìhnout a uvidím, co se dá dìlat. Nashle.}
-{274}{hld53}{No, oni by nám pomohli, jenom kdyby to bylo v jejich vlastním zájmu, víš? A to není zrovna moc velká šance.}
-{275}{}{Hmm, asi máš pravdu. Ale stejnì, kdyby je nìkdo pøesvìdèil, aby vám pomohli...}
-{276}{hld54}{Ghouly støílí, jen co je uvidí. To je pak tìká konverzace.}
-{277}{}{A co kdyby jim to øekl nìkdo jinı?}
-{278}{}{Ano, to je. Chci se ještì na nìco zeptat.}
-{279}{}{Hele, nikdy nevíš. Uvidíme se pozdìji.}
+{259}{}{To mÄ› mrzÃ­. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{260}{}{MyslÃ­m, Å¾e ten problÃ©m zatÃ­m nechÃ¡m na vÃ¡s. Sbohem.}
+{261}{hld49}{No, jsem si jistej, Å¾e ti bastardi ve Vault City jeden majÃ­. Ne Å¾e by nÃ¡m ho chtÄ›li dÃ¡t. Sakra, i kdybysme tu vÄ›ciÄku mÄ›li, nejsem si jistej, jestli by tu zatracenou vÄ›c Festus vÅ¯bec umÄ›l nainstalovat.}
+{262}{}{Vault City vÃ¡m tu souÄÃ¡stku nedÃ¡? I kdyby to vyÅ™eÅ¡ilo problÃ©my se zneÄiÅ¡Å¥ovÃ¡nÃ­m vody?}
+{263}{}{VypadÃ¡ to, Å¾e mÃ¡Å¡ hodnÄ› starostÃ­. Sbohem.}
+{264}{hld50}{Jestli ji neseÅ¾eneme, tak se mÅ¯Å¾eÅ¡ vsadit, Å¾e nÃ¡m ti tupci z Vault City pÅ™ijdou zavÅ™Ã­t naÅ¡i elektrÃ¡rnu. NavÅ¾dy.}
+{265}{}{A co budete dÄ›lat potom?}
+{266}{hld51}{Palivo mÃ¡me z Broken Hills. To je tÄ›Å¾aÅ™skÃ¡ komunita jiÅ¾nÄ› odtud.}
+{267}{}{ZajÃ­mavÃ©. A kde chcete sehnat jeden z tÄ›ch hydro magnetonÄ›co-nebo-tamto?}
+{268}{}{Co se stane, kdyÅ¾ neseÅ¾enete tu hydro-souÄÃ¡stku?}
+{269}{}{Hmm, asi ten problÃ©m nechÃ¡m na tobÄ›. Sbohem.}
+{270}{hld52}{PrdÄ›t do hlÃ­ny. Vault City se s nÃ¡ma pÃ¡rat nebude. Jestli tu souÄÃ¡stku neseÅ¾eneme, tak prostÄ› pÅ™ijdou a vÅ¡echny nÃ¡s zabijou. No, jÃ¡ bych mÄ›l aspoÅˆ stromeÄek mÃ­sto pomnÃ­ku.}
+{271}{}{Jak Å¾e se ta souÄÃ¡stka jmenuje?}
+{272}{}{VypadÃ¡ to, Å¾e tu hydro-vÄ›c opravdu nutnÄ› potÅ™ebujete. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{273}{}{To znÃ­ jako problÃ©m. PotÅ™ebuju nÄ›kam zabÄ›hnout a uvidÃ­m, co se dÃ¡ dÄ›lat. Nashle.}
+{274}{hld53}{No, oni by nÃ¡m pomohli, jenom kdyby to bylo v jejich vlastnÃ­m zÃ¡jmu, vÃ­Å¡? A to nenÃ­ zrovna moc velkÃ¡ Å¡ance.}
+{275}{}{Hmm, asi mÃ¡Å¡ pravdu. Ale stejnÄ›, kdyby je nÄ›kdo pÅ™esvÄ›dÄil, aby vÃ¡m pomohli...}
+{276}{hld54}{Ghouly stÅ™Ã­lÃ­, jen co je uvidÃ­. To je pak tÄ›Å¾kÃ¡ konverzace.}
+{277}{}{A co kdyby jim to Å™ekl nÄ›kdo jinÃ½?}
+{278}{}{Ano, to je. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{279}{}{Hele, nikdy nevÃ­Å¡. UvidÃ­me se pozdÄ›ji.}
 {280}{}{Na sever}
-{281}{}{Na severozápad}
-{282}{}{Na západ}
-{283}{}{Na jihozápad}
+{281}{}{Na severozÃ¡pad}
+{282}{}{Na zÃ¡pad}
+{283}{}{Na jihozÃ¡pad}
 {284}{}{na jih}
-{285}{}{Na jihovıchod}
-{286}{}{Na vıchod odtud}
-{287}{}{Na severovıchod}
-{288}{}{Nerozumím.}
-{289}{}{Nevím.}
-{290}{}{To bolí.}
-{291}{}{To fakt bolí.}
-{292}{}{To musí bolet.}
-{293}{}{O tom nic nevím.}
+{285}{}{Na jihovÃ½chod}
+{286}{}{Na vÃ½chod odtud}
+{287}{}{Na severovÃ½chod}
+{288}{}{NerozumÃ­m.}
+{289}{}{NevÃ­m.}
+{290}{}{To bolÃ­.}
+{291}{}{To fakt bolÃ­.}
+{292}{}{To musÃ­ bolet.}
+{293}{}{O tom nic nevÃ­m.}
 {294}{}{Ano.}
 {295}{}{Ne.}
-{296}{}{Proè se mnou takhle mluvíš?}
-{297}{}{Jsi hrubı.}
-{298}{}{Díky.}
-{299}{}{To je dobrı.}
-{300}{}{To není dobrı.}
-{301}{}{Mám z toho dobrı pocit.}
-{302}{}{Mám z toho špatnı pocit.}
-{303}{}{Ti lidi jsou šílení.}
-{304}{}{Nic jsem se nenauèil.}
-{305}{}{Nìco jsem se nauèil}
-{306}{}{To jsou tu všichni šílení?}
-{307}{}{Musí bıt i jinı zpùsob.}
-{308}{}{Pojï za mnou.}
+{296}{}{ProÄ se mnou takhle mluvÃ­Å¡?}
+{297}{}{Jsi hrubÃ½.}
+{298}{}{DÃ­ky.}
+{299}{}{To je dobrÃ½.}
+{300}{}{To nenÃ­ dobrÃ½.}
+{301}{}{MÃ¡m z toho dobrÃ½ pocit.}
+{302}{}{MÃ¡m z toho Å¡patnÃ½ pocit.}
+{303}{}{Ti lidi jsou Å¡Ã­lenÃ­.}
+{304}{}{Nic jsem se nenauÄil.}
+{305}{}{NÄ›co jsem se nauÄil}
+{306}{}{To jsou tu vÅ¡ichni Å¡Ã­lenÃ­?}
+{307}{}{MusÃ­ bÃ½t i jinÃ½ zpÅ¯sob.}
+{308}{}{PojÄ za mnou.}
 {309}{}{Zkus tohle.}
-{310}{}{Pojï sem.}
-{311}{}{Mám strach.}
-{312}{}{Mám starosti.}
-{313}{}{Nìco jsem našel.}
-{314}{}{Mám štìstí.}
-{315}{}{Musíš to spravit.}
-{316}{}{Musíš to zapnout.}
-{317}{}{Musíš to odemknout.}
-{318}{}{Musíš to otevøít.}
-{319}{}{Moná bychom se mìli vrátit.}
-{320}{}{Nelu. Dohlednu na to, aby byl reaktor opraven. A u tak èi onak. Hmm, zajímalo by mì, jestli Festuse pøesvìdèím, aby to udìlal. No nic, u musím jít.}
-{321}{}{Nazdar Harolde. Mám tu souèástku, kterou potøebujete k opravení reaktoru. Zkusím ji teï nainstalovat. Vrátím se zpìt, a to bude hotové. Nashle.}
+{310}{}{PojÄ sem.}
+{311}{}{MÃ¡m strach.}
+{312}{}{MÃ¡m starosti.}
+{313}{}{NÄ›co jsem naÅ¡el.}
+{314}{}{MÃ¡m Å¡tÄ›stÃ­.}
+{315}{}{MusÃ­Å¡ to spravit.}
+{316}{}{MusÃ­Å¡ to zapnout.}
+{317}{}{MusÃ­Å¡ to odemknout.}
+{318}{}{MusÃ­Å¡ to otevÅ™Ã­t.}
+{319}{}{MoÅ¾nÃ¡ bychom se mÄ›li vrÃ¡tit.}
+{320}{}{NelÅ¾u. Dohlednu na to, aby byl reaktor opraven. AÅ¥ uÅ¾ tak Äi onak. Hmm, zajÃ­malo by mÄ›, jestli Festuse pÅ™esvÄ›dÄÃ­m, aby to udÄ›lal. No nic, uÅ¾ musÃ­m jÃ­t.}
+{321}{}{Nazdar Harolde. MÃ¡m tu souÄÃ¡stku, kterou potÅ™ebujete k opravenÃ­ reaktoru. ZkusÃ­m ji teÄ nainstalovat. VrÃ¡tÃ­m se zpÄ›t, aÅ¾ to bude hotovÃ©. Nashle.}

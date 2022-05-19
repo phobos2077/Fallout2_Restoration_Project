@@ -1,48 +1,48 @@
-{100}{}{Vidíš osobu, její kùe byla velice škaredì popálena. Vypadá to, e je tu na strái.}
-{101}{}{Vidíš ghoula, kterı je tu na strái.}
-{102}{}{Vidíš osobu, její kùe vypadá, e byla popálena radiací. Tak vysoká radiace by ho mìla zabít, ale zdá se, e je v poøádku. Vypadá to, e je tu na strái.}
-{110}{}{Vítej v atomové elektrárnì, ale varuju tì, jestli se tu bìhem tvojí pøítomnosti nìco stane, svedeme to na tebe, hezoune.}
-{111}{}{Zdravím, pøíteli. Pamatuj si, e jestli se tu nìco stane, svedeme to na všechny neghouly, jako jsi ty.}
+{100}{}{VidÃ­Å¡ osobu, jejÃ­Å¾ kÅ¯Å¾e byla velice Å¡karedÄ› popÃ¡lena. VypadÃ¡ to, Å¾e je tu na strÃ¡Å¾i.}
+{101}{}{VidÃ­Å¡ ghoula, kterÃ½ je tu na strÃ¡Å¾i.}
+{102}{}{VidÃ­Å¡ osobu, jejÃ­Å¾ kÅ¯Å¾e vypadÃ¡, Å¾e byla popÃ¡lena radiacÃ­. Tak vysokÃ¡ radiace by ho mÄ›la zabÃ­t, ale zdÃ¡ se, Å¾e je v poÅ™Ã¡dku. VypadÃ¡ to, Å¾e je tu na strÃ¡Å¾i.}
+{110}{}{VÃ­tej v atomovÃ© elektrÃ¡rnÄ›, ale varuju tÄ›, jestli se tu bÄ›hem tvojÃ­ pÅ™Ã­tomnosti nÄ›co stane, svedeme to na tebe, hezoune.}
+{111}{}{ZdravÃ­m, pÅ™Ã­teli. Pamatuj si, Å¾e jestli se tu nÄ›co stane, svedeme to na vÅ¡echny neghouly, jako jsi ty.}
 {112}{}{Cooo?}
-{113}{}{Dám si pozor. Poslyš, nìco hledám a zajímalo by mì, jestli bys mì mohl nasmìrovat.}
-{114}{}{To zní fér. Dám si pozor. Sbohem.}
-{120}{}{To u jsi zpátky? Snad nebloudíš?}
+{113}{}{DÃ¡m si pozor. PoslyÅ¡, nÄ›co hledÃ¡m a zajÃ­malo by mÄ›, jestli bys mÄ› mohl nasmÄ›rovat.}
+{114}{}{To znÃ­ fÃ©r. DÃ¡m si pozor. Sbohem.}
+{120}{}{To uÅ¾ jsi zpÃ¡tky? Snad nebloudÃ­Å¡?}
 {121}{}{Brugah.}
-{122}{}{Vlastnì potøebuju jít nìkam jinam.}
-{123}{}{Myslím, e jsem tu vidìl ít nìjaké lidi. Je to vùbec bezpeèné?}
-{124}{}{Eh, ne. To je dobrı. Jenom se tak dívám. Sbohem.}
-{130}{}{Aha. Dobøe, take co potøebuješ najít? Ovládací místnost reaktoru, zásobovací místnost, ovládací místnost robota nebo šachtu reaktoru?}
-{131}{}{Ovládací místnost reaktoru.}
-{132}{}{Zásobovací místnost.}
-{133}{}{Ovládací místnost robota.}
-{134}{}{Šachtu reaktoru.}
-{135}{}{Myslím, e vlastnì nepotøebuju ukázat cestu. Sbohem.}
-{140}{}{Myslím, e jednu má Jeremy a taky stráe u bezpeènostních dveøí, stejnì tak jako nìkteøí lidi, co ijou tady v reaktoru.}
-{141}{}{Zajímavé. Chci se ještì na nìco zeptat.}
-{142}{}{Díky. To bude všechno. Sbohem.}
-{150}{}{Šachta reaktoru je hned za ovládací místností reaktoru a pokojem Festuse. Ale budeš potøebovat Èervenou vstupní kartu.}
-{151}{}{Kde je ovládací místnost reaktoru?}
-{152}{}{Zajímavé. Chci se ještì na nìco zeptat.}
-{153}{}{Vstupní kartu? Kde ji získám?}
-{154}{}{Díky. To bude všechno. Sbohem.}
-{160}{}{Zásobovací místnost je za dveømi nalevo, kdy vejdeš do téhle budovy. A jestli potøebuješ nìjaké vìci, promluv si s Jeremym.}
-{161}{}{Díky. Ve skuteènosti potøebuju vìdìt, kde je nìco jiného.}
-{162}{}{Díky. To bude všechno. Sbohem.}
-{170}{}{No, nám to prosakování a úniky radiace vyhovuje. Záøící to opravdu milujou. Nikdo z nás by se bez toho necítil moc dobøe.}
-{171}{}{Zajímavé. Chci se ještì na nìco zeptat.}
-{172}{}{Prosakování a úniky radiace?!?!}
-{173}{}{Hmm, dobøe. To bude všechno. Sbohem.}
-{180}{}{Ovládací místnost reaktoru je za dveømi napravo, kdy vejdeš do téhle budovy. Pak tìmi dveømi na konci chodby pøes luté bezpeènostní dveøe a pak doprava. Ale na ty bezpeènostní dveøe budeš potøebovat vstupní kartu.}
-{181}{}{Zajímavé. Chci se ještì na nìco zeptat.}
-{182}{}{Vstupní kartu? Kde ji získám?}
-{183}{}{Díky. To bude všechno. Sbohem.}
-{190}{}{Vùbec nechápu, proè tam chceš jít. Ten blbı údrbáøskı robot je u nìkolik let nefunkèní. Ale je to hned za ovládací místností reaktoru.}
-{191}{}{Kde je ovládací místnost reaktoru?}
-{192}{}{Zajímavé. Chci se ještì na nìco zeptat.}
-{193}{}{Vstupní kartu? Kde ji získám?}
-{194}{}{Díky. To bude všechno. Sbohem.}
-{200}{}{No, to tì nemusí trápit, pokud tu nechceš zùstat dıl ne nìkolik tıdnù. Vìtšina radiace, která z reaktoru unikne, se dostane do chladícího okruhu, kterı pumpujeme zpátky do podzemí. A ta troška, co nám unikne nad zem, zpùsobuje to, e se cítíme tak dobøe. Z nìjakého dùvodu.}
-{201}{}{Aha, no, to nezní tak špatnì. Chci se ještì na nìco zeptat.}
-{202}{}{Hmm, myslím, e u radìji pùjdu. Sbohem.}
-{300}{}{Jasnì. Co chceš ještì vìdìt?}
-{301}{}{Potøebuju navést nìkam jinam.}
+{122}{}{VlastnÄ› potÅ™ebuju jÃ­t nÄ›kam jinam.}
+{123}{}{MyslÃ­m, Å¾e jsem tu vidÄ›l Å¾Ã­t nÄ›jakÃ© lidi. Je to vÅ¯bec bezpeÄnÃ©?}
+{124}{}{Eh, ne. To je dobrÃ½. Jenom se tak dÃ­vÃ¡m. Sbohem.}
+{130}{}{Aha. DobÅ™e, takÅ¾e co potÅ™ebujeÅ¡ najÃ­t? OvlÃ¡dacÃ­ mÃ­stnost reaktoru, zÃ¡sobovacÃ­ mÃ­stnost, ovlÃ¡dacÃ­ mÃ­stnost robota nebo Å¡achtu reaktoru?}
+{131}{}{OvlÃ¡dacÃ­ mÃ­stnost reaktoru.}
+{132}{}{ZÃ¡sobovacÃ­ mÃ­stnost.}
+{133}{}{OvlÃ¡dacÃ­ mÃ­stnost robota.}
+{134}{}{Å achtu reaktoru.}
+{135}{}{MyslÃ­m, Å¾e vlastnÄ› nepotÅ™ebuju ukÃ¡zat cestu. Sbohem.}
+{140}{}{MyslÃ­m, Å¾e jednu mÃ¡ Jeremy a taky strÃ¡Å¾e u bezpeÄnostnÃ­ch dveÅ™Ã­, stejnÄ› tak jako nÄ›kteÅ™Ã­ lidi, co Å¾ijou tady v reaktoru.}
+{141}{}{ZajÃ­mavÃ©. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{142}{}{DÃ­ky. To bude vÅ¡echno. Sbohem.}
+{150}{}{Å achta reaktoru je hned za ovlÃ¡dacÃ­ mÃ­stnostÃ­ reaktoru a pokojem Festuse. Ale budeÅ¡ potÅ™ebovat ÄŒervenou vstupnÃ­ kartu.}
+{151}{}{Kde je ovlÃ¡dacÃ­ mÃ­stnost reaktoru?}
+{152}{}{ZajÃ­mavÃ©. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{153}{}{VstupnÃ­ kartu? Kde ji zÃ­skÃ¡m?}
+{154}{}{DÃ­ky. To bude vÅ¡echno. Sbohem.}
+{160}{}{ZÃ¡sobovacÃ­ mÃ­stnost je za dveÅ™mi nalevo, kdyÅ¾ vejdeÅ¡ do tÃ©hle budovy. A jestli potÅ™ebujeÅ¡ nÄ›jakÃ© vÄ›ci, promluv si s Jeremym.}
+{161}{}{DÃ­ky. Ve skuteÄnosti potÅ™ebuju vÄ›dÄ›t, kde je nÄ›co jinÃ©ho.}
+{162}{}{DÃ­ky. To bude vÅ¡echno. Sbohem.}
+{170}{}{No, nÃ¡m to prosakovÃ¡nÃ­ a Ãºniky radiace vyhovuje. ZÃ¡Å™Ã­cÃ­ to opravdu milujou. Nikdo z nÃ¡s by se bez toho necÃ­til moc dobÅ™e.}
+{171}{}{ZajÃ­mavÃ©. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{172}{}{ProsakovÃ¡nÃ­ a Ãºniky radiace?!?!}
+{173}{}{Hmm, dobÅ™e. To bude vÅ¡echno. Sbohem.}
+{180}{}{OvlÃ¡dacÃ­ mÃ­stnost reaktoru je za dveÅ™mi napravo, kdyÅ¾ vejdeÅ¡ do tÃ©hle budovy. Pak tÄ›mi dveÅ™mi na konci chodby pÅ™es Å¾lutÃ© bezpeÄnostnÃ­ dveÅ™e a pak doprava. Ale na ty bezpeÄnostnÃ­ dveÅ™e budeÅ¡ potÅ™ebovat vstupnÃ­ kartu.}
+{181}{}{ZajÃ­mavÃ©. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{182}{}{VstupnÃ­ kartu? Kde ji zÃ­skÃ¡m?}
+{183}{}{DÃ­ky. To bude vÅ¡echno. Sbohem.}
+{190}{}{VÅ¯bec nechÃ¡pu, proÄ tam chceÅ¡ jÃ­t. Ten blbÃ½ ÃºdrÅ¾bÃ¡Å™skÃ½ robot je uÅ¾ nÄ›kolik let nefunkÄnÃ­. Ale je to hned za ovlÃ¡dacÃ­ mÃ­stnostÃ­ reaktoru.}
+{191}{}{Kde je ovlÃ¡dacÃ­ mÃ­stnost reaktoru?}
+{192}{}{ZajÃ­mavÃ©. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{193}{}{VstupnÃ­ kartu? Kde ji zÃ­skÃ¡m?}
+{194}{}{DÃ­ky. To bude vÅ¡echno. Sbohem.}
+{200}{}{No, to tÄ› nemusÃ­ trÃ¡pit, pokud tu nechceÅ¡ zÅ¯stat dÃ½l neÅ¾ nÄ›kolik tÃ½dnÅ¯. VÄ›tÅ¡ina radiace, kterÃ¡ z reaktoru unikne, se dostane do chladÃ­cÃ­ho okruhu, kterÃ½ pumpujeme zpÃ¡tky do podzemÃ­. A ta troÅ¡ka, co nÃ¡m unikne nad zem, zpÅ¯sobuje to, Å¾e se cÃ­tÃ­me tak dobÅ™e. Z nÄ›jakÃ©ho dÅ¯vodu.}
+{201}{}{Aha, no, to neznÃ­ tak Å¡patnÄ›. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{202}{}{Hmm, myslÃ­m, Å¾e uÅ¾ radÄ›ji pÅ¯jdu. Sbohem.}
+{300}{}{JasnÄ›. Co chceÅ¡ jeÅ¡tÄ› vÄ›dÄ›t?}
+{301}{}{PotÅ™ebuju navÃ©st nÄ›kam jinam.}

@@ -1,16 +1,16 @@
 {100}{}{You see... Sheb.}
-{150}{}{Vidíš vychrtlého mue obleèeného v jasnì modrém obleèení. Jako by jeho obleèení nebylo dost køiklavé, tak ještì øve z plnıch plic.}
-{200}{}{Prdılky, prdelky, prdelinky!}
-{201}{}{Pojïte dál, milovníci prdelek!}
-{202}{}{Dneska máme v Koèièí Pacce polovièní ceny!}
-{203}{}{Kadej si vybere z našich prvotøídních prdelek! Máme jich plno!}
-{204}{}{Máme bílı prdelky, èernı prdelky, jianskı prdelky, severskı prdelky..}
-{205}{}{Máme havı prdelky, chladnı prdelky, èerstvı prdelky, máme...::èmuch::...*voòavı* prdelky...}
-{206}{}{Máme divošskı prdelky, mutantí prdelky, radškorpioní prdelky, robotí prdelky.}
-{207}{}{Máme dokonce i brahmíní prdelky, ghoulí prdelky nebo páraèí prdelky.}
-{208}{}{No ták, nechcete prdelku? Pojïte dál, milovníci prdelek!}
-{209}{}{Pokud ji nemáme, tak ji ani nechcete! Pojïte dál, milovníci prdelek!}
-{210}{}{Pozor, milovníci prdelek! Vyuijte mimoøádnı slevy!}
-{211}{}{Kupte si jednu prdelku za obvyklou cenu a dostanete další podobnı kvality za pouhej jeden dolar!}
-{212}{}{Tìko seenete prdelku za jeden dolar!}
-{213}{}{Jestli najdete levnìjší prdelku jinde ne u nás... tak vám nevìøím!}
+{150}{}{VidÃ­Å¡ vychrtlÃ©ho muÅ¾e obleÄenÃ©ho v jasnÄ› modrÃ©m obleÄenÃ­. Jako by jeho obleÄenÃ­ nebylo dost kÅ™iklavÃ©, tak jeÅ¡tÄ› Å™ve z plnÃ½ch plic.}
+{200}{}{PrdÃ½lky, prdelky, prdelinky!}
+{201}{}{PojÄte dÃ¡l, milovnÃ­ci prdelek!}
+{202}{}{Dneska mÃ¡me v KoÄiÄÃ­ Pacce poloviÄnÃ­ ceny!}
+{203}{}{KaÅ¾dej si vybere z naÅ¡ich prvotÅ™Ã­dnÃ­ch prdelek! MÃ¡me jich plno!}
+{204}{}{MÃ¡me bÃ­lÃ½ prdelky, ÄernÃ½ prdelky, jiÅ¾anskÃ½ prdelky, severskÃ½ prdelky..}
+{205}{}{MÃ¡me Å¾havÃ½ prdelky, chladnÃ½ prdelky, ÄerstvÃ½ prdelky, mÃ¡me...::Ämuch::...*voÅˆavÃ½* prdelky...}
+{206}{}{MÃ¡me divoÅ¡skÃ½ prdelky, mutantÃ­ prdelky, radÅ¡korpionÃ­ prdelky, robotÃ­ prdelky.}
+{207}{}{MÃ¡me dokonce i brahmÃ­nÃ­ prdelky, ghoulÃ­ prdelky nebo pÃ¡raÄÃ­ prdelky.}
+{208}{}{No tÃ¡k, nechcete prdelku? PojÄte dÃ¡l, milovnÃ­ci prdelek!}
+{209}{}{Pokud ji nemÃ¡me, tak ji ani nechcete! PojÄte dÃ¡l, milovnÃ­ci prdelek!}
+{210}{}{Pozor, milovnÃ­ci prdelek! VyuÅ¾ijte mimoÅ™Ã¡dnÃ½ slevy!}
+{211}{}{Kupte si jednu prdelku za obvyklou cenu a dostanete dalÅ¡Ã­ podobnÃ½ kvality za pouhej jeden dolar!}
+{212}{}{TÄ›Å¾ko seÅ¾enete prdelku za jeden dolar!}
+{213}{}{Jestli najdete levnÄ›jÅ¡Ã­ prdelku jinde neÅ¾ u nÃ¡s... tak vÃ¡m nevÄ›Å™Ã­m!}

@@ -1,113 +1,113 @@
-{100}{}{Vidíš Opata, duchovního vùdce zdejšího Opatství.}
-{101}{}{Nìco ti øíká, e je tento mnich pomìrnì dùleitı.}
-{200}{}{Vítej, cestovateli.}
-{201}{}{Mír s tebou.}
-{202}{}{Jsme stráci vìdìní.}
-{203}{}{Je mi líto, ale vìdomosti našich knih pro vás nemají ádné vyuití.}
-{300}{}{Vítejte v Opatství, cestovateli. Jak vám mohu bıt nápomocen?}
-{301}{}{Co mi mùeš øíct o vašem øádu?}
-{302}{}{Slyšel jste nìkdy o zaøízení zvaném GECK?}
-{303}{}{Nevíš, kde se nachází Vault 13?}
+{100}{}{VidÃ­Å¡ Opata, duchovnÃ­ho vÅ¯dce zdejÅ¡Ã­ho OpatstvÃ­.}
+{101}{}{NÄ›co ti Å™Ã­kÃ¡, Å¾e je tento mnich pomÄ›rnÄ› dÅ¯leÅ¾itÃ½.}
+{200}{}{VÃ­tej, cestovateli.}
+{201}{}{MÃ­r s tebou.}
+{202}{}{Jsme strÃ¡Å¾ci vÄ›dÄ›nÃ­.}
+{203}{}{Je mi lÃ­to, ale vÄ›domosti naÅ¡ich knih pro vÃ¡s nemajÃ­ Å¾Ã¡dnÃ© vyuÅ¾itÃ­.}
+{300}{}{VÃ­tejte v OpatstvÃ­, cestovateli. Jak vÃ¡m mohu bÃ½t nÃ¡pomocen?}
+{301}{}{Co mi mÅ¯Å¾eÅ¡ Å™Ã­ct o vaÅ¡em Å™Ã¡du?}
+{302}{}{SlyÅ¡el jste nÄ›kdy o zaÅ™Ã­zenÃ­ zvanÃ©m GECK?}
+{303}{}{NevÃ­Å¡, kde se nachÃ¡zÃ­ Vault 13?}
 {304}{}{Nashle.}
-{400}{}{Co chceš vìdìt?}
-{401}{}{Dobøe. Chci vìdìt nìco jiného.}
-{402}{}{Hmm... to *zní* dost povìdomì. Ano, vzpomínám si, e bratr Thomas se o nìèem takovém nedávno zmiòoval. Bohuel si nevzpomínám, co pøesnì øíkal.}
-{403}{}{To nevadí. Nasmìrujte mì k bratru Thomasovi a já se ho pùjdu zeptat.}
-{404}{}{O tom nic nevím.}
-{405}{}{Dobøe, díky.}
-{406}{}{Obávám se, e to nemohu udìlat. Víte, mám ten neblahı dojem, e Bratr Thomas u není mezi ivımi. Naštìstí pro vás byl jedním z nejspolehlivìjších pøepisovatelù. Jsem si jist, e jakékoliv èlánky tıkající se informací, které hledáte, pøepsal do našich poèítaèù.}
-{407}{}{Tak moment, vy "máte neblahı dojem", e je bratr Thomas mrtvı? Pocházím z míst, kde je smrt pomìrnì jednoznaèná záleitost. Tak je mrtvı nebo ne?}
-{408}{}{Bratra Thomase pohøešujeme u nìkolik dní od té doby, co odešel do jeskyní pod Opatstvím. (Dlouze si povzdechne.) Víte, nìkteøí obyvatelé Opatství tvrdí, e tam dole spatøili obrovskou bestii, ale bratr Thomas se k tomu stavìl dost skepticky. Rozhodl se tedy, e tyto fámy rozptılí. Jak to tak ale vypadá, jeho zmizení je spíše potvrdilo.}
-{409}{}{Hmm. Moná se tam dolù pùjdu podívat. Pøeci jen *JSEM* Vyvolenı...}
-{410}{}{Jsem dobrodrunı typ. Mùu se tam jít podívat.}
-{411}{}{To opravdu udìláte? Kdy u tam budete, mùete se ještì poohlédnout po jisté knize? Víte, naposledy ji mìl u sebe právì bratr Thomas. Je pro nás hodnì dùleitá, jeliko nám byla pøedána našimi zakladateli. Budu vám neskonale vdìènı, pokud se vám ji podaøí získat zpìt. A tak, e vám umoním pøístup do našich poèítaèù, take budete moci hledat cokoliv, co potøebujete.}
-{412}{}{Dohodnuto. Brzy se vrátím.}
-{413}{}{Moná, dejte mi chvíli na rozmyšlenou...}
-{414}{}{Dìkuji vám. Informujte mne prosím, pokud tu knihu získáte.}
-{415}{}{Dobøe, nashle.}
-{416}{}{Zdravím, pøíteli.}
-{417}{}{Podaøilo se mi zabít tu bestii a mám i vaši knihu!}
-{418}{}{Vıbornì! Dejte mi ji!}
+{400}{}{Co chceÅ¡ vÄ›dÄ›t?}
+{401}{}{DobÅ™e. Chci vÄ›dÄ›t nÄ›co jinÃ©ho.}
+{402}{}{Hmm... to *znÃ­* dost povÄ›domÄ›. Ano, vzpomÃ­nÃ¡m si, Å¾e bratr Thomas se o nÄ›Äem takovÃ©m nedÃ¡vno zmiÅˆoval. BohuÅ¾el si nevzpomÃ­nÃ¡m, co pÅ™esnÄ› Å™Ã­kal.}
+{403}{}{To nevadÃ­. NasmÄ›rujte mÄ› k bratru Thomasovi a jÃ¡ se ho pÅ¯jdu zeptat.}
+{404}{}{O tom nic nevÃ­m.}
+{405}{}{DobÅ™e, dÃ­ky.}
+{406}{}{ObÃ¡vÃ¡m se, Å¾e to nemohu udÄ›lat. VÃ­te, mÃ¡m ten neblahÃ½ dojem, Å¾e Bratr Thomas uÅ¾ nenÃ­ mezi Å¾ivÃ½mi. NaÅ¡tÄ›stÃ­ pro vÃ¡s byl jednÃ­m z nejspolehlivÄ›jÅ¡Ã­ch pÅ™episovatelÅ¯. Jsem si jist, Å¾e jakÃ©koliv ÄlÃ¡nky tÃ½kajÃ­cÃ­ se informacÃ­, kterÃ© hledÃ¡te, pÅ™epsal do naÅ¡ich poÄÃ­taÄÅ¯.}
+{407}{}{Tak moment, vy "mÃ¡te neblahÃ½ dojem", Å¾e je bratr Thomas mrtvÃ½? PochÃ¡zÃ­m z mÃ­st, kde je smrt pomÄ›rnÄ› jednoznaÄnÃ¡ zÃ¡leÅ¾itost. Tak je mrtvÃ½ nebo ne?}
+{408}{}{Bratra Thomase pohÅ™eÅ¡ujeme uÅ¾ nÄ›kolik dnÃ­ od tÃ© doby, co odeÅ¡el do jeskynÃ­ pod OpatstvÃ­m. (Dlouze si povzdechne.) VÃ­te, nÄ›kteÅ™Ã­ obyvatelÃ© OpatstvÃ­ tvrdÃ­, Å¾e tam dole spatÅ™ili obrovskou bestii, ale bratr Thomas se k tomu stavÄ›l dost skepticky. Rozhodl se tedy, Å¾e tyto fÃ¡my rozptÃ½lÃ­. Jak to tak ale vypadÃ¡, jeho zmizenÃ­ je spÃ­Å¡e potvrdilo.}
+{409}{}{Hmm. MoÅ¾nÃ¡ se tam dolÅ¯ pÅ¯jdu podÃ­vat. PÅ™eci jen *JSEM* VyvolenÃ½...}
+{410}{}{Jsem dobrodruÅ¾nÃ½ typ. MÅ¯Å¾u se tam jÃ­t podÃ­vat.}
+{411}{}{To opravdu udÄ›lÃ¡te? KdyÅ¾ uÅ¾ tam budete, mÅ¯Å¾ete se jeÅ¡tÄ› poohlÃ©dnout po jistÃ© knize? VÃ­te, naposledy ji mÄ›l u sebe prÃ¡vÄ› bratr Thomas. Je pro nÃ¡s hodnÄ› dÅ¯leÅ¾itÃ¡, jelikoÅ¾ nÃ¡m byla pÅ™edÃ¡na naÅ¡imi zakladateli. Budu vÃ¡m neskonale vdÄ›ÄnÃ½, pokud se vÃ¡m ji podaÅ™Ã­ zÃ­skat zpÄ›t. AÅ¾ tak, Å¾e vÃ¡m umoÅ¾nÃ­m pÅ™Ã­stup do naÅ¡ich poÄÃ­taÄÅ¯, takÅ¾e budete moci hledat cokoliv, co potÅ™ebujete.}
+{412}{}{Dohodnuto. Brzy se vrÃ¡tÃ­m.}
+{413}{}{MoÅ¾nÃ¡, dejte mi chvÃ­li na rozmyÅ¡lenou...}
+{414}{}{DÄ›kuji vÃ¡m. Informujte mne prosÃ­m, pokud tu knihu zÃ­skÃ¡te.}
+{415}{}{DobÅ™e, nashle.}
+{416}{}{ZdravÃ­m, pÅ™Ã­teli.}
+{417}{}{PodaÅ™ilo se mi zabÃ­t tu bestii a mÃ¡m i vaÅ¡i knihu!}
+{418}{}{VÃ½bornÄ›! Dejte mi ji!}
 {419}{}{Tady je.}
-{420}{}{Ne tak rychle. Jakou má pro vás cenu?}
-{421}{}{(Vezme si od tebe knihu a pohladí její pøebal, jako by ji chtìl utišit.) Prokázal jste nám velikou slubu. Nyní máte volnı pøístup k našim poèítaèùm v knihovnì. Øeknìte bratru Paulovi, e vám dávám povolení k pøístupu do našich souborù.}
-{422}{}{Díky.}
-{423}{}{Vy za to chcete peníze? Dobrá, tady máte $250. Jdìte za bratrem Paulem a on vám dá pøístup k našim poèítaèùm.}
-{424}{}{Díky za peníze. Nashle.}
-{425}{}{Zkuste se podívat do poèítaèe na druhém poschodí, kdy tam máte teï volnı pøístup.}
-{426}{}{Dobøe, nashle.}
-{430}{}{Jakı je úèel vašeho øádu?}
-{431}{}{Jaká je historie Opatství?}
-{432}{}{Hmm, momentálnì nemám ádné další otázky.}
-{433}{}{Naším svatım posláním je èíst, pøepisovat a peèovat o naše posvátné knihy vìdìní a další pozùstatky ze ztracenıch dob. Doufáme, e díky tìmto znalostem budeme schopni vytvoøit Memorabilia, která jednoho dne pomohou lidstvu povstat z doby temna. Kadá informace, se kterou se setkáme, je zaznamenána, aby nebyla ztracena jako tomu bylo pøi veliké Ohnivé záplavì.}
-{434}{}{Po Velké válce zavedla ruka osudu naše pøedky k tomuto starému Opatství v horách. Díky své odlehlé poloze pøeèkalo Opatství Ohnivou záplavu témìø bez úhony. Kdy naši pøedkové budovu prozkoumali, objevili rozsáhlou knihovnu. Nebyly v ní jen náboenské texty, kdepak, tato knihovna obsahovala prùøez celou psanou tvorbou od klasické literatury a po vìdecké encyklopedie.}
+{420}{}{Ne tak rychle. Jakou mÃ¡ pro vÃ¡s cenu?}
+{421}{}{(Vezme si od tebe knihu a pohladÃ­ jejÃ­ pÅ™ebal, jako by ji chtÄ›l utiÅ¡it.) ProkÃ¡zal jste nÃ¡m velikou sluÅ¾bu. NynÃ­ mÃ¡te volnÃ½ pÅ™Ã­stup k naÅ¡im poÄÃ­taÄÅ¯m v knihovnÄ›. Å˜eknÄ›te bratru Paulovi, Å¾e vÃ¡m dÃ¡vÃ¡m povolenÃ­ k pÅ™Ã­stupu do naÅ¡ich souborÅ¯.}
+{422}{}{DÃ­ky.}
+{423}{}{Vy za to chcete penÃ­ze? DobrÃ¡, tady mÃ¡te $250. JdÄ›te za bratrem Paulem a on vÃ¡m dÃ¡ pÅ™Ã­stup k naÅ¡im poÄÃ­taÄÅ¯m.}
+{424}{}{DÃ­ky za penÃ­ze. Nashle.}
+{425}{}{Zkuste se podÃ­vat do poÄÃ­taÄe na druhÃ©m poschodÃ­, kdyÅ¾ tam mÃ¡te teÄ volnÃ½ pÅ™Ã­stup.}
+{426}{}{DobÅ™e, nashle.}
+{430}{}{JakÃ½ je ÃºÄel vaÅ¡eho Å™Ã¡du?}
+{431}{}{JakÃ¡ je historie OpatstvÃ­?}
+{432}{}{Hmm, momentÃ¡lnÄ› nemÃ¡m Å¾Ã¡dnÃ© dalÅ¡Ã­ otÃ¡zky.}
+{433}{}{NaÅ¡Ã­m svatÃ½m poslÃ¡nÃ­m je ÄÃ­st, pÅ™episovat a peÄovat o naÅ¡e posvÃ¡tnÃ© knihy vÄ›dÄ›nÃ­ a dalÅ¡Ã­ pozÅ¯statky ze ztracenÃ½ch dob. DoufÃ¡me, Å¾e dÃ­ky tÄ›mto znalostem budeme schopni vytvoÅ™it Memorabilia, kterÃ¡ jednoho dne pomohou lidstvu povstat z doby temna. KaÅ¾dÃ¡ informace, se kterou se setkÃ¡me, je zaznamenÃ¡na, aby nebyla ztracena jako tomu bylo pÅ™i velikÃ© OhnivÃ© zÃ¡plavÄ›.}
+{434}{}{Po VelkÃ© vÃ¡lce zavedla ruka osudu naÅ¡e pÅ™edky k tomuto starÃ©mu OpatstvÃ­ v horÃ¡ch. DÃ­ky svÃ© odlehlÃ© poloze pÅ™eÄkalo OpatstvÃ­ Ohnivou zÃ¡plavu tÃ©mÄ›Å™ bez Ãºhony. KdyÅ¾ naÅ¡i pÅ™edkovÃ© budovu prozkoumali, objevili rozsÃ¡hlou knihovnu. Nebyly v nÃ­ jen nÃ¡boÅ¾enskÃ© texty, kdepak, tato knihovna obsahovala prÅ¯Å™ez celou psanou tvorbou od klasickÃ© literatury aÅ¾ po vÄ›deckÃ© encyklopedie.}
 {435}{}{Co se stalo potom?}
-{436}{}{To u mi staèilo.}
-{437}{}{Brzy si uvìdomili, jaká pokladnice moudrosti leí v tìchto knihách, obzvláš ve vìdeckıch svazcích. Byly zde kroniky padlé civilizace, celého ztraceného vìku. Nìkteøí si mysleli, e by bylo nejlepší tyto znalosti znièit ze strachu, aby opìt nepøivedly lidstvo tváøí tváø apokalypse, ale nakonec bylo rozhodnuto, e se radìji oddají záchranì tìchto knih a vydají je a, a pokud, bude svìt pøipraven.}
-{438}{}{[VÍCE]}
-{439}{}{A tak s pouitím malé tiskárny zaèali tyto knihy kopírovat a také je pøepisovat do poèítaèù Opatství, aby byly zachovány v digitální podobì, pokud by byla papírová pøedloha nìkdy znièena. V prùbìhu mnoha let nacházeli Opatství další lidé a nìkteøí z nich se rozhodli zùstat, aby mohli ít v pokojném klidu našeho domova v horách.}
-{440}{}{Díky za pøíbìh.}
-{441}{}{Odkud pøišli vaši pøedkové?}
-{442}{}{Nikdy neøekli odkud pùvodnì pocházeli. Domníváme se, e pøišli odnìkud z vıchodu.}
-{443}{}{Dìkuju vám za pøíbìh.}
-{444}{}{Nepotøebujete tady v klášteøe s nìèím pomoct?}
-{445}{}{Podaøilo se mi zjistit, co je s vaší vodní pumpou.}
-{446}{}{Víte nìco o pùvodních zakladatelích?}
-{447}{}{Neznám všechna jména našich zakladatelù, ale ten nejdùleitìjší, o kterém jsem si vìdom, je Miller. Pøed Velkou Válkou byl elektrotechnik pracující pro vládu Spojenıch státù. Krátce na to konvertoval ke katolictví a uèinil pøísahu, e stráví zbytek svého ivota záchranou znalostí z minulosti. Nejvìtší obavy mìl z toho, e by znalosti mohly navdy zmizet, tudí je bylo tøeba zachovat, aby z nich mohly tìit budoucí generace.}
-{448}{}{Musíte bıt docela vzdìlanı, kdy jste toho tolik pøeèetl.}
-{449}{}{Pøeèetl jsem toho v ivotì opravdu hodnì. Pøesto vás svımi omezenımi znalostmi nejspíše zklamu. Víte, my knihy zaznamenáváme a uchováváme, ale máme zakázáno konat dle jejich moudrostí, tudí je naše chápání tìchto textù velmi omezené.}
-{450}{}{Tak poèkat, chcete mi øíct, e jen slepì pøepisujete tyto knihy, ani byste se jim snaili porozumìt?}
-{451}{}{Jak jsem øekl, naší prací je tyto znalosti uchovávat, ne jim porozumìt. Pøedtím, ne budou moci tyto znalosti bıt navráceny zpìt lidskému druhu, musí lidstvo nejdøíve dokázat, e se povzneslo nad své sklony k masové genocidì. To je jedinı zpùsob, jak zajistit, aby se historie neopakovala.}
-{452}{}{No, mám pro vás novinku: ten den nikdy nenastane. A zatímco vy si tady v tom svém malém ráji hromadíte vìdomosti, lidé v pustinách kadı den bojují o pøeití. Vlastnì celı mùj kmen je na pokraji záhuby. Znalosti uloené v tìchto knihách by mohly pomoct vyléèit nemoci, zlepšit úrodu a vùbec vıraznì zvıšit šance na pøeití lidstva.}
-{453}{}{Hm, asi máte pravdu, ale já si myslím, e zde uloené informace by mohly pomoct mnoha lidem. I pøesto, e si nemyslíte, e je svìt na tyto znalosti pøipraven, nevidím dùvod, proè se alespoò *vy* nepokusíte z nich nìco nauèit. Jakı má jinak smysl je uchovávat?}
-{454}{}{Chápu vaše znepokojení nad našimi zpùsoby, ale musíte pochopit, e tímto zpùsobem ijeme odjakiva. Chtít teï zmìnit vìci po tolika letech... by bylo rouhání proti naší víøe. Ne, myslím, e musíme pokraèovat podle pravidel stanovenıch našimi pøedky.}
-{455}{}{Chápu vaše znepokojení nad našimi zpùsoby, ale musíte pochopit, e tímto zpùsobem ijeme odjakiva. Chtít teï zmìnit vìci po tolika letech... by bylo rouhání proti naší víøe. I pøesto vaše slova ještì zváím. Cítím ve vás velikou moudrost, cizinèe. Jen škoda, e jsem potkal jen málo vám podobnıch.}
-{456}{}{Díky. Chci se ještì na nìco zeptat.}
-{457}{}{Tak dobøe. Chci se ještì na nìco zeptat.}
-{500}{}{Pøestaò s tím!}
-{501}{}{Získáváš 200 zkušeností za pøinesení knihy.}
-{600}{}{Podaøilo se mi opravit vaši vodní pumpu.}
-{601}{}{To je vskutku dobrá zpráva. S tou pumpou byly poslední dobou jen samé potíe. Ti obchodníci øíkali, e se o to postarají, ale zdá se, e pøíliš daleko nepokroèili. Jsme rádi, e vás tu máme. Ještì jednou dìkuji.}
-{602}{}{Víte, oèekávám za to nìjakou finanèní odmìnu. Tak ji navalte!}
-{603}{}{ádnı problém. Chci se ještì na nìco zeptat.}
-{604}{}{Bylo pro mì radostí vám pomoct. Mìjte se.}
-{605}{}{(Zamraèí se.) Chápu. Dobøe, tady. Vezmìte si tyto peníze. Teï odejdìte a pøestaòte mì otravovat.}
-{606}{}{Dìkuju vám, *otèe*.}
-{700}{}{Noo... nìkam se mi asi ztratila.}
-{701}{}{Coe!? (Hluboce si povzdechne.) Je politováníhodné, e se vám nepodaøilo pøinést zpìt tu knihu, avšak tvrdíte, e se vám podaøilo zabít tu bestii? Hm, v tom pøípadì mohu poslat dolù naše lidi, aby pokraèovali v pátrání. Nicménì i tak vám za vaši pomoc udìlím pøístup do našich poèítaèù. Zajdìte za bratrem Paulem a on vám dá pøístupovı klíè.}
-{702}{}{Díky.}
-{800}{}{Vlastnì ano. Naše hlavní vodní pumpa má ji nìjakou dobu potíe a navíc se teï zdá, e ji nadobro doslouila. Pokud víte nìco o strojích, myslíte, e se na ni mùete podívat a zjistit, jestli se s ní dá ještì nìco udìlat? Pracuje na tom ji nìkolik obchodníkù, ale obávám se, e pøíliš daleko nepokroèili.}
-{801}{}{Rád pomùu. Dám vám vìdìt, jak to s ní vypadá.}
-{802}{}{Jistì, rád pomùu... samozøejmì za malou odmìnu.}
-{803}{}{Kdy o tom tak pøemıšlím, chci se radìji zeptat na nìco jiného.}
-{804}{}{Coe? Tak dobrá. Pokud jste tento typ èlovìka, dostanete za své sluby zaplaceno. Tady máte pro zaèátek 25 dolarù. Informujte mne prosím, jestli se s tím dá nìco udìlat. (Povzdechne si, kdy ti podá peníze.)}
-{805}{}{Hele, proè vzdycháte? Snad si nemyslíte, e je všechno zadarmo? A teï mì nechte jít pracovat.}
-{806}{}{Opravdu? Tak povídejte prosím.}
-{807}{}{Odešel motor a usmail všechny spoje. Musím jít do Vault City pro novou souèástku.}
-{808}{}{Och, dìkuji vám. Jste opravdu skvìlı pomocník. Informujte mne prosím, a tu novou souèástku nainstalujete.}
-{809}{}{Spolehnìte se. Brzy se vrátím.}
-{900}{}{Podaøilo se ti vysvìtlit Opatovi, e informace, které tu uchovávají, mùou pøivést lidstvo k úplné záhubì, ale také by mohly vést k jeho záchranì.}
-{901}{}{Dozvídáš se o pùvodních zakladatelích Opatství.}
-{1000}{}{Já zabila hróóózná obluda tam dole v díra.}
-{1010}{}{Opravdu? To je skvìlé. To bylo od vás velmi stateèné. Jste velkı kluk.}
-{1011}{}{Opravdu? To je skvìlé. To bylo od vás velmi stateèné. Jste velká holka.}
-{1012}{}{[Usmát se] Já vìdìt.}
-{1020}{}{Nepodaøilo se vám tam náhodou nalézt jednu knihu? Mìl ji mùj pøítel, ale je u nìjakou dobu nezvìstnı.}
-{1021}{}{Já najít kniha. Tady, bıt tìká a adná obrázek uvnitø.}
-{1022}{}{Já nenajít kniha. Pardóón. Jít se podívat teï.}
-{1030}{}{Já najít kniha.}
-{1031}{}{To je skvìlé. Díky. Jste opravdu vıjimeènı chlapík.}
-{1032}{}{To je skvìlé. Díky. Jste opravdu vıjimeèné dìvèe.}
+{436}{}{To uÅ¾ mi staÄilo.}
+{437}{}{Brzy si uvÄ›domili, jakÃ¡ pokladnice moudrosti leÅ¾Ã­ v tÄ›chto knihÃ¡ch, obzvlÃ¡Å¡Å¥ ve vÄ›deckÃ½ch svazcÃ­ch. Byly zde kroniky padlÃ© civilizace, celÃ©ho ztracenÃ©ho vÄ›ku. NÄ›kteÅ™Ã­ si mysleli, Å¾e by bylo nejlepÅ¡Ã­ tyto znalosti zniÄit ze strachu, aby opÄ›t nepÅ™ivedly lidstvo tvÃ¡Å™Ã­ tvÃ¡Å™ apokalypse, ale nakonec bylo rozhodnuto, Å¾e se radÄ›ji oddajÃ­ zÃ¡chranÄ› tÄ›chto knih a vydajÃ­ je aÅ¾, a pokud, bude svÄ›t pÅ™ipraven.}
+{438}{}{[VÃCE]}
+{439}{}{A tak s pouÅ¾itÃ­m malÃ© tiskÃ¡rny zaÄali tyto knihy kopÃ­rovat a takÃ© je pÅ™episovat do poÄÃ­taÄÅ¯ OpatstvÃ­, aby byly zachovÃ¡ny v digitÃ¡lnÃ­ podobÄ›, pokud by byla papÃ­rovÃ¡ pÅ™edloha nÄ›kdy zniÄena. V prÅ¯bÄ›hu mnoha let nachÃ¡zeli OpatstvÃ­ dalÅ¡Ã­ lidÃ© a nÄ›kteÅ™Ã­ z nich se rozhodli zÅ¯stat, aby mohli Å¾Ã­t v pokojnÃ©m klidu naÅ¡eho domova v horÃ¡ch.}
+{440}{}{DÃ­ky za pÅ™Ã­bÄ›h.}
+{441}{}{Odkud pÅ™iÅ¡li vaÅ¡i pÅ™edkovÃ©?}
+{442}{}{Nikdy neÅ™ekli odkud pÅ¯vodnÄ› pochÃ¡zeli. DomnÃ­vÃ¡me se, Å¾e pÅ™iÅ¡li odnÄ›kud z vÃ½chodu.}
+{443}{}{DÄ›kuju vÃ¡m za pÅ™Ã­bÄ›h.}
+{444}{}{NepotÅ™ebujete tady v klÃ¡Å¡teÅ™e s nÄ›ÄÃ­m pomoct?}
+{445}{}{PodaÅ™ilo se mi zjistit, co je s vaÅ¡Ã­ vodnÃ­ pumpou.}
+{446}{}{VÃ­te nÄ›co o pÅ¯vodnÃ­ch zakladatelÃ­ch?}
+{447}{}{NeznÃ¡m vÅ¡echna jmÃ©na naÅ¡ich zakladatelÅ¯, ale ten nejdÅ¯leÅ¾itÄ›jÅ¡Ã­, o kterÃ©m jsem si vÄ›dom, je Miller. PÅ™ed Velkou VÃ¡lkou byl elektrotechnik pracujÃ­cÃ­ pro vlÃ¡du SpojenÃ½ch stÃ¡tÅ¯. KrÃ¡tce na to konvertoval ke katolictvÃ­ a uÄinil pÅ™Ã­sahu, Å¾e strÃ¡vÃ­ zbytek svÃ©ho Å¾ivota zÃ¡chranou znalostÃ­ z minulosti. NejvÄ›tÅ¡Ã­ obavy mÄ›l z toho, Å¾e by znalosti mohly navÅ¾dy zmizet, tudÃ­Å¾ je bylo tÅ™eba zachovat, aby z nich mohly tÄ›Å¾it budoucÃ­ generace.}
+{448}{}{MusÃ­te bÃ½t docela vzdÄ›lanÃ½, kdyÅ¾ jste toho tolik pÅ™eÄetl.}
+{449}{}{PÅ™eÄetl jsem toho v Å¾ivotÄ› opravdu hodnÄ›. PÅ™esto vÃ¡s svÃ½mi omezenÃ½mi znalostmi nejspÃ­Å¡e zklamu. VÃ­te, my knihy zaznamenÃ¡vÃ¡me a uchovÃ¡vÃ¡me, ale mÃ¡me zakÃ¡zÃ¡no konat dle jejich moudrostÃ­, tudÃ­Å¾ je naÅ¡e chÃ¡pÃ¡nÃ­ tÄ›chto textÅ¯ velmi omezenÃ©.}
+{450}{}{Tak poÄkat, chcete mi Å™Ã­ct, Å¾e jen slepÄ› pÅ™episujete tyto knihy, aniÅ¾ byste se jim snaÅ¾ili porozumÄ›t?}
+{451}{}{Jak jsem Å™ekl, naÅ¡Ã­ pracÃ­ je tyto znalosti uchovÃ¡vat, ne jim porozumÄ›t. PÅ™edtÃ­m, neÅ¾ budou moci tyto znalosti bÃ½t navrÃ¡ceny zpÄ›t lidskÃ©mu druhu, musÃ­ lidstvo nejdÅ™Ã­ve dokÃ¡zat, Å¾e se povzneslo nad svÃ© sklony k masovÃ© genocidÄ›. To je jedinÃ½ zpÅ¯sob, jak zajistit, aby se historie neopakovala.}
+{452}{}{No, mÃ¡m pro vÃ¡s novinku: ten den nikdy nenastane. A zatÃ­mco vy si tady v tom svÃ©m malÃ©m rÃ¡ji hromadÃ­te vÄ›domosti, lidÃ© v pustinÃ¡ch kaÅ¾dÃ½ den bojujÃ­ o pÅ™eÅ¾itÃ­. VlastnÄ› celÃ½ mÅ¯j kmen je na pokraji zÃ¡huby. Znalosti uloÅ¾enÃ© v tÄ›chto knihÃ¡ch by mohly pomoct vylÃ©Äit nemoci, zlepÅ¡it Ãºrodu a vÅ¯bec vÃ½raznÄ› zvÃ½Å¡it Å¡ance na pÅ™eÅ¾itÃ­ lidstva.}
+{453}{}{Hm, asi mÃ¡te pravdu, ale jÃ¡ si myslÃ­m, Å¾e zde uloÅ¾enÃ© informace by mohly pomoct mnoha lidem. I pÅ™esto, Å¾e si nemyslÃ­te, Å¾e je svÄ›t na tyto znalosti pÅ™ipraven, nevidÃ­m dÅ¯vod, proÄ se alespoÅˆ *vy* nepokusÃ­te z nich nÄ›co nauÄit. JakÃ½ mÃ¡ jinak smysl je uchovÃ¡vat?}
+{454}{}{ChÃ¡pu vaÅ¡e znepokojenÃ­ nad naÅ¡imi zpÅ¯soby, ale musÃ­te pochopit, Å¾e tÃ­mto zpÅ¯sobem Å¾ijeme odjakÅ¾iva. ChtÃ­t teÄ zmÄ›nit vÄ›ci po tolika letech... by bylo rouhÃ¡nÃ­ proti naÅ¡Ã­ vÃ­Å™e. Ne, myslÃ­m, Å¾e musÃ­me pokraÄovat podle pravidel stanovenÃ½ch naÅ¡imi pÅ™edky.}
+{455}{}{ChÃ¡pu vaÅ¡e znepokojenÃ­ nad naÅ¡imi zpÅ¯soby, ale musÃ­te pochopit, Å¾e tÃ­mto zpÅ¯sobem Å¾ijeme odjakÅ¾iva. ChtÃ­t teÄ zmÄ›nit vÄ›ci po tolika letech... by bylo rouhÃ¡nÃ­ proti naÅ¡Ã­ vÃ­Å™e. I pÅ™esto vaÅ¡e slova jeÅ¡tÄ› zvÃ¡Å¾Ã­m. CÃ­tÃ­m ve vÃ¡s velikou moudrost, cizinÄe. Jen Å¡koda, Å¾e jsem potkal jen mÃ¡lo vÃ¡m podobnÃ½ch.}
+{456}{}{DÃ­ky. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{457}{}{Tak dobÅ™e. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{500}{}{PÅ™estaÅˆ s tÃ­m!}
+{501}{}{ZÃ­skÃ¡vÃ¡Å¡ 200 zkuÅ¡enostÃ­ za pÅ™inesenÃ­ knihy.}
+{600}{}{PodaÅ™ilo se mi opravit vaÅ¡i vodnÃ­ pumpu.}
+{601}{}{To je vskutku dobrÃ¡ zprÃ¡va. S tou pumpou byly poslednÃ­ dobou jen samÃ© potÃ­Å¾e. Ti obchodnÃ­ci Å™Ã­kali, Å¾e se o to postarajÃ­, ale zdÃ¡ se, Å¾e pÅ™Ã­liÅ¡ daleko nepokroÄili. Jsme rÃ¡di, Å¾e vÃ¡s tu mÃ¡me. JeÅ¡tÄ› jednou dÄ›kuji.}
+{602}{}{VÃ­te, oÄekÃ¡vÃ¡m za to nÄ›jakou finanÄnÃ­ odmÄ›nu. Tak ji navalte!}
+{603}{}{Å½Ã¡dnÃ½ problÃ©m. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{604}{}{Bylo pro mÄ› radostÃ­ vÃ¡m pomoct. MÄ›jte se.}
+{605}{}{(ZamraÄÃ­ se.) ChÃ¡pu. DobÅ™e, tady. VezmÄ›te si tyto penÃ­ze. TeÄ odejdÄ›te a pÅ™estaÅˆte mÄ› otravovat.}
+{606}{}{DÄ›kuju vÃ¡m, *otÄe*.}
+{700}{}{Noo... nÄ›kam se mi asi ztratila.}
+{701}{}{CoÅ¾e!? (Hluboce si povzdechne.) Je politovÃ¡nÃ­hodnÃ©, Å¾e se vÃ¡m nepodaÅ™ilo pÅ™inÃ©st zpÄ›t tu knihu, avÅ¡ak tvrdÃ­te, Å¾e se vÃ¡m podaÅ™ilo zabÃ­t tu bestii? Hm, v tom pÅ™Ã­padÄ› mohu poslat dolÅ¯ naÅ¡e lidi, aby pokraÄovali v pÃ¡trÃ¡nÃ­. NicmÃ©nÄ› i tak vÃ¡m za vaÅ¡i pomoc udÄ›lÃ­m pÅ™Ã­stup do naÅ¡ich poÄÃ­taÄÅ¯. ZajdÄ›te za bratrem Paulem a on vÃ¡m dÃ¡ pÅ™Ã­stupovÃ½ klÃ­Ä.}
+{702}{}{DÃ­ky.}
+{800}{}{VlastnÄ› ano. NaÅ¡e hlavnÃ­ vodnÃ­ pumpa mÃ¡ jiÅ¾ nÄ›jakou dobu potÃ­Å¾e a navÃ­c se teÄ zdÃ¡, Å¾e jiÅ¾ nadobro doslouÅ¾ila. Pokud vÃ­te nÄ›co o strojÃ­ch, myslÃ­te, Å¾e se na ni mÅ¯Å¾ete podÃ­vat a zjistit, jestli se s nÃ­ dÃ¡ jeÅ¡tÄ› nÄ›co udÄ›lat? Pracuje na tom jiÅ¾ nÄ›kolik obchodnÃ­kÅ¯, ale obÃ¡vÃ¡m se, Å¾e pÅ™Ã­liÅ¡ daleko nepokroÄili.}
+{801}{}{RÃ¡d pomÅ¯Å¾u. DÃ¡m vÃ¡m vÄ›dÄ›t, jak to s nÃ­ vypadÃ¡.}
+{802}{}{JistÄ›, rÃ¡d pomÅ¯Å¾u... samozÅ™ejmÄ› za malou odmÄ›nu.}
+{803}{}{KdyÅ¾ o tom tak pÅ™emÃ½Å¡lÃ­m, chci se radÄ›ji zeptat na nÄ›co jinÃ©ho.}
+{804}{}{CoÅ¾e? Tak dobrÃ¡. Pokud jste tento typ ÄlovÄ›ka, dostanete za svÃ© sluÅ¾by zaplaceno. Tady mÃ¡te pro zaÄÃ¡tek 25 dolarÅ¯. Informujte mne prosÃ­m, jestli se s tÃ­m dÃ¡ nÄ›co udÄ›lat. (Povzdechne si, kdyÅ¾ ti podÃ¡ penÃ­ze.)}
+{805}{}{Hele, proÄ vzdychÃ¡te? Snad si nemyslÃ­te, Å¾e je vÅ¡echno zadarmo? A teÄ mÄ› nechte jÃ­t pracovat.}
+{806}{}{Opravdu? Tak povÃ­dejte prosÃ­m.}
+{807}{}{OdeÅ¡el motor a usmaÅ¾il vÅ¡echny spoje. MusÃ­m jÃ­t do Vault City pro novou souÄÃ¡stku.}
+{808}{}{Och, dÄ›kuji vÃ¡m. Jste opravdu skvÄ›lÃ½ pomocnÃ­k. Informujte mne prosÃ­m, aÅ¾ tu novou souÄÃ¡stku nainstalujete.}
+{809}{}{SpolehnÄ›te se. Brzy se vrÃ¡tÃ­m.}
+{900}{}{PodaÅ™ilo se ti vysvÄ›tlit Opatovi, Å¾e informace, kterÃ© tu uchovÃ¡vajÃ­, mÅ¯Å¾ou pÅ™ivÃ©st lidstvo k ÃºplnÃ© zÃ¡hubÄ›, ale takÃ© by mohly vÃ©st k jeho zÃ¡chranÄ›.}
+{901}{}{DozvÃ­dÃ¡Å¡ se o pÅ¯vodnÃ­ch zakladatelÃ­ch OpatstvÃ­.}
+{1000}{}{JÃ¡ zabila hrÃ³Ã³Ã³znÃ¡ obluda tam dole v dÃ­ra.}
+{1010}{}{Opravdu? To je skvÄ›lÃ©. To bylo od vÃ¡s velmi stateÄnÃ©. Jste velkÃ½ kluk.}
+{1011}{}{Opravdu? To je skvÄ›lÃ©. To bylo od vÃ¡s velmi stateÄnÃ©. Jste velkÃ¡ holka.}
+{1012}{}{[UsmÃ¡t se] JÃ¡ vÄ›dÄ›t.}
+{1020}{}{NepodaÅ™ilo se vÃ¡m tam nÃ¡hodou nalÃ©zt jednu knihu? MÄ›l ji mÅ¯j pÅ™Ã­tel, ale je uÅ¾ nÄ›jakou dobu nezvÄ›stnÃ½.}
+{1021}{}{JÃ¡ najÃ­t kniha. Tady, bÃ½t tÄ›Å¾kÃ¡ a Å¾adnÃ¡ obrÃ¡zek uvnitÅ™.}
+{1022}{}{JÃ¡ nenajÃ­t kniha. PardÃ³Ã³n. JÃ­t se podÃ­vat teÄ.}
+{1030}{}{JÃ¡ najÃ­t kniha.}
+{1031}{}{To je skvÄ›lÃ©. DÃ­ky. Jste opravdu vÃ½jimeÄnÃ½ chlapÃ­k.}
+{1032}{}{To je skvÄ›lÃ©. DÃ­ky. Jste opravdu vÃ½jimeÄnÃ© dÄ›vÄe.}
 {1033}{}{JOJ.}
-{1100}{}{U jsem tam byl. Leelo tam nìkolik mrtvıch tìl, take tipuju, e jedno z nich patøilo vašemu pohøešovanému mnichovi. Pokud vás to alespoò trochu uklidní, podaøilo se mi zabít tu vìc zodpovìdnou za jeho smrt.}
-{1110}{}{Ach... toho jsem se pøesnì obával. Bratr Thomas nám bude nesmírnì chybìt. Dìkuji vám za zabití všech tìch potvor, které se tam ukrıvaly. Nicménì... nepodaøilo se vám tam nalézt jednu knihu? Je to velice dùleitá kniha, kterou mìl naposledy u sebe bratr Thomas.}
-{1111}{}{Ne, ale mùu se tam vrátit a podívat se po ní.}
-{1112}{}{Myslíte tuhle knihu?}
-{1113}{}{Ještì ne pùjdu, chci se na nìco zeptat.}
-{1411}{}{Velmi zajímavé. U musím jít.}
-{3000}{}{Jak ti s tím mùu pomoct?}
-{4091}{}{Take se nikdo ani neobtìoval jít dolù a podívat se po nìm? Co kdy jen nìkde uvízl a teï pomalu umírá hlady?}
-{4092}{}{Musím pøiznat, e je to vskutku moné, ale musíte pochopit, e my jsme mírumilovní lidé. Jen samotná myšlenka, e se postavíme jedné z tìch bestií z pustiny, je pro nás dìsivá. Na takovou konfrontaci jednoduše nejsme pøipraveni. }
-{4177}{}{Podaøilo se mi zabít tu bestii!}
-{4188}{}{Vıbornì! A co ta kniha? Podaøilo se vám ji získat?}
-{6020}{}{Pokud chcete opravdu prokázat svoji vdìènost, co takhle mi dát nìjaké peníze za všechnu tu snahu?}
+{1100}{}{UÅ¾ jsem tam byl. LeÅ¾elo tam nÄ›kolik mrtvÃ½ch tÄ›l, takÅ¾e tipuju, Å¾e jedno z nich patÅ™ilo vaÅ¡emu pohÅ™eÅ¡ovanÃ©mu mnichovi. Pokud vÃ¡s to alespoÅˆ trochu uklidnÃ­, podaÅ™ilo se mi zabÃ­t tu vÄ›c zodpovÄ›dnou za jeho smrt.}
+{1110}{}{Ach... toho jsem se pÅ™esnÄ› obÃ¡val. Bratr Thomas nÃ¡m bude nesmÃ­rnÄ› chybÄ›t. DÄ›kuji vÃ¡m za zabitÃ­ vÅ¡ech tÄ›ch potvor, kterÃ© se tam ukrÃ½valy. NicmÃ©nÄ›... nepodaÅ™ilo se vÃ¡m tam nalÃ©zt jednu knihu? Je to velice dÅ¯leÅ¾itÃ¡ kniha, kterou mÄ›l naposledy u sebe bratr Thomas.}
+{1111}{}{Ne, ale mÅ¯Å¾u se tam vrÃ¡tit a podÃ­vat se po nÃ­.}
+{1112}{}{MyslÃ­te tuhle knihu?}
+{1113}{}{JeÅ¡tÄ› neÅ¾ pÅ¯jdu, chci se na nÄ›co zeptat.}
+{1411}{}{Velmi zajÃ­mavÃ©. UÅ¾ musÃ­m jÃ­t.}
+{3000}{}{Jak ti s tÃ­m mÅ¯Å¾u pomoct?}
+{4091}{}{TakÅ¾e se nikdo ani neobtÄ›Å¾oval jÃ­t dolÅ¯ a podÃ­vat se po nÄ›m? Co kdyÅ¾ jen nÄ›kde uvÃ­zl a teÄ pomalu umÃ­rÃ¡ hlady?}
+{4092}{}{MusÃ­m pÅ™iznat, Å¾e je to vskutku moÅ¾nÃ©, ale musÃ­te pochopit, Å¾e my jsme mÃ­rumilovnÃ­ lidÃ©. Jen samotnÃ¡ myÅ¡lenka, Å¾e se postavÃ­me jednÃ© z tÄ›ch bestiÃ­ z pustiny, je pro nÃ¡s dÄ›sivÃ¡. Na takovou konfrontaci jednoduÅ¡e nejsme pÅ™ipraveni. }
+{4177}{}{PodaÅ™ilo se mi zabÃ­t tu bestii!}
+{4188}{}{VÃ½bornÄ›! A co ta kniha? PodaÅ™ilo se vÃ¡m ji zÃ­skat?}
+{6020}{}{Pokud chcete opravdu prokÃ¡zat svoji vdÄ›Änost, co takhle mi dÃ¡t nÄ›jakÃ© penÃ­ze za vÅ¡echnu tu snahu?}

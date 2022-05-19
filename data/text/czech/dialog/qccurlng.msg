@@ -1,164 +1,164 @@
-{100}{}{Vidíš velmi unavenì vypadajícího mue v bílém plášti.}
-{101}{}{Vidíš Dr. Curlinga, vedoucího protichemickıch jednotek Spojenıch státù.}
-{102}{}{Vidíš mue v laboratorním plášti potøísnìném chemikáliemi.}
-{103}{}{Co dìláte venku?}
-{104}{}{Myslím, e bychom vás mìli vrátit zpìt do cely.}
-{105}{}{Stráe! Máme tu dalšího uprchlíka.}
-{106}{}{Poèkejte tady, zavolám nìkoho, kdo se o vás postará.}
-{107}{}{Zajímavé. Netušil jsem, e se díky tomu toxinu stanou hloupìjší.}
-{108}{}{Haló? Haló. Je tam nìkdo?}
-{109}{}{Odkud se tu vlastnì berete?}
-{110}{}{Vypadnìte z mé laboratoøe, vojáku.}
-{111}{}{Tohle místo není souèástí vaší obchùzky.}
-{112}{}{Vypadnìte odsud, nebo zavolám vašeho nadøízeného.}
-{113}{}{Pokraèujte, vojáku.}
-{114}{}{ádné problémy jsem nehlásil.}
-{115}{}{Vítejte v sekci protichemickıch jednotek, vojáku. Jsem podplukovník doktor Charles Curling. A teï kdy jsme se pøedstavili, tak vypadnìte z mé laboratoøe.}
-{116}{}{Nejsem ten, za koho mì máte. Jsem }
-{117}{}{ z vesnice Arroyo. Musíme si spolu o nìèem promluvit.}
-{118}{}{Promiòte, pane. Moje chyba. Sbohem.}
-{119}{}{Všichni na svá místa.}
-{120}{}{Uhnìte mi z cesty!}
-{121}{}{Pøipraven k akci!}
-{122}{}{Vypadnìte odsud, nemám èas se s vámi vybavovat.}
-{123}{}{Copak neslyšíte ten poplach?}
-{124}{}{Schovejte se! Byl spuštìn poplach!}
-{125}{}{Doufám, e je tu dost záchrannıch èlunù.}
-{126}{}{Všichni ven!}
-{127}{}{Dobøe, }
-{128}{}{, nevím sice, jak se vám podaøilo dostat z cely, ale pochybuji, e my dva se máme o èem bavit.}
-{129}{}{Tak to se mılíte. A poøádnì.}
-{130}{}{Máte pravdu. Jsem tu, abych vás zabil.}
-{131}{}{Asi máte pravdu. Sbohem.}
-{132}{}{Jsem podplukovník doktor Charles Curling z protichemickıch jednotek Spojenıch státù. A kdo jste sakra vy?}
-{133}{}{Jsem vaše nejhorší noèní mùra... mutant se zbraní a vlastním názorem.}
+{100}{}{VidÃ­Å¡ velmi unavenÄ› vypadajÃ­cÃ­ho muÅ¾e v bÃ­lÃ©m plÃ¡Å¡ti.}
+{101}{}{VidÃ­Å¡ Dr. Curlinga, vedoucÃ­ho protichemickÃ½ch jednotek SpojenÃ½ch stÃ¡tÅ¯.}
+{102}{}{VidÃ­Å¡ muÅ¾e v laboratornÃ­m plÃ¡Å¡ti potÅ™Ã­snÄ›nÃ©m chemikÃ¡liemi.}
+{103}{}{Co dÄ›lÃ¡te venku?}
+{104}{}{MyslÃ­m, Å¾e bychom vÃ¡s mÄ›li vrÃ¡tit zpÄ›t do cely.}
+{105}{}{StrÃ¡Å¾e! MÃ¡me tu dalÅ¡Ã­ho uprchlÃ­ka.}
+{106}{}{PoÄkejte tady, zavolÃ¡m nÄ›koho, kdo se o vÃ¡s postarÃ¡.}
+{107}{}{ZajÃ­mavÃ©. NetuÅ¡il jsem, Å¾e se dÃ­ky tomu toxinu stanou hloupÄ›jÅ¡Ã­.}
+{108}{}{HalÃ³? HalÃ³. Je tam nÄ›kdo?}
+{109}{}{Odkud se tu vlastnÄ› berete?}
+{110}{}{VypadnÄ›te z mÃ© laboratoÅ™e, vojÃ¡ku.}
+{111}{}{Tohle mÃ­sto nenÃ­ souÄÃ¡stÃ­ vaÅ¡Ã­ obchÅ¯zky.}
+{112}{}{VypadnÄ›te odsud, nebo zavolÃ¡m vaÅ¡eho nadÅ™Ã­zenÃ©ho.}
+{113}{}{PokraÄujte, vojÃ¡ku.}
+{114}{}{Å½Ã¡dnÃ© problÃ©my jsem nehlÃ¡sil.}
+{115}{}{VÃ­tejte v sekci protichemickÃ½ch jednotek, vojÃ¡ku. Jsem podplukovnÃ­k doktor Charles Curling. A teÄ kdyÅ¾ jsme se pÅ™edstavili, tak vypadnÄ›te z mÃ© laboratoÅ™e.}
+{116}{}{Nejsem ten, za koho mÄ› mÃ¡te. Jsem }
+{117}{}{ z vesnice Arroyo. MusÃ­me si spolu o nÄ›Äem promluvit.}
+{118}{}{PromiÅˆte, pane. Moje chyba. Sbohem.}
+{119}{}{VÅ¡ichni na svÃ¡ mÃ­sta.}
+{120}{}{UhnÄ›te mi z cesty!}
+{121}{}{PÅ™ipraven k akci!}
+{122}{}{VypadnÄ›te odsud, nemÃ¡m Äas se s vÃ¡mi vybavovat.}
+{123}{}{Copak neslyÅ¡Ã­te ten poplach?}
+{124}{}{Schovejte se! Byl spuÅ¡tÄ›n poplach!}
+{125}{}{DoufÃ¡m, Å¾e je tu dost zÃ¡chrannÃ½ch ÄlunÅ¯.}
+{126}{}{VÅ¡ichni ven!}
+{127}{}{DobÅ™e, }
+{128}{}{, nevÃ­m sice, jak se vÃ¡m podaÅ™ilo dostat z cely, ale pochybuji, Å¾e my dva se mÃ¡me o Äem bavit.}
+{129}{}{Tak to se mÃ½lÃ­te. A poÅ™Ã¡dnÄ›.}
+{130}{}{MÃ¡te pravdu. Jsem tu, abych vÃ¡s zabil.}
+{131}{}{Asi mÃ¡te pravdu. Sbohem.}
+{132}{}{Jsem podplukovnÃ­k doktor Charles Curling z protichemickÃ½ch jednotek SpojenÃ½ch stÃ¡tÅ¯. A kdo jste sakra vy?}
+{133}{}{Jsem vaÅ¡e nejhorÅ¡Ã­ noÄnÃ­ mÅ¯ra... mutant se zbranÃ­ a vlastnÃ­m nÃ¡zorem.}
 {134}{}{Jsem }
-{135}{}{ z vesnice Arroyo. Musíme si spolu o nìèem promluvit.}
-{136}{}{Jsem nìkdo, kdo si s vámi potøebuje promluvit.}
-{137}{}{Chcete se mnou mluvit? Kdo jste a proè si myslíte, e bych s vámi mìl ztrácet èas?}
-{138}{}{Jsem z vesnice Arroyo a musím si s vámi promluvit o záchranì tisícù ivotù.}
+{135}{}{ z vesnice Arroyo. MusÃ­me si spolu o nÄ›Äem promluvit.}
+{136}{}{Jsem nÄ›kdo, kdo si s vÃ¡mi potÅ™ebuje promluvit.}
+{137}{}{Chcete se mnou mluvit? Kdo jste a proÄ si myslÃ­te, Å¾e bych s vÃ¡mi mÄ›l ztrÃ¡cet Äas?}
+{138}{}{Jsem z vesnice Arroyo a musÃ­m si s vÃ¡mi promluvit o zÃ¡chranÄ› tisÃ­cÅ¯ Å¾ivotÅ¯.}
 {139}{}{Jsem }
-{140}{}{ a bude lepší, kdy si se mnou promluvíte, jinak by se vám mohlo nìco pøihodit.}
-{141}{}{Máte pravdu. Nemáme se spolu o èem bavit. Stejnì u jste mrtvı mu.}
-{142}{}{Pokraèujte v práci, doktore. U odcházím. Sbohem.}
-{143}{}{Co jiného by se dalo èekat od primitivních tvorù. Tady je vidìt ten rozdíl mezi vámi a opravdovımi lidmi, jako jsme my.}
-{144}{}{Jste si sám sebou nìjak moc jistı, nemyslíte?}
-{145}{}{Zasranı fanatiku. Musím vás okamitì zlikvidovat.}
-{146}{}{Nevidím ádnı dùvod, proè bych mìl mluvit s mutantem. Zanedlouho, a skuteèní lidé pøevezmou zpìt tuto planetu, budete jen další nešastnou pøipomínkou války. }
-{147}{}{Skuteèní lidé? O èem to mluvíte? Jsem èlovìk stejnì jako vy.}
-{148}{}{V tom pøípadì mám pro vás jednu nepøíjemnou pøipomínku ve svém koeném pouzdøe.}
-{149}{}{Stráe! Pomoc! Stráe!}
-{150}{}{Stráe! Pomóóóóóóc!}
-{151}{}{Nutná okamitá pomoc v sekci protichemickıch jednotek! Okamitì!}
-{152}{}{Stráe! Poplach! Stráe!}
-{153}{}{A proè bych nemìl? Náš vızkum na vesnièanech jasnì prokázal zmìny v jejich DNA následkem radioaktivního ozáøení v ovzduší.}
-{154}{}{No a co, e je naše DNA trochu odlišná?}
-{155}{}{Nevím, co tím pøesnì myslíte, ale co je na tom, e jsme trochu odlišní?}
-{156}{}{Ne tak docela. Ve skuteènosti jste docela dost odlišní, alespoò tedy vaše DNA ano. Domnívám se, e je to následkem dlouhodobého pobytu v prostøedí zamoøeném radioaktivitou.}
-{157}{}{No a co, e je naše DNA trochu odlišná?}
-{158}{}{Nevím, co tím pøesnì myslíte, ale co je na tom, e jsme trochu odlišní?}
-{159}{}{Víte, vaše DNA není jen "trochu" odlišná. Je znaènì odlišná. Kdybych nemìl tolik práce s Projektem, velice rád bych provedl nìkolik dalších testù na vašich lidech. Samozøejmì jinıch testù ne tìch tıkajících se F.E.V. Je to opravdu fascinující práce.}
-{160}{}{O èem chceš vìdìt?}
-{161}{}{Jak se naše DNA odlišuje?}
-{162}{}{Vy dìláte testy na mém kmeni?}
+{140}{}{ a bude lepÅ¡Ã­, kdyÅ¾ si se mnou promluvÃ­te, jinak by se vÃ¡m mohlo nÄ›co pÅ™ihodit.}
+{141}{}{MÃ¡te pravdu. NemÃ¡me se spolu o Äem bavit. StejnÄ› uÅ¾ jste mrtvÃ½ muÅ¾.}
+{142}{}{PokraÄujte v prÃ¡ci, doktore. UÅ¾ odchÃ¡zÃ­m. Sbohem.}
+{143}{}{Co jinÃ©ho by se dalo Äekat od primitivnÃ­ch tvorÅ¯. Tady je vidÄ›t ten rozdÃ­l mezi vÃ¡mi a opravdovÃ½mi lidmi, jako jsme my.}
+{144}{}{Jste si sÃ¡m sebou nÄ›jak moc jistÃ½, nemyslÃ­te?}
+{145}{}{ZasranÃ½ fanatiku. MusÃ­m vÃ¡s okamÅ¾itÄ› zlikvidovat.}
+{146}{}{NevidÃ­m Å¾Ã¡dnÃ½ dÅ¯vod, proÄ bych mÄ›l mluvit s mutantem. Zanedlouho, aÅ¾ skuteÄnÃ­ lidÃ© pÅ™evezmou zpÄ›t tuto planetu, budete jen dalÅ¡Ã­ neÅ¡Å¥astnou pÅ™ipomÃ­nkou vÃ¡lky. }
+{147}{}{SkuteÄnÃ­ lidÃ©? O Äem to mluvÃ­te? Jsem ÄlovÄ›k stejnÄ› jako vy.}
+{148}{}{V tom pÅ™Ã­padÄ› mÃ¡m pro vÃ¡s jednu nepÅ™Ã­jemnou pÅ™ipomÃ­nku ve svÃ©m koÅ¾enÃ©m pouzdÅ™e.}
+{149}{}{StrÃ¡Å¾e! Pomoc! StrÃ¡Å¾e!}
+{150}{}{StrÃ¡Å¾e! PomÃ³Ã³Ã³Ã³Ã³Ã³c!}
+{151}{}{NutnÃ¡ okamÅ¾itÃ¡ pomoc v sekci protichemickÃ½ch jednotek! OkamÅ¾itÄ›!}
+{152}{}{StrÃ¡Å¾e! Poplach! StrÃ¡Å¾e!}
+{153}{}{A proÄ bych nemÄ›l? NÃ¡Å¡ vÃ½zkum na vesniÄanech jasnÄ› prokÃ¡zal zmÄ›ny v jejich DNA nÃ¡sledkem radioaktivnÃ­ho ozÃ¡Å™enÃ­ v ovzduÅ¡Ã­.}
+{154}{}{No a co, Å¾e je naÅ¡e DNA trochu odliÅ¡nÃ¡?}
+{155}{}{NevÃ­m, co tÃ­m pÅ™esnÄ› myslÃ­te, ale co je na tom, Å¾e jsme trochu odliÅ¡nÃ­?}
+{156}{}{Ne tak docela. Ve skuteÄnosti jste docela dost odliÅ¡nÃ­, alespoÅˆ tedy vaÅ¡e DNA ano. DomnÃ­vÃ¡m se, Å¾e je to nÃ¡sledkem dlouhodobÃ©ho pobytu v prostÅ™edÃ­ zamoÅ™enÃ©m radioaktivitou.}
+{157}{}{No a co, Å¾e je naÅ¡e DNA trochu odliÅ¡nÃ¡?}
+{158}{}{NevÃ­m, co tÃ­m pÅ™esnÄ› myslÃ­te, ale co je na tom, Å¾e jsme trochu odliÅ¡nÃ­?}
+{159}{}{VÃ­te, vaÅ¡e DNA nenÃ­ jen "trochu" odliÅ¡nÃ¡. Je znaÄnÄ› odliÅ¡nÃ¡. Kdybych nemÄ›l tolik prÃ¡ce s Projektem, velice rÃ¡d bych provedl nÄ›kolik dalÅ¡Ã­ch testÅ¯ na vaÅ¡ich lidech. SamozÅ™ejmÄ› jinÃ½ch testÅ¯ neÅ¾ tÄ›ch tÃ½kajÃ­cÃ­ch se F.E.V. Je to opravdu fascinujÃ­cÃ­ prÃ¡ce.}
+{160}{}{O Äem chceÅ¡ vÄ›dÄ›t?}
+{161}{}{Jak se naÅ¡e DNA odliÅ¡uje?}
+{162}{}{Vy dÄ›lÃ¡te testy na mÃ©m kmeni?}
 {163}{}{Co je sakra ten "Projekt?"}
-{164}{}{U toho mám dost. Zastøelím vás jako vzteklého geckona. Sbohem, kreténe.}
-{165}{}{Došlo k øadì velmi nepatrnıch zmìn, ale ještì jsem nemìl èas prozkoumat pøesné následky. Navíc bych musel zpìtnì vystopovat váš pùvodní genom, ne bych mohl vypracovat nìjakou hypotézu ohlednì smìru, kterım se zmìny v organismu ubírají. Ovšem celkovì vzato je jasné, jakı je závìr.}
-{166}{}{Co je jasné? Jakı je závìr?}
-{167}{}{Ano, moná. Chci se ještì na nìco zeptat, doktore.}
-{168}{}{To, e vy i váš kmen u dávno nejste lidé. No a protoe váš kmen opustil Vault (mám pocit, e to byl Vault 13, e ano?) teprve pøed nìjakımi osmdesáti lety, dá se s jistotou tvrdit, e kadı, kdo strávil venku delší dobu, je zasaen ještì více. Ano, obávám se, e závìr je jednoznaènı.}
-{169}{}{Závìr? Jakı závìr?}
-{170}{}{Myslel jsem, e jsem se vyjádøil dost jasnì. Závìr je takovı, e vy a celı váš druh ji nejste lidé. K pøevzetí vlády nad zemí a zachování èistoty lidské rasy je nutné zlikvidovat všechny mutanty.}
-{171}{}{Zlikvidovat? Co tím myslíte?}
-{172}{}{Projekt, kterému jsme se zde v Enklávì vìnovali nìkolik posledních desetiletí, má za cíl obnovit lidskou rasu na pevninì Spojenıch státù. Bùh ehnej Americe.}
-{173}{}{Nevidím dùvod, proè by to mìlo zabrat celá desetiletí.}
-{174}{}{U to nebudu poslouchat. Chci se zeptat na nìco jiného.}
+{164}{}{UÅ¾ toho mÃ¡m dost. ZastÅ™elÃ­m vÃ¡s jako vzteklÃ©ho geckona. Sbohem, kretÃ©ne.}
+{165}{}{DoÅ¡lo k Å™adÄ› velmi nepatrnÃ½ch zmÄ›n, ale jeÅ¡tÄ› jsem nemÄ›l Äas prozkoumat pÅ™esnÃ© nÃ¡sledky. NavÃ­c bych musel zpÄ›tnÄ› vystopovat vÃ¡Å¡ pÅ¯vodnÃ­ genom, neÅ¾ bych mohl vypracovat nÄ›jakou hypotÃ©zu ohlednÄ› smÄ›ru, kterÃ½m se zmÄ›ny v organismu ubÃ­rajÃ­. OvÅ¡em celkovÄ› vzato je jasnÃ©, jakÃ½ je zÃ¡vÄ›r.}
+{166}{}{Co je jasnÃ©? JakÃ½ je zÃ¡vÄ›r?}
+{167}{}{Ano, moÅ¾nÃ¡. Chci se jeÅ¡tÄ› na nÄ›co zeptat, doktore.}
+{168}{}{To, Å¾e vy i vÃ¡Å¡ kmen uÅ¾ dÃ¡vno nejste lidÃ©. No a protoÅ¾e vÃ¡Å¡ kmen opustil Vault (mÃ¡m pocit, Å¾e to byl Vault 13, Å¾e ano?) teprve pÅ™ed nÄ›jakÃ½mi osmdesÃ¡ti lety, dÃ¡ se s jistotou tvrdit, Å¾e kaÅ¾dÃ½, kdo strÃ¡vil venku delÅ¡Ã­ dobu, je zasaÅ¾en jeÅ¡tÄ› vÃ­ce. Ano, obÃ¡vÃ¡m se, Å¾e zÃ¡vÄ›r je jednoznaÄnÃ½.}
+{169}{}{ZÃ¡vÄ›r? JakÃ½ zÃ¡vÄ›r?}
+{170}{}{Myslel jsem, Å¾e jsem se vyjÃ¡dÅ™il dost jasnÄ›. ZÃ¡vÄ›r je takovÃ½, Å¾e vy a celÃ½ vÃ¡Å¡ druh jiÅ¾ nejste lidÃ©. K pÅ™evzetÃ­ vlÃ¡dy nad zemÃ­ a zachovÃ¡nÃ­ Äistoty lidskÃ© rasy je nutnÃ© zlikvidovat vÅ¡echny mutanty.}
+{171}{}{Zlikvidovat? Co tÃ­m myslÃ­te?}
+{172}{}{Projekt, kterÃ©mu jsme se zde v EnklÃ¡vÄ› vÄ›novali nÄ›kolik poslednÃ­ch desetiletÃ­, mÃ¡ za cÃ­l obnovit lidskou rasu na pevninÄ› SpojenÃ½ch stÃ¡tÅ¯. BÅ¯h Å¾ehnej Americe.}
+{173}{}{NevidÃ­m dÅ¯vod, proÄ by to mÄ›lo zabrat celÃ¡ desetiletÃ­.}
+{174}{}{UÅ¾ to nebudu poslouchat. Chci se zeptat na nÄ›co jinÃ©ho.}
 {175}{}{Oh, just establishing an outpost wouldn't take long. We've already done that at Navarro. But it has taken a long time to work out the proper method for the eradication procedure.}
-{176}{}{Vyhlazovacího postupu?}
-{177}{}{Ano, nemùeme se pøeci vrátit zpìt na pevninu a riskovat nakaení od všech tìch zmutovanıch skoro-lidskıch bytostí. Aby byly Spojené státy pro lidstvo bezpeèné, musí bıt nejdøíve všichni mutanti vyhlazeni.}
-{178}{}{Coe!?! Zbláznil jste se? To je zrùdné!}
-{179}{}{Vyhlazeni? Jak to chcete udìlat?}
-{180}{}{To si nemyslím. Spíš to vidím jako velmi dobrı pøíklad spoleèenského Darwinismu. Pøeitím nejsilnìjšího se zajistí reprodukce dalších generací. Úspìšná budoucnost dalších generací, celé lidské rasy, závisí na nás.}
-{181}{}{Ano, zmìna je pravdìpodobnì nevyhnutelná èást ivota, ale jen proto, e jsme odlišní, ještì neznamená, e jsme špatní. Kdy nic víc, tak jsme alespoò ivım dùkazem odolnosti lidského druhu. A právì kvùli tomu si zaslouíme pøeít dokonce *víc* ne vaši lidé.}
-{182}{}{Pøemıšlel jste nìkdy nad tím, e i kdy jsme rozdílní, mùeme bıt zrovna tak lidští jako vy?}
-{183}{}{Vy u ádné budoucí generace mít nebudete, doktore, protoe budete zanedlouho mrtvı.}
-{184}{}{Hmm, takto jsem o tom nikdy nepøemıšlel... dejte mi prosím chvíli èasu, abych se nad tím mohl poøádnì zamyslet.}
-{185}{}{Dobøe. Kolik jen budete chtít, doktore. Chápu, e je pro vás tahle pøedstava dost tìká.}
-{186}{}{Nemáte ani minutu. Váš èas u dávno vypršel. Sbohem, kreténe.}
-{187}{}{To je absurdní. Jste asi takovı èlovìk jako je dvouhlavá kráva normální jalovice.}
-{188}{}{Pokud tu nìkdy ily jednohlavé krávy, tak u jistì dávno vymøely. Ale kráva jako samotnı druh pøeila a stala se odolnìjší. Zmìna je nedílnou souèástí pøírodního øádu.}
-{189}{}{Zabití všech na pevninì je prostì chyba.}
-{190}{}{U mì unavují ty vaše kecy. Je èas setkat se s vaším stvoøitelem, Dr. Smrtko.}
-{191}{}{Váš druh není zcela zøejmì schopen porozumìt tomu, co se vám snaím øíct. Je to beznadìjné. Radìji odejdìte.}
-{192}{}{No, zkusil jsem to. Je èas zemøít, fanatiku.}
-{193}{}{Tak dobøe, u jdu. Jeden z nás je moná beznadìjnı, ale myslím, e já to nejsem. Sbohem.}
-{194}{}{Ano. Toxikologickou studii úèinnosti F.E.V. toxinu.}
+{176}{}{VyhlazovacÃ­ho postupu?}
+{177}{}{Ano, nemÅ¯Å¾eme se pÅ™eci vrÃ¡tit zpÄ›t na pevninu a riskovat nakaÅ¾enÃ­ od vÅ¡ech tÄ›ch zmutovanÃ½ch skoro-lidskÃ½ch bytostÃ­. Aby byly SpojenÃ© stÃ¡ty pro lidstvo bezpeÄnÃ©, musÃ­ bÃ½t nejdÅ™Ã­ve vÅ¡ichni mutanti vyhlazeni.}
+{178}{}{CoÅ¾e!?! ZblÃ¡znil jste se? To je zrÅ¯dnÃ©!}
+{179}{}{Vyhlazeni? Jak to chcete udÄ›lat?}
+{180}{}{To si nemyslÃ­m. SpÃ­Å¡ to vidÃ­m jako velmi dobrÃ½ pÅ™Ã­klad spoleÄenskÃ©ho Darwinismu. PÅ™eÅ¾itÃ­m nejsilnÄ›jÅ¡Ã­ho se zajistÃ­ reprodukce dalÅ¡Ã­ch generacÃ­. ÃšspÄ›Å¡nÃ¡ budoucnost dalÅ¡Ã­ch generacÃ­, celÃ© lidskÃ© rasy, zÃ¡visÃ­ na nÃ¡s.}
+{181}{}{Ano, zmÄ›na je pravdÄ›podobnÄ› nevyhnutelnÃ¡ ÄÃ¡st Å¾ivota, ale jen proto, Å¾e jsme odliÅ¡nÃ­, jeÅ¡tÄ› neznamenÃ¡, Å¾e jsme Å¡patnÃ­. KdyÅ¾ nic vÃ­c, tak jsme alespoÅˆ Å¾ivÃ½m dÅ¯kazem odolnosti lidskÃ©ho druhu. A prÃ¡vÄ› kvÅ¯li tomu si zaslouÅ¾Ã­me pÅ™eÅ¾Ã­t dokonce *vÃ­c* neÅ¾ vaÅ¡i lidÃ©.}
+{182}{}{PÅ™emÃ½Å¡lel jste nÄ›kdy nad tÃ­m, Å¾e i kdyÅ¾ jsme rozdÃ­lnÃ­, mÅ¯Å¾eme bÃ½t zrovna tak lidÅ¡tÃ­ jako vy?}
+{183}{}{Vy uÅ¾ Å¾Ã¡dnÃ© budoucÃ­ generace mÃ­t nebudete, doktore, protoÅ¾e budete zanedlouho mrtvÃ½.}
+{184}{}{Hmm, takto jsem o tom nikdy nepÅ™emÃ½Å¡lel... dejte mi prosÃ­m chvÃ­li Äasu, abych se nad tÃ­m mohl poÅ™Ã¡dnÄ› zamyslet.}
+{185}{}{DobÅ™e. Kolik jen budete chtÃ­t, doktore. ChÃ¡pu, Å¾e je pro vÃ¡s tahle pÅ™edstava dost tÄ›Å¾kÃ¡.}
+{186}{}{NemÃ¡te ani minutu. VÃ¡Å¡ Äas uÅ¾ dÃ¡vno vyprÅ¡el. Sbohem, kretÃ©ne.}
+{187}{}{To je absurdnÃ­. Jste asi takovÃ½ ÄlovÄ›k jako je dvouhlavÃ¡ krÃ¡va normÃ¡lnÃ­ jalovice.}
+{188}{}{Pokud tu nÄ›kdy Å¾ily jednohlavÃ© krÃ¡vy, tak uÅ¾ jistÄ› dÃ¡vno vymÅ™ely. Ale krÃ¡va jako samotnÃ½ druh pÅ™eÅ¾ila a stala se odolnÄ›jÅ¡Ã­. ZmÄ›na je nedÃ­lnou souÄÃ¡stÃ­ pÅ™Ã­rodnÃ­ho Å™Ã¡du.}
+{189}{}{ZabitÃ­ vÅ¡ech na pevninÄ› je prostÄ› chyba.}
+{190}{}{UÅ¾ mÄ› unavujÃ­ ty vaÅ¡e kecy. Je Äas setkat se s vaÅ¡Ã­m stvoÅ™itelem, Dr. Smrtko.}
+{191}{}{VÃ¡Å¡ druh nenÃ­ zcela zÅ™ejmÄ› schopen porozumÄ›t tomu, co se vÃ¡m snaÅ¾Ã­m Å™Ã­ct. Je to beznadÄ›jnÃ©. RadÄ›ji odejdÄ›te.}
+{192}{}{No, zkusil jsem to. Je Äas zemÅ™Ã­t, fanatiku.}
+{193}{}{Tak dobÅ™e, uÅ¾ jdu. Jeden z nÃ¡s je moÅ¾nÃ¡ beznadÄ›jnÃ½, ale myslÃ­m, Å¾e jÃ¡ to nejsem. Sbohem.}
+{194}{}{Ano. Toxikologickou studii ÃºÄinnosti F.E.V. toxinu.}
 {195}{}{F.E.V. toxin? Co je to?}
-{196}{}{Chci se ještì na nìco zeptat.}
-{197}{}{F.E.V. toxin je dokonalım øešením tohoto sloitého problému.}
+{196}{}{Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{197}{}{F.E.V. toxin je dokonalÃ½m Å™eÅ¡enÃ­m tohoto sloÅ¾itÃ©ho problÃ©mu.}
 {198}{}{Co je F.E.V. toxin?}
-{199}{}{Poèkejte chvíli. Chci se zeptat na nìco jiného.}
-{200}{}{Jedna z našich hlídek našla data z vızkumu a nìkolik vzorkù F.E.V. viru v bıvalé, témìø zcela znièené vojenské základnì.}
-{201}{}{Dobøe. Teï u vím, kde jste to našli, ale co je to vlastnì zaè?}
-{202}{}{Pùvodnì byl F.E.V. navren jako virus, kterı mìl pøemìnit lidské bytosti na super vojáky. Tento experiment zøejmì zcela selhal, aèkoliv já jsem zkusil upravenou verzi viru na jednom z našich agentù tajnıch slueb a povedlo se mi dosáhnout jistého úspìchu.}
-{203}{}{Gratuluju, ale co to má spoleèného s vyhlazováním?}
+{199}{}{PoÄkejte chvÃ­li. Chci se zeptat na nÄ›co jinÃ©ho.}
+{200}{}{Jedna z naÅ¡ich hlÃ­dek naÅ¡la data z vÃ½zkumu a nÄ›kolik vzorkÅ¯ F.E.V. viru v bÃ½valÃ©, tÃ©mÄ›Å™ zcela zniÄenÃ© vojenskÃ© zÃ¡kladnÄ›.}
+{201}{}{DobÅ™e. TeÄ uÅ¾ vÃ­m, kde jste to naÅ¡li, ale co je to vlastnÄ› zaÄ?}
+{202}{}{PÅ¯vodnÄ› byl F.E.V. navrÅ¾en jako virus, kterÃ½ mÄ›l pÅ™emÄ›nit lidskÃ© bytosti na super vojÃ¡ky. Tento experiment zÅ™ejmÄ› zcela selhal, aÄkoliv jÃ¡ jsem zkusil upravenou verzi viru na jednom z naÅ¡ich agentÅ¯ tajnÃ½ch sluÅ¾eb a povedlo se mi dosÃ¡hnout jistÃ©ho ÃºspÄ›chu.}
+{203}{}{Gratuluju, ale co to mÃ¡ spoleÄnÃ©ho s vyhlazovÃ¡nÃ­m?}
 {204}{}{Oh, yes, well, I was getting to that... The F.E.V. virus bond is species specific, it will only bond with human glycoprotein. It only took a few years to tweak the F.E.V. virus to make it more lethal than it already was. The result was just what the doctor ordered, perfect in every way. }
-{205}{}{Dokonalı? Jak to?}
-{206}{}{Není to snad jasné, mùj zmutovanı pøíteli? Díky mnì je F.E.V. smrtící toxin a díky jednomu záhadnému géniovi, kterı si teatrálnì øíkal Vùdce, funguje pouze na lidi, a u zmutované nebo ne.}
-{207}{}{Coe?}
-{208}{}{Take to znamená, e máme dokonalı vynález øešící veškeré problémy se skoro-lidskımi mutanty zamoøujícími planetu.}
-{209}{}{Stále nechápu, v èem je "dokonalı."}
-{210}{}{Chci se zeptat na jinı z vašich bláznivıch nápadù.}
-{211}{}{F.E.V. toxin napadá pouze lidi a ostatních ivoèichù si vùbec nevšímá. Nejlepší na tom je, e bìhem jednoho mìsíce budou všichni mutanti mrtví a bez hostitelskıch organismù zanikne i samotnı F.E.V.}
-{212}{}{Pochybuju, e máte dostatek létajících strojù na rozprášení toxinu po celé planetì.}
-{213}{}{Asi z vás udìlám hostitele pro nìkolik vysoko-energetickıch projektilù. Pomodlete se.}
-{214}{}{Máte pravdu, nemáme. Ani je toti nepotøebujeme. Máme toti systém, kterı bude rozprašovat F.E.V. ze speciálních kádí pøímo do venkovního ovzduší. Vítr za nás poté udìlá zbytek práce. Ke globálnímu nasycení atmosféry dojde bìhem dvou tıdnù.}
-{215}{}{Dvou tıdnù?}
-{216}{}{Ano, dva tıdny na rozprášení viru a asi tak mìsíc na jeho úèinek. Poté budou Spojené státy pøipraveny na novou kolonizaci opravdovımi lidmi. Náš druh bude zachránìn.}
-{217}{}{Vy si vánì myslíte, e dìláte správnou vìc, e ano?}
-{218}{}{Humánní tedy moc nejste. Radìji odsud vypadnu, jinak se nedoijete rána. Sbohem.}
-{219}{}{Váš druh moná ano, ale vy urèitì ne.}
-{220}{}{Ano, myslím. ádná cena není dost vysoká pro pøeití jednoho druhu.}
-{221}{}{S tím s vámi souhlasím, ale nezdá se vám, e "mutanti", jak je nazıváte, jsou jen jinım typem lidskıch bytostí?}
-{222}{}{S tím s vámi souhlasím, doktore. Myslím, e zaènu rozdávat rány za nás mutanty. A zaènu s vámi!}
-{223}{}{Øekl jsem vám, e potøebuji chvíli na rozmyšlenou.}
-{224}{}{Opravdu potøebuji nìjakı èas na pøemıšlení.}
-{225}{}{Není to snadné rozhodnutí.}
-{226}{}{Musím o tom pøemıšlet.}
-{227}{}{Dejte mi chvíli, ano?}
-{228}{}{Nerad to pøipouštím, ale asi máte pravdu. To, co jsme naplánovali, nebylo správné. Byl jsem natolik zaslepenı øešením problémù, e jsem vùbec nepøemıšlel o mravních zásadách tohoto poslání.}
-{229}{}{No a teï kdy jste si to rozmyslel, mìl byste ten virus znièit.}
-{230}{}{To by... ne, to by nemìlo smysl.}
-{231}{}{Proè ne?}
-{232}{}{Protoe by se tím nic nevyøešilo. I kdy budu mrtvı, stále je v Navarru spousta dat z vızkumu, z nich by nebyl problém replikovat moji práci. Chtìlo by to nìco velmi drastického.}
-{233}{}{Velmi drastického? Co tím myslíte?}
-{234}{}{Enkláva musí bıt znièena. Úplnì znièena. Pokud k tomu nedojde, tak prostì nashromádíme veškerá potøebná data a zaèneme odznovu nìkde jinde.}
-{235}{}{Je mi líto, e nìco takového slyším. Jakı zpùsob znièení Enklávy navrhujete, doktore?}
-{236}{}{Myslím, e nejlepší by bylo vypuštìní F.E.V. toxinu do vìtracího systému. Jeliko je Enkláva hermeticky uzavøenı systém, mìlo by to zasáhnout kadého.}
-{237}{}{A co moji lidé? Nebo já? Nebo vy, napøíklad?}
-{238}{}{Mùu vypustit protilátky do vìtracích systémù ve všech celách. Patro s celami má oddìlenı vìtrací systém od zbıvající èásti Enklávy. Všichni si budou myslet, e jsem spustil jen další test. Vám mohu naoèkovat protilátku pøímo teï a tady. (Pøistoupí k tobì se støíkaèkou.)}
-{239}{}{Jau, díky, doktore. Co se stane po vypuštìní F.E.V. toxinu?}
-{240}{}{Hej, poèkejte chvíli. Nechci, abyste mi píchnul tu vìc!}
-{241}{}{Nebude to moc pìkné. Odejdìte odsud jak nejrychleji to pùjde. Radìji budu mít na svìdomí nìkolik tisíc mrtvıch ne nìkolik stovek tisíc. Náš èas je u konce. Naše šance vypršela.}
-{242}{}{Jak osvobodím své lidi z vìzeòské oblasti?}
-{243}{}{Zkuste vypnout energii. Vím, e je reaktor øízen velikım poèítaèem poblí reaktoru, ale nevím, jak ho vypnout.}
-{244}{}{Díky za poskytnuté informace. Na vaši obì budou vzpomínat všichni lidé z celého svìta.}
-{245}{}{No u bylo naèase, abyste koneènì pøišel k rozumu. A teï si pospìšte.}
-{246}{}{Kdy paprsky hvìzd zemi ozáøily,}
+{205}{}{DokonalÃ½? Jak to?}
+{206}{}{NenÃ­ to snad jasnÃ©, mÅ¯j zmutovanÃ½ pÅ™Ã­teli? DÃ­ky mnÄ› je F.E.V. smrtÃ­cÃ­ toxin a dÃ­ky jednomu zÃ¡hadnÃ©mu gÃ©niovi, kterÃ½ si teatrÃ¡lnÄ› Å™Ã­kal VÅ¯dce, funguje pouze na lidi, aÅ¥ uÅ¾ zmutovanÃ© nebo ne.}
+{207}{}{CoÅ¾e?}
+{208}{}{TakÅ¾e to znamenÃ¡, Å¾e mÃ¡me dokonalÃ½ vynÃ¡lez Å™eÅ¡Ã­cÃ­ veÅ¡kerÃ© problÃ©my se skoro-lidskÃ½mi mutanty zamoÅ™ujÃ­cÃ­mi planetu.}
+{209}{}{StÃ¡le nechÃ¡pu, v Äem je "dokonalÃ½."}
+{210}{}{Chci se zeptat na jinÃ½ z vaÅ¡ich blÃ¡znivÃ½ch nÃ¡padÅ¯.}
+{211}{}{F.E.V. toxin napadÃ¡ pouze lidi a ostatnÃ­ch Å¾ivoÄichÅ¯ si vÅ¯bec nevÅ¡Ã­mÃ¡. NejlepÅ¡Ã­ na tom je, Å¾e bÄ›hem jednoho mÄ›sÃ­ce budou vÅ¡ichni mutanti mrtvÃ­ a bez hostitelskÃ½ch organismÅ¯ zanikne i samotnÃ½ F.E.V.}
+{212}{}{Pochybuju, Å¾e mÃ¡te dostatek lÃ©tajÃ­cÃ­ch strojÅ¯ na rozprÃ¡Å¡enÃ­ toxinu po celÃ© planetÄ›.}
+{213}{}{Asi z vÃ¡s udÄ›lÃ¡m hostitele pro nÄ›kolik vysoko-energetickÃ½ch projektilÅ¯. Pomodlete se.}
+{214}{}{MÃ¡te pravdu, nemÃ¡me. Ani je totiÅ¾ nepotÅ™ebujeme. MÃ¡me totiÅ¾ systÃ©m, kterÃ½ bude rozpraÅ¡ovat F.E.V. ze speciÃ¡lnÃ­ch kÃ¡dÃ­ pÅ™Ã­mo do venkovnÃ­ho ovzduÅ¡Ã­. VÃ­tr za nÃ¡s potÃ© udÄ›lÃ¡ zbytek prÃ¡ce. Ke globÃ¡lnÃ­mu nasycenÃ­ atmosfÃ©ry dojde bÄ›hem dvou tÃ½dnÅ¯.}
+{215}{}{Dvou tÃ½dnÅ¯?}
+{216}{}{Ano, dva tÃ½dny na rozprÃ¡Å¡enÃ­ viru a asi tak mÄ›sÃ­c na jeho ÃºÄinek. PotÃ© budou SpojenÃ© stÃ¡ty pÅ™ipraveny na novou kolonizaci opravdovÃ½mi lidmi. NÃ¡Å¡ druh bude zachrÃ¡nÄ›n.}
+{217}{}{Vy si vÃ¡Å¾nÄ› myslÃ­te, Å¾e dÄ›lÃ¡te sprÃ¡vnou vÄ›c, Å¾e ano?}
+{218}{}{HumÃ¡nnÃ­ tedy moc nejste. RadÄ›ji odsud vypadnu, jinak se nedoÅ¾ijete rÃ¡na. Sbohem.}
+{219}{}{VÃ¡Å¡ druh moÅ¾nÃ¡ ano, ale vy urÄitÄ› ne.}
+{220}{}{Ano, myslÃ­m. Å½Ã¡dnÃ¡ cena nenÃ­ dost vysokÃ¡ pro pÅ™eÅ¾itÃ­ jednoho druhu.}
+{221}{}{S tÃ­m s vÃ¡mi souhlasÃ­m, ale nezdÃ¡ se vÃ¡m, Å¾e "mutanti", jak je nazÃ½vÃ¡te, jsou jen jinÃ½m typem lidskÃ½ch bytostÃ­?}
+{222}{}{S tÃ­m s vÃ¡mi souhlasÃ­m, doktore. MyslÃ­m, Å¾e zaÄnu rozdÃ¡vat rÃ¡ny za nÃ¡s mutanty. A zaÄnu s vÃ¡mi!}
+{223}{}{Å˜ekl jsem vÃ¡m, Å¾e potÅ™ebuji chvÃ­li na rozmyÅ¡lenou.}
+{224}{}{Opravdu potÅ™ebuji nÄ›jakÃ½ Äas na pÅ™emÃ½Å¡lenÃ­.}
+{225}{}{NenÃ­ to snadnÃ© rozhodnutÃ­.}
+{226}{}{MusÃ­m o tom pÅ™emÃ½Å¡let.}
+{227}{}{Dejte mi chvÃ­li, ano?}
+{228}{}{Nerad to pÅ™ipouÅ¡tÃ­m, ale asi mÃ¡te pravdu. To, co jsme naplÃ¡novali, nebylo sprÃ¡vnÃ©. Byl jsem natolik zaslepenÃ½ Å™eÅ¡enÃ­m problÃ©mÅ¯, Å¾e jsem vÅ¯bec nepÅ™emÃ½Å¡lel o mravnÃ­ch zÃ¡sadÃ¡ch tohoto poslÃ¡nÃ­.}
+{229}{}{No a teÄ kdyÅ¾ jste si to rozmyslel, mÄ›l byste ten virus zniÄit.}
+{230}{}{To by... ne, to by nemÄ›lo smysl.}
+{231}{}{ProÄ ne?}
+{232}{}{ProtoÅ¾e by se tÃ­m nic nevyÅ™eÅ¡ilo. I kdyÅ¾ budu mrtvÃ½, stÃ¡le je v Navarru spousta dat z vÃ½zkumu, z nichÅ¾ by nebyl problÃ©m replikovat moji prÃ¡ci. ChtÄ›lo by to nÄ›co velmi drastickÃ©ho.}
+{233}{}{Velmi drastickÃ©ho? Co tÃ­m myslÃ­te?}
+{234}{}{EnklÃ¡va musÃ­ bÃ½t zniÄena. ÃšplnÄ› zniÄena. Pokud k tomu nedojde, tak prostÄ› nashromÃ¡Å¾dÃ­me veÅ¡kerÃ¡ potÅ™ebnÃ¡ data a zaÄneme odznovu nÄ›kde jinde.}
+{235}{}{Je mi lÃ­to, Å¾e nÄ›co takovÃ©ho slyÅ¡Ã­m. JakÃ½ zpÅ¯sob zniÄenÃ­ EnklÃ¡vy navrhujete, doktore?}
+{236}{}{MyslÃ­m, Å¾e nejlepÅ¡Ã­ by bylo vypuÅ¡tÄ›nÃ­ F.E.V. toxinu do vÄ›tracÃ­ho systÃ©mu. JelikoÅ¾ je EnklÃ¡va hermeticky uzavÅ™enÃ½ systÃ©m, mÄ›lo by to zasÃ¡hnout kaÅ¾dÃ©ho.}
+{237}{}{A co moji lidÃ©? Nebo jÃ¡? Nebo vy, napÅ™Ã­klad?}
+{238}{}{MÅ¯Å¾u vypustit protilÃ¡tky do vÄ›tracÃ­ch systÃ©mÅ¯ ve vÅ¡ech celÃ¡ch. Patro s celami mÃ¡ oddÄ›lenÃ½ vÄ›tracÃ­ systÃ©m od zbÃ½vajÃ­cÃ­ ÄÃ¡sti EnklÃ¡vy. VÅ¡ichni si budou myslet, Å¾e jsem spustil jen dalÅ¡Ã­ test. VÃ¡m mohu naoÄkovat protilÃ¡tku pÅ™Ã­mo teÄ a tady. (PÅ™istoupÃ­ k tobÄ› se stÅ™Ã­kaÄkou.)}
+{239}{}{Jau, dÃ­ky, doktore. Co se stane po vypuÅ¡tÄ›nÃ­ F.E.V. toxinu?}
+{240}{}{Hej, poÄkejte chvÃ­li. Nechci, abyste mi pÃ­chnul tu vÄ›c!}
+{241}{}{Nebude to moc pÄ›knÃ©. OdejdÄ›te odsud jak nejrychleji to pÅ¯jde. RadÄ›ji budu mÃ­t na svÄ›domÃ­ nÄ›kolik tisÃ­c mrtvÃ½ch neÅ¾ nÄ›kolik stovek tisÃ­c. NÃ¡Å¡ Äas je u konce. NaÅ¡e Å¡ance vyprÅ¡ela.}
+{242}{}{Jak osvobodÃ­m svÃ© lidi z vÄ›zeÅˆskÃ© oblasti?}
+{243}{}{Zkuste vypnout energii. VÃ­m, Å¾e je reaktor Å™Ã­zen velikÃ½m poÄÃ­taÄem poblÃ­Å¾ reaktoru, ale nevÃ­m, jak ho vypnout.}
+{244}{}{DÃ­ky za poskytnutÃ© informace. Na vaÅ¡i obÄ›Å¥ budou vzpomÃ­nat vÅ¡ichni lidÃ© z celÃ©ho svÄ›ta.}
+{245}{}{No uÅ¾ bylo naÄase, abyste koneÄnÄ› pÅ™iÅ¡el k rozumu. A teÄ si pospÄ›Å¡te.}
+{246}{}{KdyÅ¾ paprsky hvÄ›zd zemi ozÃ¡Å™ily,}
 {247}{}{a jejich slzy nebe zaplavily,}
-{248}{}{usmál se, kdy spatøil dílo své?}
-{249}{}{Stvoøil krom Beránka boího i tìlo tvé?}
+{248}{}{usmÃ¡l se, kdyÅ¾ spatÅ™il dÃ­lo svÃ©?}
+{249}{}{StvoÅ™il krom BerÃ¡nka boÅ¾Ã­ho i tÄ›lo tvÃ©?}
 {250}{}{He?}
-{251}{}{To jsem si jen vzpomnìl na jednu dávno zapomenutou báseò. Zajímalo by mì, zda-li je v nebi ještì místo pro ty, kteøí pracovali na tak temném poslání. Náš èas vypršel, váš naopak právì zaèíná. Bìte!}
-{252}{}{Aha, dobøe. Díky za pomoc, doktore. Jste stateènı mu.}
-{253}{}{Jste blázen... ale uiteènı blázen. Sbohem.}
-{254}{}{Bìte!}
+{251}{}{To jsem si jen vzpomnÄ›l na jednu dÃ¡vno zapomenutou bÃ¡seÅˆ. ZajÃ­malo by mÄ›, zda-li je v nebi jeÅ¡tÄ› mÃ­sto pro ty, kteÅ™Ã­ pracovali na tak temnÃ©m poslÃ¡nÃ­. NÃ¡Å¡ Äas vyprÅ¡el, vÃ¡Å¡ naopak prÃ¡vÄ› zaÄÃ­nÃ¡. BÄ›Å¾te!}
+{252}{}{Aha, dobÅ™e. DÃ­ky za pomoc, doktore. Jste stateÄnÃ½ muÅ¾.}
+{253}{}{Jste blÃ¡zen... ale uÅ¾iteÄnÃ½ blÃ¡zen. Sbohem.}
+{254}{}{BÄ›Å¾te!}
 {255}{}{Zmizte odsud.}
-{256}{}{Pospìšte si!}
-{257}{}{Nemáte moc èasu!}
-{258}{}{Bìte odtud, dokud mùete!}
-{259}{}{Copak to nechápete? Bez protilátky zemøete bìhem nìkolika hodin.}
-{260}{}{No dobøe, v tom pøípadì mi to teda píchnìte, doktore. Co se stane po vypuštìní F.E.V. toxinu?}
-{261}{}{ádné jehly, ani omylem. Já u si nìjak poradím.}
-{262}{}{Nikdy se ke svım lidem nedostanete, pokud nebudete naoèkován. Co je to s vámi? Snad se nebojíte malého píchnutí?}
-{263}{}{Samozøejmì, e ne... pokud se na to nebudu dívat. Jauvajs! No a co se vlastnì stane po vypuštìní F.E.V. toxinu?}
+{256}{}{PospÄ›Å¡te si!}
+{257}{}{NemÃ¡te moc Äasu!}
+{258}{}{BÄ›Å¾te odtud, dokud mÅ¯Å¾ete!}
+{259}{}{Copak to nechÃ¡pete? Bez protilÃ¡tky zemÅ™ete bÄ›hem nÄ›kolika hodin.}
+{260}{}{No dobÅ™e, v tom pÅ™Ã­padÄ› mi to teda pÃ­chnÄ›te, doktore. Co se stane po vypuÅ¡tÄ›nÃ­ F.E.V. toxinu?}
+{261}{}{Å½Ã¡dnÃ© jehly, ani omylem. JÃ¡ uÅ¾ si nÄ›jak poradÃ­m.}
+{262}{}{Nikdy se ke svÃ½m lidem nedostanete, pokud nebudete naoÄkovÃ¡n. Co je to s vÃ¡mi? Snad se nebojÃ­te malÃ©ho pÃ­chnutÃ­?}
+{263}{}{SamozÅ™ejmÄ›, Å¾e ne... pokud se na to nebudu dÃ­vat. Jauvajs! No a co se vlastnÄ› stane po vypuÅ¡tÄ›nÃ­ F.E.V. toxinu?}

@@ -1,127 +1,127 @@
-{100}{}{Vidíš prokonsula Gregoryho.}
-{101}{}{Vidíš byrokrata s vánım vırazem, úzkou hlavou a hustım oboèím.}
-{102}{}{Vidíš prokonsula Gregoryho.}
-{103}{}{Vidíš byrokrata s vánım vırazem, úzkou hlavou a hustım oboèím.}
-{104}{}{Za svùj stateènı èin získáváš plnı pøístup do Vault City. Jo... a První Obèanka øíkala, e by tì chtìla vidìt.}
-{105}{}{Vetøelec! Stráe! Stráe!}
-{106}{}{Kd...?! Mutant! STRÁE! STRÁE!}
-{107}{}{Kd...? Ghoul! STRÁE! STRÁE!}
-{108}{}{Dobrı den, Kapitáne.}
-{109}{}{Vault City vdy zvítìzí, Kapitáne.}
-{110}{}{Zdravíèko, Obèane.}
-{111}{}{Vault City vdy zvítìzí, Obèane.}
-{112}{}{Seznamy, seznamy a zase jenom seznamy... jak já miluji seznamy!}
-{113}{}{Zpracovávám formuláø 5632 k odeslání do rozesílacího serveru...}
-{114}{}{Vytváøím seznam seznamù 43A a 121B... a pak jej zadám do archívu...}
-{115}{}{Jakı pøekrásnı den k tvorbì seznamù.}
-{116}{}{Musím ještì dokonèit tyhle seznamy, ne pùjdu spát...}
-{117}{}{Pøijïte ráno, prosím. Musím dokonèit tyhle seznamy.}
-{118}{}{Špinavı mutante...}
-{119}{}{Nechápu, jak se nìkdo takovı jako vy mohl stát Obèanem. Pro mì nejste nic ne mutant. Ké by mì tak nìkdo vìøil...}
-{120}{}{Nechápu, jak se nìkdo takovı jako vy mohl stát Kapitánem. Pro mì nejste nic ne mutant. Ké by mì tak nìkdo vìøil...}
-{121}{}{Promiòte... mohu vám s nìèím pomoci?}
-{122}{}{Nìco pomoèit?}
+{100}{}{VidÃ­Å¡ prokonsula Gregoryho.}
+{101}{}{VidÃ­Å¡ byrokrata s vÃ¡Å¾nÃ½m vÃ½razem, Ãºzkou hlavou a hustÃ½m oboÄÃ­m.}
+{102}{}{VidÃ­Å¡ prokonsula Gregoryho.}
+{103}{}{VidÃ­Å¡ byrokrata s vÃ¡Å¾nÃ½m vÃ½razem, Ãºzkou hlavou a hustÃ½m oboÄÃ­m.}
+{104}{}{Za svÅ¯j stateÄnÃ½ Äin zÃ­skÃ¡vÃ¡Å¡ plnÃ½ pÅ™Ã­stup do Vault City. Jo... a PrvnÃ­ ObÄanka Å™Ã­kala, Å¾e by tÄ› chtÄ›la vidÄ›t.}
+{105}{}{VetÅ™elec! StrÃ¡Å¾e! StrÃ¡Å¾e!}
+{106}{}{Kd...?! Mutant! STRÃÅ½E! STRÃÅ½E!}
+{107}{}{Kd...? Ghoul! STRÃÅ½E! STRÃÅ½E!}
+{108}{}{DobrÃ½ den, KapitÃ¡ne.}
+{109}{}{Vault City vÅ¾dy zvÃ­tÄ›zÃ­, KapitÃ¡ne.}
+{110}{}{ZdravÃ­Äko, ObÄane.}
+{111}{}{Vault City vÅ¾dy zvÃ­tÄ›zÃ­, ObÄane.}
+{112}{}{Seznamy, seznamy a zase jenom seznamy... jak jÃ¡ miluji seznamy!}
+{113}{}{ZpracovÃ¡vÃ¡m formulÃ¡Å™ 5632 k odeslÃ¡nÃ­ do rozesÃ­lacÃ­ho serveru...}
+{114}{}{VytvÃ¡Å™Ã­m seznam seznamÅ¯ 43A aÅ¾ 121B... a pak jej zadÃ¡m do archÃ­vu...}
+{115}{}{JakÃ½ pÅ™ekrÃ¡snÃ½ den k tvorbÄ› seznamÅ¯.}
+{116}{}{MusÃ­m jeÅ¡tÄ› dokonÄit tyhle seznamy, neÅ¾ pÅ¯jdu spÃ¡t...}
+{117}{}{PÅ™ijÄte rÃ¡no, prosÃ­m. MusÃ­m dokonÄit tyhle seznamy.}
+{118}{}{Å pinavÃ½ mutante...}
+{119}{}{NechÃ¡pu, jak se nÄ›kdo takovÃ½ jako vy mohl stÃ¡t ObÄanem. Pro mÄ› nejste nic neÅ¾ mutant. KÃ©Å¾ by mÄ› tak nÄ›kdo vÄ›Å™il...}
+{120}{}{NechÃ¡pu, jak se nÄ›kdo takovÃ½ jako vy mohl stÃ¡t KapitÃ¡nem. Pro mÄ› nejste nic neÅ¾ mutant. KÃ©Å¾ by mÄ› tak nÄ›kdo vÄ›Å™il...}
+{121}{}{PromiÅˆte... mohu vÃ¡m s nÄ›ÄÃ­m pomoci?}
+{122}{}{NÄ›co pomoÄit?}
 {123}{}{Odbelhat se.}
 {124}{}{Kdo jsi?}
-{125}{}{Jen se dívám, díky.}
-{126}{}{DALŠÍ sluebník, co se ztratil?! Asi dám brzy Barkuse do hlášení, jestli je bude poøád nechávat bez dozoru... a teï zmizte... vystøelte! Vystøelte!}
-{127}{}{Støílet? Dobøe.}
+{125}{}{Jen se dÃ­vÃ¡m, dÃ­ky.}
+{126}{}{DALÅ Ã sluÅ¾ebnÃ­k, co se ztratil?! Asi dÃ¡m brzy Barkuse do hlÃ¡Å¡enÃ­, jestli je bude poÅ™Ã¡d nechÃ¡vat bez dozoru... a teÄ zmizte... vystÅ™elte! VystÅ™elte!}
+{127}{}{StÅ™Ã­let? DobÅ™e.}
 {128}{}{Odbelhat se.}
-{129}{}{*Tststs* Ti sluebníci jsou èím dál hloupìjší.}
-{130}{}{Jsem prokonzul Gregory. Je tohle úøad, kterı hledáte, nebo...?}
+{129}{}{*Tststs* Ti sluÅ¾ebnÃ­ci jsou ÄÃ­m dÃ¡l hloupÄ›jÅ¡Ã­.}
+{130}{}{Jsem prokonzul Gregory. Je tohle ÃºÅ™ad, kterÃ½ hledÃ¡te, nebo...?}
 {131}{}{"Prokonzul?" Co je sakra "prokonzul?"}
-{132}{}{Co tady dìláš?}
-{133}{}{Jen se dívám, díky.}
-{134}{}{Jsem ASISTENT První Obèanky. Plánuji jí schùze, mám na starosti testy udìlování Obèanství pro pøípadné uchazeèe a spravuji všechny seznamy na serveru Vault City. Není to nic jednoduchého, to vás mohu ujistit.}
-{135}{}{Testy pro udìlování Obèanství?}
-{136}{}{Kdy u jste se zmínil o testech pro udìlování Obèanství, chci ho znovu podstoupit.}
-{137}{}{Mùu se tì na nìco zeptat?}
-{138}{}{Aha. No, u musím jít.}
-{139}{}{Ano. Jediná SPRÁVNÁ cesta, jak získat Obèanství, je projít testem.}
-{140}{}{Ano. Všechno, co se tıká testù Obèanství, spadá pode mne. Kdokoliv ho mùe podstoupit a v pøípadì úspìchu se stát Obèanem Vault City.}
-{141}{}{Co je to vlastnì za test?}
+{132}{}{Co tady dÄ›lÃ¡Å¡?}
+{133}{}{Jen se dÃ­vÃ¡m, dÃ­ky.}
+{134}{}{Jsem ASISTENT PrvnÃ­ ObÄanky. PlÃ¡nuji jÃ­ schÅ¯ze, mÃ¡m na starosti testy udÄ›lovÃ¡nÃ­ ObÄanstvÃ­ pro pÅ™Ã­padnÃ© uchazeÄe a spravuji vÅ¡echny seznamy na serveru Vault City. NenÃ­ to nic jednoduchÃ©ho, to vÃ¡s mohu ujistit.}
+{135}{}{Testy pro udÄ›lovÃ¡nÃ­ ObÄanstvÃ­?}
+{136}{}{KdyÅ¾ uÅ¾ jste se zmÃ­nil o testech pro udÄ›lovÃ¡nÃ­ ObÄanstvÃ­, chci ho znovu podstoupit.}
+{137}{}{MÅ¯Å¾u se tÄ› na nÄ›co zeptat?}
+{138}{}{Aha. No, uÅ¾ musÃ­m jÃ­t.}
+{139}{}{Ano. JedinÃ¡ SPRÃVNÃ cesta, jak zÃ­skat ObÄanstvÃ­, je projÃ­t testem.}
+{140}{}{Ano. VÅ¡echno, co se tÃ½kÃ¡ testÅ¯ ObÄanstvÃ­, spadÃ¡ pode mne. Kdokoliv ho mÅ¯Å¾e podstoupit a v pÅ™Ã­padÄ› ÃºspÄ›chu se stÃ¡t ObÄanem Vault City.}
+{141}{}{Co je to vlastnÄ› za test?}
 {142}{}{Chci znovu podstoupit ten test.}
-{143}{}{Jaké z toho budu mít vıhody, kdy budu Obèan?}
-{144}{}{Mùu se vás ještì na nìco zeptat?}
-{145}{}{Aha. Moná si promluvíme nìkdy jindy.}
-{146}{}{Vıhody? Rozhlédnìte se kolem... Vault City je nejbezpeènìjší a nejprosperující mìsto široko daleko. Obèané mají zdarma lékaøské ošetøení, máme spoustu vody a jídla a slovo kriminalita tu vùbec neznáme.}
-{147}{}{Co je to vlastnì za test?}
-{148}{}{To zní dobøe. Chci znovu podstoupit ten test.}
-{149}{}{Mùu se vás ještì na nìco zeptat?}
-{150}{}{Aha. Moná si promluvíme nìkdy jindy.}
-{151}{}{Jedná se o test rozdìlenı do nìkolika èástí... pokroèilá matematika, prostorové vnímání, deduktivní uvaování, jazykové znalosti... a také dùkladné vyšetøení fyzického stavu.}
-{152}{}{Co... pokroèilá mat-ko-tika? Ehm... a není nìjaká jiná monost, jak získat nebo vybojovat Obèanství?}
-{153}{}{To zní... komplikovanì. Eh, mùu ten test podstoupit?}
-{154}{}{To zní obtínì, ale i pøesto chci ten test podstoupit.}
-{155}{}{To zní jednoduše. Chci podstoupit test Obèanství.}
-{156}{}{A to netestujete tøeba zrak nebo logické uvaování? Hmmm. No, moná byste o tom mìli v budoucnu uvaovat... a ten test podstoupím.}
-{157}{}{Aha. Mùu mít nìjaké jiné otázky?}
-{158}{}{Zajímavé. Díky za váš èas.}
-{159}{}{No, pokud dokonèíte ten úkol pro První Obèanku, získáte Obèanství, i kdy to není správné. Ale asi má pro to své dùvody.}
-{160}{}{Ne. Jestli chcete bıt Obèanem, musíte splnit ten test.}
-{161}{}{Nesouhlasíte snad s její nabídkou udìlení Obèanství za splnìní toho úkolu?}
-{162}{}{Zkusím ten test podstoupit.}
+{143}{}{JakÃ© z toho budu mÃ­t vÃ½hody, kdyÅ¾ budu ObÄan?}
+{144}{}{MÅ¯Å¾u se vÃ¡s jeÅ¡tÄ› na nÄ›co zeptat?}
+{145}{}{Aha. MoÅ¾nÃ¡ si promluvÃ­me nÄ›kdy jindy.}
+{146}{}{VÃ½hody? RozhlÃ©dnÄ›te se kolem... Vault City je nejbezpeÄnÄ›jÅ¡Ã­ a nejprosperujÃ­cÃ­ mÄ›sto Å¡iroko daleko. ObÄanÃ© majÃ­ zdarma lÃ©kaÅ™skÃ© oÅ¡etÅ™enÃ­, mÃ¡me spoustu vody a jÃ­dla a slovo kriminalita tu vÅ¯bec neznÃ¡me.}
+{147}{}{Co je to vlastnÄ› za test?}
+{148}{}{To znÃ­ dobÅ™e. Chci znovu podstoupit ten test.}
+{149}{}{MÅ¯Å¾u se vÃ¡s jeÅ¡tÄ› na nÄ›co zeptat?}
+{150}{}{Aha. MoÅ¾nÃ¡ si promluvÃ­me nÄ›kdy jindy.}
+{151}{}{JednÃ¡ se o test rozdÄ›lenÃ½ do nÄ›kolika ÄÃ¡stÃ­... pokroÄilÃ¡ matematika, prostorovÃ© vnÃ­mÃ¡nÃ­, deduktivnÃ­ uvaÅ¾ovÃ¡nÃ­, jazykovÃ© znalosti... a takÃ© dÅ¯kladnÃ© vyÅ¡etÅ™enÃ­ fyzickÃ©ho stavu.}
+{152}{}{Co... pokroÄilÃ¡ mat-ko-tika? Ehm... a nenÃ­ nÄ›jakÃ¡ jinÃ¡ moÅ¾nost, jak zÃ­skat nebo vybojovat ObÄanstvÃ­?}
+{153}{}{To znÃ­... komplikovanÄ›. Eh, mÅ¯Å¾u ten test podstoupit?}
+{154}{}{To znÃ­ obtÃ­Å¾nÄ›, ale i pÅ™esto chci ten test podstoupit.}
+{155}{}{To znÃ­ jednoduÅ¡e. Chci podstoupit test ObÄanstvÃ­.}
+{156}{}{A to netestujete tÅ™eba zrak nebo logickÃ© uvaÅ¾ovÃ¡nÃ­? Hmmm. No, moÅ¾nÃ¡ byste o tom mÄ›li v budoucnu uvaÅ¾ovat... aÅ¾ ten test podstoupÃ­m.}
+{157}{}{Aha. MÅ¯Å¾u mÃ­t nÄ›jakÃ© jinÃ© otÃ¡zky?}
+{158}{}{ZajÃ­mavÃ©. DÃ­ky za vÃ¡Å¡ Äas.}
+{159}{}{No, pokud dokonÄÃ­te ten Ãºkol pro PrvnÃ­ ObÄanku, zÃ­skÃ¡te ObÄanstvÃ­, i kdyÅ¾ to nenÃ­ sprÃ¡vnÃ©. Ale asi mÃ¡ pro to svÃ© dÅ¯vody.}
+{160}{}{Ne. Jestli chcete bÃ½t ObÄanem, musÃ­te splnit ten test.}
+{161}{}{NesouhlasÃ­te snad s jejÃ­ nabÃ­dkou udÄ›lenÃ­ ObÄanstvÃ­ za splnÄ›nÃ­ toho Ãºkolu?}
+{162}{}{ZkusÃ­m ten test podstoupit.}
 {163}{}{Chci ten test znovu podstoupit.}
-{164}{}{Hmmm. Mùu mít nìjaké další otázky?}
-{165}{}{Díky za tvùj èas. Sbohem.}
-{166}{}{Pøejete si podstoupit test? Vıbornì, vıbornì! Nic mi nedìlá vìtší radost, ne testování uchazeèù... ale musím vás varovat, zabere to nìkolik hodin. Pøejete si ho podstoupit hned?}
-{167}{}{Inu, kdokoliv mùe podstoupit test. Avšak mám takovı dojem... myslím si, e v tomto pøípadì to bude jen plıtvání èasem... pro nás pro oba. Obèas se prostì vyskytnou i tací, co nemají na to stát se Obèany.}
-{168}{}{Jasnì.}
-{169}{}{Teï ne. Mùu se zeptat na nìco jiného?}
-{170}{}{Moná nìkdy pøíštì.}
+{164}{}{Hmmm. MÅ¯Å¾u mÃ­t nÄ›jakÃ© dalÅ¡Ã­ otÃ¡zky?}
+{165}{}{DÃ­ky za tvÅ¯j Äas. Sbohem.}
+{166}{}{PÅ™ejete si podstoupit test? VÃ½bornÄ›, vÃ½bornÄ›! Nic mi nedÄ›lÃ¡ vÄ›tÅ¡Ã­ radost, neÅ¾ testovÃ¡nÃ­ uchazeÄÅ¯... ale musÃ­m vÃ¡s varovat, zabere to nÄ›kolik hodin. PÅ™ejete si ho podstoupit hned?}
+{167}{}{Inu, kdokoliv mÅ¯Å¾e podstoupit test. AvÅ¡ak mÃ¡m takovÃ½ dojem... myslÃ­m si, Å¾e v tomto pÅ™Ã­padÄ› to bude jen plÃ½tvÃ¡nÃ­ Äasem... pro nÃ¡s pro oba. ObÄas se prostÄ› vyskytnou i tacÃ­, co nemajÃ­ na to stÃ¡t se ObÄany.}
+{168}{}{JasnÄ›.}
+{169}{}{TeÄ ne. MÅ¯Å¾u se zeptat na nÄ›co jinÃ©ho?}
+{170}{}{MoÅ¾nÃ¡ nÄ›kdy pÅ™Ã­Å¡tÄ›.}
 {171}{}{Chci ten test podstoupit ihned.}
-{172}{}{Tak u mi dejte ten zatracenej test.}
-{173}{}{Zapomeòte na to. Mùu mít nìjaké otázky?}
-{174}{}{No nic. Mizím odsud.}
-{175}{}{Tak dobrá.}
-{176}{}{Dobrá, je to vaše právo, i kdy pochybuji, e to dopadne jinak, ne poslednì.}
-{177}{}{Tady máte formuláøe 5028, 6112 a doplòovací konzoli pro Pip-Boye. Ujistìte se prosím, e máte všechny kolonky KOMPLETNÌ a øádnì vyplnìny. A teï si prosím sednìte támhle...}
-{178}{}{Tak dobøe.}
-{179}{}{Hotovo? Urèitì si nechcete ještì jednou zkontrolovat své odpovìdi?}
-{180}{}{Nue, èas vypršel. Podíváme se na to.}
+{172}{}{Tak uÅ¾ mi dejte ten zatracenej test.}
+{173}{}{ZapomeÅˆte na to. MÅ¯Å¾u mÃ­t nÄ›jakÃ© otÃ¡zky?}
+{174}{}{No nic. MizÃ­m odsud.}
+{175}{}{Tak dobrÃ¡.}
+{176}{}{DobrÃ¡, je to vaÅ¡e prÃ¡vo, i kdyÅ¾ pochybuji, Å¾e to dopadne jinak, neÅ¾ poslednÄ›.}
+{177}{}{Tady mÃ¡te formulÃ¡Å™e 5028, 6112 a doplÅˆovacÃ­ konzoli pro Pip-Boye. UjistÄ›te se prosÃ­m, Å¾e mÃ¡te vÅ¡echny kolonky KOMPLETNÄš a Å™Ã¡dnÄ› vyplnÄ›ny. A teÄ si prosÃ­m sednÄ›te tÃ¡mhle...}
+{178}{}{Tak dobÅ™e.}
+{179}{}{Hotovo? UrÄitÄ› si nechcete jeÅ¡tÄ› jednou zkontrolovat svÃ© odpovÄ›di?}
+{180}{}{NuÅ¾e, Äas vyprÅ¡el. PodÃ­vÃ¡me se na to.}
 {181}{}{Ano, hotovo. Tady to je.}
-{182}{}{Poèkejte! Jenom minutku... no, nevadí. Tady to máte.}
-{183}{}{Hmmm... tak to ne... tohle je špatnì... tohle není dobøe ani jedno... tady zase dìlíte nulou... hmmm... potøebujete k nošení dva... a vidím, e je vaše slovní zásoba nedostateèná.}
-{184}{}{Tak se na to podíváme... tady máte vynechány nìjaké rovnice... zøejmì nemáte ani potuchy o hlavním vıznamu paragrafu sedm, to se tıká obou èástí...  a jehlan v tomto schématu mùe bıt pøekøíen osmkrát, nikoliv tøikrát.}
-{185}{}{No, všechny odpovìdi, které jste STIHL napsat, se zdají bıt v poøádku... ale asi by to chtìlo více èasu... ovšem tady máte neomluvitelné gramatické chyby a...}
-{186}{}{Take...?}
-{187}{}{S politováním vám musím oznámit, e vám nemohu udìlit Obèanství.}
-{188}{}{Abych byl upøímnı, nemáte dostateènou inteligenci k pochopení vyšší matematiky. }
-{189}{}{Jestli mohu nìco øíci, tak vaše chápání prostorového vnímání je naprosto nedostateèné.}
-{190}{}{Tentokrát se vám test pøíliš nepovedl. Snad budete mít pøíštì víc štìstí.}
-{191}{}{Tak snad nìkdy pøíštì.}
-{192}{}{Dobrá, podívám se... nejprve by mì zajímalo, jestli... hmm, velmi dobøe, tohle vám jde. Co takhle... ano, k nošení je zapotøebí dvou... velmi chytré, velmi chytré... ale proè jste... aha, pouíváte derivaci ze strany 5... vynikající!}
-{193}{}{SAMOZØEJMÌ, e je to vynikající.}
-{194}{}{Take... gratuluji vám k úspìšnému sloení testu!}
-{195}{}{Skvìlé. Take jsem teï Obèan?}
-{196}{}{No, ještì musím prohlédnout váš zdravotní stav. Naštìstí jsem tu na to vybaven. Myslím, e bude lepší, kdy si zujete boty.}
-{197}{}{Dobøe.}
-{198}{}{Vy... vy máte šest prstù! Vy jste mutant! Jak si vùbec TROUFÁTE se vetøít mezi nás... vy... vy zrùdo! Zmizte! Vypadnìte! A u se sem nevracejte!}
-{199}{}{Právì nastala chvíle, kdy mi došla trpìlivost a jen tak pro radost zabiju kadého Obèana ve Vault City. A zaènu s vámi.}
-{200}{}{U mizím, u mizím!}
-{201}{}{Váš krevní tlak je v poøádku, ádné nakalivé nemoci také nenacházím... gratuluji, Obèane. Vítejte ve Vault City.}
-{202}{}{Díky. Je dobré tu bıt.}
-{203}{}{Á, to jste zase vy. S èím vám mohu pomoci?}
-{204}{}{Pøedpokládám... e chcete nìco vìdìt?}
-{205}{}{Mùu se ještì jednou zeptat, co tu dìláte?}
-{206}{}{Mùu podstoupit test Obèanství?}
-{207}{}{Mùu znovu podstoupit test Obèanství?}
-{208}{}{Co mi mùete øíct o Gecku?}
-{209}{}{Zapomeòte na to. Moná si promluvíme pozdìji.}
-{210}{}{No, pokud dokonèíte ten úkol pro První Obèanku, získáte Obèanství, i kdy to není správné. Ale asi má pro to své dùvody.}
-{211}{}{Je nìjakı jinı zpùsob, jak se stát Obèanem?}
-{212}{}{Nesouhlasíte snad s její nabídkou udìlení Obèanství za splnìní toho úkolu?}
-{213}{}{Mùu se vás ještì na nìco zeptat?}
+{182}{}{PoÄkejte! Jenom minutku... no, nevadÃ­. Tady to mÃ¡te.}
+{183}{}{Hmmm... tak to ne... tohle je Å¡patnÄ›... tohle nenÃ­ dobÅ™e ani jedno... tady zase dÄ›lÃ­te nulou... hmmm... potÅ™ebujete k noÅ¡enÃ­ dva... a vidÃ­m, Å¾e je vaÅ¡e slovnÃ­ zÃ¡soba nedostateÄnÃ¡.}
+{184}{}{Tak se na to podÃ­vÃ¡me... tady mÃ¡te vynechÃ¡ny nÄ›jakÃ© rovnice... zÅ™ejmÄ› nemÃ¡te ani potuchy o hlavnÃ­m vÃ½znamu paragrafu sedm, to se tÃ½kÃ¡ obou ÄÃ¡stÃ­...  a jehlan v tomto schÃ©matu mÅ¯Å¾e bÃ½t pÅ™ekÅ™Ã­Å¾en osmkrÃ¡t, nikoliv tÅ™ikrÃ¡t.}
+{185}{}{No, vÅ¡echny odpovÄ›di, kterÃ© jste STIHL napsat, se zdajÃ­ bÃ½t v poÅ™Ã¡dku... ale asi by to chtÄ›lo vÃ­ce Äasu... ovÅ¡em tady mÃ¡te neomluvitelnÃ© gramatickÃ© chyby a...}
+{186}{}{TakÅ¾e...?}
+{187}{}{S politovÃ¡nÃ­m vÃ¡m musÃ­m oznÃ¡mit, Å¾e vÃ¡m nemohu udÄ›lit ObÄanstvÃ­.}
+{188}{}{Abych byl upÅ™Ã­mnÃ½, nemÃ¡te dostateÄnou inteligenci k pochopenÃ­ vyÅ¡Å¡Ã­ matematiky. }
+{189}{}{Jestli mohu nÄ›co Å™Ã­ci, tak vaÅ¡e chÃ¡pÃ¡nÃ­ prostorovÃ©ho vnÃ­mÃ¡nÃ­ je naprosto nedostateÄnÃ©.}
+{190}{}{TentokrÃ¡t se vÃ¡m test pÅ™Ã­liÅ¡ nepovedl. Snad budete mÃ­t pÅ™Ã­Å¡tÄ› vÃ­c Å¡tÄ›stÃ­.}
+{191}{}{Tak snad nÄ›kdy pÅ™Ã­Å¡tÄ›.}
+{192}{}{DobrÃ¡, podÃ­vÃ¡m se... nejprve by mÄ› zajÃ­malo, jestli... hmm, velmi dobÅ™e, tohle vÃ¡m jde. Co takhle... ano, k noÅ¡enÃ­ je zapotÅ™ebÃ­ dvou... velmi chytrÃ©, velmi chytrÃ©... ale proÄ jste... aha, pouÅ¾Ã­vÃ¡te derivaci ze strany 5... vynikajÃ­cÃ­!}
+{193}{}{SAMOZÅ˜EJMÄš, Å¾e je to vynikajÃ­cÃ­.}
+{194}{}{TakÅ¾e... gratuluji vÃ¡m k ÃºspÄ›Å¡nÃ©mu sloÅ¾enÃ­ testu!}
+{195}{}{SkvÄ›lÃ©. TakÅ¾e jsem teÄ ObÄan?}
+{196}{}{No, jeÅ¡tÄ› musÃ­m prohlÃ©dnout vÃ¡Å¡ zdravotnÃ­ stav. NaÅ¡tÄ›stÃ­ jsem tu na to vybaven. MyslÃ­m, Å¾e bude lepÅ¡Ã­, kdyÅ¾ si zujete boty.}
+{197}{}{DobÅ™e.}
+{198}{}{Vy... vy mÃ¡te Å¡est prstÅ¯! Vy jste mutant! Jak si vÅ¯bec TROUFÃTE se vetÅ™Ã­t mezi nÃ¡s... vy... vy zrÅ¯do! Zmizte! VypadnÄ›te! A uÅ¾ se sem nevracejte!}
+{199}{}{PrÃ¡vÄ› nastala chvÃ­le, kdy mi doÅ¡la trpÄ›livost a jen tak pro radost zabiju kaÅ¾dÃ©ho ObÄana ve Vault City. A zaÄnu s vÃ¡mi.}
+{200}{}{UÅ¾ mizÃ­m, uÅ¾ mizÃ­m!}
+{201}{}{VÃ¡Å¡ krevnÃ­ tlak je v poÅ™Ã¡dku, Å¾Ã¡dnÃ© nakaÅ¾livÃ© nemoci takÃ© nenachÃ¡zÃ­m... gratuluji, ObÄane. VÃ­tejte ve Vault City.}
+{202}{}{DÃ­ky. Je dobrÃ© tu bÃ½t.}
+{203}{}{Ã, to jste zase vy. S ÄÃ­m vÃ¡m mohu pomoci?}
+{204}{}{PÅ™edpoklÃ¡dÃ¡m... Å¾e chcete nÄ›co vÄ›dÄ›t?}
+{205}{}{MÅ¯Å¾u se jeÅ¡tÄ› jednou zeptat, co tu dÄ›lÃ¡te?}
+{206}{}{MÅ¯Å¾u podstoupit test ObÄanstvÃ­?}
+{207}{}{MÅ¯Å¾u znovu podstoupit test ObÄanstvÃ­?}
+{208}{}{Co mi mÅ¯Å¾ete Å™Ã­ct o Gecku?}
+{209}{}{ZapomeÅˆte na to. MoÅ¾nÃ¡ si promluvÃ­me pozdÄ›ji.}
+{210}{}{No, pokud dokonÄÃ­te ten Ãºkol pro PrvnÃ­ ObÄanku, zÃ­skÃ¡te ObÄanstvÃ­, i kdyÅ¾ to nenÃ­ sprÃ¡vnÃ©. Ale asi mÃ¡ pro to svÃ© dÅ¯vody.}
+{211}{}{Je nÄ›jakÃ½ jinÃ½ zpÅ¯sob, jak se stÃ¡t ObÄanem?}
+{212}{}{NesouhlasÃ­te snad s jejÃ­ nabÃ­dkou udÄ›lenÃ­ ObÄanstvÃ­ za splnÄ›nÃ­ toho Ãºkolu?}
+{213}{}{MÅ¯Å¾u se vÃ¡s jeÅ¡tÄ› na nÄ›co zeptat?}
 {214}{}{Hmm. Sbohem.}
-{215}{}{Nejsem ten pravı èlovìk, abych mohl kritizovat èiny První Obèanky.}
-{216}{}{Je nìjakı jinı zpùsob, jak se stát Obèanem?}
-{217}{}{Mùu se vás ještì na nìco zeptat?}
-{218}{}{Tak na to zapomeò.}
-{219}{}{Gecko? To je špinavá osada na sever odsud, obydlená tìmi tvory... "ghouly." Jsou odpovìdní za otrávení našich podzemních zdrojù vody, víte! Zcela jasnı akt záškodnictví vùèi Vault City!}
-{220}{}{Jak otrávili podzemní zdroje vody?}
-{221}{}{Hmmm. Mùu mít nìjaké další otázky?}
-{222}{}{Díky. Sbohem.}
-{223}{}{Ta jejich osada je toti zbudována poblí zbytkù staré atomové elektrárny... a oni tu elektrárnu NÌJAK uvedli opìt do chodu a teï z ní uniká spousta radiace! Musíme ty tvory odtamtud vyhnat a elektrárnu odstavit!}
-{224}{}{Hmmm. Mùu mít nìjaké další otázky?}
-{225}{}{Díky za informace. Sbohem.}
-{226}{}{Podaøilo se ti úspìšnì sloit test Obèanství a stáváš se tak Obèanem Vault City.}
+{215}{}{Nejsem ten pravÃ½ ÄlovÄ›k, abych mohl kritizovat Äiny PrvnÃ­ ObÄanky.}
+{216}{}{Je nÄ›jakÃ½ jinÃ½ zpÅ¯sob, jak se stÃ¡t ObÄanem?}
+{217}{}{MÅ¯Å¾u se vÃ¡s jeÅ¡tÄ› na nÄ›co zeptat?}
+{218}{}{Tak na to zapomeÅˆ.}
+{219}{}{Gecko? To je Å¡pinavÃ¡ osada na sever odsud, obydlenÃ¡ tÄ›mi tvory... "ghouly." Jsou odpovÄ›dnÃ­ za otrÃ¡venÃ­ naÅ¡ich podzemnÃ­ch zdrojÅ¯ vody, vÃ­te! Zcela jasnÃ½ akt zÃ¡Å¡kodnictvÃ­ vÅ¯Äi Vault City!}
+{220}{}{Jak otrÃ¡vili podzemnÃ­ zdroje vody?}
+{221}{}{Hmmm. MÅ¯Å¾u mÃ­t nÄ›jakÃ© dalÅ¡Ã­ otÃ¡zky?}
+{222}{}{DÃ­ky. Sbohem.}
+{223}{}{Ta jejich osada je totiÅ¾ zbudovÃ¡na poblÃ­Å¾ zbytkÅ¯ starÃ© atomovÃ© elektrÃ¡rny... a oni tu elektrÃ¡rnu NÄšJAK uvedli opÄ›t do chodu a teÄ z nÃ­ unikÃ¡ spousta radiace! MusÃ­me ty tvory odtamtud vyhnat a elektrÃ¡rnu odstavit!}
+{224}{}{Hmmm. MÅ¯Å¾u mÃ­t nÄ›jakÃ© dalÅ¡Ã­ otÃ¡zky?}
+{225}{}{DÃ­ky za informace. Sbohem.}
+{226}{}{PodaÅ™ilo se ti ÃºspÄ›Å¡nÄ› sloÅ¾it test ObÄanstvÃ­ a stÃ¡vÃ¡Å¡ se tak ObÄanem Vault City.}

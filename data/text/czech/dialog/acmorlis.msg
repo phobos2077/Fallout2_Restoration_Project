@@ -1,49 +1,49 @@
-{100}{}{Vidíš jednu ze svıch tet, Morlis. Tu, která tì vdycky nesnášela.}
-{101}{}{Proè otravuješ, synovèe? Nevidíš, e mám práci?}
-{102}{}{Hmm, dobøe. Promiò.}
-{103}{}{O co jde? Nevidíš, e mám spoustu práce?}
-{104}{}{No... Mynoc øíkal...}
-{105}{}{Mynoc øíkal co? Ven s tím, dítì!}
-{106}{}{e, no... e bys mohla mít nìjakı pazourek.}
-{107}{}{Taky e mám. A ty ho teï ode mì budeš chtít, co?}
-{108}{}{Vlastnì... no, ano.}
-{109}{}{Dobrá... chci tøi léèivé prášky. Blíí se zlé èasy a já chci bıt pøipravená. Pøines mi je a já ti dám pazourek. A teï bì!}
+{100}{}{VidÃ­Å¡ jednu ze svÃ½ch tet, Morlis. Tu, kterÃ¡ tÄ› vÅ¾dycky nesnÃ¡Å¡ela.}
+{101}{}{ProÄ otravujeÅ¡, synovÄe? NevidÃ­Å¡, Å¾e mÃ¡m prÃ¡ci?}
+{102}{}{Hmm, dobÅ™e. PromiÅˆ.}
+{103}{}{O co jde? NevidÃ­Å¡, Å¾e mÃ¡m spoustu prÃ¡ce?}
+{104}{}{No... Mynoc Å™Ã­kal...}
+{105}{}{Mynoc Å™Ã­kal co? Ven s tÃ­m, dÃ­tÄ›!}
+{106}{}{Å½e, no... Å¾e bys mohla mÃ­t nÄ›jakÃ½ pazourek.}
+{107}{}{Taky Å¾e mÃ¡m. A ty ho teÄ ode mÄ› budeÅ¡ chtÃ­t, co?}
+{108}{}{VlastnÄ›... no, ano.}
+{109}{}{DobrÃ¡... chci tÅ™i lÃ©ÄivÃ© prÃ¡Å¡ky. BlÃ­Å¾Ã­ se zlÃ© Äasy a jÃ¡ chci bÃ½t pÅ™ipravenÃ¡. PÅ™ines mi je a jÃ¡ ti dÃ¡m pazourek. A teÄ bÄ›Å¾!}
 {110}{}{Ano, madam!}
-{111}{}{Neplıtvej mım èasem. Máš pro mì ty léèivé prášky?}
+{111}{}{NeplÃ½tvej mÃ½m Äasem. MÃ¡Å¡ pro mÄ› ty lÃ©ÄivÃ© prÃ¡Å¡ky?}
 {112}{}{Ano, tady jsou.}
-{113}{}{No... vlastnì ne.}
-{114}{}{Tady je pazourek. A teï odtud zmiz! Nemám èas s tebou klábosit.}
-{115}{}{Dìkuju, teto Morlis.}
-{116}{}{Zase plıtváš mım èasem! Jak se z tebe vùbec mohl stát Vyvolenı?}
+{113}{}{No... vlastnÄ› ne.}
+{114}{}{Tady je pazourek. A teÄ odtud zmiz! NemÃ¡m Äas s tebou klÃ¡bosit.}
+{115}{}{DÄ›kuju, teto Morlis.}
+{116}{}{Zase plÃ½tvÃ¡Å¡ mÃ½m Äasem! Jak se z tebe vÅ¯bec mohl stÃ¡t VyvolenÃ½?}
 {117}{}{Ano, teto Morlis.}
-{118}{}{Éé, teto Morlis, mám s sebou ty tøi prášky.}
-{150}{}{Teto Morlis, jsem na velmi riskantní vıpravì za záchranou naší vesnice. A moje šance na úspìch se dramaticky zvıší, kdy si ty léèivé prášky nechám pro sebe a ty mi dáš ten pazourek. Souhlasíš?}
-{151}{}{Co si myslíš, e dìláš, dítì? Takhle by se Vyvolenı chovat nemìl. A teï mi zmiz z oèí!}
-{152}{}{Pokud je pro tebe ten pazourek tolik dùleitı, e jsi ochotnı zneuctít jméno Vyvoleného, tak prosím. Vezmi si ho a zmiz mi z oèí.}
+{118}{}{Ã‰Ã©, teto Morlis, mÃ¡m s sebou ty tÅ™i prÃ¡Å¡ky.}
+{150}{}{Teto Morlis, jsem na velmi riskantnÃ­ vÃ½pravÄ› za zÃ¡chranou naÅ¡Ã­ vesnice. A moje Å¡ance na ÃºspÄ›ch se dramaticky zvÃ½Å¡Ã­, kdyÅ¾ si ty lÃ©ÄivÃ© prÃ¡Å¡ky nechÃ¡m pro sebe a ty mi dÃ¡Å¡ ten pazourek. SouhlasÃ­Å¡?}
+{151}{}{Co si myslÃ­Å¡, Å¾e dÄ›lÃ¡Å¡, dÃ­tÄ›? Takhle by se VyvolenÃ½ chovat nemÄ›l. A teÄ mi zmiz z oÄÃ­!}
+{152}{}{Pokud je pro tebe ten pazourek tolik dÅ¯leÅ¾itÃ½, Å¾e jsi ochotnÃ½ zneuctÃ­t jmÃ©no VyvolenÃ©ho, tak prosÃ­m. Vezmi si ho a zmiz mi z oÄÃ­.}
 {153}{}{Ano, teto Morlis.}
-{154}{}{No... tak dobrá. Tady je ten pazourek. Pøeju ti bezpeènou cestu, dítì.}
-{155}{}{Ne, nesouhlasím. A teï pøestaò ztrácet mùj èas a zmiz odsud!}
+{154}{}{No... tak dobrÃ¡. Tady je ten pazourek. PÅ™eju ti bezpeÄnou cestu, dÃ­tÄ›.}
+{155}{}{Ne, nesouhlasÃ­m. A teÄ pÅ™estaÅˆ ztrÃ¡cet mÅ¯j Äas a zmiz odsud!}
 {156}{}{Ano, teto Morlis.}
-{200}{}{Vítej zpìt. Co svatá Tøináctka? U víš, kde leí?}
-{201}{}{Ne, teto Morlis, já...}
-{202}{}{No tak odsud rychle vypadni a najdi ji! Jsi naše jediná nadìje!}
+{200}{}{VÃ­tej zpÄ›t. Co svatÃ¡ TÅ™inÃ¡ctka? UÅ¾ vÃ­Å¡, kde leÅ¾Ã­?}
+{201}{}{Ne, teto Morlis, jÃ¡...}
+{202}{}{No tak odsud rychle vypadni a najdi ji! Jsi naÅ¡e jedinÃ¡ nadÄ›je!}
 {203}{}{Ano, teto Morlis.}
-{204}{}{Á, to jsi zase ty. Zase jsi selhal v plnìní svého poslání?}
+{204}{}{Ã, to jsi zase ty. Zase jsi selhal v plnÄ›nÃ­ svÃ©ho poslÃ¡nÃ­?}
 {205}{}{Ano, teto Morlis, ale...}
-{206}{}{Tak odsud vypadni a nevracej se, dokud ho nesplníš! Proè ztrácíš èas návratem sem, kdy místo toho mùeš pokraèovat v pátrání!?}
+{206}{}{Tak odsud vypadni a nevracej se, dokud ho nesplnÃ­Å¡! ProÄ ztrÃ¡cÃ­Å¡ Äas nÃ¡vratem sem, kdyÅ¾ mÃ­sto toho mÅ¯Å¾eÅ¡ pokraÄovat v pÃ¡trÃ¡nÃ­!?}
 {207}{}{Ano, teto Morlis.}
-{208}{}{Skuteènost, e tu stojíš, mùe znamenat jen to, e tvoje vıprava je úspìšnì u konce. Neztrácel bys pøece drahocennı èas návratem s prázdnou, e ne?}
-{209}{}{Ano, teto Morlis. Tedy ne, teto Morlis! Ehm, budu muset jít, teto Morlis.}
-{210}{}{Tak, dítì. Po kolikáté u tady pøede mnou stojíš... zase se vracíš s prázdnou?}
+{208}{}{SkuteÄnost, Å¾e tu stojÃ­Å¡, mÅ¯Å¾e znamenat jen to, Å¾e tvoje vÃ½prava je ÃºspÄ›Å¡nÄ› u konce. NeztrÃ¡cel bys pÅ™ece drahocennÃ½ Äas nÃ¡vratem s prÃ¡zdnou, Å¾e ne?}
+{209}{}{Ano, teto Morlis. Tedy ne, teto Morlis! Ehm, budu muset jÃ­t, teto Morlis.}
+{210}{}{Tak, dÃ­tÄ›. Po kolikÃ¡tÃ© uÅ¾ tady pÅ™ede mnou stojÃ­Å¡... zase se vracÃ­Å¡ s prÃ¡zdnou?}
 {211}{}{Ano, teto Morlis.}
 {212}{}{Poslouchej, }
-{213}{}{. Lidé umírají, dobytek hyne a úroda vadne. Všichni jsme vyhladovìlí, nemocní nebo obojí zároveò. Nezbıvá nám u moc èasu. Pokud brzy nenajdeš GECK, je s námi konec. Rozumíš mi?}
+{213}{}{. LidÃ© umÃ­rajÃ­, dobytek hyne a Ãºroda vadne. VÅ¡ichni jsme vyhladovÄ›lÃ­, nemocnÃ­ nebo obojÃ­ zÃ¡roveÅˆ. NezbÃ½vÃ¡ nÃ¡m uÅ¾ moc Äasu. Pokud brzy nenajdeÅ¡ GECK, je s nÃ¡mi konec. RozumÃ­Å¡ mi?}
 {214}{}{Ano, teto Morlis.}
-{215}{}{Tak odsud padej a najdi GECK! Jsi naše jediná nadìje!}
+{215}{}{Tak odsud padej a najdi GECK! Jsi naÅ¡e jedinÃ¡ nadÄ›je!}
 {216}{}{Ano, teto Morlis.}
-{300}{}{Vypadá to, e jsem ten pazourek nìkam zaloila. No co, alespoò teï mám svoje léèivé prášky. A teï mazej pryè. Nemám èas na to, abych tady s tebou klábosila.}
-{301}{}{Proè otravuješ, neteøi? Nevidíš, e mám práci?}
-{302}{}{Nìjak ten pazourek nemùu najít. Urèitì jsi mi ho sebral, kdy jsem se nedívala. U jsem tì jednou takhle chytla. A teï mazej pryè, darebáku jeden. Nemám èas na to, abych tady s tebou klábosila.}
-{303}{}{Take... ehm, omlouvám se, ale vypadá to, e jsem ten pazourek nìkam zaloila. Pøeju ti bezpeènou cestu, dítì.}
-{304}{}{U jsem ti ten pazourek dala, hlupáku. Teï pøestaò plıtvat mım èasem a vypadni odsud!}
-{305}{}{U jsem ti ten pazourek dala, hlupáku. Dobrá, alespoò teï mám svoje léèivé prášky. A teï padej! Nemám èas na klábosení.}
+{300}{}{VypadÃ¡ to, Å¾e jsem ten pazourek nÄ›kam zaloÅ¾ila. No co, alespoÅˆ teÄ mÃ¡m svoje lÃ©ÄivÃ© prÃ¡Å¡ky. A teÄ mazej pryÄ. NemÃ¡m Äas na to, abych tady s tebou klÃ¡bosila.}
+{301}{}{ProÄ otravujeÅ¡, neteÅ™i? NevidÃ­Å¡, Å¾e mÃ¡m prÃ¡ci?}
+{302}{}{NÄ›jak ten pazourek nemÅ¯Å¾u najÃ­t. UrÄitÄ› jsi mi ho sebral, kdyÅ¾ jsem se nedÃ­vala. UÅ¾ jsem tÄ› jednou takhle chytla. A teÄ mazej pryÄ, darebÃ¡ku jeden. NemÃ¡m Äas na to, abych tady s tebou klÃ¡bosila.}
+{303}{}{TakÅ¾e... ehm, omlouvÃ¡m se, ale vypadÃ¡ to, Å¾e jsem ten pazourek nÄ›kam zaloÅ¾ila. PÅ™eju ti bezpeÄnou cestu, dÃ­tÄ›.}
+{304}{}{UÅ¾ jsem ti ten pazourek dala, hlupÃ¡ku. TeÄ pÅ™estaÅˆ plÃ½tvat mÃ½m Äasem a vypadni odsud!}
+{305}{}{UÅ¾ jsem ti ten pazourek dala, hlupÃ¡ku. DobrÃ¡, alespoÅˆ teÄ mÃ¡m svoje lÃ©ÄivÃ© prÃ¡Å¡ky. A teÄ padej! NemÃ¡m Äas na klÃ¡bosenÃ­.}

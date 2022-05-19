@@ -1,70 +1,70 @@
-{100}{}{Vidíš atraktivní, ale unavenou mladou enu.}
-{101}{}{Vidíš Jenny, lázeòskou obsluhu.}
-{200}{}{Panejo, to bylo ale rychlé, pane. Nejspíš je to pro tebe nìco nového. Trochu se uvolni a budeš z toho mít mnohem vìtší poitek.}
-{201}{}{Díky, Jenny. Mám dojem, e v tomhle opravdu potøebuju víc praxe.}
-{210}{}{To bylo pøíjemné. Zdá se, e víš, jak enu potìšit. Urèitì víc ne vìtšina muù tvého vìku.}
-{211}{}{Jsem rád, e sis to uila stejnì tak jako já.}
-{220}{}{Máš opravdu velikou vıdr. To se mi na mladıch muích líbí. Pøála bych si, aby bylo ve mìstì víc takovıch, jako jsi ty.}
-{221}{}{To byla opravdu pøíjemná koupel, Jenny. Rád bych tu ještì na chvíli zùstal, ale mám nìjakou práci.}
-{230}{}{No, to bylo... zvláštní. Doufám, e se ještì nìkdy zastavíš. Pøíštì bych ráda vyzkoušela nìjaké vlastní nápady.}
-{231}{}{Je fajn bıt s nìkım, kdo pro zmìnu ví, co potøebuju.}
-{240}{}{To byla opravdu zábava. Byla by z tebe opravdová koèka, kdyby ses zbavila tìch divošskıch hadrù. Vùbec by mi nevadilo, kdybys tu ještì chvíli zùstala, sestro. Neuvaovala jsi nìkdy o zmìnì kariéry?}
-{241}{}{Taky jsem se moc pobavila, ale mám na práci ještì spoustu vìcí, ne se budu moct usadit. Kadopádnì dìkuju.}
-{250}{}{Lišíš se od obvyklıch návštìvníkù.}
-{251}{}{Povìz mi, co se dìje ve mìstì.}
-{252}{}{Myslím, e nechci vìdìt, co se tu dìje.}
-{260}{}{Bylo fajn si s tebou povídat, ale budu se muset pøipravit na dalšího zákazníka. Sbohem.}
-{270}{}{Vypadáš ponìkud zmatenì. Jmenuju se Jenny. Mùu ti pomoct?}
-{271}{}{Enny? Ooo hehe. (úsmìv)}
-{272}{}{(pøikıvnout) Pomoc }
-{273}{}{ heská Enny}
+{100}{}{VidÃ­Å¡ atraktivnÃ­, ale unavenou mladou Å¾enu.}
+{101}{}{VidÃ­Å¡ Jenny, lÃ¡zeÅˆskou obsluhu.}
+{200}{}{Panejo, to bylo ale rychlÃ©, pane. NejspÃ­Å¡ je to pro tebe nÄ›co novÃ©ho. Trochu se uvolni a budeÅ¡ z toho mÃ­t mnohem vÄ›tÅ¡Ã­ poÅ¾itek.}
+{201}{}{DÃ­ky, Jenny. MÃ¡m dojem, Å¾e v tomhle opravdu potÅ™ebuju vÃ­c praxe.}
+{210}{}{To bylo pÅ™Ã­jemnÃ©. ZdÃ¡ se, Å¾e vÃ­Å¡, jak Å¾enu potÄ›Å¡it. UrÄitÄ› vÃ­c neÅ¾ vÄ›tÅ¡ina muÅ¾Å¯ tvÃ©ho vÄ›ku.}
+{211}{}{Jsem rÃ¡d, Å¾e sis to uÅ¾ila stejnÄ› tak jako jÃ¡.}
+{220}{}{MÃ¡Å¡ opravdu velikou vÃ½drÅ¾. To se mi na mladÃ½ch muÅ¾Ã­ch lÃ­bÃ­. PÅ™Ã¡la bych si, aby bylo ve mÄ›stÄ› vÃ­c takovÃ½ch, jako jsi ty.}
+{221}{}{To byla opravdu pÅ™Ã­jemnÃ¡ koupel, Jenny. RÃ¡d bych tu jeÅ¡tÄ› na chvÃ­li zÅ¯stal, ale mÃ¡m nÄ›jakou prÃ¡ci.}
+{230}{}{No, to bylo... zvlÃ¡Å¡tnÃ­. DoufÃ¡m, Å¾e se jeÅ¡tÄ› nÄ›kdy zastavÃ­Å¡. PÅ™Ã­Å¡tÄ› bych rÃ¡da vyzkouÅ¡ela nÄ›jakÃ© vlastnÃ­ nÃ¡pady.}
+{231}{}{Je fajn bÃ½t s nÄ›kÃ½m, kdo pro zmÄ›nu vÃ­, co potÅ™ebuju.}
+{240}{}{To byla opravdu zÃ¡bava. Byla by z tebe opravdovÃ¡ koÄka, kdyby ses zbavila tÄ›ch divoÅ¡skÃ½ch hadrÅ¯. VÅ¯bec by mi nevadilo, kdybys tu jeÅ¡tÄ› chvÃ­li zÅ¯stala, sestro. NeuvaÅ¾ovala jsi nÄ›kdy o zmÄ›nÄ› kariÃ©ry?}
+{241}{}{Taky jsem se moc pobavila, ale mÃ¡m na prÃ¡ci jeÅ¡tÄ› spoustu vÄ›cÃ­, neÅ¾ se budu moct usadit. KaÅ¾dopÃ¡dnÄ› dÄ›kuju.}
+{250}{}{LiÅ¡Ã­Å¡ se od obvyklÃ½ch nÃ¡vÅ¡tÄ›vnÃ­kÅ¯.}
+{251}{}{PovÄ›z mi, co se dÄ›je ve mÄ›stÄ›.}
+{252}{}{MyslÃ­m, Å¾e nechci vÄ›dÄ›t, co se tu dÄ›je.}
+{260}{}{Bylo fajn si s tebou povÃ­dat, ale budu se muset pÅ™ipravit na dalÅ¡Ã­ho zÃ¡kaznÃ­ka. Sbohem.}
+{270}{}{VypadÃ¡Å¡ ponÄ›kud zmatenÄ›. Jmenuju se Jenny. MÅ¯Å¾u ti pomoct?}
+{271}{}{Enny? Ooo hehe. (ÃºsmÄ›v)}
+{272}{}{(pÅ™ikÃ½vnout) Pomoc }
+{273}{}{ heskÃ¡ Enny}
 {274}{}{Mami?}
-{280}{}{Hmm, radìji odsud vypadni døív, ne tì najde Nosatá Sally. Nemá ráda idioty ve svém podniku.}
-{290}{}{Co potøebujete vìdìt?}
-{291}{}{Povìz mi o lovcích koešin.}
-{292}{}{Hledám obchodníka. Nevíš o nìkom, kdo obchoduje se starımi vìcmi? Mám teï na mysli vìci z pøedváleèné éry.}
-{293}{}{Nevíš náhodou, jak se odsud dostanu do Denu?}
+{280}{}{Hmm, radÄ›ji odsud vypadni dÅ™Ã­v, neÅ¾ tÄ› najde NosatÃ¡ Sally. NemÃ¡ rÃ¡da idioty ve svÃ©m podniku.}
+{290}{}{Co potÅ™ebujete vÄ›dÄ›t?}
+{291}{}{PovÄ›z mi o lovcÃ­ch koÅ¾eÅ¡in.}
+{292}{}{HledÃ¡m obchodnÃ­ka. NevÃ­Å¡ o nÄ›kom, kdo obchoduje se starÃ½mi vÄ›cmi? MÃ¡m teÄ na mysli vÄ›ci z pÅ™edvÃ¡leÄnÃ© Ã©ry.}
+{293}{}{NevÃ­Å¡ nÃ¡hodou, jak se odsud dostanu do Denu?}
 {294}{}{Nashle.}
-{295}{}{Jenny, neslyšela jsi nìkdy o vìci zvané GECK?}
-{300}{}{No, nevím, co bych ti tak mohla øíct o lovcích koešin. Loví geckony kvùli jejich kùím...nìkdy mají štìstí a narazí na zlaté geckony...no a pak pøijdou sem, aby si odpoèinuli. Jenom na chvíli. Nechtìjí nic sloitého... a pøesnì tak to mám ráda.}
-{301}{}{To bude nejspíš všechno.}
-{302}{}{Zajímavé. Mùu se ještì na nìco zeptat?}
-{310}{}{Zajímají tì obchodníci? No, pracovala jsem jenom pro jednoho. Jmenoval se Vic. Vdycky mìl pro mì nìjaké to dıško, alespoò kdy pracoval. Víš, specializoval se na opravdu staré zboí. Na takové ty technické vìcièky.}
-{311}{}{No, díky za informace. Myslím, e u pùjdu.}
-{312}{}{Povìz mi víc o Vicovi.}
-{313}{}{Chci se ještì na nìco zeptat.}
-{320}{}{Vic byl opravdovı drahoušek. Kolikrát odešel na dlouhé tıdny pryè, pak se najednou vrátil a mìl plno tìch starıch vìcí. Ale èasto musel cestovat do Denu, aby je tam vùbec prodal. Tady se o jeho zboí nikdo pøíliš nezajímal.}
-{321}{}{Kde je teï Vic?}
+{295}{}{Jenny, neslyÅ¡ela jsi nÄ›kdy o vÄ›ci zvanÃ© GECK?}
+{300}{}{No, nevÃ­m, co bych ti tak mohla Å™Ã­ct o lovcÃ­ch koÅ¾eÅ¡in. LovÃ­ geckony kvÅ¯li jejich kÅ¯Å¾Ã­m...nÄ›kdy majÃ­ Å¡tÄ›stÃ­ a narazÃ­ na zlatÃ© geckony...no a pak pÅ™ijdou sem, aby si odpoÄinuli. Jenom na chvÃ­li. NechtÄ›jÃ­ nic sloÅ¾itÃ©ho... a pÅ™esnÄ› tak to mÃ¡m rÃ¡da.}
+{301}{}{To bude nejspÃ­Å¡ vÅ¡echno.}
+{302}{}{ZajÃ­mavÃ©. MÅ¯Å¾u se jeÅ¡tÄ› na nÄ›co zeptat?}
+{310}{}{ZajÃ­majÃ­ tÄ› obchodnÃ­ci? No, pracovala jsem jenom pro jednoho. Jmenoval se Vic. VÅ¾dycky mÄ›l pro mÄ› nÄ›jakÃ© to dÃ½Å¡ko, alespoÅˆ kdyÅ¾ pracoval. VÃ­Å¡, specializoval se na opravdu starÃ© zboÅ¾Ã­. Na takovÃ© ty technickÃ© vÄ›ciÄky.}
+{311}{}{No, dÃ­ky za informace. MyslÃ­m, Å¾e uÅ¾ pÅ¯jdu.}
+{312}{}{PovÄ›z mi vÃ­c o Vicovi.}
+{313}{}{Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{320}{}{Vic byl opravdovÃ½ drahouÅ¡ek. KolikrÃ¡t odeÅ¡el na dlouhÃ© tÃ½dny pryÄ, pak se najednou vrÃ¡til a mÄ›l plno tÄ›ch starÃ½ch vÄ›cÃ­. Ale Äasto musel cestovat do Denu, aby je tam vÅ¯bec prodal. Tady se o jeho zboÅ¾Ã­ nikdo pÅ™Ã­liÅ¡ nezajÃ­mal.}
+{321}{}{Kde je teÄ Vic?}
 {322}{}{Kde je Den?}
-{323}{}{Nevíš, jestli Vic nemìl nìco, co mìlo na sobì znaèku 'Vault-Tec'?}
-{324}{}{Povìz mi ještì o nìèem.}
-{325}{}{Myslím, e to bude všechno.}
-{330}{}{Den je doupì plné násilností a nièemností jihovıchodnì odtud. Asi tak tıden cesty. U si to pøesnì nepamatuju. Kadopádnì je to vzrušující místo. Nebezpeèné, ale vzrušující. Promiò, nechala jsem se trochu unést.}
-{331}{}{Chci se ještì na nìco zeptat.}
-{332}{}{Asi u pùjdu, díky.}
-{340}{}{Nemám ponìtí, kde je. Vím jen, e má dùm na vıchod pøes ulici. Moná nìkde obchoduje s divochy nebo je moná v Denu. Nevím. Jen doufám, e je v poøádku. Byl pro mì trochu víc ne jen obyèejnı zákazník.}
-{341}{}{Doufám, e je v poøádku, u jen kvùli tobì. Chci se ještì na nìco zeptat.}
-{342}{}{Doufám, e se ti brzy vrátí. Myslím, e u pùjdu. Sbohem.}
-{350}{}{Zdravím. Jmenuju se Jenny. Potøebuješ trochu vydrhnout?}
-{351}{}{Eh, ne díky, jen se tu rozhlíím.}
-{352}{}{No, vlastnì... trocha masáe by mi neuškodila (šouchneš do ní a šibalsky mrkneš).}
-{353}{}{No, vlastnì mám pár otázek, na které se tì chci zeptat, pokud ti to nebude vadit.}
-{354}{}{Sháním informace o obchodníkovi, kterı obchoduje s vìcmi z pøedváleèné éry.}
-{360}{}{Zdravím, sleèno. Jmenuju se Jenny. Mùu ti pomoct?}
-{361}{}{Eh, ne. Jenom jsem se chtìla podívat, co tu je. Ale myslím, e radìji pùjdu.}
-{362}{}{Vlastnì bych ráda dostala nìjaké zkrášlující rady od takové roztomilé dámy, jako jsi ty.}
-{363}{}{Chci se tì na nìco zeptat.}
-{364}{}{Sháním informace o jistém obchodníkovi, kterı obchoduje s vìcmi z pøedváleèné éry.}
-{370}{}{No, v tom pøípadì si radìji promluv s Nosatou Sally. Ona se stará o všechny naše obchodní záleitosti a nemá ráda, kdy nìkdo pracuje za jejími zády.}
-{380}{}{Zdravím, fešando. Jmenuju se Jenny. Hledáš tu práci? Jestli se pohybuješ tak dobøe jak vypadáš, mohla by sis tu celkem dobøe vydìlat.}
-{381}{}{Nemám zájem o práci.}
-{382}{}{Mmm, ráda ti ukáu, jak dobøe se pohybuju...v soukromí.}
-{383}{}{Dìkuju, ale myslím, e se chci spíš na nìco zeptat.}
-{384}{}{Hledám informace o jednom obchodníkovi. Obchoduje s pøedváleènımi vìcmi.}
-{390}{}{Vault-Tec? Moná nìco takového mìl. Nejsem si jistá. Vím jen, e mìl spoustu opravdu hodnì starıch vìcí.}
-{391}{}{Dìkuju, Jenny. Chci se ještì na nìco zeptat.}
-{392}{}{No, to bude prozatím vše.}
-{400}{}{Geck? Co je to? Nìjakı druh malého geckona? Je mi líto, ale nevím, co jiného by to mohlo bıt.}
-{401}{}{Dìkuju, Jenny. Chci se ještì na nìco zeptat.}
-{402}{}{No, to bude prozatím vše.}
-{500}{}{(Jenny ti dá facku.) Takhle na mì nesahej, prosím!}
+{323}{}{NevÃ­Å¡, jestli Vic nemÄ›l nÄ›co, co mÄ›lo na sobÄ› znaÄku 'Vault-Tec'?}
+{324}{}{PovÄ›z mi jeÅ¡tÄ› o nÄ›Äem.}
+{325}{}{MyslÃ­m, Å¾e to bude vÅ¡echno.}
+{330}{}{Den je doupÄ› plnÃ© nÃ¡silnostÃ­ a niÄemnostÃ­ jihovÃ½chodnÄ› odtud. Asi tak tÃ½den cesty. UÅ¾ si to pÅ™esnÄ› nepamatuju. KaÅ¾dopÃ¡dnÄ› je to vzruÅ¡ujÃ­cÃ­ mÃ­sto. NebezpeÄnÃ©, ale vzruÅ¡ujÃ­cÃ­. PromiÅˆ, nechala jsem se trochu unÃ©st.}
+{331}{}{Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{332}{}{Asi uÅ¾ pÅ¯jdu, dÃ­ky.}
+{340}{}{NemÃ¡m ponÄ›tÃ­, kde je. VÃ­m jen, Å¾e mÃ¡ dÅ¯m na vÃ½chod pÅ™es ulici. MoÅ¾nÃ¡ nÄ›kde obchoduje s divochy nebo je moÅ¾nÃ¡ v Denu. NevÃ­m. Jen doufÃ¡m, Å¾e je v poÅ™Ã¡dku. Byl pro mÄ› trochu vÃ­c neÅ¾ jen obyÄejnÃ½ zÃ¡kaznÃ­k.}
+{341}{}{DoufÃ¡m, Å¾e je v poÅ™Ã¡dku, uÅ¾ jen kvÅ¯li tobÄ›. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{342}{}{DoufÃ¡m, Å¾e se ti brzy vrÃ¡tÃ­. MyslÃ­m, Å¾e uÅ¾ pÅ¯jdu. Sbohem.}
+{350}{}{ZdravÃ­m. Jmenuju se Jenny. PotÅ™ebujeÅ¡ trochu vydrhnout?}
+{351}{}{Eh, ne dÃ­ky, jen se tu rozhlÃ­Å¾Ã­m.}
+{352}{}{No, vlastnÄ›... trocha masÃ¡Å¾e by mi neuÅ¡kodila (Å¡Å¥ouchneÅ¡ do nÃ­ a Å¡ibalsky mrkneÅ¡).}
+{353}{}{No, vlastnÄ› mÃ¡m pÃ¡r otÃ¡zek, na kterÃ© se tÄ› chci zeptat, pokud ti to nebude vadit.}
+{354}{}{ShÃ¡nÃ­m informace o obchodnÃ­kovi, kterÃ½ obchoduje s vÄ›cmi z pÅ™edvÃ¡leÄnÃ© Ã©ry.}
+{360}{}{ZdravÃ­m, sleÄno. Jmenuju se Jenny. MÅ¯Å¾u ti pomoct?}
+{361}{}{Eh, ne. Jenom jsem se chtÄ›la podÃ­vat, co tu je. Ale myslÃ­m, Å¾e radÄ›ji pÅ¯jdu.}
+{362}{}{VlastnÄ› bych rÃ¡da dostala nÄ›jakÃ© zkrÃ¡Å¡lujÃ­cÃ­ rady od takovÃ© roztomilÃ© dÃ¡my, jako jsi ty.}
+{363}{}{Chci se tÄ› na nÄ›co zeptat.}
+{364}{}{ShÃ¡nÃ­m informace o jistÃ©m obchodnÃ­kovi, kterÃ½ obchoduje s vÄ›cmi z pÅ™edvÃ¡leÄnÃ© Ã©ry.}
+{370}{}{No, v tom pÅ™Ã­padÄ› si radÄ›ji promluv s Nosatou Sally. Ona se starÃ¡ o vÅ¡echny naÅ¡e obchodnÃ­ zÃ¡leÅ¾itosti a nemÃ¡ rÃ¡da, kdyÅ¾ nÄ›kdo pracuje za jejÃ­mi zÃ¡dy.}
+{380}{}{ZdravÃ­m, feÅ¡ando. Jmenuju se Jenny. HledÃ¡Å¡ tu prÃ¡ci? Jestli se pohybujeÅ¡ tak dobÅ™e jak vypadÃ¡Å¡, mohla by sis tu celkem dobÅ™e vydÄ›lat.}
+{381}{}{NemÃ¡m zÃ¡jem o prÃ¡ci.}
+{382}{}{Mmm, rÃ¡da ti ukÃ¡Å¾u, jak dobÅ™e se pohybuju...v soukromÃ­.}
+{383}{}{DÄ›kuju, ale myslÃ­m, Å¾e se chci spÃ­Å¡ na nÄ›co zeptat.}
+{384}{}{HledÃ¡m informace o jednom obchodnÃ­kovi. Obchoduje s pÅ™edvÃ¡leÄnÃ½mi vÄ›cmi.}
+{390}{}{Vault-Tec? MoÅ¾nÃ¡ nÄ›co takovÃ©ho mÄ›l. Nejsem si jistÃ¡. VÃ­m jen, Å¾e mÄ›l spoustu opravdu hodnÄ› starÃ½ch vÄ›cÃ­.}
+{391}{}{DÄ›kuju, Jenny. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{392}{}{No, to bude prozatÃ­m vÅ¡e.}
+{400}{}{Geck? Co je to? NÄ›jakÃ½ druh malÃ©ho geckona? Je mi lÃ­to, ale nevÃ­m, co jinÃ©ho by to mohlo bÃ½t.}
+{401}{}{DÄ›kuju, Jenny. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{402}{}{No, to bude prozatÃ­m vÅ¡e.}
+{500}{}{(Jenny ti dÃ¡ facku.) Takhle na mÄ› nesahej, prosÃ­m!}

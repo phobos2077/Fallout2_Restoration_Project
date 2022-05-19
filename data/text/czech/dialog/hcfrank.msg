@@ -1,56 +1,56 @@
-{100}{}{Vidíš špinavého a rozzlobeného chlapa.}
-{101}{}{Vidíš Franca, kterı nenávidí mutanty.}
-{102}{}{Vidíš špinavého a rozzlobeného chlapa, kterı vypadá, e by nejradìji nìkomu vpálil kulku mezi oèi. Jeho chùze pøipomíná zuøivého králíka.}
-{103}{}{Co chceš?}
-{104}{}{Ááááá! ::slintání::}
-{105}{}{Ty! Já! Jít!}
+{100}{}{VidÃ­Å¡ Å¡pinavÃ©ho a rozzlobenÃ©ho chlapa.}
+{101}{}{VidÃ­Å¡ Franca, kterÃ½ nenÃ¡vidÃ­ mutanty.}
+{102}{}{VidÃ­Å¡ Å¡pinavÃ©ho a rozzlobenÃ©ho chlapa, kterÃ½ vypadÃ¡, Å¾e by nejradÄ›ji nÄ›komu vpÃ¡lil kulku mezi oÄi. Jeho chÅ¯ze pÅ™ipomÃ­nÃ¡ zuÅ™ivÃ©ho krÃ¡lÃ­ka.}
+{103}{}{Co chceÅ¡?}
+{104}{}{ÃÃ¡Ã¡Ã¡Ã¡! ::slintÃ¡nÃ­::}
+{105}{}{Ty! JÃ¡! JÃ­t!}
 {106}{}{Kdo jsi?}
-{107}{}{Proè jsi ve vìzení?}
-{108}{}{Co mi mùeš øíct o tomto místì?}
-{109}{}{Co mi mùeš øíct o Marcusovi?}
-{110}{}{Nemám tušení, o èem to mluvíš, blbeèku. Jdi mi z oèí.}
+{107}{}{ProÄ jsi ve vÄ›zenÃ­?}
+{108}{}{Co mi mÅ¯Å¾eÅ¡ Å™Ã­ct o tomto mÃ­stÄ›?}
+{109}{}{Co mi mÅ¯Å¾eÅ¡ Å™Ã­ct o Marcusovi?}
+{110}{}{NemÃ¡m tuÅ¡enÃ­, o Äem to mluvÃ­Å¡, blbeÄku. Jdi mi z oÄÃ­.}
 {111}{}{Oooooh...}
-{112}{}{Jsem Franc. Zeptal bych se tì na jméno, ale je mi to fuk.}
-{113}{}{Aha, tak drsòák, jo?}
-{114}{}{To je v pohodì. Taky mi to je fuk.}
-{115}{}{Jasnì, jak myslíš. Zatím.}
-{116}{}{Jsem tu, protoe mi velkej "šéf" nevìøí a nelíbí se mu kecy, kterı roznáším po mìstì. Øíkám lidem pravdu o mutantech a to se Marcusovi nelíbí. Kvùli tomu jsem teï ve vìzení.}
-{117}{}{To zní drsnì.}
-{118}{}{Nebo je to moná proto, e se snaíš vyvolat nenávist v lidech proti tìm, kteøí jsou odlišní.}
-{119}{}{To je zajímavé. Co mi mùeš øíct o Broken Hills?}
-{120}{}{Jaaaaasnì. Co mi mùeš øíct o Marcusovi?}
+{112}{}{Jsem Franc. Zeptal bych se tÄ› na jmÃ©no, ale je mi to fuk.}
+{113}{}{Aha, tak drsÅˆÃ¡k, jo?}
+{114}{}{To je v pohodÄ›. Taky mi to je fuk.}
+{115}{}{JasnÄ›, jak myslÃ­Å¡. ZatÃ­m.}
+{116}{}{Jsem tu, protoÅ¾e mi velkej "Å¡Ã©f" nevÄ›Å™Ã­ a nelÃ­bÃ­ se mu kecy, kterÃ½ roznÃ¡Å¡Ã­m po mÄ›stÄ›. Å˜Ã­kÃ¡m lidem pravdu o mutantech a to se Marcusovi nelÃ­bÃ­. KvÅ¯li tomu jsem teÄ ve vÄ›zenÃ­.}
+{117}{}{To znÃ­ drsnÄ›.}
+{118}{}{Nebo je to moÅ¾nÃ¡ proto, Å¾e se snaÅ¾Ã­Å¡ vyvolat nenÃ¡vist v lidech proti tÄ›m, kteÅ™Ã­ jsou odliÅ¡nÃ­.}
+{119}{}{To je zajÃ­mavÃ©. Co mi mÅ¯Å¾eÅ¡ Å™Ã­ct o Broken Hills?}
+{120}{}{JaaaaasnÄ›. Co mi mÅ¯Å¾eÅ¡ Å™Ã­ct o Marcusovi?}
 {121}{}{Tak jo. Nashle.}
-{122}{}{Tohle místo bylo kdysi ráj, ale pak pøišli mutanti a šlo to do sraèek. Take teï se musíme tváøit jako kdyby minulost neexistovala a ít s nima v míru. Ale já ne! Já chci ít svobodnì, nebo zemøít!}
-{123}{}{To sice není to, co chci vìdìt, ale stejnì díky. Co mi mùeš øíct o Marcusovi?}
+{122}{}{Tohle mÃ­sto bylo kdysi rÃ¡j, ale pak pÅ™iÅ¡li mutanti a Å¡lo to do sraÄek. TakÅ¾e teÄ se musÃ­me tvÃ¡Å™it jako kdyby minulost neexistovala a Å¾Ã­t s nima v mÃ­ru. Ale jÃ¡ ne! JÃ¡ chci Å¾Ã­t svobodnÄ›, nebo zemÅ™Ã­t!}
+{123}{}{To sice nenÃ­ to, co chci vÄ›dÄ›t, ale stejnÄ› dÃ­ky. Co mi mÅ¯Å¾eÅ¡ Å™Ã­ct o Marcusovi?}
 {124}{}{Eh, tak jo. Nashle.}
-{125}{}{Marcus všem vykládá, e pomohl zaloit tohle mìsto, ale to není pravda. První tu byli lidé. On sem jen pøitáhl s tou svojí bandou, pøevzal to tady a chce, abysme mutantùm líbali zadky. To on je šéfem celıho tohodle cirkusu.}
-{126}{}{Myslím, e jsi opravdu blázen.}
-{127}{}{Zatracení mutanti. To jsem si mohl myslet.}
-{128}{}{Jo, jsem drsòák. Kdybych nebyl ve vìzení, dokázal bych ti to. Myslíš, e jseš taky drsòák? Chceš mi to dokázat, nulo?}
-{129}{}{Samozøejmì.}
-{130}{}{Nic to dokazovat nemusím, uboáku.}
-{131}{}{Táhni k èertu, kreténe! Nebejt ve vìzení, tak tì zabiju!}
+{125}{}{Marcus vÅ¡em vyklÃ¡dÃ¡, Å¾e pomohl zaloÅ¾it tohle mÄ›sto, ale to nenÃ­ pravda. PrvnÃ­ tu byli lidÃ©. On sem jen pÅ™itÃ¡hl s tou svojÃ­ bandou, pÅ™evzal to tady a chce, abysme mutantÅ¯m lÃ­bali zadky. To on je Å¡Ã©fem celÃ½ho tohodle cirkusu.}
+{126}{}{MyslÃ­m, Å¾e jsi opravdu blÃ¡zen.}
+{127}{}{ZatracenÃ­ mutanti. To jsem si mohl myslet.}
+{128}{}{Jo, jsem drsÅˆÃ¡k. Kdybych nebyl ve vÄ›zenÃ­, dokÃ¡zal bych ti to. MyslÃ­Å¡, Å¾e jseÅ¡ taky drsÅˆÃ¡k? ChceÅ¡ mi to dokÃ¡zat, nulo?}
+{129}{}{SamozÅ™ejmÄ›.}
+{130}{}{Nic to dokazovat nemusÃ­m, uboÅ¾Ã¡ku.}
+{131}{}{TÃ¡hni k Äertu, kretÃ©ne! Nebejt ve vÄ›zenÃ­, tak tÄ› zabiju!}
 {132}{}{Nashle.}
-{133}{}{Tenhle systém je zaloenej na lásce k mutantùm. Nenávidíš je?}
+{133}{}{Tenhle systÃ©m je zaloÅ¾enej na lÃ¡sce k mutantÅ¯m. NenÃ¡vidÃ­Å¡ je?}
 {134}{}{Ano.}
 {135}{}{Ne.}
-{136}{}{Urèitì? Tak bì za chemikem Jacobem. Uvidíme se pozdìji.}
-{137}{}{Vypadni odsud, ty milovníku mutantù! Nechci dıchat stejnej vzduch jako ty!}
+{136}{}{UrÄitÄ›? Tak bÄ›Å¾ za chemikem Jacobem. UvidÃ­me se pozdÄ›ji.}
+{137}{}{Vypadni odsud, ty milovnÃ­ku mutantÅ¯! Nechci dÃ½chat stejnej vzduch jako ty!}
 {138}{}{Zase vy? Co chcete?}
-{139}{}{Povìz mi o Broken Hills.}
-{140}{}{Povìz mi o Marcusovi.}
-{141}{}{Proè jsi ve vìzení?}
-{142}{}{U jsi mluvil s Jacobem? Tak na co èekáš? Dostaò nás odsud!}
-{143}{}{Díky, e jsi nás odtamtud dostal. Škoda, e jsme pøi zdrhání nikoho nezabili.}
-{144}{}{Hehe! Smrt tìch mutantù za tu basu skoro stála!}
-{145}{}{Prostì umísti tu rozbušku a my u se postaráme o zbytek.}
-{146}{}{Dobrá práce, kámo. Teï se vypaøíme z mìsta. A ty to radši udìlej taky. Sbohem!}
-{147}{}{Všechno jsi podìlal! Teï chcípneš, kámo!}
+{139}{}{PovÄ›z mi o Broken Hills.}
+{140}{}{PovÄ›z mi o Marcusovi.}
+{141}{}{ProÄ jsi ve vÄ›zenÃ­?}
+{142}{}{UÅ¾ jsi mluvil s Jacobem? Tak na co ÄekÃ¡Å¡? DostaÅˆ nÃ¡s odsud!}
+{143}{}{DÃ­ky, Å¾e jsi nÃ¡s odtamtud dostal. Å koda, Å¾e jsme pÅ™i zdrhÃ¡nÃ­ nikoho nezabili.}
+{144}{}{Hehe! Smrt tÄ›ch mutantÅ¯ za tu basu skoro stÃ¡la!}
+{145}{}{ProstÄ› umÃ­sti tu rozbuÅ¡ku a my uÅ¾ se postarÃ¡me o zbytek.}
+{146}{}{DobrÃ¡ prÃ¡ce, kÃ¡mo. TeÄ se vypaÅ™Ã­me z mÄ›sta. A ty to radÅ¡i udÄ›lej taky. Sbohem!}
+{147}{}{VÅ¡echno jsi podÄ›lal! TeÄ chcÃ­pneÅ¡, kÃ¡mo!}
 {148}{}{Vypadneme odsud.}
-{149}{}{Nic. Pá pá.}
+{149}{}{Nic. PÃ¡ pÃ¡.}
 {150}{}{Ale nic. Nashle.}
-{151}{}{To není spravedlivı. Styï se.}
-{152}{}{Díky za pomoc, kámo. Jdi si promluvit s Jacobem a Aileen.}
-{153}{}{Úspìšnì jsi provedl útìk z vìzení.}
-{154}{}{Díky za pomoc pøi útìku, cizinèe.}
-{155}{}{ádnı problém.}
+{151}{}{To nenÃ­ spravedlivÃ½. StyÄ se.}
+{152}{}{DÃ­ky za pomoc, kÃ¡mo. Jdi si promluvit s Jacobem a Aileen.}
+{153}{}{ÃšspÄ›Å¡nÄ› jsi provedl ÃºtÄ›k z vÄ›zenÃ­.}
+{154}{}{DÃ­ky za pomoc pÅ™i ÃºtÄ›ku, cizinÄe.}
+{155}{}{Å½Ã¡dnÃ½ problÃ©m.}

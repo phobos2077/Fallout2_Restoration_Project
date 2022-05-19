@@ -1,64 +1,64 @@
-{100}{}{Vidíš postaršího bezdomovce.}
-{101}{}{Vidíš bezdomovce Zeke.}
-{102}{}{Vidíš staršího mue s šedımi proøídlımi vlasy.}
-{103}{}{Jmenuji se Zeke, cizinèe. Je mi líto, ale nemám èas se s tebou bavit a navíc si myslím, e na tomhle místì nemáš co dìlat. Radìji odejdi.}
-{104}{}{Eh, dobøe.}
-{105}{}{Mít otázky.}
-{106}{}{Dobøe. Odejdu.}
-{107}{}{Chci ti jen poloit pár otázek.}
-{108}{}{A já myslím, e brzy zjistíš, e u nám došly odpovìdi. Proè se nevrátíš, a dostaneme další zásilku?}
+{100}{}{VidÃ­Å¡ postarÅ¡Ã­ho bezdomovce.}
+{101}{}{VidÃ­Å¡ bezdomovce Zeke.}
+{102}{}{VidÃ­Å¡ starÅ¡Ã­ho muÅ¾e s Å¡edÃ½mi proÅ™Ã­dlÃ½mi vlasy.}
+{103}{}{Jmenuji se Zeke, cizinÄe. Je mi lÃ­to, ale nemÃ¡m Äas se s tebou bavit a navÃ­c si myslÃ­m, Å¾e na tomhle mÃ­stÄ› nemÃ¡Å¡ co dÄ›lat. RadÄ›ji odejdi.}
+{104}{}{Eh, dobÅ™e.}
+{105}{}{MÃ­t otÃ¡zky.}
+{106}{}{DobÅ™e. Odejdu.}
+{107}{}{Chci ti jen poloÅ¾it pÃ¡r otÃ¡zek.}
+{108}{}{A jÃ¡ myslÃ­m, Å¾e brzy zjistÃ­Å¡, Å¾e uÅ¾ nÃ¡m doÅ¡ly odpovÄ›di. ProÄ se nevrÃ¡tÃ­Å¡, aÅ¾ dostaneme dalÅ¡Ã­ zÃ¡silku?}
 {109}{}{Beru.}
-{110}{}{Vítej zpìt. Stále pro tebe nemám ádnou odpovìï, cizinèe. Proè nedáš na mou radu a nepøestaneš tu ztrácet svùj èas?}
+{110}{}{VÃ­tej zpÄ›t. StÃ¡le pro tebe nemÃ¡m Å¾Ã¡dnou odpovÄ›Ä, cizinÄe. ProÄ nedÃ¡Å¡ na mou radu a nepÅ™estaneÅ¡ tu ztrÃ¡cet svÅ¯j Äas?}
 {111}{}{Beru.}
-{112}{}{Rebecca mi øekla, co jsi pro ní udìlal. Chci se ti omluvit za to, jak jsme se k tobì chovali. Nezaslouíš si to. Mùu ti nìjak pomoct?}
-{113}{}{Mít otázky.}
-{114}{}{Ne. Já jít.}
-{115}{}{Mám na tebe pár otázek.}
-{116}{}{Ne, díky.}
-{117}{}{Co chceš vìdìt?}
-{118}{}{Darion bıt tvùj šéf?}
-{119}{}{Co ty mít s nájezdníky?}
-{120}{}{Kde dveøe do Vault?}
-{121}{}{Co se tu dít?}
-{122}{}{Já teï jít.}
-{123}{}{Pracuješ pro Dariona?}
-{124}{}{Co chcete dìlat s tìmi lupièi?}
+{112}{}{Rebecca mi Å™ekla, co jsi pro nÃ­ udÄ›lal. Chci se ti omluvit za to, jak jsme se k tobÄ› chovali. NezaslouÅ¾Ã­Å¡ si to. MÅ¯Å¾u ti nÄ›jak pomoct?}
+{113}{}{MÃ­t otÃ¡zky.}
+{114}{}{Ne. JÃ¡ jÃ­t.}
+{115}{}{MÃ¡m na tebe pÃ¡r otÃ¡zek.}
+{116}{}{Ne, dÃ­ky.}
+{117}{}{Co chceÅ¡ vÄ›dÄ›t?}
+{118}{}{Darion bÃ½t tvÅ¯j Å¡Ã©f?}
+{119}{}{Co ty mÃ­t s nÃ¡jezdnÃ­ky?}
+{120}{}{Kde dveÅ™e do Vault?}
+{121}{}{Co se tu dÃ­t?}
+{122}{}{JÃ¡ teÄ jÃ­t.}
+{123}{}{PracujeÅ¡ pro Dariona?}
+{124}{}{Co chcete dÄ›lat s tÄ›mi lupiÄi?}
 {125}{}{Kde je vstup do Vaultu?}
-{126}{}{Dìje se tu ještì nìco zajímavého?}
-{127}{}{To bude asi všechno. U pùjdu.}
-{128}{}{Ano. Jsem prostøedník mezi ním a zdejšími lidmi. A nejsem z toho pøíliš šastnı, obzvláš teï kdy vím, co je zaè.}
-{129}{}{Dobøe.}
+{126}{}{DÄ›je se tu jeÅ¡tÄ› nÄ›co zajÃ­mavÃ©ho?}
+{127}{}{To bude asi vÅ¡echno. UÅ¾ pÅ¯jdu.}
+{128}{}{Ano. Jsem prostÅ™ednÃ­k mezi nÃ­m a zdejÅ¡Ã­mi lidmi. A nejsem z toho pÅ™Ã­liÅ¡ Å¡Å¥astnÃ½, obzvlÃ¡Å¡Å¥ teÄ kdyÅ¾ vÃ­m, co je zaÄ.}
+{129}{}{DobÅ™e.}
 {130}{}{Aha.}
-{131}{}{Nic. Mají zbranì a kontrolují zásoby vody i jídla. To znamená, e tomu tady velí. Teèka. Nic neumíme a bez Dariona nepøeijeme. Jak se proti nìmu mùeme obrátit? Vdy ijeme z jeho milosti.}
-{132}{}{Hmm. Já myslet, e rozumìt.}
-{133}{}{Hmm. Rozumím.}
-{134}{}{Je támhle za tìmi dveømi, ale jsou zamèené z druhé strany a je na nich past. Nemám ponìtí, jak je otevøít... ale poèkej chvíli... pøed èasem jsem našel tuhle kartu a nevím, k èemu je. Rebecca mi øekla, e se nìjaké zvláštní dveøe nacházejí nedaleko místa, kde dreli Chrissy. Moná, e je tahle karta otevøe. Vezmi si ji.}
-{135}{}{Vyvolenı ti dìkovat.}
-{136}{}{Díky. Zkusím to.}
-{137}{}{Na západ odsud je mìsto zvané NCR. Uplatòují na Vault 15 nárok, protoe je to prı jejich dávnı domov, a chtìjí ho zpìt. Posílali sem lidi, kteøí nás mìli pøesvìdèit, abychom odsud odtáhli, ale my jsme na to nepøistoupili. Tohle je jedinı domov, kterı máme.}
-{138}{}{A proè ne vy s NCR jednat?}
-{139}{}{A nepøemıšleli jste o vzájemné dohodì s NCR?}
-{140}{}{To není tak jednoduché. Co máš pøesnì na mysli?}
-{141}{}{Pøipojit se ke kmenu NCR. Uèit se od jeho Starších. Povolit NCR pøístup do Vaultu. Pak všichni spokojení.}
-{142}{}{Staòte se obèany NCR. Nechte je, a tohle území pøipojí ke své republice a povolte jim pøístup do Vaultu. A oni vás na oplátku nauèí, jak samostatnì pøeít a poskytnou vám svou ochranu.}
-{143}{}{To nezní špatnì... líbí se mi to. Kdy to dokáeš s NCR domluvit, budeme ti moc zavázáni. Ale... taky by se nìkdo mìl postarat o Dariona a jeho kamarády. A mìlo by se to udìlat hned, ne zjistí, co se stalo a pøipraví se na útok. A proè to s Darionem neskoncovat teï hned? Budeš mít na své stranì moment pøekvapení.}
-{144}{}{Ty mít pravdu. Vyvolenı to zaøídit.}
-{145}{}{Nebıt si jistı.}
-{146}{}{Jo, to zní jako dobrı nápad.}
-{147}{}{Nevím.}
-{148}{}{Vıbornì. Hodnì štìstí a díky.}
+{131}{}{Nic. MajÃ­ zbranÄ› a kontrolujÃ­ zÃ¡soby vody i jÃ­dla. To znamenÃ¡, Å¾e tomu tady velÃ­. TeÄka. Nic neumÃ­me a bez Dariona nepÅ™eÅ¾ijeme. Jak se proti nÄ›mu mÅ¯Å¾eme obrÃ¡tit? VÅ¾dyÅ¥ Å¾ijeme z jeho milosti.}
+{132}{}{Hmm. JÃ¡ myslet, Å¾e rozumÄ›t.}
+{133}{}{Hmm. RozumÃ­m.}
+{134}{}{Je tÃ¡mhle za tÄ›mi dveÅ™mi, ale jsou zamÄenÃ© z druhÃ© strany a je na nich past. NemÃ¡m ponÄ›tÃ­, jak je otevÅ™Ã­t... ale poÄkej chvÃ­li... pÅ™ed Äasem jsem naÅ¡el tuhle kartu a nevÃ­m, k Äemu je. Rebecca mi Å™ekla, Å¾e se nÄ›jakÃ© zvlÃ¡Å¡tnÃ­ dveÅ™e nachÃ¡zejÃ­ nedaleko mÃ­sta, kde drÅ¾eli Chrissy. MoÅ¾nÃ¡, Å¾e je tahle karta otevÅ™e. Vezmi si ji.}
+{135}{}{VyvolenÃ½ ti dÄ›kovat.}
+{136}{}{DÃ­ky. ZkusÃ­m to.}
+{137}{}{Na zÃ¡pad odsud je mÄ›sto zvanÃ© NCR. UplatÅˆujÃ­ na Vault 15 nÃ¡rok, protoÅ¾e je to prÃ½ jejich dÃ¡vnÃ½ domov, a chtÄ›jÃ­ ho zpÄ›t. PosÃ­lali sem lidi, kteÅ™Ã­ nÃ¡s mÄ›li pÅ™esvÄ›dÄit, abychom odsud odtÃ¡hli, ale my jsme na to nepÅ™istoupili. Tohle je jedinÃ½ domov, kterÃ½ mÃ¡me.}
+{138}{}{A proÄ ne vy s NCR jednat?}
+{139}{}{A nepÅ™emÃ½Å¡leli jste o vzÃ¡jemnÃ© dohodÄ› s NCR?}
+{140}{}{To nenÃ­ tak jednoduchÃ©. Co mÃ¡Å¡ pÅ™esnÄ› na mysli?}
+{141}{}{PÅ™ipojit se ke kmenu NCR. UÄit se od jeho StarÅ¡Ã­ch. Povolit NCR pÅ™Ã­stup do Vaultu. Pak vÅ¡ichni spokojenÃ­.}
+{142}{}{StaÅˆte se obÄany NCR. Nechte je, aÅ¥ tohle ÃºzemÃ­ pÅ™ipojÃ­ ke svÃ© republice a povolte jim pÅ™Ã­stup do Vaultu. A oni vÃ¡s na oplÃ¡tku nauÄÃ­, jak samostatnÄ› pÅ™eÅ¾Ã­t a poskytnou vÃ¡m svou ochranu.}
+{143}{}{To neznÃ­ Å¡patnÄ›... lÃ­bÃ­ se mi to. KdyÅ¾ to dokÃ¡Å¾eÅ¡ s NCR domluvit, budeme ti moc zavÃ¡zÃ¡ni. Ale... taky by se nÄ›kdo mÄ›l postarat o Dariona a jeho kamarÃ¡dy. A mÄ›lo by se to udÄ›lat hned, neÅ¾ zjistÃ­, co se stalo a pÅ™ipravÃ­ se na Ãºtok. A proÄ to s Darionem neskoncovat teÄ hned? BudeÅ¡ mÃ­t na svÃ© stranÄ› moment pÅ™ekvapenÃ­.}
+{144}{}{Ty mÃ­t pravdu. VyvolenÃ½ to zaÅ™Ã­dit.}
+{145}{}{NebÃ½t si jistÃ½.}
+{146}{}{Jo, to znÃ­ jako dobrÃ½ nÃ¡pad.}
+{147}{}{NevÃ­m.}
+{148}{}{VÃ½bornÄ›. HodnÄ› Å¡tÄ›stÃ­ a dÃ­ky.}
 {149}{}{Beru.}
-{150}{}{No, popøemıšlej o tom, ale pochop, e dokud je tu Darion, nemám na vıbìr. Musím všechno udrovat tak, jak to je. Je to kvùli bezpeènosti nás všech. To znamená ádnou dohodu a ty jsi stále persona non grata. Rozumíš?}
-{151}{}{Dobøe.}
-{152}{}{Ahoj. Stále èekám na koneèné vyøešení našeho problému. Jinımi slovy, nakopej Darionovi prdel!}
+{150}{}{No, popÅ™emÃ½Å¡lej o tom, ale pochop, Å¾e dokud je tu Darion, nemÃ¡m na vÃ½bÄ›r. MusÃ­m vÅ¡echno udrÅ¾ovat tak, jak to je. Je to kvÅ¯li bezpeÄnosti nÃ¡s vÅ¡ech. To znamenÃ¡ Å¾Ã¡dnou dohodu a ty jsi stÃ¡le persona non grata. RozumÃ­Å¡?}
+{151}{}{DobÅ™e.}
+{152}{}{Ahoj. StÃ¡le ÄekÃ¡m na koneÄnÃ© vyÅ™eÅ¡enÃ­ naÅ¡eho problÃ©mu. JinÃ½mi slovy, nakopej Darionovi prdel!}
 {153}{}{Beru.}
-{154}{}{Tobì se to povedlo, pøíteli! U nejsme pod Darionovım bièem. Dìkuju ti! Jsem teï pøipraven jednat s NCR. Staèí, aby sem poslali nìkoho ze svıch lidí a mùeme uzavøít dohodu.}
+{154}{}{TobÄ› se to povedlo, pÅ™Ã­teli! UÅ¾ nejsme pod DarionovÃ½m biÄem. DÄ›kuju ti! Jsem teÄ pÅ™ipraven jednat s NCR. StaÄÃ­, aby sem poslali nÄ›koho ze svÃ½ch lidÃ­ a mÅ¯Å¾eme uzavÅ™Ã­t dohodu.}
 {155}{}{Beru.}
-{156}{}{Díky za šanci k novému ivotu. Jsme tvımi dluníky.}
-{157}{}{Odejdi. Nemám ti co øíct.}
-{158}{}{Ještì poèkej ne pùjdeš... našel jsem tuhle kartu a nevím k èemu je. Rebecca mi øekla, e se nìjaké zvláštní dveøe nacházejí nedaleko místa, kde dreli Chrissy. Moná, e je tahle karta otevøe. Tady, vezmi si ji.}
-{159}{}{Díky.}
-{160}{}{S èím ti mùu pomoct?}
-{161}{}{Jen ty problémy s NCR, ale myslím, e to vyøeší ta dohoda, kterou navrhuješ.}
-{162}{}{Tobì se to povedlo, pøíteli! U nejsme pod Darionovım bièem. Díky!}
-{163}{}{Teï, kdy je Darion pryè, nemáme jak získat jídlo. Urèitì všichni zahyneme! Mockrát díky.}
+{156}{}{DÃ­ky za Å¡anci k novÃ©mu Å¾ivotu. Jsme tvÃ½mi dluÅ¾nÃ­ky.}
+{157}{}{Odejdi. NemÃ¡m ti co Å™Ã­ct.}
+{158}{}{JeÅ¡tÄ› poÄkej neÅ¾ pÅ¯jdeÅ¡... naÅ¡el jsem tuhle kartu a nevÃ­m k Äemu je. Rebecca mi Å™ekla, Å¾e se nÄ›jakÃ© zvlÃ¡Å¡tnÃ­ dveÅ™e nachÃ¡zejÃ­ nedaleko mÃ­sta, kde drÅ¾eli Chrissy. MoÅ¾nÃ¡, Å¾e je tahle karta otevÅ™e. Tady, vezmi si ji.}
+{159}{}{DÃ­ky.}
+{160}{}{S ÄÃ­m ti mÅ¯Å¾u pomoct?}
+{161}{}{Jen ty problÃ©my s NCR, ale myslÃ­m, Å¾e to vyÅ™eÅ¡Ã­ ta dohoda, kterou navrhujeÅ¡.}
+{162}{}{TobÄ› se to povedlo, pÅ™Ã­teli! UÅ¾ nejsme pod DarionovÃ½m biÄem. DÃ­ky!}
+{163}{}{TeÄ, kdyÅ¾ je Darion pryÄ, nemÃ¡me jak zÃ­skat jÃ­dlo. UrÄitÄ› vÅ¡ichni zahyneme! MockrÃ¡t dÃ­ky.}

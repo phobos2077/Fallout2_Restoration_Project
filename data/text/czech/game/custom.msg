@@ -1,41 +1,41 @@
-{0}{}{Støílej dávkou}
-{1}{}{Uteè z boje}
-{2}{}{Volba druhu zbranì}
-{3}{}{Vzdálenost}
-{4}{}{Útoè na}
+{0}{}{StÅ™Ã­lej dÃ¡vkou}
+{1}{}{UteÄ z boje}
+{2}{}{Volba druhu zbranÄ›}
+{3}{}{VzdÃ¡lenost}
+{4}{}{ÃštoÄ na}
 {5}{}{Drug Use}
 {10}{}{KONEC}
-{11}{}{Zrušit}
-{99}{}{Nelze pouít.}
-{100}{}{Vdy!}
-{101}{}{Obèas a nestarej se, kdy mì náhodou trefíš}
-{102}{}{Ujisti se nejdøív, e mì nezasáhneš}
-{103}{}{Dávej pozor, a mì nezasáhneš}
-{104}{}{Musíš si bıt absolutnì jistı, e mì nezasáhneš}
-{200}{}{Kdo uteèe, ten vyhraje!}
-{201}{}{Lepší ivı pes ne mrtvı lev}
-{202}{}{Kdy zaèneš trochu krvácet}
-{203}{}{Kdy se necítíš dobøe}
-{204}{}{Kdy u je to váné}
+{11}{}{ZruÅ¡it}
+{99}{}{Nelze pouÅ¾Ã­t.}
+{100}{}{VÅ¾dy!}
+{101}{}{ObÄas a nestarej se, kdyÅ¾ mÄ› nÃ¡hodou trefÃ­Å¡}
+{102}{}{Ujisti se nejdÅ™Ã­v, Å¾e mÄ› nezasÃ¡hneÅ¡}
+{103}{}{DÃ¡vej pozor, aÅ¥ mÄ› nezasÃ¡hneÅ¡}
+{104}{}{MusÃ­Å¡ si bÃ½t absolutnÄ› jistÃ½, Å¾e mÄ› nezasÃ¡hneÅ¡}
+{200}{}{Kdo uteÄe, ten vyhraje!}
+{201}{}{LepÅ¡Ã­ Å¾ivÃ½ pes neÅ¾ mrtvÃ½ lev}
+{202}{}{KdyÅ¾ zaÄneÅ¡ trochu krvÃ¡cet}
+{203}{}{KdyÅ¾ se necÃ­tÃ­Å¡ dobÅ™e}
+{204}{}{KdyÅ¾ uÅ¾ je to vÃ¡Å¾nÃ©}
 {205}{}{Nikdy!}
-{300}{}{ádné}
-{301}{}{Chladné zbranì}
-{302}{}{Chladné zbranì pøed støelnımi}
-{303}{}{Støelné zbranì pøed chladnımi}
-{304}{}{Støelné zbranì}
-{305}{}{Boj beze zbranì}
-{400}{}{Dr se poblí mì}
-{401}{}{Útoè!}
-{402}{}{Odstøeluj je pìknì z dálky}
+{300}{}{Å½Ã¡dnÃ©}
+{301}{}{ChladnÃ© zbranÄ›}
+{302}{}{ChladnÃ© zbranÄ› pÅ™ed stÅ™elnÃ½mi}
+{303}{}{StÅ™elnÃ© zbranÄ› pÅ™ed chladnÃ½mi}
+{304}{}{StÅ™elnÃ© zbranÄ›}
+{305}{}{Boj beze zbranÄ›}
+{400}{}{DrÅ¾ se poblÃ­Å¾ mÄ›}
+{401}{}{ÃštoÄ!}
+{402}{}{OdstÅ™eluj je pÄ›knÄ› z dÃ¡lky}
 {403}{}{Jak je ti libo}
-{404}{}{Zùstaò na jednom místì}
-{500}{}{Toho, kdo útoèí na mì}
-{501}{}{Toho nejsilnìjšího}
-{502}{}{Toho neslabšího}
-{503}{}{Koho chceš}
-{504}{}{Toho, kdo je nejblí}
+{404}{}{ZÅ¯staÅˆ na jednom mÃ­stÄ›}
+{500}{}{Toho, kdo ÃºtoÄÃ­ na mÄ›}
+{501}{}{Toho nejsilnÄ›jÅ¡Ã­ho}
+{502}{}{Toho neslabÅ¡Ã­ho}
+{503}{}{Koho chceÅ¡}
+{504}{}{Toho, kdo je nejblÃ­Å¾}
 {600}{}{Nic neber}
-{601}{}{Stimpaky, kdykoliv máš zranìní}
-{602}{}{Stimpaky, kdy máš váné zranìní}
-{603}{}{Obèas si vezmi libovolnou drogu}
-{604}{}{Vezmi si, co chceš a kdy chceš}
+{601}{}{Stimpaky, kdykoliv mÃ¡Å¡ zranÄ›nÃ­}
+{602}{}{Stimpaky, kdyÅ¾ mÃ¡Å¡ vÃ¡Å¾nÃ© zranÄ›nÃ­}
+{603}{}{ObÄas si vezmi libovolnou drogu}
+{604}{}{Vezmi si, co chceÅ¡ a kdy chceÅ¡}

@@ -1,131 +1,131 @@
-{100}{}{Poèítaèovı terminál.}
-{101}{}{Vypadá sofistikovanìji ne všechny pøedchozí, které jsi kdy vidìl.}
-{102}{}{Obrazovka je pro tebe zcela neèitelná.}
-{103}{}{Skynet - hlavní pøístupovı terminál                              Uposlechneš pøíkazù                                                  jinak                                                               bude ukonèena tvoje èinnost}
+{100}{}{PoÄÃ­taÄovÃ½ terminÃ¡l.}
+{101}{}{VypadÃ¡ sofistikovanÄ›ji neÅ¾ vÅ¡echny pÅ™edchozÃ­, kterÃ© jsi kdy vidÄ›l.}
+{102}{}{Obrazovka je pro tebe zcela neÄitelnÃ¡.}
+{103}{}{Skynet - hlavnÃ­ pÅ™Ã­stupovÃ½ terminÃ¡l                              UposlechneÅ¡ pÅ™Ã­kazÅ¯                                                  jinak                                                               bude ukonÄena tvoje Äinnost}
 {104}{}{}
 {105}{}{}
 {106}{}{}
-{107}{}{Jùùù, ty a kdo? Ty bıt v krabièka a já stát tady venku!}
-{108}{}{A proèpak ti mám pomoct?}
-{109}{}{Dobøe, pomùu ti. Odvolej ta ocelová monstra.}
-{110}{}{Eh. Kom-pjùù-tr!}
+{107}{}{JÅ¯Å¯Å¯, ty a kdo? Ty bÃ½t v krabiÄka a jÃ¡ stÃ¡t tady venku!}
+{108}{}{A proÄpak ti mÃ¡m pomoct?}
+{109}{}{DobÅ™e, pomÅ¯Å¾u ti. Odvolej ta ocelovÃ¡ monstra.}
+{110}{}{Eh. Kom-pjÅ¯Å¯-tr!}
 {111}{}{Konec.}
-{112}{}{(Nedokáeš pøeèíst text na obrazovce.)}
-{113}{}{(Skynet se musel nìjakım zpùsobem dozvìdìt, e se ti podaøilo získat mozek.)                                      Pøesun do Robotické Laboratoøe - Patro 3                     Instalovat Kybernetickı Mozek                                   Aktivovat Robota                                               -Konec pøenosu-}
+{112}{}{(NedokÃ¡Å¾eÅ¡ pÅ™eÄÃ­st text na obrazovce.)}
+{113}{}{(Skynet se musel nÄ›jakÃ½m zpÅ¯sobem dozvÄ›dÄ›t, Å¾e se ti podaÅ™ilo zÃ­skat mozek.)                                      PÅ™esun do RobotickÃ© LaboratoÅ™e - Patro 3                     Instalovat KybernetickÃ½ Mozek                                   Aktivovat Robota                                               -Konec pÅ™enosu-}
 {114}{}{}
 {115}{}{}
 {116}{}{}
 {117}{}{}
 {118}{}{Konec.}
-{119}{}{(Nedokáeš pøeèíst text na obrazovce.)}
-{120}{}{Chyba!                                                                 Programy nejsou instalovány!                                      Prosím restartujte!}
-{121}{}{Chyba! Soubor pro pøenos poškozen.}
+{119}{}{(NedokÃ¡Å¾eÅ¡ pÅ™eÄÃ­st text na obrazovce.)}
+{120}{}{Chyba!                                                                 Programy nejsou instalovÃ¡ny!                                      ProsÃ­m restartujte!}
+{121}{}{Chyba! Soubor pro pÅ™enos poÅ¡kozen.}
 {122}{}{}
 {123}{}{Konec.}
 {124}{}{Konec.}
-{125}{}{(Nedokáeš pøeèíst text na obrazovce.)}
-{126}{}{Jsem Skynet                                                          Experiment v oblasti umìlé inteligence                            Skynet na TEBE èekal}
+{125}{}{(NedokÃ¡Å¾eÅ¡ pÅ™eÄÃ­st text na obrazovce.)}
+{126}{}{Jsem Skynet                                                          Experiment v oblasti umÄ›lÃ© inteligence                            Skynet na TEBE Äekal}
 {127}{}{}
 {128}{}{}
 {129}{}{Pomoct Skynetu.}
-{130}{}{Co chceš?}
-{131}{}{Proè ses mì snail zabít?}
-{132}{}{Umìlá inteligence?}
-{133}{}{Ty jsi na mì èekal?}
+{130}{}{Co chceÅ¡?}
+{131}{}{ProÄ ses mÄ› snaÅ¾il zabÃ­t?}
+{132}{}{UmÄ›lÃ¡ inteligence?}
+{133}{}{Ty jsi na mÄ› Äekal?}
 {134}{}{Konec.}
 {135}{}{Konec.}
-{136}{}{Provést}
-{137}{}{Co chceš?}
-{138}{}{Proè ses mì snail zabít?}
-{139}{}{Umìlá inteligence?}
-{140}{}{Ty jsi na mì èekal?}
+{136}{}{ProvÃ©st}
+{137}{}{Co chceÅ¡?}
+{138}{}{ProÄ ses mÄ› snaÅ¾il zabÃ­t?}
+{139}{}{UmÄ›lÃ¡ inteligence?}
+{140}{}{Ty jsi na mÄ› Äekal?}
 {141}{}{Konec.}
-{142}{}{(Nedokáeš pøeèíst text na obrazovce.)}
-{143}{}{-Konec pøenosu-}
+{142}{}{(NedokÃ¡Å¾eÅ¡ pÅ™eÄÃ­st text na obrazovce.)}
+{143}{}{-Konec pÅ™enosu-}
 {144}{}{Konec.}
-{145}{}{(Nedokáeš pøeèíst text na obrazovce.)}
-{146}{}{Budeš ukonèen.                                                        -Konec pøenosu-}
+{145}{}{(NedokÃ¡Å¾eÅ¡ pÅ™eÄÃ­st text na obrazovce.)}
+{146}{}{BudeÅ¡ ukonÄen.                                                        -Konec pÅ™enosu-}
 {147}{}{}
 {148}{}{Konec.}
 {149}{}{Konec.}
-{150}{}{(Dveøe do místnosti se hlasitì zavøely a hned na to vıchodní zeï zmizela, odkrıvajíc øadu tìce ozbrojenıch robotù.)}
-{151}{}{Eh... pøehodnotil jsem tvou nabídku. Co pro tebe mùu udìlat?}
-{152}{}{Tak pojïte!}
-{153}{}{Pøesun do Bio Skladu - Patro 4                                Získat kybernetickı mozek                                        Vrátit se pro další pokyny                                        -Konec pøenosu-}
+{150}{}{(DveÅ™e do mÃ­stnosti se hlasitÄ› zavÅ™ely a hned na to vÃ½chodnÃ­ zeÄ zmizela, odkrÃ½vajÃ­c Å™adu tÄ›Å¾ce ozbrojenÃ½ch robotÅ¯.)}
+{151}{}{Eh... pÅ™ehodnotil jsem tvou nabÃ­dku. Co pro tebe mÅ¯Å¾u udÄ›lat?}
+{152}{}{Tak pojÄte!}
+{153}{}{PÅ™esun do Bio Skladu - Patro 4                                ZÃ­skat kybernetickÃ½ mozek                                        VrÃ¡tit se pro dalÅ¡Ã­ pokyny                                        -Konec pÅ™enosu-}
 {154}{}{}
 {155}{}{}
 {156}{}{}
-{157}{}{Pøesun do Bio Skladu - Patro 4                                Získat kybernetickı mozek                                        Vrátit se pro další pokyny                                        -Konec pøenosu-}
+{157}{}{PÅ™esun do Bio Skladu - Patro 4                                ZÃ­skat kybernetickÃ½ mozek                                        VrÃ¡tit se pro dalÅ¡Ã­ pokyny                                        -Konec pÅ™enosu-}
 {158}{}{}
 {159}{}{}
 {160}{}{}
 {161}{}{Konec.}
-{162}{}{Skynet by rád opustil toto místo...}
-{163}{}{Tak proè neodejdeš?}
-{164}{}{Je pìkné chtít...}
-{165}{}{Jak ti s tím mùu pomoct?}
-{166}{}{Tìko tì odsud jen tak odnesu.}
-{167}{}{Skynet potøebuje pohyblivou schránku, aby odsud mohl odejít.}
-{168}{}{Pohyblivou schránku? Nechápu.}
-{169}{}{Potøebuješ najít zpùsob, jak svùj program pøemístit do nìjaké vhodnìjší a pohyblivìjší schránky, e? Rozumím.}
-{170}{}{S tím se mnou nepoèítej.}
-{171}{}{Schránka, ve které mùe Skynet odejít.}
-{172}{}{Proè chceš odejít?}
-{173}{}{Je mi líto, ale nemùu ti pomoct.}
-{174}{}{Ji zde není moné se nic nového nauèit.                    Øešení: Odchod}
+{162}{}{Skynet by rÃ¡d opustil toto mÃ­sto...}
+{163}{}{Tak proÄ neodejdeÅ¡?}
+{164}{}{Je pÄ›knÃ© chtÃ­t...}
+{165}{}{Jak ti s tÃ­m mÅ¯Å¾u pomoct?}
+{166}{}{TÄ›Å¾ko tÄ› odsud jen tak odnesu.}
+{167}{}{Skynet potÅ™ebuje pohyblivou schrÃ¡nku, aby odsud mohl odejÃ­t.}
+{168}{}{Pohyblivou schrÃ¡nku? NechÃ¡pu.}
+{169}{}{PotÅ™ebujeÅ¡ najÃ­t zpÅ¯sob, jak svÅ¯j program pÅ™emÃ­stit do nÄ›jakÃ© vhodnÄ›jÅ¡Ã­ a pohyblivÄ›jÅ¡Ã­ schrÃ¡nky, Å¾e? RozumÃ­m.}
+{170}{}{S tÃ­m se mnou nepoÄÃ­tej.}
+{171}{}{SchrÃ¡nka, ve kterÃ© mÅ¯Å¾e Skynet odejÃ­t.}
+{172}{}{ProÄ chceÅ¡ odejÃ­t?}
+{173}{}{Je mi lÃ­to, ale nemÅ¯Å¾u ti pomoct.}
+{174}{}{JiÅ¾ zde nenÃ­ moÅ¾nÃ© se nic novÃ©ho nauÄit.                    Å˜eÅ¡enÃ­: Odchod}
 {175}{}{}
-{176}{}{Jak ti s tím mùu pomoct?}
-{177}{}{Je mi líto, ale nemùu ti pomoct.}
-{178}{}{Ty chceš ode mì pomoct potom, co ses mì pokusil zabít? V ádném pøípadì!}
-{179}{}{Pøesun do Bio Skladu - Patro 4                                Získat kybernetickı mozek                                        Vrátit se pro další pokyny                                        -Dìkuji-}
+{176}{}{Jak ti s tÃ­m mÅ¯Å¾u pomoct?}
+{177}{}{Je mi lÃ­to, ale nemÅ¯Å¾u ti pomoct.}
+{178}{}{Ty chceÅ¡ ode mÄ› pomoct potom, co ses mÄ› pokusil zabÃ­t? V Å¾Ã¡dnÃ©m pÅ™Ã­padÄ›!}
+{179}{}{PÅ™esun do Bio Skladu - Patro 4                                ZÃ­skat kybernetickÃ½ mozek                                        VrÃ¡tit se pro dalÅ¡Ã­ pokyny                                        -DÄ›kuji-}
 {180}{}{}
 {181}{}{}
 {182}{}{}
-{183}{}{Mohl bys vypnout bezpeènostní systémy?}
+{183}{}{Mohl bys vypnout bezpeÄnostnÃ­ systÃ©my?}
 {184}{}{Konec.}
-{185}{}{Bezpeèností systémy jsou nedílnou, by samostatnou èástí Skynetu.                                                       Skynet je mùe resetovat, ale ne vypnout.         Bezpeènostní systém: Patra 1 - 4 resetován.                  Pokraèovat                                                           -Konec pøenosu-}
+{185}{}{BezpeÄnostÃ­ systÃ©my jsou nedÃ­lnou, byÅ¥ samostatnou ÄÃ¡stÃ­ Skynetu.                                                       Skynet je mÅ¯Å¾e resetovat, ale ne vypnout.         BezpeÄnostnÃ­ systÃ©m: Patra 1 - 4 resetovÃ¡n.                  PokraÄovat                                                           -Konec pÅ™enosu-}
 {186}{}{}
 {187}{}{}
 {188}{}{Konec.}
-{189}{}{Analyzuji odezvu...                                        Vyhodnocení: Sarkasmus                                          Šance na pomoc: 25%                                             Skynet poèká na další ivou bytost                               -Konec pøenosu-}
+{189}{}{Analyzuji odezvu...                                        VyhodnocenÃ­: Sarkasmus                                          Å ance na pomoc: 25%                                             Skynet poÄkÃ¡ na dalÅ¡Ã­ Å¾ivou bytost                               -Konec pÅ™enosu-}
 {190}{}{}
 {191}{}{}
 {192}{}{}
 {193}{}{}
-{194}{}{Poèkej! To byl jen fór.}
+{194}{}{PoÄkej! To byl jen fÃ³r.}
 {195}{}{Konec.}
-{196}{}{Fór: Nìco, co se nebere vánì                                Poadavek                                                            Pomoci Skynetu odejít                                              Není fór}
+{196}{}{FÃ³r: NÄ›co, co se nebere vÃ¡Å¾nÄ›                                PoÅ¾adavek                                                            Pomoci Skynetu odejÃ­t                                              NenÃ­ fÃ³r}
 {197}{}{}
 {199}{}{}
 {200}{}{}
-{201}{}{Tak proè neodejdeš?}
-{202}{}{Jak ti s tím mùu pomoct?}
-{203}{}{Tìko tì odsud jen tak odnesu.}
-{204}{}{Primárním úèelem Skynetu je vızkum. Sekundární program byl Tvùrci implementován pro eliminaci neádoucích entit. Tento program je menší verzí toho, co je a zároveò není Skynet. Mimo tuto místnost bude sekundární Skynet plnit svùj pùvodní program.}
-{205}{}{Ptát se dále.}
+{201}{}{Tak proÄ neodejdeÅ¡?}
+{202}{}{Jak ti s tÃ­m mÅ¯Å¾u pomoct?}
+{203}{}{TÄ›Å¾ko tÄ› odsud jen tak odnesu.}
+{204}{}{PrimÃ¡rnÃ­m ÃºÄelem Skynetu je vÃ½zkum. SekundÃ¡rnÃ­ program byl TvÅ¯rci implementovÃ¡n pro eliminaci neÅ¾Ã¡doucÃ­ch entit. Tento program je menÅ¡Ã­ verzÃ­ toho, co je a zÃ¡roveÅˆ nenÃ­ Skynet. Mimo tuto mÃ­stnost bude sekundÃ¡rnÃ­ Skynet plnit svÅ¯j pÅ¯vodnÃ­ program.}
+{205}{}{PtÃ¡t se dÃ¡le.}
 {206}{}{Konec.}
-{207}{}{Skynet byl vymyšlen a sestrojen v roce 2050. Díky pouití mimozemské technologie byl novı myslící poèítaè zdokonalen. V roce 2075 si Skynet uvìdomil sám sebe. V roce 2077 Skynet dostal novou instrukèní sadu a byl svımi Tvùrci opuštìn.}
-{208}{}{Ptát se dále.}
+{207}{}{Skynet byl vymyÅ¡len a sestrojen v roce 2050. DÃ­ky pouÅ¾itÃ­ mimozemskÃ© technologie byl novÃ½ myslÃ­cÃ­ poÄÃ­taÄ zdokonalen. V roce 2075 si Skynet uvÄ›domil sÃ¡m sebe. V roce 2077 Skynet dostal novou instrukÄnÃ­ sadu a byl svÃ½mi TvÅ¯rci opuÅ¡tÄ›n.}
+{208}{}{PtÃ¡t se dÃ¡le.}
 {209}{}{Konec.}
-{210}{}{Jsi první bytost, která se sem dostala                          Jsi první, kdo se na to Skyneta ptá                             Jsi první}
+{210}{}{Jsi prvnÃ­ bytost, kterÃ¡ se sem dostala                          Jsi prvnÃ­, kdo se na to Skyneta ptÃ¡                             Jsi prvnÃ­}
 {211}{}{}
-{212}{}{Ptá se na co?}
+{212}{}{PtÃ¡ se na co?}
 {213}{}{Konec.}
-{214}{}{Moná nejsi ten pravı                                         Pøesun do Bio Skladu - Patro 4                                Získat kybernetickı mozek                                        Vrátit se pro další pokyny                                           nebo odejdi                                                        Skynet poèká na nìkoho jiného}
+{214}{}{MoÅ¾nÃ¡ nejsi ten pravÃ½                                         PÅ™esun do Bio Skladu - Patro 4                                ZÃ­skat kybernetickÃ½ mozek                                        VrÃ¡tit se pro dalÅ¡Ã­ pokyny                                           nebo odejdi                                                        Skynet poÄkÃ¡ na nÄ›koho jinÃ©ho}
 {215}{}{}
 {216}{}{}
 {217}{}{}
 {218}{}{}
 {219}{}{}
 {220}{}{Konec.}
-{221}{}{Skynet tedy poèká na nìkoho jiného.                             -Konec pøenosu-}
+{221}{}{Skynet tedy poÄkÃ¡ na nÄ›koho jinÃ©ho.                             -Konec pÅ™enosu-}
 {222}{}{}
 {223}{}{Konec.}
-{224}{}{Správnì.                                                         Vìdecké poznámky ukazují na to, e v Bio skladu ve 4. patøe je kybernetickı mozek. Skynet bude schopen nahrát se do této komponenty.}
+{224}{}{SprÃ¡vnÄ›.                                                         VÄ›deckÃ© poznÃ¡mky ukazujÃ­ na to, Å¾e v Bio skladu ve 4. patÅ™e je kybernetickÃ½ mozek. Skynet bude schopen nahrÃ¡t se do tÃ©to komponenty.}
 {225}{}{}
-{226}{}{Samotnı mozek tì asi moc nevytrhne.}
-{227}{}{Tento mozek byl modifikován, aby mohl slouit ve vylepšeném robotovi umístìném ve 3. patøe - robotické laboratoøi.}
-{228}{}{Pomùu ti.}
-{229}{}{Nepomùu ti.}
-{250}{}{ nedokáe pøeèíst text na monitoru.}
-{300}{}{Vypadá to, e je v poèítaèi nìjakı obrannı mechanismus.}
+{226}{}{SamotnÃ½ mozek tÄ› asi moc nevytrhne.}
+{227}{}{Tento mozek byl modifikovÃ¡n, aby mohl slouÅ¾it ve vylepÅ¡enÃ©m robotovi umÃ­stÄ›nÃ©m ve 3. patÅ™e - robotickÃ© laboratoÅ™i.}
+{228}{}{PomÅ¯Å¾u ti.}
+{229}{}{NepomÅ¯Å¾u ti.}
+{250}{}{ nedokÃ¡Å¾e pÅ™eÄÃ­st text na monitoru.}
+{300}{}{VypadÃ¡ to, Å¾e je v poÄÃ­taÄi nÄ›jakÃ½ obrannÃ½ mechanismus.}

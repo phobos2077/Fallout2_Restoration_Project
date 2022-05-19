@@ -1,2 +1,2 @@
-{100}{}{Pouil jsi jazykovı Pip-Boy modul. Jazykovìdná smrš zaplavila tvùj mozek.}
-{200}{}{Vpravdì hojnost lingvistickıch znalostí prostoupila neurony v mé lebce.}
+{100}{}{PouÅ¾il jsi jazykovÃ½ Pip-Boy modul. JazykovÄ›dnÃ¡ smrÅ¡Å¥ zaplavila tvÅ¯j mozek.}
+{200}{}{VpravdÄ› hojnost lingvistickÃ½ch znalostÃ­ prostoupila neurony v mÃ© lebce.}

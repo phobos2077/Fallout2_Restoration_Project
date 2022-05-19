@@ -1,3 +1,3 @@
-{100}{}{Jak opouštíš kraj mìsta, všimneš si ozbrojené skupinky muù tiše se pohybující skrz køoviny. Vede je silnı divoch. Divoch pohlédne tvım smìrem a všimne si, e je pozoruješ. Dá svım muùm signál, pøikrèí se a zmizí ti z oèí.}
-{101}{}{[Opatrnì se vydat za nimi]}
-{102}{}{[Nevšímat si jich a pokraèovat dál]}
+{100}{}{Jak opouÅ¡tÃ­Å¡ kraj mÄ›sta, vÅ¡imneÅ¡ si ozbrojenÃ© skupinky muÅ¾Å¯ tiÅ¡e se pohybujÃ­cÃ­ skrz kÅ™oviny. Vede je silnÃ½ divoch. Divoch pohlÃ©dne tvÃ½m smÄ›rem a vÅ¡imne si, Å¾e je pozorujeÅ¡. DÃ¡ svÃ½m muÅ¾Å¯m signÃ¡l, pÅ™ikrÄÃ­ se a zmizÃ­ ti z oÄÃ­.}
+{101}{}{[OpatrnÄ› se vydat za nimi]}
+{102}{}{[NevÅ¡Ã­mat si jich a pokraÄovat dÃ¡l]}

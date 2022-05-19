@@ -1,22 +1,22 @@
-{100}{}{Vidíš banditu.}
-{101}{}{Vidíš zbìha.}
-{102}{}{Vidíš lupièe.}
-{103}{}{Vidíš potulného zabijáka.}
-{104}{}{Vidíš tuláka.}
+{100}{}{VidÃ­Å¡ banditu.}
+{101}{}{VidÃ­Å¡ zbÄ›ha.}
+{102}{}{VidÃ­Å¡ lupiÄe.}
+{103}{}{VidÃ­Å¡ potulnÃ©ho zabijÃ¡ka.}
+{104}{}{VidÃ­Å¡ tulÃ¡ka.}
 {200}{}{Vzdej se!}
-{201}{}{Peníze nebo ivot.}
-{202}{}{Tohle je pøepadení.}
-{203}{}{Dej mi všechny svoje cennosti.}
-{204}{}{Ani hnout! Tohle je pøepadení!}
+{201}{}{PenÃ­ze nebo Å¾ivot.}
+{202}{}{Tohle je pÅ™epadenÃ­.}
+{203}{}{Dej mi vÅ¡echny svoje cennosti.}
+{204}{}{Ani hnout! Tohle je pÅ™epadenÃ­!}
 {205}{}{Ruce nahoru.}
-{206}{}{Dej ty pracky vzhùru.}
-{207}{}{ádnou paniku. Za chvilku bude po všem.}
-{208}{}{Uka ruce.}
-{209}{}{Krejte mì, chlapi.}
-{210}{}{Nedìlej si to ještì horší.}
-{211}{}{Odevzdej mi koøist.}
-{212}{}{Na nì, chlapi!}
-{213}{}{Všechny je zabijte.}
+{206}{}{Dej ty pracky vzhÅ¯ru.}
+{207}{}{Å½Ã¡dnou paniku. Za chvilku bude po vÅ¡em.}
+{208}{}{UkaÅ¾ ruce.}
+{209}{}{Krejte mÄ›, chlapi.}
+{210}{}{NedÄ›lej si to jeÅ¡tÄ› horÅ¡Ã­.}
+{211}{}{Odevzdej mi koÅ™ist.}
+{212}{}{Na nÄ›, chlapi!}
+{213}{}{VÅ¡echny je zabijte.}
 {214}{}{Slibuju ti rychlou smrt.}
 {215}{}{Pracky nahoru.}
 {216}{}{Ani se nehni.}

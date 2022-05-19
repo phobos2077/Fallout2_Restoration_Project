@@ -1,36 +1,36 @@
-{100}{}{Vidíš zchøadlého starého ghoula.}
-{101}{}{Vidíš jednoho z mnoha starıch ghoulù.}
-{102}{}{Jsem strašnì unavenı.}
-{103}{}{U jsem unavenı èekáním, èekáním na NI.}
-{104}{}{Kdy je èas jít do hajan?}
-{105}{}{Co to tady smrdí! Aha, to jsem já.}
-{106}{}{To u jsou 4 hodiny? Chci veèeøi!}
-{107}{}{Páni, u víc jak hodinu mi neluplo v køíi!}
-{108}{}{Nevidìl nìkdo moje zuby?}
-{109}{}{Kde je moje jídlo?}
-{110}{}{SMRT! To je to, na co èekám! Tady jsem!}
-{111}{}{Ahoj, Billy! Jsem rád, e ses na mì pøišel podívat.}
-{112}{}{Stárnutí není pro baby.}
-{113}{}{Jejda! Moje støeva!}
-{114}{}{Nemá nìkdo plíny?}
-{115}{}{Mám tolik vìdomostí, kterı bych mohl pøedat, ale nìjak se mi do toho nechce.}
-{116}{}{Ti dnešní ghoulové... pche!}
-{117}{}{ádná úcta... nikdo u nikoho nerespektuje.}
-{118}{}{Pamatuju ještì Seta...}
-{119}{}{Jakpak se asi má starej Jed v Gecku?}
-{120}{}{Máš rád mutanty? Já jo.}
-{121}{}{Mám rád brambory! Mám je rád šouchanı a taky smaenı!}
-{122}{}{Mám hlad!}
-{123}{}{Chtìl bych tady mít kytièku.}
-{124}{}{Nemám to venku rád.}
-{125}{}{Stejnì tomu starımu dolu brzo dojde uran.}
-{126}{}{Ty nejsi z Vault City, e ne?}
-{127}{}{Pamatuju, jak jsme tenkrát bojovali v Necropolis se Záøícíma... to byly èasy...}
-{128}{}{Povím ti, jak jsme tenkrát otevøeli Vault...}
-{129}{}{...co jsem to øíkal?}
-{130}{}{::zív::}
+{100}{}{VidÃ­Å¡ zchÅ™adlÃ©ho starÃ©ho ghoula.}
+{101}{}{VidÃ­Å¡ jednoho z mnoha starÃ½ch ghoulÅ¯.}
+{102}{}{Jsem straÅ¡nÄ› unavenÃ½.}
+{103}{}{UÅ¾ jsem unavenÃ½ ÄekÃ¡nÃ­m, ÄekÃ¡nÃ­m na NI.}
+{104}{}{Kdy je Äas jÃ­t do hajan?}
+{105}{}{Co to tady smrdÃ­! Aha, to jsem jÃ¡.}
+{106}{}{To uÅ¾ jsou 4 hodiny? Chci veÄeÅ™i!}
+{107}{}{PÃ¡ni, uÅ¾ vÃ­c jak hodinu mi neluplo v kÅ™Ã­Å¾i!}
+{108}{}{NevidÄ›l nÄ›kdo moje zuby?}
+{109}{}{Kde je moje jÃ­dlo?}
+{110}{}{SMRT! To je to, na co ÄekÃ¡m! Tady jsem!}
+{111}{}{Ahoj, Billy! Jsem rÃ¡d, Å¾e ses na mÄ› pÅ™iÅ¡el podÃ­vat.}
+{112}{}{StÃ¡rnutÃ­ nenÃ­ pro baby.}
+{113}{}{Jejda! Moje stÅ™eva!}
+{114}{}{NemÃ¡ nÄ›kdo plÃ­ny?}
+{115}{}{MÃ¡m tolik vÄ›domostÃ­, kterÃ½ bych mohl pÅ™edat, ale nÄ›jak se mi do toho nechce.}
+{116}{}{Ti dneÅ¡nÃ­ ghoulovÃ©... pche!}
+{117}{}{Å½Ã¡dnÃ¡ Ãºcta... nikdo uÅ¾ nikoho nerespektuje.}
+{118}{}{Pamatuju jeÅ¡tÄ› Seta...}
+{119}{}{Jakpak se asi mÃ¡ starej Jed v Gecku?}
+{120}{}{MÃ¡Å¡ rÃ¡d mutanty? JÃ¡ jo.}
+{121}{}{MÃ¡m rÃ¡d brambory! MÃ¡m je rÃ¡d Å¡Å¥ouchanÃ½ a taky smaÅ¾enÃ½!}
+{122}{}{MÃ¡m hlad!}
+{123}{}{ChtÄ›l bych tady mÃ­t kytiÄku.}
+{124}{}{NemÃ¡m to venku rÃ¡d.}
+{125}{}{StejnÄ› tomu starÃ½mu dolu brzo dojde uran.}
+{126}{}{Ty nejsi z Vault City, Å¾e ne?}
+{127}{}{Pamatuju, jak jsme tenkrÃ¡t bojovali v Necropolis se ZÃ¡Å™Ã­cÃ­ma... to byly Äasy...}
+{128}{}{PovÃ­m ti, jak jsme tenkrÃ¡t otevÅ™eli Vault...}
+{129}{}{...co jsem to Å™Ã­kal?}
+{130}{}{::zÃ­v::}
 {131}{}{::prrrrrd::}
-{132}{}{U nemám co øíct!}
-{133}{}{Potøebuju si dát dvacet.}
-{134}{}{Je mi zima a jdou po mì vlci.}
-{135}{}{Psi vrtìj ocasama ještì nìkolik HODIN po smrti!}
+{132}{}{UÅ¾ nemÃ¡m co Å™Ã­ct!}
+{133}{}{PotÅ™ebuju si dÃ¡t dvacet.}
+{134}{}{Je mi zima a jdou po mÄ› vlci.}
+{135}{}{Psi vrtÄ›j ocasama jeÅ¡tÄ› nÄ›kolik HODIN po smrti!}

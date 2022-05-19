@@ -1,1 +1,1 @@
-{100}{}{Vzduchem se šíøí slabé huèení, jako by se nìkde poblí nacházelo magnetické pole.}
+{100}{}{Vzduchem se Å¡Ã­Å™Ã­ slabÃ© huÄenÃ­, jako by se nÄ›kde poblÃ­Å¾ nachÃ¡zelo magnetickÃ© pole.}

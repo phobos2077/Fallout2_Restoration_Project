@@ -1,48 +1,48 @@
-{100}{}{Vidíš páraèe. Sleduje tì podivuhodnì inteligentníma oèima.}
-{101}{}{Vidíš páraèe Jula.}
-{102}{}{Vidíš obyèejného páraèe. Je to mohutnı tvor s ostrımi zuby a dlouhımi paøáty.}
-{103}{}{Stop. Ty nejít sem. Tohle místo zakázáno.}
-{104}{}{Dobøe. Já jít.}
-{105}{}{Co bıt tohle za místo?}
+{100}{}{VidÃ­Å¡ pÃ¡raÄe. Sleduje tÄ› podivuhodnÄ› inteligentnÃ­ma oÄima.}
+{101}{}{VidÃ­Å¡ pÃ¡raÄe Jula.}
+{102}{}{VidÃ­Å¡ obyÄejnÃ©ho pÃ¡raÄe. Je to mohutnÃ½ tvor s ostrÃ½mi zuby a dlouhÃ½mi paÅ™Ã¡ty.}
+{103}{}{Stop. Ty nejÃ­t sem. Tohle mÃ­sto zakÃ¡zÃ¡no.}
+{104}{}{DobÅ™e. JÃ¡ jÃ­t.}
+{105}{}{Co bÃ½t tohle za mÃ­sto?}
 {106}{}{Kdo ty?}
 {107}{}{Tak jo, odejdu.}
-{108}{}{Pùjdu tam, kam budu chtít, ještìrèí hovno!}
-{109}{}{Co je tohle za místo?}
+{108}{}{PÅ¯jdu tam, kam budu chtÃ­t, jeÅ¡tÄ›rÄÃ­ hovno!}
+{109}{}{Co je tohle za mÃ­sto?}
 {110}{}{Kdo jsi?}
-{111}{}{Tohle líheò. Matka smeèky uvnitø. Vajíèka uvnitø. Já hlídat. Všechny vajíèka.}
-{112}{}{Chtít mluvit s matka.}
+{111}{}{Tohle lÃ­heÅˆ. Matka smeÄky uvnitÅ™. VajÃ­Äka uvnitÅ™. JÃ¡ hlÃ­dat. VÅ¡echny vajÃ­Äka.}
+{112}{}{ChtÃ­t mluvit s matka.}
 {113}{}{Kdo ty?}
-{114}{}{Já teï jít.}
-{115}{}{Tak tedy odcházím.}
+{114}{}{JÃ¡ teÄ jÃ­t.}
+{115}{}{Tak tedy odchÃ¡zÃ­m.}
 {116}{}{Kdo jsi?}
 {117}{}{Chci mluvit s matkou.}
-{118}{}{Já Jul. Váleèník smeèky. Já hlídat líheò. Já hlídat matka.}
-{119}{}{Já}
-{120}{}{Já teï jít.}
-{121}{}{Hlídat matka dùleitá práce. Ty dùleitı.}
-{122}{}{Já jsem}
-{123}{}{Hlídání matky je velice zodpovìdná èinnost. Musíš bıt dùleitı èlen smeèky.}
-{124}{}{V tom pøípadì u pùjdu.}
-{125}{}{Ty poèkat. Já zeptat matka.}
-{126}{}{Dobøe.}
-{127}{}{Matka øíkat ona mluvit s ty. Ty jít dovnitø. Ty nedìlat problémy. Já nechtít ublíit ty, ale kdy ty dìlat problém já ublíit.}
-{128}{}{Matka øíkat ona mluvit s ty. Ty jít dovnitø, ale sám. Pøátelé zùstat tady. Ty nedìlat problémy. Já neublíit ty, ale já ublíit kdy ty dìlat problém.}
-{129}{}{Dobøe.}
-{130}{}{Ty to myslet? Já nedívat na to takhle. To cítit dobøe. Já líbit. Díky.}
-{131}{}{Nemít zaè. Já teï jít.}
-{132}{}{Chtít mluvit s matka.}
-{133}{}{Nemáš zaè. Musím jít.}
-{134}{}{Mùu mluvit s matkou?}
-{135}{}{Ještìrèí hovno... aha, já to chápat. Haha! Já teï nìco øíct tobì. Já tady hlídat, protoe já nejzlejší, nejtvrdší a nejdrsnìjší zkurvysyn v celı zatracenı vault. Ty zkusit nìco a uvidìt. Ty odejít odsud, nebo já ti utrhnout hlava a nasrat ti do krk.}
-{136}{}{U pùjdu.}
-{137}{}{Fakt? Tak se podíváme, jakej jseš tvrïák!}
-{138}{}{To zase ty. Co ty chtít?}
-{139}{}{Jen øíct ahoj. Já jít.}
-{140}{}{Kdo ty øíkat e bıt?}
-{141}{}{Co bıt tohle za místo?}
-{142}{}{Jen jsem tì chtìl pozdravit.}
-{143}{}{Co je tohle za místo?}
-{144}{}{Kdo e jsi?}
-{145}{}{Ty u mrtvı. Ty jen moc hloupı upadnout.}
-{146}{}{. Já chtít mluvit s matka.}
-{147}{}{, Jule, a chci si promluvit s matkou, prosím.}
+{118}{}{JÃ¡ Jul. VÃ¡leÄnÃ­k smeÄky. JÃ¡ hlÃ­dat lÃ­heÅˆ. JÃ¡ hlÃ­dat matka.}
+{119}{}{JÃ¡}
+{120}{}{JÃ¡ teÄ jÃ­t.}
+{121}{}{HlÃ­dat matka dÅ¯leÅ¾itÃ¡ prÃ¡ce. Ty dÅ¯leÅ¾itÃ½.}
+{122}{}{JÃ¡ jsem}
+{123}{}{HlÃ­dÃ¡nÃ­ matky je velice zodpovÄ›dnÃ¡ Äinnost. MusÃ­Å¡ bÃ½t dÅ¯leÅ¾itÃ½ Älen smeÄky.}
+{124}{}{V tom pÅ™Ã­padÄ› uÅ¾ pÅ¯jdu.}
+{125}{}{Ty poÄkat. JÃ¡ zeptat matka.}
+{126}{}{DobÅ™e.}
+{127}{}{Matka Å™Ã­kat ona mluvit s ty. Ty jÃ­t dovnitÅ™. Ty nedÄ›lat problÃ©my. JÃ¡ nechtÃ­t ublÃ­Å¾it ty, ale kdyÅ¾ ty dÄ›lat problÃ©m jÃ¡ ublÃ­Å¾it.}
+{128}{}{Matka Å™Ã­kat ona mluvit s ty. Ty jÃ­t dovnitÅ™, ale sÃ¡m. PÅ™Ã¡telÃ© zÅ¯stat tady. Ty nedÄ›lat problÃ©my. JÃ¡ neublÃ­Å¾it ty, ale jÃ¡ ublÃ­Å¾it kdyÅ¾ ty dÄ›lat problÃ©m.}
+{129}{}{DobÅ™e.}
+{130}{}{Ty to myslet? JÃ¡ nedÃ­vat na to takhle. To cÃ­tit dobÅ™e. JÃ¡ lÃ­bit. DÃ­ky.}
+{131}{}{NemÃ­t zaÄ. JÃ¡ teÄ jÃ­t.}
+{132}{}{ChtÃ­t mluvit s matka.}
+{133}{}{NemÃ¡Å¡ zaÄ. MusÃ­m jÃ­t.}
+{134}{}{MÅ¯Å¾u mluvit s matkou?}
+{135}{}{JeÅ¡tÄ›rÄÃ­ hovno... aha, jÃ¡ to chÃ¡pat. Haha! JÃ¡ teÄ nÄ›co Å™Ã­ct tobÄ›. JÃ¡ tady hlÃ­dat, protoÅ¾e jÃ¡ nejzlejÅ¡Ã­, nejtvrdÅ¡Ã­ a nejdrsnÄ›jÅ¡Ã­ zkurvysyn v celÃ½ zatracenÃ½ vault. Ty zkusit nÄ›co a uvidÄ›t. Ty odejÃ­t odsud, nebo jÃ¡ ti utrhnout hlava a nasrat ti do krk.}
+{136}{}{UÅ¾ pÅ¯jdu.}
+{137}{}{Fakt? Tak se podÃ­vÃ¡me, jakej jseÅ¡ tvrÄÃ¡k!}
+{138}{}{To zase ty. Co ty chtÃ­t?}
+{139}{}{Jen Å™Ã­ct ahoj. JÃ¡ jÃ­t.}
+{140}{}{Kdo ty Å™Ã­kat Å¾e bÃ½t?}
+{141}{}{Co bÃ½t tohle za mÃ­sto?}
+{142}{}{Jen jsem tÄ› chtÄ›l pozdravit.}
+{143}{}{Co je tohle za mÃ­sto?}
+{144}{}{Kdo Å¾e jsi?}
+{145}{}{Ty uÅ¾ mrtvÃ½. Ty jen moc hloupÃ½ upadnout.}
+{146}{}{. JÃ¡ chtÃ­t mluvit s matka.}
+{147}{}{, Jule, a chci si promluvit s matkou, prosÃ­m.}

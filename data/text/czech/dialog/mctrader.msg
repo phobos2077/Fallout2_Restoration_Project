@@ -1,28 +1,28 @@
-{100}{}{Róza dìlá ty nejlepší omelety.}
-{101}{}{Psst... nedávej si smaené krokety z brahmín.}
-{102}{}{Vdycky kdy mùu, zastavím se u Rózy.}
-{103}{}{Chutnají ti Róziny omelety?}
-{110}{}{Necítíš nìco?}
-{111}{}{Dobrı boe! Co to tady tak strašnì smrdí?!}
-{112}{}{Mùeš jít prosím o kousek dál? Zrovna jím.}
-{120}{}{Promiò, ale chci se vyspat.}
-{121}{}{Hej, co dìláš v mém pokoji?!}
-{122}{}{Vypadnìte!}
-{130}{}{Róze u došly omelety.}
-{131}{}{Zabiju èlovìka, kterı nechal její kuøe utéct.}
-{132}{}{Nemá cenu sem chodit, kdy nemají omelety.}
-{140}{}{Nechápu, proè sem ještì chodím obchodovat.}
-{141}{}{Tohle mìsto umírá.}
-{142}{}{Tohle bıvala prosperující farmáøská osada.}
-{150}{}{Øíká se, e Modoc 'získal' prosperující farmu na severovıchodì.}
-{151}{}{Nevím, jestli chci kupovat potraviny z Farmy Duchù.}
-{152}{}{Plodiny z Farmy Duchù jsou urèitì prokleté.}
-{160}{}{Slyšel jsem, e vradí nevinné eny a dìti.}
-{161}{}{Nechci obchodovat s bezohlednımi vrahy.}
-{162}{}{Potom, co jsem slyšel, e dìlají, jsem se málem pozvracel.}
-{163}{}{A u pro to mìli jakıkoliv dùvod, myslím, e v Modocu u nikdy obchodovat nebudu.}
-{164}{}{Lidé z Modocu jsou vrazi.}
-{170}{}{Vypadá to, e se to tu mìní k lepšímu.}
-{171}{}{Budu si muset najmout další lidi, aby odsud odnesli všechny ty potraviny.}
-{172}{}{Tak to nakonec vypadá, e Modoc nezanikne.}
-{500}{}{Vidíš obchodníka.}
+{100}{}{RÃ³za dÄ›lÃ¡ ty nejlepÅ¡Ã­ omelety.}
+{101}{}{Psst... nedÃ¡vej si smaÅ¾enÃ© krokety z brahmÃ­n.}
+{102}{}{VÅ¾dycky kdyÅ¾ mÅ¯Å¾u, zastavÃ­m se u RÃ³zy.}
+{103}{}{ChutnajÃ­ ti RÃ³ziny omelety?}
+{110}{}{NecÃ­tÃ­Å¡ nÄ›co?}
+{111}{}{DobrÃ½ boÅ¾e! Co to tady tak straÅ¡nÄ› smrdÃ­?!}
+{112}{}{MÅ¯Å¾eÅ¡ jÃ­t prosÃ­m o kousek dÃ¡l? Zrovna jÃ­m.}
+{120}{}{PromiÅˆ, ale chci se vyspat.}
+{121}{}{Hej, co dÄ›lÃ¡Å¡ v mÃ©m pokoji?!}
+{122}{}{VypadnÄ›te!}
+{130}{}{RÃ³ze uÅ¾ doÅ¡ly omelety.}
+{131}{}{Zabiju ÄlovÄ›ka, kterÃ½ nechal jejÃ­ kuÅ™e utÃ©ct.}
+{132}{}{NemÃ¡ cenu sem chodit, kdyÅ¾ nemajÃ­ omelety.}
+{140}{}{NechÃ¡pu, proÄ sem jeÅ¡tÄ› chodÃ­m obchodovat.}
+{141}{}{Tohle mÄ›sto umÃ­rÃ¡.}
+{142}{}{Tohle bÃ½vala prosperujÃ­cÃ­ farmÃ¡Å™skÃ¡ osada.}
+{150}{}{Å˜Ã­kÃ¡ se, Å¾e Modoc 'zÃ­skal' prosperujÃ­cÃ­ farmu na severovÃ½chodÄ›.}
+{151}{}{NevÃ­m, jestli chci kupovat potraviny z Farmy DuchÅ¯.}
+{152}{}{Plodiny z Farmy DuchÅ¯ jsou urÄitÄ› prokletÃ©.}
+{160}{}{SlyÅ¡el jsem, Å¾e vraÅ¾dÃ­ nevinnÃ© Å¾eny a dÄ›ti.}
+{161}{}{Nechci obchodovat s bezohlednÃ½mi vrahy.}
+{162}{}{Potom, co jsem slyÅ¡el, Å¾e dÄ›lajÃ­, jsem se mÃ¡lem pozvracel.}
+{163}{}{AÅ¥ uÅ¾ pro to mÄ›li jakÃ½koliv dÅ¯vod, myslÃ­m, Å¾e v Modocu uÅ¾ nikdy obchodovat nebudu.}
+{164}{}{LidÃ© z Modocu jsou vrazi.}
+{170}{}{VypadÃ¡ to, Å¾e se to tu mÄ›nÃ­ k lepÅ¡Ã­mu.}
+{171}{}{Budu si muset najmout dalÅ¡Ã­ lidi, aby odsud odnesli vÅ¡echny ty potraviny.}
+{172}{}{Tak to nakonec vypadÃ¡, Å¾e Modoc nezanikne.}
+{500}{}{VidÃ­Å¡ obchodnÃ­ka.}

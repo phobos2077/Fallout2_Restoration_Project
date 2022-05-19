@@ -1,52 +1,52 @@
-{100}{}{Vidíš trpaslièího mue ve špinavıch hadrech.}
-{101}{}{Vidíš Briana.}
-{102}{}{Vidíš trpaslièího mue ve špinavıch hadrech. V puse má párátko a je celı od oleje. Má špinavé nehty.}
-{103}{}{Uvidíme, jak se ti bude líbit todle, ty asociální tupèe.}
-{104}{}{Co chceš?}
+{100}{}{VidÃ­Å¡ trpasliÄÃ­ho muÅ¾e ve Å¡pinavÃ½ch hadrech.}
+{101}{}{VidÃ­Å¡ Briana.}
+{102}{}{VidÃ­Å¡ trpasliÄÃ­ho muÅ¾e ve Å¡pinavÃ½ch hadrech. V puse mÃ¡ pÃ¡rÃ¡tko a je celÃ½ od oleje. MÃ¡ Å¡pinavÃ© nehty.}
+{103}{}{UvidÃ­me, jak se ti bude lÃ­bit todle, ty asociÃ¡lnÃ­ tupÄe.}
+{104}{}{Co chceÅ¡?}
 {105}{}{Nyug aarg.}
 {106}{}{Kdo jsi?}
-{107}{}{Co je tohle za místo?}
-{108}{}{Neslyšel jsi nìkdy o GECKu?}
-{109}{}{Poslouchej, Eric potøebuje upravit dodávku energie do svého domu. Øíká, e se moc potí.}
-{110}{}{Eric je moc spokojenı ve svém hezky klimatizovaném domì a dodávka energie po mìstì je taky v poøádku.}
-{111}{}{Právì jsem šel kolem a mluvil s Ericem. Øíkal, e to tady kdysi øídil a e uranové èlánky mají tolik energie, e by sis tak malého odbìru nikdy nevšimnul. Pøidej mu energii.}
+{107}{}{Co je tohle za mÃ­sto?}
+{108}{}{NeslyÅ¡el jsi nÄ›kdy o GECKu?}
+{109}{}{Poslouchej, Eric potÅ™ebuje upravit dodÃ¡vku energie do svÃ©ho domu. Å˜Ã­kÃ¡, Å¾e se moc potÃ­.}
+{110}{}{Eric je moc spokojenÃ½ ve svÃ©m hezky klimatizovanÃ©m domÄ› a dodÃ¡vka energie po mÄ›stÄ› je taky v poÅ™Ã¡dku.}
+{111}{}{PrÃ¡vÄ› jsem Å¡el kolem a mluvil s Ericem. Å˜Ã­kal, Å¾e to tady kdysi Å™Ã­dil a Å¾e uranovÃ© ÄlÃ¡nky majÃ­ tolik energie, Å¾e by sis tak malÃ©ho odbÄ›ru nikdy nevÅ¡imnul. PÅ™idej mu energii.}
 {112}{}{Nic. Nashle.}
-{113}{}{Já? Jsem Brian. Obsluhuju generátor, kterı dodává energii mìstu.}
-{114}{}{Tak tebe zrovna hledám. Eric øíkal, e u nìj není moc pøíjemnì a e potøebuje zvıšit dodávku energie pro svou klimatizaci.}
-{115}{}{Aha. To je opravdu zajímavé. To musí bıt zajímavá práce.}
-{116}{}{Super. Mám další otázky.}
-{117}{}{Tohle je elektrárna Broken Hills. A já se tady v podstatì starám... aby to fungovalo. A bìí to zatracenì dobøe... díky uranovım èlánkùm.}
-{118}{}{To musí bıt skvìlé. No, mám další otázky.}
-{119}{}{Uranovım èlánkùm?}
-{120}{}{Zajímavé. Nashle.}
-{121}{}{GECK? O nìèem takovém jsem v ivotì neslyšel. A myslím, e ani nikdo jinı odsud ne. Ale zní to jako nìjaké zvíøe nebo nìco, co má ohavné paøáty.}
-{122}{}{Ne, to není to, co hledám. Chci se ještì zeptat.}
-{123}{}{To není vùbec ono. Nashle.}
-{124}{}{Eric chce víc energie? Eric NEMÙE dostat víc energie. Máme nastavené pøesnì vyváené mnoství energie a kdy dám Ericovi víc, pøestane fungovat nemocnice nebo svìtla nebo dùl. To nemùu dopustit.}
-{125}{}{Jestli ten stroj funguje na uranové èlánky, tak máte dost vıkonu pro tohle mìsto a JEŠTÌ New Reno a ani si toho nevšimnete. Pøidej mu.}
-{126}{}{Ale... ale... on trpí.}
-{127}{}{Take není vùbec ádná šance, e bys mohl udìlat pár úpravièek?}
+{113}{}{JÃ¡? Jsem Brian. Obsluhuju generÃ¡tor, kterÃ½ dodÃ¡vÃ¡ energii mÄ›stu.}
+{114}{}{Tak tebe zrovna hledÃ¡m. Eric Å™Ã­kal, Å¾e u nÄ›j nenÃ­ moc pÅ™Ã­jemnÄ› a Å¾e potÅ™ebuje zvÃ½Å¡it dodÃ¡vku energie pro svou klimatizaci.}
+{115}{}{Aha. To je opravdu zajÃ­mavÃ©. To musÃ­ bÃ½t zajÃ­mavÃ¡ prÃ¡ce.}
+{116}{}{Super. MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
+{117}{}{Tohle je elektrÃ¡rna Broken Hills. A jÃ¡ se tady v podstatÄ› starÃ¡m... aby to fungovalo. A bÄ›Å¾Ã­ to zatracenÄ› dobÅ™e... dÃ­ky uranovÃ½m ÄlÃ¡nkÅ¯m.}
+{118}{}{To musÃ­ bÃ½t skvÄ›lÃ©. No, mÃ¡m dalÅ¡Ã­ otÃ¡zky.}
+{119}{}{UranovÃ½m ÄlÃ¡nkÅ¯m?}
+{120}{}{ZajÃ­mavÃ©. Nashle.}
+{121}{}{GECK? O nÄ›Äem takovÃ©m jsem v Å¾ivotÄ› neslyÅ¡el. A myslÃ­m, Å¾e ani nikdo jinÃ½ odsud ne. Ale znÃ­ to jako nÄ›jakÃ© zvÃ­Å™e nebo nÄ›co, co mÃ¡ ohavnÃ© paÅ™Ã¡ty.}
+{122}{}{Ne, to nenÃ­ to, co hledÃ¡m. Chci se jeÅ¡tÄ› zeptat.}
+{123}{}{To nenÃ­ vÅ¯bec ono. Nashle.}
+{124}{}{Eric chce vÃ­c energie? Eric NEMÅ®Å½E dostat vÃ­c energie. MÃ¡me nastavenÃ© pÅ™esnÄ› vyvÃ¡Å¾enÃ© mnoÅ¾stvÃ­ energie a kdyÅ¾ dÃ¡m Ericovi vÃ­c, pÅ™estane fungovat nemocnice nebo svÄ›tla nebo dÅ¯l. To nemÅ¯Å¾u dopustit.}
+{125}{}{Jestli ten stroj funguje na uranovÃ© ÄlÃ¡nky, tak mÃ¡te dost vÃ½konu pro tohle mÄ›sto a JEÅ TÄš New Reno a ani si toho nevÅ¡imnete. PÅ™idej mu.}
+{126}{}{Ale... ale... on trpÃ­.}
+{127}{}{TakÅ¾e nenÃ­ vÅ¯bec Å¾Ã¡dnÃ¡ Å¡ance, Å¾e bys mohl udÄ›lat pÃ¡r ÃºpraviÄek?}
 {128}{}{[He looks sullenly down at his dials and says in a small voice.] You're mean.}
 {129}{}{Jo. Nashle!}
-{130}{}{Hej! Nièeho se nedotıkej! To je citlivé zaøízení! Ven! Vypadni! Bì pryè! Bì domù!}
+{130}{}{Hej! NiÄeho se nedotÃ½kej! To je citlivÃ© zaÅ™Ã­zenÃ­! Ven! Vypadni! BÄ›Å¾ pryÄ! BÄ›Å¾ domÅ¯!}
 {131}{}{Ooooch! Butunz!}
-{132}{}{No, není. Ani ne. Vìtšinou tady jen sedím a dávám pozor na ciferníky, aby se drely ve správnıch hodnotách. Sem tam nìco upravím a obèas nìco pøepnu. A to je asi tak všechno. Zvládl by to kadı.}
-{133}{}{Take, mohl bys pøidat víc energie do Erikova domu?}
-{134}{}{Kadı, jo? Mám další otázky.}
-{135}{}{Dík. Naskle.}
-{136}{}{No, díky našemu uranovému dolu a atomové energii, která je energií budoucnosti, je jen v poøádku, e dríme krok s dobou. Moná jsme malí, ale pokrokoví.}
-{137}{}{Hmm. Tak dobøe. Mám další otázky.}
-{138}{}{Jasnì. Nashle.}
-{139}{}{No, jistì, technicky øeèeno to pravda je, ale...}
-{140}{}{Ale nic. Jseš prostì jen línej. Dej se do toho.}
-{141}{}{Nemusíš bejt kvùli tomu na mì zlej. (Sklopí hlavu a otoèí knoflíkem.) Hotovo. Øekni mu, a u si teï pøestane stìovat.}
+{132}{}{No, nenÃ­. Ani ne. VÄ›tÅ¡inou tady jen sedÃ­m a dÃ¡vÃ¡m pozor na cifernÃ­ky, aby se drÅ¾ely ve sprÃ¡vnÃ½ch hodnotÃ¡ch. Sem tam nÄ›co upravÃ­m a obÄas nÄ›co pÅ™epnu. A to je asi tak vÅ¡echno. ZvlÃ¡dl by to kaÅ¾dÃ½.}
+{133}{}{TakÅ¾e, mohl bys pÅ™idat vÃ­c energie do Erikova domu?}
+{134}{}{KaÅ¾dÃ½, jo? MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
+{135}{}{DÃ­k. Naskle.}
+{136}{}{No, dÃ­ky naÅ¡emu uranovÃ©mu dolu a atomovÃ© energii, kterÃ¡ je energiÃ­ budoucnosti, je jen v poÅ™Ã¡dku, Å¾e drÅ¾Ã­me krok s dobou. MoÅ¾nÃ¡ jsme malÃ­, ale pokrokovÃ­.}
+{137}{}{Hmm. Tak dobÅ™e. MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
+{138}{}{JasnÄ›. Nashle.}
+{139}{}{No, jistÄ›, technicky Å™eÄeno to pravda je, ale...}
+{140}{}{Ale nic. JseÅ¡ prostÄ› jen lÃ­nej. Dej se do toho.}
+{141}{}{NemusÃ­Å¡ bejt kvÅ¯li tomu na mÄ› zlej. (SklopÃ­ hlavu a otoÄÃ­ knoflÃ­kem.) Hotovo. Å˜ekni mu, aÅ¥ uÅ¾ si teÄ pÅ™estane stÄ›Å¾ovat.}
 {142}{}{Ty jsi tak hodnej, chlape.}
-{143}{}{Tak s tím jdi tam, kam slunce nesvítí. Fakt dìkuju za to, e jsi to udìlal ještì tìší, ne to muselo bıt.}
-{144}{}{Moná by se mìl jen èastìji koupat. Hezkı den.}
+{143}{}{Tak s tÃ­m jdi tam, kam slunce nesvÃ­tÃ­. Fakt dÄ›kuju za to, Å¾e jsi to udÄ›lal jeÅ¡tÄ› tÄ›Å¾Å¡Ã­, neÅ¾ to muselo bÃ½t.}
+{144}{}{MoÅ¾nÃ¡ by se mÄ›l jen ÄastÄ›ji koupat. HezkÃ½ den.}
 {145}{}{Nashle.}
-{146}{}{Ne, bojím se, e ne. Potøeby mìsta daleko pøevyšují potøeby jednotlivce.}
-{147}{}{V tom pøípadì mám další otázky.}
-{148}{}{To je od tebe velmi prospìšné. Dám mu vìdìt, e není dùleitı. Sbohem.}
+{146}{}{Ne, bojÃ­m se, Å¾e ne. PotÅ™eby mÄ›sta daleko pÅ™evyÅ¡ujÃ­ potÅ™eby jednotlivce.}
+{147}{}{V tom pÅ™Ã­padÄ› mÃ¡m dalÅ¡Ã­ otÃ¡zky.}
+{148}{}{To je od tebe velmi prospÄ›Å¡nÃ©. DÃ¡m mu vÄ›dÄ›t, Å¾e nenÃ­ dÅ¯leÅ¾itÃ½. Sbohem.}
 {149}{}{Hmm... coo... he?}
 {150}{}{Chrrrrr... chrrrr...}
-{151}{}{Co chceš...? Hmm...? ::chrápání::}
+{151}{}{Co chceÅ¡...? Hmm...? ::chrÃ¡pÃ¡nÃ­::}

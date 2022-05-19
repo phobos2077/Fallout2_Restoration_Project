@@ -1,22 +1,22 @@
-{100}{}{Vidíš Maxe.}
-{101}{}{Vidíš øádového mnicha z Opatství.}
-{102}{}{Vypadá trochu nervóznì.}
-{200}{}{Ahoj. Co pro tebe mohu udìlat?}
-{201}{}{Mám nìco od Elaine...}
-{202}{}{Co je tohle za místo?}
+{100}{}{VidÃ­Å¡ Maxe.}
+{101}{}{VidÃ­Å¡ Å™Ã¡dovÃ©ho mnicha z OpatstvÃ­.}
+{102}{}{VypadÃ¡ trochu nervÃ³znÄ›.}
+{200}{}{Ahoj. Co pro tebe mohu udÄ›lat?}
+{201}{}{MÃ¡m nÄ›co od Elaine...}
+{202}{}{Co je tohle za mÃ­sto?}
 {203}{}{Nashle.}
-{300}{}{Nech mì hádat. Je to ta souèástka, kterou jsem si vyádal, e?}
-{301}{}{Ano, tady ji máš.}
-{302}{}{Ne, jenom tì zkouším.}
-{303}{}{(Vezme si od tebe souèástku.) Koneènì! Koneènì teï mùeme opravit tuto tiskárnu. Dìkuji. Za odmìnu si vezmi tuto pøíruèku k pøeití.}
-{304}{}{Díky.}
-{305}{}{Podívej, na tohle nemám èas. Máš tu souèástku nebo ne?}
-{306}{}{Jo, mám ji.}
-{307}{}{Kašlu na to, mizím odsud.}
-{400}{}{Tohle je tiskárna. Kopírujeme tu naše knihy.}
-{401}{}{Dobrá, díky za informace.}
-{500}{}{Získáváš 100 zkušenostních bodù za doruèení souèástky.}
-{600}{}{Já bıt dneska VELKÁ pomocník. Mít soušátka od ena s krásnı jméno.}
-{610}{}{To musí bıt ta souèástka, kterou jsem si vyádal od Elaine. Dìkuji, e jsi ji pøinesl. Tady,
- za odmìnu si vezmi tuhle pøíruèku k pøeití...pokud tedy umíš èíst.}
-{611}{}{Já umìt èíst deset slova. Ale mám raèi kníka s obrázkama. To bıt víc sranda. Dìkujù!}
+{300}{}{Nech mÄ› hÃ¡dat. Je to ta souÄÃ¡stka, kterou jsem si vyÅ¾Ã¡dal, Å¾e?}
+{301}{}{Ano, tady ji mÃ¡Å¡.}
+{302}{}{Ne, jenom tÄ› zkouÅ¡Ã­m.}
+{303}{}{(Vezme si od tebe souÄÃ¡stku.) KoneÄnÄ›! KoneÄnÄ› teÄ mÅ¯Å¾eme opravit tuto tiskÃ¡rnu. DÄ›kuji. Za odmÄ›nu si vezmi tuto pÅ™Ã­ruÄku k pÅ™eÅ¾itÃ­.}
+{304}{}{DÃ­ky.}
+{305}{}{PodÃ­vej, na tohle nemÃ¡m Äas. MÃ¡Å¡ tu souÄÃ¡stku nebo ne?}
+{306}{}{Jo, mÃ¡m ji.}
+{307}{}{KaÅ¡lu na to, mizÃ­m odsud.}
+{400}{}{Tohle je tiskÃ¡rna. KopÃ­rujeme tu naÅ¡e knihy.}
+{401}{}{DobrÃ¡, dÃ­ky za informace.}
+{500}{}{ZÃ­skÃ¡vÃ¡Å¡ 100 zkuÅ¡enostnÃ­ch bodÅ¯ za doruÄenÃ­ souÄÃ¡stky.}
+{600}{}{JÃ¡ bÃ½t dneska VELKÃ pomocnÃ­k. MÃ­t souÅ¡Ã¡tka od Å¾ena s krÃ¡snÃ½ jmÃ©no.}
+{610}{}{To musÃ­ bÃ½t ta souÄÃ¡stka, kterou jsem si vyÅ¾Ã¡dal od Elaine. DÄ›kuji, Å¾e jsi ji pÅ™inesl. Tady,
+ za odmÄ›nu si vezmi tuhle pÅ™Ã­ruÄku k pÅ™eÅ¾itÃ­...pokud tedy umÃ­Å¡ ÄÃ­st.}
+{611}{}{JÃ¡ umÄ›t ÄÃ­st deset slova. Ale mÃ¡m raÄi knÃ­Å¾ka s obrÃ¡zkama. To bÃ½t vÃ­c sranda. DÄ›kujÅ¯!}

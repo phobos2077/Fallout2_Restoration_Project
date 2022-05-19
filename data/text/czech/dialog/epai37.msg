@@ -1,46 +1,46 @@
-{100}{}{Vidíš upraveného Auto-Doka.}
-{101}{}{Tento Auto-Dok vypadá, e byl upraven k provádìní experimentálních modifikací vzhledu.}
-{200}{}{(Stroj tì osloví, kdy se pøiblííš.) Vítejte, testovací objekte. Dìkujeme vám za dobrovolné nabídnutí vašeho tìla vìdì. Prosím, vstupte do mì a mùeme zaèít.}
-{201}{}{Poèkat, já nic dobrovolnì nenabízím. Ne nìkam vùbec vstoupím, chci vìdìt, co pøesnì dìláš.}
-{202}{}{[Pokrèit rameny] Tak dobøe. [Vstoupit do zaøízení.]}
-{203}{}{Asi sis mì s nìkım spletl. Nashle.}
-{300}{}{Vítejte zpìt, testovací objekte. Prosím, vstupte do mì a mùeme zaèít.}
-{301}{}{Ne nìkam vùbec vstoupím, chci vìdìt, co pøesnì dìláš.}
-{302}{}{Tak dobøe. [Vstoupit do zaøízení]}
-{303}{}{Na to zapomeò. Nashle.}
-{400}{}{Jsem nejnovìjší prototyp Auto-Doka vyvinutého Dr. Woodem. Specializuji se na extrémní modifikace tìla. Na kompletní promìny. Nemusíte se nièeho obávat, úmrtnost mıch pacientù je vıraznì niší ne u pøedešlého prototypu. Neostıchejte se a vstupte do mì, a mùeme zaèít.}
-{401}{}{Mì se ani nedotkneš. Nashle.}
-{402}{}{Rád bych, ale u opravdu musím jít. Je mi líto.}
-{403}{}{Tak dobøe. [Vstoupit do zaøízení]}
-{410}{}{Prosím, vyberte si. Nabídka je bohuel omezená, jeliko nejsem pøíliš pokroèilı prototyp. Omlouvám se.}
-{411}{}{Zmìna pohlaví.}
-{412}{}{Zmìna rasy. (V souèasnosti pouze z bìlocha na èernocha a opaènì).}
-{413}{}{Zmìna úèesu (Bìnı úèes).}
-{414}{}{Zmìna úèesu (Dlouhé vlasy).}
-{415}{}{Zmìna úèesu (Pleš).}
-{416}{}{Zmìna úèesu (Blonïaté vlasy).}
+{100}{}{VidÃ­Å¡ upravenÃ©ho Auto-Doka.}
+{101}{}{Tento Auto-Dok vypadÃ¡, Å¾e byl upraven k provÃ¡dÄ›nÃ­ experimentÃ¡lnÃ­ch modifikacÃ­ vzhledu.}
+{200}{}{(Stroj tÄ› oslovÃ­, kdyÅ¾ se pÅ™iblÃ­Å¾Ã­Å¡.) VÃ­tejte, testovacÃ­ objekte. DÄ›kujeme vÃ¡m za dobrovolnÃ© nabÃ­dnutÃ­ vaÅ¡eho tÄ›la vÄ›dÄ›. ProsÃ­m, vstupte do mÄ› a mÅ¯Å¾eme zaÄÃ­t.}
+{201}{}{PoÄkat, jÃ¡ nic dobrovolnÄ› nenabÃ­zÃ­m. NeÅ¾ nÄ›kam vÅ¯bec vstoupÃ­m, chci vÄ›dÄ›t, co pÅ™esnÄ› dÄ›lÃ¡Å¡.}
+{202}{}{[PokrÄit rameny] Tak dobÅ™e. [Vstoupit do zaÅ™Ã­zenÃ­.]}
+{203}{}{Asi sis mÄ› s nÄ›kÃ½m spletl. Nashle.}
+{300}{}{VÃ­tejte zpÄ›t, testovacÃ­ objekte. ProsÃ­m, vstupte do mÄ› a mÅ¯Å¾eme zaÄÃ­t.}
+{301}{}{NeÅ¾ nÄ›kam vÅ¯bec vstoupÃ­m, chci vÄ›dÄ›t, co pÅ™esnÄ› dÄ›lÃ¡Å¡.}
+{302}{}{Tak dobÅ™e. [Vstoupit do zaÅ™Ã­zenÃ­]}
+{303}{}{Na to zapomeÅˆ. Nashle.}
+{400}{}{Jsem nejnovÄ›jÅ¡Ã­ prototyp Auto-Doka vyvinutÃ©ho Dr. Woodem. Specializuji se na extrÃ©mnÃ­ modifikace tÄ›la. Na kompletnÃ­ promÄ›ny. NemusÃ­te se niÄeho obÃ¡vat, Ãºmrtnost mÃ½ch pacientÅ¯ je vÃ½raznÄ› niÅ¾Å¡Ã­ neÅ¾ u pÅ™edeÅ¡lÃ©ho prototypu. NeostÃ½chejte se a vstupte do mÄ›, aÅ¥ mÅ¯Å¾eme zaÄÃ­t.}
+{401}{}{MÄ› se ani nedotkneÅ¡. Nashle.}
+{402}{}{RÃ¡d bych, ale uÅ¾ opravdu musÃ­m jÃ­t. Je mi lÃ­to.}
+{403}{}{Tak dobÅ™e. [Vstoupit do zaÅ™Ã­zenÃ­]}
+{410}{}{ProsÃ­m, vyberte si. NabÃ­dka je bohuÅ¾el omezenÃ¡, jelikoÅ¾ nejsem pÅ™Ã­liÅ¡ pokroÄilÃ½ prototyp. OmlouvÃ¡m se.}
+{411}{}{ZmÄ›na pohlavÃ­.}
+{412}{}{ZmÄ›na rasy. (V souÄasnosti pouze z bÄ›locha na Äernocha a opaÄnÄ›).}
+{413}{}{ZmÄ›na ÃºÄesu (BÄ›Å¾nÃ½ ÃºÄes).}
+{414}{}{ZmÄ›na ÃºÄesu (DlouhÃ© vlasy).}
+{415}{}{ZmÄ›na ÃºÄesu (PleÅ¡).}
+{416}{}{ZmÄ›na ÃºÄesu (BlonÄatÃ© vlasy).}
 {417}{}{Alter Hairstyle (Red Hair).}
-{418}{}{Kdy nad tím tak pøemıšlím, tak na to teï vánì nemám èas. Nashle.}
-{500}{}{Tato procedura vyaduje 4 tıdny zotavování a má riziko úmrtí 50%. Pøejete si zaèít?}
-{501}{}{Pojïme na to.}
-{502}{}{Ano. Koneènì budu vypadat stejnì jako se cítím uvnitø.}
-{503}{}{Eh, moná pozdìji. Nashle.}
+{418}{}{KdyÅ¾ nad tÃ­m tak pÅ™emÃ½Å¡lÃ­m, tak na to teÄ vÃ¡Å¾nÄ› nemÃ¡m Äas. Nashle.}
+{500}{}{Tato procedura vyÅ¾aduje 4 tÃ½dny zotavovÃ¡nÃ­ a mÃ¡ riziko ÃºmrtÃ­ 50%. PÅ™ejete si zaÄÃ­t?}
+{501}{}{PojÄme na to.}
+{502}{}{Ano. KoneÄnÄ› budu vypadat stejnÄ› jako se cÃ­tÃ­m uvnitÅ™.}
+{503}{}{Eh, moÅ¾nÃ¡ pozdÄ›ji. Nashle.}
 {504}{}{Chci si vybrat jinou proceduru.}
-{505}{}{V ádném pøípadì! Padám odsud!}
-{510}{}{Skvìlá volba. Tato procedura vyaduje 2 tıdny zotavování a má riziko úmrtí 25%. Pøejete si zaèít?}
-{511}{}{Pojïme na to.}
-{512}{}{Ano. Koneènì budu vypadat stejnì jako se cítím uvnitø.}
-{513}{}{Eh, moná pozdìji. Nashle.}
+{505}{}{V Å¾Ã¡dnÃ©m pÅ™Ã­padÄ›! PadÃ¡m odsud!}
+{510}{}{SkvÄ›lÃ¡ volba. Tato procedura vyÅ¾aduje 2 tÃ½dny zotavovÃ¡nÃ­ a mÃ¡ riziko ÃºmrtÃ­ 25%. PÅ™ejete si zaÄÃ­t?}
+{511}{}{PojÄme na to.}
+{512}{}{Ano. KoneÄnÄ› budu vypadat stejnÄ› jako se cÃ­tÃ­m uvnitÅ™.}
+{513}{}{Eh, moÅ¾nÃ¡ pozdÄ›ji. Nashle.}
 {514}{}{Chci si vybrat jinou proceduru.}
-{515}{}{V ádném pøípadì! Padám odsud!}
-{520}{}{Skvìlá volba. Tato procedura vyaduje 1 den zotavování a má riziko úmrtí 1%. Pøejete si zaèít?}
-{521}{}{Pojïme na to.}
-{522}{}{Ano. Koneènì budu vypadat stejnì jako se cítím uvnitø.}
-{523}{}{Eh, moná pozdìji. Nashle.}
+{515}{}{V Å¾Ã¡dnÃ©m pÅ™Ã­padÄ›! PadÃ¡m odsud!}
+{520}{}{SkvÄ›lÃ¡ volba. Tato procedura vyÅ¾aduje 1 den zotavovÃ¡nÃ­ a mÃ¡ riziko ÃºmrtÃ­ 1%. PÅ™ejete si zaÄÃ­t?}
+{521}{}{PojÄme na to.}
+{522}{}{Ano. KoneÄnÄ› budu vypadat stejnÄ› jako se cÃ­tÃ­m uvnitÅ™.}
+{523}{}{Eh, moÅ¾nÃ¡ pozdÄ›ji. Nashle.}
 {524}{}{Chci si vybrat jinou proceduru.}
-{525}{}{V ádném pøípadì! Padám odsud!}
-{600}{}{Gratuluji! Experiment byl úspìšnı. Dìkujeme a uijte si vaše nové já.}
+{525}{}{V Å¾Ã¡dnÃ©m pÅ™Ã­padÄ›! PadÃ¡m odsud!}
+{600}{}{Gratuluji! Experiment byl ÃºspÄ›Å¡nÃ½. DÄ›kujeme a uÅ¾ijte si vaÅ¡e novÃ© jÃ¡.}
 {601}{}{[Konec]}
-{650}{}{Je mi líto, ale tato konkrétní procedura je pro eny momentálnì nedostupná.}
-{700}{}{Je mi líto, ale nìco se ošklivì pokazilo. Omlouváme se vám za zpùsobené potíe a dìkujeme za vaši dobrovolnou obì v zájmu vìdy.}
+{650}{}{Je mi lÃ­to, ale tato konkrÃ©tnÃ­ procedura je pro Å¾eny momentÃ¡lnÄ› nedostupnÃ¡.}
+{700}{}{Je mi lÃ­to, ale nÄ›co se oÅ¡klivÄ› pokazilo. OmlouvÃ¡me se vÃ¡m za zpÅ¯sobenÃ© potÃ­Å¾e a dÄ›kujeme za vaÅ¡i dobrovolnou obÄ›Å¥ v zÃ¡jmu vÄ›dy.}
 {701}{}{A do prdele...}

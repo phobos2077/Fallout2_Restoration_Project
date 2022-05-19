@@ -1,30 +1,30 @@
-{100}{}{Osoba, kterou vidíš, slabì svìtélkuje. Jeho kùe se zdá bıt tìce popálená.}
-{101}{}{Vidíš Záøícího, obèana Gecka.}
-{102}{}{Vidíš nìkoho, kdo byl vystaven tak vysoké radiaci, e lehce záøí. Tak vysoká radiace by ho mìla zabít, ale vypadá to, e mu to moc nevadí.}
-{110}{}{Takhle vysoká radiace mi zajišuje jistou práci.}
-{111}{}{Dívej na tu záø. Vidíš ji?}
-{112}{}{Miluju chodit do práce kadı den.}
-{113}{}{Budeme potøebovat víc uranu.}
-{114}{}{Øekl bych, e jsme tady všichni atomovì nabiti.}
+{100}{}{Osoba, kterou vidÃ­Å¡, slabÄ› svÄ›tÃ©lkuje. Jeho kÅ¯Å¾e se zdÃ¡ bÃ½t tÄ›Å¾ce popÃ¡lenÃ¡.}
+{101}{}{VidÃ­Å¡ ZÃ¡Å™Ã­cÃ­ho, obÄana Gecka.}
+{102}{}{VidÃ­Å¡ nÄ›koho, kdo byl vystaven tak vysokÃ© radiaci, Å¾e lehce zÃ¡Å™Ã­. Tak vysokÃ¡ radiace by ho mÄ›la zabÃ­t, ale vypadÃ¡ to, Å¾e mu to moc nevadÃ­.}
+{110}{}{Takhle vysokÃ¡ radiace mi zajiÅ¡Å¥uje jistou prÃ¡ci.}
+{111}{}{DÃ­vej na tu zÃ¡Å™. VidÃ­Å¡ ji?}
+{112}{}{Miluju chodit do prÃ¡ce kaÅ¾dÃ½ den.}
+{113}{}{Budeme potÅ™ebovat vÃ­c uranu.}
+{114}{}{Å˜ekl bych, Å¾e jsme tady vÅ¡ichni atomovÄ› nabiti.}
 {120}{}{Miluju to teplo.}
-{121}{}{Cítím se tu bájeènì.}
-{122}{}{Nevím, co bych dìlal, kdybych musel ít nìkde jinde.}
-{123}{}{Miluju vùni radiace po ránu.}
-{124}{}{Aspoò jsem nikdy v noci nepotøeboval baterku.}
-{125}{}{(Ukáe svım opálenım prstem na tebe) Zavolej domù.}
-{126}{}{Víš, jestli zavøeš ty dveøe, tak u se nikdy neopálím.}
-{127}{}{Tohle je pøesnì to místo, kam patøím.}
-{128}{}{Nemùu uvìøit tomu, e ti lidé z Vault City chtìjí znièit mùj domov.}
-{129}{}{Reaktore, mùj sladkı reaktore.}
+{121}{}{CÃ­tÃ­m se tu bÃ¡jeÄnÄ›.}
+{122}{}{NevÃ­m, co bych dÄ›lal, kdybych musel Å¾Ã­t nÄ›kde jinde.}
+{123}{}{Miluju vÅ¯ni radiace po rÃ¡nu.}
+{124}{}{AspoÅˆ jsem nikdy v noci nepotÅ™eboval baterku.}
+{125}{}{(UkÃ¡Å¾e svÃ½m opÃ¡lenÃ½m prstem na tebe) Zavolej domÅ¯.}
+{126}{}{VÃ­Å¡, jestli zavÅ™eÅ¡ ty dveÅ™e, tak uÅ¾ se nikdy neopÃ¡lÃ­m.}
+{127}{}{Tohle je pÅ™esnÄ› to mÃ­sto, kam patÅ™Ã­m.}
+{128}{}{NemÅ¯Å¾u uvÄ›Å™it tomu, Å¾e ti lidÃ© z Vault City chtÄ›jÃ­ zniÄit mÅ¯j domov.}
+{129}{}{Reaktore, mÅ¯j sladkÃ½ reaktore.}
 {130}{}{Doma je doma.}
-{131}{}{Teplo vyrobené atomem... zaèínám ho milovat.}
-{140}{}{Díky za opravu reaktoru. Je tu sice trochu chladnìji, ale ne zas o tolik.}
-{141}{}{Brrr... díky za opravu reaktoru.}
-{142}{}{Škoda, e jsem nemìl tu souèástku.}
-{143}{}{Díky za pomoc.}
-{144}{}{Moná, e lidi z Vault City nejsou a tak špatní.}
-{150}{}{U si ani nevzpomínám, kdy reaktor naposled pracoval dobøe.}
-{151}{}{Dneska je tu vyloenì kosa.}
-{152}{}{Brrrr, já tu snad zmrznu.}
-{153}{}{Myslím, e mám omrzliny nebo nìco takového.}
-{154}{}{Není ti zima?}
+{131}{}{Teplo vyrobenÃ© atomem... zaÄÃ­nÃ¡m ho milovat.}
+{140}{}{DÃ­ky za opravu reaktoru. Je tu sice trochu chladnÄ›ji, ale ne zas o tolik.}
+{141}{}{Brrr... dÃ­ky za opravu reaktoru.}
+{142}{}{Å koda, Å¾e jsem nemÄ›l tu souÄÃ¡stku.}
+{143}{}{DÃ­ky za pomoc.}
+{144}{}{MoÅ¾nÃ¡, Å¾e lidi z Vault City nejsou aÅ¾ tak Å¡patnÃ­.}
+{150}{}{UÅ¾ si ani nevzpomÃ­nÃ¡m, kdy reaktor naposled pracoval dobÅ™e.}
+{151}{}{Dneska je tu vyloÅ¾enÄ› kosa.}
+{152}{}{Brrrr, jÃ¡ tu snad zmrznu.}
+{153}{}{MyslÃ­m, Å¾e mÃ¡m omrzliny nebo nÄ›co takovÃ©ho.}
+{154}{}{NenÃ­ ti zima?}

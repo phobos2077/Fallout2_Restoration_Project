@@ -1,8 +1,8 @@
-{100}{}{Vidíš divocha.}
-{101}{}{Vidíš divocha, doktorova vìznì.}
-{102}{}{Smutnì vypadající vìzeò, kterı patøí doktorovi.}
+{100}{}{VidÃ­Å¡ divocha.}
+{101}{}{VidÃ­Å¡ divocha, doktorova vÄ›znÄ›.}
+{102}{}{SmutnÄ› vypadajÃ­cÃ­ vÄ›zeÅˆ, kterÃ½ patÅ™Ã­ doktorovi.}
 {103}{}{POMOC!}
-{104}{}{POMOZ NÁM!}
-{105}{}{Prosím, osvoboï nás!!}
-{106}{}{U to tu nemùeme vydret!!}
-{107}{}{Dìkujeme ti, pøíteli!}
+{104}{}{POMOZ NÃM!}
+{105}{}{ProsÃ­m, osvoboÄ nÃ¡s!!}
+{106}{}{UÅ¾ to tu nemÅ¯Å¾eme vydrÅ¾et!!}
+{107}{}{DÄ›kujeme ti, pÅ™Ã­teli!}

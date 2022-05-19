@@ -1,18 +1,18 @@
-{100}{}{Vidíš staršího mue.}
-{101}{}{Je neoholenı a smrdí alkoholem.}
-{102}{}{*škyt* My se známe?}
-{103}{}{Je 11 hodin veèer. Víš, kde se nachází tvoje dítì?}
-{104}{}{(Ospale se na tebe podívá.) Coe? *škyt* To u je 11?}
-{105}{}{Ve skuteènosti ne, jen jsem to chtìl øíct. Ale teï vánì, víš, kde se nachází tvoje dítì?}
-{106}{}{Ve skuteènosti ano, ale to teï není dùleité. Ale teï vánì, víš, kde se nachází tvoje dítì?}
-{107}{}{*škyt* Já mám dítì? *škyt* No jo vlastnì. On... nebo je to ona...*škyt* tady nìkde je.}
-{108}{}{Jsi pìknı orala. Ještì, e mám v plánu tvoje dítì odsud dostat.}
-{109}{}{(Ignoruje tvoji poznámku.) Jo, to je fajn. *škyt* A teï se vrátím ke svımu pití.}
-{110}{}{Jsi ten nejlepší otec na svìtì. Jen tak dál!}
+{100}{}{VidÃ­Å¡ starÅ¡Ã­ho muÅ¾e.}
+{101}{}{Je neoholenÃ½ a smrdÃ­ alkoholem.}
+{102}{}{*Å¡kyt* My se znÃ¡me?}
+{103}{}{Je 11 hodin veÄer. VÃ­Å¡, kde se nachÃ¡zÃ­ tvoje dÃ­tÄ›?}
+{104}{}{(Ospale se na tebe podÃ­vÃ¡.) CoÅ¾e? *Å¡kyt* To uÅ¾ je 11?}
+{105}{}{Ve skuteÄnosti ne, jen jsem to chtÄ›l Å™Ã­ct. Ale teÄ vÃ¡Å¾nÄ›, vÃ­Å¡, kde se nachÃ¡zÃ­ tvoje dÃ­tÄ›?}
+{106}{}{Ve skuteÄnosti ano, ale to teÄ nenÃ­ dÅ¯leÅ¾itÃ©. Ale teÄ vÃ¡Å¾nÄ›, vÃ­Å¡, kde se nachÃ¡zÃ­ tvoje dÃ­tÄ›?}
+{107}{}{*Å¡kyt* JÃ¡ mÃ¡m dÃ­tÄ›? *Å¡kyt* No jo vlastnÄ›. On... nebo je to ona...*Å¡kyt* tady nÄ›kde je.}
+{108}{}{Jsi pÄ›knÃ½ oÅ¾rala. JeÅ¡tÄ›, Å¾e mÃ¡m v plÃ¡nu tvoje dÃ­tÄ› odsud dostat.}
+{109}{}{(Ignoruje tvoji poznÃ¡mku.) Jo, to je fajn. *Å¡kyt* A teÄ se vrÃ¡tÃ­m ke svÃ½mu pitÃ­.}
+{110}{}{Jsi ten nejlepÅ¡Ã­ otec na svÄ›tÄ›. Jen tak dÃ¡l!}
 {111}{}{chrrRRRrrr...}
 {112}{}{chrrRRRrrr...}
-{113}{}{*mumlá*}
-{114}{}{Nevidíš, e chlastám? *škyt*}
-{115}{}{Nech mì na pokoji. *škyt*}
-{116}{}{Ve skuteènosti ještì není 11, ale to teï není dùleité. Ale teï vánì, víš, kde se nachází tvoje dítì?}
-{117}{}{Ve skuteènosti u 11 bylo, ale to teï není dùleité. Ale teï vánì, víš, kde se nachází tvoje dítì?}
+{113}{}{*mumlÃ¡*}
+{114}{}{NevidÃ­Å¡, Å¾e chlastÃ¡m? *Å¡kyt*}
+{115}{}{Nech mÄ› na pokoji. *Å¡kyt*}
+{116}{}{Ve skuteÄnosti jeÅ¡tÄ› nenÃ­ 11, ale to teÄ nenÃ­ dÅ¯leÅ¾itÃ©. Ale teÄ vÃ¡Å¾nÄ›, vÃ­Å¡, kde se nachÃ¡zÃ­ tvoje dÃ­tÄ›?}
+{117}{}{Ve skuteÄnosti uÅ¾ 11 bylo, ale to teÄ nenÃ­ dÅ¯leÅ¾itÃ©. Ale teÄ vÃ¡Å¾nÄ›, vÃ­Å¡, kde se nachÃ¡zÃ­ tvoje dÃ­tÄ›?}

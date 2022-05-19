@@ -1,171 +1,171 @@
-{100}{}{Vidíš... dalšího... funkcionáøe Vault City.}
-{101}{}{Vidíš Barkuse, velitele Centra rozdìlování sluebníkù Vault City.}
-{102}{}{Co to sak...?! Mutant! Ve Vault City! Stráe! Stráe!}
-{103}{}{Co to sak...?! Ghoul! Ve Vault City! Stráe! Stráe!}
+{100}{}{VidÃ­Å¡... dalÅ¡Ã­ho... funkcionÃ¡Å™e Vault City.}
+{101}{}{VidÃ­Å¡ Barkuse, velitele Centra rozdÄ›lovÃ¡nÃ­ sluÅ¾ebnÃ­kÅ¯ Vault City.}
+{102}{}{Co to sak...?! Mutant! Ve Vault City! StrÃ¡Å¾e! StrÃ¡Å¾e!}
+{103}{}{Co to sak...?! Ghoul! Ve Vault City! StrÃ¡Å¾e! StrÃ¡Å¾e!}
 {104}{}{Emm... ehrmmm?}
 {105}{}{Jestli chcete boj...}
-{106}{}{Støedisko rozdìlování sluebníkù je teï zavøeno. Pøijïte prosím ráno.}
-{107}{}{Ano, Kapitáne?}
-{108}{}{Ano, Obèane?}
-{109}{}{Ano, co se dìje? Jsem pozadu v plnìní svıch úkolù.}
-{110}{}{Ehmm... já hledat Valt!}
+{106}{}{StÅ™edisko rozdÄ›lovÃ¡nÃ­ sluÅ¾ebnÃ­kÅ¯ je teÄ zavÅ™eno. PÅ™ijÄte prosÃ­m rÃ¡no.}
+{107}{}{Ano, KapitÃ¡ne?}
+{108}{}{Ano, ObÄane?}
+{109}{}{Ano, co se dÄ›je? Jsem pozadu v plnÄ›nÃ­ svÃ½ch ÃºkolÅ¯.}
+{110}{}{Ehmm... jÃ¡ hledat Valt!}
 {111}{}{Odbelhat se.}
 {112}{}{Co je tohle za budovu?}
-{113}{}{Hledám Vault.}
-{114}{}{Hledám konkrétního sluebníka... Joshuu. Je tu nìkde?}
-{115}{}{Chcete koupit otroky... eh, sluebníky?}
-{116}{}{Dnes nic, díky.}
-{117}{}{Tahle? To je Centrum rozdìlování sluebníkù. Potøebujete sluebníka?}
-{118}{}{Tohle je Centrum rozdìlování sluebníkù.}
-{119}{}{Centrum rozdìlování sluebníkù? Co to je?}
-{120}{}{Hledám konkrétního sluebníka... Joshuu. Je tu nìkde?}
-{121}{}{Rozdìlování sluebníkù, jo? Kupujete tu otroky... eh, sluebníky?}
-{122}{}{Ne, jen se tak ptám. Díky.}
-{123}{}{Jen se ptám. Díky.}
-{124}{}{Vault? To je ta obøí díra ve skále na vıchod od mìsta. Vyjdìte ze vstupních dveøí, otoète se doleva a jdìte poøád rovnì. Nemùete to minout.}
+{113}{}{HledÃ¡m Vault.}
+{114}{}{HledÃ¡m konkrÃ©tnÃ­ho sluÅ¾ebnÃ­ka... Joshuu. Je tu nÄ›kde?}
+{115}{}{Chcete koupit otroky... eh, sluÅ¾ebnÃ­ky?}
+{116}{}{Dnes nic, dÃ­ky.}
+{117}{}{Tahle? To je Centrum rozdÄ›lovÃ¡nÃ­ sluÅ¾ebnÃ­kÅ¯. PotÅ™ebujete sluÅ¾ebnÃ­ka?}
+{118}{}{Tohle je Centrum rozdÄ›lovÃ¡nÃ­ sluÅ¾ebnÃ­kÅ¯.}
+{119}{}{Centrum rozdÄ›lovÃ¡nÃ­ sluÅ¾ebnÃ­kÅ¯? Co to je?}
+{120}{}{HledÃ¡m konkrÃ©tnÃ­ho sluÅ¾ebnÃ­ka... Joshuu. Je tu nÄ›kde?}
+{121}{}{RozdÄ›lovÃ¡nÃ­ sluÅ¾ebnÃ­kÅ¯, jo? Kupujete tu otroky... eh, sluÅ¾ebnÃ­ky?}
+{122}{}{Ne, jen se tak ptÃ¡m. DÃ­ky.}
+{123}{}{Jen se ptÃ¡m. DÃ­ky.}
+{124}{}{Vault? To je ta obÅ™Ã­ dÃ­ra ve skÃ¡le na vÃ½chod od mÄ›sta. VyjdÄ›te ze vstupnÃ­ch dveÅ™Ã­, otoÄte se doleva a jdÄ›te poÅ™Ã¡d rovnÄ›. NemÅ¯Å¾ete to minout.}
 {125}{}{Co je tohle za budovu?}
-{126}{}{Mùe jít dovnitø kdokoliv?}
-{127}{}{Chci se ještì zeptat...}
-{128}{}{Díky za informace. Sbohem.}
-{129}{}{Co...? Vy jste novı sluebník?}
+{126}{}{MÅ¯Å¾e jÃ­t dovnitÅ™ kdokoliv?}
+{127}{}{Chci se jeÅ¡tÄ› zeptat...}
+{128}{}{DÃ­ky za informace. Sbohem.}
+{129}{}{CoÅ¾...? Vy jste novÃ½ sluÅ¾ebnÃ­k?}
 {130}{}{Jo.}
-{131}{}{E-he, já teï odejít.}
-{132}{}{Nejspíš to tu neznáte. Vysvìtlím vám to... pomalu.}
-{133}{}{Obèané, kteøí potøebují pomoc s podøadnımi pracemi, si zajdou do Centra a na den dostanou pøiøazeného sluebníka.}
-{134}{}{To zní skoro jako otroctví.}
-{135}{}{Aha, tak tady se skladují otroci. Proè jste to neøekl hned?}
-{136}{}{Odkud berete všechny sluebníky?}
-{137}{}{Hledám konkrétního sluebníka... Joshuu. Je tu nìkde?}
-{138}{}{Nemáte zájem koupit nìjaké otroky... eh, sluebníky?}
-{139}{}{Aha, jen se tak ptám, díky. Nashle.}
-{140}{}{U mì unavuje posílat sluebníky bez øádného povolení... *vzdych* ...tak se na to podíváme. Øíkáte, e hledáte Vault? To bude urèitì vaše dnešní náplò práce. Tak dobøe. Pošlu tam s vámi nìjakı doprovod.}
+{131}{}{E-he, jÃ¡ teÄ odejÃ­t.}
+{132}{}{NejspÃ­Å¡ to tu neznÃ¡te. VysvÄ›tlÃ­m vÃ¡m to... pomalu.}
+{133}{}{ObÄanÃ©, kteÅ™Ã­ potÅ™ebujÃ­ pomoc s podÅ™adnÃ½mi pracemi, si zajdou do Centra a na den dostanou pÅ™iÅ™azenÃ©ho sluÅ¾ebnÃ­ka.}
+{134}{}{To znÃ­ skoro jako otroctvÃ­.}
+{135}{}{Aha, tak tady se skladujÃ­ otroci. ProÄ jste to neÅ™ekl hned?}
+{136}{}{Odkud berete vÅ¡echny sluÅ¾ebnÃ­ky?}
+{137}{}{HledÃ¡m konkrÃ©tnÃ­ho sluÅ¾ebnÃ­ka... Joshuu. Je tu nÄ›kde?}
+{138}{}{NemÃ¡te zÃ¡jem koupit nÄ›jakÃ© otroky... eh, sluÅ¾ebnÃ­ky?}
+{139}{}{Aha, jen se tak ptÃ¡m, dÃ­ky. Nashle.}
+{140}{}{UÅ¾ mÄ› unavuje posÃ­lat sluÅ¾ebnÃ­ky bez Å™Ã¡dnÃ©ho povolenÃ­... *vzdych* ...tak se na to podÃ­vÃ¡me. Å˜Ã­kÃ¡te, Å¾e hledÃ¡te Vault? To bude urÄitÄ› vaÅ¡e dneÅ¡nÃ­ nÃ¡plÅˆ prÃ¡ce. Tak dobÅ™e. PoÅ¡lu tam s vÃ¡mi nÄ›jakÃ½ doprovod.}
 {141}{}{Valt! Valt!}
-{142}{}{Bıt vámi, dám si pozor na to, co øíkáte. Tohle NENÍ otroctví. My se o tyto uprchlíky staráme a díky tomu mají slušnı ivot... lepší, ne kdyby ili venku v pustinì.}
+{142}{}{BÃ½t vÃ¡mi, dÃ¡m si pozor na to, co Å™Ã­kÃ¡te. Tohle NENÃ otroctvÃ­. My se o tyto uprchlÃ­ky starÃ¡me a dÃ­ky tomu majÃ­ sluÅ¡nÃ½ Å¾ivot... lepÅ¡Ã­, neÅ¾ kdyby Å¾ili venku v pustinÄ›.}
 {143}{}{Odkud je berete?}
-{144}{}{Hm, chci se ještì zeptat...}
-{145}{}{To bude asi všechno, díky. Hezkı den.}
-{146}{}{Ne, pøístup do Vaultu mají pouze Obèané. Poslyšte, mám teï dost vlastní práce, take mì omluvte...}
-{147}{}{Ještì jednu otázku...}
-{148}{}{Tak dobøe. Sbohem.}
-{149}{}{Naši sluebníci jsou vìtšinou uprchlíci pøed útoky nájezdníkù nebo vìzni, kteøí se rozhodli odpracovat si svùj trest prospìšnımi pracemi.}
-{150}{}{Aha, vy myslíte skriptaøe? Znám jednoho chlapíka jménem Dan, kterı...}
-{151}{}{Za cenu vlastní svobody, jo?}
-{152}{}{Máte ve vazbì vìznì jménem Joshua?}
-{153}{}{Nemáte zájem koupit nìjaké otroky... eh, sluebníky?}
-{154}{}{Hmmm. Chci se ještì zeptat...}
-{155}{}{Aha. Díky za informace.}
-{156}{}{Ne, ádní skriptaøi, ty magore.}
-{157}{}{Magor? Víte jakou práci dá získat 9 Inteligence a Vnímání, aby se èlovìk dostal k téhle odpovìdi? O èem jste to vlastnì mluvil?}
-{158}{}{Vy jste ten pravı na vynášení morálních soudù, otrokáøi. Vypadnìte odsud.}
-{159}{}{Mluvíte úplnì stejnì jako ten idiot Moore... pøesnì to Vault City potøebuje. Poslyšte, a u jste kdokoliv, mám dost práce, take budu rád, kdy se ztratíte...}
+{144}{}{Hm, chci se jeÅ¡tÄ› zeptat...}
+{145}{}{To bude asi vÅ¡echno, dÃ­ky. HezkÃ½ den.}
+{146}{}{Ne, pÅ™Ã­stup do Vaultu majÃ­ pouze ObÄanÃ©. PoslyÅ¡te, mÃ¡m teÄ dost vlastnÃ­ prÃ¡ce, takÅ¾e mÄ› omluvte...}
+{147}{}{JeÅ¡tÄ› jednu otÃ¡zku...}
+{148}{}{Tak dobÅ™e. Sbohem.}
+{149}{}{NaÅ¡i sluÅ¾ebnÃ­ci jsou vÄ›tÅ¡inou uprchlÃ­ci pÅ™ed Ãºtoky nÃ¡jezdnÃ­kÅ¯ nebo vÄ›zni, kteÅ™Ã­ se rozhodli odpracovat si svÅ¯j trest prospÄ›Å¡nÃ½mi pracemi.}
+{150}{}{Aha, vy myslÃ­te skriptaÅ™e? ZnÃ¡m jednoho chlapÃ­ka jmÃ©nem Dan, kterÃ½...}
+{151}{}{Za cenu vlastnÃ­ svobody, jo?}
+{152}{}{MÃ¡te ve vazbÄ› vÄ›znÄ› jmÃ©nem Joshua?}
+{153}{}{NemÃ¡te zÃ¡jem koupit nÄ›jakÃ© otroky... eh, sluÅ¾ebnÃ­ky?}
+{154}{}{Hmmm. Chci se jeÅ¡tÄ› zeptat...}
+{155}{}{Aha. DÃ­ky za informace.}
+{156}{}{Ne, Å¾Ã¡dnÃ­ skriptaÅ™i, ty magore.}
+{157}{}{Magor? VÃ­te jakou prÃ¡ci dÃ¡ zÃ­skat 9 Inteligence a VnÃ­mÃ¡nÃ­, aby se ÄlovÄ›k dostal k tÃ©hle odpovÄ›di? O Äem jste to vlastnÄ› mluvil?}
+{158}{}{Vy jste ten pravÃ½ na vynÃ¡Å¡enÃ­ morÃ¡lnÃ­ch soudÅ¯, otrokÃ¡Å™i. VypadnÄ›te odsud.}
+{159}{}{MluvÃ­te ÃºplnÄ› stejnÄ› jako ten idiot Moore... pÅ™esnÄ› to Vault City potÅ™ebuje. PoslyÅ¡te, aÅ¥ uÅ¾ jste kdokoliv, mÃ¡m dost prÃ¡ce, takÅ¾e budu rÃ¡d, kdyÅ¾ se ztratÃ­te...}
 {160}{}{Fajn, fajn...}
-{161}{}{Donute mì odejít.}
-{162}{}{Joshua? Ano, máme tu takového sluebníka, ale urèitì ho nebudete chtít najmout. Zatrénovat ho je... obtíné. Nejsem si jist, e je toho vùbec schopen.}
-{163}{}{Joshua? Myslím, e jsme nìkoho takového kdysi mìli, ale u tu dávno není.}
-{164}{}{Musím se ho na nìco zeptat ohlednì jedné záleitosti, která se tıká bezpeènosti Vault City. Nechte ho ihned poslat na Pøedmìstí.}
-{165}{}{I pøesto si ho chci najmout.}
-{166}{}{Obtíné?}
-{167}{}{Nechci ho najmout pro sebe. To vùbec ne. Jen se obávám, e by mohl bıt nakaenı.}
-{168}{}{Hmmm. Ještì jednu otázku...}
-{169}{}{Tak dobøe. Sbohem.}
-{170}{}{Myslím, e to není dobrı nápad. Poèkejte, ne podstoupí trochu víc tréninku a poté se rozhodnu.}
-{171}{}{Øíkáte, e se obtínì trénuje?}
-{172}{}{Ještì jednu otázku...}
-{173}{}{Tak dobøe. Sbohem.}
-{174}{}{Ano. Je mnohem vzpurnìjší, ne kterıkoliv ze sluebníkù, které jsme tu doposud mìli. Kdybych ho tak dobøe neznal, myslel bych si, e jeho otec byla brahmína.}
-{175}{}{Víte, takové chování by mohl bıt problém. Co kdyby se ostatní sluebníci zaèali chovat jako on?}
-{176}{}{Co kdy ho koupím a zbavím vás ho? Pøijímá Centrum... "sponzorské dary?"}
-{177}{}{Ještì jednu otázku...}
-{178}{}{Tak dobøe. Sbohem.}
-{179}{}{To je pravda. Musel jsem ho oddìlit od ostatních... a zrovna vèera mìl jeden ze sluebníkù tu drzost zpochybòovat jeden z mıch poadavkù.}
-{180}{}{Mìl byste ho radìji propustit, ne bude pozdì.}
-{181}{}{Joshua? Ano, máme tu takového sluebníka. Právì byl pøesunut do Nápravného zaøízení. Proè vás to zajímá?}
-{182}{}{Chci vyjednat jeho propuštìní.}
-{183}{}{Mám podezøení, e je nakaen nakalivou chorobou. Moná byste ho mìl propustit døív, ne nakazí další sluebníky.}
-{184}{}{Jen tak. Chci se ještì zeptat...}
-{185}{}{Tak dobøe. Sbohem.}
-{186}{}{Opravdu? A proè si myslíte, e bych ho mìl propustit?}
-{187}{}{Co byste øekl na velmi štìdrı dar do provozního fondu Sluebnického centra?}
-{188}{}{Mám podezøení, e je nakaen nakalivou chorobou. Moná byste ho mìl propustit døív, ne nakazí další sluebníky.}
-{189}{}{Jen tak. Chci se ještì zeptat...}
-{190}{}{Tak dobøe. Sbohem.}
-{191}{}{Ne, mìl jsem na mysli mnohem vìtší èástku.}
-{192}{}{Hmm. Dary jsou vskutku vítány k zajištìní plynulého provozu Centra, ale bude tøeba darovat nìco opravdu hodnotného, abych vám mohl vydat Joshuu.}
+{161}{}{DonuÅ¥te mÄ› odejÃ­t.}
+{162}{}{Joshua? Ano, mÃ¡me tu takovÃ©ho sluÅ¾ebnÃ­ka, ale urÄitÄ› ho nebudete chtÃ­t najmout. ZatrÃ©novat ho je... obtÃ­Å¾nÃ©. Nejsem si jist, Å¾e je toho vÅ¯bec schopen.}
+{163}{}{Joshua? MyslÃ­m, Å¾e jsme nÄ›koho takovÃ©ho kdysi mÄ›li, ale uÅ¾ tu dÃ¡vno nenÃ­.}
+{164}{}{MusÃ­m se ho na nÄ›co zeptat ohlednÄ› jednÃ© zÃ¡leÅ¾itosti, kterÃ¡ se tÃ½kÃ¡ bezpeÄnosti Vault City. Nechte ho ihned poslat na PÅ™edmÄ›stÃ­.}
+{165}{}{I pÅ™esto si ho chci najmout.}
+{166}{}{ObtÃ­Å¾nÃ©?}
+{167}{}{Nechci ho najmout pro sebe. To vÅ¯bec ne. Jen se obÃ¡vÃ¡m, Å¾e by mohl bÃ½t nakaÅ¾enÃ½.}
+{168}{}{Hmmm. JeÅ¡tÄ› jednu otÃ¡zku...}
+{169}{}{Tak dobÅ™e. Sbohem.}
+{170}{}{MyslÃ­m, Å¾e to nenÃ­ dobrÃ½ nÃ¡pad. PoÄkejte, neÅ¾ podstoupÃ­ trochu vÃ­c trÃ©ninku a potÃ© se rozhodnu.}
+{171}{}{Å˜Ã­kÃ¡te, Å¾e se obtÃ­Å¾nÄ› trÃ©nuje?}
+{172}{}{JeÅ¡tÄ› jednu otÃ¡zku...}
+{173}{}{Tak dobÅ™e. Sbohem.}
+{174}{}{Ano. Je mnohem vzpurnÄ›jÅ¡Ã­, neÅ¾ kterÃ½koliv ze sluÅ¾ebnÃ­kÅ¯, kterÃ© jsme tu doposud mÄ›li. Kdybych ho tak dobÅ™e neznal, myslel bych si, Å¾e jeho otec byla brahmÃ­na.}
+{175}{}{VÃ­te, takovÃ© chovÃ¡nÃ­ by mohl bÃ½t problÃ©m. Co kdyby se ostatnÃ­ sluÅ¾ebnÃ­ci zaÄali chovat jako on?}
+{176}{}{Co kdyÅ¾ ho koupÃ­m a zbavÃ­m vÃ¡s ho? PÅ™ijÃ­mÃ¡ Centrum... "sponzorskÃ© dary?"}
+{177}{}{JeÅ¡tÄ› jednu otÃ¡zku...}
+{178}{}{Tak dobÅ™e. Sbohem.}
+{179}{}{To je pravda. Musel jsem ho oddÄ›lit od ostatnÃ­ch... a zrovna vÄera mÄ›l jeden ze sluÅ¾ebnÃ­kÅ¯ tu drzost zpochybÅˆovat jeden z mÃ½ch poÅ¾adavkÅ¯.}
+{180}{}{MÄ›l byste ho radÄ›ji propustit, neÅ¾ bude pozdÄ›.}
+{181}{}{Joshua? Ano, mÃ¡me tu takovÃ©ho sluÅ¾ebnÃ­ka. PrÃ¡vÄ› byl pÅ™esunut do NÃ¡pravnÃ©ho zaÅ™Ã­zenÃ­. ProÄ vÃ¡s to zajÃ­mÃ¡?}
+{182}{}{Chci vyjednat jeho propuÅ¡tÄ›nÃ­.}
+{183}{}{MÃ¡m podezÅ™enÃ­, Å¾e je nakaÅ¾en nakaÅ¾livou chorobou. MoÅ¾nÃ¡ byste ho mÄ›l propustit dÅ™Ã­v, neÅ¾ nakazÃ­ dalÅ¡Ã­ sluÅ¾ebnÃ­ky.}
+{184}{}{Jen tak. Chci se jeÅ¡tÄ› zeptat...}
+{185}{}{Tak dobÅ™e. Sbohem.}
+{186}{}{Opravdu? A proÄ si myslÃ­te, Å¾e bych ho mÄ›l propustit?}
+{187}{}{Co byste Å™ekl na velmi Å¡tÄ›drÃ½ dar do provoznÃ­ho fondu SluÅ¾ebnickÃ©ho centra?}
+{188}{}{MÃ¡m podezÅ™enÃ­, Å¾e je nakaÅ¾en nakaÅ¾livou chorobou. MoÅ¾nÃ¡ byste ho mÄ›l propustit dÅ™Ã­v, neÅ¾ nakazÃ­ dalÅ¡Ã­ sluÅ¾ebnÃ­ky.}
+{189}{}{Jen tak. Chci se jeÅ¡tÄ› zeptat...}
+{190}{}{Tak dobÅ™e. Sbohem.}
+{191}{}{Ne, mÄ›l jsem na mysli mnohem vÄ›tÅ¡Ã­ ÄÃ¡stku.}
+{192}{}{Hmm. Dary jsou vskutku vÃ­tÃ¡ny k zajiÅ¡tÄ›nÃ­ plynulÃ©ho provozu Centra, ale bude tÅ™eba darovat nÄ›co opravdu hodnotnÃ©ho, abych vÃ¡m mohl vydat Joshuu.}
 {193}{}{Co takhle $1000?}
 {194}{}{Co takhle $750?}
 {195}{}{Co takhle $500?}
 {196}{}{Co takhle $250?}
-{197}{}{Popøemıšlím o tom. Chci se ještì zeptat...}
-{198}{}{Aha. Moná se vrátím pozdìji.}
-{199}{}{Aha. Vrátím se, a budu mít dost penìz na darování.}
-{200}{}{No... není to zrovna dar, kterı bych si pøedstavoval, ale budi. Dohlédnu na to, aby Joshuu dopravili k Soudu k dalšímu zpracování. Hned se do toho dám.}
-{201}{}{Dobøe.}
-{202}{}{Hotovo. Joshua u není sluebníkem ve Vault City a byl pøesunut na Pøedmìstí spolu se zbytkem venkovanù.}
-{203}{}{Díky. Chci se ještì zeptat...}
-{204}{}{Perfektní. Pùjdu si ho tam vyzvednout.}
-{205}{}{To zní dobøe. Snad se nevrátí zpìt do mìsta.}
-{206}{}{Vánì? Uvìdomujete si, e kadı sluebník projde velmi dùkladnou prohlídkou, ne je zaøazen do Centra?}
-{207}{}{Moná se pletu. Nicménì i pøesto chci vyjednat jeho propuštìní.}
-{208}{}{Øíká vám nìco syndrom }
-{209}{}{? Neukáe se na vìtšinì lékaøskıch pøístrojù a jeho pøíznaky mùou bıt skryté i nìkolik tıdnù.}
-{210}{}{V pustinách je nemoc zvaná syndrom }
-{211}{}{. Moná jste zpozoroval sníenou vıkonnost sluebníkù v poslední dobì. Tu celkovou nevrlost?}
-{212}{}{To je naprostı nesmysl. Pøestanete u mrhat mım èasem svımi li...}
-{213}{}{Tak dobøe, zapomeòte na ten syndrom "}
-{214}{}{." I pøesto chci vyjednat propuštìní Joshuy.}
-{215}{}{No, nevadí. Chci se ještì zeptat...}
-{216}{}{V tom pøípadì odcházím. Sbohem.}
-{217}{}{Infikovanı? Infikovanı èím?}
-{218}{}{Pøíznaky? Jaké pøíznaky?}
-{219}{}{Moná jste zpozoroval sníenou vıkonnost sluebníkù v poslední dobì. Nebo nepozornost. Jejich neschopnost poslouchat rozkazy a správnì je plnit. A to je teprve poèáteèní stádium.}
+{197}{}{PopÅ™emÃ½Å¡lÃ­m o tom. Chci se jeÅ¡tÄ› zeptat...}
+{198}{}{Aha. MoÅ¾nÃ¡ se vrÃ¡tÃ­m pozdÄ›ji.}
+{199}{}{Aha. VrÃ¡tÃ­m se, aÅ¾ budu mÃ­t dost penÄ›z na darovÃ¡nÃ­.}
+{200}{}{No... nenÃ­ to zrovna dar, kterÃ½ bych si pÅ™edstavoval, ale budiÅ¾. DohlÃ©dnu na to, aby Joshuu dopravili k Soudu k dalÅ¡Ã­mu zpracovÃ¡nÃ­. Hned se do toho dÃ¡m.}
+{201}{}{DobÅ™e.}
+{202}{}{Hotovo. Joshua uÅ¾ nenÃ­ sluÅ¾ebnÃ­kem ve Vault City a byl pÅ™esunut na PÅ™edmÄ›stÃ­ spolu se zbytkem venkovanÅ¯.}
+{203}{}{DÃ­ky. Chci se jeÅ¡tÄ› zeptat...}
+{204}{}{PerfektnÃ­. PÅ¯jdu si ho tam vyzvednout.}
+{205}{}{To znÃ­ dobÅ™e. Snad se nevrÃ¡tÃ­ zpÄ›t do mÄ›sta.}
+{206}{}{VÃ¡Å¾nÄ›? UvÄ›domujete si, Å¾e kaÅ¾dÃ½ sluÅ¾ebnÃ­k projde velmi dÅ¯kladnou prohlÃ­dkou, neÅ¾ je zaÅ™azen do Centra?}
+{207}{}{MoÅ¾nÃ¡ se pletu. NicmÃ©nÄ› i pÅ™esto chci vyjednat jeho propuÅ¡tÄ›nÃ­.}
+{208}{}{Å˜Ã­kÃ¡ vÃ¡m nÄ›co syndrom }
+{209}{}{? NeukÃ¡Å¾e se na vÄ›tÅ¡inÄ› lÃ©kaÅ™skÃ½ch pÅ™Ã­strojÅ¯ a jeho pÅ™Ã­znaky mÅ¯Å¾ou bÃ½t skrytÃ© i nÄ›kolik tÃ½dnÅ¯.}
+{210}{}{V pustinÃ¡ch je nemoc zvanÃ¡ syndrom }
+{211}{}{. MoÅ¾nÃ¡ jste zpozoroval snÃ­Å¾enou vÃ½konnost sluÅ¾ebnÃ­kÅ¯ v poslednÃ­ dobÄ›. Tu celkovou nevrlost?}
+{212}{}{To je naprostÃ½ nesmysl. PÅ™estanete uÅ¾ mrhat mÃ½m Äasem svÃ½mi lÅ¾i...}
+{213}{}{Tak dobÅ™e, zapomeÅˆte na ten syndrom "}
+{214}{}{." I pÅ™esto chci vyjednat propuÅ¡tÄ›nÃ­ Joshuy.}
+{215}{}{No, nevadÃ­. Chci se jeÅ¡tÄ› zeptat...}
+{216}{}{V tom pÅ™Ã­padÄ› odchÃ¡zÃ­m. Sbohem.}
+{217}{}{InfikovanÃ½? InfikovanÃ½ ÄÃ­m?}
+{218}{}{PÅ™Ã­znaky? JakÃ© pÅ™Ã­znaky?}
+{219}{}{MoÅ¾nÃ¡ jste zpozoroval snÃ­Å¾enou vÃ½konnost sluÅ¾ebnÃ­kÅ¯ v poslednÃ­ dobÄ›. Nebo nepozornost. Jejich neschopnost poslouchat rozkazy a sprÃ¡vnÄ› je plnit. A to je teprve poÄÃ¡teÄnÃ­ stÃ¡dium.}
 {220}{}{Eh...}
-{221}{}{ syndrom. Má ho spousta lidí z vnìjšího svìta. Mezi symptomy patøí i, ehm, mluvení bez vyzvání a pouívání sprostıch slov.}
-{222}{}{Hmmmm. To se nesmí stát, aby Obèané hlásili problémy se sluebníky... tak dobrá, ihned propustím Joshuu. Poèkejte, musím udìlat pár nezbytnıch opatøení...}
-{223}{}{Ano... v poslední dobì jsem si nìèeho takového u sluebníkù všiml. Nakalivé, øíkáte? Hmmm. No, pokud je Joshua pøenašeè, mìl bych ho radìji okamitì propustit. Vydrte chvíli, jen provedu nìjaké nezbytnosti...}
-{224}{}{ádnı problém. Joshuovi bude stejnì lépe s ostatními lidmi z vnìjšího svìta.}
-{225}{}{Jistì, Kapitáne. Hned se o to postarám.}
-{226}{}{Vıbornì, dìkuji vám, Obèane.}
-{227}{}{Moná. Chcete nìjaké prodat?}
-{228}{}{Ano, mám tu jednoho. Prohlédnìte si ho a nabídnìte cenu.}
-{229}{}{Ano, mám jich tu nìkolik. Prohlédnìte si je a nabídnìte cenu.}
-{230}{}{No, vlastnì ne. Chci se ještì zeptat...}
-{231}{}{No, dnes vlastnì ne. Sbohem.}
-{232}{}{Hmmm. Ta ena, Miria, e? Má silné pae... a pìkné boky. Koupím ji od vás za $250.}
-{233}{}{Hmmm. Ten hoch, Davin, e? Vypadá celkem nezasaen kontaminací z venku. Koupím ho od vás za $200.}
-{234}{}{Hmmm. Ten divoch, kterého máš. Silnì... páchne. Ale vypadá zdravì. Vezmu ho za $100.}
-{235}{}{Hmmm. Tamten chlapík... Vic, e? I kdy je dost starı, vypadá jako šikovnı chlap. $100.}
-{236}{}{Vrate se, a budete mít sluebníka, kterı za nìco stojí. Vaše souèasná nabídka je... nezajímavá.}
-{237}{}{No tak, ten otrok má vìtší cenu.}
-{238}{}{To je dobrá cena. Sluebník je váš.}
-{239}{}{Toho vlastnì ještì nechci prodat. Chci se ale na nìco zeptat...}
-{240}{}{Tohohle otroka vlastnì ještì nechci prodat. Provedeme ten obchod jindy.}
-{241}{}{Tak dobøe. Chci se ještì na nìco zeptat...}
-{242}{}{Tak dobøe. Zastavím se, a budu mít lepší nabídku.}
-{243}{}{Ne, to urèitì ne... 250 nebo nic.}
-{244}{}{Ne, ten hoch vypadá, e pùjde tìko zatrénovat... 200 nebo nic.}
-{245}{}{Poslyšte, potrvá tıden, ne z toho divocha smyjeme ten zápach. 100 nebo nic.}
-{246}{}{Vdy mi ani nemùete zaruèit, e nedostane infarkt, a odejdete. Je starı. 100 nebo nic.}
-{247}{}{Tak dobøe, to zní fér. Sluebník je váš.}
-{248}{}{Tak na to zapomeòte. Chci se ale ještì na nìco zeptat...}
-{249}{}{Tak tedy nic. Nemùu si dovolit propustit sluebníka za takovou cenu. Moná nìkdy jindy.}
-{250}{}{Hmmmm... vypadá jako zdravı kousek... moná bych tu pro ni našel nìjakou práci. $500. A to je má koneèná nabídka.}
-{251}{}{Hmmmm. Je to zdravı jedinec. Dám vám za nìj $400.}
-{252}{}{Hmmmm. Tak dobøe. $200. A u ádné smlouvání.}
-{253}{}{Hmmmmmmm. $200. A ani o babku víc.}
-{254}{}{To zní fér. Sluebník je váš.}
-{255}{}{Toho vlastnì ještì nechci prodat. Chci se ale na nìco zeptat...}
-{256}{}{Tohohle otroka vlastnì ještì nechci prodat. Provedeme ten obchod jindy.}
-{257}{}{Vıbornì. Tady máte peníze. Nechám ji odeslat na lékaøskou prohlídku a k zaèlenìní. }
-{258}{}{Vıbornì. Tady máte peníze. Nechám ho odeslat na lékaøskou prohlídku a k zaèlenìní. }
-{259}{}{Vıbornì. Tady máte peníze. Nechám toho divocha odeslat na lékaøskou prohlídku a k zaèlenìní. }
-{260}{}{Vıbornì. Tady máte peníze. Nechám toho starocha odeslat na lékaøskou prohlídku a k zaèlenìní. }
-{261}{}{Vydr chvíli, jen provedu nìjaké nezbytnosti...}
-{262}{}{Jistì. Poèkám tady.}
-{263}{}{Tak dobøe. Váš sluebník byl pøemístìn k lékaøské prohlídce a rekvalifikaci. Zvláštní... zdál se bıt velmi pøekvapenı. Musel dostat pár uklidòujících støel, aby mohlo všechno hladce probìhnout. Všechno, co mìl u sebe, jsem dal do krabice ve své kanceláøi.}
-{264}{}{No, sluebníci zùstanou vdy sluebníky. Chci se ještì zeptat...}
-{265}{}{Opravdu? No, vím urèitì, e bude èasem mnohem poslušnìjší. Zajímají vás ještì nìjací další spoleèníci?}
-{266}{}{Jo, bude to pro nì zpoèátku tìké, ale oni si èasem zvyknou. Hezkı den.}
-{267}{}{Co tady dìláte? Poslal jsem vás do Vaultu! U všech èer... no dobøe, øeknu nìkomu, a vás tam dopraví zpátky.}
-{268}{}{Dobøéééé.}
-{269}{}{Podaøilo se ti pøesvìdèit Barkuse, aby propustil Joshuu.}
-{300}{}{Slyšel jsem, e je z vás hrdina. Dobrá práce.}
+{221}{}{ syndrom. MÃ¡ ho spousta lidÃ­ z vnÄ›jÅ¡Ã­ho svÄ›ta. Mezi symptomy patÅ™Ã­ i, ehm, mluvenÃ­ bez vyzvÃ¡nÃ­ a pouÅ¾Ã­vÃ¡nÃ­ sprostÃ½ch slov.}
+{222}{}{Hmmmm. To se nesmÃ­ stÃ¡t, aby ObÄanÃ© hlÃ¡sili problÃ©my se sluÅ¾ebnÃ­ky... tak dobrÃ¡, ihned propustÃ­m Joshuu. PoÄkejte, musÃ­m udÄ›lat pÃ¡r nezbytnÃ½ch opatÅ™enÃ­...}
+{223}{}{Ano... v poslednÃ­ dobÄ› jsem si nÄ›Äeho takovÃ©ho u sluÅ¾ebnÃ­kÅ¯ vÅ¡iml. NakaÅ¾livÃ©, Å™Ã­kÃ¡te? Hmmm. No, pokud je Joshua pÅ™enaÅ¡eÄ, mÄ›l bych ho radÄ›ji okamÅ¾itÄ› propustit. VydrÅ¾te chvÃ­li, jen provedu nÄ›jakÃ© nezbytnosti...}
+{224}{}{Å½Ã¡dnÃ½ problÃ©m. Joshuovi bude stejnÄ› lÃ©pe s ostatnÃ­mi lidmi z vnÄ›jÅ¡Ã­ho svÄ›ta.}
+{225}{}{JistÄ›, KapitÃ¡ne. Hned se o to postarÃ¡m.}
+{226}{}{VÃ½bornÄ›, dÄ›kuji vÃ¡m, ObÄane.}
+{227}{}{MoÅ¾nÃ¡. Chcete nÄ›jakÃ© prodat?}
+{228}{}{Ano, mÃ¡m tu jednoho. ProhlÃ©dnÄ›te si ho a nabÃ­dnÄ›te cenu.}
+{229}{}{Ano, mÃ¡m jich tu nÄ›kolik. ProhlÃ©dnÄ›te si je a nabÃ­dnÄ›te cenu.}
+{230}{}{No, vlastnÄ› ne. Chci se jeÅ¡tÄ› zeptat...}
+{231}{}{No, dnes vlastnÄ› ne. Sbohem.}
+{232}{}{Hmmm. Ta Å¾ena, Miria, Å¾e? MÃ¡ silnÃ© paÅ¾e... a pÄ›knÃ© boky. KoupÃ­m ji od vÃ¡s za $250.}
+{233}{}{Hmmm. Ten hoch, Davin, Å¾e? VypadÃ¡ celkem nezasaÅ¾en kontaminacÃ­ z venku. KoupÃ­m ho od vÃ¡s za $200.}
+{234}{}{Hmmm. Ten divoch, kterÃ©ho mÃ¡Å¡. SilnÄ›... pÃ¡chne. Ale vypadÃ¡ zdravÄ›. Vezmu ho za $100.}
+{235}{}{Hmmm. Tamten chlapÃ­k... Vic, Å¾e? I kdyÅ¾ je dost starÃ½, vypadÃ¡ jako Å¡ikovnÃ½ chlap. $100.}
+{236}{}{VraÅ¥te se, aÅ¾ budete mÃ­t sluÅ¾ebnÃ­ka, kterÃ½ za nÄ›co stojÃ­. VaÅ¡e souÄasnÃ¡ nabÃ­dka je... nezajÃ­mavÃ¡.}
+{237}{}{No tak, ten otrok mÃ¡ vÄ›tÅ¡Ã­ cenu.}
+{238}{}{To je dobrÃ¡ cena. SluÅ¾ebnÃ­k je vÃ¡Å¡.}
+{239}{}{Toho vlastnÄ› jeÅ¡tÄ› nechci prodat. Chci se ale na nÄ›co zeptat...}
+{240}{}{Tohohle otroka vlastnÄ› jeÅ¡tÄ› nechci prodat. Provedeme ten obchod jindy.}
+{241}{}{Tak dobÅ™e. Chci se jeÅ¡tÄ› na nÄ›co zeptat...}
+{242}{}{Tak dobÅ™e. ZastavÃ­m se, aÅ¾ budu mÃ­t lepÅ¡Ã­ nabÃ­dku.}
+{243}{}{Ne, to urÄitÄ› ne... 250 nebo nic.}
+{244}{}{Ne, ten hoch vypadÃ¡, Å¾e pÅ¯jde tÄ›Å¾ko zatrÃ©novat... 200 nebo nic.}
+{245}{}{PoslyÅ¡te, potrvÃ¡ tÃ½den, neÅ¾ z toho divocha smyjeme ten zÃ¡pach. 100 nebo nic.}
+{246}{}{VÅ¾dyÅ¥ mi ani nemÅ¯Å¾ete zaruÄit, Å¾e nedostane infarkt, aÅ¾ odejdete. Je starÃ½. 100 nebo nic.}
+{247}{}{Tak dobÅ™e, to znÃ­ fÃ©r. SluÅ¾ebnÃ­k je vÃ¡Å¡.}
+{248}{}{Tak na to zapomeÅˆte. Chci se ale jeÅ¡tÄ› na nÄ›co zeptat...}
+{249}{}{Tak tedy nic. NemÅ¯Å¾u si dovolit propustit sluÅ¾ebnÃ­ka za takovou cenu. MoÅ¾nÃ¡ nÄ›kdy jindy.}
+{250}{}{Hmmmm... vypadÃ¡ jako zdravÃ½ kousek... moÅ¾nÃ¡ bych tu pro ni naÅ¡el nÄ›jakou prÃ¡ci. $500. A to je mÃ¡ koneÄnÃ¡ nabÃ­dka.}
+{251}{}{Hmmmm. Je to zdravÃ½ jedinec. DÃ¡m vÃ¡m za nÄ›j $400.}
+{252}{}{Hmmmm. Tak dobÅ™e. $200. A uÅ¾ Å¾Ã¡dnÃ© smlouvÃ¡nÃ­.}
+{253}{}{Hmmmmmmm. $200. A ani o babku vÃ­c.}
+{254}{}{To znÃ­ fÃ©r. SluÅ¾ebnÃ­k je vÃ¡Å¡.}
+{255}{}{Toho vlastnÄ› jeÅ¡tÄ› nechci prodat. Chci se ale na nÄ›co zeptat...}
+{256}{}{Tohohle otroka vlastnÄ› jeÅ¡tÄ› nechci prodat. Provedeme ten obchod jindy.}
+{257}{}{VÃ½bornÄ›. Tady mÃ¡te penÃ­ze. NechÃ¡m ji odeslat na lÃ©kaÅ™skou prohlÃ­dku a k zaÄlenÄ›nÃ­. }
+{258}{}{VÃ½bornÄ›. Tady mÃ¡te penÃ­ze. NechÃ¡m ho odeslat na lÃ©kaÅ™skou prohlÃ­dku a k zaÄlenÄ›nÃ­. }
+{259}{}{VÃ½bornÄ›. Tady mÃ¡te penÃ­ze. NechÃ¡m toho divocha odeslat na lÃ©kaÅ™skou prohlÃ­dku a k zaÄlenÄ›nÃ­. }
+{260}{}{VÃ½bornÄ›. Tady mÃ¡te penÃ­ze. NechÃ¡m toho starocha odeslat na lÃ©kaÅ™skou prohlÃ­dku a k zaÄlenÄ›nÃ­. }
+{261}{}{VydrÅ¾ chvÃ­li, jen provedu nÄ›jakÃ© nezbytnosti...}
+{262}{}{JistÄ›. PoÄkÃ¡m tady.}
+{263}{}{Tak dobÅ™e. VÃ¡Å¡ sluÅ¾ebnÃ­k byl pÅ™emÃ­stÄ›n k lÃ©kaÅ™skÃ© prohlÃ­dce a rekvalifikaci. ZvlÃ¡Å¡tnÃ­... zdÃ¡l se bÃ½t velmi pÅ™ekvapenÃ½. Musel dostat pÃ¡r uklidÅˆujÃ­cÃ­ch stÅ™el, aby mohlo vÅ¡echno hladce probÄ›hnout. VÅ¡echno, co mÄ›l u sebe, jsem dal do krabice ve svÃ© kancelÃ¡Å™i.}
+{264}{}{No, sluÅ¾ebnÃ­ci zÅ¯stanou vÅ¾dy sluÅ¾ebnÃ­ky. Chci se jeÅ¡tÄ› zeptat...}
+{265}{}{Opravdu? No, vÃ­m urÄitÄ›, Å¾e bude Äasem mnohem posluÅ¡nÄ›jÅ¡Ã­. ZajÃ­majÃ­ vÃ¡s jeÅ¡tÄ› nÄ›jacÃ­ dalÅ¡Ã­ spoleÄnÃ­ci?}
+{266}{}{Jo, bude to pro nÄ› zpoÄÃ¡tku tÄ›Å¾kÃ©, ale oni si Äasem zvyknou. HezkÃ½ den.}
+{267}{}{Co tady dÄ›lÃ¡te? Poslal jsem vÃ¡s do Vaultu! U vÅ¡ech Äer... no dobÅ™e, Å™eknu nÄ›komu, aÅ¥ vÃ¡s tam dopravÃ­ zpÃ¡tky.}
+{268}{}{DobÅ™Ã©Ã©Ã©Ã©.}
+{269}{}{PodaÅ™ilo se ti pÅ™esvÄ›dÄit Barkuse, aby propustil Joshuu.}
+{300}{}{SlyÅ¡el jsem, Å¾e je z vÃ¡s hrdina. DobrÃ¡ prÃ¡ce.}

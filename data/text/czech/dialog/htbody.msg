@@ -1,3 +1,3 @@
-{100}{}{Tahle osoba vypad·, ûe je mrtv·.}
-{101}{}{Vypad· to, ûe tihle lidi byli zavraûdÏni.}
-{102}{}{Je ti jich lÌto.}
+{100}{}{Tahle osoba vypad√°, ≈æe je mrtv√°.}
+{101}{}{Vypad√° to, ≈æe tihle lidi byli zavra≈ædƒõni.}
+{102}{}{Je ti jich l√≠to.}

@@ -1,9 +1,9 @@
-{100}{}{Vidíš funkèní poèítaè.}
-{101}{}{Vidíš kontrolní terminál letecké dopravy.}
-{102}{}{Vítejte v kontrole letecké dopravy. Tento terminál ovládá satelitní smìrování pohybu vetribirdù. Zadejte prosím pøíkaz.}
-{103}{}{Odhlásit se.}
-{104}{}{Nasmìrovat satelit tak, aby pøijímal souøadnice Enklávy.}
-{105}{}{(Satelit se zamìøuje. Vyèkejte chvíli, prosím...}
-{106}{}{[Více]}
-{107}{}{Zamìøení úspešné. Pøistávací plošina je pøipravena pøijímat pøíchozí letadla.}
-{108}{}{Odhlásit se.}
+{100}{}{VidÃ­Å¡ funkÄnÃ­ poÄÃ­taÄ.}
+{101}{}{VidÃ­Å¡ kontrolnÃ­ terminÃ¡l leteckÃ© dopravy.}
+{102}{}{VÃ­tejte v kontrole leteckÃ© dopravy. Tento terminÃ¡l ovlÃ¡dÃ¡ satelitnÃ­ smÄ›rovÃ¡nÃ­ pohybu vetribirdÅ¯. Zadejte prosÃ­m pÅ™Ã­kaz.}
+{103}{}{OdhlÃ¡sit se.}
+{104}{}{NasmÄ›rovat satelit tak, aby pÅ™ijÃ­mal souÅ™adnice EnklÃ¡vy.}
+{105}{}{(Satelit se zamÄ›Å™uje. VyÄkejte chvÃ­li, prosÃ­m...}
+{106}{}{[VÃ­ce]}
+{107}{}{ZamÄ›Å™enÃ­ ÃºspeÅ¡nÃ©. PÅ™istÃ¡vacÃ­ ploÅ¡ina je pÅ™ipravena pÅ™ijÃ­mat pÅ™Ã­chozÃ­ letadla.}
+{108}{}{OdhlÃ¡sit se.}

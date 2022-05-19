@@ -1,14 +1,14 @@
-{100}{}{Úspìšnì odemykáš zámek.}
-{101}{}{Nezdaøilo se. Zámek je stále zamèenı.}
-{102}{}{Úspìšnì zamykáš zámek.}
-{103}{}{Nepodaøilo se ti zamknout zámek.}
-{200}{}{ odemyká zámek.}
-{201}{}{ byl úspìšnı pøi odemykání zámku.}
-{202}{}{ zamyká zámek.}
-{203}{}{ byl úspìšnı pøi zamykání zámku.}
-{300}{}{Exploze znièila zámek.}
-{301}{}{Ani exploze nepomohla odstranit zámek.}
-{400}{}{Podaøilo se ti vypáèit zámek.}
-{401}{}{Nepodaøilo se ti vypáèit zámek.}
-{500}{}{ byl úspìšnı pøi páèení zámku.}
-{501}{}{ nebyl úspìšnı pøi páèení zámku.}
+{100}{}{ÃšspÄ›Å¡nÄ› odemykÃ¡Å¡ zÃ¡mek.}
+{101}{}{NezdaÅ™ilo se. ZÃ¡mek je stÃ¡le zamÄenÃ½.}
+{102}{}{ÃšspÄ›Å¡nÄ› zamykÃ¡Å¡ zÃ¡mek.}
+{103}{}{NepodaÅ™ilo se ti zamknout zÃ¡mek.}
+{200}{}{ odemykÃ¡ zÃ¡mek.}
+{201}{}{ byl ÃºspÄ›Å¡nÃ½ pÅ™i odemykÃ¡nÃ­ zÃ¡mku.}
+{202}{}{ zamykÃ¡ zÃ¡mek.}
+{203}{}{ byl ÃºspÄ›Å¡nÃ½ pÅ™i zamykÃ¡nÃ­ zÃ¡mku.}
+{300}{}{Exploze zniÄila zÃ¡mek.}
+{301}{}{Ani exploze nepomohla odstranit zÃ¡mek.}
+{400}{}{PodaÅ™ilo se ti vypÃ¡Äit zÃ¡mek.}
+{401}{}{NepodaÅ™ilo se ti vypÃ¡Äit zÃ¡mek.}
+{500}{}{ byl ÃºspÄ›Å¡nÃ½ pÅ™i pÃ¡ÄenÃ­ zÃ¡mku.}
+{501}{}{ nebyl ÃºspÄ›Å¡nÃ½ pÅ™i pÃ¡ÄenÃ­ zÃ¡mku.}

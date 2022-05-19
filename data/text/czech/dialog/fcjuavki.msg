@@ -1,132 +1,132 @@
-{100}{}{Vidíš inspirující pár vyznávající fyzické a psychické zdraví.}
-{101}{}{Vidíš Juana Cruze a Vikki Goldmanovou, dvì velice známé filmové hvìzdy z New Rena.}
-{102}{}{Vidíš tmavovlasého mue a blonïatou enu. Oba jsou velmi atraktivní. Vyzaøují ze sebe neodolatelné charisma.}
-{103}{}{On: Ahoj! Já jsem Juan Cruz! Ona: A já Vikki Goldmanová! Oba: Jsme celebrity! A oba dva schvalujeme Hubologii! Oba: Pamatuj prosím, e jakákoliv podobnost mezi námi, lidmi nebo institucemi, a u ivımi nebo mrtvımi, je èistì náhodná.}
+{100}{}{VidÃ­Å¡ inspirujÃ­cÃ­ pÃ¡r vyznÃ¡vajÃ­cÃ­ fyzickÃ© a psychickÃ© zdravÃ­.}
+{101}{}{VidÃ­Å¡ Juana Cruze a Vikki Goldmanovou, dvÄ› velice znÃ¡mÃ© filmovÃ© hvÄ›zdy z New Rena.}
+{102}{}{VidÃ­Å¡ tmavovlasÃ©ho muÅ¾e a blonÄatou Å¾enu. Oba jsou velmi atraktivnÃ­. VyzaÅ™ujÃ­ ze sebe neodolatelnÃ© charisma.}
+{103}{}{On: Ahoj! JÃ¡ jsem Juan Cruz! Ona: A jÃ¡ Vikki GoldmanovÃ¡! Oba: Jsme celebrity! A oba dva schvalujeme Hubologii! Oba: Pamatuj prosÃ­m, Å¾e jakÃ¡koliv podobnost mezi nÃ¡mi, lidmi nebo institucemi, aÅ¥ uÅ¾ Å¾ivÃ½mi nebo mrtvÃ½mi, je ÄistÄ› nÃ¡hodnÃ¡.}
 {104}{}{He? Klus? Vykid?}
-{105}{}{Celebrity? Co z vás dìlá celebrity?}
-{106}{}{Podobnost? Co tím myslíte?}
-{107}{}{Chci bıt Hubologista. Jak se k vám mùu pøidat?}
-{108}{}{Poslyš, Vikki, Dave H. tì miluje.}
-{109}{}{Paráda. U musím jít.}
-{110}{}{On: Ubohé dítì pustiny. Ona: Nepomohlo by tøeba srovnání? On: Ano. Ty. Chceš podstoupit srovnání?}
+{105}{}{Celebrity? Co z vÃ¡s dÄ›lÃ¡ celebrity?}
+{106}{}{Podobnost? Co tÃ­m myslÃ­te?}
+{107}{}{Chci bÃ½t Hubologista. Jak se k vÃ¡m mÅ¯Å¾u pÅ™idat?}
+{108}{}{PoslyÅ¡, Vikki, Dave H. tÄ› miluje.}
+{109}{}{ParÃ¡da. UÅ¾ musÃ­m jÃ­t.}
+{110}{}{On: UbohÃ© dÃ­tÄ› pustiny. Ona: Nepomohlo by tÅ™eba srovnÃ¡nÃ­? On: Ano. Ty. ChceÅ¡ podstoupit srovnÃ¡nÃ­?}
 {111}{}{Jo!}
 {112}{}{Ne!}
-{113}{}{Ona: Doufám, e to pomohlo. Hodnì štìstí na cestách!}
+{113}{}{Ona: DoufÃ¡m, Å¾e to pomohlo. HodnÄ› Å¡tÄ›stÃ­ na cestÃ¡ch!}
 {114}{}{Ahoj!}
 {115}{}{Opravdu to pomohlo!}
-{116}{}{On: Pokud nechceš pøijmout naši pomoc... Ona: ...pak ti nemùeme pomoci. Sbohem.}
+{116}{}{On: Pokud nechceÅ¡ pÅ™ijmout naÅ¡i pomoc... Ona: ...pak ti nemÅ¯Å¾eme pomoci. Sbohem.}
 {117}{}{Nashle!}
-{118}{}{On: Vidíš? Vìdomosti Hubu opìt pøedvedly svoji cenu!}
-{119}{}{Mám nìjaké otázky.}
+{118}{}{On: VidÃ­Å¡? VÄ›domosti Hubu opÄ›t pÅ™edvedly svoji cenu!}
+{119}{}{MÃ¡m nÄ›jakÃ© otÃ¡zky.}
 {120}{}{Diky! Nashle!}
-{121}{}{Ona: Byli jsme souèástí filmového prùmyslu v New Renu. Natoèili jsme stovky filmù, z nich se mnohé staly klasiky, jako tøeba "Top Bun," "Pikantní Podnik," a "Bouølivé Sny". Díky tomu jsme celebrity.}
-{122}{}{On: Ale jakoto èlen tohoto prùmyslu to jistì víš.}
-{123}{}{Koneènì si mùu spojit jména s tváøemi.}
-{124}{}{Koho zajímá, e se k nim HLÁSÍTE? Copak nemùu uèinit vlastní rozhodnutí?}
-{125}{}{Aha. Mám na vás další otázky.}
-{126}{}{Díky, nashle.}
-{127}{}{Ona: Ale ano, samozøejmì e mùeš uèinit vlastní rozhodnutí. On: A v Hubovì poslední knize se mùeš doèíst, jak uèinit to PRAVÉ rozhodnutí!}
-{128}{}{V jeho poslední knize? On není mrtvı?}
-{129}{}{"Pravé rozhodnutí?" No jasnì. A co tøeba svobodná vùle?}
-{130}{}{To zní skvìle. Jak se k vám mùu pøidat?}
-{131}{}{Jistì. Mám další otázky.}
-{132}{}{Jasnì. Nashle.}
-{133}{}{On: Další otázky? V tom pøípadì máme odpovìdi! Samozøejmì poskytnuté Velkım Kolem.}
-{134}{}{Jak se k vám mùu pøidat?}
-{135}{}{Co z vás dìlá celebrity?}
-{136}{}{Copak nemùu uèinit vlastní rozhodnutí místo toho, aby za mì rozhodovali celebrity?}
-{137}{}{Jak se k vám mùu pøidat?}
-{138}{}{Poslyš, Vikki, Dave H. tì miluje.}
-{139}{}{Ne, ádné další otázky.}
-{140}{}{Ona: (Prázdnı chladnı pohled.) On: Dìkujeme ti.}
-{141}{}{Eh... mám nìjaké otázky.}
-{142}{}{To bude ode mì všechno! Zatím!}
-{143}{}{On: Mrtvı? Hehe! Moná. My si ale myslíme, e srovnal všechny svoje neurodyny a šel následovat Hvìzdného Otce. Ona: Intenzivnì vyuíváme jeho poznámky na papírcích a stìí èitelné rukopisy, abychom šíøili Hubova slova. On: Napøíklad jsme našli útrek, na kterém se píše: "2 tucty vejcí/mléko/toaleák". To jsou oèividnì vıznamná slova. Lid se o tom musí dozvìdìt.}
-{144}{}{Eh... jasnì. Mám další otázky.}
-{145}{}{Jenom proto, e si nìjakı magor nìco poznamenal, tak cítíte potøebu VŠECHNO zveøejnit?}
-{146}{}{Ano! A ije Hub! Vidím svìtlo! Jak se k vám mùu pøidat?}
-{147}{}{Jasnì. Nashle.}
-{148}{}{On: Ano. Nìkteøí si mohou myslet, e se podobáme jistım lidem. Ona: Ale pravdou je, e je to jen èistì náhoda.}
-{149}{}{Ach tak. No, tím se všechno vysvìtluje. Poslyšte, mám další otázky.}
-{150}{}{Chápu. Zatím.}
-{151}{}{Ona: Samozøejmì e máš svou svobodnou vùli. Máš monost nechat své neurodyny naplnit špínou svìta. On: Máš volbu ít bezradostnì a bezvıznamnì jako krysa. Oba: Nebo se mùeš dozvìdìt o smyslu ivota díky Velkému Kolu.}
-{152}{}{Neurodyny? Co jsou zaè?}
-{153}{}{To zní skvìle. Jak se k vám mùu pøidat?}
-{154}{}{Hmm. Myslím, e budu radìji ít jako krysa.}
-{155}{}{Jasnì. No, u musím bìet.}
-{156}{}{Ona: Ty se opovauješ nazıvat Huba (A ije jeho vize.) magorem? Tady? V pevnosti oddané jeho uèení? On: Vypadni odsud. Jestli s nìkım odsud po cestì promluvíš, nebudeme mít slitování. Nevìøící. Oba: O dalšího nevìøícího ménì.}
-{157}{}{V tom pøípadì udìlám první krok já. Vdycky jsem toti nenávidìl vaše filmy. Uvidíme, jak umíte zahrát mrtvé scény.}
-{158}{}{Vaše filmy jsou pìknej brak. Nashle.}
+{121}{}{Ona: Byli jsme souÄÃ¡stÃ­ filmovÃ©ho prÅ¯myslu v New Renu. NatoÄili jsme stovky filmÅ¯, z nichÅ¾ se mnohÃ© staly klasiky, jako tÅ™eba "Top Bun," "PikantnÃ­ Podnik," a "BouÅ™livÃ© Sny". DÃ­ky tomu jsme celebrity.}
+{122}{}{On: Ale jakoÅ¾to Älen tohoto prÅ¯myslu to jistÄ› vÃ­Å¡.}
+{123}{}{KoneÄnÄ› si mÅ¯Å¾u spojit jmÃ©na s tvÃ¡Å™emi.}
+{124}{}{Koho zajÃ­mÃ¡, Å¾e se k nim HLÃSÃTE? Copak nemÅ¯Å¾u uÄinit vlastnÃ­ rozhodnutÃ­?}
+{125}{}{Aha. MÃ¡m na vÃ¡s dalÅ¡Ã­ otÃ¡zky.}
+{126}{}{DÃ­ky, nashle.}
+{127}{}{Ona: Ale ano, samozÅ™ejmÄ› Å¾e mÅ¯Å¾eÅ¡ uÄinit vlastnÃ­ rozhodnutÃ­. On: A v HubovÄ› poslednÃ­ knize se mÅ¯Å¾eÅ¡ doÄÃ­st, jak uÄinit to PRAVÃ‰ rozhodnutÃ­!}
+{128}{}{V jeho poslednÃ­ knize? On nenÃ­ mrtvÃ½?}
+{129}{}{"PravÃ© rozhodnutÃ­?" No jasnÄ›. A co tÅ™eba svobodnÃ¡ vÅ¯le?}
+{130}{}{To znÃ­ skvÄ›le. Jak se k vÃ¡m mÅ¯Å¾u pÅ™idat?}
+{131}{}{JistÄ›. MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
+{132}{}{JasnÄ›. Nashle.}
+{133}{}{On: DalÅ¡Ã­ otÃ¡zky? V tom pÅ™Ã­padÄ› mÃ¡me odpovÄ›di! SamozÅ™ejmÄ› poskytnutÃ© VelkÃ½m Kolem.}
+{134}{}{Jak se k vÃ¡m mÅ¯Å¾u pÅ™idat?}
+{135}{}{Co z vÃ¡s dÄ›lÃ¡ celebrity?}
+{136}{}{Copak nemÅ¯Å¾u uÄinit vlastnÃ­ rozhodnutÃ­ mÃ­sto toho, aby za mÄ› rozhodovali celebrity?}
+{137}{}{Jak se k vÃ¡m mÅ¯Å¾u pÅ™idat?}
+{138}{}{PoslyÅ¡, Vikki, Dave H. tÄ› miluje.}
+{139}{}{Ne, Å¾Ã¡dnÃ© dalÅ¡Ã­ otÃ¡zky.}
+{140}{}{Ona: (PrÃ¡zdnÃ½ chladnÃ½ pohled.) On: DÄ›kujeme ti.}
+{141}{}{Eh... mÃ¡m nÄ›jakÃ© otÃ¡zky.}
+{142}{}{To bude ode mÄ› vÅ¡echno! ZatÃ­m!}
+{143}{}{On: MrtvÃ½? Hehe! MoÅ¾nÃ¡. My si ale myslÃ­me, Å¾e srovnal vÅ¡echny svoje neurodyny a Å¡el nÃ¡sledovat HvÄ›zdnÃ©ho Otce. Ona: IntenzivnÄ› vyuÅ¾Ã­vÃ¡me jeho poznÃ¡mky na papÃ­rcÃ­ch a stÄ›Å¾Ã­ ÄitelnÃ© rukopisy, abychom Å¡Ã­Å™ili Hubova slova. On: NapÅ™Ã­klad jsme naÅ¡li ÃºtrÅ¾ek, na kterÃ©m se pÃ­Å¡e: "2 tucty vejcÃ­/mlÃ©ko/toaleÅ¥Ã¡k". To jsou oÄividnÄ› vÃ½znamnÃ¡ slova. Lid se o tom musÃ­ dozvÄ›dÄ›t.}
+{144}{}{Eh... jasnÄ›. MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
+{145}{}{Jenom proto, Å¾e si nÄ›jakÃ½ magor nÄ›co poznamenal, tak cÃ­tÃ­te potÅ™ebu VÅ ECHNO zveÅ™ejnit?}
+{146}{}{Ano! AÅ¥ Å¾ije Hub! VidÃ­m svÄ›tlo! Jak se k vÃ¡m mÅ¯Å¾u pÅ™idat?}
+{147}{}{JasnÄ›. Nashle.}
+{148}{}{On: Ano. NÄ›kteÅ™Ã­ si mohou myslet, Å¾e se podobÃ¡me jistÃ½m lidem. Ona: Ale pravdou je, Å¾e je to jen ÄistÄ› nÃ¡hoda.}
+{149}{}{Ach tak. No, tÃ­m se vÅ¡echno vysvÄ›tluje. PoslyÅ¡te, mÃ¡m dalÅ¡Ã­ otÃ¡zky.}
+{150}{}{ChÃ¡pu. ZatÃ­m.}
+{151}{}{Ona: SamozÅ™ejmÄ› Å¾e mÃ¡Å¡ svou svobodnou vÅ¯li. MÃ¡Å¡ moÅ¾nost nechat svÃ© neurodyny naplnit Å¡pÃ­nou svÄ›ta. On: MÃ¡Å¡ volbu Å¾Ã­t bezradostnÄ› a bezvÃ½znamnÄ› jako krysa. Oba: Nebo se mÅ¯Å¾eÅ¡ dozvÄ›dÄ›t o smyslu Å¾ivota dÃ­ky VelkÃ©mu Kolu.}
+{152}{}{Neurodyny? Co jsou zaÄ?}
+{153}{}{To znÃ­ skvÄ›le. Jak se k vÃ¡m mÅ¯Å¾u pÅ™idat?}
+{154}{}{Hmm. MyslÃ­m, Å¾e budu radÄ›ji Å¾Ã­t jako krysa.}
+{155}{}{JasnÄ›. No, uÅ¾ musÃ­m bÄ›Å¾et.}
+{156}{}{Ona: Ty se opovaÅ¾ujeÅ¡ nazÃ½vat Huba (AÅ¥ Å¾ije jeho vize.) magorem? Tady? V pevnosti oddanÃ© jeho uÄenÃ­? On: Vypadni odsud. Jestli s nÄ›kÃ½m odsud po cestÄ› promluvÃ­Å¡, nebudeme mÃ­t slitovÃ¡nÃ­. NevÄ›Å™Ã­cÃ­. Oba: O dalÅ¡Ã­ho nevÄ›Å™Ã­cÃ­ho mÃ©nÄ›.}
+{157}{}{V tom pÅ™Ã­padÄ› udÄ›lÃ¡m prvnÃ­ krok jÃ¡. VÅ¾dycky jsem totiÅ¾ nenÃ¡vidÄ›l vaÅ¡e filmy. UvidÃ­me, jak umÃ­te zahrÃ¡t mrtvÃ© scÃ©ny.}
+{158}{}{VaÅ¡e filmy jsou pÄ›knej brak. Nashle.}
 {159}{}{Nashle.}
-{160}{}{Ona: Neurodyny jsou podstatou duší znièenıch ve Velké Válce, které zneèišují tvou duševní podstatu a snaí se tì svést z cesty. On: Jestli chceš vìdìt více o naší vıuce, budeš muset navštívit náš kostel.}
-{161}{}{Ano, to zní úasnì.}
-{162}{}{Slyšel jsem, e je tohle jen sci-fi, ale nevìdìl jsem jak moc. Hub musel bıt opravdu magor.}
-{163}{}{No, opravdu mì moc zajímá, co se nauèím. Poèítejte se mnou.}
-{164}{}{Hmm. Ne, teï ne. Ale mám další otázky.}
-{165}{}{Eh... musím jít. Nashle.}
-{166}{}{On: To je od tebe velmi pozitivní myšlení. Ona: Velmi osvícené. On: Nabízíme naše názory lidem... a pokud naše sláva pøitáhne více vìøících, milerádi toho vyuijeme.}
-{167}{}{Mám další otázky.}
-{168}{}{Chci se k vám pøidat.}
-{169}{}{Chápu. No, zatím.}
-{170}{}{On: No, to je velmi prosté. Dáme ti tento informaèní holodisk. Ona: ...podíváš se na krátkı film... On: ...a poté si pùjdeš promluvit s AHS-7! Ona: Snadné, e ano?}
-{171}{}{Pojïme na to.}
-{172}{}{Myslím, e na to nejsem pøipraven.}
-{173}{}{Ona: Na to máš samozøejmì právo. On: A já doufám, e pochopíš, e se nemùeš potulovat po naší základnì. Ona: Take radìji odejdi... stráe tì pravdìpodobnì zastøelí, pokud se tu budeš poflakovat.}
-{174}{}{No páni, díky moc. Nejdøív dostanu nabídku k pøijetí a kdy odmítnu, tak mì zastøelíte? To se vám teda povedlo.}
-{175}{}{V tom pøípadì nejdøív zastøelím já vás.}
-{176}{}{Padám odsud.}
-{177}{}{On: Toto je tvá poslední šance zmìnit své rozhodnutí. Ona: Nechceme, aby se ti stalo nìco zlého.}
+{160}{}{Ona: Neurodyny jsou podstatou duÅ¡Ã­ zniÄenÃ½ch ve VelkÃ© VÃ¡lce, kterÃ© zneÄiÅ¡Å¥ujÃ­ tvou duÅ¡evnÃ­ podstatu a snaÅ¾Ã­ se tÄ› svÃ©st z cesty. On: Jestli chceÅ¡ vÄ›dÄ›t vÃ­ce o naÅ¡Ã­ vÃ½uce, budeÅ¡ muset navÅ¡tÃ­vit nÃ¡Å¡ kostel.}
+{161}{}{Ano, to znÃ­ ÃºÅ¾asnÄ›.}
+{162}{}{SlyÅ¡el jsem, Å¾e je tohle jen sci-fi, ale nevÄ›dÄ›l jsem jak moc. Hub musel bÃ½t opravdu magor.}
+{163}{}{No, opravdu mÄ› moc zajÃ­mÃ¡, co se nauÄÃ­m. PoÄÃ­tejte se mnou.}
+{164}{}{Hmm. Ne, teÄ ne. Ale mÃ¡m dalÅ¡Ã­ otÃ¡zky.}
+{165}{}{Eh... musÃ­m jÃ­t. Nashle.}
+{166}{}{On: To je od tebe velmi pozitivnÃ­ myÅ¡lenÃ­. Ona: Velmi osvÃ­cenÃ©. On: NabÃ­zÃ­me naÅ¡e nÃ¡zory lidem... a pokud naÅ¡e slÃ¡va pÅ™itÃ¡hne vÃ­ce vÄ›Å™Ã­cÃ­ch, milerÃ¡di toho vyuÅ¾ijeme.}
+{167}{}{MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
+{168}{}{Chci se k vÃ¡m pÅ™idat.}
+{169}{}{ChÃ¡pu. No, zatÃ­m.}
+{170}{}{On: No, to je velmi prostÃ©. DÃ¡me ti tento informaÄnÃ­ holodisk. Ona: ...podÃ­vÃ¡Å¡ se na krÃ¡tkÃ½ film... On: ...a potÃ© si pÅ¯jdeÅ¡ promluvit s AHS-7! Ona: SnadnÃ©, Å¾e ano?}
+{171}{}{PojÄme na to.}
+{172}{}{MyslÃ­m, Å¾e na to nejsem pÅ™ipraven.}
+{173}{}{Ona: Na to mÃ¡Å¡ samozÅ™ejmÄ› prÃ¡vo. On: A jÃ¡ doufÃ¡m, Å¾e pochopÃ­Å¡, Å¾e se nemÅ¯Å¾eÅ¡ potulovat po naÅ¡Ã­ zÃ¡kladnÄ›. Ona: TakÅ¾e radÄ›ji odejdi... strÃ¡Å¾e tÄ› pravdÄ›podobnÄ› zastÅ™elÃ­, pokud se tu budeÅ¡ poflakovat.}
+{174}{}{No pÃ¡ni, dÃ­ky moc. NejdÅ™Ã­v dostanu nabÃ­dku k pÅ™ijetÃ­ a kdyÅ¾ odmÃ­tnu, tak mÄ› zastÅ™elÃ­te? To se vÃ¡m teda povedlo.}
+{175}{}{V tom pÅ™Ã­padÄ› nejdÅ™Ã­v zastÅ™elÃ­m jÃ¡ vÃ¡s.}
+{176}{}{PadÃ¡m odsud.}
+{177}{}{On: Toto je tvÃ¡ poslednÃ­ Å¡ance zmÄ›nit svÃ© rozhodnutÃ­. Ona: Nechceme, aby se ti stalo nÄ›co zlÃ©ho.}
 {178}{}{Jdi se vycpat.}
-{179}{}{Fajn. Jak se k vám mùu pøidat?}
-{180}{}{Nìco zlého se brzy stane VÁM.}
-{181}{}{Ne. Myslím, e to risknu. Zatím.}
-{182}{}{On: Udìlali jsme pro tebe vše, co jsme mohli. Ona: Hodnì štìstí na cestách.}
+{179}{}{Fajn. Jak se k vÃ¡m mÅ¯Å¾u pÅ™idat?}
+{180}{}{NÄ›co zlÃ©ho se brzy stane VÃM.}
+{181}{}{Ne. MyslÃ­m, Å¾e to risknu. ZatÃ­m.}
+{182}{}{On: UdÄ›lali jsme pro tebe vÅ¡e, co jsme mohli. Ona: HodnÄ› Å¡tÄ›stÃ­ na cestÃ¡ch.}
 {183}{}{Nashle!}
-{184}{}{Ona: Dave? Ten poèítaèovı geek? On: Haha! Taková nicka! Vikki je moje, jen moje... v ádném pøípadì se... promiò, èelím negativní energii. Mám nejspíš zneèištìné neurodyny. Ona: (Šeptá ti.) Myslím, e je Dave roztomilı, ale nic s ním nemùu mít, kdy je Juan poblí. On: Uf. Neurodyny u jsou zase èisté.}
-{185}{}{Dobøe, mám další otázky.}
-{186}{}{To u bude všechno. Nashle.}
-{187}{}{Ona: Nebylo to a tak zlé, e ne? On: Teï si jdi promluvit s AHS-7 a poté se z nás stanou soudruzi v Hubologii. Ona: Jsem tak vzrušená! On: Získávání novıch rekrutù mì vdycky vzruší. Ona: Ach, miláèku... On: Ach, zlato...}
-{188}{}{Asi se vrátím pozdìji.}
-{189}{}{On: Pøíliš pozdì. Ona: U jsi zavázanı.}
+{184}{}{Ona: Dave? Ten poÄÃ­taÄovÃ½ geek? On: Haha! TakovÃ¡ nicka! Vikki je moje, jen moje... v Å¾Ã¡dnÃ©m pÅ™Ã­padÄ› se... promiÅˆ, ÄelÃ­m negativnÃ­ energii. MÃ¡m nejspÃ­Å¡ zneÄiÅ¡tÄ›nÃ© neurodyny. Ona: (Å eptÃ¡ ti.) MyslÃ­m, Å¾e je Dave roztomilÃ½, ale nic s nÃ­m nemÅ¯Å¾u mÃ­t, kdyÅ¾ je Juan poblÃ­Å¾. On: Uf. Neurodyny uÅ¾ jsou zase ÄistÃ©.}
+{185}{}{DobÅ™e, mÃ¡m dalÅ¡Ã­ otÃ¡zky.}
+{186}{}{To uÅ¾ bude vÅ¡echno. Nashle.}
+{187}{}{Ona: Nebylo to aÅ¾ tak zlÃ©, Å¾e ne? On: TeÄ si jdi promluvit s AHS-7 a potÃ© se z nÃ¡s stanou soudruzi v Hubologii. Ona: Jsem tak vzruÅ¡enÃ¡! On: ZÃ­skÃ¡vÃ¡nÃ­ novÃ½ch rekrutÅ¯ mÄ› vÅ¾dycky vzruÅ¡Ã­. Ona: Ach, milÃ¡Äku... On: Ach, zlato...}
+{188}{}{Asi se vrÃ¡tÃ­m pozdÄ›ji.}
+{189}{}{On: PÅ™Ã­liÅ¡ pozdÄ›. Ona: UÅ¾ jsi zavÃ¡zanÃ½.}
 {190}{}{[KONEC]}
-{191}{}{On: Udìlal jsi ivotní rozhodnutí. Ona: A bohuel to bylo špatné rozhodnutí. Oba: Stráe! Stráe!}
-{192}{}{Zatracenì.}
-{193}{}{On: Zdravím, }
+{191}{}{On: UdÄ›lal jsi Å¾ivotnÃ­ rozhodnutÃ­. Ona: A bohuÅ¾el to bylo Å¡patnÃ© rozhodnutÃ­. Oba: StrÃ¡Å¾e! StrÃ¡Å¾e!}
+{192}{}{ZatracenÄ›.}
+{193}{}{On: ZdravÃ­m, }
 {194}{}{So what do I do now that I'm a Hubologist?}
-{195}{}{Mùu s vámi nìkdy nìco podniknout?}
-{196}{}{To bude nejspíš všechno. Zatím!}
+{195}{}{MÅ¯Å¾u s vÃ¡mi nÄ›kdy nÄ›co podniknout?}
+{196}{}{To bude nejspÃ­Å¡ vÅ¡echno. ZatÃ­m!}
 {197}{}{}
 {198}{}{}
-{199}{}{On: Mùeš si promluvit s Harry Rocketem na povrchu. Tøeba potøebuje nìjakou pomoc. Ona: Nebo si promluv s AHS-7 nebo AHS-9. Ti vìtšinou o nìèem vìdí. On: Nebo mùeš sledovat vysílání modliteb. Ona: Nebo mùeš zpùsobit rozbroje mezi nepøáteli Kola.}
-{200}{}{Díky. Mùu s vámi nìkdy nìco podniknout?}
-{201}{}{Díky. To bude nejspíš všechno.}
-{202}{}{Ona: Je nám líto... protoe Hvìzdnı Otec ví, e jsi roztomilı... ale nejspíš to nepùjde. On: Ale lichotíš nám! Ona: Moná bychom nìkdy mohli jít do New Rena a natoèit spolu film.}
-{203}{}{Aha, tak dobøe. Co jiného mùu jako Hubologista dìlat?}
-{204}{}{Aha, tak dobøe. Zatím.}
-{205}{}{Ona: Lhaní je pro tvé neurodyny špatné. On: To je pravda. Ona: A proto musím bıt upøímná a øíct ti, e nejsi pøitalivı. On: Ale i pøesto tì milujeme jako kamaráda a následovníka Hubu!}
-{206}{}{Páni, díky. Take co jiného mùu jako Hubologista dìlat?}
-{207}{}{Jo, jasnì. [Zamumlat] Kreténi.}
-{208}{}{Vítejte, noví rekruti!}
-{209}{}{Já jsem Vikki Goldmanová!}
-{210}{}{A já Juan Cruz!}
-{211}{}{Jsme celebrity, jak jistì víte.}
-{212}{}{Myslíme si, e je Hubologie cestou budoucnosti.}
-{213}{}{My VÍME, e je Hubologie cestou budoucnosti.}
-{214}{}{Dokáu usmait brouky pouhou myšlenkou!}
-{215}{}{Vypadám ve staniolové èepici opravdu dobøe!}
-{216}{}{Moná, kdy budete tvrdì pracovat na optimalizaci svého ducha, budete se k nám moci pøidat.}
-{217}{}{To bychom uvítali.}
-{218}{}{Ano. Neustále hledáme pøátele...}
-{219}{}{...pokud jsou ochotni optimalizovat svého ducha.}
-{220}{}{A pokud jsou natolik vysoce postavení jako my.}
+{199}{}{On: MÅ¯Å¾eÅ¡ si promluvit s Harry Rocketem na povrchu. TÅ™eba potÅ™ebuje nÄ›jakou pomoc. Ona: Nebo si promluv s AHS-7 nebo AHS-9. Ti vÄ›tÅ¡inou o nÄ›Äem vÄ›dÃ­. On: Nebo mÅ¯Å¾eÅ¡ sledovat vysÃ­lÃ¡nÃ­ modliteb. Ona: Nebo mÅ¯Å¾eÅ¡ zpÅ¯sobit rozbroje mezi nepÅ™Ã¡teli Kola.}
+{200}{}{DÃ­ky. MÅ¯Å¾u s vÃ¡mi nÄ›kdy nÄ›co podniknout?}
+{201}{}{DÃ­ky. To bude nejspÃ­Å¡ vÅ¡echno.}
+{202}{}{Ona: Je nÃ¡m lÃ­to... protoÅ¾e HvÄ›zdnÃ½ Otec vÃ­, Å¾e jsi roztomilÃ½... ale nejspÃ­Å¡ to nepÅ¯jde. On: Ale lichotÃ­Å¡ nÃ¡m! Ona: MoÅ¾nÃ¡ bychom nÄ›kdy mohli jÃ­t do New Rena a natoÄit spolu film.}
+{203}{}{Aha, tak dobÅ™e. Co jinÃ©ho mÅ¯Å¾u jako Hubologista dÄ›lat?}
+{204}{}{Aha, tak dobÅ™e. ZatÃ­m.}
+{205}{}{Ona: LhanÃ­ je pro tvÃ© neurodyny Å¡patnÃ©. On: To je pravda. Ona: A proto musÃ­m bÃ½t upÅ™Ã­mnÃ¡ a Å™Ã­ct ti, Å¾e nejsi pÅ™itaÅ¾livÃ½. On: Ale i pÅ™esto tÄ› milujeme jako kamarÃ¡da a nÃ¡sledovnÃ­ka Hubu!}
+{206}{}{PÃ¡ni, dÃ­ky. TakÅ¾e co jinÃ©ho mÅ¯Å¾u jako Hubologista dÄ›lat?}
+{207}{}{Jo, jasnÄ›. [Zamumlat] KretÃ©ni.}
+{208}{}{VÃ­tejte, novÃ­ rekruti!}
+{209}{}{JÃ¡ jsem Vikki GoldmanovÃ¡!}
+{210}{}{A jÃ¡ Juan Cruz!}
+{211}{}{Jsme celebrity, jak jistÄ› vÃ­te.}
+{212}{}{MyslÃ­me si, Å¾e je Hubologie cestou budoucnosti.}
+{213}{}{My VÃME, Å¾e je Hubologie cestou budoucnosti.}
+{214}{}{DokÃ¡Å¾u usmaÅ¾it brouky pouhou myÅ¡lenkou!}
+{215}{}{VypadÃ¡m ve staniolovÃ© Äepici opravdu dobÅ™e!}
+{216}{}{MoÅ¾nÃ¡, kdyÅ¾ budete tvrdÄ› pracovat na optimalizaci svÃ©ho ducha, budete se k nÃ¡m moci pÅ™idat.}
+{217}{}{To bychom uvÃ­tali.}
+{218}{}{Ano. NeustÃ¡le hledÃ¡me pÅ™Ã¡tele...}
+{219}{}{...pokud jsou ochotni optimalizovat svÃ©ho ducha.}
+{220}{}{A pokud jsou natolik vysoce postavenÃ­ jako my.}
 {221}{}{Jsme AHS-5.}
-{222}{}{Jednoho dne z vás mùe bıt také AHS-5.}
-{223}{}{Kdy pøispìjete hodnì penìz, mùete bıt AHS-5 ještì døíve.}
-{224}{}{Ale nemyslete si, e vás chceme jen pro peníze.}
-{225}{}{Ne, my vám chceme POMOCI.}
-{226}{}{A o tom všem je Hubologie.}
+{222}{}{Jednoho dne z vÃ¡s mÅ¯Å¾e bÃ½t takÃ© AHS-5.}
+{223}{}{KdyÅ¾ pÅ™ispÄ›jete hodnÄ› penÄ›z, mÅ¯Å¾ete bÃ½t AHS-5 jeÅ¡tÄ› dÅ™Ã­ve.}
+{224}{}{Ale nemyslete si, Å¾e vÃ¡s chceme jen pro penÃ­ze.}
+{225}{}{Ne, my vÃ¡m chceme POMOCI.}
+{226}{}{A o tom vÅ¡em je Hubologie.}
 {227}{}{[Potlesk]}
-{228}{}{. Doufám, e jde tvé osvícení dobøe. Ona: Vkládáme do tebe... veliké... nadìje.}
-{229}{}{Lekce 1: Zde je vìènost, naše Velké Kolo. (Na nìco ukáe.) A tady jsme my. (Na nìco ukáe.) Nyní jen musíme urazit dlouhou cestu, abychom se mohli setkat s našimi hvìzdnımi bratry.}
-{230}{}{Sakra, tak to budeme potøebovat opravdu hodnì bot.}
-{231}{}{On: Teï si jdi promluvit s AHS-7 a poté se z nás stanou soudruzi v Hubologii! Ona: Jsem tak vzrušená! On: Získávání novıch rekrutù mì vdycky vzruší. Ona: Ach, miláèku... On: Ach, zlato...}
+{228}{}{. DoufÃ¡m, Å¾e jde tvÃ© osvÃ­cenÃ­ dobÅ™e. Ona: VklÃ¡dÃ¡me do tebe... velikÃ©... nadÄ›je.}
+{229}{}{Lekce 1: Zde je vÄ›Änost, naÅ¡e VelkÃ© Kolo. (Na nÄ›co ukÃ¡Å¾e.) A tady jsme my. (Na nÄ›co ukÃ¡Å¾e.) NynÃ­ jen musÃ­me urazit dlouhou cestu, abychom se mohli setkat s naÅ¡imi hvÄ›zdnÃ½mi bratry.}
+{230}{}{Sakra, tak to budeme potÅ™ebovat opravdu hodnÄ› bot.}
+{231}{}{On: TeÄ si jdi promluvit s AHS-7 a potÃ© se z nÃ¡s stanou soudruzi v Hubologii! Ona: Jsem tak vzruÅ¡enÃ¡! On: ZÃ­skÃ¡vÃ¡nÃ­ novÃ½ch rekrutÅ¯ mÄ› vÅ¾dycky vzruÅ¡Ã­. Ona: Ach, milÃ¡Äku... On: Ach, zlato...}

@@ -1,5 +1,5 @@
-{100}{}{Vidíš bytelné kovové dveøe.}
-{101}{}{Takovéto dveøe se pouívají v bankovních trezorech. Zcela jistì vydrí nìkolik pøímıch vıbuchù. Jsou zamèené.}
-{102}{}{Takovéto dveøe se pouívají v bankovních trezorech. Zcela jistì vydrí nìkolik pøímıch vıbuchù. Jsou odemèené.}
-{110}{}{Exploze otøásla dveømi. Jsou silnì poškozené, avšak stále na místì.}
-{111}{}{Dveøe se po explozi rozletìly. Nic z nich nezbylo.}
+{100}{}{VidÃ­Å¡ bytelnÃ© kovovÃ© dveÅ™e.}
+{101}{}{TakovÃ©to dveÅ™e se pouÅ¾Ã­vajÃ­ v bankovnÃ­ch trezorech. Zcela jistÄ› vydrÅ¾Ã­ nÄ›kolik pÅ™Ã­mÃ½ch vÃ½buchÅ¯. Jsou zamÄenÃ©.}
+{102}{}{TakovÃ©to dveÅ™e se pouÅ¾Ã­vajÃ­ v bankovnÃ­ch trezorech. Zcela jistÄ› vydrÅ¾Ã­ nÄ›kolik pÅ™Ã­mÃ½ch vÃ½buchÅ¯. Jsou odemÄenÃ©.}
+{110}{}{Exploze otÅ™Ã¡sla dveÅ™mi. Jsou silnÄ› poÅ¡kozenÃ©, avÅ¡ak stÃ¡le na mÃ­stÄ›.}
+{111}{}{DveÅ™e se po explozi rozletÄ›ly. Nic z nich nezbylo.}

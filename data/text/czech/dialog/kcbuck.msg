@@ -1,51 +1,51 @@
-{100}{}{Vidíš nìkoho, kdo vypadá jako lovec koešin.}
-{101}{}{Vidíš nìkoho, kdo relaxuje.}
-{102}{}{Vidíš místního obyvatele.}
-{103}{}{Vidíš pracujícího, kterı odpoèívá.}
-{104}{}{Vidíš osobu vychutnávající si svùj nápoj.}
-{150}{}{Jseš ve špatnı krèmì, víš o tom?}
-{151}{}{Nepotøebujem tady nìkoho, kdo dìlá potíe.}
-{152}{}{Divoši vdycky znamenaj potíe.}
-{153}{}{Hlavnì to s tou ohnivou vodou nepøehánìj...}
-{154}{}{(mumly, mumly)...vypadni z tohodle mìsta...}
-{155}{}{Další z Duntonovic gangu.}
-{156}{}{Na co èumíš?}
-{157}{}{Jdi dál.}
-{158}{}{Kup nám všem rundu chlastu, nováèku.}
-{159}{}{Doufám, e na tebe chlast moc nepùsobí.}
-{160}{}{Nevypadáš jako kanibal.}
-{161}{}{Není tady pro tebe místo.}
-{162}{}{V poslední dobì je tady nìjak moc cizincù.}
-{163}{}{No, aspoò nemáš zuby vybroušenı do špièky.}
-{164}{}{Tady se ilo tak krásnì...}
-{165}{}{Nemáš mít náhodou v nose kost?}
-{166}{}{(Podívá se na tebe a zavrtí hlavou)}
-{167}{}{(Nenápadnì dìlá neslušná gesta)}
-{168}{}{Urèitì máš na svìdomí to mrzaèení brahmín.}
-{169}{}{Pohøešujem pár našich lovcù...urèitì za to mùeš ty.}
-{170}{}{Poblí mìsta se potulujou lido-brouci.}
-{171}{}{V kaòonu na vıchod od mìsta je nìjakej duch.}
-{172}{}{Dej si pozor, a tì nedostane kráèející duch!}
-{173}{}{A tì ani nenapadne krást naše brahmíny.}
-{174}{}{Dáme si na tebe pozor.}
-{201}{}{Je fajn vidìt tu novou tváø.}
-{202}{}{Myslím, e ti divoši nejsou a tak špatní.}
-{203}{}{Kup nám rundu pití!}
-{204}{}{Zdravím.}
-{205}{}{Jseš jako Sulikovo dvojèe.}
-{206}{}{U ses bavil se Sulikem?}
-{207}{}{V poslední dobì jde lov dobøe.}
-{208}{}{Myslím, e se brzo zmìní poèasí.}
-{209}{}{Mám na jihu odsud fakt dobrou past.}
-{210}{}{Jestli ti mùu poradit, dr se dál od bratrù Duntonù.}
-{211}{}{Jestli jseš utahanej, zkus láznì.}
-{212}{}{Jestli se chceš nìkde vyspat, bì na západ do Loveckı ètvrti.}
-{213}{}{Vítej, pøíteli.}
-{214}{}{Doufám, e se ti naše mìsto líbí.}
-{215}{}{V Klamathu to ije.}
-{216}{}{Jsme rádi, e tu jseš.}
-{217}{}{(Pøipíjí na tebe)}
+{100}{}{VidÃ­Å¡ nÄ›koho, kdo vypadÃ¡ jako lovec koÅ¾eÅ¡in.}
+{101}{}{VidÃ­Å¡ nÄ›koho, kdo relaxuje.}
+{102}{}{VidÃ­Å¡ mÃ­stnÃ­ho obyvatele.}
+{103}{}{VidÃ­Å¡ pracujÃ­cÃ­ho, kterÃ½ odpoÄÃ­vÃ¡.}
+{104}{}{VidÃ­Å¡ osobu vychutnÃ¡vajÃ­cÃ­ si svÅ¯j nÃ¡poj.}
+{150}{}{JseÅ¡ ve Å¡patnÃ½ krÄmÄ›, vÃ­Å¡ o tom?}
+{151}{}{NepotÅ™ebujem tady nÄ›koho, kdo dÄ›lÃ¡ potÃ­Å¾e.}
+{152}{}{DivoÅ¡i vÅ¾dycky znamenaj potÃ­Å¾e.}
+{153}{}{HlavnÄ› to s tou ohnivou vodou nepÅ™ehÃ¡nÄ›j...}
+{154}{}{(mumly, mumly)...vypadni z tohodle mÄ›sta...}
+{155}{}{DalÅ¡Ã­ z Duntonovic gangu.}
+{156}{}{Na co ÄumÃ­Å¡?}
+{157}{}{Jdi dÃ¡l.}
+{158}{}{Kup nÃ¡m vÅ¡em rundu chlastu, novÃ¡Äku.}
+{159}{}{DoufÃ¡m, Å¾e na tebe chlast moc nepÅ¯sobÃ­.}
+{160}{}{NevypadÃ¡Å¡ jako kanibal.}
+{161}{}{NenÃ­ tady pro tebe mÃ­sto.}
+{162}{}{V poslednÃ­ dobÄ› je tady nÄ›jak moc cizincÅ¯.}
+{163}{}{No, aspoÅˆ nemÃ¡Å¡ zuby vybrouÅ¡enÃ½ do Å¡piÄky.}
+{164}{}{Tady se Å¾ilo tak krÃ¡snÄ›...}
+{165}{}{NemÃ¡Å¡ mÃ­t nÃ¡hodou v nose kost?}
+{166}{}{(PodÃ­vÃ¡ se na tebe a zavrtÃ­ hlavou)}
+{167}{}{(NenÃ¡padnÄ› dÄ›lÃ¡ nesluÅ¡nÃ¡ gesta)}
+{168}{}{UrÄitÄ› mÃ¡Å¡ na svÄ›domÃ­ to mrzaÄenÃ­ brahmÃ­n.}
+{169}{}{PohÅ™eÅ¡ujem pÃ¡r naÅ¡ich lovcÅ¯...urÄitÄ› za to mÅ¯Å¾eÅ¡ ty.}
+{170}{}{PoblÃ­Å¾ mÄ›sta se potulujou lido-brouci.}
+{171}{}{V kaÅˆonu na vÃ½chod od mÄ›sta je nÄ›jakej duch.}
+{172}{}{Dej si pozor, aÅ¥ tÄ› nedostane krÃ¡ÄejÃ­cÃ­ duch!}
+{173}{}{AÅ¥ tÄ› ani nenapadne krÃ¡st naÅ¡e brahmÃ­ny.}
+{174}{}{DÃ¡me si na tebe pozor.}
+{201}{}{Je fajn vidÄ›t tu novou tvÃ¡Å™.}
+{202}{}{MyslÃ­m, Å¾e ti divoÅ¡i nejsou aÅ¾ tak Å¡patnÃ­.}
+{203}{}{Kup nÃ¡m rundu pitÃ­!}
+{204}{}{ZdravÃ­m.}
+{205}{}{JseÅ¡ jako Sulikovo dvojÄe.}
+{206}{}{UÅ¾ ses bavil se Sulikem?}
+{207}{}{V poslednÃ­ dobÄ› jde lov dobÅ™e.}
+{208}{}{MyslÃ­m, Å¾e se brzo zmÄ›nÃ­ poÄasÃ­.}
+{209}{}{MÃ¡m na jihu odsud fakt dobrou past.}
+{210}{}{Jestli ti mÅ¯Å¾u poradit, drÅ¾ se dÃ¡l od bratrÅ¯ DuntonÅ¯.}
+{211}{}{Jestli jseÅ¡ utahanej, zkus lÃ¡znÄ›.}
+{212}{}{Jestli se chceÅ¡ nÄ›kde vyspat, bÄ›Å¾ na zÃ¡pad do LoveckÃ½ Ätvrti.}
+{213}{}{VÃ­tej, pÅ™Ã­teli.}
+{214}{}{DoufÃ¡m, Å¾e se ti naÅ¡e mÄ›sto lÃ­bÃ­.}
+{215}{}{V Klamathu to Å¾ije.}
+{216}{}{Jsme rÃ¡di, Å¾e tu jseÅ¡.}
+{217}{}{(PÅ™ipÃ­jÃ­ na tebe)}
 {218}{}{(Mrkne na tebe)}
 {219}{}{V noci se tu moc nepoflakuj.}
-{220}{}{V horách jsou nìjakı lido-brouci.}
-{221}{}{Jeden z našich nejlepších lovcù se ztratil.}
+{220}{}{V horÃ¡ch jsou nÄ›jakÃ½ lido-brouci.}
+{221}{}{Jeden z naÅ¡ich nejlepÅ¡Ã­ch lovcÅ¯ se ztratil.}

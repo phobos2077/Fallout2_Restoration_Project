@@ -1,18 +1,18 @@
-{100}{}{Vidíš strá.}
-{101}{}{Vidíš strá v kevlarové zbroji .}
-{102}{}{Vidíš osobu v kevlarové zbroji neobvyklého vzhledu. Na prsou má znak, kterı nepoznáváš.}
-{103}{}{Po dobu mé sluby se nic zvláštního nestalo.}
-{104}{}{U mì nic novıho a co u tebe?}
-{105}{}{Nemìl bys stát na svım místì, vojáku? Tady se nemùeš jen tak poflakovat.}
-{106}{}{Kde máš uniformu?}
-{107}{}{Mìl by ses nahlásit u seri a pøevlíknout se.}
-{108}{}{Pìknì riskuješ, kdy tu takhle pobíháš bez uniformy. Radìji si ji vyfasuj.}
-{109}{}{Kdo k èertu jste? Poplach! Vetøelci!}
+{100}{}{VidÃ­Å¡ strÃ¡Å¾.}
+{101}{}{VidÃ­Å¡ strÃ¡Å¾ v kevlarovÃ© zbroji .}
+{102}{}{VidÃ­Å¡ osobu v kevlarovÃ© zbroji neobvyklÃ©ho vzhledu. Na prsou mÃ¡ znak, kterÃ½ nepoznÃ¡vÃ¡Å¡.}
+{103}{}{Po dobu mÃ© sluÅ¾by se nic zvlÃ¡Å¡tnÃ­ho nestalo.}
+{104}{}{U mÄ› nic novÃ½ho a co u tebe?}
+{105}{}{NemÄ›l bys stÃ¡t na svÃ½m mÃ­stÄ›, vojÃ¡ku? Tady se nemÅ¯Å¾eÅ¡ jen tak poflakovat.}
+{106}{}{Kde mÃ¡Å¡ uniformu?}
+{107}{}{MÄ›l by ses nahlÃ¡sit u serÅ¾i a pÅ™evlÃ­knout se.}
+{108}{}{PÄ›knÄ› riskujeÅ¡, kdyÅ¾ tu takhle pobÃ­hÃ¡Å¡ bez uniformy. RadÄ›ji si ji vyfasuj.}
+{109}{}{Kdo k Äertu jste? Poplach! VetÅ™elci!}
 {110}{}{Byli jsme napadeni! Poplach!}
-{111}{}{Vetøelci! Spuste alarm!}
-{112}{}{Poplach! Chraòte základnu!}
-{113}{}{Zabezpeète všechny stanice! Máme tu poplach!}
-{114}{}{Poplach! Èervenı kód!}
-{115}{}{Chcípneš!}
-{116}{}{Enkláva bude vládnou svìtu!}
-{117}{}{Ty zhebneš, Enkláva bude ít dál!}
+{111}{}{VetÅ™elci! SpusÅ¥te alarm!}
+{112}{}{Poplach! ChraÅˆte zÃ¡kladnu!}
+{113}{}{ZabezpeÄte vÅ¡echny stanice! MÃ¡me tu poplach!}
+{114}{}{Poplach! ÄŒervenÃ½ kÃ³d!}
+{115}{}{ChcÃ­pneÅ¡!}
+{116}{}{EnklÃ¡va bude vlÃ¡dnou svÄ›tu!}
+{117}{}{Ty zhebneÅ¡, EnklÃ¡va bude Å¾Ã­t dÃ¡l!}

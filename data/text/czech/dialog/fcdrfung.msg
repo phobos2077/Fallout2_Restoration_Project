@@ -1,126 +1,126 @@
-{100}{}{Vidíš seschlého starého mue v bílém pracovním plášti.}
+{100}{}{VidÃ­Å¡ seschlÃ©ho starÃ©ho muÅ¾e v bÃ­lÃ©m pracovnÃ­m plÃ¡Å¡ti.}
 {101}{}{To je Dr. Fung.}
-{102}{}{Vidíš seschlého starého mue v bílém pracovním plášti.}
-{103}{}{Mohu vám s nìèím pomoci?}
+{102}{}{VidÃ­Å¡ seschlÃ©ho starÃ©ho muÅ¾e v bÃ­lÃ©m pracovnÃ­m plÃ¡Å¡ti.}
+{103}{}{Mohu vÃ¡m s nÄ›ÄÃ­m pomoci?}
 {104}{}{Auvej! Jau! Auuuu!}
-{105}{}{Jo... mám zranìní a vy vypadáte jako doktor.}
-{106}{}{Ano. Potøebuju doktora pro mého pøítele.}
-{107}{}{Nemáte nìjaké Stimpaky? Chci si nìjaké koupit.}
+{105}{}{Jo... mÃ¡m zranÄ›nÃ­ a vy vypadÃ¡te jako doktor.}
+{106}{}{Ano. PotÅ™ebuju doktora pro mÃ©ho pÅ™Ã­tele.}
+{107}{}{NemÃ¡te nÄ›jakÃ© Stimpaky? Chci si nÄ›jakÃ© koupit.}
 {108}{}{Kdo jsi?}
-{109}{}{Mám pøítele, kterému chybí slezina. Mùete mu pomoct?}
-{110}{}{Co mi mùeš øíct o tomto místì?}
+{109}{}{MÃ¡m pÅ™Ã­tele, kterÃ©mu chybÃ­ slezina. MÅ¯Å¾ete mu pomoct?}
+{110}{}{Co mi mÅ¯Å¾eÅ¡ Å™Ã­ct o tomto mÃ­stÄ›?}
 {111}{}{Nashle.}
-{112}{}{Ukate, podívám se na to. Hmm... ano. Budete mi muset zaplatit, samozøejmì.}
+{112}{}{UkaÅ¾te, podÃ­vÃ¡m se na to. Hmm... ano. Budete mi muset zaplatit, samozÅ™ejmÄ›.}
 {113}{}{Kolik za to?}
-{114}{}{Zapomeò na to.}
-{115}{}{Mohu ho vyléèit... samozøejmì za peníze.}
+{114}{}{ZapomeÅˆ na to.}
+{115}{}{Mohu ho vylÃ©Äit... samozÅ™ejmÄ› za penÃ­ze.}
 {116}{}{Kolik za to?}
-{117}{}{Zapomeò na to.}
-{118}{}{Kdo jsem? Jsem Dr. Fung. Uèím a léèím.}
-{119}{}{Dr. Fung? Znáte Doc Hollidaye?}
-{120}{}{Tìší mì. Potøebuju vyléèit.}
-{121}{}{Mùj pøítel potøebuje uzdravit.}
-{122}{}{Aha. Díky. Nashle.}
-{123}{}{Hollidaye? Ano! To já ho všechno nauèil! Kde je teï?}
-{124}{}{ije v Broken Hills.}
-{125}{}{Vrátil se domù, e? Doufám, e tam našel klid.}
-{126}{}{Myslím, e ano. Mám další otázky.}
-{127}{}{Nejspíš. U musím jít. Nashle.}
-{128}{}{Bude vás to stát $100.}
-{129}{}{Zaplatím.}
-{130}{}{Zapomeò na to.}
-{131}{}{Tohle vypadá vánì. Bude to stát $200.}
-{132}{}{Zaplatím.}
-{133}{}{Zapomeò na to.}
-{134}{}{To jsou opravdu rozsáhlá zranìní. $300 bude staèit na zaplacení mıch slueb.}
-{135}{}{Zaplatím.}
-{136}{}{Zapomeò na to.}
-{137}{}{Obávám se, e za takové zranìní budu muset poadovat $400.}
-{138}{}{Zaplatím.}
-{139}{}{Zapomeò na to.}
-{140}{}{Radìji se posaïte. Budete to potøebovat, a uslyšíte èástku, kterou poaduji. Zmrzaèené konèetiny stojí $600.}
-{141}{}{Zaplatím.}
-{142}{}{Zapomeò na to.}
-{158}{}{Coe? Vy nemáte peníze? Z èeho myslíte, e budu ít, kdy po mnì poadujete práci zadarmo?}
-{159}{}{Máte Stimpaky?}
-{160}{}{Ne, díky.}
-{161}{}{Bylo mi potìšením s vámi obchodovat.}
-{162}{}{Díky.}
-{163}{}{Bohuel vaše nabídka není pøijatelná.}
+{117}{}{ZapomeÅˆ na to.}
+{118}{}{Kdo jsem? Jsem Dr. Fung. UÄÃ­m a lÃ©ÄÃ­m.}
+{119}{}{Dr. Fung? ZnÃ¡te Doc Hollidaye?}
+{120}{}{TÄ›Å¡Ã­ mÄ›. PotÅ™ebuju vylÃ©Äit.}
+{121}{}{MÅ¯j pÅ™Ã­tel potÅ™ebuje uzdravit.}
+{122}{}{Aha. DÃ­ky. Nashle.}
+{123}{}{Hollidaye? Ano! To jÃ¡ ho vÅ¡echno nauÄil! Kde je teÄ?}
+{124}{}{Å½ije v Broken Hills.}
+{125}{}{VrÃ¡til se domÅ¯, Å¾e? DoufÃ¡m, Å¾e tam naÅ¡el klid.}
+{126}{}{MyslÃ­m, Å¾e ano. MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
+{127}{}{NejspÃ­Å¡. UÅ¾ musÃ­m jÃ­t. Nashle.}
+{128}{}{Bude vÃ¡s to stÃ¡t $100.}
+{129}{}{ZaplatÃ­m.}
+{130}{}{ZapomeÅˆ na to.}
+{131}{}{Tohle vypadÃ¡ vÃ¡Å¾nÄ›. Bude to stÃ¡t $200.}
+{132}{}{ZaplatÃ­m.}
+{133}{}{ZapomeÅˆ na to.}
+{134}{}{To jsou opravdu rozsÃ¡hlÃ¡ zranÄ›nÃ­. $300 bude staÄit na zaplacenÃ­ mÃ½ch sluÅ¾eb.}
+{135}{}{ZaplatÃ­m.}
+{136}{}{ZapomeÅˆ na to.}
+{137}{}{ObÃ¡vÃ¡m se, Å¾e za takovÃ© zranÄ›nÃ­ budu muset poÅ¾adovat $400.}
+{138}{}{ZaplatÃ­m.}
+{139}{}{ZapomeÅˆ na to.}
+{140}{}{RadÄ›ji se posaÄte. Budete to potÅ™ebovat, aÅ¾ uslyÅ¡Ã­te ÄÃ¡stku, kterou poÅ¾aduji. ZmrzaÄenÃ© konÄetiny stojÃ­ $600.}
+{141}{}{ZaplatÃ­m.}
+{142}{}{ZapomeÅˆ na to.}
+{158}{}{CoÅ¾e? Vy nemÃ¡te penÃ­ze? Z Äeho myslÃ­te, Å¾e budu Å¾Ã­t, kdyÅ¾ po mnÄ› poÅ¾adujete prÃ¡ci zadarmo?}
+{159}{}{MÃ¡te Stimpaky?}
+{160}{}{Ne, dÃ­ky.}
+{161}{}{Bylo mi potÄ›Å¡enÃ­m s vÃ¡mi obchodovat.}
+{162}{}{DÃ­ky.}
+{163}{}{BohuÅ¾el vaÅ¡e nabÃ­dka nenÃ­ pÅ™ijatelnÃ¡.}
 {164}{}{A co tohle?}
-{165}{}{Víc nabídnout nemùu. Sbohem.}
-{166}{}{Máte zranìní? Ts, ts, ts. Starovìkı léèebnı prostøedek to vyléèí. }
-{167}{}{Dobøe!}
+{165}{}{VÃ­c nabÃ­dnout nemÅ¯Å¾u. Sbohem.}
+{166}{}{MÃ¡te zranÄ›nÃ­? Ts, ts, ts. StarovÄ›kÃ½ lÃ©ÄebnÃ½ prostÅ™edek to vylÃ©ÄÃ­. }
+{167}{}{DobÅ™e!}
 {168}{}{}
-{169}{}{Hotovo. Teï jdìte a buïte opatrnı!}
-{170}{}{Díky!}
-{171}{}{Ještì nìco?}
-{172}{}{Potøebuju uzdravit.}
-{173}{}{Mám pøítele, kterı potøebuje uzdravit.}
+{169}{}{Hotovo. TeÄ jdÄ›te a buÄte opatrnÃ½!}
+{170}{}{DÃ­ky!}
+{171}{}{JeÅ¡tÄ› nÄ›co?}
+{172}{}{PotÅ™ebuju uzdravit.}
+{173}{}{MÃ¡m pÅ™Ã­tele, kterÃ½ potÅ™ebuje uzdravit.}
 {174}{}{Kdo jsi?}
-{175}{}{Povìz mi nìco o tomhle místì.}
-{176}{}{Mám pøítele, kterému chybí slezina. Mùete mu pomoct?}
-{177}{}{Ne, ale kadopádnì díky.}
-{178}{}{Tak to jste na správném místì. Chcete radìji slyšet dlouhı pøíbìh nebo ten krátkı?}
-{179}{}{Dlouhı.}
-{180}{}{Krátkı.}
-{181}{}{ádnı. Mám další otázky.}
-{182}{}{Naši lidé sem pøipluli na ponorce Shih-huang-ti, kdy rakety vybuchly po celém svìtì. Za pomoci kultu jsme poté my, Shi, opìt postavili San Francisco. Taková je zkrácená verze.}
-{183}{}{A jak zní ta dlouhá verze?}
-{184}{}{Díky. Mám další otázky.}
-{185}{}{Díky.}
-{186}{}{Dlouhá verze zní takto: Jsme tady, protoe naši lidé jsou potomci posádky atomové ponorky, jen se nazıvá Shih-huang-ti. Kdy støely dopadly bìhem Velké Potopy, systémy vnì ponorky se porouchaly a my jsme byli unášeni po mnoho dní neznámo kam.}
-{187}{}{[Více]}
-{188}{}{Nakonec jsme se dostali na bøeh poblí ruin San Francisca. Vìtšina mìsta byla znièena válkou. Museli jsme znovu vybudovat základy spoleènosti zaloené pouze na nìkolika lidech, kteøí pøeili a dobelhali se zpìt do mìsta.}
-{189}{}{[Více]}
-{190}{}{Stavìli jsme z materiálu, kterı jsme mìli po ruce a díky vìdcùm a technologiím, které by nám mohl závidìt celı svìt, budujeme novou civilizaci, ale ne takovou, jakou pøed námi vytvoøil ten šílenı Vùdce.}
-{191}{}{Chápu. Mám další otázky.}
-{192}{}{Dík. Naskle.}
-{193}{}{Samozøejmì e ano. A ponìvad znáte Doc Hollidaye... udìlám to èistì z pøátelství. Øeknìte svému kamarádovi bez sleziny, a sem pøijde a já mu ji dám zpìt.}
-{194}{}{Díky! Mám další otázky.}
-{195}{}{Díky!}
-{196}{}{Ano, to bych mohl. Bude vás to ale stát $1000 dolarù. Pøedem. Pøijímáte?}
+{175}{}{PovÄ›z mi nÄ›co o tomhle mÃ­stÄ›.}
+{176}{}{MÃ¡m pÅ™Ã­tele, kterÃ©mu chybÃ­ slezina. MÅ¯Å¾ete mu pomoct?}
+{177}{}{Ne, ale kaÅ¾dopÃ¡dnÄ› dÃ­ky.}
+{178}{}{Tak to jste na sprÃ¡vnÃ©m mÃ­stÄ›. Chcete radÄ›ji slyÅ¡et dlouhÃ½ pÅ™Ã­bÄ›h nebo ten krÃ¡tkÃ½?}
+{179}{}{DlouhÃ½.}
+{180}{}{KrÃ¡tkÃ½.}
+{181}{}{Å½Ã¡dnÃ½. MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
+{182}{}{NaÅ¡i lidÃ© sem pÅ™ipluli na ponorce Shih-huang-ti, kdyÅ¾ rakety vybuchly po celÃ©m svÄ›tÄ›. Za pomoci kultu jsme potÃ© my, Shi, opÄ›t postavili San Francisco. TakovÃ¡ je zkrÃ¡cenÃ¡ verze.}
+{183}{}{A jak znÃ­ ta dlouhÃ¡ verze?}
+{184}{}{DÃ­ky. MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
+{185}{}{DÃ­ky.}
+{186}{}{DlouhÃ¡ verze znÃ­ takto: Jsme tady, protoÅ¾e naÅ¡i lidÃ© jsou potomci posÃ¡dky atomovÃ© ponorky, jenÅ¾ se nazÃ½vÃ¡ Shih-huang-ti. KdyÅ¾ stÅ™ely dopadly bÄ›hem VelkÃ© Potopy, systÃ©my vnÄ› ponorky se porouchaly a my jsme byli unÃ¡Å¡eni po mnoho dnÃ­ neznÃ¡mo kam.}
+{187}{}{[VÃ­ce]}
+{188}{}{Nakonec jsme se dostali na bÅ™eh poblÃ­Å¾ ruin San Francisca. VÄ›tÅ¡ina mÄ›sta byla zniÄena vÃ¡lkou. Museli jsme znovu vybudovat zÃ¡klady spoleÄnosti zaloÅ¾enÃ© pouze na nÄ›kolika lidech, kteÅ™Ã­ pÅ™eÅ¾ili a dobelhali se zpÄ›t do mÄ›sta.}
+{189}{}{[VÃ­ce]}
+{190}{}{StavÄ›li jsme z materiÃ¡lu, kterÃ½ jsme mÄ›li po ruce a dÃ­ky vÄ›dcÅ¯m a technologiÃ­m, kterÃ© by nÃ¡m mohl zÃ¡vidÄ›t celÃ½ svÄ›t, budujeme novou civilizaci, ale ne takovou, jakou pÅ™ed nÃ¡mi vytvoÅ™il ten Å¡Ã­lenÃ½ VÅ¯dce.}
+{191}{}{ChÃ¡pu. MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
+{192}{}{DÃ­k. Naskle.}
+{193}{}{SamozÅ™ejmÄ› Å¾e ano. A ponÄ›vadÅ¾ znÃ¡te Doc Hollidaye... udÄ›lÃ¡m to ÄistÄ› z pÅ™Ã¡telstvÃ­. Å˜eknÄ›te svÃ©mu kamarÃ¡dovi bez sleziny, aÅ¥ sem pÅ™ijde a jÃ¡ mu ji dÃ¡m zpÄ›t.}
+{194}{}{DÃ­ky! MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
+{195}{}{DÃ­ky!}
+{196}{}{Ano, to bych mohl. Bude vÃ¡s to ale stÃ¡t $1000 dolarÅ¯. PÅ™edem. PÅ™ijÃ­mÃ¡te?}
 {197}{}{Ano.}
 {198}{}{Ne.}
-{199}{}{Øeknìte vašemu kamarádovi, a sem pøijde a já mu ji dám zpìt.}
-{200}{}{Díky. Mám další otázky.}
-{201}{}{Díky.}
-{202}{}{Nemohu pro nìj nic udìlat, dokud nedáte dohromady $1000. Mìjte se.}
-{203}{}{Hezkı den.}
-{204}{}{Neošetøuji nepøátele mıch lidí. Omlouvám se.}
-{205}{}{Velectìnı pane, doporuèuji vám najít vašeho kultovního léèitele.}
-{206}{}{Co mi mùete øíct o implantátech?}
-{207}{}{Publikoval jsem nìkolik èlánkù o implantátech. Jsou zapotøebí jen mé znalosti a vaše materiály. Jakı druh implantátu si pøejete?}
-{208}{}{Jaké druhy existují?}
-{209}{}{Podkoní implantáty.}
-{210}{}{Zesílené podkoní implantáty.}
-{211}{}{Phoenix implantáty.}
-{212}{}{Zesílené Phoenix implantáty.}
-{213}{}{Eh... zapomeòte na to. Mám další otázky.}
-{214}{}{Vlastnì ádnı. Nashle.}
-{215}{}{Máme podkoní implantáty, které chrání pøed fyzickım poškozením. Pokud se vám to zamlouvá, mùeme vám dát tento implantát v jednoduchém i vylepšeném provedení. Dále máme Phoenix implantáty, které chrání pøed árem. Ty samozøejmì mohou bıt také ještì vylepšeny. Pokud vás zajímají jenom vylepšení, budete si muset poèkat na to, a budete mít nainstalovanı jeden ze základních implantátù. A ještì ne se zeptáte... ano, MUETE mít všechny ètyøi operace.}
-{216}{}{Super. Vezmu si podkoní implantáty.}
-{217}{}{Chci podkoní implantáty.}
-{218}{}{Dejte mi zesílené podkoní implantáty.}
-{219}{}{Vezmu si Phoenix implantáty.}
-{220}{}{Èas pro zesílené Phoenix implantáty.}
-{221}{}{Eh... zapomeòte na to. Mám další otázky.}
-{222}{}{Vlastnì ádnı. Nashle.}
-{223}{}{Vıbornì. Budu potøebovat jednu kevlarovou zbroj a také $5500. No a vy budete potøebovat dva dny na zotavení a schopnost neškrábat si strupy.}
-{224}{}{Pojïme na to.}
-{225}{}{Zapomeòte na to. Sbohem.}
-{226}{}{Zesílené podkoní implantáty, jo? To vás bude stát nìkolik dní vašeho ivota, $33000, kevlarovou zbroj a nìkolik jizev, které vám u nikdy nezmizí.}
-{227}{}{No a? Tohle VŠECHNO si mùu dovolit.}
-{228}{}{Hmm. Myslím, e tolik za to zaplatit nechci. Sbohem.}
-{229}{}{Jestli vám nevadí, e pøijdete o $8500, nìkolik dní ivota a kevlarovou zbroj, mùeme hned zaèít.}
-{230}{}{Do toho, doktore. Jsem pøipravenı.}
-{231}{}{To je trochu moc. Ještì se vrátím.}
-{232}{}{To je veliká operace. Bude vás to stát váš "hezkı vzhled", kevlarovou zbroj a $49000. Opravdu to chcete podstoupit?}
-{233}{}{Jo. Pojïme na to.}
-{234}{}{Páni. To je... drahé. Ještì se vrátím.}
-{235}{}{::potøásá hlavou:: Nehrajte si se mnou. Schází vám dùleité souèásti. Pøíštì mì poøádnì poslouchejte. Teï jdìte a vrate se, a vám budu moci pomoct.}
-{236}{}{Dobøe.}
-{237}{}{Tady jste! Jste... vylepšen. Pamatujte... neškrábejte si strupy, pokud nechcete, aby vám na tìle zùstaly ohavné jizvy.}
-{238}{}{Díky, doktore. Sbohem.}
-{239}{}{Mám ty peníze na slezinu.}
-{240}{}{Opìt se zajímáte o implantáty?}
+{199}{}{Å˜eknÄ›te vaÅ¡emu kamarÃ¡dovi, aÅ¥ sem pÅ™ijde a jÃ¡ mu ji dÃ¡m zpÄ›t.}
+{200}{}{DÃ­ky. MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
+{201}{}{DÃ­ky.}
+{202}{}{Nemohu pro nÄ›j nic udÄ›lat, dokud nedÃ¡te dohromady $1000. MÄ›jte se.}
+{203}{}{HezkÃ½ den.}
+{204}{}{NeoÅ¡etÅ™uji nepÅ™Ã¡tele mÃ½ch lidÃ­. OmlouvÃ¡m se.}
+{205}{}{VelectÄ›nÃ½ pane, doporuÄuji vÃ¡m najÃ­t vaÅ¡eho kultovnÃ­ho lÃ©Äitele.}
+{206}{}{Co mi mÅ¯Å¾ete Å™Ã­ct o implantÃ¡tech?}
+{207}{}{Publikoval jsem nÄ›kolik ÄlÃ¡nkÅ¯ o implantÃ¡tech. Jsou zapotÅ™ebÃ­ jen mÃ© znalosti a vaÅ¡e materiÃ¡ly. JakÃ½ druh implantÃ¡tu si pÅ™ejete?}
+{208}{}{JakÃ© druhy existujÃ­?}
+{209}{}{PodkoÅ¾nÃ­ implantÃ¡ty.}
+{210}{}{ZesÃ­lenÃ© podkoÅ¾nÃ­ implantÃ¡ty.}
+{211}{}{Phoenix implantÃ¡ty.}
+{212}{}{ZesÃ­lenÃ© Phoenix implantÃ¡ty.}
+{213}{}{Eh... zapomeÅˆte na to. MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
+{214}{}{VlastnÄ› Å¾Ã¡dnÃ½. Nashle.}
+{215}{}{MÃ¡me podkoÅ¾nÃ­ implantÃ¡ty, kterÃ© chrÃ¡nÃ­ pÅ™ed fyzickÃ½m poÅ¡kozenÃ­m. Pokud se vÃ¡m to zamlouvÃ¡, mÅ¯Å¾eme vÃ¡m dÃ¡t tento implantÃ¡t v jednoduchÃ©m i vylepÅ¡enÃ©m provedenÃ­. DÃ¡le mÃ¡me Phoenix implantÃ¡ty, kterÃ© chrÃ¡nÃ­ pÅ™ed Å¾Ã¡rem. Ty samozÅ™ejmÄ› mohou bÃ½t takÃ© jeÅ¡tÄ› vylepÅ¡eny. Pokud vÃ¡s zajÃ­majÃ­ jenom vylepÅ¡enÃ­, budete si muset poÄkat na to, aÅ¾ budete mÃ­t nainstalovanÃ½ jeden ze zÃ¡kladnÃ­ch implantÃ¡tÅ¯. A jeÅ¡tÄ› neÅ¾ se zeptÃ¡te... ano, MUÅ½ETE mÃ­t vÅ¡echny ÄtyÅ™i operace.}
+{216}{}{Super. Vezmu si podkoÅ¾nÃ­ implantÃ¡ty.}
+{217}{}{Chci podkoÅ¾nÃ­ implantÃ¡ty.}
+{218}{}{Dejte mi zesÃ­lenÃ© podkoÅ¾nÃ­ implantÃ¡ty.}
+{219}{}{Vezmu si Phoenix implantÃ¡ty.}
+{220}{}{ÄŒas pro zesÃ­lenÃ© Phoenix implantÃ¡ty.}
+{221}{}{Eh... zapomeÅˆte na to. MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
+{222}{}{VlastnÄ› Å¾Ã¡dnÃ½. Nashle.}
+{223}{}{VÃ½bornÄ›. Budu potÅ™ebovat jednu kevlarovou zbroj a takÃ© $5500. No a vy budete potÅ™ebovat dva dny na zotavenÃ­ a schopnost neÅ¡krÃ¡bat si strupy.}
+{224}{}{PojÄme na to.}
+{225}{}{ZapomeÅˆte na to. Sbohem.}
+{226}{}{ZesÃ­lenÃ© podkoÅ¾nÃ­ implantÃ¡ty, jo? To vÃ¡s bude stÃ¡t nÄ›kolik dnÃ­ vaÅ¡eho Å¾ivota, $33000, kevlarovou zbroj a nÄ›kolik jizev, kterÃ© vÃ¡m uÅ¾ nikdy nezmizÃ­.}
+{227}{}{No a? Tohle VÅ ECHNO si mÅ¯Å¾u dovolit.}
+{228}{}{Hmm. MyslÃ­m, Å¾e tolik za to zaplatit nechci. Sbohem.}
+{229}{}{Jestli vÃ¡m nevadÃ­, Å¾e pÅ™ijdete o $8500, nÄ›kolik dnÃ­ Å¾ivota a kevlarovou zbroj, mÅ¯Å¾eme hned zaÄÃ­t.}
+{230}{}{Do toho, doktore. Jsem pÅ™ipravenÃ½.}
+{231}{}{To je trochu moc. JeÅ¡tÄ› se vrÃ¡tÃ­m.}
+{232}{}{To je velikÃ¡ operace. Bude vÃ¡s to stÃ¡t vÃ¡Å¡ "hezkÃ½ vzhled", kevlarovou zbroj a $49000. Opravdu to chcete podstoupit?}
+{233}{}{Jo. PojÄme na to.}
+{234}{}{PÃ¡ni. To je... drahÃ©. JeÅ¡tÄ› se vrÃ¡tÃ­m.}
+{235}{}{::potÅ™Ã¡sÃ¡ hlavou:: Nehrajte si se mnou. SchÃ¡zÃ­ vÃ¡m dÅ¯leÅ¾itÃ© souÄÃ¡sti. PÅ™Ã­Å¡tÄ› mÄ› poÅ™Ã¡dnÄ› poslouchejte. TeÄ jdÄ›te a vraÅ¥te se, aÅ¾ vÃ¡m budu moci pomoct.}
+{236}{}{DobÅ™e.}
+{237}{}{Tady jste! Jste... vylepÅ¡en. Pamatujte... neÅ¡krÃ¡bejte si strupy, pokud nechcete, aby vÃ¡m na tÄ›le zÅ¯staly ohavnÃ© jizvy.}
+{238}{}{DÃ­ky, doktore. Sbohem.}
+{239}{}{MÃ¡m ty penÃ­ze na slezinu.}
+{240}{}{OpÄ›t se zajÃ­mÃ¡te o implantÃ¡ty?}

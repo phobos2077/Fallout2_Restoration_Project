@@ -1,11 +1,11 @@
-{100}{}{Vidíš destilátor.}
-{101}{}{Vidíš destilátor. Vypadá funkènì.}
-{102}{}{Vidíš znièenı destilátor.}
-{103}{}{Vidíš znièenı destilátor. Nìkdo se na nìm pìknì vyøádil.}
-{110}{}{Podle zvukù usuzuješ, e pøístroj destiluje koøalku. Získáváš }
-{111}{}{ zkušenostních bodù za doplnìní døeva do destilátoru.}
-{120}{}{Nic to nedìlá.}
-{130}{}{Podaøilo se ti zprovoznit destilátor, ale ta whisky z nìj chutná divnì.}
-{140}{}{V destilátoru u není místo pro další døevo.}
-{150}{}{Tento destilátor u není funkèní. Doplòovat do nìj døevo nemá smysl.}
-{160}{}{To radìji nedìlej. Bude lepší, kdy to necháš na pokoji, ne tì o to nìkdo poádá, ano?}
+{100}{}{VidÃ­Å¡ destilÃ¡tor.}
+{101}{}{VidÃ­Å¡ destilÃ¡tor. VypadÃ¡ funkÄnÄ›.}
+{102}{}{VidÃ­Å¡ zniÄenÃ½ destilÃ¡tor.}
+{103}{}{VidÃ­Å¡ zniÄenÃ½ destilÃ¡tor. NÄ›kdo se na nÄ›m pÄ›knÄ› vyÅ™Ã¡dil.}
+{110}{}{Podle zvukÅ¯ usuzujeÅ¡, Å¾e pÅ™Ã­stroj destiluje koÅ™alku. ZÃ­skÃ¡vÃ¡Å¡ }
+{111}{}{ zkuÅ¡enostnÃ­ch bodÅ¯ za doplnÄ›nÃ­ dÅ™eva do destilÃ¡toru.}
+{120}{}{Nic to nedÄ›lÃ¡.}
+{130}{}{PodaÅ™ilo se ti zprovoznit destilÃ¡tor, ale ta whisky z nÄ›j chutnÃ¡ divnÄ›.}
+{140}{}{V destilÃ¡toru uÅ¾ nenÃ­ mÃ­sto pro dalÅ¡Ã­ dÅ™evo.}
+{150}{}{Tento destilÃ¡tor uÅ¾ nenÃ­ funkÄnÃ­. DoplÅˆovat do nÄ›j dÅ™evo nemÃ¡ smysl.}
+{160}{}{To radÄ›ji nedÄ›lej. Bude lepÅ¡Ã­, kdyÅ¾ to nechÃ¡Å¡ na pokoji, neÅ¾ tÄ› o to nÄ›kdo poÅ¾Ã¡dÃ¡, ano?}

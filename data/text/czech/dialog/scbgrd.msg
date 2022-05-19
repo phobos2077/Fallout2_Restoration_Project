@@ -1,11 +1,11 @@
-{100}{}{Vidíš postavu v kevlarové zbroji.}
-{101}{}{Vidíš strá.}
-{102}{}{Vypadá to, e tu stojí a èeká, a se nìco pøihodí.}
+{100}{}{VidÃ­Å¡ postavu v kevlarovÃ© zbroji.}
+{101}{}{VidÃ­Å¡ strÃ¡Å¾.}
+{102}{}{VypadÃ¡ to, Å¾e tu stojÃ­ a ÄekÃ¡, aÅ¾ se nÄ›co pÅ™ihodÃ­.}
 {103}{}{Jo jo. Jdi si po svejch.}
-{104}{}{Chovej se k panu Busterovi hezky, a nemusíme plıtvat municí.}
-{105}{}{Jsem tady, abych nakopal pár zadkù a vejkal vejkaèku. A máš štìstí, e mám ještì jeden kus.}
-{106}{}{Na co sakra èumíš? Odpal.}
+{104}{}{Chovej se k panu Busterovi hezky, aÅ¥ nemusÃ­me plÃ½tvat municÃ­.}
+{105}{}{Jsem tady, abych nakopal pÃ¡r zadkÅ¯ a Å¾vejkal Å¾vejkaÄku. A mÃ¡Å¡ Å¡tÄ›stÃ­, Å¾e mÃ¡m jeÅ¡tÄ› jeden kus.}
+{106}{}{Na co sakra ÄumÃ­Å¡? Odpal.}
 {107}{}{Hey, I am not into that. Just make sure you keep a good distance from me.}
-{108}{}{Jooo, pojï k tatínkovi. Nezajdem veèer na drink?}
-{109}{}{Zlato, radši bych se vyspal s brahmínou, ne mít nìco s tebou.}
-{110}{}{Nìco si kup a pak odsud vypadni.}
+{108}{}{Jooo, pojÄ k tatÃ­nkovi. Nezajdem veÄer na drink?}
+{109}{}{Zlato, radÅ¡i bych se vyspal s brahmÃ­nou, neÅ¾ mÃ­t nÄ›co s tebou.}
+{110}{}{NÄ›co si kup a pak odsud vypadni.}

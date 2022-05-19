@@ -1,14 +1,14 @@
-{100}{}{Vidíš hlídacího psa.}
-{101}{}{Vidíš divokého psa.}
-{120}{}{Vidíš hlídacího psa.}
-{121}{}{Vidíš divokého psa.}
+{100}{}{VidÃ­Å¡ hlÃ­dacÃ­ho psa.}
+{101}{}{VidÃ­Å¡ divokÃ©ho psa.}
+{120}{}{VidÃ­Å¡ hlÃ­dacÃ­ho psa.}
+{121}{}{VidÃ­Å¡ divokÃ©ho psa.}
 {200}{}{:: VRRR ::}
 {201}{}{:: GRRR ::}
 {202}{}{:: RAF ::}
 {205}{}{Haf}
 {206}{}{Haf haf}
-{210}{}{Pes se zdá bıt dobøe vycvièen pro ostrahu kùlny.}
-{211}{}{Pejsek nemít rád já.}
-{212}{}{Hodná pejsek!}
-{250}{}{Zdá se, e kdyby chtìl, mohl by tì ten pes roztrhat na kusy.}
-{300}{}{Zabil jsi všechny psy útoèící na brahmíny.}
+{210}{}{Pes se zdÃ¡ bÃ½t dobÅ™e vycviÄen pro ostrahu kÅ¯lny.}
+{211}{}{Pejsek nemÃ­t rÃ¡d jÃ¡.}
+{212}{}{HodnÃ¡ pejsek!}
+{250}{}{ZdÃ¡ se, Å¾e kdyby chtÄ›l, mohl by tÄ› ten pes roztrhat na kusy.}
+{300}{}{Zabil jsi vÅ¡echny psy ÃºtoÄÃ­cÃ­ na brahmÃ­ny.}

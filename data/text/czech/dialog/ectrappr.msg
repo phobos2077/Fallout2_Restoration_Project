@@ -1,43 +1,43 @@
-{100}{}{Vidíš špinavého, neoholeného mue.}
+{100}{}{VidÃ­Å¡ Å¡pinavÃ©ho, neoholenÃ©ho muÅ¾e.}
 {101}{}{Lovec.}
-{102}{}{Radši nechoï moc blízko. Nìkteøí ivoèichové v jeho obleèení u si hledají novı domov.}
-{103}{}{Nazdar. Pøes loveckı území moc lidi neprochází. Co potøebuješ?}
-{104}{}{Máš nìjaké kùe geckonù na prodej?}
-{105}{}{Jenom tudy procházím.}
+{102}{}{RadÅ¡i nechoÄ moc blÃ­zko. NÄ›kteÅ™Ã­ Å¾ivoÄichovÃ© v jeho obleÄenÃ­ uÅ¾ si hledajÃ­ novÃ½ domov.}
+{103}{}{Nazdar. PÅ™es loveckÃ½ ÃºzemÃ­ moc lidi neprochÃ¡zÃ­. Co potÅ™ebujeÅ¡?}
+{104}{}{MÃ¡Å¡ nÄ›jakÃ© kÅ¯Å¾e geckonÅ¯ na prodej?}
+{105}{}{Jenom tudy prochÃ¡zÃ­m.}
 {106}{}{Eh.}
-{107}{}{Mnoo, myslím, e ti mùu prodat svoje kùe. Aspoò nebudu muset chodit do mìsta.}
-{108}{}{Co nabízíš?}
-{109}{}{Zapomeò na to.}
+{107}{}{Mnoo, myslÃ­m, Å¾e ti mÅ¯Å¾u prodat svoje kÅ¯Å¾e. AspoÅˆ nebudu muset chodit do mÄ›sta.}
+{108}{}{Co nabÃ­zÃ­Å¡?}
+{109}{}{ZapomeÅˆ na to.}
 {110}{}{Eh.}
-{111}{}{Mám tohle: }
+{111}{}{MÃ¡m tohle: }
 {112}{}{regular gecko pelts.}
 {113}{}{golden gecko pelts.}
-{114}{}{Vezmu si všechno co máš.}
-{115}{}{Moná pøíštì. Nashle.}
-{116}{}{Bylo mi potìšením s tebou obchodovat. Zatím.}
+{114}{}{Vezmu si vÅ¡echno co mÃ¡Å¡.}
+{115}{}{MoÅ¾nÃ¡ pÅ™Ã­Å¡tÄ›. Nashle.}
+{116}{}{Bylo mi potÄ›Å¡enÃ­m s tebou obchodovat. ZatÃ­m.}
 {117}{}{Nashle.}
-{118}{}{Vypadá to, e jseš bez penìz. Co kdybych si na 5 minut pùjèil tvoji enu? Nebudeš toho litovat.}
-{119}{}{Vypadá to, e jseš bez penìz. Co kdybych si na 5 minut pùjèil tvıho mue? Však víš, co myslím. Vımìnou za to ti dám pár kùí.}
-{120}{}{Vypadá to, e jseš bez penìz. Nìco ti povím, u jsem v tìhlech lesích pìknì DLOUHO sám, jestli mi rozumíš. Nebudeš toho litovat.}
-{121}{}{Jasnì.}
-{122}{}{V ádném pøípadì. Nashle.}
-{123}{}{(Miria ti odpustí... èasem. Ale na druhou stranu ti dal lovec nìkolik kùí.)}
-{124}{}{(Po tomto záitku se zdá, e Davin není vùbec unavenı.)}
-{125}{}{(Cítíš se špinavı a tvé pocity se nedají popsat slovy... ale máš nìkolik kùí geckonù.)}
+{118}{}{VypadÃ¡ to, Å¾e jseÅ¡ bez penÄ›z. Co kdybych si na 5 minut pÅ¯jÄil tvoji Å¾enu? NebudeÅ¡ toho litovat.}
+{119}{}{VypadÃ¡ to, Å¾e jseÅ¡ bez penÄ›z. Co kdybych si na 5 minut pÅ¯jÄil tvÃ½ho muÅ¾e? VÅ¡ak vÃ­Å¡, co myslÃ­m. VÃ½mÄ›nou za to ti dÃ¡m pÃ¡r kÅ¯Å¾Ã­.}
+{120}{}{VypadÃ¡ to, Å¾e jseÅ¡ bez penÄ›z. NÄ›co ti povÃ­m, uÅ¾ jsem v tÄ›hlech lesÃ­ch pÄ›knÄ› DLOUHO sÃ¡m, jestli mi rozumÃ­Å¡. NebudeÅ¡ toho litovat.}
+{121}{}{JasnÄ›.}
+{122}{}{V Å¾Ã¡dnÃ©m pÅ™Ã­padÄ›. Nashle.}
+{123}{}{(Miria ti odpustÃ­... Äasem. Ale na druhou stranu ti dal lovec nÄ›kolik kÅ¯Å¾Ã­.)}
+{124}{}{(Po tomto zÃ¡Å¾itku se zdÃ¡, Å¾e Davin nenÃ­ vÅ¯bec unavenÃ½.)}
+{125}{}{(CÃ­tÃ­Å¡ se Å¡pinavÃ½ a tvÃ© pocity se nedajÃ­ popsat slovy... ale mÃ¡Å¡ nÄ›kolik kÅ¯Å¾Ã­ geckonÅ¯.)}
 {126}{}{Nashle.}
-{127}{}{(Zvedne nahoru svoji pravou ruku a øekne.) Vítat. Já mocnı lovec. Lovit velké geckony. Já nechtít vstoupit na tvoje zemì. Odejít v míru. (Dá ti geckoní kùi jako dar.)}
+{127}{}{(Zvedne nahoru svoji pravou ruku a Å™ekne.) VÃ­tat. JÃ¡ mocnÃ½ lovec. Lovit velkÃ© geckony. JÃ¡ nechtÃ­t vstoupit na tvoje zemÄ›. OdejÃ­t v mÃ­ru. (DÃ¡ ti geckonÃ­ kÅ¯Å¾i jako dar.)}
 {128}{}{[KONEC]}
-{129}{}{U s tebou nechci obchodovat.}
-{130}{}{Ty zbabìlı prolhanı hajzle!}
+{129}{}{UÅ¾ s tebou nechci obchodovat.}
+{130}{}{Ty zbabÄ›lÃ½ prolhanÃ½ hajzle!}
 {131}{}{Tohle je moje teritorium. Vypadni odsud!}
-{132}{}{Stáhnu z tebe kùi zaiva!}
-{133}{}{Nechám si tvoji hlavu jako trofej.}
-{134}{}{Jedna kùe pravého geckona: $}
-{135}{}{Jedna kùe zlatého geckona: $}
-{136}{}{Dobøe, správèe. Vyhrál jsi.}
-{137}{}{Máš štìstí, protoe zrovna musím jít zkontrolovat pasti.}
-{138}{}{Myslím, e mì volá Máma.}
-{140}{}{Vypadá to, e nemám ádné kùe geckona, ale mám }
-{141}{}{Vypadá to, e nemám ádné kùe zlatého geckona, ale mám  }
-{142}{}{Promiò, nemám teï ádné kùe.}
-{200}{}{Vidíš špinavou, vyèerpanou enu.}
+{132}{}{StÃ¡hnu z tebe kÅ¯Å¾i zaÅ¾iva!}
+{133}{}{NechÃ¡m si tvoji hlavu jako trofej.}
+{134}{}{Jedna kÅ¯Å¾e pravÃ©ho geckona: $}
+{135}{}{Jedna kÅ¯Å¾e zlatÃ©ho geckona: $}
+{136}{}{DobÅ™e, sprÃ¡vÄe. VyhrÃ¡l jsi.}
+{137}{}{MÃ¡Å¡ Å¡tÄ›stÃ­, protoÅ¾e zrovna musÃ­m jÃ­t zkontrolovat pasti.}
+{138}{}{MyslÃ­m, Å¾e mÄ› volÃ¡ MÃ¡ma.}
+{140}{}{VypadÃ¡ to, Å¾e nemÃ¡m Å¾Ã¡dnÃ© kÅ¯Å¾e geckona, ale mÃ¡m }
+{141}{}{VypadÃ¡ to, Å¾e nemÃ¡m Å¾Ã¡dnÃ© kÅ¯Å¾e zlatÃ©ho geckona, ale mÃ¡m  }
+{142}{}{PromiÅˆ, nemÃ¡m teÄ Å¾Ã¡dnÃ© kÅ¯Å¾e.}
+{200}{}{VidÃ­Å¡ Å¡pinavou, vyÄerpanou Å¾enu.}

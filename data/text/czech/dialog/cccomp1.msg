@@ -1,18 +1,18 @@
-{100}{}{Vidíš technika.}
-{101}{}{Vidíš poèítaèového technika.}
-{102}{}{Vidíš osobu v laboratorním plášti s kapsou plnou propisek.}
-{103}{}{Dobrı den, vojáku.}
-{104}{}{Prosím, nièeho se nedotıkej.}
-{105}{}{Ti tví kumpáni tu nemají co dìlat.}
-{106}{}{Kde máš uniformu?}
-{107}{}{Radìji se jdi pøevléct. Zbrojnice je dole v hale nalevo.}
-{108}{}{Pìknì riskuješ, kdy tu takhle pobíháš bez uniformy. Radìji si ji vyfasuj.}
-{109}{}{Kdo k èertu jste? Poplach! Vetøelci!}
+{100}{}{VidÃ­Å¡ technika.}
+{101}{}{VidÃ­Å¡ poÄÃ­taÄovÃ©ho technika.}
+{102}{}{VidÃ­Å¡ osobu v laboratornÃ­m plÃ¡Å¡ti s kapsou plnou propisek.}
+{103}{}{DobrÃ½ den, vojÃ¡ku.}
+{104}{}{ProsÃ­m, niÄeho se nedotÃ½kej.}
+{105}{}{Ti tvÃ­ kumpÃ¡ni tu nemajÃ­ co dÄ›lat.}
+{106}{}{Kde mÃ¡Å¡ uniformu?}
+{107}{}{RadÄ›ji se jdi pÅ™evlÃ©ct. Zbrojnice je dole v hale nalevo.}
+{108}{}{PÄ›knÄ› riskujeÅ¡, kdyÅ¾ tu takhle pobÃ­hÃ¡Å¡ bez uniformy. RadÄ›ji si ji vyfasuj.}
+{109}{}{Kdo k Äertu jste? Poplach! VetÅ™elci!}
 {110}{}{Byli jsme napadeni! Poplach!}
-{111}{}{Vetøelci! Spuste alarm!}
-{112}{}{Sakra! Rychle zapnìte zálohy.}
-{113}{}{Ukonèete všechny probíhající operace.}
-{114}{}{Spuste ochranu systému a aktivujte všechna bezpeènostní hesla.}
-{115}{}{Já jsem vìdec, ne voják!}
-{116}{}{Tím koncem s laserovou diodou se míøí na nepøítele. A pak se maèká kohoutek.}
-{117}{}{Pomoc! Pomoc! Rychle do poèítaèového centra!}
+{111}{}{VetÅ™elci! SpusÅ¥te alarm!}
+{112}{}{Sakra! Rychle zapnÄ›te zÃ¡lohy.}
+{113}{}{UkonÄete vÅ¡echny probÃ­hajÃ­cÃ­ operace.}
+{114}{}{SpusÅ¥te ochranu systÃ©mu a aktivujte vÅ¡echna bezpeÄnostnÃ­ hesla.}
+{115}{}{JÃ¡ jsem vÄ›dec, ne vojÃ¡k!}
+{116}{}{TÃ­m koncem s laserovou diodou se mÃ­Å™Ã­ na nepÅ™Ã­tele. AÅ¾ pak se maÄkÃ¡ kohoutek.}
+{117}{}{Pomoc! Pomoc! Rychle do poÄÃ­taÄovÃ©ho centra!}

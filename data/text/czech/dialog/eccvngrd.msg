@@ -1,11 +1,11 @@
-{100}{}{Vidíš strá.}
-{101}{}{Vidíš jednoho ze stránıch, kteøí ti pomáhají s karavanou.}
-{200}{}{Vidíš honáka karavany.}
-{201}{}{Vidíš jednoho z honákù, kteøí ti pomáhají s karavanou.}
-{300}{}{Doufám, e na naší cestì nepotkáme pøíliš nepøátel.}
-{301}{}{Bude fajn dostat na konci cesty vıplatu.}
-{302}{}{Doufám, e bude v baru otevøeno a tam dorazíme.}
-{303}{}{Bude fajn zase nìco poøádného sníst.}
-{304}{}{Vdycky jsem chtìl cestovat. Myslím, e to co dìlám, má k cestování nejblíe.}
-{305}{}{Hroznì mì bolí nohy. Ké by ty pitomı brahmíny trošku zrychlily.}
-{306}{}{Slyšel jsem, e do konce cesty u moc nezbıvá.}
+{100}{}{VidÃ­Å¡ strÃ¡Å¾.}
+{101}{}{VidÃ­Å¡ jednoho ze strÃ¡Å¾nÃ½ch, kteÅ™Ã­ ti pomÃ¡hajÃ­ s karavanou.}
+{200}{}{VidÃ­Å¡ honÃ¡ka karavany.}
+{201}{}{VidÃ­Å¡ jednoho z honÃ¡kÅ¯, kteÅ™Ã­ ti pomÃ¡hajÃ­ s karavanou.}
+{300}{}{DoufÃ¡m, Å¾e na naÅ¡Ã­ cestÄ› nepotkÃ¡me pÅ™Ã­liÅ¡ nepÅ™Ã¡tel.}
+{301}{}{Bude fajn dostat na konci cesty vÃ½platu.}
+{302}{}{DoufÃ¡m, Å¾e bude v baru otevÅ™eno aÅ¾ tam dorazÃ­me.}
+{303}{}{Bude fajn zase nÄ›co poÅ™Ã¡dnÃ©ho snÃ­st.}
+{304}{}{VÅ¾dycky jsem chtÄ›l cestovat. MyslÃ­m, Å¾e to co dÄ›lÃ¡m, mÃ¡ k cestovÃ¡nÃ­ nejblÃ­Å¾e.}
+{305}{}{HroznÄ› mÄ› bolÃ­ nohy. KÃ©Å¾ by ty pitomÃ½ brahmÃ­ny troÅ¡ku zrychlily.}
+{306}{}{SlyÅ¡el jsem, Å¾e do konce cesty uÅ¾ moc nezbÃ½vÃ¡.}

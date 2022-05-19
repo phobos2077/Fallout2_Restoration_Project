@@ -1,218 +1,218 @@
-{100}{}{Vidíš Orvilla Wrighta.}
-{150}{}{Vidíš velmi dobøe obleèeného gentlemana. Vypadá to, e je neustále nasranı a nejspíš proto mu jeho hnìdé vlasy u v koutcích šediví.}
-{151}{}{Vidíš bruèícího Orvilla Wrighta. Vypadá to, e si brzy vyrve poslední zbytky vlasù.}
-{152}{}{Vidíš bruèícího Orvilla Wrighta. Vypadá naštvanì a silnì sípe.}
+{100}{}{VidÃ­Å¡ Orvilla Wrighta.}
+{150}{}{VidÃ­Å¡ velmi dobÅ™e obleÄenÃ©ho gentlemana. VypadÃ¡ to, Å¾e je neustÃ¡le nasranÃ½ a nejspÃ­Å¡ proto mu jeho hnÄ›dÃ© vlasy uÅ¾ v koutcÃ­ch Å¡edivÃ­.}
+{151}{}{VidÃ­Å¡ bruÄÃ­cÃ­ho Orvilla Wrighta. VypadÃ¡ to, Å¾e si brzy vyrve poslednÃ­ zbytky vlasÅ¯.}
+{152}{}{VidÃ­Å¡ bruÄÃ­cÃ­ho Orvilla Wrighta. VypadÃ¡ naÅ¡tvanÄ› a silnÄ› sÃ­pe.}
 {200}{}{Vypadni odsud!}
-{210}{}{Dìti, bìte pryè! To je nájemnı vrah!}
-{211}{}{Teï chcípneš, zkurvysyne.}
-{212}{}{To tì bude mrzet...}
-{213}{}{Take oni tì poslali, a za nì udìláš špinavou práci...}
-{214}{}{Tohle je tvoje poslední práce, nájemnı vrahu...}
-{220}{}{Manelství není slib. Je to doivotní trest.}
-{221}{}{Zatracení Salvatoøi...}
-{222}{}{Kde jsou ty zatracenı dìcka...}
-{223}{}{Nevidìl nìkdo Christophera? Øeknìte tomu klukovi, e ho chci vidìt. Teï hned.}
-{224}{}{Zajímalo by mì, jestli je naše manelství legální...}
-{225}{}{Tohle ètvrtletí nám klesly zisky... asi budeme muset do chlastu pøilívat vodu.}
-{226}{}{Potøebuju víc ethylalkoholu. A ménì Ethyl Wrightové...}
-{227}{}{Salvatoøi jsou nìjak zticha...}
-{228}{}{Kde je sakra ta enská? Ethyl! Ethyl!}
-{229}{}{Musím pøestat klejt, kdy jsou poblí dìcka...}
-{230}{}{Budeme muset rozšíøit distribuci, jestli chceme zùstat v Renu...}
-{231}{}{Jestli mi Christopher øekne ještì jednu vımluvu...}
-{232}{}{Pøines mi moji knihu.}
-{233}{}{Ubohı Richard...}
-{234}{}{Chci jen trochu klidu a ticha, tak pøestaò dìlat takovej kravál!}
-{240}{}{(Oblièej tohoto starého mue pokrıvají vrásky... vypadá to, e jinı vıraz ne se mraèit ani nezná. Mezi jeho hustımi šedımi vlasy zbıvá u jen nìkolik hnìdıch vlasù.) }
-{241}{}{Tak mluv, divochu. Kdo jsi a co tu chceš?}
-{242}{}{Tak mluv, otrokáøi. Kdo jsi a co tu chceš?}
-{243}{}{Já }
+{210}{}{DÄ›ti, bÄ›Å¾te pryÄ! To je nÃ¡jemnÃ½ vrah!}
+{211}{}{TeÄ chcÃ­pneÅ¡, zkurvysyne.}
+{212}{}{To tÄ› bude mrzet...}
+{213}{}{TakÅ¾e oni tÄ› poslali, aÅ¥ za nÄ› udÄ›lÃ¡Å¡ Å¡pinavou prÃ¡ci...}
+{214}{}{Tohle je tvoje poslednÃ­ prÃ¡ce, nÃ¡jemnÃ½ vrahu...}
+{220}{}{ManÅ¾elstvÃ­ nenÃ­ slib. Je to doÅ¾ivotnÃ­ trest.}
+{221}{}{ZatracenÃ­ SalvatoÅ™i...}
+{222}{}{Kde jsou ty zatracenÃ½ dÄ›cka...}
+{223}{}{NevidÄ›l nÄ›kdo Christophera? Å˜eknÄ›te tomu klukovi, Å¾e ho chci vidÄ›t. TeÄ hned.}
+{224}{}{ZajÃ­malo by mÄ›, jestli je naÅ¡e manÅ¾elstvÃ­ legÃ¡lnÃ­...}
+{225}{}{Tohle ÄtvrtletÃ­ nÃ¡m klesly zisky... asi budeme muset do chlastu pÅ™ilÃ­vat vodu.}
+{226}{}{PotÅ™ebuju vÃ­c ethylalkoholu. A mÃ©nÄ› Ethyl WrightovÃ©...}
+{227}{}{SalvatoÅ™i jsou nÄ›jak zticha...}
+{228}{}{Kde je sakra ta Å¾enskÃ¡? Ethyl! Ethyl!}
+{229}{}{MusÃ­m pÅ™estat klejt, kdyÅ¾ jsou poblÃ­Å¾ dÄ›cka...}
+{230}{}{Budeme muset rozÅ¡Ã­Å™it distribuci, jestli chceme zÅ¯stat v Renu...}
+{231}{}{Jestli mi Christopher Å™ekne jeÅ¡tÄ› jednu vÃ½mluvu...}
+{232}{}{PÅ™ines mi moji knihu.}
+{233}{}{UbohÃ½ Richard...}
+{234}{}{Chci jen trochu klidu a ticha, tak pÅ™estaÅˆ dÄ›lat takovej kravÃ¡l!}
+{240}{}{(ObliÄej tohoto starÃ©ho muÅ¾e pokrÃ½vajÃ­ vrÃ¡sky... vypadÃ¡ to, Å¾e jinÃ½ vÃ½raz neÅ¾ se mraÄit ani neznÃ¡. Mezi jeho hustÃ½mi Å¡edÃ½mi vlasy zbÃ½vÃ¡ uÅ¾ jen nÄ›kolik hnÄ›dÃ½ch vlasÅ¯.) }
+{241}{}{Tak mluv, divochu. Kdo jsi a co tu chceÅ¡?}
+{242}{}{Tak mluv, otrokÃ¡Å™i. Kdo jsi a co tu chceÅ¡?}
+{243}{}{JÃ¡ }
 {244}{}{Boogity boogity.}
 {245}{}{Yoo Boo Hoo Yooooo.}
 {246}{}{Kootchie Kootchie Koooo.}
-{247}{}{Kdo èert ty?}
-{248}{}{Jsem jen obyèejnı pocestnı... hledající práci.}
+{247}{}{Kdo Äert ty?}
+{248}{}{Jsem jen obyÄejnÃ½ pocestnÃ½... hledajÃ­cÃ­ prÃ¡ci.}
 {249}{}{Jmenuju se }
-{250}{}{Asi jsem ve špatné místnosti. U pùjdu.}
-{260}{}{(Zamraèí se.) Jdi mi z oèí. Jestli sem pøijdeš ještì jednou, tak tì nechám sejmout, slyšíš?}
+{250}{}{Asi jsem ve Å¡patnÃ© mÃ­stnosti. UÅ¾ pÅ¯jdu.}
+{260}{}{(ZamraÄÃ­ se.) Jdi mi z oÄÃ­. Jestli sem pÅ™ijdeÅ¡ jeÅ¡tÄ› jednou, tak tÄ› nechÃ¡m sejmout, slyÅ¡Ã­Å¡?}
 {262}{}{E-he.}
-{263}{}{Ty dávat svoje máma pusa s touhle drzá huba?}
-{264}{}{Ty radši NESTØÍLET mì. Já NAŠTVAT kdy ty støílet mì.}
-{265}{}{Já jít pryè a jít mluvit s nìkdo kdo nebıt tak zlá.}
-{275}{}{(Jakmile tì spatøí, zaène Pan Wright supìt a poté køièet.) }
-{276}{}{(Pan Wright zaène supìt a poté køièet.) }
-{277}{}{Chlapci! Máme tady návštìvu, která chce skonèit v Golgotì! Pojïte sem!}
-{278}{}{Pojïte sem, chlapci! Já chtít hrát.}
+{263}{}{Ty dÃ¡vat svoje mÃ¡ma pusa s touhle drzÃ¡ huba?}
+{264}{}{Ty radÅ¡i NESTÅ˜ÃLET mÄ›. JÃ¡ NAÅ TVAT kdyÅ¾ ty stÅ™Ã­let mÄ›.}
+{265}{}{JÃ¡ jÃ­t pryÄ a jÃ­t mluvit s nÄ›kdo kdo nebÃ½t tak zlÃ¡.}
+{275}{}{(Jakmile tÄ› spatÅ™Ã­, zaÄne Pan Wright supÄ›t a potÃ© kÅ™iÄet.) }
+{276}{}{(Pan Wright zaÄne supÄ›t a potÃ© kÅ™iÄet.) }
+{277}{}{Chlapci! MÃ¡me tady nÃ¡vÅ¡tÄ›vu, kterÃ¡ chce skonÄit v GolgotÄ›! PojÄte sem!}
+{278}{}{PojÄte sem, chlapci! JÃ¡ chtÃ­t hrÃ¡t.}
 {279}{}{Hej, tak moment...!}
-{280}{}{Tak a DOST! U mám dost tìch vašich kecù. Ne se sem ti vaši chlapeèci dobelhají, budete u dávno mrtvı.}
-{281}{}{Nedostanou se sem vèas, aby vám zachránili kùi...}
-{282}{}{Promiòte, dám si schùzku s vıchodem.}
-{290}{}{Jo, RADÌJI odejdi a to rychle. Jestli tu ještì za pìt sekund budeš, tak tì nechám zastøelit, slyšíš?}
-{291}{}{Jo, vypadá to, e máš ve zvyku nìkam vejít a pak zase odejít. Moná bychom se mìli o tenhle tvùj problém postarat.}
-{292}{}{U odcházím.}
-{293}{}{Co tím mysl...?}
-{294}{}{Moje øeè. Èas na umírání.}
-{300}{}{NEKECEJ! (Ušklíbne se.) No, tìší mì, e tì poznávám, "obyèejnı pocestnı." Jsem rád, e tu jsi, zatracenì rád. (Jeho úsmìv zmizí a zaène se mraèit, kdy si tì prohlíí.) Hledáš práci u rodiny Wrightù, jo?}
-{301}{}{NEKECEJ! (Ušklíbne se.) No, tìší mì, e tì poznávám, OTROKÁØI. Jsem rád, e tu jsi, zatracenì rád. (Jeho úsmìv zmizí a zaène se mraèit.) S takovımi, jako jseš ty, nechci mít nic spoleèného, slyšíš? A teï odsud vypadni!}
-{302}{}{Ano, já...}
-{303}{}{Vlastnì myslím, e jsem ve špatné místnosti. Pardon.}
-{304}{}{Tak moment, ještì jsme neskonèili. Já...}
-{305}{}{Tak dobøe. Vypadá to, e u asi pùjdu.}
-{310}{}{NEKECEJ! (Ušklíbne se.) No, tìší mì, e tì poznávám, "}
-{311}{}{Ano, já...}
-{320}{}{MOJE rodina JE opravdová rodina Wrightù. Jsme si všichni velmi blízcí. (Zamraèí se.) }
-{321}{}{Co tì vede k myšlence, e bych chtìl do své rodiny nìjakého ubohého divocha, jako jsi ty? Mám dost svıch muù.}
-{322}{}{Co tì vede k myšlence, e potøebuju ve své rodinì kus takové divošské dìvky, jako jsi ty? Mám tolik kurev, e by vysály celou Severní Kalifornii.}
-{323}{}{Vyzkoušejte mì. Dejte mi nìjakı úkol.}
-{324}{}{Vypadá to, e jsem na špatném místì. Radìji pùjdu.}
-{330}{}{(Chvíli tì pozoruje.) Tak dobøe. Tøeba se mi budeš hodit, kdy nepatøíš k ádné rodinì. (Pøestane se mraèit.) Máš dìti?}
-{331}{}{Pokud vím, tak ne.}
-{332}{}{Pokud vím, tak ne. To bych si pamatovala.}
-{340}{}{Jeden z mıch synù... mùj chlapec, Richard, mì opustil. Pøedávkoval se Jetem.}
-{341}{}{Jak ti mùu pomoct?}
-{342}{}{Eh... nemám tušení, jak mùu...}
-{350}{}{Chci vìdìt, kterı dealer dal Richardovi ten FET a pøinutil ho si ho vzít. Pokadé, kdy jsem poslal své chlapce, aby nìco zjistili, vrátili se s prázdnou. Moná nìkdo, kdo nemá Wrightovu krev, získá nìjaké odpovìdi.}
-{351}{}{Eh "pøinutil ho si ho vzít?"}
-{352}{}{Tu práci beru.}
-{353}{}{Ne, tohle není práce pro mì. Radìji pùjdu.}
-{360}{}{(Zrudne mu oblièej.) Moji hoši jsou èistí a ví, e se mají od fetu dret dál, jinak bych je musel zabít. A NAJEDNOU se Richie pøedávkuje. Nìkdo do nìj napumpoval hromadu Jetu a to tolik, a mu byl cítit z nosu.}
-{361}{}{No... to neznamená, e je za to nìkdo zodpovìdnı. Váš syn si toho prostì mohl vzít moc. Jet je velmi návykovı.}
-{362}{}{Hmmm. Tu práci beru.}
-{370}{}{(Kıvne hlavou.) Dobøe. Take: Najdeš toho zkurvysyna, kterı zabil mého syna, ani se ho nedotkneš... pøijdeš zpátky a ØEKNEŠ mi jméno toho mrtvého chlapa. (V oèích se mu zajiskøí.) Já u se o nìj potom postarám.}
-{371}{}{Ještì jsme nemluvili o cenì.}
-{372}{}{Nìjaké stopy?}
-{373}{}{Najít osobu, která mu dala ten Jet, neublíit jí, pøijít zpátky a øíct vám, kdo to je. Rozumím.}
-{380}{}{Ano, správnì, nemluvili jsme o cenì, protoe jsi ještì KROMÌ kecù nic neudìlal. Bude to tvoje zkouška. Udìlej svoji práci a nebudeš mít nouzi o peníze. Dávám ti slovo Wrighta.}
-{383}{}{Tak na to zapomeòte. Jenom blbci dìlají práci zadarmo. Mizím odsud.}
-{390}{}{(V oèích se mu zajiskøí.) Ne... všichni se bojí promluvit... s nìkım z Wrightù. Bıt tebou, zeptal bych se nìkoho, kdo obchoduje s drogami v Renu a uvidíš, co ti øekne. Nejspíš to, e ten Jet pochází ODNÌKUD.}
-{391}{}{Podezøíváte nìkoho z drogovıch dealerù?}
-{393}{}{Víte, tohle není práce pro mì. Radìji pùjdu.}
-{400}{}{Zase ty? U víš, kdo zabil mého chlapce?}
-{401}{}{Zatím ne. Pracuju na tom.}
-{402}{}{Jo, byl to Jules, dealer Jetu u vchodu do mìsta.}
-{403}{}{Poøezanej Jimmy J, dealer Jetu na Druhé ulici.}
-{404}{}{Ten starı dìdek Renesco Rakeák.}
-{405}{}{Malej Jeíš Mordino. On distribuuje Jet.}
-{406}{}{Váš syn nezemøel na pøedávkování. Byl otráven.}
-{415}{}{Opravdu? Øíká se, e u je ten bastard MRTVİ, ale to pro tebe asi nebude novinka. ØÍKAL jsem ti, a se ho ani nedotkneš, kreténe. Teï CHCÍPNEŠ.}
+{280}{}{Tak a DOST! UÅ¾ mÃ¡m dost tÄ›ch vaÅ¡ich kecÅ¯. NeÅ¾ se sem ti vaÅ¡i chlapeÄci dobelhajÃ­, budete uÅ¾ dÃ¡vno mrtvÃ½.}
+{281}{}{Nedostanou se sem vÄas, aby vÃ¡m zachrÃ¡nili kÅ¯Å¾i...}
+{282}{}{PromiÅˆte, dÃ¡m si schÅ¯zku s vÃ½chodem.}
+{290}{}{Jo, RADÄšJI odejdi a to rychle. Jestli tu jeÅ¡tÄ› za pÄ›t sekund budeÅ¡, tak tÄ› nechÃ¡m zastÅ™elit, slyÅ¡Ã­Å¡?}
+{291}{}{Jo, vypadÃ¡ to, Å¾e mÃ¡Å¡ ve zvyku nÄ›kam vejÃ­t a pak zase odejÃ­t. MoÅ¾nÃ¡ bychom se mÄ›li o tenhle tvÅ¯j problÃ©m postarat.}
+{292}{}{UÅ¾ odchÃ¡zÃ­m.}
+{293}{}{Co tÃ­m mysl...?}
+{294}{}{Moje Å™eÄ. ÄŒas na umÃ­rÃ¡nÃ­.}
+{300}{}{NEKECEJ! (UÅ¡klÃ­bne se.) No, tÄ›Å¡Ã­ mÄ›, Å¾e tÄ› poznÃ¡vÃ¡m, "obyÄejnÃ½ pocestnÃ½." Jsem rÃ¡d, Å¾e tu jsi, zatracenÄ› rÃ¡d. (Jeho ÃºsmÄ›v zmizÃ­ a zaÄne se mraÄit, kdyÅ¾ si tÄ› prohlÃ­Å¾Ã­.) HledÃ¡Å¡ prÃ¡ci u rodiny WrightÅ¯, jo?}
+{301}{}{NEKECEJ! (UÅ¡klÃ­bne se.) No, tÄ›Å¡Ã­ mÄ›, Å¾e tÄ› poznÃ¡vÃ¡m, OTROKÃÅ˜I. Jsem rÃ¡d, Å¾e tu jsi, zatracenÄ› rÃ¡d. (Jeho ÃºsmÄ›v zmizÃ­ a zaÄne se mraÄit.) S takovÃ½mi, jako jseÅ¡ ty, nechci mÃ­t nic spoleÄnÃ©ho, slyÅ¡Ã­Å¡? A teÄ odsud vypadni!}
+{302}{}{Ano, jÃ¡...}
+{303}{}{VlastnÄ› myslÃ­m, Å¾e jsem ve Å¡patnÃ© mÃ­stnosti. Pardon.}
+{304}{}{Tak moment, jeÅ¡tÄ› jsme neskonÄili. JÃ¡...}
+{305}{}{Tak dobÅ™e. VypadÃ¡ to, Å¾e uÅ¾ asi pÅ¯jdu.}
+{310}{}{NEKECEJ! (UÅ¡klÃ­bne se.) No, tÄ›Å¡Ã­ mÄ›, Å¾e tÄ› poznÃ¡vÃ¡m, "}
+{311}{}{Ano, jÃ¡...}
+{320}{}{MOJE rodina JE opravdovÃ¡ rodina WrightÅ¯. Jsme si vÅ¡ichni velmi blÃ­zcÃ­. (ZamraÄÃ­ se.) }
+{321}{}{Co tÄ› vede k myÅ¡lence, Å¾e bych chtÄ›l do svÃ© rodiny nÄ›jakÃ©ho ubohÃ©ho divocha, jako jsi ty? MÃ¡m dost svÃ½ch muÅ¾Å¯.}
+{322}{}{Co tÄ› vede k myÅ¡lence, Å¾e potÅ™ebuju ve svÃ© rodinÄ› kus takovÃ© divoÅ¡skÃ© dÄ›vky, jako jsi ty? MÃ¡m tolik kurev, Å¾e by vysÃ¡ly celou SevernÃ­ Kalifornii.}
+{323}{}{VyzkouÅ¡ejte mÄ›. Dejte mi nÄ›jakÃ½ Ãºkol.}
+{324}{}{VypadÃ¡ to, Å¾e jsem na Å¡patnÃ©m mÃ­stÄ›. RadÄ›ji pÅ¯jdu.}
+{330}{}{(ChvÃ­li tÄ› pozoruje.) Tak dobÅ™e. TÅ™eba se mi budeÅ¡ hodit, kdyÅ¾ nepatÅ™Ã­Å¡ k Å¾Ã¡dnÃ© rodinÄ›. (PÅ™estane se mraÄit.) MÃ¡Å¡ dÄ›ti?}
+{331}{}{Pokud vÃ­m, tak ne.}
+{332}{}{Pokud vÃ­m, tak ne. To bych si pamatovala.}
+{340}{}{Jeden z mÃ½ch synÅ¯... mÅ¯j chlapec, Richard, mÄ› opustil. PÅ™edÃ¡vkoval se Jetem.}
+{341}{}{Jak ti mÅ¯Å¾u pomoct?}
+{342}{}{Eh... nemÃ¡m tuÅ¡enÃ­, jak mÅ¯Å¾u...}
+{350}{}{Chci vÄ›dÄ›t, kterÃ½ dealer dal Richardovi ten FET a pÅ™inutil ho si ho vzÃ­t. PokaÅ¾dÃ©, kdyÅ¾ jsem poslal svÃ© chlapce, aby nÄ›co zjistili, vrÃ¡tili se s prÃ¡zdnou. MoÅ¾nÃ¡ nÄ›kdo, kdo nemÃ¡ Wrightovu krev, zÃ­skÃ¡ nÄ›jakÃ© odpovÄ›di.}
+{351}{}{Eh "pÅ™inutil ho si ho vzÃ­t?"}
+{352}{}{Tu prÃ¡ci beru.}
+{353}{}{Ne, tohle nenÃ­ prÃ¡ce pro mÄ›. RadÄ›ji pÅ¯jdu.}
+{360}{}{(Zrudne mu obliÄej.) Moji hoÅ¡i jsou ÄistÃ­ a vÃ­, Å¾e se majÃ­ od fetu drÅ¾et dÃ¡l, jinak bych je musel zabÃ­t. A NAJEDNOU se Richie pÅ™edÃ¡vkuje. NÄ›kdo do nÄ›j napumpoval hromadu Jetu a to tolik, aÅ¾ mu byl cÃ­tit z nosu.}
+{361}{}{No... to neznamenÃ¡, Å¾e je za to nÄ›kdo zodpovÄ›dnÃ½. VÃ¡Å¡ syn si toho prostÄ› mohl vzÃ­t moc. Jet je velmi nÃ¡vykovÃ½.}
+{362}{}{Hmmm. Tu prÃ¡ci beru.}
+{370}{}{(KÃ½vne hlavou.) DobÅ™e. TakÅ¾e: NajdeÅ¡ toho zkurvysyna, kterÃ½ zabil mÃ©ho syna, ani se ho nedotkneÅ¡... pÅ™ijdeÅ¡ zpÃ¡tky a Å˜EKNEÅ  mi jmÃ©no toho mrtvÃ©ho chlapa. (V oÄÃ­ch se mu zajiskÅ™Ã­.) JÃ¡ uÅ¾ se o nÄ›j potom postarÃ¡m.}
+{371}{}{JeÅ¡tÄ› jsme nemluvili o cenÄ›.}
+{372}{}{NÄ›jakÃ© stopy?}
+{373}{}{NajÃ­t osobu, kterÃ¡ mu dala ten Jet, neublÃ­Å¾it jÃ­, pÅ™ijÃ­t zpÃ¡tky a Å™Ã­ct vÃ¡m, kdo to je. RozumÃ­m.}
+{380}{}{Ano, sprÃ¡vnÄ›, nemluvili jsme o cenÄ›, protoÅ¾e jsi jeÅ¡tÄ› KROMÄš kecÅ¯ nic neudÄ›lal. Bude to tvoje zkouÅ¡ka. UdÄ›lej svoji prÃ¡ci a nebudeÅ¡ mÃ­t nouzi o penÃ­ze. DÃ¡vÃ¡m ti slovo Wrighta.}
+{383}{}{Tak na to zapomeÅˆte. Jenom blbci dÄ›lajÃ­ prÃ¡ci zadarmo. MizÃ­m odsud.}
+{390}{}{(V oÄÃ­ch se mu zajiskÅ™Ã­.) Ne... vÅ¡ichni se bojÃ­ promluvit... s nÄ›kÃ½m z WrightÅ¯. BÃ½t tebou, zeptal bych se nÄ›koho, kdo obchoduje s drogami v Renu a uvidÃ­Å¡, co ti Å™ekne. NejspÃ­Å¡ to, Å¾e ten Jet pochÃ¡zÃ­ ODNÄšKUD.}
+{391}{}{PodezÅ™Ã­vÃ¡te nÄ›koho z drogovÃ½ch dealerÅ¯?}
+{393}{}{VÃ­te, tohle nenÃ­ prÃ¡ce pro mÄ›. RadÄ›ji pÅ¯jdu.}
+{400}{}{Zase ty? UÅ¾ vÃ­Å¡, kdo zabil mÃ©ho chlapce?}
+{401}{}{ZatÃ­m ne. Pracuju na tom.}
+{402}{}{Jo, byl to Jules, dealer Jetu u vchodu do mÄ›sta.}
+{403}{}{PoÅ™ezanej Jimmy J, dealer Jetu na DruhÃ© ulici.}
+{404}{}{Ten starÃ½ dÄ›dek Renesco RakeÅ¥Ã¡k.}
+{405}{}{Malej JeÅ¾Ã­Å¡ Mordino. On distribuuje Jet.}
+{406}{}{VÃ¡Å¡ syn nezemÅ™el na pÅ™edÃ¡vkovÃ¡nÃ­. Byl otrÃ¡ven.}
+{415}{}{Opravdu? Å˜Ã­kÃ¡ se, Å¾e uÅ¾ je ten bastard MRTVÃ, ale to pro tebe asi nebude novinka. Å˜ÃKAL jsem ti, aÅ¥ se ho ani nedotkneÅ¡, kretÃ©ne. TeÄ CHCÃPNEÅ .}
 {416}{}{Tak moment...}
 {417}{}{No, tak do toho...}
-{425}{}{Dnes je poslední den ivota toho bastarda. Pøijï ráno, bude u mrtvı. Ale bude umírat POMALU...}
-{426}{}{Tak a teï si promluvme o odmìnì...}
-{427}{}{Nic jiného si ani nezaslouí.}
-{428}{}{Eh, ale Renesco ten Jet Richardovi nedal... on nevìdìl, pro koho má bıt... to SALVATOØI otrávili vašeho syna.}
-{435}{}{Já vím... já vím. }
-{436}{}{Ne se dostanu k podrobnostem, vyrovnáme nejdøív úèty... }
-{437}{}{tady máš nìjaké peníze, støelivo, likér z mıch soukromıch zásob... a jestli máš zájem, tak i další práci.}
-{438}{}{Mám zájem.}
-{439}{}{Ne, díky. Zatím.}
-{445}{}{Jestli se sem vrátíš a ta práce nebude hotová, budeš viset v Golgotì, divochu. NIKDO nebude plıtvat mım èasem. Rozumíš?}
-{446}{}{Jestli si myslíš, e se mnou mùeš takhle vyjebávat, divochu, tak jseš pìknì na omylu. U mám dost tìch tvıch kecù. (Zaène pokøikovat.) Chlapci! Pojïte sem!}
-{447}{}{Rozumím.}
-{448}{}{Tohle není práce pro mì, pane Wrighte. Najdìte si na to nìkoho jiného.}
-{449}{}{Seru na tuhle práci, seru na vašeho zdrogovanıho synáèka a seru i na vás. Padám odsud.}
-{451}{}{Tak a DOST! U mám dost tìch vašich kecù. Brzy se setkáte s tím vaším zdrogovanım synáèkem v pekle.}
+{425}{}{Dnes je poslednÃ­ den Å¾ivota toho bastarda. PÅ™ijÄ rÃ¡no, bude uÅ¾ mrtvÃ½. Ale bude umÃ­rat POMALU...}
+{426}{}{Tak a teÄ si promluvme o odmÄ›nÄ›...}
+{427}{}{Nic jinÃ©ho si ani nezaslouÅ¾Ã­.}
+{428}{}{Eh, ale Renesco ten Jet Richardovi nedal... on nevÄ›dÄ›l, pro koho mÃ¡ bÃ½t... to SALVATOÅ˜I otrÃ¡vili vaÅ¡eho syna.}
+{435}{}{JÃ¡ vÃ­m... jÃ¡ vÃ­m. }
+{436}{}{NeÅ¾ se dostanu k podrobnostem, vyrovnÃ¡me nejdÅ™Ã­v ÃºÄty... }
+{437}{}{tady mÃ¡Å¡ nÄ›jakÃ© penÃ­ze, stÅ™elivo, likÃ©r z mÃ½ch soukromÃ½ch zÃ¡sob... a jestli mÃ¡Å¡ zÃ¡jem, tak i dalÅ¡Ã­ prÃ¡ci.}
+{438}{}{MÃ¡m zÃ¡jem.}
+{439}{}{Ne, dÃ­ky. ZatÃ­m.}
+{445}{}{Jestli se sem vrÃ¡tÃ­Å¡ a ta prÃ¡ce nebude hotovÃ¡, budeÅ¡ viset v GolgotÄ›, divochu. NIKDO nebude plÃ½tvat mÃ½m Äasem. RozumÃ­Å¡?}
+{446}{}{Jestli si myslÃ­Å¡, Å¾e se mnou mÅ¯Å¾eÅ¡ takhle vyjebÃ¡vat, divochu, tak jseÅ¡ pÄ›knÄ› na omylu. UÅ¾ mÃ¡m dost tÄ›ch tvÃ½ch kecÅ¯. (ZaÄne pokÅ™ikovat.) Chlapci! PojÄte sem!}
+{447}{}{RozumÃ­m.}
+{448}{}{Tohle nenÃ­ prÃ¡ce pro mÄ›, pane Wrighte. NajdÄ›te si na to nÄ›koho jinÃ©ho.}
+{449}{}{Seru na tuhle prÃ¡ci, seru na vaÅ¡eho zdrogovanÃ½ho synÃ¡Äka a seru i na vÃ¡s. PadÃ¡m odsud.}
+{451}{}{Tak a DOST! UÅ¾ mÃ¡m dost tÄ›ch vaÅ¡ich kecÅ¯. Brzy se setkÃ¡te s tÃ­m vaÅ¡Ã­m zdrogovanÃ½m synÃ¡Äkem v pekle.}
 {453}{}{Zmizte odsud.}
-{465}{}{Nedávno se mi dostala do rukou mapa, na které je zakreslená stará vojenská základna v horách nedaleko odtud. Najdi zpùsob, jak se dostat dovnitø a já dohlédnu na to, e o tebe bude postaráno...}
-{466}{}{Oukí Doukí Pane Ordervile.}
-{467}{}{ jít. }
-{468}{}{Dobøe. Pùjdu to omrknout.}
-{469}{}{Proè tam mám jít? Neposlal jste tam u nìkoho?}
-{470}{}{Nemám zájem, díky. Sbohem.}
-{471}{}{U se mi podaøilo dostat dovnitø základny. Je tam spousta starıch zbraní a rùzného vojenského vybavení, které nikdo nehlídá.}
-{472}{}{U se mi podaøilo dostat dovnitø základny. Jene se stala taková menší... nehoda... a základna je teï kontaminovaná.}
-{480}{}{(Vıraz pana Wrighta na moment ztuhne a poté se ušklíbne.) Hehe. Ne tak docela. Ti lidi, od kterıch tu mapu mám, jsou u mrtví. Byli to ostøí hoši, ale všichni zemøeli, kdy se pokoušeli dostat do té základny.}
-{481}{}{Oni se nedostali ANI dovnitø?}
-{485}{}{Jo, jedinı èlovìk, kterı pøeil, mi... krátce pøed svojí nešastnou smrtí... øekl, e byly pøed vchodem nìjaké super vìièky, které rozprášily všechny jeho mue.}
-{486}{}{Co se stalo s tím èlovìkem, kterı pøeil?}
-{487}{}{Hmmmm. Tak to si budu muset dávat velkı pozor. Tu práci beru.}
-{488}{}{Zapomeòte na to. Nikdo mi neøekl, e to bude tak nebezpeèné.}
-{495}{}{Se starım Samem Pritchardem? To je smutnı pøíbìh. Jednou veèer se pìknì oral, zmínil se mému chlapci Keithovi, e našel jednu "základnu" a ne bys øekl švec, nakreslil mi mapu a pak ZEMØEL. Teï spí v Golgotì.}
-{496}{}{Zdá se, e je Reno v tìchto dnech plné smutnıch pøíbìhù. Tu práci beru.}
-{497}{}{Víte, pøesnì takové pøíbìhy mì vdy utvrdí v tom, e tuhle práci opravdu nemùu pøijmout. Zatím, Wrighte.}
-{505}{}{(Zakroutí hlavou.) To je škoda. Pøijï za mnou, pokud si to rozmyslíš.}
-{506}{}{Samozøejmì.}
-{515}{}{(Wright se usmìje, kdy tì uvidí.) Zmìnil jsi názor na mùj návrh?}
-{516}{}{Co e to bylo za návrh?}
-{517}{}{Ne, jsem tu jenom na skok. U pùjdu.}
-{525}{}{(Kıvne a usmìje se.) Tak dobøe. Vra se, a se dostaneš dovnitø a já tì štìdøe odmìním. Jo a ta základna se nachází... jdi na sever, pak... (Øekne ti souøadnice té vojenské základny.)}
-{526}{}{Dobøe. Pùjdu to omrknout. A se dostanu dovnitø, tak se vrátím.}
-{535}{}{Á, to jsi ty. Neseš mi dobré zprávy? Podaøilo se ti dostat dovnitø té vojenské základny?}
-{536}{}{Jestli jsi zpátky a ta práce není hotová, tak si koleduješ o poøádnı vıprask.}
-{537}{}{Ještì ne.}
-{538}{}{Ano. Podaøilo se mi dostat dovnitø. Je tam spousta starıch zbraní a rùzného vojenského vybavení, které nikdo nehlídá. Take co se tıèe mojí odmìny...}
-{539}{}{Podaøilo se mi dostat do té základny, ale stala se taková menší... nehoda... a základna je teï kontaminovaná.}
-{540}{}{Promiòte. Vrátím se, a se dostanu dovnitø.}
-{541}{}{Kašlu na tuhle práci a kašlu i na vás. Padám odsud.}
-{550}{}{Jestli ta práce ještì není HOTOVÁ, tak co tu SAKRA dìláš?! Máš za úkol se dostat do té základny, take se nevracej, dokud to nedokonèíš!}
-{551}{}{Tak dobøe. Vrátím se, a se dostanu dovnitø.}
-{560}{}{Jestli se sem ještì jednou vrátíš a ta práce nebude hotová, tak budeš viset v Golgotì, divochu. NIKDO nebude plıtvat mım èasem. Rozumíš?}
-{561}{}{Promiòte? PROMIÒTE?! Tak to je u vrchol, divochu. Jestli si myslíš, e mùeš takhle plıtvat mım èasem, tak se šerednì pleteš. Na tuhle práci si klidnì mùu najít nìkoho schopnìjšího. (Zakøièí smìrem ke dveøím.) Chlapci! Pojïte sem!}
-{562}{}{Rozumím. Vrátím se, a bude ta práce hotová.}
-{575}{}{. To se mi líbí, to se mi opravdu líbí. Má to styl a šávu. A teï se zastav v Koèièí Pacce a Loveckıch potøebách a oni u se o tebe postarají. A jestli chceš nìjakı chlast zdarma, zajdi do eleznièní stanice. Dám jim vìdìt.}
-{576}{}{Díky. Zastavím se tam.}
-{580}{}{(Zajiskøí mu oèi.) Dobrá práce, }
-{581}{}{"Nehoda"? Ani nechci vìdìt jaká. Zmiz odsud a u se nevracej.}
-{582}{}{Díky, pane Wrighte. Kdy jsem teï èlenem vaší rodiny, chci, abyste mi øíkali...}
-{583}{}{Tak dobøe.}
-{584}{}{Jak chceš, abychom ti øíkali?}
-{590}{}{(Usmìje se na tebe.) }
-{591}{}{Jistì. Jak se máte, pane Wrighte?}
-{592}{}{Jistì. Jen jdu tak kolem, pane Wrighte. Mìjte se, pane.}
-{600}{}{(Uchichtne se.) Ujde to, docela to ujde. Moje manelka mì poøád terorizuje, ale to není nic nového. To jsou holt ty radosti manelství.}
-{601}{}{Aha. Jen jdu tak kolem, pane Wrighte. Mìjte se, pane.}
-{610}{}{Naštvanı? No to si piš. Ta moje bláznivá manelka roztøískala v záchvatu zuøivosti jeden z mıch destilátorù. Sice nechápu, jak na nìj mohla pøijít, ale...}
-{611}{}{Naštvanı? No to si piš. Nìjakı zkurvysyn znièil jeden z mıch destilátorù. To by mì zajímalo, jak se mu to podaøilo, ale...}
-{612}{}{Naštvanı? No to si piš. Moji zákazníci odpadají... doslova. Nìco je s tím alkoholem špatnì a myslím, e to zabíjí lidi. Moná pøi tom fermentaèním procesu vzniká jed...}
-{613}{}{Nejspíš na nìj narazila jen náhodou. Taková smùla! Pochybuju, e jí o tom nìkdo øekl. To je velmi nepravdìpodobné.}
-{614}{}{No, víte, tyhle staré stroje se poøád porouchávají! Pochybuju, e by v tom mìl nìkdo prsty. To je velmi nepravdìpodobné.}
-{615}{}{No, ale urèitì to nemá co dìlat s tím radškorpioním jedem, kterı tam natekl z nìkolika radškorpioních ocasù, které tam spadly. Tomu nevìøím.}
-{620}{}{Zvláštní, e se na to ptáš. Mùj syn opravdu nìkde získal zbraò... myslím, e patøí jedné z rodin, která se ho snaila donutit, aby zastøelil sám sebe nebo svého otce. A toho bastarda chytím...}
-{621}{}{Eh, zbraò? Opravdu? Máte pravdu, pane, nejspíš mu ji dal nìkdo z jiné rodiny. Ale bude tìké zjistit, kdo to udìlal. Nechte to radìji bıt.}
-{625}{}{(Kıvne hlavou.) Nejspíš nic. No...}
-{626}{}{Jistì. Jen jdu tak kolem, pane Wrighte. Mìjte se, pane.}
-{630}{}{(Zamraèí se.) Podle mì v tom mají prsty Mordinové... ti zatracenı hajzlíci kontrolují témìø všechen Jet v New Renu. Bıt tebou, prozkoumám kasíno Desperado a provìøím si dealery, co se potloukají kolem.}
-{640}{}{Co...? "Otráven?" O èem to sakra mluvíš?}
-{641}{}{Prohledal jsem tìlo vašeho syna a Jet ho nezabil... na jeho tìle byly stopy po radškorpioním jedu.}
-{642}{}{Podaøilo se mi najít tuhle nádobku Jetu, kterou Richard pouíval... eh, byla pouita na nìj. Jsou v ní stopy po radškorpioním jedu.}
-{643}{}{Našel jsem nádobku Jetu, kterou Richard pouíval... eh, byla pouita na nìj. Jsou v ní stopy po radškorpioním jedu.}
-{644}{}{Byl otráven radškorpioním jedem. Pøedávkování Jetem mìlo pouze zakrıt skuteènost, e byl otráven.}
-{650}{}{"Ty jsi prohledal tìlo mého syna?"}
-{651}{}{Jo, k provedení pitvy bylo zapotøebí otevøít jeho rakev.}
-{652}{}{Eh... samozøejmì, e NEPROHLEDAL. Já se jenom pøeøekl. "Tìlo vašeho syna?" Myslel jsem "tìlo vašeho psa." Ano, to jsem pøesnì myslel.}
-{653}{}{Tohle asi nebude nejlepší doba na diskuzi. Promluvíme si pozdìji.}
+{465}{}{NedÃ¡vno se mi dostala do rukou mapa, na kterÃ© je zakreslenÃ¡ starÃ¡ vojenskÃ¡ zÃ¡kladna v horÃ¡ch nedaleko odtud. Najdi zpÅ¯sob, jak se dostat dovnitÅ™ a jÃ¡ dohlÃ©dnu na to, Å¾e o tebe bude postarÃ¡no...}
+{466}{}{OukÃ­ DoukÃ­ Pane Ordervile.}
+{467}{}{ jÃ­t. }
+{468}{}{DobÅ™e. PÅ¯jdu to omrknout.}
+{469}{}{ProÄ tam mÃ¡m jÃ­t? Neposlal jste tam uÅ¾ nÄ›koho?}
+{470}{}{NemÃ¡m zÃ¡jem, dÃ­ky. Sbohem.}
+{471}{}{UÅ¾ se mi podaÅ™ilo dostat dovnitÅ™ zÃ¡kladny. Je tam spousta starÃ½ch zbranÃ­ a rÅ¯znÃ©ho vojenskÃ©ho vybavenÃ­, kterÃ© nikdo nehlÃ­dÃ¡.}
+{472}{}{UÅ¾ se mi podaÅ™ilo dostat dovnitÅ™ zÃ¡kladny. JenÅ¾e se stala takovÃ¡ menÅ¡Ã­... nehoda... a zÃ¡kladna je teÄ kontaminovanÃ¡.}
+{480}{}{(VÃ½raz pana Wrighta na moment ztuhne a potÃ© se uÅ¡klÃ­bne.) Hehe. Ne tak docela. Ti lidi, od kterÃ½ch tu mapu mÃ¡m, jsou uÅ¾ mrtvÃ­. Byli to ostÅ™Ã­ hoÅ¡i, ale vÅ¡ichni zemÅ™eli, kdyÅ¾ se pokouÅ¡eli dostat do tÃ© zÃ¡kladny.}
+{481}{}{Oni se nedostali ANI dovnitÅ™?}
+{485}{}{Jo, jedinÃ½ ÄlovÄ›k, kterÃ½ pÅ™eÅ¾il, mi... krÃ¡tce pÅ™ed svojÃ­ neÅ¡Å¥astnou smrtÃ­... Å™ekl, Å¾e byly pÅ™ed vchodem nÄ›jakÃ© super vÄ›Å¾iÄky, kterÃ© rozprÃ¡Å¡ily vÅ¡echny jeho muÅ¾e.}
+{486}{}{Co se stalo s tÃ­m ÄlovÄ›kem, kterÃ½ pÅ™eÅ¾il?}
+{487}{}{Hmmmm. Tak to si budu muset dÃ¡vat velkÃ½ pozor. Tu prÃ¡ci beru.}
+{488}{}{ZapomeÅˆte na to. Nikdo mi neÅ™ekl, Å¾e to bude tak nebezpeÄnÃ©.}
+{495}{}{Se starÃ½m Samem Pritchardem? To je smutnÃ½ pÅ™Ã­bÄ›h. Jednou veÄer se pÄ›knÄ› oÅ¾ral, zmÃ­nil se mÃ©mu chlapci Keithovi, Å¾e naÅ¡el jednu "zÃ¡kladnu" a neÅ¾ bys Å™ekl Å¡vec, nakreslil mi mapu a pak ZEMÅ˜EL. TeÄ spÃ­ v GolgotÄ›.}
+{496}{}{ZdÃ¡ se, Å¾e je Reno v tÄ›chto dnech plnÃ© smutnÃ½ch pÅ™Ã­bÄ›hÅ¯. Tu prÃ¡ci beru.}
+{497}{}{VÃ­te, pÅ™esnÄ› takovÃ© pÅ™Ã­bÄ›hy mÄ› vÅ¾dy utvrdÃ­ v tom, Å¾e tuhle prÃ¡ci opravdu nemÅ¯Å¾u pÅ™ijmout. ZatÃ­m, Wrighte.}
+{505}{}{(ZakroutÃ­ hlavou.) To je Å¡koda. PÅ™ijÄ za mnou, pokud si to rozmyslÃ­Å¡.}
+{506}{}{SamozÅ™ejmÄ›.}
+{515}{}{(Wright se usmÄ›je, kdyÅ¾ tÄ› uvidÃ­.) ZmÄ›nil jsi nÃ¡zor na mÅ¯j nÃ¡vrh?}
+{516}{}{Co Å¾e to bylo za nÃ¡vrh?}
+{517}{}{Ne, jsem tu jenom na skok. UÅ¾ pÅ¯jdu.}
+{525}{}{(KÃ½vne a usmÄ›je se.) Tak dobÅ™e. VraÅ¥ se, aÅ¾ se dostaneÅ¡ dovnitÅ™ a jÃ¡ tÄ› Å¡tÄ›dÅ™e odmÄ›nÃ­m. Jo a ta zÃ¡kladna se nachÃ¡zÃ­... jdi na sever, pak... (Å˜ekne ti souÅ™adnice tÃ© vojenskÃ© zÃ¡kladny.)}
+{526}{}{DobÅ™e. PÅ¯jdu to omrknout. AÅ¾ se dostanu dovnitÅ™, tak se vrÃ¡tÃ­m.}
+{535}{}{Ã, to jsi ty. NeseÅ¡ mi dobrÃ© zprÃ¡vy? PodaÅ™ilo se ti dostat dovnitÅ™ tÃ© vojenskÃ© zÃ¡kladny?}
+{536}{}{Jestli jsi zpÃ¡tky a ta prÃ¡ce nenÃ­ hotovÃ¡, tak si koledujeÅ¡ o poÅ™Ã¡dnÃ½ vÃ½prask.}
+{537}{}{JeÅ¡tÄ› ne.}
+{538}{}{Ano. PodaÅ™ilo se mi dostat dovnitÅ™. Je tam spousta starÃ½ch zbranÃ­ a rÅ¯znÃ©ho vojenskÃ©ho vybavenÃ­, kterÃ© nikdo nehlÃ­dÃ¡. TakÅ¾e co se tÃ½Äe mojÃ­ odmÄ›ny...}
+{539}{}{PodaÅ™ilo se mi dostat do tÃ© zÃ¡kladny, ale stala se takovÃ¡ menÅ¡Ã­... nehoda... a zÃ¡kladna je teÄ kontaminovanÃ¡.}
+{540}{}{PromiÅˆte. VrÃ¡tÃ­m se, aÅ¾ se dostanu dovnitÅ™.}
+{541}{}{KaÅ¡lu na tuhle prÃ¡ci a kaÅ¡lu i na vÃ¡s. PadÃ¡m odsud.}
+{550}{}{Jestli ta prÃ¡ce jeÅ¡tÄ› nenÃ­ HOTOVÃ, tak co tu SAKRA dÄ›lÃ¡Å¡?! MÃ¡Å¡ za Ãºkol se dostat do tÃ© zÃ¡kladny, takÅ¾e se nevracej, dokud to nedokonÄÃ­Å¡!}
+{551}{}{Tak dobÅ™e. VrÃ¡tÃ­m se, aÅ¾ se dostanu dovnitÅ™.}
+{560}{}{Jestli se sem jeÅ¡tÄ› jednou vrÃ¡tÃ­Å¡ a ta prÃ¡ce nebude hotovÃ¡, tak budeÅ¡ viset v GolgotÄ›, divochu. NIKDO nebude plÃ½tvat mÃ½m Äasem. RozumÃ­Å¡?}
+{561}{}{PromiÅˆte? PROMIÅ‡TE?! Tak to je uÅ¾ vrchol, divochu. Jestli si myslÃ­Å¡, Å¾e mÅ¯Å¾eÅ¡ takhle plÃ½tvat mÃ½m Äasem, tak se Å¡erednÄ› pleteÅ¡. Na tuhle prÃ¡ci si klidnÄ› mÅ¯Å¾u najÃ­t nÄ›koho schopnÄ›jÅ¡Ã­ho. (ZakÅ™iÄÃ­ smÄ›rem ke dveÅ™Ã­m.) Chlapci! PojÄte sem!}
+{562}{}{RozumÃ­m. VrÃ¡tÃ­m se, aÅ¾ bude ta prÃ¡ce hotovÃ¡.}
+{575}{}{. To se mi lÃ­bÃ­, to se mi opravdu lÃ­bÃ­. MÃ¡ to styl a Å¡Å¥Ã¡vu. A teÄ se zastav v KoÄiÄÃ­ Pacce a LoveckÃ½ch potÅ™ebÃ¡ch a oni uÅ¾ se o tebe postarajÃ­. A jestli chceÅ¡ nÄ›jakÃ½ chlast zdarma, zajdi do Å¾elezniÄnÃ­ stanice. DÃ¡m jim vÄ›dÄ›t.}
+{576}{}{DÃ­ky. ZastavÃ­m se tam.}
+{580}{}{(ZajiskÅ™Ã­ mu oÄi.) DobrÃ¡ prÃ¡ce, }
+{581}{}{"Nehoda"? Ani nechci vÄ›dÄ›t jakÃ¡. Zmiz odsud a uÅ¾ se nevracej.}
+{582}{}{DÃ­ky, pane Wrighte. KdyÅ¾ jsem teÄ Älenem vaÅ¡Ã­ rodiny, chci, abyste mi Å™Ã­kali...}
+{583}{}{Tak dobÅ™e.}
+{584}{}{Jak chceÅ¡, abychom ti Å™Ã­kali?}
+{590}{}{(UsmÄ›je se na tebe.) }
+{591}{}{JistÄ›. Jak se mÃ¡te, pane Wrighte?}
+{592}{}{JistÄ›. Jen jdu tak kolem, pane Wrighte. MÄ›jte se, pane.}
+{600}{}{(Uchichtne se.) Ujde to, docela to ujde. Moje manÅ¾elka mÄ› poÅ™Ã¡d terorizuje, ale to nenÃ­ nic novÃ©ho. To jsou holt ty radosti manÅ¾elstvÃ­.}
+{601}{}{Aha. Jen jdu tak kolem, pane Wrighte. MÄ›jte se, pane.}
+{610}{}{NaÅ¡tvanÃ½? No to si piÅ¡. Ta moje blÃ¡znivÃ¡ manÅ¾elka roztÅ™Ã­skala v zÃ¡chvatu zuÅ™ivosti jeden z mÃ½ch destilÃ¡torÅ¯. Sice nechÃ¡pu, jak na nÄ›j mohla pÅ™ijÃ­t, ale...}
+{611}{}{NaÅ¡tvanÃ½? No to si piÅ¡. NÄ›jakÃ½ zkurvysyn zniÄil jeden z mÃ½ch destilÃ¡torÅ¯. To by mÄ› zajÃ­malo, jak se mu to podaÅ™ilo, ale...}
+{612}{}{NaÅ¡tvanÃ½? No to si piÅ¡. Moji zÃ¡kaznÃ­ci odpadajÃ­... doslova. NÄ›co je s tÃ­m alkoholem Å¡patnÄ› a myslÃ­m, Å¾e to zabÃ­jÃ­ lidi. MoÅ¾nÃ¡ pÅ™i tom fermentaÄnÃ­m procesu vznikÃ¡ jed...}
+{613}{}{NejspÃ­Å¡ na nÄ›j narazila jen nÃ¡hodou. TakovÃ¡ smÅ¯la! Pochybuju, Å¾e jÃ­ o tom nÄ›kdo Å™ekl. To je velmi nepravdÄ›podobnÃ©.}
+{614}{}{No, vÃ­te, tyhle starÃ© stroje se poÅ™Ã¡d porouchÃ¡vajÃ­! Pochybuju, Å¾e by v tom mÄ›l nÄ›kdo prsty. To je velmi nepravdÄ›podobnÃ©.}
+{615}{}{No, ale urÄitÄ› to nemÃ¡ co dÄ›lat s tÃ­m radÅ¡korpionÃ­m jedem, kterÃ½ tam natekl z nÄ›kolika radÅ¡korpionÃ­ch ocasÅ¯, kterÃ© tam spadly. Tomu nevÄ›Å™Ã­m.}
+{620}{}{ZvlÃ¡Å¡tnÃ­, Å¾e se na to ptÃ¡Å¡. MÅ¯j syn opravdu nÄ›kde zÃ­skal zbraÅˆ... myslÃ­m, Å¾e patÅ™Ã­ jednÃ© z rodin, kterÃ¡ se ho snaÅ¾ila donutit, aby zastÅ™elil sÃ¡m sebe nebo svÃ©ho otce. AÅ¾ toho bastarda chytÃ­m...}
+{621}{}{Eh, zbraÅˆ? Opravdu? MÃ¡te pravdu, pane, nejspÃ­Å¡ mu ji dal nÄ›kdo z jinÃ© rodiny. Ale bude tÄ›Å¾kÃ© zjistit, kdo to udÄ›lal. Nechte to radÄ›ji bÃ½t.}
+{625}{}{(KÃ½vne hlavou.) NejspÃ­Å¡ nic. No...}
+{626}{}{JistÄ›. Jen jdu tak kolem, pane Wrighte. MÄ›jte se, pane.}
+{630}{}{(ZamraÄÃ­ se.) Podle mÄ› v tom majÃ­ prsty MordinovÃ©... ti zatracenÃ½ hajzlÃ­ci kontrolujÃ­ tÃ©mÄ›Å™ vÅ¡echen Jet v New Renu. BÃ½t tebou, prozkoumÃ¡m kasÃ­no Desperado a provÄ›Å™Ã­m si dealery, co se potloukajÃ­ kolem.}
+{640}{}{Co...? "OtrÃ¡ven?" O Äem to sakra mluvÃ­Å¡?}
+{641}{}{Prohledal jsem tÄ›lo vaÅ¡eho syna a Jet ho nezabil... na jeho tÄ›le byly stopy po radÅ¡korpionÃ­m jedu.}
+{642}{}{PodaÅ™ilo se mi najÃ­t tuhle nÃ¡dobku Jetu, kterou Richard pouÅ¾Ã­val... eh, byla pouÅ¾ita na nÄ›j. Jsou v nÃ­ stopy po radÅ¡korpionÃ­m jedu.}
+{643}{}{NaÅ¡el jsem nÃ¡dobku Jetu, kterou Richard pouÅ¾Ã­val... eh, byla pouÅ¾ita na nÄ›j. Jsou v nÃ­ stopy po radÅ¡korpionÃ­m jedu.}
+{644}{}{Byl otrÃ¡ven radÅ¡korpionÃ­m jedem. PÅ™edÃ¡vkovÃ¡nÃ­ Jetem mÄ›lo pouze zakrÃ½t skuteÄnost, Å¾e byl otrÃ¡ven.}
+{650}{}{"Ty jsi prohledal tÄ›lo mÃ©ho syna?"}
+{651}{}{Jo, k provedenÃ­ pitvy bylo zapotÅ™ebÃ­ otevÅ™Ã­t jeho rakev.}
+{652}{}{Eh... samozÅ™ejmÄ›, Å¾e NEPROHLEDAL. JÃ¡ se jenom pÅ™eÅ™ekl. "TÄ›lo vaÅ¡eho syna?" Myslel jsem "tÄ›lo vaÅ¡eho psa." Ano, to jsem pÅ™esnÄ› myslel.}
+{653}{}{Tohle asi nebude nejlepÅ¡Ã­ doba na diskuzi. PromluvÃ­me si pozdÄ›ji.}
 {660}{}{Ty ghoulskej zkurvysyne...}
-{661}{}{Ty ghoulská dìvko...}
-{662}{}{ dostaneš pìkné místeèko v Golgotì. POKUD najdou všechny tvoje kousky. (Zaène pokøikovat.) Chlapci! Pojïte sem! A vemte si noe!}
-{663}{}{Poèkejte! Nemùeme si o tom promluvit?}
-{664}{}{Budete potøebovat víc ne jen noe, abyste mì dostali...}
-{665}{}{Promiòte, dám si schùzku s vıchodem.}
-{670}{}{I kdybych tomu na okamik uvìøil... a neøíkám, e vìøím... tak kdo tedy OTRÁVIL mého syna? A proè si dali takovou práci s tím, aby ho pøedávkovali Jetem?}
-{671}{}{Øíká se, e to byli Salvatoøi. Nadopovali ho Jetem øíznutım radškorpioním jedem a pak ho tu nechali, abyste ho našel.}
-{672}{}{Nevím, kterı ze Salvatorù to udìlal. Renesco pro nì pøipravil dávku Jetu, ani by vìdìl o tom, e ho pouijí k otrávení vašeho syna.}
-{673}{}{Nevím.}
-{680}{}{A proè by to sakra dìlali?}
-{681}{}{Co vím, tak Mordinové ovládají vırobu Jetu v Renu. Take byste je samozøejmì obvinil jako první... a pak by zaèala válka. POKUD byste se navzájem nepovradili, byli byste minimálnì vyèerpaní. To by Salvatorùm náramnì usnadnilo ivot... museli by se pak obávat u jen Bishopù.}
-{682}{}{To nevím. Moná byste se jich mìl zeptat.}
-{690}{}{(Dlouho na tebe zírá a poté se hoøce usmìje.) Pøinášíš mi odpovìï, ale já s ní nemùu nic udìlat. Zatracení Salvatoøi. (Hluboce si povzdechne.)}
-{691}{}{Co se dìje?}
-{692}{}{Jak to, e s tím nemùete nic udìlat? Co tím myslíte?}
-{700}{}{Víš, èím jsou ti Salvatorští bastardi VYZBROJENI, pøíteli? Tìma zatracenıma svìtelnıma zbranìma. JEDEN Salvatore dokáe s touhle vìcièkou zabít celou moji rodinu bez mrknutí oka. K jejich poraení bych potøeboval...}
-{701}{}{Coe?}
-{702}{}{Nedìlejte si s tím starosti, Salvatoøi u dostali pìknì na hubu.}
-{710}{}{Haha! Moná ti v Renu ano, ale máš se ještì hodnì co uèit o rodinách... poøád ještì ije spousta Salvatorù v okolí Rena a i kdyby zùstal naivu jenom jeden, poøád je to problém. K jejich poraení bych potøeboval...}
-{720}{}{(Hluboce se zamraèí.) Tohle smrdí jako hromada brahmíních hoven...}
-{721}{}{Nevìøíte mi snad? Podívejte, prohledal jsem tìlo vašeho syna a to PÁCHLO po jedu z radškorpiona.}
-{722}{}{Vìøte mi... váš syn byl OTRÁVEN. Nevím, kdo to udìlal, ale ten nìkdo si dal velkou práci s tím, aby to vypadalo jako pøedávkování Jetem.}
-{750}{}{Podaøilo se ti vyøešit vradu Richarda.}
-{775}{}{Oznaèil jsi podezøelého ze smrti Richarda Wrighta.}
-{800}{}{Podaøilo se ti správnì identifikovat, kdo zabil Richarda Wrighta i motiv samotné vrady.}
-{825}{}{Nyní jsi èlenem rodiny Wrightù.}
+{661}{}{Ty ghoulskÃ¡ dÄ›vko...}
+{662}{}{ dostaneÅ¡ pÄ›knÃ© mÃ­steÄko v GolgotÄ›. POKUD najdou vÅ¡echny tvoje kousky. (ZaÄne pokÅ™ikovat.) Chlapci! PojÄte sem! A vemte si noÅ¾e!}
+{663}{}{PoÄkejte! NemÅ¯Å¾eme si o tom promluvit?}
+{664}{}{Budete potÅ™ebovat vÃ­c neÅ¾ jen noÅ¾e, abyste mÄ› dostali...}
+{665}{}{PromiÅˆte, dÃ¡m si schÅ¯zku s vÃ½chodem.}
+{670}{}{I kdybych tomu na okamÅ¾ik uvÄ›Å™il... a neÅ™Ã­kÃ¡m, Å¾e vÄ›Å™Ã­m... tak kdo tedy OTRÃVIL mÃ©ho syna? A proÄ si dali takovou prÃ¡ci s tÃ­m, aby ho pÅ™edÃ¡vkovali Jetem?}
+{671}{}{Å˜Ã­kÃ¡ se, Å¾e to byli SalvatoÅ™i. Nadopovali ho Jetem Å™Ã­znutÃ½m radÅ¡korpionÃ­m jedem a pak ho tu nechali, abyste ho naÅ¡el.}
+{672}{}{NevÃ­m, kterÃ½ ze SalvatorÅ¯ to udÄ›lal. Renesco pro nÄ› pÅ™ipravil dÃ¡vku Jetu, aniÅ¾ by vÄ›dÄ›l o tom, Å¾e ho pouÅ¾ijÃ­ k otrÃ¡venÃ­ vaÅ¡eho syna.}
+{673}{}{NevÃ­m.}
+{680}{}{A proÄ by to sakra dÄ›lali?}
+{681}{}{Co vÃ­m, tak MordinovÃ© ovlÃ¡dajÃ­ vÃ½robu Jetu v Renu. TakÅ¾e byste je samozÅ™ejmÄ› obvinil jako prvnÃ­... a pak by zaÄala vÃ¡lka. POKUD byste se navzÃ¡jem nepovraÅ¾dili, byli byste minimÃ¡lnÄ› vyÄerpanÃ­. To by SalvatorÅ¯m nÃ¡ramnÄ› usnadnilo Å¾ivot... museli by se pak obÃ¡vat uÅ¾ jen BishopÅ¯.}
+{682}{}{To nevÃ­m. MoÅ¾nÃ¡ byste se jich mÄ›l zeptat.}
+{690}{}{(Dlouho na tebe zÃ­rÃ¡ a potÃ© se hoÅ™ce usmÄ›je.) PÅ™inÃ¡Å¡Ã­Å¡ mi odpovÄ›Ä, ale jÃ¡ s nÃ­ nemÅ¯Å¾u nic udÄ›lat. ZatracenÃ­ SalvatoÅ™i. (Hluboce si povzdechne.)}
+{691}{}{Co se dÄ›je?}
+{692}{}{Jak to, Å¾e s tÃ­m nemÅ¯Å¾ete nic udÄ›lat? Co tÃ­m myslÃ­te?}
+{700}{}{VÃ­Å¡, ÄÃ­m jsou ti SalvatorÅ¡tÃ­ bastardi VYZBROJENI, pÅ™Ã­teli? TÄ›ma zatracenÃ½ma svÄ›telnÃ½ma zbranÄ›ma. JEDEN Salvatore dokÃ¡Å¾e s touhle vÄ›ciÄkou zabÃ­t celou moji rodinu bez mrknutÃ­ oka. K jejich poraÅ¾enÃ­ bych potÅ™eboval...}
+{701}{}{CoÅ¾e?}
+{702}{}{NedÄ›lejte si s tÃ­m starosti, SalvatoÅ™i uÅ¾ dostali pÄ›knÄ› na hubu.}
+{710}{}{Haha! MoÅ¾nÃ¡ ti v Renu ano, ale mÃ¡Å¡ se jeÅ¡tÄ› hodnÄ› co uÄit o rodinÃ¡ch... poÅ™Ã¡d jeÅ¡tÄ› Å¾ije spousta SalvatorÅ¯ v okolÃ­ Rena a i kdyby zÅ¯stal naÅ¾ivu jenom jeden, poÅ™Ã¡d je to problÃ©m. K jejich poraÅ¾enÃ­ bych potÅ™eboval...}
+{720}{}{(Hluboce se zamraÄÃ­.) Tohle smrdÃ­ jako hromada brahmÃ­nÃ­ch hoven...}
+{721}{}{NevÄ›Å™Ã­te mi snad? PodÃ­vejte, prohledal jsem tÄ›lo vaÅ¡eho syna a to PÃCHLO po jedu z radÅ¡korpiona.}
+{722}{}{VÄ›Å™te mi... vÃ¡Å¡ syn byl OTRÃVEN. NevÃ­m, kdo to udÄ›lal, ale ten nÄ›kdo si dal velkou prÃ¡ci s tÃ­m, aby to vypadalo jako pÅ™edÃ¡vkovÃ¡nÃ­ Jetem.}
+{750}{}{PodaÅ™ilo se ti vyÅ™eÅ¡it vraÅ¾du Richarda.}
+{775}{}{OznaÄil jsi podezÅ™elÃ©ho ze smrti Richarda Wrighta.}
+{800}{}{PodaÅ™ilo se ti sprÃ¡vnÄ› identifikovat, kdo zabil Richarda Wrighta i motiv samotnÃ© vraÅ¾dy.}
+{825}{}{NynÃ­ jsi Älenem rodiny WrightÅ¯.}
 {5243}{}{!}
-{5249}{}{. Hledám nìjakou práci.}
+{5249}{}{. HledÃ¡m nÄ›jakou prÃ¡ci.}
 {5261}{}{!}
-{5310}{}{." Jsem rád, e tu jsi, zatracenì rád. (Jeho úsmìv zmizí a zaène se mraèit.) Take ty chceš pracovat pro Wrightovu rodinu, jo?}
-{5467}{}{ rozbít základna. }
-{5580}{}{. Zajdi do Koèièí Packy a Loveckıch Potøeb... øekni jim, e tì posílám a oni u se o tebe postarají. Jsi teï èlenem naší rodiny, tak a to ví celé New Reno.}
-{5590}{}{...zacházejí s tebou všichni s úctou? Nemáš nìjaké problémy?}
-{6467}{}{ rozmlátit!}
+{5310}{}{." Jsem rÃ¡d, Å¾e tu jsi, zatracenÄ› rÃ¡d. (Jeho ÃºsmÄ›v zmizÃ­ a zaÄne se mraÄit.) TakÅ¾e ty chceÅ¡ pracovat pro Wrightovu rodinu, jo?}
+{5467}{}{ rozbÃ­t zÃ¡kladna. }
+{5580}{}{. Zajdi do KoÄiÄÃ­ Packy a LoveckÃ½ch PotÅ™eb... Å™ekni jim, Å¾e tÄ› posÃ­lÃ¡m a oni uÅ¾ se o tebe postarajÃ­. Jsi teÄ Älenem naÅ¡Ã­ rodiny, tak aÅ¥ to vÃ­ celÃ© New Reno.}
+{5590}{}{...zachÃ¡zejÃ­ s tebou vÅ¡ichni s Ãºctou? NemÃ¡Å¡ nÄ›jakÃ© problÃ©my?}
+{6467}{}{ rozmlÃ¡tit!}

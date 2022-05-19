@@ -1,18 +1,18 @@
-{100}{}{Vypadá jako oficír, jeliko má na sobì uniformu se znakem NCR.}
-{101}{}{Vidíš mìstskou strá.}
-{102}{}{Take - drsnı chlap, má zbraò, má znak, má zbroj - hmm, to bude asi strá.}
-{103}{}{Vítej v NCR. Jen pro tvoji informaci, jestli máš zbranì, tak je nech schované. Tohle není mìsto zbraní, cizinèe.}
-{104}{}{Vítej v NCR, hlavního mìsta New California Republic, pod vládou prezidentky Tandi.}
-{105}{}{Vítej, cizinèe. Jsi v NCR obchodnì, e ano?}
-{106}{}{NCR tì vítá - pokud nebudeš dìlat problémy.}
-{107}{}{Hej ty, schovej tu zbraò! NCR nemá zájem o problémy.}
-{108}{}{Cizinèe, NCR má jistá pravidla a jedním z nich je "ádné zbranì". Schovej je a nebudeš mít problémy.}
-{109}{}{Víš, co je napsáno na tabuli pøed vstupem? "ádné zbranì", a to myslíme vánì. Rozumíš?}
-{110}{}{Vy tuláci jste všichni stejní. Tohle je mírumilovné mìsto. To znamená, e nepotøebujeme, aby nám tady nìkdo støílel. Schovej zbranì a nebudeš mít ádné problémy.}
-{111}{}{Brána je v noci zavøená. Jestli máš nìjakou urgentní záleitost, jdi na stránici.}
-{112}{}{Musíš si promluvit s kapitánem, jestli chceš projít pøes bránu.}
-{113}{}{Je pozdì na návštìvu mìsta. Jdi za kapitánem, moná tì pustí dál.}
-{114}{}{Bıt tebou, tak se radìji otoèím a rychle upaluju pryè.}
-{115}{}{Ty a tobì podobní nejste v NCR vítáni.}
-{116}{}{Ještì krok a budeš toho litovat.}
-{117}{}{Varovali nás pøed tebou, take odejdi v poklidu. Rozumíš?}
+{100}{}{VypadÃ¡ jako oficÃ­r, jelikoÅ¾ mÃ¡ na sobÄ› uniformu se znakem NCR.}
+{101}{}{VidÃ­Å¡ mÄ›stskou strÃ¡Å¾.}
+{102}{}{TakÅ¾e - drsnÃ½ chlap, mÃ¡ zbraÅˆ, mÃ¡ znak, mÃ¡ zbroj - hmm, to bude asi strÃ¡Å¾.}
+{103}{}{VÃ­tej v NCR. Jen pro tvoji informaci, jestli mÃ¡Å¡ zbranÄ›, tak je nech schovanÃ©. Tohle nenÃ­ mÄ›sto zbranÃ­, cizinÄe.}
+{104}{}{VÃ­tej v NCR, hlavnÃ­ho mÄ›sta New California Republic, pod vlÃ¡dou prezidentky Tandi.}
+{105}{}{VÃ­tej, cizinÄe. Jsi v NCR obchodnÄ›, Å¾e ano?}
+{106}{}{NCR tÄ› vÃ­tÃ¡ - pokud nebudeÅ¡ dÄ›lat problÃ©my.}
+{107}{}{Hej ty, schovej tu zbraÅˆ! NCR nemÃ¡ zÃ¡jem o problÃ©my.}
+{108}{}{CizinÄe, NCR mÃ¡ jistÃ¡ pravidla a jednÃ­m z nich je "Å¾Ã¡dnÃ© zbranÄ›". Schovej je a nebudeÅ¡ mÃ­t problÃ©my.}
+{109}{}{VÃ­Å¡, co je napsÃ¡no na tabuli pÅ™ed vstupem? "Å½Ã¡dnÃ© zbranÄ›", a to myslÃ­me vÃ¡Å¾nÄ›. RozumÃ­Å¡?}
+{110}{}{Vy tulÃ¡ci jste vÅ¡ichni stejnÃ­. Tohle je mÃ­rumilovnÃ© mÄ›sto. To znamenÃ¡, Å¾e nepotÅ™ebujeme, aby nÃ¡m tady nÄ›kdo stÅ™Ã­lel. Schovej zbranÄ› a nebudeÅ¡ mÃ­t Å¾Ã¡dnÃ© problÃ©my.}
+{111}{}{BrÃ¡na je v noci zavÅ™enÃ¡. Jestli mÃ¡Å¡ nÄ›jakou urgentnÃ­ zÃ¡leÅ¾itost, jdi na strÃ¡Å¾nici.}
+{112}{}{MusÃ­Å¡ si promluvit s kapitÃ¡nem, jestli chceÅ¡ projÃ­t pÅ™es brÃ¡nu.}
+{113}{}{Je pozdÄ› na nÃ¡vÅ¡tÄ›vu mÄ›sta. Jdi za kapitÃ¡nem, moÅ¾nÃ¡ tÄ› pustÃ­ dÃ¡l.}
+{114}{}{BÃ½t tebou, tak se radÄ›ji otoÄÃ­m a rychle upaluju pryÄ.}
+{115}{}{Ty a tobÄ› podobnÃ­ nejste v NCR vÃ­tÃ¡ni.}
+{116}{}{JeÅ¡tÄ› krok a budeÅ¡ toho litovat.}
+{117}{}{Varovali nÃ¡s pÅ™ed tebou, takÅ¾e odejdi v poklidu. RozumÃ­Å¡?}

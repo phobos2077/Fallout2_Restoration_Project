@@ -1,6 +1,6 @@
 {100}{}{Balvan.}
-{101}{}{Zamaskovaná ventilaèní šachta.}
-{102}{}{Nic zvláštního nevidíš.}
-{110}{}{Nic to nedìlá.}
-{120}{}{Nemùeš jít zpátky do ventilaèní šachty.}
-{200}{}{Ventilaèní šachta.}
+{101}{}{ZamaskovanÃ¡ ventilaÄnÃ­ Å¡achta.}
+{102}{}{Nic zvlÃ¡Å¡tnÃ­ho nevidÃ­Å¡.}
+{110}{}{Nic to nedÄ›lÃ¡.}
+{120}{}{NemÅ¯Å¾eÅ¡ jÃ­t zpÃ¡tky do ventilaÄnÃ­ Å¡achty.}
+{200}{}{VentilaÄnÃ­ Å¡achta.}

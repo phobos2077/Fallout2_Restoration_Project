@@ -1,1 +1,1 @@
-{100}{}{Vstupuješ na Smetištì.}
+{100}{}{VstupujeÅ¡ na SmetiÅ¡tÄ›.}

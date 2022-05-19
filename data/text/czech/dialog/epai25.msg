@@ -1,2 +1,2 @@
 {100}{}{Odjistil jsi dynamit.}
-{101}{}{Zneökodnil jsi dynamit.}
+{101}{}{Zne≈°kodnil jsi dynamit.}

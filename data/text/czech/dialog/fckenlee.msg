@@ -1,131 +1,131 @@
-{100}{}{Vidíš zavalitého Shi mue, kterı vypadá, e má rozsáhlé znalosti.}
-{101}{}{Vidíš Kena Lee, Císaøova poradce.}
-{102}{}{Vidíš zavalitého Shi mue s brılemi. Usmívá se.}
-{103}{}{Co potøebuješ, pøíteli?}
-{104}{}{Co chceš?}
-{105}{}{Co pro tebe mohu udìlat?}
+{100}{}{VidÃ­Å¡ zavalitÃ©ho Shi muÅ¾e, kterÃ½ vypadÃ¡, Å¾e mÃ¡ rozsÃ¡hlÃ© znalosti.}
+{101}{}{VidÃ­Å¡ Kena Lee, CÃ­saÅ™ova poradce.}
+{102}{}{VidÃ­Å¡ zavalitÃ©ho Shi muÅ¾e s brÃ½lemi. UsmÃ­vÃ¡ se.}
+{103}{}{Co potÅ™ebujeÅ¡, pÅ™Ã­teli?}
+{104}{}{Co chceÅ¡?}
+{105}{}{Co pro tebe mohu udÄ›lat?}
 {106}{}{Ty?}
 {107}{}{Kdo jsi?}
-{108}{}{Co je tohle za místo?}
-{109}{}{Hledám ztracené vesnièany.}
-{110}{}{Potøebuju palivo.}
-{111}{}{Chci mluvit s Císaøem.}
-{112}{}{Hubologisté mì povìøili zabít Císaøe.}
-{113}{}{Nic. Díky. Nashle.}
-{114}{}{Jsem Ken Lee, Císaøùv poradce. A ty, mùj pøíteli, vypadáš, e jsi trochu pomalejší, take si toto zapamatuj: Jestli hledáš Enklávu, musíš pouít tanker Poseidon Oil. Budeš do nìho potøebovat palivo. Máš mé poehnání.}
-{115}{}{Díky!}
-{116}{}{Jsem Ken Lee, Císaøùv poradce. Císaø mi poradil, abych s tebou nehovoøil, take nebudu. Nashle, hlupáku.}
+{108}{}{Co je tohle za mÃ­sto?}
+{109}{}{HledÃ¡m ztracenÃ© vesniÄany.}
+{110}{}{PotÅ™ebuju palivo.}
+{111}{}{Chci mluvit s CÃ­saÅ™em.}
+{112}{}{HubologistÃ© mÄ› povÄ›Å™ili zabÃ­t CÃ­saÅ™e.}
+{113}{}{Nic. DÃ­ky. Nashle.}
+{114}{}{Jsem Ken Lee, CÃ­saÅ™Å¯v poradce. A ty, mÅ¯j pÅ™Ã­teli, vypadÃ¡Å¡, Å¾e jsi trochu pomalejÅ¡Ã­, takÅ¾e si toto zapamatuj: Jestli hledÃ¡Å¡ EnklÃ¡vu, musÃ­Å¡ pouÅ¾Ã­t tanker Poseidon Oil. BudeÅ¡ do nÄ›ho potÅ™ebovat palivo. MÃ¡Å¡ mÃ© poÅ¾ehnÃ¡nÃ­.}
+{115}{}{DÃ­ky!}
+{116}{}{Jsem Ken Lee, CÃ­saÅ™Å¯v poradce. CÃ­saÅ™ mi poradil, abych s tebou nehovoÅ™il, takÅ¾e nebudu. Nashle, hlupÃ¡ku.}
 {117}{}{Grrr!}
-{118}{}{Ach, cestovateli, nemohu ti pomoci. Moná najdeš odpovìï na svùj úkol i jinım zpùsobem. Nashle.}
+{118}{}{Ach, cestovateli, nemohu ti pomoci. MoÅ¾nÃ¡ najdeÅ¡ odpovÄ›Ä na svÅ¯j Ãºkol i jinÃ½m zpÅ¯sobem. Nashle.}
 {119}{}{Naskle!}
-{120}{}{Jsem Ken Lee, poradce Císaøe Shi. Šíøím Císaøovu moudrost. A kdo jsi ty?}
-{121}{}{Chci vidìt Císaøe.}
+{120}{}{Jsem Ken Lee, poradce CÃ­saÅ™e Shi. Å Ã­Å™Ã­m CÃ­saÅ™ovu moudrost. A kdo jsi ty?}
+{121}{}{Chci vidÄ›t CÃ­saÅ™e.}
 {122}{}{Jsem}
-{123}{}{Pøipadáš mi spíš jako pøerostlı poskok.}
-{124}{}{Nikdo dùleitı. Sbohem.}
-{125}{}{Toto je Ocelovı Palác Císaøe. Toto je srdce mìsta Shi.}
-{126}{}{A kde je Císaø?}
-{127}{}{Jakı druh vızkumu tady provádíte?}
-{128}{}{Jaké jsou dìjiny tohoto místa?}
-{129}{}{Aha. Zatím.}
-{130}{}{Jestli si pøeješ vidìt Císaøe, pak mi musíš øíci své jméno.}
-{131}{}{Aha. Dobrá. Jsem}
-{132}{}{Jistì. Jmenuju se}
+{123}{}{PÅ™ipadÃ¡Å¡ mi spÃ­Å¡ jako pÅ™erostlÃ½ poskok.}
+{124}{}{Nikdo dÅ¯leÅ¾itÃ½. Sbohem.}
+{125}{}{Toto je OcelovÃ½ PalÃ¡c CÃ­saÅ™e. Toto je srdce mÄ›sta Shi.}
+{126}{}{A kde je CÃ­saÅ™?}
+{127}{}{JakÃ½ druh vÃ½zkumu tady provÃ¡dÃ­te?}
+{128}{}{JakÃ© jsou dÄ›jiny tohoto mÃ­sta?}
+{129}{}{Aha. ZatÃ­m.}
+{130}{}{Jestli si pÅ™ejeÅ¡ vidÄ›t CÃ­saÅ™e, pak mi musÃ­Å¡ Å™Ã­ci svÃ© jmÃ©no.}
+{131}{}{Aha. DobrÃ¡. Jsem}
+{132}{}{JistÄ›. Jmenuju se}
 {133}{}{Ano.}
-{134}{}{Zapomeò na to.}
-{135}{}{Ne kadı mùe vidìt Císaøe. Nejprve musíš dokázat, e si to zaslouíš. Pøeješ si to dokázat?}
+{134}{}{ZapomeÅˆ na to.}
+{135}{}{Ne kaÅ¾dÃ½ mÅ¯Å¾e vidÄ›t CÃ­saÅ™e. Nejprve musÃ­Å¡ dokÃ¡zat, Å¾e si to zaslouÅ¾Ã­Å¡. PÅ™ejeÅ¡ si to dokÃ¡zat?}
 {136}{}{Ano.}
-{137}{}{Ne. Mìl jsem za posledních pár mìsícù u dost testù a to mi vystaèí a do konce ivota.}
-{138}{}{Nevìøím, e by tì Císaø rád vidìl. Bylo mi øeèeno, abych zakázal vstup všem, kteøí mì urazí nebo tìm, ze kterıch je cítít zlo. Ty splòuješ obojí, cestovateli. Nashle.}
+{137}{}{Ne. MÄ›l jsem za poslednÃ­ch pÃ¡r mÄ›sÃ­cÅ¯ uÅ¾ dost testÅ¯ a to mi vystaÄÃ­ aÅ¾ do konce Å¾ivota.}
+{138}{}{NevÄ›Å™Ã­m, Å¾e by tÄ› CÃ­saÅ™ rÃ¡d vidÄ›l. Bylo mi Å™eÄeno, abych zakÃ¡zal vstup vÅ¡em, kteÅ™Ã­ mÄ› urazÃ­ nebo tÄ›m, ze kterÃ½ch je cÃ­tÃ­t zlo. Ty splÅˆujeÅ¡ obojÃ­, cestovateli. Nashle.}
 {139}{}{[KONEC]}
-{140}{}{Uráky ti nijak nepomohou, cestovateli, kromì vyhození z Ocelového Paláce. Ovládej laskavì svùj jazyk.}
-{141}{}{Pøinu mì.}
+{140}{}{UrÃ¡Å¾ky ti nijak nepomohou, cestovateli, kromÄ› vyhozenÃ­ z OcelovÃ©ho PalÃ¡ce. OvlÃ¡dej laskavÄ› svÅ¯j jazyk.}
+{141}{}{PÅ™inuÅ¥ mÄ›.}
 {142}{}{Fajn.}
-{143}{}{Císaø zùstává skryt pøed zvídavımi pohledy. Jeliko je mım úkolem zastávat funkci Císaøovy pravé ruky, nemohu a nepovím ti kde je.}
-{144}{}{Mám další otázky.}
+{143}{}{CÃ­saÅ™ zÅ¯stÃ¡vÃ¡ skryt pÅ™ed zvÃ­davÃ½mi pohledy. JelikoÅ¾ je mÃ½m Ãºkolem zastÃ¡vat funkci CÃ­saÅ™ovy pravÃ© ruky, nemohu a nepovÃ­m ti kde je.}
+{144}{}{MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
 {145}{}{Nashle.}
-{146}{}{Provádíme vızkum, kterı zmìní svìt. Jestli chceš víc odpovìdí na své otázky, vyhledej Dr. Wong Yi Tzea.}
-{147}{}{To udìlám. Mám další otázky.}
+{146}{}{ProvÃ¡dÃ­me vÃ½zkum, kterÃ½ zmÄ›nÃ­ svÄ›t. Jestli chceÅ¡ vÃ­c odpovÄ›dÃ­ na svÃ© otÃ¡zky, vyhledej Dr. Wong Yi Tzea.}
+{147}{}{To udÄ›lÃ¡m. MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
 {148}{}{Ano. Nashle.}
-{149}{}{Pøeili jsme ztroskotání ponorky. Kdy jsme se dostali na mìlèinu, rozebrali jsme ponorku a z ní vytvoøili Palác. Avšak nìkteøí tomu dodnes nevìøí.}
-{150}{}{Hm. To zní, jako bys je za to kritizoval.}
-{151}{}{Aha. Díky. Nashle.}
-{152}{}{Ach ano! Vidìl jsem nìkteré tvé filmy a toto urèitì není tvé pravé jméno.}
-{153}{}{Jistì e je.}
-{154}{}{Ne. Mé pravé jméno je}
-{155}{}{Tohle jméno ti musí staèit, staøíku.}
-{156}{}{S tím nesouhlasím. Hezkı den.}
+{149}{}{PÅ™eÅ¾ili jsme ztroskotÃ¡nÃ­ ponorky. KdyÅ¾ jsme se dostali na mÄ›lÄinu, rozebrali jsme ponorku a z nÃ­ vytvoÅ™ili PalÃ¡c. AvÅ¡ak nÄ›kteÅ™Ã­ tomu dodnes nevÄ›Å™Ã­.}
+{150}{}{Hm. To znÃ­, jako bys je za to kritizoval.}
+{151}{}{Aha. DÃ­ky. Nashle.}
+{152}{}{Ach ano! VidÄ›l jsem nÄ›kterÃ© tvÃ© filmy a toto urÄitÄ› nenÃ­ tvÃ© pravÃ© jmÃ©no.}
+{153}{}{JistÄ› Å¾e je.}
+{154}{}{Ne. MÃ© pravÃ© jmÃ©no je}
+{155}{}{Tohle jmÃ©no ti musÃ­ staÄit, staÅ™Ã­ku.}
+{156}{}{S tÃ­m nesouhlasÃ­m. HezkÃ½ den.}
 {157}{}{[KONEC]}
-{158}{}{Nedìlej ze mì hlupáka. Vím, jak funguje "byznys". Kdysi jsem byl v New Renu.}
-{159}{}{Dobøe, jmenuju se}
-{160}{}{To je moje opravdové jméno! Nech mì promluvit s Císaøem!}
-{161}{}{Vıbornì. Toto po tobì poaduji: na sever odsud je malá vojenská základna, která se jmenuje Navarro. Je tam spousta vertibirdù. Potøebujeme jejich plány a nákresy na vırobu nìkolika vlastních. Pøines je a budeš moci navštívit Císaøe.}
-{162}{}{Máš to mít.}
-{163}{}{Zapomeò na to.}
-{164}{}{Opravdu nechceš podstoupit náš test?}
+{158}{}{NedÄ›lej ze mÄ› hlupÃ¡ka. VÃ­m, jak funguje "byznys". Kdysi jsem byl v New Renu.}
+{159}{}{DobÅ™e, jmenuju se}
+{160}{}{To je moje opravdovÃ© jmÃ©no! Nech mÄ› promluvit s CÃ­saÅ™em!}
+{161}{}{VÃ½bornÄ›. Toto po tobÄ› poÅ¾aduji: na sever odsud je malÃ¡ vojenskÃ¡ zÃ¡kladna, kterÃ¡ se jmenuje Navarro. Je tam spousta vertibirdÅ¯. PotÅ™ebujeme jejich plÃ¡ny a nÃ¡kresy na vÃ½robu nÄ›kolika vlastnÃ­ch. PÅ™ines je a budeÅ¡ moci navÅ¡tÃ­vit CÃ­saÅ™e.}
+{162}{}{MÃ¡Å¡ to mÃ­t.}
+{163}{}{ZapomeÅˆ na to.}
+{164}{}{Opravdu nechceÅ¡ podstoupit nÃ¡Å¡ test?}
 {165}{}{Ne.}
-{166}{}{No tak dobøe. Udìlám to.}
-{167}{}{Ztracení vesnièané? O nièem takovém nic nevím. Moná o nich ví Císaø.}
-{168}{}{Mám další otázky.}
-{169}{}{Dík. Naskle.}
-{170}{}{Musíš splnit druhı test: Hubologisté jsou našimi nepøáteli. Jejich vùdce, AHS-9, unáší a vymıvá mozky našim dìtem. Zabij ho pro dobro Shi a já ti øeknu, jak se dostat k Císaøovi.}
-{171}{}{Jako by u byl mrtvej.}
-{172}{}{Ne. Myslím, e ne.}
-{173}{}{Ne? To mì sice netìší, ale chápu to. Hodnì štìstí pøi svém úkolu. Pokud se rozhodneš jinak, víš, kde mì najít.}
-{174}{}{Jasnì. Mám další otázky.}
+{166}{}{No tak dobÅ™e. UdÄ›lÃ¡m to.}
+{167}{}{ZtracenÃ­ vesniÄanÃ©? O niÄem takovÃ©m nic nevÃ­m. MoÅ¾nÃ¡ o nich vÃ­ CÃ­saÅ™.}
+{168}{}{MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
+{169}{}{DÃ­k. Naskle.}
+{170}{}{MusÃ­Å¡ splnit druhÃ½ test: HubologistÃ© jsou naÅ¡imi nepÅ™Ã¡teli. Jejich vÅ¯dce, AHS-9, unÃ¡Å¡Ã­ a vymÃ½vÃ¡ mozky naÅ¡im dÄ›tem. Zabij ho pro dobro Shi a jÃ¡ ti Å™eknu, jak se dostat k CÃ­saÅ™ovi.}
+{171}{}{Jako by uÅ¾ byl mrtvej.}
+{172}{}{Ne. MyslÃ­m, Å¾e ne.}
+{173}{}{Ne? To mÄ› sice netÄ›Å¡Ã­, ale chÃ¡pu to. HodnÄ› Å¡tÄ›stÃ­ pÅ™i svÃ©m Ãºkolu. Pokud se rozhodneÅ¡ jinak, vÃ­Å¡, kde mÄ› najÃ­t.}
+{174}{}{JasnÄ›. MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
 {175}{}{Jo jo. Nashle.}
-{176}{}{Jsem celı nervózní z vısledku tvého pokusu. Hezkı den.}
-{177}{}{Hezkı den.}
-{178}{}{Kritizoval? Kadı hlupák, kterı to zkoumal, zjistil, e jsou základy mìsta Shi vytvoøené z trosek ponorky. Nemá smysl se dohadovat s tìmi, kteøí tvrdí nìco jiného.}
-{179}{}{Bereš to dost na lehkou váhu.}
-{180}{}{To tedy ano. A já s tìmito lidmi jednám kadı den. Bohuel!}
-{181}{}{Dobøe, mám další otázky.}
-{182}{}{Jo no, chudáku. Nashle.}
+{176}{}{Jsem celÃ½ nervÃ³znÃ­ z vÃ½sledku tvÃ©ho pokusu. HezkÃ½ den.}
+{177}{}{HezkÃ½ den.}
+{178}{}{Kritizoval? KaÅ¾dÃ½ hlupÃ¡k, kterÃ½ to zkoumal, zjistil, Å¾e jsou zÃ¡klady mÄ›sta Shi vytvoÅ™enÃ© z trosek ponorky. NemÃ¡ smysl se dohadovat s tÄ›mi, kteÅ™Ã­ tvrdÃ­ nÄ›co jinÃ©ho.}
+{179}{}{BereÅ¡ to dost na lehkou vÃ¡hu.}
+{180}{}{To tedy ano. A jÃ¡ s tÄ›mito lidmi jednÃ¡m kaÅ¾dÃ½ den. BohuÅ¾el!}
+{181}{}{DobÅ™e, mÃ¡m dalÅ¡Ã­ otÃ¡zky.}
+{182}{}{Jo no, chudÃ¡ku. Nashle.}
 {183}{}{You are certainly a worthy recipient of our fuel. I believe I can trust you with our secrets. In the back room, you will find that the force field to the large computer has been turned off. Enter the password "CSPDMSHR-Shih-huang-ti-X9372" and you will find yourself connected to the Emperor Computer. The Emperor will be able to direct our fuel to where you need it.}
-{184}{}{Díky.}
-{185}{}{Stráe! Je mezi námi nepøítel! Stráe!}
-{186}{}{Opravdu? Nechceš jít radìji proti nim? Slibuji ti naši pomoc, pokud souhlasíš, e zabiješ AHS-9. }
-{187}{}{Jako by u byl mrtvej.}
+{184}{}{DÃ­ky.}
+{185}{}{StrÃ¡Å¾e! Je mezi nÃ¡mi nepÅ™Ã­tel! StrÃ¡Å¾e!}
+{186}{}{Opravdu? NechceÅ¡ jÃ­t radÄ›ji proti nim? Slibuji ti naÅ¡i pomoc, pokud souhlasÃ­Å¡, Å¾e zabijeÅ¡ AHS-9. }
+{187}{}{Jako by uÅ¾ byl mrtvej.}
 {188}{}{Ne.}
-{189}{}{Vıbornì. Doufám, e brzy uslyším o tvém úspìchu.}
-{190}{}{To uslyšíš. Mám další otázky.}
-{191}{}{To uslyšíš. Nashle.}
-{192}{}{V takovém pøípadì se z tebe stává nepøítel. Hezkı den.}
-{193}{}{Hezkı den.}
-{194}{}{Po smrti Velkého a Hrozného AHS-9 u nebudou Hubologisté pøedstavovat ádnou hrozbu pro nás a naše vìdce. Dobrá práce. Máš naše díky. Chceš teï mluvit s Císaøem?}
+{189}{}{VÃ½bornÄ›. DoufÃ¡m, Å¾e brzy uslyÅ¡Ã­m o tvÃ©m ÃºspÄ›chu.}
+{190}{}{To uslyÅ¡Ã­Å¡. MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
+{191}{}{To uslyÅ¡Ã­Å¡. Nashle.}
+{192}{}{V takovÃ©m pÅ™Ã­padÄ› se z tebe stÃ¡vÃ¡ nepÅ™Ã­tel. HezkÃ½ den.}
+{193}{}{HezkÃ½ den.}
+{194}{}{Po smrti VelkÃ©ho a HroznÃ©ho AHS-9 uÅ¾ nebudou HubologistÃ© pÅ™edstavovat Å¾Ã¡dnou hrozbu pro nÃ¡s a naÅ¡e vÄ›dce. DobrÃ¡ prÃ¡ce. MÃ¡Å¡ naÅ¡e dÃ­ky. ChceÅ¡ teÄ mluvit s CÃ­saÅ™em?}
 {195}{}{Ano.}
-{196}{}{Teï ne. Chci se na nìco zeptat.}
-{197}{}{Dokázal jsi, e jsi pøítel Shi. Myslím, e ti mohu svìøit naše tajemství. V zadní místnosti najdeš silové pole k velkému poèítaèi, kterı byl vypnut. Zadej heslo "CSPDMSHR-Shih-huang-ti-X9372" a tím získáš pøístup k poèítaèi Císaøe. Doufám, e ti bude nápomocen.}
-{198}{}{Císaø je POÈÍTAÈ?}
-{199}{}{Rozumím. Díky.}
-{200}{}{Ano. Uchovává naše dìjiny, vızkum a budoucí moné projekty. Je to daleko lepší ne chybující èlovìk: pouze upravujeme jeho návrhy podle znalostí lidské rasy.}
-{201}{}{Já... chápu. No, díky za tvùj èas.}
-{202}{}{Naši zvìdové tvrdí, e jsi dal plány vertibirdu Hubologistùm. Ukradni je pro nás a my tì odmìníme.}
-{203}{}{Máš to mít. Mám nìjaké otázky.}
-{204}{}{Na to zapomeò.}
-{205}{}{Dìkuji ti za plány vertibirdu, cestovateli. Co pro tebe mohu udìlat?}
-{206}{}{Mám otázky.}
+{196}{}{TeÄ ne. Chci se na nÄ›co zeptat.}
+{197}{}{DokÃ¡zal jsi, Å¾e jsi pÅ™Ã­tel Shi. MyslÃ­m, Å¾e ti mohu svÄ›Å™it naÅ¡e tajemstvÃ­. V zadnÃ­ mÃ­stnosti najdeÅ¡ silovÃ© pole k velkÃ©mu poÄÃ­taÄi, kterÃ½ byl vypnut. Zadej heslo "CSPDMSHR-Shih-huang-ti-X9372" a tÃ­m zÃ­skÃ¡Å¡ pÅ™Ã­stup k poÄÃ­taÄi CÃ­saÅ™e. DoufÃ¡m, Å¾e ti bude nÃ¡pomocen.}
+{198}{}{CÃ­saÅ™ je POÄŒÃTAÄŒ?}
+{199}{}{RozumÃ­m. DÃ­ky.}
+{200}{}{Ano. UchovÃ¡vÃ¡ naÅ¡e dÄ›jiny, vÃ½zkum a budoucÃ­ moÅ¾nÃ© projekty. Je to daleko lepÅ¡Ã­ neÅ¾ chybujÃ­cÃ­ ÄlovÄ›k: pouze upravujeme jeho nÃ¡vrhy podle znalostÃ­ lidskÃ© rasy.}
+{201}{}{JÃ¡... chÃ¡pu. No, dÃ­ky za tvÅ¯j Äas.}
+{202}{}{NaÅ¡i zvÄ›dovÃ© tvrdÃ­, Å¾e jsi dal plÃ¡ny vertibirdu HubologistÅ¯m. Ukradni je pro nÃ¡s a my tÄ› odmÄ›nÃ­me.}
+{203}{}{MÃ¡Å¡ to mÃ­t. MÃ¡m nÄ›jakÃ© otÃ¡zky.}
+{204}{}{Na to zapomeÅˆ.}
+{205}{}{DÄ›kuji ti za plÃ¡ny vertibirdu, cestovateli. Co pro tebe mohu udÄ›lat?}
+{206}{}{MÃ¡m otÃ¡zky.}
 {207}{}{Eee... nic.}
-{208}{}{A získáš plány vertibirdu, dej je Dr. Wongovi Yi Tze. On u bude vìdìt co s nimi.}
-{209}{}{Dobøe. Mám další otázky.}
-{210}{}{Dobøe. Ahoj.}
-{211}{}{. Chci vidìt Císaøe.}
+{208}{}{AÅ¾ zÃ­skÃ¡Å¡ plÃ¡ny vertibirdu, dej je Dr. Wongovi Yi Tze. On uÅ¾ bude vÄ›dÄ›t co s nimi.}
+{209}{}{DobÅ™e. MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
+{210}{}{DobÅ™e. Ahoj.}
+{211}{}{. Chci vidÄ›t CÃ­saÅ™e.}
 {212}{}{.}
-{213}{}{Nezapomeò, musíš donést plány k Dr. Wongovi Yi Tze.}
-{214}{}{Vrátil ses, abys mì zase uráel? Myslím, e ne.}
-{215}{}{Jak jsem øekl, potøebuji znát tvé jméno.}
-{216}{}{Dobøe, jsem}
-{217}{}{Zapomeò na to, idiote!}
-{218}{}{Nezapomeò, Císaø oèekává smrt AHS-9.}
-{219}{}{Lituji, ale nemohu ti nabídnout naše palivo. Zkus si o tom promluvit s Císaøem.}
-{220}{}{To udìlám jak?}
-{221}{}{Mùu se ještì na nìco zeptat?}
-{222}{}{Rád bych ti nabídl palivo, ale naše sklady jsou bohuel prázdné. Hubologisté je nìjakım zpùsobem vyprázdnily. Moná se ti podaøí najít nìkoho, kdo ho vrátí zpìt.}
-{223}{}{Mùu u vidìt Císaøe?}
-{224}{}{Zdvoøile ti pøipomínám, e dokud nepøineseš plány vertibirdu Dr. Wongovi Yi Tze, tak ti nemohu povolit pøístup k Císaøi. Doufám, e to chápeš.}
-{500}{}{Okamitì odejdi, nebo zavolám stráe.}
-{501}{}{Ihned odejdi. Toto je druhé varování.}
-{502}{}{Tohle je poslední varování.}
-{503}{}{Stráe!}
-{1430}{}{Císaø zùstává skryt pøed zvídavımi pohledy. Mım úkolem je zastávat funkci Císaøovy pravé ruky. Nicménì se ti podaøilo prokázat, e jsi pøítelem Shi, take myslím, e ti mohu svìøit naše tajemství. V zadní místnosti najdeš vypnuté silové pole k velikému poèítaèi, kterı byl vypnut. Zadej heslo "CSPDMSHR-Shih-huang-ti-X9372" a tím získáš pøístup k poèítaèi Císaøe. Doufám, e ti bude nápomocen.}
-{2001}{}{Já... chápu. No, díky za tvùj èas. Musím zachránit svoji vesnici.}
+{213}{}{NezapomeÅˆ, musÃ­Å¡ donÃ©st plÃ¡ny k Dr. Wongovi Yi Tze.}
+{214}{}{VrÃ¡til ses, abys mÄ› zase urÃ¡Å¾el? MyslÃ­m, Å¾e ne.}
+{215}{}{Jak jsem Å™ekl, potÅ™ebuji znÃ¡t tvÃ© jmÃ©no.}
+{216}{}{DobÅ™e, jsem}
+{217}{}{ZapomeÅˆ na to, idiote!}
+{218}{}{NezapomeÅˆ, CÃ­saÅ™ oÄekÃ¡vÃ¡ smrt AHS-9.}
+{219}{}{Lituji, ale nemohu ti nabÃ­dnout naÅ¡e palivo. Zkus si o tom promluvit s CÃ­saÅ™em.}
+{220}{}{To udÄ›lÃ¡m jak?}
+{221}{}{MÅ¯Å¾u se jeÅ¡tÄ› na nÄ›co zeptat?}
+{222}{}{RÃ¡d bych ti nabÃ­dl palivo, ale naÅ¡e sklady jsou bohuÅ¾el prÃ¡zdnÃ©. HubologistÃ© je nÄ›jakÃ½m zpÅ¯sobem vyprÃ¡zdnily. MoÅ¾nÃ¡ se ti podaÅ™Ã­ najÃ­t nÄ›koho, kdo ho vrÃ¡tÃ­ zpÄ›t.}
+{223}{}{MÅ¯Å¾u uÅ¾ vidÄ›t CÃ­saÅ™e?}
+{224}{}{ZdvoÅ™ile ti pÅ™ipomÃ­nÃ¡m, Å¾e dokud nepÅ™ineseÅ¡ plÃ¡ny vertibirdu Dr. Wongovi Yi Tze, tak ti nemohu povolit pÅ™Ã­stup k CÃ­saÅ™i. DoufÃ¡m, Å¾e to chÃ¡peÅ¡.}
+{500}{}{OkamÅ¾itÄ› odejdi, nebo zavolÃ¡m strÃ¡Å¾e.}
+{501}{}{Ihned odejdi. Toto je druhÃ© varovÃ¡nÃ­.}
+{502}{}{Tohle je poslednÃ­ varovÃ¡nÃ­.}
+{503}{}{StrÃ¡Å¾e!}
+{1430}{}{CÃ­saÅ™ zÅ¯stÃ¡vÃ¡ skryt pÅ™ed zvÃ­davÃ½mi pohledy. MÃ½m Ãºkolem je zastÃ¡vat funkci CÃ­saÅ™ovy pravÃ© ruky. NicmÃ©nÄ› se ti podaÅ™ilo prokÃ¡zat, Å¾e jsi pÅ™Ã­telem Shi, takÅ¾e myslÃ­m, Å¾e ti mohu svÄ›Å™it naÅ¡e tajemstvÃ­. V zadnÃ­ mÃ­stnosti najdeÅ¡ vypnutÃ© silovÃ© pole k velikÃ©mu poÄÃ­taÄi, kterÃ½ byl vypnut. Zadej heslo "CSPDMSHR-Shih-huang-ti-X9372" a tÃ­m zÃ­skÃ¡Å¡ pÅ™Ã­stup k poÄÃ­taÄi CÃ­saÅ™e. DoufÃ¡m, Å¾e ti bude nÃ¡pomocen.}
+{2001}{}{JÃ¡... chÃ¡pu. No, dÃ­ky za tvÅ¯j Äas. MusÃ­m zachrÃ¡nit svoji vesnici.}

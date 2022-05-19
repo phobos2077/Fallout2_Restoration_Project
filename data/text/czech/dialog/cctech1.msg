@@ -1,50 +1,50 @@
-{100}{}{Vidíš technika.}
-{101}{}{Vidíš technika Enklávy.}
-{102}{}{Vidíš osobu v laboratorním plášti s kapsami plnımi propisek. Má takovı ten lehce zmatenı vıraz èlovìka, kterı je v práci novı.}
+{100}{}{VidÃ­Å¡ technika.}
+{101}{}{VidÃ­Å¡ technika EnklÃ¡vy.}
+{102}{}{VidÃ­Å¡ osobu v laboratornÃ­m plÃ¡Å¡ti s kapsami plnÃ½mi propisek. MÃ¡ takovÃ½ ten lehce zmatenÃ½ vÃ½raz ÄlovÄ›ka, kterÃ½ je v prÃ¡ci novÃ½.}
 {103}{}{Ano, pane?}
-{104}{}{Já tu novı. Potøebovat nìco zeptat.}
-{105}{}{Tak nashle. U muset jít.}
-{106}{}{Jsem tu novı. Potøeboval bych se zeptat na nìjaké vìci, abych se lépe seznámil se základnou.}
-{107}{}{Omlouvám se, e otravuju. Chtìl jsem tì jenom pozdravit.}
-{108}{}{Nepracuji tu dlouho, pane. Nevím, jestli vám budu moct zodpovìdìt všechny dotazy, ale pokusím se.}
-{109}{}{S èím ti mùu pomoct?}
-{110}{}{Co bıt tohle za místo?}
-{111}{}{Co bıt tvoje práce?}
-{112}{}{Kde bıt hlavní základna Enkláva?}
-{113}{}{Hledat plány vertibird. Kde najít?}
-{117}{}{Já muset jít.}
-{118}{}{Co je tohle za místo?}
-{119}{}{Co tu dìláš?}
-{120}{}{Kde se nachází hlavní základna Enklávy?}
-{121}{}{Potøebuju se podívat na plány vertibirdu. Kde jsou?}
-{125}{}{No nic. U musím jít.}
-{126}{}{Tohle je komunikaèní centrum. Navazujeme odtud všechny kontakty s hlavní základnou.}
-{127}{}{Aha. Ještì se zeptat.}
-{128}{}{Rozumím. Mám ještì nìjaké otázky.}
-{129}{}{Jsem technik komunikaèního centra druhé tøídy. Spojuji všechny hovory s hlavní základnou a zaøizuji potøebné vybavení.}
+{104}{}{JÃ¡ tu novÃ½. PotÅ™ebovat nÄ›co zeptat.}
+{105}{}{Tak nashle. UÅ¾ muset jÃ­t.}
+{106}{}{Jsem tu novÃ½. PotÅ™eboval bych se zeptat na nÄ›jakÃ© vÄ›ci, abych se lÃ©pe seznÃ¡mil se zÃ¡kladnou.}
+{107}{}{OmlouvÃ¡m se, Å¾e otravuju. ChtÄ›l jsem tÄ› jenom pozdravit.}
+{108}{}{Nepracuji tu dlouho, pane. NevÃ­m, jestli vÃ¡m budu moct zodpovÄ›dÄ›t vÅ¡echny dotazy, ale pokusÃ­m se.}
+{109}{}{S ÄÃ­m ti mÅ¯Å¾u pomoct?}
+{110}{}{Co bÃ½t tohle za mÃ­sto?}
+{111}{}{Co bÃ½t tvoje prÃ¡ce?}
+{112}{}{Kde bÃ½t hlavnÃ­ zÃ¡kladna EnklÃ¡va?}
+{113}{}{Hledat plÃ¡ny vertibird. Kde najÃ­t?}
+{117}{}{JÃ¡ muset jÃ­t.}
+{118}{}{Co je tohle za mÃ­sto?}
+{119}{}{Co tu dÄ›lÃ¡Å¡?}
+{120}{}{Kde se nachÃ¡zÃ­ hlavnÃ­ zÃ¡kladna EnklÃ¡vy?}
+{121}{}{PotÅ™ebuju se podÃ­vat na plÃ¡ny vertibirdu. Kde jsou?}
+{125}{}{No nic. UÅ¾ musÃ­m jÃ­t.}
+{126}{}{Tohle je komunikaÄnÃ­ centrum. Navazujeme odtud vÅ¡echny kontakty s hlavnÃ­ zÃ¡kladnou.}
+{127}{}{Aha. JeÅ¡tÄ› se zeptat.}
+{128}{}{RozumÃ­m. MÃ¡m jeÅ¡tÄ› nÄ›jakÃ© otÃ¡zky.}
+{129}{}{Jsem technik komunikaÄnÃ­ho centra druhÃ© tÅ™Ã­dy. Spojuji vÅ¡echny hovory s hlavnÃ­ zÃ¡kladnou a zaÅ™izuji potÅ™ebnÃ© vybavenÃ­.}
 {130}{}{Hmm... jo tak.}
-{131}{}{Vıbornì. Pøeju hodnì pracovních úspìchù.}
-{132}{}{Ty si ze mì dìláš srandu, e jo? }
-{133}{}{ádná sranda. Kde bıt základna?}
-{134}{}{Vypadám snad, e si dìlám legraci?}
-{135}{}{Hlavní základna se nachází na pobøeí Pacifiku poblí mìsta San Francisco. Mùu se zeptat, proè tì to zajímá?}
-{136}{}{Ne. Vojenské tajemství. Kolik zpùsoby dostat na základna?}
-{137}{}{Ne. To je vojenské tajemství. Kolika zpùsoby se na tu základnu dá dostat?}
-{138}{}{No... urèitì vertibirdem, samozøejmì, pak je tu monost pouít ten tanker, co kotví dole v San Franciscu a pak u jedinì pøeplavat.}
-{139}{}{Díky.}
-{140}{}{Díky.}
-{141}{}{Mìly by se nacházet na údrbì, hned vedle centra øízení dopravy.}
-{142}{}{Dobøe.}
-{143}{}{Chápu.}
-{153}{}{Jsi normální courat se tady okolo bez uniformy? Padej se rychle pøevlíct!}
+{131}{}{VÃ½bornÄ›. PÅ™eju hodnÄ› pracovnÃ­ch ÃºspÄ›chÅ¯.}
+{132}{}{Ty si ze mÄ› dÄ›lÃ¡Å¡ srandu, Å¾e jo? }
+{133}{}{Å½Ã¡dnÃ¡ sranda. Kde bÃ½t zÃ¡kladna?}
+{134}{}{VypadÃ¡m snad, Å¾e si dÄ›lÃ¡m legraci?}
+{135}{}{HlavnÃ­ zÃ¡kladna se nachÃ¡zÃ­ na pobÅ™eÅ¾Ã­ Pacifiku poblÃ­Å¾ mÄ›sta San Francisco. MÅ¯Å¾u se zeptat, proÄ tÄ› to zajÃ­mÃ¡?}
+{136}{}{Ne. VojenskÃ© tajemstvÃ­. Kolik zpÅ¯soby dostat na zÃ¡kladna?}
+{137}{}{Ne. To je vojenskÃ© tajemstvÃ­. Kolika zpÅ¯soby se na tu zÃ¡kladnu dÃ¡ dostat?}
+{138}{}{No... urÄitÄ› vertibirdem, samozÅ™ejmÄ›, pak je tu moÅ¾nost pouÅ¾Ã­t ten tanker, co kotvÃ­ dole v San Franciscu a pak uÅ¾ jedinÄ› pÅ™eplavat.}
+{139}{}{DÃ­ky.}
+{140}{}{DÃ­ky.}
+{141}{}{MÄ›ly by se nachÃ¡zet na ÃºdrÅ¾bÄ›, hned vedle centra Å™Ã­zenÃ­ dopravy.}
+{142}{}{DobÅ™e.}
+{143}{}{ChÃ¡pu.}
+{153}{}{Jsi normÃ¡lnÃ­ courat se tady okolo bez uniformy? Padej se rychle pÅ™evlÃ­ct!}
 {154}{}{If the sergeant catches you out of uniform he'll hand you your ass.}
-{155}{}{Proè na sobì nemáš uniformu? }
-{156}{}{Zatracenì! Byli jsme napadeni! Poplach!}
-{157}{}{Vetøelci! Zavolejte stráe!}
-{158}{}{Stráe! Vetøelci v komunikaèním centru!}
-{159}{}{Co se dìje? Jsme napadeni?}
-{160}{}{Proè ten poplach? Co se stalo?}
-{161}{}{Co se to sakra zase dìje?}
+{155}{}{ProÄ na sobÄ› nemÃ¡Å¡ uniformu? }
+{156}{}{ZatracenÄ›! Byli jsme napadeni! Poplach!}
+{157}{}{VetÅ™elci! Zavolejte strÃ¡Å¾e!}
+{158}{}{StrÃ¡Å¾e! VetÅ™elci v komunikaÄnÃ­m centru!}
+{159}{}{Co se dÄ›je? Jsme napadeni?}
+{160}{}{ProÄ ten poplach? Co se stalo?}
+{161}{}{Co se to sakra zase dÄ›je?}
 {162}{}{I'm just a tech, don't shoot me!}
-{163}{}{Já nejsem voják, vyznám se jen v technice!}
-{164}{}{Tohle je laboratorní oblek, ne zbroj! Já tu jen pracuju!}
+{163}{}{JÃ¡ nejsem vojÃ¡k, vyznÃ¡m se jen v technice!}
+{164}{}{Tohle je laboratornÃ­ oblek, ne zbroj! JÃ¡ tu jen pracuju!}

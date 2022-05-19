@@ -1,69 +1,69 @@
-{100}{}{Vidíš staøíka se známkami šílenství.}
-{101}{}{Vidíš Starého Joea, místního blázna.}
-{102}{}{Ahoj. Dlouho jsme se nevidìli.}
-{103}{}{My se známe?}
-{104}{}{Jo, jasnì. U to bude nìjaká doba. Co jsi celou tu dobu dìlal?}
-{105}{}{No, u to bude nìjaká doba. Co jsi celou tu dobu dìlal?}
-{106}{}{To a taky tamto. Odkud mì znáš?}
-{107}{}{Podívej, staøíku, vùbec nevím, kdo sakra jsi.}
-{108}{}{Jo, to teda. No, potuloval jsem se všude monì a nakonec jsem skonèil tady na tomhle bohem zapomenutım místì. U to není jako za starejch dobrejch èasù. U ne, kamaráde.}
-{109}{}{Jó, starı dobrı èasy. Vzpomínáš, jak jsme tenkrát...}
-{110}{}{U to není jako døív, to teda ne. Poslyš... co máme vlastnì spoleèného?}
-{111}{}{Ty si na mì nevzpomínáš, e ne? No, zdáš se mi trošku moc mladej.}
-{112}{}{Co se mi tím snaíš øíct?}
-{113}{}{Ale vypadáš tak povìdomì. Ach, moje oèi u nejsou to, co bıvaly. No nic, pøeju hezkej den.}
+{100}{}{VidÃ­Å¡ staÅ™Ã­ka se znÃ¡mkami Å¡Ã­lenstvÃ­.}
+{101}{}{VidÃ­Å¡ StarÃ©ho Joea, mÃ­stnÃ­ho blÃ¡zna.}
+{102}{}{Ahoj. Dlouho jsme se nevidÄ›li.}
+{103}{}{My se znÃ¡me?}
+{104}{}{Jo, jasnÄ›. UÅ¾ to bude nÄ›jakÃ¡ doba. Co jsi celou tu dobu dÄ›lal?}
+{105}{}{No, uÅ¾ to bude nÄ›jakÃ¡ doba. Co jsi celou tu dobu dÄ›lal?}
+{106}{}{To a taky tamto. Odkud mÄ› znÃ¡Å¡?}
+{107}{}{PodÃ­vej, staÅ™Ã­ku, vÅ¯bec nevÃ­m, kdo sakra jsi.}
+{108}{}{Jo, to teda. No, potuloval jsem se vÅ¡ude moÅ¾nÄ› a nakonec jsem skonÄil tady na tomhle bohem zapomenutÃ½m mÃ­stÄ›. UÅ¾ to nenÃ­ jako za starejch dobrejch ÄasÅ¯. UÅ¾ ne, kamarÃ¡de.}
+{109}{}{JÃ³, starÃ½ dobrÃ½ Äasy. VzpomÃ­nÃ¡Å¡, jak jsme tenkrÃ¡t...}
+{110}{}{UÅ¾ to nenÃ­ jako dÅ™Ã­v, to teda ne. PoslyÅ¡... co mÃ¡me vlastnÄ› spoleÄnÃ©ho?}
+{111}{}{Ty si na mÄ› nevzpomÃ­nÃ¡Å¡, Å¾e ne? No, zdÃ¡Å¡ se mi troÅ¡ku moc mladej.}
+{112}{}{Co se mi tÃ­m snaÅ¾Ã­Å¡ Å™Ã­ct?}
+{113}{}{Ale vypadÃ¡Å¡ tak povÄ›domÄ›. Ach, moje oÄi uÅ¾ nejsou to, co bÃ½valy. No nic, pÅ™eju hezkej den.}
 {114}{}{Eh, jo... sbohem.}
-{115}{}{Jo, udìlali jsme Vùdci ze ivota peklo, e jo? Ale po tvım odchodu to šlo pìknì do sraèek. Musel jsem se pøestìhovat a zmìnit si jméno. Co se stalo s tebou?}
-{116}{}{Uíval jsem si ivota v jedné malé vesnièce.}
-{117}{}{No, radši si tu dávej na sebe bacha. U to není taková sranda jako døív. Radši si hlídej zadek.}
-{118}{}{Dobøe, díky.}
-{119}{}{Jo, chvíli jsem hledal ten tvùj Vault, ale nikdy jsem ho nenašel. Máš nìjakı zajímavı historky pro svıho starıho pøítele Iana?}
+{115}{}{Jo, udÄ›lali jsme VÅ¯dci ze Å¾ivota peklo, Å¾e jo? Ale po tvÃ½m odchodu to Å¡lo pÄ›knÄ› do sraÄek. Musel jsem se pÅ™estÄ›hovat a zmÄ›nit si jmÃ©no. Co se stalo s tebou?}
+{116}{}{UÅ¾Ã­val jsem si Å¾ivota v jednÃ© malÃ© vesniÄce.}
+{117}{}{No, radÅ¡i si tu dÃ¡vej na sebe bacha. UÅ¾ to nenÃ­ takovÃ¡ sranda jako dÅ™Ã­v. RadÅ¡i si hlÃ­dej zadek.}
+{118}{}{DobÅ™e, dÃ­ky.}
+{119}{}{Jo, chvÃ­li jsem hledal ten tvÅ¯j Vault, ale nikdy jsem ho nenaÅ¡el. MÃ¡Å¡ nÄ›jakÃ½ zajÃ­mavÃ½ historky pro svÃ½ho starÃ½ho pÅ™Ã­tele Iana?}
 {120}{}{Iana?}
-{121}{}{Jo, Ian. Nevzpomínáš si na mì? U je to pár let. Èlovìk by si myslel, e se nedá zapomenout na svıho nejlepšího kámoše. Teda... a na to støílení do zad. Za to se ti ještì jednou omlouvám.}
-{122}{}{Promiò, ale ty si nejspíš myslíš, e jsem Zakladatel. Moje vesnice byla zaloena èlovìkem, kterı pocházel z Vaultu.}
-{123}{}{Aha, tak teï u to dává trošku vìtší smysl. No, jsem rád, e mìl mùj pøítel dobrej ivot. Starej Ian má pro tebe radu. Dávej tam venku na sebe pozor. Tohle místo není tak skvìlı, jak se zdá. }
-{124}{}{Co se tady dìje?}
-{125}{}{No, Obèané Vault City si o sobì hodnì myslí a moc se nezajímají o lidi, jako jsem já nebo ty. Tohle si vezmi. Ochrání tì, kdy se vìci trochu vymknou z ruky. Poslyš, asi by tì nemìli vidìt, jak mluvíš se starım šílencem, take bude lepší, kdy u pùjdeš.}
-{126}{}{Díky za pomoc. Nashle.}
-{127}{}{Nech starıho mue odpoèívat.}
-{128}{}{Vypadáš tak povìdomì...}
-{129}{}{Nech mì teï o samotì.}
-{130}{}{Radši odejdi.}
-{131}{}{Budou tì podezírat, jestli spolu budeme dál mluvit.}
-{132}{}{Bì u. A je na tebe mùj starı pøítel hrdej.}
-{133}{}{Díky. Vlastnì ještì jedna vìc. Snaím se pomoct jedné malé vesnici severovıchodnì odsud. Chlapík jménem Connar mi øekl, a tì vyhledám a promluvím si s tebou.}
-{134}{}{Connar, jo? To je dobrej chlap. Dohlíím tu pro nìj na nìjakı vìci. Take co vlastnì Connar chce?}
-{135}{}{Snaí se získat nìjaké zbranì. Myslí si, e by s nimi dokázali odráet hlídky Vault City.}
-{136}{}{Aha, take to je ten jeho novej plán, jo? V tom pøípadì zajdi do obchodu na Pøedmìstí a promluv si s Harrym. Øekni mu, e tì posílá Connar a on u ti pomùe. Mám pocit, e si pro takovı pøípady pár zbraní schovává, ale nejsem si tak úplnì jistej, jestli je to ten nejlepší zpùsob, jak øešit problémy.}
-{137}{}{Dobøe, pùjdu si promluvit s Harrym. Mìj se, starej brachu.}
-{138}{}{Proè? Co tím myslíš?}
-{139}{}{Connar a jeho lidi maj silnıho bojovnıho ducha, ale v tomhle pøípadì to nebude staèit. Vault City má takøka neomezenı prostøedky a nakonec by stejnì vyhráli. Nìkdy je lepší si o tom s nìkım promluvit a pokusit se to vyøešit diplomaticky. Pøesnì to jsem se nauèil od svıho starıho pøítele Zakladatele. Vrchní èlen rady Vault City McClure se zdá bejt jako rozumnej èlovìk. Tøeba by s ním bylo monı uzavøít nìjakou dohodu.}
-{140}{}{Hmm... moná o tom popøemıšlím. Díky za všechno. Nashle.}
-{141}{}{V tom pøípadì si s ním moná pùjdu promluvit. Nicménì by mì zajímali ti krtèí potkani, co ochraòují vesnici.}
+{121}{}{Jo, Ian. NevzpomÃ­nÃ¡Å¡ si na mÄ›? UÅ¾ je to pÃ¡r let. ÄŒlovÄ›k by si myslel, Å¾e se nedÃ¡ zapomenout na svÃ½ho nejlepÅ¡Ã­ho kÃ¡moÅ¡e. Teda... aÅ¾ na to stÅ™Ã­lenÃ­ do zad. Za to se ti jeÅ¡tÄ› jednou omlouvÃ¡m.}
+{122}{}{PromiÅˆ, ale ty si nejspÃ­Å¡ myslÃ­Å¡, Å¾e jsem Zakladatel. Moje vesnice byla zaloÅ¾ena ÄlovÄ›kem, kterÃ½ pochÃ¡zel z Vaultu.}
+{123}{}{Aha, tak teÄ uÅ¾ to dÃ¡vÃ¡ troÅ¡ku vÄ›tÅ¡Ã­ smysl. No, jsem rÃ¡d, Å¾e mÄ›l mÅ¯j pÅ™Ã­tel dobrej Å¾ivot. Starej Ian mÃ¡ pro tebe radu. DÃ¡vej tam venku na sebe pozor. Tohle mÃ­sto nenÃ­ tak skvÄ›lÃ½, jak se zdÃ¡. }
+{124}{}{Co se tady dÄ›je?}
+{125}{}{No, ObÄanÃ© Vault City si o sobÄ› hodnÄ› myslÃ­ a moc se nezajÃ­majÃ­ o lidi, jako jsem jÃ¡ nebo ty. Tohle si vezmi. OchrÃ¡nÃ­ tÄ›, kdyÅ¾ se vÄ›ci trochu vymknou z ruky. PoslyÅ¡, asi by tÄ› nemÄ›li vidÄ›t, jak mluvÃ­Å¡ se starÃ½m Å¡Ã­lencem, takÅ¾e bude lepÅ¡Ã­, kdyÅ¾ uÅ¾ pÅ¯jdeÅ¡.}
+{126}{}{DÃ­ky za pomoc. Nashle.}
+{127}{}{Nech starÃ½ho muÅ¾e odpoÄÃ­vat.}
+{128}{}{VypadÃ¡Å¡ tak povÄ›domÄ›...}
+{129}{}{Nech mÄ› teÄ o samotÄ›.}
+{130}{}{RadÅ¡i odejdi.}
+{131}{}{Budou tÄ› podezÃ­rat, jestli spolu budeme dÃ¡l mluvit.}
+{132}{}{BÄ›Å¾ uÅ¾. AÅ¥ je na tebe mÅ¯j starÃ½ pÅ™Ã­tel hrdej.}
+{133}{}{DÃ­ky. VlastnÄ› jeÅ¡tÄ› jedna vÄ›c. SnaÅ¾Ã­m se pomoct jednÃ© malÃ© vesnici severovÃ½chodnÄ› odsud. ChlapÃ­k jmÃ©nem Connar mi Å™ekl, aÅ¥ tÄ› vyhledÃ¡m a promluvÃ­m si s tebou.}
+{134}{}{Connar, jo? To je dobrej chlap. DohlÃ­Å¾Ã­m tu pro nÄ›j na nÄ›jakÃ½ vÄ›ci. TakÅ¾e co vlastnÄ› Connar chce?}
+{135}{}{SnaÅ¾Ã­ se zÃ­skat nÄ›jakÃ© zbranÄ›. MyslÃ­ si, Å¾e by s nimi dokÃ¡zali odrÃ¡Å¾et hlÃ­dky Vault City.}
+{136}{}{Aha, takÅ¾e to je ten jeho novej plÃ¡n, jo? V tom pÅ™Ã­padÄ› zajdi do obchodu na PÅ™edmÄ›stÃ­ a promluv si s Harrym. Å˜ekni mu, Å¾e tÄ› posÃ­lÃ¡ Connar a on uÅ¾ ti pomÅ¯Å¾e. MÃ¡m pocit, Å¾e si pro takovÃ½ pÅ™Ã­pady pÃ¡r zbranÃ­ schovÃ¡vÃ¡, ale nejsem si tak ÃºplnÄ› jistej, jestli je to ten nejlepÅ¡Ã­ zpÅ¯sob, jak Å™eÅ¡it problÃ©my.}
+{137}{}{DobÅ™e, pÅ¯jdu si promluvit s Harrym. MÄ›j se, starej brachu.}
+{138}{}{ProÄ? Co tÃ­m myslÃ­Å¡?}
+{139}{}{Connar a jeho lidi maj silnÃ½ho bojovnÃ½ho ducha, ale v tomhle pÅ™Ã­padÄ› to nebude staÄit. Vault City mÃ¡ takÅ™ka neomezenÃ½ prostÅ™edky a nakonec by stejnÄ› vyhrÃ¡li. NÄ›kdy je lepÅ¡Ã­ si o tom s nÄ›kÃ½m promluvit a pokusit se to vyÅ™eÅ¡it diplomaticky. PÅ™esnÄ› to jsem se nauÄil od svÃ½ho starÃ½ho pÅ™Ã­tele Zakladatele. VrchnÃ­ Älen rady Vault City McClure se zdÃ¡ bejt jako rozumnej ÄlovÄ›k. TÅ™eba by s nÃ­m bylo moÅ¾nÃ½ uzavÅ™Ã­t nÄ›jakou dohodu.}
+{140}{}{Hmm... moÅ¾nÃ¡ o tom popÅ™emÃ½Å¡lÃ­m. DÃ­ky za vÅ¡echno. Nashle.}
+{141}{}{V tom pÅ™Ã­padÄ› si s nÃ­m moÅ¾nÃ¡ pÅ¯jdu promluvit. NicmÃ©nÄ› by mÄ› zajÃ­mali ti krtÄÃ­ potkani, co ochraÅˆujÃ­ vesnici.}
 {142}{}{Jo, co je s nimi?}
-{143}{}{Nevíš, odkud jsou nebo kdo je ovládá?}
-{144}{}{Tak to nevím. Pøišla s nimi parta ghoulù. Nosili divnı amulety a mluvili o nìjakı "Obrodì". Víc nevím. Moná by bylo lepší se zeptat v Gecku. Je to tam plnı ghoulù. Kdy u tak mluvíme o velkejch krysách, u jsem ti povídal, jak jsme tenkrát se Zakladatelem šli do Vaultu 15?}
-{145}{}{Ne, ale ten pøíbìh velmi dobøe znám, jeliko se stal v mém kmeni svatou legendou. Moná se pùjdu podívat do Gecka a tøeba se mi nìco podaøí zjistit. Mìj se, Iane.}
-{146}{}{Eh, díky za tip. Ale myslím, e jsi pøesnì ten mu, kterého hledám. Connar mì posílá kvùli jedné záleitosti.}
-{147}{}{Tak moment! Connar mi øíkal, e máš nìjaké informace.}
-{148}{}{Ne, ale ten pøíbìh velmi dobøe znám, jeliko se stal v mém kmeni svatou legendou. Moná se pùjdu podívat do Gecka a tøeba se mi nìco podaøí zjistit. Mìj se.}
-{150}{}{Má zájem o nìjakou vızbroj, aby mohli odrazit hlídky Vault City, ale podaøilo se mi ho pøesvìdèit, e existuje i lepší øešení.}
-{151}{}{Aha, take to je ten jeho novej plán, jo? Jó, Connar je dobrej chlap, ale ne vdycky všechno promyslí. Nìkdy je jlepší si o tom s nìkım promluvit a pokusit se to vyøešit diplomaticky. Pøesnì to jsem se nauèil od svıho starıho pøítele Zakladatele.}
-{152}{}{Nemáš tušení, s kım v radì si o tom mùu promluvit?}
-{153}{}{Myslím, e starší èlen rady McClure by mohl bıt tím muem. Co myslíš?}
-{154}{}{Starší èlen rady Vault City, McClure, je rozumnej èlovìk. Moná by s ním bylo monı uzavøít nìjakou dohodu.}
-{155}{}{Dobøe. Zkusím si s ním promluvit. Nashle.}
-{156}{}{V tom pøípadì si s ním moná pùjdu promluvit. Nicménì by mì zajímali ti krtèí potkani, co ochraòují vesnici.}
-{157}{}{Je tvoje nejvìtší nadìje. Je v mìstskı radì jedinej, komu ještì zbyl zdravej rozum.}
-{158}{}{Dobøe. Zkusím si s ním promluvit. Nashle.}
-{159}{}{V tom pøípadì si s ním promluvím. Ale zajímali by mì ti krtèí potkani, co ochraòují vesnici.}
-{200}{}{Poslyš, jestli jsi opravdu ten Ian, kterı cestoval s mım pøedkem, pak mám na tebe otázku.}
-{201}{}{Dobøe, poslouchám.}
-{202}{}{Jak je sakra moné, e jsi ještì naivu? Musí ti bıt pøes sto let. Navíc je v pamìtech Zakladatele zmínka o tom, e tì v Necropolisu seehl supermutant s plamenometem.}
-{203}{}{(Chvíli se chraplavì smìje, poté se uklidní a setøe si z oèí nìkolik slz.) No, to je teda síla. Seehnutej plamenometem, haha! Víš, øekl jsem Vyvolenımu, aby si vymyslel nìjakej pøíbìh o mı smrti, paè jsem nechtìl, aby se mì nìjací staøí nepøátelé pokusili zabít. Proto jsem si zmìnil jméno. Øekl jsem mu, aby si o mì vymyslel nìco hrdinskıho a zdá se, e to vzal doslova. Haha, to se mi líbí.}
-{204}{}{Hehe, tím se to asi vysvìtluje. Ale zajímali by mì ti krtèí potkani, co ochraòují vesnici.}
-{205}{}{To stále nevysvìtluje, jak je moné, e jsi naivu i po tolika letech.}
-{206}{}{Hele, jsem z toho zmatenej stejnì jako ty. Kdo ví? Tøeba to má nìco spoleènıho s tou radiací, kterı jsem byl kdysi vystavenej. Kdy jsme byli v Kráteru, tak do sebe Zakladatel cpal jeden Rad-X za druhım, jako by to byly lentilky, ale myslíš, e nabídl starımu Ianovi? Jasnì e ne. Myslím, e byl poøád naštvanej kvùli tomu, jak jsem ho omylem párkrát postøelil. Hehe. (Povzdychne si.) To byly skvìlı èasy.}
-{207}{}{To urèitì byly. Díky za pøíbìh, Joe, eh, Iane. Mìj se.}
-{208}{}{To urèitì byly. Díky za pøíbìh, Joe, eh, Iane. Ale zajímali by mì ti krtèí potkani, co ochraòují vesnici.}
-{300}{}{Tak moment! Ty jsi ten kontakt ve Vault City, o kterém Connar mluvil?}
+{143}{}{NevÃ­Å¡, odkud jsou nebo kdo je ovlÃ¡dÃ¡?}
+{144}{}{Tak to nevÃ­m. PÅ™iÅ¡la s nimi parta ghoulÅ¯. Nosili divnÃ½ amulety a mluvili o nÄ›jakÃ½ "ObrodÄ›". VÃ­c nevÃ­m. MoÅ¾nÃ¡ by bylo lepÅ¡Ã­ se zeptat v Gecku. Je to tam plnÃ½ ghoulÅ¯. KdyÅ¾ uÅ¾ tak mluvÃ­me o velkejch krysÃ¡ch, uÅ¾ jsem ti povÃ­dal, jak jsme tenkrÃ¡t se Zakladatelem Å¡li do Vaultu 15?}
+{145}{}{Ne, ale ten pÅ™Ã­bÄ›h velmi dobÅ™e znÃ¡m, jelikoÅ¾ se stal v mÃ©m kmeni svatou legendou. MoÅ¾nÃ¡ se pÅ¯jdu podÃ­vat do Gecka a tÅ™eba se mi nÄ›co podaÅ™Ã­ zjistit. MÄ›j se, Iane.}
+{146}{}{Eh, dÃ­ky za tip. Ale myslÃ­m, Å¾e jsi pÅ™esnÄ› ten muÅ¾, kterÃ©ho hledÃ¡m. Connar mÄ› posÃ­lÃ¡ kvÅ¯li jednÃ© zÃ¡leÅ¾itosti.}
+{147}{}{Tak moment! Connar mi Å™Ã­kal, Å¾e mÃ¡Å¡ nÄ›jakÃ© informace.}
+{148}{}{Ne, ale ten pÅ™Ã­bÄ›h velmi dobÅ™e znÃ¡m, jelikoÅ¾ se stal v mÃ©m kmeni svatou legendou. MoÅ¾nÃ¡ se pÅ¯jdu podÃ­vat do Gecka a tÅ™eba se mi nÄ›co podaÅ™Ã­ zjistit. MÄ›j se.}
+{150}{}{MÃ¡ zÃ¡jem o nÄ›jakou vÃ½zbroj, aby mohli odrazit hlÃ­dky Vault City, ale podaÅ™ilo se mi ho pÅ™esvÄ›dÄit, Å¾e existuje i lepÅ¡Ã­ Å™eÅ¡enÃ­.}
+{151}{}{Aha, takÅ¾e to je ten jeho novej plÃ¡n, jo? JÃ³, Connar je dobrej chlap, ale ne vÅ¾dycky vÅ¡echno promyslÃ­. NÄ›kdy je jlepÅ¡Ã­ si o tom s nÄ›kÃ½m promluvit a pokusit se to vyÅ™eÅ¡it diplomaticky. PÅ™esnÄ› to jsem se nauÄil od svÃ½ho starÃ½ho pÅ™Ã­tele Zakladatele.}
+{152}{}{NemÃ¡Å¡ tuÅ¡enÃ­, s kÃ½m v radÄ› si o tom mÅ¯Å¾u promluvit?}
+{153}{}{MyslÃ­m, Å¾e starÅ¡Ã­ Älen rady McClure by mohl bÃ½t tÃ­m muÅ¾em. Co myslÃ­Å¡?}
+{154}{}{StarÅ¡Ã­ Älen rady Vault City, McClure, je rozumnej ÄlovÄ›k. MoÅ¾nÃ¡ by s nÃ­m bylo moÅ¾nÃ½ uzavÅ™Ã­t nÄ›jakou dohodu.}
+{155}{}{DobÅ™e. ZkusÃ­m si s nÃ­m promluvit. Nashle.}
+{156}{}{V tom pÅ™Ã­padÄ› si s nÃ­m moÅ¾nÃ¡ pÅ¯jdu promluvit. NicmÃ©nÄ› by mÄ› zajÃ­mali ti krtÄÃ­ potkani, co ochraÅˆujÃ­ vesnici.}
+{157}{}{Je tvoje nejvÄ›tÅ¡Ã­ nadÄ›je. Je v mÄ›stskÃ½ radÄ› jedinej, komu jeÅ¡tÄ› zbyl zdravej rozum.}
+{158}{}{DobÅ™e. ZkusÃ­m si s nÃ­m promluvit. Nashle.}
+{159}{}{V tom pÅ™Ã­padÄ› si s nÃ­m promluvÃ­m. Ale zajÃ­mali by mÄ› ti krtÄÃ­ potkani, co ochraÅˆujÃ­ vesnici.}
+{200}{}{PoslyÅ¡, jestli jsi opravdu ten Ian, kterÃ½ cestoval s mÃ½m pÅ™edkem, pak mÃ¡m na tebe otÃ¡zku.}
+{201}{}{DobÅ™e, poslouchÃ¡m.}
+{202}{}{Jak je sakra moÅ¾nÃ©, Å¾e jsi jeÅ¡tÄ› naÅ¾ivu? MusÃ­ ti bÃ½t pÅ™es sto let. NavÃ­c je v pamÄ›tech Zakladatele zmÃ­nka o tom, Å¾e tÄ› v Necropolisu seÅ¾ehl supermutant s plamenometem.}
+{203}{}{(ChvÃ­li se chraplavÄ› smÄ›je, potÃ© se uklidnÃ­ a setÅ™e si z oÄÃ­ nÄ›kolik slz.) No, to je teda sÃ­la. SeÅ¾ehnutej plamenometem, haha! VÃ­Å¡, Å™ekl jsem VyvolenÃ½mu, aby si vymyslel nÄ›jakej pÅ™Ã­bÄ›h o mÃ½ smrti, paÄ jsem nechtÄ›l, aby se mÄ› nÄ›jacÃ­ staÅ™Ã­ nepÅ™Ã¡telÃ© pokusili zabÃ­t. Proto jsem si zmÄ›nil jmÃ©no. Å˜ekl jsem mu, aby si o mÄ› vymyslel nÄ›co hrdinskÃ½ho a zdÃ¡ se, Å¾e to vzal doslova. Haha, to se mi lÃ­bÃ­.}
+{204}{}{Hehe, tÃ­m se to asi vysvÄ›tluje. Ale zajÃ­mali by mÄ› ti krtÄÃ­ potkani, co ochraÅˆujÃ­ vesnici.}
+{205}{}{To stÃ¡le nevysvÄ›tluje, jak je moÅ¾nÃ©, Å¾e jsi naÅ¾ivu i po tolika letech.}
+{206}{}{Hele, jsem z toho zmatenej stejnÄ› jako ty. Kdo vÃ­? TÅ™eba to mÃ¡ nÄ›co spoleÄnÃ½ho s tou radiacÃ­, kterÃ½ jsem byl kdysi vystavenej. KdyÅ¾ jsme byli v KrÃ¡teru, tak do sebe Zakladatel cpal jeden Rad-X za druhÃ½m, jako by to byly lentilky, ale myslÃ­Å¡, Å¾e nabÃ­dl starÃ½mu Ianovi? JasnÄ› Å¾e ne. MyslÃ­m, Å¾e byl poÅ™Ã¡d naÅ¡tvanej kvÅ¯li tomu, jak jsem ho omylem pÃ¡rkrÃ¡t postÅ™elil. Hehe. (Povzdychne si.) To byly skvÄ›lÃ½ Äasy.}
+{207}{}{To urÄitÄ› byly. DÃ­ky za pÅ™Ã­bÄ›h, Joe, eh, Iane. MÄ›j se.}
+{208}{}{To urÄitÄ› byly. DÃ­ky za pÅ™Ã­bÄ›h, Joe, eh, Iane. Ale zajÃ­mali by mÄ› ti krtÄÃ­ potkani, co ochraÅˆujÃ­ vesnici.}
+{300}{}{Tak moment! Ty jsi ten kontakt ve Vault City, o kterÃ©m Connar mluvil?}

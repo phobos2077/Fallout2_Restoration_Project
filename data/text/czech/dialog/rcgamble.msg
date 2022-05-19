@@ -1,54 +1,54 @@
-{100}{}{Vidíš gamblera.}
-{101}{}{Vidíš gamblera, kterı doufá, e vyhraje peníze.}
-{102}{}{Vidíš nervóznì vzrušenou osobu hrající o peníze.}
-{103}{}{No ták, dìcko potøebuje novı boty.}
+{100}{}{VidÃ­Å¡ gamblera.}
+{101}{}{VidÃ­Å¡ gamblera, kterÃ½ doufÃ¡, Å¾e vyhraje penÃ­ze.}
+{102}{}{VidÃ­Å¡ nervÃ³znÄ› vzruÅ¡enou osobu hrajÃ­cÃ­ o penÃ­ze.}
+{103}{}{No tÃ¡k, dÄ›cko potÅ™ebuje novÃ½ boty.}
 {104}{}{Jo, to je ono!}
 {105}{}{A do prdele!}
-{106}{}{Proè já?}
-{107}{}{Nemá nìkdo drobnı?}
-{108}{}{Tentokrát to u urèitì vyjde.}
-{109}{}{Mùj systém vdycky funguje.}
-{110}{}{Tenhle systém je na prd!}
-{111}{}{Taková zlodìjna!}
-{112}{}{Jsem nejšastnìjší èlovìk na svìtì!}
-{113}{}{Co jsem komu udìlal?}
-{114}{}{Do háje!}
-{115}{}{Juhùùù!}
-{116}{}{Jupíííííííí!}
-{117}{}{Ještì nikdy pøedtím jsem nevidìl nikoho, kdo by mìl takovı štìstí.}
-{118}{}{To se mi snad jen *zdá*.}
-{119}{}{Doufám, e u nevyhraješ.}
-{120}{}{Kolik je limit sázek?}
+{106}{}{ProÄ jÃ¡?}
+{107}{}{NemÃ¡ nÄ›kdo drobnÃ½?}
+{108}{}{TentokrÃ¡t to uÅ¾ urÄitÄ› vyjde.}
+{109}{}{MÅ¯j systÃ©m vÅ¾dycky funguje.}
+{110}{}{Tenhle systÃ©m je na prd!}
+{111}{}{TakovÃ¡ zlodÄ›jna!}
+{112}{}{Jsem nejÅ¡Å¥astnÄ›jÅ¡Ã­ ÄlovÄ›k na svÄ›tÄ›!}
+{113}{}{Co jsem komu udÄ›lal?}
+{114}{}{Do hÃ¡je!}
+{115}{}{JuhÅ¯Å¯Å¯!}
+{116}{}{JupÃ­Ã­Ã­Ã­Ã­Ã­Ã­Ã­!}
+{117}{}{JeÅ¡tÄ› nikdy pÅ™edtÃ­m jsem nevidÄ›l nikoho, kdo by mÄ›l takovÃ½ Å¡tÄ›stÃ­.}
+{118}{}{To se mi snad jen *zdÃ¡*.}
+{119}{}{DoufÃ¡m, Å¾e uÅ¾ nevyhrajeÅ¡.}
+{120}{}{Kolik je limit sÃ¡zek?}
 {121}{}{Opravdu je to podle pravidel?}
-{122}{}{Jo, no jasnì.}
-{123}{}{Necháme ji pìknì jet.}
-{124}{}{Pøíštì vsadím dvojnásobek.}
-{125}{}{Prosím, prosím...}
-{126}{}{A mám po baráku.}
-{127}{}{A mám po pozemku.}
-{128}{}{Potøebuju ještì nìjakı peníze.}
-{129}{}{Teï u budu mít koneènì štìstí. Cítím to.}
-{130}{}{Kde je moje šastná geckoní packa, kdy ji potøebuju?}
-{131}{}{Co chceš?}
+{122}{}{Jo, no jasnÄ›.}
+{123}{}{NechÃ¡me ji pÄ›knÄ› jet.}
+{124}{}{PÅ™Ã­Å¡tÄ› vsadÃ­m dvojnÃ¡sobek.}
+{125}{}{ProsÃ­m, prosÃ­m...}
+{126}{}{A mÃ¡m po barÃ¡ku.}
+{127}{}{A mÃ¡m po pozemku.}
+{128}{}{PotÅ™ebuju jeÅ¡tÄ› nÄ›jakÃ½ penÃ­ze.}
+{129}{}{TeÄ uÅ¾ budu mÃ­t koneÄnÄ› Å¡tÄ›stÃ­. CÃ­tÃ­m to.}
+{130}{}{Kde je moje Å¡Å¥astnÃ¡ geckonÃ­ packa, kdyÅ¾ ji potÅ™ebuju?}
+{131}{}{Co chceÅ¡?}
 {132}{}{Uhni, vole.}
-{133}{}{Hej, ještì mi pøineseš smùlu.}
-{134}{}{Neèum na mì tak ošklivì.}
-{135}{}{Hele, pøinášíš štìstí.}
-{136}{}{Mùu tì pohladit po hlavì? Pro štìstí.}
-{137}{}{Foukni mi na tyhle kostky, kámo.}
+{133}{}{Hej, jeÅ¡tÄ› mi pÅ™ineseÅ¡ smÅ¯lu.}
+{134}{}{NeÄum na mÄ› tak oÅ¡klivÄ›.}
+{135}{}{Hele, pÅ™inÃ¡Å¡Ã­Å¡ Å¡tÄ›stÃ­.}
+{136}{}{MÅ¯Å¾u tÄ› pohladit po hlavÄ›? Pro Å¡tÄ›stÃ­.}
+{137}{}{Foukni mi na tyhle kostky, kÃ¡mo.}
 {138}{}{Hrej nebo padej.}
-{139}{}{Tohle není hra pro diváky, kámo.}
-{140}{}{Doufám, e nezmìníš kurzy.}
-{141}{}{Tenhle stùl pøináší smùlu.}
-{142}{}{Tenhle stùl pøináší štìstí.}
-{143}{}{Ještì pár babek a mizím odsud. A teï u to myslím vánì.}
-{144}{}{Netlaè se tak na mì.}
-{145}{}{Vidìl jsi to?}
-{146}{}{To je takovı štìstí, e u tomu pøestávám vìøit.}
-{147}{}{Dobrá hra, nemyslíš?}
-{148}{}{Dneska mám štìstí.}
-{149}{}{Tentokrát to bude jinı.}
-{150}{}{Nechápu, jak mùou lidi hrát na náhodu.}
-{151}{}{Je to jen o zkušenostech, to ti povídám.}
-{152}{}{Zùstaò vzadu a dívej se, jak se to hraje.}
-{153}{}{Chystáme se zruinovat tuhle hernu, vím to.}
+{139}{}{Tohle nenÃ­ hra pro divÃ¡ky, kÃ¡mo.}
+{140}{}{DoufÃ¡m, Å¾e nezmÄ›nÃ­Å¡ kurzy.}
+{141}{}{Tenhle stÅ¯l pÅ™inÃ¡Å¡Ã­ smÅ¯lu.}
+{142}{}{Tenhle stÅ¯l pÅ™inÃ¡Å¡Ã­ Å¡tÄ›stÃ­.}
+{143}{}{JeÅ¡tÄ› pÃ¡r babek a mizÃ­m odsud. A teÄ uÅ¾ to myslÃ­m vÃ¡Å¾nÄ›.}
+{144}{}{NetlaÄ se tak na mÄ›.}
+{145}{}{VidÄ›l jsi to?}
+{146}{}{To je takovÃ½ Å¡tÄ›stÃ­, Å¾e uÅ¾ tomu pÅ™estÃ¡vÃ¡m vÄ›Å™it.}
+{147}{}{DobrÃ¡ hra, nemyslÃ­Å¡?}
+{148}{}{Dneska mÃ¡m Å¡tÄ›stÃ­.}
+{149}{}{TentokrÃ¡t to bude jinÃ½.}
+{150}{}{NechÃ¡pu, jak mÅ¯Å¾ou lidi hrÃ¡t na nÃ¡hodu.}
+{151}{}{Je to jen o zkuÅ¡enostech, to ti povÃ­dÃ¡m.}
+{152}{}{ZÅ¯staÅˆ vzadu a dÃ­vej se, jak se to hraje.}
+{153}{}{ChystÃ¡me se zruinovat tuhle hernu, vÃ­m to.}

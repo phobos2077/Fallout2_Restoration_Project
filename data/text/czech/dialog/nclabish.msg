@@ -1,325 +1,325 @@
-{100}{}{Vidíš paní Bishopovou.}
-{101}{}{Vidíš jeèící paní Bishopovou.}
-{150}{}{Vidíš atraktivní enu ve støedních letech. Vypadá znudìnì.}
-{151}{}{Vidíš paní Bishopovou. Vypadá znepokojenì a zírá nìkam do dálky.}
-{200}{}{(ena se k tobì otoèí. Je docela atraktivní. Má na sobì šaty z kùe zlatého geckona s hlubokım vıstøihem. Chvíli si tì prohlíí a poté se zamraèí.) Ano, co je?}
-{201}{}{(Lehce se zamraèí.) Ano? Co potøebujete tentokrát?}
-{203}{}{uk-uk.}
-{204}{}{[Zírat na její prsa a slintat]}
+{100}{}{VidÃ­Å¡ panÃ­ Bishopovou.}
+{101}{}{VidÃ­Å¡ jeÄÃ­cÃ­ panÃ­ Bishopovou.}
+{150}{}{VidÃ­Å¡ atraktivnÃ­ Å¾enu ve stÅ™ednÃ­ch letech. VypadÃ¡ znudÄ›nÄ›.}
+{151}{}{VidÃ­Å¡ panÃ­ Bishopovou. VypadÃ¡ znepokojenÄ› a zÃ­rÃ¡ nÄ›kam do dÃ¡lky.}
+{200}{}{(Å½ena se k tobÄ› otoÄÃ­. Je docela atraktivnÃ­. MÃ¡ na sobÄ› Å¡aty z kÅ¯Å¾e zlatÃ©ho geckona s hlubokÃ½m vÃ½stÅ™ihem. ChvÃ­li si tÄ› prohlÃ­Å¾Ã­ a potÃ© se zamraÄÃ­.) Ano, co je?}
+{201}{}{(Lehce se zamraÄÃ­.) Ano? Co potÅ™ebujete tentokrÃ¡t?}
+{203}{}{Å¤uk-Å¥uk.}
+{204}{}{[ZÃ­rat na jejÃ­ prsa a slintat]}
 {205}{}{Odbelhat se.}
 {206}{}{Kdo jsi?}
-{207}{}{Chci vám poloit pár otázek, paní Bishopová.}
-{208}{}{Promiòte, to bude omyl. Sbohem.}
-{210}{}{*Coe?*}
-{211}{}{uk-UK!}
-{212}{}{[Zírat na její prsa a slintat]}
+{207}{}{Chci vÃ¡m poloÅ¾it pÃ¡r otÃ¡zek, panÃ­ BishopovÃ¡.}
+{208}{}{PromiÅˆte, to bude omyl. Sbohem.}
+{210}{}{*CoÅ¾e?*}
+{211}{}{Å¤uk-Å¤UK!}
+{212}{}{[ZÃ­rat na jejÃ­ prsa a slintat]}
 {215}{}{(Mrkne.) Kdo je tam?}
-{216}{}{Bù.}
-{217}{}{Já zapomnìt.}
+{216}{}{BÅ¯.}
+{217}{}{JÃ¡ zapomnÄ›t.}
 {218}{}{Kdo kde?}
-{220}{}{(Vypadá zmatenì.) Bù kdo?}
-{221}{}{Bù kdo? Nebreèet, hezká pani! HA HA HA HA HA HA HA Hah Hahhh... hùùùù... chápat?}
-{225}{}{(Podívá se na tebe vzteklım pohledem.) Okamitì vypadnìte, nebo vás nechám zastøelit, vy odpornı hmyze.}
-{226}{}{Bù... hù... hee-hee-hee-hee... bù kdo? Bù hù! HA HA HA HA HA...}
-{227}{}{Já ne odbornı hmyz... *smrk*... já srandovní... máma øíkat... *smrk*...}
-{230}{}{(Sleduje, jak se jí díváš na prsa. Vztekem zrudne, otevøe ústa... a poté se zarazí.) Inteligencí pøíliš neoplıváte... (Prohlédne si tvou postavu.) Ale máte docela hezké... svaly. Pojïte za mnou na chvíli.}
-{231}{}{(Sleduje, jak se jí díváš na prsa. Vztekem zrudne, otevøe ústa... a poté se zarazí.) Inteligencí pøíliš neoplıváte... (Prohlédne si tvou tváø.) Ale máte docela... šarm. Pojïte za mnou na chvíli.}
-{232}{}{(Sleduje, jak se jí díváš na prsa. Její hlas zvání.) Diskrétnost není zrovna vaše silná stránka, e? (Znechucenì se na tebe podívá.) Vypadnìte, ne vás nechám zastøelit.}
-{233}{}{[Následovat ji]}
-{234}{}{My jít dobré místo?}
-{235}{}{Ty jít. Já zùstat.}
+{220}{}{(VypadÃ¡ zmatenÄ›.) BÅ¯ kdo?}
+{221}{}{BÅ¯ kdo? NebreÄet, hezkÃ¡ pani! HA HA HA HA HA HA HA Hah Hahhh... hÅ¯Å¯Å¯Å¯... chÃ¡pat?}
+{225}{}{(PodÃ­vÃ¡ se na tebe vzteklÃ½m pohledem.) OkamÅ¾itÄ› vypadnÄ›te, nebo vÃ¡s nechÃ¡m zastÅ™elit, vy odpornÃ½ hmyze.}
+{226}{}{BÅ¯... hÅ¯... hee-hee-hee-hee... bÅ¯ kdo? BÅ¯ hÅ¯! HA HA HA HA HA...}
+{227}{}{JÃ¡ ne odbornÃ½ hmyz... *smrk*... jÃ¡ srandovnÃ­... mÃ¡ma Å™Ã­kat... *smrk*...}
+{230}{}{(Sleduje, jak se jÃ­ dÃ­vÃ¡Å¡ na prsa. Vztekem zrudne, otevÅ™e Ãºsta... a potÃ© se zarazÃ­.) InteligencÃ­ pÅ™Ã­liÅ¡ neoplÃ½vÃ¡te... (ProhlÃ©dne si tvou postavu.) Ale mÃ¡te docela hezkÃ©... svaly. PojÄte za mnou na chvÃ­li.}
+{231}{}{(Sleduje, jak se jÃ­ dÃ­vÃ¡Å¡ na prsa. Vztekem zrudne, otevÅ™e Ãºsta... a potÃ© se zarazÃ­.) InteligencÃ­ pÅ™Ã­liÅ¡ neoplÃ½vÃ¡te... (ProhlÃ©dne si tvou tvÃ¡Å™.) Ale mÃ¡te docela... Å¡arm. PojÄte za mnou na chvÃ­li.}
+{232}{}{(Sleduje, jak se jÃ­ dÃ­vÃ¡Å¡ na prsa. JejÃ­ hlas zvÃ¡Å¾nÃ­.) DiskrÃ©tnost nenÃ­ zrovna vaÅ¡e silnÃ¡ strÃ¡nka, Å¾e? (ZnechucenÄ› se na tebe podÃ­vÃ¡.) VypadnÄ›te, neÅ¾ vÃ¡s nechÃ¡m zastÅ™elit.}
+{233}{}{[NÃ¡sledovat ji]}
+{234}{}{My jÃ­t dobrÃ© mÃ­sto?}
+{235}{}{Ty jÃ­t. JÃ¡ zÅ¯stat.}
 {236}{}{Odbelhat se.}
-{240}{}{(Lehce se usmìje.) Ano. *Velmi* dobré místo. A teï pojïte.}
-{245}{}{(Zamraèí se a zrudne jí tváø.) Vypadnìte odsud, ne vás nechám zastøelit.}
-{246}{}{Promíííò... já jít.}
-{250}{}{(Pozdvihne oboèí.) Myslím, e na tuhle otázku bych se mìla spíše ptát *já*. (Zaloí ruce.) Jsem Leslie Anne Bishopová. }
-{251}{}{Mùj manel je hlava rodiny Bishopù v New Renu. A VY jste...?}
-{252}{}{Mùj nebotík manel byl hlava rodiny Bishopù v New Renu. A VY jste...?}
+{240}{}{(Lehce se usmÄ›je.) Ano. *Velmi* dobrÃ© mÃ­sto. A teÄ pojÄte.}
+{245}{}{(ZamraÄÃ­ se a zrudne jÃ­ tvÃ¡Å™.) VypadnÄ›te odsud, neÅ¾ vÃ¡s nechÃ¡m zastÅ™elit.}
+{246}{}{PromÃ­Ã­Ã­Åˆ... jÃ¡ jÃ­t.}
+{250}{}{(Pozdvihne oboÄÃ­.) MyslÃ­m, Å¾e na tuhle otÃ¡zku bych se mÄ›la spÃ­Å¡e ptÃ¡t *jÃ¡*. (ZaloÅ¾Ã­ ruce.) Jsem Leslie Anne BishopovÃ¡. }
+{251}{}{MÅ¯j manÅ¾el je hlava rodiny BishopÅ¯ v New Renu. A VY jste...?}
+{252}{}{MÅ¯j neboÅ¾tÃ­k manÅ¾el byl hlava rodiny BishopÅ¯ v New Renu. A VY jste...?}
 {253}{}{Jmenuju se }
-{254}{}{Jsem jenom obyèejnı cestovatel.}
-{255}{}{Jsem cestovatel a hledám Vault 13. Neslyšela jste o nìm nìkdy?}
-{256}{}{Jsem cestovatel... nevíte náhodou, kde by se mohla nacházet vìc zvaná 'GECK?'}
-{257}{}{Promiòte, ale u musím jít. Sbohem.}
+{254}{}{Jsem jenom obyÄejnÃ½ cestovatel.}
+{255}{}{Jsem cestovatel a hledÃ¡m Vault 13. NeslyÅ¡ela jste o nÄ›m nÄ›kdy?}
+{256}{}{Jsem cestovatel... nevÃ­te nÃ¡hodou, kde by se mohla nachÃ¡zet vÄ›c zvanÃ¡ 'GECK?'}
+{257}{}{PromiÅˆte, ale uÅ¾ musÃ­m jÃ­t. Sbohem.}
 {260}{}{Ano?}
-{261}{}{Mùete mi øíct nìco o panu Bishopovi?}
-{262}{}{Mùete mi øíct nìco o rodinì Bishopù?}
-{263}{}{Neslyšela jste nìkdy o místì zvaném Vault 13?}
-{264}{}{Nevíte, kde by se mohla nacházet vìc zvaná 'GECK?'}
-{265}{}{U nic. Radìji pùjdu.}
-{270}{}{Mùj manel? To je jednoduché. Je mrtvı. TAKOVÁ tragédie. Ještì poøád jsem se nevzpamatovala z toho šampaòského, které jsem vypila, kdy jsem se to dozvìdìla.}
-{271}{}{Mùj manel? Je hlava Bishopovy rodiny. V diplomacii, obchodì a kriminálních aktivitách si poèíná jako mazané zvíøe, co nelze neobdivovat, avšak jeho další schopnosti jsou opovreníhodné.}
-{272}{}{Ano, jeho taktika najímání 'nájezdníkù', aby zapùsobil na Vault City, se zdá bıt docela efektivní.}
-{273}{}{Další schopnosti?}
-{275}{}{Promiòte, e se ptám. Radìji pùjdu.}
-{276}{}{Promiòte, paní Bishopová. Nechci rıpat. U pùjdu.}
-{280}{}{(Zamraèí se.) To nechám na vaší pøedstavivosti. (Vypadá podrádìnì.) U je to *všechno?*}
-{281}{}{Vlastnì se chci ještì zeptat...}
-{285}{}{O Bishopovì 'rodinì' toho není moc co øíct. No, vlastnì... její souèástí je jedna veliká rodina najatıch hrdloøezù, oldákù, kurev, feákù a otrokù, co je také jedinı dùvod, proè je Bishopova 'rodina' tak veliká.}
-{286}{}{To zní, jako kdyby vaše manelství nebylo zrovna moc šastné.}
-{287}{}{No, ještì je tady ta 'rodina' oldákù, které pan Bishop najal na nájezdy proti Vault City.}
-{288}{}{Aha. Chci se ještì na nìco zeptat...}
-{295}{}{(Pobavenì se podívá na tvou cho.) A jak jste na tom vy? (Opìt se zamraèí.) }
-{296}{}{To ne... mùj nebotík manel se zajímal jenom o moc. To nenechávalo prostor... pro cokoliv jiného. }
-{297}{}{To ne... mého manela zajímá jenom moc. To nenechává prostor... pro cokoliv jiného. }
-{298}{}{Navíc se má drahá dcera rychle nauèila, co to znamená bıt enou v New Renu.}
-{299}{}{Vaše dcera?}
-{300}{}{Vaše dcera Angela?}
-{301}{}{Chci se ještì zeptat...}
-{305}{}{Ano, ta Angela, se kterou jste *spal*. Urèitì si na ni vzpomínáte. (Podívá se na tebe kriticky.) *Doufám*, e jste pouili prezervativ. Její hormony jsou tak rozbouøené, e jen pouhá zmínka o spermatu by ji uvedla do jiného stavu.}
-{306}{}{Ano, má dcera Angela. Stala se z ní malá dìvka. (Posmutnìle se usmìje.) Jaká matka, taková dcera... (Podrádìnì si povzdechne.) Take u je to *všechno?*}
-{308}{}{Eh, rez... rezervafit...? Eh, no, myslím, e ano... a u je to cokoliv. Víte co? Radìji se pùjdu pøesvìdèit.}
-{309}{}{Eh, kondom? Samozøejmì, e jsme ho pouili. Aspoò myslím. Chci øíct, vím to docela urèitì. Asi si to pùjdu radìji ovìøit.}
+{261}{}{MÅ¯Å¾ete mi Å™Ã­ct nÄ›co o panu Bishopovi?}
+{262}{}{MÅ¯Å¾ete mi Å™Ã­ct nÄ›co o rodinÄ› BishopÅ¯?}
+{263}{}{NeslyÅ¡ela jste nÄ›kdy o mÃ­stÄ› zvanÃ©m Vault 13?}
+{264}{}{NevÃ­te, kde by se mohla nachÃ¡zet vÄ›c zvanÃ¡ 'GECK?'}
+{265}{}{UÅ¾ nic. RadÄ›ji pÅ¯jdu.}
+{270}{}{MÅ¯j manÅ¾el? To je jednoduchÃ©. Je mrtvÃ½. TAKOVÃ tragÃ©die. JeÅ¡tÄ› poÅ™Ã¡d jsem se nevzpamatovala z toho Å¡ampaÅˆskÃ©ho, kterÃ© jsem vypila, kdyÅ¾ jsem se to dozvÄ›dÄ›la.}
+{271}{}{MÅ¯j manÅ¾el? Je hlava Bishopovy rodiny. V diplomacii, obchodÄ› a kriminÃ¡lnÃ­ch aktivitÃ¡ch si poÄÃ­nÃ¡ jako mazanÃ© zvÃ­Å™e, coÅ¾ nelze neobdivovat, avÅ¡ak jeho dalÅ¡Ã­ schopnosti jsou opovrÅ¾enÃ­hodnÃ©.}
+{272}{}{Ano, jeho taktika najÃ­mÃ¡nÃ­ 'nÃ¡jezdnÃ­kÅ¯', aby zapÅ¯sobil na Vault City, se zdÃ¡ bÃ½t docela efektivnÃ­.}
+{273}{}{DalÅ¡Ã­ schopnosti?}
+{275}{}{PromiÅˆte, Å¾e se ptÃ¡m. RadÄ›ji pÅ¯jdu.}
+{276}{}{PromiÅˆte, panÃ­ BishopovÃ¡. Nechci rÃ½pat. UÅ¾ pÅ¯jdu.}
+{280}{}{(ZamraÄÃ­ se.) To nechÃ¡m na vaÅ¡Ã­ pÅ™edstavivosti. (VypadÃ¡ podrÃ¡Å¾dÄ›nÄ›.) UÅ¾ je to *vÅ¡echno?*}
+{281}{}{VlastnÄ› se chci jeÅ¡tÄ› zeptat...}
+{285}{}{O BishopovÄ› 'rodinÄ›' toho nenÃ­ moc co Å™Ã­ct. No, vlastnÄ›... jejÃ­ souÄÃ¡stÃ­ je jedna velikÃ¡ rodina najatÃ½ch hrdloÅ™ezÅ¯, Å¾oldÃ¡kÅ¯, kurev, feÅ¥Ã¡kÅ¯ a otrokÅ¯, coÅ¾ je takÃ© jedinÃ½ dÅ¯vod, proÄ je Bishopova 'rodina' tak velikÃ¡.}
+{286}{}{To znÃ­, jako kdyby vaÅ¡e manÅ¾elstvÃ­ nebylo zrovna moc Å¡Å¥astnÃ©.}
+{287}{}{No, jeÅ¡tÄ› je tady ta 'rodina' Å¾oldÃ¡kÅ¯, kterÃ© pan Bishop najal na nÃ¡jezdy proti Vault City.}
+{288}{}{Aha. Chci se jeÅ¡tÄ› na nÄ›co zeptat...}
+{295}{}{(PobavenÄ› se podÃ­vÃ¡ na tvou choÅ¥.) A jak jste na tom vy? (OpÄ›t se zamraÄÃ­.) }
+{296}{}{To ne... mÅ¯j neboÅ¾tÃ­k manÅ¾el se zajÃ­mal jenom o moc. To nenechÃ¡valo prostor... pro cokoliv jinÃ©ho. }
+{297}{}{To ne... mÃ©ho manÅ¾ela zajÃ­mÃ¡ jenom moc. To nenechÃ¡vÃ¡ prostor... pro cokoliv jinÃ©ho. }
+{298}{}{NavÃ­c se mÃ¡ drahÃ¡ dcera rychle nauÄila, co to znamenÃ¡ bÃ½t Å¾enou v New Renu.}
+{299}{}{VaÅ¡e dcera?}
+{300}{}{VaÅ¡e dcera Angela?}
+{301}{}{Chci se jeÅ¡tÄ› zeptat...}
+{305}{}{Ano, ta Angela, se kterou jste *spal*. UrÄitÄ› si na ni vzpomÃ­nÃ¡te. (PodÃ­vÃ¡ se na tebe kriticky.) *DoufÃ¡m*, Å¾e jste pouÅ¾ili prezervativ. JejÃ­ hormony jsou tak rozbouÅ™enÃ©, Å¾e jen pouhÃ¡ zmÃ­nka o spermatu by ji uvedla do jinÃ©ho stavu.}
+{306}{}{Ano, mÃ¡ dcera Angela. Stala se z nÃ­ malÃ¡ dÄ›vka. (PosmutnÄ›le se usmÄ›je.) JakÃ¡ matka, takovÃ¡ dcera... (PodrÃ¡Å¾dÄ›nÄ› si povzdechne.) TakÅ¾e uÅ¾ je to *vÅ¡echno?*}
+{308}{}{Eh, rez... rezervafit...? Eh, no, myslÃ­m, Å¾e ano... aÅ¥ uÅ¾ je to cokoliv. VÃ­te co? RadÄ›ji se pÅ¯jdu pÅ™esvÄ›dÄit.}
+{309}{}{Eh, kondom? SamozÅ™ejmÄ›, Å¾e jsme ho pouÅ¾ili. AspoÅˆ myslÃ­m. Chci Å™Ã­ct, vÃ­m to docela urÄitÄ›. Asi si to pÅ¯jdu radÄ›ji ovÄ›Å™it.}
 {315}{}{'}
-{316}{}{(Zamraèí se.) Obyèejnı cestovatel. Jak upøímné a dùvìrné. A co bych pro vás mohla udìlat, "obyèejnı cestovateli?"}
-{321}{}{Nic, díky. U opravdu musím jít.}
-{325}{}{Vím, kde je... ale to vám moc nepomùe. U byl jednou pouit.}
+{316}{}{(ZamraÄÃ­ se.) ObyÄejnÃ½ cestovatel. Jak upÅ™Ã­mnÃ© a dÅ¯vÄ›rnÃ©. A co bych pro vÃ¡s mohla udÄ›lat, "obyÄejnÃ½ cestovateli?"}
+{321}{}{Nic, dÃ­ky. UÅ¾ opravdu musÃ­m jÃ­t.}
+{325}{}{VÃ­m, kde je... ale to vÃ¡m moc nepomÅ¯Å¾e. UÅ¾ byl jednou pouÅ¾it.}
 {326}{}{Kde je ten GECK?}
-{328}{}{V tom pøípadì je mi k nièemu... ale stejnì díky.}
-{330}{}{(Lehce se usmìje, jako by si vzpomnìla na nìco pøíjemného.) Vy znáte Vault City? Je to na severovıchod od New Rena. Mìli GECK... pøed mnoha lety, ale pouili ho, kdy opustili svùj Vault.}
-{331}{}{Mùete mi øíct nìco o Vault City?}
-{332}{}{Mùu se vás ještì na nìco zeptat?}
-{333}{}{Tak já se tam tedy pùjdu podívat. Díky za informace.}
-{335}{}{(Její úsmìv se vytratí a zaène se tváøit pøísnì a odmìøenì.) Není o èem mluvit. Myslím, e zjistíte, e je to tam... jiné. U je to všechno?}
-{336}{}{Ne, vlastnì by mì ještì zajímalo...}
-{337}{}{Ano, je. Omlouvám se za obtìování.}
-{340}{}{Jak jsem øíkala, na severovıchodì leí Vault City. Na tohle místo se ptáte?}
-{341}{}{Vím o Vault *City* na severovıchodì. Na tohle místo se ptáte?}
-{342}{}{Ne. To není to místo.}
-{343}{}{Moná.}
-{345}{}{Moná... pùjdu si to ovìøit. Díky.}
-{350}{}{Hmmmm. V tom pøípadì se obávám, e vám nemùu nijak pomoct.}
-{352}{}{Nevíte o nìkom, kdo by mohl?}
-{353}{}{No, tak dobøe... stejnì díky.}
-{354}{}{No, díky za váš èas, paní Bishopová. Sbohem.}
-{360}{}{Moná by nebyl špatnı nápad se tam jít podívat.}
-{362}{}{Tak dobøe, pùjdu se tam podívat.}
-{363}{}{Vıbornì, díky za informace, paní Bishopová. Sbohem.}
-{370}{}{Drahı chlapèe... }
-{371}{}{Drahé dìvèe... }
-{372}{}{lidé v Renu mají u takhle docela problém si pamatovat se kterou kurvou spali minulou noc, nato aby vìdìli, kde najít nìco takového, co popisujete.}
-{374}{}{Dobøe... jen se ptám. Tak zatím.}
-{375}{}{Dobøe. Díky za váš èas.}
-{380}{}{Poèkejte chvíli. (Prohlédne si tì.) Zdá se, e jste... ve mìstì novı. Nechcete se ke mnì pøipojit na pár sklenièek v mém pokoji? Mùeme si popovídat o New Renu. Pro neznalé je tohle velmi nebezpeèné místo.}
-{381}{}{Ještì moment. (Opìt si tì prohlédne.) Nemáte teï èas na ten drink? Nebo zase nìkam spìcháte?}
-{382}{}{No, pokud jsou ty drinky jen zaèátek...}
-{383}{}{Jistì, nìco k pití by se hodilo.}
-{384}{}{Promiòte, paní Bishopová, ale jsem enatı.}
-{385}{}{Ne, díky. U opravdu musím jít.}
-{386}{}{Ani náhodou. Nechci vašeho manela... rozzlobit.}
-{387}{}{Pracuju pro vašeho manela, paní Bishopová. To by nebylo správné.}
-{390}{}{(Pozdvihne oboèí.) Uvidíme.}
-{391}{}{To je pøesnì ta odpovìï, na kterou jsem èekal. Tak pojïme.}
-{392}{}{Paní Bishopová, promiòte, ale musím odmítnout... pro tentokrát.}
-{393}{}{Promiòte, ale nemùu, paní Bishopová. U opravdu musím jít.}
-{394}{}{V ádném pøípadì. Nechci mít s vaším manelem problémy.}
-{400}{}{(Usmìje se.) Vy si vìøíte. Jde jenom o drink. }
-{401}{}{A i KDYBY se nìco mìlo stát, ujišuji vás, e mùj manel je docela MRTVİ. }
-{402}{}{A i KDYBY se nìco mìlo stát, ujišuji vás, e mùj manel NENÍ árlivı typ. }
-{404}{}{Paní Bishopová, je mi líto, ale i pøesto musím odmítnout... pro tentokrát.}
-{410}{}{(Pozdvihne oboèí.) Mùj manel je sice mrtvı, ale jeho mui jsou mi kdykoliv k dispozici. Dokáou se docela... rozzlobit... pokud nìkdo odmítne pozvání paní Bishopové. Jste si *opravdu* jistı, e se ke mnì nepøidáte?}
-{411}{}{(Pozdvihne oboèí.) Mùj manel není árlivı, ale dokáe se docela... rozzlobit... kdy je vlídné pozvání od nìkoho z Bishopovy rodiny odmítnuto. Jste si *opravdu* jistı, e se ke mnì nepøidáte?}
-{412}{}{I tak musím odmítnout.}
-{413}{}{Dobøe. Jenom jeden drink.}
-{414}{}{Podívejte, u musím jít, paní Bishopová.}
-{415}{}{(Zamraèí se.) Tak tedy jdìte. Jestli se naše cesty opìt zkøíí, buïte si jistı, e nebudu mít ani nejmenší zájem si s vámi povídat.}
-{416}{}{Tak dobøe... sbohem.}
-{420}{}{(Pøikıvne a usmìje se.) Tak dobøe. Pojïte za mnou.}
-{425}{}{Tak jdìte, ale zastavte se zase nìkdy. Má nabídka stále trvá.}
-{426}{}{Eh... dobøe. Sbohem.}
-{430}{}{Nemáme si co øíct. Odejdìte, nebo zavolám stráe.}
-{435}{}{(Paní Bishopová se lehce usmìje, kdy tì uvidí.) Zdravím. Mùu pro vás nìco udìlat?}
-{436}{}{Rád bych si s vámi dal ten drink, jestli máte èas, paní Bishopová.}
-{437}{}{Rád bych si s vámi dal ještì jeden... drink, jestli máte èas, paní Bishopová.}
-{438}{}{Mám nìjaké otázky...}
-{439}{}{Momentálnì nic, díky. U musím jít.}
-{440}{}{No a? Já jsem také vdaná. Co myslíte, e ta moje pozvánka je? Nìjaká pøedehra k cizoloství? No tak, nebuïte hlupák. Pùjdete tedy?}
-{441}{}{Tak dobøe. Jeden drink.}
-{443}{}{Promiòte, ale nemùu, paní Bishopová. U opravdu musím jít.}
-{445}{}{Ach ano... je to dobøe promyšlenı pokus mého manela donutit jiné, aby pøijali jeho gesto dobré vùle. Doufala jsem, e ty oldáky upeèou laserové kanóny kolem Vault City.}
-{446}{}{"Gesto dobré vùle?"}
-{447}{}{Aha. Mám ještì jiné otázky...}
-{448}{}{Zajímavé... no, díky za informace. Sbohem.}
-{449}{}{Hmmm... zajímavé. Díky za váš èas, paní Bishopová.}
-{450}{}{Ano. Jeho pùvodní nabídka spojenectví byla odmítnuta, take poté zopakoval své mírumilovné úmysly pouitím násilí, aby si Vault City podrobil... samozøejmì skrz prostøedníky.}
-{451}{}{To mi na tom pøijde zvláštní. Proè se lidé ve Vault City radìji neobrátí s pomocí na nìkoho jiného místo toho, aby souhlasili se spojením s Bishopy?}
-{452}{}{To mi na tom pøijde zvláštní. Proè se lidé ve Vault City radìji neobrátí s pomocí na nìkoho jiného... napøíklad NCR... místo toho, aby souhlasili se spojenectvím s Bishopem?}
-{453}{}{Máte o tom nìjakı dùkaz?}
-{460}{}{(Zaculí se.) No, *vy* jste mi ale inteligentní...}
-{461}{}{Take? Víte, co Bishop naplánoval?}
-{462}{}{No, nìkdy ano... ale ne kadı si to myslí. Chci se ještì zeptat...}
-{470}{}{(Zamraèí se.) Ne. Mìla bych? (Dùkladnì si tì prohlédne a poté se zaène culit.) }
-{471}{}{(Zamraèí se.) Ne. Mìla bych? (Dùkladnì si tì prohlédne a poté se zaène opìt culit.) }
-{472}{}{Ptáte se na spoustu nebezpeènıch otázek o manelovì byznysu. Na vašem místì bych byla *velmi* opatrná.}
-{473}{}{Eh, díky za radu. Mám ještì nìjaké další, bezpeènìjší, otázky...}
-{474}{}{Dám si pozor. Sbohem.}
-{475}{}{Díky za váš èas... a vaši radu, paní Bishopová.}
+{328}{}{V tom pÅ™Ã­padÄ› je mi k niÄemu... ale stejnÄ› dÃ­ky.}
+{330}{}{(Lehce se usmÄ›je, jako by si vzpomnÄ›la na nÄ›co pÅ™Ã­jemnÃ©ho.) Vy znÃ¡te Vault City? Je to na severovÃ½chod od New Rena. MÄ›li GECK... pÅ™ed mnoha lety, ale pouÅ¾ili ho, kdyÅ¾ opustili svÅ¯j Vault.}
+{331}{}{MÅ¯Å¾ete mi Å™Ã­ct nÄ›co o Vault City?}
+{332}{}{MÅ¯Å¾u se vÃ¡s jeÅ¡tÄ› na nÄ›co zeptat?}
+{333}{}{Tak jÃ¡ se tam tedy pÅ¯jdu podÃ­vat. DÃ­ky za informace.}
+{335}{}{(JejÃ­ ÃºsmÄ›v se vytratÃ­ a zaÄne se tvÃ¡Å™it pÅ™Ã­snÄ› a odmÄ›Å™enÄ›.) NenÃ­ o Äem mluvit. MyslÃ­m, Å¾e zjistÃ­te, Å¾e je to tam... jinÃ©. UÅ¾ je to vÅ¡echno?}
+{336}{}{Ne, vlastnÄ› by mÄ› jeÅ¡tÄ› zajÃ­malo...}
+{337}{}{Ano, je. OmlouvÃ¡m se za obtÄ›Å¾ovÃ¡nÃ­.}
+{340}{}{Jak jsem Å™Ã­kala, na severovÃ½chodÄ› leÅ¾Ã­ Vault City. Na tohle mÃ­sto se ptÃ¡te?}
+{341}{}{VÃ­m o Vault *City* na severovÃ½chodÄ›. Na tohle mÃ­sto se ptÃ¡te?}
+{342}{}{Ne. To nenÃ­ to mÃ­sto.}
+{343}{}{MoÅ¾nÃ¡.}
+{345}{}{MoÅ¾nÃ¡... pÅ¯jdu si to ovÄ›Å™it. DÃ­ky.}
+{350}{}{Hmmmm. V tom pÅ™Ã­padÄ› se obÃ¡vÃ¡m, Å¾e vÃ¡m nemÅ¯Å¾u nijak pomoct.}
+{352}{}{NevÃ­te o nÄ›kom, kdo by mohl?}
+{353}{}{No, tak dobÅ™e... stejnÄ› dÃ­ky.}
+{354}{}{No, dÃ­ky za vÃ¡Å¡ Äas, panÃ­ BishopovÃ¡. Sbohem.}
+{360}{}{MoÅ¾nÃ¡ by nebyl Å¡patnÃ½ nÃ¡pad se tam jÃ­t podÃ­vat.}
+{362}{}{Tak dobÅ™e, pÅ¯jdu se tam podÃ­vat.}
+{363}{}{VÃ½bornÄ›, dÃ­ky za informace, panÃ­ BishopovÃ¡. Sbohem.}
+{370}{}{DrahÃ½ chlapÄe... }
+{371}{}{DrahÃ© dÄ›vÄe... }
+{372}{}{lidÃ© v Renu majÃ­ uÅ¾ takhle docela problÃ©m si pamatovat se kterou kurvou spali minulou noc, natoÅ¾ aby vÄ›dÄ›li, kde najÃ­t nÄ›co takovÃ©ho, co popisujete.}
+{374}{}{DobÅ™e... jen se ptÃ¡m. Tak zatÃ­m.}
+{375}{}{DobÅ™e. DÃ­ky za vÃ¡Å¡ Äas.}
+{380}{}{PoÄkejte chvÃ­li. (ProhlÃ©dne si tÄ›.) ZdÃ¡ se, Å¾e jste... ve mÄ›stÄ› novÃ½. Nechcete se ke mnÄ› pÅ™ipojit na pÃ¡r skleniÄek v mÃ©m pokoji? MÅ¯Å¾eme si popovÃ­dat o New Renu. Pro neznalÃ© je tohle velmi nebezpeÄnÃ© mÃ­sto.}
+{381}{}{JeÅ¡tÄ› moment. (OpÄ›t si tÄ› prohlÃ©dne.) NemÃ¡te teÄ Äas na ten drink? Nebo zase nÄ›kam spÄ›chÃ¡te?}
+{382}{}{No, pokud jsou ty drinky jen zaÄÃ¡tek...}
+{383}{}{JistÄ›, nÄ›co k pitÃ­ by se hodilo.}
+{384}{}{PromiÅˆte, panÃ­ BishopovÃ¡, ale jsem Å¾enatÃ½.}
+{385}{}{Ne, dÃ­ky. UÅ¾ opravdu musÃ­m jÃ­t.}
+{386}{}{Ani nÃ¡hodou. Nechci vaÅ¡eho manÅ¾ela... rozzlobit.}
+{387}{}{Pracuju pro vaÅ¡eho manÅ¾ela, panÃ­ BishopovÃ¡. To by nebylo sprÃ¡vnÃ©.}
+{390}{}{(Pozdvihne oboÄÃ­.) UvidÃ­me.}
+{391}{}{To je pÅ™esnÄ› ta odpovÄ›Ä, na kterou jsem Äekal. Tak pojÄme.}
+{392}{}{PanÃ­ BishopovÃ¡, promiÅˆte, ale musÃ­m odmÃ­tnout... pro tentokrÃ¡t.}
+{393}{}{PromiÅˆte, ale nemÅ¯Å¾u, panÃ­ BishopovÃ¡. UÅ¾ opravdu musÃ­m jÃ­t.}
+{394}{}{V Å¾Ã¡dnÃ©m pÅ™Ã­padÄ›. Nechci mÃ­t s vaÅ¡Ã­m manÅ¾elem problÃ©my.}
+{400}{}{(UsmÄ›je se.) Vy si vÄ›Å™Ã­te. Jde jenom o drink. }
+{401}{}{A i KDYBY se nÄ›co mÄ›lo stÃ¡t, ujiÅ¡Å¥uji vÃ¡s, Å¾e mÅ¯j manÅ¾el je docela MRTVÃ. }
+{402}{}{A i KDYBY se nÄ›co mÄ›lo stÃ¡t, ujiÅ¡Å¥uji vÃ¡s, Å¾e mÅ¯j manÅ¾el NENÃ Å¾Ã¡rlivÃ½ typ. }
+{404}{}{PanÃ­ BishopovÃ¡, je mi lÃ­to, ale i pÅ™esto musÃ­m odmÃ­tnout... pro tentokrÃ¡t.}
+{410}{}{(Pozdvihne oboÄÃ­.) MÅ¯j manÅ¾el je sice mrtvÃ½, ale jeho muÅ¾i jsou mi kdykoliv k dispozici. DokÃ¡Å¾ou se docela... rozzlobit... pokud nÄ›kdo odmÃ­tne pozvÃ¡nÃ­ panÃ­ BishopovÃ©. Jste si *opravdu* jistÃ½, Å¾e se ke mnÄ› nepÅ™idÃ¡te?}
+{411}{}{(Pozdvihne oboÄÃ­.) MÅ¯j manÅ¾el nenÃ­ Å¾Ã¡rlivÃ½, ale dokÃ¡Å¾e se docela... rozzlobit... kdyÅ¾ je vlÃ­dnÃ© pozvÃ¡nÃ­ od nÄ›koho z Bishopovy rodiny odmÃ­tnuto. Jste si *opravdu* jistÃ½, Å¾e se ke mnÄ› nepÅ™idÃ¡te?}
+{412}{}{I tak musÃ­m odmÃ­tnout.}
+{413}{}{DobÅ™e. Jenom jeden drink.}
+{414}{}{PodÃ­vejte, uÅ¾ musÃ­m jÃ­t, panÃ­ BishopovÃ¡.}
+{415}{}{(ZamraÄÃ­ se.) Tak tedy jdÄ›te. Jestli se naÅ¡e cesty opÄ›t zkÅ™Ã­Å¾Ã­, buÄte si jistÃ½, Å¾e nebudu mÃ­t ani nejmenÅ¡Ã­ zÃ¡jem si s vÃ¡mi povÃ­dat.}
+{416}{}{Tak dobÅ™e... sbohem.}
+{420}{}{(PÅ™ikÃ½vne a usmÄ›je se.) Tak dobÅ™e. PojÄte za mnou.}
+{425}{}{Tak jdÄ›te, ale zastavte se zase nÄ›kdy. MÃ¡ nabÃ­dka stÃ¡le trvÃ¡.}
+{426}{}{Eh... dobÅ™e. Sbohem.}
+{430}{}{NemÃ¡me si co Å™Ã­ct. OdejdÄ›te, nebo zavolÃ¡m strÃ¡Å¾e.}
+{435}{}{(PanÃ­ BishopovÃ¡ se lehce usmÄ›je, kdyÅ¾ tÄ› uvidÃ­.) ZdravÃ­m. MÅ¯Å¾u pro vÃ¡s nÄ›co udÄ›lat?}
+{436}{}{RÃ¡d bych si s vÃ¡mi dal ten drink, jestli mÃ¡te Äas, panÃ­ BishopovÃ¡.}
+{437}{}{RÃ¡d bych si s vÃ¡mi dal jeÅ¡tÄ› jeden... drink, jestli mÃ¡te Äas, panÃ­ BishopovÃ¡.}
+{438}{}{MÃ¡m nÄ›jakÃ© otÃ¡zky...}
+{439}{}{MomentÃ¡lnÄ› nic, dÃ­ky. UÅ¾ musÃ­m jÃ­t.}
+{440}{}{No a? JÃ¡ jsem takÃ© vdanÃ¡. Co myslÃ­te, Å¾e ta moje pozvÃ¡nka je? NÄ›jakÃ¡ pÅ™edehra k cizoloÅ¾stvÃ­? No tak, nebuÄte hlupÃ¡k. PÅ¯jdete tedy?}
+{441}{}{Tak dobÅ™e. Jeden drink.}
+{443}{}{PromiÅˆte, ale nemÅ¯Å¾u, panÃ­ BishopovÃ¡. UÅ¾ opravdu musÃ­m jÃ­t.}
+{445}{}{Ach ano... je to dobÅ™e promyÅ¡lenÃ½ pokus mÃ©ho manÅ¾ela donutit jinÃ©, aby pÅ™ijali jeho gesto dobrÃ© vÅ¯le. Doufala jsem, Å¾e ty Å¾oldÃ¡ky upeÄou laserovÃ© kanÃ³ny kolem Vault City.}
+{446}{}{"Gesto dobrÃ© vÅ¯le?"}
+{447}{}{Aha. MÃ¡m jeÅ¡tÄ› jinÃ© otÃ¡zky...}
+{448}{}{ZajÃ­mavÃ©... no, dÃ­ky za informace. Sbohem.}
+{449}{}{Hmmm... zajÃ­mavÃ©. DÃ­ky za vÃ¡Å¡ Äas, panÃ­ BishopovÃ¡.}
+{450}{}{Ano. Jeho pÅ¯vodnÃ­ nabÃ­dka spojenectvÃ­ byla odmÃ­tnuta, takÅ¾e potÃ© zopakoval svÃ© mÃ­rumilovnÃ© Ãºmysly pouÅ¾itÃ­m nÃ¡silÃ­, aby si Vault City podrobil... samozÅ™ejmÄ› skrz prostÅ™ednÃ­ky.}
+{451}{}{To mi na tom pÅ™ijde zvlÃ¡Å¡tnÃ­. ProÄ se lidÃ© ve Vault City radÄ›ji neobrÃ¡tÃ­ s pomocÃ­ na nÄ›koho jinÃ©ho mÃ­sto toho, aby souhlasili se spojenÃ­m s Bishopy?}
+{452}{}{To mi na tom pÅ™ijde zvlÃ¡Å¡tnÃ­. ProÄ se lidÃ© ve Vault City radÄ›ji neobrÃ¡tÃ­ s pomocÃ­ na nÄ›koho jinÃ©ho... napÅ™Ã­klad NCR... mÃ­sto toho, aby souhlasili se spojenectvÃ­m s Bishopem?}
+{453}{}{MÃ¡te o tom nÄ›jakÃ½ dÅ¯kaz?}
+{460}{}{(ZaculÃ­ se.) No, *vy* jste mi ale inteligentnÃ­...}
+{461}{}{TakÅ¾e? VÃ­te, co Bishop naplÃ¡noval?}
+{462}{}{No, nÄ›kdy ano... ale ne kaÅ¾dÃ½ si to myslÃ­. Chci se jeÅ¡tÄ› zeptat...}
+{470}{}{(ZamraÄÃ­ se.) Ne. MÄ›la bych? (DÅ¯kladnÄ› si tÄ› prohlÃ©dne a potÃ© se zaÄne culit.) }
+{471}{}{(ZamraÄÃ­ se.) Ne. MÄ›la bych? (DÅ¯kladnÄ› si tÄ› prohlÃ©dne a potÃ© se zaÄne opÄ›t culit.) }
+{472}{}{PtÃ¡te se na spoustu nebezpeÄnÃ½ch otÃ¡zek o manÅ¾elovÄ› byznysu. Na vaÅ¡em mÃ­stÄ› bych byla *velmi* opatrnÃ¡.}
+{473}{}{Eh, dÃ­ky za radu. MÃ¡m jeÅ¡tÄ› nÄ›jakÃ© dalÅ¡Ã­, bezpeÄnÄ›jÅ¡Ã­, otÃ¡zky...}
+{474}{}{DÃ¡m si pozor. Sbohem.}
+{475}{}{DÃ­ky za vÃ¡Å¡ Äas... a vaÅ¡i radu, panÃ­ BishopovÃ¡.}
 {480}{}{*Vzdych*}
-{481}{}{Další NÁDHERNİ den v Renu.}
-{482}{}{Podle toho návalu v kasínu bych øekla, e do Rena pøijela další hromada lidského odpadu...}
-{483}{}{Reno... "nejvìtší malá velká umpa na svìtì." Hmmmph.}
-{490}{}{Vidíš spící paní Bishopovou. Spokojenì se ve spánku usmívá.}
-{491}{}{Vidíš spící paní Bishopovou. Spokojenì si ve spánku povzdechne a obrátí se na bok.}
-{500}{}{Vidíš paní Bishopovou. Špatnì se ti ale soustøeïuje na její vzhled, kdy køièí na stráe.}
+{481}{}{DalÅ¡Ã­ NÃDHERNÃ den v Renu.}
+{482}{}{Podle toho nÃ¡valu v kasÃ­nu bych Å™ekla, Å¾e do Rena pÅ™ijela dalÅ¡Ã­ hromada lidskÃ©ho odpadu...}
+{483}{}{Reno... "nejvÄ›tÅ¡Ã­ malÃ¡ velkÃ¡ Å¾umpa na svÄ›tÄ›." Hmmmph.}
+{490}{}{VidÃ­Å¡ spÃ­cÃ­ panÃ­ Bishopovou. SpokojenÄ› se ve spÃ¡nku usmÃ­vÃ¡.}
+{491}{}{VidÃ­Å¡ spÃ­cÃ­ panÃ­ Bishopovou. SpokojenÄ› si ve spÃ¡nku povzdechne a obrÃ¡tÃ­ se na bok.}
+{500}{}{VidÃ­Å¡ panÃ­ Bishopovou. Å patnÄ› se ti ale soustÅ™eÄuje na jejÃ­ vzhled, kdyÅ¾ kÅ™iÄÃ­ na strÃ¡Å¾e.}
 {510}{}{Mmmmm... ach, }
-{511}{}{Mmmzrrmnmn... ještì, }
+{511}{}{Mmmzrrmnmn... jeÅ¡tÄ›, }
 {512}{}{Kombinace k sejfu... }
-{515}{}{Vetøelec! Pomoc!}
-{516}{}{Zlodìj! Zlodìj!}
-{517}{}{Vetøelec! Stráe! Stráe!}
-{520}{}{(Zavede tì nahoru do podivné, pøíjemnì vonící místnosti. Jakmile vejdete, zaène ti dávat divné pokyny, které jsou ti nìkdy pøíjemné, nìkdy nepøíjemné.) Nechceš se mì dotknout?}
+{515}{}{VetÅ™elec! Pomoc!}
+{516}{}{ZlodÄ›j! ZlodÄ›j!}
+{517}{}{VetÅ™elec! StrÃ¡Å¾e! StrÃ¡Å¾e!}
+{520}{}{(Zavede tÄ› nahoru do podivnÃ©, pÅ™Ã­jemnÄ› vonÃ­cÃ­ mÃ­stnosti. Jakmile vejdete, zaÄne ti dÃ¡vat divnÃ© pokyny, kterÃ© jsou ti nÄ›kdy pÅ™Ã­jemnÃ©, nÄ›kdy nepÅ™Ã­jemnÃ©.) NechceÅ¡ se mÄ› dotknout?}
 {521}{}{E-he.}
 {522}{}{Ne-e.}
-{525}{}{Hmmmm. Dobøe. Tak si lehni na postel a já se postarám o zbytek.}
-{526}{}{Já odmítat já NECHTÍT já chtít jít DOMÙ do Arroyo.}
-{527}{}{[Udìlat, co ti øekne]}
-{530}{}{(Zhluboka se nadechne a poté zaène jeèet tak hlasitì, a tì z toho bolí uši! Nìco o 'hvídaèích' a 'slodìjech', ale nevíš to jistì, protoe jeèí velmi hlasitì.)}
-{531}{}{Pššššst! Jestli nebudeš sticha, tag mì George nenechá hrád s králíèkama! Pšššst!}
-{532}{}{Co špatnì s tvoje zuby? Proè ty potøebovat stráe?}
-{533}{}{Neøvat! Neøvat!}
-{535}{}{Ano, vím. Drby se v Renu šíøí rychle. (Povzdechne si.) To je jedno... myslím, e zjistíte, e jsem mnohem zkušenìjší v uspokojování muù ne ona. (Zarazí se.) POUILI jste prezervativ, e ano?}
+{525}{}{Hmmmm. DobÅ™e. Tak si lehni na postel a jÃ¡ se postarÃ¡m o zbytek.}
+{526}{}{JÃ¡ odmÃ­tat jÃ¡ NECHTÃT jÃ¡ chtÃ­t jÃ­t DOMÅ® do Arroyo.}
+{527}{}{[UdÄ›lat, co ti Å™ekne]}
+{530}{}{(Zhluboka se nadechne a potÃ© zaÄne jeÄet tak hlasitÄ›, aÅ¾ tÄ› z toho bolÃ­ uÅ¡i! NÄ›co o 'hvÃ­daÄÃ­ch' a 'slodÄ›jech', ale nevÃ­Å¡ to jistÄ›, protoÅ¾e jeÄÃ­ velmi hlasitÄ›.)}
+{531}{}{PÅ¡Å¡Å¡Å¡st! Jestli nebudeÅ¡ sticha, tag mÄ› George nenechÃ¡ hrÃ¡d s krÃ¡lÃ­Äkama! PÅ¡Å¡Å¡st!}
+{532}{}{Co Å¡patnÄ› s tvoje zuby? ProÄ ty potÅ™ebovat strÃ¡Å¾e?}
+{533}{}{NeÅ™vat! NeÅ™vat!}
+{535}{}{Ano, vÃ­m. Drby se v Renu Å¡Ã­Å™Ã­ rychle. (Povzdechne si.) To je jedno... myslÃ­m, Å¾e zjistÃ­te, Å¾e jsem mnohem zkuÅ¡enÄ›jÅ¡Ã­ v uspokojovÃ¡nÃ­ muÅ¾Å¯ neÅ¾ ona. (ZarazÃ­ se.) POUÅ½ILI jste prezervativ, Å¾e ano?}
 {536}{}{Pre... rezer... kondom?}
 {537}{}{Kondom?}
-{538}{}{Jo, mìl jsem ho v inventáøi. Nejdøív jsem nevìdìl, co se s ním stalo, ale pak mi to došlo.}
-{539}{}{Eh... asi bych mìl RADÌJI jít, paní Bishopová.}
-{540}{}{Ano, *kondom.* (Upøenì se na tebe podívá.) No skvìlé. Opravdu skvìlé. (Pokrèí rameny.) No, co u. Tøeba budu mít vnuka. No nic. Teï pøestaò mluvit a pojï ke mnì.}
-{541}{}{Jo, není to tak jasné, jak by si èlovìk myslel. Vsadím se, e jde o vtípek designerù. (Pokrèí rameny.) No, co u. Teï pøestaò mluvit a pojï ke mnì.}
-{542}{}{Øíkala jste zkušenìjší ne Angela? Tak to MUSÍM vidìt.}
-{543}{}{U musím jít.}
-{545}{}{(Pøidal ses k paní Bishopové na drink v jejím pokoji. Chvíli si spolu povídáte a poté se k tobì pøitiskne a zaène se s tebou mazlit.)}
-{546}{}{[Jít na to]}
+{538}{}{Jo, mÄ›l jsem ho v inventÃ¡Å™i. NejdÅ™Ã­v jsem nevÄ›dÄ›l, co se s nÃ­m stalo, ale pak mi to doÅ¡lo.}
+{539}{}{Eh... asi bych mÄ›l RADÄšJI jÃ­t, panÃ­ BishopovÃ¡.}
+{540}{}{Ano, *kondom.* (UpÅ™enÄ› se na tebe podÃ­vÃ¡.) No skvÄ›lÃ©. Opravdu skvÄ›lÃ©. (PokrÄÃ­ rameny.) No, co uÅ¾. TÅ™eba budu mÃ­t vnuka. No nic. TeÄ pÅ™estaÅˆ mluvit a pojÄ ke mnÄ›.}
+{541}{}{Jo, nenÃ­ to tak jasnÃ©, jak by si ÄlovÄ›k myslel. VsadÃ­m se, Å¾e jde o vtÃ­pek designerÅ¯. (PokrÄÃ­ rameny.) No, co uÅ¾. TeÄ pÅ™estaÅˆ mluvit a pojÄ ke mnÄ›.}
+{542}{}{Å˜Ã­kala jste zkuÅ¡enÄ›jÅ¡Ã­ neÅ¾ Angela? Tak to MUSÃM vidÄ›t.}
+{543}{}{UÅ¾ musÃ­m jÃ­t.}
+{545}{}{(PÅ™idal ses k panÃ­ BishopovÃ© na drink v jejÃ­m pokoji. ChvÃ­li si spolu povÃ­dÃ¡te a potÃ© se k tobÄ› pÅ™itiskne a zaÄne se s tebou mazlit.)}
+{546}{}{[JÃ­t na to]}
 {547}{}{[Obejmout ji]}
-{548}{}{Eh, paní Bishopová, spal jsem s vaší dcerou. Moná bychom nemìli...}
-{549}{}{Ne se do "toho" dáme, neotevøete svùj sejf jako vaše dce... eh, jak se to obvykle dìlá?}
-{550}{}{Podívejte, asi bych mìl radìji jít, paní Bishopová.}
-{555}{}{Ne. A teï pojïte ke mnì.}
-{556}{}{[Jít na to]}
-{557}{}{Podívejte, asi bych mìl RADÌJI jít, paní Bishopová.}
-{560}{}{Ale?! Kam musíte tak najednou odejít?}
+{548}{}{Eh, panÃ­ BishopovÃ¡, spal jsem s vaÅ¡Ã­ dcerou. MoÅ¾nÃ¡ bychom nemÄ›li...}
+{549}{}{NeÅ¾ se do "toho" dÃ¡me, neotevÅ™ete svÅ¯j sejf jako vaÅ¡e dce... eh, jak se to obvykle dÄ›lÃ¡?}
+{550}{}{PodÃ­vejte, asi bych mÄ›l radÄ›ji jÃ­t, panÃ­ BishopovÃ¡.}
+{555}{}{Ne. A teÄ pojÄte ke mnÄ›.}
+{556}{}{[JÃ­t na to]}
+{557}{}{PodÃ­vejte, asi bych mÄ›l RADÄšJI jÃ­t, panÃ­ BishopovÃ¡.}
+{560}{}{Ale?! Kam musÃ­te tak najednou odejÃ­t?}
 {561}{}{Kamkoliv.}
-{562}{}{Musím se sejít s Julesem kvùli... speciálnímu obchodu.}
-{563}{}{Musím se sejít s jedním pøítelem a nesmím pøijít pozdì.}
-{564}{}{Mám své dùvody. Sbohem, paní Bishopová.}
-{565}{}{Zkuste odejít a já zaènu køièet o pomoc.}
-{566}{}{Kdy tak nad tím uvauju, tak mi pøipadají ty stráe bezpeènìjší. Sbohem.}
-{567}{}{Musím se sejít s Julesem u vchodu do mìsta kvùli... speciálnímu obchodu... co nejdøív.}
-{569}{}{Dobøe, dobøe, ale nemusela jste si hrát na nedostupnou. A teï pojïte ke mnì.}
-{570}{}{Chci jen, abyste si uvìdomila, e tohle není správné a mít vìtší morální zásady, tak vám tu teï udìlám pøednášku. A teï pojïte ke mnì.}
-{575}{}{Stráe! Vetøelec! Zlodìj! Stráe! Vetøelec v domì!}
-{576}{}{Kde? O èem to mluvíte, paní Bishopová?}
-{577}{}{Kurva! Nesnáším tuhle hru!}
-{580}{}{Fajn. Kdy se mnou nechcete spát teï, tak chci, abyste si pamatoval, e za mnou mùete kdykoliv pøijít a na nìèem u se domluvíme. Rozumíte?}
-{581}{}{Ano. A teï mì nechte odejít.}
-{582}{}{Ano, rozumím.}
-{585}{}{(Oba opustíte místnost a paní Bishopová tì odvede zpìt do druhého patra.)}
+{562}{}{MusÃ­m se sejÃ­t s Julesem kvÅ¯li... speciÃ¡lnÃ­mu obchodu.}
+{563}{}{MusÃ­m se sejÃ­t s jednÃ­m pÅ™Ã­telem a nesmÃ­m pÅ™ijÃ­t pozdÄ›.}
+{564}{}{MÃ¡m svÃ© dÅ¯vody. Sbohem, panÃ­ BishopovÃ¡.}
+{565}{}{Zkuste odejÃ­t a jÃ¡ zaÄnu kÅ™iÄet o pomoc.}
+{566}{}{KdyÅ¾ tak nad tÃ­m uvaÅ¾uju, tak mi pÅ™ipadajÃ­ ty strÃ¡Å¾e bezpeÄnÄ›jÅ¡Ã­. Sbohem.}
+{567}{}{MusÃ­m se sejÃ­t s Julesem u vchodu do mÄ›sta kvÅ¯li... speciÃ¡lnÃ­mu obchodu... co nejdÅ™Ã­v.}
+{569}{}{DobÅ™e, dobÅ™e, ale nemusela jste si hrÃ¡t na nedostupnou. A teÄ pojÄte ke mnÄ›.}
+{570}{}{Chci jen, abyste si uvÄ›domila, Å¾e tohle nenÃ­ sprÃ¡vnÃ© a mÃ­t vÄ›tÅ¡Ã­ morÃ¡lnÃ­ zÃ¡sady, tak vÃ¡m tu teÄ udÄ›lÃ¡m pÅ™ednÃ¡Å¡ku. A teÄ pojÄte ke mnÄ›.}
+{575}{}{StrÃ¡Å¾e! VetÅ™elec! ZlodÄ›j! StrÃ¡Å¾e! VetÅ™elec v domÄ›!}
+{576}{}{Kde? O Äem to mluvÃ­te, panÃ­ BishopovÃ¡?}
+{577}{}{Kurva! NesnÃ¡Å¡Ã­m tuhle hru!}
+{580}{}{Fajn. KdyÅ¾ se mnou nechcete spÃ¡t teÄ, tak chci, abyste si pamatoval, Å¾e za mnou mÅ¯Å¾ete kdykoliv pÅ™ijÃ­t a na nÄ›Äem uÅ¾ se domluvÃ­me. RozumÃ­te?}
+{581}{}{Ano. A teÄ mÄ› nechte odejÃ­t.}
+{582}{}{Ano, rozumÃ­m.}
+{585}{}{(Oba opustÃ­te mÃ­stnost a panÃ­ BishopovÃ¡ tÄ› odvede zpÄ›t do druhÃ©ho patra.)}
 {586}{}{Uff.}
-{590}{}{(Milujete se. Není to nejlepší, není to ani skvìlé, ale alespoò na krátkı okamik ve vašich bouølivıch ivotech zapomenete na krutost svìta a ztratíte se jeden v druhém...) }
-{591}{}{(Zaène vášnivé milování. Na konci sexuálního maratónu se k tobì paní Bishopová pøitiskne a spokojenì se usmìje.) Mmmmm, }
-{592}{}{Vy jste ale *chlap.* (Zachvìje se.) To s tím jazykem bylo...}
-{593}{}{Vy jste ale *enská.* (Zachvìje se.) To s tím jazykem bylo...}
-{594}{}{Take... co chcete dìlat teï?}
+{590}{}{(Milujete se. NenÃ­ to nejlepÅ¡Ã­, nenÃ­ to ani skvÄ›lÃ©, ale alespoÅˆ na krÃ¡tkÃ½ okamÅ¾ik ve vaÅ¡ich bouÅ™livÃ½ch Å¾ivotech zapomenete na krutost svÄ›ta a ztratÃ­te se jeden v druhÃ©m...) }
+{591}{}{(ZaÄne vÃ¡Å¡nivÃ© milovÃ¡nÃ­. Na konci sexuÃ¡lnÃ­ho maratÃ³nu se k tobÄ› panÃ­ BishopovÃ¡ pÅ™itiskne a spokojenÄ› se usmÄ›je.) Mmmmm, }
+{592}{}{Vy jste ale *chlap.* (ZachvÄ›je se.) To s tÃ­m jazykem bylo...}
+{593}{}{Vy jste ale *Å¾enskÃ¡.* (ZachvÄ›je se.) To s tÃ­m jazykem bylo...}
+{594}{}{TakÅ¾e... co chcete dÄ›lat teÄ?}
 {595}{}{Mmmmm, Leslie.}
-{596}{}{Eh, poslyšte, jenom pro PØÍPAD, e by nìkdo poslouchal kadé naše slovo... nechme si naše tajemství pro sebe. A teï se pojïme oddávat postelovım hrátkám.}
-{600}{}{(Paní Bishopová spokojenì vzdychne a protáhne se.)}
-{601}{}{Povìzte mi o svém manelovi.}
-{602}{}{Povìzte mi o své dceøi.}
-{603}{}{Povìzte mi o své rodinì.}
-{604}{}{Vy nejste z New Rena, e Leslie? Mluvíte jinak ne vìtšina místních lidí.}
+{596}{}{Eh, poslyÅ¡te, jenom pro PÅ˜ÃPAD, Å¾e by nÄ›kdo poslouchal kaÅ¾dÃ© naÅ¡e slovo... nechme si naÅ¡e tajemstvÃ­ pro sebe. A teÄ se pojÄme oddÃ¡vat postelovÃ½m hrÃ¡tkÃ¡m.}
+{600}{}{(PanÃ­ BishopovÃ¡ spokojenÄ› vzdychne a protÃ¡hne se.)}
+{601}{}{PovÄ›zte mi o svÃ©m manÅ¾elovi.}
+{602}{}{PovÄ›zte mi o svÃ© dceÅ™i.}
+{603}{}{PovÄ›zte mi o svÃ© rodinÄ›.}
+{604}{}{Vy nejste z New Rena, Å¾e Leslie? MluvÃ­te jinak neÅ¾ vÄ›tÅ¡ina mÃ­stnÃ­ch lidÃ­.}
 {605}{}{Vy jste z Vault City?}
-{606}{}{Poslyšte, radìji u pùjdu, paní Bishopová.}
-{610}{}{(Leslie se lehce zamraèí a pøikryje se prostìradlem.) MUSÍME se o nìm bavit? Nekame si tuhle chvíli.}
-{611}{}{Opravdu to chci vìdìt. Povìzte mi o nìm nìco.}
-{612}{}{Tak dobøe, co tøeba...}
-{615}{}{(Zasmìje se.) Koho to zajímá? John je mrtvı. A ije John! Bastard...}
-{616}{}{Pche! Ujišuji vás, e mezi mnou a Johnem u nic není. Ten malièkı kousek náklonnosti, kterı jsme k sobì cítili, se zmìnil v hoøkost. On má svoje eny a já mám vlastní... potìšení.}
-{617}{}{Stejnì se ale musíte mít poøád rádi, alespoò trochu.}
-{618}{}{Co má s NCR za kšefty?}
-{619}{}{Co má za kšefty s tìmi 'nájezdníky', o kterıch lidé mluví?}
-{620}{}{Znáte kombinaci k jeho sejfu?}
-{621}{}{Bavme se radìji o nìèem jiném...}
-{625}{}{(Zamraèí se.) To nechám na vaší pøedstavivosti. Mùeme toho *prosím* nechat? Bavme se o nìèem jiném.}
-{630}{}{Mám ho pro vás zabít?}
-{635}{}{No... *zív*... myslím, e s nimi chce John vycházet v dobrémmm... (Protáhne se.) ...a získat jejich pomoc, aby mohl zlikvidovat ostatní rodiny.}
-{636}{}{To je všechno, co chce Bishop od NCR?}
-{637}{}{Tak dobøe. Bavme se o nìèem jiném...}
-{638}{}{Chci vìdìt ještì nìco o Johnovıch kšeftech...}
-{645}{}{(Otoèí se na bok.) John poslal nìjaké oldáky na vıchod, poblí Vault City, aby 'navštìvovali' mìsto. Chce na nì trochu zatlaèit, aby poprosili NCR o pomoc.}
-{646}{}{Poprosit *NCR* o pomoc? Proè?}
-{650}{}{Mmmmm... no... víte... (Otoèí se.) John slíbil NCR, e jim dá Vault City. Take poslal pár svıch muù a øekl jim, a se chovají jako nájezdníci, dokud se Vault City nevzdá.}
-{651}{}{Víte, kde jsou ti nájezdníci?}
-{652}{}{Eh... víte o nìjakém DÙKAZU?}
-{655}{}{Ne... John má nejspíš nìkde mapu jejich úkrytu. (Popotáhne a utøe si nos.) Mmmmm...}
-{657}{}{Bavme se radìji o nìèem jiném...}
-{660}{}{ myslím... nebo nìco takového...}
-{663}{}{Vıbornì... èas rozlousknout sejf... spìte dobøe, paní Bishopová.}
-{665}{}{Víte, }
-{666}{}{Aha. Díky.}
-{670}{}{(Zamraèí se.) Co s ní? }
-{671}{}{Jestli mi tu budete vykládat, jak jste spolu smilnili, tak si to nechte pro sebe. A doufám, e jste pouili kondom. }
-{672}{}{Ta dìvka se vychrápe s kadım divochem, kterı na ni zamává svım náøadím...}
-{673}{}{Eh... no... tak si pojïme povídat o nìèem jiném...}
-{675}{}{(Pokrèí rameny.) Není o èem mluvit. Je to banda nájemnıch hrdloøezù, oldákù, kurev, feákù a otrokù... (Otoèí se na druhı bok.) ...to je 'rodina' Bishopù. Ké bych si tak nikdy nezaèala s Johnem...}
-{677}{}{Hmmmm. Chci se ještì zeptat...}
-{680}{}{A co vaše manelství? Hmmmph. }
-{681}{}{Ne, moje 'manelství' nebylo šastné. Mùj nebotík manel se zajímal jenom o moc. To nenechávalo prostor... pro cokoliv jiného. }
-{682}{}{Ne, moje 'manelství' není šastné. Mého manela zajímá jenom moc. To nenechává prostor... pro cokoliv jiného. }
-{683}{}{Vypadáte nešastnì. Mìla byste odejít, zaèít novı ivot nìkde jinde.}
-{684}{}{Hmmm. Chci se ještì zeptat...}
-{690}{}{No to je ale SKVÌLİ nápad! A kam bych asi tak mìla jít? Do pouštì ít mezi divochy? Na jih do NCR? Na severozápad do Reddingu prodávat své tìlo horníkùm?}
-{691}{}{Proè je pro vás tak nepøedstavitelné opustit Reno? Vdy nejste hloupá. Myslím, e byste se dokázala vypracovat v èemkoliv byste chtìla.}
-{692}{}{Zapomeòte na to. Poslyšte, chci se ještì zeptat...}
-{700}{}{Kdy odejdu, tak mì manel pøivede zpátky. Rodina na sebe dohlíí, a u chtìjí nebo ne.}
-{701}{}{Hmmm. Moná bych mìla odejít... teï, kdy mìl John tu svoji zaslouenou nehodu. (Posmutnì se usmìje.) Moná to udìlám. Reno u mì... unavuje. (Zamyslí se.) Nebo moná potøebuje nového vùdce...}
-{702}{}{Poslyšte, chci se ještì zeptat...}
-{705}{}{Ne. (Otoèí se a nìco v polospánku zamumlá.) Nebuïte idiot. Jakmile by se to lidé dozvìdìli, budete do konce vašeho krátkého ivota jen utíkat.}
-{706}{}{Co kdy nikdo nepøijde na to, kdo to udìlal?}
-{710}{}{(Promne si oèi a mrkne.) O èem to MLUVÍTE? Nemluvte nesmysly.}
-{711}{}{Co kdy ho zabije nìjaká past? Nebo se mu stane nìjaká nehoda?}
-{712}{}{Tak dobøe. Poslyšte, chci se ještì zeptat...}
-{715}{}{(Vykulí oèi.) Jeho sejf... má nastraenou vıbušninu, kdyby se do nìj chtìl nìkdo dostat. Dá se bezpeènì otevøít jen tehdy, pokud se zadá pøesná kombinace. Ale kdyby se ta kombinace zmìnila... bez jeho vìdomí...}
-{716}{}{Hmmmm. Moná kdy "opravím" zámek na jeho sejfu... musím si to zapamatovat. Poslyšte, chci se ještì zeptat...}
-{720}{}{Ano, *mluvím* jinak ne vìtšina místních lidí. Øíká se tomu 'vzdìlání.' (Otoèí se na bok.) Pojïte spát.}
-{721}{}{Kde se dá získat takové vzdìlání?}
-{725}{}{*Zív*... vy u jste inteligentní dost... teï pojïte spát. Nepumpujte ze mì informace jako z nìjakého poèítaèe.}
+{606}{}{PoslyÅ¡te, radÄ›ji uÅ¾ pÅ¯jdu, panÃ­ BishopovÃ¡.}
+{610}{}{(Leslie se lehce zamraÄÃ­ a pÅ™ikryje se prostÄ›radlem.) MUSÃME se o nÄ›m bavit? NekaÅ¾me si tuhle chvÃ­li.}
+{611}{}{Opravdu to chci vÄ›dÄ›t. PovÄ›zte mi o nÄ›m nÄ›co.}
+{612}{}{Tak dobÅ™e, co tÅ™eba...}
+{615}{}{(ZasmÄ›je se.) Koho to zajÃ­mÃ¡? John je mrtvÃ½. AÅ¥ Å¾ije John! Bastard...}
+{616}{}{Pche! UjiÅ¡Å¥uji vÃ¡s, Å¾e mezi mnou a Johnem uÅ¾ nic nenÃ­. Ten maliÄkÃ½ kousek nÃ¡klonnosti, kterÃ½ jsme k sobÄ› cÃ­tili, se zmÄ›nil v hoÅ™kost. On mÃ¡ svoje Å¾eny a jÃ¡ mÃ¡m vlastnÃ­... potÄ›Å¡enÃ­.}
+{617}{}{StejnÄ› se ale musÃ­te mÃ­t poÅ™Ã¡d rÃ¡di, alespoÅˆ trochu.}
+{618}{}{Co mÃ¡ s NCR za kÅ¡efty?}
+{619}{}{Co mÃ¡ za kÅ¡efty s tÄ›mi 'nÃ¡jezdnÃ­ky', o kterÃ½ch lidÃ© mluvÃ­?}
+{620}{}{ZnÃ¡te kombinaci k jeho sejfu?}
+{621}{}{Bavme se radÄ›ji o nÄ›Äem jinÃ©m...}
+{625}{}{(ZamraÄÃ­ se.) To nechÃ¡m na vaÅ¡Ã­ pÅ™edstavivosti. MÅ¯Å¾eme toho *prosÃ­m* nechat? Bavme se o nÄ›Äem jinÃ©m.}
+{630}{}{MÃ¡m ho pro vÃ¡s zabÃ­t?}
+{635}{}{No... *zÃ­v*... myslÃ­m, Å¾e s nimi chce John vychÃ¡zet v dobrÃ©mmm... (ProtÃ¡hne se.) ...a zÃ­skat jejich pomoc, aby mohl zlikvidovat ostatnÃ­ rodiny.}
+{636}{}{To je vÅ¡echno, co chce Bishop od NCR?}
+{637}{}{Tak dobÅ™e. Bavme se o nÄ›Äem jinÃ©m...}
+{638}{}{Chci vÄ›dÄ›t jeÅ¡tÄ› nÄ›co o JohnovÃ½ch kÅ¡eftech...}
+{645}{}{(OtoÄÃ­ se na bok.) John poslal nÄ›jakÃ© Å¾oldÃ¡ky na vÃ½chod, poblÃ­Å¾ Vault City, aby 'navÅ¡tÄ›vovali' mÄ›sto. Chce na nÄ› trochu zatlaÄit, aby poprosili NCR o pomoc.}
+{646}{}{Poprosit *NCR* o pomoc? ProÄ?}
+{650}{}{Mmmmm... no... vÃ­te... (OtoÄÃ­ se.) John slÃ­bil NCR, Å¾e jim dÃ¡ Vault City. TakÅ¾e poslal pÃ¡r svÃ½ch muÅ¾Å¯ a Å™ekl jim, aÅ¥ se chovajÃ­ jako nÃ¡jezdnÃ­ci, dokud se Vault City nevzdÃ¡.}
+{651}{}{VÃ­te, kde jsou ti nÃ¡jezdnÃ­ci?}
+{652}{}{Eh... vÃ­te o nÄ›jakÃ©m DÅ®KAZU?}
+{655}{}{Ne... John mÃ¡ nejspÃ­Å¡ nÄ›kde mapu jejich Ãºkrytu. (PopotÃ¡hne a utÅ™e si nos.) Mmmmm...}
+{657}{}{Bavme se radÄ›ji o nÄ›Äem jinÃ©m...}
+{660}{}{ myslÃ­m... nebo nÄ›co takovÃ©ho...}
+{663}{}{VÃ½bornÄ›... Äas rozlousknout sejf... spÄ›te dobÅ™e, panÃ­ BishopovÃ¡.}
+{665}{}{VÃ­te, }
+{666}{}{Aha. DÃ­ky.}
+{670}{}{(ZamraÄÃ­ se.) Co s nÃ­? }
+{671}{}{Jestli mi tu budete vyklÃ¡dat, jak jste spolu smilnili, tak si to nechte pro sebe. A doufÃ¡m, Å¾e jste pouÅ¾ili kondom. }
+{672}{}{Ta dÄ›vka se vychrÃ¡pe s kaÅ¾dÃ½m divochem, kterÃ½ na ni zamÃ¡vÃ¡ svÃ½m nÃ¡Å™adÃ­m...}
+{673}{}{Eh... no... tak si pojÄme povÃ­dat o nÄ›Äem jinÃ©m...}
+{675}{}{(PokrÄÃ­ rameny.) NenÃ­ o Äem mluvit. Je to banda nÃ¡jemnÃ½ch hrdloÅ™ezÅ¯, Å¾oldÃ¡kÅ¯, kurev, feÅ¥Ã¡kÅ¯ a otrokÅ¯... (OtoÄÃ­ se na druhÃ½ bok.) ...to je 'rodina' BishopÅ¯. KÃ©Å¾ bych si tak nikdy nezaÄala s Johnem...}
+{677}{}{Hmmmm. Chci se jeÅ¡tÄ› zeptat...}
+{680}{}{A co vaÅ¡e manÅ¾elstvÃ­? Hmmmph. }
+{681}{}{Ne, moje 'manÅ¾elstvÃ­' nebylo Å¡Å¥astnÃ©. MÅ¯j neboÅ¾tÃ­k manÅ¾el se zajÃ­mal jenom o moc. To nenechÃ¡valo prostor... pro cokoliv jinÃ©ho. }
+{682}{}{Ne, moje 'manÅ¾elstvÃ­' nenÃ­ Å¡Å¥astnÃ©. MÃ©ho manÅ¾ela zajÃ­mÃ¡ jenom moc. To nenechÃ¡vÃ¡ prostor... pro cokoliv jinÃ©ho. }
+{683}{}{VypadÃ¡te neÅ¡Å¥astnÄ›. MÄ›la byste odejÃ­t, zaÄÃ­t novÃ½ Å¾ivot nÄ›kde jinde.}
+{684}{}{Hmmm. Chci se jeÅ¡tÄ› zeptat...}
+{690}{}{No to je ale SKVÄšLÃ nÃ¡pad! A kam bych asi tak mÄ›la jÃ­t? Do pouÅ¡tÄ› Å¾Ã­t mezi divochy? Na jih do NCR? Na severozÃ¡pad do Reddingu prodÃ¡vat svÃ© tÄ›lo hornÃ­kÅ¯m?}
+{691}{}{ProÄ je pro vÃ¡s tak nepÅ™edstavitelnÃ© opustit Reno? VÅ¾dyÅ¥ nejste hloupÃ¡. MyslÃ­m, Å¾e byste se dokÃ¡zala vypracovat v Äemkoliv byste chtÄ›la.}
+{692}{}{ZapomeÅˆte na to. PoslyÅ¡te, chci se jeÅ¡tÄ› zeptat...}
+{700}{}{KdyÅ¾ odejdu, tak mÄ› manÅ¾el pÅ™ivede zpÃ¡tky. Rodina na sebe dohlÃ­Å¾Ã­, aÅ¥ uÅ¾ chtÄ›jÃ­ nebo ne.}
+{701}{}{Hmmm. MoÅ¾nÃ¡ bych mÄ›la odejÃ­t... teÄ, kdyÅ¾ mÄ›l John tu svoji zaslouÅ¾enou nehodu. (PosmutnÄ› se usmÄ›je.) MoÅ¾nÃ¡ to udÄ›lÃ¡m. Reno uÅ¾ mÄ›... unavuje. (ZamyslÃ­ se.) Nebo moÅ¾nÃ¡ potÅ™ebuje novÃ©ho vÅ¯dce...}
+{702}{}{PoslyÅ¡te, chci se jeÅ¡tÄ› zeptat...}
+{705}{}{Ne. (OtoÄÃ­ se a nÄ›co v polospÃ¡nku zamumlÃ¡.) NebuÄte idiot. Jakmile by se to lidÃ© dozvÄ›dÄ›li, budete do konce vaÅ¡eho krÃ¡tkÃ©ho Å¾ivota jen utÃ­kat.}
+{706}{}{Co kdyÅ¾ nikdo nepÅ™ijde na to, kdo to udÄ›lal?}
+{710}{}{(Promne si oÄi a mrkne.) O Äem to MLUVÃTE? Nemluvte nesmysly.}
+{711}{}{Co kdyÅ¾ ho zabije nÄ›jakÃ¡ past? Nebo se mu stane nÄ›jakÃ¡ nehoda?}
+{712}{}{Tak dobÅ™e. PoslyÅ¡te, chci se jeÅ¡tÄ› zeptat...}
+{715}{}{(VykulÃ­ oÄi.) Jeho sejf... mÃ¡ nastraÅ¾enou vÃ½buÅ¡ninu, kdyby se do nÄ›j chtÄ›l nÄ›kdo dostat. DÃ¡ se bezpeÄnÄ› otevÅ™Ã­t jen tehdy, pokud se zadÃ¡ pÅ™esnÃ¡ kombinace. Ale kdyby se ta kombinace zmÄ›nila... bez jeho vÄ›domÃ­...}
+{716}{}{Hmmmm. MoÅ¾nÃ¡ kdyÅ¾ "opravÃ­m" zÃ¡mek na jeho sejfu... musÃ­m si to zapamatovat. PoslyÅ¡te, chci se jeÅ¡tÄ› zeptat...}
+{720}{}{Ano, *mluvÃ­m* jinak neÅ¾ vÄ›tÅ¡ina mÃ­stnÃ­ch lidÃ­. Å˜Ã­kÃ¡ se tomu 'vzdÄ›lÃ¡nÃ­.' (OtoÄÃ­ se na bok.) PojÄte spÃ¡t.}
+{721}{}{Kde se dÃ¡ zÃ­skat takovÃ© vzdÄ›lÃ¡nÃ­?}
+{725}{}{*ZÃ­v*... vy uÅ¾ jste inteligentnÃ­ dost... teÄ pojÄte spÃ¡t. Nepumpujte ze mÄ› informace jako z nÄ›jakÃ©ho poÄÃ­taÄe.}
 {726}{}{To ne, to nechci.}
-{730}{}{(Pootevøe jedno oko.) Kdo vám to øekl?}
-{731}{}{Tipnul jsem si to, kdy jsem vás slyšel mluvit o Vault City. Mìla jste takovı nostalgickı vıraz v oblièeji.}
-{735}{}{(Zaène se tváøit vánì a poté se otoèí, take ji nevidíš do tváøe.) Ani mi to místo nepøipomínejte.}
+{730}{}{(PootevÅ™e jedno oko.) Kdo vÃ¡m to Å™ekl?}
+{731}{}{Tipnul jsem si to, kdyÅ¾ jsem vÃ¡s slyÅ¡el mluvit o Vault City. MÄ›la jste takovÃ½ nostalgickÃ½ vÃ½raz v obliÄeji.}
+{735}{}{(ZaÄne se tvÃ¡Å™it vÃ¡Å¾nÄ› a potÃ© se otoÄÃ­, takÅ¾e ji nevidÃ­Å¡ do tvÃ¡Å™e.) Ani mi to mÃ­sto nepÅ™ipomÃ­nejte.}
 {736}{}{Co se stalo?}
-{740}{}{JOHN se stal. Kdysi jsem tam ila. Jednoho dne pøijel a úplnì mì okouzlil, protoe byl tak... drsnı, øekla bych. Úplnì jinı ne vìtšina Obèanù. Pochopitelnì mi dal okusit nìjaké drogy a... (Povzdechne si.)}
+{740}{}{JOHN se stal. Kdysi jsem tam Å¾ila. Jednoho dne pÅ™ijel a ÃºplnÄ› mÄ› okouzlil, protoÅ¾e byl tak... drsnÃ½, Å™ekla bych. ÃšplnÄ› jinÃ½ neÅ¾ vÄ›tÅ¡ina ObÄanÅ¯. PochopitelnÄ› mi dal okusit nÄ›jakÃ© drogy a... (Povzdechne si.)}
 {741}{}{A?}
-{745}{}{Mìli pamìové moduly pro Pip-Boye, které obsahovaly slovníky a encyklopedie. Jeden z jazykovıch modulù jsem si vzala, kdy jsem odcházela, i kdy ani nevím proè.}
+{745}{}{MÄ›li pamÄ›Å¥ovÃ© moduly pro Pip-Boye, kterÃ© obsahovaly slovnÃ­ky a encyklopedie. Jeden z jazykovÃ½ch modulÅ¯ jsem si vzala, kdyÅ¾ jsem odchÃ¡zela, i kdyÅ¾ ani nevÃ­m proÄ.}
 {746}{}{Kde je ten modul?}
-{750}{}{*Zív*... (Schoulí se do klubíèka.) Je v mém sejfu. Bez Pip-Boye je ale k nièemu. Ani nevím, proè ho ještì mám.}
-{751}{}{Mùu si ho vzít?}
-{752}{}{Hmmmnn. Chci se ještì zeptat...}
-{760}{}{(Pokrèí rameny.) Jistì, jestli ho chcete. Kombinace je }
-{761}{}{Jak se to pouívá?}
-{762}{}{Díky. Poslyšte, chci se ještì zeptat...}
-{770}{}{(Leslie se pøevrátí na bok a zavøe oèi. Bìhem nìkolika vteøin usne.)}
-{771}{}{[Tiše vylézt z postele a obléknout se]}
-{780}{}{Jediná 'láska' mezi námi dvìma je, kdy vleze do mé lonice a nalehne na mì jako oralá brahmína. A to je moná jeho nejménì opovreníhodná vlastnost, kdy se zamyslím nad tím, èím se zabıvá.}
-{781}{}{Èím se zabıvá?}
+{750}{}{*ZÃ­v*... (SchoulÃ­ se do klubÃ­Äka.) Je v mÃ©m sejfu. Bez Pip-Boye je ale k niÄemu. Ani nevÃ­m, proÄ ho jeÅ¡tÄ› mÃ¡m.}
+{751}{}{MÅ¯Å¾u si ho vzÃ­t?}
+{752}{}{Hmmmnn. Chci se jeÅ¡tÄ› zeptat...}
+{760}{}{(PokrÄÃ­ rameny.) JistÄ›, jestli ho chcete. Kombinace je }
+{761}{}{Jak se to pouÅ¾Ã­vÃ¡?}
+{762}{}{DÃ­ky. PoslyÅ¡te, chci se jeÅ¡tÄ› zeptat...}
+{770}{}{(Leslie se pÅ™evrÃ¡tÃ­ na bok a zavÅ™e oÄi. BÄ›hem nÄ›kolika vteÅ™in usne.)}
+{771}{}{[TiÅ¡e vylÃ©zt z postele a oblÃ©knout se]}
+{780}{}{JedinÃ¡ 'lÃ¡ska' mezi nÃ¡mi dvÄ›ma je, kdyÅ¾ vleze do mÃ© loÅ¾nice a nalehne na mÄ› jako oÅ¾ralÃ¡ brahmÃ­na. A to je moÅ¾nÃ¡ jeho nejmÃ©nÄ› opovrÅ¾enÃ­hodnÃ¡ vlastnost, kdyÅ¾ se zamyslÃ­m nad tÃ­m, ÄÃ­m se zabÃ½vÃ¡.}
+{781}{}{ÄŒÃ­m se zabÃ½vÃ¡?}
 {790}{}{He also probably wants a say in who controls the drug trade in the new California
  Republic... him. He's been looking into rigging elections down soooouth... *yawn*}
-{791}{}{Take on vlastnì chce, aby se Reno PØIDALO k Republice... hmmmm. Dobøe, bavme se o nìèem jiném...}
-{792}{}{Zajímavé. Zajímaly by mì i ostatní Johnovy kšefty...}
-{800}{}{Drogy jsou ve Vault City pochopitelnì nelegální. Ostatní Obèané na to pøišli a zrušili mé Obèanství. John byl jedinı, na koho jsem se mohla obrátit... a on to samozøejmì vìdìl. Celé si to naplánoval.}
-{801}{}{Take jste získala vzdìlání ve Vault City? A proto mluvíte jinak ne ostatní lidé v Renu?}
-{810}{}{Staèí si na hlavu nasadit helmu, dát si optickı senzor pøed pravé oko a poté pøipojit druhı konec... hmpphh... (Otoèí se.) ...k Pip-Boyi. Ucítíte drobnı tlak v hlavì, trochu se vám zvedne aludek a poté se vám hlava... proèistí.}
-{815}{}{Mmmmmnnn...? Nevím. Moná je nìco v sejfu v jeho pokoji... má tam dùleité záznamy, kdyby chtìl nìkoho vydírat.}
-{820}{}{(Tvoje otázka se nedoèkala odpovìdi... Leslie Bishopová usnula. Má širokı úsmìv na tváøi, pevnì svírá polštáø a mumlá si tvoje jméno.)}
-{821}{}{(Tvoje otázka se nedoèkala odpovìdi... Leslie Bishopová usnula. Nemùeš si pomoct, ale napadá tì, jestli by nezùstala vzhùru déle, kdybys byl trochu... zkušenìjší, ale na tuhle myšlenku rychle zapomeneš, protoe zraòuje tvoje ego.)}
+{791}{}{TakÅ¾e on vlastnÄ› chce, aby se Reno PÅ˜IDALO k Republice... hmmmm. DobÅ™e, bavme se o nÄ›Äem jinÃ©m...}
+{792}{}{ZajÃ­mavÃ©. ZajÃ­maly by mÄ› i ostatnÃ­ Johnovy kÅ¡efty...}
+{800}{}{Drogy jsou ve Vault City pochopitelnÄ› nelegÃ¡lnÃ­. OstatnÃ­ ObÄanÃ© na to pÅ™iÅ¡li a zruÅ¡ili mÃ© ObÄanstvÃ­. John byl jedinÃ½, na koho jsem se mohla obrÃ¡tit... a on to samozÅ™ejmÄ› vÄ›dÄ›l. CelÃ© si to naplÃ¡noval.}
+{801}{}{TakÅ¾e jste zÃ­skala vzdÄ›lÃ¡nÃ­ ve Vault City? A proto mluvÃ­te jinak neÅ¾ ostatnÃ­ lidÃ© v Renu?}
+{810}{}{StaÄÃ­ si na hlavu nasadit helmu, dÃ¡t si optickÃ½ senzor pÅ™ed pravÃ© oko a potÃ© pÅ™ipojit druhÃ½ konec... hmpphh... (OtoÄÃ­ se.) ...k Pip-Boyi. UcÃ­tÃ­te drobnÃ½ tlak v hlavÄ›, trochu se vÃ¡m zvedne Å¾aludek a potÃ© se vÃ¡m hlava... proÄistÃ­.}
+{815}{}{Mmmmmnnn...? NevÃ­m. MoÅ¾nÃ¡ je nÄ›co v sejfu v jeho pokoji... mÃ¡ tam dÅ¯leÅ¾itÃ© zÃ¡znamy, kdyby chtÄ›l nÄ›koho vydÃ­rat.}
+{820}{}{(Tvoje otÃ¡zka se nedoÄkala odpovÄ›di... Leslie BishopovÃ¡ usnula. MÃ¡ Å¡irokÃ½ ÃºsmÄ›v na tvÃ¡Å™i, pevnÄ› svÃ­rÃ¡ polÅ¡tÃ¡Å™ a mumlÃ¡ si tvoje jmÃ©no.)}
+{821}{}{(Tvoje otÃ¡zka se nedoÄkala odpovÄ›di... Leslie BishopovÃ¡ usnula. NemÅ¯Å¾eÅ¡ si pomoct, ale napadÃ¡ tÄ›, jestli by nezÅ¯stala vzhÅ¯ru dÃ©le, kdybys byl trochu... zkuÅ¡enÄ›jÅ¡Ã­, ale na tuhle myÅ¡lenku rychle zapomeneÅ¡, protoÅ¾e zraÅˆuje tvoje ego.)}
 {822}{}{[Potichu vyklouznout z postele]}
-{825}{}{(Po pár minutách tvého milování paní Bishopová náhle usne. Zaène tiše chrápat.)}
-{826}{}{[Obléknout se a poté odejít]}
-{900}{}{Podaøilo se ti pøesvìdèit paní Bishopovou, e mùe zmìnit svùj ivot... k lepšímu.}
+{825}{}{(Po pÃ¡r minutÃ¡ch tvÃ©ho milovÃ¡nÃ­ panÃ­ BishopovÃ¡ nÃ¡hle usne. ZaÄne tiÅ¡e chrÃ¡pat.)}
+{826}{}{[OblÃ©knout se a potÃ© odejÃ­t]}
+{900}{}{PodaÅ™ilo se ti pÅ™esvÄ›dÄit panÃ­ Bishopovou, Å¾e mÅ¯Å¾e zmÄ›nit svÅ¯j Å¾ivot... k lepÅ¡Ã­mu.}
 {1253}{}{.}
-{1315}{}{...' Take... '}
+{1315}{}{...' TakÅ¾e... '}
 {1510}{}{, mmm-mmmm... mmmzmzrrm}
 {1511}{}{...oooch... }
 {1512}{}{...mmm...}
 {1591}{}{. }
-{1665}{}{...(Paní Bishopová... Leslie... se otoèí a opøe se loktama o postel.) V jeho sejfu je nastraená vıbušnina, take buïte opatrnı, ano? Bez prstù jste mi k nièemu. (Usmìje se a pøevrátí se zpátky.)}
-{1760}{}{. Modul je ve skryté schránce na dnì... zlodìj by ho nenašel, pokud by nevìdìl, kde hledat.}
-{2315}{}{' ...co pro vás mùu udìlat?}
+{1665}{}{...(PanÃ­ BishopovÃ¡... Leslie... se otoÄÃ­ a opÅ™e se loktama o postel.) V jeho sejfu je nastraÅ¾enÃ¡ vÃ½buÅ¡nina, takÅ¾e buÄte opatrnÃ½, ano? Bez prstÅ¯ jste mi k niÄemu. (UsmÄ›je se a pÅ™evrÃ¡tÃ­ se zpÃ¡tky.)}
+{1760}{}{. Modul je ve skrytÃ© schrÃ¡nce na dnÄ›... zlodÄ›j by ho nenaÅ¡el, pokud by nevÄ›dÄ›l, kde hledat.}
+{2315}{}{' ...co pro vÃ¡s mÅ¯Å¾u udÄ›lat?}
 {2511}{}{...mmm}

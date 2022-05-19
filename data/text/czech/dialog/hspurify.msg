@@ -1,12 +1,12 @@
-{100}{}{Vidíš poøádnı kus stroje.}
+{100}{}{VidÃ­Å¡ poÅ™Ã¡dnÃ½ kus stroje.}
 {101}{}{The air purifier is making clunking and creaking noises. It appears to be broken. Maybe it needs a part...}
-{102}{}{Èistièka vzduchu tiše pøede. Vypadá to, e je všechno v poøádku.}
-{110}{}{Tato souèástka to neopraví.}
-{120}{}{Podaøilo se ti opravit èistièku vzduchu.}
-{125}{}{Èistièka vzduchu byla znièena.}
-{129}{}{Spiklenci u nemùou vyslat odpalující signál pro rozbušku. Je u k nièemu, take ji zahodíš.}
-{130}{}{U je to opravené.}
+{102}{}{ÄŒistiÄka vzduchu tiÅ¡e pÅ™ede. VypadÃ¡ to, Å¾e je vÅ¡echno v poÅ™Ã¡dku.}
+{110}{}{Tato souÄÃ¡stka to neopravÃ­.}
+{120}{}{PodaÅ™ilo se ti opravit ÄistiÄku vzduchu.}
+{125}{}{ÄŒistiÄka vzduchu byla zniÄena.}
+{129}{}{Spiklenci uÅ¾ nemÅ¯Å¾ou vyslat odpalujÃ­cÃ­ signÃ¡l pro rozbuÅ¡ku. Je uÅ¾ k niÄemu, takÅ¾e ji zahodÃ­Å¡.}
+{130}{}{UÅ¾ je to opravenÃ©.}
 {131}{}{Buch}
-{132}{}{Skøíp}
-{133}{}{Bøink}
+{132}{}{SkÅ™Ã­p}
+{133}{}{BÅ™ink}
 {134}{}{Vrrrrrrrrr}

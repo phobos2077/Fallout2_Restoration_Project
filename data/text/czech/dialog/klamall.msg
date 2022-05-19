@@ -1,1 +1,1 @@
-{100}{}{Nacházíš se v Lovecké ètvrti.}
+{100}{}{NachÃ¡zÃ­Å¡ se v LoveckÃ© Ätvrti.}

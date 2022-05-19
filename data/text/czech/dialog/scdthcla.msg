@@ -1,11 +1,11 @@
-{100}{}{Ty obludy pøišly ze severovıchodu. Nemìl by bıt problém je stopovat zpátky do jejich brlohu (Úniková zóna na severovıchodì.)}
-{101}{}{Hmm, to je ale nuda. Doufám, e se nìco stane.}
+{100}{}{Ty obludy pÅ™iÅ¡ly ze severovÃ½chodu. NemÄ›l by bÃ½t problÃ©m je stopovat zpÃ¡tky do jejich brlohu (ÃšnikovÃ¡ zÃ³na na severovÃ½chodÄ›.)}
+{101}{}{Hmm, to je ale nuda. DoufÃ¡m, Å¾e se nÄ›co stane.}
 {102}{}{To je hodin...}
-{103}{}{Hmmm, to bıt nuda.}
-{104}{}{Chrrr... chrr... hé, co...?}
-{105}{}{Podívat - èlovìk hlídat brahmína.}
-{106}{}{Gruthar øíct my jít. Neublíit èlovìk.}
-{107}{}{Podívat. To}
-{108}{}{. My jít.}
-{109}{}{To divná. Zlá vìci mluvit?}
-{110}{}{Mluvící páraèi? To je divné...}
+{103}{}{Hmmm, to bÃ½t nuda.}
+{104}{}{Chrrr... chrr... hÃ©, co...?}
+{105}{}{PodÃ­vat - ÄlovÄ›k hlÃ­dat brahmÃ­na.}
+{106}{}{Gruthar Å™Ã­ct my jÃ­t. NeublÃ­Å¾it ÄlovÄ›k.}
+{107}{}{PodÃ­vat. To}
+{108}{}{. My jÃ­t.}
+{109}{}{To divnÃ¡. ZlÃ¡ vÄ›ci mluvit?}
+{110}{}{MluvÃ­cÃ­ pÃ¡raÄi? To je divnÃ©...}

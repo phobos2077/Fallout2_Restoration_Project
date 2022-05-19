@@ -1,5 +1,5 @@
-{100}{}{Poté, co se tvé oèi pøizpùsobí tmì v jeskyni, pøed sebou uvidíš následky zøícení. Na zemi leí bezbrannı váleèník a pokouší se uvolnit svoji zlomenou nohu, která mu uvízla pod velikım kamenem, zatímco se k nìmu rychle blíí zlatı geckon. Poblí leí bezvládné tìlo dalšího váleèníka.}
-{101}{}{Vlítnout dovnitø a pokusit se zachránit divocha.}
-{102}{}{Zùstat stát na místì a sledovat, co se bude dít.}
-{200}{}{Kdy já zemøíti, tak já zemøíti jako opravdová váleèník.}
-{201}{}{Ááá!}
+{100}{}{PotÃ©, co se tvÃ© oÄi pÅ™izpÅ¯sobÃ­ tmÄ› v jeskyni, pÅ™ed sebou uvidÃ­Å¡ nÃ¡sledky zÅ™Ã­cenÃ­. Na zemi leÅ¾Ã­ bezbrannÃ½ vÃ¡leÄnÃ­k a pokouÅ¡Ã­ se uvolnit svoji zlomenou nohu, kterÃ¡ mu uvÃ­zla pod velikÃ½m kamenem, zatÃ­mco se k nÄ›mu rychle blÃ­Å¾Ã­ zlatÃ½ geckon. PoblÃ­Å¾ leÅ¾Ã­ bezvlÃ¡dnÃ© tÄ›lo dalÅ¡Ã­ho vÃ¡leÄnÃ­ka.}
+{101}{}{VlÃ­tnout dovnitÅ™ a pokusit se zachrÃ¡nit divocha.}
+{102}{}{ZÅ¯stat stÃ¡t na mÃ­stÄ› a sledovat, co se bude dÃ­t.}
+{200}{}{KdyÅ¾ jÃ¡ zemÅ™Ã­ti, tak jÃ¡ zemÅ™Ã­ti jako opravdovÃ¡ vÃ¡leÄnÃ­k.}
+{201}{}{ÃÃ¡Ã¡!}

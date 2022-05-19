@@ -1,48 +1,48 @@
-{100}{}{Vidíš opotøebovanì vypadající hologram.}
-{101}{}{Vidíš øeditele údrby.}
-{102}{}{Hologram 10031. Stará se o všechnu údrbu v komplexu EPA.}
-{200}{}{Zdravím. Mùu se zeptat, jak jste se sem dostal? Vıtahy na povrch u delší dobu nefungují.}
-{201}{}{No... sešplhal jsem po lanì vıtahovou šachtou dolù a na údrbáøské podlaí... a potom jsem se proplazil ventilací, která mì dovedla a na údrbu robotù...}
-{210}{}{Pøekvapuje mì, e se vám sem podaøilo dostat, ani by vás seraly ty zatracené rostliny. Jsem Hologram 10031, øeditel údrby zde v komplexu EPA. (Hluboce si povzdechne.) Já vím, já vím, areál vypadá otøesnì. Nemusíte mi to øíkat.}
-{211}{}{Kdy se vám nelíbí jak areál vypadá, tak proè s tím nìco neudìláte?}
-{212}{}{To teda. Celı areál je zneèištìn radioaktivním spadem, mrtvolami, zmutovanımi masoravımi rostlinami... jako vánì, vy musíte bıt ten nejhorší správce na svìtì.}
-{220}{}{Kdybych s tím mohl nìco udìlat, tak to udìlám, vìøte mi. Nemám ádné fyzické tìlo a ti zatracení roboti nereagují na mé pøíkazy. U po nìkolik desítek let pracuji se 100% neefektivností... jak ubohé, e? Ostatní hologramy mi to neustále pøipomínají. Jedinì provozní øeditel je ještì víc k nièemu ne já.}
-{221}{}{Co kdy vám s tím nìjak pomùu?}
-{222}{}{To je opravdu škoda. Musím u jít. Sbohem.}
-{230}{}{Jo, to by bylo skvìlé, pokud mi chcete opravdu pomoct. Ujišuji vás, e vás odmìna nemine.}
-{231}{}{Jakoby se stalo. S èím vám tedy mùu pomoct?}
-{232}{}{Ne, na tohle teï nemám èas.}
-{240}{}{Ty zmutované rostliny pøerostly pøes hranice skleníku a zakoøenily po celém komplexu EPA. Pokud pro mì ty bastardy zlikvidujete, byl by z toho velkı krok správnım smìrem.}
-{241}{}{Jasnì, klidnì ty rostliny pro vás zabiju. Vrátím se, a to bude hotové.}
-{242}{}{Tak to bylo snadné. U jsou všechny zlikvidované.}
-{250}{}{Ahoj. Co pro vás mùu udìlat? *Povzdech*}
-{251}{}{Vypadáte velice mrzutì. Co se dìje?}
-{260}{}{Zdravím. Take mi u pomùete? Jak jsem øekl, nebude to bez odmìny.}
-{261}{}{Jasnì, proè ne. Nemám nic lepšího na práci.}
-{262}{}{Ne, poøád mám moc práce. Vrátím se nìkdy jindy.}
-{270}{}{Dokonèil jste pro mì ten úkol?}
-{271}{}{Jo, zlikvidoval jsem všechny masoravé rostliny. Zemì sice poøád vypadá pøíšernì, ale aspoò je tu o trochu bezpeènìji.}
-{272}{}{Ne, ještì ne. Ještì se vrátím.}
-{280}{}{Ach, dìkuji moc. Za to vás jmenuji svım asistentem údrby. (Ukáe na klíè, kterı mu leí u nohou.) Pøemluvil jsem jednoho napùl funkèního robota, aby vám tohle pøinesl. Nyní máte pøístup do skladištì. Ještì jednou díky.}
-{281}{}{[Sebrat klíè a dát si ho do kapsy] Dobøe. Nashle.}
-{290}{}{Vypadáte ponìkud rozhozenì. Je všechno v poøádku?}
-{291}{}{Jo, jsem v pohodì. Na cestì sem dolù mi trochu dìlaly potíe zmutované rostliny, ale postaral jsem se o nì.}
-{300}{}{Vy jste je zabil? Skvìlé! Za to vás jmenuji svım asistentem údrby. (Ukáe na klíè, kterı mu leí u nohou.) Pøemluvil jsem jednoho napùl funkèního robota, aby mi pøinesl tyhle klíèe... kdyby nìco. Vezmìte si je. Nyní máte pøístup do skladištì. Ještì jednou díky.}
-{301}{}{Ale to nemuselo bıt. To ani nestálo za øeè. Netrapte se tím.}
-{302}{}{Hej, díky! Sbohem.}
-{310}{}{Hele, vykonal jste pro mì dobrou slubu, take si vezmìte ten klíè a s ním i všechno, co chcete nebo potøebujete. Tímto zpùsobem vám chci vyjádøit díky za vaši pomoc.}
-{311}{}{Aha, tak dobøe. Poslyšte, kdo vlastnì jste? Proè bylo pro vás tak dùleité, aby byly všechny ty rostliny zlikvidovány?}
-{320}{}{Jsem øeditel údrby. Dohlíím na to, aby byl areál v poøádku, ale jeliko jsem hologram a sám nic nezmùu, tak dávám pøíkazy robotùm, aby to všechno udìlali místo mì. A protoe vìtšina z nich pøestala fungovat, pracoval jsem u posledních pár let se 100% neefektivností. Pomohl jste mi víc, ne si vùbec dokáete pøedstavit.}
-{321}{}{V pohodì. Teï u ale musím jít.}
-{330}{}{Pokraèujte v dobøe odvedené práci, asistente.}
-{331}{}{Pracuji teï s 1% efektivností!}
-{332}{}{Podaøilo se ti zlikvidovat všechny zmutované rostliny, které se rozrostly po celém komplexu EPA.}
-{333}{}{Celé místo bylo zamoøeno tìmi zmutovanımi rostlinami.}
-{334}{}{Jsou úplnì všude.}
-{335}{}{A pak jsou tam ještì mantisové...}
-{336}{}{Skleník je v troskách.}
-{337}{}{Ké by tak roboti reagovali na moje pøíkazy..}
-{338}{}{Já vím, jsem úplná troska.}
-{339}{}{Velice se omlouvám za špatnı stav areálu.}
-{340}{}{Kdybych s tím mohl nìco udìlat, tak to udìlám.}
-{341}{}{Moná, e má 10001 pravdu. Moná bychom to mìli všechno znièit.}
+{100}{}{VidÃ­Å¡ opotÅ™ebovanÄ› vypadajÃ­cÃ­ hologram.}
+{101}{}{VidÃ­Å¡ Å™editele ÃºdrÅ¾by.}
+{102}{}{Hologram 10031. StarÃ¡ se o vÅ¡echnu ÃºdrÅ¾bu v komplexu EPA.}
+{200}{}{ZdravÃ­m. MÅ¯Å¾u se zeptat, jak jste se sem dostal? VÃ½tahy na povrch uÅ¾ delÅ¡Ã­ dobu nefungujÃ­.}
+{201}{}{No... seÅ¡plhal jsem po lanÄ› vÃ½tahovou Å¡achtou dolÅ¯ aÅ¾ na ÃºdrÅ¾bÃ¡Å™skÃ© podlaÅ¾Ã­... a potom jsem se proplazil ventilacÃ­, kterÃ¡ mÄ› dovedla aÅ¾ na ÃºdrÅ¾bu robotÅ¯...}
+{210}{}{PÅ™ekvapuje mÄ›, Å¾e se vÃ¡m sem podaÅ™ilo dostat, aniÅ¾ by vÃ¡s seÅ¾raly ty zatracenÃ© rostliny. Jsem Hologram 10031, Å™editel ÃºdrÅ¾by zde v komplexu EPA. (Hluboce si povzdechne.) JÃ¡ vÃ­m, jÃ¡ vÃ­m, areÃ¡l vypadÃ¡ otÅ™esnÄ›. NemusÃ­te mi to Å™Ã­kat.}
+{211}{}{KdyÅ¾ se vÃ¡m nelÃ­bÃ­ jak areÃ¡l vypadÃ¡, tak proÄ s tÃ­m nÄ›co neudÄ›lÃ¡te?}
+{212}{}{To teda. CelÃ½ areÃ¡l je zneÄiÅ¡tÄ›n radioaktivnÃ­m spadem, mrtvolami, zmutovanÃ½mi masoÅ¾ravÃ½mi rostlinami... jako vÃ¡Å¾nÄ›, vy musÃ­te bÃ½t ten nejhorÅ¡Ã­ sprÃ¡vce na svÄ›tÄ›.}
+{220}{}{Kdybych s tÃ­m mohl nÄ›co udÄ›lat, tak to udÄ›lÃ¡m, vÄ›Å™te mi. NemÃ¡m Å¾Ã¡dnÃ© fyzickÃ© tÄ›lo a ti zatracenÃ­ roboti nereagujÃ­ na mÃ© pÅ™Ã­kazy. UÅ¾ po nÄ›kolik desÃ­tek let pracuji se 100% neefektivnostÃ­... jak ubohÃ©, Å¾e? OstatnÃ­ hologramy mi to neustÃ¡le pÅ™ipomÃ­najÃ­. JedinÄ› provoznÃ­ Å™editel je jeÅ¡tÄ› vÃ­c k niÄemu neÅ¾ jÃ¡.}
+{221}{}{Co kdyÅ¾ vÃ¡m s tÃ­m nÄ›jak pomÅ¯Å¾u?}
+{222}{}{To je opravdu Å¡koda. MusÃ­m uÅ¾ jÃ­t. Sbohem.}
+{230}{}{Jo, to by bylo skvÄ›lÃ©, pokud mi chcete opravdu pomoct. UjiÅ¡Å¥uji vÃ¡s, Å¾e vÃ¡s odmÄ›na nemine.}
+{231}{}{Jakoby se stalo. S ÄÃ­m vÃ¡m tedy mÅ¯Å¾u pomoct?}
+{232}{}{Ne, na tohle teÄ nemÃ¡m Äas.}
+{240}{}{Ty zmutovanÃ© rostliny pÅ™erostly pÅ™es hranice sklenÃ­ku a zakoÅ™enily po celÃ©m komplexu EPA. Pokud pro mÄ› ty bastardy zlikvidujete, byl by z toho velkÃ½ krok sprÃ¡vnÃ½m smÄ›rem.}
+{241}{}{JasnÄ›, klidnÄ› ty rostliny pro vÃ¡s zabiju. VrÃ¡tÃ­m se, aÅ¾ to bude hotovÃ©.}
+{242}{}{Tak to bylo snadnÃ©. UÅ¾ jsou vÅ¡echny zlikvidovanÃ©.}
+{250}{}{Ahoj. Co pro vÃ¡s mÅ¯Å¾u udÄ›lat? *Povzdech*}
+{251}{}{VypadÃ¡te velice mrzutÄ›. Co se dÄ›je?}
+{260}{}{ZdravÃ­m. TakÅ¾e mi uÅ¾ pomÅ¯Å¾ete? Jak jsem Å™ekl, nebude to bez odmÄ›ny.}
+{261}{}{JasnÄ›, proÄ ne. NemÃ¡m nic lepÅ¡Ã­ho na prÃ¡ci.}
+{262}{}{Ne, poÅ™Ã¡d mÃ¡m moc prÃ¡ce. VrÃ¡tÃ­m se nÄ›kdy jindy.}
+{270}{}{DokonÄil jste pro mÄ› ten Ãºkol?}
+{271}{}{Jo, zlikvidoval jsem vÅ¡echny masoÅ¾ravÃ© rostliny. ZemÄ› sice poÅ™Ã¡d vypadÃ¡ pÅ™Ã­Å¡ernÄ›, ale aspoÅˆ je tu o trochu bezpeÄnÄ›ji.}
+{272}{}{Ne, jeÅ¡tÄ› ne. JeÅ¡tÄ› se vrÃ¡tÃ­m.}
+{280}{}{Ach, dÄ›kuji moc. Za to vÃ¡s jmenuji svÃ½m asistentem ÃºdrÅ¾by. (UkÃ¡Å¾e na klÃ­Ä, kterÃ½ mu leÅ¾Ã­ u nohou.) PÅ™emluvil jsem jednoho napÅ¯l funkÄnÃ­ho robota, aby vÃ¡m tohle pÅ™inesl. NynÃ­ mÃ¡te pÅ™Ã­stup do skladiÅ¡tÄ›. JeÅ¡tÄ› jednou dÃ­ky.}
+{281}{}{[Sebrat klÃ­Ä a dÃ¡t si ho do kapsy] DobÅ™e. Nashle.}
+{290}{}{VypadÃ¡te ponÄ›kud rozhozenÄ›. Je vÅ¡echno v poÅ™Ã¡dku?}
+{291}{}{Jo, jsem v pohodÄ›. Na cestÄ› sem dolÅ¯ mi trochu dÄ›laly potÃ­Å¾e zmutovanÃ© rostliny, ale postaral jsem se o nÄ›.}
+{300}{}{Vy jste je zabil? SkvÄ›lÃ©! Za to vÃ¡s jmenuji svÃ½m asistentem ÃºdrÅ¾by. (UkÃ¡Å¾e na klÃ­Ä, kterÃ½ mu leÅ¾Ã­ u nohou.) PÅ™emluvil jsem jednoho napÅ¯l funkÄnÃ­ho robota, aby mi pÅ™inesl tyhle klÃ­Äe... kdyby nÄ›co. VezmÄ›te si je. NynÃ­ mÃ¡te pÅ™Ã­stup do skladiÅ¡tÄ›. JeÅ¡tÄ› jednou dÃ­ky.}
+{301}{}{Ale to nemuselo bÃ½t. To ani nestÃ¡lo za Å™eÄ. Netrapte se tÃ­m.}
+{302}{}{Hej, dÃ­ky! Sbohem.}
+{310}{}{Hele, vykonal jste pro mÄ› dobrou sluÅ¾bu, takÅ¾e si vezmÄ›te ten klÃ­Ä a s nÃ­m i vÅ¡echno, co chcete nebo potÅ™ebujete. TÃ­mto zpÅ¯sobem vÃ¡m chci vyjÃ¡dÅ™it dÃ­ky za vaÅ¡i pomoc.}
+{311}{}{Aha, tak dobÅ™e. PoslyÅ¡te, kdo vlastnÄ› jste? ProÄ bylo pro vÃ¡s tak dÅ¯leÅ¾itÃ©, aby byly vÅ¡echny ty rostliny zlikvidovÃ¡ny?}
+{320}{}{Jsem Å™editel ÃºdrÅ¾by. DohlÃ­Å¾Ã­m na to, aby byl areÃ¡l v poÅ™Ã¡dku, ale jelikoÅ¾ jsem hologram a sÃ¡m nic nezmÅ¯Å¾u, tak dÃ¡vÃ¡m pÅ™Ã­kazy robotÅ¯m, aby to vÅ¡echno udÄ›lali mÃ­sto mÄ›. A protoÅ¾e vÄ›tÅ¡ina z nich pÅ™estala fungovat, pracoval jsem uÅ¾ poslednÃ­ch pÃ¡r let se 100% neefektivnostÃ­. Pomohl jste mi vÃ­c, neÅ¾ si vÅ¯bec dokÃ¡Å¾ete pÅ™edstavit.}
+{321}{}{V pohodÄ›. TeÄ uÅ¾ ale musÃ­m jÃ­t.}
+{330}{}{PokraÄujte v dobÅ™e odvedenÃ© prÃ¡ci, asistente.}
+{331}{}{Pracuji teÄ s 1% efektivnostÃ­!}
+{332}{}{PodaÅ™ilo se ti zlikvidovat vÅ¡echny zmutovanÃ© rostliny, kterÃ© se rozrostly po celÃ©m komplexu EPA.}
+{333}{}{CelÃ© mÃ­sto bylo zamoÅ™eno tÄ›mi zmutovanÃ½mi rostlinami.}
+{334}{}{Jsou ÃºplnÄ› vÅ¡ude.}
+{335}{}{A pak jsou tam jeÅ¡tÄ› mantisovÃ©...}
+{336}{}{SklenÃ­k je v troskÃ¡ch.}
+{337}{}{KÃ©Å¾ by tak roboti reagovali na moje pÅ™Ã­kazy..}
+{338}{}{JÃ¡ vÃ­m, jsem ÃºplnÃ¡ troska.}
+{339}{}{Velice se omlouvÃ¡m za Å¡patnÃ½ stav areÃ¡lu.}
+{340}{}{Kdybych s tÃ­m mohl nÄ›co udÄ›lat, tak to udÄ›lÃ¡m.}
+{341}{}{MoÅ¾nÃ¡, Å¾e mÃ¡ 10001 pravdu. MoÅ¾nÃ¡ bychom to mÄ›li vÅ¡echno zniÄit.}

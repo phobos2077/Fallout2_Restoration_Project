@@ -1,1 +1,1 @@
-{100}{}{Vidíš nìjaké kosti.}
+{100}{}{VidÃ­Å¡ nÄ›jakÃ© kosti.}

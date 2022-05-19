@@ -1,7 +1,7 @@
-{100}{}{Jak se opovauješ mì vyrušit pøi meditaci!}
-{101}{}{Duchové zemì, do útoku!}
-{102}{}{Velkı duchu, ochraòuj mì.}
-{103}{}{Moje kosti poskytnou zemi iviny... za mnoho let.}
-{104}{}{Do hajzlu s duchy. Padám odsud.}
-{105}{}{Vidíš svatého mue.}
-{106}{}{Vidíš jeptišku.}
+{100}{}{Jak se opovaÅ¾ujeÅ¡ mÄ› vyruÅ¡it pÅ™i meditaci!}
+{101}{}{DuchovÃ© zemÄ›, do Ãºtoku!}
+{102}{}{VelkÃ½ duchu, ochraÅˆuj mÄ›.}
+{103}{}{Moje kosti poskytnou zemi Å¾iviny... za mnoho let.}
+{104}{}{Do hajzlu s duchy. PadÃ¡m odsud.}
+{105}{}{VidÃ­Å¡ svatÃ©ho muÅ¾e.}
+{106}{}{VidÃ­Å¡ jeptiÅ¡ku.}

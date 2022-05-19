@@ -1,16 +1,16 @@
-{100}{}{Vidíš velkého, hloupì vypadajícího a a pøíliš svalnatého tıpka.}
-{101}{}{Vidíš Hosse.}
-{102}{}{Nevypadá to, e by byl vyzbrojen nìjakou zbraní nebo dùvtipem.}
-{103}{}{Hej ty, praseèí ksichte. Nelíbíš se mi. Kup mi nìco k pití.}
-{104}{}{Hej kotì, pojï sem a já ti dám nìco pìknıho, velkıho a vlhkıho.}
+{100}{}{VidÃ­Å¡ velkÃ©ho, hloupÄ› vypadajÃ­cÃ­ho a aÅ¾ pÅ™Ã­liÅ¡ svalnatÃ©ho tÃ½pka.}
+{101}{}{VidÃ­Å¡ Hosse.}
+{102}{}{NevypadÃ¡ to, Å¾e by byl vyzbrojen nÄ›jakou zbranÃ­ nebo dÅ¯vtipem.}
+{103}{}{Hej ty, praseÄÃ­ ksichte. NelÃ­bÃ­Å¡ se mi. Kup mi nÄ›co k pitÃ­.}
+{104}{}{Hej kotÄ›, pojÄ sem a jÃ¡ ti dÃ¡m nÄ›co pÄ›knÃ½ho, velkÃ½ho a vlhkÃ½ho.}
 {105}{}{<Prd!>}
 {106}{}{Polib si.}
-{107}{}{Nemám zájem o ádné problémy.}
-{108}{}{Tak ty si chceš hrát na tvrïáka, jo? Tvojí prdelí vytøu celou místnost. Pojï na férovku, tady a teï.}
-{109}{}{"Nemám zájem o ádnı problémy!" No, ale budeš je mít. Buï si dáš se mnou férovku, nebo všem øeknu, e jseš ubreèenej srab. Pojï na férovku, tady a teï.}
-{110}{}{Fajn, tak se uka.}
-{111}{}{Ne, opravdu nemùu.}
-{112}{}{Pche! Jseš k smíchu. Vypadni odsud, uboáku.}
-{113}{}{Auu! Mám zlomenej nos! U dost! U mì nebij!}
-{114}{}{Dobøe, promiò. Byl to jen vtip. U se mnou nikdy nebudeš mít ádnı problémy... prosím, nezabíjej mì!}
-{115}{}{Fajn, vyhrál jsi. U mì nech bejt, ano?}
+{107}{}{NemÃ¡m zÃ¡jem o Å¾Ã¡dnÃ© problÃ©my.}
+{108}{}{Tak ty si chceÅ¡ hrÃ¡t na tvrÄÃ¡ka, jo? TvojÃ­ prdelÃ­ vytÅ™u celou mÃ­stnost. PojÄ na fÃ©rovku, tady a teÄ.}
+{109}{}{"NemÃ¡m zÃ¡jem o Å¾Ã¡dnÃ½ problÃ©my!" No, ale budeÅ¡ je mÃ­t. BuÄ si dÃ¡Å¡ se mnou fÃ©rovku, nebo vÅ¡em Å™eknu, Å¾e jseÅ¡ ubreÄenej srab. PojÄ na fÃ©rovku, tady a teÄ.}
+{110}{}{Fajn, tak se ukaÅ¾.}
+{111}{}{Ne, opravdu nemÅ¯Å¾u.}
+{112}{}{Pche! JseÅ¡ k smÃ­chu. Vypadni odsud, uboÅ¾Ã¡ku.}
+{113}{}{Auu! MÃ¡m zlomenej nos! UÅ¾ dost! UÅ¾ mÄ› nebij!}
+{114}{}{DobÅ™e, promiÅˆ. Byl to jen vtip. UÅ¾ se mnou nikdy nebudeÅ¡ mÃ­t Å¾Ã¡dnÃ½ problÃ©my... prosÃ­m, nezabÃ­jej mÄ›!}
+{115}{}{Fajn, vyhrÃ¡l jsi. UÅ¾ mÄ› nech bejt, ano?}

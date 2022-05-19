@@ -1,16 +1,16 @@
-{100}{}{Vidíš }
+{100}{}{VidÃ­Å¡ }
 {101}{}{.}
-{150}{}{Nevypadá nijak zvláštnì.}
-{151}{}{Nezdá se bıt tak drsnı.}
-{152}{}{Vsadím se, e ho jako dítì èasto mlátili.}
-{200}{}{Vidíš velmi svalnatého bìlocha. Vypadá tak slabì, e by se dal knokautovat kouskem pizzy.}
-{201}{}{Jeho èelist záøí jako zrcadlo.}
-{202}{}{Zdá se, e by v ringu nevydrel ani sedm vteøin.}
-{203}{}{Zdá se, e by se dal knokautovat kouskem pizzy.}
-{210}{}{Vidíš zavalitého èernocha se silnou hranatou èelistí. Jeho uši vypadají, jako by je nìkdo hroznì sevıkal.}
-{211}{}{Jeho uši vypadají, jako by je nìkdo hroznì sevıkal.}
-{220}{}{Jeho pae ti pøipomínají kmen stoletého dubu.}
-{221}{}{Kadá jeho pae pøipomíná hlaveò kanónu.}
-{222}{}{Kdy se hıbe, je to jako sledovat rozbouøenı oceán svalù.}
-{223}{}{Dívá se hladovì na tvé ucho.}
-{224}{}{Jeho tváø pøipomíná plátek syrového masa.}
+{150}{}{NevypadÃ¡ nijak zvlÃ¡Å¡tnÄ›.}
+{151}{}{NezdÃ¡ se bÃ½t tak drsnÃ½.}
+{152}{}{VsadÃ­m se, Å¾e ho jako dÃ­tÄ› Äasto mlÃ¡tili.}
+{200}{}{VidÃ­Å¡ velmi svalnatÃ©ho bÄ›locha. VypadÃ¡ tak slabÄ›, Å¾e by se dal knokautovat kouskem pizzy.}
+{201}{}{Jeho Äelist zÃ¡Å™Ã­ jako zrcadlo.}
+{202}{}{ZdÃ¡ se, Å¾e by v ringu nevydrÅ¾el ani sedm vteÅ™in.}
+{203}{}{ZdÃ¡ se, Å¾e by se dal knokautovat kouskem pizzy.}
+{210}{}{VidÃ­Å¡ zavalitÃ©ho Äernocha se silnou hranatou ÄelistÃ­. Jeho uÅ¡i vypadajÃ­, jako by je nÄ›kdo hroznÄ› seÅ¾vÃ½kal.}
+{211}{}{Jeho uÅ¡i vypadajÃ­, jako by je nÄ›kdo hroznÄ› seÅ¾vÃ½kal.}
+{220}{}{Jeho paÅ¾e ti pÅ™ipomÃ­najÃ­ kmen stoletÃ©ho dubu.}
+{221}{}{KaÅ¾dÃ¡ jeho paÅ¾e pÅ™ipomÃ­nÃ¡ hlaveÅˆ kanÃ³nu.}
+{222}{}{KdyÅ¾ se hÃ½be, je to jako sledovat rozbouÅ™enÃ½ oceÃ¡n svalÅ¯.}
+{223}{}{DÃ­vÃ¡ se hladovÄ› na tvÃ© ucho.}
+{224}{}{Jeho tvÃ¡Å™ pÅ™ipomÃ­nÃ¡ plÃ¡tek syrovÃ©ho masa.}

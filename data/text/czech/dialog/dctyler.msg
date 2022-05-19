@@ -1,149 +1,149 @@
-{100}{}{Vidíš Tylera.}
-{101}{}{Vidíš Tylera, vùdce tohoto gangu.}
-{150}{}{Vypadá docela silnì.}
-{200}{}{Hej, nesahej na ty zasranı dveøe.}
-{201}{}{Blbèe.}
-{210}{}{Teï to skonèíme.}
-{220}{}{Øíkal jsem ti, e to bude hraèka.}
-{221}{}{Chcípali jak prasata na poráce.}
-{222}{}{Ta zkurvená dìvka je koneènì mrtvá!}
-{223}{}{Díky za pomoc, bylo to skvìlı.}
+{100}{}{VidÃ­Å¡ Tylera.}
+{101}{}{VidÃ­Å¡ Tylera, vÅ¯dce tohoto gangu.}
+{150}{}{VypadÃ¡ docela silnÄ›.}
+{200}{}{Hej, nesahej na ty zasranÃ½ dveÅ™e.}
+{201}{}{BlbÄe.}
+{210}{}{TeÄ to skonÄÃ­me.}
+{220}{}{Å˜Ã­kal jsem ti, Å¾e to bude hraÄka.}
+{221}{}{ChcÃ­pali jak prasata na porÃ¡Å¾ce.}
+{222}{}{Ta zkurvenÃ¡ dÄ›vka je koneÄnÄ› mrtvÃ¡!}
+{223}{}{DÃ­ky za pomoc, bylo to skvÄ›lÃ½.}
 {230}{}{Kde jsi sakra byl?}
-{231}{}{Polib mi prdel! Zasranej lháøi.}
-{232}{}{Mìl bych tì na místì vykuchat.}
-{233}{}{Všechno bylo pøipravenı, kreténe.}
-{234}{}{Radši se mì nepokoušej nasrat.}
+{231}{}{Polib mi prdel! Zasranej lhÃ¡Å™i.}
+{232}{}{MÄ›l bych tÄ› na mÃ­stÄ› vykuchat.}
+{233}{}{VÅ¡echno bylo pÅ™ipravenÃ½, kretÃ©ne.}
+{234}{}{RadÅ¡i se mÄ› nepokouÅ¡ej nasrat.}
 {235}{}{Jak jsi to mohl tak posrat?}
-{240}{}{Pøivedeš ty pitomı bastardy a sem a my si z nich udìláme trofeje na zeï.}
-{241}{}{Èekáme.}
-{242}{}{Nebudeme èekat celou noc.}
-{243}{}{Na co èekáš? Jsem pøipravenej zabíjet.}
-{244}{}{Tak u sakra dìlej! Ale nesmìj tì podezírat.}
-{245}{}{Pohni sakra u.}
-{250}{}{Kdo sakra jseš a co chceš?}
-{251}{}{Take co zase chceš?}
-{252}{}{Posílá mì Metzger.}
+{240}{}{PÅ™ivedeÅ¡ ty pitomÃ½ bastardy aÅ¾ sem a my si z nich udÄ›lÃ¡me trofeje na zeÄ.}
+{241}{}{ÄŒekÃ¡me.}
+{242}{}{Nebudeme Äekat celou noc.}
+{243}{}{Na co ÄekÃ¡Å¡? Jsem pÅ™ipravenej zabÃ­jet.}
+{244}{}{Tak uÅ¾ sakra dÄ›lej! Ale nesmÄ›j tÄ› podezÃ­rat.}
+{245}{}{Pohni sakra uÅ¾.}
+{250}{}{Kdo sakra jseÅ¡ a co chceÅ¡?}
+{251}{}{TakÅ¾e co zase chceÅ¡?}
+{252}{}{PosÃ­lÃ¡ mÄ› Metzger.}
 {253}{}{Jsem tu na inspekci kostela.}
 {254}{}{To je jedno. Sbohem.}
-{255}{}{Já }
+{255}{}{JÃ¡ }
 {256}{}{Jooo?}
-{260}{}{Na co sakra? Ty jeho vìci nikam sami neodejdou.}
-{261}{}{To jeho svinstvo se nepohlo ani o píï.}
-{262}{}{Jo, jasnì. Ty jseš teï otrokáø, jo? Tak co chce? Ani se to nehlo... a ani nemùe.}
+{260}{}{Na co sakra? Ty jeho vÄ›ci nikam sami neodejdou.}
+{261}{}{To jeho svinstvo se nepohlo ani o pÃ­Ä.}
+{262}{}{Jo, jasnÄ›. Ty jseÅ¡ teÄ otrokÃ¡Å™, jo? Tak co chce? Ani se to nehlo... a ani nemÅ¯Å¾e.}
 {263}{}{Chce to jen zkontrolovat.}
-{264}{}{Hele, chce mít jistotu.}
-{265}{}{Zapomeò na to.}
-{270}{}{No jasnì. Nikdy jsem tì tu pøedtím nevidìl. A teï vypadni.}
-{271}{}{Pus mì dovnitø, nebo si má pìst popovídá s tvım ksichtem!}
-{272}{}{Hele, mì sem jenom poslal, a zkontroluju ten jeho zatracenej materiál. Je mi to úplnì fuk.}
-{273}{}{Dobøe.}
-{280}{}{To je fuk, otrokáøi. Tak jdi dovnitø. Myslí si snad, e se to samo zvedne a odejde po svejch? Kdo by ty sraèky chtìl?}
-{281}{}{Seru na to. Bì dovnitø. Myslí si snad, e se to samo zvedne a odejde po svejch? Kdo by ty sraèky chtìl?}
+{264}{}{Hele, chce mÃ­t jistotu.}
+{265}{}{ZapomeÅˆ na to.}
+{270}{}{No jasnÄ›. Nikdy jsem tÄ› tu pÅ™edtÃ­m nevidÄ›l. A teÄ vypadni.}
+{271}{}{PusÅ¥ mÄ› dovnitÅ™, nebo si mÃ¡ pÄ›st popovÃ­dÃ¡ s tvÃ½m ksichtem!}
+{272}{}{Hele, mÄ› sem jenom poslal, aÅ¥ zkontroluju ten jeho zatracenej materiÃ¡l. Je mi to ÃºplnÄ› fuk.}
+{273}{}{DobÅ™e.}
+{280}{}{To je fuk, otrokÃ¡Å™i. Tak jdi dovnitÅ™. MyslÃ­ si snad, Å¾e se to samo zvedne a odejde po svejch? Kdo by ty sraÄky chtÄ›l?}
+{281}{}{Seru na to. BÄ›Å¾ dovnitÅ™. MyslÃ­ si snad, Å¾e se to samo zvedne a odejde po svejch? Kdo by ty sraÄky chtÄ›l?}
 {282}{}{Nashle.}
-{290}{}{Tak jo kurva. Je mi to jedno. Urèitì dobøe víš, co s tìma sraèkama dìlat.}
+{290}{}{Tak jo kurva. Je mi to jedno. UrÄitÄ› dobÅ™e vÃ­Å¡, co s tÄ›ma sraÄkama dÄ›lat.}
 {291}{}{Grrrr.}
-{292}{}{Díky.}
-{300}{}{Vysmahni, ne se naseru a rozkopu ti ksicht, drsòáku.}
-{301}{}{Táhni, dìvko. Metzger by nikdy neposlal enskou, take vypadni.}
-{302}{}{Dìvka? Ukáu ti, co tahle dìvka umí.}
+{292}{}{DÃ­ky.}
+{300}{}{Vysmahni, neÅ¾ se naseru a rozkopu ti ksicht, drsÅˆÃ¡ku.}
+{301}{}{TÃ¡hni, dÄ›vko. Metzger by nikdy neposlal Å¾enskou, takÅ¾e vypadni.}
+{302}{}{DÄ›vka? UkÃ¡Å¾u ti, co tahle dÄ›vka umÃ­.}
 {303}{}{Jdi do prdele.}
-{304}{}{[Odejít]}
+{304}{}{[OdejÃ­t]}
 {310}{}{Vypadni.}
-{320}{}{Pìknı. Já Tyler. Ty jít, pá pá.}
+{320}{}{PÄ›knÃ½. JÃ¡ Tyler. Ty jÃ­t, pÃ¡ pÃ¡.}
 {321}{}{Ur.}
 {322}{}{Eh...}
-{330}{}{Vypadni, vypatlanèe.}
+{330}{}{Vypadni, vypatlanÄe.}
 {331}{}{Polyp prdela!}
 {332}{}{Kuuva!}
-{340}{}{Myslím, e ne. Teï vypadni.}
-{341}{}{Dobøe.}
+{340}{}{MyslÃ­m, Å¾e ne. TeÄ vypadni.}
+{341}{}{DobÅ™e.}
 {342}{}{Ale!}
 {343}{}{Fajn.}
-{350}{}{Jasnì e jo. Kdo tì poslal?}
-{351}{}{Jó, to vím taky, vyjebanèe. Kdo tì kurva poslal?}
-{352}{}{Kdo asi, blbèe? A teï si pøestaò honit a pus mì dál.}
-{353}{}{Rùovı panter.}
-{354}{}{Dobøe, budeš toho litovat.}
-{360}{}{Rùovı co? Vypadni odsud!}
+{350}{}{JasnÄ› Å¾e jo. Kdo tÄ› poslal?}
+{351}{}{JÃ³, to vÃ­m taky, vyjebanÄe. Kdo tÄ› kurva poslal?}
+{352}{}{Kdo asi, blbÄe? A teÄ si pÅ™estaÅˆ honit a pusÅ¥ mÄ› dÃ¡l.}
+{353}{}{RÅ¯Å¾ovÃ½ panter.}
+{354}{}{DobÅ™e, budeÅ¡ toho litovat.}
+{360}{}{RÅ¯Å¾ovÃ½ co? Vypadni odsud!}
 {361}{}{Ale...}
 {362}{}{Fajn.}
-{370}{}{Co zase sakra šéf chce? Další zkurvenou inspekci?}
+{370}{}{Co zase sakra Å¡Ã©f chce? DalÅ¡Ã­ zkurvenou inspekci?}
 {371}{}{Ano?}
-{372}{}{Co to bude teï?}
+{372}{}{Co to bude teÄ?}
 {373}{}{Jak to jde?}
-{374}{}{Promiò, musím jít.}
-{375}{}{Dobøe.}
+{374}{}{PromiÅˆ, musÃ­m jÃ­t.}
+{375}{}{DobÅ™e.}
 {376}{}{A co?}
-{380}{}{Vlastnì skvìle! Málem bych zapomnìl... jeden mùj kámoš vyhrál v hernì velkı prachy a chce se podìlit o svoje bohatství, jestli mi rozumíš.}
-{381}{}{Je tu pìknì zkurvená nuda. Nenávidím hlídání... ale, no, není to zas tak hroznı. Jeden mùj kamarád vyhrál v hernì velkı prachy a chce se podìlit o svoje bohatství, jestli mi rozumíš.}
-{382}{}{Velké plány, co?}
-{383}{}{To zní jako zábava.}
-{390}{}{Jo, poøádá dneska veèer u sebe doma mejdan. Bude to hustı.}
-{391}{}{Jo, poøádá dneska veèer u sebe doma mejdan. Bude to hustı. Pozval bych tì, kotì, ale je to jenom pro jeho nejbliší kámoše.}
-{392}{}{Dej si za mì pár piv.}
-{393}{}{Rozumím, díky. Dobøe se bav.}
-{394}{}{Zatím.}
-{400}{}{Na to vem jed! Zlijeme se do nìmoty!}
+{380}{}{VlastnÄ› skvÄ›le! MÃ¡lem bych zapomnÄ›l... jeden mÅ¯j kÃ¡moÅ¡ vyhrÃ¡l v hernÄ› velkÃ½ prachy a chce se podÄ›lit o svoje bohatstvÃ­, jestli mi rozumÃ­Å¡.}
+{381}{}{Je tu pÄ›knÄ› zkurvenÃ¡ nuda. NenÃ¡vidÃ­m hlÃ­dÃ¡nÃ­... ale, no, nenÃ­ to zas tak hroznÃ½. Jeden mÅ¯j kamarÃ¡d vyhrÃ¡l v hernÄ› velkÃ½ prachy a chce se podÄ›lit o svoje bohatstvÃ­, jestli mi rozumÃ­Å¡.}
+{382}{}{VelkÃ© plÃ¡ny, co?}
+{383}{}{To znÃ­ jako zÃ¡bava.}
+{390}{}{Jo, poÅ™Ã¡dÃ¡ dneska veÄer u sebe doma mejdan. Bude to hustÃ½.}
+{391}{}{Jo, poÅ™Ã¡dÃ¡ dneska veÄer u sebe doma mejdan. Bude to hustÃ½. Pozval bych tÄ›, kotÄ›, ale je to jenom pro jeho nejbliÅ¾Å¡Ã­ kÃ¡moÅ¡e.}
+{392}{}{Dej si za mÄ› pÃ¡r piv.}
+{393}{}{RozumÃ­m, dÃ­ky. DobÅ™e se bav.}
+{394}{}{ZatÃ­m.}
+{400}{}{Na to vem jed! Zlijeme se do nÄ›moty!}
 {401}{}{Nashle.}
 {410}{}{Co ti je kurva do toho. Vypadni.}
 {411}{}{Ale jo, ujde to.}
-{412}{}{Snaíš se mì nasrat?}
-{413}{}{To není špatnı.}
+{412}{}{SnaÅ¾Ã­Å¡ se mÄ› nasrat?}
+{413}{}{To nenÃ­ Å¡patnÃ½.}
 {414}{}{Jsem unavenej.}
-{415}{}{Dobøe.}
+{415}{}{DobÅ™e.}
 {416}{}{Vypadni.}
-{417}{}{Bejvalo líp.}
+{417}{}{Bejvalo lÃ­p.}
 {418}{}{Aha.}
-{430}{}{Nemùu se doèkat toho mejdanu. Doufám, e tam bude mít zase nìjakı dìvky.}
-{431}{}{Mùj kámoš fakt ví, jak udìlat poøádnej mejdan.}
-{432}{}{Mejdan u se blíí.}
-{433}{}{Mejdan! U tam chci bejt.}
-{440}{}{Hej, jak to jde? Mejdan u se blíí.}
+{430}{}{NemÅ¯Å¾u se doÄkat toho mejdanu. DoufÃ¡m, Å¾e tam bude mÃ­t zase nÄ›jakÃ½ dÄ›vky.}
+{431}{}{MÅ¯j kÃ¡moÅ¡ fakt vÃ­, jak udÄ›lat poÅ™Ã¡dnej mejdan.}
+{432}{}{Mejdan uÅ¾ se blÃ­Å¾Ã­.}
+{433}{}{Mejdan! UÅ¾ tam chci bejt.}
+{440}{}{Hej, jak to jde? Mejdan uÅ¾ se blÃ­Å¾Ã­.}
 {441}{}{Jak je?}
-{442}{}{Mám nìjaké informace, které by tì mohly zajímat.}
+{442}{}{MÃ¡m nÄ›jakÃ© informace, kterÃ© by tÄ› mohly zajÃ­mat.}
 {443}{}{No nic.}
 {444}{}{Ehm.}
 {445}{}{Urseco?}
-{450}{}{Sakra, co se to s tebou dneska dìje? Pøestaò s tìma drogama.}
-{451}{}{Drogy jsou pro tebe špatnı, chlape.}
-{452}{}{Drogy jsou pro tebe špatnı, holka.}
-{453}{}{[Zavrèet]}
+{450}{}{Sakra, co se to s tebou dneska dÄ›je? PÅ™estaÅˆ s tÄ›ma drogama.}
+{451}{}{Drogy jsou pro tebe Å¡patnÃ½, chlape.}
+{452}{}{Drogy jsou pro tebe Å¡patnÃ½, holka.}
+{453}{}{[ZavrÄet]}
 {460}{}{Fakt jo? Co je to?}
-{461}{}{Bude tì to nìco stát.}
-{462}{}{Lara plánuje tohle místo dnes veèer napadnout.}
-{463}{}{Poèkej chvíli.}
-{470}{}{Tvoje zkurvená vejplata. Tady máš prachy. U jsem to chtìl s nima skoncovat dávno.}
-{480}{}{Jasnì, jdi do prdele. Záleí na tom o co jde. Øekni mi to a pak se rozhodnu, jestli ti za to zaplatím.}
-{481}{}{Lara plánuje tohle místo dnes veèer napadnout.}
-{482}{}{Ne, promiòte.}
-{490}{}{Jo? Take ta zasraná dìvka má pøeci jen nìjakı koule, jo? Dobøe, dám ti za to $100.}
-{491}{}{Díky.}
-{500}{}{Ne tak rychle. Poèkáme si, a se tady ukáou. Co já vím, jestli mi neleš. Nejdøív se ujistím a potom ti zaplatím.}
-{501}{}{Ale já jsem milovník, ne bojovník.}
-{502}{}{To zní rozumnì.}
-{510}{}{Podívej, je mi u smradlavé krysí prdele, kdo vlastnì jsi. Nedám ti ani dolar, dokud se neukáou. Bojovat budeme my, take se modli, aby se ukázali.}
-{511}{}{Dobøe.}
-{600}{}{Take ty jseš šéfùv novej poskok?}
-{601}{}{Co chceš?}
-{602}{}{Co je s Metzgerem? U nám nevìøí?}
-{603}{}{U je ten sajrajt zkontrolovanej?}
-{604}{}{Øíkal jsem ti, e Metzgerovo zboí nikam neodejde.}
-{605}{}{Tak, zkontrolováno nebo co?}
-{606}{}{Jsem si jistej, e od tebe nìco Metzger potøebuje. Co takhle se jít za ním podívat a zeptat se ho?}
-{607}{}{Co je do prdele s Metzgerem? To si kurva myslí, e ty jeho sraèky nehlídáme nebo co...}
-{608}{}{Ty jsi ještì tady? Nemáš nìjakej další úkol od Metzgera?}
-{609}{}{Take ty jseš šéfova nová holèièka pro všechno?}
-{700}{}{Nemám náladu.}
-{701}{}{Teï ne.}
-{702}{}{Nemám èas.}
-{710}{}{Náš chytrolín se vrátil! Take ty chceš opravdu jít dovnitø? Proè? Není tam nic, co by tì mohlo zajímat.}
-{711}{}{Co teï kurva chceš?}
-{712}{}{Vidíš tu znaèku na mém èele? Pus mì dovnitø. Hned!}
-{713}{}{Protoe jsem jeho nová dìvka! Jestli mì tam hned nepustíš, tak tì ujišuju, e se tvoje jméno objeví úplnì nahoøe na jeho seznamu sráèù.}
-{714}{}{Hele, kamaráde. Metzger mi natrhne prdel, jestli to co nejdøív nezkontroluju. Víš, jakej je.}
-{715}{}{To není kurva tvoje starost. Jestli chce šéf ty sraèky zkontrolovat, tak to holt musím udìlat. Na nic se nebudu ptát.}
-{716}{}{Zapomeò na to.}
+{461}{}{Bude tÄ› to nÄ›co stÃ¡t.}
+{462}{}{Lara plÃ¡nuje tohle mÃ­sto dnes veÄer napadnout.}
+{463}{}{PoÄkej chvÃ­li.}
+{470}{}{Tvoje zkurvenÃ¡ vejplata. Tady mÃ¡Å¡ prachy. UÅ¾ jsem to chtÄ›l s nima skoncovat dÃ¡vno.}
+{480}{}{JasnÄ›, jdi do prdele. ZÃ¡leÅ¾Ã­ na tom o co jde. Å˜ekni mi to a pak se rozhodnu, jestli ti za to zaplatÃ­m.}
+{481}{}{Lara plÃ¡nuje tohle mÃ­sto dnes veÄer napadnout.}
+{482}{}{Ne, promiÅˆte.}
+{490}{}{Jo? TakÅ¾e ta zasranÃ¡ dÄ›vka mÃ¡ pÅ™eci jen nÄ›jakÃ½ koule, jo? DobÅ™e, dÃ¡m ti za to $100.}
+{491}{}{DÃ­ky.}
+{500}{}{Ne tak rychle. PoÄkÃ¡me si, aÅ¾ se tady ukÃ¡Å¾ou. Co jÃ¡ vÃ­m, jestli mi nelÅ¾eÅ¡. NejdÅ™Ã­v se ujistÃ­m a potom ti zaplatÃ­m.}
+{501}{}{Ale jÃ¡ jsem milovnÃ­k, ne bojovnÃ­k.}
+{502}{}{To znÃ­ rozumnÄ›.}
+{510}{}{PodÃ­vej, je mi u smradlavÃ© krysÃ­ prdele, kdo vlastnÄ› jsi. NedÃ¡m ti ani dolar, dokud se neukÃ¡Å¾ou. Bojovat budeme my, takÅ¾e se modli, aby se ukÃ¡zali.}
+{511}{}{DobÅ™e.}
+{600}{}{TakÅ¾e ty jseÅ¡ Å¡Ã©fÅ¯v novej poskok?}
+{601}{}{Co chceÅ¡?}
+{602}{}{Co je s Metzgerem? UÅ¾ nÃ¡m nevÄ›Å™Ã­?}
+{603}{}{UÅ¾ je ten sajrajt zkontrolovanej?}
+{604}{}{Å˜Ã­kal jsem ti, Å¾e Metzgerovo zboÅ¾Ã­ nikam neodejde.}
+{605}{}{Tak, zkontrolovÃ¡no nebo co?}
+{606}{}{Jsem si jistej, Å¾e od tebe nÄ›co Metzger potÅ™ebuje. Co takhle se jÃ­t za nÃ­m podÃ­vat a zeptat se ho?}
+{607}{}{Co je do prdele s Metzgerem? To si kurva myslÃ­, Å¾e ty jeho sraÄky nehlÃ­dÃ¡me nebo co...}
+{608}{}{Ty jsi jeÅ¡tÄ› tady? NemÃ¡Å¡ nÄ›jakej dalÅ¡Ã­ Ãºkol od Metzgera?}
+{609}{}{TakÅ¾e ty jseÅ¡ Å¡Ã©fova novÃ¡ holÄiÄka pro vÅ¡echno?}
+{700}{}{NemÃ¡m nÃ¡ladu.}
+{701}{}{TeÄ ne.}
+{702}{}{NemÃ¡m Äas.}
+{710}{}{NÃ¡Å¡ chytrolÃ­n se vrÃ¡til! TakÅ¾e ty chceÅ¡ opravdu jÃ­t dovnitÅ™? ProÄ? NenÃ­ tam nic, co by tÄ› mohlo zajÃ­mat.}
+{711}{}{Co teÄ kurva chceÅ¡?}
+{712}{}{VidÃ­Å¡ tu znaÄku na mÃ©m Äele? PusÅ¥ mÄ› dovnitÅ™. Hned!}
+{713}{}{ProtoÅ¾e jsem jeho novÃ¡ dÄ›vka! Jestli mÄ› tam hned nepustÃ­Å¡, tak tÄ› ujiÅ¡Å¥uju, Å¾e se tvoje jmÃ©no objevÃ­ ÃºplnÄ› nahoÅ™e na jeho seznamu srÃ¡ÄÅ¯.}
+{714}{}{Hele, kamarÃ¡de. Metzger mi natrhne prdel, jestli to co nejdÅ™Ã­v nezkontroluju. VÃ­Å¡, jakej je.}
+{715}{}{To nenÃ­ kurva tvoje starost. Jestli chce Å¡Ã©f ty sraÄky zkontrolovat, tak to holt musÃ­m udÄ›lat. Na nic se nebudu ptÃ¡t.}
+{716}{}{ZapomeÅˆ na to.}
 {717}{}{Shaka?}
-{800}{}{Kdo sem kurva... hej! To jseš ty. Vítej *škyt* na našem mejdanu. Vìdìl jsem, e pøídeš. (Tyler k tobì doklopıtá a chytí tì za rameno.) Øek sem ti u nìkdy, jak moc... (Spatøí Laøin gang.) A kurva! Kurva to né! Tenhle mejdan neskonèí *škyt* kùli òáky zkurvenı èubce a jejím kámošùm. Je na èase vytáhnout kvéry, chlapi!}
+{800}{}{Kdo sem kurva... hej! To jseÅ¡ ty. VÃ­tej *Å¡kyt* na naÅ¡em mejdanu. VÄ›dÄ›l jsem, Å¾e pÅ™Ã­deÅ¡. (Tyler k tobÄ› doklopÃ½tÃ¡ a chytÃ­ tÄ› za rameno.) Å˜ek sem ti uÅ¾ nÄ›kdy, jak moc... (SpatÅ™Ã­ LaÅ™in gang.) A kurva! Kurva to nÃ©! Tenhle mejdan neskonÄÃ­ *Å¡kyt* kÅ¯li ÅˆÃ¡ky zkurvenÃ½ Äubce a jejÃ­m kÃ¡moÅ¡Å¯m. Je na Äase vytÃ¡hnout kvÃ©ry, chlapi!}
 {801}{}{[KONEC]}
 {1255}{}{!}

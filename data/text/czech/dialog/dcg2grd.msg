@@ -1,63 +1,63 @@
-{100}{}{Vidíš gangstera.}
-{150}{}{Zdá se, e je to èlen Laøina gangu.}
-{151}{}{Zdá se, e je to èlenka Laøina gangu.}
-{200}{}{Chytráku.}
-{201}{}{Tady jseš!}
+{100}{}{VidÃ­Å¡ gangstera.}
+{150}{}{ZdÃ¡ se, Å¾e je to Älen LaÅ™ina gangu.}
+{151}{}{ZdÃ¡ se, Å¾e je to Älenka LaÅ™ina gangu.}
+{200}{}{ChytrÃ¡ku.}
+{201}{}{Tady jseÅ¡!}
 {202}{}{Odplata.}
-{203}{}{Pojï sem.}
-{204}{}{Ještì jsem neskonèil.}
-{205}{}{Dìvka.}
-{225}{}{Zajímalo by mì, co se tu bude dít po Metzgerovì smrti.}
-{226}{}{Take Metzger u je koneènì mrtvej?}
-{227}{}{To byla tvoje práce?}
-{228}{}{Den u nikdy nebude stejnej.}
-{240}{}{Nemùu uvìøit, e jsme je fakt porazili!}
-{241}{}{Metzger nás teï bude muset respektovat.}
-{242}{}{Pìknì jsme jim to nandali.}
-{243}{}{Ukázali jsme jim naše vlastní pojetí spravedlnosti.}
-{244}{}{Bez tebe bysme to nedokázali!}
-{245}{}{Díky za pomoc!}
-{246}{}{Dokázali jsme to!}
-{247}{}{Kašleš na nás?}
-{248}{}{Dávej si teï radši bácha.}
-{249}{}{Lara je jedinej dùvod, proè tì teï neobìsíme.}
+{203}{}{PojÄ sem.}
+{204}{}{JeÅ¡tÄ› jsem neskonÄil.}
+{205}{}{DÄ›vka.}
+{225}{}{ZajÃ­malo by mÄ›, co se tu bude dÃ­t po MetzgerovÄ› smrti.}
+{226}{}{TakÅ¾e Metzger uÅ¾ je koneÄnÄ› mrtvej?}
+{227}{}{To byla tvoje prÃ¡ce?}
+{228}{}{Den uÅ¾ nikdy nebude stejnej.}
+{240}{}{NemÅ¯Å¾u uvÄ›Å™it, Å¾e jsme je fakt porazili!}
+{241}{}{Metzger nÃ¡s teÄ bude muset respektovat.}
+{242}{}{PÄ›knÄ› jsme jim to nandali.}
+{243}{}{UkÃ¡zali jsme jim naÅ¡e vlastnÃ­ pojetÃ­ spravedlnosti.}
+{244}{}{Bez tebe bysme to nedokÃ¡zali!}
+{245}{}{DÃ­ky za pomoc!}
+{246}{}{DokÃ¡zali jsme to!}
+{247}{}{KaÅ¡leÅ¡ na nÃ¡s?}
+{248}{}{DÃ¡vej si teÄ radÅ¡i bÃ¡cha.}
+{249}{}{Lara je jedinej dÅ¯vod, proÄ tÄ› teÄ neobÄ›sÃ­me.}
 {250}{}{Co to jako bylo?}
 {251}{}{Srabe.}
-{252}{}{Je mi z tebe na blití.}
-{253}{}{Ztra se.}
+{252}{}{Je mi z tebe na blitÃ­.}
+{253}{}{ZtraÅ¥ se.}
 {254}{}{Vypadni.}
-{255}{}{A budeš chtít, mùeme zaèít.}
-{256}{}{Je naèase jim to vrátit.}
-{257}{}{Nenávidím èekání.}
-{258}{}{Tak u pojïme.}
-{259}{}{Mùeme vyrazit?}
-{260}{}{Dej vìdìt Laøe, a bude ten správnej èas.}
-{270}{}{Chceš se k nám pøidat?}
-{271}{}{Jseš tu kvùli Laøe, co?}
+{255}{}{AÅ¾ budeÅ¡ chtÃ­t, mÅ¯Å¾eme zaÄÃ­t.}
+{256}{}{Je naÄase jim to vrÃ¡tit.}
+{257}{}{NenÃ¡vidÃ­m ÄekÃ¡nÃ­.}
+{258}{}{Tak uÅ¾ pojÄme.}
+{259}{}{MÅ¯Å¾eme vyrazit?}
+{260}{}{Dej vÄ›dÄ›t LaÅ™e, aÅ¾ bude ten sprÃ¡vnej Äas.}
+{270}{}{ChceÅ¡ se k nÃ¡m pÅ™idat?}
+{271}{}{JseÅ¡ tu kvÅ¯li LaÅ™e, co?}
 {272}{}{Jak to jde?}
 {273}{}{Promluv si s Larou.}
 {274}{}{Ahoj.}
-{275}{}{Jdeš za Larou?}
+{275}{}{JdeÅ¡ za Larou?}
 {300}{}{Ahoj.}
 {301}{}{Jak to jde?}
-{302}{}{Doufám, e to jde dobøe.}
-{303}{}{Take nám pomùeš?}
-{304}{}{Rád tì vidím.}
-{305}{}{Tylerovi to brzo vrátíme...}
-{306}{}{Nìco novıho?}
-{310}{}{Díky za pomoc. Ubohá Lara.}
-{311}{}{Koneènì jsme je dostali!}
-{312}{}{Bez tebe bysme to nedokázali.}
-{313}{}{Aspoò padla Lara v boji.}
-{314}{}{Nemùu uvìøit, e to Lara nepøeila.}
-{315}{}{Ukázali jsme Metzgerovi, kdo je tady nejlepší.}
-{316}{}{Metzgerovi je bez nás líp.}
-{350}{}{Øekl sis o to!}
+{302}{}{DoufÃ¡m, Å¾e to jde dobÅ™e.}
+{303}{}{TakÅ¾e nÃ¡m pomÅ¯Å¾eÅ¡?}
+{304}{}{RÃ¡d tÄ› vidÃ­m.}
+{305}{}{Tylerovi to brzo vrÃ¡tÃ­me...}
+{306}{}{NÄ›co novÃ½ho?}
+{310}{}{DÃ­ky za pomoc. UbohÃ¡ Lara.}
+{311}{}{KoneÄnÄ› jsme je dostali!}
+{312}{}{Bez tebe bysme to nedokÃ¡zali.}
+{313}{}{AspoÅˆ padla Lara v boji.}
+{314}{}{NemÅ¯Å¾u uvÄ›Å™it, Å¾e to Lara nepÅ™eÅ¾ila.}
+{315}{}{UkÃ¡zali jsme Metzgerovi, kdo je tady nejlepÅ¡Ã­.}
+{316}{}{Metzgerovi je bez nÃ¡s lÃ­p.}
+{350}{}{Å˜ekl sis o to!}
 {351}{}{Jsou z nich mrtvoly!}
 {352}{}{Nakopem jim prdel!}
-{400}{}{Nakopali jsme jim prdel! Jestli budeš nìco potøebovat, najdeš nás v kostele.}
-{500}{}{Doprdele, nemùu uvìøit, e jsme ztratili Laru. Sice jsme se postarali o tenhle pøedvoj, ale Tyler a jeho lidi jsou poøád naivu. Pokud je napadnem teïka bìhem jejich flámu v Obytnı ètvrti, urèitì je zastihnem nepøipravenı, tak to pojïme skonèit. Jdeš do toho?}
-{501}{}{Nejdøív se vyléèím. Øeknu ti, a budu moct.}
-{502}{}{Pojïme.}
-{510}{}{Mùeme jít vyøídit Tylera a jeho partu?}
-{520}{}{Hele, nechoï moc daleko. Potøebujeme to skonèit dneska v noci.}
+{400}{}{Nakopali jsme jim prdel! Jestli budeÅ¡ nÄ›co potÅ™ebovat, najdeÅ¡ nÃ¡s v kostele.}
+{500}{}{Doprdele, nemÅ¯Å¾u uvÄ›Å™it, Å¾e jsme ztratili Laru. Sice jsme se postarali o tenhle pÅ™edvoj, ale Tyler a jeho lidi jsou poÅ™Ã¡d naÅ¾ivu. Pokud je napadnem teÄka bÄ›hem jejich flÃ¡mu v ObytnÃ½ Ätvrti, urÄitÄ› je zastihnem nepÅ™ipravenÃ½, tak to pojÄme skonÄit. JdeÅ¡ do toho?}
+{501}{}{NejdÅ™Ã­v se vylÃ©ÄÃ­m. Å˜eknu ti, aÅ¾ budu moct.}
+{502}{}{PojÄme.}
+{510}{}{MÅ¯Å¾eme jÃ­t vyÅ™Ã­dit Tylera a jeho partu?}
+{520}{}{Hele, nechoÄ moc daleko. PotÅ™ebujeme to skonÄit dneska v noci.}

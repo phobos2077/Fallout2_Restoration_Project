@@ -1,148 +1,148 @@
-{100}{}{Vidíš shrbeného mue v laboratorním plášti.}
-{101}{}{Vidíš chemika Jacoba.}
-{102}{}{Vidíš shrbeného mue v poskvrnìném laboratorním plášti. Ruce má obarvené od chemikálií.}
-{103}{}{Zdravím. Jsem Jacob, chemik z laboratoøe. Co pro tebe mùu udìlat?}
-{104}{}{Co chceš?}
-{105}{}{Zdravím! Co pro tebe mùu dnes udìlat?}
-{106}{}{Vítej zpìt. Co pro tebe mùu udìlat?}
+{100}{}{VidÃ­Å¡ shrbenÃ©ho muÅ¾e v laboratornÃ­m plÃ¡Å¡ti.}
+{101}{}{VidÃ­Å¡ chemika Jacoba.}
+{102}{}{VidÃ­Å¡ shrbenÃ©ho muÅ¾e v poskvrnÄ›nÃ©m laboratornÃ­m plÃ¡Å¡ti. Ruce mÃ¡ obarvenÃ© od chemikÃ¡liÃ­.}
+{103}{}{ZdravÃ­m. Jsem Jacob, chemik z laboratoÅ™e. Co pro tebe mÅ¯Å¾u udÄ›lat?}
+{104}{}{Co chceÅ¡?}
+{105}{}{ZdravÃ­m! Co pro tebe mÅ¯Å¾u dnes udÄ›lat?}
+{106}{}{VÃ­tej zpÄ›t. Co pro tebe mÅ¯Å¾u udÄ›lat?}
 {107}{}{Da yagga! Eep oop op!}
-{108}{}{Rabolatoøe? Dlaboøatoøe?}
-{109}{}{Mám nìjakou rudu, kterou chci rafinovat a nechci platit ceny v rafinérii.}
-{110}{}{Co mi mùete øíct o Broken Hills?}
-{111}{}{Chci nìco namíchat.}
-{112}{}{Chci s tebou mluvit o jisté záleitosti tıkající se mutantù.}
+{108}{}{RabolatoÅ™e? DlaboÅ™atoÅ™e?}
+{109}{}{MÃ¡m nÄ›jakou rudu, kterou chci rafinovat a nechci platit ceny v rafinÃ©rii.}
+{110}{}{Co mi mÅ¯Å¾ete Å™Ã­ct o Broken Hills?}
+{111}{}{Chci nÄ›co namÃ­chat.}
+{112}{}{Chci s tebou mluvit o jistÃ© zÃ¡leÅ¾itosti tÃ½kajÃ­cÃ­ se mutantÅ¯.}
 {113}{}{Nashle.}
-{114}{}{::S odporem se na tebe podívá:: Zmiz odsud, nemám na tebe èas.}
+{114}{}{::S odporem se na tebe podÃ­vÃ¡:: Zmiz odsud, nemÃ¡m na tebe Äas.}
 {115}{}{[KONEC]}
-{116}{}{Laboratoø. Jmenuje se to laboratoø. Podívej, chceš nìco?}
-{117}{}{Zase ty? Chceš nìco?}
+{116}{}{LaboratoÅ™. Jmenuje se to laboratoÅ™. PodÃ­vej, chceÅ¡ nÄ›co?}
+{117}{}{Zase ty? ChceÅ¡ nÄ›co?}
 {118}{}{Jo!}
 {119}{}{Nene.}
-{120}{}{Dobøe. Podíváme se, co chceš.}
-{121}{}{[Více]}
-{122}{}{V tom pøípadì odejdi.}
+{120}{}{DobÅ™e. PodÃ­vÃ¡me se, co chceÅ¡.}
+{121}{}{[VÃ­ce]}
+{122}{}{V tom pÅ™Ã­padÄ› odejdi.}
 {123}{}{[KONEC]}
-{124}{}{Tady. Hotovo. Díky za dıško. A teï zmiz.}
+{124}{}{Tady. Hotovo. DÃ­ky za dÃ½Å¡ko. A teÄ zmiz.}
 {125}{}{To fajn!}
-{148}{}{Nejdøív mi øekni, co cítíš k mutantùm.}
-{149}{}{Nenávidím je.}
-{150}{}{Nevím.}
-{151}{}{Jsou úasní!}
-{152}{}{V tom pøípadì ti øeknu pravdu.}
+{148}{}{NejdÅ™Ã­v mi Å™ekni, co cÃ­tÃ­Å¡ k mutantÅ¯m.}
+{149}{}{NenÃ¡vidÃ­m je.}
+{150}{}{NevÃ­m.}
+{151}{}{Jsou ÃºÅ¾asnÃ­!}
+{152}{}{V tom pÅ™Ã­padÄ› ti Å™eknu pravdu.}
 {153}{}{A human named Jacob -- I was named after him -- founded this place. Then mutant Marcus came along
  and forced everyone under his rule. }
-{154}{}{To staèí. Jsi blázen. Sbohem.}
-{155}{}{Povídej dál.}
-{156}{}{Moná, kdy ti øeknu pravdu, zmìníš názor.}
-{157}{}{Dobøe, tak povídej.}
-{158}{}{Ne, nezajímá mì to.}
-{159}{}{V tom pøípadì je tu skvìlı ivot. Tohle mìsto má všechno, co si jen mùeš pøát... mutantského šerifa, uranovı dùl, nemocnici, obchod... dostaneš tu v podstatì všechno. Ještì nìco?}
+{154}{}{To staÄÃ­. Jsi blÃ¡zen. Sbohem.}
+{155}{}{PovÃ­dej dÃ¡l.}
+{156}{}{MoÅ¾nÃ¡, kdyÅ¾ ti Å™eknu pravdu, zmÄ›nÃ­Å¡ nÃ¡zor.}
+{157}{}{DobÅ™e, tak povÃ­dej.}
+{158}{}{Ne, nezajÃ­mÃ¡ mÄ› to.}
+{159}{}{V tom pÅ™Ã­padÄ› je tu skvÄ›lÃ½ Å¾ivot. Tohle mÄ›sto mÃ¡ vÅ¡echno, co si jen mÅ¯Å¾eÅ¡ pÅ™Ã¡t... mutantskÃ©ho Å¡erifa, uranovÃ½ dÅ¯l, nemocnici, obchod... dostaneÅ¡ tu v podstatÄ› vÅ¡echno. JeÅ¡tÄ› nÄ›co?}
 {160}{}{Ano.}
 {161}{}{Ne.}
-{162}{}{Vıbornì. Nashle.}
+{162}{}{VÃ½bornÄ›. Nashle.}
 {163}{}{Nashle.}
-{164}{}{Kdy byl Vùdce znièen, zaèal tady vládnout. S kadım, kdo s ním nesouhlasil, zatoèil... nebo ho nechal "zmizet." Tohle mìsto vypadá na první pohled civilizovanì, ale pravda je taková, e je to útoèištì pro krvelaèné mutanty. Znám pøítele mého pøítele, kterı zmizel potom, co vyslovil svùj názor.}
-{165}{}{Pokraèuj.}
-{166}{}{To staèí. Jsi blázen. Sbohem.}
-{167}{}{Všichni pøedstíráme, e je tohle mìsto civilizované, e se tu máme všichni dobøe... ale ijeme ve strachu pøed mutantskım terorem. Kadım dnem je nás ménì a ménì.}
-{168}{}{Vdy všichni mutanti v tomhle mìstì vypadají staøe a sešle.}
-{169}{}{Proè proti nim nebojujete?}
-{170}{}{To proto, e se tì snaí oklamat, pøíteli. Snaí se tì jen oklamat.}
-{171}{}{Proè proti nim teda nebojujete?}
-{172}{}{Oklamat mì? Aha. No, u musím jít. Hezky jsme si popovídali.}
-{173}{}{Ve skuteènosti proti nim bojujeme. Já a mí pøátelé plánujeme útok za úèelem vyèištìní mìsta od mutantù, ale potøebujeme k tomu pár pøátel z vìzení. Jdeš do toho s námi?}
+{164}{}{KdyÅ¾ byl VÅ¯dce zniÄen, zaÄal tady vlÃ¡dnout. S kaÅ¾dÃ½m, kdo s nÃ­m nesouhlasil, zatoÄil... nebo ho nechal "zmizet." Tohle mÄ›sto vypadÃ¡ na prvnÃ­ pohled civilizovanÄ›, ale pravda je takovÃ¡, Å¾e je to ÃºtoÄiÅ¡tÄ› pro krvelaÄnÃ© mutanty. ZnÃ¡m pÅ™Ã­tele mÃ©ho pÅ™Ã­tele, kterÃ½ zmizel potom, co vyslovil svÅ¯j nÃ¡zor.}
+{165}{}{PokraÄuj.}
+{166}{}{To staÄÃ­. Jsi blÃ¡zen. Sbohem.}
+{167}{}{VÅ¡ichni pÅ™edstÃ­rÃ¡me, Å¾e je tohle mÄ›sto civilizovanÃ©, Å¾e se tu mÃ¡me vÅ¡ichni dobÅ™e... ale Å¾ijeme ve strachu pÅ™ed mutantskÃ½m terorem. KaÅ¾dÃ½m dnem je nÃ¡s mÃ©nÄ› a mÃ©nÄ›.}
+{168}{}{VÅ¾dyÅ¥ vÅ¡ichni mutanti v tomhle mÄ›stÄ› vypadajÃ­ staÅ™e a seÅ¡le.}
+{169}{}{ProÄ proti nim nebojujete?}
+{170}{}{To proto, Å¾e se tÄ› snaÅ¾Ã­ oklamat, pÅ™Ã­teli. SnaÅ¾Ã­ se tÄ› jen oklamat.}
+{171}{}{ProÄ proti nim teda nebojujete?}
+{172}{}{Oklamat mÄ›? Aha. No, uÅ¾ musÃ­m jÃ­t. Hezky jsme si popovÃ­dali.}
+{173}{}{Ve skuteÄnosti proti nim bojujeme. JÃ¡ a mÃ­ pÅ™Ã¡telÃ© plÃ¡nujeme Ãºtok za ÃºÄelem vyÄiÅ¡tÄ›nÃ­ mÄ›sta od mutantÅ¯, ale potÅ™ebujeme k tomu pÃ¡r pÅ™Ã¡tel z vÄ›zenÃ­. JdeÅ¡ do toho s nÃ¡mi?}
 {174}{}{Ne.}
-{175}{}{Ne. A jdu to nahlásit. Jsi blázen.}
-{176}{}{Jasnì! }
-{177}{}{Urèitì? Tohle je šance vymanit se z vlády tìch krvelaènıch mutantích bastardù.}
-{178}{}{Nemám zájem.}
-{179}{}{No dobøe. Pøesvìdèil jsi mì. }
-{180}{}{Jak chceš. Nechám tì ít. Ale je to škoda, vypadáš tvrdì.}
-{181}{}{Jasnì. Nashle.}
-{182}{}{Opravdu, jo? Myslím, e ne, zrádèe.}
-{183}{}{Coe?}
-{184}{}{Mám pro tebe prácièku. Naši pøátelé, Manson a Franc, jsou zavøeni v base. Musíš je dostat ven. Pokud to pùjde, udìlej to tiše. Urèitì nechceš, aby ti bylo v patách celé mìsto.}
-{185}{}{Co kdy nìkoho zabiju?}
-{186}{}{Chápu. Mám další otázky.}
-{187}{}{Zapomeò na to. To se mi nelíbí.}
-{188}{}{Jasnì. Zatím.}
-{189}{}{ádnı problém, stejnì jsou tam jen mutanti. Ale pokus se to udìlat tiše.}
-{190}{}{Chápu. Mám další otázky.}
-{191}{}{Jasnì. Zatím.}
+{175}{}{Ne. A jdu to nahlÃ¡sit. Jsi blÃ¡zen.}
+{176}{}{JasnÄ›! }
+{177}{}{UrÄitÄ›? Tohle je Å¡ance vymanit se z vlÃ¡dy tÄ›ch krvelaÄnÃ½ch mutantÃ­ch bastardÅ¯.}
+{178}{}{NemÃ¡m zÃ¡jem.}
+{179}{}{No dobÅ™e. PÅ™esvÄ›dÄil jsi mÄ›. }
+{180}{}{Jak chceÅ¡. NechÃ¡m tÄ› Å¾Ã­t. Ale je to Å¡koda, vypadÃ¡Å¡ tvrdÄ›.}
+{181}{}{JasnÄ›. Nashle.}
+{182}{}{Opravdu, jo? MyslÃ­m, Å¾e ne, zrÃ¡dÄe.}
+{183}{}{CoÅ¾e?}
+{184}{}{MÃ¡m pro tebe prÃ¡ciÄku. NaÅ¡i pÅ™Ã¡telÃ©, Manson a Franc, jsou zavÅ™eni v base. MusÃ­Å¡ je dostat ven. Pokud to pÅ¯jde, udÄ›lej to tiÅ¡e. UrÄitÄ› nechceÅ¡, aby ti bylo v patÃ¡ch celÃ© mÄ›sto.}
+{185}{}{Co kdyÅ¾ nÄ›koho zabiju?}
+{186}{}{ChÃ¡pu. MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
+{187}{}{ZapomeÅˆ na to. To se mi nelÃ­bÃ­.}
+{188}{}{JasnÄ›. ZatÃ­m.}
+{189}{}{Å½Ã¡dnÃ½ problÃ©m, stejnÄ› jsou tam jen mutanti. Ale pokus se to udÄ›lat tiÅ¡e.}
+{190}{}{ChÃ¡pu. MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
+{191}{}{JasnÄ›. ZatÃ­m.}
 {192}{}{More questions?}
-{193}{}{Mám nìjakou rudu, kterou chci rafinovat a nechci platit ceny v rafinérii.}
-{194}{}{Co mi mùete øíct o Broken Hills?}
-{195}{}{Chci nìco namíchat.}
+{193}{}{MÃ¡m nÄ›jakou rudu, kterou chci rafinovat a nechci platit ceny v rafinÃ©rii.}
+{194}{}{Co mi mÅ¯Å¾ete Å™Ã­ct o Broken Hills?}
+{195}{}{Chci nÄ›co namÃ­chat.}
 {196}{}{Nic. Nashle.}
-{222}{}{Pìknì ses proti nám obrátil, mutantofile. Jak jsi to mohl Chadovi udìlat? Je mi jedno, co jsi pro nás udìlal. Jsi ostuda lidstva.}
+{222}{}{PÄ›knÄ› ses proti nÃ¡m obrÃ¡til, mutantofile. Jak jsi to mohl Chadovi udÄ›lat? Je mi jedno, co jsi pro nÃ¡s udÄ›lal. Jsi ostuda lidstva.}
 {223}{}{Nashle.}
-{224}{}{To byl parádnì provedenı útìk z vìzení!}
-{225}{}{Díky.}
-{226}{}{Opravdu jsi musel všechny zabít? Teï budeme mít víc starostí. No nevadí.}
-{227}{}{Omlouvám se.}
-{228}{}{No, aspoò, e jsou venku. To je to dùleité. Bohuel teï všichni ve mìstì ví o tvém spojenectví s Mansonem a Francem. No nic.}
-{229}{}{Omlouvám se.}
-{230}{}{Myslím, e teï u ti mùu opravdu dùvìøovat. Co takhle další malá prácièka?}
-{231}{}{Co pro tebe ještì mùu udìlat, pøíteli?}
-{232}{}{Další práce? Co máš na mysli?}
-{233}{}{Potøebuju rafinovat nìjakou rudu.}
-{234}{}{Teï ne, potøebuju nìjaké chemikálie.}
-{235}{}{Teï ne, díky. Nashle.}
-{258}{}{Vìc se má takhle: Nenávidíme mutanty a chceme je zabít. Nejlepší zpùsob, jak se jich zbavit, je vyhodit dùl do povìtøí, kdy budou uvnitø. Tvoje práce bude umístit tu vıbušninu.}
-{259}{}{Udìlám to!}
-{260}{}{Ne, to nemùu udìlat.}
-{261}{}{Vıbornì, pøíteli! Tady. Vezmi si tuhle rozbušku. Pøipevni ji na èistièku vzduchu a co nejrychleji odtamtud vypadni. Zaøídili jsme, e budou mutanti v dole.}
-{262}{}{Dej mi vìdìt, a budeš pøipraven.}
-{263}{}{Jasnì.}
-{264}{}{Ne, to nemùu udìlat.}
-{265}{}{Proè ne? Bojíš se nebo co? Víš urèitì, e to neudìláš?}
+{224}{}{To byl parÃ¡dnÄ› provedenÃ½ ÃºtÄ›k z vÄ›zenÃ­!}
+{225}{}{DÃ­ky.}
+{226}{}{Opravdu jsi musel vÅ¡echny zabÃ­t? TeÄ budeme mÃ­t vÃ­c starostÃ­. No nevadÃ­.}
+{227}{}{OmlouvÃ¡m se.}
+{228}{}{No, aspoÅˆ, Å¾e jsou venku. To je to dÅ¯leÅ¾itÃ©. BohuÅ¾el teÄ vÅ¡ichni ve mÄ›stÄ› vÃ­ o tvÃ©m spojenectvÃ­ s Mansonem a Francem. No nic.}
+{229}{}{OmlouvÃ¡m se.}
+{230}{}{MyslÃ­m, Å¾e teÄ uÅ¾ ti mÅ¯Å¾u opravdu dÅ¯vÄ›Å™ovat. Co takhle dalÅ¡Ã­ malÃ¡ prÃ¡ciÄka?}
+{231}{}{Co pro tebe jeÅ¡tÄ› mÅ¯Å¾u udÄ›lat, pÅ™Ã­teli?}
+{232}{}{DalÅ¡Ã­ prÃ¡ce? Co mÃ¡Å¡ na mysli?}
+{233}{}{PotÅ™ebuju rafinovat nÄ›jakou rudu.}
+{234}{}{TeÄ ne, potÅ™ebuju nÄ›jakÃ© chemikÃ¡lie.}
+{235}{}{TeÄ ne, dÃ­ky. Nashle.}
+{258}{}{VÄ›c se mÃ¡ takhle: NenÃ¡vidÃ­me mutanty a chceme je zabÃ­t. NejlepÅ¡Ã­ zpÅ¯sob, jak se jich zbavit, je vyhodit dÅ¯l do povÄ›tÅ™Ã­, kdyÅ¾ budou uvnitÅ™. Tvoje prÃ¡ce bude umÃ­stit tu vÃ½buÅ¡ninu.}
+{259}{}{UdÄ›lÃ¡m to!}
+{260}{}{Ne, to nemÅ¯Å¾u udÄ›lat.}
+{261}{}{VÃ½bornÄ›, pÅ™Ã­teli! Tady. Vezmi si tuhle rozbuÅ¡ku. PÅ™ipevni ji na ÄistiÄku vzduchu a co nejrychleji odtamtud vypadni. ZaÅ™Ã­dili jsme, Å¾e budou mutanti v dole.}
+{262}{}{Dej mi vÄ›dÄ›t, aÅ¾ budeÅ¡ pÅ™ipraven.}
+{263}{}{JasnÄ›.}
+{264}{}{Ne, to nemÅ¯Å¾u udÄ›lat.}
+{265}{}{ProÄ ne? BojÃ­Å¡ se nebo co? VÃ­Å¡ urÄitÄ›, Å¾e to neudÄ›lÃ¡Å¡?}
 {266}{}{Ano.}
-{267}{}{Ne. Myslím, e to udìlám.}
-{268}{}{Chápu tì. A doufám, e ty mì taky pochopíš, kdy ti øeknu: zmiz mi z oèí, ty zrádèe.}
+{267}{}{Ne. MyslÃ­m, Å¾e to udÄ›lÃ¡m.}
+{268}{}{ChÃ¡pu tÄ›. A doufÃ¡m, Å¾e ty mÄ› taky pochopÃ­Å¡, kdyÅ¾ ti Å™eknu: zmiz mi z oÄÃ­, ty zrÃ¡dÄe.}
 {269}{}{[KONEC]}
-{270}{}{Jdeš do toho s námi?}
+{270}{}{JdeÅ¡ do toho s nÃ¡mi?}
 {272}{}{Ano. Jdeme na to.}
-{273}{}{Mìním názor. Nemùu to udìlat.}
-{274}{}{Dobøe. Na tohle jsem dlouho èekal. Vezmi si tuhle rozbušku a pøipevni ji na èistièku vzduchu v dole a co nejrychleji odtamtud vypadni. Bude to mohutná exploze. Uvidíme se potom!}
-{275}{}{Tak zatím! Smrt mutantùm!}
-{276}{}{Mìním názor. Neudìlám to.}
-{277}{}{Jsi pìknı zrádce.}
-{278}{}{Odvedl jsi dobrou práci. Kdysi. Škoda, e ses pak obrátil proti nám.}
-{279}{}{Koneènì jsme se vymanili z nadvlády mutantù. Opravdu ti moc dìkujeme za pomoc. Ve sklepì pod Lízinım obchodem je malı sklad zbraní. Za svoji vìrnost si mùeš odtamtud vzít cokoliv budeš chtít.}
-{280}{}{Opouštíme mìsto. Tobì doporuèuju to samé.}
-{281}{}{Pøijï za mnou, a budu ve svém obchodì a pak si promluvíme.}
-{282}{}{Tvoje ruda je hotová. Tady máš.}
-{283}{}{Díky!}
-{284}{}{Ještì to není hotové. Dej mi víc èasu.}
-{285}{}{Chci se ještì na nìco zeptat.}
-{286}{}{Dobøe. Ahoj.}
-{287}{}{Jsi pøipraven na odvrácení pozornosti?}
-{288}{}{Chceš znovu zkusit to odvrácení pozornosti?}
-{289}{}{Máš to mít. Chceš mi pomoct s odvrácením pozornosti?}
-{290}{}{Chci koupit nìjakou... ehm... medicínu.}
-{291}{}{Ještì nìco?}
+{273}{}{MÄ›nÃ­m nÃ¡zor. NemÅ¯Å¾u to udÄ›lat.}
+{274}{}{DobÅ™e. Na tohle jsem dlouho Äekal. Vezmi si tuhle rozbuÅ¡ku a pÅ™ipevni ji na ÄistiÄku vzduchu v dole a co nejrychleji odtamtud vypadni. Bude to mohutnÃ¡ exploze. UvidÃ­me se potom!}
+{275}{}{Tak zatÃ­m! Smrt mutantÅ¯m!}
+{276}{}{MÄ›nÃ­m nÃ¡zor. NeudÄ›lÃ¡m to.}
+{277}{}{Jsi pÄ›knÃ½ zrÃ¡dce.}
+{278}{}{Odvedl jsi dobrou prÃ¡ci. Kdysi. Å koda, Å¾e ses pak obrÃ¡til proti nÃ¡m.}
+{279}{}{KoneÄnÄ› jsme se vymanili z nadvlÃ¡dy mutantÅ¯. Opravdu ti moc dÄ›kujeme za pomoc. Ve sklepÄ› pod LÃ­zinÃ½m obchodem je malÃ½ sklad zbranÃ­. Za svoji vÄ›rnost si mÅ¯Å¾eÅ¡ odtamtud vzÃ­t cokoliv budeÅ¡ chtÃ­t.}
+{280}{}{OpouÅ¡tÃ­me mÄ›sto. TobÄ› doporuÄuju to samÃ©.}
+{281}{}{PÅ™ijÄ za mnou, aÅ¾ budu ve svÃ©m obchodÄ› a pak si promluvÃ­me.}
+{282}{}{Tvoje ruda je hotovÃ¡. Tady mÃ¡Å¡.}
+{283}{}{DÃ­ky!}
+{284}{}{JeÅ¡tÄ› to nenÃ­ hotovÃ©. Dej mi vÃ­c Äasu.}
+{285}{}{Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{286}{}{DobÅ™e. Ahoj.}
+{287}{}{Jsi pÅ™ipraven na odvrÃ¡cenÃ­ pozornosti?}
+{288}{}{ChceÅ¡ znovu zkusit to odvrÃ¡cenÃ­ pozornosti?}
+{289}{}{MÃ¡Å¡ to mÃ­t. ChceÅ¡ mi pomoct s odvrÃ¡cenÃ­m pozornosti?}
+{290}{}{Chci koupit nÄ›jakou... ehm... medicÃ­nu.}
+{291}{}{JeÅ¡tÄ› nÄ›co?}
 {292}{}{Ano.}
-{293}{}{Ne, díky. Nashle.}
-{294}{}{Teï vidíš, jak jsou mutanti zrádní. Škoda, e jsi to nevidìl døív.}
-{295}{}{Kdy nepomùeš nám, nepomùeme my tobì.}
-{296}{}{Hele, co tam jen tak stojíš? Máš pøece zachránit ty vlastence z vìzení!}
+{293}{}{Ne, dÃ­ky. Nashle.}
+{294}{}{TeÄ vidÃ­Å¡, jak jsou mutanti zrÃ¡dnÃ­. Å koda, Å¾e jsi to nevidÄ›l dÅ™Ã­v.}
+{295}{}{KdyÅ¾ nepomÅ¯Å¾eÅ¡ nÃ¡m, nepomÅ¯Å¾eme my tobÄ›.}
+{296}{}{Hele, co tam jen tak stojÃ­Å¡? MÃ¡Å¡ pÅ™ece zachrÃ¡nit ty vlastence z vÄ›zenÃ­!}
 {297}{}{Eh... to je fakt.}
-{298}{}{Øíkal jsem ti, e je máš dostat z vìzení, ne je nechat zemøít! Co je to sakra s tebou?}
-{299}{}{Omlouvám se... já jen...}
-{300}{}{Mlè. A u jsi to chtìl udìlat nebo ne, tvoje neschopnost zhatila všechny naše plány. Teï za to zaplatíš.}
-{301}{}{Promiò, pøíteli, ale... zrovna jsem pøišel o své dva nejlepší kamarády. Ti hrozní mutanti je zabili ve vìzení.}
-{302}{}{Urrggg. Mooooc špatnééé. Ahoj.}
-{303}{}{Eh... hmm, to je mi fakt líto. Upøímnou soustrast. Nashle.}
+{298}{}{Å˜Ã­kal jsem ti, Å¾e je mÃ¡Å¡ dostat z vÄ›zenÃ­, ne je nechat zemÅ™Ã­t! Co je to sakra s tebou?}
+{299}{}{OmlouvÃ¡m se... jÃ¡ jen...}
+{300}{}{MlÄ. AÅ¥ uÅ¾ jsi to chtÄ›l udÄ›lat nebo ne, tvoje neschopnost zhatila vÅ¡echny naÅ¡e plÃ¡ny. TeÄ za to zaplatÃ­Å¡.}
+{301}{}{PromiÅˆ, pÅ™Ã­teli, ale... zrovna jsem pÅ™iÅ¡el o svÃ© dva nejlepÅ¡Ã­ kamarÃ¡dy. Ti hroznÃ­ mutanti je zabili ve vÄ›zenÃ­.}
+{302}{}{Urrggg. Mooooc Å¡patnÃ©Ã©Ã©. Ahoj.}
+{303}{}{Eh... hmm, to je mi fakt lÃ­to. UpÅ™Ã­mnou soustrast. Nashle.}
 {304}{}{A sakra.}
-{305}{}{A sakra? Øekl jsi 'a sakra?' Ty s tím máš nìco spoleèného, e jo?}
-{306}{}{Byla to nehoda, pøísahám!}
-{307}{}{V ádném pøípadì. Samozøejmì e ne! Zatracení mutanti!}
-{308}{}{Nehoda? No to urèitì! Tady máš, ty zatracenej mutantofile!}
-{309}{}{Jo, no... však na nì taky jednou dojde.}
-{310}{}{U jsem ti øekl všechno co vím, tak co ještì chceš?}
-{311}{}{Mám ještì nìjaké otázky.}
-{312}{}{ádnı. Zapomeò na to.}
-{313}{}{Díky.}
-{314}{}{Pokraèovat.}
-{315}{}{Zdravím, pøíteli. Váím si tvé pomoci pøi osvobozování našich pøátel. Vdy na tebe budu vzpomínat v dobrém.}
-{316}{}{Díky.}
+{305}{}{A sakra? Å˜ekl jsi 'a sakra?' Ty s tÃ­m mÃ¡Å¡ nÄ›co spoleÄnÃ©ho, Å¾e jo?}
+{306}{}{Byla to nehoda, pÅ™Ã­sahÃ¡m!}
+{307}{}{V Å¾Ã¡dnÃ©m pÅ™Ã­padÄ›. SamozÅ™ejmÄ› Å¾e ne! ZatracenÃ­ mutanti!}
+{308}{}{Nehoda? No to urÄitÄ›! Tady mÃ¡Å¡, ty zatracenej mutantofile!}
+{309}{}{Jo, no... vÅ¡ak na nÄ› taky jednou dojde.}
+{310}{}{UÅ¾ jsem ti Å™ekl vÅ¡echno co vÃ­m, tak co jeÅ¡tÄ› chceÅ¡?}
+{311}{}{MÃ¡m jeÅ¡tÄ› nÄ›jakÃ© otÃ¡zky.}
+{312}{}{Å½Ã¡dnÃ½. ZapomeÅˆ na to.}
+{313}{}{DÃ­ky.}
+{314}{}{PokraÄovat.}
+{315}{}{ZdravÃ­m, pÅ™Ã­teli. VÃ¡Å¾Ã­m si tvÃ© pomoci pÅ™i osvobozovÃ¡nÃ­ naÅ¡ich pÅ™Ã¡tel. VÅ¾dy na tebe budu vzpomÃ­nat v dobrÃ©m.}
+{316}{}{DÃ­ky.}

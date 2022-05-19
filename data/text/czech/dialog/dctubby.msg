@@ -1,54 +1,54 @@
-{100}{}{Vidíš majitele obchodu.}
-{101}{}{Vidíš Tubbyho.}
+{100}{}{VidÃ­Å¡ majitele obchodu.}
+{101}{}{VidÃ­Å¡ Tubbyho.}
 {150}{}{Tohle je majitel obchodu.}
 {151}{}{Tohle je Tubby, majitel obchodu.}
 {152}{}{[MLUVIT]}
-{153}{}{Bude lepší, kdy pùjdete obchodovat nìkam jinam.}
-{154}{}{Jsi obchodník, pojïme tedy obchodovat.}
-{155}{}{Mùu se na nìco zeptat?}
+{153}{}{Bude lepÅ¡Ã­, kdyÅ¾ pÅ¯jdete obchodovat nÄ›kam jinam.}
+{154}{}{Jsi obchodnÃ­k, pojÄme tedy obchodovat.}
+{155}{}{MÅ¯Å¾u se na nÄ›co zeptat?}
 {156}{}{Nashle.}
-{157}{}{Jsem rád, e vás zase vidím. Co pro vás mùu udìlat?}
-{158}{}{Pojïme obchodovat.}
-{159}{}{Mùu se na nìco zeptat?}
-{160}{}{Teï nic. Nashle.}
-{161}{}{Zdravím, pane, vítejte v Tubbyho bazaru. Jsem majitel. Mùu vám pomoct?}
-{162}{}{Ano, pojïme obchodovat.}
-{163}{}{Potøebuju nìjaké informace.}
+{157}{}{Jsem rÃ¡d, Å¾e vÃ¡s zase vidÃ­m. Co pro vÃ¡s mÅ¯Å¾u udÄ›lat?}
+{158}{}{PojÄme obchodovat.}
+{159}{}{MÅ¯Å¾u se na nÄ›co zeptat?}
+{160}{}{TeÄ nic. Nashle.}
+{161}{}{ZdravÃ­m, pane, vÃ­tejte v Tubbyho bazaru. Jsem majitel. MÅ¯Å¾u vÃ¡m pomoct?}
+{162}{}{Ano, pojÄme obchodovat.}
+{163}{}{PotÅ™ebuju nÄ›jakÃ© informace.}
 {164}{}{Sbohem.}
-{165}{}{Dobrı den, madam. Pøátelé mi øíkají Tubby. Vítám vás ve svém obchodì. Jak vám mùu pomoct?}
-{166}{}{Chci nìco koupit.}
-{167}{}{Potøebuju nìjaké informace.}
+{165}{}{DobrÃ½ den, madam. PÅ™Ã¡telÃ© mi Å™Ã­kajÃ­ Tubby. VÃ­tÃ¡m vÃ¡s ve svÃ©m obchodÄ›. Jak vÃ¡m mÅ¯Å¾u pomoct?}
+{166}{}{Chci nÄ›co koupit.}
+{167}{}{PotÅ™ebuju nÄ›jakÃ© informace.}
 {168}{}{Sbohem.}
-{169}{}{Bude lepší, kdy odejdete.}
+{169}{}{Bude lepÅ¡Ã­, kdyÅ¾ odejdete.}
 {170}{}{Nashle.}
-{171}{}{Co potøebujete vìdìt?}
-{172}{}{Kdo tohle mìsto øídí?}
-{173}{}{Proè tu všichni prodávají drogy?}
-{174}{}{Nevíte, kde se nachází Vault?}
-{175}{}{Vlastnì chci obchodovat.}
+{171}{}{Co potÅ™ebujete vÄ›dÄ›t?}
+{172}{}{Kdo tohle mÄ›sto Å™Ã­dÃ­?}
+{173}{}{ProÄ tu vÅ¡ichni prodÃ¡vajÃ­ drogy?}
+{174}{}{NevÃ­te, kde se nachÃ¡zÃ­ Vault?}
+{175}{}{VlastnÄ› chci obchodovat.}
 {176}{}{Ale nic. Nashle.}
-{177}{}{Ach jo. Myslím, e budeme mít problém s komunikací. Kıvnìte prosím, jestli máte nìjaké zboí na vımìnu.}
-{178}{}{[Kıvnout]}
-{179}{}{Pápá.}
-{180}{}{Nikdo, bohuel. Den je místo anarchistù, kde platí pouze Darwinùv zákon. Pøeijí tu jen ti nejsilnìjší, nejrychlejší a nejchytøejší. Jsem si jistı, e pro vás se tu nìjaké místeèko najde.}
-{181}{}{Ehm, díky.}
-{182}{}{Drogy jsou základem ekonomiky tohohle mìsta, tak jako jinde obilí nebo zlato. Redding je další pøíklad mìsta zaplaveného drogami. Ti zatracení horníci jsou sjetí v jednom kuse a práce stojí. Sice jsem tam nikdy nebyl, ale je to odsud pár dní cesty na jihovıchod, jestli se tam chcete podívat.}
-{183}{}{Díky.}
-{184}{}{Slyšel jsem o místì zvaném Vault City, ale bohuel vám nepomùu se smìrem. Víte, jen málokdo zdejší mùe nabídnout nìco, co se dá vymìnit za jejich lékaøskou péèi, take tam vìtšina z nás nikdy nebyla.}
-{185}{}{Dobøe. Díky.}
-{186}{}{Tohle není typ informace, kterou øeknu JEN TAK nìkomu.}
-{187}{}{Zmìní sto babek váš názor?}
-{188}{}{Kdy vám dám $50, øeknete mi to?}
-{189}{}{Co byste øekl na tohle? Vy mi dáte tu informaci a já vám neudìlám další díru do hlavy.}
-{190}{}{Zapomeò na to.}
-{191}{}{No, mùu se ještì na nìco zeptat?}
-{192}{}{Jistì, taková suma by MOHLA pomoct zmìnit mùj názor, ale vy ji nemáte!}
-{193}{}{Asi se mi nìkde ztratila. Jdu se po ní podívat.}
-{194}{}{Myslím, e to nebude staèit.}
-{500}{}{Jistì Petey. Hned tam budu.}
-{501}{}{Vydr Petey!}
-{502}{}{U jdu, u jdu.}
-{510}{}{Tady máš, Petey.}
-{511}{}{Víš, Petey, mìl bys toho nechat.}
+{177}{}{Ach jo. MyslÃ­m, Å¾e budeme mÃ­t problÃ©m s komunikacÃ­. KÃ½vnÄ›te prosÃ­m, jestli mÃ¡te nÄ›jakÃ© zboÅ¾Ã­ na vÃ½mÄ›nu.}
+{178}{}{[KÃ½vnout]}
+{179}{}{PÃ¡pÃ¡.}
+{180}{}{Nikdo, bohuÅ¾el. Den je mÃ­sto anarchistÅ¯, kde platÃ­ pouze DarwinÅ¯v zÃ¡kon. PÅ™eÅ¾ijÃ­ tu jen ti nejsilnÄ›jÅ¡Ã­, nejrychlejÅ¡Ã­ a nejchytÅ™ejÅ¡Ã­. Jsem si jistÃ½, Å¾e pro vÃ¡s se tu nÄ›jakÃ© mÃ­steÄko najde.}
+{181}{}{Ehm, dÃ­ky.}
+{182}{}{Drogy jsou zÃ¡kladem ekonomiky tohohle mÄ›sta, tak jako jinde obilÃ­ nebo zlato. Redding je dalÅ¡Ã­ pÅ™Ã­klad mÄ›sta zaplavenÃ©ho drogami. Ti zatracenÃ­ hornÃ­ci jsou sjetÃ­ v jednom kuse a prÃ¡ce stojÃ­. Sice jsem tam nikdy nebyl, ale je to odsud pÃ¡r dnÃ­ cesty na jihovÃ½chod, jestli se tam chcete podÃ­vat.}
+{183}{}{DÃ­ky.}
+{184}{}{SlyÅ¡el jsem o mÃ­stÄ› zvanÃ©m Vault City, ale bohuÅ¾el vÃ¡m nepomÅ¯Å¾u se smÄ›rem. VÃ­te, jen mÃ¡lokdo zdejÅ¡Ã­ mÅ¯Å¾e nabÃ­dnout nÄ›co, co se dÃ¡ vymÄ›nit za jejich lÃ©kaÅ™skou pÃ©Äi, takÅ¾e tam vÄ›tÅ¡ina z nÃ¡s nikdy nebyla.}
+{185}{}{DobÅ™e. DÃ­ky.}
+{186}{}{Tohle nenÃ­ typ informace, kterou Å™eknu JEN TAK nÄ›komu.}
+{187}{}{ZmÄ›nÃ­ sto babek vÃ¡Å¡ nÃ¡zor?}
+{188}{}{KdyÅ¾ vÃ¡m dÃ¡m $50, Å™eknete mi to?}
+{189}{}{Co byste Å™ekl na tohle? Vy mi dÃ¡te tu informaci a jÃ¡ vÃ¡m neudÄ›lÃ¡m dalÅ¡Ã­ dÃ­ru do hlavy.}
+{190}{}{ZapomeÅˆ na to.}
+{191}{}{No, mÅ¯Å¾u se jeÅ¡tÄ› na nÄ›co zeptat?}
+{192}{}{JistÄ›, takovÃ¡ suma by MOHLA pomoct zmÄ›nit mÅ¯j nÃ¡zor, ale vy ji nemÃ¡te!}
+{193}{}{Asi se mi nÄ›kde ztratila. Jdu se po nÃ­ podÃ­vat.}
+{194}{}{MyslÃ­m, Å¾e to nebude staÄit.}
+{500}{}{JistÄ› Petey. Hned tam budu.}
+{501}{}{VydrÅ¾ Petey!}
+{502}{}{UÅ¾ jdu, uÅ¾ jdu.}
+{510}{}{Tady mÃ¡Å¡, Petey.}
+{511}{}{VÃ­Å¡, Petey, mÄ›l bys toho nechat.}
 {512}{}{Vezmi si to a vypadni odsud, Petey.}
-{520}{}{Rádo se stalo.}
+{520}{}{RÃ¡do se stalo.}

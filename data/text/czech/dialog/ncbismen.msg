@@ -1,202 +1,202 @@
-{100}{}{Vidíš jednoho z Bishopovıch muù.}
-{150}{}{Vidíš drsnì vypadajícího chlápka v koené zbroji. Na jeho tìle je spousta jizev a starıch støelnıch zranìní.}
-{151}{}{Vidíš jednoho z Bishopovıch bodyguardù. Rozhlíí se po okolí a prsty má pøipravené na spoušti.}
+{100}{}{VidÃ­Å¡ jednoho z BishopovÃ½ch muÅ¾Å¯.}
+{150}{}{VidÃ­Å¡ drsnÄ› vypadajÃ­cÃ­ho chlÃ¡pka v koÅ¾enÃ© zbroji. Na jeho tÄ›le je spousta jizev a starÃ½ch stÅ™elnÃ½ch zranÄ›nÃ­.}
+{151}{}{VidÃ­Å¡ jednoho z BishopovÃ½ch bodyguardÅ¯. RozhlÃ­Å¾Ã­ se po okolÃ­ a prsty mÃ¡ pÅ™ipravenÃ© na spouÅ¡ti.}
 {200}{}{Hej! }
-{201}{}{::dìkovaèka::}
+{201}{}{::dÄ›kovaÄka::}
 {202}{}{::tlesk::}
-{203}{}{::píská::}
-{205}{}{Jak sakra chodíš s tou zbrojí na záchod?}
-{210}{}{Pìkná vìcièka, }
-{215}{}{Eh, proè se tady plazíš, }
+{203}{}{::pÃ­skÃ¡::}
+{205}{}{Jak sakra chodÃ­Å¡ s tou zbrojÃ­ na zÃ¡chod?}
+{210}{}{PÄ›knÃ¡ vÄ›ciÄka, }
+{215}{}{Eh, proÄ se tady plazÃ­Å¡, }
 {216}{}{Eh, hele, }
-{220}{}{Èus, }
+{220}{}{ÄŒus, }
 {221}{}{Nazdar, }
 {222}{}{Nazdar, }
-{225}{}{Právì jsi vlezl na špatnı místo, sráèi.}
-{226}{}{No, máš fakt koule na to sem pøijít... padej, chlape, nebo tì sejmem.}
-{227}{}{Tenhle chlápek si øíká o malér...}
-{228}{}{Slyšel jsem, e jsou v rodinì }
-{229}{}{Radši odejdi, }
-{230}{}{Ááá, jestlipak to není }
-{231}{}{Nevìdìl jsem, e èlenové rodiny }
-{232}{}{Právì jsi vlezla na špatnı místo, dìvko.}
-{233}{}{Hele, podívejte se na tu dìvku, jak se tu naparuje...}
-{234}{}{Padej, holka, nebo tì sejmem.}
-{235}{}{Tahle dìvka si øíká o malér...}
-{236}{}{Slyšel jsem, e jsou v rodinì }
-{250}{}{Nazdar, šampióne. ádnı zbranì, jasnı?}
-{251}{}{Nazdar, šampióne! Odlo tu zbraò.}
+{225}{}{PrÃ¡vÄ› jsi vlezl na Å¡patnÃ½ mÃ­sto, srÃ¡Äi.}
+{226}{}{No, mÃ¡Å¡ fakt koule na to sem pÅ™ijÃ­t... padej, chlape, nebo tÄ› sejmem.}
+{227}{}{Tenhle chlÃ¡pek si Å™Ã­kÃ¡ o malÃ©r...}
+{228}{}{SlyÅ¡el jsem, Å¾e jsou v rodinÄ› }
+{229}{}{RadÅ¡i odejdi, }
+{230}{}{ÃÃ¡Ã¡, jestlipak to nenÃ­ }
+{231}{}{NevÄ›dÄ›l jsem, Å¾e ÄlenovÃ© rodiny }
+{232}{}{PrÃ¡vÄ› jsi vlezla na Å¡patnÃ½ mÃ­sto, dÄ›vko.}
+{233}{}{Hele, podÃ­vejte se na tu dÄ›vku, jak se tu naparuje...}
+{234}{}{Padej, holka, nebo tÄ› sejmem.}
+{235}{}{Tahle dÄ›vka si Å™Ã­kÃ¡ o malÃ©r...}
+{236}{}{SlyÅ¡el jsem, Å¾e jsou v rodinÄ› }
+{250}{}{Nazdar, Å¡ampiÃ³ne. Å½Ã¡dnÃ½ zbranÄ›, jasnÃ½?}
+{251}{}{Nazdar, Å¡ampiÃ³ne! OdloÅ¾ tu zbraÅˆ.}
 {252}{}{Nazdar, }
-{255}{}{Proè se tady plííš?}
-{256}{}{Snaíš se vyhnout svım fanouškùm?}
-{257}{}{Eh, proè takovı tajnosti?}
-{260}{}{Èus, }
-{261}{}{Èus, }
-{265}{}{Nazdar, fešáku. ádnı zbranì, jasnı?}
+{255}{}{ProÄ se tady plÃ­Å¾Ã­Å¡?}
+{256}{}{SnaÅ¾Ã­Å¡ se vyhnout svÃ½m fanouÅ¡kÅ¯m?}
+{257}{}{Eh, proÄ takovÃ½ tajnosti?}
+{260}{}{ÄŒus, }
+{261}{}{ÄŒus, }
+{265}{}{Nazdar, feÅ¡Ã¡ku. Å½Ã¡dnÃ½ zbranÄ›, jasnÃ½?}
 {266}{}{Nazdar, }
-{267}{}{Èus, }
-{268}{}{Zlato, tady nemùeš nosit ádnı zbranì. Hehe... ty stejnì dokáeš zabít i bez nich.}
+{267}{}{ÄŒus, }
+{268}{}{Zlato, tady nemÅ¯Å¾eÅ¡ nosit Å¾Ã¡dnÃ½ zbranÄ›. Hehe... ty stejnÄ› dokÃ¡Å¾eÅ¡ zabÃ­t i bez nich.}
 {269}{}{Nazdar, }
-{275}{}{S takovouhle figurou se nikam neproplííš, zlato.}
+{275}{}{S takovouhle figurou se nikam neproplÃ­Å¾Ã­Å¡, zlato.}
 {280}{}{Miluju tvoje filmy, }
-{281}{}{Perfektní byl film "Anální Nikita".}
-{282}{}{Perfektní byl film "Oral Hills 90210".}
-{283}{}{Jsem velkej fanoušek Øiníkù.}
+{281}{}{PerfektnÃ­ byl film "AnÃ¡lnÃ­ Nikita".}
+{282}{}{PerfektnÃ­ byl film "Oral Hills 90210".}
+{283}{}{Jsem velkej fanouÅ¡ek Å˜iÅ¥nÃ­kÅ¯.}
 {284}{}{Loved "Vault Sex-Teen." It was inspiring. A cinematic tour-de-force.}
-{285}{}{::Píská::}
-{295}{}{Chceš mít snad náhrobek v Golgotì, otrokáøi? Tak tu vìc dej pryè.}
-{296}{}{Odlo tu zbraò, otrokáøi, nebo si z tebe udìlám cviènej terè.}
-{297}{}{Otrokáøi, radši tu zbraò HNED schovej.}
-{300}{}{Chceš mít snad náhrobek v Golgotì, otrokáøi? Tak se tady pøestaò plíit.}
-{301}{}{Pøestaò se tady plíit, otrokáøi, nebo si z tebe udìlám cviènej terè.}
-{302}{}{Otrokáøi, moná by ses mìl vrátit do školy pro ninji. A teï se tady pøestaò plíit.}
-{303}{}{Otrokáøi, radši se tady HNED pøestaò plíit, nebo špatnì skonèíš.}
-{305}{}{Chceš mít snad náhrobek v Golgotì, divochu? Tak tu vìc dej pryè.}
-{306}{}{Odlo tu zbraò, divochu, nebo si z tebe udìlám cviènej terè.}
-{307}{}{Radši bys mìl tu zbraò schovat, divochu. HNED.}
-{310}{}{Chceš mít snad náhrobek v Golgotì, divochu? Tak se tady pøestaò plíit.}
-{311}{}{Pøestaò se tady plíit, divochu, nebo si z tebe udìlám cviènej terè.}
-{312}{}{Divochu, moná by ses mìl vrátit do školy pro ninjy. A teï se tady pøestaò plíit.}
-{313}{}{Divochu, pøestaò se tu kurva plíit. HNED.}
-{315}{}{Odveï si toho robota pryè. Hned.}
-{316}{}{Odveï si toho robota pryè, nebo si z nìj udìláme táborák pro bezdomovce.}
-{317}{}{Z toho robota udìláme náhradní díly, jestli tady ještì chvíli zùstane.}
-{320}{}{*Myslím*, e cítím mutanta. Radši si tu jeho lutou prdel odsud odveï. Hned.}
-{321}{}{Ty a ten tvùj mutantí pøítel si koledujete o to, abych vás sejmul! Vypadnìte.}
-{322}{}{Ten mutant by mìl odsud rychle vypadnout, nebo si jeho hlavu povìsíme na zeï jako trofej.}
-{325}{}{Vidìl jsi ten vèerejší zápas?}
-{326}{}{Po práci zamíøím do Koèièí Packy.}
-{330}{}{Myslel jsem, e prezident neexistuje. e je to jenom vymyšlenı strašidlo, co straší malı dìti.}
-{331}{}{Vypadáš, jako bys zrovna prošel peklem a vrátil se zpátky. Odpoèiò si. Zaslouíš si to.}
-{332}{}{Oni chtìli vzduch zamoøit nìjakım novım virem? Bastardi. Doufám, e jsi jich pár sejmul za mì.}
-{333}{}{Mùeš zaèít novou hru s jinou postavou, která bude mít jinı vlastnosti.}
-{334}{}{Musíš mít poøádnou páru, kdy se ti podaøilo porazit Enklávu.}
-{335}{}{Touláš se po svìtì a sbíráš zkušenostní body, co? Poslyš, nezabíjej mì prosím, ano?}
-{336}{}{New Reno vytvoøil Chris Avellon a naskriptoval Tom French. Øíká se, e se brzo vezmou.}
-{337}{}{Doufám, e budu jednou z hlavních postav ve Falloutu 3 jako tøeba Tandi nebo Ian. Bejt gangster je pìknì na prd.}
-{338}{}{Jó, jednou jsem ojel Tandi. Teda kdy byla ještì mladá.}
-{339}{}{Ta Lynette by fakt potøebovala trochu lásky. Chápeš, co tím myslím?}
-{340}{}{Slyšel jsem, e ses vypoøádal s tou Enklávou na jihu. To bylo fakt odvánı.}
+{285}{}{::PÃ­skÃ¡::}
+{295}{}{ChceÅ¡ mÃ­t snad nÃ¡hrobek v GolgotÄ›, otrokÃ¡Å™i? Tak tu vÄ›c dej pryÄ.}
+{296}{}{OdloÅ¾ tu zbraÅˆ, otrokÃ¡Å™i, nebo si z tebe udÄ›lÃ¡m cviÄnej terÄ.}
+{297}{}{OtrokÃ¡Å™i, radÅ¡i tu zbraÅˆ HNED schovej.}
+{300}{}{ChceÅ¡ mÃ­t snad nÃ¡hrobek v GolgotÄ›, otrokÃ¡Å™i? Tak se tady pÅ™estaÅˆ plÃ­Å¾it.}
+{301}{}{PÅ™estaÅˆ se tady plÃ­Å¾it, otrokÃ¡Å™i, nebo si z tebe udÄ›lÃ¡m cviÄnej terÄ.}
+{302}{}{OtrokÃ¡Å™i, moÅ¾nÃ¡ by ses mÄ›l vrÃ¡tit do Å¡koly pro ninji. A teÄ se tady pÅ™estaÅˆ plÃ­Å¾it.}
+{303}{}{OtrokÃ¡Å™i, radÅ¡i se tady HNED pÅ™estaÅˆ plÃ­Å¾it, nebo Å¡patnÄ› skonÄÃ­Å¡.}
+{305}{}{ChceÅ¡ mÃ­t snad nÃ¡hrobek v GolgotÄ›, divochu? Tak tu vÄ›c dej pryÄ.}
+{306}{}{OdloÅ¾ tu zbraÅˆ, divochu, nebo si z tebe udÄ›lÃ¡m cviÄnej terÄ.}
+{307}{}{RadÅ¡i bys mÄ›l tu zbraÅˆ schovat, divochu. HNED.}
+{310}{}{ChceÅ¡ mÃ­t snad nÃ¡hrobek v GolgotÄ›, divochu? Tak se tady pÅ™estaÅˆ plÃ­Å¾it.}
+{311}{}{PÅ™estaÅˆ se tady plÃ­Å¾it, divochu, nebo si z tebe udÄ›lÃ¡m cviÄnej terÄ.}
+{312}{}{Divochu, moÅ¾nÃ¡ by ses mÄ›l vrÃ¡tit do Å¡koly pro ninjy. A teÄ se tady pÅ™estaÅˆ plÃ­Å¾it.}
+{313}{}{Divochu, pÅ™estaÅˆ se tu kurva plÃ­Å¾it. HNED.}
+{315}{}{OdveÄ si toho robota pryÄ. Hned.}
+{316}{}{OdveÄ si toho robota pryÄ, nebo si z nÄ›j udÄ›lÃ¡me tÃ¡borÃ¡k pro bezdomovce.}
+{317}{}{Z toho robota udÄ›lÃ¡me nÃ¡hradnÃ­ dÃ­ly, jestli tady jeÅ¡tÄ› chvÃ­li zÅ¯stane.}
+{320}{}{*MyslÃ­m*, Å¾e cÃ­tÃ­m mutanta. RadÅ¡i si tu jeho Å¾lutou prdel odsud odveÄ. Hned.}
+{321}{}{Ty a ten tvÅ¯j mutantÃ­ pÅ™Ã­tel si koledujete o to, abych vÃ¡s sejmul! VypadnÄ›te.}
+{322}{}{Ten mutant by mÄ›l odsud rychle vypadnout, nebo si jeho hlavu povÄ›sÃ­me na zeÄ jako trofej.}
+{325}{}{VidÄ›l jsi ten vÄerejÅ¡Ã­ zÃ¡pas?}
+{326}{}{Po prÃ¡ci zamÃ­Å™Ã­m do KoÄiÄÃ­ Packy.}
+{330}{}{Myslel jsem, Å¾e prezident neexistuje. Å½e je to jenom vymyÅ¡lenÃ½ straÅ¡idlo, co straÅ¡Ã­ malÃ½ dÄ›ti.}
+{331}{}{VypadÃ¡Å¡, jako bys zrovna proÅ¡el peklem a vrÃ¡til se zpÃ¡tky. OdpoÄiÅˆ si. ZaslouÅ¾Ã­Å¡ si to.}
+{332}{}{Oni chtÄ›li vzduch zamoÅ™it nÄ›jakÃ½m novÃ½m virem? Bastardi. DoufÃ¡m, Å¾e jsi jich pÃ¡r sejmul za mÄ›.}
+{333}{}{MÅ¯Å¾eÅ¡ zaÄÃ­t novou hru s jinou postavou, kterÃ¡ bude mÃ­t jinÃ½ vlastnosti.}
+{334}{}{MusÃ­Å¡ mÃ­t poÅ™Ã¡dnou pÃ¡ru, kdyÅ¾ se ti podaÅ™ilo porazit EnklÃ¡vu.}
+{335}{}{ToulÃ¡Å¡ se po svÄ›tÄ› a sbÃ­rÃ¡Å¡ zkuÅ¡enostnÃ­ body, co? PoslyÅ¡, nezabÃ­jej mÄ› prosÃ­m, ano?}
+{336}{}{New Reno vytvoÅ™il Chris Avellon a naskriptoval Tom French. Å˜Ã­kÃ¡ se, Å¾e se brzo vezmou.}
+{337}{}{DoufÃ¡m, Å¾e budu jednou z hlavnÃ­ch postav ve Falloutu 3 jako tÅ™eba Tandi nebo Ian. Bejt gangster je pÄ›knÄ› na prd.}
+{338}{}{JÃ³, jednou jsem ojel Tandi. Teda kdyÅ¾ byla jeÅ¡tÄ› mladÃ¡.}
+{339}{}{Ta Lynette by fakt potÅ™ebovala trochu lÃ¡sky. ChÃ¡peÅ¡, co tÃ­m myslÃ­m?}
+{340}{}{SlyÅ¡el jsem, Å¾e ses vypoÅ™Ã¡dal s tou EnklÃ¡vou na jihu. To bylo fakt odvÃ¡Å¾nÃ½.}
 {350}{}{Nazdar, }
-{351}{}{Èus, }
+{351}{}{ÄŒus, }
 {352}{}{Nazdar, }
-{353}{}{Slyšel jsem, e se Tommy Tvrïák vrátil do mìsta. Dávej si na nìj bacha.}
-{354}{}{Jestli uvidíš Tommyho Tvrïáka, tak se mu radši neple do cesty.}
-{355}{}{A budeš mluvit s panem Bishopem, mùeš se mu o mì zmínit?}
-{356}{}{Pìknı hadry. Škoda, e nejsem u šéfa tak oblíbenej jako ty.}
-{357}{}{Nemáš pro mì nìjakı nováèkovskı rady?}
-{358}{}{Bishopova rodina se mnou zachází dobøe.}
-{359}{}{John Bishop bude jednou vládnout tomuhle mìstu.}
-{360}{}{Dneska je všechno v pohodì.}
-{361}{}{Pøichází pohroma.}
-{362}{}{Ten smrad z Golgoty byl dnes v noci pøíšernej.}
-{363}{}{Kdy pùjdeme zmasakrovat nìjakou rodinu v New Renu?}
-{364}{}{Díky tobì proti nám nemaj ostatní rodiny ádnou šanci, šéfe.}
-{365}{}{Nepotøebuješ nìco, šéfe?}
-{366}{}{Nemáš nìjakı informace o ostatních rodinách?}
-{367}{}{Eh, nemáš trochu Jetu?}
-{368}{}{Dal bych si teï panáka...}
-{369}{}{Paní Bishopová mì zase sjídìla pohledem. Nebylo to moc pøíjemnı.}
-{370}{}{Paní Bishopová se na mì dívá jako na kus masa. Doufám, e jí dojde, e mám zájem jenom o práci.}
-{371}{}{Bishopova dcera je fakt pìknej kus baby.}
-{372}{}{Bishopova dcera tì akorát dostane do maléru.}
-{373}{}{Slyšel jsem, e jeden chlápek oral Bishopovu dceru a on ho za to stáhl z kùe.}
-{374}{}{Jestli budeš mluvit s panem Bishopem, tak se dr dál od jeho eny a dcery... nic ne malér.}
-{380}{}{Slyšel jsem, e se po tobì ptala paní Bishopová. Dej si pozor, kámo.}
-{381}{}{Slyšel jsem, e se po tobì ptala Bishopova dcera. Ona znamená malér.}
-{382}{}{Nevypadáš a tak drsnì, šampióne.}
-{383}{}{Víš, Bishopovì rodinì by se hodil nìkdo, jako jseš ty. Nìkdo drsnej. Nìkdo nekompromisní.}
-{384}{}{Promluv si s panem Bishopem, moná by pro tebe mohl mít nìjakou práci.}
-{385}{}{Bejt tebou, tak se k nám pøidám. Brzo budem ovládat celı New Reno.}
+{353}{}{SlyÅ¡el jsem, Å¾e se Tommy TvrÄÃ¡k vrÃ¡til do mÄ›sta. DÃ¡vej si na nÄ›j bacha.}
+{354}{}{Jestli uvidÃ­Å¡ Tommyho TvrÄÃ¡ka, tak se mu radÅ¡i nepleÅ¥ do cesty.}
+{355}{}{AÅ¾ budeÅ¡ mluvit s panem Bishopem, mÅ¯Å¾eÅ¡ se mu o mÄ› zmÃ­nit?}
+{356}{}{PÄ›knÃ½ hadry. Å koda, Å¾e nejsem u Å¡Ã©fa tak oblÃ­benej jako ty.}
+{357}{}{NemÃ¡Å¡ pro mÄ› nÄ›jakÃ½ novÃ¡ÄkovskÃ½ rady?}
+{358}{}{Bishopova rodina se mnou zachÃ¡zÃ­ dobÅ™e.}
+{359}{}{John Bishop bude jednou vlÃ¡dnout tomuhle mÄ›stu.}
+{360}{}{Dneska je vÅ¡echno v pohodÄ›.}
+{361}{}{PÅ™ichÃ¡zÃ­ pohroma.}
+{362}{}{Ten smrad z Golgoty byl dnes v noci pÅ™Ã­Å¡ernej.}
+{363}{}{Kdy pÅ¯jdeme zmasakrovat nÄ›jakou rodinu v New Renu?}
+{364}{}{DÃ­ky tobÄ› proti nÃ¡m nemaj ostatnÃ­ rodiny Å¾Ã¡dnou Å¡anci, Å¡Ã©fe.}
+{365}{}{NepotÅ™ebujeÅ¡ nÄ›co, Å¡Ã©fe?}
+{366}{}{NemÃ¡Å¡ nÄ›jakÃ½ informace o ostatnÃ­ch rodinÃ¡ch?}
+{367}{}{Eh, nemÃ¡Å¡ trochu Jetu?}
+{368}{}{Dal bych si teÄ panÃ¡ka...}
+{369}{}{PanÃ­ BishopovÃ¡ mÄ› zase sjÃ­Å¾dÄ›la pohledem. Nebylo to moc pÅ™Ã­jemnÃ½.}
+{370}{}{PanÃ­ BishopovÃ¡ se na mÄ› dÃ­vÃ¡ jako na kus masa. DoufÃ¡m, Å¾e jÃ­ dojde, Å¾e mÃ¡m zÃ¡jem jenom o prÃ¡ci.}
+{371}{}{Bishopova dcera je fakt pÄ›knej kus baby.}
+{372}{}{Bishopova dcera tÄ› akorÃ¡t dostane do malÃ©ru.}
+{373}{}{SlyÅ¡el jsem, Å¾e jeden chlÃ¡pek oÅ¾ral Bishopovu dceru a on ho za to stÃ¡hl z kÅ¯Å¾e.}
+{374}{}{Jestli budeÅ¡ mluvit s panem Bishopem, tak se drÅ¾ dÃ¡l od jeho Å¾eny a dcery... nic neÅ¾ malÃ©r.}
+{380}{}{SlyÅ¡el jsem, Å¾e se po tobÄ› ptala panÃ­ BishopovÃ¡. Dej si pozor, kÃ¡mo.}
+{381}{}{SlyÅ¡el jsem, Å¾e se po tobÄ› ptala Bishopova dcera. Ona znamenÃ¡ malÃ©r.}
+{382}{}{NevypadÃ¡Å¡ aÅ¾ tak drsnÄ›, Å¡ampiÃ³ne.}
+{383}{}{VÃ­Å¡, BishopovÄ› rodinÄ› by se hodil nÄ›kdo, jako jseÅ¡ ty. NÄ›kdo drsnej. NÄ›kdo nekompromisnÃ­.}
+{384}{}{Promluv si s panem Bishopem, moÅ¾nÃ¡ by pro tebe mohl mÃ­t nÄ›jakou prÃ¡ci.}
+{385}{}{Bejt tebou, tak se k nÃ¡m pÅ™idÃ¡m. Brzo budem ovlÃ¡dat celÃ½ New Reno.}
 {386}{}{Vsadil jsem si na tebe $20!}
-{387}{}{Nazdar šampióne! Ten tvùj poslední zápas byl skvìlej!}
-{388}{}{Vidìl jsem tì zápasit v ringu. Máš fakt skvìlej pravej hák.}
-{389}{}{Doufám, e pøíští zápas vyhraješ. Vsadil jsem si na tebe $30.}
-{390}{}{Kolik dáš na benèi?}
-{391}{}{Kde posiluješ?}
-{392}{}{Bacha na dímaèku. Chutnají mu uši.}
-{393}{}{Koupil bych ti drink, ale pøišel jsem o všechny peníze, kdy jsem vsadil na tvıho protivníka.}
+{387}{}{Nazdar Å¡ampiÃ³ne! Ten tvÅ¯j poslednÃ­ zÃ¡pas byl skvÄ›lej!}
+{388}{}{VidÄ›l jsem tÄ› zÃ¡pasit v ringu. MÃ¡Å¡ fakt skvÄ›lej pravej hÃ¡k.}
+{389}{}{DoufÃ¡m, Å¾e pÅ™Ã­Å¡tÃ­ zÃ¡pas vyhrajeÅ¡. Vsadil jsem si na tebe $30.}
+{390}{}{Kolik dÃ¡Å¡ na benÄi?}
+{391}{}{Kde posilujeÅ¡?}
+{392}{}{Bacha na Å½dÃ­maÄku. ChutnajÃ­ mu uÅ¡i.}
+{393}{}{Koupil bych ti drink, ale pÅ™iÅ¡el jsem o vÅ¡echny penÃ­ze, kdyÅ¾ jsem vsadil na tvÃ½ho protivnÃ­ka.}
 {394}{}{Wanna wrestle?}
-{395}{}{Nevypadáš zas a tak drsnì, paní Levej Hák.}
-{396}{}{Mùu vidìt tvoje zatnutı bøišní svaly?}
-{400}{}{Slyšel jsem, e se po tobì ptala paní Bishopová. Dej si pozor, kámo.}
-{401}{}{Mohl bys mi dohodit nìjakou prácièku, kámo? No tááák. Jsem fakt kanec.}
+{395}{}{NevypadÃ¡Å¡ zas aÅ¾ tak drsnÄ›, panÃ­ Levej HÃ¡k.}
+{396}{}{MÅ¯Å¾u vidÄ›t tvoje zatnutÃ½ bÅ™iÅ¡nÃ­ svaly?}
+{400}{}{SlyÅ¡el jsem, Å¾e se po tobÄ› ptala panÃ­ BishopovÃ¡. Dej si pozor, kÃ¡mo.}
+{401}{}{Mohl bys mi dohodit nÄ›jakou prÃ¡ciÄku, kÃ¡mo? No tÃ¡Ã¡Ã¡k. Jsem fakt kanec.}
 {402}{}{Miluju tvoje filmy, }
-{403}{}{Perfektní byl film "Anální Nikita".}
-{404}{}{Perfektní byl film "Oral Hills 90210".}
-{405}{}{Jsem velkej fanoušek Øiníkù.}
-{406}{}{Miluju film "Vault Sex-Teen." Byl hodnì inspirující. Úplná filmová Tour-de-France.}
-{407}{}{Slyšel jsem, e se po tobì ptala Bishopova dcera. Ona znamená malér.}
-{408}{}{Nenašla by se pro mì ve studiu nìjaká prácièka?}
-{409}{}{Miluju film "Vault Sex-Teen." Byl hodnì inspirující. Úplná filmová Tour-de-France.}
-{410}{}{Slyšel jsem, e tì chce Tommy Tvrïák pozvat na soukromej casting.}
-{411}{}{Miluju tvùj poslední film. Mùu ti pomoct nazkoušet další?}
-{412}{}{Seeò mi práci a já ti ukáu, co umím.}
-{413}{}{Kdy se u mì zastavíš a vyzkoušíš si mì?}
-{414}{}{Nazdar, ty tady budeš dneska tancovat?}
-{415}{}{Vypadáš fakt luxusnì, zlato.}
-{416}{}{Paní Štìstìna zaène brzo árlit, jestli sem budeš poøád chodit.}
-{420}{}{Tak co je novıho v Denu?}
-{421}{}{Bolelo to, kdy ti vypalovali to znamení otrokáøe?}
-{422}{}{Pøemıšlel jsem, e se stanu otrokáøem, ale nenávidím cestování.}
-{423}{}{Hledáš Stáje? Tam drej vìtšinu otrokù.}
-{424}{}{Bejt èlenem Bishopovy rodiny je dobrá práce.}
-{425}{}{Pøivezl jsi novou dodávku otrokù, nebo jseš tu jenom s karavanou?}
-{426}{}{Mìli byste sehnat nìjakı novı zboí... ta poslední dodávka otrokù stála za hovno.}
-{427}{}{Poøád chytáte divochy?}
-{428}{}{Kolik tak dneska stojí jeden otrok?}
-{429}{}{Otroci, brahmíny, to je fuk.}
-{440}{}{Jestli hledáš nìjakou práci, hodil by se nám nìkdo, jako jseš ty. Promluv si s panem Bishopem.}
-{441}{}{Hledáš práci? Zkus si promluvit s panem Bishopem.}
-{445}{}{Zmizni, divoško.}
-{446}{}{Nemám pro tebe ádnı drogy, divoško.}
-{447}{}{Bì si vykouøit dımku míru, divoško.}
-{448}{}{NEMÁM náladu si s tebou povídat. Vypadni.}
-{449}{}{Vypadni, divoško.}
-{450}{}{Víš ty, kdo já jsem? Já jsem jeden z Bishopovıch muù. A teï vypadni.}
-{451}{}{Chceš mì snad naštvat? Nechtìj mì vidìt, kdy jsem naštvanej.}
-{452}{}{Táhni, nebo si z tebe udìlám cviènej cíl.}
-{453}{}{Hledáš problém? Ještì chvíli do mì huè a budeš jeden mít.}
-{460}{}{Teï nemám náladu na divošky. Pøijï pozdìjc.}
-{461}{}{Teï nemám èas tì ojet, divoško. Co kdybys pøišla pozdìjc?}
-{462}{}{Ne. Nevím, kde to je, take odprejskni! ::Debilní divošky.::}
-{463}{}{Zmizni, divoško.}
-{464}{}{Bishopové nemluví s blbejma divoškama, máme lepší vìci na práci.}
-{465}{}{Nemám pro tebe ádnı drogy, divoško.}
-{466}{}{Bì si vykouøit dımku míru, divoško.}
-{467}{}{NEMÁM náladu si s tebou povídat. Vypadni.}
-{468}{}{Vypadni, divoško.}
-{469}{}{Víš ty, kdo já jsem? Já jsem jeden z Bishopovıch muù. A teï vypadni.}
-{470}{}{Chceš mì snad naštvat? Nechtìj mì vidìt, kdy jsem naštvanej.}
-{471}{}{Táhni, nebo si z tebe udìlám cviènej cíl.}
-{472}{}{Hledáš problém? Ještì chvíli do mì huè a budeš jeden mít.}
-{473}{}{Tak oralej ještì nejsem. Ztra se.}
-{474}{}{Ty jseš ta nejhnusnìjší divoška, kterou jsem kdy vidìl.}
-{475}{}{Vypadni odsud, ne z tebe udìlám ještì ohyzdnìjší pøíšeru, ne jseš teï.}
-{476}{}{Jdi za nìkım, kdo je oralejší ne já, dìvko.}
-{490}{}{MYSLÍM, e tu cítím nìco hnít. Odveï si toho ghoula pryè.}
-{491}{}{Odveï si odsud toho smradlavıho ghoula. Hned.}
-{492}{}{Jestli odsud ten ghoul do minuty nezmizí, bude ještì mrtvìjší, ne je teï.}
-{1200}{}{! Takhle se nakopává Enklávì prdel!}
+{403}{}{PerfektnÃ­ byl film "AnÃ¡lnÃ­ Nikita".}
+{404}{}{PerfektnÃ­ byl film "Oral Hills 90210".}
+{405}{}{Jsem velkej fanouÅ¡ek Å˜iÅ¥nÃ­kÅ¯.}
+{406}{}{Miluju film "Vault Sex-Teen." Byl hodnÄ› inspirujÃ­cÃ­. ÃšplnÃ¡ filmovÃ¡ Tour-de-France.}
+{407}{}{SlyÅ¡el jsem, Å¾e se po tobÄ› ptala Bishopova dcera. Ona znamenÃ¡ malÃ©r.}
+{408}{}{NenaÅ¡la by se pro mÄ› ve studiu nÄ›jakÃ¡ prÃ¡ciÄka?}
+{409}{}{Miluju film "Vault Sex-Teen." Byl hodnÄ› inspirujÃ­cÃ­. ÃšplnÃ¡ filmovÃ¡ Tour-de-France.}
+{410}{}{SlyÅ¡el jsem, Å¾e tÄ› chce Tommy TvrÄÃ¡k pozvat na soukromej casting.}
+{411}{}{Miluju tvÅ¯j poslednÃ­ film. MÅ¯Å¾u ti pomoct nazkouÅ¡et dalÅ¡Ã­?}
+{412}{}{SeÅ¾eÅˆ mi prÃ¡ci a jÃ¡ ti ukÃ¡Å¾u, co umÃ­m.}
+{413}{}{Kdy se u mÄ› zastavÃ­Å¡ a vyzkouÅ¡Ã­Å¡ si mÄ›?}
+{414}{}{Nazdar, ty tady budeÅ¡ dneska tancovat?}
+{415}{}{VypadÃ¡Å¡ fakt luxusnÄ›, zlato.}
+{416}{}{PanÃ­ Å tÄ›stÄ›na zaÄne brzo Å¾Ã¡rlit, jestli sem budeÅ¡ poÅ™Ã¡d chodit.}
+{420}{}{Tak co je novÃ½ho v Denu?}
+{421}{}{Bolelo to, kdyÅ¾ ti vypalovali to znamenÃ­ otrokÃ¡Å™e?}
+{422}{}{PÅ™emÃ½Å¡lel jsem, Å¾e se stanu otrokÃ¡Å™em, ale nenÃ¡vidÃ­m cestovÃ¡nÃ­.}
+{423}{}{HledÃ¡Å¡ StÃ¡je? Tam drÅ¾ej vÄ›tÅ¡inu otrokÅ¯.}
+{424}{}{Bejt Älenem Bishopovy rodiny je dobrÃ¡ prÃ¡ce.}
+{425}{}{PÅ™ivezl jsi novou dodÃ¡vku otrokÅ¯, nebo jseÅ¡ tu jenom s karavanou?}
+{426}{}{MÄ›li byste sehnat nÄ›jakÃ½ novÃ½ zboÅ¾Ã­... ta poslednÃ­ dodÃ¡vka otrokÅ¯ stÃ¡la za hovno.}
+{427}{}{PoÅ™Ã¡d chytÃ¡te divochy?}
+{428}{}{Kolik tak dneska stojÃ­ jeden otrok?}
+{429}{}{Otroci, brahmÃ­ny, to je fuk.}
+{440}{}{Jestli hledÃ¡Å¡ nÄ›jakou prÃ¡ci, hodil by se nÃ¡m nÄ›kdo, jako jseÅ¡ ty. Promluv si s panem Bishopem.}
+{441}{}{HledÃ¡Å¡ prÃ¡ci? Zkus si promluvit s panem Bishopem.}
+{445}{}{Zmizni, divoÅ¡ko.}
+{446}{}{NemÃ¡m pro tebe Å¾Ã¡dnÃ½ drogy, divoÅ¡ko.}
+{447}{}{BÄ›Å¾ si vykouÅ™it dÃ½mku mÃ­ru, divoÅ¡ko.}
+{448}{}{NEMÃM nÃ¡ladu si s tebou povÃ­dat. Vypadni.}
+{449}{}{Vypadni, divoÅ¡ko.}
+{450}{}{VÃ­Å¡ ty, kdo jÃ¡ jsem? JÃ¡ jsem jeden z BishopovÃ½ch muÅ¾Å¯. A teÄ vypadni.}
+{451}{}{ChceÅ¡ mÄ› snad naÅ¡tvat? NechtÄ›j mÄ› vidÄ›t, kdyÅ¾ jsem naÅ¡tvanej.}
+{452}{}{TÃ¡hni, nebo si z tebe udÄ›lÃ¡m cviÄnej cÃ­l.}
+{453}{}{HledÃ¡Å¡ problÃ©m? JeÅ¡tÄ› chvÃ­li do mÄ› huÄ a budeÅ¡ jeden mÃ­t.}
+{460}{}{TeÄ nemÃ¡m nÃ¡ladu na divoÅ¡ky. PÅ™ijÄ pozdÄ›jc.}
+{461}{}{TeÄ nemÃ¡m Äas tÄ› ojet, divoÅ¡ko. Co kdybys pÅ™iÅ¡la pozdÄ›jc?}
+{462}{}{Ne. NevÃ­m, kde to je, takÅ¾e odprejskni! ::DebilnÃ­ divoÅ¡ky.::}
+{463}{}{Zmizni, divoÅ¡ko.}
+{464}{}{BishopovÃ© nemluvÃ­ s blbejma divoÅ¡kama, mÃ¡me lepÅ¡Ã­ vÄ›ci na prÃ¡ci.}
+{465}{}{NemÃ¡m pro tebe Å¾Ã¡dnÃ½ drogy, divoÅ¡ko.}
+{466}{}{BÄ›Å¾ si vykouÅ™it dÃ½mku mÃ­ru, divoÅ¡ko.}
+{467}{}{NEMÃM nÃ¡ladu si s tebou povÃ­dat. Vypadni.}
+{468}{}{Vypadni, divoÅ¡ko.}
+{469}{}{VÃ­Å¡ ty, kdo jÃ¡ jsem? JÃ¡ jsem jeden z BishopovÃ½ch muÅ¾Å¯. A teÄ vypadni.}
+{470}{}{ChceÅ¡ mÄ› snad naÅ¡tvat? NechtÄ›j mÄ› vidÄ›t, kdyÅ¾ jsem naÅ¡tvanej.}
+{471}{}{TÃ¡hni, nebo si z tebe udÄ›lÃ¡m cviÄnej cÃ­l.}
+{472}{}{HledÃ¡Å¡ problÃ©m? JeÅ¡tÄ› chvÃ­li do mÄ› huÄ a budeÅ¡ jeden mÃ­t.}
+{473}{}{Tak oÅ¾ralej jeÅ¡tÄ› nejsem. ZtraÅ¥ se.}
+{474}{}{Ty jseÅ¡ ta nejhnusnÄ›jÅ¡Ã­ divoÅ¡ka, kterou jsem kdy vidÄ›l.}
+{475}{}{Vypadni odsud, neÅ¾ z tebe udÄ›lÃ¡m jeÅ¡tÄ› ohyzdnÄ›jÅ¡Ã­ pÅ™Ã­Å¡eru, neÅ¾ jseÅ¡ teÄ.}
+{476}{}{Jdi za nÄ›kÃ½m, kdo je oÅ¾ralejÅ¡Ã­ neÅ¾ jÃ¡, dÄ›vko.}
+{490}{}{MYSLÃM, Å¾e tu cÃ­tÃ­m nÄ›co hnÃ­t. OdveÄ si toho ghoula pryÄ.}
+{491}{}{OdveÄ si odsud toho smradlavÃ½ho ghoula. Hned.}
+{492}{}{Jestli odsud ten ghoul do minuty nezmizÃ­, bude jeÅ¡tÄ› mrtvÄ›jÅ¡Ã­, neÅ¾ je teÄ.}
+{1200}{}{! Takhle se nakopÃ¡vÃ¡ EnklÃ¡vÄ› prdel!}
 {1210}{}{.}
 {1215}{}{?}
-{1216}{}{...proè takovı tajnosti?}
-{1220}{}{, tak jak to šlape?}
-{1221}{}{, jak se daøí?}
-{1222}{}{! Vyhıbáš se problémùm?}
-{1228}{}{ jenom samı srabi. Co si o tom myslíš?}
+{1216}{}{...proÄ takovÃ½ tajnosti?}
+{1220}{}{, tak jak to Å¡lape?}
+{1221}{}{, jak se daÅ™Ã­?}
+{1222}{}{! VyhÃ½bÃ¡Å¡ se problÃ©mÅ¯m?}
+{1228}{}{ jenom samÃ½ srabi. Co si o tom myslÃ­Å¡?}
 {1229}{}{. Hned.}
-{1230}{}{. Nepostrádá tì tvoje rodina?}
-{1231}{}{ dìlaj taky nìco jinıho, ne jenom lezou svımu šéfovi do zadku.}
-{1236}{}{ jenom samı srabi. Teï u vím, e je to pravda.}
-{1252}{}{! Tady nemùeš chodit s vytaenou zbraní, rozumíš?}
-{1260}{}{. Dáváš na sebe pozor?}
+{1230}{}{. NepostrÃ¡dÃ¡ tÄ› tvoje rodina?}
+{1231}{}{ dÄ›laj taky nÄ›co jinÃ½ho, neÅ¾ jenom lezou svÃ½mu Å¡Ã©fovi do zadku.}
+{1236}{}{ jenom samÃ½ srabi. TeÄ uÅ¾ vÃ­m, Å¾e je to pravda.}
+{1252}{}{! Tady nemÅ¯Å¾eÅ¡ chodit s vytaÅ¾enou zbranÃ­, rozumÃ­Å¡?}
+{1260}{}{. DÃ¡vÃ¡Å¡ na sebe pozor?}
 {1261}{}{. Jak to jde?}
-{1266}{}{! Tady nemùeš chodit s vytaenou zbraní, rozumíš?}
-{1267}{}{! Dej tu zbraò pryè.}
-{1269}{}{! Svı kozy tady ukazovat mùeš, ale zbranì ne, rozumíš?}
+{1266}{}{! Tady nemÅ¯Å¾eÅ¡ chodit s vytaÅ¾enou zbranÃ­, rozumÃ­Å¡?}
+{1267}{}{! Dej tu zbraÅˆ pryÄ.}
+{1269}{}{! SvÃ½ kozy tady ukazovat mÅ¯Å¾eÅ¡, ale zbranÄ› ne, rozumÃ­Å¡?}
 {1280}{}{!}
 {1350}{}{. Jak to jde?}
-{1351}{}{. Tak jak to šlape?}
-{1352}{}{. Vyhıbáš se problémùm?}
+{1351}{}{. Tak jak to Å¡lape?}
+{1352}{}{. VyhÃ½bÃ¡Å¡ se problÃ©mÅ¯m?}
 {1402}{}{!}

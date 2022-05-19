@@ -1,174 +1,174 @@
-{100}{}{Vidíš drsnì vypadající enu s širokım úsmìvem.}
-{101}{}{Vidíš Jackpot Jane, správkyni zvíøecích zápasù.}
-{102}{}{Vidíš schopnì vypadající enu s mazanım pohledem a smyslem pro detail. }
-{103}{}{Zdravím, pøíteli. Jsi tu kvùli zápasu?}
-{104}{}{Fùùùj. Chlupatá.}
-{105}{}{Pìkná chlupy.}
-{106}{}{Á, u chápu. Ty jsi ve mìstì novı, e? No, tak já ti nìco povím. Jsem Jackpot Jane a uzavírám sázky tıkající se zítøejších zápasù. Chceš si vsadit?}
+{100}{}{VidÃ­Å¡ drsnÄ› vypadajÃ­cÃ­ Å¾enu s Å¡irokÃ½m ÃºsmÄ›vem.}
+{101}{}{VidÃ­Å¡ Jackpot Jane, sprÃ¡vkyni zvÃ­Å™ecÃ­ch zÃ¡pasÅ¯.}
+{102}{}{VidÃ­Å¡ schopnÄ› vypadajÃ­cÃ­ Å¾enu s mazanÃ½m pohledem a smyslem pro detail. }
+{103}{}{ZdravÃ­m, pÅ™Ã­teli. Jsi tu kvÅ¯li zÃ¡pasu?}
+{104}{}{FÅ¯Å¯Å¯j. ChlupatÃ¡.}
+{105}{}{PÄ›knÃ¡ chlupy.}
+{106}{}{Ã, uÅ¾ chÃ¡pu. Ty jsi ve mÄ›stÄ› novÃ½, Å¾e? No, tak jÃ¡ ti nÄ›co povÃ­m. Jsem Jackpot Jane a uzavÃ­rÃ¡m sÃ¡zky tÃ½kajÃ­cÃ­ se zÃ­tÅ™ejÅ¡Ã­ch zÃ¡pasÅ¯. ChceÅ¡ si vsadit?}
 {107}{}{(You nod) Ook, ook. (and hold out your purse)}
-{108}{}{Béé? Gaga. Pápá, chlupatá paní.}
-{109}{}{Dobrı nápad. Pøijï zítra a jestli tvùj favorit vyhraje zápas, dám ti tvoji vıhru. Platí?}
-{110}{}{Dobrı tah. Zaruèím ti opravdu dobrı kurz. Uvidíme se pozdìji.}
-{111}{}{Vyhrál?}
-{112}{}{Dobøe... nashle.}
-{113}{}{Ne, bohuel ne, ale mám takovı pocit, e to pøíštì vyjde. Nechceš si vsadit na další zápas?}
-{114}{}{Dobøe. Dík. [Vytáhnout penìenku]}
+{108}{}{BÃ©Ã©? Gaga. PÃ¡pÃ¡, chlupatÃ¡ panÃ­.}
+{109}{}{DobrÃ½ nÃ¡pad. PÅ™ijÄ zÃ­tra a jestli tvÅ¯j favorit vyhraje zÃ¡pas, dÃ¡m ti tvoji vÃ½hru. PlatÃ­?}
+{110}{}{DobrÃ½ tah. ZaruÄÃ­m ti opravdu dobrÃ½ kurz. UvidÃ­me se pozdÄ›ji.}
+{111}{}{VyhrÃ¡l?}
+{112}{}{DobÅ™e... nashle.}
+{113}{}{Ne, bohuÅ¾el ne, ale mÃ¡m takovÃ½ pocit, Å¾e to pÅ™Ã­Å¡tÄ› vyjde. NechceÅ¡ si vsadit na dalÅ¡Ã­ zÃ¡pas?}
+{114}{}{DobÅ™e. DÃ­k. [VytÃ¡hnout penÄ›Å¾enku]}
 {115}{}{Booo? Sbohem.}
-{116}{}{Je mi to opravdu líto, ale nemáš ádné peníze na sázení. Vra se, a dáš nìco dohromady.}
-{117}{}{Dobøe, hezká paní. Nashle.}
-{118}{}{Podívaná je v dobytèí ohradì kadı všední den kolem poledne.}
-{119}{}{Teï neprobíhají ádné zápasy. Bojuje se v dobytèí ohradì v poledne.}
-{120}{}{Teï se nic nedìje.}
-{121}{}{Poèkej do poledne, to se zaène bojovat. Teï mì nech na pokoji.}
-{122}{}{Nazdar! Uvidíme se u dobytèí ohrady. Teï odejdi.}
-{123}{}{To vypadá slibnì. Jdou si pìknì po krku.}
-{124}{}{Krásné údery! Je vidìt, e tihle dva u mají nìco za sebou!}
-{125}{}{Dobré kolo, opravdu dobré kolo. V té ohradì je cítit nenávist.}
-{126}{}{Tihle dva mají opravdu velikou vıdr. Zajímalo by mì, jak dlouho ještì vydrí.}
-{127}{}{To byla poøádná rána! To muselo bolet!}
-{128}{}{Jo! Do bøicha! Do bøicha!}
-{129}{}{Myslím, e takovou ránu asi neèekal. Krásnı úder.}
+{116}{}{Je mi to opravdu lÃ­to, ale nemÃ¡Å¡ Å¾Ã¡dnÃ© penÃ­ze na sÃ¡zenÃ­. VraÅ¥ se, aÅ¾ dÃ¡Å¡ nÄ›co dohromady.}
+{117}{}{DobÅ™e, hezkÃ¡ panÃ­. Nashle.}
+{118}{}{PodÃ­vanÃ¡ je v dobytÄÃ­ ohradÄ› kaÅ¾dÃ½ vÅ¡ednÃ­ den kolem poledne.}
+{119}{}{TeÄ neprobÃ­hajÃ­ Å¾Ã¡dnÃ© zÃ¡pasy. Bojuje se v dobytÄÃ­ ohradÄ› v poledne.}
+{120}{}{TeÄ se nic nedÄ›je.}
+{121}{}{PoÄkej do poledne, to se zaÄne bojovat. TeÄ mÄ› nech na pokoji.}
+{122}{}{Nazdar! UvidÃ­me se u dobytÄÃ­ ohrady. TeÄ odejdi.}
+{123}{}{To vypadÃ¡ slibnÄ›. Jdou si pÄ›knÄ› po krku.}
+{124}{}{KrÃ¡snÃ© Ãºdery! Je vidÄ›t, Å¾e tihle dva uÅ¾ majÃ­ nÄ›co za sebou!}
+{125}{}{DobrÃ© kolo, opravdu dobrÃ© kolo. V tÃ© ohradÄ› je cÃ­tit nenÃ¡vist.}
+{126}{}{Tihle dva majÃ­ opravdu velikou vÃ½drÅ¾. ZajÃ­malo by mÄ›, jak dlouho jeÅ¡tÄ› vydrÅ¾Ã­.}
+{127}{}{To byla poÅ™Ã¡dnÃ¡ rÃ¡na! To muselo bolet!}
+{128}{}{Jo! Do bÅ™icha! Do bÅ™icha!}
+{129}{}{MyslÃ­m, Å¾e takovou rÃ¡nu asi neÄekal. KrÃ¡snÃ½ Ãºder.}
 {130}{}{Jau! To muselo opravdu bolet!}
-{131}{}{A teï pøichází na øadu opravdovı trest.}
-{132}{}{Pìknı úder, vıborná práce tlap.}
-{133}{}{Dobøe se pohybují. Dneska se to tu pìknì rozjelo!}
-{134}{}{Skvìlá kombinace! Z nìj bude jednou šampión!}
-{135}{}{To je ono. Jedna rána, druhá rána a soupeø je mimo!}
-{136}{}{Tihle borci jsou tak rozzuøení, e mají pìnu u tlamy!}
-{137}{}{Vidíte to? Tolik krve a oni po sobì poøád jdou. To je ale boj!}
-{138}{}{Tohle je pøesnì to, kvùli èemu jste se sem pøišli podívat. Staré, dobré údery.}
-{139}{}{Jo, poøádnì do èelisti! To bude další krvavé zranìní!}
-{140}{}{Vidìli jste, jak daleko ta krev dostøíkla?! To je síla!}
-{141}{}{Hıbe se jak namydlenı blesk! Podívejte se na ty odlétávající kusy masa!}
-{142}{}{Kousky masa lítají úplnì všude! Tihle dva se s tím nepáøou!}
-{143}{}{Nazdar, já jsem Jackpot Jane a provozuju zvíøecí zápasy tady ve mìstì. Chceš si vsadit na jednoho z bojovníkù? Bojuje se zvíøe proti zvíøeti v té nejpøirozenìjší podobì.}
-{144}{}{Pojï blí a vsaï si. Co to bude?}
+{131}{}{A teÄ pÅ™ichÃ¡zÃ­ na Å™adu opravdovÃ½ trest.}
+{132}{}{PÄ›knÃ½ Ãºder, vÃ½bornÃ¡ prÃ¡ce tlap.}
+{133}{}{DobÅ™e se pohybujÃ­. Dneska se to tu pÄ›knÄ› rozjelo!}
+{134}{}{SkvÄ›lÃ¡ kombinace! Z nÄ›j bude jednou Å¡ampiÃ³n!}
+{135}{}{To je ono. Jedna rÃ¡na, druhÃ¡ rÃ¡na a soupeÅ™ je mimo!}
+{136}{}{Tihle borci jsou tak rozzuÅ™enÃ­, Å¾e majÃ­ pÄ›nu u tlamy!}
+{137}{}{VidÃ­te to? Tolik krve a oni po sobÄ› poÅ™Ã¡d jdou. To je ale boj!}
+{138}{}{Tohle je pÅ™esnÄ› to, kvÅ¯li Äemu jste se sem pÅ™iÅ¡li podÃ­vat. StarÃ©, dobrÃ© Ãºdery.}
+{139}{}{Jo, poÅ™Ã¡dnÄ› do Äelisti! To bude dalÅ¡Ã­ krvavÃ© zranÄ›nÃ­!}
+{140}{}{VidÄ›li jste, jak daleko ta krev dostÅ™Ã­kla?! To je sÃ­la!}
+{141}{}{HÃ½be se jak namydlenÃ½ blesk! PodÃ­vejte se na ty odlÃ©tÃ¡vajÃ­cÃ­ kusy masa!}
+{142}{}{Kousky masa lÃ­tajÃ­ ÃºplnÄ› vÅ¡ude! Tihle dva se s tÃ­m nepÃ¡Å™ou!}
+{143}{}{Nazdar, jÃ¡ jsem Jackpot Jane a provozuju zvÃ­Å™ecÃ­ zÃ¡pasy tady ve mÄ›stÄ›. ChceÅ¡ si vsadit na jednoho z bojovnÃ­kÅ¯? Bojuje se zvÃ­Å™e proti zvÃ­Å™eti v tÃ© nejpÅ™irozenÄ›jÅ¡Ã­ podobÄ›.}
+{144}{}{PojÄ blÃ­Å¾ a vsaÄ si. Co to bude?}
 {145}{}{Eh, o co tady jde?}
 {146}{}{Chci si vsadit.}
-{147}{}{Myslím, e jsou tyhle zápasy pøedem domluvené.}
-{148}{}{Jen se tak dívám. Sbohem.}
-{149}{}{To je úplnì jednoduché: Pošleme dvì krvelaèná zvíøata proti sobì do ringu a za pár sekund uvidíš nejpøirozenìjší podobu Matky Pøírody. Nejsou v tom ádné triky.}
-{150}{}{Co s tím má Matka Pøíroda spoleèného?}
-{151}{}{Mùu na tom nìjak vydìlat peníze?}
-{152}{}{Pøijïte a uvidíte ZÁPAS STOLETÍ!}
-{153}{}{Vsaïte své peníze na vítìze!}
-{154}{}{Uvidíte velikı zápas zvíøat!}
-{155}{}{Vsaïte si pøed uzavøením sázek! Neváhejte!}
-{156}{}{Dejte si pozor na støíkající krev a vnitønosti. Vedení není nijak zodpovìdné za zpùsobené skvrny.}
-{157}{}{Dennì vyplácíme tisíce dolarù!}
-{158}{}{Vyhrajte spoustu penìz! Tady a teï!}
-{159}{}{Pojïte a uvidíte zápas dne!}
-{160}{}{Divoké pøíšery bojují, zatímco vy vyhráváte peníze! ZAMILUJETE SI TO!}
-{161}{}{Pøineste si plné penìenky a hromadu oèekávání! PØÍMO SEM!}
+{147}{}{MyslÃ­m, Å¾e jsou tyhle zÃ¡pasy pÅ™edem domluvenÃ©.}
+{148}{}{Jen se tak dÃ­vÃ¡m. Sbohem.}
+{149}{}{To je ÃºplnÄ› jednoduchÃ©: PoÅ¡leme dvÄ› krvelaÄnÃ¡ zvÃ­Å™ata proti sobÄ› do ringu a za pÃ¡r sekund uvidÃ­Å¡ nejpÅ™irozenÄ›jÅ¡Ã­ podobu Matky PÅ™Ã­rody. Nejsou v tom Å¾Ã¡dnÃ© triky.}
+{150}{}{Co s tÃ­m mÃ¡ Matka PÅ™Ã­roda spoleÄnÃ©ho?}
+{151}{}{MÅ¯Å¾u na tom nÄ›jak vydÄ›lat penÃ­ze?}
+{152}{}{PÅ™ijÄte a uvidÃ­te ZÃPAS STOLETÃ!}
+{153}{}{VsaÄte svÃ© penÃ­ze na vÃ­tÄ›ze!}
+{154}{}{UvidÃ­te velikÃ½ zÃ¡pas zvÃ­Å™at!}
+{155}{}{VsaÄte si pÅ™ed uzavÅ™enÃ­m sÃ¡zek! NevÃ¡hejte!}
+{156}{}{Dejte si pozor na stÅ™Ã­kajÃ­cÃ­ krev a vnitÅ™nosti. VedenÃ­ nenÃ­ nijak zodpovÄ›dnÃ© za zpÅ¯sobenÃ© skvrny.}
+{157}{}{DennÄ› vyplÃ¡cÃ­me tisÃ­ce dolarÅ¯!}
+{158}{}{Vyhrajte spoustu penÄ›z! Tady a teÄ!}
+{159}{}{PojÄte a uvidÃ­te zÃ¡pas dne!}
+{160}{}{DivokÃ© pÅ™Ã­Å¡ery bojujÃ­, zatÃ­mco vy vyhrÃ¡vÃ¡te penÃ­ze! ZAMILUJETE SI TO!}
+{161}{}{PÅ™ineste si plnÃ© penÄ›Å¾enky a hromadu oÄekÃ¡vÃ¡nÃ­! PÅ˜ÃMO SEM!}
 {162}{}{Vypadni sakra odsud.}
-{163}{}{Nemám zájem.}
-{164}{}{Nech mì na pokoji.}
-{165}{}{Dr se dál od mé ohrady.}
-{166}{}{Nemám zájem o tvoje peníze.}
-{167}{}{No, jak jsem øekla, dvì zvíøata nastoupí proti sobì v záchvatu zuøivosti, která nebyla na Zemi k vidìní od dob obrovskıch strojù.}
-{168}{}{Obrovskıch strojù?}
-{169}{}{Eh, jasnì, a co se dìje potom?}
-{170}{}{Dobøe, poslouchej, kámo, øeknu to takhle: Nebyla k vidìní od dob, co se obrovští ještìøi procházeli po Zemi. Lepší? Take jdeš do toho nebo ne? (Pro sebe.) Ach jo, kadej dneska jen kritizuje.}
+{163}{}{NemÃ¡m zÃ¡jem.}
+{164}{}{Nech mÄ› na pokoji.}
+{165}{}{DrÅ¾ se dÃ¡l od mÃ© ohrady.}
+{166}{}{NemÃ¡m zÃ¡jem o tvoje penÃ­ze.}
+{167}{}{No, jak jsem Å™ekla, dvÄ› zvÃ­Å™ata nastoupÃ­ proti sobÄ› v zÃ¡chvatu zuÅ™ivosti, kterÃ¡ nebyla na Zemi k vidÄ›nÃ­ od dob obrovskÃ½ch strojÅ¯.}
+{168}{}{ObrovskÃ½ch strojÅ¯?}
+{169}{}{Eh, jasnÄ›, a co se dÄ›je potom?}
+{170}{}{DobÅ™e, poslouchej, kÃ¡mo, Å™eknu to takhle: Nebyla k vidÄ›nÃ­ od dob, co se obrovÅ¡tÃ­ jeÅ¡tÄ›Å™i prochÃ¡zeli po Zemi. LepÅ¡Ã­? TakÅ¾e jdeÅ¡ do toho nebo ne? (Pro sebe.) Ach jo, kaÅ¾dej dneska jen kritizuje.}
 {171}{}{Eh, jdu do toho. Asi.}
-{172}{}{Velcí ještìøi mì dìsí. Radìji vypadnu døív, ne nìjakého potkám. Díky za varování a sbohem. (Pro sebe.) *Uuf, to bylo tìsné.*}
-{173}{}{Vsadíš si na vısledek zápasu. Funguje to takhle: Pøijdeš ke mnì, já ti povím, které dvì potvory budou zápasit, a ty si na jednu z nich vsadíš.}
+{172}{}{VelcÃ­ jeÅ¡tÄ›Å™i mÄ› dÄ›sÃ­. RadÄ›ji vypadnu dÅ™Ã­v, neÅ¾ nÄ›jakÃ©ho potkÃ¡m. DÃ­ky za varovÃ¡nÃ­ a sbohem. (Pro sebe.) *Uuf, to bylo tÄ›snÃ©.*}
+{173}{}{VsadÃ­Å¡ si na vÃ½sledek zÃ¡pasu. Funguje to takhle: PÅ™ijdeÅ¡ ke mnÄ›, jÃ¡ ti povÃ­m, kterÃ© dvÄ› potvory budou zÃ¡pasit, a ty si na jednu z nich vsadÃ­Å¡.}
 {174}{}{A potom?}
-{175}{}{To je jednoduché. Kdy tvoje zvíøe vyhraje, dostaneš dvojnásobek vsazenıch penìz nebo dokonce TROJNÁSOBEK, pokud vyhraje v prvním kole! Pokud tvoje zvíøe prohraje, tvoje peníze budou patøit mì. Kadı den je obvykle nìkolik zápasù. Dokud bude dost zvíøat, mùeš si vsadit na kterékoliv z nich, ale jenom jednou za zápas. A aby to nebylo moc sloité, tak se sází po $100.}
-{176}{}{Dobøe, chápu. Zkusím to.}
-{177}{}{Aha. Hmm, myslím, e si vsadím nìkdy jindy. Sbohem.}
+{175}{}{To je jednoduchÃ©. KdyÅ¾ tvoje zvÃ­Å™e vyhraje, dostaneÅ¡ dvojnÃ¡sobek vsazenÃ½ch penÄ›z nebo dokonce TROJNÃSOBEK, pokud vyhraje v prvnÃ­m kole! Pokud tvoje zvÃ­Å™e prohraje, tvoje penÃ­ze budou patÅ™it mÄ›. KaÅ¾dÃ½ den je obvykle nÄ›kolik zÃ¡pasÅ¯. Dokud bude dost zvÃ­Å™at, mÅ¯Å¾eÅ¡ si vsadit na kterÃ©koliv z nich, ale jenom jednou za zÃ¡pas. A aby to nebylo moc sloÅ¾itÃ©, tak se sÃ¡zÃ­ po $100.}
+{176}{}{DobÅ™e, chÃ¡pu. ZkusÃ­m to.}
+{177}{}{Aha. Hmm, myslÃ­m, Å¾e si vsadÃ­m nÄ›kdy jindy. Sbohem.}
 {178}{}{Tohle budou jatka. }
-{179}{}{ a proti nìmu }
-{180}{}{. Navzájem se nesnáší. Na koho si vsadíš?}
-{181}{}{Tohle bude opravdu vraednı zápas. Bojuje nejlepší z nejlepších - }
-{182}{}{ a proti nìmu }
-{183}{}{. Na koho si vsadíš?}
-{184}{}{Ještì nikdy proti sobì nebojovali tak rovnocenní soupeøi. }
-{185}{}{ a proti nìmu }
-{186}{}{. To vypadá na dobrı zápas. Na koho si vsadíš?}
-{187}{}{Šampión }
-{188}{}{ a proti nìmu nováèek }
-{189}{}{. To bude zajímavı zápas. Komu z nich nejvíc dùvìøuješ?}
-{190}{}{Dobøe. Tohle jsou soupeøi: }
-{191}{}{ a proti nìmu starı dobrı }
-{192}{}{. Takovı zápas jen tak znovu neuvidíš. Na koho si vsadíš?}
+{179}{}{ a proti nÄ›mu }
+{180}{}{. NavzÃ¡jem se nesnÃ¡Å¡Ã­. Na koho si vsadÃ­Å¡?}
+{181}{}{Tohle bude opravdu vraÅ¾ednÃ½ zÃ¡pas. Bojuje nejlepÅ¡Ã­ z nejlepÅ¡Ã­ch - }
+{182}{}{ a proti nÄ›mu }
+{183}{}{. Na koho si vsadÃ­Å¡?}
+{184}{}{JeÅ¡tÄ› nikdy proti sobÄ› nebojovali tak rovnocennÃ­ soupeÅ™i. }
+{185}{}{ a proti nÄ›mu }
+{186}{}{. To vypadÃ¡ na dobrÃ½ zÃ¡pas. Na koho si vsadÃ­Å¡?}
+{187}{}{Å ampiÃ³n }
+{188}{}{ a proti nÄ›mu novÃ¡Äek }
+{189}{}{. To bude zajÃ­mavÃ½ zÃ¡pas. Komu z nich nejvÃ­c dÅ¯vÄ›Å™ujeÅ¡?}
+{190}{}{DobÅ™e. Tohle jsou soupeÅ™i: }
+{191}{}{ a proti nÄ›mu starÃ½ dobrÃ½ }
+{192}{}{. TakovÃ½ zÃ¡pas jen tak znovu neuvidÃ­Å¡. Na koho si vsadÃ­Å¡?}
 {193}{}{[Vsadit si na: }
 {194}{}{.}
 {195}{}{[Vsadit si na: }
 {196}{}{.}
-{197}{}{Hmm, myslím, e tohle kolo vynechám. }
-{198}{}{U toho mám pro dnešek dost. Uvidíme se nìkdy jindy. Sbohem.}
-{199}{}{Á, tady jsi. Tady máš svoji vıhru. Tohle byl dnes poslední zápas. Jestli chceš, pøijï zase zítra.}
-{200}{}{Á, jsi zpátky. Chceš si vsadit na pøíští zápas?}
-{201}{}{Jasnì e chci.}
-{202}{}{Myslím, e tohle kolo vynechám.}
-{203}{}{Podívej, nikdo tì k sázení nenutí, nebo snad jo? Jestli se ti to nelíbí, tak jdi pryè, nebudeš nám chybìt. Rozumíš?}
-{204}{}{Rozumím.}
-{205}{}{To byla rána!}
-{206}{}{ vyhrál. }
-{207}{}{ padl v prvním kole! To bylo nìco!}
-{208}{}{Ou, to bylo tìsné, ale }
-{209}{}{ vyhrál dnešní poslední zápas. Všechny teï vyplatím a jestli chceš, pøijï zase zítra.}
-{210}{}{To byl ale masakr! Na takovı zápas si u ani nevzpomínám. Vyhrál }
-{211}{}{. Vyplatím vıhry a mùeme zaèít další kolo.}
-{212}{}{ s pøehledem vyhrál tohle kolo! Vyplatím vıhry a mùeme zaèít další.}
-{213}{}{A vítìzem se stává... }
-{214}{}{. To bylo opravdu krvavé. Vyplatím vıhry a mùeme zaèít další kolo.}
-{215}{}{Jenom chci øíct, e se na dnešní veèer chystá Ascorti pøipravit eh, speciální *øízky*. Bude to trvat jen chvíli, zatímco budeme tahat mrtvoly z ohrady. }
-{216}{}{ vyhrál tenhle zápas! Vyplatím vıhry a mùeme zaèít další kolo.}
-{217}{}{Vypadá to, e }
-{218}{}{ vyhrál. Ještì nikdy jsem nevidìla tak pomláceného soupeøe. Vyplatím vıhry a mùeme zaèít další kolo.}
-{219}{}{Juchù! Vyhrál jsem.}
+{197}{}{Hmm, myslÃ­m, Å¾e tohle kolo vynechÃ¡m. }
+{198}{}{UÅ¾ toho mÃ¡m pro dneÅ¡ek dost. UvidÃ­me se nÄ›kdy jindy. Sbohem.}
+{199}{}{Ã, tady jsi. Tady mÃ¡Å¡ svoji vÃ½hru. Tohle byl dnes poslednÃ­ zÃ¡pas. Jestli chceÅ¡, pÅ™ijÄ zase zÃ­tra.}
+{200}{}{Ã, jsi zpÃ¡tky. ChceÅ¡ si vsadit na pÅ™Ã­Å¡tÃ­ zÃ¡pas?}
+{201}{}{JasnÄ› Å¾e chci.}
+{202}{}{MyslÃ­m, Å¾e tohle kolo vynechÃ¡m.}
+{203}{}{PodÃ­vej, nikdo tÄ› k sÃ¡zenÃ­ nenutÃ­, nebo snad jo? Jestli se ti to nelÃ­bÃ­, tak jdi pryÄ, nebudeÅ¡ nÃ¡m chybÄ›t. RozumÃ­Å¡?}
+{204}{}{RozumÃ­m.}
+{205}{}{To byla rÃ¡na!}
+{206}{}{ vyhrÃ¡l. }
+{207}{}{ padl v prvnÃ­m kole! To bylo nÄ›co!}
+{208}{}{Ou, to bylo tÄ›snÃ©, ale }
+{209}{}{ vyhrÃ¡l dneÅ¡nÃ­ poslednÃ­ zÃ¡pas. VÅ¡echny teÄ vyplatÃ­m a jestli chceÅ¡, pÅ™ijÄ zase zÃ­tra.}
+{210}{}{To byl ale masakr! Na takovÃ½ zÃ¡pas si uÅ¾ ani nevzpomÃ­nÃ¡m. VyhrÃ¡l }
+{211}{}{. VyplatÃ­m vÃ½hry a mÅ¯Å¾eme zaÄÃ­t dalÅ¡Ã­ kolo.}
+{212}{}{ s pÅ™ehledem vyhrÃ¡l tohle kolo! VyplatÃ­m vÃ½hry a mÅ¯Å¾eme zaÄÃ­t dalÅ¡Ã­.}
+{213}{}{A vÃ­tÄ›zem se stÃ¡vÃ¡... }
+{214}{}{. To bylo opravdu krvavÃ©. VyplatÃ­m vÃ½hry a mÅ¯Å¾eme zaÄÃ­t dalÅ¡Ã­ kolo.}
+{215}{}{Jenom chci Å™Ã­ct, Å¾e se na dneÅ¡nÃ­ veÄer chystÃ¡ Ascorti pÅ™ipravit eh, speciÃ¡lnÃ­ *Å™Ã­zky*. Bude to trvat jen chvÃ­li, zatÃ­mco budeme tahat mrtvoly z ohrady. }
+{216}{}{ vyhrÃ¡l tenhle zÃ¡pas! VyplatÃ­m vÃ½hry a mÅ¯Å¾eme zaÄÃ­t dalÅ¡Ã­ kolo.}
+{217}{}{VypadÃ¡ to, Å¾e }
+{218}{}{ vyhrÃ¡l. JeÅ¡tÄ› nikdy jsem nevidÄ›la tak pomlÃ¡cenÃ©ho soupeÅ™e. VyplatÃ­m vÃ½hry a mÅ¯Å¾eme zaÄÃ­t dalÅ¡Ã­ kolo.}
+{219}{}{JuchÅ¯! VyhrÃ¡l jsem.}
 {220}{}{Jo! To je ono!}
-{221}{}{Na tohle mám opravdu talent.}
-{222}{}{Ještì e vím na kterı zvíøe vsadit.}
-{223}{}{Sakra. Prohrál jsem.}
-{224}{}{Prostì nemám štìstí.}
-{225}{}{Mohlo to bıt lepší.}
-{226}{}{Snad si pøíštì vyberu líp.}
-{227}{}{Ještì e jsem na nìj nevsadil.}
-{228}{}{Jsem rád, e jsem nesázel.}
-{229}{}{To mì mohlo stát spoustu penìz.}
-{230}{}{To byl dobrej zápas, ale jsem rád, e jsem si na nìj nevsadil.}
-{231}{}{Dobøe, díky.}
-{300}{}{Vøískaè}
+{221}{}{Na tohle mÃ¡m opravdu talent.}
+{222}{}{JeÅ¡tÄ› Å¾e vÃ­m na kterÃ½ zvÃ­Å™e vsadit.}
+{223}{}{Sakra. ProhrÃ¡l jsem.}
+{224}{}{ProstÄ› nemÃ¡m Å¡tÄ›stÃ­.}
+{225}{}{Mohlo to bÃ½t lepÅ¡Ã­.}
+{226}{}{Snad si pÅ™Ã­Å¡tÄ› vyberu lÃ­p.}
+{227}{}{JeÅ¡tÄ› Å¾e jsem na nÄ›j nevsadil.}
+{228}{}{Jsem rÃ¡d, Å¾e jsem nesÃ¡zel.}
+{229}{}{To mÄ› mohlo stÃ¡t spoustu penÄ›z.}
+{230}{}{To byl dobrej zÃ¡pas, ale jsem rÃ¡d, Å¾e jsem si na nÄ›j nevsadil.}
+{231}{}{DobÅ™e, dÃ­ky.}
+{300}{}{VÅ™Ã­skaÄ}
 {301}{}{Vicky}
 {302}{}{Spike}
 {303}{}{Doug}
 {304}{}{Dimsdale}
 {305}{}{Marengo}
 {306}{}{Jackelope}
-{307}{}{Zabiják}
-{308}{}{Šéf}
+{307}{}{ZabijÃ¡k}
+{308}{}{Å Ã©f}
 {310}{}{Cisterna}
 {311}{}{Muttley}
-{312}{}{Rıè}
+{312}{}{RÃ½Ä}
 {313}{}{Larry}
 {314}{}{Joe}
 {315}{}{Kong}
 {316}{}{Gorgo}
 {317}{}{Willard}
 {318}{}{Ben}
-{320}{}{Tlusoch}
-{321}{}{Trhaè}
-{322}{}{Trhaè}
+{320}{}{TlusÅ¥och}
+{321}{}{TrhaÄ}
+{322}{}{TrhaÄ}
 {323}{}{Skree}
 {324}{}{Buban}
 {325}{}{Bongo}
-{326}{}{Jednookı}
-{327}{}{Vøed}
-{328}{}{Pán Vrtoch}
-{330}{}{Šastlivec}
-{331}{}{Zoroaster Velikı}
+{326}{}{JednookÃ½}
+{327}{}{VÅ™ed}
+{328}{}{PÃ¡n Vrtoch}
+{330}{}{Å Å¥astlivec}
+{331}{}{Zoroaster VelikÃ½}
 {332}{}{Shub}
 {333}{}{Usuthu}
-{334}{}{Øváè}
+{334}{}{Å˜vÃ¡Ä}
 {335}{}{Puggsly}
-{336}{}{Miláèek}
-{337}{}{Zabiják}
-{338}{}{Kapitán Pùlnoc}
+{336}{}{MilÃ¡Äek}
+{337}{}{ZabijÃ¡k}
+{338}{}{KapitÃ¡n PÅ¯lnoc}
 {340}{}{Kladivo}
-{341}{}{Sekretáø}
-{342}{}{Mu Války}
+{341}{}{SekretÃ¡Å™}
+{342}{}{MuÅ¾ VÃ¡lky}
 {343}{}{Sancho Panza}
 {344}{}{Loki}
 {345}{}{Kerberus}

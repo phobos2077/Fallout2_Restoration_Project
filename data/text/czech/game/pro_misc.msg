@@ -1,54 +1,54 @@
 {100}{}{Raketa}
 {200}{}{Oblak plazmy}
-{300}{}{Vıbuch}
+{300}{}{VÃ½buch}
 {400}{}{Krev}
-{500}{}{Neprùchozí hex}
+{500}{}{NeprÅ¯chozÃ­ hex}
 {501}{}{}
-{600}{}{nù}
-{700}{}{kopí}
+{600}{}{nÅ¯Å¾}
+{700}{}{kopÃ­}
 {800}{}{EMP impuls}
-{900}{}{Laserovı puls}
-{1000}{}{Záeh plazmy}
-{1100}{}{Vıbuch}
-{1200}{}{Omezovaè scrollingu}
-{1300}{}{Elektrickı vıboj}
-{1400}{}{Vıbuch}
-{1500}{}{Vıbuch}
-{1600}{}{Vıchod}
-{1700}{}{Vıchod}
-{1800}{}{Vıchod}
-{1900}{}{Vıchod}
-{2000}{}{Vıchod}
-{2100}{}{Vıchod}
-{2200}{}{Vıchod}
-{2300}{}{Vıchod}
-{2400}{}{Svìtlice}
-{2500}{}{Granát}
-{2600}{}{Kámen}
-{2700}{}{Vıbuch}
-{2800}{}{Vıbuch}
-{2900}{}{Vıbuch}
-{3000}{}{Molotovùv koktejl}
-{3100}{}{Vıchod}
-{3200}{}{Vıchod}
-{3300}{}{Vıchod}
-{3400}{}{Vıchod}
-{3500}{}{Vıchod}
-{3600}{}{Vıchod}
-{3700}{}{Vıchod}
-{3800}{}{Vıchod}
-{3900}{}{Vıchod}
-{4000}{}{Vıchod}
-{4100}{}{Vıchod}
-{4200}{}{Vıchod}
-{4300}{}{Vıchod}
-{4400}{}{Vıchod}
-{4500}{}{Vıchod}
-{4600}{}{Vıchod}
+{900}{}{LaserovÃ½ puls}
+{1000}{}{ZÃ¡Å¾eh plazmy}
+{1100}{}{VÃ½buch}
+{1200}{}{OmezovaÄ scrollingu}
+{1300}{}{ElektrickÃ½ vÃ½boj}
+{1400}{}{VÃ½buch}
+{1500}{}{VÃ½buch}
+{1600}{}{VÃ½chod}
+{1700}{}{VÃ½chod}
+{1800}{}{VÃ½chod}
+{1900}{}{VÃ½chod}
+{2000}{}{VÃ½chod}
+{2100}{}{VÃ½chod}
+{2200}{}{VÃ½chod}
+{2300}{}{VÃ½chod}
+{2400}{}{SvÄ›tlice}
+{2500}{}{GranÃ¡t}
+{2600}{}{KÃ¡men}
+{2700}{}{VÃ½buch}
+{2800}{}{VÃ½buch}
+{2900}{}{VÃ½buch}
+{3000}{}{MolotovÅ¯v koktejl}
+{3100}{}{VÃ½chod}
+{3200}{}{VÃ½chod}
+{3300}{}{VÃ½chod}
+{3400}{}{VÃ½chod}
+{3500}{}{VÃ½chod}
+{3600}{}{VÃ½chod}
+{3700}{}{VÃ½chod}
+{3800}{}{VÃ½chod}
+{3900}{}{VÃ½chod}
+{4000}{}{VÃ½chod}
+{4100}{}{VÃ½chod}
+{4200}{}{VÃ½chod}
+{4300}{}{VÃ½chod}
+{4400}{}{VÃ½chod}
+{4500}{}{VÃ½chod}
+{4600}{}{VÃ½chod}
 {4700}{}{Raketa}
 {4701}{}{}
 {4800}{}{Cink!}
 {4801}{}{}
 {4900}{}{Trn}
 {4901}{}{}
-{5000}{}{Dvojitı oblak plazmy}
+{5000}{}{DvojitÃ½ oblak plazmy}

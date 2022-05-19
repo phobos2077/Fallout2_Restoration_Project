@@ -1,3 +1,3 @@
-{100}{}{Nic to nedìlá.}
-{101}{}{Nedokáeš pøijít na to, které tlaèítko stisknout.}
-{102}{}{Poèítaè byl znièen.}
+{100}{}{Nic to nedÄ›lÃ¡.}
+{101}{}{NedokÃ¡Å¾eÅ¡ pÅ™ijÃ­t na to, kterÃ© tlaÄÃ­tko stisknout.}
+{102}{}{PoÄÃ­taÄ byl zniÄen.}

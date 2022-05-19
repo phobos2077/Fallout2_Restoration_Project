@@ -1,18 +1,18 @@
-{100}{}{Vidíš silnì hyperaktivního prcka.}
-{101}{}{Vidíš Malého Todda.}
-{200}{}{BUUUM!!! Miluju vıbuchy!}
-{201}{}{Prásk-prásk! Støílím mutanty!}
-{202}{}{Chci vidìt další vıbuchy!}
-{203}{}{Všechno by mìlo vybuchovat!}
-{300}{}{Nemohl byste nìco vyhodit do vzduchu, pane?}
-{301}{}{A vyrostu, budu vládnout svìtu!}
-{302}{}{Nelíbí se mi tu. Chci odejít k vıchodnímu pobøeí!}
-{303}{}{Mám magickej oblek!}
-{304}{}{Dospìláci moc mluvìj!}
-{305}{}{Bratrstvo Oceli jsou rytíøi pustiny!}
-{306}{}{Všichni mutanti jsou zlí!}
-{307}{}{Vsadím se, e tì mùj medvídek zabije!}
-{308}{}{Mùj táta se zase ztratil!}
-{309}{}{Nìkdy piju vodu ze záchodu!}
-{310}{}{Co vlastnì znamená ta kon-ty-òu-jí-ta?}
-{311}{}{Nemohla byste nechat nìco vybouchnout, paní?}
+{100}{}{VidÃ­Å¡ silnÄ› hyperaktivnÃ­ho prcka.}
+{101}{}{VidÃ­Å¡ MalÃ©ho Todda.}
+{200}{}{BUUUM!!! Miluju vÃ½buchy!}
+{201}{}{PrÃ¡sk-prÃ¡sk! StÅ™Ã­lÃ­m mutanty!}
+{202}{}{Chci vidÄ›t dalÅ¡Ã­ vÃ½buchy!}
+{203}{}{VÅ¡echno by mÄ›lo vybuchovat!}
+{300}{}{Nemohl byste nÄ›co vyhodit do vzduchu, pane?}
+{301}{}{AÅ¾ vyrostu, budu vlÃ¡dnout svÄ›tu!}
+{302}{}{NelÃ­bÃ­ se mi tu. Chci odejÃ­t k vÃ½chodnÃ­mu pobÅ™eÅ¾Ã­!}
+{303}{}{MÃ¡m magickej oblek!}
+{304}{}{DospÄ›lÃ¡ci moc mluvÄ›j!}
+{305}{}{Bratrstvo Oceli jsou rytÃ­Å™i pustiny!}
+{306}{}{VÅ¡ichni mutanti jsou zlÃ­!}
+{307}{}{VsadÃ­m se, Å¾e tÄ› mÅ¯j medvÃ­dek zabije!}
+{308}{}{MÅ¯j tÃ¡ta se zase ztratil!}
+{309}{}{NÄ›kdy piju vodu ze zÃ¡chodu!}
+{310}{}{Co vlastnÄ› znamenÃ¡ ta kon-ty-Åˆu-jÃ­-ta?}
+{311}{}{Nemohla byste nechat nÄ›co vybouchnout, panÃ­?}

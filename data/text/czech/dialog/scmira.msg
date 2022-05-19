@@ -1,104 +1,104 @@
-{100}{}{Máš takové tušení, e tohle zelenovlasé zamraèené stvoøení je v téhle putyce barmankou.}
-{101}{}{Vidíš Miru. Zrovna se chystá namíchat nìjakı Rad-A-Waster.}
-{102}{}{Co o to, je mladá a pøitalivá, ale její oèi øíkají, e si nenechá jen tak nìco líbit. A navíc má na krku povìšenı øetìz s pìknì pichlavımi ostny.}
-{103}{}{Jmenuju se Mira. Co to bude, cizinèe?}
-{104}{}{Zdravím. Co to bude?}
-{105}{}{Pití.}
+{100}{}{MÃ¡Å¡ takovÃ© tuÅ¡enÃ­, Å¾e tohle zelenovlasÃ© zamraÄenÃ© stvoÅ™enÃ­ je v tÃ©hle putyce barmankou.}
+{101}{}{VidÃ­Å¡ Miru. Zrovna se chystÃ¡ namÃ­chat nÄ›jakÃ½ Rad-A-Waster.}
+{102}{}{CoÅ¾ o to, je mladÃ¡ a pÅ™itaÅ¾livÃ¡, ale jejÃ­ oÄi Å™Ã­kajÃ­, Å¾e si nenechÃ¡ jen tak nÄ›co lÃ­bit. A navÃ­c mÃ¡ na krku povÄ›Å¡enÃ½ Å™etÄ›z s pÄ›knÄ› pichlavÃ½mi ostny.}
+{103}{}{Jmenuju se Mira. Co to bude, cizinÄe?}
+{104}{}{ZdravÃ­m. Co to bude?}
+{105}{}{PitÃ­.}
 {106}{}{Vault 13?}
 {107}{}{GECK?}
-{108}{}{To je jedno, dám si tøeba místní specialitu.}
+{108}{}{To je jedno, dÃ¡m si tÅ™eba mÃ­stnÃ­ specialitu.}
 {109}{}{Gimme a beer.}
 {110}{}{Informace.}
-{111}{}{Hledám práci.}
-{112}{}{A hele, to jsi ty! Takové jako ty mám ráda.}
-{113}{}{Zase zpátky?}
+{111}{}{HledÃ¡m prÃ¡ci.}
+{112}{}{A hele, to jsi ty! TakovÃ© jako ty mÃ¡m rÃ¡da.}
+{113}{}{Zase zpÃ¡tky?}
 {114}{}{Yubba.}
-{115}{}{Hezky se ti podaøilo odrovnat Lennyho. Bylo to fakt úasnı! Tady máš panáka na úèet podniku.}
-{116}{}{To, co jsi udìlal Lennymu, bylo fakt hustı!}
-{117}{}{Á jé, koukám, e ty nebudeš moc dobrej parák na konverzaci. Nechceš Rad-A-Waster? Jenom za deset babek.}
+{115}{}{Hezky se ti podaÅ™ilo odrovnat Lennyho. Bylo to fakt ÃºÅ¾asnÃ½! Tady mÃ¡Å¡ panÃ¡ka na ÃºÄet podniku.}
+{116}{}{To, co jsi udÄ›lal Lennymu, bylo fakt hustÃ½!}
+{117}{}{Ã jÃ©, koukÃ¡m, Å¾e ty nebudeÅ¡ moc dobrej parÅ¥Ã¡k na konverzaci. NechceÅ¡ Rad-A-Waster? Jenom za deset babek.}
 {118}{}{Ano.}
 {119}{}{Ne.}
-{120}{}{Chceš koupit drink? $10.}
+{120}{}{ChceÅ¡ koupit drink? $10.}
 {121}{}{Ano.}
 {122}{}{Ne.}
-{123}{}{Jeden Rad-A-Waster u se nese! $10.}
-{124}{}{Dobøe.}
-{125}{}{Deset babek? To je na mì moc drahé.}
-{126}{}{Jasnì, skrblíku.}
-{127}{}{Dobøe.}
-{128}{}{To je na mì moc drahé.}
-{129}{}{Zkus zajít za Merkem v zadní místnosti.}
-{130}{}{Tady nemáš co dìlat, cizinèe.}
-{131}{}{Díky.}
-{132}{}{Tak a co teï, cizinèe?}
+{123}{}{Jeden Rad-A-Waster uÅ¾ se nese! $10.}
+{124}{}{DobÅ™e.}
+{125}{}{Deset babek? To je na mÄ› moc drahÃ©.}
+{126}{}{JasnÄ›, skrblÃ­ku.}
+{127}{}{DobÅ™e.}
+{128}{}{To je na mÄ› moc drahÃ©.}
+{129}{}{Zkus zajÃ­t za Merkem v zadnÃ­ mÃ­stnosti.}
+{130}{}{Tady nemÃ¡Å¡ co dÄ›lat, cizinÄe.}
+{131}{}{DÃ­ky.}
+{132}{}{Tak a co teÄ, cizinÄe?}
 {133}{}{Vault 13?}
 {134}{}{GECK?}
-{135}{}{Máš èas na pár otázek?}
-{136}{}{Já jít pápá.}
-{137}{}{To bude všechno.}
+{135}{}{MÃ¡Å¡ Äas na pÃ¡r otÃ¡zek?}
+{136}{}{JÃ¡ jÃ­t pÃ¡pÃ¡.}
+{137}{}{To bude vÅ¡echno.}
 {138}{}{Tak odsud vypadni, ty balvane!}
-{139}{}{Jasnì, mám trochu èasu. To se vìtšinou od barmanù oèekává. Ale ne e to na mì budeš zkoušet.}
-{140}{}{Pro tebe si udìlám èas vdycky, zlato. Co potøebuješ?}
-{141}{}{Jasnì.}
-{142}{}{Povìz mi nìco o tomhle mìstì.}
-{143}{}{Neslyšela jsi nìkdy o Vaultu 13?}
-{144}{}{Hledám vìc, která se jmenuje GECK. Nevíš o nìm nìco?}
+{139}{}{JasnÄ›, mÃ¡m trochu Äasu. To se vÄ›tÅ¡inou od barmanÅ¯ oÄekÃ¡vÃ¡. Ale ne Å¾e to na mÄ› budeÅ¡ zkouÅ¡et.}
+{140}{}{Pro tebe si udÄ›lÃ¡m Äas vÅ¾dycky, zlato. Co potÅ™ebujeÅ¡?}
+{141}{}{JasnÄ›.}
+{142}{}{PovÄ›z mi nÄ›co o tomhle mÄ›stÄ›.}
+{143}{}{NeslyÅ¡ela jsi nÄ›kdy o Vaultu 13?}
+{144}{}{HledÃ¡m vÄ›c, kterÃ¡ se jmenuje GECK. NevÃ­Å¡ o nÄ›m nÄ›co?}
 {145}{}{Kdo je to ten Merk?}
-{146}{}{Ve mìstì je jeden polda, kterı o tobì øíká pìknì ošklivé vìci. Co je na tom pravdy?}
-{147}{}{Hmm, nìjak mi to vypadlo.}
-{148}{}{Jmenuje se to tu NCR. Pùvodnì to bylo Shady Sands, ale po Vùdcovì poráce zaloil Aradesh spolu s ostatními lidmi Republiku. NCR leí pøímo na hranici. Všechno na jih odsud ovládá Republika.}
-{149}{}{Jestli ti mùu poradit, sna se tu do nièeho nenamoèit. Vrchnost není zrovna moc pøátelská k lidem našeho druhu, jestli mi rozumíš. I obèani maj vìtší právo ne ty.}
-{150}{}{Víc u ti o tomhle mìstì nemám co øíct.}
+{146}{}{Ve mÄ›stÄ› je jeden polda, kterÃ½ o tobÄ› Å™Ã­kÃ¡ pÄ›knÄ› oÅ¡klivÃ© vÄ›ci. Co je na tom pravdy?}
+{147}{}{Hmm, nÄ›jak mi to vypadlo.}
+{148}{}{Jmenuje se to tu NCR. PÅ¯vodnÄ› to bylo Shady Sands, ale po VÅ¯dcovÄ› porÃ¡Å¾ce zaloÅ¾il Aradesh spolu s ostatnÃ­mi lidmi Republiku. NCR leÅ¾Ã­ pÅ™Ã­mo na hranici. VÅ¡echno na jih odsud ovlÃ¡dÃ¡ Republika.}
+{149}{}{Jestli ti mÅ¯Å¾u poradit, snaÅ¾ se tu do niÄeho nenamoÄit. Vrchnost nenÃ­ zrovna moc pÅ™Ã¡telskÃ¡ k lidem naÅ¡eho druhu, jestli mi rozumÃ­Å¡. I obÄani maj vÄ›tÅ¡Ã­ prÃ¡vo neÅ¾ ty.}
+{150}{}{VÃ­c uÅ¾ ti o tomhle mÄ›stÄ› nemÃ¡m co Å™Ã­ct.}
 {151}{}{Hmm.}
-{152}{}{Další otázka...}
-{153}{}{Díky, budu si to pamatovat.}
-{154}{}{Ty jseš jeden z tìch bláznù hledajících ztracenej poklad, co? Tak to se urèitì nezapomeò stavit za Slaneèkem na Westinovì ranèi. Ten taky poøád vaní o nìjakım pokladu. Ale moná mu budeš muset napøed trochu provlhèit hrdlo.}
-{155}{}{Slaneèek? Já jít.}
-{156}{}{Další otázka...}
-{157}{}{Díky, budu si to pamatovat.}
-{158}{}{Jasnı, jenom mi øekni jak to namíchat a za chvíli to do sebe mùeš nalejvat.}
-{159}{}{Ne pití. GECK je... GECK.}
-{160}{}{To není pití. Jedná se o GECK, neboli "Souprava k vytvoøení rajské zahrady".}
-{161}{}{Další otázka...}
-{162}{}{Díky, budu si to pamatovat.}
-{163}{}{Skvìlej chlap. Je to mùj šéf. Co oèekáváš, e ti asi tak øeknu?}
-{164}{}{Další otázka...}
-{165}{}{Díky, budu si to pamatovat.}
-{166}{}{Ten bastard... to byl pìknì divokej rozvod, to ti teda øeknu.}
-{167}{}{Mùeme si promluvit o nìèem jiném?}
-{168}{}{No, myslím, e u pùjdu.}
-{169}{}{Aha, to jsem netušila... no, mùeš zkusit Dr. Henryho ve mìstì. Já mám ještì spoustu práce, tupoune.}
-{170}{}{Souprava k vytvoøení rajské zahrady? To zní dost technicky. Zkus se zeptat Dorothy, našeho mìstského mechanika.}
-{171}{}{Další otázka...}
-{172}{}{Díky, budu si to pamatovat.}
-{173}{}{Hmm, práce? Chtít práce? Pomoct Mira?}
+{152}{}{DalÅ¡Ã­ otÃ¡zka...}
+{153}{}{DÃ­ky, budu si to pamatovat.}
+{154}{}{Ty jseÅ¡ jeden z tÄ›ch blÃ¡znÅ¯ hledajÃ­cÃ­ch ztracenej poklad, co? Tak to se urÄitÄ› nezapomeÅˆ stavit za SlaneÄkem na WestinovÄ› ranÄi. Ten taky poÅ™Ã¡d Å¾vanÃ­ o nÄ›jakÃ½m pokladu. Ale moÅ¾nÃ¡ mu budeÅ¡ muset napÅ™ed trochu provlhÄit hrdlo.}
+{155}{}{SlaneÄek? JÃ¡ jÃ­t.}
+{156}{}{DalÅ¡Ã­ otÃ¡zka...}
+{157}{}{DÃ­ky, budu si to pamatovat.}
+{158}{}{JasnÃ½, jenom mi Å™ekni jak to namÃ­chat a za chvÃ­li to do sebe mÅ¯Å¾eÅ¡ nalejvat.}
+{159}{}{Ne pitÃ­. GECK je... GECK.}
+{160}{}{To nenÃ­ pitÃ­. JednÃ¡ se o GECK, neboli "Souprava k vytvoÅ™enÃ­ rajskÃ© zahrady".}
+{161}{}{DalÅ¡Ã­ otÃ¡zka...}
+{162}{}{DÃ­ky, budu si to pamatovat.}
+{163}{}{SkvÄ›lej chlap. Je to mÅ¯j Å¡Ã©f. Co oÄekÃ¡vÃ¡Å¡, Å¾e ti asi tak Å™eknu?}
+{164}{}{DalÅ¡Ã­ otÃ¡zka...}
+{165}{}{DÃ­ky, budu si to pamatovat.}
+{166}{}{Ten bastard... to byl pÄ›knÄ› divokej rozvod, to ti teda Å™eknu.}
+{167}{}{MÅ¯Å¾eme si promluvit o nÄ›Äem jinÃ©m?}
+{168}{}{No, myslÃ­m, Å¾e uÅ¾ pÅ¯jdu.}
+{169}{}{Aha, to jsem netuÅ¡ila... no, mÅ¯Å¾eÅ¡ zkusit Dr. Henryho ve mÄ›stÄ›. JÃ¡ mÃ¡m jeÅ¡tÄ› spoustu prÃ¡ce, tupoune.}
+{170}{}{Souprava k vytvoÅ™enÃ­ rajskÃ© zahrady? To znÃ­ dost technicky. Zkus se zeptat Dorothy, naÅ¡eho mÄ›stskÃ©ho mechanika.}
+{171}{}{DalÅ¡Ã­ otÃ¡zka...}
+{172}{}{DÃ­ky, budu si to pamatovat.}
+{173}{}{Hmm, prÃ¡ce? ChtÃ­t prÃ¡ce? Pomoct Mira?}
 {174}{}{Ano.}
 {175}{}{Ne.}
-{176}{}{Poslouchej, zlı mu ubliovat Mira. Zlı mu jmenovat Jack. Ty ublíit zlı mu. Mira šastná a dát ty pìkná bouchaèka. Dobøe?}
+{176}{}{Poslouchej, zlÃ½ muÅ¾ ubliÅ¾ovat Mira. ZlÃ½ muÅ¾ jmenovat Jack. Ty ublÃ­Å¾it zlÃ½ muÅ¾. Mira Å¡Å¥astnÃ¡ a dÃ¡t ty pÄ›knÃ¡ bouchaÄka. DobÅ™e?}
 {177}{}{Ano.}
 {178}{}{Ne.}
-{179}{}{Bezva! Mira mít za zdí lano. Jít v noci. Najít lano. Jít na velké místo pøed brána. Najít Jack. Ublíit Jack. Mira ti dát bouchaèka.}
-{180}{}{Jít v noci. Najít lano. Jít na velké místo pøed brána. Najít Jack. Ublíit Jack. Mira ti dát bouchaèka. Teï odejít pryè. Vidìt nás nìkdo spolu - není dobré. Pomoct Mira a vrátit se. Rozumìt?}
-{181}{}{Mira slyšet o Jack. Dobrá práce, tupounku. Tady bouchaèka, ty vzít. Díky.}
-{182}{}{Tak jdi do hajzlu. Já se toho parchanta snad nikdy nezbavím.}
-{183}{}{O tom si promluv s Merkem. Bohuel tady ale teï není. Pøijï v noci, to tady urèitì bude.}
-{184}{}{Nevím co máš s Lennym, ale u tì tady nechci ani vidìt. Nejseš tu teï moc populární.}
-{185}{}{Varovala jsem tì. No jak chceš...}
-{186}{}{Ty jsi Mira, e? Nìjakı polda o tobì nìco vykládal.}
-{187}{}{Ty Mira? Jack øíkat zlá vìci.}
-{188}{}{Ten bastard Jack? O èem vanil tentokrát?}
-{189}{}{Jack mrtvı. Udìlat bùm.}
-{190}{}{Já zabít. On zlá èlovìk.}
-{191}{}{Nedìlej si s tím starosti, je mrtvı. Vyhodil se do vzduchu v elektrárnì.}
-{192}{}{O nièem. Je mrtvı.}
-{193}{}{Dìláš si srandu? To je zpráva dne! Doufám, e ten jeho mozeèek krásnì vytapetoval stìny. Ten zatracenej psychopat si to zaslouil. Tady máš jeden Rad-a-Waster na mì.}
-{194}{}{Já rád.}
-{195}{}{Já teï jít.}
-{196}{}{Díky. Poslyš, nemáš èas na pár otázek?}
-{197}{}{Díky. Jen jsem si øíkal, e bys to mìla vìdìt.}
-{198}{}{Coe jsi udìlal? Kdybych nebyla v práci, pøeskoèila bych tenhle bar a... no, dala bych ti pusu. Ten malej èurák si to zaslouil. Nikomu to neøíkej, ale doufala jsem, e se tu objeví nìjakej jouda, kterej to udìlá za mì. Schovávala jsem si malou odmìnu a myslím, e si ji právem zaslouíš.}
-{199}{}{Díky. Poslyš, nemáš èas na pár otázek?}
-{200}{}{Díky. Jen jsem si øíkal, e bys to mìla vìdìt.}
-{201}{}{Tupoune, díky tobì jsem ta nejšastnìjší enská široko daleko! Mám pro tebe malej dárek tady za barem. Všechno je to tvoje.}
-{202}{}{Já rád Mira.}
-{203}{}{Já rád bouchaèka. Já jít pá pá.}
+{179}{}{Bezva! Mira mÃ­t za zdÃ­ lano. JÃ­t v noci. NajÃ­t lano. JÃ­t na velkÃ© mÃ­sto pÅ™ed brÃ¡na. NajÃ­t Jack. UblÃ­Å¾it Jack. Mira ti dÃ¡t bouchaÄka.}
+{180}{}{JÃ­t v noci. NajÃ­t lano. JÃ­t na velkÃ© mÃ­sto pÅ™ed brÃ¡na. NajÃ­t Jack. UblÃ­Å¾it Jack. Mira ti dÃ¡t bouchaÄka. TeÄ odejÃ­t pryÄ. VidÄ›t nÃ¡s nÄ›kdo spolu - nenÃ­ dobrÃ©. Pomoct Mira a vrÃ¡tit se. RozumÄ›t?}
+{181}{}{Mira slyÅ¡et o Jack. DobrÃ¡ prÃ¡ce, tupounku. Tady bouchaÄka, ty vzÃ­t. DÃ­ky.}
+{182}{}{Tak jdi do hajzlu. JÃ¡ se toho parchanta snad nikdy nezbavÃ­m.}
+{183}{}{O tom si promluv s Merkem. BohuÅ¾el tady ale teÄ nenÃ­. PÅ™ijÄ v noci, to tady urÄitÄ› bude.}
+{184}{}{NevÃ­m co mÃ¡Å¡ s Lennym, ale uÅ¾ tÄ› tady nechci ani vidÄ›t. NejseÅ¡ tu teÄ moc populÃ¡rnÃ­.}
+{185}{}{Varovala jsem tÄ›. No jak chceÅ¡...}
+{186}{}{Ty jsi Mira, Å¾e? NÄ›jakÃ½ polda o tobÄ› nÄ›co vyklÃ¡dal.}
+{187}{}{Ty Mira? Jack Å™Ã­kat zlÃ¡ vÄ›ci.}
+{188}{}{Ten bastard Jack? O Äem Å¾vanil tentokrÃ¡t?}
+{189}{}{Jack mrtvÃ½. UdÄ›lat bÅ¯m.}
+{190}{}{JÃ¡ zabÃ­t. On zlÃ¡ ÄlovÄ›k.}
+{191}{}{NedÄ›lej si s tÃ­m starosti, je mrtvÃ½. Vyhodil se do vzduchu v elektrÃ¡rnÄ›.}
+{192}{}{O niÄem. Je mrtvÃ½.}
+{193}{}{DÄ›lÃ¡Å¡ si srandu? To je zprÃ¡va dne! DoufÃ¡m, Å¾e ten jeho mozeÄek krÃ¡snÄ› vytapetoval stÄ›ny. Ten zatracenej psychopat si to zaslouÅ¾il. Tady mÃ¡Å¡ jeden Rad-a-Waster na mÄ›.}
+{194}{}{JÃ¡ rÃ¡d.}
+{195}{}{JÃ¡ teÄ jÃ­t.}
+{196}{}{DÃ­ky. PoslyÅ¡, nemÃ¡Å¡ Äas na pÃ¡r otÃ¡zek?}
+{197}{}{DÃ­ky. Jen jsem si Å™Ã­kal, Å¾e bys to mÄ›la vÄ›dÄ›t.}
+{198}{}{CoÅ¾e jsi udÄ›lal? Kdybych nebyla v prÃ¡ci, pÅ™eskoÄila bych tenhle bar a... no, dala bych ti pusu. Ten malej ÄurÃ¡k si to zaslouÅ¾il. Nikomu to neÅ™Ã­kej, ale doufala jsem, Å¾e se tu objevÃ­ nÄ›jakej jouda, kterej to udÄ›lÃ¡ za mÄ›. SchovÃ¡vala jsem si malou odmÄ›nu a myslÃ­m, Å¾e si ji prÃ¡vem zaslouÅ¾Ã­Å¡.}
+{199}{}{DÃ­ky. PoslyÅ¡, nemÃ¡Å¡ Äas na pÃ¡r otÃ¡zek?}
+{200}{}{DÃ­ky. Jen jsem si Å™Ã­kal, Å¾e bys to mÄ›la vÄ›dÄ›t.}
+{201}{}{Tupoune, dÃ­ky tobÄ› jsem ta nejÅ¡Å¥astnÄ›jÅ¡Ã­ Å¾enskÃ¡ Å¡iroko daleko! MÃ¡m pro tebe malej dÃ¡rek tady za barem. VÅ¡echno je to tvoje.}
+{202}{}{JÃ¡ rÃ¡d Mira.}
+{203}{}{JÃ¡ rÃ¡d bouchaÄka. JÃ¡ jÃ­t pÃ¡ pÃ¡.}

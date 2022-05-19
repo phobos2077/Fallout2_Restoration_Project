@@ -1,37 +1,37 @@
-{100}{}{Vidíš enu s ustaranım vırazem v oblièeji.}
-{101}{}{Vidíš Suze.}
-{102}{}{Vidíš enu s ustaranım vırazem v oblièeji.}
-{103}{}{Ááááá! Pomóc!}
-{104}{}{Zachraò mì! Prosím!}
-{105}{}{Snaí se mì zabít!}
-{106}{}{Prosím! Oni mì zabijou!}
-{107}{}{Zastav je! Ááááá!}
-{108}{}{Poslal tì Badger? Vìdìla jsem, e to udìlá. To se mi ulevilo.}
-{109}{}{Aáááá.}
-{110}{}{Co jsi tam dole dìlala?}
-{111}{}{Jo. Pojï za mnou.}
-{112}{}{Ach, ty chudinko. Radiace a pustina nejsou moc pøíjemné, co? Doufám, e ti nìkdo pomùe.}
-{113}{}{Je to docela hloupé, vánì. Jenom jsem to tam chtìla prozkoumat, protoe mìl Badger práci, tak jsem šla dolù, ztratila se a najednou mì obklíèila monstra. Naštìstí si ale pak pøišel ty.}
-{114}{}{Mám další otázky.}
-{115}{}{Jo, naštìstí. Našla jsi tam nìco zajímavého?}
-{116}{}{Jo, naštìstí. Pojïme.}
-{117}{}{Našla jsem místnost, ve které jsem byla. Taky jsem našla místnost, která vypadala jako skladištì paliva. Dál jsem se ale kvùli tìm obludám nedostala.}
-{118}{}{Mám další otázky.}
-{119}{}{Odkud jseš?}
-{120}{}{Skvìle. To bude prozatím všechno.}
-{121}{}{Pocházím kousek na jih od Pohøebištì a Kráteru. Není to daleko od moøe. Dìlala jsem chùvu, ale pak dìti zmutovaly v monstra.}
-{122}{}{Mám další otázky.}
+{100}{}{VidÃ­Å¡ Å¾enu s ustaranÃ½m vÃ½razem v obliÄeji.}
+{101}{}{VidÃ­Å¡ Suze.}
+{102}{}{VidÃ­Å¡ Å¾enu s ustaranÃ½m vÃ½razem v obliÄeji.}
+{103}{}{ÃÃ¡Ã¡Ã¡Ã¡! PomÃ³c!}
+{104}{}{ZachraÅˆ mÄ›! ProsÃ­m!}
+{105}{}{SnaÅ¾Ã­ se mÄ› zabÃ­t!}
+{106}{}{ProsÃ­m! Oni mÄ› zabijou!}
+{107}{}{Zastav je! ÃÃ¡Ã¡Ã¡Ã¡!}
+{108}{}{Poslal tÄ› Badger? VÄ›dÄ›la jsem, Å¾e to udÄ›lÃ¡. To se mi ulevilo.}
+{109}{}{AÃ¡Ã¡Ã¡Ã¡.}
+{110}{}{Co jsi tam dole dÄ›lala?}
+{111}{}{Jo. PojÄ za mnou.}
+{112}{}{Ach, ty chudinko. Radiace a pustina nejsou moc pÅ™Ã­jemnÃ©, co? DoufÃ¡m, Å¾e ti nÄ›kdo pomÅ¯Å¾e.}
+{113}{}{Je to docela hloupÃ©, vÃ¡Å¾nÄ›. Jenom jsem to tam chtÄ›la prozkoumat, protoÅ¾e mÄ›l Badger prÃ¡ci, tak jsem Å¡la dolÅ¯, ztratila se a najednou mÄ› obklÃ­Äila monstra. NaÅ¡tÄ›stÃ­ si ale pak pÅ™iÅ¡el ty.}
+{114}{}{MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
+{115}{}{Jo, naÅ¡tÄ›stÃ­. NaÅ¡la jsi tam nÄ›co zajÃ­mavÃ©ho?}
+{116}{}{Jo, naÅ¡tÄ›stÃ­. PojÄme.}
+{117}{}{NaÅ¡la jsem mÃ­stnost, ve kterÃ© jsem byla. Taky jsem naÅ¡la mÃ­stnost, kterÃ¡ vypadala jako skladiÅ¡tÄ› paliva. DÃ¡l jsem se ale kvÅ¯li tÄ›m obludÃ¡m nedostala.}
+{118}{}{MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
+{119}{}{Odkud jseÅ¡?}
+{120}{}{SkvÄ›le. To bude prozatÃ­m vÅ¡echno.}
+{121}{}{PochÃ¡zÃ­m kousek na jih od PohÅ™ebiÅ¡tÄ› a KrÃ¡teru. NenÃ­ to daleko od moÅ™e. DÄ›lala jsem chÅ¯vu, ale pak dÄ›ti zmutovaly v monstra.}
+{122}{}{MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
 {123}{}{Jak jsi potkala Badgera?}
-{124}{}{Fascinující. To bude prozatím všechno.}
-{125}{}{Pøicestoval na jih a jednou pøišel do klubu, kam jsem chodívala. A kdy se mi pak rozpadl ivot, tak jsem si øekla, e tohle bude dobré místo kam jít.}
-{126}{}{Mám další otázky.}
-{127}{}{To bude všechno, díky.}
-{128}{}{Vdìèím ti za svùj ivot, take ti odpovím na všechny tvoje otázky.}
-{129}{}{Jóóóó.}
-{130}{}{Co jsi tam dole dìlala?}
-{131}{}{Našla jsi tam nìco zajímavého?}
-{132}{}{Odkud jseš?}
+{124}{}{FascinujÃ­cÃ­. To bude prozatÃ­m vÅ¡echno.}
+{125}{}{PÅ™icestoval na jih a jednou pÅ™iÅ¡el do klubu, kam jsem chodÃ­vala. A kdyÅ¾ se mi pak rozpadl Å¾ivot, tak jsem si Å™ekla, Å¾e tohle bude dobrÃ© mÃ­sto kam jÃ­t.}
+{126}{}{MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
+{127}{}{To bude vÅ¡echno, dÃ­ky.}
+{128}{}{VdÄ›ÄÃ­m ti za svÅ¯j Å¾ivot, takÅ¾e ti odpovÃ­m na vÅ¡echny tvoje otÃ¡zky.}
+{129}{}{JÃ³Ã³Ã³Ã³.}
+{130}{}{Co jsi tam dole dÄ›lala?}
+{131}{}{NaÅ¡la jsi tam nÄ›co zajÃ­mavÃ©ho?}
+{132}{}{Odkud jseÅ¡?}
 {133}{}{Jak jsi potkala Badgera?}
-{134}{}{To bude všechno. Nashle.}
-{135}{}{Mùj boe... Badger je mrtvı ... nevím co budu dìlat... nemám tu ádné pøátele... celá moje rodina je mrtvá... mùj boe...}
-{136}{}{Díky za pomoc. Pùjdu najít Badgera.}
+{134}{}{To bude vÅ¡echno. Nashle.}
+{135}{}{MÅ¯j boÅ¾e... Badger je mrtvÃ½ ... nevÃ­m co budu dÄ›lat... nemÃ¡m tu Å¾Ã¡dnÃ© pÅ™Ã¡tele... celÃ¡ moje rodina je mrtvÃ¡... mÅ¯j boÅ¾e...}
+{136}{}{DÃ­ky za pomoc. PÅ¯jdu najÃ­t Badgera.}

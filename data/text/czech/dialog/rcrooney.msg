@@ -1,54 +1,54 @@
-{100}{}{Vidíš hubenou, starou enu, která u zaila lepší èasy.}
-{101}{}{Vidíš vdovu Rooneyovou.}
-{102}{}{Vidíš hubenou, starou enu s bradavicemi a knírkem.}
+{100}{}{VidÃ­Å¡ hubenou, starou Å¾enu, kterÃ¡ uÅ¾ zaÅ¾ila lepÅ¡Ã­ Äasy.}
+{101}{}{VidÃ­Å¡ vdovu Rooneyovou.}
+{102}{}{VidÃ­Å¡ hubenou, starou Å¾enu s bradavicemi a knÃ­rkem.}
 {103}{}{Dej mi pokoj.}
-{104}{}{Copak jsi mi u neublíil dost?}
-{105}{}{Proè mì radìji tentokrát nezabiješ?}
-{106}{}{Vybíjíš si svou zlost na staré enì, e?}
-{107}{}{Jdeš se podívat na vısledek své práce?}
-{108}{}{Díky, e jsi mi pomohl udret mùj domov. Bez tebe bych to urèitì nedokázala. Poèkej, dám ti alespoò velkou pusu.}
-{109}{}{Jdeš si pro další dìkovnı polibek vdovy Rooneyové? Jsem ti opravdu velmi vdìèná.}
-{110}{}{No dobøe, kdy to musí bıt. Zajímala by mì ta studna, co máte venku.}
-{111}{}{Eh, to nic. Rádo se stalo. Sbohem.}
-{112}{}{Studna? No, no... hehe. Není na ní nic zajímavého. Je u hodnì dlouho vyschlá. Pøísahám, e se z ní v noci ozıvají nìjaké zvuky, ale je pravda, e mùj sluch u není to, co bıval.}
-{113}{}{Zvuky? Jaké zvuky?}
-{114}{}{No, díky za informace. Sbohem.}
-{115}{}{No, nejspíš jenom blbì slyším, ale bylo to nìco jako hrabání nebo kopání. Nejspíš jenom psi nebo nìco podobného.}
-{116}{}{No, asi jo. Díky. Sbohem.}
-{117}{}{Zdravím, mladíku. Co pro tebe mùe stará vdova Rooneyová udìlat?}
-{118}{}{Zdravím, sleèinko. Co pro tebe mùe stará vdova Rooneyová udìlat?}
-{119}{}{Vy bıt moje máma?}
-{120}{}{Mám pro vás špatnou zprávu, paní Rooneyová.}
-{121}{}{Jenom jdu kolem a zajímalo mì, kdo tu bydlí. Tìší mì, e vás poznávám.}
-{123}{}{Vlastnì nic, jen se tak dívám. Sbohem.}
-{124}{}{Já nejsem ádná tvoje zatracená máma! O jednu brahmínu u se starám a v ádném pøípadì se nehodlám starat o další. Odejdi.}
-{125}{}{Pápá, mámo.}
-{126}{}{Aha, take ty dìláš teï za Ascortiho špinavou práci, jo? Co chceš jako dìlat? Zabít mì? Vykopnout mì ven do té zimy?}
-{127}{}{Doufám, e budeš mít klidné spaní.}
+{104}{}{Copak jsi mi uÅ¾ neublÃ­Å¾il dost?}
+{105}{}{ProÄ mÄ› radÄ›ji tentokrÃ¡t nezabijeÅ¡?}
+{106}{}{VybÃ­jÃ­Å¡ si svou zlost na starÃ© Å¾enÄ›, Å¾e?}
+{107}{}{JdeÅ¡ se podÃ­vat na vÃ½sledek svÃ© prÃ¡ce?}
+{108}{}{DÃ­ky, Å¾e jsi mi pomohl udrÅ¾et mÅ¯j domov. Bez tebe bych to urÄitÄ› nedokÃ¡zala. PoÄkej, dÃ¡m ti alespoÅˆ velkou pusu.}
+{109}{}{JdeÅ¡ si pro dalÅ¡Ã­ dÄ›kovnÃ½ polibek vdovy RooneyovÃ©? Jsem ti opravdu velmi vdÄ›ÄnÃ¡.}
+{110}{}{No dobÅ™e, kdyÅ¾ to musÃ­ bÃ½t. ZajÃ­mala by mÄ› ta studna, co mÃ¡te venku.}
+{111}{}{Eh, to nic. RÃ¡do se stalo. Sbohem.}
+{112}{}{Studna? No, no... hehe. NenÃ­ na nÃ­ nic zajÃ­mavÃ©ho. Je uÅ¾ hodnÄ› dlouho vyschlÃ¡. PÅ™Ã­sahÃ¡m, Å¾e se z nÃ­ v noci ozÃ½vajÃ­ nÄ›jakÃ© zvuky, ale je pravda, Å¾e mÅ¯j sluch uÅ¾ nenÃ­ to, co bÃ½val.}
+{113}{}{Zvuky? JakÃ© zvuky?}
+{114}{}{No, dÃ­ky za informace. Sbohem.}
+{115}{}{No, nejspÃ­Å¡ jenom blbÄ› slyÅ¡Ã­m, ale bylo to nÄ›co jako hrabÃ¡nÃ­ nebo kopÃ¡nÃ­. NejspÃ­Å¡ jenom psi nebo nÄ›co podobnÃ©ho.}
+{116}{}{No, asi jo. DÃ­ky. Sbohem.}
+{117}{}{ZdravÃ­m, mladÃ­ku. Co pro tebe mÅ¯Å¾e starÃ¡ vdova RooneyovÃ¡ udÄ›lat?}
+{118}{}{ZdravÃ­m, sleÄinko. Co pro tebe mÅ¯Å¾e starÃ¡ vdova RooneyovÃ¡ udÄ›lat?}
+{119}{}{Vy bÃ½t moje mÃ¡ma?}
+{120}{}{MÃ¡m pro vÃ¡s Å¡patnou zprÃ¡vu, panÃ­ RooneyovÃ¡.}
+{121}{}{Jenom jdu kolem a zajÃ­malo mÄ›, kdo tu bydlÃ­. TÄ›Å¡Ã­ mÄ›, Å¾e vÃ¡s poznÃ¡vÃ¡m.}
+{123}{}{VlastnÄ› nic, jen se tak dÃ­vÃ¡m. Sbohem.}
+{124}{}{JÃ¡ nejsem Å¾Ã¡dnÃ¡ tvoje zatracenÃ¡ mÃ¡ma! O jednu brahmÃ­nu uÅ¾ se starÃ¡m a v Å¾Ã¡dnÃ©m pÅ™Ã­padÄ› se nehodlÃ¡m starat o dalÅ¡Ã­. Odejdi.}
+{125}{}{PÃ¡pÃ¡, mÃ¡mo.}
+{126}{}{Aha, takÅ¾e ty dÄ›lÃ¡Å¡ teÄ za Ascortiho Å¡pinavou prÃ¡ci, jo? Co chceÅ¡ jako dÄ›lat? ZabÃ­t mÄ›? Vykopnout mÄ› ven do tÃ© zimy?}
+{127}{}{DoufÃ¡m, Å¾e budeÅ¡ mÃ­t klidnÃ© spanÃ­.}
 {128}{}{Ascorti? Kdo je to?}
-{129}{}{Venkovní vzduch vám jen prospìje, take sebou pohnìte, babi, pokud nechcete mít problémy.}
-{130}{}{Nedovedu si pøedstavit, e by nìkdo mohl vykopnout starou enu na ulici. Kolik dluíte za nájem?}
-{131}{}{Taky tì ráda poznávám. Nemívám moc èasto zdvoøilé návštìvy. Vìtšina návštìvníkù mi jen vyhrouje.}
-{132}{}{Proè vám vyhroují?}
-{133}{}{No, nejspíš to nìkterım lidem dìlá opravdu dobøe. U musím jít.}
-{134}{}{No, protoe jsem nezaplatila Ascortimu nájem za šest mìsícù, take mu za tuhle zablešenou noclehárnu dluím $120. Jene já je nemám. Nìkteré moje brahmíny onemocnìly a zemøely, take mu nemám jak zaplatit. Kdy to brzo neudìlám, pøikáe šerifovi, aby mì vystìhoval.}
-{135}{}{No, ve skuteènosti... jsem to já, kdo teï vykonává šerifovu práci, take jsem to já, kdo vás má vykopnout na ulici.}
-{136}{}{Coe, vykopnout starou neškodnou enu, jako jste vy? Kdo by to udìlal?}
-{137}{}{Nerad bych vás vidìl na ulici. Co kdy zaplatím ten nájem za vás? Peníze jsou mi skoro k nièemu, jsem toti Vyvolenı.}
-{138}{}{To je hrozné. Rád bych vám pomohl, ale bohuel nemám dost penìz. Eh, u musím jít. Sbohem.}
-{139}{}{Vyhazuješ starou neškodnou enu? Jste s Ascortim oba stejní. No dobøe, odejdu, ale nìco ti daruju od svıch cikánskıch pøedkù. (Kreslí ve vzduchu nìjaké symboly.) Tak a teï máš na sobì prokletí. Doufám, e se ti to bude líbit.}
-{140}{}{Taky mám pro vás pár gest, která se vám budou líbit. Podívejte! (Udìláš nìkolik vlastních gest.) A teï vypadnìte!}
-{141}{}{Tak cikáni, jo? Jestli jste nìjaká èarodìjnice, tak bysme vás mìli upálit. A teï vypadnìte.}
-{142}{}{Jenom dìlám svoji práci, paní. Nechtìjte mì naštvat, nebo uvidíte. A teï odejdìte. Prosím.}
-{143}{}{Ascorti? Ascorti je ten nejchamtivìjší, nejnepoctivìjší, nejpodplatitelnìjší a nejuboejší podrazák v tomhle mìstì. Je starostou Reddingu a zároveò i mùj domácí.}
-{144}{}{Aha, *tenhle* Ascorti. Proè jste to neøekla hned?}
-{145}{}{Nerada bych brala peníze nìkomu, kdo to nemá v hlavì úplnì v poøádku, eh, Vyvolenı.}
-{146}{}{Nerada bych brala peníze nìkomu, kdo to nemá v hlavì úplnì v poøádku, eh, Vyvolená.}
-{147}{}{To nic není, klidnì vám pomùu. Tady máte tìch $120.}
-{148}{}{Víte, po posledním boji se cítím trochu malátnì. Moná bude lepší, kdy si to nejdøív promyslím. Sbohem.}
-{149}{}{Mnohokrát ti dìkuju. Ty JSI opravdu Vyvolenı! U se tìším, jak se bude Ascorti tváøit, a mu ty peníze dám.}
-{150}{}{Rádo se stalo. Sbohem.}
-{151}{}{Materiální vìci mì moc neøíkají, rád jsem ty peníze pouil na dobrou vìc.}
-{152}{}{Zdá se, e je tvoje srdce vìtší ne tvoje myšlenky. Dìkuju ti alespoò za tu myšlenku.}
-{153}{}{Vrátím se, a seenu víc penìz. Sbohem.}
-{154}{}{Je mi líto. Rád bych vám pomohl, ale nejde to. Kadopádnì hodnì štìstí.}
+{129}{}{VenkovnÃ­ vzduch vÃ¡m jen prospÄ›je, takÅ¾e sebou pohnÄ›te, babi, pokud nechcete mÃ­t problÃ©my.}
+{130}{}{Nedovedu si pÅ™edstavit, Å¾e by nÄ›kdo mohl vykopnout starou Å¾enu na ulici. Kolik dluÅ¾Ã­te za nÃ¡jem?}
+{131}{}{Taky tÄ› rÃ¡da poznÃ¡vÃ¡m. NemÃ­vÃ¡m moc Äasto zdvoÅ™ilÃ© nÃ¡vÅ¡tÄ›vy. VÄ›tÅ¡ina nÃ¡vÅ¡tÄ›vnÃ­kÅ¯ mi jen vyhroÅ¾uje.}
+{132}{}{ProÄ vÃ¡m vyhroÅ¾ujÃ­?}
+{133}{}{No, nejspÃ­Å¡ to nÄ›kterÃ½m lidem dÄ›lÃ¡ opravdu dobÅ™e. UÅ¾ musÃ­m jÃ­t.}
+{134}{}{No, protoÅ¾e jsem nezaplatila Ascortimu nÃ¡jem za Å¡est mÄ›sÃ­cÅ¯, takÅ¾e mu za tuhle zableÅ¡enou noclehÃ¡rnu dluÅ¾Ã­m $120. JenÅ¾e jÃ¡ je nemÃ¡m. NÄ›kterÃ© moje brahmÃ­ny onemocnÄ›ly a zemÅ™ely, takÅ¾e mu nemÃ¡m jak zaplatit. KdyÅ¾ to brzo neudÄ›lÃ¡m, pÅ™ikÃ¡Å¾e Å¡erifovi, aby mÄ› vystÄ›hoval.}
+{135}{}{No, ve skuteÄnosti... jsem to jÃ¡, kdo teÄ vykonÃ¡vÃ¡ Å¡erifovu prÃ¡ci, takÅ¾e jsem to jÃ¡, kdo vÃ¡s mÃ¡ vykopnout na ulici.}
+{136}{}{CoÅ¾e, vykopnout starou neÅ¡kodnou Å¾enu, jako jste vy? Kdo by to udÄ›lal?}
+{137}{}{Nerad bych vÃ¡s vidÄ›l na ulici. Co kdyÅ¾ zaplatÃ­m ten nÃ¡jem za vÃ¡s? PenÃ­ze jsou mi skoro k niÄemu, jsem totiÅ¾ VyvolenÃ½.}
+{138}{}{To je hroznÃ©. RÃ¡d bych vÃ¡m pomohl, ale bohuÅ¾el nemÃ¡m dost penÄ›z. Eh, uÅ¾ musÃ­m jÃ­t. Sbohem.}
+{139}{}{VyhazujeÅ¡ starou neÅ¡kodnou Å¾enu? Jste s Ascortim oba stejnÃ­. No dobÅ™e, odejdu, ale nÄ›co ti daruju od svÃ½ch cikÃ¡nskÃ½ch pÅ™edkÅ¯. (KreslÃ­ ve vzduchu nÄ›jakÃ© symboly.) Tak a teÄ mÃ¡Å¡ na sobÄ› prokletÃ­. DoufÃ¡m, Å¾e se ti to bude lÃ­bit.}
+{140}{}{Taky mÃ¡m pro vÃ¡s pÃ¡r gest, kterÃ¡ se vÃ¡m budou lÃ­bit. PodÃ­vejte! (UdÄ›lÃ¡Å¡ nÄ›kolik vlastnÃ­ch gest.) A teÄ vypadnÄ›te!}
+{141}{}{Tak cikÃ¡ni, jo? Jestli jste nÄ›jakÃ¡ ÄarodÄ›jnice, tak bysme vÃ¡s mÄ›li upÃ¡lit. A teÄ vypadnÄ›te.}
+{142}{}{Jenom dÄ›lÃ¡m svoji prÃ¡ci, panÃ­. NechtÄ›jte mÄ› naÅ¡tvat, nebo uvidÃ­te. A teÄ odejdÄ›te. ProsÃ­m.}
+{143}{}{Ascorti? Ascorti je ten nejchamtivÄ›jÅ¡Ã­, nejnepoctivÄ›jÅ¡Ã­, nejpodplatitelnÄ›jÅ¡Ã­ a nejuboÅ¾ejÅ¡Ã­ podrazÃ¡k v tomhle mÄ›stÄ›. Je starostou Reddingu a zÃ¡roveÅˆ i mÅ¯j domÃ¡cÃ­.}
+{144}{}{Aha, *tenhle* Ascorti. ProÄ jste to neÅ™ekla hned?}
+{145}{}{Nerada bych brala penÃ­ze nÄ›komu, kdo to nemÃ¡ v hlavÄ› ÃºplnÄ› v poÅ™Ã¡dku, eh, VyvolenÃ½.}
+{146}{}{Nerada bych brala penÃ­ze nÄ›komu, kdo to nemÃ¡ v hlavÄ› ÃºplnÄ› v poÅ™Ã¡dku, eh, VyvolenÃ¡.}
+{147}{}{To nic nenÃ­, klidnÄ› vÃ¡m pomÅ¯Å¾u. Tady mÃ¡te tÄ›ch $120.}
+{148}{}{VÃ­te, po poslednÃ­m boji se cÃ­tÃ­m trochu malÃ¡tnÄ›. MoÅ¾nÃ¡ bude lepÅ¡Ã­, kdyÅ¾ si to nejdÅ™Ã­v promyslÃ­m. Sbohem.}
+{149}{}{MnohokrÃ¡t ti dÄ›kuju. Ty JSI opravdu VyvolenÃ½! UÅ¾ se tÄ›Å¡Ã­m, jak se bude Ascorti tvÃ¡Å™it, aÅ¾ mu ty penÃ­ze dÃ¡m.}
+{150}{}{RÃ¡do se stalo. Sbohem.}
+{151}{}{MateriÃ¡lnÃ­ vÄ›ci mÄ› moc neÅ™Ã­kajÃ­, rÃ¡d jsem ty penÃ­ze pouÅ¾il na dobrou vÄ›c.}
+{152}{}{ZdÃ¡ se, Å¾e je tvoje srdce vÄ›tÅ¡Ã­ neÅ¾ tvoje myÅ¡lenky. DÄ›kuju ti alespoÅˆ za tu myÅ¡lenku.}
+{153}{}{VrÃ¡tÃ­m se, aÅ¾ seÅ¾enu vÃ­c penÄ›z. Sbohem.}
+{154}{}{Je mi lÃ­to. RÃ¡d bych vÃ¡m pomohl, ale nejde to. KaÅ¾dopÃ¡dnÄ› hodnÄ› Å¡tÄ›stÃ­.}

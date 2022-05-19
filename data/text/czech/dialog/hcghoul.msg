@@ -1,85 +1,85 @@
-{100}{}{Vidíš zvláštního mutanta s kùí pokrytou skvrnami a dìsivım úsmìvem.}
-{101}{}{Vidíš místního ghoula.}
-{102}{}{Vidíš ghoula. Jeho kùe vypadá jako staená z nìjakého zvíøete. Taky to vypadá,
- e ho ostatní lidé akceptují.}
-{103}{}{Práce na rafinérii je tìká.}
-{104}{}{Mutanti a lidi jsou v poslední dobì na ostøí noe.}
-{105}{}{Nerad pracuju v blízkosti kyseliny.}
-{106}{}{Zdá se, e v tomhle mìstì zaène bıt brzy tìsno.}
-{107}{}{Všichni lidi nejsou špatní.}
-{108}{}{Vítej v Broken Hills.}
-{109}{}{Kde je Hank? Nevidìl jste nìkdo Hanka?}
-{110}{}{Museli jsme tvrdì pracovat, aby Broken Hills vypadalo tak, jak vypadá.}
-{111}{}{Kdy bude další jídlo?}
-{112}{}{Chad je zavøenej? Lidi by se mìli stydìt.}
-{113}{}{Ne všichni lidi jsou jako Chad.}
-{114}{}{Sakra, to s tím Chadem fakt naštve.}
-{115}{}{Zajímalo by mì, jestli bych se mohl nìkdy pøidat ke karavanì...}
-{116}{}{Kde je Hank? Nevidìl jste nìkdo Hanka?}
-{117}{}{Museli jsme tvrdì pracovat, aby Broken Hills vypadalo tak, jak vypadá.}
-{118}{}{Kdy bude další jídlo?}
-{119}{}{Nepotøebuješ meteorologa, abys poznal, jakım smìrem vane vítr.}
-{120}{}{Pøestaò! Hej... co je to za zvuk?}
-{121}{}{Pryè s tyrany!}
-{122}{}{Jak jsi mohl zabít Chada?}
-{123}{}{Coe? Chad odporoval pøi zatıkání nebo co?}
-{124}{}{Pøichází temná doba Broken Hills.}
-{125}{}{Chad dostal, co mu patøí.}
-{126}{}{Za krutı zloèin, krutı trest.}
-{127}{}{Chudák Chad. Ještì, e nemìl rodinu.}
-{128}{}{Lidi jsou nasranı ohlednì Chada.}
-{129}{}{Mutanti by se mìli mít na pozoru... lidi se moná budou chtít za Chada pomstít.}
-{130}{}{Kdo mohl udìlat takovou ohavnou vìc?}
-{131}{}{Teï, kdy jsou mutanti pryè, nemáme nejmenší šanci se ubránit nájezdníkùm.}
-{132}{}{Marcus... Zaius... Francis... a všichni ostatní... jsou pryè...}
-{133}{}{Budoucnost nevypadá dobøe.}
-{134}{}{Kdo to udìlal? Lidi? Byl to Cameron?}
-{135}{}{Kdo nás teï povede, kdy je Marcus pryè?}
-{136}{}{Kde se teï schováme?}
-{137}{}{Ti parchanti z NCR! Jestli sem ještì nìkdy páchnou, tak jim ukáeme.}
-{138}{}{Zajímalo by mì, jestli za to mùou NAŠI lidé...}
-{139}{}{Díky za záchranu mutantù.}
-{140}{}{Mìli bychom zlynèovat ty parchanty, kteøí se pokusili otrávit naše mutanty.}
-{141}{}{Dìje se toho tady tolik... a se mi z toho motá hlava...}
-{142}{}{Asi bych se mìl vrátit k práci.}
-{143}{}{Kdo pomohl tìm dvoum praseèím rypákùm ven? A navíc zabil stráe... Marcus musí bıt pìknì nasranej.}
-{144}{}{Ve mìstì se dìje nìco nekalého.}
-{145}{}{Nezdá se ti, e to tady poslední dobou zaèíná smrdìt nìjakım problémem?}
-{146}{}{Myslel jsem si, e tohle bude klidné místo na "stará kolena". Vypadá to, e jsem se mılil.}
-{147}{}{Kdo by si pomyslel, e se takové násilí objeví i v Broken Hills?}
-{148}{}{Franc a Manson... nìkdo hraje píseò smrti pro všechny mutanty.}
-{149}{}{Jak jsi mohl ty dva pustit z vìzení?}
-{150}{}{Mìl by ses stydìt.}
-{151}{}{Doufám, e máš pravdu, e Franc a Manson nepøedstavují hrozbu... mutanti tì za to kdy tak obviní.}
-{152}{}{Franc a Manson... zpátky na svobodì... a kruci. Asi opustím mìsto.}
-{153}{}{Ve mìstì se dìje nìco nekalého.}
-{154}{}{Nezdá se ti, e to tady poslední dobou zaèíná smrdìt nìjakım problémem?}
-{155}{}{Prı jsi pøivedl ty hajzly ke spravedlnosti. Dobrá práce!}
-{156}{}{Vdycky jsem si myslel, e je Jacob trochu divnej.}
-{157}{}{To nauèí lidi, e se nemaj vysmívat zákonùm.}
-{158}{}{Ale no tak... Aileen? Nevìøím, e by to udìlala.}
-{159}{}{To je poøádná rána pro lidi! Musí se teï cítit docela zahanbeni a v úzkıch.}
-{160}{}{Zajímalo by mì, jestli se nìkdy v Broken Hills srovnají vztahy mezi lidmi a mutanty.}
-{161}{}{Ti bastardi, Jacob a Aileen, mì vdycky mìli za podøadného obèana. Tohle je nauèí.}
-{162}{}{Myslím, e se Broken Hills nikdy nevzpamatuje ze ztráty dolu...}
+{100}{}{VidÃ­Å¡ zvlÃ¡Å¡tnÃ­ho mutanta s kÅ¯Å¾Ã­ pokrytou skvrnami a dÄ›sivÃ½m ÃºsmÄ›vem.}
+{101}{}{VidÃ­Å¡ mÃ­stnÃ­ho ghoula.}
+{102}{}{VidÃ­Å¡ ghoula. Jeho kÅ¯Å¾e vypadÃ¡ jako staÅ¾enÃ¡ z nÄ›jakÃ©ho zvÃ­Å™ete. Taky to vypadÃ¡,
+ Å¾e ho ostatnÃ­ lidÃ© akceptujÃ­.}
+{103}{}{PrÃ¡ce na rafinÃ©rii je tÄ›Å¾kÃ¡.}
+{104}{}{Mutanti a lidi jsou v poslednÃ­ dobÄ› na ostÅ™Ã­ noÅ¾e.}
+{105}{}{Nerad pracuju v blÃ­zkosti kyseliny.}
+{106}{}{ZdÃ¡ se, Å¾e v tomhle mÄ›stÄ› zaÄne bÃ½t brzy tÄ›sno.}
+{107}{}{VÅ¡ichni lidi nejsou Å¡patnÃ­.}
+{108}{}{VÃ­tej v Broken Hills.}
+{109}{}{Kde je Hank? NevidÄ›l jste nÄ›kdo Hanka?}
+{110}{}{Museli jsme tvrdÄ› pracovat, aby Broken Hills vypadalo tak, jak vypadÃ¡.}
+{111}{}{Kdy bude dalÅ¡Ã­ jÃ­dlo?}
+{112}{}{Chad je zavÅ™enej? Lidi by se mÄ›li stydÄ›t.}
+{113}{}{Ne vÅ¡ichni lidi jsou jako Chad.}
+{114}{}{Sakra, to s tÃ­m Chadem fakt naÅ¡tve.}
+{115}{}{ZajÃ­malo by mÄ›, jestli bych se mohl nÄ›kdy pÅ™idat ke karavanÄ›...}
+{116}{}{Kde je Hank? NevidÄ›l jste nÄ›kdo Hanka?}
+{117}{}{Museli jsme tvrdÄ› pracovat, aby Broken Hills vypadalo tak, jak vypadÃ¡.}
+{118}{}{Kdy bude dalÅ¡Ã­ jÃ­dlo?}
+{119}{}{NepotÅ™ebujeÅ¡ meteorologa, abys poznal, jakÃ½m smÄ›rem vane vÃ­tr.}
+{120}{}{PÅ™estaÅˆ! Hej... co je to za zvuk?}
+{121}{}{PryÄ s tyrany!}
+{122}{}{Jak jsi mohl zabÃ­t Chada?}
+{123}{}{CoÅ¾e? Chad odporoval pÅ™i zatÃ½kÃ¡nÃ­ nebo co?}
+{124}{}{PÅ™ichÃ¡zÃ­ temnÃ¡ doba Broken Hills.}
+{125}{}{Chad dostal, co mu patÅ™Ã­.}
+{126}{}{Za krutÃ½ zloÄin, krutÃ½ trest.}
+{127}{}{ChudÃ¡k Chad. JeÅ¡tÄ›, Å¾e nemÄ›l rodinu.}
+{128}{}{Lidi jsou nasranÃ½ ohlednÄ› Chada.}
+{129}{}{Mutanti by se mÄ›li mÃ­t na pozoru... lidi se moÅ¾nÃ¡ budou chtÃ­t za Chada pomstÃ­t.}
+{130}{}{Kdo mohl udÄ›lat takovou ohavnou vÄ›c?}
+{131}{}{TeÄ, kdyÅ¾ jsou mutanti pryÄ, nemÃ¡me nejmenÅ¡Ã­ Å¡anci se ubrÃ¡nit nÃ¡jezdnÃ­kÅ¯m.}
+{132}{}{Marcus... Zaius... Francis... a vÅ¡ichni ostatnÃ­... jsou pryÄ...}
+{133}{}{Budoucnost nevypadÃ¡ dobÅ™e.}
+{134}{}{Kdo to udÄ›lal? Lidi? Byl to Cameron?}
+{135}{}{Kdo nÃ¡s teÄ povede, kdyÅ¾ je Marcus pryÄ?}
+{136}{}{Kde se teÄ schovÃ¡me?}
+{137}{}{Ti parchanti z NCR! Jestli sem jeÅ¡tÄ› nÄ›kdy pÃ¡chnou, tak jim ukÃ¡Å¾eme.}
+{138}{}{ZajÃ­malo by mÄ›, jestli za to mÅ¯Å¾ou NAÅ I lidÃ©...}
+{139}{}{DÃ­ky za zÃ¡chranu mutantÅ¯.}
+{140}{}{MÄ›li bychom zlynÄovat ty parchanty, kteÅ™Ã­ se pokusili otrÃ¡vit naÅ¡e mutanty.}
+{141}{}{DÄ›je se toho tady tolik... aÅ¾ se mi z toho motÃ¡ hlava...}
+{142}{}{Asi bych se mÄ›l vrÃ¡tit k prÃ¡ci.}
+{143}{}{Kdo pomohl tÄ›m dvoum praseÄÃ­m rypÃ¡kÅ¯m ven? A navÃ­c zabil strÃ¡Å¾e... Marcus musÃ­ bÃ½t pÄ›knÄ› nasranej.}
+{144}{}{Ve mÄ›stÄ› se dÄ›je nÄ›co nekalÃ©ho.}
+{145}{}{NezdÃ¡ se ti, Å¾e to tady poslednÃ­ dobou zaÄÃ­nÃ¡ smrdÄ›t nÄ›jakÃ½m problÃ©mem?}
+{146}{}{Myslel jsem si, Å¾e tohle bude klidnÃ© mÃ­sto na "starÃ¡ kolena". VypadÃ¡ to, Å¾e jsem se mÃ½lil.}
+{147}{}{Kdo by si pomyslel, Å¾e se takovÃ© nÃ¡silÃ­ objevÃ­ i v Broken Hills?}
+{148}{}{Franc a Manson... nÄ›kdo hraje pÃ­seÅˆ smrti pro vÅ¡echny mutanty.}
+{149}{}{Jak jsi mohl ty dva pustit z vÄ›zenÃ­?}
+{150}{}{MÄ›l by ses stydÄ›t.}
+{151}{}{DoufÃ¡m, Å¾e mÃ¡Å¡ pravdu, Å¾e Franc a Manson nepÅ™edstavujÃ­ hrozbu... mutanti tÄ› za to kdyÅ¾ tak obvinÃ­.}
+{152}{}{Franc a Manson... zpÃ¡tky na svobodÄ›... a kruci. Asi opustÃ­m mÄ›sto.}
+{153}{}{Ve mÄ›stÄ› se dÄ›je nÄ›co nekalÃ©ho.}
+{154}{}{NezdÃ¡ se ti, Å¾e to tady poslednÃ­ dobou zaÄÃ­nÃ¡ smrdÄ›t nÄ›jakÃ½m problÃ©mem?}
+{155}{}{PrÃ½ jsi pÅ™ivedl ty hajzly ke spravedlnosti. DobrÃ¡ prÃ¡ce!}
+{156}{}{VÅ¾dycky jsem si myslel, Å¾e je Jacob trochu divnej.}
+{157}{}{To nauÄÃ­ lidi, Å¾e se nemaj vysmÃ­vat zÃ¡konÅ¯m.}
+{158}{}{Ale no tak... Aileen? NevÄ›Å™Ã­m, Å¾e by to udÄ›lala.}
+{159}{}{To je poÅ™Ã¡dnÃ¡ rÃ¡na pro lidi! MusÃ­ se teÄ cÃ­tit docela zahanbeni a v ÃºzkÃ½ch.}
+{160}{}{ZajÃ­malo by mÄ›, jestli se nÄ›kdy v Broken Hills srovnajÃ­ vztahy mezi lidmi a mutanty.}
+{161}{}{Ti bastardi, Jacob a Aileen, mÄ› vÅ¾dycky mÄ›li za podÅ™adnÃ©ho obÄana. Tohle je nauÄÃ­.}
+{162}{}{MyslÃ­m, Å¾e se Broken Hills nikdy nevzpamatuje ze ztrÃ¡ty dolu...}
 {163}{}{All the mutants... dead...}
-{164}{}{... teï u se nikdy nedozvíme, jestli by se nám podaøilo dohodnout mír mezi mutanty a lidmi...}
-{165}{}{Je èas zmizet a zjistit, co nabízí okolní svìt... nikdo nebude vykopávat celı dùl.}
-{166}{}{Zajímalo by mì, jestli nìkdo v Kalifornii potøebuje horníky.}
-{167}{}{Asi se vrátím do Gecka...}
-{168}{}{Ty hnijící èerve.}
-{169}{}{Copak se ani trochu nestydíš? Nemáš slušné vychování?}
-{170}{}{Proè chceš znièit naše mìsto?}
-{171}{}{Copak si neuvìdomuješ, e kdy znièíš dùl, znièíš i nás všechny?}
-{172}{}{Nechci s vámi mluvit.}
-{173}{}{Jdi pryè.}
-{174}{}{Dobrá práce.}
-{175}{}{Škoda, e ti lidé zemøeli pod mìstem.}
-{176}{}{Zajímalo by mì, jak dokázali potají vykopat ty tunely.}
-{177}{}{Teï víme, co mìli Franc a Manson za lubem.}
-{178}{}{Ti ubozí lidé. Jejich ubohé rodiny.}
-{180}{}{Neubliuj mnì.}
-{181}{}{Nech mì bıt.}
+{164}{}{... teÄ uÅ¾ se nikdy nedozvÃ­me, jestli by se nÃ¡m podaÅ™ilo dohodnout mÃ­r mezi mutanty a lidmi...}
+{165}{}{Je Äas zmizet a zjistit, co nabÃ­zÃ­ okolnÃ­ svÄ›t... nikdo nebude vykopÃ¡vat celÃ½ dÅ¯l.}
+{166}{}{ZajÃ­malo by mÄ›, jestli nÄ›kdo v Kalifornii potÅ™ebuje hornÃ­ky.}
+{167}{}{Asi se vrÃ¡tÃ­m do Gecka...}
+{168}{}{Ty hnijÃ­cÃ­ Äerve.}
+{169}{}{Copak se ani trochu nestydÃ­Å¡? NemÃ¡Å¡ sluÅ¡nÃ© vychovÃ¡nÃ­?}
+{170}{}{ProÄ chceÅ¡ zniÄit naÅ¡e mÄ›sto?}
+{171}{}{Copak si neuvÄ›domujeÅ¡, Å¾e kdyÅ¾ zniÄÃ­Å¡ dÅ¯l, zniÄÃ­Å¡ i nÃ¡s vÅ¡echny?}
+{172}{}{Nechci s vÃ¡mi mluvit.}
+{173}{}{Jdi pryÄ.}
+{174}{}{DobrÃ¡ prÃ¡ce.}
+{175}{}{Å koda, Å¾e ti lidÃ© zemÅ™eli pod mÄ›stem.}
+{176}{}{ZajÃ­malo by mÄ›, jak dokÃ¡zali potajÃ­ vykopat ty tunely.}
+{177}{}{TeÄ vÃ­me, co mÄ›li Franc a Manson za lubem.}
+{178}{}{Ti ubozÃ­ lidÃ©. Jejich ubohÃ© rodiny.}
+{180}{}{NeubliÅ¾uj mnÄ›.}
+{181}{}{Nech mÄ› bÃ½t.}
 {182}{}{Ne! Ne! Ne!}
-{183}{}{U pùjdu.}
-{184}{}{Vypadni z našeho mìsta!}
+{183}{}{UÅ¾ pÅ¯jdu.}
+{184}{}{Vypadni z naÅ¡eho mÄ›sta!}

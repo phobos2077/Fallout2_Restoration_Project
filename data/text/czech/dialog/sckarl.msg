@@ -1,55 +1,55 @@
-{100}{}{Vidíš mladého mue s odznakem policie NCR.}
-{101}{}{Vidíš Karla, zástupce mìsta.}
-{102}{}{Vidíš mladíka sotva odrostlého z puberty. Vypadá vlídnì.}
-{103}{}{Vítej, cizinèe. Jsem Karl a zastupuji toto mìsto. Co pro tebe mohu udìlat?}
-{104}{}{Jako tøeba?}
+{100}{}{VidÃ­Å¡ mladÃ©ho muÅ¾e s odznakem policie NCR.}
+{101}{}{VidÃ­Å¡ Karla, zÃ¡stupce mÄ›sta.}
+{102}{}{VidÃ­Å¡ mladÃ­ka sotva odrostlÃ©ho z puberty. VypadÃ¡ vlÃ­dnÄ›.}
+{103}{}{VÃ­tej, cizinÄe. Jsem Karl a zastupuji toto mÄ›sto. Co pro tebe mohu udÄ›lat?}
+{104}{}{Jako tÅ™eba?}
 {105}{}{Eh... heee..}
-{106}{}{Jsem v NCR nováèek. Co mi mùeš øíct o tomhle mìstì?}
-{107}{}{No, hledám Vault 13.}
-{108}{}{Posílá mì prezidentka Tandi. Mám si promluvit s vaším vìznìm.}
+{106}{}{Jsem v NCR novÃ¡Äek. Co mi mÅ¯Å¾eÅ¡ Å™Ã­ct o tomhle mÄ›stÄ›?}
+{107}{}{No, hledÃ¡m Vault 13.}
+{108}{}{PosÃ­lÃ¡ mÄ› prezidentka Tandi. MÃ¡m si promluvit s vaÅ¡Ã­m vÄ›znÄ›m.}
 {109}{}{Jmenuju se}
-{110}{}{Hledám chlápka jménem Jack. Øíkají mu taky Whack Jack.}
+{110}{}{HledÃ¡m chlÃ¡pka jmÃ©nem Jack. Å˜Ã­kajÃ­ mu taky Whack Jack.}
 {111}{}{Kde najdu Rogera Westina?}
-{112}{}{Hmm, trochu jsme moc bumbali, e? Podívej, tamhle je volná cela. Co takhle si tam lehnout a vyspat se z toho?}
-{113}{}{Poslyš, dám ti radu. Øekni tìm svım pøátelùm, a si tì odvedou domù a hezky se z toho vyspi. Pití na veøejnosti je zde trestnım èinem.}
-{114}{}{Tohle je NCR, hlavní mìsto New California Republic. 3000 obyvatel a stále se rozrùstá. ádní otroci, ádné hazardní hry a ádné drogy. Prezidentkou je paní Tandi a mım šéfem je šerif Dumont. Staèí ti taková odpovìï?}
-{115}{}{Dobøe, mám ještì nìjaké otázky.}
-{116}{}{Jo, to bude všechno.}
-{117}{}{To já taky, kdy jsem byl malı. Dej mi vìdìt, pokud ho najdeš!}
-{118}{}{Dobøe, mám ještì nìjaké otázky.}
-{119}{}{No, tak dík.}
-{120}{}{Jmenuje se Oswald. Víc jsme z nìj nedostali. Prı je to squatter z Vaultu 15, ale... pochybuji o tom. Na to je pøíliš drsnı. Chápeš, co tím myslím?}
-{121}{}{Je to drsnı chlap, jo?}
-{122}{}{Co s ním chcete dìlat?}
-{123}{}{O tobì u jsem urèitì slyšel. Jo... jen samé dobré vìci. Poslyš, vím o pár lidech, kterım by se tvoje dovednosti hodily. Zajdi do obchodu s auty a ptej se po Elise. Øekni jí, e ji Karl pozdravuje.}
+{112}{}{Hmm, trochu jsme moc bumbali, Å¾e? PodÃ­vej, tamhle je volnÃ¡ cela. Co takhle si tam lehnout a vyspat se z toho?}
+{113}{}{PoslyÅ¡, dÃ¡m ti radu. Å˜ekni tÄ›m svÃ½m pÅ™Ã¡telÅ¯m, aÅ¥ si tÄ› odvedou domÅ¯ a hezky se z toho vyspi. PitÃ­ na veÅ™ejnosti je zde trestnÃ½m Äinem.}
+{114}{}{Tohle je NCR, hlavnÃ­ mÄ›sto New California Republic. 3000 obyvatel a stÃ¡le se rozrÅ¯stÃ¡. Å½Ã¡dnÃ­ otroci, Å¾Ã¡dnÃ© hazardnÃ­ hry a Å¾Ã¡dnÃ© drogy. Prezidentkou je panÃ­ Tandi a mÃ½m Å¡Ã©fem je Å¡erif Dumont. StaÄÃ­ ti takovÃ¡ odpovÄ›Ä?}
+{115}{}{DobÅ™e, mÃ¡m jeÅ¡tÄ› nÄ›jakÃ© otÃ¡zky.}
+{116}{}{Jo, to bude vÅ¡echno.}
+{117}{}{To jÃ¡ taky, kdyÅ¾ jsem byl malÃ½. Dej mi vÄ›dÄ›t, pokud ho najdeÅ¡!}
+{118}{}{DobÅ™e, mÃ¡m jeÅ¡tÄ› nÄ›jakÃ© otÃ¡zky.}
+{119}{}{No, tak dÃ­k.}
+{120}{}{Jmenuje se Oswald. VÃ­c jsme z nÄ›j nedostali. PrÃ½ je to squatter z Vaultu 15, ale... pochybuji o tom. Na to je pÅ™Ã­liÅ¡ drsnÃ½. ChÃ¡peÅ¡, co tÃ­m myslÃ­m?}
+{121}{}{Je to drsnÃ½ chlap, jo?}
+{122}{}{Co s nÃ­m chcete dÄ›lat?}
+{123}{}{O tobÄ› uÅ¾ jsem urÄitÄ› slyÅ¡el. Jo... jen samÃ© dobrÃ© vÄ›ci. PoslyÅ¡, vÃ­m o pÃ¡r lidech, kterÃ½m by se tvoje dovednosti hodily. Zajdi do obchodu s auty a ptej se po Elise. Å˜ekni jÃ­, Å¾e ji Karl pozdravuje.}
 {124}{}{Work? The Stockman's Association is looking for guards. Raiders been hitting the cattle drives hard again. And I heard that President Tandi's been looking for somebody "resourceful," as she puts it. That help?}
-{125}{}{Dobøe, mám ještì nìjaké otázky.}
-{126}{}{Trochu. Díky.}
-{127}{}{To je dùstojník Jack, cizinèe. Jeden z našich lidí. Ještì jsi nemluvil s Mirou, e ne?}
+{125}{}{DobÅ™e, mÃ¡m jeÅ¡tÄ› nÄ›jakÃ© otÃ¡zky.}
+{126}{}{Trochu. DÃ­ky.}
+{127}{}{To je dÅ¯stojnÃ­k Jack, cizinÄe. Jeden z naÅ¡ich lidÃ­. JeÅ¡tÄ› jsi nemluvil s Mirou, Å¾e ne?}
 {128}{}{Ano.}
 {129}{}{Kdo je Mira?}
 {130}{}{That SOB? He's got a spread just outside town. Just take the road past Stockman's.}
-{131}{}{Ty ho asi nemáš moc rád, e?}
-{132}{}{Dobøe, mám ještì nìjaké otázky.}
-{133}{}{Díky.}
-{134}{}{Jo. Je opravdu zlı. Zabil dva z našich muù a neøekl ani slovo.}
-{135}{}{Nech mì s ním chvíli o samotì. Tøeba ho pøesvìdèím, aby spolupracoval.}
-{136}{}{Mùu ho teï vidìt?}
-{137}{}{Povìsíme toho bastarda, aspoò doufám. On a jeho banda zabili dva dobré mue. Nebude mì ani trochu mrzet a bude mrtvı.}
-{138}{}{Mùu ho teï vidìt?}
-{139}{}{Víš, ona a Jack byli kdysi manelé. Prošli si opravdu drsnım rozvodem. Nevìøil bych jí ani slovo, rozhodnì ne cokoliv o Jackovi. Bude lepší, kdy se do toho nebudeš plést. Jack je dobrı chlap, jen je teï trochu napjatı.}
-{140}{}{Dobøe, pøejdìme na jiné téma.}
-{141}{}{No, díky moc za radu, zástupce.}
-{142}{}{Jeho bıvalá. Jestli není tady, mùe bıt v elektrárnì. Pøivydìlává si tam v noci u Dorothy.}
-{143}{}{Dobøe, mám ještì nìjaké otázky.}
-{144}{}{Díky.}
-{145}{}{Koukám, e je to na mnì vidìt. Spousta lidí k nìmu vzhlíí, protoe je radní, ale já ne. Myslí si o sobì, e je nìkdo, jako by pro nìj zákony neplatily. Byl bych rád, kdyby mu jednou spadl høebínek.}
-{146}{}{Co není, mùe bıt. Co mi o nìm mùeš øíct?}
-{147}{}{Musím jít. Øíkal jsi venku za mìstem?}
-{148}{}{ádnı problém. Budu pøedstírat, e tu pìt minut nejsem. Pojï za mnou.}
-{149}{}{Jistì, proè ne?}
-{150}{}{No, pøed pár lety mìl mrtvici a teï má od doktora Jubilee pøedepsané nìjaké léky. Proè tì to vùbec zajímá?}
-{151}{}{To nic, jen tak. U tì nebudu zdrovat.}
-{152}{}{. Hledám nìjakou poctivou práci.}
-{153}{}{Tandi øíkat ty tady mít špatná chlap.}
-{154}{}{Já chtít vidìt špatná chlap.}
+{131}{}{Ty ho asi nemÃ¡Å¡ moc rÃ¡d, Å¾e?}
+{132}{}{DobÅ™e, mÃ¡m jeÅ¡tÄ› nÄ›jakÃ© otÃ¡zky.}
+{133}{}{DÃ­ky.}
+{134}{}{Jo. Je opravdu zlÃ½. Zabil dva z naÅ¡ich muÅ¾Å¯ a neÅ™ekl ani slovo.}
+{135}{}{Nech mÄ› s nÃ­m chvÃ­li o samotÄ›. TÅ™eba ho pÅ™esvÄ›dÄÃ­m, aby spolupracoval.}
+{136}{}{MÅ¯Å¾u ho teÄ vidÄ›t?}
+{137}{}{PovÄ›sÃ­me toho bastarda, aspoÅˆ doufÃ¡m. On a jeho banda zabili dva dobrÃ© muÅ¾e. Nebude mÄ› ani trochu mrzet aÅ¾ bude mrtvÃ½.}
+{138}{}{MÅ¯Å¾u ho teÄ vidÄ›t?}
+{139}{}{VÃ­Å¡, ona a Jack byli kdysi manÅ¾elÃ©. ProÅ¡li si opravdu drsnÃ½m rozvodem. NevÄ›Å™il bych jÃ­ ani slovo, rozhodnÄ› ne cokoliv o Jackovi. Bude lepÅ¡Ã­, kdyÅ¾ se do toho nebudeÅ¡ plÃ©st. Jack je dobrÃ½ chlap, jen je teÄ trochu napjatÃ½.}
+{140}{}{DobÅ™e, pÅ™ejdÄ›me na jinÃ© tÃ©ma.}
+{141}{}{No, dÃ­ky moc za radu, zÃ¡stupce.}
+{142}{}{Jeho bÃ½valÃ¡. Jestli nenÃ­ tady, mÅ¯Å¾e bÃ½t v elektrÃ¡rnÄ›. PÅ™ivydÄ›lÃ¡vÃ¡ si tam v noci u Dorothy.}
+{143}{}{DobÅ™e, mÃ¡m jeÅ¡tÄ› nÄ›jakÃ© otÃ¡zky.}
+{144}{}{DÃ­ky.}
+{145}{}{KoukÃ¡m, Å¾e je to na mnÄ› vidÄ›t. Spousta lidÃ­ k nÄ›mu vzhlÃ­Å¾Ã­, protoÅ¾e je radnÃ­, ale jÃ¡ ne. MyslÃ­ si o sobÄ›, Å¾e je nÄ›kdo, jako by pro nÄ›j zÃ¡kony neplatily. Byl bych rÃ¡d, kdyby mu jednou spadl hÅ™ebÃ­nek.}
+{146}{}{Co nenÃ­, mÅ¯Å¾e bÃ½t. Co mi o nÄ›m mÅ¯Å¾eÅ¡ Å™Ã­ct?}
+{147}{}{MusÃ­m jÃ­t. Å˜Ã­kal jsi venku za mÄ›stem?}
+{148}{}{Å½Ã¡dnÃ½ problÃ©m. Budu pÅ™edstÃ­rat, Å¾e tu pÄ›t minut nejsem. PojÄ za mnou.}
+{149}{}{JistÄ›, proÄ ne?}
+{150}{}{No, pÅ™ed pÃ¡r lety mÄ›l mrtvici a teÄ mÃ¡ od doktora Jubilee pÅ™edepsanÃ© nÄ›jakÃ© lÃ©ky. ProÄ tÄ› to vÅ¯bec zajÃ­mÃ¡?}
+{151}{}{To nic, jen tak. UÅ¾ tÄ› nebudu zdrÅ¾ovat.}
+{152}{}{. HledÃ¡m nÄ›jakou poctivou prÃ¡ci.}
+{153}{}{Tandi Å™Ã­kat ty tady mÃ­t Å¡patnÃ¡ chlap.}
+{154}{}{JÃ¡ chtÃ­t vidÄ›t Å¡patnÃ¡ chlap.}

@@ -1,170 +1,170 @@
-{100}{}{Vidíš starého ghoula.}
-{101}{}{Vidíš Typhona, Setova syna.}
-{102}{}{Vidíš starého ghoula, ze kterého vyzaøuje inteligence.}
-{103}{}{Nazdar, prcku. Vítej v Ghoulském domovì dùchodcù!}
+{100}{}{VidÃ­Å¡ starÃ©ho ghoula.}
+{101}{}{VidÃ­Å¡ Typhona, Setova syna.}
+{102}{}{VidÃ­Å¡ starÃ©ho ghoula, ze kterÃ©ho vyzaÅ™uje inteligence.}
+{103}{}{Nazdar, prcku. VÃ­tej v GhoulskÃ©m domovÄ› dÅ¯chodcÅ¯!}
 {104}{}{Ghul?}
-{105}{}{Ghoulském domovì dùchodcù?}
+{105}{}{GhoulskÃ©m domovÄ› dÅ¯chodcÅ¯?}
 {106}{}{Kdo jsi?}
-{107}{}{Poslyš, neslyšel jsi nìkdy o GECKu?}
+{107}{}{PoslyÅ¡, neslyÅ¡el jsi nÄ›kdy o GECKu?}
 {108}{}{Nashle.}
-{109}{}{Další dítì pustiny, co? Poslyš, prcku, chceš slyšet tajemství?}
+{109}{}{DalÅ¡Ã­ dÃ­tÄ› pustiny, co? PoslyÅ¡, prcku, chceÅ¡ slyÅ¡et tajemstvÃ­?}
 {110}{}{Jo!}
 {111}{}{Ne-e.}
-{112}{}{Tenkrát, kdy jsem ještì bìhal, jsem vyhrál nìkolik závodù a vydìlal slušnı peníze.
- Pøed hodnì dávnou dobou jsem celou svou vıhru ukryl nedaleko odsud. Kdy mi nìkdo prokáe jednu, dvì laskavosti, moná mu povím, kde ten "poklad" je.}
-{113}{}{Øíct!}
-{114}{}{Nezajímat.}
+{112}{}{TenkrÃ¡t, kdyÅ¾ jsem jeÅ¡tÄ› bÄ›hal, jsem vyhrÃ¡l nÄ›kolik zÃ¡vodÅ¯ a vydÄ›lal sluÅ¡nÃ½ penÃ­ze.
+ PÅ™ed hodnÄ› dÃ¡vnou dobou jsem celou svou vÃ½hru ukryl nedaleko odsud. KdyÅ¾ mi nÄ›kdo prokÃ¡Å¾e jednu, dvÄ› laskavosti, moÅ¾nÃ¡ mu povÃ­m, kde ten "poklad" je.}
+{113}{}{Å˜Ã­ct!}
+{114}{}{NezajÃ­mat.}
 {115}{}{Co je to za poklad?}
 {116}{}{Jakou laskavost?}
-{117}{}{Chci se ještì na nìco zeptat.}
+{117}{}{Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
 {118}{}{Nashle!}
-{119}{}{Hehe. No dobøe. V tom pøípadì pro tebe nic nemám, take vypadni.}
+{119}{}{Hehe. No dobÅ™e. V tom pÅ™Ã­padÄ› pro tebe nic nemÃ¡m, takÅ¾e vypadni.}
 {120}{}{Nashle.}
-{121}{}{Nejdøív mì musíš prokázat laskavost, dítì.}
-{122}{}{Dobe!}
+{121}{}{NejdÅ™Ã­v mÄ› musÃ­Å¡ prokÃ¡zat laskavost, dÃ­tÄ›.}
+{122}{}{DobÅ¾e!}
 {123}{}{Ne-e!}
 {124}{}{Co to je?}
-{125}{}{Zapomeò na to.}
-{126}{}{U jsem starı mu a nevycházím moc èasto ven, take u nemám moc šanci si uít, jestli mi rozumíš. Take bych chtìl èasopis Koèièí Packa. Pøines mi ho.}
-{127}{}{Na! [Dát Typhonovi Koèièí Packu]}
-{128}{}{Dobe!}
+{125}{}{ZapomeÅˆ na to.}
+{126}{}{UÅ¾ jsem starÃ½ muÅ¾ a nevychÃ¡zÃ­m moc Äasto ven, takÅ¾e uÅ¾ nemÃ¡m moc Å¡anci si uÅ¾Ã­t, jestli mi rozumÃ­Å¡. TakÅ¾e bych chtÄ›l Äasopis KoÄiÄÃ­ Packa. PÅ™ines mi ho.}
+{127}{}{Na! [DÃ¡t Typhonovi KoÄiÄÃ­ Packu]}
+{128}{}{DobÅ¾e!}
 {129}{}{Ne-e!}
-{130}{}{Tady máš. [Dát Typhonovi Koèièí Packu]}
-{131}{}{Tak jo. Ještì se vrátím.}
-{132}{}{Zapomeò na to.}
-{133}{}{Díky za èasák, dítì. Vra se asi tak za hodinu.}
+{130}{}{Tady mÃ¡Å¡. [DÃ¡t Typhonovi KoÄiÄÃ­ Packu]}
+{131}{}{Tak jo. JeÅ¡tÄ› se vrÃ¡tÃ­m.}
+{132}{}{ZapomeÅˆ na to.}
+{133}{}{DÃ­ky za ÄasÃ¡k, dÃ­tÄ›. VraÅ¥ se asi tak za hodinu.}
 {134}{}{Tak jo!}
-{135}{}{Ještì jsem neskonèil, dítì! Copak nemùe mít starej ghoul trochu soukromí?}
+{135}{}{JeÅ¡tÄ› jsem neskonÄil, dÃ­tÄ›! Copak nemÅ¯Å¾e mÃ­t starej ghoul trochu soukromÃ­?}
 {136}{}{[KONEC]}
-{137}{}{Co je to za poklad? Prachy, dítì. Moc moc penìz. Dost na to, aby to uspokojilo kadého.}
-{138}{}{V èem je háèek?}
-{139}{}{Nepotøebuju peníze.}
-{140}{}{U jsi zpátky? Chceš vìdìt, kde je ten poklad, dítì?}
+{137}{}{Co je to za poklad? Prachy, dÃ­tÄ›. Moc moc penÄ›z. Dost na to, aby to uspokojilo kaÅ¾dÃ©ho.}
+{138}{}{V Äem je hÃ¡Äek?}
+{139}{}{NepotÅ™ebuju penÃ­ze.}
+{140}{}{UÅ¾ jsi zpÃ¡tky? ChceÅ¡ vÄ›dÄ›t, kde je ten poklad, dÃ­tÄ›?}
 {141}{}{Jo!}
 {142}{}{Ne-e.}
 {143}{}{Co je to za poklad?}
-{144}{}{Jo, povídej.}
-{145}{}{Nejdøív se chci na nìco zeptat.}
+{144}{}{Jo, povÃ­dej.}
+{145}{}{NejdÅ™Ã­v se chci na nÄ›co zeptat.}
 {146}{}{Ne.}
-{147}{}{Napøíklad?}
-{148}{}{Tohle je Ghoulskı domov dùchodcù?}
-{149}{}{Neslyšel jsi nìkdy o GECKu?}
+{147}{}{NapÅ™Ã­klad?}
+{148}{}{Tohle je GhoulskÃ½ domov dÅ¯chodcÅ¯?}
+{149}{}{NeslyÅ¡el jsi nÄ›kdy o GECKu?}
 {150}{}{Kdo jsi?}
-{151}{}{Mùeš mi øíct ještì nìco zajímavého?}
-{152}{}{Je to takovı vtípek. Tady jsou toti jen staøí ghoulové. Víš, všichni jsme sterilní, ale ijeme u pìknì dlouho. Jsme první a poslední generace ghoulù. Tohle je místo pro ty z nás, kteøí u chtìjí jen odpoèívat.}
-{153}{}{Aha. Mám další otázky.}
-{154}{}{Rozumím. Nashle.}
-{155}{}{Jsem Typhon. U ti nìkdo vyprávìl o Setovi? Kdysi dávno øídil staré mìsto Necropolis. Jsem jeho syn. Narodil jsem se pøed tím, ne nás zasáhla radiace, take jsem zmutoval a pøi dospívání. Nic jinıho u ani neznám.}
-{156}{}{Povìz mi o Setovi.}
-{157}{}{Set? To byl prej pìknej hajzl!}
-{158}{}{Aha. Mám další otázky.}
-{159}{}{Rozumím. Nashle.}
-{160}{}{Jo. Kdysi dávno jsem jeden mìl, ale ti haminí lidi mi ho ukradli, aby si vytvoøili vlastní ráj. Zkus hledat ve Vault City nebo v NCR na jihu, tam by ho mohli mít.}
-{161}{}{Sakra. No, mám ještì nìjaké otázky.}
+{151}{}{MÅ¯Å¾eÅ¡ mi Å™Ã­ct jeÅ¡tÄ› nÄ›co zajÃ­mavÃ©ho?}
+{152}{}{Je to takovÃ½ vtÃ­pek. Tady jsou totiÅ¾ jen staÅ™Ã­ ghoulovÃ©. VÃ­Å¡, vÅ¡ichni jsme sterilnÃ­, ale Å¾ijeme uÅ¾ pÄ›knÄ› dlouho. Jsme prvnÃ­ a poslednÃ­ generace ghoulÅ¯. Tohle je mÃ­sto pro ty z nÃ¡s, kteÅ™Ã­ uÅ¾ chtÄ›jÃ­ jen odpoÄÃ­vat.}
+{153}{}{Aha. MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
+{154}{}{RozumÃ­m. Nashle.}
+{155}{}{Jsem Typhon. UÅ¾ ti nÄ›kdo vyprÃ¡vÄ›l o Setovi? Kdysi dÃ¡vno Å™Ã­dil starÃ© mÄ›sto Necropolis. Jsem jeho syn. Narodil jsem se pÅ™ed tÃ­m, neÅ¾ nÃ¡s zasÃ¡hla radiace, takÅ¾e jsem zmutoval aÅ¾ pÅ™i dospÃ­vÃ¡nÃ­. Nic jinÃ½ho uÅ¾ ani neznÃ¡m.}
+{156}{}{PovÄ›z mi o Setovi.}
+{157}{}{Set? To byl prej pÄ›knej hajzl!}
+{158}{}{Aha. MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
+{159}{}{RozumÃ­m. Nashle.}
+{160}{}{Jo. Kdysi dÃ¡vno jsem jeden mÄ›l, ale ti hamiÅ¾nÃ­ lidi mi ho ukradli, aby si vytvoÅ™ili vlastnÃ­ rÃ¡j. Zkus hledat ve Vault City nebo v NCR na jihu, tam by ho mohli mÃ­t.}
+{161}{}{Sakra. No, mÃ¡m jeÅ¡tÄ› nÄ›jakÃ© otÃ¡zky.}
 {162}{}{Sakra. Nashle.}
-{163}{}{"Pìknej hajzl" je pro nìj docela trefnı pøirovnání. Øeknu ti, i kdy ho radiace zmìnila na ghoula, jeho smysl pro humor a autoritu se skoro nezmìnil. Ale samozøejmì tak trochu pozmìnila ostatní. Myslím, e jsem to mìl trochu lehèí, kdy jsem vyrùstal jako ghoul.}
-{164}{}{Aha. Mám další otázky.}
-{165}{}{Dík. Naskle.}
-{166}{}{Tak co, máš pro mì Koèièí Packu?}
-{167}{}{Jo. [Dát Typhonovi Koèièí Packu]}
+{163}{}{"PÄ›knej hajzl" je pro nÄ›j docela trefnÃ½ pÅ™irovnÃ¡nÃ­. Å˜eknu ti, i kdyÅ¾ ho radiace zmÄ›nila na ghoula, jeho smysl pro humor a autoritu se skoro nezmÄ›nil. Ale samozÅ™ejmÄ› tak trochu pozmÄ›nila ostatnÃ­. MyslÃ­m, Å¾e jsem to mÄ›l trochu lehÄÃ­, kdyÅ¾ jsem vyrÅ¯stal jako ghoul.}
+{164}{}{Aha. MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
+{165}{}{DÃ­k. Naskle.}
+{166}{}{Tak co, mÃ¡Å¡ pro mÄ› KoÄiÄÃ­ Packu?}
+{167}{}{Jo. [DÃ¡t Typhonovi KoÄiÄÃ­ Packu]}
 {168}{}{Ne-e.}
-{169}{}{Jo, tady je. [Dát Typhonovi Koèièí Packu]}
-{170}{}{Ještì ne. Mám další otázky.}
+{169}{}{Jo, tady je. [DÃ¡t Typhonovi KoÄiÄÃ­ Packu]}
+{170}{}{JeÅ¡tÄ› ne. MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
 {171}{}{Ne.}
-{172}{}{No tak si pospìš! Jsem starı ghoul a øíkám ti, e potøebuju odpoèinek! Tak bì, bì, bì!}
+{172}{}{No tak si pospÄ›Å¡! Jsem starÃ½ ghoul a Å™Ã­kÃ¡m ti, Å¾e potÅ™ebuju odpoÄinek! Tak bÄ›Å¾, bÄ›Å¾, bÄ›Å¾!}
 {173}{}{[KONEC]}
-{174}{}{Dítì, ten èasák mi pìknì rozproudil krev v ilách, take myslím, e od tebe budu potøebovat ještì nìco, ne ti øeknu o tom pokladu. Pøines mi nafukovací pannu. Urèitì nìjakou najdeš v New Renu.}
+{174}{}{DÃ­tÄ›, ten ÄasÃ¡k mi pÄ›knÄ› rozproudil krev v Å¾ilÃ¡ch, takÅ¾e myslÃ­m, Å¾e od tebe budu potÅ™ebovat jeÅ¡tÄ› nÄ›co, neÅ¾ ti Å™eknu o tom pokladu. PÅ™ines mi nafukovacÃ­ pannu. UrÄitÄ› nÄ›jakou najdeÅ¡ v New Renu.}
 {175}{}{Tak jo! Naskle!}
 {176}{}{Ne-e!}
-{177}{}{Tady je! [Dát Typhonovi Nafukovací pannu]}
-{178}{}{Tak dobøe. Mám další otázky.}
-{179}{}{Tak dobøe. Nashle.}
-{180}{}{Zapomeò na to.}
-{181}{}{Mám ji u sebe. [Dát Typhonovi Nafukovací pannu]}
-{182}{}{Tak tohle, dítì, bude pøesnì ono. Dej mi pár hodin a pak si promluvíme. Teï jdi. (Slintá pøi pohledu na pannu.)}
+{177}{}{Tady je! [DÃ¡t Typhonovi NafukovacÃ­ pannu]}
+{178}{}{Tak dobÅ™e. MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
+{179}{}{Tak dobÅ™e. Nashle.}
+{180}{}{ZapomeÅˆ na to.}
+{181}{}{MÃ¡m ji u sebe. [DÃ¡t Typhonovi NafukovacÃ­ pannu]}
+{182}{}{Tak tohle, dÃ­tÄ›, bude pÅ™esnÄ› ono. Dej mi pÃ¡r hodin a pak si promluvÃ­me. TeÄ jdi. (SlintÃ¡ pÅ™i pohledu na pannu.)}
 {183}{}{[KONEC]}
-{184}{}{To nemùu mít ani trochu soukromí! Padej! Padej! Vypadni!}
+{184}{}{To nemÅ¯Å¾u mÃ­t ani trochu soukromÃ­! Padej! Padej! Vypadni!}
 {185}{}{[KONEC]}
-{186}{}{Tak u jsem koneènì poøádnì utahanej. Teï mi ještì pøines lahvinku Rot Gutu a promluvíme si o tom pokladu. Barman Phil ti s tím urèitì pomùe.}
+{186}{}{Tak uÅ¾ jsem koneÄnÄ› poÅ™Ã¡dnÄ› utahanej. TeÄ mi jeÅ¡tÄ› pÅ™ines lahvinku Rot Gutu a promluvÃ­me si o tom pokladu. Barman Phil ti s tÃ­m urÄitÄ› pomÅ¯Å¾e.}
 {187}{}{Tak jo! Naskle!}
 {188}{}{Ne!}
-{189}{}{Ty vzít! [Dát Typhonovi Rot Gut]}
-{190}{}{Mám ho. Tady máš. [Dát Typhonovi Rot Gut]}
-{191}{}{Bude to u všechno?}
-{192}{}{Tak dobøe. Nashle.}
-{193}{}{Zapomeò na to.}
-{194}{}{Ještì chci... jednu poslední vìc. Øeknu ti o tom pokladu, kdy mi pøineseš lahvinku Rot Gutu, ano?}
-{195}{}{Fajn. Udìlám to.}
-{196}{}{Zapomeò na to.}
-{197}{}{To je pøesnì ono, dítì. Chtìl jsem tì ještì poádat o nìjakou kytku, ale u ti dám pokoj.}
-{198}{}{Dík moc!}
-{199}{}{Díky. Mám další otázky.}
-{200}{}{Je to trochu nejasné, ale díky. Zatím.}
-{201}{}{U máš ten poklad, dítì?}
+{189}{}{Ty vzÃ­t! [DÃ¡t Typhonovi Rot Gut]}
+{190}{}{MÃ¡m ho. Tady mÃ¡Å¡. [DÃ¡t Typhonovi Rot Gut]}
+{191}{}{Bude to uÅ¾ vÅ¡echno?}
+{192}{}{Tak dobÅ™e. Nashle.}
+{193}{}{ZapomeÅˆ na to.}
+{194}{}{JeÅ¡tÄ› chci... jednu poslednÃ­ vÄ›c. Å˜eknu ti o tom pokladu, kdyÅ¾ mi pÅ™ineseÅ¡ lahvinku Rot Gutu, ano?}
+{195}{}{Fajn. UdÄ›lÃ¡m to.}
+{196}{}{ZapomeÅˆ na to.}
+{197}{}{To je pÅ™esnÄ› ono, dÃ­tÄ›. ChtÄ›l jsem tÄ› jeÅ¡tÄ› poÅ¾Ã¡dat o nÄ›jakou kytku, ale uÅ¾ ti dÃ¡m pokoj.}
+{198}{}{DÃ­k moc!}
+{199}{}{DÃ­ky. MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
+{200}{}{Je to trochu nejasnÃ©, ale dÃ­ky. ZatÃ­m.}
+{201}{}{UÅ¾ mÃ¡Å¡ ten poklad, dÃ­tÄ›?}
 {202}{}{Ne-e.}
-{203}{}{Ještì ne.}
-{204}{}{Ne. Mám další otázky.}
+{203}{}{JeÅ¡tÄ› ne.}
+{204}{}{Ne. MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
 {205}{}{Ne. Nashle.}
-{206}{}{No tak hledej. Jednou ho urèitì najdeš.}
-{207}{}{Dobøe.}
+{206}{}{No tak hledej. Jednou ho urÄitÄ› najdeÅ¡.}
+{207}{}{DobÅ™e.}
 {208}{}{Asi jo. Nashle.}
-{209}{}{Tak co ten poklad, dítì?}
-{210}{}{Špatnı! Zátky!}
-{211}{}{Všechno to byly zátky od lahví! Úplnì bezcenné!}
-{212}{}{Haha. Dobrej vtip. Mám další otázky.}
-{213}{}{Zapomeò na to.}
-{214}{}{Blbı! Naskle.}
-{215}{}{Copak dneska u se zátkama neplatí? Chceš øíct, e všechno to hromadìní, schovávání a strachování se, e mi to nìkdo ukradne, bylo k nièemu? Zatracenì! Promiò, e ses kvùli tomu tak nalítal. Kdybych to tak vìdìl...}
-{216}{}{To v pohodì. Naskle!}
-{217}{}{Jo, to byla tvoje poslední chyba, dìdku. Èas chcípnout.}
-{218}{}{To se mùe stát kadému. Mám další otázky.}
+{209}{}{Tak co ten poklad, dÃ­tÄ›?}
+{210}{}{Å patnÃ½! ZÃ¡tky!}
+{211}{}{VÅ¡echno to byly zÃ¡tky od lahvÃ­! ÃšplnÄ› bezcennÃ©!}
+{212}{}{Haha. Dobrej vtip. MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
+{213}{}{ZapomeÅˆ na to.}
+{214}{}{BlbÃ½! Naskle.}
+{215}{}{Copak dneska uÅ¾ se zÃ¡tkama neplatÃ­? ChceÅ¡ Å™Ã­ct, Å¾e vÅ¡echno to hromadÄ›nÃ­, schovÃ¡vÃ¡nÃ­ a strachovÃ¡nÃ­ se, Å¾e mi to nÄ›kdo ukradne, bylo k niÄemu? ZatracenÄ›! PromiÅˆ, Å¾e ses kvÅ¯li tomu tak nalÃ­tal. Kdybych to tak vÄ›dÄ›l...}
+{216}{}{To v pohodÄ›. Naskle!}
+{217}{}{Jo, to byla tvoje poslednÃ­ chyba, dÄ›dku. ÄŒas chcÃ­pnout.}
+{218}{}{To se mÅ¯Å¾e stÃ¡t kaÅ¾dÃ©mu. MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
 {219}{}{Jo jo, tak jo. Nashle.}
-{220}{}{Chybama se èlovìk uèí. Nashle.}
-{221}{}{Dobe. Gde prachyyy?}
-{222}{}{Páni, Typhone, to je od tebe tak milé. Take kde jsou ty prachy?}
-{223}{}{Tak dobøe. Vzpomínám si, e jsem ty prachy schoval nìkde v Centru, ale u je to hodnì let a budovy se neustále pøestavovaly, take si to pøesnì nevybavuju. Pokud ti to trochu pomùe, tak si vzpomínám, e jsem to dal nìkam, kde nehrozí ádnı zboøení nebo zøícení. Moná na nìjakém nepostradatelném místì. Pøeju hodnì štìstí.}
-{224}{}{Koneènì z Typhona vypadlo nìco o lokaci jeho skrytého bohatství.}
-{300}{}{Ale Hegelova dialektika se nepovauje za...}
-{301}{}{Hegel, Hegel, Hegel! Poøád jen samı Hegel!}
-{302}{}{A pak ta enská øekla, "To ale není králík, otèe!"}
+{220}{}{Chybama se ÄlovÄ›k uÄÃ­. Nashle.}
+{221}{}{DobÅ¾e. Gde prachyyy?}
+{222}{}{PÃ¡ni, Typhone, to je od tebe tak milÃ©. TakÅ¾e kde jsou ty prachy?}
+{223}{}{Tak dobÅ™e. VzpomÃ­nÃ¡m si, Å¾e jsem ty prachy schoval nÄ›kde v Centru, ale uÅ¾ je to hodnÄ› let a budovy se neustÃ¡le pÅ™estavovaly, takÅ¾e si to pÅ™esnÄ› nevybavuju. Pokud ti to trochu pomÅ¯Å¾e, tak si vzpomÃ­nÃ¡m, Å¾e jsem to dal nÄ›kam, kde nehrozÃ­ Å¾Ã¡dnÃ½ zboÅ™enÃ­ nebo zÅ™Ã­cenÃ­. MoÅ¾nÃ¡ na nÄ›jakÃ©m nepostradatelnÃ©m mÃ­stÄ›. PÅ™eju hodnÄ› Å¡tÄ›stÃ­.}
+{224}{}{KoneÄnÄ› z Typhona vypadlo nÄ›co o lokaci jeho skrytÃ©ho bohatstvÃ­.}
+{300}{}{Ale Hegelova dialektika se nepovaÅ¾uje za...}
+{301}{}{Hegel, Hegel, Hegel! PoÅ™Ã¡d jen samÃ½ Hegel!}
+{302}{}{A pak ta Å¾enskÃ¡ Å™ekla, "To ale nenÃ­ krÃ¡lÃ­k, otÄe!"}
 {303}{}{Hahahaha!}
-{304}{}{A první proton øekne, "Jo, já jsem pozitivní!"}
-{305}{}{(vzdech) Je to špatnı, u chøadnu.}
-{306}{}{Není jednoduché bıt zelená.}
-{307}{}{To mi povídejte.}
-{308}{}{Ale je naprosto zøejmé, e je tohle filosofickı konec!}
-{309}{}{To proto, e jsi nezváil všechny moné následky. Teï, kdy dovolíš...}
-{310}{}{Chceš nìjaké ovoce?}
-{311}{}{Nakrm mì, Seymoure.}
-{312}{}{Mozky... moozkyyyyy... promiò, starı zvyk.}
-{313}{}{To je v pohodì. Stejnì ádnı nemám, víš?}
-{314}{}{No, hnojivo je rozhodnì dobré, ale není nic lepšího ne hnijící hromada mrtvol jako kompost.}
-{315}{}{Tak proto ses sem chtìla pøestìhovat! Máš snadnı iviny.}
-{316}{}{Øeknu ti, není nic lepšího ne poøádnı rychlı bìh.}
-{317}{}{To opravdu cítíš, jak ti vítr èechrá vlasy?}
-{318}{}{U jsem nebyla opylena celé roky!}
-{319}{}{Pøedstav si bıt uvìznìnı v TOMHLE tìle! ádná akce! Vùbec ádná akce!}
-{320}{}{Moná, kdybys dala šanci fotosyntéze...}
-{321}{}{Já nemùu za svoje evoluèní koøeny, ty zelenej bastarde!}
-{322}{}{No fuj! Doufám, e umíš pøemìnit metan!}
-{323}{}{Moje listy! Moje ubohé listy! Áááááá!}
-{324}{}{Mám tohle místo ráda. Myslím, e tu zakoøením.}
-{325}{}{Tak u dost s tìma vtípkama o rostlinách, kámo.}
-{326}{}{Zajímalo by mì, jak se mají moje sestøenky v Arroyu. Doufám, e rozkvétají.}
-{327}{}{Ale to víš e jo! Pokud je nìjakej hajzl všechny nezlikvidoval.}
-{328}{}{No, myslím, e pùjdu otevøít dveøe nebo tak nìco...}
-{329}{}{Zaèínám lidem závidìt palce.}
-{330}{}{Ne e bych odsud chtìla odcupitat...}
-{331}{}{Áááááááááááá! U ádné fóry s kytkama!}
-{332}{}{Podívej, jakı mají ta stébla zrna! Pane jo!}
-{333}{}{Uklidni se! Myslím, e to tvoje vakuoly nevydrí.}
-{334}{}{Chceš, abych ti pøeèetl pohádku?}
-{335}{}{Co tøeba O karkulce? O tøech prasátkách? Honzíkova cesta?}
-{336}{}{GECK? Ano, byl tady chlap, kterı...}
-{337}{}{Pššst! Pšš! Nìkdo nás odposlouchává!}
-{338}{}{Víš, takovı je kolobìh ivota... ivot poírá ivot, kterı poírá další ivot...}
-{339}{}{E-he. Ale TY pøesto ereš hnojivo. Ach jo... filosofie rostlin...}
-{340}{}{Mùu si nìkdy pohrát s tvojí energo zbrojí?}
-{341}{}{Myslíš ten starı oblek, co mám ve skøíni? Kyš kyš...}
-{342}{}{Jo, fušovala jsem do mnoho-vèelství.}
-{343}{}{Ne e by na tom bylo nìco ŠPATNÉHO.}
+{304}{}{A prvnÃ­ proton Å™ekne, "Jo, jÃ¡ jsem pozitivnÃ­!"}
+{305}{}{(vzdech) Je to Å¡patnÃ½, uÅ¾ chÅ™adnu.}
+{306}{}{NenÃ­ jednoduchÃ© bÃ½t zelenÃ¡.}
+{307}{}{To mi povÃ­dejte.}
+{308}{}{Ale je naprosto zÅ™ejmÃ©, Å¾e je tohle filosofickÃ½ konec!}
+{309}{}{To proto, Å¾e jsi nezvÃ¡Å¾il vÅ¡echny moÅ¾nÃ© nÃ¡sledky. TeÄ, kdyÅ¾ dovolÃ­Å¡...}
+{310}{}{ChceÅ¡ nÄ›jakÃ© ovoce?}
+{311}{}{Nakrm mÄ›, Seymoure.}
+{312}{}{Mozky... moozkyyyyy... promiÅˆ, starÃ½ zvyk.}
+{313}{}{To je v pohodÄ›. StejnÄ› Å¾Ã¡dnÃ½ nemÃ¡m, vÃ­Å¡?}
+{314}{}{No, hnojivo je rozhodnÄ› dobrÃ©, ale nenÃ­ nic lepÅ¡Ã­ho neÅ¾ hnijÃ­cÃ­ hromada mrtvol jako kompost.}
+{315}{}{Tak proto ses sem chtÄ›la pÅ™estÄ›hovat! MÃ¡Å¡ snadnÃ½ Å¾iviny.}
+{316}{}{Å˜eknu ti, nenÃ­ nic lepÅ¡Ã­ho neÅ¾ poÅ™Ã¡dnÃ½ rychlÃ½ bÄ›h.}
+{317}{}{To opravdu cÃ­tÃ­Å¡, jak ti vÃ­tr ÄechrÃ¡ vlasy?}
+{318}{}{UÅ¾ jsem nebyla opylena celÃ© roky!}
+{319}{}{PÅ™edstav si bÃ½t uvÄ›znÄ›nÃ½ v TOMHLE tÄ›le! Å½Ã¡dnÃ¡ akce! VÅ¯bec Å¾Ã¡dnÃ¡ akce!}
+{320}{}{MoÅ¾nÃ¡, kdybys dala Å¡anci fotosyntÃ©ze...}
+{321}{}{JÃ¡ nemÅ¯Å¾u za svoje evoluÄnÃ­ koÅ™eny, ty zelenej bastarde!}
+{322}{}{No fuj! DoufÃ¡m, Å¾e umÃ­Å¡ pÅ™emÄ›nit metan!}
+{323}{}{Moje listy! Moje ubohÃ© listy! ÃÃ¡Ã¡Ã¡Ã¡Ã¡!}
+{324}{}{MÃ¡m tohle mÃ­sto rÃ¡da. MyslÃ­m, Å¾e tu zakoÅ™enÃ­m.}
+{325}{}{Tak uÅ¾ dost s tÄ›ma vtÃ­pkama o rostlinÃ¡ch, kÃ¡mo.}
+{326}{}{ZajÃ­malo by mÄ›, jak se majÃ­ moje sestÅ™enky v Arroyu. DoufÃ¡m, Å¾e rozkvÃ©tajÃ­.}
+{327}{}{Ale to vÃ­Å¡ Å¾e jo! Pokud je nÄ›jakej hajzl vÅ¡echny nezlikvidoval.}
+{328}{}{No, myslÃ­m, Å¾e pÅ¯jdu otevÅ™Ã­t dveÅ™e nebo tak nÄ›co...}
+{329}{}{ZaÄÃ­nÃ¡m lidem zÃ¡vidÄ›t palce.}
+{330}{}{Ne Å¾e bych odsud chtÄ›la odcupitat...}
+{331}{}{ÃÃ¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡! UÅ¾ Å¾Ã¡dnÃ© fÃ³ry s kytkama!}
+{332}{}{PodÃ­vej, jakÃ½ majÃ­ ta stÃ©bla zrna! Pane jo!}
+{333}{}{Uklidni se! MyslÃ­m, Å¾e to tvoje vakuoly nevydrÅ¾Ã­.}
+{334}{}{ChceÅ¡, abych ti pÅ™eÄetl pohÃ¡dku?}
+{335}{}{Co tÅ™eba O karkulce? O tÅ™ech prasÃ¡tkÃ¡ch? HonzÃ­kova cesta?}
+{336}{}{GECK? Ano, byl tady chlap, kterÃ½...}
+{337}{}{PÅ¡Å¡st! PÅ¡Å¡! NÄ›kdo nÃ¡s odposlouchÃ¡vÃ¡!}
+{338}{}{VÃ­Å¡, takovÃ½ je kolobÄ›h Å¾ivota... Å¾ivot poÅ¾Ã­rÃ¡ Å¾ivot, kterÃ½ poÅ¾Ã­rÃ¡ dalÅ¡Ã­ Å¾ivot...}
+{339}{}{E-he. Ale TY pÅ™esto Å¾ereÅ¡ hnojivo. Ach jo... filosofie rostlin...}
+{340}{}{MÅ¯Å¾u si nÄ›kdy pohrÃ¡t s tvojÃ­ energo zbrojÃ­?}
+{341}{}{MyslÃ­Å¡ ten starÃ½ oblek, co mÃ¡m ve skÅ™Ã­ni? KyÅ¡ kyÅ¡...}
+{342}{}{Jo, fuÅ¡ovala jsem do mnoho-vÄelstvÃ­.}
+{343}{}{Ne Å¾e by na tom bylo nÄ›co Å PATNÃ‰HO.}

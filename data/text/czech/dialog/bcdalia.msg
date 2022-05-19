@@ -1,59 +1,59 @@
-{100}{}{Vidíš mladou enu v rozedranıch šatech.}
-{101}{}{Vidíš Daliu.}
-{102}{}{Vidíš mladou enu v rozedranıch šatech. Vypadá vyplašenì a obezøetnì se rozhlíí kolem.}
-{103}{}{Ahoj. Já jsem Dalia. S èím ti mùu pomoct?}
-{104}{}{S nièím, jen tì zdravím.}
+{100}{}{VidÃ­Å¡ mladou Å¾enu v rozedranÃ½ch Å¡atech.}
+{101}{}{VidÃ­Å¡ Daliu.}
+{102}{}{VidÃ­Å¡ mladou Å¾enu v rozedranÃ½ch Å¡atech. VypadÃ¡ vyplaÅ¡enÄ› a obezÅ™etnÄ› se rozhlÃ­Å¾Ã­ kolem.}
+{103}{}{Ahoj. JÃ¡ jsem Dalia. S ÄÃ­m ti mÅ¯Å¾u pomoct?}
+{104}{}{S niÄÃ­m, jen tÄ› zdravÃ­m.}
 {105}{}{Eh, kdo jsi?}
-{106}{}{Co ty tady dìlat?}
-{107}{}{Vypadáš jako nìjaká strá.}
-{108}{}{Já teï jít.}
-{109}{}{Jen jsem tì chtìl pozdravit.}
+{106}{}{Co ty tady dÄ›lat?}
+{107}{}{VypadÃ¡Å¡ jako nÄ›jakÃ¡ strÃ¡Å¾.}
+{108}{}{JÃ¡ teÄ jÃ­t.}
+{109}{}{Jen jsem tÄ› chtÄ›l pozdravit.}
 {110}{}{Kdo jsi?}
-{111}{}{Co tu dìláš?}
-{112}{}{Vypadáš jako bys hlídala tuhle cestu.}
-{113}{}{U pùjdu.}
-{114}{}{I já tì zdravím. Promiò, ale radìji bì pryè.}
-{115}{}{Vyvolenı chtít mluvit.}
-{116}{}{Dobøe, já jít.}
+{111}{}{Co tu dÄ›lÃ¡Å¡?}
+{112}{}{VypadÃ¡Å¡ jako bys hlÃ­dala tuhle cestu.}
+{113}{}{UÅ¾ pÅ¯jdu.}
+{114}{}{I jÃ¡ tÄ› zdravÃ­m. PromiÅˆ, ale radÄ›ji bÄ›Å¾ pryÄ.}
+{115}{}{VyvolenÃ½ chtÃ­t mluvit.}
+{116}{}{DobÅ™e, jÃ¡ jÃ­t.}
 {117}{}{Chci si s tebou promluvit.}
 {118}{}{Nashle.}
-{119}{}{Jak u jsem øekla, jmenuju se Dalia. Podívej se, nechci bıt nezdvoøilá, ale nechci teï s nikım mluvit. Ano?}
-{120}{}{Dobøe, nashle.}
-{121}{}{Jen ještì nìco.}
-{122}{}{Tak tì teda opustím.}
-{123}{}{Chci se tì jen na nìco zeptat.}
-{124}{}{Mám ráda èerstvı vzduch a stromy, tak tady stojím. Máš snad nìco proti tomu?}
-{125}{}{Promiò, já jít.}
-{126}{}{Ne, nemít. Nìco se zeptat.}
-{127}{}{Ne nemám, ale nìco mì zajímá.}
-{128}{}{Promiò, tak já u pùjdu.}
-{129}{}{Ne, samozøejmì, e nehlídám tuhle cestu. V téhle díøe ani není co hlídat. Øekla jsem ti, e mám prostì ráda èerstvı vzduch. A teï u bì.}
-{130}{}{Ty hezky mluvit. Øíkat víc.}
-{131}{}{Omluvit e já obtìovat ty. Odcházet.}
-{132}{}{Ale kdy si tu tak hezky a nezávaznì konverzujeme, tak proè konèit?}
-{133}{}{Myslím, e je èas odejít.}
-{134}{}{Boe ne, u zase ty? Podívej, nemám ti co øíct. Zmiz!}
+{119}{}{Jak uÅ¾ jsem Å™ekla, jmenuju se Dalia. PodÃ­vej se, nechci bÃ½t nezdvoÅ™ilÃ¡, ale nechci teÄ s nikÃ½m mluvit. Ano?}
+{120}{}{DobÅ™e, nashle.}
+{121}{}{Jen jeÅ¡tÄ› nÄ›co.}
+{122}{}{Tak tÄ› teda opustÃ­m.}
+{123}{}{Chci se tÄ› jen na nÄ›co zeptat.}
+{124}{}{MÃ¡m rÃ¡da ÄerstvÃ½ vzduch a stromy, tak tady stojÃ­m. MÃ¡Å¡ snad nÄ›co proti tomu?}
+{125}{}{PromiÅˆ, jÃ¡ jÃ­t.}
+{126}{}{Ne, nemÃ­t. NÄ›co se zeptat.}
+{127}{}{Ne nemÃ¡m, ale nÄ›co mÄ› zajÃ­mÃ¡.}
+{128}{}{PromiÅˆ, tak jÃ¡ uÅ¾ pÅ¯jdu.}
+{129}{}{Ne, samozÅ™ejmÄ›, Å¾e nehlÃ­dÃ¡m tuhle cestu. V tÃ©hle dÃ­Å™e ani nenÃ­ co hlÃ­dat. Å˜ekla jsem ti, Å¾e mÃ¡m prostÄ› rÃ¡da ÄerstvÃ½ vzduch. A teÄ uÅ¾ bÄ›Å¾.}
+{130}{}{Ty hezky mluvit. Å˜Ã­kat vÃ­c.}
+{131}{}{Omluvit Å¾e jÃ¡ obtÄ›Å¾ovat ty. OdchÃ¡zet.}
+{132}{}{Ale kdyÅ¾ si tu tak hezky a nezÃ¡vaznÄ› konverzujeme, tak proÄ konÄit?}
+{133}{}{MyslÃ­m, Å¾e je Äas odejÃ­t.}
+{134}{}{BoÅ¾e ne, uÅ¾ zase ty? PodÃ­vej, nemÃ¡m ti co Å™Ã­ct. Zmiz!}
 {135}{}{}
 {136}{}{}
-{137}{}{Nechci se s tebou hádat. Nech mì na pokoji.}
+{137}{}{Nechci se s tebou hÃ¡dat. Nech mÄ› na pokoji.}
 {138}{}{}
 {139}{}{}
-{140}{}{Ahoj. Já jsem Dalia. S èím ti mùu pomoct?}
-{141}{}{Èlovìk jít tudy? Spìchat?}
+{140}{}{Ahoj. JÃ¡ jsem Dalia. S ÄÃ­m ti mÅ¯Å¾u pomoct?}
+{141}{}{ÄŒlovÄ›k jÃ­t tudy? SpÄ›chat?}
 {142}{}{No nic.}
 {143}{}{No nic.}
-{144}{}{Nevidìla jsi tudy nìkoho utíkat?}
-{145}{}{Tudy poøád nìkdo prochází. Nezajímám se o nì.}
-{146}{}{Nemít èas na tvoje kecy.}
-{147}{}{Aha, dobøe.}
-{148}{}{Holka bıt v nebezpeèí. Mladá holka. Nìèí céra. Ty pomoct, prosím?}
-{149}{}{Na takovı kecy nemám èas.}
+{144}{}{NevidÄ›la jsi tudy nÄ›koho utÃ­kat?}
+{145}{}{Tudy poÅ™Ã¡d nÄ›kdo prochÃ¡zÃ­. NezajÃ­mÃ¡m se o nÄ›.}
+{146}{}{NemÃ­t Äas na tvoje kecy.}
+{147}{}{Aha, dobÅ™e.}
+{148}{}{Holka bÃ½t v nebezpeÄÃ­. MladÃ¡ holka. NÄ›ÄÃ­ cÃ©ra. Ty pomoct, prosÃ­m?}
+{149}{}{Na takovÃ½ kecy nemÃ¡m Äas.}
 {150}{}{Tak fajn. Sbohem.}
-{151}{}{Podívej, jde o ivot mladého dìvèete. Její matka se o ni bojí. Pomùeš mi?}
-{152}{}{To je mi u pr... promiò. Jsem jenom stráce téhle cesty. Nevím, o co tu jde. Já... taky jsem kdysi mìla dceru a... ano, nìjakı mu tudy prošel. Nechala jsem ho projít, protoe znal heslo. Hmm, ale ty to heslo znáš taky. Bì dál. Já pùjdu pryè.}
-{153}{}{Díky. Já nezapomenout na to, Dalia.}
-{154}{}{Díky. Nezapomenu ti to, Dalio.}
-{155}{}{Tak táhni k èertu a nech mì na pokoji!}
+{151}{}{PodÃ­vej, jde o Å¾ivot mladÃ©ho dÄ›vÄete. JejÃ­ matka se o ni bojÃ­. PomÅ¯Å¾eÅ¡ mi?}
+{152}{}{To je mi u pr... promiÅˆ. Jsem jenom strÃ¡Å¾ce tÃ©hle cesty. NevÃ­m, o co tu jde. JÃ¡... taky jsem kdysi mÄ›la dceru a... ano, nÄ›jakÃ½ muÅ¾ tudy proÅ¡el. Nechala jsem ho projÃ­t, protoÅ¾e znal heslo. Hmm, ale ty to heslo znÃ¡Å¡ taky. BÄ›Å¾ dÃ¡l. JÃ¡ pÅ¯jdu pryÄ.}
+{153}{}{DÃ­ky. JÃ¡ nezapomenout na to, Dalia.}
+{154}{}{DÃ­ky. Nezapomenu ti to, Dalio.}
+{155}{}{Tak tÃ¡hni k Äertu a nech mÄ› na pokoji!}
 {156}{}{Beru.}
-{157}{}{Tak táhni k èertu a nech mì na pokoji!}
+{157}{}{Tak tÃ¡hni k Äertu a nech mÄ› na pokoji!}
 {158}{}{Beru.}

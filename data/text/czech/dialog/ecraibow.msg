@@ -1,20 +1,20 @@
-{100}{}{Teplouši jsou hrdí!}
-{101}{}{Pryè s heterosexuály!}
-{102}{}{Vetøelci nejsou vítáni!}
-{103}{}{Jsem pyšná na to, e jsem lesbièka!}
-{104}{}{Dívèí síla!}
-{105}{}{Nepotøebujeme chlapy!}
-{106}{}{Spoleèenství Duhy bude ít dál.}
-{107}{}{Vra se do Love Shacku.}
-{108}{}{Jednou to pøekonáme!}
-{109}{}{Vítej ve Spoleèenství Duhy.}
-{110}{}{Takoví jako ty jsou u nás vítáni.}
-{111}{}{Jsi jedním z nás.}
-{112}{}{Kolonizátoøi.}
-{113}{}{Osadník.}
-{114}{}{Homouši.}
-{115}{}{Buzíku.}
-{116}{}{Teplouši.}
+{100}{}{TeplouÅ¡i jsou hrdÃ­!}
+{101}{}{PryÄ s heterosexuÃ¡ly!}
+{102}{}{VetÅ™elci nejsou vÃ­tÃ¡ni!}
+{103}{}{Jsem pyÅ¡nÃ¡ na to, Å¾e jsem lesbiÄka!}
+{104}{}{DÃ­vÄÃ­ sÃ­la!}
+{105}{}{NepotÅ™ebujeme chlapy!}
+{106}{}{SpoleÄenstvÃ­ Duhy bude Å¾Ã­t dÃ¡l.}
+{107}{}{VraÅ¥ se do Love Shacku.}
+{108}{}{Jednou to pÅ™ekonÃ¡me!}
+{109}{}{VÃ­tej ve SpoleÄenstvÃ­ Duhy.}
+{110}{}{TakovÃ­ jako ty jsou u nÃ¡s vÃ­tÃ¡ni.}
+{111}{}{Jsi jednÃ­m z nÃ¡s.}
+{112}{}{KolonizÃ¡toÅ™i.}
+{113}{}{OsadnÃ­k.}
+{114}{}{HomouÅ¡i.}
+{115}{}{BuzÃ­ku.}
+{116}{}{TeplouÅ¡i.}
 {117}{}{Lesbo.}
 {118}{}{Lesbo.}
-{119}{}{Vypadá, e to je }
+{119}{}{VypadÃ¡, Å¾e to je }

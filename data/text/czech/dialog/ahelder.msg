@@ -1,119 +1,119 @@
-{100}{}{Vidíš Starší, vùdkyni tvé vesnice.}
-{101}{}{Tohle je Starší.}
-{102}{}{Starší je opravdu stará... starší ne kdokoliv jinı z celé vesnice. I pøesto má v sobì stále dost síly a energie na to, aby dokázala vést vesnici i v této tìké dobì.}
-{103}{aeld1}{Blahopøeji, Vyvolenı. Máš za sebou cestu Chrámem Zkoušek. Chceš tedy znát svùj úkol?}
-{104}{}{Co to mìlo znamenat? Chtìli jste mì v tom chrámu zabít?}
-{105}{}{Samozøejmì.}
-{106}{}{Musím si to ještì promyslet.}
-{107}{aeld2a}{Jsem na tebe pyšná, Vyvolenı. Jen odvání dokáou pøekroèit svùj vlastní stín. A teï k vìci. Musíš najít Vault 13. Vault 13. Pøines nám GECK. GECK. Tady máš blıskavou láhev. Dal nám ji Vic. Vic. Je to obchodník z Klamathu. Klamath. Jdi za Vicem. Najdi Vault 13. Najdi GECK. Pøines ho sem. Sna se, dítì.}
-{112}{aeld2b}{Musíš najít Vault. Najít Vault! Vault 13.}
+{100}{}{VidÃ­Å¡ StarÅ¡Ã­, vÅ¯dkyni tvÃ© vesnice.}
+{101}{}{Tohle je StarÅ¡Ã­.}
+{102}{}{StarÅ¡Ã­ je opravdu starÃ¡... starÅ¡Ã­ neÅ¾ kdokoliv jinÃ½ z celÃ© vesnice. I pÅ™esto mÃ¡ v sobÄ› stÃ¡le dost sÃ­ly a energie na to, aby dokÃ¡zala vÃ©st vesnici i v tÃ©to tÄ›Å¾kÃ© dobÄ›.}
+{103}{aeld1}{BlahopÅ™eji, VyvolenÃ½. MÃ¡Å¡ za sebou cestu ChrÃ¡mem ZkouÅ¡ek. ChceÅ¡ tedy znÃ¡t svÅ¯j Ãºkol?}
+{104}{}{Co to mÄ›lo znamenat? ChtÄ›li jste mÄ› v tom chrÃ¡mu zabÃ­t?}
+{105}{}{SamozÅ™ejmÄ›.}
+{106}{}{MusÃ­m si to jeÅ¡tÄ› promyslet.}
+{107}{aeld2a}{Jsem na tebe pyÅ¡nÃ¡, VyvolenÃ½. Jen odvÃ¡Å¾nÃ­ dokÃ¡Å¾ou pÅ™ekroÄit svÅ¯j vlastnÃ­ stÃ­n. A teÄ k vÄ›ci. MusÃ­Å¡ najÃ­t Vault 13. Vault 13. PÅ™ines nÃ¡m GECK. GECK. Tady mÃ¡Å¡ blÃ½skavou lÃ¡hev. Dal nÃ¡m ji Vic. Vic. Je to obchodnÃ­k z Klamathu. Klamath. Jdi za Vicem. Najdi Vault 13. Najdi GECK. PÅ™ines ho sem. SnaÅ¾ se, dÃ­tÄ›.}
+{112}{aeld2b}{MusÃ­Å¡ najÃ­t Vault. NajÃ­t Vault! Vault 13.}
 {113}{}{Eh.}
-{114}{aeld3}{Vyvolenı, chceš snad, abychom všichni zemøeli? Musíš najít ten Vault!}
-{115}{}{Omlouvám se, Starší. Nezklamu vás.}
-{116}{}{No jo, no jo. Pøestaò na mì køièet.}
-{117}{aeld4}{Proè jsi tu, Vyvolenı?}
-{118}{}{U vím, kde leí Vault 13!}
-{119}{}{Chci se vydat na tu svatou pou.}
-{120}{}{Potøebuju ještì nìjaké informace.}
-{121}{}{Nechci se nechat zabít!}
-{122}{}{Co e to mám udìlat?}
-{123}{}{U odcházím.}
-{124}{aeld5}{To je dobrá zpráva, ale to nás nezachrání. Musíš nám rychle pøinést GECK, nebo celá naše vesnice vymøe!}
-{125}{}{Potøebuju ještì nìjaké informace.}
-{126}{}{Fajn, u jdu.}
-{127}{aeld6}{Podaøilo se ti pøeít. Vyvolenı nesmí bıt slabı, jinak jsme všichni odsouzeni k záhubì. Chceš se tedy vydat na cestu?}
-{128}{}{Co mì nezabije, to mì posílí. Pøipravenìjší na cestu u ani bıt nemùu.}
-{129}{}{Musím si to rozmyslet.}
-{130}{}{Nechci se nechat zabít!}
-{131}{aeld7}{Dobøe mì tedy poslouchej. Musíš najít posvátnı Vault 13 a pøinést nám GECK. Obchodník z Klamathu jménem Vic nám nedávno pøinesl láhev se symbolem svaté Tøináctky. Radím ti tedy zaèít tvé hledání právì u nìj. Ten pøístroj, kterı máš na ruce, ti bude pøipomínat tvùj úkol. Nech tì provází pøízeò bohù.}
-{133}{}{Ještì ne pùjdu, chci ti poloit pár otázek.}
-{134}{}{Sbohem. Slibuju, e svùj kmen nezklamu.}
-{135}{aeld8}{Dobrá. Navštiv mì tedy, a se rozhodneš... ale nepøemıšlej pøíliš dlouho.}
+{114}{aeld3}{VyvolenÃ½, chceÅ¡ snad, abychom vÅ¡ichni zemÅ™eli? MusÃ­Å¡ najÃ­t ten Vault!}
+{115}{}{OmlouvÃ¡m se, StarÅ¡Ã­. Nezklamu vÃ¡s.}
+{116}{}{No jo, no jo. PÅ™estaÅˆ na mÄ› kÅ™iÄet.}
+{117}{aeld4}{ProÄ jsi tu, VyvolenÃ½?}
+{118}{}{UÅ¾ vÃ­m, kde leÅ¾Ã­ Vault 13!}
+{119}{}{Chci se vydat na tu svatou pouÅ¥.}
+{120}{}{PotÅ™ebuju jeÅ¡tÄ› nÄ›jakÃ© informace.}
+{121}{}{Nechci se nechat zabÃ­t!}
+{122}{}{Co Å¾e to mÃ¡m udÄ›lat?}
+{123}{}{UÅ¾ odchÃ¡zÃ­m.}
+{124}{aeld5}{To je dobrÃ¡ zprÃ¡va, ale to nÃ¡s nezachrÃ¡nÃ­. MusÃ­Å¡ nÃ¡m rychle pÅ™inÃ©st GECK, nebo celÃ¡ naÅ¡e vesnice vymÅ™e!}
+{125}{}{PotÅ™ebuju jeÅ¡tÄ› nÄ›jakÃ© informace.}
+{126}{}{Fajn, uÅ¾ jdu.}
+{127}{aeld6}{PodaÅ™ilo se ti pÅ™eÅ¾Ã­t. VyvolenÃ½ nesmÃ­ bÃ½t slabÃ½, jinak jsme vÅ¡ichni odsouzeni k zÃ¡hubÄ›. ChceÅ¡ se tedy vydat na cestu?}
+{128}{}{Co mÄ› nezabije, to mÄ› posÃ­lÃ­. PÅ™ipravenÄ›jÅ¡Ã­ na cestu uÅ¾ ani bÃ½t nemÅ¯Å¾u.}
+{129}{}{MusÃ­m si to rozmyslet.}
+{130}{}{Nechci se nechat zabÃ­t!}
+{131}{aeld7}{DobÅ™e mÄ› tedy poslouchej. MusÃ­Å¡ najÃ­t posvÃ¡tnÃ½ Vault 13 a pÅ™inÃ©st nÃ¡m GECK. ObchodnÃ­k z Klamathu jmÃ©nem Vic nÃ¡m nedÃ¡vno pÅ™inesl lÃ¡hev se symbolem svatÃ© TÅ™inÃ¡ctky. RadÃ­m ti tedy zaÄÃ­t tvÃ© hledÃ¡nÃ­ prÃ¡vÄ› u nÄ›j. Ten pÅ™Ã­stroj, kterÃ½ mÃ¡Å¡ na ruce, ti bude pÅ™ipomÃ­nat tvÅ¯j Ãºkol. NechÅ¥ tÄ› provÃ¡zÃ­ pÅ™Ã­zeÅˆ bohÅ¯.}
+{133}{}{JeÅ¡tÄ› neÅ¾ pÅ¯jdu, chci ti poloÅ¾it pÃ¡r otÃ¡zek.}
+{134}{}{Sbohem. Slibuju, Å¾e svÅ¯j kmen nezklamu.}
+{135}{aeld8}{DobrÃ¡. NavÅ¡tiv mÄ› tedy, aÅ¾ se rozhodneÅ¡... ale nepÅ™emÃ½Å¡lej pÅ™Ã­liÅ¡ dlouho.}
 {136}{}{Sbohem.}
-{137}{aeld9}{Bohuel ti asi moc nepomohu. Mnoho vìdomostí se nenávratnì ztratilo v propasti èasu. Jakou informaci hledáš?}
-{138}{aeld9b}{Co potøebuješ?}
-{139}{}{Povìz mi víc o GECKu.}
+{137}{aeld9}{BohuÅ¾el ti asi moc nepomohu. Mnoho vÄ›domostÃ­ se nenÃ¡vratnÄ› ztratilo v propasti Äasu. Jakou informaci hledÃ¡Å¡?}
+{138}{aeld9b}{Co potÅ™ebujeÅ¡?}
+{139}{}{PovÄ›z mi vÃ­c o GECKu.}
 {140}{}{Kudy se dostanu do Klamathu?}
-{141}{}{Kde leí Vault 13?}
-{142}{}{Kdy tak nad tím pøemıšlím, myslím, e u ádnou pomoc nepotøebuju. Sbohem.}
-{143}{aeld10}{Je to posvátná relikvie - "Souprava k vytvoøení rajské zahrady". Staré disky øíkají, e promìní tuto krajinu v zeleò a naše vesnice bude opìt prosperovat. Zachrání nás to. To je vše, co vím.}
-{144}{}{Chci vìdìt ještì nìco.}
+{141}{}{Kde leÅ¾Ã­ Vault 13?}
+{142}{}{KdyÅ¾ tak nad tÃ­m pÅ™emÃ½Å¡lÃ­m, myslÃ­m, Å¾e uÅ¾ Å¾Ã¡dnou pomoc nepotÅ™ebuju. Sbohem.}
+{143}{aeld10}{Je to posvÃ¡tnÃ¡ relikvie - "Souprava k vytvoÅ™enÃ­ rajskÃ© zahrady". StarÃ© disky Å™Ã­kajÃ­, Å¾e promÄ›nÃ­ tuto krajinu v zeleÅˆ a naÅ¡e vesnice bude opÄ›t prosperovat. ZachrÃ¡nÃ­ nÃ¡s to. To je vÅ¡e, co vÃ­m.}
+{144}{}{Chci vÄ›dÄ›t jeÅ¡tÄ› nÄ›co.}
 {145}{}{Sbohem.}
-{146}{aeld11}{Klamath leí na vıchod odtud.}
-{147}{}{Potøebuju ještì informace o nìèem jiném.}
-{148}{}{To bude všechno. Sbohem.}
-{149}{aeld12}{Posvátnı Vault 13? V tom ti bohuel nepomohu. To vìdìl jen Zakladatel. Jeho pøíbìhy mluví o dlouhé a nebezpeèné cestì. }
-{150}{}{Rozumím. Chci se ještì na nìco zeptat.}
-{151}{}{Sbohem, Starší.}
-{152}{aeld13}{Nesmíme se bát, to by nás všechny zabilo! Vèetnì tebe. Podaøilo se ti projít Chrámem Zkoušek. Vìøíme ti. Potøebujeme tì.}
-{153}{}{Ne tak rychle, babo. Musím si to ještì promyslet.}
-{154}{}{Jak si pøeješ, Starší.}
-{155}{aeld14a}{Jsi zrádce. Za to zaplatíš.}
-{156}{aeld14b}{Jsi zrádce!}
-{157}{aeld14c}{Proè to dìláš?}
-{158}{aeld14d}{Já vìdìla, e se ve tvé duši skrıvá temnota!}
-{159}{aeld15}{Vezmi si tedy tuto láhev. Pochází ze svatého Vaultu 13. Pøed nedávnem nám ji pøinesl obchodník z Klamathu jménem Vic. On by mohl vìdìt, kde leí Vault. A také budeš moná potøebovat nìco, èemu venku øíkají peníze. Tady máš.}
-{160}{}{Eh... co e to mám udìlat?}
-{161}{}{Mùeš mi ještì na nìco odpovìdìt?}
-{162}{}{Dr mi palce, Starší, a já tì nezklamu.}
-{163}{aeld16}{Najdi Vica v Klamathu. Spoléháme na tebe.}
-{164}{aeld17}{Ráda tì zas vidím, mé dítì. Nechci bıt nepøíjemná, ale vidím, e tvùj úkol vypátrat místo, kde leí svatı Vault 13, stále není splnìnı. Prosím, nemarni èas mluvením. Naše vesnice strádá. Jdi najít Vault!}
-{165}{}{Já teï jít.}
-{166}{}{Dobrá, u jdu.}
-{167}{}{Nezklamu tì, Starší.}
-{168}{}{Pracuju na tom, jasnı?}
-{169}{aeld18}{Opìt se vracíš bez GECKu. Naše pole pøestávají plodit, Vyvolenı, a naše vesnice zaèíná pociovat nedostatek jídla. Jdi a najdi svatı Vault 13!}
-{170}{}{Dobøe, já teï jít.}
-{171}{}{Rozumím, Starší.}
-{172}{}{Nezklamu tebe ani náš kmen, Starší.}
-{173}{}{Poslyš, jestli myslíš, e to dokáeš líp... }
-{174}{aeld19}{Vyvolenı, je to stále horší a horší. Pokud má naše vesnice pøeít, potøebujeme GECK. Naši lidé slábnou a zásoby jídla u na moc dlouho nevystaèí. Prosím, najdi posvátnı Vault 13 a vra se k nám. Jdi.}
-{175}{}{Já jít.}
-{176}{}{Dobøe. U jdu.}
-{177}{}{Udìlám, co bude v mıch silách. Najdu GECK a zachráním vesnici.}
-{178}{}{Netlaè na mì, babo. Dìlám, co mùu.}
-{179}{aeld20}{Máme se hùø ne kdy jindy, mé dítì. Naši lidé jsou nemocní, brahmíny umírají a nemáme u témìø ádné zásoby jídla. Nemoc, která postihla naši zemi, se dá vyléèit pouze s pomocí GECKu. Jdi, pøines GECK a zachraò náš kmen.}
-{180}{}{Já rozumìt.}
+{146}{aeld11}{Klamath leÅ¾Ã­ na vÃ½chod odtud.}
+{147}{}{PotÅ™ebuju jeÅ¡tÄ› informace o nÄ›Äem jinÃ©m.}
+{148}{}{To bude vÅ¡echno. Sbohem.}
+{149}{aeld12}{PosvÃ¡tnÃ½ Vault 13? V tom ti bohuÅ¾el nepomohu. To vÄ›dÄ›l jen Zakladatel. Jeho pÅ™Ã­bÄ›hy mluvÃ­ o dlouhÃ© a nebezpeÄnÃ© cestÄ›. }
+{150}{}{RozumÃ­m. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{151}{}{Sbohem, StarÅ¡Ã­.}
+{152}{aeld13}{NesmÃ­me se bÃ¡t, to by nÃ¡s vÅ¡echny zabilo! VÄetnÄ› tebe. PodaÅ™ilo se ti projÃ­t ChrÃ¡mem ZkouÅ¡ek. VÄ›Å™Ã­me ti. PotÅ™ebujeme tÄ›.}
+{153}{}{Ne tak rychle, babo. MusÃ­m si to jeÅ¡tÄ› promyslet.}
+{154}{}{Jak si pÅ™ejeÅ¡, StarÅ¡Ã­.}
+{155}{aeld14a}{Jsi zrÃ¡dce. Za to zaplatÃ­Å¡.}
+{156}{aeld14b}{Jsi zrÃ¡dce!}
+{157}{aeld14c}{ProÄ to dÄ›lÃ¡Å¡?}
+{158}{aeld14d}{JÃ¡ vÄ›dÄ›la, Å¾e se ve tvÃ© duÅ¡i skrÃ½vÃ¡ temnota!}
+{159}{aeld15}{Vezmi si tedy tuto lÃ¡hev. PochÃ¡zÃ­ ze svatÃ©ho Vaultu 13. PÅ™ed nedÃ¡vnem nÃ¡m ji pÅ™inesl obchodnÃ­k z Klamathu jmÃ©nem Vic. On by mohl vÄ›dÄ›t, kde leÅ¾Ã­ Vault. A takÃ© budeÅ¡ moÅ¾nÃ¡ potÅ™ebovat nÄ›co, Äemu venku Å™Ã­kajÃ­ penÃ­ze. Tady mÃ¡Å¡.}
+{160}{}{Eh... co Å¾e to mÃ¡m udÄ›lat?}
+{161}{}{MÅ¯Å¾eÅ¡ mi jeÅ¡tÄ› na nÄ›co odpovÄ›dÄ›t?}
+{162}{}{DrÅ¾ mi palce, StarÅ¡Ã­, a jÃ¡ tÄ› nezklamu.}
+{163}{aeld16}{Najdi Vica v Klamathu. SpolÃ©hÃ¡me na tebe.}
+{164}{aeld17}{RÃ¡da tÄ› zas vidÃ­m, mÃ© dÃ­tÄ›. Nechci bÃ½t nepÅ™Ã­jemnÃ¡, ale vidÃ­m, Å¾e tvÅ¯j Ãºkol vypÃ¡trat mÃ­sto, kde leÅ¾Ã­ svatÃ½ Vault 13, stÃ¡le nenÃ­ splnÄ›nÃ½. ProsÃ­m, nemarni Äas mluvenÃ­m. NaÅ¡e vesnice strÃ¡dÃ¡. Jdi najÃ­t Vault!}
+{165}{}{JÃ¡ teÄ jÃ­t.}
+{166}{}{DobrÃ¡, uÅ¾ jdu.}
+{167}{}{Nezklamu tÄ›, StarÅ¡Ã­.}
+{168}{}{Pracuju na tom, jasnÃ½?}
+{169}{aeld18}{OpÄ›t se vracÃ­Å¡ bez GECKu. NaÅ¡e pole pÅ™estÃ¡vajÃ­ plodit, VyvolenÃ½, a naÅ¡e vesnice zaÄÃ­nÃ¡ pociÅ¥ovat nedostatek jÃ­dla. Jdi a najdi svatÃ½ Vault 13!}
+{170}{}{DobÅ™e, jÃ¡ teÄ jÃ­t.}
+{171}{}{RozumÃ­m, StarÅ¡Ã­.}
+{172}{}{Nezklamu tebe ani nÃ¡Å¡ kmen, StarÅ¡Ã­.}
+{173}{}{PoslyÅ¡, jestli myslÃ­Å¡, Å¾e to dokÃ¡Å¾eÅ¡ lÃ­p... }
+{174}{aeld19}{VyvolenÃ½, je to stÃ¡le horÅ¡Ã­ a horÅ¡Ã­. Pokud mÃ¡ naÅ¡e vesnice pÅ™eÅ¾Ã­t, potÅ™ebujeme GECK. NaÅ¡i lidÃ© slÃ¡bnou a zÃ¡soby jÃ­dla uÅ¾ na moc dlouho nevystaÄÃ­. ProsÃ­m, najdi posvÃ¡tnÃ½ Vault 13 a vraÅ¥ se k nÃ¡m. Jdi.}
+{175}{}{JÃ¡ jÃ­t.}
+{176}{}{DobÅ™e. UÅ¾ jdu.}
+{177}{}{UdÄ›lÃ¡m, co bude v mÃ½ch silÃ¡ch. Najdu GECK a zachrÃ¡nÃ­m vesnici.}
+{178}{}{NetlaÄ na mÄ›, babo. DÄ›lÃ¡m, co mÅ¯Å¾u.}
+{179}{aeld20}{MÃ¡me se hÅ¯Å™ neÅ¾ kdy jindy, mÃ© dÃ­tÄ›. NaÅ¡i lidÃ© jsou nemocnÃ­, brahmÃ­ny umÃ­rajÃ­ a nemÃ¡me uÅ¾ tÃ©mÄ›Å™ Å¾Ã¡dnÃ© zÃ¡soby jÃ­dla. Nemoc, kterÃ¡ postihla naÅ¡i zemi, se dÃ¡ vylÃ©Äit pouze s pomocÃ­ GECKu. Jdi, pÅ™ines GECK a zachraÅˆ nÃ¡Å¡ kmen.}
+{180}{}{JÃ¡ rozumÄ›t.}
 {181}{}{Jdu na to.}
-{182}{}{Odpus, Starší. Hned se vydám na cestu a najdu GECK.}
-{183}{}{No jo, no jo. Jseš jak zaseknutá deska...}
-{200}{eeld1}{Vyvolenı! Kde se tu bereš?}
+{182}{}{OdpusÅ¥, StarÅ¡Ã­. Hned se vydÃ¡m na cestu a najdu GECK.}
+{183}{}{No jo, no jo. JseÅ¡ jak zaseknutÃ¡ deska...}
+{200}{eeld1}{VyvolenÃ½! Kde se tu bereÅ¡?}
 {201}{}{Ehh... co?}
-{202}{}{Pøicházím tì zachránit.}
-{203}{}{Co se tady sakra dìje?}
-{204}{eeld2}{Ty zrùdo! Chceš mì taky zabít?}
+{202}{}{PÅ™ichÃ¡zÃ­m tÄ› zachrÃ¡nit.}
+{203}{}{Co se tady sakra dÄ›je?}
+{204}{eeld2}{Ty zrÅ¯do! ChceÅ¡ mÄ› taky zabÃ­t?}
 {205}{}{Ehhh?}
-{206}{}{Ne, to jsem pøece já, Vyvolenı!}
-{207}{}{Sklapni, ty stará dìvko! To jsem pøece já, Vyvolenı.}
-{208}{eeld3}{Ach mùj Boe... poslyš, sejdi dolù. Najdi stroj, kterı vyrábí energii. Zniè ten stroj. Zabij zlé lidi. Zabij je všechny! Ty zabít, my jít domù. A pokud ještì nemáš GECK, podívej se po nìm nìkde tady. Musíme získat GECK, abychom zachránili naši vesnici! Svoboda je k nièemu, pokud nemáš domov, kam se mùeš vrátit. Rozumíš? Ach mùj Boe.}
+{206}{}{Ne, to jsem pÅ™ece jÃ¡, VyvolenÃ½!}
+{207}{}{Sklapni, ty starÃ¡ dÄ›vko! To jsem pÅ™ece jÃ¡, VyvolenÃ½.}
+{208}{eeld3}{Ach mÅ¯j BoÅ¾e... poslyÅ¡, sejdi dolÅ¯. Najdi stroj, kterÃ½ vyrÃ¡bÃ­ energii. ZniÄ ten stroj. Zabij zlÃ© lidi. Zabij je vÅ¡echny! Ty zabÃ­t, my jÃ­t domÅ¯. A pokud jeÅ¡tÄ› nemÃ¡Å¡ GECK, podÃ­vej se po nÄ›m nÄ›kde tady. MusÃ­me zÃ­skat GECK, abychom zachrÃ¡nili naÅ¡i vesnici! Svoboda je k niÄemu, pokud nemÃ¡Å¡ domov, kam se mÅ¯Å¾eÅ¡ vrÃ¡tit. RozumÃ­Å¡? Ach mÅ¯j BoÅ¾e.}
 {209}{}{E-he!}
-{210}{eeld4}{Dej pozor, a se nedotkneš té záøící stìny. Myslím, e stroj, kterı ji napájí, je nìkde dole pod námi. Zniè ho, a mùeme utéct. Mimochodem, jak ses sem dostal?}
-{211}{}{Mám loï. }
-{212}{eeld5}{Do naší vesnice pøišli mui. Mìli stroje, které létají ve vzduchu, a do tìch nás naloili. Byli tam i další lidé... ti byli z posvátného Vaultu 13! U jsem myslela, e jsme zachránìni. Myslela jsem, e jdeme do ráje. (Povzdech)}
+{210}{eeld4}{Dej pozor, aÅ¥ se nedotkneÅ¡ tÃ© zÃ¡Å™Ã­cÃ­ stÄ›ny. MyslÃ­m, Å¾e stroj, kterÃ½ ji napÃ¡jÃ­, je nÄ›kde dole pod nÃ¡mi. ZniÄ ho, aÅ¥ mÅ¯Å¾eme utÃ©ct. Mimochodem, jak ses sem dostal?}
+{211}{}{MÃ¡m loÄ. }
+{212}{eeld5}{Do naÅ¡Ã­ vesnice pÅ™iÅ¡li muÅ¾i. MÄ›li stroje, kterÃ© lÃ©tajÃ­ ve vzduchu, a do tÄ›ch nÃ¡s naloÅ¾ili. Byli tam i dalÅ¡Ã­ lidÃ©... ti byli z posvÃ¡tnÃ©ho Vaultu 13! UÅ¾ jsem myslela, Å¾e jsme zachrÃ¡nÄ›ni. Myslela jsem, Å¾e jdeme do rÃ¡je. (Povzdech)}
 {213}{}{A potom?}
-{214}{eeld5a}{Poté nás dopravili sem do toho pekla. Mnohé z nás zabili nìèím, èemu øíkají ef-é-vé. A postupnì nás takhle zabijí všechny! Víš, co musíš udìlat, Vyvolenı?}
-{215}{}{Ef-é-vé?}
+{214}{eeld5a}{PotÃ© nÃ¡s dopravili sem do toho pekla. MnohÃ© z nÃ¡s zabili nÄ›ÄÃ­m, Äemu Å™Ã­kajÃ­ ef-Ã©-vÃ©. A postupnÄ› nÃ¡s takhle zabijÃ­ vÅ¡echny! VÃ­Å¡, co musÃ­Å¡ udÄ›lat, VyvolenÃ½?}
+{215}{}{Ef-Ã©-vÃ©?}
 {216}{}{Ano.}
 {217}{}{Ne.}
-{218}{eeld6}{A znièíš ten stroj, dobìhneme ke tvé lodi. A teï si pospìš, mnoho nás tu nezbıvá. }
+{218}{eeld6}{AÅ¾ zniÄÃ­Å¡ ten stroj, dobÄ›hneme ke tvÃ© lodi. A teÄ si pospÄ›Å¡, mnoho nÃ¡s tu nezbÃ½vÃ¡. }
 {219}{}{Co se stalo?}
-{220}{}{Rozumím.}
-{221}{eeld7}{Musíš znièit ten stroj a zabít všechny ïábly. Setkáme se venku! A pokud ještì nemáš GECK, pokus se ho najít nìkde tady. Naše svoboda je k nièemu, nebudeme-li moct zachránit naši vesnici. A teï jdi!}
+{220}{}{RozumÃ­m.}
+{221}{eeld7}{MusÃ­Å¡ zniÄit ten stroj a zabÃ­t vÅ¡echny ÄÃ¡bly. SetkÃ¡me se venku! A pokud jeÅ¡tÄ› nemÃ¡Å¡ GECK, pokus se ho najÃ­t nÄ›kde tady. NaÅ¡e svoboda je k niÄemu, nebudeme-li moct zachrÃ¡nit naÅ¡i vesnici. A teÄ jdi!}
 {222}{}{Sbohem.}
-{223}{eeld8}{Jsem poøád ještì Starší našeho kmene. Uvìdom si s kım mluvíš! Omluv se, nebo ti u nebudu dál pomáhat.}
-{224}{}{Tak promiò, nejsi ádná stará dìvka. Co se tedy stalo?}
-{225}{}{Jako bys mi odtamtud nìjak dokázala pomoct. Jdi do prdele a chcípni.}
-{226}{eeld9}{Zmiz mi z oèí. Nejsi o nic lepší ne ti ïáblové. Lituji, e jsem tì kdy nazvala Vyvolenım.}
-{227}{eeld10}{Co tu ještì dìláš? Kadá ztracená minuta mùe stát ivot nìkterého z našich lidí. A nezapomeò na GECK! Musíme ho získat.}
-{228}{}{Bléh??}
-{229}{}{Kam e to mám jít?}
-{230}{}{Chtìl jsem tì jen trochu vytoèit. Pracuju na tom, neboj.}
-{231}{eeld11}{(Povzdech) Jdi dolù. Zabíjej. Zniè stroj. Jdi!}
-{232}{eeld12}{Tak mì tentokrát poslouchej poøádnì! Sejdi o jedno patro dolù, najdi stroj, kterı vyrábí energii, a zniè ho. Potom budeme moct utéct. Místní lidé nesdílejí náš spoleènı sen, kterı nám pøedal Zakladatel. Jsou zlí a zkaení. A pokud ještì nemáš GECK, hledej ho nìkde tady. Naše svoboda je k nièemu, nebudeme-li moct zachránit naši vesnici. A teï jdi!}
-{233}{}{Chápu.}
-{234}{eeld13}{Tak tomu øíkají. Zabodávají lidem do kùe jehly podobné Stimpakùm, ale s èlovìkem se pak dìjí strašlivé vìci. A potom... (Silnì kašle)}
+{223}{eeld8}{Jsem poÅ™Ã¡d jeÅ¡tÄ› StarÅ¡Ã­ naÅ¡eho kmene. UvÄ›dom si s kÃ½m mluvÃ­Å¡! Omluv se, nebo ti uÅ¾ nebudu dÃ¡l pomÃ¡hat.}
+{224}{}{Tak promiÅˆ, nejsi Å¾Ã¡dnÃ¡ starÃ¡ dÄ›vka. Co se tedy stalo?}
+{225}{}{Jako bys mi odtamtud nÄ›jak dokÃ¡zala pomoct. Jdi do prdele a chcÃ­pni.}
+{226}{eeld9}{Zmiz mi z oÄÃ­. Nejsi o nic lepÅ¡Ã­ neÅ¾ ti ÄÃ¡blovÃ©. Lituji, Å¾e jsem tÄ› kdy nazvala VyvolenÃ½m.}
+{227}{eeld10}{Co tu jeÅ¡tÄ› dÄ›lÃ¡Å¡? KaÅ¾dÃ¡ ztracenÃ¡ minuta mÅ¯Å¾e stÃ¡t Å¾ivot nÄ›kterÃ©ho z naÅ¡ich lidÃ­. A nezapomeÅˆ na GECK! MusÃ­me ho zÃ­skat.}
+{228}{}{BlÃ©h??}
+{229}{}{Kam Å¾e to mÃ¡m jÃ­t?}
+{230}{}{ChtÄ›l jsem tÄ› jen trochu vytoÄit. Pracuju na tom, neboj.}
+{231}{eeld11}{(Povzdech) Jdi dolÅ¯. ZabÃ­jej. ZniÄ stroj. Jdi!}
+{232}{eeld12}{Tak mÄ› tentokrÃ¡t poslouchej poÅ™Ã¡dnÄ›! Sejdi o jedno patro dolÅ¯, najdi stroj, kterÃ½ vyrÃ¡bÃ­ energii, a zniÄ ho. Potom budeme moct utÃ©ct. MÃ­stnÃ­ lidÃ© nesdÃ­lejÃ­ nÃ¡Å¡ spoleÄnÃ½ sen, kterÃ½ nÃ¡m pÅ™edal Zakladatel. Jsou zlÃ­ a zkaÅ¾enÃ­. A pokud jeÅ¡tÄ› nemÃ¡Å¡ GECK, hledej ho nÄ›kde tady. NaÅ¡e svoboda je k niÄemu, nebudeme-li moct zachrÃ¡nit naÅ¡i vesnici. A teÄ jdi!}
+{233}{}{ChÃ¡pu.}
+{234}{eeld13}{Tak tomu Å™Ã­kajÃ­. ZabodÃ¡vajÃ­ lidem do kÅ¯Å¾e jehly podobnÃ© StimpakÅ¯m, ale s ÄlovÄ›kem se pak dÄ›jÃ­ straÅ¡livÃ© vÄ›ci. A potom... (SilnÄ› kaÅ¡le)}
 {235}{}{A potom?}
-{236}{}{Udìlá se mi z toho špatnì, e jo?}
-{237}{eeld13a}{Potom zaène kùe bobtnat, jako kdyby pod ní lezly èervy. Vøedy se zvìtšují a praskají. Krev se ti øine z uší a oteèe ti jazyk. Ti šastnìjší se udusí a ten zbytek...}
-{238}{}{Za to zaplatí.}
-{239}{}{To bylo opravdu nechutné. Co e to mám udìlat?}
+{236}{}{UdÄ›lÃ¡ se mi z toho Å¡patnÄ›, Å¾e jo?}
+{237}{eeld13a}{Potom zaÄne kÅ¯Å¾e bobtnat, jako kdyby pod nÃ­ lezly Äervy. VÅ™edy se zvÄ›tÅ¡ujÃ­ a praskajÃ­. Krev se ti Å™ine z uÅ¡Ã­ a oteÄe ti jazyk. Ti Å¡Å¥astnÄ›jÅ¡Ã­ se udusÃ­ a ten zbytek...}
+{238}{}{Za to zaplatÃ­.}
+{239}{}{To bylo opravdu nechutnÃ©. Co Å¾e to mÃ¡m udÄ›lat?}

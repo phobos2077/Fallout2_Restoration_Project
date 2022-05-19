@@ -1,30 +1,30 @@
-{100}{}{Vidíš skupinu dobøe ozbrojenıch pocestnıch.}
-{101}{}{Jsou to poøád dobøe vyzbrojení cizinci.}
-{102}{}{Mají vyèištìné a dobøe naleštìné zbranì a na hrudi mají nìjaké znaky.}
-{103}{}{Hledáme otrokáøské hlídky. Nevidìl jsi nìjaké, cizinèe?}
-{104}{}{Buï zdráv, cizinèe. Doufám, e nejsi otrokáø... pro tvoje dobro.}
-{105}{}{Rádi tì potkáváme, cizinèe. Nestarej se o nás a všechno bude v poøádku.}
-{106}{}{Jsme NCR Rangeøi. Dìláme ze svìta lepší místo. No, jenom jsem myslel, e to chceš vìdìt.}
-{107}{}{Jsme Rangeøi. Zabíjet otrokáøe je naše práce.}
-{108}{}{Ty zatracenı zastánèe otrokáøù. Zemøeš krutou smrtí!}
-{109}{}{Do prdele! Varoval jsem tì!}
-{110}{}{Takové, jako jsi ty, tady nepotøebujeme. Proto zemøi.}
-{111}{}{Vdycky pøijdou na øadu zbranì. Copak u se nikdo nevzdá jenom tak?}
+{100}{}{VidÃ­Å¡ skupinu dobÅ™e ozbrojenÃ½ch pocestnÃ½ch.}
+{101}{}{Jsou to poÅ™Ã¡d dobÅ™e vyzbrojenÃ­ cizinci.}
+{102}{}{MajÃ­ vyÄiÅ¡tÄ›nÃ© a dobÅ™e naleÅ¡tÄ›nÃ© zbranÄ› a na hrudi majÃ­ nÄ›jakÃ© znaky.}
+{103}{}{HledÃ¡me otrokÃ¡Å™skÃ© hlÃ­dky. NevidÄ›l jsi nÄ›jakÃ©, cizinÄe?}
+{104}{}{BuÄ zdrÃ¡v, cizinÄe. DoufÃ¡m, Å¾e nejsi otrokÃ¡Å™... pro tvoje dobro.}
+{105}{}{RÃ¡di tÄ› potkÃ¡vÃ¡me, cizinÄe. Nestarej se o nÃ¡s a vÅ¡echno bude v poÅ™Ã¡dku.}
+{106}{}{Jsme NCR RangeÅ™i. DÄ›lÃ¡me ze svÄ›ta lepÅ¡Ã­ mÃ­sto. No, jenom jsem myslel, Å¾e to chceÅ¡ vÄ›dÄ›t.}
+{107}{}{Jsme RangeÅ™i. ZabÃ­jet otrokÃ¡Å™e je naÅ¡e prÃ¡ce.}
+{108}{}{Ty zatracenÃ½ zastÃ¡nÄe otrokÃ¡Å™Å¯. ZemÅ™eÅ¡ krutou smrtÃ­!}
+{109}{}{Do prdele! Varoval jsem tÄ›!}
+{110}{}{TakovÃ©, jako jsi ty, tady nepotÅ™ebujeme. Proto zemÅ™i.}
+{111}{}{VÅ¾dycky pÅ™ijdou na Å™adu zbranÄ›. CoÅ¾pak uÅ¾ se nikdo nevzdÃ¡ jenom tak?}
 {112}{}{Tak a je to... nastala doba lovu!}
 {113}{}{Eh... dojdu pro posily. Ani se nehni!}
-{114}{}{Øíkal, e je bez problému 'dostaneme.' Jasnì...}
+{114}{}{Å˜Ã­kal, Å¾e je bez problÃ©mu 'dostaneme.' JasnÄ›...}
 {115}{}{Au-au-au-au-au!}
-{116}{}{Do prdele. Mizím odsud!}
-{117}{}{Kvùli tomu nehodlám umøít!}
-{118}{}{Vidím, e máš tetování... to je znak otrokáøù. Nejsi náhodou otrokáø, e ne?}
+{116}{}{Do prdele. MizÃ­m odsud!}
+{117}{}{KvÅ¯li tomu nehodlÃ¡m umÅ™Ã­t!}
+{118}{}{VidÃ­m, Å¾e mÃ¡Å¡ tetovÃ¡nÃ­... to je znak otrokÃ¡Å™Å¯. Nejsi nÃ¡hodou otrokÃ¡Å™, Å¾e ne?}
 {119}{}{Ano.}
 {120}{}{Ne.}
-{121}{}{Tak to máš smùlu. Jsme NCR Rangeøi. U jsi o nás slyšel? Vradíme otrokáøe.}
-{122}{}{Jsi zasranı lháø. Sejmìte ho!}
-{123}{}{Buï zdráv, cizinèe. My jsme NCR Rangeøi. Kdo ráèíš bıt ty?}
-{124}{}{Do toho ti nic není.}
-{125}{}{Myslím, e u jsem to jméno nìkde slyšel. Jsi Ranger, e jo?}
+{121}{}{Tak to mÃ¡Å¡ smÅ¯lu. Jsme NCR RangeÅ™i. UÅ¾ jsi o nÃ¡s slyÅ¡el? VraÅ¾dÃ­me otrokÃ¡Å™e.}
+{122}{}{Jsi zasranÃ½ lhÃ¡Å™. SejmÄ›te ho!}
+{123}{}{BuÄ zdrÃ¡v, cizinÄe. My jsme NCR RangeÅ™i. Kdo rÃ¡ÄÃ­Å¡ bÃ½t ty?}
+{124}{}{Do toho ti nic nenÃ­.}
+{125}{}{MyslÃ­m, Å¾e uÅ¾ jsem to jmÃ©no nÄ›kde slyÅ¡el. Jsi Ranger, Å¾e jo?}
 {126}{}{Ano.}
-{127}{}{Do toho ti nic není.}
-{128}{}{Fajn, buï nepøíjemnı. Aspoò, e nejsi otrokáø. Sbohem.}
-{129}{}{Rád jsem tì poznal, Rangere. Dbej na poøádek. Zatím.}
+{127}{}{Do toho ti nic nenÃ­.}
+{128}{}{Fajn, buÄ nepÅ™Ã­jemnÃ½. AspoÅˆ, Å¾e nejsi otrokÃ¡Å™. Sbohem.}
+{129}{}{RÃ¡d jsem tÄ› poznal, Rangere. Dbej na poÅ™Ã¡dek. ZatÃ­m.}

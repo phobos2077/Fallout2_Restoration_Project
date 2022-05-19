@@ -1,13 +1,13 @@
-{100}{}{Asi bys nemìl nastavovat ten èasovaè. Mùe to bıt nebezpeèné.}
-{101}{}{Tato vıbušnina není zøejmì dostateènì úèinná na to, aby odstranila ten zával.}
-{102}{}{Dùlní vozík se zdá bıt v poøádku. Mùeš ho zkusit roztlaèit.}
-{103}{}{Dynamit, pøipevnìnı k té kovové tyèi, bude zøejmì staèit na odpálení vchodu.}
-{104}{}{Dynamit je upevnìn ke kovové tyèi na vozíku.}
-{105}{}{Jedno dobré zatlaèení a ta vìc by se mìla rozjet.}
-{106}{}{Namáháš se tlaèením vozíku.}
-{107}{}{Roztlaèil jsi vozík po kolejích.}
-{108}{}{Samotnı vozík asi nebude staèit k otevøení dolu.}
-{109}{}{Nemáš nic, èím by se to dalo upevnit.}
-{110}{}{Chtìlo by to nìjakou kovovou tyè, která by se dala upevnit k dùlnímu vozíku.}
-{111}{}{Pøipevníš kovovou tyè k vozíku.}
-{112}{}{Pøipevníš dynamit ke kovové tyèi.}
+{100}{}{Asi bys nemÄ›l nastavovat ten ÄasovaÄ. MÅ¯Å¾e to bÃ½t nebezpeÄnÃ©.}
+{101}{}{Tato vÃ½buÅ¡nina nenÃ­ zÅ™ejmÄ› dostateÄnÄ› ÃºÄinnÃ¡ na to, aby odstranila ten zÃ¡val.}
+{102}{}{DÅ¯lnÃ­ vozÃ­k se zdÃ¡ bÃ½t v poÅ™Ã¡dku. MÅ¯Å¾eÅ¡ ho zkusit roztlaÄit.}
+{103}{}{Dynamit, pÅ™ipevnÄ›nÃ½ k tÃ© kovovÃ© tyÄi, bude zÅ™ejmÄ› staÄit na odpÃ¡lenÃ­ vchodu.}
+{104}{}{Dynamit je upevnÄ›n ke kovovÃ© tyÄi na vozÃ­ku.}
+{105}{}{Jedno dobrÃ© zatlaÄenÃ­ a ta vÄ›c by se mÄ›la rozjet.}
+{106}{}{NamÃ¡hÃ¡Å¡ se tlaÄenÃ­m vozÃ­ku.}
+{107}{}{RoztlaÄil jsi vozÃ­k po kolejÃ­ch.}
+{108}{}{SamotnÃ½ vozÃ­k asi nebude staÄit k otevÅ™enÃ­ dolu.}
+{109}{}{NemÃ¡Å¡ nic, ÄÃ­m by se to dalo upevnit.}
+{110}{}{ChtÄ›lo by to nÄ›jakou kovovou tyÄ, kterÃ¡ by se dala upevnit k dÅ¯lnÃ­mu vozÃ­ku.}
+{111}{}{PÅ™ipevnÃ­Å¡ kovovou tyÄ k vozÃ­ku.}
+{112}{}{PÅ™ipevnÃ­Å¡ dynamit ke kovovÃ© tyÄi.}

@@ -1,5 +1,5 @@
-{100}{}{Divíš se drátkùm pøipojenım k podlaze.}
-{110}{}{Pøesekl jsi dráty a zastavuješ na nynìjším podlaí.}
-{111}{}{ pøesekni dráty a zastav na nynìjším podlaí.}
-{120}{}{Jsi pøíliš hloupı na to, abys pøesekl ten správnı drát.}
-{121}{}{ je pøíliš hloupı na to, aby pøesekl ten správnı drát.}
+{100}{}{DivÃ­Å¡ se drÃ¡tkÅ¯m pÅ™ipojenÃ½m k podlaze.}
+{110}{}{PÅ™esekl jsi drÃ¡ty a zastavujeÅ¡ na nynÄ›jÅ¡Ã­m podlaÅ¾Ã­.}
+{111}{}{ pÅ™esekni drÃ¡ty a zastav na nynÄ›jÅ¡Ã­m podlaÅ¾Ã­.}
+{120}{}{Jsi pÅ™Ã­liÅ¡ hloupÃ½ na to, abys pÅ™esekl ten sprÃ¡vnÃ½ drÃ¡t.}
+{121}{}{ je pÅ™Ã­liÅ¡ hloupÃ½ na to, aby pÅ™esekl ten sprÃ¡vnÃ½ drÃ¡t.}

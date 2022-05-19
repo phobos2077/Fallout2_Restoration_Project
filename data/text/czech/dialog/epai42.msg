@@ -1,1 +1,1 @@
-{100}{}{Pøivázané lano.}
+{100}{}{PÅ™ivÃ¡zanÃ© lano.}

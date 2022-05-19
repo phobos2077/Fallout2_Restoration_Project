@@ -1,50 +1,50 @@
-{100}{}{Vidíš smutného postaršího mue.}
-{101}{}{Vidíš Davea, "Pana Depresi".}
-{102}{}{Vidíš mrzutého postaršího mue zhruba kolem šedesátky. Má vìtrem ošlehanou tváø a vypadá, e si s ním osud slušnì zahrával.}
-{103}{}{Och. Nevšiml jsem si tì.}
-{104}{}{Jak ne vidìt? Já velkı.}
-{105}{}{Vypadat smutnì. Proè?}
-{106}{}{Já jít pa pa.}
-{107}{}{To je v poøádku, všichni se obèas zamyslíme. Poslyš, vypadáš nìjak sklesle. Mùu se zeptat proè?}
-{108}{}{Jo, jasnì. Proè jsi tak skleslı?}
-{109}{}{Mam tì pøíštì pøetáhnout polenem, aby sis mì všiml nebo co?}
-{110}{}{To je jedno. Právì jsem si vzpomnìl, e mám bıt nìkde úplnì jinde.}
-{111}{}{To víš, nehody se stávají... a kdy se stávají, tak vìtšinou mnì.}
-{112}{}{Eh... já teï odejít.}
-{113}{}{Napøíklad?}
-{114}{}{Zajímavı názor. Proè si to myslíš?}
-{115}{}{Myslím, e musím bıt nìkde jinde.}
-{116}{}{Narodil jsem se o dva mìsíce døív. Kdy mi byl jeden rok, upustili mì na verandì. Kdy mi byly dva, dostal jsem zápal plic. Kdy mi byly tøi, dostal jsem plané neštovice. Kdy mi byly ètyøi, spadl jsem ze schodù a zlomil si šest eber. Kdy mi bylo pìt, mùj strıc byl sat melounem. Kdy mi bylo šest, rodièe mì pøetáhli lopatou po hlavì. Kdy mi bylo sedm, moje domácí krysa mi ukousla ukazováèek.}
-{117}{}{Eh, já slyšet nìkoho volat. Naskle!}
-{118}{}{To smutnı.}
-{119}{}{Minulost špatná, nemluvit. Teï dobrı?}
-{120}{}{Páni! Ještì e nejsem na tvém místì!}
-{121}{}{Dobøe, u chápu. Co tì trápí teï?}
-{122}{}{Je mi strašnì líto, e jsi zail v ivotì tolik bolesti. Doufám, e u je to lepší.}
-{123}{}{Poèkej chvíli. Úplnì mi vypadlo, e mám na práci ještì nìco jiného.}
-{124}{}{Jo, nehody se stávají... a kdy se stávají, tak vìtšinou mnì.}
-{125}{}{Co stát teï?}
-{126}{}{Já slyšet pøedtím. Naskle.}
-{127}{}{Take co máš teï za problém, kterı tì tak štve?}
-{128}{}{Nemám zájem nìco takového poslouchat. Myslím, e radìji pùjdu.}
-{129}{}{No, cestoval jsem pøes pouš, kdy tu náhle moje brahmína padla mrtvá k zemi. V tu chvíli mi došlo, e mám málo vody a e u jsem se nìjakou chvíli nenapil. Potom mì zaèaly bolet kosti, hlava, dostal jsem prùjem a vyráku, která nechtìla zmizet. Bylo naèase nìkam zalézt a zemøít.}
-{130}{}{Já... eh... ty... nemít enu nebo dítì?}
-{131}{}{Ty u nemluvit. Já jít.}
-{132}{}{U nechci nic slyšet. Musím se odsud dostat pryè a hlavnì daleko od tebe. Nashle.}
-{133}{}{Prosím, øekni, e nemáš dìti.}
-{134}{}{Ne. Kdy mi bylo dvaadvacet, nìjaká divná houba mi zaèala rùst na kou...}
-{135}{}{Ááááá! Ty u nemluvit! Já jít!}
-{136}{}{Pøestaò! Nechci to vìdìt!}
-{137}{}{Och. Ahoj. Co pro tebe mùu udìlat?}
-{138}{}{Eh, jakı tvoje historka znova?}
-{139}{}{Promiò, já jít.}
-{140}{}{Zajímalo by mì, jestli bys mi mohl zopakovat svùj pøíbìh.}
-{141}{}{Tak moment, já myslel, e jsi nìkdo jinı.}
-{142}{}{Koneènì, mùj èas nadešel. Zabiješ mì?}
+{100}{}{VidÃ­Å¡ smutnÃ©ho postarÅ¡Ã­ho muÅ¾e.}
+{101}{}{VidÃ­Å¡ Davea, "Pana Depresi".}
+{102}{}{VidÃ­Å¡ mrzutÃ©ho postarÅ¡Ã­ho muÅ¾e zhruba kolem Å¡edesÃ¡tky. MÃ¡ vÄ›trem oÅ¡lehanou tvÃ¡Å™ a vypadÃ¡, Å¾e si s nÃ­m osud sluÅ¡nÄ› zahrÃ¡val.}
+{103}{}{Och. NevÅ¡iml jsem si tÄ›.}
+{104}{}{Jak ne vidÄ›t? JÃ¡ velkÃ½.}
+{105}{}{Vypadat smutnÄ›. ProÄ?}
+{106}{}{JÃ¡ jÃ­t pa pa.}
+{107}{}{To je v poÅ™Ã¡dku, vÅ¡ichni se obÄas zamyslÃ­me. PoslyÅ¡, vypadÃ¡Å¡ nÄ›jak sklesle. MÅ¯Å¾u se zeptat proÄ?}
+{108}{}{Jo, jasnÄ›. ProÄ jsi tak skleslÃ½?}
+{109}{}{Mam tÄ› pÅ™Ã­Å¡tÄ› pÅ™etÃ¡hnout polenem, aby sis mÄ› vÅ¡iml nebo co?}
+{110}{}{To je jedno. PrÃ¡vÄ› jsem si vzpomnÄ›l, Å¾e mÃ¡m bÃ½t nÄ›kde ÃºplnÄ› jinde.}
+{111}{}{To vÃ­Å¡, nehody se stÃ¡vajÃ­... a kdyÅ¾ se stÃ¡vajÃ­, tak vÄ›tÅ¡inou mnÄ›.}
+{112}{}{Eh... jÃ¡ teÄ odejÃ­t.}
+{113}{}{NapÅ™Ã­klad?}
+{114}{}{ZajÃ­mavÃ½ nÃ¡zor. ProÄ si to myslÃ­Å¡?}
+{115}{}{MyslÃ­m, Å¾e musÃ­m bÃ½t nÄ›kde jinde.}
+{116}{}{Narodil jsem se o dva mÄ›sÃ­ce dÅ™Ã­v. KdyÅ¾ mi byl jeden rok, upustili mÄ› na verandÄ›. KdyÅ¾ mi byly dva, dostal jsem zÃ¡pal plic. KdyÅ¾ mi byly tÅ™i, dostal jsem planÃ© neÅ¡tovice. KdyÅ¾ mi byly ÄtyÅ™i, spadl jsem ze schodÅ¯ a zlomil si Å¡est Å¾eber. KdyÅ¾ mi bylo pÄ›t, mÅ¯j strÃ½c byl sÅ¥at melounem. KdyÅ¾ mi bylo Å¡est, rodiÄe mÄ› pÅ™etÃ¡hli lopatou po hlavÄ›. KdyÅ¾ mi bylo sedm, moje domÃ¡cÃ­ krysa mi ukousla ukazovÃ¡Äek.}
+{117}{}{Eh, jÃ¡ slyÅ¡et nÄ›koho volat. Naskle!}
+{118}{}{To smutnÃ½.}
+{119}{}{Minulost Å¡patnÃ¡, nemluvit. TeÄ dobrÃ½?}
+{120}{}{PÃ¡ni! JeÅ¡tÄ› Å¾e nejsem na tvÃ©m mÃ­stÄ›!}
+{121}{}{DobÅ™e, uÅ¾ chÃ¡pu. Co tÄ› trÃ¡pÃ­ teÄ?}
+{122}{}{Je mi straÅ¡nÄ› lÃ­to, Å¾e jsi zaÅ¾il v Å¾ivotÄ› tolik bolesti. DoufÃ¡m, Å¾e uÅ¾ je to lepÅ¡Ã­.}
+{123}{}{PoÄkej chvÃ­li. ÃšplnÄ› mi vypadlo, Å¾e mÃ¡m na prÃ¡ci jeÅ¡tÄ› nÄ›co jinÃ©ho.}
+{124}{}{Jo, nehody se stÃ¡vajÃ­... a kdyÅ¾ se stÃ¡vajÃ­, tak vÄ›tÅ¡inou mnÄ›.}
+{125}{}{Co stÃ¡t teÄ?}
+{126}{}{JÃ¡ slyÅ¡et pÅ™edtÃ­m. Naskle.}
+{127}{}{TakÅ¾e co mÃ¡Å¡ teÄ za problÃ©m, kterÃ½ tÄ› tak Å¡tve?}
+{128}{}{NemÃ¡m zÃ¡jem nÄ›co takovÃ©ho poslouchat. MyslÃ­m, Å¾e radÄ›ji pÅ¯jdu.}
+{129}{}{No, cestoval jsem pÅ™es pouÅ¡Å¥, kdyÅ¾ tu nÃ¡hle moje brahmÃ­na padla mrtvÃ¡ k zemi. V tu chvÃ­li mi doÅ¡lo, Å¾e mÃ¡m mÃ¡lo vody a Å¾e uÅ¾ jsem se nÄ›jakou chvÃ­li nenapil. Potom mÄ› zaÄaly bolet kosti, hlava, dostal jsem prÅ¯jem a vyrÃ¡Å¾ku, kterÃ¡ nechtÄ›la zmizet. Bylo naÄase nÄ›kam zalÃ©zt a zemÅ™Ã­t.}
+{130}{}{JÃ¡... eh... ty... nemÃ­t Å¾enu nebo dÃ­tÄ›?}
+{131}{}{Ty uÅ¾ nemluvit. JÃ¡ jÃ­t.}
+{132}{}{UÅ¾ nechci nic slyÅ¡et. MusÃ­m se odsud dostat pryÄ a hlavnÄ› daleko od tebe. Nashle.}
+{133}{}{ProsÃ­m, Å™ekni, Å¾e nemÃ¡Å¡ dÄ›ti.}
+{134}{}{Ne. KdyÅ¾ mi bylo dvaadvacet, nÄ›jakÃ¡ divnÃ¡ houba mi zaÄala rÅ¯st na kou...}
+{135}{}{ÃÃ¡Ã¡Ã¡Ã¡! Ty uÅ¾ nemluvit! JÃ¡ jÃ­t!}
+{136}{}{PÅ™estaÅˆ! Nechci to vÄ›dÄ›t!}
+{137}{}{Och. Ahoj. Co pro tebe mÅ¯Å¾u udÄ›lat?}
+{138}{}{Eh, jakÃ½ tvoje historka znova?}
+{139}{}{PromiÅˆ, jÃ¡ jÃ­t.}
+{140}{}{ZajÃ­malo by mÄ›, jestli bys mi mohl zopakovat svÅ¯j pÅ™Ã­bÄ›h.}
+{141}{}{Tak moment, jÃ¡ myslel, Å¾e jsi nÄ›kdo jinÃ½.}
+{142}{}{KoneÄnÄ›, mÅ¯j Äas nadeÅ¡el. ZabijeÅ¡ mÄ›?}
 {143}{}{Ano.}
 {144}{}{Ne.}
-{145}{}{Kdy mi bylo osm, mého pejska Spika pøejel traktor. Kdy mi bylo devìt, vzteklá brahmína ukousla matce ruku. Kdy mi bylo deset, moji sestru roztrhala smeèka psù. Kdy mi bylo jedenáct, mùj dìda se zabil, protoe jsem byl ošklivı. Kdy mi bylo dvanáct, moje babièka se zabila, protoe jsem byl ošklivı. Kdy mi bylo tøináct, mùj táta si v opilosti vypíchl oèi vidlema.}
-{146}{}{Kdy mi bylo ètrnáct, klokan ukousl bratrovi ruku. Kdy mi bylo patnáct, moje teta se udusila kuøecí kùstkou. Kdy mi bylo šestnáct, mého bratrance zakousl jezevec. Kdy mi bylo sedmnáct, usekl jsem si palec na noze motykou. Kdy mi bylo osmnáct, mému tátovi pøejel pravou nohu ten samı traktor, co pøejel mého psa. Kdy mi bylo devatenáct... }
-{147}{}{A tak jsem sedìl v poušti a èekal, a smrt ukonèí moji mizernou existenci, kdy tu se objevila tlupa páraèù. Hm, pomyslel jsem si, tak a je to tady. Teï umøu. Skonèím jako páraèí hovno nìkde uprostøed pouštì. Ale ne... osud mìl ještì jeden krutı trumf v rukávu.}
-{148}{}{Jak vidíš, páraèi mì nezabili. Místo toho mi dali vodu, vzali mì sem, dali mi tuhle místnost, jídlo, umyli mì a teï mì nechtìjí nechat odejít. Vím, e mì vykrmují z nìjakého neznámého pøíšerného dùvodu. Stále jim opakuju, e bych asi pravdìpodobnì chutnal lépe, kdybych byl hubenı a libovı, ale je to k nièemu. Oni se jen usmívají... pokud to tak vùbec jde øíct... a plácají mì po ramenou a øíkají 'Neboj se, èlovìèe, bude lépe.' Ha! Oba víme, co tím myslí.}
-{149}{}{Kadopádnì, aby to bylo ještì horší, zaèali mi dávat nìjaké prášky. Trochu mì nadımají, tak jsem je pøestal brát... a dobøe jsem udìlal. Myslím, e to byly nìjaké pilulky na 'ovládání mysli', protoe jsem mìl pocit, jako kdyby vìci nebyly zase a tak špatné, jako skuteènì jsou! To bude asi tak všechno. U jen èekám, a zazvoní zvonek k veèeøi, aby mohli hodovat na mém tlusouèkém tìle.}
+{145}{}{KdyÅ¾ mi bylo osm, mÃ©ho pejska Spika pÅ™ejel traktor. KdyÅ¾ mi bylo devÄ›t, vzteklÃ¡ brahmÃ­na ukousla matce ruku. KdyÅ¾ mi bylo deset, moji sestru roztrhala smeÄka psÅ¯. KdyÅ¾ mi bylo jedenÃ¡ct, mÅ¯j dÄ›da se zabil, protoÅ¾e jsem byl oÅ¡klivÃ½. KdyÅ¾ mi bylo dvanÃ¡ct, moje babiÄka se zabila, protoÅ¾e jsem byl oÅ¡klivÃ½. KdyÅ¾ mi bylo tÅ™inÃ¡ct, mÅ¯j tÃ¡ta si v opilosti vypÃ­chl oÄi vidlema.}
+{146}{}{KdyÅ¾ mi bylo ÄtrnÃ¡ct, klokan ukousl bratrovi ruku. KdyÅ¾ mi bylo patnÃ¡ct, moje teta se udusila kuÅ™ecÃ­ kÅ¯stkou. KdyÅ¾ mi bylo Å¡estnÃ¡ct, mÃ©ho bratrance zakousl jezevec. KdyÅ¾ mi bylo sedmnÃ¡ct, usekl jsem si palec na noze motykou. KdyÅ¾ mi bylo osmnÃ¡ct, mÃ©mu tÃ¡tovi pÅ™ejel pravou nohu ten samÃ½ traktor, co pÅ™ejel mÃ©ho psa. KdyÅ¾ mi bylo devatenÃ¡ct... }
+{147}{}{A tak jsem sedÄ›l v pouÅ¡ti a Äekal, aÅ¾ smrt ukonÄÃ­ moji mizernou existenci, kdyÅ¾ tu se objevila tlupa pÃ¡raÄÅ¯. Hm, pomyslel jsem si, tak a je to tady. TeÄ umÅ™u. SkonÄÃ­m jako pÃ¡raÄÃ­ hovno nÄ›kde uprostÅ™ed pouÅ¡tÄ›. Ale ne... osud mÄ›l jeÅ¡tÄ› jeden krutÃ½ trumf v rukÃ¡vu.}
+{148}{}{Jak vidÃ­Å¡, pÃ¡raÄi mÄ› nezabili. MÃ­sto toho mi dali vodu, vzali mÄ› sem, dali mi tuhle mÃ­stnost, jÃ­dlo, umyli mÄ› a teÄ mÄ› nechtÄ›jÃ­ nechat odejÃ­t. VÃ­m, Å¾e mÄ› vykrmujÃ­ z nÄ›jakÃ©ho neznÃ¡mÃ©ho pÅ™Ã­Å¡ernÃ©ho dÅ¯vodu. StÃ¡le jim opakuju, Å¾e bych asi pravdÄ›podobnÄ› chutnal lÃ©pe, kdybych byl hubenÃ½ a libovÃ½, ale je to k niÄemu. Oni se jen usmÃ­vajÃ­... pokud to tak vÅ¯bec jde Å™Ã­ct... a plÃ¡cajÃ­ mÄ› po ramenou a Å™Ã­kajÃ­ 'Neboj se, ÄlovÄ›Äe, bude lÃ©pe.' Ha! Oba vÃ­me, co tÃ­m myslÃ­.}
+{149}{}{KaÅ¾dopÃ¡dnÄ›, aby to bylo jeÅ¡tÄ› horÅ¡Ã­, zaÄali mi dÃ¡vat nÄ›jakÃ© prÃ¡Å¡ky. Trochu mÄ› nadÃ½majÃ­, tak jsem je pÅ™estal brÃ¡t... a dobÅ™e jsem udÄ›lal. MyslÃ­m, Å¾e to byly nÄ›jakÃ© pilulky na 'ovlÃ¡dÃ¡nÃ­ mysli', protoÅ¾e jsem mÄ›l pocit, jako kdyby vÄ›ci nebyly zase aÅ¾ tak Å¡patnÃ©, jako skuteÄnÄ› jsou! To bude asi tak vÅ¡echno. UÅ¾ jen ÄekÃ¡m, aÅ¾ zazvonÃ­ zvonek k veÄeÅ™i, aby mohli hodovat na mÃ©m tlusÅ¥ouÄkÃ©m tÄ›le.}

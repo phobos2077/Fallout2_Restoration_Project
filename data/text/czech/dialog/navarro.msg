@@ -1,2 +1,2 @@
-{100}{}{Nacházíš starou benzínovou pumpu.}
-{101}{}{Nacházíš se uvnitø aktivní vojenské báze.}
+{100}{}{NachÃ¡zÃ­Å¡ starou benzÃ­novou pumpu.}
+{101}{}{NachÃ¡zÃ­Å¡ se uvnitÅ™ aktivnÃ­ vojenskÃ© bÃ¡ze.}

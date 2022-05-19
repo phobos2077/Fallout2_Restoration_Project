@@ -1,1 +1,1 @@
-{100}{}{Nenapadá tì ádnı zpùsob jak tyto dveøe otevøít.}
+{100}{}{NenapadÃ¡ tÄ› Å¾Ã¡dnÃ½ zpÅ¯sob jak tyto dveÅ™e otevÅ™Ã­t.}

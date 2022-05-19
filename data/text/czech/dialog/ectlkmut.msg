@@ -1,12 +1,12 @@
-{100}{}{Chtít slyšet novı recept?}
-{101}{}{Jakı?}
-{102}{}{Krysa pøekvapení.}
-{103}{}{Znít dobøe. Jak já udìlat?}
-{104}{}{Chytit krysa. Opatrnì, moc nezmáèknout.}
-{105}{}{Jak nezmáèknout? Kdy bacit klackem, vdycky prasknout. Hroznı binec.}
-{106}{}{Chtít slyšet recept nebo ne? Chytit krysu tvùj problém.}
-{107}{}{Já promiò.}
-{108}{}{Jak já øíkat, chytit krysu. Povìsit za ocas na zeï.}
-{109}{}{Nechat viset, a ocas odpadnout. Pak hotovo.}
-{110}{}{Jíst rychle, kdy nechat sedìt dlouho, pøekvapení vylézt a uletìt.}
-{111}{}{To znít jako mòamka.}
+{100}{}{ChtÃ­t slyÅ¡et novÃ½ recept?}
+{101}{}{JakÃ½?}
+{102}{}{Krysa pÅ™ekvapenÃ­.}
+{103}{}{ZnÃ­t dobÅ™e. Jak jÃ¡ udÄ›lat?}
+{104}{}{Chytit krysa. OpatrnÄ›, moc nezmÃ¡Äknout.}
+{105}{}{Jak nezmÃ¡Äknout? KdyÅ¾ bacit klackem, vÅ¾dycky prasknout. HroznÃ½ binec.}
+{106}{}{ChtÃ­t slyÅ¡et recept nebo ne? Chytit krysu tvÅ¯j problÃ©m.}
+{107}{}{JÃ¡ promiÅˆ.}
+{108}{}{Jak jÃ¡ Å™Ã­kat, chytit krysu. PovÄ›sit za ocas na zeÄ.}
+{109}{}{Nechat viset, aÅ¾ ocas odpadnout. Pak hotovo.}
+{110}{}{JÃ­st rychle, kdyÅ¾ nechat sedÄ›t dlouho, pÅ™ekvapenÃ­ vylÃ©zt a uletÄ›t.}
+{111}{}{To znÃ­t jako mÅˆamka.}

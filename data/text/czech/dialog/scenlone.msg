@@ -1,120 +1,120 @@
-{100}{}{Vidíš podivnou enu v dlouhé róbì.}
-{101}{}{Vidíš Osvícenou.}
-{102}{}{Její strnulı pohled s vırazem nepøítomné blaenosti by mohl vzbuzovat strach, kdyby nebyla tak klidná.}
-{103}{}{Budi pozdraven. Patøíš mezi Osvícené?}
+{100}{}{VidÃ­Å¡ podivnou Å¾enu v dlouhÃ© rÃ³bÄ›.}
+{101}{}{VidÃ­Å¡ OsvÃ­cenou.}
+{102}{}{JejÃ­ strnulÃ½ pohled s vÃ½razem nepÅ™Ã­tomnÃ© blaÅ¾enosti by mohl vzbuzovat strach, kdyby nebyla tak klidnÃ¡.}
+{103}{}{BudiÅ¾ pozdraven. PatÅ™Ã­Å¡ mezi OsvÃ­cenÃ©?}
 {104}{}{[Slintat]}
-{105}{}{Jasnì, proè ne?}
-{106}{}{No, jsem Vyvolenı.}
-{107}{}{Eh, nemám tušení, o èem to mluvíš.}
-{108}{}{Take ty jsi ta osina v zadku, kterou chce Merk vyndat!}
+{105}{}{JasnÄ›, proÄ ne?}
+{106}{}{No, jsem VyvolenÃ½.}
+{107}{}{Eh, nemÃ¡m tuÅ¡enÃ­, o Äem to mluvÃ­Å¡.}
+{108}{}{TakÅ¾e ty jsi ta osina v zadku, kterou chce Merk vyndat!}
 {109}{}{Ano.}
 {110}{}{Ne.}
-{111}{}{Nech mì bıt.}
-{112}{}{Haló? Je tam nìkdo?}
+{111}{}{Nech mÄ› bÃ½t.}
+{112}{}{HalÃ³? Je tam nÄ›kdo?}
 {113}{}{Guh.}
 {114}{}{Nikdo tady.}
-{115}{}{Ach drahı, ty jsi ještì První Úroveò. Stále uvìznìn v primitivním stavu. Snad by pomohlo srovnání zeta-scanem. Chceš to zkusit?}
+{115}{}{Ach drahÃ½, ty jsi jeÅ¡tÄ› PrvnÃ­ ÃšroveÅˆ. StÃ¡le uvÄ›znÄ›n v primitivnÃ­m stavu. Snad by pomohlo srovnÃ¡nÃ­ zeta-scanem. ChceÅ¡ to zkusit?}
 {116}{}{Ze-ta!}
 {117}{}{Ne!}
-{118}{}{Prosím, nezesmìšòuj Hubologistickou církev. Tyrani jako ty nám ostatním ztìují ivot. Ach, Boe, jsem tak pobouøená!}
-{119}{}{Vyvolenı? Myslíš AHS-1? Odkud máš toto jméno?}
-{120}{}{To je jednoduché. Jsem Vyvolenı, protoe se to tak mìlo stát.}
+{118}{}{ProsÃ­m, nezesmÄ›Å¡Åˆuj Hubologistickou cÃ­rkev. Tyrani jako ty nÃ¡m ostatnÃ­m ztÄ›Å¾ujÃ­ Å¾ivot. Ach, BoÅ¾e, jsem tak pobouÅ™enÃ¡!}
+{119}{}{VyvolenÃ½? MyslÃ­Å¡ AHS-1? Odkud mÃ¡Å¡ toto jmÃ©no?}
+{120}{}{To je jednoduchÃ©. Jsem VyvolenÃ½, protoÅ¾e se to tak mÄ›lo stÃ¡t.}
 {121}{}{AHS-1?}
-{122}{}{Starší mého kmene mi tak øíká.}
-{123}{}{O èem to mluvíš?}
-{124}{}{Nemùeme prostì pøeskoèit k té èásti, kdy mì pokropíš svìcenou vodou nebo tak nìco?}
-{125}{}{Á, take hledáš opravdové porozumìní a duševní klid? S tím ti mùeme pomoci.}
-{126}{}{Ne, hledám GECK.}
+{122}{}{StarÅ¡Ã­ mÃ©ho kmene mi tak Å™Ã­kÃ¡.}
+{123}{}{O Äem to mluvÃ­Å¡?}
+{124}{}{NemÅ¯Å¾eme prostÄ› pÅ™eskoÄit k tÃ© ÄÃ¡sti, kdy mÄ› pokropÃ­Å¡ svÄ›cenou vodou nebo tak nÄ›co?}
+{125}{}{Ã, takÅ¾e hledÃ¡Å¡ opravdovÃ© porozumÄ›nÃ­ a duÅ¡evnÃ­ klid? S tÃ­m ti mÅ¯Å¾eme pomoci.}
+{126}{}{Ne, hledÃ¡m GECK.}
 {127}{}{Pomoct? Jak?}
-{128}{}{Raketomet mi poskytuje všechen duševní klid, kterı potøebuju, dámo.}
+{128}{}{Raketomet mi poskytuje vÅ¡echen duÅ¡evnÃ­ klid, kterÃ½ potÅ™ebuju, dÃ¡mo.}
 {129}{}{"True understand" this! (Rude hand gesture with the middle finger.)}
 {130}{}{Merk? Co ten chce?}
-{131}{}{To je jednoduché. Chce tvoji smrt. Øekni sbohem.}
-{132}{}{Nevím, co mezi sebou máte, ale pro mì jsi jen další kontrakt.}
-{133}{}{Vıbornì, bratøe, a na jaké jsi úrovni?}
-{134}{}{Já se ptala první.}
-{135}{}{Na jaké jsi úrovni?}
-{136}{}{Aha. Mìla jsem za to, e vidíš moji auru. Omlouvám se.}
-{137}{}{Aha. Mìla jsem za to, e vidíš moji auru. Omlouvám se.}
-{138}{}{No, kdy jsem minule kontroloval obrazovku postavy, byl jsem na úrovni}
-{139}{}{Proè se ptáš? Já jsem samozøejmì ve stavu Dokonalosti.}
-{140}{}{Ehhh... není to nezdvoøilé mluvit o úrovních?}
-{141}{}{Propána! Co ode mì vlastnì èekají, kdy budu obklopena špinavci?}
-{142}{}{Á, máš opravdu nadšení pro vìc. Pojï se mnou.}
-{143}{}{"Ztraceni budi ti, jen nehledají Hub." Pokud si to rozmyslíš, vdy tì tu uvítáme.}
-{144}{}{Nekøiè! Teï si musím srovnat neurodyny!}
-{145}{}{Pøedurèení? A co svobodná vùle? Podle tvé víry nemá nic, co udìláš, ádnı vıznam, protoe je u vše dopøedu rozhodnuté. Je to jako kdybys byl jen šachová figurka ve høe.}
-{146}{}{Ty mi nerozumíš. Pouze mùj potenciál jakoto Vyvolenı je pøedurèen, ale moje rozhodnutí a mé èiny urèují naplnìní tohoto potenciálu.}
-{147}{}{Samozøejmì, e je vesmír deterministickı! Koneckoncù, byli jsme sem všichni zasazeni kvùli nìjakému úèelu, kterı je našemu stvoøiteli pøedem znám.}
-{148}{}{Nesmysl. Není ádná organizující síla, která rozhoduje o našem osudu. Není nad námi ádná "vyšší moc". Vesmír je jen náhoda. Jsem Vyvolenı, protoe mì za nìj ostatní prohlásili. Nic víc.}
-{149}{}{AHS. Ty oèividnì nejsi Osvícenı.}
-{150}{}{Primitivní víra... ale vykazuješ znaky velikého pøíslibu. Mùeme ti ukázat vyšší cesty. Chceš vìdìt víc?}
+{131}{}{To je jednoduchÃ©. Chce tvoji smrt. Å˜ekni sbohem.}
+{132}{}{NevÃ­m, co mezi sebou mÃ¡te, ale pro mÄ› jsi jen dalÅ¡Ã­ kontrakt.}
+{133}{}{VÃ½bornÄ›, bratÅ™e, a na jakÃ© jsi Ãºrovni?}
+{134}{}{JÃ¡ se ptala prvnÃ­.}
+{135}{}{Na jakÃ© jsi Ãºrovni?}
+{136}{}{Aha. MÄ›la jsem za to, Å¾e vidÃ­Å¡ moji auru. OmlouvÃ¡m se.}
+{137}{}{Aha. MÄ›la jsem za to, Å¾e vidÃ­Å¡ moji auru. OmlouvÃ¡m se.}
+{138}{}{No, kdyÅ¾ jsem minule kontroloval obrazovku postavy, byl jsem na Ãºrovni}
+{139}{}{ProÄ se ptÃ¡Å¡? JÃ¡ jsem samozÅ™ejmÄ› ve stavu Dokonalosti.}
+{140}{}{Ehhh... nenÃ­ to nezdvoÅ™ilÃ© mluvit o ÃºrovnÃ­ch?}
+{141}{}{PropÃ¡na! Co ode mÄ› vlastnÄ› ÄekajÃ­, kdyÅ¾ budu obklopena Å¡pinavci?}
+{142}{}{Ã, mÃ¡Å¡ opravdu nadÅ¡enÃ­ pro vÄ›c. PojÄ se mnou.}
+{143}{}{"Ztraceni budiÅ¾ ti, jenÅ¾ nehledajÃ­ Hub." Pokud si to rozmyslÃ­Å¡, vÅ¾dy tÄ› tu uvÃ­tÃ¡me.}
+{144}{}{NekÅ™iÄ! TeÄ si musÃ­m srovnat neurodyny!}
+{145}{}{PÅ™edurÄenÃ­? A co svobodnÃ¡ vÅ¯le? Podle tvÃ© vÃ­ry nemÃ¡ nic, co udÄ›lÃ¡Å¡, Å¾Ã¡dnÃ½ vÃ½znam, protoÅ¾e je uÅ¾ vÅ¡e dopÅ™edu rozhodnutÃ©. Je to jako kdybys byl jen Å¡achovÃ¡ figurka ve hÅ™e.}
+{146}{}{Ty mi nerozumÃ­Å¡. Pouze mÅ¯j potenciÃ¡l jakoÅ¾to VyvolenÃ½ je pÅ™edurÄen, ale moje rozhodnutÃ­ a mÃ© Äiny urÄujÃ­ naplnÄ›nÃ­ tohoto potenciÃ¡lu.}
+{147}{}{SamozÅ™ejmÄ›, Å¾e je vesmÃ­r deterministickÃ½! KoneckoncÅ¯, byli jsme sem vÅ¡ichni zasazeni kvÅ¯li nÄ›jakÃ©mu ÃºÄelu, kterÃ½ je naÅ¡emu stvoÅ™iteli pÅ™edem znÃ¡m.}
+{148}{}{Nesmysl. NenÃ­ Å¾Ã¡dnÃ¡ organizujÃ­cÃ­ sÃ­la, kterÃ¡ rozhoduje o naÅ¡em osudu. NenÃ­ nad nÃ¡mi Å¾Ã¡dnÃ¡ "vyÅ¡Å¡Ã­ moc". VesmÃ­r je jen nÃ¡hoda. Jsem VyvolenÃ½, protoÅ¾e mÄ› za nÄ›j ostatnÃ­ prohlÃ¡sili. Nic vÃ­c.}
+{149}{}{AHS. Ty oÄividnÄ› nejsi OsvÃ­cenÃ½.}
+{150}{}{PrimitivnÃ­ vÃ­ra... ale vykazujeÅ¡ znaky velikÃ©ho pÅ™Ã­slibu. MÅ¯Å¾eme ti ukÃ¡zat vyÅ¡Å¡Ã­ cesty. ChceÅ¡ vÄ›dÄ›t vÃ­c?}
 {151}{}{Ano.}
 {152}{}{Ne.}
-{153}{}{S tím ti nedokái pomoci. Avšak naši vìdci v San Franciscu by mohli. Moná by nebyl špatnı nápad tam zavítat.}
-{154}{}{Oèištìním od své negativní psychické energie, která tì drí v tíivém stavu. Pouze tehdy se mùeš stát Osvícenım!}
-{155}{}{Neurodyny jsou tìlesnımi psychickımi centry. Jsou zneèištìné duševními pozùstatky lidí zemøelıch ve Válce. Jejich psi-energie se do našich neurodynù vtiskne pøi narození a drí nás v tíivém stavu. Srovnání tyto otisky vymae.}
-{156}{}{Dokud je tvùj mozek ovlivòován negativní psychickou energií, tvùj pravı duševní potenciál je potlaèován. Horší však je, e bez opravdu velmi silné vùle mùe tíivı stav tuto energii pøenášet.}
-{157}{}{Osvícení nastane, kdy jsou všechny tvé neurodyny srovnány. Teprve poté se mùeš stát AHS, co je cílem všech Hubologistù.}
+{153}{}{S tÃ­m ti nedokÃ¡Å¾i pomoci. AvÅ¡ak naÅ¡i vÄ›dci v San Franciscu by mohli. MoÅ¾nÃ¡ by nebyl Å¡patnÃ½ nÃ¡pad tam zavÃ­tat.}
+{154}{}{OÄiÅ¡tÄ›nÃ­m od svÃ© negativnÃ­ psychickÃ© energie, kterÃ¡ tÄ› drÅ¾Ã­ v tÃ­Å¾ivÃ©m stavu. Pouze tehdy se mÅ¯Å¾eÅ¡ stÃ¡t OsvÃ­cenÃ½m!}
+{155}{}{Neurodyny jsou tÄ›lesnÃ½mi psychickÃ½mi centry. Jsou zneÄiÅ¡tÄ›nÃ© duÅ¡evnÃ­mi pozÅ¯statky lidÃ­ zemÅ™elÃ½ch ve VÃ¡lce. Jejich psi-energie se do naÅ¡ich neurodynÅ¯ vtiskne pÅ™i narozenÃ­ a drÅ¾Ã­ nÃ¡s v tÃ­Å¾ivÃ©m stavu. SrovnÃ¡nÃ­ tyto otisky vymaÅ¾e.}
+{156}{}{Dokud je tvÅ¯j mozek ovlivÅˆovÃ¡n negativnÃ­ psychickou energiÃ­, tvÅ¯j pravÃ½ duÅ¡evnÃ­ potenciÃ¡l je potlaÄovÃ¡n. HorÅ¡Ã­ vÅ¡ak je, Å¾e bez opravdu velmi silnÃ© vÅ¯le mÅ¯Å¾e tÃ­Å¾ivÃ½ stav tuto energii pÅ™enÃ¡Å¡et.}
+{157}{}{OsvÃ­cenÃ­ nastane, kdyÅ¾ jsou vÅ¡echny tvÃ© neurodyny srovnÃ¡ny. Teprve potÃ© se mÅ¯Å¾eÅ¡ stÃ¡t AHS, coÅ¾ je cÃ­lem vÅ¡ech HubologistÅ¯.}
 {158}{}{Neurodyny?}
-{159}{}{Osvícenım?}
-{160}{}{Tíivém stavu?}
-{161}{}{No a jak to oèištìní funguje? Bolí to?}
-{162}{}{Není to bolestivé. Pouze podstoupíš zeta-scan. Mohu ti jeden provést hned teï, jestli chceš.}
-{163}{}{Jasnì.}
-{164}{}{V ádném pøípadì!}
-{165}{}{Hubologistická církev existuje proto, aby osvobodila lidstvo z øetìzù, které drí jejich plnı duševní potenciál v okovech.}
-{166}{}{A jak to chcete udìlat?}
-{167}{}{Aha, jasnì, nìco jako "Nechat svoji duši jít", e ano?}
-{168}{}{Touto schopností nevládnu. Mohu ti pomoci s nìèím jinım? Tøeba se srovnáním?}
-{169}{}{Chci podstoupit srovnání.}
-{170}{}{Potøebuju nìjaké informace. Co víš o Vaultu 13?}
-{171}{}{Stalo se tu nìco zajímavého?}
-{172}{}{Zapomeò na to. Nic ve zlém. To bude všechno.}
-{173}{}{To je pùsobivé, aèkoliv si myslím, e kadı mluvíme o jiné vìci. I pøesto si ale zaslouíš zkušenostní bonus.}
+{159}{}{OsvÃ­cenÃ½m?}
+{160}{}{TÃ­Å¾ivÃ©m stavu?}
+{161}{}{No a jak to oÄiÅ¡tÄ›nÃ­ funguje? BolÃ­ to?}
+{162}{}{NenÃ­ to bolestivÃ©. Pouze podstoupÃ­Å¡ zeta-scan. Mohu ti jeden provÃ©st hned teÄ, jestli chceÅ¡.}
+{163}{}{JasnÄ›.}
+{164}{}{V Å¾Ã¡dnÃ©m pÅ™Ã­padÄ›!}
+{165}{}{HubologistickÃ¡ cÃ­rkev existuje proto, aby osvobodila lidstvo z Å™etÄ›zÅ¯, kterÃ© drÅ¾Ã­ jejich plnÃ½ duÅ¡evnÃ­ potenciÃ¡l v okovech.}
+{166}{}{A jak to chcete udÄ›lat?}
+{167}{}{Aha, jasnÄ›, nÄ›co jako "Nechat svoji duÅ¡i jÃ­t", Å¾e ano?}
+{168}{}{Touto schopnostÃ­ nevlÃ¡dnu. Mohu ti pomoci s nÄ›ÄÃ­m jinÃ½m? TÅ™eba se srovnÃ¡nÃ­m?}
+{169}{}{Chci podstoupit srovnÃ¡nÃ­.}
+{170}{}{PotÅ™ebuju nÄ›jakÃ© informace. Co vÃ­Å¡ o Vaultu 13?}
+{171}{}{Stalo se tu nÄ›co zajÃ­mavÃ©ho?}
+{172}{}{ZapomeÅˆ na to. Nic ve zlÃ©m. To bude vÅ¡echno.}
+{173}{}{To je pÅ¯sobivÃ©, aÄkoliv si myslÃ­m, Å¾e kaÅ¾dÃ½ mluvÃ­me o jinÃ© vÄ›ci. I pÅ™esto si ale zaslouÅ¾Ã­Å¡ zkuÅ¡enostnÃ­ bonus.}
 {174}{}{Ano!!}
-{175}{}{Hotovo. Ale pamatuj si, e v ivotì jde o víc ne jen o sbírání zkušenostních bodù potøebnıch k postoupení na vyšší úroveò. Tam venku je celı "opravdovı" svìt. Teï, kdy jsme to u vyøešili, nezkusíme to znovu?}
-{176}{}{Dokonalosti? Upøímnì, jak mùou oèekávat, e tu budu šíøit víru, kdy mi ani neposkytnou aktuální verzi uèení!?}
-{177}{}{(Pokraèovat)}
-{178}{}{Spal jsi snad pøi vysvìtlování základù? Hmmph - ty nejsi Osvícenı!}
-{179}{}{Take ty tvrdíš, e existuje jakási vyšší moc, která nás stvoøila za nìjakım úèelem a poté nás prostì opustí? Nemohu uvìøit, e mùe bıt nìkdo tak tvrdohlavı. Pojï, pøijmi církev Hubologistù. Nech nás, a ti ukáeme správnou cestu.}
-{180}{}{Co je správná cesta?}
-{181}{}{Ne, díky.}
-{182}{}{Jakı by byl smysl ivota, kdybychom ho nemohli øídit? Nic, co udìláš, nemá ádnou cenu. Zvolil sis snad dnešní probuzení? Ne, jsi jen loutkou vlastní filozofie. Kdeto my Hubologisté máme tu správnou odpovìï.}
+{175}{}{Hotovo. Ale pamatuj si, Å¾e v Å¾ivotÄ› jde o vÃ­c neÅ¾ jen o sbÃ­rÃ¡nÃ­ zkuÅ¡enostnÃ­ch bodÅ¯ potÅ™ebnÃ½ch k postoupenÃ­ na vyÅ¡Å¡Ã­ ÃºroveÅˆ. Tam venku je celÃ½ "opravdovÃ½" svÄ›t. TeÄ, kdyÅ¾ jsme to uÅ¾ vyÅ™eÅ¡ili, nezkusÃ­me to znovu?}
+{176}{}{Dokonalosti? UpÅ™Ã­mnÄ›, jak mÅ¯Å¾ou oÄekÃ¡vat, Å¾e tu budu Å¡Ã­Å™it vÃ­ru, kdyÅ¾ mi ani neposkytnou aktuÃ¡lnÃ­ verzi uÄenÃ­!?}
+{177}{}{(PokraÄovat)}
+{178}{}{Spal jsi snad pÅ™i vysvÄ›tlovÃ¡nÃ­ zÃ¡kladÅ¯? Hmmph - ty nejsi OsvÃ­cenÃ½!}
+{179}{}{TakÅ¾e ty tvrdÃ­Å¡, Å¾e existuje jakÃ¡si vyÅ¡Å¡Ã­ moc, kterÃ¡ nÃ¡s stvoÅ™ila za nÄ›jakÃ½m ÃºÄelem a potÃ© nÃ¡s prostÄ› opustÃ­? Nemohu uvÄ›Å™it, Å¾e mÅ¯Å¾e bÃ½t nÄ›kdo tak tvrdohlavÃ½. PojÄ, pÅ™ijmi cÃ­rkev HubologistÅ¯. Nech nÃ¡s, aÅ¥ ti ukÃ¡Å¾eme sprÃ¡vnou cestu.}
+{180}{}{Co je sprÃ¡vnÃ¡ cesta?}
+{181}{}{Ne, dÃ­ky.}
+{182}{}{JakÃ½ by byl smysl Å¾ivota, kdybychom ho nemohli Å™Ã­dit? Nic, co udÄ›lÃ¡Å¡, nemÃ¡ Å¾Ã¡dnou cenu. Zvolil sis snad dneÅ¡nÃ­ probuzenÃ­? Ne, jsi jen loutkou vlastnÃ­ filozofie. KdeÅ¾to my HubologistÃ© mÃ¡me tu sprÃ¡vnou odpovÄ›Ä.}
 {183}{}{A ta je?}
-{184}{}{Jasnì.}
-{185}{}{Ach, to je opravdu smutná a prázdná filozofie! A i kdyby to byla pravda, tvojí jedinou cestou je usilovat o sebezdokonalení. To je jediná vìc nad kterou máš kontrolu. Hubologistická církev ti mùe pomoci.}
+{184}{}{JasnÄ›.}
+{185}{}{Ach, to je opravdu smutnÃ¡ a prÃ¡zdnÃ¡ filozofie! A i kdyby to byla pravda, tvojÃ­ jedinou cestou je usilovat o sebezdokonalenÃ­. To je jedinÃ¡ vÄ›c nad kterou mÃ¡Å¡ kontrolu. HubologistickÃ¡ cÃ­rkev ti mÅ¯Å¾e pomoci.}
 {186}{}{Jak?}
-{187}{}{Jdi mi z oèí.}
-{188}{}{Vault 13? Naši vìdci po nìm pátrali nìkde na západì. To je vše, co vím. Víš urèitì, e nechceš podstoupit srovnání?}
-{189}{}{Jasnì, proè ne.}
-{190}{}{Ne, díky. Je mi fajn.}
-{191}{}{Mùu ti øíci, e šíøení naší víry mezi lidmi je tu obtínìjší, ne si dokáeš pøedstavit! AHS-9 to bohuel nechápe. Vlastnì jsem si to vše sepsala. Poslyš, nemùeš prosím tuto zprávu doruèit AHS-9 do San Francisca? Nemohu ti slíbit ádnou odmìnu, ale vím jistì, e to AHS-9 ocení.}
-{192}{}{Jasnì, proè ne?}
-{193}{}{Ne, promiò. Nechci se do toho plést.}
-{194}{}{Vıbornì. Tady máš tu zprávu. Mohu pro tebe nìco udìlat? Tøeba zeta-scan?}
-{195}{}{Scan? Proè ne?}
-{196}{}{To u bude všechno. Nashle.}
-{197}{}{U jsme toho namluvili dost. Sbohem.}
-{198}{}{Budi pozdraven. Jak ti mùe chrám Hubologistù pomoci?}
+{187}{}{Jdi mi z oÄÃ­.}
+{188}{}{Vault 13? NaÅ¡i vÄ›dci po nÄ›m pÃ¡trali nÄ›kde na zÃ¡padÄ›. To je vÅ¡e, co vÃ­m. VÃ­Å¡ urÄitÄ›, Å¾e nechceÅ¡ podstoupit srovnÃ¡nÃ­?}
+{189}{}{JasnÄ›, proÄ ne.}
+{190}{}{Ne, dÃ­ky. Je mi fajn.}
+{191}{}{MÅ¯Å¾u ti Å™Ã­ci, Å¾e Å¡Ã­Å™enÃ­ naÅ¡Ã­ vÃ­ry mezi lidmi je tu obtÃ­Å¾nÄ›jÅ¡Ã­, neÅ¾ si dokÃ¡Å¾eÅ¡ pÅ™edstavit! AHS-9 to bohuÅ¾el nechÃ¡pe. VlastnÄ› jsem si to vÅ¡e sepsala. PoslyÅ¡, nemÅ¯Å¾eÅ¡ prosÃ­m tuto zprÃ¡vu doruÄit AHS-9 do San Francisca? Nemohu ti slÃ­bit Å¾Ã¡dnou odmÄ›nu, ale vÃ­m jistÄ›, Å¾e to AHS-9 ocenÃ­.}
+{192}{}{JasnÄ›, proÄ ne?}
+{193}{}{Ne, promiÅˆ. Nechci se do toho plÃ©st.}
+{194}{}{VÃ½bornÄ›. Tady mÃ¡Å¡ tu zprÃ¡vu. Mohu pro tebe nÄ›co udÄ›lat? TÅ™eba zeta-scan?}
+{195}{}{Scan? ProÄ ne?}
+{196}{}{To uÅ¾ bude vÅ¡echno. Nashle.}
+{197}{}{UÅ¾ jsme toho namluvili dost. Sbohem.}
+{198}{}{BudiÅ¾ pozdraven. Jak ti mÅ¯Å¾e chrÃ¡m HubologistÅ¯ pomoci?}
 {199}{}{[Slintat]}
-{200}{}{Take ty jsi ta osina v zadku, kterou chce Merk vyndat!}
-{201}{}{Eh, nemám tušení, o èem to mluvíš.}
-{202}{}{Èím se tahle církev zabıvá?}
-{203}{}{Ehm. Špatné dveøe.}
-{204}{}{Má smrt nic nevyøeší. Nejsem pro Merka hrozbou, jeho drádí má víra. Doufám, e odmítneš splnit vaši dohodu.}
-{205}{}{Jo, vypadáš neškodnì.}
-{206}{}{Na to zapomeò. Pro mì jsi MRTVİ Hubologista.}
-{207}{}{Na idioty nemám èas. Odejdi prosím.}
-{208}{}{Ven, odpadlíku!}
-{209}{}{Neexistuje nic, èím si mùeš získat zpìt naši pøízeò, rouhaèi.}
-{210}{}{Zavøi oèi. Nebude to bolet.}
-{211}{}{Tak a je to. Podaøilo se nám odstranit nìkolik ošklivıch otiskù! Nyní jsi AHS-1. A teï kdy mì omluvíš, musím se zase na chvíli vìnovat chrámu.}
-{212}{}{Vítej, bratøe hledaèi. U pro tebe nemohu udìlat více. Nyní musíš pokraèovat ve své cestì jako AHS-1.}
-{213}{}{Chrám je zavøenı. Pøijï zítra.}
-{214}{}{Ráda bych ti pomohla, ale dokonce i AHS-4 musí nìkdy spát. Pøijï za denního svìtla.}
-{215}{}{Nezvanı hoste! Chceš snad znesvìtit toto místo? Ven!}
-{216}{}{Vıbornì, sestro, a na jaké jsi úrovni?}
-{217}{}{ a vím urèitì, e kdy se budu dál toulat a zabíjet náhodné nepøátele, dosáhnu úrovnì 99 v cuku letu.}
-{218}{}{Získáváš }
-{219}{}{ zkušenostních bodù za zlikvidování Hubologisty pro Merka.}
+{200}{}{TakÅ¾e ty jsi ta osina v zadku, kterou chce Merk vyndat!}
+{201}{}{Eh, nemÃ¡m tuÅ¡enÃ­, o Äem to mluvÃ­Å¡.}
+{202}{}{ÄŒÃ­m se tahle cÃ­rkev zabÃ½vÃ¡?}
+{203}{}{Ehm. Å patnÃ© dveÅ™e.}
+{204}{}{MÃ¡ smrt nic nevyÅ™eÅ¡Ã­. Nejsem pro Merka hrozbou, jeho drÃ¡Å¾dÃ­ mÃ¡ vÃ­ra. DoufÃ¡m, Å¾e odmÃ­tneÅ¡ splnit vaÅ¡i dohodu.}
+{205}{}{Jo, vypadÃ¡Å¡ neÅ¡kodnÄ›.}
+{206}{}{Na to zapomeÅˆ. Pro mÄ› jsi MRTVÃ Hubologista.}
+{207}{}{Na idioty nemÃ¡m Äas. Odejdi prosÃ­m.}
+{208}{}{Ven, odpadlÃ­ku!}
+{209}{}{Neexistuje nic, ÄÃ­m si mÅ¯Å¾eÅ¡ zÃ­skat zpÄ›t naÅ¡i pÅ™Ã­zeÅˆ, rouhaÄi.}
+{210}{}{ZavÅ™i oÄi. Nebude to bolet.}
+{211}{}{Tak a je to. PodaÅ™ilo se nÃ¡m odstranit nÄ›kolik oÅ¡klivÃ½ch otiskÅ¯! NynÃ­ jsi AHS-1. A teÄ kdyÅ¾ mÄ› omluvÃ­Å¡, musÃ­m se zase na chvÃ­li vÄ›novat chrÃ¡mu.}
+{212}{}{VÃ­tej, bratÅ™e hledaÄi. UÅ¾ pro tebe nemohu udÄ›lat vÃ­ce. NynÃ­ musÃ­Å¡ pokraÄovat ve svÃ© cestÄ› jako AHS-1.}
+{213}{}{ChrÃ¡m je zavÅ™enÃ½. PÅ™ijÄ zÃ­tra.}
+{214}{}{RÃ¡da bych ti pomohla, ale dokonce i AHS-4 musÃ­ nÄ›kdy spÃ¡t. PÅ™ijÄ za dennÃ­ho svÄ›tla.}
+{215}{}{NezvanÃ½ hoste! ChceÅ¡ snad znesvÄ›tit toto mÃ­sto? Ven!}
+{216}{}{VÃ½bornÄ›, sestro, a na jakÃ© jsi Ãºrovni?}
+{217}{}{ a vÃ­m urÄitÄ›, Å¾e kdyÅ¾ se budu dÃ¡l toulat a zabÃ­jet nÃ¡hodnÃ© nepÅ™Ã¡tele, dosÃ¡hnu ÃºrovnÄ› 99 v cuku letu.}
+{218}{}{ZÃ­skÃ¡vÃ¡Å¡ }
+{219}{}{ zkuÅ¡enostnÃ­ch bodÅ¯ za zlikvidovÃ¡nÃ­ Hubologisty pro Merka.}

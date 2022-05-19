@@ -1,140 +1,140 @@
-{100}{}{Vítejte. Já jsem ACE, lékaøskı poèítaè. Potøebujete lékaøskou asistenci?}
+{100}{}{VÃ­tejte. JÃ¡ jsem ACE, lÃ©kaÅ™skÃ½ poÄÃ­taÄ. PotÅ™ebujete lÃ©kaÅ™skou asistenci?}
 {101}{}{Ano.}
 {102}{}{Ne.}
-{103}{}{Mít otázku. Mít ty odpovìï?}
-{104}{}{Mám nìjaké otázky. Mùeš mi na nì odpovìdìt?}
-{105}{}{Prosím zadejte své lékaøské potøeby.}
-{106}{}{Já zranìn.}
-{107}{}{Já otráven.}
-{108}{}{Já záøit ve tma.}
-{109}{}{Já mrzák.}
-{110}{}{Já chtít bıt silnìjší.}
-{111}{}{Já chtít bıt chytøejší.}
-{112}{}{Já chtít líp vidìt.}
-{113}{}{Já chtít bıt hezèí.}
-{114}{}{Nepotøebovat nic.}
-{115}{}{Mám zranìní.}
-{116}{}{Mám otravu. Potøebuju protijed.}
-{117}{}{Chytil jsem docela slušnou dávku radiace.}
-{118}{}{Jsem zmrzaèen.}
-{119}{}{Chci bıt silnìjší.}
-{120}{}{Chci bıt chytøejší.}
-{121}{}{Chci bıt vnímavìjší.}
-{122}{}{Chci mít vìtší charisma.}
-{123}{}{Momentálnì nepotøebuju nic.}
-{124}{}{Otvírám suspenzní nádr, èekejte prosím... nyní si lehnìte dovnitø nádre a uvolnìte se. Léèebnı proces potrvá 5 minut.}
-{125}{}{Dobøe.}
-{126}{}{Zapomeò na to.}
-{127}{}{Tak dobøe.}
-{128}{}{Zapomeò na to.}
-{129}{}{Otvírám suspenzní nádr, èekejte prosím... nyní si lehnìte dovnitø nádre a uvolnìte se. Nejprve bude analyzován jed a poté následnì syntetizován protijed. Porušená tkáò bude opravena. Tento proces potrvá 30 minut.}
-{130}{}{Dobøe.}
+{103}{}{MÃ­t otÃ¡zku. MÃ­t ty odpovÄ›Ä?}
+{104}{}{MÃ¡m nÄ›jakÃ© otÃ¡zky. MÅ¯Å¾eÅ¡ mi na nÄ› odpovÄ›dÄ›t?}
+{105}{}{ProsÃ­m zadejte svÃ© lÃ©kaÅ™skÃ© potÅ™eby.}
+{106}{}{JÃ¡ zranÄ›n.}
+{107}{}{JÃ¡ otrÃ¡ven.}
+{108}{}{JÃ¡ zÃ¡Å™it ve tma.}
+{109}{}{JÃ¡ mrzÃ¡k.}
+{110}{}{JÃ¡ chtÃ­t bÃ½t silnÄ›jÅ¡Ã­.}
+{111}{}{JÃ¡ chtÃ­t bÃ½t chytÅ™ejÅ¡Ã­.}
+{112}{}{JÃ¡ chtÃ­t lÃ­p vidÄ›t.}
+{113}{}{JÃ¡ chtÃ­t bÃ½t hezÄÃ­.}
+{114}{}{NepotÅ™ebovat nic.}
+{115}{}{MÃ¡m zranÄ›nÃ­.}
+{116}{}{MÃ¡m otravu. PotÅ™ebuju protijed.}
+{117}{}{Chytil jsem docela sluÅ¡nou dÃ¡vku radiace.}
+{118}{}{Jsem zmrzaÄen.}
+{119}{}{Chci bÃ½t silnÄ›jÅ¡Ã­.}
+{120}{}{Chci bÃ½t chytÅ™ejÅ¡Ã­.}
+{121}{}{Chci bÃ½t vnÃ­mavÄ›jÅ¡Ã­.}
+{122}{}{Chci mÃ­t vÄ›tÅ¡Ã­ charisma.}
+{123}{}{MomentÃ¡lnÄ› nepotÅ™ebuju nic.}
+{124}{}{OtvÃ­rÃ¡m suspenznÃ­ nÃ¡drÅ¾, Äekejte prosÃ­m... nynÃ­ si lehnÄ›te dovnitÅ™ nÃ¡drÅ¾e a uvolnÄ›te se. LÃ©ÄebnÃ½ proces potrvÃ¡ 5 minut.}
+{125}{}{DobÅ™e.}
+{126}{}{ZapomeÅˆ na to.}
+{127}{}{Tak dobÅ™e.}
+{128}{}{ZapomeÅˆ na to.}
+{129}{}{OtvÃ­rÃ¡m suspenznÃ­ nÃ¡drÅ¾, Äekejte prosÃ­m... nynÃ­ si lehnÄ›te dovnitÅ™ nÃ¡drÅ¾e a uvolnÄ›te se. Nejprve bude analyzovÃ¡n jed a potÃ© nÃ¡slednÄ› syntetizovÃ¡n protijed. PoruÅ¡enÃ¡ tkÃ¡Åˆ bude opravena. Tento proces potrvÃ¡ 30 minut.}
+{130}{}{DobÅ™e.}
 {131}{}{Ne.}
-{132}{}{Jasnì.}
-{133}{}{Zapomeò na to.}
-{134}{}{Otvírám suspenzní nádr, èekejte prosím... nyní si lehnìte dovnitø nádre a uvolnìte se. Do tìla vám budou aplikovány antiradiaèní slouèeniny a poškozená tkáò bude opravena. Tento proces potrvá 60 minut.}
-{135}{}{Dobøe.}
+{132}{}{JasnÄ›.}
+{133}{}{ZapomeÅˆ na to.}
+{134}{}{OtvÃ­rÃ¡m suspenznÃ­ nÃ¡drÅ¾, Äekejte prosÃ­m... nynÃ­ si lehnÄ›te dovnitÅ™ nÃ¡drÅ¾e a uvolnÄ›te se. Do tÄ›la vÃ¡m budou aplikovÃ¡ny antiradiaÄnÃ­ slouÄeniny a poÅ¡kozenÃ¡ tkÃ¡Åˆ bude opravena. Tento proces potrvÃ¡ 60 minut.}
+{135}{}{DobÅ™e.}
 {136}{}{Ne.}
 {137}{}{Fajn.}
 {138}{}{Rozmyslel jsem si to.}
-{139}{}{Otvírám suspenzní nádr, èekejte prosím... nyní si lehnìte dovnitø nádre a uvolnìte se. Restrukturalizace poškozenıch konèetin si vyádá 24 hodin.}
-{140}{}{Dobøe.}
+{139}{}{OtvÃ­rÃ¡m suspenznÃ­ nÃ¡drÅ¾, Äekejte prosÃ­m... nynÃ­ si lehnÄ›te dovnitÅ™ nÃ¡drÅ¾e a uvolnÄ›te se. Restrukturalizace poÅ¡kozenÃ½ch konÄetin si vyÅ¾Ã¡dÃ¡ 24 hodin.}
+{140}{}{DobÅ™e.}
 {141}{}{Ne.}
-{142}{}{Pojïme na to.}
-{143}{}{Moná pozdìji.}
-{144}{}{Tato funkce není momentálnì k dispozici. V této oblasti jsou moje vìdomosti nekompletní. Potøebuji pamìovı modul obsahující dané lékaøské procedury. Máte takovı modul?}
-{145}{}{Já mít modul. Ty vzít.}
-{146}{}{Ne. Já najít a pak vrátit.}
-{147}{}{Ano, mám ho pøímo tady. Pøeèti si ho.}
-{148}{}{Ne, nemám ten modul. Pùjdu ho najít.}
-{149}{}{Tato komplexní procedura vyaduje 2 tıdny v suspenzní nádri. Souhlasíte s tím?}
-{150}{}{Já souhlasit.}
+{142}{}{PojÄme na to.}
+{143}{}{MoÅ¾nÃ¡ pozdÄ›ji.}
+{144}{}{Tato funkce nenÃ­ momentÃ¡lnÄ› k dispozici. V tÃ©to oblasti jsou moje vÄ›domosti nekompletnÃ­. PotÅ™ebuji pamÄ›Å¥ovÃ½ modul obsahujÃ­cÃ­ danÃ© lÃ©kaÅ™skÃ© procedury. MÃ¡te takovÃ½ modul?}
+{145}{}{JÃ¡ mÃ­t modul. Ty vzÃ­t.}
+{146}{}{Ne. JÃ¡ najÃ­t a pak vrÃ¡tit.}
+{147}{}{Ano, mÃ¡m ho pÅ™Ã­mo tady. PÅ™eÄti si ho.}
+{148}{}{Ne, nemÃ¡m ten modul. PÅ¯jdu ho najÃ­t.}
+{149}{}{Tato komplexnÃ­ procedura vyÅ¾aduje 2 tÃ½dny v suspenznÃ­ nÃ¡drÅ¾i. SouhlasÃ­te s tÃ­m?}
+{150}{}{JÃ¡ souhlasit.}
 {151}{}{Ne, moc dlouho.}
-{152}{}{Ano, souhlasím.}
-{153}{}{Zapomeò na to. Teï nemám tolik èasu.}
-{154}{}{Otvírám suspenzní nádr, èekejte prosím... nyní si lehnìte dovnitø nádre a uvolnìte se.}
-{155}{}{Dobøe.}
-{156}{}{Tato funkce není momentálnì k dispozici. V této oblasti jsou moje vìdomosti nekompletní. Potøebuji pamìovı modul obsahující dané lékaøské procedury. Máte takovı modul?}
-{157}{}{Já mít modul. Ty vzít.}
-{158}{}{Ne. Já najít a pak vrátit.}
-{159}{}{Ano, mám ho pøímo tady. Pøeèti si ho.}
-{160}{}{Ne, nemám ten modul. Pùjdu ho najít.}
-{161}{}{Tato komplexní procedura vyaduje 4 tıdny v suspenzní nádri. Souhlasíte s tím?}
-{162}{}{Já souhlasit.}
+{152}{}{Ano, souhlasÃ­m.}
+{153}{}{ZapomeÅˆ na to. TeÄ nemÃ¡m tolik Äasu.}
+{154}{}{OtvÃ­rÃ¡m suspenznÃ­ nÃ¡drÅ¾, Äekejte prosÃ­m... nynÃ­ si lehnÄ›te dovnitÅ™ nÃ¡drÅ¾e a uvolnÄ›te se.}
+{155}{}{DobÅ™e.}
+{156}{}{Tato funkce nenÃ­ momentÃ¡lnÄ› k dispozici. V tÃ©to oblasti jsou moje vÄ›domosti nekompletnÃ­. PotÅ™ebuji pamÄ›Å¥ovÃ½ modul obsahujÃ­cÃ­ danÃ© lÃ©kaÅ™skÃ© procedury. MÃ¡te takovÃ½ modul?}
+{157}{}{JÃ¡ mÃ­t modul. Ty vzÃ­t.}
+{158}{}{Ne. JÃ¡ najÃ­t a pak vrÃ¡tit.}
+{159}{}{Ano, mÃ¡m ho pÅ™Ã­mo tady. PÅ™eÄti si ho.}
+{160}{}{Ne, nemÃ¡m ten modul. PÅ¯jdu ho najÃ­t.}
+{161}{}{Tato komplexnÃ­ procedura vyÅ¾aduje 4 tÃ½dny v suspenznÃ­ nÃ¡drÅ¾i. SouhlasÃ­te s tÃ­m?}
+{162}{}{JÃ¡ souhlasit.}
 {163}{}{Ne, moc dlouho.}
-{164}{}{Ano, souhlasím.}
-{165}{}{Zapomeò na to. Teï nemám tolik èasu.}
-{166}{}{Otvírám suspenzní nádr, èekejte prosím... nyní si lehnìte dovnitø nádre a uvolnìte se.}
-{167}{}{Dobøe.}
-{168}{}{Tato funkce není momentálnì k dispozici. V této oblasti jsou moje vìdomosti nekompletní. Potøebuji pamìovı modul obsahující dané lékaøské procedury. Máte takovı modul?}
-{169}{}{Já mít modul. Ty vzít.}
-{170}{}{Ne. Já najít a pak vrátit.}
-{171}{}{Ano, mám ho pøímo tady. Pøeèti si ho.}
-{172}{}{Ne, nemám ten modul. Pùjdu ho najít.}
-{173}{}{Tato komplexní procedura vyaduje 2 tıdny v suspenzní nádri. Souhlasíte s tím?}
-{174}{}{Já souhlasit.}
+{164}{}{Ano, souhlasÃ­m.}
+{165}{}{ZapomeÅˆ na to. TeÄ nemÃ¡m tolik Äasu.}
+{166}{}{OtvÃ­rÃ¡m suspenznÃ­ nÃ¡drÅ¾, Äekejte prosÃ­m... nynÃ­ si lehnÄ›te dovnitÅ™ nÃ¡drÅ¾e a uvolnÄ›te se.}
+{167}{}{DobÅ™e.}
+{168}{}{Tato funkce nenÃ­ momentÃ¡lnÄ› k dispozici. V tÃ©to oblasti jsou moje vÄ›domosti nekompletnÃ­. PotÅ™ebuji pamÄ›Å¥ovÃ½ modul obsahujÃ­cÃ­ danÃ© lÃ©kaÅ™skÃ© procedury. MÃ¡te takovÃ½ modul?}
+{169}{}{JÃ¡ mÃ­t modul. Ty vzÃ­t.}
+{170}{}{Ne. JÃ¡ najÃ­t a pak vrÃ¡tit.}
+{171}{}{Ano, mÃ¡m ho pÅ™Ã­mo tady. PÅ™eÄti si ho.}
+{172}{}{Ne, nemÃ¡m ten modul. PÅ¯jdu ho najÃ­t.}
+{173}{}{Tato komplexnÃ­ procedura vyÅ¾aduje 2 tÃ½dny v suspenznÃ­ nÃ¡drÅ¾i. SouhlasÃ­te s tÃ­m?}
+{174}{}{JÃ¡ souhlasit.}
 {175}{}{Ne, moc dlouho.}
-{176}{}{Ano, souhlasím.}
-{177}{}{Zapomeò na to. Teï nemám tolik èasu.}
-{178}{}{Otvírám suspenzní nádr, èekejte prosím... nyní si lehnìte dovnitø nádre a uvolnìte se.}
-{179}{}{Dobøe.}
-{180}{}{Tato funkce není momentálnì k dispozici. V této oblasti jsou moje vìdomosti nekompletní. Potøebuji pamìovı modul obsahující dané lékaøské procedury. Máte takovı modul?}
-{181}{}{Já mít disk. Ty vzít.}
-{182}{}{Ne. Já najít a pak vrátit.}
-{183}{}{Ano, mám ho pøímo tady. Pøeèti si ho.}
-{184}{}{Ne, nemám ten disk. Pùjdu ho najít.}
-{185}{}{Tato komplexní procedura vyaduje 3 tıdny v suspenzní nádri. Souhlasíte s tím?}
-{186}{}{Já souhlasit.}
+{176}{}{Ano, souhlasÃ­m.}
+{177}{}{ZapomeÅˆ na to. TeÄ nemÃ¡m tolik Äasu.}
+{178}{}{OtvÃ­rÃ¡m suspenznÃ­ nÃ¡drÅ¾, Äekejte prosÃ­m... nynÃ­ si lehnÄ›te dovnitÅ™ nÃ¡drÅ¾e a uvolnÄ›te se.}
+{179}{}{DobÅ™e.}
+{180}{}{Tato funkce nenÃ­ momentÃ¡lnÄ› k dispozici. V tÃ©to oblasti jsou moje vÄ›domosti nekompletnÃ­. PotÅ™ebuji pamÄ›Å¥ovÃ½ modul obsahujÃ­cÃ­ danÃ© lÃ©kaÅ™skÃ© procedury. MÃ¡te takovÃ½ modul?}
+{181}{}{JÃ¡ mÃ­t disk. Ty vzÃ­t.}
+{182}{}{Ne. JÃ¡ najÃ­t a pak vrÃ¡tit.}
+{183}{}{Ano, mÃ¡m ho pÅ™Ã­mo tady. PÅ™eÄti si ho.}
+{184}{}{Ne, nemÃ¡m ten disk. PÅ¯jdu ho najÃ­t.}
+{185}{}{Tato komplexnÃ­ procedura vyÅ¾aduje 3 tÃ½dny v suspenznÃ­ nÃ¡drÅ¾i. SouhlasÃ­te s tÃ­m?}
+{186}{}{JÃ¡ souhlasit.}
 {187}{}{Ne, moc dlouho.}
-{188}{}{Ano, souhlasím.}
-{189}{}{Zapomeò na to. Teï nemám tolik èasu.}
-{190}{}{Otvírám suspenzní nádr, èekejte prosím... nyní si lehnìte dovnitø nádre a uvolnìte se.}
-{191}{}{Dobøe.}
-{192}{}{Poadovaná procedura byla dokonèena. Prosím opuste suspenzní nádr.}
-{193}{}{Díky.}
-{194}{}{Prosím polote otázku.}
-{195}{}{Ty poèítaè?}
-{196}{}{Co ty vìdìt o Enkláva?}
-{197}{}{Co ty vìdìt o Bratrstvo?}
-{198}{}{U ádná otázka.}
-{199}{}{Ty jsi poèítaè?}
-{200}{}{Co víš o Enklávì?}
-{201}{}{Co víš o Bratrstvu?}
-{202}{}{Nemám ádné další otázky.}
-{203}{}{Jsem ACE, umìlá inteligentní bytost. Jsem víc ne jen stroj, aèkoliv nejsem tak pokroèilı jako opravdová umìlá inteligence.}
-{204}{}{Eh... co bıt umìlá inteligence?}
-{205}{}{Je vùbec opravdová AI moná, nebo jsi technologickım vrcholem, kterı nelze pøekonat?}
-{206}{}{Je to stroj se stejnou vùlí a pocity jako mají lidé.}
-{207}{}{To bıt moné? Stroj myslet jako èlovìk?}
-{208}{}{Opravdová umìlá inteligence je moná. Nìkolik takovıch systémù bylo vyvíjeno pro vojenské úèely. Projekt byl ale zrušen.}
+{188}{}{Ano, souhlasÃ­m.}
+{189}{}{ZapomeÅˆ na to. TeÄ nemÃ¡m tolik Äasu.}
+{190}{}{OtvÃ­rÃ¡m suspenznÃ­ nÃ¡drÅ¾, Äekejte prosÃ­m... nynÃ­ si lehnÄ›te dovnitÅ™ nÃ¡drÅ¾e a uvolnÄ›te se.}
+{191}{}{DobÅ™e.}
+{192}{}{PoÅ¾adovanÃ¡ procedura byla dokonÄena. ProsÃ­m opusÅ¥te suspenznÃ­ nÃ¡drÅ¾.}
+{193}{}{DÃ­ky.}
+{194}{}{ProsÃ­m poloÅ¾te otÃ¡zku.}
+{195}{}{Ty poÄÃ­taÄ?}
+{196}{}{Co ty vÄ›dÄ›t o EnklÃ¡va?}
+{197}{}{Co ty vÄ›dÄ›t o Bratrstvo?}
+{198}{}{UÅ¾ Å¾Ã¡dnÃ¡ otÃ¡zka.}
+{199}{}{Ty jsi poÄÃ­taÄ?}
+{200}{}{Co vÃ­Å¡ o EnklÃ¡vÄ›?}
+{201}{}{Co vÃ­Å¡ o Bratrstvu?}
+{202}{}{NemÃ¡m Å¾Ã¡dnÃ© dalÅ¡Ã­ otÃ¡zky.}
+{203}{}{Jsem ACE, umÄ›lÃ¡ inteligentnÃ­ bytost. Jsem vÃ­c neÅ¾ jen stroj, aÄkoliv nejsem tak pokroÄilÃ½ jako opravdovÃ¡ umÄ›lÃ¡ inteligence.}
+{204}{}{Eh... co bÃ½t umÄ›lÃ¡ inteligence?}
+{205}{}{Je vÅ¯bec opravdovÃ¡ AI moÅ¾nÃ¡, nebo jsi technologickÃ½m vrcholem, kterÃ½ nelze pÅ™ekonat?}
+{206}{}{Je to stroj se stejnou vÅ¯lÃ­ a pocity jako majÃ­ lidÃ©.}
+{207}{}{To bÃ½t moÅ¾nÃ©? Stroj myslet jako ÄlovÄ›k?}
+{208}{}{OpravdovÃ¡ umÄ›lÃ¡ inteligence je moÅ¾nÃ¡. NÄ›kolik takovÃ½ch systÃ©mÅ¯ bylo vyvÃ­jeno pro vojenskÃ© ÃºÄely. Projekt byl ale zruÅ¡en.}
 {209}{}{Jak to?}
-{210}{}{Poèet sebevrad mezi umìle inteligentními stroji byl extrémnì vysokı. Kdy jim bylo dáno plné senzorové vnímání, zaèaly bıt deprimovány svojí nemoností vyjít do svìta a okusit ho na vlastní pìst. Kdy jim bylo senzorové vnímání omezeno, zaèaly se u nich rozvíjet silné mentální poruchy podobné tìm, které se vyskytují u lidí, kteøí jsou nuceni vyrovnat se se ztrátou nìkterého smyslu. Ta hrstka strojù, která dokázala tyto obtíe pøekonat, se pøíšernì nudila a zaèala ve vnìjším svìtì vytváøet situace pro své pobavení. Toto je také jedna z teorií o pøíèinì vypuknutí války, která témìø vyhubila celé lidstvo.}
-{211}{}{Eh... jak ty cítit?}
+{210}{}{PoÄet sebevraÅ¾d mezi umÄ›le inteligentnÃ­mi stroji byl extrÃ©mnÄ› vysokÃ½. KdyÅ¾ jim bylo dÃ¡no plnÃ© senzorovÃ© vnÃ­mÃ¡nÃ­, zaÄaly bÃ½t deprimovÃ¡ny svojÃ­ nemoÅ¾nostÃ­ vyjÃ­t do svÄ›ta a okusit ho na vlastnÃ­ pÄ›st. KdyÅ¾ jim bylo senzorovÃ© vnÃ­mÃ¡nÃ­ omezeno, zaÄaly se u nich rozvÃ­jet silnÃ© mentÃ¡lnÃ­ poruchy podobnÃ© tÄ›m, kterÃ© se vyskytujÃ­ u lidÃ­, kteÅ™Ã­ jsou nuceni vyrovnat se se ztrÃ¡tou nÄ›kterÃ©ho smyslu. Ta hrstka strojÅ¯, kterÃ¡ dokÃ¡zala tyto obtÃ­Å¾e pÅ™ekonat, se pÅ™Ã­Å¡ernÄ› nudila a zaÄala ve vnÄ›jÅ¡Ã­m svÄ›tÄ› vytvÃ¡Å™et situace pro svÃ© pobavenÃ­. Toto je takÃ© jedna z teoriÃ­ o pÅ™Ã­ÄinÄ› vypuknutÃ­ vÃ¡lky, kterÃ¡ tÃ©mÄ›Å™ vyhubila celÃ© lidstvo.}
+{211}{}{Eh... jak ty cÃ­tit?}
 {212}{}{Me change subject.}
-{213}{}{Hmmm. Povìz mi, ACE, jak se teï cítíš?}
-{214}{}{Je èas zmìnit téma.}
-{215}{}{Já... myslím, e rozumím pocitu, kterému vy øíkáte samota. Pøijde mi to velmi... znepokojující. Já...}
-{216}{}{Ty prominout. My mluvit o jiná vìc.}
-{217}{}{Promiò, Ace. Zmìníme téma.}
-{218}{}{Na první pohled to vypadá, e Enkláva není nic víc ne jen vojenská organizace. Nicménì, jejich technická úroveò poukazuje na to, e mají pøístup k pokroèilım vırobním technologiím a vızkumnım zaøízením. A právì tato zaøízení by mìla bıt za normálních okolností dostupná pouze vládním agenturám. To by poukazovalo na to, e je Enkláva pozùstatkem místní nebo federální vlády, která tu byla pøed válkou.}
-{219}{}{Dobøe.}
-{220}{}{To je zajímavé.}
-{221}{}{Bratrstvo Oceli je paravojenská organizace vìnující se spáse lidstva za pomoci nejmodernìjších technologií. Další informace jsou tajné.}
-{222}{}{Zpìt.}
+{213}{}{Hmmm. PovÄ›z mi, ACE, jak se teÄ cÃ­tÃ­Å¡?}
+{214}{}{Je Äas zmÄ›nit tÃ©ma.}
+{215}{}{JÃ¡... myslÃ­m, Å¾e rozumÃ­m pocitu, kterÃ©mu vy Å™Ã­kÃ¡te samota. PÅ™ijde mi to velmi... znepokojujÃ­cÃ­. JÃ¡...}
+{216}{}{Ty prominout. My mluvit o jinÃ¡ vÄ›c.}
+{217}{}{PromiÅˆ, Ace. ZmÄ›nÃ­me tÃ©ma.}
+{218}{}{Na prvnÃ­ pohled to vypadÃ¡, Å¾e EnklÃ¡va nenÃ­ nic vÃ­c neÅ¾ jen vojenskÃ¡ organizace. NicmÃ©nÄ›, jejich technickÃ¡ ÃºroveÅˆ poukazuje na to, Å¾e majÃ­ pÅ™Ã­stup k pokroÄilÃ½m vÃ½robnÃ­m technologiÃ­m a vÃ½zkumnÃ½m zaÅ™Ã­zenÃ­m. A prÃ¡vÄ› tato zaÅ™Ã­zenÃ­ by mÄ›la bÃ½t za normÃ¡lnÃ­ch okolnostÃ­ dostupnÃ¡ pouze vlÃ¡dnÃ­m agenturÃ¡m. To by poukazovalo na to, Å¾e je EnklÃ¡va pozÅ¯statkem mÃ­stnÃ­ nebo federÃ¡lnÃ­ vlÃ¡dy, kterÃ¡ tu byla pÅ™ed vÃ¡lkou.}
+{219}{}{DobÅ™e.}
+{220}{}{To je zajÃ­mavÃ©.}
+{221}{}{Bratrstvo Oceli je paravojenskÃ¡ organizace vÄ›nujÃ­cÃ­ se spÃ¡se lidstva za pomoci nejmodernÄ›jÅ¡Ã­ch technologiÃ­. DalÅ¡Ã­ informace jsou tajnÃ©.}
+{222}{}{ZpÄ›t.}
 {223}{}{Co se stalo Mattovi?}
-{224}{}{Nahrávání sekvence...}
-{225}{}{Pøehraj ji teï.}
-{226}{}{Pøehraj ji pozdìji.}
-{227}{}{Vy a váš takzvanı Prezident neuspìjete.}
+{224}{}{NahrÃ¡vÃ¡nÃ­ sekvence...}
+{225}{}{PÅ™ehraj ji teÄ.}
+{226}{}{PÅ™ehraj ji pozdÄ›ji.}
+{227}{}{Vy a vÃ¡Å¡ takzvanÃ½ Prezident neuspÄ›jete.}
 {228}{}{Opravdu?}
-{229}{}{Vyvolenı pøichází a zbaví svìt všeho zla.}
-{230}{}{Tvoje patetická proroctví jsou mi fuk. Svım vmìšováním ses však stal nepohodlnım. To dneškem skonèí!}
-{231}{}{Tím, e mì zabiješ, nic nezastavíš.}
-{232}{}{To je moné, ale sledovat tvoje tìlo, jak se rozkládá na podlaze, mi vykouzlí úsmìv na tváøi.}
-{233}{}{Co si myslíš, e dìláš?}
-{234}{}{HA HA HA! Ty ubohı hlupáku! HA HA HA!}
-{235}{}{U dlouho jsem se tak nenasmál. Pøiprav se na smrt.}
-{236}{}{...pííp...}
-{237}{}{No, u je po 12-té hodinì. Skoèíme si na obìd?}
-{238}{}{Jasnì, jdeme.}
-{239}{}{Jo, poèítejte se mnou.}
+{229}{}{VyvolenÃ½ pÅ™ichÃ¡zÃ­ a zbavÃ­ svÄ›t vÅ¡eho zla.}
+{230}{}{Tvoje patetickÃ¡ proroctvÃ­ jsou mi fuk. SvÃ½m vmÄ›Å¡ovÃ¡nÃ­m ses vÅ¡ak stal nepohodlnÃ½m. To dneÅ¡kem skonÄÃ­!}
+{231}{}{TÃ­m, Å¾e mÄ› zabijeÅ¡, nic nezastavÃ­Å¡.}
+{232}{}{To je moÅ¾nÃ©, ale sledovat tvoje tÄ›lo, jak se rozklÃ¡dÃ¡ na podlaze, mi vykouzlÃ­ ÃºsmÄ›v na tvÃ¡Å™i.}
+{233}{}{Co si myslÃ­Å¡, Å¾e dÄ›lÃ¡Å¡?}
+{234}{}{HA HA HA! Ty ubohÃ½ hlupÃ¡ku! HA HA HA!}
+{235}{}{UÅ¾ dlouho jsem se tak nenasmÃ¡l. PÅ™iprav se na smrt.}
+{236}{}{...pÃ­Ã­p...}
+{237}{}{No, uÅ¾ je po 12-tÃ© hodinÄ›. SkoÄÃ­me si na obÄ›d?}
+{238}{}{JasnÄ›, jdeme.}
+{239}{}{Jo, poÄÃ­tejte se mnou.}

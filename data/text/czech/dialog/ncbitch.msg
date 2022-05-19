@@ -1,24 +1,24 @@
-{100}{}{Vidíš jednoho z bodygardù Korsickıch bratrù.}
-{150}{}{Vidíš drsnì vypadající enu se zelenım èírem. Opatruje svùj samopal, jako by to bylo její dítì.}
-{151}{}{Vidíš jednoho z bodygardù Korsickıch bratrù.}
-{200}{}{Zachránil jsi celej svìt, co? No to je toho.}
-{201}{}{Hmm, jseš mùj hrdina. A teï ODPREJSKNI.}
-{300}{}{Haló?}
-{301}{}{Hele, támhle je nìjaká pìkná blondınka...}
-{302}{}{Copak, jseš moc nóbl na to, abys se mnou mluvil?}
-{303}{}{Øekni nìco. Cokoliv!}
-{400}{}{Èurák.}
+{100}{}{VidÃ­Å¡ jednoho z bodygardÅ¯ KorsickÃ½ch bratrÅ¯.}
+{150}{}{VidÃ­Å¡ drsnÄ› vypadajÃ­cÃ­ Å¾enu se zelenÃ½m ÄÃ­rem. Opatruje svÅ¯j samopal, jako by to bylo jejÃ­ dÃ­tÄ›.}
+{151}{}{VidÃ­Å¡ jednoho z bodygardÅ¯ KorsickÃ½ch bratrÅ¯.}
+{200}{}{ZachrÃ¡nil jsi celej svÄ›t, co? No to je toho.}
+{201}{}{Hmm, jseÅ¡ mÅ¯j hrdina. A teÄ ODPREJSKNI.}
+{300}{}{HalÃ³?}
+{301}{}{Hele, tÃ¡mhle je nÄ›jakÃ¡ pÄ›knÃ¡ blondÃ½nka...}
+{302}{}{Copak, jseÅ¡ moc nÃ³bl na to, abys se mnou mluvil?}
+{303}{}{Å˜ekni nÄ›co. Cokoliv!}
+{400}{}{ÄŒurÃ¡k.}
 {401}{}{Kokot.}
-{402}{}{Sráè.}
-{403}{}{Jo, jdi pryè, idiote.}
-{404}{}{Doufám, e u nikdy nebudu mít to "potìšení" setkat se znovu s takovım kreténem.}
-{405}{}{Ta holka by si mìla vzít Tic-Tac.}
-{406}{}{Dìvka.}
-{500}{}{Rozpaèitì se na tebe dívá.}
-{501}{}{Oèividnì neví co øíct.}
-{600}{}{Ráda bych si ho vzala do postele a zahrála si s ním "kulièky".}
-{601}{}{Mùeš mì s ním nìkdy seznámit?}
+{402}{}{SrÃ¡Ä.}
+{403}{}{Jo, jdi pryÄ, idiote.}
+{404}{}{DoufÃ¡m, Å¾e uÅ¾ nikdy nebudu mÃ­t to "potÄ›Å¡enÃ­" setkat se znovu s takovÃ½m kretÃ©nem.}
+{405}{}{Ta holka by si mÄ›la vzÃ­t Tic-Tac.}
+{406}{}{DÄ›vka.}
+{500}{}{RozpaÄitÄ› se na tebe dÃ­vÃ¡.}
+{501}{}{OÄividnÄ› nevÃ­ co Å™Ã­ct.}
+{600}{}{RÃ¡da bych si ho vzala do postele a zahrÃ¡la si s nÃ­m "kuliÄky".}
+{601}{}{MÅ¯Å¾eÅ¡ mÄ› s nÃ­m nÄ›kdy seznÃ¡mit?}
 {602}{}{Hmmm...}
-{603}{}{Mùeš mì s ní nìkdy seznámit?}
-{604}{}{Moc rád bych to s ní dal dohromady.}
-{605}{}{Jsem do ní strašnì zamilovanej, ale bojím se jí to øíct.}
+{603}{}{MÅ¯Å¾eÅ¡ mÄ› s nÃ­ nÄ›kdy seznÃ¡mit?}
+{604}{}{Moc rÃ¡d bych to s nÃ­ dal dohromady.}
+{605}{}{Jsem do nÃ­ straÅ¡nÄ› zamilovanej, ale bojÃ­m se jÃ­ to Å™Ã­ct.}

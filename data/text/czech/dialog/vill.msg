@@ -1,5 +1,5 @@
-{100}{}{Pøi vstupu do malé vesnice tì praštil do nosu známı zápach hlodavcù. Vídíš nìkolik krtèích potkanù, kteøí se potulují kolem. Z nìjakého dùvodu neútoèí na tebe ani na rolníky, kteøí zde ijí.}
-{101}{}{Vesnice vypadá liduprázdnì. Vzduch je plnı rozkládajících se mrtvol krtèích potkanù.}
-{102}{}{Vesnice se od tvé poslední návštìvy hodnì zmìnila.}
-{103}{}{Od tvé poslední návštìvy se toho zmìnilo ještì víc. Zdá se, e byla ochrana krtkopotkany vymìnìna za zeï.}
-{104}{}{Hej! Kam se všichni podìli?}
+{100}{}{PÅ™i vstupu do malÃ© vesnice tÄ› praÅ¡til do nosu znÃ¡mÃ½ zÃ¡pach hlodavcÅ¯. VÃ­dÃ­Å¡ nÄ›kolik krtÄÃ­ch potkanÅ¯, kteÅ™Ã­ se potulujÃ­ kolem. Z nÄ›jakÃ©ho dÅ¯vodu neÃºtoÄÃ­ na tebe ani na rolnÃ­ky, kteÅ™Ã­ zde Å¾ijÃ­.}
+{101}{}{Vesnice vypadÃ¡ liduprÃ¡zdnÄ›. Vzduch je plnÃ½ rozklÃ¡dajÃ­cÃ­ch se mrtvol krtÄÃ­ch potkanÅ¯.}
+{102}{}{Vesnice se od tvÃ© poslednÃ­ nÃ¡vÅ¡tÄ›vy hodnÄ› zmÄ›nila.}
+{103}{}{Od tvÃ© poslednÃ­ nÃ¡vÅ¡tÄ›vy se toho zmÄ›nilo jeÅ¡tÄ› vÃ­c. ZdÃ¡ se, Å¾e byla ochrana krtkopotkany vymÄ›nÄ›na za zeÄ.}
+{104}{}{Hej! Kam se vÅ¡ichni podÄ›li?}

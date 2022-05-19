@@ -1,2 +1,2 @@
-{100}{}{Vidíš generátor pro napájení hologramù.}
-{102}{}{Generátor slouící k napájení hologramù. NEDOTİKAT SE!}
+{100}{}{VidÃ­Å¡ generÃ¡tor pro napÃ¡jenÃ­ hologramÅ¯.}
+{102}{}{GenerÃ¡tor slouÅ¾Ã­cÃ­ k napÃ¡jenÃ­ hologramÅ¯. NEDOTÃKAT SE!}

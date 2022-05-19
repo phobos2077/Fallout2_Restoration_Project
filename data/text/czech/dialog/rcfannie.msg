@@ -1,96 +1,96 @@
-{100}{}{Vidíš opotøebovanì vypadající enu.}
-{101}{}{Vidíš Fannie Mae, jednu z hostesek hospody U Malamuta.}
-{102}{}{Vidíš enu, která vypadá, e u má najeto pìknıch pár mil. Mezi nohama.}
-{103}{}{(Fannie je celá bledá a vrávorá smìrem k tobì.) Nazdar, drahoušku. Poslední dobou se necejtím moc dobøe. Mohl bys obìtovat trochu penìz na palivo? Vynahradím ti to. (ušklíbne se)}
-{104}{}{(Fannie je celá bledá a vrávorá smìrem k tobì.) Nazdárek, sestro. Mohla bys obìtovat trochu penìz na pomoc nešastnı holce? Ne se zase postavím na nohy, víš.}
-{105}{}{(Fannie nevypadá zrovna nejlépe.) Ahoj, slaïouši. Nechceš si uít trochu srandy s Fannie? Pro tebe jen za polovinu, drahoušku. Kam jsem jenom dala ten Jet?}
-{106}{}{(Fannie nevypadá zrovna nejlépe.) Nazdárek, sleèinko, nemáš nìjakı drobnı? Nebo dokonce trochu Jetu?}
-{107}{}{Fannie, vypadáš opravdu hroznì. Co kdybys toho Jetu na chvíli nechala?}
-{108}{}{Myslím, e u jsi okusila hodnì z mojí dobroèinnosti a zdá se, e ti to vùbec nepomohlo.}
-{109}{}{U jsi mìla dost.}
-{110}{}{Co kdyby ses z toho radìji vyspala?}
-{111}{}{Jet je jediná vìc, která mi umoní lítat. ./~Pojï létat se mnou ./~ Cítím se po nìm jako bohynì.}
-{112}{}{Ty máš ale nápady... no nic, stejnì tì nepotøebuju. Je spousta lidí, co rádi zaplatìj za Faniin pùvab. Jestli mi nedáš prachy na Jet, tak odsud zmiz.}
-{113}{}{Mám nìco, co dokáe vyléèit tvoji závislost na Jetu.}
-{114}{}{Najdi si nìjakého jiného blbeèka, Fannie. Sbohem.}
-{115}{}{Jestli v tom budeš pokraèovat, tak se jednou zabiješ. Nehodlám tì pøi tom pozorovat. Sbohem.}
+{100}{}{VidÃ­Å¡ opotÅ™ebovanÄ› vypadajÃ­cÃ­ Å¾enu.}
+{101}{}{VidÃ­Å¡ Fannie Mae, jednu z hostesek hospody U Malamuta.}
+{102}{}{VidÃ­Å¡ Å¾enu, kterÃ¡ vypadÃ¡, Å¾e uÅ¾ mÃ¡ najeto pÄ›knÃ½ch pÃ¡r mil. Mezi nohama.}
+{103}{}{(Fannie je celÃ¡ bledÃ¡ a vrÃ¡vorÃ¡ smÄ›rem k tobÄ›.) Nazdar, drahouÅ¡ku. PoslednÃ­ dobou se necejtÃ­m moc dobÅ™e. Mohl bys obÄ›tovat trochu penÄ›z na palivo? VynahradÃ­m ti to. (uÅ¡klÃ­bne se)}
+{104}{}{(Fannie je celÃ¡ bledÃ¡ a vrÃ¡vorÃ¡ smÄ›rem k tobÄ›.) NazdÃ¡rek, sestro. Mohla bys obÄ›tovat trochu penÄ›z na pomoc neÅ¡Å¥astnÃ½ holce? NeÅ¾ se zase postavÃ­m na nohy, vÃ­Å¡.}
+{105}{}{(Fannie nevypadÃ¡ zrovna nejlÃ©pe.) Ahoj, slaÄouÅ¡i. NechceÅ¡ si uÅ¾Ã­t trochu srandy s Fannie? Pro tebe jen za polovinu, drahouÅ¡ku. Kam jsem jenom dala ten Jet?}
+{106}{}{(Fannie nevypadÃ¡ zrovna nejlÃ©pe.) NazdÃ¡rek, sleÄinko, nemÃ¡Å¡ nÄ›jakÃ½ drobnÃ½? Nebo dokonce trochu Jetu?}
+{107}{}{Fannie, vypadÃ¡Å¡ opravdu hroznÄ›. Co kdybys toho Jetu na chvÃ­li nechala?}
+{108}{}{MyslÃ­m, Å¾e uÅ¾ jsi okusila hodnÄ› z mojÃ­ dobroÄinnosti a zdÃ¡ se, Å¾e ti to vÅ¯bec nepomohlo.}
+{109}{}{UÅ¾ jsi mÄ›la dost.}
+{110}{}{Co kdyby ses z toho radÄ›ji vyspala?}
+{111}{}{Jet je jedinÃ¡ vÄ›c, kterÃ¡ mi umoÅ¾nÃ­ lÃ­tat. ./~PojÄ lÃ©tat se mnou ./~ CÃ­tÃ­m se po nÄ›m jako bohynÄ›.}
+{112}{}{Ty mÃ¡Å¡ ale nÃ¡pady... no nic, stejnÄ› tÄ› nepotÅ™ebuju. Je spousta lidÃ­, co rÃ¡di zaplatÄ›j za Faniin pÅ¯vab. Jestli mi nedÃ¡Å¡ prachy na Jet, tak odsud zmiz.}
+{113}{}{MÃ¡m nÄ›co, co dokÃ¡Å¾e vylÃ©Äit tvoji zÃ¡vislost na Jetu.}
+{114}{}{Najdi si nÄ›jakÃ©ho jinÃ©ho blbeÄka, Fannie. Sbohem.}
+{115}{}{Jestli v tom budeÅ¡ pokraÄovat, tak se jednou zabijeÅ¡. NehodlÃ¡m tÄ› pÅ™i tom pozorovat. Sbohem.}
 {116}{}{Ty jsi ale kus.}
-{117}{}{Fannie s blbeèkama nespí.}
-{118}{}{Vra se, a budeš mít víc penìz, a Fannie tì moná nìèemu pøiuèí.}
-{119}{}{Nejseš zrovna nejbystøejší, viï?}
-{120}{}{Jseš chytrej jak lopata.}
-{121}{}{Vyléèit? Jseš blázen? Vypadám snad, e chci vyléèit? Chceš snad, abych se cítila líp, drahoušku? Radši mi dej víc Jetu.}
-{122}{}{No dobøe, ta trocha ti snad neublíí. Tady máš Jet.}
-{123}{}{U jsi mìla dost Jetu. Poslední vìc, co chci vidìt, je další závislák na Jetu. Sbohem.}
-{124}{}{Mít u sebe Jet, nechám ho si pro svoje vlastní potøeby. Sbohem.}
-{125}{}{Jo, to jsem pøesnì potøebovala. Jooooo. To je skvìlı. Mmmmm...}
-{126}{}{Eh, asi tì nechám o samotì, aby sis to mohla poøádnì uít. Sbohem.}
-{127}{}{Vypadá to, e jsi teï pìknì sjetá. Uvidíme se pozdìji. Sbohem.}
-{128}{}{Nazdar, fešáku. Chodíš sem èasto? Pøišel jsi sem navštívit Fannie Mae?}
-{129}{}{Zdravím, sestro. Sháníš práci?}
-{130}{}{Eh, jo. Pøišel jsem tì navštívit.}
-{131}{}{Práci? Jakou práci?}
-{132}{}{Eh, jenom se tak dívám. Sbohem.}
-{133}{}{Jseš zlatej. A taky pìknì ostıchavej. Návštìva u mì tì bude stát $60, zlato.}
-{134}{}{Snad u teï vydríš o trochu dıl, zlato. Víc si tak uiješ svejch $60.}
-{135}{}{Ne tak zhurta, drahoušku. Zavedu tì do sedmıho nebe za pouhıch $60.}
-{136}{}{60 babek, jo? To je docela rozumná cena. Tady máš peníze.}
-{137}{}{Díky za nabídku, ale moná nìkdy jindy. Sbohem.}
-{138}{}{$60? Myslím, e za takovou cenu nemám zájem. Sbohem.}
-{139}{}{Byl jsi ke mnì tak milej. Cítila jsem, e to pro tebe nìco znamenalo. (vzlyk) Pøála bych si, aby to tak bylo pokadı.}
-{140}{}{No, se mnou to takové bude pokadé.}
-{141}{}{Ty opravdu víš, jak èlovìka potìšit.}
-{142}{}{U to nechci dìlat. Já a mı kámoši odsud vypadneme a budeme ít spoøádanej ivot. Teda a zaplatím Lou.}
-{143}{}{A zaplatíš Lou?}
-{144}{}{Hele, u jsem ti dával peníze. O èem to mluvíš?}
-{145}{}{No, víš... dluím Lou nìjakı prachy a nemùu odejít døív, ne jí zaplatím. A a to udìlám, (smrk) vezmu s sebou svıho pøítele a zmizíme odsud tak daleko, jak to jen pùjde. Pokud ale seenu nìjakı prachy.}
-{146}{}{Kolik ještì musíš zaplatit Lou?}
-{147}{}{A to ti s tìmi penìzi nemùe pomoct tvùj pøítel?}
-{148}{}{To je opravdu smutnı pøíbìh, ale podle mì ty peníze brzy seeneš. Staèí kdy budeš poøádnì roztahovat nohy. Sbohem.}
-{149}{}{Potøebuju jen $200 a mùj pøítel a já odsud odejdeme nezadluení a volní. U ádnı divnı, špinavı lidi, co mì osahávaj ve dne v noci. Eh, bez uráky.}
-{150}{}{V pohodì. Já tì snad neosahával, nebo jo? Nicménì, mùu tì odsud vyplatit. Tady máš $200.}
-{151}{}{To je opravdu smutné. No, asi by ses mìla vrátit do práce. Sbohem.}
-{152}{}{Ach, díky, díky. A já myslela, e tak hodní lidi existujou jenom ve snech. Jseš nejlepší. Ještì jednou díky. Poèkej, nechceš si to ještì jednou rozdat? Budeš to mít zadarmo.}
-{153}{}{No, proè ne, Fannie. Rád tvou nabídku pøijmu.}
-{154}{}{To opravdu není nutné, Fannie. Radìji bì pouít ty peníze, abys koneènì skonèila s tímhle ivotem. Sbohem.}
-{155}{}{On by opravdu chtìl, ale stìí vychází ze svıho hornickıho platu. Poøád doufáme, e se mu podaøí najít poøádnı loisko zlata, ale zatím nic. A navíc na nìj minulej tejden spadl trám a zlomil mu nohu, take teï nemùe pracovat. Musím mu teï dávat tìch pár penìz, co našetøím, ne se uzdraví.}
-{156}{}{To vypadá, e vy dva asi nemáte moc velké štìstí. Kolik e to potøebuješ?}
-{157}{}{Ještì jednou díky. U to bìím øíct svımu pøíteli. Vypadneme odsud hned, jak se uzdraví.}
-{158}{}{To bylo opravdu velkorysé podìkování, Fannie. Radìji odsud odejdu, dokud ještì mùu chodit. Rádo se stalo. Sbohem.}
-{159}{}{Tvùj odchod bude pro tenhle podnik velká ztráta, Fannie. Sbohem.}
-{160}{}{Zdravím. Nechceš strávit nìjakej èas s Fannie?}
-{161}{}{Nedal jsem ti snad peníze, abys tohle pøestala dìlat?}
-{162}{}{Jasnì, to zní dobøe. Ještì e jsi neodešla.}
-{163}{}{No, ano... ale ukázalo se, e dluím Lou víc, ne jsem si myslela.}
-{164}{}{Kolik ještì potøebuješ?}
-{165}{}{U to nebudu poslouchat. Sbohem.}
-{166}{}{Eh, já vím, a jsem ti opravdu vdìèná... ale bohuel dluím Lou víc, ne jsem si myslela. Potøebuju další prachy.}
-{167}{}{To si snad dìláš srandu! Kolik ještì potøebuješ?}
-{168}{}{No, ode mì u víc nedostaneš. Sbohem.}
-{169}{}{To je v pohodì, zlato. U jsi mi pomohl dost. (smrk) Potøebuju u jenom $150.}
-{170}{}{No, jestli to bude u koneènì staèit... ale víc ti u nedám. Myslím to vánì.}
-{171}{}{Jo, jasnì. Padám odsud. Sbohem.}
-{172}{}{Vítám tì zpátky. Chceš si trošku uít, nebo mi chceš dát víc penìz pro Lou?}
-{173}{}{Pøišel jsem si jen uít, Fannie. Pak uvidíme.}
-{174}{}{Kolik ještì musíš zaplatit Lou?}
-{175}{}{Jenom tak procházím. Sbohem, Fannie.}
-{176}{}{Vdycky jsem ráda, kdy se ke mnì zákazníci vracej. Kvùli tobì dokonce vymìním i prostìradlo.}
-{177}{}{Ty opravdu víš, jak chlapa potìšit. Díky.}
-{178}{}{Eh, rozmyslel jsem si to. Uvidíme se pozdìji, Fannie. Sbohem.}
-{179}{}{Vdy víš, roztahování nohou. Vsadím se, e by sis s takovou figurou dokázala pìknì vydìlat.}
-{180}{}{Vdy víš, roztahování nohou. Sice nevypadáš nic moc, ale stejnì by sis dokázala vydìlat. Horníci nejsou zrovna moc vybíraví, to mi vìø.}
-{181}{}{Myslíš? Hmm, moná bych to mìla zkusit.}
-{182}{}{To není nic pro mì. Sbohem.}
-{183}{}{V tom pøípadì doufám, e nemáš moc vybíravej nosánek, protoe horníci nemaj zrovna moc v lásce vodu a mıdlo.}
-{184}{}{Opravdu? No, moná to pro mì tak úplnì není. Ale díky za nabídku. Sbohem.}
-{185}{}{Nechápu, jak to mùeš vydret, ale hádám, e taky asi nevydríš. Tím myslím ten smrad. Sbohem.}
-{186}{}{(Fannie vypadá, jako kdyby z ní spadlo tìké bøemeno, které ji pøedtím tíilo.) Hej, to jsi ty! Lou mi øekla, co jsi udìlal. Z toho, co mi nalila do pití, se mi udìlalo pìknì blbì, ale od tı doby nemám vùbec nutkání si vzít další dávku Jetu. (Políbí tì na tváø.) Ani nevím, jak bych se ti mohla odvdìèit... teda, vìdìla bych o jednı *vìci*. Kdykoliv budeš mít náladu, tak se zastav. Bez placení. (mrkne)}
-{187}{}{Budu na to myslet. Díky, Fannie.}
-{188}{}{Ještì jednou díky. (olízne si ret) A pamatuj, pro tebe je to vdycky na úèet podniku. (mrkne)}
-{189}{}{Zdravím! Nechceš strávit nìkolik pøíjemnejch chvilek s Fannie? Na úèet podniku, samozøejmì. (ušklíbne se)}
-{190}{}{Promiò, zlato... ale nìjak se necejtím se ve svı kùi. Stav se pozdìji.}
-{191}{}{Máš teï na chvilinku èas?}
-{192}{}{Vra se kdykoliv budeš chtít! Vdycky si to ráda zopakuju.}
+{117}{}{Fannie s blbeÄkama nespÃ­.}
+{118}{}{VraÅ¥ se, aÅ¾ budeÅ¡ mÃ­t vÃ­c penÄ›z, a Fannie tÄ› moÅ¾nÃ¡ nÄ›Äemu pÅ™iuÄÃ­.}
+{119}{}{NejseÅ¡ zrovna nejbystÅ™ejÅ¡Ã­, viÄ?}
+{120}{}{JseÅ¡ chytrej jak lopata.}
+{121}{}{VylÃ©Äit? JseÅ¡ blÃ¡zen? VypadÃ¡m snad, Å¾e chci vylÃ©Äit? ChceÅ¡ snad, abych se cÃ­tila lÃ­p, drahouÅ¡ku? RadÅ¡i mi dej vÃ­c Jetu.}
+{122}{}{No dobÅ™e, ta trocha ti snad neublÃ­Å¾Ã­. Tady mÃ¡Å¡ Jet.}
+{123}{}{UÅ¾ jsi mÄ›la dost Jetu. PoslednÃ­ vÄ›c, co chci vidÄ›t, je dalÅ¡Ã­ zÃ¡vislÃ¡k na Jetu. Sbohem.}
+{124}{}{MÃ­t u sebe Jet, nechÃ¡m ho si pro svoje vlastnÃ­ potÅ™eby. Sbohem.}
+{125}{}{Jo, to jsem pÅ™esnÄ› potÅ™ebovala. Jooooo. To je skvÄ›lÃ½. Mmmmm...}
+{126}{}{Eh, asi tÄ› nechÃ¡m o samotÄ›, aby sis to mohla poÅ™Ã¡dnÄ› uÅ¾Ã­t. Sbohem.}
+{127}{}{VypadÃ¡ to, Å¾e jsi teÄ pÄ›knÄ› sjetÃ¡. UvidÃ­me se pozdÄ›ji. Sbohem.}
+{128}{}{Nazdar, feÅ¡Ã¡ku. ChodÃ­Å¡ sem Äasto? PÅ™iÅ¡el jsi sem navÅ¡tÃ­vit Fannie Mae?}
+{129}{}{ZdravÃ­m, sestro. ShÃ¡nÃ­Å¡ prÃ¡ci?}
+{130}{}{Eh, jo. PÅ™iÅ¡el jsem tÄ› navÅ¡tÃ­vit.}
+{131}{}{PrÃ¡ci? Jakou prÃ¡ci?}
+{132}{}{Eh, jenom se tak dÃ­vÃ¡m. Sbohem.}
+{133}{}{JseÅ¡ zlatej. A taky pÄ›knÄ› ostÃ½chavej. NÃ¡vÅ¡tÄ›va u mÄ› tÄ› bude stÃ¡t $60, zlato.}
+{134}{}{Snad uÅ¾ teÄ vydrÅ¾Ã­Å¡ o trochu dÃ½l, zlato. VÃ­c si tak uÅ¾ijeÅ¡ svejch $60.}
+{135}{}{Ne tak zhurta, drahouÅ¡ku. Zavedu tÄ› do sedmÃ½ho nebe za pouhÃ½ch $60.}
+{136}{}{60 babek, jo? To je docela rozumnÃ¡ cena. Tady mÃ¡Å¡ penÃ­ze.}
+{137}{}{DÃ­ky za nabÃ­dku, ale moÅ¾nÃ¡ nÄ›kdy jindy. Sbohem.}
+{138}{}{$60? MyslÃ­m, Å¾e za takovou cenu nemÃ¡m zÃ¡jem. Sbohem.}
+{139}{}{Byl jsi ke mnÄ› tak milej. CÃ­tila jsem, Å¾e to pro tebe nÄ›co znamenalo. (vzlyk) PÅ™Ã¡la bych si, aby to tak bylo pokaÅ¾dÃ½.}
+{140}{}{No, se mnou to takovÃ© bude pokaÅ¾dÃ©.}
+{141}{}{Ty opravdu vÃ­Å¡, jak ÄlovÄ›ka potÄ›Å¡it.}
+{142}{}{UÅ¾ to nechci dÄ›lat. JÃ¡ a mÃ½ kÃ¡moÅ¡i odsud vypadneme a budeme Å¾Ã­t spoÅ™Ã¡danej Å¾ivot. Teda aÅ¾ zaplatÃ­m Lou.}
+{143}{}{AÅ¾ zaplatÃ­Å¡ Lou?}
+{144}{}{Hele, uÅ¾ jsem ti dÃ¡val penÃ­ze. O Äem to mluvÃ­Å¡?}
+{145}{}{No, vÃ­Å¡... dluÅ¾Ã­m Lou nÄ›jakÃ½ prachy a nemÅ¯Å¾u odejÃ­t dÅ™Ã­v, neÅ¾ jÃ­ zaplatÃ­m. A aÅ¾ to udÄ›lÃ¡m, (smrk) vezmu s sebou svÃ½ho pÅ™Ã­tele a zmizÃ­me odsud tak daleko, jak to jen pÅ¯jde. Pokud ale seÅ¾enu nÄ›jakÃ½ prachy.}
+{146}{}{Kolik jeÅ¡tÄ› musÃ­Å¡ zaplatit Lou?}
+{147}{}{A to ti s tÄ›mi penÄ›zi nemÅ¯Å¾e pomoct tvÅ¯j pÅ™Ã­tel?}
+{148}{}{To je opravdu smutnÃ½ pÅ™Ã­bÄ›h, ale podle mÄ› ty penÃ­ze brzy seÅ¾eneÅ¡. StaÄÃ­ kdyÅ¾ budeÅ¡ poÅ™Ã¡dnÄ› roztahovat nohy. Sbohem.}
+{149}{}{PotÅ™ebuju jen $200 a mÅ¯j pÅ™Ã­tel a jÃ¡ odsud odejdeme nezadluÅ¾enÃ­ a volnÃ­. UÅ¾ Å¾Ã¡dnÃ½ divnÃ½, Å¡pinavÃ½ lidi, co mÄ› osahÃ¡vaj ve dne v noci. Eh, bez urÃ¡Å¾ky.}
+{150}{}{V pohodÄ›. JÃ¡ tÄ› snad neosahÃ¡val, nebo jo? NicmÃ©nÄ›, mÅ¯Å¾u tÄ› odsud vyplatit. Tady mÃ¡Å¡ $200.}
+{151}{}{To je opravdu smutnÃ©. No, asi by ses mÄ›la vrÃ¡tit do prÃ¡ce. Sbohem.}
+{152}{}{Ach, dÃ­ky, dÃ­ky. A jÃ¡ myslela, Å¾e tak hodnÃ­ lidi existujou jenom ve snech. JseÅ¡ nejlepÅ¡Ã­. JeÅ¡tÄ› jednou dÃ­ky. PoÄkej, nechceÅ¡ si to jeÅ¡tÄ› jednou rozdat? BudeÅ¡ to mÃ­t zadarmo.}
+{153}{}{No, proÄ ne, Fannie. RÃ¡d tvou nabÃ­dku pÅ™ijmu.}
+{154}{}{To opravdu nenÃ­ nutnÃ©, Fannie. RadÄ›ji bÄ›Å¾ pouÅ¾Ã­t ty penÃ­ze, abys koneÄnÄ› skonÄila s tÃ­mhle Å¾ivotem. Sbohem.}
+{155}{}{On by opravdu chtÄ›l, ale stÄ›Å¾Ã­ vychÃ¡zÃ­ ze svÃ½ho hornickÃ½ho platu. PoÅ™Ã¡d doufÃ¡me, Å¾e se mu podaÅ™Ã­ najÃ­t poÅ™Ã¡dnÃ½ loÅ¾isko zlata, ale zatÃ­m nic. A navÃ­c na nÄ›j minulej tejden spadl trÃ¡m a zlomil mu nohu, takÅ¾e teÄ nemÅ¯Å¾e pracovat. MusÃ­m mu teÄ dÃ¡vat tÄ›ch pÃ¡r penÄ›z, co naÅ¡etÅ™Ã­m, neÅ¾ se uzdravÃ­.}
+{156}{}{To vypadÃ¡, Å¾e vy dva asi nemÃ¡te moc velkÃ© Å¡tÄ›stÃ­. Kolik Å¾e to potÅ™ebujeÅ¡?}
+{157}{}{JeÅ¡tÄ› jednou dÃ­ky. UÅ¾ to bÄ›Å¾Ã­m Å™Ã­ct svÃ½mu pÅ™Ã­teli. Vypadneme odsud hned, jak se uzdravÃ­.}
+{158}{}{To bylo opravdu velkorysÃ© podÄ›kovÃ¡nÃ­, Fannie. RadÄ›ji odsud odejdu, dokud jeÅ¡tÄ› mÅ¯Å¾u chodit. RÃ¡do se stalo. Sbohem.}
+{159}{}{TvÅ¯j odchod bude pro tenhle podnik velkÃ¡ ztrÃ¡ta, Fannie. Sbohem.}
+{160}{}{ZdravÃ­m. NechceÅ¡ strÃ¡vit nÄ›jakej Äas s Fannie?}
+{161}{}{Nedal jsem ti snad penÃ­ze, abys tohle pÅ™estala dÄ›lat?}
+{162}{}{JasnÄ›, to znÃ­ dobÅ™e. JeÅ¡tÄ› Å¾e jsi neodeÅ¡la.}
+{163}{}{No, ano... ale ukÃ¡zalo se, Å¾e dluÅ¾Ã­m Lou vÃ­c, neÅ¾ jsem si myslela.}
+{164}{}{Kolik jeÅ¡tÄ› potÅ™ebujeÅ¡?}
+{165}{}{UÅ¾ to nebudu poslouchat. Sbohem.}
+{166}{}{Eh, jÃ¡ vÃ­m, a jsem ti opravdu vdÄ›ÄnÃ¡... ale bohuÅ¾el dluÅ¾Ã­m Lou vÃ­c, neÅ¾ jsem si myslela. PotÅ™ebuju dalÅ¡Ã­ prachy.}
+{167}{}{To si snad dÄ›lÃ¡Å¡ srandu! Kolik jeÅ¡tÄ› potÅ™ebujeÅ¡?}
+{168}{}{No, ode mÄ› uÅ¾ vÃ­c nedostaneÅ¡. Sbohem.}
+{169}{}{To je v pohodÄ›, zlato. UÅ¾ jsi mi pomohl dost. (smrk) PotÅ™ebuju uÅ¾ jenom $150.}
+{170}{}{No, jestli to bude uÅ¾ koneÄnÄ› staÄit... ale vÃ­c ti uÅ¾ nedÃ¡m. MyslÃ­m to vÃ¡Å¾nÄ›.}
+{171}{}{Jo, jasnÄ›. PadÃ¡m odsud. Sbohem.}
+{172}{}{VÃ­tÃ¡m tÄ› zpÃ¡tky. ChceÅ¡ si troÅ¡ku uÅ¾Ã­t, nebo mi chceÅ¡ dÃ¡t vÃ­c penÄ›z pro Lou?}
+{173}{}{PÅ™iÅ¡el jsem si jen uÅ¾Ã­t, Fannie. Pak uvidÃ­me.}
+{174}{}{Kolik jeÅ¡tÄ› musÃ­Å¡ zaplatit Lou?}
+{175}{}{Jenom tak prochÃ¡zÃ­m. Sbohem, Fannie.}
+{176}{}{VÅ¾dycky jsem rÃ¡da, kdyÅ¾ se ke mnÄ› zÃ¡kaznÃ­ci vracej. KvÅ¯li tobÄ› dokonce vymÄ›nÃ­m i prostÄ›radlo.}
+{177}{}{Ty opravdu vÃ­Å¡, jak chlapa potÄ›Å¡it. DÃ­ky.}
+{178}{}{Eh, rozmyslel jsem si to. UvidÃ­me se pozdÄ›ji, Fannie. Sbohem.}
+{179}{}{VÅ¾dyÅ¥ vÃ­Å¡, roztahovÃ¡nÃ­ nohou. VsadÃ­m se, Å¾e by sis s takovou figurou dokÃ¡zala pÄ›knÄ› vydÄ›lat.}
+{180}{}{VÅ¾dyÅ¥ vÃ­Å¡, roztahovÃ¡nÃ­ nohou. Sice nevypadÃ¡Å¡ nic moc, ale stejnÄ› by sis dokÃ¡zala vydÄ›lat. HornÃ­ci nejsou zrovna moc vybÃ­ravÃ­, to mi vÄ›Å™.}
+{181}{}{MyslÃ­Å¡? Hmm, moÅ¾nÃ¡ bych to mÄ›la zkusit.}
+{182}{}{To nenÃ­ nic pro mÄ›. Sbohem.}
+{183}{}{V tom pÅ™Ã­padÄ› doufÃ¡m, Å¾e nemÃ¡Å¡ moc vybÃ­ravej nosÃ¡nek, protoÅ¾e hornÃ­ci nemaj zrovna moc v lÃ¡sce vodu a mÃ½dlo.}
+{184}{}{Opravdu? No, moÅ¾nÃ¡ to pro mÄ› tak ÃºplnÄ› nenÃ­. Ale dÃ­ky za nabÃ­dku. Sbohem.}
+{185}{}{NechÃ¡pu, jak to mÅ¯Å¾eÅ¡ vydrÅ¾et, ale hÃ¡dÃ¡m, Å¾e taky asi nevydrÅ¾Ã­Å¡. TÃ­m myslÃ­m ten smrad. Sbohem.}
+{186}{}{(Fannie vypadÃ¡, jako kdyby z nÃ­ spadlo tÄ›Å¾kÃ© bÅ™emeno, kterÃ© ji pÅ™edtÃ­m tÃ­Å¾ilo.) Hej, to jsi ty! Lou mi Å™ekla, co jsi udÄ›lal. Z toho, co mi nalila do pitÃ­, se mi udÄ›lalo pÄ›knÄ› blbÄ›, ale od tÃ½ doby nemÃ¡m vÅ¯bec nutkÃ¡nÃ­ si vzÃ­t dalÅ¡Ã­ dÃ¡vku Jetu. (PolÃ­bÃ­ tÄ› na tvÃ¡Å™.) Ani nevÃ­m, jak bych se ti mohla odvdÄ›Äit... teda, vÄ›dÄ›la bych o jednÃ½ *vÄ›ci*. Kdykoliv budeÅ¡ mÃ­t nÃ¡ladu, tak se zastav. Bez placenÃ­. (mrkne)}
+{187}{}{Budu na to myslet. DÃ­ky, Fannie.}
+{188}{}{JeÅ¡tÄ› jednou dÃ­ky. (olÃ­zne si ret) A pamatuj, pro tebe je to vÅ¾dycky na ÃºÄet podniku. (mrkne)}
+{189}{}{ZdravÃ­m! NechceÅ¡ strÃ¡vit nÄ›kolik pÅ™Ã­jemnejch chvilek s Fannie? Na ÃºÄet podniku, samozÅ™ejmÄ›. (uÅ¡klÃ­bne se)}
+{190}{}{PromiÅˆ, zlato... ale nÄ›jak se necejtÃ­m se ve svÃ½ kÅ¯Å¾i. Stav se pozdÄ›ji.}
+{191}{}{MÃ¡Å¡ teÄ na chvilinku Äas?}
+{192}{}{VraÅ¥ se kdykoliv budeÅ¡ chtÃ­t! VÅ¾dycky si to rÃ¡da zopakuju.}
 {193}{}{[KONEC]}
-{200}{}{Nalil jsi protilátku na Jet do pití Fannie Mae.}
-{210}{}{Dobøe, tady je $60. Co takhle si dát další èíslo?}
+{200}{}{Nalil jsi protilÃ¡tku na Jet do pitÃ­ Fannie Mae.}
+{210}{}{DobÅ™e, tady je $60. Co takhle si dÃ¡t dalÅ¡Ã­ ÄÃ­slo?}

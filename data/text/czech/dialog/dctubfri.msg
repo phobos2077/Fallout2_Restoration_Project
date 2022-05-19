@@ -1,117 +1,117 @@
-{100}{}{Vidíš drogového závisláka.}
-{110}{}{Vidíš zfetovanou dìvku.}
-{111}{}{Vidíš jednu z Tubbyho zfetovanıch dìvek.}
-{150}{}{Vypadá jako Tubbyho kamarád.}
-{160}{}{Vypadá to, e je extrémnì sjetá.}
-{161}{}{Vypadá to, e má poøádnı absák.}
-{200}{}{No ty vole, kde teï budeme kupovat fet?}
-{201}{}{Proè jsi zabil Tubbyho?}
+{100}{}{VidÃ­Å¡ drogovÃ©ho zÃ¡vislÃ¡ka.}
+{110}{}{VidÃ­Å¡ zfetovanou dÄ›vku.}
+{111}{}{VidÃ­Å¡ jednu z Tubbyho zfetovanÃ½ch dÄ›vek.}
+{150}{}{VypadÃ¡ jako Tubbyho kamarÃ¡d.}
+{160}{}{VypadÃ¡ to, Å¾e je extrÃ©mnÄ› sjetÃ¡.}
+{161}{}{VypadÃ¡ to, Å¾e mÃ¡ poÅ™Ã¡dnÃ½ absÅ¥Ã¡k.}
+{200}{}{No ty vole, kde teÄ budeme kupovat fet?}
+{201}{}{ProÄ jsi zabil Tubbyho?}
 {202}{}{Ty vole, to je v hajzlu.}
-{203}{}{Co teï budeme dìlat?}
+{203}{}{Co teÄ budeme dÄ›lat?}
 {204}{}{Ty vole...}
-{205}{}{Hej, to není fér.}
-{206}{}{Nech nás bejt, nic neøekneme.}
-{220}{}{Páni, vypadáš pìknì zle.}
-{221}{}{Hej, jseš fakt fajnovej chlap. U ti to nìkdo øíkal?}
-{222}{}{Hej, jseš fakt fajnová baba. U ti to nìkdo øíkal?}
-{223}{}{Jsme Tubbyho stráci.}
-{224}{}{Nedìlej Tubbymu problémy. Tohle je jeho krám.}
-{225}{}{Sákryš, cítím se dobøe.}
-{226}{}{Vìøil bys, e jsme stráci? Hustı, ne?}
-{227}{}{Tenhle fet je skvìlej.}
-{228}{}{Ty vole, necítím vùbec nohy.}
-{229}{}{Tubby je náš kámoš.}
-{230}{}{Díky Tubbymu jsme šastnı.}
-{231}{}{Sakra, sakra, sakra... zatracenı oèi.}
-{232}{}{Hey, chlape, ty jseš otrokáø? Fíha...}
-{233}{}{Bolelo to tetování?}
-{234}{}{Vy otrokáøi jste pìknì drsní.}
-{235}{}{Není to nebezpeènı bejt otrokáø?}
-{236}{}{Hej, slyšel jsem, e nìkdo zastøelil tvıho šéfa. To naštve.}
-{237}{}{Hej, slyšel jsi to? Metzger je prej mrtvej nebo co.}
-{238}{}{Páni, nìkdo vyøídil Metzgera Øezníka.}
-{239}{}{Doufám, e Tubbymu zùstane kšeft, kdy je teï Metzger mrtvej.}
+{205}{}{Hej, to nenÃ­ fÃ©r.}
+{206}{}{Nech nÃ¡s bejt, nic neÅ™ekneme.}
+{220}{}{PÃ¡ni, vypadÃ¡Å¡ pÄ›knÄ› zle.}
+{221}{}{Hej, jseÅ¡ fakt fajnovej chlap. UÅ¾ ti to nÄ›kdo Å™Ã­kal?}
+{222}{}{Hej, jseÅ¡ fakt fajnovÃ¡ baba. UÅ¾ ti to nÄ›kdo Å™Ã­kal?}
+{223}{}{Jsme Tubbyho strÃ¡Å¾ci.}
+{224}{}{NedÄ›lej Tubbymu problÃ©my. Tohle je jeho krÃ¡m.}
+{225}{}{SÃ¡kryÅ¡, cÃ­tÃ­m se dobÅ™e.}
+{226}{}{VÄ›Å™il bys, Å¾e jsme strÃ¡Å¾ci? HustÃ½, ne?}
+{227}{}{Tenhle fet je skvÄ›lej.}
+{228}{}{Ty vole, necÃ­tÃ­m vÅ¯bec nohy.}
+{229}{}{Tubby je nÃ¡Å¡ kÃ¡moÅ¡.}
+{230}{}{DÃ­ky Tubbymu jsme Å¡Å¥astnÃ½.}
+{231}{}{Sakra, sakra, sakra... zatracenÃ½ oÄi.}
+{232}{}{Hey, chlape, ty jseÅ¡ otrokÃ¡Å™? FÃ­ha...}
+{233}{}{Bolelo to tetovÃ¡nÃ­?}
+{234}{}{Vy otrokÃ¡Å™i jste pÄ›knÄ› drsnÃ­.}
+{235}{}{NenÃ­ to nebezpeÄnÃ½ bejt otrokÃ¡Å™?}
+{236}{}{Hej, slyÅ¡el jsem, Å¾e nÄ›kdo zastÅ™elil tvÃ½ho Å¡Ã©fa. To naÅ¡tve.}
+{237}{}{Hej, slyÅ¡el jsi to? Metzger je prej mrtvej nebo co.}
+{238}{}{PÃ¡ni, nÄ›kdo vyÅ™Ã­dil Metzgera Å˜eznÃ­ka.}
+{239}{}{DoufÃ¡m, Å¾e Tubbymu zÅ¯stane kÅ¡eft, kdyÅ¾ je teÄ Metzger mrtvej.}
 {250}{}{Ty vole. On zabil Tubbyho.}
-{251}{}{Myslím, e jsem pøišel o fet.}
-{252}{}{Hej, co se dìje?}
+{251}{}{MyslÃ­m, Å¾e jsem pÅ™iÅ¡el o fet.}
+{252}{}{Hej, co se dÄ›je?}
 {253}{}{Co to bylo za hluk?}
-{254}{}{Zatracenì, to bylo krutı.}
+{254}{}{ZatracenÄ›, to bylo krutÃ½.}
 {255}{}{Ty vole. Ona zabila Tubbyho.}
-{260}{}{Jóóóóóóó... to je dobrej matroš.}
+{260}{}{JÃ³Ã³Ã³Ã³Ã³Ã³Ã³... to je dobrej matroÅ¡.}
 {261}{}{A co tam teda je?}
-{262}{}{Jóóóó, já lítám.}
+{262}{}{JÃ³Ã³Ã³Ã³, jÃ¡ lÃ­tÃ¡m.}
 {263}{}{Je mi teplo.}
-{264}{}{Ona je tak krásná.}
-{265}{}{Jé, nic nevidím... doprdele.}
-{270}{}{Páni, vidìl jsi to taky?}
-{271}{}{Jo. Nevíš, co to bylo?}
-{272}{}{Myslím, e to byl pták.}
+{264}{}{Ona je tak krÃ¡snÃ¡.}
+{265}{}{JÃ©, nic nevidÃ­m... doprdele.}
+{270}{}{PÃ¡ni, vidÄ›l jsi to taky?}
+{271}{}{Jo. NevÃ­Å¡, co to bylo?}
+{272}{}{MyslÃ­m, Å¾e to byl ptÃ¡k.}
 {273}{}{Ne, byl to pes.}
 {274}{}{But it was flying, man.}
-{275}{}{To není monı... prosvištìlo to u zemì.}
-{276}{}{Asi máš vidiny, chlape.}
-{277}{}{Nemám. Bylo to skuteènı.}
-{278}{}{Nevadí.}
-{279}{}{Ááááá, u to zase zabírá. Ách.}
-{290}{}{Pìknı svìtla.}
-{291}{}{Spousta svìtel.}
-{292}{}{Jsou tak horkı.}
+{275}{}{To nenÃ­ moÅ¾nÃ½... prosviÅ¡tÄ›lo to u zemÄ›.}
+{276}{}{Asi mÃ¡Å¡ vidiny, chlape.}
+{277}{}{NemÃ¡m. Bylo to skuteÄnÃ½.}
+{278}{}{NevadÃ­.}
+{279}{}{ÃÃ¡Ã¡Ã¡Ã¡, uÅ¾ to zase zabÃ­rÃ¡. Ãch.}
+{290}{}{PÄ›knÃ½ svÄ›tla.}
+{291}{}{Spousta svÄ›tel.}
+{292}{}{Jsou tak horkÃ½.}
 {293}{}{A ty stromy.}
-{294}{}{Kde jsou enskı?}
-{295}{}{Tak zelenı a krásnı.}
-{296}{}{Mám rád brambory.}
-{297}{}{Stromy jsou ze døeva.}
-{298}{}{Mám rád enskı a brambory.}
-{299}{}{Kdy hoøí, tak se z nich kouøí.}
+{294}{}{Kde jsou Å¾enskÃ½?}
+{295}{}{Tak zelenÃ½ a krÃ¡snÃ½.}
+{296}{}{MÃ¡m rÃ¡d brambory.}
+{297}{}{Stromy jsou ze dÅ™eva.}
+{298}{}{MÃ¡m rÃ¡d Å¾enskÃ½ a brambory.}
+{299}{}{KdyÅ¾ hoÅ™Ã­, tak se z nich kouÅ™Ã­.}
 {300}{}{Ale ne dohromady.}
-{301}{}{Zvíøata ijou na stromech.}
-{302}{}{Ale né, ne enskı a stromy, enskı a brambory.}
-{303}{}{Dokáu vylízt na strom.}
-{304}{}{enská co leze na strom a jí brambory? Ty jseš blbec.}
+{301}{}{ZvÃ­Å™ata Å¾ijou na stromech.}
+{302}{}{Ale nÃ©, ne Å¾enskÃ½ a stromy, Å¾enskÃ½ a brambory.}
+{303}{}{DokÃ¡Å¾u vylÃ­zt na strom.}
+{304}{}{Å½enskÃ¡ co leze na strom a jÃ­ brambory? Ty jseÅ¡ blbec.}
 {305}{}{Odkud se vzaly stromy?}
-{306}{}{Nemùeš lízt na strom a jíst brambory.}
-{307}{}{Taky mám rád køoví.}
+{306}{}{NemÅ¯Å¾eÅ¡ lÃ­zt na strom a jÃ­st brambory.}
+{307}{}{Taky mÃ¡m rÃ¡d kÅ™ovÃ­.}
 {308}{}{No, ne tak snadno.}
-{309}{}{Protoe jsou zelenı.}
-{310}{}{Brambory nejsou zelenı.}
-{311}{}{Óóóóó, ty krásnı svìtla.}
-{312}{}{Ó, bolí mì hlava...}
-{320}{}{Nemluv na mì, chlape. Bolí mì hlava.}
-{321}{}{Nikomu to neøeknu.}
-{322}{}{Neubliuj mnì.}
-{323}{}{Nic jsem neudìlal.}
-{324}{}{Nic jsem nevidìl.}
-{325}{}{Nic jsem neslyšel.}
-{326}{}{Prosím, jdi pryè.}
-{327}{}{Sleèno, nemám náladu si povídat. Bolí mì kurva hlava.}
+{309}{}{ProtoÅ¾e jsou zelenÃ½.}
+{310}{}{Brambory nejsou zelenÃ½.}
+{311}{}{Ã“Ã³Ã³Ã³Ã³, ty krÃ¡snÃ½ svÄ›tla.}
+{312}{}{Ã“, bolÃ­ mÄ› hlava...}
+{320}{}{Nemluv na mÄ›, chlape. BolÃ­ mÄ› hlava.}
+{321}{}{Nikomu to neÅ™eknu.}
+{322}{}{NeubliÅ¾uj mnÄ›.}
+{323}{}{Nic jsem neudÄ›lal.}
+{324}{}{Nic jsem nevidÄ›l.}
+{325}{}{Nic jsem neslyÅ¡el.}
+{326}{}{ProsÃ­m, jdi pryÄ.}
+{327}{}{SleÄno, nemÃ¡m nÃ¡ladu si povÃ­dat. BolÃ­ mÄ› kurva hlava.}
 {340}{}{Ty vole, jdi do hajzlu.}
-{341}{}{Proè mi musíš kazit náladu? Zrovna jsem tak pìknì sjetej.}
-{342}{}{Hej, to bolí!}
+{341}{}{ProÄ mi musÃ­Å¡ kazit nÃ¡ladu? Zrovna jsem tak pÄ›knÄ› sjetej.}
+{342}{}{Hej, to bolÃ­!}
 {343}{}{No do hajzlu.}
-{344}{}{Jak se to mohlo stát?}
-{400}{}{Tubby je úasnej.}
-{401}{}{Po Jetu jsem vdycky strašnì nadrená.}
-{402}{}{Tubby ví, jak se postarat o svoje enskı!}
-{403}{}{Není Tubby úasnej?}
-{404}{}{Jej, zlato... poèkej! Ty nejseš Tubby.}
-{405}{}{Kde je ten náš chlapák?}
-{406}{}{Nemáš z toho takovı to pøíjemnı chvìní tìla?}
-{407}{}{Tubby má nejlepší zboí ve mìstì.}
-{408}{}{Cítím se tak naivu!}
+{344}{}{Jak se to mohlo stÃ¡t?}
+{400}{}{Tubby je ÃºÅ¾asnej.}
+{401}{}{Po Jetu jsem vÅ¾dycky straÅ¡nÄ› nadrÅ¾enÃ¡.}
+{402}{}{Tubby vÃ­, jak se postarat o svoje Å¾enskÃ½!}
+{403}{}{NenÃ­ Tubby ÃºÅ¾asnej?}
+{404}{}{Jej, zlato... poÄkej! Ty nejseÅ¡ Tubby.}
+{405}{}{Kde je ten nÃ¡Å¡ chlapÃ¡k?}
+{406}{}{NemÃ¡Å¡ z toho takovÃ½ to pÅ™Ã­jemnÃ½ chvÄ›nÃ­ tÄ›la?}
+{407}{}{Tubby mÃ¡ nejlepÅ¡Ã­ zboÅ¾Ã­ ve mÄ›stÄ›.}
+{408}{}{CÃ­tÃ­m se tak naÅ¾ivu!}
 {420}{}{Did you hear a loud bang?}
-{421}{}{U dlouho jsem Tubbyho nevidìl.}
+{421}{}{UÅ¾ dlouho jsem Tubbyho nevidÄ›l.}
 {422}{}{Kde je Tubby?}
-{423}{}{Nevidìl jsi Tubbyho?}
+{423}{}{NevidÄ›l jsi Tubbyho?}
 {440}{}{Och, moje hlava!}
-{441}{}{Kde je Tubby! Myslím, e brzo umøu!}
-{442}{}{U to moc dlouho nevydrím.}
-{443}{}{Och, ta bolest je èím dál tím horší.}
-{444}{}{Tubby nám u dlouho nic neprodal. Kde je?}
-{445}{}{Necítím rty.}
-{446}{}{Necítím prsty.}
-{460}{}{Neubliuj mi!}
-{461}{}{Prosím, nedìlej to!}
-{462}{}{Já to nevzal!}
-{463}{}{To jsem nebyl já!}
-{464}{}{Nech mì na pokoji!}
-{465}{}{Nevìdìl jsem, e je to tvoje!}
+{441}{}{Kde je Tubby! MyslÃ­m, Å¾e brzo umÅ™u!}
+{442}{}{UÅ¾ to moc dlouho nevydrÅ¾Ã­m.}
+{443}{}{Och, ta bolest je ÄÃ­m dÃ¡l tÃ­m horÅ¡Ã­.}
+{444}{}{Tubby nÃ¡m uÅ¾ dlouho nic neprodal. Kde je?}
+{445}{}{NecÃ­tÃ­m rty.}
+{446}{}{NecÃ­tÃ­m prsty.}
+{460}{}{NeubliÅ¾uj mi!}
+{461}{}{ProsÃ­m, nedÄ›lej to!}
+{462}{}{JÃ¡ to nevzal!}
+{463}{}{To jsem nebyl jÃ¡!}
+{464}{}{Nech mÄ› na pokoji!}
+{465}{}{NevÄ›dÄ›l jsem, Å¾e je to tvoje!}

@@ -1,2 +1,2 @@
-{100}{}{Tohle byl Richardùv pokoj.}
-{200}{}{Radìji se tady trochu porozhlédnu.}
+{100}{}{Tohle byl RichardÅ¯v pokoj.}
+{200}{}{RadÄ›ji se tady trochu porozhlÃ©dnu.}

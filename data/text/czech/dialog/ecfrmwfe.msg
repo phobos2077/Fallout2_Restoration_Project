@@ -1,11 +1,11 @@
-{100}{}{To je mùj dùm.}
-{101}{}{Zatracení banditi.}
-{102}{}{Nech nás na pokoji!}
-{103}{}{Nenávidím bandity.}
-{104}{}{Nemáme nic cenného.}
-{105}{}{Nezabíjej mì.}
-{106}{}{U toho mám dost.}
-{107}{}{Vezmi si co chceš.}
-{108}{}{Prosím, nezabíjej mì.}
-{109}{}{Stejnì nenávidím farmaøení.}
-{110}{}{Prosím, nevypaluj mi mùj dùm.}
+{100}{}{To je mÅ¯j dÅ¯m.}
+{101}{}{ZatracenÃ­ banditi.}
+{102}{}{Nech nÃ¡s na pokoji!}
+{103}{}{NenÃ¡vidÃ­m bandity.}
+{104}{}{NemÃ¡me nic cennÃ©ho.}
+{105}{}{NezabÃ­jej mÄ›.}
+{106}{}{UÅ¾ toho mÃ¡m dost.}
+{107}{}{Vezmi si co chceÅ¡.}
+{108}{}{ProsÃ­m, nezabÃ­jej mÄ›.}
+{109}{}{StejnÄ› nenÃ¡vidÃ­m farmaÅ™enÃ­.}
+{110}{}{ProsÃ­m, nevypaluj mi mÅ¯j dÅ¯m.}

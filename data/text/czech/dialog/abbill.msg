@@ -1,36 +1,36 @@
-{100}{}{Vidíš obchodníka Billa.}
-{101}{}{Vidíš postaršího obchodníka.}
-{200}{}{Zdravím tì pocestnı. Mé jméno je Bill. Co pro tebe mohu udìlat?}
-{201}{}{Vítej zpìt. Potøebuješ ještì nìco?}
-{202}{}{Pojïme obchodovat.}
-{203}{}{Bylo mi øeèeno, e jsi ten pravı, se kterım si mùu promluvit ohlednì karavan.}
+{100}{}{VidÃ­Å¡ obchodnÃ­ka Billa.}
+{101}{}{VidÃ­Å¡ postarÅ¡Ã­ho obchodnÃ­ka.}
+{200}{}{ZdravÃ­m tÄ› pocestnÃ½. MÃ© jmÃ©no je Bill. Co pro tebe mohu udÄ›lat?}
+{201}{}{VÃ­tej zpÄ›t. PotÅ™ebujeÅ¡ jeÅ¡tÄ› nÄ›co?}
+{202}{}{PojÄme obchodovat.}
+{203}{}{Bylo mi Å™eÄeno, Å¾e jsi ten pravÃ½, se kterÃ½m si mÅ¯Å¾u promluvit ohlednÄ› karavan.}
 {204}{}{Ale nic. Nashle.}
-{210}{}{Vidím, e je zde v Opatství nashromádìno hodnì starıch pøedmìtù a vybavení. Nenašel jsi tu za dobu svého pobytu nìco... speciálního?}
-{211}{}{Jo, máš pravdu. Lidé z Opatství mají velkı zájem o cokoliv z doby pøed válkou, obzvláš pokud to má nìco spoleèného s technikou. Vytvoøili na tom jakési praštìné náboenství. Já sám to tak úplnì nechápu, ale jsou to milí lidé a platí slušné peníze za cokoliv pøedváleèného, co se mi dostane do rukou. Ale abych se vrátil k tvé otázce ohlednì nìèeho speciálního... hmm. (Upøe svùj zrak na Marcuse.) Ještì e se ptáš, moná tu mám nìco, co by mohlo zajímat tady tvého pøítele.}
-{212}{}{Jo, máš pravdu. Lidé z Opatství mají velkı zájem o cokoliv z doby pøed válkou, obzvláš pokud to má nìco spoleèného s technikou. Vytvoøili na tom jakési praštìné náboenství. Já sám to tak úplnì nechápu, ale jsou to milí lidé a platí slušné peníze za cokoliv pøedváleèného, co se mi dostane do rukou. Ale abych se vrátil k tvé otázce ohlednì nìèeho speciálního... hmm. (Upøe svùj zrak na tvoji partu.) Je mi líto, ale myslím, e tu pro tebe momentálnì nic speciálního nemám.}
-{213}{}{Dobrá. Radìji se podívám, co máš na skladì.}
-{214}{}{To je v poøádku. Chci se ještì na nìco zeptat.}
-{215}{}{Jako tøeba?}
-{216}{}{Víš, nedávno tudy prošla karavana. Tvrdili, e pøišli z dalekého jihu. Údajnì byli napadeni nìkolika odpornımi mutanty (Otoèí se na Marcuse.) Bez uráky, svalovèe. Mimochodem, docela dost se vytahovali, jak všechny mutanty rozprášili. Tvrdili, e jich byl skoro tucet, ale já jim øekl, e kecají. Nakonec se ale ukázalo, e mají dùkaz.}
-{217}{}{Jo? A jakı?}
-{218}{}{Masivní mutantí zbroj, kterou se jim povedlo ukoøistit z jedné mrtvoly. Moná, co já vím, ji sebrali z kostry nìjakého dlouho mrtvého mutanta, na kterého náhodou narazili v pustinì, ale kdo ví? Nicménì se s tou tìkou vìcí nechtìli tahat, take mi ji nabídli za pár šupù. Sice jsem nevìdìl, co s ní budu dìlat, ale dobrı obchod je dobrı obchod, tak jsem ji vzal.}
-{219}{}{No, myslím, e tady Marcusovi by se hodila. Kolik za tu zbroj chceš?}
-{220}{}{Hmm, zajímavé. No, Marcus je dostateènì odolnı i bez zbroje, take myslím, e nic takového nepotøebuje. Chci se zeptat na nìco jiného.}
-{221}{}{No, tahle vìc by se klidnì mohla roztavit na vırobu tøí nebo ètyø kovovıch zbrojí. Øeknìme $3000.}
-{222}{}{Platí. Myslím, e tolik u sebe mám.}
-{223}{}{Myslím, e to zatím necháme bıt. Chci se zeptat na nìco jiného.}
-{224}{}{Tak dobøe. Budou potøeba alespoò dvì osoby, aby se s tím dalo pohnout, take ti to pomùu nandat tady na tvého pøítele.}
+{210}{}{VidÃ­m, Å¾e je zde v OpatstvÃ­ nashromÃ¡Å¾dÄ›no hodnÄ› starÃ½ch pÅ™edmÄ›tÅ¯ a vybavenÃ­. NenaÅ¡el jsi tu za dobu svÃ©ho pobytu nÄ›co... speciÃ¡lnÃ­ho?}
+{211}{}{Jo, mÃ¡Å¡ pravdu. LidÃ© z OpatstvÃ­ majÃ­ velkÃ½ zÃ¡jem o cokoliv z doby pÅ™ed vÃ¡lkou, obzvlÃ¡Å¡Å¥ pokud to mÃ¡ nÄ›co spoleÄnÃ©ho s technikou. VytvoÅ™ili na tom jakÃ©si praÅ¡tÄ›nÃ© nÃ¡boÅ¾enstvÃ­. JÃ¡ sÃ¡m to tak ÃºplnÄ› nechÃ¡pu, ale jsou to milÃ­ lidÃ© a platÃ­ sluÅ¡nÃ© penÃ­ze za cokoliv pÅ™edvÃ¡leÄnÃ©ho, co se mi dostane do rukou. Ale abych se vrÃ¡til k tvÃ© otÃ¡zce ohlednÄ› nÄ›Äeho speciÃ¡lnÃ­ho... hmm. (UpÅ™e svÅ¯j zrak na Marcuse.) JeÅ¡tÄ› Å¾e se ptÃ¡Å¡, moÅ¾nÃ¡ tu mÃ¡m nÄ›co, co by mohlo zajÃ­mat tady tvÃ©ho pÅ™Ã­tele.}
+{212}{}{Jo, mÃ¡Å¡ pravdu. LidÃ© z OpatstvÃ­ majÃ­ velkÃ½ zÃ¡jem o cokoliv z doby pÅ™ed vÃ¡lkou, obzvlÃ¡Å¡Å¥ pokud to mÃ¡ nÄ›co spoleÄnÃ©ho s technikou. VytvoÅ™ili na tom jakÃ©si praÅ¡tÄ›nÃ© nÃ¡boÅ¾enstvÃ­. JÃ¡ sÃ¡m to tak ÃºplnÄ› nechÃ¡pu, ale jsou to milÃ­ lidÃ© a platÃ­ sluÅ¡nÃ© penÃ­ze za cokoliv pÅ™edvÃ¡leÄnÃ©ho, co se mi dostane do rukou. Ale abych se vrÃ¡til k tvÃ© otÃ¡zce ohlednÄ› nÄ›Äeho speciÃ¡lnÃ­ho... hmm. (UpÅ™e svÅ¯j zrak na tvoji partu.) Je mi lÃ­to, ale myslÃ­m, Å¾e tu pro tebe momentÃ¡lnÄ› nic speciÃ¡lnÃ­ho nemÃ¡m.}
+{213}{}{DobrÃ¡. RadÄ›ji se podÃ­vÃ¡m, co mÃ¡Å¡ na skladÄ›.}
+{214}{}{To je v poÅ™Ã¡dku. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{215}{}{Jako tÅ™eba?}
+{216}{}{VÃ­Å¡, nedÃ¡vno tudy proÅ¡la karavana. Tvrdili, Å¾e pÅ™iÅ¡li z dalekÃ©ho jihu. ÃšdajnÄ› byli napadeni nÄ›kolika odpornÃ½mi mutanty (OtoÄÃ­ se na Marcuse.) Bez urÃ¡Å¾ky, svalovÄe. Mimochodem, docela dost se vytahovali, jak vÅ¡echny mutanty rozprÃ¡Å¡ili. Tvrdili, Å¾e jich byl skoro tucet, ale jÃ¡ jim Å™ekl, Å¾e kecajÃ­. Nakonec se ale ukÃ¡zalo, Å¾e majÃ­ dÅ¯kaz.}
+{217}{}{Jo? A jakÃ½?}
+{218}{}{MasivnÃ­ mutantÃ­ zbroj, kterou se jim povedlo ukoÅ™istit z jednÃ© mrtvoly. MoÅ¾nÃ¡, co jÃ¡ vÃ­m, ji sebrali z kostry nÄ›jakÃ©ho dlouho mrtvÃ©ho mutanta, na kterÃ©ho nÃ¡hodou narazili v pustinÄ›, ale kdo vÃ­? NicmÃ©nÄ› se s tou tÄ›Å¾kou vÄ›cÃ­ nechtÄ›li tahat, takÅ¾e mi ji nabÃ­dli za pÃ¡r Å¡upÅ¯. Sice jsem nevÄ›dÄ›l, co s nÃ­ budu dÄ›lat, ale dobrÃ½ obchod je dobrÃ½ obchod, tak jsem ji vzal.}
+{219}{}{No, myslÃ­m, Å¾e tady Marcusovi by se hodila. Kolik za tu zbroj chceÅ¡?}
+{220}{}{Hmm, zajÃ­mavÃ©. No, Marcus je dostateÄnÄ› odolnÃ½ i bez zbroje, takÅ¾e myslÃ­m, Å¾e nic takovÃ©ho nepotÅ™ebuje. Chci se zeptat na nÄ›co jinÃ©ho.}
+{221}{}{No, tahle vÄ›c by se klidnÄ› mohla roztavit na vÃ½robu tÅ™Ã­ nebo ÄtyÅ™ kovovÃ½ch zbrojÃ­. Å˜eknÄ›me $3000.}
+{222}{}{PlatÃ­. MyslÃ­m, Å¾e tolik u sebe mÃ¡m.}
+{223}{}{MyslÃ­m, Å¾e to zatÃ­m nechÃ¡me bÃ½t. Chci se zeptat na nÄ›co jinÃ©ho.}
+{224}{}{Tak dobÅ™e. Budou potÅ™eba alespoÅˆ dvÄ› osoby, aby se s tÃ­m dalo pohnout, takÅ¾e ti to pomÅ¯Å¾u nandat tady na tvÃ©ho pÅ™Ã­tele.}
 {225}{}{[KONEC]}
-{226}{}{Hej, sedí to perfektnì!}
-{300}{}{Nìco málo o nich vím. Co chceš vìdìt?}
-{301}{}{Jak èasto pøicházejí nové zásoby?}
-{302}{}{Najímají karavany?}
-{303}{}{Kdy nad tím tak pøemıšlím, u musím jít.}
-{304}{}{Dostávám nové zásoby dvakrát do mìsíce. Upøímnì, pøál bych si, aby to bylo èastìji, ale bohuel se nacházíme na vedlejší obchodní trase, take u to asi lepší nebude.}
-{305}{}{Nejsem si tak úplnì jistı. Obvykle jsou karavany, co zde zastavují, celkem dobøe vybavené a nemají moc zájem se tu dlouho zdret, ale jestli máš zájem se k nìkteré z nich pøipojit, doporuèoval bych ti jít do Reddingu nebo do NCR. Mají docela aktivní karavany a dobrá pomoc je vdy vítána.}
-{306}{}{Zajímavé. Povìz mi o nìèem jiném.}
-{307}{}{Díky. Pojïme obchodovat.}
-{308}{}{No, díky za informace. Zatím.}
-{400}{}{Máš vše, co potøebuješ?}
-{401}{}{Vlastnì se chci ještì jednou podívat na tvé zboí.}
-{402}{}{Ano, mám. Zatím.}
+{226}{}{Hej, sedÃ­ to perfektnÄ›!}
+{300}{}{NÄ›co mÃ¡lo o nich vÃ­m. Co chceÅ¡ vÄ›dÄ›t?}
+{301}{}{Jak Äasto pÅ™ichÃ¡zejÃ­ novÃ© zÃ¡soby?}
+{302}{}{NajÃ­majÃ­ karavany?}
+{303}{}{KdyÅ¾ nad tÃ­m tak pÅ™emÃ½Å¡lÃ­m, uÅ¾ musÃ­m jÃ­t.}
+{304}{}{DostÃ¡vÃ¡m novÃ© zÃ¡soby dvakrÃ¡t do mÄ›sÃ­ce. UpÅ™Ã­mnÄ›, pÅ™Ã¡l bych si, aby to bylo ÄastÄ›ji, ale bohuÅ¾el se nachÃ¡zÃ­me na vedlejÅ¡Ã­ obchodnÃ­ trase, takÅ¾e uÅ¾ to asi lepÅ¡Ã­ nebude.}
+{305}{}{Nejsem si tak ÃºplnÄ› jistÃ½. Obvykle jsou karavany, co zde zastavujÃ­, celkem dobÅ™e vybavenÃ© a nemajÃ­ moc zÃ¡jem se tu dlouho zdrÅ¾et, ale jestli mÃ¡Å¡ zÃ¡jem se k nÄ›kterÃ© z nich pÅ™ipojit, doporuÄoval bych ti jÃ­t do Reddingu nebo do NCR. MajÃ­ docela aktivnÃ­ karavany a dobrÃ¡ pomoc je vÅ¾dy vÃ­tÃ¡na.}
+{306}{}{ZajÃ­mavÃ©. PovÄ›z mi o nÄ›Äem jinÃ©m.}
+{307}{}{DÃ­ky. PojÄme obchodovat.}
+{308}{}{No, dÃ­ky za informace. ZatÃ­m.}
+{400}{}{MÃ¡Å¡ vÅ¡e, co potÅ™ebujeÅ¡?}
+{401}{}{VlastnÄ› se chci jeÅ¡tÄ› jednou podÃ­vat na tvÃ© zboÅ¾Ã­.}
+{402}{}{Ano, mÃ¡m. ZatÃ­m.}

@@ -1,2 +1,2 @@
-{100}{}{Domníváš se, e by se tohle mìlo pouít na supermutanta.}
-{101}{}{Mutagenické sérum bylo pouito.}
+{100}{}{DomnÃ­vÃ¡Å¡ se, Å¾e by se tohle mÄ›lo pouÅ¾Ã­t na supermutanta.}
+{101}{}{MutagenickÃ© sÃ©rum bylo pouÅ¾ito.}

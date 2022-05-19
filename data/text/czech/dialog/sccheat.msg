@@ -1,33 +1,33 @@
-{100}{}{Vidíš pana Podfukáøe.}
-{101}{}{Tenhle chlap nemá v takovı poctivı høe co dìlat.}
-{102}{}{Hele, to je podvodník.}
-{103}{}{Hej! To bolí!}
-{104}{}{Dobrı den, co pro vás mùu udìlat.}
-{105}{}{Nastavení Westinovıch flagù.}
-{106}{}{Udìlej to, e pøijímám kontrakt na likvidaci Westina.}
-{107}{}{Udìlej to, e odmítám pøijmout kontrakt na likvidaci Westina.}
-{108}{}{Nastav, e je Westin po smrti.}
-{109}{}{Zruš Westinovu smrt.}
-{110}{}{Nastav to, e Westin nebyl zlikvidován.}
-{111}{}{Nastav to, e Westin byl zlikvidován.}
-{112}{}{Udìlej to, e Westin ví o drogách.}
-{113}{}{Udìlej to, e Westin neví o drogách.}
-{114}{}{Zpùsob Westinovo selhání.}
-{115}{}{Zruš Westinovo selhání.}
-{116}{}{Nastav Westinùv quest jako splnìnı.}
-{117}{}{Zruš splnìní Westinova questu.}
-{118}{}{Nastav to, e Westin ví o kontraktu na jeho likvidaci.}
-{119}{}{Nastav to, e Westin neví o kontraktu na jeho likvidaci.}
-{120}{}{Nastavení Carlsonovıch flagù.}
+{100}{}{VidÃ­Å¡ pana PodfukÃ¡Å™e.}
+{101}{}{Tenhle chlap nemÃ¡ v takovÃ½ poctivÃ½ hÅ™e co dÄ›lat.}
+{102}{}{Hele, to je podvodnÃ­k.}
+{103}{}{Hej! To bolÃ­!}
+{104}{}{DobrÃ½ den, co pro vÃ¡s mÅ¯Å¾u udÄ›lat.}
+{105}{}{NastavenÃ­ WestinovÃ½ch flagÅ¯.}
+{106}{}{UdÄ›lej to, Å¾e pÅ™ijÃ­mÃ¡m kontrakt na likvidaci Westina.}
+{107}{}{UdÄ›lej to, Å¾e odmÃ­tÃ¡m pÅ™ijmout kontrakt na likvidaci Westina.}
+{108}{}{Nastav, Å¾e je Westin po smrti.}
+{109}{}{ZruÅ¡ Westinovu smrt.}
+{110}{}{Nastav to, Å¾e Westin nebyl zlikvidovÃ¡n.}
+{111}{}{Nastav to, Å¾e Westin byl zlikvidovÃ¡n.}
+{112}{}{UdÄ›lej to, Å¾e Westin vÃ­ o drogÃ¡ch.}
+{113}{}{UdÄ›lej to, Å¾e Westin nevÃ­ o drogÃ¡ch.}
+{114}{}{ZpÅ¯sob Westinovo selhÃ¡nÃ­.}
+{115}{}{ZruÅ¡ Westinovo selhÃ¡nÃ­.}
+{116}{}{Nastav WestinÅ¯v quest jako splnÄ›nÃ½.}
+{117}{}{ZruÅ¡ splnÄ›nÃ­ Westinova questu.}
+{118}{}{Nastav to, Å¾e Westin vÃ­ o kontraktu na jeho likvidaci.}
+{119}{}{Nastav to, Å¾e Westin nevÃ­ o kontraktu na jeho likvidaci.}
+{120}{}{NastavenÃ­ CarlsonovÃ½ch flagÅ¯.}
 {121}{}{Nastav Carlsonovu likvidaci.}
-{122}{}{Zruš Carlsonovu likvidaci.}
-{123}{}{Udìlej to, e je Carlson po smrti.}
-{124}{}{Zruš Carlsonovu smrti.}
-{125}{}{Pøidej ke Carlsonovi ochranku.}
-{126}{}{Zruš Carlsonovu ochranku.}
-{127}{}{Nastav odmítnutí Carlsonovy likvidace.}
-{128}{}{Zruš odmítnutí Carlsonovy likvidace.}
-{129}{}{Nastav Carlsonùv quest jako splnìnı.}
-{130}{}{Zruš splnìní Carlsonova questu.}
-{131}{}{Zpùsob Carlsonova selhání.}
-{132}{}{Zruš Carlsonovo selhání.}
+{122}{}{ZruÅ¡ Carlsonovu likvidaci.}
+{123}{}{UdÄ›lej to, Å¾e je Carlson po smrti.}
+{124}{}{ZruÅ¡ Carlsonovu smrti.}
+{125}{}{PÅ™idej ke Carlsonovi ochranku.}
+{126}{}{ZruÅ¡ Carlsonovu ochranku.}
+{127}{}{Nastav odmÃ­tnutÃ­ Carlsonovy likvidace.}
+{128}{}{ZruÅ¡ odmÃ­tnutÃ­ Carlsonovy likvidace.}
+{129}{}{Nastav CarlsonÅ¯v quest jako splnÄ›nÃ½.}
+{130}{}{ZruÅ¡ splnÄ›nÃ­ Carlsonova questu.}
+{131}{}{ZpÅ¯sob Carlsonova selhÃ¡nÃ­.}
+{132}{}{ZruÅ¡ Carlsonovo selhÃ¡nÃ­.}

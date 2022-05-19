@@ -1,39 +1,39 @@
-{100}{}{Vidíš páraèe. Sleduje tì podivuhodnì inteligentníma oèima.}
-{101}{}{Vidíš páraèe Dara.}
-{102}{}{Vidíš obyèejného páraèe. Je to mohutnı tvor s ostrımi zuby a dlouhımi paøáty.}
-{103}{}{Zdar, èlovìk.}
-{104}{}{Co ty chtít?}
+{100}{}{VidÃ­Å¡ pÃ¡raÄe. Sleduje tÄ› podivuhodnÄ› inteligentnÃ­ma oÄima.}
+{101}{}{VidÃ­Å¡ pÃ¡raÄe Dara.}
+{102}{}{VidÃ­Å¡ obyÄejnÃ©ho pÃ¡raÄe. Je to mohutnÃ½ tvor s ostrÃ½mi zuby a dlouhÃ½mi paÅ™Ã¡ty.}
+{103}{}{Zdar, ÄlovÄ›k.}
+{104}{}{Co ty chtÃ­t?}
 {105}{}{Ahoj. Kdo ty?}
-{106}{}{Proè ty tady?}
-{107}{}{Ty chytrı jako ostatní?}
-{108}{}{Já nudit, já jít.}
-{109}{}{Promiò, e ruším, ale kdo jsi?}
-{110}{}{Jaká je tvoje práce tady ve vaultu?}
-{111}{}{Prosím, neura se, ale jak moc jsi vzdìlanı?}
-{112}{}{Jen se tak dívám.}
-{113}{}{Já Dar, váleèník.}
-{114}{}{Dobøe.}
-{115}{}{Vy všichni stejní. Já odejít.}
-{116}{}{Já}
-{117}{}{Aha. U budu muset jít.}
-{118}{}{Já jsem}
-{119}{}{Chápu.}
-{120}{}{Váleèník! Ha! To je dobrı vtip. Znáš ještì nìjaké?}
-{121}{}{Dar hlídat hala a udrovat klid. Nic víc.}
-{122}{}{Já slyšet pøedtím.}
-{123}{}{Dobøe.}
-{124}{}{No, dìláš to dobøe, Dare. Jen tak dál.}
-{125}{}{Jo, to mi došlo.}
-{126}{}{Nic nového. Myslím, e pùjdu.}
-{127}{}{Jak mùeš udrovat klid s takovım ksichtem?}
-{128}{}{Ty ne hodnı. Jít pryè.}
-{129}{}{Ne moc, ale uèím se. Gruthar... on náèelník... øíkat my všichni uèit.}
-{130}{}{Starší ve vesnici dìlat to samé.}
+{106}{}{ProÄ ty tady?}
+{107}{}{Ty chytrÃ½ jako ostatnÃ­?}
+{108}{}{JÃ¡ nudit, jÃ¡ jÃ­t.}
+{109}{}{PromiÅˆ, Å¾e ruÅ¡Ã­m, ale kdo jsi?}
+{110}{}{JakÃ¡ je tvoje prÃ¡ce tady ve vaultu?}
+{111}{}{ProsÃ­m, neuraÅ¾ se, ale jak moc jsi vzdÄ›lanÃ½?}
+{112}{}{Jen se tak dÃ­vÃ¡m.}
+{113}{}{JÃ¡ Dar, vÃ¡leÄnÃ­k.}
+{114}{}{DobÅ™e.}
+{115}{}{Vy vÅ¡ichni stejnÃ­. JÃ¡ odejÃ­t.}
+{116}{}{JÃ¡}
+{117}{}{Aha. UÅ¾ budu muset jÃ­t.}
+{118}{}{JÃ¡ jsem}
+{119}{}{ChÃ¡pu.}
+{120}{}{VÃ¡leÄnÃ­k! Ha! To je dobrÃ½ vtip. ZnÃ¡Å¡ jeÅ¡tÄ› nÄ›jakÃ©?}
+{121}{}{Dar hlÃ­dat hala a udrÅ¾ovat klid. Nic vÃ­c.}
+{122}{}{JÃ¡ slyÅ¡et pÅ™edtÃ­m.}
+{123}{}{DobÅ™e.}
+{124}{}{No, dÄ›lÃ¡Å¡ to dobÅ™e, Dare. Jen tak dÃ¡l.}
+{125}{}{Jo, to mi doÅ¡lo.}
+{126}{}{Nic novÃ©ho. MyslÃ­m, Å¾e pÅ¯jdu.}
+{127}{}{Jak mÅ¯Å¾eÅ¡ udrÅ¾ovat klid s takovÃ½m ksichtem?}
+{128}{}{Ty ne hodnÃ½. JÃ­t pryÄ.}
+{129}{}{Ne moc, ale uÄÃ­m se. Gruthar... on nÃ¡ÄelnÃ­k... Å™Ã­kat my vÅ¡ichni uÄit.}
+{130}{}{StarÅ¡Ã­ ve vesnici dÄ›lat to samÃ©.}
 {131}{}{Aha.}
-{132}{}{Gruthar má pravdu... mìli byste se snait vzdìlávat.}
-{133}{}{Chápu.}
-{134}{}{Take jsi tak hloupı, e ti nìkdo jinı musí øíct, aby ses vzdìlával. Nádhera.}
-{135}{}{Ahoj, pøítel.}
-{136}{}{Grrrrrrrrr! Áááááááááá.}
+{132}{}{Gruthar mÃ¡ pravdu... mÄ›li byste se snaÅ¾it vzdÄ›lÃ¡vat.}
+{133}{}{ChÃ¡pu.}
+{134}{}{TakÅ¾e jsi tak hloupÃ½, Å¾e ti nÄ›kdo jinÃ½ musÃ­ Å™Ã­ct, aby ses vzdÄ›lÃ¡val. NÃ¡dhera.}
+{135}{}{Ahoj, pÅ™Ã­tel.}
+{136}{}{Grrrrrrrrr! ÃÃ¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡.}
 {137}{}{.}
 {138}{}{, Dare.}

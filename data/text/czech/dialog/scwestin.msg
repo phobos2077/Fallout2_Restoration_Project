@@ -1,77 +1,77 @@
-{100}{}{Vidíš mue obleèeného v pøepychovıch farmáøskıch šatech.}
-{101}{}{Vidíš radního Westina.}
-{102}{}{Støíbrné a tyrkysové prsteny, støíbrná pøezka na opasku a za pasem pistole. Tenhle chlápek má oèividnì spoustu penìz a dává to rád najevo.}
-{103}{}{Jmenuji se Roger Westin. Nemùete si sem jen tak nakráèet jako pán. Co chcete?}
+{100}{}{VidÃ­Å¡ muÅ¾e obleÄenÃ©ho v pÅ™epychovÃ½ch farmÃ¡Å™skÃ½ch Å¡atech.}
+{101}{}{VidÃ­Å¡ radnÃ­ho Westina.}
+{102}{}{StÅ™Ã­brnÃ© a tyrkysovÃ© prsteny, stÅ™Ã­brnÃ¡ pÅ™ezka na opasku a za pasem pistole. Tenhle chlÃ¡pek mÃ¡ oÄividnÄ› spoustu penÄ›z a dÃ¡vÃ¡ to rÃ¡d najevo.}
+{103}{}{Jmenuji se Roger Westin. NemÅ¯Å¾ete si sem jen tak nakrÃ¡Äet jako pÃ¡n. Co chcete?}
 {104}{}{Zase vy? Co chcete?}
-{105}{}{Co chceš?}
+{105}{}{Co chceÅ¡?}
 {106}{}{Ehh...}
 {107}{}{Me look Vault 13. You help?}
-{108}{}{Hledám Vault 13. Mùete mi nìjak pomoct?}
-{109}{}{Ta vaše špinavá práce je hotová.}
-{110}{}{Zlá vìc pøijít. Já vystrašit. Bù-bùù v bezpeèí.}
-{111}{}{Co se tıká toho vašeho problému s brahmínami... postaèí, kdy tam zøídíte nìjakou hlídku. Nemusí ani nic dìlat, staèí jen e tam bude. Vím, e to zní divnì, ale vìøte mi, bude to fungovat. Nezmínil jste se pøedtím o nìjaké odmìnì?}
-{112}{}{Jsem tu kvùli práci.}
-{113}{}{Pozdravuje vás První Obèanka Lynette a nìco pro vás má.}
-{114}{}{Posílá mì Bishop.}
+{108}{}{HledÃ¡m Vault 13. MÅ¯Å¾ete mi nÄ›jak pomoct?}
+{109}{}{Ta vaÅ¡e Å¡pinavÃ¡ prÃ¡ce je hotovÃ¡.}
+{110}{}{ZlÃ¡ vÄ›c pÅ™ijÃ­t. JÃ¡ vystraÅ¡it. BÅ¯-bÅ¯Å¯ v bezpeÄÃ­.}
+{111}{}{Co se tÃ½kÃ¡ toho vaÅ¡eho problÃ©mu s brahmÃ­nami... postaÄÃ­, kdyÅ¾ tam zÅ™Ã­dÃ­te nÄ›jakou hlÃ­dku. NemusÃ­ ani nic dÄ›lat, staÄÃ­ jen Å¾e tam bude. VÃ­m, Å¾e to znÃ­ divnÄ›, ale vÄ›Å™te mi, bude to fungovat. NezmÃ­nil jste se pÅ™edtÃ­m o nÄ›jakÃ© odmÄ›nÄ›?}
+{112}{}{Jsem tu kvÅ¯li prÃ¡ci.}
+{113}{}{Pozdravuje vÃ¡s PrvnÃ­ ObÄanka Lynette a nÄ›co pro vÃ¡s mÃ¡.}
+{114}{}{PosÃ­lÃ¡ mÄ› Bishop.}
 {115}{}{A sakra.}
-{116}{}{To je všechno? V tom pøípadì si promluvte s mım pøedákem Felixem.}
-{117}{}{Vy mi nerozumíte. Jsem tady kvùli práci.}
-{118}{}{Šerif mi øekl, e si mám s vámi promluvit osobnì.}
+{116}{}{To je vÅ¡echno? V tom pÅ™Ã­padÄ› si promluvte s mÃ½m pÅ™edÃ¡kem Felixem.}
+{117}{}{Vy mi nerozumÃ­te. Jsem tady kvÅ¯li prÃ¡ci.}
+{118}{}{Å erif mi Å™ekl, Å¾e si mÃ¡m s vÃ¡mi promluvit osobnÄ›.}
 {119}{}{Fajn. Jak chcete.}
-{120}{}{To jsem si mohl myslet. Co vám nasliboval? Peníze, drogy, sex? No to je jedno, nic z toho stejnì nedostanete.}
-{121}{}{Co tím myslíš?}
-{122}{}{Sklapnìte.}
-{123}{}{Á, prostoduchı chudáèek, e? To je mi moc líto. Musí to bıt opravdu tìké nosit takové bøemeno. Poslouchej, ty jít promluvit s Fe-li-x. On ti dát práci. Rozumìt?}
+{120}{}{To jsem si mohl myslet. Co vÃ¡m nasliboval? PenÃ­ze, drogy, sex? No to je jedno, nic z toho stejnÄ› nedostanete.}
+{121}{}{Co tÃ­m myslÃ­Å¡?}
+{122}{}{SklapnÄ›te.}
+{123}{}{Ã, prostoduchÃ½ chudÃ¡Äek, Å¾e? To je mi moc lÃ­to. MusÃ­ to bÃ½t opravdu tÄ›Å¾kÃ© nosit takovÃ© bÅ™emeno. Poslouchej, ty jÃ­t promluvit s Fe-li-x. On ti dÃ¡t prÃ¡ci. RozumÄ›t?}
 {124}{}{Aha.}
-{125}{}{Co tím myslím? U teï toho o nìm víte pøíliš mnoho. Co kdy pùjdete do NCR a zradíte ho? Nebo ho nìjak ohrozíte? U teï jste pro nìj mrtvola. Mìl bych pro vás lepší nabídku.}
-{126}{}{Jako tøeba?}
-{127}{}{Nevìøím vám.}
-{128}{}{Odstraòte Bishopa místo mì. Zaplatím vám hotovì tolik, co vám nabídl, plus 50% navrch. Kolik to bylo?}
-{129}{}{(potøebuju informace od Chrise)}
+{125}{}{Co tÃ­m myslÃ­m? UÅ¾ teÄ toho o nÄ›m vÃ­te pÅ™Ã­liÅ¡ mnoho. Co kdyÅ¾ pÅ¯jdete do NCR a zradÃ­te ho? Nebo ho nÄ›jak ohrozÃ­te? UÅ¾ teÄ jste pro nÄ›j mrtvola. MÄ›l bych pro vÃ¡s lepÅ¡Ã­ nabÃ­dku.}
+{126}{}{Jako tÅ™eba?}
+{127}{}{NevÄ›Å™Ã­m vÃ¡m.}
+{128}{}{OdstraÅˆte Bishopa mÃ­sto mÄ›. ZaplatÃ­m vÃ¡m hotovÄ› tolik, co vÃ¡m nabÃ­dl, plus 50% navrch. Kolik to bylo?}
+{129}{}{(potÅ™ebuju informace od Chrise)}
 {130}{}{(Avellona)}
 {131}{}{Fajn.}
-{132}{}{Platí.}
-{133}{}{Máš smùlu, dìdku.}
-{134}{}{Budu se tìšit na naše další setkání. A teï odejdìte.}
-{135}{}{Vıbornì. Já vìdìl, e budete ta správná osoba. Take, slíbil jsem vám peníze a svùj slib také dodrím. Tady je máte.}
-{136}{}{Mùu pro vás ještì nìco udìlat?}
-{137}{}{Díky. Moná byste mi mohl pomoct s jednou vìcí. Snaím se najít Vault 13.}
+{132}{}{PlatÃ­.}
+{133}{}{MÃ¡Å¡ smÅ¯lu, dÄ›dku.}
+{134}{}{Budu se tÄ›Å¡it na naÅ¡e dalÅ¡Ã­ setkÃ¡nÃ­. A teÄ odejdÄ›te.}
+{135}{}{VÃ½bornÄ›. JÃ¡ vÄ›dÄ›l, Å¾e budete ta sprÃ¡vnÃ¡ osoba. TakÅ¾e, slÃ­bil jsem vÃ¡m penÃ­ze a svÅ¯j slib takÃ© dodrÅ¾Ã­m. Tady je mÃ¡te.}
+{136}{}{MÅ¯Å¾u pro vÃ¡s jeÅ¡tÄ› nÄ›co udÄ›lat?}
+{137}{}{DÃ­ky. MoÅ¾nÃ¡ byste mi mohl pomoct s jednou vÄ›cÃ­. SnaÅ¾Ã­m se najÃ­t Vault 13.}
 {138}{}{Sbohem.}
-{139}{}{Vy máte doporuèení od šerifa Dumonta? Tak to je potom jiná. Nìkdo nebo nìco pøepadává v noci moje brahmíny. Chci vìdìt proè. Nechcete se tam zajít podívat a prošetøit to? Pøípadná odmìna vás nemine.}
-{140}{}{To zní snadnì. Udìlám to.}
-{141}{}{Myslím, e ne.}
-{142}{}{Nìkdo nebo nìco pøepadává v noci moje brahmíny. Chci vìdìt proè. Nechcete se tam zajít podívat a prošetøit to? Pøípadná odmìna vás nemine.}
-{143}{}{To zní snadnì. Udìlám to.}
-{144}{}{Ne, díky. Døepìt na poli a èekat na nìjakou pøerostlou kudlanku nezní moc lákavì.}
-{145}{}{Vıbornì. Felix vám øekne podrobnosti. A teï mì prosím omluvte.}
-{146}{}{No, to bych mohl. Slyšel jsem spoustu pøíbìhù o Tandi a Zakladateli. Zdá se, e jí ještì pøed vznikem NCR zachránil ivot. Nicménì, legendy øíkají, e strávil spoustu èasu prùzkumem vaultu na vıchod odsud. A pokud to není onen Vault 13, pak tam moná bude alespoò stopa, která vás k nìmu zavede.}
-{147}{}{Óóóóó. Dobøe.}
-{148}{}{Díky!}
-{149}{}{No, to bych mohl, ale napøed potøebuji nìco já od vás. Nìkdo nebo nìco pøepadává v noci moje brahmíny. Chci vìdìt proè. Nechcete se tam zajít podívat a prošetøit to? Zaplatím vám za to a ještì vám povím co vím.}
-{150}{}{To zní snadnì. Udìlám to.}
-{151}{}{Ne, díky. Døepìt na poli a èekat na nìjakou pøerostlou kudlanku nezní moc lákavì.}
-{152}{}{Tak je vaše odmìna. Rád jsem vás poznal, cizinèe.}
-{153}{}{Nevím, jestli vám mám vìøit, ale... dobøe, tady je odmìna. Ale jestli se dozvím, e mi lete, mí hoši si vás najdou. Také jsem vám slíbil nìjaké informace, take mì teï dobøe poslouchejte. Slyšel jsem spoustu pøíbìhù o Tandi a Zakladateli. Zdá se, e jí ještì pøed vznikem NCR zachránil ivot. Nicménì, legendy øíkají, e strávil spoustu èasu prùzkumem vaultu na vıchod odsud. A pokud to není onen Vault 13, pak tam moná bude alespoò stopa, která vás k nìmu zavede.}
-{154}{}{Já dìkovat ty!}
-{155}{}{Díky.}
+{139}{}{Vy mÃ¡te doporuÄenÃ­ od Å¡erifa Dumonta? Tak to je potom jinÃ¡. NÄ›kdo nebo nÄ›co pÅ™epadÃ¡vÃ¡ v noci moje brahmÃ­ny. Chci vÄ›dÄ›t proÄ. Nechcete se tam zajÃ­t podÃ­vat a proÅ¡etÅ™it to? PÅ™Ã­padnÃ¡ odmÄ›na vÃ¡s nemine.}
+{140}{}{To znÃ­ snadnÄ›. UdÄ›lÃ¡m to.}
+{141}{}{MyslÃ­m, Å¾e ne.}
+{142}{}{NÄ›kdo nebo nÄ›co pÅ™epadÃ¡vÃ¡ v noci moje brahmÃ­ny. Chci vÄ›dÄ›t proÄ. Nechcete se tam zajÃ­t podÃ­vat a proÅ¡etÅ™it to? PÅ™Ã­padnÃ¡ odmÄ›na vÃ¡s nemine.}
+{143}{}{To znÃ­ snadnÄ›. UdÄ›lÃ¡m to.}
+{144}{}{Ne, dÃ­ky. DÅ™epÄ›t na poli a Äekat na nÄ›jakou pÅ™erostlou kudlanku neznÃ­ moc lÃ¡kavÄ›.}
+{145}{}{VÃ½bornÄ›. Felix vÃ¡m Å™ekne podrobnosti. A teÄ mÄ› prosÃ­m omluvte.}
+{146}{}{No, to bych mohl. SlyÅ¡el jsem spoustu pÅ™Ã­bÄ›hÅ¯ o Tandi a Zakladateli. ZdÃ¡ se, Å¾e jÃ­ jeÅ¡tÄ› pÅ™ed vznikem NCR zachrÃ¡nil Å¾ivot. NicmÃ©nÄ›, legendy Å™Ã­kajÃ­, Å¾e strÃ¡vil spoustu Äasu prÅ¯zkumem vaultu na vÃ½chod odsud. A pokud to nenÃ­ onen Vault 13, pak tam moÅ¾nÃ¡ bude alespoÅˆ stopa, kterÃ¡ vÃ¡s k nÄ›mu zavede.}
+{147}{}{Ã“Ã³Ã³Ã³Ã³. DobÅ™e.}
+{148}{}{DÃ­ky!}
+{149}{}{No, to bych mohl, ale napÅ™ed potÅ™ebuji nÄ›co jÃ¡ od vÃ¡s. NÄ›kdo nebo nÄ›co pÅ™epadÃ¡vÃ¡ v noci moje brahmÃ­ny. Chci vÄ›dÄ›t proÄ. Nechcete se tam zajÃ­t podÃ­vat a proÅ¡etÅ™it to? ZaplatÃ­m vÃ¡m za to a jeÅ¡tÄ› vÃ¡m povÃ­m co vÃ­m.}
+{150}{}{To znÃ­ snadnÄ›. UdÄ›lÃ¡m to.}
+{151}{}{Ne, dÃ­ky. DÅ™epÄ›t na poli a Äekat na nÄ›jakou pÅ™erostlou kudlanku neznÃ­ moc lÃ¡kavÄ›.}
+{152}{}{Tak je vaÅ¡e odmÄ›na. RÃ¡d jsem vÃ¡s poznal, cizinÄe.}
+{153}{}{NevÃ­m, jestli vÃ¡m mÃ¡m vÄ›Å™it, ale... dobÅ™e, tady je odmÄ›na. Ale jestli se dozvÃ­m, Å¾e mi lÅ¾ete, mÃ­ hoÅ¡i si vÃ¡s najdou. TakÃ© jsem vÃ¡m slÃ­bil nÄ›jakÃ© informace, takÅ¾e mÄ› teÄ dobÅ™e poslouchejte. SlyÅ¡el jsem spoustu pÅ™Ã­bÄ›hÅ¯ o Tandi a Zakladateli. ZdÃ¡ se, Å¾e jÃ­ jeÅ¡tÄ› pÅ™ed vznikem NCR zachrÃ¡nil Å¾ivot. NicmÃ©nÄ›, legendy Å™Ã­kajÃ­, Å¾e strÃ¡vil spoustu Äasu prÅ¯zkumem vaultu na vÃ½chod odsud. A pokud to nenÃ­ onen Vault 13, pak tam moÅ¾nÃ¡ bude alespoÅˆ stopa, kterÃ¡ vÃ¡s k nÄ›mu zavede.}
+{154}{}{JÃ¡ dÄ›kovat ty!}
+{155}{}{DÃ­ky.}
 {156}{}{The First Citizen? Excellent, this is what I've been waiting for. Are you a Vault Citizen?}
 {157}{}{Ano.}
 {158}{}{Ne.}
-{159}{}{A jsem si jist, e urèitì dobrı. Vezmìte si teï prosím tento holodisk a doneste ho zpìt První Obèance. Je to velmi dùleité. Obsahuje informace, které odhalují plány mezi NCR a New Renem.}
-{160}{}{Mám ještì nìjaké otázky.}
+{159}{}{A jsem si jist, Å¾e urÄitÄ› dobrÃ½. VezmÄ›te si teÄ prosÃ­m tento holodisk a doneste ho zpÄ›t PrvnÃ­ ObÄance. Je to velmi dÅ¯leÅ¾itÃ©. Obsahuje informace, kterÃ© odhalujÃ­ plÃ¡ny mezi NCR a New Renem.}
+{160}{}{MÃ¡m jeÅ¡tÄ› nÄ›jakÃ© otÃ¡zky.}
 {161}{}{Ano, pane.}
-{162}{}{Ne, to u bude všechno.}
-{163}{}{Mám ještì nìjaké otázky.}
-{164}{}{Nevadí.}
-{165}{}{Práce? Myslíte...}
-{166}{}{Posílá mì Bishop. Má pro vás zprávu.}
-{167}{}{Sbohem a spi sladce, dìdku.}
-{168}{}{dolarù. Udìlejte svoji práci a já vám za ni zaplatím. Odmítnìte a ponesou vás ven nohama napøed. Rozumíte?}
-{169}{}{Ach tak. No, mìl jsem potíe s nìjakımi škùdci, ale u toho nechali, take bohuel. Zkuste zajít za Felixem, tøeba pro vás nìco má.}
-{170}{}{Dobøe, díky.}
-{171}{}{Ehhh... mám špatné srdce... nemohu popadnout...}
-{172}{}{Musím... øøøíííci Feeellliixxoovi.}
-{173}{}{Páni, asi mìl opravdu problémy se srdcem.}
-{174}{}{AHHAHH!!! AHAHAHHAH!!! AHHAHAH!!! TO PÁLÍ!!!}
-{175}{}{Podaøilo se ti doruèit holodisk Westinovi.}
-{176}{}{Jeho srdce udìlat bùm bùm.}
+{162}{}{Ne, to uÅ¾ bude vÅ¡echno.}
+{163}{}{MÃ¡m jeÅ¡tÄ› nÄ›jakÃ© otÃ¡zky.}
+{164}{}{NevadÃ­.}
+{165}{}{PrÃ¡ce? MyslÃ­te...}
+{166}{}{PosÃ­lÃ¡ mÄ› Bishop. MÃ¡ pro vÃ¡s zprÃ¡vu.}
+{167}{}{Sbohem a spi sladce, dÄ›dku.}
+{168}{}{dolarÅ¯. UdÄ›lejte svoji prÃ¡ci a jÃ¡ vÃ¡m za ni zaplatÃ­m. OdmÃ­tnÄ›te a ponesou vÃ¡s ven nohama napÅ™ed. RozumÃ­te?}
+{169}{}{Ach tak. No, mÄ›l jsem potÃ­Å¾e s nÄ›jakÃ½mi Å¡kÅ¯dci, ale uÅ¾ toho nechali, takÅ¾e bohuÅ¾el. Zkuste zajÃ­t za Felixem, tÅ™eba pro vÃ¡s nÄ›co mÃ¡.}
+{170}{}{DobÅ™e, dÃ­ky.}
+{171}{}{Ehhh... mÃ¡m Å¡patnÃ© srdce... nemohu popadnout...}
+{172}{}{MusÃ­m... Å™Å™Å™Ã­Ã­Ã­ci Feeellliixxoovi.}
+{173}{}{PÃ¡ni, asi mÄ›l opravdu problÃ©my se srdcem.}
+{174}{}{AHHAHH!!! AHAHAHHAH!!! AHHAHAH!!! TO PÃLÃ!!!}
+{175}{}{PodaÅ™ilo se ti doruÄit holodisk Westinovi.}
+{176}{}{Jeho srdce udÄ›lat bÅ¯m bÅ¯m.}

@@ -1,10 +1,10 @@
 {100}{}{Vzlyk...}
 {101}{}{Jonny...}
 {102}{}{Smrk...}
-{103}{}{Chybí mi mùj syn.}
-{110}{}{Prosím, najdi Jonnyho.}
-{120}{}{Prosím, pøiveï Jonnyho zpátky.}
-{121}{}{Mockrát ti dìkuju za nalezení Jonnyho.}
-{150}{}{Vidíš Balthasovu enu.}
-{151}{}{Vidíš Balthasovu enu. Je ponìkud rozèílená.}
-{152}{}{Vidíš Balthasovu enu. Zdá se, e má dobrou náladu.}
+{103}{}{ChybÃ­ mi mÅ¯j syn.}
+{110}{}{ProsÃ­m, najdi Jonnyho.}
+{120}{}{ProsÃ­m, pÅ™iveÄ Jonnyho zpÃ¡tky.}
+{121}{}{MockrÃ¡t ti dÄ›kuju za nalezenÃ­ Jonnyho.}
+{150}{}{VidÃ­Å¡ Balthasovu Å¾enu.}
+{151}{}{VidÃ­Å¡ Balthasovu Å¾enu. Je ponÄ›kud rozÄÃ­lenÃ¡.}
+{152}{}{VidÃ­Å¡ Balthasovu Å¾enu. ZdÃ¡ se, Å¾e mÃ¡ dobrou nÃ¡ladu.}

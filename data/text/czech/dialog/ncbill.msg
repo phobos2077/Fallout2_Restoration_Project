@@ -1,22 +1,22 @@
-{100}{}{Vidíš Billa.}
-{150}{}{Vidíš chøadnoucího mue s hustım bílım oboèím. Vypadá to, e by potøeboval drink.}
-{200}{}{::Kašle::}
-{201}{}{::Zírá na barmana::}
-{202}{}{::Gestikuluje pro další drink::}
-{203}{}{::Zírá::}
-{210}{}{Vypadni, pitomèe.}
-{220}{}{(Mu se na tebe ani nepodívá, kdy se k nìmu pøiblííš. Upøenì se dívá na zeï za barem.)}
-{221}{}{Eh, poslyš, neslyšel jsi nìjaké zajímavé drby?}
-{222}{}{Poslyš, co si myslíš o tìhlech novıch brılích co nosím?}
-{223}{}{Poslyš, u jsi nìkdy nìkoho zabil?}
+{100}{}{VidÃ­Å¡ Billa.}
+{150}{}{VidÃ­Å¡ chÅ™adnoucÃ­ho muÅ¾e s hustÃ½m bÃ­lÃ½m oboÄÃ­m. VypadÃ¡ to, Å¾e by potÅ™eboval drink.}
+{200}{}{::KaÅ¡le::}
+{201}{}{::ZÃ­rÃ¡ na barmana::}
+{202}{}{::Gestikuluje pro dalÅ¡Ã­ drink::}
+{203}{}{::ZÃ­rÃ¡::}
+{210}{}{Vypadni, pitomÄe.}
+{220}{}{(MuÅ¾ se na tebe ani nepodÃ­vÃ¡, kdyÅ¾ se k nÄ›mu pÅ™iblÃ­Å¾Ã­Å¡. UpÅ™enÄ› se dÃ­vÃ¡ na zeÄ za barem.)}
+{221}{}{Eh, poslyÅ¡, neslyÅ¡el jsi nÄ›jakÃ© zajÃ­mavÃ© drby?}
+{222}{}{PoslyÅ¡, co si myslÃ­Å¡ o tÄ›hlech novÃ½ch brÃ½lÃ­ch co nosÃ­m?}
+{223}{}{PoslyÅ¡, uÅ¾ jsi nÄ›kdy nÄ›koho zabil?}
 {224}{}{[Nechat ho na pokoji]}
-{230}{}{Co to je za debilní otázku?}
-{231}{}{Nic, uklidni se. Jenom se ptám.}
-{232}{}{Dobøe, tak na to zapomeò.}
+{230}{}{Co to je za debilnÃ­ otÃ¡zku?}
+{231}{}{Nic, uklidni se. Jenom se ptÃ¡m.}
+{232}{}{DobÅ™e, tak na to zapomeÅˆ.}
 {240}{}{Ne, ty se uklidni.}
-{241}{}{Neuklidním, dokud z tebe nevymlátím duši.}
-{250}{}{(Mu se na tebe upøenì podívá.) Vypadáš jako idiot.}
-{251}{}{Hej, uklidni se. Jenom se ptám na tvùj názor.}
-{252}{}{Eh... tak díky za upøímnost.}
-{260}{}{(Gestikuluje na tebe, a zavøeš hubu a necháš ho dál pít.)}
+{241}{}{NeuklidnÃ­m, dokud z tebe nevymlÃ¡tÃ­m duÅ¡i.}
+{250}{}{(MuÅ¾ se na tebe upÅ™enÄ› podÃ­vÃ¡.) VypadÃ¡Å¡ jako idiot.}
+{251}{}{Hej, uklidni se. Jenom se ptÃ¡m na tvÅ¯j nÃ¡zor.}
+{252}{}{Eh... tak dÃ­ky za upÅ™Ã­mnost.}
+{260}{}{(Gestikuluje na tebe, aÅ¥ zavÅ™eÅ¡ hubu a nechÃ¡Å¡ ho dÃ¡l pÃ­t.)}
 {261}{}{[Nechat ho na pokoji]}

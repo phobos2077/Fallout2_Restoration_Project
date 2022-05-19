@@ -1,9 +1,9 @@
-{100}{}{Tohle auto nevypadá, e je funkèní, ale poøád vypadá lépe ne ostatní auta kolem. Moná by se dalo opravit.}
-{101}{}{V souèasném stavu tohle auto nevypadá provozuschopnì. Chce to kontroler pøívodu energie.}
-{200}{}{Podaøilo se ti opravit auto montáí kontroléru pøívodu energie.}
-{210}{}{Nepodaøilo se ti opravit auto pouitím kontroléru pøívodu energie.}
-{220}{}{Podaøilo se ti vylepšit auto regulátorem pøívodu energie.}
-{230}{}{Nepodaøilo se ti namontovat regulátor pøívodu energie.}
-{250}{}{Auto je bez paliva. Natankuj, abys mohl opìt nastartovat.}
-{300}{}{Nepodaøilo se ti opravit auto. Mít ten kontrolér pøívodu energie, o kterém mluvil Smitty, tak by se to dalo dát dohromady.}
-{400}{}{Bylo by pøíliš nápadné otevøít kapotu a zaèít pracovat na autì.}
+{100}{}{Tohle auto nevypadÃ¡, Å¾e je funkÄnÃ­, ale poÅ™Ã¡d vypadÃ¡ lÃ©pe neÅ¾ ostatnÃ­ auta kolem. MoÅ¾nÃ¡ by se dalo opravit.}
+{101}{}{V souÄasnÃ©m stavu tohle auto nevypadÃ¡ provozuschopnÄ›. Chce to kontroler pÅ™Ã­vodu energie.}
+{200}{}{PodaÅ™ilo se ti opravit auto montÃ¡Å¾Ã­ kontrolÃ©ru pÅ™Ã­vodu energie.}
+{210}{}{NepodaÅ™ilo se ti opravit auto pouÅ¾itÃ­m kontrolÃ©ru pÅ™Ã­vodu energie.}
+{220}{}{PodaÅ™ilo se ti vylepÅ¡it auto regulÃ¡torem pÅ™Ã­vodu energie.}
+{230}{}{NepodaÅ™ilo se ti namontovat regulÃ¡tor pÅ™Ã­vodu energie.}
+{250}{}{Auto je bez paliva. Natankuj, abys mohl opÄ›t nastartovat.}
+{300}{}{NepodaÅ™ilo se ti opravit auto. MÃ­t ten kontrolÃ©r pÅ™Ã­vodu energie, o kterÃ©m mluvil Smitty, tak by se to dalo dÃ¡t dohromady.}
+{400}{}{Bylo by pÅ™Ã­liÅ¡ nÃ¡padnÃ© otevÅ™Ã­t kapotu a zaÄÃ­t pracovat na autÄ›.}

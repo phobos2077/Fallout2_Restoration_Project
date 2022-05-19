@@ -1,18 +1,18 @@
-{100}{}{Vidíš strá ve volnìjším obleèení. Vypadá ostraitì, ale zároveò znudìnì.}
-{101}{}{Vidíš stráce paláce.}
-{102}{}{Vidíš stráce paláce, kterı drí nebezpeènì vypadající zbraò.}
-{103}{}{Jdi dál a nic se ti nestane.}
-{104}{}{Máš tu nìco na práci?}
-{105}{}{Dáme si na tebe pozor.}
-{106}{}{Nic na nás nezkoušej.}
-{107}{}{Chovej se k našim lidem s úctou.}
-{108}{}{Nesahej na to. To je poslední varování.}
-{109}{}{A u tì tady nevidím.}
-{110}{}{Ustup, cizinèe.}
+{100}{}{VidÃ­Å¡ strÃ¡Å¾ ve volnÄ›jÅ¡Ã­m obleÄenÃ­. VypadÃ¡ ostraÅ¾itÄ›, ale zÃ¡roveÅˆ znudÄ›nÄ›.}
+{101}{}{VidÃ­Å¡ strÃ¡Å¾ce palÃ¡ce.}
+{102}{}{VidÃ­Å¡ strÃ¡Å¾ce palÃ¡ce, kterÃ½ drÅ¾Ã­ nebezpeÄnÄ› vypadajÃ­cÃ­ zbraÅˆ.}
+{103}{}{Jdi dÃ¡l a nic se ti nestane.}
+{104}{}{MÃ¡Å¡ tu nÄ›co na prÃ¡ci?}
+{105}{}{DÃ¡me si na tebe pozor.}
+{106}{}{Nic na nÃ¡s nezkouÅ¡ej.}
+{107}{}{Chovej se k naÅ¡im lidem s Ãºctou.}
+{108}{}{Nesahej na to. To je poslednÃ­ varovÃ¡nÃ­.}
+{109}{}{AÅ¥ uÅ¾ tÄ› tady nevidÃ­m.}
+{110}{}{Ustup, cizinÄe.}
 {111}{}{Pomalu od toho ustup.}
-{112}{}{A tì to ani nenapadne.}
-{113}{}{Pøestaò s tím. Hned.}
-{114}{}{Chcípni, nepøíteli lidu!}
-{115}{}{Posílám tì do pekla hoøícího kovu!}
-{116}{}{Nech se Buddha slituje nad tvou duší!}
-{117}{}{Usma se v pekle, nepøíteli!}
+{112}{}{AÅ¥ tÄ› to ani nenapadne.}
+{113}{}{PÅ™estaÅˆ s tÃ­m. Hned.}
+{114}{}{ChcÃ­pni, nepÅ™Ã­teli lidu!}
+{115}{}{PosÃ­lÃ¡m tÄ› do pekla hoÅ™Ã­cÃ­ho kovu!}
+{116}{}{NechÅ¥ se Buddha slituje nad tvou duÅ¡Ã­!}
+{117}{}{UsmaÅ¾ se v pekle, nepÅ™Ã­teli!}

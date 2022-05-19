@@ -1,235 +1,235 @@
-{100}{}{Vidíš Velkého Jeíše Mordina.}
-{150}{}{Vidíš tlustého mue s èernıma oèima. Tìce dıchá a je celı zpocenı.}
-{151}{}{Vidíš Velkého Jeíše Mordina. Tìce dıchá a je celı zpocenı.}
-{200}{}{Tam nemùeš.}
-{201}{}{To... to ti nepatøí.}
-{202}{}{Ještì jednou se toho dotkni a skonèíš... v Golgotì.}
-{210}{}{::Vzzz hvízd::}
+{100}{}{VidÃ­Å¡ VelkÃ©ho JeÅ¾Ã­Å¡e Mordina.}
+{150}{}{VidÃ­Å¡ tlustÃ©ho muÅ¾e s ÄernÃ½ma oÄima. TÄ›Å¾ce dÃ½chÃ¡ a je celÃ½ zpocenÃ½.}
+{151}{}{VidÃ­Å¡ VelkÃ©ho JeÅ¾Ã­Å¡e Mordina. TÄ›Å¾ce dÃ½chÃ¡ a je celÃ½ zpocenÃ½.}
+{200}{}{Tam nemÅ¯Å¾eÅ¡.}
+{201}{}{To... to ti nepatÅ™Ã­.}
+{202}{}{JeÅ¡tÄ› jednou se toho dotkni a skonÄÃ­Å¡... v GolgotÄ›.}
+{210}{}{::Vzzz hvÃ­zd::}
 {211}{}{*Kuc* *Kuc*}
-{212}{}{::Utøe si pot z èela.::}
-{220}{}{Jsi... *kašel*... mùj nejlepší mu.}
-{221}{}{Projevují ti lidé v New Renu... *kašel*... dostateènı respekt?}
+{212}{}{::UtÅ™e si pot z Äela.::}
+{220}{}{Jsi... *kaÅ¡el*... mÅ¯j nejlepÅ¡Ã­ muÅ¾.}
+{221}{}{ProjevujÃ­ ti lidÃ© v New Renu... *kaÅ¡el*... dostateÄnÃ½ respekt?}
 {230}{}{Urgggg...}
 {231}{}{...Dios mio...}
 {232}{}{...moje srdce...}
 {233}{}{hurrkkkk}
-{240}{}{(Mu se k tobì otoèí. Vypadá, e má horeèku. Pot mu stéká dolù po tváøi a vytváøí mokré skvrny na obleèení. }
-{241}{}{(Ignoruje tì a upøenì se dívá na Myrona. Vypadá to, e èeká, a Myron promluví.)}
-{242}{}{(Upøenì se na tebe dívá a vypadá to, e èeká, a promluvíš.)}
+{240}{}{(MuÅ¾ se k tobÄ› otoÄÃ­. VypadÃ¡, Å¾e mÃ¡ horeÄku. Pot mu stÃ©kÃ¡ dolÅ¯ po tvÃ¡Å™i a vytvÃ¡Å™Ã­ mokrÃ© skvrny na obleÄenÃ­. }
+{241}{}{(Ignoruje tÄ› a upÅ™enÄ› se dÃ­vÃ¡ na Myrona. VypadÃ¡ to, Å¾e ÄekÃ¡, aÅ¾ Myron promluvÃ­.)}
+{242}{}{(UpÅ™enÄ› se na tebe dÃ­vÃ¡ a vypadÃ¡ to, Å¾e ÄekÃ¡, aÅ¾ promluvÃ­Å¡.)}
 {243}{}{[Stare back at him with your meanest stare.]}
 {244}{}{[Stare back at him with mild disinterest.]}
 {245}{}{[Stare back at him with a sneering gaze.]}
 {246}{}{[Stare back at him with affected disinterest.]}
 {247}{}{Odbelhat se.}
 {248}{}{Kdo jsi?}
-{249}{}{Vy jste Jeíš Mordino?}
-{250}{}{Pardon. Asi jsem ve špatné místnosti.}
-{260}{}{Ty. (Kdy vejde Myron dovnitø, Mordino se na nìj upøenì podívá a v oèích se mu zlovìstnì zablıskne.) Ty jsi... opustil svoje místo. U jsi mi... k nièemu. (Dá pokyn svım stráím, aby vytasily zbranì.)}
-{261}{}{(Mu zaène supìt. Dá pokyn svım stráím, aby vytasily zbranì.)}
-{262}{}{(Velkej Jeíš zaène supìt. Dá pokyn svım stráím, aby vytasily zbranì.)}
-{263}{}{Ááááááááá!}
-{264}{}{Vytasit zbranì!}
-{265}{}{Bìet!}
+{249}{}{Vy jste JeÅ¾Ã­Å¡ Mordino?}
+{250}{}{Pardon. Asi jsem ve Å¡patnÃ© mÃ­stnosti.}
+{260}{}{Ty. (KdyÅ¾ vejde Myron dovnitÅ™, Mordino se na nÄ›j upÅ™enÄ› podÃ­vÃ¡ a v oÄÃ­ch se mu zlovÄ›stnÄ› zablÃ½skne.) Ty jsi... opustil svoje mÃ­sto. UÅ¾ jsi mi... k niÄemu. (DÃ¡ pokyn svÃ½m strÃ¡Å¾Ã­m, aby vytasily zbranÄ›.)}
+{261}{}{(MuÅ¾ zaÄne supÄ›t. DÃ¡ pokyn svÃ½m strÃ¡Å¾Ã­m, aby vytasily zbranÄ›.)}
+{262}{}{(Velkej JeÅ¾Ã­Å¡ zaÄne supÄ›t. DÃ¡ pokyn svÃ½m strÃ¡Å¾Ã­m, aby vytasily zbranÄ›.)}
+{263}{}{ÃÃ¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡!}
+{264}{}{Vytasit zbranÄ›!}
+{265}{}{BÄ›Å¾et!}
 {266}{}{Hej! Hej...!}
 {267}{}{Hej! Tak moment...!}
-{268}{}{Opravdu to CHCEŠ, *Tlusochu?!* Já ti ukáu, kdo JE to }
-{275}{}{(Mu zaène mluvit sípavım hlasem.) Já... jsem Jeíš Mordino. Ty... mì oslovuj seòore Mordino. (Kapka potu mu steèe z èela.) Co... ode mì potøebuješ?}
-{276}{}{Ty jsi... zpìt. (Kapka potu mu steèe z èela.) Co... ode mì potøebuješ?}
-{277}{}{Hledám práci.}
-{278}{}{Mluvil jsem s vaším synem, seòore Mordino. Hledám práci.}
-{279}{}{Mluvil jsem s vaším synem, seòore Mordino. Jsem otrokáø a chci vám prodat nìjaké otroky.}
-{280}{}{Nevíte nìco o smrti Wrightova syna?}
-{281}{}{Není vám tady teplo? Pøijde mi, e vám není zrovna... pøíjemnì.}
-{282}{}{Dnes nic. U musím jít.}
-{290}{}{(Dlouho si tì prohlíí a poté zakroutí hlavou.) Ty... nejsi pro mì dost SILNİ. Nemám pro tebe práci.}
-{291}{}{(Dlouho si tì prohlíí a poté zakroutí hlavou.) Ty jsi... ENA. Tahle práce není pro eny.}
-{292}{}{Dejte mi šanci. Dejte mi práci... jakoukoliv... a nebudete toho litovat.}
-{293}{}{Dejte mi šanci, seòore Mordino. Dejte mi práci, jakoukoliv, a nebudete toho litovat.}
-{294}{}{Tak mì vyzkoušejte. Nebudete toho litovat.}
-{295}{}{Tak mì vyzkoušejte, seòore Mordino. Nebudete toho litovat.}
-{296}{}{Tak dobøe. Zatím.}
-{305}{}{(Kapka potu steèe Mordinovi po tváøi. Jeho vıraz v tváøi znejasní.) U jsem øekl... e pro tebe NEMÁM práci. Odejdi... a u se NEVRACEJ.}
-{306}{}{No ták, Velkej Jeíši... aspoò jednu šanci...}
-{307}{}{Tak dobøe. Nashledanou.}
-{315}{}{(Mordino je chvíli potichu a poté zaène mluvit.) Já jsem Jeíš Mordino, hlava Mordinovy rodiny. Vstoupil jsi do... mého kasína. Mého domova. Neprojevil jsi mi ani trochu... úcty. Budu ti muset dát LEKCI.}
-{316}{}{Myslím, e to budete VY, kdo dostane lekci...}
-{317}{}{Hej, zadrte! Pojïme si o tom promluvit! No ták...}
-{318}{}{[Utéct ke dveøím]}
-{319}{}{::Skoèit do krytu a pomalu vytasit zbraò.::}
-{325}{}{(Mordino èeká. Jak se tak na nìj díváš, vidíš, jak další mu další kapka potu steèe dolù po tváøi.)}
-{326}{}{Chci prodat nìjaké otroky...}
-{327}{}{Co víte o smrti Richarda Wrighta?}
-{329}{}{Zapomeò na to.}
-{335}{}{(Prohlíí si tì.) Sice tì... neznám, ale... poslouchám. (Utøe si pot z èela.) }
-{336}{}{Ty máš otroky na prodej?}
-{337}{}{Ano, jsou tu se mnou. Podívejte se a udìlejte mi nabídku.}
-{338}{}{Ne, nemám. Vlastnì jsem se zmılil. Hledám práci, nechci prodat ádné otroky.}
-{339}{}{Ne... vlastnì se chci na nìco zeptat.}
-{340}{}{Ne, pardon. Vlastnì si teï vzpomínám, e mám bıt nìkde jinde.}
-{345}{}{(Mordino si prohlíí tvé spoleèníky. Jeho pohled strne na Mirii, pøièem si olízne rty.) Ta tvoje puta vypadá zachovale... dám ti za ni 250 babek.}
-{346}{}{(Mordino si prohlíí tvé spoleèníky. Jeho pohled strne na Davinovi.) Sice vypadá slabì, ale vezmu si toho kluka. Nabízím ti za nìj 200 babek.}
-{347}{}{(Mordino si prohlíí tvé spoleèníky. Jeho pohled strne na Sulikovi... nìkolikrát mu zmáèkne nos.) Ten divoch... smrdí, ale vypadá silnì. Nabízím ti za nìj 100 babek.}
-{348}{}{(Mordino si prohlíí tvé spoleèníky. Jeho pohled strne na Vicovi.) Vezmu si toho staøíka... vypadá to, e bude ještì pár let uiteènı. Nabízím ti za nìj 100 babek.}
-{349}{}{(Mordino si prohlíí tvé spoleèníky. Jeho pohled strne na Cassidym.) Vezmu si toho staøíka... vypadá to, e bude ještì pár let uiteènı. Nabízím ti za nìj 100 babek.}
-{350}{}{(Mordinùv pohled ihned strne na Skynetovi.) Ten stroj tam. Nabízím ti za nìj 500 babek.}
-{351}{}{(Mordinùv pohled ihned strne na kyberpsovi.) Koupím toho... mechanického psa. Nabízím ti za nìj 500 babek.}
-{352}{}{(Mordino si prohlédne tvé spoleèníky a poté zakroutí hlavou.) Nemáš nic, o co bych mìl zájem.}
-{353}{}{Seòore Mordino, prosím... tenhle otrok má mnohem VÌTŠÍ cenu. Urèitì má pøed sebou spoustu let vìrné sluby.}
-{354}{}{To je férová cena. Mùete si toho otroka vzít.}
-{355}{}{Toho vlastnì ještì nechci prodat. Chci se ale na nìco zeptat...}
-{356}{}{Tohohle otroka vlastnì ještì nechci prodat. Provedeme ten obchod jindy.}
-{357}{}{Tak dobøe. Chci se ještì na nìco zeptat...}
-{358}{}{Tak dobøe. Zastavím se, a budu mít lepší nabídku.}
-{370}{}{Ne. Je na ní vidìt, e hodnì cestovala a vypadá dost opotøebovanì... 250 babek nebo nic.}
-{371}{}{Ten chlapec vypadá zenštile a slabì. Nedám ti za nìj víc ne 200 babek.}
-{372}{}{Ne. Ten divoch smrdí a vypadá, e bude... tìko zvládnutelnı. Bude ho tìké zkrotit. 100 babek.}
-{373}{}{Ten mu je starı. Dám ti za nìj 100 babek.}
+{268}{}{Opravdu to CHCEÅ , *TlusÅ¥ochu?!* JÃ¡ ti ukÃ¡Å¾u, kdo JE to }
+{275}{}{(MuÅ¾ zaÄne mluvit sÃ­pavÃ½m hlasem.) JÃ¡... jsem JeÅ¾Ã­Å¡ Mordino. Ty... mÄ› oslovuj seÅˆore Mordino. (Kapka potu mu steÄe z Äela.) Co... ode mÄ› potÅ™ebujeÅ¡?}
+{276}{}{Ty jsi... zpÄ›t. (Kapka potu mu steÄe z Äela.) Co... ode mÄ› potÅ™ebujeÅ¡?}
+{277}{}{HledÃ¡m prÃ¡ci.}
+{278}{}{Mluvil jsem s vaÅ¡Ã­m synem, seÅˆore Mordino. HledÃ¡m prÃ¡ci.}
+{279}{}{Mluvil jsem s vaÅ¡Ã­m synem, seÅˆore Mordino. Jsem otrokÃ¡Å™ a chci vÃ¡m prodat nÄ›jakÃ© otroky.}
+{280}{}{NevÃ­te nÄ›co o smrti Wrightova syna?}
+{281}{}{NenÃ­ vÃ¡m tady teplo? PÅ™ijde mi, Å¾e vÃ¡m nenÃ­ zrovna... pÅ™Ã­jemnÄ›.}
+{282}{}{Dnes nic. UÅ¾ musÃ­m jÃ­t.}
+{290}{}{(Dlouho si tÄ› prohlÃ­Å¾Ã­ a potÃ© zakroutÃ­ hlavou.) Ty... nejsi pro mÄ› dost SILNÃ. NemÃ¡m pro tebe prÃ¡ci.}
+{291}{}{(Dlouho si tÄ› prohlÃ­Å¾Ã­ a potÃ© zakroutÃ­ hlavou.) Ty jsi... Å½ENA. Tahle prÃ¡ce nenÃ­ pro Å¾eny.}
+{292}{}{Dejte mi Å¡anci. Dejte mi prÃ¡ci... jakoukoliv... a nebudete toho litovat.}
+{293}{}{Dejte mi Å¡anci, seÅˆore Mordino. Dejte mi prÃ¡ci, jakoukoliv, a nebudete toho litovat.}
+{294}{}{Tak mÄ› vyzkouÅ¡ejte. Nebudete toho litovat.}
+{295}{}{Tak mÄ› vyzkouÅ¡ejte, seÅˆore Mordino. Nebudete toho litovat.}
+{296}{}{Tak dobÅ™e. ZatÃ­m.}
+{305}{}{(Kapka potu steÄe Mordinovi po tvÃ¡Å™i. Jeho vÃ½raz v tvÃ¡Å™i znejasnÃ­.) UÅ¾ jsem Å™ekl... Å¾e pro tebe NEMÃM prÃ¡ci. Odejdi... a uÅ¾ se NEVRACEJ.}
+{306}{}{No tÃ¡k, Velkej JeÅ¾Ã­Å¡i... aspoÅˆ jednu Å¡anci...}
+{307}{}{Tak dobÅ™e. Nashledanou.}
+{315}{}{(Mordino je chvÃ­li potichu a potÃ© zaÄne mluvit.) JÃ¡ jsem JeÅ¾Ã­Å¡ Mordino, hlava Mordinovy rodiny. Vstoupil jsi do... mÃ©ho kasÃ­na. MÃ©ho domova. Neprojevil jsi mi ani trochu... Ãºcty. Budu ti muset dÃ¡t LEKCI.}
+{316}{}{MyslÃ­m, Å¾e to budete VY, kdo dostane lekci...}
+{317}{}{Hej, zadrÅ¾te! PojÄme si o tom promluvit! No tÃ¡k...}
+{318}{}{[UtÃ©ct ke dveÅ™Ã­m]}
+{319}{}{::SkoÄit do krytu a pomalu vytasit zbraÅˆ.::}
+{325}{}{(Mordino ÄekÃ¡. Jak se tak na nÄ›j dÃ­vÃ¡Å¡, vidÃ­Å¡, jak dalÅ¡Ã­ mu dalÅ¡Ã­ kapka potu steÄe dolÅ¯ po tvÃ¡Å™i.)}
+{326}{}{Chci prodat nÄ›jakÃ© otroky...}
+{327}{}{Co vÃ­te o smrti Richarda Wrighta?}
+{329}{}{ZapomeÅˆ na to.}
+{335}{}{(ProhlÃ­Å¾Ã­ si tÄ›.) Sice tÄ›... neznÃ¡m, ale... poslouchÃ¡m. (UtÅ™e si pot z Äela.) }
+{336}{}{Ty mÃ¡Å¡ otroky na prodej?}
+{337}{}{Ano, jsou tu se mnou. PodÃ­vejte se a udÄ›lejte mi nabÃ­dku.}
+{338}{}{Ne, nemÃ¡m. VlastnÄ› jsem se zmÃ½lil. HledÃ¡m prÃ¡ci, nechci prodat Å¾Ã¡dnÃ© otroky.}
+{339}{}{Ne... vlastnÄ› se chci na nÄ›co zeptat.}
+{340}{}{Ne, pardon. VlastnÄ› si teÄ vzpomÃ­nÃ¡m, Å¾e mÃ¡m bÃ½t nÄ›kde jinde.}
+{345}{}{(Mordino si prohlÃ­Å¾Ã­ tvÃ© spoleÄnÃ­ky. Jeho pohled strne na Mirii, pÅ™iÄemÅ¾ si olÃ­zne rty.) Ta tvoje puta vypadÃ¡ zachovale... dÃ¡m ti za ni 250 babek.}
+{346}{}{(Mordino si prohlÃ­Å¾Ã­ tvÃ© spoleÄnÃ­ky. Jeho pohled strne na Davinovi.) Sice vypadÃ¡ slabÄ›, ale vezmu si toho kluka. NabÃ­zÃ­m ti za nÄ›j 200 babek.}
+{347}{}{(Mordino si prohlÃ­Å¾Ã­ tvÃ© spoleÄnÃ­ky. Jeho pohled strne na Sulikovi... nÄ›kolikrÃ¡t mu zmÃ¡Äkne nos.) Ten divoch... smrdÃ­, ale vypadÃ¡ silnÄ›. NabÃ­zÃ­m ti za nÄ›j 100 babek.}
+{348}{}{(Mordino si prohlÃ­Å¾Ã­ tvÃ© spoleÄnÃ­ky. Jeho pohled strne na Vicovi.) Vezmu si toho staÅ™Ã­ka... vypadÃ¡ to, Å¾e bude jeÅ¡tÄ› pÃ¡r let uÅ¾iteÄnÃ½. NabÃ­zÃ­m ti za nÄ›j 100 babek.}
+{349}{}{(Mordino si prohlÃ­Å¾Ã­ tvÃ© spoleÄnÃ­ky. Jeho pohled strne na Cassidym.) Vezmu si toho staÅ™Ã­ka... vypadÃ¡ to, Å¾e bude jeÅ¡tÄ› pÃ¡r let uÅ¾iteÄnÃ½. NabÃ­zÃ­m ti za nÄ›j 100 babek.}
+{350}{}{(MordinÅ¯v pohled ihned strne na Skynetovi.) Ten stroj tam. NabÃ­zÃ­m ti za nÄ›j 500 babek.}
+{351}{}{(MordinÅ¯v pohled ihned strne na kyberpsovi.) KoupÃ­m toho... mechanickÃ©ho psa. NabÃ­zÃ­m ti za nÄ›j 500 babek.}
+{352}{}{(Mordino si prohlÃ©dne tvÃ© spoleÄnÃ­ky a potÃ© zakroutÃ­ hlavou.) NemÃ¡Å¡ nic, o co bych mÄ›l zÃ¡jem.}
+{353}{}{SeÅˆore Mordino, prosÃ­m... tenhle otrok mÃ¡ mnohem VÄšTÅ Ã cenu. UrÄitÄ› mÃ¡ pÅ™ed sebou spoustu let vÄ›rnÃ© sluÅ¾by.}
+{354}{}{To je fÃ©rovÃ¡ cena. MÅ¯Å¾ete si toho otroka vzÃ­t.}
+{355}{}{Toho vlastnÄ› jeÅ¡tÄ› nechci prodat. Chci se ale na nÄ›co zeptat...}
+{356}{}{Tohohle otroka vlastnÄ› jeÅ¡tÄ› nechci prodat. Provedeme ten obchod jindy.}
+{357}{}{Tak dobÅ™e. Chci se jeÅ¡tÄ› na nÄ›co zeptat...}
+{358}{}{Tak dobÅ™e. ZastavÃ­m se, aÅ¾ budu mÃ­t lepÅ¡Ã­ nabÃ­dku.}
+{370}{}{Ne. Je na nÃ­ vidÄ›t, Å¾e hodnÄ› cestovala a vypadÃ¡ dost opotÅ™ebovanÄ›... 250 babek nebo nic.}
+{371}{}{Ten chlapec vypadÃ¡ zÅ¾enÅ¡tile a slabÄ›. NedÃ¡m ti za nÄ›j vÃ­c neÅ¾ 200 babek.}
+{372}{}{Ne. Ten divoch smrdÃ­ a vypadÃ¡, Å¾e bude... tÄ›Å¾ko zvlÃ¡dnutelnÃ½. Bude ho tÄ›Å¾kÃ© zkrotit. 100 babek.}
+{373}{}{Ten muÅ¾ je starÃ½. DÃ¡m ti za nÄ›j 100 babek.}
 {375}{}{Ne. 500 babek.}
-{377}{}{Seòore Mordino, prosím... snad mì nechcete urazit? Tohle je prvotøídní zboí, urèitì má vìtší cenu.}
-{390}{}{(Mordino se projde kolem Mirie, poøádnì si prohlédne její tváø a poté ji plácne po zadku.) Hmmmm. Dám ti za ní 500 babek.}
-{391}{}{(Mordino se projde kolem Davina, vyhrne chlapci rukáv a prohlédne si jeho svaly. Poté se mu podívá do oèí, aby zjistil, jestli nebere drogy.) Hmmmm. Vypadá dobøe. Dám ti za nìj 400 babek.}
-{392}{}{(Mordino se zamraèenì projde kolem Sulika.) Hmmmm. Vypadá silnì... a kdy vidím tu jeho kost v nose, tak asi dobøe snáší bolest. Dám ti za nìj 200 babek.}
-{393}{}{(Mordino se zamraèenì projde kolem Vica.) Hmmmmm. Dám ti za nìj 200 babek. Víc ne.}
-{394}{}{(Mordino se zamraèenì projde kolem Cassidyho.) Hmmmmm. Dám ti za nìj 200 babek. Víc ne.}
-{395}{}{(Mordino si chvíli prohlíí Skyneta.) Nabízím tisíc babek.}
-{396}{}{(Mordino si chvíli prohlíí kyberpsa.) Nabízím tisíc babek.}
-{410}{}{(Mordino nechá odvést Miriu pryè a mezitím ti pøipraví peníze.) Tady.}
-{411}{}{(Mordino nechá odvést Davina pryè a mezitím ti pøipraví peníze.) Tady.}
-{412}{}{(Mordino nechá odvést Sulika pryè a mezitím ti pøipraví peníze.) Tady.}
-{413}{}{(Mordino nechá odvést Vica pryè a mezitím ti pøipraví peníze.) Tady.}
-{414}{}{(Mordino nechá odvést Cassidyho pryè a mezitím ti pøipraví peníze.) Tady.}
-{415}{}{(Mordino nechá odvést Skyneta pryè a mezitím ti pøipraví peníze.) Tady.}
-{416}{}{(Mordino nechá odvést kyberpsa pryè a mezitím ti pøipraví peníze.) Tady.}
-{417}{}{Nechcete se podívat na moje další zboí?}
-{418}{}{Díky, seòore Mordino. Mimochodem, mùu se vás na nìco zeptat...}
-{419}{}{Díky, seòore Mordino. Doufám, e vám budou otroci dobøe slouit. Sbohem.}
-{430}{}{(Kapka potu steèe Mordinovi po tváøi a poté se zachmuøí.) Ty svinì, ty jeden zkurvysynu. Od takovıch lidí, jako jsi ty, si nic nekoupím. Odejdi... a u se NEVRACEJ.}
-{431}{}{Seòore Mordino, prosím... zvate to ještì jednou...}
-{432}{}{[Potichu odejít]}
-{440}{}{(Mordino si tì prohlíí.) No dobøe. Mám... pro tebe práci. Vezmi si... (Hluboce zasípá a poté si utøe pot z èela.) ...tenhle balík... a dones ho do *Stájí* severnì od Rena. Pøedej ho mui jménem... Ramirez a pak se vra.}
-{441}{}{Dobøe. To bude snadné.}
-{442}{}{Hned se vydám na cestu, seòore Mordino.}
-{443}{}{Co je v tom balíku?}
-{444}{}{Eh, myslím, e ne. Myslím, e konèím.}
-{450}{}{Já tì... neplatím za to... abys mi kladl otázky.}
-{451}{}{No, chci vìdìt, co ponesu, pro pøípad, e to náhodou upustím... je to nebezpeèné?}
-{452}{}{Tak na to zapomeòte. Odcházím.}
-{460}{}{Jdi nahoru na sever po ulici Panen, kolem kasína... a pak jdi po cestì, která vede z mìsta. Ta tì zavede... a ke Stájím. Teï bì.}
-{461}{}{[Postupovat podle jeho instrukcí...]}
+{377}{}{SeÅˆore Mordino, prosÃ­m... snad mÄ› nechcete urazit? Tohle je prvotÅ™Ã­dnÃ­ zboÅ¾Ã­, urÄitÄ› mÃ¡ vÄ›tÅ¡Ã­ cenu.}
+{390}{}{(Mordino se projde kolem Mirie, poÅ™Ã¡dnÄ› si prohlÃ©dne jejÃ­ tvÃ¡Å™ a potÃ© ji plÃ¡cne po zadku.) Hmmmm. DÃ¡m ti za nÃ­ 500 babek.}
+{391}{}{(Mordino se projde kolem Davina, vyhrne chlapci rukÃ¡v a prohlÃ©dne si jeho svaly. PotÃ© se mu podÃ­vÃ¡ do oÄÃ­, aby zjistil, jestli nebere drogy.) Hmmmm. VypadÃ¡ dobÅ™e. DÃ¡m ti za nÄ›j 400 babek.}
+{392}{}{(Mordino se zamraÄenÄ› projde kolem Sulika.) Hmmmm. VypadÃ¡ silnÄ›... a kdyÅ¾ vidÃ­m tu jeho kost v nose, tak asi dobÅ™e snÃ¡Å¡Ã­ bolest. DÃ¡m ti za nÄ›j 200 babek.}
+{393}{}{(Mordino se zamraÄenÄ› projde kolem Vica.) Hmmmmm. DÃ¡m ti za nÄ›j 200 babek. VÃ­c ne.}
+{394}{}{(Mordino se zamraÄenÄ› projde kolem Cassidyho.) Hmmmmm. DÃ¡m ti za nÄ›j 200 babek. VÃ­c ne.}
+{395}{}{(Mordino si chvÃ­li prohlÃ­Å¾Ã­ Skyneta.) NabÃ­zÃ­m tisÃ­c babek.}
+{396}{}{(Mordino si chvÃ­li prohlÃ­Å¾Ã­ kyberpsa.) NabÃ­zÃ­m tisÃ­c babek.}
+{410}{}{(Mordino nechÃ¡ odvÃ©st Miriu pryÄ a mezitÃ­m ti pÅ™ipravÃ­ penÃ­ze.) Tady.}
+{411}{}{(Mordino nechÃ¡ odvÃ©st Davina pryÄ a mezitÃ­m ti pÅ™ipravÃ­ penÃ­ze.) Tady.}
+{412}{}{(Mordino nechÃ¡ odvÃ©st Sulika pryÄ a mezitÃ­m ti pÅ™ipravÃ­ penÃ­ze.) Tady.}
+{413}{}{(Mordino nechÃ¡ odvÃ©st Vica pryÄ a mezitÃ­m ti pÅ™ipravÃ­ penÃ­ze.) Tady.}
+{414}{}{(Mordino nechÃ¡ odvÃ©st Cassidyho pryÄ a mezitÃ­m ti pÅ™ipravÃ­ penÃ­ze.) Tady.}
+{415}{}{(Mordino nechÃ¡ odvÃ©st Skyneta pryÄ a mezitÃ­m ti pÅ™ipravÃ­ penÃ­ze.) Tady.}
+{416}{}{(Mordino nechÃ¡ odvÃ©st kyberpsa pryÄ a mezitÃ­m ti pÅ™ipravÃ­ penÃ­ze.) Tady.}
+{417}{}{Nechcete se podÃ­vat na moje dalÅ¡Ã­ zboÅ¾Ã­?}
+{418}{}{DÃ­ky, seÅˆore Mordino. Mimochodem, mÅ¯Å¾u se vÃ¡s na nÄ›co zeptat...}
+{419}{}{DÃ­ky, seÅˆore Mordino. DoufÃ¡m, Å¾e vÃ¡m budou otroci dobÅ™e slouÅ¾it. Sbohem.}
+{430}{}{(Kapka potu steÄe Mordinovi po tvÃ¡Å™i a potÃ© se zachmuÅ™Ã­.) Ty svinÄ›, ty jeden zkurvysynu. Od takovÃ½ch lidÃ­, jako jsi ty, si nic nekoupÃ­m. Odejdi... a uÅ¾ se NEVRACEJ.}
+{431}{}{SeÅˆore Mordino, prosÃ­m... zvaÅ¾te to jeÅ¡tÄ› jednou...}
+{432}{}{[Potichu odejÃ­t]}
+{440}{}{(Mordino si tÄ› prohlÃ­Å¾Ã­.) No dobÅ™e. MÃ¡m... pro tebe prÃ¡ci. Vezmi si... (Hluboce zasÃ­pÃ¡ a potÃ© si utÅ™e pot z Äela.) ...tenhle balÃ­k... a dones ho do *StÃ¡jÃ­* severnÄ› od Rena. PÅ™edej ho muÅ¾i jmÃ©nem... Ramirez a pak se vraÅ¥.}
+{441}{}{DobÅ™e. To bude snadnÃ©.}
+{442}{}{Hned se vydÃ¡m na cestu, seÅˆore Mordino.}
+{443}{}{Co je v tom balÃ­ku?}
+{444}{}{Eh, myslÃ­m, Å¾e ne. MyslÃ­m, Å¾e konÄÃ­m.}
+{450}{}{JÃ¡ tÄ›... neplatÃ­m za to... abys mi kladl otÃ¡zky.}
+{451}{}{No, chci vÄ›dÄ›t, co ponesu, pro pÅ™Ã­pad, Å¾e to nÃ¡hodou upustÃ­m... je to nebezpeÄnÃ©?}
+{452}{}{Tak na to zapomeÅˆte. OdchÃ¡zÃ­m.}
+{460}{}{Jdi nahoru na sever po ulici Panen, kolem kasÃ­na... a pak jdi po cestÄ›, kterÃ¡ vede z mÄ›sta. Ta tÄ› zavede... aÅ¾ ke StÃ¡jÃ­m. TeÄ bÄ›Å¾.}
+{461}{}{[Postupovat podle jeho instrukcÃ­...]}
 {470}{}{Have... you done as I asked?}
-{471}{}{Ne, ještì jsem ten balík nedoruèil.}
-{472}{}{Ano, doruèil jsem ho Ramirezovi, pøesnì jak jste chtìl.}
-{473}{}{Ano, byl jsem ve Stájích a odevzdal jsem ten balík... víte, co tam DÌLAJÍ? Oni tam pouívají otroky na testování drog.}
+{471}{}{Ne, jeÅ¡tÄ› jsem ten balÃ­k nedoruÄil.}
+{472}{}{Ano, doruÄil jsem ho Ramirezovi, pÅ™esnÄ› jak jste chtÄ›l.}
+{473}{}{Ano, byl jsem ve StÃ¡jÃ­ch a odevzdal jsem ten balÃ­k... vÃ­te, co tam DÄšLAJÃ? Oni tam pouÅ¾Ã­vajÃ­ otroky na testovÃ¡nÃ­ drog.}
 {474}{}{Yes, I gave your package to that guard, Ramirez... you know that guy's a jethead? He was REEKING of Jet fumes.}
-{480}{}{Tak... proè jsi ještì tady? (Velkej Jeíš si utøe èelo a zhluboka se sípavì nadechne.) PROÈ jsi ten balík ještì nedoruèil?}
-{481}{}{No, nejdøív se chci na nìco zeptat...}
-{482}{}{Jdu to hned vyøídit.}
-{483}{}{Eh, víte co? Myslím, e se na to hned vrhnu...}
-{490}{}{(Pøikıvne.) Dobrá práce. Tady je... tvoje vıplata. Sto... babek. Za... pouhé doruèení... je to a moc.}
-{491}{}{Je to lepší ne nic.}
-{492}{}{Díky, seòore Mordino.}
-{500}{}{(Rozzlobenì pøimhouøí oèi. Krùpìj potu mu steèe dolù po tváøi.) Oni jsou... jen dobytek. Nic víc.}
-{501}{}{Ty zrùdo... právì sis podepsal rozsudek smrti.}
-{502}{}{Eh... jen se ptám. Co se tıèe mé vıplaty...}
-{510}{}{Nemám pro tebe další... práci. (Kıvne na dveøe.) Teï chci bıt sám. Odejdi... a u se NEVRACEJ.}
-{511}{}{Ale no ták, urèitì by se pro mì našla ještì NÌJAKÁ práce...}
-{512}{}{Dobøe.}
-{520}{}{Mám... pro tebe další práci. Potøebuju nìkoho... (Zhluboka se sípavì nadechne a kapka potu mu steèe z èela.) ...aby vybral mùj podíl od... Korsickıch bratrù. Trochu se OPOZDILI s platbou.}
-{523}{}{Myslím, e konèím. Ale stejnì díky.}
-{530}{}{Jdi na sever po ulici Panen. Jsou naproti ringu... pokud budou dìlat problémy... nebo pokud budou mít vımluvy... tak jim uka, co je to BOLEST.}
-{531}{}{Dobøe, jdu na to.}
-{532}{}{Jistì, seòore Mordino.}
-{540}{}{Øekl jsem, e... mùeš Korsickım bratrùm ukázat, co je to BOLEST, ale nedal jsem ti povolení k tomu... abys je ZABIL.}
-{541}{}{Hele, podívejte... oni si zaèali a já jsem se jenom bránil...}
-{542}{}{Øíkali o vaší matce ošklivé vìci, Velkej Jeíši. MUSEL jsem je zabít.}
-{543}{}{Aha, to jsem asi pøeslechl.}
-{551}{}{Eh... ano, ale nemám ty peníze u sebe. Poèkejte chvíli a donesu vám je.}
-{552}{}{Ano, tady jsou ty peníze.}
-{553}{}{Ne, ještì ne.}
-{554}{}{Ne, eh, ale jdu to hned teï vyøídit.}
-{560}{}{Tak... proè jsi ještì tady? (Utøe si èelo a poté se zhluboka sípavì nadechne.) PROÈ nemáš ty peníze?}
-{561}{}{No, víte, nejdøív se chci ještì na nìco zeptat...}
-{562}{}{Dobrá otázka. Hned to jdu vyøídit.}
-{570}{}{(Kdy mu dáváš peníze, pøikıvne hlavou.) Tady. Polovina... je tvoje. Hehe. Oni u mi tenhle mìsíc zaplatili, ale chci, aby vìdìli... kdo je tady šéf.}
-{571}{}{Díky moc, Velkej Jeíši.}
-{580}{}{(Seòor Mordino se na tebe dlouze podívá a poté lehce pøikıvne.) Mám pro tebe poslední práci. Je zde jeden... (Hluboce a sípavì se nadechne a poté si utøe pot z èela.) ...MU, kterı musí zemøít.}
-{581}{}{Ten mu je u teï mrtvı. Jak se ta mrtvola jmenuje?}
-{582}{}{Kdo je ten mu?}
-{583}{}{Kdo je ten mu, kterého mám zabít, seòore Mordino?}
-{584}{}{Hele, já neøíkal nic o vradìní. Zapomeòte na to.}
-{585}{}{Tu práci vzít nemùu, seòore Mordino, promiòte. Sbohem.}
-{595}{}{Pøišel jsi za mnou pro práci, já ti dal... práci a ty zaèneš naøíkat jako malé DÌCKO. (Zhluboka a s obtíemi se nadechne a poté zaène hned kašlat.) Ty... u nejsi vítán... v mém kasínu. Odejdi.}
-{596}{}{Pøišel jsi za mnou pro práci a odmítneš mou... nabídku. (Zhluboka a s obtíemi se nadechne a poté hned zaène kašlat.) Ty... u nejsi vítán... v mém kasínu. Odejdi.}
-{597}{}{Ne odejdu, chci se vás ještì na nìco zeptat...}
-{598}{}{Ještì jsem s vámi NESKONÈIL, "Velkej Jeíši."}
-{599}{}{Omlouvám se, seòore Mordino. Hned odejdu.}
-{600}{}{Zkuste mì DONUTIT odejít.}
-{610}{}{Ten mu, Louis Salvatore... zabil mnoho mıch muù... mnoho HRDİCH muù rodiny Mordino. On... zmasakroval je na ulici jako... prašivé psy. (Ruku sevøe v pìst.) Pøeju si, aby ten mu zemøel.}
-{611}{}{Jestli dobøe zaplatíte, tak ten mu je u teï mrtvı.}
-{612}{}{Poèkejte chvíli. Louis Salvatore, ten, kterı ovládá rodinu Salvatorù? Ten, kterı má ty svìtelné zbranì, které umí èlovìka rozpùlit vejpùl?}
-{613}{}{Pomstím se za rodinu Mordinù, seòore Mordino. Vrátím se hned, jak ten úkol splním.}
-{614}{}{Ten úkol nemùu pøijmout. Odcházím.}
-{615}{}{Tak dobøe. Udìlám to.}
-{620}{}{Zaplatím ti, ale a... Salvatore nebude dıchat.}
-{621}{}{Poèkejte chvíli. Louis Salvatore, ten, kterı ovládá rodinu Salvatorù? Ten, kterı má ty svìtelné zbranì, které umí èlovìka rozpùlit vejpùl?}
-{623}{}{Nebudu riskovat svùj krk jen tak pro nic. Odcházím.}
-{630}{}{(Mordino pøikıvne a pozoruje tvùj vıraz.) Máš snad... strach? Pokud ano, tak odejdi. (Ukáe na dveøe.) V rodinì Mordinù není místo pro... zbabìlce.}
-{631}{}{Ne, udìlám to.}
-{633}{}{Moná, e jsem zbabìlec, ale taky mám rád svùj ivot. O tuhle práci nemám zájem.}
-{640}{}{(Pøikıvne.) To je dobøe. Ten mu je starı... mrzák... schovává se v "Baru Salvatore" vedle Bishopova kasína. Je to... zbabìlec a nikdy nevychází ze svého pokoje v patøe. A bude... mrtvı, tak se vra.}
-{641}{}{Mrzák?}
-{642}{}{Tak dobøe.}
-{650}{}{(Pøikıvne.) Nohy toho øezníka... jsou slabé. (Jeíš si utøe èelo a poté se opìt zhluboka nadechne.) Také má... potíe s... dıcháním. Dıchá jenom pomocí... kyslíkové bomby.}
-{651}{}{Kyslíkové bomby, jo? Hmmmm. Tak dobøe.}
-{652}{}{A ho zabiju, tak se vrátím, seòore Mordino.}
-{660}{}{Louis Salvatore je stále naivu, tak proè jsi tady?}
-{661}{}{(Kapka potu steèe Mordinovi dolù po tváøi.) Splnil jsi ten úkol, kterı jsem ti zadal? Je Louis Salvatore mrtvı?}
-{662}{}{Je mrtvı. Tvá rodina byla pomstìna, seòore Mordino.}
+{480}{}{Tak... proÄ jsi jeÅ¡tÄ› tady? (Velkej JeÅ¾Ã­Å¡ si utÅ™e Äelo a zhluboka se sÃ­pavÄ› nadechne.) PROÄŒ jsi ten balÃ­k jeÅ¡tÄ› nedoruÄil?}
+{481}{}{No, nejdÅ™Ã­v se chci na nÄ›co zeptat...}
+{482}{}{Jdu to hned vyÅ™Ã­dit.}
+{483}{}{Eh, vÃ­te co? MyslÃ­m, Å¾e se na to hned vrhnu...}
+{490}{}{(PÅ™ikÃ½vne.) DobrÃ¡ prÃ¡ce. Tady je... tvoje vÃ½plata. Sto... babek. Za... pouhÃ© doruÄenÃ­... je to aÅ¾ moc.}
+{491}{}{Je to lepÅ¡Ã­ neÅ¾ nic.}
+{492}{}{DÃ­ky, seÅˆore Mordino.}
+{500}{}{(RozzlobenÄ› pÅ™imhouÅ™Ã­ oÄi. KrÅ¯pÄ›j potu mu steÄe dolÅ¯ po tvÃ¡Å™i.) Oni jsou... jen dobytek. Nic vÃ­c.}
+{501}{}{Ty zrÅ¯do... prÃ¡vÄ› sis podepsal rozsudek smrti.}
+{502}{}{Eh... jen se ptÃ¡m. Co se tÃ½Äe mÃ© vÃ½platy...}
+{510}{}{NemÃ¡m pro tebe dalÅ¡Ã­... prÃ¡ci. (KÃ½vne na dveÅ™e.) TeÄ chci bÃ½t sÃ¡m. Odejdi... a uÅ¾ se NEVRACEJ.}
+{511}{}{Ale no tÃ¡k, urÄitÄ› by se pro mÄ› naÅ¡la jeÅ¡tÄ› NÄšJAKÃ prÃ¡ce...}
+{512}{}{DobÅ™e.}
+{520}{}{MÃ¡m... pro tebe dalÅ¡Ã­ prÃ¡ci. PotÅ™ebuju nÄ›koho... (Zhluboka se sÃ­pavÄ› nadechne a kapka potu mu steÄe z Äela.) ...aby vybral mÅ¯j podÃ­l od... KorsickÃ½ch bratrÅ¯. Trochu se OPOZDILI s platbou.}
+{523}{}{MyslÃ­m, Å¾e konÄÃ­m. Ale stejnÄ› dÃ­ky.}
+{530}{}{Jdi na sever po ulici Panen. Jsou naproti ringu... pokud budou dÄ›lat problÃ©my... nebo pokud budou mÃ­t vÃ½mluvy... tak jim ukaÅ¾, co je to BOLEST.}
+{531}{}{DobÅ™e, jdu na to.}
+{532}{}{JistÄ›, seÅˆore Mordino.}
+{540}{}{Å˜ekl jsem, Å¾e... mÅ¯Å¾eÅ¡ KorsickÃ½m bratrÅ¯m ukÃ¡zat, co je to BOLEST, ale nedal jsem ti povolenÃ­ k tomu... abys je ZABIL.}
+{541}{}{Hele, podÃ­vejte... oni si zaÄali a jÃ¡ jsem se jenom brÃ¡nil...}
+{542}{}{Å˜Ã­kali o vaÅ¡Ã­ matce oÅ¡klivÃ© vÄ›ci, Velkej JeÅ¾Ã­Å¡i. MUSEL jsem je zabÃ­t.}
+{543}{}{Aha, to jsem asi pÅ™eslechl.}
+{551}{}{Eh... ano, ale nemÃ¡m ty penÃ­ze u sebe. PoÄkejte chvÃ­li a donesu vÃ¡m je.}
+{552}{}{Ano, tady jsou ty penÃ­ze.}
+{553}{}{Ne, jeÅ¡tÄ› ne.}
+{554}{}{Ne, eh, ale jdu to hned teÄ vyÅ™Ã­dit.}
+{560}{}{Tak... proÄ jsi jeÅ¡tÄ› tady? (UtÅ™e si Äelo a potÃ© se zhluboka sÃ­pavÄ› nadechne.) PROÄŒ nemÃ¡Å¡ ty penÃ­ze?}
+{561}{}{No, vÃ­te, nejdÅ™Ã­v se chci jeÅ¡tÄ› na nÄ›co zeptat...}
+{562}{}{DobrÃ¡ otÃ¡zka. Hned to jdu vyÅ™Ã­dit.}
+{570}{}{(KdyÅ¾ mu dÃ¡vÃ¡Å¡ penÃ­ze, pÅ™ikÃ½vne hlavou.) Tady. Polovina... je tvoje. Hehe. Oni uÅ¾ mi tenhle mÄ›sÃ­c zaplatili, ale chci, aby vÄ›dÄ›li... kdo je tady Å¡Ã©f.}
+{571}{}{DÃ­ky moc, Velkej JeÅ¾Ã­Å¡i.}
+{580}{}{(SeÅˆor Mordino se na tebe dlouze podÃ­vÃ¡ a potÃ© lehce pÅ™ikÃ½vne.) MÃ¡m pro tebe poslednÃ­ prÃ¡ci. Je zde jeden... (Hluboce a sÃ­pavÄ› se nadechne a potÃ© si utÅ™e pot z Äela.) ...MUÅ½, kterÃ½ musÃ­ zemÅ™Ã­t.}
+{581}{}{Ten muÅ¾ je uÅ¾ teÄ mrtvÃ½. Jak se ta mrtvola jmenuje?}
+{582}{}{Kdo je ten muÅ¾?}
+{583}{}{Kdo je ten muÅ¾, kterÃ©ho mÃ¡m zabÃ­t, seÅˆore Mordino?}
+{584}{}{Hele, jÃ¡ neÅ™Ã­kal nic o vraÅ¾dÄ›nÃ­. ZapomeÅˆte na to.}
+{585}{}{Tu prÃ¡ci vzÃ­t nemÅ¯Å¾u, seÅˆore Mordino, promiÅˆte. Sbohem.}
+{595}{}{PÅ™iÅ¡el jsi za mnou pro prÃ¡ci, jÃ¡ ti dal... prÃ¡ci a ty zaÄneÅ¡ naÅ™Ã­kat jako malÃ© DÄšCKO. (Zhluboka a s obtÃ­Å¾emi se nadechne a potÃ© zaÄne hned kaÅ¡lat.) Ty... uÅ¾ nejsi vÃ­tÃ¡n... v mÃ©m kasÃ­nu. Odejdi.}
+{596}{}{PÅ™iÅ¡el jsi za mnou pro prÃ¡ci a odmÃ­tneÅ¡ mou... nabÃ­dku. (Zhluboka a s obtÃ­Å¾emi se nadechne a potÃ© hned zaÄne kaÅ¡lat.) Ty... uÅ¾ nejsi vÃ­tÃ¡n... v mÃ©m kasÃ­nu. Odejdi.}
+{597}{}{NeÅ¾ odejdu, chci se vÃ¡s jeÅ¡tÄ› na nÄ›co zeptat...}
+{598}{}{JeÅ¡tÄ› jsem s vÃ¡mi NESKONÄŒIL, "Velkej JeÅ¾Ã­Å¡i."}
+{599}{}{OmlouvÃ¡m se, seÅˆore Mordino. Hned odejdu.}
+{600}{}{Zkuste mÄ› DONUTIT odejÃ­t.}
+{610}{}{Ten muÅ¾, Louis Salvatore... zabil mnoho mÃ½ch muÅ¾Å¯... mnoho HRDÃCH muÅ¾Å¯ rodiny Mordino. On... zmasakroval je na ulici jako... praÅ¡ivÃ© psy. (Ruku sevÅ™e v pÄ›st.) PÅ™eju si, aby ten muÅ¾ zemÅ™el.}
+{611}{}{Jestli dobÅ™e zaplatÃ­te, tak ten muÅ¾ je uÅ¾ teÄ mrtvÃ½.}
+{612}{}{PoÄkejte chvÃ­li. Louis Salvatore, ten, kterÃ½ ovlÃ¡dÃ¡ rodinu SalvatorÅ¯? Ten, kterÃ½ mÃ¡ ty svÄ›telnÃ© zbranÄ›, kterÃ© umÃ­ ÄlovÄ›ka rozpÅ¯lit vejpÅ¯l?}
+{613}{}{PomstÃ­m se za rodinu MordinÅ¯, seÅˆore Mordino. VrÃ¡tÃ­m se hned, jak ten Ãºkol splnÃ­m.}
+{614}{}{Ten Ãºkol nemÅ¯Å¾u pÅ™ijmout. OdchÃ¡zÃ­m.}
+{615}{}{Tak dobÅ™e. UdÄ›lÃ¡m to.}
+{620}{}{ZaplatÃ­m ti, ale aÅ¾... Salvatore nebude dÃ½chat.}
+{621}{}{PoÄkejte chvÃ­li. Louis Salvatore, ten, kterÃ½ ovlÃ¡dÃ¡ rodinu SalvatorÅ¯? Ten, kterÃ½ mÃ¡ ty svÄ›telnÃ© zbranÄ›, kterÃ© umÃ­ ÄlovÄ›ka rozpÅ¯lit vejpÅ¯l?}
+{623}{}{Nebudu riskovat svÅ¯j krk jen tak pro nic. OdchÃ¡zÃ­m.}
+{630}{}{(Mordino pÅ™ikÃ½vne a pozoruje tvÅ¯j vÃ½raz.) MÃ¡Å¡ snad... strach? Pokud ano, tak odejdi. (UkÃ¡Å¾e na dveÅ™e.) V rodinÄ› MordinÅ¯ nenÃ­ mÃ­sto pro... zbabÄ›lce.}
+{631}{}{Ne, udÄ›lÃ¡m to.}
+{633}{}{MoÅ¾nÃ¡, Å¾e jsem zbabÄ›lec, ale taky mÃ¡m rÃ¡d svÅ¯j Å¾ivot. O tuhle prÃ¡ci nemÃ¡m zÃ¡jem.}
+{640}{}{(PÅ™ikÃ½vne.) To je dobÅ™e. Ten muÅ¾ je starÃ½... mrzÃ¡k... schovÃ¡vÃ¡ se v "Baru Salvatore" vedle Bishopova kasÃ­na. Je to... zbabÄ›lec a nikdy nevychÃ¡zÃ­ ze svÃ©ho pokoje v patÅ™e. AÅ¾ bude... mrtvÃ½, tak se vraÅ¥.}
+{641}{}{MrzÃ¡k?}
+{642}{}{Tak dobÅ™e.}
+{650}{}{(PÅ™ikÃ½vne.) Nohy toho Å™eznÃ­ka... jsou slabÃ©. (JeÅ¾Ã­Å¡ si utÅ™e Äelo a potÃ© se opÄ›t zhluboka nadechne.) TakÃ© mÃ¡... potÃ­Å¾e s... dÃ½chÃ¡nÃ­m. DÃ½chÃ¡ jenom pomocÃ­... kyslÃ­kovÃ© bomby.}
+{651}{}{KyslÃ­kovÃ© bomby, jo? Hmmmm. Tak dobÅ™e.}
+{652}{}{AÅ¾ ho zabiju, tak se vrÃ¡tÃ­m, seÅˆore Mordino.}
+{660}{}{Louis Salvatore je stÃ¡le naÅ¾ivu, tak proÄ jsi tady?}
+{661}{}{(Kapka potu steÄe Mordinovi dolÅ¯ po tvÃ¡Å™i.) Splnil jsi ten Ãºkol, kterÃ½ jsem ti zadal? Je Louis Salvatore mrtvÃ½?}
+{662}{}{Je mrtvÃ½. TvÃ¡ rodina byla pomstÄ›na, seÅˆore Mordino.}
 {663}{}{No, I shall return when I have killed him.}
-{664}{}{Salvatore je velmi dobøe hlídán. O tuhle práci u nemám zájem.}
-{670}{}{Jestli... uteèeš od tohohle úkolu, tak tì nechám... ZABÍT.}
-{671}{}{No, kdy to øeknete takhle, tak to se radìji vrátím, a bude mrtvı.}
-{672}{}{Jestli se o nìco pokusíte, budete si moct promluvit se svımi mui, které Salvatore zmasakroval.}
-{680}{}{Slyšel jsem. (Uctivì pøikıvne.) Odvedl jsi dobrou... práci. Moje dùvìra v tebe nebyla pošetilá. Tady je... tvoje vıplata. Pìt set... babek. }
-{681}{}{Díky.}
-{682}{}{To bude staèit... prozatím.}
-{683}{}{A... zbroj a zbraò, která by se ti mohla... hodit.}
-{690}{}{(Pøikıvne.) Tvùj úspìch... mì potìšil. Rád bych tì pøivítal do rodiny Mordinù. (Obejme tì.) Chceš se stát èlenem naší rodiny? Tvoje síla bude... i naší silou.}
-{691}{}{Bude mi potìšením stát se èlenem rodiny Mordinù.}
-{692}{}{Nemùu se stát èlenem rodiny Mordino. Ale nevykládejte si to špatnì, seòore Mordino, bylo mi opravdu potìšením pro vás pracovat.}
-{693}{}{Nechci se stát èlenem rodiny, díky. Musím nejdøív zachránit svoji vesnici.}
-{700}{}{(Pøikıvne.) To je mi líto, ale je to tvoje volba. Jak jsem øekl, tvùj úspìch mì potìšil... a nechci, aby tvoje schopnosti vyuíval i nìkdo jinı, jako tøeba... mí nepøátelé. (Dá pokyn svım stráím, aby vytasily zbranì.)}
-{710}{}{To je dobøe. Máš nìjakı... nápad, jak bychom ti mohli øíkat? Všichni Mordinové... celé Reno... bude tohle jméno znát.}
-{711}{}{Jasnì, co takhle...}
-{720}{}{...to je dobré jméno. (Pøikıvne.) Jméno Mordino má... svou váhu v New Renu. Navštiv... Koèièí Packu... nebo Lovecké potøeby... a øekni jim, e jsi èlenem mojí rodiny... budou s tebou dobøe zacházet.}
-{730}{}{(Dlouho se na tebe upøenì dívá a poté zmatenì pøimhouøí oèi.) Proè... se mì na to ptáš? SLYŠEL jsem... co se stalo. (Otøe si èelo.) Ten chlapec si vzal moc Jetu a zemøel.}
-{731}{}{A to je ten problém. Mordinové jsou nejvìtším dodavatelem Jetu v New Renu. Tím pádem jste jedni z podezøelıch.}
-{732}{}{Nevíte náhodou, kde ten Jet získal?}
-{733}{}{No dobøe, jenom se ptám. Chci se ještì zeptat...}
-{734}{}{Aha. Myslím, e u radìji pùjdu.}
-{740}{}{(Zasípá a poté si utøe další pot z èela.) Kdyby mìli Wrightové... alespoò TROCHU zdravého rozumu, vìdìli by... e my nejsme jediná rodina, která vlastní Jet v New Renu. My... NEZABÍJÍME dìti.}
-{741}{}{Jenom dospìlé, co? Chci øíct, Jet nezabije èlovìka hned, potøebuje trochu èasu, ale funguje, nemám pravdu?}
-{742}{}{Ale nìkdo jinı moná ano a moná chtìl pošpinit jméno Mordino. Nevíte, kdo mohl Richardovi prodat ten Jet, kterı ho zabil?}
-{743}{}{Aha. Mám ještì nìjaké otázky...}
-{744}{}{Díky za informace, seòore Mordino. U musím jít.}
-{750}{}{(Zatøese hlavou.) Já... toho vím málo o dealerech v Renu. (Zhluboka a sípavì se nadechne a poté lehce zakašle.) Ty... mùeš se zeptat mého syna... najdeš ho dole v kasínu.}
-{751}{}{Zeptám se ho. Chci se ještì zeptat...}
-{752}{}{Zeptám se ho. Díky, seòore Mordino.}
-{760}{}{Teplo... není mùj pøítel. Moje dıchání je... nìkdy obtíné. Rychle se unavím pøi fyzické námaze nebo kdy jsem ve stresu. A nìkdy mám strašné bolesti na prsou.}
+{664}{}{Salvatore je velmi dobÅ™e hlÃ­dÃ¡n. O tuhle prÃ¡ci uÅ¾ nemÃ¡m zÃ¡jem.}
+{670}{}{Jestli... uteÄeÅ¡ od tohohle Ãºkolu, tak tÄ› nechÃ¡m... ZABÃT.}
+{671}{}{No, kdyÅ¾ to Å™eknete takhle, tak to se radÄ›ji vrÃ¡tÃ­m, aÅ¾ bude mrtvÃ½.}
+{672}{}{Jestli se o nÄ›co pokusÃ­te, budete si moct promluvit se svÃ½mi muÅ¾i, kterÃ© Salvatore zmasakroval.}
+{680}{}{SlyÅ¡el jsem. (UctivÄ› pÅ™ikÃ½vne.) Odvedl jsi dobrou... prÃ¡ci. Moje dÅ¯vÄ›ra v tebe nebyla poÅ¡etilÃ¡. Tady je... tvoje vÃ½plata. PÄ›t set... babek. }
+{681}{}{DÃ­ky.}
+{682}{}{To bude staÄit... prozatÃ­m.}
+{683}{}{A... zbroj a zbraÅˆ, kterÃ¡ by se ti mohla... hodit.}
+{690}{}{(PÅ™ikÃ½vne.) TvÅ¯j ÃºspÄ›ch... mÄ› potÄ›Å¡il. RÃ¡d bych tÄ› pÅ™ivÃ­tal do rodiny MordinÅ¯. (Obejme tÄ›.) ChceÅ¡ se stÃ¡t Älenem naÅ¡Ã­ rodiny? Tvoje sÃ­la bude... i naÅ¡Ã­ silou.}
+{691}{}{Bude mi potÄ›Å¡enÃ­m stÃ¡t se Älenem rodiny MordinÅ¯.}
+{692}{}{NemÅ¯Å¾u se stÃ¡t Älenem rodiny Mordino. Ale nevyklÃ¡dejte si to Å¡patnÄ›, seÅˆore Mordino, bylo mi opravdu potÄ›Å¡enÃ­m pro vÃ¡s pracovat.}
+{693}{}{Nechci se stÃ¡t Älenem rodiny, dÃ­ky. MusÃ­m nejdÅ™Ã­v zachrÃ¡nit svoji vesnici.}
+{700}{}{(PÅ™ikÃ½vne.) To je mi lÃ­to, ale je to tvoje volba. Jak jsem Å™ekl, tvÅ¯j ÃºspÄ›ch mÄ› potÄ›Å¡il... a nechci, aby tvoje schopnosti vyuÅ¾Ã­val i nÄ›kdo jinÃ½, jako tÅ™eba... mÃ­ nepÅ™Ã¡telÃ©. (DÃ¡ pokyn svÃ½m strÃ¡Å¾Ã­m, aby vytasily zbranÄ›.)}
+{710}{}{To je dobÅ™e. MÃ¡Å¡ nÄ›jakÃ½... nÃ¡pad, jak bychom ti mohli Å™Ã­kat? VÅ¡ichni MordinovÃ©... celÃ© Reno... bude tohle jmÃ©no znÃ¡t.}
+{711}{}{JasnÄ›, co takhle...}
+{720}{}{...to je dobrÃ© jmÃ©no. (PÅ™ikÃ½vne.) JmÃ©no Mordino mÃ¡... svou vÃ¡hu v New Renu. NavÅ¡tiv... KoÄiÄÃ­ Packu... nebo LoveckÃ© potÅ™eby... a Å™ekni jim, Å¾e jsi Älenem mojÃ­ rodiny... budou s tebou dobÅ™e zachÃ¡zet.}
+{730}{}{(Dlouho se na tebe upÅ™enÄ› dÃ­vÃ¡ a potÃ© zmatenÄ› pÅ™imhouÅ™Ã­ oÄi.) ProÄ... se mÄ› na to ptÃ¡Å¡? SLYÅ EL jsem... co se stalo. (OtÅ™e si Äelo.) Ten chlapec si vzal moc Jetu a zemÅ™el.}
+{731}{}{A to je ten problÃ©m. MordinovÃ© jsou nejvÄ›tÅ¡Ã­m dodavatelem Jetu v New Renu. TÃ­m pÃ¡dem jste jedni z podezÅ™elÃ½ch.}
+{732}{}{NevÃ­te nÃ¡hodou, kde ten Jet zÃ­skal?}
+{733}{}{No dobÅ™e, jenom se ptÃ¡m. Chci se jeÅ¡tÄ› zeptat...}
+{734}{}{Aha. MyslÃ­m, Å¾e uÅ¾ radÄ›ji pÅ¯jdu.}
+{740}{}{(ZasÃ­pÃ¡ a potÃ© si utÅ™e dalÅ¡Ã­ pot z Äela.) Kdyby mÄ›li WrightovÃ©... alespoÅˆ TROCHU zdravÃ©ho rozumu, vÄ›dÄ›li by... Å¾e my nejsme jedinÃ¡ rodina, kterÃ¡ vlastnÃ­ Jet v New Renu. My... NEZABÃJÃME dÄ›ti.}
+{741}{}{Jenom dospÄ›lÃ©, co? Chci Å™Ã­ct, Jet nezabije ÄlovÄ›ka hned, potÅ™ebuje trochu Äasu, ale funguje, nemÃ¡m pravdu?}
+{742}{}{Ale nÄ›kdo jinÃ½ moÅ¾nÃ¡ ano a moÅ¾nÃ¡ chtÄ›l poÅ¡pinit jmÃ©no Mordino. NevÃ­te, kdo mohl Richardovi prodat ten Jet, kterÃ½ ho zabil?}
+{743}{}{Aha. MÃ¡m jeÅ¡tÄ› nÄ›jakÃ© otÃ¡zky...}
+{744}{}{DÃ­ky za informace, seÅˆore Mordino. UÅ¾ musÃ­m jÃ­t.}
+{750}{}{(ZatÅ™ese hlavou.) JÃ¡... toho vÃ­m mÃ¡lo o dealerech v Renu. (Zhluboka a sÃ­pavÄ› se nadechne a potÃ© lehce zakaÅ¡le.) Ty... mÅ¯Å¾eÅ¡ se zeptat mÃ©ho syna... najdeÅ¡ ho dole v kasÃ­nu.}
+{751}{}{ZeptÃ¡m se ho. Chci se jeÅ¡tÄ› zeptat...}
+{752}{}{ZeptÃ¡m se ho. DÃ­ky, seÅˆore Mordino.}
+{760}{}{Teplo... nenÃ­ mÅ¯j pÅ™Ã­tel. Moje dÃ½chÃ¡nÃ­ je... nÄ›kdy obtÃ­Å¾nÃ©. Rychle se unavÃ­m pÅ™i fyzickÃ© nÃ¡maze nebo kdyÅ¾ jsem ve stresu. A nÄ›kdy mÃ¡m straÅ¡nÃ© bolesti na prsou.}
 {761}{}{Really? Well, it's good you don't take any methamphetamines or stimulants, then. I had some other questions...}
-{762}{}{Aha. No, radìji u pùjdu.}
-{770}{}{Neznám tì... pøijdeš si za mnou... bez jakékoliv doporuèení, které by mìlo nìjakou... váhu. (Utøe si èelo a poté se zhluboka a sípavì nadechne.) NEMÁM PRO TEBE PRÁCI.}
-{771}{}{No tak, dejte mi šanci. Dejte mi jakoukoliv práci... nebudete toho litovat.}
-{780}{}{Ne všichni ve Stájích... VÌDÍ, e jsou testovací objekty.}
-{781}{}{Eh... co prosím?}
-{782}{}{Aha. Eh, co se tıèe mé vıplaty...}
-{790}{}{Ramirez nechal... minulı mìsíc utéct ètyøi otroky. (Zaène lehce tøást hlavou.) To je zlé. Bìhem hodiny zaène pùsobit ten Jet, co jsi dal Ramirezovi, a jeho srdce... pøestane bít. To je jeho TREST.}
-{792}{}{Vy jste mì vyuil k tomu, abych toho chlapa ZABIL? Tak a dost, Jeíši, padám odsud.}
-{850}{}{Podaøilo se ti vybrat poplatek pro Velkého Jeíše.}
-{875}{}{Velkı Jeíš byl zavradìn.}
-{900}{}{Nyní jsi èlenem rodiny Mordinù.}
-{925}{}{Nájemná vrada pro Velkého Jeíše byla dokonèena.}
-{1278}{}{Mluvil jsem s vaším synem, seòore Mordino. Jsem otrokáø a hledám práci.}
-{1291}{}{No dobøe. Nechcete aspoò koupit nìjaké otroky?}
-{1621}{}{No... tak dobøe. Udìlám to.}
-{5268}{}{?!! Tak POJÏ, TY JEDEN TLUSTEJ ZKURVYSY...}
+{762}{}{Aha. No, radÄ›ji uÅ¾ pÅ¯jdu.}
+{770}{}{NeznÃ¡m tÄ›... pÅ™ijdeÅ¡ si za mnou... bez jakÃ©koliv doporuÄenÃ­, kterÃ© by mÄ›lo nÄ›jakou... vÃ¡hu. (UtÅ™e si Äelo a potÃ© se zhluboka a sÃ­pavÄ› nadechne.) NEMÃM PRO TEBE PRÃCI.}
+{771}{}{No tak, dejte mi Å¡anci. Dejte mi jakoukoliv prÃ¡ci... nebudete toho litovat.}
+{780}{}{Ne vÅ¡ichni ve StÃ¡jÃ­ch... VÄšDÃ, Å¾e jsou testovacÃ­ objekty.}
+{781}{}{Eh... co prosÃ­m?}
+{782}{}{Aha. Eh, co se tÃ½Äe mÃ© vÃ½platy...}
+{790}{}{Ramirez nechal... minulÃ½ mÄ›sÃ­c utÃ©ct ÄtyÅ™i otroky. (ZaÄne lehce tÅ™Ã¡st hlavou.) To je zlÃ©. BÄ›hem hodiny zaÄne pÅ¯sobit ten Jet, co jsi dal Ramirezovi, a jeho srdce... pÅ™estane bÃ­t. To je jeho TREST.}
+{792}{}{Vy jste mÄ› vyuÅ¾il k tomu, abych toho chlapa ZABIL? Tak a dost, JeÅ¾Ã­Å¡i, padÃ¡m odsud.}
+{850}{}{PodaÅ™ilo se ti vybrat poplatek pro VelkÃ©ho JeÅ¾Ã­Å¡e.}
+{875}{}{VelkÃ½ JeÅ¾Ã­Å¡ byl zavraÅ¾dÄ›n.}
+{900}{}{NynÃ­ jsi Älenem rodiny MordinÅ¯.}
+{925}{}{NÃ¡jemnÃ¡ vraÅ¾da pro VelkÃ©ho JeÅ¾Ã­Å¡e byla dokonÄena.}
+{1278}{}{Mluvil jsem s vaÅ¡Ã­m synem, seÅˆore Mordino. Jsem otrokÃ¡Å™ a hledÃ¡m prÃ¡ci.}
+{1291}{}{No dobÅ™e. Nechcete aspoÅˆ koupit nÄ›jakÃ© otroky?}
+{1621}{}{No... tak dobÅ™e. UdÄ›lÃ¡m to.}
+{5268}{}{?!! Tak POJÄ, TY JEDEN TLUSTEJ ZKURVYSY...}

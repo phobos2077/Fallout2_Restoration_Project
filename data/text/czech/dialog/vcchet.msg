@@ -1,27 +1,27 @@
-{100}{}{Vidíš Cheta, šéfa nedovolenıch akcí.}
-{101}{}{Vidíš mazanì vypadajícího mue obleèeného v kombinéze Vaultu 13.}
-{102}{}{Vidíš Cheta, šéfa nedovolenıch akcí.}
-{103}{}{Vidíš mazanì vypadajícího mue obleèeného v kombinéze Vaultu 13.}
-{104}{}{Vítám tì. Jsem šéf nedovolenıch akcí... ale mùeš mi øíkat Chet. Potøebuješ nìco?}
-{105}{}{Ještì nìco jiného?}
-{106}{}{Ukonèi hru, Chete. Se vším jsem ji hotov.}
-{107}{}{Udìlej ze mì Kapitána stráí. Hned.}
-{108}{}{Jestli tì mùu poprosit,  tak ze mì udìlej Obèana.}
-{109}{}{Udìlej ze mì falešného obèana a dej mi doklady.}
-{110}{}{Udìlej ze mì vyhostìného obèana.}
-{111}{}{Pozmìò mou reputaci.}
-{112}{}{(Nefunguje) Potøebuju postavu do party.}
+{100}{}{VidÃ­Å¡ Cheta, Å¡Ã©fa nedovolenÃ½ch akcÃ­.}
+{101}{}{VidÃ­Å¡ mazanÄ› vypadajÃ­cÃ­ho muÅ¾e obleÄenÃ©ho v kombinÃ©ze Vaultu 13.}
+{102}{}{VidÃ­Å¡ Cheta, Å¡Ã©fa nedovolenÃ½ch akcÃ­.}
+{103}{}{VidÃ­Å¡ mazanÄ› vypadajÃ­cÃ­ho muÅ¾e obleÄenÃ©ho v kombinÃ©ze Vaultu 13.}
+{104}{}{VÃ­tÃ¡m tÄ›. Jsem Å¡Ã©f nedovolenÃ½ch akcÃ­... ale mÅ¯Å¾eÅ¡ mi Å™Ã­kat Chet. PotÅ™ebujeÅ¡ nÄ›co?}
+{105}{}{JeÅ¡tÄ› nÄ›co jinÃ©ho?}
+{106}{}{UkonÄi hru, Chete. Se vÅ¡Ã­m jsem jiÅ¾ hotov.}
+{107}{}{UdÄ›lej ze mÄ› KapitÃ¡na strÃ¡Å¾Ã­. Hned.}
+{108}{}{Jestli tÄ› mÅ¯Å¾u poprosit,  tak ze mÄ› udÄ›lej ObÄana.}
+{109}{}{UdÄ›lej ze mÄ› faleÅ¡nÃ©ho obÄana a dej mi doklady.}
+{110}{}{UdÄ›lej ze mÄ› vyhostÄ›nÃ©ho obÄana.}
+{111}{}{PozmÄ›Åˆ mou reputaci.}
+{112}{}{(Nefunguje) PotÅ™ebuju postavu do party.}
 {113}{}{Ne, nic.}
 {114}{}{Heee?}
-{115}{}{Udìlej ze mì otrokáøe.}
-{116}{}{Udìlej ze mì vraha dìtí.}
-{117}{}{Nic... jenom mi sni karmu o 100.}
-{118}{}{Nevadí. Chci se na nìco zeptat...}
+{115}{}{UdÄ›lej ze mÄ› otrokÃ¡Å™e.}
+{116}{}{UdÄ›lej ze mÄ› vraha dÄ›tÃ­.}
+{117}{}{Nic... jenom mi sniÅ¾ karmu o 100.}
+{118}{}{NevadÃ­. Chci se na nÄ›co zeptat...}
 {119}{}{Ne, nic.}
 {120}{}{Kdo?}
 {121}{}{Marcus.}
 {122}{}{Lenny.}
 {123}{}{Vic.}
 {124}{}{Myron.}
-{125}{}{Nikoho. Potøebuju nìco jiného.}
+{125}{}{Nikoho. PotÅ™ebuju nÄ›co jinÃ©ho.}
 {126}{}{Ale nic. Nashle.}

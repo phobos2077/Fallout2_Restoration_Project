@@ -1,4 +1,4 @@
-{100}{}{Cítíš odpornı zápach. Máš dojem, e ti hoøí plíce.}
-{101}{}{Bude lepší najít plynovou masku.}
-{102}{}{Zní to, jako by byly zablokované vìtráky na pravé stìnì.}
-{103}{}{Zní to, jako by byly zablokované vìtráky na vzdáleném konci místnosti.}
+{100}{}{CÃ­tÃ­Å¡ odpornÃ½ zÃ¡pach. MÃ¡Å¡ dojem, Å¾e ti hoÅ™Ã­ plÃ­ce.}
+{101}{}{Bude lepÅ¡Ã­ najÃ­t plynovou masku.}
+{102}{}{ZnÃ­ to, jako by byly zablokovanÃ© vÄ›trÃ¡ky na pravÃ© stÄ›nÄ›.}
+{103}{}{ZnÃ­ to, jako by byly zablokovanÃ© vÄ›trÃ¡ky na vzdÃ¡lenÃ©m konci mÃ­stnosti.}

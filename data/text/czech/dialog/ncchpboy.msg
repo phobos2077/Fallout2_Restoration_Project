@@ -1,75 +1,75 @@
-{150}{}{Vidíš špinavého mechanika.}
-{151}{}{Vidíš jednoho z mechanikù.}
-{152}{}{Vidíš odpudivého mechanika. Kvùli vrstvì oleje a špíny se jeho oblièej skoro nedá rozeznat.}
-{200}{}{A do prdele. *Polk* Podívejte se, kdo pøišel.}
-{201}{}{No jestlipak to není pan Zkurvená Plechovka.}
-{202}{}{Je tam nìkdo?}
-{203}{}{Mùem ti nìco donıst? Pivo? Vodu? Cukroví?}
-{204}{}{Doufám, e je všechno v poøádku, eh, pane... nebo madam. A u je uvnitø kdokoliv.}
-{205}{}{Jestli je nìco špatnì, mùe za to T-Ray. Promluv si s ním.}
-{206}{}{To je nìjakej novej druh auta?}
-{207}{}{Nechceme ádnı problémy.}
-{208}{}{Jestli hledáš T-Raye, tak je vzadu.}
-{220}{}{Nazdárek, krásná dámo. To byl ale zatracenì dobrej vıkon.}
-{221}{}{Páni. Nemíváme moc návštìvníkù. Co pro vás mùeme udìlat, sleèno }
-{222}{}{Jak to dìláš, e si dokáeš dát nohy za hlavu?}
-{223}{}{Jsou ty kozy pravı? Mùu se pøesvìdèit?}
-{224}{}{Nevadilo by ti, kdyby ses mi podívala na podvozek?}
-{225}{}{Zatracenì. Vypadám hroznì a pak se ukáeš zrovna ty. Tı špíny si nevšímej.}
-{226}{}{Nehledáš novej talent? T-Ray je vzadu, take tam ani nechoï.}
-{227}{}{Já vìdìl, e jsem se mìl osprchovat...}
-{228}{}{Mùu ti zkontrolovat mazání? Hehe.}
-{229}{}{Chceš vidìt mıho ochoèenıho ptáèka?}
-{230}{}{::Píská::}
-{231}{}{Zatracenì. To jsou moc pìknı køivky.}
-{232}{}{Nazdárek, krásná dámo.}
-{233}{}{Páni. Nemíváme moc návštìvníkù. Co pro vás mùeme udìlat, sleèno?}
-{234}{}{Hledáš nìjakı vášnivı milování? T-Ray je vzadu, take tam ani nechoï.}
-{245}{}{Vidìl jsem tì zápasit v ringu. Máš fakt skvìlej pravej hák.}
-{246}{}{Doufám, e další zápas vyhraješ. Vsadil jsem si na tebe $30.}
-{247}{}{Na šampióna moc drsnì nevypadáš.}
-{248}{}{Kolik dáš na benèi?}
-{249}{}{Kde posiluješ?}
-{250}{}{Bacha na dímaèku. Chutnají mu uši.}
-{251}{}{Nechceš pivo? Vìtšinou si je šetøíme na pracovní dobu, ale pro tebe...}
-{252}{}{T-Ray øíkal, e nejseš zas tak drsnej. Dám ti 5 babek, kdy mu jednu vrazíš.}
-{253}{}{T-Ray øíkal, e máš hubu ze skla. Jestli s ním chceš mluvit, je vzadu.}
-{254}{}{dímaèka je pìknej posera. Eh, neøíkej mu, e jsem to øíkal.}
-{265}{}{Doufám, e je všechno v poøádku, madam.}
-{266}{}{Nechtìli jsme se vás dotknout, madam.}
-{267}{}{A do prdele. *Polk* Podívejte se, kdo pøišel.}
-{268}{}{Co pro tebe mùeme udìlat, }
-{269}{}{Mùem ti nìco donıst? Pivo? Vodu? Cukroví?}
-{270}{}{Jestli je nìco špatnì, mùe za to T-Ray. Promluv si s ním.}
-{271}{}{Pozdravuj od nás svıho šéfa.}
-{272}{}{Jestli hledáš T-Raye, tak je vzadu.}
-{273}{}{Doufám, e je všechno v poøádku, pane.}
-{274}{}{Nechtìli jsme se vás dotknout, pane.}
-{300}{}{Omlouváme se za to nedorozumìní s Higwaymanem.}
-{301}{}{Nevìdìli jsme, e je ten Highwayman tvùj.}
-{302}{}{Jó, Highwayman není špatná kára, ale já bych radši Omni.}
-{303}{}{Nechceš toho Higwaymana prodat?}
-{304}{}{Jeï, namazanej blesku, jeï.}
-{305}{}{Namazanej je to slovo... tády dády dááá...}
-{306}{}{Highwayman je parádní kára. Chryslus moc dobøe vìdìl, jak je tenkrát vyrobit.}
-{307}{}{T-Ray u zase "pracuje" vzadu. Zatracenej parchant.}
-{308}{}{U je mi blbì z toho makání za T-Raye.}
-{309}{}{T-Ray zase oèumoval moji starou.}
-{310}{}{T-Ray chrápal s mojí sestrou. A matkou. A psem.}
-{311}{}{T-Ray je nadrenìjší ne bık na tvrdolínu.}
+{150}{}{VidÃ­Å¡ Å¡pinavÃ©ho mechanika.}
+{151}{}{VidÃ­Å¡ jednoho z mechanikÅ¯.}
+{152}{}{VidÃ­Å¡ odpudivÃ©ho mechanika. KvÅ¯li vrstvÄ› oleje a Å¡pÃ­ny se jeho obliÄej skoro nedÃ¡ rozeznat.}
+{200}{}{A do prdele. *Polk* PodÃ­vejte se, kdo pÅ™iÅ¡el.}
+{201}{}{No jestlipak to nenÃ­ pan ZkurvenÃ¡ Plechovka.}
+{202}{}{Je tam nÄ›kdo?}
+{203}{}{MÅ¯Å¾em ti nÄ›co donÃ½st? Pivo? Vodu? CukrovÃ­?}
+{204}{}{DoufÃ¡m, Å¾e je vÅ¡echno v poÅ™Ã¡dku, eh, pane... nebo madam. AÅ¥ uÅ¾ je uvnitÅ™ kdokoliv.}
+{205}{}{Jestli je nÄ›co Å¡patnÄ›, mÅ¯Å¾e za to T-Ray. Promluv si s nÃ­m.}
+{206}{}{To je nÄ›jakej novej druh auta?}
+{207}{}{Nechceme Å¾Ã¡dnÃ½ problÃ©my.}
+{208}{}{Jestli hledÃ¡Å¡ T-Raye, tak je vzadu.}
+{220}{}{NazdÃ¡rek, krÃ¡snÃ¡ dÃ¡mo. To byl ale zatracenÄ› dobrej vÃ½kon.}
+{221}{}{PÃ¡ni. NemÃ­vÃ¡me moc nÃ¡vÅ¡tÄ›vnÃ­kÅ¯. Co pro vÃ¡s mÅ¯Å¾eme udÄ›lat, sleÄno }
+{222}{}{Jak to dÄ›lÃ¡Å¡, Å¾e si dokÃ¡Å¾eÅ¡ dÃ¡t nohy za hlavu?}
+{223}{}{Jsou ty kozy pravÃ½? MÅ¯Å¾u se pÅ™esvÄ›dÄit?}
+{224}{}{Nevadilo by ti, kdyby ses mi podÃ­vala na podvozek?}
+{225}{}{ZatracenÄ›. VypadÃ¡m hroznÄ› a pak se ukÃ¡Å¾eÅ¡ zrovna ty. TÃ½ Å¡pÃ­ny si nevÅ¡Ã­mej.}
+{226}{}{NehledÃ¡Å¡ novej talent? T-Ray je vzadu, takÅ¾e tam ani nechoÄ.}
+{227}{}{JÃ¡ vÄ›dÄ›l, Å¾e jsem se mÄ›l osprchovat...}
+{228}{}{MÅ¯Å¾u ti zkontrolovat mazÃ¡nÃ­? Hehe.}
+{229}{}{ChceÅ¡ vidÄ›t mÃ½ho ochoÄenÃ½ho ptÃ¡Äka?}
+{230}{}{::PÃ­skÃ¡::}
+{231}{}{ZatracenÄ›. To jsou moc pÄ›knÃ½ kÅ™ivky.}
+{232}{}{NazdÃ¡rek, krÃ¡snÃ¡ dÃ¡mo.}
+{233}{}{PÃ¡ni. NemÃ­vÃ¡me moc nÃ¡vÅ¡tÄ›vnÃ­kÅ¯. Co pro vÃ¡s mÅ¯Å¾eme udÄ›lat, sleÄno?}
+{234}{}{HledÃ¡Å¡ nÄ›jakÃ½ vÃ¡Å¡nivÃ½ milovÃ¡nÃ­? T-Ray je vzadu, takÅ¾e tam ani nechoÄ.}
+{245}{}{VidÄ›l jsem tÄ› zÃ¡pasit v ringu. MÃ¡Å¡ fakt skvÄ›lej pravej hÃ¡k.}
+{246}{}{DoufÃ¡m, Å¾e dalÅ¡Ã­ zÃ¡pas vyhrajeÅ¡. Vsadil jsem si na tebe $30.}
+{247}{}{Na Å¡ampiÃ³na moc drsnÄ› nevypadÃ¡Å¡.}
+{248}{}{Kolik dÃ¡Å¡ na benÄi?}
+{249}{}{Kde posilujeÅ¡?}
+{250}{}{Bacha na Å½dÃ­maÄku. ChutnajÃ­ mu uÅ¡i.}
+{251}{}{NechceÅ¡ pivo? VÄ›tÅ¡inou si je Å¡etÅ™Ã­me na pracovnÃ­ dobu, ale pro tebe...}
+{252}{}{T-Ray Å™Ã­kal, Å¾e nejseÅ¡ zas tak drsnej. DÃ¡m ti 5 babek, kdyÅ¾ mu jednu vrazÃ­Å¡.}
+{253}{}{T-Ray Å™Ã­kal, Å¾e mÃ¡Å¡ hubu ze skla. Jestli s nÃ­m chceÅ¡ mluvit, je vzadu.}
+{254}{}{Å½dÃ­maÄka je pÄ›knej posera. Eh, neÅ™Ã­kej mu, Å¾e jsem to Å™Ã­kal.}
+{265}{}{DoufÃ¡m, Å¾e je vÅ¡echno v poÅ™Ã¡dku, madam.}
+{266}{}{NechtÄ›li jsme se vÃ¡s dotknout, madam.}
+{267}{}{A do prdele. *Polk* PodÃ­vejte se, kdo pÅ™iÅ¡el.}
+{268}{}{Co pro tebe mÅ¯Å¾eme udÄ›lat, }
+{269}{}{MÅ¯Å¾em ti nÄ›co donÃ½st? Pivo? Vodu? CukrovÃ­?}
+{270}{}{Jestli je nÄ›co Å¡patnÄ›, mÅ¯Å¾e za to T-Ray. Promluv si s nÃ­m.}
+{271}{}{Pozdravuj od nÃ¡s svÃ½ho Å¡Ã©fa.}
+{272}{}{Jestli hledÃ¡Å¡ T-Raye, tak je vzadu.}
+{273}{}{DoufÃ¡m, Å¾e je vÅ¡echno v poÅ™Ã¡dku, pane.}
+{274}{}{NechtÄ›li jsme se vÃ¡s dotknout, pane.}
+{300}{}{OmlouvÃ¡me se za to nedorozumÄ›nÃ­ s Higwaymanem.}
+{301}{}{NevÄ›dÄ›li jsme, Å¾e je ten Highwayman tvÅ¯j.}
+{302}{}{JÃ³, Highwayman nenÃ­ Å¡patnÃ¡ kÃ¡ra, ale jÃ¡ bych radÅ¡i Omni.}
+{303}{}{NechceÅ¡ toho Higwaymana prodat?}
+{304}{}{JeÄ, namazanej blesku, jeÄ.}
+{305}{}{Namazanej je to slovo... tÃ¡dy dÃ¡dy dÃ¡Ã¡Ã¡...}
+{306}{}{Highwayman je parÃ¡dnÃ­ kÃ¡ra. Chryslus moc dobÅ™e vÄ›dÄ›l, jak je tenkrÃ¡t vyrobit.}
+{307}{}{T-Ray uÅ¾ zase "pracuje" vzadu. Zatracenej parchant.}
+{308}{}{UÅ¾ je mi blbÄ› z toho makÃ¡nÃ­ za T-Raye.}
+{309}{}{T-Ray zase oÄumoval moji starou.}
+{310}{}{T-Ray chrÃ¡pal s mojÃ­ sestrou. A matkou. A psem.}
+{311}{}{T-Ray je nadrÅ¾enÄ›jÅ¡Ã­ neÅ¾ bÃ½k na tvrdolÃ­nu.}
 {312}{}{T-Ray je vzadu. Telefonuje.}
-{313}{}{Motor fachá poøád dobøe.}
-{314}{}{Vevnitø to smrdí, jako by se tam nìkdo vysral.}
-{315}{}{Interiér smrdí jako geckon.}
-{316}{}{Slušná kára, ale já bych radši Omni.}
-{317}{}{Highwayman má plnì analogovej systém, pøes 800 koní a dá stovku pod sekundu.}
-{318}{}{Rychlej? Highwayman dá stovku pod sekundu.}
-{319}{}{Highwayman má fakt sílu: pøes 800 koní.}
-{320}{}{Máš tu nìco na práci?}
-{321}{}{Fakt lituju toho idiota, kterej nechal tohohle Higwaymana jen tak leet.}
-{322}{}{Highwayman má plnì analogovej systém, ádnı poèítaèe a ádnı moderní vymoenosti.}
-{330}{}{Ruce pryè, nebo tvı ruce budou pryè. Rozumíš?}
+{313}{}{Motor fachÃ¡ poÅ™Ã¡d dobÅ™e.}
+{314}{}{VevnitÅ™ to smrdÃ­, jako by se tam nÄ›kdo vysral.}
+{315}{}{InteriÃ©r smrdÃ­ jako geckon.}
+{316}{}{SluÅ¡nÃ¡ kÃ¡ra, ale jÃ¡ bych radÅ¡i Omni.}
+{317}{}{Highwayman mÃ¡ plnÄ› analogovej systÃ©m, pÅ™es 800 konÃ­ a dÃ¡ stovku pod sekundu.}
+{318}{}{Rychlej? Highwayman dÃ¡ stovku pod sekundu.}
+{319}{}{Highwayman mÃ¡ fakt sÃ­lu: pÅ™es 800 konÃ­.}
+{320}{}{MÃ¡Å¡ tu nÄ›co na prÃ¡ci?}
+{321}{}{Fakt lituju toho idiota, kterej nechal tohohle Higwaymana jen tak leÅ¾et.}
+{322}{}{Highwayman mÃ¡ plnÄ› analogovej systÃ©m, Å¾Ã¡dnÃ½ poÄÃ­taÄe a Å¾Ã¡dnÃ½ modernÃ­ vymoÅ¾enosti.}
+{330}{}{Ruce pryÄ, nebo tvÃ½ ruce budou pryÄ. RozumÃ­Å¡?}
 {331}{}{Vypadni SAKRA od toho auta.}
-{332}{}{Tvùj ivot nemá vìtší cenu ne to auto. Dotkni se ho ještì jednou a dokáu ti to.}
+{332}{}{TvÅ¯j Å¾ivot nemÃ¡ vÄ›tÅ¡Ã­ cenu neÅ¾ to auto. Dotkni se ho jeÅ¡tÄ› jednou a dokÃ¡Å¾u ti to.}
 {5221}{}{?}
 {5268}{}{?}

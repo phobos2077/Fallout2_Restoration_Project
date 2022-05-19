@@ -1,119 +1,119 @@
-{100}{}{Vidíš hrdloøeza.}
-{101}{}{Vidíš Joeyho.}
-{150}{}{Tenhle chlapík nevypadá pøíliš pøátelsky.}
+{100}{}{VidÃ­Å¡ hrdloÅ™eza.}
+{101}{}{VidÃ­Å¡ Joeyho.}
+{150}{}{Tenhle chlapÃ­k nevypadÃ¡ pÅ™Ã­liÅ¡ pÅ™Ã¡telsky.}
 {151}{}{[MLUVIT]}
-{152}{}{Udìlám ti facelift ksichtu, sráèi!}
-{153}{}{Jo? Tak pojï a zkus to.}
+{152}{}{UdÄ›lÃ¡m ti facelift ksichtu, srÃ¡Äi!}
+{153}{}{Jo? Tak pojÄ a zkus to.}
 {154}{}{Hej, tak moment!}
-{155}{}{Bıt tebou, tak si to poøádnì rozmyslím.}
-{156}{}{Co chceš? Proè bych tì teï nemìl zabít za to, co jsi udìlal, místo toho, abych poslouchal ty tvoje vásty?}
-{157}{}{Chci s tebou mluvit o tom duchovi, kterı sem v noci chodí.}
-{158}{}{Vzal jsi z toho strašidelného domu pøívìsek?}
-{159}{}{Zapomeò na to. Místo toho ti nakopu prdel.}
-{160}{}{Nic. Jen procházím.}
-{161}{}{O èem to sakra mluvíš?}
-{162}{}{Ukradl jsi z toho strašidelného domu pøívìsek?}
-{163}{}{O nièem. To je jedno.}
-{164}{}{Zapomeò na to. Teï tì zabiju a pak naporcuju.}
+{155}{}{BÃ½t tebou, tak si to poÅ™Ã¡dnÄ› rozmyslÃ­m.}
+{156}{}{Co chceÅ¡? ProÄ bych tÄ› teÄ nemÄ›l zabÃ­t za to, co jsi udÄ›lal, mÃ­sto toho, abych poslouchal ty tvoje Å¾vÃ¡sty?}
+{157}{}{Chci s tebou mluvit o tom duchovi, kterÃ½ sem v noci chodÃ­.}
+{158}{}{Vzal jsi z toho straÅ¡idelnÃ©ho domu pÅ™Ã­vÄ›sek?}
+{159}{}{ZapomeÅˆ na to. MÃ­sto toho ti nakopu prdel.}
+{160}{}{Nic. Jen prochÃ¡zÃ­m.}
+{161}{}{O Äem to sakra mluvÃ­Å¡?}
+{162}{}{Ukradl jsi z toho straÅ¡idelnÃ©ho domu pÅ™Ã­vÄ›sek?}
+{163}{}{O niÄem. To je jedno.}
+{164}{}{ZapomeÅˆ na to. TeÄ tÄ› zabiju a pak naporcuju.}
 {165}{}{I-I don't know what you're talking about.}
-{166}{}{Já myslím, e to moc dobøe víš! Ukradl jsi té mrtvé dívce pøívìsek a její duch teï nemùe odpoèívat v pokoji.}
-{167}{}{Dobøe, vezmu si ho tedy násilím.}
-{168}{}{T-to je k-kurva šílenı! Nn-emáš v sso-bì nìjakou ttu Tubb-yho ssra-èku? Já-já jsem t-tam ádnıho d-ducha nevidìl, k-kdy jsem t-tam byl... byl jsem sjetej, t-to nebylo skuteènı.}
-{169}{}{Poslyš, koupím ho od tebe.}
-{170}{}{Dej mi ho, nebo se k ní pøipojíš.}
-{171}{}{Kdy ho teï nevrátíš, tak tì bude pronásledovat. A ji nikdo nezastaví.}
-{172}{}{Coe? No jasnì, jasnì. Na t-to vezmi jed. Budeš muset vypláznout pár babek. Zadarmo ti ho nedám! $50, nebo nech bejt!}
-{173}{}{Dobøe, tady jsou peníze.}
-{174}{}{Tady máš $20 a buï rád, e si ho nevezmu z tvojí mrtvoly.}
-{175}{}{No, vlastnì jsem si to rozmyslel. Zatím.}
-{176}{}{Dej mi ho, nebo tì zabiju.}
-{177}{}{Tady je. A teï u mi dej pokoj.}
-{178}{}{Nechám.}
-{179}{}{A u se to znovu neopakuje!}
-{180}{}{H-hej! Vdy nemáš peníze! Vypadni odsud!}
-{181}{}{Sakra. Ještì se vrátím.}
-{182}{}{V tom pøípadì tì budu muset zabít.}
-{183}{}{Zdar. Jak se máš?}
-{184}{}{Dobøe. A ty?}
-{185}{}{Ne moc dobøe.}
-{186}{}{Vzal jsi z toho domu pøívìsek?}
-{187}{}{Co víš o tom duchovi, kterı sem v noci chodí?}
-{188}{}{Nazdar, chlape. Já jsem Joey. Co dìláš na mım území?}
-{189}{}{Tvém území? Nemyslím si, e je tvoje.}
-{190}{}{Moná tì hledám.}
-{191}{}{U jdu pryè. Nashle.}
-{192}{}{Sháním informaci.}
-{193}{}{Nazdar, buchto. Hledáš Joeyho? Tak tady jsem.}
-{194}{}{Ne. Jdi pryè.}
-{195}{}{Moná. Co mi nabídneš?}
-{196}{}{Chci nìjaké informace.}
-{197}{}{Ne, promiò. U musím jít.}
-{198}{}{Mám nìjakej Jet. Je to vynikající matroš pøímo z New Rena. Chceš?}
-{199}{}{V ádném pøípadì!}
+{166}{}{JÃ¡ myslÃ­m, Å¾e to moc dobÅ™e vÃ­Å¡! Ukradl jsi tÃ© mrtvÃ© dÃ­vce pÅ™Ã­vÄ›sek a jejÃ­ duch teÄ nemÅ¯Å¾e odpoÄÃ­vat v pokoji.}
+{167}{}{DobÅ™e, vezmu si ho tedy nÃ¡silÃ­m.}
+{168}{}{T-to je k-kurva Å¡Ã­lenÃ½! Nn-emÃ¡Å¡ v sso-bÄ› nÄ›jakou ttu Tubb-yho ssra-Äku? JÃ¡-jÃ¡ jsem t-tam Å¾Ã¡dnÃ½ho d-ducha nevidÄ›l, k-kdyÅ¾ jsem t-tam byl... byl jsem sjetej, t-to nebylo skuteÄnÃ½.}
+{169}{}{PoslyÅ¡, koupÃ­m ho od tebe.}
+{170}{}{Dej mi ho, nebo se k nÃ­ pÅ™ipojÃ­Å¡.}
+{171}{}{KdyÅ¾ ho teÄ nevrÃ¡tÃ­Å¡, tak tÄ› bude pronÃ¡sledovat. A ji nikdo nezastavÃ­.}
+{172}{}{CoÅ¾e? No jasnÄ›, jasnÄ›. Na t-to vezmi jed. BudeÅ¡ muset vyplÃ¡znout pÃ¡r babek. Zadarmo ti ho nedÃ¡m! $50, nebo nech bejt!}
+{173}{}{DobÅ™e, tady jsou penÃ­ze.}
+{174}{}{Tady mÃ¡Å¡ $20 a buÄ rÃ¡d, Å¾e si ho nevezmu z tvojÃ­ mrtvoly.}
+{175}{}{No, vlastnÄ› jsem si to rozmyslel. ZatÃ­m.}
+{176}{}{Dej mi ho, nebo tÄ› zabiju.}
+{177}{}{Tady je. A teÄ uÅ¾ mi dej pokoj.}
+{178}{}{NechÃ¡m.}
+{179}{}{AÅ¥ uÅ¾ se to znovu neopakuje!}
+{180}{}{H-hej! VÅ¾dyÅ¥ nemÃ¡Å¡ penÃ­ze! Vypadni odsud!}
+{181}{}{Sakra. JeÅ¡tÄ› se vrÃ¡tÃ­m.}
+{182}{}{V tom pÅ™Ã­padÄ› tÄ› budu muset zabÃ­t.}
+{183}{}{Zdar. Jak se mÃ¡Å¡?}
+{184}{}{DobÅ™e. A ty?}
+{185}{}{Ne moc dobÅ™e.}
+{186}{}{Vzal jsi z toho domu pÅ™Ã­vÄ›sek?}
+{187}{}{Co vÃ­Å¡ o tom duchovi, kterÃ½ sem v noci chodÃ­?}
+{188}{}{Nazdar, chlape. JÃ¡ jsem Joey. Co dÄ›lÃ¡Å¡ na mÃ½m ÃºzemÃ­?}
+{189}{}{TvÃ©m ÃºzemÃ­? NemyslÃ­m si, Å¾e je tvoje.}
+{190}{}{MoÅ¾nÃ¡ tÄ› hledÃ¡m.}
+{191}{}{UÅ¾ jdu pryÄ. Nashle.}
+{192}{}{ShÃ¡nÃ­m informaci.}
+{193}{}{Nazdar, buchto. HledÃ¡Å¡ Joeyho? Tak tady jsem.}
+{194}{}{Ne. Jdi pryÄ.}
+{195}{}{MoÅ¾nÃ¡. Co mi nabÃ­dneÅ¡?}
+{196}{}{Chci nÄ›jakÃ© informace.}
+{197}{}{Ne, promiÅˆ. UÅ¾ musÃ­m jÃ­t.}
+{198}{}{MÃ¡m nÄ›jakej Jet. Je to vynikajÃ­cÃ­ matroÅ¡ pÅ™Ã­mo z New Rena. ChceÅ¡?}
+{199}{}{V Å¾Ã¡dnÃ©m pÅ™Ã­padÄ›!}
 {200}{}{Kolik za to?}
-{201}{}{Ne, chci nìjaké informace.}
-{202}{}{Musím jít. Nashle.}
-{203}{}{Co ty a já spolu? Jdeme na to?}
-{204}{}{Dobøe.}
-{205}{}{Ani kdybys byl poslední nezmutovanı mu na planetì.}
-{206}{}{Eh, no... myslím, e ne. Potøebuju nìco jiného.}
-{207}{}{Však ty se vrátíš.}
-{208}{}{Moná.}
-{209}{}{Nespoléhej na to.}
-{210}{}{Poèkej! Mùu se na nìco zeptat?}
+{201}{}{Ne, chci nÄ›jakÃ© informace.}
+{202}{}{MusÃ­m jÃ­t. Nashle.}
+{203}{}{Co ty a jÃ¡ spolu? Jdeme na to?}
+{204}{}{DobÅ™e.}
+{205}{}{Ani kdybys byl poslednÃ­ nezmutovanÃ½ muÅ¾ na planetÄ›.}
+{206}{}{Eh, no... myslÃ­m, Å¾e ne. PotÅ™ebuju nÄ›co jinÃ©ho.}
+{207}{}{VÅ¡ak ty se vrÃ¡tÃ­Å¡.}
+{208}{}{MoÅ¾nÃ¡.}
+{209}{}{NespolÃ©hej na to.}
+{210}{}{PoÄkej! MÅ¯Å¾u se na nÄ›co zeptat?}
 {211}{}{Takhle se mnou nikdo mluvit nebude!}
-{212}{}{Já ano. Umíš ještì nìco jiného ne mluvit?}
-{213}{}{To je jedno. Prodáváš nìco, nebo jenom mluvíš?}
-{214}{}{Omlouvám se. Jen se dívám kolem a neznám to tady.}
-{215}{}{Co chceš?}
-{216}{}{Hledám pøívìsek.}
-{217}{}{Potøebuju nìjaké informace o tom strašidelném domì.}
-{218}{}{Proè jsou u toho starého kostela ty stráe?}
-{219}{}{Nic, co mùeš obstarat.}
-{220}{}{Neslyšel jste nìkdy o Vaultu 13?}
-{221}{}{Eh, zapomeò na to. Zatím.}
-{222}{}{Jo ty myslíš Tylera a jeho gang? Hlídaj nìjakı hovna, co chodìj z Vault City. Nìjakı zkurvenì velkı bedny. Jednou za èas je vyzvednou karavany smìøující do New Rena.}
-{223}{}{Mùeš mi o nich øíct ještì nìco?}
-{224}{}{Mùu se vás zeptat na nìco jiného?}
-{225}{}{Dobøe, díky. Sbohem.}
-{226}{}{Co chceš ještì vìdìt?}
+{212}{}{JÃ¡ ano. UmÃ­Å¡ jeÅ¡tÄ› nÄ›co jinÃ©ho neÅ¾ mluvit?}
+{213}{}{To je jedno. ProdÃ¡vÃ¡Å¡ nÄ›co, nebo jenom mluvÃ­Å¡?}
+{214}{}{OmlouvÃ¡m se. Jen se dÃ­vÃ¡m kolem a neznÃ¡m to tady.}
+{215}{}{Co chceÅ¡?}
+{216}{}{HledÃ¡m pÅ™Ã­vÄ›sek.}
+{217}{}{PotÅ™ebuju nÄ›jakÃ© informace o tom straÅ¡idelnÃ©m domÄ›.}
+{218}{}{ProÄ jsou u toho starÃ©ho kostela ty strÃ¡Å¾e?}
+{219}{}{Nic, co mÅ¯Å¾eÅ¡ obstarat.}
+{220}{}{NeslyÅ¡el jste nÄ›kdy o Vaultu 13?}
+{221}{}{Eh, zapomeÅˆ na to. ZatÃ­m.}
+{222}{}{Jo ty myslÃ­Å¡ Tylera a jeho gang? HlÃ­daj nÄ›jakÃ½ hovna, co chodÄ›j z Vault City. NÄ›jakÃ½ zkurvenÄ› velkÃ½ bedny. Jednou za Äas je vyzvednou karavany smÄ›Å™ujÃ­cÃ­ do New Rena.}
+{223}{}{MÅ¯Å¾eÅ¡ mi o nich Å™Ã­ct jeÅ¡tÄ› nÄ›co?}
+{224}{}{MÅ¯Å¾u se vÃ¡s zeptat na nÄ›co jinÃ©ho?}
+{225}{}{DobÅ™e, dÃ­ky. Sbohem.}
+{226}{}{Co chceÅ¡ jeÅ¡tÄ› vÄ›dÄ›t?}
 {227}{}{Kdo je Tyler?}
 {228}{}{Kde je New Reno?}
-{229}{}{Co je uvnitø?}
-{230}{}{Chci se zeptat na nìco jiného.}
-{231}{}{To je všechno. Nashle.}
-{232}{}{Tyler je podrazák, kterej s náma vydrbal pøi jednom pìknım kšeftíku s Metzgerem, ale srát na to! U je mi to kurva jedno. Ale klidnì bych mu tu jeho zasranou prdel nakopal. Lara a on se poøád hádají. Má to nìco spoleènıho s Tylerem a jejím bratrem.}
-{233}{}{To by mohlo bıt uiteèné. Mùeš mi o nich øíct ještì nìco?}
-{234}{}{Mùu se vás zeptat na nìco jiného?}
-{235}{}{Dobøe, díky. Sbohem.}
-{236}{}{New Reno je daleko dole na jihu a potom trochu na vıchod. Je tam hodnì rušno, ale taky zatracenì nebezpeèno. Bejt tebou, tak tam nelezu. Ale mùu ti to ukázat na tı tvı podivnı vìci s obrazovkou.}
-{237}{}{Myslím, e teï u to najdu. Mùeš mi o nich øíct ještì nìco?}
-{238}{}{Mùu se vás zeptat na nìco jiného?}
-{239}{}{Dobøe, díky. Sbohem.}
-{240}{}{Co já vím.}
-{241}{}{Zajímavé. Mùeš mi o nich øíct ještì nìco?}
-{242}{}{Mùu se vás zeptat na nìco jiného?}
-{243}{}{Dobøe, díky. Sbohem.}
-{244}{}{e jsi to ty, prodám ti Jet za $500.}
-{245}{}{Ne, díky. Nashle.}
-{246}{}{Ne, díky, ale chci se ještì na nìco zeptat.}
+{229}{}{Co je uvnitÅ™?}
+{230}{}{Chci se zeptat na nÄ›co jinÃ©ho.}
+{231}{}{To je vÅ¡echno. Nashle.}
+{232}{}{Tyler je podrazÃ¡k, kterej s nÃ¡ma vydrbal pÅ™i jednom pÄ›knÃ½m kÅ¡eftÃ­ku s Metzgerem, ale srÃ¡t na to! UÅ¾ je mi to kurva jedno. Ale klidnÄ› bych mu tu jeho zasranou prdel nakopal. Lara a on se poÅ™Ã¡d hÃ¡dajÃ­. MÃ¡ to nÄ›co spoleÄnÃ½ho s Tylerem a jejÃ­m bratrem.}
+{233}{}{To by mohlo bÃ½t uÅ¾iteÄnÃ©. MÅ¯Å¾eÅ¡ mi o nich Å™Ã­ct jeÅ¡tÄ› nÄ›co?}
+{234}{}{MÅ¯Å¾u se vÃ¡s zeptat na nÄ›co jinÃ©ho?}
+{235}{}{DobÅ™e, dÃ­ky. Sbohem.}
+{236}{}{New Reno je daleko dole na jihu a potom trochu na vÃ½chod. Je tam hodnÄ› ruÅ¡no, ale taky zatracenÄ› nebezpeÄno. Bejt tebou, tak tam nelezu. Ale mÅ¯Å¾u ti to ukÃ¡zat na tÃ½ tvÃ½ podivnÃ½ vÄ›ci s obrazovkou.}
+{237}{}{MyslÃ­m, Å¾e teÄ uÅ¾ to najdu. MÅ¯Å¾eÅ¡ mi o nich Å™Ã­ct jeÅ¡tÄ› nÄ›co?}
+{238}{}{MÅ¯Å¾u se vÃ¡s zeptat na nÄ›co jinÃ©ho?}
+{239}{}{DobÅ™e, dÃ­ky. Sbohem.}
+{240}{}{Co jÃ¡ vÃ­m.}
+{241}{}{ZajÃ­mavÃ©. MÅ¯Å¾eÅ¡ mi o nich Å™Ã­ct jeÅ¡tÄ› nÄ›co?}
+{242}{}{MÅ¯Å¾u se vÃ¡s zeptat na nÄ›co jinÃ©ho?}
+{243}{}{DobÅ™e, dÃ­ky. Sbohem.}
+{244}{}{Å½e jsi to ty, prodÃ¡m ti Jet za $500.}
+{245}{}{Ne, dÃ­ky. Nashle.}
+{246}{}{Ne, dÃ­ky, ale chci se jeÅ¡tÄ› na nÄ›co zeptat.}
 {247}{}{To je moc!}
-{248}{}{Dobøe, koupím ho.}
-{249}{}{Jestli nemáš peníze, tak pøijï, a si to budeš moct dovolit. Ne abych tì vidìl, e kupuješ od nìkoho jinıho, nebo ti nakopu tu tvoji zasranou prdel. Já jedinej mám èistı neøíznutı svinstvo, dovezenı pøímo z New Rena.}
-{250}{}{Poèkej, koupím ho.}
-{251}{}{Mùu se ještì na nìco zeptat?}
+{248}{}{DobÅ™e, koupÃ­m ho.}
+{249}{}{Jestli nemÃ¡Å¡ penÃ­ze, tak pÅ™ijÄ, aÅ¾ si to budeÅ¡ moct dovolit. Ne abych tÄ› vidÄ›l, Å¾e kupujeÅ¡ od nÄ›koho jinÃ½ho, nebo ti nakopu tu tvoji zasranou prdel. JÃ¡ jedinej mÃ¡m ÄistÃ½ neÅ™Ã­znutÃ½ svinstvo, dovezenÃ½ pÅ™Ã­mo z New Rena.}
+{250}{}{PoÄkej, koupÃ­m ho.}
+{251}{}{MÅ¯Å¾u se jeÅ¡tÄ› na nÄ›co zeptat?}
 {252}{}{Nashle.}
-{253}{}{Dobøe, sníím cenu na $350, ale to je maximum! To je moje koneèná nabídka. Platíš velkı prachy za dobrej fet. Nekupuj od Tubbyho nebo od jinejch jemu podobnejch zoufalcù. Ti maj fet øedìnej. Já jsem jedinej na míle daleko, kterej mùe nabídnout ten nejlepší materiál.}
-{254}{}{Zapomeò na to. Mùu se ještì na nìco zeptat?}
-{255}{}{Dobøe, koupím ho.}
+{253}{}{DobÅ™e, snÃ­Å¾Ã­m cenu na $350, ale to je maximum! To je moje koneÄnÃ¡ nabÃ­dka. PlatÃ­Å¡ velkÃ½ prachy za dobrej fet. Nekupuj od Tubbyho nebo od jinejch jemu podobnejch zoufalcÅ¯. Ti maj fet Å™edÄ›nej. JÃ¡ jsem jedinej na mÃ­le daleko, kterej mÅ¯Å¾e nabÃ­dnout ten nejlepÅ¡Ã­ materiÃ¡l.}
+{254}{}{ZapomeÅˆ na to. MÅ¯Å¾u se jeÅ¡tÄ› na nÄ›co zeptat?}
+{255}{}{DobÅ™e, koupÃ­m ho.}
 {256}{}{Ale nic. Nashle.}
 {257}{}{Vault... Vault... Vault 13? Nope, never heard of it. Don't tell me they've come up
  with another new drug! Nothing can beat Jet!}
 {258}{}{Ne, ty debile.}
-{259}{}{Ne, to je místo. Mùu se ještì na nìco zeptat?}
+{259}{}{Ne, to je mÃ­sto. MÅ¯Å¾u se jeÅ¡tÄ› na nÄ›co zeptat?}
 {260}{}{Yes, a wonderful drug.}
 {261}{}{Ne, nashle.}
-{262}{}{Tady Joey toho moc nenakecá.}
-{300}{}{Pravdìpodobnì ne. Nashle.}
-{350}{}{Spíš nebo co? Ukázalo se, e je Lara pìkná dìvka. To ona odpráskla Tylera. Slyšel jsem, e v tom má prsty Metzger. No, radši se vrátím do práce.}
-{351}{}{Spíš nebo co? Ukázalo se, e je Lara pìkná dìvka... škoda, e je mrtvá. Zametla s Tylerovou grupou. Co jsem naposled slyšel, tak to teï vede její gang.}
+{262}{}{Tady Joey toho moc nenakecÃ¡.}
+{300}{}{PravdÄ›podobnÄ› ne. Nashle.}
+{350}{}{SpÃ­Å¡ nebo co? UkÃ¡zalo se, Å¾e je Lara pÄ›knÃ¡ dÄ›vka. To ona odprÃ¡skla Tylera. SlyÅ¡el jsem, Å¾e v tom mÃ¡ prsty Metzger. No, radÅ¡i se vrÃ¡tÃ­m do prÃ¡ce.}
+{351}{}{SpÃ­Å¡ nebo co? UkÃ¡zalo se, Å¾e je Lara pÄ›knÃ¡ dÄ›vka... Å¡koda, Å¾e je mrtvÃ¡. Zametla s Tylerovou grupou. Co jsem naposled slyÅ¡el, tak to teÄ vede jejÃ­ gang.}

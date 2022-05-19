@@ -1,50 +1,50 @@
-{100}{}{Vidíš páraèe.}
-{101}{}{Vidíš Kerith, matku páraèù.}
-{102}{}{Vidíš typického páraèe. Je obrovskı, má silné tìlo, ostré zuby a dlouhé paøáty. Tento vypadá, e je samice, ale nedokáeš to øíct urèitì. Všímáš si nìkolika jizev na jejím tìle.}
-{103}{}{Lidskı návštìvník je neoèekávaná, ale vítaná událost. Jsem Kerith.}
-{104}{}{S èím ti mùu pomoct?}
-{105}{}{Ty matka páraèi?}
-{106}{}{Kdo otec páraèi?}
-{107}{}{Dveøe vypadat na hovno. Co stalo?}
-{108}{}{Kdo postavit tohle líheò?}
-{109}{}{Já teï jít.}
-{110}{}{Take ty jsi matka páraèù?}
-{111}{}{Kdo je otec páraèù?}
-{112}{}{Co se stalo s dveømi? Vypadá to, e u nìco zaily.}
-{113}{}{Kdo postavil tuhle líheò?}
-{114}{}{Právì jsem na odchodu.}
-{115}{}{Ano. Jsem souèasná matka smeèky. Jakmile moje vajíèka dozrají, dostanou šanci i ostatní matky.}
-{116}{}{Dobøe.}
-{117}{}{Další matky?}
+{100}{}{VidÃ­Å¡ pÃ¡raÄe.}
+{101}{}{VidÃ­Å¡ Kerith, matku pÃ¡raÄÅ¯.}
+{102}{}{VidÃ­Å¡ typickÃ©ho pÃ¡raÄe. Je obrovskÃ½, mÃ¡ silnÃ© tÄ›lo, ostrÃ© zuby a dlouhÃ© paÅ™Ã¡ty. Tento vypadÃ¡, Å¾e je samice, ale nedokÃ¡Å¾eÅ¡ to Å™Ã­ct urÄitÄ›. VÅ¡Ã­mÃ¡Å¡ si nÄ›kolika jizev na jejÃ­m tÄ›le.}
+{103}{}{LidskÃ½ nÃ¡vÅ¡tÄ›vnÃ­k je neoÄekÃ¡vanÃ¡, ale vÃ­tanÃ¡ udÃ¡lost. Jsem Kerith.}
+{104}{}{S ÄÃ­m ti mÅ¯Å¾u pomoct?}
+{105}{}{Ty matka pÃ¡raÄi?}
+{106}{}{Kdo otec pÃ¡raÄi?}
+{107}{}{DveÅ™e vypadat na hovno. Co stalo?}
+{108}{}{Kdo postavit tohle lÃ­heÅˆ?}
+{109}{}{JÃ¡ teÄ jÃ­t.}
+{110}{}{TakÅ¾e ty jsi matka pÃ¡raÄÅ¯?}
+{111}{}{Kdo je otec pÃ¡raÄÅ¯?}
+{112}{}{Co se stalo s dveÅ™mi? VypadÃ¡ to, Å¾e uÅ¾ nÄ›co zaÅ¾ily.}
+{113}{}{Kdo postavil tuhle lÃ­heÅˆ?}
+{114}{}{PrÃ¡vÄ› jsem na odchodu.}
+{115}{}{Ano. Jsem souÄasnÃ¡ matka smeÄky. Jakmile moje vajÃ­Äka dozrajÃ­, dostanou Å¡anci i ostatnÃ­ matky.}
+{116}{}{DobÅ™e.}
+{117}{}{DalÅ¡Ã­ matky?}
 {118}{}{Aha.}
-{119}{}{Jsou i jiné matky?}
-{120}{}{Ano, existuje více matek. Pokud by se mi nìco stalo, jedna z nich bude vybrána, aby pøevzala moje místo. Smeèka musí ít dál.}
-{121}{}{Eh, já rozumìt.}
-{122}{}{Rozumím.}
-{123}{}{Tyto vajíèka byla oplodnìna Grutharem, vùdcem smeèky. To Gruthar rozhoduje, kdo se smí páøit a kdo ne. Díky nìmu bude naše smeèka silná.}
-{124}{}{Eh, dobøe.}
-{125}{}{Hmmm, chápu. Selektivní mnoení za úèelem zvıšení šance na pøeití.}
-{126}{}{To je bolestná vzpomínka. Nìjakı proradnı èlovìk se sem vplíil kdy jsem spala a umístil bombu mezi vajíèka. Naštìstí nebyl a tak potichu, take jsem se probudila a tu bombu našla. Bohuel jsem nemìla pøíliš èasu na její zneškodnìní, take jsem ji hodila ke dveøím a vlastním tìlem jsem chránila vajíèka. Ta to naštìstí pøeila, dveøe u bohuel ne.}
-{127}{}{Co stát s èlovìk?}
-{128}{}{Jak dostat pøes strá venku?}
-{129}{}{Já mít více otázky.}
-{130}{}{Co se stalo tomu èlovìku, kterı to udìlal?}
-{131}{}{Jak se ta osoba dostala pøes strá venku?}
-{132}{}{Mám ještì nìjaké otázky.}
-{133}{}{Jmenuje se Matt a je zde vìznìm. Osobnì bych ho ráda vidìla mrtvého, ale Gruthar to nechce dovolit. Moc tomu nerozumím, ale Grutharovo slovo je zákon a ten se musí dodrovat. Pokud s tím vìznìm budeš mluvit, dej si pozor, nedá se mu vìøit!}
-{134}{}{Jak dostat pøes strá venku?}
-{135}{}{Dobøe.}
-{136}{}{Jak se ta osoba dostala pøes strá venku?}
-{137}{}{Dobøe.}
-{138}{}{Dali jsme tam strá a po tomto incidentu. Pøedtím jsme byli dùvìøivìjší, ale teï u jsme opatrnìjší.}
-{139}{}{Co stát s èlovìk?}
-{140}{}{Já rozumìt.}
-{141}{}{Co se stalo tomu èlovìku, kterı to udìlal?}
+{119}{}{Jsou i jinÃ© matky?}
+{120}{}{Ano, existuje vÃ­ce matek. Pokud by se mi nÄ›co stalo, jedna z nich bude vybrÃ¡na, aby pÅ™evzala moje mÃ­sto. SmeÄka musÃ­ Å¾Ã­t dÃ¡l.}
+{121}{}{Eh, jÃ¡ rozumÄ›t.}
+{122}{}{RozumÃ­m.}
+{123}{}{Tyto vajÃ­Äka byla oplodnÄ›na Grutharem, vÅ¯dcem smeÄky. To Gruthar rozhoduje, kdo se smÃ­ pÃ¡Å™it a kdo ne. DÃ­ky nÄ›mu bude naÅ¡e smeÄka silnÃ¡.}
+{124}{}{Eh, dobÅ™e.}
+{125}{}{Hmmm, chÃ¡pu. SelektivnÃ­ mnoÅ¾enÃ­ za ÃºÄelem zvÃ½Å¡enÃ­ Å¡ance na pÅ™eÅ¾itÃ­.}
+{126}{}{To je bolestnÃ¡ vzpomÃ­nka. NÄ›jakÃ½ proradnÃ½ ÄlovÄ›k se sem vplÃ­Å¾il kdyÅ¾ jsem spala a umÃ­stil bombu mezi vajÃ­Äka. NaÅ¡tÄ›stÃ­ nebyl aÅ¾ tak potichu, takÅ¾e jsem se probudila a tu bombu naÅ¡la. BohuÅ¾el jsem nemÄ›la pÅ™Ã­liÅ¡ Äasu na jejÃ­ zneÅ¡kodnÄ›nÃ­, takÅ¾e jsem ji hodila ke dveÅ™Ã­m a vlastnÃ­m tÄ›lem jsem chrÃ¡nila vajÃ­Äka. Ta to naÅ¡tÄ›stÃ­ pÅ™eÅ¾ila, dveÅ™e uÅ¾ bohuÅ¾el ne.}
+{127}{}{Co stÃ¡t s ÄlovÄ›k?}
+{128}{}{Jak dostat pÅ™es strÃ¡Å¾ venku?}
+{129}{}{JÃ¡ mÃ­t vÃ­ce otÃ¡zky.}
+{130}{}{Co se stalo tomu ÄlovÄ›ku, kterÃ½ to udÄ›lal?}
+{131}{}{Jak se ta osoba dostala pÅ™es strÃ¡Å¾ venku?}
+{132}{}{MÃ¡m jeÅ¡tÄ› nÄ›jakÃ© otÃ¡zky.}
+{133}{}{Jmenuje se Matt a je zde vÄ›znÄ›m. OsobnÄ› bych ho rÃ¡da vidÄ›la mrtvÃ©ho, ale Gruthar to nechce dovolit. Moc tomu nerozumÃ­m, ale Grutharovo slovo je zÃ¡kon a ten se musÃ­ dodrÅ¾ovat. Pokud s tÃ­m vÄ›znÄ›m budeÅ¡ mluvit, dej si pozor, nedÃ¡ se mu vÄ›Å™it!}
+{134}{}{Jak dostat pÅ™es strÃ¡Å¾ venku?}
+{135}{}{DobÅ™e.}
+{136}{}{Jak se ta osoba dostala pÅ™es strÃ¡Å¾ venku?}
+{137}{}{DobÅ™e.}
+{138}{}{Dali jsme tam strÃ¡Å¾ aÅ¾ po tomto incidentu. PÅ™edtÃ­m jsme byli dÅ¯vÄ›Å™ivÄ›jÅ¡Ã­, ale teÄ uÅ¾ jsme opatrnÄ›jÅ¡Ã­.}
+{139}{}{Co stÃ¡t s ÄlovÄ›k?}
+{140}{}{JÃ¡ rozumÄ›t.}
+{141}{}{Co se stalo tomu ÄlovÄ›ku, kterÃ½ to udÄ›lal?}
 {142}{}{Aha.}
-{143}{}{Jeskynní èást jsme postavili my a dveøe postavil náš lidskı pøítel. Mìl souèástky z usedlosti severovıchodnì odsud.}
-{144}{}{To hezkı.}
-{145}{}{To je milé.}
-{146}{}{Zdravím. Ráda tì vidím. S èím ti mùu pomoct?}
-{147}{}{Já jen øíct ahoj. Já teï jít.}
-{148}{}{Chtìl jsem tì jen pozdravit.}
-{149}{}{Je mi líto, e tì budu muset zabít.}
+{143}{}{JeskynnÃ­ ÄÃ¡st jsme postavili my a dveÅ™e postavil nÃ¡Å¡ lidskÃ½ pÅ™Ã­tel. MÄ›l souÄÃ¡stky z usedlosti severovÃ½chodnÄ› odsud.}
+{144}{}{To hezkÃ½.}
+{145}{}{To je milÃ©.}
+{146}{}{ZdravÃ­m. RÃ¡da tÄ› vidÃ­m. S ÄÃ­m ti mÅ¯Å¾u pomoct?}
+{147}{}{JÃ¡ jen Å™Ã­ct ahoj. JÃ¡ teÄ jÃ­t.}
+{148}{}{ChtÄ›l jsem tÄ› jen pozdravit.}
+{149}{}{Je mi lÃ­to, Å¾e tÄ› budu muset zabÃ­t.}

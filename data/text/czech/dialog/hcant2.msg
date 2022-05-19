@@ -1,2 +1,2 @@
-{100}{}{Vidíš velikého mravence.}
-{101}{}{Páni, to je ale kurva velikej mravenec.}
+{100}{}{VidÃ­Å¡ velikÃ©ho mravence.}
+{101}{}{PÃ¡ni, to je ale kurva velikej mravenec.}

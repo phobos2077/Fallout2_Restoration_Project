@@ -1,69 +1,69 @@
-{100}{}{Vidíš znièenì vypadajícího holohlavého mue.}
-{101}{}{Vidíš Harryho, raketového experta.}
-{102}{}{Vidíš znièenì vypadajícího holohlavého mue.}
-{103}{}{Ááááá! Nepøátelé osvícení! Pomoc! Stráe!}
-{107}{}{Hej! Špinavèe! Kdo jsi? A co tady dìláš?}
+{100}{}{VidÃ­Å¡ zniÄenÄ› vypadajÃ­cÃ­ho holohlavÃ©ho muÅ¾e.}
+{101}{}{VidÃ­Å¡ Harryho, raketovÃ©ho experta.}
+{102}{}{VidÃ­Å¡ zniÄenÄ› vypadajÃ­cÃ­ho holohlavÃ©ho muÅ¾e.}
+{103}{}{ÃÃ¡Ã¡Ã¡Ã¡! NepÅ™Ã¡telÃ© osvÃ­cenÃ­! Pomoc! StrÃ¡Å¾e!}
+{107}{}{Hej! Å pinavÄe! Kdo jsi? A co tady dÄ›lÃ¡Å¡?}
 {108}{}{He?}
-{109}{}{Mám dopis pro AHS-9. Kde ho mám pøedat?}
-{110}{}{Já jsem}
-{111}{}{Do toho ti nic není.}
-{112}{}{Chci se pøidat k Hubologistùm.}
-{113}{}{Kdo JSI? A co tady DÌLÁŠ?}
+{109}{}{MÃ¡m dopis pro AHS-9. Kde ho mÃ¡m pÅ™edat?}
+{110}{}{JÃ¡ jsem}
+{111}{}{Do toho ti nic nenÃ­.}
+{112}{}{Chci se pÅ™idat k HubologistÅ¯m.}
+{113}{}{Kdo JSI? A co tady DÄšLÃÅ ?}
 {114}{}{Nic. Nashle.}
-{115}{}{No skvìlı, idiot. Poslyš, pøíteli, jdi támhle po schodech dolù a moná ti tam napraví tvoje neurodyny a udìlají z tebe nìco uiteèného. Do té doby sbohem, protoe na tebe nemám èas. A teï jdi.}
-{116}{}{Dobe!}
-{117}{}{Odevzdej ho dole v pøízemí. Uka ho AHS-7, kterı má právì teï slubu u brány, a ten ho od tebe pøevezme, nebo tì pošle za AHS-9. Mùu se u vrátit k práci, baante?}
-{118}{}{Jasnì.}
-{119}{}{Nejsi jedním z bratrù a proto ani nemáš povolení tady bıt. Ledae se k nám chceš pøidat - co udìláš tak, e vyslovíš svùj zájem AHS-7, kterı je právì teï ve slubì. Take teï jdi buï po schodech dolù, nebo odsud vypadni.}
-{120}{}{Fajn, fajn. Nemusíš bıt hned hrubı.}
-{121}{}{Ve skuteènosti mì to musí zajímat. Tohle je toti moje loï a moje stráe. Take, kdo jsi a co tady dìláš?}
-{122}{}{Já jsem}
-{123}{}{Do toho ti nic není.}
-{124}{}{Chci se pøidat k Hubologistùm.}
-{125}{}{Kdo JSI? A co tady DÌLÁŠ?}
+{115}{}{No skvÄ›lÃ½, idiot. PoslyÅ¡, pÅ™Ã­teli, jdi tÃ¡mhle po schodech dolÅ¯ a moÅ¾nÃ¡ ti tam napravÃ­ tvoje neurodyny a udÄ›lajÃ­ z tebe nÄ›co uÅ¾iteÄnÃ©ho. Do tÃ© doby sbohem, protoÅ¾e na tebe nemÃ¡m Äas. A teÄ jdi.}
+{116}{}{DobÅ¾e!}
+{117}{}{Odevzdej ho dole v pÅ™Ã­zemÃ­. UkaÅ¾ ho AHS-7, kterÃ½ mÃ¡ prÃ¡vÄ› teÄ sluÅ¾bu u brÃ¡ny, a ten ho od tebe pÅ™evezme, nebo tÄ› poÅ¡le za AHS-9. MÅ¯Å¾u se uÅ¾ vrÃ¡tit k prÃ¡ci, baÅ¾ante?}
+{118}{}{JasnÄ›.}
+{119}{}{Nejsi jednÃ­m z bratrÅ¯ a proto ani nemÃ¡Å¡ povolenÃ­ tady bÃ½t. LedaÅ¾e se k nÃ¡m chceÅ¡ pÅ™idat - coÅ¾ udÄ›lÃ¡Å¡ tak, Å¾e vyslovÃ­Å¡ svÅ¯j zÃ¡jem AHS-7, kterÃ½ je prÃ¡vÄ› teÄ ve sluÅ¾bÄ›. TakÅ¾e teÄ jdi buÄ po schodech dolÅ¯, nebo odsud vypadni.}
+{120}{}{Fajn, fajn. NemusÃ­Å¡ bÃ½t hned hrubÃ½.}
+{121}{}{Ve skuteÄnosti mÄ› to musÃ­ zajÃ­mat. Tohle je totiÅ¾ moje loÄ a moje strÃ¡Å¾e. TakÅ¾e, kdo jsi a co tady dÄ›lÃ¡Å¡?}
+{122}{}{JÃ¡ jsem}
+{123}{}{Do toho ti nic nenÃ­.}
+{124}{}{Chci se pÅ™idat k HubologistÅ¯m.}
+{125}{}{Kdo JSI? A co tady DÄšLÃÅ ?}
 {126}{}{Nic. Nashle.}
-{127}{}{Jmenuji se Harry. Jsem šéf raketovıch technikù.}
-{128}{}{Já jsem}
-{129}{}{Do toho ti nic není.}
-{130}{}{Chci se pøidat k Hubologistùm.}
+{127}{}{Jmenuji se Harry. Jsem Å¡Ã©f raketovÃ½ch technikÅ¯.}
+{128}{}{JÃ¡ jsem}
+{129}{}{Do toho ti nic nenÃ­.}
+{130}{}{Chci se pÅ™idat k HubologistÅ¯m.}
 {131}{}{Nic. Nashle.}
-{132}{}{Nechceš spolupracovat, jo? Stráe! Zabijte toho vetøelce!}
-{133}{}{Tvı stráe jsou u teï mrtví.}
+{132}{}{NechceÅ¡ spolupracovat, jo? StrÃ¡Å¾e! Zabijte toho vetÅ™elce!}
+{133}{}{TvÃ½ strÃ¡Å¾e jsou uÅ¾ teÄ mrtvÃ­.}
 {134}{}{Go down these stairs and talk to AHS-7 at the guard post. He'll direct you accordingly.}
-{135}{}{Dík. Naskle.}
-{161}{}{. Jen se rozhlíím kolem.}
-{162}{}{. Jen se rozhlíím kolem.}
-{163}{}{. Jen se rozhlíím kolem.}
-{170}{}{Potøebuji pomoc, chlapèe. Máš chvíli?}
-{171}{}{Stále potøebuji pomoc, chlapèe. Máš chvíli?}
+{135}{}{DÃ­k. Naskle.}
+{161}{}{. Jen se rozhlÃ­Å¾Ã­m kolem.}
+{162}{}{. Jen se rozhlÃ­Å¾Ã­m kolem.}
+{163}{}{. Jen se rozhlÃ­Å¾Ã­m kolem.}
+{170}{}{PotÅ™ebuji pomoc, chlapÄe. MÃ¡Å¡ chvÃ­li?}
+{171}{}{StÃ¡le potÅ™ebuji pomoc, chlapÄe. MÃ¡Å¡ chvÃ­li?}
 {172}{}{Kdo jsi?}
-{173}{}{Co tu dìláš?}
-{174}{}{Mám kopii plánù vertibirdu od Shi.}
-{175}{}{Mám ty plány vertibirdu.}
+{173}{}{Co tu dÄ›lÃ¡Å¡?}
+{174}{}{MÃ¡m kopii plÃ¡nÅ¯ vertibirdu od Shi.}
+{175}{}{MÃ¡m ty plÃ¡ny vertibirdu.}
 {176}{}{The Shi have the plans for the vertibird.}
-{177}{}{Co pro tebe mohu udìlat?}
-{178}{}{Zapomeò na to. Nashle.}
-{179}{}{Jmenuji se Harry, AHS-5. Jsem hvìzdnı bratr, kterı má na starosti raketoplán. Chystáme se ho pouít na cestu ke Quetzelu.}
-{180}{}{Mùu se zeptat na nìco jiného?}
-{181}{}{Rozumím. Nashle.}
-{182}{}{Pøipravuji tuto loï na velkou cestu k Hvìzdnému Otci. Jsme u velmi blízko.}
-{183}{}{Mùu se zeptat na nìco jiného?}
-{184}{}{Rozumím. Nashle.}
-{185}{}{Máš ty plány? Vıbornì! Teï u jen potøebujeme palivo! Shi mají údajnì palivo. Podívej se, jestli pro nás mùeš nìjaké sehnat. Hodnì štìstí, rekrute!}
+{177}{}{Co pro tebe mohu udÄ›lat?}
+{178}{}{ZapomeÅˆ na to. Nashle.}
+{179}{}{Jmenuji se Harry, AHS-5. Jsem hvÄ›zdnÃ½ bratr, kterÃ½ mÃ¡ na starosti raketoplÃ¡n. ChystÃ¡me se ho pouÅ¾Ã­t na cestu ke Quetzelu.}
+{180}{}{MÅ¯Å¾u se zeptat na nÄ›co jinÃ©ho?}
+{181}{}{RozumÃ­m. Nashle.}
+{182}{}{PÅ™ipravuji tuto loÄ na velkou cestu k HvÄ›zdnÃ©mu Otci. Jsme uÅ¾ velmi blÃ­zko.}
+{183}{}{MÅ¯Å¾u se zeptat na nÄ›co jinÃ©ho?}
+{184}{}{RozumÃ­m. Nashle.}
+{185}{}{MÃ¡Å¡ ty plÃ¡ny? VÃ½bornÄ›! TeÄ uÅ¾ jen potÅ™ebujeme palivo! Shi majÃ­ ÃºdajnÄ› palivo. PodÃ­vej se, jestli pro nÃ¡s mÅ¯Å¾eÅ¡ nÄ›jakÃ© sehnat. HodnÄ› Å¡tÄ›stÃ­, rekrute!}
 {186}{}{[KONEC]}
-{187}{}{Pak je tedy musíš pro nás sehnat. A teï mì prosím omluv, kamaráde -- musím pokraèovat v pøípravì lodi na naši velkou cestu.}
-{188}{}{Mám ty plány vertibirdu.}
-{189}{}{Jasnì.}
-{190}{}{Máme všechno, co potøebujeme na naši cestu! Vıbornì! Teï u jen musíme poèkat na pøíkaz od AHS-9 a jsem si jistı, e bude chtít, abys letìl s námi. Jdi si zaøídit co potøebuješ a poté se sem vra a pøipoj se k naší cestì za Hvìzdnım Otcem!}
-{191}{}{Uvidíme se pozdìji!}
-{192}{}{Potøebujeme plány vertibirdu, abychom se ujistili, e máme v poøádku aerodynamiku. Pokud to pro nás chceš udìlat, podívej se u Shi nebo zajdi do té staré základny v Navarru.}
-{193}{}{Pamatuj si, e pro nás musíš najít plány vertibirdu. Zkus to u Shi nebo v té staré základnì v Navarru.}
-{194}{}{Nikdo nebyl schopen pro nás získat ty plány vertibirdu, a u od Shi nebo z té staré základny v Navarru. Nerozmyslel sis pomoci nám?}
-{195}{}{Pamatuj si, rekrute! Nenávidìní Shi mají plány vertibirdu.}
-{196}{}{Mám ty plány vertibirdu.}
-{197}{}{Zapomeò na to.}
-{198}{}{Dobøe, udìlám to.}
-{199}{}{Take u víš, co potøebujeme? Palivo. Spoustu paliva. Shi mají údajnì palivo. Zkus ho pro nás sehnat.}
-{200}{}{Pamatuj si, e máš pro nás sehnat palivo pro naši velikou vesmírnou loï.}
-{201}{}{Aha, dobøe. Nashle.}
-{300}{}{Nìkdo se nám hacknul do systému a naše zásoby paliva byly odèerpány. Nemám èas se teï s tebou vybavovat.}
+{187}{}{Pak je tedy musÃ­Å¡ pro nÃ¡s sehnat. A teÄ mÄ› prosÃ­m omluv, kamarÃ¡de -- musÃ­m pokraÄovat v pÅ™Ã­pravÄ› lodi na naÅ¡i velkou cestu.}
+{188}{}{MÃ¡m ty plÃ¡ny vertibirdu.}
+{189}{}{JasnÄ›.}
+{190}{}{MÃ¡me vÅ¡echno, co potÅ™ebujeme na naÅ¡i cestu! VÃ½bornÄ›! TeÄ uÅ¾ jen musÃ­me poÄkat na pÅ™Ã­kaz od AHS-9 a jsem si jistÃ½, Å¾e bude chtÃ­t, abys letÄ›l s nÃ¡mi. Jdi si zaÅ™Ã­dit co potÅ™ebujeÅ¡ a potÃ© se sem vraÅ¥ a pÅ™ipoj se k naÅ¡Ã­ cestÄ› za HvÄ›zdnÃ½m Otcem!}
+{191}{}{UvidÃ­me se pozdÄ›ji!}
+{192}{}{PotÅ™ebujeme plÃ¡ny vertibirdu, abychom se ujistili, Å¾e mÃ¡me v poÅ™Ã¡dku aerodynamiku. Pokud to pro nÃ¡s chceÅ¡ udÄ›lat, podÃ­vej se u Shi nebo zajdi do tÃ© starÃ© zÃ¡kladny v Navarru.}
+{193}{}{Pamatuj si, Å¾e pro nÃ¡s musÃ­Å¡ najÃ­t plÃ¡ny vertibirdu. Zkus to u Shi nebo v tÃ© starÃ© zÃ¡kladnÄ› v Navarru.}
+{194}{}{Nikdo nebyl schopen pro nÃ¡s zÃ­skat ty plÃ¡ny vertibirdu, aÅ¥ uÅ¾ od Shi nebo z tÃ© starÃ© zÃ¡kladny v Navarru. Nerozmyslel sis pomoci nÃ¡m?}
+{195}{}{Pamatuj si, rekrute! NenÃ¡vidÄ›nÃ­ Shi majÃ­ plÃ¡ny vertibirdu.}
+{196}{}{MÃ¡m ty plÃ¡ny vertibirdu.}
+{197}{}{ZapomeÅˆ na to.}
+{198}{}{DobÅ™e, udÄ›lÃ¡m to.}
+{199}{}{TakÅ¾e uÅ¾ vÃ­Å¡, co potÅ™ebujeme? Palivo. Spoustu paliva. Shi majÃ­ ÃºdajnÄ› palivo. Zkus ho pro nÃ¡s sehnat.}
+{200}{}{Pamatuj si, Å¾e mÃ¡Å¡ pro nÃ¡s sehnat palivo pro naÅ¡i velikou vesmÃ­rnou loÄ.}
+{201}{}{Aha, dobÅ™e. Nashle.}
+{300}{}{NÄ›kdo se nÃ¡m hacknul do systÃ©mu a naÅ¡e zÃ¡soby paliva byly odÄerpÃ¡ny. NemÃ¡m Äas se teÄ s tebou vybavovat.}

@@ -1,106 +1,106 @@
-{100}{}{Vidíš závisláka.}
-{101}{}{Tahle osoba je tìce zfetovaná.}
-{102}{}{Zdá se, e je pìknì zfetovanı.}
-{103}{}{Zdá se, e je pìknì zfetovaná.}
-{104}{}{Vypadá pìknì blbì. Domníváš se, e má absák.}
-{105}{}{U zaila i lepší dny. Vypadá to, e má absák.}
-{106}{}{Tenhle závislák vypadá jako ijící mrtvola.}
-{107}{}{Vypadá to, e se tenhle závislák zrovna pozvracel.}
-{150}{}{Ta svìtla mì nièí!}
-{151}{}{Všude zrùdy!}
+{100}{}{VidÃ­Å¡ zÃ¡vislÃ¡ka.}
+{101}{}{Tahle osoba je tÄ›Å¾ce zfetovanÃ¡.}
+{102}{}{ZdÃ¡ se, Å¾e je pÄ›knÄ› zfetovanÃ½.}
+{103}{}{ZdÃ¡ se, Å¾e je pÄ›knÄ› zfetovanÃ¡.}
+{104}{}{VypadÃ¡ pÄ›knÄ› blbÄ›. DomnÃ­vÃ¡Å¡ se, Å¾e mÃ¡ absÅ¥Ã¡k.}
+{105}{}{UÅ¾ zaÅ¾ila i lepÅ¡Ã­ dny. VypadÃ¡ to, Å¾e mÃ¡ absÅ¥Ã¡k.}
+{106}{}{Tenhle zÃ¡vislÃ¡k vypadÃ¡ jako Å¾ijÃ­cÃ­ mrtvola.}
+{107}{}{VypadÃ¡ to, Å¾e se tenhle zÃ¡vislÃ¡k zrovna pozvracel.}
+{150}{}{Ta svÄ›tla mÄ› niÄÃ­!}
+{151}{}{VÅ¡ude zrÅ¯dy!}
 {152}{}{Co to bylo?}
-{153}{}{Krvácím?}
-{154}{}{Vìtšinou to není tak reálnı.}
-{155}{}{Pøestaò, èlovìèe!}
-{156}{}{Copak mi nikdo nepomùe?}
+{153}{}{KrvÃ¡cÃ­m?}
+{154}{}{VÄ›tÅ¡inou to nenÃ­ tak reÃ¡lnÃ½.}
+{155}{}{PÅ™estaÅˆ, ÄlovÄ›Äe!}
+{156}{}{Copak mi nikdo nepomÅ¯Å¾e?}
 {157}{}{Pomoc!}
-{158}{}{Pus mì!}
-{159}{}{Tøeští mì hlava!}
-{160}{}{Nech mì bıt.}
-{200}{}{Páni, ty ale divnì záøíš.}
-{201}{}{Teda, ty jsi ale fešák.}
-{202}{}{Neøíkej jim, o èem víme, e tam není.}
-{203}{}{Áááá...}
-{204}{}{Vidíš mì?}
-{205}{}{Buï velmi, velmi potichu. Lovím kválíky.}
+{158}{}{PusÅ¥ mÄ›!}
+{159}{}{TÅ™eÅ¡tÃ­ mÄ› hlava!}
+{160}{}{Nech mÄ› bÃ½t.}
+{200}{}{PÃ¡ni, ty ale divnÄ› zÃ¡Å™Ã­Å¡.}
+{201}{}{Teda, ty jsi ale feÅ¡Ã¡k.}
+{202}{}{NeÅ™Ã­kej jim, o Äem vÃ­me, Å¾e tam nenÃ­.}
+{203}{}{ÃÃ¡Ã¡Ã¡...}
+{204}{}{VidÃ­Å¡ mÄ›?}
+{205}{}{BuÄ velmi, velmi potichu. LovÃ­m kvÃ¡lÃ­ky.}
 {206}{}{Jak ses sem dostal?}
-{207}{}{Pssst, schovávám se.}
-{208}{}{Bìím rychleji ne vlk!}
-{209}{}{Cítím se tak naivu!}
-{210}{}{Rve mi to íly...}
-{211}{}{To je ono, pøesnì tam.}
-{212}{}{Óóóóch, cítíš tu sílu?}
-{213}{}{Páni, ty záøíš...}
-{214}{}{Miluju tì, èlovìèe!}
-{215}{}{ivot byl ke mnì tak laskavej. K tobì taky?}
-{216}{}{Ti malí lítaj v noci.}
-{217}{}{Pozdrav se s mım malım pøítelem.}
-{218}{}{Fíha, jsem tak ospalej...}
-{219}{}{Nevidìl jsi mıho psa?}
-{220}{}{Pssst, jsou pøímo za tebou...}
+{207}{}{Pssst, schovÃ¡vÃ¡m se.}
+{208}{}{BÄ›Å¾Ã­m rychleji neÅ¾ vlk!}
+{209}{}{CÃ­tÃ­m se tak naÅ¾ivu!}
+{210}{}{Rve mi to Å¾Ã­ly...}
+{211}{}{To je ono, pÅ™esnÄ› tam.}
+{212}{}{Ã“Ã³Ã³Ã³ch, cÃ­tÃ­Å¡ tu sÃ­lu?}
+{213}{}{PÃ¡ni, ty zÃ¡Å™Ã­Å¡...}
+{214}{}{Miluju tÄ›, ÄlovÄ›Äe!}
+{215}{}{Å½ivot byl ke mnÄ› tak laskavej. K tobÄ› taky?}
+{216}{}{Ti malÃ­ lÃ­taj v noci.}
+{217}{}{Pozdrav se s mÃ½m malÃ½m pÅ™Ã­telem.}
+{218}{}{FÃ­ha, jsem tak ospalej...}
+{219}{}{NevidÄ›l jsi mÃ½ho psa?}
+{220}{}{Pssst, jsou pÅ™Ã­mo za tebou...}
 {221}{}{Moje!}
 {222}{}{Och, moje hlava.}
-{223}{}{Všechno mì bolí.}
-{224}{}{Dostávám zimnici.}
-{225}{}{Och, potøebuju toho víc.}
-{226}{}{Potøebuju další dávku.}
-{227}{}{U to nevydrím, potøebuju to hned.}
+{223}{}{VÅ¡echno mÄ› bolÃ­.}
+{224}{}{DostÃ¡vÃ¡m zimnici.}
+{225}{}{Och, potÅ™ebuju toho vÃ­c.}
+{226}{}{PotÅ™ebuju dalÅ¡Ã­ dÃ¡vku.}
+{227}{}{UÅ¾ to nevydrÅ¾Ã­m, potÅ™ebuju to hned.}
 {228}{}{To tys mi to vzal?}
-{229}{}{Hej, nech mì na pokoji.}
-{230}{}{Pìknì se tøesu, èlovìèe.}
-{231}{}{Nesnáším tuhle fázi.}
-{232}{}{Chci prostì umøít.}
-{233}{}{Fakt toho potøebuju víc.}
-{234}{}{U to moc dlouho nevydrím.}
-{235}{}{Myslím, e mám horeèku.}
-{236}{}{Myslím, e hodím šavli.}
-{237}{}{Moná kdy pùjdu spát...}
-{238}{}{Pìknì se tøesu, dámo.}
+{229}{}{Hej, nech mÄ› na pokoji.}
+{230}{}{PÄ›knÄ› se tÅ™esu, ÄlovÄ›Äe.}
+{231}{}{NesnÃ¡Å¡Ã­m tuhle fÃ¡zi.}
+{232}{}{Chci prostÄ› umÅ™Ã­t.}
+{233}{}{Fakt toho potÅ™ebuju vÃ­c.}
+{234}{}{UÅ¾ to moc dlouho nevydrÅ¾Ã­m.}
+{235}{}{MyslÃ­m, Å¾e mÃ¡m horeÄku.}
+{236}{}{MyslÃ­m, Å¾e hodÃ­m Å¡avli.}
+{237}{}{MoÅ¾nÃ¡ kdyÅ¾ pÅ¯jdu spÃ¡t...}
+{238}{}{PÄ›knÄ› se tÅ™esu, dÃ¡mo.}
 {300}{}{To je krev?}
-{301}{}{Páni! Já krvácím? Nic necítím!}
-{302}{}{To lechtá.}
+{301}{}{PÃ¡ni! JÃ¡ krvÃ¡cÃ­m? Nic necÃ­tÃ­m!}
+{302}{}{To lechtÃ¡.}
 {303}{}{Kdo to byl?}
-{304}{}{Co se dìje?}
-{305}{}{Krvácím... aspoò myslím.}
+{304}{}{Co se dÄ›je?}
+{305}{}{KrvÃ¡cÃ­m... aspoÅˆ myslÃ­m.}
 {306}{}{Ach, ta bolest.}
-{307}{}{Teï u ale fakt potøebuju dávku.}
-{308}{}{Nech mì umøít.}
-{350}{}{Ááááá...}
-{351}{}{Já se vznáším...}
-{352}{}{Mám sílu!}
-{353}{}{Zdravím, pane Kytièko.}
-{354}{}{Všechny ty barvy...}
-{355}{}{Mnohem vyšší pøítel vidìt to nebe?}
+{307}{}{TeÄ uÅ¾ ale fakt potÅ™ebuju dÃ¡vku.}
+{308}{}{Nech mÄ› umÅ™Ã­t.}
+{350}{}{ÃÃ¡Ã¡Ã¡Ã¡...}
+{351}{}{JÃ¡ se vznÃ¡Å¡Ã­m...}
+{352}{}{MÃ¡m sÃ­lu!}
+{353}{}{ZdravÃ­m, pane KytiÄko.}
+{354}{}{VÅ¡echny ty barvy...}
+{355}{}{Mnohem vyÅ¡Å¡Ã­ pÅ™Ã­tel vidÄ›t to nebe?}
 {356}{}{Oni neposlouchaj...}
 {357}{}{Kde to jsem?}
 {358}{}{Tady to je!}
-{359}{}{Ne, proboha! Pøestaò! Poèkej! Dobøe, pokraèuj.}
-{360}{}{Tam, pøesnì tam... ááá...}
+{359}{}{Ne, proboha! PÅ™estaÅˆ! PoÄkej! DobÅ™e, pokraÄuj.}
+{360}{}{Tam, pÅ™esnÄ› tam... Ã¡Ã¡Ã¡...}
 {361}{}{Jo, bejby!}
 {362}{}{Co to bylo?}
 {363}{}{Sasha? Kde jsi Sasho?}
 {364}{}{Barvy blednou!}
 {365}{}{Mami?}
-{366}{}{Hej! Jdi ode mì! Och...}
-{367}{}{Nedìlej to!}
-{368}{}{Nic nevidím... u zase.}
-{369}{}{Potøebuju...}
-{370}{}{Musím sehnat víc...}
+{366}{}{Hej! Jdi ode mÄ›! Och...}
+{367}{}{NedÄ›lej to!}
+{368}{}{Nic nevidÃ­m... uÅ¾ zase.}
+{369}{}{PotÅ™ebuju...}
+{370}{}{MusÃ­m sehnat vÃ­c...}
 {371}{}{Tam? Ne.}
-{372}{}{Ne. Nemùu to najít.}
+{372}{}{Ne. NemÅ¯Å¾u to najÃ­t.}
 {373}{}{Zastav to!}
 {374}{}{Eh.}
 {375}{}{Ach, ta bolest.}
-{376}{}{*kašlání*}
-{377}{}{Ó, moje hlava!}
-{378}{}{Kde jsou moje zásoby?}
-{400}{}{Démon!}
-{401}{}{Nepøítel jde po nás!}
+{376}{}{*kaÅ¡lÃ¡nÃ­*}
+{377}{}{Ã“, moje hlava!}
+{378}{}{Kde jsou moje zÃ¡soby?}
+{400}{}{DÃ©mon!}
+{401}{}{NepÅ™Ã­tel jde po nÃ¡s!}
 {402}{}{Ty vrahu! Zabil jsi mi syna!}
-{403}{}{Zrùda! Zabte ji!}
-{404}{}{Á! Pargasraka!}
-{405}{}{Ty nohy od krysy chodí! Áááá!}
-{406}{}{To ti jen tak nedám!}
-{407}{}{Vra mi to!}
+{403}{}{ZrÅ¯da! Zabte ji!}
+{404}{}{Ã! Pargasraka!}
+{405}{}{Ty nohy od krysy chodÃ­! ÃÃ¡Ã¡Ã¡!}
+{406}{}{To ti jen tak nedÃ¡m!}
+{407}{}{VraÅ¥ mi to!}
 {408}{}{Ne!!!}
 {409}{}{Moje rodina!}

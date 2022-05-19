@@ -1,28 +1,28 @@
-{100}{}{Vidíš osobu v legraèním pyamu. Vypadá zamyšlenì.}
-{101}{}{Vidíš technika ponorky Shi.}
-{150}{}{Eh, proè se tady plííš?}
-{151}{}{Ty jsi nìjakı špión nebo co?}
-{200}{}{Bıt moje èínština lepší, bylo by to snazší...}
-{201}{}{I/O chyba? Jak mùe mít navádìcí systém I/O chybu!?}
-{202}{}{001100010010011110100001101101110011? Kdepak mám tu tabulku s chybama kódù...}
-{203}{}{Škoda, e u databáze IFF nefunguje. Usnadnilo by mi to spoustu práce.}
-{300}{}{Co chceš, lao wai? Nevidíš, e se snaím pøekonfigurovat navádìcí systémy?}
-{301}{}{Vlastnì to je to, kvùli èemu tu jsem. Mám nové specifikace pro tyhle systémy, schválené Císaøem, eh, osobnì. Mùeš je tam zadat? Vypadáš, e o tomhle subsystému víš nejvíc ze všech.}
-{302}{}{A proto jsem tady. Pomùu ti s pøekonfigurováním systémù. Vypadá to, e se spojení mezi námoøním navigaèním subsystémem a IFF radarovou rušièkou definitivnì odebralo do vìènıch loviš, take to budeme muset nìjak obejít. Nevadí, kdy pomùu?}
-{303}{}{Omlouvám se za obtìování.}
-{310}{}{Á, na tyhle nové specifikace jsem èekal celou vìènost! Škoda, e jsi tu nebyl pøed tıdnem, kdy jsem pracoval na bitevní databázi. Teï to musím znovu otevøít... no nic, takovı u je holt ivot technika.}
-{311}{}{Pøíjemnou zábavu. Podívám se co dalšího potøebuje opravit.}
-{320}{}{Vdy tì ani neznám, lao wai! Klidnì bys mohl bıt nìjakı špion, kterı chce vyøadit ponorku z provozu, aby pak mohl cestovat pøes oceán na neznámá místa, beze strachu z torpéd, které by mohly potopit tvou loï! Jsem si jistı, e by Ken Lee nenechal jen tak nìjakého cizince nastoupit na Shi-Huang-Ti se špatnımi úmysly, take promiò, ale nemùu pøijmout tyhle souøadnice, dokud je nedostanu od našeho vùdce osobnì.}
-{321}{}{No dobøe. Mùu ti aspoò pomoct s konfigurací ponorky? Mám zkušenosti se starımi poèítaèovımi systémy. Dost na to, abych pochopil, proè mùe 200 let starı elektronkovı systém pøestat poslouchat svého pána.}
-{322}{}{Dobøe, omlouvám se za obtìování.}
-{330}{}{Dobøe, mùeš mi pomoct. Tady, zkus to. (Technik Shi ti pøedá vstupní jednotku. Po chvíli seznamování s uivatelskım rozhraním se dáš do práce. Po nìkolika minutách se ti podaøilo nejenom pøekonfigurovat navádìcí parametry, aby ponorka nepotopila tanker, ale také odstranit chybu v systému, která znemoòovala technikùm snadnı pøístup do subsystému.)}
-{331}{}{Tak a hotovo. Systém je opravenı. Odteï by tì to u nemìlo zlobit. Doufám, e ti to pomùe.}
-{340}{}{Díky za pomoc. V dnešní dobì je dost tìké najít dobrého poèítaèového technika.}
-{350}{}{Promiò, ale ne. Ještì nìco pokazíš a my tak ztratíme navádìcí systém nadobro a já rozhodnì nebudu nastavovat cíle torpéd ruènì. Take, jestli pro mì nemáš nìco *dùleitého*, nech mì prosím pracovat.}
-{351}{}{Vlastnì nìco mám. Mám nové navádìcí parametry pro torpéda, schválené Císaøem, eh, osobnì. Jsi místní poèítaèovı guru, take myslím, e ti to mùu svìøit.}
-{352}{}{Omlouvám se za obtìování.}
-{360}{}{Ne, nepotøebuju pomoc ani ádná nová data. Mám tu práci a ty mì od ní zdruješ, take zmiz nebo tì *nechám* zmizet!}
-{361}{}{Omlouvám se za obtìování.}
-{370}{}{Hele, mám tu práci.}
-{371}{}{Promiò, teï pracuju.}
-{400}{}{Podaøilo se ti oklamat technika, aby vyøadil ponorku z provozu.}
+{100}{}{VidÃ­Å¡ osobu v legraÄnÃ­m pyÅ¾amu. VypadÃ¡ zamyÅ¡lenÄ›.}
+{101}{}{VidÃ­Å¡ technika ponorky Shi.}
+{150}{}{Eh, proÄ se tady plÃ­Å¾Ã­Å¡?}
+{151}{}{Ty jsi nÄ›jakÃ½ Å¡piÃ³n nebo co?}
+{200}{}{BÃ½t moje ÄÃ­nÅ¡tina lepÅ¡Ã­, bylo by to snazÅ¡Ã­...}
+{201}{}{I/O chyba? Jak mÅ¯Å¾e mÃ­t navÃ¡dÄ›cÃ­ systÃ©m I/O chybu!?}
+{202}{}{001100010010011110100001101101110011? Kdepak mÃ¡m tu tabulku s chybama kÃ³dÅ¯...}
+{203}{}{Å koda, Å¾e uÅ¾ databÃ¡ze IFF nefunguje. Usnadnilo by mi to spoustu prÃ¡ce.}
+{300}{}{Co chceÅ¡, lao wai? NevidÃ­Å¡, Å¾e se snaÅ¾Ã­m pÅ™ekonfigurovat navÃ¡dÄ›cÃ­ systÃ©my?}
+{301}{}{VlastnÄ› to je to, kvÅ¯li Äemu tu jsem. MÃ¡m novÃ© specifikace pro tyhle systÃ©my, schvÃ¡lenÃ© CÃ­saÅ™em, eh, osobnÄ›. MÅ¯Å¾eÅ¡ je tam zadat? VypadÃ¡Å¡, Å¾e o tomhle subsystÃ©mu vÃ­Å¡ nejvÃ­c ze vÅ¡ech.}
+{302}{}{A proto jsem tady. PomÅ¯Å¾u ti s pÅ™ekonfigurovÃ¡nÃ­m systÃ©mÅ¯. VypadÃ¡ to, Å¾e se spojenÃ­ mezi nÃ¡moÅ™nÃ­m navigaÄnÃ­m subsystÃ©mem a IFF radarovou ruÅ¡iÄkou definitivnÄ› odebralo do vÄ›ÄnÃ½ch loviÅ¡Å¥, takÅ¾e to budeme muset nÄ›jak obejÃ­t. NevadÃ­, kdyÅ¾ pomÅ¯Å¾u?}
+{303}{}{OmlouvÃ¡m se za obtÄ›Å¾ovÃ¡nÃ­.}
+{310}{}{Ã, na tyhle novÃ© specifikace jsem Äekal celou vÄ›Änost! Å koda, Å¾e jsi tu nebyl pÅ™ed tÃ½dnem, kdyÅ¾ jsem pracoval na bitevnÃ­ databÃ¡zi. TeÄ to musÃ­m znovu otevÅ™Ã­t... no nic, takovÃ½ uÅ¾ je holt Å¾ivot technika.}
+{311}{}{PÅ™Ã­jemnou zÃ¡bavu. PodÃ­vÃ¡m se co dalÅ¡Ã­ho potÅ™ebuje opravit.}
+{320}{}{VÅ¾dyÅ¥ tÄ› ani neznÃ¡m, lao wai! KlidnÄ› bys mohl bÃ½t nÄ›jakÃ½ Å¡pion, kterÃ½ chce vyÅ™adit ponorku z provozu, aby pak mohl cestovat pÅ™es oceÃ¡n na neznÃ¡mÃ¡ mÃ­sta, beze strachu z torpÃ©d, kterÃ© by mohly potopit tvou loÄ! Jsem si jistÃ½, Å¾e by Ken Lee nenechal jen tak nÄ›jakÃ©ho cizince nastoupit na Shi-Huang-Ti se Å¡patnÃ½mi Ãºmysly, takÅ¾e promiÅˆ, ale nemÅ¯Å¾u pÅ™ijmout tyhle souÅ™adnice, dokud je nedostanu od naÅ¡eho vÅ¯dce osobnÄ›.}
+{321}{}{No dobÅ™e. MÅ¯Å¾u ti aspoÅˆ pomoct s konfiguracÃ­ ponorky? MÃ¡m zkuÅ¡enosti se starÃ½mi poÄÃ­taÄovÃ½mi systÃ©my. Dost na to, abych pochopil, proÄ mÅ¯Å¾e 200 let starÃ½ elektronkovÃ½ systÃ©m pÅ™estat poslouchat svÃ©ho pÃ¡na.}
+{322}{}{DobÅ™e, omlouvÃ¡m se za obtÄ›Å¾ovÃ¡nÃ­.}
+{330}{}{DobÅ™e, mÅ¯Å¾eÅ¡ mi pomoct. Tady, zkus to. (Technik Shi ti pÅ™edÃ¡ vstupnÃ­ jednotku. Po chvÃ­li seznamovÃ¡nÃ­ s uÅ¾ivatelskÃ½m rozhranÃ­m se dÃ¡Å¡ do prÃ¡ce. Po nÄ›kolika minutÃ¡ch se ti podaÅ™ilo nejenom pÅ™ekonfigurovat navÃ¡dÄ›cÃ­ parametry, aby ponorka nepotopila tanker, ale takÃ© odstranit chybu v systÃ©mu, kterÃ¡ znemoÅ¾Åˆovala technikÅ¯m snadnÃ½ pÅ™Ã­stup do subsystÃ©mu.)}
+{331}{}{Tak a hotovo. SystÃ©m je opravenÃ½. OdteÄ by tÄ› to uÅ¾ nemÄ›lo zlobit. DoufÃ¡m, Å¾e ti to pomÅ¯Å¾e.}
+{340}{}{DÃ­ky za pomoc. V dneÅ¡nÃ­ dobÄ› je dost tÄ›Å¾kÃ© najÃ­t dobrÃ©ho poÄÃ­taÄovÃ©ho technika.}
+{350}{}{PromiÅˆ, ale ne. JeÅ¡tÄ› nÄ›co pokazÃ­Å¡ a my tak ztratÃ­me navÃ¡dÄ›cÃ­ systÃ©m nadobro a jÃ¡ rozhodnÄ› nebudu nastavovat cÃ­le torpÃ©d ruÄnÄ›. TakÅ¾e, jestli pro mÄ› nemÃ¡Å¡ nÄ›co *dÅ¯leÅ¾itÃ©ho*, nech mÄ› prosÃ­m pracovat.}
+{351}{}{VlastnÄ› nÄ›co mÃ¡m. MÃ¡m novÃ© navÃ¡dÄ›cÃ­ parametry pro torpÃ©da, schvÃ¡lenÃ© CÃ­saÅ™em, eh, osobnÄ›. Jsi mÃ­stnÃ­ poÄÃ­taÄovÃ½ guru, takÅ¾e myslÃ­m, Å¾e ti to mÅ¯Å¾u svÄ›Å™it.}
+{352}{}{OmlouvÃ¡m se za obtÄ›Å¾ovÃ¡nÃ­.}
+{360}{}{Ne, nepotÅ™ebuju pomoc ani Å¾Ã¡dnÃ¡ novÃ¡ data. MÃ¡m tu prÃ¡ci a ty mÄ› od nÃ­ zdrÅ¾ujeÅ¡, takÅ¾e zmiz nebo tÄ› *nechÃ¡m* zmizet!}
+{361}{}{OmlouvÃ¡m se za obtÄ›Å¾ovÃ¡nÃ­.}
+{370}{}{Hele, mÃ¡m tu prÃ¡ci.}
+{371}{}{PromiÅˆ, teÄ pracuju.}
+{400}{}{PodaÅ™ilo se ti oklamat technika, aby vyÅ™adil ponorku z provozu.}

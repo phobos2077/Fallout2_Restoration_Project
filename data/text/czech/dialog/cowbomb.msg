@@ -1,1 +1,1 @@
-{100}{}{Tohle místo na tebe pùsobí zvláštním dojmem. Ach... ten okouzlující pach kravského hnoje a masa tiše hnijícího opodál.}
+{100}{}{Tohle mÃ­sto na tebe pÅ¯sobÃ­ zvlÃ¡Å¡tnÃ­m dojmem. Ach... ten okouzlujÃ­cÃ­ pach kravskÃ©ho hnoje a masa tiÅ¡e hnijÃ­cÃ­ho opodÃ¡l.}

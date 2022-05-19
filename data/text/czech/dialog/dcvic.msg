@@ -1,284 +1,284 @@
-{100}{}{Vidíš otroka.}
-{101}{}{Vidíš Vica.}
-{150}{}{Tenhle otrok se zdá bıt pod pøísnım dohledem.}
+{100}{}{VidÃ­Å¡ otroka.}
+{101}{}{VidÃ­Å¡ Vica.}
+{150}{}{Tenhle otrok se zdÃ¡ bÃ½t pod pÅ™Ã­snÃ½m dohledem.}
 {151}{}{Tohle je Vic.}
 {152}{}{[MLUVIT]}
-{153}{}{Mùeš mu øíct, e nemùu... poèkat. Kdo jsi?
- Ty nejsi otrokáø. Co tady dìláš?}
+{153}{}{MÅ¯Å¾eÅ¡ mu Å™Ã­ct, Å¾e nemÅ¯Å¾u... poÄkat. Kdo jsi?
+ Ty nejsi otrokÃ¡Å™. Co tady dÄ›lÃ¡Å¡?}
 {154}{}{Jmenuju se }
-{155}{}{. Chci tì dostat ven.}
+{155}{}{. Chci tÄ› dostat ven.}
 {156}{}{Jsem }
-{157}{}{, ale proè jsi v téhle místnosti zamèenı?}
-{158}{}{Mùeš mi øíct, kde je Vault 13?}
+{157}{}{, ale proÄ jsi v tÃ©hle mÃ­stnosti zamÄenÃ½?}
+{158}{}{MÅ¯Å¾eÅ¡ mi Å™Ã­ct, kde je Vault 13?}
 {159}{}{Jsem }
-{160}{}{. Hned jsem zpìt.}
+{160}{}{. Hned jsem zpÄ›t.}
 {161}{}{Dubba iba }
 {162}{}{.}
-{163}{}{Metzger je na mì poøád naštvanı, i kdy jsem spravil to jeho podìlanı rádio. Vyhrouje, e mì prodá! Udìlám cokoliv budeš chtít, jen kdy mì dostaneš z tıdle šlamastiky.}
-{164}{}{Dobøe, dostanu tì ven.}
-{165}{}{Promiò, ale nemùu. Nashle.}
-{166}{}{Jùù.}
-{167}{}{Zdravím. Tohle podìlanı rádio se samo neopraví.
- Jak to mám asi tak podle nìj udìlat?}
-{168}{}{Kde seenu náhradní díly?}
-{169}{}{Moná to dokáu opravit.}
-{170}{}{Mám tohle rádio. Mùeš ho pouít?}
-{171}{}{Uvidím, co se dá dìlat.}
+{163}{}{Metzger je na mÄ› poÅ™Ã¡d naÅ¡tvanÃ½, i kdyÅ¾ jsem spravil to jeho podÄ›lanÃ½ rÃ¡dio. VyhroÅ¾uje, Å¾e mÄ› prodÃ¡! UdÄ›lÃ¡m cokoliv budeÅ¡ chtÃ­t, jen kdyÅ¾ mÄ› dostaneÅ¡ z tÃ½dle Å¡lamastiky.}
+{164}{}{DobÅ™e, dostanu tÄ› ven.}
+{165}{}{PromiÅˆ, ale nemÅ¯Å¾u. Nashle.}
+{166}{}{JÅ¯Å¯.}
+{167}{}{ZdravÃ­m. Tohle podÄ›lanÃ½ rÃ¡dio se samo neopravÃ­.
+ Jak to mÃ¡m asi tak podle nÄ›j udÄ›lat?}
+{168}{}{Kde seÅ¾enu nÃ¡hradnÃ­ dÃ­ly?}
+{169}{}{MoÅ¾nÃ¡ to dokÃ¡Å¾u opravit.}
+{170}{}{MÃ¡m tohle rÃ¡dio. MÅ¯Å¾eÅ¡ ho pouÅ¾Ã­t?}
+{171}{}{UvidÃ­m, co se dÃ¡ dÄ›lat.}
 {172}{}{Spa pa?}
-{173}{}{Já vím, e to dokáu opravit. Potøebuju jenom nìjakı náhradní díly. V mojí chatì v Klamathu je starı rádio, kterı má v sobì pøesnì to, co potøebuju. Znáš to u bratrù Duntonovıch? Moje chata je... vlastnì byla na vıchod odtamtud.}
-{174}{}{Myslíš tohle rádio?}
-{175}{}{Pùjdu se po nìm podívat.}
-{176}{}{Hmmm... ještì se vrátím.}
-{177}{}{To je skvìlı! Hned to rádio opravím.}
-{178}{}{Dobøe, promluvím si s Metzgerem.}
-{179}{}{Díky.}
+{173}{}{JÃ¡ vÃ­m, Å¾e to dokÃ¡Å¾u opravit. PotÅ™ebuju jenom nÄ›jakÃ½ nÃ¡hradnÃ­ dÃ­ly. V mojÃ­ chatÄ› v Klamathu je starÃ½ rÃ¡dio, kterÃ½ mÃ¡ v sobÄ› pÅ™esnÄ› to, co potÅ™ebuju. ZnÃ¡Å¡ to u bratrÅ¯ DuntonovÃ½ch? Moje chata je... vlastnÄ› byla na vÃ½chod odtamtud.}
+{174}{}{MyslÃ­Å¡ tohle rÃ¡dio?}
+{175}{}{PÅ¯jdu se po nÄ›m podÃ­vat.}
+{176}{}{Hmmm... jeÅ¡tÄ› se vrÃ¡tÃ­m.}
+{177}{}{To je skvÄ›lÃ½! Hned to rÃ¡dio opravÃ­m.}
+{178}{}{DobÅ™e, promluvÃ­m si s Metzgerem.}
+{179}{}{DÃ­ky.}
 {180}{}{Nashle.}
-{181}{}{Coe? Je mi líto, ale nerozumím.}
+{181}{}{CoÅ¾e? Je mi lÃ­to, ale nerozumÃ­m.}
 {182}{}{Hurm.}
-{183}{}{Dìkuju ti! Jsem navìky tvım dluníkem. Jak ti to mùu oplatit?}
-{184}{}{Øekni mi, kde je Vault 13.}
-{186}{}{Pojï se mnou, pomoc se vdy hodí.}
+{183}{}{DÄ›kuju ti! Jsem navÄ›ky tvÃ½m dluÅ¾nÃ­kem. Jak ti to mÅ¯Å¾u oplatit?}
+{184}{}{Å˜ekni mi, kde je Vault 13.}
+{186}{}{PojÄ se mnou, pomoc se vÅ¾dy hodÃ­.}
 {187}{}{To nic nebylo. Sbohem.}
-{188}{}{Bonbón?}
-{189}{}{Vault 13? Na vıchod odtud je Vault City.
- Obèas tam chodím obchodovat.}
-{190}{}{Chceš tam jít se mnou?}
-{191}{}{Dík. Naskle.}
-{192}{}{Jasnì, rád se k tobì pøidám! Tenhle prïola má pøed sebou ještì jedno velkı dobrodruství, tím jsem si jistej! A taky jsem docela dobrej v opravování vìcí, a si Metzger øíká, co chce.}
-{193}{}{Skvìle, mùeme vyrazit.}
-{194}{}{Vítej na palubì.}
-{195}{}{Nevadí.}
-{196}{}{Vic bıt nejlepší kámoš já.}
-{197}{}{Chceš se ke mnì pøidat a pomoct mi pøi hledání?}
-{198}{}{Skvìle! Díky.}
-{203}{}{Vault City je vıchodnì odtud. Ukáu ti to na tı tvı mapì.}
-{204}{}{Díky.}
-{206}{}{Je to pøímo tady. (Ukazuje na mapì.)}
-{220}{}{Zatracenì. To je skoro to samı, jene já potøebuju rádio z mojí chaty v Klamathu. Vím, e má v sobì náhradní díly, kterı potøebuju.}
-{300}{}{Jo, asi ti mùu pomoct, ale nejdøív mì odsud musíš dostat.}
-{301}{}{Jak jsem øekl. Pomùu ti s èím budeš chtít, pokud mì odsud dostaneš.}
-{302}{}{A jak to mám udìlat?}
-{303}{}{Tak to máš smùlu.}
-{304}{}{Dobøe. Uvidím, co se dá dìlat.}
-{350}{}{Myslíš, e mì mùeš pomoct?}
-{351}{}{Metzger mì poøád nechce nechat jít.}
-{352}{}{Tohle u moc dlouho nesnesu.}
-{353}{}{Udìlám pro tebe cokoliv, kdy mi pomùeš.}
-{354}{}{Všechny vıdaje ti zaplatím!}
-{400}{}{Ještì jsi u mì nebyl, e? Já to rádio fakt potøebuju,
- Metzger je na mì èím dál naštvanìjší.}
-{450}{}{Kde jsi pøišel k téhle lahvi na vodu?}
-{451}{}{Mìl jsem láhev na vodu, na které byla velká lutá tøináctka. Vzpomínáš si, kde jsi k ní pøišel?}
-{500}{}{No jasnì, na to si vzpomínám. Koupil jsem ji od Eda. Obchoduje s brahmínama ve Vault City.}
-{501}{}{Lahev na vodu? Jo, poèkat, mìl jsem jich tucty. A dobøe jsem je prodal. Mìl jsem je od Eda.
- Obchoduje s brahmínama ve Vault City.}
+{188}{}{BonbÃ³n?}
+{189}{}{Vault 13? Na vÃ½chod odtud je Vault City.
+ ObÄas tam chodÃ­m obchodovat.}
+{190}{}{ChceÅ¡ tam jÃ­t se mnou?}
+{191}{}{DÃ­k. Naskle.}
+{192}{}{JasnÄ›, rÃ¡d se k tobÄ› pÅ™idÃ¡m! Tenhle prÄola mÃ¡ pÅ™ed sebou jeÅ¡tÄ› jedno velkÃ½ dobrodruÅ¾stvÃ­, tÃ­m jsem si jistej! A taky jsem docela dobrej v opravovÃ¡nÃ­ vÄ›cÃ­, aÅ¥ si Metzger Å™Ã­kÃ¡, co chce.}
+{193}{}{SkvÄ›le, mÅ¯Å¾eme vyrazit.}
+{194}{}{VÃ­tej na palubÄ›.}
+{195}{}{NevadÃ­.}
+{196}{}{Vic bÃ½t nejlepÅ¡Ã­ kÃ¡moÅ¡ jÃ¡.}
+{197}{}{ChceÅ¡ se ke mnÄ› pÅ™idat a pomoct mi pÅ™i hledÃ¡nÃ­?}
+{198}{}{SkvÄ›le! DÃ­ky.}
+{203}{}{Vault City je vÃ½chodnÄ› odtud. UkÃ¡Å¾u ti to na tÃ½ tvÃ½ mapÄ›.}
+{204}{}{DÃ­ky.}
+{206}{}{Je to pÅ™Ã­mo tady. (Ukazuje na mapÄ›.)}
+{220}{}{ZatracenÄ›. To je skoro to samÃ½, jenÅ¾e jÃ¡ potÅ™ebuju rÃ¡dio z mojÃ­ chaty v Klamathu. VÃ­m, Å¾e mÃ¡ v sobÄ› nÃ¡hradnÃ­ dÃ­ly, kterÃ½ potÅ™ebuju.}
+{300}{}{Jo, asi ti mÅ¯Å¾u pomoct, ale nejdÅ™Ã­v mÄ› odsud musÃ­Å¡ dostat.}
+{301}{}{Jak jsem Å™ekl. PomÅ¯Å¾u ti s ÄÃ­m budeÅ¡ chtÃ­t, pokud mÄ› odsud dostaneÅ¡.}
+{302}{}{A jak to mÃ¡m udÄ›lat?}
+{303}{}{Tak to mÃ¡Å¡ smÅ¯lu.}
+{304}{}{DobÅ™e. UvidÃ­m, co se dÃ¡ dÄ›lat.}
+{350}{}{MyslÃ­Å¡, Å¾e mÄ› mÅ¯Å¾eÅ¡ pomoct?}
+{351}{}{Metzger mÄ› poÅ™Ã¡d nechce nechat jÃ­t.}
+{352}{}{Tohle uÅ¾ moc dlouho nesnesu.}
+{353}{}{UdÄ›lÃ¡m pro tebe cokoliv, kdyÅ¾ mi pomÅ¯Å¾eÅ¡.}
+{354}{}{VÅ¡echny vÃ½daje ti zaplatÃ­m!}
+{400}{}{JeÅ¡tÄ› jsi u mÄ› nebyl, Å¾e? JÃ¡ to rÃ¡dio fakt potÅ™ebuju,
+ Metzger je na mÄ› ÄÃ­m dÃ¡l naÅ¡tvanÄ›jÅ¡Ã­.}
+{450}{}{Kde jsi pÅ™iÅ¡el k tÃ©hle lahvi na vodu?}
+{451}{}{MÄ›l jsem lÃ¡hev na vodu, na kterÃ© byla velkÃ¡ Å¾lutÃ¡ tÅ™inÃ¡ctka. VzpomÃ­nÃ¡Å¡ si, kde jsi k nÃ­ pÅ™iÅ¡el?}
+{500}{}{No jasnÄ›, na to si vzpomÃ­nÃ¡m. Koupil jsem ji od Eda. Obchoduje s brahmÃ­nama ve Vault City.}
+{501}{}{Lahev na vodu? Jo, poÄkat, mÄ›l jsem jich tucty. A dobÅ™e jsem je prodal. MÄ›l jsem je od Eda.
+ Obchoduje s brahmÃ­nama ve Vault City.}
 {502}{}{Vault City?}
-{550}{}{Pøestal bys mi øíkat šéfe?}
-{600}{}{No jasnì, veliteli!}
-{601}{}{Myslím to vánì! PØESTAÒ!}
-{602}{}{To bude snad lepší.}
-{650}{}{Máš to mít, paráku!}
+{550}{}{PÅ™estal bys mi Å™Ã­kat Å¡Ã©fe?}
+{600}{}{No jasnÄ›, veliteli!}
+{601}{}{MyslÃ­m to vÃ¡Å¾nÄ›! PÅ˜ESTAÅ‡!}
+{602}{}{To bude snad lepÅ¡Ã­.}
+{650}{}{MÃ¡Å¡ to mÃ­t, parÅ¥Ã¡ku!}
 {651}{}{Uggg!}
-{700}{}{Bıt pøítel já.}
-{710}{}{Øekni mu, e to bez náhradních dílù neopravím. Nevím... poèkat.
- Kdo vlastnì jsi? Nìjakı novı rekrut? Neposlal tì, aby mì zase zmáèknul, e ne?
- To si vùbec nepomùe. Tady to opravit nedokáu.}
-{750}{}{Joo?! Ty mì odsud dostaneš? Udìlám cokoliv, kdy mì vytáhneš z tıhle šlamastiky.
- Jedinı problém je, e mì sem Metzger zamkl, dokud mu nespravím tohle rádio
- a já nemám potøebné náhradní díly.}
-{753}{}{Kde se dají sehnat ty díly, které potøebuješ?}
-{754}{}{Uvidím, co se dá dìlat.}
-{760}{}{To je dlouhı pøíbìh. V podstatì mì tu Metzger drí, dokud mu neopravím tohle podìlanı rádio.
- Krystal vyhoøel a já nemám ádné náhradní díly.
- Jak to mám asi tak podle nìj opravit?}
-{761}{}{No, chci tì odsud dostat ven.}
-{764}{}{Tak to nevím. Zatím.}
-{800}{}{Musím opravit tohle rádio. Kdy mi s tím pomùeš, tak se s ním moná domluvíme.}
-{801}{}{Jak ti mùu pomoct?}
-{803}{}{Tak to pochybuju. Hodnì štìstí.}
-{810}{}{Proè jsi zabil chudinku Mámu... asi jsi pro to mìl dùvod... promiò, šéfe. Nejsem tu od toho, abych se vyptával. Tohle je hodnì blbı mìsto. Jsem si jistej, e udìlala nìco hodnì škaredıho.}
-{811}{}{Hej, šéfe. Dík, e se ti podaøilo mì dostat z tı šlamastiky s Metzgerem. Nepotøebuješ nìco? Máma byla tak hodná, e mi dávala jídlo, kdy jsi byl pryè. Já ji tu pomáhám...}
+{700}{}{BÃ½t pÅ™Ã­tel jÃ¡.}
+{710}{}{Å˜ekni mu, Å¾e to bez nÃ¡hradnÃ­ch dÃ­lÅ¯ neopravÃ­m. NevÃ­m... poÄkat.
+ Kdo vlastnÄ› jsi? NÄ›jakÃ½ novÃ½ rekrut? Neposlal tÄ›, aby mÄ› zase zmÃ¡Äknul, Å¾e ne?
+ To si vÅ¯bec nepomÅ¯Å¾e. Tady to opravit nedokÃ¡Å¾u.}
+{750}{}{Joo?! Ty mÄ› odsud dostaneÅ¡? UdÄ›lÃ¡m cokoliv, kdyÅ¾ mÄ› vytÃ¡hneÅ¡ z tÃ½hle Å¡lamastiky.
+ JedinÃ½ problÃ©m je, Å¾e mÄ› sem Metzger zamkl, dokud mu nespravÃ­m tohle rÃ¡dio
+ a jÃ¡ nemÃ¡m potÅ™ebnÃ© nÃ¡hradnÃ­ dÃ­ly.}
+{753}{}{Kde se dajÃ­ sehnat ty dÃ­ly, kterÃ© potÅ™ebujeÅ¡?}
+{754}{}{UvidÃ­m, co se dÃ¡ dÄ›lat.}
+{760}{}{To je dlouhÃ½ pÅ™Ã­bÄ›h. V podstatÄ› mÄ› tu Metzger drÅ¾Ã­, dokud mu neopravÃ­m tohle podÄ›lanÃ½ rÃ¡dio.
+ Krystal vyhoÅ™el a jÃ¡ nemÃ¡m Å¾Ã¡dnÃ© nÃ¡hradnÃ­ dÃ­ly.
+ Jak to mÃ¡m asi tak podle nÄ›j opravit?}
+{761}{}{No, chci tÄ› odsud dostat ven.}
+{764}{}{Tak to nevÃ­m. ZatÃ­m.}
+{800}{}{MusÃ­m opravit tohle rÃ¡dio. KdyÅ¾ mi s tÃ­m pomÅ¯Å¾eÅ¡, tak se s nÃ­m moÅ¾nÃ¡ domluvÃ­me.}
+{801}{}{Jak ti mÅ¯Å¾u pomoct?}
+{803}{}{Tak to pochybuju. HodnÄ› Å¡tÄ›stÃ­.}
+{810}{}{ProÄ jsi zabil chudinku MÃ¡mu... asi jsi pro to mÄ›l dÅ¯vod... promiÅˆ, Å¡Ã©fe. Nejsem tu od toho, abych se vyptÃ¡val. Tohle je hodnÄ› blbÃ½ mÄ›sto. Jsem si jistej, Å¾e udÄ›lala nÄ›co hodnÄ› Å¡karedÃ½ho.}
+{811}{}{Hej, Å¡Ã©fe. DÃ­k, Å¾e se ti podaÅ™ilo mÄ› dostat z tÃ½ Å¡lamastiky s Metzgerem. NepotÅ™ebujeÅ¡ nÄ›co? MÃ¡ma byla tak hodnÃ¡, Å¾e mi dÃ¡vala jÃ­dlo, kdyÅ¾ jsi byl pryÄ. JÃ¡ ji tu pomÃ¡hÃ¡m...}
 {812}{}{Nashle.}
 {813}{}{Oooh.}
-{814}{}{Èaaauua.}
-{823}{}{Kde e je ten tvùj pøítel Ed?}
-{830}{}{To bych mohl, ale ty prostì nevypadáš dobøe. Byl bych jenom na obtí. Teï, kdy je po Mámì, pùjdu asi pryè. Nevím kam... moná se ještì nìkdy potkáme. Díky za všechno, co jsi pro mì udìlal.}
-{831}{}{To bych mohl, ale ty prostì nevypadáš dobøe. Vypadá to, e se sotva dokáeš postarat sám o sebe. Byl bych jenom na obtí. Prostì zùstanu tady, Mámino vaøení mi pøipomíná moji bıvalou enu...}
-{832}{}{To bych upøímnì mohl. Pro tebe bych udìlal skoro cokoliv. Jen teï prostì nevypadáš, e bys mohl nìkoho vést. Byl bych jenom na obtí. Já teï pùjdu k Mámì, za chvíli... dokud si to nevyøešíš. Její domácí jídlo u jsem dlouho nemìl.}
-{833}{}{Promiò, šéfe. Vypadá to, e u vás je hodnì. Teï, kdy je po Mámì, pùjdu asi pryè. Nevím kam... moná se ještì nìkdy potkáme. Díky za všechno, co jsi pro mì udìlal.}
-{834}{}{Vypadá to, e u vás je hodnì, šéfe. Poèkám tu na tebe, dokud si to nevyøešíš. Mámino vaøení mi pøipomíná moji bıvalou enu... jenom si nejsem jistej, jestli je to dobøe nebo špatnì...}
-{835}{}{To bych hroznì rád, šéfe, ale vypadá to, e u nemáš ádnı místo. Prostì pùjdu k Mámì. U jsem tam dlouho nebyl. Jestli u sebe najdeš místo, tak se pro mì zastav.}
-{840}{}{Ed je ve Vault City. Obchoduje s brahmínami. Byl jedním z mnoha mıch dodavatelù. Vault City odtud není daleko.}
+{814}{}{ÄŒaaauua.}
+{823}{}{Kde Å¾e je ten tvÅ¯j pÅ™Ã­tel Ed?}
+{830}{}{To bych mohl, ale ty prostÄ› nevypadÃ¡Å¡ dobÅ™e. Byl bych jenom na obtÃ­Å¾. TeÄ, kdyÅ¾ je po MÃ¡mÄ›, pÅ¯jdu asi pryÄ. NevÃ­m kam... moÅ¾nÃ¡ se jeÅ¡tÄ› nÄ›kdy potkÃ¡me. DÃ­ky za vÅ¡echno, co jsi pro mÄ› udÄ›lal.}
+{831}{}{To bych mohl, ale ty prostÄ› nevypadÃ¡Å¡ dobÅ™e. VypadÃ¡ to, Å¾e se sotva dokÃ¡Å¾eÅ¡ postarat sÃ¡m o sebe. Byl bych jenom na obtÃ­Å¾. ProstÄ› zÅ¯stanu tady, MÃ¡mino vaÅ™enÃ­ mi pÅ™ipomÃ­nÃ¡ moji bÃ½valou Å¾enu...}
+{832}{}{To bych upÅ™Ã­mnÄ› mohl. Pro tebe bych udÄ›lal skoro cokoliv. Jen teÄ prostÄ› nevypadÃ¡Å¡, Å¾e bys mohl nÄ›koho vÃ©st. Byl bych jenom na obtÃ­Å¾. JÃ¡ teÄ pÅ¯jdu k MÃ¡mÄ›, za chvÃ­li... dokud si to nevyÅ™eÅ¡Ã­Å¡. JejÃ­ domÃ¡cÃ­ jÃ­dlo uÅ¾ jsem dlouho nemÄ›l.}
+{833}{}{PromiÅˆ, Å¡Ã©fe. VypadÃ¡ to, Å¾e uÅ¾ vÃ¡s je hodnÄ›. TeÄ, kdyÅ¾ je po MÃ¡mÄ›, pÅ¯jdu asi pryÄ. NevÃ­m kam... moÅ¾nÃ¡ se jeÅ¡tÄ› nÄ›kdy potkÃ¡me. DÃ­ky za vÅ¡echno, co jsi pro mÄ› udÄ›lal.}
+{834}{}{VypadÃ¡ to, Å¾e uÅ¾ vÃ¡s je hodnÄ›, Å¡Ã©fe. PoÄkÃ¡m tu na tebe, dokud si to nevyÅ™eÅ¡Ã­Å¡. MÃ¡mino vaÅ™enÃ­ mi pÅ™ipomÃ­nÃ¡ moji bÃ½valou Å¾enu... jenom si nejsem jistej, jestli je to dobÅ™e nebo Å¡patnÄ›...}
+{835}{}{To bych hroznÄ› rÃ¡d, Å¡Ã©fe, ale vypadÃ¡ to, Å¾e uÅ¾ nemÃ¡Å¡ Å¾Ã¡dnÃ½ mÃ­sto. ProstÄ› pÅ¯jdu k MÃ¡mÄ›. UÅ¾ jsem tam dlouho nebyl. Jestli u sebe najdeÅ¡ mÃ­sto, tak se pro mÄ› zastav.}
+{840}{}{Ed je ve Vault City. Obchoduje s brahmÃ­nami. Byl jednÃ­m z mnoha mÃ½ch dodavatelÅ¯. Vault City odtud nenÃ­ daleko.}
 {845}{}{I told you, it's over here. [Vic points to a location on your Pip-Boy 2000.]}
-{900}{}{Dozvídáš se o tom, e je Vic obchodník.}
-{1000}{}{Chci se tì na nìco zeptat.}
-{1100}{}{Jsem úplnì vyléèenı, šéfe. Ještì nìco?}
-{1200}{}{Jsem skoro v naprostım poøádku, šéfe.}
-{1300}{}{Jsem víceménì vyléèenı, šéfe, ale u mi bylo líp.}
-{1400}{}{Zkusil jsem to, šéfe, ale necítím se moc dobøe. Ale i tak se budu snait.}
-{1500}{}{Jak myslíš, šéfe.}
-{1501}{}{Tady? Zrovna tady? Fajn, ty jsi tady šéf.}
-{1502}{}{Dobøe. Poèkám tu, dokud se pro mnì nevrátíš, šéfe. Vrátíš se, e jo?}
-{1503}{}{Jak dlouho budeš chtít. Nikam nepùjdu.}
-{1504}{}{Jasnì, šéfe.}
-{1600}{}{Kdy to øíkáš.}
-{1601}{}{Jasnì, šéfe.}
-{1602}{}{Bezva nápad, šéfe.}
-{1603}{}{Jasnì, šéfe. Ještì nìco?}
-{1604}{}{U je pryè, šéfe.}
-{1605}{}{ádnı problém, šéfe.}
-{1606}{}{Hotovo, šéfe.}
-{1700}{}{Jasnì, šéfe.}
-{1701}{}{Budu poblí, šéfe.}
-{1702}{}{Ty to víš nejlíp, šéfe.}
-{1703}{}{Jsem pøímo za tebou, šéfe.}
-{1704}{}{Jako lepidlo, šéfe.}
-{1705}{}{Kdy to øíkáš, šéfe.}
-{1706}{}{Dobøe, šéfe.}
-{1800}{}{Dobøe, budu se dret dál, ale ne moc daleko, šéfe.}
-{1801}{}{Dobøe, nebudu, šéfe.}
-{1802}{}{Budu se dret trochu dál, šéfe.}
-{1803}{}{Jasnì, šéfe.}
-{1900}{}{Jasnì, šéfe. Budu se dret dál.}
-{1901}{}{Cokoliv øekneš, šéfe.}
-{1902}{}{Hotovo, šéfe.}
-{1903}{}{Stojím dál, šéfe.}
-{1904}{}{Trochu ustoupím, šéfe.}
-{1905}{}{Rozptılíme se, šéfe.}
-{1906}{}{Dobøe, šéfe.}
-{2000}{}{Eh, šéfe? Vypadá to, e je vás u moc. Budu tu na tebe èekat.}
-{2100}{}{Ty mì dìsíš, šéfe. Co se ti stalo? Vypadáš... no,
- pøíšernì. Myslím, e tu radši ještì chvíli zùstanu...}
-{2200}{}{To si piš, šéfe!}
-{2201}{}{Tak to kadopádnì, šéfe.}
-{2202}{}{Jasná páka, šéfe.}
-{2203}{}{Vdy pøipraven, šéfe.}
-{2204}{}{Skvìle! Tak pojïme.}
-{2205}{}{Skvìlı!}
-{2206}{}{Jsi nejlepší, šéfe!}
-{2207}{}{Nebudeš litovat. U ádnı chyby!}
-{2208}{}{Neboj, tentokrát si budu dávat pozor!}
-{2209}{}{Vìdìl jsem, e mi odpustíš to... ehm. Take, eh, šéfe... jakı je plán?}
-{2210}{}{Nezklamu tì, šéfe!}
-{2211}{}{Jsi super, šéfe!}
-{2212}{}{Já vìdìl, e na tohle ještì nejsem starej. To byly jenom ošklivı pomluvy! e jo, šéfe?}
-{2300}{}{Od Eda. Oobchoduje s brahmínama ve Vault City. U jsi tam nìkdy byl? Ukáu ti to na tı tvı mapì.}
-{2305}{}{Vault City. Tady. Ukáu ti to na tı tvı parádní mapì.}
-{2310}{}{Mìl by bıt nìkde tady.}
-{2311}{}{Vault City. Mrkni se do tı svojí parádní mapy.}
-{2403}{}{Odkud máš tuhle láhev na vodu?}
-{2404}{}{Zapomeò na to.}
-{2500}{}{Jasnì, šéfe.}
-{2501}{}{Zeptej se mì na cokoliv, šéfe.}
-{2502}{}{Kdy mùu, pomùu, šéfe.}
-{2503}{}{Nejsem v prùseru, e ne šéfe?}
-{2504}{}{Udìlal jsem nìco špatnì, šéfe?}
-{2505}{}{Samozøejmì.}
-{2600}{}{A co teï, šéfe?}
-{2601}{}{Jakı je plán, šéfe?}
-{2602}{}{Snaím se, šéfe.}
-{2603}{}{Co pro tebe mùu udìlat, šéfe?}
-{2604}{}{Zmìna plánu, šéfe?}
-{2605}{}{Jiná strategie, šéfe?}
-{2700}{}{Šéfe, koupil jsem to. Musíš mì dostat k doktorovi. Nevím,
- jestli ti mùu ještì krıt záda.}
-{2701}{}{Potøebuju doktora, šéfe. Jsem na tom fakt blbì. Nevím,
- jestli s tebou mùu ještì bojovat.}
-{2702}{}{Šéfe, jsem na tom fakt blbì. Øekni Lennymu, a se na mì podívá.}
-{2800}{}{Hej, šéfe. Chceš, abych se teï k tobì pøidal?}
-{2801}{}{Hej, šéfe. Nevadí mi èekání. Jsem opravdu trpìlivı èlovìk.}
-{2802}{}{Zase spolu, šéfe? Budu se víc snait.}
-{2803}{}{U jsem se bál, e se nevrátíš. Rád tì zase vidím, šéfe.}
-{2804}{}{Zase sháníš spoleènost?}
-{2805}{}{Pøipraven na cestu, šéfe.}
-{2806}{}{Vìdìl jsem, e mì tu nenecháš.}
-{2807}{}{Potøebuješ nìkoho, kdo ti bude krıt záda?}
-{2808}{}{Potøebuješ nìco opravit, e jo? Jsem tvùj èlovìk, šéfe!}
-{2809}{}{Neboj se, šéfe. Se Sulikem nìjak vyjdeme, vánì.}
-{2810}{}{Pojïme.}
-{2811}{}{Zùstaò tady. Budu hned zpátky.}
-{2812}{}{Já jít.}
-{3100}{}{Coe? Eh... tak dobøe, šéfe. Kdy to øíkáš.}
-{3101}{}{Mùu na sebe natáhnout nìco jinıho, šéfe? Mám trochu obavy.}
-{3102}{}{Dobøe... ale nenecháš mì tu... e ne, šéfe?}
-{3103}{}{Ale... chci øíct... jasnì, šéfe. U si to sundávám.}
-{3200}{}{No, šéfe... s menšíma zbranìma jsem fakt dobrej. Poradím si skoro s kadou puškou, brokovnicí a vìtšinou malıch a støedních pistolí. 'Mùu' pouívat i noe. Taky umím docela dobøe házet, ale moje muška není nejlepší na svìtì... vlastnì je pìknì blbá. Promiò, šéfe. Opravdu se pokouším zlepšit.}
-{3201}{}{Jak jsem øíkal, šéfe, mám radìji menší zbranì. Zvládnu skoro kadou pušku, brokovnici a vìtšinu tìch malıch nebo støedních pistolí. Kdy se dostaneme do úzkıch, mùu zkusit pouít nù nebo dokonce vrhací zbranì.}
-{3300}{}{'Mùu' pouívat noe a taky umím docela dobøe házet, ale... moje muška není nejlepší na svìtì. Vlastnì je pìknì blbá. Promiò, šéfe. Opravdu se pokouším zlepšit.}
-{3301}{}{Jak jsem øíkal, šéfe. Noe a taky umím docela dobøe házet... jenom dost èasto nic netrefím.}
-{3400}{}{U toho mám dost!}
-{3401}{}{Utrhnu ti tu tvoji zatracenou hlavu! Nikdo nebude ubliovat mojí rodinì!}
+{900}{}{DozvÃ­dÃ¡Å¡ se o tom, Å¾e je Vic obchodnÃ­k.}
+{1000}{}{Chci se tÄ› na nÄ›co zeptat.}
+{1100}{}{Jsem ÃºplnÄ› vylÃ©ÄenÃ½, Å¡Ã©fe. JeÅ¡tÄ› nÄ›co?}
+{1200}{}{Jsem skoro v naprostÃ½m poÅ™Ã¡dku, Å¡Ã©fe.}
+{1300}{}{Jsem vÃ­cemÃ©nÄ› vylÃ©ÄenÃ½, Å¡Ã©fe, ale uÅ¾ mi bylo lÃ­p.}
+{1400}{}{Zkusil jsem to, Å¡Ã©fe, ale necÃ­tÃ­m se moc dobÅ™e. Ale i tak se budu snaÅ¾it.}
+{1500}{}{Jak myslÃ­Å¡, Å¡Ã©fe.}
+{1501}{}{Tady? Zrovna tady? Fajn, ty jsi tady Å¡Ã©f.}
+{1502}{}{DobÅ™e. PoÄkÃ¡m tu, dokud se pro mnÄ› nevrÃ¡tÃ­Å¡, Å¡Ã©fe. VrÃ¡tÃ­Å¡ se, Å¾e jo?}
+{1503}{}{Jak dlouho budeÅ¡ chtÃ­t. Nikam nepÅ¯jdu.}
+{1504}{}{JasnÄ›, Å¡Ã©fe.}
+{1600}{}{KdyÅ¾ to Å™Ã­kÃ¡Å¡.}
+{1601}{}{JasnÄ›, Å¡Ã©fe.}
+{1602}{}{Bezva nÃ¡pad, Å¡Ã©fe.}
+{1603}{}{JasnÄ›, Å¡Ã©fe. JeÅ¡tÄ› nÄ›co?}
+{1604}{}{UÅ¾ je pryÄ, Å¡Ã©fe.}
+{1605}{}{Å½Ã¡dnÃ½ problÃ©m, Å¡Ã©fe.}
+{1606}{}{Hotovo, Å¡Ã©fe.}
+{1700}{}{JasnÄ›, Å¡Ã©fe.}
+{1701}{}{Budu poblÃ­Å¾, Å¡Ã©fe.}
+{1702}{}{Ty to vÃ­Å¡ nejlÃ­p, Å¡Ã©fe.}
+{1703}{}{Jsem pÅ™Ã­mo za tebou, Å¡Ã©fe.}
+{1704}{}{Jako lepidlo, Å¡Ã©fe.}
+{1705}{}{KdyÅ¾ to Å™Ã­kÃ¡Å¡, Å¡Ã©fe.}
+{1706}{}{DobÅ™e, Å¡Ã©fe.}
+{1800}{}{DobÅ™e, budu se drÅ¾et dÃ¡l, ale ne moc daleko, Å¡Ã©fe.}
+{1801}{}{DobÅ™e, nebudu, Å¡Ã©fe.}
+{1802}{}{Budu se drÅ¾et trochu dÃ¡l, Å¡Ã©fe.}
+{1803}{}{JasnÄ›, Å¡Ã©fe.}
+{1900}{}{JasnÄ›, Å¡Ã©fe. Budu se drÅ¾et dÃ¡l.}
+{1901}{}{Cokoliv Å™ekneÅ¡, Å¡Ã©fe.}
+{1902}{}{Hotovo, Å¡Ã©fe.}
+{1903}{}{StojÃ­m dÃ¡l, Å¡Ã©fe.}
+{1904}{}{Trochu ustoupÃ­m, Å¡Ã©fe.}
+{1905}{}{RozptÃ½lÃ­me se, Å¡Ã©fe.}
+{1906}{}{DobÅ™e, Å¡Ã©fe.}
+{2000}{}{Eh, Å¡Ã©fe? VypadÃ¡ to, Å¾e je vÃ¡s uÅ¾ moc. Budu tu na tebe Äekat.}
+{2100}{}{Ty mÄ› dÄ›sÃ­Å¡, Å¡Ã©fe. Co se ti stalo? VypadÃ¡Å¡... no,
+ pÅ™Ã­Å¡ernÄ›. MyslÃ­m, Å¾e tu radÅ¡i jeÅ¡tÄ› chvÃ­li zÅ¯stanu...}
+{2200}{}{To si piÅ¡, Å¡Ã©fe!}
+{2201}{}{Tak to kaÅ¾dopÃ¡dnÄ›, Å¡Ã©fe.}
+{2202}{}{JasnÃ¡ pÃ¡ka, Å¡Ã©fe.}
+{2203}{}{VÅ¾dy pÅ™ipraven, Å¡Ã©fe.}
+{2204}{}{SkvÄ›le! Tak pojÄme.}
+{2205}{}{SkvÄ›lÃ½!}
+{2206}{}{Jsi nejlepÅ¡Ã­, Å¡Ã©fe!}
+{2207}{}{NebudeÅ¡ litovat. UÅ¾ Å¾Ã¡dnÃ½ chyby!}
+{2208}{}{Neboj, tentokrÃ¡t si budu dÃ¡vat pozor!}
+{2209}{}{VÄ›dÄ›l jsem, Å¾e mi odpustÃ­Å¡ to... ehm. TakÅ¾e, eh, Å¡Ã©fe... jakÃ½ je plÃ¡n?}
+{2210}{}{Nezklamu tÄ›, Å¡Ã©fe!}
+{2211}{}{Jsi super, Å¡Ã©fe!}
+{2212}{}{JÃ¡ vÄ›dÄ›l, Å¾e na tohle jeÅ¡tÄ› nejsem starej. To byly jenom oÅ¡klivÃ½ pomluvy! Å½e jo, Å¡Ã©fe?}
+{2300}{}{Od Eda. Oobchoduje s brahmÃ­nama ve Vault City. UÅ¾ jsi tam nÄ›kdy byl? UkÃ¡Å¾u ti to na tÃ½ tvÃ½ mapÄ›.}
+{2305}{}{Vault City. Tady. UkÃ¡Å¾u ti to na tÃ½ tvÃ½ parÃ¡dnÃ­ mapÄ›.}
+{2310}{}{MÄ›l by bÃ½t nÄ›kde tady.}
+{2311}{}{Vault City. Mrkni se do tÃ½ svojÃ­ parÃ¡dnÃ­ mapy.}
+{2403}{}{Odkud mÃ¡Å¡ tuhle lÃ¡hev na vodu?}
+{2404}{}{ZapomeÅˆ na to.}
+{2500}{}{JasnÄ›, Å¡Ã©fe.}
+{2501}{}{Zeptej se mÄ› na cokoliv, Å¡Ã©fe.}
+{2502}{}{KdyÅ¾ mÅ¯Å¾u, pomÅ¯Å¾u, Å¡Ã©fe.}
+{2503}{}{Nejsem v prÅ¯seru, Å¾e ne Å¡Ã©fe?}
+{2504}{}{UdÄ›lal jsem nÄ›co Å¡patnÄ›, Å¡Ã©fe?}
+{2505}{}{SamozÅ™ejmÄ›.}
+{2600}{}{A co teÄ, Å¡Ã©fe?}
+{2601}{}{JakÃ½ je plÃ¡n, Å¡Ã©fe?}
+{2602}{}{SnaÅ¾Ã­m se, Å¡Ã©fe.}
+{2603}{}{Co pro tebe mÅ¯Å¾u udÄ›lat, Å¡Ã©fe?}
+{2604}{}{ZmÄ›na plÃ¡nu, Å¡Ã©fe?}
+{2605}{}{JinÃ¡ strategie, Å¡Ã©fe?}
+{2700}{}{Å Ã©fe, koupil jsem to. MusÃ­Å¡ mÄ› dostat k doktorovi. NevÃ­m,
+ jestli ti mÅ¯Å¾u jeÅ¡tÄ› krÃ½t zÃ¡da.}
+{2701}{}{PotÅ™ebuju doktora, Å¡Ã©fe. Jsem na tom fakt blbÄ›. NevÃ­m,
+ jestli s tebou mÅ¯Å¾u jeÅ¡tÄ› bojovat.}
+{2702}{}{Å Ã©fe, jsem na tom fakt blbÄ›. Å˜ekni Lennymu, aÅ¥ se na mÄ› podÃ­vÃ¡.}
+{2800}{}{Hej, Å¡Ã©fe. ChceÅ¡, abych se teÄ k tobÄ› pÅ™idal?}
+{2801}{}{Hej, Å¡Ã©fe. NevadÃ­ mi ÄekÃ¡nÃ­. Jsem opravdu trpÄ›livÃ½ ÄlovÄ›k.}
+{2802}{}{Zase spolu, Å¡Ã©fe? Budu se vÃ­c snaÅ¾it.}
+{2803}{}{UÅ¾ jsem se bÃ¡l, Å¾e se nevrÃ¡tÃ­Å¡. RÃ¡d tÄ› zase vidÃ­m, Å¡Ã©fe.}
+{2804}{}{Zase shÃ¡nÃ­Å¡ spoleÄnost?}
+{2805}{}{PÅ™ipraven na cestu, Å¡Ã©fe.}
+{2806}{}{VÄ›dÄ›l jsem, Å¾e mÄ› tu nenechÃ¡Å¡.}
+{2807}{}{PotÅ™ebujeÅ¡ nÄ›koho, kdo ti bude krÃ½t zÃ¡da?}
+{2808}{}{PotÅ™ebujeÅ¡ nÄ›co opravit, Å¾e jo? Jsem tvÅ¯j ÄlovÄ›k, Å¡Ã©fe!}
+{2809}{}{Neboj se, Å¡Ã©fe. Se Sulikem nÄ›jak vyjdeme, vÃ¡Å¾nÄ›.}
+{2810}{}{PojÄme.}
+{2811}{}{ZÅ¯staÅˆ tady. Budu hned zpÃ¡tky.}
+{2812}{}{JÃ¡ jÃ­t.}
+{3100}{}{CoÅ¾e? Eh... tak dobÅ™e, Å¡Ã©fe. KdyÅ¾ to Å™Ã­kÃ¡Å¡.}
+{3101}{}{MÅ¯Å¾u na sebe natÃ¡hnout nÄ›co jinÃ½ho, Å¡Ã©fe? MÃ¡m trochu obavy.}
+{3102}{}{DobÅ™e... ale nenechÃ¡Å¡ mÄ› tu... Å¾e ne, Å¡Ã©fe?}
+{3103}{}{Ale... chci Å™Ã­ct... jasnÄ›, Å¡Ã©fe. UÅ¾ si to sundÃ¡vÃ¡m.}
+{3200}{}{No, Å¡Ã©fe... s menÅ¡Ã­ma zbranÄ›ma jsem fakt dobrej. PoradÃ­m si skoro s kaÅ¾dou puÅ¡kou, brokovnicÃ­ a vÄ›tÅ¡inou malÃ½ch a stÅ™ednÃ­ch pistolÃ­. 'MÅ¯Å¾u' pouÅ¾Ã­vat i noÅ¾e. Taky umÃ­m docela dobÅ™e hÃ¡zet, ale moje muÅ¡ka nenÃ­ nejlepÅ¡Ã­ na svÄ›tÄ›... vlastnÄ› je pÄ›knÄ› blbÃ¡. PromiÅˆ, Å¡Ã©fe. Opravdu se pokouÅ¡Ã­m zlepÅ¡it.}
+{3201}{}{Jak jsem Å™Ã­kal, Å¡Ã©fe, mÃ¡m radÄ›ji menÅ¡Ã­ zbranÄ›. ZvlÃ¡dnu skoro kaÅ¾dou puÅ¡ku, brokovnici a vÄ›tÅ¡inu tÄ›ch malÃ½ch nebo stÅ™ednÃ­ch pistolÃ­. KdyÅ¾ se dostaneme do ÃºzkÃ½ch, mÅ¯Å¾u zkusit pouÅ¾Ã­t nÅ¯Å¾ nebo dokonce vrhacÃ­ zbranÄ›.}
+{3300}{}{'MÅ¯Å¾u' pouÅ¾Ã­vat noÅ¾e a taky umÃ­m docela dobÅ™e hÃ¡zet, ale... moje muÅ¡ka nenÃ­ nejlepÅ¡Ã­ na svÄ›tÄ›. VlastnÄ› je pÄ›knÄ› blbÃ¡. PromiÅˆ, Å¡Ã©fe. Opravdu se pokouÅ¡Ã­m zlepÅ¡it.}
+{3301}{}{Jak jsem Å™Ã­kal, Å¡Ã©fe. NoÅ¾e a taky umÃ­m docela dobÅ™e hÃ¡zet... jenom dost Äasto nic netrefÃ­m.}
+{3400}{}{UÅ¾ toho mÃ¡m dost!}
+{3401}{}{Utrhnu ti tu tvoji zatracenou hlavu! Nikdo nebude ubliÅ¾ovat mojÃ­ rodinÄ›!}
 {4000}{}{Sem?}
-{4001}{}{Je to lepší, šéfe?}
-{4002}{}{Co tøeba sem?}
-{4003}{}{Ano, šéfe.}
-{4004}{}{Coe?}
+{4001}{}{Je to lepÅ¡Ã­, Å¡Ã©fe?}
+{4002}{}{Co tÅ™eba sem?}
+{4003}{}{Ano, Å¡Ã©fe.}
+{4004}{}{CoÅ¾e?}
 {4005}{}{Kam jdeme?}
-{4006}{}{Odcházíme, šéfe?}
-{4007}{}{U jdu.}
-{4008}{}{Promiò, šéfe.}
-{4009}{}{Lepší?}
+{4006}{}{OdchÃ¡zÃ­me, Å¡Ã©fe?}
+{4007}{}{UÅ¾ jdu.}
+{4008}{}{PromiÅˆ, Å¡Ã©fe.}
+{4009}{}{LepÅ¡Ã­?}
 {4010}{}{Uuuf.}
-{4011}{}{A co tohle, šéfe?}
-{4012}{}{Budu stát tady.}
-{4013}{}{Pøesunu se sem.}
-{4100}{}{Šéfe! Není mi zrovna moc dobøe.}
-{4101}{}{Potøebuju doktora.}
-{4102}{}{Sakra, tohle fakt bolí.}
+{4011}{}{A co tohle, Å¡Ã©fe?}
+{4012}{}{Budu stÃ¡t tady.}
+{4013}{}{PÅ™esunu se sem.}
+{4100}{}{Å Ã©fe! NenÃ­ mi zrovna moc dobÅ™e.}
+{4101}{}{PotÅ™ebuju doktora.}
+{4102}{}{Sakra, tohle fakt bolÃ­.}
 {4103}{}{Au!}
 {4104}{}{Jau.}
 {4105}{}{Hergot.}
 {4106}{}{Doktor?}
-{4107}{}{Drím se... ale jen tak tak.}
-{4200}{}{Nikdy se mi tu nelíbilo.}
-{4201}{}{Proè je tu tak èisto?}
-{4202}{}{Necítíš nìco, šéfe?}
-{4203}{}{Víš, šéfe, myslím, e se sem u nikdy nevrátím. U to tady nemùu nazıvat domovem.}
-{4204}{}{Je to tu špinavìjší, ne si pamatuju.}
-{4205}{}{Nezùstaneme tu dlouho, e ne šéfe?}
-{4206}{}{Tohle místo se nikdy nezmìní.}
-{4207}{}{Šéfe, tohle místo mi nebude chybìt.}
-{4208}{}{Dík e jsi mì dostal ven, šéfe.}
-{4209}{}{Fakt ti dluím, šéfe.}
-{4210}{}{Páni, tady se to ale zmìnilo.}
-{4211}{}{Tady jsem nebyl vìènost.}
-{4212}{}{Sem pùjdu do dùchodu.}
-{4213}{}{Tady bych si mohl otevøít dílnu.}
-{4300}{}{Páni, šálí mì snad zrak? Tohle je... bylo moje místeèko, ale to u myslím víš. e jo, šéfe?}
-{4400}{}{Suliku, nedívej se na mì takhle.}
-{4401}{}{Šéfe, Sulik na mì u zase divnì èumí.}
-{4402}{}{Hodnı pejsek.}
+{4107}{}{DrÅ¾Ã­m se... ale jen tak tak.}
+{4200}{}{Nikdy se mi tu nelÃ­bilo.}
+{4201}{}{ProÄ je tu tak Äisto?}
+{4202}{}{NecÃ­tÃ­Å¡ nÄ›co, Å¡Ã©fe?}
+{4203}{}{VÃ­Å¡, Å¡Ã©fe, myslÃ­m, Å¾e se sem uÅ¾ nikdy nevrÃ¡tÃ­m. UÅ¾ to tady nemÅ¯Å¾u nazÃ½vat domovem.}
+{4204}{}{Je to tu Å¡pinavÄ›jÅ¡Ã­, neÅ¾ si pamatuju.}
+{4205}{}{NezÅ¯staneme tu dlouho, Å¾e ne Å¡Ã©fe?}
+{4206}{}{Tohle mÃ­sto se nikdy nezmÄ›nÃ­.}
+{4207}{}{Å Ã©fe, tohle mÃ­sto mi nebude chybÄ›t.}
+{4208}{}{DÃ­k Å¾e jsi mÄ› dostal ven, Å¡Ã©fe.}
+{4209}{}{Fakt ti dluÅ¾Ã­m, Å¡Ã©fe.}
+{4210}{}{PÃ¡ni, tady se to ale zmÄ›nilo.}
+{4211}{}{Tady jsem nebyl vÄ›Änost.}
+{4212}{}{Sem pÅ¯jdu do dÅ¯chodu.}
+{4213}{}{Tady bych si mohl otevÅ™Ã­t dÃ­lnu.}
+{4300}{}{PÃ¡ni, Å¡Ã¡lÃ­ mÄ› snad zrak? Tohle je... bylo moje mÃ­steÄko, ale to uÅ¾ myslÃ­m vÃ­Å¡. Å½e jo, Å¡Ã©fe?}
+{4400}{}{Suliku, nedÃ­vej se na mÄ› takhle.}
+{4401}{}{Å Ã©fe, Sulik na mÄ› uÅ¾ zase divnÄ› ÄumÃ­.}
+{4402}{}{HodnÃ½ pejsek.}
 {4500}{}{La de da...}
 {4501}{}{Ho hum.}
-{4502}{}{Èekám na šéfa...}
-{4503}{}{Èekám na šéfa.}
-{4504}{}{Prostì èekám.}
-{4505}{}{Šéf by mì tu urèitì nenechal...}
-{4506}{}{uky uk... kdo je tam... poèkat. Jak to jenom bylo...}
-{4507}{}{Poøád èekám.}
-{4508}{}{Co to tu smrdí?}
-{4509}{}{Nepotøebuje tu nìkdo nìco opravit?}
-{4510}{}{Jsem tu a... èekám na šéfa.}
-{4511}{}{Takovı starı mu jako já a mrhá tu svım talentem.}
-{4512}{}{Mít tak kousek vıkaèky... u jsem ji nemìl dlouho.}
-{4513}{}{Mìl bych nechat toho obchodování se staroitnostma... jsou s tím jen problémy.}
-{4514}{}{Proè je èekání tak únavné...}
-{4600}{}{Eh, díky, šéfe.}
-{4601}{}{Díky.}
-{4602}{}{Víš urèitì, co dìláš?}
-{4603}{}{Nemùeme si místo toho prostì odpoèinout?}
-{4604}{}{Nepostavíme tábor?}
-{4605}{}{To jsem na tom fakt tak blbì?}
-{4700}{}{Nepøehánìj to, šéfe.}
-{4701}{}{Kdy na tom trváš, šéfe.}
-{4702}{}{Šéfe, nevybouchne mi hlava, e ne?}
-{4703}{}{Šéfe, zaèíná se mi to líbit.}
-{4704}{}{Cítím se trochu legraènì, šéfe.}
-{4705}{}{Opravdu toho máš tolik, e se mùeš rozdìlit?}
-{4706}{}{Jasnì, šéfe. Nìco si vezmu.}
-{4707}{}{Díky, šéfe.}
-{4708}{}{To není špatnı.}
-{5000}{}{Mám teï trochu hlad. Promluvíme si "U Mámy."}
-{5500}{}{Šéfe, myslím, e mám nìco zlomenıho. Radši se na to podívej.}
-{5501}{}{Šéfe, cítím se, jako kdybych hoøel. Radši se na to podívej.}
-{5502}{}{Šéfe, myslím, e jsem otrávenej. Radši se na to podívej.}
+{4502}{}{ÄŒekÃ¡m na Å¡Ã©fa...}
+{4503}{}{ÄŒekÃ¡m na Å¡Ã©fa.}
+{4504}{}{ProstÄ› ÄekÃ¡m.}
+{4505}{}{Å Ã©f by mÄ› tu urÄitÄ› nenechal...}
+{4506}{}{Å¤uky Å¥uk... kdo je tam... poÄkat. Jak to jenom bylo...}
+{4507}{}{PoÅ™Ã¡d ÄekÃ¡m.}
+{4508}{}{Co to tu smrdÃ­?}
+{4509}{}{NepotÅ™ebuje tu nÄ›kdo nÄ›co opravit?}
+{4510}{}{Jsem tu a... ÄekÃ¡m na Å¡Ã©fa.}
+{4511}{}{TakovÃ½ starÃ½ muÅ¾ jako jÃ¡ a mrhÃ¡ tu svÃ½m talentem.}
+{4512}{}{MÃ­t tak kousek Å¾vÃ½kaÄky... uÅ¾ jsem ji nemÄ›l dlouho.}
+{4513}{}{MÄ›l bych nechat toho obchodovÃ¡nÃ­ se staroÅ¾itnostma... jsou s tÃ­m jen problÃ©my.}
+{4514}{}{ProÄ je ÄekÃ¡nÃ­ tak ÃºnavnÃ©...}
+{4600}{}{Eh, dÃ­ky, Å¡Ã©fe.}
+{4601}{}{DÃ­ky.}
+{4602}{}{VÃ­Å¡ urÄitÄ›, co dÄ›lÃ¡Å¡?}
+{4603}{}{NemÅ¯Å¾eme si mÃ­sto toho prostÄ› odpoÄinout?}
+{4604}{}{NepostavÃ­me tÃ¡bor?}
+{4605}{}{To jsem na tom fakt tak blbÄ›?}
+{4700}{}{NepÅ™ehÃ¡nÄ›j to, Å¡Ã©fe.}
+{4701}{}{KdyÅ¾ na tom trvÃ¡Å¡, Å¡Ã©fe.}
+{4702}{}{Å Ã©fe, nevybouchne mi hlava, Å¾e ne?}
+{4703}{}{Å Ã©fe, zaÄÃ­nÃ¡ se mi to lÃ­bit.}
+{4704}{}{CÃ­tÃ­m se trochu legraÄnÄ›, Å¡Ã©fe.}
+{4705}{}{Opravdu toho mÃ¡Å¡ tolik, Å¾e se mÅ¯Å¾eÅ¡ rozdÄ›lit?}
+{4706}{}{JasnÄ›, Å¡Ã©fe. NÄ›co si vezmu.}
+{4707}{}{DÃ­ky, Å¡Ã©fe.}
+{4708}{}{To nenÃ­ Å¡patnÃ½.}
+{5000}{}{MÃ¡m teÄ trochu hlad. PromluvÃ­me si "U MÃ¡my."}
+{5500}{}{Å Ã©fe, myslÃ­m, Å¾e mÃ¡m nÄ›co zlomenÃ½ho. RadÅ¡i se na to podÃ­vej.}
+{5501}{}{Å Ã©fe, cÃ­tÃ­m se, jako kdybych hoÅ™el. RadÅ¡i se na to podÃ­vej.}
+{5502}{}{Å Ã©fe, myslÃ­m, Å¾e jsem otrÃ¡venej. RadÅ¡i se na to podÃ­vej.}

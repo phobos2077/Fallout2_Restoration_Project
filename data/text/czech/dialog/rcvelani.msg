@@ -1,25 +1,25 @@
-{100}{}{Vidíš obchodníka s mastnım oblièejem.}
-{101}{}{Vidíš Velaniho, Mordinova obchodníka.}
-{102}{}{Vidíš slušnì vypadajícího mue s peèlivì ostøíhanımi nehty.}
-{103}{}{Jsi uboák. Kdybych mìl vìtší svaly, tak bych ti u dávno rozbil hubu za opuštìní mojí karavany. Vypadni odsud.}
-{104}{}{Udìlal jsi velikou chybu, kdy ses pokusil okrást Mordinovic rodinu. Za to zaplatíš... i s úroky. Ale teï se mi kliï z oèí.}
-{105}{}{Já e jsem zlodìj? Tak to si budu pamatovat, ty zatracenej nevdìèníku. Sbohem.}
-{106}{}{To tì bude jednou mrzet. Sbohem.}
-{107}{}{Tak tohle byla opravdu ostudná jízda. Jsem sice rád, e to Savinelli nepøeil, ale nemùu uvìøit, e si myslíš, e za nìco takového dostaneš zaplaceno. Vypadni odsud.}
-{108}{}{Ty jeden proradnej bastarde! To tì bude jednou mrzet. Sbohem.}
-{109}{}{No, nìkdy holt štìstí nepøeje. Jako tøeba v tomhle pøípadì. Sbohem.}
-{110}{}{Buï rád, e ti zaplatím za tu práci - nepráci. Ale jenom $50. A teï odsud vypadni.}
-{111}{}{No, lepší nìco ne nic. Sbohem.}
-{112}{}{Ty jeden proradnej bastarde! Nikdo by neudìlal lepší práci ne já. To tì bude jednou mrzet. Sbohem.}
-{113}{}{Vìtšina karavany to sice pøeila, ale Savinelli ne. Tady máš $100. Bude chvíli trvat, ne seeneme nového správce karavany, take nevím, kdy zase pøíštì vyrazíme.}
-{114}{}{U nikdy nechci strávit tolik èasu pozorováním brahmíních zadkù. Sbohem.}
-{115}{}{To nebylo tak špatné. Uvidíme se pozdìji. Sbohem.}
-{116}{}{To byla dobrá jízda. Mùeš si vzít Savinelliho podíl, co je $150. On u ty peníze potøebovat nebude. Bude chvíli trvat, ne seeneme nového správce karavany, ale a se tak stane, budu pro tebe mít práci.}
-{117}{}{Koneènì potkávám nìkoho, kdo je schopen ocenit moji práci. Uvidíme se pozdìji... moná. Sbohem.}
-{118}{}{Nikdy nepohrdnu penìzi navíc. Díky a sbohem.}
-{119}{}{Savinellimu u to pøed smrtí asi moc nemyslelo, jinak si nedovedu vysvìtlit, proè by najímal takovı idioty, jako jseš ty. Vypadni odsud.}
+{100}{}{VidÃ­Å¡ obchodnÃ­ka s mastnÃ½m obliÄejem.}
+{101}{}{VidÃ­Å¡ Velaniho, Mordinova obchodnÃ­ka.}
+{102}{}{VidÃ­Å¡ sluÅ¡nÄ› vypadajÃ­cÃ­ho muÅ¾e s peÄlivÄ› ostÅ™Ã­hanÃ½mi nehty.}
+{103}{}{Jsi uboÅ¾Ã¡k. Kdybych mÄ›l vÄ›tÅ¡Ã­ svaly, tak bych ti uÅ¾ dÃ¡vno rozbil hubu za opuÅ¡tÄ›nÃ­ mojÃ­ karavany. Vypadni odsud.}
+{104}{}{UdÄ›lal jsi velikou chybu, kdyÅ¾ ses pokusil okrÃ¡st Mordinovic rodinu. Za to zaplatÃ­Å¡... i s Ãºroky. Ale teÄ se mi kliÄ z oÄÃ­.}
+{105}{}{JÃ¡ Å¾e jsem zlodÄ›j? Tak to si budu pamatovat, ty zatracenej nevdÄ›ÄnÃ­ku. Sbohem.}
+{106}{}{To tÄ› bude jednou mrzet. Sbohem.}
+{107}{}{Tak tohle byla opravdu ostudnÃ¡ jÃ­zda. Jsem sice rÃ¡d, Å¾e to Savinelli nepÅ™eÅ¾il, ale nemÅ¯Å¾u uvÄ›Å™it, Å¾e si myslÃ­Å¡, Å¾e za nÄ›co takovÃ©ho dostaneÅ¡ zaplaceno. Vypadni odsud.}
+{108}{}{Ty jeden proradnej bastarde! To tÄ› bude jednou mrzet. Sbohem.}
+{109}{}{No, nÄ›kdy holt Å¡tÄ›stÃ­ nepÅ™eje. Jako tÅ™eba v tomhle pÅ™Ã­padÄ›. Sbohem.}
+{110}{}{BuÄ rÃ¡d, Å¾e ti zaplatÃ­m za tu prÃ¡ci - neprÃ¡ci. Ale jenom $50. A teÄ odsud vypadni.}
+{111}{}{No, lepÅ¡Ã­ nÄ›co neÅ¾ nic. Sbohem.}
+{112}{}{Ty jeden proradnej bastarde! Nikdo by neudÄ›lal lepÅ¡Ã­ prÃ¡ci neÅ¾ jÃ¡. To tÄ› bude jednou mrzet. Sbohem.}
+{113}{}{VÄ›tÅ¡ina karavany to sice pÅ™eÅ¾ila, ale Savinelli ne. Tady mÃ¡Å¡ $100. Bude chvÃ­li trvat, neÅ¾ seÅ¾eneme novÃ©ho sprÃ¡vce karavany, takÅ¾e nevÃ­m, kdy zase pÅ™Ã­Å¡tÄ› vyrazÃ­me.}
+{114}{}{UÅ¾ nikdy nechci strÃ¡vit tolik Äasu pozorovÃ¡nÃ­m brahmÃ­nÃ­ch zadkÅ¯. Sbohem.}
+{115}{}{To nebylo tak Å¡patnÃ©. UvidÃ­me se pozdÄ›ji. Sbohem.}
+{116}{}{To byla dobrÃ¡ jÃ­zda. MÅ¯Å¾eÅ¡ si vzÃ­t Savinelliho podÃ­l, coÅ¾ je $150. On uÅ¾ ty penÃ­ze potÅ™ebovat nebude. Bude chvÃ­li trvat, neÅ¾ seÅ¾eneme novÃ©ho sprÃ¡vce karavany, ale aÅ¾ se tak stane, budu pro tebe mÃ­t prÃ¡ci.}
+{117}{}{KoneÄnÄ› potkÃ¡vÃ¡m nÄ›koho, kdo je schopen ocenit moji prÃ¡ci. UvidÃ­me se pozdÄ›ji... moÅ¾nÃ¡. Sbohem.}
+{118}{}{Nikdy nepohrdnu penÄ›zi navÃ­c. DÃ­ky a sbohem.}
+{119}{}{Savinellimu uÅ¾ to pÅ™ed smrtÃ­ asi moc nemyslelo, jinak si nedovedu vysvÄ›tlit, proÄ by najÃ­mal takovÃ½ idioty, jako jseÅ¡ ty. Vypadni odsud.}
 {120}{}{Ook?}
-{121}{}{Savinelli byl zabit. Do prdele, nemùu tomu uvìøit. Já jsem Velani. Zaplatím ti, co ti dluíme.}
-{122}{}{Eh, díky.}
-{123}{}{Do prdele, poøád nemùu uvìøit, e je Savinelli mrtvı.}
-{200}{}{Vyøídíme si to hned teï. Pøiprav se na smrt, kreténe.}
+{121}{}{Savinelli byl zabit. Do prdele, nemÅ¯Å¾u tomu uvÄ›Å™it. JÃ¡ jsem Velani. ZaplatÃ­m ti, co ti dluÅ¾Ã­me.}
+{122}{}{Eh, dÃ­ky.}
+{123}{}{Do prdele, poÅ™Ã¡d nemÅ¯Å¾u uvÄ›Å™it, Å¾e je Savinelli mrtvÃ½.}
+{200}{}{VyÅ™Ã­dÃ­me si to hned teÄ. PÅ™iprav se na smrt, kretÃ©ne.}

@@ -1,213 +1,213 @@
-{100}{}{Vidíš jedno z Wrightovıch dìtí.}
-{150}{}{Vidíš malé, èernovlasé dítì s hrncem na hlavì. Ukazuje prstem na imaginární agenty Enklávy a dìlá PRÁSK.}
-{151}{}{Vidíš jedno z Wrightovıch dìtí s hrncem na hlavì.}
-{152}{}{Vidíš jedno z Wrightovıch dìtí s hrncem na hlavì. Ukazuje prstem na imaginární agenty Enklávy a dìlá PRÁSK.}
-{200}{}{Vidíš malé, èernovlasé dítì s hrncem na hlavì. }
-{201}{}{Vidíš jedno z Wrightovıch dìtí s hrncem na hlavì. Bzuèí jako vosa. *Bzzzz*}
-{210}{}{Podívej, já jsem potomek Zakladatele! Sláva Vaultu!}
-{211}{}{Chci jít na vıpravu za Vault 13!}
-{212}{}{Prásk, prásk! Chcípnìte, enklávští kreténi!}
-{213}{}{Pozor, támhle jde Enklávák!}
-{214}{}{Bum! Bum! Tu máte, vy enklávští kreténi!}
-{215}{}{To není fér, ty jseš Zakladatel POØÁD!}
-{216}{}{Chceš všechny zabít virem, co? Tak tady máš, pane Prezidente!}
-{217}{}{Tady máš, pane Prezidente!}
-{218}{}{Pøíští hru jsem Zakladatel já!}
-{219}{}{Ne-é! Netrefil ses, ty jeden Prezidenáku!}
-{220}{}{Háhá! Dostal jsem tì! Dostal jsem tì!}
-{221}{}{Právì jsem znièil Enklávu! Buuuuum!}
-{222}{}{Rychle! Všichni do tankeru!}
-{223}{}{Naerte se olova, Enkláváci!}
-{224}{}{Jseš mrtvej, ty jeden Enklávane!}
-{225}{}{Enklávští hajzlové! Ochutnejte moje olovo!}
-{226}{}{Haha, to neplatí! Já mìl na sobì tvrzenou energo zbroj a kulka se ode mì odrazila!}
-{227}{}{Chcípni, Enkláváku!}
-{228}{}{Áááááááááá... dostali mì...}
-{240}{}{Podívej, jsem elezná moucha! Bzzzzzz.}
-{241}{}{Prásk, prásk!}
-{242}{}{Pozor, letí ocelová moucha!}
-{243}{}{Tu máš!}
-{244}{}{To není fér, ty jseš ocelová moucha POØÁD!}
+{100}{}{VidÃ­Å¡ jedno z WrightovÃ½ch dÄ›tÃ­.}
+{150}{}{VidÃ­Å¡ malÃ©, ÄernovlasÃ© dÃ­tÄ› s hrncem na hlavÄ›. Ukazuje prstem na imaginÃ¡rnÃ­ agenty EnklÃ¡vy a dÄ›lÃ¡ PRÃSK.}
+{151}{}{VidÃ­Å¡ jedno z WrightovÃ½ch dÄ›tÃ­ s hrncem na hlavÄ›.}
+{152}{}{VidÃ­Å¡ jedno z WrightovÃ½ch dÄ›tÃ­ s hrncem na hlavÄ›. Ukazuje prstem na imaginÃ¡rnÃ­ agenty EnklÃ¡vy a dÄ›lÃ¡ PRÃSK.}
+{200}{}{VidÃ­Å¡ malÃ©, ÄernovlasÃ© dÃ­tÄ› s hrncem na hlavÄ›. }
+{201}{}{VidÃ­Å¡ jedno z WrightovÃ½ch dÄ›tÃ­ s hrncem na hlavÄ›. BzuÄÃ­ jako vosa. *Bzzzz*}
+{210}{}{PodÃ­vej, jÃ¡ jsem potomek Zakladatele! SlÃ¡va Vaultu!}
+{211}{}{Chci jÃ­t na vÃ½pravu za Vault 13!}
+{212}{}{PrÃ¡sk, prÃ¡sk! ChcÃ­pnÄ›te, enklÃ¡vÅ¡tÃ­ kretÃ©ni!}
+{213}{}{Pozor, tÃ¡mhle jde EnklÃ¡vÃ¡k!}
+{214}{}{Bum! Bum! Tu mÃ¡te, vy enklÃ¡vÅ¡tÃ­ kretÃ©ni!}
+{215}{}{To nenÃ­ fÃ©r, ty jseÅ¡ Zakladatel POÅ˜ÃD!}
+{216}{}{ChceÅ¡ vÅ¡echny zabÃ­t virem, co? Tak tady mÃ¡Å¡, pane Prezidente!}
+{217}{}{Tady mÃ¡Å¡, pane Prezidente!}
+{218}{}{PÅ™Ã­Å¡tÃ­ hru jsem Zakladatel jÃ¡!}
+{219}{}{Ne-Ã©! Netrefil ses, ty jeden PrezidenÅ¥Ã¡ku!}
+{220}{}{HÃ¡hÃ¡! Dostal jsem tÄ›! Dostal jsem tÄ›!}
+{221}{}{PrÃ¡vÄ› jsem zniÄil EnklÃ¡vu! Buuuuum!}
+{222}{}{Rychle! VÅ¡ichni do tankeru!}
+{223}{}{NaÅ¾erte se olova, EnklÃ¡vÃ¡ci!}
+{224}{}{JseÅ¡ mrtvej, ty jeden EnklÃ¡vane!}
+{225}{}{EnklÃ¡vÅ¡tÃ­ hajzlovÃ©! Ochutnejte moje olovo!}
+{226}{}{Haha, to neplatÃ­! JÃ¡ mÄ›l na sobÄ› tvrzenou energo zbroj a kulka se ode mÄ› odrazila!}
+{227}{}{ChcÃ­pni, EnklÃ¡vÃ¡ku!}
+{228}{}{ÃÃ¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡... dostali mÄ›...}
+{240}{}{PodÃ­vej, jsem Å¾eleznÃ¡ moucha! Bzzzzzz.}
+{241}{}{PrÃ¡sk, prÃ¡sk!}
+{242}{}{Pozor, letÃ­ ocelovÃ¡ moucha!}
+{243}{}{Tu mÃ¡Å¡!}
+{244}{}{To nenÃ­ fÃ©r, ty jseÅ¡ ocelovÃ¡ moucha POÅ˜ÃD!}
 {245}{}{Bum, bum!}
-{246}{}{Pøíštì jsem ocelová moucha já!}
-{247}{}{Ne-é! Netrefil ses!}
-{248}{}{Háhá! Dostal jsem tì! Dostal jsem tì!}
+{246}{}{PÅ™Ã­Å¡tÄ› jsem ocelovÃ¡ moucha jÃ¡!}
+{247}{}{Ne-Ã©! Netrefil ses!}
+{248}{}{HÃ¡hÃ¡! Dostal jsem tÄ›! Dostal jsem tÄ›!}
 {249}{}{Bzzzzzzz.}
-{250}{}{Padni, jseš mrtvej!}
-{251}{}{Vuuuum.}
-{252}{}{Naerte se mıho olova!}
-{253}{}{To neplatí, mìl jsem zapnutı silovı pole!}
-{254}{}{Chcípni, Salvatoráku!}
-{255}{}{Áááááááááá... dostali mì...}
-{270}{}{Škoda, e tady není Dogmeat z Falloutu 1.}
-{271}{}{Myslíš, e bude nìkdy Fallout 3? Jestli jo, tak si zamlouvám roli hlavního hrdiny!}
-{272}{}{Fallout 2 vám pøináší písmeno Z.}
-{273}{}{Enkláva mi mùe políbit moji sedmiletou prdel. Takoví kreténi.}
-{274}{}{Enkláváci byli hroznı kreténi, e jo?}
-{275}{}{Bál ses, kdy jsi potkal prezidenta? Mìl velkı tesáky a paøáty?}
-{276}{}{Škoda, e jsem ti nemohl pomoct znièit Enklávu. Já... se jich vùbec nebojím! To teda ne!}
+{250}{}{Padni, jseÅ¡ mrtvej!}
+{251}{}{VÅ¾uuuum.}
+{252}{}{NaÅ¾erte se mÃ½ho olova!}
+{253}{}{To neplatÃ­, mÄ›l jsem zapnutÃ½ silovÃ½ pole!}
+{254}{}{ChcÃ­pni, SalvatorÃ¡ku!}
+{255}{}{ÃÃ¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡... dostali mÄ›...}
+{270}{}{Å koda, Å¾e tady nenÃ­ Dogmeat z Falloutu 1.}
+{271}{}{MyslÃ­Å¡, Å¾e bude nÄ›kdy Fallout 3? Jestli jo, tak si zamlouvÃ¡m roli hlavnÃ­ho hrdiny!}
+{272}{}{Fallout 2 vÃ¡m pÅ™inÃ¡Å¡Ã­ pÃ­smeno Z.}
+{273}{}{EnklÃ¡va mi mÅ¯Å¾e polÃ­bit moji sedmiletou prdel. TakovÃ­ kretÃ©ni.}
+{274}{}{EnklÃ¡vÃ¡ci byli hroznÃ½ kretÃ©ni, Å¾e jo?}
+{275}{}{BÃ¡l ses, kdyÅ¾ jsi potkal prezidenta? MÄ›l velkÃ½ tesÃ¡ky a paÅ™Ã¡ty?}
+{276}{}{Å koda, Å¾e jsem ti nemohl pomoct zniÄit EnklÃ¡vu. JÃ¡... se jich vÅ¯bec nebojÃ­m! To teda ne!}
 {277}{}{Hej! }
 {278}{}{}
-{279}{}{Díky za záchranu, }
-{280}{}{A vyrostu, chci taky zachránit svìt jako ty.}
-{281}{}{Mùu bejt taky hrdina jako ty a vyrostu?}
-{282}{}{Já chci bejt }
-{300}{}{Áááááá! To je eleznej èlovìk! Uteète!}
-{301}{}{To je eleznej èlovìk! Našel nás! Uteète!}
-{302}{}{Promiò! Promiò nám to! Neposílej na nás ocelovou mouchu! Prosím!}
-{310}{}{Radši uteè, ne tì táta uvidí.}
-{311}{}{Radši uteè, ne tì starší brácha uvidí.}
-{312}{}{Jseš zlej èlovìk. Radši odejdi, nebo to na tebe øeknu.}
-{320}{}{(Dítì pøestane dìlat *bzzzzz* a zvedne hrnec z hlavy, aby se na tebe mohlo podívat.)}
-{321}{}{Mùe }
-{322}{}{Prominout. Já myslet e ty hrnec. Pápá.}
-{323}{}{Proè máš na hlavì hrnec?}
-{324}{}{Na co si hraješ?}
-{325}{}{Kde máš rodièe?}
-{326}{}{[Nechat ho, a si hraje]}
-{330}{}{No... dobøe. (Prohlédne si tì od hlavy k patì.) Ale teï budu ocelová moucha já!}
-{331}{}{Dobe malej plecho moucho.}
+{279}{}{DÃ­ky za zÃ¡chranu, }
+{280}{}{AÅ¾ vyrostu, chci taky zachrÃ¡nit svÄ›t jako ty.}
+{281}{}{MÅ¯Å¾u bejt taky hrdina jako ty aÅ¾ vyrostu?}
+{282}{}{JÃ¡ chci bejt }
+{300}{}{ÃÃ¡Ã¡Ã¡Ã¡Ã¡! To je Å¾eleznej ÄlovÄ›k! UteÄte!}
+{301}{}{To je Å¾eleznej ÄlovÄ›k! NaÅ¡el nÃ¡s! UteÄte!}
+{302}{}{PromiÅˆ! PromiÅˆ nÃ¡m to! NeposÃ­lej na nÃ¡s ocelovou mouchu! ProsÃ­m!}
+{310}{}{RadÅ¡i uteÄ, neÅ¾ tÄ› tÃ¡ta uvidÃ­.}
+{311}{}{RadÅ¡i uteÄ, neÅ¾ tÄ› starÅ¡Ã­ brÃ¡cha uvidÃ­.}
+{312}{}{JseÅ¡ zlej ÄlovÄ›k. RadÅ¡i odejdi, nebo to na tebe Å™eknu.}
+{320}{}{(DÃ­tÄ› pÅ™estane dÄ›lat *bzzzzz* a zvedne hrnec z hlavy, aby se na tebe mohlo podÃ­vat.)}
+{321}{}{MÅ¯Å¾e }
+{322}{}{Prominout. JÃ¡ myslet Å¾e ty hrnec. PÃ¡pÃ¡.}
+{323}{}{ProÄ mÃ¡Å¡ na hlavÄ› hrnec?}
+{324}{}{Na co si hrajeÅ¡?}
+{325}{}{Kde mÃ¡Å¡ rodiÄe?}
+{326}{}{[Nechat ho, aÅ¥ si hraje]}
+{330}{}{No... dobÅ™e. (ProhlÃ©dne si tÄ› od hlavy k patÄ›.) Ale teÄ budu ocelovÃ¡ moucha jÃ¡!}
+{331}{}{DobÅ¾e malej plecho moucho.}
 {332}{}{ souhlasit.}
 {333}{}{Jakej mouch?}
 {334}{}{Ne! }
-{335}{}{Óóóóó... co to támhle?}
-{340}{}{(Malı muíèek si nechá hrnec spadnout na hlavu a pokraèuje v dìlání *bzzzz*.)}
-{341}{}{[Utíkat za ním a dìlat taky *bzzzz*]}
+{335}{}{Ã“Ã³Ã³Ã³Ã³... co to tÃ¡mhle?}
+{340}{}{(MalÃ½ muÅ¾Ã­Äek si nechÃ¡ hrnec spadnout na hlavu a pokraÄuje v dÄ›lÃ¡nÃ­ *bzzzz*.)}
+{341}{}{[UtÃ­kat za nÃ­m a dÄ›lat taky *bzzzz*]}
 {342}{}{Odbelhat se.}
-{343}{}{[Odejít]}
-{350}{}{MOUCHA, blbeèku! VIDÌLI jsme ji v poušti! Byla velká jako... (Zhluboka se nadechne.) ...velká jako BARÁK! A uvnitø byli eleznı LIDI!}
+{343}{}{[OdejÃ­t]}
+{350}{}{MOUCHA, blbeÄku! VIDÄšLI jsme ji v pouÅ¡ti! Byla velkÃ¡ jako... (Zhluboka se nadechne.) ...velkÃ¡ jako BARÃK! A uvnitÅ™ byli Å¾eleznÃ½ LIDI!}
 {351}{}{Ne-e.}
-{352}{}{Neøíkat hlupák já.}
-{353}{}{Neøvat. }
-{354}{}{Ty lhát }
-{355}{}{ zabila móc malejch øvanejch lídišek jak ty... ty chtít další bıti?}
+{352}{}{NeÅ™Ã­kat hlupÃ¡k jÃ¡.}
+{353}{}{NeÅ™vat. }
+{354}{}{Ty lhÃ¡t }
+{355}{}{ zabila mÃ³c malejch Å™vanejch lÃ­diÅ¡ek jak ty... ty chtÃ­t dalÅ¡Ã­ bÃ½ti?}
 {356}{}{Odbelhat se.}
-{360}{}{E-HE. Fakt jsme ji vidìli.}
+{360}{}{E-HE. Fakt jsme ji vidÄ›li.}
 {362}{}{E-he, e-he, e-he.}
-{363}{}{Hé-hé-hé-hé.}
-{364}{}{[Odbelhat se a dìlat "e-he" na nìkoho jiného]}
-{370}{}{E-he! Ukáu ti ji! Pár nás tam zase pùjde, a bude POØÁDNÁ tma. }
-{371}{}{E-he! Ukáu ti ji! Pár nás tam dneska v noci pùjde. }
-{372}{}{Chceš jít s náma? (Malı èlovíèek zamhouøí oèima.) Ale musíš bıt moc moc potichu. Fakt moc potichu!}
-{373}{}{Tak dobe. [Jít za ním]}
-{374}{}{Tak dobe, já jít... óóóó, do támhleto písek?}
-{380}{}{Nemám tì rád. Jseš velkej a blbej! (Vyplázne na tebe jazyk.) Vypadni, blbeèku!}
-{381}{}{NEØÍKAT JÁ BLBEC! NEØÍKAT JÁ BLBEC! TY BLBEC TY!}
-{382}{}{Neøvat! Neøvat na }
-{383}{}{[Zadret slzy a utéct]}
-{384}{}{No jak myslíš... a nepøehánìj to s tím Jetem, dítì.}
-{390}{}{(Zamhouøí na tebe oèima.) Dìláš zvuky jako táta a máma, kdy jdou do postele.}
-{391}{}{Kde vidíš mouch? Chtít taky vidìt!}
-{400}{}{Nelu, blbeèku! Pár nás tam zase pùjde, a bude POØÁDNÁ tma! }
-{401}{}{Nelu, blbeèku! Pár nás tam dneska v noci pùjde. }
-{403}{}{NEØÍKAT JÁ BLBEC, TY BLBEC.}
-{404}{}{E-he. [Jít za ním]}
-{405}{}{Tak dobe, já jít... óóóó, do támhleto písek?}
-{410}{}{Pár nás tam zase pùjde, a bude POØÁDNÁ tma! }
-{411}{}{Pár nás tam dneska v noci pùjde. }
-{412}{}{Chceš jít s náma? (Zamhouøí na tebe oèima.) Ale musíš bıt moc moc potichu. Fakt moc potichu!}
-{420}{}{To není hrnec, ty BLBEÈKU! To je moje helma!}
-{421}{}{Eh, no tak promiò, strašlivı bojovníku v helmì.}
-{422}{}{Ještì JEDNOU mi øekni blbeèku, ty jeden malej sráèi, a uvidíme, jak tì ta tvoje 'helma' ochrání pøed pìstí do ksichtu.}
-{423}{}{[Nechat ho, a si hraje s helmou]}
-{430}{}{(Podezøívavì se na tebe podívá.) Co chceš?}
-{432}{}{Zajímalo by mì, na co si hraješ. Vypadá to jako poøádná zábava!}
-{433}{}{Eh... kde máš rodièe?}
+{363}{}{HÃ©-hÃ©-hÃ©-hÃ©.}
+{364}{}{[Odbelhat se a dÄ›lat "e-he" na nÄ›koho jinÃ©ho]}
+{370}{}{E-he! UkÃ¡Å¾u ti ji! PÃ¡r nÃ¡s tam zase pÅ¯jde, aÅ¾ bude POÅ˜ÃDNÃ tma. }
+{371}{}{E-he! UkÃ¡Å¾u ti ji! PÃ¡r nÃ¡s tam dneska v noci pÅ¯jde. }
+{372}{}{ChceÅ¡ jÃ­t s nÃ¡ma? (MalÃ½ ÄlovÃ­Äek zamhouÅ™Ã­ oÄima.) Ale musÃ­Å¡ bÃ½t moc moc potichu. Fakt moc potichu!}
+{373}{}{Tak dobÅ¾e. [JÃ­t za nÃ­m]}
+{374}{}{Tak dobÅ¾e, jÃ¡ jÃ­t... Ã³Ã³Ã³Ã³, do tÃ¡mhleto pÃ­sek?}
+{380}{}{NemÃ¡m tÄ› rÃ¡d. JseÅ¡ velkej a blbej! (VyplÃ¡zne na tebe jazyk.) Vypadni, blbeÄku!}
+{381}{}{NEÅ˜ÃKAT JÃ BLBEC! NEÅ˜ÃKAT JÃ BLBEC! TY BLBEC TY!}
+{382}{}{NeÅ™vat! NeÅ™vat na }
+{383}{}{[ZadrÅ¾et slzy a utÃ©ct]}
+{384}{}{No jak myslÃ­Å¡... a nepÅ™ehÃ¡nÄ›j to s tÃ­m Jetem, dÃ­tÄ›.}
+{390}{}{(ZamhouÅ™Ã­ na tebe oÄima.) DÄ›lÃ¡Å¡ zvuky jako tÃ¡ta a mÃ¡ma, kdyÅ¾ jdou do postele.}
+{391}{}{Kde vidÃ­Å¡ mouch? ChtÃ­t taky vidÄ›t!}
+{400}{}{NelÅ¾u, blbeÄku! PÃ¡r nÃ¡s tam zase pÅ¯jde, aÅ¾ bude POÅ˜ÃDNÃ tma! }
+{401}{}{NelÅ¾u, blbeÄku! PÃ¡r nÃ¡s tam dneska v noci pÅ¯jde. }
+{403}{}{NEÅ˜ÃKAT JÃ BLBEC, TY BLBEC.}
+{404}{}{E-he. [JÃ­t za nÃ­m]}
+{405}{}{Tak dobÅ¾e, jÃ¡ jÃ­t... Ã³Ã³Ã³Ã³, do tÃ¡mhleto pÃ­sek?}
+{410}{}{PÃ¡r nÃ¡s tam zase pÅ¯jde, aÅ¾ bude POÅ˜ÃDNÃ tma! }
+{411}{}{PÃ¡r nÃ¡s tam dneska v noci pÅ¯jde. }
+{412}{}{ChceÅ¡ jÃ­t s nÃ¡ma? (ZamhouÅ™Ã­ na tebe oÄima.) Ale musÃ­Å¡ bÃ½t moc moc potichu. Fakt moc potichu!}
+{420}{}{To nenÃ­ hrnec, ty BLBEÄŒKU! To je moje helma!}
+{421}{}{Eh, no tak promiÅˆ, straÅ¡livÃ½ bojovnÃ­ku v helmÄ›.}
+{422}{}{JeÅ¡tÄ› JEDNOU mi Å™ekni blbeÄku, ty jeden malej srÃ¡Äi, a uvidÃ­me, jak tÄ› ta tvoje 'helma' ochrÃ¡nÃ­ pÅ™ed pÄ›stÃ­ do ksichtu.}
+{423}{}{[Nechat ho, aÅ¥ si hraje s helmou]}
+{430}{}{(PodezÅ™Ã­vavÄ› se na tebe podÃ­vÃ¡.) Co chceÅ¡?}
+{432}{}{ZajÃ­malo by mÄ›, na co si hrajeÅ¡. VypadÃ¡ to jako poÅ™Ã¡dnÃ¡ zÃ¡bava!}
+{433}{}{Eh... kde mÃ¡Å¡ rodiÄe?}
 {434}{}{No nic.}
-{440}{}{(Malı muíèek zbledne, ustoupí nìkolik krokù dozadu a poté se otoèí a uteèe s køikem pryè.)}
-{441}{}{(Dítì zbledne, ustoupí nìkolik krokù dozadu a poté se otoèí a uteèe s køikem pryè.)}
-{442}{}{Héhé... utíkat, malá muíèek! UTÍKAT!}
+{440}{}{(MalÃ½ muÅ¾Ã­Äek zbledne, ustoupÃ­ nÄ›kolik krokÅ¯ dozadu a potÃ© se otoÄÃ­ a uteÄe s kÅ™ikem pryÄ.)}
+{441}{}{(DÃ­tÄ› zbledne, ustoupÃ­ nÄ›kolik krokÅ¯ dozadu a potÃ© se otoÄÃ­ a uteÄe s kÅ™ikem pryÄ.)}
+{442}{}{HÃ©hÃ©... utÃ­kat, malÃ¡ muÅ¾Ã­Äek! UTÃKAT!}
 {443}{}{Parchant jeden malej...}
-{450}{}{Na ocelovou mouchu a vojáky. }
-{451}{}{(Podívá se na tvoje vybavení a všimne si jedné z tvıch pistolí.) Mùu si na chvíli hrát s tvou pistolí?}
-{452}{}{Ne, ne... to je moc nebezpeèná vìc na hraní, mladíku.}
-{453}{}{Ne, ještì by sis vystøelil oko.}
-{454}{}{No jasnì, chlapèe. Tu máš. [Dát mu nenabitou pistoli]}
-{455}{}{No jasnì, chlapèe. Tu máš. [Dát mu nabitou pistoli]}
+{450}{}{Na ocelovou mouchu a vojÃ¡ky. }
+{451}{}{(PodÃ­vÃ¡ se na tvoje vybavenÃ­ a vÅ¡imne si jednÃ© z tvÃ½ch pistolÃ­.) MÅ¯Å¾u si na chvÃ­li hrÃ¡t s tvou pistolÃ­?}
+{452}{}{Ne, ne... to je moc nebezpeÄnÃ¡ vÄ›c na hranÃ­, mladÃ­ku.}
+{453}{}{Ne, jeÅ¡tÄ› by sis vystÅ™elil oko.}
+{454}{}{No jasnÄ›, chlapÄe. Tu mÃ¡Å¡. [DÃ¡t mu nenabitou pistoli]}
+{455}{}{No jasnÄ›, chlapÄe. Tu mÃ¡Å¡. [DÃ¡t mu nabitou pistoli]}
 {456}{}{"Ocelovou mouchu?"}
-{457}{}{Aha. Jenom se tak ptám.}
-{458}{}{Ne... myslím, e radìji pùjdu.}
-{470}{}{(Zírá na tebe.) No ták! Já vím, jak se takovı vìci pouívaj! Jsem pøece Wright! Pùjè mi ji! Prosím!}
-{471}{}{Tak hele: Ve špatnıch rukou je pistole smrtící zbraò. Chci øíct, VDYCKY je to smrtící zbraò, ale ve špatnıch rukou... je, eh... smrtící... moment, radìji zaènu od zaèátku.}
-{472}{}{Víš, kdyby ti rodina dùvìøovala s pistolí, dali by ti jednu. Take na to zapomeò.}
-{473}{}{Pro mì za mì a jsi tøeba nejvìtší kápo rodiny, ale tu zbraò do pazoury prostì nedostaneš.}
-{474}{}{No tak dobøe. [Dát mu nenabitou pistoli]}
-{475}{}{No tak dobøe. [Dát mu nabitou pistoli]}
-{476}{}{Na to zapomeò. Jdi si hrát s ostatníma.}
-{485}{}{Jo, OCELOVOU MOUCHU! Vidìli jsme ji v poušti! Byla velká jako... (Zhluboka se nadechne.) ...velká jako BARÁK! A uvnitø byli eleznı LIDI!}
-{486}{}{Vánì? Páni! Kde jste ji vidìli?}
-{487}{}{Leš!}
-{488}{}{Nevìøím ti. Leš.}
-{489}{}{Nepøehánìj to s tím Jetem, zabije tì to. Mìj se.}
-{490}{}{Vánì? To je úasné. Budu se tam muset nìkdy podívat. Mìj se.}
-{500}{}{V poušti. (Podezøívavì na tebe zamhouøí oèima.) Ale u tam stejnì asi není.}
-{501}{}{Jsi si jistı, e mi to místo nechceš aspoò ukázat?}
-{502}{}{Mùeš mi aspoò ukázat, kde to bylo?}
-{503}{}{Aha, dobøe. Zatím.}
-{510}{}{V poušti. (Opatrnì se rozhlédne a zaène šeptat.) Pár nás tam zase pùjde, a bude POØÁDNÁ tma. }
-{511}{}{V poušti. (Opatrnì se rozhlédne a zaène šeptat.) Pár nás tam dneska v noci pùjde. }
-{513}{}{Tichost sice není moje silná stránka, ale pro tentokrát...}
-{514}{}{Budu tiše jako myška. Veï mì, MacDuffy.}
-{515}{}{Eh, myslím, e u tu 'ocelovou mouchu' neuvidíš. Ve skuteènosti to byl toti vrtulník.}
-{516}{}{Dneska v noci ne, díky. Ráno brzo vstávám.}
-{530}{}{Coe? (Zamraèí se a narovná si hrnec na hlavì.) Co je to... vrtuldíg?}
-{531}{}{To je... létající stroj. Mùe pøeváet lidi a vìci.}
-{532}{}{Vrtulník je nìco jako... asi nejlepší pøirovnání, které by ti mohlo bıt známé, je auto. Vrtulník je nìco jako auto, které je schopné se vznést ze zemì a vznášet se za pouití vertikálnì rotujících listù. Motor helikoptéry otáèí vrtulí tak rychle, e se dokáe udret ve vzduchu. No není to úasné?}
-{533}{}{To nic. Hlavnì u nechoï ven z mìsta, je to nebezpeèné.}
-{540}{}{NELU! Vidìli jsem ji v poušti! (Mrzutì na tebe zírá.)}
-{541}{}{Hmmm. Moná øíkáš PRAVDU. Mùeš mi ukázat, kde jste ji vidìli?}
-{542}{}{Dobøe, vìøím ti. Ukáeš mi, kde to bylo?}
-{543}{}{Dobøe, dobøe. Zapomeò na to. Jdi si hrát dál.}
-{550}{}{NELU! Vidìli jsem ji v poušti! Mùu to dokázat! (Zírá na tebe.) Pár nás tam zase pùjde, a bude POØÁDNÁ tma! }
-{551}{}{NELU! Vidìli jsem ji v poušti! Mùu to dokázat! (Zírá na tebe.) Pár nás tam dneska v noci pùjde. }
-{552}{}{Pojï s náma a já ti to ukáu! (Ušklíbne se.) Teda pokud se NEBOJÍŠ!}
-{556}{}{Ne, díky. Jdi si hrát dál.}
-{560}{}{(Vytáhneš z batohu svoji nejhorší pistoli a dáš ji dítìti. Usmìje se a hned ji zaène obdivovat.) MOJE vlastní pistole! Hustı! }
-{561}{}{A taky vím, kde se k ní daj sehnat náboje!}
-{562}{}{Eh, nemùeš si ji nechat. Jenom ti ji na chvíli pùjèím...}
-{563}{}{Jo, je celá tvoje. A teï mi povìz o té ocelové mouše...}
-{564}{}{Teï je z tebe pravej chlap. Poslyš, co kdybys ji šel ukázat tátovi? A nezapomeò s ní poøád mávat a maèkat tady ten pøepínaè dole.}
-{565}{}{To si piš. Uij si ji. Zatím.}
+{457}{}{Aha. Jenom se tak ptÃ¡m.}
+{458}{}{Ne... myslÃ­m, Å¾e radÄ›ji pÅ¯jdu.}
+{470}{}{(ZÃ­rÃ¡ na tebe.) No tÃ¡k! JÃ¡ vÃ­m, jak se takovÃ½ vÄ›ci pouÅ¾Ã­vaj! Jsem pÅ™ece Wright! PÅ¯jÄ mi ji! ProsÃ­m!}
+{471}{}{Tak hele: Ve Å¡patnÃ½ch rukou je pistole smrtÃ­cÃ­ zbraÅˆ. Chci Å™Ã­ct, VÅ½DYCKY je to smrtÃ­cÃ­ zbraÅˆ, ale ve Å¡patnÃ½ch rukou... je, eh... smrtÃ­cÃ­... moment, radÄ›ji zaÄnu od zaÄÃ¡tku.}
+{472}{}{VÃ­Å¡, kdyby ti rodina dÅ¯vÄ›Å™ovala s pistolÃ­, dali by ti jednu. TakÅ¾e na to zapomeÅˆ.}
+{473}{}{Pro mÄ› za mÄ› aÅ¥ jsi tÅ™eba nejvÄ›tÅ¡Ã­ kÃ¡po rodiny, ale tu zbraÅˆ do pazoury prostÄ› nedostaneÅ¡.}
+{474}{}{No tak dobÅ™e. [DÃ¡t mu nenabitou pistoli]}
+{475}{}{No tak dobÅ™e. [DÃ¡t mu nabitou pistoli]}
+{476}{}{Na to zapomeÅˆ. Jdi si hrÃ¡t s ostatnÃ­ma.}
+{485}{}{Jo, OCELOVOU MOUCHU! VidÄ›li jsme ji v pouÅ¡ti! Byla velkÃ¡ jako... (Zhluboka se nadechne.) ...velkÃ¡ jako BARÃK! A uvnitÅ™ byli Å¾eleznÃ½ LIDI!}
+{486}{}{VÃ¡Å¾nÄ›? PÃ¡ni! Kde jste ji vidÄ›li?}
+{487}{}{LÅ¾eÅ¡!}
+{488}{}{NevÄ›Å™Ã­m ti. LÅ¾eÅ¡.}
+{489}{}{NepÅ™ehÃ¡nÄ›j to s tÃ­m Jetem, zabije tÄ› to. MÄ›j se.}
+{490}{}{VÃ¡Å¾nÄ›? To je ÃºÅ¾asnÃ©. Budu se tam muset nÄ›kdy podÃ­vat. MÄ›j se.}
+{500}{}{V pouÅ¡ti. (PodezÅ™Ã­vavÄ› na tebe zamhouÅ™Ã­ oÄima.) Ale uÅ¾ tam stejnÄ› asi nenÃ­.}
+{501}{}{Jsi si jistÃ½, Å¾e mi to mÃ­sto nechceÅ¡ aspoÅˆ ukÃ¡zat?}
+{502}{}{MÅ¯Å¾eÅ¡ mi aspoÅˆ ukÃ¡zat, kde to bylo?}
+{503}{}{Aha, dobÅ™e. ZatÃ­m.}
+{510}{}{V pouÅ¡ti. (OpatrnÄ› se rozhlÃ©dne a zaÄne Å¡eptat.) PÃ¡r nÃ¡s tam zase pÅ¯jde, aÅ¾ bude POÅ˜ÃDNÃ tma. }
+{511}{}{V pouÅ¡ti. (OpatrnÄ› se rozhlÃ©dne a zaÄne Å¡eptat.) PÃ¡r nÃ¡s tam dneska v noci pÅ¯jde. }
+{513}{}{Tichost sice nenÃ­ moje silnÃ¡ strÃ¡nka, ale pro tentokrÃ¡t...}
+{514}{}{Budu tiÅ¡e jako myÅ¡ka. VeÄ mÄ›, MacDuffy.}
+{515}{}{Eh, myslÃ­m, Å¾e uÅ¾ tu 'ocelovou mouchu' neuvidÃ­Å¡. Ve skuteÄnosti to byl totiÅ¾ vrtulnÃ­k.}
+{516}{}{Dneska v noci ne, dÃ­ky. RÃ¡no brzo vstÃ¡vÃ¡m.}
+{530}{}{CoÅ¾e? (ZamraÄÃ­ se a narovnÃ¡ si hrnec na hlavÄ›.) Co je to... vrtuldÃ­g?}
+{531}{}{To je... lÃ©tajÃ­cÃ­ stroj. MÅ¯Å¾e pÅ™evÃ¡Å¾et lidi a vÄ›ci.}
+{532}{}{VrtulnÃ­k je nÄ›co jako... asi nejlepÅ¡Ã­ pÅ™irovnÃ¡nÃ­, kterÃ© by ti mohlo bÃ½t znÃ¡mÃ©, je auto. VrtulnÃ­k je nÄ›co jako auto, kterÃ© je schopnÃ© se vznÃ©st ze zemÄ› a vznÃ¡Å¡et se za pouÅ¾itÃ­ vertikÃ¡lnÄ› rotujÃ­cÃ­ch listÅ¯. Motor helikoptÃ©ry otÃ¡ÄÃ­ vrtulÃ­ tak rychle, Å¾e se dokÃ¡Å¾e udrÅ¾et ve vzduchu. No nenÃ­ to ÃºÅ¾asnÃ©?}
+{533}{}{To nic. HlavnÄ› uÅ¾ nechoÄ ven z mÄ›sta, je to nebezpeÄnÃ©.}
+{540}{}{NELÅ½U! VidÄ›li jsem ji v pouÅ¡ti! (MrzutÄ› na tebe zÃ­rÃ¡.)}
+{541}{}{Hmmm. MoÅ¾nÃ¡ Å™Ã­kÃ¡Å¡ PRAVDU. MÅ¯Å¾eÅ¡ mi ukÃ¡zat, kde jste ji vidÄ›li?}
+{542}{}{DobÅ™e, vÄ›Å™Ã­m ti. UkÃ¡Å¾eÅ¡ mi, kde to bylo?}
+{543}{}{DobÅ™e, dobÅ™e. ZapomeÅˆ na to. Jdi si hrÃ¡t dÃ¡l.}
+{550}{}{NELÅ½U! VidÄ›li jsem ji v pouÅ¡ti! MÅ¯Å¾u to dokÃ¡zat! (ZÃ­rÃ¡ na tebe.) PÃ¡r nÃ¡s tam zase pÅ¯jde, aÅ¾ bude POÅ˜ÃDNÃ tma! }
+{551}{}{NELÅ½U! VidÄ›li jsem ji v pouÅ¡ti! MÅ¯Å¾u to dokÃ¡zat! (ZÃ­rÃ¡ na tebe.) PÃ¡r nÃ¡s tam dneska v noci pÅ¯jde. }
+{552}{}{PojÄ s nÃ¡ma a jÃ¡ ti to ukÃ¡Å¾u! (UÅ¡klÃ­bne se.) Teda pokud se NEBOJÃÅ !}
+{556}{}{Ne, dÃ­ky. Jdi si hrÃ¡t dÃ¡l.}
+{560}{}{(VytÃ¡hneÅ¡ z batohu svoji nejhorÅ¡Ã­ pistoli a dÃ¡Å¡ ji dÃ­tÄ›ti. UsmÄ›je se a hned ji zaÄne obdivovat.) MOJE vlastnÃ­ pistole! HustÃ½! }
+{561}{}{A taky vÃ­m, kde se k nÃ­ daj sehnat nÃ¡boje!}
+{562}{}{Eh, nemÅ¯Å¾eÅ¡ si ji nechat. Jenom ti ji na chvÃ­li pÅ¯jÄÃ­m...}
+{563}{}{Jo, je celÃ¡ tvoje. A teÄ mi povÄ›z o tÃ© ocelovÃ© mouÅ¡e...}
+{564}{}{TeÄ je z tebe pravej chlap. PoslyÅ¡, co kdybys ji Å¡el ukÃ¡zat tÃ¡tovi? A nezapomeÅˆ s nÃ­ poÅ™Ã¡d mÃ¡vat a maÄkat tady ten pÅ™epÃ­naÄ dole.}
+{565}{}{To si piÅ¡. UÅ¾ij si ji. ZatÃ­m.}
 {570}{}{Ty hajzle! Je moje! Dostal jsem ji od tebe! Je to moje pistole!}
-{571}{}{Naval ji zpátky, ty jeden malej sráèi!}
-{572}{}{Ne, je moje. Kvùli té zbrani teklo opravdu hodnì krve. Mùeš mi ji teda prosííííííííím vrátit?!}
-{573}{}{Do háje, tenhle pitomej postapokalyptickej svìt je fakt hroznej. No tak si s ní jdi teda hrát.}
-{580}{}{Ne-e! (Uteèe pryè i s pistolí.)}
-{581}{}{Pojï zpátky, ty jeden malej sráèi!}
-{590}{}{Tak jo! (Uteèe pryè.)}
-{591}{}{No, bude chvíli trvat, ne tahle zlomyslná finta pøinese svoje ovoce... take radìji na chvíli zmizím.}
-{592}{}{[Klidnì odejít a nevinnì si pøitom hvízdat]}
-{600}{}{(Pokrèí rameny.) Táta je doma a máma v kostele.}
-{603}{}{Aha, dobøe. Díky.}
-{610}{}{(Dítì si narazí hrnec zpátky na hlavu a pokraèuje v lítání po okolí a bzuèení jako hejno èmelákù.)}
-{620}{}{(Dítì pokrèí rameny. Narazí si hrnec zpátky na hlavu a pokraèuje v lítání po okolí a bzuèení jako hejno èmelákù.)}
-{630}{}{(Zatøese hlavou. Nasadí si hrnec a pokraèuje v lítání po okolí a bzuèení jako hejno èmelákù.)}
-{631}{}{Eh, dobøe.}
-{632}{}{Ty jeden malej hajzle... ještì si rozmyslím, jestli tì vùbec zachráním, a budu zachraòovat svìt...}
-{640}{}{(Èekáš, dokud se poøádnì nesetmí...)}
-{641}{}{(Èekáš, dokud se nesetmí...)}
-{642}{}{(...a poté následuješ dìti do pouštì.)}
-{700}{}{JDI ODE MNÌ!}
-{701}{}{Áááá...}
-{702}{}{Pomóc, pomóc!}
-{703}{}{ZLEJ ÈLOVÌK! JDI PRYÈ!}
-{704}{}{JDI ODE MNÌ!}
-{710}{}{Díky za tu parádní zbraò, pane.}
-{711}{}{U jsem ti øíkal, jak moc mám rád tu pistoli, co jsem od tebe dostal?}
-{712}{}{Díky za tu parádní zbraò, paní.}
-{720}{}{Kterej hajzl mi vzal tu pistoli, co mi dal tady ten pán?}
-{721}{}{Kde mám pistoli?}
-{722}{}{Vím, e jsem od tebe dostal pistoli, ale kde sakra je?}
-{723}{}{Kterej hajzl mi vzal tu pistoli, co mi dala tady ta paní?}
-{5277}{}{! Povìz nám pøíbìh o Enklávì! Prosím!}
-{5278}{}{! Jóóóóóó!}
+{571}{}{Naval ji zpÃ¡tky, ty jeden malej srÃ¡Äi!}
+{572}{}{Ne, je moje. KvÅ¯li tÃ© zbrani teklo opravdu hodnÄ› krve. MÅ¯Å¾eÅ¡ mi ji teda prosÃ­Ã­Ã­Ã­Ã­Ã­Ã­Ã­Ã­m vrÃ¡tit?!}
+{573}{}{Do hÃ¡je, tenhle pitomej postapokalyptickej svÄ›t je fakt hroznej. No tak si s nÃ­ jdi teda hrÃ¡t.}
+{580}{}{Ne-e! (UteÄe pryÄ i s pistolÃ­.)}
+{581}{}{PojÄ zpÃ¡tky, ty jeden malej srÃ¡Äi!}
+{590}{}{Tak jo! (UteÄe pryÄ.)}
+{591}{}{No, bude chvÃ­li trvat, neÅ¾ tahle zlomyslnÃ¡ finta pÅ™inese svoje ovoce... takÅ¾e radÄ›ji na chvÃ­li zmizÃ­m.}
+{592}{}{[KlidnÄ› odejÃ­t a nevinnÄ› si pÅ™itom hvÃ­zdat]}
+{600}{}{(PokrÄÃ­ rameny.) TÃ¡ta je doma a mÃ¡ma v kostele.}
+{603}{}{Aha, dobÅ™e. DÃ­ky.}
+{610}{}{(DÃ­tÄ› si narazÃ­ hrnec zpÃ¡tky na hlavu a pokraÄuje v lÃ­tÃ¡nÃ­ po okolÃ­ a bzuÄenÃ­ jako hejno ÄmelÃ¡kÅ¯.)}
+{620}{}{(DÃ­tÄ› pokrÄÃ­ rameny. NarazÃ­ si hrnec zpÃ¡tky na hlavu a pokraÄuje v lÃ­tÃ¡nÃ­ po okolÃ­ a bzuÄenÃ­ jako hejno ÄmelÃ¡kÅ¯.)}
+{630}{}{(ZatÅ™ese hlavou. NasadÃ­ si hrnec a pokraÄuje v lÃ­tÃ¡nÃ­ po okolÃ­ a bzuÄenÃ­ jako hejno ÄmelÃ¡kÅ¯.)}
+{631}{}{Eh, dobÅ™e.}
+{632}{}{Ty jeden malej hajzle... jeÅ¡tÄ› si rozmyslÃ­m, jestli tÄ› vÅ¯bec zachrÃ¡nÃ­m, aÅ¾ budu zachraÅˆovat svÄ›t...}
+{640}{}{(ÄŒekÃ¡Å¡, dokud se poÅ™Ã¡dnÄ› nesetmÃ­...)}
+{641}{}{(ÄŒekÃ¡Å¡, dokud se nesetmÃ­...)}
+{642}{}{(...a potÃ© nÃ¡sledujeÅ¡ dÄ›ti do pouÅ¡tÄ›.)}
+{700}{}{JDI ODE MNÄš!}
+{701}{}{ÃÃ¡Ã¡Ã¡...}
+{702}{}{PomÃ³c, pomÃ³c!}
+{703}{}{ZLEJ ÄŒLOVÄšK! JDI PRYÄŒ!}
+{704}{}{JDI ODE MNÄš!}
+{710}{}{DÃ­ky za tu parÃ¡dnÃ­ zbraÅˆ, pane.}
+{711}{}{UÅ¾ jsem ti Å™Ã­kal, jak moc mÃ¡m rÃ¡d tu pistoli, co jsem od tebe dostal?}
+{712}{}{DÃ­ky za tu parÃ¡dnÃ­ zbraÅˆ, panÃ­.}
+{720}{}{Kterej hajzl mi vzal tu pistoli, co mi dal tady ten pÃ¡n?}
+{721}{}{Kde mÃ¡m pistoli?}
+{722}{}{VÃ­m, Å¾e jsem od tebe dostal pistoli, ale kde sakra je?}
+{723}{}{Kterej hajzl mi vzal tu pistoli, co mi dala tady ta panÃ­?}
+{5277}{}{! PovÄ›z nÃ¡m pÅ™Ã­bÄ›h o EnklÃ¡vÄ›! ProsÃ­m!}
+{5278}{}{! JÃ³Ã³Ã³Ã³Ã³Ã³!}
 {5279}{}{!}
-{5282}{}{ a vyrostu.}
-{5321}{}{ taky hrát?}
-{5334}{}{ chtít bıt mouch!}
-{5353}{}{ nerad gdy nìgdo øvát.}
-{5354}{}{. Ty dìláš SRANDA z }
+{5282}{}{ aÅ¾ vyrostu.}
+{5321}{}{ taky hrÃ¡t?}
+{5334}{}{ chtÃ­t bÃ½t mouch!}
+{5353}{}{ nerad gdyÅ¾ nÄ›gdo Å™vÃ¡t.}
+{5354}{}{. Ty dÄ›lÃ¡Å¡ SRANDA z }
 {5382}{}{! }
 {6354}{}{. }
-{6382}{}{ ROZBÍT!}
-{7354}{}{ nelíbit.}
+{6382}{}{ ROZBÃT!}
+{7354}{}{ nelÃ­bit.}

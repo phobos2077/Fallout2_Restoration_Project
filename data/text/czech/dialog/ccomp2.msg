@@ -1,40 +1,40 @@
-{100}{}{Vidíš technika.}
-{101}{}{Vidíš technika Enklávy.}
-{102}{}{Vidíš osobu v laboratorním plášti. Vypadá sebevìdomì a sebejistì.}
-{103}{}{Ano, vojáku?}
-{104}{}{Co bıt tohle za místo?}
-{105}{}{Tak nashle. U muset jít.}
-{106}{}{Co je tohle za místo?}
-{107}{}{Tak se mìj. Uvidíme se pozdìji.}
-{108}{}{Tohle je poèítaèové centrum. Támhle je hlavní poèítaè, vedle nìj je vstupní terminál a tyhle zaøízení slouí pro ukládání dat z holodiskù. Jsou moderní a nejlepší.}
-{109}{}{Eh. Co ty dìlat?}
-{110}{}{Take co tu dìláš?}
-{111}{}{Jsem hlavní poèítaèovı analytik. Mám na starosti všechno tohle vybavení.}
-{112}{}{Aha. Já pouít poèítaè?}
-{113}{}{Já nechápat nic. Já jít.}
-{114}{}{Poslyš, mùu na minutku k poèítaèi? Víš... trošku si ten systém omrknout.}
-{115}{}{Hezky jsme si popovídali. Uvidíme se pozdìji.}
-{116}{}{No... tohle zaøízení smí pouívat jen vyškolenı personál. Pochop, všechny ty pøístroje jsou hodnì sloité a citlivé.}
-{117}{}{Prosím. Já nic nerozbít.}
-{118}{}{Slibuju ti, e nic nerozbiju.}
-{119}{}{No tak dobøe. Do systému se mùeš pøihlásit támhle z toho terminálu. Ale dávej si pozor, prosím. Pokud tu mašinu poškodíš, tak nás zastøelí oba dva. Jo a pøístupové heslo je 'Snookie.'}
-{120}{}{Promiò, ale to nepøichází v úvahu. Nesmím dovolit nikomu nepovolanému, aby pouíval naše vybavení.}
+{100}{}{VidÃ­Å¡ technika.}
+{101}{}{VidÃ­Å¡ technika EnklÃ¡vy.}
+{102}{}{VidÃ­Å¡ osobu v laboratornÃ­m plÃ¡Å¡ti. VypadÃ¡ sebevÄ›domÄ› a sebejistÄ›.}
+{103}{}{Ano, vojÃ¡ku?}
+{104}{}{Co bÃ½t tohle za mÃ­sto?}
+{105}{}{Tak nashle. UÅ¾ muset jÃ­t.}
+{106}{}{Co je tohle za mÃ­sto?}
+{107}{}{Tak se mÄ›j. UvidÃ­me se pozdÄ›ji.}
+{108}{}{Tohle je poÄÃ­taÄovÃ© centrum. TÃ¡mhle je hlavnÃ­ poÄÃ­taÄ, vedle nÄ›j je vstupnÃ­ terminÃ¡l a tyhle zaÅ™Ã­zenÃ­ slouÅ¾Ã­ pro uklÃ¡dÃ¡nÃ­ dat z holodiskÅ¯. Jsou modernÃ­ a nejlepÅ¡Ã­.}
+{109}{}{Eh. Co ty dÄ›lat?}
+{110}{}{TakÅ¾e co tu dÄ›lÃ¡Å¡?}
+{111}{}{Jsem hlavnÃ­ poÄÃ­taÄovÃ½ analytik. MÃ¡m na starosti vÅ¡echno tohle vybavenÃ­.}
+{112}{}{Aha. JÃ¡ pouÅ¾Ã­t poÄÃ­taÄ?}
+{113}{}{JÃ¡ nechÃ¡pat nic. JÃ¡ jÃ­t.}
+{114}{}{PoslyÅ¡, mÅ¯Å¾u na minutku k poÄÃ­taÄi? VÃ­Å¡... troÅ¡ku si ten systÃ©m omrknout.}
+{115}{}{Hezky jsme si popovÃ­dali. UvidÃ­me se pozdÄ›ji.}
+{116}{}{No... tohle zaÅ™Ã­zenÃ­ smÃ­ pouÅ¾Ã­vat jen vyÅ¡kolenÃ½ personÃ¡l. Pochop, vÅ¡echny ty pÅ™Ã­stroje jsou hodnÄ› sloÅ¾itÃ© a citlivÃ©.}
+{117}{}{ProsÃ­m. JÃ¡ nic nerozbÃ­t.}
+{118}{}{Slibuju ti, Å¾e nic nerozbiju.}
+{119}{}{No tak dobÅ™e. Do systÃ©mu se mÅ¯Å¾eÅ¡ pÅ™ihlÃ¡sit tÃ¡mhle z toho terminÃ¡lu. Ale dÃ¡vej si pozor, prosÃ­m. Pokud tu maÅ¡inu poÅ¡kodÃ­Å¡, tak nÃ¡s zastÅ™elÃ­ oba dva. Jo a pÅ™Ã­stupovÃ© heslo je 'Snookie.'}
+{120}{}{PromiÅˆ, ale to nepÅ™ichÃ¡zÃ­ v Ãºvahu. NesmÃ­m dovolit nikomu nepovolanÃ©mu, aby pouÅ¾Ã­val naÅ¡e vybavenÃ­.}
 {121}{}{Snookie? Co je snookie?}
-{122}{}{Dobøe. Rozumìt.}
-{123}{}{Snookie? Co sakra znamená snookie?}
-{124}{}{Dobøe. Rozumím.}
-{125}{}{'Snookie' je pøezdívka mojí pøítelkynì. Myslím, e je roztomilá. Mimochodem, je to ta dívka venku v hale. Je jednou ze stráí.}
-{126}{}{Dobøe, fajn. Díky.}
-{127}{}{Jo... je opravdu roztomilá. Díky.}
-{128}{}{Kde máš uniformu?}
-{129}{}{Radìji se jdi pøevléct. Zbrojnice je dole v hale nalevo.}
-{130}{}{Pìknì riskuješ, kdy tu takhle pobíháš bez uniformy. Radìji si ji vyfasuj.}
-{131}{}{Kdo k èertu jste? Poplach! Vetøelci!}
+{122}{}{DobÅ™e. RozumÄ›t.}
+{123}{}{Snookie? Co sakra znamenÃ¡ snookie?}
+{124}{}{DobÅ™e. RozumÃ­m.}
+{125}{}{'Snookie' je pÅ™ezdÃ­vka mojÃ­ pÅ™Ã­telkynÄ›. MyslÃ­m, Å¾e je roztomilÃ¡. Mimochodem, je to ta dÃ­vka venku v hale. Je jednou ze strÃ¡Å¾Ã­.}
+{126}{}{DobÅ™e, fajn. DÃ­ky.}
+{127}{}{Jo... je opravdu roztomilÃ¡. DÃ­ky.}
+{128}{}{Kde mÃ¡Å¡ uniformu?}
+{129}{}{RadÄ›ji se jdi pÅ™evlÃ©ct. Zbrojnice je dole v hale nalevo.}
+{130}{}{PÄ›knÄ› riskujeÅ¡, kdyÅ¾ tu takhle pobÃ­hÃ¡Å¡ bez uniformy. RadÄ›ji si ji vyfasuj.}
+{131}{}{Kdo k Äertu jste? Poplach! VetÅ™elci!}
 {132}{}{Byli jsme napadeni! Poplach!}
-{133}{}{Vetøelci! Spuste alarm!}
-{134}{}{Sakra! Rychle zapnìte zálohy.}
-{135}{}{Ukonèete všechny probíhající operace.}
-{136}{}{Spuste ochranu systému a aktivujte všechna bezpeènostní hesla.}
-{137}{}{Já jsem vìdec, ne voják!}
-{138}{}{Tím koncem s laserovou diodou se míøí na nepøítele. A pak se maèká kohoutek.}
-{139}{}{Pomoc! Pomoc! Rychle do poèítaèového centra!}
+{133}{}{VetÅ™elci! SpusÅ¥te alarm!}
+{134}{}{Sakra! Rychle zapnÄ›te zÃ¡lohy.}
+{135}{}{UkonÄete vÅ¡echny probÃ­hajÃ­cÃ­ operace.}
+{136}{}{SpusÅ¥te ochranu systÃ©mu a aktivujte vÅ¡echna bezpeÄnostnÃ­ hesla.}
+{137}{}{JÃ¡ jsem vÄ›dec, ne vojÃ¡k!}
+{138}{}{TÃ­m koncem s laserovou diodou se mÃ­Å™Ã­ na nepÅ™Ã­tele. AÅ¾ pak se maÄkÃ¡ kohoutek.}
+{139}{}{Pomoc! Pomoc! Rychle do poÄÃ­taÄovÃ©ho centra!}

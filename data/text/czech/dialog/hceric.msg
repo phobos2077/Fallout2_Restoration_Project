@@ -1,84 +1,84 @@
-{100}{}{Vidíš zpoceného a umaštìného ghoula.}
-{101}{}{Vidíš Erica.}
-{102}{}{Vidíš zpoceného a umaštìného ghoula. Vypadá dost bídnì.}
-{103}{}{Tohle mìsto nepotøebuje víc smùly. Stejnì tak jako *já*.}
-{104}{}{Tak u pojï dovnitø! A zavøi za sebou dveøe, a sem nevletí mouchy!}
+{100}{}{VidÃ­Å¡ zpocenÃ©ho a umaÅ¡tÄ›nÃ©ho ghoula.}
+{101}{}{VidÃ­Å¡ Erica.}
+{102}{}{VidÃ­Å¡ zpocenÃ©ho a umaÅ¡tÄ›nÃ©ho ghoula. VypadÃ¡ dost bÃ­dnÄ›.}
+{103}{}{Tohle mÄ›sto nepotÅ™ebuje vÃ­c smÅ¯ly. StejnÄ› tak jako *jÃ¡*.}
+{104}{}{Tak uÅ¾ pojÄ dovnitÅ™! A zavÅ™i za sebou dveÅ™e, aÅ¥ sem nevletÃ­ mouchy!}
 {105}{}{Louchy? M-m-m!}
-{106}{}{Dobøe, dobøe, nemusíš køièet.}
-{107}{}{To køièíš na mì?}
-{108}{}{Pustím dovnitø tolik much, kolik budu chtít. Magore.}
-{109}{}{Dobøe. Mìj se.}
-{110}{}{Zavøi dveøe! Prosím! Jdi pryè a všechny ty zatracenı mouchy si vem s sebou!}
+{106}{}{DobÅ™e, dobÅ™e, nemusÃ­Å¡ kÅ™iÄet.}
+{107}{}{To kÅ™iÄÃ­Å¡ na mÄ›?}
+{108}{}{PustÃ­m dovnitÅ™ tolik much, kolik budu chtÃ­t. Magore.}
+{109}{}{DobÅ™e. MÄ›j se.}
+{110}{}{ZavÅ™i dveÅ™e! ProsÃ­m! Jdi pryÄ a vÅ¡echny ty zatracenÃ½ mouchy si vem s sebou!}
 {111}{}{To fajn!}
-{112}{}{Promiò, jsem trochu nervní. Všude tolik zatracenejch much a klimatizace je nefunkèní. Kdybych mìl jen o trochu víc proudu, tak je odeenu... ale nemám.}
+{112}{}{PromiÅˆ, jsem trochu nervnÃ­. VÅ¡ude tolik zatracenejch much a klimatizace je nefunkÄnÃ­. Kdybych mÄ›l jen o trochu vÃ­c proudu, tak je odeÅ¾enu... ale nemÃ¡m.}
 {113}{}{Kdo jsi?}
-{114}{}{Odkud bereš energii?}
-{115}{}{Proè je tady tolik much?}
-{116}{}{Víš, moná by ses mìl zkusit vykoupat.}
-{117}{}{Holt smùla, pøíteli. Mìj se.}
-{118}{}{Hmm, to máš blbı. Mìj se.}
-{119}{}{Pøívod energie do mìsta øídí rozvodná stanice s generátorem v Centru. Co takhle tam zajít a získat povolení k vìtšímu odbìru energie pro moji klimatizaci? Byl bych ti fakt vdìènej.}
-{120}{}{Jak moc vdìènı? Hotovost nebo vıbava?}
-{121}{}{Jo, udìlám to pro tebe.}
-{122}{}{Nemám èas, moná pozdìji.}
-{123}{}{Zbláznil ses? V ádném pøípadì. Tøeba se ti udìlá a tak hroznì, e chcípneš. Prokázal bys tím svìtu laskavost.}
-{124}{}{Lítají sem, protoe z nìjakıho zvláštního dùvodu vyluèuju iviny pro mouchy. Celı moje tìlo je pro nì pochoutka a to pocení to ještì zhoršuje.}
-{125}{}{To je pìknì hnusné. Proè se nevykoupeš nebo tak nìco?}
-{126}{}{V tom pøípadì ti prokáu laskavost, kdy tì zabiju.}
-{127}{}{Aha. To bude urèitì všechno. Sbohem.}
-{128}{}{To jsem zkoušel. Zkusil jsem všechno. Jediná vìc, která mi od much pomáhá, je nebıt zpocenej... jene kdy nemám energii pro klimatizaci, tak to nejde.}
-{129}{}{Chápu. Mám další otázky.}
+{114}{}{Odkud bereÅ¡ energii?}
+{115}{}{ProÄ je tady tolik much?}
+{116}{}{VÃ­Å¡, moÅ¾nÃ¡ by ses mÄ›l zkusit vykoupat.}
+{117}{}{Holt smÅ¯la, pÅ™Ã­teli. MÄ›j se.}
+{118}{}{Hmm, to mÃ¡Å¡ blbÃ½. MÄ›j se.}
+{119}{}{PÅ™Ã­vod energie do mÄ›sta Å™Ã­dÃ­ rozvodnÃ¡ stanice s generÃ¡torem v Centru. Co takhle tam zajÃ­t a zÃ­skat povolenÃ­ k vÄ›tÅ¡Ã­mu odbÄ›ru energie pro moji klimatizaci? Byl bych ti fakt vdÄ›Änej.}
+{120}{}{Jak moc vdÄ›ÄnÃ½? Hotovost nebo vÃ½bava?}
+{121}{}{Jo, udÄ›lÃ¡m to pro tebe.}
+{122}{}{NemÃ¡m Äas, moÅ¾nÃ¡ pozdÄ›ji.}
+{123}{}{ZblÃ¡znil ses? V Å¾Ã¡dnÃ©m pÅ™Ã­padÄ›. TÅ™eba se ti udÄ›lÃ¡ aÅ¾ tak hroznÄ›, Å¾e chcÃ­pneÅ¡. ProkÃ¡zal bys tÃ­m svÄ›tu laskavost.}
+{124}{}{LÃ­tajÃ­ sem, protoÅ¾e z nÄ›jakÃ½ho zvlÃ¡Å¡tnÃ­ho dÅ¯vodu vyluÄuju Å¾iviny pro mouchy. CelÃ½ moje tÄ›lo je pro nÄ› pochoutka a to pocenÃ­ to jeÅ¡tÄ› zhorÅ¡uje.}
+{125}{}{To je pÄ›knÄ› hnusnÃ©. ProÄ se nevykoupeÅ¡ nebo tak nÄ›co?}
+{126}{}{V tom pÅ™Ã­padÄ› ti prokÃ¡Å¾u laskavost, kdyÅ¾ tÄ› zabiju.}
+{127}{}{Aha. To bude urÄitÄ› vÅ¡echno. Sbohem.}
+{128}{}{To jsem zkouÅ¡el. Zkusil jsem vÅ¡echno. JedinÃ¡ vÄ›c, kterÃ¡ mi od much pomÃ¡hÃ¡, je nebÃ½t zpocenej... jenÅ¾e kdyÅ¾ nemÃ¡m energii pro klimatizaci, tak to nejde.}
+{129}{}{ChÃ¡pu. MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
 {130}{}{Aha. Sbohem.}
 {131}{}{Ano?}
-{132}{}{Brian øíkal, e u takhle je odbìr energie na hranì, take o nìjakém zvyšování nemùe bıt ani øeè.}
+{132}{}{Brian Å™Ã­kal, Å¾e uÅ¾ takhle je odbÄ›r energie na hranÄ›, takÅ¾e o nÄ›jakÃ©m zvyÅ¡ovÃ¡nÃ­ nemÅ¯Å¾e bÃ½t ani Å™eÄ.}
 {133}{}{Odkud se ty mouchy berou?}
 {134}{}{Zkusil ses vykoupat?}
 {135}{}{Kde je ta rozvodna?}
 {136}{}{Kdo jsi?}
-{137}{}{U je tady mnohem lépe, e?}
-{138}{}{ádnı. Zapomeò na to.}
-{139}{}{Kdy to udìláš, nìco pro tebe najdu. Nemùu slíbit moc, ale taky toho po tobì tolik nechci.}
-{140}{}{Dohodnuto, ale mìj pøipravené ty peníze, a to bude hotové.}
-{141}{}{Udìlám to zadarmo. Nic nechci.}
-{142}{}{Zapomeò na to. Neudìlám to.}
-{143}{}{Musím si to rozmyslet.}
-{144}{}{Ani nevíš, jak jsem ti vdìènej. Dej mi prosím okamitì vìdìt, a budu moct zapnout klimatizaci a vykoupat se.}
-{145}{}{To udìlám, ale mám ještì nìjaké otázky.}
-{146}{}{To udìlám. Zatím.}
-{147}{}{Moc s tím prosím neotálej... ty mouchy mì u fakt štvou.}
-{148}{}{Jistì, ale mám ještì nìjaké otázky.}
-{149}{}{Jistì, dám ti vìdìt.}
-{150}{}{Díky moc, e se mnou soucítíš. To byl mimochodem sarkasmus, jestli ti to náhodou nedošlo. Vypadni z mıho domu.}
-{151}{}{Co kdybys šel k èertu a chcípl?}
-{152}{}{Mìj se, blbeèku!}
-{153}{}{Kdy vstoupíš do Broken Hills z pustiny, tak rozvodná stanice s generátorem je po tvé levé ruce. Øídí to tam chlápek jménem Brian a je to pìknì línej zkurvysyn, kterej se poøád fláká.}
-{154}{}{To vypadá na poøádnou práci. Díky. Mám ještì nìjaké otázky.}
-{155}{}{Aha. To bude prozatím všechno.}
-{156}{}{Jsem Eric. Mìl jsem tu ve mìstì hotel, ale prodal jsem ho kvùli problému s mouchama. Taky jsem mìl hospodu, ale musel jsem se ji zbavit ze stejnıho dùvodu. A nakonec jsem provozoval generátor, ale tam se mouchy taky dostaly.}
-{157}{}{Pìkná kopa práce. Mám ještì nìjaké otázky.}
-{158}{}{Aha. Mìj se!}
-{159}{}{To e øekl, jo? No, tak mu øekni, e je generátor pohánìnej uranem a to minimum potøebnı energie nepùjde vùbec poznat. A øekni mu, e trvám na svım!}
-{160}{}{To udìlám! Dobrá øeè!}
-{161}{}{Vyøídím. Mám ještì nìjaké otázky.}
-{162}{}{Jistì. Nashle.}
-{163}{}{Vyøízeno? Mockrát dìkuju, fakt. Ani nevím, jak ti podìkovat.}
-{164}{}{Obvyklı zpùsob vyjádøení díkù vede pøes penìenku nebo vıbavu.}
-{165}{}{Ani nemusíš. Staèí mi tvoje díky.}
-{166}{}{Mutant Francis má energo pìst. Poøád ji sází v páce. Problém je v tom, e je strašnì silnej. Jestli máš zájem, mùu ti dát pár pilulek, kterı tì trochu zvıhodnìj.}
-{167}{}{Jasnì.}
-{168}{}{Chci radìji peníze, pokud nìjaké máš.}
-{169}{}{Nechci odmìnu.}
-{170}{}{Tìmhle pilulkám se øíká Buffout. Zvıšej ti sílu, ale za cenu oslabení mysli. Neber si jich moc, jinak dostaneš závislost. Hodnì štìstí!}
-{171}{}{Díky! Mìj se!}
-{172}{}{Mùeš mi pomoct s tìma mouchama? Odvdìèím se ti.}
-{173}{}{Jak moc se mi odvdìèíš?}
-{174}{}{Jasnì.}
-{175}{}{Musím si to rozmyslet.}
-{176}{}{V ádném pøípadì.}
-{177}{}{Tady máš všechny moje prachy... $150. Díky.}
-{178}{}{Ne, já díky. Mìj se.}
-{179}{}{Jsem ti moc vdìènej. Jo... a slyšel jsem, e hledáš GECK. Zkus se zeptat v NCR, je to na jihu.}
+{137}{}{UÅ¾ je tady mnohem lÃ©pe, Å¾e?}
+{138}{}{Å½Ã¡dnÃ½. ZapomeÅˆ na to.}
+{139}{}{KdyÅ¾ to udÄ›lÃ¡Å¡, nÄ›co pro tebe najdu. NemÅ¯Å¾u slÃ­bit moc, ale taky toho po tobÄ› tolik nechci.}
+{140}{}{Dohodnuto, ale mÄ›j pÅ™ipravenÃ© ty penÃ­ze, aÅ¾ to bude hotovÃ©.}
+{141}{}{UdÄ›lÃ¡m to zadarmo. Nic nechci.}
+{142}{}{ZapomeÅˆ na to. NeudÄ›lÃ¡m to.}
+{143}{}{MusÃ­m si to rozmyslet.}
+{144}{}{Ani nevÃ­Å¡, jak jsem ti vdÄ›Änej. Dej mi prosÃ­m okamÅ¾itÄ› vÄ›dÄ›t, aÅ¾ budu moct zapnout klimatizaci a vykoupat se.}
+{145}{}{To udÄ›lÃ¡m, ale mÃ¡m jeÅ¡tÄ› nÄ›jakÃ© otÃ¡zky.}
+{146}{}{To udÄ›lÃ¡m. ZatÃ­m.}
+{147}{}{Moc s tÃ­m prosÃ­m neotÃ¡lej... ty mouchy mÄ› uÅ¾ fakt Å¡tvou.}
+{148}{}{JistÄ›, ale mÃ¡m jeÅ¡tÄ› nÄ›jakÃ© otÃ¡zky.}
+{149}{}{JistÄ›, dÃ¡m ti vÄ›dÄ›t.}
+{150}{}{DÃ­ky moc, Å¾e se mnou soucÃ­tÃ­Å¡. To byl mimochodem sarkasmus, jestli ti to nÃ¡hodou nedoÅ¡lo. Vypadni z mÃ½ho domu.}
+{151}{}{Co kdybys Å¡el k Äertu a chcÃ­pl?}
+{152}{}{MÄ›j se, blbeÄku!}
+{153}{}{KdyÅ¾ vstoupÃ­Å¡ do Broken Hills z pustiny, tak rozvodnÃ¡ stanice s generÃ¡torem je po tvÃ© levÃ© ruce. Å˜Ã­dÃ­ to tam chlÃ¡pek jmÃ©nem Brian a je to pÄ›knÄ› lÃ­nej zkurvysyn, kterej se poÅ™Ã¡d flÃ¡kÃ¡.}
+{154}{}{To vypadÃ¡ na poÅ™Ã¡dnou prÃ¡ci. DÃ­ky. MÃ¡m jeÅ¡tÄ› nÄ›jakÃ© otÃ¡zky.}
+{155}{}{Aha. To bude prozatÃ­m vÅ¡echno.}
+{156}{}{Jsem Eric. MÄ›l jsem tu ve mÄ›stÄ› hotel, ale prodal jsem ho kvÅ¯li problÃ©mu s mouchama. Taky jsem mÄ›l hospodu, ale musel jsem se ji zbavit ze stejnÃ½ho dÅ¯vodu. A nakonec jsem provozoval generÃ¡tor, ale tam se mouchy taky dostaly.}
+{157}{}{PÄ›knÃ¡ kopa prÃ¡ce. MÃ¡m jeÅ¡tÄ› nÄ›jakÃ© otÃ¡zky.}
+{158}{}{Aha. MÄ›j se!}
+{159}{}{To Å¾e Å™ekl, jo? No, tak mu Å™ekni, Å¾e je generÃ¡tor pohÃ¡nÄ›nej uranem a to minimum potÅ™ebnÃ½ energie nepÅ¯jde vÅ¯bec poznat. A Å™ekni mu, Å¾e trvÃ¡m na svÃ½m!}
+{160}{}{To udÄ›lÃ¡m! DobrÃ¡ Å™eÄ!}
+{161}{}{VyÅ™Ã­dÃ­m. MÃ¡m jeÅ¡tÄ› nÄ›jakÃ© otÃ¡zky.}
+{162}{}{JistÄ›. Nashle.}
+{163}{}{VyÅ™Ã­zeno? MockrÃ¡t dÄ›kuju, fakt. Ani nevÃ­m, jak ti podÄ›kovat.}
+{164}{}{ObvyklÃ½ zpÅ¯sob vyjÃ¡dÅ™enÃ­ dÃ­kÅ¯ vede pÅ™es penÄ›Å¾enku nebo vÃ½bavu.}
+{165}{}{Ani nemusÃ­Å¡. StaÄÃ­ mi tvoje dÃ­ky.}
+{166}{}{Mutant Francis mÃ¡ energo pÄ›st. PoÅ™Ã¡d ji sÃ¡zÃ­ v pÃ¡ce. ProblÃ©m je v tom, Å¾e je straÅ¡nÄ› silnej. Jestli mÃ¡Å¡ zÃ¡jem, mÅ¯Å¾u ti dÃ¡t pÃ¡r pilulek, kterÃ½ tÄ› trochu zvÃ½hodnÄ›j.}
+{167}{}{JasnÄ›.}
+{168}{}{Chci radÄ›ji penÃ­ze, pokud nÄ›jakÃ© mÃ¡Å¡.}
+{169}{}{Nechci odmÄ›nu.}
+{170}{}{TÄ›mhle pilulkÃ¡m se Å™Ã­kÃ¡ Buffout. ZvÃ½Å¡ej ti sÃ­lu, ale za cenu oslabenÃ­ mysli. Neber si jich moc, jinak dostaneÅ¡ zÃ¡vislost. HodnÄ› Å¡tÄ›stÃ­!}
+{171}{}{DÃ­ky! MÄ›j se!}
+{172}{}{MÅ¯Å¾eÅ¡ mi pomoct s tÄ›ma mouchama? OdvdÄ›ÄÃ­m se ti.}
+{173}{}{Jak moc se mi odvdÄ›ÄÃ­Å¡?}
+{174}{}{JasnÄ›.}
+{175}{}{MusÃ­m si to rozmyslet.}
+{176}{}{V Å¾Ã¡dnÃ©m pÅ™Ã­padÄ›.}
+{177}{}{Tady mÃ¡Å¡ vÅ¡echny moje prachy... $150. DÃ­ky.}
+{178}{}{Ne, jÃ¡ dÃ­ky. MÄ›j se.}
+{179}{}{Jsem ti moc vdÄ›Änej. Jo... a slyÅ¡el jsem, Å¾e hledÃ¡Å¡ GECK. Zkus se zeptat v NCR, je to na jihu.}
 {180}{}{Diky! Nashle!}
-{181}{}{To teda. Mouchy mizej, mám tady pøíjemnej chládek a u se nejsem tak zpocenej. Pøál bych to kadımu!}
-{182}{}{To si myslím. No, to bude všechno. Nashle!}
-{183}{}{Vidíš zpoceného a umaštìného ghoula. Vypadá to, e je mu dobøe.}
+{181}{}{To teda. Mouchy mizej, mÃ¡m tady pÅ™Ã­jemnej chlÃ¡dek a uÅ¾ se nejsem tak zpocenej. PÅ™Ã¡l bych to kaÅ¾dÃ½mu!}
+{182}{}{To si myslÃ­m. No, to bude vÅ¡echno. Nashle!}
+{183}{}{VidÃ­Å¡ zpocenÃ©ho a umaÅ¡tÄ›nÃ©ho ghoula. VypadÃ¡ to, Å¾e je mu dobÅ™e.}

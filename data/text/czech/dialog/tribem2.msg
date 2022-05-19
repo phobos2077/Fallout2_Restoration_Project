@@ -1,2 +1,2 @@
-{100}{}{Vstupuješ do západní èásti vesnice. Okolo se pohybují divoši s rybáøskımi oštìpy.}
-{101}{}{Vstupuješ do malé jeskynì. V dáli slyšíš zvuky boje.}
+{100}{}{VstupujeÅ¡ do zÃ¡padnÃ­ ÄÃ¡sti vesnice. Okolo se pohybujÃ­ divoÅ¡i s rybÃ¡Å™skÃ½mi oÅ¡tÄ›py.}
+{101}{}{VstupujeÅ¡ do malÃ© jeskynÄ›. V dÃ¡li slyÅ¡Ã­Å¡ zvuky boje.}

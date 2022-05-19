@@ -1,1 +1,1 @@
-{100}{}{Vstupuješ do podzemních tunelù Gecka.}
+{100}{}{VstupujeÅ¡ do podzemnÃ­ch tunelÅ¯ Gecka.}

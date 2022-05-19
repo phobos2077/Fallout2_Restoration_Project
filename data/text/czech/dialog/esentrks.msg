@@ -1,1 +1,1 @@
-{100}{}{Vıbušnina nebyla umístìna dostateènì vysoko, aby prorazila zával. Zøejmì existuje i lepší zpùsob.}
+{100}{}{VÃ½buÅ¡nina nebyla umÃ­stÄ›na dostateÄnÄ› vysoko, aby prorazila zÃ¡val. ZÅ™ejmÄ› existuje i lepÅ¡Ã­ zpÅ¯sob.}

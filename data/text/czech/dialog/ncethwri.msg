@@ -1,209 +1,209 @@
-{100}{}{Vidíš paní Wrightovou.}
-{150}{}{Vidíš robustní enu se smutnım vırazem na tváøi. Vypadá sklesle a obèas si povzdechne.}
-{151}{}{Vidíš paní Wrightovou. Vypadá sklesle a obèas si povzdechne.}
-{175}{}{Vidíš boubelatou enu s èervenımi tváøemi. Zdá se, e má dobrou náladu a nìco si pobrukuje.}
-{176}{}{Vidíš paní Wrightovou. Zdá se, e má dobrou náladu a nìco si pobrukuje.}
+{100}{}{VidÃ­Å¡ panÃ­ Wrightovou.}
+{150}{}{VidÃ­Å¡ robustnÃ­ Å¾enu se smutnÃ½m vÃ½razem na tvÃ¡Å™i. VypadÃ¡ sklesle a obÄas si povzdechne.}
+{151}{}{VidÃ­Å¡ panÃ­ Wrightovou. VypadÃ¡ sklesle a obÄas si povzdechne.}
+{175}{}{VidÃ­Å¡ boubelatou Å¾enu s ÄervenÃ½mi tvÃ¡Å™emi. ZdÃ¡ se, Å¾e mÃ¡ dobrou nÃ¡ladu a nÄ›co si pobrukuje.}
+{176}{}{VidÃ­Å¡ panÃ­ Wrightovou. ZdÃ¡ se, Å¾e mÃ¡ dobrou nÃ¡ladu a nÄ›co si pobrukuje.}
 {200}{}{*Vzdych*}
-{201}{}{Jak mi to jen mohl udìlat?}
-{205}{}{Další krásnı den v našem krásném Renu!}
-{206}{}{::Hvízdá si, zatímco ty pracuješ... ::}
-{207}{}{Tak do práce! To je pøeci potìšení dìlat práci a dìlat ji dobøe!}
+{201}{}{Jak mi to jen mohl udÄ›lat?}
+{205}{}{DalÅ¡Ã­ krÃ¡snÃ½ den v naÅ¡em krÃ¡snÃ©m Renu!}
+{206}{}{::HvÃ­zdÃ¡ si, zatÃ­mco ty pracujeÅ¡... ::}
+{207}{}{Tak do prÃ¡ce! To je pÅ™eci potÄ›Å¡enÃ­ dÄ›lat prÃ¡ci a dÄ›lat ji dobÅ™e!}
 {208}{}{::Hmmmm-hmmm-hmmm-hm-hm -hmmmm::}
-{209}{}{Další krásná noc v našem krásném Renu!}
-{210}{}{(ena pøekvapenì vyskoèí.) Boínku, to jsem se ale polekala! (Zamourá na tebe.) Ano?}
-{211}{}{(Paní Wrightová pøekvapenì vyskoèí.) Boínku, to jsem se ale polekala! (Zamourá na tebe.) Ááá, to jste zase vy!}
+{209}{}{DalÅ¡Ã­ krÃ¡snÃ¡ noc v naÅ¡em krÃ¡snÃ©m Renu!}
+{210}{}{(Å½ena pÅ™ekvapenÄ› vyskoÄÃ­.) BoÅ¾Ã­nku, to jsem se ale polekala! (ZamÅ¾ourÃ¡ na tebe.) Ano?}
+{211}{}{(PanÃ­ WrightovÃ¡ pÅ™ekvapenÄ› vyskoÄÃ­.) BoÅ¾Ã­nku, to jsem se ale polekala! (ZamÅ¾ourÃ¡ na tebe.) ÃÃ¡Ã¡, to jste zase vy!}
 {212}{}{Kdo, kdo?}
 {213}{}{Ahoj, ahoj!}
-{214}{}{Ty ne máma... mami? Mamiii...?! Mami! Já jít hledat máma.}
+{214}{}{Ty ne mÃ¡ma... mami? Mamiii...?! Mami! JÃ¡ jÃ­t hledat mÃ¡ma.}
 {215}{}{Kdo jsi?}
-{216}{}{Koukám, e si tu tak broukáte, madam, tak si øíkám, e se zastavím na kus øeèi. Dneska máme ale pøekrásné poèasí, e?}
-{217}{}{Promiò. Hledám nìkoho jiného.}
-{220}{}{(Vypadá zmatenì a poté si tì mìøí od hlavy k patì.) }
-{222}{}{(Zaloví ve svıch šatech, vytáhne nìjaké vìci a vtiskne ti je do dlanì.) Tady máte. Vezmìte si to.}
-{223}{}{Dík.}
+{216}{}{KoukÃ¡m, Å¾e si tu tak broukÃ¡te, madam, tak si Å™Ã­kÃ¡m, Å¾e se zastavÃ­m na kus Å™eÄi. Dneska mÃ¡me ale pÅ™ekrÃ¡snÃ© poÄasÃ­, Å¾e?}
+{217}{}{PromiÅˆ. HledÃ¡m nÄ›koho jinÃ©ho.}
+{220}{}{(VypadÃ¡ zmatenÄ› a potÃ© si tÄ› mÄ›Å™Ã­ od hlavy k patÄ›.) }
+{222}{}{(ZalovÃ­ ve svÃ½ch Å¡atech, vytÃ¡hne nÄ›jakÃ© vÄ›ci a vtiskne ti je do dlanÄ›.) Tady mÃ¡te. VezmÄ›te si to.}
+{223}{}{DÃ­k.}
 {224}{}{Odbelhat se.}
-{230}{}{(Ach, vy chudáèku! Urèitì máte úpal... }
-{231}{}{Ach, vy chudáèku... nemáte snad kam jít? }
-{232}{}{(Zaloví ve svıch šatech.) Ké bych tak pro vás mìla nìjaké jídlo nebo pití...}
-{240}{}{Ano, to máme. (Usmìje se.) Jsem Ethyl Wrightová, hlava Protialkoholického hnutí v New Renu. A kdo jste vy?}
-{241}{}{Jsem poutník a hledám GECK. Neslyšela jste nìkdy o nìjakém?}
-{242}{}{Jsem poutník hledající místo zvané Vault 13. Nevíte, kde to je?}
-{243}{}{Protialkoholické hnutí?}
-{244}{}{Paní Wrightová? Není váš manel hlavou rodiny Wrightù?}
-{245}{}{Vy jste Richardova matka, e ano? Doneslo se mi, e nedávno zemøel.}
-{246}{}{Promiòte, ale musím odejít.}
-{250}{}{Já? Jsem Ethyl Wrightová, hlava Protialkoholického hnutí tady v New Renu. (Prohlédne si tì.) A kdo jste vy?}
-{251}{}{Já jsem }
-{252}{}{Jsem poutník a chci se na nìco zeptat ohlednì New Rena...}
-{254}{}{Rád bych tu zùstal a povídal si s vámi, ale u musím jít.}
-{260}{}{Šmankote! Vy jste DIVOCH, e? Váš pøízvuk vás prozradil! (Zaène mluvit víc nahlas a pomaleji.) TAK TEDY, VÍTÁM VÁS V NAŠEM MÌSTÌ!}
-{261}{}{Co ty øíkat? Já obyèejná divoch. Nerozumìt ty.}
-{262}{}{enská, nejsem ani hluchı, ani hloupı. Rozumím vám CELKEM dobøe, nemusíte pøede mnou zvyšovat hlas.}
-{263}{}{Eh, díky. Chci se na nìco zeptat ohlednì New Rena...}
-{264}{}{U MUSÍM JÍT.}
-{270}{}{POVÍDÁM, *JÁ*... (Ukáe na sebe.) ...VÁS VÍTÁM... (Ukáe na tebe.) ...VE... (Ukáe na mìsto okolo.) ...MÌSTÌ TISÍCE SVÌTEL!}
-{272}{}{Nejspíš si myslíte, e tahle high-tech zbroj na mì jen tak spadla z nebe. Hele, pøestaòte se mnou mluvit jako s dubem, ano?}
-{273}{}{Myslíte, e tahle zbraò je nìjakı kmenovı talisman, kterı mám jen tak pro parádu? Pøestaòte na mì hulákat jako na tupce, ano?}
-{274}{}{RADÌJI PÙJDU, NE SE OPRAVDU NAŠTVU.}
-{280}{}{Ach! Promiòte! (Vypadá vystrašenì.) Pardon, pardon! Já jsem jenom myslela, e... e... no to je jedno, nechme to bıt. Co pro vás mùu udìlat?}
-{281}{}{Chci se zeptat na nìco jiného ohlednì Rena...}
-{282}{}{U nic. Musím u jít.}
-{290}{}{(Zamourá a zamraèí se.) Prosím? G.E... coe? Ne, o takové vìci jsem nikdy neslyšela, lituji.}
-{291}{}{Chci se ještì zeptat...}
-{292}{}{Tak nic, radìji pùjdu.}
-{300}{}{Vault 13? (Vypadá zmatenì.) Ne, vánì, nikdy jsem... poèkat. Teï si vzpomínám. Na severovıchodì odsud LEÍ Vault City. Je to to, co hledáte?}
-{301}{}{Ne, to není ono. Ale moná mi pomùete s jinımi otázkami...}
-{302}{}{Moná. Mùete mi ještì s nìèím pomoct...?}
-{303}{}{Moná. Sbohem... a díky za informace.}
-{310}{}{Ale jistì! (Zamává prstem.) New Reno je krásné mìsto, ale je tu také spousta HØÍCHÙ, za které vìtšinou mùe ten démon alkoholu... nebo jak tomu vy divoši øíkáte... (Dramaticky se odmlèí.) ...OHNIVÁ VODA!}
-{311}{}{Eh, my "primitivové" tomu taky øíkáme alkohol.}
-{312}{}{Ano, ale co dìlá Protialkoholické hnutí?}
-{313}{}{U musím jít. Myslím, e mì moji soukmenovci u shánìjí.}
-{315}{}{(Na chvíli se odmlèí.) }
-{316}{}{Protialkoholické hnutí je tu proto, aby pomáhalo lidem odvrátit se od chlastu a aby ili perspektivnìjší a smysluplnìjší ivot.}
-{317}{}{Aha. A co tøe...}
-{318}{}{Jako napøí...}
-{320}{}{(Vypadá šokovanì.) Urèitì se mılíte. I takovı divoch jako vy nemùe vánì mys...}
-{321}{}{Není nic lepšího ne trocha spoleèenské lásky, trocha hazardu a zakonèit den nìkolika dbány zakysaného oslího mléka. Tak ije pravı èlen KMENE!}
-{322}{}{Není nic lepšího ne trocha spoleèenské lásky, trocha hazardu a zakonèit den nìkolika dbány zakysaného oslího mléka. Tak ije pravá èlenka KMENE!}
-{323}{}{Nechám to na vaší pøedstavivosti. Kdy vidím tu odpovìï vıše, tak myslím, e to tak bude lepší.}
-{324}{}{U šamanova kolíku, ano! Všechny ty TØI høíchy velice rád provozuju. }
-{325}{}{U Milouše Jakeše a jeho matky! Nevím, co vy divoši provozujete za ohavné orgie ve svıch brlozích neøesti, ale tady v New Renu je to jiné! My jsme CIVILIZOVANÍ lidé!}
-{326}{}{U nás ve vesnici nemáme ádné ty ïábelské ohavnosti, které jste jmenovala. Moná bychom vás "civilizované" lidi mohli ledacos nauèit.}
-{327}{}{Kdo všechno je èlenem vaší organizace?}
-{328}{}{Èím se ta vaše organizace zabıvá?}
-{329}{}{Jistì. Díky za váš názor. Sbohem.}
-{330}{}{(Zamyslí se.) No, tøeba Otec Tully.}
-{331}{}{(Zamyslí se.) No, tøeba Otec Tully byl naším èlenem. Ne umøel.}
-{332}{}{Eh, Otec Tully je ten nejhorší konzument 'ohnivé vody', jakı kdy spatøil svìtlo tohohle svìta. Èlovìk by se oral jen z jeho vıparù.}
+{230}{}{(Ach, vy chudÃ¡Äku! UrÄitÄ› mÃ¡te Ãºpal... }
+{231}{}{Ach, vy chudÃ¡Äku... nemÃ¡te snad kam jÃ­t? }
+{232}{}{(ZalovÃ­ ve svÃ½ch Å¡atech.) KÃ©Å¾ bych tak pro vÃ¡s mÄ›la nÄ›jakÃ© jÃ­dlo nebo pitÃ­...}
+{240}{}{Ano, to mÃ¡me. (UsmÄ›je se.) Jsem Ethyl WrightovÃ¡, hlava ProtialkoholickÃ©ho hnutÃ­ v New Renu. A kdo jste vy?}
+{241}{}{Jsem poutnÃ­k a hledÃ¡m GECK. NeslyÅ¡ela jste nÄ›kdy o nÄ›jakÃ©m?}
+{242}{}{Jsem poutnÃ­k hledajÃ­cÃ­ mÃ­sto zvanÃ© Vault 13. NevÃ­te, kde to je?}
+{243}{}{ProtialkoholickÃ© hnutÃ­?}
+{244}{}{PanÃ­ WrightovÃ¡? NenÃ­ vÃ¡Å¡ manÅ¾el hlavou rodiny WrightÅ¯?}
+{245}{}{Vy jste Richardova matka, Å¾e ano? Doneslo se mi, Å¾e nedÃ¡vno zemÅ™el.}
+{246}{}{PromiÅˆte, ale musÃ­m odejÃ­t.}
+{250}{}{JÃ¡? Jsem Ethyl WrightovÃ¡, hlava ProtialkoholickÃ©ho hnutÃ­ tady v New Renu. (ProhlÃ©dne si tÄ›.) A kdo jste vy?}
+{251}{}{JÃ¡ jsem }
+{252}{}{Jsem poutnÃ­k a chci se na nÄ›co zeptat ohlednÄ› New Rena...}
+{254}{}{RÃ¡d bych tu zÅ¯stal a povÃ­dal si s vÃ¡mi, ale uÅ¾ musÃ­m jÃ­t.}
+{260}{}{Å mankote! Vy jste DIVOCH, Å¾e? VÃ¡Å¡ pÅ™Ã­zvuk vÃ¡s prozradil! (ZaÄne mluvit vÃ­c nahlas a pomaleji.) TAK TEDY, VÃTÃM VÃS V NAÅ EM MÄšSTÄš!}
+{261}{}{Co ty Å™Ã­kat? JÃ¡ obyÄejnÃ¡ divoch. NerozumÄ›t ty.}
+{262}{}{Å½enskÃ¡, nejsem ani hluchÃ½, ani hloupÃ½. RozumÃ­m vÃ¡m CELKEM dobÅ™e, nemusÃ­te pÅ™ede mnou zvyÅ¡ovat hlas.}
+{263}{}{Eh, dÃ­ky. Chci se na nÄ›co zeptat ohlednÄ› New Rena...}
+{264}{}{UÅ½ MUSÃM JÃT.}
+{270}{}{POVÃDÃM, *JÃ*... (UkÃ¡Å¾e na sebe.) ...VÃS VÃTÃM... (UkÃ¡Å¾e na tebe.) ...VE... (UkÃ¡Å¾e na mÄ›sto okolo.) ...MÄšSTÄš TISÃCE SVÄšTEL!}
+{272}{}{NejspÃ­Å¡ si myslÃ­te, Å¾e tahle high-tech zbroj na mÄ› jen tak spadla z nebe. Hele, pÅ™estaÅˆte se mnou mluvit jako s dubem, ano?}
+{273}{}{MyslÃ­te, Å¾e tahle zbraÅˆ je nÄ›jakÃ½ kmenovÃ½ talisman, kterÃ½ mÃ¡m jen tak pro parÃ¡du? PÅ™estaÅˆte na mÄ› hulÃ¡kat jako na tupce, ano?}
+{274}{}{RADÄšJI PÅ®JDU, NEÅ½ SE OPRAVDU NAÅ TVU.}
+{280}{}{Ach! PromiÅˆte! (VypadÃ¡ vystraÅ¡enÄ›.) Pardon, pardon! JÃ¡ jsem jenom myslela, Å¾e... Å¾e... no to je jedno, nechme to bÃ½t. Co pro vÃ¡s mÅ¯Å¾u udÄ›lat?}
+{281}{}{Chci se zeptat na nÄ›co jinÃ©ho ohlednÄ› Rena...}
+{282}{}{UÅ¾ nic. MusÃ­m uÅ¾ jÃ­t.}
+{290}{}{(ZamÅ¾ourÃ¡ a zamraÄÃ­ se.) ProsÃ­m? G.E... coÅ¾e? Ne, o takovÃ© vÄ›ci jsem nikdy neslyÅ¡ela, lituji.}
+{291}{}{Chci se jeÅ¡tÄ› zeptat...}
+{292}{}{Tak nic, radÄ›ji pÅ¯jdu.}
+{300}{}{Vault 13? (VypadÃ¡ zmatenÄ›.) Ne, vÃ¡Å¾nÄ›, nikdy jsem... poÄkat. TeÄ si vzpomÃ­nÃ¡m. Na severovÃ½chodÄ› odsud LEÅ½Ã Vault City. Je to to, co hledÃ¡te?}
+{301}{}{Ne, to nenÃ­ ono. Ale moÅ¾nÃ¡ mi pomÅ¯Å¾ete s jinÃ½mi otÃ¡zkami...}
+{302}{}{MoÅ¾nÃ¡. MÅ¯Å¾ete mi jeÅ¡tÄ› s nÄ›ÄÃ­m pomoct...?}
+{303}{}{MoÅ¾nÃ¡. Sbohem... a dÃ­ky za informace.}
+{310}{}{Ale jistÄ›! (ZamÃ¡vÃ¡ prstem.) New Reno je krÃ¡snÃ© mÄ›sto, ale je tu takÃ© spousta HÅ˜ÃCHÅ®, za kterÃ© vÄ›tÅ¡inou mÅ¯Å¾e ten dÃ©mon alkoholu... nebo jak tomu vy divoÅ¡i Å™Ã­kÃ¡te... (Dramaticky se odmlÄÃ­.) ...OHNIVÃ VODA!}
+{311}{}{Eh, my "primitivovÃ©" tomu taky Å™Ã­kÃ¡me alkohol.}
+{312}{}{Ano, ale co dÄ›lÃ¡ ProtialkoholickÃ© hnutÃ­?}
+{313}{}{UÅ¾ musÃ­m jÃ­t. MyslÃ­m, Å¾e mÄ› moji soukmenovci uÅ¾ shÃ¡nÄ›jÃ­.}
+{315}{}{(Na chvÃ­li se odmlÄÃ­.) }
+{316}{}{ProtialkoholickÃ© hnutÃ­ je tu proto, aby pomÃ¡halo lidem odvrÃ¡tit se od chlastu a aby Å¾ili perspektivnÄ›jÅ¡Ã­ a smysluplnÄ›jÅ¡Ã­ Å¾ivot.}
+{317}{}{Aha. A co tÅ™e...}
+{318}{}{Jako napÅ™Ã­...}
+{320}{}{(VypadÃ¡ Å¡okovanÄ›.) UrÄitÄ› se mÃ½lÃ­te. I takovÃ½ divoch jako vy nemÅ¯Å¾e vÃ¡Å¾nÄ› mys...}
+{321}{}{NenÃ­ nic lepÅ¡Ã­ho neÅ¾ trocha spoleÄenskÃ© lÃ¡sky, trocha hazardu a zakonÄit den nÄ›kolika dÅ¾bÃ¡ny zakysanÃ©ho oslÃ­ho mlÃ©ka. Tak Å¾ije pravÃ½ Älen KMENE!}
+{322}{}{NenÃ­ nic lepÅ¡Ã­ho neÅ¾ trocha spoleÄenskÃ© lÃ¡sky, trocha hazardu a zakonÄit den nÄ›kolika dÅ¾bÃ¡ny zakysanÃ©ho oslÃ­ho mlÃ©ka. Tak Å¾ije pravÃ¡ Älenka KMENE!}
+{323}{}{NechÃ¡m to na vaÅ¡Ã­ pÅ™edstavivosti. KdyÅ¾ vidÃ­m tu odpovÄ›Ä vÃ½Å¡e, tak myslÃ­m, Å¾e to tak bude lepÅ¡Ã­.}
+{324}{}{U Å¡amanova kolÃ­ku, ano! VÅ¡echny ty TÅ˜I hÅ™Ã­chy velice rÃ¡d provozuju. }
+{325}{}{U MilouÅ¡e JakeÅ¡e a jeho matky! NevÃ­m, co vy divoÅ¡i provozujete za ohavnÃ© orgie ve svÃ½ch brlozÃ­ch neÅ™esti, ale tady v New Renu je to jinÃ©! My jsme CIVILIZOVANÃ lidÃ©!}
+{326}{}{U nÃ¡s ve vesnici nemÃ¡me Å¾Ã¡dnÃ© ty ÄÃ¡belskÃ© ohavnosti, kterÃ© jste jmenovala. MoÅ¾nÃ¡ bychom vÃ¡s "civilizovanÃ©" lidi mohli ledacos nauÄit.}
+{327}{}{Kdo vÅ¡echno je Älenem vaÅ¡Ã­ organizace?}
+{328}{}{ÄŒÃ­m se ta vaÅ¡e organizace zabÃ½vÃ¡?}
+{329}{}{JistÄ›. DÃ­ky za vÃ¡Å¡ nÃ¡zor. Sbohem.}
+{330}{}{(ZamyslÃ­ se.) No, tÅ™eba Otec Tully.}
+{331}{}{(ZamyslÃ­ se.) No, tÅ™eba Otec Tully byl naÅ¡Ã­m Älenem. NeÅ¾ umÅ™el.}
+{332}{}{Eh, Otec Tully je ten nejhorÅ¡Ã­ konzument 'ohnivÃ© vody', jakÃ½ kdy spatÅ™il svÄ›tlo tohohle svÄ›ta. ÄŒlovÄ›k by se oÅ¾ral jen z jeho vÃ½parÅ¯.}
 {333}{}{Otec Tully?}
-{335}{}{Vlastnì u si nechci dál povídat. Radìji pùjdu.}
-{340}{}{Tak a teï mì dobøe poslouchejte. (Zamraèí se.) Takovéhle pomluvy tu nehodlám trpìt. Chudák Otec mìl sice s pitím problémy, ale díky našemu Hnuti s tím zaèal bojovat a zvítìzil!}
-{341}{}{Vím naprosto URÈITÌ, e dobrı Otec vdycky POBÌÍ k nejbliší pípì, kterou uvidí... pokud U v té dobì nebude zpitı do bezvìdomí.}
-{342}{}{To není pomluva. Velkı duchovní vùdce New Rena je zdravı asi tak jako... samotné New Reno.}
-{343}{}{Dobøe, nebudu se hádat. Take èím se to hnutí zabıvá?}
-{344}{}{No, tak to jsou dobré zprávy. Radìji u pùjdu.}
-{345}{}{Ach ano, náš duchovní vùdce New Rena. Stará se o jedinı kostel, kterı tady v New Renu máme. MUSÍTE si s ním promluvit. Jeho ivot je velmi inspirující!}
-{346}{}{Dobøe, moná se za ním zastavím. Take èím se to vaše Protialkoholické hnutí zabıvá?}
-{347}{}{Moná se za ním teï pùjdu podívat.}
-{350}{}{Hmf! e vám není hanba! Myslím, e bude lepší, kdy odejdete a víckrát se sem u nevrátíte.}
-{351}{}{To mám v úmyslu.}
-{352}{}{Tak dobrá.}
-{355}{}{Ano, je, to je. (Znovu si tì zmìøí pohledem.) Promiòte, ale vy znáte mého mue?}
-{356}{}{Ano, znám ho. Wrightova rodina kontroluje veškerou distribuci alkoholu v New Renu.}
-{357}{}{Neznáme se osobnì, ale vím, e Wrightova rodina kontroluje veškerou distribuci alkoholu v New Renu.}
+{335}{}{VlastnÄ› uÅ¾ si nechci dÃ¡l povÃ­dat. RadÄ›ji pÅ¯jdu.}
+{340}{}{Tak a teÄ mÄ› dobÅ™e poslouchejte. (ZamraÄÃ­ se.) TakovÃ©hle pomluvy tu nehodlÃ¡m trpÄ›t. ChudÃ¡k Otec mÄ›l sice s pitÃ­m problÃ©my, ale dÃ­ky naÅ¡emu Hnuti s tÃ­m zaÄal bojovat a zvÃ­tÄ›zil!}
+{341}{}{VÃ­m naprosto URÄŒITÄš, Å¾e dobrÃ½ Otec vÅ¾dycky POBÄšÅ½Ã k nejbliÅ¾Å¡Ã­ pÃ­pÄ›, kterou uvidÃ­... pokud UÅ½ v tÃ© dobÄ› nebude zpitÃ½ do bezvÄ›domÃ­.}
+{342}{}{To nenÃ­ pomluva. VelkÃ½ duchovnÃ­ vÅ¯dce New Rena je zdravÃ½ asi tak jako... samotnÃ© New Reno.}
+{343}{}{DobÅ™e, nebudu se hÃ¡dat. TakÅ¾e ÄÃ­m se to hnutÃ­ zabÃ½vÃ¡?}
+{344}{}{No, tak to jsou dobrÃ© zprÃ¡vy. RadÄ›ji uÅ¾ pÅ¯jdu.}
+{345}{}{Ach ano, nÃ¡Å¡ duchovnÃ­ vÅ¯dce New Rena. StarÃ¡ se o jedinÃ½ kostel, kterÃ½ tady v New Renu mÃ¡me. MUSÃTE si s nÃ­m promluvit. Jeho Å¾ivot je velmi inspirujÃ­cÃ­!}
+{346}{}{DobÅ™e, moÅ¾nÃ¡ se za nÃ­m zastavÃ­m. TakÅ¾e ÄÃ­m se to vaÅ¡e ProtialkoholickÃ© hnutÃ­ zabÃ½vÃ¡?}
+{347}{}{MoÅ¾nÃ¡ se za nÃ­m teÄ pÅ¯jdu podÃ­vat.}
+{350}{}{Hmf! Å½e vÃ¡m nenÃ­ hanba! MyslÃ­m, Å¾e bude lepÅ¡Ã­, kdyÅ¾ odejdete a vÃ­ckrÃ¡t se sem uÅ¾ nevrÃ¡tÃ­te.}
+{351}{}{To mÃ¡m v Ãºmyslu.}
+{352}{}{Tak dobrÃ¡.}
+{355}{}{Ano, je, to je. (Znovu si tÄ› zmÄ›Å™Ã­ pohledem.) PromiÅˆte, ale vy znÃ¡te mÃ©ho muÅ¾e?}
+{356}{}{Ano, znÃ¡m ho. Wrightova rodina kontroluje veÅ¡kerou distribuci alkoholu v New Renu.}
+{357}{}{NeznÃ¡me se osobnÄ›, ale vÃ­m, Å¾e Wrightova rodina kontroluje veÅ¡kerou distribuci alkoholu v New Renu.}
 {358}{}{Ne.}
-{359}{}{Ani ne. Poslyšte, musím odejít.}
-{360}{}{Aha. (Zamrká.) Take co pro vás mùu udìlat?}
-{361}{}{Co chcete vìdìt?}
-{362}{}{(Pøekvapenì vyskoèí.) Boínku, to jsem se ale polekala! (Zamourá.) Ááá, to jste zase vy!}
-{363}{}{Co jste to pøedtím øíkala o tom Protialkoholickém hnutí?}
-{364}{}{Hledám GECK.}
-{365}{}{Hledám místo, kterému se øíká Vault 13.}
-{366}{}{Váš manel je hlavou rodiny Wrightù, e ano?}
-{368}{}{Vlastnì nic. Radìji pùjdu.}
-{369}{}{Promiòte, ale teï nemám èas. Sbohem.}
-{375}{}{(Zamraèí se.) O èem to sakra blábolíte? "Obchod s alkoholem v New Renu?" Vím, e mùj mu se rád napije, ale U se toho zlozvyku zbavil...}
-{376}{}{Stejnì jako se zbavil všech, co mu stáli v cestì jeho malému alkoholovému impériu.}
-{377}{}{Ethyl, moná jste si toho JEŠTÌ nevšimla, ale váš manel je hlavou mafie, která prodává alkohol po celém New Renu. To, e se obèas napije, je ten jeho nejmenší zloèin.}
-{378}{}{Hmm, asi mám na mysli jiného pana Wrighta. Zapomeòte na to. Sbohem.}
-{380}{}{Coe... mùj ty Tondo kudrnatej! U sta hromù! (Zhluboka se nadechne.) }
-{381}{}{To je VELICE váné obvinìní, mladı mui.}
-{382}{}{To je VELICE váné obvinìní, mladá dámo.}
-{383}{}{To máte pravdu, ale...}
-{384}{}{Poslyšte, dámo, moná byste m...}
-{385}{}{Ne, VY poslouchejte! Není tajemstvím, e mùj manel KDYSI vlastnil soukromou palírnu ve mìstì. Nicménì pøísahal, e je jen pro jeho vlastní potøebu a NA MOJE PØÁNÍ ji rozebral!}
-{386}{}{Opravdu? No, moná byste...}
-{387}{}{No, poslyšte, on u...}
-{390}{}{(Zamraèí se a dá si ruce v bok.) Já se o tom pøesvìdèím, to si tedy pište! A jestli zjistím, e jsou to všechno li, tak bude lepší, kdy okamitì opustíte toto mìsto. Poèkejte na mì zítra ráno pøed kostelem a tam si promluvíme.}
-{392}{}{Tak dobøe. Budu tam. Zatím nashle.}
-{395}{}{(Vytratí se jí úsmìv.) Ano, mùj syn Richard... on... ano, opustil nás pøíliš brzy. Já... hmmm. Ano. (Sklopí oèi.) Já...}
-{396}{}{Prı se pøedávkoval Jetem... je to pravda?}
-{397}{}{To je jedno. Zapomeòte na to. Chci se ještì na nìco zeptat...}
-{398}{}{U nic. Radìji pùjdu.}
-{400}{}{(Zatne zuby.) To ïáblovo sémì! Já mu poøád øíkala, aby se ani NEPØIBLIOVAL k takovému svinstvu a potom...}
-{401}{}{Mùete mi øíct, kde mohl ten Jet získat?}
-{405}{}{Já nevím! (Zatne ruce v pìst.) Prodávají ten jed na kadém rohu New Rena! To svinstvo je prostì VŠUDE...!}
-{406}{}{Znáte nìjaké konkrétní dealery?}
-{407}{}{Zapomeòte na to. Chci se ještì na nìco zeptat...}
-{410}{}{Ne podle jména. Znají mì dost dobøe na to, aby utekli, kdykoliv se pøiblíím... ale houfují se jako mouchy kolem ulice Panen, pøed vchodem do mìsta a u kasína.}
-{411}{}{Aha. Mám ještì jiné otázky...}
-{415}{}{Dr se ode mì dál, ty démone rozkoše! Ty, je smilníš ve filmu a nièíš lidskou mravnost!}
-{416}{}{Taková nestydatost! Máš ale drzost se sem vrátit! Ty, je smilníš ve filmu a nièíš lidskou mravnost!}
-{417}{}{Có? Já, je mìlním ve filcu mravencovitost èehoe?}
-{418}{}{Jéééjej! Velkı slova! Velkı slova! Muset rychle pryè!}
-{419}{}{Jo, to jsem já. Máte zájem? Líbí se mi mohutnìjší eny, jako jste vy. [Svùdnì zamrkat] Uvolnìte si trochu ty tìsné podvazky a mùeme jít na to.}
-{420}{}{Podívejte, byl jsem mladı a potøeboval jsem peníze...}
-{421}{}{Vidím, e si budeme mít o èem povídat. Sbohem.}
-{425}{}{Ven! Okamitì vypadnìte!}
-{426}{}{Já jít! Já jít!}
-{427}{}{Dobrá, dobrá! U odcházím!}
-{428}{}{Pro pána krále. Odvate se taky trochu.}
-{430}{}{(Zamraèí se na tebe a poté zpozoruje tvé otrokáøské ocejchování. Její hlas zchladne.) }
+{359}{}{Ani ne. PoslyÅ¡te, musÃ­m odejÃ­t.}
+{360}{}{Aha. (ZamrkÃ¡.) TakÅ¾e co pro vÃ¡s mÅ¯Å¾u udÄ›lat?}
+{361}{}{Co chcete vÄ›dÄ›t?}
+{362}{}{(PÅ™ekvapenÄ› vyskoÄÃ­.) BoÅ¾Ã­nku, to jsem se ale polekala! (ZamÅ¾ourÃ¡.) ÃÃ¡Ã¡, to jste zase vy!}
+{363}{}{Co jste to pÅ™edtÃ­m Å™Ã­kala o tom ProtialkoholickÃ©m hnutÃ­?}
+{364}{}{HledÃ¡m GECK.}
+{365}{}{HledÃ¡m mÃ­sto, kterÃ©mu se Å™Ã­kÃ¡ Vault 13.}
+{366}{}{VÃ¡Å¡ manÅ¾el je hlavou rodiny WrightÅ¯, Å¾e ano?}
+{368}{}{VlastnÄ› nic. RadÄ›ji pÅ¯jdu.}
+{369}{}{PromiÅˆte, ale teÄ nemÃ¡m Äas. Sbohem.}
+{375}{}{(ZamraÄÃ­ se.) O Äem to sakra blÃ¡bolÃ­te? "Obchod s alkoholem v New Renu?" VÃ­m, Å¾e mÅ¯j muÅ¾ se rÃ¡d napije, ale UÅ½ se toho zlozvyku zbavil...}
+{376}{}{StejnÄ› jako se zbavil vÅ¡ech, co mu stÃ¡li v cestÄ› jeho malÃ©mu alkoholovÃ©mu impÃ©riu.}
+{377}{}{Ethyl, moÅ¾nÃ¡ jste si toho JEÅ TÄš nevÅ¡imla, ale vÃ¡Å¡ manÅ¾el je hlavou mafie, kterÃ¡ prodÃ¡vÃ¡ alkohol po celÃ©m New Renu. To, Å¾e se obÄas napije, je ten jeho nejmenÅ¡Ã­ zloÄin.}
+{378}{}{Hmm, asi mÃ¡m na mysli jinÃ©ho pana Wrighta. ZapomeÅˆte na to. Sbohem.}
+{380}{}{CoÅ¾e... mÅ¯j ty Tondo kudrnatej! U sta hromÅ¯! (Zhluboka se nadechne.) }
+{381}{}{To je VELICE vÃ¡Å¾nÃ© obvinÄ›nÃ­, mladÃ½ muÅ¾i.}
+{382}{}{To je VELICE vÃ¡Å¾nÃ© obvinÄ›nÃ­, mladÃ¡ dÃ¡mo.}
+{383}{}{To mÃ¡te pravdu, ale...}
+{384}{}{PoslyÅ¡te, dÃ¡mo, moÅ¾nÃ¡ byste m...}
+{385}{}{Ne, VY poslouchejte! NenÃ­ tajemstvÃ­m, Å¾e mÅ¯j manÅ¾el KDYSI vlastnil soukromou palÃ­rnu ve mÄ›stÄ›. NicmÃ©nÄ› pÅ™Ã­sahal, Å¾e je jen pro jeho vlastnÃ­ potÅ™ebu a NA MOJE PÅ˜ÃNÃ ji rozebral!}
+{386}{}{Opravdu? No, moÅ¾nÃ¡ byste...}
+{387}{}{No, poslyÅ¡te, on u...}
+{390}{}{(ZamraÄÃ­ se a dÃ¡ si ruce v bok.) JÃ¡ se o tom pÅ™esvÄ›dÄÃ­m, to si tedy piÅ¡te! A jestli zjistÃ­m, Å¾e jsou to vÅ¡echno lÅ¾i, tak bude lepÅ¡Ã­, kdyÅ¾ okamÅ¾itÄ› opustÃ­te toto mÄ›sto. PoÄkejte na mÄ› zÃ­tra rÃ¡no pÅ™ed kostelem a tam si promluvÃ­me.}
+{392}{}{Tak dobÅ™e. Budu tam. ZatÃ­m nashle.}
+{395}{}{(VytratÃ­ se jÃ­ ÃºsmÄ›v.) Ano, mÅ¯j syn Richard... on... ano, opustil nÃ¡s pÅ™Ã­liÅ¡ brzy. JÃ¡... hmmm. Ano. (SklopÃ­ oÄi.) JÃ¡...}
+{396}{}{PrÃ½ se pÅ™edÃ¡vkoval Jetem... je to pravda?}
+{397}{}{To je jedno. ZapomeÅˆte na to. Chci se jeÅ¡tÄ› na nÄ›co zeptat...}
+{398}{}{UÅ¾ nic. RadÄ›ji pÅ¯jdu.}
+{400}{}{(Zatne zuby.) To ÄÃ¡blovo sÃ©mÄ›! JÃ¡ mu poÅ™Ã¡d Å™Ã­kala, aby se ani NEPÅ˜IBLIÅ½OVAL k takovÃ©mu svinstvu a potom...}
+{401}{}{MÅ¯Å¾ete mi Å™Ã­ct, kde mohl ten Jet zÃ­skat?}
+{405}{}{JÃ¡ nevÃ­m! (Zatne ruce v pÄ›st.) ProdÃ¡vajÃ­ ten jed na kaÅ¾dÃ©m rohu New Rena! To svinstvo je prostÄ› VÅ UDE...!}
+{406}{}{ZnÃ¡te nÄ›jakÃ© konkrÃ©tnÃ­ dealery?}
+{407}{}{ZapomeÅˆte na to. Chci se jeÅ¡tÄ› na nÄ›co zeptat...}
+{410}{}{Ne podle jmÃ©na. ZnajÃ­ mÄ› dost dobÅ™e na to, aby utekli, kdykoliv se pÅ™iblÃ­Å¾Ã­m... ale houfujÃ­ se jako mouchy kolem ulice Panen, pÅ™ed vchodem do mÄ›sta a u kasÃ­na.}
+{411}{}{Aha. MÃ¡m jeÅ¡tÄ› jinÃ© otÃ¡zky...}
+{415}{}{DrÅ¾ se ode mÄ› dÃ¡l, ty dÃ©mone rozkoÅ¡e! Ty, jeÅ¾ smilnÃ­Å¡ ve filmu a niÄÃ­Å¡ lidskou mravnost!}
+{416}{}{TakovÃ¡ nestydatost! MÃ¡Å¡ ale drzost se sem vrÃ¡tit! Ty, jeÅ¾ smilnÃ­Å¡ ve filmu a niÄÃ­Å¡ lidskou mravnost!}
+{417}{}{CÃ³? JÃ¡, jeÅ¾ mÄ›lnÃ­m ve filcu mravencovitost ÄehoÅ¾e?}
+{418}{}{JÃ©Ã©Ã©jej! VelkÃ½ slova! VelkÃ½ slova! Muset rychle pryÄ!}
+{419}{}{Jo, to jsem jÃ¡. MÃ¡te zÃ¡jem? LÃ­bÃ­ se mi mohutnÄ›jÅ¡Ã­ Å¾eny, jako jste vy. [SvÅ¯dnÄ› zamrkat] UvolnÄ›te si trochu ty tÄ›snÃ© podvazky a mÅ¯Å¾eme jÃ­t na to.}
+{420}{}{PodÃ­vejte, byl jsem mladÃ½ a potÅ™eboval jsem penÃ­ze...}
+{421}{}{VidÃ­m, Å¾e si budeme mÃ­t o Äem povÃ­dat. Sbohem.}
+{425}{}{Ven! OkamÅ¾itÄ› vypadnÄ›te!}
+{426}{}{JÃ¡ jÃ­t! JÃ¡ jÃ­t!}
+{427}{}{DobrÃ¡, dobrÃ¡! UÅ¾ odchÃ¡zÃ­m!}
+{428}{}{Pro pÃ¡na krÃ¡le. OdvaÅ¾te se taky trochu.}
+{430}{}{(ZamraÄÃ­ se na tebe a potÃ© zpozoruje tvÃ© otrokÃ¡Å™skÃ© ocejchovÃ¡nÃ­. JejÃ­ hlas zchladne.) }
 {431}{}{Ano?}
-{432}{}{Zase vy? My dva si NEMÁME co øíct.}
-{433}{}{Já... eh... já... já chtít... eh... já hledat... eh... sakryš! Já nesnášet bıt hloupá! Já nesnášet!}
-{434}{}{Já... eh... och, blıskavá vìc!}
-{435}{}{Mám nìjaké otázky...}
-{436}{}{Vidím, e s vámi u ádná øeè nebude. Sbohem.}
-{440}{}{Hmm. Obávám se, e vám nemùu nijak pomoct. Hezkı den.}
-{441}{}{Hmm. Obávám se, e vám nemùu nijak pomoct. Dobrou noc.}
-{442}{}{::Pokrèit rameny a odejít.::}
-{443}{}{Tak dobøe. Pøeju hezkı den.}
-{444}{}{Tak dobøe. Dobrou noc.}
-{450}{}{(Vidíš paní Wrightovou. Vypadá znièenì.)}
-{451}{}{Eh... jste v poøádku, Ethyl?}
-{452}{}{Take... co jste zjistila?}
-{453}{}{Ahá! Take mám pravdu, nebo mám pravdu?}
-{454}{}{Je mi to líto. Vrátím se pozdìji.}
-{460}{}{Všechno je to pravda... úplnì všechno. (Vzdychne.) On tu palírnu nerozebral. Ani kousíèek! (Zamraèí se.) A já mu vìøila, ale ten alkohol ho donutil mi LHÁT! *Lhát své vlastní enì!*}
-{461}{}{::Nechat ji vyzpovídat se.::}
-{462}{}{Ano, Ethyl... další dùkaz toho, jak je alkohol ïábelskı. Nutí lidi dìlat hrozné vìci. OBZVLÁŠ pokud se to tıká dvou ïáblù v podobì penìz a moci.}
-{463}{}{Asi chcete bıt teï chvíli sama... vrátím se pozdìji.}
-{470}{}{(Zhluboka se nadechne.) Ale já ho DONUTÍM dodret slib, i kdybych tu palírnu mìla znièit vlastníma rukama. A pak si s Orvillem pìknì popovídám! Uvidíme, co na to ten malej syèák øekne!}
-{471}{}{Netrapte se tím, paní Wrightová. U je o to postaráno.}
-{472}{}{Kde je ta palírna? Znièím ji za vás.}
-{473}{}{Ne, nechte to na mnì. Je pod eleznièní stanicí, e ano? Postarám se o ni.}
-{474}{}{Dobrı nápad. Moná byste tu palírnu mìla pøeci jen znièit vy.}
-{475}{}{Zatím nashle.}
-{480}{}{...je pod eleznièní stanicí za naším domem! }
-{481}{}{Rozbijte ji na kousíèky! Zniète ji! A z ní NIC nezbude!}
-{482}{}{Tak dobøe...}
-{490}{}{To taky udìlám, u ïasa! (Vyhrne si rukávy. K tvému pøekvapení má ruce jako vzpìraè.) Díky, e jste mi otevøel oèi, cizinèe. Já u si svého mue srovnám, i kdyby ho to mìlo ZABÍT.}
-{491}{}{No, pøeju dobrou zábavu pøi nièení.}
-{500}{}{(Vidíš Ethyl. Kdy se pøiblííš, vzhlédne k tobì s nadìjí.) U je...?}
-{501}{}{Je srovnaná se zemí. Nic z ní nezbylo. O VŠECHNO bylo postaráno.}
-{502}{}{Ještì ne. Kde e je ta palírna?}
-{503}{}{Ne, ještì není znièená. Vrátím se, a to bude hotové.}
-{510}{}{Je pod eleznièní stanicí za naším domem! Rozbijte ji na kousíèky! Zniète ji! A z ní NIC nezbude!}
-{512}{}{Vrátím se, a to bude hotové.}
-{515}{}{(Rozpláèe se.) Díky, cizinèe. Podaøilo se vám zasadit poøádnou ránu všemu tomu zlu v New Renu. Nevím, jak vám podìkovat...}
-{516}{}{To nestálo za øeè. Mìjte se, paní Wrightová.}
-{517}{}{No, mám zrovna hluboko do kapsy...}
-{520}{}{To se dá lehce napravit. Pojïte za mnou.}
-{521}{}{[Následovat ji]}
-{522}{}{Vlastnì to ani nestálo za øeè. Mìjte se, paní Wrightová.}
-{525}{}{Tady máte. Vše, co je v té skøíòce, je vaše. Také trocha penìz na cestu... a takovou obzvláš uiteènou vìcièku, která dokáe pøesvìdèit i toho nejzabednìjšího osla. Dìkuji vám za všechno.}
-{526}{}{Díky MOC, paní Wrightová.}
-{530}{}{Dìkuji za vaši pomoc, }
-{535}{}{New Reno nemùe existovat jen kvùli hazardu, alkoholu a prostituci! Ne ne! Ne dokud je Ethyl Wrightová u vesla! Nic takového!}
-{536}{}{Ale lidé MILUJÍ hazard, chlast a dìvky. Napøíklad já rozhodnì ano.}
-{539}{}{Promiòte, ale musím vyøídit naléhavou záleitost.}
-{540}{}{(Vybuchne.) Moná je ve vašem kmeni normální veøejnì pomlouvat ostatní, ale tady v New Renu tedy rozhodnì ne! Máte ale poøádnou drzost ke mnì takhle veøejnì pøijít a pomlouvat mého manela!}
-{541}{}{Poslyšte, já jen øíkám, e...}
-{542}{}{Pravda bolí. Myslím, e budete brzy hodnì trpìt. Sbohem.}
+{432}{}{Zase vy? My dva si NEMÃME co Å™Ã­ct.}
+{433}{}{JÃ¡... eh... jÃ¡... jÃ¡ chtÃ­t... eh... jÃ¡ hledat... eh... sakryÅ¡! JÃ¡ nesnÃ¡Å¡et bÃ½t hloupÃ¡! JÃ¡ nesnÃ¡Å¡et!}
+{434}{}{JÃ¡... eh... och, blÃ½skavÃ¡ vÄ›c!}
+{435}{}{MÃ¡m nÄ›jakÃ© otÃ¡zky...}
+{436}{}{VidÃ­m, Å¾e s vÃ¡mi uÅ¾ Å¾Ã¡dnÃ¡ Å™eÄ nebude. Sbohem.}
+{440}{}{Hmm. ObÃ¡vÃ¡m se, Å¾e vÃ¡m nemÅ¯Å¾u nijak pomoct. HezkÃ½ den.}
+{441}{}{Hmm. ObÃ¡vÃ¡m se, Å¾e vÃ¡m nemÅ¯Å¾u nijak pomoct. Dobrou noc.}
+{442}{}{::PokrÄit rameny a odejÃ­t.::}
+{443}{}{Tak dobÅ™e. PÅ™eju hezkÃ½ den.}
+{444}{}{Tak dobÅ™e. Dobrou noc.}
+{450}{}{(VidÃ­Å¡ panÃ­ Wrightovou. VypadÃ¡ zniÄenÄ›.)}
+{451}{}{Eh... jste v poÅ™Ã¡dku, Ethyl?}
+{452}{}{TakÅ¾e... co jste zjistila?}
+{453}{}{AhÃ¡! TakÅ¾e mÃ¡m pravdu, nebo mÃ¡m pravdu?}
+{454}{}{Je mi to lÃ­to. VrÃ¡tÃ­m se pozdÄ›ji.}
+{460}{}{VÅ¡echno je to pravda... ÃºplnÄ› vÅ¡echno. (Vzdychne.) On tu palÃ­rnu nerozebral. Ani kousÃ­Äek! (ZamraÄÃ­ se.) A jÃ¡ mu vÄ›Å™ila, ale ten alkohol ho donutil mi LHÃT! *LhÃ¡t svÃ© vlastnÃ­ Å¾enÄ›!*}
+{461}{}{::Nechat ji vyzpovÃ­dat se.::}
+{462}{}{Ano, Ethyl... dalÅ¡Ã­ dÅ¯kaz toho, jak je alkohol ÄÃ¡belskÃ½. NutÃ­ lidi dÄ›lat hroznÃ© vÄ›ci. OBZVLÃÅ Å¤ pokud se to tÃ½kÃ¡ dvou ÄÃ¡blÅ¯ v podobÄ› penÄ›z a moci.}
+{463}{}{Asi chcete bÃ½t teÄ chvÃ­li sama... vrÃ¡tÃ­m se pozdÄ›ji.}
+{470}{}{(Zhluboka se nadechne.) Ale jÃ¡ ho DONUTÃM dodrÅ¾et slib, i kdybych tu palÃ­rnu mÄ›la zniÄit vlastnÃ­ma rukama. A pak si s Orvillem pÄ›knÄ› popovÃ­dÃ¡m! UvidÃ­me, co na to ten malej syÄÃ¡k Å™ekne!}
+{471}{}{Netrapte se tÃ­m, panÃ­ WrightovÃ¡. UÅ¾ je o to postarÃ¡no.}
+{472}{}{Kde je ta palÃ­rna? ZniÄÃ­m ji za vÃ¡s.}
+{473}{}{Ne, nechte to na mnÄ›. Je pod Å¾elezniÄnÃ­ stanicÃ­, Å¾e ano? PostarÃ¡m se o ni.}
+{474}{}{DobrÃ½ nÃ¡pad. MoÅ¾nÃ¡ byste tu palÃ­rnu mÄ›la pÅ™eci jen zniÄit vy.}
+{475}{}{ZatÃ­m nashle.}
+{480}{}{...je pod Å¾elezniÄnÃ­ stanicÃ­ za naÅ¡Ã­m domem! }
+{481}{}{Rozbijte ji na kousÃ­Äky! ZniÄte ji! AÅ¥ z nÃ­ NIC nezbude!}
+{482}{}{Tak dobÅ™e...}
+{490}{}{To taky udÄ›lÃ¡m, u Äasa! (Vyhrne si rukÃ¡vy. K tvÃ©mu pÅ™ekvapenÃ­ mÃ¡ ruce jako vzpÄ›raÄ.) DÃ­ky, Å¾e jste mi otevÅ™el oÄi, cizinÄe. JÃ¡ uÅ¾ si svÃ©ho muÅ¾e srovnÃ¡m, i kdyby ho to mÄ›lo ZABÃT.}
+{491}{}{No, pÅ™eju dobrou zÃ¡bavu pÅ™i niÄenÃ­.}
+{500}{}{(VidÃ­Å¡ Ethyl. KdyÅ¾ se pÅ™iblÃ­Å¾Ã­Å¡, vzhlÃ©dne k tobÄ› s nadÄ›jÃ­.) UÅ¾ je...?}
+{501}{}{Je srovnanÃ¡ se zemÃ­. Nic z nÃ­ nezbylo. O VÅ ECHNO bylo postarÃ¡no.}
+{502}{}{JeÅ¡tÄ› ne. Kde Å¾e je ta palÃ­rna?}
+{503}{}{Ne, jeÅ¡tÄ› nenÃ­ zniÄenÃ¡. VrÃ¡tÃ­m se, aÅ¾ to bude hotovÃ©.}
+{510}{}{Je pod Å¾elezniÄnÃ­ stanicÃ­ za naÅ¡Ã­m domem! Rozbijte ji na kousÃ­Äky! ZniÄte ji! AÅ¥ z nÃ­ NIC nezbude!}
+{512}{}{VrÃ¡tÃ­m se, aÅ¾ to bude hotovÃ©.}
+{515}{}{(RozplÃ¡Äe se.) DÃ­ky, cizinÄe. PodaÅ™ilo se vÃ¡m zasadit poÅ™Ã¡dnou rÃ¡nu vÅ¡emu tomu zlu v New Renu. NevÃ­m, jak vÃ¡m podÄ›kovat...}
+{516}{}{To nestÃ¡lo za Å™eÄ. MÄ›jte se, panÃ­ WrightovÃ¡.}
+{517}{}{No, mÃ¡m zrovna hluboko do kapsy...}
+{520}{}{To se dÃ¡ lehce napravit. PojÄte za mnou.}
+{521}{}{[NÃ¡sledovat ji]}
+{522}{}{VlastnÄ› to ani nestÃ¡lo za Å™eÄ. MÄ›jte se, panÃ­ WrightovÃ¡.}
+{525}{}{Tady mÃ¡te. VÅ¡e, co je v tÃ© skÅ™Ã­Åˆce, je vaÅ¡e. TakÃ© trocha penÄ›z na cestu... a takovou obzvlÃ¡Å¡Å¥ uÅ¾iteÄnou vÄ›ciÄku, kterÃ¡ dokÃ¡Å¾e pÅ™esvÄ›dÄit i toho nejzabednÄ›jÅ¡Ã­ho osla. DÄ›kuji vÃ¡m za vÅ¡echno.}
+{526}{}{DÃ­ky MOC, panÃ­ WrightovÃ¡.}
+{530}{}{DÄ›kuji za vaÅ¡i pomoc, }
+{535}{}{New Reno nemÅ¯Å¾e existovat jen kvÅ¯li hazardu, alkoholu a prostituci! Ne ne! Ne dokud je Ethyl WrightovÃ¡ u vesla! Nic takovÃ©ho!}
+{536}{}{Ale lidÃ© MILUJÃ hazard, chlast a dÄ›vky. NapÅ™Ã­klad jÃ¡ rozhodnÄ› ano.}
+{539}{}{PromiÅˆte, ale musÃ­m vyÅ™Ã­dit nalÃ©havou zÃ¡leÅ¾itost.}
+{540}{}{(Vybuchne.) MoÅ¾nÃ¡ je ve vaÅ¡em kmeni normÃ¡lnÃ­ veÅ™ejnÄ› pomlouvat ostatnÃ­, ale tady v New Renu tedy rozhodnÄ› ne! MÃ¡te ale poÅ™Ã¡dnou drzost ke mnÄ› takhle veÅ™ejnÄ› pÅ™ijÃ­t a pomlouvat mÃ©ho manÅ¾ela!}
+{541}{}{PoslyÅ¡te, jÃ¡ jen Å™Ã­kÃ¡m, Å¾e...}
+{542}{}{Pravda bolÃ­. MyslÃ­m, Å¾e budete brzy hodnÄ› trpÄ›t. Sbohem.}
 {543}{}{To je jedno. Sbohem.}
-{545}{}{Navíc se rozhodl mi pomoct se zbavováním dalších závislıch nešastníkù toho odporného alkoholového zlozvyku. Taková ohavnost jenom TVRDIT, e mùj manel prodává alkohol ostatním, je...}
-{546}{}{Je to naprostá pravda. Paní Wrightová, váš manel obchoduje s alkoholem po celém New Renu a podporuje tak alkoholismus. To dìlá z mìsta ještì horší místo pro ivot, ne u je. Pomozte mi a spoleènì tomu uèiníme pøítr.}
-{547}{}{Jestli mi nevìøíte, tak se jdìte podívat pod eleznièní stanici a pak pochopíte, co mám na mysli.}
-{548}{}{Vidím, e s vámi nebude ádná øeè, dokud vám to nebudu moct dokázat.}
-{550}{}{Ale nechci, aby se nìco stalo mım dìtem, take ádné máchání zbranìmi! Ony nejsou zlé, jenom jsou... na špatné cestì. Budu se muset postarat o jejich nápravu...}
-{551}{}{Dobøe, nebojte se... nikdo nezemøe.}
-{552}{}{Vrátím se, a to bude hotové. Nejdøív si ale musím zaøídit pár vìcí.}
-{553}{}{Eh, to nemùu zaruèit... moná byste mìla na tu práci sehnat nìkoho jiného.}
-{1251}{}{. Chci se na nìco zeptat ohlednì New Rena...}
-{1415}{}{(Pøekvapenì vyskoèí.) Panenko skákavá! (Zamraèí se a poté se na tebe pohrdavì podívá.) Taková nestydatost! }
-{1430}{}{(Pøekvapenì vyskoèí.) Boínku! }
+{545}{}{NavÃ­c se rozhodl mi pomoct se zbavovÃ¡nÃ­m dalÅ¡Ã­ch zÃ¡vislÃ½ch neÅ¡Å¥astnÃ­kÅ¯ toho odpornÃ©ho alkoholovÃ©ho zlozvyku. TakovÃ¡ ohavnost jenom TVRDIT, Å¾e mÅ¯j manÅ¾el prodÃ¡vÃ¡ alkohol ostatnÃ­m, je...}
+{546}{}{Je to naprostÃ¡ pravda. PanÃ­ WrightovÃ¡, vÃ¡Å¡ manÅ¾el obchoduje s alkoholem po celÃ©m New Renu a podporuje tak alkoholismus. To dÄ›lÃ¡ z mÄ›sta jeÅ¡tÄ› horÅ¡Ã­ mÃ­sto pro Å¾ivot, neÅ¾ uÅ¾ je. Pomozte mi a spoleÄnÄ› tomu uÄinÃ­me pÅ™Ã­trÅ¾.}
+{547}{}{Jestli mi nevÄ›Å™Ã­te, tak se jdÄ›te podÃ­vat pod Å¾elezniÄnÃ­ stanici a pak pochopÃ­te, co mÃ¡m na mysli.}
+{548}{}{VidÃ­m, Å¾e s vÃ¡mi nebude Å¾Ã¡dnÃ¡ Å™eÄ, dokud vÃ¡m to nebudu moct dokÃ¡zat.}
+{550}{}{Ale nechci, aby se nÄ›co stalo mÃ½m dÄ›tem, takÅ¾e Å¾Ã¡dnÃ© mÃ¡chÃ¡nÃ­ zbranÄ›mi! Ony nejsou zlÃ©, jenom jsou... na Å¡patnÃ© cestÄ›. Budu se muset postarat o jejich nÃ¡pravu...}
+{551}{}{DobÅ™e, nebojte se... nikdo nezemÅ™e.}
+{552}{}{VrÃ¡tÃ­m se, aÅ¾ to bude hotovÃ©. NejdÅ™Ã­v si ale musÃ­m zaÅ™Ã­dit pÃ¡r vÄ›cÃ­.}
+{553}{}{Eh, to nemÅ¯Å¾u zaruÄit... moÅ¾nÃ¡ byste mÄ›la na tu prÃ¡ci sehnat nÄ›koho jinÃ©ho.}
+{1251}{}{. Chci se na nÄ›co zeptat ohlednÄ› New Rena...}
+{1415}{}{(PÅ™ekvapenÄ› vyskoÄÃ­.) Panenko skÃ¡kavÃ¡! (ZamraÄÃ­ se a potÃ© se na tebe pohrdavÄ› podÃ­vÃ¡.) TakovÃ¡ nestydatost! }
+{1430}{}{(PÅ™ekvapenÄ› vyskoÄÃ­.) BoÅ¾Ã­nku! }
 {1431}{}{(Squints at you, then her gaze becomes glacial.) }
-{1480}{}{Vy ji znièíte? Já... no, tak dobøe... (Nadechne se.) }
-{1530}{}{. Já u se postarám o to, aby Wrightovic rodina odteï ila èestnım a spoøádanım ivotem.}
+{1480}{}{Vy ji zniÄÃ­te? JÃ¡... no, tak dobÅ™e... (Nadechne se.) }
+{1530}{}{. JÃ¡ uÅ¾ se postarÃ¡m o to, aby Wrightovic rodina odteÄ Å¾ila ÄestnÃ½m a spoÅ™Ã¡danÃ½m Å¾ivotem.}

@@ -1,189 +1,189 @@
-{101}{}{Vidíš prùmìrnou osobu prùmìrné vıšky a prùmìrného vzhledu. Není na nìm nic zvláštního.}
-{102}{}{Vidíš Jo.}
-{103}{}{Vidíš obchodníka Jo.}
-{104}{}{Vidíš šerifa Jo.}
-{105}{}{Vidíš starostu Jo.}
-{106}{}{Vidíš soudce Jo.}
-{150}{}{Zabili jsme je všechny. Dokonce i dìti.. [vzlyk]}
-{151}{}{Setkáme se na Farmì Duchù. Zaútoèíme okamitì.}
-{152}{}{Díky za záchranu obèanù Modoca.}
-{153}{}{Co tu dìláš?}
+{101}{}{VidÃ­Å¡ prÅ¯mÄ›rnou osobu prÅ¯mÄ›rnÃ© vÃ½Å¡ky a prÅ¯mÄ›rnÃ©ho vzhledu. NenÃ­ na nÄ›m nic zvlÃ¡Å¡tnÃ­ho.}
+{102}{}{VidÃ­Å¡ Jo.}
+{103}{}{VidÃ­Å¡ obchodnÃ­ka Jo.}
+{104}{}{VidÃ­Å¡ Å¡erifa Jo.}
+{105}{}{VidÃ­Å¡ starostu Jo.}
+{106}{}{VidÃ­Å¡ soudce Jo.}
+{150}{}{Zabili jsme je vÅ¡echny. Dokonce i dÄ›ti.. [vzlyk]}
+{151}{}{SetkÃ¡me se na FarmÄ› DuchÅ¯. ZaÃºtoÄÃ­me okamÅ¾itÄ›.}
+{152}{}{DÃ­ky za zÃ¡chranu obÄanÅ¯ Modoca.}
+{153}{}{Co tu dÄ›lÃ¡Å¡?}
 {154}{}{Hej! Nech to bejt!}
-{155}{}{Zlodìj!}
-{156}{}{Promiò, ale kvùli suchu je tohle trištì doèasnì uzavøenı.}
-{157}{}{A kdo øíká, e jsem tu kvùli obchodu?}
-{158}{}{Jsem tu poprvé. Co mi mùeš øíct o tomhle mìstì?}
-{159}{}{Nemáš náhodou na prodej zlaté hodinky?}
+{155}{}{ZlodÄ›j!}
+{156}{}{PromiÅˆ, ale kvÅ¯li suchu je tohle trÅ¾iÅ¡tÄ› doÄasnÄ› uzavÅ™enÃ½.}
+{157}{}{A kdo Å™Ã­kÃ¡, Å¾e jsem tu kvÅ¯li obchodu?}
+{158}{}{Jsem tu poprvÃ©. Co mi mÅ¯Å¾eÅ¡ Å™Ã­ct o tomhle mÄ›stÄ›?}
+{159}{}{NemÃ¡Å¡ nÃ¡hodou na prodej zlatÃ© hodinky?}
 {160}{}{GECK!}
-{161}{}{Co pro tebe mohu udìlat?}
-{162}{}{Hledám jednu konkrétní vìc a zajímalo by mì, jestli bys ji dokázal sehnat.}
-{164}{}{Chci koupit zlaté hodinky. Nevíš, kde je seenu?}
-{165}{}{Co máš k obchodování?}
-{166}{}{Mùeš mi nìco povìdìt o tomhle mìstì?}
-{167}{}{Co tady dìláš?}
+{161}{}{Co pro tebe mohu udÄ›lat?}
+{162}{}{HledÃ¡m jednu konkrÃ©tnÃ­ vÄ›c a zajÃ­malo by mÄ›, jestli bys ji dokÃ¡zal sehnat.}
+{164}{}{Chci koupit zlatÃ© hodinky. NevÃ­Å¡, kde je seÅ¾enu?}
+{165}{}{Co mÃ¡Å¡ k obchodovÃ¡nÃ­?}
+{166}{}{MÅ¯Å¾eÅ¡ mi nÄ›co povÄ›dÄ›t o tomhle mÄ›stÄ›?}
+{167}{}{Co tady dÄ›lÃ¡Å¡?}
 {168}{}{GECK!}
-{169}{}{Vidím, e jsi zpátky! Tak co víš o farmì?}
-{170}{}{Problém s Farmou Duchù je u vyøešenı. Mùete se tam kdykoliv nastìhovat.}
-{171}{}{Mám pro tebe zprávu od vùdce Svìtloplachù.}
-{172}{}{S-P-R-Á-V-A.}
-{173}{}{Farná?}
-{174}{}{Špatná vìci všechny pryè!}
-{175}{}{Já jít.}
-{176}{}{Vrátím se, a budu mít víc informací.}
-{179}{}{V Denu je jeden opilec, na kterého se hodí Karlùv popis. Øíká o sobì, e bıval farmáø.}
-{180}{}{Ti duchové jsou jen atrapy, loutky obalené vnitønostmi z brahmín. Svìtloplachové vás chtìli odehnat od své úrody.}
-{181}{}{Co e to mám udìlat?}
-{182}{}{Co? Aha, ty jsi tu poprvı. Vítej v Modocu. Jmenuju se Jo a patøí mi místní trnice v Modocu.}
-{183}{}{Jsem na vıpravì za hledáním svatého GECKu. Nevíš, kde ho najdu?}
-{186}{}{No, máš štìstí. Náhodou vím, kde je. Moná bysme mohli udìlat obchod.}
-{187}{}{Obchod? Staèí, kdy mi øekneš, kde najdu ten GECK a já u pùjdu.}
-{188}{}{Koukej mi rychle øíct, kde najdu ten GECK, nebo špatnì skonèíš.}
-{189}{}{Co za tu informaci chceš?}
-{190}{}{Hmm, co za to chci... pokud to ještì nevíš, tak naše osada proívá jedno z nejhorších období sucha. Období dešù bylo letos neobvykle krátkı a naše úroda usychá. Na rovinu, naše mìsto je na pokraji hladovìní.}
-{191}{}{Eh... snad neèekáš, e pøivolám déš?!?}
-{192}{}{(Zasmìje se.) Ne, ne... to samozøejmì ne. Nìco tak nesplnitelnıho bych po tobì nikdy nechtìl. To asi opravdu nedokáeš. Ale jak øíkám, potøebujeme pomoct.}
-{193}{}{Dobøe, poslouchám.}
-{194}{}{Kousek od mìsta leí farma, která by tam nemìla bejt. Pøed pár lety se tam prostì najednou "objevila".}
-{195}{}{Chceš øíct, e ta farma prostì vyrostla pøes noc? No jasnì!}
-{196}{}{Skupina našich lidí byla na lovu, kdy jsme si všimli tı farmy. Na tom by nebylo nic divnıho, ale brzy potom se nìkolik lidí vydalo na návštìvu našeho novıho souseda, jen aby zjistili, e tam vlastnì nikdo nebydlí.}
-{197}{}{Pokraèuj.}
-{198}{}{Po nìkolika mìsících neúspìšnıho kontaktování majitelù jsme došli k závìru, e farma musela bejt opuštìna chvíli po dostavení. A tak, ne abysme nechali úrodu shnít, vyslali jsme tam Karla, aby tam bydlel.}
+{169}{}{VidÃ­m, Å¾e jsi zpÃ¡tky! Tak co vÃ­Å¡ o farmÄ›?}
+{170}{}{ProblÃ©m s Farmou DuchÅ¯ je uÅ¾ vyÅ™eÅ¡enÃ½. MÅ¯Å¾ete se tam kdykoliv nastÄ›hovat.}
+{171}{}{MÃ¡m pro tebe zprÃ¡vu od vÅ¯dce SvÄ›tloplachÅ¯.}
+{172}{}{S-P-R-Ã-V-A.}
+{173}{}{FarnÃ¡?}
+{174}{}{Å patnÃ¡ vÄ›ci vÅ¡echny pryÄ!}
+{175}{}{JÃ¡ jÃ­t.}
+{176}{}{VrÃ¡tÃ­m se, aÅ¾ budu mÃ­t vÃ­c informacÃ­.}
+{179}{}{V Denu je jeden opilec, na kterÃ©ho se hodÃ­ KarlÅ¯v popis. Å˜Ã­kÃ¡ o sobÄ›, Å¾e bÃ½val farmÃ¡Å™.}
+{180}{}{Ti duchovÃ© jsou jen atrapy, loutky obalenÃ© vnitÅ™nostmi z brahmÃ­n. SvÄ›tloplachovÃ© vÃ¡s chtÄ›li odehnat od svÃ© Ãºrody.}
+{181}{}{Co Å¾e to mÃ¡m udÄ›lat?}
+{182}{}{Co? Aha, ty jsi tu poprvÃ½. VÃ­tej v Modocu. Jmenuju se Jo a patÅ™Ã­ mi mÃ­stnÃ­ trÅ¾nice v Modocu.}
+{183}{}{Jsem na vÃ½pravÄ› za hledÃ¡nÃ­m svatÃ©ho GECKu. NevÃ­Å¡, kde ho najdu?}
+{186}{}{No, mÃ¡Å¡ Å¡tÄ›stÃ­. NÃ¡hodou vÃ­m, kde je. MoÅ¾nÃ¡ bysme mohli udÄ›lat obchod.}
+{187}{}{Obchod? StaÄÃ­, kdyÅ¾ mi Å™ekneÅ¡, kde najdu ten GECK a jÃ¡ uÅ¾ pÅ¯jdu.}
+{188}{}{Koukej mi rychle Å™Ã­ct, kde najdu ten GECK, nebo Å¡patnÄ› skonÄÃ­Å¡.}
+{189}{}{Co za tu informaci chceÅ¡?}
+{190}{}{Hmm, co za to chci... pokud to jeÅ¡tÄ› nevÃ­Å¡, tak naÅ¡e osada proÅ¾Ã­vÃ¡ jedno z nejhorÅ¡Ã­ch obdobÃ­ sucha. ObdobÃ­ deÅ¡Å¥Å¯ bylo letos neobvykle krÃ¡tkÃ½ a naÅ¡e Ãºroda usychÃ¡. Na rovinu, naÅ¡e mÄ›sto je na pokraji hladovÄ›nÃ­.}
+{191}{}{Eh... snad neÄekÃ¡Å¡, Å¾e pÅ™ivolÃ¡m dÃ©Å¡Å¥?!?}
+{192}{}{(ZasmÄ›je se.) Ne, ne... to samozÅ™ejmÄ› ne. NÄ›co tak nesplnitelnÃ½ho bych po tobÄ› nikdy nechtÄ›l. To asi opravdu nedokÃ¡Å¾eÅ¡. Ale jak Å™Ã­kÃ¡m, potÅ™ebujeme pomoct.}
+{193}{}{DobÅ™e, poslouchÃ¡m.}
+{194}{}{Kousek od mÄ›sta leÅ¾Ã­ farma, kterÃ¡ by tam nemÄ›la bejt. PÅ™ed pÃ¡r lety se tam prostÄ› najednou "objevila".}
+{195}{}{ChceÅ¡ Å™Ã­ct, Å¾e ta farma prostÄ› vyrostla pÅ™es noc? No jasnÄ›!}
+{196}{}{Skupina naÅ¡ich lidÃ­ byla na lovu, kdyÅ¾ jsme si vÅ¡imli tÃ½ farmy. Na tom by nebylo nic divnÃ½ho, ale brzy potom se nÄ›kolik lidÃ­ vydalo na nÃ¡vÅ¡tÄ›vu naÅ¡eho novÃ½ho souseda, jen aby zjistili, Å¾e tam vlastnÄ› nikdo nebydlÃ­.}
+{197}{}{PokraÄuj.}
+{198}{}{Po nÄ›kolika mÄ›sÃ­cÃ­ch neÃºspÄ›Å¡nÃ½ho kontaktovÃ¡nÃ­ majitelÅ¯ jsme doÅ¡li k zÃ¡vÄ›ru, Å¾e farma musela bejt opuÅ¡tÄ›na chvÃ­li po dostavenÃ­. A tak, neÅ¾ abysme nechali Ãºrodu shnÃ­t, vyslali jsme tam Karla, aby tam bydlel.}
 {199}{}{Hmm... }
-{200}{}{A pak se zaèaly dít vìci. Karl zaèal vyprávìt o divnejch svìtélkujících postavách, kterı v noci dohlíej na úrodu a krmìj zvíøata. Všichni jsme se jeho historkám smáli. Jednoho dne se ale Karl nevrátil do mìsta.}
+{200}{}{A pak se zaÄaly dÃ­t vÄ›ci. Karl zaÄal vyprÃ¡vÄ›t o divnejch svÄ›tÃ©lkujÃ­cÃ­ch postavÃ¡ch, kterÃ½ v noci dohlÃ­Å¾ej na Ãºrodu a krmÄ›j zvÃ­Å™ata. VÅ¡ichni jsme se jeho historkÃ¡m smÃ¡li. Jednoho dne se ale Karl nevrÃ¡til do mÄ›sta.}
 {201}{}{Co se mu stalo? Hledali jste ho?}
-{202}{}{Samozøejmì! Hned jsme se tam vydali, jakmile jsme zaèali mít tušení, e je nìco špatnì. (Zaène se divoce tøást.) No hrùza a dìs. Lidskı tìla byly všude kolem. Nìkterı ukøiovanı, jinı zase hnijící na slunci. Kadou noc se z toho pohledu budím hrùzou.}
-{203}{}{Nech mì hádat. Mám jít na farmu a zjistit, co se tam dìje.}
-{204}{}{Za jinejch okolností bysme to proklatı místo nechali bejt, ale z nìjakıho neznámıho dùvodu se tam skvìle daøí obilí, navzdory tìm hroznejm vedrùm. Jestli se nám brzo nepodaøí sehnat jídlo, budeme hladovìt. Pomùeš nám ty duchy vyhnat?}
-{205}{}{A co z toho budu mít?}
-{206}{}{Jako odmìnu za tvoji pomoc ti prozradím, kde najdeš GECK.}
-{207}{}{Dobøe, domluveno. Na potvrzení dohody si uøízni malíèek.}
-{208}{}{Dobøe, souhlasím. Uka mi, kde je Farma Duchù.}
-{209}{}{Coe?!? Takhle vy u vás potvrzujete dohody? Ale je pravda, e jsme zoufalí a vìøíme, e jedinì ty nám mùeš pomoct, take si myslím, e je to jen malá obì, pokud to zachrání celı naše mìsto. (Jo vytáhne nù a chystá si uøíznout pravı malíèek!)}
-{210}{}{[Vèas ho zastavit] Poèkej! Vidím, e mluvíš pravdu a skuteènì potøebujete pomoc. Pomùu vám.}
-{211}{}{Teï vezmi ten prst a namoè ho do jemné èesnekové omáèky. Vynikající chu!}
-{212}{}{Farma duchù leí asi jeden den cesty severovıchodnì odsud. (Vytáhne mapu a ukáe na bod severovıchodnì od Modocu.) Vra se, a nìco zjistíš.}
-{213}{}{(Jo si v klidu zaváe ruku obvazem a poté vytáhne brokovnici!) Uvidíme, jestli se budeš smát tomuhle, chytráku!}
+{202}{}{SamozÅ™ejmÄ›! Hned jsme se tam vydali, jakmile jsme zaÄali mÃ­t tuÅ¡enÃ­, Å¾e je nÄ›co Å¡patnÄ›. (ZaÄne se divoce tÅ™Ã¡st.) No hrÅ¯za a dÄ›s. LidskÃ½ tÄ›la byly vÅ¡ude kolem. NÄ›kterÃ½ ukÅ™iÅ¾ovanÃ½, jinÃ½ zase hnijÃ­cÃ­ na slunci. KaÅ¾dou noc se z toho pohledu budÃ­m hrÅ¯zou.}
+{203}{}{Nech mÄ› hÃ¡dat. MÃ¡m jÃ­t na farmu a zjistit, co se tam dÄ›je.}
+{204}{}{Za jinejch okolnostÃ­ bysme to proklatÃ½ mÃ­sto nechali bejt, ale z nÄ›jakÃ½ho neznÃ¡mÃ½ho dÅ¯vodu se tam skvÄ›le daÅ™Ã­ obilÃ­, navzdory tÄ›m hroznejm vedrÅ¯m. Jestli se nÃ¡m brzo nepodaÅ™Ã­ sehnat jÃ­dlo, budeme hladovÄ›t. PomÅ¯Å¾eÅ¡ nÃ¡m ty duchy vyhnat?}
+{205}{}{A co z toho budu mÃ­t?}
+{206}{}{Jako odmÄ›nu za tvoji pomoc ti prozradÃ­m, kde najdeÅ¡ GECK.}
+{207}{}{DobÅ™e, domluveno. Na potvrzenÃ­ dohody si uÅ™Ã­zni malÃ­Äek.}
+{208}{}{DobÅ™e, souhlasÃ­m. UkaÅ¾ mi, kde je Farma DuchÅ¯.}
+{209}{}{CoÅ¾e?!? Takhle vy u vÃ¡s potvrzujete dohody? Ale je pravda, Å¾e jsme zoufalÃ­ a vÄ›Å™Ã­me, Å¾e jedinÄ› ty nÃ¡m mÅ¯Å¾eÅ¡ pomoct, takÅ¾e si myslÃ­m, Å¾e je to jen malÃ¡ obÄ›Å¥, pokud to zachrÃ¡nÃ­ celÃ½ naÅ¡e mÄ›sto. (Jo vytÃ¡hne nÅ¯Å¾ a chystÃ¡ si uÅ™Ã­znout pravÃ½ malÃ­Äek!)}
+{210}{}{[VÄas ho zastavit] PoÄkej! VidÃ­m, Å¾e mluvÃ­Å¡ pravdu a skuteÄnÄ› potÅ™ebujete pomoc. PomÅ¯Å¾u vÃ¡m.}
+{211}{}{TeÄ vezmi ten prst a namoÄ ho do jemnÃ© ÄesnekovÃ© omÃ¡Äky. VynikajÃ­cÃ­ chuÅ¥!}
+{212}{}{Farma duchÅ¯ leÅ¾Ã­ asi jeden den cesty severovÃ½chodnÄ› odsud. (VytÃ¡hne mapu a ukÃ¡Å¾e na bod severovÃ½chodnÄ› od Modocu.) VraÅ¥ se, aÅ¾ nÄ›co zjistÃ­Å¡.}
+{213}{}{(Jo si v klidu zavÃ¡Å¾e ruku obvazem a potÃ© vytÃ¡hne brokovnici!) UvidÃ­me, jestli se budeÅ¡ smÃ¡t tomuhle, chytrÃ¡ku!}
 {214}{}{(BUM!)}
-{215}{}{Dìláš si srandu?! Neuøíznu si prst. Jsem zoufalej, ale nejsem hlupák! Take ještì jednou: chceš tu práci nebo ne?}
-{216}{}{Dobøe, udìlám to. Kde leí ta farma?}
-{217}{}{Oèividnì ještì nejste tak zoufalí. Odcházím.}
-{218}{}{Co prosím? Øíkáš GECK?}
-{219}{}{Joo. Øíkat GECK.}
-{220}{}{Já jít.}
-{222}{}{Jmenuju se Jo. Umíš øíct Jo? To je jedno. Hele, vidíš támhletu vìc ve tvaru obdélníku? Tak to jsou dveøe. A pùjdeš pryè, dej pozor, a se nepraštíš.}
-{223}{}{(Nerozumíš, co pøesnì po tobì chce, ale ušklíbneš se a radìji odejdeš.)}
-{224}{}{(Chvíli o nìèem pøemıšlí a poté se na tebe usmìje.) Moná se pøece jenom dohodneme. Jmenuju se Jo a patøí mi místní trnice. Mám nìjakı informace o GECKu. Máš zájem?}
-{225}{}{[Souhlasnì pøikıvnout]}
-{226}{}{[Zápornì zavrtìt hlavou]}
-{227}{}{Vıbornì! Kousek od mìsta se nachází Farma Du... farma. Leí asi jeden den cesty severovıchodnì odsud. Dìjou se tam divnı vìci. Postarej se o to a a se vrátíš, øeknu ti o GECKu.}
-{228}{}{Já teï jít.}
-{229}{}{Nemáme se spolu o èem bavit. Támhle jsou dveøe.}
-{230}{}{Hohó. To je na tebe ještì moc velkej krajíc. Pøijï, a ten krajíc bude o trochu menší. Mìj se pìknì a pozor na dveøe, a budeš odcházet.}
-{231}{}{No... vítej v Modocu. Já jsem Jo a patøí mi místní trnice. Nemáme toho moc. Jen pár farem, jatka, Rózin penzión a koelunu, abysme mohli vyrábìt zboí na prodej. Ale tyhle sucha mùou všechno znièit.}
-{232}{}{Co mi mùeš øíct o jatkách?}
-{233}{}{Rózin penzión?}
-{234}{}{Povìz mi o trnici.}
-{235}{}{Kde je koeluna?}
-{236}{}{Mùu se ještì na nìco zeptat?}
-{237}{}{Na jatkách pracuje Grisham a jeho syn Davin. Je to smìrem na vıchod. Dìlaj nejlepší sušenı maso na tıhle stranì hor.}
-{242}{}{Rózin penzión je na severu mìsta. Všichni pocestní tam chodìj, aby ochutnali její svìtoznámı omelety. Nìkdo dokonce tvrdí, e maj ty omelety léèivı schopnosti. Podle mì je to ale naprostej nesmysl.}
-{247}{}{Jdi rovnou za nosem a urèitì to najdeš. Cejtíš ten odpornej smrad? Tak to je koeluna na severu. Kdy pomineš ten smrad, nenajdeš lepší místo, kde koupit koenı zboí. Balthus umí z kùe udìlat hotovı zázraky.}
-{252}{}{Jak u jsem øekl, jmenuju se Jo a patøí mi místní trnice. Organizuju obchod mezi Modocem a dalšími mìsty. Prodáváme jídlo a koenı vırobky. Ale v tomhle období sucha to mùe brzo skonèit. Zaèínáme bıt zoufalí.}
-{257}{}{O èem chceš vìdìt? O jatkách, Rózinì penziónu, koelunì nebo trnici?}
-{262}{}{No tak to vyklop. Nemùu ti pomoct, kdy mi neøekneš, co potøebuješ. A fakt tu nehodlám stát a pøemejšlet o tom, co hledáš.}
-{263}{}{Hledám svatı GECK.}
-{264}{}{Zapomeò na to.}
-{265}{}{Kromì vırobkù od lidí z Modocu nic nemám. To víš, ty sucha... poøád máš zájem?}
-{266}{}{Pojïme obchodovat.}
-{267}{}{Ne, díky. Mùu se ještì na nìco zeptat?}
-{268}{}{Ne, moná pozdìji. Teï u musím jít.}
-{269}{}{To je dobrá otázka. Vìtšinu èasu se starám o tuhle trnici, ale obèas jsem taky šerif, starosta, soudce nebo jakejkoliv jinej úøedník.}
-{270}{}{Páni, to teda musíš bıt mezi spoluobèany velmi oblíbenı, kdy ti svìøí tolik funkcí.}
-{271}{}{Díky za informace. U pùjdu.}
-{272}{}{Ale prdlajz... mìl jsem prostì smùlu. Jednou jsem byl mimo mìsto pro nìjakı zásoby a kdy jsem se vrátil, zjistil jsem, e mì obèani prostì zvolili. Nikdo jinej to holt nechtìl dìlat. Ale a na pár vıjimek nemusím v podstatì nic dìlat a to mi vyhovuje.}
-{273}{}{Mùu mít ještì pár otázek?}
-{274}{}{CO!? Chceš mì napálit? Kadej ví, e starej Corny ty svoje hodinky ztratil. Dokonce chtìl, abych prohledal dùm jeho nejlepšího pøítele. Radši do toho nestrkej nos, jestli o nìj nechceš pøijít! Hezkı den!}
-{275}{}{(Vezme si od tebe vzkaz od Svìtloplachù.) Co je to? To je vzkaz od lidí ijících na Farmì Duchù? To je úasnı. Èetl jsi... vlastnì... samozøejmì e ne. Je tady ještì pár vìcí, kterı je nutnı projednat mezi Svìtloplachy a lidma z Modocu, ale to je na ten tvùj malej mozeèek moc sloitı, take se o to nemusíš starat.}
-{276}{}{GECK, hned teï!}
-{277}{}{No, to bude trochu sloitìjší. Víš, já vlastnì nevím, co je to ten GECK. Ale znám jedno místo, kterı se jmenuje Gecko. Nikdy jsem tam nebyl, ale je to nìkde na vıchodì. Mrzí mì, e jsem tì musel podvıst. Chtìl bych ti dát za odmìnu nìco lepšího, ale mùu ti nabídnout jenom slevu na naše zboí. Nemám teï moc dobrı zásoby, ale doufám, e se to brzo zlepší a budu tì pak moct poøádnì vybavit.}
-{278}{}{Kretén!}
-{280}{}{Chápu, e se zlobíš, ale nebudu se omlouvat. Potøebovali jsme nìjakıho èlovìka a ty jsi byl zrovna po ruce. Mùu ti øíct jenom jedno: "Moc díky a sbohem."}
-{282}{}{Ne... farma. Farma na severovıchodì. Jdi tam a zbav nás zlıch vìcí.}
-{283}{}{Skvìlı! Hned tam pošlu lidi, aby sklidili úrodu. Díky tobì jsme zachránìni.}
-{284}{}{Ukázat GECK!}
-{285}{}{Svìtloplachové? Kdo je to? Co je tohle? (Jo si pøeète zprávu.) To je neuvìøitelnı! ili celou tu dobu pod zemí. Øíkají, e chtìjí vymìnit jídlo za léky a další vìci. Ale nevím, jestli jim mùem vìøit. Koneckoncù, zabili Karla a spoustu dalších lidi. Co si myslíš ty?}
-{286}{}{Všechna ta tìla jsou falešná. Jsou to jen panáci obalení do vnitøností z brahmín. Chtìli vás odradit od krádee jejich úrody.}
-{287}{}{Jsou velmi citliví na svìtlo. Myslím, e by se s nimi nìkolik lidí se svìtlicema lehce vypoøádali.}
-{288}{}{Karl byl v Denu. Odešel, protoe mu tady nikdo nevìøil, e duchové existují.}
-{289}{}{Drí Jonnyho jako rukojmí! Musíme ihned zaútoèit!}
-{290}{}{Falešnı? Ale já ty tìla vidìl na vlastní oèi. A navíc je Karl poøád nezvìstnej. Jak tohle vysvìtlí? Nemùu jim vìøit, dokud se nepøesvìdèíme, e nic neskrıvaj.}
-{292}{}{Øíkali, e èlovìk, kterı se tam pøed nìkolika rokama nastìhoval, najednou zmizel.}
-{293}{}{To byl Karl. Urèitì ho zabili! Ne. Dokud nezjistíme, co se stalo Karlovi, nemùeme jim vìøit. Doufal jsem, e to nebudeme muset udìlat, ale je tøeba pøevzít jejich farmu. Buï my, nebo oni.}
-{294}{}{Ne, poèkej! Zkusím zjistit, co se stalo Karlovi. Musí existovat nìjaké vysvìtlení, proè zmizel.}
-{295}{}{Souhlasím s útokem! A jejich oèi... jsou jejich slabina.}
-{296}{}{S tím nesouhlasím. Podaøilo se mi zjistit, co se stalo na Farmì Duchù, take mi teï øekni, kde najdu svatı GECK.}
-{297}{}{Dám ti mìsíc na to zjistit, co se stalo Karlovi. Jestli se do tı doby nevrátíš, svolám všechny lidi v Modocu a pøevezmeme farmu násilím.}
-{298}{}{Dobøe, jeden mìsíc! Do té doby nic nedìlejte. Ještì se vrátím.}
-{299}{}{Potøebuju víc èasu. Za tak krátkou dobu je nemoné ho najít.}
-{300}{}{Máš na to mìsíc a ani o jeden den navíc! U jsem ti øíkal, e jsme v zoufalı situaci. U nemáme skoro ádnı zásoby jídla. Máme dost asi na mìsíc a pak budeme hladovìt. Zaènu hned shánìt všechny obyvatele. Radši si pospìš!}
-{301}{}{Prosím, nedìlejte nic unáhleného, dokud se nevrátím!}
-{302}{}{(Pøekvapenì.) V Denu? Já-já si hned myslel, e jsme na nìj byli moc tvrdí. Dokáu si pøedstavit, èím vším musel projít, kdy mu nikdo nevìøil, co se stalo na Farmì Duchù. Øíkáš, e je z nìj teï opilec v Denu? Budu ti moc vdìènej, kdy mu vzkáeš, e u mu vìøíme a e se mùe vrátit. No a mezitím bysme se mìli líp seznámit s tìmi Svìtloplachy.}
-{303}{}{Myslím, e z mojí strany byla dohoda splnìna, take co kdybys mi teï øekl, kde najdu svatı GECK?}
-{304}{}{(Rozpaèitì.) Eh... no, víš, vlastnì nevím nic o tom svatım GECKu, kterı hledáš. Pochop, e jsme byli zoufalí! Ale vím o místì, kterı se jmenuje Gecko. Leí nìkde daleko na vıchodì. Kdybych sázel, vsadil bych se, e ten tvùj GECK je tam. Rád bych ti toho dal víc, ale jsme docela chudí a moc toho nemáme. Mùu ti nabídnout jen nìjakı zboí za nákupní cenu. Ale bude mi potìšením tì zásobit na cesty, a toho budu mít víc, a jsem si jistej, e ostatní obyvatelé Modocu taky. Díky! Díky za naši záchranu.}
-{305}{}{Take zabili Karla stejnì jako všechny ostatní lidi, kterı jsou nabodnutı na kùlech pøed jejich farmou. Dobøe, udìláme to. Víš, kde je jejich úkryt a mùeš nám ukázat cestu. Povedeš nás proti tìm zrádnım Svìtloplachùm?}
-{306}{}{Samozøejmì! Pomùu vám porazit Svìtloplachy.}
-{307}{}{Moná to není moc dobrı nápad. Zkusme vymyslet nìco jiného.}
-{308}{}{Vıbornì. Svolám lidi z mìsta a setkáme se tam.}
-{309}{}{On je tam Jonny!? Hledali jsme ho všude. Ty zrùdy kradou naše dìti. Nebudeme v bezpeèí, dokud nebudou všichni mrtví. Svolám lidi z mìsta a vypálíme to jejich hnízdo. Setkáme se na Farmì Duchù.}
-{310}{}{Jak mùeš nìco takovıho vùbec øíct? My jsme v krizi a ty myslíš jen na sebe. Dobøe, tak si jdi do Gecka. Je to nìkde smìrem na vıchod. Pokud nìkdo nìco ví o GECKu, jsou to urèitì oni. A teï kdy dovolíš, musím jít za ostatníma a domluvit se, co budeme dìlat.}
-{311}{}{Skvìlı. Mimochodem, co byli zaè?}
-{312}{}{Jen spolek mutantù. Jestli to pøedtím nebyli duchové, tak teï u urèitì jsou.}
-{313}{}{Byli to duchové. U jsou pryè. Víc nepotøebuješ vìdìt. A teï mi øekni, kde najdu ten svatı GECK.}
-{314}{}{Chceš øíct, e jsi tam prostì pøišel a všechny je zabil?! To po tobì nikdo nechtìl. Poslali jsme tì zjistit, co se stalo na farmì a pak nám podat hlášení. Radši odejdi, prosím.}
-{315}{}{Zaútoèíme na nì, ale jen v pøípadì nouze. Máme zásoby jídla jen na mìsíc, ne zaèneme hladovìt. Do tı doby musíš zjistit, co se tam dìje. Nebudu s nimi vyjednávat, dokud nebudu pøesnì vìdìt, co se stalo Karlovi.}
-{316}{}{Zaútoèíme na nì, ale jen v pøípadì nouze. Máme zásoby jídla jen na mìsíc, ne zaèneme hladovìt. Do tı doby musíš zjistit, co se tam dìje. Nebudu s nimi vyjednávat, dokud nebudu pøesnì vìdìt, co se stalo Karlovi a taky by mì zajímalo, proè nabodávaj lidská tìla pøed svojí farmou. Nebudu vyjednávat s barbary.}
-{317}{}{Na mùj vkus se ti pøíliš líbí zabíjení. Radši odejdi.}
-{318}{}{(Pøekvapenì.) V Denu? Já-já si hned myslel, e jsme na nìj byli moc tvrdí. Dokáu si pøedstavit, èím vším musel projít, kdy mu nikdo nevìøil, co se stalo na Farmì Duchù. Øíkáš, e je z nìj teï opilec v Denu? Budu ti moc vdìènej, kdy mu vzkáeš, e u mu vìøíme a e se mùe vrátit.}
-{319}{}{Také se mi podaøilo zjistit, e ta nabodnutá tìla pøed Farmou Duchù jsou jen atrapy. Jsou to jen panáci obalení vnitønostmi z brahmín.}
-{320}{}{Promluvíš si teï s vùdcem Svìtloplachù?}
-{321}{}{To je všechno, co prozatím vím.}
-{322}{}{Atrapy? To není monı... vidìl jsem je na vlastní oèi. Všude krev a vnitønosti. Ale... asi je to moné, nedívali jsme se... chci øíct... vlastnì (Jo se zaène èervenat.) Zbabìle jsme utekli, kdy jsme uvidìli ty tìla. Nikdo nemìl odvahu se na nì zblízka podívat.}
-{326}{}{Ano, vìøím tomu, e se Svìtloplachové a obyvatelé Modocu dokáou domluvit a uzavøou vzájemnì vıhodnou dohodu. Díky za záchranu obyvatel Modocu.}
-{327}{}{Ještì je tu taková malièkost jménem odmìna. Sliboval jsi, e mi povíš, kde je svatı GECK.}
-{328}{}{Musíš zjistit, kdo jsou ti lidé nabodnutí pøed Farmou Duchù. }
-{329}{}{Karl pøed èasem zmizel z farmy. Zjisti, co se s ním stalo.}
-{330}{}{Díky, zkusím nìco zjistit.}
+{215}{}{DÄ›lÃ¡Å¡ si srandu?! NeuÅ™Ã­znu si prst. Jsem zoufalej, ale nejsem hlupÃ¡k! TakÅ¾e jeÅ¡tÄ› jednou: chceÅ¡ tu prÃ¡ci nebo ne?}
+{216}{}{DobÅ™e, udÄ›lÃ¡m to. Kde leÅ¾Ã­ ta farma?}
+{217}{}{OÄividnÄ› jeÅ¡tÄ› nejste tak zoufalÃ­. OdchÃ¡zÃ­m.}
+{218}{}{Co prosÃ­m? Å˜Ã­kÃ¡Å¡ GECK?}
+{219}{}{Joo. Å˜Ã­kat GECK.}
+{220}{}{JÃ¡ jÃ­t.}
+{222}{}{Jmenuju se Jo. UmÃ­Å¡ Å™Ã­ct Jo? To je jedno. Hele, vidÃ­Å¡ tÃ¡mhletu vÄ›c ve tvaru obdÃ©lnÃ­ku? Tak to jsou dveÅ™e. AÅ¾ pÅ¯jdeÅ¡ pryÄ, dej pozor, aÅ¥ se nepraÅ¡tÃ­Å¡.}
+{223}{}{(NerozumÃ­Å¡, co pÅ™esnÄ› po tobÄ› chce, ale uÅ¡klÃ­bneÅ¡ se a radÄ›ji odejdeÅ¡.)}
+{224}{}{(ChvÃ­li o nÄ›Äem pÅ™emÃ½Å¡lÃ­ a potÃ© se na tebe usmÄ›je.) MoÅ¾nÃ¡ se pÅ™ece jenom dohodneme. Jmenuju se Jo a patÅ™Ã­ mi mÃ­stnÃ­ trÅ¾nice. MÃ¡m nÄ›jakÃ½ informace o GECKu. MÃ¡Å¡ zÃ¡jem?}
+{225}{}{[SouhlasnÄ› pÅ™ikÃ½vnout]}
+{226}{}{[ZÃ¡pornÄ› zavrtÄ›t hlavou]}
+{227}{}{VÃ½bornÄ›! Kousek od mÄ›sta se nachÃ¡zÃ­ Farma Du... farma. LeÅ¾Ã­ asi jeden den cesty severovÃ½chodnÄ› odsud. DÄ›jou se tam divnÃ½ vÄ›ci. Postarej se o to a aÅ¾ se vrÃ¡tÃ­Å¡, Å™eknu ti o GECKu.}
+{228}{}{JÃ¡ teÄ jÃ­t.}
+{229}{}{NemÃ¡me se spolu o Äem bavit. TÃ¡mhle jsou dveÅ™e.}
+{230}{}{HohÃ³. To je na tebe jeÅ¡tÄ› moc velkej krajÃ­c. PÅ™ijÄ, aÅ¾ ten krajÃ­c bude o trochu menÅ¡Ã­. MÄ›j se pÄ›knÄ› a pozor na dveÅ™e, aÅ¾ budeÅ¡ odchÃ¡zet.}
+{231}{}{No... vÃ­tej v Modocu. JÃ¡ jsem Jo a patÅ™Ã­ mi mÃ­stnÃ­ trÅ¾nice. NemÃ¡me toho moc. Jen pÃ¡r farem, jatka, RÃ³zin penziÃ³n a koÅ¾eluÅ¾nu, abysme mohli vyrÃ¡bÄ›t zboÅ¾Ã­ na prodej. Ale tyhle sucha mÅ¯Å¾ou vÅ¡echno zniÄit.}
+{232}{}{Co mi mÅ¯Å¾eÅ¡ Å™Ã­ct o jatkÃ¡ch?}
+{233}{}{RÃ³zin penziÃ³n?}
+{234}{}{PovÄ›z mi o trÅ¾nici.}
+{235}{}{Kde je koÅ¾eluÅ¾na?}
+{236}{}{MÅ¯Å¾u se jeÅ¡tÄ› na nÄ›co zeptat?}
+{237}{}{Na jatkÃ¡ch pracuje Grisham a jeho syn Davin. Je to smÄ›rem na vÃ½chod. DÄ›laj nejlepÅ¡Ã­ suÅ¡enÃ½ maso na tÃ½hle stranÄ› hor.}
+{242}{}{RÃ³zin penziÃ³n je na severu mÄ›sta. VÅ¡ichni pocestnÃ­ tam chodÄ›j, aby ochutnali jejÃ­ svÄ›toznÃ¡mÃ½ omelety. NÄ›kdo dokonce tvrdÃ­, Å¾e maj ty omelety lÃ©ÄivÃ½ schopnosti. Podle mÄ› je to ale naprostej nesmysl.}
+{247}{}{Jdi rovnou za nosem a urÄitÄ› to najdeÅ¡. CejtÃ­Å¡ ten odpornej smrad? Tak to je koÅ¾eluÅ¾na na severu. KdyÅ¾ pomineÅ¡ ten smrad, nenajdeÅ¡ lepÅ¡Ã­ mÃ­sto, kde koupit koÅ¾enÃ½ zboÅ¾Ã­. Balthus umÃ­ z kÅ¯Å¾e udÄ›lat hotovÃ½ zÃ¡zraky.}
+{252}{}{Jak uÅ¾ jsem Å™ekl, jmenuju se Jo a patÅ™Ã­ mi mÃ­stnÃ­ trÅ¾nice. Organizuju obchod mezi Modocem a dalÅ¡Ã­mi mÄ›sty. ProdÃ¡vÃ¡me jÃ­dlo a koÅ¾enÃ½ vÃ½robky. Ale v tomhle obdobÃ­ sucha to mÅ¯Å¾e brzo skonÄit. ZaÄÃ­nÃ¡me bÃ½t zoufalÃ­.}
+{257}{}{O Äem chceÅ¡ vÄ›dÄ›t? O jatkÃ¡ch, RÃ³zinÄ› penziÃ³nu, koÅ¾eluÅ¾nÄ› nebo trÅ¾nici?}
+{262}{}{No tak to vyklop. NemÅ¯Å¾u ti pomoct, kdyÅ¾ mi neÅ™ekneÅ¡, co potÅ™ebujeÅ¡. A fakt tu nehodlÃ¡m stÃ¡t a pÅ™emejÅ¡let o tom, co hledÃ¡Å¡.}
+{263}{}{HledÃ¡m svatÃ½ GECK.}
+{264}{}{ZapomeÅˆ na to.}
+{265}{}{KromÄ› vÃ½robkÅ¯ od lidÃ­ z Modocu nic nemÃ¡m. To vÃ­Å¡, ty sucha... poÅ™Ã¡d mÃ¡Å¡ zÃ¡jem?}
+{266}{}{PojÄme obchodovat.}
+{267}{}{Ne, dÃ­ky. MÅ¯Å¾u se jeÅ¡tÄ› na nÄ›co zeptat?}
+{268}{}{Ne, moÅ¾nÃ¡ pozdÄ›ji. TeÄ uÅ¾ musÃ­m jÃ­t.}
+{269}{}{To je dobrÃ¡ otÃ¡zka. VÄ›tÅ¡inu Äasu se starÃ¡m o tuhle trÅ¾nici, ale obÄas jsem taky Å¡erif, starosta, soudce nebo jakejkoliv jinej ÃºÅ™ednÃ­k.}
+{270}{}{PÃ¡ni, to teda musÃ­Å¡ bÃ½t mezi spoluobÄany velmi oblÃ­benÃ½, kdyÅ¾ ti svÄ›Å™Ã­ tolik funkcÃ­.}
+{271}{}{DÃ­ky za informace. UÅ¾ pÅ¯jdu.}
+{272}{}{Ale prdlajz... mÄ›l jsem prostÄ› smÅ¯lu. Jednou jsem byl mimo mÄ›sto pro nÄ›jakÃ½ zÃ¡soby a kdyÅ¾ jsem se vrÃ¡til, zjistil jsem, Å¾e mÄ› obÄani prostÄ› zvolili. Nikdo jinej to holt nechtÄ›l dÄ›lat. Ale aÅ¾ na pÃ¡r vÃ½jimek nemusÃ­m v podstatÄ› nic dÄ›lat a to mi vyhovuje.}
+{273}{}{MÅ¯Å¾u mÃ­t jeÅ¡tÄ› pÃ¡r otÃ¡zek?}
+{274}{}{CO!? ChceÅ¡ mÄ› napÃ¡lit? KaÅ¾dej vÃ­, Å¾e starej Corny ty svoje hodinky ztratil. Dokonce chtÄ›l, abych prohledal dÅ¯m jeho nejlepÅ¡Ã­ho pÅ™Ã­tele. RadÅ¡i do toho nestrkej nos, jestli o nÄ›j nechceÅ¡ pÅ™ijÃ­t! HezkÃ½ den!}
+{275}{}{(Vezme si od tebe vzkaz od SvÄ›tloplachÅ¯.) Co je to? To je vzkaz od lidÃ­ Å¾ijÃ­cÃ­ch na FarmÄ› DuchÅ¯? To je ÃºÅ¾asnÃ½. ÄŒetl jsi... vlastnÄ›... samozÅ™ejmÄ› Å¾e ne. Je tady jeÅ¡tÄ› pÃ¡r vÄ›cÃ­, kterÃ½ je nutnÃ½ projednat mezi SvÄ›tloplachy a lidma z Modocu, ale to je na ten tvÅ¯j malej mozeÄek moc sloÅ¾itÃ½, takÅ¾e se o to nemusÃ­Å¡ starat.}
+{276}{}{GECK, hned teÄ!}
+{277}{}{No, to bude trochu sloÅ¾itÄ›jÅ¡Ã­. VÃ­Å¡, jÃ¡ vlastnÄ› nevÃ­m, co je to ten GECK. Ale znÃ¡m jedno mÃ­sto, kterÃ½ se jmenuje Gecko. Nikdy jsem tam nebyl, ale je to nÄ›kde na vÃ½chodÄ›. MrzÃ­ mÄ›, Å¾e jsem tÄ› musel podvÃ½st. ChtÄ›l bych ti dÃ¡t za odmÄ›nu nÄ›co lepÅ¡Ã­ho, ale mÅ¯Å¾u ti nabÃ­dnout jenom slevu na naÅ¡e zboÅ¾Ã­. NemÃ¡m teÄ moc dobrÃ½ zÃ¡soby, ale doufÃ¡m, Å¾e se to brzo zlepÅ¡Ã­ a budu tÄ› pak moct poÅ™Ã¡dnÄ› vybavit.}
+{278}{}{KretÃ©n!}
+{280}{}{ChÃ¡pu, Å¾e se zlobÃ­Å¡, ale nebudu se omlouvat. PotÅ™ebovali jsme nÄ›jakÃ½ho ÄlovÄ›ka a ty jsi byl zrovna po ruce. MÅ¯Å¾u ti Å™Ã­ct jenom jedno: "Moc dÃ­ky a sbohem."}
+{282}{}{Ne... farma. Farma na severovÃ½chodÄ›. Jdi tam a zbav nÃ¡s zlÃ½ch vÄ›cÃ­.}
+{283}{}{SkvÄ›lÃ½! Hned tam poÅ¡lu lidi, aby sklidili Ãºrodu. DÃ­ky tobÄ› jsme zachrÃ¡nÄ›ni.}
+{284}{}{UkÃ¡zat GECK!}
+{285}{}{SvÄ›tloplachovÃ©? Kdo je to? Co je tohle? (Jo si pÅ™eÄte zprÃ¡vu.) To je neuvÄ›Å™itelnÃ½! Å½ili celou tu dobu pod zemÃ­. Å˜Ã­kajÃ­, Å¾e chtÄ›jÃ­ vymÄ›nit jÃ­dlo za lÃ©ky a dalÅ¡Ã­ vÄ›ci. Ale nevÃ­m, jestli jim mÅ¯Å¾em vÄ›Å™it. KoneckoncÅ¯, zabili Karla a spoustu dalÅ¡Ã­ch lidi. Co si myslÃ­Å¡ ty?}
+{286}{}{VÅ¡echna ta tÄ›la jsou faleÅ¡nÃ¡. Jsou to jen panÃ¡ci obalenÃ­ do vnitÅ™nostÃ­ z brahmÃ­n. ChtÄ›li vÃ¡s odradit od krÃ¡deÅ¾e jejich Ãºrody.}
+{287}{}{Jsou velmi citlivÃ­ na svÄ›tlo. MyslÃ­m, Å¾e by se s nimi nÄ›kolik lidÃ­ se svÄ›tlicema lehce vypoÅ™Ã¡dali.}
+{288}{}{Karl byl v Denu. OdeÅ¡el, protoÅ¾e mu tady nikdo nevÄ›Å™il, Å¾e duchovÃ© existujÃ­.}
+{289}{}{DrÅ¾Ã­ Jonnyho jako rukojmÃ­! MusÃ­me ihned zaÃºtoÄit!}
+{290}{}{FaleÅ¡nÃ½? Ale jÃ¡ ty tÄ›la vidÄ›l na vlastnÃ­ oÄi. A navÃ­c je Karl poÅ™Ã¡d nezvÄ›stnej. Jak tohle vysvÄ›tlÃ­? NemÅ¯Å¾u jim vÄ›Å™it, dokud se nepÅ™esvÄ›dÄÃ­me, Å¾e nic neskrÃ½vaj.}
+{292}{}{Å˜Ã­kali, Å¾e ÄlovÄ›k, kterÃ½ se tam pÅ™ed nÄ›kolika rokama nastÄ›hoval, najednou zmizel.}
+{293}{}{To byl Karl. UrÄitÄ› ho zabili! Ne. Dokud nezjistÃ­me, co se stalo Karlovi, nemÅ¯Å¾eme jim vÄ›Å™it. Doufal jsem, Å¾e to nebudeme muset udÄ›lat, ale je tÅ™eba pÅ™evzÃ­t jejich farmu. BuÄ my, nebo oni.}
+{294}{}{Ne, poÄkej! ZkusÃ­m zjistit, co se stalo Karlovi. MusÃ­ existovat nÄ›jakÃ© vysvÄ›tlenÃ­, proÄ zmizel.}
+{295}{}{SouhlasÃ­m s Ãºtokem! A jejich oÄi... jsou jejich slabina.}
+{296}{}{S tÃ­m nesouhlasÃ­m. PodaÅ™ilo se mi zjistit, co se stalo na FarmÄ› DuchÅ¯, takÅ¾e mi teÄ Å™ekni, kde najdu svatÃ½ GECK.}
+{297}{}{DÃ¡m ti mÄ›sÃ­c na to zjistit, co se stalo Karlovi. Jestli se do tÃ½ doby nevrÃ¡tÃ­Å¡, svolÃ¡m vÅ¡echny lidi v Modocu a pÅ™evezmeme farmu nÃ¡silÃ­m.}
+{298}{}{DobÅ™e, jeden mÄ›sÃ­c! Do tÃ© doby nic nedÄ›lejte. JeÅ¡tÄ› se vrÃ¡tÃ­m.}
+{299}{}{PotÅ™ebuju vÃ­c Äasu. Za tak krÃ¡tkou dobu je nemoÅ¾nÃ© ho najÃ­t.}
+{300}{}{MÃ¡Å¡ na to mÄ›sÃ­c a ani o jeden den navÃ­c! UÅ¾ jsem ti Å™Ã­kal, Å¾e jsme v zoufalÃ½ situaci. UÅ¾ nemÃ¡me skoro Å¾Ã¡dnÃ½ zÃ¡soby jÃ­dla. MÃ¡me dost asi na mÄ›sÃ­c a pak budeme hladovÄ›t. ZaÄnu hned shÃ¡nÄ›t vÅ¡echny obyvatele. RadÅ¡i si pospÄ›Å¡!}
+{301}{}{ProsÃ­m, nedÄ›lejte nic unÃ¡hlenÃ©ho, dokud se nevrÃ¡tÃ­m!}
+{302}{}{(PÅ™ekvapenÄ›.) V Denu? JÃ¡-jÃ¡ si hned myslel, Å¾e jsme na nÄ›j byli moc tvrdÃ­. DokÃ¡Å¾u si pÅ™edstavit, ÄÃ­m vÅ¡Ã­m musel projÃ­t, kdyÅ¾ mu nikdo nevÄ›Å™il, co se stalo na FarmÄ› DuchÅ¯. Å˜Ã­kÃ¡Å¡, Å¾e je z nÄ›j teÄ opilec v Denu? Budu ti moc vdÄ›Änej, kdyÅ¾ mu vzkÃ¡Å¾eÅ¡, Å¾e uÅ¾ mu vÄ›Å™Ã­me a Å¾e se mÅ¯Å¾e vrÃ¡tit. No a mezitÃ­m bysme se mÄ›li lÃ­p seznÃ¡mit s tÄ›mi SvÄ›tloplachy.}
+{303}{}{MyslÃ­m, Å¾e z mojÃ­ strany byla dohoda splnÄ›na, takÅ¾e co kdybys mi teÄ Å™ekl, kde najdu svatÃ½ GECK?}
+{304}{}{(RozpaÄitÄ›.) Eh... no, vÃ­Å¡, vlastnÄ› nevÃ­m nic o tom svatÃ½m GECKu, kterÃ½ hledÃ¡Å¡. Pochop, Å¾e jsme byli zoufalÃ­! Ale vÃ­m o mÃ­stÄ›, kterÃ½ se jmenuje Gecko. LeÅ¾Ã­ nÄ›kde daleko na vÃ½chodÄ›. Kdybych sÃ¡zel, vsadil bych se, Å¾e ten tvÅ¯j GECK je tam. RÃ¡d bych ti toho dal vÃ­c, ale jsme docela chudÃ­ a moc toho nemÃ¡me. MÅ¯Å¾u ti nabÃ­dnout jen nÄ›jakÃ½ zboÅ¾Ã­ za nÃ¡kupnÃ­ cenu. Ale bude mi potÄ›Å¡enÃ­m tÄ› zÃ¡sobit na cesty, aÅ¾ toho budu mÃ­t vÃ­c, a jsem si jistej, Å¾e ostatnÃ­ obyvatelÃ© Modocu taky. DÃ­ky! DÃ­ky za naÅ¡i zÃ¡chranu.}
+{305}{}{TakÅ¾e zabili Karla stejnÄ› jako vÅ¡echny ostatnÃ­ lidi, kterÃ½ jsou nabodnutÃ½ na kÅ¯lech pÅ™ed jejich farmou. DobÅ™e, udÄ›lÃ¡me to. VÃ­Å¡, kde je jejich Ãºkryt a mÅ¯Å¾eÅ¡ nÃ¡m ukÃ¡zat cestu. PovedeÅ¡ nÃ¡s proti tÄ›m zrÃ¡dnÃ½m SvÄ›tloplachÅ¯m?}
+{306}{}{SamozÅ™ejmÄ›! PomÅ¯Å¾u vÃ¡m porazit SvÄ›tloplachy.}
+{307}{}{MoÅ¾nÃ¡ to nenÃ­ moc dobrÃ½ nÃ¡pad. Zkusme vymyslet nÄ›co jinÃ©ho.}
+{308}{}{VÃ½bornÄ›. SvolÃ¡m lidi z mÄ›sta a setkÃ¡me se tam.}
+{309}{}{On je tam Jonny!? Hledali jsme ho vÅ¡ude. Ty zrÅ¯dy kradou naÅ¡e dÄ›ti. Nebudeme v bezpeÄÃ­, dokud nebudou vÅ¡ichni mrtvÃ­. SvolÃ¡m lidi z mÄ›sta a vypÃ¡lÃ­me to jejich hnÃ­zdo. SetkÃ¡me se na FarmÄ› DuchÅ¯.}
+{310}{}{Jak mÅ¯Å¾eÅ¡ nÄ›co takovÃ½ho vÅ¯bec Å™Ã­ct? My jsme v krizi a ty myslÃ­Å¡ jen na sebe. DobÅ™e, tak si jdi do Gecka. Je to nÄ›kde smÄ›rem na vÃ½chod. Pokud nÄ›kdo nÄ›co vÃ­ o GECKu, jsou to urÄitÄ› oni. A teÄ kdyÅ¾ dovolÃ­Å¡, musÃ­m jÃ­t za ostatnÃ­ma a domluvit se, co budeme dÄ›lat.}
+{311}{}{SkvÄ›lÃ½. Mimochodem, co byli zaÄ?}
+{312}{}{Jen spolek mutantÅ¯. Jestli to pÅ™edtÃ­m nebyli duchovÃ©, tak teÄ uÅ¾ urÄitÄ› jsou.}
+{313}{}{Byli to duchovÃ©. UÅ¾ jsou pryÄ. VÃ­c nepotÅ™ebujeÅ¡ vÄ›dÄ›t. A teÄ mi Å™ekni, kde najdu ten svatÃ½ GECK.}
+{314}{}{ChceÅ¡ Å™Ã­ct, Å¾e jsi tam prostÄ› pÅ™iÅ¡el a vÅ¡echny je zabil?! To po tobÄ› nikdo nechtÄ›l. Poslali jsme tÄ› zjistit, co se stalo na farmÄ› a pak nÃ¡m podat hlÃ¡Å¡enÃ­. RadÅ¡i odejdi, prosÃ­m.}
+{315}{}{ZaÃºtoÄÃ­me na nÄ›, ale jen v pÅ™Ã­padÄ› nouze. MÃ¡me zÃ¡soby jÃ­dla jen na mÄ›sÃ­c, neÅ¾ zaÄneme hladovÄ›t. Do tÃ½ doby musÃ­Å¡ zjistit, co se tam dÄ›je. Nebudu s nimi vyjednÃ¡vat, dokud nebudu pÅ™esnÄ› vÄ›dÄ›t, co se stalo Karlovi.}
+{316}{}{ZaÃºtoÄÃ­me na nÄ›, ale jen v pÅ™Ã­padÄ› nouze. MÃ¡me zÃ¡soby jÃ­dla jen na mÄ›sÃ­c, neÅ¾ zaÄneme hladovÄ›t. Do tÃ½ doby musÃ­Å¡ zjistit, co se tam dÄ›je. Nebudu s nimi vyjednÃ¡vat, dokud nebudu pÅ™esnÄ› vÄ›dÄ›t, co se stalo Karlovi a taky by mÄ› zajÃ­malo, proÄ nabodÃ¡vaj lidskÃ¡ tÄ›la pÅ™ed svojÃ­ farmou. Nebudu vyjednÃ¡vat s barbary.}
+{317}{}{Na mÅ¯j vkus se ti pÅ™Ã­liÅ¡ lÃ­bÃ­ zabÃ­jenÃ­. RadÅ¡i odejdi.}
+{318}{}{(PÅ™ekvapenÄ›.) V Denu? JÃ¡-jÃ¡ si hned myslel, Å¾e jsme na nÄ›j byli moc tvrdÃ­. DokÃ¡Å¾u si pÅ™edstavit, ÄÃ­m vÅ¡Ã­m musel projÃ­t, kdyÅ¾ mu nikdo nevÄ›Å™il, co se stalo na FarmÄ› DuchÅ¯. Å˜Ã­kÃ¡Å¡, Å¾e je z nÄ›j teÄ opilec v Denu? Budu ti moc vdÄ›Änej, kdyÅ¾ mu vzkÃ¡Å¾eÅ¡, Å¾e uÅ¾ mu vÄ›Å™Ã­me a Å¾e se mÅ¯Å¾e vrÃ¡tit.}
+{319}{}{TakÃ© se mi podaÅ™ilo zjistit, Å¾e ta nabodnutÃ¡ tÄ›la pÅ™ed Farmou DuchÅ¯ jsou jen atrapy. Jsou to jen panÃ¡ci obalenÃ­ vnitÅ™nostmi z brahmÃ­n.}
+{320}{}{PromluvÃ­Å¡ si teÄ s vÅ¯dcem SvÄ›tloplachÅ¯?}
+{321}{}{To je vÅ¡echno, co prozatÃ­m vÃ­m.}
+{322}{}{Atrapy? To nenÃ­ moÅ¾nÃ½... vidÄ›l jsem je na vlastnÃ­ oÄi. VÅ¡ude krev a vnitÅ™nosti. Ale... asi je to moÅ¾nÃ©, nedÃ­vali jsme se... chci Å™Ã­ct... vlastnÄ› (Jo se zaÄne Äervenat.) ZbabÄ›le jsme utekli, kdyÅ¾ jsme uvidÄ›li ty tÄ›la. Nikdo nemÄ›l odvahu se na nÄ› zblÃ­zka podÃ­vat.}
+{326}{}{Ano, vÄ›Å™Ã­m tomu, Å¾e se SvÄ›tloplachovÃ© a obyvatelÃ© Modocu dokÃ¡Å¾ou domluvit a uzavÅ™ou vzÃ¡jemnÄ› vÃ½hodnou dohodu. DÃ­ky za zÃ¡chranu obyvatel Modocu.}
+{327}{}{JeÅ¡tÄ› je tu takovÃ¡ maliÄkost jmÃ©nem odmÄ›na. Sliboval jsi, Å¾e mi povÃ­Å¡, kde je svatÃ½ GECK.}
+{328}{}{MusÃ­Å¡ zjistit, kdo jsou ti lidÃ© nabodnutÃ­ pÅ™ed Farmou DuchÅ¯. }
+{329}{}{Karl pÅ™ed Äasem zmizel z farmy. Zjisti, co se s nÃ­m stalo.}
+{330}{}{DÃ­ky, zkusÃ­m nÄ›co zjistit.}
 {331}{}{Lidi, jako jsi ty, tu nechceme.}
-{400}{}{(Poèkat, a si usekne prst.) Dobøe, teï u vám pomùu.}
-{410}{}{Co je ta velká bílá budova uprostøed mìsta?}
-{500}{}{To je náš mìstskej kostel. Postavili ho obyvatelé Modocu na dùkaz svojí víry. V poslední dobì ale nebylo moc dùvodù vìøit v Boha a tak u nikdo na kázání nechodí.}
-{600}{}{Drazí pøítomní: Shromádili jsme se zde...}
-{602}{}{(Jo otoèí nìkolik stránek ve své knize.)}
-{603}{}{Dobøe, eh... ne zaèneme, je zde nìkdo, kdo ví o nìjakém dùvodu, proè by tito dva nemìli vstoupit do svazku manelského?}
+{400}{}{(PoÄkat, aÅ¾ si usekne prst.) DobÅ™e, teÄ uÅ¾ vÃ¡m pomÅ¯Å¾u.}
+{410}{}{Co je ta velkÃ¡ bÃ­lÃ¡ budova uprostÅ™ed mÄ›sta?}
+{500}{}{To je nÃ¡Å¡ mÄ›stskej kostel. Postavili ho obyvatelÃ© Modocu na dÅ¯kaz svojÃ­ vÃ­ry. V poslednÃ­ dobÄ› ale nebylo moc dÅ¯vodÅ¯ vÄ›Å™it v Boha a tak uÅ¾ nikdo na kÃ¡zÃ¡nÃ­ nechodÃ­.}
+{600}{}{DrazÃ­ pÅ™Ã­tomnÃ­: ShromÃ¡Å¾dili jsme se zde...}
+{602}{}{(Jo otoÄÃ­ nÄ›kolik strÃ¡nek ve svÃ© knize.)}
+{603}{}{DobÅ™e, eh... neÅ¾ zaÄneme, je zde nÄ›kdo, kdo vÃ­ o nÄ›jakÃ©m dÅ¯vodu, proÄ by tito dva nemÄ›li vstoupit do svazku manÅ¾elskÃ©ho?}
 {604}{}{Berete si }
 {605}{}{ tady }
 {606}{}{ za }
-{607}{}{Tímto prohlašuji váš sòatek za právoplatnì uzavøenı. Nyní mùete políbit nevìstu.}
-{608}{}{Tímto prohlašuji váš sòatek za právoplatnì uzavøenı. Nyní mùete políbit jeden druhého.}
-{609}{}{Tímto prohlašuji váš sòatek za právoplatnì uzavøenı. Nyní mùete políbit jeden druhého.}
-{612}{}{(Jo otoèí nìkolik stránek ve své knize.)}
-{625}{}{manela?}
-{626}{}{manelku?}
-{627}{}{ehhh... druhého? Ano, právoplatnì oddaného partnera?}
-{628}{}{druhého?}
+{607}{}{TÃ­mto prohlaÅ¡uji vÃ¡Å¡ sÅˆatek za prÃ¡voplatnÄ› uzavÅ™enÃ½. NynÃ­ mÅ¯Å¾ete polÃ­bit nevÄ›stu.}
+{608}{}{TÃ­mto prohlaÅ¡uji vÃ¡Å¡ sÅˆatek za prÃ¡voplatnÄ› uzavÅ™enÃ½. NynÃ­ mÅ¯Å¾ete polÃ­bit jeden druhÃ©ho.}
+{609}{}{TÃ­mto prohlaÅ¡uji vÃ¡Å¡ sÅˆatek za prÃ¡voplatnÄ› uzavÅ™enÃ½. NynÃ­ mÅ¯Å¾ete polÃ­bit jeden druhÃ©ho.}
+{612}{}{(Jo otoÄÃ­ nÄ›kolik strÃ¡nek ve svÃ© knize.)}
+{625}{}{manÅ¾ela?}
+{626}{}{manÅ¾elku?}
+{627}{}{ehhh... druhÃ©ho? Ano, prÃ¡voplatnÄ› oddanÃ©ho partnera?}
+{628}{}{druhÃ©ho?}
 {629}{}{Mirie}
 {630}{}{Davina}
-{800}{}{Zaútoèíme na Svìtloplachy za }
-{801}{}{ dní, pokud mì do tı doby nepøesvìdèíš.}
-{802}{}{Zaútoèíme na Svìtloplachy zítra, pokud mì do tı doby nepøesvìdèíš.}
-{803}{}{Zaútoèíme na Svìtloplachy ihned! Jdeš s náma nebo ne?}
-{804}{}{Mùete se mnou poèítat!}
-{805}{}{U toho mám dost, nejdu s vámi!}
-{806}{}{Zaútoèíme ihned. Svìtloplachové dokázali, e jim nemùeme vìøit.}
-{820}{}{Jak ti mùu pomoct?}
-{821}{}{U s tím nechci mít nic spoleèného. Z mojí strany je dohoda splnìna. Teï je øada na tobì. Øekni mi, kde je GECK.}
-{850}{}{Vrátím se, jakmile zjistím, co se stalo Karlovi.}
-{900}{}{Díky, mùj pøíteli, za záchranu našeho mìsta.}
-{925}{}{Není zaè. Nashle.}
-{1000}{}{Díky tobì byl Modoc zachránìn.}
-{1500}{}{Vidíš Bo, zástupce soudce.}
+{800}{}{ZaÃºtoÄÃ­me na SvÄ›tloplachy za }
+{801}{}{ dnÃ­, pokud mÄ› do tÃ½ doby nepÅ™esvÄ›dÄÃ­Å¡.}
+{802}{}{ZaÃºtoÄÃ­me na SvÄ›tloplachy zÃ­tra, pokud mÄ› do tÃ½ doby nepÅ™esvÄ›dÄÃ­Å¡.}
+{803}{}{ZaÃºtoÄÃ­me na SvÄ›tloplachy ihned! JdeÅ¡ s nÃ¡ma nebo ne?}
+{804}{}{MÅ¯Å¾ete se mnou poÄÃ­tat!}
+{805}{}{UÅ¾ toho mÃ¡m dost, nejdu s vÃ¡mi!}
+{806}{}{ZaÃºtoÄÃ­me ihned. SvÄ›tloplachovÃ© dokÃ¡zali, Å¾e jim nemÅ¯Å¾eme vÄ›Å™it.}
+{820}{}{Jak ti mÅ¯Å¾u pomoct?}
+{821}{}{UÅ¾ s tÃ­m nechci mÃ­t nic spoleÄnÃ©ho. Z mojÃ­ strany je dohoda splnÄ›na. TeÄ je Å™ada na tobÄ›. Å˜ekni mi, kde je GECK.}
+{850}{}{VrÃ¡tÃ­m se, jakmile zjistÃ­m, co se stalo Karlovi.}
+{900}{}{DÃ­ky, mÅ¯j pÅ™Ã­teli, za zÃ¡chranu naÅ¡eho mÄ›sta.}
+{925}{}{NenÃ­ zaÄ. Nashle.}
+{1000}{}{DÃ­ky tobÄ› byl Modoc zachrÃ¡nÄ›n.}
+{1500}{}{VidÃ­Å¡ Bo, zÃ¡stupce soudce.}

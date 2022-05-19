@@ -1,4 +1,4 @@
-{100}{}{Sestoupíš po zrezlém ebøíku dovnitø ponorky. Vnitøek je temnı a je osvìtlován jen slabou záøí nìkolika 
- pracujících monitorù. Vzduch je odpornı, naplnìn zápachem rzi a zatuchliny. Cítíš se tíivì a stísnìnì.}
-{101}{}{Sestoupíš po zrezlém ebøíku dovnitø ponorky. Vnitøek je temnı a je osvìtlován jen slabou záøí nìkolika 
- pracujících monitorù. Vzduch je odpornı, naplnìn zápachem rzi a zatuchliny. Cítíš se skoro jako doma.}
+{100}{}{SestoupÃ­Å¡ po zrezlÃ©m Å¾ebÅ™Ã­ku dovnitÅ™ ponorky. VnitÅ™ek je temnÃ½ a je osvÄ›tlovÃ¡n jen slabou zÃ¡Å™Ã­ nÄ›kolika 
+ pracujÃ­cÃ­ch monitorÅ¯. Vzduch je odpornÃ½, naplnÄ›n zÃ¡pachem rzi a zatuchliny. CÃ­tÃ­Å¡ se tÃ­Å¾ivÄ› a stÃ­snÄ›nÄ›.}
+{101}{}{SestoupÃ­Å¡ po zrezlÃ©m Å¾ebÅ™Ã­ku dovnitÅ™ ponorky. VnitÅ™ek je temnÃ½ a je osvÄ›tlovÃ¡n jen slabou zÃ¡Å™Ã­ nÄ›kolika 
+ pracujÃ­cÃ­ch monitorÅ¯. Vzduch je odpornÃ½, naplnÄ›n zÃ¡pachem rzi a zatuchliny. CÃ­tÃ­Å¡ se skoro jako doma.}

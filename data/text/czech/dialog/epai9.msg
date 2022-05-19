@@ -1,9 +1,9 @@
-{100}{}{Tyto dveøe jsou zamèené.}
-{101}{}{Vidíš zamèené dveøe zabraòující dalšímu vstupu.}
-{102}{}{Vidíš robustnì vypadající dveøe.}
-{103}{}{Dveøe jsou nyní odemèené.}
-{104}{}{Tyto dveøe jsou ji odemèené a otevøené.}
-{105}{}{Nepodaøilo se ti odemknout dveøe.}
-{106}{}{Zámek se zaseknul.}
-{107}{}{Dveøe jsou nyní zamèené.}
-{108}{}{Nepodaøilo se ti zamknout dveøe.}
+{100}{}{Tyto dveÅ™e jsou zamÄenÃ©.}
+{101}{}{VidÃ­Å¡ zamÄenÃ© dveÅ™e zabraÅˆujÃ­cÃ­ dalÅ¡Ã­mu vstupu.}
+{102}{}{VidÃ­Å¡ robustnÄ› vypadajÃ­cÃ­ dveÅ™e.}
+{103}{}{DveÅ™e jsou nynÃ­ odemÄenÃ©.}
+{104}{}{Tyto dveÅ™e jsou jiÅ¾ odemÄenÃ© a otevÅ™enÃ©.}
+{105}{}{NepodaÅ™ilo se ti odemknout dveÅ™e.}
+{106}{}{ZÃ¡mek se zaseknul.}
+{107}{}{DveÅ™e jsou nynÃ­ zamÄenÃ©.}
+{108}{}{NepodaÅ™ilo se ti zamknout dveÅ™e.}

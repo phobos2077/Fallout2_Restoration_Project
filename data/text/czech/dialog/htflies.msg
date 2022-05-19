@@ -1,2 +1,2 @@
-{100}{}{Tolik much v jedné budovì jsi ještì nikdy v ivotì nevidìl. Nìco je sem musí pøitahovat.}
-{101}{}{U je tu ménì much ne pøedtím.}
+{100}{}{Tolik much v jednÃ© budovÄ› jsi jeÅ¡tÄ› nikdy v Å¾ivotÄ› nevidÄ›l. NÄ›co je sem musÃ­ pÅ™itahovat.}
+{101}{}{UÅ¾ je tu mÃ©nÄ› much neÅ¾ pÅ™edtÃ­m.}

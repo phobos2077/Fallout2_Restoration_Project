@@ -1,81 +1,81 @@
-{100}{}{Vidíš vyhazovaèe kasína.}
-{150}{}{Vidíš vyhazovaèe kasína. Je OBROVSKİ.}
-{151}{}{Vidíš vyhazovaèe kasína. Je velkı a naštvanı.}
-{152}{}{Vidíš vyhazovaèe kasína. Podezøívavì si tì prohlíí.}
-{153}{}{Vidíš vyhazovaèe kasína. A doteï sis myslel, e jenom mutanti jsou takhle velcí.}
-{200}{}{Eh... budete si muset sundat tu zbroj... vlastnì, zapomeòte na to.}
-{201}{}{Eh, pane... nebo madam... budete si muset sundat tu zbroj... vlastnì, zapomeòte na to.}
-{202}{}{Pane... madam... tohle nemùete nosit v našem kasínu... eh, pokud teda opravdu nechcete. Zapomeòte na to.}
-{205}{}{Eh, proè se tady tak plííte, pane?}
-{206}{}{Eh, jste snad v utajení, pane?}
-{210}{}{Eh, proè se tady tak plííte, madam?}
-{211}{}{Eh, jste snad v utajení, madam?}
-{215}{}{Dobrı veèer, pane.}
-{216}{}{Vítejte, pane.}
-{220}{}{Dobrı veèer, madam.}
-{221}{}{Vítejte, madam.}
-{225}{}{Dobrı den pøeji, pane.}
-{230}{}{Dobrı den pøeji, madam.}
-{235}{}{Jseš ve špatnım kasínu, pøíteli.}
-{236}{}{Mìla bys radši odejít. Hned.}
-{237}{}{Jestli tu zùstaneš, hazarduješ se svım ivotem. Radši odejdi.}
-{240}{}{Jseš ve špatnım kasínu, dìvko.}
-{241}{}{Mìla bys radši odejít. Hned.}
-{242}{}{Jestli tu zùstaneš, hazarduješ se svım ivotem. Radši odejdi.}
-{245}{}{Je mi líto, pane, ale tu zbraò budete muset dát pryè.}
-{250}{}{Je mi líto, madam, ale tu zbraò budete muset dát pryè.}
-{255}{}{Do tohohle kasína nemùeš se zbranìmi, zlato. Hehe... u tak jsi smrtící i bez nich.}
-{260}{}{S takovouhle figurou se nikam neproplííš, zlato.}
-{265}{}{Radši bys mìl tu zbraò schovat, divochu. HNED.}
-{270}{}{Divochu, pøestaò se tu kurva plíit. HNED.}
-{275}{}{Nazdar, nazdar... Myrone! U jsem tì dlouho nevidìl vylízt z laboratoøe.}
-{276}{}{Jdeš vyzkoušet to novı 'zboí', Myrone?}
-{277}{}{Nazdar! Pojï dovnitø, Myrone.}
-{280}{}{Mutantùm vstup zakázán. Musí poèkat venku.}
-{281}{}{Nech svıho mutantskıho kamaráda venku.}
-{282}{}{Ta mutantská obluda sem nesmí.}
-{285}{}{Droidùm vstup zakázán.}
+{100}{}{VidÃ­Å¡ vyhazovaÄe kasÃ­na.}
+{150}{}{VidÃ­Å¡ vyhazovaÄe kasÃ­na. Je OBROVSKÃ.}
+{151}{}{VidÃ­Å¡ vyhazovaÄe kasÃ­na. Je velkÃ½ a naÅ¡tvanÃ½.}
+{152}{}{VidÃ­Å¡ vyhazovaÄe kasÃ­na. PodezÅ™Ã­vavÄ› si tÄ› prohlÃ­Å¾Ã­.}
+{153}{}{VidÃ­Å¡ vyhazovaÄe kasÃ­na. AÅ¾ doteÄ sis myslel, Å¾e jenom mutanti jsou takhle velcÃ­.}
+{200}{}{Eh... budete si muset sundat tu zbroj... vlastnÄ›, zapomeÅˆte na to.}
+{201}{}{Eh, pane... nebo madam... budete si muset sundat tu zbroj... vlastnÄ›, zapomeÅˆte na to.}
+{202}{}{Pane... madam... tohle nemÅ¯Å¾ete nosit v naÅ¡em kasÃ­nu... eh, pokud teda opravdu nechcete. ZapomeÅˆte na to.}
+{205}{}{Eh, proÄ se tady tak plÃ­Å¾Ã­te, pane?}
+{206}{}{Eh, jste snad v utajenÃ­, pane?}
+{210}{}{Eh, proÄ se tady tak plÃ­Å¾Ã­te, madam?}
+{211}{}{Eh, jste snad v utajenÃ­, madam?}
+{215}{}{DobrÃ½ veÄer, pane.}
+{216}{}{VÃ­tejte, pane.}
+{220}{}{DobrÃ½ veÄer, madam.}
+{221}{}{VÃ­tejte, madam.}
+{225}{}{DobrÃ½ den pÅ™eji, pane.}
+{230}{}{DobrÃ½ den pÅ™eji, madam.}
+{235}{}{JseÅ¡ ve Å¡patnÃ½m kasÃ­nu, pÅ™Ã­teli.}
+{236}{}{MÄ›la bys radÅ¡i odejÃ­t. Hned.}
+{237}{}{Jestli tu zÅ¯staneÅ¡, hazardujeÅ¡ se svÃ½m Å¾ivotem. RadÅ¡i odejdi.}
+{240}{}{JseÅ¡ ve Å¡patnÃ½m kasÃ­nu, dÄ›vko.}
+{241}{}{MÄ›la bys radÅ¡i odejÃ­t. Hned.}
+{242}{}{Jestli tu zÅ¯staneÅ¡, hazardujeÅ¡ se svÃ½m Å¾ivotem. RadÅ¡i odejdi.}
+{245}{}{Je mi lÃ­to, pane, ale tu zbraÅˆ budete muset dÃ¡t pryÄ.}
+{250}{}{Je mi lÃ­to, madam, ale tu zbraÅˆ budete muset dÃ¡t pryÄ.}
+{255}{}{Do tohohle kasÃ­na nemÅ¯Å¾eÅ¡ se zbranÄ›mi, zlato. Hehe... uÅ¾ tak jsi smrtÃ­cÃ­ i bez nich.}
+{260}{}{S takovouhle figurou se nikam neproplÃ­Å¾Ã­Å¡, zlato.}
+{265}{}{RadÅ¡i bys mÄ›l tu zbraÅˆ schovat, divochu. HNED.}
+{270}{}{Divochu, pÅ™estaÅˆ se tu kurva plÃ­Å¾it. HNED.}
+{275}{}{Nazdar, nazdar... Myrone! UÅ¾ jsem tÄ› dlouho nevidÄ›l vylÃ­zt z laboratoÅ™e.}
+{276}{}{JdeÅ¡ vyzkouÅ¡et to novÃ½ 'zboÅ¾Ã­', Myrone?}
+{277}{}{Nazdar! PojÄ dovnitÅ™, Myrone.}
+{280}{}{MutantÅ¯m vstup zakÃ¡zÃ¡n. MusÃ­ poÄkat venku.}
+{281}{}{Nech svÃ½ho mutantskÃ½ho kamarÃ¡da venku.}
+{282}{}{Ta mutantskÃ¡ obluda sem nesmÃ­.}
+{285}{}{DroidÅ¯m vstup zakÃ¡zÃ¡n.}
 {286}{}{Droidy neobsluhujeme.}
-{287}{}{ádní droidi. Musí poèkat venku.}
-{290}{}{Vítejte v kasínu, pane.}
-{291}{}{Líbí se mi vaše obleèení, pane.}
-{292}{}{Dnes ádné problémy, pane.}
-{293}{}{Eh, nìjakı problém, pane? Nebo jste si jen pøišel zahrát?}
-{294}{}{Tommy Tvrïák se nechá porouèet.}
-{295}{}{Nepøimluvíte se za mì u šéfa?}
-{296}{}{Vítejte v kasínu, madam.}
-{297}{}{Líbí se mi vaše obleèení, madam.}
-{298}{}{Dnes ádné problémy, madam.}
-{299}{}{Eh, nìjakı problém, madam? Nebo jste si jen pøišla zahrát?}
-{310}{}{Vítejte v kasínu, pane.}
-{311}{}{Líbí se mi vaše obleèení, pane.}
-{312}{}{Kdy máte pøíští zápas, pane?}
-{315}{}{Vítejte v kasínu, madam.}
-{316}{}{Líbí se mi vaše obleèení, madam.}
-{317}{}{Kdy máte další zápas, madam?}
-{320}{}{Kdy se u mì zastavíš a vyzkoušíš si mì?}
-{321}{}{Nazdar, vítej v kasínu! Ty tady dneska veèer tancuješ?}
-{322}{}{Vypadáš fakt luxusnì, zlato.}
-{323}{}{Paní Štìstìna zaène brzo árlit, jestli sem budeš poøád chodit.}
-{324}{}{Slyšel jsem, e tì chce Tommy Tvrïák pozvat na soukromej casting.}
-{330}{}{Kasíno je uvnitø. Nemluvte na mì.}
-{331}{}{Kasíno je uvnitø. UVNITØ. Blbı divošky.}
-{335}{}{Pøestaò tady vrtìt tím svım zadkem, divoško.}
-{336}{}{Kasíno je uvnitø. UVNITØ. Blbı divošky.}
-{337}{}{Nemám zájem o divošky. Padej.}
-{338}{}{Vystøel, pindo. Mám práci.}
-{339}{}{Jdi za nìkım oralejším, pindo.}
-{345}{}{Nemìl bych se sice vykecávat pøi práci, ale jsem rád, e Enklávì koneènì nìkdo nakopal prdel.}
-{346}{}{Jseš fakt v pohodì, divochu. Teï si odpoèiò od toho všeho zachraòování svìta a uívej si.}
-{347}{}{Slyšel jsem, e se po tobì shání Tommy Tvrïák. Dávej si bacha.}
-{350}{}{Musíš mít sakra odvahu, kdy jsi vyøídil Enklávu.}
-{351}{}{Øekl bych, e vyøídit Enklávu tímhle zpùsobem vyadovalo vìtší koule, ne má celı New Reno dohromady.}
-{352}{}{Znièením Enklávy se z tebe stal skoro stejnej frajer jako je Tommy Tvrïák.}
-{353}{}{Nemìl bych se sice vykecávat pøi práci, ale jsem rád, e Enklávì koneènì nìkdo nakopal prdel.}
-{354}{}{Jseš fakt v pohodì, divochu. Teï si odpoèiò od toho všeho zachraòování svìta a uívej si.}
-{355}{}{Máš fakt poøádnı koule, kdy jsi vyøídil Enklávu tímhle zpùsobem. No, tím nemyslím KOULE jako koule, ale víš, jak to myslím, ne?}
-{356}{}{Zlato, øekl bych, e vyøídit Enklávu tímhle zpùsobem vyadovalo vìtší koule, ne má celı New Reno dohromady.}
-{357}{}{Myslíš, e by mìl chlap jako já u tebe šanci? Nejsem sice ádnej hrdina, ale jsem docela silnej a mám dobrı srdce.}
-{360}{}{Jestli sem ten ghoul pøijde, chcípne podruhı.}
-{361}{}{Ten ghoul zùstane venku.}
-{362}{}{Ghouly sem nepouštíme. Odveï ho zpátky do Gecka, kam všechna tahle verbe patøí.}
+{287}{}{Å½Ã¡dnÃ­ droidi. MusÃ­ poÄkat venku.}
+{290}{}{VÃ­tejte v kasÃ­nu, pane.}
+{291}{}{LÃ­bÃ­ se mi vaÅ¡e obleÄenÃ­, pane.}
+{292}{}{Dnes Å¾Ã¡dnÃ© problÃ©my, pane.}
+{293}{}{Eh, nÄ›jakÃ½ problÃ©m, pane? Nebo jste si jen pÅ™iÅ¡el zahrÃ¡t?}
+{294}{}{Tommy TvrÄÃ¡k se nechÃ¡ porouÄet.}
+{295}{}{NepÅ™imluvÃ­te se za mÄ› u Å¡Ã©fa?}
+{296}{}{VÃ­tejte v kasÃ­nu, madam.}
+{297}{}{LÃ­bÃ­ se mi vaÅ¡e obleÄenÃ­, madam.}
+{298}{}{Dnes Å¾Ã¡dnÃ© problÃ©my, madam.}
+{299}{}{Eh, nÄ›jakÃ½ problÃ©m, madam? Nebo jste si jen pÅ™iÅ¡la zahrÃ¡t?}
+{310}{}{VÃ­tejte v kasÃ­nu, pane.}
+{311}{}{LÃ­bÃ­ se mi vaÅ¡e obleÄenÃ­, pane.}
+{312}{}{Kdy mÃ¡te pÅ™Ã­Å¡tÃ­ zÃ¡pas, pane?}
+{315}{}{VÃ­tejte v kasÃ­nu, madam.}
+{316}{}{LÃ­bÃ­ se mi vaÅ¡e obleÄenÃ­, madam.}
+{317}{}{Kdy mÃ¡te dalÅ¡Ã­ zÃ¡pas, madam?}
+{320}{}{Kdy se u mÄ› zastavÃ­Å¡ a vyzkouÅ¡Ã­Å¡ si mÄ›?}
+{321}{}{Nazdar, vÃ­tej v kasÃ­nu! Ty tady dneska veÄer tancujeÅ¡?}
+{322}{}{VypadÃ¡Å¡ fakt luxusnÄ›, zlato.}
+{323}{}{PanÃ­ Å tÄ›stÄ›na zaÄne brzo Å¾Ã¡rlit, jestli sem budeÅ¡ poÅ™Ã¡d chodit.}
+{324}{}{SlyÅ¡el jsem, Å¾e tÄ› chce Tommy TvrÄÃ¡k pozvat na soukromej casting.}
+{330}{}{KasÃ­no je uvnitÅ™. Nemluvte na mÄ›.}
+{331}{}{KasÃ­no je uvnitÅ™. UVNITÅ˜. BlbÃ½ divoÅ¡ky.}
+{335}{}{PÅ™estaÅˆ tady vrtÄ›t tÃ­m svÃ½m zadkem, divoÅ¡ko.}
+{336}{}{KasÃ­no je uvnitÅ™. UVNITÅ˜. BlbÃ½ divoÅ¡ky.}
+{337}{}{NemÃ¡m zÃ¡jem o divoÅ¡ky. Padej.}
+{338}{}{VystÅ™el, pindo. MÃ¡m prÃ¡ci.}
+{339}{}{Jdi za nÄ›kÃ½m oÅ¾ralejÅ¡Ã­m, pindo.}
+{345}{}{NemÄ›l bych se sice vykecÃ¡vat pÅ™i prÃ¡ci, ale jsem rÃ¡d, Å¾e EnklÃ¡vÄ› koneÄnÄ› nÄ›kdo nakopal prdel.}
+{346}{}{JseÅ¡ fakt v pohodÄ›, divochu. TeÄ si odpoÄiÅˆ od toho vÅ¡eho zachraÅˆovÃ¡nÃ­ svÄ›ta a uÅ¾Ã­vej si.}
+{347}{}{SlyÅ¡el jsem, Å¾e se po tobÄ› shÃ¡nÃ­ Tommy TvrÄÃ¡k. DÃ¡vej si bacha.}
+{350}{}{MusÃ­Å¡ mÃ­t sakra odvahu, kdyÅ¾ jsi vyÅ™Ã­dil EnklÃ¡vu.}
+{351}{}{Å˜ekl bych, Å¾e vyÅ™Ã­dit EnklÃ¡vu tÃ­mhle zpÅ¯sobem vyÅ¾adovalo vÄ›tÅ¡Ã­ koule, neÅ¾ mÃ¡ celÃ½ New Reno dohromady.}
+{352}{}{ZniÄenÃ­m EnklÃ¡vy se z tebe stal skoro stejnej frajer jako je Tommy TvrÄÃ¡k.}
+{353}{}{NemÄ›l bych se sice vykecÃ¡vat pÅ™i prÃ¡ci, ale jsem rÃ¡d, Å¾e EnklÃ¡vÄ› koneÄnÄ› nÄ›kdo nakopal prdel.}
+{354}{}{JseÅ¡ fakt v pohodÄ›, divochu. TeÄ si odpoÄiÅˆ od toho vÅ¡eho zachraÅˆovÃ¡nÃ­ svÄ›ta a uÅ¾Ã­vej si.}
+{355}{}{MÃ¡Å¡ fakt poÅ™Ã¡dnÃ½ koule, kdyÅ¾ jsi vyÅ™Ã­dil EnklÃ¡vu tÃ­mhle zpÅ¯sobem. No, tÃ­m nemyslÃ­m KOULE jako koule, ale vÃ­Å¡, jak to myslÃ­m, ne?}
+{356}{}{Zlato, Å™ekl bych, Å¾e vyÅ™Ã­dit EnklÃ¡vu tÃ­mhle zpÅ¯sobem vyÅ¾adovalo vÄ›tÅ¡Ã­ koule, neÅ¾ mÃ¡ celÃ½ New Reno dohromady.}
+{357}{}{MyslÃ­Å¡, Å¾e by mÄ›l chlap jako jÃ¡ u tebe Å¡anci? Nejsem sice Å¾Ã¡dnej hrdina, ale jsem docela silnej a mÃ¡m dobrÃ½ srdce.}
+{360}{}{Jestli sem ten ghoul pÅ™ijde, chcÃ­pne podruhÃ½.}
+{361}{}{Ten ghoul zÅ¯stane venku.}
+{362}{}{Ghouly sem nepouÅ¡tÃ­me. OdveÄ ho zpÃ¡tky do Gecka, kam vÅ¡echna tahle verbeÅ¾ patÅ™Ã­.}

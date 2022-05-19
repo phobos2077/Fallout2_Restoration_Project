@@ -1,21 +1,21 @@
 {100}{}{}
 {101}{}{}
-{110}{}{Svrbí tì chodidla.}
-{120}{}{Na nohou se ti zaèínají tvoøit ošklivé puchıøe.}
-{130}{}{Boty ti zaèínají bıt tìsné. Ty puchıøe zaèínají bıt zanícené.}
-{140}{}{Zdá se, e se puchıø na kadé noze zmìnil v další prst. Ale aspoò, e to hrozné svìdìní pøestalo.}
-{141}{}{Mùj boe, to je Bess!}
-{150}{}{Získáváš }
-{151}{}{ zkušenostních bodù za nalezení GECKu.}
-{400}{}{Vùbec nerozumíš textu, ale obrázky jsou celkem srozumitelné.}
-{500}{}{Máš závislost na alkoholu. ízeò po nìm tì brzy pohltí.}
-{600}{}{Nìco není v poøádku s tvım aludkem.}
-{601}{}{Cítíš silnı tlak v aludku.}
-{700}{}{Pøiloíš k sobì roztrhané kousky papíru a získáš tak list se tøemi hesly.}
-{800}{}{Dostáváš èím dál vìtší chu na alkohol.}
-{801}{}{Tøeseš se. Máš silnou touhu vypít nìco alkoholického.}
-{802}{}{Cítíš se, jako by z tebe spadl velkı kámen. U nemáš touhu pít alkohol.}
-{900}{}{Nìco není v poøádku s tvım aludkem.}
-{901}{}{Cítíš silnı tlak v aludku.}
-{1000}{}{Nedokáeš normálnì myslet. Máš vášnivou touhu otevøít další balíèek karet Tragic.}
-{1001}{}{Cítíš se, jako by z tebe spadl velkı kámen. Karty Tragic u nejsou to jediné, co se ti honí hlavou.}
+{110}{}{SvrbÃ­ tÄ› chodidla.}
+{120}{}{Na nohou se ti zaÄÃ­najÃ­ tvoÅ™it oÅ¡klivÃ© puchÃ½Å™e.}
+{130}{}{Boty ti zaÄÃ­najÃ­ bÃ½t tÄ›snÃ©. Ty puchÃ½Å™e zaÄÃ­najÃ­ bÃ½t zanÃ­cenÃ©.}
+{140}{}{ZdÃ¡ se, Å¾e se puchÃ½Å™ na kaÅ¾dÃ© noze zmÄ›nil v dalÅ¡Ã­ prst. Ale aspoÅˆ, Å¾e to hroznÃ© svÄ›dÄ›nÃ­ pÅ™estalo.}
+{141}{}{MÅ¯j boÅ¾e, to je Bess!}
+{150}{}{ZÃ­skÃ¡vÃ¡Å¡ }
+{151}{}{ zkuÅ¡enostnÃ­ch bodÅ¯ za nalezenÃ­ GECKu.}
+{400}{}{VÅ¯bec nerozumÃ­Å¡ textu, ale obrÃ¡zky jsou celkem srozumitelnÃ©.}
+{500}{}{MÃ¡Å¡ zÃ¡vislost na alkoholu. Å½Ã­zeÅˆ po nÄ›m tÄ› brzy pohltÃ­.}
+{600}{}{NÄ›co nenÃ­ v poÅ™Ã¡dku s tvÃ½m Å¾aludkem.}
+{601}{}{CÃ­tÃ­Å¡ silnÃ½ tlak v Å¾aludku.}
+{700}{}{PÅ™iloÅ¾Ã­Å¡ k sobÄ› roztrhanÃ© kousky papÃ­ru a zÃ­skÃ¡Å¡ tak list se tÅ™emi hesly.}
+{800}{}{DostÃ¡vÃ¡Å¡ ÄÃ­m dÃ¡l vÄ›tÅ¡Ã­ chuÅ¥ na alkohol.}
+{801}{}{TÅ™eseÅ¡ se. MÃ¡Å¡ silnou touhu vypÃ­t nÄ›co alkoholickÃ©ho.}
+{802}{}{CÃ­tÃ­Å¡ se, jako by z tebe spadl velkÃ½ kÃ¡men. UÅ¾ nemÃ¡Å¡ touhu pÃ­t alkohol.}
+{900}{}{NÄ›co nenÃ­ v poÅ™Ã¡dku s tvÃ½m Å¾aludkem.}
+{901}{}{CÃ­tÃ­Å¡ silnÃ½ tlak v Å¾aludku.}
+{1000}{}{NedokÃ¡Å¾eÅ¡ normÃ¡lnÄ› myslet. MÃ¡Å¡ vÃ¡Å¡nivou touhu otevÅ™Ã­t dalÅ¡Ã­ balÃ­Äek karet Tragic.}
+{1001}{}{CÃ­tÃ­Å¡ se, jako by z tebe spadl velkÃ½ kÃ¡men. Karty Tragic uÅ¾ nejsou to jedinÃ©, co se ti honÃ­ hlavou.}

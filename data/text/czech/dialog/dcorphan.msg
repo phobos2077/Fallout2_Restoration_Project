@@ -1,54 +1,54 @@
-{100}{}{Vidíš dítì.}
-{150}{}{Vidíš malého sirotka.}
-{200}{}{Nemáš nìjakı drobnı?}
-{201}{}{Coe?}
-{202}{}{Já nic nedìlám!}
+{100}{}{VidÃ­Å¡ dÃ­tÄ›.}
+{150}{}{VidÃ­Å¡ malÃ©ho sirotka.}
+{200}{}{NemÃ¡Å¡ nÄ›jakÃ½ drobnÃ½?}
+{201}{}{CoÅ¾e?}
+{202}{}{JÃ¡ nic nedÄ›lÃ¡m!}
 {210}{}{Tohle je Tubbyho obchod.}
-{211}{}{Tubby prodává špatnı vìci.}
-{212}{}{Tubby není moc hodnı.}
-{213}{}{Tubby legraènì smrdí.}
-{220}{}{Tohle je Flickùv obchod.}
-{221}{}{Flick je hodnı.}
-{222}{}{Flick prodává spoustu rùznıch vìcí.}
-{223}{}{Nezapomeò Flicka pozdravit.}
+{211}{}{Tubby prodÃ¡vÃ¡ Å¡patnÃ½ vÄ›ci.}
+{212}{}{Tubby nenÃ­ moc hodnÃ½.}
+{213}{}{Tubby legraÄnÄ› smrdÃ­.}
+{220}{}{Tohle je FlickÅ¯v obchod.}
+{221}{}{Flick je hodnÃ½.}
+{222}{}{Flick prodÃ¡vÃ¡ spoustu rÅ¯znÃ½ch vÄ›cÃ­.}
+{223}{}{NezapomeÅˆ Flicka pozdravit.}
 {230}{}{Tohle je Frankieho obchod.}
-{231}{}{Jsi Frankieho kámoš?}
-{232}{}{Tohle místo divnì smrdí.}
-{233}{}{Frankieho drinky jsou drahı... se øíká.}
-{240}{}{Becky je tak hodná.}
-{241}{}{Tohle je Rebeèin bar.}
-{242}{}{Becky má nejlepší ceny pití... se øíká.}
-{243}{}{Rebecca mì nenechá hrát její hry.}
-{244}{}{Becky je tak hezká.}
-{245}{}{U jsi potkal Rebeccu? Ké by tak byla moje máma.}
-{250}{}{Haló, paní, nemáte nìjakı drobnı?}
-{251}{}{Haló, pane, nemáte nìjakı drobnı?}
-{270}{}{Budeš tam jen stát, nebo pùjdeš dovnitø?}
+{231}{}{Jsi Frankieho kÃ¡moÅ¡?}
+{232}{}{Tohle mÃ­sto divnÄ› smrdÃ­.}
+{233}{}{Frankieho drinky jsou drahÃ½... se Å™Ã­kÃ¡.}
+{240}{}{Becky je tak hodnÃ¡.}
+{241}{}{Tohle je RebeÄin bar.}
+{242}{}{Becky mÃ¡ nejlepÅ¡Ã­ ceny pitÃ­... se Å™Ã­kÃ¡.}
+{243}{}{Rebecca mÄ› nenechÃ¡ hrÃ¡t jejÃ­ hry.}
+{244}{}{Becky je tak hezkÃ¡.}
+{245}{}{UÅ¾ jsi potkal Rebeccu? KÃ©Å¾ by tak byla moje mÃ¡ma.}
+{250}{}{HalÃ³, panÃ­, nemÃ¡te nÄ›jakÃ½ drobnÃ½?}
+{251}{}{HalÃ³, pane, nemÃ¡te nÄ›jakÃ½ drobnÃ½?}
+{270}{}{BudeÅ¡ tam jen stÃ¡t, nebo pÅ¯jdeÅ¡ dovnitÅ™?}
 {271}{}{Ahoj.}
-{272}{}{Mám hlad.}
-{273}{}{Hej, ty! Tubby má poøád otevøeno. Pojï dál.}
-{280}{}{Jdeš dovnitø nebo co??}
-{281}{}{Pojï se podívat k Flickovi.}
+{272}{}{MÃ¡m hlad.}
+{273}{}{Hej, ty! Tubby mÃ¡ poÅ™Ã¡d otevÅ™eno. PojÄ dÃ¡l.}
+{280}{}{JdeÅ¡ dovnitÅ™ nebo co??}
+{281}{}{PojÄ se podÃ­vat k Flickovi.}
 {282}{}{Ahoj.}
-{283}{}{Hej, ty tam! Pojï se podívat k Flickovi.}
-{290}{}{Jdeš teda dovnitø?}
+{283}{}{Hej, ty tam! PojÄ se podÃ­vat k Flickovi.}
+{290}{}{JdeÅ¡ teda dovnitÅ™?}
 {291}{}{Ahoj.}
-{292}{}{Nedìlej to.}
-{293}{}{Hej! Frankie má skvìlı vìci.}
-{300}{}{Jdi dovnitø, Becky je opravdu hodná.}
-{301}{}{Jen se tak dívám.}
-{302}{}{Jé, ty jsi hezká.}
+{292}{}{NedÄ›lej to.}
+{293}{}{Hej! Frankie mÃ¡ skvÄ›lÃ½ vÄ›ci.}
+{300}{}{Jdi dovnitÅ™, Becky je opravdu hodnÃ¡.}
+{301}{}{Jen se tak dÃ­vÃ¡m.}
+{302}{}{JÃ©, ty jsi hezkÃ¡.}
 {303}{}{Ahoj.}
-{304}{}{Jak se jmenuješ?}
-{305}{}{Becky by ses líbil.}
-{306}{}{Hej! Pojï se podívat k Becky.}
-{310}{}{Ááááá! Dej mi pokoj.}
-{311}{}{Pomoc, jsem utiskován!}
-{312}{}{Násilí je v tomhle systému bìnou záleitostí.}
-{313}{}{Nic jsem neudìlal}
-{314}{}{Áááá!}
-{315}{}{Minuli mì.}
-{316}{}{Máš ji.}
+{304}{}{Jak se jmenujeÅ¡?}
+{305}{}{Becky by ses lÃ­bil.}
+{306}{}{Hej! PojÄ se podÃ­vat k Becky.}
+{310}{}{ÃÃ¡Ã¡Ã¡Ã¡! Dej mi pokoj.}
+{311}{}{Pomoc, jsem utiskovÃ¡n!}
+{312}{}{NÃ¡silÃ­ je v tomhle systÃ©mu bÄ›Å¾nou zÃ¡leÅ¾itostÃ­.}
+{313}{}{Nic jsem neudÄ›lal}
+{314}{}{ÃÃ¡Ã¡Ã¡!}
+{315}{}{Minuli mÄ›.}
+{316}{}{MÃ¡Å¡ ji.}
 {317}{}{Ne!}
 {318}{}{Nech toho.}
-{319}{}{Nic jsem ti neudìlal!}
+{319}{}{Nic jsem ti neudÄ›lal!}

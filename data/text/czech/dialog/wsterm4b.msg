@@ -1,36 +1,36 @@
-{100}{}{Poèítaèovı terminál.}
+{100}{}{PoÄÃ­taÄovÃ½ terminÃ¡l.}
 {101}{}{It controls the Vault-Tec organ extraction unit.}
-{102}{}{Obrazovka je pro tebe zcela neèitelná.}
-{103}{}{Vítejte ve Vault-Tec extrahovací jednotce. Pro správnou funkci je zapotøebí, abyste umístili dárce na operaèní sál - poté vyberte druh a orgán urèenı k odebrání.}
+{102}{}{Obrazovka je pro tebe zcela neÄitelnÃ¡.}
+{103}{}{VÃ­tejte ve Vault-Tec extrahovacÃ­ jednotce. Pro sprÃ¡vnou funkci je zapotÅ™ebÃ­, abyste umÃ­stili dÃ¡rce na operaÄnÃ­ sÃ¡l - potÃ© vyberte druh a orgÃ¡n urÄenÃ½ k odebrÃ¡nÃ­.}
 {104}{}{Vybrat druh.}
-{105}{}{Vybrat orgán.}
+{105}{}{Vybrat orgÃ¡n.}
 {106}{}{Konec.}
 {107}{}{Eh!}
-{108}{}{Na vıbìr je jedna z tìchto moností:                         Pes                                                                   Koèka                                                               Zemní kukaèka                                                        Hlodavec                                                               Èlovìk (je naškrábán na konzoli)}
+{108}{}{Na vÃ½bÄ›r je jedna z tÄ›chto moÅ¾nostÃ­:                         Pes                                                                   KoÄka                                                               ZemnÃ­ kukaÄka                                                        Hlodavec                                                               ÄŒlovÄ›k (je naÅ¡krÃ¡bÃ¡n na konzoli)}
 {109}{}{}
 {110}{}{}
 {111}{}{}
 {112}{}{}
 {113}{}{}
 {114}{}{Vybrat psa.}
-{115}{}{Vybrat koèku.}
-{116}{}{Vybrat zemní kukaèku.}
+{115}{}{Vybrat koÄku.}
+{116}{}{Vybrat zemnÃ­ kukaÄku.}
 {117}{}{Vybrat hlodavce.}
-{118}{}{Vybrat èlovìka.}
+{118}{}{Vybrat ÄlovÄ›ka.}
 {119}{}{[Scratch a new name onto console.]}
 {120}{}{Konec.}
-{121}{}{(V tvé ruce se vıjimá kus ostrého plechu a pomalu zaèínáš uvaovat, co naškrábeš.)}
+{121}{}{(V tvÃ© ruce se vÃ½jimÃ¡ kus ostrÃ©ho plechu a pomalu zaÄÃ­nÃ¡Å¡ uvaÅ¾ovat, co naÅ¡krÃ¡beÅ¡.)}
 {122}{}{Carve the word 'Mutant' onto console.}
 {123}{}{Carve the word 'Deathclaw' onto console.}
 {124}{}{Konec.}
 {125}{}{Current Selection: }
 {126}{}{- druh: }
-{127}{}{- orgán: }
+{127}{}{- orgÃ¡n: }
 {128}{}{Vybrat druh.}
-{129}{}{Vybrat orgán.}
-{130}{}{Provést extrakci.}
+{129}{}{Vybrat orgÃ¡n.}
+{130}{}{ProvÃ©st extrakci.}
 {131}{}{Konec.}
-{132}{}{Na vıbìr je jedna z tìchto moností:                          Srdce                                                              Mozek                                                              Ledvina                                                             Játra                                                                   Plíce                                                             Apendix                                                             Tlusté støevo (naškrábáno)}
+{132}{}{Na vÃ½bÄ›r je jedna z tÄ›chto moÅ¾nostÃ­:                          Srdce                                                              Mozek                                                              Ledvina                                                             JÃ¡tra                                                                   PlÃ­ce                                                             Apendix                                                             TlustÃ© stÅ™evo (naÅ¡krÃ¡bÃ¡no)}
 {133}{}{}
 {134}{}{}
 {135}{}{}
@@ -41,12 +41,12 @@
 {140}{}{Vybrat srdce.}
 {141}{}{Vybrat mozek.}
 {142}{}{Vybrat ledvinu.}
-{143}{}{Vybrat játra.}
-{144}{}{Vybrat plíce.}
+{143}{}{Vybrat jÃ¡tra.}
+{144}{}{Vybrat plÃ­ce.}
 {145}{}{Vybrat apendix.}
-{146}{}{Vybrat tlusté støevo.}
+{146}{}{Vybrat tlustÃ© stÅ™evo.}
 {147}{}{Konec.}
-{148}{}{Zvolenı dárce není pøítomen v extrakèní místnosti.}
+{148}{}{ZvolenÃ½ dÃ¡rce nenÃ­ pÅ™Ã­tomen v extrakÄnÃ­ mÃ­stnosti.}
 {149}{}{Extraction failed.}
 {150}{}{Extraction completed.}
 {151}{}{Extraction completed.
@@ -69,4 +69,4 @@
 {184}{}{Lung }
 {185}{}{Appendix }
 {186}{}{Colon }
-{200}{}{ nedokáe pøeèíst text na monitoru.}
+{200}{}{ nedokÃ¡Å¾e pÅ™eÄÃ­st text na monitoru.}

@@ -1,68 +1,68 @@
-{100}{}{Tato osoba se trochu potácí.}
-{101}{}{Vidíš barmana.}
-{102}{}{Zdá se, e u ochutnal nìco ze svého zboí.}
-{103}{}{C... cco... cco ssi dáš. (Škyt.)}
+{100}{}{Tato osoba se trochu potÃ¡cÃ­.}
+{101}{}{VidÃ­Å¡ barmana.}
+{102}{}{ZdÃ¡ se, Å¾e uÅ¾ ochutnal nÄ›co ze svÃ©ho zboÅ¾Ã­.}
+{103}{}{C... cco... cco ssi dÃ¡Å¡. (Å kyt.)}
 {104}{}{Nuka Cola [$6]}
 {105}{}{Pivo [$15]}
 {106}{}{Chlast [$30]}
-{107}{}{Dnes nic. Díky.}
+{107}{}{Dnes nic. DÃ­ky.}
 {108}{}{Eh.}
-{109}{}{Óóóó... nesnáášim pití. (Podá ti tvùj drink.)}
+{109}{}{Ã“Ã³Ã³Ã³... nesnÃ¡Ã¡Å¡im pitÃ­. (PodÃ¡ ti tvÅ¯j drink.)}
 {110}{}{[Konec]}
-{111}{}{Tu máš. Je to troku teplı, paè se to neztihlo vychladid. Prodávám to rychlejš ne je dìlám. (Je to teplé, je to luté, jsou to...)}
+{111}{}{Tu mÃ¡Å¡. Je to troÅ¾ku teplÃ½, paÄ se to neztihlo vychladid. ProdÃ¡vÃ¡m to rychlejÅ¡ neÅ¾ je dÄ›lÃ¡m. (Je to teplÃ©, je to Å¾lutÃ©, jsou to...)}
 {112}{}{[Konec]}
-{113}{}{(Poøádnì si lokneš a cítíš, jak se ti rozleptává aludeèní stìna.)}
+{113}{}{(PoÅ™Ã¡dnÄ› si lokneÅ¡ a cÃ­tÃ­Å¡, jak se ti rozleptÃ¡vÃ¡ Å¾aludeÄnÃ­ stÄ›na.)}
 {114}{}{[Konec]}
-{115}{}{Ach... (Škyt.) Myslím, e uš má dost.}
+{115}{}{Ach... (Å kyt.) MyslÃ­m, Å¾Å¾Å¾e uÅ¡ mÃ¡Å¾ dost.}
 {116}{}{[Konec]}
-{117}{}{Hele, èloujeèee! Vdyï nemáš dost penìs! Pøiï, a njejakı bude mit.}
+{117}{}{Hele, ÄloujeÄee! VÅ¾dyÄ nemÃ¡Å¡ dost penÄ›s! PÅ™iÄ, aÅ¾ njejakÃ½ budeÅ¾ mit.}
 {118}{}{[Konec]}
-{119}{}{Vypadá trochu mimo.}
-{120}{}{Vidíš závisláka.}
+{119}{}{VypadÃ¡ trochu mimo.}
+{120}{}{VidÃ­Å¡ zÃ¡vislÃ¡ka.}
 {121}{}{Trochu se klepe.}
-{122}{}{Cochceš? Fšeckomaam!}
+{122}{}{CochceÅ¡? FÅ¡eckomaam!}
 {123}{}{Mentats [$560]}
 {124}{}{Buffout [$400]}
 {125}{}{Psycho [$800]}
-{126}{}{Dnes nic. Díky.}
+{126}{}{Dnes nic. DÃ­ky.}
 {127}{}{Eh.}
-{128}{}{Tojesuper! Navalprachyavypadniodsuï. Mamnìjakoupraci.}
+{128}{}{Tojesuper! NavalprachyavypadniodsuÄ. MamnÄ›jakoupraci.}
 {129}{}{[Konec]}
-{130}{}{Jakøikapøislovi. adnypenizeadnakuøba. Eh. Tojeprosex. Cotakhlebezpenìzdohospodynelez. Pøiïabudešmitpenize.}
+{130}{}{JakÅ™ikapÅ™islovi. Å½adnypenizeÅ¾adnakuÅ™ba. Eh. Tojeprosex. CotakhlebezpenÄ›zdohospodynelez. PÅ™iÄaÅ¾budeÅ¡mitpenize.}
 {131}{}{[Konec]}
 {132}{}{Hehehehe! Mentatsbysetihodily. Dejmi$1000.}
-{133}{}{[Dát tomu mui $1000]}
-{134}{}{Já jít.}
-{135}{}{JO! Totìnakopne!}
+{133}{}{[DÃ¡t tomu muÅ¾i $1000]}
+{134}{}{JÃ¡ jÃ­t.}
+{135}{}{JO! TotÄ›nakopne!}
 {136}{}{[KONEC]}
-{150}{}{Hej, vypadáš roztomile. Jak se jmenuješ?}
-{151}{}{Trošku vıš. To je ono.}
-{152}{}{Pøipravena... se odvázat?}
+{150}{}{Hej, vypadÃ¡Å¡ roztomile. Jak se jmenujeÅ¡?}
+{151}{}{TroÅ¡ku vÃ½Å¡. To je ono.}
+{152}{}{PÅ™ipravena... se odvÃ¡zat?}
 {153}{}{Ne..ne..ne..ne NE ne.}
-{154}{}{Takhle se dívej. Jo.}
-{155}{}{Teï jdi.}
-{156}{}{Oeru se jinde.}
-{157}{}{Odva se... nìkde jinde.}
-{158}{}{Co kdybysme šli nìkam pryè od lidí?}
-{159}{}{Eh, pojïme na to!}
-{160}{}{Nee, jsem oralej.}
-{161}{}{[Krk] ::úsmìv::}
-{170}{}{Poslyš, nechceš jít támhle za to køoví?}
-{171}{}{U jsi nìkdy byla sjetá a dìlala to?}
-{172}{}{Mohl bych ti ukázat ráj, bejby.}
-{173}{}{Ty víš, e to chci.}
-{174}{}{Doufal jsem, ze narazím na nìkoho, kdo bude chtít.}
-{175}{}{U toho na mì bylo dost.}
-{176}{}{Hele, nemáš cigáro?}
-{177}{}{Hele, moc se na mì neupínej. Já mám rád svoji svobodu.}
-{178}{}{Jseš štíhlá jako panter a já tì chci.}
+{154}{}{Takhle se dÃ­vej. Jo.}
+{155}{}{TeÄ jdi.}
+{156}{}{OÅ¾eru se jinde.}
+{157}{}{OdvaÅ¾ se... nÄ›kde jinde.}
+{158}{}{Co kdybysme Å¡li nÄ›kam pryÄ od lidÃ­?}
+{159}{}{Eh, pojÄme na to!}
+{160}{}{Nee, jsem oÅ¾ralej.}
+{161}{}{[Krk] ::ÃºsmÄ›v::}
+{170}{}{PoslyÅ¡, nechceÅ¡ jÃ­t tÃ¡mhle za to kÅ™ovÃ­?}
+{171}{}{UÅ¾ jsi nÄ›kdy byla sjetÃ¡ a dÄ›lala to?}
+{172}{}{Mohl bych ti ukÃ¡zat rÃ¡j, bejby.}
+{173}{}{Ty vÃ­Å¡, Å¾e to chci.}
+{174}{}{Doufal jsem, ze narazÃ­m na nÄ›koho, kdo bude chtÃ­t.}
+{175}{}{UÅ¾ toho na mÄ› bylo dost.}
+{176}{}{Hele, nemÃ¡Å¡ cigÃ¡ro?}
+{177}{}{Hele, moc se na mÄ› neupÃ­nej. JÃ¡ mÃ¡m rÃ¡d svoji svobodu.}
+{178}{}{JseÅ¡ Å¡tÃ­hlÃ¡ jako panter a jÃ¡ tÄ› chci.}
 {179}{}{Jdeme na to?}
-{180}{}{Teï ne. Musím si šlehnout.}
-{181}{}{Drte si klobouky. Jdeme na to.}
-{200}{}{Nebuï blbá!}
-{201}{}{Bì paøit jinam.}
-{202}{}{Kdo tì pustil dovnitø?}
-{203}{}{Tohle není v pohodì!}
+{180}{}{TeÄ ne. MusÃ­m si Å¡lehnout.}
+{181}{}{DrÅ¾te si klobouky. Jdeme na to.}
+{200}{}{NebuÄ blbÃ¡!}
+{201}{}{BÄ›Å¾ paÅ™it jinam.}
+{202}{}{Kdo tÄ› pustil dovnitÅ™?}
+{203}{}{Tohle nenÃ­ v pohodÄ›!}
 {204}{}{Vychladni, frajere.}
-{205}{}{Klídek, chlape!}
-{210}{}{Zdá se, e u ochutnala nìco ze svého zboí.}
+{205}{}{KlÃ­dek, chlape!}
+{210}{}{ZdÃ¡ se, Å¾e uÅ¾ ochutnala nÄ›co ze svÃ©ho zboÅ¾Ã­.}

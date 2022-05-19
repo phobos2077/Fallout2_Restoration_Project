@@ -1,4 +1,4 @@
-{100}{}{Vidíš zpustle vypadajícího psa. Zdá se, e kadou chvíli pojde.}
-{101}{}{To je ten zatracenı pes, co pøináší smùlu.}
-{102}{}{Tenhle pes nemá na nìkolika místech ádnı koich a vypadá jako chodící mrtvola. Zdá se, e má jedno oko sklenìné.}
-{103}{}{Zdá se, e si tì pes oblíbil. To nevìští nic dobrého.}
+{100}{}{VidÃ­Å¡ zpustle vypadajÃ­cÃ­ho psa. ZdÃ¡ se, Å¾e kaÅ¾dou chvÃ­li pojde.}
+{101}{}{To je ten zatracenÃ½ pes, co pÅ™inÃ¡Å¡Ã­ smÅ¯lu.}
+{102}{}{Tenhle pes nemÃ¡ na nÄ›kolika mÃ­stech Å¾Ã¡dnÃ½ koÅ¾ich a vypadÃ¡ jako chodÃ­cÃ­ mrtvola. ZdÃ¡ se, Å¾e mÃ¡ jedno oko sklenÄ›nÃ©.}
+{103}{}{ZdÃ¡ se, Å¾e si tÄ› pes oblÃ­bil. To nevÄ›Å¡tÃ­ nic dobrÃ©ho.}

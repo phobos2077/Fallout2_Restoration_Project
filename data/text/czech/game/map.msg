@@ -1,6 +1,6 @@
-{100}{}{Pouš}
-{101}{}{Pouš}
-{102}{}{Pouš}
+{100}{}{PouÅ¡Å¥}
+{101}{}{PouÅ¡Å¥}
+{102}{}{PouÅ¡Å¥}
 {103}{}{Arroyo}
 {104}{}{Arroyo}
 {105}{}{Arroyo}
@@ -16,104 +16,104 @@
 {115}{}{Vault City}
 {116}{}{Vault City}
 {117}{}{Vault City}
-{118}{}{Chyba: Název mapy}
-{119}{}{Trosky mìsta}
-{120}{}{Pobøeí}
-{121}{}{Pobøeí}
-{122}{}{Pouš}
-{123}{}{Pouš}
-{124}{}{Chyba: Název mapy}
-{125}{}{Chyba: Název mapy}
-{126}{}{Chyba: Název mapy}
-{127}{}{Chyba: Název mapy}
-{128}{}{Chyba: Název mapy}
-{129}{}{Chyba: Název mapy}
-{130}{}{Chyba: Název mapy}
-{131}{}{Chyba: Název mapy}
-{132}{}{Chyba: Název mapy}
-{133}{}{Chyba: Název mapy}
-{134}{}{Chyba: Název mapy}
-{135}{}{Chyba: Název mapy}
-{136}{}{Chyba: Název mapy}
+{118}{}{Chyba: NÃ¡zev mapy}
+{119}{}{Trosky mÄ›sta}
+{120}{}{PobÅ™eÅ¾Ã­}
+{121}{}{PobÅ™eÅ¾Ã­}
+{122}{}{PouÅ¡Å¥}
+{123}{}{PouÅ¡Å¥}
+{124}{}{Chyba: NÃ¡zev mapy}
+{125}{}{Chyba: NÃ¡zev mapy}
+{126}{}{Chyba: NÃ¡zev mapy}
+{127}{}{Chyba: NÃ¡zev mapy}
+{128}{}{Chyba: NÃ¡zev mapy}
+{129}{}{Chyba: NÃ¡zev mapy}
+{130}{}{Chyba: NÃ¡zev mapy}
+{131}{}{Chyba: NÃ¡zev mapy}
+{132}{}{Chyba: NÃ¡zev mapy}
+{133}{}{Chyba: NÃ¡zev mapy}
+{134}{}{Chyba: NÃ¡zev mapy}
+{135}{}{Chyba: NÃ¡zev mapy}
+{136}{}{Chyba: NÃ¡zev mapy}
 {137}{}{Hub}
 {138}{}{Hub}
 {139}{}{Hub}
 {140}{}{Hub}
 {141}{}{Hub}
-{142}{}{Kráter}
-{143}{}{Kráter}
-{144}{}{Pohøebištì}
-{145}{}{Pohøebištì}
-{146}{}{Pohøebištì}
-{147}{}{Katedrála}
-{148}{}{Vojenská}
+{142}{}{KrÃ¡ter}
+{143}{}{KrÃ¡ter}
+{144}{}{PohÅ™ebiÅ¡tÄ›}
+{145}{}{PohÅ™ebiÅ¡tÄ›}
+{146}{}{PohÅ™ebiÅ¡tÄ›}
+{147}{}{KatedrÃ¡la}
+{148}{}{VojenskÃ¡}
 {149}{}{Hory}
 {150}{}{Hory}
-{151}{}{Pouš}
-{152}{}{Pouš}
-{153}{}{Pouš}
-{154}{}{Pouš}
+{151}{}{PouÅ¡Å¥}
+{152}{}{PouÅ¡Å¥}
+{153}{}{PouÅ¡Å¥}
+{154}{}{PouÅ¡Å¥}
 {155}{}{Bratrstvo}
-{156}{}{Pouš}
-{157}{}{Pouš}
+{156}{}{PouÅ¡Å¥}
+{157}{}{PouÅ¡Å¥}
 {158}{}{Hory}
 {159}{}{Hory}
-{160}{}{Tábor Zmijí}
-{161}{}{Pouš}
+{160}{}{TÃ¡bor ZmijÃ­}
+{161}{}{PouÅ¡Å¥}
 {162}{}{Hory}
-{163}{}{Pouš}
+{163}{}{PouÅ¡Å¥}
 {164}{}{Hory}
 {165}{}{EPA}
 {166}{}{EPA}
-{167}{}{EPA - skladištì}
+{167}{}{EPA - skladiÅ¡tÄ›}
 {168}{}{Obchodnik}
 {169}{}{Ponorka Shi}
-{200}{}{Pouš}
+{200}{}{PouÅ¡Å¥}
 {201}{}{}
 {202}{}{}
-{203}{}{Pouš}
+{203}{}{PouÅ¡Å¥}
 {204}{}{}
 {205}{}{}
-{206}{}{Pouš}
+{206}{}{PouÅ¡Å¥}
 {207}{}{}
 {208}{}{}
-{209}{}{- Sínì Chrámu}
-{210}{}{- Chodby Chrámu}
-{211}{}{- Vnitøní svatynì}
+{209}{}{- SÃ­nÄ› ChrÃ¡mu}
+{210}{}{- Chodby ChrÃ¡mu}
+{211}{}{- VnitÅ™nÃ­ svatynÄ›}
 {212}{}{Vesnice}
 {213}{}{}
 {214}{}{}
 {215}{}{Most}
-{216}{}{- Zøícenı most}
+{216}{}{- ZÅ™Ã­cenÃ½ most}
 {217}{}{}
-{218}{}{- Západní èást}
+{218}{}{- ZÃ¡padnÃ­ ÄÃ¡st}
 {219}{}{}
 {220}{}{}
-{221}{}{- Vıchodní ètvr}
+{221}{}{- VÃ½chodnÃ­ ÄtvrÅ¥}
 {222}{}{}
 {223}{}{}
-{224}{}{- Obytná ètvr}
+{224}{}{- ObytnÃ¡ ÄtvrÅ¥}
 {225}{}{}
 {226}{}{}
 {227}{}{Centrum}
 {228}{}{Centrum}
 {229}{}{Centrum}
-{230}{}{- Lovecká ètvr}
-{231}{}{- Lovecká ètvr}
+{230}{}{- LoveckÃ¡ ÄtvrÅ¥}
+{231}{}{- LoveckÃ¡ ÄtvrÅ¥}
 {232}{}{}
-{233}{}{- Krysí jeskynì}
-{234}{}{- Krysí jeskynì}
-{235}{}{- Krysí jeskynì}
+{233}{}{- KrysÃ­ jeskynÄ›}
+{234}{}{- KrysÃ­ jeskynÄ›}
+{235}{}{- KrysÃ­ jeskynÄ›}
 {236}{}{Vchod}
-{237}{}{- Odpadní tunely}
+{237}{}{- OdpadnÃ­ tunely}
 {238}{}{- Sklad}
-{239}{}{- Lesík}
-{240}{}{- Lesík}
-{241}{}{- Lesík}
+{239}{}{- LesÃ­k}
+{240}{}{- LesÃ­k}
+{241}{}{- LesÃ­k}
 {242}{}{- Pastviny}
 {243}{}{- Pastviny}
 {244}{}{}
-{245}{}{- Pøedmìstí}
+{245}{}{- PÅ™edmÄ›stÃ­}
 {246}{}{}
 {247}{}{}
 {248}{}{Centrum}
@@ -122,40 +122,40 @@
 {251}{}{- Budova radnice}
 {252}{}{}
 {253}{}{}
-{254}{}{- Hlavní ulice}
+{254}{}{- HlavnÃ­ ulice}
 {255}{}{}
 {256}{}{}
 {257}{}{- Hostinec}
 {258}{}{- Hostinec}
 {259}{}{}
-{260}{}{- Pastviny brahmín}
+{260}{}{- Pastviny brahmÃ­n}
 {261}{}{}
 {262}{}{}
 {263}{}{- Farrelova zahrada}
 {264}{}{}
 {265}{}{}
-{266}{}{- Jeskynì pod záchodem}
+{266}{}{- JeskynÄ› pod zÃ¡chodem}
 {267}{}{}
 {268}{}{}
-{269}{}{- Mìstská studna}
+{269}{}{- MÄ›stskÃ¡ studna}
 {270}{}{}
 {271}{}{}
 {272}{}{- Farma}
 {273}{}{}
 {274}{}{}
-{275}{}{- Jeskynì}
+{275}{}{- JeskynÄ›}
 {276}{}{}
 {277}{}{}
-{278}{}{- Podzemní jezero}
+{278}{}{- PodzemnÃ­ jezero}
 {279}{}{}
 {280}{}{}
-{281}{}{- Bitevní pláò}
+{281}{}{- BitevnÃ­ plÃ¡Åˆ}
 {282}{}{}
 {283}{}{}
 {284}{}{- Ubikace}
-{285}{}{- Sklady a dílny}
-{286}{}{- Kybernetická laboratoø}
-{287}{}{- Biologická laboratoø}
+{285}{}{- Sklady a dÃ­lny}
+{286}{}{- KybernetickÃ¡ laboratoÅ™}
+{287}{}{- BiologickÃ¡ laboratoÅ™}
 {288}{}{}
 {289}{}{}
 {290}{}{- Vault: 1. patro}
@@ -164,34 +164,34 @@
 {293}{}{- Osada}
 {294}{}{- Osada}
 {295}{}{- Osada}
-{296}{}{- Elektrárna}
-{297}{}{- Elektrárna}
+{296}{}{- ElektrÃ¡rna}
+{297}{}{- ElektrÃ¡rna}
 {298}{}{}
-{299}{}{- Smetištì}
-{300}{}{- Smetištì}
-{301}{}{- Smetištì}
-{302}{}{- Podzemní chodby}
-{303}{}{- Podzemní chodby}
-{304}{}{- Podzemní chodby}
-{305}{}{- Lovecké území}
+{299}{}{- SmetiÅ¡tÄ›}
+{300}{}{- SmetiÅ¡tÄ›}
+{301}{}{- SmetiÅ¡tÄ›}
+{302}{}{- PodzemnÃ­ chodby}
+{303}{}{- PodzemnÃ­ chodby}
+{304}{}{- PodzemnÃ­ chodby}
+{305}{}{- LoveckÃ© ÃºzemÃ­}
 {306}{}{}
 {307}{}{}
 {308}{}{- 1. patro}
 {309}{}{- 2. patro}
 {310}{}{- 3. patro}
-{311}{}{- Squatteøi}
+{311}{}{- SquatteÅ™i}
 {312}{}{}
 {313}{}{}
-{314}{}{- Squatteøi}
+{314}{}{- SquatteÅ™i}
 {315}{}{}
 {316}{}{}
-{317}{}{- Vıchodní vstup}
+{317}{}{- VÃ½chodnÃ­ vstup}
 {318}{}{}
 {319}{}{}
 {320}{}{1. patro}
 {321}{}{2. patro}
 {322}{}{3. patro}
-{323}{}{- Jeskynì}
+{323}{}{- JeskynÄ›}
 {324}{}{}
 {325}{}{}
 {326}{}{Centrum}
@@ -200,21 +200,21 @@
 {329}{}{- Budova kongresu}
 {330}{}{}
 {331}{}{}
-{332}{}{- Westinùv ranè}
+{332}{}{- WestinÅ¯v ranÄ}
 {333}{}{}
 {334}{}{}
 {335}{}{- Pastviny}
 {336}{}{}
 {337}{}{}
-{338}{}{- Trištì}
+{338}{}{- TrÅ¾iÅ¡tÄ›}
 {339}{}{}
 {340}{}{}
 {341}{}{- Budova kongresu}
 {342}{}{}
 {343}{}{}
-{344}{}{- Kaòon}
-{345}{}{- Kaòon}
-{346}{}{- Kaòon}
+{344}{}{- KaÅˆon}
+{345}{}{- KaÅˆon}
+{346}{}{- KaÅˆon}
 {347}{}{1. patro}
 {348}{}{2. patro}
 {349}{}{}
@@ -224,213 +224,213 @@
 {353}{}{Vchod}
 {354}{}{}
 {355}{}{}
-{356}{}{Pouš}
+{356}{}{PouÅ¡Å¥}
 {357}{}{Vesnice}
-{358}{}{- Tábor}
-{359}{}{Pouš}
+{358}{}{- TÃ¡bor}
+{359}{}{PouÅ¡Å¥}
 {360}{}{}
 {361}{}{}
 {362}{}{- Ulice Panen}
-{363}{}{- Desperado: suterén}
+{363}{}{- Desperado: suterÃ©n}
 {364}{}{- Desperado: 1. patro}
-{365}{}{- Druhá ulice}
+{365}{}{- DruhÃ¡ ulice}
 {366}{}{- Klub Shark: 2. patro}
 {367}{}{- Klub Shark: 3. patro}
-{368}{}{- Obchodní ètvr}
-{369}{}{- Lovecké potøeby: suterén}
+{368}{}{- ObchodnÃ­ ÄtvrÅ¥}
+{369}{}{- LoveckÃ© potÅ™eby: suterÃ©n}
 {370}{}{}
-{371}{}{- Vıchodní ètvr}
-{372}{}{- Nádraí}
+{371}{}{- VÃ½chodnÃ­ ÄtvrÅ¥}
+{372}{}{- NÃ¡draÅ¾Ã­}
 {373}{}{}
-{374}{}{- Èerpací stanice}
+{374}{}{- ÄŒerpacÃ­ stanice}
 {375}{}{}
 {376}{}{}
-{377}{}{- Høbitov}
-{378}{}{- Pøístøešek}
+{377}{}{- HÅ™bitov}
+{378}{}{- PÅ™Ã­stÅ™eÅ¡ek}
 {379}{}{}
 {380}{}{- Ohrada pro otroky}
-{381}{}{- Laboratoø}
+{381}{}{- LaboratoÅ™}
 {382}{}{}
-{383}{}{- Boxerskı ring}
-{384}{}{- Boxerskı ring}
-{385}{}{- Boxerskı ring}
+{383}{}{- BoxerskÃ½ ring}
+{384}{}{- BoxerskÃ½ ring}
+{385}{}{- BoxerskÃ½ ring}
 {386}{}{- Vchod do dolu}
 {387}{}{- Vchod do dolu}
 {388}{}{- Vchod do dolu}
-{389}{}{- Dùl 1. patro}
-{390}{}{- Dùl 2. patro}
+{389}{}{- DÅ¯l 1. patro}
+{390}{}{- DÅ¯l 2. patro}
 {391}{}{}
 {392}{}{Centrum}
 {393}{}{Centrum}
 {394}{}{Centrum}
-{395}{}{- Hornickı tábor}
-{396}{}{- Hornickı tábor}
-{397}{}{- Hornickı tábor}
+{395}{}{- HornickÃ½ tÃ¡bor}
+{396}{}{- HornickÃ½ tÃ¡bor}
+{397}{}{- HornickÃ½ tÃ¡bor}
 {398}{}{- Tunely}
 {399}{}{- Tunely}
 {400}{}{- Tunely}
 {401}{}{- Tunely}
 {402}{}{- Tunely}
 {403}{}{- Tunely}
-{404}{}{Mìsto}
-{405}{}{Mìsto}
-{406}{}{Mìsto}
+{404}{}{MÄ›sto}
+{405}{}{MÄ›sto}
+{406}{}{MÄ›sto}
 {407}{}{Hory}
 {408}{}{Hory}
 {409}{}{Hory}
-{410}{}{- Jeskynì}
-{411}{}{- Jeskynì}
-{412}{}{- Jeskynì}
-{413}{}{- Jeskynì}
-{414}{}{- Jeskynì}
-{415}{}{- Jeskynì}
-{416}{}{- Jeskynì}
-{417}{}{- Jeskynì}
-{418}{}{- Jeskynì}
-{419}{}{- Jeskynì}
-{420}{}{- Jeskynì}
-{421}{}{- Jeskynì}
+{410}{}{- JeskynÄ›}
+{411}{}{- JeskynÄ›}
+{412}{}{- JeskynÄ›}
+{413}{}{- JeskynÄ›}
+{414}{}{- JeskynÄ›}
+{415}{}{- JeskynÄ›}
+{416}{}{- JeskynÄ›}
+{417}{}{- JeskynÄ›}
+{418}{}{- JeskynÄ›}
+{419}{}{- JeskynÄ›}
+{420}{}{- JeskynÄ›}
+{421}{}{- JeskynÄ›}
 {422}{}{Hory}
 {423}{}{Hory}
 {424}{}{Hory}
 {425}{}{Hory}
 {426}{}{Hory}
 {427}{}{Hory}
-{428}{}{Pobøeí}
-{429}{}{Pobøeí}
-{430}{}{Pobøeí}
-{431}{}{Pobøeí}
-{432}{}{Pobøeí}
-{433}{}{Pobøeí}
+{428}{}{PobÅ™eÅ¾Ã­}
+{429}{}{PobÅ™eÅ¾Ã­}
+{430}{}{PobÅ™eÅ¾Ã­}
+{431}{}{PobÅ™eÅ¾Ã­}
+{432}{}{PobÅ™eÅ¾Ã­}
+{433}{}{PobÅ™eÅ¾Ã­}
 {434}{}{Centrum}
-{435}{}{- Suterén}
+{435}{}{- SuterÃ©n}
 {436}{}{Unused}
-{437}{}{- Obytná ètvr}
-{438}{}{- Podzemí}
-{439}{}{- Dùl}
-{440}{}{- Jeskynì}
-{441}{}{- Jeskynì}
-{442}{}{- Jeskynì}
-{443}{}{Pouš}
-{444}{}{Pouš}
-{445}{}{Pouš}
-{446}{}{Pouš}
-{447}{}{Pouš}
-{448}{}{Pouš}
-{449}{}{Pouš}
-{450}{}{Pouš}
-{451}{}{Pouš}
-{452}{}{Pouš}
-{453}{}{Pouš}
-{454}{}{Pouš}
-{455}{}{Pobøeí}
-{456}{}{Pobøeí}
-{457}{}{Pobøeí}
-{458}{}{Pobøeí}
-{459}{}{Pobøeí}
-{460}{}{Pobøeí}
-{461}{}{Pobøeí}
-{462}{}{Pobøeí}
-{463}{}{Pobøeí}
-{464}{}{Pobøeí}
-{465}{}{Pobøeí}
-{466}{}{Pobøeí}
-{467}{}{Pobøeí}
-{468}{}{Pobøeí}
-{469}{}{Pobøeí}
-{470}{}{Pobøeí}
-{471}{}{Pobøeí}
-{472}{}{Pobøeí}
-{473}{}{Pobøeí}
-{474}{}{Pobøeí}
-{475}{}{Pobøeí}
-{476}{}{- Tábor nájezdníkù}
-{477}{}{- Tábor nájezdníkù}
-{478}{}{- Tábor nájezdníkù}
-{479}{}{- Vchod do jeskynì}
-{480}{}{- Hnízdo radškorpionù}
-{481}{}{- Doupì nájezdníkù}
-{482}{}{Pouš}
-{483}{}{Pouš}
-{484}{}{Pouš}
+{437}{}{- ObytnÃ¡ ÄtvrÅ¥}
+{438}{}{- PodzemÃ­}
+{439}{}{- DÅ¯l}
+{440}{}{- JeskynÄ›}
+{441}{}{- JeskynÄ›}
+{442}{}{- JeskynÄ›}
+{443}{}{PouÅ¡Å¥}
+{444}{}{PouÅ¡Å¥}
+{445}{}{PouÅ¡Å¥}
+{446}{}{PouÅ¡Å¥}
+{447}{}{PouÅ¡Å¥}
+{448}{}{PouÅ¡Å¥}
+{449}{}{PouÅ¡Å¥}
+{450}{}{PouÅ¡Å¥}
+{451}{}{PouÅ¡Å¥}
+{452}{}{PouÅ¡Å¥}
+{453}{}{PouÅ¡Å¥}
+{454}{}{PouÅ¡Å¥}
+{455}{}{PobÅ™eÅ¾Ã­}
+{456}{}{PobÅ™eÅ¾Ã­}
+{457}{}{PobÅ™eÅ¾Ã­}
+{458}{}{PobÅ™eÅ¾Ã­}
+{459}{}{PobÅ™eÅ¾Ã­}
+{460}{}{PobÅ™eÅ¾Ã­}
+{461}{}{PobÅ™eÅ¾Ã­}
+{462}{}{PobÅ™eÅ¾Ã­}
+{463}{}{PobÅ™eÅ¾Ã­}
+{464}{}{PobÅ™eÅ¾Ã­}
+{465}{}{PobÅ™eÅ¾Ã­}
+{466}{}{PobÅ™eÅ¾Ã­}
+{467}{}{PobÅ™eÅ¾Ã­}
+{468}{}{PobÅ™eÅ¾Ã­}
+{469}{}{PobÅ™eÅ¾Ã­}
+{470}{}{PobÅ™eÅ¾Ã­}
+{471}{}{PobÅ™eÅ¾Ã­}
+{472}{}{PobÅ™eÅ¾Ã­}
+{473}{}{PobÅ™eÅ¾Ã­}
+{474}{}{PobÅ™eÅ¾Ã­}
+{475}{}{PobÅ™eÅ¾Ã­}
+{476}{}{- TÃ¡bor nÃ¡jezdnÃ­kÅ¯}
+{477}{}{- TÃ¡bor nÃ¡jezdnÃ­kÅ¯}
+{478}{}{- TÃ¡bor nÃ¡jezdnÃ­kÅ¯}
+{479}{}{- Vchod do jeskynÄ›}
+{480}{}{- HnÃ­zdo radÅ¡korpionÅ¯}
+{481}{}{- DoupÄ› nÃ¡jezdnÃ­kÅ¯}
+{482}{}{PouÅ¡Å¥}
+{483}{}{PouÅ¡Å¥}
+{484}{}{PouÅ¡Å¥}
 {485}{}{Hory}
 {486}{}{Hory}
 {487}{}{Hory}
-{488}{}{Pouš}
-{489}{}{Pouš}
-{490}{}{Pouš}
-{491}{}{Pouš}
-{492}{}{Pouš}
-{493}{}{Pouš}
-{494}{}{Pouš}
-{495}{}{Pouš}
-{496}{}{Pouš}
-{497}{}{Pouš}
-{498}{}{Pouš}
-{499}{}{Pouš}
-{500}{}{Pouš}
-{501}{}{Pouš}
-{502}{}{Pouš}
+{488}{}{PouÅ¡Å¥}
+{489}{}{PouÅ¡Å¥}
+{490}{}{PouÅ¡Å¥}
+{491}{}{PouÅ¡Å¥}
+{492}{}{PouÅ¡Å¥}
+{493}{}{PouÅ¡Å¥}
+{494}{}{PouÅ¡Å¥}
+{495}{}{PouÅ¡Å¥}
+{496}{}{PouÅ¡Å¥}
+{497}{}{PouÅ¡Å¥}
+{498}{}{PouÅ¡Å¥}
+{499}{}{PouÅ¡Å¥}
+{500}{}{PouÅ¡Å¥}
+{501}{}{PouÅ¡Å¥}
+{502}{}{PouÅ¡Å¥}
 {503}{}{- Most Smrti}
 {504}{}{- Most Smrti}
 {505}{}{- Most Smrti}
 {506}{}{Kavarna "U ztracenych snu"}
 {507}{}{Kavarna "U ztracenych snu"}
 {508}{}{Kavarna "U ztracenych snu"}
-{509}{}{Pouš}
-{510}{}{Pouš}
-{511}{}{Pouš}
+{509}{}{PouÅ¡Å¥}
+{510}{}{PouÅ¡Å¥}
+{511}{}{PouÅ¡Å¥}
 {512}{}{Hory}
-{513}{}{- Jeskynì}
-{514}{}{- Jeskynì}
-{515}{}{- Stráce Vìènosti}
+{513}{}{- JeskynÄ›}
+{514}{}{- JeskynÄ›}
+{515}{}{- StrÃ¡Å¾ce VÄ›Änosti}
 {516}{}{Vault 13}
 {517}{}{Vault 13}
 {518}{}{Skladka toxickeho odpadu}
 {519}{}{Skladka toxickeho odpadu}
 {520}{}{Skladka toxickeho odpadu}
-{521}{}{Pouš}
-{522}{}{Pouš}
-{523}{}{Pouš}
-{524}{}{Pouš}
-{525}{}{Pouš}
-{526}{}{Pouš}
-{527}{}{- Èerpací stanice}
-{528}{}{- Podzemí}
-{529}{}{- Hangáry vertibirdù}
-{530}{}{- Pobøeí}
-{531}{}{- Pobøeí}
-{532}{}{- Pobøeí}
-{533}{}{- Pobøeí}
-{534}{}{- Pobøeí}
-{535}{}{- Pobøeí}
-{536}{}{- Pobøeí}
-{537}{}{- Pobøeí}
-{538}{}{- Pobøeí}
-{539}{}{Pouš}
-{540}{}{Pouš}
-{541}{}{Pouš}
-{542}{}{Pouš}
-{543}{}{Pouš}
-{544}{}{Pouš}
-{545}{}{Pouš}
-{546}{}{Pouš}
-{547}{}{Pouš}
-{548}{}{Pouš}
-{549}{}{Pouš}
-{550}{}{Pouš}
-{551}{}{Pouš}
-{552}{}{Pouš}
-{553}{}{Pouš}
-{554}{}{- Jeskynì}
-{555}{}{- Jeskynì}
-{556}{}{- Jeskynì}
-{557}{}{- Jeskynì}
-{558}{}{- Jeskynì}
-{559}{}{- Jeskynì}
-{560}{}{- Jeskynì}
-{561}{}{- Jeskynì}
-{562}{}{- Jeskynì}
+{521}{}{PouÅ¡Å¥}
+{522}{}{PouÅ¡Å¥}
+{523}{}{PouÅ¡Å¥}
+{524}{}{PouÅ¡Å¥}
+{525}{}{PouÅ¡Å¥}
+{526}{}{PouÅ¡Å¥}
+{527}{}{- ÄŒerpacÃ­ stanice}
+{528}{}{- PodzemÃ­}
+{529}{}{- HangÃ¡ry vertibirdÅ¯}
+{530}{}{- PobÅ™eÅ¾Ã­}
+{531}{}{- PobÅ™eÅ¾Ã­}
+{532}{}{- PobÅ™eÅ¾Ã­}
+{533}{}{- PobÅ™eÅ¾Ã­}
+{534}{}{- PobÅ™eÅ¾Ã­}
+{535}{}{- PobÅ™eÅ¾Ã­}
+{536}{}{- PobÅ™eÅ¾Ã­}
+{537}{}{- PobÅ™eÅ¾Ã­}
+{538}{}{- PobÅ™eÅ¾Ã­}
+{539}{}{PouÅ¡Å¥}
+{540}{}{PouÅ¡Å¥}
+{541}{}{PouÅ¡Å¥}
+{542}{}{PouÅ¡Å¥}
+{543}{}{PouÅ¡Å¥}
+{544}{}{PouÅ¡Å¥}
+{545}{}{PouÅ¡Å¥}
+{546}{}{PouÅ¡Å¥}
+{547}{}{PouÅ¡Å¥}
+{548}{}{PouÅ¡Å¥}
+{549}{}{PouÅ¡Å¥}
+{550}{}{PouÅ¡Å¥}
+{551}{}{PouÅ¡Å¥}
+{552}{}{PouÅ¡Å¥}
+{553}{}{PouÅ¡Å¥}
+{554}{}{- JeskynÄ›}
+{555}{}{- JeskynÄ›}
+{556}{}{- JeskynÄ›}
+{557}{}{- JeskynÄ›}
+{558}{}{- JeskynÄ›}
+{559}{}{- JeskynÄ›}
+{560}{}{- JeskynÄ›}
+{561}{}{- JeskynÄ›}
+{562}{}{- JeskynÄ›}
 {563}{}{Hory}
 {564}{}{Hory}
 {565}{}{Hory}
@@ -443,91 +443,91 @@
 {572}{}{Hory}
 {573}{}{Hory}
 {574}{}{Hory}
-{575}{}{- Opuštìné mìsto}
+{575}{}{- OpuÅ¡tÄ›nÃ© mÄ›sto}
 {576}{}{Zriceniny mesta}
 {577}{}{Zriceniny mesta}
-{578}{}{- Vstup do chrámu}
-{579}{}{- Vstup do chrámu}
-{580}{}{- Vstup do chrámu}
-{581}{}{- Zøícenı most}
-{582}{}{- Zøícenı most}
-{583}{}{- Zøícenı most}
-{584}{}{- Vìzeòské cely}
-{585}{}{- Vìzeòské cely}
-{586}{}{- Vìzeòské cely}
-{587}{}{- Pøístav}
-{588}{}{- Pøistávací plošina pro vertibirdy}
-{589}{}{- Pøístav}
-{590}{}{- Vstupní hala}
-{591}{}{- Vstupní hala}
-{592}{}{- Vstupní hala}
-{593}{}{- Kasárna}
-{594}{}{- Kasárna}
-{595}{}{- Kasárna}
-{596}{}{- Prezidentské prostory}
-{597}{}{- Prezidentské prostory}
-{598}{}{- Prezidentské prostory}
+{578}{}{- Vstup do chrÃ¡mu}
+{579}{}{- Vstup do chrÃ¡mu}
+{580}{}{- Vstup do chrÃ¡mu}
+{581}{}{- ZÅ™Ã­cenÃ½ most}
+{582}{}{- ZÅ™Ã­cenÃ½ most}
+{583}{}{- ZÅ™Ã­cenÃ½ most}
+{584}{}{- VÄ›zeÅˆskÃ© cely}
+{585}{}{- VÄ›zeÅˆskÃ© cely}
+{586}{}{- VÄ›zeÅˆskÃ© cely}
+{587}{}{- PÅ™Ã­stav}
+{588}{}{- PÅ™istÃ¡vacÃ­ ploÅ¡ina pro vertibirdy}
+{589}{}{- PÅ™Ã­stav}
+{590}{}{- VstupnÃ­ hala}
+{591}{}{- VstupnÃ­ hala}
+{592}{}{- VstupnÃ­ hala}
+{593}{}{- KasÃ¡rna}
+{594}{}{- KasÃ¡rna}
+{595}{}{- KasÃ¡rna}
+{596}{}{- PrezidentskÃ© prostory}
+{597}{}{- PrezidentskÃ© prostory}
+{598}{}{- PrezidentskÃ© prostory}
 {599}{}{- Reaktor}
 {600}{}{- Reaktor}
 {601}{}{- Reaktor}
-{602}{}{- Vstupní koridor}
-{603}{}{- Vstupní koridor}
-{604}{}{- Vstupní koridor}
-{605}{}{- Ropnı tanker}
-{606}{}{- Ropnı tanker}
-{607}{}{- Ropnı tanker}
-{608}{}{- Pøístav}
-{609}{}{- Pøístav}
-{610}{}{- Pøístav}
-{611}{}{- Èínská ètvr}
-{612}{}{- Èínská ètvr}
-{613}{}{- Èínská ètvr}
-{614}{}{- Pøistávací dráha}
-{615}{}{- Pøistávací dráha}
-{616}{}{- Pøistávací dráha}
-{617}{}{- Vnitøek raketoplánu}
-{618}{}{- Vnitøek raketoplánu}
-{619}{}{- Vnitøek raketoplánu}
-{620}{}{- Základna Hubologistù}
-{621}{}{- Základna Hubologistù}
-{622}{}{- Základna Hubologistù}
-{623}{}{- Znièené mìsto}
-{624}{}{- Znièené mìsto}
-{625}{}{- Znièené mìsto}
-{626}{}{- Znièené mìsto}
-{627}{}{- Znièené mìsto}
-{628}{}{- Znièené mìsto}
-{629}{}{- Znièené mìsto}
-{630}{}{- Znièené mìsto}
-{631}{}{- Znièené mìsto}
-{632}{}{- Znièené mìsto}
-{633}{}{- Znièené mìsto}
-{634}{}{- Znièené mìsto}
-{635}{}{- Znièené mìsto}
-{636}{}{- Znièené mìsto}
-{637}{}{- Znièené mìsto}
-{638}{}{- Znièené mìsto}
-{639}{}{- Znièené mìsto}
-{640}{}{- Znièené mìsto}
-{641}{}{- Hangáry vertibirdù}
-{642}{}{- Hangáry vertibirdù}
-{643}{}{- Hangáry vertibirdù}
-{644}{}{- Chrám Shi}
+{602}{}{- VstupnÃ­ koridor}
+{603}{}{- VstupnÃ­ koridor}
+{604}{}{- VstupnÃ­ koridor}
+{605}{}{- RopnÃ½ tanker}
+{606}{}{- RopnÃ½ tanker}
+{607}{}{- RopnÃ½ tanker}
+{608}{}{- PÅ™Ã­stav}
+{609}{}{- PÅ™Ã­stav}
+{610}{}{- PÅ™Ã­stav}
+{611}{}{- ÄŒÃ­nskÃ¡ ÄtvrÅ¥}
+{612}{}{- ÄŒÃ­nskÃ¡ ÄtvrÅ¥}
+{613}{}{- ÄŒÃ­nskÃ¡ ÄtvrÅ¥}
+{614}{}{- PÅ™istÃ¡vacÃ­ drÃ¡ha}
+{615}{}{- PÅ™istÃ¡vacÃ­ drÃ¡ha}
+{616}{}{- PÅ™istÃ¡vacÃ­ drÃ¡ha}
+{617}{}{- VnitÅ™ek raketoplÃ¡nu}
+{618}{}{- VnitÅ™ek raketoplÃ¡nu}
+{619}{}{- VnitÅ™ek raketoplÃ¡nu}
+{620}{}{- ZÃ¡kladna HubologistÅ¯}
+{621}{}{- ZÃ¡kladna HubologistÅ¯}
+{622}{}{- ZÃ¡kladna HubologistÅ¯}
+{623}{}{- ZniÄenÃ© mÄ›sto}
+{624}{}{- ZniÄenÃ© mÄ›sto}
+{625}{}{- ZniÄenÃ© mÄ›sto}
+{626}{}{- ZniÄenÃ© mÄ›sto}
+{627}{}{- ZniÄenÃ© mÄ›sto}
+{628}{}{- ZniÄenÃ© mÄ›sto}
+{629}{}{- ZniÄenÃ© mÄ›sto}
+{630}{}{- ZniÄenÃ© mÄ›sto}
+{631}{}{- ZniÄenÃ© mÄ›sto}
+{632}{}{- ZniÄenÃ© mÄ›sto}
+{633}{}{- ZniÄenÃ© mÄ›sto}
+{634}{}{- ZniÄenÃ© mÄ›sto}
+{635}{}{- ZniÄenÃ© mÄ›sto}
+{636}{}{- ZniÄenÃ© mÄ›sto}
+{637}{}{- ZniÄenÃ© mÄ›sto}
+{638}{}{- ZniÄenÃ© mÄ›sto}
+{639}{}{- ZniÄenÃ© mÄ›sto}
+{640}{}{- ZniÄenÃ© mÄ›sto}
+{641}{}{- HangÃ¡ry vertibirdÅ¯}
+{642}{}{- HangÃ¡ry vertibirdÅ¯}
+{643}{}{- HangÃ¡ry vertibirdÅ¯}
+{644}{}{- ChrÃ¡m Shi}
 {645}{}{}
-{646}{}{- Základna Bratrstva}
-{647}{}{Pouš}
-{648}{}{Pouš}
-{649}{}{Pouš}
-{650}{}{Pouš}
-{651}{}{Pouš}
-{652}{}{Pouš}
+{646}{}{- ZÃ¡kladna Bratrstva}
+{647}{}{PouÅ¡Å¥}
+{648}{}{PouÅ¡Å¥}
+{649}{}{PouÅ¡Å¥}
+{650}{}{PouÅ¡Å¥}
+{651}{}{PouÅ¡Å¥}
+{652}{}{PouÅ¡Å¥}
 {653}{}{Vchod}
-{654}{}{- Druhé patro}
-{655}{}{- Tøetí patro}
-{656}{}{- Suterén}
+{654}{}{- DruhÃ© patro}
+{655}{}{- TÅ™etÃ­ patro}
+{656}{}{- SuterÃ©n}
 {657}{}{enter name}
 {658}{}{enter name}
-{659}{}{Jeskynì}
+{659}{}{JeskynÄ›}
 {660}{}{enter name}
 {661}{}{enter name}
 {662}{}{Vesnice}
@@ -536,47 +536,47 @@
 {665}{}{- Les}
 {666}{}{- Vesnice}
 {667}{}{- Vesnice}
-{668}{}{- Rybáøská oblast}
-{669}{}{- Malá jeskynì}
+{668}{}{- RybÃ¡Å™skÃ¡ oblast}
+{669}{}{- MalÃ¡ jeskynÄ›}
 {670}{}{enter name}
 {671}{}{Vchod}
-{672}{}{- Technologické podlaí}
-{673}{}{- Údrba robotù}
+{672}{}{- TechnologickÃ© podlaÅ¾Ã­}
+{673}{}{- ÃšdrÅ¾ba robotÅ¯}
 {674}{}{- 1. patro}
 {675}{}{- 2. patro}
 {676}{}{- 3. patro}
-{677}{}{- Tajné podlaí}
+{677}{}{- TajnÃ© podlaÅ¾Ã­}
 {678}{}{enter name}
 {679}{}{enter name}
-{680}{}{- Hlavní tábor}
+{680}{}{- HlavnÃ­ tÃ¡bor}
 {681}{}{enter name}
 {682}{}{enter name}
-{683}{}{Pouš}
-{684}{}{Pouš}
-{685}{}{Pouš}
+{683}{}{PouÅ¡Å¥}
+{684}{}{PouÅ¡Å¥}
+{685}{}{PouÅ¡Å¥}
 {686}{}{Vchod}
 {687}{}{- 1. patro}
 {688}{}{- 2. patro}
-{689}{}{- Úkryt Rangerù}
-{690}{}{- Úkryt Rangerù}
-{691}{}{- Úkryt Rangerù}
-{692}{}{- Úkryt Rangerù}
-{693}{}{- Úkryt Rangerù}
-{694}{}{- Úkryt Rangerù}
-{695}{}{- Úkryt Rangerù}
-{696}{}{- Úkryt Rangerù}
-{697}{}{- Úkryt Rangerù}
-{698}{}{Pouš}
-{699}{}{Pouš}
-{700}{}{Pouš}
-{701}{}{Pouš}
-{702}{}{Pouš}
-{703}{}{Pouš}
-{704}{}{Pouš}
-{705}{}{Pouš}
-{706}{}{Pouš}
-{707}{}{- Exteriér ponorky}
-{708}{}{- Interiér ponorky - 1.patro}
+{689}{}{- Ãškryt RangerÅ¯}
+{690}{}{- Ãškryt RangerÅ¯}
+{691}{}{- Ãškryt RangerÅ¯}
+{692}{}{- Ãškryt RangerÅ¯}
+{693}{}{- Ãškryt RangerÅ¯}
+{694}{}{- Ãškryt RangerÅ¯}
+{695}{}{- Ãškryt RangerÅ¯}
+{696}{}{- Ãškryt RangerÅ¯}
+{697}{}{- Ãškryt RangerÅ¯}
+{698}{}{PouÅ¡Å¥}
+{699}{}{PouÅ¡Å¥}
+{700}{}{PouÅ¡Å¥}
+{701}{}{PouÅ¡Å¥}
+{702}{}{PouÅ¡Å¥}
+{703}{}{PouÅ¡Å¥}
+{704}{}{PouÅ¡Å¥}
+{705}{}{PouÅ¡Å¥}
+{706}{}{PouÅ¡Å¥}
+{707}{}{- ExteriÃ©r ponorky}
+{708}{}{- InteriÃ©r ponorky - 1.patro}
 {709}{}{}
 {710}{}{- 1. patro}
 {711}{}{- 2. patro}
@@ -585,7 +585,7 @@
 {714}{}{- 2. patro}
 {715}{}{- 3. patro}
 {716}{}{Opusteny dum}
-{717}{}{- Jeskynì}
+{717}{}{- JeskynÄ›}
 {718}{}{}
 {1500}{}{Arroyo}
 {1501}{}{Denu}
@@ -613,13 +613,13 @@
 {1523}{}{Toxicke jeskyne}
 {1524}{}{Tabor otroku z Denu}
 {1525}{}{Najezdnici}
-{1526}{}{Pouš}
+{1526}{}{PouÅ¡Å¥}
 {1527}{}{Hory}
 {1528}{}{Zriceniny mesta}
-{1529}{}{Pobøeí}
+{1529}{}{PobÅ™eÅ¾Ã­}
 {1530}{}{Golgota}
 {1531}{}{Zriceny vorvan}
-{1532}{}{Plechovı Drevorubec}
+{1532}{}{PlechovÃ½ Drevorubec}
 {1533}{}{Mluvici hlava}
 {1534}{}{Lod Federace}
 {1535}{}{Nemyti vesnicane}

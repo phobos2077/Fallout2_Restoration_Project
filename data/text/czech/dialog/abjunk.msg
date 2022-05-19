@@ -1,3 +1,3 @@
-{100}{}{Vidíš pøedváleèná udìlátka.}
-{101}{}{Rozloena na stole, jako posvátná relikvie, leí pùsobivá sbírka pøedváleènıch zaøízení a vìcièek. Bohuel nic z toho u nefunguje.}
-{102}{}{Nic se nedá pouít.}
+{100}{}{VidÃ­Å¡ pÅ™edvÃ¡leÄnÃ¡ udÄ›lÃ¡tka.}
+{101}{}{RozloÅ¾ena na stole, jako posvÃ¡tnÃ¡ relikvie, leÅ¾Ã­ pÅ¯sobivÃ¡ sbÃ­rka pÅ™edvÃ¡leÄnÃ½ch zaÅ™Ã­zenÃ­ a vÄ›ciÄek. BohuÅ¾el nic z toho uÅ¾ nefunguje.}
+{102}{}{Nic se nedÃ¡ pouÅ¾Ã­t.}

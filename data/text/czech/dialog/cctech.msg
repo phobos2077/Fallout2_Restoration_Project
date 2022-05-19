@@ -1,30 +1,30 @@
-{100}{}{Voják ve sluební uniformì.}
-{101}{}{Nìjakı Nìèeho-Technik, hodnost X.}
-{102}{}{Má na sobì sice vojenskou uniformu, ale pøesto tenhle chlapík vypadá spíše jako technik.}
-{103}{}{Hele, kolikrát vám to mám øíkat, vy šašci? Nestùjte mi v cestì!}
-{104}{}{Nemáš na co støílet?}
-{105}{}{Zdravím, vojáku.}
-{106}{}{Kdo jsi? Stráe!}
-{107}{}{Co je k èertu zase tohle? Vetøelec na základnì!}
-{108}{}{Zatracenì! Kde mám svoji pistoli!}
-{109}{}{Hele, u to tu celı prohledali a nic nenašli.}
-{110}{}{Jeíši, tyhle falešnı poplachy mì jednou zabijou.}
-{111}{}{Skvìlı, další falešnej poplach. Teï budeme muset shodit celej náš systém a zase ho nahodit zpátky. }
-{112}{}{Zatracenì! Támhle! Chyte toho špeha!}
-{113}{}{Sakra, to je útok! Kde mám bouchaèku?}
-{114}{}{Støílení? Nikdo neøíkal, e by se tu mìlo støílet!}
-{115}{}{Kdo k èertu jsi? Stráe!}
-{116}{}{Ty nejsi z Enklávy! Stráe!}
-{117}{}{Vetøelci! Sabotéøi! Támhle!}
-{118}{}{Hej, nech ty plány na pokoji. Já tu pracuju.}
+{100}{}{VojÃ¡k ve sluÅ¾ebnÃ­ uniformÄ›.}
+{101}{}{NÄ›jakÃ½ NÄ›Äeho-Technik, hodnost X.}
+{102}{}{MÃ¡ na sobÄ› sice vojenskou uniformu, ale pÅ™esto tenhle chlapÃ­k vypadÃ¡ spÃ­Å¡e jako technik.}
+{103}{}{Hele, kolikrÃ¡t vÃ¡m to mÃ¡m Å™Ã­kat, vy Å¡aÅ¡ci? NestÅ¯jte mi v cestÄ›!}
+{104}{}{NemÃ¡Å¡ na co stÅ™Ã­let?}
+{105}{}{ZdravÃ­m, vojÃ¡ku.}
+{106}{}{Kdo jsi? StrÃ¡Å¾e!}
+{107}{}{Co je k Äertu zase tohle? VetÅ™elec na zÃ¡kladnÄ›!}
+{108}{}{ZatracenÄ›! Kde mÃ¡m svoji pistoli!}
+{109}{}{Hele, uÅ¾ to tu celÃ½ prohledali a nic nenaÅ¡li.}
+{110}{}{JeÅ¾Ã­Å¡i, tyhle faleÅ¡nÃ½ poplachy mÄ› jednou zabijou.}
+{111}{}{SkvÄ›lÃ½, dalÅ¡Ã­ faleÅ¡nej poplach. TeÄ budeme muset shodit celej nÃ¡Å¡ systÃ©m a zase ho nahodit zpÃ¡tky. }
+{112}{}{ZatracenÄ›! TÃ¡mhle! ChyÅ¥te toho Å¡peha!}
+{113}{}{Sakra, to je Ãºtok! Kde mÃ¡m bouchaÄku?}
+{114}{}{StÅ™Ã­lenÃ­? Nikdo neÅ™Ã­kal, Å¾e by se tu mÄ›lo stÅ™Ã­let!}
+{115}{}{Kdo k Äertu jsi? StrÃ¡Å¾e!}
+{116}{}{Ty nejsi z EnklÃ¡vy! StrÃ¡Å¾e!}
+{117}{}{VetÅ™elci! SabotÃ©Å™i! TÃ¡mhle!}
+{118}{}{Hej, nech ty plÃ¡ny na pokoji. JÃ¡ tu pracuju.}
 {119}{}{Kde je sakra ten gyroskop?}
-{120}{}{Zatracenı piloti. Vdycky ty mašiny rozflákaj.}
-{121}{}{Rozumím a beru na vìdomí... a teï mì neruš, mám práci.}
-{122}{}{Hele, osobní hovory nejsou povolenı, vojáku.}
-{123}{}{Promiò, ale teï ti nemùu pomoct.}
-{124}{}{Máš tu dole nìco na práci? Jestli ne, tak mi uhni z cesty.}
-{125}{}{Tohle je zakázaná zóna, vojáku.}
-{126}{}{Uhni mi s cesty, vojáku.}
-{127}{}{Co se sakra dìje? Co se to tam nahoøe dìje?}
-{128}{}{Sakra! Dostali se dovnitø!}
-{129}{}{Šašci! To je urèitì zas jen další falešnej poplach.}
+{120}{}{ZatracenÃ½ piloti. VÅ¾dycky ty maÅ¡iny rozflÃ¡kaj.}
+{121}{}{RozumÃ­m a beru na vÄ›domÃ­... a teÄ mÄ› neruÅ¡, mÃ¡m prÃ¡ci.}
+{122}{}{Hele, osobnÃ­ hovory nejsou povolenÃ½, vojÃ¡ku.}
+{123}{}{PromiÅˆ, ale teÄ ti nemÅ¯Å¾u pomoct.}
+{124}{}{MÃ¡Å¡ tu dole nÄ›co na prÃ¡ci? Jestli ne, tak mi uhni z cesty.}
+{125}{}{Tohle je zakÃ¡zanÃ¡ zÃ³na, vojÃ¡ku.}
+{126}{}{Uhni mi s cesty, vojÃ¡ku.}
+{127}{}{Co se sakra dÄ›je? Co se to tam nahoÅ™e dÄ›je?}
+{128}{}{Sakra! Dostali se dovnitÅ™!}
+{129}{}{Å aÅ¡ci! To je urÄitÄ› zas jen dalÅ¡Ã­ faleÅ¡nej poplach.}

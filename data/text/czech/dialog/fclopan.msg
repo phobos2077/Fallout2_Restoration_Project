@@ -1,118 +1,118 @@
-{100}{}{Vidíš arogantního Shi gangstera.}
-{101}{}{Vidíš Lo Pana, despotického a bezcitného mue.}
-{102}{}{Vidíš Shi gangstera v hedvábném obleèení. Jeho ruce jsou mozolnaté a tvrdé. Vypadá nebezpeènì a zle.}
-{103}{}{Co chceš?}
+{100}{}{VidÃ­Å¡ arogantnÃ­ho Shi gangstera.}
+{101}{}{VidÃ­Å¡ Lo Pana, despotickÃ©ho a bezcitnÃ©ho muÅ¾e.}
+{102}{}{VidÃ­Å¡ Shi gangstera v hedvÃ¡bnÃ©m obleÄenÃ­. Jeho ruce jsou mozolnatÃ© a tvrdÃ©. VypadÃ¡ nebezpeÄnÄ› a zle.}
+{103}{}{Co chceÅ¡?}
 {104}{}{Daggle aggle aggle!}
 {105}{}{Kdo ty?}
-{106}{}{S kım jsi to bojoval?}
+{106}{}{S kÃ½m jsi to bojoval?}
 {107}{}{Kdo jsi?}
-{108}{}{Chci se nauèit bojovat jako ty. Nauè mì to.}
-{109}{}{Chci tì vyzvat na souboj.}
-{110}{}{Zapomeò na to.}
-{111}{}{Táhni odsud, idiote. Nemám ti co øíct.}
+{108}{}{Chci se nauÄit bojovat jako ty. NauÄ mÄ› to.}
+{109}{}{Chci tÄ› vyzvat na souboj.}
+{110}{}{ZapomeÅˆ na to.}
+{111}{}{TÃ¡hni odsud, idiote. NemÃ¡m ti co Å™Ã­ct.}
 {112}{}{GRR!}
-{113}{}{Jsem Lo Pan. Nejlepší bojovník ve mìstì kromì Dragona. Ale jednoho dne zemøe a a se tak stane, zaènu svùj styl uèit i ostatní.}
-{114}{}{Ty uèit mì!}
-{115}{}{Dík.}
-{116}{}{Chceš se uèit? Myslíš, e na to máš? Uvidíme.}
+{113}{}{Jsem Lo Pan. NejlepÅ¡Ã­ bojovnÃ­k ve mÄ›stÄ› kromÄ› Dragona. Ale jednoho dne zemÅ™e a aÅ¾ se tak stane, zaÄnu svÅ¯j styl uÄit i ostatnÃ­.}
+{114}{}{Ty uÄit mÄ›!}
+{115}{}{DÃ­k.}
+{116}{}{ChceÅ¡ se uÄit? MyslÃ­Å¡, Å¾e na to mÃ¡Å¡? UvidÃ­me.}
 {117}{}{[KONEC]}
-{118}{}{Uèit tì? To si nemyslím. Vypadáš a pøíliš sebejistì. Vypadni.}
+{118}{}{UÄit tÄ›? To si nemyslÃ­m. VypadÃ¡Å¡ aÅ¾ pÅ™Ã­liÅ¡ sebejistÄ›. Vypadni.}
 {119}{}{Co to...?}
-{120}{}{Hele podívejte, idiot. Nechci s tebou mluvit. Jdi pryè.}
+{120}{}{Hele podÃ­vejte, idiot. Nechci s tebou mluvit. Jdi pryÄ.}
 {121}{}{He...}
-{122}{}{To byl Dragon. Je to padavka, kterı podporuje slabé.}
-{123}{}{Lidi jsou ovce. Mìl bys slouit jen sám sobì.}
-{124}{}{Ty jsi mi ale nìjakı zlı.}
-{125}{}{Chápu. Mám další otázky.}
-{126}{}{Zlı? Tìko. Jenom chytrı. Jdi radìji navštívit Dragona, pokud tì tak strašnì zajímá konat lidem dobro. Má rád prostoduché slabochy, jako jsi ty.}
+{122}{}{To byl Dragon. Je to padavka, kterÃ½ podporuje slabÃ©.}
+{123}{}{Lidi jsou ovce. MÄ›l bys slouÅ¾it jen sÃ¡m sobÄ›.}
+{124}{}{Ty jsi mi ale nÄ›jakÃ½ zlÃ½.}
+{125}{}{ChÃ¡pu. MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
+{126}{}{ZlÃ½? TÄ›Å¾ko. Jenom chytrÃ½. Jdi radÄ›ji navÅ¡tÃ­vit Dragona, pokud tÄ› tak straÅ¡nÄ› zajÃ­mÃ¡ konat lidem dobro. MÃ¡ rÃ¡d prostoduchÃ© slabochy, jako jsi ty.}
 {127}{}{[KONEC]}
-{128}{}{Ano, to bych mìl. A taky to dìlám. Bohuel mi v cestì pøekáí Dragon. Jsme si pøíliš rovni v souboji proti sobì. Potøebuju nìkoho schopného, aby mi pomohl.}
-{129}{}{Já jsem ten nìkdo.}
-{130}{}{Chápu. No, mám další otázky.}
-{131}{}{Chápu. No, zatím.}
-{132}{}{Opravdu? Umíš bojovat mu proti mui jenom pìstmi a kopy bez zbroje a beze zbranì?}
-{133}{}{Umím, ale proè bych mìl?}
-{134}{}{To zní fér. Jak bude ta zkouška probíhat?}
-{135}{}{Aha. Tak v tom pøípadì musím jít.}
-{136}{}{Protoe jinak mì rolnící proklejí a bude mnohem tìší je vydìsit a porazím Dragona.}
-{137}{}{Chápu. Zaèneme tu zkoušku.}
-{138}{}{Chápu. Mám další otázky.}
-{139}{}{Jasnì. Zatím.}
-{140}{}{Chceš se mnou bojovat na smrt, nebo chceš jenom zjistit kdo je lepší?}
-{141}{}{A do konce. Mám na tebe.}
-{142}{}{Jenom zkoušku schopností. Nechci tì zabít.}
-{143}{}{Ani jedno. Zapomeò na to.}
-{144}{}{Skvìlé. Doufám, e u máš pøipravenı hrob. Poslal tì Dragon?}
-{145}{}{Ano, dìlám to pro Shi.}
-{146}{}{Ne. Dìlám to, protoe si myslím, e jsi hajzl.}
-{147}{}{Aha, take tvrïák, jo? Napøed se utkáš s mımi mui a potom uvidíme, jestli jsi hoden bojovat se mnou.}
-{148}{}{[Zaèít]}
-{149}{}{Jsem Lo Pan. Jsem také "úhlavní nepøítel" Dragona. Nechápu proè trvá na tom, aby mìl úhlavního nepøítele. Bojuji stejnì dobøe jako on a myslím si, e je slabomyslnı a umoòuje ostatním ít ve svém stínu. Jsme nepøátelé, protoe bojujeme stejnım stylem a ten, kdo zvítìzí, pøevezme tradici.}
-{150}{}{Nejsem úplnì nejhorší v pìstním souboji. Nechceš si mì vyzkoušet?}
-{151}{}{Zajímavé. To musí bıt opravdu prospìšné. Mám další otázky.}
-{152}{}{Dík. Naskle.}
-{153}{}{Moná jsem hajzl, ale nikdo nemùe øíct, e se nezastávám svıch lidí. Teï tì to bude poøádnì bolet.}
+{128}{}{Ano, to bych mÄ›l. A taky to dÄ›lÃ¡m. BohuÅ¾el mi v cestÄ› pÅ™ekÃ¡Å¾Ã­ Dragon. Jsme si pÅ™Ã­liÅ¡ rovni v souboji proti sobÄ›. PotÅ™ebuju nÄ›koho schopnÃ©ho, aby mi pomohl.}
+{129}{}{JÃ¡ jsem ten nÄ›kdo.}
+{130}{}{ChÃ¡pu. No, mÃ¡m dalÅ¡Ã­ otÃ¡zky.}
+{131}{}{ChÃ¡pu. No, zatÃ­m.}
+{132}{}{Opravdu? UmÃ­Å¡ bojovat muÅ¾ proti muÅ¾i jenom pÄ›stmi a kopy bez zbroje a beze zbranÄ›?}
+{133}{}{UmÃ­m, ale proÄ bych mÄ›l?}
+{134}{}{To znÃ­ fÃ©r. Jak bude ta zkouÅ¡ka probÃ­hat?}
+{135}{}{Aha. Tak v tom pÅ™Ã­padÄ› musÃ­m jÃ­t.}
+{136}{}{ProtoÅ¾e jinak mÄ› rolnÃ­cÃ­ proklejÃ­ a bude mnohem tÄ›Å¾Å¡Ã­ je vydÄ›sit aÅ¾ porazÃ­m Dragona.}
+{137}{}{ChÃ¡pu. ZaÄneme tu zkouÅ¡ku.}
+{138}{}{ChÃ¡pu. MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
+{139}{}{JasnÄ›. ZatÃ­m.}
+{140}{}{ChceÅ¡ se mnou bojovat na smrt, nebo chceÅ¡ jenom zjistit kdo je lepÅ¡Ã­?}
+{141}{}{AÅ¾ do konce. MÃ¡m na tebe.}
+{142}{}{Jenom zkouÅ¡ku schopnostÃ­. Nechci tÄ› zabÃ­t.}
+{143}{}{Ani jedno. ZapomeÅˆ na to.}
+{144}{}{SkvÄ›lÃ©. DoufÃ¡m, Å¾e uÅ¾ mÃ¡Å¡ pÅ™ipravenÃ½ hrob. Poslal tÄ› Dragon?}
+{145}{}{Ano, dÄ›lÃ¡m to pro Shi.}
+{146}{}{Ne. DÄ›lÃ¡m to, protoÅ¾e si myslÃ­m, Å¾e jsi hajzl.}
+{147}{}{Aha, takÅ¾e tvrÄÃ¡k, jo? NapÅ™ed se utkÃ¡Å¡ s mÃ½mi muÅ¾i a potom uvidÃ­me, jestli jsi hoden bojovat se mnou.}
+{148}{}{[ZaÄÃ­t]}
+{149}{}{Jsem Lo Pan. Jsem takÃ© "ÃºhlavnÃ­ nepÅ™Ã­tel" Dragona. NechÃ¡pu proÄ trvÃ¡ na tom, aby mÄ›l ÃºhlavnÃ­ho nepÅ™Ã­tele. Bojuji stejnÄ› dobÅ™e jako on a myslÃ­m si, Å¾e je slabomyslnÃ½ a umoÅ¾Åˆuje ostatnÃ­m Å¾Ã­t ve svÃ©m stÃ­nu. Jsme nepÅ™Ã¡telÃ©, protoÅ¾e bojujeme stejnÃ½m stylem a ten, kdo zvÃ­tÄ›zÃ­, pÅ™evezme tradici.}
+{150}{}{Nejsem ÃºplnÄ› nejhorÅ¡Ã­ v pÄ›stnÃ­m souboji. NechceÅ¡ si mÄ› vyzkouÅ¡et?}
+{151}{}{ZajÃ­mavÃ©. To musÃ­ bÃ½t opravdu prospÄ›Å¡nÃ©. MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
+{152}{}{DÃ­k. Naskle.}
+{153}{}{MoÅ¾nÃ¡ jsem hajzl, ale nikdo nemÅ¯Å¾e Å™Ã­ct, Å¾e se nezastÃ¡vÃ¡m svÃ½ch lidÃ­. TeÄ tÄ› to bude poÅ™Ã¡dnÄ› bolet.}
 {154}{}{[KONEC]}
-{155}{}{Potom jsi hlupák a mizera, kterı skáèe jak nìkdo jinı píská. Budu se smát a zemøeš.}
-{156}{}{[Zaútoèit teï ve zbroji a se zbranìmi]}
-{157}{}{[Vstoupit do ringu, odloit zbroj a zbranì a bojovat holıma rukama]}
-{158}{}{Dobøe. Aspoò jsi svım vlastním pánem. Opravdu si troufáš bojovat bez zbroje a beze zbraní?}
-{159}{}{[Zaútoèit teï ve zbroji a se zbranìmi]}
-{160}{}{[Vstoupit do ringu, odloit zbroj a zbranì a bojovat holıma rukama]}
-{161}{}{Beee, ovce, beee! Bì zpátky k tìm svım zahalenım pánùm. Nemám ti u co øíct.}
+{155}{}{Potom jsi hlupÃ¡k a mizera, kterÃ½ skÃ¡Äe jak nÄ›kdo jinÃ½ pÃ­skÃ¡. Budu se smÃ¡t aÅ¾ zemÅ™eÅ¡.}
+{156}{}{[ZaÃºtoÄit teÄ ve zbroji a se zbranÄ›mi]}
+{157}{}{[Vstoupit do ringu, odloÅ¾it zbroj a zbranÄ› a bojovat holÃ½ma rukama]}
+{158}{}{DobÅ™e. AspoÅˆ jsi svÃ½m vlastnÃ­m pÃ¡nem. Opravdu si troufÃ¡Å¡ bojovat bez zbroje a beze zbranÃ­?}
+{159}{}{[ZaÃºtoÄit teÄ ve zbroji a se zbranÄ›mi]}
+{160}{}{[Vstoupit do ringu, odloÅ¾it zbroj a zbranÄ› a bojovat holÃ½ma rukama]}
+{161}{}{Beee, ovce, beee! BÄ›Å¾ zpÃ¡tky k tÄ›m svÃ½m zahalenÃ½m pÃ¡nÅ¯m. NemÃ¡m ti uÅ¾ co Å™Ã­ct.}
 {162}{}{[KONEC]}
-{163}{}{Neøíkal jsem ti, e si máš o svıch vıèitkách svìdomí promluvit s Dragonem? Ten ti bude naslouchat. Já ne. Teï odejdi.}
+{163}{}{NeÅ™Ã­kal jsem ti, Å¾e si mÃ¡Å¡ o svÃ½ch vÃ½ÄitkÃ¡ch svÄ›domÃ­ promluvit s Dragonem? Ten ti bude naslouchat. JÃ¡ ne. TeÄ odejdi.}
 {164}{}{[KONEC]}
-{165}{}{Musím pøiznat, e jsi ještì lepší bojovník ne já. Nechceš zkusit porazit Dragona?}
-{166}{}{Ano. Udìlám to teï hned.}
-{167}{}{To fakt není mùj boj.}
-{168}{}{Jistì, ale mám ještì nìjaké otázky.}
-{169}{}{Ne, to není. Ale Dragon mì stále poráí. Jestli máš alespoò trochu odvahy, dostaneš ho. Stejnì jsem nikdy neoèekával hrdost od lao wai.}
-{170}{}{Dobøe. Mám otázky.}
-{171}{}{Jasnì, jak myslíš. Zatím.}
-{172}{}{Právì jsem se vrátil. Nìjakı lao wai se snail ukrást naše tajemství. Dragon a já jsme ho sejmuli. Musím uznat, e nám to šlo spolu dobøe.}
-{173}{}{Skvìle. Mám otázky.}
-{174}{}{Vıbornì. Nashle.}
-{175}{}{Dragon je mrtvı. Nemùu tomu uvìøit. Alespoò nám teï ty otravné tradice nepøekáí na kadém kroku. Díky.}
-{176}{}{Skvìle. Mám otázky.}
-{177}{}{Vıbornì. Nashle.}
-{178}{}{Fajn. Udìlám to hned teï.}
-{200}{}{Lo Pan odhalí tvùj zámìr a ty kolem nìj jenom proklouzneš.}
-{201}{}{Podívej, nemám rád, kdy mi nìkdo bere vìci, take si jdi krást nìkam jinam. Teï odejdi.}
-{202}{}{Vyzval jsem tì k odchodu, ne ke smrti. Co u.}
-{203}{}{Zdá se, e u ode mì nepotøebuješ ádnı trénink.}
-{204}{}{Pro dnešek je náš trénink u konce. Vra se zítra.}
-{205}{}{Jsem Mistr Khung, tvá poslední zkouška.}
-{206}{}{Jsem Imbot. Pøiprav se.}
-{207}{}{Jsem Wejungh. Pøiprav se.}
-{208}{}{Jsem Loopal. Dál se nedostaneš.}
-{209}{}{Jsem Smitty. Je naèase, aby tì nìkdo porazil.}
-{210}{}{Jsem Mistr Krall. To je tvùj konec.}
+{165}{}{MusÃ­m pÅ™iznat, Å¾e jsi jeÅ¡tÄ› lepÅ¡Ã­ bojovnÃ­k neÅ¾ jÃ¡. NechceÅ¡ zkusit porazit Dragona?}
+{166}{}{Ano. UdÄ›lÃ¡m to teÄ hned.}
+{167}{}{To fakt nenÃ­ mÅ¯j boj.}
+{168}{}{JistÄ›, ale mÃ¡m jeÅ¡tÄ› nÄ›jakÃ© otÃ¡zky.}
+{169}{}{Ne, to nenÃ­. Ale Dragon mÄ› stÃ¡le porÃ¡Å¾Ã­. Jestli mÃ¡Å¡ alespoÅˆ trochu odvahy, dostaneÅ¡ ho. StejnÄ› jsem nikdy neoÄekÃ¡val hrdost od lao wai.}
+{170}{}{DobÅ™e. MÃ¡m otÃ¡zky.}
+{171}{}{JasnÄ›, jak myslÃ­Å¡. ZatÃ­m.}
+{172}{}{PrÃ¡vÄ› jsem se vrÃ¡til. NÄ›jakÃ½ lao wai se snaÅ¾il ukrÃ¡st naÅ¡e tajemstvÃ­. Dragon a jÃ¡ jsme ho sejmuli. MusÃ­m uznat, Å¾e nÃ¡m to Å¡lo spolu dobÅ™e.}
+{173}{}{SkvÄ›le. MÃ¡m otÃ¡zky.}
+{174}{}{VÃ½bornÄ›. Nashle.}
+{175}{}{Dragon je mrtvÃ½. NemÅ¯Å¾u tomu uvÄ›Å™it. AlespoÅˆ nÃ¡m teÄ ty otravnÃ© tradice nepÅ™ekÃ¡Å¾Ã­ na kaÅ¾dÃ©m kroku. DÃ­ky.}
+{176}{}{SkvÄ›le. MÃ¡m otÃ¡zky.}
+{177}{}{VÃ½bornÄ›. Nashle.}
+{178}{}{Fajn. UdÄ›lÃ¡m to hned teÄ.}
+{200}{}{Lo Pan odhalÃ­ tvÅ¯j zÃ¡mÄ›r a ty kolem nÄ›j jenom proklouzneÅ¡.}
+{201}{}{PodÃ­vej, nemÃ¡m rÃ¡d, kdyÅ¾ mi nÄ›kdo bere vÄ›ci, takÅ¾e si jdi krÃ¡st nÄ›kam jinam. TeÄ odejdi.}
+{202}{}{Vyzval jsem tÄ› k odchodu, ne ke smrti. Co uÅ¾.}
+{203}{}{ZdÃ¡ se, Å¾e uÅ¾ ode mÄ› nepotÅ™ebujeÅ¡ Å¾Ã¡dnÃ½ trÃ©nink.}
+{204}{}{Pro dneÅ¡ek je nÃ¡Å¡ trÃ©nink u konce. VraÅ¥ se zÃ­tra.}
+{205}{}{Jsem Mistr Khung, tvÃ¡ poslednÃ­ zkouÅ¡ka.}
+{206}{}{Jsem Imbot. PÅ™iprav se.}
+{207}{}{Jsem Wejungh. PÅ™iprav se.}
+{208}{}{Jsem Loopal. DÃ¡l se nedostaneÅ¡.}
+{209}{}{Jsem Smitty. Je naÄase, aby tÄ› nÄ›kdo porazil.}
+{210}{}{Jsem Mistr Krall. To je tvÅ¯j konec.}
 {211}{}{BOJ!}
-{212}{}{Potøebuješ víc trénovat.}
-{213}{}{Pøiprav se!}
-{214}{}{Podaøilo se ti porazit Lo Pana v souboji na smrt. Z nìjakého dùvodu dnes vypadá slunce o nìco jasnìjší.}
-{215}{}{U jsi porazil moje mue. Sloil jsi zkoušku. Jsi pøipraven bojovat s Dragonem.}
-{216}{}{U jsi dost dobrı. Jdi se nauèit støílet nebo tak nìco.}
-{217}{}{Zaèneme. Opakuj po mì.}
-{218}{}{Pro dnešek je náš trénink u konce.}
-{219}{}{Uèíš se rychle.}
-{220}{}{U jsi porazil moje mue. Nikdo další s tebou nechce bojovat.}
-{221}{}{Pomohl jsi mi, ani bys nìco tušil. Teï, kdy je Dragon mrtvı, u se nemusím øídit tìmi zastaralımi morálními tradicemi.}
-{222}{}{Bylo mi potìšením. Zatím.}
-{223}{}{Rádo se stalo. Nashle.}
-{224}{}{Rádo se stalo. Mùu se ještì zeptat?}
-{225}{}{Prosím. Já ptát?}
-{226}{}{VYHRÁL jsi!}
-{227}{}{PROHRÁL jsi!}
-{228}{}{Další protivník!}
-{229}{}{Hej, podívej, co jsem našel.}
-{230}{}{Nejprve musíš prokázat, e to dokáeš. Postavím tì proti svım pìti bojovníkùm -  postupnì. Kdy je porazíš, èeká na tebe tvoje poslední zkouška.}
-{231}{}{Co to máš?}
-{232}{}{To zní moc obtínì. Nashle.}
+{212}{}{PotÅ™ebujeÅ¡ vÃ­c trÃ©novat.}
+{213}{}{PÅ™iprav se!}
+{214}{}{PodaÅ™ilo se ti porazit Lo Pana v souboji na smrt. Z nÄ›jakÃ©ho dÅ¯vodu dnes vypadÃ¡ slunce o nÄ›co jasnÄ›jÅ¡Ã­.}
+{215}{}{UÅ¾ jsi porazil moje muÅ¾e. SloÅ¾il jsi zkouÅ¡ku. Jsi pÅ™ipraven bojovat s Dragonem.}
+{216}{}{UÅ¾ jsi dost dobrÃ½. Jdi se nauÄit stÅ™Ã­let nebo tak nÄ›co.}
+{217}{}{ZaÄneme. Opakuj po mÄ›.}
+{218}{}{Pro dneÅ¡ek je nÃ¡Å¡ trÃ©nink u konce.}
+{219}{}{UÄÃ­Å¡ se rychle.}
+{220}{}{UÅ¾ jsi porazil moje muÅ¾e. Nikdo dalÅ¡Ã­ s tebou nechce bojovat.}
+{221}{}{Pomohl jsi mi, aniÅ¾ bys nÄ›co tuÅ¡il. TeÄ, kdyÅ¾ je Dragon mrtvÃ½, uÅ¾ se nemusÃ­m Å™Ã­dit tÄ›mi zastaralÃ½mi morÃ¡lnÃ­mi tradicemi.}
+{222}{}{Bylo mi potÄ›Å¡enÃ­m. ZatÃ­m.}
+{223}{}{RÃ¡do se stalo. Nashle.}
+{224}{}{RÃ¡do se stalo. MÅ¯Å¾u se jeÅ¡tÄ› zeptat?}
+{225}{}{ProsÃ­m. JÃ¡ ptÃ¡t?}
+{226}{}{VYHRÃL jsi!}
+{227}{}{PROHRÃL jsi!}
+{228}{}{DalÅ¡Ã­ protivnÃ­k!}
+{229}{}{Hej, podÃ­vej, co jsem naÅ¡el.}
+{230}{}{Nejprve musÃ­Å¡ prokÃ¡zat, Å¾e to dokÃ¡Å¾eÅ¡. PostavÃ­m tÄ› proti svÃ½m pÄ›ti bojovnÃ­kÅ¯m -  postupnÄ›. KdyÅ¾ je porazÃ­Å¡, ÄekÃ¡ na tebe tvoje poslednÃ­ zkouÅ¡ka.}
+{231}{}{Co to mÃ¡Å¡?}
+{232}{}{To znÃ­ moc obtÃ­Å¾nÄ›. Nashle.}
 {233}{}{You will need to defeat my chosen apprentice. However, none of these battles will be to the death - to protect my men, of course. [he sneers]}
 {234}{}{Jdeme na to!}
-{235}{}{Vyøiï si to s Dragonem sám.}
-{236}{}{(Lo Pan tì chvíli pozoruje a poté najednou rychle vymrští svoji pìst, která tì udeøí do nosu ještì døív, ne stihneš vùbec zareagovat.) Nejsi dost dobrı.}
-{237}{}{Dobøe, ale mùu se na nìco zeptat?}
+{235}{}{VyÅ™iÄ si to s Dragonem sÃ¡m.}
+{236}{}{(Lo Pan tÄ› chvÃ­li pozoruje a potÃ© najednou rychle vymrÅ¡tÃ­ svoji pÄ›st, kterÃ¡ tÄ› udeÅ™Ã­ do nosu jeÅ¡tÄ› dÅ™Ã­v, neÅ¾ stihneÅ¡ vÅ¯bec zareagovat.) Nejsi dost dobrÃ½.}
+{237}{}{DobÅ™e, ale mÅ¯Å¾u se na nÄ›co zeptat?}
 {238}{}{Fajn. Nashle.}

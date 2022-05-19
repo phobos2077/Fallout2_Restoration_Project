@@ -1,42 +1,42 @@
-{100}{}{NAÈÍST HRU}
-{101}{}{RYCHLÉ NAÈTENÍ (F7)}
-{102}{}{ULOIT HRU}
-{103}{}{RYCHLÉ ULOENÍ (F6)}
+{100}{}{NAÄŒÃST HRU}
+{101}{}{RYCHLÃ‰ NAÄŒTENÃ (F7)}
+{102}{}{ULOÅ½IT HRU}
+{103}{}{RYCHLÃ‰ ULOÅ½ENÃ (F6)}
 {104}{}{[KONEC]}
-{105}{}{ZRUŠIT}
-{106}{}{Chyba pøi naèítání seznamu uloenıch pozic!}
-{107}{}{Adresáø pro uloenou pozici:}
-{108}{}{Neexistuje nebo je poškozen.}
-{109}{}{ULOIT HRU}
-{110}{}{NAÈÍST HRU}
-{111}{}{- PRÁZDNÁ POZICE -}
-{112}{}{- POŠKOZENÁ POZICE -}
-{113}{}{- STARÁ VERZE -}
-{114}{}{Prázdná pozice.}
+{105}{}{ZRUÅ IT}
+{106}{}{Chyba pÅ™i naÄÃ­tÃ¡nÃ­ seznamu uloÅ¾enÃ½ch pozic!}
+{107}{}{AdresÃ¡Å™ pro uloÅ¾enou pozici:}
+{108}{}{Neexistuje nebo je poÅ¡kozen.}
+{109}{}{ULOÅ½IT HRU}
+{110}{}{NAÄŒÃST HRU}
+{111}{}{- PRÃZDNÃ POZICE -}
+{112}{}{- POÅ KOZENÃ POZICE -}
+{113}{}{- STARÃ VERZE -}
+{114}{}{PrÃ¡zdnÃ¡ pozice.}
 {115}{}{Chyba!}
-{116}{}{Stará verze.}
+{116}{}{StarÃ¡ verze.}
 {117}{}{LED}
-{118}{}{ÚNO}
-{119}{}{BØE}
+{118}{}{ÃšNO}
+{119}{}{BÅ˜E}
 {120}{}{DUB}
-{121}{}{KVÌ}
-{122}{}{ÈVN}
-{123}{}{ÈVC}
+{121}{}{KVÄš}
+{122}{}{ÄŒVN}
+{123}{}{ÄŒVC}
 {124}{}{SRP}
-{125}{}{ZÁØ}
-{126}{}{ØÍJ}
+{125}{}{ZÃÅ˜}
+{126}{}{Å˜ÃJ}
 {127}{}{LIS}
 {128}{}{PRO}
-{129}{}{Úroveò}
+{129}{}{ÃšroveÅˆ}
 {130}{}{POPIS}
-{131}{}{Uloená pozice ji existuje. Pøepsat?}
-{132}{}{Chyba pøi ukládání hry!}
-{133}{}{Není moné hru uloit.}
-{134}{}{Chyba pøi naèítání hry!}
-{135}{}{Není moné hru naèíst.}
-{136}{}{Pozice je ze starší verze.}
+{131}{}{UloÅ¾enÃ¡ pozice jiÅ¾ existuje. PÅ™epsat?}
+{132}{}{Chyba pÅ™i uklÃ¡dÃ¡nÃ­ hry!}
+{133}{}{NenÃ­ moÅ¾nÃ© hru uloÅ¾it.}
+{134}{}{Chyba pÅ™i naÄÃ­tÃ¡nÃ­ hry!}
+{135}{}{NenÃ­ moÅ¾nÃ© hru naÄÃ­st.}
+{136}{}{Pozice je ze starÅ¡Ã­ verze.}
 {137}{}{Mapa}
-{140}{}{Hra byla uloena.}
-{141}{}{Hra byla naètena.}
-{200}{}{Promiò, ale v demo verzi }
-{201}{}{není moné ukládat ani naèítat.}
+{140}{}{Hra byla uloÅ¾ena.}
+{141}{}{Hra byla naÄtena.}
+{200}{}{PromiÅˆ, ale v demo verzi }
+{201}{}{nenÃ­ moÅ¾nÃ© uklÃ¡dat ani naÄÃ­tat.}

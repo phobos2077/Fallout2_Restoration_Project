@@ -1,103 +1,103 @@
-{100}{}{Vidíš statnou enu ve støedních letech pokrytou prachem.}
-{101}{}{Vidíš Marge LeBarge, majitelku dolu Kokoweef.}
-{102}{}{Vidíš statnou, houevnatou enu, která vyzaøuje autoritu.}
-{103}{}{Je mi líto, ale teï nemám èas na chudáky.}
-{104}{}{Vra se, a se ti zahojí hlava.}
-{105}{}{Pøekvapuje mì, e umíš chodit a pøitom dokonce i mluvit.}
-{106}{}{Vypadá to, e máš o koleèko míò.}
-{107}{}{I koleèko od trakaøe je chytøejší ne ty.}
-{108}{}{No, mùj oblíbenec zrovna nejsi.}
-{109}{}{Díky za pøinesení toho kontrolního èipu. Koneènì se Kokoweef zase vrátil do starıch kolejí.}
-{110}{}{Za ten kontrolní èip ti dám $1000.}
-{111}{}{Podaøilo se ti najít ten kontrolní èip?}
-{112}{}{Jo tohle, no, promiò. Nemùeš se vdycky zavdìèit úplnì všem.}
-{113}{}{Nikdy nepohrdnu dobøe placenou prací. Chci se ještì na nìco zeptat.}
-{114}{}{Jak víš, e mám ten èip u sebe?}
-{115}{}{Jakou má pro tebe cenu?}
-{116}{}{A nìjakı seenu, dám ti vìdìt.}
-{117}{}{Myslím, e u asi pùjdu. Sbohem.}
-{118}{}{Mockrát díky, e jsi zabránil té rvaèce. Obèas mají moji horníci horkou hlavu, ale jinak je to dobrá parta, pokud zrovna nejedou na Jetu.}
-{119}{}{Díky za pozavírání tìch Morningstarskıch potíistù. Koneènì dostali to, co jim patøí. Mùu ti nìjak pomoct?}
-{120}{}{Jak jsi mohl moje hochy pozavírat do vìzení? Jsem si jistá, e si zaèali ti gauneøi z Morningstaru. Co po mì ještì chceš?}
-{121}{}{Nechápu, proè jsi zavøel moje horníky. Staèilo jen zavøít ty chuligány z Morningstaru a byl by tady klid. Co ještì chceš?}
-{122}{}{Ty opravdu víš, jak píchnout do vosího hnízda, viï? Nikdo nemusel zemøít jen kvùli barové rvaèce. Co po mì sakra ještì chceš?}
+{100}{}{VidÃ­Å¡ statnou Å¾enu ve stÅ™ednÃ­ch letech pokrytou prachem.}
+{101}{}{VidÃ­Å¡ Marge LeBarge, majitelku dolu Kokoweef.}
+{102}{}{VidÃ­Å¡ statnou, houÅ¾evnatou Å¾enu, kterÃ¡ vyzaÅ™uje autoritu.}
+{103}{}{Je mi lÃ­to, ale teÄ nemÃ¡m Äas na chudÃ¡ky.}
+{104}{}{VraÅ¥ se, aÅ¾ se ti zahojÃ­ hlava.}
+{105}{}{PÅ™ekvapuje mÄ›, Å¾e umÃ­Å¡ chodit a pÅ™itom dokonce i mluvit.}
+{106}{}{VypadÃ¡ to, Å¾e mÃ¡Å¡ o koleÄko mÃ­Åˆ.}
+{107}{}{I koleÄko od trakaÅ™e je chytÅ™ejÅ¡Ã­ neÅ¾ ty.}
+{108}{}{No, mÅ¯j oblÃ­benec zrovna nejsi.}
+{109}{}{DÃ­ky za pÅ™inesenÃ­ toho kontrolnÃ­ho Äipu. KoneÄnÄ› se Kokoweef zase vrÃ¡til do starÃ½ch kolejÃ­.}
+{110}{}{Za ten kontrolnÃ­ Äip ti dÃ¡m $1000.}
+{111}{}{PodaÅ™ilo se ti najÃ­t ten kontrolnÃ­ Äip?}
+{112}{}{Jo tohle, no, promiÅˆ. NemÅ¯Å¾eÅ¡ se vÅ¾dycky zavdÄ›Äit ÃºplnÄ› vÅ¡em.}
+{113}{}{Nikdy nepohrdnu dobÅ™e placenou pracÃ­. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{114}{}{Jak vÃ­Å¡, Å¾e mÃ¡m ten Äip u sebe?}
+{115}{}{Jakou mÃ¡ pro tebe cenu?}
+{116}{}{AÅ¾ nÄ›jakÃ½ seÅ¾enu, dÃ¡m ti vÄ›dÄ›t.}
+{117}{}{MyslÃ­m, Å¾e uÅ¾ asi pÅ¯jdu. Sbohem.}
+{118}{}{MockrÃ¡t dÃ­ky, Å¾e jsi zabrÃ¡nil tÃ© rvaÄce. ObÄas majÃ­ moji hornÃ­ci horkou hlavu, ale jinak je to dobrÃ¡ parta, pokud zrovna nejedou na Jetu.}
+{119}{}{DÃ­ky za pozavÃ­rÃ¡nÃ­ tÄ›ch MorningstarskÃ½ch potÃ­Å¾istÅ¯. KoneÄnÄ› dostali to, co jim patÅ™Ã­. MÅ¯Å¾u ti nÄ›jak pomoct?}
+{120}{}{Jak jsi mohl moje hochy pozavÃ­rat do vÄ›zenÃ­? Jsem si jistÃ¡, Å¾e si zaÄali ti gauneÅ™i z Morningstaru. Co po mÄ› jeÅ¡tÄ› chceÅ¡?}
+{121}{}{NechÃ¡pu, proÄ jsi zavÅ™el moje hornÃ­ky. StaÄilo jen zavÅ™Ã­t ty chuligÃ¡ny z Morningstaru a byl by tady klid. Co jeÅ¡tÄ› chceÅ¡?}
+{122}{}{Ty opravdu vÃ­Å¡, jak pÃ­chnout do vosÃ­ho hnÃ­zda, viÄ? Nikdo nemusel zemÅ™Ã­t jen kvÅ¯li barovÃ© rvaÄce. Co po mÄ› sakra jeÅ¡tÄ› chceÅ¡?}
 {123}{}{Kdo jsi?}
-{124}{}{Chci se na nìco zeptat.}
-{125}{}{Jenom procházím a myslím, e pùjdu dál. Sbohem.}
-{126}{}{Zdravím, já jsem Marge. Marge LeBarge. Jsem majitelka tohohle dolu.}
-{127}{}{Co pro tebe mùe Marge udìlat?}
-{128}{}{Co se tady tìí?}
-{129}{}{Neslyšel jsi náhodou o vìci zvané GECK neboli "Soupravì k vytvoøení rajské zahrady"?}
+{124}{}{Chci se na nÄ›co zeptat.}
+{125}{}{Jenom prochÃ¡zÃ­m a myslÃ­m, Å¾e pÅ¯jdu dÃ¡l. Sbohem.}
+{126}{}{ZdravÃ­m, jÃ¡ jsem Marge. Marge LeBarge. Jsem majitelka tohohle dolu.}
+{127}{}{Co pro tebe mÅ¯Å¾e Marge udÄ›lat?}
+{128}{}{Co se tady tÄ›Å¾Ã­?}
+{129}{}{NeslyÅ¡el jsi nÃ¡hodou o vÄ›ci zvanÃ© GECK neboli "SoupravÄ› k vytvoÅ™enÃ­ rajskÃ© zahrady"?}
 {130}{}{Narodila ses v Reddingu?}
-{131}{}{Nevíš o nìjaké práci nebo o nìèem, co by se ve mìstì dalo dìlat?}
-{132}{}{Jenom se tak dívám. Sbohem.}
-{133}{}{Zlato, samozøejmì. Tìíme ho tady v Kokoweefu a potom ho vyváíme do Vault City, New Rena a New California Republic.}
-{134}{}{Vy vyváíte zlato a tak daleko?}
-{135}{}{Proè se tvùj dùl jmenuje Kokoweef?}
-{136}{}{Chci se ještì na nìco zeptat.}
-{137}{}{Aha, díky. To bude všechno. Sbohem.}
-{138}{}{Samozøejmì. Kadı má rád zlato. Pokud sháníš bliší informace, promluv si s vùdcem karavany, Jamesem Hoffym.}
-{139}{}{Chci se ještì na nìco zeptat.}
-{140}{}{Díky, stavím se. Sbohem.}
-{141}{}{GECK? Souprava na vytvoøení rajské zahrady? To zní opravdu úasnì, ale nemyslíš, e kdybych nìco takového mìla, nemusela bych se poøád hrabat v zemi?}
-{142}{}{Chci se ještì na nìco zeptat.}
-{143}{}{Jen se ptám. Sbohem.}
-{144}{}{Ani náhodou. Narodila jsem se na severu, na okraji jednoho jezera. Myslím, e se jmenovalo LeBarge.}
-{145}{}{O tom jsem nikdy neslyšel. Chci se ještì na nìco zeptat.}
-{146}{}{To zní hezky. Moná se tam nìkdy podívám. Prozatím sbohem.}
-{147}{}{Jenom nìjaké drby.}
-{148}{}{No, drby jsou všude... poslyš, mám ještì nìco na práci.}
-{149}{}{Ještì se k nim vrátíme, ale nejdøív se chci zeptat na nìco jiného.}
-{150}{}{Povìz mi nìjaké drby.}
+{131}{}{NevÃ­Å¡ o nÄ›jakÃ© prÃ¡ci nebo o nÄ›Äem, co by se ve mÄ›stÄ› dalo dÄ›lat?}
+{132}{}{Jenom se tak dÃ­vÃ¡m. Sbohem.}
+{133}{}{Zlato, samozÅ™ejmÄ›. TÄ›Å¾Ã­me ho tady v Kokoweefu a potom ho vyvÃ¡Å¾Ã­me do Vault City, New Rena a New California Republic.}
+{134}{}{Vy vyvÃ¡Å¾Ã­te zlato aÅ¾ tak daleko?}
+{135}{}{ProÄ se tvÅ¯j dÅ¯l jmenuje Kokoweef?}
+{136}{}{Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{137}{}{Aha, dÃ­ky. To bude vÅ¡echno. Sbohem.}
+{138}{}{SamozÅ™ejmÄ›. KaÅ¾dÃ½ mÃ¡ rÃ¡d zlato. Pokud shÃ¡nÃ­Å¡ bliÅ¾Å¡Ã­ informace, promluv si s vÅ¯dcem karavany, Jamesem Hoffym.}
+{139}{}{Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{140}{}{DÃ­ky, stavÃ­m se. Sbohem.}
+{141}{}{GECK? Souprava na vytvoÅ™enÃ­ rajskÃ© zahrady? To znÃ­ opravdu ÃºÅ¾asnÄ›, ale nemyslÃ­Å¡, Å¾e kdybych nÄ›co takovÃ©ho mÄ›la, nemusela bych se poÅ™Ã¡d hrabat v zemi?}
+{142}{}{Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{143}{}{Jen se ptÃ¡m. Sbohem.}
+{144}{}{Ani nÃ¡hodou. Narodila jsem se na severu, na okraji jednoho jezera. MyslÃ­m, Å¾e se jmenovalo LeBarge.}
+{145}{}{O tom jsem nikdy neslyÅ¡el. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{146}{}{To znÃ­ hezky. MoÅ¾nÃ¡ se tam nÄ›kdy podÃ­vÃ¡m. ProzatÃ­m sbohem.}
+{147}{}{Jenom nÄ›jakÃ© drby.}
+{148}{}{No, drby jsou vÅ¡ude... poslyÅ¡, mÃ¡m jeÅ¡tÄ› nÄ›co na prÃ¡ci.}
+{149}{}{JeÅ¡tÄ› se k nim vrÃ¡tÃ­me, ale nejdÅ™Ã­v se chci zeptat na nÄ›co jinÃ©ho.}
+{150}{}{PovÄ›z mi nÄ›jakÃ© drby.}
 {151}{}{A co tam teda je?}
-{152}{}{To urèitì máš. Promiò, ale taky mám ještì spoustu práce. Sbohem.}
-{153}{}{Ve svém dole mám velikou dùlní mašinu. Problém je v tom, e její kontrolní èip jaksi doslouil. Abych mohla expandovat, potøebuju získat novı.}
-{154}{}{To je opravdu zajímavé, ale co to má se mnou spoleèného?}
-{155}{}{Na západ od mìsta se nachází Velkı Wanamingo Dùl, ve kterém by se mìla nacházet ta samá dùlní mašina. Je sice u nìjakou dobu opuštìnı, ale myslím, e by v té mašinì mìl poøád bıt funkèní kontrolní èip.}
-{156}{}{To zní dost snadnì. Proè sis pro nìj vlastnì nedošla sama?}
-{157}{}{Není to tak snadné, jak se zdá. Víš, ve Velkém Wanamingo Dole straší. Lidé do nìj vstoupí a u se nikdy nevrátí. To je taky ten dùvod, proè se celı dùl uzavøel. Kdysi to tam opravdu ilo, ale to u je minulost.}
-{158}{}{Aha, take mám pro tebe získat kontrolní èip z dolu. Kolik mi za nìj dáš?}
-{159}{}{Dám ti za nìj rovnıch $1000. Majitel dolu Morningstar, Dan McGrew, ti pravdìpodobnì nabídne to samı, ale on podporuje ty zloèince z New Rena, kterı nemùu vystát. Take bude lepší, kdy ho dáš mì, platí?}
-{160}{}{Uvidíme. Hmm, tolik penìz... za jednu malou vìc... ten dùl je asi hodnì nebezpeènı.}
-{161}{}{No, nebude to sice procházka rùovım sadem, zlato, ale ty vypadáš na nìkoho, kdo to urèitì zvládne. Dones mi ten èip a já ti vyplatím odmìnu. Platí?}
-{162}{}{Jo, platí. Mùeš se na mì spolehnout.}
-{163}{}{Popøemıšlím o tom. Zatím sbohem.}
-{164}{}{Vıbornì. Èím døív se vrátíš s tím kontrolním èipem, tím líp.}
-{165}{}{Uvidím, co se dá dìlat, ale nejdøív se chci ještì na nìco zeptat.}
-{166}{}{Dobøe, uvidíme se pozdìji. Sbohem.}
-{167}{}{No, koluje spousta drbù o tom, e nìkdo pøevezme moc nad Reddingem nebo e jednou pozdì v noci pøišli ze høbitova Wanamingos. Nìkdo dokonce tvrdí, e pøed pár mìsíci spatøil létající stroj.}
-{168}{}{Co tì ještì zajímá?}
-{169}{}{Povìz mi nìco o tom pøevzetí moci.}
+{152}{}{To urÄitÄ› mÃ¡Å¡. PromiÅˆ, ale taky mÃ¡m jeÅ¡tÄ› spoustu prÃ¡ce. Sbohem.}
+{153}{}{Ve svÃ©m dole mÃ¡m velikou dÅ¯lnÃ­ maÅ¡inu. ProblÃ©m je v tom, Å¾e jejÃ­ kontrolnÃ­ Äip jaksi doslouÅ¾il. Abych mohla expandovat, potÅ™ebuju zÃ­skat novÃ½.}
+{154}{}{To je opravdu zajÃ­mavÃ©, ale co to mÃ¡ se mnou spoleÄnÃ©ho?}
+{155}{}{Na zÃ¡pad od mÄ›sta se nachÃ¡zÃ­ VelkÃ½ Wanamingo DÅ¯l, ve kterÃ©m by se mÄ›la nachÃ¡zet ta samÃ¡ dÅ¯lnÃ­ maÅ¡ina. Je sice uÅ¾ nÄ›jakou dobu opuÅ¡tÄ›nÃ½, ale myslÃ­m, Å¾e by v tÃ© maÅ¡inÄ› mÄ›l poÅ™Ã¡d bÃ½t funkÄnÃ­ kontrolnÃ­ Äip.}
+{156}{}{To znÃ­ dost snadnÄ›. ProÄ sis pro nÄ›j vlastnÄ› nedoÅ¡la sama?}
+{157}{}{NenÃ­ to tak snadnÃ©, jak se zdÃ¡. VÃ­Å¡, ve VelkÃ©m Wanamingo Dole straÅ¡Ã­. LidÃ© do nÄ›j vstoupÃ­ a uÅ¾ se nikdy nevrÃ¡tÃ­. To je taky ten dÅ¯vod, proÄ se celÃ½ dÅ¯l uzavÅ™el. Kdysi to tam opravdu Å¾ilo, ale to uÅ¾ je minulost.}
+{158}{}{Aha, takÅ¾e mÃ¡m pro tebe zÃ­skat kontrolnÃ­ Äip z dolu. Kolik mi za nÄ›j dÃ¡Å¡?}
+{159}{}{DÃ¡m ti za nÄ›j rovnÃ½ch $1000. Majitel dolu Morningstar, Dan McGrew, ti pravdÄ›podobnÄ› nabÃ­dne to samÃ½, ale on podporuje ty zloÄince z New Rena, kterÃ½ nemÅ¯Å¾u vystÃ¡t. TakÅ¾e bude lepÅ¡Ã­, kdyÅ¾ ho dÃ¡Å¡ mÄ›, platÃ­?}
+{160}{}{UvidÃ­me. Hmm, tolik penÄ›z... za jednu malou vÄ›c... ten dÅ¯l je asi hodnÄ› nebezpeÄnÃ½.}
+{161}{}{No, nebude to sice prochÃ¡zka rÅ¯Å¾ovÃ½m sadem, zlato, ale ty vypadÃ¡Å¡ na nÄ›koho, kdo to urÄitÄ› zvlÃ¡dne. Dones mi ten Äip a jÃ¡ ti vyplatÃ­m odmÄ›nu. PlatÃ­?}
+{162}{}{Jo, platÃ­. MÅ¯Å¾eÅ¡ se na mÄ› spolehnout.}
+{163}{}{PopÅ™emÃ½Å¡lÃ­m o tom. ZatÃ­m sbohem.}
+{164}{}{VÃ½bornÄ›. ÄŒÃ­m dÅ™Ã­v se vrÃ¡tÃ­Å¡ s tÃ­m kontrolnÃ­m Äipem, tÃ­m lÃ­p.}
+{165}{}{UvidÃ­m, co se dÃ¡ dÄ›lat, ale nejdÅ™Ã­v se chci jeÅ¡tÄ› na nÄ›co zeptat.}
+{166}{}{DobÅ™e, uvidÃ­me se pozdÄ›ji. Sbohem.}
+{167}{}{No, koluje spousta drbÅ¯ o tom, Å¾e nÄ›kdo pÅ™evezme moc nad Reddingem nebo Å¾e jednou pozdÄ› v noci pÅ™iÅ¡li ze hÅ™bitova Wanamingos. NÄ›kdo dokonce tvrdÃ­, Å¾e pÅ™ed pÃ¡r mÄ›sÃ­ci spatÅ™il lÃ©tajÃ­cÃ­ stroj.}
+{168}{}{Co tÄ› jeÅ¡tÄ› zajÃ­mÃ¡?}
+{169}{}{PovÄ›z mi nÄ›co o tom pÅ™evzetÃ­ moci.}
 {170}{}{Co je to Wanamingo?}
-{171}{}{Létající stroj?}
-{172}{}{Lidé si prostì musí vymıšlet kdykoliv a kdekoliv. Povìz mi ještì o nìèem jiném.}
-{173}{}{Moc rád bych tì poslouchal, ale u musím jít. Sbohem.}
-{174}{}{No, neustále se mluví o tom, e se nás chystá pøevzít Vault City kvùli našemu zlatu. Nebo by to mohla bıt jedna z rodin v New Renu, která zahrnuje celı naše mìsto drogami, aby nad náma mohli pøevzít kontrolu. Nebo dokonce NCR, kterı se nás k sobì snaí pøipojit. NCR by pro nás bylo nejlepší, to ti povím... ale chtìjí nás jen kvùli zlatu. Prozatím je ale Redding samostatnı.}
-{175}{}{Co nìjaké další drby?}
-{176}{}{Myslím, e to bude všechno. Nashle.}
-{177}{}{Wanamingo je ta nejhorší potvora na svìtì. Je velkı jako dva urostlí mui, silnìjší ne brahmíní samec a místo rukou má dvì odporná slizká chapadla. Nedají se zranit ádnou zbraní. Prej je stvoøili Indoši jako pomstu bílım lidem za to, co zpùsobila válka, ale moc bych na to nesázela.}
-{178}{}{Co nìjaké další drby?}
-{179}{}{Myslím, e to bude všechno. Nashle.}
-{180}{}{Ano. Teda, nìkolik mıch horníkù létalo samo o sobì na Jetu... jestli mi rozumíš, ale stejnì se nìkteøí z nich zapøísáhli, e pøed pár mìsíci vidìli létající loï letící jihozápadním smìrem.}
-{181}{}{Co nìjaké další drby?}
-{182}{}{Myslím, e to bude všechno. Nashle.}
-{183}{}{No, Dan a jeho hoši z Morningstaru preferujou ty mafiány z New Rena. Zdá se, e bude zanedlouho Redding doupì plné závislákù na Jetu.}
-{184}{}{To není moje starost. Povìz mi ještì o nìèem jiném.}
-{185}{}{No, co u. Sbohem.}
-{186}{}{V takhle malım mìstu se kadá zpráva roznese rychlostí blesku. Take?}
-{187}{}{Kolik mi za nìj dáš?}
-{188}{}{$1000. Na ruku. Bereš to nebo ne?}
-{189}{}{Dobøe, beru to. Tady máš ten èip.}
-{190}{}{Myslím, e ho ještì nechci prodat.}
-{191}{}{Myslíš, e nìkde dostaneš lepší nabídku? Doufej dál, kámo. Pochybuju, e najdeš lepší nabídku. Ale já ti do toho nebudu kecat.}
-{192}{}{Tak dobøe, prodám ti ho. Tady je ten èip.}
-{193}{}{Myslím, e se ještì nìkde zeptám. Sbohem.}
-{194}{}{Správná volba. Díky. Teï zajdu zapojit ten èip, a u koneènì mùeme zaèít tìit.}
-{195}{}{Vıbornì. Poslyš, chci se ještì na nìco zeptat.}
-{196}{}{Díky za peníze. Sbohem.}
-{197}{}{Jo? Mockrát díky. Jsem z toho celá nadšená. Co chceš?}
-{198}{}{Chci se ještì na nìco zeptat.}
-{199}{}{Nic. Jenom se tak dívám. Sbohem.}
-{200}{}{Proè ne? Abych øekla pravdu, tak já vlastnì ani nevím, kde se to jméno vzalo. Vdycky se mu tak øíkalo. Dokonce i pøedtím, ne jsem se sem pøestìhovala. Ale stejnì to zní romanticky, nemyslíš? Ko-ko-weef. To jméno lahodí mımu uchu.}
-{201}{}{Eh, jo. Dobøe. Eh, co jsi øíkala, e tu tìíte?}
-{202}{}{E-he. No, radìji u pùjdu. Sbohem.}
+{171}{}{LÃ©tajÃ­cÃ­ stroj?}
+{172}{}{LidÃ© si prostÄ› musÃ­ vymÃ½Å¡let kdykoliv a kdekoliv. PovÄ›z mi jeÅ¡tÄ› o nÄ›Äem jinÃ©m.}
+{173}{}{Moc rÃ¡d bych tÄ› poslouchal, ale uÅ¾ musÃ­m jÃ­t. Sbohem.}
+{174}{}{No, neustÃ¡le se mluvÃ­ o tom, Å¾e se nÃ¡s chystÃ¡ pÅ™evzÃ­t Vault City kvÅ¯li naÅ¡emu zlatu. Nebo by to mohla bÃ½t jedna z rodin v New Renu, kterÃ¡ zahrnuje celÃ½ naÅ¡e mÄ›sto drogami, aby nad nÃ¡ma mohli pÅ™evzÃ­t kontrolu. Nebo dokonce NCR, kterÃ½ se nÃ¡s k sobÄ› snaÅ¾Ã­ pÅ™ipojit. NCR by pro nÃ¡s bylo nejlepÅ¡Ã­, to ti povÃ­m... ale chtÄ›jÃ­ nÃ¡s jen kvÅ¯li zlatu. ProzatÃ­m je ale Redding samostatnÃ½.}
+{175}{}{Co nÄ›jakÃ© dalÅ¡Ã­ drby?}
+{176}{}{MyslÃ­m, Å¾e to bude vÅ¡echno. Nashle.}
+{177}{}{Wanamingo je ta nejhorÅ¡Ã­ potvora na svÄ›tÄ›. Je velkÃ½ jako dva urostlÃ­ muÅ¾i, silnÄ›jÅ¡Ã­ neÅ¾ brahmÃ­nÃ­ samec a mÃ­sto rukou mÃ¡ dvÄ› odpornÃ¡ slizkÃ¡ chapadla. NedajÃ­ se zranit Å¾Ã¡dnou zbranÃ­. Prej je stvoÅ™ili IndoÅ¡i jako pomstu bÃ­lÃ½m lidem za to, co zpÅ¯sobila vÃ¡lka, ale moc bych na to nesÃ¡zela.}
+{178}{}{Co nÄ›jakÃ© dalÅ¡Ã­ drby?}
+{179}{}{MyslÃ­m, Å¾e to bude vÅ¡echno. Nashle.}
+{180}{}{Ano. Teda, nÄ›kolik mÃ½ch hornÃ­kÅ¯ lÃ©talo samo o sobÄ› na Jetu... jestli mi rozumÃ­Å¡, ale stejnÄ› se nÄ›kteÅ™Ã­ z nich zapÅ™Ã­sÃ¡hli, Å¾e pÅ™ed pÃ¡r mÄ›sÃ­ci vidÄ›li lÃ©tajÃ­cÃ­ loÄ letÃ­cÃ­ jihozÃ¡padnÃ­m smÄ›rem.}
+{181}{}{Co nÄ›jakÃ© dalÅ¡Ã­ drby?}
+{182}{}{MyslÃ­m, Å¾e to bude vÅ¡echno. Nashle.}
+{183}{}{No, Dan a jeho hoÅ¡i z Morningstaru preferujou ty mafiÃ¡ny z New Rena. ZdÃ¡ se, Å¾e bude zanedlouho Redding doupÄ› plnÃ© zÃ¡vislÃ¡kÅ¯ na Jetu.}
+{184}{}{To nenÃ­ moje starost. PovÄ›z mi jeÅ¡tÄ› o nÄ›Äem jinÃ©m.}
+{185}{}{No, co uÅ¾. Sbohem.}
+{186}{}{V takhle malÃ½m mÄ›stu se kaÅ¾dÃ¡ zprÃ¡va roznese rychlostÃ­ blesku. TakÅ¾e?}
+{187}{}{Kolik mi za nÄ›j dÃ¡Å¡?}
+{188}{}{$1000. Na ruku. BereÅ¡ to nebo ne?}
+{189}{}{DobÅ™e, beru to. Tady mÃ¡Å¡ ten Äip.}
+{190}{}{MyslÃ­m, Å¾e ho jeÅ¡tÄ› nechci prodat.}
+{191}{}{MyslÃ­Å¡, Å¾e nÄ›kde dostaneÅ¡ lepÅ¡Ã­ nabÃ­dku? Doufej dÃ¡l, kÃ¡mo. Pochybuju, Å¾e najdeÅ¡ lepÅ¡Ã­ nabÃ­dku. Ale jÃ¡ ti do toho nebudu kecat.}
+{192}{}{Tak dobÅ™e, prodÃ¡m ti ho. Tady je ten Äip.}
+{193}{}{MyslÃ­m, Å¾e se jeÅ¡tÄ› nÄ›kde zeptÃ¡m. Sbohem.}
+{194}{}{SprÃ¡vnÃ¡ volba. DÃ­ky. TeÄ zajdu zapojit ten Äip, aÅ¥ uÅ¾ koneÄnÄ› mÅ¯Å¾eme zaÄÃ­t tÄ›Å¾it.}
+{195}{}{VÃ½bornÄ›. PoslyÅ¡, chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{196}{}{DÃ­ky za penÃ­ze. Sbohem.}
+{197}{}{Jo? MockrÃ¡t dÃ­ky. Jsem z toho celÃ¡ nadÅ¡enÃ¡. Co chceÅ¡?}
+{198}{}{Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{199}{}{Nic. Jenom se tak dÃ­vÃ¡m. Sbohem.}
+{200}{}{ProÄ ne? Abych Å™ekla pravdu, tak jÃ¡ vlastnÄ› ani nevÃ­m, kde se to jmÃ©no vzalo. VÅ¾dycky se mu tak Å™Ã­kalo. Dokonce i pÅ™edtÃ­m, neÅ¾ jsem se sem pÅ™estÄ›hovala. Ale stejnÄ› to znÃ­ romanticky, nemyslÃ­Å¡? Ko-ko-weef. To jmÃ©no lahodÃ­ mÃ½mu uchu.}
+{201}{}{Eh, jo. DobÅ™e. Eh, co jsi Å™Ã­kala, Å¾e tu tÄ›Å¾Ã­te?}
+{202}{}{E-he. No, radÄ›ji uÅ¾ pÅ¯jdu. Sbohem.}

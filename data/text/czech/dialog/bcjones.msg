@@ -1,87 +1,87 @@
-{100}{}{Vidíš malého mue drícího knihu.}
-{101}{}{Vidíš doktora Jonese.}
-{102}{}{Vidíš malého mue. V ruce drí knihu "Doktorem snadno a rychle."}
-{103}{}{Ahoj, já jsem doktor Jones. Mùeš mi øíkat doktore. S èím ti mohu pomoci?}
-{104}{}{Mít bebí. Ty pomoct?}
-{105}{}{Cítit blbì. Ty pomoct?}
-{106}{}{Já ochrnout. Ty pomoct?}
-{107}{}{Mít otázky. Jo?}
-{108}{}{Promiò, já jít.}
-{109}{}{Mám zranìní. Mùeš mi pomoct?}
-{110}{}{Cítím se slabì. Mùeš mi pomoct?}
-{111}{}{Mám ochrnutou konèetinu. Mùeš mi pomoct?}
-{112}{}{Chci se tì na nìco zeptat.}
-{113}{}{Jen jsem tì chtìl pozdravit.}
-{114}{}{Samozøejmì. Uka, dám ti tuhle injekci... trošku to štípne. Teï ještì obvaz a jsi zase jako ze škatulky.}
-{115}{}{Já dík. Ahoj.}
-{116}{}{Díky, doktore. Cítím se mnohem lépe.}
-{117}{}{Samozøejmì. Musíš vypít tohle... a do dna. Vím, chutná to hroznì. A teï si tady lehni na postel a já tì ráno vzbudím.}
-{118}{}{Já cítit dobøe. Ahoj.}
-{119}{}{Díky doktore, to mi pomohlo.}
-{120}{}{Promiò, ale nemám tu vhodné nástroje k provádìní chirurgickıch zákrokù. Doporuèuju ti zajít do nìkterého vìtšího mìsta a vyhledat chirurga. Zkus Vault City. Je to na sever odsud.}
-{121}{}{Dobøe. Sbohem.}
-{122}{}{Tak dobøe, ale stejnì díky.}
-{123}{}{Co potøebujete vìdìt?}
+{100}{}{VidÃ­Å¡ malÃ©ho muÅ¾e drÅ¾Ã­cÃ­ho knihu.}
+{101}{}{VidÃ­Å¡ doktora Jonese.}
+{102}{}{VidÃ­Å¡ malÃ©ho muÅ¾e. V ruce drÅ¾Ã­ knihu "Doktorem snadno a rychle."}
+{103}{}{Ahoj, jÃ¡ jsem doktor Jones. MÅ¯Å¾eÅ¡ mi Å™Ã­kat doktore. S ÄÃ­m ti mohu pomoci?}
+{104}{}{MÃ­t bebÃ­. Ty pomoct?}
+{105}{}{CÃ­tit blbÄ›. Ty pomoct?}
+{106}{}{JÃ¡ ochrnout. Ty pomoct?}
+{107}{}{MÃ­t otÃ¡zky. Jo?}
+{108}{}{PromiÅˆ, jÃ¡ jÃ­t.}
+{109}{}{MÃ¡m zranÄ›nÃ­. MÅ¯Å¾eÅ¡ mi pomoct?}
+{110}{}{CÃ­tÃ­m se slabÄ›. MÅ¯Å¾eÅ¡ mi pomoct?}
+{111}{}{MÃ¡m ochrnutou konÄetinu. MÅ¯Å¾eÅ¡ mi pomoct?}
+{112}{}{Chci se tÄ› na nÄ›co zeptat.}
+{113}{}{Jen jsem tÄ› chtÄ›l pozdravit.}
+{114}{}{SamozÅ™ejmÄ›. UkaÅ¾, dÃ¡m ti tuhle injekci... troÅ¡ku to Å¡tÃ­pne. TeÄ jeÅ¡tÄ› obvaz a jsi zase jako ze Å¡katulky.}
+{115}{}{JÃ¡ dÃ­k. Ahoj.}
+{116}{}{DÃ­ky, doktore. CÃ­tÃ­m se mnohem lÃ©pe.}
+{117}{}{SamozÅ™ejmÄ›. MusÃ­Å¡ vypÃ­t tohle... aÅ¾ do dna. VÃ­m, chutnÃ¡ to hroznÄ›. A teÄ si tady lehni na postel a jÃ¡ tÄ› rÃ¡no vzbudÃ­m.}
+{118}{}{JÃ¡ cÃ­tit dobÅ™e. Ahoj.}
+{119}{}{DÃ­ky doktore, to mi pomohlo.}
+{120}{}{PromiÅˆ, ale nemÃ¡m tu vhodnÃ© nÃ¡stroje k provÃ¡dÄ›nÃ­ chirurgickÃ½ch zÃ¡krokÅ¯. DoporuÄuju ti zajÃ­t do nÄ›kterÃ©ho vÄ›tÅ¡Ã­ho mÄ›sta a vyhledat chirurga. Zkus Vault City. Je to na sever odsud.}
+{121}{}{DobÅ™e. Sbohem.}
+{122}{}{Tak dobÅ™e, ale stejnÄ› dÃ­ky.}
+{123}{}{Co potÅ™ebujete vÄ›dÄ›t?}
 {124}{}{Ty pracovat pro Darion?}
-{125}{}{Ty odejít odsud kdy chtít?}
-{126}{}{Co ty vìdìt o Darion?}
-{127}{}{Kde ty tu vzít?}
-{128}{}{Ty øíkat, e Darion mít pejska?}
-{129}{}{Já teï jít.}
-{130}{}{Pracuješ pro Dariona?}
-{131}{}{Mùeš odejít kdykoliv chceš?}
-{132}{}{Co mi mùeš øíct o Darionovi?}
+{125}{}{Ty odejÃ­t odsud kdy chtÃ­t?}
+{126}{}{Co ty vÄ›dÄ›t o Darion?}
+{127}{}{Kde ty tu vzÃ­t?}
+{128}{}{Ty Å™Ã­kat, Å¾e Darion mÃ­t pejska?}
+{129}{}{JÃ¡ teÄ jÃ­t.}
+{130}{}{PracujeÅ¡ pro Dariona?}
+{131}{}{MÅ¯Å¾eÅ¡ odejÃ­t kdykoliv chceÅ¡?}
+{132}{}{Co mi mÅ¯Å¾eÅ¡ Å™Ã­ct o Darionovi?}
 {133}{}{Jak ses sem dostal?}
-{134}{}{Øíkal jsi, e má Darion psa?}
-{135}{}{Díky za informace. U musím jít.}
-{136}{}{Ano i ne. Nevybral jsem si to. Jsem tu vìzeò. Darion je tu u dlouho a potøeboval nìjakého doktora, kterı by se o nìj staral. Khanové mì tu drí pro svou potøebu. Ale radìji bych pracoval pro lidi z té komunity nahoøe. Nemají tam ádnou lékaøskou péèi a myslím, e bych jim mohl opravdu hodnì pomoci.}
-{137}{}{Dobøe. Potøebovat vìdìt víc.}
-{138}{}{Dík. Naskle.}
-{139}{}{To je od tebe velmi chvályhodné.}
-{140}{}{Aha. U musím jít.}
-{141}{}{Vdy jsou to jen bezdomovci! A si klidnì chcípnou. Ty se radìji starej o svùj vlastní krk.}
-{142}{}{Ne. Jsem tady vìznìm. Nemùu ani odejít, abych si doplnil lékaøskı materiál. Darion mi posílá všechno, co potøebuju.}
-{143}{}{Já chápat. Já jít.}
-{144}{}{Potøebovat zeptat víc.}
-{145}{}{Nejspíš nejsi natolik dùvìryhodná osoba, aby sis zaslouil svobodu.}
-{146}{}{Rozumím. Promiò, ale u musím jít.}
-{147}{}{To je mi líto.}
-{148}{}{Darion je struènì øeèeno pøípad pro psychiatra. Má v hlavì víc vrtochù ne jeho pes blech v koichu. Jestli tomu dobøe rozumím, tak kdysi dávno byl èlenem nìjakého gangu, kterı si øíkal Khanové. Ti unesli dívku, Tandi, kterou dreli jako rukojmí. Dreli ji pod zámkem kvùli vıkupnému. Její otec si to ale nenechal líbit a najal si oldáka, aby mu ji našel a pøivedl zpátky. Darion byl jedinı Khan, kterı ten masakr pøeil.}
-{149}{}{Eh... co ty øíkat?}
-{150}{}{Muset teï jít.}
-{151}{}{Hmm... hmmm. No, u budu muset jít.}
-{152}{}{No, musím øíct, e tvoje vìdomosti jsou opravdu pozoruhodné.}
-{153}{}{Ten chlapík je pøesnì mùj typ.}
-{154}{}{Byl jsem unesen. Cestoval jsem z Vault City do New Rena na zaslouenou dovolenou. Jednou veèer jsem si šel lehnout a ráno jsem se probudil spoutanı a s roubíkem v puse. A za tıden nebo dva u jsem byl tady. Od té doby tu jsem zavøenı.}
+{134}{}{Å˜Ã­kal jsi, Å¾e mÃ¡ Darion psa?}
+{135}{}{DÃ­ky za informace. UÅ¾ musÃ­m jÃ­t.}
+{136}{}{Ano i ne. Nevybral jsem si to. Jsem tu vÄ›zeÅˆ. Darion je tu uÅ¾ dlouho a potÅ™eboval nÄ›jakÃ©ho doktora, kterÃ½ by se o nÄ›j staral. KhanovÃ© mÄ› tu drÅ¾Ã­ pro svou potÅ™ebu. Ale radÄ›ji bych pracoval pro lidi z tÃ© komunity nahoÅ™e. NemajÃ­ tam Å¾Ã¡dnou lÃ©kaÅ™skou pÃ©Äi a myslÃ­m, Å¾e bych jim mohl opravdu hodnÄ› pomoci.}
+{137}{}{DobÅ™e. PotÅ™ebovat vÄ›dÄ›t vÃ­c.}
+{138}{}{DÃ­k. Naskle.}
+{139}{}{To je od tebe velmi chvÃ¡lyhodnÃ©.}
+{140}{}{Aha. UÅ¾ musÃ­m jÃ­t.}
+{141}{}{VÅ¾dyÅ¥ jsou to jen bezdomovci! AÅ¥ si klidnÄ› chcÃ­pnou. Ty se radÄ›ji starej o svÅ¯j vlastnÃ­ krk.}
+{142}{}{Ne. Jsem tady vÄ›znÄ›m. NemÅ¯Å¾u ani odejÃ­t, abych si doplnil lÃ©kaÅ™skÃ½ materiÃ¡l. Darion mi posÃ­lÃ¡ vÅ¡echno, co potÅ™ebuju.}
+{143}{}{JÃ¡ chÃ¡pat. JÃ¡ jÃ­t.}
+{144}{}{PotÅ™ebovat zeptat vÃ­c.}
+{145}{}{NejspÃ­Å¡ nejsi natolik dÅ¯vÄ›ryhodnÃ¡ osoba, aby sis zaslouÅ¾il svobodu.}
+{146}{}{RozumÃ­m. PromiÅˆ, ale uÅ¾ musÃ­m jÃ­t.}
+{147}{}{To je mi lÃ­to.}
+{148}{}{Darion je struÄnÄ› Å™eÄeno pÅ™Ã­pad pro psychiatra. MÃ¡ v hlavÄ› vÃ­c vrtochÅ¯ neÅ¾ jeho pes blech v koÅ¾ichu. Jestli tomu dobÅ™e rozumÃ­m, tak kdysi dÃ¡vno byl Älenem nÄ›jakÃ©ho gangu, kterÃ½ si Å™Ã­kal KhanovÃ©. Ti unesli dÃ­vku, Tandi, kterou drÅ¾eli jako rukojmÃ­. DrÅ¾eli ji pod zÃ¡mkem kvÅ¯li vÃ½kupnÃ©mu. JejÃ­ otec si to ale nenechal lÃ­bit a najal si Å¾oldÃ¡ka, aby mu ji naÅ¡el a pÅ™ivedl zpÃ¡tky. Darion byl jedinÃ½ Khan, kterÃ½ ten masakr pÅ™eÅ¾il.}
+{149}{}{Eh... co ty Å™Ã­kat?}
+{150}{}{Muset teÄ jÃ­t.}
+{151}{}{Hmm... hmmm. No, uÅ¾ budu muset jÃ­t.}
+{152}{}{No, musÃ­m Å™Ã­ct, Å¾e tvoje vÄ›domosti jsou opravdu pozoruhodnÃ©.}
+{153}{}{Ten chlapÃ­k je pÅ™esnÄ› mÅ¯j typ.}
+{154}{}{Byl jsem unesen. Cestoval jsem z Vault City do New Rena na zaslouÅ¾enou dovolenou. Jednou veÄer jsem si Å¡el lehnout a rÃ¡no jsem se probudil spoutanÃ½ a s roubÃ­kem v puse. A za tÃ½den nebo dva uÅ¾ jsem byl tady. Od tÃ© doby tu jsem zavÅ™enÃ½.}
 {155}{}{Eh.}
-{156}{}{Díky. Já muset jít.}
-{157}{}{Slabí se èasto stávají koøistí silnıch. Takovı u je ivot, pøíteli.}
-{158}{}{To je mi líto.}
-{159}{}{Zajímavé povídání, ale u musím bìet.}
-{160}{}{Jo, má psa. Osobnì si myslím, e je to ta nejhnusnìjší a nejodpornìjší bestie na celém širém svìtì, ale na druhé stranì to vypadá, e má Dariona docela rád, take to s ním snad nebude zase a tak špatné.}
-{161}{}{Já ještì ptát.}
+{156}{}{DÃ­ky. JÃ¡ muset jÃ­t.}
+{157}{}{SlabÃ­ se Äasto stÃ¡vajÃ­ koÅ™istÃ­ silnÃ½ch. TakovÃ½ uÅ¾ je Å¾ivot, pÅ™Ã­teli.}
+{158}{}{To je mi lÃ­to.}
+{159}{}{ZajÃ­mavÃ© povÃ­dÃ¡nÃ­, ale uÅ¾ musÃ­m bÄ›Å¾et.}
+{160}{}{Jo, mÃ¡ psa. OsobnÄ› si myslÃ­m, Å¾e je to ta nejhnusnÄ›jÅ¡Ã­ a nejodpornÄ›jÅ¡Ã­ bestie na celÃ©m Å¡irÃ©m svÄ›tÄ›, ale na druhÃ© stranÄ› to vypadÃ¡, Å¾e mÃ¡ Dariona docela rÃ¡d, takÅ¾e to s nÃ­m snad nebude zase aÅ¾ tak Å¡patnÃ©.}
+{161}{}{JÃ¡ jeÅ¡tÄ› ptÃ¡t.}
 {162}{}{Eh, sbohem.}
-{163}{}{Aha. Díky za upozornìní.}
-{164}{}{Aha. No, u musím jít.}
-{165}{}{Nebudu pomáhat nìkomu takovému, jako jsi ty. Jdi pryè.}
-{166}{}{Dobøe, tak se mìj a vra se, kdy budeš nìco potøebovat.}
+{163}{}{Aha. DÃ­ky za upozornÄ›nÃ­.}
+{164}{}{Aha. No, uÅ¾ musÃ­m jÃ­t.}
+{165}{}{Nebudu pomÃ¡hat nÄ›komu takovÃ©mu, jako jsi ty. Jdi pryÄ.}
+{166}{}{DobÅ™e, tak se mÄ›j a vraÅ¥ se, kdyÅ¾ budeÅ¡ nÄ›co potÅ™ebovat.}
 {167}{}{Beru.}
-{168}{}{Teï je z nìj paranoik. Myslí si, e ho Tandi chce zabít. Je posedlı pomstou a chce, aby Tandi zemøela. Cítí se vinen za to, e se schoval a pøeil, místo aby zemøel spolu se svım gangem... a tak dále, a tak dále. Seznam jeho obsedantních vizí je opravdu dlouhı.}
+{168}{}{TeÄ je z nÄ›j paranoik. MyslÃ­ si, Å¾e ho Tandi chce zabÃ­t. Je posedlÃ½ pomstou a chce, aby Tandi zemÅ™ela. CÃ­tÃ­ se vinen za to, Å¾e se schoval a pÅ™eÅ¾il, mÃ­sto aby zemÅ™el spolu se svÃ½m gangem... a tak dÃ¡le, a tak dÃ¡le. Seznam jeho obsedantnÃ­ch vizÃ­ je opravdu dlouhÃ½.}
 {200}{}{Darion je mrtev.}
 {201}{}{Dar-e-on mrtvola.}
-{202}{}{Opravdu!? To je skvìlá zpráva.}
-{203}{}{Co teï budeš dìlat?}
-{204}{}{Co ty dìlat?}
-{205}{}{No, myslím, e nemá cenu, abych se vracel ke svému døívìjšímu ivotu. Místní komunita nemá ádnou lékaøskou pomoc, take si myslím, e jim prostì pomùu. Ještì jednou dìkuji za mé vysvobození.}
-{206}{}{Samozøejmì. Nashledanou.}
+{202}{}{Opravdu!? To je skvÄ›lÃ¡ zprÃ¡va.}
+{203}{}{Co teÄ budeÅ¡ dÄ›lat?}
+{204}{}{Co ty dÄ›lat?}
+{205}{}{No, myslÃ­m, Å¾e nemÃ¡ cenu, abych se vracel ke svÃ©mu dÅ™Ã­vÄ›jÅ¡Ã­mu Å¾ivotu. MÃ­stnÃ­ komunita nemÃ¡ Å¾Ã¡dnou lÃ©kaÅ™skou pomoc, takÅ¾e si myslÃ­m, Å¾e jim prostÄ› pomÅ¯Å¾u. JeÅ¡tÄ› jednou dÄ›kuji za mÃ© vysvobozenÃ­.}
+{206}{}{SamozÅ™ejmÄ›. Nashledanou.}
 {207}{}{Nashle!}
-{210}{}{Ještì si potøebuji zabalit nìjaké vìci. Uvidíme se venku.}
-{220}{}{Ahoj. Rád tì zase vidím! Všichni tady si moc váí toho, co jsi pro nì udìlal. Já osobnì jsem rád, e jsem se odtamtud koneènì dostal. Pracovat pro Dariona byla jedna velká noèní mùra.}
-{221}{}{Rádo se stalo. Co kdybys mi o sobì øekl víc?}
-{222}{}{Fajn. Mìj se.}
-{230}{}{Dobøe. Tady je mùj pøíbìh: Pocházím z New California Republic. Velmi brzy jsem si uvìdomil, e mám nadání na všechno, co se tıká lékaøské praxe. Take jsem se napøed uèil pod dohledem doktorù v NCR a a jsem se nauèil všechno, co jsem se nauèit mohl, rozhodl jsem se, e se ještì více zdokonalím a tak jsem se vydal do Vault City. Mìl jsem to štìstí se setkat s doktorem Troyem, kterı ošetøoval nemocného pacienta mimo Vault. Abych to zkrátil. Souhlasil s tím, abych mohl dokonèit svùj trénink ve Vault City. Kdy jsem poté vıcvik dokonèil a chystal se, e si na chvíli odpoèinu a vstøebám získané zkušenosti, zajal mì Darion a zbytek u znáš.}
-{231}{}{To je hrozné. Doufám, e se ti teï bude u jen daøit.}
-{240}{}{To také doufám. Myslím, e mé lékaøské dovednosti tady budou k uitku.}
+{210}{}{JeÅ¡tÄ› si potÅ™ebuji zabalit nÄ›jakÃ© vÄ›ci. UvidÃ­me se venku.}
+{220}{}{Ahoj. RÃ¡d tÄ› zase vidÃ­m! VÅ¡ichni tady si moc vÃ¡Å¾Ã­ toho, co jsi pro nÄ› udÄ›lal. JÃ¡ osobnÄ› jsem rÃ¡d, Å¾e jsem se odtamtud koneÄnÄ› dostal. Pracovat pro Dariona byla jedna velkÃ¡ noÄnÃ­ mÅ¯ra.}
+{221}{}{RÃ¡do se stalo. Co kdybys mi o sobÄ› Å™ekl vÃ­c?}
+{222}{}{Fajn. MÄ›j se.}
+{230}{}{DobÅ™e. Tady je mÅ¯j pÅ™Ã­bÄ›h: PochÃ¡zÃ­m z New California Republic. Velmi brzy jsem si uvÄ›domil, Å¾e mÃ¡m nadÃ¡nÃ­ na vÅ¡echno, co se tÃ½kÃ¡ lÃ©kaÅ™skÃ© praxe. TakÅ¾e jsem se napÅ™ed uÄil pod dohledem doktorÅ¯ v NCR a aÅ¾ jsem se nauÄil vÅ¡echno, co jsem se nauÄit mohl, rozhodl jsem se, Å¾e se jeÅ¡tÄ› vÃ­ce zdokonalÃ­m a tak jsem se vydal do Vault City. MÄ›l jsem to Å¡tÄ›stÃ­ se setkat s doktorem Troyem, kterÃ½ oÅ¡etÅ™oval nemocnÃ©ho pacienta mimo Vault. Abych to zkrÃ¡til. Souhlasil s tÃ­m, abych mohl dokonÄit svÅ¯j trÃ©nink ve Vault City. KdyÅ¾ jsem potÃ© vÃ½cvik dokonÄil a chystal se, Å¾e si na chvÃ­li odpoÄinu a vstÅ™ebÃ¡m zÃ­skanÃ© zkuÅ¡enosti, zajal mÄ› Darion a zbytek uÅ¾ znÃ¡Å¡.}
+{231}{}{To je hroznÃ©. DoufÃ¡m, Å¾e se ti teÄ bude uÅ¾ jen daÅ™it.}
+{240}{}{To takÃ© doufÃ¡m. MyslÃ­m, Å¾e mÃ© lÃ©kaÅ™skÃ© dovednosti tady budou k uÅ¾itku.}
 {241}{}{Nashle.}
-{250}{}{Ještì jednou díky za všechno.}
-{251}{}{Je to dobrı pocit zase pomáhat civilizovanım lidem.}
+{250}{}{JeÅ¡tÄ› jednou dÃ­ky za vÅ¡echno.}
+{251}{}{Je to dobrÃ½ pocit zase pomÃ¡hat civilizovanÃ½m lidem.}

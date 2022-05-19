@@ -1,51 +1,51 @@
-{100}{}{Vidíš jednoho z obyvatelù Klamathu.}
-{101}{}{Vidíš jednoho z obyvatelù Klamathu.}
-{150}{}{Proè se nevrátíš zpìt ke svému kmeni?}
-{151}{}{Dám ti hezkı korálky, kdy mì necháš bıt.}
-{152}{}{Hodnej divoch, dobrej divoch. Neublííš mi, e ne?}
-{153}{}{Nìkdy si pøeju, abychom mìli okolo mìsta zeï.}
-{154}{}{Nemám nic cenného. Jdi pryè.}
-{155}{}{Proè si mì tak prohlííš?}
-{156}{}{Bezvadnı, další divoch.}
-{157}{}{Proè nezapadneš zpátky ke Zlatému geckonovi?}
-{158}{}{Radìji se ode mì dr dál.}
-{159}{}{Nechceme tu ádné problémy.}
-{160}{}{Urèitì pocházíš odnìkud ze severu.}
-{161}{}{To poslední co tu potøebujeme, je víc takovıch, jako jsi ty.}
-{170}{}{Zdravím, cizinèe.}
-{171}{}{Doufám, e bude letos dobrı lov.}
-{172}{}{V poslední dobì se ztrácí hodnì brahmín.}
-{173}{}{(Køup, køup) Duntonovic sušené maso je opravdu dobré.}
-{174}{}{Pøišel jsi sem mìnit kùe za ohnivou vodu?}
-{175}{}{Myslel jsem, e mají všichni tvoji lidé kost v nosu.}
-{176}{}{Pozor na krysy v Lovecké ètvrti.}
-{177}{}{Kde jsou moje kouzelné fazole?}
-{178}{}{Geckoni chutnají jako kuøata, pokud se správnì pøipraví.}
-{179}{}{Chystám se jít relaxovat do lázní.}
+{100}{}{VidÃ­Å¡ jednoho z obyvatelÅ¯ Klamathu.}
+{101}{}{VidÃ­Å¡ jednoho z obyvatelÅ¯ Klamathu.}
+{150}{}{ProÄ se nevrÃ¡tÃ­Å¡ zpÄ›t ke svÃ©mu kmeni?}
+{151}{}{DÃ¡m ti hezkÃ½ korÃ¡lky, kdyÅ¾ mÄ› nechÃ¡Å¡ bÃ½t.}
+{152}{}{Hodnej divoch, dobrej divoch. NeublÃ­Å¾Ã­Å¡ mi, Å¾e ne?}
+{153}{}{NÄ›kdy si pÅ™eju, abychom mÄ›li okolo mÄ›sta zeÄ.}
+{154}{}{NemÃ¡m nic cennÃ©ho. Jdi pryÄ.}
+{155}{}{ProÄ si mÄ› tak prohlÃ­Å¾Ã­Å¡?}
+{156}{}{BezvadnÃ½, dalÅ¡Ã­ divoch.}
+{157}{}{ProÄ nezapadneÅ¡ zpÃ¡tky ke ZlatÃ©mu geckonovi?}
+{158}{}{RadÄ›ji se ode mÄ› drÅ¾ dÃ¡l.}
+{159}{}{Nechceme tu Å¾Ã¡dnÃ© problÃ©my.}
+{160}{}{UrÄitÄ› pochÃ¡zÃ­Å¡ odnÄ›kud ze severu.}
+{161}{}{To poslednÃ­ co tu potÅ™ebujeme, je vÃ­c takovÃ½ch, jako jsi ty.}
+{170}{}{ZdravÃ­m, cizinÄe.}
+{171}{}{DoufÃ¡m, Å¾e bude letos dobrÃ½ lov.}
+{172}{}{V poslednÃ­ dobÄ› se ztrÃ¡cÃ­ hodnÄ› brahmÃ­n.}
+{173}{}{(KÅ™up, kÅ™up) Duntonovic suÅ¡enÃ© maso je opravdu dobrÃ©.}
+{174}{}{PÅ™iÅ¡el jsi sem mÄ›nit kÅ¯Å¾e za ohnivou vodu?}
+{175}{}{Myslel jsem, Å¾e majÃ­ vÅ¡ichni tvoji lidÃ© kost v nosu.}
+{176}{}{Pozor na krysy v LoveckÃ© Ätvrti.}
+{177}{}{Kde jsou moje kouzelnÃ© fazole?}
+{178}{}{Geckoni chutnajÃ­ jako kuÅ™ata, pokud se sprÃ¡vnÄ› pÅ™ipravÃ­.}
+{179}{}{ChystÃ¡m se jÃ­t relaxovat do lÃ¡znÃ­.}
 {180}{}{Pozor na Duntonovy bratry.}
-{181}{}{U Bucknerové mi vdycky dobøe zaplatí za moje zboí.}
-{182}{}{Dneska je hezkı den.}
-{183}{}{Vypadáš jako Sulik.}
-{184}{}{Zajímalo by mì kam zase ten blbec Torr šel.}
-{185}{}{Velké tajemství je... hej, co to mám v kapse?!?}
-{186}{}{Pro spodinu ádnı odpoèinek.}
-{187}{}{Bolí mì klouby. Asi bude pršet.}
-{188}{}{Zaèíná trochu foukat.}
-{190}{}{Rád tì vidím.}
-{191}{}{Je u vás ve vesnici víc takovıch, jako jsi ty?}
-{192}{}{Doufám, e se ti Klamath líbí.}
-{193}{}{Hodilo by se nám tu víc takovıch lidi, jako jsi ty.}
-{194}{}{Jak to jde, pøíteli?}
-{195}{}{Pøeju hodnì štìstí.}
-{196}{}{Jestli si chceš nìco koupit, zajdi do hospody U Bucknerové.}
-{197}{}{Vùbec nejsi jako Sulik.}
-{198}{}{Jsi nejcivilizovanìjší divoch s kterım jsem se kdy setkal.}
-{199}{}{Pozor na jinak zbarvené geckony.}
-{200}{}{Zdravím tì, cestovateli.}
-{201}{}{Jsme rádi, e tì máme v Klamathu.}
-{202}{}{Nazdar, cizinèe.}
-{203}{}{Bacha na Duntonovi. Jsou nebezpeèní.}
-{204}{}{Lovecká ètvr je plná krys.}
+{181}{}{U BucknerovÃ© mi vÅ¾dycky dobÅ™e zaplatÃ­ za moje zboÅ¾Ã­.}
+{182}{}{Dneska je hezkÃ½ den.}
+{183}{}{VypadÃ¡Å¡ jako Sulik.}
+{184}{}{ZajÃ­malo by mÄ› kam zase ten blbec Torr Å¡el.}
+{185}{}{VelkÃ© tajemstvÃ­ je... hej, co to mÃ¡m v kapse?!?}
+{186}{}{Pro spodinu Å¾Ã¡dnÃ½ odpoÄinek.}
+{187}{}{BolÃ­ mÄ› klouby. Asi bude prÅ¡et.}
+{188}{}{ZaÄÃ­nÃ¡ trochu foukat.}
+{190}{}{RÃ¡d tÄ› vidÃ­m.}
+{191}{}{Je u vÃ¡s ve vesnici vÃ­c takovÃ½ch, jako jsi ty?}
+{192}{}{DoufÃ¡m, Å¾e se ti Klamath lÃ­bÃ­.}
+{193}{}{Hodilo by se nÃ¡m tu vÃ­c takovÃ½ch lidi, jako jsi ty.}
+{194}{}{Jak to jde, pÅ™Ã­teli?}
+{195}{}{PÅ™eju hodnÄ› Å¡tÄ›stÃ­.}
+{196}{}{Jestli si chceÅ¡ nÄ›co koupit, zajdi do hospody U BucknerovÃ©.}
+{197}{}{VÅ¯bec nejsi jako Sulik.}
+{198}{}{Jsi nejcivilizovanÄ›jÅ¡Ã­ divoch s kterÃ½m jsem se kdy setkal.}
+{199}{}{Pozor na jinak zbarvenÃ© geckony.}
+{200}{}{ZdravÃ­m tÄ›, cestovateli.}
+{201}{}{Jsme rÃ¡di, Å¾e tÄ› mÃ¡me v Klamathu.}
+{202}{}{Nazdar, cizinÄe.}
+{203}{}{Bacha na Duntonovi. Jsou nebezpeÄnÃ­.}
+{204}{}{LoveckÃ¡ ÄtvrÅ¥ je plnÃ¡ krys.}
 {1000}{}{Starsi}
 {1001}{}{Zakladatel}
 {1002}{}{Obyvatel Vaultu}
@@ -58,15 +58,15 @@
 {1009}{}{Lecivy prasek}
 {1010}{}{Most}
 {1011}{}{Mynoc}
-{1100}{}{Starší je tvoje matka a náš vùdce.}
-{1101}{}{Náš slavnı pøedek, kterı nám pøedal své znalosti.}
-{1102}{}{První èlovìk, kterı bojoval a zvítìzil nad chaosem.}
-{1103}{}{To je naše krásná vesnice.}
-{1104}{}{That’s trading outpost a few days east of here.}
+{1100}{}{StarÅ¡Ã­ je tvoje matka a nÃ¡Å¡ vÅ¯dce.}
+{1101}{}{NÃ¡Å¡ slavnÃ½ pÅ™edek, kterÃ½ nÃ¡m pÅ™edal svÃ© znalosti.}
+{1102}{}{PrvnÃ­ ÄlovÄ›k, kterÃ½ bojoval a zvÃ­tÄ›zil nad chaosem.}
+{1103}{}{To je naÅ¡e krÃ¡snÃ¡ vesnice.}
+{1104}{}{Thatâ€™s trading outpost a few days east of here.}
 {1105}{}{Vault je jako nebe.}
-{1106}{}{Ty jsi Vyvolenı.}
-{1107}{}{Léèí nás pomocí bylin a magie. Bydlí v severní èásti vesnice.}
-{1108}{}{Léèí nás pomocí bylin a magie. Bydlí v severní èásti vesnice.}
-{1109}{}{To je léèivı prášek, kterı tì vyléèí, ale bude se ti po nìm chtít spát.}
-{1110}{}{Velikı most je jedinım vıchodem z naší vesnice.}
-{1111}{}{Stráí most, kterı vede do naší vesnice.}
+{1106}{}{Ty jsi VyvolenÃ½.}
+{1107}{}{LÃ©ÄÃ­ nÃ¡s pomocÃ­ bylin a magie. BydlÃ­ v severnÃ­ ÄÃ¡sti vesnice.}
+{1108}{}{LÃ©ÄÃ­ nÃ¡s pomocÃ­ bylin a magie. BydlÃ­ v severnÃ­ ÄÃ¡sti vesnice.}
+{1109}{}{To je lÃ©ÄivÃ½ prÃ¡Å¡ek, kterÃ½ tÄ› vylÃ©ÄÃ­, ale bude se ti po nÄ›m chtÃ­t spÃ¡t.}
+{1110}{}{VelikÃ½ most je jedinÃ½m vÃ½chodem z naÅ¡Ã­ vesnice.}
+{1111}{}{StrÃ¡Å¾Ã­ most, kterÃ½ vede do naÅ¡Ã­ vesnice.}

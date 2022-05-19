@@ -1,16 +1,16 @@
-{100}{}{Vidíš Obèana Vault City.}
-{101}{}{Zdravím, Obèane.}
-{102}{}{To máme dnes ale pìknì, e?}
-{103}{}{Ta vèerejší schùzka mìstské rady byla velmi produktivní. Vytvoøili jsme spoustu seznamù. *Spoustu* seznamù.}
-{104}{}{Nemùu se doèkat, a se zase dostanu dovnitø mìsta.}
-{105}{}{Zdravíèko, Obèane.}
-{106}{}{Omluv mì.}
-{107}{}{Stojíš mi v cestì.}
-{108}{}{Proè nejdeš ven za mìsto k ostatním lidem?}
-{109}{}{Mùeš si dret trochu odstup, prosím?}
-{110}{}{Chvíli tady poèkej.}
-{111}{}{Mìl bys jít pryè.}
+{100}{}{VidÃ­Å¡ ObÄana Vault City.}
+{101}{}{ZdravÃ­m, ObÄane.}
+{102}{}{To mÃ¡me dnes ale pÄ›knÄ›, Å¾e?}
+{103}{}{Ta vÄerejÅ¡Ã­ schÅ¯zka mÄ›stskÃ© rady byla velmi produktivnÃ­. VytvoÅ™ili jsme spoustu seznamÅ¯. *Spoustu* seznamÅ¯.}
+{104}{}{NemÅ¯Å¾u se doÄkat, aÅ¾ se zase dostanu dovnitÅ™ mÄ›sta.}
+{105}{}{ZdravÃ­Äko, ObÄane.}
+{106}{}{Omluv mÄ›.}
+{107}{}{StojÃ­Å¡ mi v cestÄ›.}
+{108}{}{ProÄ nejdeÅ¡ ven za mÄ›sto k ostatnÃ­m lidem?}
+{109}{}{MÅ¯Å¾eÅ¡ si drÅ¾et trochu odstup, prosÃ­m?}
+{110}{}{ChvÃ­li tady poÄkej.}
+{111}{}{MÄ›l bys jÃ­t pryÄ.}
 {112}{}{Zmizte odsud.}
-{113}{}{Dávej si pozor, nebo zavolám stráe.}
-{114}{}{Sleduju tì.}
+{113}{}{DÃ¡vej si pozor, nebo zavolÃ¡m strÃ¡Å¾e.}
+{114}{}{Sleduju tÄ›.}
 {115}{}{Venkovani jako ty...}

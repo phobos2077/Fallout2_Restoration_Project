@@ -1,9 +1,9 @@
-{100}{}{No, aspoò u má teï lano.}
-{101}{}{To by mìlo staèit.}
-{102}{}{Tahle studna postrádá vìdro a lano.}
-{103}{}{Studna je u opravená. Nevzpomínáš si?}
-{104}{}{Je tu lano, ale chybí vìdro.}
-{200}{}{Vidíš studnu.}
+{100}{}{No, aspoÅˆ uÅ¾ mÃ¡ teÄ lano.}
+{101}{}{To by mÄ›lo staÄit.}
+{102}{}{Tahle studna postrÃ¡dÃ¡ vÄ›dro a lano.}
+{103}{}{Studna je uÅ¾ opravenÃ¡. NevzpomÃ­nÃ¡Å¡ si?}
+{104}{}{Je tu lano, ale chybÃ­ vÄ›dro.}
+{200}{}{VidÃ­Å¡ studnu.}
 {201}{}{Je to jen studna.}
-{202}{}{Po bliším prozkoumání zjišuješ, e nefunguje. Moná ji dokáeš opravit.}
-{203}{}{Studna u zase funguje.}
+{202}{}{Po bliÅ¾Å¡Ã­m prozkoumÃ¡nÃ­ zjiÅ¡Å¥ujeÅ¡, Å¾e nefunguje. MoÅ¾nÃ¡ ji dokÃ¡Å¾eÅ¡ opravit.}
+{203}{}{Studna uÅ¾ zase funguje.}

@@ -1,18 +1,18 @@
-{100}{}{Vidíš... dívku-hrdinku s rezavımi vlasy.}
-{101}{}{Vidíš úasnì krásnou dívku, hrdinku s rezavımi vlasy, obleèenou do kombinézy Vaultu 13. Dívá se rozzlobenì do dálky.}
-{102}{}{Vidíš dívku s rezavımi vlasy. Dívá se do dálky.}
-{103}{}{Vidíš dívku s rezavımi vlasy. Dívá se do dálky.}
-{104}{}{Nemùu uvìøit, e jsem se nedostala do finální verze Falloutu 1.}
-{105}{}{Vybrali si tu èernovlasou *couru*. Taková drzost!}
-{106}{}{*Èernovlásá* enská postava. Mùe bıt ještì nìco obyèejnìjšího? NU-DA.}
-{107}{}{Rusovlásky jsou daleko zajímavìjší.}
-{108}{}{Ta èernovláska se dostala do hry jenom proto, e spala s kadım grafikem.}
-{109}{}{A s programátorem.}
-{110}{}{A s vedoucím projektu. Nechají se tak snadno pøemluvit. Staèí ukázat kousek tìla a jsou úplnì vedle.}
-{111}{}{A tak jsem skonèila jako "doplòková NPC postava" ve Vaultu 13. Prokristapána. Jak neèekané.}
-{112}{}{Pøekvapuje mì, e nevyrenderovali tu èernovlásku úplnì nahou.}
-{113}{}{Tím chci øíct, e bìhem tvorby mockrát obleèená nebyla.}
+{100}{}{VidÃ­Å¡... dÃ­vku-hrdinku s rezavÃ½mi vlasy.}
+{101}{}{VidÃ­Å¡ ÃºÅ¾asnÄ› krÃ¡snou dÃ­vku, hrdinku s rezavÃ½mi vlasy, obleÄenou do kombinÃ©zy Vaultu 13. DÃ­vÃ¡ se rozzlobenÄ› do dÃ¡lky.}
+{102}{}{VidÃ­Å¡ dÃ­vku s rezavÃ½mi vlasy. DÃ­vÃ¡ se do dÃ¡lky.}
+{103}{}{VidÃ­Å¡ dÃ­vku s rezavÃ½mi vlasy. DÃ­vÃ¡ se do dÃ¡lky.}
+{104}{}{NemÅ¯Å¾u uvÄ›Å™it, Å¾e jsem se nedostala do finÃ¡lnÃ­ verze Falloutu 1.}
+{105}{}{Vybrali si tu Äernovlasou *couru*. TakovÃ¡ drzost!}
+{106}{}{*ÄŒernovlÃ¡sÃ¡* Å¾enskÃ¡ postava. MÅ¯Å¾e bÃ½t jeÅ¡tÄ› nÄ›co obyÄejnÄ›jÅ¡Ã­ho? NU-DA.}
+{107}{}{RusovlÃ¡sky jsou daleko zajÃ­mavÄ›jÅ¡Ã­.}
+{108}{}{Ta ÄernovlÃ¡ska se dostala do hry jenom proto, Å¾e spala s kaÅ¾dÃ½m grafikem.}
+{109}{}{A s programÃ¡torem.}
+{110}{}{A s vedoucÃ­m projektu. NechajÃ­ se tak snadno pÅ™emluvit. StaÄÃ­ ukÃ¡zat kousek tÄ›la a jsou ÃºplnÄ› vedle.}
+{111}{}{A tak jsem skonÄila jako "doplÅˆkovÃ¡ NPC postava" ve Vaultu 13. ProkristapÃ¡na. Jak neÄekanÃ©.}
+{112}{}{PÅ™ekvapuje mÄ›, Å¾e nevyrenderovali tu ÄernovlÃ¡sku ÃºplnÄ› nahou.}
+{113}{}{TÃ­m chci Å™Ã­ct, Å¾e bÄ›hem tvorby mockrÃ¡t obleÄenÃ¡ nebyla.}
 {114}{}{*Vzdych*}
-{115}{}{Nenávidím mue.}
-{116}{}{Snad jenom kromì vysnìného Mawericka.}
-{117}{}{Myslím, e se za mì postavil. Musela jsem se s ním jenom párkrát vyspat, aby hlasoval pro mì.}
+{115}{}{NenÃ¡vidÃ­m muÅ¾e.}
+{116}{}{Snad jenom kromÄ› vysnÄ›nÃ©ho Mawericka.}
+{117}{}{MyslÃ­m, Å¾e se za mÄ› postavil. Musela jsem se s nÃ­m jenom pÃ¡rkrÃ¡t vyspat, aby hlasoval pro mÄ›.}

@@ -1,52 +1,52 @@
-{100}{}{Vidíš kupce.}
-{102}{}{Vidíš obchodníka, kterı se snaí opravit vodní pumpu.}
-{103}{}{ANI Ó-ÈKO NE-NA-SA-DÍŠ!}
-{104}{}{Já to nejdu dìlat.}
-{105}{}{Hoši, to je ne-u-vì-øi-tel-né!}
+{100}{}{VidÃ­Å¡ kupce.}
+{102}{}{VidÃ­Å¡ obchodnÃ­ka, kterÃ½ se snaÅ¾Ã­ opravit vodnÃ­ pumpu.}
+{103}{}{ANI Ã“-ÄŒKO NE-NA-SA-DÃÅ !}
+{104}{}{JÃ¡ to nejdu dÄ›lat.}
+{105}{}{HoÅ¡i, to je ne-u-vÄ›-Å™i-tel-nÃ©!}
 {106}{}{To je past vedle pasti...}
-{107}{}{Mùeš mi s tím pomoct?}
-{108}{}{Moná budeš mít víc štìstí.}
-{109}{}{Hej, díky za opravu vodní pumpy!}
-{110}{}{Øekni Opatovi, e u je vodní pumpa opravená.}
-{200}{}{Díky za pomoc.}
-{300}{}{To není normální kur...ehm, mám teï zrovna nìjakou práci. Potøebuješ nìco, nebo jenom plıtváš mım èasem?}
-{301}{}{Vlastnì ano, poslal mì Opat. Øíkal, e tu máte nìjakı problém s vodní pumpou.}
-{302}{}{Heh, "nìjakej problém" je hodnì slabej vıraz. Tenhleten starej krám je toti totálnì rozesranej. U nikdy nebude fungovat.}
-{303}{}{Aha. Take ti nebude vadit, kdy se na to podívám?}
-{304}{}{Jasnì, poslu si. Stejnì u to víc znièit nemùeš.}
-{305}{}{Nechci obtìovat, ale v èem je problém?}
-{306}{}{Hlavní vodní pumpa pro celé Opatství je rozbitá. Ta zatracená vìc u posledních pár dní mlela z posledního a teï je nadobro rozbitá.}
-{307}{}{V technice se docela vyznám. Nebude ti vadit, kdy se na to podívám?}
-{308}{}{No, nejsem sice odborník pøes stroje, ale moná na nìco pøijdu.}
-{309}{}{Jasnì, mùeš to zkusit.}
-{310}{}{Eh, promiò. Nashle.}
-{311}{}{Uvidíme, jestli na nìco pøijdu.}
-{312}{}{Rád bych ti pomohl, ale jestli se chceš chovat jako kretén, tak si to klidnì vyøeš sám.}
-{313}{}{Øekl jsem Opatovi, e bych rád pomohl, ale jestli se chceš chovat jako kretén, tak si to klidnì vyøeš sám.}
-{320}{}{(Letmo na tebe zamourá a poté si dlouze povzdechne.) Promiò kamaráde, ale tahle zatracená mašina mì dokáe pìknì vytoèit. Nechtìl jsem na tebe tak vylítnout.}
-{321}{}{No a v èem je tedy problém?}
-{322}{}{Jak chceš, nashle.}
-{330}{}{Vra se ráno, pak si promluvíme.}
+{107}{}{MÅ¯Å¾eÅ¡ mi s tÃ­m pomoct?}
+{108}{}{MoÅ¾nÃ¡ budeÅ¡ mÃ­t vÃ­c Å¡tÄ›stÃ­.}
+{109}{}{Hej, dÃ­ky za opravu vodnÃ­ pumpy!}
+{110}{}{Å˜ekni Opatovi, Å¾e uÅ¾ je vodnÃ­ pumpa opravenÃ¡.}
+{200}{}{DÃ­ky za pomoc.}
+{300}{}{To nenÃ­ normÃ¡lnÃ­ kur...ehm, mÃ¡m teÄ zrovna nÄ›jakou prÃ¡ci. PotÅ™ebujeÅ¡ nÄ›co, nebo jenom plÃ½tvÃ¡Å¡ mÃ½m Äasem?}
+{301}{}{VlastnÄ› ano, poslal mÄ› Opat. Å˜Ã­kal, Å¾e tu mÃ¡te nÄ›jakÃ½ problÃ©m s vodnÃ­ pumpou.}
+{302}{}{Heh, "nÄ›jakej problÃ©m" je hodnÄ› slabej vÃ½raz. Tenhleten starej krÃ¡m je totiÅ¾ totÃ¡lnÄ› rozesranej. UÅ¾ nikdy nebude fungovat.}
+{303}{}{Aha. TakÅ¾e ti nebude vadit, kdyÅ¾ se na to podÃ­vÃ¡m?}
+{304}{}{JasnÄ›, posluÅ¾ si. StejnÄ› uÅ¾ to vÃ­c zniÄit nemÅ¯Å¾eÅ¡.}
+{305}{}{Nechci obtÄ›Å¾ovat, ale v Äem je problÃ©m?}
+{306}{}{HlavnÃ­ vodnÃ­ pumpa pro celÃ© OpatstvÃ­ je rozbitÃ¡. Ta zatracenÃ¡ vÄ›c uÅ¾ poslednÃ­ch pÃ¡r dnÃ­ mlela z poslednÃ­ho a teÄ je nadobro rozbitÃ¡.}
+{307}{}{V technice se docela vyznÃ¡m. Nebude ti vadit, kdyÅ¾ se na to podÃ­vÃ¡m?}
+{308}{}{No, nejsem sice odbornÃ­k pÅ™es stroje, ale moÅ¾nÃ¡ na nÄ›co pÅ™ijdu.}
+{309}{}{JasnÄ›, mÅ¯Å¾eÅ¡ to zkusit.}
+{310}{}{Eh, promiÅˆ. Nashle.}
+{311}{}{UvidÃ­me, jestli na nÄ›co pÅ™ijdu.}
+{312}{}{RÃ¡d bych ti pomohl, ale jestli se chceÅ¡ chovat jako kretÃ©n, tak si to klidnÄ› vyÅ™eÅ¡ sÃ¡m.}
+{313}{}{Å˜ekl jsem Opatovi, Å¾e bych rÃ¡d pomohl, ale jestli se chceÅ¡ chovat jako kretÃ©n, tak si to klidnÄ› vyÅ™eÅ¡ sÃ¡m.}
+{320}{}{(Letmo na tebe zamÅ¾ourÃ¡ a potÃ© si dlouze povzdechne.) PromiÅˆ kamarÃ¡de, ale tahle zatracenÃ¡ maÅ¡ina mÄ› dokÃ¡Å¾e pÄ›knÄ› vytoÄit. NechtÄ›l jsem na tebe tak vylÃ­tnout.}
+{321}{}{No a v Äem je tedy problÃ©m?}
+{322}{}{Jak chceÅ¡, nashle.}
+{330}{}{VraÅ¥ se rÃ¡no, pak si promluvÃ­me.}
 {400}{}{A hele, to jsi zase ty. Povedlo se?}
-{401}{}{Ne, zatím ne. Dám ti vìdìt jestli to dám dohromady.}
-{402}{}{Vlastnì ano. Zdá se, e je motor zcela rozbitı a jsou znièené spoje, take musíme sehnat novı motor a také nìjaké dráty, abychom mohli vše znovu propojit, protoe ty staré jsou speèené.}
-{500}{}{Hmm...take spoje na hlavním motoru jsou znièenı, jo? No, mám u sebe nìjakı pouitelnı dráty, ale zrovna tenhle motor teda ne. Jsem si jistej, e jeden urèitì mají ve Vault City. Zajdi tam a promluv si s Harrym, má obchod na Pøedmìstí. Øekni mu, e tì posílá Dave. Ten zatracenej motor je drahej, ale mìl by ti dát dobrou cenu.}
-{501}{}{Hned tam vyrazím. Brzy se vrátím.}
-{502}{}{Moment, zadr na chvíli. Bylo mi potìšením ti pomoct s tím problémem, ale myslíš, e se mi chce jít pøes pustinu a koupit ti nìjakı drahı motor? Jestli chceš moji pomoc, bude tì to nìco stát.}
-{503}{}{Co kdybys to øekl Harrymu *ty*, a si ho pùjdeš sám vyzvednout? Nejsem ádnej tvùj zasranej poslíèek. Nashle.}
-{510}{}{No dobøe. Ani jsem neèekal, e to udìláš zadarmo. Ten motor je za $500 a myslím, e $100 navíc je za tu námahu tak akorát. Tady máš $600.}
-{511}{}{To u je lepší. Vrátím se s tou souèástkou.}
-{600}{}{Podaøilo se ti sehnat tu souèástku? Ten stroj se sám neopraví.}
-{601}{}{Ne, ještì ne. Jakmile ji seenu, vrátím se.}
-{602}{}{Jasnì, mám ji tady.}
-{700}{}{Vıbornì. Chceš, abych tu zatracenou vìc namontoval já, nebo chceš mít to potìšení ty?}
-{701}{}{Myslím, e to zvládnu. Ustup stranou.}
-{702}{}{Vlastnì myslím, e u jsem na tom udìlal dost práce. Namontuj si to sám.}
+{401}{}{Ne, zatÃ­m ne. DÃ¡m ti vÄ›dÄ›t jestli to dÃ¡m dohromady.}
+{402}{}{VlastnÄ› ano. ZdÃ¡ se, Å¾e je motor zcela rozbitÃ½ a jsou zniÄenÃ© spoje, takÅ¾e musÃ­me sehnat novÃ½ motor a takÃ© nÄ›jakÃ© drÃ¡ty, abychom mohli vÅ¡e znovu propojit, protoÅ¾e ty starÃ© jsou speÄenÃ©.}
+{500}{}{Hmm...takÅ¾e spoje na hlavnÃ­m motoru jsou zniÄenÃ½, jo? No, mÃ¡m u sebe nÄ›jakÃ½ pouÅ¾itelnÃ½ drÃ¡ty, ale zrovna tenhle motor teda ne. Jsem si jistej, Å¾e jeden urÄitÄ› majÃ­ ve Vault City. Zajdi tam a promluv si s Harrym, mÃ¡ obchod na PÅ™edmÄ›stÃ­. Å˜ekni mu, Å¾e tÄ› posÃ­lÃ¡ Dave. Ten zatracenej motor je drahej, ale mÄ›l by ti dÃ¡t dobrou cenu.}
+{501}{}{Hned tam vyrazÃ­m. Brzy se vrÃ¡tÃ­m.}
+{502}{}{Moment, zadrÅ¾ na chvÃ­li. Bylo mi potÄ›Å¡enÃ­m ti pomoct s tÃ­m problÃ©mem, ale myslÃ­Å¡, Å¾e se mi chce jÃ­t pÅ™es pustinu a koupit ti nÄ›jakÃ½ drahÃ½ motor? Jestli chceÅ¡ moji pomoc, bude tÄ› to nÄ›co stÃ¡t.}
+{503}{}{Co kdybys to Å™ekl Harrymu *ty*, aÅ¾ si ho pÅ¯jdeÅ¡ sÃ¡m vyzvednout? Nejsem Å¾Ã¡dnej tvÅ¯j zasranej poslÃ­Äek. Nashle.}
+{510}{}{No dobÅ™e. Ani jsem neÄekal, Å¾e to udÄ›lÃ¡Å¡ zadarmo. Ten motor je za $500 a myslÃ­m, Å¾e $100 navÃ­c je za tu nÃ¡mahu tak akorÃ¡t. Tady mÃ¡Å¡ $600.}
+{511}{}{To uÅ¾ je lepÅ¡Ã­. VrÃ¡tÃ­m se s tou souÄÃ¡stkou.}
+{600}{}{PodaÅ™ilo se ti sehnat tu souÄÃ¡stku? Ten stroj se sÃ¡m neopravÃ­.}
+{601}{}{Ne, jeÅ¡tÄ› ne. Jakmile ji seÅ¾enu, vrÃ¡tÃ­m se.}
+{602}{}{JasnÄ›, mÃ¡m ji tady.}
+{700}{}{VÃ½bornÄ›. ChceÅ¡, abych tu zatracenou vÄ›c namontoval jÃ¡, nebo chceÅ¡ mÃ­t to potÄ›Å¡enÃ­ ty?}
+{701}{}{MyslÃ­m, Å¾e to zvlÃ¡dnu. Ustup stranou.}
+{702}{}{VlastnÄ› myslÃ­m, Å¾e uÅ¾ jsem na tom udÄ›lal dost prÃ¡ce. Namontuj si to sÃ¡m.}
 {800}{}{Tak jo, podej mi to.}
 {801}{}{Tady je.}
-{900}{}{To u by mohlo fungovat.}
-{901}{}{Vodní pumpa byla opravena.}
-{910}{}{(Utøe si pot z èela.) Jo, potøebuješ nìco?}
-{911}{}{Opat øíkal, e bys mohl potøebovat pomoc. V èem je problém?}
+{900}{}{To uÅ¾ by mohlo fungovat.}
+{901}{}{VodnÃ­ pumpa byla opravena.}
+{910}{}{(UtÅ™e si pot z Äela.) Jo, potÅ™ebujeÅ¡ nÄ›co?}
+{911}{}{Opat Å™Ã­kal, Å¾e bys mohl potÅ™ebovat pomoc. V Äem je problÃ©m?}
 {912}{}{To je jedno. Sbohem.}
-{913}{}{U jsem se na tu pumpu díval a zdá se, e je motor zcela rozbitı a jsou znièené spoje, take musíme sehnat novı motor a také nìjaké dráty, abychom mohli vše znovu propojit, protoe ty staré jsou speèené.}
+{913}{}{UÅ¾ jsem se na tu pumpu dÃ­val a zdÃ¡ se, Å¾e je motor zcela rozbitÃ½ a jsou zniÄenÃ© spoje, takÅ¾e musÃ­me sehnat novÃ½ motor a takÃ© nÄ›jakÃ© drÃ¡ty, abychom mohli vÅ¡e znovu propojit, protoÅ¾e ty starÃ© jsou speÄenÃ©.}

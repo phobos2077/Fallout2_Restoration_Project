@@ -1,163 +1,163 @@
-{100}{}{Vidíš Laru.}
-{150}{}{Je vùdcem tohoto gangu.}
-{200}{}{Jmenuju se Lara a vedu tenhle gang. Doufám, e nebudeš dìlat ádnı problémy, nebo si tì pìknì podáme.}
-{201}{}{Nazdar. Potøebuješ nìco?}
-{202}{}{Nemáš nìjakou práci?}
-{203}{}{Jenom se rozhlíím.}
-{204}{}{Hledám obchodníka jménem Vic.}
+{100}{}{VidÃ­Å¡ Laru.}
+{150}{}{Je vÅ¯dcem tohoto gangu.}
+{200}{}{Jmenuju se Lara a vedu tenhle gang. DoufÃ¡m, Å¾e nebudeÅ¡ dÄ›lat Å¾Ã¡dnÃ½ problÃ©my, nebo si tÄ› pÄ›knÄ› podÃ¡me.}
+{201}{}{Nazdar. PotÅ™ebujeÅ¡ nÄ›co?}
+{202}{}{NemÃ¡Å¡ nÄ›jakou prÃ¡ci?}
+{203}{}{Jenom se rozhlÃ­Å¾Ã­m.}
+{204}{}{HledÃ¡m obchodnÃ­ka jmÃ©nem Vic.}
 {205}{}{Aruh.}
 {206}{}{Rara.}
-{220}{}{Ve mìstì nemáme ádnıho doktora a já ti nedokáu pomoct.}
-{221}{}{Promiò, poøád nerozumím.}
+{220}{}{Ve mÄ›stÄ› nemÃ¡me Å¾Ã¡dnÃ½ho doktora a jÃ¡ ti nedokÃ¡Å¾u pomoct.}
+{221}{}{PromiÅˆ, poÅ™Ã¡d nerozumÃ­m.}
 {222}{}{Chjo.}
-{230}{}{To jméno mi nic neøíká, ale lidi pøichází a odchází. Já je nehlídám. Zkus to u Becky. Tam se ukáou skoro všichni. Tøeba tam nìkdo nìco ví.}
-{231}{}{Nemáš nìjakou práci?}
-{232}{}{Dík. Naskle.}
-{240}{}{Jestli tu nemáš co na práci, tak radši odejdi. Není to tady moc bezpeènı.}
-{241}{}{Aha, dobøe.}
-{242}{}{Nemáš nìjakou práci?}
-{243}{}{Dokáu se o sebe postarat.}
-{244}{}{Dobøe, díky.}
-{250}{}{O tom nepochybuju. Jinak by tì u dávno nìkdo odpráskl.}
-{251}{}{Eh, ano, já vím. Nìco podobného jsi u øíkala.}
-{252}{}{Nemáš nìjakou práci?}
-{253}{}{Dobøe, díky.}
-{260}{}{Záleí na tom, co umíš. Je tu nìco, co mì zajímá. Jestli se ti to podaøí zjistit, nìco ti za to dám.}
-{261}{}{Jak jsem øíkala, sháním o nìkom informace... nebo o nìèem. Samozøejmì zaplatím.}
-{262}{}{Jasnì. O co jde?}
-{263}{}{Moná pozdìji.}
-{270}{}{Pokud si to rozmyslíš, dej mi vìdìt.}
-{271}{}{Tak dobøe.}
-{280}{}{No, na vıchod odsud je kostel. A u je uvnitø cokoliv, Metzgerovi lidi to velice dobøe hlídaj. Zjisti, co to je a máš u mì $200.}
-{281}{}{To bylo jednoduché. To u dávno vím.}
-{282}{}{Jasnì.}
-{283}{}{Uvidím, co se dá dìlat.}
-{290}{}{Díky. A nezamíchej se do bitky... zatím. Mám plán.}
-{291}{}{ádnı problém.}
-{292}{}{Hned se vrátím.}
+{230}{}{To jmÃ©no mi nic neÅ™Ã­kÃ¡, ale lidi pÅ™ichÃ¡zÃ­ a odchÃ¡zÃ­. JÃ¡ je nehlÃ­dÃ¡m. Zkus to u Becky. Tam se ukÃ¡Å¾ou skoro vÅ¡ichni. TÅ™eba tam nÄ›kdo nÄ›co vÃ­.}
+{231}{}{NemÃ¡Å¡ nÄ›jakou prÃ¡ci?}
+{232}{}{DÃ­k. Naskle.}
+{240}{}{Jestli tu nemÃ¡Å¡ co na prÃ¡ci, tak radÅ¡i odejdi. NenÃ­ to tady moc bezpeÄnÃ½.}
+{241}{}{Aha, dobÅ™e.}
+{242}{}{NemÃ¡Å¡ nÄ›jakou prÃ¡ci?}
+{243}{}{DokÃ¡Å¾u se o sebe postarat.}
+{244}{}{DobÅ™e, dÃ­ky.}
+{250}{}{O tom nepochybuju. Jinak by tÄ› uÅ¾ dÃ¡vno nÄ›kdo odprÃ¡skl.}
+{251}{}{Eh, ano, jÃ¡ vÃ­m. NÄ›co podobnÃ©ho jsi uÅ¾ Å™Ã­kala.}
+{252}{}{NemÃ¡Å¡ nÄ›jakou prÃ¡ci?}
+{253}{}{DobÅ™e, dÃ­ky.}
+{260}{}{ZÃ¡leÅ¾Ã­ na tom, co umÃ­Å¡. Je tu nÄ›co, co mÄ› zajÃ­mÃ¡. Jestli se ti to podaÅ™Ã­ zjistit, nÄ›co ti za to dÃ¡m.}
+{261}{}{Jak jsem Å™Ã­kala, shÃ¡nÃ­m o nÄ›kom informace... nebo o nÄ›Äem. SamozÅ™ejmÄ› zaplatÃ­m.}
+{262}{}{JasnÄ›. O co jde?}
+{263}{}{MoÅ¾nÃ¡ pozdÄ›ji.}
+{270}{}{Pokud si to rozmyslÃ­Å¡, dej mi vÄ›dÄ›t.}
+{271}{}{Tak dobÅ™e.}
+{280}{}{No, na vÃ½chod odsud je kostel. AÅ¥ uÅ¾ je uvnitÅ™ cokoliv, Metzgerovi lidi to velice dobÅ™e hlÃ­daj. Zjisti, co to je a mÃ¡Å¡ u mÄ› $200.}
+{281}{}{To bylo jednoduchÃ©. To uÅ¾ dÃ¡vno vÃ­m.}
+{282}{}{JasnÄ›.}
+{283}{}{UvidÃ­m, co se dÃ¡ dÄ›lat.}
+{290}{}{DÃ­ky. A nezamÃ­chej se do bitky... zatÃ­m. MÃ¡m plÃ¡n.}
+{291}{}{Å½Ã¡dnÃ½ problÃ©m.}
+{292}{}{Hned se vrÃ¡tÃ­m.}
 {300}{}{A co tam teda je?}
-{301}{}{Èisté chemické slouèeniny ve velkıch bednách.}
-{302}{}{Nìjaké chemikálie ve velkıch kontejnerech.}
-{303}{}{Ještì se na to radìji podívám.}
-{310}{}{Hmm. To dává smysl. Díky. Tady máš peníze.}
-{311}{}{Proè myslíte?}
-{312}{}{ádnı problém. Nashle.}
-{320}{}{Vidìli jsme pøijídìt karavany z Vault City a pak nìco pøekládali do karavan z New Reno.}
-{321}{}{A dál? Jakı to dává smysl?}
+{301}{}{ÄŒistÃ© chemickÃ© slouÄeniny ve velkÃ½ch bednÃ¡ch.}
+{302}{}{NÄ›jakÃ© chemikÃ¡lie ve velkÃ½ch kontejnerech.}
+{303}{}{JeÅ¡tÄ› se na to radÄ›ji podÃ­vÃ¡m.}
+{310}{}{Hmm. To dÃ¡vÃ¡ smysl. DÃ­ky. Tady mÃ¡Å¡ penÃ­ze.}
+{311}{}{ProÄ myslÃ­te?}
+{312}{}{Å½Ã¡dnÃ½ problÃ©m. Nashle.}
+{320}{}{VidÄ›li jsme pÅ™ijÃ­Å¾dÄ›t karavany z Vault City a pak nÄ›co pÅ™eklÃ¡dali do karavan z New Reno.}
+{321}{}{A dÃ¡l? JakÃ½ to dÃ¡vÃ¡ smysl?}
 {322}{}{Aha.}
 {340}{}{New Reno is the drug capital around here. They have to get the raw materials to make their drugs from somewhere, right? It seems like they're getting some, or all of it, from Vault City.}
 {341}{}{Kde je New Reno?}
-{342}{}{Dobøe, díky.}
-{350}{}{Nevím to pøesnì. Myslím, e nìkde na jihu. Nikdy jsem tam nebyla, jenom jsem si všimla, jak se tu jednou za èas zastaví karavany pro zásoby... jednou za dlouhou dobu.}
-{351}{}{Aha, dobøe. Díky.}
-{360}{}{Nechceš si vydìlat další rychlı prachy? $50. Snadnı prachy.}
-{361}{}{Jasnì.}
-{362}{}{Dobøe, ale rychle.}
-{370}{}{Potøebuju od Metzgera zjistit, jestli mu nebude vadit, kdy si s Tylerem vyøídím nìjakou starší záleitost. On u bude vìdìt o co jde.}
-{371}{}{Proè se mám jít zeptat já?}
-{372}{}{Mùu to zkusit.}
-{373}{}{Dobøe.}
-{380}{}{Protoe nechci, aby Tyler vidìl nìkoho z mıch lidí pøicházet nebo vycházet od Metzgera. Nechci, aby mìl nìjakı podezøení.}
-{381}{}{Ty to nechápeš? Jestli mì Tyler uvidí jak se najednou bavím s Metzgerem, mùe mu dojít, e tu nìco smrdí.}
-{382}{}{Uvidíme.}
-{383}{}{Dobøe.}
-{390}{}{Tak co, u víš, co tam je?}
-{391}{}{Èisté chemické slouèeniny ve velkıch bednách.}
-{392}{}{Nìjaké chemikálie ve velkıch kontejnerech.}
-{393}{}{Ještì ne.}
-{400}{}{Tak co? Domluveno? Co øíkal?}
-{401}{}{Souhlasí. Jestli vyhraješ, mùeš mít jejich práci stejnì jako pøedtím.}
+{342}{}{DobÅ™e, dÃ­ky.}
+{350}{}{NevÃ­m to pÅ™esnÄ›. MyslÃ­m, Å¾e nÄ›kde na jihu. Nikdy jsem tam nebyla, jenom jsem si vÅ¡imla, jak se tu jednou za Äas zastavÃ­ karavany pro zÃ¡soby... jednou za dlouhou dobu.}
+{351}{}{Aha, dobÅ™e. DÃ­ky.}
+{360}{}{NechceÅ¡ si vydÄ›lat dalÅ¡Ã­ rychlÃ½ prachy? $50. SnadnÃ½ prachy.}
+{361}{}{JasnÄ›.}
+{362}{}{DobÅ™e, ale rychle.}
+{370}{}{PotÅ™ebuju od Metzgera zjistit, jestli mu nebude vadit, kdyÅ¾ si s Tylerem vyÅ™Ã­dÃ­m nÄ›jakou starÅ¡Ã­ zÃ¡leÅ¾itost. On uÅ¾ bude vÄ›dÄ›t o co jde.}
+{371}{}{ProÄ se mÃ¡m jÃ­t zeptat jÃ¡?}
+{372}{}{MÅ¯Å¾u to zkusit.}
+{373}{}{DobÅ™e.}
+{380}{}{ProtoÅ¾e nechci, aby Tyler vidÄ›l nÄ›koho z mÃ½ch lidÃ­ pÅ™ichÃ¡zet nebo vychÃ¡zet od Metzgera. Nechci, aby mÄ›l nÄ›jakÃ½ podezÅ™enÃ­.}
+{381}{}{Ty to nechÃ¡peÅ¡? Jestli mÄ› Tyler uvidÃ­ jak se najednou bavÃ­m s Metzgerem, mÅ¯Å¾e mu dojÃ­t, Å¾e tu nÄ›co smrdÃ­.}
+{382}{}{UvidÃ­me.}
+{383}{}{DobÅ™e.}
+{390}{}{Tak co, uÅ¾ vÃ­Å¡, co tam je?}
+{391}{}{ÄŒistÃ© chemickÃ© slouÄeniny ve velkÃ½ch bednÃ¡ch.}
+{392}{}{NÄ›jakÃ© chemikÃ¡lie ve velkÃ½ch kontejnerech.}
+{393}{}{JeÅ¡tÄ› ne.}
+{400}{}{Tak co? Domluveno? Co Å™Ã­kal?}
+{401}{}{SouhlasÃ­. Jestli vyhrajeÅ¡, mÅ¯Å¾eÅ¡ mÃ­t jejich prÃ¡ci stejnÄ› jako pÅ™edtÃ­m.}
 {402}{}{Na.}
-{410}{}{Skvìlı. V to jsem doufala. Slyšela jsem, e si na nìj v poslední dobì stìoval. Tady jsou prachy.}
-{411}{}{Pøedpokládám, e máš ještì nìco.}
-{412}{}{Dík. Naskle.}
-{420}{}{Mám pro tebe ještì jednu práci. Nejsem si jistá, jak to udìláš, ale kdy u se ti podaøilo dostat dovnitø, tak ti asi vìøí.}
-{421}{}{Bez plíení to nešlo.}
+{410}{}{SkvÄ›lÃ½. V to jsem doufala. SlyÅ¡ela jsem, Å¾e si na nÄ›j v poslednÃ­ dobÄ› stÄ›Å¾oval. Tady jsou prachy.}
+{411}{}{PÅ™edpoklÃ¡dÃ¡m, Å¾e mÃ¡Å¡ jeÅ¡tÄ› nÄ›co.}
+{412}{}{DÃ­k. Naskle.}
+{420}{}{MÃ¡m pro tebe jeÅ¡tÄ› jednu prÃ¡ci. Nejsem si jistÃ¡, jak to udÄ›lÃ¡Å¡, ale kdyÅ¾ uÅ¾ se ti podaÅ™ilo dostat dovnitÅ™, tak ti asi vÄ›Å™Ã­.}
+{421}{}{Bez plÃ­Å¾enÃ­ to neÅ¡lo.}
 {422}{}{Co to je?}
-{430}{}{Jsem si jistá, e nìco vymyslíš.}
-{431}{}{Dobøe, o co jde?}
-{440}{}{V takové pøesile na nì nemáme. Mají víc penìz a je jich o trochu víc. Kdyby se ti podaøilo najít nìjakou slabinu, pomohlo by nám to získat pøevahu. Nebo nìco, èeho by se dalo vyuít...}
-{441}{}{Co? Najít slabinu? A jak to mám asi udìlat?}
+{430}{}{Jsem si jistÃ¡, Å¾e nÄ›co vymyslÃ­Å¡.}
+{431}{}{DobÅ™e, o co jde?}
+{440}{}{V takovÃ© pÅ™esile na nÄ› nemÃ¡me. MajÃ­ vÃ­c penÄ›z a je jich o trochu vÃ­c. Kdyby se ti podaÅ™ilo najÃ­t nÄ›jakou slabinu, pomohlo by nÃ¡m to zÃ­skat pÅ™evahu. Nebo nÄ›co, Äeho by se dalo vyuÅ¾Ã­t...}
+{441}{}{Co? NajÃ­t slabinu? A jak to mÃ¡m asi udÄ›lat?}
 {442}{}{Kolik za to?}
-{443}{}{Povauj to za hotové.}
-{450}{}{Dáme ti $150. Nemùeme jít dost blízko na to, abysme si to sami zjistili.}
-{451}{}{Kdy bude pøíleitost, tak to zkusím.}
-{452}{}{Dobøe.}
-{460}{}{Nevím. Proto tì ádám o pomoc.}
-{461}{}{Zkusím to.}
-{462}{}{Tohle nemá cenu.}
-{470}{}{Tak co? Jak to vypadá?}
-{471}{}{Mám to. Dnes v noci budou mít mejdan.}
-{472}{}{Ještì nevím. Dám ti vìdìt.}
+{443}{}{PovaÅ¾uj to za hotovÃ©.}
+{450}{}{DÃ¡me ti $150. NemÅ¯Å¾eme jÃ­t dost blÃ­zko na to, abysme si to sami zjistili.}
+{451}{}{KdyÅ¾ bude pÅ™Ã­leÅ¾itost, tak to zkusÃ­m.}
+{452}{}{DobÅ™e.}
+{460}{}{NevÃ­m. Proto tÄ› Å¾Ã¡dÃ¡m o pomoc.}
+{461}{}{ZkusÃ­m to.}
+{462}{}{Tohle nemÃ¡ cenu.}
+{470}{}{Tak co? Jak to vypadÃ¡?}
+{471}{}{MÃ¡m to. Dnes v noci budou mÃ­t mejdan.}
+{472}{}{JeÅ¡tÄ› nevÃ­m. DÃ¡m ti vÄ›dÄ›t.}
 {473}{}{Gra.}
 {474}{}{Na.}
-{480}{}{Vıbornì! Urèitì tam nechaj jenom základní ostrahu. Proti nim máme slušnou šanci. A a udìláme kostel, sejmeme ty ostatní na mejdanu.}
-{481}{}{A co moje peníze?}
-{490}{}{Ještì ne. Jestli chceš peníze, musíš jít s náma. Nemusíš bojovat, jen se chceme ujistit, e to není past. Dáme ti celkem $300.}
+{480}{}{VÃ½bornÄ›! UrÄitÄ› tam nechaj jenom zÃ¡kladnÃ­ ostrahu. Proti nim mÃ¡me sluÅ¡nou Å¡anci. A aÅ¾ udÄ›lÃ¡me kostel, sejmeme ty ostatnÃ­ na mejdanu.}
+{481}{}{A co moje penÃ­ze?}
+{490}{}{JeÅ¡tÄ› ne. Jestli chceÅ¡ penÃ­ze, musÃ­Å¡ jÃ­t s nÃ¡ma. NemusÃ­Å¡ bojovat, jen se chceme ujistit, Å¾e to nenÃ­ past. DÃ¡me ti celkem $300.}
 {491}{}{Jdeme na to?}
-{492}{}{Dobøe, tak do toho.}
-{493}{}{Dej mi chvilku, musím se pøipravit.}
-{494}{}{V ádném pøípadì. Nech si ty peníze!}
-{500}{}{Fajn, ale musíme se do toho pustit co nejdøív, tak a ti to netrvá moc dlouho. Tohle je naše šance.}
-{501}{}{Dobøe.}
-{510}{}{Nemusíš bojovat. Jsou to snadnı prachy.}
+{492}{}{DobÅ™e, tak do toho.}
+{493}{}{Dej mi chvilku, musÃ­m se pÅ™ipravit.}
+{494}{}{V Å¾Ã¡dnÃ©m pÅ™Ã­padÄ›. Nech si ty penÃ­ze!}
+{500}{}{Fajn, ale musÃ­me se do toho pustit co nejdÅ™Ã­v, tak aÅ¥ ti to netrvÃ¡ moc dlouho. Tohle je naÅ¡e Å¡ance.}
+{501}{}{DobÅ™e.}
+{510}{}{NemusÃ­Å¡ bojovat. Jsou to snadnÃ½ prachy.}
 {511}{}{Tak co, rozmyslel sis to?}
 {512}{}{Tak jdeme.}
-{513}{}{Dobøe, hned se vrátím.}
+{513}{}{DobÅ™e, hned se vrÃ¡tÃ­m.}
 {514}{}{Ne.}
 {515}{}{Uk}
-{520}{}{Kvùli tobì jsme prošvihli naši šanci.}
-{521}{}{Zbabìlèe!}
-{522}{}{Nic nedostaneš.}
-{523}{}{Stejnì to byla urèitì past.}
-{524}{}{Promiò, není na tebe spoleh.}
-{525}{}{Nemùu ti vìøit.}
-{530}{}{Dokázali jsme to!}
-{531}{}{Díky za pomoc.}
-{532}{}{Obzvláš díky tobì!}
-{533}{}{Koneènì jsem Tylerovi oplatila, co udìlal mımu bráchovi.}
-{534}{}{Ještì jednou díky.}
-{540}{}{Teï, kdy je Metzger mrtvej, nevím, co bude dál.}
-{541}{}{Moná bysme to mìli zabalit.}
-{542}{}{U se ti doneslo, e je Metzger mrtvej? Nevím, co budu dìlat.}
-{543}{}{Co bude s Denem? Moná se nìco zlepší.}
-{544}{}{Vlastnì by se to teï mìlo zlepšit.}
+{520}{}{KvÅ¯li tobÄ› jsme proÅ¡vihli naÅ¡i Å¡anci.}
+{521}{}{ZbabÄ›lÄe!}
+{522}{}{Nic nedostaneÅ¡.}
+{523}{}{StejnÄ› to byla urÄitÄ› past.}
+{524}{}{PromiÅˆ, nenÃ­ na tebe spoleh.}
+{525}{}{NemÅ¯Å¾u ti vÄ›Å™it.}
+{530}{}{DokÃ¡zali jsme to!}
+{531}{}{DÃ­ky za pomoc.}
+{532}{}{ObzvlÃ¡Å¡Å¥ dÃ­ky tobÄ›!}
+{533}{}{KoneÄnÄ› jsem Tylerovi oplatila, co udÄ›lal mÃ½mu brÃ¡chovi.}
+{534}{}{JeÅ¡tÄ› jednou dÃ­ky.}
+{540}{}{TeÄ, kdyÅ¾ je Metzger mrtvej, nevÃ­m, co bude dÃ¡l.}
+{541}{}{MoÅ¾nÃ¡ bysme to mÄ›li zabalit.}
+{542}{}{UÅ¾ se ti doneslo, Å¾e je Metzger mrtvej? NevÃ­m, co budu dÄ›lat.}
+{543}{}{Co bude s Denem? MoÅ¾nÃ¡ se nÄ›co zlepÅ¡Ã­.}
+{544}{}{VlastnÄ› by se to teÄ mÄ›lo zlepÅ¡it.}
 {550}{}{Bastarde!}
-{551}{}{Dìvko!}
-{560}{}{Díky. Tady máš prachy a $100 navrch.}
-{570}{}{Tyler a jeho stráe jsou díky tobì mrtví? A jak se máme pøedvést Metzgerovi? Teï u si nás nikdy nenajme. To byla naše jediná šance.}
-{571}{}{Nemáme ádnou práci. Nìkdo sejmul Metzgerovy stráe a on s námi teï nemluví. Myslí si, e jsme to byli my. Ach jo.}
-{572}{}{Omlouvám se.}
-{573}{}{To je blbé.}
-{574}{}{To jsem byl já a hádej, kdo je na øadì teï.}
-{575}{}{Och. Dobøe, nashle.}
+{551}{}{DÄ›vko!}
+{560}{}{DÃ­ky. Tady mÃ¡Å¡ prachy a $100 navrch.}
+{570}{}{Tyler a jeho strÃ¡Å¾e jsou dÃ­ky tobÄ› mrtvÃ­? A jak se mÃ¡me pÅ™edvÃ©st Metzgerovi? TeÄ uÅ¾ si nÃ¡s nikdy nenajme. To byla naÅ¡e jedinÃ¡ Å¡ance.}
+{571}{}{NemÃ¡me Å¾Ã¡dnou prÃ¡ci. NÄ›kdo sejmul Metzgerovy strÃ¡Å¾e a on s nÃ¡mi teÄ nemluvÃ­. MyslÃ­ si, Å¾e jsme to byli my. Ach jo.}
+{572}{}{OmlouvÃ¡m se.}
+{573}{}{To je blbÃ©.}
+{574}{}{To jsem byl jÃ¡ a hÃ¡dej, kdo je na Å™adÄ› teÄ.}
+{575}{}{Och. DobÅ™e, nashle.}
 {576}{}{Uhr?}
 {577}{}{Eh.}
-{590}{}{Øekla jsem ti, e pùjdeme spolu. A protoe to tam nikdo nehlídal, tak to nìkdo vyloupil a Metzger se teï fakt nasral.}
-{591}{}{Øekla jsem ti najdi slabinu, ne sejmi je! A protoe to tam nikdo nehlídal, tak to nìkdo vyloupil a Metzger se teï fakt nasral.}
-{592}{}{Do hajzlu! Øekla jsem ti promluv s Metzgerem a ne sejmi je!  A protoe to tam nikdo nehlídal, tak to nìkdo vyloupil a Metzger se teï fakt nasral.}
-{593}{}{Do hajzlu! Øekla jsem bez bitky! A protoe to tam nikdo nehlídal, tak to nìkdo vyloupil a Metzger se teï fakt nasral.}
-{594}{}{Aha, no, u musím jít.}
-{595}{}{To je ale smùla.}
-{596}{}{Teï jsi na øadì ty, dìvko.}
+{590}{}{Å˜ekla jsem ti, Å¾e pÅ¯jdeme spolu. A protoÅ¾e to tam nikdo nehlÃ­dal, tak to nÄ›kdo vyloupil a Metzger se teÄ fakt nasral.}
+{591}{}{Å˜ekla jsem ti najdi slabinu, ne sejmi je! A protoÅ¾e to tam nikdo nehlÃ­dal, tak to nÄ›kdo vyloupil a Metzger se teÄ fakt nasral.}
+{592}{}{Do hajzlu! Å˜ekla jsem ti promluv s Metzgerem a ne sejmi je!  A protoÅ¾e to tam nikdo nehlÃ­dal, tak to nÄ›kdo vyloupil a Metzger se teÄ fakt nasral.}
+{593}{}{Do hajzlu! Å˜ekla jsem bez bitky! A protoÅ¾e to tam nikdo nehlÃ­dal, tak to nÄ›kdo vyloupil a Metzger se teÄ fakt nasral.}
+{594}{}{Aha, no, uÅ¾ musÃ­m jÃ­t.}
+{595}{}{To je ale smÅ¯la.}
+{596}{}{TeÄ jsi na Å™adÄ› ty, dÄ›vko.}
 {597}{}{Hmph!}
-{598}{}{Ty další.}
-{610}{}{Ty fakt umíš vìci poøádnì podìlat, víš to?}
-{611}{}{U tvoji pomoc nepotøebujeme.}
-{612}{}{Bì otravovat jinam.}
-{613}{}{Snad proti nám Metzger nic nepodnikne.}
-{614}{}{Je mi líto, ale nemùu ti pomoct.}
-{615}{}{Nemùu mluvit. Snaím se vymyslet co teï.}
-{616}{}{Doufám, e si Metzger nemyslí, e za to mùeme my.}
-{617}{}{Co teï budeme dìlat?}
-{618}{}{Radši bysme mìli vypadnout pro pøípad, e by si Metzger myslel, e jsme mu sejmuli stráe.}
-{619}{}{Jaké je to v New Renu? Moná tam zamíøíme... nebo na sever.}
-{650}{}{Dobøe! Jde se na to! Všichni za mnou!}
-{700}{}{Paráda, postarali jsme se o tìch pár stráí v kostele, ale Tyler a jeho kumpáni jsou ještì poøád v Obytnı ètvrti. Teï u by mohli bıt poøádnì oralí, take bysme je mohli zastihnout nepøipravenı. Mùeme to dokonèit?}
-{701}{}{Nejdøív se vyléèím. Øeknu ti, a budu moct.}
-{702}{}{Pojïme.}
-{710}{}{Mùeme jít vyøídit Tylera a jeho partu?}
-{720}{}{Dobøe, ale nechoï moc daleko. Potøebujeme to dokonèit dnes v noci, nebo to udìláme bez tebe.}
-{721}{}{Za chvíli se vrátím.}
-{722}{}{Pojïme.}
-{730}{}{Dokázali jsme to. Nemùu tomu uvìøit! Jdeme zpátky ke kostelu pøevzít vedení. Pøijï si tam pro svou odmìnu.}
+{598}{}{Ty dalÅ¡Ã­.}
+{610}{}{Ty fakt umÃ­Å¡ vÄ›ci poÅ™Ã¡dnÄ› podÄ›lat, vÃ­Å¡ to?}
+{611}{}{UÅ¾ tvoji pomoc nepotÅ™ebujeme.}
+{612}{}{BÄ›Å¾ otravovat jinam.}
+{613}{}{Snad proti nÃ¡m Metzger nic nepodnikne.}
+{614}{}{Je mi lÃ­to, ale nemÅ¯Å¾u ti pomoct.}
+{615}{}{NemÅ¯Å¾u mluvit. SnaÅ¾Ã­m se vymyslet co teÄ.}
+{616}{}{DoufÃ¡m, Å¾e si Metzger nemyslÃ­, Å¾e za to mÅ¯Å¾eme my.}
+{617}{}{Co teÄ budeme dÄ›lat?}
+{618}{}{RadÅ¡i bysme mÄ›li vypadnout pro pÅ™Ã­pad, Å¾e by si Metzger myslel, Å¾e jsme mu sejmuli strÃ¡Å¾e.}
+{619}{}{JakÃ© je to v New Renu? MoÅ¾nÃ¡ tam zamÃ­Å™Ã­me... nebo na sever.}
+{650}{}{DobÅ™e! Jde se na to! VÅ¡ichni za mnou!}
+{700}{}{ParÃ¡da, postarali jsme se o tÄ›ch pÃ¡r strÃ¡Å¾Ã­ v kostele, ale Tyler a jeho kumpÃ¡ni jsou jeÅ¡tÄ› poÅ™Ã¡d v ObytnÃ½ Ätvrti. TeÄ uÅ¾ by mohli bÃ½t poÅ™Ã¡dnÄ› oÅ¾ralÃ­, takÅ¾e bysme je mohli zastihnout nepÅ™ipravenÃ½. MÅ¯Å¾eme to dokonÄit?}
+{701}{}{NejdÅ™Ã­v se vylÃ©ÄÃ­m. Å˜eknu ti, aÅ¾ budu moct.}
+{702}{}{PojÄme.}
+{710}{}{MÅ¯Å¾eme jÃ­t vyÅ™Ã­dit Tylera a jeho partu?}
+{720}{}{DobÅ™e, ale nechoÄ moc daleko. PotÅ™ebujeme to dokonÄit dnes v noci, nebo to udÄ›lÃ¡me bez tebe.}
+{721}{}{Za chvÃ­li se vrÃ¡tÃ­m.}
+{722}{}{PojÄme.}
+{730}{}{DokÃ¡zali jsme to. NemÅ¯Å¾u tomu uvÄ›Å™it! Jdeme zpÃ¡tky ke kostelu pÅ™evzÃ­t vedenÃ­. PÅ™ijÄ si tam pro svou odmÄ›nu.}

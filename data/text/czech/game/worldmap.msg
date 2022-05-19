@@ -1,57 +1,57 @@
 {200}{}{Most}
 {201}{}{Vesnice}
-{202}{}{- Vstup do chrámu}
-{203}{}{- Lovecké území}
+{202}{}{- Vstup do chrÃ¡mu}
+{203}{}{- LoveckÃ© ÃºzemÃ­}
 {204}{}{Vnitrek chramu}
-{210}{}{- Západní èást}
-{211}{}{- Vıchodní ètvr}
+{210}{}{- ZÃ¡padnÃ­ ÄÃ¡st}
+{211}{}{- VÃ½chodnÃ­ ÄtvrÅ¥}
 {212}{}{Obytna ctvrt}
 {220}{}{Centrum}
 {221}{}{Lovecka ctvrt}
-{222}{}{- Krysí jeskynì}
-{223}{}{- Lesík}
+{222}{}{- KrysÃ­ jeskynÄ›}
+{223}{}{- LesÃ­k}
 {224}{}{- Pastviny}
-{225}{}{- Kaòon}
-{230}{}{- Hlavní ulice}
+{225}{}{- KaÅˆon}
+{230}{}{- HlavnÃ­ ulice}
 {231}{}{- Hostinec}
 {232}{}{Pastviny Grishamovych brahmin}
 {233}{}{- Farrelova zahrada}
-{234}{}{- Jeskynì pod záchodem}
-{235}{}{- Mìstská studna}
-{240}{}{- Pøedmìstí}
+{234}{}{- JeskynÄ› pod zÃ¡chodem}
+{235}{}{- MÄ›stskÃ¡ studna}
+{240}{}{- PÅ™edmÄ›stÃ­}
 {241}{}{Vnitrni mesto}
 {242}{}{Radnice}
 {243}{}{Vault}
 {250}{}{- Osada}
-{251}{}{- Elektrárna}
-{252}{}{- Smetištì}
-{253}{}{- Podzemní chodby}
+{251}{}{- ElektrÃ¡rna}
+{252}{}{- SmetiÅ¡tÄ›}
+{253}{}{- PodzemnÃ­ chodby}
 {260}{}{Centrum}
-{261}{}{- Obytná ètvr}
+{261}{}{- ObytnÃ¡ ÄtvrÅ¥}
 {270}{}{- Ulice Panen}
-{271}{}{- Druhá ulice}
-{272}{}{- Obchodní ètvr}
-{273}{}{- Vıchodní ètvr}
-{274}{}{- Èerpací stanice}
-{275}{}{- Boxerskı ring}
-{276}{}{- Hangáry vertibirdù}
-{280}{}{- Bitevní pláò}
+{271}{}{- DruhÃ¡ ulice}
+{272}{}{- ObchodnÃ­ ÄtvrÅ¥}
+{273}{}{- VÃ½chodnÃ­ ÄtvrÅ¥}
+{274}{}{- ÄŒerpacÃ­ stanice}
+{275}{}{- BoxerskÃ½ ring}
+{276}{}{- HangÃ¡ry vertibirdÅ¯}
+{280}{}{- BitevnÃ­ plÃ¡Åˆ}
 {281}{}{Sklad 1.patro: Ubikace}
 {282}{}{Sklad 2.patro: Sklady a dilny}
 {283}{}{Sklad 3.patro: Kyberneticka laborator}
 {284}{}{Sklad 4.patro: Biologicka laborator}
 {290}{}{Squat}
-{291}{}{- Squatteøi}
-{292}{}{- Squatteøi}
+{291}{}{- SquatteÅ™i}
+{292}{}{- SquatteÅ™i}
 {293}{}{Vaultu 15}
-{294}{}{- Vıchodní vstup}
-{300}{}{- Trištì}
+{294}{}{- VÃ½chodnÃ­ vstup}
+{300}{}{- TrÅ¾iÅ¡tÄ›}
 {301}{}{Kongres}
 {302}{}{Centrum}
 {303}{}{- Budova kongresu}
-{304}{}{- Westinùv ranè}
+{304}{}{- WestinÅ¯v ranÄ}
 {305}{}{- Pastviny}
-{310}{}{- Vchod do jeskynì}
+{310}{}{- Vchod do jeskynÄ›}
 {311}{}{Vault 13}
 {320}{}{Vchod}
 {321}{}{1. patro}
@@ -60,24 +60,24 @@
 {324}{}{4. patro}
 {330}{}{Centrum}
 {331}{}{Dul Velky Wanamingo}
-{332}{}{Dùl Wanamingo}
-{333}{}{- Hornickı tábor}
+{332}{}{DÅ¯l Wanamingo}
+{333}{}{- HornickÃ½ tÃ¡bor}
 {334}{}{Podzemni tunely}
 {335}{}{Dulni chodby}
-{340}{}{- Èínská ètvr}
-{341}{}{- Pøístav}
+{340}{}{- ÄŒÃ­nskÃ¡ ÄtvrÅ¥}
+{341}{}{- PÅ™Ã­stav}
 {342}{}{Cisterna}
 {343}{}{Pristavaci draha}
-{344}{}{- Vnitøek raketoplánu}
+{344}{}{- VnitÅ™ek raketoplÃ¡nu}
 {345}{}{Zakladna Hubologistu}
-{346}{}{- Chrám Shi}
-{350}{}{- Èerpací stanice}
+{346}{}{- ChrÃ¡m Shi}
+{350}{}{- ÄŒerpacÃ­ stanice}
 {351}{}{Hlavni brana}
-{360}{}{- Pøístav}
+{360}{}{- PÅ™Ã­stav}
 {361}{}{Vezeni}
 {362}{}{Finalni Boss}
-{363}{}{- Doupì nájezdníkù}
-{364}{}{- Prezidentské prostory}
+{363}{}{- DoupÄ› nÃ¡jezdnÃ­kÅ¯}
+{364}{}{- PrezidentskÃ© prostory}
 {365}{}{- Reaktor}
 {366}{}{Mistnost s nastrahami}
 {370}{}{Vchod}
@@ -89,35 +89,35 @@
 {393}{}{- 1. patro}
 {394}{}{- 2. patro}
 {395}{}{- 3. patro}
-{396}{}{Skladištì}
+{396}{}{SkladiÅ¡tÄ›}
 {400}{}{Farma duchu}
 {401}{}{Podzemi}
-{402}{}{- Podzemní jezero}
+{402}{}{- PodzemnÃ­ jezero}
 {410}{}{Vybite auto}
-{420}{}{- Zøícenı most}
+{420}{}{- ZÅ™Ã­cenÃ½ most}
 {430}{}{Toxicke jeskyne}
 {440}{}{Tabor otroku z Denu}
 {450}{}{Studna}
 {451}{}{Sraz}
 {452}{}{Vstup do jeskyne}
-{460}{}{Pouš}
-{461}{}{Pouš}
-{462}{}{Pouš}
-{463}{}{Pouš}
-{464}{}{Pouš}
-{465}{}{Pouš}
-{466}{}{Pouš}
-{467}{}{Pouš}
-{468}{}{Pouš}
-{469}{}{Pouš}
+{460}{}{PouÅ¡Å¥}
+{461}{}{PouÅ¡Å¥}
+{462}{}{PouÅ¡Å¥}
+{463}{}{PouÅ¡Å¥}
+{464}{}{PouÅ¡Å¥}
+{465}{}{PouÅ¡Å¥}
+{466}{}{PouÅ¡Å¥}
+{467}{}{PouÅ¡Å¥}
+{468}{}{PouÅ¡Å¥}
+{469}{}{PouÅ¡Å¥}
 {470}{}{Hory}
-{471}{}{- Jeskynì}
+{471}{}{- JeskynÄ›}
 {472}{}{Hory}
-{473}{}{- Jeskynì}
-{474}{}{- Jeskynì}
-{475}{}{- Jeskynì}
-{476}{}{- Jeskynì}
-{477}{}{- Jeskynì}
+{473}{}{- JeskynÄ›}
+{474}{}{- JeskynÄ›}
+{475}{}{- JeskynÄ›}
+{476}{}{- JeskynÄ›}
+{477}{}{- JeskynÄ›}
 {478}{}{Hory}
 {479}{}{Hory}
 {480}{}{Zriceniny mesta}
@@ -128,1786 +128,1786 @@
 {485}{}{Zriceniny mesta}
 {486}{}{Zriceniny mesta}
 {487}{}{Zriceniny mesta}
-{490}{}{- Pobøeí}
-{491}{}{- Pobøeí}
-{492}{}{- Pobøeí}
-{493}{}{- Pobøeí}
-{494}{}{- Pobøeí}
-{495}{}{- Pobøeí}
-{496}{}{- Pobøeí}
-{497}{}{- Pobøeí}
-{498}{}{- Pobøeí}
-{499}{}{- Pobøeí}
+{490}{}{- PobÅ™eÅ¾Ã­}
+{491}{}{- PobÅ™eÅ¾Ã­}
+{492}{}{- PobÅ™eÅ¾Ã­}
+{493}{}{- PobÅ™eÅ¾Ã­}
+{494}{}{- PobÅ™eÅ¾Ã­}
+{495}{}{- PobÅ™eÅ¾Ã­}
+{496}{}{- PobÅ™eÅ¾Ã­}
+{497}{}{- PobÅ™eÅ¾Ã­}
+{498}{}{- PobÅ™eÅ¾Ã­}
+{499}{}{- PobÅ™eÅ¾Ã­}
 {500}{}{Golgota}
 {510}{}{Zriceny vorvan}
-{520}{}{Plechovı Drevorubec}
-{521}{}{Kamenná hlava}
+{520}{}{PlechovÃ½ Drevorubec}
+{521}{}{KamennÃ¡ hlava}
 {530}{}{Misto havarie}
-{540}{}{Pouš}
+{540}{}{PouÅ¡Å¥}
 {550}{}{Most}
 {560}{}{Kavarna "U ztracenych snu"}
-{570}{}{Pouš}
-{580}{}{- Jeskynì}
+{570}{}{PouÅ¡Å¥}
+{580}{}{- JeskynÄ›}
 {590}{}{Strazce vecnosti}
 {600}{}{Skladka toxickeho odpadu}
-{610}{}{Pouš}
+{610}{}{PouÅ¡Å¥}
 {620}{}{Stado brahmin}
-{630}{}{Pouš}
+{630}{}{PouÅ¡Å¥}
 {631}{}{Hory}
 {640}{}{Jeskyne Vaultu 13}
-{650}{}{- Jeskynì}
-{660}{}{- Pobøeí}
-{661}{}{- Pobøeí}
-{662}{}{Pouš}
-{663}{}{Pouš}
-{664}{}{Pouš}
+{650}{}{- JeskynÄ›}
+{660}{}{- PobÅ™eÅ¾Ã­}
+{661}{}{- PobÅ™eÅ¾Ã­}
+{662}{}{PouÅ¡Å¥}
+{663}{}{PouÅ¡Å¥}
+{664}{}{PouÅ¡Å¥}
 {665}{}{Hory}
 {666}{}{Hory}
-{667}{}{Pouš}
-{668}{}{Pouš}
+{667}{}{PouÅ¡Å¥}
+{668}{}{PouÅ¡Å¥}
 {670}{}{Staje}
 {680}{}{Vesnice}
 {690}{}{Kmen Umbra}
 {700}{}{Kmen Umbra}
 {710}{}{Kmen Umbra}
-{1000}{}{Pouš}
+{1000}{}{PouÅ¡Å¥}
 {1001}{}{Hory}
-{1002}{}{Mìsto}
-{1003}{}{Pobøeí}
-{1004}{}{Neprozkoumané místo}
-{1500}{}{Získal jsi 10.000 zkušenostních bodù!}
+{1002}{}{MÄ›sto}
+{1003}{}{PobÅ™eÅ¾Ã­}
+{1004}{}{NeprozkoumanÃ© mÃ­sto}
+{1500}{}{ZÃ­skal jsi 10.000 zkuÅ¡enostnÃ­ch bodÅ¯!}
 {1501}{}{Ruiny}
-{1502}{}{Baterie auta je vybitá.}
-{1503}{}{Toto je auto. Nevypadá, e by bylo funkèní.}
-{2998}{}{Setkáváš se:}
-{2999}{}{Chceš se setkat}
-{3000}{}{s tlupou nájezdníkù.}
-{3001}{}{se skupinou radškorpionù.}
-{3002}{}{s obøími krysami.}
+{1502}{}{Baterie auta je vybitÃ¡.}
+{1503}{}{Toto je auto. NevypadÃ¡, Å¾e by bylo funkÄnÃ­.}
+{2998}{}{SetkÃ¡vÃ¡Å¡ se:}
+{2999}{}{ChceÅ¡ se setkat}
+{3000}{}{s tlupou nÃ¡jezdnÃ­kÅ¯.}
+{3001}{}{se skupinou radÅ¡korpionÅ¯.}
+{3002}{}{s obÅ™Ã­mi krysami.}
 {3003}{}{s kupeckou karavanou.}
-{3004}{}{<s nìèím zvláštním>}
-{3050}{}{s tlupou nájezdníkù.}
-{3051}{}{s nìkolika mantisy.}
-{3052}{}{se skupinou geckonù.}
-{3053}{}{se skupinou krtèích potkanù.}
-{3054}{}{se skupinou radškorpionù.}
-{3055}{}{se skupinou obøích krys.}
+{3004}{}{<s nÄ›ÄÃ­m zvlÃ¡Å¡tnÃ­m>}
+{3050}{}{s tlupou nÃ¡jezdnÃ­kÅ¯.}
+{3051}{}{s nÄ›kolika mantisy.}
+{3052}{}{se skupinou geckonÅ¯.}
+{3053}{}{se skupinou krtÄÃ­ch potkanÅ¯.}
+{3054}{}{se skupinou radÅ¡korpionÅ¯.}
+{3055}{}{se skupinou obÅ™Ã­ch krys.}
 {3056}{}{s kupeckou karavanou.}
-{3057}{}{<s nìèím zvláštním>}
-{3100}{}{s tlupou nájezdníkù.}
-{3101}{}{se skupinou radškorpionù.}
-{3102}{}{se skupinou obøích krys.}
+{3057}{}{<s nÄ›ÄÃ­m zvlÃ¡Å¡tnÃ­m>}
+{3100}{}{s tlupou nÃ¡jezdnÃ­kÅ¯.}
+{3101}{}{se skupinou radÅ¡korpionÅ¯.}
+{3102}{}{se skupinou obÅ™Ã­ch krys.}
 {3103}{}{s kupeckou karavanou.}
-{3104}{}{<s nìèím zvláštním>}
-{3150}{}{s tlupou nájezdníkù.}
-{3200}{}{s tlupou nájezdníkù.}
-{3250}{}{s tlupou nájezdníkù.}
-{3300}{}{s tlupou váleèníkù.}
-{3301}{}{se skupinou kanibalù.}
-{3302}{}{se skupinou masoravıch rostlin a støíbrnımi geckony.}
-{3303}{}{se skupinou støíbrnıch geckonù.}
-{3304}{}{s nìkolika lovci odmìn.}
-{3305}{}{s nìkolika lovci odmìn.}
-{3306}{}{s nìkolika lovci odmìn.}
-{3307}{}{s nìkolika lovci odmìn.}
-{3308}{}{s nìkolika lovci odmìn.}
-{3309}{}{s nìkolika lovci odmìn.}
-{3310}{}{s nìkolika lovci odmìn.}
-{3311}{}{s nìkolika lovci odmìn.}
-{3312}{}{s tlupou darebákù vedenıch jedním z Mortonovıch bratrù.}
-{3313}{}{se skupinou radškorpionù.}
-{3314}{}{se skupinou masoravıch rostlin.}
-{3315}{}{se skupinou praseèích potkanù.}
+{3104}{}{<s nÄ›ÄÃ­m zvlÃ¡Å¡tnÃ­m>}
+{3150}{}{s tlupou nÃ¡jezdnÃ­kÅ¯.}
+{3200}{}{s tlupou nÃ¡jezdnÃ­kÅ¯.}
+{3250}{}{s tlupou nÃ¡jezdnÃ­kÅ¯.}
+{3300}{}{s tlupou vÃ¡leÄnÃ­kÅ¯.}
+{3301}{}{se skupinou kanibalÅ¯.}
+{3302}{}{se skupinou masoÅ¾ravÃ½ch rostlin a stÅ™Ã­brnÃ½mi geckony.}
+{3303}{}{se skupinou stÅ™Ã­brnÃ½ch geckonÅ¯.}
+{3304}{}{s nÄ›kolika lovci odmÄ›n.}
+{3305}{}{s nÄ›kolika lovci odmÄ›n.}
+{3306}{}{s nÄ›kolika lovci odmÄ›n.}
+{3307}{}{s nÄ›kolika lovci odmÄ›n.}
+{3308}{}{s nÄ›kolika lovci odmÄ›n.}
+{3309}{}{s nÄ›kolika lovci odmÄ›n.}
+{3310}{}{s nÄ›kolika lovci odmÄ›n.}
+{3311}{}{s nÄ›kolika lovci odmÄ›n.}
+{3312}{}{s tlupou darebÃ¡kÅ¯ vedenÃ½ch jednÃ­m z MortonovÃ½ch bratrÅ¯.}
+{3313}{}{se skupinou radÅ¡korpionÅ¯.}
+{3314}{}{se skupinou masoÅ¾ravÃ½ch rostlin.}
+{3315}{}{se skupinou praseÄÃ­ch potkanÅ¯.}
 {3316}{}{se skupinou krys.}
-{3317}{}{se skupinou lovcù bojujících s kanibaly.}
-{3318}{}{se skupinou mravencù.}
-{3319}{}{se skupinou lovcù bojujících s nìkolika radškorpiony.}
-{3320}{}{se skupinou praseèích potkanù.}
-{3321}{}{s malou skupinou radškorpionù.}
-{3322}{}{s malou skupinou mravencù.}
-{3323}{}{se skupinou lovcù.}
-{3324}{}{se skupinou nomádù.}
-{3325}{}{s muem hlídajícím most.}
-{3326}{}{s rytíøi krále Artuše bojujícími s krysou.}
-{3327}{}{s tlupou rozzuøenıch psancù.}
-{3350}{}{se skládkou toxickıch odpadù.}
-{3351}{}{s osamìlım psem.}
-{3352}{}{se stádem brahmín.}
-{3353}{}{s tlupou váleèníkù.}
-{3354}{}{s nìkolika lovci odmìn.}
-{3355}{}{s nìkolika lovci odmìn.}
-{3356}{}{s nìkolika lovci odmìn.}
-{3357}{}{s nìkolika lovci odmìn.}
-{3358}{}{s nìkolika lovci odmìn.}
-{3359}{}{s nìkolika lovci odmìn.}
-{3360}{}{s nìkolika lovci odmìn.}
-{3361}{}{s nìkolika lovci odmìn.}
-{3362}{}{s tlupou darebákù vedenıch jedním z Mortonovıch bratrù.}
-{3363}{}{se skupinou kanibalù.}
-{3364}{}{se skupinou masoravıch rostlin a støíbrnımi geckony.}
-{3365}{}{se skupinou støíbrnıch geckonù.}
-{3366}{}{se skupinou radškorpionù.}
-{3367}{}{se skupinou masoravıch rostlin.}
-{3368}{}{se skupinou praseèích potkanù.}
+{3317}{}{se skupinou lovcÅ¯ bojujÃ­cÃ­ch s kanibaly.}
+{3318}{}{se skupinou mravencÅ¯.}
+{3319}{}{se skupinou lovcÅ¯ bojujÃ­cÃ­ch s nÄ›kolika radÅ¡korpiony.}
+{3320}{}{se skupinou praseÄÃ­ch potkanÅ¯.}
+{3321}{}{s malou skupinou radÅ¡korpionÅ¯.}
+{3322}{}{s malou skupinou mravencÅ¯.}
+{3323}{}{se skupinou lovcÅ¯.}
+{3324}{}{se skupinou nomÃ¡dÅ¯.}
+{3325}{}{s muÅ¾em hlÃ­dajÃ­cÃ­m most.}
+{3326}{}{s rytÃ­Å™i krÃ¡le ArtuÅ¡e bojujÃ­cÃ­mi s krysou.}
+{3327}{}{s tlupou rozzuÅ™enÃ½ch psancÅ¯.}
+{3350}{}{se sklÃ¡dkou toxickÃ½ch odpadÅ¯.}
+{3351}{}{s osamÄ›lÃ½m psem.}
+{3352}{}{se stÃ¡dem brahmÃ­n.}
+{3353}{}{s tlupou vÃ¡leÄnÃ­kÅ¯.}
+{3354}{}{s nÄ›kolika lovci odmÄ›n.}
+{3355}{}{s nÄ›kolika lovci odmÄ›n.}
+{3356}{}{s nÄ›kolika lovci odmÄ›n.}
+{3357}{}{s nÄ›kolika lovci odmÄ›n.}
+{3358}{}{s nÄ›kolika lovci odmÄ›n.}
+{3359}{}{s nÄ›kolika lovci odmÄ›n.}
+{3360}{}{s nÄ›kolika lovci odmÄ›n.}
+{3361}{}{s nÄ›kolika lovci odmÄ›n.}
+{3362}{}{s tlupou darebÃ¡kÅ¯ vedenÃ½ch jednÃ­m z MortonovÃ½ch bratrÅ¯.}
+{3363}{}{se skupinou kanibalÅ¯.}
+{3364}{}{se skupinou masoÅ¾ravÃ½ch rostlin a stÅ™Ã­brnÃ½mi geckony.}
+{3365}{}{se skupinou stÅ™Ã­brnÃ½ch geckonÅ¯.}
+{3366}{}{se skupinou radÅ¡korpionÅ¯.}
+{3367}{}{se skupinou masoÅ¾ravÃ½ch rostlin.}
+{3368}{}{se skupinou praseÄÃ­ch potkanÅ¯.}
 {3369}{}{se skupinou krys.}
-{3370}{}{se skupinou lovcù bojujících s kanibaly.}
-{3371}{}{se skupinou mravencù.}
-{3372}{}{se skupinou lovcù bojujících s nìkolika radškorpiony.}
-{3373}{}{se skupinou praseèích potkanù.}
-{3374}{}{s malou skupinou radškorpionù.}
-{3375}{}{s malou skupinou mravencù.}
-{3376}{}{se skupinou lovcù.}
-{3377}{}{se skupinou nomádù.}
-{3378}{}{s pozùstatky vorvanì.}
-{3379}{}{s obøí kamennou hlavou.}
-{3380}{}{s vrakem kosmické lodi.}
-{3381}{}{s portálem ke Stráci Vìènosti.}
-{3382}{}{s rytíøi krále Artuše.}
-{3383}{}{s Plechovım Døevorubcem.}
-{3384}{}{se špinavımi vesnièany pronásledujícími spammera.}
-{3385}{}{s tlupou rozzuøenıch psancù.}
-{3400}{}{s tlupou váleèníkù.}
-{3401}{}{se skupinou kanibalù.}
-{3402}{}{se skupinou masoravıch rostlin a støíbrnımi geckony.}
-{3403}{}{se skupinou støíbrnıch geckonù.}
-{3404}{}{s nìkolika lovci odmìn.}
-{3405}{}{s nìkolika lovci odmìn.}
-{3406}{}{s nìkolika lovci odmìn.}
-{3407}{}{s nìkolika lovci odmìn.}
-{3408}{}{s nìkolika lovci odmìn.}
-{3409}{}{s nìkolika lovci odmìn.}
-{3410}{}{s nìkolika lovci odmìn.}
-{3411}{}{s nìkolika lovci odmìn.}
-{3412}{}{s tlupou darebákù vedenıch jedním z Mortonovıch bratrù.}
-{3413}{}{se skupinou radškorpionù.}
-{3414}{}{se skupinou masoravıch rostlin.}
-{3415}{}{se skupinou praseèích potkanù.}
+{3370}{}{se skupinou lovcÅ¯ bojujÃ­cÃ­ch s kanibaly.}
+{3371}{}{se skupinou mravencÅ¯.}
+{3372}{}{se skupinou lovcÅ¯ bojujÃ­cÃ­ch s nÄ›kolika radÅ¡korpiony.}
+{3373}{}{se skupinou praseÄÃ­ch potkanÅ¯.}
+{3374}{}{s malou skupinou radÅ¡korpionÅ¯.}
+{3375}{}{s malou skupinou mravencÅ¯.}
+{3376}{}{se skupinou lovcÅ¯.}
+{3377}{}{se skupinou nomÃ¡dÅ¯.}
+{3378}{}{s pozÅ¯statky vorvanÄ›.}
+{3379}{}{s obÅ™Ã­ kamennou hlavou.}
+{3380}{}{s vrakem kosmickÃ© lodi.}
+{3381}{}{s portÃ¡lem ke StrÃ¡Å¾ci VÄ›Änosti.}
+{3382}{}{s rytÃ­Å™i krÃ¡le ArtuÅ¡e.}
+{3383}{}{s PlechovÃ½m DÅ™evorubcem.}
+{3384}{}{se Å¡pinavÃ½mi vesniÄany pronÃ¡sledujÃ­cÃ­mi spammera.}
+{3385}{}{s tlupou rozzuÅ™enÃ½ch psancÅ¯.}
+{3400}{}{s tlupou vÃ¡leÄnÃ­kÅ¯.}
+{3401}{}{se skupinou kanibalÅ¯.}
+{3402}{}{se skupinou masoÅ¾ravÃ½ch rostlin a stÅ™Ã­brnÃ½mi geckony.}
+{3403}{}{se skupinou stÅ™Ã­brnÃ½ch geckonÅ¯.}
+{3404}{}{s nÄ›kolika lovci odmÄ›n.}
+{3405}{}{s nÄ›kolika lovci odmÄ›n.}
+{3406}{}{s nÄ›kolika lovci odmÄ›n.}
+{3407}{}{s nÄ›kolika lovci odmÄ›n.}
+{3408}{}{s nÄ›kolika lovci odmÄ›n.}
+{3409}{}{s nÄ›kolika lovci odmÄ›n.}
+{3410}{}{s nÄ›kolika lovci odmÄ›n.}
+{3411}{}{s nÄ›kolika lovci odmÄ›n.}
+{3412}{}{s tlupou darebÃ¡kÅ¯ vedenÃ½ch jednÃ­m z MortonovÃ½ch bratrÅ¯.}
+{3413}{}{se skupinou radÅ¡korpionÅ¯.}
+{3414}{}{se skupinou masoÅ¾ravÃ½ch rostlin.}
+{3415}{}{se skupinou praseÄÃ­ch potkanÅ¯.}
 {3416}{}{se skupinou krys.}
-{3417}{}{se skupinou lovcù bojujících s kanibaly.}
-{3418}{}{se skupinou mravencù.}
-{3419}{}{se skupinou lovcù bojujících s nìkolika radškorpiony.}
-{3420}{}{se skupinou praseèích potkanù.}
-{3421}{}{s malou skupinou radškorpionù.}
-{3422}{}{s malou skupinou mravencù.}
-{3423}{}{se skupinou lovcù.}
-{3424}{}{se skupinou nomádù.}
-{3425}{}{s tlupou rozzuøenıch psancù.}
-{3450}{}{se skládkou toxickıch odpadù.}
-{3451}{}{s osamìlım psem.}
-{3452}{}{se stádem brahmín.}
-{3453}{}{s tlupou psancù.}
-{3454}{}{s nìkolika lovci odmìn.}
-{3455}{}{s nìkolika lovci odmìn.}
-{3456}{}{s nìkolika lovci odmìn.}
-{3457}{}{s nìkolika lovci odmìn.}
-{3458}{}{s nìkolika lovci odmìn.}
-{3459}{}{s nìkolika lovci odmìn.}
-{3460}{}{s nìkolika lovci odmìn.}
-{3461}{}{s nìkolika lovci odmìn.}
-{3462}{}{s tlupou darebákù vedenıch jedním z Mortonovıch bratrù.}
-{3463}{}{se skupinou pobonıch lidí.}
-{3464}{}{s geckony skrıvajícími se mezi masoravımi rostlinami.}
-{3465}{}{s nìkolika geckony.}
-{3466}{}{s radškorpiony skrıvajícími se mezi masoravımi rostlinami.}
-{3467}{}{s nìkolika masoravımi rostlinami.}
-{3468}{}{s rodinou radškorpionù.}
-{3469}{}{se skupinou krtèích potkanù.}
-{3470}{}{se skupinou pobonıch lidí bojujícími s tlupou váleèníkù.}
-{3471}{}{s tlupou nomádù.}
-{3472}{}{s pozùstatky vorvanì.}
-{3473}{}{s obøí kamennou hlavou.}
-{3474}{}{s vrakem kosmické lodi.}
-{3475}{}{s portálem ke Stráci Vìènosti.}
-{3476}{}{s rytíøi krále Artuše.}
-{3477}{}{s Plechovım Døevorubcem.}
-{3478}{}{se špinavımi vesnièany pronásledujícími spammera.}
-{3479}{}{s tlupou rozzuøenıch psancù.}
-{3500}{}{s tlupou psancù.}
-{3501}{}{se skupinou pobonıch lidí.}
-{3502}{}{s nìkolika lovci odmìn.}
-{3503}{}{s nìkolika lovci odmìn.}
-{3504}{}{s nìkolika lovci odmìn.}
-{3505}{}{s nìkolika lovci odmìn.}
-{3506}{}{s nìkolika lovci odmìn.}
-{3507}{}{s nìkolika lovci odmìn.}
-{3508}{}{s nìkolika lovci odmìn.}
-{3509}{}{s nìkolika lovci odmìn.}
-{3510}{}{s tlupou darebákù vedenıch jedním z Mortonovıch bratrù.}
-{3511}{}{s radškorpiony skrıvajícími se mezi masoravımi rostlinami.}
-{3512}{}{s nìkolika geckony.}
-{3513}{}{s radškorpiony skrıvajícími se mezi masoravımi rostlinami.}
-{3514}{}{s nìkolika masoravımi rostlinami.}
-{3515}{}{s rodinou radškorpionù.}
-{3516}{}{se skupinou krtèích potkanù.}
-{3517}{}{se skupinou pobonıch lidí bojujícími s tlupou váleèníkù.}
-{3518}{}{s tlupou nomádù.}
-{3519}{}{s muem hlídajícím most.}
-{3520}{}{s rytíøi krále Artuše bojujícími s krysou.}
-{3521}{}{s tlupou rozzuøenıch psancù.}
-{3550}{}{se skládkou toxickıch odpadù.}
-{3551}{}{s osamìlım psem.}
-{3552}{}{se stádem brahmín.}
-{3553}{}{se smeèkou zlatıch geckonù a rodinou radškorpionù.}
-{3554}{}{s nìkolika bandity.}
-{3555}{}{se skupinou bezdomovcù.}
-{3556}{}{se smeèkou zlatıch geckonù.}
-{3557}{}{s nìkolika lovci odmìn.}
-{3558}{}{s nìkolika lovci odmìn.}
-{3559}{}{s nìkolika lovci odmìn.}
-{3560}{}{s nìkolika lovci odmìn.}
-{3561}{}{s nìkolika lovci odmìn.}
-{3562}{}{s nìkolika lovci odmìn.}
-{3563}{}{s nìkolika lovci odmìn.}
-{3564}{}{s nìkolika lovci odmìn.}
-{3565}{}{s tlupou darebákù vedenıch jedním z Mortonovıch bratrù.}
-{3566}{}{s rodinou radškorpionù.}
-{3567}{}{s nìkolika masoravımi rostlinami.}
-{3568}{}{s nìkolika bandity napadenımi smeèkou zlatıch geckonù.}
-{3569}{}{s nìkolika farmáøi bránícími se smeèce geckonù.}
-{3570}{}{s nìkolika farmáøi bránícími se smeèce zlatıch geckonù.}
-{3571}{}{s lovci bojujícími se zlatımi geckony.}
-{3572}{}{s nìkolika lovci napadenımi tlupou banditù.}
-{3573}{}{se skupinou lovcù lovící geckony.}
-{3574}{}{s nìkolika bezdomovci pøepadenımi skupinou banditù.}
-{3575}{}{s nìkolika bezdomovci vradícími farmáøe.}
-{3576}{}{s nìkolika bandity útoèícími na farmáøe.}
-{3577}{}{s nìkolika farmáøi bojujícími s radškorpiony.}
-{3578}{}{s lovci bojujícími s radškorpiony.}
-{3579}{}{s lovci bojujícími s praseèími potkany.}
-{3580}{}{s farmáøi likvidujícími pøemnoené praseèí potkany.}
-{3581}{}{s nìkolika farmáøi.}
-{3582}{}{se skupinou lovcù.}
-{3583}{}{s pozùstatky vorvanì.}
-{3584}{}{s obøí kamennou hlavou.}
-{3585}{}{s vrakem kosmické lodi.}
-{3586}{}{s portálem ke Stráci Vìènosti.}
-{3587}{}{s rytíøi krále Artuše.}
-{3588}{}{s Plechovım Døevorubcem.}
-{3589}{}{se špinavımi vesnièany pronásledujícími spammera.}
-{3600}{}{se smeèkou zlatıch geckonù a rodinou radškorpionù.}
-{3601}{}{s nìkolika bandity.}
-{3602}{}{se skupinou bezdomovcù.}
-{3603}{}{se smeèkou zlatıch geckonù.}
-{3604}{}{s nìkolika lovci odmìn.}
-{3605}{}{s nìkolika lovci odmìn.}
-{3606}{}{s nìkolika lovci odmìn.}
-{3607}{}{s nìkolika lovci odmìn.}
-{3608}{}{s nìkolika lovci odmìn.}
-{3609}{}{s nìkolika lovci odmìn.}
-{3610}{}{s nìkolika lovci odmìn.}
-{3611}{}{s nìkolika lovci odmìn.}
-{3612}{}{s tlupou darebákù vedenıch jedním z Mortonovıch bratrù.}
-{3613}{}{s rodinou radškorpionù.}
-{3614}{}{s nìkolika masoravımi rostlinami.}
-{3615}{}{s nìkolika bandity napadenımi smeèkou zlatıch geckonù.}
-{3616}{}{s nìkolika farmáøi bránícími se smeèce geckonù.}
-{3617}{}{s nìkolika farmáøi bránícími se smeèce zlatıch geckonù.}
-{3618}{}{s lovci bojujícími se zlatımi geckony.}
-{3619}{}{s nìkolika lovci napadenımi tlupou banditù.}
-{3620}{}{se skupinou lovcù lovící geckony.}
-{3621}{}{s nìkolika bezdomovci pøepadenımi skupinou banditù.}
-{3622}{}{s nìkolika bezdomovci vradícími farmáøe.}
-{3623}{}{s nìkolika bandity útoèícími na farmáøe.}
-{3624}{}{s nìkolika farmáøi bojujícími s radškorpiony.}
-{3625}{}{s lovci bojujícími s radškorpiony.}
-{3626}{}{s lovci bojujícími s praseèími potkany.}
-{3627}{}{s farmáøi likvidujícími pøemnoené praseèí potkany.}
-{3628}{}{s nìkolika farmáøi.}
-{3629}{}{se skupinou lovcù.}
-{3630}{}{s muem hlídajícím most.}
-{3631}{}{s rytíøi krále Artuše bojujícími s krysou.}
-{3632}{}{s tlupou rozzuøenıch psancù.}
-{3650}{}{se skládkou toxickıch odpadù.}
-{3651}{}{s osamìlım psem.}
-{3652}{}{se stádem brahmín.}
-{3653}{}{s obchodníkem a jeho stráci.}
-{3654}{}{s nìkolika lovci odmìn.}
-{3655}{}{s nìkolika lovci odmìn.}
-{3656}{}{s nìkolika lovci odmìn.}
-{3657}{}{s nìkolika lovci odmìn.}
-{3658}{}{s nìkolika lovci odmìn.}
-{3659}{}{s nìkolika lovci odmìn.}
-{3660}{}{s nìkolika lovci odmìn.}
-{3661}{}{s nìkolika lovci odmìn.}
-{3662}{}{s tlupou darebákù vedenıch jedním z Mortonovıch bratrù.}
-{3663}{}{s nìkolika lovci.}
+{3417}{}{se skupinou lovcÅ¯ bojujÃ­cÃ­ch s kanibaly.}
+{3418}{}{se skupinou mravencÅ¯.}
+{3419}{}{se skupinou lovcÅ¯ bojujÃ­cÃ­ch s nÄ›kolika radÅ¡korpiony.}
+{3420}{}{se skupinou praseÄÃ­ch potkanÅ¯.}
+{3421}{}{s malou skupinou radÅ¡korpionÅ¯.}
+{3422}{}{s malou skupinou mravencÅ¯.}
+{3423}{}{se skupinou lovcÅ¯.}
+{3424}{}{se skupinou nomÃ¡dÅ¯.}
+{3425}{}{s tlupou rozzuÅ™enÃ½ch psancÅ¯.}
+{3450}{}{se sklÃ¡dkou toxickÃ½ch odpadÅ¯.}
+{3451}{}{s osamÄ›lÃ½m psem.}
+{3452}{}{se stÃ¡dem brahmÃ­n.}
+{3453}{}{s tlupou psancÅ¯.}
+{3454}{}{s nÄ›kolika lovci odmÄ›n.}
+{3455}{}{s nÄ›kolika lovci odmÄ›n.}
+{3456}{}{s nÄ›kolika lovci odmÄ›n.}
+{3457}{}{s nÄ›kolika lovci odmÄ›n.}
+{3458}{}{s nÄ›kolika lovci odmÄ›n.}
+{3459}{}{s nÄ›kolika lovci odmÄ›n.}
+{3460}{}{s nÄ›kolika lovci odmÄ›n.}
+{3461}{}{s nÄ›kolika lovci odmÄ›n.}
+{3462}{}{s tlupou darebÃ¡kÅ¯ vedenÃ½ch jednÃ­m z MortonovÃ½ch bratrÅ¯.}
+{3463}{}{se skupinou poboÅ¾nÃ½ch lidÃ­.}
+{3464}{}{s geckony skrÃ½vajÃ­cÃ­mi se mezi masoÅ¾ravÃ½mi rostlinami.}
+{3465}{}{s nÄ›kolika geckony.}
+{3466}{}{s radÅ¡korpiony skrÃ½vajÃ­cÃ­mi se mezi masoÅ¾ravÃ½mi rostlinami.}
+{3467}{}{s nÄ›kolika masoÅ¾ravÃ½mi rostlinami.}
+{3468}{}{s rodinou radÅ¡korpionÅ¯.}
+{3469}{}{se skupinou krtÄÃ­ch potkanÅ¯.}
+{3470}{}{se skupinou poboÅ¾nÃ½ch lidÃ­ bojujÃ­cÃ­mi s tlupou vÃ¡leÄnÃ­kÅ¯.}
+{3471}{}{s tlupou nomÃ¡dÅ¯.}
+{3472}{}{s pozÅ¯statky vorvanÄ›.}
+{3473}{}{s obÅ™Ã­ kamennou hlavou.}
+{3474}{}{s vrakem kosmickÃ© lodi.}
+{3475}{}{s portÃ¡lem ke StrÃ¡Å¾ci VÄ›Änosti.}
+{3476}{}{s rytÃ­Å™i krÃ¡le ArtuÅ¡e.}
+{3477}{}{s PlechovÃ½m DÅ™evorubcem.}
+{3478}{}{se Å¡pinavÃ½mi vesniÄany pronÃ¡sledujÃ­cÃ­mi spammera.}
+{3479}{}{s tlupou rozzuÅ™enÃ½ch psancÅ¯.}
+{3500}{}{s tlupou psancÅ¯.}
+{3501}{}{se skupinou poboÅ¾nÃ½ch lidÃ­.}
+{3502}{}{s nÄ›kolika lovci odmÄ›n.}
+{3503}{}{s nÄ›kolika lovci odmÄ›n.}
+{3504}{}{s nÄ›kolika lovci odmÄ›n.}
+{3505}{}{s nÄ›kolika lovci odmÄ›n.}
+{3506}{}{s nÄ›kolika lovci odmÄ›n.}
+{3507}{}{s nÄ›kolika lovci odmÄ›n.}
+{3508}{}{s nÄ›kolika lovci odmÄ›n.}
+{3509}{}{s nÄ›kolika lovci odmÄ›n.}
+{3510}{}{s tlupou darebÃ¡kÅ¯ vedenÃ½ch jednÃ­m z MortonovÃ½ch bratrÅ¯.}
+{3511}{}{s radÅ¡korpiony skrÃ½vajÃ­cÃ­mi se mezi masoÅ¾ravÃ½mi rostlinami.}
+{3512}{}{s nÄ›kolika geckony.}
+{3513}{}{s radÅ¡korpiony skrÃ½vajÃ­cÃ­mi se mezi masoÅ¾ravÃ½mi rostlinami.}
+{3514}{}{s nÄ›kolika masoÅ¾ravÃ½mi rostlinami.}
+{3515}{}{s rodinou radÅ¡korpionÅ¯.}
+{3516}{}{se skupinou krtÄÃ­ch potkanÅ¯.}
+{3517}{}{se skupinou poboÅ¾nÃ½ch lidÃ­ bojujÃ­cÃ­mi s tlupou vÃ¡leÄnÃ­kÅ¯.}
+{3518}{}{s tlupou nomÃ¡dÅ¯.}
+{3519}{}{s muÅ¾em hlÃ­dajÃ­cÃ­m most.}
+{3520}{}{s rytÃ­Å™i krÃ¡le ArtuÅ¡e bojujÃ­cÃ­mi s krysou.}
+{3521}{}{s tlupou rozzuÅ™enÃ½ch psancÅ¯.}
+{3550}{}{se sklÃ¡dkou toxickÃ½ch odpadÅ¯.}
+{3551}{}{s osamÄ›lÃ½m psem.}
+{3552}{}{se stÃ¡dem brahmÃ­n.}
+{3553}{}{se smeÄkou zlatÃ½ch geckonÅ¯ a rodinou radÅ¡korpionÅ¯.}
+{3554}{}{s nÄ›kolika bandity.}
+{3555}{}{se skupinou bezdomovcÅ¯.}
+{3556}{}{se smeÄkou zlatÃ½ch geckonÅ¯.}
+{3557}{}{s nÄ›kolika lovci odmÄ›n.}
+{3558}{}{s nÄ›kolika lovci odmÄ›n.}
+{3559}{}{s nÄ›kolika lovci odmÄ›n.}
+{3560}{}{s nÄ›kolika lovci odmÄ›n.}
+{3561}{}{s nÄ›kolika lovci odmÄ›n.}
+{3562}{}{s nÄ›kolika lovci odmÄ›n.}
+{3563}{}{s nÄ›kolika lovci odmÄ›n.}
+{3564}{}{s nÄ›kolika lovci odmÄ›n.}
+{3565}{}{s tlupou darebÃ¡kÅ¯ vedenÃ½ch jednÃ­m z MortonovÃ½ch bratrÅ¯.}
+{3566}{}{s rodinou radÅ¡korpionÅ¯.}
+{3567}{}{s nÄ›kolika masoÅ¾ravÃ½mi rostlinami.}
+{3568}{}{s nÄ›kolika bandity napadenÃ½mi smeÄkou zlatÃ½ch geckonÅ¯.}
+{3569}{}{s nÄ›kolika farmÃ¡Å™i brÃ¡nÃ­cÃ­mi se smeÄce geckonÅ¯.}
+{3570}{}{s nÄ›kolika farmÃ¡Å™i brÃ¡nÃ­cÃ­mi se smeÄce zlatÃ½ch geckonÅ¯.}
+{3571}{}{s lovci bojujÃ­cÃ­mi se zlatÃ½mi geckony.}
+{3572}{}{s nÄ›kolika lovci napadenÃ½mi tlupou banditÅ¯.}
+{3573}{}{se skupinou lovcÅ¯ lovÃ­cÃ­ geckony.}
+{3574}{}{s nÄ›kolika bezdomovci pÅ™epadenÃ½mi skupinou banditÅ¯.}
+{3575}{}{s nÄ›kolika bezdomovci vraÅ¾dÃ­cÃ­mi farmÃ¡Å™e.}
+{3576}{}{s nÄ›kolika bandity ÃºtoÄÃ­cÃ­mi na farmÃ¡Å™e.}
+{3577}{}{s nÄ›kolika farmÃ¡Å™i bojujÃ­cÃ­mi s radÅ¡korpiony.}
+{3578}{}{s lovci bojujÃ­cÃ­mi s radÅ¡korpiony.}
+{3579}{}{s lovci bojujÃ­cÃ­mi s praseÄÃ­mi potkany.}
+{3580}{}{s farmÃ¡Å™i likvidujÃ­cÃ­mi pÅ™emnoÅ¾enÃ© praseÄÃ­ potkany.}
+{3581}{}{s nÄ›kolika farmÃ¡Å™i.}
+{3582}{}{se skupinou lovcÅ¯.}
+{3583}{}{s pozÅ¯statky vorvanÄ›.}
+{3584}{}{s obÅ™Ã­ kamennou hlavou.}
+{3585}{}{s vrakem kosmickÃ© lodi.}
+{3586}{}{s portÃ¡lem ke StrÃ¡Å¾ci VÄ›Änosti.}
+{3587}{}{s rytÃ­Å™i krÃ¡le ArtuÅ¡e.}
+{3588}{}{s PlechovÃ½m DÅ™evorubcem.}
+{3589}{}{se Å¡pinavÃ½mi vesniÄany pronÃ¡sledujÃ­cÃ­mi spammera.}
+{3600}{}{se smeÄkou zlatÃ½ch geckonÅ¯ a rodinou radÅ¡korpionÅ¯.}
+{3601}{}{s nÄ›kolika bandity.}
+{3602}{}{se skupinou bezdomovcÅ¯.}
+{3603}{}{se smeÄkou zlatÃ½ch geckonÅ¯.}
+{3604}{}{s nÄ›kolika lovci odmÄ›n.}
+{3605}{}{s nÄ›kolika lovci odmÄ›n.}
+{3606}{}{s nÄ›kolika lovci odmÄ›n.}
+{3607}{}{s nÄ›kolika lovci odmÄ›n.}
+{3608}{}{s nÄ›kolika lovci odmÄ›n.}
+{3609}{}{s nÄ›kolika lovci odmÄ›n.}
+{3610}{}{s nÄ›kolika lovci odmÄ›n.}
+{3611}{}{s nÄ›kolika lovci odmÄ›n.}
+{3612}{}{s tlupou darebÃ¡kÅ¯ vedenÃ½ch jednÃ­m z MortonovÃ½ch bratrÅ¯.}
+{3613}{}{s rodinou radÅ¡korpionÅ¯.}
+{3614}{}{s nÄ›kolika masoÅ¾ravÃ½mi rostlinami.}
+{3615}{}{s nÄ›kolika bandity napadenÃ½mi smeÄkou zlatÃ½ch geckonÅ¯.}
+{3616}{}{s nÄ›kolika farmÃ¡Å™i brÃ¡nÃ­cÃ­mi se smeÄce geckonÅ¯.}
+{3617}{}{s nÄ›kolika farmÃ¡Å™i brÃ¡nÃ­cÃ­mi se smeÄce zlatÃ½ch geckonÅ¯.}
+{3618}{}{s lovci bojujÃ­cÃ­mi se zlatÃ½mi geckony.}
+{3619}{}{s nÄ›kolika lovci napadenÃ½mi tlupou banditÅ¯.}
+{3620}{}{se skupinou lovcÅ¯ lovÃ­cÃ­ geckony.}
+{3621}{}{s nÄ›kolika bezdomovci pÅ™epadenÃ½mi skupinou banditÅ¯.}
+{3622}{}{s nÄ›kolika bezdomovci vraÅ¾dÃ­cÃ­mi farmÃ¡Å™e.}
+{3623}{}{s nÄ›kolika bandity ÃºtoÄÃ­cÃ­mi na farmÃ¡Å™e.}
+{3624}{}{s nÄ›kolika farmÃ¡Å™i bojujÃ­cÃ­mi s radÅ¡korpiony.}
+{3625}{}{s lovci bojujÃ­cÃ­mi s radÅ¡korpiony.}
+{3626}{}{s lovci bojujÃ­cÃ­mi s praseÄÃ­mi potkany.}
+{3627}{}{s farmÃ¡Å™i likvidujÃ­cÃ­mi pÅ™emnoÅ¾enÃ© praseÄÃ­ potkany.}
+{3628}{}{s nÄ›kolika farmÃ¡Å™i.}
+{3629}{}{se skupinou lovcÅ¯.}
+{3630}{}{s muÅ¾em hlÃ­dajÃ­cÃ­m most.}
+{3631}{}{s rytÃ­Å™i krÃ¡le ArtuÅ¡e bojujÃ­cÃ­mi s krysou.}
+{3632}{}{s tlupou rozzuÅ™enÃ½ch psancÅ¯.}
+{3650}{}{se sklÃ¡dkou toxickÃ½ch odpadÅ¯.}
+{3651}{}{s osamÄ›lÃ½m psem.}
+{3652}{}{se stÃ¡dem brahmÃ­n.}
+{3653}{}{s obchodnÃ­kem a jeho strÃ¡Å¾ci.}
+{3654}{}{s nÄ›kolika lovci odmÄ›n.}
+{3655}{}{s nÄ›kolika lovci odmÄ›n.}
+{3656}{}{s nÄ›kolika lovci odmÄ›n.}
+{3657}{}{s nÄ›kolika lovci odmÄ›n.}
+{3658}{}{s nÄ›kolika lovci odmÄ›n.}
+{3659}{}{s nÄ›kolika lovci odmÄ›n.}
+{3660}{}{s nÄ›kolika lovci odmÄ›n.}
+{3661}{}{s nÄ›kolika lovci odmÄ›n.}
+{3662}{}{s tlupou darebÃ¡kÅ¯ vedenÃ½ch jednÃ­m z MortonovÃ½ch bratrÅ¯.}
+{3663}{}{s nÄ›kolika lovci.}
 {3664}{}{s kupeckou karavanou napadenou bandity.}
-{3665}{}{s lovci pøepadenımi skupinou lupièù.}
-{3666}{}{s kupeckou karavanou napadenou rodinou radškorpionù.}
-{3667}{}{s nìkolika lovci na lovu radškorpionù.}
-{3668}{}{se skupinou radškorpionù.}
-{3669}{}{s rodinou krtèích potkanù.}
-{3670}{}{s nìkolika bandity.}
-{3671}{}{se skupinou lovcù na lovu zlatıch geckonù.}
-{3672}{}{s nìkolika radškorpiony bojujícími se zlatımi geckony.}
-{3673}{}{s radškorpiony bojujícími s krtèími a praseèími potkany.}
-{3674}{}{s nìkolika lovci a kupeckou karavanou napadenımi bandity.}
-{3675}{}{s nìkolika zlatımi geckony.}
-{3676}{}{s nìkolika lovci bojujícími s praseèími a krtèími potkany.}
-{3677}{}{s kupeckou karavanou bojující s praseèími a krtèími potkany.}
-{3678}{}{s pozùstatky vorvanì.}
-{3679}{}{s obøí kamennou hlavou.}
-{3680}{}{s vrakem kosmické lodi.}
-{3681}{}{s portálem ke Stráci Vìènosti.}
-{3682}{}{s rytíøi krále Artuše.}
-{3683}{}{s Plechovım Døevorubcem.}
-{3684}{}{se špinavımi vesnièany pronásledujícími spammera.}
-{3685}{}{s tlupou rozzuøenıch psancù.}
-{3700}{}{se skládkou toxickıch odpadù.}
-{3701}{}{s osamìlım psem.}
-{3702}{}{se stádem brahmín.}
-{3703}{}{s tlupou potulnıch zabijákù.}
-{3704}{}{s nìkolika lovci odmìn.}
-{3705}{}{s nìkolika lovci odmìn.}
-{3706}{}{s nìkolika lovci odmìn.}
-{3707}{}{s nìkolika lovci odmìn.}
-{3708}{}{s nìkolika lovci odmìn.}
-{3709}{}{s nìkolika lovci odmìn.}
-{3710}{}{s nìkolika lovci odmìn.}
-{3711}{}{s nìkolika lovci odmìn.}
-{3712}{}{s tlupou darebákù vedenıch jedním z Mortonovıch bratrù.}
-{3713}{}{s tlupou lupièù.}
-{3714}{}{s tlupou lupièù a potulnıch zabijákù.}
-{3715}{}{s nìkolika zlatımi geckony a radškorpiony.}
-{3716}{}{s rodinou zlatıch geckonù.}
-{3717}{}{s rodinou krtèích potkanù.}
-{3718}{}{s velkou skupinou radškorpionù.}
-{3719}{}{s místem hustì zamoøeném masoravımi rostlinami.}
-{3720}{}{s tlupou lupièù bojujících proti potulnım zabijákùm.}
-{3721}{}{s kupeckou karavanou bránící se útoku potulnıch zabijákù.}
-{3722}{}{s kupeckou karavanou bránící se útoku lupièù.}
-{3723}{}{s kupeckou karavanou bránící se útoku radškorpionù.}
-{3724}{}{se skupinou zlatıch geckonù bojujících proti radškorpionùm.}
-{3725}{}{s obchodníkem a jeho stráci.}
-{3726}{}{s pozùstatky vorvanì.}
-{3727}{}{s obøí kamennou hlavou.}
-{3728}{}{s vrakem kosmické lodi.}
-{3729}{}{s portálem ke Stráci Vìènosti.}
-{3730}{}{s rytíøi krále Artuše.}
-{3731}{}{s Plechovım Døevorubcem.}
-{3732}{}{se špinavımi vesnièany pronásledujícími spammera.}
-{3750}{}{s tlupou potulnıch zabijákù.}
-{3751}{}{s tlupou lupièù.}
-{3752}{}{s tlupou lupièù a potulnıch zabijákù.}
-{3753}{}{s nìkolika zlatımi geckony a radškorpiony.}
-{3754}{}{s nìkolika lovci odmìn.}
-{3755}{}{s nìkolika lovci odmìn.}
-{3756}{}{s nìkolika lovci odmìn.}
-{3757}{}{s nìkolika lovci odmìn.}
-{3758}{}{s nìkolika lovci odmìn.}
-{3759}{}{s nìkolika lovci odmìn.}
-{3760}{}{s nìkolika lovci odmìn.}
-{3761}{}{s nìkolika lovci odmìn.}
-{3762}{}{s tlupou darebákù vedenıch jedním z Mortonovıch bratrù.}
-{3763}{}{s rodinou zlatıch geckonù.}
-{3764}{}{s rodinou krtèích potkanù.}
-{3765}{}{s velkou skupinou radškorpionù.}
-{3766}{}{s místem hustì zamoøeném masoravımi rostlinami.}
-{3767}{}{s tlupou lupièù bojujících proti potulnım zabijákùm.}
-{3768}{}{s kupeckou karavanou bránící se útoku potulnıch zabijákù.}
-{3769}{}{s kupeckou karavanou bránící se útoku lupièù.}
-{3770}{}{s kupeckou karavanou bránící se útoku radškorpionù.}
-{3771}{}{se skupinou zlatıch geckonù bojujících proti radškorpionùm.}
-{3772}{}{s obchodníkem a jeho stráci.}
-{3773}{}{s muem hlídajícím most.}
-{3774}{}{s rytíøi krále Artuše bojujícími s krysou.}
-{3800}{}{se skládkou toxickıch odpadù.}
-{3801}{}{s osamìlım psem.}
-{3802}{}{se stádem brahmín.}
-{3803}{}{se skupinou otrokù a otrokáøù.}
-{3804}{}{s nìkolika lovci odmìn.}
-{3805}{}{s nìkolika lovci odmìn.}
-{3806}{}{s nìkolika lovci odmìn.}
-{3807}{}{s nìkolika lovci odmìn.}
-{3808}{}{s nìkolika lovci odmìn.}
-{3809}{}{s nìkolika lovci odmìn.}
-{3810}{}{s nìkolika lovci odmìn.}
-{3811}{}{s nìkolika lovci odmìn.}
-{3812}{}{s tlupou darebákù vedenıch jedním z Mortonovıch bratrù.}
-{3813}{}{se skupinou potulnıch zabijákù.}
-{3814}{}{s tlupou lupièù.}
-{3815}{}{se zlatımi geckony skrıvajícími se mezi masoravımi rostlinami.}
-{3816}{}{se smeèkou radškorpionù a nìkolika krtèími potkany.}
-{3817}{}{se skupinou radškorpionù.}
-{3818}{}{se skupinou krtèích potkanù.}
-{3819}{}{s tlupou lupièù bojujících se skupinou potulnıch zabijákù.}
-{3820}{}{s otrokáøi pokoušejícími se pochytat a zotroèit nìkolik lidí.}
-{3821}{}{se skupinou otrokù a otrokáøù bojujících s lupièi.}
-{3822}{}{s otrokáøi bojujícími proti zlatım geckonùm.}
-{3823}{}{s nìkolika radškorpiony útoèícími na bandu zuøivcù.}
-{3824}{}{se skupinou zuøivcù.}
-{3825}{}{s pozùstatky vorvanì.}
-{3826}{}{s obøí kamennou hlavou.}
-{3827}{}{s vrakem kosmické lodi.}
-{3828}{}{s portálem ke Stráci Vìènosti.}
-{3829}{}{s rytíøi krále Artuše.}
-{3830}{}{s Plechovım Døevorubcem.}
-{3831}{}{se špinavımi vesnièany pronásledujícími spammera.}
-{3850}{}{se skupinou otrokù a otrokáøù.}
-{3851}{}{se skupinou potulnıch zabijákù.}
-{3852}{}{s tlupou lupièù.}
-{3853}{}{se zlatımi geckony skrıvajícími se mezi masoravımi rostlinami.}
-{3854}{}{s nìkolika lovci odmìn.}
-{3855}{}{s nìkolika lovci odmìn.}
-{3856}{}{s nìkolika lovci odmìn.}
-{3857}{}{s nìkolika lovci odmìn.}
-{3858}{}{s nìkolika lovci odmìn.}
-{3859}{}{s nìkolika lovci odmìn.}
-{3860}{}{s nìkolika lovci odmìn.}
-{3861}{}{s nìkolika lovci odmìn.}
-{3862}{}{s tlupou darebákù vedenıch jedním z Mortonovıch bratrù.}
-{3863}{}{se smeèkou radškorpionù a nìkolika krtèími potkany.}
-{3864}{}{se skupinou radškorpionù.}
-{3865}{}{se skupinou krtèích potkanù.}
-{3866}{}{s tlupou lupièù bojujících se skupinou potulnıch zabijákù.}
-{3867}{}{s otrokáøi pokoušejícími se pochytat a zotroèit nìkolik lidí.}
-{3868}{}{se skupinou otrokù a otrokáøù bojujících s lupièi.}
-{3869}{}{s otrokáøi bojujícími proti zlatım geckonùm.}
-{3870}{}{s muem hlídajícím most.}
-{3871}{}{s rytíøi krále Artuše bojujícími s krysou.}
-{3900}{}{s nìkolika potulnımi zabijáky a lupièi.}
-{3901}{}{s nìkolika potulnımi zabijáky.}
-{3902}{}{s velkou smeèkou zlatıch geckonù.}
-{3903}{}{s nìkolika radškorpiony ukrytımi mezi masoravımi rostlinami.}
-{3904}{}{s nìkolika lovci odmìn.}
-{3905}{}{s nìkolika lovci odmìn.}
-{3906}{}{s nìkolika lovci odmìn.}
-{3907}{}{s nìkolika lovci odmìn.}
-{3908}{}{s nìkolika lovci odmìn.}
-{3909}{}{s nìkolika lovci odmìn.}
-{3910}{}{s nìkolika lovci odmìn.}
-{3911}{}{s nìkolika lovci odmìn.}
-{3912}{}{s tlupou darebákù vedenıch jedním z Mortonovıch bratrù.}
-{3913}{}{s nìkolika lupièi bojujícími proti radškorpionùm.}
-{3914}{}{s nìkolika lupièi.}
-{3915}{}{s kupeckou karavanou napadenou potulnımi zabijáky.}
-{3916}{}{s kupeckou karavanou napadenou lupièi.}
-{3917}{}{s potulnımi zabijáky napadenımi masoravımi rostlinami.}
+{3665}{}{s lovci pÅ™epadenÃ½mi skupinou lupiÄÅ¯.}
+{3666}{}{s kupeckou karavanou napadenou rodinou radÅ¡korpionÅ¯.}
+{3667}{}{s nÄ›kolika lovci na lovu radÅ¡korpionÅ¯.}
+{3668}{}{se skupinou radÅ¡korpionÅ¯.}
+{3669}{}{s rodinou krtÄÃ­ch potkanÅ¯.}
+{3670}{}{s nÄ›kolika bandity.}
+{3671}{}{se skupinou lovcÅ¯ na lovu zlatÃ½ch geckonÅ¯.}
+{3672}{}{s nÄ›kolika radÅ¡korpiony bojujÃ­cÃ­mi se zlatÃ½mi geckony.}
+{3673}{}{s radÅ¡korpiony bojujÃ­cÃ­mi s krtÄÃ­mi a praseÄÃ­mi potkany.}
+{3674}{}{s nÄ›kolika lovci a kupeckou karavanou napadenÃ½mi bandity.}
+{3675}{}{s nÄ›kolika zlatÃ½mi geckony.}
+{3676}{}{s nÄ›kolika lovci bojujÃ­cÃ­mi s praseÄÃ­mi a krtÄÃ­mi potkany.}
+{3677}{}{s kupeckou karavanou bojujÃ­cÃ­ s praseÄÃ­mi a krtÄÃ­mi potkany.}
+{3678}{}{s pozÅ¯statky vorvanÄ›.}
+{3679}{}{s obÅ™Ã­ kamennou hlavou.}
+{3680}{}{s vrakem kosmickÃ© lodi.}
+{3681}{}{s portÃ¡lem ke StrÃ¡Å¾ci VÄ›Änosti.}
+{3682}{}{s rytÃ­Å™i krÃ¡le ArtuÅ¡e.}
+{3683}{}{s PlechovÃ½m DÅ™evorubcem.}
+{3684}{}{se Å¡pinavÃ½mi vesniÄany pronÃ¡sledujÃ­cÃ­mi spammera.}
+{3685}{}{s tlupou rozzuÅ™enÃ½ch psancÅ¯.}
+{3700}{}{se sklÃ¡dkou toxickÃ½ch odpadÅ¯.}
+{3701}{}{s osamÄ›lÃ½m psem.}
+{3702}{}{se stÃ¡dem brahmÃ­n.}
+{3703}{}{s tlupou potulnÃ½ch zabijÃ¡kÅ¯.}
+{3704}{}{s nÄ›kolika lovci odmÄ›n.}
+{3705}{}{s nÄ›kolika lovci odmÄ›n.}
+{3706}{}{s nÄ›kolika lovci odmÄ›n.}
+{3707}{}{s nÄ›kolika lovci odmÄ›n.}
+{3708}{}{s nÄ›kolika lovci odmÄ›n.}
+{3709}{}{s nÄ›kolika lovci odmÄ›n.}
+{3710}{}{s nÄ›kolika lovci odmÄ›n.}
+{3711}{}{s nÄ›kolika lovci odmÄ›n.}
+{3712}{}{s tlupou darebÃ¡kÅ¯ vedenÃ½ch jednÃ­m z MortonovÃ½ch bratrÅ¯.}
+{3713}{}{s tlupou lupiÄÅ¯.}
+{3714}{}{s tlupou lupiÄÅ¯ a potulnÃ½ch zabijÃ¡kÅ¯.}
+{3715}{}{s nÄ›kolika zlatÃ½mi geckony a radÅ¡korpiony.}
+{3716}{}{s rodinou zlatÃ½ch geckonÅ¯.}
+{3717}{}{s rodinou krtÄÃ­ch potkanÅ¯.}
+{3718}{}{s velkou skupinou radÅ¡korpionÅ¯.}
+{3719}{}{s mÃ­stem hustÄ› zamoÅ™enÃ©m masoÅ¾ravÃ½mi rostlinami.}
+{3720}{}{s tlupou lupiÄÅ¯ bojujÃ­cÃ­ch proti potulnÃ½m zabijÃ¡kÅ¯m.}
+{3721}{}{s kupeckou karavanou brÃ¡nÃ­cÃ­ se Ãºtoku potulnÃ½ch zabijÃ¡kÅ¯.}
+{3722}{}{s kupeckou karavanou brÃ¡nÃ­cÃ­ se Ãºtoku lupiÄÅ¯.}
+{3723}{}{s kupeckou karavanou brÃ¡nÃ­cÃ­ se Ãºtoku radÅ¡korpionÅ¯.}
+{3724}{}{se skupinou zlatÃ½ch geckonÅ¯ bojujÃ­cÃ­ch proti radÅ¡korpionÅ¯m.}
+{3725}{}{s obchodnÃ­kem a jeho strÃ¡Å¾ci.}
+{3726}{}{s pozÅ¯statky vorvanÄ›.}
+{3727}{}{s obÅ™Ã­ kamennou hlavou.}
+{3728}{}{s vrakem kosmickÃ© lodi.}
+{3729}{}{s portÃ¡lem ke StrÃ¡Å¾ci VÄ›Änosti.}
+{3730}{}{s rytÃ­Å™i krÃ¡le ArtuÅ¡e.}
+{3731}{}{s PlechovÃ½m DÅ™evorubcem.}
+{3732}{}{se Å¡pinavÃ½mi vesniÄany pronÃ¡sledujÃ­cÃ­mi spammera.}
+{3750}{}{s tlupou potulnÃ½ch zabijÃ¡kÅ¯.}
+{3751}{}{s tlupou lupiÄÅ¯.}
+{3752}{}{s tlupou lupiÄÅ¯ a potulnÃ½ch zabijÃ¡kÅ¯.}
+{3753}{}{s nÄ›kolika zlatÃ½mi geckony a radÅ¡korpiony.}
+{3754}{}{s nÄ›kolika lovci odmÄ›n.}
+{3755}{}{s nÄ›kolika lovci odmÄ›n.}
+{3756}{}{s nÄ›kolika lovci odmÄ›n.}
+{3757}{}{s nÄ›kolika lovci odmÄ›n.}
+{3758}{}{s nÄ›kolika lovci odmÄ›n.}
+{3759}{}{s nÄ›kolika lovci odmÄ›n.}
+{3760}{}{s nÄ›kolika lovci odmÄ›n.}
+{3761}{}{s nÄ›kolika lovci odmÄ›n.}
+{3762}{}{s tlupou darebÃ¡kÅ¯ vedenÃ½ch jednÃ­m z MortonovÃ½ch bratrÅ¯.}
+{3763}{}{s rodinou zlatÃ½ch geckonÅ¯.}
+{3764}{}{s rodinou krtÄÃ­ch potkanÅ¯.}
+{3765}{}{s velkou skupinou radÅ¡korpionÅ¯.}
+{3766}{}{s mÃ­stem hustÄ› zamoÅ™enÃ©m masoÅ¾ravÃ½mi rostlinami.}
+{3767}{}{s tlupou lupiÄÅ¯ bojujÃ­cÃ­ch proti potulnÃ½m zabijÃ¡kÅ¯m.}
+{3768}{}{s kupeckou karavanou brÃ¡nÃ­cÃ­ se Ãºtoku potulnÃ½ch zabijÃ¡kÅ¯.}
+{3769}{}{s kupeckou karavanou brÃ¡nÃ­cÃ­ se Ãºtoku lupiÄÅ¯.}
+{3770}{}{s kupeckou karavanou brÃ¡nÃ­cÃ­ se Ãºtoku radÅ¡korpionÅ¯.}
+{3771}{}{se skupinou zlatÃ½ch geckonÅ¯ bojujÃ­cÃ­ch proti radÅ¡korpionÅ¯m.}
+{3772}{}{s obchodnÃ­kem a jeho strÃ¡Å¾ci.}
+{3773}{}{s muÅ¾em hlÃ­dajÃ­cÃ­m most.}
+{3774}{}{s rytÃ­Å™i krÃ¡le ArtuÅ¡e bojujÃ­cÃ­mi s krysou.}
+{3800}{}{se sklÃ¡dkou toxickÃ½ch odpadÅ¯.}
+{3801}{}{s osamÄ›lÃ½m psem.}
+{3802}{}{se stÃ¡dem brahmÃ­n.}
+{3803}{}{se skupinou otrokÅ¯ a otrokÃ¡Å™Å¯.}
+{3804}{}{s nÄ›kolika lovci odmÄ›n.}
+{3805}{}{s nÄ›kolika lovci odmÄ›n.}
+{3806}{}{s nÄ›kolika lovci odmÄ›n.}
+{3807}{}{s nÄ›kolika lovci odmÄ›n.}
+{3808}{}{s nÄ›kolika lovci odmÄ›n.}
+{3809}{}{s nÄ›kolika lovci odmÄ›n.}
+{3810}{}{s nÄ›kolika lovci odmÄ›n.}
+{3811}{}{s nÄ›kolika lovci odmÄ›n.}
+{3812}{}{s tlupou darebÃ¡kÅ¯ vedenÃ½ch jednÃ­m z MortonovÃ½ch bratrÅ¯.}
+{3813}{}{se skupinou potulnÃ½ch zabijÃ¡kÅ¯.}
+{3814}{}{s tlupou lupiÄÅ¯.}
+{3815}{}{se zlatÃ½mi geckony skrÃ½vajÃ­cÃ­mi se mezi masoÅ¾ravÃ½mi rostlinami.}
+{3816}{}{se smeÄkou radÅ¡korpionÅ¯ a nÄ›kolika krtÄÃ­mi potkany.}
+{3817}{}{se skupinou radÅ¡korpionÅ¯.}
+{3818}{}{se skupinou krtÄÃ­ch potkanÅ¯.}
+{3819}{}{s tlupou lupiÄÅ¯ bojujÃ­cÃ­ch se skupinou potulnÃ½ch zabijÃ¡kÅ¯.}
+{3820}{}{s otrokÃ¡Å™i pokouÅ¡ejÃ­cÃ­mi se pochytat a zotroÄit nÄ›kolik lidÃ­.}
+{3821}{}{se skupinou otrokÅ¯ a otrokÃ¡Å™Å¯ bojujÃ­cÃ­ch s lupiÄi.}
+{3822}{}{s otrokÃ¡Å™i bojujÃ­cÃ­mi proti zlatÃ½m geckonÅ¯m.}
+{3823}{}{s nÄ›kolika radÅ¡korpiony ÃºtoÄÃ­cÃ­mi na bandu zuÅ™ivcÅ¯.}
+{3824}{}{se skupinou zuÅ™ivcÅ¯.}
+{3825}{}{s pozÅ¯statky vorvanÄ›.}
+{3826}{}{s obÅ™Ã­ kamennou hlavou.}
+{3827}{}{s vrakem kosmickÃ© lodi.}
+{3828}{}{s portÃ¡lem ke StrÃ¡Å¾ci VÄ›Änosti.}
+{3829}{}{s rytÃ­Å™i krÃ¡le ArtuÅ¡e.}
+{3830}{}{s PlechovÃ½m DÅ™evorubcem.}
+{3831}{}{se Å¡pinavÃ½mi vesniÄany pronÃ¡sledujÃ­cÃ­mi spammera.}
+{3850}{}{se skupinou otrokÅ¯ a otrokÃ¡Å™Å¯.}
+{3851}{}{se skupinou potulnÃ½ch zabijÃ¡kÅ¯.}
+{3852}{}{s tlupou lupiÄÅ¯.}
+{3853}{}{se zlatÃ½mi geckony skrÃ½vajÃ­cÃ­mi se mezi masoÅ¾ravÃ½mi rostlinami.}
+{3854}{}{s nÄ›kolika lovci odmÄ›n.}
+{3855}{}{s nÄ›kolika lovci odmÄ›n.}
+{3856}{}{s nÄ›kolika lovci odmÄ›n.}
+{3857}{}{s nÄ›kolika lovci odmÄ›n.}
+{3858}{}{s nÄ›kolika lovci odmÄ›n.}
+{3859}{}{s nÄ›kolika lovci odmÄ›n.}
+{3860}{}{s nÄ›kolika lovci odmÄ›n.}
+{3861}{}{s nÄ›kolika lovci odmÄ›n.}
+{3862}{}{s tlupou darebÃ¡kÅ¯ vedenÃ½ch jednÃ­m z MortonovÃ½ch bratrÅ¯.}
+{3863}{}{se smeÄkou radÅ¡korpionÅ¯ a nÄ›kolika krtÄÃ­mi potkany.}
+{3864}{}{se skupinou radÅ¡korpionÅ¯.}
+{3865}{}{se skupinou krtÄÃ­ch potkanÅ¯.}
+{3866}{}{s tlupou lupiÄÅ¯ bojujÃ­cÃ­ch se skupinou potulnÃ½ch zabijÃ¡kÅ¯.}
+{3867}{}{s otrokÃ¡Å™i pokouÅ¡ejÃ­cÃ­mi se pochytat a zotroÄit nÄ›kolik lidÃ­.}
+{3868}{}{se skupinou otrokÅ¯ a otrokÃ¡Å™Å¯ bojujÃ­cÃ­ch s lupiÄi.}
+{3869}{}{s otrokÃ¡Å™i bojujÃ­cÃ­mi proti zlatÃ½m geckonÅ¯m.}
+{3870}{}{s muÅ¾em hlÃ­dajÃ­cÃ­m most.}
+{3871}{}{s rytÃ­Å™i krÃ¡le ArtuÅ¡e bojujÃ­cÃ­mi s krysou.}
+{3900}{}{s nÄ›kolika potulnÃ½mi zabijÃ¡ky a lupiÄi.}
+{3901}{}{s nÄ›kolika potulnÃ½mi zabijÃ¡ky.}
+{3902}{}{s velkou smeÄkou zlatÃ½ch geckonÅ¯.}
+{3903}{}{s nÄ›kolika radÅ¡korpiony ukrytÃ½mi mezi masoÅ¾ravÃ½mi rostlinami.}
+{3904}{}{s nÄ›kolika lovci odmÄ›n.}
+{3905}{}{s nÄ›kolika lovci odmÄ›n.}
+{3906}{}{s nÄ›kolika lovci odmÄ›n.}
+{3907}{}{s nÄ›kolika lovci odmÄ›n.}
+{3908}{}{s nÄ›kolika lovci odmÄ›n.}
+{3909}{}{s nÄ›kolika lovci odmÄ›n.}
+{3910}{}{s nÄ›kolika lovci odmÄ›n.}
+{3911}{}{s nÄ›kolika lovci odmÄ›n.}
+{3912}{}{s tlupou darebÃ¡kÅ¯ vedenÃ½ch jednÃ­m z MortonovÃ½ch bratrÅ¯.}
+{3913}{}{s nÄ›kolika lupiÄi bojujÃ­cÃ­mi proti radÅ¡korpionÅ¯m.}
+{3914}{}{s nÄ›kolika lupiÄi.}
+{3915}{}{s kupeckou karavanou napadenou potulnÃ½mi zabijÃ¡ky.}
+{3916}{}{s kupeckou karavanou napadenou lupiÄi.}
+{3917}{}{s potulnÃ½mi zabijÃ¡ky napadenÃ½mi masoÅ¾ravÃ½mi rostlinami.}
 {3918}{}{s kupeckou karavanou.}
-{3919}{}{s muem hlídajícím most.}
-{3920}{}{s rytíøi krále Artuše bojujícími s krysou.}
-{3921}{}{s tlupou rozzuøenıch banditù.}
-{3950}{}{s nìkolika potulnımi zabijáky.}
-{3951}{}{s nìkolika lupièi.}
-{3952}{}{s nìkolika bezdomovci.}
-{3953}{}{s nìkolika zlatımi geckony a mantisy.}
-{3954}{}{s nìkolika lovci odmìn.}
-{3955}{}{s nìkolika lovci odmìn.}
-{3956}{}{s nìkolika lovci odmìn.}
-{3957}{}{s nìkolika lovci odmìn.}
-{3958}{}{s nìkolika lovci odmìn.}
-{3959}{}{s nìkolika lovci odmìn.}
-{3960}{}{s nìkolika lovci odmìn.}
-{3961}{}{s nìkolika lovci odmìn.}
-{3962}{}{s tlupou darebákù vedenıch jedním z Mortonovıch bratrù.}
-{3963}{}{s nìkolika divokımi brahmínami.}
-{3964}{}{se skupinou radškorpionù.}
-{3965}{}{s pøekupníky s alkoholem napadenımi skupinou potulnıch zabijákù.}
-{3966}{}{s nìkolika potulnımi zabijáky útoèícími na bezdomovce.}
-{3967}{}{s farmáøi a pøekupníky s alkoholem.}
-{3968}{}{s nìkolika mantisy útoèícími na farmáøe.}
-{3969}{}{s nìkolika pøekupníky s alkoholem útoèícími na farmáøe.}
-{3970}{}{s nìkolika brahmínami obtìovanımi skupinou mantisù.}
-{3971}{}{s nìkolika mantisy útoèícími na skupinu krtèích potkanù.}
-{3972}{}{s nìkolika pøekupníky s alkoholem.}
-{3973}{}{s nìkolika farmáøi.}
-{3974}{}{se stádem brahmín.}
-{3975}{}{s muem hlídajícím most.}
-{3976}{}{s rytíøi krále Artuše bojujícími s krysou.}
-{3977}{}{s tlupou rozzuøenıch banditù.}
-{4000}{}{s nìkolika potulnımi zabijáky a jejich divokımi psy.}
-{4001}{}{s nìkolika lupièi a jejich divokımi psy.}
-{4002}{}{s tlupou lupièù.}
-{4003}{}{s tlupou potulnıch zabijákù.}
-{4004}{}{s nìkolika lovci odmìn.}
-{4005}{}{s nìkolika lovci odmìn.}
-{4006}{}{s nìkolika lovci odmìn.}
-{4007}{}{s nìkolika lovci odmìn.}
-{4008}{}{s nìkolika lovci odmìn.}
-{4009}{}{s nìkolika lovci odmìn.}
-{4010}{}{s nìkolika lovci odmìn.}
-{4011}{}{s nìkolika lovci odmìn.}
-{4012}{}{s tlupou darebákù vedenıch jedním z Mortonovıch bratrù.}
-{4013}{}{s rojem mantisù a masoravımi rostlinami.}
-{4014}{}{s divokımi psy a masoravımi rostlinami.}
-{4015}{}{s rojem mantisù.}
-{4016}{}{se smeèkou divokıch psù.}
-{4017}{}{s nìkolika lupièi napadenımi divokımi psy.}
-{4018}{}{s karavanou napadenou divokımi psy.}
-{4019}{}{s karavanou pøepadenou lupièi.}
-{4020}{}{s karavanou pøepadenou potulnımi zabijáky.}
+{3919}{}{s muÅ¾em hlÃ­dajÃ­cÃ­m most.}
+{3920}{}{s rytÃ­Å™i krÃ¡le ArtuÅ¡e bojujÃ­cÃ­mi s krysou.}
+{3921}{}{s tlupou rozzuÅ™enÃ½ch banditÅ¯.}
+{3950}{}{s nÄ›kolika potulnÃ½mi zabijÃ¡ky.}
+{3951}{}{s nÄ›kolika lupiÄi.}
+{3952}{}{s nÄ›kolika bezdomovci.}
+{3953}{}{s nÄ›kolika zlatÃ½mi geckony a mantisy.}
+{3954}{}{s nÄ›kolika lovci odmÄ›n.}
+{3955}{}{s nÄ›kolika lovci odmÄ›n.}
+{3956}{}{s nÄ›kolika lovci odmÄ›n.}
+{3957}{}{s nÄ›kolika lovci odmÄ›n.}
+{3958}{}{s nÄ›kolika lovci odmÄ›n.}
+{3959}{}{s nÄ›kolika lovci odmÄ›n.}
+{3960}{}{s nÄ›kolika lovci odmÄ›n.}
+{3961}{}{s nÄ›kolika lovci odmÄ›n.}
+{3962}{}{s tlupou darebÃ¡kÅ¯ vedenÃ½ch jednÃ­m z MortonovÃ½ch bratrÅ¯.}
+{3963}{}{s nÄ›kolika divokÃ½mi brahmÃ­nami.}
+{3964}{}{se skupinou radÅ¡korpionÅ¯.}
+{3965}{}{s pÅ™ekupnÃ­ky s alkoholem napadenÃ½mi skupinou potulnÃ½ch zabijÃ¡kÅ¯.}
+{3966}{}{s nÄ›kolika potulnÃ½mi zabijÃ¡ky ÃºtoÄÃ­cÃ­mi na bezdomovce.}
+{3967}{}{s farmÃ¡Å™i a pÅ™ekupnÃ­ky s alkoholem.}
+{3968}{}{s nÄ›kolika mantisy ÃºtoÄÃ­cÃ­mi na farmÃ¡Å™e.}
+{3969}{}{s nÄ›kolika pÅ™ekupnÃ­ky s alkoholem ÃºtoÄÃ­cÃ­mi na farmÃ¡Å™e.}
+{3970}{}{s nÄ›kolika brahmÃ­nami obtÄ›Å¾ovanÃ½mi skupinou mantisÅ¯.}
+{3971}{}{s nÄ›kolika mantisy ÃºtoÄÃ­cÃ­mi na skupinu krtÄÃ­ch potkanÅ¯.}
+{3972}{}{s nÄ›kolika pÅ™ekupnÃ­ky s alkoholem.}
+{3973}{}{s nÄ›kolika farmÃ¡Å™i.}
+{3974}{}{se stÃ¡dem brahmÃ­n.}
+{3975}{}{s muÅ¾em hlÃ­dajÃ­cÃ­m most.}
+{3976}{}{s rytÃ­Å™i krÃ¡le ArtuÅ¡e bojujÃ­cÃ­mi s krysou.}
+{3977}{}{s tlupou rozzuÅ™enÃ½ch banditÅ¯.}
+{4000}{}{s nÄ›kolika potulnÃ½mi zabijÃ¡ky a jejich divokÃ½mi psy.}
+{4001}{}{s nÄ›kolika lupiÄi a jejich divokÃ½mi psy.}
+{4002}{}{s tlupou lupiÄÅ¯.}
+{4003}{}{s tlupou potulnÃ½ch zabijÃ¡kÅ¯.}
+{4004}{}{s nÄ›kolika lovci odmÄ›n.}
+{4005}{}{s nÄ›kolika lovci odmÄ›n.}
+{4006}{}{s nÄ›kolika lovci odmÄ›n.}
+{4007}{}{s nÄ›kolika lovci odmÄ›n.}
+{4008}{}{s nÄ›kolika lovci odmÄ›n.}
+{4009}{}{s nÄ›kolika lovci odmÄ›n.}
+{4010}{}{s nÄ›kolika lovci odmÄ›n.}
+{4011}{}{s nÄ›kolika lovci odmÄ›n.}
+{4012}{}{s tlupou darebÃ¡kÅ¯ vedenÃ½ch jednÃ­m z MortonovÃ½ch bratrÅ¯.}
+{4013}{}{s rojem mantisÅ¯ a masoÅ¾ravÃ½mi rostlinami.}
+{4014}{}{s divokÃ½mi psy a masoÅ¾ravÃ½mi rostlinami.}
+{4015}{}{s rojem mantisÅ¯.}
+{4016}{}{se smeÄkou divokÃ½ch psÅ¯.}
+{4017}{}{s nÄ›kolika lupiÄi napadenÃ½mi divokÃ½mi psy.}
+{4018}{}{s karavanou napadenou divokÃ½mi psy.}
+{4019}{}{s karavanou pÅ™epadenou lupiÄi.}
+{4020}{}{s karavanou pÅ™epadenou potulnÃ½mi zabijÃ¡ky.}
 {4021}{}{s karavanou.}
-{4022}{}{s muem hlídajícím most.}
-{4023}{}{s rytíøi krále Artuše bojujícími s krysou.}
-{4050}{}{se skládkou toxickıch odpadù.}
-{4051}{}{s osamìlım psem.}
-{4052}{}{se stádem brahmín.}
-{4053}{}{s nìkolika potulnımi zabijáky a jejich divokımi psy.}
-{4054}{}{s nìkolika lovci odmìn.}
-{4055}{}{s nìkolika lovci odmìn.}
-{4056}{}{s nìkolika lovci odmìn.}
-{4057}{}{s nìkolika lovci odmìn.}
-{4058}{}{s nìkolika lovci odmìn.}
-{4059}{}{s nìkolika lovci odmìn.}
-{4060}{}{s nìkolika lovci odmìn.}
-{4061}{}{s nìkolika lovci odmìn.}
-{4062}{}{s tlupou darebákù vedenıch jedním z Mortonovıch bratrù.}
-{4063}{}{s nìkolika lupièi a jejich divokımi psy.}
-{4064}{}{s tlupou lupièù.}
-{4065}{}{s tlupou potulnıch zabijákù.}
-{4066}{}{s rojem mantisù a masoravımi rostlinami.}
-{4067}{}{s divokımi psy a masoravımi rostlinami.}
-{4068}{}{s rojem mantisù.}
-{4069}{}{se smeèkou divokıch psù.}
-{4070}{}{s nìkolika lupièi napadenımi divokımi psy.}
-{4071}{}{s karavanou napadenou divokımi psy.}
-{4072}{}{s karavanou pøepadenou lupièi.}
-{4073}{}{s karavanou pøepadenou potulnımi zabijáky.}
+{4022}{}{s muÅ¾em hlÃ­dajÃ­cÃ­m most.}
+{4023}{}{s rytÃ­Å™i krÃ¡le ArtuÅ¡e bojujÃ­cÃ­mi s krysou.}
+{4050}{}{se sklÃ¡dkou toxickÃ½ch odpadÅ¯.}
+{4051}{}{s osamÄ›lÃ½m psem.}
+{4052}{}{se stÃ¡dem brahmÃ­n.}
+{4053}{}{s nÄ›kolika potulnÃ½mi zabijÃ¡ky a jejich divokÃ½mi psy.}
+{4054}{}{s nÄ›kolika lovci odmÄ›n.}
+{4055}{}{s nÄ›kolika lovci odmÄ›n.}
+{4056}{}{s nÄ›kolika lovci odmÄ›n.}
+{4057}{}{s nÄ›kolika lovci odmÄ›n.}
+{4058}{}{s nÄ›kolika lovci odmÄ›n.}
+{4059}{}{s nÄ›kolika lovci odmÄ›n.}
+{4060}{}{s nÄ›kolika lovci odmÄ›n.}
+{4061}{}{s nÄ›kolika lovci odmÄ›n.}
+{4062}{}{s tlupou darebÃ¡kÅ¯ vedenÃ½ch jednÃ­m z MortonovÃ½ch bratrÅ¯.}
+{4063}{}{s nÄ›kolika lupiÄi a jejich divokÃ½mi psy.}
+{4064}{}{s tlupou lupiÄÅ¯.}
+{4065}{}{s tlupou potulnÃ½ch zabijÃ¡kÅ¯.}
+{4066}{}{s rojem mantisÅ¯ a masoÅ¾ravÃ½mi rostlinami.}
+{4067}{}{s divokÃ½mi psy a masoÅ¾ravÃ½mi rostlinami.}
+{4068}{}{s rojem mantisÅ¯.}
+{4069}{}{se smeÄkou divokÃ½ch psÅ¯.}
+{4070}{}{s nÄ›kolika lupiÄi napadenÃ½mi divokÃ½mi psy.}
+{4071}{}{s karavanou napadenou divokÃ½mi psy.}
+{4072}{}{s karavanou pÅ™epadenou lupiÄi.}
+{4073}{}{s karavanou pÅ™epadenou potulnÃ½mi zabijÃ¡ky.}
 {4074}{}{s karavanou.}
-{4075}{}{s pozùstatky vorvanì.}
-{4076}{}{s obøí kamennou hlavou.}
-{4077}{}{s vrakem kosmické lodi.}
-{4078}{}{s portálem ke Stráci Vìènosti.}
-{4079}{}{s rytíøi krále Artuše.}
-{4080}{}{s Plechovım Døevorubcem.}
-{4081}{}{se špinavımi vesnièany pronásledujícími spammera.}
-{4100}{}{s nìkolika zlatımi geckony.}
-{4101}{}{s rojem mantisù.}
-{4102}{}{se skupinou radškorpionù.}
-{4103}{}{s nìkolika divokımi brahmínami.}
-{4104}{}{s nìkolika lovci odmìn.}
-{4105}{}{s nìkolika lovci odmìn.}
-{4106}{}{s nìkolika lovci odmìn.}
-{4107}{}{s nìkolika lovci odmìn.}
-{4108}{}{s nìkolika lovci odmìn.}
-{4109}{}{s nìkolika lovci odmìn.}
-{4110}{}{s nìkolika lovci odmìn.}
-{4111}{}{s nìkolika lovci odmìn.}
-{4112}{}{s tlupou darebákù vedenıch jedním z Mortonovıch bratrù.}
-{4113}{}{s obchodníkem a jeho stráci bojujícími se zlatımi geckony.}
-{4114}{}{s rojem mantisù masakrujícím obchodní karavanu.}
-{4115}{}{s rojem mantisù bojujícím s divokımi brahmínami.}
-{4116}{}{s nìkolika radškorpiony poírajícími mantisy.}
-{4117}{}{s nìkolika radškorpiony vradícími divoké brahmíny.}
-{4118}{}{s obchodníkem a jeho stráci.}
-{4119}{}{s muem hlídajícím most.}
-{4120}{}{s rytíøi krále Artuše bojujícími s krysou.}
-{4121}{}{s tlupou rozzuøenıch banditù.}
-{4150}{}{se skládkou toxickıch odpadù.}
-{4151}{}{s osamìlım psem.}
-{4152}{}{se stádem brahmín.}
-{4153}{}{s nìkolika zlatımi geckony.}
-{4154}{}{s nìkolika lovci odmìn.}
-{4155}{}{s nìkolika lovci odmìn.}
-{4156}{}{s nìkolika lovci odmìn.}
-{4157}{}{s nìkolika lovci odmìn.}
-{4158}{}{s nìkolika lovci odmìn.}
-{4159}{}{s nìkolika lovci odmìn.}
-{4160}{}{s nìkolika lovci odmìn.}
-{4161}{}{s nìkolika lovci odmìn.}
-{4162}{}{s tlupou darebákù vedenıch jedním z Mortonovıch bratrù.}
-{4163}{}{s rojem mantisù.}
-{4164}{}{se skupinou radškorpionù.}
-{4165}{}{s nìkolika divokımi brahmínami.}
-{4166}{}{s obchodníkem a jeho stráci bojujícími se zlatımi geckony.}
-{4167}{}{s rojem mantisù masakrujícím obchodní karavanu.}
-{4168}{}{s rojem mantisù bojujícím s divokımi brahmínami.}
-{4169}{}{s nìkolika radškorpiony poírajícími mantisy.}
-{4170}{}{s nìkolika radškorpiony vradícími divoké brahmíny.}
-{4171}{}{s obchodníkem a jeho stráci.}
-{4172}{}{s pozùstatky vorvanì.}
-{4173}{}{s obøí kamennou hlavou.}
-{4174}{}{s vrakem kosmické lodi.}
-{4175}{}{s portálem ke Stráci Vìènosti.}
-{4176}{}{s rytíøi krále Artuše.}
-{4177}{}{s Plechovım Døevorubcem.}
-{4178}{}{se špinavımi vesnièany pronásledujícími spammera.}
-{4179}{}{s tlupou rozzuøenıch banditù.}
-{4200}{}{se skládkou toxickıch odpadù.}
-{4201}{}{s osamìlım psem.}
-{4202}{}{se stádem brahmín.}
-{4203}{}{s nìkolika krtèími potkany.}
-{4204}{}{s nìkolika lovci odmìn.}
-{4205}{}{s nìkolika lovci odmìn.}
-{4206}{}{s nìkolika lovci odmìn.}
-{4207}{}{s nìkolika lovci odmìn.}
-{4208}{}{s nìkolika lovci odmìn.}
-{4209}{}{s nìkolika lovci odmìn.}
-{4210}{}{s nìkolika lovci odmìn.}
-{4211}{}{s nìkolika lovci odmìn.}
-{4212}{}{s tlupou darebákù vedenıch jedním z Mortonovıch bratrù.}
-{4213}{}{s nìkolika praseèími potkany.}
-{4214}{}{s nìkolika masoravımi rostlinami.}
-{4215}{}{s poustevníkem a psy bojujícími proti zmutovanım krtèím potkanùm.}
-{4216}{}{s poustevníkem bránícím se divokım psùm.}
-{4217}{}{s poustevníkem bránícím se praseèím potkanùm.}
-{4218}{}{s poustevníkem a jeho psy bránícím se krtèím potkanùm.}
-{4219}{}{s nìkolika krtèími potkany bojujícími s praseèími potkany.}
-{4220}{}{s nìkolika krtèími potkany bojujícími s masoravımi rostlinami.}
-{4221}{}{s nìkolika praseèími potkany bojujícími s divokımi psy.}
-{4222}{}{s poustevníkem.}
-{4223}{}{s pozùstatky vorvanì.}
-{4224}{}{s obøí kamennou hlavou.}
-{4225}{}{s vrakem kosmické lodi.}
-{4226}{}{s portálem ke Stráci Vìènosti.}
-{4227}{}{s rytíøi krále Artuše.}
-{4228}{}{s Plechovım Døevorubcem.}
-{4229}{}{se špinavımi vesnièany pronásledujícími spammera.}
-{4250}{}{s nìkolika krtèími potkany.}
-{4251}{}{s nìkolika praseèími potkany.}
-{4252}{}{s nìkolika masoravımi rostlinami.}
-{4253}{}{s poustevníkem a psy bojujícími proti zmutovanım krtèím potkanùm.}
-{4254}{}{s nìkolika lovci odmìn.}
-{4255}{}{s nìkolika lovci odmìn.}
-{4256}{}{s nìkolika lovci odmìn.}
-{4257}{}{s nìkolika lovci odmìn.}
-{4258}{}{s nìkolika lovci odmìn.}
-{4259}{}{s nìkolika lovci odmìn.}
-{4260}{}{s nìkolika lovci odmìn.}
-{4261}{}{s nìkolika lovci odmìn.}
-{4262}{}{s tlupou darebákù vedenıch jedním z Mortonovıch bratrù.}
-{4263}{}{s poustevníkem bránícím se divokım psùm.}
-{4264}{}{s poustevníkem bránícím se praseèím potkanùm.}
-{4265}{}{s poustevníkem a jeho psy bránícím se krtèím potkanùm.}
-{4266}{}{s nìkolika krtèími potkany bojujícími s praseèími potkany.}
-{4267}{}{s nìkolika krtèími potkany bojujícími s masoravımi rostlinami.}
-{4268}{}{s nìkolika praseèími potkany bojujícími s divokımi psy.}
-{4269}{}{s poustevníkem.}
-{4270}{}{s muem hlídajícím most.}
-{4271}{}{s rytíøi krále Artuše bojujícími s krysou.}
-{4300}{}{s tlupou otrokáøù a nìkolika psy.}
-{4301}{}{s tlupou otrokáøù.}
-{4302}{}{s nìkolika zlatımi geckony.}
-{4303}{}{se smeèkou divokıch psù.}
-{4304}{}{s nìkolika lovci odmìn.}
-{4305}{}{s nìkolika lovci odmìn.}
-{4306}{}{s nìkolika lovci odmìn.}
-{4307}{}{s nìkolika lovci odmìn.}
-{4308}{}{s nìkolika lovci odmìn.}
-{4309}{}{s nìkolika lovci odmìn.}
-{4310}{}{s nìkolika lovci odmìn.}
-{4311}{}{s nìkolika lovci odmìn.}
-{4312}{}{s tlupou darebákù vedenıch jedním z Mortonovıch bratrù.}
-{4313}{}{s hlídkou a nìkolika psy podrobujícími si otrokáøe.}
-{4314}{}{s tlupou otrokáøù bojující s nìkolika zlatımi geckony.}
-{4315}{}{s hlídkou bojující s otrokáøi.}
-{4316}{}{s hlídkou napadenou zlatımi geckony.}
-{4317}{}{s hlídkou bránící se útoku divokıch psù.}
-{4318}{}{s hlídkou.}
-{4319}{}{s muem hlídajícím most.}
-{4320}{}{s rytíøi krále Artuše bojujícími s krysou.}
-{4350}{}{se skládkou toxickıch odpadù.}
-{4351}{}{s osamìlım psem.}
-{4352}{}{se stádem brahmín.}
-{4353}{}{s tlupou otrokáøù a nìkolika psy.}
-{4354}{}{s nìkolika lovci odmìn.}
-{4355}{}{s nìkolika lovci odmìn.}
-{4356}{}{s nìkolika lovci odmìn.}
-{4357}{}{s nìkolika lovci odmìn.}
-{4358}{}{s nìkolika lovci odmìn.}
-{4359}{}{s nìkolika lovci odmìn.}
-{4360}{}{s nìkolika lovci odmìn.}
-{4361}{}{s nìkolika lovci odmìn.}
-{4362}{}{s tlupou darebákù vedenıch jedním z Mortonovıch bratrù.}
-{4363}{}{s tlupou otrokáøù.}
-{4364}{}{s nìkolika zlatımi geckony.}
-{4365}{}{se smeèkou divokıch psù.}
-{4366}{}{s hlídkou a nìkolika psy podrobujícími si otrokáøe.}
-{4367}{}{s tlupou otrokáøù bojující s nìkolika zlatımi geckony.}
-{4368}{}{s hlídkou bojující s otrokáøi.}
-{4369}{}{s hlídkou napadenou zlatımi geckony.}
-{4370}{}{s hlídkou bránící se útoku divokıch psù.}
-{4371}{}{s hlídkou.}
-{4372}{}{s pozùstatky vorvanì.}
-{4373}{}{s obøí kamennou hlavou.}
-{4374}{}{s vrakem kosmické lodi.}
-{4375}{}{s portálem ke Stráci Vìènosti.}
-{4376}{}{s rytíøi krále Artuše.}
-{4377}{}{s Plechovım Døevorubcem.}
-{4378}{}{se špinavımi vesnièany pronásledujícími spammera.}
-{4400}{}{se spoustou mrchoroutù.}
-{4401}{}{s nìkolika ghoulími mrchorouty.}
-{4402}{}{s bandou bláznù.}
-{4403}{}{s nìkolika ghoulími blázny.}
-{4404}{}{s nìkolika lovci odmìn.}
-{4405}{}{s nìkolika lovci odmìn.}
-{4406}{}{s nìkolika lovci odmìn.}
-{4407}{}{s nìkolika lovci odmìn.}
-{4408}{}{s nìkolika lovci odmìn.}
-{4409}{}{s nìkolika lovci odmìn.}
-{4410}{}{s nìkolika lovci odmìn.}
-{4411}{}{s nìkolika lovci odmìn.}
-{4412}{}{s tlupou darebákù vedenıch jedním z Mortonovıch bratrù.}
-{4413}{}{s nìkolika geckony.}
-{4414}{}{se smeèkou divokıch psù.}
-{4415}{}{s rodinou radškorpionù.}
-{4416}{}{s bandou zmutovanıch praseèích potkanù.}
-{4417}{}{s houfem zmutovanıch krys.}
-{4418}{}{s nìkolika mrchorouty bojujícími s bandou bláznù.}
-{4419}{}{s tlupou ghoulích mrchoroutù bojujících s nìkolika blázny.}
-{4420}{}{s nìkolika geckony bojujícími s blázny.}
-{4421}{}{se zmutovanımi krysami, které napadly ghoulské mrchorouty.}
-{4422}{}{s muem hlídajícím most.}
-{4423}{}{s rytíøi krále Artuše bojujícími s krysou.}
-{4450}{}{se skládkou toxickıch odpadù.}
-{4451}{}{s osamìlım psem.}
-{4452}{}{se stádem brahmín.}
-{4453}{}{se spoustou mrchoroutù.}
-{4454}{}{s nìkolika lovci odmìn.}
-{4455}{}{s nìkolika lovci odmìn.}
-{4456}{}{s nìkolika lovci odmìn.}
-{4457}{}{s nìkolika lovci odmìn.}
-{4458}{}{s nìkolika lovci odmìn.}
-{4459}{}{s nìkolika lovci odmìn.}
-{4460}{}{s nìkolika lovci odmìn.}
-{4461}{}{s nìkolika lovci odmìn.}
-{4462}{}{s tlupou darebákù vedenıch jedním z Mortonovıch bratrù.}
-{4463}{}{s nìkolika ghoulími mrchorouty.}
-{4464}{}{s bandou bláznù.}
-{4465}{}{s nìkolika ghoulími blázny.}
-{4466}{}{s nìkolika geckony.}
-{4467}{}{se smeèkou divokıch psù.}
-{4468}{}{s rodinou radškorpionù.}
-{4469}{}{s bandou zmutovanıch praseèích potkanù.}
-{4470}{}{s houfem zmutovanıch krys.}
-{4471}{}{s nìkolika mrchorouty bojujícími s bandou bláznù.}
-{4472}{}{s nìkolika ghoulími mrchorouty bojujícími s blázny.}
-{4473}{}{s nìkolika geckony bojujícími s blázny.}
-{4474}{}{se zmutovanımi krysami, které napadly ghoulské mrchorouty.}
-{4475}{}{s pozùstatky vorvanì.}
-{4476}{}{s obøí kamennou hlavou.}
-{4477}{}{s vrakem kosmické lodi.}
-{4478}{}{s portálem ke Stráci Vìènosti.}
-{4479}{}{s rytíøi krále Artuše.}
-{4480}{}{s Plechovım Døevorubcem.}
-{4481}{}{se špinavımi vesnièany pronásledujícími spammera.}
-{4500}{}{s nìkolika kanibaly.}
-{4501}{}{s nìkolika divochy.}
-{4502}{}{s tlupou váleèníkù.}
-{4503}{}{s nìkolika psanci.}
-{4504}{}{s nìkolika lovci odmìn.}
-{4505}{}{s nìkolika lovci odmìn.}
-{4506}{}{s nìkolika lovci odmìn.}
-{4507}{}{s nìkolika lovci odmìn.}
-{4508}{}{s nìkolika lovci odmìn.}
-{4509}{}{s nìkolika lovci odmìn.}
-{4510}{}{s nìkolika lovci odmìn.}
-{4511}{}{s nìkolika lovci odmìn.}
-{4512}{}{s tlupou darebákù vedenıch jedním z Mortonovıch bratrù.}
-{4513}{}{s rodinou radškorpionù.}
-{4514}{}{s nìkolika krtèími potkany.}
-{4515}{}{s nìkolika rybáøi napadenımi kanibaly.}
-{4516}{}{s nìkolika kanibaly bojujícími proti divochùm.}
-{4517}{}{s nìkolika divochy napadenımi radškorpiony.}
-{4518}{}{s nìkolika rybáøi.}
-{4550}{}{se skládkou toxickıch odpadù.}
-{4551}{}{s osamìlım psem.}
-{4552}{}{se stádem brahmín.}
-{4553}{}{s nìkolika kanibaly.}
-{4554}{}{s nìkolika lovci odmìn.}
-{4555}{}{s nìkolika lovci odmìn.}
-{4556}{}{s nìkolika lovci odmìn.}
-{4557}{}{s nìkolika lovci odmìn.}
-{4558}{}{s nìkolika lovci odmìn.}
-{4559}{}{s nìkolika lovci odmìn.}
-{4560}{}{s nìkolika lovci odmìn.}
-{4561}{}{s nìkolika lovci odmìn.}
-{4562}{}{s tlupou darebákù vedenıch jedním z Mortonovıch bratrù.}
-{4563}{}{s nìkolika psanci.}
-{4564}{}{s nìkolika divochy.}
-{4565}{}{s tlupou váleèníkù.}
-{4566}{}{s nìkolika geckony ukrytımi mezi masoravımi rostlinami.}
-{4567}{}{s nìkolika geckony a radškorpiony.}
-{4568}{}{s nìkolika geckony.}
-{4569}{}{s radškorpiony a masoravımi rostlinami.}
-{4570}{}{se skupinou radškorpionù.}
-{4571}{}{s nìkolika geckony útoèícími na skupinu psancù.}
-{4572}{}{s nìkolika geckony útoèícími na skupinu divochù.}
-{4573}{}{s nìkolika kanibaly napadenımi radškorpiony.}
-{4574}{}{s poustevníkem napadenım nìkolika radškorpiony.}
-{4575}{}{s poustevníkem.}
-{4576}{}{s pozùstatky vorvanì.}
-{4577}{}{s obøí kamennou hlavou.}
-{4578}{}{s vrakem kosmické lodi.}
-{4579}{}{s portálem ke Stráci Vìènosti.}
-{4580}{}{s rytíøi krále Artuše.}
-{4581}{}{s Plechovım Døevorubcem.}
-{4582}{}{se špinavımi vesnièany pronásledujícími spammera.}
-{4600}{}{s nìkolika kanibaly.}
-{4601}{}{s nìkolika psanci.}
-{4602}{}{s nìkolika divochy.}
-{4603}{}{s tlupou váleèníkù.}
-{4604}{}{s nìkolika lovci odmìn.}
-{4605}{}{s nìkolika lovci odmìn.}
-{4606}{}{s nìkolika lovci odmìn.}
-{4607}{}{s nìkolika lovci odmìn.}
-{4608}{}{s nìkolika lovci odmìn.}
-{4609}{}{s nìkolika lovci odmìn.}
-{4610}{}{s nìkolika lovci odmìn.}
-{4611}{}{s nìkolika lovci odmìn.}
-{4612}{}{s tlupou darebákù vedenıch jedním z Mortonovıch bratrù.}
-{4613}{}{s nìkolika geckony ukrytımi mezi masoravımi rostlinami.}
-{4614}{}{s nìkolika geckony a radškorpiony.}
-{4615}{}{s nìkolika geckony.}
-{4616}{}{s radškorpiony a masoravımi rostlinami.}
-{4617}{}{se skupinou radškorpionù.}
-{4618}{}{s nìkolika geckony útoèícími na skupinu psancù.}
-{4619}{}{s nìkolika geckony útoèícími na skupinu divochù.}
-{4620}{}{s nìkolika kanibaly napadenımi radškorpiony.}
-{4621}{}{s poustevníkem napadenım nìkolika radškorpiony.}
-{4622}{}{s poustevníkem.}
-{4623}{}{s muem hlídajícím most.}
-{4624}{}{s rytíøi krále Artuše bojujícími s krysou.}
-{4650}{}{se skládkou toxickıch odpadù.}
-{4651}{}{s osamìlım psem.}
-{4652}{}{se stádem brahmín.}
+{4075}{}{s pozÅ¯statky vorvanÄ›.}
+{4076}{}{s obÅ™Ã­ kamennou hlavou.}
+{4077}{}{s vrakem kosmickÃ© lodi.}
+{4078}{}{s portÃ¡lem ke StrÃ¡Å¾ci VÄ›Änosti.}
+{4079}{}{s rytÃ­Å™i krÃ¡le ArtuÅ¡e.}
+{4080}{}{s PlechovÃ½m DÅ™evorubcem.}
+{4081}{}{se Å¡pinavÃ½mi vesniÄany pronÃ¡sledujÃ­cÃ­mi spammera.}
+{4100}{}{s nÄ›kolika zlatÃ½mi geckony.}
+{4101}{}{s rojem mantisÅ¯.}
+{4102}{}{se skupinou radÅ¡korpionÅ¯.}
+{4103}{}{s nÄ›kolika divokÃ½mi brahmÃ­nami.}
+{4104}{}{s nÄ›kolika lovci odmÄ›n.}
+{4105}{}{s nÄ›kolika lovci odmÄ›n.}
+{4106}{}{s nÄ›kolika lovci odmÄ›n.}
+{4107}{}{s nÄ›kolika lovci odmÄ›n.}
+{4108}{}{s nÄ›kolika lovci odmÄ›n.}
+{4109}{}{s nÄ›kolika lovci odmÄ›n.}
+{4110}{}{s nÄ›kolika lovci odmÄ›n.}
+{4111}{}{s nÄ›kolika lovci odmÄ›n.}
+{4112}{}{s tlupou darebÃ¡kÅ¯ vedenÃ½ch jednÃ­m z MortonovÃ½ch bratrÅ¯.}
+{4113}{}{s obchodnÃ­kem a jeho strÃ¡Å¾ci bojujÃ­cÃ­mi se zlatÃ½mi geckony.}
+{4114}{}{s rojem mantisÅ¯ masakrujÃ­cÃ­m obchodnÃ­ karavanu.}
+{4115}{}{s rojem mantisÅ¯ bojujÃ­cÃ­m s divokÃ½mi brahmÃ­nami.}
+{4116}{}{s nÄ›kolika radÅ¡korpiony poÅ¾Ã­rajÃ­cÃ­mi mantisy.}
+{4117}{}{s nÄ›kolika radÅ¡korpiony vraÅ¾dÃ­cÃ­mi divokÃ© brahmÃ­ny.}
+{4118}{}{s obchodnÃ­kem a jeho strÃ¡Å¾ci.}
+{4119}{}{s muÅ¾em hlÃ­dajÃ­cÃ­m most.}
+{4120}{}{s rytÃ­Å™i krÃ¡le ArtuÅ¡e bojujÃ­cÃ­mi s krysou.}
+{4121}{}{s tlupou rozzuÅ™enÃ½ch banditÅ¯.}
+{4150}{}{se sklÃ¡dkou toxickÃ½ch odpadÅ¯.}
+{4151}{}{s osamÄ›lÃ½m psem.}
+{4152}{}{se stÃ¡dem brahmÃ­n.}
+{4153}{}{s nÄ›kolika zlatÃ½mi geckony.}
+{4154}{}{s nÄ›kolika lovci odmÄ›n.}
+{4155}{}{s nÄ›kolika lovci odmÄ›n.}
+{4156}{}{s nÄ›kolika lovci odmÄ›n.}
+{4157}{}{s nÄ›kolika lovci odmÄ›n.}
+{4158}{}{s nÄ›kolika lovci odmÄ›n.}
+{4159}{}{s nÄ›kolika lovci odmÄ›n.}
+{4160}{}{s nÄ›kolika lovci odmÄ›n.}
+{4161}{}{s nÄ›kolika lovci odmÄ›n.}
+{4162}{}{s tlupou darebÃ¡kÅ¯ vedenÃ½ch jednÃ­m z MortonovÃ½ch bratrÅ¯.}
+{4163}{}{s rojem mantisÅ¯.}
+{4164}{}{se skupinou radÅ¡korpionÅ¯.}
+{4165}{}{s nÄ›kolika divokÃ½mi brahmÃ­nami.}
+{4166}{}{s obchodnÃ­kem a jeho strÃ¡Å¾ci bojujÃ­cÃ­mi se zlatÃ½mi geckony.}
+{4167}{}{s rojem mantisÅ¯ masakrujÃ­cÃ­m obchodnÃ­ karavanu.}
+{4168}{}{s rojem mantisÅ¯ bojujÃ­cÃ­m s divokÃ½mi brahmÃ­nami.}
+{4169}{}{s nÄ›kolika radÅ¡korpiony poÅ¾Ã­rajÃ­cÃ­mi mantisy.}
+{4170}{}{s nÄ›kolika radÅ¡korpiony vraÅ¾dÃ­cÃ­mi divokÃ© brahmÃ­ny.}
+{4171}{}{s obchodnÃ­kem a jeho strÃ¡Å¾ci.}
+{4172}{}{s pozÅ¯statky vorvanÄ›.}
+{4173}{}{s obÅ™Ã­ kamennou hlavou.}
+{4174}{}{s vrakem kosmickÃ© lodi.}
+{4175}{}{s portÃ¡lem ke StrÃ¡Å¾ci VÄ›Änosti.}
+{4176}{}{s rytÃ­Å™i krÃ¡le ArtuÅ¡e.}
+{4177}{}{s PlechovÃ½m DÅ™evorubcem.}
+{4178}{}{se Å¡pinavÃ½mi vesniÄany pronÃ¡sledujÃ­cÃ­mi spammera.}
+{4179}{}{s tlupou rozzuÅ™enÃ½ch banditÅ¯.}
+{4200}{}{se sklÃ¡dkou toxickÃ½ch odpadÅ¯.}
+{4201}{}{s osamÄ›lÃ½m psem.}
+{4202}{}{se stÃ¡dem brahmÃ­n.}
+{4203}{}{s nÄ›kolika krtÄÃ­mi potkany.}
+{4204}{}{s nÄ›kolika lovci odmÄ›n.}
+{4205}{}{s nÄ›kolika lovci odmÄ›n.}
+{4206}{}{s nÄ›kolika lovci odmÄ›n.}
+{4207}{}{s nÄ›kolika lovci odmÄ›n.}
+{4208}{}{s nÄ›kolika lovci odmÄ›n.}
+{4209}{}{s nÄ›kolika lovci odmÄ›n.}
+{4210}{}{s nÄ›kolika lovci odmÄ›n.}
+{4211}{}{s nÄ›kolika lovci odmÄ›n.}
+{4212}{}{s tlupou darebÃ¡kÅ¯ vedenÃ½ch jednÃ­m z MortonovÃ½ch bratrÅ¯.}
+{4213}{}{s nÄ›kolika praseÄÃ­mi potkany.}
+{4214}{}{s nÄ›kolika masoÅ¾ravÃ½mi rostlinami.}
+{4215}{}{s poustevnÃ­kem a psy bojujÃ­cÃ­mi proti zmutovanÃ½m krtÄÃ­m potkanÅ¯m.}
+{4216}{}{s poustevnÃ­kem brÃ¡nÃ­cÃ­m se divokÃ½m psÅ¯m.}
+{4217}{}{s poustevnÃ­kem brÃ¡nÃ­cÃ­m se praseÄÃ­m potkanÅ¯m.}
+{4218}{}{s poustevnÃ­kem a jeho psy brÃ¡nÃ­cÃ­m se krtÄÃ­m potkanÅ¯m.}
+{4219}{}{s nÄ›kolika krtÄÃ­mi potkany bojujÃ­cÃ­mi s praseÄÃ­mi potkany.}
+{4220}{}{s nÄ›kolika krtÄÃ­mi potkany bojujÃ­cÃ­mi s masoÅ¾ravÃ½mi rostlinami.}
+{4221}{}{s nÄ›kolika praseÄÃ­mi potkany bojujÃ­cÃ­mi s divokÃ½mi psy.}
+{4222}{}{s poustevnÃ­kem.}
+{4223}{}{s pozÅ¯statky vorvanÄ›.}
+{4224}{}{s obÅ™Ã­ kamennou hlavou.}
+{4225}{}{s vrakem kosmickÃ© lodi.}
+{4226}{}{s portÃ¡lem ke StrÃ¡Å¾ci VÄ›Änosti.}
+{4227}{}{s rytÃ­Å™i krÃ¡le ArtuÅ¡e.}
+{4228}{}{s PlechovÃ½m DÅ™evorubcem.}
+{4229}{}{se Å¡pinavÃ½mi vesniÄany pronÃ¡sledujÃ­cÃ­mi spammera.}
+{4250}{}{s nÄ›kolika krtÄÃ­mi potkany.}
+{4251}{}{s nÄ›kolika praseÄÃ­mi potkany.}
+{4252}{}{s nÄ›kolika masoÅ¾ravÃ½mi rostlinami.}
+{4253}{}{s poustevnÃ­kem a psy bojujÃ­cÃ­mi proti zmutovanÃ½m krtÄÃ­m potkanÅ¯m.}
+{4254}{}{s nÄ›kolika lovci odmÄ›n.}
+{4255}{}{s nÄ›kolika lovci odmÄ›n.}
+{4256}{}{s nÄ›kolika lovci odmÄ›n.}
+{4257}{}{s nÄ›kolika lovci odmÄ›n.}
+{4258}{}{s nÄ›kolika lovci odmÄ›n.}
+{4259}{}{s nÄ›kolika lovci odmÄ›n.}
+{4260}{}{s nÄ›kolika lovci odmÄ›n.}
+{4261}{}{s nÄ›kolika lovci odmÄ›n.}
+{4262}{}{s tlupou darebÃ¡kÅ¯ vedenÃ½ch jednÃ­m z MortonovÃ½ch bratrÅ¯.}
+{4263}{}{s poustevnÃ­kem brÃ¡nÃ­cÃ­m se divokÃ½m psÅ¯m.}
+{4264}{}{s poustevnÃ­kem brÃ¡nÃ­cÃ­m se praseÄÃ­m potkanÅ¯m.}
+{4265}{}{s poustevnÃ­kem a jeho psy brÃ¡nÃ­cÃ­m se krtÄÃ­m potkanÅ¯m.}
+{4266}{}{s nÄ›kolika krtÄÃ­mi potkany bojujÃ­cÃ­mi s praseÄÃ­mi potkany.}
+{4267}{}{s nÄ›kolika krtÄÃ­mi potkany bojujÃ­cÃ­mi s masoÅ¾ravÃ½mi rostlinami.}
+{4268}{}{s nÄ›kolika praseÄÃ­mi potkany bojujÃ­cÃ­mi s divokÃ½mi psy.}
+{4269}{}{s poustevnÃ­kem.}
+{4270}{}{s muÅ¾em hlÃ­dajÃ­cÃ­m most.}
+{4271}{}{s rytÃ­Å™i krÃ¡le ArtuÅ¡e bojujÃ­cÃ­mi s krysou.}
+{4300}{}{s tlupou otrokÃ¡Å™Å¯ a nÄ›kolika psy.}
+{4301}{}{s tlupou otrokÃ¡Å™Å¯.}
+{4302}{}{s nÄ›kolika zlatÃ½mi geckony.}
+{4303}{}{se smeÄkou divokÃ½ch psÅ¯.}
+{4304}{}{s nÄ›kolika lovci odmÄ›n.}
+{4305}{}{s nÄ›kolika lovci odmÄ›n.}
+{4306}{}{s nÄ›kolika lovci odmÄ›n.}
+{4307}{}{s nÄ›kolika lovci odmÄ›n.}
+{4308}{}{s nÄ›kolika lovci odmÄ›n.}
+{4309}{}{s nÄ›kolika lovci odmÄ›n.}
+{4310}{}{s nÄ›kolika lovci odmÄ›n.}
+{4311}{}{s nÄ›kolika lovci odmÄ›n.}
+{4312}{}{s tlupou darebÃ¡kÅ¯ vedenÃ½ch jednÃ­m z MortonovÃ½ch bratrÅ¯.}
+{4313}{}{s hlÃ­dkou a nÄ›kolika psy podrobujÃ­cÃ­mi si otrokÃ¡Å™e.}
+{4314}{}{s tlupou otrokÃ¡Å™Å¯ bojujÃ­cÃ­ s nÄ›kolika zlatÃ½mi geckony.}
+{4315}{}{s hlÃ­dkou bojujÃ­cÃ­ s otrokÃ¡Å™i.}
+{4316}{}{s hlÃ­dkou napadenou zlatÃ½mi geckony.}
+{4317}{}{s hlÃ­dkou brÃ¡nÃ­cÃ­ se Ãºtoku divokÃ½ch psÅ¯.}
+{4318}{}{s hlÃ­dkou.}
+{4319}{}{s muÅ¾em hlÃ­dajÃ­cÃ­m most.}
+{4320}{}{s rytÃ­Å™i krÃ¡le ArtuÅ¡e bojujÃ­cÃ­mi s krysou.}
+{4350}{}{se sklÃ¡dkou toxickÃ½ch odpadÅ¯.}
+{4351}{}{s osamÄ›lÃ½m psem.}
+{4352}{}{se stÃ¡dem brahmÃ­n.}
+{4353}{}{s tlupou otrokÃ¡Å™Å¯ a nÄ›kolika psy.}
+{4354}{}{s nÄ›kolika lovci odmÄ›n.}
+{4355}{}{s nÄ›kolika lovci odmÄ›n.}
+{4356}{}{s nÄ›kolika lovci odmÄ›n.}
+{4357}{}{s nÄ›kolika lovci odmÄ›n.}
+{4358}{}{s nÄ›kolika lovci odmÄ›n.}
+{4359}{}{s nÄ›kolika lovci odmÄ›n.}
+{4360}{}{s nÄ›kolika lovci odmÄ›n.}
+{4361}{}{s nÄ›kolika lovci odmÄ›n.}
+{4362}{}{s tlupou darebÃ¡kÅ¯ vedenÃ½ch jednÃ­m z MortonovÃ½ch bratrÅ¯.}
+{4363}{}{s tlupou otrokÃ¡Å™Å¯.}
+{4364}{}{s nÄ›kolika zlatÃ½mi geckony.}
+{4365}{}{se smeÄkou divokÃ½ch psÅ¯.}
+{4366}{}{s hlÃ­dkou a nÄ›kolika psy podrobujÃ­cÃ­mi si otrokÃ¡Å™e.}
+{4367}{}{s tlupou otrokÃ¡Å™Å¯ bojujÃ­cÃ­ s nÄ›kolika zlatÃ½mi geckony.}
+{4368}{}{s hlÃ­dkou bojujÃ­cÃ­ s otrokÃ¡Å™i.}
+{4369}{}{s hlÃ­dkou napadenou zlatÃ½mi geckony.}
+{4370}{}{s hlÃ­dkou brÃ¡nÃ­cÃ­ se Ãºtoku divokÃ½ch psÅ¯.}
+{4371}{}{s hlÃ­dkou.}
+{4372}{}{s pozÅ¯statky vorvanÄ›.}
+{4373}{}{s obÅ™Ã­ kamennou hlavou.}
+{4374}{}{s vrakem kosmickÃ© lodi.}
+{4375}{}{s portÃ¡lem ke StrÃ¡Å¾ci VÄ›Änosti.}
+{4376}{}{s rytÃ­Å™i krÃ¡le ArtuÅ¡e.}
+{4377}{}{s PlechovÃ½m DÅ™evorubcem.}
+{4378}{}{se Å¡pinavÃ½mi vesniÄany pronÃ¡sledujÃ­cÃ­mi spammera.}
+{4400}{}{se spoustou mrchoÅ¾routÅ¯.}
+{4401}{}{s nÄ›kolika ghoulÃ­mi mrchoÅ¾routy.}
+{4402}{}{s bandou blÃ¡znÅ¯.}
+{4403}{}{s nÄ›kolika ghoulÃ­mi blÃ¡zny.}
+{4404}{}{s nÄ›kolika lovci odmÄ›n.}
+{4405}{}{s nÄ›kolika lovci odmÄ›n.}
+{4406}{}{s nÄ›kolika lovci odmÄ›n.}
+{4407}{}{s nÄ›kolika lovci odmÄ›n.}
+{4408}{}{s nÄ›kolika lovci odmÄ›n.}
+{4409}{}{s nÄ›kolika lovci odmÄ›n.}
+{4410}{}{s nÄ›kolika lovci odmÄ›n.}
+{4411}{}{s nÄ›kolika lovci odmÄ›n.}
+{4412}{}{s tlupou darebÃ¡kÅ¯ vedenÃ½ch jednÃ­m z MortonovÃ½ch bratrÅ¯.}
+{4413}{}{s nÄ›kolika geckony.}
+{4414}{}{se smeÄkou divokÃ½ch psÅ¯.}
+{4415}{}{s rodinou radÅ¡korpionÅ¯.}
+{4416}{}{s bandou zmutovanÃ½ch praseÄÃ­ch potkanÅ¯.}
+{4417}{}{s houfem zmutovanÃ½ch krys.}
+{4418}{}{s nÄ›kolika mrchoÅ¾routy bojujÃ­cÃ­mi s bandou blÃ¡znÅ¯.}
+{4419}{}{s tlupou ghoulÃ­ch mrchoÅ¾routÅ¯ bojujÃ­cÃ­ch s nÄ›kolika blÃ¡zny.}
+{4420}{}{s nÄ›kolika geckony bojujÃ­cÃ­mi s blÃ¡zny.}
+{4421}{}{se zmutovanÃ½mi krysami, kterÃ© napadly ghoulskÃ© mrchoÅ¾routy.}
+{4422}{}{s muÅ¾em hlÃ­dajÃ­cÃ­m most.}
+{4423}{}{s rytÃ­Å™i krÃ¡le ArtuÅ¡e bojujÃ­cÃ­mi s krysou.}
+{4450}{}{se sklÃ¡dkou toxickÃ½ch odpadÅ¯.}
+{4451}{}{s osamÄ›lÃ½m psem.}
+{4452}{}{se stÃ¡dem brahmÃ­n.}
+{4453}{}{se spoustou mrchoÅ¾routÅ¯.}
+{4454}{}{s nÄ›kolika lovci odmÄ›n.}
+{4455}{}{s nÄ›kolika lovci odmÄ›n.}
+{4456}{}{s nÄ›kolika lovci odmÄ›n.}
+{4457}{}{s nÄ›kolika lovci odmÄ›n.}
+{4458}{}{s nÄ›kolika lovci odmÄ›n.}
+{4459}{}{s nÄ›kolika lovci odmÄ›n.}
+{4460}{}{s nÄ›kolika lovci odmÄ›n.}
+{4461}{}{s nÄ›kolika lovci odmÄ›n.}
+{4462}{}{s tlupou darebÃ¡kÅ¯ vedenÃ½ch jednÃ­m z MortonovÃ½ch bratrÅ¯.}
+{4463}{}{s nÄ›kolika ghoulÃ­mi mrchoÅ¾routy.}
+{4464}{}{s bandou blÃ¡znÅ¯.}
+{4465}{}{s nÄ›kolika ghoulÃ­mi blÃ¡zny.}
+{4466}{}{s nÄ›kolika geckony.}
+{4467}{}{se smeÄkou divokÃ½ch psÅ¯.}
+{4468}{}{s rodinou radÅ¡korpionÅ¯.}
+{4469}{}{s bandou zmutovanÃ½ch praseÄÃ­ch potkanÅ¯.}
+{4470}{}{s houfem zmutovanÃ½ch krys.}
+{4471}{}{s nÄ›kolika mrchoÅ¾routy bojujÃ­cÃ­mi s bandou blÃ¡znÅ¯.}
+{4472}{}{s nÄ›kolika ghoulÃ­mi mrchoÅ¾routy bojujÃ­cÃ­mi s blÃ¡zny.}
+{4473}{}{s nÄ›kolika geckony bojujÃ­cÃ­mi s blÃ¡zny.}
+{4474}{}{se zmutovanÃ½mi krysami, kterÃ© napadly ghoulskÃ© mrchoÅ¾routy.}
+{4475}{}{s pozÅ¯statky vorvanÄ›.}
+{4476}{}{s obÅ™Ã­ kamennou hlavou.}
+{4477}{}{s vrakem kosmickÃ© lodi.}
+{4478}{}{s portÃ¡lem ke StrÃ¡Å¾ci VÄ›Änosti.}
+{4479}{}{s rytÃ­Å™i krÃ¡le ArtuÅ¡e.}
+{4480}{}{s PlechovÃ½m DÅ™evorubcem.}
+{4481}{}{se Å¡pinavÃ½mi vesniÄany pronÃ¡sledujÃ­cÃ­mi spammera.}
+{4500}{}{s nÄ›kolika kanibaly.}
+{4501}{}{s nÄ›kolika divochy.}
+{4502}{}{s tlupou vÃ¡leÄnÃ­kÅ¯.}
+{4503}{}{s nÄ›kolika psanci.}
+{4504}{}{s nÄ›kolika lovci odmÄ›n.}
+{4505}{}{s nÄ›kolika lovci odmÄ›n.}
+{4506}{}{s nÄ›kolika lovci odmÄ›n.}
+{4507}{}{s nÄ›kolika lovci odmÄ›n.}
+{4508}{}{s nÄ›kolika lovci odmÄ›n.}
+{4509}{}{s nÄ›kolika lovci odmÄ›n.}
+{4510}{}{s nÄ›kolika lovci odmÄ›n.}
+{4511}{}{s nÄ›kolika lovci odmÄ›n.}
+{4512}{}{s tlupou darebÃ¡kÅ¯ vedenÃ½ch jednÃ­m z MortonovÃ½ch bratrÅ¯.}
+{4513}{}{s rodinou radÅ¡korpionÅ¯.}
+{4514}{}{s nÄ›kolika krtÄÃ­mi potkany.}
+{4515}{}{s nÄ›kolika rybÃ¡Å™i napadenÃ½mi kanibaly.}
+{4516}{}{s nÄ›kolika kanibaly bojujÃ­cÃ­mi proti divochÅ¯m.}
+{4517}{}{s nÄ›kolika divochy napadenÃ½mi radÅ¡korpiony.}
+{4518}{}{s nÄ›kolika rybÃ¡Å™i.}
+{4550}{}{se sklÃ¡dkou toxickÃ½ch odpadÅ¯.}
+{4551}{}{s osamÄ›lÃ½m psem.}
+{4552}{}{se stÃ¡dem brahmÃ­n.}
+{4553}{}{s nÄ›kolika kanibaly.}
+{4554}{}{s nÄ›kolika lovci odmÄ›n.}
+{4555}{}{s nÄ›kolika lovci odmÄ›n.}
+{4556}{}{s nÄ›kolika lovci odmÄ›n.}
+{4557}{}{s nÄ›kolika lovci odmÄ›n.}
+{4558}{}{s nÄ›kolika lovci odmÄ›n.}
+{4559}{}{s nÄ›kolika lovci odmÄ›n.}
+{4560}{}{s nÄ›kolika lovci odmÄ›n.}
+{4561}{}{s nÄ›kolika lovci odmÄ›n.}
+{4562}{}{s tlupou darebÃ¡kÅ¯ vedenÃ½ch jednÃ­m z MortonovÃ½ch bratrÅ¯.}
+{4563}{}{s nÄ›kolika psanci.}
+{4564}{}{s nÄ›kolika divochy.}
+{4565}{}{s tlupou vÃ¡leÄnÃ­kÅ¯.}
+{4566}{}{s nÄ›kolika geckony ukrytÃ½mi mezi masoÅ¾ravÃ½mi rostlinami.}
+{4567}{}{s nÄ›kolika geckony a radÅ¡korpiony.}
+{4568}{}{s nÄ›kolika geckony.}
+{4569}{}{s radÅ¡korpiony a masoÅ¾ravÃ½mi rostlinami.}
+{4570}{}{se skupinou radÅ¡korpionÅ¯.}
+{4571}{}{s nÄ›kolika geckony ÃºtoÄÃ­cÃ­mi na skupinu psancÅ¯.}
+{4572}{}{s nÄ›kolika geckony ÃºtoÄÃ­cÃ­mi na skupinu divochÅ¯.}
+{4573}{}{s nÄ›kolika kanibaly napadenÃ½mi radÅ¡korpiony.}
+{4574}{}{s poustevnÃ­kem napadenÃ½m nÄ›kolika radÅ¡korpiony.}
+{4575}{}{s poustevnÃ­kem.}
+{4576}{}{s pozÅ¯statky vorvanÄ›.}
+{4577}{}{s obÅ™Ã­ kamennou hlavou.}
+{4578}{}{s vrakem kosmickÃ© lodi.}
+{4579}{}{s portÃ¡lem ke StrÃ¡Å¾ci VÄ›Änosti.}
+{4580}{}{s rytÃ­Å™i krÃ¡le ArtuÅ¡e.}
+{4581}{}{s PlechovÃ½m DÅ™evorubcem.}
+{4582}{}{se Å¡pinavÃ½mi vesniÄany pronÃ¡sledujÃ­cÃ­mi spammera.}
+{4600}{}{s nÄ›kolika kanibaly.}
+{4601}{}{s nÄ›kolika psanci.}
+{4602}{}{s nÄ›kolika divochy.}
+{4603}{}{s tlupou vÃ¡leÄnÃ­kÅ¯.}
+{4604}{}{s nÄ›kolika lovci odmÄ›n.}
+{4605}{}{s nÄ›kolika lovci odmÄ›n.}
+{4606}{}{s nÄ›kolika lovci odmÄ›n.}
+{4607}{}{s nÄ›kolika lovci odmÄ›n.}
+{4608}{}{s nÄ›kolika lovci odmÄ›n.}
+{4609}{}{s nÄ›kolika lovci odmÄ›n.}
+{4610}{}{s nÄ›kolika lovci odmÄ›n.}
+{4611}{}{s nÄ›kolika lovci odmÄ›n.}
+{4612}{}{s tlupou darebÃ¡kÅ¯ vedenÃ½ch jednÃ­m z MortonovÃ½ch bratrÅ¯.}
+{4613}{}{s nÄ›kolika geckony ukrytÃ½mi mezi masoÅ¾ravÃ½mi rostlinami.}
+{4614}{}{s nÄ›kolika geckony a radÅ¡korpiony.}
+{4615}{}{s nÄ›kolika geckony.}
+{4616}{}{s radÅ¡korpiony a masoÅ¾ravÃ½mi rostlinami.}
+{4617}{}{se skupinou radÅ¡korpionÅ¯.}
+{4618}{}{s nÄ›kolika geckony ÃºtoÄÃ­cÃ­mi na skupinu psancÅ¯.}
+{4619}{}{s nÄ›kolika geckony ÃºtoÄÃ­cÃ­mi na skupinu divochÅ¯.}
+{4620}{}{s nÄ›kolika kanibaly napadenÃ½mi radÅ¡korpiony.}
+{4621}{}{s poustevnÃ­kem napadenÃ½m nÄ›kolika radÅ¡korpiony.}
+{4622}{}{s poustevnÃ­kem.}
+{4623}{}{s muÅ¾em hlÃ­dajÃ­cÃ­m most.}
+{4624}{}{s rytÃ­Å™i krÃ¡le ArtuÅ¡e bojujÃ­cÃ­mi s krysou.}
+{4650}{}{se sklÃ¡dkou toxickÃ½ch odpadÅ¯.}
+{4651}{}{s osamÄ›lÃ½m psem.}
+{4652}{}{se stÃ¡dem brahmÃ­n.}
 {4653}{}{s karavanou z Denu.}
-{4654}{}{s nìkolika lovci odmìn.}
-{4655}{}{s nìkolika lovci odmìn.}
-{4656}{}{s nìkolika lovci odmìn.}
-{4657}{}{s nìkolika lovci odmìn.}
-{4658}{}{s nìkolika lovci odmìn.}
-{4659}{}{s nìkolika lovci odmìn.}
-{4660}{}{s nìkolika lovci odmìn.}
-{4661}{}{s nìkolika lovci odmìn.}
-{4662}{}{s tlupou darebákù vedenıch jedním z Mortonovıch bratrù.}
-{4663}{}{s nìkolika potulnımi zabijáky a lupièi.}
-{4664}{}{s nìkolika potulnımi zabijáky.}
-{4665}{}{s nìkolika lupièi.}
-{4666}{}{s karavanou z Reddingu napadenou potulnımi zabijáky.}
-{4667}{}{s karavanou z New Rena napadenou lupièi.}
-{4668}{}{s karavanou z Denu napadenou potulnımi zabijáky.}
-{4669}{}{s karavanou pøepadenou lupièi.}
+{4654}{}{s nÄ›kolika lovci odmÄ›n.}
+{4655}{}{s nÄ›kolika lovci odmÄ›n.}
+{4656}{}{s nÄ›kolika lovci odmÄ›n.}
+{4657}{}{s nÄ›kolika lovci odmÄ›n.}
+{4658}{}{s nÄ›kolika lovci odmÄ›n.}
+{4659}{}{s nÄ›kolika lovci odmÄ›n.}
+{4660}{}{s nÄ›kolika lovci odmÄ›n.}
+{4661}{}{s nÄ›kolika lovci odmÄ›n.}
+{4662}{}{s tlupou darebÃ¡kÅ¯ vedenÃ½ch jednÃ­m z MortonovÃ½ch bratrÅ¯.}
+{4663}{}{s nÄ›kolika potulnÃ½mi zabijÃ¡ky a lupiÄi.}
+{4664}{}{s nÄ›kolika potulnÃ½mi zabijÃ¡ky.}
+{4665}{}{s nÄ›kolika lupiÄi.}
+{4666}{}{s karavanou z Reddingu napadenou potulnÃ½mi zabijÃ¡ky.}
+{4667}{}{s karavanou z New Rena napadenou lupiÄi.}
+{4668}{}{s karavanou z Denu napadenou potulnÃ½mi zabijÃ¡ky.}
+{4669}{}{s karavanou pÅ™epadenou lupiÄi.}
 {4670}{}{s karavanou z Vault City napadenou karavanou z Denu.}
-{4671}{}{s nìkolika potulnımi zabijáky bojujícími s lupièi.}
+{4671}{}{s nÄ›kolika potulnÃ½mi zabijÃ¡ky bojujÃ­cÃ­mi s lupiÄi.}
 {4672}{}{s karavanou z Vault City.}
 {4673}{}{s karavanou z Denu.}
-{4674}{}{s pozùstatky vorvanì.}
-{4675}{}{s obøí kamennou hlavou.}
-{4676}{}{s vrakem kosmické lodi.}
-{4677}{}{s portálem ke Stráci Vìènosti.}
-{4678}{}{s rytíøi krále Artuše.}
-{4679}{}{s Plechovım Døevorubcem.}
-{4680}{}{se špinavımi vesnièany pronásledujícími spammera.}
+{4674}{}{s pozÅ¯statky vorvanÄ›.}
+{4675}{}{s obÅ™Ã­ kamennou hlavou.}
+{4676}{}{s vrakem kosmickÃ© lodi.}
+{4677}{}{s portÃ¡lem ke StrÃ¡Å¾ci VÄ›Änosti.}
+{4678}{}{s rytÃ­Å™i krÃ¡le ArtuÅ¡e.}
+{4679}{}{s PlechovÃ½m DÅ™evorubcem.}
+{4680}{}{se Å¡pinavÃ½mi vesniÄany pronÃ¡sledujÃ­cÃ­mi spammera.}
 {4700}{}{s karavanou z Denu.}
-{4701}{}{s nìkolika potulnımi zabijáky a lupièi.}
-{4702}{}{s nìkolika potulnımi zabijáky.}
-{4703}{}{s nìkolika lupièi.}
-{4704}{}{s nìkolika lovci odmìn.}
-{4705}{}{s nìkolika lovci odmìn.}
-{4706}{}{s nìkolika lovci odmìn.}
-{4707}{}{s nìkolika lovci odmìn.}
-{4708}{}{s nìkolika lovci odmìn.}
-{4709}{}{s nìkolika lovci odmìn.}
-{4710}{}{s nìkolika lovci odmìn.}
-{4711}{}{s nìkolika lovci odmìn.}
-{4712}{}{s tlupou darebákù vedenıch jedním z Mortonovıch bratrù.}
-{4713}{}{s karavanou z Reddingu napadenou potulnımi zabijáky.}
-{4714}{}{s karavanou z New Rena napadenou lupièi.}
-{4715}{}{s karavanou z Denu napadenou potulnımi zabijáky.}
-{4716}{}{s karavanou pøepadenou lupièi.}
+{4701}{}{s nÄ›kolika potulnÃ½mi zabijÃ¡ky a lupiÄi.}
+{4702}{}{s nÄ›kolika potulnÃ½mi zabijÃ¡ky.}
+{4703}{}{s nÄ›kolika lupiÄi.}
+{4704}{}{s nÄ›kolika lovci odmÄ›n.}
+{4705}{}{s nÄ›kolika lovci odmÄ›n.}
+{4706}{}{s nÄ›kolika lovci odmÄ›n.}
+{4707}{}{s nÄ›kolika lovci odmÄ›n.}
+{4708}{}{s nÄ›kolika lovci odmÄ›n.}
+{4709}{}{s nÄ›kolika lovci odmÄ›n.}
+{4710}{}{s nÄ›kolika lovci odmÄ›n.}
+{4711}{}{s nÄ›kolika lovci odmÄ›n.}
+{4712}{}{s tlupou darebÃ¡kÅ¯ vedenÃ½ch jednÃ­m z MortonovÃ½ch bratrÅ¯.}
+{4713}{}{s karavanou z Reddingu napadenou potulnÃ½mi zabijÃ¡ky.}
+{4714}{}{s karavanou z New Rena napadenou lupiÄi.}
+{4715}{}{s karavanou z Denu napadenou potulnÃ½mi zabijÃ¡ky.}
+{4716}{}{s karavanou pÅ™epadenou lupiÄi.}
 {4717}{}{s karavanou z Vault City napadenou karavanou z Denu.}
-{4718}{}{s nìkolika potulnımi zabijáky bojujícími s lupièi.}
+{4718}{}{s nÄ›kolika potulnÃ½mi zabijÃ¡ky bojujÃ­cÃ­mi s lupiÄi.}
 {4719}{}{s karavanou z Vault City.}
 {4720}{}{s karavanou z Denu.}
-{4721}{}{s muem hlídajícím most.}
-{4722}{}{s rytíøi krále Artuše bojujícími s krysou.}
-{4750}{}{se skládkou toxickıch odpadù.}
-{4751}{}{s osamìlım psem.}
-{4752}{}{se stádem brahmín.}
-{4753}{}{s nìkolika geckony a vlky.}
-{4754}{}{s nìkolika lovci odmìn.}
-{4755}{}{s nìkolika lovci odmìn.}
-{4756}{}{s nìkolika lovci odmìn.}
-{4757}{}{s nìkolika lovci odmìn.}
-{4758}{}{s nìkolika lovci odmìn.}
-{4759}{}{s nìkolika lovci odmìn.}
-{4760}{}{s nìkolika lovci odmìn.}
-{4761}{}{s nìkolika lovci odmìn.}
-{4762}{}{s tlupou darebákù vedenıch jedním z Mortonovıch bratrù.}
-{4763}{}{s nìkolika zlodìji pùdy.}
-{4764}{}{se smeèkou vlkù.}
-{4765}{}{s nìkolika zlatımi geckony.}
-{4766}{}{s nìkolika prospektory bojujícími se zlodìji pùdy.}
-{4767}{}{s lovci bojujícími se zlatımi geckony.}
-{4768}{}{s nìkolika pøekupníky s alkoholem napadenımi vlky.}
-{4769}{}{s nìkolika osadníky napadenımi zlodìji pùdy.}
-{4770}{}{s nìkolika osadníky bránícími se proti vlèí smeèce.}
-{4771}{}{s nìkolika pøekupníky s alkoholem.}
-{4772}{}{s nìkolika lovci.}
-{4773}{}{s nìkolika prospektory.}
-{4774}{}{s pozùstatky vorvanì.}
-{4775}{}{s obøí kamennou hlavou.}
-{4776}{}{s vrakem kosmické lodi.}
-{4777}{}{s portálem ke Stráci Vìènosti.}
-{4778}{}{s rytíøi krále Artuše.}
-{4779}{}{s Plechovım Døevorubcem.}
-{4780}{}{se špinavımi vesnièany pronásledujícími spammera.}
-{4800}{}{se zlatımi geckony a smeèkou vlkù.}
-{4801}{}{s nìkolika zlodìji pùdy.}
-{4802}{}{se smeèkou vlkù.}
-{4803}{}{s nìkolika zlatımi geckony.}
-{4804}{}{s nìkolika lovci odmìn.}
-{4805}{}{s nìkolika lovci odmìn.}
-{4806}{}{s nìkolika lovci odmìn.}
-{4807}{}{s nìkolika lovci odmìn.}
-{4808}{}{s nìkolika lovci odmìn.}
-{4809}{}{s nìkolika lovci odmìn.}
-{4810}{}{s nìkolika lovci odmìn.}
-{4811}{}{s nìkolika lovci odmìn.}
-{4812}{}{s tlupou darebákù vedenıch jedním z Mortonovıch bratrù.}
-{4813}{}{s nìkolika prospektory bojujícími se zlodìji pùdy.}
-{4814}{}{s lovci bojujícími se zlatımi geckony.}
-{4815}{}{s nìkolika pøekupníky s alkoholem napadenımi vlky.}
-{4816}{}{s nìkolika osadníky napadenımi zlodìji pùdy.}
-{4817}{}{s nìkolika osadníky bránícími se proti vlèí smeèce.}
-{4818}{}{s nìkolika pøekupníky s alkoholem.}
-{4819}{}{s nìkolika lovci.}
-{4820}{}{s nìkolika prospektory.}
-{4821}{}{s muem hlídajícím most.}
-{4822}{}{s rytíøi krále Artuše bojujícími s krysou.}
-{4850}{}{s vlky a nìkolika krtèími potkany.}
-{4851}{}{s vlky a nìkolika radškorpiony.}
-{4852}{}{se zmutovanımi krtèími potkany a skupinou radškorpionù.}
-{4853}{}{se smeèkou zlatıch geckonù.}
-{4854}{}{s nìkolika lovci odmìn.}
-{4855}{}{s nìkolika lovci odmìn.}
-{4856}{}{s nìkolika lovci odmìn.}
-{4857}{}{s nìkolika lovci odmìn.}
-{4858}{}{s nìkolika lovci odmìn.}
-{4859}{}{s nìkolika lovci odmìn.}
-{4860}{}{s nìkolika lovci odmìn.}
-{4861}{}{s nìkolika lovci odmìn.}
-{4862}{}{s tlupou darebákù vedenıch jedním z Mortonovıch bratrù.}
-{4863}{}{se smeèkou vlkù.}
-{4864}{}{se skupinou zmutovanıch krtèích potkanù.}
-{4865}{}{se skupinou radškorpionù.}
-{4866}{}{s vlky a nìkolika zlatımi geckony.}
-{4867}{}{s krtèími potkany bojujícími proti zlatım geckonùm.}
-{4868}{}{s krtèími potkany bojujícími proti radškorpionùm.}
-{4869}{}{s muem hlídajícím most.}
-{4870}{}{s rytíøi krále Artuše bojujícími s krysou.}
-{4900}{}{s tlupou nájezdníkù.}
-{4901}{}{se smeèkou vlkù.}
-{4902}{}{s karavanou pøepadenou nájezdníky.}
-{4903}{}{s karavanou pøepadenou nájezdníky.}
-{4904}{}{s nìkolika lovci odmìn.}
-{4905}{}{s nìkolika lovci odmìn.}
-{4906}{}{s nìkolika lovci odmìn.}
-{4907}{}{s nìkolika lovci odmìn.}
-{4908}{}{s nìkolika lovci odmìn.}
-{4909}{}{s nìkolika lovci odmìn.}
-{4910}{}{s nìkolika lovci odmìn.}
-{4911}{}{s nìkolika lovci odmìn.}
-{4912}{}{s tlupou darebákù vedenıch jedním z Mortonovıch bratrù.}
-{4913}{}{s karavanou pøepadenou nájezdníky.}
-{4914}{}{s karavanou pøepadenou nájezdníky.}
+{4721}{}{s muÅ¾em hlÃ­dajÃ­cÃ­m most.}
+{4722}{}{s rytÃ­Å™i krÃ¡le ArtuÅ¡e bojujÃ­cÃ­mi s krysou.}
+{4750}{}{se sklÃ¡dkou toxickÃ½ch odpadÅ¯.}
+{4751}{}{s osamÄ›lÃ½m psem.}
+{4752}{}{se stÃ¡dem brahmÃ­n.}
+{4753}{}{s nÄ›kolika geckony a vlky.}
+{4754}{}{s nÄ›kolika lovci odmÄ›n.}
+{4755}{}{s nÄ›kolika lovci odmÄ›n.}
+{4756}{}{s nÄ›kolika lovci odmÄ›n.}
+{4757}{}{s nÄ›kolika lovci odmÄ›n.}
+{4758}{}{s nÄ›kolika lovci odmÄ›n.}
+{4759}{}{s nÄ›kolika lovci odmÄ›n.}
+{4760}{}{s nÄ›kolika lovci odmÄ›n.}
+{4761}{}{s nÄ›kolika lovci odmÄ›n.}
+{4762}{}{s tlupou darebÃ¡kÅ¯ vedenÃ½ch jednÃ­m z MortonovÃ½ch bratrÅ¯.}
+{4763}{}{s nÄ›kolika zlodÄ›ji pÅ¯dy.}
+{4764}{}{se smeÄkou vlkÅ¯.}
+{4765}{}{s nÄ›kolika zlatÃ½mi geckony.}
+{4766}{}{s nÄ›kolika prospektory bojujÃ­cÃ­mi se zlodÄ›ji pÅ¯dy.}
+{4767}{}{s lovci bojujÃ­cÃ­mi se zlatÃ½mi geckony.}
+{4768}{}{s nÄ›kolika pÅ™ekupnÃ­ky s alkoholem napadenÃ½mi vlky.}
+{4769}{}{s nÄ›kolika osadnÃ­ky napadenÃ½mi zlodÄ›ji pÅ¯dy.}
+{4770}{}{s nÄ›kolika osadnÃ­ky brÃ¡nÃ­cÃ­mi se proti vlÄÃ­ smeÄce.}
+{4771}{}{s nÄ›kolika pÅ™ekupnÃ­ky s alkoholem.}
+{4772}{}{s nÄ›kolika lovci.}
+{4773}{}{s nÄ›kolika prospektory.}
+{4774}{}{s pozÅ¯statky vorvanÄ›.}
+{4775}{}{s obÅ™Ã­ kamennou hlavou.}
+{4776}{}{s vrakem kosmickÃ© lodi.}
+{4777}{}{s portÃ¡lem ke StrÃ¡Å¾ci VÄ›Änosti.}
+{4778}{}{s rytÃ­Å™i krÃ¡le ArtuÅ¡e.}
+{4779}{}{s PlechovÃ½m DÅ™evorubcem.}
+{4780}{}{se Å¡pinavÃ½mi vesniÄany pronÃ¡sledujÃ­cÃ­mi spammera.}
+{4800}{}{se zlatÃ½mi geckony a smeÄkou vlkÅ¯.}
+{4801}{}{s nÄ›kolika zlodÄ›ji pÅ¯dy.}
+{4802}{}{se smeÄkou vlkÅ¯.}
+{4803}{}{s nÄ›kolika zlatÃ½mi geckony.}
+{4804}{}{s nÄ›kolika lovci odmÄ›n.}
+{4805}{}{s nÄ›kolika lovci odmÄ›n.}
+{4806}{}{s nÄ›kolika lovci odmÄ›n.}
+{4807}{}{s nÄ›kolika lovci odmÄ›n.}
+{4808}{}{s nÄ›kolika lovci odmÄ›n.}
+{4809}{}{s nÄ›kolika lovci odmÄ›n.}
+{4810}{}{s nÄ›kolika lovci odmÄ›n.}
+{4811}{}{s nÄ›kolika lovci odmÄ›n.}
+{4812}{}{s tlupou darebÃ¡kÅ¯ vedenÃ½ch jednÃ­m z MortonovÃ½ch bratrÅ¯.}
+{4813}{}{s nÄ›kolika prospektory bojujÃ­cÃ­mi se zlodÄ›ji pÅ¯dy.}
+{4814}{}{s lovci bojujÃ­cÃ­mi se zlatÃ½mi geckony.}
+{4815}{}{s nÄ›kolika pÅ™ekupnÃ­ky s alkoholem napadenÃ½mi vlky.}
+{4816}{}{s nÄ›kolika osadnÃ­ky napadenÃ½mi zlodÄ›ji pÅ¯dy.}
+{4817}{}{s nÄ›kolika osadnÃ­ky brÃ¡nÃ­cÃ­mi se proti vlÄÃ­ smeÄce.}
+{4818}{}{s nÄ›kolika pÅ™ekupnÃ­ky s alkoholem.}
+{4819}{}{s nÄ›kolika lovci.}
+{4820}{}{s nÄ›kolika prospektory.}
+{4821}{}{s muÅ¾em hlÃ­dajÃ­cÃ­m most.}
+{4822}{}{s rytÃ­Å™i krÃ¡le ArtuÅ¡e bojujÃ­cÃ­mi s krysou.}
+{4850}{}{s vlky a nÄ›kolika krtÄÃ­mi potkany.}
+{4851}{}{s vlky a nÄ›kolika radÅ¡korpiony.}
+{4852}{}{se zmutovanÃ½mi krtÄÃ­mi potkany a skupinou radÅ¡korpionÅ¯.}
+{4853}{}{se smeÄkou zlatÃ½ch geckonÅ¯.}
+{4854}{}{s nÄ›kolika lovci odmÄ›n.}
+{4855}{}{s nÄ›kolika lovci odmÄ›n.}
+{4856}{}{s nÄ›kolika lovci odmÄ›n.}
+{4857}{}{s nÄ›kolika lovci odmÄ›n.}
+{4858}{}{s nÄ›kolika lovci odmÄ›n.}
+{4859}{}{s nÄ›kolika lovci odmÄ›n.}
+{4860}{}{s nÄ›kolika lovci odmÄ›n.}
+{4861}{}{s nÄ›kolika lovci odmÄ›n.}
+{4862}{}{s tlupou darebÃ¡kÅ¯ vedenÃ½ch jednÃ­m z MortonovÃ½ch bratrÅ¯.}
+{4863}{}{se smeÄkou vlkÅ¯.}
+{4864}{}{se skupinou zmutovanÃ½ch krtÄÃ­ch potkanÅ¯.}
+{4865}{}{se skupinou radÅ¡korpionÅ¯.}
+{4866}{}{s vlky a nÄ›kolika zlatÃ½mi geckony.}
+{4867}{}{s krtÄÃ­mi potkany bojujÃ­cÃ­mi proti zlatÃ½m geckonÅ¯m.}
+{4868}{}{s krtÄÃ­mi potkany bojujÃ­cÃ­mi proti radÅ¡korpionÅ¯m.}
+{4869}{}{s muÅ¾em hlÃ­dajÃ­cÃ­m most.}
+{4870}{}{s rytÃ­Å™i krÃ¡le ArtuÅ¡e bojujÃ­cÃ­mi s krysou.}
+{4900}{}{s tlupou nÃ¡jezdnÃ­kÅ¯.}
+{4901}{}{se smeÄkou vlkÅ¯.}
+{4902}{}{s karavanou pÅ™epadenou nÃ¡jezdnÃ­ky.}
+{4903}{}{s karavanou pÅ™epadenou nÃ¡jezdnÃ­ky.}
+{4904}{}{s nÄ›kolika lovci odmÄ›n.}
+{4905}{}{s nÄ›kolika lovci odmÄ›n.}
+{4906}{}{s nÄ›kolika lovci odmÄ›n.}
+{4907}{}{s nÄ›kolika lovci odmÄ›n.}
+{4908}{}{s nÄ›kolika lovci odmÄ›n.}
+{4909}{}{s nÄ›kolika lovci odmÄ›n.}
+{4910}{}{s nÄ›kolika lovci odmÄ›n.}
+{4911}{}{s nÄ›kolika lovci odmÄ›n.}
+{4912}{}{s tlupou darebÃ¡kÅ¯ vedenÃ½ch jednÃ­m z MortonovÃ½ch bratrÅ¯.}
+{4913}{}{s karavanou pÅ™epadenou nÃ¡jezdnÃ­ky.}
+{4914}{}{s karavanou pÅ™epadenou nÃ¡jezdnÃ­ky.}
 {4915}{}{s karavanou.}
 {4916}{}{s karavanou.}
 {4917}{}{s karavanou.}
 {4918}{}{s karavanou.}
-{4919}{}{s muem hlídajícím most.}
-{4920}{}{s rytíøi krále Artuše bojujícími s krysou.}
-{4921}{}{s tlupou rozzuøenıch nájezdníkù.}
-{4950}{}{se skládkou toxickıch odpadù.}
-{4951}{}{s osamìlım psem.}
-{4952}{}{se stádem brahmín.}
-{4953}{}{s tlupou nájezdníkù.}
-{4954}{}{s nìkolika lovci odmìn.}
-{4955}{}{s nìkolika lovci odmìn.}
-{4956}{}{s nìkolika lovci odmìn.}
-{4957}{}{s nìkolika lovci odmìn.}
-{4958}{}{s nìkolika lovci odmìn.}
-{4959}{}{s nìkolika lovci odmìn.}
-{4960}{}{s nìkolika lovci odmìn.}
-{4961}{}{s nìkolika lovci odmìn.}
-{4962}{}{s tlupou darebákù vedenıch jedním z Mortonovıch bratrù.}
-{4963}{}{se smeèkou vlkù.}
-{4964}{}{s karavanou pøepadenou nájezdníky.}
-{4965}{}{s karavanou pøepadenou nájezdníky.}
-{4966}{}{s karavanou pøepadenou nájezdníky.}
-{4967}{}{s karavanou pøepadenou nájezdníky.}
+{4919}{}{s muÅ¾em hlÃ­dajÃ­cÃ­m most.}
+{4920}{}{s rytÃ­Å™i krÃ¡le ArtuÅ¡e bojujÃ­cÃ­mi s krysou.}
+{4921}{}{s tlupou rozzuÅ™enÃ½ch nÃ¡jezdnÃ­kÅ¯.}
+{4950}{}{se sklÃ¡dkou toxickÃ½ch odpadÅ¯.}
+{4951}{}{s osamÄ›lÃ½m psem.}
+{4952}{}{se stÃ¡dem brahmÃ­n.}
+{4953}{}{s tlupou nÃ¡jezdnÃ­kÅ¯.}
+{4954}{}{s nÄ›kolika lovci odmÄ›n.}
+{4955}{}{s nÄ›kolika lovci odmÄ›n.}
+{4956}{}{s nÄ›kolika lovci odmÄ›n.}
+{4957}{}{s nÄ›kolika lovci odmÄ›n.}
+{4958}{}{s nÄ›kolika lovci odmÄ›n.}
+{4959}{}{s nÄ›kolika lovci odmÄ›n.}
+{4960}{}{s nÄ›kolika lovci odmÄ›n.}
+{4961}{}{s nÄ›kolika lovci odmÄ›n.}
+{4962}{}{s tlupou darebÃ¡kÅ¯ vedenÃ½ch jednÃ­m z MortonovÃ½ch bratrÅ¯.}
+{4963}{}{se smeÄkou vlkÅ¯.}
+{4964}{}{s karavanou pÅ™epadenou nÃ¡jezdnÃ­ky.}
+{4965}{}{s karavanou pÅ™epadenou nÃ¡jezdnÃ­ky.}
+{4966}{}{s karavanou pÅ™epadenou nÃ¡jezdnÃ­ky.}
+{4967}{}{s karavanou pÅ™epadenou nÃ¡jezdnÃ­ky.}
 {4968}{}{s karavanou.}
 {4969}{}{s karavanou.}
 {4970}{}{s karavanou.}
 {4971}{}{s karavanou.}
-{4972}{}{s pozùstatky vorvanì.}
-{4973}{}{s obøí kamennou hlavou.}
-{4974}{}{s vrakem kosmické lodi.}
-{4975}{}{s portálem ke Stráci Vìènosti.}
-{4976}{}{s rytíøi krále Artuše.}
-{4977}{}{s Plechovım Døevorubcem.}
-{4978}{}{se špinavımi vesnièany pronásledujícími spammera.}
-{4979}{}{s tlupou rozzuøenıch nájezdníkù.}
-{5000}{}{s nájezdníky napadenımi vlèí smeèkou.}
-{5001}{}{s nìkolika masoravımi rostlinami a vlèí smeèkou.}
-{5002}{}{s tlupou nájezdníkù.}
-{5003}{}{se smeèkou vlkù.}
-{5004}{}{s nìkolika lovci odmìn.}
-{5005}{}{s nìkolika lovci odmìn.}
-{5006}{}{s nìkolika lovci odmìn.}
-{5007}{}{s nìkolika lovci odmìn.}
-{5008}{}{s nìkolika lovci odmìn.}
-{5009}{}{s nìkolika lovci odmìn.}
-{5010}{}{s nìkolika lovci odmìn.}
-{5011}{}{s nìkolika lovci odmìn.}
-{5012}{}{s tlupou darebákù vedenıch jedním z Mortonovıch bratrù.}
-{5013}{}{se skupinou radškorpionù.}
-{5014}{}{s nìkolika nájezdníky napadenımi vlèí smeèkou.}
-{5015}{}{s muem hlídajícím most.}
-{5016}{}{s rytíøi krále Artuše bojujícími s krysou.}
-{5017}{}{s tlupou rozzuøenıch nájezdníkù.}
-{5050}{}{se skládkou toxickıch odpadù.}
-{5051}{}{s osamìlım psem.}
-{5052}{}{se stádem brahmín.}
-{5053}{}{s nájezdníky napadenımi vlèí smeèkou.}
-{5054}{}{s nìkolika lovci odmìn.}
-{5055}{}{s nìkolika lovci odmìn.}
-{5056}{}{s nìkolika lovci odmìn.}
-{5057}{}{s nìkolika lovci odmìn.}
-{5058}{}{s nìkolika lovci odmìn.}
-{5059}{}{s nìkolika lovci odmìn.}
-{5060}{}{s nìkolika lovci odmìn.}
-{5061}{}{s nìkolika lovci odmìn.}
-{5062}{}{s tlupou darebákù vedenıch jedním z Mortonovıch bratrù.}
-{5063}{}{s nìkolika masoravımi rostlinami a vlèí smeèkou.}
-{5064}{}{s tlupou nájezdníkù.}
-{5065}{}{se smeèkou vlkù.}
-{5066}{}{se skupinou radškorpionù.}
-{5067}{}{s nìkolika nájezdníky napadenımi vlèí smeèkou.}
-{5068}{}{s pozùstatky vorvanì.}
-{5069}{}{s obøí kamennou hlavou.}
-{5070}{}{s vrakem kosmické lodi.}
-{5071}{}{s portálem ke Stráci Vìènosti.}
-{5072}{}{s rytíøi krále Artuše.}
-{5073}{}{s Plechovım Døevorubcem.}
-{5074}{}{se špinavımi vesnièany pronásledujícími spammera.}
-{5075}{}{s tlupou rozzuøenıch nájezdníkù.}
-{5100}{}{se skládkou toxickıch odpadù.}
-{5101}{}{s osamìlım psem.}
-{5102}{}{se stádem brahmín.}
-{5103}{}{s hlídkou Enklávy.}
-{5104}{}{s nìkolika lovci odmìn.}
-{5105}{}{s nìkolika lovci odmìn.}
-{5106}{}{s nìkolika lovci odmìn.}
-{5107}{}{s nìkolika lovci odmìn.}
-{5108}{}{s nìkolika lovci odmìn.}
-{5109}{}{s nìkolika lovci odmìn.}
-{5110}{}{s nìkolika lovci odmìn.}
-{5111}{}{s nìkolika lovci odmìn.}
-{5112}{}{s tlupou darebákù vedenıch jedním z Mortonovıch bratrù.}
-{5113}{}{s pozùstatky vorvanì.}
-{5114}{}{s obøí kamennou hlavou.}
-{5115}{}{s vrakem kosmické lodi.}
-{5116}{}{s portálem ke Stráci Vìènosti.}
-{5117}{}{s rytíøi krále Artuše.}
-{5118}{}{s Plechovım Døevorubcem.}
-{5119}{}{se špinavımi vesnièany pronásledujícími spammera.}
-{5120}{}{s kavárnou "U ztracenıch snù".}
-{5150}{}{s hlídkou Enklávy.}
-{5151}{}{s nìkolika lovci odmìn.}
-{5152}{}{s nìkolika lovci odmìn.}
-{5153}{}{s nìkolika lovci odmìn.}
-{5154}{}{s nìkolika lovci odmìn.}
-{5155}{}{s nìkolika lovci odmìn.}
-{5156}{}{s nìkolika lovci odmìn.}
-{5157}{}{s nìkolika lovci odmìn.}
-{5158}{}{s nìkolika lovci odmìn.}
-{5159}{}{s tlupou darebákù vedenıch jedním z Mortonovıch bratrù.}
-{5160}{}{s muem hlídajícím most.}
-{5161}{}{s rytíøi krále Artuše bojujícími s krysou.}
-{5200}{}{s hlídkou Enklávy.}
-{5201}{}{s nìkolika lovci odmìn.}
-{5202}{}{s nìkolika lovci odmìn.}
-{5203}{}{s nìkolika lovci odmìn.}
-{5204}{}{s nìkolika lovci odmìn.}
-{5205}{}{s nìkolika lovci odmìn.}
-{5206}{}{s nìkolika lovci odmìn.}
-{5207}{}{s nìkolika lovci odmìn.}
-{5208}{}{s nìkolika lovci odmìn.}
-{5209}{}{s tlupou darebákù vedenıch jedním z Mortonovıch bratrù.}
-{5250}{}{se skládkou toxickıch odpadù.}
-{5251}{}{s osamìlım psem.}
-{5252}{}{se stádem brahmín.}
-{5253}{}{s nìkolika alieny a páraèi.}
-{5254}{}{s nìkolika lovci odmìn.}
-{5255}{}{s nìkolika lovci odmìn.}
-{5256}{}{s nìkolika lovci odmìn.}
-{5257}{}{s nìkolika lovci odmìn.}
-{5258}{}{s nìkolika lovci odmìn.}
-{5259}{}{s nìkolika lovci odmìn.}
-{5260}{}{s nìkolika lovci odmìn.}
-{5261}{}{s nìkolika lovci odmìn.}
-{5262}{}{s tlupou darebákù vedenıch jedním z Mortonovıch bratrù.}
-{5263}{}{s armádou floaterù a kentaurù.}
-{5264}{}{s nìkolika ohnivımi geckony.}
-{5265}{}{s velkou skupinou alienù.}
-{5266}{}{s páraèi.}
-{5267}{}{s nìkolika ohnivımi geckony.}
-{5268}{}{s nìkolika alieny.}
-{5269}{}{s tlupou kentaurù.}
-{5270}{}{se spoustou floaterù.}
-{5271}{}{s pozùstatky vorvanì.}
-{5272}{}{s obøí kamennou hlavou.}
-{5273}{}{s vrakem kosmické lodi.}
-{5274}{}{s portálem ke Stráci Vìènosti.}
-{5275}{}{s rytíøi krále Artuše.}
-{5276}{}{s Plechovım Døevorubcem.}
-{5277}{}{se špinavımi vesnièany pronásledujícími spammera.}
-{5278}{}{s kavárnou "U ztracenıch snù".}
-{5279}{}{s hlouèkem dùleitì vypadajících jedincù.}
-{5300}{}{s nìkolika alieny a páraèi.}
-{5301}{}{s armádou floaterù a kentaurù.}
-{5302}{}{s nìkolika ohnivımi geckony.}
-{5303}{}{s velkou skupinou alienù.}
-{5304}{}{s nìkolika lovci odmìn.}
-{5305}{}{s nìkolika lovci odmìn.}
-{5306}{}{s nìkolika lovci odmìn.}
-{5307}{}{s nìkolika lovci odmìn.}
-{5308}{}{s nìkolika lovci odmìn.}
-{5309}{}{s nìkolika lovci odmìn.}
-{5310}{}{s nìkolika lovci odmìn.}
-{5311}{}{s nìkolika lovci odmìn.}
-{5312}{}{s tlupou darebákù vedenıch jedním z Mortonovıch bratrù.}
-{5313}{}{s páraèi.}
-{5314}{}{s nìkolika ohnivımi geckony.}
-{5315}{}{s nìkolika alieny.}
-{5316}{}{s tlupou kentaurù.}
-{5317}{}{se spoustou floaterù.}
-{5318}{}{s muem hlídajícím most.}
-{5319}{}{s rytíøi krále Artuše bojujícími s krysou.}
-{5320}{}{s hlouèkem dùleitì vypadajících jedincù.}
-{5350}{}{s nìkolika alieny a páraèi.}
-{5351}{}{s armádou floaterù a kentaurù.}
-{5352}{}{s nìkolika ohnivımi geckony.}
-{5353}{}{s velkou skupinou alienù.}
-{5354}{}{s nìkolika lovci odmìn.}
-{5355}{}{s nìkolika lovci odmìn.}
-{5356}{}{s nìkolika lovci odmìn.}
-{5357}{}{s nìkolika lovci odmìn.}
-{5358}{}{s nìkolika lovci odmìn.}
-{5359}{}{s nìkolika lovci odmìn.}
-{5360}{}{s nìkolika lovci odmìn.}
-{5361}{}{s nìkolika lovci odmìn.}
-{5362}{}{s tlupou darebákù vedenıch jedním z Mortonovıch bratrù.}
-{5363}{}{s páraèi.}
-{5364}{}{s nìkolika ohnivımi geckony.}
-{5365}{}{s nìkolika alieny.}
-{5366}{}{s tlupou kentaurù.}
-{5367}{}{se spoustou floaterù.}
-{5368}{}{s hlouèkem dùleitì vypadajících jedincù.}
-{5400}{}{se skládkou toxickıch odpadù.}
-{5401}{}{s osamìlım psem.}
-{5402}{}{se stádem brahmín.}
-{5403}{}{se smeèkou ohnivıch geckonù.}
-{5404}{}{s nìkolika lovci odmìn.}
-{5405}{}{s nìkolika lovci odmìn.}
-{5406}{}{s nìkolika lovci odmìn.}
-{5407}{}{s nìkolika lovci odmìn.}
-{5408}{}{s nìkolika lovci odmìn.}
-{5409}{}{s nìkolika lovci odmìn.}
-{5410}{}{s nìkolika lovci odmìn.}
-{5411}{}{s nìkolika lovci odmìn.}
-{5412}{}{s tlupou darebákù vedenıch jedním z Mortonovıch bratrù.}
-{5413}{}{se smeèkou ohnivıch geckonù.}
-{5414}{}{s velkou smeèkou zlatıch geckonù.}
-{5415}{}{s pozùstatky vorvanì.}
-{5416}{}{s obøí kamennou hlavou.}
-{5417}{}{s vrakem kosmické lodi.}
-{5418}{}{s portálem ke Stráci Vìènosti.}
-{5419}{}{s rytíøi krále Artuše.}
-{5420}{}{s Plechovım Døevorubcem.}
-{5421}{}{se špinavımi vesnièany pronásledujícími spammera.}
-{5422}{}{s kavárnou "U ztracenıch snù".}
-{5423}{}{s hlouèkem dùleitì vypadajících jedincù.}
-{5450}{}{se smeèkou ohnivıch geckonù.}
-{5451}{}{se smeèkou ohnivıch geckonù.}
-{5452}{}{s velkou smeèkou zlatıch geckonù.}
-{5453}{}{s nìkolika lovci odmìn.}
-{5454}{}{s nìkolika lovci odmìn.}
-{5455}{}{s nìkolika lovci odmìn.}
-{5456}{}{s nìkolika lovci odmìn.}
-{5457}{}{s nìkolika lovci odmìn.}
-{5458}{}{s nìkolika lovci odmìn.}
-{5459}{}{s nìkolika lovci odmìn.}
-{5460}{}{s nìkolika lovci odmìn.}
-{5461}{}{s tlupou darebákù vedenıch jedním z Mortonovıch bratrù.}
-{5462}{}{s muem hlídajícím most.}
-{5463}{}{s rytíøi krále Artuše bojujícími s krysou.}
-{5464}{}{s hlouèkem dùleitì vypadajících jedincù.}
-{5500}{}{se smeèkou ohnivıch geckonù.}
-{5501}{}{se smeèkou ohnivıch geckonù.}
-{5502}{}{s velkou smeèkou zlatıch geckonù.}
-{5503}{}{s nìkolika lovci odmìn.}
-{5504}{}{s nìkolika lovci odmìn.}
-{5505}{}{s nìkolika lovci odmìn.}
-{5506}{}{s nìkolika lovci odmìn.}
-{5507}{}{s nìkolika lovci odmìn.}
-{5508}{}{s nìkolika lovci odmìn.}
-{5509}{}{s nìkolika lovci odmìn.}
-{5510}{}{s nìkolika lovci odmìn.}
-{5511}{}{s tlupou darebákù vedenıch jedním z Mortonovıch bratrù.}
-{5512}{}{s hlouèkem dùleitì vypadajících jedincù.}
-{5550}{}{se skládkou toxickıch odpadù.}
-{5551}{}{s osamìlım psem.}
-{5552}{}{se stádem brahmín.}
-{5553}{}{se smeèkou páraèù.}
-{5554}{}{s nìkolika lovci odmìn.}
-{5555}{}{s nìkolika lovci odmìn.}
-{5556}{}{s nìkolika lovci odmìn.}
-{5557}{}{s nìkolika lovci odmìn.}
-{5558}{}{s nìkolika lovci odmìn.}
-{5559}{}{s nìkolika lovci odmìn.}
-{5560}{}{s nìkolika lovci odmìn.}
-{5561}{}{s nìkolika lovci odmìn.}
-{5562}{}{s tlupou darebákù vedenıch jedním z Mortonovıch bratrù.}
-{5563}{}{se smeèkou ohnivıch geckonù.}
-{5564}{}{s karavanou napadenou páraèi.}
-{5565}{}{s karavanou napadenou páraèi.}
-{5566}{}{s karavanou napadenou ohnivımi geckony.}
-{5567}{}{s karavanou napadenou ohnivımi geckony.}
+{4972}{}{s pozÅ¯statky vorvanÄ›.}
+{4973}{}{s obÅ™Ã­ kamennou hlavou.}
+{4974}{}{s vrakem kosmickÃ© lodi.}
+{4975}{}{s portÃ¡lem ke StrÃ¡Å¾ci VÄ›Änosti.}
+{4976}{}{s rytÃ­Å™i krÃ¡le ArtuÅ¡e.}
+{4977}{}{s PlechovÃ½m DÅ™evorubcem.}
+{4978}{}{se Å¡pinavÃ½mi vesniÄany pronÃ¡sledujÃ­cÃ­mi spammera.}
+{4979}{}{s tlupou rozzuÅ™enÃ½ch nÃ¡jezdnÃ­kÅ¯.}
+{5000}{}{s nÃ¡jezdnÃ­ky napadenÃ½mi vlÄÃ­ smeÄkou.}
+{5001}{}{s nÄ›kolika masoÅ¾ravÃ½mi rostlinami a vlÄÃ­ smeÄkou.}
+{5002}{}{s tlupou nÃ¡jezdnÃ­kÅ¯.}
+{5003}{}{se smeÄkou vlkÅ¯.}
+{5004}{}{s nÄ›kolika lovci odmÄ›n.}
+{5005}{}{s nÄ›kolika lovci odmÄ›n.}
+{5006}{}{s nÄ›kolika lovci odmÄ›n.}
+{5007}{}{s nÄ›kolika lovci odmÄ›n.}
+{5008}{}{s nÄ›kolika lovci odmÄ›n.}
+{5009}{}{s nÄ›kolika lovci odmÄ›n.}
+{5010}{}{s nÄ›kolika lovci odmÄ›n.}
+{5011}{}{s nÄ›kolika lovci odmÄ›n.}
+{5012}{}{s tlupou darebÃ¡kÅ¯ vedenÃ½ch jednÃ­m z MortonovÃ½ch bratrÅ¯.}
+{5013}{}{se skupinou radÅ¡korpionÅ¯.}
+{5014}{}{s nÄ›kolika nÃ¡jezdnÃ­ky napadenÃ½mi vlÄÃ­ smeÄkou.}
+{5015}{}{s muÅ¾em hlÃ­dajÃ­cÃ­m most.}
+{5016}{}{s rytÃ­Å™i krÃ¡le ArtuÅ¡e bojujÃ­cÃ­mi s krysou.}
+{5017}{}{s tlupou rozzuÅ™enÃ½ch nÃ¡jezdnÃ­kÅ¯.}
+{5050}{}{se sklÃ¡dkou toxickÃ½ch odpadÅ¯.}
+{5051}{}{s osamÄ›lÃ½m psem.}
+{5052}{}{se stÃ¡dem brahmÃ­n.}
+{5053}{}{s nÃ¡jezdnÃ­ky napadenÃ½mi vlÄÃ­ smeÄkou.}
+{5054}{}{s nÄ›kolika lovci odmÄ›n.}
+{5055}{}{s nÄ›kolika lovci odmÄ›n.}
+{5056}{}{s nÄ›kolika lovci odmÄ›n.}
+{5057}{}{s nÄ›kolika lovci odmÄ›n.}
+{5058}{}{s nÄ›kolika lovci odmÄ›n.}
+{5059}{}{s nÄ›kolika lovci odmÄ›n.}
+{5060}{}{s nÄ›kolika lovci odmÄ›n.}
+{5061}{}{s nÄ›kolika lovci odmÄ›n.}
+{5062}{}{s tlupou darebÃ¡kÅ¯ vedenÃ½ch jednÃ­m z MortonovÃ½ch bratrÅ¯.}
+{5063}{}{s nÄ›kolika masoÅ¾ravÃ½mi rostlinami a vlÄÃ­ smeÄkou.}
+{5064}{}{s tlupou nÃ¡jezdnÃ­kÅ¯.}
+{5065}{}{se smeÄkou vlkÅ¯.}
+{5066}{}{se skupinou radÅ¡korpionÅ¯.}
+{5067}{}{s nÄ›kolika nÃ¡jezdnÃ­ky napadenÃ½mi vlÄÃ­ smeÄkou.}
+{5068}{}{s pozÅ¯statky vorvanÄ›.}
+{5069}{}{s obÅ™Ã­ kamennou hlavou.}
+{5070}{}{s vrakem kosmickÃ© lodi.}
+{5071}{}{s portÃ¡lem ke StrÃ¡Å¾ci VÄ›Änosti.}
+{5072}{}{s rytÃ­Å™i krÃ¡le ArtuÅ¡e.}
+{5073}{}{s PlechovÃ½m DÅ™evorubcem.}
+{5074}{}{se Å¡pinavÃ½mi vesniÄany pronÃ¡sledujÃ­cÃ­mi spammera.}
+{5075}{}{s tlupou rozzuÅ™enÃ½ch nÃ¡jezdnÃ­kÅ¯.}
+{5100}{}{se sklÃ¡dkou toxickÃ½ch odpadÅ¯.}
+{5101}{}{s osamÄ›lÃ½m psem.}
+{5102}{}{se stÃ¡dem brahmÃ­n.}
+{5103}{}{s hlÃ­dkou EnklÃ¡vy.}
+{5104}{}{s nÄ›kolika lovci odmÄ›n.}
+{5105}{}{s nÄ›kolika lovci odmÄ›n.}
+{5106}{}{s nÄ›kolika lovci odmÄ›n.}
+{5107}{}{s nÄ›kolika lovci odmÄ›n.}
+{5108}{}{s nÄ›kolika lovci odmÄ›n.}
+{5109}{}{s nÄ›kolika lovci odmÄ›n.}
+{5110}{}{s nÄ›kolika lovci odmÄ›n.}
+{5111}{}{s nÄ›kolika lovci odmÄ›n.}
+{5112}{}{s tlupou darebÃ¡kÅ¯ vedenÃ½ch jednÃ­m z MortonovÃ½ch bratrÅ¯.}
+{5113}{}{s pozÅ¯statky vorvanÄ›.}
+{5114}{}{s obÅ™Ã­ kamennou hlavou.}
+{5115}{}{s vrakem kosmickÃ© lodi.}
+{5116}{}{s portÃ¡lem ke StrÃ¡Å¾ci VÄ›Änosti.}
+{5117}{}{s rytÃ­Å™i krÃ¡le ArtuÅ¡e.}
+{5118}{}{s PlechovÃ½m DÅ™evorubcem.}
+{5119}{}{se Å¡pinavÃ½mi vesniÄany pronÃ¡sledujÃ­cÃ­mi spammera.}
+{5120}{}{s kavÃ¡rnou "U ztracenÃ½ch snÅ¯".}
+{5150}{}{s hlÃ­dkou EnklÃ¡vy.}
+{5151}{}{s nÄ›kolika lovci odmÄ›n.}
+{5152}{}{s nÄ›kolika lovci odmÄ›n.}
+{5153}{}{s nÄ›kolika lovci odmÄ›n.}
+{5154}{}{s nÄ›kolika lovci odmÄ›n.}
+{5155}{}{s nÄ›kolika lovci odmÄ›n.}
+{5156}{}{s nÄ›kolika lovci odmÄ›n.}
+{5157}{}{s nÄ›kolika lovci odmÄ›n.}
+{5158}{}{s nÄ›kolika lovci odmÄ›n.}
+{5159}{}{s tlupou darebÃ¡kÅ¯ vedenÃ½ch jednÃ­m z MortonovÃ½ch bratrÅ¯.}
+{5160}{}{s muÅ¾em hlÃ­dajÃ­cÃ­m most.}
+{5161}{}{s rytÃ­Å™i krÃ¡le ArtuÅ¡e bojujÃ­cÃ­mi s krysou.}
+{5200}{}{s hlÃ­dkou EnklÃ¡vy.}
+{5201}{}{s nÄ›kolika lovci odmÄ›n.}
+{5202}{}{s nÄ›kolika lovci odmÄ›n.}
+{5203}{}{s nÄ›kolika lovci odmÄ›n.}
+{5204}{}{s nÄ›kolika lovci odmÄ›n.}
+{5205}{}{s nÄ›kolika lovci odmÄ›n.}
+{5206}{}{s nÄ›kolika lovci odmÄ›n.}
+{5207}{}{s nÄ›kolika lovci odmÄ›n.}
+{5208}{}{s nÄ›kolika lovci odmÄ›n.}
+{5209}{}{s tlupou darebÃ¡kÅ¯ vedenÃ½ch jednÃ­m z MortonovÃ½ch bratrÅ¯.}
+{5250}{}{se sklÃ¡dkou toxickÃ½ch odpadÅ¯.}
+{5251}{}{s osamÄ›lÃ½m psem.}
+{5252}{}{se stÃ¡dem brahmÃ­n.}
+{5253}{}{s nÄ›kolika alieny a pÃ¡raÄi.}
+{5254}{}{s nÄ›kolika lovci odmÄ›n.}
+{5255}{}{s nÄ›kolika lovci odmÄ›n.}
+{5256}{}{s nÄ›kolika lovci odmÄ›n.}
+{5257}{}{s nÄ›kolika lovci odmÄ›n.}
+{5258}{}{s nÄ›kolika lovci odmÄ›n.}
+{5259}{}{s nÄ›kolika lovci odmÄ›n.}
+{5260}{}{s nÄ›kolika lovci odmÄ›n.}
+{5261}{}{s nÄ›kolika lovci odmÄ›n.}
+{5262}{}{s tlupou darebÃ¡kÅ¯ vedenÃ½ch jednÃ­m z MortonovÃ½ch bratrÅ¯.}
+{5263}{}{s armÃ¡dou floaterÅ¯ a kentaurÅ¯.}
+{5264}{}{s nÄ›kolika ohnivÃ½mi geckony.}
+{5265}{}{s velkou skupinou alienÅ¯.}
+{5266}{}{s pÃ¡raÄi.}
+{5267}{}{s nÄ›kolika ohnivÃ½mi geckony.}
+{5268}{}{s nÄ›kolika alieny.}
+{5269}{}{s tlupou kentaurÅ¯.}
+{5270}{}{se spoustou floaterÅ¯.}
+{5271}{}{s pozÅ¯statky vorvanÄ›.}
+{5272}{}{s obÅ™Ã­ kamennou hlavou.}
+{5273}{}{s vrakem kosmickÃ© lodi.}
+{5274}{}{s portÃ¡lem ke StrÃ¡Å¾ci VÄ›Änosti.}
+{5275}{}{s rytÃ­Å™i krÃ¡le ArtuÅ¡e.}
+{5276}{}{s PlechovÃ½m DÅ™evorubcem.}
+{5277}{}{se Å¡pinavÃ½mi vesniÄany pronÃ¡sledujÃ­cÃ­mi spammera.}
+{5278}{}{s kavÃ¡rnou "U ztracenÃ½ch snÅ¯".}
+{5279}{}{s hlouÄkem dÅ¯leÅ¾itÄ› vypadajÃ­cÃ­ch jedincÅ¯.}
+{5300}{}{s nÄ›kolika alieny a pÃ¡raÄi.}
+{5301}{}{s armÃ¡dou floaterÅ¯ a kentaurÅ¯.}
+{5302}{}{s nÄ›kolika ohnivÃ½mi geckony.}
+{5303}{}{s velkou skupinou alienÅ¯.}
+{5304}{}{s nÄ›kolika lovci odmÄ›n.}
+{5305}{}{s nÄ›kolika lovci odmÄ›n.}
+{5306}{}{s nÄ›kolika lovci odmÄ›n.}
+{5307}{}{s nÄ›kolika lovci odmÄ›n.}
+{5308}{}{s nÄ›kolika lovci odmÄ›n.}
+{5309}{}{s nÄ›kolika lovci odmÄ›n.}
+{5310}{}{s nÄ›kolika lovci odmÄ›n.}
+{5311}{}{s nÄ›kolika lovci odmÄ›n.}
+{5312}{}{s tlupou darebÃ¡kÅ¯ vedenÃ½ch jednÃ­m z MortonovÃ½ch bratrÅ¯.}
+{5313}{}{s pÃ¡raÄi.}
+{5314}{}{s nÄ›kolika ohnivÃ½mi geckony.}
+{5315}{}{s nÄ›kolika alieny.}
+{5316}{}{s tlupou kentaurÅ¯.}
+{5317}{}{se spoustou floaterÅ¯.}
+{5318}{}{s muÅ¾em hlÃ­dajÃ­cÃ­m most.}
+{5319}{}{s rytÃ­Å™i krÃ¡le ArtuÅ¡e bojujÃ­cÃ­mi s krysou.}
+{5320}{}{s hlouÄkem dÅ¯leÅ¾itÄ› vypadajÃ­cÃ­ch jedincÅ¯.}
+{5350}{}{s nÄ›kolika alieny a pÃ¡raÄi.}
+{5351}{}{s armÃ¡dou floaterÅ¯ a kentaurÅ¯.}
+{5352}{}{s nÄ›kolika ohnivÃ½mi geckony.}
+{5353}{}{s velkou skupinou alienÅ¯.}
+{5354}{}{s nÄ›kolika lovci odmÄ›n.}
+{5355}{}{s nÄ›kolika lovci odmÄ›n.}
+{5356}{}{s nÄ›kolika lovci odmÄ›n.}
+{5357}{}{s nÄ›kolika lovci odmÄ›n.}
+{5358}{}{s nÄ›kolika lovci odmÄ›n.}
+{5359}{}{s nÄ›kolika lovci odmÄ›n.}
+{5360}{}{s nÄ›kolika lovci odmÄ›n.}
+{5361}{}{s nÄ›kolika lovci odmÄ›n.}
+{5362}{}{s tlupou darebÃ¡kÅ¯ vedenÃ½ch jednÃ­m z MortonovÃ½ch bratrÅ¯.}
+{5363}{}{s pÃ¡raÄi.}
+{5364}{}{s nÄ›kolika ohnivÃ½mi geckony.}
+{5365}{}{s nÄ›kolika alieny.}
+{5366}{}{s tlupou kentaurÅ¯.}
+{5367}{}{se spoustou floaterÅ¯.}
+{5368}{}{s hlouÄkem dÅ¯leÅ¾itÄ› vypadajÃ­cÃ­ch jedincÅ¯.}
+{5400}{}{se sklÃ¡dkou toxickÃ½ch odpadÅ¯.}
+{5401}{}{s osamÄ›lÃ½m psem.}
+{5402}{}{se stÃ¡dem brahmÃ­n.}
+{5403}{}{se smeÄkou ohnivÃ½ch geckonÅ¯.}
+{5404}{}{s nÄ›kolika lovci odmÄ›n.}
+{5405}{}{s nÄ›kolika lovci odmÄ›n.}
+{5406}{}{s nÄ›kolika lovci odmÄ›n.}
+{5407}{}{s nÄ›kolika lovci odmÄ›n.}
+{5408}{}{s nÄ›kolika lovci odmÄ›n.}
+{5409}{}{s nÄ›kolika lovci odmÄ›n.}
+{5410}{}{s nÄ›kolika lovci odmÄ›n.}
+{5411}{}{s nÄ›kolika lovci odmÄ›n.}
+{5412}{}{s tlupou darebÃ¡kÅ¯ vedenÃ½ch jednÃ­m z MortonovÃ½ch bratrÅ¯.}
+{5413}{}{se smeÄkou ohnivÃ½ch geckonÅ¯.}
+{5414}{}{s velkou smeÄkou zlatÃ½ch geckonÅ¯.}
+{5415}{}{s pozÅ¯statky vorvanÄ›.}
+{5416}{}{s obÅ™Ã­ kamennou hlavou.}
+{5417}{}{s vrakem kosmickÃ© lodi.}
+{5418}{}{s portÃ¡lem ke StrÃ¡Å¾ci VÄ›Änosti.}
+{5419}{}{s rytÃ­Å™i krÃ¡le ArtuÅ¡e.}
+{5420}{}{s PlechovÃ½m DÅ™evorubcem.}
+{5421}{}{se Å¡pinavÃ½mi vesniÄany pronÃ¡sledujÃ­cÃ­mi spammera.}
+{5422}{}{s kavÃ¡rnou "U ztracenÃ½ch snÅ¯".}
+{5423}{}{s hlouÄkem dÅ¯leÅ¾itÄ› vypadajÃ­cÃ­ch jedincÅ¯.}
+{5450}{}{se smeÄkou ohnivÃ½ch geckonÅ¯.}
+{5451}{}{se smeÄkou ohnivÃ½ch geckonÅ¯.}
+{5452}{}{s velkou smeÄkou zlatÃ½ch geckonÅ¯.}
+{5453}{}{s nÄ›kolika lovci odmÄ›n.}
+{5454}{}{s nÄ›kolika lovci odmÄ›n.}
+{5455}{}{s nÄ›kolika lovci odmÄ›n.}
+{5456}{}{s nÄ›kolika lovci odmÄ›n.}
+{5457}{}{s nÄ›kolika lovci odmÄ›n.}
+{5458}{}{s nÄ›kolika lovci odmÄ›n.}
+{5459}{}{s nÄ›kolika lovci odmÄ›n.}
+{5460}{}{s nÄ›kolika lovci odmÄ›n.}
+{5461}{}{s tlupou darebÃ¡kÅ¯ vedenÃ½ch jednÃ­m z MortonovÃ½ch bratrÅ¯.}
+{5462}{}{s muÅ¾em hlÃ­dajÃ­cÃ­m most.}
+{5463}{}{s rytÃ­Å™i krÃ¡le ArtuÅ¡e bojujÃ­cÃ­mi s krysou.}
+{5464}{}{s hlouÄkem dÅ¯leÅ¾itÄ› vypadajÃ­cÃ­ch jedincÅ¯.}
+{5500}{}{se smeÄkou ohnivÃ½ch geckonÅ¯.}
+{5501}{}{se smeÄkou ohnivÃ½ch geckonÅ¯.}
+{5502}{}{s velkou smeÄkou zlatÃ½ch geckonÅ¯.}
+{5503}{}{s nÄ›kolika lovci odmÄ›n.}
+{5504}{}{s nÄ›kolika lovci odmÄ›n.}
+{5505}{}{s nÄ›kolika lovci odmÄ›n.}
+{5506}{}{s nÄ›kolika lovci odmÄ›n.}
+{5507}{}{s nÄ›kolika lovci odmÄ›n.}
+{5508}{}{s nÄ›kolika lovci odmÄ›n.}
+{5509}{}{s nÄ›kolika lovci odmÄ›n.}
+{5510}{}{s nÄ›kolika lovci odmÄ›n.}
+{5511}{}{s tlupou darebÃ¡kÅ¯ vedenÃ½ch jednÃ­m z MortonovÃ½ch bratrÅ¯.}
+{5512}{}{s hlouÄkem dÅ¯leÅ¾itÄ› vypadajÃ­cÃ­ch jedincÅ¯.}
+{5550}{}{se sklÃ¡dkou toxickÃ½ch odpadÅ¯.}
+{5551}{}{s osamÄ›lÃ½m psem.}
+{5552}{}{se stÃ¡dem brahmÃ­n.}
+{5553}{}{se smeÄkou pÃ¡raÄÅ¯.}
+{5554}{}{s nÄ›kolika lovci odmÄ›n.}
+{5555}{}{s nÄ›kolika lovci odmÄ›n.}
+{5556}{}{s nÄ›kolika lovci odmÄ›n.}
+{5557}{}{s nÄ›kolika lovci odmÄ›n.}
+{5558}{}{s nÄ›kolika lovci odmÄ›n.}
+{5559}{}{s nÄ›kolika lovci odmÄ›n.}
+{5560}{}{s nÄ›kolika lovci odmÄ›n.}
+{5561}{}{s nÄ›kolika lovci odmÄ›n.}
+{5562}{}{s tlupou darebÃ¡kÅ¯ vedenÃ½ch jednÃ­m z MortonovÃ½ch bratrÅ¯.}
+{5563}{}{se smeÄkou ohnivÃ½ch geckonÅ¯.}
+{5564}{}{s karavanou napadenou pÃ¡raÄi.}
+{5565}{}{s karavanou napadenou pÃ¡raÄi.}
+{5566}{}{s karavanou napadenou ohnivÃ½mi geckony.}
+{5567}{}{s karavanou napadenou ohnivÃ½mi geckony.}
 {5568}{}{s karavanou.}
 {5569}{}{s karavanou.}
 {5570}{}{s karavanou.}
 {5571}{}{s karavanou.}
-{5572}{}{s pozùstatky vorvanì.}
-{5573}{}{s obøí kamennou hlavou.}
-{5574}{}{s vrakem kosmické lodi.}
-{5575}{}{s portálem ke Stráci Vìènosti.}
-{5576}{}{s rytíøi krále Artuše.}
-{5577}{}{s Plechovım Døevorubcem.}
-{5578}{}{se špinavımi vesnièany pronásledujícími spammera.}
-{5600}{}{se smeèkou páraèù.}
-{5601}{}{se smeèkou ohnivıch geckonù.}
-{5602}{}{s karavanou napadenou páraèi.}
-{5603}{}{s karavanou napadenou páraèi.}
-{5604}{}{s nìkolika lovci odmìn.}
-{5605}{}{s nìkolika lovci odmìn.}
-{5606}{}{s nìkolika lovci odmìn.}
-{5607}{}{s nìkolika lovci odmìn.}
-{5608}{}{s nìkolika lovci odmìn.}
-{5609}{}{s nìkolika lovci odmìn.}
-{5610}{}{s nìkolika lovci odmìn.}
-{5611}{}{s nìkolika lovci odmìn.}
-{5612}{}{s tlupou darebákù vedenıch jedním z Mortonovıch bratrù.}
-{5613}{}{s karavanou napadenou ohnivımi geckony.}
-{5614}{}{s karavanou napadenou ohnivımi geckony.}
+{5572}{}{s pozÅ¯statky vorvanÄ›.}
+{5573}{}{s obÅ™Ã­ kamennou hlavou.}
+{5574}{}{s vrakem kosmickÃ© lodi.}
+{5575}{}{s portÃ¡lem ke StrÃ¡Å¾ci VÄ›Änosti.}
+{5576}{}{s rytÃ­Å™i krÃ¡le ArtuÅ¡e.}
+{5577}{}{s PlechovÃ½m DÅ™evorubcem.}
+{5578}{}{se Å¡pinavÃ½mi vesniÄany pronÃ¡sledujÃ­cÃ­mi spammera.}
+{5600}{}{se smeÄkou pÃ¡raÄÅ¯.}
+{5601}{}{se smeÄkou ohnivÃ½ch geckonÅ¯.}
+{5602}{}{s karavanou napadenou pÃ¡raÄi.}
+{5603}{}{s karavanou napadenou pÃ¡raÄi.}
+{5604}{}{s nÄ›kolika lovci odmÄ›n.}
+{5605}{}{s nÄ›kolika lovci odmÄ›n.}
+{5606}{}{s nÄ›kolika lovci odmÄ›n.}
+{5607}{}{s nÄ›kolika lovci odmÄ›n.}
+{5608}{}{s nÄ›kolika lovci odmÄ›n.}
+{5609}{}{s nÄ›kolika lovci odmÄ›n.}
+{5610}{}{s nÄ›kolika lovci odmÄ›n.}
+{5611}{}{s nÄ›kolika lovci odmÄ›n.}
+{5612}{}{s tlupou darebÃ¡kÅ¯ vedenÃ½ch jednÃ­m z MortonovÃ½ch bratrÅ¯.}
+{5613}{}{s karavanou napadenou ohnivÃ½mi geckony.}
+{5614}{}{s karavanou napadenou ohnivÃ½mi geckony.}
 {5615}{}{s karavanou.}
 {5616}{}{s karavanou.}
 {5617}{}{s karavanou.}
 {5618}{}{s karavanou.}
-{5619}{}{s muem hlídajícím most.}
-{5620}{}{s rytíøi krále Artuše bojujícími s krysou.}
-{5650}{}{se skládkou toxickıch odpadù.}
-{5651}{}{s osamìlım psem.}
-{5652}{}{se stádem brahmín.}
-{5653}{}{s nìkolika èleny Yakuzy.}
-{5654}{}{s nìkolika lovci odmìn.}
-{5655}{}{s nìkolika lovci odmìn.}
-{5656}{}{s nìkolika lovci odmìn.}
-{5657}{}{s nìkolika lovci odmìn.}
-{5658}{}{s nìkolika lovci odmìn.}
-{5659}{}{s nìkolika lovci odmìn.}
-{5660}{}{s nìkolika lovci odmìn.}
-{5661}{}{s nìkolika lovci odmìn.}
-{5662}{}{s tlupou darebákù vedenıch jedním z Mortonovıch bratrù.}
+{5619}{}{s muÅ¾em hlÃ­dajÃ­cÃ­m most.}
+{5620}{}{s rytÃ­Å™i krÃ¡le ArtuÅ¡e bojujÃ­cÃ­mi s krysou.}
+{5650}{}{se sklÃ¡dkou toxickÃ½ch odpadÅ¯.}
+{5651}{}{s osamÄ›lÃ½m psem.}
+{5652}{}{se stÃ¡dem brahmÃ­n.}
+{5653}{}{s nÄ›kolika Äleny Yakuzy.}
+{5654}{}{s nÄ›kolika lovci odmÄ›n.}
+{5655}{}{s nÄ›kolika lovci odmÄ›n.}
+{5656}{}{s nÄ›kolika lovci odmÄ›n.}
+{5657}{}{s nÄ›kolika lovci odmÄ›n.}
+{5658}{}{s nÄ›kolika lovci odmÄ›n.}
+{5659}{}{s nÄ›kolika lovci odmÄ›n.}
+{5660}{}{s nÄ›kolika lovci odmÄ›n.}
+{5661}{}{s nÄ›kolika lovci odmÄ›n.}
+{5662}{}{s tlupou darebÃ¡kÅ¯ vedenÃ½ch jednÃ­m z MortonovÃ½ch bratrÅ¯.}
 {5663}{}{s gangem.}
-{5664}{}{se smeèkou vlkù.}
-{5665}{}{s mafiány bojujícími s èleny Yakuzy.}
-{5666}{}{s nìkolika mafiány bojujícími s gangem.}
-{5667}{}{s nìkolika mafiány.}
+{5664}{}{se smeÄkou vlkÅ¯.}
+{5665}{}{s mafiÃ¡ny bojujÃ­cÃ­mi s Äleny Yakuzy.}
+{5666}{}{s nÄ›kolika mafiÃ¡ny bojujÃ­cÃ­mi s gangem.}
+{5667}{}{s nÄ›kolika mafiÃ¡ny.}
 {5668}{}{s cestovatelkou.}
-{5669}{}{s pozùstatky vorvanì.}
-{5670}{}{s obøí kamennou hlavou.}
-{5671}{}{s vrakem kosmické lodi.}
-{5672}{}{s portálem ke Stráci Vìènosti.}
-{5673}{}{s rytíøi krále Artuše.}
-{5674}{}{s Plechovım Døevorubcem.}
-{5675}{}{se špinavımi vesnièany pronásledujícími spammera.}
-{5676}{}{s kavárnou "U ztracenıch snù".}
-{5700}{}{s nìkolika èleny Yakuzy.}
+{5669}{}{s pozÅ¯statky vorvanÄ›.}
+{5670}{}{s obÅ™Ã­ kamennou hlavou.}
+{5671}{}{s vrakem kosmickÃ© lodi.}
+{5672}{}{s portÃ¡lem ke StrÃ¡Å¾ci VÄ›Änosti.}
+{5673}{}{s rytÃ­Å™i krÃ¡le ArtuÅ¡e.}
+{5674}{}{s PlechovÃ½m DÅ™evorubcem.}
+{5675}{}{se Å¡pinavÃ½mi vesniÄany pronÃ¡sledujÃ­cÃ­mi spammera.}
+{5676}{}{s kavÃ¡rnou "U ztracenÃ½ch snÅ¯".}
+{5700}{}{s nÄ›kolika Äleny Yakuzy.}
 {5701}{}{s gangem.}
-{5702}{}{se smeèkou vlkù.}
-{5703}{}{s mafiány bojujícími s èleny Yakuzy.}
-{5704}{}{s nìkolika lovci odmìn.}
-{5705}{}{s nìkolika lovci odmìn.}
-{5706}{}{s nìkolika lovci odmìn.}
-{5707}{}{s nìkolika lovci odmìn.}
-{5708}{}{s nìkolika lovci odmìn.}
-{5709}{}{s nìkolika lovci odmìn.}
-{5710}{}{s nìkolika lovci odmìn.}
-{5711}{}{s nìkolika lovci odmìn.}
-{5712}{}{s tlupou darebákù vedenıch jedním z Mortonovıch bratrù.}
-{5713}{}{s nìkolika mafiány bojujícími s gangem.}
-{5714}{}{s nìkolika mafiány.}
+{5702}{}{se smeÄkou vlkÅ¯.}
+{5703}{}{s mafiÃ¡ny bojujÃ­cÃ­mi s Äleny Yakuzy.}
+{5704}{}{s nÄ›kolika lovci odmÄ›n.}
+{5705}{}{s nÄ›kolika lovci odmÄ›n.}
+{5706}{}{s nÄ›kolika lovci odmÄ›n.}
+{5707}{}{s nÄ›kolika lovci odmÄ›n.}
+{5708}{}{s nÄ›kolika lovci odmÄ›n.}
+{5709}{}{s nÄ›kolika lovci odmÄ›n.}
+{5710}{}{s nÄ›kolika lovci odmÄ›n.}
+{5711}{}{s nÄ›kolika lovci odmÄ›n.}
+{5712}{}{s tlupou darebÃ¡kÅ¯ vedenÃ½ch jednÃ­m z MortonovÃ½ch bratrÅ¯.}
+{5713}{}{s nÄ›kolika mafiÃ¡ny bojujÃ­cÃ­mi s gangem.}
+{5714}{}{s nÄ›kolika mafiÃ¡ny.}
 {5715}{}{s cestovatelkou.}
-{5716}{}{s muem hlídajícím most.}
-{5717}{}{s rytíøi krále Artuše bojujícími s krysou.}
-{5750}{}{s nìkolika èleny Yakuzy.}
+{5716}{}{s muÅ¾em hlÃ­dajÃ­cÃ­m most.}
+{5717}{}{s rytÃ­Å™i krÃ¡le ArtuÅ¡e bojujÃ­cÃ­mi s krysou.}
+{5750}{}{s nÄ›kolika Äleny Yakuzy.}
 {5751}{}{s gangem.}
-{5752}{}{se smeèkou vlkù.}
-{5753}{}{s mafiány bojujícími s èleny Yakuzy.}
-{5754}{}{s nìkolika lovci odmìn.}
-{5755}{}{s nìkolika lovci odmìn.}
-{5756}{}{s nìkolika lovci odmìn.}
-{5757}{}{s nìkolika lovci odmìn.}
-{5758}{}{s nìkolika lovci odmìn.}
-{5759}{}{s nìkolika lovci odmìn.}
-{5760}{}{s nìkolika lovci odmìn.}
-{5761}{}{s nìkolika lovci odmìn.}
-{5762}{}{s tlupou darebákù vedenıch jedním z Mortonovıch bratrù.}
-{5763}{}{s nìkolika mafiány bojujícími s gangem.}
-{5764}{}{s nìkolika mafiány.}
+{5752}{}{se smeÄkou vlkÅ¯.}
+{5753}{}{s mafiÃ¡ny bojujÃ­cÃ­mi s Äleny Yakuzy.}
+{5754}{}{s nÄ›kolika lovci odmÄ›n.}
+{5755}{}{s nÄ›kolika lovci odmÄ›n.}
+{5756}{}{s nÄ›kolika lovci odmÄ›n.}
+{5757}{}{s nÄ›kolika lovci odmÄ›n.}
+{5758}{}{s nÄ›kolika lovci odmÄ›n.}
+{5759}{}{s nÄ›kolika lovci odmÄ›n.}
+{5760}{}{s nÄ›kolika lovci odmÄ›n.}
+{5761}{}{s nÄ›kolika lovci odmÄ›n.}
+{5762}{}{s tlupou darebÃ¡kÅ¯ vedenÃ½ch jednÃ­m z MortonovÃ½ch bratrÅ¯.}
+{5763}{}{s nÄ›kolika mafiÃ¡ny bojujÃ­cÃ­mi s gangem.}
+{5764}{}{s nÄ›kolika mafiÃ¡ny.}
 {5765}{}{s cestovatelkou.}
-{5800}{}{se skládkou toxickıch odpadù.}
-{5801}{}{s osamìlım psem.}
-{5802}{}{se stádem brahmín.}
-{5803}{}{s tlupou tulákù a vlèí smeèkou.}
-{5804}{}{s nìkolika lovci odmìn.}
-{5805}{}{s nìkolika lovci odmìn.}
-{5806}{}{s nìkolika lovci odmìn.}
-{5807}{}{s nìkolika lovci odmìn.}
-{5808}{}{s nìkolika lovci odmìn.}
-{5809}{}{s nìkolika lovci odmìn.}
-{5810}{}{s nìkolika lovci odmìn.}
-{5811}{}{s nìkolika lovci odmìn.}
-{5812}{}{s tlupou darebákù vedenıch jedním z Mortonovıch bratrù.}
-{5813}{}{s tlupou tulákù.}
-{5814}{}{se smeèkou vlkù.}
-{5815}{}{se skupinou radškorpionù.}
-{5816}{}{s lesem masoravıch rostlin.}
-{5817}{}{s hlídkou Jednoty bojující proti tulákùm.}
-{5818}{}{s hlídkou Jednoty bojující s vlèí smeèkou.}
-{5819}{}{s hlídkou Jednoty.}
-{5820}{}{s pozùstatky vorvanì.}
-{5821}{}{s obøí kamennou hlavou.}
-{5822}{}{s vrakem kosmické lodi.}
-{5823}{}{s portálem ke Stráci Vìènosti.}
-{5824}{}{s rytíøi krále Artuše.}
-{5825}{}{s Plechovım Døevorubcem.}
-{5826}{}{se špinavımi vesnièany pronásledujícími spammera.}
-{5850}{}{s tlupou tulákù a vlèí smeèkou.}
-{5851}{}{s tlupou tulákù.}
-{5852}{}{se smeèkou vlkù.}
-{5853}{}{se skupinou radškorpionù.}
-{5854}{}{s nìkolika lovci odmìn.}
-{5855}{}{s nìkolika lovci odmìn.}
-{5856}{}{s nìkolika lovci odmìn.}
-{5857}{}{s nìkolika lovci odmìn.}
-{5858}{}{s nìkolika lovci odmìn.}
-{5859}{}{s nìkolika lovci odmìn.}
-{5860}{}{s nìkolika lovci odmìn.}
-{5861}{}{s nìkolika lovci odmìn.}
-{5862}{}{s tlupou darebákù vedenıch jedním z Mortonovıch bratrù.}
-{5863}{}{s lesem masoravıch rostlin.}
-{5864}{}{s hlídkou Jednoty bojující proti tulákùm.}
-{5865}{}{s hlídkou Jednoty bojující s vlèí smeèkou.}
-{5866}{}{s hlídkou Jednoty.}
-{5867}{}{s muem hlídajícím most.}
-{5868}{}{s rytíøi krále Artuše bojujícími s krysou.}
-{5900}{}{s jednotkou oldákù.}
-{5901}{}{s gangem vymahaèù.}
-{5902}{}{se stádem páraèù.}
-{5903}{}{s tlupou ohnivıch geckonù.}
-{5904}{}{s nìkolika lovci odmìn.}
-{5905}{}{s nìkolika lovci odmìn.}
-{5906}{}{s nìkolika lovci odmìn.}
-{5907}{}{s nìkolika lovci odmìn.}
-{5908}{}{s nìkolika lovci odmìn.}
-{5909}{}{s nìkolika lovci odmìn.}
-{5910}{}{s nìkolika lovci odmìn.}
-{5911}{}{s nìkolika lovci odmìn.}
-{5912}{}{s tlupou darebákù vedenıch jedním z Mortonovıch bratrù.}
-{5913}{}{s houfem alienù.}
-{5914}{}{s Hubologisty bojujícími s oldáky.}
-{5915}{}{s Hubologisty bojujícími s gangem vymahaèù.}
+{5800}{}{se sklÃ¡dkou toxickÃ½ch odpadÅ¯.}
+{5801}{}{s osamÄ›lÃ½m psem.}
+{5802}{}{se stÃ¡dem brahmÃ­n.}
+{5803}{}{s tlupou tulÃ¡kÅ¯ a vlÄÃ­ smeÄkou.}
+{5804}{}{s nÄ›kolika lovci odmÄ›n.}
+{5805}{}{s nÄ›kolika lovci odmÄ›n.}
+{5806}{}{s nÄ›kolika lovci odmÄ›n.}
+{5807}{}{s nÄ›kolika lovci odmÄ›n.}
+{5808}{}{s nÄ›kolika lovci odmÄ›n.}
+{5809}{}{s nÄ›kolika lovci odmÄ›n.}
+{5810}{}{s nÄ›kolika lovci odmÄ›n.}
+{5811}{}{s nÄ›kolika lovci odmÄ›n.}
+{5812}{}{s tlupou darebÃ¡kÅ¯ vedenÃ½ch jednÃ­m z MortonovÃ½ch bratrÅ¯.}
+{5813}{}{s tlupou tulÃ¡kÅ¯.}
+{5814}{}{se smeÄkou vlkÅ¯.}
+{5815}{}{se skupinou radÅ¡korpionÅ¯.}
+{5816}{}{s lesem masoÅ¾ravÃ½ch rostlin.}
+{5817}{}{s hlÃ­dkou Jednoty bojujÃ­cÃ­ proti tulÃ¡kÅ¯m.}
+{5818}{}{s hlÃ­dkou Jednoty bojujÃ­cÃ­ s vlÄÃ­ smeÄkou.}
+{5819}{}{s hlÃ­dkou Jednoty.}
+{5820}{}{s pozÅ¯statky vorvanÄ›.}
+{5821}{}{s obÅ™Ã­ kamennou hlavou.}
+{5822}{}{s vrakem kosmickÃ© lodi.}
+{5823}{}{s portÃ¡lem ke StrÃ¡Å¾ci VÄ›Änosti.}
+{5824}{}{s rytÃ­Å™i krÃ¡le ArtuÅ¡e.}
+{5825}{}{s PlechovÃ½m DÅ™evorubcem.}
+{5826}{}{se Å¡pinavÃ½mi vesniÄany pronÃ¡sledujÃ­cÃ­mi spammera.}
+{5850}{}{s tlupou tulÃ¡kÅ¯ a vlÄÃ­ smeÄkou.}
+{5851}{}{s tlupou tulÃ¡kÅ¯.}
+{5852}{}{se smeÄkou vlkÅ¯.}
+{5853}{}{se skupinou radÅ¡korpionÅ¯.}
+{5854}{}{s nÄ›kolika lovci odmÄ›n.}
+{5855}{}{s nÄ›kolika lovci odmÄ›n.}
+{5856}{}{s nÄ›kolika lovci odmÄ›n.}
+{5857}{}{s nÄ›kolika lovci odmÄ›n.}
+{5858}{}{s nÄ›kolika lovci odmÄ›n.}
+{5859}{}{s nÄ›kolika lovci odmÄ›n.}
+{5860}{}{s nÄ›kolika lovci odmÄ›n.}
+{5861}{}{s nÄ›kolika lovci odmÄ›n.}
+{5862}{}{s tlupou darebÃ¡kÅ¯ vedenÃ½ch jednÃ­m z MortonovÃ½ch bratrÅ¯.}
+{5863}{}{s lesem masoÅ¾ravÃ½ch rostlin.}
+{5864}{}{s hlÃ­dkou Jednoty bojujÃ­cÃ­ proti tulÃ¡kÅ¯m.}
+{5865}{}{s hlÃ­dkou Jednoty bojujÃ­cÃ­ s vlÄÃ­ smeÄkou.}
+{5866}{}{s hlÃ­dkou Jednoty.}
+{5867}{}{s muÅ¾em hlÃ­dajÃ­cÃ­m most.}
+{5868}{}{s rytÃ­Å™i krÃ¡le ArtuÅ¡e bojujÃ­cÃ­mi s krysou.}
+{5900}{}{s jednotkou Å¾oldÃ¡kÅ¯.}
+{5901}{}{s gangem vymahaÄÅ¯.}
+{5902}{}{se stÃ¡dem pÃ¡raÄÅ¯.}
+{5903}{}{s tlupou ohnivÃ½ch geckonÅ¯.}
+{5904}{}{s nÄ›kolika lovci odmÄ›n.}
+{5905}{}{s nÄ›kolika lovci odmÄ›n.}
+{5906}{}{s nÄ›kolika lovci odmÄ›n.}
+{5907}{}{s nÄ›kolika lovci odmÄ›n.}
+{5908}{}{s nÄ›kolika lovci odmÄ›n.}
+{5909}{}{s nÄ›kolika lovci odmÄ›n.}
+{5910}{}{s nÄ›kolika lovci odmÄ›n.}
+{5911}{}{s nÄ›kolika lovci odmÄ›n.}
+{5912}{}{s tlupou darebÃ¡kÅ¯ vedenÃ½ch jednÃ­m z MortonovÃ½ch bratrÅ¯.}
+{5913}{}{s houfem alienÅ¯.}
+{5914}{}{s Hubologisty bojujÃ­cÃ­mi s Å¾oldÃ¡ky.}
+{5915}{}{s Hubologisty bojujÃ­cÃ­mi s gangem vymahaÄÅ¯.}
 {5916}{}{s Hubologisty.}
-{5917}{}{se skupinou naštvanıch oldákù.}
-{5918}{}{s hlouèkem dùleitì vypadajících jedincù.}
-{5950}{}{s jednotkou oldákù.}
-{5951}{}{s gangem vymahaèù.}
-{5952}{}{se stádem páraèù.}
-{5953}{}{s tlupou ohnivıch geckonù.}
-{5954}{}{s nìkolika lovci odmìn.}
-{5955}{}{s nìkolika lovci odmìn.}
-{5956}{}{s nìkolika lovci odmìn.}
-{5957}{}{s nìkolika lovci odmìn.}
-{5958}{}{s nìkolika lovci odmìn.}
-{5959}{}{s nìkolika lovci odmìn.}
-{5960}{}{s nìkolika lovci odmìn.}
-{5961}{}{s nìkolika lovci odmìn.}
-{5962}{}{s tlupou darebákù vedenıch jedním z Mortonovıch bratrù.}
-{5963}{}{s houfem alienù.}
-{5964}{}{s Hubologisty bojujícími s oldáky.}
-{5965}{}{s Hubologisty bojujícími s gangem vymahaèù.}
+{5917}{}{se skupinou naÅ¡tvanÃ½ch Å¾oldÃ¡kÅ¯.}
+{5918}{}{s hlouÄkem dÅ¯leÅ¾itÄ› vypadajÃ­cÃ­ch jedincÅ¯.}
+{5950}{}{s jednotkou Å¾oldÃ¡kÅ¯.}
+{5951}{}{s gangem vymahaÄÅ¯.}
+{5952}{}{se stÃ¡dem pÃ¡raÄÅ¯.}
+{5953}{}{s tlupou ohnivÃ½ch geckonÅ¯.}
+{5954}{}{s nÄ›kolika lovci odmÄ›n.}
+{5955}{}{s nÄ›kolika lovci odmÄ›n.}
+{5956}{}{s nÄ›kolika lovci odmÄ›n.}
+{5957}{}{s nÄ›kolika lovci odmÄ›n.}
+{5958}{}{s nÄ›kolika lovci odmÄ›n.}
+{5959}{}{s nÄ›kolika lovci odmÄ›n.}
+{5960}{}{s nÄ›kolika lovci odmÄ›n.}
+{5961}{}{s nÄ›kolika lovci odmÄ›n.}
+{5962}{}{s tlupou darebÃ¡kÅ¯ vedenÃ½ch jednÃ­m z MortonovÃ½ch bratrÅ¯.}
+{5963}{}{s houfem alienÅ¯.}
+{5964}{}{s Hubologisty bojujÃ­cÃ­mi s Å¾oldÃ¡ky.}
+{5965}{}{s Hubologisty bojujÃ­cÃ­mi s gangem vymahaÄÅ¯.}
 {5966}{}{s Hubologisty.}
-{5967}{}{s muem hlídajícím most.}
-{5968}{}{s rytíøi krále Artuše bojujícími s krysou.}
-{5969}{}{se skupinou naštvanıch oldákù.}
-{5970}{}{s hlouèkem dùleitì vypadajících jedincù.}
-{6000}{}{s jednotkou oldákù.}
-{6001}{}{s gangem vymahaèù.}
-{6002}{}{se stádem páraèù.}
-{6003}{}{s tlupou ohnivıch geckonù.}
-{6004}{}{s nìkolika lovci odmìn.}
-{6005}{}{s nìkolika lovci odmìn.}
-{6006}{}{s nìkolika lovci odmìn.}
-{6007}{}{s nìkolika lovci odmìn.}
-{6008}{}{s nìkolika lovci odmìn.}
-{6009}{}{s nìkolika lovci odmìn.}
-{6010}{}{s nìkolika lovci odmìn.}
-{6011}{}{s nìkolika lovci odmìn.}
-{6012}{}{s tlupou darebákù vedenıch jedním z Mortonovıch bratrù.}
-{6013}{}{s houfem alienù.}
-{6014}{}{s Hubologisty bojujícími s oldáky.}
-{6015}{}{s Hubologisty bojujícími s gangem vymahaèù.}
+{5967}{}{s muÅ¾em hlÃ­dajÃ­cÃ­m most.}
+{5968}{}{s rytÃ­Å™i krÃ¡le ArtuÅ¡e bojujÃ­cÃ­mi s krysou.}
+{5969}{}{se skupinou naÅ¡tvanÃ½ch Å¾oldÃ¡kÅ¯.}
+{5970}{}{s hlouÄkem dÅ¯leÅ¾itÄ› vypadajÃ­cÃ­ch jedincÅ¯.}
+{6000}{}{s jednotkou Å¾oldÃ¡kÅ¯.}
+{6001}{}{s gangem vymahaÄÅ¯.}
+{6002}{}{se stÃ¡dem pÃ¡raÄÅ¯.}
+{6003}{}{s tlupou ohnivÃ½ch geckonÅ¯.}
+{6004}{}{s nÄ›kolika lovci odmÄ›n.}
+{6005}{}{s nÄ›kolika lovci odmÄ›n.}
+{6006}{}{s nÄ›kolika lovci odmÄ›n.}
+{6007}{}{s nÄ›kolika lovci odmÄ›n.}
+{6008}{}{s nÄ›kolika lovci odmÄ›n.}
+{6009}{}{s nÄ›kolika lovci odmÄ›n.}
+{6010}{}{s nÄ›kolika lovci odmÄ›n.}
+{6011}{}{s nÄ›kolika lovci odmÄ›n.}
+{6012}{}{s tlupou darebÃ¡kÅ¯ vedenÃ½ch jednÃ­m z MortonovÃ½ch bratrÅ¯.}
+{6013}{}{s houfem alienÅ¯.}
+{6014}{}{s Hubologisty bojujÃ­cÃ­mi s Å¾oldÃ¡ky.}
+{6015}{}{s Hubologisty bojujÃ­cÃ­mi s gangem vymahaÄÅ¯.}
 {6016}{}{s Hubologisty.}
-{6017}{}{se skupinou naštvanıch oldákù.}
-{6018}{}{s hlouèkem dùleitì vypadajících jedincù.}
-{6050}{}{se skládkou toxickıch odpadù.}
-{6051}{}{s osamìlım psem.}
-{6052}{}{se stádem brahmín.}
-{6053}{}{s jednotkou oldákù.}
-{6054}{}{s nìkolika lovci odmìn.}
-{6055}{}{s nìkolika lovci odmìn.}
-{6056}{}{s nìkolika lovci odmìn.}
-{6057}{}{s nìkolika lovci odmìn.}
-{6058}{}{s nìkolika lovci odmìn.}
-{6059}{}{s nìkolika lovci odmìn.}
-{6060}{}{s nìkolika lovci odmìn.}
-{6061}{}{s nìkolika lovci odmìn.}
-{6062}{}{s tlupou darebákù vedenıch jedním z Mortonovıch bratrù.}
-{6063}{}{s gangem vymahaèù.}
-{6064}{}{se stádem páraèù.}
-{6065}{}{s tlupou ohnivıch geckonù.}
-{6066}{}{s houfem alienù.}
-{6067}{}{s Hubologisty bojujícími s oldáky.}
-{6068}{}{s Hubologisty bojujícími s gangem vymahaèù.}
+{6017}{}{se skupinou naÅ¡tvanÃ½ch Å¾oldÃ¡kÅ¯.}
+{6018}{}{s hlouÄkem dÅ¯leÅ¾itÄ› vypadajÃ­cÃ­ch jedincÅ¯.}
+{6050}{}{se sklÃ¡dkou toxickÃ½ch odpadÅ¯.}
+{6051}{}{s osamÄ›lÃ½m psem.}
+{6052}{}{se stÃ¡dem brahmÃ­n.}
+{6053}{}{s jednotkou Å¾oldÃ¡kÅ¯.}
+{6054}{}{s nÄ›kolika lovci odmÄ›n.}
+{6055}{}{s nÄ›kolika lovci odmÄ›n.}
+{6056}{}{s nÄ›kolika lovci odmÄ›n.}
+{6057}{}{s nÄ›kolika lovci odmÄ›n.}
+{6058}{}{s nÄ›kolika lovci odmÄ›n.}
+{6059}{}{s nÄ›kolika lovci odmÄ›n.}
+{6060}{}{s nÄ›kolika lovci odmÄ›n.}
+{6061}{}{s nÄ›kolika lovci odmÄ›n.}
+{6062}{}{s tlupou darebÃ¡kÅ¯ vedenÃ½ch jednÃ­m z MortonovÃ½ch bratrÅ¯.}
+{6063}{}{s gangem vymahaÄÅ¯.}
+{6064}{}{se stÃ¡dem pÃ¡raÄÅ¯.}
+{6065}{}{s tlupou ohnivÃ½ch geckonÅ¯.}
+{6066}{}{s houfem alienÅ¯.}
+{6067}{}{s Hubologisty bojujÃ­cÃ­mi s Å¾oldÃ¡ky.}
+{6068}{}{s Hubologisty bojujÃ­cÃ­mi s gangem vymahaÄÅ¯.}
 {6069}{}{s Hubologisty.}
-{6070}{}{s pozùstatky vorvanì.}
-{6071}{}{s obøí kamennou hlavou.}
-{6072}{}{s vrakem kosmické lodi.}
-{6073}{}{s portálem ke Stráci Vìènosti.}
-{6074}{}{s rytíøi krále Artuše.}
-{6075}{}{s Plechovım Døevorubcem.}
-{6076}{}{se špinavımi vesnièany pronásledujícími spammera.}
-{6077}{}{s kavárnou "U ztracenıch snù".}
-{6078}{}{se skupinou naštvanıch oldákù.}
-{6079}{}{s hlouèkem dùleitì vypadajících jedincù.}
-{6100}{}{se skládkou toxickıch odpadù.}
-{6101}{}{s osamìlım psem.}
-{6102}{}{se stádem brahmín.}
-{6103}{}{s jednotkou oldákù.}
-{6104}{}{s nìkolika lovci odmìn.}
-{6105}{}{s nìkolika lovci odmìn.}
-{6106}{}{s nìkolika lovci odmìn.}
-{6107}{}{s nìkolika lovci odmìn.}
-{6108}{}{s nìkolika lovci odmìn.}
-{6109}{}{s nìkolika lovci odmìn.}
-{6110}{}{s nìkolika lovci odmìn.}
-{6111}{}{s nìkolika lovci odmìn.}
-{6112}{}{s tlupou darebákù vedenıch jedním z Mortonovıch bratrù.}
-{6113}{}{se smeèkou páraèù.}
-{6114}{}{se smeèkou ohnivıch geckonù.}
-{6115}{}{s houfem alienù.}
-{6116}{}{s karavanou napadenou oldáky.}
-{6117}{}{s karavanou napadenou oldáky.}
-{6118}{}{s karavanou napadenou ohnivımi geckony.}
-{6119}{}{s karavanou bránící se proti alienùm.}
+{6070}{}{s pozÅ¯statky vorvanÄ›.}
+{6071}{}{s obÅ™Ã­ kamennou hlavou.}
+{6072}{}{s vrakem kosmickÃ© lodi.}
+{6073}{}{s portÃ¡lem ke StrÃ¡Å¾ci VÄ›Änosti.}
+{6074}{}{s rytÃ­Å™i krÃ¡le ArtuÅ¡e.}
+{6075}{}{s PlechovÃ½m DÅ™evorubcem.}
+{6076}{}{se Å¡pinavÃ½mi vesniÄany pronÃ¡sledujÃ­cÃ­mi spammera.}
+{6077}{}{s kavÃ¡rnou "U ztracenÃ½ch snÅ¯".}
+{6078}{}{se skupinou naÅ¡tvanÃ½ch Å¾oldÃ¡kÅ¯.}
+{6079}{}{s hlouÄkem dÅ¯leÅ¾itÄ› vypadajÃ­cÃ­ch jedincÅ¯.}
+{6100}{}{se sklÃ¡dkou toxickÃ½ch odpadÅ¯.}
+{6101}{}{s osamÄ›lÃ½m psem.}
+{6102}{}{se stÃ¡dem brahmÃ­n.}
+{6103}{}{s jednotkou Å¾oldÃ¡kÅ¯.}
+{6104}{}{s nÄ›kolika lovci odmÄ›n.}
+{6105}{}{s nÄ›kolika lovci odmÄ›n.}
+{6106}{}{s nÄ›kolika lovci odmÄ›n.}
+{6107}{}{s nÄ›kolika lovci odmÄ›n.}
+{6108}{}{s nÄ›kolika lovci odmÄ›n.}
+{6109}{}{s nÄ›kolika lovci odmÄ›n.}
+{6110}{}{s nÄ›kolika lovci odmÄ›n.}
+{6111}{}{s nÄ›kolika lovci odmÄ›n.}
+{6112}{}{s tlupou darebÃ¡kÅ¯ vedenÃ½ch jednÃ­m z MortonovÃ½ch bratrÅ¯.}
+{6113}{}{se smeÄkou pÃ¡raÄÅ¯.}
+{6114}{}{se smeÄkou ohnivÃ½ch geckonÅ¯.}
+{6115}{}{s houfem alienÅ¯.}
+{6116}{}{s karavanou napadenou Å¾oldÃ¡ky.}
+{6117}{}{s karavanou napadenou Å¾oldÃ¡ky.}
+{6118}{}{s karavanou napadenou ohnivÃ½mi geckony.}
+{6119}{}{s karavanou brÃ¡nÃ­cÃ­ se proti alienÅ¯m.}
 {6120}{}{s karavanou.}
 {6121}{}{s karavanou.}
-{6122}{}{s pozùstatky vorvanì.}
-{6123}{}{s obøí kamennou hlavou.}
-{6124}{}{s vrakem kosmické lodi.}
-{6125}{}{s portálem ke Stráci Vìènosti.}
-{6126}{}{s rytíøi krále Artuše.}
-{6127}{}{s Plechovım Døevorubcem.}
-{6128}{}{se špinavımi vesnièany pronásledujícími spammera.}
-{6129}{}{s kavárnou "U ztracenıch snù".}
-{6130}{}{se skupinou naštvanıch oldákù.}
-{6150}{}{s jednotkou oldákù.}
-{6151}{}{se smeèkou páraèù.}
-{6152}{}{se smeèkou ohnivıch geckonù.}
-{6153}{}{s houfem alienù.}
-{6154}{}{s nìkolika lovci odmìn.}
-{6155}{}{s nìkolika lovci odmìn.}
-{6156}{}{s nìkolika lovci odmìn.}
-{6157}{}{s nìkolika lovci odmìn.}
-{6158}{}{s nìkolika lovci odmìn.}
-{6159}{}{s nìkolika lovci odmìn.}
-{6160}{}{s nìkolika lovci odmìn.}
-{6161}{}{s nìkolika lovci odmìn.}
-{6162}{}{s tlupou darebákù vedenıch jedním z Mortonovıch bratrù.}
-{6163}{}{s karavanou napadenou oldáky.}
-{6164}{}{s karavanou napadenou oldáky.}
-{6165}{}{s karavanou napadenou ohnivımi geckony.}
-{6166}{}{s karavanou bránící se proti alienùm.}
+{6122}{}{s pozÅ¯statky vorvanÄ›.}
+{6123}{}{s obÅ™Ã­ kamennou hlavou.}
+{6124}{}{s vrakem kosmickÃ© lodi.}
+{6125}{}{s portÃ¡lem ke StrÃ¡Å¾ci VÄ›Änosti.}
+{6126}{}{s rytÃ­Å™i krÃ¡le ArtuÅ¡e.}
+{6127}{}{s PlechovÃ½m DÅ™evorubcem.}
+{6128}{}{se Å¡pinavÃ½mi vesniÄany pronÃ¡sledujÃ­cÃ­mi spammera.}
+{6129}{}{s kavÃ¡rnou "U ztracenÃ½ch snÅ¯".}
+{6130}{}{se skupinou naÅ¡tvanÃ½ch Å¾oldÃ¡kÅ¯.}
+{6150}{}{s jednotkou Å¾oldÃ¡kÅ¯.}
+{6151}{}{se smeÄkou pÃ¡raÄÅ¯.}
+{6152}{}{se smeÄkou ohnivÃ½ch geckonÅ¯.}
+{6153}{}{s houfem alienÅ¯.}
+{6154}{}{s nÄ›kolika lovci odmÄ›n.}
+{6155}{}{s nÄ›kolika lovci odmÄ›n.}
+{6156}{}{s nÄ›kolika lovci odmÄ›n.}
+{6157}{}{s nÄ›kolika lovci odmÄ›n.}
+{6158}{}{s nÄ›kolika lovci odmÄ›n.}
+{6159}{}{s nÄ›kolika lovci odmÄ›n.}
+{6160}{}{s nÄ›kolika lovci odmÄ›n.}
+{6161}{}{s nÄ›kolika lovci odmÄ›n.}
+{6162}{}{s tlupou darebÃ¡kÅ¯ vedenÃ½ch jednÃ­m z MortonovÃ½ch bratrÅ¯.}
+{6163}{}{s karavanou napadenou Å¾oldÃ¡ky.}
+{6164}{}{s karavanou napadenou Å¾oldÃ¡ky.}
+{6165}{}{s karavanou napadenou ohnivÃ½mi geckony.}
+{6166}{}{s karavanou brÃ¡nÃ­cÃ­ se proti alienÅ¯m.}
 {6167}{}{s karavanou.}
 {6168}{}{s karavanou.}
-{6169}{}{se skupinou naštvanıch oldákù.}
-{6200}{}{se skládkou toxickıch odpadù.}
-{6201}{}{s osamìlım psem.}
-{6202}{}{se stádem brahmín.}
-{6203}{}{s hlídkou Enklávy.}
-{6204}{}{s nìkolika lovci odmìn.}
-{6205}{}{s nìkolika lovci odmìn.}
-{6206}{}{s nìkolika lovci odmìn.}
-{6207}{}{s nìkolika lovci odmìn.}
-{6208}{}{s nìkolika lovci odmìn.}
-{6209}{}{s nìkolika lovci odmìn.}
-{6210}{}{s nìkolika lovci odmìn.}
-{6211}{}{s nìkolika lovci odmìn.}
-{6212}{}{s tlupou darebákù vedenıch jedním z Mortonovıch bratrù.}
-{6213}{}{se zbytky Vùdcovy armády.}
-{6214}{}{se smeèkou páraèù.}
-{6215}{}{s rojem mantisù.}
-{6216}{}{s pozùstatky vorvanì.}
-{6217}{}{s obøí kamennou hlavou.}
-{6218}{}{s vrakem kosmické lodi.}
-{6219}{}{s portálem ke Stráci Vìènosti.}
-{6220}{}{s rytíøi krále Artuše.}
-{6221}{}{s Plechovım Døevorubcem.}
-{6222}{}{se špinavımi vesnièany pronásledujícími spammera.}
-{6223}{}{s kavárnou "U ztracenıch snù".}
-{6250}{}{s hlídkou Enklávy.}
-{6251}{}{se zbytky Vùdcovy armády.}
-{6252}{}{se smeèkou páraèù.}
-{6253}{}{s rojem mantisù.}
-{6254}{}{s nìkolika lovci odmìn.}
-{6255}{}{s nìkolika lovci odmìn.}
-{6256}{}{s nìkolika lovci odmìn.}
-{6257}{}{s nìkolika lovci odmìn.}
-{6258}{}{s nìkolika lovci odmìn.}
-{6259}{}{s nìkolika lovci odmìn.}
-{6260}{}{s nìkolika lovci odmìn.}
-{6261}{}{s nìkolika lovci odmìn.}
-{6262}{}{s tlupou darebákù vedenıch jedním z Mortonovıch bratrù.}
-{6263}{}{s muem hlídajícím most.}
-{6264}{}{s rytíøi krále Artuše bojujícími s krysou.}
-{6300}{}{se skládkou toxickıch odpadù.}
-{6301}{}{s osamìlım psem.}
-{6302}{}{se stádem brahmín.}
-{6303}{}{s karavanou napadenou zbytky Vùdcovy armády.}
-{6304}{}{s nìkolika lovci odmìn.}
-{6305}{}{s nìkolika lovci odmìn.}
-{6306}{}{s nìkolika lovci odmìn.}
-{6307}{}{s nìkolika lovci odmìn.}
-{6308}{}{s nìkolika lovci odmìn.}
-{6309}{}{s nìkolika lovci odmìn.}
-{6310}{}{s nìkolika lovci odmìn.}
-{6311}{}{s nìkolika lovci odmìn.}
-{6312}{}{s tlupou darebákù vedenıch jedním z Mortonovıch bratrù.}
-{6313}{}{s karavanou napadenou zbytky Vùdcovy armády.}
-{6314}{}{s karavanou napadenou páraèi.}
+{6169}{}{se skupinou naÅ¡tvanÃ½ch Å¾oldÃ¡kÅ¯.}
+{6200}{}{se sklÃ¡dkou toxickÃ½ch odpadÅ¯.}
+{6201}{}{s osamÄ›lÃ½m psem.}
+{6202}{}{se stÃ¡dem brahmÃ­n.}
+{6203}{}{s hlÃ­dkou EnklÃ¡vy.}
+{6204}{}{s nÄ›kolika lovci odmÄ›n.}
+{6205}{}{s nÄ›kolika lovci odmÄ›n.}
+{6206}{}{s nÄ›kolika lovci odmÄ›n.}
+{6207}{}{s nÄ›kolika lovci odmÄ›n.}
+{6208}{}{s nÄ›kolika lovci odmÄ›n.}
+{6209}{}{s nÄ›kolika lovci odmÄ›n.}
+{6210}{}{s nÄ›kolika lovci odmÄ›n.}
+{6211}{}{s nÄ›kolika lovci odmÄ›n.}
+{6212}{}{s tlupou darebÃ¡kÅ¯ vedenÃ½ch jednÃ­m z MortonovÃ½ch bratrÅ¯.}
+{6213}{}{se zbytky VÅ¯dcovy armÃ¡dy.}
+{6214}{}{se smeÄkou pÃ¡raÄÅ¯.}
+{6215}{}{s rojem mantisÅ¯.}
+{6216}{}{s pozÅ¯statky vorvanÄ›.}
+{6217}{}{s obÅ™Ã­ kamennou hlavou.}
+{6218}{}{s vrakem kosmickÃ© lodi.}
+{6219}{}{s portÃ¡lem ke StrÃ¡Å¾ci VÄ›Änosti.}
+{6220}{}{s rytÃ­Å™i krÃ¡le ArtuÅ¡e.}
+{6221}{}{s PlechovÃ½m DÅ™evorubcem.}
+{6222}{}{se Å¡pinavÃ½mi vesniÄany pronÃ¡sledujÃ­cÃ­mi spammera.}
+{6223}{}{s kavÃ¡rnou "U ztracenÃ½ch snÅ¯".}
+{6250}{}{s hlÃ­dkou EnklÃ¡vy.}
+{6251}{}{se zbytky VÅ¯dcovy armÃ¡dy.}
+{6252}{}{se smeÄkou pÃ¡raÄÅ¯.}
+{6253}{}{s rojem mantisÅ¯.}
+{6254}{}{s nÄ›kolika lovci odmÄ›n.}
+{6255}{}{s nÄ›kolika lovci odmÄ›n.}
+{6256}{}{s nÄ›kolika lovci odmÄ›n.}
+{6257}{}{s nÄ›kolika lovci odmÄ›n.}
+{6258}{}{s nÄ›kolika lovci odmÄ›n.}
+{6259}{}{s nÄ›kolika lovci odmÄ›n.}
+{6260}{}{s nÄ›kolika lovci odmÄ›n.}
+{6261}{}{s nÄ›kolika lovci odmÄ›n.}
+{6262}{}{s tlupou darebÃ¡kÅ¯ vedenÃ½ch jednÃ­m z MortonovÃ½ch bratrÅ¯.}
+{6263}{}{s muÅ¾em hlÃ­dajÃ­cÃ­m most.}
+{6264}{}{s rytÃ­Å™i krÃ¡le ArtuÅ¡e bojujÃ­cÃ­mi s krysou.}
+{6300}{}{se sklÃ¡dkou toxickÃ½ch odpadÅ¯.}
+{6301}{}{s osamÄ›lÃ½m psem.}
+{6302}{}{se stÃ¡dem brahmÃ­n.}
+{6303}{}{s karavanou napadenou zbytky VÅ¯dcovy armÃ¡dy.}
+{6304}{}{s nÄ›kolika lovci odmÄ›n.}
+{6305}{}{s nÄ›kolika lovci odmÄ›n.}
+{6306}{}{s nÄ›kolika lovci odmÄ›n.}
+{6307}{}{s nÄ›kolika lovci odmÄ›n.}
+{6308}{}{s nÄ›kolika lovci odmÄ›n.}
+{6309}{}{s nÄ›kolika lovci odmÄ›n.}
+{6310}{}{s nÄ›kolika lovci odmÄ›n.}
+{6311}{}{s nÄ›kolika lovci odmÄ›n.}
+{6312}{}{s tlupou darebÃ¡kÅ¯ vedenÃ½ch jednÃ­m z MortonovÃ½ch bratrÅ¯.}
+{6313}{}{s karavanou napadenou zbytky VÅ¯dcovy armÃ¡dy.}
+{6314}{}{s karavanou napadenou pÃ¡raÄi.}
 {6315}{}{s karavanou.}
 {6316}{}{s karavanou.}
 {6317}{}{s karavanou.}
-{6318}{}{s pozùstatky vorvanì.}
-{6319}{}{s obøí kamennou hlavou.}
-{6320}{}{s vrakem kosmické lodi.}
-{6321}{}{s portálem ke Stráci Vìènosti.}
-{6322}{}{s rytíøi krále Artuše.}
-{6323}{}{s Plechovım Døevorubcem.}
-{6324}{}{se špinavımi vesnièany pronásledujícími spammera.}
-{6325}{}{s kavárnou "U ztracenıch snù".}
-{6350}{}{s karavanou napadenou zbytky Vùdcovy armády.}
-{6351}{}{s karavanou napadenou zbytky Vùdcovy armády.}
-{6352}{}{s karavanou napadenou páraèi.}
+{6318}{}{s pozÅ¯statky vorvanÄ›.}
+{6319}{}{s obÅ™Ã­ kamennou hlavou.}
+{6320}{}{s vrakem kosmickÃ© lodi.}
+{6321}{}{s portÃ¡lem ke StrÃ¡Å¾ci VÄ›Änosti.}
+{6322}{}{s rytÃ­Å™i krÃ¡le ArtuÅ¡e.}
+{6323}{}{s PlechovÃ½m DÅ™evorubcem.}
+{6324}{}{se Å¡pinavÃ½mi vesniÄany pronÃ¡sledujÃ­cÃ­mi spammera.}
+{6325}{}{s kavÃ¡rnou "U ztracenÃ½ch snÅ¯".}
+{6350}{}{s karavanou napadenou zbytky VÅ¯dcovy armÃ¡dy.}
+{6351}{}{s karavanou napadenou zbytky VÅ¯dcovy armÃ¡dy.}
+{6352}{}{s karavanou napadenou pÃ¡raÄi.}
 {6353}{}{s karavanou.}
-{6354}{}{s nìkolika lovci odmìn.}
-{6355}{}{s nìkolika lovci odmìn.}
-{6356}{}{s nìkolika lovci odmìn.}
-{6357}{}{s nìkolika lovci odmìn.}
-{6358}{}{s nìkolika lovci odmìn.}
-{6359}{}{s nìkolika lovci odmìn.}
-{6360}{}{s nìkolika lovci odmìn.}
-{6361}{}{s nìkolika lovci odmìn.}
-{6362}{}{s tlupou darebákù vedenıch jedním z Mortonovıch bratrù.}
+{6354}{}{s nÄ›kolika lovci odmÄ›n.}
+{6355}{}{s nÄ›kolika lovci odmÄ›n.}
+{6356}{}{s nÄ›kolika lovci odmÄ›n.}
+{6357}{}{s nÄ›kolika lovci odmÄ›n.}
+{6358}{}{s nÄ›kolika lovci odmÄ›n.}
+{6359}{}{s nÄ›kolika lovci odmÄ›n.}
+{6360}{}{s nÄ›kolika lovci odmÄ›n.}
+{6361}{}{s nÄ›kolika lovci odmÄ›n.}
+{6362}{}{s tlupou darebÃ¡kÅ¯ vedenÃ½ch jednÃ­m z MortonovÃ½ch bratrÅ¯.}
 {6363}{}{s karavanou.}
 {6364}{}{s karavanou.}
-{6365}{}{s muem hlídajícím most.}
-{6366}{}{s rytíøi krále Artuše bojujícími s krysou.}
-{6400}{}{se smeèkou vlkù.}
-{6401}{}{s rojem mantisù.}
-{6402}{}{s rodinou radškorpionù.}
-{6403}{}{s nìkolika lovci odmìn.}
-{6404}{}{s nìkolika lovci odmìn.}
-{6405}{}{s nìkolika lovci odmìn.}
-{6406}{}{s nìkolika lovci odmìn.}
-{6407}{}{s nìkolika lovci odmìn.}
-{6408}{}{s nìkolika lovci odmìn.}
-{6409}{}{s nìkolika lovci odmìn.}
-{6410}{}{s nìkolika lovci odmìn.}
-{6411}{}{s tlupou darebákù vedenıch jedním z Mortonovıch bratrù.}
-{6412}{}{s muem hlídajícím most.}
-{6413}{}{s rytíøi krále Artuše bojujícími s krysou.}
-{6450}{}{se skládkou toxickıch odpadù.}
-{6451}{}{s osamìlım psem.}
-{6452}{}{se stádem brahmín.}
-{6453}{}{se smeèkou vlkù.}
-{6454}{}{s nìkolika lovci odmìn.}
-{6455}{}{s nìkolika lovci odmìn.}
-{6456}{}{s nìkolika lovci odmìn.}
-{6457}{}{s nìkolika lovci odmìn.}
-{6458}{}{s nìkolika lovci odmìn.}
-{6459}{}{s nìkolika lovci odmìn.}
-{6460}{}{s nìkolika lovci odmìn.}
-{6461}{}{s nìkolika lovci odmìn.}
-{6462}{}{s tlupou darebákù vedenıch jedním z Mortonovıch bratrù.}
-{6463}{}{s rojem mantisù.}
-{6464}{}{s rodinou radškorpionù.}
-{6465}{}{s pozùstatky vorvanì.}
-{6466}{}{s obøí kamennou hlavou.}
-{6467}{}{s vrakem kosmické lodi.}
-{6468}{}{s portálem ke Stráci Vìènosti.}
-{6469}{}{s rytíøi krále Artuše.}
-{6470}{}{s Plechovım Døevorubcem.}
-{6471}{}{se špinavımi vesnièany pronásledujícími spammera.}
-{6472}{}{s kavárnou "U ztracenıch snù".}
-{6500}{}{se skládkou toxickıch odpadù.}
-{6501}{}{s osamìlım psem.}
-{6502}{}{se stádem brahmín.}
-{6503}{}{s tlupou zbìhù.}
-{6504}{}{s nìkolika lovci odmìn.}
-{6505}{}{s nìkolika lovci odmìn.}
-{6506}{}{s nìkolika lovci odmìn.}
-{6507}{}{s nìkolika lovci odmìn.}
-{6508}{}{s nìkolika lovci odmìn.}
-{6509}{}{s nìkolika lovci odmìn.}
-{6510}{}{s nìkolika lovci odmìn.}
-{6511}{}{s nìkolika lovci odmìn.}
-{6512}{}{s tlupou darebákù vedenıch jedním z Mortonovıch bratrù.}
-{6513}{}{se smeèkou vlkù.}
-{6514}{}{se skupinou radškorpionù.}
-{6515}{}{s karavanou bránící se proti bandì zbìhù.}
-{6516}{}{s karavanou bránící se proti bandì zbìhù.}
+{6365}{}{s muÅ¾em hlÃ­dajÃ­cÃ­m most.}
+{6366}{}{s rytÃ­Å™i krÃ¡le ArtuÅ¡e bojujÃ­cÃ­mi s krysou.}
+{6400}{}{se smeÄkou vlkÅ¯.}
+{6401}{}{s rojem mantisÅ¯.}
+{6402}{}{s rodinou radÅ¡korpionÅ¯.}
+{6403}{}{s nÄ›kolika lovci odmÄ›n.}
+{6404}{}{s nÄ›kolika lovci odmÄ›n.}
+{6405}{}{s nÄ›kolika lovci odmÄ›n.}
+{6406}{}{s nÄ›kolika lovci odmÄ›n.}
+{6407}{}{s nÄ›kolika lovci odmÄ›n.}
+{6408}{}{s nÄ›kolika lovci odmÄ›n.}
+{6409}{}{s nÄ›kolika lovci odmÄ›n.}
+{6410}{}{s nÄ›kolika lovci odmÄ›n.}
+{6411}{}{s tlupou darebÃ¡kÅ¯ vedenÃ½ch jednÃ­m z MortonovÃ½ch bratrÅ¯.}
+{6412}{}{s muÅ¾em hlÃ­dajÃ­cÃ­m most.}
+{6413}{}{s rytÃ­Å™i krÃ¡le ArtuÅ¡e bojujÃ­cÃ­mi s krysou.}
+{6450}{}{se sklÃ¡dkou toxickÃ½ch odpadÅ¯.}
+{6451}{}{s osamÄ›lÃ½m psem.}
+{6452}{}{se stÃ¡dem brahmÃ­n.}
+{6453}{}{se smeÄkou vlkÅ¯.}
+{6454}{}{s nÄ›kolika lovci odmÄ›n.}
+{6455}{}{s nÄ›kolika lovci odmÄ›n.}
+{6456}{}{s nÄ›kolika lovci odmÄ›n.}
+{6457}{}{s nÄ›kolika lovci odmÄ›n.}
+{6458}{}{s nÄ›kolika lovci odmÄ›n.}
+{6459}{}{s nÄ›kolika lovci odmÄ›n.}
+{6460}{}{s nÄ›kolika lovci odmÄ›n.}
+{6461}{}{s nÄ›kolika lovci odmÄ›n.}
+{6462}{}{s tlupou darebÃ¡kÅ¯ vedenÃ½ch jednÃ­m z MortonovÃ½ch bratrÅ¯.}
+{6463}{}{s rojem mantisÅ¯.}
+{6464}{}{s rodinou radÅ¡korpionÅ¯.}
+{6465}{}{s pozÅ¯statky vorvanÄ›.}
+{6466}{}{s obÅ™Ã­ kamennou hlavou.}
+{6467}{}{s vrakem kosmickÃ© lodi.}
+{6468}{}{s portÃ¡lem ke StrÃ¡Å¾ci VÄ›Änosti.}
+{6469}{}{s rytÃ­Å™i krÃ¡le ArtuÅ¡e.}
+{6470}{}{s PlechovÃ½m DÅ™evorubcem.}
+{6471}{}{se Å¡pinavÃ½mi vesniÄany pronÃ¡sledujÃ­cÃ­mi spammera.}
+{6472}{}{s kavÃ¡rnou "U ztracenÃ½ch snÅ¯".}
+{6500}{}{se sklÃ¡dkou toxickÃ½ch odpadÅ¯.}
+{6501}{}{s osamÄ›lÃ½m psem.}
+{6502}{}{se stÃ¡dem brahmÃ­n.}
+{6503}{}{s tlupou zbÄ›hÅ¯.}
+{6504}{}{s nÄ›kolika lovci odmÄ›n.}
+{6505}{}{s nÄ›kolika lovci odmÄ›n.}
+{6506}{}{s nÄ›kolika lovci odmÄ›n.}
+{6507}{}{s nÄ›kolika lovci odmÄ›n.}
+{6508}{}{s nÄ›kolika lovci odmÄ›n.}
+{6509}{}{s nÄ›kolika lovci odmÄ›n.}
+{6510}{}{s nÄ›kolika lovci odmÄ›n.}
+{6511}{}{s nÄ›kolika lovci odmÄ›n.}
+{6512}{}{s tlupou darebÃ¡kÅ¯ vedenÃ½ch jednÃ­m z MortonovÃ½ch bratrÅ¯.}
+{6513}{}{se smeÄkou vlkÅ¯.}
+{6514}{}{se skupinou radÅ¡korpionÅ¯.}
+{6515}{}{s karavanou brÃ¡nÃ­cÃ­ se proti bandÄ› zbÄ›hÅ¯.}
+{6516}{}{s karavanou brÃ¡nÃ­cÃ­ se proti bandÄ› zbÄ›hÅ¯.}
 {6517}{}{s karavanou napadenou vlky.}
-{6518}{}{s karavanou napadenou radškorpiony.}
+{6518}{}{s karavanou napadenou radÅ¡korpiony.}
 {6519}{}{s karavanou.}
 {6520}{}{s karavanou.}
 {6521}{}{s karavanou.}
 {6522}{}{s karavanou.}
 {6523}{}{s cestovatelkou.}
-{6524}{}{s pozùstatky vorvanì.}
-{6525}{}{s obøí kamennou hlavou.}
-{6526}{}{s vrakem kosmické lodi.}
-{6527}{}{s portálem ke Stráci Vìènosti.}
-{6528}{}{s rytíøi krále Artuše.}
-{6529}{}{s Plechovım Døevorubcem.}
-{6530}{}{se špinavımi vesnièany pronásledujícími spammera.}
-{6531}{}{s kavárnou "U ztracenıch snù".}
-{6532}{}{se skupinou rozzuøenıch zbìhù.}
-{6550}{}{s tlupou zbìhù.}
-{6551}{}{se smeèkou vlkù.}
-{6552}{}{se skupinou radškorpionù.}
-{6553}{}{s karavanou bránící se proti bandì zbìhù.}
-{6554}{}{s nìkolika lovci odmìn.}
-{6555}{}{s nìkolika lovci odmìn.}
-{6556}{}{s nìkolika lovci odmìn.}
-{6557}{}{s nìkolika lovci odmìn.}
-{6558}{}{s nìkolika lovci odmìn.}
-{6559}{}{s nìkolika lovci odmìn.}
-{6560}{}{s nìkolika lovci odmìn.}
-{6561}{}{s nìkolika lovci odmìn.}
-{6562}{}{s tlupou darebákù vedenıch jedním z Mortonovıch bratrù.}
-{6563}{}{s karavanou bránící se proti bandì zbìhù.}
+{6524}{}{s pozÅ¯statky vorvanÄ›.}
+{6525}{}{s obÅ™Ã­ kamennou hlavou.}
+{6526}{}{s vrakem kosmickÃ© lodi.}
+{6527}{}{s portÃ¡lem ke StrÃ¡Å¾ci VÄ›Änosti.}
+{6528}{}{s rytÃ­Å™i krÃ¡le ArtuÅ¡e.}
+{6529}{}{s PlechovÃ½m DÅ™evorubcem.}
+{6530}{}{se Å¡pinavÃ½mi vesniÄany pronÃ¡sledujÃ­cÃ­mi spammera.}
+{6531}{}{s kavÃ¡rnou "U ztracenÃ½ch snÅ¯".}
+{6532}{}{se skupinou rozzuÅ™enÃ½ch zbÄ›hÅ¯.}
+{6550}{}{s tlupou zbÄ›hÅ¯.}
+{6551}{}{se smeÄkou vlkÅ¯.}
+{6552}{}{se skupinou radÅ¡korpionÅ¯.}
+{6553}{}{s karavanou brÃ¡nÃ­cÃ­ se proti bandÄ› zbÄ›hÅ¯.}
+{6554}{}{s nÄ›kolika lovci odmÄ›n.}
+{6555}{}{s nÄ›kolika lovci odmÄ›n.}
+{6556}{}{s nÄ›kolika lovci odmÄ›n.}
+{6557}{}{s nÄ›kolika lovci odmÄ›n.}
+{6558}{}{s nÄ›kolika lovci odmÄ›n.}
+{6559}{}{s nÄ›kolika lovci odmÄ›n.}
+{6560}{}{s nÄ›kolika lovci odmÄ›n.}
+{6561}{}{s nÄ›kolika lovci odmÄ›n.}
+{6562}{}{s tlupou darebÃ¡kÅ¯ vedenÃ½ch jednÃ­m z MortonovÃ½ch bratrÅ¯.}
+{6563}{}{s karavanou brÃ¡nÃ­cÃ­ se proti bandÄ› zbÄ›hÅ¯.}
 {6564}{}{s karavanou napadenou vlky.}
-{6565}{}{s karavanou napadenou radškorpiony.}
+{6565}{}{s karavanou napadenou radÅ¡korpiony.}
 {6566}{}{s karavanou.}
 {6567}{}{s karavanou.}
 {6568}{}{s karavanou.}
 {6569}{}{s karavanou.}
 {6570}{}{s cestovatelkou.}
-{6571}{}{s muem hlídajícím most.}
-{6572}{}{s rytíøi krále Artuše bojujícími s krysou.}
-{6573}{}{se skupinou rozzuøenıch zbìhù.}
-{6600}{}{se zbytky Vùdcovy armády.}
-{6601}{}{s tlupou zbìhù.}
-{6602}{}{s jednotkou Rangerù bojující se zbytky Vùdcovy armády.}
-{6603}{}{s jednotkou Rangerù bojující se zbìhy.}
-{6604}{}{s nìkolika lovci odmìn.}
-{6605}{}{s nìkolika lovci odmìn.}
-{6606}{}{s nìkolika lovci odmìn.}
-{6607}{}{s nìkolika lovci odmìn.}
-{6608}{}{s nìkolika lovci odmìn.}
-{6609}{}{s nìkolika lovci odmìn.}
-{6610}{}{s nìkolika lovci odmìn.}
-{6611}{}{s nìkolika lovci odmìn.}
-{6612}{}{s tlupou darebákù vedenıch jedním z Mortonovıch bratrù.}
-{6613}{}{s nìkolika farmáøi bojujícími se zbytky Vùdcovy armády.}
-{6614}{}{s nìkolika farmáøi bránícími se útoku zbìhù.}
-{6615}{}{s oddílem Rangerù z NCR.}
-{6616}{}{s nìkolika farmáøi.}
-{6617}{}{s muem hlídajícím most.}
-{6618}{}{s rytíøi krále Artuše bojujícími s krysou.}
-{6619}{}{se skupinou rozzuøenıch zbìhù.}
-{6650}{}{se skládkou toxickıch odpadù.}
-{6651}{}{s osamìlım psem.}
-{6652}{}{se stádem brahmín.}
-{6653}{}{se zbytkem Vùdcovy armády.}
-{6654}{}{s nìkolika lovci odmìn.}
-{6655}{}{s nìkolika lovci odmìn.}
-{6656}{}{s nìkolika lovci odmìn.}
-{6657}{}{s nìkolika lovci odmìn.}
-{6658}{}{s nìkolika lovci odmìn.}
-{6659}{}{s nìkolika lovci odmìn.}
-{6660}{}{s nìkolika lovci odmìn.}
-{6661}{}{s nìkolika lovci odmìn.}
-{6662}{}{s tlupou darebákù vedenıch jedním z Mortonovıch bratrù.}
-{6663}{}{s tlupou zbìhù.}
-{6664}{}{s jednotkou Rangerù bojující se zbytky Vùdcovy armády.}
-{6665}{}{s jednotkou Rangerù bojující se zbìhy.}
-{6666}{}{s nìkolika farmáøi bojujícími se zbytky Vùdcovy armády.}
-{6667}{}{s nìkolika farmáøi bránícími se útoku zbìhù.}
-{6668}{}{s oddílem Rangerù z NCR.}
-{6669}{}{s nìkolika farmáøi.}
-{6670}{}{s pozùstatky vorvanì.}
-{6671}{}{s obøí kamennou hlavou.}
-{6672}{}{s vrakem kosmické lodi.}
-{6673}{}{s portálem ke Stráci Vìènosti.}
-{6674}{}{s rytíøi krále Artuše.}
-{6675}{}{s Plechovım Døevorubcem.}
-{6676}{}{se špinavımi vesnièany pronásledujícími spammera.}
-{6677}{}{s kavárnou "U ztracenıch snù".}
-{6678}{}{se skupinou rozzuøenıch zbìhù.}
-{6700}{}{se zbytky Vùdcovy armády napadenımi krtèími potkany.}
-{6701}{}{se zbytky Vùdcovy armády.}
-{6702}{}{s rojem mantisù.}
-{6703}{}{se skupinou zmutovanıch krtèích potkanù.}
-{6704}{}{s nìkolika lovci odmìn.}
-{6705}{}{s nìkolika lovci odmìn.}
-{6706}{}{s nìkolika lovci odmìn.}
-{6707}{}{s nìkolika lovci odmìn.}
-{6708}{}{s nìkolika lovci odmìn.}
-{6709}{}{s nìkolika lovci odmìn.}
-{6710}{}{s nìkolika lovci odmìn.}
-{6711}{}{s nìkolika lovci odmìn.}
-{6712}{}{s tlupou darebákù vedenıch jedním z Mortonovıch bratrù.}
-{6713}{}{se skupinou radškorpionù.}
-{6714}{}{s muem hlídajícím most.}
-{6715}{}{s rytíøi krále Artuše bojujícími s krysou.}
-{6750}{}{se skládkou toxickıch odpadù.}
-{6751}{}{s osamìlım psem.}
-{6752}{}{se stádem brahmín.}
-{6753}{}{se zbytky Vùdcovy armády napadenımi krtèími potkany.}
-{6754}{}{s nìkolika lovci odmìn.}
-{6755}{}{s nìkolika lovci odmìn.}
-{6756}{}{s nìkolika lovci odmìn.}
-{6757}{}{s nìkolika lovci odmìn.}
-{6758}{}{s nìkolika lovci odmìn.}
-{6759}{}{s nìkolika lovci odmìn.}
-{6760}{}{s nìkolika lovci odmìn.}
-{6761}{}{s nìkolika lovci odmìn.}
-{6762}{}{s tlupou darebákù vedenıch jedním z Mortonovıch bratrù.}
-{6763}{}{se zbytky Vùdcovy armády.}
-{6764}{}{s rojem mantisù.}
-{6765}{}{se skupinou zmutovanıch krtèích potkanù.}
-{6766}{}{se skupinou radškorpionù.}
-{6767}{}{s pozùstatky vorvanì.}
-{6768}{}{s obøí kamennou hlavou.}
-{6769}{}{s vrakem kosmické lodi.}
-{6770}{}{s portálem ke Stráci Vìènosti.}
-{6771}{}{s rytíøi krále Artuše.}
-{6772}{}{s Plechovım Døevorubcem.}
-{6773}{}{se špinavımi vesnièany pronásledujícími spammera.}
-{6774}{}{s kavárnou "U ztracenıch snù".}
+{6571}{}{s muÅ¾em hlÃ­dajÃ­cÃ­m most.}
+{6572}{}{s rytÃ­Å™i krÃ¡le ArtuÅ¡e bojujÃ­cÃ­mi s krysou.}
+{6573}{}{se skupinou rozzuÅ™enÃ½ch zbÄ›hÅ¯.}
+{6600}{}{se zbytky VÅ¯dcovy armÃ¡dy.}
+{6601}{}{s tlupou zbÄ›hÅ¯.}
+{6602}{}{s jednotkou RangerÅ¯ bojujÃ­cÃ­ se zbytky VÅ¯dcovy armÃ¡dy.}
+{6603}{}{s jednotkou RangerÅ¯ bojujÃ­cÃ­ se zbÄ›hy.}
+{6604}{}{s nÄ›kolika lovci odmÄ›n.}
+{6605}{}{s nÄ›kolika lovci odmÄ›n.}
+{6606}{}{s nÄ›kolika lovci odmÄ›n.}
+{6607}{}{s nÄ›kolika lovci odmÄ›n.}
+{6608}{}{s nÄ›kolika lovci odmÄ›n.}
+{6609}{}{s nÄ›kolika lovci odmÄ›n.}
+{6610}{}{s nÄ›kolika lovci odmÄ›n.}
+{6611}{}{s nÄ›kolika lovci odmÄ›n.}
+{6612}{}{s tlupou darebÃ¡kÅ¯ vedenÃ½ch jednÃ­m z MortonovÃ½ch bratrÅ¯.}
+{6613}{}{s nÄ›kolika farmÃ¡Å™i bojujÃ­cÃ­mi se zbytky VÅ¯dcovy armÃ¡dy.}
+{6614}{}{s nÄ›kolika farmÃ¡Å™i brÃ¡nÃ­cÃ­mi se Ãºtoku zbÄ›hÅ¯.}
+{6615}{}{s oddÃ­lem RangerÅ¯ z NCR.}
+{6616}{}{s nÄ›kolika farmÃ¡Å™i.}
+{6617}{}{s muÅ¾em hlÃ­dajÃ­cÃ­m most.}
+{6618}{}{s rytÃ­Å™i krÃ¡le ArtuÅ¡e bojujÃ­cÃ­mi s krysou.}
+{6619}{}{se skupinou rozzuÅ™enÃ½ch zbÄ›hÅ¯.}
+{6650}{}{se sklÃ¡dkou toxickÃ½ch odpadÅ¯.}
+{6651}{}{s osamÄ›lÃ½m psem.}
+{6652}{}{se stÃ¡dem brahmÃ­n.}
+{6653}{}{se zbytkem VÅ¯dcovy armÃ¡dy.}
+{6654}{}{s nÄ›kolika lovci odmÄ›n.}
+{6655}{}{s nÄ›kolika lovci odmÄ›n.}
+{6656}{}{s nÄ›kolika lovci odmÄ›n.}
+{6657}{}{s nÄ›kolika lovci odmÄ›n.}
+{6658}{}{s nÄ›kolika lovci odmÄ›n.}
+{6659}{}{s nÄ›kolika lovci odmÄ›n.}
+{6660}{}{s nÄ›kolika lovci odmÄ›n.}
+{6661}{}{s nÄ›kolika lovci odmÄ›n.}
+{6662}{}{s tlupou darebÃ¡kÅ¯ vedenÃ½ch jednÃ­m z MortonovÃ½ch bratrÅ¯.}
+{6663}{}{s tlupou zbÄ›hÅ¯.}
+{6664}{}{s jednotkou RangerÅ¯ bojujÃ­cÃ­ se zbytky VÅ¯dcovy armÃ¡dy.}
+{6665}{}{s jednotkou RangerÅ¯ bojujÃ­cÃ­ se zbÄ›hy.}
+{6666}{}{s nÄ›kolika farmÃ¡Å™i bojujÃ­cÃ­mi se zbytky VÅ¯dcovy armÃ¡dy.}
+{6667}{}{s nÄ›kolika farmÃ¡Å™i brÃ¡nÃ­cÃ­mi se Ãºtoku zbÄ›hÅ¯.}
+{6668}{}{s oddÃ­lem RangerÅ¯ z NCR.}
+{6669}{}{s nÄ›kolika farmÃ¡Å™i.}
+{6670}{}{s pozÅ¯statky vorvanÄ›.}
+{6671}{}{s obÅ™Ã­ kamennou hlavou.}
+{6672}{}{s vrakem kosmickÃ© lodi.}
+{6673}{}{s portÃ¡lem ke StrÃ¡Å¾ci VÄ›Änosti.}
+{6674}{}{s rytÃ­Å™i krÃ¡le ArtuÅ¡e.}
+{6675}{}{s PlechovÃ½m DÅ™evorubcem.}
+{6676}{}{se Å¡pinavÃ½mi vesniÄany pronÃ¡sledujÃ­cÃ­mi spammera.}
+{6677}{}{s kavÃ¡rnou "U ztracenÃ½ch snÅ¯".}
+{6678}{}{se skupinou rozzuÅ™enÃ½ch zbÄ›hÅ¯.}
+{6700}{}{se zbytky VÅ¯dcovy armÃ¡dy napadenÃ½mi krtÄÃ­mi potkany.}
+{6701}{}{se zbytky VÅ¯dcovy armÃ¡dy.}
+{6702}{}{s rojem mantisÅ¯.}
+{6703}{}{se skupinou zmutovanÃ½ch krtÄÃ­ch potkanÅ¯.}
+{6704}{}{s nÄ›kolika lovci odmÄ›n.}
+{6705}{}{s nÄ›kolika lovci odmÄ›n.}
+{6706}{}{s nÄ›kolika lovci odmÄ›n.}
+{6707}{}{s nÄ›kolika lovci odmÄ›n.}
+{6708}{}{s nÄ›kolika lovci odmÄ›n.}
+{6709}{}{s nÄ›kolika lovci odmÄ›n.}
+{6710}{}{s nÄ›kolika lovci odmÄ›n.}
+{6711}{}{s nÄ›kolika lovci odmÄ›n.}
+{6712}{}{s tlupou darebÃ¡kÅ¯ vedenÃ½ch jednÃ­m z MortonovÃ½ch bratrÅ¯.}
+{6713}{}{se skupinou radÅ¡korpionÅ¯.}
+{6714}{}{s muÅ¾em hlÃ­dajÃ­cÃ­m most.}
+{6715}{}{s rytÃ­Å™i krÃ¡le ArtuÅ¡e bojujÃ­cÃ­mi s krysou.}
+{6750}{}{se sklÃ¡dkou toxickÃ½ch odpadÅ¯.}
+{6751}{}{s osamÄ›lÃ½m psem.}
+{6752}{}{se stÃ¡dem brahmÃ­n.}
+{6753}{}{se zbytky VÅ¯dcovy armÃ¡dy napadenÃ½mi krtÄÃ­mi potkany.}
+{6754}{}{s nÄ›kolika lovci odmÄ›n.}
+{6755}{}{s nÄ›kolika lovci odmÄ›n.}
+{6756}{}{s nÄ›kolika lovci odmÄ›n.}
+{6757}{}{s nÄ›kolika lovci odmÄ›n.}
+{6758}{}{s nÄ›kolika lovci odmÄ›n.}
+{6759}{}{s nÄ›kolika lovci odmÄ›n.}
+{6760}{}{s nÄ›kolika lovci odmÄ›n.}
+{6761}{}{s nÄ›kolika lovci odmÄ›n.}
+{6762}{}{s tlupou darebÃ¡kÅ¯ vedenÃ½ch jednÃ­m z MortonovÃ½ch bratrÅ¯.}
+{6763}{}{se zbytky VÅ¯dcovy armÃ¡dy.}
+{6764}{}{s rojem mantisÅ¯.}
+{6765}{}{se skupinou zmutovanÃ½ch krtÄÃ­ch potkanÅ¯.}
+{6766}{}{se skupinou radÅ¡korpionÅ¯.}
+{6767}{}{s pozÅ¯statky vorvanÄ›.}
+{6768}{}{s obÅ™Ã­ kamennou hlavou.}
+{6769}{}{s vrakem kosmickÃ© lodi.}
+{6770}{}{s portÃ¡lem ke StrÃ¡Å¾ci VÄ›Änosti.}
+{6771}{}{s rytÃ­Å™i krÃ¡le ArtuÅ¡e.}
+{6772}{}{s PlechovÃ½m DÅ™evorubcem.}
+{6773}{}{se Å¡pinavÃ½mi vesniÄany pronÃ¡sledujÃ­cÃ­mi spammera.}
+{6774}{}{s kavÃ¡rnou "U ztracenÃ½ch snÅ¯".}

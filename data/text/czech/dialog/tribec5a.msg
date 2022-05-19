@@ -1,2 +1,2 @@
-{100}{}{Vidíš mrtvé tìlo mladé dívky.}
-{101}{}{Pøestoe bylo toto tìlo èásteènì seráno krysami a jinımi tvory, rozpoznáváš zranìní zpùsobené bodnımi ranami. Oblièej dívky je poznamenán utrpením a muèením. Zcela jistì je duše této dívky v utrpení.}
+{100}{}{VidÃ­Å¡ mrtvÃ© tÄ›lo mladÃ© dÃ­vky.}
+{101}{}{PÅ™estoÅ¾e bylo toto tÄ›lo ÄÃ¡steÄnÄ› seÅ¾rÃ¡no krysami a jinÃ½mi tvory, rozpoznÃ¡vÃ¡Å¡ zranÄ›nÃ­ zpÅ¯sobenÃ© bodnÃ½mi ranami. ObliÄej dÃ­vky je poznamenÃ¡n utrpenÃ­m a muÄenÃ­m. Zcela jistÄ› je duÅ¡e tÃ©to dÃ­vky v utrpenÃ­.}

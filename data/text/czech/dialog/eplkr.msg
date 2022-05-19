@@ -1,1 +1,1 @@
-{100}{}{Tato skøíòka je elektronicky uzamèena. Odsud se nedá nijak otevøít.}
+{100}{}{Tato skÅ™Ã­Åˆka je elektronicky uzamÄena. Odsud se nedÃ¡ nijak otevÅ™Ã­t.}

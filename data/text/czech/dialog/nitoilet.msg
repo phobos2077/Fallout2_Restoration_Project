@@ -1,3 +1,3 @@
-{100}{}{Eh... tohle je záchod.}
-{101}{}{Hele, nìkdo nacpal do nádrky pár granátù.}
-{102}{}{U tady nic není... teda, nic cenného.}
+{100}{}{Eh... tohle je zÃ¡chod.}
+{101}{}{Hele, nÄ›kdo nacpal do nÃ¡drÅ¾ky pÃ¡r granÃ¡tÅ¯.}
+{102}{}{UÅ¾ tady nic nenÃ­... teda, nic cennÃ©ho.}

@@ -1,47 +1,47 @@
-{100}{}{Vidíš Hanka.}
-{101}{}{Vidíš tlustého mnicha.}
-{102}{}{Nìco kutí u destilátoru.}
-{200}{}{Hej, pøíteli, nemáš u sebe zapalovaè?}
-{201}{}{Jasnì. (Dát mu zapalovaè.)}
-{202}{}{Perfektní. Díky!}
-{203}{}{Jen tak pro zajímavost, co tady vlastnì dìláš?}
-{204}{}{Jasnì. Tady máš na úèet podniku, za ten zapalovaè.}
-{205}{}{[Vypít to]}
-{206}{}{Myslím, e u nechci ádnı alkohol. Nashle.}
-{207}{}{(Díky vínu se teï cítíš høejivì a uvolnìnì.)}
-{208}{}{Dej sem další, Hanku.}
-{209}{}{U pùjdu. Nashle.}
-{210}{}{(Najednou se cítíš pìknì na hovno, zrak se ti zamlí a neovladatelnì padneš na zem...)}
+{100}{}{VidÃ­Å¡ Hanka.}
+{101}{}{VidÃ­Å¡ tlustÃ©ho mnicha.}
+{102}{}{NÄ›co kutÃ­ u destilÃ¡toru.}
+{200}{}{Hej, pÅ™Ã­teli, nemÃ¡Å¡ u sebe zapalovaÄ?}
+{201}{}{JasnÄ›. (DÃ¡t mu zapalovaÄ.)}
+{202}{}{PerfektnÃ­. DÃ­ky!}
+{203}{}{Jen tak pro zajÃ­mavost, co tady vlastnÄ› dÄ›lÃ¡Å¡?}
+{204}{}{JasnÄ›. Tady mÃ¡Å¡ na ÃºÄet podniku, za ten zapalovaÄ.}
+{205}{}{[VypÃ­t to]}
+{206}{}{MyslÃ­m, Å¾e uÅ¾ nechci Å¾Ã¡dnÃ½ alkohol. Nashle.}
+{207}{}{(DÃ­ky vÃ­nu se teÄ cÃ­tÃ­Å¡ hÅ™ejivÄ› a uvolnÄ›nÄ›.)}
+{208}{}{Dej sem dalÅ¡Ã­, Hanku.}
+{209}{}{UÅ¾ pÅ¯jdu. Nashle.}
+{210}{}{(Najednou se cÃ­tÃ­Å¡ pÄ›knÄ› na hovno, zrak se ti zamlÅ¾Ã­ a neovladatelnÄ› padneÅ¡ na zem...)}
 {211}{}{[KONEC]}
-{212}{}{Ne, promiò.}
-{213}{}{Zdravím.}
+{212}{}{Ne, promiÅˆ.}
+{213}{}{ZdravÃ­m.}
 {214}{}{Nazdar... a nashle.}
-{215}{}{Tohle grátis nebude. Bude tì stát $20.}
-{216}{}{Jistì. Tady jsou peníze.}
-{217}{}{Ne, u mám dost. Moná pøíštì.}
-{218}{}{(Strká peníze do kapsy.) Fajn, tady máš ten drink.}
-{219}{}{Vrátím se a budu mít víc penìz.}
-{220}{}{Tak co, poštìstilo se? Máš zapalovaè?}
-{250}{}{Chci si koupit nìjakı alkohol co tu pálíte.}
-{251}{}{Jen se tak dívám kolem. Mìj se.}
-{252}{}{Jistì. $20 za flašku.}
+{215}{}{Tohle grÃ¡tis nebude. Bude tÄ› stÃ¡t $20.}
+{216}{}{JistÄ›. Tady jsou penÃ­ze.}
+{217}{}{Ne, uÅ¾ mÃ¡m dost. MoÅ¾nÃ¡ pÅ™Ã­Å¡tÄ›.}
+{218}{}{(StrkÃ¡ penÃ­ze do kapsy.) Fajn, tady mÃ¡Å¡ ten drink.}
+{219}{}{VrÃ¡tÃ­m se aÅ¾ budu mÃ­t vÃ­c penÄ›z.}
+{220}{}{Tak co, poÅ¡tÄ›stilo se? MÃ¡Å¡ zapalovaÄ?}
+{250}{}{Chci si koupit nÄ›jakÃ½ alkohol co tu pÃ¡lÃ­te.}
+{251}{}{Jen se tak dÃ­vÃ¡m kolem. MÄ›j se.}
+{252}{}{JistÄ›. $20 za flaÅ¡ku.}
 {253}{}{[Nechat si to]}
-{300}{}{Kam jsem jen dal svùj zapalovaè?}
-{301}{}{Potøebuju zapalovaè.}
-{302}{}{MÙE MI NÌKDO SEHNAT ZAPALOVAÈ!?}
+{300}{}{Kam jsem jen dal svÅ¯j zapalovaÄ?}
+{301}{}{PotÅ™ebuju zapalovaÄ.}
+{302}{}{MÅ®Å½E MI NÄšKDO SEHNAT ZAPALOVAÄŒ!?}
 {303}{}{Eh, nazdar.}
-{304}{}{Promiò, ale teï si s tebou nemùu povídat.}
-{400}{}{jóva, koukni na všechny ty krásnı hvìzdy!}
-{500}{}{Ahoj. Potøebuješ nìco?}
-{501}{}{Hej, dík za ten zapalovaè. Je mnohem lepší ne ten pøedtím.}
-{600}{}{Vaøíme si tu svùj vlastní alkohol. Jeden z nejsilnìjších v pustinì.}
-{601}{}{Mùu ochutnat?}
-{602}{}{To zní zajímavì, ale u musím jít.}
-{700}{}{Tak to je v háji. Ten svùj jsem nedávno ztratil a nemùu ho nikde najít. Jestli nìjakı najdeš, rád si ho od tebe vezmu.}
-{701}{}{Samozøejmì. Pokud na nìjakı narazím, dám ti vìdìt. Nashle.}
-{702}{}{Promiò, ale jsem tak trochu sbìratel, take si všechno nechávám. Nashle.}
-{800}{}{Zep-lovaè? Já mít tvùrce ohnì. Spálit mì mnohokrát. (Vytáhneš zapalovaè.)}
-{810}{}{Jo, ten pøesnì potøebuju. Dáš mi ho?}
-{811}{}{Dobe. Já nemít to rád.}
-{812}{}{Já ti nedat.}
-{820}{}{Ty se teï nespálit. Naskle!}
+{304}{}{PromiÅˆ, ale teÄ si s tebou nemÅ¯Å¾u povÃ­dat.}
+{400}{}{Å½jÃ³va, koukni na vÅ¡echny ty krÃ¡snÃ½ hvÄ›zdy!}
+{500}{}{Ahoj. PotÅ™ebujeÅ¡ nÄ›co?}
+{501}{}{Hej, dÃ­k za ten zapalovaÄ. Je mnohem lepÅ¡Ã­ neÅ¾ ten pÅ™edtÃ­m.}
+{600}{}{VaÅ™Ã­me si tu svÅ¯j vlastnÃ­ alkohol. Jeden z nejsilnÄ›jÅ¡Ã­ch v pustinÄ›.}
+{601}{}{MÅ¯Å¾u ochutnat?}
+{602}{}{To znÃ­ zajÃ­mavÄ›, ale uÅ¾ musÃ­m jÃ­t.}
+{700}{}{Tak to je v hÃ¡ji. Ten svÅ¯j jsem nedÃ¡vno ztratil a nemÅ¯Å¾u ho nikde najÃ­t. Jestli nÄ›jakÃ½ najdeÅ¡, rÃ¡d si ho od tebe vezmu.}
+{701}{}{SamozÅ™ejmÄ›. Pokud na nÄ›jakÃ½ narazÃ­m, dÃ¡m ti vÄ›dÄ›t. Nashle.}
+{702}{}{PromiÅˆ, ale jsem tak trochu sbÄ›ratel, takÅ¾e si vÅ¡echno nechÃ¡vÃ¡m. Nashle.}
+{800}{}{Zep-lovaÄ? JÃ¡ mÃ­t tvÅ¯rce ohnÄ›. SpÃ¡lit mÄ› mnohokrÃ¡t. (VytÃ¡hneÅ¡ zapalovaÄ.)}
+{810}{}{Jo, ten pÅ™esnÄ› potÅ™ebuju. DÃ¡Å¡ mi ho?}
+{811}{}{DobÅ¾e. JÃ¡ nemÃ­t to rÃ¡d.}
+{812}{}{JÃ¡ ti nedat.}
+{820}{}{Ty se teÄ nespÃ¡lit. Naskle!}

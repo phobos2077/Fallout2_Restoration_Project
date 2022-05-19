@@ -1,4 +1,4 @@
-{100}{}{Vidíš nìjakého mue.}
+{100}{}{VidÃ­Å¡ nÄ›jakÃ©ho muÅ¾e.}
 {101}{}{To je John.}
-{102}{}{Tluèe skoøápkama z kokosu o sebe.}
+{102}{}{TluÄe skoÅ™Ã¡pkama z kokosu o sebe.}
 {103}{}{Klip! Klap!}

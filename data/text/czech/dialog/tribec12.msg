@@ -1,41 +1,41 @@
-{100}{}{Vidíš velmi starého divocha.}
-{101}{}{Vidíš náèelníka kmene.}
-{102}{}{(Starı mu kouøí dımku a dívá se na tebe svıma zakalenıma šedıma oèima, které jako by se snaily proniknout do tvé duše. Ukazuje ti, a se posadíš naproti nìmu do zakouøeného stanu.) Dìkuji ti za pøivedení Kurisu zpìt do naší vesnice. (Dlouze si popotáhne ze své dımky.) Duchové... o tobì hodnì povídají. Opravdu hodnì. Povìz mi, potøebuješ nìco?}
-{103}{}{(Starı mu kouøí dımku a dívá se na tebe svıma zakalenıma šedıma oèima, které jako by se snaily proniknout do tvé duše. Ukazuje ti, a se posadíš naproti nìmu do zakouøeného stanu.) Jsme velmi vdìèní za tvé sluby, poutníku. (Dlouze si popotáhne ze své dımky.) Duchové... o tobì hodnì povídají. Opravdu hodnì. Povìz mi, co tì pøivádí do naší vesnice?}
-{104}{}{Vítej zpìt, mé dítì. Potøebuješ ještì nìco?}
-{105}{}{Co pro tebe mùe staøík udìlat?}
-{106}{}{Jsem na vıpravì za svatım GECKem. Nevíš o nìm nìco?}
-{107}{}{Hledám ztracenou enu. Je to sestra mého pøítele Sulika.}
-{108}{}{Je tu nìjaká práce?}
+{100}{}{VidÃ­Å¡ velmi starÃ©ho divocha.}
+{101}{}{VidÃ­Å¡ nÃ¡ÄelnÃ­ka kmene.}
+{102}{}{(StarÃ½ muÅ¾ kouÅ™Ã­ dÃ½mku a dÃ­vÃ¡ se na tebe svÃ½ma zakalenÃ½ma Å¡edÃ½ma oÄima, kterÃ© jako by se snaÅ¾ily proniknout do tvÃ© duÅ¡e. Ukazuje ti, aÅ¥ se posadÃ­Å¡ naproti nÄ›mu do zakouÅ™enÃ©ho stanu.) DÄ›kuji ti za pÅ™ivedenÃ­ Kurisu zpÄ›t do naÅ¡Ã­ vesnice. (Dlouze si popotÃ¡hne ze svÃ© dÃ½mky.) DuchovÃ©... o tobÄ› hodnÄ› povÃ­dajÃ­. Opravdu hodnÄ›. PovÄ›z mi, potÅ™ebujeÅ¡ nÄ›co?}
+{103}{}{(StarÃ½ muÅ¾ kouÅ™Ã­ dÃ½mku a dÃ­vÃ¡ se na tebe svÃ½ma zakalenÃ½ma Å¡edÃ½ma oÄima, kterÃ© jako by se snaÅ¾ily proniknout do tvÃ© duÅ¡e. Ukazuje ti, aÅ¥ se posadÃ­Å¡ naproti nÄ›mu do zakouÅ™enÃ©ho stanu.) Jsme velmi vdÄ›ÄnÃ­ za tvÃ© sluÅ¾by, poutnÃ­ku. (Dlouze si popotÃ¡hne ze svÃ© dÃ½mky.) DuchovÃ©... o tobÄ› hodnÄ› povÃ­dajÃ­. Opravdu hodnÄ›. PovÄ›z mi, co tÄ› pÅ™ivÃ¡dÃ­ do naÅ¡Ã­ vesnice?}
+{104}{}{VÃ­tej zpÄ›t, mÃ© dÃ­tÄ›. PotÅ™ebujeÅ¡ jeÅ¡tÄ› nÄ›co?}
+{105}{}{Co pro tebe mÅ¯Å¾e staÅ™Ã­k udÄ›lat?}
+{106}{}{Jsem na vÃ½pravÄ› za svatÃ½m GECKem. NevÃ­Å¡ o nÄ›m nÄ›co?}
+{107}{}{HledÃ¡m ztracenou Å¾enu. Je to sestra mÃ©ho pÅ™Ã­tele Sulika.}
+{108}{}{Je tu nÄ›jakÃ¡ prÃ¡ce?}
 {109}{}{Ale nic. Nashle.}
-{110}{}{Svatı GECK... (Dlouze si popotáhne ze své dımky.) Jednoho takového tvora obèas lovíme... a obèas loví on nás. Geckon. Ne, myslím, e to není to, co hledáš. Obávám se, e tvùj svatı GECK je mimo mé chápání.}
-{111}{}{Chci se ještì na nìco zeptat.}
-{112}{}{To bude asi všechno. Nashle.}
-{120}{}{Sulik? (Kıvne.) Jeden z našich nejlepších muù. Zkušenı v umìní lovu a stejnì tak i v komunikaci s kostmi duchù. Vydal se hledat svou sestru Kurisu, která se doposud nevrátila z nedalekého kmene. Povìz mi, mé dítì, kde je Sulik teï?}
-{121}{}{Je tady se mnou. Hej Suliku, pojï sem...}
-{122}{}{Je v poøádku. Øekl jsem mu, a na mì poèká, dokud si nìco nezaøídím.}
-{123}{}{Je mi líto, ale je mrtvı.}
-{124}{}{(Sulik a náèelník si vymìòují pozdravy.) Rád Sulika zase vidím. Kosti duchù mi øekli, e se dostal do nesnází. Co je s jeho sestrou Kurisu?}
-{125}{}{Rád slyším, e je Sulik v poøádku. U jsme se obávali, e se dostal do nesnází. Take jeho sestra je stále nezvìstná? Je také èlenkou našeho kmene.}
-{126}{}{(Dlouze a potichu kouøí svoji dımku. Kdy u se chystáš odejít, tak koneènì promluví.) Sulik mìl silné duchy. Vdycky jsem si myslel, e mì jednoho dne nahradí, ale teï vidím, e s ním mìli duchové jiné plány. A co je s jeho sestrou Kurisu?}
-{127}{}{Zajali ji otrokáøi. Nabídl jsem Sulikovi pomoc pøi hledání. Nevíš nìco, co by mi pomohlo ji najít?}
-{128}{}{(Zavøe na chvíli oèi. Kdy u si myslíš, e usnul, zaène mluvit.) Otrokáøe vede mu s temnou duší. Metzger. Pøebıvá v ruinách jednoho mìsta Starıch. Øíkají mu Den. (Otevøe oèi.) Moná ji tam drí. Kosti duchù u nic dalšího neøíkají.}
-{129}{}{Díky. Chci se ještì na nìco zeptat.}
-{130}{}{Dìkuji ti, mé dítì, ale já jsem spokojenı. Je však moné, e ostatní ne. Poptej se po vesnici.}
-{140}{}{Já hledat GECK.}
-{141}{}{Já hledat chybìjící ena. Ona sestra kámoš Sulik.}
+{110}{}{SvatÃ½ GECK... (Dlouze si popotÃ¡hne ze svÃ© dÃ½mky.) Jednoho takovÃ©ho tvora obÄas lovÃ­me... a obÄas lovÃ­ on nÃ¡s. Geckon. Ne, myslÃ­m, Å¾e to nenÃ­ to, co hledÃ¡Å¡. ObÃ¡vÃ¡m se, Å¾e tvÅ¯j svatÃ½ GECK je mimo mÃ© chÃ¡pÃ¡nÃ­.}
+{111}{}{Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{112}{}{To bude asi vÅ¡echno. Nashle.}
+{120}{}{Sulik? (KÃ½vne.) Jeden z naÅ¡ich nejlepÅ¡Ã­ch muÅ¾Å¯. ZkuÅ¡enÃ½ v umÄ›nÃ­ lovu a stejnÄ› tak i v komunikaci s kostmi duchÅ¯. Vydal se hledat svou sestru Kurisu, kterÃ¡ se doposud nevrÃ¡tila z nedalekÃ©ho kmene. PovÄ›z mi, mÃ© dÃ­tÄ›, kde je Sulik teÄ?}
+{121}{}{Je tady se mnou. Hej Suliku, pojÄ sem...}
+{122}{}{Je v poÅ™Ã¡dku. Å˜ekl jsem mu, aÅ¥ na mÄ› poÄkÃ¡, dokud si nÄ›co nezaÅ™Ã­dÃ­m.}
+{123}{}{Je mi lÃ­to, ale je mrtvÃ½.}
+{124}{}{(Sulik a nÃ¡ÄelnÃ­k si vymÄ›ÅˆujÃ­ pozdravy.) RÃ¡d Sulika zase vidÃ­m. Kosti duchÅ¯ mi Å™ekli, Å¾e se dostal do nesnÃ¡zÃ­. Co je s jeho sestrou Kurisu?}
+{125}{}{RÃ¡d slyÅ¡Ã­m, Å¾e je Sulik v poÅ™Ã¡dku. UÅ¾ jsme se obÃ¡vali, Å¾e se dostal do nesnÃ¡zÃ­. TakÅ¾e jeho sestra je stÃ¡le nezvÄ›stnÃ¡? Je takÃ© Älenkou naÅ¡eho kmene.}
+{126}{}{(Dlouze a potichu kouÅ™Ã­ svoji dÃ½mku. KdyÅ¾ uÅ¾ se chystÃ¡Å¡ odejÃ­t, tak koneÄnÄ› promluvÃ­.) Sulik mÄ›l silnÃ© duchy. VÅ¾dycky jsem si myslel, Å¾e mÄ› jednoho dne nahradÃ­, ale teÄ vidÃ­m, Å¾e s nÃ­m mÄ›li duchovÃ© jinÃ© plÃ¡ny. A co je s jeho sestrou Kurisu?}
+{127}{}{Zajali ji otrokÃ¡Å™i. NabÃ­dl jsem Sulikovi pomoc pÅ™i hledÃ¡nÃ­. NevÃ­Å¡ nÄ›co, co by mi pomohlo ji najÃ­t?}
+{128}{}{(ZavÅ™e na chvÃ­li oÄi. KdyÅ¾ uÅ¾ si myslÃ­Å¡, Å¾e usnul, zaÄne mluvit.) OtrokÃ¡Å™e vede muÅ¾ s temnou duÅ¡Ã­. Metzger. PÅ™ebÃ½vÃ¡ v ruinÃ¡ch jednoho mÄ›sta StarÃ½ch. Å˜Ã­kajÃ­ mu Den. (OtevÅ™e oÄi.) MoÅ¾nÃ¡ ji tam drÅ¾Ã­. Kosti duchÅ¯ uÅ¾ nic dalÅ¡Ã­ho neÅ™Ã­kajÃ­.}
+{129}{}{DÃ­ky. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{130}{}{DÄ›kuji ti, mÃ© dÃ­tÄ›, ale jÃ¡ jsem spokojenÃ½. Je vÅ¡ak moÅ¾nÃ©, Å¾e ostatnÃ­ ne. Poptej se po vesnici.}
+{140}{}{JÃ¡ hledat GECK.}
+{141}{}{JÃ¡ hledat chybÄ›jÃ­cÃ­ Å¾ena. Ona sestra kÃ¡moÅ¡ Sulik.}
 {142}{}{Nashle.}
-{150}{}{Já ptát víc.}
-{160}{}{On pøímo tady. Sulik, náèerník chtít pokec.}
-{161}{}{On dobrı. Èekat na já.}
-{162}{}{Já promiò. On mrtvı.}
-{170}{}{Ano, zlí lidé dostat ona. Já pomoct Sulik. Ty vìdìt, kde ona bıt?}
-{200}{}{Tvoje zlé èiny konèí zde, otrokáøi!}
-{300}{}{(Starı mu kouøí dımku a dívá se na tebe svıma zakalenıma šedıma oèima, které jako by se snaily proniknout do tvé duše. Ukazuje ti, a se posadíš naproti nìmu do zakouøeného stanu.) Dobrá práce, mé dítì. Slyším køiky mnoha høíšnıch kostí duchù, které se ztratily ve Velkém Slaném Jezeøe. Teï, kdy se ti podaøilo prokázat své kvality, ti u mùu sdìlit poslední veliké tajemství.}
-{301}{}{Skvìlé, koneènì! Poslouchám.}
-{302}{}{Nemám zájem, staøíku. Nashle.}
-{310}{}{(Silnì si popotáhne ze své dımky a poté zavøe oèi. Po chvíli kıvne.) Ano. Vidím, e tì duch Velkého Medvìda doprovázel na tvé vıpravì a vdechl novı ivot starım kostem. Ostatním také. Moná tì navštívili v nìjaké vizi. Pochází z pøedaleké gal... kam mají mutanti vstup zakázán.}
-{311}{}{O èem to sakra mluvíš?}
-{312}{}{Jo jo, u se mi podaøilo objevit náhodné setkání se Star Wars. Neøíkej mi, e to je to poslední veliké tajemství.}
-{320}{}{Poslední tajemství... nejvìtší tajemství celé této hry... je... (Popotáhne si ze své dımky bìhem dramatické pauzy, kdy mu najednou vyklouzne z ruky a spadne pøímo na jeho róbu, která se okamitì vznítí a zachvátí staøíka plameny.)}
+{150}{}{JÃ¡ ptÃ¡t vÃ­c.}
+{160}{}{On pÅ™Ã­mo tady. Sulik, nÃ¡ÄernÃ­k chtÃ­t pokec.}
+{161}{}{On dobrÃ½. ÄŒekat na jÃ¡.}
+{162}{}{JÃ¡ promiÅˆ. On mrtvÃ½.}
+{170}{}{Ano, zlÃ­ lidÃ© dostat ona. JÃ¡ pomoct Sulik. Ty vÄ›dÄ›t, kde ona bÃ½t?}
+{200}{}{Tvoje zlÃ© Äiny konÄÃ­ zde, otrokÃ¡Å™i!}
+{300}{}{(StarÃ½ muÅ¾ kouÅ™Ã­ dÃ½mku a dÃ­vÃ¡ se na tebe svÃ½ma zakalenÃ½ma Å¡edÃ½ma oÄima, kterÃ© jako by se snaÅ¾ily proniknout do tvÃ© duÅ¡e. Ukazuje ti, aÅ¥ se posadÃ­Å¡ naproti nÄ›mu do zakouÅ™enÃ©ho stanu.) DobrÃ¡ prÃ¡ce, mÃ© dÃ­tÄ›. SlyÅ¡Ã­m kÅ™iky mnoha hÅ™Ã­Å¡nÃ½ch kostÃ­ duchÅ¯, kterÃ© se ztratily ve VelkÃ©m SlanÃ©m JezeÅ™e. TeÄ, kdyÅ¾ se ti podaÅ™ilo prokÃ¡zat svÃ© kvality, ti uÅ¾ mÅ¯Å¾u sdÄ›lit poslednÃ­ velikÃ© tajemstvÃ­.}
+{301}{}{SkvÄ›lÃ©, koneÄnÄ›! PoslouchÃ¡m.}
+{302}{}{NemÃ¡m zÃ¡jem, staÅ™Ã­ku. Nashle.}
+{310}{}{(SilnÄ› si popotÃ¡hne ze svÃ© dÃ½mky a potÃ© zavÅ™e oÄi. Po chvÃ­li kÃ½vne.) Ano. VidÃ­m, Å¾e tÄ› duch VelkÃ©ho MedvÄ›da doprovÃ¡zel na tvÃ© vÃ½pravÄ› a vdechl novÃ½ Å¾ivot starÃ½m kostem. OstatnÃ­m takÃ©. MoÅ¾nÃ¡ tÄ› navÅ¡tÃ­vili v nÄ›jakÃ© vizi. PochÃ¡zÃ­ z pÅ™edalekÃ© gal... kam majÃ­ mutanti vstup zakÃ¡zÃ¡n.}
+{311}{}{O Äem to sakra mluvÃ­Å¡?}
+{312}{}{Jo jo, uÅ¾ se mi podaÅ™ilo objevit nÃ¡hodnÃ© setkÃ¡nÃ­ se Star Wars. NeÅ™Ã­kej mi, Å¾e to je to poslednÃ­ velikÃ© tajemstvÃ­.}
+{320}{}{PoslednÃ­ tajemstvÃ­... nejvÄ›tÅ¡Ã­ tajemstvÃ­ celÃ© tÃ©to hry... je... (PopotÃ¡hne si ze svÃ© dÃ½mky bÄ›hem dramatickÃ© pauzy, kdyÅ¾ mu najednou vyklouzne z ruky a spadne pÅ™Ã­mo na jeho rÃ³bu, kterÃ¡ se okamÅ¾itÄ› vznÃ­tÃ­ a zachvÃ¡tÃ­ staÅ™Ã­ka plameny.)}
 {321}{}{Kurva!}

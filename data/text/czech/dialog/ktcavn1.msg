@@ -1,1 +1,1 @@
-{100}{}{První text}
+{100}{}{PrvnÃ­ text}

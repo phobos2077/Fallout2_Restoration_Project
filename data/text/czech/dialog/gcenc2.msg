@@ -1,20 +1,20 @@
-{100}{}{Stùj, pocestnı mutante! Pátráme v oblasti po nepøátelích Enklávy. Okamitì se identifikuj.}
-{101}{}{Komu øíkáš mutante, ty kreténe? Chceš nepøítele? Tak tady jednoho máš.}
-{102}{}{Podívej, jsem jenom obyèejnı pocestnı. Nikdy jsem o Enklávì ani neslyšel. Ta osoba musí bıt pìknì nebezpeèná, protoe vy vypadáte, e to myslíte vánì.}
+{100}{}{StÅ¯j, pocestnÃ½ mutante! PÃ¡trÃ¡me v oblasti po nepÅ™Ã¡telÃ­ch EnklÃ¡vy. OkamÅ¾itÄ› se identifikuj.}
+{101}{}{Komu Å™Ã­kÃ¡Å¡ mutante, ty kretÃ©ne? ChceÅ¡ nepÅ™Ã­tele? Tak tady jednoho mÃ¡Å¡.}
+{102}{}{PodÃ­vej, jsem jenom obyÄejnÃ½ pocestnÃ½. Nikdy jsem o EnklÃ¡vÄ› ani neslyÅ¡el. Ta osoba musÃ­ bÃ½t pÄ›knÄ› nebezpeÄnÃ¡, protoÅ¾e vy vypadÃ¡te, Å¾e to myslÃ­te vÃ¡Å¾nÄ›.}
 {103}{}{Tak a dost. Zabijte ho.}
 {104}{}{Ha, tohle bude sranda!}
-{105}{}{No jo, jsou fakt nebezpeèní. Myslíme si, e budou utíkat z Gecka. Tøeba jsi to ty koho hledáme.}
-{106}{}{No, jsem opravdu rád, e já to nejsem, protoe s vámi bych si nechtìl zahrávat. Ale poslouchej, jestli se tady v okolí pohybuje nìjaká nebezpeèná osoba, tak bych se mìl radìji vrátit ke svojí rodinì a varovat je.}
-{107}{}{Tak jo, vzdávám se. Jdeme na to!}
-{108}{}{Nikam nepùjdeš. Byl jsi u nìkdy v Gecku?}
-{109}{}{Jo, jasnì, e byl. Bájeèné místo. Teda, místní jsou škaredí, divnì smrdí a všude je tam ta radiace a tak, ale je fakt zábava si hrát s poèítaèema. Ha! Mìli jste tam bıt, kdy jsem si dìlal srandu z jednoho blbce. Víte, vypadal pøesnì jako vy.}
-{110}{}{Gecko? K tomu místu bych se nepøiblíil ani za milion. Copak nevíte, e je tam plno tìch hnusnıch ghoulù? Proè se ptáš?}
-{111}{}{Dobøe, vìøím ti. Chlapi, udìlejte rozestupy. Prohledejte oblast. Musíme tu osobu najít.}
-{112}{}{Ne, nevìøím ti. Tohle je ten mu, chlapi!}
-{113}{}{Ne, nevìøím ti. Tohle je ta ena, chlapi!}
-{114}{}{Hej! Hej! Tak moment. Proè mi nevìøíš? Co e jsem to provedl?}
-{115}{}{Nìkdo se hacknul do poèítaèové sítì Enklávy z reaktoru Poseidon Oil. Snaíme se toho šmejda vystopovat.}
-{116}{}{Opravdu!? Tak to jsem urèitì nebyl já. Jsem jen divoch. Sakra, vdy já ani nevím, jak se pouívá ten... jak e jsi to øíkal? Pot-øí-taè?}
-{200}{}{Gecko? K tomu místu bych se nepøiblíil ani za milion. Copak nevíte, e je tam plno tìch hnusnıch ghoulù? Staèí, e musím dohlíet na svého strıèka Lennyho. Proè se ptáš?}
+{105}{}{No jo, jsou fakt nebezpeÄnÃ­. MyslÃ­me si, Å¾e budou utÃ­kat z Gecka. TÅ™eba jsi to ty koho hledÃ¡me.}
+{106}{}{No, jsem opravdu rÃ¡d, Å¾e jÃ¡ to nejsem, protoÅ¾e s vÃ¡mi bych si nechtÄ›l zahrÃ¡vat. Ale poslouchej, jestli se tady v okolÃ­ pohybuje nÄ›jakÃ¡ nebezpeÄnÃ¡ osoba, tak bych se mÄ›l radÄ›ji vrÃ¡tit ke svojÃ­ rodinÄ› a varovat je.}
+{107}{}{Tak jo, vzdÃ¡vÃ¡m se. Jdeme na to!}
+{108}{}{Nikam nepÅ¯jdeÅ¡. Byl jsi uÅ¾ nÄ›kdy v Gecku?}
+{109}{}{Jo, jasnÄ›, Å¾e byl. BÃ¡jeÄnÃ© mÃ­sto. Teda, mÃ­stnÃ­ jsou Å¡karedÃ­, divnÄ› smrdÃ­ a vÅ¡ude je tam ta radiace a tak, ale je fakt zÃ¡bava si hrÃ¡t s poÄÃ­taÄema. Ha! MÄ›li jste tam bÃ½t, kdyÅ¾ jsem si dÄ›lal srandu z jednoho blbce. VÃ­te, vypadal pÅ™esnÄ› jako vy.}
+{110}{}{Gecko? K tomu mÃ­stu bych se nepÅ™iblÃ­Å¾il ani za milion. Copak nevÃ­te, Å¾e je tam plno tÄ›ch hnusnÃ½ch ghoulÅ¯? ProÄ se ptÃ¡Å¡?}
+{111}{}{DobÅ™e, vÄ›Å™Ã­m ti. Chlapi, udÄ›lejte rozestupy. Prohledejte oblast. MusÃ­me tu osobu najÃ­t.}
+{112}{}{Ne, nevÄ›Å™Ã­m ti. Tohle je ten muÅ¾, chlapi!}
+{113}{}{Ne, nevÄ›Å™Ã­m ti. Tohle je ta Å¾ena, chlapi!}
+{114}{}{Hej! Hej! Tak moment. ProÄ mi nevÄ›Å™Ã­Å¡? Co Å¾e jsem to provedl?}
+{115}{}{NÄ›kdo se hacknul do poÄÃ­taÄovÃ© sÃ­tÄ› EnklÃ¡vy z reaktoru Poseidon Oil. SnaÅ¾Ã­me se toho Å¡mejda vystopovat.}
+{116}{}{Opravdu!? Tak to jsem urÄitÄ› nebyl jÃ¡. Jsem jen divoch. Sakra, vÅ¾dyÅ¥ jÃ¡ ani nevÃ­m, jak se pouÅ¾Ã­vÃ¡ ten... jak Å¾e jsi to Å™Ã­kal? Pot-Å™Ã­-taÄ?}
+{200}{}{Gecko? K tomu mÃ­stu bych se nepÅ™iblÃ­Å¾il ani za milion. Copak nevÃ­te, Å¾e je tam plno tÄ›ch hnusnÃ½ch ghoulÅ¯? StaÄÃ­, Å¾e musÃ­m dohlÃ­Å¾et na svÃ©ho strÃ½Äka Lennyho. ProÄ se ptÃ¡Å¡?}
 {201}{}{Heee?}
-{202}{}{Já zabít zlá hajzly!}
+{202}{}{JÃ¡ zabÃ­t zlÃ¡ hajzly!}

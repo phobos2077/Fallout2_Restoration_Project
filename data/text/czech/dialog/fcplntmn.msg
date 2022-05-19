@@ -1,25 +1,25 @@
-{100}{}{Vidíš humanoida pokrytého rostlinnım porostem. Kape z nìj zelené bahno.}
-{101}{}{Vidíš jedno ze stvoøení Dr. Shenga.}
-{102}{}{Vidíš jedno ze stvoøení Dr. Shenga. Zdá se, e se pøíliš nepovedlo.}
-{200}{}{Promluv si s vùdcem, èlovìèe.}
-{201}{}{Z tvého tìla by byl dobrı hostitel...}
-{202}{}{Vùdce øíká, e se tì nesmím dotknout... prozatím.}
-{300}{}{(Pomalu se k tobì belhá pùl tucet podivnıch humanoidních tvorù. Jejich vyzáblé vıhonky a tìla pokryté mechem vydávají odpudivé èvachtavé zvuky s kadım neohrabanım krokem. Vùdèí tvor tì osloví skøehotavım hlasem.) Vùdce chce s tebou mluvit. Pojï s námi, èlovìèe, a nebraò se... nebo z tebe udìláme hostitele.}
-{301}{}{[Pokrèit rameny] To bude zajímavé. Jdìte první.}
-{302}{}{Nikam s váma nepùjdu, vy rostlinní... tvorové.}
-{303}{}{Seru na to, na tohle nemám èas.}
-{304}{}{Tak moment, kdo je váš vùdce? A co jste vlastnì zaè?}
-{310}{}{Nemáš na vıbìr, èlovìèe. Buï pùjdeš s námi a promluvíš si s Vùdcem, nebo se uchılíme k násilí.}
-{311}{}{Tak jdem na vìc.}
-{312}{}{Tak dobøe. Setkám se s tím vaším vùdcem.}
-{320}{}{Vùdce ti zodpoví veškeré otázky. A teï pojï.}
+{100}{}{VidÃ­Å¡ humanoida pokrytÃ©ho rostlinnÃ½m porostem. Kape z nÄ›j zelenÃ© bahno.}
+{101}{}{VidÃ­Å¡ jedno ze stvoÅ™enÃ­ Dr. Shenga.}
+{102}{}{VidÃ­Å¡ jedno ze stvoÅ™enÃ­ Dr. Shenga. ZdÃ¡ se, Å¾e se pÅ™Ã­liÅ¡ nepovedlo.}
+{200}{}{Promluv si s vÅ¯dcem, ÄlovÄ›Äe.}
+{201}{}{Z tvÃ©ho tÄ›la by byl dobrÃ½ hostitel...}
+{202}{}{VÅ¯dce Å™Ã­kÃ¡, Å¾e se tÄ› nesmÃ­m dotknout... prozatÃ­m.}
+{300}{}{(Pomalu se k tobÄ› belhÃ¡ pÅ¯l tucet podivnÃ½ch humanoidnÃ­ch tvorÅ¯. Jejich vyzÃ¡blÃ© vÃ½honky a tÄ›la pokrytÃ© mechem vydÃ¡vajÃ­ odpudivÃ© ÄvachtavÃ© zvuky s kaÅ¾dÃ½m neohrabanÃ½m krokem. VÅ¯dÄÃ­ tvor tÄ› oslovÃ­ skÅ™ehotavÃ½m hlasem.) VÅ¯dce chce s tebou mluvit. PojÄ s nÃ¡mi, ÄlovÄ›Äe, a nebraÅˆ se... nebo z tebe udÄ›lÃ¡me hostitele.}
+{301}{}{[PokrÄit rameny] To bude zajÃ­mavÃ©. JdÄ›te prvnÃ­.}
+{302}{}{Nikam s vÃ¡ma nepÅ¯jdu, vy rostlinnÃ­... tvorovÃ©.}
+{303}{}{Seru na to, na tohle nemÃ¡m Äas.}
+{304}{}{Tak moment, kdo je vÃ¡Å¡ vÅ¯dce? A co jste vlastnÄ› zaÄ?}
+{310}{}{NemÃ¡Å¡ na vÃ½bÄ›r, ÄlovÄ›Äe. BuÄ pÅ¯jdeÅ¡ s nÃ¡mi a promluvÃ­Å¡ si s VÅ¯dcem, nebo se uchÃ½lÃ­me k nÃ¡silÃ­.}
+{311}{}{Tak jdem na vÄ›c.}
+{312}{}{Tak dobÅ™e. SetkÃ¡m se s tÃ­m vaÅ¡Ã­m vÅ¯dcem.}
+{320}{}{VÅ¯dce ti zodpovÃ­ veÅ¡kerÃ© otÃ¡zky. A teÄ pojÄ.}
 {321}{}{Ne-e!}
-{322}{}{Tak dobøe. Setkám se s tím vaším vùdcem.}
+{322}{}{Tak dobÅ™e. SetkÃ¡m se s tÃ­m vaÅ¡Ã­m vÅ¯dcem.}
 {400}{}{Uuuhhhhh...}
 {401}{}{Grrraaah!}
 {402}{}{Hheesssss...}
 {403}{}{Ohhh...}
-{410}{}{Vùdce øíká, e nikdo nesmí dovnitø.}
-{420}{}{Vùdce øíká, e mùeš vstoupit, èlovìèe.}
-{500}{}{Postøíkáš tvora a ten hlasitì zasténá. Èásti rostlinného porostu z nìj odpadnou na zem.}
-{501}{}{Postøíkáš tvora, ten hlasitì zasténá a rozteèe se pøímo pøed tvıma oèima.}
+{410}{}{VÅ¯dce Å™Ã­kÃ¡, Å¾e nikdo nesmÃ­ dovnitÅ™.}
+{420}{}{VÅ¯dce Å™Ã­kÃ¡, Å¾e mÅ¯Å¾eÅ¡ vstoupit, ÄlovÄ›Äe.}
+{500}{}{PostÅ™Ã­kÃ¡Å¡ tvora a ten hlasitÄ› zastÃ©nÃ¡. ÄŒÃ¡sti rostlinnÃ©ho porostu z nÄ›j odpadnou na zem.}
+{501}{}{PostÅ™Ã­kÃ¡Å¡ tvora, ten hlasitÄ› zastÃ©nÃ¡ a rozteÄe se pÅ™Ã­mo pÅ™ed tvÃ½ma oÄima.}

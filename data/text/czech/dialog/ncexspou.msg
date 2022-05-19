@@ -1,4 +1,4 @@
-{200}{}{A já ti øekla, e tì miluju.}
+{200}{}{A jÃ¡ ti Å™ekla, Å¾e tÄ› miluju.}
 {201}{}{Aaach...}
-{202}{}{Uáááá...}
-{203}{}{Mùj táta ti rozbije hubu!}
+{202}{}{UÃ¡Ã¡Ã¡Ã¡...}
+{203}{}{MÅ¯j tÃ¡ta ti rozbije hubu!}

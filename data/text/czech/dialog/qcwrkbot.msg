@@ -1,6 +1,6 @@
-{100}{}{Vidíš robota Mr. Handyho.}
-{101}{}{Tento robot byl zcela zjevnì navren na manipulaci s tìkımi pøedmìty a vybavením.}
-{200}{}{Píííp.}
+{100}{}{VidÃ­Å¡ robota Mr. Handyho.}
+{101}{}{Tento robot byl zcela zjevnÄ› navrÅ¾en na manipulaci s tÄ›Å¾kÃ½mi pÅ™edmÄ›ty a vybavenÃ­m.}
+{200}{}{PÃ­Ã­Ã­p.}
 {201}{}{*Klik*}
-{202}{}{*Pípíp*}
-{203}{}{Pokraèujte pøes pracovištì s opatrností.}
+{202}{}{*PÃ­pÃ­p*}
+{203}{}{PokraÄujte pÅ™es pracoviÅ¡tÄ› s opatrnostÃ­.}

@@ -1,3 +1,3 @@
-{100}{}{To je divné. Tyhle brahmíny na sobì nemají stejné znaèky. Vypadá to,
- jako by nìkdo nešikovnì vypálil své vlastní znaèky na ty pùvodní.}
-{101}{}{Mmmm... kravièky nemít stejná znaèka. Vypadat jako zlá chlap vypálit nová na stará.}
+{100}{}{To je divnÃ©. Tyhle brahmÃ­ny na sobÄ› nemajÃ­ stejnÃ© znaÄky. VypadÃ¡ to,
+ jako by nÄ›kdo neÅ¡ikovnÄ› vypÃ¡lil svÃ© vlastnÃ­ znaÄky na ty pÅ¯vodnÃ­.}
+{101}{}{Mmmm... kraviÄky nemÃ­t stejnÃ¡ znaÄka. Vypadat jako zlÃ¡ chlap vypÃ¡lit novÃ¡ na starÃ¡.}

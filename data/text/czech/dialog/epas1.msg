@@ -1,4 +1,4 @@
-{100}{}{Zvolte zÛnu.}
-{101}{}{Modr· zÛna}
-{102}{}{Fialov· zÛna}
+{100}{}{Zvolte z√≥nu.}
+{101}{}{Modr√° z√≥na}
+{102}{}{Fialov√° z√≥na}
 {103}{}{[Konec]}

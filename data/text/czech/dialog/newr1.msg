@@ -1,68 +1,68 @@
-{100}{}{Vítej v New Renu, nejvìtším malomìstì na svìtì. Ohnì v popelnicích a neonové poutaèe zaplavují mìsto ïábelskou záøí.}
-{101}{}{Pøed tebou je pustina pokrytá hroby. Zkrvavené kùly vyènívají ze zemì a jsou na nich pøipevnìny kusy mrtvıch tìl.}
-{102}{}{Vypadá to jako stará pøedváleèná nabíjecí stanice. Budova je obklopena starımi, rozbitımi vraky aut.}
-{103}{}{Vstupuješ do Stájí. Vchody do obou farem jsou obehnány novım drátìnım plotem.}
-{150}{}{[Pøedchozí]}
-{151}{}{[Více]}
+{100}{}{VÃ­tej v New Renu, nejvÄ›tÅ¡Ã­m malomÄ›stÄ› na svÄ›tÄ›. OhnÄ› v popelnicÃ­ch a neonovÃ© poutaÄe zaplavujÃ­ mÄ›sto ÄÃ¡belskou zÃ¡Å™Ã­.}
+{101}{}{PÅ™ed tebou je pustina pokrytÃ¡ hroby. ZkrvavenÃ© kÅ¯ly vyÄnÃ­vajÃ­ ze zemÄ› a jsou na nich pÅ™ipevnÄ›ny kusy mrtvÃ½ch tÄ›l.}
+{102}{}{VypadÃ¡ to jako starÃ¡ pÅ™edvÃ¡leÄnÃ¡ nabÃ­jecÃ­ stanice. Budova je obklopena starÃ½mi, rozbitÃ½mi vraky aut.}
+{103}{}{VstupujeÅ¡ do StÃ¡jÃ­. Vchody do obou farem jsou obehnÃ¡ny novÃ½m drÃ¡tÄ›nÃ½m plotem.}
+{150}{}{[PÅ™edchozÃ­]}
+{151}{}{[VÃ­ce]}
 {201}{}{Salvatore}
 {202}{}{Bishop}
 {203}{}{Mordino}
 {204}{}{Wright}
-{221}{}{Salvátorùv}
+{221}{}{SalvÃ¡torÅ¯v}
 {222}{}{klub Shark}
 {223}{}{Desperado}
 {224}{}{}
 {300}{}{}
-{301}{}{Šepot}
+{301}{}{Å epot}
 {302}{}{Pavouk}
 {303}{}{Mizera}
 {304}{}{Kantor}
-{305}{}{Stìhovák}
-{306}{}{Bık}
-{307}{}{Kapitán}
-{308}{}{Mlèoun}
-{309}{}{Levák}
-{310}{}{Pravák}
-{311}{}{Správòas}
-{312}{}{Tornádo}
-{313}{}{Sprosák}
-{314}{}{Opièák}
+{305}{}{StÄ›hovÃ¡k}
+{306}{}{BÃ½k}
+{307}{}{KapitÃ¡n}
+{308}{}{MlÄoun}
+{309}{}{LevÃ¡k}
+{310}{}{PravÃ¡k}
+{311}{}{SprÃ¡vÅˆas}
+{312}{}{TornÃ¡do}
+{313}{}{SprosÅ¥Ã¡k}
+{314}{}{OpiÄÃ¡k}
 {315}{}{Vazba}
-{316}{}{Bouchaè}
+{316}{}{BouchaÄ}
 {317}{}{Gooch}
-{318}{}{Sekáèek}
+{318}{}{SekÃ¡Äek}
 {319}{}{Brocco}
-{320}{}{Podrazák}
+{320}{}{PodrazÃ¡k}
 {321}{}{Romeo}
 {322}{}{Vinnie}
-{323}{}{Podvodník}
-{324}{}{Umlèovaè}
+{323}{}{PodvodnÃ­k}
+{324}{}{UmlÄovaÄ}
 {325}{}{Kladivo}
-{326}{}{Ranaø}
-{327}{}{Ohıbaè}
-{328}{}{Hokynáø}
-{329}{}{Hadí Oèi}
+{326}{}{RanaÅ™}
+{327}{}{OhÃ½baÄ}
+{328}{}{HokynÃ¡Å™}
+{329}{}{HadÃ­ OÄi}
 {330}{}{Vlk}
-{331}{}{Sekerkáø}
-{332}{}{Vysmátej}
-{333}{}{Tlouštík}
+{331}{}{SekerkÃ¡Å™}
+{332}{}{VysmÃ¡tej}
+{333}{}{TlouÅ¡tÃ­k}
 {334}{}{Perla}
 {335}{}{Reno Jimmy}
 {336}{}{Tahoun}
 {337}{}{Zjizvenej}
 {338}{}{Diamant}
 {339}{}{Eso}
-{340}{}{Jednookı Jack}
+{340}{}{JednookÃ½ Jack}
 {341}{}{Nikki}
 {342}{}{Ledovec}
 {343}{}{Sly}
 {344}{}{Frajer}
 {345}{}{Charlie}
 {346}{}{Opium}
-{347}{}{Dıka}
-{348}{}{Andílek}
+{347}{}{DÃ½ka}
+{348}{}{AndÃ­lek}
 {349}{}{Dealer}
-{350}{}{ralok}
+{350}{}{Å½ralok}
 {351}{}{Lump}
 {352}{}{Reverend}
 {353}{}{Magnum}
@@ -71,154 +71,154 @@
 {356}{}{Vicki}
 {357}{}{Lovec}
 {358}{}{Gilotina}
-{359}{}{Mráz}
+{359}{}{MrÃ¡z}
 {360}{}{Valentino}
-{361}{}{Rakváø}
-{362}{}{Malı Joe}
-{363}{}{Ledová Královna}
-{364}{}{Švihák}
-{365}{}{Pracháè}
-{366}{}{eton}
-{367}{}{Šastlivec}
-{368}{}{Svatoušek}
-{369}{}{Èísla}
+{361}{}{RakvÃ¡Å™}
+{362}{}{MalÃ½ Joe}
+{363}{}{LedovÃ¡ KrÃ¡lovna}
+{364}{}{Å vihÃ¡k}
+{365}{}{PrachÃ¡Ä}
+{366}{}{Å½eton}
+{367}{}{Å Å¥astlivec}
+{368}{}{SvatouÅ¡ek}
+{369}{}{ÄŒÃ­sla}
 {370}{}{Kudlanka}
-{371}{}{Škorpion}
-{372}{}{Tlusoch}
+{371}{}{Å korpion}
+{372}{}{TlusÅ¥och}
 {373}{}{Sam}
-{374}{}{Modrı Lou}
-{375}{}{Tommy Kvér}
-{376}{}{Šílená Jane}
+{374}{}{ModrÃ½ Lou}
+{375}{}{Tommy KvÃ©r}
+{376}{}{Å Ã­lenÃ¡ Jane}
 {377}{}{Vdova}
-{378}{}{Popeláø}
-{379}{}{Devítipalcovej Nick}
-{380}{}{Šaman}
-{381}{}{Král}
-{382}{}{Zabiják}
+{378}{}{PopelÃ¡Å™}
+{379}{}{DevÃ­tipalcovej Nick}
+{380}{}{Å aman}
+{381}{}{KrÃ¡l}
+{382}{}{ZabijÃ¡k}
 {383}{}{Santana}
 {384}{}{Joey}
-{385}{}{César}
+{385}{}{CÃ©sar}
 {386}{}{Mickey}
-{387}{}{Flákaè}
+{387}{}{FlÃ¡kaÄ}
 {388}{}{Giuseppe}
-{389}{}{Øezník}
+{389}{}{Å˜eznÃ­k}
 {390}{}{Rudoch}
-{391}{}{Rubín}
+{391}{}{RubÃ­n}
 {392}{}{X}
 {393}{}{}
 {400}{}{}
 {401}{}{Rypadlo}
-{402}{}{Rotaèní Jenny}
+{402}{}{RotaÄnÃ­ Jenny}
 {403}{}{Lokomotiva}
-{404}{}{Hurikán}
+{404}{}{HurikÃ¡n}
 {405}{}{Velkej Zlej Hajzl}
 {406}{}{Vyvoleny}
-{407}{}{Zuøící Bık}
+{407}{}{ZuÅ™Ã­cÃ­ BÃ½k}
 {408}{}{LaMotta}
 {409}{}{Kladivo}
-{410}{}{Sklenìnej Joe}
+{410}{}{SklenÄ›nej Joe}
 {411}{}{New Reno Nancy}
-{412}{}{Plešatı Bık}
+{412}{}{PleÅ¡atÃ½ BÃ½k}
 {413}{}{Princezna}
-{414}{}{Vévoda}
-{415}{}{Chlapák}
-{416}{}{elezná Panna}
-{417}{}{Trhaè}
-{418}{}{Valkıra}
-{419}{}{Hák}
+{414}{}{VÃ©voda}
+{415}{}{ChlapÃ¡k}
+{416}{}{Å½eleznÃ¡ Panna}
+{417}{}{TrhaÄ}
+{418}{}{ValkÃ½ra}
+{419}{}{HÃ¡k}
 {420}{}{Gorila}
-{421}{}{Zlá Holka}
+{421}{}{ZlÃ¡ Holka}
 {422}{}{Rocky}
-{423}{}{Kamenná Stìna}
-{424}{}{Motorová Pila}
+{423}{}{KamennÃ¡ StÄ›na}
+{424}{}{MotorovÃ¡ Pila}
 {425}{}{Xena}
-{426}{}{Tommy Kvér}
-{427}{}{Èerná Vdova}
-{428}{}{Tøesk}
+{426}{}{Tommy KvÃ©r}
+{427}{}{ÄŒernÃ¡ Vdova}
+{428}{}{TÅ™esk}
 {429}{}{Delilah}
 {430}{}{Blesk}
 {431}{}{Jocco}
-{432}{}{Ocelová Sestra}
+{432}{}{OcelovÃ¡ Sestra}
 {433}{}{Super Kladivo}
-{434}{}{Apollón}
-{435}{}{Šrotovaè}
-{436}{}{Tygøice}
+{434}{}{ApollÃ³n}
+{435}{}{Å rotovaÄ}
+{436}{}{TygÅ™ice}
 {437}{}{Tyson}
 {438}{}{Lady J}
 {439}{}{Drago}
 {440}{}{Clubber Lang}
-{441}{}{Vévodkynì}
+{441}{}{VÃ©vodkynÄ›}
 {442}{}{Bulldozer}
-{443}{}{Vısost}
-{444}{}{elezná Ruka Luke}
-{445}{}{Víra}
-{446}{}{Doktor Pìst}
-{447}{}{Létající Jeptiška}
+{443}{}{VÃ½sost}
+{444}{}{Å½eleznÃ¡ Ruka Luke}
+{445}{}{VÃ­ra}
+{446}{}{Doktor PÄ›st}
+{447}{}{LÃ©tajÃ­cÃ­ JeptiÅ¡ka}
 {448}{}{Balboa}
 {449}{}{Floyd Ray Willis}
 {450}{}{Kalamity Jane}
 {451}{}{Kobra}
-{452}{}{Krvavı Vrah}
+{452}{}{KrvavÃ½ Vrah}
 {453}{}{Kat}
-{454}{}{Nákladní Vlak}
+{454}{}{NÃ¡kladnÃ­ Vlak}
 {455}{}{Super Vixen}
 {456}{}{New Reno Jim}
-{457}{}{Drtiè}
+{457}{}{DrtiÄ}
 {458}{}{Rico}
 {459}{}{Kladivoun}
-{460}{}{Ovdovovaè}
-{461}{}{Vıbìrèí}
+{460}{}{OvdovovaÄ}
+{461}{}{VÃ½bÄ›rÄÃ­}
 {462}{}{Butch Coolidge}
-{463}{}{Zatoulaná Koèka}
+{463}{}{ZatoulanÃ¡ KoÄka}
 {464}{}{Bad Mojo}
 {465}{}{Tank}
-{466}{}{Mlátièka}
+{466}{}{MlÃ¡tiÄka}
 {467}{}{Mynx}
-{468}{}{Škorpion}
-{469}{}{Bouchaè}
+{468}{}{Å korpion}
+{469}{}{BouchaÄ}
 {470}{}{Gepard}
 {471}{}{Verdikt}
 {472}{}{Soudce}
-{473}{}{Vrták}
-{474}{}{Aténa}
-{475}{}{Vzteklı Pes}
+{473}{}{VrtÃ¡k}
+{474}{}{AtÃ©na}
+{475}{}{VzteklÃ½ Pes}
 {476}{}{}
 {496}{}{Velkej Stu}
 {497}{}{Miami}
 {498}{}{X}
-{499}{}{Tvoje jméno}
+{499}{}{Tvoje jmÃ©no}
 {500}{}{}
 {501}{}{Rodd Kamenej}
 {502}{}{Randy Mercury}
 {503}{}{Dirk Chobot}
-{504}{}{Dick Vášnivec}
+{504}{}{Dick VÃ¡Å¡nivec}
 {505}{}{Ronny Rekce}
-{506}{}{Phil Dominátor}
+{506}{}{Phil DominÃ¡tor}
 {507}{}{Rod Idol}
-{508}{}{Jack Støelec}
-{509}{}{Kurt Nakládaè}
+{508}{}{Jack StÅ™elec}
+{509}{}{Kurt NaklÃ¡daÄ}
 {510}{}{Rick Kapka}
-{511}{}{Dick Námoøník}
-{512}{}{"Naleštìnı Kladivo"}
+{511}{}{Dick NÃ¡moÅ™nÃ­k}
+{512}{}{"NaleÅ¡tÄ›nÃ½ Kladivo"}
 {513}{}{Ron Jeremy}
 {514}{}{Nadsamec}
 {515}{}{Vinnie LaJoya}
 {516}{}{Sir Lance-a-lot}
 {517}{}{Dick Hladkej}
 {518}{}{Jeremy Bolt}
-{519}{}{Pan Rùovouèkej}
+{519}{}{Pan RÅ¯Å¾ovouÄkej}
 {520}{}{Ricky Rachtman}
 {521}{}{Cuthbert}
-{522}{}{Dave Zruènej}
+{522}{}{Dave ZruÄnej}
 {523}{}{Harry Vrata}
 {524}{}{Richie Milounkej}
 {525}{}{Bret Boule}
 {526}{}{El Vagiclean}
-{527}{}{Johnson Dlouhán}
-{528}{}{Ebineezer Píchaè}
-{529}{}{Mìvko Drdaè}
-{530}{}{Arnold Èernejnegr}
-{531}{}{Doug Díra}
+{527}{}{Johnson DlouhÃ¡n}
+{528}{}{Ebineezer PÃ­chaÄ}
+{529}{}{MÄ›vko DrdaÄ}
+{530}{}{Arnold ÄŒernejnegr}
+{531}{}{Doug DÃ­ra}
 {532}{}{Freddy Barkwood}
 {533}{}{}
 {534}{}{}
@@ -238,31 +238,31 @@
 {548}{}{}
 {549}{}{}
 {550}{}{}
-{551}{}{Ïáblice}
+{551}{}{ÄÃ¡blice}
 {552}{}{Mable Sirup}
-{553}{}{Amber Vlnitá}
-{554}{}{Lucy Odvázaná}
-{555}{}{Amy Vyvinutá}
-{556}{}{Molly Pahorková}
-{557}{}{Honey Kozová}
-{558}{}{Patty Hrázková}
-{559}{}{Ophelia Odváná}
-{560}{}{Thelma Vramihotamová}
+{553}{}{Amber VlnitÃ¡}
+{554}{}{Lucy OdvÃ¡zanÃ¡}
+{555}{}{Amy VyvinutÃ¡}
+{556}{}{Molly PahorkovÃ¡}
+{557}{}{Honey KozovÃ¡}
+{558}{}{Patty HrÃ¡zkovÃ¡}
+{559}{}{Ophelia OdvÃ¡Å¾nÃ¡}
+{560}{}{Thelma VraÅ¾mihotamovÃ¡}
 {561}{}{Alotta Fagina}
 {562}{}{Carrie C}
-{563}{}{Georgia Vagiprdová}
-{564}{}{Jill Nárazníková}
-{565}{}{Courtney Kurtizánová}
-{566}{}{Maria Polykaèová}
+{563}{}{Georgia VagiprdovÃ¡}
+{564}{}{Jill NÃ¡raznÃ­kovÃ¡}
+{565}{}{Courtney KurtizÃ¡novÃ¡}
+{566}{}{Maria PolykaÄovÃ¡}
 {567}{}{Lady J}
 {568}{}{Glenda Glenn}
-{569}{}{Královna Elizabeth}
+{569}{}{KrÃ¡lovna Elizabeth}
 {570}{}{Jenna Jammison}
 {571}{}{Bunny LaJoya}
 {572}{}{Madame Butterfly}
 {573}{}{Jenny X}
-{574}{}{Sladká Jane}
-{575}{}{Drahoušek Nikki}
+{574}{}{SladkÃ¡ Jane}
+{575}{}{DrahouÅ¡ek Nikki}
 {576}{}{Sharonna}
 {577}{}{Suzy Q}
 {578}{}{Corvega Sally}
@@ -270,29 +270,29 @@
 {580}{}{Dominatrish}
 {581}{}{Princezna X}
 {582}{}{Carlotta}
-{583}{}{Líbající Mary}
-{584}{}{Skvìlı Tanec}
-{585}{}{Ruby Rudá}
+{583}{}{LÃ­bajÃ­cÃ­ Mary}
+{584}{}{SkvÄ›lÃ½ Tanec}
+{585}{}{Ruby RudÃ¡}
 {586}{}{Christie Chipps}
 {587}{}{Lisa Lix}
 {588}{}{Opium}
-{589}{}{Zatoulaná Koèka}
+{589}{}{ZatoulanÃ¡ KoÄka}
 {590}{}{Lady Chatterfly}
-{591}{}{Pošaèka}
-{592}{}{Panièka Holmesová}
-{593}{}{Debbie Odváná}
-{594}{}{Jessica Dlouhá}
+{591}{}{PoÅ¡Å¥aÄka}
+{592}{}{PaniÄka HolmesovÃ¡}
+{593}{}{Debbie OdvÃ¡Å¾nÃ¡}
+{594}{}{Jessica DlouhÃ¡}
 {595}{}{Mynx}
 {596}{}{Sascha}
-{597}{}{Valerie Ïábelská}
+{597}{}{Valerie ÄÃ¡belskÃ¡}
 {598}{}{Ruth Less}
 {599}{}{}
 {700}{}{Mal Fisto}
-{701}{}{Tony Kvér}
+{701}{}{Tony KvÃ©r}
 {702}{}{"Ocel" Mark Torrance}
-{703}{}{Xander "Jasná Rána" Holyland}
+{703}{}{Xander "JasnÃ¡ RÃ¡na" Holyland}
 {704}{}{Pavouk}
-{705}{}{Hubeòour}
+{705}{}{HubeÅˆour}
 {706}{}{Sladkej Jones}
 {707}{}{Il Roche}
 {708}{}{Tito}
@@ -303,25 +303,25 @@
 {713}{}{Nicki}
 {714}{}{LaMotta}
 {715}{}{Ivan}
-{716}{}{Sklenìnej Joe}
+{716}{}{SklenÄ›nej Joe}
 {717}{}{Drago}
-{718}{}{Tommy Kvér}
-{719}{}{Apollón}
+{718}{}{Tommy KvÃ©r}
+{719}{}{ApollÃ³n}
 {750}{}{Joqq}
 {751}{}{Pete McKneely}
 {752}{}{Evan Holyfeld}
-{753}{}{dímaèka}
-{1000}{}{Jules tì zavede do ruin kolem New Rena. Bez nìj by bylo hledání marné. Jakmile dorazíte na místo, Jules zmizí.}
-{1100}{}{Stopa tì zavede do ruin kolem New Rena.}
-{1200}{}{Nacházíš malou kovovou pokladnièku. Bez znalosti pøesného místa by to bylo jako hledání jehly v kupce sena.}
-{1300}{}{Cody tì zavede do ruin kolem New Rena a pak uteèe zpátky, odkud pøišel. Bez nìj by bylo hledání marné.}
-{1400}{}{První protivník byl poraen.}
-{1401}{}{Druhı protivník byl poraen.}
-{1402}{}{Tøetí protivník byl poraen.}
-{1403}{}{dímaèka byl poraen!}
-{1404}{}{Jsi šampión tìké váhy New Rena.}
-{1405}{}{Podaøilo se ti porazit svého posledního soupeøe!}
-{1500}{}{Podaøilo se ti pøesvìdèit paní Wrightovou, aby znièila palírnu.}
-{1550}{}{Byl jsi svìdkem tajné transakce.}
-{1600}{}{V áru boje ti dímaèka ukousl ucho.}
-{1700}{}{Vzteky bez sebe jsi ukousl dímaèkovi ucho.}
+{753}{}{Å½dÃ­maÄka}
+{1000}{}{Jules tÄ› zavede do ruin kolem New Rena. Bez nÄ›j by bylo hledÃ¡nÃ­ marnÃ©. Jakmile dorazÃ­te na mÃ­sto, Jules zmizÃ­.}
+{1100}{}{Stopa tÄ› zavede do ruin kolem New Rena.}
+{1200}{}{NachÃ¡zÃ­Å¡ malou kovovou pokladniÄku. Bez znalosti pÅ™esnÃ©ho mÃ­sta by to bylo jako hledÃ¡nÃ­ jehly v kupce sena.}
+{1300}{}{Cody tÄ› zavede do ruin kolem New Rena a pak uteÄe zpÃ¡tky, odkud pÅ™iÅ¡el. Bez nÄ›j by bylo hledÃ¡nÃ­ marnÃ©.}
+{1400}{}{PrvnÃ­ protivnÃ­k byl poraÅ¾en.}
+{1401}{}{DruhÃ½ protivnÃ­k byl poraÅ¾en.}
+{1402}{}{TÅ™etÃ­ protivnÃ­k byl poraÅ¾en.}
+{1403}{}{Å½dÃ­maÄka byl poraÅ¾en!}
+{1404}{}{Jsi Å¡ampiÃ³n tÄ›Å¾kÃ© vÃ¡hy New Rena.}
+{1405}{}{PodaÅ™ilo se ti porazit svÃ©ho poslednÃ­ho soupeÅ™e!}
+{1500}{}{PodaÅ™ilo se ti pÅ™esvÄ›dÄit panÃ­ Wrightovou, aby zniÄila palÃ­rnu.}
+{1550}{}{Byl jsi svÄ›dkem tajnÃ© transakce.}
+{1600}{}{V Å¾Ã¡ru boje ti Å½dÃ­maÄka ukousl ucho.}
+{1700}{}{Vzteky bez sebe jsi ukousl Å½dÃ­maÄkovi ucho.}

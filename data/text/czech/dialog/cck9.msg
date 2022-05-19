@@ -1,218 +1,218 @@
-{100}{}{Vidíš kyberpsa.}
-{101}{}{Vidíš K-9.}
-{102}{}{Vidíš kyberpsa. Je to napùl pes a napùl stroj.}
-{103}{}{ivotní funkce mého pána byly ukonèeny. Ty jsi mùj novı pán?}
-{104}{}{Eh... hafík mluvit?}
-{105}{}{Dobøe. Já rád hafík.}
-{106}{}{Ne. Nechtít hafík.}
-{107}{}{Ha! Mluvící pes.}
-{108}{}{Zaprvé: Jsem pes. Za druhé: Komunikuji s tebou pøes hlasovı vıstup a k tomuto úèelu pouívám èeskı jazyk. Tudí odpovìï na tvoji otázku je 'ano, jsem mluvící pes.' A teï, hodláš mi odpovìdìt na otázku, kterou jsem ti pøed chvílí poloil?}
-{109}{}{Zaprvé: Jsem pes. Za druhé: Komunikuji s tebou pøes hlasovı vıstup a k tomuto úèelu pouívám èeskı jazyk. Lze tedy pøedpokládat, e jsem mluvící pes. A teï, hodláš mi odpovìdìt na otázku, kterou jsem ti pøed chvílí poloil?}
-{110}{}{Promiò, Já otázka zapomenout.}
+{100}{}{VidÃ­Å¡ kyberpsa.}
+{101}{}{VidÃ­Å¡ K-9.}
+{102}{}{VidÃ­Å¡ kyberpsa. Je to napÅ¯l pes a napÅ¯l stroj.}
+{103}{}{Å½ivotnÃ­ funkce mÃ©ho pÃ¡na byly ukonÄeny. Ty jsi mÅ¯j novÃ½ pÃ¡n?}
+{104}{}{Eh... hafÃ­k mluvit?}
+{105}{}{DobÅ™e. JÃ¡ rÃ¡d hafÃ­k.}
+{106}{}{Ne. NechtÃ­t hafÃ­k.}
+{107}{}{Ha! MluvÃ­cÃ­ pes.}
+{108}{}{ZaprvÃ©: Jsem pes. Za druhÃ©: Komunikuji s tebou pÅ™es hlasovÃ½ vÃ½stup a k tomuto ÃºÄelu pouÅ¾Ã­vÃ¡m ÄeskÃ½ jazyk. TudÃ­Å¾ odpovÄ›Ä na tvoji otÃ¡zku je 'ano, jsem mluvÃ­cÃ­ pes.' A teÄ, hodlÃ¡Å¡ mi odpovÄ›dÄ›t na otÃ¡zku, kterou jsem ti pÅ™ed chvÃ­lÃ­ poloÅ¾il?}
+{109}{}{ZaprvÃ©: Jsem pes. Za druhÃ©: Komunikuji s tebou pÅ™es hlasovÃ½ vÃ½stup a k tomuto ÃºÄelu pouÅ¾Ã­vÃ¡m ÄeskÃ½ jazyk. Lze tedy pÅ™edpoklÃ¡dat, Å¾e jsem mluvÃ­cÃ­ pes. A teÄ, hodlÃ¡Å¡ mi odpovÄ›dÄ›t na otÃ¡zku, kterou jsem ti pÅ™ed chvÃ­lÃ­ poloÅ¾il?}
+{110}{}{PromiÅˆ, JÃ¡ otÃ¡zka zapomenout.}
 {111}{}{Ano.}
 {112}{}{Ne.}
-{113}{}{(Povzdech) Dávej pozor, soustøeï se a dívej se mi do oèí. Jsi pøipraven?}
-{114}{}{Pøipraven co?}
-{115}{}{Jo. Jsem pøipravenej.}
-{116}{}{Já... kdybych nevìdìl, e je tvoje IQ menší ne moje vıška v kohoutku, myslel bych si, e se mì pokoušíš rozèílit. Teï buï zticha, dávej pozor, soustøeï se a dívej se mi do oèí. Chci ti poloit otázku.}
-{117}{}{Tak jo. Kdo bránit ty?}
-{118}{}{ivotní funkce mého pána byly ukonèeny. Ty jsi mùj novı pán?}
-{119}{}{Eh... hafík mluvit?}
-{120}{}{Jo. Já chtít hafík.}
-{121}{}{Ne, díky.}
-{122}{}{To zní rozumnì.}
-{123}{}{Ne, díky.}
-{124}{}{Já... já to s tebou odmítám znovu procházet! Kdybych se mohl hıbat, roztrhal bych na malé kousíèky zadní èást tvého tìla obecnì známou jako...}
-{125}{}{...prdel. Já vìdìt co bıt prdel. Nebıt blbec. Jen dìlat legrace.}
-{126}{}{Aha, legraci. Take jsi mùj novı pán nebo ne?}
-{127}{}{Dobøe. Já rád hafík.}
-{128}{}{Ne, nechtít hafík.}
-{129}{}{Vıbornì. Potøebuji opravu, pane. Mùj motivátor byl odstranìn. Prosím, najdi ho, nainstaluj ho zpìt a já tì budu následovat.}
-{130}{}{Eh... kde najít?}
-{131}{}{Napadá tì, kde by ta souèástka mohla bıt?}
-{132}{}{Nejsem si jistı, pane. Zkusil bych údrbu. Je nahoøe v severovıchodní èásti základny.}
-{133}{}{Dobøe. Já jít.}
-{134}{}{Zkusím to tam. Jestli ho nenajdu, podívám se ještì nìkde jinde.}
-{135}{}{Tak mì nech na pokoji.}
-{136}{}{Dobøe.}
-{137}{}{Máš to mít.}
-{138}{}{Opìt tì zdravím. ivotní funkce mého pána byly ukonèeny. Ty jsi mùj novı pán?}
-{139}{}{Dobøe.}
+{113}{}{(Povzdech) DÃ¡vej pozor, soustÅ™eÄ se a dÃ­vej se mi do oÄÃ­. Jsi pÅ™ipraven?}
+{114}{}{PÅ™ipraven co?}
+{115}{}{Jo. Jsem pÅ™ipravenej.}
+{116}{}{JÃ¡... kdybych nevÄ›dÄ›l, Å¾e je tvoje IQ menÅ¡Ã­ neÅ¾ moje vÃ½Å¡ka v kohoutku, myslel bych si, Å¾e se mÄ› pokouÅ¡Ã­Å¡ rozÄÃ­lit. TeÄ buÄ zticha, dÃ¡vej pozor, soustÅ™eÄ se a dÃ­vej se mi do oÄÃ­. Chci ti poloÅ¾it otÃ¡zku.}
+{117}{}{Tak jo. Kdo brÃ¡nit ty?}
+{118}{}{Å½ivotnÃ­ funkce mÃ©ho pÃ¡na byly ukonÄeny. Ty jsi mÅ¯j novÃ½ pÃ¡n?}
+{119}{}{Eh... hafÃ­k mluvit?}
+{120}{}{Jo. JÃ¡ chtÃ­t hafÃ­k.}
+{121}{}{Ne, dÃ­ky.}
+{122}{}{To znÃ­ rozumnÄ›.}
+{123}{}{Ne, dÃ­ky.}
+{124}{}{JÃ¡... jÃ¡ to s tebou odmÃ­tÃ¡m znovu prochÃ¡zet! Kdybych se mohl hÃ½bat, roztrhal bych na malÃ© kousÃ­Äky zadnÃ­ ÄÃ¡st tvÃ©ho tÄ›la obecnÄ› znÃ¡mou jako...}
+{125}{}{...prdel. JÃ¡ vÄ›dÄ›t co bÃ½t prdel. NebÃ½t blbec. Jen dÄ›lat legrace.}
+{126}{}{Aha, legraci. TakÅ¾e jsi mÅ¯j novÃ½ pÃ¡n nebo ne?}
+{127}{}{DobÅ™e. JÃ¡ rÃ¡d hafÃ­k.}
+{128}{}{Ne, nechtÃ­t hafÃ­k.}
+{129}{}{VÃ½bornÄ›. PotÅ™ebuji opravu, pane. MÅ¯j motivÃ¡tor byl odstranÄ›n. ProsÃ­m, najdi ho, nainstaluj ho zpÄ›t a jÃ¡ tÄ› budu nÃ¡sledovat.}
+{130}{}{Eh... kde najÃ­t?}
+{131}{}{NapadÃ¡ tÄ›, kde by ta souÄÃ¡stka mohla bÃ½t?}
+{132}{}{Nejsem si jistÃ½, pane. Zkusil bych ÃºdrÅ¾bu. Je nahoÅ™e v severovÃ½chodnÃ­ ÄÃ¡sti zÃ¡kladny.}
+{133}{}{DobÅ™e. JÃ¡ jÃ­t.}
+{134}{}{ZkusÃ­m to tam. Jestli ho nenajdu, podÃ­vÃ¡m se jeÅ¡tÄ› nÄ›kde jinde.}
+{135}{}{Tak mÄ› nech na pokoji.}
+{136}{}{DobÅ™e.}
+{137}{}{MÃ¡Å¡ to mÃ­t.}
+{138}{}{OpÄ›t tÄ› zdravÃ­m. Å½ivotnÃ­ funkce mÃ©ho pÃ¡na byly ukonÄeny. Ty jsi mÅ¯j novÃ½ pÃ¡n?}
+{139}{}{DobÅ™e.}
 {140}{}{Ne.}
-{141}{}{Tak dobøe.}
-{142}{}{Ne, díky.}
-{143}{}{Ty nejsi mùj pán. Nemùu s tebou mluvit. Sbohem.}
-{144}{}{Dobøe.}
-{145}{}{Zdravím, pane. Podaøilo se ti u najít mùj motivátor?}
-{146}{}{Ne, muset ještì hledat.}
-{147}{}{Jo. Já najít.}
-{148}{}{Ne, poøád ho ještì hledám.}
-{149}{}{Mám ho pøímo tady.}
-{150}{}{Poèkám tady, ne se vrátíš, mùj pane.}
-{151}{}{Dobøe.}
-{152}{}{Tak mi prosím tu souèástku nainstaluj, pane! Prosím!}
-{153}{}{Dobøe. Uklidni se.}
-{154}{}{Nyní jsem plnì funkèní, mùj pane. Mùu se k tobì pøidat?}
-{155}{}{Tam to nepatøí, mùj pane. Jsi si jistı, e víš, co dìláš?}
-{156}{}{Dobøe. Hafík jít s já.}
-{157}{}{Já vìdìt co dìlat! Zkusit to znovu.}
-{158}{}{Dobøe. Tak pojï se mnou.}
-{159}{}{Hele, u jsem opravil mnohem sloitìjší vìci, ne je ta tvoje prašivá prdel. Dr tlamu a já to zkusím znova.}
-{160}{}{Jdi pryè. Nechci tì jako svého pána.}
-{161}{}{Nech mì bıt.}
-{162}{}{Nemám tì rád. Jdi pryè.}
-{163}{}{Ukonèím tvoje ivotní funkce.}
-{164}{}{Zamìøuji zbranì na cíl. Pøipravuji se k útoku.}
-{165}{}{Budeš znièen.}
+{141}{}{Tak dobÅ™e.}
+{142}{}{Ne, dÃ­ky.}
+{143}{}{Ty nejsi mÅ¯j pÃ¡n. NemÅ¯Å¾u s tebou mluvit. Sbohem.}
+{144}{}{DobÅ™e.}
+{145}{}{ZdravÃ­m, pane. PodaÅ™ilo se ti uÅ¾ najÃ­t mÅ¯j motivÃ¡tor?}
+{146}{}{Ne, muset jeÅ¡tÄ› hledat.}
+{147}{}{Jo. JÃ¡ najÃ­t.}
+{148}{}{Ne, poÅ™Ã¡d ho jeÅ¡tÄ› hledÃ¡m.}
+{149}{}{MÃ¡m ho pÅ™Ã­mo tady.}
+{150}{}{PoÄkÃ¡m tady, neÅ¾ se vrÃ¡tÃ­Å¡, mÅ¯j pane.}
+{151}{}{DobÅ™e.}
+{152}{}{Tak mi prosÃ­m tu souÄÃ¡stku nainstaluj, pane! ProsÃ­m!}
+{153}{}{DobÅ™e. Uklidni se.}
+{154}{}{NynÃ­ jsem plnÄ› funkÄnÃ­, mÅ¯j pane. MÅ¯Å¾u se k tobÄ› pÅ™idat?}
+{155}{}{Tam to nepatÅ™Ã­, mÅ¯j pane. Jsi si jistÃ½, Å¾e vÃ­Å¡, co dÄ›lÃ¡Å¡?}
+{156}{}{DobÅ™e. HafÃ­k jÃ­t s jÃ¡.}
+{157}{}{JÃ¡ vÄ›dÄ›t co dÄ›lat! Zkusit to znovu.}
+{158}{}{DobÅ™e. Tak pojÄ se mnou.}
+{159}{}{Hele, uÅ¾ jsem opravil mnohem sloÅ¾itÄ›jÅ¡Ã­ vÄ›ci, neÅ¾ je ta tvoje praÅ¡ivÃ¡ prdel. DrÅ¾ tlamu a jÃ¡ to zkusÃ­m znova.}
+{160}{}{Jdi pryÄ. Nechci tÄ› jako svÃ©ho pÃ¡na.}
+{161}{}{Nech mÄ› bÃ½t.}
+{162}{}{NemÃ¡m tÄ› rÃ¡d. Jdi pryÄ.}
+{163}{}{UkonÄÃ­m tvoje Å¾ivotnÃ­ funkce.}
+{164}{}{ZamÄ›Å™uji zbranÄ› na cÃ­l. PÅ™ipravuji se k Ãºtoku.}
+{165}{}{BudeÅ¡ zniÄen.}
 {166}{}{Ano, pane?}
-{167}{}{Ty léèit sebe.}
-{168}{}{Ty èekat tady. Já vrátit se.}
-{169}{}{Eh... dát zbraò pryè. Ano?}
-{170}{}{Ty zùstat blízko.}
-{171}{}{Ty nebıt daleko.}
-{172}{}{Ty moc blízko. Jít dál.}
-{173}{}{Teï my jít.}
-{174}{}{Já hotov.}
-{175}{}{Mìl by ses teï vyléèit.}
-{176}{}{Potøebuju, abys tu poèkal, ne se vrátím.}
-{177}{}{Dej svoji zbraò pryè, ano?}
-{178}{}{Dr se blízko mì.}
+{167}{}{Ty lÃ©Äit sebe.}
+{168}{}{Ty Äekat tady. JÃ¡ vrÃ¡tit se.}
+{169}{}{Eh... dÃ¡t zbraÅˆ pryÄ. Ano?}
+{170}{}{Ty zÅ¯stat blÃ­zko.}
+{171}{}{Ty nebÃ½t daleko.}
+{172}{}{Ty moc blÃ­zko. JÃ­t dÃ¡l.}
+{173}{}{TeÄ my jÃ­t.}
+{174}{}{JÃ¡ hotov.}
+{175}{}{MÄ›l by ses teÄ vylÃ©Äit.}
+{176}{}{PotÅ™ebuju, abys tu poÄkal, neÅ¾ se vrÃ¡tÃ­m.}
+{177}{}{Dej svoji zbraÅˆ pryÄ, ano?}
+{178}{}{DrÅ¾ se blÃ­zko mÄ›.}
 {179}{}{Moc se nevzdaluj.}
-{180}{}{Mìli bychom se trochu rozestoupit.}
-{181}{}{Pojïme.}
-{182}{}{To bude prozatím všechno.}
-{183}{}{Všechny mé systémy jsou plnì funkèní, pane.}
-{184}{}{Všechny mé systémy jsou témìø plnì funkèní, mùj pane.}
-{185}{}{Opravil jsem, co se dalo, pane, ale budu potøebovat odbornìjší pomoc.}
-{186}{}{Opravil jsem, co se dalo, pane, ale bez další pomoci hrozí selhání systému.}
-{187}{}{Ty èekat tady. Já vrátit se.}
-{188}{}{Eh... dát zbraò pryè. Ano?}
-{189}{}{Ty zùstat blízko.}
-{190}{}{Ty nebıt daleko.}
-{191}{}{Ty moc blízko. Jít dál.}
-{192}{}{Teï my jít.}
-{193}{}{Já hotov.}
-{194}{}{Potøebuju, abys tu poèkal, ne se vrátím.}
-{195}{}{Schovej svoji zbraò.}
-{196}{}{Dr se blízko mì.}
+{180}{}{MÄ›li bychom se trochu rozestoupit.}
+{181}{}{PojÄme.}
+{182}{}{To bude prozatÃ­m vÅ¡echno.}
+{183}{}{VÅ¡echny mÃ© systÃ©my jsou plnÄ› funkÄnÃ­, pane.}
+{184}{}{VÅ¡echny mÃ© systÃ©my jsou tÃ©mÄ›Å™ plnÄ› funkÄnÃ­, mÅ¯j pane.}
+{185}{}{Opravil jsem, co se dalo, pane, ale budu potÅ™ebovat odbornÄ›jÅ¡Ã­ pomoc.}
+{186}{}{Opravil jsem, co se dalo, pane, ale bez dalÅ¡Ã­ pomoci hrozÃ­ selhÃ¡nÃ­ systÃ©mu.}
+{187}{}{Ty Äekat tady. JÃ¡ vrÃ¡tit se.}
+{188}{}{Eh... dÃ¡t zbraÅˆ pryÄ. Ano?}
+{189}{}{Ty zÅ¯stat blÃ­zko.}
+{190}{}{Ty nebÃ½t daleko.}
+{191}{}{Ty moc blÃ­zko. JÃ­t dÃ¡l.}
+{192}{}{TeÄ my jÃ­t.}
+{193}{}{JÃ¡ hotov.}
+{194}{}{PotÅ™ebuju, abys tu poÄkal, neÅ¾ se vrÃ¡tÃ­m.}
+{195}{}{Schovej svoji zbraÅˆ.}
+{196}{}{DrÅ¾ se blÃ­zko mÄ›.}
 {197}{}{Moc se nevzdaluj.}
-{198}{}{Mìli bychom se trochu rozestoupit.}
-{199}{}{Pojïme.}
-{200}{}{To bude prozatím všechno.}
-{201}{}{Poèkám tady, ne se vrátíš, mùj pane.}
-{202}{}{Ty léèit sebe.}
-{203}{}{Eh... dát zbraò pryè. Ano?}
-{204}{}{Ty zùstat blízko.}
-{205}{}{Ty nebıt daleko.}
-{206}{}{Ty moc blízko. Jít dál.}
-{207}{}{Teï my jít.}
-{208}{}{Já hotov.}
-{209}{}{Mìl by ses teï vyléèit.}
-{210}{}{Schovej svoji zbraò.}
-{211}{}{Dr se blízko mì.}
+{198}{}{MÄ›li bychom se trochu rozestoupit.}
+{199}{}{PojÄme.}
+{200}{}{To bude prozatÃ­m vÅ¡echno.}
+{201}{}{PoÄkÃ¡m tady, neÅ¾ se vrÃ¡tÃ­Å¡, mÅ¯j pane.}
+{202}{}{Ty lÃ©Äit sebe.}
+{203}{}{Eh... dÃ¡t zbraÅˆ pryÄ. Ano?}
+{204}{}{Ty zÅ¯stat blÃ­zko.}
+{205}{}{Ty nebÃ½t daleko.}
+{206}{}{Ty moc blÃ­zko. JÃ­t dÃ¡l.}
+{207}{}{TeÄ my jÃ­t.}
+{208}{}{JÃ¡ hotov.}
+{209}{}{MÄ›l by ses teÄ vylÃ©Äit.}
+{210}{}{Schovej svoji zbraÅˆ.}
+{211}{}{DrÅ¾ se blÃ­zko mÄ›.}
 {212}{}{Moc se nevzdaluj.}
-{213}{}{Mìli bychom se trochu rozestoupit.}
-{214}{}{Pojïme.}
-{215}{}{To bude prozatím všechno.}
-{216}{}{Zatahuji zbraò, pane.}
-{217}{}{Ty léèit sebe.}
-{218}{}{Ty èekat tady. Já vrátit se.}
-{219}{}{Ty zùstat blízko.}
-{220}{}{Ty nebıt daleko.}
-{221}{}{Ty moc blízko. Jít dál.}
-{222}{}{Teï my jít.}
-{223}{}{Já hotov.}
-{224}{}{Mìl by ses teï vyléèit.}
-{225}{}{Potøebuju, abys tu poèkal, ne se vrátím.}
-{226}{}{Dr se blízko mì.}
+{213}{}{MÄ›li bychom se trochu rozestoupit.}
+{214}{}{PojÄme.}
+{215}{}{To bude prozatÃ­m vÅ¡echno.}
+{216}{}{Zatahuji zbraÅˆ, pane.}
+{217}{}{Ty lÃ©Äit sebe.}
+{218}{}{Ty Äekat tady. JÃ¡ vrÃ¡tit se.}
+{219}{}{Ty zÅ¯stat blÃ­zko.}
+{220}{}{Ty nebÃ½t daleko.}
+{221}{}{Ty moc blÃ­zko. JÃ­t dÃ¡l.}
+{222}{}{TeÄ my jÃ­t.}
+{223}{}{JÃ¡ hotov.}
+{224}{}{MÄ›l by ses teÄ vylÃ©Äit.}
+{225}{}{PotÅ™ebuju, abys tu poÄkal, neÅ¾ se vrÃ¡tÃ­m.}
+{226}{}{DrÅ¾ se blÃ­zko mÄ›.}
 {227}{}{Moc se nevzdaluj.}
-{228}{}{Mìli bychom se trochu rozestoupit.}
-{229}{}{Pojïme.}
-{230}{}{To bude prozatím všechno.}
-{231}{}{Zmenšuji rozestup, pane.}
-{232}{}{Ty léèit sebe.}
-{233}{}{Ty èekat tady. Já vrátit se.}
-{234}{}{Eh... dát zbraò pryè. Ano?}
-{235}{}{Ty nebıt daleko.}
-{236}{}{Ty moc blízko. Jít dál.}
-{237}{}{Teï my jít.}
-{238}{}{Já hotov.}
-{239}{}{Mìl by ses teï vyléèit.}
-{240}{}{Potøebuju, abys tu poèkal, ne se vrátím.}
-{241}{}{Schovej svoji zbraò.}
+{228}{}{MÄ›li bychom se trochu rozestoupit.}
+{229}{}{PojÄme.}
+{230}{}{To bude prozatÃ­m vÅ¡echno.}
+{231}{}{ZmenÅ¡uji rozestup, pane.}
+{232}{}{Ty lÃ©Äit sebe.}
+{233}{}{Ty Äekat tady. JÃ¡ vrÃ¡tit se.}
+{234}{}{Eh... dÃ¡t zbraÅˆ pryÄ. Ano?}
+{235}{}{Ty nebÃ½t daleko.}
+{236}{}{Ty moc blÃ­zko. JÃ­t dÃ¡l.}
+{237}{}{TeÄ my jÃ­t.}
+{238}{}{JÃ¡ hotov.}
+{239}{}{MÄ›l by ses teÄ vylÃ©Äit.}
+{240}{}{PotÅ™ebuju, abys tu poÄkal, neÅ¾ se vrÃ¡tÃ­m.}
+{241}{}{Schovej svoji zbraÅˆ.}
 {242}{}{Moc se nevzdaluj.}
-{243}{}{Mìli bychom se trochu rozestoupit.}
-{244}{}{Pojïme.}
-{245}{}{To bude prozatím všechno.}
-{246}{}{Zvìtšuji rozestup, pane.}
-{247}{}{Ty léèit sebe.}
-{248}{}{Ty èekat tady. Já vrátit se.}
-{249}{}{Eh... dát zbraò pryè. Ano?}
-{250}{}{Ty zùstat blízko.}
-{251}{}{Ty moc blízko. Jít dál.}
-{252}{}{Teï my jít.}
-{253}{}{Já hotov.}
-{254}{}{Mìl by ses teï vyléèit.}
-{255}{}{Potøebuju, abys tu poèkal, ne se vrátím.}
-{256}{}{Schovej svoji zbraò.}
-{257}{}{Dr se blízko mì.}
-{258}{}{Mìli bychom se trochu rozestoupit.}
-{259}{}{Pojïme.}
-{260}{}{To bude prozatím všechno.}
-{261}{}{Zvìtšuji rozestup na maximum, pane.}
-{262}{}{Ty léèit sebe.}
-{263}{}{Ty èekat tady. Já vrátit se.}
-{264}{}{Eh... dát zbraò pryè. Ano?}
-{265}{}{Ty zùstat blízko.}
-{266}{}{Ty nebıt daleko.}
-{267}{}{Teï my jít.}
-{268}{}{Já hotov.}
-{269}{}{Mìl by ses teï vyléèit.}
-{270}{}{Potøebuju, abys tu poèkal, ne se vrátím.}
-{271}{}{Schovej svoji zbraò.}
-{272}{}{Dr se blízko mì.}
+{243}{}{MÄ›li bychom se trochu rozestoupit.}
+{244}{}{PojÄme.}
+{245}{}{To bude prozatÃ­m vÅ¡echno.}
+{246}{}{ZvÄ›tÅ¡uji rozestup, pane.}
+{247}{}{Ty lÃ©Äit sebe.}
+{248}{}{Ty Äekat tady. JÃ¡ vrÃ¡tit se.}
+{249}{}{Eh... dÃ¡t zbraÅˆ pryÄ. Ano?}
+{250}{}{Ty zÅ¯stat blÃ­zko.}
+{251}{}{Ty moc blÃ­zko. JÃ­t dÃ¡l.}
+{252}{}{TeÄ my jÃ­t.}
+{253}{}{JÃ¡ hotov.}
+{254}{}{MÄ›l by ses teÄ vylÃ©Äit.}
+{255}{}{PotÅ™ebuju, abys tu poÄkal, neÅ¾ se vrÃ¡tÃ­m.}
+{256}{}{Schovej svoji zbraÅˆ.}
+{257}{}{DrÅ¾ se blÃ­zko mÄ›.}
+{258}{}{MÄ›li bychom se trochu rozestoupit.}
+{259}{}{PojÄme.}
+{260}{}{To bude prozatÃ­m vÅ¡echno.}
+{261}{}{ZvÄ›tÅ¡uji rozestup na maximum, pane.}
+{262}{}{Ty lÃ©Äit sebe.}
+{263}{}{Ty Äekat tady. JÃ¡ vrÃ¡tit se.}
+{264}{}{Eh... dÃ¡t zbraÅˆ pryÄ. Ano?}
+{265}{}{Ty zÅ¯stat blÃ­zko.}
+{266}{}{Ty nebÃ½t daleko.}
+{267}{}{TeÄ my jÃ­t.}
+{268}{}{JÃ¡ hotov.}
+{269}{}{MÄ›l by ses teÄ vylÃ©Äit.}
+{270}{}{PotÅ™ebuju, abys tu poÄkal, neÅ¾ se vrÃ¡tÃ­m.}
+{271}{}{Schovej svoji zbraÅˆ.}
+{272}{}{DrÅ¾ se blÃ­zko mÄ›.}
 {273}{}{Moc se nevzdaluj.}
-{274}{}{Pojïme.}
-{275}{}{To bude prozatím všechno.}
-{276}{}{Promiò, pane, ale vypadá to, e u se do vaší skupiny nevmìstnám. Poèkám tady, dokud pro mì nebudeš mít místo.}
-{277}{}{Jak pøikazuješ, pane.}
-{278}{}{Ty léèit sebe.}
-{279}{}{Ty èekat tady. Já vrátit se.}
-{280}{}{Eh... dát zbraò pryè. Ano?}
-{281}{}{Ty zùstat blízko.}
-{282}{}{Ty nebıt daleko.}
-{283}{}{Ty moc blízko. Jít dál.}
-{284}{}{Já hotov.}
-{285}{}{Mìl by ses teï vyléèit.}
-{286}{}{Potøebuju, abys tu poèkal, ne se vrátím.}
-{287}{}{Schovej svoji zbraò.}
-{288}{}{Dr se blízko mì.}
+{274}{}{PojÄme.}
+{275}{}{To bude prozatÃ­m vÅ¡echno.}
+{276}{}{PromiÅˆ, pane, ale vypadÃ¡ to, Å¾e uÅ¾ se do vaÅ¡Ã­ skupiny nevmÄ›stnÃ¡m. PoÄkÃ¡m tady, dokud pro mÄ› nebudeÅ¡ mÃ­t mÃ­sto.}
+{277}{}{Jak pÅ™ikazujeÅ¡, pane.}
+{278}{}{Ty lÃ©Äit sebe.}
+{279}{}{Ty Äekat tady. JÃ¡ vrÃ¡tit se.}
+{280}{}{Eh... dÃ¡t zbraÅˆ pryÄ. Ano?}
+{281}{}{Ty zÅ¯stat blÃ­zko.}
+{282}{}{Ty nebÃ½t daleko.}
+{283}{}{Ty moc blÃ­zko. JÃ­t dÃ¡l.}
+{284}{}{JÃ¡ hotov.}
+{285}{}{MÄ›l by ses teÄ vylÃ©Äit.}
+{286}{}{PotÅ™ebuju, abys tu poÄkal, neÅ¾ se vrÃ¡tÃ­m.}
+{287}{}{Schovej svoji zbraÅˆ.}
+{288}{}{DrÅ¾ se blÃ­zko mÄ›.}
 {289}{}{Moc se nevzdaluj.}
-{290}{}{Mìli bychom se trochu rozestoupit.}
-{291}{}{To bude prozatím všechno.}
-{292}{}{Jasnì. Vypadáš jako fajn pes.}
-{293}{}{Ne, díky.}
-{300}{}{Já smutnı. Neumìt ty opravit.}
-{301}{}{Promiò, ale nedokáu tì opravit.}
-{400}{}{Vypadá to, e ti chybí nìjaká souèástka.}
-{410}{}{Nic to nedìlá.}
+{290}{}{MÄ›li bychom se trochu rozestoupit.}
+{291}{}{To bude prozatÃ­m vÅ¡echno.}
+{292}{}{JasnÄ›. VypadÃ¡Å¡ jako fajn pes.}
+{293}{}{Ne, dÃ­ky.}
+{300}{}{JÃ¡ smutnÃ½. NeumÄ›t ty opravit.}
+{301}{}{PromiÅˆ, ale nedokÃ¡Å¾u tÄ› opravit.}
+{400}{}{VypadÃ¡ to, Å¾e ti chybÃ­ nÄ›jakÃ¡ souÄÃ¡stka.}
+{410}{}{Nic to nedÄ›lÃ¡.}
 {420}{}{Tohle nepasuje.}
-{800}{}{Podaøilo se ti opravit K-9.}
+{800}{}{PodaÅ™ilo se ti opravit K-9.}
 {1000}{}{Ano, pane?}
-{1100}{}{Všechny mé systémy jsou plnì funkèní, pane.}
-{1200}{}{Všechny mé systémy jsou témìø plnì funkèní, mùj pane.}
-{1300}{}{Opravil jsem, co se dalo, pane, ale budu potøebovat odbornou pomoc.}
-{1400}{}{Opravil jsem, co se dalo, pane, ale bez další pomoci hrozí selhání systému.}
-{1500}{}{Budu oèekávat tvùj návrat, mùj pane.}
-{1600}{}{Chceš snad, abych spolkl své zuby, pane?}
-{1700}{}{Budu chodit ve tvıch stopách, pane.}
-{1800}{}{Budu se pohybovat ve støední vzdálenosti, pane.}
-{1900}{}{Budu se pohybovat v nejvìtší pøijatelné vzdálenosti, pane.}
-{2000}{}{Promiò, pane, ale vypadá to, e u se do vaší skupiny nevmìstnám. Poèkám tady, dokud pro mì nebudeš mít místo.}
-{2200}{}{Jak pøikazuješ, pane.}
-{2300}{}{Mám jen svùj koich, pane. Nenosím nic jiného.}
-{2400}{}{Netouím si sundat svùj koich, pane.}
-{2500}{}{Zuby, pane. To jsou ty bílé ostré vìci v mé tlamì.}
-{2700}{}{Jsi ještì vìtší kretén ne Schreber. Nikam s tebou nepùjdu.}
-{2800}{}{Tak dobøe, mùj pane. Jsem ti k slubám.}
-{2900}{}{Ty jsi ale kus kreténa. Nikam s tebou nepùjdu. Jdi pryè.}
+{1100}{}{VÅ¡echny mÃ© systÃ©my jsou plnÄ› funkÄnÃ­, pane.}
+{1200}{}{VÅ¡echny mÃ© systÃ©my jsou tÃ©mÄ›Å™ plnÄ› funkÄnÃ­, mÅ¯j pane.}
+{1300}{}{Opravil jsem, co se dalo, pane, ale budu potÅ™ebovat odbornou pomoc.}
+{1400}{}{Opravil jsem, co se dalo, pane, ale bez dalÅ¡Ã­ pomoci hrozÃ­ selhÃ¡nÃ­ systÃ©mu.}
+{1500}{}{Budu oÄekÃ¡vat tvÅ¯j nÃ¡vrat, mÅ¯j pane.}
+{1600}{}{ChceÅ¡ snad, abych spolkl svÃ© zuby, pane?}
+{1700}{}{Budu chodit ve tvÃ½ch stopÃ¡ch, pane.}
+{1800}{}{Budu se pohybovat ve stÅ™ednÃ­ vzdÃ¡lenosti, pane.}
+{1900}{}{Budu se pohybovat v nejvÄ›tÅ¡Ã­ pÅ™ijatelnÃ© vzdÃ¡lenosti, pane.}
+{2000}{}{PromiÅˆ, pane, ale vypadÃ¡ to, Å¾e uÅ¾ se do vaÅ¡Ã­ skupiny nevmÄ›stnÃ¡m. PoÄkÃ¡m tady, dokud pro mÄ› nebudeÅ¡ mÃ­t mÃ­sto.}
+{2200}{}{Jak pÅ™ikazujeÅ¡, pane.}
+{2300}{}{MÃ¡m jen svÅ¯j koÅ¾ich, pane. NenosÃ­m nic jinÃ©ho.}
+{2400}{}{NetouÅ¾Ã­m si sundat svÅ¯j koÅ¾ich, pane.}
+{2500}{}{Zuby, pane. To jsou ty bÃ­lÃ© ostrÃ© vÄ›ci v mÃ© tlamÄ›.}
+{2700}{}{Jsi jeÅ¡tÄ› vÄ›tÅ¡Ã­ kretÃ©n neÅ¾ Schreber. Nikam s tebou nepÅ¯jdu.}
+{2800}{}{Tak dobÅ™e, mÅ¯j pane. Jsem ti k sluÅ¾bÃ¡m.}
+{2900}{}{Ty jsi ale kus kretÃ©na. Nikam s tebou nepÅ¯jdu. Jdi pryÄ.}

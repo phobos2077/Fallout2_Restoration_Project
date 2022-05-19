@@ -1,41 +1,41 @@
-{100}{}{Malı chlapec.}
-{101}{}{Vidíš malého Bobbyho.}
-{102}{}{Má špinavé obleèení a modøiny na krku a oblièeji.}
-{103}{}{Má nové obleèení a úsmìv na tváøi.}
-{104}{}{Ahoj pane! Já jsem Bobby a iju tady s tátou.}
-{105}{}{Ahoj paní! Já jsem Bobby a iju tady s tátou.}
-{106}{}{Aha. Tak...}
-{107}{}{Jseš tu kvùli tomu, e ti mùj táta dluí peníze? Nevím, jestli ho tu najdeš, ale kdybych vìdìl, kde je, øekl bych ti to, paè ho moná tak strašnì zmlátíš, e u by se nikdy nevrátil domù.}
-{108}{}{To zní hroznì, Bobby. Tvùj otec nemá ádné právo s tebou takhle zacházet. To nemá ádnı rodiè.}
-{109}{}{Hehe, já bych svıho syna taky zmlátil, kdyby mì neposlouchal. Tvùj táta bude asi správnej chlap.}
-{110}{}{(Jeho oèi se rozzáøí.) Nejsi jako ostatní, kteøí tudy projdou. Líbíš se mi. (Hluboce si povzdechne.) Pøál bych si, aby byl mùj otec jako ty. Nìkdy pøemıšlím o tom, e uteèu. Nìkteøí mí kamarádi nemají domovy a øíkají,
- e to není tak špatnı. Jednou dennì mají nárok na jídlo, pokud panu Flickovi pøinesou dost vìcí. Jene pan Flick taky není zrovna hodnı... vlastnì je skoro jako mùj otec.}
-{111}{}{Jsi zlej! Bì pryè! Nemám tì rád.}
-{112}{}{Musí bıt nìjakı zpùsob, jak s tím nìco udìlat. Je tu ve mìstì nìjakı dospìlı, kterı by byl ochotnı se o tebe postarat... nebo o kterékoliv dìti bez domova?}
-{113}{}{(Bobby pokrèí rameny.) Moná Máma? Teï nemyslím *moji* mámu... ta je mrtvá... ale jednu paní, kterı lidi øíkají Máma. Nevím proè.
- Moná proto, e je opravdu hodná? Má restauraci na druhım konci mìsta. (Ukáe na severovıchod.)
- Mí kamarádi bez domova tam chodí a ona jim vdycky donese jídlo zdarma. Pøál bych si, aby mì tam otec nìkdy vzal, páè dokáe udìlat z krys opravdovou dobrotu!}
-{114}{}{Hmm, *mám* docela hlad. Moná Mámu navštívím. Mìj se, Bobby.}
-{115}{}{Jseš pìknej spratek. Radìji odejdu, ne z tebe vymlátím duši. Ahoj.}
-{116}{}{Hádej co, Bobby? Mluvil jsem s Mámou a chystá se otevøít pìknı, velkı domov, kde mùeš ít spoleènì se svımi kamarády bez domova.
- Bude to v té velké budovì pøes ulici. Mìla by mít vše pøipravené bìhem nìkolika dní.}
-{117}{}{(Chlapec se usmìje od ucha k uchu.) Opravdu? To je skvìlı! (Obejme tì.) Nemùu se doèkat, a tam budu bydlet se všema kamarádama! Jsem tak nadšenej! Ještì jednou díky pane, jste nejlepší!}
-{118}{}{(Chlapec se usmìje od ucha k uchu.) Opravdu? To je skvìlı! (Obejme tì.) Nemùu se doèkat, a tam budu bydlet se všema kamarádama! Jsem tak nadšenej! Ještì jednou díky paní, jste nejlepší!}
-{119}{}{Není zaè, chlapèe. Zatím.}
-{120}{}{Ahoj! Mluvil jsi s Mámou?}
+{100}{}{MalÃ½ chlapec.}
+{101}{}{VidÃ­Å¡ malÃ©ho Bobbyho.}
+{102}{}{MÃ¡ Å¡pinavÃ© obleÄenÃ­ a modÅ™iny na krku a obliÄeji.}
+{103}{}{MÃ¡ novÃ© obleÄenÃ­ a ÃºsmÄ›v na tvÃ¡Å™i.}
+{104}{}{Ahoj pane! JÃ¡ jsem Bobby a Å¾iju tady s tÃ¡tou.}
+{105}{}{Ahoj panÃ­! JÃ¡ jsem Bobby a Å¾iju tady s tÃ¡tou.}
+{106}{}{Aha. TakÅ¾...}
+{107}{}{JseÅ¡ tu kvÅ¯li tomu, Å¾e ti mÅ¯j tÃ¡ta dluÅ¾Ã­ penÃ­ze? NevÃ­m, jestli ho tu najdeÅ¡, ale kdybych vÄ›dÄ›l, kde je, Å™ekl bych ti to, paÄ ho moÅ¾nÃ¡ tak straÅ¡nÄ› zmlÃ¡tÃ­Å¡, Å¾e uÅ¾ by se nikdy nevrÃ¡til domÅ¯.}
+{108}{}{To znÃ­ hroznÄ›, Bobby. TvÅ¯j otec nemÃ¡ Å¾Ã¡dnÃ© prÃ¡vo s tebou takhle zachÃ¡zet. To nemÃ¡ Å¾Ã¡dnÃ½ rodiÄ.}
+{109}{}{Hehe, jÃ¡ bych svÃ½ho syna taky zmlÃ¡til, kdyby mÄ› neposlouchal. TvÅ¯j tÃ¡ta bude asi sprÃ¡vnej chlap.}
+{110}{}{(Jeho oÄi se rozzÃ¡Å™Ã­.) Nejsi jako ostatnÃ­, kteÅ™Ã­ tudy projdou. LÃ­bÃ­Å¡ se mi. (Hluboce si povzdechne.) PÅ™Ã¡l bych si, aby byl mÅ¯j otec jako ty. NÄ›kdy pÅ™emÃ½Å¡lÃ­m o tom, Å¾e uteÄu. NÄ›kteÅ™Ã­ mÃ­ kamarÃ¡di nemajÃ­ domovy a Å™Ã­kajÃ­,
+ Å¾e to nenÃ­ tak Å¡patnÃ½. Jednou dennÄ› majÃ­ nÃ¡rok na jÃ­dlo, pokud panu Flickovi pÅ™inesou dost vÄ›cÃ­. JenÅ¾e pan Flick taky nenÃ­ zrovna hodnÃ½... vlastnÄ› je skoro jako mÅ¯j otec.}
+{111}{}{Jsi zlej! BÄ›Å¾ pryÄ! NemÃ¡m tÄ› rÃ¡d.}
+{112}{}{MusÃ­ bÃ½t nÄ›jakÃ½ zpÅ¯sob, jak s tÃ­m nÄ›co udÄ›lat. Je tu ve mÄ›stÄ› nÄ›jakÃ½ dospÄ›lÃ½, kterÃ½ by byl ochotnÃ½ se o tebe postarat... nebo o kterÃ©koliv dÄ›ti bez domova?}
+{113}{}{(Bobby pokrÄÃ­ rameny.) MoÅ¾nÃ¡ MÃ¡ma? TeÄ nemyslÃ­m *moji* mÃ¡mu... ta je mrtvÃ¡... ale jednu panÃ­, kterÃ½ lidi Å™Ã­kajÃ­ MÃ¡ma. NevÃ­m proÄ.
+ MoÅ¾nÃ¡ proto, Å¾e je opravdu hodnÃ¡? MÃ¡ restauraci na druhÃ½m konci mÄ›sta. (UkÃ¡Å¾e na severovÃ½chod.)
+ MÃ­ kamarÃ¡di bez domova tam chodÃ­ a ona jim vÅ¾dycky donese jÃ­dlo zdarma. PÅ™Ã¡l bych si, aby mÄ› tam otec nÄ›kdy vzal, pÃ¡Ä dokÃ¡Å¾e udÄ›lat z krys opravdovou dobrotu!}
+{114}{}{Hmm, *mÃ¡m* docela hlad. MoÅ¾nÃ¡ MÃ¡mu navÅ¡tÃ­vÃ­m. MÄ›j se, Bobby.}
+{115}{}{JseÅ¡ pÄ›knej spratek. RadÄ›ji odejdu, neÅ¾ z tebe vymlÃ¡tÃ­m duÅ¡i. Ahoj.}
+{116}{}{HÃ¡dej co, Bobby? Mluvil jsem s MÃ¡mou a chystÃ¡ se otevÅ™Ã­t pÄ›knÃ½, velkÃ½ domov, kde mÅ¯Å¾eÅ¡ Å¾Ã­t spoleÄnÄ› se svÃ½mi kamarÃ¡dy bez domova.
+ Bude to v tÃ© velkÃ© budovÄ› pÅ™es ulici. MÄ›la by mÃ­t vÅ¡e pÅ™ipravenÃ© bÄ›hem nÄ›kolika dnÃ­.}
+{117}{}{(Chlapec se usmÄ›je od ucha k uchu.) Opravdu? To je skvÄ›lÃ½! (Obejme tÄ›.) NemÅ¯Å¾u se doÄkat, aÅ¾ tam budu bydlet se vÅ¡ema kamarÃ¡dama! Jsem tak nadÅ¡enej! JeÅ¡tÄ› jednou dÃ­ky pane, jste nejlepÅ¡Ã­!}
+{118}{}{(Chlapec se usmÄ›je od ucha k uchu.) Opravdu? To je skvÄ›lÃ½! (Obejme tÄ›.) NemÅ¯Å¾u se doÄkat, aÅ¾ tam budu bydlet se vÅ¡ema kamarÃ¡dama! Jsem tak nadÅ¡enej! JeÅ¡tÄ› jednou dÃ­ky panÃ­, jste nejlepÅ¡Ã­!}
+{119}{}{NenÃ­ zaÄ, chlapÄe. ZatÃ­m.}
+{120}{}{Ahoj! Mluvil jsi s MÃ¡mou?}
 {121}{}{Neboj Bobby, pracuju na tom.}
-{122}{}{Díky tobì má teï Bobby lepší ivot.}
-{123}{}{Ahoj! Díky za všechno. Miluju to tu. Máma je skvìlá paní!}
-{124}{}{Miluju to tu. Máma je skvìlá paní!}
-{125}{}{Jsem tak nadšenej! Je naèase si sbalit.}
-{126}{}{Zajímalo by mì, jestli si táta všimne, e jsem odešel.}
-{127}{}{Tam to bude mnohem lepší.}
-{200}{}{Nemám tì rád. Bì pryè!}
-{210}{}{To zní, jako kdybys nemìl svého otce pøíliš rád. Mùu se zeptat proè?}
-{211}{}{Ty malej spratku, kdo ti dal právo takhle mluvit o svém otci?}
-{220}{}{Páè mùj táta není moc hodnej. Poøád mì nechává doma samotnıho a kdy *je* zrovna doma,
- tak je oralej nebo ulítává na jetu, co je le, páè ho nikdy lítat nevidím. Nìkdy si pøitáhne domù pøítelkyni... má spoustu pøítelkyò... a nutí mì jít na chvíli ven, i kdy je zrovna pùlnoc
- a venku je chladno a prší.}
+{122}{}{DÃ­ky tobÄ› mÃ¡ teÄ Bobby lepÅ¡Ã­ Å¾ivot.}
+{123}{}{Ahoj! DÃ­ky za vÅ¡echno. Miluju to tu. MÃ¡ma je skvÄ›lÃ¡ panÃ­!}
+{124}{}{Miluju to tu. MÃ¡ma je skvÄ›lÃ¡ panÃ­!}
+{125}{}{Jsem tak nadÅ¡enej! Je naÄase si sbalit.}
+{126}{}{ZajÃ­malo by mÄ›, jestli si tÃ¡ta vÅ¡imne, Å¾e jsem odeÅ¡el.}
+{127}{}{Tam to bude mnohem lepÅ¡Ã­.}
+{200}{}{NemÃ¡m tÄ› rÃ¡d. BÄ›Å¾ pryÄ!}
+{210}{}{To znÃ­, jako kdybys nemÄ›l svÃ©ho otce pÅ™Ã­liÅ¡ rÃ¡d. MÅ¯Å¾u se zeptat proÄ?}
+{211}{}{Ty malej spratku, kdo ti dal prÃ¡vo takhle mluvit o svÃ©m otci?}
+{220}{}{PÃ¡Ä mÅ¯j tÃ¡ta nenÃ­ moc hodnej. PoÅ™Ã¡d mÄ› nechÃ¡vÃ¡ doma samotnÃ½ho a kdyÅ¾ *je* zrovna doma,
+ tak je oÅ¾ralej nebo ulÃ­tÃ¡vÃ¡ na jetu, coÅ¾ je leÅ¾, pÃ¡Ä ho nikdy lÃ­tat nevidÃ­m. NÄ›kdy si pÅ™itÃ¡hne domÅ¯ pÅ™Ã­telkyni... mÃ¡ spoustu pÅ™Ã­telkyÅˆ... a nutÃ­ mÄ› jÃ­t na chvÃ­li ven, i kdyÅ¾ je zrovna pÅ¯lnoc
+ a venku je chladno a prÅ¡Ã­.}
 {221}{}{To je...}
-{230}{}{Jo a nìkdy po mnì chce, abych bral lidem potají vìci. Øíká, e je to hra a e to pak vrátí, ale nevìøím mu.
- Ale kdy to neudìlám, tak se fakt naštve, zrudnou mu oèi a zbije mì. Vidíš? (Vyhrne si rukáv u košile, kterı odhalí ošklivou modøinu na ruce.)}
+{230}{}{Jo a nÄ›kdy po mnÄ› chce, abych bral lidem potajÃ­ vÄ›ci. Å˜Ã­kÃ¡, Å¾e je to hra a Å¾e to pak vrÃ¡tÃ­, ale nevÄ›Å™Ã­m mu.
+ Ale kdyÅ¾ to neudÄ›lÃ¡m, tak se fakt naÅ¡tve, zrudnou mu oÄi a zbije mÄ›. VidÃ­Å¡? (Vyhrne si rukÃ¡v u koÅ¡ile, kterÃ½ odhalÃ­ oÅ¡klivou modÅ™inu na ruce.)}

@@ -1,2 +1,2 @@
-{100}{}{Tohle je Lloydùv starý pokoj. Nìkdo pokryl koberec sazemi... které nejspíš pocházejí z kotelny...}
-{200}{}{204: Tohle je pokoj, ve kterém bydlel Lloyd.}
+{100}{}{Tohle je LloydÅ¯v starÃ½ pokoj. NÄ›kdo pokryl koberec sazemi... kterÃ© nejspÃ­Å¡ pochÃ¡zejÃ­ z kotelny...}
+{200}{}{204: Tohle je pokoj, ve kterÃ©m bydlel Lloyd.}

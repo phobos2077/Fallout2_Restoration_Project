@@ -1,44 +1,44 @@
-{100}{}{Vidíš velkého, primitivnì vypadajícího mue.}
-{101}{}{Vidíš štíhlou primitivní enu.}
-{200}{}{Vidíš podivnì vyhlíejícího mue.}
-{201}{}{Vidíš otrhaného mue.}
-{202}{}{Vidíš mue v otrhanıch šatech.}
-{210}{}{Vidíš velmi špinavou enu.}
-{211}{}{Vidíš pìknì špinavou enu.}
-{212}{}{Vidíš vychrtlou enu.}
-{270}{}{Oni nenajít já.}
+{100}{}{VidÃ­Å¡ velkÃ©ho, primitivnÄ› vypadajÃ­cÃ­ho muÅ¾e.}
+{101}{}{VidÃ­Å¡ Å¡tÃ­hlou primitivnÃ­ Å¾enu.}
+{200}{}{VidÃ­Å¡ podivnÄ› vyhlÃ­Å¾ejÃ­cÃ­ho muÅ¾e.}
+{201}{}{VidÃ­Å¡ otrhanÃ©ho muÅ¾e.}
+{202}{}{VidÃ­Å¡ muÅ¾e v otrhanÃ½ch Å¡atech.}
+{210}{}{VidÃ­Å¡ velmi Å¡pinavou Å¾enu.}
+{211}{}{VidÃ­Å¡ pÄ›knÄ› Å¡pinavou Å¾enu.}
+{212}{}{VidÃ­Å¡ vychrtlou Å¾enu.}
+{270}{}{Oni nenajÃ­t jÃ¡.}
 {271}{}{Muset schovat. Muset schovat.}
-{272}{}{Proè oni chtít zranit?}
-{273}{}{Já bát.}
-{274}{}{Já nebojovat.}
-{275}{}{Já chtít ít.}
+{272}{}{ProÄ oni chtÃ­t zranit?}
+{273}{}{JÃ¡ bÃ¡t.}
+{274}{}{JÃ¡ nebojovat.}
+{275}{}{JÃ¡ chtÃ­t Å¾Ã­t.}
 {276}{}{Nezranit moje rodina.}
 {280}{}{A do prdele!}
-{281}{}{Proè to dìlají?}
-{282}{}{Co bude s mojí rodinou?}
-{283}{}{Nechci zemøít.}
-{284}{}{Nechci bıt otrok.}
-{285}{}{Zaslouím si nìco lepšího ne je tohle.}
+{281}{}{ProÄ to dÄ›lajÃ­?}
+{282}{}{Co bude s mojÃ­ rodinou?}
+{283}{}{Nechci zemÅ™Ã­t.}
+{284}{}{Nechci bÃ½t otrok.}
+{285}{}{ZaslouÅ¾Ã­m si nÄ›co lepÅ¡Ã­ho neÅ¾ je tohle.}
 {300}{}{Ahhh!}
-{301}{}{Nezabít! Nezabít!}
-{302}{}{Pøestat!}
-{303}{}{Pomóóóóc!}
-{304}{}{Bìet!}
-{305}{}{Nechat bıt!}
+{301}{}{NezabÃ­t! NezabÃ­t!}
+{302}{}{PÅ™estat!}
+{303}{}{PomÃ³Ã³Ã³Ã³c!}
+{304}{}{BÄ›Å¾et!}
+{305}{}{Nechat bÃ½t!}
 {306}{}{Nezranit!}
-{307}{}{Já nezranit tebe!}
-{308}{}{Já nebojovat!}
-{350}{}{Zachraò se kdo mùeš!}
+{307}{}{JÃ¡ nezranit tebe!}
+{308}{}{JÃ¡ nebojovat!}
+{350}{}{ZachraÅˆ se kdo mÅ¯Å¾eÅ¡!}
 {351}{}{Nenechte se od nich chytit!}
-{352}{}{Otrokáøi! Utíkejte!}
-{353}{}{Pomozte nám nìkdo! Prosím!}
-{354}{}{Utíkej, Marty!}
+{352}{}{OtrokÃ¡Å™i! UtÃ­kejte!}
+{353}{}{Pomozte nÃ¡m nÄ›kdo! ProsÃ­m!}
+{354}{}{UtÃ­kej, Marty!}
 {355}{}{Ahhh!}
-{356}{}{Zastavte to šílenství!}
-{357}{}{Nic jsme neudìlali! Nechte nás na pokoji!}
-{358}{}{Tohle tetování znám!}
-{359}{}{Ne, prosím!}
-{360}{}{Prosím, nezabíjejte mì!}
-{361}{}{Vzdávám se, nezabíjejte mì!}
-{362}{}{Prosím, já nechci zemøít!}
-{363}{}{Vy jste otrokáøi, e jo? Ach Boe.}
+{356}{}{Zastavte to Å¡Ã­lenstvÃ­!}
+{357}{}{Nic jsme neudÄ›lali! Nechte nÃ¡s na pokoji!}
+{358}{}{Tohle tetovÃ¡nÃ­ znÃ¡m!}
+{359}{}{Ne, prosÃ­m!}
+{360}{}{ProsÃ­m, nezabÃ­jejte mÄ›!}
+{361}{}{VzdÃ¡vÃ¡m se, nezabÃ­jejte mÄ›!}
+{362}{}{ProsÃ­m, jÃ¡ nechci zemÅ™Ã­t!}
+{363}{}{Vy jste otrokÃ¡Å™i, Å¾e jo? Ach BoÅ¾e.}

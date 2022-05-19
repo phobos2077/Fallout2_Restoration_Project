@@ -1,13 +1,13 @@
-{100}{}{Tento poklop vypadá podivnì - na rozdíl od zbytku lodi není moc rezavı a má sloitı zámek.}
-{200}{}{Svádíš s poklopem tìkı souboj, ale nakonec se ti ho podaøí otevøít. Kousky znièeného zámku spadnou na zem za doprovodu skøípajících zvukù.}
-{201}{}{Dìláš co se dá, ale poklop ne a ne povolit. Moná by pomohla nìjaká vıbušnina.}
-{202}{}{Vypadá to, e poklop pùjde otevøít, pokud pouiješ dost síly. Marcus by ti s tím mohl pomoct.}
-{210}{}{Hej Marcusi, pomùeš mi otevøít tenhle poklop?}
-{211}{}{Jasnì, udìlej mi místo.}
+{100}{}{Tento poklop vypadÃ¡ podivnÄ› - na rozdÃ­l od zbytku lodi nenÃ­ moc rezavÃ½ a mÃ¡ sloÅ¾itÃ½ zÃ¡mek.}
+{200}{}{SvÃ¡dÃ­Å¡ s poklopem tÄ›Å¾kÃ½ souboj, ale nakonec se ti ho podaÅ™Ã­ otevÅ™Ã­t. Kousky zniÄenÃ©ho zÃ¡mku spadnou na zem za doprovodu skÅ™Ã­pajÃ­cÃ­ch zvukÅ¯.}
+{201}{}{DÄ›lÃ¡Å¡ co se dÃ¡, ale poklop ne a ne povolit. MoÅ¾nÃ¡ by pomohla nÄ›jakÃ¡ vÃ½buÅ¡nina.}
+{202}{}{VypadÃ¡ to, Å¾e poklop pÅ¯jde otevÅ™Ã­t, pokud pouÅ¾ijeÅ¡ dost sÃ­ly. Marcus by ti s tÃ­m mohl pomoct.}
+{210}{}{Hej Marcusi, pomÅ¯Å¾eÅ¡ mi otevÅ™Ã­t tenhle poklop?}
+{211}{}{JasnÄ›, udÄ›lej mi mÃ­sto.}
 {212}{}{*hrrrgnnnr*}
-{213}{}{Supermutantovi se nedaøí otevøít poklop. Na okamik se zdá, e z toho celı praskne, ale zrovna v té chvíli poklop povolí a zámek se rozletí na malé kousky.}
-{220}{}{Pohráváš si se zámkem a bìhem chvíle jej otevíráš. Páèení zámkù je pro tebe jistì víc ne jen koníèek.}
-{221}{}{Chvíli si se zámkem hraješ, ale brzy to vzdáváš. Musí bıt i jinı zpùsob, jak zámek otevøít.}
-{230}{}{Ohlušující exploze otevøela poklop a roztrhala zámek na cucky.}
-{240}{}{Chvíli si hraješ se zámkem a poté ho opìt uzamkneš. Páèení zámkù je pro tebe víc ne jen koníèek.}
-{241}{}{Hraješ si se zámkem, ale nakonec to vzdáš. Musí bıt i jinı zpùsob, jak zámek opìt uzamknout.}
+{213}{}{Supermutantovi se nedaÅ™Ã­ otevÅ™Ã­t poklop. Na okamÅ¾ik se zdÃ¡, Å¾e z toho celÃ½ praskne, ale zrovna v tÃ© chvÃ­li poklop povolÃ­ a zÃ¡mek se rozletÃ­ na malÃ© kousky.}
+{220}{}{PohrÃ¡vÃ¡Å¡ si se zÃ¡mkem a bÄ›hem chvÃ­le jej otevÃ­rÃ¡Å¡. PÃ¡ÄenÃ­ zÃ¡mkÅ¯ je pro tebe jistÄ› vÃ­c neÅ¾ jen konÃ­Äek.}
+{221}{}{ChvÃ­li si se zÃ¡mkem hrajeÅ¡, ale brzy to vzdÃ¡vÃ¡Å¡. MusÃ­ bÃ½t i jinÃ½ zpÅ¯sob, jak zÃ¡mek otevÅ™Ã­t.}
+{230}{}{OhluÅ¡ujÃ­cÃ­ exploze otevÅ™ela poklop a roztrhala zÃ¡mek na cucky.}
+{240}{}{ChvÃ­li si hrajeÅ¡ se zÃ¡mkem a potÃ© ho opÄ›t uzamkneÅ¡. PÃ¡ÄenÃ­ zÃ¡mkÅ¯ je pro tebe vÃ­c neÅ¾ jen konÃ­Äek.}
+{241}{}{HrajeÅ¡ si se zÃ¡mkem, ale nakonec to vzdÃ¡Å¡. MusÃ­ bÃ½t i jinÃ½ zpÅ¯sob, jak zÃ¡mek opÄ›t uzamknout.}

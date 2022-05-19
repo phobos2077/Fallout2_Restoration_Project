@@ -1,63 +1,63 @@
-{100}{}{Vidíš atraktivní mladou enu.}
-{101}{}{Vidíš lázeòskou obsluhu.}
-{102}{}{Vidíš jednu z dívek Nosaté Sally.}
-{103}{}{Vidíš znudìnì vypadající enu.}
-{104}{}{Vidíš enu, která si tì prohlíí.}
-{105}{}{Tahle ena tì doslova svléká pohledem.}
-{106}{}{Vidíš mladou enu.}
-{110}{}{Vidíš atraktivní dívku. Na oblièeji má nanesenı nìjakı druh bílého pudru.}
-{111}{}{Vidíš enu støedního vìku s opravdu velmi pìknì vyvinutımi òadry.}
-{112}{}{Vidíš pøitalivou enu odìnou do pøiléhavıch šatù.}
-{113}{}{Vidíš enu, která se na tebe usmívá.}
-{120}{}{To bylo rychlı.}
-{121}{}{Kdypak to bylo naposledy, zlatíèko?}
-{122}{}{Snad to bude pøíštì delší.}
-{123}{}{Víš, tohle nejsou dostihy.}
-{124}{}{Neøíkají ti pøátelé 'Rychlíku'?}
-{125}{}{Kdyby byli všichni mí zákazníci tak rychlí, mohla bych jít døív domù.}
-{126}{}{Je to vìtší zábava, kdy poèkáš, a ti s tím pomùu.}
-{127}{}{Kdybys poèkal, a se svléknu, urèitì by se ti to líbilo víc.}
-{130}{}{To bylo opravdu pìkné. Jsi opravdovı chlap.}
-{131}{}{To bylo skvìlé. Jsi úasnı. Další!}
-{132}{}{Jo, zlatíèko, ještì nikdy jsem nic lepšího nezaila. (zív)}
-{133}{}{Jsi nejlepší. Brzy se vra.}
-{134}{}{Jsem si jistá, e uèiníš nìkteré dìvèe z tvého kmene velmi šastnou.}
-{135}{}{Ne zlato, na velikosti nezáleí. Bylo to hezké.}
+{100}{}{VidÃ­Å¡ atraktivnÃ­ mladou Å¾enu.}
+{101}{}{VidÃ­Å¡ lÃ¡zeÅˆskou obsluhu.}
+{102}{}{VidÃ­Å¡ jednu z dÃ­vek NosatÃ© Sally.}
+{103}{}{VidÃ­Å¡ znudÄ›nÄ› vypadajÃ­cÃ­ Å¾enu.}
+{104}{}{VidÃ­Å¡ Å¾enu, kterÃ¡ si tÄ› prohlÃ­Å¾Ã­.}
+{105}{}{Tahle Å¾ena tÄ› doslova svlÃ©kÃ¡ pohledem.}
+{106}{}{VidÃ­Å¡ mladou Å¾enu.}
+{110}{}{VidÃ­Å¡ atraktivnÃ­ dÃ­vku. Na obliÄeji mÃ¡ nanesenÃ½ nÄ›jakÃ½ druh bÃ­lÃ©ho pudru.}
+{111}{}{VidÃ­Å¡ Å¾enu stÅ™ednÃ­ho vÄ›ku s opravdu velmi pÄ›knÄ› vyvinutÃ½mi Åˆadry.}
+{112}{}{VidÃ­Å¡ pÅ™itaÅ¾livou Å¾enu odÄ›nou do pÅ™ilÃ©havÃ½ch Å¡atÅ¯.}
+{113}{}{VidÃ­Å¡ Å¾enu, kterÃ¡ se na tebe usmÃ­vÃ¡.}
+{120}{}{To bylo rychlÃ½.}
+{121}{}{Kdypak to bylo naposledy, zlatÃ­Äko?}
+{122}{}{Snad to bude pÅ™Ã­Å¡tÄ› delÅ¡Ã­.}
+{123}{}{VÃ­Å¡, tohle nejsou dostihy.}
+{124}{}{NeÅ™Ã­kajÃ­ ti pÅ™Ã¡telÃ© 'RychlÃ­ku'?}
+{125}{}{Kdyby byli vÅ¡ichni mÃ­ zÃ¡kaznÃ­ci tak rychlÃ­, mohla bych jÃ­t dÅ™Ã­v domÅ¯.}
+{126}{}{Je to vÄ›tÅ¡Ã­ zÃ¡bava, kdyÅ¾ poÄkÃ¡Å¡, aÅ¾ ti s tÃ­m pomÅ¯Å¾u.}
+{127}{}{Kdybys poÄkal, aÅ¾ se svlÃ©knu, urÄitÄ› by se ti to lÃ­bilo vÃ­c.}
+{130}{}{To bylo opravdu pÄ›knÃ©. Jsi opravdovÃ½ chlap.}
+{131}{}{To bylo skvÄ›lÃ©. Jsi ÃºÅ¾asnÃ½. DalÅ¡Ã­!}
+{132}{}{Jo, zlatÃ­Äko, jeÅ¡tÄ› nikdy jsem nic lepÅ¡Ã­ho nezaÅ¾ila. (zÃ­v)}
+{133}{}{Jsi nejlepÅ¡Ã­. Brzy se vraÅ¥.}
+{134}{}{Jsem si jistÃ¡, Å¾e uÄinÃ­Å¡ nÄ›kterÃ© dÄ›vÄe z tvÃ©ho kmene velmi Å¡Å¥astnou.}
+{135}{}{Ne zlato, na velikosti nezÃ¡leÅ¾Ã­. Bylo to hezkÃ©.}
 {136}{}{Nejsi jenom - hup na to a je to.}
-{137}{}{Hezkej malej šikula, co ho tam máš schovanıho...}
-{140}{}{Velikost je dùleitá! Ach ty záhady ivota... }
-{141}{}{A pøijdeš pøíštì, udìlám si pøesèas.}
-{142}{}{Jistì sis za svı peníze uil.}
-{143}{}{Na zbytek dne si budu muset vzít volno.}
-{144}{}{Páni! Taky se s tebou otøásla zem?}
-{145}{}{Teï u vím, jak se cítila Kateøina Veliká.}
+{137}{}{Hezkej malej Å¡ikula, co ho tam mÃ¡Å¡ schovanÃ½ho...}
+{140}{}{Velikost je dÅ¯leÅ¾itÃ¡! Ach ty zÃ¡hady Å¾ivota... }
+{141}{}{AÅ¾ pÅ™ijdeÅ¡ pÅ™Ã­Å¡tÄ›, udÄ›lÃ¡m si pÅ™esÄas.}
+{142}{}{JistÄ› sis za svÃ½ penÃ­ze uÅ¾il.}
+{143}{}{Na zbytek dne si budu muset vzÃ­t volno.}
+{144}{}{PÃ¡ni! Taky se s tebou otÅ™Ã¡sla zem?}
+{145}{}{TeÄ uÅ¾ vÃ­m, jak se cÃ­tila KateÅ™ina VelikÃ¡.}
 {150}{}{No, prachy jsou prachy.}
-{151}{}{Tohle bylo, hmm, jiné, øekla bych.}
-{152}{}{Tohle bylo fakt super. Další!}
-{153}{}{Ne, nemùeš pouívat mùj parfém.}
-{154}{}{No, aspoò je tvùj knírek menší, ne má vìtšina mıch zákazníkù.}
-{155}{}{Jseš si jistá, e jsi holka?}
-{160}{}{To bylo velmi nìné.}
-{161}{}{To bylo nezvyklé, ale rozhodnì ne špatné.}
-{162}{}{Myslím, e bych si to ráda nìkdy opìt vyzkoušela.}
-{163}{}{Mìli bychom se nìkdy sejít mimo pracovní dobu.}
-{164}{}{To bylo parádní, zlato.}
-{165}{}{Fíha! Od teï bude mùj ivot úplnì jinı.}
-{166}{}{Nevìdìla jsem, e to mùe bıt i pøíjemné.}
+{151}{}{Tohle bylo, hmm, jinÃ©, Å™ekla bych.}
+{152}{}{Tohle bylo fakt super. DalÅ¡Ã­!}
+{153}{}{Ne, nemÅ¯Å¾eÅ¡ pouÅ¾Ã­vat mÅ¯j parfÃ©m.}
+{154}{}{No, aspoÅˆ je tvÅ¯j knÃ­rek menÅ¡Ã­, neÅ¾ mÃ¡ vÄ›tÅ¡ina mÃ½ch zÃ¡kaznÃ­kÅ¯.}
+{155}{}{JseÅ¡ si jistÃ¡, Å¾e jsi holka?}
+{160}{}{To bylo velmi nÄ›Å¾nÃ©.}
+{161}{}{To bylo nezvyklÃ©, ale rozhodnÄ› ne Å¡patnÃ©.}
+{162}{}{MyslÃ­m, Å¾e bych si to rÃ¡da nÄ›kdy opÄ›t vyzkouÅ¡ela.}
+{163}{}{MÄ›li bychom se nÄ›kdy sejÃ­t mimo pracovnÃ­ dobu.}
+{164}{}{To bylo parÃ¡dnÃ­, zlato.}
+{165}{}{FÃ­ha! Od teÄ bude mÅ¯j Å¾ivot ÃºplnÄ› jinÃ½.}
+{166}{}{NevÄ›dÄ›la jsem, Å¾e to mÅ¯Å¾e bÃ½t i pÅ™Ã­jemnÃ©.}
 {170}{}{Jdi si promluvit s Nosatou Sally.}
-{171}{}{Vypadáš roztomile.}
-{172}{}{Hroznì tì miluju!}
-{173}{}{Pøijï se za mnou nìkdy podívat.}
-{174}{}{Ty víš jak na to, viï?}
-{175}{}{Bıvala jsem èistá jako lilie, ale pak jsem se nechala svést.}
-{176}{}{Suknièkáøi.}
-{177}{}{Nazdar tygøe.}
+{171}{}{VypadÃ¡Å¡ roztomile.}
+{172}{}{HroznÄ› tÄ› miluju!}
+{173}{}{PÅ™ijÄ se za mnou nÄ›kdy podÃ­vat.}
+{174}{}{Ty vÃ­Å¡ jak na to, viÄ?}
+{175}{}{BÃ½vala jsem ÄistÃ¡ jako lilie, ale pak jsem se nechala svÃ©st.}
+{176}{}{SukniÄkÃ¡Å™i.}
+{177}{}{Nazdar tygÅ™e.}
 {178}{}{Nazdar bejby...}
-{179}{}{Bì si promluvit se Sally, jestli chceš nìjakou akci.}
-{180}{}{Nahoru a dolù, nahoru a...}
-{181}{}{Vypadá to, e potøebuješ koupel.}
-{182}{}{Ó, divoch. Mám ráda exotiku.}
-{183}{}{Obvykle to s divochama nedìlám.}
-{184}{}{Líbí se ti co vidíš, bejby?}
-{185}{}{Chceš mì?}
-{186}{}{Jestli si chceš uít, budeš muset nejdøív zacálovat, zlato.}
+{179}{}{BÄ›Å¾ si promluvit se Sally, jestli chceÅ¡ nÄ›jakou akci.}
+{180}{}{Nahoru a dolÅ¯, nahoru a...}
+{181}{}{VypadÃ¡ to, Å¾e potÅ™ebujeÅ¡ koupel.}
+{182}{}{Ã“, divoch. MÃ¡m rÃ¡da exotiku.}
+{183}{}{Obvykle to s divochama nedÄ›lÃ¡m.}
+{184}{}{LÃ­bÃ­ se ti co vidÃ­Å¡, bejby?}
+{185}{}{ChceÅ¡ mÄ›?}
+{186}{}{Jestli si chceÅ¡ uÅ¾Ã­t, budeÅ¡ muset nejdÅ™Ã­v zacÃ¡lovat, zlato.}

@@ -1,7 +1,7 @@
-{100}{}{Vidíš terminál.}
-{101}{}{Terminál ovládání silovıch polí.}
-{200}{}{Terminál ovládání silovıch polí. Zadejte pøíkaz:}
+{100}{}{VidÃ­Å¡ terminÃ¡l.}
+{101}{}{TerminÃ¡l ovlÃ¡dÃ¡nÃ­ silovÃ½ch polÃ­.}
+{200}{}{TerminÃ¡l ovlÃ¡dÃ¡nÃ­ silovÃ½ch polÃ­. Zadejte pÅ™Ã­kaz:}
 {201}{}{Deaktivovat pole.}
 {202}{}{Konec.}
-{203}{}{Nedaøí se ti nièeho docílit, potøebuješ lepší technické znalosti.}
-{204}{}{(Po nìkolika minutách pokusù se zobrazí pìtivteøinovı odpoèet a zpráva.) Vypouštím testovací subjekty...}
+{203}{}{NedaÅ™Ã­ se ti niÄeho docÃ­lit, potÅ™ebujeÅ¡ lepÅ¡Ã­ technickÃ© znalosti.}
+{204}{}{(Po nÄ›kolika minutÃ¡ch pokusÅ¯ se zobrazÃ­ pÄ›tivteÅ™inovÃ½ odpoÄet a zprÃ¡va.) VypouÅ¡tÃ­m testovacÃ­ subjekty...}

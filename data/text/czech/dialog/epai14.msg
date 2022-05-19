@@ -1,12 +1,12 @@
-{100}{}{Tento generátor má poškozenou obvodovou desku. Moná by nebyl špatnı nápad podívat se po náhradních souèástkách na smetišti.}
-{101}{}{Vidíš generátor.}
-{102}{}{Vidíš generátor pro osvìtlení komplexu EPA.}
-{103}{}{Vidíš generátor, kterı pohání osvìtlení komplexu EPA.}
-{104}{}{Po zdlouhavém hledání nacházíš problém. Na obvodové desce je nìkolik poškozenıch èástí. Moná by se daly získat nìjaké náhradní díly z haraburdí.}
-{105}{}{Tak tady je ten problém!}
-{106}{}{Podaøilo se ti opravit poškozené èásti a uvést tak generátor zpìt do provozu.}
-{107}{}{Nemùeš pøijít na to, v èem je problém. Prostì to nefunguje.}
-{108}{}{U to funguje. Není tøeba s tím nìco dál dìlat.}
-{109}{}{Nìco je s tímto generátorem špatnì.}
+{100}{}{Tento generÃ¡tor mÃ¡ poÅ¡kozenou obvodovou desku. MoÅ¾nÃ¡ by nebyl Å¡patnÃ½ nÃ¡pad podÃ­vat se po nÃ¡hradnÃ­ch souÄÃ¡stkÃ¡ch na smetiÅ¡ti.}
+{101}{}{VidÃ­Å¡ generÃ¡tor.}
+{102}{}{VidÃ­Å¡ generÃ¡tor pro osvÄ›tlenÃ­ komplexu EPA.}
+{103}{}{VidÃ­Å¡ generÃ¡tor, kterÃ½ pohÃ¡nÃ­ osvÄ›tlenÃ­ komplexu EPA.}
+{104}{}{Po zdlouhavÃ©m hledÃ¡nÃ­ nachÃ¡zÃ­Å¡ problÃ©m. Na obvodovÃ© desce je nÄ›kolik poÅ¡kozenÃ½ch ÄÃ¡stÃ­. MoÅ¾nÃ¡ by se daly zÃ­skat nÄ›jakÃ© nÃ¡hradnÃ­ dÃ­ly z haraburdÃ­.}
+{105}{}{Tak tady je ten problÃ©m!}
+{106}{}{PodaÅ™ilo se ti opravit poÅ¡kozenÃ© ÄÃ¡sti a uvÃ©st tak generÃ¡tor zpÄ›t do provozu.}
+{107}{}{NemÅ¯Å¾eÅ¡ pÅ™ijÃ­t na to, v Äem je problÃ©m. ProstÄ› to nefunguje.}
+{108}{}{UÅ¾ to funguje. NenÃ­ tÅ™eba s tÃ­m nÄ›co dÃ¡l dÄ›lat.}
+{109}{}{NÄ›co je s tÃ­mto generÃ¡torem Å¡patnÄ›.}
 {200}{}{*vrrr*}
 {201}{}{*bzzt*}

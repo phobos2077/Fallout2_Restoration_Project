@@ -1,13 +1,13 @@
-{100}{}{Vidíš nìkolik beden naplnìnıch chemikáliemi.}
-{150}{}{Vidíš nìkolik beden naplnìnıch chemikáliemi. Nepodaøilo se ti zjistit, co je to za chemikálie, ale jsou zabalené
- *velice* peèlivì.}
-{175}{}{Vidíš Vertibird.}
-{199}{}{Vidíš Vertibird...vylepšenı druh vrtulníku. Bohuel nemáš nejmenší ponìtí o tom, jak se takovı Vertibird øídí.}
-{200}{}{(Z tìch chápkù mi bìhá mráz po zádech...)}
-{250}{}{Hele! Nìkdo nás sleduje!}
-{300}{}{Nechoï k tìm obrnìncùm. Oddìlají tì.}
-{350}{}{Do prdele! Co to dìláš, kreténe?!}
-{400}{}{[Vypadá to, e tam jsou dveøe. Otevøít a vlézt dovnitø?]}
-{450}{}{[Dveøe se za tebou zavírají a Vertibird startuje! Dveøe nejdou otevøít!]}
-{500}{}{Bedny jsou naplnìny tìkımi kovovımi kanystry. Podle toho, s jakou opatrností jsou zabaleny,
- by se dalo odhadnout, e obsahují nìjaké nebezpeèné chemikálie. }
+{100}{}{VidÃ­Å¡ nÄ›kolik beden naplnÄ›nÃ½ch chemikÃ¡liemi.}
+{150}{}{VidÃ­Å¡ nÄ›kolik beden naplnÄ›nÃ½ch chemikÃ¡liemi. NepodaÅ™ilo se ti zjistit, co je to za chemikÃ¡lie, ale jsou zabalenÃ©
+ *velice* peÄlivÄ›.}
+{175}{}{VidÃ­Å¡ Vertibird.}
+{199}{}{VidÃ­Å¡ Vertibird...vylepÅ¡enÃ½ druh vrtulnÃ­ku. BohuÅ¾el nemÃ¡Å¡ nejmenÅ¡Ã­ ponÄ›tÃ­ o tom, jak se takovÃ½ Vertibird Å™Ã­dÃ­.}
+{200}{}{(Z tÄ›ch chÃ¡pkÅ¯ mi bÄ›hÃ¡ mrÃ¡z po zÃ¡dech...)}
+{250}{}{Hele! NÄ›kdo nÃ¡s sleduje!}
+{300}{}{NechoÄ k tÄ›m obrnÄ›ncÅ¯m. OddÄ›lajÃ­ tÄ›.}
+{350}{}{Do prdele! Co to dÄ›lÃ¡Å¡, kretÃ©ne?!}
+{400}{}{[VypadÃ¡ to, Å¾e tam jsou dveÅ™e. OtevÅ™Ã­t a vlÃ©zt dovnitÅ™?]}
+{450}{}{[DveÅ™e se za tebou zavÃ­rajÃ­ a Vertibird startuje! DveÅ™e nejdou otevÅ™Ã­t!]}
+{500}{}{Bedny jsou naplnÄ›ny tÄ›Å¾kÃ½mi kovovÃ½mi kanystry. Podle toho, s jakou opatrnostÃ­ jsou zabaleny,
+ by se dalo odhadnout, Å¾e obsahujÃ­ nÄ›jakÃ© nebezpeÄnÃ© chemikÃ¡lie. }

@@ -1,1 +1,1 @@
-{100}{}{Vstupuješ do mìsta San Francisco. Všude jsou k vidìní mui a eny v orientálních odìvech.}
+{100}{}{VstupujeÅ¡ do mÄ›sta San Francisco. VÅ¡ude jsou k vidÄ›nÃ­ muÅ¾i a Å¾eny v orientÃ¡lnÃ­ch odÄ›vech.}

@@ -1,50 +1,50 @@
-{100}{}{Vidíš mladou enu, nejspíš babochlapa, obleèenou v pracovním odìvu.}
-{101}{}{Vidíš Dorothy, mìstského mechanika.}
-{102}{}{Podle té kolomazi a špíny na ní soudíš, e je nejspíš technickı typ. Obzvláš kdy ji všude pronásleduje údrbáøskı robot.}
-{103}{}{Ach boe, nìkdo musí nìco udìlat! Co mám dìlat? Potøebuju rychle pomoc.}
+{100}{}{VidÃ­Å¡ mladou Å¾enu, nejspÃ­Å¡ babochlapa, obleÄenou v pracovnÃ­m odÄ›vu.}
+{101}{}{VidÃ­Å¡ Dorothy, mÄ›stskÃ©ho mechanika.}
+{102}{}{Podle tÃ© kolomazi a Å¡pÃ­ny na nÃ­ soudÃ­Å¡, Å¾e je nejspÃ­Å¡ technickÃ½ typ. ObzvlÃ¡Å¡Å¥ kdyÅ¾ ji vÅ¡ude pronÃ¡sleduje ÃºdrÅ¾bÃ¡Å™skÃ½ robot.}
+{103}{}{Ach boÅ¾e, nÄ›kdo musÃ­ nÄ›co udÄ›lat! Co mÃ¡m dÄ›lat? PotÅ™ebuju rychle pomoc.}
 {104}{}{He? Ugh?}
-{105}{}{Co se dìje?}
-{106}{}{Ty jít. Zastavit zlá chlap. Zastavit, aby on nerozbít stroj. Rozumìt?}
-{107}{}{Dobøe.}
-{108}{}{Ne, já nejít.}
-{109}{}{Ach boe, jde o Jacka. Vyhrouje, e vyhodí elektrárnu do vzduchu. Musíš ho rychle zastavit. Zvládneš to, e jo?}
-{110}{}{Neztrácejme èas. Jdi napøed.}
-{111}{}{To není moje starost. Najdi si nìkoho jiného.}
-{112}{}{Poslouchej - Jack je uvnitø. Je naštvanı kvùli své bıvalé enì. V poslední dobì se mu moc nedaøilo. Øíká, e má bombu. Pokud ano, bude pravdìpodobnì vpravo vedle dynama. Zkus ho tøeba pøemluvit, ale hlavnì nedopus, aby tu bombu odpálil!}
-{113}{}{A jak to mám udìlat?}
-{114}{}{Neboj se, já to zvládnu.}
-{115}{}{Já nevím! Já jsem jenom mechanik. Ty u na nìco pøijdeš!}
-{116}{}{Do háje! Poškodil centrální jednotku. Musíme ji opravit døív, ne vyletí do vzduchu. Vyznáš se v opravování?}
+{105}{}{Co se dÄ›je?}
+{106}{}{Ty jÃ­t. Zastavit zlÃ¡ chlap. Zastavit, aby on nerozbÃ­t stroj. RozumÄ›t?}
+{107}{}{DobÅ™e.}
+{108}{}{Ne, jÃ¡ nejÃ­t.}
+{109}{}{Ach boÅ¾e, jde o Jacka. VyhroÅ¾uje, Å¾e vyhodÃ­ elektrÃ¡rnu do vzduchu. MusÃ­Å¡ ho rychle zastavit. ZvlÃ¡dneÅ¡ to, Å¾e jo?}
+{110}{}{NeztrÃ¡cejme Äas. Jdi napÅ™ed.}
+{111}{}{To nenÃ­ moje starost. Najdi si nÄ›koho jinÃ©ho.}
+{112}{}{Poslouchej - Jack je uvnitÅ™. Je naÅ¡tvanÃ½ kvÅ¯li svÃ© bÃ½valÃ© Å¾enÄ›. V poslednÃ­ dobÄ› se mu moc nedaÅ™ilo. Å˜Ã­kÃ¡, Å¾e mÃ¡ bombu. Pokud ano, bude pravdÄ›podobnÄ› vpravo vedle dynama. Zkus ho tÅ™eba pÅ™emluvit, ale hlavnÄ› nedopusÅ¥, aby tu bombu odpÃ¡lil!}
+{113}{}{A jak to mÃ¡m udÄ›lat?}
+{114}{}{Neboj se, jÃ¡ to zvlÃ¡dnu.}
+{115}{}{JÃ¡ nevÃ­m! JÃ¡ jsem jenom mechanik. Ty uÅ¾ na nÄ›co pÅ™ijdeÅ¡!}
+{116}{}{Do hÃ¡je! PoÅ¡kodil centrÃ¡lnÃ­ jednotku. MusÃ­me ji opravit dÅ™Ã­v, neÅ¾ vyletÃ­ do vzduchu. VyznÃ¡Å¡ se v opravovÃ¡nÃ­?}
 {117}{}{Ugh.}
 {118}{}{Ano.}
 {119}{}{Ne.}
 {120}{}{Co jsem si to namlouvala?}
-{121}{}{Zkus opravit generátor a já mezitím zkusím stabilizovat jádro. Øekla bych, e na to máš tak 30 sekund. Pak bude pozdì. Do toho, Toto.}
-{122}{}{Zatracenì! Tak se dr zpátky. Jestli neuspìju, vyletí všechno do vzduchu. Pojïme, Toto.}
-{123}{}{Opraveno? Bez náhradních dílù? To je úasné! Musíš mít opravdu velké znalosti.}
+{121}{}{Zkus opravit generÃ¡tor a jÃ¡ mezitÃ­m zkusÃ­m stabilizovat jÃ¡dro. Å˜ekla bych, Å¾e na to mÃ¡Å¡ tak 30 sekund. Pak bude pozdÄ›. Do toho, Toto.}
+{122}{}{ZatracenÄ›! Tak se drÅ¾ zpÃ¡tky. Jestli neuspÄ›ju, vyletÃ­ vÅ¡echno do vzduchu. PojÄme, Toto.}
+{123}{}{Opraveno? Bez nÃ¡hradnÃ­ch dÃ­lÅ¯? To je ÃºÅ¾asnÃ©! MusÃ­Å¡ mÃ­t opravdu velkÃ© znalosti.}
 {124}{}{E-he!}
-{125}{}{Prostì na to mám buòky.}
-{126}{}{U chápu. Ty jseš jeden z tìch pitomcù... jak se jim jenom øíká? Blbec. Hele, podívej, idiot nebo ne, dostaneš odmìnu. OD-MÌNU - ty osobnì. Já ti dát hezké kníky. Ty vidìt? Dostat prachy. Dobøe... ty stejnì neumíš èíst, tak co.}
-{127}{}{Podívej, není to nic moc, ale mám pár knih - rùzné staré technické pøíruèky. Jsou tvoje. Vem si je.}
-{128}{}{Podívej, Toto. To je ten cizinec, kterı nám pomohl. Ještì jednou díky, pane.}
-{129}{}{Do háje! Spadla celá sí. To zabere celou vìènost ne to opravím. No, není èas na zbyteèné øeèi. Pojïme na to, Toto.}
-{130}{}{Hele, nedávám ti za vinu to, co se stalo, ale opravdu nemám náladu na rozhovory.}
-{131}{}{Kdy jsem øíkala, e potøebuju pomoc, nemyslela jsem ho zabít! Opravdu to bylo nutné? Nebyla ádná jiná monost?}
+{125}{}{ProstÄ› na to mÃ¡m buÅˆky.}
+{126}{}{UÅ¾ chÃ¡pu. Ty jseÅ¡ jeden z tÄ›ch pitomcÅ¯... jak se jim jenom Å™Ã­kÃ¡? Blbec. Hele, podÃ­vej, idiot nebo ne, dostaneÅ¡ odmÄ›nu. OD-MÄšNU - ty osobnÄ›. JÃ¡ ti dÃ¡t hezkÃ© knÃ­Å¾ky. Ty vidÄ›t? Dostat prachy. DobÅ™e... ty stejnÄ› neumÃ­Å¡ ÄÃ­st, tak co.}
+{127}{}{PodÃ­vej, nenÃ­ to nic moc, ale mÃ¡m pÃ¡r knih - rÅ¯znÃ© starÃ© technickÃ© pÅ™Ã­ruÄky. Jsou tvoje. Vem si je.}
+{128}{}{PodÃ­vej, Toto. To je ten cizinec, kterÃ½ nÃ¡m pomohl. JeÅ¡tÄ› jednou dÃ­ky, pane.}
+{129}{}{Do hÃ¡je! Spadla celÃ¡ sÃ­Å¥. To zabere celou vÄ›Änost neÅ¾ to opravÃ­m. No, nenÃ­ Äas na zbyteÄnÃ© Å™eÄi. PojÄme na to, Toto.}
+{130}{}{Hele, nedÃ¡vÃ¡m ti za vinu to, co se stalo, ale opravdu nemÃ¡m nÃ¡ladu na rozhovory.}
+{131}{}{KdyÅ¾ jsem Å™Ã­kala, Å¾e potÅ™ebuju pomoc, nemyslela jsem ho zabÃ­t! Opravdu to bylo nutnÃ©? Nebyla Å¾Ã¡dnÃ¡ jinÃ¡ moÅ¾nost?}
 {132}{}{Ano.}
 {133}{}{Ne.}
-{134}{}{Kdy byla, tak proè tohle? Zabít ho... paneboe! Vypadni odsud, ty zrùdo!}
-{135}{}{To je hrozné. Zajímalo by mì, co ho to popadlo. Mìsto ti dluí podìkování. Podívej, není to nic moc, ale mám tady nìjaké technické pøíruèky. Moná by se daly prodat nebo tak nìco.}
-{136}{}{Nemluv na mì, ty zabijácká svinì.}
-{137}{}{Nemám èas na øeèi, cizinèe. Jmenuju se Dorothy, jsem mìstskı mechanik a tohle je Toto. Musím bìet.}
-{138}{}{Asi nemáš náhodou vesmírnı modulátor Q-38, e ne? Myslela jsem si to.}
-{139}{}{Ty jsi ho pøemluvil? To je úasné! Mìsto je teï tvım velkım dluníkem. Podívej, není to nic moc, ale mám tady nìjaké technické pøíruèky. Moná by se daly prodat nebo tak nìco.}
-{140}{}{Chci ti jenom øíct, e to s tím Jackem bylo opravdu úasné. Já a Toto teï musíme jít. Nashle!}
-{141}{}{Do háje! Mám jenom jednu radu - UTÍKEJTE!}
-{142}{}{Podívej, Toto. To je ten cizinec, kterı nám pomohl. Ještì jednou díky, sleèno.}
-{143}{}{Ty jsi ho pøemluvila? To je úasné! Mìsto je teï tvım velkım dluníkem. Podívej, není to nic moc, ale mám tady nìjaké technické pøíruèky. Moná by se daly prodat nebo tak nìco.}
-{144}{}{Neztrácejme èas! Myslí to vánì.}
-{145}{}{Musíš ho zastavit!}
-{146}{}{Nestùj tam jen tak... zastav ho!}
-{147}{}{Vypadni odsud, ty brahmíní lejno.}
-{148}{}{Nemluv na mì, ty zbabìlèe.}
-{149}{}{Jsi k nièemu!}
+{134}{}{KdyÅ¾ byla, tak proÄ tohle? ZabÃ­t ho... paneboÅ¾e! Vypadni odsud, ty zrÅ¯do!}
+{135}{}{To je hroznÃ©. ZajÃ­malo by mÄ›, co ho to popadlo. MÄ›sto ti dluÅ¾Ã­ podÄ›kovÃ¡nÃ­. PodÃ­vej, nenÃ­ to nic moc, ale mÃ¡m tady nÄ›jakÃ© technickÃ© pÅ™Ã­ruÄky. MoÅ¾nÃ¡ by se daly prodat nebo tak nÄ›co.}
+{136}{}{Nemluv na mÄ›, ty zabijÃ¡ckÃ¡ svinÄ›.}
+{137}{}{NemÃ¡m Äas na Å™eÄi, cizinÄe. Jmenuju se Dorothy, jsem mÄ›stskÃ½ mechanik a tohle je Toto. MusÃ­m bÄ›Å¾et.}
+{138}{}{Asi nemÃ¡Å¡ nÃ¡hodou vesmÃ­rnÃ½ modulÃ¡tor Q-38, Å¾e ne? Myslela jsem si to.}
+{139}{}{Ty jsi ho pÅ™emluvil? To je ÃºÅ¾asnÃ©! MÄ›sto je teÄ tvÃ½m velkÃ½m dluÅ¾nÃ­kem. PodÃ­vej, nenÃ­ to nic moc, ale mÃ¡m tady nÄ›jakÃ© technickÃ© pÅ™Ã­ruÄky. MoÅ¾nÃ¡ by se daly prodat nebo tak nÄ›co.}
+{140}{}{Chci ti jenom Å™Ã­ct, Å¾e to s tÃ­m Jackem bylo opravdu ÃºÅ¾asnÃ©. JÃ¡ a Toto teÄ musÃ­me jÃ­t. Nashle!}
+{141}{}{Do hÃ¡je! MÃ¡m jenom jednu radu - UTÃKEJTE!}
+{142}{}{PodÃ­vej, Toto. To je ten cizinec, kterÃ½ nÃ¡m pomohl. JeÅ¡tÄ› jednou dÃ­ky, sleÄno.}
+{143}{}{Ty jsi ho pÅ™emluvila? To je ÃºÅ¾asnÃ©! MÄ›sto je teÄ tvÃ½m velkÃ½m dluÅ¾nÃ­kem. PodÃ­vej, nenÃ­ to nic moc, ale mÃ¡m tady nÄ›jakÃ© technickÃ© pÅ™Ã­ruÄky. MoÅ¾nÃ¡ by se daly prodat nebo tak nÄ›co.}
+{144}{}{NeztrÃ¡cejme Äas! MyslÃ­ to vÃ¡Å¾nÄ›.}
+{145}{}{MusÃ­Å¡ ho zastavit!}
+{146}{}{NestÅ¯j tam jen tak... zastav ho!}
+{147}{}{Vypadni odsud, ty brahmÃ­nÃ­ lejno.}
+{148}{}{Nemluv na mÄ›, ty zbabÄ›lÄe.}
+{149}{}{Jsi k niÄemu!}

@@ -1,62 +1,62 @@
-{100}{}{Vidíš ohromnı, èernı, ocelovı sejf.}
-{101}{}{Vidíš èernou hranatou vìc s velkım kolem.}
-{200}{}{Vidíš ohromnou èernou, kovovou, hranatou vìc s velkım kolem.}
-{201}{}{Vidíš ohromnı, èernı, ocelovı sejf, kterı se zdá bıt pøíliš tìkı na to, aby se s ním dalo pohnout. Je na nìm èíselnı zámek.}
-{202}{}{Ahoj bedınko, já }
+{100}{}{VidÃ­Å¡ ohromnÃ½, ÄernÃ½, ocelovÃ½ sejf.}
+{101}{}{VidÃ­Å¡ Äernou hranatou vÄ›c s velkÃ½m kolem.}
+{200}{}{VidÃ­Å¡ ohromnou Äernou, kovovou, hranatou vÄ›c s velkÃ½m kolem.}
+{201}{}{VidÃ­Å¡ ohromnÃ½, ÄernÃ½, ocelovÃ½ sejf, kterÃ½ se zdÃ¡ bÃ½t pÅ™Ã­liÅ¡ tÄ›Å¾kÃ½ na to, aby se s nÃ­m dalo pohnout. Je na nÄ›m ÄÃ­selnÃ½ zÃ¡mek.}
+{202}{}{Ahoj bedÃ½nko, jÃ¡ }
 {203}{}{. Kdo ty?}
-{204}{}{Otoèit kolem.}
+{204}{}{OtoÄit kolem.}
 {205}{}{Odbelhat se.}
-{206}{}{Hmmmm. Moná, e ten sejf otevøou èísla na tìhlech tøech psích známkách...}
-{207}{}{Otáèet èíselníkem a poslouchat cvakání.}
-{208}{}{Náhodnì otáèet èíselníkem.}
+{206}{}{Hmmmm. MoÅ¾nÃ¡, Å¾e ten sejf otevÅ™ou ÄÃ­sla na tÄ›hlech tÅ™ech psÃ­ch znÃ¡mkÃ¡ch...}
+{207}{}{OtÃ¡Äet ÄÃ­selnÃ­kem a poslouchat cvakÃ¡nÃ­.}
+{208}{}{NÃ¡hodnÄ› otÃ¡Äet ÄÃ­selnÃ­kem.}
 {209}{}{Prozkoumat, zda v sejfu nejsou pasti.}
 {210}{}{Nechat sejf na pokoji.}
-{220}{}{CVAK! Sejf je nyní otevøenı.}
-{221}{}{Sejf je otevøenı.}
-{222}{}{Kolo ve tvé ruce se otoèilo! Zdá se, e by dveøe mohly jít otevøít.}
-{223}{}{Zdá se, e se ta velká hranatá vìc dá teï otevøít.}
-{224}{}{Otevøít dveøe.}
+{220}{}{CVAK! Sejf je nynÃ­ otevÅ™enÃ½.}
+{221}{}{Sejf je otevÅ™enÃ½.}
+{222}{}{Kolo ve tvÃ© ruce se otoÄilo! ZdÃ¡ se, Å¾e by dveÅ™e mohly jÃ­t otevÅ™Ã­t.}
+{223}{}{ZdÃ¡ se, Å¾e se ta velkÃ¡ hranatÃ¡ vÄ›c dÃ¡ teÄ otevÅ™Ã­t.}
+{224}{}{OtevÅ™Ã­t dveÅ™e.}
 {225}{}{Odbelhat se.}
-{226}{}{Sebrat vìci v sejfu.}
+{226}{}{Sebrat vÄ›ci v sejfu.}
 {227}{}{Nechat sejf na pokoji.}
-{235}{}{Peèlivá prohlídka sejfu odhalila èernı drát vedoucí do zemì pod sejfem. Po odstranìní hlíny spatøíš rozbušku pøipojenou k dynamitu s èasovaèem.}
-{236}{}{Hmmmm. Moná, e ten sejf otevøou èísla na tìhlech tøech psích známkách...}
-{237}{}{Pokusit se zneškodnit past.}
+{235}{}{PeÄlivÃ¡ prohlÃ­dka sejfu odhalila ÄernÃ½ drÃ¡t vedoucÃ­ do zemÄ› pod sejfem. Po odstranÄ›nÃ­ hlÃ­ny spatÅ™Ã­Å¡ rozbuÅ¡ku pÅ™ipojenou k dynamitu s ÄasovaÄem.}
+{236}{}{Hmmmm. MoÅ¾nÃ¡, Å¾e ten sejf otevÅ™ou ÄÃ­sla na tÄ›hlech tÅ™ech psÃ­ch znÃ¡mkÃ¡ch...}
+{237}{}{Pokusit se zneÅ¡kodnit past.}
 {238}{}{Nechat sejf na pokoji.}
-{250}{}{Nìkolik minut pomalu otáèíš knoflíky, ale nic se nestalo.}
-{251}{}{Hmmmm. Moná, e ten sejf otevøou èísla na tìhlech tøech psích známkách...}
-{252}{}{Otáèet èíselníkem a poslouchat cvakání.}
-{253}{}{Náhodnì otáèet èíselníkem.}
+{250}{}{NÄ›kolik minut pomalu otÃ¡ÄÃ­Å¡ knoflÃ­ky, ale nic se nestalo.}
+{251}{}{Hmmmm. MoÅ¾nÃ¡, Å¾e ten sejf otevÅ™ou ÄÃ­sla na tÄ›hlech tÅ™ech psÃ­ch znÃ¡mkÃ¡ch...}
+{252}{}{OtÃ¡Äet ÄÃ­selnÃ­kem a poslouchat cvakÃ¡nÃ­.}
+{253}{}{NÃ¡hodnÄ› otÃ¡Äet ÄÃ­selnÃ­kem.}
 {254}{}{Nechat sejf na pokoji.}
-{275}{}{Na sejfu nenacházíš ádné pasti.}
-{276}{}{Hmmmm. Moná, e ten sejf otevøou èísla na tìhlech tøech psích známkách...}
-{277}{}{Otáèet èíselníkem a poslouchat cvakání.}
-{278}{}{Náhodnì otáèet èíselníkem.}
+{275}{}{Na sejfu nenachÃ¡zÃ­Å¡ Å¾Ã¡dnÃ© pasti.}
+{276}{}{Hmmmm. MoÅ¾nÃ¡, Å¾e ten sejf otevÅ™ou ÄÃ­sla na tÄ›hlech tÅ™ech psÃ­ch znÃ¡mkÃ¡ch...}
+{277}{}{OtÃ¡Äet ÄÃ­selnÃ­kem a poslouchat cvakÃ¡nÃ­.}
+{278}{}{NÃ¡hodnÄ› otÃ¡Äet ÄÃ­selnÃ­kem.}
 {279}{}{Znovu zkontrolovat, zda nejsou v sejfu pasti.}
 {280}{}{Nechat sejf na pokoji.}
-{290}{}{Otáèíš knoflíkem... a v tom se najednou ozvalo CVAK. Sejf je nyní otevøenı!}
-{291}{}{Otáèíš náhodnì èíselníkem a najednou se èíselník zastaví... CVAK! Sejf je nyní otevøenı!}
-{292}{}{Haló! Halóóóóó! Bıt nìkdo doma?}
-{293}{}{Pøestat dìlat hovno a...}
+{290}{}{OtÃ¡ÄÃ­Å¡ knoflÃ­kem... a v tom se najednou ozvalo CVAK. Sejf je nynÃ­ otevÅ™enÃ½!}
+{291}{}{OtÃ¡ÄÃ­Å¡ nÃ¡hodnÄ› ÄÃ­selnÃ­kem a najednou se ÄÃ­selnÃ­k zastavÃ­... CVAK! Sejf je nynÃ­ otevÅ™enÃ½!}
+{292}{}{HalÃ³! HalÃ³Ã³Ã³Ã³Ã³! BÃ½t nÄ›kdo doma?}
+{293}{}{PÅ™estat dÄ›lat hovno a...}
 {294}{}{Jo, jsem dobrej...}
-{305}{}{Otáèíš knoflíkem, ale dveøe se neotvírají!}
-{306}{}{Nìkolik minut otáèíš èíselníky, ale nic se nestalo.}
-{307}{}{Halóóó? Haló bedınko...}
-{308}{}{Dál otáèet kolem.}
+{305}{}{OtÃ¡ÄÃ­Å¡ knoflÃ­kem, ale dveÅ™e se neotvÃ­rajÃ­!}
+{306}{}{NÄ›kolik minut otÃ¡ÄÃ­Å¡ ÄÃ­selnÃ­ky, ale nic se nestalo.}
+{307}{}{HalÃ³Ã³Ã³? HalÃ³ bedÃ½nko...}
+{308}{}{DÃ¡l otÃ¡Äet kolem.}
 {309}{}{Odbelhat se.}
-{310}{}{Hmmmm. Moná, e ten sejf otevøou èísla na tìhlech tøech psích známkách...}
-{311}{}{Otáèet èíselníkem a poslouchat cvakání.}
-{312}{}{Pokraèovat v náhodném otáèení èíselníky.}
+{310}{}{Hmmmm. MoÅ¾nÃ¡, Å¾e ten sejf otevÅ™ou ÄÃ­sla na tÄ›hlech tÅ™ech psÃ­ch znÃ¡mkÃ¡ch...}
+{311}{}{OtÃ¡Äet ÄÃ­selnÃ­kem a poslouchat cvakÃ¡nÃ­.}
+{312}{}{PokraÄovat v nÃ¡hodnÃ©m otÃ¡ÄenÃ­ ÄÃ­selnÃ­ky.}
 {313}{}{Nechat sejf na pokoji.}
-{320}{}{Ta vìc neodpovídá.}
-{321}{}{Èerná kovová hranatá vìc si tì nevšímá.}
-{322}{}{Kovová bedna tì ignoruje.}
-{323}{}{Halóóóó? Já }
+{320}{}{Ta vÄ›c neodpovÃ­dÃ¡.}
+{321}{}{ÄŒernÃ¡ kovovÃ¡ hranatÃ¡ vÄ›c si tÄ› nevÅ¡Ã­mÃ¡.}
+{322}{}{KovovÃ¡ bedna tÄ› ignoruje.}
+{323}{}{HalÃ³Ã³Ã³Ã³? JÃ¡ }
 {324}{}{. Kdo ty?}
-{325}{}{Otoèit kolem.}
+{325}{}{OtoÄit kolem.}
 {326}{}{Odbelhat se.}
-{340}{}{S chirurgickou pøesností zneškodòuješ rozbušku a vytahuješ dynamit z hlíny. Past je nyní zneškodnìna.}
-{341}{}{Tak a teï ještì rozlousknout sejf...}
+{340}{}{S chirurgickou pÅ™esnostÃ­ zneÅ¡kodÅˆujeÅ¡ rozbuÅ¡ku a vytahujeÅ¡ dynamit z hlÃ­ny. Past je nynÃ­ zneÅ¡kodnÄ›na.}
+{341}{}{Tak a teÄ jeÅ¡tÄ› rozlousknout sejf...}
 {342}{}{Nechat sejf na pokoji.}
-{343}{}{Pøi boji nemáš èas zkoumat sejf.}
-{344}{}{Sejf nájezdníkù byl úspìšnì zdolán.}
+{343}{}{PÅ™i boji nemÃ¡Å¡ Äas zkoumat sejf.}
+{344}{}{Sejf nÃ¡jezdnÃ­kÅ¯ byl ÃºspÄ›Å¡nÄ› zdolÃ¡n.}

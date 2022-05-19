@@ -1,5 +1,5 @@
-{100}{}{Vidíš mrtvolu. Vypadá to, e byla ohlodána nìjakımi zvíøaty.}
-{101}{}{Po bliším prozkoumání zjišuješ, e byl tento èlovìk pøed seráním zastøelen.}
-{102}{}{Vidíš tìlo mladé eny z Broken Hills.}
-{103}{}{Vypadá to, e ve zkrvavené podšívce kabátu je pøilepen nìjakı papírek.}
-{104}{}{Po bliším prozkoumání zjišuješ, e byl tento èlovìk pøed seráním zastøelen.}
+{100}{}{VidÃ­Å¡ mrtvolu. VypadÃ¡ to, Å¾e byla ohlodÃ¡na nÄ›jakÃ½mi zvÃ­Å™aty.}
+{101}{}{Po bliÅ¾Å¡Ã­m prozkoumÃ¡nÃ­ zjiÅ¡Å¥ujeÅ¡, Å¾e byl tento ÄlovÄ›k pÅ™ed seÅ¾rÃ¡nÃ­m zastÅ™elen.}
+{102}{}{VidÃ­Å¡ tÄ›lo mladÃ© Å¾eny z Broken Hills.}
+{103}{}{VypadÃ¡ to, Å¾e ve zkrvavenÃ© podÅ¡Ã­vce kabÃ¡tu je pÅ™ilepen nÄ›jakÃ½ papÃ­rek.}
+{104}{}{Po bliÅ¾Å¡Ã­m prozkoumÃ¡nÃ­ zjiÅ¡Å¥ujeÅ¡, Å¾e byl tento ÄlovÄ›k pÅ™ed seÅ¾rÃ¡nÃ­m zastÅ™elen.}

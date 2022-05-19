@@ -1,152 +1,152 @@
-{100}{}{Vidíš èlena Cechu otrokáøù.}
-{150}{}{Vidíš Metzgera, šéfa Cechu otrokáøù.}
+{100}{}{VidÃ­Å¡ Älena Cechu otrokÃ¡Å™Å¯.}
+{150}{}{VidÃ­Å¡ Metzgera, Å¡Ã©fa Cechu otrokÃ¡Å™Å¯.}
 {151}{}{[MLUVIT]}
-{152}{}{Stráe! Do útoku!}
+{152}{}{StrÃ¡Å¾e! Do Ãºtoku!}
 {153}{}{[KONEC]}
-{154}{}{Vra se ráno, sakra! Pracuju jen pøes den.}
+{154}{}{VraÅ¥ se rÃ¡no, sakra! Pracuju jen pÅ™es den.}
 {155}{}{[KONEC]}
-{156}{}{Co je? Zaèínáš mì pìknì štvát.}
+{156}{}{Co je? ZaÄÃ­nÃ¡Å¡ mÄ› pÄ›knÄ› Å¡tvÃ¡t.}
 {157}{}{Chci se omluvit.}
-{158}{}{Promiò, pøedtím jsem byl zfetovanej. Nemyslel jsem to tak.}
-{159}{}{Hele, co máš za problém?}
-{160}{}{Chci se na nìco zeptat.}
-{161}{}{U to tak vypadá. Nashle.}
+{158}{}{PromiÅˆ, pÅ™edtÃ­m jsem byl zfetovanej. Nemyslel jsem to tak.}
+{159}{}{Hele, co mÃ¡Å¡ za problÃ©m?}
+{160}{}{Chci se na nÄ›co zeptat.}
+{161}{}{UÅ¾ to tak vypadÃ¡. Nashle.}
 {162}{}{Coo?}
-{163}{}{No, tak na to u je moc pozdì. Vypadni.}
-{164}{}{Prosím, prosím, prosím, omlouvám se.}
-{165}{}{No dobøe, za pokus to stálo.}
+{163}{}{No, tak na to uÅ¾ je moc pozdÄ›. Vypadni.}
+{164}{}{ProsÃ­m, prosÃ­m, prosÃ­m, omlouvÃ¡m se.}
+{165}{}{No dobÅ™e, za pokus to stÃ¡lo.}
 {166}{}{Tak jdi do hajzlu!}
-{167}{}{Dobøe, dobøe. Pøijímám omluvu.}
-{168}{}{Skvìlé. Mùu se tì na nìco zeptat?}
-{169}{}{Jsem rád, e jsme si to vyøíkali. Uvidíme se pozdìji.}
-{170}{}{Zdravím. Rád tì vidím.}
-{171}{}{Ahoj, Metzgere. Musíme si promluvit.}
-{172}{}{Nápodobnì. Nashle.}
-{173}{}{Škyt.}
-{174}{}{Jsem Metzger, šéf Cechu otrokáøù. Co potøebuješ?}
-{175}{}{Ano, mám nìjaké otázky.}
-{176}{}{Ne, díky. U pùjdu.}
+{167}{}{DobÅ™e, dobÅ™e. PÅ™ijÃ­mÃ¡m omluvu.}
+{168}{}{SkvÄ›lÃ©. MÅ¯Å¾u se tÄ› na nÄ›co zeptat?}
+{169}{}{Jsem rÃ¡d, Å¾e jsme si to vyÅ™Ã­kali. UvidÃ­me se pozdÄ›ji.}
+{170}{}{ZdravÃ­m. RÃ¡d tÄ› vidÃ­m.}
+{171}{}{Ahoj, Metzgere. MusÃ­me si promluvit.}
+{172}{}{NÃ¡podobnÄ›. Nashle.}
+{173}{}{Å kyt.}
+{174}{}{Jsem Metzger, Å¡Ã©f Cechu otrokÃ¡Å™Å¯. Co potÅ™ebujeÅ¡?}
+{175}{}{Ano, mÃ¡m nÄ›jakÃ© otÃ¡zky.}
+{176}{}{Ne, dÃ­ky. UÅ¾ pÅ¯jdu.}
 {177}{}{Swavuh???}
-{178}{}{Odejdi prosím. Hned.}
+{178}{}{Odejdi prosÃ­m. Hned.}
 {179}{}{Nebo co?}
-{180}{}{Dobøe. Ale ještì se vrátím!}
-{181}{}{Dobøe. Nashle.}
-{182}{}{Co potøebujete vìdìt?}
-{183}{}{O obchodníkovi Vicovi...}
-{184}{}{Mùu se pøipojit k Cechu otrokáøù?}
-{185}{}{Chci prodat svého manela do otroctví.}
-{186}{}{Chci prodat svoji manelku. Za kolik?}
-{187}{}{Chci prodat tady jednoho z mıch pøátel.}
-{188}{}{Povìz mi nìco o Cechu.}
-{189}{}{Jaká mìsta kupují vaše otroky?}
+{180}{}{DobÅ™e. Ale jeÅ¡tÄ› se vrÃ¡tÃ­m!}
+{181}{}{DobÅ™e. Nashle.}
+{182}{}{Co potÅ™ebujete vÄ›dÄ›t?}
+{183}{}{O obchodnÃ­kovi Vicovi...}
+{184}{}{MÅ¯Å¾u se pÅ™ipojit k Cechu otrokÃ¡Å™Å¯?}
+{185}{}{Chci prodat svÃ©ho manÅ¾ela do otroctvÃ­.}
+{186}{}{Chci prodat svoji manÅ¾elku. Za kolik?}
+{187}{}{Chci prodat tady jednoho z mÃ½ch pÅ™Ã¡tel.}
+{188}{}{PovÄ›z mi nÄ›co o Cechu.}
+{189}{}{JakÃ¡ mÄ›sta kupujÃ­ vaÅ¡e otroky?}
 {190}{}{Chci koupit otroka.}
-{191}{}{Hledám Vault 13. Neslyšel jsi o nìm nìco?}
-{192}{}{Metzger? To je zvláštní jméno.}
-{193}{}{Nic. U musím jít.}
-{195}{}{Pochází ze starıho jazyka, z pøedváleènı doby nebo tak nìjak.}
-{196}{}{Metzger znamená øezník. Trefnı, nemyslíš?}
+{191}{}{HledÃ¡m Vault 13. NeslyÅ¡el jsi o nÄ›m nÄ›co?}
+{192}{}{Metzger? To je zvlÃ¡Å¡tnÃ­ jmÃ©no.}
+{193}{}{Nic. UÅ¾ musÃ­m jÃ­t.}
+{195}{}{PochÃ¡zÃ­ ze starÃ½ho jazyka, z pÅ™edvÃ¡leÄnÃ½ doby nebo tak nÄ›jak.}
+{196}{}{Metzger znamenÃ¡ Å™eznÃ­k. TrefnÃ½, nemyslÃ­Å¡?}
 {197}{}{That was my great grandfather's name. He came from somewhere far to
  the east. Across a large body of water.}
-{198}{}{Èetl jsem nìjakou knihu o Metzgerovi. Byl prezident nebo nìco takového.}
-{199}{}{To je mi ale náhodièka, divochu.}
-{200}{}{Je to nìmacky, nìmecky, nimecky nebo tak nìjak. Takovej starobylej jazyk z dávnı doby.}
+{198}{}{ÄŒetl jsem nÄ›jakou knihu o Metzgerovi. Byl prezident nebo nÄ›co takovÃ©ho.}
+{199}{}{To je mi ale nÃ¡hodiÄka, divochu.}
+{200}{}{Je to nÄ›macky, nÄ›mecky, nimecky nebo tak nÄ›jak. Takovej starobylej jazyk z dÃ¡vnÃ½ doby.}
 {201}{}{I ty, Brute?}
-{202}{}{Aha. Mám ještì otázku.}
-{203}{}{To je ta nejblbìjší vìc, kterou jsem kdy slyšel.}
-{204}{}{Fascinující. U musím jít.}
+{202}{}{Aha. MÃ¡m jeÅ¡tÄ› otÃ¡zku.}
+{203}{}{To je ta nejblbÄ›jÅ¡Ã­ vÄ›c, kterou jsem kdy slyÅ¡el.}
+{204}{}{FascinujÃ­cÃ­. UÅ¾ musÃ­m jÃ­t.}
 {205}{}{Our mission is to provide a steady and high-quality labor force to
  handle the ever-growing demands of the larger cities. Would you like to join?}
-{206}{}{Jistì. Zní to skvìle.}
-{207}{}{Na to zapomeò.}
-{208}{}{Zpátky k mojí otázce. Jaká mìsta kupují vaše otroky?}
-{209}{}{Promiò, ale to je interní záleitost.}
-{210}{}{Dobøe. Hlásím se!}
-{211}{}{Ne! Jste zvrácení lidé!}
-{212}{}{Popøemıšlím o tom. Mám ještì nìjaké otázky.}
-{213}{}{Hmm, vrátím se pozdìji.}
-{214}{}{Musíme ti udìlat malou znaèku na èele, aby byla jasná tvoje pøíslušnost k cechu. Jsi pøipraven?}
-{215}{}{To zní skvìle! Udìlejte to!}
-{216}{}{Myslím, e ne. Mùu se ještì na nìco zeptat?}
-{217}{}{Teï nemám èas. U musím jít.}
-{218}{}{Vítej v Cechu!}
-{219}{}{Skvìle, mám otázky!}
-{220}{}{Dobøe, díky. Ještì se vrátím.}
-{221}{}{Vault 13? Ne. Poèkej... myslím, e Vic je z Vault City. Moná je to ono.}
+{206}{}{JistÄ›. ZnÃ­ to skvÄ›le.}
+{207}{}{Na to zapomeÅˆ.}
+{208}{}{ZpÃ¡tky k mojÃ­ otÃ¡zce. JakÃ¡ mÄ›sta kupujÃ­ vaÅ¡e otroky?}
+{209}{}{PromiÅˆ, ale to je internÃ­ zÃ¡leÅ¾itost.}
+{210}{}{DobÅ™e. HlÃ¡sÃ­m se!}
+{211}{}{Ne! Jste zvrÃ¡cenÃ­ lidÃ©!}
+{212}{}{PopÅ™emÃ½Å¡lÃ­m o tom. MÃ¡m jeÅ¡tÄ› nÄ›jakÃ© otÃ¡zky.}
+{213}{}{Hmm, vrÃ¡tÃ­m se pozdÄ›ji.}
+{214}{}{MusÃ­me ti udÄ›lat malou znaÄku na Äele, aby byla jasnÃ¡ tvoje pÅ™Ã­sluÅ¡nost k cechu. Jsi pÅ™ipraven?}
+{215}{}{To znÃ­ skvÄ›le! UdÄ›lejte to!}
+{216}{}{MyslÃ­m, Å¾e ne. MÅ¯Å¾u se jeÅ¡tÄ› na nÄ›co zeptat?}
+{217}{}{TeÄ nemÃ¡m Äas. UÅ¾ musÃ­m jÃ­t.}
+{218}{}{VÃ­tej v Cechu!}
+{219}{}{SkvÄ›le, mÃ¡m otÃ¡zky!}
+{220}{}{DobÅ™e, dÃ­ky. JeÅ¡tÄ› se vrÃ¡tÃ­m.}
+{221}{}{Vault 13? Ne. PoÄkej... myslÃ­m, Å¾e Vic je z Vault City. MoÅ¾nÃ¡ je to ono.}
 {222}{}{Jo a kde to je?}
-{223}{}{Ne, ale mám ještì další otázku.}
-{224}{}{Ne, zapomeò na to.}
-{225}{}{Prodáváme vìtšinu našich otrokù do Vault City a do New Rena. New Reno je jihovıchodnì odsud a obchoduje s ním vìtšina Denu.}
+{223}{}{Ne, ale mÃ¡m jeÅ¡tÄ› dalÅ¡Ã­ otÃ¡zku.}
+{224}{}{Ne, zapomeÅˆ na to.}
+{225}{}{ProdÃ¡vÃ¡me vÄ›tÅ¡inu naÅ¡ich otrokÅ¯ do Vault City a do New Rena. New Reno je jihovÃ½chodnÄ› odsud a obchoduje s nÃ­m vÄ›tÅ¡ina Denu.}
 {226}{}{Kde je Vault City?}
-{227}{}{Mám další otázky.}
-{228}{}{Díky, u musím jít.}
-{229}{}{Vault City je odsud na vıchod a trochu na jih. Vic odtamtud pochází.}
-{230}{}{Mám další otázky.}
-{231}{}{Díky, u pùjdu.}
-{232}{}{Hmm, vypadá jako zdravı otrok. Dám ti za nìj }
-{233}{}{ dolarù.}
-{234}{}{Dobøe! Dohodnuto.}
-{235}{}{Eh, zapomeò na to.}
-{236}{}{V ádném pøípadì! Chci dvojnásobek!}
-{237}{}{Jsi pìknej vydøiduch. Tady jsou peníze!}
-{238}{}{Díky. Mám další otázky.}
-{239}{}{Dík. Naskle.}
-{240}{}{Ještì nìco?}
-{241}{}{Ano, mám otázku.}
+{227}{}{MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
+{228}{}{DÃ­ky, uÅ¾ musÃ­m jÃ­t.}
+{229}{}{Vault City je odsud na vÃ½chod a trochu na jih. Vic odtamtud pochÃ¡zÃ­.}
+{230}{}{MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
+{231}{}{DÃ­ky, uÅ¾ pÅ¯jdu.}
+{232}{}{Hmm, vypadÃ¡ jako zdravÃ½ otrok. DÃ¡m ti za nÄ›j }
+{233}{}{ dolarÅ¯.}
+{234}{}{DobÅ™e! Dohodnuto.}
+{235}{}{Eh, zapomeÅˆ na to.}
+{236}{}{V Å¾Ã¡dnÃ©m pÅ™Ã­padÄ›! Chci dvojnÃ¡sobek!}
+{237}{}{Jsi pÄ›knej vydÅ™iduch. Tady jsou penÃ­ze!}
+{238}{}{DÃ­ky. MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
+{239}{}{DÃ­k. Naskle.}
+{240}{}{JeÅ¡tÄ› nÄ›co?}
+{241}{}{Ano, mÃ¡m otÃ¡zku.}
 {242}{}{Ne. Nashle.}
-{243}{}{Kterıho "pøítele" chceš prodat?}
-{244}{}{Eh, zapomeò na to.}
-{245}{}{Zajímavı. Dám ti za nìj }
-{246}{}{ dolarù.}
-{247}{}{Prodáno!}
-{248}{}{Ne, díky.}
-{249}{}{Chci víc penìz!}
-{250}{}{Dobøe, dám ti za nìj }
-{251}{}{ , ale ne víc!}
-{252}{}{Prodáno!}
-{253}{}{To je málo.}
-{254}{}{To je moc málo. Odcházím.}
-{255}{}{Co chceš Vicovi? Je teï mùj majetek. Nemìl se mnou vyjebat.}
+{243}{}{KterÃ½ho "pÅ™Ã­tele" chceÅ¡ prodat?}
+{244}{}{Eh, zapomeÅˆ na to.}
+{245}{}{ZajÃ­mavÃ½. DÃ¡m ti za nÄ›j }
+{246}{}{ dolarÅ¯.}
+{247}{}{ProdÃ¡no!}
+{248}{}{Ne, dÃ­ky.}
+{249}{}{Chci vÃ­c penÄ›z!}
+{250}{}{DobÅ™e, dÃ¡m ti za nÄ›j }
+{251}{}{ , ale ne vÃ­c!}
+{252}{}{ProdÃ¡no!}
+{253}{}{To je mÃ¡lo.}
+{254}{}{To je moc mÃ¡lo. OdchÃ¡zÃ­m.}
+{255}{}{Co chceÅ¡ Vicovi? Je teÄ mÅ¯j majetek. NemÄ›l se mnou vyjebat.}
 {256}{}{Chci ho koupit.}
-{257}{}{Proè ho tady dríš?}
-{258}{}{O nièem. To je jedno.}
-{259}{}{Není na prodej... zatím.}
-{260}{}{Proè ne?}
-{261}{}{Aha, dobøe.}
-{262}{}{Bude tì stát $2000.}
-{263}{}{Tady jsou peníze.}
-{264}{}{To je moc. Moná pozdìji.}
-{265}{}{Stojí $1000.}
-{266}{}{Tady jsou peníze.}
-{267}{}{Tolik u sebe nemám. Zatím.}
-{268}{}{Naše rádio je rozbitı a on má za úkol ho opravit.}
+{257}{}{ProÄ ho tady drÅ¾Ã­Å¡?}
+{258}{}{O niÄem. To je jedno.}
+{259}{}{NenÃ­ na prodej... zatÃ­m.}
+{260}{}{ProÄ ne?}
+{261}{}{Aha, dobÅ™e.}
+{262}{}{Bude tÄ› stÃ¡t $2000.}
+{263}{}{Tady jsou penÃ­ze.}
+{264}{}{To je moc. MoÅ¾nÃ¡ pozdÄ›ji.}
+{265}{}{StojÃ­ $1000.}
+{266}{}{Tady jsou penÃ­ze.}
+{267}{}{Tolik u sebe nemÃ¡m. ZatÃ­m.}
+{268}{}{NaÅ¡e rÃ¡dio je rozbitÃ½ a on mÃ¡ za Ãºkol ho opravit.}
 {269}{}{Aha.}
-{270}{}{Nemáš dost penìz!}
-{271}{}{A sakra. Mùu se na nìco zeptat?}
-{272}{}{Promiò, ještì se vrátím.}
-{307}{}{Jak se opovauješ sem znovu pøijít potom, co jsi opustil svı bratry bìhem honu na otroky? Stráe! Do útoku!}
+{270}{}{NemÃ¡Å¡ dost penÄ›z!}
+{271}{}{A sakra. MÅ¯Å¾u se na nÄ›co zeptat?}
+{272}{}{PromiÅˆ, jeÅ¡tÄ› se vrÃ¡tÃ­m.}
+{307}{}{Jak se opovaÅ¾ujeÅ¡ sem znovu pÅ™ijÃ­t potom, co jsi opustil svÃ½ bratry bÄ›hem honu na otroky? StrÃ¡Å¾e! Do Ãºtoku!}
 {308}{}{[KONEC]}
-{309}{}{Vıbornì! Poèítej ale s tím, e ti cesta tam a zpìt pár dní zabere. Jsi pøipraven vyrazit?}
-{310}{}{Ne. Ještì se vrátím.}
-{311}{}{Ano, jsem pøipraven. Pojïme.}
-{312}{}{Á, jsi zpìt z honu na otroky. Tak se podíváme, jak se ti daøilo...}
-{313}{}{[Více]}
-{314}{}{[Více]}
-{315}{}{Zabil jsi potenciální otroky! Mrtvej èlovìk je nám k nièemu! Zabíjej jenom ty, kterı pøedstavujou hrozbu. Ti ostatní jsou neškodní.}
-{316}{}{[Více]}
-{317}{}{Nepøivedl jsi ádnı otroky! Co to s tebou k èertu je? Tady se snaíme peníze vydìlat, ne prodìlat.}
-{318}{}{[Více]}
-{319}{}{Celkem ti to šlo dobøe. Pokraèuj v dobrı práci a moná si tì tu i chvíli nechám.}
-{320}{}{Díky. Budu se snait.}
-{321}{}{Nevím, jestli se mi to a tak líbí.}
-{322}{}{Potøebuješ zlepšit svoji techniku získávání otrokù.}
-{323}{}{Zkusím to.}
-{324}{}{Omlouvám se za svùj chabı vıkon.}
-{325}{}{Myslím, e mi to jde docela dobøe.}
-{326}{}{Zatracenì! Vedl sis otøesnì. Snaíš se mì zruinovat? Pøíštì si dej vìtší pozor. Nemusíš je všechny zabít! Zabíjej jenom ty vzpurnı. Ty bezbrannı nech do sbírky.}
-{327}{}{Promiò, Metzgere.}
-{328}{}{Hele, je to fuška bıt otrokáøem!}
-{329}{}{Chtìl bych vidìt tebe.}
-{330}{}{Chci jít na hon otrokù.}
-{331}{}{Zatracenì! Nesnáším, kdy ztratím na honu èlena cechu. Zkuste si víc krejt záda!}
-{332}{}{Celkem ti to šlo dobøe. Tady máš $}
-{333}{}{ jako motivaèní bonus pro další dobøe odvedenou práci.}
+{309}{}{VÃ½bornÄ›! PoÄÃ­tej ale s tÃ­m, Å¾e ti cesta tam a zpÄ›t pÃ¡r dnÃ­ zabere. Jsi pÅ™ipraven vyrazit?}
+{310}{}{Ne. JeÅ¡tÄ› se vrÃ¡tÃ­m.}
+{311}{}{Ano, jsem pÅ™ipraven. PojÄme.}
+{312}{}{Ã, jsi zpÄ›t z honu na otroky. Tak se podÃ­vÃ¡me, jak se ti daÅ™ilo...}
+{313}{}{[VÃ­ce]}
+{314}{}{[VÃ­ce]}
+{315}{}{Zabil jsi potenciÃ¡lnÃ­ otroky! Mrtvej ÄlovÄ›k je nÃ¡m k niÄemu! ZabÃ­jej jenom ty, kterÃ½ pÅ™edstavujou hrozbu. Ti ostatnÃ­ jsou neÅ¡kodnÃ­.}
+{316}{}{[VÃ­ce]}
+{317}{}{NepÅ™ivedl jsi Å¾Ã¡dnÃ½ otroky! Co to s tebou k Äertu je? Tady se snaÅ¾Ã­me penÃ­ze vydÄ›lat, ne prodÄ›lat.}
+{318}{}{[VÃ­ce]}
+{319}{}{Celkem ti to Å¡lo dobÅ™e. PokraÄuj v dobrÃ½ prÃ¡ci a moÅ¾nÃ¡ si tÄ› tu i chvÃ­li nechÃ¡m.}
+{320}{}{DÃ­ky. Budu se snaÅ¾it.}
+{321}{}{NevÃ­m, jestli se mi to aÅ¾ tak lÃ­bÃ­.}
+{322}{}{PotÅ™ebujeÅ¡ zlepÅ¡it svoji techniku zÃ­skÃ¡vÃ¡nÃ­ otrokÅ¯.}
+{323}{}{ZkusÃ­m to.}
+{324}{}{OmlouvÃ¡m se za svÅ¯j chabÃ½ vÃ½kon.}
+{325}{}{MyslÃ­m, Å¾e mi to jde docela dobÅ™e.}
+{326}{}{ZatracenÄ›! Vedl sis otÅ™esnÄ›. SnaÅ¾Ã­Å¡ se mÄ› zruinovat? PÅ™Ã­Å¡tÄ› si dej vÄ›tÅ¡Ã­ pozor. NemusÃ­Å¡ je vÅ¡echny zabÃ­t! ZabÃ­jej jenom ty vzpurnÃ½. Ty bezbrannÃ½ nech do sbÃ­rky.}
+{327}{}{PromiÅˆ, Metzgere.}
+{328}{}{Hele, je to fuÅ¡ka bÃ½t otrokÃ¡Å™em!}
+{329}{}{ChtÄ›l bych vidÄ›t tebe.}
+{330}{}{Chci jÃ­t na hon otrokÅ¯.}
+{331}{}{ZatracenÄ›! NesnÃ¡Å¡Ã­m, kdyÅ¾ ztratÃ­m na honu Älena cechu. Zkuste si vÃ­c krejt zÃ¡da!}
+{332}{}{Celkem ti to Å¡lo dobÅ™e. Tady mÃ¡Å¡ $}
+{333}{}{ jako motivaÄnÃ­ bonus pro dalÅ¡Ã­ dobÅ™e odvedenou prÃ¡ci.}

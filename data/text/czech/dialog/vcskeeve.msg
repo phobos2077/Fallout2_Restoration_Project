@@ -1,159 +1,159 @@
-{100}{}{Vidíš Skeeva, asistenta Wallace.}
-{101}{}{Vidíš hubeného mladíka. Jeho oèi mihotají sem a tam.}
-{102}{}{Vidíš Skeeva, asistenta Wallace.}
-{103}{}{Vidíš hubeného mladíka. Jeho oèi mihotají sem a tam.}
-{104}{}{Hej, nemáš nìjaké Horrigany? Mùu je prodat za padesát, moná sto babek, a dám ti za to 10% podíl.}
-{105}{}{Ztra se.}
-{106}{}{Vypadni. Nemám ti co øíct.}
-{107}{}{Och, eh, zdravím, Kapitáne. Hezkı den, e?}
-{108}{}{A heleme se, náš novı Obèan.}
-{109}{}{Zdravím, "Obèane."}
-{110}{}{Nemùeš sem brát mutanty.}
-{111}{}{Nemùeš sem brát ghouly.}
-{112}{}{V noci máme zavøeno. Pøijï ráno.}
-{113}{}{Podívej, venkovane, jestli máš nìco k proclení, jdi za Wallacem dozadu, ano? Pøipraví ti všechny formuláøe, které budeš potøebovat.}
-{114}{}{Formule potøebovat?}
+{100}{}{VidÃ­Å¡ Skeeva, asistenta Wallace.}
+{101}{}{VidÃ­Å¡ hubenÃ©ho mladÃ­ka. Jeho oÄi mihotajÃ­ sem a tam.}
+{102}{}{VidÃ­Å¡ Skeeva, asistenta Wallace.}
+{103}{}{VidÃ­Å¡ hubenÃ©ho mladÃ­ka. Jeho oÄi mihotajÃ­ sem a tam.}
+{104}{}{Hej, nemÃ¡Å¡ nÄ›jakÃ© Horrigany? MÅ¯Å¾u je prodat za padesÃ¡t, moÅ¾nÃ¡ sto babek, a dÃ¡m ti za to 10% podÃ­l.}
+{105}{}{ZtraÅ¥ se.}
+{106}{}{Vypadni. NemÃ¡m ti co Å™Ã­ct.}
+{107}{}{Och, eh, zdravÃ­m, KapitÃ¡ne. HezkÃ½ den, Å¾e?}
+{108}{}{A heleme se, nÃ¡Å¡ novÃ½ ObÄan.}
+{109}{}{ZdravÃ­m, "ObÄane."}
+{110}{}{NemÅ¯Å¾eÅ¡ sem brÃ¡t mutanty.}
+{111}{}{NemÅ¯Å¾eÅ¡ sem brÃ¡t ghouly.}
+{112}{}{V noci mÃ¡me zavÅ™eno. PÅ™ijÄ rÃ¡no.}
+{113}{}{PodÃ­vej, venkovane, jestli mÃ¡Å¡ nÄ›co k proclenÃ­, jdi za Wallacem dozadu, ano? PÅ™ipravÃ­ ti vÅ¡echny formulÃ¡Å™e, kterÃ© budeÅ¡ potÅ™ebovat.}
+{114}{}{Formule potÅ™ebovat?}
 {115}{}{Odbelhat se.}
-{116}{}{Eh... co je tohle za místo?}
-{117}{}{Tak dobøe. Díky.}
-{118}{}{Tohle je CELNÍ úøad, jak je napsáno na ceduli pøed dveømi. Jestli nemáš nic k proclení, tak co tady vlastnì chceš?}
-{119}{}{Hledám Vault.}
-{120}{}{Chci se podívat do mìsta.}
-{121}{}{Jeliko jsi celník a tak, nemáš nìjakou "radu", jak dostat do mìsta jistı druh zboí?}
-{122}{}{Nic. Promiò, e obtìuju.}
-{123}{}{Vault? Je ve mìstì. Proè se ptáš? Chceš se dostat za bránu?}
+{116}{}{Eh... co je tohle za mÃ­sto?}
+{117}{}{Tak dobÅ™e. DÃ­ky.}
+{118}{}{Tohle je CELNÃ ÃºÅ™ad, jak je napsÃ¡no na ceduli pÅ™ed dveÅ™mi. Jestli nemÃ¡Å¡ nic k proclenÃ­, tak co tady vlastnÄ› chceÅ¡?}
+{119}{}{HledÃ¡m Vault.}
+{120}{}{Chci se podÃ­vat do mÄ›sta.}
+{121}{}{JelikoÅ¾ jsi celnÃ­k a tak, nemÃ¡Å¡ nÄ›jakou "radu", jak dostat do mÄ›sta jistÃ½ druh zboÅ¾Ã­?}
+{122}{}{Nic. PromiÅˆ, Å¾e obtÄ›Å¾uju.}
+{123}{}{Vault? Je ve mÄ›stÄ›. ProÄ se ptÃ¡Å¡? ChceÅ¡ se dostat za brÃ¡nu?}
 {124}{}{Ano.}
-{125}{}{Ne, jen se tak dívám. Díky.}
-{126}{}{No, mùeš jít za mım šéfem, Wallacem, a ZKUSIT získat povolení ke vstupu, ale je to ztráta èasu. Nikdy nikoho nenechá vejít dovnitø. Samozøejmì jsou ale i jiné zpùsoby...}
-{127}{}{Jaké jiné zpùsoby?}
-{128}{}{Díky. Pùjdu za Wallacem.}
-{129}{}{Radu? No, rada je drahá, venkovane. Máš nìjaké peníze?}
-{130}{}{Dát mu $50.}
-{131}{}{Dát mu $75.}
-{132}{}{Dát mu $100.}
-{133}{}{Pravdìpodobnì ne tolik, aby tì to zajímalo. Vrátím se, a budu mít víc penìz.}
-{134}{}{Zapomeò na to. Moná si promluvíme jindy.}
-{135}{}{No, je nìkolik moností, jak obejít celnici. Tou první je stát se Obèanem mìsta. Stráe nikdy neprohledávají Obèany. Ale samozøejmì šance stát se Obèanem je skoro nulová.}
+{125}{}{Ne, jen se tak dÃ­vÃ¡m. DÃ­ky.}
+{126}{}{No, mÅ¯Å¾eÅ¡ jÃ­t za mÃ½m Å¡Ã©fem, Wallacem, a ZKUSIT zÃ­skat povolenÃ­ ke vstupu, ale je to ztrÃ¡ta Äasu. Nikdy nikoho nenechÃ¡ vejÃ­t dovnitÅ™. SamozÅ™ejmÄ› jsou ale i jinÃ© zpÅ¯soby...}
+{127}{}{JakÃ© jinÃ© zpÅ¯soby?}
+{128}{}{DÃ­ky. PÅ¯jdu za Wallacem.}
+{129}{}{Radu? No, rada je drahÃ¡, venkovane. MÃ¡Å¡ nÄ›jakÃ© penÃ­ze?}
+{130}{}{DÃ¡t mu $50.}
+{131}{}{DÃ¡t mu $75.}
+{132}{}{DÃ¡t mu $100.}
+{133}{}{PravdÄ›podobnÄ› ne tolik, aby tÄ› to zajÃ­malo. VrÃ¡tÃ­m se, aÅ¾ budu mÃ­t vÃ­c penÄ›z.}
+{134}{}{ZapomeÅˆ na to. MoÅ¾nÃ¡ si promluvÃ­me jindy.}
+{135}{}{No, je nÄ›kolik moÅ¾nostÃ­, jak obejÃ­t celnici. Tou prvnÃ­ je stÃ¡t se ObÄanem mÄ›sta. StrÃ¡Å¾e nikdy neprohledÃ¡vajÃ­ ObÄany. Ale samozÅ™ejmÄ› Å¡ance stÃ¡t se ObÄanem je skoro nulovÃ¡.}
 {136}{}{Jak to?}
-{137}{}{Jaké jsou ty další monosti?}
-{138}{}{Zapomeò na to. Moná si promluvíme jindy.}
-{139}{}{Pokud se nenarodíš jako Obèan, musíš podstoupit test k získání Obèanství. Poèet venkovanù, kteøí udìlali test a stali se Obèany - nula. Tvoje šance? MÉNÌ ne nula.}
+{137}{}{JakÃ© jsou ty dalÅ¡Ã­ moÅ¾nosti?}
+{138}{}{ZapomeÅˆ na to. MoÅ¾nÃ¡ si promluvÃ­me jindy.}
+{139}{}{Pokud se nenarodÃ­Å¡ jako ObÄan, musÃ­Å¡ podstoupit test k zÃ­skÃ¡nÃ­ ObÄanstvÃ­. PoÄet venkovanÅ¯, kteÅ™Ã­ udÄ›lali test a stali se ObÄany - nula. Tvoje Å¡ance? MÃ‰NÄš neÅ¾ nula.}
 {140}{}{Co je to za test?}
-{141}{}{Jak mùu ještì obejít celnici?}
-{142}{}{Zapomeò na to. Moná si promluvíme nìkdy jindy.}
-{143}{}{Prokonzul Gregory dá "test" jakémukoliv venkovanovi, kterı se chce stát Obèanem. Zmìøí tak jejich inteligenci a vnímání a musíš mít zatracenou kliku, abys prošel. Dokonce i vìtšina Obèanù by s tím mìla potíe.}
-{144}{}{Proè je to tak tìké?}
-{145}{}{Jak mùu ještì obejít celnici kromì toho, e se stanu Obèanem?}
-{146}{}{Zapomeò na to. Moná si promluvíme nìkdy jindy.}
-{147}{}{Jeliko vìtšina venkovanù neumí èíst, neví nic o trigonometrii a ani neumí vyhláskovat "Australopithecus", tak u asi chápeš proè. Je to jen zpùsob, jak zabránit venkovanùm, aby se stali Obèany.}
-{148}{}{Jak mùu ještì obejít celnici kromì toho, e se stanu Obèanem?}
-{149}{}{Zapomeò na to. Moná si promluvíme nìkdy jindy.}
-{150}{}{Mùeš schovat zboí u svıch otrokù... svıch "sluebníkù". Víš, zpùsob myšlení ve Vault City je takovı, e by ani nepomysleli na to, e nìkdo nechá nést svoje sluebníky nìco dùleitého... nebo problematického. Nechápu to.}
-{151}{}{Nìjaké jiné monosti?}
-{152}{}{Tak dobøe. Díky.}
-{153}{}{No, MÙEŠ se stát Obèanem... neoficiálnì.}
-{154}{}{O èem to mluvíš?}
-{155}{}{Zapomeò na to. Moná si promluvíme nìkdy jindy.}
-{156}{}{Jestli máš peníze, øeknu ti detaily. Jinak...}
-{157}{}{Mám peníze. Kolik to bude stát?}
-{158}{}{Zapomeò na to. Moná si promluvíme jindy.}
+{141}{}{Jak mÅ¯Å¾u jeÅ¡tÄ› obejÃ­t celnici?}
+{142}{}{ZapomeÅˆ na to. MoÅ¾nÃ¡ si promluvÃ­me nÄ›kdy jindy.}
+{143}{}{Prokonzul Gregory dÃ¡ "test" jakÃ©mukoliv venkovanovi, kterÃ½ se chce stÃ¡t ObÄanem. ZmÄ›Å™Ã­ tak jejich inteligenci a vnÃ­mÃ¡nÃ­ a musÃ­Å¡ mÃ­t zatracenou kliku, abys proÅ¡el. Dokonce i vÄ›tÅ¡ina ObÄanÅ¯ by s tÃ­m mÄ›la potÃ­Å¾e.}
+{144}{}{ProÄ je to tak tÄ›Å¾kÃ©?}
+{145}{}{Jak mÅ¯Å¾u jeÅ¡tÄ› obejÃ­t celnici kromÄ› toho, Å¾e se stanu ObÄanem?}
+{146}{}{ZapomeÅˆ na to. MoÅ¾nÃ¡ si promluvÃ­me nÄ›kdy jindy.}
+{147}{}{JelikoÅ¾ vÄ›tÅ¡ina venkovanÅ¯ neumÃ­ ÄÃ­st, nevÃ­ nic o trigonometrii a ani neumÃ­ vyhlÃ¡skovat "Australopithecus", tak uÅ¾ asi chÃ¡peÅ¡ proÄ. Je to jen zpÅ¯sob, jak zabrÃ¡nit venkovanÅ¯m, aby se stali ObÄany.}
+{148}{}{Jak mÅ¯Å¾u jeÅ¡tÄ› obejÃ­t celnici kromÄ› toho, Å¾e se stanu ObÄanem?}
+{149}{}{ZapomeÅˆ na to. MoÅ¾nÃ¡ si promluvÃ­me nÄ›kdy jindy.}
+{150}{}{MÅ¯Å¾eÅ¡ schovat zboÅ¾Ã­ u svÃ½ch otrokÅ¯... svÃ½ch "sluÅ¾ebnÃ­kÅ¯". VÃ­Å¡, zpÅ¯sob myÅ¡lenÃ­ ve Vault City je takovÃ½, Å¾e by ani nepomysleli na to, Å¾e nÄ›kdo nechÃ¡ nÃ©st svoje sluÅ¾ebnÃ­ky nÄ›co dÅ¯leÅ¾itÃ©ho... nebo problematickÃ©ho. NechÃ¡pu to.}
+{151}{}{NÄ›jakÃ© jinÃ© moÅ¾nosti?}
+{152}{}{Tak dobÅ™e. DÃ­ky.}
+{153}{}{No, MÅ®Å½EÅ  se stÃ¡t ObÄanem... neoficiÃ¡lnÄ›.}
+{154}{}{O Äem to mluvÃ­Å¡?}
+{155}{}{ZapomeÅˆ na to. MoÅ¾nÃ¡ si promluvÃ­me nÄ›kdy jindy.}
+{156}{}{Jestli mÃ¡Å¡ penÃ­ze, Å™eknu ti detaily. Jinak...}
+{157}{}{MÃ¡m penÃ­ze. Kolik to bude stÃ¡t?}
+{158}{}{ZapomeÅˆ na to. MoÅ¾nÃ¡ si promluvÃ­me jindy.}
 {159}{}{$200 a doklady jsou tvoje.}
-{160}{}{Za dvì stì dolarù z tebe mùu udìlat plnohodnotného Obèana, take budeš mít bezproblémovı prùchod skrz bránu. Mùu vytisknout doklady, zaregistrovat tvoje sériové èíslo a potrvá to jen pìt minut.}
-{161}{}{Co kdy nìkomu øeknu, e padìláš doklady o Obèanství?}
-{162}{}{To zní dobøe. Tady je $200.}
-{163}{}{No, dvì stì je trochu moc. Mám u sebe jenom $150.}
-{164}{}{Nemám u sebe tak velkou èástku. Moná nìkdy jindy.}
-{165}{}{Ne díky. Moná nìkdy jindy.}
-{166}{}{To je jednoduché, nebudou ti VÌØIT. Ty jsi venkovan, já jsem Obèan. Hádej, komu budou vìøit víc?}
-{167}{}{Koupím tedy doklady o Obèanství.}
-{168}{}{Koupím ty doklady o Obèanství... ale za $150, ne za $200.}
-{169}{}{No, $200 je pro mì trochu moc. Vrátím se, a seenu víc penìz.}
-{170}{}{Zapomeò na to. Moná si promluvíme nìkdy jindy.}
-{171}{}{Hmmm. No, tak dobøe... máš štìstí, e mám dneska dobrou náladu, ale nikomu z ostatních venkovanù neøíkej, e je máš ode mì tak levnì.}
-{172}{}{Tak dobøe.}
-{173}{}{Dej mi ty blbı doklady.}
-{174}{}{Dobøe, u jsou vytištìnı. Tady jsou..."Obèane." A nikomu o tom neøíkej, OBZVLÁŠ ne Wallacovi, jasnı?}
-{175}{}{ádnı problém. Nikdy by mì ani nenapadlo nìco takového provést takovému poctivému Obèanu, jako jsi ty, obzvláš kdy mám dùkaz o tvé nezákonné èinnosti pøímo ve své kapse.}
-{176}{}{Chápu. ádnı problém.}
-{177}{}{Co t...?! Nikdo ti nebude vìøit, venkovane! Bude to tvoje slovo proti mému!}
-{178}{}{To ano, ale tyto falešné doklady mluví proti tobì. A budou mluvit tak dlouho, dokud nezaplatíš za jejich mlèení.}
-{179}{}{Samozøejmì, e bude. Zatím.}
-{180}{}{Já... pr... ty špinavej...}
-{181}{}{Opatrnì... bıt tebou, dám si pozor na jazyk.}
-{182}{}{Mì jen tak nepøechytraèíš, Skeeve.}
-{183}{}{Tak dobøe, mám uschovanou MALOU hotovost. Tady. Vezmi si to... tøi sta dolarù. Budeš u teï mlèet?}
-{184}{}{Ale jo. Mìj se.}
-{185}{}{ádnı problém. Máš moje mlèení.}
-{186}{}{Dvì stì nebo nic, venkovane. To je tvùj jedinı zpùsob, jak se dostat pøes bránu.}
-{187}{}{Myslím, e to zkusím oficiální cestou.}
-{188}{}{Ne, díky.}
-{189}{}{Haha! Tak hodnì štìstí, venkovane. Jedinı zpùsob, jak získat denní propustku od starocha Wallaceho, je vyrvat mu ji z jeho mrtvıch, lakomıch paøátù.}
-{190}{}{Stejnì to zkusím.}
-{191}{}{Kdy to bude tøeba...}
-{192}{}{Zváil jsi to?}
-{193}{}{Zase ty? Co chceš?}
-{194}{}{Chtít? Chtít!}
+{160}{}{Za dvÄ› stÄ› dolarÅ¯ z tebe mÅ¯Å¾u udÄ›lat plnohodnotnÃ©ho ObÄana, takÅ¾e budeÅ¡ mÃ­t bezproblÃ©movÃ½ prÅ¯chod skrz brÃ¡nu. MÅ¯Å¾u vytisknout doklady, zaregistrovat tvoje sÃ©riovÃ© ÄÃ­slo a potrvÃ¡ to jen pÄ›t minut.}
+{161}{}{Co kdyÅ¾ nÄ›komu Å™eknu, Å¾e padÄ›lÃ¡Å¡ doklady o ObÄanstvÃ­?}
+{162}{}{To znÃ­ dobÅ™e. Tady je $200.}
+{163}{}{No, dvÄ› stÄ› je trochu moc. MÃ¡m u sebe jenom $150.}
+{164}{}{NemÃ¡m u sebe tak velkou ÄÃ¡stku. MoÅ¾nÃ¡ nÄ›kdy jindy.}
+{165}{}{Ne dÃ­ky. MoÅ¾nÃ¡ nÄ›kdy jindy.}
+{166}{}{To je jednoduchÃ©, nebudou ti VÄšÅ˜IT. Ty jsi venkovan, jÃ¡ jsem ObÄan. HÃ¡dej, komu budou vÄ›Å™it vÃ­c?}
+{167}{}{KoupÃ­m tedy doklady o ObÄanstvÃ­.}
+{168}{}{KoupÃ­m ty doklady o ObÄanstvÃ­... ale za $150, ne za $200.}
+{169}{}{No, $200 je pro mÄ› trochu moc. VrÃ¡tÃ­m se, aÅ¾ seÅ¾enu vÃ­c penÄ›z.}
+{170}{}{ZapomeÅˆ na to. MoÅ¾nÃ¡ si promluvÃ­me nÄ›kdy jindy.}
+{171}{}{Hmmm. No, tak dobÅ™e... mÃ¡Å¡ Å¡tÄ›stÃ­, Å¾e mÃ¡m dneska dobrou nÃ¡ladu, ale nikomu z ostatnÃ­ch venkovanÅ¯ neÅ™Ã­kej, Å¾e je mÃ¡Å¡ ode mÄ› tak levnÄ›.}
+{172}{}{Tak dobÅ™e.}
+{173}{}{Dej mi ty blbÃ½ doklady.}
+{174}{}{DobÅ™e, uÅ¾ jsou vytiÅ¡tÄ›nÃ½. Tady jsou..."ObÄane." A nikomu o tom neÅ™Ã­kej, OBZVLÃÅ Å¤ ne Wallacovi, jasnÃ½?}
+{175}{}{Å½Ã¡dnÃ½ problÃ©m. Nikdy by mÄ› ani nenapadlo nÄ›co takovÃ©ho provÃ©st takovÃ©mu poctivÃ©mu ObÄanu, jako jsi ty, obzvlÃ¡Å¡Å¥ kdyÅ¾ mÃ¡m dÅ¯kaz o tvÃ© nezÃ¡konnÃ© Äinnosti pÅ™Ã­mo ve svÃ© kapse.}
+{176}{}{ChÃ¡pu. Å½Ã¡dnÃ½ problÃ©m.}
+{177}{}{Co t...?! Nikdo ti nebude vÄ›Å™it, venkovane! Bude to tvoje slovo proti mÃ©mu!}
+{178}{}{To ano, ale tyto faleÅ¡nÃ© doklady mluvÃ­ proti tobÄ›. A budou mluvit tak dlouho, dokud nezaplatÃ­Å¡ za jejich mlÄenÃ­.}
+{179}{}{SamozÅ™ejmÄ›, Å¾e bude. ZatÃ­m.}
+{180}{}{JÃ¡... pr... ty Å¡pinavej...}
+{181}{}{OpatrnÄ›... bÃ½t tebou, dÃ¡m si pozor na jazyk.}
+{182}{}{MÄ› jen tak nepÅ™echytraÄÃ­Å¡, Skeeve.}
+{183}{}{Tak dobÅ™e, mÃ¡m uschovanou MALOU hotovost. Tady. Vezmi si to... tÅ™i sta dolarÅ¯. BudeÅ¡ uÅ¾ teÄ mlÄet?}
+{184}{}{Ale jo. MÄ›j se.}
+{185}{}{Å½Ã¡dnÃ½ problÃ©m. MÃ¡Å¡ moje mlÄenÃ­.}
+{186}{}{DvÄ› stÄ› nebo nic, venkovane. To je tvÅ¯j jedinÃ½ zpÅ¯sob, jak se dostat pÅ™es brÃ¡nu.}
+{187}{}{MyslÃ­m, Å¾e to zkusÃ­m oficiÃ¡lnÃ­ cestou.}
+{188}{}{Ne, dÃ­ky.}
+{189}{}{Haha! Tak hodnÄ› Å¡tÄ›stÃ­, venkovane. JedinÃ½ zpÅ¯sob, jak zÃ­skat dennÃ­ propustku od starocha Wallaceho, je vyrvat mu ji z jeho mrtvÃ½ch, lakomÃ½ch paÅ™Ã¡tÅ¯.}
+{190}{}{StejnÄ› to zkusÃ­m.}
+{191}{}{KdyÅ¾ to bude tÅ™eba...}
+{192}{}{ZvÃ¡Å¾il jsi to?}
+{193}{}{Zase ty? Co chceÅ¡?}
+{194}{}{ChtÃ­t? ChtÃ­t!}
 {195}{}{Odbelhat se.}
-{196}{}{Co je tohle za místo?}
-{197}{}{Chci se dostat dovnitø mìsta.}
-{198}{}{Chci koupit falešné doklady o Obèanství, které jsi mi pøedtím nabízel.}
-{199}{}{Rozhodl jsem se, e na tebe prásknu, e prodáváš falešné doklady o Obèanství.}
-{200}{}{Jeliko jsi celník a tak, nemáš nìjakou "radu", jak dostat do mìsta jistı druh zboí?}
-{201}{}{Zapomeò na to.}
-{202}{}{Podívej, hlupáku, vypadni odsud, nebo zavolám stráe.}
-{203}{}{Podívej, hlupáku, vypad... mmmm. Poèkej chvíli. Moná...}
+{196}{}{Co je tohle za mÃ­sto?}
+{197}{}{Chci se dostat dovnitÅ™ mÄ›sta.}
+{198}{}{Chci koupit faleÅ¡nÃ© doklady o ObÄanstvÃ­, kterÃ© jsi mi pÅ™edtÃ­m nabÃ­zel.}
+{199}{}{Rozhodl jsem se, Å¾e na tebe prÃ¡sknu, Å¾e prodÃ¡vÃ¡Å¡ faleÅ¡nÃ© doklady o ObÄanstvÃ­.}
+{200}{}{JelikoÅ¾ jsi celnÃ­k a tak, nemÃ¡Å¡ nÄ›jakou "radu", jak dostat do mÄ›sta jistÃ½ druh zboÅ¾Ã­?}
+{201}{}{ZapomeÅˆ na to.}
+{202}{}{PodÃ­vej, hlupÃ¡ku, vypadni odsud, nebo zavolÃ¡m strÃ¡Å¾e.}
+{203}{}{PodÃ­vej, hlupÃ¡ku, vypad... mmmm. PoÄkej chvÃ­li. MoÅ¾nÃ¡...}
 {204}{}{Hurnh?}
 {205}{}{Odbelhat se.}
-{206}{}{Pojï se mnou, hlupáku. Mám tu nìkoho, kdo se s tebou chce seznámit.}
-{207}{}{Dóóbe.}
-{208}{}{Ne-e JÁ ZÙSTAT.}
-{209}{}{Našel jsem tohodle venkovana, jak se potuluje v pustinì, Barkusi. Vypadá jako dobrı kandidát na sluebníka.}
-{210}{}{Našel jsem tuhle skupinu venkovanù, jak se potulují v pustinì, Barkusi. Tenhle venkovan vypadá jako dobrı kandidát na sluebníka.}
-{211}{}{2 vteøiny}
-{212}{}{To si DÌLÁŠ srandu. Je oèividnì zaostalı.}
-{213}{}{1 vteøina, neber Barkusovi nadìji.}
-{214}{}{Za-o-stalı! Bùùùùùù!}
-{215}{}{2 vteøiny}
-{216}{}{Ale no tak. Urèitì potøebuješ nìkoho na práci ve Vaultu, nemám pravdu?}
-{217}{}{1 vteøina, neber Barkusovi nadìji.}
+{206}{}{PojÄ se mnou, hlupÃ¡ku. MÃ¡m tu nÄ›koho, kdo se s tebou chce seznÃ¡mit.}
+{207}{}{DÃ³Ã³bÅ¾e.}
+{208}{}{Ne-e JÃ ZÅ®STAT.}
+{209}{}{NaÅ¡el jsem tohodle venkovana, jak se potuluje v pustinÄ›, Barkusi. VypadÃ¡ jako dobrÃ½ kandidÃ¡t na sluÅ¾ebnÃ­ka.}
+{210}{}{NaÅ¡el jsem tuhle skupinu venkovanÅ¯, jak se potulujÃ­ v pustinÄ›, Barkusi. Tenhle venkovan vypadÃ¡ jako dobrÃ½ kandidÃ¡t na sluÅ¾ebnÃ­ka.}
+{211}{}{2 vteÅ™iny}
+{212}{}{To si DÄšLÃÅ  srandu. Je oÄividnÄ› zaostalÃ½.}
+{213}{}{1 vteÅ™ina, neber Barkusovi nadÄ›ji.}
+{214}{}{Za-o-stalÃ½! BÅ¯Å¯Å¯Å¯Å¯Å¯!}
+{215}{}{2 vteÅ™iny}
+{216}{}{Ale no tak. UrÄitÄ› potÅ™ebujeÅ¡ nÄ›koho na prÃ¡ci ve Vaultu, nemÃ¡m pravdu?}
+{217}{}{1 vteÅ™ina, neber Barkusovi nadÄ›ji.}
 {218}{}{Valt! Gechkk!}
-{219}{}{2 vteøiny}
-{220}{}{No... hmmm. Oèekáváš nìjaké nálezné, e?}
-{221}{}{2 vteøiny}
-{222}{}{Jedí snad venkovani svoje vlastní vıkaly? SAMOZØEJMÌ, e chci nálezné.}
-{223}{}{1 vteøina, Neber Skeevovi nadìji}
-{224}{}{Náleznéééé? Vleznéééé!}
-{225}{}{1 vteøina}
-{226}{}{Tak dobøe. Pošlu ho do Vaultu. MONÁ bude moct èistit sklady.}
-{227}{}{Páni, jak se ti podaøilo uprchnout?}
-{228}{}{Páni, jak se ti podaøilo uprchnout? Radši pojï zpátky dovnitø, ne se Barkus naštve. No tak...}
-{229}{}{Dóóbe.}
+{219}{}{2 vteÅ™iny}
+{220}{}{No... hmmm. OÄekÃ¡vÃ¡Å¡ nÄ›jakÃ© nÃ¡leznÃ©, Å¾e?}
+{221}{}{2 vteÅ™iny}
+{222}{}{JedÃ­ snad venkovani svoje vlastnÃ­ vÃ½kaly? SAMOZÅ˜EJMÄš, Å¾e chci nÃ¡leznÃ©.}
+{223}{}{1 vteÅ™ina, Neber Skeevovi nadÄ›ji}
+{224}{}{NÃ¡leznÃ©Ã©Ã©Ã©? VleznÃ©Ã©Ã©Ã©!}
+{225}{}{1 vteÅ™ina}
+{226}{}{Tak dobÅ™e. PoÅ¡lu ho do Vaultu. MOÅ½NÃ bude moct Äistit sklady.}
+{227}{}{PÃ¡ni, jak se ti podaÅ™ilo uprchnout?}
+{228}{}{PÃ¡ni, jak se ti podaÅ™ilo uprchnout? RadÅ¡i pojÄ zpÃ¡tky dovnitÅ™, neÅ¾ se Barkus naÅ¡tve. No tak...}
+{229}{}{DÃ³Ã³bÅ¾e.}
 {230}{}{Odbelhat se.}
-{231}{}{Jak jsem øekl, mùu z tebe udìlat plnohodnotného Obèana za $200. Budeš mít volnı prùchod skrz bránu, bez problémù. Mùu vytisknout doklady, zaregistrovat tvoje sériové èíslo a potrvá to jen pìt minut.}
-{232}{}{Co je potøeba k získání Obèanství?}
-{233}{}{A co kdy to udìlám? Klidnì mu teï pùjdu øíct, e prodáváš falešné doklady o Obèanství.}
-{234}{}{V to doufám. Umím bıt velmi pøesvìdèivı.}
-{235}{}{Uvidíme.}
-{236}{}{Haha! To si mùeš zkusit. Wallace ti nikdy neuvìøí.}
-{237}{}{No, já myslím, e uvìøí, a uvidí ty falešné doklady, které jsi mi dal. Ale samozøejmì pokud máš u sebe nìjaké peníze, mùe to bıt naše malé tajemství.}
-{238}{}{Uvidíme.}
-{239}{}{Koupím tedy doklady o Obèanství.}
-{240}{}{No, $200 je pro mì trochu moc. Vrátím se, a seenu víc penìz.}
-{241}{}{Ne, díky. Moná nìkdy jindy.}
-{242}{}{Co je potøeba k získání Obèanství?}
-{243}{}{Hmmmm. Kolik e jsi to chtìl za ty dokumenty o Obèanství?}
-{244}{}{Kdy budu muset, udìlám to.}
-{245}{}{Jak se mùu stát Obèanem?}
-{246}{}{Nic, zapomeò na to.}
-{247}{}{Ne, díky. Moná nìkdy jindy.}
-{248}{}{Pokud se nenarodíš jako Obèan, musíš podstoupit test k získání Obèanství. Poèet venkovanù, kteøí udìlali test a stali se Obèany? Nula. Tvoje šance? MÍÒ ne nula.}
+{231}{}{Jak jsem Å™ekl, mÅ¯Å¾u z tebe udÄ›lat plnohodnotnÃ©ho ObÄana za $200. BudeÅ¡ mÃ­t volnÃ½ prÅ¯chod skrz brÃ¡nu, bez problÃ©mÅ¯. MÅ¯Å¾u vytisknout doklady, zaregistrovat tvoje sÃ©riovÃ© ÄÃ­slo a potrvÃ¡ to jen pÄ›t minut.}
+{232}{}{Co je potÅ™eba k zÃ­skÃ¡nÃ­ ObÄanstvÃ­?}
+{233}{}{A co kdyÅ¾ to udÄ›lÃ¡m? KlidnÄ› mu teÄ pÅ¯jdu Å™Ã­ct, Å¾e prodÃ¡vÃ¡Å¡ faleÅ¡nÃ© doklady o ObÄanstvÃ­.}
+{234}{}{V to doufÃ¡m. UmÃ­m bÃ½t velmi pÅ™esvÄ›dÄivÃ½.}
+{235}{}{UvidÃ­me.}
+{236}{}{Haha! To si mÅ¯Å¾eÅ¡ zkusit. Wallace ti nikdy neuvÄ›Å™Ã­.}
+{237}{}{No, jÃ¡ myslÃ­m, Å¾e uvÄ›Å™Ã­, aÅ¾ uvidÃ­ ty faleÅ¡nÃ© doklady, kterÃ© jsi mi dal. Ale samozÅ™ejmÄ› pokud mÃ¡Å¡ u sebe nÄ›jakÃ© penÃ­ze, mÅ¯Å¾e to bÃ½t naÅ¡e malÃ© tajemstvÃ­.}
+{238}{}{UvidÃ­me.}
+{239}{}{KoupÃ­m tedy doklady o ObÄanstvÃ­.}
+{240}{}{No, $200 je pro mÄ› trochu moc. VrÃ¡tÃ­m se, aÅ¾ seÅ¾enu vÃ­c penÄ›z.}
+{241}{}{Ne, dÃ­ky. MoÅ¾nÃ¡ nÄ›kdy jindy.}
+{242}{}{Co je potÅ™eba k zÃ­skÃ¡nÃ­ ObÄanstvÃ­?}
+{243}{}{Hmmmm. Kolik Å¾e jsi to chtÄ›l za ty dokumenty o ObÄanstvÃ­?}
+{244}{}{KdyÅ¾ budu muset, udÄ›lÃ¡m to.}
+{245}{}{Jak se mÅ¯Å¾u stÃ¡t ObÄanem?}
+{246}{}{Nic, zapomeÅˆ na to.}
+{247}{}{Ne, dÃ­ky. MoÅ¾nÃ¡ nÄ›kdy jindy.}
+{248}{}{Pokud se nenarodÃ­Å¡ jako ObÄan, musÃ­Å¡ podstoupit test k zÃ­skÃ¡nÃ­ ObÄanstvÃ­. PoÄet venkovanÅ¯, kteÅ™Ã­ udÄ›lali test a stali se ObÄany? Nula. Tvoje Å¡ance? MÃÅ‡ neÅ¾ nula.}
 {249}{}{Co je to za test?}
-{250}{}{Chápu. Kolik e chceš za ty doklady?}
-{251}{}{Zapomeò na to. Moná si promluvíme nìkdy jindy.}
-{252}{}{Gregory, Prokonzul, dá "test" kterémukoliv venkovani, kterı se chce stát Obèanem. Zmìøí tak jejich inteligenci a vnímání, a musíš mít zatracenou kliku, abys prošel. Vìtšina Obèanù by s tím mìla potíe.}
-{253}{}{Proè je to tak tìké?}
-{254}{}{Chápu. Kolik e chceš za ty doklady?}
-{255}{}{Hmmmm. Moná si promluvíme nìkdy jindy.}
-{256}{}{Jeliko vìtšina venkovanù neumí èíst, neví nic o trigonometrii, ani neumí vyhláskovat "Australopithecus", tak u asi chápeš proè. Je to jen zpùsob, jak zabránit venkovanùm, aby se stali Obèany.}
-{257}{}{Chápu. Kolik e chceš za ty doklady?}
-{258}{}{Hmmm. Moná si promluvíme nìkdy jindy.}
+{250}{}{ChÃ¡pu. Kolik Å¾e chceÅ¡ za ty doklady?}
+{251}{}{ZapomeÅˆ na to. MoÅ¾nÃ¡ si promluvÃ­me nÄ›kdy jindy.}
+{252}{}{Gregory, Prokonzul, dÃ¡ "test" kterÃ©mukoliv venkovani, kterÃ½ se chce stÃ¡t ObÄanem. ZmÄ›Å™Ã­ tak jejich inteligenci a vnÃ­mÃ¡nÃ­, a musÃ­Å¡ mÃ­t zatracenou kliku, abys proÅ¡el. VÄ›tÅ¡ina ObÄanÅ¯ by s tÃ­m mÄ›la potÃ­Å¾e.}
+{253}{}{ProÄ je to tak tÄ›Å¾kÃ©?}
+{254}{}{ChÃ¡pu. Kolik Å¾e chceÅ¡ za ty doklady?}
+{255}{}{Hmmmm. MoÅ¾nÃ¡ si promluvÃ­me nÄ›kdy jindy.}
+{256}{}{JelikoÅ¾ vÄ›tÅ¡ina venkovanÅ¯ neumÃ­ ÄÃ­st, nevÃ­ nic o trigonometrii, ani neumÃ­ vyhlÃ¡skovat "Australopithecus", tak uÅ¾ asi chÃ¡peÅ¡ proÄ. Je to jen zpÅ¯sob, jak zabrÃ¡nit venkovanÅ¯m, aby se stali ObÄany.}
+{257}{}{ChÃ¡pu. Kolik Å¾e chceÅ¡ za ty doklady?}
+{258}{}{Hmmm. MoÅ¾nÃ¡ si promluvÃ­me nÄ›kdy jindy.}

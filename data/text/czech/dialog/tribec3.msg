@@ -1,16 +1,16 @@
-{100}{}{Vidíš divocha.}
-{101}{}{Vidíš èlena kmene.}
-{102}{}{Je to jeden z mála zbıvajících lidí tohoto kmene.}
-{200}{}{Nechceme tì tu.}
-{201}{}{Duchové tì nemají rádi.}
-{202}{}{Jdi pryè, cizinèe.}
-{203}{}{Proè nás trápíš?}
-{204}{}{Vítej, váleèníku.}
-{205}{}{Vdy tì tu uvítáme.}
-{206}{}{Duchové tì uznávají jako èlena našeho kmene.}
-{207}{}{Dìkuji za pomoc.}
-{208}{}{Myslel jsem, e jsou cizinci zlí. Není tomu tak...}
-{209}{}{Nedìlej to.}
-{210}{}{Otrokáøi tu nejsou vitáni!}
-{300}{}{Jsme poctìni tvojí návštìvou, hrdino.}
-{301}{}{Tvá vıhra nad Enklávou bude zaznamenána v legendách. Tví pøedci mùou bıt na tebe pyšní.}
+{100}{}{VidÃ­Å¡ divocha.}
+{101}{}{VidÃ­Å¡ Älena kmene.}
+{102}{}{Je to jeden z mÃ¡la zbÃ½vajÃ­cÃ­ch lidÃ­ tohoto kmene.}
+{200}{}{Nechceme tÄ› tu.}
+{201}{}{DuchovÃ© tÄ› nemajÃ­ rÃ¡di.}
+{202}{}{Jdi pryÄ, cizinÄe.}
+{203}{}{ProÄ nÃ¡s trÃ¡pÃ­Å¡?}
+{204}{}{VÃ­tej, vÃ¡leÄnÃ­ku.}
+{205}{}{VÅ¾dy tÄ› tu uvÃ­tÃ¡me.}
+{206}{}{DuchovÃ© tÄ› uznÃ¡vajÃ­ jako Älena naÅ¡eho kmene.}
+{207}{}{DÄ›kuji za pomoc.}
+{208}{}{Myslel jsem, Å¾e jsou cizinci zlÃ­. NenÃ­ tomu tak...}
+{209}{}{NedÄ›lej to.}
+{210}{}{OtrokÃ¡Å™i tu nejsou vitÃ¡ni!}
+{300}{}{Jsme poctÄ›ni tvojÃ­ nÃ¡vÅ¡tÄ›vou, hrdino.}
+{301}{}{TvÃ¡ vÃ½hra nad EnklÃ¡vou bude zaznamenÃ¡na v legendÃ¡ch. TvÃ­ pÅ™edci mÅ¯Å¾ou bÃ½t na tebe pyÅ¡nÃ­.}

@@ -1,32 +1,32 @@
-{100}{}{Vidíš silnou jeptišku.}
-{101}{}{Vidíš Elaine.}
-{102}{}{Poøád ji vidíš.}
-{200}{}{Zdravím!}
-{201}{}{Ahoj, jak se jmenuješ?}
-{202}{}{Co mi mùeš øíct o Opatství?}
+{100}{}{VidÃ­Å¡ silnou jeptiÅ¡ku.}
+{101}{}{VidÃ­Å¡ Elaine.}
+{102}{}{PoÅ™Ã¡d ji vidÃ­Å¡.}
+{200}{}{ZdravÃ­m!}
+{201}{}{Ahoj, jak se jmenujeÅ¡?}
+{202}{}{Co mi mÅ¯Å¾eÅ¡ Å™Ã­ct o OpatstvÃ­?}
 {203}{}{Nashle.}
-{300}{}{Jestli se chceš o našem øádu dozvìdìt víc, promluv si s Opatem. Najdeš ho ve tøetím patøe.}
-{301}{}{Rozumím. Ještì se chci zeptat...}
-{400}{}{Jistì, co chceš vìdìt?}
-{401}{}{Jak se jmenuješ?}
-{402}{}{Vlastnì nic, nashle.}
-{403}{}{Co mi mùeš øíct o Opatství?}
+{300}{}{Jestli se chceÅ¡ o naÅ¡em Å™Ã¡du dozvÄ›dÄ›t vÃ­c, promluv si s Opatem. NajdeÅ¡ ho ve tÅ™etÃ­m patÅ™e.}
+{301}{}{RozumÃ­m. JeÅ¡tÄ› se chci zeptat...}
+{400}{}{JistÄ›, co chceÅ¡ vÄ›dÄ›t?}
+{401}{}{Jak se jmenujeÅ¡?}
+{402}{}{VlastnÄ› nic, nashle.}
+{403}{}{Co mi mÅ¯Å¾eÅ¡ Å™Ã­ct o OpatstvÃ­?}
 {500}{}{Jmenuji se Elaine.}
-{501}{}{Rozumím. Ještì se chci zeptat...}
-{600}{}{Poèkej! Ne odejdeš, mùeš mi prokázat malou laskavost? Potøebuji donést tuto souèástku Maxovi do tiskárny ve sklepì, ale jak vidíš, moje levé koleno není co bıvalo a chození po schodech je velmi bolestivé. Nevadilo by ti zanést mu tu souèástku?}
-{601}{}{Jasnì.}
-{602}{}{Promiò, na tohle nemám èas. Sbohem.}
-{603}{}{Vypadám snad jako donášková sluba? Udìlej si to sama, ty tlustá líná èubko. Nashle.}
-{604}{}{Díky! Tady to je. Tiskárna je ve sklepì. Pouij schodištì, které je v kapli za bratrem Matthewem.}
-{605}{}{ádnı problém. (Bereš si souèástku.) Hned to Maxovi donesu.}
-{700}{}{Já }
+{501}{}{RozumÃ­m. JeÅ¡tÄ› se chci zeptat...}
+{600}{}{PoÄkej! NeÅ¾ odejdeÅ¡, mÅ¯Å¾eÅ¡ mi prokÃ¡zat malou laskavost? PotÅ™ebuji donÃ©st tuto souÄÃ¡stku Maxovi do tiskÃ¡rny ve sklepÄ›, ale jak vidÃ­Å¡, moje levÃ© koleno nenÃ­ co bÃ½valo a chozenÃ­ po schodech je velmi bolestivÃ©. Nevadilo by ti zanÃ©st mu tu souÄÃ¡stku?}
+{601}{}{JasnÄ›.}
+{602}{}{PromiÅˆ, na tohle nemÃ¡m Äas. Sbohem.}
+{603}{}{VypadÃ¡m snad jako donÃ¡Å¡kovÃ¡ sluÅ¾ba? UdÄ›lej si to sama, ty tlustÃ¡ lÃ­nÃ¡ Äubko. Nashle.}
+{604}{}{DÃ­ky! Tady to je. TiskÃ¡rna je ve sklepÄ›. PouÅ¾ij schodiÅ¡tÄ›, kterÃ© je v kapli za bratrem Matthewem.}
+{605}{}{Å½Ã¡dnÃ½ problÃ©m. (BereÅ¡ si souÄÃ¡stku.) Hned to Maxovi donesu.}
+{700}{}{JÃ¡ }
 {701}{}{. Kdo ty?}
-{710}{}{Hehe. To hezké jméno.}
+{710}{}{Hehe. To hezkÃ© jmÃ©no.}
 {711}{}{Nashle!}
-{720}{}{Ty jsi ale milı kluèík, e? Udìlal bys mi VELKOU laskavost a byl dnes mım zvláštním pomocníkem?}
-{721}{}{Ty jsi ale milá dìvenka, e? Udìlala bys mi VELKOU laskavost a byla dnes mım zvláštním pomocníkem?}
-{722}{}{Já zvláštní. Já pomoct.}
-{723}{}{Já nechtít pomoct.}
-{730}{}{Vánì? Skvìle! Prosím, dej tuhle souèástku Maxovi v tiskárnì. Najdeš ho ve SKLEPÌ. Ano?}
-{731}{}{Já tì nezklamat!}
-{740}{}{Pokraèuj, vedeš si dobøe.}
+{720}{}{Ty jsi ale milÃ½ kluÄÃ­k, Å¾e? UdÄ›lal bys mi VELKOU laskavost a byl dnes mÃ½m zvlÃ¡Å¡tnÃ­m pomocnÃ­kem?}
+{721}{}{Ty jsi ale milÃ¡ dÄ›venka, Å¾e? UdÄ›lala bys mi VELKOU laskavost a byla dnes mÃ½m zvlÃ¡Å¡tnÃ­m pomocnÃ­kem?}
+{722}{}{JÃ¡ zvlÃ¡Å¡tnÃ­. JÃ¡ pomoct.}
+{723}{}{JÃ¡ nechtÃ­t pomoct.}
+{730}{}{VÃ¡Å¾nÄ›? SkvÄ›le! ProsÃ­m, dej tuhle souÄÃ¡stku Maxovi v tiskÃ¡rnÄ›. NajdeÅ¡ ho ve SKLEPÄš. Ano?}
+{731}{}{JÃ¡ tÄ› nezklamat!}
+{740}{}{PokraÄuj, vedeÅ¡ si dobÅ™e.}

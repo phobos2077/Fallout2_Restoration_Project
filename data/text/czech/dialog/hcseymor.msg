@@ -1,81 +1,81 @@
-{100}{}{Vidíš masoravou kytku.}
-{101}{}{Vidíš kvìtinu Seymour.}
-{102}{}{Vidíš kvìtinu, ze které z nìjakého dùvodu vyzaøuje inteligence.}
-{103}{}{Ahoj! Dneska máme ale hezké poèasí, e?}
+{100}{}{VidÃ­Å¡ masoÅ¾ravou kytku.}
+{101}{}{VidÃ­Å¡ kvÄ›tinu Seymour.}
+{102}{}{VidÃ­Å¡ kvÄ›tinu, ze kterÃ© z nÄ›jakÃ©ho dÅ¯vodu vyzaÅ™uje inteligence.}
+{103}{}{Ahoj! Dneska mÃ¡me ale hezkÃ© poÄasÃ­, Å¾e?}
 {104}{}{Ty mluvit?}
 {105}{}{Rrr?}
-{106}{}{Promiòte, ale to mluví ta kvìtina?}
-{107}{}{Nemáš nìjaké spoleèného s tím vìdcem?}
+{106}{}{PromiÅˆte, ale to mluvÃ­ ta kvÄ›tina?}
+{107}{}{NemÃ¡Å¡ nÄ›jakÃ© spoleÄnÃ©ho s tÃ­m vÄ›dcem?}
 {108}{}{Nashle.}
-{109}{}{Ano, umím mluvit. Dokonce lépe ne nìkteøí lidé. Usmála bych se na tebe, ale nemám ádná ústa. (Zasmìje se.) Poslyš, mùeš mi prokázat laskavost?}
+{109}{}{Ano, umÃ­m mluvit. Dokonce lÃ©pe neÅ¾ nÄ›kteÅ™Ã­ lidÃ©. UsmÃ¡la bych se na tebe, ale nemÃ¡m Å¾Ã¡dnÃ¡ Ãºsta. (ZasmÄ›je se.) PoslyÅ¡, mÅ¯Å¾eÅ¡ mi prokÃ¡zat laskavost?}
 {110}{}{Jo.}
 {111}{}{Ne-e.}
-{112}{}{Hledám lepší místo pro ivot. Tady je sice moc hezky, ale upøímnì, tyhle kvìtiny toho zrovna moc nenamluví. Myslela jsem na nìjaké místo poblí budov, tøeba támhle, jak jsou ti staøí ghoulové... mùeš mì pøesadit?}
+{112}{}{HledÃ¡m lepÅ¡Ã­ mÃ­sto pro Å¾ivot. Tady je sice moc hezky, ale upÅ™Ã­mnÄ›, tyhle kvÄ›tiny toho zrovna moc nenamluvÃ­. Myslela jsem na nÄ›jakÃ© mÃ­sto poblÃ­Å¾ budov, tÅ™eba tÃ¡mhle, jak jsou ti staÅ™Ã­ ghoulovÃ©... mÅ¯Å¾eÅ¡ mÄ› pÅ™esadit?}
 {113}{}{Jo!}
 {114}{}{Ne-e!}
-{115}{}{Jasnì.}
-{116}{}{Myslím, e ne.}
-{117}{}{Skvìlé! Teï u jen najdi lopatu, vykopej mì a zasaï mì tam. A to udìláš, povím ti tajemství.}
+{115}{}{JasnÄ›.}
+{116}{}{MyslÃ­m, Å¾e ne.}
+{117}{}{SkvÄ›lÃ©! TeÄ uÅ¾ jen najdi lopatu, vykopej mÄ› a zasaÄ mÄ› tam. AÅ¾ to udÄ›lÃ¡Å¡, povÃ­m ti tajemstvÃ­.}
 {118}{}{Tak jo!}
 {119}{}{Ne-e.}
-{120}{}{Tak dobøe. Take, eh... poèkám tu na tebe. Stejnì nemùu dìlat nic jiného. Navidìnou!}
+{120}{}{Tak dobÅ™e. TakÅ¾e, eh... poÄkÃ¡m tu na tebe. StejnÄ› nemÅ¯Å¾u dÄ›lat nic jinÃ©ho. NavidÄ›nou!}
 {121}{}{Nashle!}
-{122}{}{Jestli náhodou zmìníš názor, víš, kde mì najdeš. Zapustila jsem tady toti koøeny. Hahaha! Jen trocha kvìtinového humoru. No, nebudu tì zdrovat. Navidìnou!}
+{122}{}{Jestli nÃ¡hodou zmÄ›nÃ­Å¡ nÃ¡zor, vÃ­Å¡, kde mÄ› najdeÅ¡. Zapustila jsem tady totiÅ¾ koÅ™eny. Hahaha! Jen trocha kvÄ›tinovÃ©ho humoru. No, nebudu tÄ› zdrÅ¾ovat. NavidÄ›nou!}
 {123}{}{Nashle.}
-{124}{}{Hezky øeèeno, opravdu hezky! Je úasné vidìt homo sapiens vyívat plnou kapacitu svého mozku. Mùj drahı pøíteli, nechceš mi prokázat laskavost?}
+{124}{}{Hezky Å™eÄeno, opravdu hezky! Je ÃºÅ¾asnÃ© vidÄ›t homo sapiens vyÅ¾Ã­vat plnou kapacitu svÃ©ho mozku. MÅ¯j drahÃ½ pÅ™Ã­teli, nechceÅ¡ mi prokÃ¡zat laskavost?}
 {125}{}{Jo.}
 {126}{}{Ne-e!}
-{127}{}{Ach ano! Ano, to je! Velmi mazané, pøíteli, velmi mazané. Vidím, e jsi nebyl zasazen teprve vèera! Mùj moudrı pøíteli, nechceš mi prokázat laskavost?}
-{128}{}{Jasnì.}
+{127}{}{Ach ano! Ano, to je! Velmi mazanÃ©, pÅ™Ã­teli, velmi mazanÃ©. VidÃ­m, Å¾e jsi nebyl zasazen teprve vÄera! MÅ¯j moudrÃ½ pÅ™Ã­teli, nechceÅ¡ mi prokÃ¡zat laskavost?}
+{128}{}{JasnÄ›.}
 {129}{}{Ne-e!}
-{130}{}{Úasné! Jsem velmi, ale opravdu velmi potìšena. Nejdøív najdi lopatu a poté se sem vra. A to udìláš, povím ti moná tajemství. Mùj pøíteli, doufám, e budeš i nadále vzkvétat.}
-{131}{}{Eh, jasnì. Mìj se.}
+{130}{}{ÃšÅ¾asnÃ©! Jsem velmi, ale opravdu velmi potÄ›Å¡ena. NejdÅ™Ã­v najdi lopatu a potÃ© se sem vraÅ¥. AÅ¾ to udÄ›lÃ¡Å¡, povÃ­m ti moÅ¾nÃ¡ tajemstvÃ­. MÅ¯j pÅ™Ã­teli, doufÃ¡m, Å¾e budeÅ¡ i nadÃ¡le vzkvÃ©tat.}
+{131}{}{Eh, jasnÄ›. MÄ›j se.}
 {132}{}{Rozmyslel jsem si to.}
-{133}{}{Ó ano, profesor. Vypìstoval mì a ivil mì u od malého semínka... jene u v ranném vìku jsem si uvìdomila, e pokud se budu chovat stejnì tak chytøe, jaká ve skuteènosti jsem, tak mì rozseká na kousíèky, aby mì mohl zkoumat. A tak jsem radìji hrála hloupou a skonèila jsem tady. Je tu pìknì... ale chtìla bych se trochu víc rozrùst. Moná, kdybych byla nìkde jinde...}
-{134}{}{"Rozrùst." Jasnì.}
-{135}{}{Aha. A co by sis pøála?}
-{136}{}{Eh... coe? U musím jít. Nashle.}
-{137}{}{Poøád má toho radškorpiona? Ta vìc je v šachách nepøemoitelná... i kdy to tak vùbec nevypadá, jestli mi rozumíš... ale vím, jak ho porazit. Kdy mi prokáeš laskavost, øeknu ti jak.}
-{138}{}{Vánì? Jak?}
-{139}{}{To je úasné. Kytka, co hraje šachy. To je asi nìjakı sen. Sbohem.}
-{140}{}{Mùj milı pøíteli, kdy mì zasadíš poblí támhletoho domu s ghoulama, mileráda ti na oplátku svìøím svou nejtajnìjší šachovou taktiku.}
+{133}{}{Ã“ ano, profesor. VypÄ›stoval mÄ› a Å¾ivil mÄ› uÅ¾ od malÃ©ho semÃ­nka... jenÅ¾e uÅ¾ v rannÃ©m vÄ›ku jsem si uvÄ›domila, Å¾e pokud se budu chovat stejnÄ› tak chytÅ™e, jakÃ¡ ve skuteÄnosti jsem, tak mÄ› rozsekÃ¡ na kousÃ­Äky, aby mÄ› mohl zkoumat. A tak jsem radÄ›ji hrÃ¡la hloupou a skonÄila jsem tady. Je tu pÄ›knÄ›... ale chtÄ›la bych se trochu vÃ­c rozrÅ¯st. MoÅ¾nÃ¡, kdybych byla nÄ›kde jinde...}
+{134}{}{"RozrÅ¯st." JasnÄ›.}
+{135}{}{Aha. A co by sis pÅ™Ã¡la?}
+{136}{}{Eh... coÅ¾e? UÅ¾ musÃ­m jÃ­t. Nashle.}
+{137}{}{PoÅ™Ã¡d mÃ¡ toho radÅ¡korpiona? Ta vÄ›c je v Å¡achÃ¡ch nepÅ™emoÅ¾itelnÃ¡... i kdyÅ¾ to tak vÅ¯bec nevypadÃ¡, jestli mi rozumÃ­Å¡... ale vÃ­m, jak ho porazit. KdyÅ¾ mi prokÃ¡Å¾eÅ¡ laskavost, Å™eknu ti jak.}
+{138}{}{VÃ¡Å¾nÄ›? Jak?}
+{139}{}{To je ÃºÅ¾asnÃ©. Kytka, co hraje Å¡achy. To je asi nÄ›jakÃ½ sen. Sbohem.}
+{140}{}{MÅ¯j milÃ½ pÅ™Ã­teli, kdyÅ¾ mÄ› zasadÃ­Å¡ poblÃ­Å¾ tÃ¡mhletoho domu s ghoulama, milerÃ¡da ti na oplÃ¡tku svÄ›Å™Ã­m svou nejtajnÄ›jÅ¡Ã­ Å¡achovou taktiku.}
 {141}{}{Dohodnuto.}
-{142}{}{Ne, díky. Porazím ho i bez cizí pomoci.}
-{143}{}{Á, pøíteli, vidím, e jsi zpátky. Tohle místo je prostì skvìlé. Je tu perfektní stín a spoleènost je tu jednoduše oslòující. Ten Typhon je ale šprımaø! Nenechá moje myšlenkové mízy na pokoji!}
-{144}{}{Šachy?}
-{145}{}{Co jsi to øíkala o šachách?}
+{142}{}{Ne, dÃ­ky. PorazÃ­m ho i bez cizÃ­ pomoci.}
+{143}{}{Ã, pÅ™Ã­teli, vidÃ­m, Å¾e jsi zpÃ¡tky. Tohle mÃ­sto je prostÄ› skvÄ›lÃ©. Je tu perfektnÃ­ stÃ­n a spoleÄnost je tu jednoduÅ¡e oslÅˆujÃ­cÃ­. Ten Typhon je ale Å¡prÃ½maÅ™! NenechÃ¡ moje myÅ¡lenkovÃ© mÃ­zy na pokoji!}
+{144}{}{Å achy?}
+{145}{}{Co jsi to Å™Ã­kala o Å¡achÃ¡ch?}
 {146}{}{Nashle.}
-{147}{}{No, mluvila jsem o tom, jak porazit profesorova radškorpiona v šachách. Mùj pøíteli, je to jednoduché jako facka. Ten degenerovanı poíraè broukù vdycky skoèí na Útok letících jater. Pøímo do nìj napochoduje a poté u se z nìj nedostane. Garantuju ti 100% úspìch.}
-{148}{}{Dík moc! Pápá!}
-{149}{}{Díky moc! Nashle!}
-{150}{}{Mùj pøíteli, svítí dnes na tebe slunce? Vzkvétá dnes tvé já? Jsi pøipraven na pøesunutí? Já rozhodnì ano!}
+{147}{}{No, mluvila jsem o tom, jak porazit profesorova radÅ¡korpiona v Å¡achÃ¡ch. MÅ¯j pÅ™Ã­teli, je to jednoduchÃ© jako facka. Ten degenerovanÃ½ poÅ¾Ã­raÄ broukÅ¯ vÅ¾dycky skoÄÃ­ na Ãštok letÃ­cÃ­ch jater. PÅ™Ã­mo do nÄ›j napochoduje a potÃ© uÅ¾ se z nÄ›j nedostane. Garantuju ti 100% ÃºspÄ›ch.}
+{148}{}{DÃ­k moc! PÃ¡pÃ¡!}
+{149}{}{DÃ­ky moc! Nashle!}
+{150}{}{MÅ¯j pÅ™Ã­teli, svÃ­tÃ­ dnes na tebe slunce? VzkvÃ©tÃ¡ dnes tvÃ© jÃ¡? Jsi pÅ™ipraven na pÅ™esunutÃ­? JÃ¡ rozhodnÄ› ano!}
 {151}{}{Jo!}
-{152}{}{Ne-e! ádnı pøesun!}
-{153}{}{Pojïme.}
-{154}{}{Zmìnil jsem názor. U ti nechci pomoct.}
-{155}{}{Jsem tak vzrušená, e bych klidnì mohla vypustit celı mrak semen! Pojïme na to!}
+{152}{}{Ne-e! Å½Ã¡dnÃ½ pÅ™esun!}
+{153}{}{PojÄme.}
+{154}{}{ZmÄ›nil jsem nÃ¡zor. UÅ¾ ti nechci pomoct.}
+{155}{}{Jsem tak vzruÅ¡enÃ¡, Å¾e bych klidnÄ› mohla vypustit celÃ½ mrak semen! PojÄme na to!}
 {156}{}{[KONEC]}
-{157}{}{To je škoda, opravdu škoda. Doufám, e èasem zmìníš svùj názor. Snad se jednou pyl tvé nerozhodnosti zmìní v mùj prospìch. Hezkı den.}
+{157}{}{To je Å¡koda, opravdu Å¡koda. DoufÃ¡m, Å¾e Äasem zmÄ›nÃ­Å¡ svÅ¯j nÃ¡zor. Snad se jednou pyl tvÃ© nerozhodnosti zmÄ›nÃ­ v mÅ¯j prospÄ›ch. HezkÃ½ den.}
 {158}{}{Eh.}
-{159}{}{Hezkı den.}
-{160}{}{Ó... pùda tady je taková... jiná. Èistší, nebo nìco takového. Moná proto, e jsem tu úplnì sama. Áááá. Ách! Ano! Jestli se nìkdy utkáš s profesorovım radškorpionem, zapamatuj si tenhle šachovı manévr: Jmenuje se Útok letících jater a on proti nìmu neobstojí.}
-{161}{}{Dík!}
-{162}{}{Díky, vyzkouším ho. Nashle!}
-{163}{}{Taky bych ti ráda øekla, e náhodou vím, e Typhon uvnitø téhle budovy ví o nìjakém pokladu. Moná by se ti to mohlo nìkdy hodit.}
-{164}{}{Dík! Nashle!}
-{165}{}{Pøemıšlel jsi o tom? Pomùeš mi?}
+{159}{}{HezkÃ½ den.}
+{160}{}{Ã“... pÅ¯da tady je takovÃ¡... jinÃ¡. ÄŒistÅ¡Ã­, nebo nÄ›co takovÃ©ho. MoÅ¾nÃ¡ proto, Å¾e jsem tu ÃºplnÄ› sama. ÃÃ¡Ã¡Ã¡. Ãch! Ano! Jestli se nÄ›kdy utkÃ¡Å¡ s profesorovÃ½m radÅ¡korpionem, zapamatuj si tenhle Å¡achovÃ½ manÃ©vr: Jmenuje se Ãštok letÃ­cÃ­ch jater a on proti nÄ›mu neobstojÃ­.}
+{161}{}{DÃ­k!}
+{162}{}{DÃ­ky, vyzkouÅ¡Ã­m ho. Nashle!}
+{163}{}{Taky bych ti rÃ¡da Å™ekla, Å¾e nÃ¡hodou vÃ­m, Å¾e Typhon uvnitÅ™ tÃ©hle budovy vÃ­ o nÄ›jakÃ©m pokladu. MoÅ¾nÃ¡ by se ti to mohlo nÄ›kdy hodit.}
+{164}{}{DÃ­k! Nashle!}
+{165}{}{PÅ™emÃ½Å¡lel jsi o tom? PomÅ¯Å¾eÅ¡ mi?}
 {166}{}{Jo!}
 {167}{}{Ne-e!}
-{168}{}{Jasnì.}
-{169}{}{Myslím, e ne.}
-{170}{}{Bohuel to vypadá, e nemáš u sebe lopatu. Dokud nìjakou nenajdeš, nemùeš mì pøesadit. Budu na tebe èekat se zaatım pestíkem.}
+{168}{}{JasnÄ›.}
+{169}{}{MyslÃ­m, Å¾e ne.}
+{170}{}{BohuÅ¾el to vypadÃ¡, Å¾e nemÃ¡Å¡ u sebe lopatu. Dokud nÄ›jakou nenajdeÅ¡, nemÅ¯Å¾eÅ¡ mÄ› pÅ™esadit. Budu na tebe Äekat se zaÅ¥atÃ½m pestÃ­kem.}
 {171}{}{Nashle.}
-{172}{}{Psst! Halo! Halo, pøíteli! Tady!}
-{173}{}{Pojï blí! Slibuji, e ti neublíím.}
-{174}{}{Ale no tak! Snad se nebojíš kvìtiny?}
-{175}{}{Tady! Pojïme na to!}
-{176}{}{Ano, jsem mluvící kvìtina. Pochop to a mluv se mnou.}
-{177}{}{Pøíteli, momentíèek. Døív ne zaèneš kopat, mìli bychom se na tom domluvit. Promluvme si o tom.}
-{178}{}{Zasazuješ Seymour u ghoulího domova dùchodcù.}
-{179}{}{Mıt lopata! Kytka tam!}
-{180}{}{Èirou náhodou mám jednu lopatu u sebe. Tak pojïme na to.}
+{172}{}{Psst! Halo! Halo, pÅ™Ã­teli! Tady!}
+{173}{}{PojÄ blÃ­Å¾! Slibuji, Å¾e ti neublÃ­Å¾Ã­m.}
+{174}{}{Ale no tak! Snad se nebojÃ­Å¡ kvÄ›tiny?}
+{175}{}{Tady! PojÄme na to!}
+{176}{}{Ano, jsem mluvÃ­cÃ­ kvÄ›tina. Pochop to a mluv se mnou.}
+{177}{}{PÅ™Ã­teli, momentÃ­Äek. DÅ™Ã­v neÅ¾ zaÄneÅ¡ kopat, mÄ›li bychom se na tom domluvit. Promluvme si o tom.}
+{178}{}{ZasazujeÅ¡ Seymour u ghoulÃ­ho domova dÅ¯chodcÅ¯.}
+{179}{}{MÃ½t lopata! Kytka tam!}
+{180}{}{ÄŒirou nÃ¡hodou mÃ¡m jednu lopatu u sebe. Tak pojÄme na to.}

@@ -1,266 +1,266 @@
-{100}{}{Vidíš dobøe vypadajícího èernocha... eh, ne, poèkat. Vidíš T-Raye.}
-{150}{}{Vidíš svalnatého èernocha se silnımi brılemi, krátkou bradkou a naštvanım vırazem.}
-{151}{}{Vidíš T-Raye. V tìch dínech vypadá opravdu dobøe.}
-{152}{}{Vidíš T-Raye. Chvílemi si protahuje bicepsy a mumlá si pro sebe "tıjo".}
-{153}{}{Stìí poznáváš T-Raye pøes jeho naštvanı vıraz.}
-{200}{}{Hele, já nemùu za to, e byl ten kondom dìravej.}
-{201}{}{Tak prr! Já se nikde nevytahoval, e jsme to dìlali. Fakt! To musel bejt nìkdo jinej.}
-{202}{}{ZATRACENÌ, enská. Nejdøív jsem tì ojel a pak zmizíš a zachráníš celej svìt. Tak tomu øíkám T-Rayova síla.}
-{210}{}{Všem jsem øíkal, e jsme si strašnì BLÍZCÍ. Ale øíkal jsem to tak, aby to vyznìlo, e jseš šéf.}
-{211}{}{Máš štìstí, e jsem tu byl a zachránil ti prdel, jinak by si tì dala Enkláva k SNÍDANI.}
-{212}{}{Nazdar hrdino. Øekni všem, e je T-Ray tvùj dobrej kámoš, jo?!}
-{220}{}{Páni, zavítala k nám sama vısost. Velkej hrdina pøišel.}
-{221}{}{Víš, mohl ses klidnì pøedtím zastavit a já bych ti pomohl odprásknout prezidenta.}
-{222}{}{Taky bych šel tenkrát na Enklávu, ale mìl jsem zrovna moc práce.}
-{230}{}{Kolik koní má ta vìc, co máš na sobì?}
-{231}{}{Jak s tou zbrojí na sobì chodíš na záchod?}
-{232}{}{Asi mi tu zbroj na chvíli nepuèíš, co? Nechci ti ji šlohnout, jen si ji chci pùjèit.}
-{250}{}{A jé, zase mì budeš deptat, co?}
-{251}{}{Jo, Impala je fajn kára, ale není to Omni.}
+{100}{}{VidÃ­Å¡ dobÅ™e vypadajÃ­cÃ­ho Äernocha... eh, ne, poÄkat. VidÃ­Å¡ T-Raye.}
+{150}{}{VidÃ­Å¡ svalnatÃ©ho Äernocha se silnÃ½mi brÃ½lemi, krÃ¡tkou bradkou a naÅ¡tvanÃ½m vÃ½razem.}
+{151}{}{VidÃ­Å¡ T-Raye. V tÄ›ch dÅ¾Ã­nech vypadÃ¡ opravdu dobÅ™e.}
+{152}{}{VidÃ­Å¡ T-Raye. ChvÃ­lemi si protahuje bicepsy a mumlÃ¡ si pro sebe "tÃ½jo".}
+{153}{}{StÄ›Å¾Ã­ poznÃ¡vÃ¡Å¡ T-Raye pÅ™es jeho naÅ¡tvanÃ½ vÃ½raz.}
+{200}{}{Hele, jÃ¡ nemÅ¯Å¾u za to, Å¾e byl ten kondom dÄ›ravej.}
+{201}{}{Tak prr! JÃ¡ se nikde nevytahoval, Å¾e jsme to dÄ›lali. Fakt! To musel bejt nÄ›kdo jinej.}
+{202}{}{ZATRACENÄš, Å¾enskÃ¡. NejdÅ™Ã­v jsem tÄ› ojel a pak zmizÃ­Å¡ a zachrÃ¡nÃ­Å¡ celej svÄ›t. Tak tomu Å™Ã­kÃ¡m T-Rayova sÃ­la.}
+{210}{}{VÅ¡em jsem Å™Ã­kal, Å¾e jsme si straÅ¡nÄ› BLÃZCÃ. Ale Å™Ã­kal jsem to tak, aby to vyznÄ›lo, Å¾e jseÅ¡ Å¡Ã©f.}
+{211}{}{MÃ¡Å¡ Å¡tÄ›stÃ­, Å¾e jsem tu byl a zachrÃ¡nil ti prdel, jinak by si tÄ› dala EnklÃ¡va k SNÃDANI.}
+{212}{}{Nazdar hrdino. Å˜ekni vÅ¡em, Å¾e je T-Ray tvÅ¯j dobrej kÃ¡moÅ¡, jo?!}
+{220}{}{PÃ¡ni, zavÃ­tala k nÃ¡m sama vÃ½sost. Velkej hrdina pÅ™iÅ¡el.}
+{221}{}{VÃ­Å¡, mohl ses klidnÄ› pÅ™edtÃ­m zastavit a jÃ¡ bych ti pomohl odprÃ¡sknout prezidenta.}
+{222}{}{Taky bych Å¡el tenkrÃ¡t na EnklÃ¡vu, ale mÄ›l jsem zrovna moc prÃ¡ce.}
+{230}{}{Kolik konÃ­ mÃ¡ ta vÄ›c, co mÃ¡Å¡ na sobÄ›?}
+{231}{}{Jak s tou zbrojÃ­ na sobÄ› chodÃ­Å¡ na zÃ¡chod?}
+{232}{}{Asi mi tu zbroj na chvÃ­li nepuÄÃ­Å¡, co? Nechci ti ji Å¡lohnout, jen si ji chci pÅ¯jÄit.}
+{250}{}{A jÃ©, zase mÄ› budeÅ¡ deptat, co?}
+{251}{}{Jo, Impala je fajn kÃ¡ra, ale nenÃ­ to Omni.}
 {252}{}{Kdykoliv se s tebou miluju, tajou ledy...}
-{253}{}{Sákryš, tohle auto potøebuje poøádnı liáky.}
-{254}{}{Motor fachá poøád dobøe.}
-{255}{}{Interiér smrdí, jako by se do nìj nìkdo vysral.}
-{256}{}{Interiér smrdí jako psí prdel.}
-{257}{}{Proè by sakra mìlo auto JEZDIT rychle?}
-{258}{}{Auto není ádná raketa, kapiš?}
-{259}{}{Moje auto není rychlı, ale moje milování jo.}
-{260}{}{Nemùu uvìøit, e jsem taková KORBA.}
-{261}{}{Mám ho jako dvouhlavá brahmína.}
-{262}{}{Highwayman má plnì analogovej systém, pøes 800 koní a dá stovku pod sekundu.}
-{263}{}{Rychlej? Highwayman dá stovku pod sekundu.}
-{264}{}{Highwayman má fakt sílu: pøes 800 koní.}
-{265}{}{Highwayman má plnì analogovej systém, ádnı blbı poèítaèe ani podobnı serepetièky.}
-{266}{}{Highwayman je skvìlı auto, Chryslus je udìlal fakt dobøe.}
-{267}{}{Dám mu šanci.}
-{268}{}{Dám ti šanci.}
-{275}{}{Kdo jsi? Co tu chceš?}
-{276}{}{Pane jo! Podívejte, co to sem pøišlo... vypadá to, e koneènì vyuiju svoje namakanı svaly. Co pro tebe mùu udìlat, kotì?}
-{277}{}{Zase ty? Co zase chceš?}
-{278}{}{Sakra enská... zase ty? Co CHCEŠ? Doufám, e mi nechceš øíct, e jseš tìhotná...}
+{253}{}{SÃ¡kryÅ¡, tohle auto potÅ™ebuje poÅ™Ã¡dnÃ½ liÅ¥Ã¡ky.}
+{254}{}{Motor fachÃ¡ poÅ™Ã¡d dobÅ™e.}
+{255}{}{InteriÃ©r smrdÃ­, jako by se do nÄ›j nÄ›kdo vysral.}
+{256}{}{InteriÃ©r smrdÃ­ jako psÃ­ prdel.}
+{257}{}{ProÄ by sakra mÄ›lo auto JEZDIT rychle?}
+{258}{}{Auto nenÃ­ Å¾Ã¡dnÃ¡ raketa, kapiÅ¡?}
+{259}{}{Moje auto nenÃ­ rychlÃ½, ale moje milovÃ¡nÃ­ jo.}
+{260}{}{NemÅ¯Å¾u uvÄ›Å™it, Å¾e jsem takovÃ¡ KORBA.}
+{261}{}{MÃ¡m ho jako dvouhlavÃ¡ brahmÃ­na.}
+{262}{}{Highwayman mÃ¡ plnÄ› analogovej systÃ©m, pÅ™es 800 konÃ­ a dÃ¡ stovku pod sekundu.}
+{263}{}{Rychlej? Highwayman dÃ¡ stovku pod sekundu.}
+{264}{}{Highwayman mÃ¡ fakt sÃ­lu: pÅ™es 800 konÃ­.}
+{265}{}{Highwayman mÃ¡ plnÄ› analogovej systÃ©m, Å¾Ã¡dnÃ½ blbÃ½ poÄÃ­taÄe ani podobnÃ½ serepetiÄky.}
+{266}{}{Highwayman je skvÄ›lÃ½ auto, Chryslus je udÄ›lal fakt dobÅ™e.}
+{267}{}{DÃ¡m mu Å¡anci.}
+{268}{}{DÃ¡m ti Å¡anci.}
+{275}{}{Kdo jsi? Co tu chceÅ¡?}
+{276}{}{Pane jo! PodÃ­vejte, co to sem pÅ™iÅ¡lo... vypadÃ¡ to, Å¾e koneÄnÄ› vyuÅ¾iju svoje namakanÃ½ svaly. Co pro tebe mÅ¯Å¾u udÄ›lat, kotÄ›?}
+{277}{}{Zase ty? Co zase chceÅ¡?}
+{278}{}{Sakra Å¾enskÃ¡... zase ty? Co CHCEÅ ? DoufÃ¡m, Å¾e mi nechceÅ¡ Å™Ã­ct, Å¾e jseÅ¡ tÄ›hotnÃ¡...}
 {279}{}{}
-{280}{}{ jít tam, kam }
-{281}{}{ jít.}
+{280}{}{ jÃ­t tam, kam }
+{281}{}{ jÃ­t.}
 {282}{}{Odbelhat se.}
-{283}{}{Odkud máš toho Highwaymana? Líbí se mi.}
-{284}{}{To auto v garái je moje.}
-{285}{}{To ty jsi mi ukradl moje auto, kreténe?}
-{286}{}{Jsem zástupce pana Bishopa, }
-{287}{}{Jsem Bishopùv èlovìk a jdu si pro jeho auto.}
+{283}{}{Odkud mÃ¡Å¡ toho Highwaymana? LÃ­bÃ­ se mi.}
+{284}{}{To auto v garÃ¡Å¾i je moje.}
+{285}{}{To ty jsi mi ukradl moje auto, kretÃ©ne?}
+{286}{}{Jsem zÃ¡stupce pana Bishopa, }
+{287}{}{Jsem BishopÅ¯v ÄlovÄ›k a jdu si pro jeho auto.}
 {288}{}{Jsem tady pro ty baterie pro pana Bishopa.}
-{289}{}{Mùeš mi vylepšit Highwaymana?}
-{290}{}{Mùu od tebe koupit nìjaké baterie?}
-{291}{}{Nic. Jdu pryè.}
-{300}{}{Hele, tohle NENÍ ádnej záchod a ty tady nemáš co dìlat, chlape. A teï odpal.}
-{301}{}{Hele, tohle NENÍ ádnej záchod a ty tady nemáš co dìlat, enská. A teï odpal.}
-{302}{}{Chceš jít na TO? Tady? No... (Prohlédne si tì.)... kdy chlap musí, tak musí. Pojïme na to.}
+{289}{}{MÅ¯Å¾eÅ¡ mi vylepÅ¡it Highwaymana?}
+{290}{}{MÅ¯Å¾u od tebe koupit nÄ›jakÃ© baterie?}
+{291}{}{Nic. Jdu pryÄ.}
+{300}{}{Hele, tohle NENÃ Å¾Ã¡dnej zÃ¡chod a ty tady nemÃ¡Å¡ co dÄ›lat, chlape. A teÄ odpal.}
+{301}{}{Hele, tohle NENÃ Å¾Ã¡dnej zÃ¡chod a ty tady nemÃ¡Å¡ co dÄ›lat, Å¾enskÃ¡. A teÄ odpal.}
+{302}{}{ChceÅ¡ jÃ­t na TO? Tady? No... (ProhlÃ©dne si tÄ›.)... kdyÅ¾ chlap musÃ­, tak musÃ­. PojÄme na to.}
 {303}{}{E-he.}
 {304}{}{Ne-e.}
-{306}{}{[Jít na vìc]}
-{307}{}{Eh, ne díky. Rozmyslela jsem si to. Sbohem.}
+{306}{}{[JÃ­t na vÄ›c]}
+{307}{}{Eh, ne dÃ­ky. Rozmyslela jsem si to. Sbohem.}
 {320}{}{Aiight then...}
 {321}{}{Ehe-ehe-ehe.}
-{330}{}{Aha, tak ty si s T-Rayem jenom HRAJEŠ, jo? Tak dobøe. Padej, enská... mám lepší èubky, kterı se o mì postaraj.}
-{331}{}{Èas tikat a tikat a tikat... do budoucnost.}
-{333}{}{No, je fakt, e kdy si chytneš psa, tak si s ním potom mùeš dìlat co chceš. Sbohem.}
-{334}{}{e máš sex se psy mì vùbec nepøekvapuje. Sbohem.}
-{340}{}{Ten Highwayman venku? To je JASNİ, e se ti líbí. Je to parádní stroj, nedávnej pøírùstek... jenom ho trochu vyparádíme, pøidáme pár vylepšení a prodáme ho starımu Bishopovi.}
-{341}{}{"Vylepšení?" Jaké vylepšení?}
-{342}{}{Vy ho chcete prodat BISHOPOVI? Poslyš, idiote... Bishop je mrt... eh, teda, dorovnám Bishopovu nabídku.}
-{343}{}{Vy ho chcete prodat BISHOPOVI? Poslyš, dorovnám Bishopovu nabídku a ještì pøihodím nìco navíc.}
-{344}{}{To je ale náhodièka. Jsem zástupce pana Bishopa.}
-{346}{}{Ve skuteènosti to auto nikomu prodávat nebudeš. Je toti moje.}
-{347}{}{To zní jako dobrı obchod. Uvidíme se pozdìji.}
-{360}{}{Údrbu motoru, vyèistit interiér, dát poøádnı liáky a vyhodit z kufru tu hromadu haraburdí, aby tam bylo víc místa. A skonèíme, prodáme ho za slušnı prachy panu Bishopovi.}
-{361}{}{Vy ho chcete prodat Bishopovi? Poslyš, dorovnám Bishopovu nabídku a ještì pøihodím nìco navíc.}
-{362}{}{To je ale náhodièka. Jsem zástupce pana Bishopa: }
-{365}{}{To zní dobøe. Uvidíme se pozdìji.}
-{375}{}{Dorovnáš BISHOPOVU nabídku, jo? To je ale poøádná hromada penìz, chlape. MOC penìz. Navíc, on je jeden z nejdùleitìjších lidí v Renu, víš? Kdy mu ten stroj prodám, dostanu... vıhody v NATURÁLIÍCH.}
-{376}{}{Dorovnáš BISHOPOVU nabídku, jo? To je ale poøádná hromada penìz, enská. MOC penìz. Navíc, on je jeden z nejdùleitìjších lidí v Renu, víš? Kdy mu ten stroj prodám, dostanu... vıhody v NATURÁLIÍCH.}
+{330}{}{Aha, tak ty si s T-Rayem jenom HRAJEÅ , jo? Tak dobÅ™e. Padej, Å¾enskÃ¡... mÃ¡m lepÅ¡Ã­ Äubky, kterÃ½ se o mÄ› postaraj.}
+{331}{}{ÄŒas tikat a tikat a tikat... do budoucnost.}
+{333}{}{No, je fakt, Å¾e kdyÅ¾ si chytneÅ¡ psa, tak si s nÃ­m potom mÅ¯Å¾eÅ¡ dÄ›lat co chceÅ¡. Sbohem.}
+{334}{}{Å½e mÃ¡Å¡ sex se psy mÄ› vÅ¯bec nepÅ™ekvapuje. Sbohem.}
+{340}{}{Ten Highwayman venku? To je JASNÃ, Å¾e se ti lÃ­bÃ­. Je to parÃ¡dnÃ­ stroj, nedÃ¡vnej pÅ™Ã­rÅ¯stek... jenom ho trochu vyparÃ¡dÃ­me, pÅ™idÃ¡me pÃ¡r vylepÅ¡enÃ­ a prodÃ¡me ho starÃ½mu Bishopovi.}
+{341}{}{"VylepÅ¡enÃ­?" JakÃ© vylepÅ¡enÃ­?}
+{342}{}{Vy ho chcete prodat BISHOPOVI? PoslyÅ¡, idiote... Bishop je mrt... eh, teda, dorovnÃ¡m Bishopovu nabÃ­dku.}
+{343}{}{Vy ho chcete prodat BISHOPOVI? PoslyÅ¡, dorovnÃ¡m Bishopovu nabÃ­dku a jeÅ¡tÄ› pÅ™ihodÃ­m nÄ›co navÃ­c.}
+{344}{}{To je ale nÃ¡hodiÄka. Jsem zÃ¡stupce pana Bishopa.}
+{346}{}{Ve skuteÄnosti to auto nikomu prodÃ¡vat nebudeÅ¡. Je totiÅ¾ moje.}
+{347}{}{To znÃ­ jako dobrÃ½ obchod. UvidÃ­me se pozdÄ›ji.}
+{360}{}{ÃšdrÅ¾bu motoru, vyÄistit interiÃ©r, dÃ¡t poÅ™Ã¡dnÃ½ liÅ¥Ã¡ky a vyhodit z kufru tu hromadu haraburdÃ­, aby tam bylo vÃ­c mÃ­sta. AÅ¾ skonÄÃ­me, prodÃ¡me ho za sluÅ¡nÃ½ prachy panu Bishopovi.}
+{361}{}{Vy ho chcete prodat Bishopovi? PoslyÅ¡, dorovnÃ¡m Bishopovu nabÃ­dku a jeÅ¡tÄ› pÅ™ihodÃ­m nÄ›co navÃ­c.}
+{362}{}{To je ale nÃ¡hodiÄka. Jsem zÃ¡stupce pana Bishopa: }
+{365}{}{To znÃ­ dobÅ™e. UvidÃ­me se pozdÄ›ji.}
+{375}{}{DorovnÃ¡Å¡ BISHOPOVU nabÃ­dku, jo? To je ale poÅ™Ã¡dnÃ¡ hromada penÄ›z, chlape. MOC penÄ›z. NavÃ­c, on je jeden z nejdÅ¯leÅ¾itÄ›jÅ¡Ã­ch lidÃ­ v Renu, vÃ­Å¡? KdyÅ¾ mu ten stroj prodÃ¡m, dostanu... vÃ½hody v NATURÃLIÃCH.}
+{376}{}{DorovnÃ¡Å¡ BISHOPOVU nabÃ­dku, jo? To je ale poÅ™Ã¡dnÃ¡ hromada penÄ›z, Å¾enskÃ¡. MOC penÄ›z. NavÃ­c, on je jeden z nejdÅ¯leÅ¾itÄ›jÅ¡Ã­ch lidÃ­ v Renu, vÃ­Å¡? KdyÅ¾ mu ten stroj prodÃ¡m, dostanu... vÃ½hody v NATURÃLIÃCH.}
 {377}{}{I'm listening...}
-{378}{}{Zmìní tvùj názor 1000 babek?}
-{379}{}{Zmìní tvùj názor 750 babek?}
-{380}{}{Zmìní tvùj názor 500 babek?}
-{381}{}{Vlastnì teï nemám dost penìz...}
-{382}{}{A co takhle noc se mnou, T-Rayi? K nièemu lepšímu se u nikdy nedostaneš.}
-{383}{}{Moje nabídka zní: Nic ti neudìlám, kdy mi okamitì vrátíš MOJE auto.}
-{384}{}{Tak nic... u musím jít.}
-{395}{}{Hele, chlape, za to si nekoupím ani novı obleèení, nato abych zmìnil názor. }
-{396}{}{Hele, enská, za to si nekoupím ani novı obleèení, nato abych zmìnil názor. }
-{397}{}{Ty si asi myslíš, e jsou auta levnı.}
+{378}{}{ZmÄ›nÃ­ tvÅ¯j nÃ¡zor 1000 babek?}
+{379}{}{ZmÄ›nÃ­ tvÅ¯j nÃ¡zor 750 babek?}
+{380}{}{ZmÄ›nÃ­ tvÅ¯j nÃ¡zor 500 babek?}
+{381}{}{VlastnÄ› teÄ nemÃ¡m dost penÄ›z...}
+{382}{}{A co takhle noc se mnou, T-Rayi? K niÄemu lepÅ¡Ã­mu se uÅ¾ nikdy nedostaneÅ¡.}
+{383}{}{Moje nabÃ­dka znÃ­: Nic ti neudÄ›lÃ¡m, kdyÅ¾ mi okamÅ¾itÄ› vrÃ¡tÃ­Å¡ MOJE auto.}
+{384}{}{Tak nic... uÅ¾ musÃ­m jÃ­t.}
+{395}{}{Hele, chlape, za to si nekoupÃ­m ani novÃ½ obleÄenÃ­, natoÅ¾ abych zmÄ›nil nÃ¡zor. }
+{396}{}{Hele, Å¾enskÃ¡, za to si nekoupÃ­m ani novÃ½ obleÄenÃ­, natoÅ¾ abych zmÄ›nil nÃ¡zor. }
+{397}{}{Ty si asi myslÃ­Å¡, Å¾e jsou auta levnÃ½.}
 {398}{}{Tak to zkusme znovu.}
-{399}{}{Poslyš, momentálnì ti víc nabídnout nemùu, ale a seenu peníze...}
-{401}{}{Ne, ale tvùj ivot je. Nic ti neudìlám, kdy mi okamitì vrátíš MOJE auto.}
-{402}{}{Na tohle teï nemám èas. Sbohem.}
-{420}{}{Ne, jednu èubku u mám. A jak se tak na tebe dívám, vùbec by to nestálo za to.}
-{421}{}{Tvoje chyba. Tak uka co máš.}
-{422}{}{Víš co? U je mi BLBÌ z tebe a tvıch kecù. Nasekám tì na tolik kouskù, e si budeš moct otevøít øeznictví.}
-{423}{}{Tak dobøe. Odcházím.}
-{436}{}{Kašlu na vyjednávání. Vra mi MOJE auto, nebo uvidíš.}
-{437}{}{Zapomeò na to. Nasekám tì na tolik kouskù, e si budeš moct otevøít øeznictví.}
-{445}{}{(Jeho oèi pøejedou po tvém tìle.) No nevím, jestli máš TAKOVOU cenu, enská. Mluvíme pøece o HIGHWAYMANOVI...}
-{446}{}{Ale jo, mám takovou cenu. Dokonce mnohem vìtší.}
-{455}{}{No, moná jsem blbej, ale... platí. Já si trochu uiju a ty pak mùeš odjet s Highwaymanem pryè.}
-{456}{}{Tak pojïme na to.}
-{457}{}{Kašlu na vyjednávání. Vra mi MOJE auto, nebo uvidíš.}
-{458}{}{Rozmyslela jsem si to. Myslím, e tì radìji zabiju.}
-{459}{}{Zapomeò na to. Odcházím.}
-{470}{}{Tak proè plıtváš mım èasem? Jestli nemáš prachy, tak tu nemáš co dìlat. Mám na starosti dùleitìjší vìci, ne se vybavovat s takovım uboákem, jako jsi ty.}
-{471}{}{Jedinı, co je tady ubohı, je tvùj ivot. Nic ti neudìlám, kdy mi okamitì vrátíš MOJE auto.}
-{472}{}{Víš, to byla tvoje poslední šance, take teï tì prostì ZABIJU.}
+{399}{}{PoslyÅ¡, momentÃ¡lnÄ› ti vÃ­c nabÃ­dnout nemÅ¯Å¾u, ale aÅ¾ seÅ¾enu penÃ­ze...}
+{401}{}{Ne, ale tvÅ¯j Å¾ivot je. Nic ti neudÄ›lÃ¡m, kdyÅ¾ mi okamÅ¾itÄ› vrÃ¡tÃ­Å¡ MOJE auto.}
+{402}{}{Na tohle teÄ nemÃ¡m Äas. Sbohem.}
+{420}{}{Ne, jednu Äubku uÅ¾ mÃ¡m. A jak se tak na tebe dÃ­vÃ¡m, vÅ¯bec by to nestÃ¡lo za to.}
+{421}{}{Tvoje chyba. Tak ukaÅ¾ co mÃ¡Å¡.}
+{422}{}{VÃ­Å¡ co? UÅ¾ je mi BLBÄš z tebe a tvÃ½ch kecÅ¯. NasekÃ¡m tÄ› na tolik kouskÅ¯, Å¾e si budeÅ¡ moct otevÅ™Ã­t Å™eznictvÃ­.}
+{423}{}{Tak dobÅ™e. OdchÃ¡zÃ­m.}
+{436}{}{KaÅ¡lu na vyjednÃ¡vÃ¡nÃ­. VraÅ¥ mi MOJE auto, nebo uvidÃ­Å¡.}
+{437}{}{ZapomeÅˆ na to. NasekÃ¡m tÄ› na tolik kouskÅ¯, Å¾e si budeÅ¡ moct otevÅ™Ã­t Å™eznictvÃ­.}
+{445}{}{(Jeho oÄi pÅ™ejedou po tvÃ©m tÄ›le.) No nevÃ­m, jestli mÃ¡Å¡ TAKOVOU cenu, Å¾enskÃ¡. MluvÃ­me pÅ™ece o HIGHWAYMANOVI...}
+{446}{}{Ale jo, mÃ¡m takovou cenu. Dokonce mnohem vÄ›tÅ¡Ã­.}
+{455}{}{No, moÅ¾nÃ¡ jsem blbej, ale... platÃ­. JÃ¡ si trochu uÅ¾iju a ty pak mÅ¯Å¾eÅ¡ odjet s Highwaymanem pryÄ.}
+{456}{}{Tak pojÄme na to.}
+{457}{}{KaÅ¡lu na vyjednÃ¡vÃ¡nÃ­. VraÅ¥ mi MOJE auto, nebo uvidÃ­Å¡.}
+{458}{}{Rozmyslela jsem si to. MyslÃ­m, Å¾e tÄ› radÄ›ji zabiju.}
+{459}{}{ZapomeÅˆ na to. OdchÃ¡zÃ­m.}
+{470}{}{Tak proÄ plÃ½tvÃ¡Å¡ mÃ½m Äasem? Jestli nemÃ¡Å¡ prachy, tak tu nemÃ¡Å¡ co dÄ›lat. MÃ¡m na starosti dÅ¯leÅ¾itÄ›jÅ¡Ã­ vÄ›ci, neÅ¾ se vybavovat s takovÃ½m uboÅ¾Ã¡kem, jako jsi ty.}
+{471}{}{JedinÃ½, co je tady ubohÃ½, je tvÅ¯j Å¾ivot. Nic ti neudÄ›lÃ¡m, kdyÅ¾ mi okamÅ¾itÄ› vrÃ¡tÃ­Å¡ MOJE auto.}
+{472}{}{VÃ­Å¡, to byla tvoje poslednÃ­ Å¡ance, takÅ¾e teÄ tÄ› prostÄ› ZABIJU.}
 {485}{}{TVOJE auto? }
-{486}{}{Chlape, vdy ty ani nevíš, o èem to sakra mluvíš. }
-{487}{}{enská, vdy ty ani nevíš, o èem to sakra mluvíš. }
-{488}{}{Ten Highwayman byl šrot, leel si tam jenom tak a hádej co? Teï je náš. A jestli s tím máš nìjakej PROBLÉM, tak ho tady hned vyøešíme...}
-{489}{}{Jo, mám s tím problém. Tak pojï, zlodìji...}
-{490}{}{Co chcete s tím autem dìlat?}
-{491}{}{Ne, v pohodì. Klidnì si toho zatracenıho Highwaymana nechte. Stejnì je to kus šrotu. ere moc proudu, uvnitø to smrdí jako geckon, kufr je moc malej... ale pro tebe bude perfektní. Zatím.}
-{492}{}{Ne, nemám s tím problém... zatím. Èau.}
-{500}{}{Hej, tak moment! *Kus šrotu? Smrdí jako geckon?* }
-{501}{}{Chlape, co to bereš za Jet? }
-{502}{}{enská, co to bereš za Jet? }
-{503}{}{Tohle je HIGHWAYMAN. Nejenom e funguje, ale a ho upravíme, bude vrnìt stejnì jako enská pode mnou.}
-{504}{}{Je mi z tebe blbì. Naer se olova, zlodìji...}
-{505}{}{Co budete na autì dìlat?}
-{506}{}{No nic. Mizím odsud.}
-{520}{}{Jo, to jsem si MYSLEL. Radši zdrhej, ne si o tebe maminka zaène dìlat starosti.}
-{521}{}{Ne, ve skuteènosti si dìlá TVOJE maminka starosti, kdy nejsem nablízku, abych ji mohl potìšit.}
-{522}{}{[Nechat to bıt a jít potichu pryè]}
-{530}{}{Tak dobøe. Dohodnuto. (Rychle si zkontroluje peníze a poté je schová do kapsy.) Highwayman je tvùj. Ale samozøejmì nemá šávu, ani to speciální pøíslušenství, kterı jsme do nìj chtìli dát...}
-{531}{}{Jaké pøíslušenství máš na mysli?}
-{532}{}{U je mi z tìch kecù blbì. Naer se olova, zlodìji...}
-{533}{}{U jsi mi toho dal a DOST. Mizím odsud.}
-{540}{}{(T-Ray si utøe pot ze svého tìla.) Zatracenì, enská. Tak fajn, Highwayman je tvùj. Ale nemá ádnı pøíslušenství, kterı jsme do nìj chtìli dát...}
-{541}{}{O jakém pøíslušenství to mluvíš?}
-{542}{}{U je mi z tìch kecù blbì. Naer se olova, zlodìji...}
-{543}{}{Tak a mám zpátky svoje auto. U na nìj nikdy nesahej. Mizím... odsud.}
-{550}{}{No co? Údrbu motoru, vyèistit interiér, nablejskat lak, dát poøádnı liáky a vyhodit z kufru tu hromadu haraburdí, aby tam bylo víc místa. 500 babek.}
-{551}{}{Vdy víš. Údrbu motoru, vyèistit interiér, nablejskat lak, dát poøádnı liáky a vyhodit z kufru tu hromadu haraburdí, aby tam bylo víc místa. Máš zájem? Jenom 500 babek.}
-{552}{}{Jasnì. Tady je 500 babek.}
+{486}{}{Chlape, vÅ¾dyÅ¥ ty ani nevÃ­Å¡, o Äem to sakra mluvÃ­Å¡. }
+{487}{}{Å½enskÃ¡, vÅ¾dyÅ¥ ty ani nevÃ­Å¡, o Äem to sakra mluvÃ­Å¡. }
+{488}{}{Ten Highwayman byl Å¡rot, leÅ¾el si tam jenom tak a hÃ¡dej co? TeÄ je nÃ¡Å¡. A jestli s tÃ­m mÃ¡Å¡ nÄ›jakej PROBLÃ‰M, tak ho tady hned vyÅ™eÅ¡Ã­me...}
+{489}{}{Jo, mÃ¡m s tÃ­m problÃ©m. Tak pojÄ, zlodÄ›ji...}
+{490}{}{Co chcete s tÃ­m autem dÄ›lat?}
+{491}{}{Ne, v pohodÄ›. KlidnÄ› si toho zatracenÃ½ho Highwaymana nechte. StejnÄ› je to kus Å¡rotu. Å½ere moc proudu, uvnitÅ™ to smrdÃ­ jako geckon, kufr je moc malej... ale pro tebe bude perfektnÃ­. ZatÃ­m.}
+{492}{}{Ne, nemÃ¡m s tÃ­m problÃ©m... zatÃ­m. ÄŒau.}
+{500}{}{Hej, tak moment! *Kus Å¡rotu? SmrdÃ­ jako geckon?* }
+{501}{}{Chlape, co to bereÅ¡ za Jet? }
+{502}{}{Å½enskÃ¡, co to bereÅ¡ za Jet? }
+{503}{}{Tohle je HIGHWAYMAN. Nejenom Å¾e funguje, ale aÅ¾ ho upravÃ­me, bude vrnÄ›t stejnÄ› jako Å¾enskÃ¡ pode mnou.}
+{504}{}{Je mi z tebe blbÄ›. NaÅ¾er se olova, zlodÄ›ji...}
+{505}{}{Co budete na autÄ› dÄ›lat?}
+{506}{}{No nic. MizÃ­m odsud.}
+{520}{}{Jo, to jsem si MYSLEL. RadÅ¡i zdrhej, neÅ¾ si o tebe maminka zaÄne dÄ›lat starosti.}
+{521}{}{Ne, ve skuteÄnosti si dÄ›lÃ¡ TVOJE maminka starosti, kdyÅ¾ nejsem nablÃ­zku, abych ji mohl potÄ›Å¡it.}
+{522}{}{[Nechat to bÃ½t a jÃ­t potichu pryÄ]}
+{530}{}{Tak dobÅ™e. Dohodnuto. (Rychle si zkontroluje penÃ­ze a potÃ© je schovÃ¡ do kapsy.) Highwayman je tvÅ¯j. Ale samozÅ™ejmÄ› nemÃ¡ Å¡Å¥Ã¡vu, ani to speciÃ¡lnÃ­ pÅ™Ã­sluÅ¡enstvÃ­, kterÃ½ jsme do nÄ›j chtÄ›li dÃ¡t...}
+{531}{}{JakÃ© pÅ™Ã­sluÅ¡enstvÃ­ mÃ¡Å¡ na mysli?}
+{532}{}{UÅ¾ je mi z tÄ›ch kecÅ¯ blbÄ›. NaÅ¾er se olova, zlodÄ›ji...}
+{533}{}{UÅ¾ jsi mi toho dal aÅ¾ DOST. MizÃ­m odsud.}
+{540}{}{(T-Ray si utÅ™e pot ze svÃ©ho tÄ›la.) ZatracenÄ›, Å¾enskÃ¡. Tak fajn, Highwayman je tvÅ¯j. Ale nemÃ¡ Å¾Ã¡dnÃ½ pÅ™Ã­sluÅ¡enstvÃ­, kterÃ½ jsme do nÄ›j chtÄ›li dÃ¡t...}
+{541}{}{O jakÃ©m pÅ™Ã­sluÅ¡enstvÃ­ to mluvÃ­Å¡?}
+{542}{}{UÅ¾ je mi z tÄ›ch kecÅ¯ blbÄ›. NaÅ¾er se olova, zlodÄ›ji...}
+{543}{}{Tak a mÃ¡m zpÃ¡tky svoje auto. UÅ¾ na nÄ›j nikdy nesahej. MizÃ­m... odsud.}
+{550}{}{No co? ÃšdrÅ¾bu motoru, vyÄistit interiÃ©r, nablejskat lak, dÃ¡t poÅ™Ã¡dnÃ½ liÅ¥Ã¡ky a vyhodit z kufru tu hromadu haraburdÃ­, aby tam bylo vÃ­c mÃ­sta. 500 babek.}
+{551}{}{VÅ¾dyÅ¥ vÃ­Å¡. ÃšdrÅ¾bu motoru, vyÄistit interiÃ©r, nablejskat lak, dÃ¡t poÅ™Ã¡dnÃ½ liÅ¥Ã¡ky a vyhodit z kufru tu hromadu haraburdÃ­, aby tam bylo vÃ­c mÃ­sta. MÃ¡Å¡ zÃ¡jem? Jenom 500 babek.}
+{552}{}{JasnÄ›. Tady je 500 babek.}
 {553}{}{Co takhle 300 babek?}
-{554}{}{Tolik teï u sebe nemám. Mùu se zastavit pozdìji?}
-{555}{}{Co takhle víc mé sladké lásky?}
-{556}{}{Co moje tìlo? To tì nezajímá?}
-{558}{}{U je mi z tìch kecù BLBÌ. Naer se olova, zlodìji...}
-{559}{}{Chci, aby ses u nikdy nedotıkal mého auta. Mizím odsud.}
-{575}{}{Dohodnuto. (Vezme si peníze.) Všechno je vyøízené. Jo a poslyš, kdyby ti nìkdy došly baterky, zajdi za mnou a já ti nìjakı seenu.}
-{576}{}{Mùu vidìt co máš na skladì?}
-{577}{}{Tak dobøe, díky. Mìj se, T-Rayi.}
-{590}{}{(Zavrtí hlavou.) Ne, to je málo. 500 nebo nic.}
-{615}{}{Jasnì, e mùeš. To je v pohodì. Jo a poslyš, kdyby ti nìkdy došly baterky, zajdi za mnou a já ti nìjakı seenu.}
-{616}{}{Vlastnì by se mi teï nìjaké hodily.}
-{617}{}{Jo, nìjaké by se mi hodily, ale víš ty co? Nìjak se mi nechce platit hotovì... nemìl bys zájem o nìco... JINÉHO?}
-{619}{}{Tak dobøe. Zatím.}
-{630}{}{(Pokrèí rameny.) Promiò, ale teï zrovna ádnı baterie nemám... stav se za tıden nebo dva, tøeba se nìco objeví. Ale jestli chceš... mùem jít STEJNÌ na vìc...}
-{631}{}{Tak dobøe.}
-{632}{}{Promiò, ale jenom kdy jde o OBCHOD. Zatím, T-Rayi.}
-{640}{}{Sakra, dìvko! Vdy jsem tì pomiloval sotva pøed pìti minutama! Chceš mì ZABÍT?}
+{554}{}{Tolik teÄ u sebe nemÃ¡m. MÅ¯Å¾u se zastavit pozdÄ›ji?}
+{555}{}{Co takhle vÃ­c mÃ© sladkÃ© lÃ¡sky?}
+{556}{}{Co moje tÄ›lo? To tÄ› nezajÃ­mÃ¡?}
+{558}{}{UÅ¾ je mi z tÄ›ch kecÅ¯ BLBÄš. NaÅ¾er se olova, zlodÄ›ji...}
+{559}{}{Chci, aby ses uÅ¾ nikdy nedotÃ½kal mÃ©ho auta. MizÃ­m odsud.}
+{575}{}{Dohodnuto. (Vezme si penÃ­ze.) VÅ¡echno je vyÅ™Ã­zenÃ©. Jo a poslyÅ¡, kdyby ti nÄ›kdy doÅ¡ly baterky, zajdi za mnou a jÃ¡ ti nÄ›jakÃ½ seÅ¾enu.}
+{576}{}{MÅ¯Å¾u vidÄ›t co mÃ¡Å¡ na skladÄ›?}
+{577}{}{Tak dobÅ™e, dÃ­ky. MÄ›j se, T-Rayi.}
+{590}{}{(ZavrtÃ­ hlavou.) Ne, to je mÃ¡lo. 500 nebo nic.}
+{615}{}{JasnÄ›, Å¾e mÅ¯Å¾eÅ¡. To je v pohodÄ›. Jo a poslyÅ¡, kdyby ti nÄ›kdy doÅ¡ly baterky, zajdi za mnou a jÃ¡ ti nÄ›jakÃ½ seÅ¾enu.}
+{616}{}{VlastnÄ› by se mi teÄ nÄ›jakÃ© hodily.}
+{617}{}{Jo, nÄ›jakÃ© by se mi hodily, ale vÃ­Å¡ ty co? NÄ›jak se mi nechce platit hotovÄ›... nemÄ›l bys zÃ¡jem o nÄ›co... JINÃ‰HO?}
+{619}{}{Tak dobÅ™e. ZatÃ­m.}
+{630}{}{(PokrÄÃ­ rameny.) PromiÅˆ, ale teÄ zrovna Å¾Ã¡dnÃ½ baterie nemÃ¡m... stav se za tÃ½den nebo dva, tÅ™eba se nÄ›co objevÃ­. Ale jestli chceÅ¡... mÅ¯Å¾em jÃ­t STEJNÄš na vÄ›c...}
+{631}{}{Tak dobÅ™e.}
+{632}{}{PromiÅˆ, ale jenom kdyÅ¾ jde o OBCHOD. ZatÃ­m, T-Rayi.}
+{640}{}{Sakra, dÄ›vko! VÅ¾dyÅ¥ jsem tÄ› pomiloval sotva pÅ™ed pÄ›ti minutama! ChceÅ¡ mÄ› ZABÃT?}
 {641}{}{Now, hold on...}
-{642}{}{No tak, potøebuju vzrušení. A TY jseš jedinej, kdo mi to udìlá poøádnì.}
-{643}{}{Zapomeò na to. Jdu pryè.}
-{650}{}{Ne, jednu èubku u mám. A jak se tak na tebe dívám, vùbec by to nestálo za to. Všechno to pøíslušenství na Highwaymana mùeš mít za 500 babek.}
-{651}{}{Tak dobøe. Tady je 500 babek.}
-{653}{}{Víš ty co? U je mi z tìch tvejch kecù BLBÌ. Pøiprav se na smrt.}
-{660}{}{(Zastaví tì, ne se staèíš otoèit.) Tak moment, enská. Neøekl jsem, e u NEMÁM zájem. Pojïme na to.}
-{661}{}{(Prohlédne si tì.) Kdy chlap musí, tak musí. Pojïme na to.}
-{662}{}{[Jít na "to"]}
+{642}{}{No tak, potÅ™ebuju vzruÅ¡enÃ­. A TY jseÅ¡ jedinej, kdo mi to udÄ›lÃ¡ poÅ™Ã¡dnÄ›.}
+{643}{}{ZapomeÅˆ na to. Jdu pryÄ.}
+{650}{}{Ne, jednu Äubku uÅ¾ mÃ¡m. A jak se tak na tebe dÃ­vÃ¡m, vÅ¯bec by to nestÃ¡lo za to. VÅ¡echno to pÅ™Ã­sluÅ¡enstvÃ­ na Highwaymana mÅ¯Å¾eÅ¡ mÃ­t za 500 babek.}
+{651}{}{Tak dobÅ™e. Tady je 500 babek.}
+{653}{}{VÃ­Å¡ ty co? UÅ¾ je mi z tÄ›ch tvejch kecÅ¯ BLBÄš. PÅ™iprav se na smrt.}
+{660}{}{(ZastavÃ­ tÄ›, neÅ¾ se staÄÃ­Å¡ otoÄit.) Tak moment, Å¾enskÃ¡. NeÅ™ekl jsem, Å¾e uÅ¾ NEMÃM zÃ¡jem. PojÄme na to.}
+{661}{}{(ProhlÃ©dne si tÄ›.) KdyÅ¾ chlap musÃ­, tak musÃ­. PojÄme na to.}
+{662}{}{[JÃ­t na "to"]}
 {663}{}{Ne, rozmyslela jsem si to. Nashle.}
-{670}{}{Nazdar! Náš velkej hrdina se pøišel podívat na starıho kámoše T-Raye! Vítej, vítej... }
-{671}{}{Nazdar kotì. Pøišla sis odpoèinout k Rayovi potom, co jsi nakopala všechny do zadku? }
-{672}{}{Poslyš... mám pro tvı auto nìco, co by tì mohlo zajímat... JESTLI ho ještì poøád máš.}
-{673}{}{Co to bıt?}
-{675}{}{Co máš pro moje auto?}
-{690}{}{Sakra, enská! Vdy jsem tì pomiloval sotva pøed pìti minutama! Chceš mì ZABÍT?}
-{691}{}{Ty chceš ZASE? Zatracenì, enská! Dáváš vùbec NÌKDY nohy k sobì?}
+{670}{}{Nazdar! NÃ¡Å¡ velkej hrdina se pÅ™iÅ¡el podÃ­vat na starÃ½ho kÃ¡moÅ¡e T-Raye! VÃ­tej, vÃ­tej... }
+{671}{}{Nazdar kotÄ›. PÅ™iÅ¡la sis odpoÄinout k Rayovi potom, co jsi nakopala vÅ¡echny do zadku? }
+{672}{}{PoslyÅ¡... mÃ¡m pro tvÃ½ auto nÄ›co, co by tÄ› mohlo zajÃ­mat... JESTLI ho jeÅ¡tÄ› poÅ™Ã¡d mÃ¡Å¡.}
+{673}{}{Co to bÃ½t?}
+{675}{}{Co mÃ¡Å¡ pro moje auto?}
+{690}{}{Sakra, Å¾enskÃ¡! VÅ¾dyÅ¥ jsem tÄ› pomiloval sotva pÅ™ed pÄ›ti minutama! ChceÅ¡ mÄ› ZABÃT?}
+{691}{}{Ty chceÅ¡ ZASE? ZatracenÄ›, Å¾enskÃ¡! DÃ¡vÃ¡Å¡ vÅ¯bec NÄšKDY nohy k sobÄ›?}
 {692}{}{No...}
-{693}{}{No ták, potøebuju to. A TY jsi jedinej, kdo mi to udìlá poøádnì.}
-{710}{}{(Prohlédne si tì a zamraèí se.) Jo, to urèitì. Znám VŠECHNY jeho lidi a ty to urèitì nejseš. (Kıvne smìrem na dveøe.) Vypadni, ne se naštvu.}
-{711}{}{Já JSEM Bishopùv èlovìk. Take budeme obchodovat nebo co?}
-{712}{}{U jdu, u jdu...}
-{720}{}{(Ušklíbne se.) Jo, to teda budem. Doufám, e nemáš rodinu, kterı budeš chybìt...}
-{721}{}{A ty doufej, e máš rodinu, která najde všechny tvoje kousky.}
-{730}{}{(Prohlédne si tì.) Ty jseš Bishopùv èlovìk?! Ne... tvoje vejška mi rozhodnì nesedí a ani nevypadáš moc... (Vypadá skepticky.) ...drsnì.}
-{731}{}{(Prohlédne si tì.) Ty jseš }
-{732}{}{Ano, jsem. Vyzıváš mì snad na souboj?}
+{693}{}{No tÃ¡k, potÅ™ebuju to. A TY jsi jedinej, kdo mi to udÄ›lÃ¡ poÅ™Ã¡dnÄ›.}
+{710}{}{(ProhlÃ©dne si tÄ› a zamraÄÃ­ se.) Jo, to urÄitÄ›. ZnÃ¡m VÅ ECHNY jeho lidi a ty to urÄitÄ› nejseÅ¡. (KÃ½vne smÄ›rem na dveÅ™e.) Vypadni, neÅ¾ se naÅ¡tvu.}
+{711}{}{JÃ¡ JSEM BishopÅ¯v ÄlovÄ›k. TakÅ¾e budeme obchodovat nebo co?}
+{712}{}{UÅ¾ jdu, uÅ¾ jdu...}
+{720}{}{(UÅ¡klÃ­bne se.) Jo, to teda budem. DoufÃ¡m, Å¾e nemÃ¡Å¡ rodinu, kterÃ½ budeÅ¡ chybÄ›t...}
+{721}{}{A ty doufej, Å¾e mÃ¡Å¡ rodinu, kterÃ¡ najde vÅ¡echny tvoje kousky.}
+{730}{}{(ProhlÃ©dne si tÄ›.) Ty jseÅ¡ BishopÅ¯v ÄlovÄ›k?! Ne... tvoje vejÅ¡ka mi rozhodnÄ› nesedÃ­ a ani nevypadÃ¡Å¡ moc... (VypadÃ¡ skepticky.) ...drsnÄ›.}
+{731}{}{(ProhlÃ©dne si tÄ›.) Ty jseÅ¡ }
+{732}{}{Ano, jsem. VyzÃ½vÃ¡Å¡ mÄ› snad na souboj?}
 {733}{}{Jsem }
-{734}{}{Nevìø všemu, co slyšíš. Promluvme si o autì pana Bishopa.}
-{735}{}{Zapomeò, e jsme spolu mluvili. Mizím odsud.}
-{745}{}{(Zvedne ruce, jako kdyby se chtìl vzdát.) Ne, ne, jenom si z tebe dìlám srandu.}
-{746}{}{Promluvme si o autì pana Bishopa.}
-{747}{}{Tak si pøíštì radìji dávej pozor. Mizím odsud.}
-{755}{}{Fajn, fajn... udìláme to asi takhle: provedeme všechny úpravy, udìláme údrbu a dodáme ho co nejdøív panu Bishopovi. Cena... (Pokrèí rameny a usmìje se.) ...otázkou je, dá se vùbec takovejhle Highwayman OCENIT?}
-{756}{}{Pokraèuj.}
-{757}{}{Nemám ÈAS na ty tvoje kecy. Vymáèkni se u.}
-{758}{}{Máš pravdu. Nedá. Vezmu si to auto a pan Bishop ti na oplátku dovolí pokraèovat ve tvé èinnosti.}
-{759}{}{Na tohle nemám èas. Mizím odsud.}
-{770}{}{Já to vidím tak, e tenhle Highwayman... je nejspíš poslední fungující na celım svìtì... má cenu NEJMÍÒ 3000 babek... ale víš ty co? (Mrkne.) Jsem ochotnej rozlouèit se s tímhle bájeènım strojem za 2700 dolarù, vzhledem k tomu, v jakım je stavu. Ale samozøejmì za to budu chtít nìjakı vıhody v NATURÁLIÍCH: klubovı vıhody, volnej vstup do bordelu...}
+{734}{}{NevÄ›Å™ vÅ¡emu, co slyÅ¡Ã­Å¡. Promluvme si o autÄ› pana Bishopa.}
+{735}{}{ZapomeÅˆ, Å¾e jsme spolu mluvili. MizÃ­m odsud.}
+{745}{}{(Zvedne ruce, jako kdyby se chtÄ›l vzdÃ¡t.) Ne, ne, jenom si z tebe dÄ›lÃ¡m srandu.}
+{746}{}{Promluvme si o autÄ› pana Bishopa.}
+{747}{}{Tak si pÅ™Ã­Å¡tÄ› radÄ›ji dÃ¡vej pozor. MizÃ­m odsud.}
+{755}{}{Fajn, fajn... udÄ›lÃ¡me to asi takhle: provedeme vÅ¡echny Ãºpravy, udÄ›lÃ¡me ÃºdrÅ¾bu a dodÃ¡me ho co nejdÅ™Ã­v panu Bishopovi. Cena... (PokrÄÃ­ rameny a usmÄ›je se.) ...otÃ¡zkou je, dÃ¡ se vÅ¯bec takovejhle Highwayman OCENIT?}
+{756}{}{PokraÄuj.}
+{757}{}{NemÃ¡m ÄŒAS na ty tvoje kecy. VymÃ¡Äkni se uÅ¾.}
+{758}{}{MÃ¡Å¡ pravdu. NedÃ¡. Vezmu si to auto a pan Bishop ti na oplÃ¡tku dovolÃ­ pokraÄovat ve tvÃ© Äinnosti.}
+{759}{}{Na tohle nemÃ¡m Äas. MizÃ­m odsud.}
+{770}{}{JÃ¡ to vidÃ­m tak, Å¾e tenhle Highwayman... je nejspÃ­Å¡ poslednÃ­ fungujÃ­cÃ­ na celÃ½m svÄ›tÄ›... mÃ¡ cenu NEJMÃÅ‡ 3000 babek... ale vÃ­Å¡ ty co? (Mrkne.) Jsem ochotnej rozlouÄit se s tÃ­mhle bÃ¡jeÄnÃ½m strojem za 2700 dolarÅ¯, vzhledem k tomu, v jakÃ½m je stavu. Ale samozÅ™ejmÄ› za to budu chtÃ­t nÄ›jakÃ½ vÃ½hody v NATURÃLIÃCH: klubovÃ½ vÃ½hody, volnej vstup do bordelu...}
 {771}{}{2700? Dohodnuto. Tady jsou.}
-{772}{}{Pan Bishop ti mùe nabídnout 1500 dolarù.}
-{773}{}{2700? Ne, ne... pan Bishop si to auto vezme za 900 dolarù.}
-{774}{}{Mám protinabídku. Vezmu si to auto zadarmo a pan Bishop ti na oplátku dovolí pokraèovat ve tvé èinnosti.}
-{775}{}{Povím to panu Bishopovi a pak se vrátím s jeho odpovìdí.}
-{780}{}{(T-Ray mrkne a poté se široce usmìje, kdy mu pøedáš peníze.) Mám rád, kdy se obchody vyøídìj takhle rychle a jednoduše. Bylo mi potìšením s tebou obchodovat, opravdu potìšení... a co ty vıhody v naturáliích?}
-{781}{}{To si budeš muset domluvit s panem Bishopem. Pan Bishop má ještì jednu ádost: Baterie zdarma z tvého obchodu. Doruèím mu je osobnì.}
-{782}{}{Ostatní vıhody si budeš muset domluvit pøímo s panem Bishopem. A nezapomeò mít v ruce zbraò a hlasitì vyøvávat, e ti nìco dluí. Pro takové mue má respekt.}
-{783}{}{O tìch vıhodách si budeš muset promluvit s panem Bishopem. Sbohem.}
-{790}{}{Chlape, za to si nekoupím ani novı obleèení! }
-{791}{}{enská, za to si nekoupím ani novı obleèení! }
-{792}{}{Myslí si snad Bishop, e jsou auta LEVNİ?!}
-{793}{}{Máš snad pocit, e se k tobì chová... nefér?}
-{794}{}{Pan Bishop ti dal VELKORYSOU nabídku 1500 dolarù. Jeho další nabídka se ti nebude líbit.}
-{795}{}{Moná by se ti tedy mohlo víc líbit 900 dolarù. Pan Bishop bude rád, e pracuješ tak lacino.}
-{797}{}{Jeliko jsi odmítl jeho velkorysou nabídku, mám naøízeno si to auto vzít zadarmo.}
-{798}{}{U mì tahle konverzace unavuje. Vrátím se pozdìji.}
-{810}{}{Devìt... chlape, dìláš si srandu?! }
-{811}{}{Devìt... enská, dìláš si srandu?! }
-{812}{}{Na to ti seru! Tohle je HIGHWAYMAN. U ho NIKDE nevyrábìj, chápeš? Myslím, e JINİ rodiny za nìj s radostí zaplatí, pokud ho ten parchant Bishop nekoupí...}
-{814}{}{Pan Bishop ti dal VELKORYSOU nabídku 1500 dolarù. Jeho další nabídka se ti nebude líbit.}
-{816}{}{Take ty obchoduješ s jinımi rodinami? To bude pana Bishopa velice zajímat.}
-{817}{}{Co prosím? Jak e jsi to nazval pana Bishopa?}
-{818}{}{U mì to unavuje. Promluvíme si pozdìji.}
-{830}{}{(T-Ray ztuhne. Na vteøinu máš dojem, e na tebe chce zaútoèit, ale poté se uklidní.) Teda, chlape, to je pìknì sprostı. }
-{831}{}{(T-Ray ztuhne. Na vteøinu máš dojem, e na tebe chce zaútoèit, ale poté se uklidní.) Teda, enská, to je pìknì sprostı. }
-{832}{}{Co jsem panu Bishopovi udìlal, e se mnou takhle jedná? Co?}
-{834}{}{To si vyøiï s panem Bishopem. Jo a... pan Bishop má ještì jednu ádost: Baterie zdarma z tvého obchodu. Doruèím mu je osobnì.}
-{835}{}{Nìco by se urèitì našlo. Nemá tì moc rád. Bylo mi potìšením s tebou obchodovat.}
-{845}{}{Ne, ne, nic takovıho...! Já a pan Bishop... si rozumíme. Nemáme mezi sebou ádnı problémy. Chová se ke mnì dobøe. Vyøiï mu to, jo? Ale... eh... co ty vıhody, o kterejch jsem mluvil?}
-{846}{}{To si budeš muset domluvit osobnì s panem Bishopem. Pan Bishop má ještì jednu ádost: Baterie zdarma z tvého obchodu. Doruèím mu je osobnì.}
-{847}{}{Ostatní vıhody si budeš muset domluvit s panem Bishopem. A nezapomeò mít v ruce zbraò a hlasitì vyøvávat, e ti nìco dluí. Pro takové mue má respekt.}
-{855}{}{(T-Rayùv úsmìv povadne.) Fajn... jasnì, jasnì... ádnej problém.}
-{856}{}{Vıbornì. Dej mi všechny baterie, co máš.}
-{857}{}{[Odejít]}
-{865}{}{Jasnì, jasnì... poslyš, øekni šéfovi, e si ode mì mùe kdykoliv koupit baterie. Kadou chvíli tu nìjakı mám.}
-{866}{}{Opravdu? Uka, co máš.}
-{875}{}{Teï ádnı nemáme. Vìtšina aut, co jsme rozebrali, mìla hovno. Budeš muset poèkat tıden nebo dva, jasnı?}
-{876}{}{Tak dobøe, necháme to bıt. Pro tentokrát. Zatím.}
-{885}{}{(T-Rayovi poklesnou ramena.) Fajn, fajn. Tady máš. Víc nemám.}
-{886}{}{Tak dobøe. Za dva tıdny se vrátím pro další. Mìj je pøipravené pro pana Bishopa.}
-{896}{}{Dobøe. Zkusím to pozdìji.}
-{905}{}{Jasnì, pár jich máme.}
-{906}{}{Ukáeš mi, co máš na skladì?}
-{907}{}{No, docela bych je potøebovala, ale nechce se mi za nì platit. Nemohla bych zaplatit nìjak... JINAK?}
-{909}{}{Jen se ptám. Uvidíme se pozdìji.}
-{915}{}{Gravitaèní talíøe! Tyhle krásky ti umoní LÍTAT nad pouští a maj recyklaèní napájecí èip, take neberou skoro ádnou šávu. Co na to øíkáš? Chceš je?}
-{916}{}{Já líbit, já vzít.}
-{918}{}{To zní dobøe. Vezmu si je.}
-{919}{}{Teï ne. Jsem tady pro ty baterie pro pana Bishopa.}
-{920}{}{Teï ne. Mùeš na autì nìco vylepšit kromì tìch gravitaèních talíøù?}
-{921}{}{Teï ne. Mùu si místo toho koupit nìjaké baterie?}
-{922}{}{Ne, teï ne. Moná pozdìji. Zatím.}
-{930}{}{(T-Ray stráví asi hodinu v dílnì. Kdy skonèí, talíøe jsou nainstalovány.)}
-{931}{}{Díky, T-Rayi. Váím si toho. Pùjdu je vyzkoušet.}
-{940}{}{Poslu si, hrdino.}
-{941}{}{Co je moje, to je tvoje. A nezapomeò to všem øíct.}
-{942}{}{Sakra. Zachráníš svìt a STEJNÌ musíš øešit kadou hovadinu.}
-{950}{}{Táhni od mıch vìcí.}
-{951}{}{Dotkni se ještì jednou mejch vìcí a nakopu ti prdel.}
-{1000}{}{Podaøilo se ti získat zpìt své auto bez pouití násilí.}
-{1001}{}{T-Ray byl úspìšnì oklamán.}
-{1002}{}{Získáváš zásobu baterií do auta zdarma.}
-{1100}{}{Pøíliš... mnoho... sexu... asi... prasknu...}
-{2000}{}{Získáváš baterie pro Highwaymana.}
-{2010}{}{Získáváš vylepšení pro Highwaymana.}
+{772}{}{Pan Bishop ti mÅ¯Å¾e nabÃ­dnout 1500 dolarÅ¯.}
+{773}{}{2700? Ne, ne... pan Bishop si to auto vezme za 900 dolarÅ¯.}
+{774}{}{MÃ¡m protinabÃ­dku. Vezmu si to auto zadarmo a pan Bishop ti na oplÃ¡tku dovolÃ­ pokraÄovat ve tvÃ© Äinnosti.}
+{775}{}{PovÃ­m to panu Bishopovi a pak se vrÃ¡tÃ­m s jeho odpovÄ›dÃ­.}
+{780}{}{(T-Ray mrkne a potÃ© se Å¡iroce usmÄ›je, kdyÅ¾ mu pÅ™edÃ¡Å¡ penÃ­ze.) MÃ¡m rÃ¡d, kdyÅ¾ se obchody vyÅ™Ã­dÄ›j takhle rychle a jednoduÅ¡e. Bylo mi potÄ›Å¡enÃ­m s tebou obchodovat, opravdu potÄ›Å¡enÃ­... a co ty vÃ½hody v naturÃ¡liÃ­ch?}
+{781}{}{To si budeÅ¡ muset domluvit s panem Bishopem. Pan Bishop mÃ¡ jeÅ¡tÄ› jednu Å¾Ã¡dost: Baterie zdarma z tvÃ©ho obchodu. DoruÄÃ­m mu je osobnÄ›.}
+{782}{}{OstatnÃ­ vÃ½hody si budeÅ¡ muset domluvit pÅ™Ã­mo s panem Bishopem. A nezapomeÅˆ mÃ­t v ruce zbraÅˆ a hlasitÄ› vyÅ™vÃ¡vat, Å¾e ti nÄ›co dluÅ¾Ã­. Pro takovÃ© muÅ¾e mÃ¡ respekt.}
+{783}{}{O tÄ›ch vÃ½hodÃ¡ch si budeÅ¡ muset promluvit s panem Bishopem. Sbohem.}
+{790}{}{Chlape, za to si nekoupÃ­m ani novÃ½ obleÄenÃ­! }
+{791}{}{Å½enskÃ¡, za to si nekoupÃ­m ani novÃ½ obleÄenÃ­! }
+{792}{}{MyslÃ­ si snad Bishop, Å¾e jsou auta LEVNÃ?!}
+{793}{}{MÃ¡Å¡ snad pocit, Å¾e se k tobÄ› chovÃ¡... nefÃ©r?}
+{794}{}{Pan Bishop ti dal VELKORYSOU nabÃ­dku 1500 dolarÅ¯. Jeho dalÅ¡Ã­ nabÃ­dka se ti nebude lÃ­bit.}
+{795}{}{MoÅ¾nÃ¡ by se ti tedy mohlo vÃ­c lÃ­bit 900 dolarÅ¯. Pan Bishop bude rÃ¡d, Å¾e pracujeÅ¡ tak lacino.}
+{797}{}{JelikoÅ¾ jsi odmÃ­tl jeho velkorysou nabÃ­dku, mÃ¡m naÅ™Ã­zeno si to auto vzÃ­t zadarmo.}
+{798}{}{UÅ¾ mÄ› tahle konverzace unavuje. VrÃ¡tÃ­m se pozdÄ›ji.}
+{810}{}{DevÄ›t... chlape, dÄ›lÃ¡Å¡ si srandu?! }
+{811}{}{DevÄ›t... Å¾enskÃ¡, dÄ›lÃ¡Å¡ si srandu?! }
+{812}{}{Na to ti seru! Tohle je HIGHWAYMAN. UÅ¾ ho NIKDE nevyrÃ¡bÄ›j, chÃ¡peÅ¡? MyslÃ­m, Å¾e JINÃ rodiny za nÄ›j s radostÃ­ zaplatÃ­, pokud ho ten parchant Bishop nekoupÃ­...}
+{814}{}{Pan Bishop ti dal VELKORYSOU nabÃ­dku 1500 dolarÅ¯. Jeho dalÅ¡Ã­ nabÃ­dka se ti nebude lÃ­bit.}
+{816}{}{TakÅ¾e ty obchodujeÅ¡ s jinÃ½mi rodinami? To bude pana Bishopa velice zajÃ­mat.}
+{817}{}{Co prosÃ­m? Jak Å¾e jsi to nazval pana Bishopa?}
+{818}{}{UÅ¾ mÄ› to unavuje. PromluvÃ­me si pozdÄ›ji.}
+{830}{}{(T-Ray ztuhne. Na vteÅ™inu mÃ¡Å¡ dojem, Å¾e na tebe chce zaÃºtoÄit, ale potÃ© se uklidnÃ­.) Teda, chlape, to je pÄ›knÄ› sprostÃ½. }
+{831}{}{(T-Ray ztuhne. Na vteÅ™inu mÃ¡Å¡ dojem, Å¾e na tebe chce zaÃºtoÄit, ale potÃ© se uklidnÃ­.) Teda, Å¾enskÃ¡, to je pÄ›knÄ› sprostÃ½. }
+{832}{}{Co jsem panu Bishopovi udÄ›lal, Å¾e se mnou takhle jednÃ¡? Co?}
+{834}{}{To si vyÅ™iÄ s panem Bishopem. Jo a... pan Bishop mÃ¡ jeÅ¡tÄ› jednu Å¾Ã¡dost: Baterie zdarma z tvÃ©ho obchodu. DoruÄÃ­m mu je osobnÄ›.}
+{835}{}{NÄ›co by se urÄitÄ› naÅ¡lo. NemÃ¡ tÄ› moc rÃ¡d. Bylo mi potÄ›Å¡enÃ­m s tebou obchodovat.}
+{845}{}{Ne, ne, nic takovÃ½ho...! JÃ¡ a pan Bishop... si rozumÃ­me. NemÃ¡me mezi sebou Å¾Ã¡dnÃ½ problÃ©my. ChovÃ¡ se ke mnÄ› dobÅ™e. VyÅ™iÄ mu to, jo? Ale... eh... co ty vÃ½hody, o kterejch jsem mluvil?}
+{846}{}{To si budeÅ¡ muset domluvit osobnÄ› s panem Bishopem. Pan Bishop mÃ¡ jeÅ¡tÄ› jednu Å¾Ã¡dost: Baterie zdarma z tvÃ©ho obchodu. DoruÄÃ­m mu je osobnÄ›.}
+{847}{}{OstatnÃ­ vÃ½hody si budeÅ¡ muset domluvit s panem Bishopem. A nezapomeÅˆ mÃ­t v ruce zbraÅˆ a hlasitÄ› vyÅ™vÃ¡vat, Å¾e ti nÄ›co dluÅ¾Ã­. Pro takovÃ© muÅ¾e mÃ¡ respekt.}
+{855}{}{(T-RayÅ¯v ÃºsmÄ›v povadne.) Fajn... jasnÄ›, jasnÄ›... Å¾Ã¡dnej problÃ©m.}
+{856}{}{VÃ½bornÄ›. Dej mi vÅ¡echny baterie, co mÃ¡Å¡.}
+{857}{}{[OdejÃ­t]}
+{865}{}{JasnÄ›, jasnÄ›... poslyÅ¡, Å™ekni Å¡Ã©fovi, Å¾e si ode mÄ› mÅ¯Å¾e kdykoliv koupit baterie. KaÅ¾dou chvÃ­li tu nÄ›jakÃ½ mÃ¡m.}
+{866}{}{Opravdu? UkaÅ¾, co mÃ¡Å¡.}
+{875}{}{TeÄ Å¾Ã¡dnÃ½ nemÃ¡me. VÄ›tÅ¡ina aut, co jsme rozebrali, mÄ›la hovno. BudeÅ¡ muset poÄkat tÃ½den nebo dva, jasnÃ½?}
+{876}{}{Tak dobÅ™e, nechÃ¡me to bÃ½t. Pro tentokrÃ¡t. ZatÃ­m.}
+{885}{}{(T-Rayovi poklesnou ramena.) Fajn, fajn. Tady mÃ¡Å¡. VÃ­c nemÃ¡m.}
+{886}{}{Tak dobÅ™e. Za dva tÃ½dny se vrÃ¡tÃ­m pro dalÅ¡Ã­. MÄ›j je pÅ™ipravenÃ© pro pana Bishopa.}
+{896}{}{DobÅ™e. ZkusÃ­m to pozdÄ›ji.}
+{905}{}{JasnÄ›, pÃ¡r jich mÃ¡me.}
+{906}{}{UkÃ¡Å¾eÅ¡ mi, co mÃ¡Å¡ na skladÄ›?}
+{907}{}{No, docela bych je potÅ™ebovala, ale nechce se mi za nÄ› platit. Nemohla bych zaplatit nÄ›jak... JINAK?}
+{909}{}{Jen se ptÃ¡m. UvidÃ­me se pozdÄ›ji.}
+{915}{}{GravitaÄnÃ­ talÃ­Å™e! Tyhle krÃ¡sky ti umoÅ¾nÃ­ LÃTAT nad pouÅ¡tÃ­ a maj recyklaÄnÃ­ napÃ¡jecÃ­ Äip, takÅ¾e neberou skoro Å¾Ã¡dnou Å¡Å¥Ã¡vu. Co na to Å™Ã­kÃ¡Å¡? ChceÅ¡ je?}
+{916}{}{JÃ¡ lÃ­bit, jÃ¡ vzÃ­t.}
+{918}{}{To znÃ­ dobÅ™e. Vezmu si je.}
+{919}{}{TeÄ ne. Jsem tady pro ty baterie pro pana Bishopa.}
+{920}{}{TeÄ ne. MÅ¯Å¾eÅ¡ na autÄ› nÄ›co vylepÅ¡it kromÄ› tÄ›ch gravitaÄnÃ­ch talÃ­Å™Å¯?}
+{921}{}{TeÄ ne. MÅ¯Å¾u si mÃ­sto toho koupit nÄ›jakÃ© baterie?}
+{922}{}{Ne, teÄ ne. MoÅ¾nÃ¡ pozdÄ›ji. ZatÃ­m.}
+{930}{}{(T-Ray strÃ¡vÃ­ asi hodinu v dÃ­lnÄ›. KdyÅ¾ skonÄÃ­, talÃ­Å™e jsou nainstalovÃ¡ny.)}
+{931}{}{DÃ­ky, T-Rayi. VÃ¡Å¾Ã­m si toho. PÅ¯jdu je vyzkouÅ¡et.}
+{940}{}{PosluÅ¾ si, hrdino.}
+{941}{}{Co je moje, to je tvoje. A nezapomeÅˆ to vÅ¡em Å™Ã­ct.}
+{942}{}{Sakra. ZachrÃ¡nÃ­Å¡ svÄ›t a STEJNÄš musÃ­Å¡ Å™eÅ¡it kaÅ¾dou hovadinu.}
+{950}{}{TÃ¡hni od mÃ½ch vÄ›cÃ­.}
+{951}{}{Dotkni se jeÅ¡tÄ› jednou mejch vÄ›cÃ­ a nakopu ti prdel.}
+{1000}{}{PodaÅ™ilo se ti zÃ­skat zpÄ›t svÃ© auto bez pouÅ¾itÃ­ nÃ¡silÃ­.}
+{1001}{}{T-Ray byl ÃºspÄ›Å¡nÄ› oklamÃ¡n.}
+{1002}{}{ZÃ­skÃ¡vÃ¡Å¡ zÃ¡sobu bateriÃ­ do auta zdarma.}
+{1100}{}{PÅ™Ã­liÅ¡... mnoho... sexu... asi... prasknu...}
+{2000}{}{ZÃ­skÃ¡vÃ¡Å¡ baterie pro Highwaymana.}
+{2010}{}{ZÃ­skÃ¡vÃ¡Å¡ vylepÅ¡enÃ­ pro Highwaymana.}
 {5286}{}{. Jdu si pro jeho auto.}
-{5731}{}{?! Slyšel jsem, e }
-{5733}{}{. Vyzıváš mì snad na souboj?}
-{6731}{}{ je o trochu vyšší a o trochu víc... (Vypadá skepticky.)... drsnìjší.}
+{5731}{}{?! SlyÅ¡el jsem, Å¾e }
+{5733}{}{. VyzÃ½vÃ¡Å¡ mÄ› snad na souboj?}
+{6731}{}{ je o trochu vyÅ¡Å¡Ã­ a o trochu vÃ­c... (VypadÃ¡ skepticky.)... drsnÄ›jÅ¡Ã­.}

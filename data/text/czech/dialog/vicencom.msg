@@ -1,182 +1,182 @@
-{100}{}{Vidíš poèítaèovı terminál. Je na nìm spuštìnı nìjakı diagnostickı program.}
-{101}{}{Vidíš centrální poèítaè Vault City.}
-{102}{}{Vidíš poèítaèovı terminál. Je na nìm spuštìnı nìjakı diagnostickı program.}
-{103}{}{Vidíš kovovou bednu, která si mluví pro sebe enskım hlasem.}
-{104}{}{Vidíš mluvící kovovou bednu.}
-{105}{}{Vidíš kovovou bednu, která si mluví pro sebe enskım hlasem.}
-{106}{}{Poèítaèovı terminál se vypnul.}
-{107}{}{Zahájena diagnostika systému. }
-{108}{}{Zahájená diagnostika systému mùe bıt kdykoliv pøerušena systémovım operátorem.}
-{109}{}{Vault-Tec doporuèuje pravidelnou údrbu a diagnostiku všech systémù pro jejich bezchybnı chod.}
-{110}{}{Vault-Tec: První a poslední název pro technologii Vaultù.}
-{111}{}{Zahájena diagnostika systému.}
-{112}{}{Bezpeènostní systémy...}
-{113}{}{Vstupní terminál: offline.}
-{114}{}{Bezpeènostní kamery... 1A... 1B... 1C pracují na optimální vıkon.}
-{115}{}{Bezpeènostní systémy... 2A... 2B... 2C pracují na optimální vıkon.}
-{116}{}{Bezpeènostní systémy... 3A... 3B... 3C pracují na optimální vıkon.}
-{117}{}{Systémy prostøedí...}
-{118}{}{Ventilace 1A... 1B... pracují na optimální vıkon.}
+{100}{}{VidÃ­Å¡ poÄÃ­taÄovÃ½ terminÃ¡l. Je na nÄ›m spuÅ¡tÄ›nÃ½ nÄ›jakÃ½ diagnostickÃ½ program.}
+{101}{}{VidÃ­Å¡ centrÃ¡lnÃ­ poÄÃ­taÄ Vault City.}
+{102}{}{VidÃ­Å¡ poÄÃ­taÄovÃ½ terminÃ¡l. Je na nÄ›m spuÅ¡tÄ›nÃ½ nÄ›jakÃ½ diagnostickÃ½ program.}
+{103}{}{VidÃ­Å¡ kovovou bednu, kterÃ¡ si mluvÃ­ pro sebe Å¾enskÃ½m hlasem.}
+{104}{}{VidÃ­Å¡ mluvÃ­cÃ­ kovovou bednu.}
+{105}{}{VidÃ­Å¡ kovovou bednu, kterÃ¡ si mluvÃ­ pro sebe Å¾enskÃ½m hlasem.}
+{106}{}{PoÄÃ­taÄovÃ½ terminÃ¡l se vypnul.}
+{107}{}{ZahÃ¡jena diagnostika systÃ©mu. }
+{108}{}{ZahÃ¡jenÃ¡ diagnostika systÃ©mu mÅ¯Å¾e bÃ½t kdykoliv pÅ™eruÅ¡ena systÃ©movÃ½m operÃ¡torem.}
+{109}{}{Vault-Tec doporuÄuje pravidelnou ÃºdrÅ¾bu a diagnostiku vÅ¡ech systÃ©mÅ¯ pro jejich bezchybnÃ½ chod.}
+{110}{}{Vault-Tec: PrvnÃ­ a poslednÃ­ nÃ¡zev pro technologii VaultÅ¯.}
+{111}{}{ZahÃ¡jena diagnostika systÃ©mu.}
+{112}{}{BezpeÄnostnÃ­ systÃ©my...}
+{113}{}{VstupnÃ­ terminÃ¡l: offline.}
+{114}{}{BezpeÄnostnÃ­ kamery... 1A... 1B... 1C pracujÃ­ na optimÃ¡lnÃ­ vÃ½kon.}
+{115}{}{BezpeÄnostnÃ­ systÃ©my... 2A... 2B... 2C pracujÃ­ na optimÃ¡lnÃ­ vÃ½kon.}
+{116}{}{BezpeÄnostnÃ­ systÃ©my... 3A... 3B... 3C pracujÃ­ na optimÃ¡lnÃ­ vÃ½kon.}
+{117}{}{SystÃ©my prostÅ™edÃ­...}
+{118}{}{Ventilace 1A... 1B... pracujÃ­ na optimÃ¡lnÃ­ vÃ½kon.}
 {119}{}{Ventilace 2A... 2B...}
 {120}{}{2B...}
 {121}{}{Potvrzuji...}
-{122}{}{Upozornìní: Ve ventilaci 2B detekována pøekáka. }
-{123}{}{Vzájemná kontrola systémù prostøedí...}
-{124}{}{Záznam o pøekáce odeslán údrbì a oznámen operátorovi.}
-{125}{}{Pokraèuji v kontrole...}
-{126}{}{Ventilace 2C... 2D... pracují na optimální vıkon.}
-{127}{}{Ventilace 3A... 3B... 3C... 3D... 3E... pracují na optimální vıkon.}
-{128}{}{Teplota a vlhkost prostøedí uvnitø Vaultu ve stanovenıch mezích.}
-{129}{}{Zdroje napájení...}
-{130}{}{Úrovnì všech napìtí jsou ve stanovenıch mezích. }
-{131}{}{Úspornı reim pro patra dvì a tøi zùstává aktivní.}
-{132}{}{Upozornìní: Dveøe Vaultu otevøeny. V pøípadì pohotovosti se neprodyšnì uzavøou.}
-{133}{}{Všechny kontrolní systémy v poøádku. Diagnostika systému ukonèena. Pøíprava zápisu na disk...}
-{134}{}{Log kontroly zapsán na disk. }
-{135}{}{Seznam prùbìhu kontroly odeslán do Seznamového úøadu.}
-{136}{}{Tøi záloní kopie uloeny do bezpeènıch prostor.}
-{137}{}{Bezpeènostní záloha seznamu je nyní odesílána na hlavní server, kterı ji rozešle do všech dalších terminálù ve Vault City.}
-{138}{}{Nyní je moné terminál bezpeènì vypnout. }
-{139}{}{Díky.}
-{140}{}{Zahájena diagnostika systému. }
-{141}{}{Zahájená diagnostika systému mùe bıt kdykoliv pøerušena systémovım operátorem.}
-{142}{}{Vault-Tec doporuèuje pravidelnou údrbu a diagnostiku všech systémù pro jejich bezchybnı chod.}
-{143}{}{Vault-Tec: První a poslední název pro technologii Vaultù.}
-{144}{}{Zahájena diagnostika systému.}
-{145}{}{Bezpeènostní systémy...}
-{146}{}{Vstupní terminál: offline.}
-{147}{}{Bezpeènostní kamery... 1A... 1B... 1C pracují na optimální vıkon.}
-{148}{}{Bezpeènostní systémy... 2A... 2B... 2C pracují na optimální vıkon.}
-{149}{}{Bezpeènostní systémy... 3A... 3B... 3C pracují na optimální vıkon.}
-{150}{}{Systémy prostøedí... }
-{151}{}{Ventilace 1A... 1B... pracují na optimální vıkon.}
-{152}{}{Ventilace 2A... 2B... 2C... 2D... pracují na optimální vıkon.}
-{153}{}{Ventilace 3A... 3B... 3C... 3D... 3E... pracují na optimální vıkon.}
-{154}{}{Teplota a vlhkost prostøedí uvnitø Vaultu ve stanovenıch mezích.}
-{155}{}{Zdroje napájení...}
-{156}{}{Úrovnì všech napìtí jsou ve stanovenıch mezích. }
-{157}{}{Úspornı reim pro patra dvì a tøi zùstává aktivní.}
-{158}{}{Upozornìní: Dveøe Vaultu otevøeny. V pøípadì pohotovosti se neprodyšnì uzavøou.}
-{159}{}{Všechny kontrolní systémy v poøádku. Diagnostika systému ukonèena. Pøíprava zápisu na disk...}
-{160}{}{Log kontroly zapsán na disk. }
-{161}{}{Seznam prùbìhu kontroly odeslán do Seznamového úøadu.}
-{162}{}{Tøi záloní kopie uloeny do bezpeènıch prostor.}
-{163}{}{Bezpeènostní záloha seznamu je nyní odesílána na hlavní server, kterı ji rozešle do všech dalších terminálù ve Vault City.}
-{164}{}{Nyní je moné terminál bezpeènì vypnout. }
-{165}{}{Díky.}
-{166}{}{Vidíš kovovou bednu, ze které vychází enskı hlas. Ta ena musí bıt v té bednì! Musí tam bıt opravdu, ale opravdu velmi stísnìná.}
-{167}{}{Podaøilo se ti pøihlásit do hlavního poèítaèe Vault City. Ovládacímu panelu se dá pomìrnì dobøe porozumìt, avšak všechna data jsou rozdìlena do archívù.}
-{168}{}{Haló? Halóó?}
-{169}{}{Zkusit bednu otevøít násilím, aby se ta ena mohla dostat ven.}
+{122}{}{UpozornÄ›nÃ­: Ve ventilaci 2B detekovÃ¡na pÅ™ekÃ¡Å¾ka. }
+{123}{}{VzÃ¡jemnÃ¡ kontrola systÃ©mÅ¯ prostÅ™edÃ­...}
+{124}{}{ZÃ¡znam o pÅ™ekÃ¡Å¾ce odeslÃ¡n ÃºdrÅ¾bÄ› a oznÃ¡men operÃ¡torovi.}
+{125}{}{PokraÄuji v kontrole...}
+{126}{}{Ventilace 2C... 2D... pracujÃ­ na optimÃ¡lnÃ­ vÃ½kon.}
+{127}{}{Ventilace 3A... 3B... 3C... 3D... 3E... pracujÃ­ na optimÃ¡lnÃ­ vÃ½kon.}
+{128}{}{Teplota a vlhkost prostÅ™edÃ­ uvnitÅ™ Vaultu ve stanovenÃ½ch mezÃ­ch.}
+{129}{}{Zdroje napÃ¡jenÃ­...}
+{130}{}{ÃšrovnÄ› vÅ¡ech napÄ›tÃ­ jsou ve stanovenÃ½ch mezÃ­ch. }
+{131}{}{ÃšspornÃ½ reÅ¾im pro patra dvÄ› a tÅ™i zÅ¯stÃ¡vÃ¡ aktivnÃ­.}
+{132}{}{UpozornÄ›nÃ­: DveÅ™e Vaultu otevÅ™eny. V pÅ™Ã­padÄ› pohotovosti se neprodyÅ¡nÄ› uzavÅ™ou.}
+{133}{}{VÅ¡echny kontrolnÃ­ systÃ©my v poÅ™Ã¡dku. Diagnostika systÃ©mu ukonÄena. PÅ™Ã­prava zÃ¡pisu na disk...}
+{134}{}{Log kontroly zapsÃ¡n na disk. }
+{135}{}{Seznam prÅ¯bÄ›hu kontroly odeslÃ¡n do SeznamovÃ©ho ÃºÅ™adu.}
+{136}{}{TÅ™i zÃ¡loÅ¾nÃ­ kopie uloÅ¾eny do bezpeÄnÃ½ch prostor.}
+{137}{}{BezpeÄnostnÃ­ zÃ¡loha seznamu je nynÃ­ odesÃ­lÃ¡na na hlavnÃ­ server, kterÃ½ ji rozeÅ¡le do vÅ¡ech dalÅ¡Ã­ch terminÃ¡lÅ¯ ve Vault City.}
+{138}{}{NynÃ­ je moÅ¾nÃ© terminÃ¡l bezpeÄnÄ› vypnout. }
+{139}{}{DÃ­ky.}
+{140}{}{ZahÃ¡jena diagnostika systÃ©mu. }
+{141}{}{ZahÃ¡jenÃ¡ diagnostika systÃ©mu mÅ¯Å¾e bÃ½t kdykoliv pÅ™eruÅ¡ena systÃ©movÃ½m operÃ¡torem.}
+{142}{}{Vault-Tec doporuÄuje pravidelnou ÃºdrÅ¾bu a diagnostiku vÅ¡ech systÃ©mÅ¯ pro jejich bezchybnÃ½ chod.}
+{143}{}{Vault-Tec: PrvnÃ­ a poslednÃ­ nÃ¡zev pro technologii VaultÅ¯.}
+{144}{}{ZahÃ¡jena diagnostika systÃ©mu.}
+{145}{}{BezpeÄnostnÃ­ systÃ©my...}
+{146}{}{VstupnÃ­ terminÃ¡l: offline.}
+{147}{}{BezpeÄnostnÃ­ kamery... 1A... 1B... 1C pracujÃ­ na optimÃ¡lnÃ­ vÃ½kon.}
+{148}{}{BezpeÄnostnÃ­ systÃ©my... 2A... 2B... 2C pracujÃ­ na optimÃ¡lnÃ­ vÃ½kon.}
+{149}{}{BezpeÄnostnÃ­ systÃ©my... 3A... 3B... 3C pracujÃ­ na optimÃ¡lnÃ­ vÃ½kon.}
+{150}{}{SystÃ©my prostÅ™edÃ­... }
+{151}{}{Ventilace 1A... 1B... pracujÃ­ na optimÃ¡lnÃ­ vÃ½kon.}
+{152}{}{Ventilace 2A... 2B... 2C... 2D... pracujÃ­ na optimÃ¡lnÃ­ vÃ½kon.}
+{153}{}{Ventilace 3A... 3B... 3C... 3D... 3E... pracujÃ­ na optimÃ¡lnÃ­ vÃ½kon.}
+{154}{}{Teplota a vlhkost prostÅ™edÃ­ uvnitÅ™ Vaultu ve stanovenÃ½ch mezÃ­ch.}
+{155}{}{Zdroje napÃ¡jenÃ­...}
+{156}{}{ÃšrovnÄ› vÅ¡ech napÄ›tÃ­ jsou ve stanovenÃ½ch mezÃ­ch. }
+{157}{}{ÃšspornÃ½ reÅ¾im pro patra dvÄ› a tÅ™i zÅ¯stÃ¡vÃ¡ aktivnÃ­.}
+{158}{}{UpozornÄ›nÃ­: DveÅ™e Vaultu otevÅ™eny. V pÅ™Ã­padÄ› pohotovosti se neprodyÅ¡nÄ› uzavÅ™ou.}
+{159}{}{VÅ¡echny kontrolnÃ­ systÃ©my v poÅ™Ã¡dku. Diagnostika systÃ©mu ukonÄena. PÅ™Ã­prava zÃ¡pisu na disk...}
+{160}{}{Log kontroly zapsÃ¡n na disk. }
+{161}{}{Seznam prÅ¯bÄ›hu kontroly odeslÃ¡n do SeznamovÃ©ho ÃºÅ™adu.}
+{162}{}{TÅ™i zÃ¡loÅ¾nÃ­ kopie uloÅ¾eny do bezpeÄnÃ½ch prostor.}
+{163}{}{BezpeÄnostnÃ­ zÃ¡loha seznamu je nynÃ­ odesÃ­lÃ¡na na hlavnÃ­ server, kterÃ½ ji rozeÅ¡le do vÅ¡ech dalÅ¡Ã­ch terminÃ¡lÅ¯ ve Vault City.}
+{164}{}{NynÃ­ je moÅ¾nÃ© terminÃ¡l bezpeÄnÄ› vypnout. }
+{165}{}{DÃ­ky.}
+{166}{}{VidÃ­Å¡ kovovou bednu, ze kterÃ© vychÃ¡zÃ­ Å¾enskÃ½ hlas. Ta Å¾ena musÃ­ bÃ½t v tÃ© bednÄ›! MusÃ­ tam bÃ½t opravdu, ale opravdu velmi stÃ­snÄ›nÃ¡.}
+{167}{}{PodaÅ™ilo se ti pÅ™ihlÃ¡sit do hlavnÃ­ho poÄÃ­taÄe Vault City. OvlÃ¡dacÃ­mu panelu se dÃ¡ pomÄ›rnÄ› dobÅ™e porozumÄ›t, avÅ¡ak vÅ¡echna data jsou rozdÄ›lena do archÃ­vÅ¯.}
+{168}{}{HalÃ³? HalÃ³Ã³?}
+{169}{}{Zkusit bednu otevÅ™Ã­t nÃ¡silÃ­m, aby se ta Å¾ena mohla dostat ven.}
 {170}{}{Odbelhat se.}
-{171}{}{Hledat lokaci Vaultu 13 ve všech archívech.}
-{172}{}{Hledat jakoukoliv zmínku o GECKu ve všech archívech.}
-{173}{}{Vloit disk z elektrárny v Gecku.}
-{174}{}{Otevøít násilím poèítaè a hledat hlasovı rozpoznávací modul.}
-{175}{}{Vloit Pip-Boy do otvoru, kterého sis pøedtím povšiml.}
-{176}{}{Vloit Pip-Boy do otvoru, kterého sis pøedtím povšiml.}
-{177}{}{Odhlásit se z terminálu.}
-{178}{}{Kovová bedna neodpovídá.}
-{179}{}{Zkusit bednu otevøít násilím, aby se ta ena mohla dostat ven.}
+{171}{}{Hledat lokaci Vaultu 13 ve vÅ¡ech archÃ­vech.}
+{172}{}{Hledat jakoukoliv zmÃ­nku o GECKu ve vÅ¡ech archÃ­vech.}
+{173}{}{VloÅ¾it disk z elektrÃ¡rny v Gecku.}
+{174}{}{OtevÅ™Ã­t nÃ¡silÃ­m poÄÃ­taÄ a hledat hlasovÃ½ rozpoznÃ¡vacÃ­ modul.}
+{175}{}{VloÅ¾it Pip-Boy do otvoru, kterÃ©ho sis pÅ™edtÃ­m povÅ¡iml.}
+{176}{}{VloÅ¾it Pip-Boy do otvoru, kterÃ©ho sis pÅ™edtÃ­m povÅ¡iml.}
+{177}{}{OdhlÃ¡sit se z terminÃ¡lu.}
+{178}{}{KovovÃ¡ bedna neodpovÃ­dÃ¡.}
+{179}{}{Zkusit bednu otevÅ™Ã­t nÃ¡silÃ­m, aby se ta Å¾ena mohla dostat ven.}
 {180}{}{Odbelhat se.}
-{181}{}{Klekáš si pod kovovou bednu. Zašmátráš svımi prsty po jednom z nìkolika krytù zespodu bedny a vytrhneš ho. ádná ena tam není! Jenom spousta mrtvıch hadù a blikající svìtılka.}
-{182}{}{Šáhnout na hady rukou.}
+{181}{}{KlekÃ¡Å¡ si pod kovovou bednu. ZaÅ¡mÃ¡trÃ¡Å¡ svÃ½mi prsty po jednom z nÄ›kolika krytÅ¯ zespodu bedny a vytrhneÅ¡ ho. Å½Ã¡dnÃ¡ Å¾ena tam nenÃ­! Jenom spousta mrtvÃ½ch hadÅ¯ a blikajÃ­cÃ­ svÄ›tÃ½lka.}
+{182}{}{Å Ã¡hnout na hady rukou.}
 {183}{}{Odbelhat se.}
-{184}{}{A najednou TTTTTT a poté...}
-{185}{}{...se probudíš.}
+{184}{}{A najednou Å½Å½Å½Å½Å½TTTTTT a potÃ©...}
+{185}{}{...se probudÃ­Å¡.}
 {186}{}{Odbelhat se.}
-{187}{}{Podaøilo se ti vypáèit panel vespod stroje a hledáš hlasovı rozpoznávací modul. ádnı nevidíš... zapojení okruhù a vùbec celého zaøízení v tomto poèítaèi se ponìkud liší od poèítaèù ve Vaultu 13.}
-{188}{}{Vymìnit panel a prohledat poèítaèové archívy.}
-{189}{}{Za pokus to stálo. Radìji se podívám jinde.}
-{190}{}{Pøi vımìnì panelu si náhle všimneš malého obrázku Pip-Boye umístìného vespod terminálu. Vedle obrázku je otvor, kterı je asi tak stejnì velikı jako tvùj Pip-Boy.}
-{191}{}{Vloit Pip-Boy do prázdného otvoru.}
-{192}{}{Odhlásit se z terminálu.}
-{193}{}{Kdy u se chystáš odbelhat, zahlédneš pod kovovou bednou malého usmìvavého èlovíèka ze svého malého blikajícího Pip-Boye! Prstem ukazuje na prázdnı otvor vedle sebe. Moná si chce popovídat s tvım malım èlovíèkem z Pip-Boye.}
-{194}{}{Kdy u se chystáš odejít, zahlédneš malı obrázek Pip-Boye umístìného vespod terminálu. Vedle obrázku je otvor, kterı je asi tak stejnì velikı jako tvùj Pip-Boy.}
-{195}{}{Strèit pøíruèní Pip-Boy vìcièku do otvoru, aby si ti dva kluci mohli popovídat.}
-{196}{}{Vloit Pip-Boy do prázdného otvoru.}
-{197}{}{Odhlásit se z terminálu.}
-{198}{}{Páni! Ti dva si toho mají HODNÌ co øíct! Mluví srandovní øeèí, která zní jako skøípání, pípání a chrèení. Nakonec se ozve pípnutí a tvùj Pip-Boy vyjede ven.}
-{199}{}{Vzít si Pip-Boy a odejít.}
-{200}{}{Na obrazovce terminálu se zobrazí malé okénko a vedle toho usmívající se Pip-Boy. Jak se tak na to díváš, zaène mezitím Pip-Boy tichounce pískat a klapat. Vedle otvoru poèítaèe bliká èervená dioda.}
-{201}{}{Èekat...}
-{202}{}{Zrušit proces a odhlásit se z terminálu.}
-{203}{}{Z otvoru pro Pip-Boy zaène vycházet podezøelı skøípající zvuk. Pip-Boy stále tiše píská a klapá.}
-{204}{}{Èekat...}
-{205}{}{Zrušit proces a odhlásit se z terminálu.}
-{206}{}{Pip-Boy náhle pøestane a zamraèí se. Nad jeho hlavou se zobrazí vykøièník a zaène na tebe kıvat prstem. }
-{207}{}{Ukázat tomu malému parchantovi prostøedníèek!}
-{208}{}{Pokusit se zjistit, co je špatnì.}
-{209}{}{Zrušit proces a odhlásit se z terminálu.}
-{210}{}{Malı displej za Pip-Boyem upozoròuje, e poslední plánovaná údrba probìhla pøed 50 352 lety. Archívy jsou poškozené a potøebují "pøeformátovat". Pøejete si provést?}
-{211}{}{Eh... jistì.}
-{212}{}{Co... ne! V ádném pøípadì! }
-{213}{}{Zrušit proces a odhlásit se z terminálu.}
-{214}{}{Zahajuji inicializaèní proces... reformátuji Pip-Boy...}
+{187}{}{PodaÅ™ilo se ti vypÃ¡Äit panel vespod stroje a hledÃ¡Å¡ hlasovÃ½ rozpoznÃ¡vacÃ­ modul. Å½Ã¡dnÃ½ nevidÃ­Å¡... zapojenÃ­ okruhÅ¯ a vÅ¯bec celÃ©ho zaÅ™Ã­zenÃ­ v tomto poÄÃ­taÄi se ponÄ›kud liÅ¡Ã­ od poÄÃ­taÄÅ¯ ve Vaultu 13.}
+{188}{}{VymÄ›nit panel a prohledat poÄÃ­taÄovÃ© archÃ­vy.}
+{189}{}{Za pokus to stÃ¡lo. RadÄ›ji se podÃ­vÃ¡m jinde.}
+{190}{}{PÅ™i vÃ½mÄ›nÄ› panelu si nÃ¡hle vÅ¡imneÅ¡ malÃ©ho obrÃ¡zku Pip-Boye umÃ­stÄ›nÃ©ho vespod terminÃ¡lu. Vedle obrÃ¡zku je otvor, kterÃ½ je asi tak stejnÄ› velikÃ½ jako tvÅ¯j Pip-Boy.}
+{191}{}{VloÅ¾it Pip-Boy do prÃ¡zdnÃ©ho otvoru.}
+{192}{}{OdhlÃ¡sit se z terminÃ¡lu.}
+{193}{}{KdyÅ¾ uÅ¾ se chystÃ¡Å¡ odbelhat, zahlÃ©dneÅ¡ pod kovovou bednou malÃ©ho usmÄ›vavÃ©ho ÄlovÃ­Äka ze svÃ©ho malÃ©ho blikajÃ­cÃ­ho Pip-Boye! Prstem ukazuje na prÃ¡zdnÃ½ otvor vedle sebe. MoÅ¾nÃ¡ si chce popovÃ­dat s tvÃ½m malÃ½m ÄlovÃ­Äkem z Pip-Boye.}
+{194}{}{KdyÅ¾ uÅ¾ se chystÃ¡Å¡ odejÃ­t, zahlÃ©dneÅ¡ malÃ½ obrÃ¡zek Pip-Boye umÃ­stÄ›nÃ©ho vespod terminÃ¡lu. Vedle obrÃ¡zku je otvor, kterÃ½ je asi tak stejnÄ› velikÃ½ jako tvÅ¯j Pip-Boy.}
+{195}{}{StrÄit pÅ™Ã­ruÄnÃ­ Pip-Boy vÄ›ciÄku do otvoru, aby si ti dva kluci mohli popovÃ­dat.}
+{196}{}{VloÅ¾it Pip-Boy do prÃ¡zdnÃ©ho otvoru.}
+{197}{}{OdhlÃ¡sit se z terminÃ¡lu.}
+{198}{}{PÃ¡ni! Ti dva si toho majÃ­ HODNÄš co Å™Ã­ct! MluvÃ­ srandovnÃ­ Å™eÄÃ­, kterÃ¡ znÃ­ jako skÅ™Ã­pÃ¡nÃ­, pÃ­pÃ¡nÃ­ a chrÄenÃ­. Nakonec se ozve pÃ­pnutÃ­ a tvÅ¯j Pip-Boy vyjede ven.}
+{199}{}{VzÃ­t si Pip-Boy a odejÃ­t.}
+{200}{}{Na obrazovce terminÃ¡lu se zobrazÃ­ malÃ© okÃ©nko a vedle toho usmÃ­vajÃ­cÃ­ se Pip-Boy. Jak se tak na to dÃ­vÃ¡Å¡, zaÄne mezitÃ­m Pip-Boy tichounce pÃ­skat a klapat. Vedle otvoru poÄÃ­taÄe blikÃ¡ ÄervenÃ¡ dioda.}
+{201}{}{ÄŒekat...}
+{202}{}{ZruÅ¡it proces a odhlÃ¡sit se z terminÃ¡lu.}
+{203}{}{Z otvoru pro Pip-Boy zaÄne vychÃ¡zet podezÅ™elÃ½ skÅ™Ã­pajÃ­cÃ­ zvuk. Pip-Boy stÃ¡le tiÅ¡e pÃ­skÃ¡ a klapÃ¡.}
+{204}{}{ÄŒekat...}
+{205}{}{ZruÅ¡it proces a odhlÃ¡sit se z terminÃ¡lu.}
+{206}{}{Pip-Boy nÃ¡hle pÅ™estane a zamraÄÃ­ se. Nad jeho hlavou se zobrazÃ­ vykÅ™iÄnÃ­k a zaÄne na tebe kÃ½vat prstem. }
+{207}{}{UkÃ¡zat tomu malÃ©mu parchantovi prostÅ™ednÃ­Äek!}
+{208}{}{Pokusit se zjistit, co je Å¡patnÄ›.}
+{209}{}{ZruÅ¡it proces a odhlÃ¡sit se z terminÃ¡lu.}
+{210}{}{MalÃ½ displej za Pip-Boyem upozorÅˆuje, Å¾e poslednÃ­ plÃ¡novanÃ¡ ÃºdrÅ¾ba probÄ›hla pÅ™ed 50 352 lety. ArchÃ­vy jsou poÅ¡kozenÃ© a potÅ™ebujÃ­ "pÅ™eformÃ¡tovat". PÅ™ejete si provÃ©st?}
+{211}{}{Eh... jistÄ›.}
+{212}{}{Co... ne! V Å¾Ã¡dnÃ©m pÅ™Ã­padÄ›! }
+{213}{}{ZruÅ¡it proces a odhlÃ¡sit se z terminÃ¡lu.}
+{214}{}{Zahajuji inicializaÄnÃ­ proces... reformÃ¡tuji Pip-Boy...}
 {215}{}{}
-{216}{}{Èekat...}
-{217}{}{Zrušit proces a odhlásit se z terminálu.}
-{218}{}{Zahajuji inicializaèní proces...}
-{219}{}{                             Reformátuji Pip-Boy...}
-{220}{}{Hej! Vra mi ten zatracenej Pip-Boy zpátky!}
-{221}{}{Zrušit! Zrušit! }
-{222}{}{Kopíruji geografické mapy Severní Kalifornie do databáze Pip-Boye. }
-{223}{}{Kopíruji archívy... Broken Hills... Gecko... New California Republic... New Reno... Redding... Vault City... Staení dokonèeno.}
-{224}{}{Pokraèovat v prohledávání archívù.}
-{225}{}{Odhlásit se z terminálu.}
-{226}{}{Jsi zpìt v hlavním menu. Na obrazovce terminálu jsou vypsány øady archívù a vyhledávacích programù.}
-{227}{}{Hledat jakoukoliv zmínku o Vaultu 13 ve všech archívech.}
-{228}{}{Hledat cokoliv o GECKu ve všech archívech.}
-{229}{}{Vyvolat hlášení o generátoru napìtí ve Vault City. }
-{230}{}{Odhlásit se z terminálu.}
-{231}{}{Podle tohoto hlášení se zdá, e mìl Gordon pravdu. Generátor Vault City je skuteènì na hranici svého vıkonu. Bez nového zdroje energie nemá Vault City šanci se jakkoliv rozrùstat.}
-{232}{}{Pokraèovat v prohledávání archívù.}
-{233}{}{Odhlásit se z terminálu.}
-{234}{}{V archívech jsou zaznamenány pouze dva vaulty: Vault 8 (tento Vault) a Vault 15 nacházející se daleko na jihu. Bohuel se v nich nenachází ádná zmínka o Vaultu 13.}
-{235}{}{Zadáváš pozici Vaultu 15 do svého Pip-Boye.}
-{236}{}{Pokraèovat v prohledávání archívù.}
-{237}{}{Odhlásit se z terminálu.}
-{238}{}{Podle archívù není ve Vault City uloen ádny GECK. Obyvatelé Vault City pravdìpodobnì pouili ten svùj k vybudování tohoto mìsta, kdy vyšli na povrch z Vaultu.}
-{239}{}{Zobrazit zbıvající informace.}
-{240}{}{Podle toho, co se dá zjistit z archívù, mìl kadı Vault ve standardním inventáøi dva GECKy. Avšak do Vaultu 8 byl dopraven pouze jeden.}
-{241}{}{Zobrazit podrobnìjší informace o zásilce GECKu.}
-{242}{}{Vrátit se do hlavního menu.}
-{243}{}{Odhlásit se z terminálu.}
-{244}{}{Zdá se, e díky chybì vzniklé pøi dopravì obdrel Vault 8 pøebytek zásob vodních èipù urèenıch jinému Vaultu. Jinı Vault s nejvìtší pravdìpodobností obdrel GECK urèenı pùvodnì jako druhı pro Vault 8.}
-{245}{}{Vrátit se do hlavního menu.}
-{246}{}{Odhlásit se z terminálu.}
-{247}{}{Na obrazovce terminálu se zobrazí malé okénko a vedle toho usmívající se Pip-Boy. Jak se tak na to díváš, Pip-Boy se podívá pøímo na tebe, poté mrkne a dá palec nahoru. Vedle otvoru poèítaèe bliká èervená dioda.}
-{248}{}{Ukázat Pip-Boyovi palec nahoru.}
-{249}{}{Ukázat na Pip-Boye prostøedníèek.}
-{250}{}{Vıvojáøské informace o Fallout 2 se právì nahrávají do databáze Pip-Boye. Kopíruji soubory... Vıvojáøské informace o Vault City... Staení dokonèeno.}
-{251}{}{Díky.}
-{252}{}{Doufám, e za tenhle pomalej krám dostanu extra body zkušenosti, nebo se fakt naseru.}
-{253}{}{Pip-Boy na obrazovce ti zamává sbohem a poté obrazovka zèerná. Terminál se vypnul.}
-{254}{}{Odejít.}
-{255}{}{Jo, radši rychle zmiz, ty malej sráèi.}
-{256}{}{Terminál se vypnul. Nemáš ani ponìtí, jak ho zase zapnout.}
-{257}{}{Odejít.}
-{258}{}{Naèítám disk... Data reaktoru: Atomová elektrárna... Vıkon: 43%/75%... Chyba: Kalibrace zaøízení - MD4/gh1... Pøejete si optimalizovat?}
+{216}{}{ÄŒekat...}
+{217}{}{ZruÅ¡it proces a odhlÃ¡sit se z terminÃ¡lu.}
+{218}{}{Zahajuji inicializaÄnÃ­ proces...}
+{219}{}{                             ReformÃ¡tuji Pip-Boy...}
+{220}{}{Hej! VraÅ¥ mi ten zatracenej Pip-Boy zpÃ¡tky!}
+{221}{}{ZruÅ¡it! ZruÅ¡it! }
+{222}{}{KopÃ­ruji geografickÃ© mapy SevernÃ­ Kalifornie do databÃ¡ze Pip-Boye. }
+{223}{}{KopÃ­ruji archÃ­vy... Broken Hills... Gecko... New California Republic... New Reno... Redding... Vault City... StaÅ¾enÃ­ dokonÄeno.}
+{224}{}{PokraÄovat v prohledÃ¡vÃ¡nÃ­ archÃ­vÅ¯.}
+{225}{}{OdhlÃ¡sit se z terminÃ¡lu.}
+{226}{}{Jsi zpÄ›t v hlavnÃ­m menu. Na obrazovce terminÃ¡lu jsou vypsÃ¡ny Å™ady archÃ­vÅ¯ a vyhledÃ¡vacÃ­ch programÅ¯.}
+{227}{}{Hledat jakoukoliv zmÃ­nku o Vaultu 13 ve vÅ¡ech archÃ­vech.}
+{228}{}{Hledat cokoliv o GECKu ve vÅ¡ech archÃ­vech.}
+{229}{}{Vyvolat hlÃ¡Å¡enÃ­ o generÃ¡toru napÄ›tÃ­ ve Vault City. }
+{230}{}{OdhlÃ¡sit se z terminÃ¡lu.}
+{231}{}{Podle tohoto hlÃ¡Å¡enÃ­ se zdÃ¡, Å¾e mÄ›l Gordon pravdu. GenerÃ¡tor Vault City je skuteÄnÄ› na hranici svÃ©ho vÃ½konu. Bez novÃ©ho zdroje energie nemÃ¡ Vault City Å¡anci se jakkoliv rozrÅ¯stat.}
+{232}{}{PokraÄovat v prohledÃ¡vÃ¡nÃ­ archÃ­vÅ¯.}
+{233}{}{OdhlÃ¡sit se z terminÃ¡lu.}
+{234}{}{V archÃ­vech jsou zaznamenÃ¡ny pouze dva vaulty: Vault 8 (tento Vault) a Vault 15 nachÃ¡zejÃ­cÃ­ se daleko na jihu. BohuÅ¾el se v nich nenachÃ¡zÃ­ Å¾Ã¡dnÃ¡ zmÃ­nka o Vaultu 13.}
+{235}{}{ZadÃ¡vÃ¡Å¡ pozici Vaultu 15 do svÃ©ho Pip-Boye.}
+{236}{}{PokraÄovat v prohledÃ¡vÃ¡nÃ­ archÃ­vÅ¯.}
+{237}{}{OdhlÃ¡sit se z terminÃ¡lu.}
+{238}{}{Podle archÃ­vÅ¯ nenÃ­ ve Vault City uloÅ¾en Å¾Ã¡dny GECK. ObyvatelÃ© Vault City pravdÄ›podobnÄ› pouÅ¾ili ten svÅ¯j k vybudovÃ¡nÃ­ tohoto mÄ›sta, kdyÅ¾ vyÅ¡li na povrch z Vaultu.}
+{239}{}{Zobrazit zbÃ½vajÃ­cÃ­ informace.}
+{240}{}{Podle toho, co se dÃ¡ zjistit z archÃ­vÅ¯, mÄ›l kaÅ¾dÃ½ Vault ve standardnÃ­m inventÃ¡Å™i dva GECKy. AvÅ¡ak do Vaultu 8 byl dopraven pouze jeden.}
+{241}{}{Zobrazit podrobnÄ›jÅ¡Ã­ informace o zÃ¡silce GECKu.}
+{242}{}{VrÃ¡tit se do hlavnÃ­ho menu.}
+{243}{}{OdhlÃ¡sit se z terminÃ¡lu.}
+{244}{}{ZdÃ¡ se, Å¾e dÃ­ky chybÄ› vzniklÃ© pÅ™i dopravÄ› obdrÅ¾el Vault 8 pÅ™ebytek zÃ¡sob vodnÃ­ch ÄipÅ¯ urÄenÃ½ch jinÃ©mu Vaultu. JinÃ½ Vault s nejvÄ›tÅ¡Ã­ pravdÄ›podobnostÃ­ obdrÅ¾el GECK urÄenÃ½ pÅ¯vodnÄ› jako druhÃ½ pro Vault 8.}
+{245}{}{VrÃ¡tit se do hlavnÃ­ho menu.}
+{246}{}{OdhlÃ¡sit se z terminÃ¡lu.}
+{247}{}{Na obrazovce terminÃ¡lu se zobrazÃ­ malÃ© okÃ©nko a vedle toho usmÃ­vajÃ­cÃ­ se Pip-Boy. Jak se tak na to dÃ­vÃ¡Å¡, Pip-Boy se podÃ­vÃ¡ pÅ™Ã­mo na tebe, potÃ© mrkne a dÃ¡ palec nahoru. Vedle otvoru poÄÃ­taÄe blikÃ¡ ÄervenÃ¡ dioda.}
+{248}{}{UkÃ¡zat Pip-Boyovi palec nahoru.}
+{249}{}{UkÃ¡zat na Pip-Boye prostÅ™ednÃ­Äek.}
+{250}{}{VÃ½vojÃ¡Å™skÃ© informace o Fallout 2 se prÃ¡vÄ› nahrÃ¡vajÃ­ do databÃ¡ze Pip-Boye. KopÃ­ruji soubory... VÃ½vojÃ¡Å™skÃ© informace o Vault City... StaÅ¾enÃ­ dokonÄeno.}
+{251}{}{DÃ­ky.}
+{252}{}{DoufÃ¡m, Å¾e za tenhle pomalej krÃ¡m dostanu extra body zkuÅ¡enosti, nebo se fakt naseru.}
+{253}{}{Pip-Boy na obrazovce ti zamÃ¡vÃ¡ sbohem a potÃ© obrazovka zÄernÃ¡. TerminÃ¡l se vypnul.}
+{254}{}{OdejÃ­t.}
+{255}{}{Jo, radÅ¡i rychle zmiz, ty malej srÃ¡Äi.}
+{256}{}{TerminÃ¡l se vypnul. NemÃ¡Å¡ ani ponÄ›tÃ­, jak ho zase zapnout.}
+{257}{}{OdejÃ­t.}
+{258}{}{NaÄÃ­tÃ¡m disk... Data reaktoru: AtomovÃ¡ elektrÃ¡rna... VÃ½kon: 43%/75%... Chyba: Kalibrace zaÅ™Ã­zenÃ­ - MD4/gh1... PÅ™ejete si optimalizovat?}
 {259}{}{}
 {260}{}{}
 {261}{}{}
 {262}{}{}
-{263}{}{Zaèít optimalizaèní proces. }
-{264}{}{Zrušit operaci a prohledat archívy.}
-{265}{}{Odhlásit se z terminálu.}
-{266}{}{Zaèínám optimalizaèní proces... optimalizuji... optimalizace kompletní. Prosím vyjmìte disk.}
+{263}{}{ZaÄÃ­t optimalizaÄnÃ­ proces. }
+{264}{}{ZruÅ¡it operaci a prohledat archÃ­vy.}
+{265}{}{OdhlÃ¡sit se z terminÃ¡lu.}
+{266}{}{ZaÄÃ­nÃ¡m optimalizaÄnÃ­ proces... optimalizuji... optimalizace kompletnÃ­. ProsÃ­m vyjmÄ›te disk.}
 {267}{}{}
 {268}{}{}
 {269}{}{}
-{270}{}{Prohledat archívy.}
-{271}{}{Odhlásit se z terminálu.}
-{272}{}{Oooooooch. To brnííí.}
-{300}{}{Kdy u se chystáš vrátit na vıpis archívù, všimneš si svım zkušenım okem skryté poloky.}
-{301}{}{Kdy u se chystáš odhlásit z terminálu, všimneš si svım zkušenım okem skryté poloky.}
-{302}{}{Pokraèovat.}
-{303}{}{Po nìkolika minutách se ti podaøilo získat pøístup do uzamèeného archívu. Ve vıpisu je jen jeden soubor s názvem "Pøísnì tajné." Vypadá to, e tvé dovednosti ve vìdì se vyplácejí.}
-{304}{}{[Pøeèíst záznam]}
-{305}{}{Proèítáním souboru se dozvídáš, e vıhradním úèelem Vaultu 8 bylo pùsobit jako "kontrolní Vault" v celé síti Vaultù vytvoøenıch spoleèností Vault-Tec. Vault 8 se mìl po deseti letech otevøít a obyvatelé mìli znovu osídlit povrch. Také se zdá, e Vault 8 nebyl jedinım Vaultem postavenım za jinım úèelem, ne jen ochránit své obyvatele pøed Velkou Válkou. Moná se dá nìkde získat více informací o skuteèném úèelu Vaultù.}
-{306}{}{[Vrátit se k vıpisu archívù]}
-{307}{}{Odhlásit se.}
-{308}{}{Dozvídáš se o skuteèném úèelu Vaultu 8 a e jsou všechny Vaulty zkonstruovány jinak, ne se na první pohled zdá.}
+{270}{}{Prohledat archÃ­vy.}
+{271}{}{OdhlÃ¡sit se z terminÃ¡lu.}
+{272}{}{Oooooooch. To brnÃ­Ã­Ã­.}
+{300}{}{KdyÅ¾ uÅ¾ se chystÃ¡Å¡ vrÃ¡tit na vÃ½pis archÃ­vÅ¯, vÅ¡imneÅ¡ si svÃ½m zkuÅ¡enÃ½m okem skrytÃ© poloÅ¾ky.}
+{301}{}{KdyÅ¾ uÅ¾ se chystÃ¡Å¡ odhlÃ¡sit z terminÃ¡lu, vÅ¡imneÅ¡ si svÃ½m zkuÅ¡enÃ½m okem skrytÃ© poloÅ¾ky.}
+{302}{}{PokraÄovat.}
+{303}{}{Po nÄ›kolika minutÃ¡ch se ti podaÅ™ilo zÃ­skat pÅ™Ã­stup do uzamÄenÃ©ho archÃ­vu. Ve vÃ½pisu je jen jeden soubor s nÃ¡zvem "PÅ™Ã­snÄ› tajnÃ©." VypadÃ¡ to, Å¾e tvÃ© dovednosti ve vÄ›dÄ› se vyplÃ¡cejÃ­.}
+{304}{}{[PÅ™eÄÃ­st zÃ¡znam]}
+{305}{}{ProÄÃ­tÃ¡nÃ­m souboru se dozvÃ­dÃ¡Å¡, Å¾e vÃ½hradnÃ­m ÃºÄelem Vaultu 8 bylo pÅ¯sobit jako "kontrolnÃ­ Vault" v celÃ© sÃ­ti VaultÅ¯ vytvoÅ™enÃ½ch spoleÄnostÃ­ Vault-Tec. Vault 8 se mÄ›l po deseti letech otevÅ™Ã­t a obyvatelÃ© mÄ›li znovu osÃ­dlit povrch. TakÃ© se zdÃ¡, Å¾e Vault 8 nebyl jedinÃ½m Vaultem postavenÃ½m za jinÃ½m ÃºÄelem, neÅ¾ jen ochrÃ¡nit svÃ© obyvatele pÅ™ed Velkou VÃ¡lkou. MoÅ¾nÃ¡ se dÃ¡ nÄ›kde zÃ­skat vÃ­ce informacÃ­ o skuteÄnÃ©m ÃºÄelu VaultÅ¯.}
+{306}{}{[VrÃ¡tit se k vÃ½pisu archÃ­vÅ¯]}
+{307}{}{OdhlÃ¡sit se.}
+{308}{}{DozvÃ­dÃ¡Å¡ se o skuteÄnÃ©m ÃºÄelu Vaultu 8 a Å¾e jsou vÅ¡echny Vaulty zkonstruovÃ¡ny jinak, neÅ¾ se na prvnÃ­ pohled zdÃ¡.}

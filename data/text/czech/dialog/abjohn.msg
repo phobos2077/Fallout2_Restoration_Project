@@ -1,34 +1,34 @@
-{100}{}{Vidíš Bratra Johna}
-{101}{}{Vidíš postaršího mnicha z Opatství.}
-{102}{}{Vidíš starého mnicha. Vypadá na èerstvého sedmdesátníka.}
-{300}{}{Zdravím, mladíku.}
+{100}{}{VidÃ­Å¡ Bratra Johna}
+{101}{}{VidÃ­Å¡ postarÅ¡Ã­ho mnicha z OpatstvÃ­.}
+{102}{}{VidÃ­Å¡ starÃ©ho mnicha. VypadÃ¡ na ÄerstvÃ©ho sedmdesÃ¡tnÃ­ka.}
+{300}{}{ZdravÃ­m, mladÃ­ku.}
 {301}{}{Kdo jsi?}
-{302}{}{Slyšel jsi nìkdy nìco o GECKu nebo Vaultu 13?}
+{302}{}{SlyÅ¡el jsi nÄ›kdy nÄ›co o GECKu nebo Vaultu 13?}
 {303}{}{Nashle.}
-{400}{}{Jmenuji se John a jsem zde jedním z nejstarších mnichù.}
-{401}{}{Take, co tu dìláš?}
-{402}{}{Chápu, sbohem.}
-{403}{}{No, pracoval jsem na farmì, ale nedìlalo mi to dobøe na srdce.}
-{404}{}{Máš problémy se srdcem?}
-{405}{}{To je fakt blbı, sbohem!}
-{406}{}{Jo, mám špatné srdce. Velmi by mi usnadnilo ivot, kdybych mìl svoje pilulky na srdce. Víš, v dnešním svìtì
- se takové léky špatnì shánìjí.}
-{407}{}{Moná mám øešení na tvoje srdeèní problémy...}
-{408}{}{To mì mrzí, sbohem.}
+{400}{}{Jmenuji se John a jsem zde jednÃ­m z nejstarÅ¡Ã­ch mnichÅ¯.}
+{401}{}{TakÅ¾e, co tu dÄ›lÃ¡Å¡?}
+{402}{}{ChÃ¡pu, sbohem.}
+{403}{}{No, pracoval jsem na farmÄ›, ale nedÄ›lalo mi to dobÅ™e na srdce.}
+{404}{}{MÃ¡Å¡ problÃ©my se srdcem?}
+{405}{}{To je fakt blbÃ½, sbohem!}
+{406}{}{Jo, mÃ¡m Å¡patnÃ© srdce. Velmi by mi usnadnilo Å¾ivot, kdybych mÄ›l svoje pilulky na srdce. VÃ­Å¡, v dneÅ¡nÃ­m svÄ›tÄ›
+ se takovÃ© lÃ©ky Å¡patnÄ› shÃ¡nÄ›jÃ­.}
+{407}{}{MoÅ¾nÃ¡ mÃ¡m Å™eÅ¡enÃ­ na tvoje srdeÄnÃ­ problÃ©my...}
+{408}{}{To mÄ› mrzÃ­, sbohem.}
 {410}{}{Nashle.}
-{411}{}{Opravdu? Chceš mi snad øíct, e MÁŠ u sebe pilulky na srdce?}
-{412}{}{Ano, mám. A bude mi potìšením ti je dát.}
-{413}{}{Jo, mám pilulky na srdce. Mùeš je mít za $400.}
-{414}{}{Jen si dìlám srandu. Nemám ádné pilulky na srdce.}
-{415}{}{(Vezme si od tebe pilulky.) Dìkuji ti, pøíteli! Prosím, pøijmi toto jako projev vdìènosti.}
-{416}{}{Rádo se stalo a díky za tu vìcièku. Sbohem!}
-{417}{}{(Rozèílí se, ale poté se uklidní.) No dobøe, tady máš peníze. A teï mi dej ty pilulky!}
-{418}{}{Vlastnì myslím, e si ty pilulky nechám. Díky za prachy!}
+{411}{}{Opravdu? ChceÅ¡ mi snad Å™Ã­ct, Å¾e MÃÅ  u sebe pilulky na srdce?}
+{412}{}{Ano, mÃ¡m. A bude mi potÄ›Å¡enÃ­m ti je dÃ¡t.}
+{413}{}{Jo, mÃ¡m pilulky na srdce. MÅ¯Å¾eÅ¡ je mÃ­t za $400.}
+{414}{}{Jen si dÄ›lÃ¡m srandu. NemÃ¡m Å¾Ã¡dnÃ© pilulky na srdce.}
+{415}{}{(Vezme si od tebe pilulky.) DÄ›kuji ti, pÅ™Ã­teli! ProsÃ­m, pÅ™ijmi toto jako projev vdÄ›Änosti.}
+{416}{}{RÃ¡do se stalo a dÃ­ky za tu vÄ›ciÄku. Sbohem!}
+{417}{}{(RozÄÃ­lÃ­ se, ale potÃ© se uklidnÃ­.) No dobÅ™e, tady mÃ¡Å¡ penÃ­ze. A teÄ mi dej ty pilulky!}
+{418}{}{VlastnÄ› myslÃ­m, Å¾e si ty pilulky nechÃ¡m. DÃ­ky za prachy!}
 {419}{}{Je radost s tebou obchodovat, sbohem.}
-{420}{}{Hmmm, bohuel mi to nic neøíká. Zeptej se Opata, moná bude nìco vìdìt on.}
-{421}{}{To udìlám, díky. Teï se chci zeptat na nìco jiného.}
-{422}{}{Kdybych nebyl tak nemocnı, tak bych ti poøádnì nakopal prdel. A TEÏ ODSUD VYPADNI!}
-{423}{}{Fajn, u pùjdu.}
-{500}{}{Ještì jednou díky za ty pilulky na srdce, pøíteli. Hodnì štìstí na cestách.}
-{600}{}{Prostì odejdi, prosím.}
-{700}{}{Právì jsi Johnovi ukázal, jak je svìt krutı.}
+{420}{}{Hmmm, bohuÅ¾el mi to nic neÅ™Ã­kÃ¡. Zeptej se Opata, moÅ¾nÃ¡ bude nÄ›co vÄ›dÄ›t on.}
+{421}{}{To udÄ›lÃ¡m, dÃ­ky. TeÄ se chci zeptat na nÄ›co jinÃ©ho.}
+{422}{}{Kdybych nebyl tak nemocnÃ½, tak bych ti poÅ™Ã¡dnÄ› nakopal prdel. A TEÄ ODSUD VYPADNI!}
+{423}{}{Fajn, uÅ¾ pÅ¯jdu.}
+{500}{}{JeÅ¡tÄ› jednou dÃ­ky za ty pilulky na srdce, pÅ™Ã­teli. HodnÄ› Å¡tÄ›stÃ­ na cestÃ¡ch.}
+{600}{}{ProstÄ› odejdi, prosÃ­m.}
+{700}{}{PrÃ¡vÄ› jsi Johnovi ukÃ¡zal, jak je svÄ›t krutÃ½.}

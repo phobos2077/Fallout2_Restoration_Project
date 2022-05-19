@@ -1,6 +1,6 @@
-{100}{}{Vidíš ochotného cizince.}
-{101}{}{Vidíš záhadného cizince.}
-{102}{}{Pomùu ti.}
-{103}{}{Moc nemluvím.}
-{104}{}{Vypadá to, e potøebuješ trochu pomoct.}
+{100}{}{VidÃ­Å¡ ochotnÃ©ho cizince.}
+{101}{}{VidÃ­Å¡ zÃ¡hadnÃ©ho cizince.}
+{102}{}{PomÅ¯Å¾u ti.}
+{103}{}{Moc nemluvÃ­m.}
+{104}{}{VypadÃ¡ to, Å¾e potÅ™ebujeÅ¡ trochu pomoct.}
 {105}{}{Jdeme na to!}

@@ -1,3 +1,3 @@
-{100}{}{Vstupuješ do jaderné elektrárny v Gecku.}
-{200}{}{Reaktor byl znièen.}
-{300}{}{Robot opravil jadernou elektrárnu.}
+{100}{}{VstupujeÅ¡ do jadernÃ© elektrÃ¡rny v Gecku.}
+{200}{}{Reaktor byl zniÄen.}
+{300}{}{Robot opravil jadernou elektrÃ¡rnu.}

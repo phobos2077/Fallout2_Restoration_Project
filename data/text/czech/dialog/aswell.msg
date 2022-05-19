@@ -1,2 +1,2 @@
-{100}{}{Studna potøebuje opravit.}
-{101}{}{Studna je v poøádku.}
+{100}{}{Studna potÅ™ebuje opravit.}
+{101}{}{Studna je v poÅ™Ã¡dku.}

@@ -1,9 +1,9 @@
-{100}{}{Pøímo tady bylo zaparkovanı moje auto!}
-{101}{}{Já pøísahat já tady parkovat!}
-{150}{}{Po pøiblíení k místu, kde ještì nedávno odpoèívalo tvé auto, si všimneš nejasnıch stop pneumatik vedoucích na sever.}
-{151}{}{Vidíš stopy po pneumatikách, které vedou na sever.}
-{152}{}{Vidíš stopy auta!}
-{153}{}{(Jít po stopa!)}
-{154}{}{(Nejít po stopa.)}
-{155}{}{(Jít po stopách.)}
+{100}{}{PÅ™Ã­mo tady bylo zaparkovanÃ½ moje auto!}
+{101}{}{JÃ¡ pÅ™Ã­sahat jÃ¡ tady parkovat!}
+{150}{}{Po pÅ™iblÃ­Å¾enÃ­ k mÃ­stu, kde jeÅ¡tÄ› nedÃ¡vno odpoÄÃ­valo tvÃ© auto, si vÅ¡imneÅ¡ nejasnÃ½ch stop pneumatik vedoucÃ­ch na sever.}
+{151}{}{VidÃ­Å¡ stopy po pneumatikÃ¡ch, kterÃ© vedou na sever.}
+{152}{}{VidÃ­Å¡ stopy auta!}
+{153}{}{(JÃ­t po stopa!)}
+{154}{}{(NejÃ­t po stopa.)}
+{155}{}{(JÃ­t po stopÃ¡ch.)}
 {156}{}{(Ignorovat stopy.)}

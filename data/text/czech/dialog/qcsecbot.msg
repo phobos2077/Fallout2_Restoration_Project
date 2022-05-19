@@ -1,4 +1,4 @@
-{100}{}{Vidíš bezpeènostního robota.}
-{101}{}{Vidíš tìce vyzbrojeného bezpeènostního robota.}
-{102}{}{Vypadá to, e by jeden takovıhle robot staèil ke znièení menší jednotky vojákù.}
+{100}{}{VidÃ­Å¡ bezpeÄnostnÃ­ho robota.}
+{101}{}{VidÃ­Å¡ tÄ›Å¾ce vyzbrojenÃ©ho bezpeÄnostnÃ­ho robota.}
+{102}{}{VypadÃ¡ to, Å¾e by jeden takovÃ½hle robot staÄil ke zniÄenÃ­ menÅ¡Ã­ jednotky vojÃ¡kÅ¯.}
 {103}{}{Nereaguje na tebe.}

@@ -2,138 +2,138 @@
 {101}{}{}
 {200}{}{Hrdinka}
 {201}{}{}
-{300}{}{Vesnièanka}
-{400}{}{Vesnièanka}
-{500}{}{Radškorpion}
-{501}{}{Malı zmutovanı škorpion.}
-{600}{}{Radškorpion}
-{601}{}{Zmutovanı škorpion.}
-{700}{}{páraè                                                         }
-{701}{}{Mládì páraèe.}
-{800}{}{páraè                                                         }
-{801}{}{Mládì páraèe.}
+{300}{}{VesniÄanka}
+{400}{}{VesniÄanka}
+{500}{}{RadÅ¡korpion}
+{501}{}{MalÃ½ zmutovanÃ½ Å¡korpion.}
+{600}{}{RadÅ¡korpion}
+{601}{}{ZmutovanÃ½ Å¡korpion.}
+{700}{}{pÃ¡raÄ                                                         }
+{701}{}{MlÃ¡dÄ› pÃ¡raÄe.}
+{800}{}{pÃ¡raÄ                                                         }
+{801}{}{MlÃ¡dÄ› pÃ¡raÄe.}
 {900}{}{Pes}
-{901}{}{Vypadá to na nìjaké smíšené plemeno.}
-{1000}{}{Brahmína}
-{1001}{}{Dvouhlavá zmutovaná kráva.}
+{901}{}{VypadÃ¡ to na nÄ›jakÃ© smÃ­Å¡enÃ© plemeno.}
+{1000}{}{BrahmÃ­na}
+{1001}{}{DvouhlavÃ¡ zmutovanÃ¡ krÃ¡va.}
 {1100}{}{Krysa}
-{1101}{}{Obyèejná obøí krysa.}
+{1101}{}{ObyÄejnÃ¡ obÅ™Ã­ krysa.}
 {1200}{}{Kudlanka}
-{1201}{}{Zmutovaná verze kudlanky náboné.}
+{1201}{}{ZmutovanÃ¡ verze kudlanky nÃ¡boÅ¾nÃ©.}
 {1300}{}{Starsi}
 {1400}{}{Hakunin}
 {1500}{}{Mynoc}
-{1600}{}{Masoravı plevel}
-{1601}{}{Masoravá rostlina.}
-{1700}{}{Pìknı otrok}
-{1800}{}{Krásná otrokynì}
-{1900}{}{Zdravá otrokynì}
-{2000}{}{Zdravá otrokynì}
-{2100}{}{Silná otrokynì}
-{2200}{}{Silná otrokynì}
-{2300}{}{Bojovná otrokynì}
-{2400}{}{Bojovná otrokynì}
-{2500}{}{Chytrá otrokynì}
-{2600}{}{Chytrá otrokynì}
-{2700}{}{Otrokynì}
-{2800}{}{Otrokynì}
+{1600}{}{MasoÅ¾ravÃ½ plevel}
+{1601}{}{MasoÅ¾ravÃ¡ rostlina.}
+{1700}{}{PÄ›knÃ½ otrok}
+{1800}{}{KrÃ¡snÃ¡ otrokynÄ›}
+{1900}{}{ZdravÃ¡ otrokynÄ›}
+{2000}{}{ZdravÃ¡ otrokynÄ›}
+{2100}{}{SilnÃ¡ otrokynÄ›}
+{2200}{}{SilnÃ¡ otrokynÄ›}
+{2300}{}{BojovnÃ¡ otrokynÄ›}
+{2400}{}{BojovnÃ¡ otrokynÄ›}
+{2500}{}{ChytrÃ¡ otrokynÄ›}
+{2600}{}{ChytrÃ¡ otrokynÄ›}
+{2700}{}{OtrokynÄ›}
+{2800}{}{OtrokynÄ›}
 {2900}{}{Anna}
-{3000}{}{Houevnatı hrdloøez}
-{3100}{}{Houevnatı hrdloøez}
-{3200}{}{Hrdloøez. Specialistka na chladné zbranì}
-{3300}{}{Hrdloøez. Specialistka na chladné zbranì}
-{3400}{}{Hbitı hrdloøez}
-{3500}{}{Hbitı hrdloøez}
-{3600}{}{Ozbrojenı hrdloøez}
-{3700}{}{Ozbrojenı hrdloøez}
-{3800}{}{Hrdloøez. Specialistka na tìké zbranì}
-{3900}{}{Hrdloøez. Specialistka na tìké zbranì}
-{4000}{}{Houevnatá strá}
-{4100}{}{Houevnatá strá}
-{4200}{}{Strá. Specialistka na chladné zbranì}
-{4300}{}{Strá. Specialistka na chladné zbranì}
-{4400}{}{Hbitá strá}
-{4500}{}{Hbitá strá}
-{4600}{}{Ozbrojená èlenka ochranky}
-{4700}{}{Ozbrojená èlenka ochranky}
-{4800}{}{Èlenka ochranky. Specialistka na tìké zbranì}
-{4900}{}{Èlenka ochranky. Specialistka na tìké zbranì}
+{3000}{}{HouÅ¾evnatÃ½ hrdloÅ™ez}
+{3100}{}{HouÅ¾evnatÃ½ hrdloÅ™ez}
+{3200}{}{HrdloÅ™ez. Specialistka na chladnÃ© zbranÄ›}
+{3300}{}{HrdloÅ™ez. Specialistka na chladnÃ© zbranÄ›}
+{3400}{}{HbitÃ½ hrdloÅ™ez}
+{3500}{}{HbitÃ½ hrdloÅ™ez}
+{3600}{}{OzbrojenÃ½ hrdloÅ™ez}
+{3700}{}{OzbrojenÃ½ hrdloÅ™ez}
+{3800}{}{HrdloÅ™ez. Specialistka na tÄ›Å¾kÃ© zbranÄ›}
+{3900}{}{HrdloÅ™ez. Specialistka na tÄ›Å¾kÃ© zbranÄ›}
+{4000}{}{HouÅ¾evnatÃ¡ strÃ¡Å¾}
+{4100}{}{HouÅ¾evnatÃ¡ strÃ¡Å¾}
+{4200}{}{StrÃ¡Å¾. Specialistka na chladnÃ© zbranÄ›}
+{4300}{}{StrÃ¡Å¾. Specialistka na chladnÃ© zbranÄ›}
+{4400}{}{HbitÃ¡ strÃ¡Å¾}
+{4500}{}{HbitÃ¡ strÃ¡Å¾}
+{4600}{}{OzbrojenÃ¡ Älenka ochranky}
+{4700}{}{OzbrojenÃ¡ Älenka ochranky}
+{4800}{}{ÄŒlenka ochranky. Specialistka na tÄ›Å¾kÃ© zbranÄ›}
+{4900}{}{ÄŒlenka ochranky. Specialistka na tÄ›Å¾kÃ© zbranÄ›}
 {5000}{}{Sirotek}
 {5100}{}{Sirotek}
 {5200}{}{Chlapec}
-{5300}{}{Dívka}
-{5400}{}{Uboaèka}
-{5500}{}{Uboaèka}
-{5600}{}{Špatná obchodnice}
-{5700}{}{Špatná obchodnice}
-{5800}{}{Tuctová obchodnice}
-{5900}{}{Tuctová obchodnice}
+{5300}{}{DÃ­vka}
+{5400}{}{UboÅ¾aÄka}
+{5500}{}{UboÅ¾aÄka}
+{5600}{}{Å patnÃ¡ obchodnice}
+{5700}{}{Å patnÃ¡ obchodnice}
+{5800}{}{TuctovÃ¡ obchodnice}
+{5900}{}{TuctovÃ¡ obchodnice}
 {6000}{}{Mistr obchodnice}
 {6100}{}{Mistr obchodnice}
 {6200}{}{Vic}
-{6300}{}{Hubená farmáøka}
-{6400}{}{Hubená farmáøka}
-{6500}{}{Tuctová farmáøka}
-{6600}{}{Tuctová farmáøka}
-{6700}{}{Silná farmáøka}
-{6800}{}{Silná farmáøka}
-{6900}{}{Slabá strá. Specialistka na chladné zbranì}
-{7000}{}{Slabá strá. Specialistka na chladné zbranì}
-{7100}{}{Ozbrojená slabá strá}
-{7200}{}{Ozbrojená slabá strá}
-{7300}{}{Robot-opraváø}
-{7400}{}{Robot-opraváø Mark II}
+{6300}{}{HubenÃ¡ farmÃ¡Å™ka}
+{6400}{}{HubenÃ¡ farmÃ¡Å™ka}
+{6500}{}{TuctovÃ¡ farmÃ¡Å™ka}
+{6600}{}{TuctovÃ¡ farmÃ¡Å™ka}
+{6700}{}{SilnÃ¡ farmÃ¡Å™ka}
+{6800}{}{SilnÃ¡ farmÃ¡Å™ka}
+{6900}{}{SlabÃ¡ strÃ¡Å¾. Specialistka na chladnÃ© zbranÄ›}
+{7000}{}{SlabÃ¡ strÃ¡Å¾. Specialistka na chladnÃ© zbranÄ›}
+{7100}{}{OzbrojenÃ¡ slabÃ¡ strÃ¡Å¾}
+{7200}{}{OzbrojenÃ¡ slabÃ¡ strÃ¡Å¾}
+{7300}{}{Robot-opravÃ¡Å™}
+{7400}{}{Robot-opravÃ¡Å™ Mark II}
 {7500}{}{Kyborg}
-{7600}{}{Robot typu "Oèko"}
-{7700}{}{Stránı robot}
-{7800}{}{Stránı robot Mark II}
+{7600}{}{Robot typu "OÄko"}
+{7700}{}{StrÃ¡Å¾nÃ½ robot}
+{7800}{}{StrÃ¡Å¾nÃ½ robot Mark II}
 {7900}{}{Kyborg}
-{8000}{}{Malı geckon}
-{8100}{}{Odolnı malı geckon}
-{8200}{}{Zdivoèelé plemeno psa.}
-{8201}{}{Zdivoèelé plemeno psa.}
-{8300}{}{Zlatı geckon}
-{8400}{}{páraè                                                         }
-{8500}{}{Líhnì páraèù}
-{8600}{}{Odolnı zlatı geckon}
+{8000}{}{MalÃ½ geckon}
+{8100}{}{OdolnÃ½ malÃ½ geckon}
+{8200}{}{ZdivoÄelÃ© plemeno psa.}
+{8201}{}{ZdivoÄelÃ© plemeno psa.}
+{8300}{}{ZlatÃ½ geckon}
+{8400}{}{pÃ¡raÄ                                                         }
+{8500}{}{LÃ­hnÄ› pÃ¡raÄÅ¯}
+{8600}{}{OdolnÃ½ zlatÃ½ geckon}
 {8700}{}{Lynette}
 {8800}{}{Dr. Troy}
 {8900}{}{John Cassidy}
 {9000}{}{Gregory}
-{9100}{}{Obèanka}
-{9200}{}{Obèan}
-{9300}{}{Obèanka vyšší tøídy}
-{9400}{}{Obèan vyšší tøídy}
-{9500}{}{Stopaøka}
-{9600}{}{Stopaøka}
+{9100}{}{ObÄanka}
+{9200}{}{ObÄan}
+{9300}{}{ObÄanka vyÅ¡Å¡Ã­ tÅ™Ã­dy}
+{9400}{}{ObÄan vyÅ¡Å¡Ã­ tÅ™Ã­dy}
+{9500}{}{StopaÅ™ka}
+{9600}{}{StopaÅ™ka}
 {9700}{}{Sulik}
-{9800}{}{Maida Bucknerová}
+{9800}{}{Maida BucknerovÃ¡}
 {9900}{}{Torr}
 {10000}{}{Vazba}
-{10100}{}{"Záøící" ghoul. Obsluha reaktoru}
+{10100}{}{"ZÃ¡Å™Ã­cÃ­" ghoul. Obsluha reaktoru}
 {10200}{}{Ghoul. Obsluha reaktoru}
-{10300}{}{Èlen ochranky reaktoru}
+{10300}{}{ÄŒlen ochranky reaktoru}
 {10400}{}{Zomak}
 {10500}{}{Skeeter}
 {10600}{}{Brain}
 {10700}{}{Lenny}
 {10800}{}{Wooz}
 {10900}{}{Harold}
-{11000}{}{Krtèí potkan}
-{11100}{}{Obøí krtèí potkan}
-{11200}{}{Praseèí potkan}
-{11300}{}{Odolnı praseèí potkan}
-{11400}{}{Zesláblá brahmína}
-{11401}{}{Zmutovaná dvouhlavá kráva.}
+{11000}{}{KrtÄÃ­ potkan}
+{11100}{}{ObÅ™Ã­ krtÄÃ­ potkan}
+{11200}{}{PraseÄÃ­ potkan}
+{11300}{}{OdolnÃ½ praseÄÃ­ potkan}
+{11400}{}{ZeslÃ¡blÃ¡ brahmÃ­na}
+{11401}{}{ZmutovanÃ¡ dvouhlavÃ¡ krÃ¡va.}
 {11500}{}{A.Pwr.Armor (don't use)}
-{11600}{}{Zmutovanı potkan}
-{11601}{}{Odolná mutace potkana.}
-{11700}{}{Zmutovanı krtèí potkan}
-{11701}{}{Odolná mutace krtèího potkana.}
-{11800}{}{Zmutovanı praseèí potkan}
-{11801}{}{Odolná mutace praseèího potkana.}
+{11600}{}{ZmutovanÃ½ potkan}
+{11601}{}{OdolnÃ¡ mutace potkana.}
+{11700}{}{ZmutovanÃ½ krtÄÃ­ potkan}
+{11701}{}{OdolnÃ¡ mutace krtÄÃ­ho potkana.}
+{11800}{}{ZmutovanÃ½ praseÄÃ­ potkan}
+{11801}{}{OdolnÃ¡ mutace praseÄÃ­ho potkana.}
 {11900}{}{Supermutant}
-{12000}{}{Silnı mutant}
+{12000}{}{SilnÃ½ mutant}
 {12100}{}{Melchoir}
 {12200}{}{Hero Andro (don't use)}
 {12300}{}{Hero Andro (don't use)}
@@ -147,16 +147,16 @@
 {13100}{}{Hero Female (don't use)}
 {13200}{}{Hero Male (don't use)}
 {13300}{}{Hero Female (don't use)}
-{13400}{}{Strá Vault City}
-{13500}{}{Strá Vault City}
+{13400}{}{StrÃ¡Å¾ Vault City}
+{13500}{}{StrÃ¡Å¾ Vault City}
 {13600}{}{Kyberpes}
-{13700}{}{Strá NCR}
-{13800}{}{Strá NCR}
-{13900}{}{Strá NCR. Specialista na chladné zbranì}
-{14000}{}{Hlídaè otrokù}
-{14100}{}{Dozorce otrokù}
-{14200}{}{Obchodnice - velmistrynì}
-{14300}{}{Obchodnice - velmistrynì}
+{13700}{}{StrÃ¡Å¾ NCR}
+{13800}{}{StrÃ¡Å¾ NCR}
+{13900}{}{StrÃ¡Å¾ NCR. Specialista na chladnÃ© zbranÄ›}
+{14000}{}{HlÃ­daÄ otrokÅ¯}
+{14100}{}{Dozorce otrokÅ¯}
+{14200}{}{Obchodnice - velmistrynÄ›}
+{14300}{}{Obchodnice - velmistrynÄ›}
 {14400}{}{Tandi}
 {14500}{}{Merc}
 {14600}{}{Ratch}
@@ -166,13 +166,13 @@
 {15000}{}{Majitel obchodu}
 {15100}{}{Gruthar}
 {15200}{}{Goris}
-{15300}{}{Krtèí gladiátor}
-{15400}{}{Krtèí gladiátor}
-{15500}{}{Krtèí gladiátor}
-{15600}{}{Krtèí gladiátor}
-{15700}{}{Krtèí gladiátor}
-{15800}{}{Krtèí gladiátor}
-{15900}{}{Obyèejnı ghoul}
+{15300}{}{KrtÄÃ­ gladiÃ¡tor}
+{15400}{}{KrtÄÃ­ gladiÃ¡tor}
+{15500}{}{KrtÄÃ­ gladiÃ¡tor}
+{15600}{}{KrtÄÃ­ gladiÃ¡tor}
+{15700}{}{KrtÄÃ­ gladiÃ¡tor}
+{15800}{}{KrtÄÃ­ gladiÃ¡tor}
+{15900}{}{ObyÄejnÃ½ ghoul}
 {16000}{}{Myron}
 {16100}{}{Marcus}
 {16200}{}{Doc Jones}
@@ -180,224 +180,224 @@
 {16400}{}{Mirie}
 {16500}{}{Laddie}
 {16600}{}{Rondo}
-{16700}{}{Nádeník}
-{16800}{}{Nádeník}
-{16900}{}{Nádeník}
-{17000}{}{Vyhazovaè}
-{17100}{}{Vyhazovaè}
-{17200}{}{Slabı Mr. Handy}
-{17300}{}{Bìnı "záøící" ghoul}
+{16700}{}{NÃ¡denÃ­k}
+{16800}{}{NÃ¡denÃ­k}
+{16900}{}{NÃ¡denÃ­k}
+{17000}{}{VyhazovaÄ}
+{17100}{}{VyhazovaÄ}
+{17200}{}{SlabÃ½ Mr. Handy}
+{17300}{}{BÄ›Å¾nÃ½ "zÃ¡Å™Ã­cÃ­" ghoul}
 {17400}{}{Dar}
 {17500}{}{Dalia}
 {17600}{}{Gordon}
 {17700}{}{test (don't use)}
 {17800}{}{Ghoul. Obsluha reaktoru}
-{17900}{}{Obyèejnı ghoul}
+{17900}{}{ObyÄejnÃ½ ghoul}
 {18000}{}{Matt}
-{18100}{}{Vùdce lovcù odmìn}
-{18200}{}{Lovec odmìn}
-{18300}{}{Vùdce lovcù odmìn}
-{18400}{}{Lovec odmìn}
-{18500}{}{Lovec odmìn}
-{18600}{}{Vùdce lovcù odmìn}
-{18700}{}{Lovec odmìn}
-{18800}{}{Lovec odmìn}
-{18900}{}{Vùdce lovcù odmìn}
-{19000}{}{Lovec odmìn}
+{18100}{}{VÅ¯dce lovcÅ¯ odmÄ›n}
+{18200}{}{Lovec odmÄ›n}
+{18300}{}{VÅ¯dce lovcÅ¯ odmÄ›n}
+{18400}{}{Lovec odmÄ›n}
+{18500}{}{Lovec odmÄ›n}
+{18600}{}{VÅ¯dce lovcÅ¯ odmÄ›n}
+{18700}{}{Lovec odmÄ›n}
+{18800}{}{Lovec odmÄ›n}
+{18900}{}{VÅ¯dce lovcÅ¯ odmÄ›n}
+{19000}{}{Lovec odmÄ›n}
 {19100}{}{Bess}
-{19101}{}{Dvouhlavá zmutovaná kráva.}
+{19101}{}{DvouhlavÃ¡ zmutovanÃ¡ krÃ¡va.}
 {19200}{}{Balthas}
 {19300}{}{Grisham}
 {19400}{}{Phil}
-{19500}{}{Kuøe}
+{19500}{}{KuÅ™e}
 {19600}{}{Karl}
 {19700}{}{Jonny.}
 {19800}{}{Jo}
 {19900}{}{Zeke}
-{20000}{}{Øezník}
+{20000}{}{Å˜eznÃ­k}
 {20100}{}{Petey}
-{20200}{}{Primitivní lovkynì}
-{20300}{}{Primitivní lovkynì}
+{20200}{}{PrimitivnÃ­ lovkynÄ›}
+{20300}{}{PrimitivnÃ­ lovkynÄ›}
 {20400}{}{Kanibal}
 {20500}{}{Kanibal}
-{20600}{}{Svatı mu}
-{20700}{}{Svatá ena}
-{20800}{}{Koèovnice}
-{20900}{}{Nomád}
-{21000}{}{Koèovnice}
-{21100}{}{Nomád}
+{20600}{}{SvatÃ½ muÅ¾}
+{20700}{}{SvatÃ¡ Å¾ena}
+{20800}{}{KoÄovnice}
+{20900}{}{NomÃ¡d}
+{21000}{}{KoÄovnice}
+{21100}{}{NomÃ¡d}
 {21200}{}{Bandita}
 {21300}{}{Bandita}
-{21400}{}{Farmáøka}
-{21500}{}{Farmáøka}
+{21400}{}{FarmÃ¡Å™ka}
+{21500}{}{FarmÃ¡Å™ka}
 {21600}{}{Kudlanka}
-{21700}{}{Otrokáø}
-{21800}{}{Otrokáø}
-{21900}{}{Divoká brahmína}
+{21700}{}{OtrokÃ¡Å™}
+{21800}{}{OtrokÃ¡Å™}
+{21900}{}{DivokÃ¡ brahmÃ­na}
 {22000}{}{Starousedlice}
 {22100}{}{Starousedlice}
-{22200}{}{Èlenka hlídky z Vault City}
-{22300}{}{Èlenka hlídky z Vault City}
-{22400}{}{Silná otrokáøka}
-{22500}{}{Silná otrokáøka}
-{22600}{}{Blázni}
-{22700}{}{Mrchorouti}
-{22800}{}{Záøící blázni}
-{22900}{}{Záøící mrchorouti}
-{23000}{}{Rybáø}
-{23100}{}{Rybáøka}
-{23200}{}{Divoška}
-{23300}{}{Divoška}
-{23400}{}{Pøekupnice s alkoholem}
-{23500}{}{Pøekupnice s alkoholem}
+{22200}{}{ÄŒlenka hlÃ­dky z Vault City}
+{22300}{}{ÄŒlenka hlÃ­dky z Vault City}
+{22400}{}{SilnÃ¡ otrokÃ¡Å™ka}
+{22500}{}{SilnÃ¡ otrokÃ¡Å™ka}
+{22600}{}{BlÃ¡zni}
+{22700}{}{MrchoÅ¾routi}
+{22800}{}{ZÃ¡Å™Ã­cÃ­ blÃ¡zni}
+{22900}{}{ZÃ¡Å™Ã­cÃ­ mrchoÅ¾routi}
+{23000}{}{RybÃ¡Å™}
+{23100}{}{RybÃ¡Å™ka}
+{23200}{}{DivoÅ¡ka}
+{23300}{}{DivoÅ¡ka}
+{23400}{}{PÅ™ekupnice s alkoholem}
+{23500}{}{PÅ™ekupnice s alkoholem}
 {23600}{}{Prospektorka}
 {23700}{}{Prospektorka}
-{23800}{}{Nájezdnice}
-{23900}{}{Nájezdnice}
-{24000}{}{Ohnivı geckon}
-{24100}{}{Houevnatı ohnivı geckon}
+{23800}{}{NÃ¡jezdnice}
+{23900}{}{NÃ¡jezdnice}
+{24000}{}{OhnivÃ½ geckon}
+{24100}{}{HouÅ¾evnatÃ½ ohnivÃ½ geckon}
 {24200}{}{Alien}
-{24300}{}{Odolnı alien}
-{24400}{}{Malı odolnı páraè}
-{24500}{}{Houevnatı páraè}
+{24300}{}{OdolnÃ½ alien}
+{24400}{}{MalÃ½ odolnÃ½ pÃ¡raÄ}
+{24500}{}{HouÅ¾evnatÃ½ pÃ¡raÄ}
 {24600}{}{Floater}
-{24700}{}{Odpornı floater}
+{24700}{}{OdpornÃ½ floater}
 {24800}{}{Kentaur}
-{24900}{}{Naštvanı kentaur}
-{25000}{}{Hlídka Enklávy}
-{25100}{}{Hlídka Enklávy}
-{25200}{}{Èlenka vymahaèského gangu}
-{25300}{}{Èlenka vymahaèského gangu}
-{25400}{}{oldák}
-{25500}{}{oldák}
+{24900}{}{NaÅ¡tvanÃ½ kentaur}
+{25000}{}{HlÃ­dka EnklÃ¡vy}
+{25100}{}{HlÃ­dka EnklÃ¡vy}
+{25200}{}{ÄŒlenka vymahaÄskÃ©ho gangu}
+{25300}{}{ÄŒlenka vymahaÄskÃ©ho gangu}
+{25400}{}{Å½oldÃ¡k}
+{25500}{}{Å½oldÃ¡k}
 {25600}{}{Nightkin}
-{25700}{}{Odolnı nightkin}
-{25800}{}{Houevnatı ghoul}
-{25900}{}{Mafián}
+{25700}{}{OdolnÃ½ nightkin}
+{25800}{}{HouÅ¾evnatÃ½ ghoul}
+{25900}{}{MafiÃ¡n}
 {26000}{}{Yakuza}
 {26100}{}{Ranger z NCR}
 {26200}{}{Ranger z NCR}
-{26300}{}{Zbìh}
-{26400}{}{Zbìh}
+{26300}{}{ZbÄ›h}
+{26400}{}{ZbÄ›h}
 {26500}{}{Hezoun Lloyd}
 {26600}{}{Vorpal krysa}
 {26700}{}{Obyvatel Vaultu 13}
 {26800}{}{Obyvatelka Vaultu 13}
-{26900}{}{Stráce mostu}
-{27000}{}{Záhadnı cizinec}
-{27100}{}{Záhadnı cizinec}
+{26900}{}{StrÃ¡Å¾ce mostu}
+{27000}{}{ZÃ¡hadnÃ½ cizinec}
+{27100}{}{ZÃ¡hadnÃ½ cizinec}
 {27200}{}{Hakeswill}
-{27300}{}{Velkej Jeíš Mordino}
+{27300}{}{Velkej JeÅ¾Ã­Å¡ Mordino}
 {27400}{}{Dumar}
-{27500}{}{Matka páraèù}
+{27500}{}{Matka pÃ¡raÄÅ¯}
 {27600}{}{Dragon}
 {27700}{}{Lo Pan}
 {27800}{}{Hubologistka}
 {27900}{}{Hubologistka}
-{28000}{}{Záhadnı cizinec}
-{28100}{}{Záhadnı cizinec}
-{28200}{}{Záhadnı cizinec}
-{28300}{}{Záhadnı cizinec}
-{28400}{}{Záhadnı cizinec}
-{28500}{}{Záhadnı cizinec}
-{28600}{}{Záhadnı cizinec}
-{28700}{}{Záhadnı cizinec}
-{28800}{}{Ochranka vymahaèù}
-{28900}{}{Vejce páraèe}
+{28000}{}{ZÃ¡hadnÃ½ cizinec}
+{28100}{}{ZÃ¡hadnÃ½ cizinec}
+{28200}{}{ZÃ¡hadnÃ½ cizinec}
+{28300}{}{ZÃ¡hadnÃ½ cizinec}
+{28400}{}{ZÃ¡hadnÃ½ cizinec}
+{28500}{}{ZÃ¡hadnÃ½ cizinec}
+{28600}{}{ZÃ¡hadnÃ½ cizinec}
+{28700}{}{ZÃ¡hadnÃ½ cizinec}
+{28800}{}{Ochranka vymahaÄÅ¯}
+{28900}{}{Vejce pÃ¡raÄe}
 {29000}{}{Metzger}
-{29100}{}{Èlovìk}
-{29200}{}{Èlovìk v podivné zbroji}
+{29100}{}{ÄŒlovÄ›k}
+{29200}{}{ÄŒlovÄ›k v podivnÃ© zbroji}
 {29300}{}{Prezident}
 {29400}{}{Viceprezident}
 {29500}{}{Technik}
 {29600}{}{Badger}
 {29700}{}{Dr. Fung}
-{29800}{}{Dítì}
-{29900}{}{Dítì}
-{30000}{}{Obchodník se zbranìmi}
-{30100}{}{Laboratorní technik Shi}
-{30200}{}{Strá Shi}
-{30300}{}{Èlenka Shi}
-{30400}{}{Èlenka Shi}
-{30500}{}{Èlenka klanu Lo Pan}
-{30600}{}{Èlenka klanu Lo Pan}
-{30700}{}{Pøístavní dìlník}
-{30800}{}{Obchodník Shi}
-{30900}{}{Král Krysa}
-{31000}{}{Sulik - úroveò 1}
-{31100}{}{Sulik - úroveò 2}
-{31200}{}{Sulik - úroveò 3}
-{31300}{}{Sulik - úroveò 4}
-{31400}{}{Sulik - úroveò 5}
-{31500}{}{Sulik - úroveò 6}
-{31600}{}{Lenny - úroveò 1}
-{31700}{}{Lenny - úroveò 2}
-{31800}{}{Lenny - úroveò 3}
-{31900}{}{Goris - úroveò 1}
-{32000}{}{Goris - úroveò 2}
-{32100}{}{Goris - úroveò 3}
-{32200}{}{Goris - úroveò 4}
-{32300}{}{Goris - úroveò 5}
-{32400}{}{Goris - úroveò 6}
-{32500}{}{Myron - úroveò 1}
-{32600}{}{Myron - úroveò 2}
-{32700}{}{Myron - úroveò 3}
-{32800}{}{Myron - úroveò 4}
-{32900}{}{Marcus - úroveò 1}
-{33000}{}{Marcus - úroveò 2}
-{33100}{}{Marcus - úroveò 3}
-{33200}{}{Marcus - úroveò 4}
-{33300}{}{Marcus - úroveò 5}
-{33400}{}{Kyberpes - úroveò 1}
-{33500}{}{Kyberpes - úroveò 2}
-{33600}{}{Kyberpes - úroveò 3}
-{33700}{}{Kyberpes - úroveò 4}
-{33800}{}{Cassidy - úroveò 1}
-{33900}{}{Cassidy - úroveò 2}
-{34000}{}{Cassidy - úroveò 3}
-{34100}{}{Cassidy - úroveò 4}
+{29800}{}{DÃ­tÄ›}
+{29900}{}{DÃ­tÄ›}
+{30000}{}{ObchodnÃ­k se zbranÄ›mi}
+{30100}{}{LaboratornÃ­ technik Shi}
+{30200}{}{StrÃ¡Å¾ Shi}
+{30300}{}{ÄŒlenka Shi}
+{30400}{}{ÄŒlenka Shi}
+{30500}{}{ÄŒlenka klanu Lo Pan}
+{30600}{}{ÄŒlenka klanu Lo Pan}
+{30700}{}{PÅ™Ã­stavnÃ­ dÄ›lnÃ­k}
+{30800}{}{ObchodnÃ­k Shi}
+{30900}{}{KrÃ¡l Krysa}
+{31000}{}{Sulik - ÃºroveÅˆ 1}
+{31100}{}{Sulik - ÃºroveÅˆ 2}
+{31200}{}{Sulik - ÃºroveÅˆ 3}
+{31300}{}{Sulik - ÃºroveÅˆ 4}
+{31400}{}{Sulik - ÃºroveÅˆ 5}
+{31500}{}{Sulik - ÃºroveÅˆ 6}
+{31600}{}{Lenny - ÃºroveÅˆ 1}
+{31700}{}{Lenny - ÃºroveÅˆ 2}
+{31800}{}{Lenny - ÃºroveÅˆ 3}
+{31900}{}{Goris - ÃºroveÅˆ 1}
+{32000}{}{Goris - ÃºroveÅˆ 2}
+{32100}{}{Goris - ÃºroveÅˆ 3}
+{32200}{}{Goris - ÃºroveÅˆ 4}
+{32300}{}{Goris - ÃºroveÅˆ 5}
+{32400}{}{Goris - ÃºroveÅˆ 6}
+{32500}{}{Myron - ÃºroveÅˆ 1}
+{32600}{}{Myron - ÃºroveÅˆ 2}
+{32700}{}{Myron - ÃºroveÅˆ 3}
+{32800}{}{Myron - ÃºroveÅˆ 4}
+{32900}{}{Marcus - ÃºroveÅˆ 1}
+{33000}{}{Marcus - ÃºroveÅˆ 2}
+{33100}{}{Marcus - ÃºroveÅˆ 3}
+{33200}{}{Marcus - ÃºroveÅˆ 4}
+{33300}{}{Marcus - ÃºroveÅˆ 5}
+{33400}{}{Kyberpes - ÃºroveÅˆ 1}
+{33500}{}{Kyberpes - ÃºroveÅˆ 2}
+{33600}{}{Kyberpes - ÃºroveÅˆ 3}
+{33700}{}{Kyberpes - ÃºroveÅˆ 4}
+{33800}{}{Cassidy - ÃºroveÅˆ 1}
+{33900}{}{Cassidy - ÃºroveÅˆ 2}
+{34000}{}{Cassidy - ÃºroveÅˆ 3}
+{34100}{}{Cassidy - ÃºroveÅˆ 4}
 {34200}{}{Dogmeat}
-{34300}{}{Dogmeat - úroveò 1}
-{34400}{}{Dogmeat - úroveò 2}
-{34500}{}{Dogmeat - úroveò 3}
-{34600}{}{Dogmeat - úroveò 4}
-{34700}{}{Dogmeat - úroveò 5}
-{34800}{}{Dogmeat - úroveò 6}
-{34900}{}{Kyborg - úroveò 1}
-{35000}{}{Kyborg - úroveò 2}
-{35100}{}{Kyborg - úroveò 3}
-{35200}{}{Kyborg - úroveò 4}
-{35300}{}{Kyborg - úroveò 5}
-{35400}{}{Královna alienù}
-{35500}{}{Èernı radškorpion}
-{35600}{}{Èernı radškorpion}
-{35700}{}{Rıè}
-{35800}{}{Kapitán oldákù}
-{35900}{}{oldák}
-{36000}{}{oldák}
-{36100}{}{Stín-Kterı-Kráèí}
+{34300}{}{Dogmeat - ÃºroveÅˆ 1}
+{34400}{}{Dogmeat - ÃºroveÅˆ 2}
+{34500}{}{Dogmeat - ÃºroveÅˆ 3}
+{34600}{}{Dogmeat - ÃºroveÅˆ 4}
+{34700}{}{Dogmeat - ÃºroveÅˆ 5}
+{34800}{}{Dogmeat - ÃºroveÅˆ 6}
+{34900}{}{Kyborg - ÃºroveÅˆ 1}
+{35000}{}{Kyborg - ÃºroveÅˆ 2}
+{35100}{}{Kyborg - ÃºroveÅˆ 3}
+{35200}{}{Kyborg - ÃºroveÅˆ 4}
+{35300}{}{Kyborg - ÃºroveÅˆ 5}
+{35400}{}{KrÃ¡lovna alienÅ¯}
+{35500}{}{ÄŒernÃ½ radÅ¡korpion}
+{35600}{}{ÄŒernÃ½ radÅ¡korpion}
+{35700}{}{RÃ½Ä}
+{35800}{}{KapitÃ¡n Å¾oldÃ¡kÅ¯}
+{35900}{}{Å½oldÃ¡k}
+{36000}{}{Å½oldÃ¡k}
+{36100}{}{StÃ­n-KterÃ½-KrÃ¡ÄÃ­}
 {36200}{}{Punkerka}
 {36300}{}{Punkerka}
 {36400}{}{Marc}
 {36500}{}{Dave H.}
-{36600}{}{Kapitán A. Ron Meyers}
+{36600}{}{KapitÃ¡n A. Ron Meyers}
 {36700}{}{Chip}
 {36800}{}{AHS-9}
-{36900}{}{Strá Hubologistù}
-{37000}{}{Strá Hubologistù}
+{36900}{}{StrÃ¡Å¾ HubologistÅ¯}
+{37000}{}{StrÃ¡Å¾ HubologistÅ¯}
 {37100}{}{Juan}
 {37200}{}{Vikki}
-{37300}{}{Vic - úroveò 1}
-{37400}{}{Vic - úroveò 2}
-{37500}{}{Vic - úroveò 3}
-{37600}{}{Vic - úroveò 4}
-{37700}{}{Vic - úroveò 5}
-{37800}{}{Vic - úroveò 6}
-{37900}{}{Kyborg - Šimpanz}
-{38000}{}{Kyborg - Abnormální}
-{38100}{}{Kyborg - Èlovìk}
-{38200}{}{Obøí mravenec}
-{38300}{}{Odolnı obøí mravenec}
+{37300}{}{Vic - ÃºroveÅˆ 1}
+{37400}{}{Vic - ÃºroveÅˆ 2}
+{37500}{}{Vic - ÃºroveÅˆ 3}
+{37600}{}{Vic - ÃºroveÅˆ 4}
+{37700}{}{Vic - ÃºroveÅˆ 5}
+{37800}{}{Vic - ÃºroveÅˆ 6}
+{37900}{}{Kyborg - Å impanz}
+{38000}{}{Kyborg - AbnormÃ¡lnÃ­}
+{38100}{}{Kyborg - ÄŒlovÄ›k}
+{38200}{}{ObÅ™Ã­ mravenec}
+{38300}{}{OdolnÃ½ obÅ™Ã­ mravenec}
 {38400}{}{Pes Pariah}
 {38500}{}{Zurak}
 {38600}{}{Imbot}
@@ -412,101 +412,101 @@
 {39500}{}{Ziggy}
 {39600}{}{Mistr Khung}
 {39700}{}{John Bishop}
-{39800}{}{Angela Bishopová}
-{39900}{}{Paní Bishopová}
-{40000}{}{Bishopova strá 1}
-{40100}{}{Bishopova strá 2}
-{40200}{}{Bishopùv hrdloøez 1}
-{40300}{}{Bishopùv hrdloøez 2}
-{40400}{}{Rozzuøená brahmína}
-{40500}{}{Malej Jeíš}
-{40600}{}{Velkej Jeíš}
-{40700}{}{Mordinùv mu 1}
-{40800}{}{Mordinùv mu 2}
-{40900}{}{Mordinùv mu 3}
-{41000}{}{Myronova strá 1}
-{41100}{}{Myronova strá 2}
+{39800}{}{Angela BishopovÃ¡}
+{39900}{}{PanÃ­ BishopovÃ¡}
+{40000}{}{Bishopova strÃ¡Å¾ 1}
+{40100}{}{Bishopova strÃ¡Å¾ 2}
+{40200}{}{BishopÅ¯v hrdloÅ™ez 1}
+{40300}{}{BishopÅ¯v hrdloÅ™ez 2}
+{40400}{}{RozzuÅ™enÃ¡ brahmÃ­na}
+{40500}{}{Malej JeÅ¾Ã­Å¡}
+{40600}{}{Velkej JeÅ¾Ã­Å¡}
+{40700}{}{MordinÅ¯v muÅ¾ 1}
+{40800}{}{MordinÅ¯v muÅ¾ 2}
+{40900}{}{MordinÅ¯v muÅ¾ 3}
+{41000}{}{Myronova strÃ¡Å¾ 1}
+{41100}{}{Myronova strÃ¡Å¾ 2}
 {41200}{}{Pan Wright}
-{41300}{}{Paní Wrightová}
+{41300}{}{PanÃ­ WrightovÃ¡}
 {41400}{}{Chris Wright}
 {41500}{}{Keith Wright}
-{41600}{}{Wrightùv syn 1}
-{41700}{}{Wrightùv syn 2}
+{41600}{}{WrightÅ¯v syn 1}
+{41700}{}{WrightÅ¯v syn 2}
 {41800}{}{Wrightova dcera 1}
 {41900}{}{Wrightova dcera 2}
 {42000}{}{Pan Salvatore}
 {42100}{}{Mason}
-{42200}{}{Salvatorùv hrdloøez 1}
-{42300}{}{Salvatorùv hrdloøez 2}
-{42400}{}{Obyèejnı barman 1}
-{42500}{}{Obyèejnı barman 2}
-{42600}{}{Obyèejnı barman 3}
+{42200}{}{SalvatorÅ¯v hrdloÅ™ez 1}
+{42300}{}{SalvatorÅ¯v hrdloÅ™ez 2}
+{42400}{}{ObyÄejnÃ½ barman 1}
+{42500}{}{ObyÄejnÃ½ barman 2}
+{42600}{}{ObyÄejnÃ½ barman 3}
 {42700}{}{Boxer 1}
 {42800}{}{Boxer 2}
 {42900}{}{Boxer 3}
 {43000}{}{Boxer 4}
-{43100}{}{Mike dímaèka}
+{43100}{}{Mike Å½dÃ­maÄka}
 {43200}{}{Holyfeld}
 {43300}{}{McKneely}
 {43400}{}{Malej Stuart}
-{43500}{}{Korsiètí bratøi}
-{43600}{}{Korsické dìvky}
+{43500}{}{KorsiÄtÃ­ bratÅ™i}
+{43600}{}{KorsickÃ© dÄ›vky}
 {43700}{}{Otec Tully}
-{43800}{}{Vyhazovaè kasina 1}
-{43900}{}{Vyhazovaè kasina 2}
-{44000}{}{Krupiérka}
-{44100}{}{Drogovı dealer/Pasák1}
-{44200}{}{Drogovı dealer/Pasák2}
-{44300}{}{Drogovı dealer/Pasák3}
-{44400}{}{Drogovı dealer/Pasák4}
+{43800}{}{VyhazovaÄ kasina 1}
+{43900}{}{VyhazovaÄ kasina 2}
+{44000}{}{KrupiÃ©rka}
+{44100}{}{DrogovÃ½ dealer/PasÃ¡k1}
+{44200}{}{DrogovÃ½ dealer/PasÃ¡k2}
+{44300}{}{DrogovÃ½ dealer/PasÃ¡k3}
+{44400}{}{DrogovÃ½ dealer/PasÃ¡k4}
 {44500}{}{McGee}
-{44600}{}{Sleèna Kitty}
-{44700}{}{Obyèejná šlapka 1}
-{44800}{}{Obyèejná šlapka 2}
-{44900}{}{Poøezanej Jimmy J}
+{44600}{}{SleÄna Kitty}
+{44700}{}{ObyÄejnÃ¡ Å¡lapka 1}
+{44800}{}{ObyÄejnÃ¡ Å¡lapka 2}
+{44900}{}{PoÅ™ezanej Jimmy J}
 {45000}{}{Renesco}
-{45100}{}{Vìdec}
+{45100}{}{VÄ›dec}
 {45200}{}{Eldridge}
 {45300}{}{Algernon}
 {45400}{}{Jules}
 {45500}{}{Byrokrat 1}
 {45600}{}{Byrokrat 2}
-{45700}{}{Obchodník 1}
-{45800}{}{Obchodník 2}
-{45900}{}{Strá 1}
-{46000}{}{Strá 2}
-{46100}{}{Strá 3}
-{46200}{}{Strá 4}
-{46300}{}{Voják 1}
-{46400}{}{Voják 2}
-{46500}{}{Voják 3}
-{46600}{}{Voják 4}
-{46700}{}{Serant Stark}
+{45700}{}{ObchodnÃ­k 1}
+{45800}{}{ObchodnÃ­k 2}
+{45900}{}{StrÃ¡Å¾ 1}
+{46000}{}{StrÃ¡Å¾ 2}
+{46100}{}{StrÃ¡Å¾ 3}
+{46200}{}{StrÃ¡Å¾ 4}
+{46300}{}{VojÃ¡k 1}
+{46400}{}{VojÃ¡k 2}
+{46500}{}{VojÃ¡k 3}
+{46600}{}{VojÃ¡k 4}
+{46700}{}{SerÅ¾ant Stark}
 {46800}{}{"Doktor" Andrew}
 {46900}{}{Barman}
-{47000}{}{Støelecká vì}
-{47001}{}{Automatická støelecká vì vyzbrojená dvojitım plazmovım kanónem.}
-{47100}{}{K-9 (základní úroveò)}
-{47200}{}{K-9 (úroveò 1)}
-{47300}{}{K-9 (úroveò 2)}
-{47400}{}{K-9 (úroveò 3)}
-{47500}{}{K-9 (úroveò 4)}
-{47600}{}{Obyèejnı kyberpes}
+{47000}{}{StÅ™eleckÃ¡ vÄ›Å¾}
+{47001}{}{AutomatickÃ¡ stÅ™eleckÃ¡ vÄ›Å¾ vyzbrojenÃ¡ dvojitÃ½m plazmovÃ½m kanÃ³nem.}
+{47100}{}{K-9 (zÃ¡kladnÃ­ ÃºroveÅˆ)}
+{47200}{}{K-9 (ÃºroveÅˆ 1)}
+{47300}{}{K-9 (ÃºroveÅˆ 2)}
+{47400}{}{K-9 (ÃºroveÅˆ 3)}
+{47500}{}{K-9 (ÃºroveÅˆ 4)}
+{47600}{}{ObyÄejnÃ½ kyberpes}
 {47700}{}{Vejce Wanamingo}
-{47800}{}{Strá Lo Pana}
+{47800}{}{StrÃ¡Å¾ Lo Pana}
 {47900}{}{Marjorie}
-{48000}{}{Autokanón}
-{48100}{}{Speciální Gecko potvora}
+{48000}{}{AutokanÃ³n}
+{48100}{}{SpeciÃ¡lnÃ­ Gecko potvora}
 {48200}{}{Smrtka}
 {48300}{}{Frank Horrigan}
-{48301}{}{Prezidentùv bodyguard.}
+{48301}{}{PrezidentÅ¯v bodyguard.}
 {48400}{}{Nessa}
-{48401}{}{Duch mrtvé Nessy.}
+{48401}{}{Duch mrtvÃ© Nessy.}
 {48500}{}{Saman}
-{48501}{}{Šaman kmene.}
-{48600}{}{Váleèník   }
-{48601}{}{Váleèník kmene.}
-{48700}{}{Strá}
+{48501}{}{Å aman kmene.}
+{48600}{}{VÃ¡leÄnÃ­k   }
+{48601}{}{VÃ¡leÄnÃ­k kmene.}
+{48700}{}{StrÃ¡Å¾}
 {48800}{}{Sulikova sestra}
 {48900}{}{Kaga}
 {49000}{}{Kaga}
@@ -514,45 +514,45 @@
 {49200}{}{Kaga}
 {49300}{}{Kaga}
 {49400}{}{Hologram 00000}
-{49401}{}{Hologram øeditele pro vìdu a vızkum.}
+{49401}{}{Hologram Å™editele pro vÄ›du a vÃ½zkum.}
 {49500}{}{Hologram 10001}
-{49501}{}{Hologram øeditele ostrahy.}
+{49501}{}{Hologram Å™editele ostrahy.}
 {49600}{}{Hologram 12001}
-{49601}{}{Hologram provozního øeditele.}
+{49601}{}{Hologram provoznÃ­ho Å™editele.}
 {49700}{}{Hologram 10031}
-{49701}{}{Hologram øeditele údrby.}
+{49701}{}{Hologram Å™editele ÃºdrÅ¾by.}
 {49800}{}{Hologram 40011}
-{49801}{}{Hologram øeditele pro styk s veøejností.}
+{49801}{}{Hologram Å™editele pro styk s veÅ™ejnostÃ­.}
 {49900}{}{Mr.Handy}
-{49901}{}{Tìce deprimovaná verze Mr.Handyho.}
+{49901}{}{TÄ›Å¾ce deprimovanÃ¡ verze Mr.Handyho.}
 {50000}{}{Doktor}
-{50001}{}{Hlavní a také jedinı lékaø, kterı zùstal v EPA.}
-{50100}{}{Masoravı plevel z EPA}
-{50101}{}{Ohavnì zmutovaná masoravá rostlina.}
+{50001}{}{HlavnÃ­ a takÃ© jedinÃ½ lÃ©kaÅ™, kterÃ½ zÅ¯stal v EPA.}
+{50100}{}{MasoÅ¾ravÃ½ plevel z EPA}
+{50101}{}{OhavnÄ› zmutovanÃ¡ masoÅ¾ravÃ¡ rostlina.}
 {50200}{}{Kitsune}
 {50300}{}{Dex}
 {50400}{}{Kocour Jules}
-{50500}{}{Doktorùv váleèník}
-{50501}{}{Doktorùv váleèník.}
+{50500}{}{DoktorÅ¯v vÃ¡leÄnÃ­k}
+{50501}{}{DoktorÅ¯v vÃ¡leÄnÃ­k.}
 {50600}{}{Octomilka}
-{50601}{}{Zmutovaná octomilka.}
+{50601}{}{ZmutovanÃ¡ octomilka.}
 {50700}{}{Hologram}
 {50701}{}{Hologram.}
-{50800}{}{Kitsune - úroveò 1}
-{50900}{}{Kitsune - úroveò 2}
-{51000}{}{Kitsune - úroveò 3}
-{51100}{}{Kitsune - úroveò 4}
-{51200}{}{Kitsune - úroveò 5}
-{51300}{}{Dex - úroveò 1}
-{51400}{}{Dex - úroveò 2}
-{51500}{}{Dex - úroveò 3}
-{51600}{}{Dex - úroveò 4}
-{51700}{}{Dex - úroveò 5}
-{51800}{}{Kocour Jules - úroveò 1}
-{51900}{}{Kocour Jules - úroveò 2}
-{52000}{}{Kocour Jules - úroveò 3}
-{52100}{}{Kocour Jules - úroveò 4}
-{52200}{}{Kocour Jules - úroveò 5}
+{50800}{}{Kitsune - ÃºroveÅˆ 1}
+{50900}{}{Kitsune - ÃºroveÅˆ 2}
+{51000}{}{Kitsune - ÃºroveÅˆ 3}
+{51100}{}{Kitsune - ÃºroveÅˆ 4}
+{51200}{}{Kitsune - ÃºroveÅˆ 5}
+{51300}{}{Dex - ÃºroveÅˆ 1}
+{51400}{}{Dex - ÃºroveÅˆ 2}
+{51500}{}{Dex - ÃºroveÅˆ 3}
+{51600}{}{Dex - ÃºroveÅˆ 4}
+{51700}{}{Dex - ÃºroveÅˆ 5}
+{51800}{}{Kocour Jules - ÃºroveÅˆ 1}
+{51900}{}{Kocour Jules - ÃºroveÅˆ 2}
+{52000}{}{Kocour Jules - ÃºroveÅˆ 3}
+{52100}{}{Kocour Jules - ÃºroveÅˆ 4}
+{52200}{}{Kocour Jules - ÃºroveÅˆ 5}
 {52300}{}{MIBoba Fe88}
 {52400}{}{Hivan Zolo}
 {52500}{}{Contie-bacca}
@@ -562,7 +562,7 @@
 {52900}{}{Chris3ParksO}
 {53000}{}{Yosan12}
 {53100}{}{Obi-Wan-Killap}
-{53200}{}{Imperátorka Timeslip}
+{53200}{}{ImperÃ¡torka Timeslip}
 {53300}{}{Luke Skynet}
 {53400}{}{Mon-Morticia}
 {53500}{}{Kanhef}
@@ -573,12 +573,12 @@
 {54000}{}{Minigun Jim}
 {54100}{}{Bofast}
 {54200}{}{Krom}
-{54300}{}{Matka masoravıch rostlin}
-{54400}{}{Matka alienù}
-{54500}{}{Masoravı plevel z EPA}
-{54501}{}{Ohavnì zmutovaná masoravá rostlina.}
-{54600}{}{Zdivoèelé plemeno psa.}
-{54601}{}{Zdivoèelé plemeno psa.}
-{54700}{}{Stránı robot Mark II}
+{54300}{}{Matka masoÅ¾ravÃ½ch rostlin}
+{54400}{}{Matka alienÅ¯}
+{54500}{}{MasoÅ¾ravÃ½ plevel z EPA}
+{54501}{}{OhavnÄ› zmutovanÃ¡ masoÅ¾ravÃ¡ rostlina.}
+{54600}{}{ZdivoÄelÃ© plemeno psa.}
+{54601}{}{ZdivoÄelÃ© plemeno psa.}
+{54700}{}{StrÃ¡Å¾nÃ½ robot Mark II}
 {54800}{}{Starej Joe}
-{54900}{}{Rostlinnı tvor}
+{54900}{}{RostlinnÃ½ tvor}

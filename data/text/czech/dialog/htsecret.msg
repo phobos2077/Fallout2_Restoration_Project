@@ -1,1 +1,1 @@
-{100}{}{Nacházíš tajnou místnost v dole.}
+{100}{}{NachÃ¡zÃ­Å¡ tajnou mÃ­stnost v dole.}

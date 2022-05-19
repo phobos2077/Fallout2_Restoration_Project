@@ -1,1 +1,1 @@
-{100}{}{Promiòte, ale šéf øekl, e vás tu u nemùu nechat hrát.}
+{100}{}{PromiÅˆte, ale Å¡Ã©f Å™ekl, Å¾e vÃ¡s tu uÅ¾ nemÅ¯Å¾u nechat hrÃ¡t.}

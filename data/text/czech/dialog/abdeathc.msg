@@ -1,3 +1,3 @@
-{100}{}{Vidíš naštvanì vypadajícího páraèe.}
-{101}{}{Vidíš obrovského páraèe pokrytého jizvami. Dıchá pomalu a hlasitì.}
-{102}{}{Získáváš 500 zkušenostních bodù za zabití bestie.}
+{100}{}{VidÃ­Å¡ naÅ¡tvanÄ› vypadajÃ­cÃ­ho pÃ¡raÄe.}
+{101}{}{VidÃ­Å¡ obrovskÃ©ho pÃ¡raÄe pokrytÃ©ho jizvami. DÃ½chÃ¡ pomalu a hlasitÄ›.}
+{102}{}{ZÃ­skÃ¡vÃ¡Å¡ 500 zkuÅ¡enostnÃ­ch bodÅ¯ za zabitÃ­ bestie.}

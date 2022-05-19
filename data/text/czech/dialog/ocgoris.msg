@@ -1,169 +1,169 @@
-{100}{}{Vidíš zahalenou postavu.}
-{101}{}{Vidíš uèence Gorise.}
-{102}{}{Vidíš humanoida v hávu s dlouhımi rukávy a kapucí. Na jeho postoji je nìco zvláštního, ale nevíš pøesnì co.}
-{103}{}{Ahoj, já jsem Goris. Tebe neznám, jsi tu novı?}
-{104}{}{Já}
-{105}{}{Já jít.}
+{100}{}{VidÃ­Å¡ zahalenou postavu.}
+{101}{}{VidÃ­Å¡ uÄence Gorise.}
+{102}{}{VidÃ­Å¡ humanoida v hÃ¡vu s dlouhÃ½mi rukÃ¡vy a kapucÃ­. Na jeho postoji je nÄ›co zvlÃ¡Å¡tnÃ­ho, ale nevÃ­Å¡ pÅ™esnÄ› co.}
+{103}{}{Ahoj, jÃ¡ jsem Goris. Tebe neznÃ¡m, jsi tu novÃ½?}
+{104}{}{JÃ¡}
+{105}{}{JÃ¡ jÃ­t.}
 {106}{}{Jo, a co jako?}
-{107}{}{Ahoj. Já jsem}
-{108}{}{Ahoj, Gorisi. Gruthar øíkal, e tì mám vyhledat. Myslí si, e toho hodnì víš.}
-{109}{}{Mùu se tì na nìco zeptat?}
-{110}{}{Promiò, musím jít.}
-{111}{}{Rád tì potkávám,}
-{112}{}{Take znáš Gruthara. Má o mnì trochu zkreslenou pøedstavu. Ve skuteènosti nevím ani polovinu z toho, co si myslí, e vím. Kadopádnì...}
-{113}{}{Take ty pocházíš zvenèí! U jsem vidìl nìkolik takovıch jako ty. Nìkteøí jsou tady ve Vaultu, ale ty vypadáš jinak. Jsi trochu víc 'vyzrálejší', jestli mi rozumíš. Vsadím se, e u máš nìco procestováno. Nemám pravdu?}
-{114}{}{Eh... 'vyzrálejší'?}
-{115}{}{Já jít.}
-{116}{}{Promiò, ale musím odejít.}
-{117}{}{Ano, mám za sebou pár dobrodruství. Pokud by ti nevadilo odpovìdìt na pár otázek, mùu ti na oplátku o nìkterıch povyprávìt.}
-{118}{}{Do toho ti nic není.}
-{119}{}{Nebude ti vadit, kdy se na nìco zeptám?}
-{120}{}{Platí! Rád si poslechnu vše, co mi øekneš.}
-{121}{}{A navíc, nemùu pøeci odmítnout Grutharova pøítele.}
-{122}{}{Co potøebujete vìdìt?}
-{123}{}{Co tu dìláš?}
-{124}{}{Jsi tu vìzeò?}
+{107}{}{Ahoj. JÃ¡ jsem}
+{108}{}{Ahoj, Gorisi. Gruthar Å™Ã­kal, Å¾e tÄ› mÃ¡m vyhledat. MyslÃ­ si, Å¾e toho hodnÄ› vÃ­Å¡.}
+{109}{}{MÅ¯Å¾u se tÄ› na nÄ›co zeptat?}
+{110}{}{PromiÅˆ, musÃ­m jÃ­t.}
+{111}{}{RÃ¡d tÄ› potkÃ¡vÃ¡m,}
+{112}{}{TakÅ¾e znÃ¡Å¡ Gruthara. MÃ¡ o mnÄ› trochu zkreslenou pÅ™edstavu. Ve skuteÄnosti nevÃ­m ani polovinu z toho, co si myslÃ­, Å¾e vÃ­m. KaÅ¾dopÃ¡dnÄ›...}
+{113}{}{TakÅ¾e ty pochÃ¡zÃ­Å¡ zvenÄÃ­! UÅ¾ jsem vidÄ›l nÄ›kolik takovÃ½ch jako ty. NÄ›kteÅ™Ã­ jsou tady ve Vaultu, ale ty vypadÃ¡Å¡ jinak. Jsi trochu vÃ­c 'vyzrÃ¡lejÅ¡Ã­', jestli mi rozumÃ­Å¡. VsadÃ­m se, Å¾e uÅ¾ mÃ¡Å¡ nÄ›co procestovÃ¡no. NemÃ¡m pravdu?}
+{114}{}{Eh... 'vyzrÃ¡lejÅ¡Ã­'?}
+{115}{}{JÃ¡ jÃ­t.}
+{116}{}{PromiÅˆ, ale musÃ­m odejÃ­t.}
+{117}{}{Ano, mÃ¡m za sebou pÃ¡r dobrodruÅ¾stvÃ­. Pokud by ti nevadilo odpovÄ›dÄ›t na pÃ¡r otÃ¡zek, mÅ¯Å¾u ti na oplÃ¡tku o nÄ›kterÃ½ch povyprÃ¡vÄ›t.}
+{118}{}{Do toho ti nic nenÃ­.}
+{119}{}{Nebude ti vadit, kdyÅ¾ se na nÄ›co zeptÃ¡m?}
+{120}{}{PlatÃ­! RÃ¡d si poslechnu vÅ¡e, co mi Å™ekneÅ¡.}
+{121}{}{A navÃ­c, nemÅ¯Å¾u pÅ™eci odmÃ­tnout Grutharova pÅ™Ã­tele.}
+{122}{}{Co potÅ™ebujete vÄ›dÄ›t?}
+{123}{}{Co tu dÄ›lÃ¡Å¡?}
+{124}{}{Jsi tu vÄ›zeÅˆ?}
 {125}{}{Jak dlouho tady jsi?}
-{126}{}{Co mi mùeš øíct o místních páraèích?}
-{127}{}{Nevíš, co se stalo s lidmi, kteøí v tomhle vaultu ili?}
-{128}{}{Co mi mùeš øíct o Grutharovi?}
-{129}{}{Myslíš, e jsou páraèi hrozbou pro lidi?}
-{130}{}{Máš nìjaké další informace o té Enklávì, o které jsi mluvil?}
-{131}{}{Co víš o tom viru?}
-{132}{}{Zmínil ses, e bys rád cestoval. Co kdyby ses ke mnì pøidal?}
-{133}{}{Promiò, ale musím jít.}
-{134}{}{Hmm... pøekvapuje mì, e ti o mnì Gruthar neøekl. Ale budi. }
-{135}{}{Jsem nìco jako student. Snaím se dozvìdìt co nejvíce o svìtì a rùznıch kulturách, které se zde vyvinuly. Právì teï studuji spoleènost, kterou zde vytváøejí páraèi a srovnávám ji s tou lidskou na základì spoleènıch rysù. U jsem zde získal takøka veškeré informace, které jsem potøeboval. Velice by mi pomohlo, kdybych teï mohl trochu cestovat, nicménì nechci cestovat sám, jestli mi rozumíš.}
-{136}{}{Zajímavé. Mùu se ještì na nìco zeptat?}
-{137}{}{Take ty jsi uèenec. To je docela rarita v dnešní dobì.}
-{138}{}{To musí bıt nuda. Ale budi... je jen na tobì, jak svùj ivot promarníš. Kadopádnì potøebuju ještì nìjaké informace.}
-{139}{}{Ne, mùu odejít kdykoliv se mi zachce. Neodešel jsem, protoe nechci cestovat sám. Jsem celkem houevnatı a dokáu se o sebe postarat, ale kdyby se nìco pøihodilo, poøád budu jen jedna osoba v poušti.}
+{126}{}{Co mi mÅ¯Å¾eÅ¡ Å™Ã­ct o mÃ­stnÃ­ch pÃ¡raÄÃ­ch?}
+{127}{}{NevÃ­Å¡, co se stalo s lidmi, kteÅ™Ã­ v tomhle vaultu Å¾ili?}
+{128}{}{Co mi mÅ¯Å¾eÅ¡ Å™Ã­ct o Grutharovi?}
+{129}{}{MyslÃ­Å¡, Å¾e jsou pÃ¡raÄi hrozbou pro lidi?}
+{130}{}{MÃ¡Å¡ nÄ›jakÃ© dalÅ¡Ã­ informace o tÃ© EnklÃ¡vÄ›, o kterÃ© jsi mluvil?}
+{131}{}{Co vÃ­Å¡ o tom viru?}
+{132}{}{ZmÃ­nil ses, Å¾e bys rÃ¡d cestoval. Co kdyby ses ke mnÄ› pÅ™idal?}
+{133}{}{PromiÅˆ, ale musÃ­m jÃ­t.}
+{134}{}{Hmm... pÅ™ekvapuje mÄ›, Å¾e ti o mnÄ› Gruthar neÅ™ekl. Ale budiÅ¾. }
+{135}{}{Jsem nÄ›co jako student. SnaÅ¾Ã­m se dozvÄ›dÄ›t co nejvÃ­ce o svÄ›tÄ› a rÅ¯znÃ½ch kulturÃ¡ch, kterÃ© se zde vyvinuly. PrÃ¡vÄ› teÄ studuji spoleÄnost, kterou zde vytvÃ¡Å™ejÃ­ pÃ¡raÄi a srovnÃ¡vÃ¡m ji s tou lidskou na zÃ¡kladÄ› spoleÄnÃ½ch rysÅ¯. UÅ¾ jsem zde zÃ­skal takÅ™ka veÅ¡kerÃ© informace, kterÃ© jsem potÅ™eboval. Velice by mi pomohlo, kdybych teÄ mohl trochu cestovat, nicmÃ©nÄ› nechci cestovat sÃ¡m, jestli mi rozumÃ­Å¡.}
+{136}{}{ZajÃ­mavÃ©. MÅ¯Å¾u se jeÅ¡tÄ› na nÄ›co zeptat?}
+{137}{}{TakÅ¾e ty jsi uÄenec. To je docela rarita v dneÅ¡nÃ­ dobÄ›.}
+{138}{}{To musÃ­ bÃ½t nuda. Ale budiÅ¾... je jen na tobÄ›, jak svÅ¯j Å¾ivot promarnÃ­Å¡. KaÅ¾dopÃ¡dnÄ› potÅ™ebuju jeÅ¡tÄ› nÄ›jakÃ© informace.}
+{139}{}{Ne, mÅ¯Å¾u odejÃ­t kdykoliv se mi zachce. NeodeÅ¡el jsem, protoÅ¾e nechci cestovat sÃ¡m. Jsem celkem houÅ¾evnatÃ½ a dokÃ¡Å¾u se o sebe postarat, ale kdyby se nÄ›co pÅ™ihodilo, poÅ™Ã¡d budu jen jedna osoba v pouÅ¡ti.}
 {140}{}{Aha.}
-{141}{}{Aha, trochu srábek na to, abys chodil sám. Je mi to jasné.}
-{142}{}{Taky nesnáším cestování o samotì, take tì chápu.}
-{143}{}{Eh... asi nìkolik mìsícù. Pøišel jsem sem od pobøeí u pøed nìjakım èasem.}
-{144}{}{Hmm, taky tu nejsi moc dlouho. Pokud ti to nevadí, chci vìdìt víc.}
-{145}{}{Moc jsi mi toho neøekl. Nechceš mi toho povìdìt víc?}
-{146}{}{Aha. Chci se ještì na nìco zeptat.}
-{147}{}{Tohle nejsou bìní páraèi, jak jistì víš. Mají zvıšenou inteligenci zpùsobem, kterému sami nerozumí. Má to na svìdomí skupina lidí známıch jako 'Enkláva.' Zdá se, e tato Enkláva potøebovala armádu a tak si vybrali páraèe kvùli jejich dravosti, fyzické síle a... no, však víš. Nicménì postrádali inteligenci. Potøebovali je dostateènì chytré na to, aby pochopili sloité rozkazy, ale ne natolik chytré, aby ohrozili 'ty u vesla.'}
-{148}{}{To zní jako ta nejvìtší kravina, kterou jsem kdy ve svém ivotì slyšel!}
-{149}{}{To je úasné. Jsi nejspíš velmi vzdìlanı. Mùu se ještì na nìco zeptat?}
-{150}{}{Hmm... dobøe.}
-{151}{}{::vzdech:: Byli zajati Enklávou. Gruthar a jeho smeèka byli donuceni pomáhat pøi jejich zajetí. Nemìli na vybranou, protoe tou dobou byli zotroèeni. Od té doby tíí osud tìchto lidí Grutharovo svìdomí. Nikdy si neodpustil, e se úèastnil této události. Lidé byli zajati iví, ale kdo ví, co se s nimi od té doby stalo?}
-{152}{}{(Vzdech) Byli zajati skupinou zvanou 'Enkláva.' Gruthar a jeho smeèka byli donuceni pomáhat pøi jejich zajetí. Nemìli na vybranou, protoe tou dobou byli zotroèeni.  Od té doby tíí osud tìchto lidí Grutharovo svìdomí. Nikdy si neodpustil, e se úèastnil této události. Lidé byli zajati iví, ale kdo ví, co se s nimi od té doby stalo?}
-{153}{}{Hmm... chci se ještì na nìco zeptat.}
-{154}{}{Take ti zatracení páraèi jsou za to pøeci jen zodpovìdní! Potøebuju další informace.}
-{155}{}{Nìkdy se situace vymkne z rukou a my jsme nuceni dìlat nepøíjemné vìci. Gruthar by se mìl nauèit odpustit sám sobì.}
-{156}{}{Gruthar není zrùda, jak by se mohlo zdát. Svìdomitì se tu o nás všechny stará a dìlá pro naši bezpeènost a pøeití vše, co mùe. Všichni mu dùvìøujeme. Nevím, co víc o nìm øíct. Bude lepší, kdy ho nejprve poznáš a poté posoudíš podle svého.}
-{157}{}{Nebudu o nìm dìlat ádné ukvapené závìry. Zaslouí si víc.}
-{158}{}{Jistì. Promluvme si o nìèem jiném.}
-{159}{}{Vdy je to páraè. Nechce se mi vìøit, e by mohl mít i nìjaké pøednosti.}
-{160}{}{No... potenciál by tu byl, obzvláš kdy vezmeš v potaz jejich novou inteligenci. Kadopádnì si nemyslím, e Gruthar a jeho smeèka pøedstavují hrozbu. Zdá se, e všichni respektují ivot a osobní svobodu pøed èímkoliv jinım. Neoèekávám, e mi teï budeš vìøit. Budu rád, kdy to posoudíš podle svého. Jsou tu i jiní, kterıch se mùeš na nìco zeptat.}
-{161}{}{Jenom blbec by nedokázal v páraèích rozpoznat potenciální hrozbu!}
-{162}{}{Díky za radu, poptám se kolem. Mùu se tì ještì na nìco zeptat?}
-{163}{}{Hmm... dobøe, co takhle pár dalších otázek?}
-{164}{}{Ne, všechno u jsem ti øekl. I kdy poèkej, ještì jedna vìc. Enkláva projevovala jistı zájem o ruiny na západ odsud. Nevím proè. Víc nevím.}
-{165}{}{No, kadı kousek informace se hodí a já ti za to dìkuju.}
-{166}{}{Taková dùleitá vìc a ty to na mì vybalíš a teï!}
+{141}{}{Aha, trochu srÃ¡bek na to, abys chodil sÃ¡m. Je mi to jasnÃ©.}
+{142}{}{Taky nesnÃ¡Å¡Ã­m cestovÃ¡nÃ­ o samotÄ›, takÅ¾e tÄ› chÃ¡pu.}
+{143}{}{Eh... asi nÄ›kolik mÄ›sÃ­cÅ¯. PÅ™iÅ¡el jsem sem od pobÅ™eÅ¾Ã­ uÅ¾ pÅ™ed nÄ›jakÃ½m Äasem.}
+{144}{}{Hmm, taky tu nejsi moc dlouho. Pokud ti to nevadÃ­, chci vÄ›dÄ›t vÃ­c.}
+{145}{}{Moc jsi mi toho neÅ™ekl. NechceÅ¡ mi toho povÄ›dÄ›t vÃ­c?}
+{146}{}{Aha. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{147}{}{Tohle nejsou bÄ›Å¾nÃ­ pÃ¡raÄi, jak jistÄ› vÃ­Å¡. MajÃ­ zvÃ½Å¡enou inteligenci zpÅ¯sobem, kterÃ©mu sami nerozumÃ­. MÃ¡ to na svÄ›domÃ­ skupina lidÃ­ znÃ¡mÃ½ch jako 'EnklÃ¡va.' ZdÃ¡ se, Å¾e tato EnklÃ¡va potÅ™ebovala armÃ¡du a tak si vybrali pÃ¡raÄe kvÅ¯li jejich dravosti, fyzickÃ© sÃ­le a... no, vÅ¡ak vÃ­Å¡. NicmÃ©nÄ› postrÃ¡dali inteligenci. PotÅ™ebovali je dostateÄnÄ› chytrÃ© na to, aby pochopili sloÅ¾itÃ© rozkazy, ale ne natolik chytrÃ©, aby ohrozili 'ty u vesla.'}
+{148}{}{To znÃ­ jako ta nejvÄ›tÅ¡Ã­ kravina, kterou jsem kdy ve svÃ©m Å¾ivotÄ› slyÅ¡el!}
+{149}{}{To je ÃºÅ¾asnÃ©. Jsi nejspÃ­Å¡ velmi vzdÄ›lanÃ½. MÅ¯Å¾u se jeÅ¡tÄ› na nÄ›co zeptat?}
+{150}{}{Hmm... dobÅ™e.}
+{151}{}{::vzdech:: Byli zajati EnklÃ¡vou. Gruthar a jeho smeÄka byli donuceni pomÃ¡hat pÅ™i jejich zajetÃ­. NemÄ›li na vybranou, protoÅ¾e tou dobou byli zotroÄeni. Od tÃ© doby tÃ­Å¾Ã­ osud tÄ›chto lidÃ­ Grutharovo svÄ›domÃ­. Nikdy si neodpustil, Å¾e se ÃºÄastnil tÃ©to udÃ¡losti. LidÃ© byli zajati Å¾ivÃ­, ale kdo vÃ­, co se s nimi od tÃ© doby stalo?}
+{152}{}{(Vzdech) Byli zajati skupinou zvanou 'EnklÃ¡va.' Gruthar a jeho smeÄka byli donuceni pomÃ¡hat pÅ™i jejich zajetÃ­. NemÄ›li na vybranou, protoÅ¾e tou dobou byli zotroÄeni.  Od tÃ© doby tÃ­Å¾Ã­ osud tÄ›chto lidÃ­ Grutharovo svÄ›domÃ­. Nikdy si neodpustil, Å¾e se ÃºÄastnil tÃ©to udÃ¡losti. LidÃ© byli zajati Å¾ivÃ­, ale kdo vÃ­, co se s nimi od tÃ© doby stalo?}
+{153}{}{Hmm... chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{154}{}{TakÅ¾e ti zatracenÃ­ pÃ¡raÄi jsou za to pÅ™eci jen zodpovÄ›dnÃ­! PotÅ™ebuju dalÅ¡Ã­ informace.}
+{155}{}{NÄ›kdy se situace vymkne z rukou a my jsme nuceni dÄ›lat nepÅ™Ã­jemnÃ© vÄ›ci. Gruthar by se mÄ›l nauÄit odpustit sÃ¡m sobÄ›.}
+{156}{}{Gruthar nenÃ­ zrÅ¯da, jak by se mohlo zdÃ¡t. SvÄ›domitÄ› se tu o nÃ¡s vÅ¡echny starÃ¡ a dÄ›lÃ¡ pro naÅ¡i bezpeÄnost a pÅ™eÅ¾itÃ­ vÅ¡e, co mÅ¯Å¾e. VÅ¡ichni mu dÅ¯vÄ›Å™ujeme. NevÃ­m, co vÃ­c o nÄ›m Å™Ã­ct. Bude lepÅ¡Ã­, kdyÅ¾ ho nejprve poznÃ¡Å¡ a potÃ© posoudÃ­Å¡ podle svÃ©ho.}
+{157}{}{Nebudu o nÄ›m dÄ›lat Å¾Ã¡dnÃ© ukvapenÃ© zÃ¡vÄ›ry. ZaslouÅ¾Ã­ si vÃ­c.}
+{158}{}{JistÄ›. Promluvme si o nÄ›Äem jinÃ©m.}
+{159}{}{VÅ¾dyÅ¥ je to pÃ¡raÄ. Nechce se mi vÄ›Å™it, Å¾e by mohl mÃ­t i nÄ›jakÃ© pÅ™ednosti.}
+{160}{}{No... potenciÃ¡l by tu byl, obzvlÃ¡Å¡Å¥ kdyÅ¾ vezmeÅ¡ v potaz jejich novou inteligenci. KaÅ¾dopÃ¡dnÄ› si nemyslÃ­m, Å¾e Gruthar a jeho smeÄka pÅ™edstavujÃ­ hrozbu. ZdÃ¡ se, Å¾e vÅ¡ichni respektujÃ­ Å¾ivot a osobnÃ­ svobodu pÅ™ed ÄÃ­mkoliv jinÃ½m. NeoÄekÃ¡vÃ¡m, Å¾e mi teÄ budeÅ¡ vÄ›Å™it. Budu rÃ¡d, kdyÅ¾ to posoudÃ­Å¡ podle svÃ©ho. Jsou tu i jinÃ­, kterÃ½ch se mÅ¯Å¾eÅ¡ na nÄ›co zeptat.}
+{161}{}{Jenom blbec by nedokÃ¡zal v pÃ¡raÄÃ­ch rozpoznat potenciÃ¡lnÃ­ hrozbu!}
+{162}{}{DÃ­ky za radu, poptÃ¡m se kolem. MÅ¯Å¾u se tÄ› jeÅ¡tÄ› na nÄ›co zeptat?}
+{163}{}{Hmm... dobÅ™e, co takhle pÃ¡r dalÅ¡Ã­ch otÃ¡zek?}
+{164}{}{Ne, vÅ¡echno uÅ¾ jsem ti Å™ekl. I kdyÅ¾ poÄkej, jeÅ¡tÄ› jedna vÄ›c. EnklÃ¡va projevovala jistÃ½ zÃ¡jem o ruiny na zÃ¡pad odsud. NevÃ­m proÄ. VÃ­c nevÃ­m.}
+{165}{}{No, kaÅ¾dÃ½ kousek informace se hodÃ­ a jÃ¡ ti za to dÄ›kuju.}
+{166}{}{TakovÃ¡ dÅ¯leÅ¾itÃ¡ vÄ›c a ty to na mÄ› vybalÃ­Å¡ aÅ¾ teÄ!}
 {167}{}{Aha.}
-{168}{}{Myslím, e se jmenuje FEV. Enkláva ho usilovnì zkoumá nebo alespoò zkoumala. Je mi líto, ale nic víc nevím.}
-{169}{}{To je v poøádku, jdeme dál.}
-{170}{}{To bys mìl. Øekli mi, e jsi studna vìdomostí!}
+{168}{}{MyslÃ­m, Å¾e se jmenuje FEV. EnklÃ¡va ho usilovnÄ› zkoumÃ¡ nebo alespoÅˆ zkoumala. Je mi lÃ­to, ale nic vÃ­c nevÃ­m.}
+{169}{}{To je v poÅ™Ã¡dku, jdeme dÃ¡l.}
+{170}{}{To bys mÄ›l. Å˜ekli mi, Å¾e jsi studna vÄ›domostÃ­!}
 {171}{}{Moc jsi mi pomohl, Gorisi.}
-{172}{}{Dodrel jsem svou èást dohody a odpovìdìl na všechny tvé otázky. A co teï nìjaké ty slíbené dobrodruné historky?}
-{173}{}{Bude mi potìšením. Dobøe se mi s tebou povídá.}
-{174}{}{Slib? Jakı slib?}
-{175}{}{Jo, jistì.}
-{176}{}{(Goris váhá a ty máš pocit, jako by si tì podrobnì prohlíel.) Bude mi ctí tì doprovázet!}
-{177}{}{(Goris váhá a ty máš pocit, jako by si tì podrobnì prohlíel.) Promiò, ale myslím, e nesdílíme stejné názory. Spoleèné cestování pro nás nebude to nejlepší.}
-{178}{}{Dobøe, tvoje mínus.}
-{179}{}{Chápu. Moná èasem zmìníš názor.}
-{180}{}{Co? Nejsem pro tebe dost dobrı? Jdi se vycpat!}
-{181}{}{Dobøe, chápu.}
-{182}{}{Nemám ti co øíct. U mì neotravuj.}
-{183}{}{ádal jsem tì, a mì u neotravuješ. Moná porozumíš troše násilí.}
+{172}{}{DodrÅ¾el jsem svou ÄÃ¡st dohody a odpovÄ›dÄ›l na vÅ¡echny tvÃ© otÃ¡zky. A co teÄ nÄ›jakÃ© ty slÃ­benÃ© dobrodruÅ¾nÃ© historky?}
+{173}{}{Bude mi potÄ›Å¡enÃ­m. DobÅ™e se mi s tebou povÃ­dÃ¡.}
+{174}{}{Slib? JakÃ½ slib?}
+{175}{}{Jo, jistÄ›.}
+{176}{}{(Goris vÃ¡hÃ¡ a ty mÃ¡Å¡ pocit, jako by si tÄ› podrobnÄ› prohlÃ­Å¾el.) Bude mi ctÃ­ tÄ› doprovÃ¡zet!}
+{177}{}{(Goris vÃ¡hÃ¡ a ty mÃ¡Å¡ pocit, jako by si tÄ› podrobnÄ› prohlÃ­Å¾el.) PromiÅˆ, ale myslÃ­m, Å¾e nesdÃ­lÃ­me stejnÃ© nÃ¡zory. SpoleÄnÃ© cestovÃ¡nÃ­ pro nÃ¡s nebude to nejlepÅ¡Ã­.}
+{178}{}{DobÅ™e, tvoje mÃ­nus.}
+{179}{}{ChÃ¡pu. MoÅ¾nÃ¡ Äasem zmÄ›nÃ­Å¡ nÃ¡zor.}
+{180}{}{Co? Nejsem pro tebe dost dobrÃ½? Jdi se vycpat!}
+{181}{}{DobÅ™e, chÃ¡pu.}
+{182}{}{NemÃ¡m ti co Å™Ã­ct. UÅ¾ mÄ› neotravuj.}
+{183}{}{Å½Ã¡dal jsem tÄ›, aÅ¥ mÄ› uÅ¾ neotravujeÅ¡. MoÅ¾nÃ¡ porozumÃ­Å¡ troÅ¡e nÃ¡silÃ­.}
 {184}{}{}
-{185}{}{Jo, však víš, zcestovalı... vzdìlanı... zkušenı... nemáš ani ponìtí, o èem mluvím, e? }
-{186}{}{Èert ví.}
-{187}{}{Já teï jít.}
-{188}{}{E-he. No, tvoje IQ bude asi menší ne èíslo tvıch bot, ale oèividnì ti osud pøeje, kdy u se ti podaøilo v tomto svìtì pøeít tak dlouho... dobøe, zkusíme to jinak. Já chtít odejít odsud. Já chtít jít s ty. Dobøe?}
-{189}{}{E-he. No, tvoje IQ bude asi menší ne èíslo tvıch bot, ale oèividnì ti osud pøeje, kdy u se ti podaøilo v tomto svìtì pøeít tak dlouho... to musí bıt tím zlem, které z tebe cítím. No nic. Nashledanou.}
-{190}{}{Eh... dobøe.}
-{191}{}{Já jít.}
-{192}{}{Promiò, nechtìl jsem se vrtat v tvıch soukromıch záleitostech.}
-{193}{}{Jo, no, u to nedìlej!}
-{194}{}{To je jedno. Potøebuju ještì nìjaké informace.}
-{195}{}{Promiò, Gorisi. U mì dnes chytá rapl. Chci se tì ještì zeptat na pár vìcí, pokud to nevadí.}
-{196}{}{To musely bıt zajímavé èasy. Jsi ze stejného tìsta, z jakého bıvají hrdinové a to ti závidím. Díky za rozhovor.}
-{197}{}{No... jsi chodící šílenec, take nejspíš pùjdu. Díky a nashle!}
-{198}{}{Není zaè, Gorisi.}
+{185}{}{Jo, vÅ¡ak vÃ­Å¡, zcestovalÃ½... vzdÄ›lanÃ½... zkuÅ¡enÃ½... nemÃ¡Å¡ ani ponÄ›tÃ­, o Äem mluvÃ­m, Å¾e? }
+{186}{}{ÄŒert vÃ­.}
+{187}{}{JÃ¡ teÄ jÃ­t.}
+{188}{}{E-he. No, tvoje IQ bude asi menÅ¡Ã­ neÅ¾ ÄÃ­slo tvÃ½ch bot, ale oÄividnÄ› ti osud pÅ™eje, kdyÅ¾ uÅ¾ se ti podaÅ™ilo v tomto svÄ›tÄ› pÅ™eÅ¾Ã­t tak dlouho... dobÅ™e, zkusÃ­me to jinak. JÃ¡ chtÃ­t odejÃ­t odsud. JÃ¡ chtÃ­t jÃ­t s ty. DobÅ™e?}
+{189}{}{E-he. No, tvoje IQ bude asi menÅ¡Ã­ neÅ¾ ÄÃ­slo tvÃ½ch bot, ale oÄividnÄ› ti osud pÅ™eje, kdyÅ¾ uÅ¾ se ti podaÅ™ilo v tomto svÄ›tÄ› pÅ™eÅ¾Ã­t tak dlouho... to musÃ­ bÃ½t tÃ­m zlem, kterÃ© z tebe cÃ­tÃ­m. No nic. Nashledanou.}
+{190}{}{Eh... dobÅ™e.}
+{191}{}{JÃ¡ jÃ­t.}
+{192}{}{PromiÅˆ, nechtÄ›l jsem se vrtat v tvÃ½ch soukromÃ½ch zÃ¡leÅ¾itostech.}
+{193}{}{Jo, no, uÅ¾ to nedÄ›lej!}
+{194}{}{To je jedno. PotÅ™ebuju jeÅ¡tÄ› nÄ›jakÃ© informace.}
+{195}{}{PromiÅˆ, Gorisi. UÅ¾ mÄ› dnes chytÃ¡ rapl. Chci se tÄ› jeÅ¡tÄ› zeptat na pÃ¡r vÄ›cÃ­, pokud to nevadÃ­.}
+{196}{}{To musely bÃ½t zajÃ­mavÃ© Äasy. Jsi ze stejnÃ©ho tÄ›sta, z jakÃ©ho bÃ½vajÃ­ hrdinovÃ© a to ti zÃ¡vidÃ­m. DÃ­ky za rozhovor.}
+{197}{}{No... jsi chodÃ­cÃ­ Å¡Ã­lenec, takÅ¾e nejspÃ­Å¡ pÅ¯jdu. DÃ­ky a nashle!}
+{198}{}{NenÃ­ zaÄ, Gorisi.}
 {199}{}{Ahoj. Jak to jde?}
-{200}{}{Ty jít s já?}
-{201}{}{Eh... já ztracen. Já jít.}
-{202}{}{Jen mì tak napadlo se tu zastavit a pozdravit tì. Zatím.}
-{203}{}{Poslyš, hledám spoleèníka na cesty. Jdeš do toho?}
-{204}{}{Co pro tebe mùu udìlat,}
-{205}{}{Ty zlá vìc! Proè ty neøíct?}
-{206}{}{Ty jsi páraè? Je nìjakı dùvod, proè jsi mi to neøekl?}
-{207}{}{Jak to jen øíct... špatná vìc ty zabíjet, já nemluvit. Já neøíct, aby ty myslet, e já dobrá vìc. Nezabít mì. V pohodì kdy já zùstat s tebou?}
-{208}{}{Promiò, e jsem tì oklamal, ale vy lidé máte ve zvyku støílet páraèe na potkání. Domníval jsem se, e pro mì bude lepší, kdy skryju svoji identitu, dokud sám nepøijdeš na to, e jsem na tvé stranì. Jestli chceš, abych odešel, odejdu. Ale radìji bych zùstal a pomohl ti s tvım úkolem. Chci dokázat, e lidé a páraèi dokáí spolupracovat jako pøátelé, ne bıt nepøátelé.}
-{209}{}{Já nelíbit, ty jít.}
-{210}{}{Dobøe, ty zùstat.}
-{211}{}{Promiò, ale nemám rád, kdy mì nìkdo tahá za fusekli. Mìl bys odejít.}
-{212}{}{Chápu, proè ti pøipadalo nezbytné skrıvat svoji identitu. Myslím, e mùeme spolupracovat, take prosím zùstaò, ale u mì nebalamu, Gorisi.}
-{213}{}{. Já tady novı.}
-{214}{}{. Ano, nepocházím z vaultu.}
+{200}{}{Ty jÃ­t s jÃ¡?}
+{201}{}{Eh... jÃ¡ ztracen. JÃ¡ jÃ­t.}
+{202}{}{Jen mÄ› tak napadlo se tu zastavit a pozdravit tÄ›. ZatÃ­m.}
+{203}{}{PoslyÅ¡, hledÃ¡m spoleÄnÃ­ka na cesty. JdeÅ¡ do toho?}
+{204}{}{Co pro tebe mÅ¯Å¾u udÄ›lat,}
+{205}{}{Ty zlÃ¡ vÄ›c! ProÄ ty neÅ™Ã­ct?}
+{206}{}{Ty jsi pÃ¡raÄ? Je nÄ›jakÃ½ dÅ¯vod, proÄ jsi mi to neÅ™ekl?}
+{207}{}{Jak to jen Å™Ã­ct... Å¡patnÃ¡ vÄ›c ty zabÃ­jet, jÃ¡ nemluvit. JÃ¡ neÅ™Ã­ct, aby ty myslet, Å¾e jÃ¡ dobrÃ¡ vÄ›c. NezabÃ­t mÄ›. V pohodÄ› kdyÅ¾ jÃ¡ zÅ¯stat s tebou?}
+{208}{}{PromiÅˆ, Å¾e jsem tÄ› oklamal, ale vy lidÃ© mÃ¡te ve zvyku stÅ™Ã­let pÃ¡raÄe na potkÃ¡nÃ­. DomnÃ­val jsem se, Å¾e pro mÄ› bude lepÅ¡Ã­, kdyÅ¾ skryju svoji identitu, dokud sÃ¡m nepÅ™ijdeÅ¡ na to, Å¾e jsem na tvÃ© stranÄ›. Jestli chceÅ¡, abych odeÅ¡el, odejdu. Ale radÄ›ji bych zÅ¯stal a pomohl ti s tvÃ½m Ãºkolem. Chci dokÃ¡zat, Å¾e lidÃ© a pÃ¡raÄi dokÃ¡Å¾Ã­ spolupracovat jako pÅ™Ã¡telÃ©, ne bÃ½t nepÅ™Ã¡telÃ©.}
+{209}{}{JÃ¡ nelÃ­bit, ty jÃ­t.}
+{210}{}{DobÅ™e, ty zÅ¯stat.}
+{211}{}{PromiÅˆ, ale nemÃ¡m rÃ¡d, kdyÅ¾ mÄ› nÄ›kdo tahÃ¡ za fusekli. MÄ›l bys odejÃ­t.}
+{212}{}{ChÃ¡pu, proÄ ti pÅ™ipadalo nezbytnÃ© skrÃ½vat svoji identitu. MyslÃ­m, Å¾e mÅ¯Å¾eme spolupracovat, takÅ¾e prosÃ­m zÅ¯staÅˆ, ale uÅ¾ mÄ› nebalamuÅ¥, Gorisi.}
+{213}{}{. JÃ¡ tady novÃ½.}
+{214}{}{. Ano, nepochÃ¡zÃ­m z vaultu.}
 {215}{}{.}
 {216}{}{?}
-{217}{}{Enkláva si zaèala pohrávat s nìjakım virem nebo nìèím takovım a vstøíkla ho páraèùm do krve. Tento vir byl známı tím, e dokáe zmutovat lidi v jakési superbytosti, take byli zvìdaví, co to s nimi udìlá. No a vısledkem bylo vyšlechtìní páraèù natolik chytrıch, e si uvìdomovali své pøedurèení k otroctví. A tak si hráli na hlupáky do té doby, ne mohli získat svobodu. A povedlo se!}
-{218}{}{Jsem proti ubliování páraèùm.}
-{219}{}{Najednou mám pocit, e je moje smeèka v nebezpeèí. Je mi líto, e tì musím opustit, ale musím zkontrolovat své bratry.}
-{220}{}{Dobøe.}
-{221}{}{Bezpeènostní kamery zachytily, co se stalo. Bude lepší, kdy se na to podíváš.}
-{222}{}{Vidíš šedého páraèe. Je to Goris.}
-{223}{}{Vidíš humanoida v hávu s dlouhımi rukávy a kapucí. Je to Goris.}
+{217}{}{EnklÃ¡va si zaÄala pohrÃ¡vat s nÄ›jakÃ½m virem nebo nÄ›ÄÃ­m takovÃ½m a vstÅ™Ã­kla ho pÃ¡raÄÅ¯m do krve. Tento vir byl znÃ¡mÃ½ tÃ­m, Å¾e dokÃ¡Å¾e zmutovat lidi v jakÃ©si superbytosti, takÅ¾e byli zvÄ›davÃ­, co to s nimi udÄ›lÃ¡. No a vÃ½sledkem bylo vyÅ¡lechtÄ›nÃ­ pÃ¡raÄÅ¯ natolik chytrÃ½ch, Å¾e si uvÄ›domovali svÃ© pÅ™edurÄenÃ­ k otroctvÃ­. A tak si hrÃ¡li na hlupÃ¡ky do tÃ© doby, neÅ¾ mohli zÃ­skat svobodu. A povedlo se!}
+{218}{}{Jsem proti ubliÅ¾ovÃ¡nÃ­ pÃ¡raÄÅ¯m.}
+{219}{}{Najednou mÃ¡m pocit, Å¾e je moje smeÄka v nebezpeÄÃ­. Je mi lÃ­to, Å¾e tÄ› musÃ­m opustit, ale musÃ­m zkontrolovat svÃ© bratry.}
+{220}{}{DobÅ™e.}
+{221}{}{BezpeÄnostnÃ­ kamery zachytily, co se stalo. Bude lepÅ¡Ã­, kdyÅ¾ se na to podÃ­vÃ¡Å¡.}
+{222}{}{VidÃ­Å¡ Å¡edÃ©ho pÃ¡raÄe. Je to Goris.}
+{223}{}{VidÃ­Å¡ humanoida v hÃ¡vu s dlouhÃ½mi rukÃ¡vy a kapucÃ­. Je to Goris.}
 {1000}{}{Ano,}
-{1001}{}{Ty léèit sebe.}
-{1002}{}{Ty èekat tady. Já vrátit se.}
-{1003}{}{Eh... teï ádná zbraò. Dobøe?}
-{1008}{}{Ty páraè? Proè ty nic neøíct?}
-{1009}{}{Já hotov.}
-{1010}{}{Mìl by ses teï vyléèit.}
-{1011}{}{Potøebuju, abys tu poèkal, ne se vrátím.}
-{1012}{}{Schovej tu zbraò, ano?}
-{1016}{}{Pojïme.}
-{1017}{}{Ty jsi páraè? Je nìjakı dùvod, proè jsi mi to neøekl døív?}
-{1018}{}{To bude prozatím všechno.}
-{1019}{}{Jsem vyléèenı a pøipravenı vyrazit,}
-{1020}{}{U jsem témìø úplnì vyléèenı,}
-{1021}{}{Jsem témìø vyléèenı, ale budu ještì potøebovat další léky,}
-{1022}{}{Vyléèil jsem se, jak to jen šlo, ale poøád jsem dost zranìnı,}
-{1041}{}{Poèkám tu na tebe, dokud se nevrátíš,}
-{1060}{}{Dìlám, co umím, abych nevypadal podezøele,}
-{1064}{}{Ty zùstat blízko.}
-{1065}{}{Ty nebıt daleko.}
-{1066}{}{Ty moc blízko. Jít dál.}
-{1073}{}{Dr se blízko mì.}
+{1001}{}{Ty lÃ©Äit sebe.}
+{1002}{}{Ty Äekat tady. JÃ¡ vrÃ¡tit se.}
+{1003}{}{Eh... teÄ Å¾Ã¡dnÃ¡ zbraÅˆ. DobÅ™e?}
+{1008}{}{Ty pÃ¡raÄ? ProÄ ty nic neÅ™Ã­ct?}
+{1009}{}{JÃ¡ hotov.}
+{1010}{}{MÄ›l by ses teÄ vylÃ©Äit.}
+{1011}{}{PotÅ™ebuju, abys tu poÄkal, neÅ¾ se vrÃ¡tÃ­m.}
+{1012}{}{Schovej tu zbraÅˆ, ano?}
+{1016}{}{PojÄme.}
+{1017}{}{Ty jsi pÃ¡raÄ? Je nÄ›jakÃ½ dÅ¯vod, proÄ jsi mi to neÅ™ekl dÅ™Ã­v?}
+{1018}{}{To bude prozatÃ­m vÅ¡echno.}
+{1019}{}{Jsem vylÃ©ÄenÃ½ a pÅ™ipravenÃ½ vyrazit,}
+{1020}{}{UÅ¾ jsem tÃ©mÄ›Å™ ÃºplnÄ› vylÃ©ÄenÃ½,}
+{1021}{}{Jsem tÃ©mÄ›Å™ vylÃ©ÄenÃ½, ale budu jeÅ¡tÄ› potÅ™ebovat dalÅ¡Ã­ lÃ©ky,}
+{1022}{}{VylÃ©Äil jsem se, jak to jen Å¡lo, ale poÅ™Ã¡d jsem dost zranÄ›nÃ½,}
+{1041}{}{PoÄkÃ¡m tu na tebe, dokud se nevrÃ¡tÃ­Å¡,}
+{1060}{}{DÄ›lÃ¡m, co umÃ­m, abych nevypadal podezÅ™ele,}
+{1064}{}{Ty zÅ¯stat blÃ­zko.}
+{1065}{}{Ty nebÃ½t daleko.}
+{1066}{}{Ty moc blÃ­zko. JÃ­t dÃ¡l.}
+{1073}{}{DrÅ¾ se blÃ­zko mÄ›.}
 {1074}{}{Moc se nevzdaluj.}
-{1075}{}{Mìli bychom se trochu rozestoupit.}
-{1078}{}{To bude prozatím všechno.}
-{1079}{}{Budu se dret tak blízko, jak to jen jde,}
-{1098}{}{Trochu se vzdálím a nechám ti prostor,}
-{1117}{}{Budu se dret vzadu a dám ti víc prostoru,}
-{1136}{}{Promiò,}
-{1137}{}{Na našich spoleènıch cestách jsem se toho hodnì nauèil. Pùjdu s tebou rád,}
+{1075}{}{MÄ›li bychom se trochu rozestoupit.}
+{1078}{}{To bude prozatÃ­m vÅ¡echno.}
+{1079}{}{Budu se drÅ¾et tak blÃ­zko, jak to jen jde,}
+{1098}{}{Trochu se vzdÃ¡lÃ­m a nechÃ¡m ti prostor,}
+{1117}{}{Budu se drÅ¾et vzadu a dÃ¡m ti vÃ­c prostoru,}
+{1136}{}{PromiÅˆ,}
+{1137}{}{Na naÅ¡ich spoleÄnÃ½ch cestÃ¡ch jsem se toho hodnÄ› nauÄil. PÅ¯jdu s tebou rÃ¡d,}
 {1156}{}{? }
 {1157}{}{. }
-{1158}{}{, máš s sebou pøíliš mnoho lidí. Poèkám tu, dokud se nìjaké místo neuvolní.}
-{1159}{}{Myslím, e mi to samotnému pùjde lépe.}
-{1160}{}{Nepatøíš k tìm, se kterımi bych se chtìl pøátelit, odcházím.}
-{1161}{}{Pøeji si pomstít svùj druh.}
-{1162}{}{Tak dobøe. Pojïme na to.}
-{1163}{}{Moná bys to mìl udìlat sám.}
-{1164}{}{Ty mít pravda, my zabít.}
-{1165}{}{Ty jít sám.}
-{1166}{}{Mìli bychom zmìnit vzdálenost mezi sebou.}
-{1167}{}{Já myslet ty pohnout jinak.}
-{2000}{}{Myslím, e jsem si nìco zlomil. Potøebuji lékaøskou péèi.}
-{2001}{}{Myslím, e mám nemoc z ozáøení. Mùeš mì nìjak vyléèit?}
-{2002}{}{Myslím, e jsem otrávenı. Mùeš mì nìjak vyléèit?}
+{1158}{}{, mÃ¡Å¡ s sebou pÅ™Ã­liÅ¡ mnoho lidÃ­. PoÄkÃ¡m tu, dokud se nÄ›jakÃ© mÃ­sto neuvolnÃ­.}
+{1159}{}{MyslÃ­m, Å¾e mi to samotnÃ©mu pÅ¯jde lÃ©pe.}
+{1160}{}{NepatÅ™Ã­Å¡ k tÄ›m, se kterÃ½mi bych se chtÄ›l pÅ™Ã¡telit, odchÃ¡zÃ­m.}
+{1161}{}{PÅ™eji si pomstÃ­t svÅ¯j druh.}
+{1162}{}{Tak dobÅ™e. PojÄme na to.}
+{1163}{}{MoÅ¾nÃ¡ bys to mÄ›l udÄ›lat sÃ¡m.}
+{1164}{}{Ty mÃ­t pravda, my zabÃ­t.}
+{1165}{}{Ty jÃ­t sÃ¡m.}
+{1166}{}{MÄ›li bychom zmÄ›nit vzdÃ¡lenost mezi sebou.}
+{1167}{}{JÃ¡ myslet ty pohnout jinak.}
+{2000}{}{MyslÃ­m, Å¾e jsem si nÄ›co zlomil. PotÅ™ebuji lÃ©kaÅ™skou pÃ©Äi.}
+{2001}{}{MyslÃ­m, Å¾e mÃ¡m nemoc z ozÃ¡Å™enÃ­. MÅ¯Å¾eÅ¡ mÄ› nÄ›jak vylÃ©Äit?}
+{2002}{}{MyslÃ­m, Å¾e jsem otrÃ¡venÃ½. MÅ¯Å¾eÅ¡ mÄ› nÄ›jak vylÃ©Äit?}

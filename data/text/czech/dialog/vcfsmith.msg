@@ -1,8 +1,8 @@
-{100}{}{Vidíš zaneprázdnìnì vypadající enu.}
-{101}{}{Vidíš paní Smithovou.}
-{102}{}{Promluv si s mım manelem.}
-{103}{}{Já a mùj manel ti dìkujeme.}
-{104}{}{Dìkujeme ti... mùj manel pro tebe nìco má. Za to, jaké s tím byly problémy.}
-{105}{}{Brzy budeme potøebovat ten pluh...}
-{106}{}{Jdi odtud, ne zavolám stráe!}
-{107}{}{Vypadáš jako šikovnı èlovìk. Nechceš nám pomoct s jedním problémem?}
+{100}{}{VidÃ­Å¡ zaneprÃ¡zdnÄ›nÄ› vypadajÃ­cÃ­ Å¾enu.}
+{101}{}{VidÃ­Å¡ panÃ­ Smithovou.}
+{102}{}{Promluv si s mÃ½m manÅ¾elem.}
+{103}{}{JÃ¡ a mÅ¯j manÅ¾el ti dÄ›kujeme.}
+{104}{}{DÄ›kujeme ti... mÅ¯j manÅ¾el pro tebe nÄ›co mÃ¡. Za to, jakÃ© s tÃ­m byly problÃ©my.}
+{105}{}{Brzy budeme potÅ™ebovat ten pluh...}
+{106}{}{Jdi odtud, neÅ¾ zavolÃ¡m strÃ¡Å¾e!}
+{107}{}{VypadÃ¡Å¡ jako Å¡ikovnÃ½ ÄlovÄ›k. NechceÅ¡ nÃ¡m pomoct s jednÃ­m problÃ©mem?}

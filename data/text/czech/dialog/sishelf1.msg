@@ -1,7 +1,7 @@
-{100}{}{Vidíš knihovnu na ukládání nejrùznìjších vìcí.}
-{101}{}{Stará knihovna. Zdá se bıt dostateènì dobøe stavìná na to, aby se daly na police uloit nìjaké vìci.}
-{195}{}{Nezdá se, e by na této knihovnì byly nìjaké pasti.}
-{200}{}{ si myslí, e na této knihovnì nejsou ádné pasti.}
-{206}{}{Hej, nedávej to sem!}
-{207}{}{Nech tu zatracenou knihovnu na pokoji, nebo tvoje prdel nedoije rána!}
-{208}{}{Nedìlej to.}
+{100}{}{VidÃ­Å¡ knihovnu na uklÃ¡dÃ¡nÃ­ nejrÅ¯znÄ›jÅ¡Ã­ch vÄ›cÃ­.}
+{101}{}{StarÃ¡ knihovna. ZdÃ¡ se bÃ½t dostateÄnÄ› dobÅ™e stavÄ›nÃ¡ na to, aby se daly na police uloÅ¾it nÄ›jakÃ© vÄ›ci.}
+{195}{}{NezdÃ¡ se, Å¾e by na tÃ©to knihovnÄ› byly nÄ›jakÃ© pasti.}
+{200}{}{ si myslÃ­, Å¾e na tÃ©to knihovnÄ› nejsou Å¾Ã¡dnÃ© pasti.}
+{206}{}{Hej, nedÃ¡vej to sem!}
+{207}{}{Nech tu zatracenou knihovnu na pokoji, nebo tvoje prdel nedoÅ¾ije rÃ¡na!}
+{208}{}{NedÄ›lej to.}

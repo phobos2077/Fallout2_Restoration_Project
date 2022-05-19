@@ -1,40 +1,40 @@
-{100}{}{Vidíš informaèní tabuli.}
-{150}{}{Vypadá to, e je na této informaèní tabuli nìkolik zpráv.}
-{200}{}{Tato informaèní tabule patøí Rebeèinu Kasíno Baru, kde seenete nejlepší drinky v okolí. }
-{201}{}{Tato informaèní tabule patøí Rebeèinu Kasíno Baru...}
-{202}{}{(Nìkdo tu na okraj téhle zprávy nìco naèmáral.)}
-{203}{}{(Všimneš si, e byla èást této zprávy odtrena.)}
-{204}{}{Otrokáøskı Cech}
+{100}{}{VidÃ­Å¡ informaÄnÃ­ tabuli.}
+{150}{}{VypadÃ¡ to, Å¾e je na tÃ©to informaÄnÃ­ tabuli nÄ›kolik zprÃ¡v.}
+{200}{}{Tato informaÄnÃ­ tabule patÅ™Ã­ RebeÄinu KasÃ­no Baru, kde seÅ¾enete nejlepÅ¡Ã­ drinky v okolÃ­. }
+{201}{}{Tato informaÄnÃ­ tabule patÅ™Ã­ RebeÄinu KasÃ­no Baru...}
+{202}{}{(NÄ›kdo tu na okraj tÃ©hle zprÃ¡vy nÄ›co naÄmÃ¡ral.)}
+{203}{}{(VÅ¡imneÅ¡ si, Å¾e byla ÄÃ¡st tÃ©to zprÃ¡vy odtrÅ¾ena.)}
+{204}{}{OtrokÃ¡Å™skÃ½ Cech}
 {205}{}{Bary & Herny}
-{206}{}{Jídlo}
+{206}{}{JÃ­dlo}
 {207}{}{Obchody}
-{225}{}{Otrokáøskı Cech je nejlepší a jedinı dodavatel otrokù v pustinách.}
-{250}{}{Pokud chcete práci nebo obchodovat s otroky, navštivte šéfa otrokáøù Metzgera.}
-{275}{}{Otrokáøskı Cech je na vıchodní stranì mìsta za Rebeèinım kasínem a Frankieho barem.}
-{300}{}{Kvùli zvıšené poptávce momentálnì neprodáváme otroky široké veøejnosti.}
-{325}{}{(Jsou tady vypsaná dvì místa.)}
-{350}{}{Rebeèin Kasíno Bar nabízí hazardní hry a vynikající nápoje.}
-{375}{}{Sídlíme vıchodnì odtud. Jsme první budova po levé stranì, kdy vejdete do mìsta. Urèitì nás pøijïte navštívit!}
-{400}{}{Rebeka je kurfa kerá øedí chlast! Je to potvodnice a lháøka! (Písmo je skoro neèitelné.)}
-{401}{}{(Zpráva, která byla na tomto místì, byla peèlivì odtrena.)}
+{225}{}{OtrokÃ¡Å™skÃ½ Cech je nejlepÅ¡Ã­ a jedinÃ½ dodavatel otrokÅ¯ v pustinÃ¡ch.}
+{250}{}{Pokud chcete prÃ¡ci nebo obchodovat s otroky, navÅ¡tivte Å¡Ã©fa otrokÃ¡Å™Å¯ Metzgera.}
+{275}{}{OtrokÃ¡Å™skÃ½ Cech je na vÃ½chodnÃ­ stranÄ› mÄ›sta za RebeÄinÃ½m kasÃ­nem a Frankieho barem.}
+{300}{}{KvÅ¯li zvÃ½Å¡enÃ© poptÃ¡vce momentÃ¡lnÄ› neprodÃ¡vÃ¡me otroky Å¡irokÃ© veÅ™ejnosti.}
+{325}{}{(Jsou tady vypsanÃ¡ dvÄ› mÃ­sta.)}
+{350}{}{RebeÄin KasÃ­no Bar nabÃ­zÃ­ hazardnÃ­ hry a vynikajÃ­cÃ­ nÃ¡poje.}
+{375}{}{SÃ­dlÃ­me vÃ½chodnÄ› odtud. Jsme prvnÃ­ budova po levÃ© stranÄ›, kdyÅ¾ vejdete do mÄ›sta. UrÄitÄ› nÃ¡s pÅ™ijÄte navÅ¡tÃ­vit!}
+{400}{}{Rebeka je kurfa kerÃ¡ Å™edÃ­ chlast! Je to potvodnice a lhÃ¡Å™ka! (PÃ­smo je skoro neÄitelnÃ©.)}
+{401}{}{(ZprÃ¡va, kterÃ¡ byla na tomto mÃ­stÄ›, byla peÄlivÄ› odtrÅ¾ena.)}
 {425}{}{Slova slova... eh... slova... Bar... slova... v Denu.}
-{426}{}{Je to pro tebe natolik matoucí, a tì z toho zaène bolet hlava.}
-{450}{}{Frankie provozuje bar, hospodu a 'zábavní' podnik ve vıchodní èásti mìsta.}
-{475}{}{Mámina restaurace je jediná v Denu. Je ve vıchodní èásti mìsta, kousek na jih od Otrokáøského Cechu.}
-{500}{}{(Vypadá to, e se to nìkdo snail zapálit. Nedokáeš rozluštit ani jednu zprávu.)}
-{525}{}{(Jsou tu tøi zprávy.)}
-{550}{}{Tubby prodává všechno moné, ale hlavnì drogy a støelivo.}
-{575}{}{Tubby sídlí na západ od této informaèní tabule. Je to první budova po pravé stranì kdy vejdeš do mìsta.}
-{600}{}{Flick prodává rùzné vìci ve své 'kanceláøi' v obytné budovì na jih odsud a pøímo pod Rebeèinım Kasíno Barem.}
-{625}{}{Smitty je místní mechanik. Obèas má pár vìcí na prodej.}
-{650}{}{Smitty sídlí na smetišti v jihozápadní èásti mìsta.}
-{1000}{}{Pokraèovat.}
-{1010}{}{Kde nás najdete:}
+{426}{}{Je to pro tebe natolik matoucÃ­, aÅ¾ tÄ› z toho zaÄne bolet hlava.}
+{450}{}{Frankie provozuje bar, hospodu a 'zÃ¡bavnÃ­' podnik ve vÃ½chodnÃ­ ÄÃ¡sti mÄ›sta.}
+{475}{}{MÃ¡mina restaurace je jedinÃ¡ v Denu. Je ve vÃ½chodnÃ­ ÄÃ¡sti mÄ›sta, kousek na jih od OtrokÃ¡Å™skÃ©ho Cechu.}
+{500}{}{(VypadÃ¡ to, Å¾e se to nÄ›kdo snaÅ¾il zapÃ¡lit. NedokÃ¡Å¾eÅ¡ rozluÅ¡tit ani jednu zprÃ¡vu.)}
+{525}{}{(Jsou tu tÅ™i zprÃ¡vy.)}
+{550}{}{Tubby prodÃ¡vÃ¡ vÅ¡echno moÅ¾nÃ©, ale hlavnÄ› drogy a stÅ™elivo.}
+{575}{}{Tubby sÃ­dlÃ­ na zÃ¡pad od tÃ©to informaÄnÃ­ tabule. Je to prvnÃ­ budova po pravÃ© stranÄ› kdyÅ¾ vejdeÅ¡ do mÄ›sta.}
+{600}{}{Flick prodÃ¡vÃ¡ rÅ¯znÃ© vÄ›ci ve svÃ© 'kancelÃ¡Å™i' v obytnÃ© budovÄ› na jih odsud a pÅ™Ã­mo pod RebeÄinÃ½m KasÃ­no Barem.}
+{625}{}{Smitty je mÃ­stnÃ­ mechanik. ObÄas mÃ¡ pÃ¡r vÄ›cÃ­ na prodej.}
+{650}{}{Smitty sÃ­dlÃ­ na smetiÅ¡ti v jihozÃ¡padnÃ­ ÄÃ¡sti mÄ›sta.}
+{1000}{}{PokraÄovat.}
+{1010}{}{Kde nÃ¡s najdete:}
 {1020}{}{Konec.}
-{1030}{}{Flickùv obchod}
+{1030}{}{FlickÅ¯v obchod}
 {1040}{}{Frankieho Bar}
-{1050}{}{Rebeèin Kasíno Bar}
-{1060}{}{Zpìt na hlavní stranu}
+{1050}{}{RebeÄin KasÃ­no Bar}
+{1060}{}{ZpÄ›t na hlavnÃ­ stranu}
 {1070}{}{Smitty}
-{1080}{}{Speciální poznámka:}
+{1080}{}{SpeciÃ¡lnÃ­ poznÃ¡mka:}
 {1090}{}{Tubbyho obchod}

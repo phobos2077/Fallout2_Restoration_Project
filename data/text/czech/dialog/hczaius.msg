@@ -1,126 +1,126 @@
-{100}{}{Vidíš drsnì vypadajícího starého mutanta.}
-{101}{}{Vidíš Zaiuse, vrchního dùlmistra.}
-{102}{}{Po bliším prozkoumání zjišuješ, e vidíš drsného starého mutanta s krumpáèem a hornickou pøilbou.}
-{103}{}{Ty jsi ten nováèek ve mìstì?}
-{104}{}{Eee, coetóó!}
-{105}{}{Novı! Já! Mìsto!}
-{106}{}{Pøesnì tak.}
-{107}{}{Jo, jsem tu teprve chvíli.}
-{108}{}{Ne asi, chytráku, iju tu od tı doby, co to tady stojí, ale ty sis mì nikdy nevšiml.}
-{109}{}{Prı máte nìjaké problémy s dolem.}
-{110}{}{Co mi mùeš øíct o tomto místì?}
-{111}{}{Ehmmm... dooobøe. Nìco ti povím, tady máš pár doláèù, bì do salónu a kup si nìjakej chlast.}
-{112}{}{Cink? Bum? ululu!}
-{113}{}{Nerozumím ti, kámo. Nechceš jít radši do salónu? Tøeba si s tebou dá Francis páku.}
-{114}{}{Máku? Dobe!}
-{115}{}{Jasnì. No, jmenuju se Zaius. Teï kdy jsme se pøedstavili... máš šikovné ruce? Máme tu takovej problém s èistièkou vzduchu ve spodním podlaí dolu a bohuel nemáme díly na to, abysme to spravili a ani ochrannou vıstroj, kterou bysme se chránili pøed radonem, kterı se tam hromadí.}
-{116}{}{Nemám šikovné ruce. Promiò.}
-{117}{}{Docela jo. Co potøebuješ?}
-{118}{}{No, tak doufám, e se ti bude v Broken Hills líbit.}
-{119}{}{[Více]}
-{120}{}{Haha. Dobrı vtip. Chytráci jsou na øešení problémù nejlepší.}
-{121}{}{Jsi chytøejší ne všichni v tıhle prdeli.}
-{122}{}{Vy máte nìjakı problém? O co jde?}
-{123}{}{Hlavní problém je v tom, e jsi idiot.}
-{124}{}{To jsem pøesnì já. Chytrák. V èem je problém?}
-{125}{}{Naše èistièka vzduchu je rozbitá. Je ve spodním patøe dolu. Nemáme ádné náhradní díly ani ochrannou vıstroj. Bez dílù to neopravíme a bez ochrany nás ten radioaktivní plyn zabije. Máš šikovné ruce?}
-{126}{}{Jsem v pohodì.}
+{100}{}{VidÃ­Å¡ drsnÄ› vypadajÃ­cÃ­ho starÃ©ho mutanta.}
+{101}{}{VidÃ­Å¡ Zaiuse, vrchnÃ­ho dÅ¯lmistra.}
+{102}{}{Po bliÅ¾Å¡Ã­m prozkoumÃ¡nÃ­ zjiÅ¡Å¥ujeÅ¡, Å¾e vidÃ­Å¡ drsnÃ©ho starÃ©ho mutanta s krumpÃ¡Äem a hornickou pÅ™ilbou.}
+{103}{}{Ty jsi ten novÃ¡Äek ve mÄ›stÄ›?}
+{104}{}{Eee, coÅ¾etÃ³Ã³!}
+{105}{}{NovÃ½! JÃ¡! MÄ›sto!}
+{106}{}{PÅ™esnÄ› tak.}
+{107}{}{Jo, jsem tu teprve chvÃ­li.}
+{108}{}{Ne asi, chytrÃ¡ku, Å¾iju tu od tÃ½ doby, co to tady stojÃ­, ale ty sis mÄ› nikdy nevÅ¡iml.}
+{109}{}{PrÃ½ mÃ¡te nÄ›jakÃ© problÃ©my s dolem.}
+{110}{}{Co mi mÅ¯Å¾eÅ¡ Å™Ã­ct o tomto mÃ­stÄ›?}
+{111}{}{Ehmmm... dooobÅ™e. NÄ›co ti povÃ­m, tady mÃ¡Å¡ pÃ¡r dolÃ¡ÄÅ¯, bÄ›Å¾ do salÃ³nu a kup si nÄ›jakej chlast.}
+{112}{}{Cink? BÅ¾um? Å¤ululu!}
+{113}{}{NerozumÃ­m ti, kÃ¡mo. NechceÅ¡ jÃ­t radÅ¡i do salÃ³nu? TÅ™eba si s tebou dÃ¡ Francis pÃ¡ku.}
+{114}{}{MÃ¡ku? DobÅ¾e!}
+{115}{}{JasnÄ›. No, jmenuju se Zaius. TeÄ kdyÅ¾ jsme se pÅ™edstavili... mÃ¡Å¡ Å¡ikovnÃ© ruce? MÃ¡me tu takovej problÃ©m s ÄistiÄkou vzduchu ve spodnÃ­m podlaÅ¾Ã­ dolu a bohuÅ¾el nemÃ¡me dÃ­ly na to, abysme to spravili a ani ochrannou vÃ½stroj, kterou bysme se chrÃ¡nili pÅ™ed radonem, kterÃ½ se tam hromadÃ­.}
+{116}{}{NemÃ¡m Å¡ikovnÃ© ruce. PromiÅˆ.}
+{117}{}{Docela jo. Co potÅ™ebujeÅ¡?}
+{118}{}{No, tak doufÃ¡m, Å¾e se ti bude v Broken Hills lÃ­bit.}
+{119}{}{[VÃ­ce]}
+{120}{}{Haha. DobrÃ½ vtip. ChytrÃ¡ci jsou na Å™eÅ¡enÃ­ problÃ©mÅ¯ nejlepÅ¡Ã­.}
+{121}{}{Jsi chytÅ™ejÅ¡Ã­ neÅ¾ vÅ¡ichni v tÃ½hle prdeli.}
+{122}{}{Vy mÃ¡te nÄ›jakÃ½ problÃ©m? O co jde?}
+{123}{}{HlavnÃ­ problÃ©m je v tom, Å¾e jsi idiot.}
+{124}{}{To jsem pÅ™esnÄ› jÃ¡. ChytrÃ¡k. V Äem je problÃ©m?}
+{125}{}{NaÅ¡e ÄistiÄka vzduchu je rozbitÃ¡. Je ve spodnÃ­m patÅ™e dolu. NemÃ¡me Å¾Ã¡dnÃ© nÃ¡hradnÃ­ dÃ­ly ani ochrannou vÃ½stroj. Bez dÃ­lÅ¯ to neopravÃ­me a bez ochrany nÃ¡s ten radioaktivnÃ­ plyn zabije. MÃ¡Å¡ Å¡ikovnÃ© ruce?}
+{126}{}{Jsem v pohodÄ›.}
 {127}{}{Ne, ani ne.}
 {128}{}{Zase ty, jo?}
-{129}{}{Ork! Óó! Ehe!}
-{130}{}{Ahoj! AHOOOJ! Já (jméno)!}
-{131}{}{Kámo, u jsem ti peníze dal. Bì otravovat nìkoho jiného, slyšíš?}
-{132}{}{Zdravím. Nechceš jít tøeba do... eh... mìstské banky? Jsem si jistı, e se tam najde pár lidí, kterı si s tebou rádi popovídají.}
-{133}{}{No, tak pokud si to náhodou rozmyslíš, dej mi vìdìt.}
-{134}{}{Opravdu? Udìláš to pro mì... a hlavnì pro Broken Hills?}
-{135}{}{Co z toho budu mít?}
-{136}{}{Jasnì, udìlám to.}
-{137}{}{Teï ne.}
-{138}{}{Fakt? Dobrá, chytráku, co takhle opravit tu èistièku vzduchu v dole? Budeš potøebovat náhradní díly a taky pøijít na zpùsob, jak dıchat ten plyn. Kdy dokáeš, e to zvládneš, pøestanu si myslet, e je chytrá jenom tvoje huba.}
-{139}{}{Co z toho budu mít?}
-{140}{}{Jasnì, udìlám to.}
-{141}{}{Dìláš si srandu?}
-{142}{}{Hlavní problém je v tom, e jsem idiot. Opakuju to proto, protoe jsem ještì neslyšel jedinı kloudnı slovo, kterı by vyšlo z tı tvı nevymáchanı drky. A teï se mi kliï z oèí, èerve.}
-{143}{}{Kdy nepoèítám ty kretény, co mì poøád otravují, tak máme problém s èistièkou vzduchu v dolu. Je v háji, nemáme ádnou ochrannou vıstroj, se kterou bysme mohli dıchat radon, a taky nemáme náhradní díly na opravu. Myslíš, e to dokáeš? Jseš pøece chytrák, ne?}
-{144}{}{Co z toho budu mít?}
-{145}{}{Jasnì, udìlám to.}
-{146}{}{Dìláš si srandu? V ádném pøípadì.}
-{147}{}{. Co øíkáš?}
-{148}{}{To si strè nìkam. Chci víc.}
-{149}{}{To zní dobøe.}
-{150}{}{Zapomeò na to. To se mi nelíbí.}
-{151}{}{Skvìle! Budeš samozøejmì potøebovat nìjaké náhradní díly. Zajdi do New Rena a navštiv Renesca. Válí se mu po obchodì spousta haraburdí. Øekni mu, e tì posílá Zaius a taky heslo, "Kanárek chcípnul." Ale bohuel nevím, kde sehnat ochrannou vıstroj. Moná budeš moct jít dolù i bez ní, ale bude tì to bolet. Ještì jednou díky.}
-{152}{}{ádnı problém. Nashle.}
-{153}{}{No, pokud si to rozmyslíš, víš, kde mì najdeš.}
-{154}{}{Jasnı. Nashle.}
-{155}{}{ na ruku. Pùlku dostaneš teï a tu druhou a to bude hotovı. Zajdi do New Rena a navštiv Renesca. Válí se mu po obchodì spousta haraburdí. Urèitì ti seene nìjaké náhradní díly.}
-{156}{}{Zatím.}
-{157}{}{Promiò, víc ti nedám. Ber, nebo nech bıt.}
+{129}{}{Ork! Ã“Ã³! Ehe!}
+{130}{}{Ahoj! AHOOOJ! JÃ¡ (jmÃ©no)!}
+{131}{}{KÃ¡mo, uÅ¾ jsem ti penÃ­ze dal. BÄ›Å¾ otravovat nÄ›koho jinÃ©ho, slyÅ¡Ã­Å¡?}
+{132}{}{ZdravÃ­m. NechceÅ¡ jÃ­t tÅ™eba do... eh... mÄ›stskÃ© banky? Jsem si jistÃ½, Å¾e se tam najde pÃ¡r lidÃ­, kterÃ½ si s tebou rÃ¡di popovÃ­dajÃ­.}
+{133}{}{No, tak pokud si to nÃ¡hodou rozmyslÃ­Å¡, dej mi vÄ›dÄ›t.}
+{134}{}{Opravdu? UdÄ›lÃ¡Å¡ to pro mÄ›... a hlavnÄ› pro Broken Hills?}
+{135}{}{Co z toho budu mÃ­t?}
+{136}{}{JasnÄ›, udÄ›lÃ¡m to.}
+{137}{}{TeÄ ne.}
+{138}{}{Fakt? DobrÃ¡, chytrÃ¡ku, co takhle opravit tu ÄistiÄku vzduchu v dole? BudeÅ¡ potÅ™ebovat nÃ¡hradnÃ­ dÃ­ly a taky pÅ™ijÃ­t na zpÅ¯sob, jak dÃ½chat ten plyn. KdyÅ¾ dokÃ¡Å¾eÅ¡, Å¾e to zvlÃ¡dneÅ¡, pÅ™estanu si myslet, Å¾e je chytrÃ¡ jenom tvoje huba.}
+{139}{}{Co z toho budu mÃ­t?}
+{140}{}{JasnÄ›, udÄ›lÃ¡m to.}
+{141}{}{DÄ›lÃ¡Å¡ si srandu?}
+{142}{}{HlavnÃ­ problÃ©m je v tom, Å¾e jsem idiot. Opakuju to proto, protoÅ¾e jsem jeÅ¡tÄ› neslyÅ¡el jedinÃ½ kloudnÃ½ slovo, kterÃ½ by vyÅ¡lo z tÃ½ tvÃ½ nevymÃ¡chanÃ½ drÅ¾ky. A teÄ se mi kliÄ z oÄÃ­, Äerve.}
+{143}{}{KdyÅ¾ nepoÄÃ­tÃ¡m ty kretÃ©ny, co mÄ› poÅ™Ã¡d otravujÃ­, tak mÃ¡me problÃ©m s ÄistiÄkou vzduchu v dolu. Je v hÃ¡ji, nemÃ¡me Å¾Ã¡dnou ochrannou vÃ½stroj, se kterou bysme mohli dÃ½chat radon, a taky nemÃ¡me nÃ¡hradnÃ­ dÃ­ly na opravu. MyslÃ­Å¡, Å¾e to dokÃ¡Å¾eÅ¡? JseÅ¡ pÅ™ece chytrÃ¡k, ne?}
+{144}{}{Co z toho budu mÃ­t?}
+{145}{}{JasnÄ›, udÄ›lÃ¡m to.}
+{146}{}{DÄ›lÃ¡Å¡ si srandu? V Å¾Ã¡dnÃ©m pÅ™Ã­padÄ›.}
+{147}{}{. Co Å™Ã­kÃ¡Å¡?}
+{148}{}{To si strÄ nÄ›kam. Chci vÃ­c.}
+{149}{}{To znÃ­ dobÅ™e.}
+{150}{}{ZapomeÅˆ na to. To se mi nelÃ­bÃ­.}
+{151}{}{SkvÄ›le! BudeÅ¡ samozÅ™ejmÄ› potÅ™ebovat nÄ›jakÃ© nÃ¡hradnÃ­ dÃ­ly. Zajdi do New Rena a navÅ¡tiv Renesca. VÃ¡lÃ­ se mu po obchodÄ› spousta haraburdÃ­. Å˜ekni mu, Å¾e tÄ› posÃ­lÃ¡ Zaius a taky heslo, "KanÃ¡rek chcÃ­pnul." Ale bohuÅ¾el nevÃ­m, kde sehnat ochrannou vÃ½stroj. MoÅ¾nÃ¡ budeÅ¡ moct jÃ­t dolÅ¯ i bez nÃ­, ale bude tÄ› to bolet. JeÅ¡tÄ› jednou dÃ­ky.}
+{152}{}{Å½Ã¡dnÃ½ problÃ©m. Nashle.}
+{153}{}{No, pokud si to rozmyslÃ­Å¡, vÃ­Å¡, kde mÄ› najdeÅ¡.}
+{154}{}{JasnÃ½. Nashle.}
+{155}{}{ na ruku. PÅ¯lku dostaneÅ¡ teÄ a tu druhou aÅ¾ to bude hotovÃ½. Zajdi do New Rena a navÅ¡tiv Renesca. VÃ¡lÃ­ se mu po obchodÄ› spousta haraburdÃ­. UrÄitÄ› ti seÅ¾ene nÄ›jakÃ© nÃ¡hradnÃ­ dÃ­ly.}
+{156}{}{ZatÃ­m.}
+{157}{}{PromiÅˆ, vÃ­c ti nedÃ¡m. Ber, nebo nech bÃ½t.}
 {158}{}{To beru.}
 {159}{}{Nech si to.}
-{160}{}{Fajn, tak nechtìj. Díky za nic.}
-{161}{}{Nevadí.}
-{162}{}{Nazdar pøíteli!}
+{160}{}{Fajn, tak nechtÄ›j. DÃ­ky za nic.}
+{161}{}{NevadÃ­.}
+{162}{}{Nazdar pÅ™Ã­teli!}
 {163}{}{A hele, to jsi zase ty.}
-{164}{}{Nazdárek.}
-{165}{}{Já vìdìl, e ti bastardi Franc, Manson, Jacob a Aileen proti nám nìco mají. Dobrá práce! Take...}
-{166}{}{Doufám, e chceš vrátit mìstu tu rudu... take...}
-{167}{}{Díky, e jsi prodal tu rudu. Vùbec jsme ji nepotøebovali... take...}
-{168}{}{Díky za vrácení té rudy. Ani nevíš, kolik práce dá nìco takového získat.}
-{169}{}{Co chceš teï?}
-{170}{}{Mùeš mi øíct nìco o tomhle mìstì?}
-{171}{}{Prı máte nìjaké problémy s dolem.}
+{164}{}{NazdÃ¡rek.}
+{165}{}{JÃ¡ vÄ›dÄ›l, Å¾e ti bastardi Franc, Manson, Jacob a Aileen proti nÃ¡m nÄ›co majÃ­. DobrÃ¡ prÃ¡ce! TakÅ¾e...}
+{166}{}{DoufÃ¡m, Å¾e chceÅ¡ vrÃ¡tit mÄ›stu tu rudu... takÅ¾e...}
+{167}{}{DÃ­ky, Å¾e jsi prodal tu rudu. VÅ¯bec jsme ji nepotÅ™ebovali... takÅ¾e...}
+{168}{}{DÃ­ky za vrÃ¡cenÃ­ tÃ© rudy. Ani nevÃ­Å¡, kolik prÃ¡ce dÃ¡ nÄ›co takovÃ©ho zÃ­skat.}
+{169}{}{Co chceÅ¡ teÄ?}
+{170}{}{MÅ¯Å¾eÅ¡ mi Å™Ã­ct nÄ›co o tomhle mÄ›stÄ›?}
+{171}{}{PrÃ½ mÃ¡te nÄ›jakÃ© problÃ©my s dolem.}
 {172}{}{Tak jak to jde?}
-{173}{}{Vycházíš dobøe s lidmi?}
-{174}{}{Pomùeš nám tedy opravit tu èistièku?}
-{175}{}{Co z toho budu mít?}
-{176}{}{Jasnì, udìlám to.}
-{177}{}{Teï ne.}
+{173}{}{VychÃ¡zÃ­Å¡ dobÅ™e s lidmi?}
+{174}{}{PomÅ¯Å¾eÅ¡ nÃ¡m tedy opravit tu ÄistiÄku?}
+{175}{}{Co z toho budu mÃ­t?}
+{176}{}{JasnÄ›, udÄ›lÃ¡m to.}
+{177}{}{TeÄ ne.}
 {178}{}{Ne.}
-{179}{}{Tak jak to jde? Doufám, e se na to brzy podíváš...}
-{180}{}{Jde to celkem dobøe.}
-{181}{}{Jsem zamìstnanı mu, take jsem se k tomu ještì nedostal.}
-{182}{}{Dám ti brzy vìdìt.}
-{183}{}{U máš ty díly? No vıbornì... snad máš taky nìjakou ochrannou vıstroj, ty vıpary by tì mohli sloit.}
-{184}{}{Mùu se do toho dát.}
-{185}{}{Za chvíli se na to podívám.}
-{186}{}{U máš ty díly? No vıbornì... snad máš taky nìjakou ochrannou vıstroj, ty vıpary by tì mohli sloit.}
-{187}{}{Mùu se do toho dát.}
-{188}{}{Za chvíli se na to podívám.}
-{189}{}{Opraveno? Vıbornì! Poslyš, já vím, e za to nic nechceš, ale... to od tebe nemùu chtít, take jsme se s chlapama sloili na tuhle opakovací brokovnici. Hodnì štìstí a díky.}
-{190}{}{ádnı problém. Díky!}
-{191}{}{Opraveno? Vıbornì! Tady máš zbytek odmìny, jak jsme se domluvili. Ještì jednou díky.}
-{192}{}{Ty hajzle. Teï chcípneš.}
-{193}{}{Dobøe, dobøe, ale pospìš si... naše mìsto ten dùl potøebuje.}
-{194}{}{Jasnì. Zatím.}
-{195}{}{Netlaè na mì, jsem zamìstnanı mu. Kreténe.}
-{196}{}{Tak pardon, pane Všemohoucí, ale myslím, e pøeití mìsta je pomìrnì dùleité. Pospìš si, ano?}
-{197}{}{Trhni si. A to bude, tak to bude. Zatím.}
-{198}{}{Mùj pohár trpìlivosti právì pøetekl. Sbohem, mrtvolko.}
-{199}{}{Pospìš si prosím, ten dùl je naše ivobytí.}
-{200}{}{Dobøe, dobøe.}
-{201}{}{No, nejlepší bude, kdy si promluvíš si s Marcusem pøed bankou nebo se Stevem u vstupu do mìsta.}
-{202}{}{Hmm. Tak dobøe, díky.}
-{203}{}{Pùjdu se jich tedy zeptat.}
-{204}{}{Musím øíct, e to jde dobøe. Ale... vdycky mùe bıt líp.}
-{205}{}{Hehe. Díky za informace.}
+{179}{}{Tak jak to jde? DoufÃ¡m, Å¾e se na to brzy podÃ­vÃ¡Å¡...}
+{180}{}{Jde to celkem dobÅ™e.}
+{181}{}{Jsem zamÄ›stnanÃ½ muÅ¾, takÅ¾e jsem se k tomu jeÅ¡tÄ› nedostal.}
+{182}{}{DÃ¡m ti brzy vÄ›dÄ›t.}
+{183}{}{UÅ¾ mÃ¡Å¡ ty dÃ­ly? No vÃ½bornÄ›... snad mÃ¡Å¡ taky nÄ›jakou ochrannou vÃ½stroj, ty vÃ½pary by tÄ› mohli sloÅ¾it.}
+{184}{}{MÅ¯Å¾u se do toho dÃ¡t.}
+{185}{}{Za chvÃ­li se na to podÃ­vÃ¡m.}
+{186}{}{UÅ¾ mÃ¡Å¡ ty dÃ­ly? No vÃ½bornÄ›... snad mÃ¡Å¡ taky nÄ›jakou ochrannou vÃ½stroj, ty vÃ½pary by tÄ› mohli sloÅ¾it.}
+{187}{}{MÅ¯Å¾u se do toho dÃ¡t.}
+{188}{}{Za chvÃ­li se na to podÃ­vÃ¡m.}
+{189}{}{Opraveno? VÃ½bornÄ›! PoslyÅ¡, jÃ¡ vÃ­m, Å¾e za to nic nechceÅ¡, ale... to od tebe nemÅ¯Å¾u chtÃ­t, takÅ¾e jsme se s chlapama sloÅ¾ili na tuhle opakovacÃ­ brokovnici. HodnÄ› Å¡tÄ›stÃ­ a dÃ­ky.}
+{190}{}{Å½Ã¡dnÃ½ problÃ©m. DÃ­ky!}
+{191}{}{Opraveno? VÃ½bornÄ›! Tady mÃ¡Å¡ zbytek odmÄ›ny, jak jsme se domluvili. JeÅ¡tÄ› jednou dÃ­ky.}
+{192}{}{Ty hajzle. TeÄ chcÃ­pneÅ¡.}
+{193}{}{DobÅ™e, dobÅ™e, ale pospÄ›Å¡ si... naÅ¡e mÄ›sto ten dÅ¯l potÅ™ebuje.}
+{194}{}{JasnÄ›. ZatÃ­m.}
+{195}{}{NetlaÄ na mÄ›, jsem zamÄ›stnanÃ½ muÅ¾. KretÃ©ne.}
+{196}{}{Tak pardon, pane VÅ¡emohoucÃ­, ale myslÃ­m, Å¾e pÅ™eÅ¾itÃ­ mÄ›sta je pomÄ›rnÄ› dÅ¯leÅ¾itÃ©. PospÄ›Å¡ si, ano?}
+{197}{}{Trhni si. AÅ¾ to bude, tak to bude. ZatÃ­m.}
+{198}{}{MÅ¯j pohÃ¡r trpÄ›livosti prÃ¡vÄ› pÅ™etekl. Sbohem, mrtvolko.}
+{199}{}{PospÄ›Å¡ si prosÃ­m, ten dÅ¯l je naÅ¡e Å¾ivobytÃ­.}
+{200}{}{DobÅ™e, dobÅ™e.}
+{201}{}{No, nejlepÅ¡Ã­ bude, kdyÅ¾ si promluvÃ­Å¡ si s Marcusem pÅ™ed bankou nebo se Stevem u vstupu do mÄ›sta.}
+{202}{}{Hmm. Tak dobÅ™e, dÃ­ky.}
+{203}{}{PÅ¯jdu se jich tedy zeptat.}
+{204}{}{MusÃ­m Å™Ã­ct, Å¾e to jde dobÅ™e. Ale... vÅ¾dycky mÅ¯Å¾e bÃ½t lÃ­p.}
+{205}{}{Hehe. DÃ­ky za informace.}
 {206}{}{Well, as the mutants are not only getting old and senile -- the gas keeps them young, or
  something -- I'd have to say things are pretty good. I mean, we don't want to kill everyone, and as
  far as I can tell, the humans don't think too poorly of us. 'Course, that's not including the humans
  from the other places around here... now those are some bastards.}
-{207}{}{Dobøe, díky. Nashle.}
-{300}{}{. Co øíkáš?}
-{301}{}{. Co øíkáš?}
+{207}{}{DobÅ™e, dÃ­ky. Nashle.}
+{300}{}{. Co Å™Ã­kÃ¡Å¡?}
+{301}{}{. Co Å™Ã­kÃ¡Å¡?}
 {302}{}{$}
-{381}{}{Jsem zamìstnaná ena, take jsem se k tomu ještì nedostala.}
-{382}{}{Netlaè na mì, jsem zamìstnaná ena. Kreténe.}
-{383}{}{Tak pardon, paní Všemohoucí, ale myslím, e pøeití mìsta je pomìrnì dùleité. Pospìš si, ano?}
-{400}{}{Mám nìjakı dopis s tvım jménem. Leel u jedné mrtvé eny v tunelech. Mùeš mi k tomu nìco øíct?}
-{401}{}{Hele, já ten dopis jen dostal. Bì si o tom promluvit s Francisem, ano? To on ho napsal.}
-{402}{}{Jestli máš prsty v tìch vradách, tak o tom chci vìdìt.}
-{403}{}{Tak dobøe. Zatím.}
-{404}{}{Ne! Jen se chráníme pøed tím spiknutím. Marcus vìøí v právo a poøádek a i kdy ví, e jsou ti lidi nebezpeèní, tak neví, co jsou vlastnì zaè a je moc èestnı na to, aby jim podstrèil dùkazy. Mım úkolem bylo dret Francise na uzdì, aby se nezaèal všem mstít.}
-{405}{}{To zní podezøele. Pùjdu si poslechnout Francisovu verzi.}
-{406}{}{Já vìdìl, e Francis neunese prozrazení. Vìdìl, jaká rizika to obnáší, ale nejspíš nepoèítal s tím, e ho nìkdy chytí. Ale èasem bude v poøádku a stejnì tak doufám, e i Broken Hills.}
-{407}{}{Taky doufám. Mám další otázky.}
-{408}{}{Já taky. Nashle.}
+{381}{}{Jsem zamÄ›stnanÃ¡ Å¾ena, takÅ¾e jsem se k tomu jeÅ¡tÄ› nedostala.}
+{382}{}{NetlaÄ na mÄ›, jsem zamÄ›stnanÃ¡ Å¾ena. KretÃ©ne.}
+{383}{}{Tak pardon, panÃ­ VÅ¡emohoucÃ­, ale myslÃ­m, Å¾e pÅ™eÅ¾itÃ­ mÄ›sta je pomÄ›rnÄ› dÅ¯leÅ¾itÃ©. PospÄ›Å¡ si, ano?}
+{400}{}{MÃ¡m nÄ›jakÃ½ dopis s tvÃ½m jmÃ©nem. LeÅ¾el u jednÃ© mrtvÃ© Å¾eny v tunelech. MÅ¯Å¾eÅ¡ mi k tomu nÄ›co Å™Ã­ct?}
+{401}{}{Hele, jÃ¡ ten dopis jen dostal. BÄ›Å¾ si o tom promluvit s Francisem, ano? To on ho napsal.}
+{402}{}{Jestli mÃ¡Å¡ prsty v tÄ›ch vraÅ¾dÃ¡ch, tak o tom chci vÄ›dÄ›t.}
+{403}{}{Tak dobÅ™e. ZatÃ­m.}
+{404}{}{Ne! Jen se chrÃ¡nÃ­me pÅ™ed tÃ­m spiknutÃ­m. Marcus vÄ›Å™Ã­ v prÃ¡vo a poÅ™Ã¡dek a i kdyÅ¾ vÃ­, Å¾e jsou ti lidi nebezpeÄnÃ­, tak nevÃ­, co jsou vlastnÄ› zaÄ a je moc ÄestnÃ½ na to, aby jim podstrÄil dÅ¯kazy. MÃ½m Ãºkolem bylo drÅ¾et Francise na uzdÄ›, aby se nezaÄal vÅ¡em mstÃ­t.}
+{405}{}{To znÃ­ podezÅ™ele. PÅ¯jdu si poslechnout Francisovu verzi.}
+{406}{}{JÃ¡ vÄ›dÄ›l, Å¾e Francis neunese prozrazenÃ­. VÄ›dÄ›l, jakÃ¡ rizika to obnÃ¡Å¡Ã­, ale nejspÃ­Å¡ nepoÄÃ­tal s tÃ­m, Å¾e ho nÄ›kdy chytÃ­. Ale Äasem bude v poÅ™Ã¡dku a stejnÄ› tak doufÃ¡m, Å¾e i Broken Hills.}
+{407}{}{Taky doufÃ¡m. MÃ¡m dalÅ¡Ã­ otÃ¡zky.}
+{408}{}{JÃ¡ taky. Nashle.}

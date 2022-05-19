@@ -1,52 +1,52 @@
-{100}{}{Vidíš strá Hubologistù.}
-{101}{}{Je namakanı jako hora a dobøe vyzbrojen.}
-{200}{}{Stùj! Toto je soukromı pozemek Hubologistické církve. Za jakım úèelem tu jsi?}
-{201}{}{Pøišel jsem to tady vybrat. Slyšel jsem, e je tu spousta penìz a zbraní.}
-{202}{}{Nerozèiluj se, bratøe, neb jsme pøíbuzné duše. Já také uctívám Hubologistickou církev.}
-{203}{}{Opravdu? (Prohlédne si tì odshora dolù.) Pak ti tedy nebude vadit, kdy si tvoji víru otestuji.}
-{204}{}{(Hroznì se smìje.) Máš koule. To se mi líbí. Uvidíme, jak na tom budeš s odvahou, a tì nechám krvácet na zemi.}
-{205}{}{Ptej se. Má duše je pøipravena.}
-{206}{}{Tak test, jo? Víš co? Kašlu na to, byla to le. Pojïme bojovat.}
-{220}{}{Kdo je zakladatelem církve?}
-{221}{}{Církev vìøí, e ivot, svìt, vesmír a všechno ostatní mùe bıt symbolizováno èím?}
-{222}{}{Co je myšleno vırazem "Osvícení" v souvislosti s církví?}
+{100}{}{VidÃ­Å¡ strÃ¡Å¾ HubologistÅ¯.}
+{101}{}{Je namakanÃ½ jako hora a dobÅ™e vyzbrojen.}
+{200}{}{StÅ¯j! Toto je soukromÃ½ pozemek HubologistickÃ© cÃ­rkve. Za jakÃ½m ÃºÄelem tu jsi?}
+{201}{}{PÅ™iÅ¡el jsem to tady vybrat. SlyÅ¡el jsem, Å¾e je tu spousta penÄ›z a zbranÃ­.}
+{202}{}{NerozÄiluj se, bratÅ™e, neb jsme pÅ™Ã­buznÃ© duÅ¡e. JÃ¡ takÃ© uctÃ­vÃ¡m Hubologistickou cÃ­rkev.}
+{203}{}{Opravdu? (ProhlÃ©dne si tÄ› odshora dolÅ¯.) Pak ti tedy nebude vadit, kdyÅ¾ si tvoji vÃ­ru otestuji.}
+{204}{}{(HroznÄ› se smÄ›je.) MÃ¡Å¡ koule. To se mi lÃ­bÃ­. UvidÃ­me, jak na tom budeÅ¡ s odvahou, aÅ¾ tÄ› nechÃ¡m krvÃ¡cet na zemi.}
+{205}{}{Ptej se. MÃ¡ duÅ¡e je pÅ™ipravena.}
+{206}{}{Tak test, jo? VÃ­Å¡ co? KaÅ¡lu na to, byla to leÅ¾. PojÄme bojovat.}
+{220}{}{Kdo je zakladatelem cÃ­rkve?}
+{221}{}{CÃ­rkev vÄ›Å™Ã­, Å¾e Å¾ivot, svÄ›t, vesmÃ­r a vÅ¡echno ostatnÃ­ mÅ¯Å¾e bÃ½t symbolizovÃ¡no ÄÃ­m?}
+{222}{}{Co je myÅ¡leno vÃ½razem "OsvÃ­cenÃ­" v souvislosti s cÃ­rkvÃ­?}
 {230}{}{Herbert Jentz}
 {231}{}{Dick Hubbel}
 {232}{}{Tim Cruz}
 {233}{}{AHS-9}
 {234}{}{Hugo Richardson}
 {240}{}{Kruh.}
-{241}{}{Peníze.}
-{242}{}{Otáèející se kolo.}
-{243}{}{Odinùv roh.}
+{241}{}{PenÃ­ze.}
+{242}{}{OtÃ¡ÄejÃ­cÃ­ se kolo.}
+{243}{}{OdinÅ¯v roh.}
 {244}{}{Ryba.}
-{250}{}{Naplòování fyzické podstaty.}
-{251}{}{Stav naprosté eufórie.}
-{252}{}{Dosaení stavu, pøi kterém si hledající vyvine duchovní porozumìní pro skuteènou podstatu všech vìcí.}
-{253}{}{Dosaení stavu, kdy hledající získá tolik vìdomostí, e se stane úplnou souèástí vesmíru a opustí svoji pozemskou existenci.}
-{254}{}{Koneènı cíl duchovní cesty, kdy se omezující vìdomí "Já" promìní v nadøazené "My".}
-{260}{}{Správnì. Pouze èlen Hubologistù mùe oplıvat takovou moudrostí. Vítám tì a prosím o odpuštìní. Mohu se zeptat, proè jsi tu? Jen nìkolik našich èlenù ví o tomto místì.}
-{261}{}{Pche! Úplnì vedle. Tento bezpeènostní test funguje pokadé. Je na èase se tì zbavit, podvodníku!}
-{270}{}{Samotnı AHS-9 mì povìøil kontrolou všech darù. Chce se ujistit, e je všechno v poøádku.}
+{250}{}{NaplÅˆovÃ¡nÃ­ fyzickÃ© podstaty.}
+{251}{}{Stav naprostÃ© eufÃ³rie.}
+{252}{}{DosaÅ¾enÃ­ stavu, pÅ™i kterÃ©m si hledajÃ­cÃ­ vyvine duchovnÃ­ porozumÄ›nÃ­ pro skuteÄnou podstatu vÅ¡ech vÄ›cÃ­.}
+{253}{}{DosaÅ¾enÃ­ stavu, kdy hledajÃ­cÃ­ zÃ­skÃ¡ tolik vÄ›domostÃ­, Å¾e se stane Ãºplnou souÄÃ¡stÃ­ vesmÃ­ru a opustÃ­ svoji pozemskou existenci.}
+{254}{}{KoneÄnÃ½ cÃ­l duchovnÃ­ cesty, kdy se omezujÃ­cÃ­ vÄ›domÃ­ "JÃ¡" promÄ›nÃ­ v nadÅ™azenÃ© "My".}
+{260}{}{SprÃ¡vnÄ›. Pouze Älen HubologistÅ¯ mÅ¯Å¾e oplÃ½vat takovou moudrostÃ­. VÃ­tÃ¡m tÄ› a prosÃ­m o odpuÅ¡tÄ›nÃ­. Mohu se zeptat, proÄ jsi tu? Jen nÄ›kolik naÅ¡ich ÄlenÅ¯ vÃ­ o tomto mÃ­stÄ›.}
+{261}{}{Pche! ÃšplnÄ› vedle. Tento bezpeÄnostnÃ­ test funguje pokaÅ¾dÃ©. Je na Äase se tÄ› zbavit, podvodnÃ­ku!}
+{270}{}{SamotnÃ½ AHS-9 mÄ› povÄ›Å™il kontrolou vÅ¡ech darÅ¯. Chce se ujistit, Å¾e je vÅ¡echno v poÅ™Ã¡dku.}
 {271}{}{Chci odevzdat dar.}
-{280}{}{Aha, nevìdìl jsem, e následuješ taková duchovní pøikázání. V tom pøípadì mùeš vstoupit. Vydr, odemknu ti dveøe.}
-{281}{}{(Zamraèí se.) Eh, nikdo mi o ádnıch inspekcích neøekl...}
-{282}{}{Díky. Zatím nashle.}
-{283}{}{Tak podívej, samotnı AHS-9 mì povìøil to tu zkontrolovat. Chce pøinést specifickı artefakt, kterı byl nedávno darován. Je dùleitı pro dosaení Hvìzdného Otce.}
-{284}{}{Z tìch tvıch lí se mi u dìlá opravdu špatnì. Myslím, e je naèase zbavit svìt dalšího plevele.}
-{290}{}{Ale tohle není místo kde se odevzdávají dary. To mùeš udìlat v kterémkoliv z našich kostelù.}
-{291}{}{Já vím, ale AHS-9 mi øekl, e noví rekruti si to tu mùou zkontrolovat ještì pøed tím, ne odevzdají svùj vıznamnı pøíspìvek.}
-{292}{}{(Zamraèí se.) Eh, nikdo mi o ádnıch inspekcích neøekl...}
-{293}{}{Aha, chápu. To je pochopitelné. Mùeš vstoupit, ale nepotloukej se tam pøíliš dlouho.}
-{294}{}{Tak podívej, chystám se vìnovat církvi pìknì tuènou sumu penìz. Chci se ujistit, e mùj dar bude v bezpeèí a pouit na dobré úèely.}
-{300}{}{Zdravím.}
-{301}{}{Doufám, e je všechno v poøádku.}
-{400}{}{Já chtít dovnitø.}
-{410}{}{(Podivnì se na tebe podívá.) Pustím tì, kdy mi øekneš heslo.}
-{411}{}{Já pustit ducha, ne heslo.}
-{412}{}{Já chtít dovnitø!}
-{420}{}{Poslyš, na tohle nemám èas. Oèividnì tu nemáš co dìlat, take vypadni, nebo tì to bude mrzet.}
-{421}{}{Bù naskle!}
-{422}{}{Já chtít vìcièky uvnitø. Ty zemøít.}
-{430}{}{Poslední varování. Odejdi, nebo zemøeš.}
-{431}{}{Varoval jsem tì!}
+{280}{}{Aha, nevÄ›dÄ›l jsem, Å¾e nÃ¡sledujeÅ¡ takovÃ¡ duchovnÃ­ pÅ™ikÃ¡zÃ¡nÃ­. V tom pÅ™Ã­padÄ› mÅ¯Å¾eÅ¡ vstoupit. VydrÅ¾, odemknu ti dveÅ™e.}
+{281}{}{(ZamraÄÃ­ se.) Eh, nikdo mi o Å¾Ã¡dnÃ½ch inspekcÃ­ch neÅ™ekl...}
+{282}{}{DÃ­ky. ZatÃ­m nashle.}
+{283}{}{Tak podÃ­vej, samotnÃ½ AHS-9 mÄ› povÄ›Å™il to tu zkontrolovat. Chce pÅ™inÃ©st specifickÃ½ artefakt, kterÃ½ byl nedÃ¡vno darovÃ¡n. Je dÅ¯leÅ¾itÃ½ pro dosaÅ¾enÃ­ HvÄ›zdnÃ©ho Otce.}
+{284}{}{Z tÄ›ch tvÃ½ch lÅ¾Ã­ se mi uÅ¾ dÄ›lÃ¡ opravdu Å¡patnÄ›. MyslÃ­m, Å¾e je naÄase zbavit svÄ›t dalÅ¡Ã­ho plevele.}
+{290}{}{Ale tohle nenÃ­ mÃ­sto kde se odevzdÃ¡vajÃ­ dary. To mÅ¯Å¾eÅ¡ udÄ›lat v kterÃ©mkoliv z naÅ¡ich kostelÅ¯.}
+{291}{}{JÃ¡ vÃ­m, ale AHS-9 mi Å™ekl, Å¾e novÃ­ rekruti si to tu mÅ¯Å¾ou zkontrolovat jeÅ¡tÄ› pÅ™ed tÃ­m, neÅ¾ odevzdajÃ­ svÅ¯j vÃ½znamnÃ½ pÅ™Ã­spÄ›vek.}
+{292}{}{(ZamraÄÃ­ se.) Eh, nikdo mi o Å¾Ã¡dnÃ½ch inspekcÃ­ch neÅ™ekl...}
+{293}{}{Aha, chÃ¡pu. To je pochopitelnÃ©. MÅ¯Å¾eÅ¡ vstoupit, ale nepotloukej se tam pÅ™Ã­liÅ¡ dlouho.}
+{294}{}{Tak podÃ­vej, chystÃ¡m se vÄ›novat cÃ­rkvi pÄ›knÄ› tuÄnou sumu penÄ›z. Chci se ujistit, Å¾e mÅ¯j dar bude v bezpeÄÃ­ a pouÅ¾it na dobrÃ© ÃºÄely.}
+{300}{}{ZdravÃ­m.}
+{301}{}{DoufÃ¡m, Å¾e je vÅ¡echno v poÅ™Ã¡dku.}
+{400}{}{JÃ¡ chtÃ­t dovnitÅ™.}
+{410}{}{(PodivnÄ› se na tebe podÃ­vÃ¡.) PustÃ­m tÄ›, kdyÅ¾ mi Å™ekneÅ¡ heslo.}
+{411}{}{JÃ¡ pustit ducha, ne heslo.}
+{412}{}{JÃ¡ chtÃ­t dovnitÅ™!}
+{420}{}{PoslyÅ¡, na tohle nemÃ¡m Äas. OÄividnÄ› tu nemÃ¡Å¡ co dÄ›lat, takÅ¾e vypadni, nebo tÄ› to bude mrzet.}
+{421}{}{BÅ¯ naskle!}
+{422}{}{JÃ¡ chtÃ­t vÄ›ciÄky uvnitÅ™. Ty zemÅ™Ã­t.}
+{430}{}{PoslednÃ­ varovÃ¡nÃ­. Odejdi, nebo zemÅ™eÅ¡.}
+{431}{}{Varoval jsem tÄ›!}

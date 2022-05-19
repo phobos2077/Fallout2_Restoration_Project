@@ -1,11 +1,11 @@
-{100}{}{Velkı chlápek, velká zbraò a stále tu postává. Je to strá.}
-{101}{}{Poøád vidíš strá.}
-{102}{}{Má na èele otrokáøské tetování, které ho nedìlá ani o trochu chytøejším.}
+{100}{}{VelkÃ½ chlÃ¡pek, velkÃ¡ zbraÅˆ a stÃ¡le tu postÃ¡vÃ¡. Je to strÃ¡Å¾.}
+{101}{}{PoÅ™Ã¡d vidÃ­Å¡ strÃ¡Å¾.}
+{102}{}{MÃ¡ na Äele otrokÃ¡Å™skÃ© tetovÃ¡nÃ­, kterÃ© ho nedÄ›lÃ¡ ani o trochu chytÅ™ejÅ¡Ã­m.}
 {103}{}{Promluv si s panem Vortisem, ne se mnou.}
 {104}{}{Eh...}
-{105}{}{Máš otázky? Tak si promluv s Vortisem.}
-{106}{}{Jestli budeš dìlat potíe, tak uvidíš. Rozumíš?}
-{107}{}{Hej, máme tady vetøelce!}
-{108}{}{Poplach! Vetøelec nablízku!}
-{109}{}{Pane Vortisi - nájezdníci!}
-{110}{}{Tak tohle byla velká chyba.}
+{105}{}{MÃ¡Å¡ otÃ¡zky? Tak si promluv s Vortisem.}
+{106}{}{Jestli budeÅ¡ dÄ›lat potÃ­Å¾e, tak uvidÃ­Å¡. RozumÃ­Å¡?}
+{107}{}{Hej, mÃ¡me tady vetÅ™elce!}
+{108}{}{Poplach! VetÅ™elec nablÃ­zku!}
+{109}{}{Pane Vortisi - nÃ¡jezdnÃ­ci!}
+{110}{}{Tak tohle byla velkÃ¡ chyba.}

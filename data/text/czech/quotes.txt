@@ -1,880 +1,878 @@
-@Vtipné pøeklady nalezené pøi
-@kontrole textù Falloutu 2 a RP
+@VtipnÃ© pÅ™eklady nalezenÃ© pÅ™i
+@kontrole textÅ¯ Falloutu 2 a RP
 
-Pøipravte se na nekoneènı pøíval zábavy
+PÅ™ipravte se na nekoneÄnÃ½ pÅ™Ã­val zÃ¡bavy
 
 #Well then, suit yourself.
-Uvidíme. Tak si odlo.
+UvidÃ­me. Tak si odloÅ¾.
 
 #You look like you're good with your hands.
 #You do have hands, don't you?
-Zdá se, e máš šikovné ruce. ivíš se rukama, e?
+ZdÃ¡ se, Å¾e mÃ¡Å¡ Å¡ikovnÃ© ruce. Å½ivÃ­Å¡ se rukama, Å¾e?
 
-#Well, don’t be too hard on him.
-#He wasn’t exactly enjoying himself, you know. Goodbye.
-No, nebuïte na nìj tak pøísná.
-On asi nìkdy nepøemıšlí nad tím, co dìlá, víte? Nashle.
+#Well, donâ€™t be too hard on him.
+#He wasnâ€™t exactly enjoying himself, you know. Goodbye.
+No, nebuÄte na nÄ›j tak pÅ™Ã­snÃ¡.
+On asi nÄ›kdy nepÅ™emÃ½Å¡lÃ­ nad tÃ­m, co dÄ›lÃ¡, vÃ­te? Nashle.
 
 #You bring Hakeswill to justice.
-Pøinesl jsi Hakeswillovi spravedlnost.
+PÅ™inesl jsi Hakeswillovi spravedlnost.
 
 #The GECK is too valuable to the village for you
 #to just drop it here.
-GECK je pro tuto vesnici o tolik drahocennìjší ne pro tebe,
-e ho tu zanecháš.
+GECK je pro tuto vesnici o tolik drahocennÄ›jÅ¡Ã­ neÅ¾ pro tebe,
+Å¾e ho tu zanechÃ¡Å¡.
 
-#Gosh, we’re going to need a lot of Copper from Redding now.
-Goshi, teï budeme potøebovat z Reddingu mnoho Mìdi.
+#Gosh, weâ€™re going to need a lot of Copper from Redding now.
+Goshi, teÄ budeme potÅ™ebovat z Reddingu mnoho MÄ›di.
 
-#Nuke Vault City ‘til it glows!
-Nukleuj Vault City dokud to hne!
+#Nuke Vault City â€˜til it glows!
+Nukleuj Vault City dokud to Å¾hne!
 
-#Be nice while you’re in town.
-Mìj se hezky bìhem tvého pobytu ve mìstì.
+#Be nice while youâ€™re in town.
+MÄ›j se hezky bÄ›hem tvÃ©ho pobytu ve mÄ›stÄ›.
 
 #See anything interesting out in the wastes? 
-Vidíš v pustošení nìco zajímavého?
+VidÃ­Å¡ v pustoÅ¡enÃ­ nÄ›co zajÃ­mavÃ©ho?
 
 #The person you see is glowing faintly.
 #Its skin seems to be badly burnt.
-Osoba, kterou vidíš je na první pohled slabá.
-Jeho kùe jakoby byla škaredì popálená.
+Osoba, kterou vidÃ­Å¡ je na prvnÃ­ pohled slabÃ¡.
+Jeho kÅ¯Å¾e jakoby byla Å¡karedÄ› popÃ¡lenÃ¡.
 
 #Yes. Go check out Dr. Wong's corpse.
 Jo. Jdi zkontrolovat sbor Dr. Wonga.
 
 #I shoulda packed a box of tissue.
-Mìl bych zabalit krabici tkaniny.
+MÄ›l bych zabalit krabici tkaniny.
 
 #Don't let the door hit your DRY ASS on the way out!
-Nenech si cestou ven nakopat svojí VYSCHLOU PRDEL!
+Nenech si cestou ven nakopat svojÃ­ VYSCHLOU PRDEL!
 
-#Mohl sis poøádnì zavaøit.
+#Mohl sis poÅ™Ã¡dnÄ› zavaÅ™it.
 You could set her ass on fire.
 
 #Damn, I'm fucked flat.
-Sakra, já jsem ale zasranej odpad.
+Sakra, jÃ¡ jsem ale zasranej odpad.
 
 #See you around.
-Nìkde tady kolem se potkáme.
+NÄ›kde tady kolem se potkÃ¡me.
 
 #Frankie's a scum bag. He's mean to Becky for no reason.
-Frankie je pytel sraèek. Neznamená pro Becky vùbec nic.
+Frankie je pytel sraÄek. NeznamenÃ¡ pro Becky vÅ¯bec nic.
 
 #We call this home.
-Zavoláme to domù.
+ZavolÃ¡me to domÅ¯.
 
 #I forgot; I had something else I had to attend to
 #right away. Please forgive me, baby.
-Zapomnìl jsem; chtìl jsem nìco jiného,
-musel jsem bıt úplnì mimo. Odpus mi, bejby.
+ZapomnÄ›l jsem; chtÄ›l jsem nÄ›co jinÃ©ho,
+musel jsem bÃ½t ÃºplnÄ› mimo. OdpusÅ¥ mi, bejby.
 
 #No woman stands me up. Get the hell out!
-ádná enská mi neodolá. Vypadni, k èertu!
+Å½Ã¡dnÃ¡ Å¾enskÃ¡ mi neodolÃ¡. Vypadni, k Äertu!
 
 #See ya in five. 
-Uvidíme se v Pìtce.
+UvidÃ­me se v PÄ›tce.
 
-#Hey, I don’t do chicks!
-Hej, já se s nikım nevykecávám!
+#Hey, I donâ€™t do chicks!
+Hej, jÃ¡ se s nikÃ½m nevykecÃ¡vÃ¡m!
 
 #Those New Reno families charge an arm and a leg
-#for their booze. I don’t know how she does it! 
-Tyhle rodiny New Reno jsou schopnı ti naúètovat klidnì ruku
-nebo nohu za svùj chlast. Nevím jak to dìlá!
+#for their booze. I donâ€™t know how she does it! 
+Tyhle rodiny New Reno jsou schopnÃ½ ti naÃºÄtovat klidnÄ› ruku
+nebo nohu za svÅ¯j chlast. NevÃ­m jak to dÄ›lÃ¡!
 
 #What the fuck's wrong with Metzger?
 #Thinking we're not guarding his shit...
-Co je, do prdelele, s Metzgerem? My ho nehlídáme...
+Co je, do prdelele, s Metzgerem? My ho nehlÃ­dÃ¡me...
 
 #Oh really? So that bitch has got some balls after all?
 #Well, that's worth a $100.
-Skuteènì? Ta dìvka má ještì nìjakı prachy, po tom všem?
-Dobrá, bude to $100.
+SkuteÄnÄ›? Ta dÄ›vka mÃ¡ jeÅ¡tÄ› nÄ›jakÃ½ prachy, po tom vÅ¡em?
+DobrÃ¡, bude to $100.
 
 #Okay, fuck. It's not like I really care.
 #Like you would know what to do with any of that shit anyway.
-Oukej, kurva. Jako kdybys vìdìl, co s tím budem dìlat.
+Oukej, kurva. Jako kdybys vÄ›dÄ›l, co s tÃ­m budem dÄ›lat.
 
 #What the hell for? His stuff's not going anywhere.
-Proè do prdele? Poøád kecá do všeho.
+ProÄ do prdele? PoÅ™Ã¡d kecÃ¡ do vÅ¡eho.
 
 #His crap still hasn't moved an inch. 
-To hovno ještì ani nikam nevylezlo s tou svojí tlustou prdelí. 
+To hovno jeÅ¡tÄ› ani nikam nevylezlo s tou svojÃ­ tlustou prdelÃ­. 
 
-#Fair enough. You’re a sharp one, there’s no denying it.
-#Here’s some booze. Now in return,
+#Fair enough. Youâ€™re a sharp one, thereâ€™s no denying it.
+#Hereâ€™s some booze. Now in return,
 #you get to listen to my little problem.
-Tak to mi staèí. Jsi pìknı podvodník. A to nemùeš nijak popøít... 
-podívej, tady je nìjakı chlast. Jako dùkaz dostateèné.
-Teï to pùjdu vyøešit na patøièná místa.
+Tak to mi staÄÃ­. Jsi pÄ›knÃ½ podvodnÃ­k. A to nemÅ¯Å¾eÅ¡ nijak popÅ™Ã­t... 
+podÃ­vej, tady je nÄ›jakÃ½ chlast. Jako dÅ¯kaz dostateÄnÃ©.
+TeÄ to pÅ¯jdu vyÅ™eÅ¡it na patÅ™iÄnÃ¡ mÃ­sta.
 
 #This sign says this store is called Darkwater's.
-Na ceduli se píše, e tento obchod patøí DarkVodaovi.
+Na ceduli se pÃ­Å¡e, Å¾e tento obchod patÅ™Ã­ DarkVodaovi.
 
 #I was coming here to collect my stuff to skip town
 #when I caught you breaking in.
-Šel jsem tu posbírat své vìci a vyhopsat z mìsta,
-kdy jsem tì tu nachytal pøi vloupání.
+Å el jsem tu posbÃ­rat svÃ© vÄ›ci a vyhopsat z mÄ›sta,
+kdyÅ¾ jsem tÄ› tu nachytal pÅ™i vloupÃ¡nÃ­.
 
 #Well, fuck me sideways, look who came by.
-No to mi ho vyndej, podívejme, kdo pøišel. 
+No to mi ho vyndej, podÃ­vejme, kdo pÅ™iÅ¡el. 
 
 #Listen, I don't give a flying fuck about any of your rantings.
-Poslouchej, ty tvoje kecy mám u létající prdele. 
+Poslouchej, ty tvoje kecy mÃ¡m u lÃ©tajÃ­cÃ­ prdele. 
 
 #Only a true expert lock picker could get around this.
-Jenom opravdovı mistr paklíèník se pøes nìj dostane.
+Jenom opravdovÃ½ mistr paklÃ­ÄnÃ­k se pÅ™es nÄ›j dostane.
 
 #[A look of fear slowly fills his face, and he starts backing away.]
-[Maska strachu pomalu vyplnila jeho tváø a zaèal couvat.]
+[Maska strachu pomalu vyplnila jeho tvÃ¡Å™ a zaÄal couvat.]
 
 #Then leave this place, and these people, permanently.
-Potom odtud odejdi a nevrtacej se, ty a tito lidé, nikdy.
+Potom odtud odejdi a nevrtacej se, ty a tito lidÃ©, nikdy.
 
 #I don't wanna talk to you no more, you empty headed animal
 #food trough wiper! I fart in your general direction!
 #Your mother was a hamster and your father
 #smelt of elderberries!
-U s tebou nechci více mluvit, ty dutá zvíøecí hlavo
-v zmijí tlamì! Seru ti pøímo do nosu!
-Tvá matka byla køeèek a tvùj fotr smrdí po bezinkách!
+UÅ¾ s tebou nechci vÃ­ce mluvit, ty dutÃ¡ zvÃ­Å™ecÃ­ hlavo
+v zmijÃ­ tlamÄ›! Seru ti pÅ™Ã­mo do nosu!
+TvÃ¡ matka byla kÅ™eÄek a tvÅ¯j fotr smrdÃ­ po bezinkÃ¡ch!
 
 #She drank this drink, it smelled quite strong,
 #and vivid dreams came to her.
-Tohle vypila, vypadalo to drsnì a ivé sny k ní pøišly.
+Tohle vypila, vypadalo to drsnÄ› a Å¾ivÃ© sny k nÃ­ pÅ™iÅ¡ly.
 
 #There's a lot of "rats" there, if you catch my drift.
-Ale je tam hodnì krys, take je musíš umìt chytat.
+Ale je tam hodnÄ› krys, takÅ¾e je musÃ­Å¡ umÄ›t chytat.
 
 #Now you gonna place a bet or bullshit me some more?
-Teï vloíš sázku nebo mì nasereš bıèím hovnem nìjak víc?
+TeÄ vloÅ¾Ã­Å¡ sÃ¡zku nebo mÄ› nasereÅ¡ bÃ½ÄÃ­m hovnem nÄ›jak vÃ­c?
 
 #You touch me, and Mr. Salvatore will skin you alive.
-Dotkneš se mì a pan Salvator ti bude seškrabávat z kùe,
-dokud budeš ivı.
+DotkneÅ¡ se mÄ› a pan Salvator ti bude seÅ¡krabÃ¡vat z kÅ¯Å¾e,
+dokud budeÅ¡ Å¾ivÃ½.
 
 #Look, I just STARTED working here, and I can't recognize
 #every card counter and two-bit cheat that walks in. 
 #I gotta pretty good line on shitheads like you, though.
-Podívej, ZAÈALA jsem tu pracovat teprve pøed nedávnem
-a nepoznám kadé èísílko na kartì a dva kousky odcizí,
-kdy vstoupí. Mám teda kliku na takovı hovada, jako jsi ty.
+PodÃ­vej, ZAÄŒALA jsem tu pracovat teprve pÅ™ed nedÃ¡vnem
+a nepoznÃ¡m kaÅ¾dÃ© ÄÃ­sÃ­lko na kartÄ› a dva kousky odcizÃ­,
+kdyÅ¾ vstoupÃ­. MÃ¡m teda kliku na takovÃ½ hovada, jako jsi ty.
 
 #I will see you around then.
-Pak se uvídime kolem.
+Pak se uvÃ­dime kolem.
 
 #You will meet your fellow Rangers on the way. Best of luck to you.
-Tvé kolegy Rangery potkáš cestou. Hodnì toho nejlepšího štìstí.
+TvÃ© kolegy Rangery potkÃ¡Å¡ cestou. HodnÄ› toho nejlepÅ¡Ã­ho Å¡tÄ›stÃ­.
 
 #I notice much of what I do pisses at least one person off.
 #I've grown used to it. Bye.
-Pozoruju, e hodnì z toho, co dìlám, nasere alespoò jednu osobu.
-Rostu z toho. Èau
+Pozoruju, Å¾e hodnÄ› z toho, co dÄ›lÃ¡m, nasere alespoÅˆ jednu osobu.
+Rostu z toho. ÄŒau
 
 #Fine, you can count me out. I'm not doing this anymore.
-Fajn, mùeš mì zapoèítat. U to neudìlám.
+Fajn, mÅ¯Å¾eÅ¡ mÄ› zapoÄÃ­tat. UÅ¾ to neudÄ›lÃ¡m.
 
 #Yeah, we sure gave the Master hell, didn't we? 
 #Shit fell apart after you left, though.
-Jo, urèitì jsme udìlali Vùdci ze ivota peklo, nebo ne?
-Kdy jsi odešel tak se ten srágora rozpadl.
+Jo, urÄitÄ› jsme udÄ›lali VÅ¯dci ze Å¾ivota peklo, nebo ne?
+KdyÅ¾ jsi odeÅ¡el tak se ten srÃ¡gora rozpadl.
 
 #Don't remember me, do you?
-Nevzpomínám si na tebe, ty jo?
+NevzpomÃ­nÃ¡m si na tebe, ty jo?
 
 #Well, old Ian's got some advice for you.
-Dobøe, starı Ian mi dal nìjaké rady a já ti je prozradím.
+DobÅ™e, starÃ½ Ian mi dal nÄ›jakÃ© rady a jÃ¡ ti je prozradÃ­m.
 
 #We won't let you down.
-Nenecháme na tebe sáhnout.
+NenechÃ¡me na tebe sÃ¡hnout.
 
 #See you around Flick.
-Uvidíme se u Flicka.
+UvidÃ­me se u Flicka.
 
 #Oh my. I can tell we will have a communication problem.
 #Please nod if you would like to trade any goods.
-Nemùu øíct, e bychom mìli problém s komunikací.
-Øeknìte, jestli máte nìjakı zboí na obchod.
+NemÅ¯Å¾u Å™Ã­ct, Å¾e bychom mÄ›li problÃ©m s komunikacÃ­.
+Å˜eknÄ›te, jestli mÃ¡te nÄ›jakÃ½ zboÅ¾Ã­ na obchod.
 
 #You see a woman in the armored uniform of the NCR
-Vidíš enu ve zbrojní uniformì NCR
+VidÃ­Å¡ Å¾enu ve zbrojnÃ­ uniformÄ› NCR
 
 #So familiar...
-Jak nenucenı...
+Jak nenucenÃ½...
 
 #He'd be your best bet
-Bude tvùj šastnı tip.
+Bude tvÅ¯j Å¡Å¥astnÃ½ tip.
 
 #I was told you were going to turn those villagers into servants,
 #but the monsters were interfering with your plans,
 #so you had to get rid of them.
-Øíkal jsem ti, e chceme tyhle vesnièany jako pracovní sílu,
-ale ty monstra se nám pletly do plánù,
-take jsi nás jich musel zbavit.
+Å˜Ã­kal jsem ti, Å¾e chceme tyhle vesniÄany jako pracovnÃ­ sÃ­lu,
+ale ty monstra se nÃ¡m pletly do plÃ¡nÅ¯,
+takÅ¾e jsi nÃ¡s jich musel zbavit.
 
 #It also appears Vault 8 was not the only Vault with a purpose
 #other than protecting its inhabitants from the Great War.
-Také se zdá, e Vault 8 nebyl jedinım Vaultem za úèelem
-ochránit své obyvatele pøed Svìtovou Válkou.
+TakÃ© se zdÃ¡, Å¾e Vault 8 nebyl jedinÃ½m Vaultem za ÃºÄelem
+ochrÃ¡nit svÃ© obyvatele pÅ™ed SvÄ›tovou VÃ¡lkou.
 
 #Our main water pump has been acting up and now
 #it finally seems to have bit the dust.
-S naší hlavní vodní pumpou jsou problémy
-a teï to navíc vypadá, e se rozpadá na prach.
+S naÅ¡Ã­ hlavnÃ­ vodnÃ­ pumpou jsou problÃ©my
+a teÄ to navÃ­c vypadÃ¡, Å¾e se rozpadÃ¡ na prach.
 
 #You see a computer monk.
-Vidíš IT mnicha
+VidÃ­Å¡ IT mnicha
 
 #You climb into the aircraft and access the pilot terminal
-Vylezeš kokpitu a nastartuješ palubní desku.
+VylezeÅ¡ kokpitu a nastartujeÅ¡ palubnÃ­ desku.
 
 #A body retrieved from the storage tanks.
-Z akumulaèní nádre vylezlo tìlo.
+Z akumulaÄnÃ­ nÃ¡drÅ¾e vylezlo tÄ›lo.
 
 #I was wandering around and stumbled across this place surrounded
 #by barrels and barrels of funny glowing stuff. This mad guy
 #in a white coat grabbed me, prodded me with a stick thing and
 #the next thing I remember is waking up here with you.
-Toulal jsem se tu v okolí a jsem se dobelhal na toto místo
-obklopené samımi barely s podivnımi rostlinkami. Ten šílenec
-v bílém plášti mì popadl, vyzbrojil klackem...
+Toulal jsem se tu v okolÃ­ aÅ¾ jsem se dobelhal na toto mÃ­sto
+obklopenÃ© samÃ½mi barely s podivnÃ½mi rostlinkami. Ten Å¡Ã­lenec
+v bÃ­lÃ©m plÃ¡Å¡ti mÄ› popadl, vyzbrojil klackem...
 pak jsem se tu probudil s tebou.
 
 #The blue wire to the red housing
-Modré dráty k èervené vıstavbì
+ModrÃ© drÃ¡ty k ÄervenÃ© vÃ½stavbÄ›
 
 #Come back when you're mentally tougher
-Vra se zpìt z kvalitnìjším mozkem.
+VraÅ¥ se zpÄ›t z kvalitnÄ›jÅ¡Ã­m mozkem.
 
 #It's a huge chunk of machinery
-Je to poøádnı strojaøskı macek.
+Je to poÅ™Ã¡dnÃ½ strojaÅ™skÃ½ macek.
 
 #I think it was once called 'thinking outside the box'.
-Myslím, e to kdysi nìkdo nazval "nezabednìné myšlení".
+MyslÃ­m, Å¾e to kdysi nÄ›kdo nazval "nezabednÄ›nÃ© myÅ¡lenÃ­".
 
 #It's a solar scorcher.
-To je solární paliè. 
+To je solÃ¡rnÃ­ paliÄ. 
 
 #Where do you get all your equipment from?
-Odkud berete všechny svoje experimenty?
+Odkud berete vÅ¡echny svoje experimenty?
 
 #You manage to repair the computer fault
 #and bring the machine back online.
-Opravils poèítaè a napojil jej zpìt na sí.
+Opravils poÄÃ­taÄ a napojil jej zpÄ›t na sÃ­Å¥.
 
 #More than you'd ever believe if it goes wrong
-Víc ne bys kdy uvìøil, jestli by to vypálilo špatnì.
+VÃ­c neÅ¾ bys kdy uvÄ›Å™il, jestli by to vypÃ¡lilo Å¡patnÄ›.
 
 #That was a maze full of mutated monsters
-V kukuøici tam bylo plno mutovanıch monster.
+V kukuÅ™ici tam bylo plno mutovanÃ½ch monster.
 
 #After much painful searching, you come across a hidden file
-Po velice bolestivém hledání jsi narazil na skrytı soubor.
+Po velice bolestivÃ©m hledÃ¡nÃ­ jsi narazil na skrytÃ½ soubor.
 
 #You fiddle with the interface to no avail.
-Marnì se pokoušíš sít s rozhraním.
-Fidláš po èudlících, ale nic uiteèného se nedìje.
+MarnÄ› se pokouÅ¡Ã­Å¡ sÅ¾Ã­t s rozhranÃ­m.
+FidlÃ¡Å¡ po ÄudlÃ­cÃ­ch, ale nic uÅ¾iteÄnÃ©ho se nedÄ›je.
 
 #You enter a series of tunnels beneath Trapper Town.
 #The smell of rat droppings is quite strong.
-Vstoupil jsi do nìkolika tunelù pod Trapper Town.
-Pach krysích hoven je a moc silnı, pozvracel ses.
+Vstoupil jsi do nÄ›kolika tunelÅ¯ pod Trapper Town.
+Pach krysÃ­ch hoven je aÅ¾ moc silnÃ½, pozvracel ses.
 
 #The explosion causes the damaged supports to break and
 #an avalanche of rocks comes down from above. As this occurs,
 #you hear what seems to be a loud crack echo throughout
 #the cavern. As you look around you see that the other
 #weak supports are beginning to give way.
-Vıbuch prolomil zátaras z kamenù. Slušíš jak divnı zvuk
-šíøí jeskyní, máš dost nepøíjemnı pocit.
-Zanedlouho vidíš jak se vše oolo teb hroutí.
+VÃ½buch prolomil zÃ¡taras z kamenÅ¯. SluÅ¡Ã­Å¡ jak divnÃ½ zvuk
+Å¡Ã­Å™Ã­ jeskynÃ­, mÃ¡Å¡ dost nepÅ™Ã­jemnÃ½ pocit.
+Zanedlouho vidÃ­Å¡ jak se vÅ¡e oolo teb hroutÃ­.
 
 #Another support beam gives way and
 #an avalanche of rocks comes tumbling down.
-Stìna to nevydrela a hodnì skály padá dolù.
+StÄ›na to nevydrÅ¾ela a hodnÄ› skÃ¡ly padÃ¡ dolÅ¯.
 
 #This robot appears to have been designed
 #to carry heavy supplies and equipment around.
-Je zanepráznìn nošením zásob.
+Je zaneprÃ¡znÄ›n noÅ¡enÃ­m zÃ¡sob.
 
 #Proceed through work area with caution.
-Pokraèujte s patrností.
+PokraÄujte s patrnostÃ­.
 
 #Umm..uhh. No, that's alright. No need for that.
 #Here's the key to the shack nearby. There's a small pen
 #in there. Take however many you need. 
-No, ehm... Ne, to je v pohodì. To není tøeba.
-Tady je klíè do tı chajdy poblí.
-Je tam malé pero. Vem si ale kolik chceš.
+No, ehm... Ne, to je v pohodÄ›. To nenÃ­ tÅ™eba.
+Tady je klÃ­Ä do tÃ½ chajdy poblÃ­Å¾.
+Je tam malÃ© pero. Vem si ale kolik chceÅ¡.
 
 #You enter a wooded area.
 #Up ahead is a house with several armed men nearby.
-Vcházíš do opevnìné oblasti.
-Smìrem dál je dùm s nìkolika mui uvnitø.
+VchÃ¡zÃ­Å¡ do opevnÄ›nÃ© oblasti.
+SmÄ›rem dÃ¡l je dÅ¯m s nÄ›kolika muÅ¾i uvnitÅ™.
 
 #Well, our warriors are stretched very thin at the moment.
 #Our tribe has suffered a lot in the past few years
 #from deaths and very few births.
-Nue, naši váleèníci jsou velmi øídce rozprostøeni.
-Náš kmen toho v minulosti mnoho pøetrpìl,
-pár let od smrti a velmi málo zrození. 
+NuÅ¾e, naÅ¡i vÃ¡leÄnÃ­ci jsou velmi Å™Ã­dce rozprostÅ™eni.
+NÃ¡Å¡ kmen toho v minulosti mnoho pÅ™etrpÄ›l,
+pÃ¡r let od smrti a velmi mÃ¡lo zrozenÃ­. 
 
 #Well, some time ago I went trading at a nearby village.
 #As I was there, the village was attacked by slavers. Those that
 #survived were rounded up and brought to that camp. Every week
 #new shipments of slaves come in and previous shipments leave.
 #It's disgusting how people are treated these days.
-Dobøe, nìkdy jdu prodávat blízko vesnice. As Kdy jsem tam byl,
-vesnice byla napadena otrokáøi.
-Kdy pøeil, byl odveden do tábora.
-Kadı tıden pøecházeli nové zásilky otrokù.
-Je to odporné jak se chovali tyto lidé.
+DobÅ™e, nÄ›kdy jdu prodÃ¡vat blÃ­zko vesnice. As KdyÅ¾ jsem tam byl,
+vesnice byla napadena otrokÃ¡Å™i.
+Kdy pÅ™eÅ¾il, byl odveden do tÃ¡bora.
+KaÅ¾dÃ½ tÃ½den pÅ™echÃ¡zeli novÃ© zÃ¡silky otrokÅ¯.
+Je to odpornÃ© jak se chovali tyto lidÃ©.
 
 
 #:::He belches loudly:: Whaddya want?
-:::Øve nahlas:: Cóó chceeš?
+:::Å˜ve nahlas:: CÃ³Ã³ chceeÅ¡?
 
 #I'd like you to hack into a computer for me.
-Rád bych, aby ses mi dostal do poèítaèe.
+RÃ¡d bych, aby ses mi dostal do poÄÃ­taÄe.
 
 #Well, let's just say I'm an information retrieval specialist.
-Øeknìme, e jsem informaèní záchrannı specialista.
+Å˜eknÄ›me, Å¾e jsem informaÄnÃ­ zÃ¡chrannÃ½ specialista.
 
 #I'll bet you sucked.
-Vsadím se, e jste chlastali.
+VsadÃ­m se, Å¾e jste chlastali.
 
 #Snap out of it, Sparky. We got shit to do.
-Kašli na to. Máme hovno na práci.
+KaÅ¡li na to. MÃ¡me hovno na prÃ¡ci.
 
 #All right, but shit might hit the fan.
-V poøádku, ale pro fanouška to není problém.
+V poÅ™Ã¡dku, ale pro fanouÅ¡ka to nenÃ­ problÃ©m.
 
 #Looks like somebody hid this in the vent.
-Vypadá to, e se nìkdo schovával v téhle ventilaèní šachtì.
+VypadÃ¡ to, Å¾e se nÄ›kdo schovÃ¡val v tÃ©hle ventilaÄnÃ­ Å¡achtÄ›.
 
 #Uh, we talk this out?
-Uh, ty nevìøíš na lásku na první pohled?
+Uh, ty nevÄ›Å™Ã­Å¡ na lÃ¡sku na prvnÃ­ pohled?
 
 #The stench of rust and decay is overbearing.
 #You have trouble breathing freely and
 #hit an exposed rebar. Ouch.
-Zápach rzi a rozkladu je znièující.
-Máš potíe s dıcháním a dostals erekci jako šutr. Ouch.
+ZÃ¡pach rzi a rozkladu je zniÄujÃ­cÃ­.
+MÃ¡Å¡ potÃ­Å¾e s dÃ½chÃ¡nÃ­m a dostals erekci jako Å¡utr. Ouch.
 
 #Are you talking about that rat infested
 #little shit-hole down the way?
-Ty myslíš tu krysama zamoøenou prdelní díru tamtím smìrem?
+Ty myslÃ­Å¡ tu krysama zamoÅ™enou prdelnÃ­ dÃ­ru tamtÃ­m smÄ›rem?
 
 #She said you're hot
-Øekla, e jsi vášnivı
+Å˜ekla, Å¾e jsi vÃ¡Å¡nivÃ½
 
 #I'm going to move on Vikki... umm... soon
-Chystám se pøesvìdèit Vikki... hmm... brzy
+ChystÃ¡m se pÅ™esvÄ›dÄit Vikki... hmm... brzy
 
 #As my job is to act as the Emperor's screen
-Protoe mım úkolem je fungovat jako Císaøova obrazovka.
+ProtoÅ¾e mÃ½m Ãºkolem je fungovat jako CÃ­saÅ™ova obrazovka.
 
 #Good enough for me
-To mi nestaèí
+To mi nestaÄÃ­
 
 #Me and my deputies will take it from here
-Já a moji zástupci je odtamtud vyzvedneme
+JÃ¡ a moji zÃ¡stupci je odtamtud vyzvedneme
 
 #Want to come along?
-Zvládneš to?
+ZvlÃ¡dneÅ¡ to?
 
-#I’m not afraid of you.
-Nemíním se ti taky omlouvat.
+#Iâ€™m not afraid of you.
+NemÃ­nÃ­m se ti taky omlouvat.
 
-#You’re a lot uglier this way
-V tomhle jsi trochu nepøíjemnı
+#Youâ€™re a lot uglier this way
+V tomhle jsi trochu nepÅ™Ã­jemnÃ½
 
 #Most mutants didn't have the mind or
 #will to withstand the strain
-Spousta mutantù je hloupá nebo nemá chu nìco tvoøit
+Spousta mutantÅ¯ je hloupÃ¡ nebo nemÃ¡ chuÅ¥ nÄ›co tvoÅ™it
 
-#Kickin’ some ass… again
-Pøipravte si zadky... jdeme na to
+#Kickinâ€™ some assâ€¦ again
+PÅ™ipravte si zadky... jdeme na to
 
 #Not very nice.
-Ne, dìkuji
+Ne, dÄ›kuji
 
 #Is anyone here sane?
-Jsou tam všichni v poøádku?
+Jsou tam vÅ¡ichni v poÅ™Ã¡dku?
 
-#Far as I can tell, it’s safe to camp here.
-Odsud je kamkoliv daleko, radìji se tu utáboøíme
+#Far as I can tell, itâ€™s safe to camp here.
+Odsud je kamkoliv daleko, radÄ›ji se tu utÃ¡boÅ™Ã­me
 
 #I dunno
-Já parchant
+JÃ¡ parchant
 
 #This broken bone can only grind so much before I pass out, boss
-Ta zlomená kost mùe otravovat, kdy jí nechám bıt, šéfe
+Ta zlomenÃ¡ kost mÅ¯Å¾e otravovat, kdyÅ¾ jÃ­ nechÃ¡m bÃ½t, Å¡Ã©fe
 
 #Don't think I'm wanted here, chief.
-Nemyslím, e by sem tam chtìl, šéfe
+NemyslÃ­m, Å¾e by sem tam chtÄ›l, Å¡Ã©fe
 
 #Check out the big brain on Myron
-Vyzkoušíme Myronùv velkej mozek
+VyzkouÅ¡Ã­me MyronÅ¯v velkej mozek
 
 #Phwheew!!! Did someone just cut a muffin?
-Phwheew!!! Kdo mi dá koláèek?
+Phwheew!!! Kdo mi dÃ¡ kolÃ¡Äek?
 
 #Whoa...I feel a little funny
-Whoa...Cítím se trapnì
+Whoa...CÃ­tÃ­m se trapnÄ›
 
-#He smells like he’s been tending brahmin
-Smrdí jako kdyby mìl nìco s brahmínami
+#He smells like heâ€™s been tending brahmin
+SmrdÃ­ jako kdyby mÄ›l nÄ›co s brahmÃ­nami
 
 #Sorry about Chad. He had it coming
-Omluv Chada. Má toho moc
+Omluv Chada. MÃ¡ toho moc
 
-#I’m off duty now.
-Teï mám práci.
+#Iâ€™m off duty now.
+TeÄ mÃ¡m prÃ¡ci.
 
 #Come back when you got enough guts to make the trip
-Vra se, a nebudeš mít sraèky kolem huby
+VraÅ¥ se, aÅ¾ nebudeÅ¡ mÃ­t sraÄky kolem huby
 
 #You abandoned the goddamn caravan!
-Ty si budeš ještì vymejšlet!
+Ty si budeÅ¡ jeÅ¡tÄ› vymejÅ¡let!
 
-#Well, I’m kind of undercover right now
-Teï jsem trochu zaneprázdnìn
+#Well, Iâ€™m kind of undercover right now
+TeÄ jsem trochu zaneprÃ¡zdnÄ›n
 
 #I guess I can understand that
-No tomu asi nerozumím
+No tomu asi nerozumÃ­m
 
-#That’s $5, plus a $1 tip for me, which makes it $6
-To bude $5, plus DPH $1, to dìlá $6.
+#Thatâ€™s $5, plus a $1 tip for me, which makes it $6
+To bude $5, plus DPH $1, to dÄ›lÃ¡ $6.
 
-#Caravans all over the place. That’s about normal.
-Karavany dojely kam mìly. Ale to je úplnì normální.
+#Caravans all over the place. Thatâ€™s about normal.
+Karavany dojely kam mÄ›ly. Ale to je ÃºplnÄ› normÃ¡lnÃ­.
 
 #Not much. 
-To bys chtìl vìdìt co.
+To bys chtÄ›l vÄ›dÄ›t co.
 
-#Apparently he’s got a prize of some sort
-Podle všeho na to bude mít svùj vlastní názor
+#Apparently heâ€™s got a prize of some sort
+Podle vÅ¡eho na to bude mÃ­t svÅ¯j vlastnÃ­ nÃ¡zor
 
 #I bet the two of you would get along just fine
-Vsadím se, e byste se k sobì hodili
+VsadÃ­m se, Å¾e byste se k sobÄ› hodili
 
 #I guess I am a bit light right now
-Teï jako by se mi rozsvítilo, máte pravdu
+TeÄ jako by se mi rozsvÃ­tilo, mÃ¡te pravdu
 
 #My poor Torr's run off.
-Mùj nehodnı syn Torr utekl.
+MÅ¯j nehodnÃ½ syn Torr utekl.
 
 #You see a tall, heavily muscled man whose face,
 #beneath his beetling brow, is habitually
 #twisted into a bully's smirking scowl.
-Vidíš velkého, velmi svalnatého mue jeho oblièej je,
-zøejmì vrozenì, zkroucenı do rváèského úšklebku.
+VidÃ­Å¡ velkÃ©ho, velmi svalnatÃ©ho muÅ¾e jehoÅ¾ obliÄej je,
+zÅ™ejmÄ› vrozenÄ›, zkroucenÃ½ do rvÃ¡ÄskÃ©ho ÃºÅ¡klebku.
 
 #Hey there, goody-two-shoes.
-Hej ty, cukrouši s polobotkama.
+Hej ty, cukrouÅ¡i s polobotkama.
 
 #I'm not as cool under pressure as you two are.
-V takovıch situacích se nedokáu chovat
-tak chladnokrevnì jako vy
+V takovÃ½ch situacÃ­ch se nedokÃ¡Å¾u chovat
+tak chladnokrevnÄ› jako vy
 
 #I guess I'll be moving on then
-Myslím, e se do toho dáme.
+MyslÃ­m, Å¾e se do toho dÃ¡me.
 
-#Well, there’s a canyon just east of where we graze the brahmin
-No, na vıchod odsud, tu máme kaòon, kam chodíme pást brahmíny
+#Well, thereâ€™s a canyon just east of where we graze the brahmin
+No, na vÃ½chod odsud, tu mÃ¡me kaÅˆon, kam chodÃ­me pÃ¡st brahmÃ­ny
 
-#I guess that’s a good idea
-Promiò mi moji zvìdavost
+#I guess thatâ€™s a good idea
+PromiÅˆ mi moji zvÄ›davost
 
 #I'd sure appreciate any tips you could give me
-Ale více ocením nìjaké spropitné
+Ale vÃ­ce ocenÃ­m nÄ›jakÃ© spropitnÃ©
 
 #I'll hang back and give you some room
-Zabalím to a nechám ti volno
+ZabalÃ­m to a nechÃ¡m ti volno
 
 #Hey, maybe you figure I can kick your ass?
-Hele, nebude ti vadit, kdy ti nakopu prdel?
+Hele, nebude ti vadit, kdyÅ¾ ti nakopu prdel?
 
 #I'm the President of the United States of America and
 #I must say I've seldom seen a stranger, or sorrier,
 #delegation of misfits in all my life.
-Jsem prezident Spojenıch státù americkıch a musím øíct,
-e jsem tu za celı svùj ivot nepotkal mnoho cizincù,
-nebo spíše zástupce smutné delegace ztracenıch existencí
+Jsem prezident SpojenÃ½ch stÃ¡tÅ¯ americkÃ½ch a musÃ­m Å™Ã­ct,
+Å¾e jsem tu za celÃ½ svÅ¯j Å¾ivot nepotkal mnoho cizincÅ¯,
+nebo spÃ­Å¡e zÃ¡stupce smutnÃ© delegace ztracenÃ½ch existencÃ­
 
 #There's no way in hell that I can let you do this.
-Není tu ádnı zpùsob, jak se to peklo dá zastavit?
+NenÃ­ tu Å¾Ã¡dnÃ½ zpÅ¯sob, jak se to peklo dÃ¡ zastavit?
 
 #You're not very nice
-Nejsi pøíliš pìknı
+Nejsi pÅ™Ã­liÅ¡ pÄ›knÃ½
 
 #They need something to take their minds off this place.
-Je to, jako kdyby chtìli všichni spáchat sebevradu.
+Je to, jako kdyby chtÄ›li vÅ¡ichni spÃ¡chat sebevraÅ¾du.
 
 #I'm a real sky-pilot with Jet
-Jsem vyhlášenı pilot Jetu
+Jsem vyhlÃ¡Å¡enÃ½ pilot Jetu
 
 #He fidgets uncomfortably
-Nepohodlnì se zavrtí
+NepohodlnÄ› se zavrtÃ­
 
 #Time to take out the trash
-Èas vynést odpadky
+ÄŒas vynÃ©st odpadky
 
 #He's looking around like a ferret
-Vypadá trochu jako tchoø
+VypadÃ¡ trochu jako tchoÅ™
 
 #Those legs go all the way up?
-Ty nohy... zajímalo by mì, jak to vypadá na místì,
-kde se potkávají
+Ty nohy... zajÃ­malo by mÄ›, jak to vypadÃ¡ na mÃ­stÄ›,
+kde se potkÃ¡vajÃ­
 
 #Is that really a vise on yer mutant's shoulder?
-Nemá ten tvùj mutant rozvázanı tkanièky na botì?
+NemÃ¡ ten tvÅ¯j mutant rozvÃ¡zanÃ½ tkaniÄky na botÄ›?
 
 #Drugs make me feel all pixilated
 Z drog jsme celej pixelovatej
 
 #Ah, for cryin' out loud
-Ah, teï øveš.
+Ah, teÄ Å™veÅ¡.
 
 #we got a full fusion cell
-máme pùl fúzní buòky
+mÃ¡me pÅ¯l fÃºznÃ­ buÅˆky
 
 #Those fools in Vault City have only signed their
 #death warrants by destroying our reactor
-Ti pitomci z Vault City jenom vyjádøili své vyhroování
-smrtí znièením našeho reaktoru
+Ti pitomci z Vault City jenom vyjÃ¡dÅ™ili svÃ© vyhroÅ¾ovÃ¡nÃ­
+smrtÃ­ zniÄenÃ­m naÅ¡eho reaktoru
 
 #No way, no how, am I going to be your message boy
-ádná proè, ádná jak. Prostì budu tvùj posel, bez otázek
+Å½Ã¡dnÃ¡ proÄ, Å¾Ã¡dnÃ¡ jak. ProstÄ› budu tvÅ¯j posel, bez otÃ¡zek
 
 
 #(The old man pushes his broken glasses up on his nose
 #and sighs in exasperation.) YES? What is it you want?
 #Come on, man, out with it!
-#{Okee dokee it coming out…you better stand back (Zip.)
+#{Okee dokee it coming outâ€¦you better stand back (Zip.)
 
-(Staøec si poposune své rozbité brıle a podrádìnì vzdychne.)
-ANO? Co chceš?
-No tak, chlape, ven s tím!
-Dobrá. Øeknu to... radìji odstup (Mlè.)
+(StaÅ™ec si poposune svÃ© rozbitÃ© brÃ½le a podrÃ¡Å¾dÄ›nÄ› vzdychne.)
+ANO? Co chceÅ¡?
+No tak, chlape, ven s tÃ­m!
+DobrÃ¡. Å˜eknu to... radÄ›ji odstup (MlÄ.)
 
 #You must be thinking of old bone nose here
-Ty urèitì myslíš "Starou kost v nose"
+Ty urÄitÄ› myslÃ­Å¡ "Starou kost v nose"
 
 #I'm outta here
 Nejsem
 
 #...and the man-eating giant ants
-A muem, kterı jí obrovské mravence
+A muÅ¾em, kterÃ½ jÃ­ obrovskÃ© mravence
 
 #Folds arms
-Dá nohu pøes nohu
+DÃ¡ nohu pÅ™es nohu
 
 #No way in Golgotha am I going to even
 #TOUCH that subject. Piss off
-O Golgotì moc nemluv, ani já o tom nerad mluvím, kušuj s tím
+O GolgotÄ› moc nemluv, ani jÃ¡ o tom nerad mluvÃ­m, kuÅ¡uj s tÃ­m
 
 #Stupid metal bore's acting up again...
-Zase stupidní, nudné elezo...
+Zase stupidnÃ­, nudnÃ© Å¾elezo...
 
 #He's got quite a spare tire going
-Asi má moc volného èasu
+Asi mÃ¡ moc volnÃ©ho Äasu
 
 #Let the little shit go back to playing
-Nech to malé hovno, a si hraje samo
+Nech to malÃ© hovno, aÅ¥ si hraje samo
 
 #Give the Pip Boy the finger
-Podáš Pip Boyi ruku
+PodÃ¡Å¡ Pip Boyi ruku
 
 #Yeah, you better run, you little shit
-Ááá, tak teï pošlapeš líp, ty malej ïáblíku
+ÃÃ¡Ã¡, tak teÄ poÅ¡lapeÅ¡ lÃ­p, ty malej ÄÃ¡blÃ­ku
 
 #You just make sure that nothing happens to that pretty
 #little tail of yours, now. (heh, hee, hee)
-A ujisti se, jestli tu nìkde nekouká malı
-rùovı ocásek. (he, hehe, hehe)
+A ujisti se, jestli tu nÄ›kde nekoukÃ¡ malÃ½
+rÅ¯Å¾ovÃ½ ocÃ¡sek. (he, hehe, hehe)
 
 #Say, your antenna don't pick up all the channels do it?
-A nechceš náhodou øíct: "Hej, ty anténo!
-Kolik chytneš programù?"
+A nechceÅ¡ nÃ¡hodou Å™Ã­ct: "Hej, ty antÃ©no!
+Kolik chytneÅ¡ programÅ¯?"
 
 #Da aggle oo!
-Hyperbola, parabola - základ ivota je škola!
+Hyperbola, parabola - zÃ¡klad Å¾ivota je Å¡kola!
 
 #Oh, look - the goody two-shoes, lollipop kid
-Ó, podívejme - uèinìná dobrota na dvou nohách,
-se k nám zašla podívat
+Ã“, podÃ­vejme - uÄinÄ›nÃ¡ dobrota na dvou nohÃ¡ch,
+se k nÃ¡m zaÅ¡la podÃ­vat
 
 #Dogmeat
-rádlo pro psy
+Å½rÃ¡dlo pro psy
 
 #Lock and load
-Zamkni a nalo
+Zamkni a naloÅ¾
 
 #a mutant who carries a rather wicked-looking weapon
-Mutanta s nepøíjemnì nedoèkavou zbraní
+Mutanta s nepÅ™Ã­jemnÄ› nedoÄkavou zbranÃ­
 
 #Gonna make me?
-Udìláš mì?
+UdÄ›lÃ¡Å¡ mÄ›?
 
 #Way to kick the Enclave's ass!
-Cesta k nakopání prdele Enklávì!
+Cesta k nakopÃ¡nÃ­ prdele EnklÃ¡vÄ›!
 
 #This is private property, please move along
-Tohle je soukromı pozemek, prosím, pokraèuj
+Tohle je soukromÃ½ pozemek, prosÃ­m, pokraÄuj
 
 #I knew we could take those pussies
-Vìdìl jsem, e jsme mohli ty kundy sebrat
+VÄ›dÄ›l jsem, Å¾e jsme mohli ty kundy sebrat
 
 #You want some of me, that it? I'll fix your wagon
-Chceš po mì nìco, je to tak? Seøídím ti vagón
+ChceÅ¡ po mÄ› nÄ›co, je to tak? SeÅ™Ã­dÃ­m ti vagÃ³n
 
 #Right in the jewels
-Pøímo do rodinnıch pokladù
+PÅ™Ã­mo do rodinnÃ½ch pokladÅ¯
 
 #Goddurn piece o' brahmin shit!
-Né, jenom trochu kravskıch hoven!
+NÃ©, jenom trochu kravskÃ½ch hoven!
 
 #Also looks like you could bounce a quarter off of these sheets
-Tìmi prostìradly by se dal odrazit oddíl pravidelného vojska
+TÄ›mi prostÄ›radly by se dal odrazit oddÃ­l pravidelnÃ©ho vojska
 
 #How do you go to the bathroom with that thing on?
-Jak to dìláš v té vìci na záchodì?
+Jak to dÄ›lÃ¡Å¡ v tÃ© vÄ›ci na zÃ¡chodÄ›?
 
 #Talk about a hot-foot
-Mám dojem, e si sundám ponoky a pak uvidíme! Nebo ucítíme?
+MÃ¡m dojem, Å¾e si sundÃ¡m ponoÅ¾ky a pak uvidÃ­me! Nebo ucÃ­tÃ­me?
 
 #You fight like old people fuck!
-Biješ se jako uøíznutej kokot.
+BijeÅ¡ se jako uÅ™Ã­znutej kokot.
 
 #I got your backs
 Vezmem to zezadu!
 
 #Narg has become quite adept at crushing,
 #and slicing, and dicing
-Je to expert v zabíjení, jídle a hraní kostek.
+Je to expert v zabÃ­jenÃ­, jÃ­dle a hranÃ­ kostek.
 
 #Screw you
-Zašlápnu tì jako hada
+ZaÅ¡lÃ¡pnu tÄ› jako hada
 
 #Hey, boys, look who's back
-Hej, hoši, kouknìte kdo je vzadu
+Hej, hoÅ¡i, kouknÄ›te kdo je vzadu
 
 #You see a woman with a sharp eye 
-Vidíš ostrookou enu
+VidÃ­Å¡ ostrookou Å¾enu
 
 #and then they come in to blow off some steam
-no a pak pøijdou zpìt a stahují jim ty kùe nad parou
+no a pak pÅ™ijdou zpÄ›t a stahujÃ­ jim ty kÅ¯Å¾e nad parou
 
 #I got my quarters
-Dostal jsem svou ètvrtinu!
+Dostal jsem svou Ätvrtinu!
 
 #I could sell 'em for fifty, hundred bucks a pop,
 #give you 10% of the action
-Mùu je prodat po padesáti, sto samcù k odstøelu,
-dám ti 10% po akci
+MÅ¯Å¾u je prodat po padesÃ¡ti, sto samcÅ¯ k odstÅ™elu,
+dÃ¡m ti 10% po akci
 
 #Hey there, "Citizen."
-Hej tady, "Obèane."
+Hej tady, "ObÄane."
 
 #Just find yourself a shovel and come on back
-Nejdøív najdi sám sebe a pak lopatu a vra se sem
+NejdÅ™Ã­v najdi sÃ¡m sebe a pak lopatu a vraÅ¥ se sem
 
 #That's a little steep
-Je to jen malı krùèek dopøedu
+Je to jen malÃ½ krÅ¯Äek dopÅ™edu
 
 #He's surrounded by guards
-Je obloenı dokoleèka hlídaèi
+Je obloÅ¾enÃ½ dokoleÄka hlÃ­daÄi
 
 #Hey, before you go...you going to be stopping by
 #and seeing my wife again, tribal?
-Hej, døív ne odejdeš... nechceš se znovu zastavit
-u mojí eny, divochu?
+Hej, dÅ™Ã­v neÅ¾ odejdeÅ¡... nechceÅ¡ se znovu zastavit
+u mojÃ­ Å¾eny, divochu?
 
 #Need to stop cursing around the kids
-Potøebuju zastavit tu kletbu, která koluje kolem našich dìtí
+PotÅ™ebuju zastavit tu kletbu, kterÃ¡ koluje kolem naÅ¡ich dÄ›tÃ­
 
 #Tell you what, I've been in these woods for a LONG time,
 #if you catch my drift
-Øekni co chceš, jestlie mì chytíš,
-ale v tìchhle lesích u iju hodnì dlouho.
+Å˜ekni co chceÅ¡, jestliÅ¾e mÄ› chytÃ­Å¡,
+ale v tÄ›chhle lesÃ­ch uÅ¾ Å¾iju hodnÄ› dlouho.
 
 #Davin seems no worse for wear after the experience
-Po tomto záitku se zdá,
-e Davin neutrpìl ádnou újmu na svém odìvu.
+Po tomto zÃ¡Å¾itku se zdÃ¡,
+Å¾e Davin neutrpÄ›l Å¾Ã¡dnou Ãºjmu na svÃ©m odÄ›vu.
 
 #Yeah, yeah, cut the "holier-than-thou" crap
-Jo, jo, vyøíznout "svaté" hovno
+Jo, jo, vyÅ™Ã­znout "svatÃ©" hovno
 
 #He seems to have a massive gauntlet of some sort
 #poking out of his pouch
-Vypadá to, e se s nìjakou rukavicí prohrabává v báglu
+VypadÃ¡ to, Å¾e se s nÄ›jakou rukavicÃ­ prohrabÃ¡vÃ¡ v bÃ¡glu
 
 #Do you have the armor to be hardened on you?
-Máte zbroj, která by se zpevnila na vás?
+MÃ¡te zbroj, kterÃ¡ by se zpevnila na vÃ¡s?
 
 #She looks like she's going through withdrawal
-Vypadá, jako kdy má všechno na salámu
+VypadÃ¡, jako kdyÅ¾ mÃ¡ vÅ¡echno na salÃ¡mu
 
 #You killed my son!
-Jsi zavradìn svım synem!
+Jsi zavraÅ¾dÄ›n svÃ½m synem!
 
 #Tonight's the night
 Dnes v noci bude noc
 
 #What're you doin' on my turf?
-Co pohledáváš na mém drnu?
+Co pohledÃ¡vÃ¡Å¡ na mÃ©m drnu?
 
 #Didn't like that asshole anyway
-Kadopádnì jsem ten prdelní otvor nemìl rád 
+KaÅ¾dopÃ¡dnÄ› jsem ten prdelnÃ­ otvor nemÄ›l rÃ¡d 
 
 #Metzger's going to be pissed
-Metzger se asi pochèije
+Metzger se asi pochÄije
 
 #I need to replenish my jet supply
-Potøebuju znovu naplnit moje tryskovı zásobníky
+PotÅ™ebuju znovu naplnit moje tryskovÃ½ zÃ¡sobnÃ­ky
 
 #Dang, that was nasty shit
 Dangu, to nic nebylo
 
 #Awwwww... there, there. Anytime you need a hug,
 #you come see Aunt Lynette, all right?
-Hrrmmm... dobrá, dobrá. Vdy kdy ti huèí v kládì,
-tak jdeš za tetièkou Lynette, e jo?
+Hrrmmm... dobrÃ¡, dobrÃ¡. VÅ¾dy kdyÅ¾ ti huÄÃ­ v klÃ¡dÄ›,
+tak jdeÅ¡ za tetiÄkou Lynette, Å¾e jo?
 
 #You seem like a person with a straight head
-Vypadáš jako osoba s rovnou hlavou
+VypadÃ¡Å¡ jako osoba s rovnou hlavou
 
 #That's a little steep. Let me get back to you
-To je malı kopec. Dovolte, abych k vám pøišel
+To je malÃ½ kopec. Dovolte, abych k vÃ¡m pÅ™iÅ¡el
 
 #I have one right here
-Mám zde jedno právo
+MÃ¡m zde jedno prÃ¡vo
 
 #you sit through a short movie 
-ty zasedáš ohlednì krátkého filmu
+ty zasedÃ¡Å¡ ohlednÄ› krÃ¡tkÃ©ho filmu
 
 #Watch out for geckos that have changed color
-Nauète se rozlišovat geckony podle barev
+NauÄte se rozliÅ¡ovat geckony podle barev
 
 #You see a scruffy looking person.
-Vidíš zátylek rozhlíející se osoby
+VidÃ­Å¡ zÃ¡tylek rozhlÃ­Å¾ejÃ­cÃ­ se osoby
 
 #It takes too much effort set up the ramps for just one person
-Kvùli jednomu èlovìku se tu nevyplatí stavìt nìjakou skluzavku
+KvÅ¯li jednomu ÄlovÄ›ku se tu nevyplatÃ­ stavÄ›t nÄ›jakou skluzavku
 
 #No idea where all that brahmin crap keeps coming from
-Netuším, kde se všechny ty kecy z tìch brahmín berou
+NetuÅ¡Ã­m, kde se vÅ¡echny ty kecy z tÄ›ch brahmÃ­n berou
 
 #T-Ray thinks a little too highly of himself
-Trochu více thetapaprskù (není pouito ve høe)
+Trochu vÃ­ce thetapaprskÅ¯ (nenÃ­ pouÅ¾ito ve hÅ™e)
 
 #Please go away, slaver
-Prosím tì, jdi slintat nìkam jinam
+ProsÃ­m tÄ›, jdi slintat nÄ›kam jinam
 
 #I feel like I've been in here forever
-Táák to je lepší ne soulo, málem se mi vyvalil bok
+TÃ¡Ã¡k to je lepÅ¡Ã­ neÅ¾ souloÅ¾, mÃ¡lem se mi vyvalil bok
 
-#(O brahmínách.) Hmm, I wonder why nobody rides them
-Se divím, e je ještì nikdo neojel
+#(O brahmÃ­nÃ¡ch.) Hmm, I wonder why nobody rides them
+Se divÃ­m, Å¾e je jeÅ¡tÄ› nikdo neojel
 
 #Marcus must be pissed that I keep gettin' drunk like this
-Tenhle chlast šmakuje jako Marcusovy chcanky
+Tenhle chlast Å¡makuje jako Marcusovy chcanky
 
-#Oh, baby… life is hard
-Mmm, no jo, ivot je jako ebøík do kurníku, krátkı a posranı
+#Oh, babyâ€¦ life is hard
+Mmm, no jo, Å¾ivot je jako Å¾ebÅ™Ã­k do kurnÃ­ku, krÃ¡tkÃ½ a posranÃ½
 
 #Oh, crap!
 Sakra, spadl jsem do hovna!
 
 #I was just pulling your leg
-Jenom jsem se snail spravit ti nohu
+Jenom jsem se snaÅ¾il spravit ti nohu
 
 #Are you one of the janitors?
-Ty jsi jeden z vyznavaèù sado-maso?
+Ty jsi jeden z vyznavaÄÅ¯ sado-maso?
 
 #Great. Another tribal shit-kicker
-Skvìlé. Další vyznavaè análu.
+SkvÄ›lÃ©. DalÅ¡Ã­ vyznavaÄ anÃ¡lu.
 
 #Head to the Cat's Paw!
-Jdìte po hlavì do Koèièí Packy!
+JdÄ›te po hlavÄ› do KoÄiÄÃ­ Packy!
 
 #I heard Tommy the Balls wants to give you a private screening
-Slyšel jsem, e Tommy the Balls by ti chtìl udìlat
-podrobnou prohlídku v soukromí
+SlyÅ¡el jsem, Å¾e Tommy the Balls by ti chtÄ›l udÄ›lat
+podrobnou prohlÃ­dku v soukromÃ­
 
 #I have the *biggest* crush on her,
 #but I'm too afraid to say anything
-Mám *nejvìtší vìc* na píchání en,
-ale je mi líto, nic neøeknu
+MÃ¡m *nejvÄ›tÅ¡Ã­ vÄ›c* na pÃ­chÃ¡nÃ­ Å¾en,
+ale je mi lÃ­to, nic neÅ™eknu
 
 #Fight past that shit
-Bojovat líp ne hovno
+Bojovat lÃ­p neÅ¾ hovno
 
 #What an ass! Uh, bad ass, that is
-Jeiš to je blb! Fakt totál
+JeÅ¾iÅ¡ to je blb! Fakt totÃ¡l
 
 #Man, I gotta drain the snake
-Èéèe, musim jít vymaèkat hada
+ÄŒÃ©Äe, musim jÃ­t vymaÄkat hada
 
 #::Laughs:: Your mutant has a vise growing out of his shoulder
-::Smìje se:: Ten tvùj mutant má hovno na botì.
+::SmÄ›je se:: Ten tvÅ¯j mutant mÃ¡ hovno na botÄ›.
 
 #He looks a little jumpy
-Vypadá jako malı skokan
+VypadÃ¡ jako malÃ½ skokan
 
 #I hear Tommy the Balls is in town. Better lay low
-Slyšel jsem, e Tommy "Koule" je ve mìstì. Radši si jí pøiprav
+SlyÅ¡el jsem, Å¾e Tommy "Koule" je ve mÄ›stÄ›. RadÅ¡i si jÃ­ pÅ™iprav
 
 #Maybe NOW you want to get laid?
-Nemìl bys teï chu si na chvíli LEHNOUT?
+NemÄ›l bys teÄ chuÅ¥ si na chvÃ­li LEHNOUT?
 
-#(Pasák) When you gonna set ME up in the biz,
+#(PasÃ¡k) When you gonna set ME up in the biz,
 #mistah movie staaar?
-Kdy si spolu zahrajeme v nìjakım prima bi filmu, brouku?
+Kdy si spolu zahrajeme v nÄ›jakÃ½m prima bi filmu, brouku?
 
 #There are track marks on her arm intermixed
 #with bruises and lash marks
-Na pai má stopy po pneumatice,
-pøekryté èerstvımi škrábanci
+Na paÅ¾i mÃ¡ stopy po pneumatice,
+pÅ™ekrytÃ© ÄerstvÃ½mi Å¡krÃ¡banci
 
 #If you don't like what I got,
 #get your ass to that shyster Buster
-Jestli se ti nìco nelíbí,
-nastav zadek Busterovi a tì mùe vykopnout
+Jestli se ti nÄ›co nelÃ­bÃ­,
+nastav zadek Busterovi aÅ¥ tÄ› mÅ¯Å¾e vykopnout
 
 #You think he's a mechanic, but he is wearing a sidearm
 #which does seem a little odd
-Myslíš si, e je mechanik, ale on má umìlou ruku.
-To ho dìlá trochu nesoumìrnım
+MyslÃ­Å¡ si, Å¾e je mechanik, ale on mÃ¡ umÄ›lou ruku.
+To ho dÄ›lÃ¡ trochu nesoumÄ›rnÃ½m
 
 #Bad ticker, Doc Jubilee says
-Jak øíká doktor Jubilee, koupil si špatnı lístek
+Jak Å™Ã­kÃ¡ doktor Jubilee, koupil si Å¡patnÃ½ lÃ­stek
 
 #Take out Bishop instead
-Bishopa z toho radìji vynechme
+Bishopa z toho radÄ›ji vynechme
 
 #Leave the damn bookcases alone before
 #I have to impose extreme sanctions on your ass!
-Nech bıt tu zatracenou knihovnu na pokoji.
-Napøed musím vyøídit pár dùleitıch jednání s tvojí prdelí!
+Nech bÃ½t tu zatracenou knihovnu na pokoji.
+NapÅ™ed musÃ­m vyÅ™Ã­dit pÃ¡r dÅ¯leÅ¾itÃ½ch jednÃ¡nÃ­ s tvojÃ­ prdelÃ­!
 
 #I'll never make it to a shelter
-Nikdy to nebudu dìlat bez štítu
+Nikdy to nebudu dÄ›lat bez Å¡tÃ­tu
 
 #It does not respond to you
-Nedá ti ani šanci zareagovat
+NedÃ¡ ti ani Å¡anci zareagovat
 
 #Travelers avoided the Den, hearing of the evils
 #committed within its walls
-Návštìvníci se Denu zdaleka vyhıbali.
-Proslıchalo se, e v jeho zdech sídlí sám ïábel
+NÃ¡vÅ¡tÄ›vnÃ­ci se Denu zdaleka vyhÃ½bali.
+ProslÃ½chalo se, Å¾e v jeho zdech sÃ­dlÃ­ sÃ¡m ÄÃ¡bel
 
-@A to je pro dnešek vše, pøátelé, tádydádydá!
-
-
+@A to je pro dneÅ¡ek vÅ¡e, pÅ™Ã¡telÃ©, tÃ¡dydÃ¡dydÃ¡!
 
 
 
@@ -884,16 +882,18 @@ Proslıchalo se, e v jeho zdech sídlí sám ïábel
 
 
 
-#Následující hlášky byly kdysi vyøèeny na serveru Mageo (tm)
-#auditorium - Fallout I a II + jejich pøeklad do èeštiny
 
 
-#Tyto hlášky jsou tímto, ani by si to tenkrát kdokoliv
-#uvìdomil, zveènìny navìènost...
+#NÃ¡sledujÃ­cÃ­ hlÃ¡Å¡ky byly kdysi vyÅ™Äeny na serveru Mageo (tm)
+#auditorium - Fallout I a II + jejich pÅ™eklad do ÄeÅ¡tiny
+
+
+#Tyto hlÃ¡Å¡ky jsou tÃ­mto, aniÅ¾ by si to tenkrÃ¡t kdokoliv
+#uvÄ›domil, zveÄnÄ›ny navÄ›Änost...
 
 
 
-#Jestli to vydríte èíst a do konce, nebudete litovat... :)
+#Jestli to vydrÅ¾Ã­te ÄÃ­st aÅ¾ do konce, nebudete litovat... :)
 
 
 
@@ -1069,7 +1069,7 @@ A jak mam svrhnout kravu linet ???????
 Nevite nekdo, kde se da sehnat cestina do Fallout 2?
 
 @SULIK
-"My a já namaèkáme tebe do delé!"
+"My a jÃ¡ namaÄkÃ¡me tebe do dÅ¾elÃ©!"
 
 @SOMNAMBULUS
 Poradte mi. Potrebuju vymyslet par nazvu nejakych znamejsich
@@ -1104,18 +1104,18 @@ Zvlast kdyz s nim mluvite jako debil. Nebo kdyz mu
 vysvetlujete rozdil mezi lidmi a roboty. Prikladam ukazku
 (takovy perly se proste nesmi ztratit):
 
-#Ty seš ale BLBEJ.
+#Ty seÅ¡ ale BLBEJ.
 #TY TAKY
-#Ty taky, akorát víc
-#Ty seš blbìjší
-#blé blé, kašlu na tebe!
+#Ty taky, akorÃ¡t vÃ­c
+#Ty seÅ¡ blbÄ›jÅ¡Ã­
+#blÃ© blÃ©, kaÅ¡lu na tebe!
 #Hrmpf
-#(S brekotem uteè)
-#Ne ne, KRETÉNE! (Dítì utíká pryè, jeho smích ti krutì
-#zvoní v uších.)
-#Já stejnì nechceš ty, já nelíbíš ty *smrk*...
-#já... *smrk*... udìlám PÁRTY... a s moc *smrk* cukr
-#a zmrzliòa .. a ty nepùjdeš, nene (Odcházíš.)
+#(S brekotem uteÄ)
+#Ne ne, KRETÃ‰NE! (DÃ­tÄ› utÃ­kÃ¡ pryÄ, jeho smÃ­ch ti krutÄ›
+#zvonÃ­ v uÅ¡Ã­ch.)
+#JÃ¡ stejnÄ› nechceÅ¡ ty, jÃ¡ nelÃ­bÃ­Å¡ ty *smrk*...
+#jÃ¡... *smrk*... udÄ›lÃ¡m PÃRTY... a s moc *smrk* cukr
+#a zmrzliÅˆa .. a ty nepÅ¯jdeÅ¡, nene (OdchÃ¡zÃ­Å¡.)
 
 Ten BIRDMAN je fakt T-O-T-A-L-N-I MAGOR....:)))
 
@@ -1170,8 +1170,8 @@ O STARTREKU A BOJITE SE ZEPTAT ?
 
 
 #!POZOR!    !POZOR!    !POZOR!
-#Následující sekce je pøístupná pouze 21+
-#take mladší stisknou nyní povinnì ESC!!!
+#NÃ¡sledujÃ­cÃ­ sekce je pÅ™Ã­stupnÃ¡ pouze 21+
+#takÅ¾e mladÅ¡Ã­ stisknou nynÃ­ povinnÄ› ESC!!!
 
 
 
@@ -1187,7 +1187,7 @@ O STARTREKU A BOJITE SE ZEPTAT ?
 
 
 
-#Tohle je poslední upozornìní!!!
+#Tohle je poslednÃ­ upozornÄ›nÃ­!!!
 # ESC  ESC  ESC
 
 
@@ -1203,8 +1203,8 @@ O STARTREKU A BOJITE SE ZEPTAT ?
 
 
 
-#V následujících odstavcích si mùete pøeèíst, jak nás všichni
-#zboòovali, mìli nás rádi a jak nám projevovali svoji vdìènost
+#V nÃ¡sledujÃ­cÃ­ch odstavcÃ­ch si mÅ¯Å¾ete pÅ™eÄÃ­st, jak nÃ¡s vÅ¡ichni
+#zboÅ¾Åˆovali, mÄ›li nÃ¡s rÃ¡di a jak nÃ¡m projevovali svoji vdÄ›Änost
 
 @HUML
 SAKRA CO TAM DELATE KDYZ JSI NAPSAL ZE MAS 90 PROCENT A TED
@@ -1284,7 +1284,7 @@ somnambulus je pica! loner krava a mawerick osel
 korunovane! pauL curak a ostatni hnusaci!!
 
 
-#díky za pochvaly všem!
+#dÃ­ky za pochvaly vÅ¡em!
 
 
 
@@ -1319,10 +1319,10 @@ korunovane! pauL curak a ostatni hnusaci!!
 ; See top of credits.txt for additional info.
 ;
 @Quotes from the Fallout 2 team:
-(Jestlie nemáš rád hambatı øeèi a dvojsmysly, zmáèkni ESC)
+(JestliÅ¾e nemÃ¡Å¡ rÃ¡d hambatÃ½ Å™eÄi a dvojsmysly, zmÃ¡Äkni ESC)
 
-Ale ty tomu asi budeš stejnì prd rozumìt, kdy sis instaloval
-naší èeštinu, co?
+Ale ty tomu asi budeÅ¡ stejnÄ› prd rozumÄ›t, kdyÅ¾ sis instaloval
+naÅ¡Ã­ ÄeÅ¡tinu, co?
 
 
 
@@ -1882,7 +1882,7 @@ Thanks to:
 
 - Schodovka: for your candour and smart humour
 
-- Lıdie: for your patient love
+- LÃ½die: for your patient love
 
 
 

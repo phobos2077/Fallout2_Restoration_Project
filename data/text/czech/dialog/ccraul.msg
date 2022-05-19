@@ -1,53 +1,53 @@
-{100}{}{Vidíš mechanika.}
-{101}{}{Vidíš mechanika Raula.}
-{102}{}{Vidíš mue ve špinavé vojenské uniformì. Soudì podle tìch mastnıch flekù to bude spíš mechanik ne voják.}
-{103}{}{Promiò, chlape, ale teï nemám èas se s tebou vybavovat. Musím zprovoznit tady toho vertibirda.}
-{104}{}{Doktor chtít opravit jeho pes K-9. On øíkat, e ty mít souèástka.}
-{105}{}{Jo... jasnì.}
-{106}{}{Eh, Quincy tebe chtít vidìt. Já mít za úkol to ty vyøídit.}
-{107}{}{Doktor chce opravit svého psa. Posílá mì pro chybìjící souèástku.}
+{100}{}{VidÃ­Å¡ mechanika.}
+{101}{}{VidÃ­Å¡ mechanika Raula.}
+{102}{}{VidÃ­Å¡ muÅ¾e ve Å¡pinavÃ© vojenskÃ© uniformÄ›. SoudÄ› podle tÄ›ch mastnÃ½ch flekÅ¯ to bude spÃ­Å¡ mechanik neÅ¾ vojÃ¡k.}
+{103}{}{PromiÅˆ, chlape, ale teÄ nemÃ¡m Äas se s tebou vybavovat. MusÃ­m zprovoznit tady toho vertibirda.}
+{104}{}{Doktor chtÃ­t opravit jeho pes K-9. On Å™Ã­kat, Å¾e ty mÃ­t souÄÃ¡stka.}
+{105}{}{Jo... jasnÄ›.}
+{106}{}{Eh, Quincy tebe chtÃ­t vidÄ›t. JÃ¡ mÃ­t za Ãºkol to ty vyÅ™Ã­dit.}
+{107}{}{Doktor chce opravit svÃ©ho psa. PosÃ­lÃ¡ mÄ› pro chybÄ›jÃ­cÃ­ souÄÃ¡stku.}
 {108}{}{Fajn. Nashle.}
-{109}{}{Raule, Quincy tì chce vidìt.}
-{110}{}{Quincy, jo? No, ale Raul nechce vidìt jeho. Raul má u dost tìch jeho blbejch kecù, víš?}
-{111}{}{Dobøe.}
-{112}{}{Quincy øíkat, e ty bıt velkı posera.}
+{109}{}{Raule, Quincy tÄ› chce vidÄ›t.}
+{110}{}{Quincy, jo? No, ale Raul nechce vidÄ›t jeho. Raul mÃ¡ uÅ¾ dost tÄ›ch jeho blbejch kecÅ¯, vÃ­Å¡?}
+{111}{}{DobÅ™e.}
+{112}{}{Quincy Å™Ã­kat, Å¾e ty bÃ½t velkÃ½ posera.}
 {113}{}{Fajn.}
-{114}{}{Quincy øíkal, e jsi sráè a e nemáš odvahu za ním pøijít.}
-{115}{}{ Hele, ty chytráku, Raul se od nikoho nenechá uráet. U jsi nìkdy vidìl Quincyho dìlat na vertibirdech? Ani náhodou. Na tìhlech mašinkách mùe makat jenom Raul. A víš proè? Protoe Quincy by to nikdy nezvládl, proto!}
+{114}{}{Quincy Å™Ã­kal, Å¾e jsi srÃ¡Ä a Å¾e nemÃ¡Å¡ odvahu za nÃ­m pÅ™ijÃ­t.}
+{115}{}{ Hele, ty chytrÃ¡ku, Raul se od nikoho nenechÃ¡ urÃ¡Å¾et. UÅ¾ jsi nÄ›kdy vidÄ›l Quincyho dÄ›lat na vertibirdech? Ani nÃ¡hodou. Na tÄ›hlech maÅ¡inkÃ¡ch mÅ¯Å¾e makat jenom Raul. A vÃ­Å¡ proÄ? ProtoÅ¾e Quincy by to nikdy nezvlÃ¡dl, proto!}
 {116}{}{Eh...}
 {117}{}{No...}
-{118}{}{Promiò, omlouvám se. Raul na tebe nechtìl køièet, víš? To není tvoje chyba, ty jsi mi tu zprávu jen pøedal. Hele, máš teï hodnì práce?}
-{119}{}{Ne, nemít co dìlat. Proè?}
-{120}{}{Ne, ani ne. Proè?}
-{121}{}{Hele, podívej, chlape. Raul teï pùjde Quincymu oplatit jeho návštìvu, víš? Raul mu pùjde ukázat zaè je toho loket. A ty poèkáš tady a budeš hlídat vertibirdy. Jasnı?}
-{122}{}{Já pohlídat je.}
-{123}{}{Jasnì, Raule. Pro nikoho jiného bych to neudìlal, ale pro tebe to udìlám rád.}
-{124}{}{Hej, díky, chlape. Raul je ti dluníkem! Hlavnì nechoï nikam pryè a kdyby se kolem vertibirdu potloukal nìkdo, kdo tu nemá co dìlat, tak mu ustøel prdel. Jasnı?}
-{125}{}{Dobøe.}
-{126}{}{Hej, co si myslíš, e dìláš? Táhni od toho vertibirdu pryè, chlape! Raul u má tak dost problémù i bez tebe, víš? Staèí co s nima vyvádí ti zatracení piloti!}
-{127}{}{Hej, chlape, Raul ti u øíkal, abys sakra táhnul pryè od toho vertibirdu. Teï tì Raul nauèí poslouchat. Pojï sem, chlape. Sundej si tu zasranou zbroj a rozdáme si to jako chlap s chlapem.}
-{128}{}{Ne, to já nemyslet.}
-{129}{}{Ty jít k èertu, Raul. U teï ty bıt mrtvı!}
-{130}{}{Ne díky, jsi na mì moc drsnı, kámo.}
-{131}{}{Proè bych si o tebe mìl otloukat pìsti, kdy mám tak skvìlou bouchaèku?}
-{132}{}{Tak táhni pryè od Raulovıch vertibirdù! Zmiz odsaï!}
-{133}{}{Dobøe.}
-{134}{}{Raul si myslí, e musíš bıt blázen, kdy se tu couráš bez uniformy.}
-{135}{}{Hele, chlape, jestli tì tu serant chytí bez uniformy, tak ti nakope prdel.}
-{136}{}{Chlape, proè na sobì nemáš uniformu?}
-{137}{}{Zatracenì! Byli jsme napadeni! Poplach!}
-{138}{}{Vetøelci! Zavolejte stráe!}
-{139}{}{Stráe! Vetøelci v hangáru!}
-{140}{}{Hej, èlovìèe, co se dìje? Jsme napadeni?}
-{141}{}{Proè ten poplach? Co se stalo?}
-{142}{}{Co se to sakra zase dìje?}
-{143}{}{Raul tì teï pošle do nemocnice, blbe.}
-{144}{}{Hej, chlape, zaèni se modlit!}
-{145}{}{Raul ti teï nakope prdel!}
-{146}{}{Fajn, chlape, je to támhle ve skøíòce. Vezmi si ho a øekni doktorovi, e ho Raul pozdravuje.}
-{147}{}{Díky.}
-{150}{}{Hele, chlape! Raul nemá rád, kdy se mu cizí lidi hrabaj ve vìcech. Táhni odsud.}
-{151}{}{Raul ti u øíkal, e se nemáš hrabat v jeho vìcech! Stráe!}
-{200}{}{Raul slyšel, e jsi ho zase pomlouval.}
-{201}{}{Tak tohle bylo naposled, sráèi. Raul ti teï zmaluje zadek.}
-{300}{}{Nevidíš, e na tebe Raul nemá èas?}
+{118}{}{PromiÅˆ, omlouvÃ¡m se. Raul na tebe nechtÄ›l kÅ™iÄet, vÃ­Å¡? To nenÃ­ tvoje chyba, ty jsi mi tu zprÃ¡vu jen pÅ™edal. Hele, mÃ¡Å¡ teÄ hodnÄ› prÃ¡ce?}
+{119}{}{Ne, nemÃ­t co dÄ›lat. ProÄ?}
+{120}{}{Ne, ani ne. ProÄ?}
+{121}{}{Hele, podÃ­vej, chlape. Raul teÄ pÅ¯jde Quincymu oplatit jeho nÃ¡vÅ¡tÄ›vu, vÃ­Å¡? Raul mu pÅ¯jde ukÃ¡zat zaÄ je toho loket. A ty poÄkÃ¡Å¡ tady a budeÅ¡ hlÃ­dat vertibirdy. JasnÃ½?}
+{122}{}{JÃ¡ pohlÃ­dat je.}
+{123}{}{JasnÄ›, Raule. Pro nikoho jinÃ©ho bych to neudÄ›lal, ale pro tebe to udÄ›lÃ¡m rÃ¡d.}
+{124}{}{Hej, dÃ­ky, chlape. Raul je ti dluÅ¾nÃ­kem! HlavnÄ› nechoÄ nikam pryÄ a kdyby se kolem vertibirdu potloukal nÄ›kdo, kdo tu nemÃ¡ co dÄ›lat, tak mu ustÅ™el prdel. JasnÃ½?}
+{125}{}{DobÅ™e.}
+{126}{}{Hej, co si myslÃ­Å¡, Å¾e dÄ›lÃ¡Å¡? TÃ¡hni od toho vertibirdu pryÄ, chlape! Raul uÅ¾ mÃ¡ tak dost problÃ©mÅ¯ i bez tebe, vÃ­Å¡? StaÄÃ­ co s nima vyvÃ¡dÃ­ ti zatracenÃ­ piloti!}
+{127}{}{Hej, chlape, Raul ti uÅ¾ Å™Ã­kal, abys sakra tÃ¡hnul pryÄ od toho vertibirdu. TeÄ tÄ› Raul nauÄÃ­ poslouchat. PojÄ sem, chlape. Sundej si tu zasranou zbroj a rozdÃ¡me si to jako chlap s chlapem.}
+{128}{}{Ne, to jÃ¡ nemyslet.}
+{129}{}{Ty jÃ­t k Äertu, Raul. UÅ¾ teÄ ty bÃ½t mrtvÃ½!}
+{130}{}{Ne dÃ­ky, jsi na mÄ› moc drsnÃ½, kÃ¡mo.}
+{131}{}{ProÄ bych si o tebe mÄ›l otloukat pÄ›sti, kdyÅ¾ mÃ¡m tak skvÄ›lou bouchaÄku?}
+{132}{}{Tak tÃ¡hni pryÄ od RaulovÃ½ch vertibirdÅ¯! Zmiz odsaÄ!}
+{133}{}{DobÅ™e.}
+{134}{}{Raul si myslÃ­, Å¾e musÃ­Å¡ bÃ½t blÃ¡zen, kdyÅ¾ se tu courÃ¡Å¡ bez uniformy.}
+{135}{}{Hele, chlape, jestli tÄ› tu serÅ¾ant chytÃ­ bez uniformy, tak ti nakope prdel.}
+{136}{}{Chlape, proÄ na sobÄ› nemÃ¡Å¡ uniformu?}
+{137}{}{ZatracenÄ›! Byli jsme napadeni! Poplach!}
+{138}{}{VetÅ™elci! Zavolejte strÃ¡Å¾e!}
+{139}{}{StrÃ¡Å¾e! VetÅ™elci v hangÃ¡ru!}
+{140}{}{Hej, ÄlovÄ›Äe, co se dÄ›je? Jsme napadeni?}
+{141}{}{ProÄ ten poplach? Co se stalo?}
+{142}{}{Co se to sakra zase dÄ›je?}
+{143}{}{Raul tÄ› teÄ poÅ¡le do nemocnice, blbe.}
+{144}{}{Hej, chlape, zaÄni se modlit!}
+{145}{}{Raul ti teÄ nakope prdel!}
+{146}{}{Fajn, chlape, je to tÃ¡mhle ve skÅ™Ã­Åˆce. Vezmi si ho a Å™ekni doktorovi, Å¾e ho Raul pozdravuje.}
+{147}{}{DÃ­ky.}
+{150}{}{Hele, chlape! Raul nemÃ¡ rÃ¡d, kdyÅ¾ se mu cizÃ­ lidi hrabaj ve vÄ›cech. TÃ¡hni odsud.}
+{151}{}{Raul ti uÅ¾ Å™Ã­kal, Å¾e se nemÃ¡Å¡ hrabat v jeho vÄ›cech! StrÃ¡Å¾e!}
+{200}{}{Raul slyÅ¡el, Å¾e jsi ho zase pomlouval.}
+{201}{}{Tak tohle bylo naposled, srÃ¡Äi. Raul ti teÄ zmaluje zadek.}
+{300}{}{NevidÃ­Å¡, Å¾e na tebe Raul nemÃ¡ Äas?}

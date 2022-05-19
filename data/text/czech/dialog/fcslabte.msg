@@ -1,35 +1,35 @@
-{100}{}{Vidíš obèana Shi v bílém plášti.}
-{101}{}{Vidíš laboratorního technika Shi.}
-{102}{}{Vidíš obèana Shi v bílém plášti ve vìdecké laboratoøi.}
-{103}{}{Sakra... Wong døe jak otrok.}
-{104}{}{Práce, práce, práce. Kvùli tomu jsme byli stvoøeni.}
-{105}{}{Tento experiment zmìní pustinu!}
-{106}{}{Podívej, pustino! Nìco pro tebe mám!}
-{107}{}{Chci zase nìkdy vidìt slunce.}
-{108}{}{Namíchej tohle. Namíchej tamto. Nìkdy je to opravdu nuda.}
-{109}{}{Vidìl jsi u nejnovìjší vısledky našeho velkého experimentu? Velmi pùsobivé!}
-{110}{}{Omluv mì.}
-{116}{}{Pche! To ty špehy odnauèí hackovat naše poèítaèe!}
-{117}{}{Tak TOHLE u ti hackeøi nikdy nezkusí.}
-{118}{}{Pokud je nedokáeme porazit vìdou, porazíme je s pomocí našich bojovníkù.}
-{119}{}{Lo Pan a Dragon dohromady? To je hrozná pøedstava.}
-{120}{}{Ten hacker nemìl šanci.}
-{121}{}{Práce, práce, práce. Kvùli tomu jsme byli stvoøeni.}
-{122}{}{Zmìníme pustinu!}
-{123}{}{Podívej, pustino!}
-{124}{}{Chci zase nìkdy vidìt slunce.}
-{127}{}{Sheng Ming je hroznı lenoch.}
-{128}{}{Jednoho dne to dokonèíme.}
-{129}{}{Za slávu Císaøe. Jasnì.}
-{130}{}{Slyšel jsi to? Nìkdo se nám hacknul do poèítaèù!}
-{131}{}{Vsadím se, e to byli Hubologisti.}
-{132}{}{Mìli bychom Hubologistùm poslat nìjakı virus.}
-{133}{}{Chci se pomstít hackerùm!}
-{134}{}{Jednou pøijdeme na to, kdo nás hacknul.}
-{135}{}{Práce, práce, práce. Kvùli tomu jsme byli stvoøeni.}
-{144}{}{Dìláme tu prospìšnou práci! Neka nám ji!}
-{145}{}{Pokoušíme se zachránit pustinu, ty idiote!}
-{146}{}{Ne! Naše vìdce ne!}
-{147}{}{Pomoc! Stráe!}
-{148}{}{Prosím! Ty to nechápeš!}
-{149}{}{Ne! Naše experimenty!}
+{100}{}{VidÃ­Å¡ obÄana Shi v bÃ­lÃ©m plÃ¡Å¡ti.}
+{101}{}{VidÃ­Å¡ laboratornÃ­ho technika Shi.}
+{102}{}{VidÃ­Å¡ obÄana Shi v bÃ­lÃ©m plÃ¡Å¡ti ve vÄ›deckÃ© laboratoÅ™i.}
+{103}{}{Sakra... Wong dÅ™e jak otrok.}
+{104}{}{PrÃ¡ce, prÃ¡ce, prÃ¡ce. KvÅ¯li tomu jsme byli stvoÅ™eni.}
+{105}{}{Tento experiment zmÄ›nÃ­ pustinu!}
+{106}{}{PodÃ­vej, pustino! NÄ›co pro tebe mÃ¡m!}
+{107}{}{Chci zase nÄ›kdy vidÄ›t slunce.}
+{108}{}{NamÃ­chej tohle. NamÃ­chej tamto. NÄ›kdy je to opravdu nuda.}
+{109}{}{VidÄ›l jsi uÅ¾ nejnovÄ›jÅ¡Ã­ vÃ½sledky naÅ¡eho velkÃ©ho experimentu? Velmi pÅ¯sobivÃ©!}
+{110}{}{Omluv mÄ›.}
+{116}{}{Pche! To ty Å¡pehy odnauÄÃ­ hackovat naÅ¡e poÄÃ­taÄe!}
+{117}{}{Tak TOHLE uÅ¾ ti hackeÅ™i nikdy nezkusÃ­.}
+{118}{}{Pokud je nedokÃ¡Å¾eme porazit vÄ›dou, porazÃ­me je s pomocÃ­ naÅ¡ich bojovnÃ­kÅ¯.}
+{119}{}{Lo Pan a Dragon dohromady? To je hroznÃ¡ pÅ™edstava.}
+{120}{}{Ten hacker nemÄ›l Å¡anci.}
+{121}{}{PrÃ¡ce, prÃ¡ce, prÃ¡ce. KvÅ¯li tomu jsme byli stvoÅ™eni.}
+{122}{}{ZmÄ›nÃ­me pustinu!}
+{123}{}{PodÃ­vej, pustino!}
+{124}{}{Chci zase nÄ›kdy vidÄ›t slunce.}
+{127}{}{Sheng Ming je hroznÃ½ lenoch.}
+{128}{}{Jednoho dne to dokonÄÃ­me.}
+{129}{}{Za slÃ¡vu CÃ­saÅ™e. JasnÄ›.}
+{130}{}{SlyÅ¡el jsi to? NÄ›kdo se nÃ¡m hacknul do poÄÃ­taÄÅ¯!}
+{131}{}{VsadÃ­m se, Å¾e to byli Hubologisti.}
+{132}{}{MÄ›li bychom HubologistÅ¯m poslat nÄ›jakÃ½ virus.}
+{133}{}{Chci se pomstÃ­t hackerÅ¯m!}
+{134}{}{Jednou pÅ™ijdeme na to, kdo nÃ¡s hacknul.}
+{135}{}{PrÃ¡ce, prÃ¡ce, prÃ¡ce. KvÅ¯li tomu jsme byli stvoÅ™eni.}
+{144}{}{DÄ›lÃ¡me tu prospÄ›Å¡nou prÃ¡ci! NekaÅ¾ nÃ¡m ji!}
+{145}{}{PokouÅ¡Ã­me se zachrÃ¡nit pustinu, ty idiote!}
+{146}{}{Ne! NaÅ¡e vÄ›dce ne!}
+{147}{}{Pomoc! StrÃ¡Å¾e!}
+{148}{}{ProsÃ­m! Ty to nechÃ¡peÅ¡!}
+{149}{}{Ne! NaÅ¡e experimenty!}

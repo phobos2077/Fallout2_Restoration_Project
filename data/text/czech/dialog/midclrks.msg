@@ -1,4 +1,4 @@
-{100}{}{Tyhle kameny jsou pøíliš tìké na to, aby se s nimi dalo pohnout.}
+{100}{}{Tyhle kameny jsou pÅ™Ã­liÅ¡ tÄ›Å¾kÃ© na to, aby se s nimi dalo pohnout.}
 {101}{}{Kameny se trochu pohnuly, ale ne o moc.}
-{102}{}{Kameny byly témìø odvaleny.}
-{103}{}{Nemá to cenu, tyhle kameny jsou zkrátka pøíliš tìké na to, aby se s nimi dalo pohnout.}
+{102}{}{Kameny byly tÃ©mÄ›Å™ odvaleny.}
+{103}{}{NemÃ¡ to cenu, tyhle kameny jsou zkrÃ¡tka pÅ™Ã­liÅ¡ tÄ›Å¾kÃ© na to, aby se s nimi dalo pohnout.}

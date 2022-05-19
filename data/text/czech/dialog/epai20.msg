@@ -1,3 +1,3 @@
-{100}{}{Špatné heslo. Zamykám systém.}
-{101}{}{Heslo pøijato.}
-{102}{}{KVÌTINÁÈ}
+{100}{}{Å patnÃ© heslo. ZamykÃ¡m systÃ©m.}
+{101}{}{Heslo pÅ™ijato.}
+{102}{}{KVÄšTINÃÄŒ}

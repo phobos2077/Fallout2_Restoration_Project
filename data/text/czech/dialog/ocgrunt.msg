@@ -1,6 +1,6 @@
-{100}{}{Vidíš páraèe.}
-{101}{}{Vidíš páraèí strá.}
-{102}{}{Vidíš obyèejného páraèe. Je to mohutnı tvor s ostrımi zuby a dlouhımi paøáty.}
+{100}{}{VidÃ­Å¡ pÃ¡raÄe.}
+{101}{}{VidÃ­Å¡ pÃ¡raÄÃ­ strÃ¡Å¾.}
+{102}{}{VidÃ­Å¡ obyÄejnÃ©ho pÃ¡raÄe. Je to mohutnÃ½ tvor s ostrÃ½mi zuby a dlouhÃ½mi paÅ™Ã¡ty.}
 {103}{}{Ahoj.}
-{104}{}{Ahoj. Nemoct mluvit, já bıt na strá.}
-{105}{}{Nepøítel smeèky muset zemøít!}
+{104}{}{Ahoj. Nemoct mluvit, jÃ¡ bÃ½t na strÃ¡Å¾.}
+{105}{}{NepÅ™Ã­tel smeÄky muset zemÅ™Ã­t!}

@@ -1,5 +1,5 @@
-{100}{}{Zdá se, e je tento vıtah nefunkèní.}
-{101}{}{Vıtah zjevnì nefunguje. Budeš muset najít jinou cestu dovnitø.}
-{102}{}{Vidíš poškozené dveøe vıtahu.}
-{103}{}{Po bliším prozkoumání zjišuješ, e chybí kabina vıtahu a dveøe jsou zaseklé.}
-{104}{}{Nemáš nejmenší šanci to opravit.}
+{100}{}{ZdÃ¡ se, Å¾e je tento vÃ½tah nefunkÄnÃ­.}
+{101}{}{VÃ½tah zjevnÄ› nefunguje. BudeÅ¡ muset najÃ­t jinou cestu dovnitÅ™.}
+{102}{}{VidÃ­Å¡ poÅ¡kozenÃ© dveÅ™e vÃ½tahu.}
+{103}{}{Po bliÅ¾Å¡Ã­m prozkoumÃ¡nÃ­ zjiÅ¡Å¥ujeÅ¡, Å¾e chybÃ­ kabina vÃ½tahu a dveÅ™e jsou zaseklÃ©.}
+{104}{}{NemÃ¡Å¡ nejmenÅ¡Ã­ Å¡anci to opravit.}

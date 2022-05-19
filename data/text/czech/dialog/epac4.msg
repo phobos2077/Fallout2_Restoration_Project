@@ -1,61 +1,61 @@
-{100}{}{Vidíš hologram.}
-{101}{}{Vidíš šéfa ostrahy.}
-{102}{}{Hologram 10001. Stará se o bezpeènost komplexu EPA.}
-{200}{}{Stát! Zùstaò, kde jsi. Identifikuj se, vetøelèe.}
-{201}{}{Jsem Vyvolenı z Arroya. Prozkoumávám komplex EPA.}
-{202}{}{Nejsem vetøelec a právì teï musím odejít.}
+{100}{}{VidÃ­Å¡ hologram.}
+{101}{}{VidÃ­Å¡ Å¡Ã©fa ostrahy.}
+{102}{}{Hologram 10001. StarÃ¡ se o bezpeÄnost komplexu EPA.}
+{200}{}{StÃ¡t! ZÅ¯staÅˆ, kde jsi. Identifikuj se, vetÅ™elÄe.}
+{201}{}{Jsem VyvolenÃ½ z Arroya. ProzkoumÃ¡vÃ¡m komplex EPA.}
+{202}{}{Nejsem vetÅ™elec a prÃ¡vÄ› teÄ musÃ­m odejÃ­t.}
 {203}{}{Jsem }
-{204}{}{ a nesnaím se narušovat, jen prozkoumávám.}
-{210}{}{Prozkoumáváš!? Prozkoumáváš... MÙJ... KOMPLEX EPA!? Kde bereš tu drzost sem vtrhnout a jen tak èmuchat kolem! Vollidiot! Uvauji o tom, e tì zatknu a hodím tì do ohrady pro zvìø... to bude pro ty zrùdy opravdová hostina!}
-{211}{}{Ne, poèkej! Vdy ti nedìlám nic špatného! Vysvìtlím ti to...}
-{220}{}{Ne tak rychle, Pisskopf. Nikdo se nebude bezdùvodnì potulovat po MÉM ZAØÍZENÍ. Jak mám vìdìt, e nejsi èínskı špeh?}
-{221}{}{To nemùeš. Ale kdy mì to necháš vysvìtlit, tak tenhle problém urèitì vyøešíme.}
-{222}{}{Co kdy jsem? Záleí na tom vùbec? Ten tvùj úasnı komplex EPA u stejnì není moc dùleitı. Je to jenom další chátrající pozùstatek staré doby.}
-{230}{}{Tak do toho, Schwachkopf, vysvìtli mi to. A dej si záleet, nebo tì nechám zmlátit robotama a potom odtáhnout dolù na elektrické køeslo!}
-{231}{}{Dobøe. Tak zaprvé nejsem èínskı špeh, jsem divoch. Vybrali mì a øekli mi, a se vydám na nebezpeènı úkol, pøi kterém musím pøijít na to, jak zachránit svùj kmen pøed zánikem. V tomhle komplexu jsem pouze proto, e se domnívám, e se mi tu podaøí ukoøistit nìco, co mi pomùe v mém úkolu.}
-{232}{}{Jdi do prdele. Vdy jsi *hologram*. Pøinejhorším mì mùeš akorát tak ukøièet k smrti, o co se oèividnì velmi snaíš. A co se tıèe tady toho šrotu, kterému øíkáš roboti, zaènu mít strach a ve chvíli, kdy uvidím nìjakého funkèního.}
-{240}{}{Ukoøistit! Ty Pissnelke! Jak se opovauješ takovım zpùsobem pošpinit jméno komplexu EPA! Nikdo z této budovy nevynese ani list papíru, pokud mu to neøeknu! Nicménì dostat se tak daleko v komplexu EPA vyaduje znaèné zkušenosti... moná budu mít pro tebe nìjaké vyuití.}
+{204}{}{ a nesnaÅ¾Ã­m se naruÅ¡ovat, jen prozkoumÃ¡vÃ¡m.}
+{210}{}{ProzkoumÃ¡vÃ¡Å¡!? ProzkoumÃ¡vÃ¡Å¡... MÅ®J... KOMPLEX EPA!? Kde bereÅ¡ tu drzost sem vtrhnout a jen tak Ämuchat kolem! Vollidiot! UvaÅ¾uji o tom, Å¾e tÄ› zatknu a hodÃ­m tÄ› do ohrady pro zvÄ›Å™... to bude pro ty zrÅ¯dy opravdovÃ¡ hostina!}
+{211}{}{Ne, poÄkej! VÅ¾dyÅ¥ ti nedÄ›lÃ¡m nic Å¡patnÃ©ho! VysvÄ›tlÃ­m ti to...}
+{220}{}{Ne tak rychle, Pisskopf. Nikdo se nebude bezdÅ¯vodnÄ› potulovat po MÃ‰M ZAÅ˜ÃZENÃ. Jak mÃ¡m vÄ›dÄ›t, Å¾e nejsi ÄÃ­nskÃ½ Å¡peh?}
+{221}{}{To nemÅ¯Å¾eÅ¡. Ale kdyÅ¾ mÄ› to nechÃ¡Å¡ vysvÄ›tlit, tak tenhle problÃ©m urÄitÄ› vyÅ™eÅ¡Ã­me.}
+{222}{}{Co kdyÅ¾ jsem? ZÃ¡leÅ¾Ã­ na tom vÅ¯bec? Ten tvÅ¯j ÃºÅ¾asnÃ½ komplex EPA uÅ¾ stejnÄ› nenÃ­ moc dÅ¯leÅ¾itÃ½. Je to jenom dalÅ¡Ã­ chÃ¡trajÃ­cÃ­ pozÅ¯statek starÃ© doby.}
+{230}{}{Tak do toho, Schwachkopf, vysvÄ›tli mi to. A dej si zÃ¡leÅ¾et, nebo tÄ› nechÃ¡m zmlÃ¡tit robotama a potom odtÃ¡hnout dolÅ¯ na elektrickÃ© kÅ™eslo!}
+{231}{}{DobÅ™e. Tak zaprvÃ© nejsem ÄÃ­nskÃ½ Å¡peh, jsem divoch. Vybrali mÄ› a Å™ekli mi, aÅ¥ se vydÃ¡m na nebezpeÄnÃ½ Ãºkol, pÅ™i kterÃ©m musÃ­m pÅ™ijÃ­t na to, jak zachrÃ¡nit svÅ¯j kmen pÅ™ed zÃ¡nikem. V tomhle komplexu jsem pouze proto, Å¾e se domnÃ­vÃ¡m, Å¾e se mi tu podaÅ™Ã­ ukoÅ™istit nÄ›co, co mi pomÅ¯Å¾e v mÃ©m Ãºkolu.}
+{232}{}{Jdi do prdele. VÅ¾dyÅ¥ jsi *hologram*. PÅ™inejhorÅ¡Ã­m mÄ› mÅ¯Å¾eÅ¡ akorÃ¡t tak ukÅ™iÄet k smrti, o coÅ¾ se oÄividnÄ› velmi snaÅ¾Ã­Å¡. A co se tÃ½Äe tady toho Å¡rotu, kterÃ©mu Å™Ã­kÃ¡Å¡ roboti, zaÄnu mÃ­t strach aÅ¾ ve chvÃ­li, kdy uvidÃ­m nÄ›jakÃ©ho funkÄnÃ­ho.}
+{240}{}{UkoÅ™istit! Ty Pissnelke! Jak se opovaÅ¾ujeÅ¡ takovÃ½m zpÅ¯sobem poÅ¡pinit jmÃ©no komplexu EPA! Nikdo z tÃ©to budovy nevynese ani list papÃ­ru, pokud mu to neÅ™eknu! NicmÃ©nÄ› dostat se tak daleko v komplexu EPA vyÅ¾aduje znaÄnÃ© zkuÅ¡enosti... moÅ¾nÃ¡ budu mÃ­t pro tebe nÄ›jakÃ© vyuÅ¾itÃ­.}
 {241}{}{He?}
-{242}{}{Ne, myslím, e ještì nìco ukoøistím a potom odejdu. Nashle!}
-{250}{}{Nestydatost! Taková drzost od Blödes Arschloch! Kdy já byl u vıcviku, tak byla drzost trestána. A také e jsme byli trestáni! Pamatuj si moje slova, scheisskopf, ty tvoje li tì jednou pøivedou do hrobu.}
-{251}{}{Moná jo, moná jo. A pokud k tomu nìkdy dojde, vypoøádám se s tím. Je ale jisté, e ty v tom mít prsty nebudeš. Jsi nikdo. Nezùstalo ti nic, co bys mohl øídit a proto zakrıváš svùj smutek hnìvem. Jak dlouho ti u roboti neodpovídají?}
-{260}{}{No, jak správnì hádáš, roboti zde v komplexu EPA nefungují. Poèítaèe u nereagují na mé verbální pøíkazy a já nemám tìlo, abych aktivoval konzoli. Já... já nedokáu nic poøádnì zabezpeèit. Mùeš pro mì opravit ovládací poèítaè pro roboty? Potøebuji ovládat roboty kvùli... no, kvùli vìcem.}
-{261}{}{No, proè ne? Uvidím, co s tím pùjde udìlat.}
-{262}{}{Ne, na to nemám èas. Nashle.}
-{270}{}{Fick dich du verdammter Arschficker! Mìl bych... udìlat... (Povzdechne si.) Máš pravdu. Roboti u nerozumí tomu, co jim øíkám. Jenom nehybnì sedí na místì jako zatracení penneøi! Poèítaèe pøestaly fungovat a jako hologram se nemùu dotknout klávesnice. U nìkolik let poøád øíkám, e tohle místo potøebuje srovnat se zemí a pøestavìt. Moná budu mít jednou takovou moc, e to udìlám.}
-{271}{}{Tøeba ti mùu nìjak pomoct. S poèítaèema to docela umím.}
-{280}{}{Díky. Pokud se ti podaøí opravit ovládací poèítaè pro roboty, umoním ti pøístup do køídla ostrahy na èerveném podlaí. Budeš si moct vzít ze skladiš co chceš. Obávám se, e nám u je to stejnì k nièemu.}
-{281}{}{Díky. Vrátím se, a to bude hotové.}
-{290}{}{Lech mich! U ti nemám co øíct.}
+{242}{}{Ne, myslÃ­m, Å¾e jeÅ¡tÄ› nÄ›co ukoÅ™istÃ­m a potom odejdu. Nashle!}
+{250}{}{Nestydatost! TakovÃ¡ drzost od BlÃ¶des Arschloch! KdyÅ¾ jÃ¡ byl u vÃ½cviku, tak byla drzost trestÃ¡na. A takÃ© Å¾e jsme byli trestÃ¡ni! Pamatuj si moje slova, scheisskopf, ty tvoje lÅ¾i tÄ› jednou pÅ™ivedou do hrobu.}
+{251}{}{MoÅ¾nÃ¡ jo, moÅ¾nÃ¡ jo. A pokud k tomu nÄ›kdy dojde, vypoÅ™Ã¡dÃ¡m se s tÃ­m. Je ale jistÃ©, Å¾e ty v tom mÃ­t prsty nebudeÅ¡. Jsi nikdo. NezÅ¯stalo ti nic, co bys mohl Å™Ã­dit a proto zakrÃ½vÃ¡Å¡ svÅ¯j smutek hnÄ›vem. Jak dlouho ti uÅ¾ roboti neodpovÃ­dajÃ­?}
+{260}{}{No, jak sprÃ¡vnÄ› hÃ¡dÃ¡Å¡, roboti zde v komplexu EPA nefungujÃ­. PoÄÃ­taÄe uÅ¾ nereagujÃ­ na mÃ© verbÃ¡lnÃ­ pÅ™Ã­kazy a jÃ¡ nemÃ¡m tÄ›lo, abych aktivoval konzoli. JÃ¡... jÃ¡ nedokÃ¡Å¾u nic poÅ™Ã¡dnÄ› zabezpeÄit. MÅ¯Å¾eÅ¡ pro mÄ› opravit ovlÃ¡dacÃ­ poÄÃ­taÄ pro roboty? PotÅ™ebuji ovlÃ¡dat roboty kvÅ¯li... no, kvÅ¯li vÄ›cem.}
+{261}{}{No, proÄ ne? UvidÃ­m, co s tÃ­m pÅ¯jde udÄ›lat.}
+{262}{}{Ne, na to nemÃ¡m Äas. Nashle.}
+{270}{}{Fick dich du verdammter Arschficker! MÄ›l bych... udÄ›lat... (Povzdechne si.) MÃ¡Å¡ pravdu. Roboti uÅ¾ nerozumÃ­ tomu, co jim Å™Ã­kÃ¡m. Jenom nehybnÄ› sedÃ­ na mÃ­stÄ› jako zatracenÃ­ penneÅ™i! PoÄÃ­taÄe pÅ™estaly fungovat a jako hologram se nemÅ¯Å¾u dotknout klÃ¡vesnice. UÅ¾ nÄ›kolik let poÅ™Ã¡d Å™Ã­kÃ¡m, Å¾e tohle mÃ­sto potÅ™ebuje srovnat se zemÃ­ a pÅ™estavÄ›t. MoÅ¾nÃ¡ budu mÃ­t jednou takovou moc, Å¾e to udÄ›lÃ¡m.}
+{271}{}{TÅ™eba ti mÅ¯Å¾u nÄ›jak pomoct. S poÄÃ­taÄema to docela umÃ­m.}
+{280}{}{DÃ­ky. Pokud se ti podaÅ™Ã­ opravit ovlÃ¡dacÃ­ poÄÃ­taÄ pro roboty, umoÅ¾nÃ­m ti pÅ™Ã­stup do kÅ™Ã­dla ostrahy na ÄervenÃ©m podlaÅ¾Ã­. BudeÅ¡ si moct vzÃ­t ze skladiÅ¡Å¥ co chceÅ¡. ObÃ¡vÃ¡m se, Å¾e nÃ¡m uÅ¾ je to stejnÄ› k niÄemu.}
+{281}{}{DÃ­ky. VrÃ¡tÃ­m se, aÅ¾ to bude hotovÃ©.}
+{290}{}{Lech mich! UÅ¾ ti nemÃ¡m co Å™Ã­ct.}
 {291}{}{Fajn.}
-{300}{}{Je ten úkol ji splnìnı? *Oèi mu záøí oèekáváním*}
-{301}{}{Ne, ještì ne. Budu na tom dál pracovat.}
-{310}{}{U jsou ty poèítaèe opìt funkèní?}
-{311}{}{Ano, jsou opravené. U zase mùeš ovládat roboty.}
-{320}{}{Vıbornì! Skvìle! Teï mùu rozdrtit ty hlupáky! Komplex EPA bude opìt vyèištìnı! Dobøe, a teï pro tebe nìco mám. (Promluví na roboty.) Hoïte tìma svejma plechovejma zadkama a dejte tomuhle civilovi odmìnu za slubu této skvìlé vlasti! (Pøijede k tobì robot a pøedá ti pøístupovou kartu. Poté ho pozoruješ, jak odjídí pryè z místnosti. Máš takovı dojem, e by ti roboti byli šastnìjší, kdyby byli stále nefunkèní.) A teï si jdi po svıch. Odchod.}
-{321}{}{Díky.}
-{322}{}{Odchod? Copak jsem nìjaká strá? Tak zatím, starochu.}
-{330}{}{Nech mì na pokoji!}
-{331}{}{U s tebou nechci mít nic spoleèného.}
+{300}{}{Je ten Ãºkol jiÅ¾ splnÄ›nÃ½? *OÄi mu zÃ¡Å™Ã­ oÄekÃ¡vÃ¡nÃ­m*}
+{301}{}{Ne, jeÅ¡tÄ› ne. Budu na tom dÃ¡l pracovat.}
+{310}{}{UÅ¾ jsou ty poÄÃ­taÄe opÄ›t funkÄnÃ­?}
+{311}{}{Ano, jsou opravenÃ©. UÅ¾ zase mÅ¯Å¾eÅ¡ ovlÃ¡dat roboty.}
+{320}{}{VÃ½bornÄ›! SkvÄ›le! TeÄ mÅ¯Å¾u rozdrtit ty hlupÃ¡ky! Komplex EPA bude opÄ›t vyÄiÅ¡tÄ›nÃ½! DobÅ™e, a teÄ pro tebe nÄ›co mÃ¡m. (PromluvÃ­ na roboty.) HoÄte tÄ›ma svejma plechovejma zadkama a dejte tomuhle civilovi odmÄ›nu za sluÅ¾bu tÃ©to skvÄ›lÃ© vlasti! (PÅ™ijede k tobÄ› robot a pÅ™edÃ¡ ti pÅ™Ã­stupovou kartu. PotÃ© ho pozorujeÅ¡, jak odjÃ­Å¾dÃ­ pryÄ z mÃ­stnosti. MÃ¡Å¡ takovÃ½ dojem, Å¾e by ti roboti byli Å¡Å¥astnÄ›jÅ¡Ã­, kdyby byli stÃ¡le nefunkÄnÃ­.) A teÄ si jdi po svÃ½ch. Odchod.}
+{321}{}{DÃ­ky.}
+{322}{}{Odchod? Copak jsem nÄ›jakÃ¡ strÃ¡Å¾? Tak zatÃ­m, starochu.}
+{330}{}{Nech mÄ› na pokoji!}
+{331}{}{UÅ¾ s tebou nechci mÃ­t nic spoleÄnÃ©ho.}
 {332}{}{MACH ES DIR SELBER!!}
-{333}{}{Mám teï práci.}
-{334}{}{Pøijï pozdìji.}
-{335}{}{Nevidíš, e mám jednání?}
-{336}{}{Musíme to tu ihned znièit!}
-{337}{}{To je absurdní!}
+{333}{}{MÃ¡m teÄ prÃ¡ci.}
+{334}{}{PÅ™ijÄ pozdÄ›ji.}
+{335}{}{NevidÃ­Å¡, Å¾e mÃ¡m jednÃ¡nÃ­?}
+{336}{}{MusÃ­me to tu ihned zniÄit!}
+{337}{}{To je absurdnÃ­!}
 {338}{}{Nikdy!}
-{339}{}{Nové vìci se mùou zrodit jedinì znièením tìch starıch.}
-{340}{}{Všichni pro?}
-{341}{}{Roboti musí bıt znovu aktivováni!}
-{342}{}{Warmduschers! Vy všichni!}
-{343}{}{Naše obranné systémy potøebují naléhavì munici!}
-{344}{}{Kdybych mìl velení, tak by se to tady dalo opravdu dokupy!}
+{339}{}{NovÃ© vÄ›ci se mÅ¯Å¾ou zrodit jedinÄ› zniÄenÃ­m tÄ›ch starÃ½ch.}
+{340}{}{VÅ¡ichni pro?}
+{341}{}{Roboti musÃ­ bÃ½t znovu aktivovÃ¡ni!}
+{342}{}{Warmduschers! Vy vÅ¡ichni!}
+{343}{}{NaÅ¡e obrannÃ© systÃ©my potÅ™ebujÃ­ nalÃ©havÄ› munici!}
+{344}{}{Kdybych mÄ›l velenÃ­, tak by se to tady dalo opravdu dokupy!}
 {345}{}{Halt die Schnauze!}
-{400}{}{Zavøít mì? Jsi hologram. Nemùeš se mì ani dotknout.}
-{401}{}{Koukám, e mám tu èest se zatracenım Klugscheißer! Myslíš, e nedokáu vymlátit duši z takového Warmduscher, jako jsi ty? No, moná e ne, ale pøesnì proto tu mám ty zatracenı roboty! A u mi zaèíná rychle docházet trpìlivost. Radìji zaèni rychle vysvìtlovat. Jak mám vìdìt, e nejsi èínskı špeh?}
-{410}{}{To jsi ty, komu se podaøilo zprovoznit ovládací poèítaè pro roboty?}
-{411}{}{Pøesnì tak.}
-{412}{}{Eh... moná.}
-{413}{}{Nee. Já ne.}
-{420}{}{Quatsch! Jsi jediná bytost z masa a kostí kolem, take vím zatracenì dobøe, e to byla tvoje práce.}
-{421}{}{Dobøe, fajn, byla to moje práce.}
+{400}{}{ZavÅ™Ã­t mÄ›? Jsi hologram. NemÅ¯Å¾eÅ¡ se mÄ› ani dotknout.}
+{401}{}{KoukÃ¡m, Å¾e mÃ¡m tu Äest se zatracenÃ½m KlugscheiÃŸer! MyslÃ­Å¡, Å¾e nedokÃ¡Å¾u vymlÃ¡tit duÅ¡i z takovÃ©ho Warmduscher, jako jsi ty? No, moÅ¾nÃ¡ Å¾e ne, ale pÅ™esnÄ› proto tu mÃ¡m ty zatracenÃ½ roboty! A uÅ¾ mi zaÄÃ­nÃ¡ rychle dochÃ¡zet trpÄ›livost. RadÄ›ji zaÄni rychle vysvÄ›tlovat. Jak mÃ¡m vÄ›dÄ›t, Å¾e nejsi ÄÃ­nskÃ½ Å¡peh?}
+{410}{}{To jsi ty, komu se podaÅ™ilo zprovoznit ovlÃ¡dacÃ­ poÄÃ­taÄ pro roboty?}
+{411}{}{PÅ™esnÄ› tak.}
+{412}{}{Eh... moÅ¾nÃ¡.}
+{413}{}{Nee. JÃ¡ ne.}
+{420}{}{Quatsch! Jsi jedinÃ¡ bytost z masa a kostÃ­ kolem, takÅ¾e vÃ­m zatracenÄ› dobÅ™e, Å¾e to byla tvoje prÃ¡ce.}
+{421}{}{DobÅ™e, fajn, byla to moje prÃ¡ce.}

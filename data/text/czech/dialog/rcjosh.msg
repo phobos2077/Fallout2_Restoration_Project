@@ -1,92 +1,92 @@
-{100}{}{Vidíš hezky uèesaného, vysokého, hubeného mue.}
-{101}{}{Vidíš Joshe Laurance, majitele Salónu posledního vydechnutí.}
-{102}{}{Vidíš mue, kterı vypadá, jako by si tì mìøil pohledem.}
+{100}{}{VidÃ­Å¡ hezky uÄesanÃ©ho, vysokÃ©ho, hubenÃ©ho muÅ¾e.}
+{101}{}{VidÃ­Å¡ Joshe Laurance, majitele SalÃ³nu poslednÃ­ho vydechnutÃ­.}
+{102}{}{VidÃ­Å¡ muÅ¾e, kterÃ½ vypadÃ¡, jako by si tÄ› mÄ›Å™il pohledem.}
 {103}{}{Vypadni odsud.}
-{104}{}{Co tady sakra dìláš, ty idiote?}
-{105}{}{Tohle místo není pro tebe.}
+{104}{}{Co tady sakra dÄ›lÃ¡Å¡, ty idiote?}
+{105}{}{Tohle mÃ­sto nenÃ­ pro tebe.}
 {106}{}{Vypadni odsud, idiote!}
-{107}{}{Vypadni! Ještì mi umaeš podlahu!}
-{108}{}{Zdravím, pøíteli. Jmenuju se Josh Laurance. Patøí mi to tu.}
-{109}{}{Co pro tebe mohu udìlat?}
-{110}{}{Co je tohle za místo?}
-{111}{}{Dám si nìco k pití.}
-{112}{}{Jednu rundu pro kadého!}
-{113}{}{Chci koupit pár drinkù tady pro svoje pøátele.}
-{114}{}{Dìje se poslední dobou ve mìstì nìco zajímavého?}
-{115}{}{Momentálnì nic. Jenom procházím. Sbohem.}
-{116}{}{Tomuhle nenalévám.}
-{117}{}{Odveï svého *pøítele* pryè.}
-{118}{}{Tohle není ádné obludárium. Odveï to pryè.}
-{119}{}{Tohle sem nesmí.}
-{120}{}{Tohle tady nestrpím. Vypadni.}
-{121}{}{Tohle je Salón posledního vydechnutí a zároveò místní pohøební sluba. Poskytujeme plnohodnotné sluby. Naše motto zní: "Láhev do hrobu".}
-{122}{}{To je podivná kombinace podnikù, Joshi.}
-{123}{}{Lucretia Borgia by na tebe byla hrdá, Joshi.}
-{124}{}{Mùu si koupit rakev?}
-{125}{}{Jak mám zaøídit pohøeb?}
-{126}{}{Radìji se budu dret dál od tvého prašivého chlastu.}
-{127}{}{Zajisté. Bude to $5.}
-{128}{}{Tady jsou peníze.}
-{129}{}{Myslím, e to pivo vlastnì teï nechci. Chci se ještì na nìco zeptat.}
-{130}{}{To je od tebe velmi štìdré. Dokud jsou všichni iví, dostanou pití. Hele, netušil jsem, e jsem básník. Bude to $50.}
-{131}{}{Au. Slovní hrátky se smrtí nejsou moc dobrı nápad, Joshi. Ber to jako pøátelské varování. Tady máš peníze.}
-{132}{}{Hmm, ta slovní høíèka ten nápad naprosto *zabila*. Chci se ještì na nìco zeptat.}
-{133}{}{Jsi opravdu pøátelskı typ èlovìka. Bude to $}
-{134}{}{To za to stojí. Tady máš.}
-{135}{}{Vlastnì si myslím, e bude lepší, kdy budou všichni støízliví. Chci se ještì na nìco zeptat.}
-{136}{}{Jde to dobøe, kdy jsem s tebou uzavøel obchod. Pokraèuj v dobré práci. Klidnì mi mùeš dát další.}
-{137}{}{No, poslední dobou se nedìje nic zajímavého. Vìtšinou je v mém obchodì klid. Dalo by se øíct, e je tady ticho jako v hrobì. Aèkoliv to v poslední dobì není a taková pravda.}
-{138}{}{Jak to? Co tím myslíš?}
-{139}{}{To opravdu je, ale jen samotné pohøbívání lidí by mì neuivilo... dalo by se øíct, e byl obchod mrtvı. Byla to opravdu zasmušilá situace. A tak jsem se rozhodl, e si tu zøídím takovou malou hospùdku.}
-{140}{}{Aha. Skoro se tì bojím ještì na nìco zeptat. Ale stejnì to udìlám.}
-{141}{}{Eh, a nekazí ty mrtvoly všude kolem tvım hostùm chu k jídlu?}
-{142}{}{Myslím, e další slovní høíèku u nepøeiju. Radìji pùjdu. Sbohem.}
-{143}{}{No, to asi ano, pokud by byly pravé. Ale nejsou. Tedy alespoò ne všechny. A navíc se to horníkùm docela líbí. Víc se poté cítí naivu.}
-{144}{}{Myslím, e je to pìknì odporné. Jsi velmi narušenı èlovìk.}
-{145}{}{Aha. No, chci se ještì na nìco zeptat.}
-{146}{}{Nìkomu se to moná líbí, ale mì teda ne. Dìlá ze mi z toho špatnì. Sbohem.}
-{147}{}{Já e jsem *narušenı*? No a ty jsi zase divoch a ti, co jsem tak slyšel, jedí své mrtvé.}
-{148}{}{Jak jinak máme získat jejich esenci?}
-{149}{}{Hele, tak moment. My si je nejdøív poøádnì uvaøíme. Nejsme ádní køováci.}
-{150}{}{To je smìšné. Kde jsi to slyšel?}
-{151}{}{U si pøesnì nevzpomínám, ale je to jisté jako smrt. Proè byste si jinak brousili zuby do špièata? No? Odpovìz mi!}
-{152}{}{Já si nebrousím zuby do... zapomeò na to. Chci se ještì na nìco zeptat.}
-{153}{}{Díky moc. Mùu pro tebe ještì nìco udìlat?}
-{154}{}{Vlastnì ještì nìco potøebuju.}
-{155}{}{Ne, to bude všechno. Díky, Joshi.}
-{156}{}{Co tím chceš øíct?}
-{157}{}{Tím chci øíct, e mi to pøijde jako dost, eh, *neobvyklá* kombinace.}
-{158}{}{Nic, vùbec nic. Chci se ještì na nìco zeptat, Joshi.}
-{159}{}{Tím chci øíct, e budu pít nìkde, kde není tolik mrtvol. Eh, chci øíct tam, kde je pøátelštìjší atmosféra. Sbohem.}
-{160}{}{Musel jsem toti znovu zakopávat nìkteré mrtvoly. Nìkdo nebo nìco je vyhrabává. Nechápu proè, kdy u sebe nemají nic cenného.}
-{161}{}{Nìkdo vykopává hroby?}
-{162}{}{Jak víš, e u sebe nemají nic cenného?}
-{163}{}{Nejspíš to byly jen krysy. Chci se ještì na nìco zeptat.}
-{164}{}{No, nevím to jistì, ale... ehm. Jenom hádám. Jo, pøesnì tak. Poslyš, tady máš pivo zdarma.}
-{165}{}{Nechápu, co tím naznaèuješ, ale vùbec se mi to nelíbí.}
-{166}{}{Díky za pivo. Co jsi myslel tím, e je nìco vykopává?}
-{167}{}{Radìji mi øekni, co jsi myslel tím, e je nìco vykopává.}
-{168}{}{No, nic jsem nevidìl, ale zhruba kadı tıden je nejménì jeden hrob celı poškrábanı a napùl vykopanı. Netuším, co to mùe dìlat.}
-{169}{}{To je zvláštní.}
-{170}{}{Pøímo znepokojující. A ke všemu mi horníci øíkají, e by byly radìji pochováni uvnitø, ne aby je nìco vytahovalo z hrobu ven jako pøerostlé tuøíny. Hezké sleèny si tu klidnì ponechám, ale nemùu zachránit všechny. Vùbec nevím, co s tím mám dìlat.}
-{171}{}{Opravdu pøíjemná pøedstava. Urèitì si na to nìkdy ve snu vzpomenu a probudím se s potem a na zadku. Chci se ještì na nìco zeptat.}
-{172}{}{To je opravdu záhada. No, uvidíme se pozdìji. Sbohem, Joshi.}
-{173}{}{No, tak kdy si je aspoò uvaøíte... co to sakra plácám? Poøád je to kanibalismus! Jsi opravdu zvrácenı, dokonce i na divocha.}
-{174}{}{Uklidni se, Joshi. Dìlám si srandu. Hehe. Vaøíme si jenom jejich èásti.}
-{175}{}{Èásti? Jaké èásti?}
-{176}{}{Koho to zajímá? (Pokrèíš rameny.) Prostì èásti.}
-{177}{}{Jenom si z tebe utahuju, Joshi. Chci se ještì na nìco zeptat.}
-{178}{}{No, to dává smysl.}
-{179}{}{Jasnì e dává. Poslyš, chci se ještì na nìco zeptat.}
-{180}{}{Kdy u tak mluvíme o jídle, mám hlad. Uvidíme se pozdìji, Joshi. Sbohem.}
-{181}{}{Zatracení Marani. A já si tì spletl s blbım divochech. No já jsem ale blbec. Pro mì je kanibal prostì kanibalem.}
-{182}{}{Jenome my si je nejdøív uvaøíme. Nejsme ádní køováci.}
-{183}{}{Nech moji nohu na pokoji, ty kanibale! Ještì ji budu potøebovat. Najdi si k snìdku nìco jiného.}
-{184}{}{Uklidni se. Ale zdá se mi, e máš pìknì tuhé a šlachovité maso. Hehe. Dìlám si srandu... vìtšinou. Chci se ještì na nìco zeptat.}
-{185}{}{Dobøe, podívám se jinde. Ale kdy nenajdu nic lepšího, vrátím se sem. Zatím nashle.}
-{186}{}{Nejdøív si musíš koupit pozemek pro hrob. Máš to snad v plánu?}
-{187}{}{Eh, ani ne. Chci se ještì na nìco zeptat.}
-{188}{}{Spíš zaøídím, aby byl jeden nebo dva pozemky zapotøebí. Uvidíme se pozdìji, Joshi.}
-{189}{}{No, je pravda, e oddìláním nìkoho to celé zaèíná. Ale nedoporuèoval bych ti to. Šerif Marion nemá takové chování zrovna moc v lásce.}
-{190}{}{Pokusím se nic neprovést. Chci se ještì na nìco zeptat.}
-{191}{}{Aha... no, aspoò vím, za kım mám jít, kdy se stane nìjaká nešastná *nehoda*. Sbohem, Joshi.}
+{107}{}{Vypadni! JeÅ¡tÄ› mi umaÅ¾eÅ¡ podlahu!}
+{108}{}{ZdravÃ­m, pÅ™Ã­teli. Jmenuju se Josh Laurance. PatÅ™Ã­ mi to tu.}
+{109}{}{Co pro tebe mohu udÄ›lat?}
+{110}{}{Co je tohle za mÃ­sto?}
+{111}{}{DÃ¡m si nÄ›co k pitÃ­.}
+{112}{}{Jednu rundu pro kaÅ¾dÃ©ho!}
+{113}{}{Chci koupit pÃ¡r drinkÅ¯ tady pro svoje pÅ™Ã¡tele.}
+{114}{}{DÄ›je se poslednÃ­ dobou ve mÄ›stÄ› nÄ›co zajÃ­mavÃ©ho?}
+{115}{}{MomentÃ¡lnÄ› nic. Jenom prochÃ¡zÃ­m. Sbohem.}
+{116}{}{Tomuhle nenalÃ©vÃ¡m.}
+{117}{}{OdveÄ svÃ©ho *pÅ™Ã­tele* pryÄ.}
+{118}{}{Tohle nenÃ­ Å¾Ã¡dnÃ© obludÃ¡rium. OdveÄ to pryÄ.}
+{119}{}{Tohle sem nesmÃ­.}
+{120}{}{Tohle tady nestrpÃ­m. Vypadni.}
+{121}{}{Tohle je SalÃ³n poslednÃ­ho vydechnutÃ­ a zÃ¡roveÅˆ mÃ­stnÃ­ pohÅ™ebnÃ­ sluÅ¾ba. Poskytujeme plnohodnotnÃ© sluÅ¾by. NaÅ¡e motto znÃ­: "LÃ¡hev do hrobu".}
+{122}{}{To je podivnÃ¡ kombinace podnikÅ¯, Joshi.}
+{123}{}{Lucretia Borgia by na tebe byla hrdÃ¡, Joshi.}
+{124}{}{MÅ¯Å¾u si koupit rakev?}
+{125}{}{Jak mÃ¡m zaÅ™Ã­dit pohÅ™eb?}
+{126}{}{RadÄ›ji se budu drÅ¾et dÃ¡l od tvÃ©ho praÅ¡ivÃ©ho chlastu.}
+{127}{}{ZajistÃ©. Bude to $5.}
+{128}{}{Tady jsou penÃ­ze.}
+{129}{}{MyslÃ­m, Å¾e to pivo vlastnÄ› teÄ nechci. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{130}{}{To je od tebe velmi Å¡tÄ›drÃ©. Dokud jsou vÅ¡ichni Å¾ivÃ­, dostanou pitÃ­. Hele, netuÅ¡il jsem, Å¾e jsem bÃ¡snÃ­k. Bude to $50.}
+{131}{}{Au. SlovnÃ­ hrÃ¡tky se smrtÃ­ nejsou moc dobrÃ½ nÃ¡pad, Joshi. Ber to jako pÅ™Ã¡telskÃ© varovÃ¡nÃ­. Tady mÃ¡Å¡ penÃ­ze.}
+{132}{}{Hmm, ta slovnÃ­ hÅ™Ã­Äka ten nÃ¡pad naprosto *zabila*. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{133}{}{Jsi opravdu pÅ™Ã¡telskÃ½ typ ÄlovÄ›ka. Bude to $}
+{134}{}{To za to stojÃ­. Tady mÃ¡Å¡.}
+{135}{}{VlastnÄ› si myslÃ­m, Å¾e bude lepÅ¡Ã­, kdyÅ¾ budou vÅ¡ichni stÅ™Ã­zlivÃ­. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{136}{}{Jde to dobÅ™e, kdyÅ¾ jsem s tebou uzavÅ™el obchod. PokraÄuj v dobrÃ© prÃ¡ci. KlidnÄ› mi mÅ¯Å¾eÅ¡ dÃ¡t dalÅ¡Ã­.}
+{137}{}{No, poslednÃ­ dobou se nedÄ›je nic zajÃ­mavÃ©ho. VÄ›tÅ¡inou je v mÃ©m obchodÄ› klid. Dalo by se Å™Ã­ct, Å¾e je tady ticho jako v hrobÄ›. AÄkoliv to v poslednÃ­ dobÄ› nenÃ­ aÅ¾ takovÃ¡ pravda.}
+{138}{}{Jak to? Co tÃ­m myslÃ­Å¡?}
+{139}{}{To opravdu je, ale jen samotnÃ© pohÅ™bÃ­vÃ¡nÃ­ lidÃ­ by mÄ› neuÅ¾ivilo... dalo by se Å™Ã­ct, Å¾e byl obchod mrtvÃ½. Byla to opravdu zasmuÅ¡ilÃ¡ situace. A tak jsem se rozhodl, Å¾e si tu zÅ™Ã­dÃ­m takovou malou hospÅ¯dku.}
+{140}{}{Aha. Skoro se tÄ› bojÃ­m jeÅ¡tÄ› na nÄ›co zeptat. Ale stejnÄ› to udÄ›lÃ¡m.}
+{141}{}{Eh, a nekazÃ­ ty mrtvoly vÅ¡ude kolem tvÃ½m hostÅ¯m chuÅ¥ k jÃ­dlu?}
+{142}{}{MyslÃ­m, Å¾e dalÅ¡Ã­ slovnÃ­ hÅ™Ã­Äku uÅ¾ nepÅ™eÅ¾iju. RadÄ›ji pÅ¯jdu. Sbohem.}
+{143}{}{No, to asi ano, pokud by byly pravÃ©. Ale nejsou. Tedy alespoÅˆ ne vÅ¡echny. A navÃ­c se to hornÃ­kÅ¯m docela lÃ­bÃ­. VÃ­c se potÃ© cÃ­tÃ­ naÅ¾ivu.}
+{144}{}{MyslÃ­m, Å¾e je to pÄ›knÄ› odpornÃ©. Jsi velmi naruÅ¡enÃ½ ÄlovÄ›k.}
+{145}{}{Aha. No, chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{146}{}{NÄ›komu se to moÅ¾nÃ¡ lÃ­bÃ­, ale mÄ› teda ne. DÄ›lÃ¡ ze mi z toho Å¡patnÄ›. Sbohem.}
+{147}{}{JÃ¡ Å¾e jsem *naruÅ¡enÃ½*? No a ty jsi zase divoch a ti, co jsem tak slyÅ¡el, jedÃ­ svÃ© mrtvÃ©.}
+{148}{}{Jak jinak mÃ¡me zÃ­skat jejich esenci?}
+{149}{}{Hele, tak moment. My si je nejdÅ™Ã­v poÅ™Ã¡dnÄ› uvaÅ™Ã­me. Nejsme Å¾Ã¡dnÃ­ kÅ™ovÃ¡ci.}
+{150}{}{To je smÄ›Å¡nÃ©. Kde jsi to slyÅ¡el?}
+{151}{}{UÅ¾ si pÅ™esnÄ› nevzpomÃ­nÃ¡m, ale je to jistÃ© jako smrt. ProÄ byste si jinak brousili zuby do Å¡piÄata? No? OdpovÄ›z mi!}
+{152}{}{JÃ¡ si nebrousÃ­m zuby do... zapomeÅˆ na to. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{153}{}{DÃ­ky moc. MÅ¯Å¾u pro tebe jeÅ¡tÄ› nÄ›co udÄ›lat?}
+{154}{}{VlastnÄ› jeÅ¡tÄ› nÄ›co potÅ™ebuju.}
+{155}{}{Ne, to bude vÅ¡echno. DÃ­ky, Joshi.}
+{156}{}{Co tÃ­m chceÅ¡ Å™Ã­ct?}
+{157}{}{TÃ­m chci Å™Ã­ct, Å¾e mi to pÅ™ijde jako dost, eh, *neobvyklÃ¡* kombinace.}
+{158}{}{Nic, vÅ¯bec nic. Chci se jeÅ¡tÄ› na nÄ›co zeptat, Joshi.}
+{159}{}{TÃ­m chci Å™Ã­ct, Å¾e budu pÃ­t nÄ›kde, kde nenÃ­ tolik mrtvol. Eh, chci Å™Ã­ct tam, kde je pÅ™Ã¡telÅ¡tÄ›jÅ¡Ã­ atmosfÃ©ra. Sbohem.}
+{160}{}{Musel jsem totiÅ¾ znovu zakopÃ¡vat nÄ›kterÃ© mrtvoly. NÄ›kdo nebo nÄ›co je vyhrabÃ¡vÃ¡. NechÃ¡pu proÄ, kdyÅ¾ u sebe nemajÃ­ nic cennÃ©ho.}
+{161}{}{NÄ›kdo vykopÃ¡vÃ¡ hroby?}
+{162}{}{Jak vÃ­Å¡, Å¾e u sebe nemajÃ­ nic cennÃ©ho?}
+{163}{}{NejspÃ­Å¡ to byly jen krysy. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{164}{}{No, nevÃ­m to jistÄ›, ale... ehm. Jenom hÃ¡dÃ¡m. Jo, pÅ™esnÄ› tak. PoslyÅ¡, tady mÃ¡Å¡ pivo zdarma.}
+{165}{}{NechÃ¡pu, co tÃ­m naznaÄujeÅ¡, ale vÅ¯bec se mi to nelÃ­bÃ­.}
+{166}{}{DÃ­ky za pivo. Co jsi myslel tÃ­m, Å¾e je nÄ›co vykopÃ¡vÃ¡?}
+{167}{}{RadÄ›ji mi Å™ekni, co jsi myslel tÃ­m, Å¾e je nÄ›co vykopÃ¡vÃ¡.}
+{168}{}{No, nic jsem nevidÄ›l, ale zhruba kaÅ¾dÃ½ tÃ½den je nejmÃ©nÄ› jeden hrob celÃ½ poÅ¡krÃ¡banÃ½ a napÅ¯l vykopanÃ½. NetuÅ¡Ã­m, co to mÅ¯Å¾e dÄ›lat.}
+{169}{}{To je zvlÃ¡Å¡tnÃ­.}
+{170}{}{PÅ™Ã­mo znepokojujÃ­cÃ­. A ke vÅ¡emu mi hornÃ­ci Å™Ã­kajÃ­, Å¾e by byly radÄ›ji pochovÃ¡ni uvnitÅ™, neÅ¾ aby je nÄ›co vytahovalo z hrobu ven jako pÅ™erostlÃ© tuÅ™Ã­ny. HezkÃ© sleÄny si tu klidnÄ› ponechÃ¡m, ale nemÅ¯Å¾u zachrÃ¡nit vÅ¡echny. VÅ¯bec nevÃ­m, co s tÃ­m mÃ¡m dÄ›lat.}
+{171}{}{Opravdu pÅ™Ã­jemnÃ¡ pÅ™edstava. UrÄitÄ› si na to nÄ›kdy ve snu vzpomenu a probudÃ­m se s potem aÅ¾ na zadku. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{172}{}{To je opravdu zÃ¡hada. No, uvidÃ­me se pozdÄ›ji. Sbohem, Joshi.}
+{173}{}{No, tak kdyÅ¾ si je aspoÅˆ uvaÅ™Ã­te... co to sakra plÃ¡cÃ¡m? PoÅ™Ã¡d je to kanibalismus! Jsi opravdu zvrÃ¡cenÃ½, dokonce i na divocha.}
+{174}{}{Uklidni se, Joshi. DÄ›lÃ¡m si srandu. Hehe. VaÅ™Ã­me si jenom jejich ÄÃ¡sti.}
+{175}{}{ÄŒÃ¡sti? JakÃ© ÄÃ¡sti?}
+{176}{}{Koho to zajÃ­mÃ¡? (PokrÄÃ­Å¡ rameny.) ProstÄ› ÄÃ¡sti.}
+{177}{}{Jenom si z tebe utahuju, Joshi. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{178}{}{No, to dÃ¡vÃ¡ smysl.}
+{179}{}{JasnÄ› Å¾e dÃ¡vÃ¡. PoslyÅ¡, chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{180}{}{KdyÅ¾ uÅ¾ tak mluvÃ­me o jÃ­dle, mÃ¡m hlad. UvidÃ­me se pozdÄ›ji, Joshi. Sbohem.}
+{181}{}{ZatracenÃ­ MarÅ¥ani. A jÃ¡ si tÄ› spletl s blbÃ½m divochech. No jÃ¡ jsem ale blbec. Pro mÄ› je kanibal prostÄ› kanibalem.}
+{182}{}{JenomÅ¾e my si je nejdÅ™Ã­v uvaÅ™Ã­me. Nejsme Å¾Ã¡dnÃ­ kÅ™ovÃ¡ci.}
+{183}{}{Nech moji nohu na pokoji, ty kanibale! JeÅ¡tÄ› ji budu potÅ™ebovat. Najdi si k snÄ›dku nÄ›co jinÃ©ho.}
+{184}{}{Uklidni se. Ale zdÃ¡ se mi, Å¾e mÃ¡Å¡ pÄ›knÄ› tuhÃ© a Å¡lachovitÃ© maso. Hehe. DÄ›lÃ¡m si srandu... vÄ›tÅ¡inou. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{185}{}{DobÅ™e, podÃ­vÃ¡m se jinde. Ale kdyÅ¾ nenajdu nic lepÅ¡Ã­ho, vrÃ¡tÃ­m se sem. ZatÃ­m nashle.}
+{186}{}{NejdÅ™Ã­v si musÃ­Å¡ koupit pozemek pro hrob. MÃ¡Å¡ to snad v plÃ¡nu?}
+{187}{}{Eh, ani ne. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{188}{}{SpÃ­Å¡ zaÅ™Ã­dÃ­m, aby byl jeden nebo dva pozemky zapotÅ™ebÃ­. UvidÃ­me se pozdÄ›ji, Joshi.}
+{189}{}{No, je pravda, Å¾e oddÄ›lÃ¡nÃ­m nÄ›koho to celÃ© zaÄÃ­nÃ¡. Ale nedoporuÄoval bych ti to. Å erif Marion nemÃ¡ takovÃ© chovÃ¡nÃ­ zrovna moc v lÃ¡sce.}
+{190}{}{PokusÃ­m se nic neprovÃ©st. Chci se jeÅ¡tÄ› na nÄ›co zeptat.}
+{191}{}{Aha... no, aspoÅˆ vÃ­m, za kÃ½m mÃ¡m jÃ­t, kdyÅ¾ se stane nÄ›jakÃ¡ neÅ¡Å¥astnÃ¡ *nehoda*. Sbohem, Joshi.}

@@ -1,41 +1,41 @@
-{100}{}{Vidíš osobu v legraèním pyamu. Vypadá zamyšlenì.}
-{101}{}{Vidíš technika ponorky Shi.}
-{150}{}{Eh, proè se tady plííš?}
-{151}{}{Ty jsi nìjakı špión nebo co?}
-{200}{}{To je hnus, podívej na všechen ten rez!}
-{201}{}{Netuším proè to potøebujeme udrovat funkèní.}
-{202}{}{Tyhle torpéda jsou jak èasovaná bomba. Kadou chvíli mùe dojít k nehodì.}
-{300}{}{Nevybavuju si, e bych tì tu nìkdy vidìl. Co dìláš v torpédové komoøe? A kdo vùbec jsi?}
-{301}{}{Zase ty? Co dìláš poøád v torpédové komoøe? A kdo vùbec jsi?}
-{302}{}{Jsem nová posila do vašeho technického tımu. Pøiøadili mì na poslední chvíli. Omlouvám se, e vás neinformovali dopøedu.
- Jo a jsem tu kvùli údrbì torpéd. Vypadají hroznì. Kadou chvíli se mùe nìco stát!}
-{303}{}{Pøiøadili mì k vám teprve nedávno. Povìøili mì prací na navádìcích systémech torpéd,
- protoe nepracují správnì. Myslím, e to mùe bıt zpùsobeno jistımi neopravitelnımi chybami v konstrukci
- základních desek Sungsam.}
-{304}{}{Jsem opraváø, èerstvì pøidìlen do vašeho tımu. Mám provádìt pravidelné údrby torpéd,
- protoe vypadají pøíšernì! Podívej na všechnu tu rez! A všechny lodní šrouby vypadají jako by mìly upadnout!}
-{305}{}{Pardon, špatná místnost.}
-{310}{}{No koneènì máme na palubì kvalifikovaného mechanika. Chtìl jsem to opravit sám, ale mám z tìch torpéd trochu nahnáno.
- Víš, e v sobì mají tolik vıbušniny, e by z téhle ponorky dokázaly nadìlat hromádku nepouitelného šrotu?}
-{311}{}{Dám si velkı pozor. Slibuju.}
-{320}{}{Koneènì mi po tìch tıdnech škemrání poslali mechanika...}
-{330}{}{Eh, nevypadáš moc jako mechanik. Upøímnì si myslím, e nedokáeš rozeznat klíè od šroubováku,
- take radìji pomoc ostatním namísto poflakování se v torpédové komoøe.
- Nechci omylem vyletìt do vzduchu.}
-{331}{}{Fajn, u pùjdu.}
-{340}{}{To je všechno moc hezkı, ale, eh, proè hledáš konzoli v torpédové komoøe? Je v té místnosti za tebou.
- Potøebuju mechanika, ne dalšího technika, take pokud nejsi taky zdatnı opraváø, tak odejdi.}
-{341}{}{Vlastnì jo, jsem i opraváø. Mám celkem slušné zkušenosti se starımi technologiemi.
- S torpédama si poradím. Pustím se do opravy lodních šroubù, aby pracovaly správnì a ujistím se,
- e z nenadìlají hromádku nepouitelného šrotu.}
-{342}{}{Fajn, u pùjdu.}
-{350}{}{Hmm, specialistù v obou oborech je v pustinách jako šafránu. Myslím, e ti mùu vìøit,
- tak bì a oprav ty torpéda, a se mùu koneènì cítit trochu bezpeènìji.}
-{351}{}{Dobøe.}
-{360}{}{Hele, mám tu práci.}
-{361}{}{Promiò, teï pracuju.}
-{370}{}{Nedotıkej se toho!}
-{371}{}{Co jsem ti øíkal?!}
-{372}{}{Varoval jsem tì!}
-{375}{}{Co to sakra dìláš! Stráe!}
-{380}{}{Pøestaò plıtvat mım èasem a dej se do práce.}
+{100}{}{VidÃ­Å¡ osobu v legraÄnÃ­m pyÅ¾amu. VypadÃ¡ zamyÅ¡lenÄ›.}
+{101}{}{VidÃ­Å¡ technika ponorky Shi.}
+{150}{}{Eh, proÄ se tady plÃ­Å¾Ã­Å¡?}
+{151}{}{Ty jsi nÄ›jakÃ½ Å¡piÃ³n nebo co?}
+{200}{}{To je hnus, podÃ­vej na vÅ¡echen ten rez!}
+{201}{}{NetuÅ¡Ã­m proÄ to potÅ™ebujeme udrÅ¾ovat funkÄnÃ­.}
+{202}{}{Tyhle torpÃ©da jsou jak ÄasovanÃ¡ bomba. KaÅ¾dou chvÃ­li mÅ¯Å¾e dojÃ­t k nehodÄ›.}
+{300}{}{Nevybavuju si, Å¾e bych tÄ› tu nÄ›kdy vidÄ›l. Co dÄ›lÃ¡Å¡ v torpÃ©dovÃ© komoÅ™e? A kdo vÅ¯bec jsi?}
+{301}{}{Zase ty? Co dÄ›lÃ¡Å¡ poÅ™Ã¡d v torpÃ©dovÃ© komoÅ™e? A kdo vÅ¯bec jsi?}
+{302}{}{Jsem novÃ¡ posila do vaÅ¡eho technickÃ©ho tÃ½mu. PÅ™iÅ™adili mÄ› na poslednÃ­ chvÃ­li. OmlouvÃ¡m se, Å¾e vÃ¡s neinformovali dopÅ™edu.
+ Jo a jsem tu kvÅ¯li ÃºdrÅ¾bÄ› torpÃ©d. VypadajÃ­ hroznÄ›. KaÅ¾dou chvÃ­li se mÅ¯Å¾e nÄ›co stÃ¡t!}
+{303}{}{PÅ™iÅ™adili mÄ› k vÃ¡m teprve nedÃ¡vno. PovÄ›Å™ili mÄ› pracÃ­ na navÃ¡dÄ›cÃ­ch systÃ©mech torpÃ©d,
+ protoÅ¾e nepracujÃ­ sprÃ¡vnÄ›. MyslÃ­m, Å¾e to mÅ¯Å¾e bÃ½t zpÅ¯sobeno jistÃ½mi neopravitelnÃ½mi chybami v konstrukci
+ zÃ¡kladnÃ­ch desek Sungsam.}
+{304}{}{Jsem opravÃ¡Å™, ÄerstvÄ› pÅ™idÄ›len do vaÅ¡eho tÃ½mu. MÃ¡m provÃ¡dÄ›t pravidelnÃ© ÃºdrÅ¾by torpÃ©d,
+ protoÅ¾e vypadajÃ­ pÅ™Ã­Å¡ernÄ›! PodÃ­vej na vÅ¡echnu tu rez! A vÅ¡echny lodnÃ­ Å¡rouby vypadajÃ­ jako by mÄ›ly upadnout!}
+{305}{}{Pardon, Å¡patnÃ¡ mÃ­stnost.}
+{310}{}{No koneÄnÄ› mÃ¡me na palubÄ› kvalifikovanÃ©ho mechanika. ChtÄ›l jsem to opravit sÃ¡m, ale mÃ¡m z tÄ›ch torpÃ©d trochu nahnÃ¡no.
+ VÃ­Å¡, Å¾e v sobÄ› majÃ­ tolik vÃ½buÅ¡niny, Å¾e by z tÃ©hle ponorky dokÃ¡zaly nadÄ›lat hromÃ¡dku nepouÅ¾itelnÃ©ho Å¡rotu?}
+{311}{}{DÃ¡m si velkÃ½ pozor. Slibuju.}
+{320}{}{KoneÄnÄ› mi po tÄ›ch tÃ½dnech Å¡kemrÃ¡nÃ­ poslali mechanika...}
+{330}{}{Eh, nevypadÃ¡Å¡ moc jako mechanik. UpÅ™Ã­mnÄ› si myslÃ­m, Å¾e nedokÃ¡Å¾eÅ¡ rozeznat klÃ­Ä od Å¡roubovÃ¡ku,
+ takÅ¾e radÄ›ji pomoc ostatnÃ­m namÃ­sto poflakovÃ¡nÃ­ se v torpÃ©dovÃ© komoÅ™e.
+ Nechci omylem vyletÄ›t do vzduchu.}
+{331}{}{Fajn, uÅ¾ pÅ¯jdu.}
+{340}{}{To je vÅ¡echno moc hezkÃ½, ale, eh, proÄ hledÃ¡Å¡ konzoli v torpÃ©dovÃ© komoÅ™e? Je v tÃ© mÃ­stnosti za tebou.
+ PotÅ™ebuju mechanika, ne dalÅ¡Ã­ho technika, takÅ¾e pokud nejsi taky zdatnÃ½ opravÃ¡Å™, tak odejdi.}
+{341}{}{VlastnÄ› jo, jsem i opravÃ¡Å™. MÃ¡m celkem sluÅ¡nÃ© zkuÅ¡enosti se starÃ½mi technologiemi.
+ S torpÃ©dama si poradÃ­m. PustÃ­m se do opravy lodnÃ­ch Å¡roubÅ¯, aby pracovaly sprÃ¡vnÄ› a ujistÃ­m se,
+ Å¾e z nenadÄ›lajÃ­ hromÃ¡dku nepouÅ¾itelnÃ©ho Å¡rotu.}
+{342}{}{Fajn, uÅ¾ pÅ¯jdu.}
+{350}{}{Hmm, specialistÅ¯ v obou oborech je v pustinÃ¡ch jako Å¡afrÃ¡nu. MyslÃ­m, Å¾e ti mÅ¯Å¾u vÄ›Å™it,
+ tak bÄ›Å¾ a oprav ty torpÃ©da, aÅ¥ se mÅ¯Å¾u koneÄnÄ› cÃ­tit trochu bezpeÄnÄ›ji.}
+{351}{}{DobÅ™e.}
+{360}{}{Hele, mÃ¡m tu prÃ¡ci.}
+{361}{}{PromiÅˆ, teÄ pracuju.}
+{370}{}{NedotÃ½kej se toho!}
+{371}{}{Co jsem ti Å™Ã­kal?!}
+{372}{}{Varoval jsem tÄ›!}
+{375}{}{Co to sakra dÄ›lÃ¡Å¡! StrÃ¡Å¾e!}
+{380}{}{PÅ™estaÅˆ plÃ½tvat mÃ½m Äasem a dej se do prÃ¡ce.}

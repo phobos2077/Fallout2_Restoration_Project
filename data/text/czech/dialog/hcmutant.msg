@@ -1,56 +1,56 @@
-{100}{}{Vidíš starého mutanta.}
-{101}{}{Vidíš starého mutanta, obyvatele Broken Hills.}
-{102}{}{Po bliším prozkoumání vidíš pøestárlého mutanta. Jeho svaly vypadají poøád dobøe, stejnì jako jeho charisma, které z nìj èíší.}
-{103}{}{Myslím... e... ten radonovej plyn udruje horníky mladı.}
-{104}{}{U si toho moc nepamatuju... ale všechno se to pomalu vrací... poèkat...}
-{105}{}{Víš o tom, e nás lidi chtìj zabít?}
-{106}{}{Pøál bych si, aby nás lidi akceptovali. Svım zpùsobem jsme taky lidi.}
-{107}{}{Co se vlastnì dìje ve svìtì? Poslední dobou to nìjak nesleduju.}
-{108}{}{Øíká se, e FEV, kterı nás stvoøilo, nás dìlá senilní.}
-{109}{}{Zdá se, e mi nìjak ujídí vlak. Bejval jsem silnej a rychlej... ale teï jsem trochu jako èlovìk.}
-{110}{}{Záleí vùbec na ivotì, kdy to stejnì všechno jednou skonèí?}
-{132}{}{Kdo vypustil ty psy? Já ho pøetrhnu!}
-{133}{}{Franc a Manson udìlaj líp, kdy se nìkam zašijou... jestli je nìkdy dostanu do ruky, rozbiju jim ciferník.}
-{134}{}{Franc. Manson. Pìknı skunci.}
-{135}{}{Ti sráèové u zase mùou zabíjet, co?}
-{136}{}{Mìli bysme na ty dva zorganizovat pátrací skupinu.}
-{137}{}{Nebudu klidnì spát, dokud nebudou mrtví.}
-{138}{}{Tak a u nejsme v bezpeèí.}
-{139}{}{No... ehh... kdo e jsi?}
-{140}{}{Franc a Manson se budou chovat slušnì? Vìtší kravinu jsem ještì neslyšel.}
-{141}{}{Chci, abys vìdìl, e ti moc nepodìkujem, jestli ti sráèi udìlaj zase nìjakej prùšvih.}
-{142}{}{Tak dobøe... dám tìm dvoum kreténùm šanci...}
-{143}{}{Jak se dostanu domù?}
-{144}{}{Nemluvil jsem s tebou pøed chvílí?}
-{145}{}{Nebudu klidnì spát, dokud nebudou mrtví.}
-{146}{}{Tak a u nejsme v bezpeèí.}
-{147}{}{No... ehh... kdo e jsi?}
-{148}{}{Já to vìdìl! Vìdìl jsem, e maj na nás ti sráèi spadeno!}
-{149}{}{Nikdy jsem nevìøil tomu hajzlovi Jacobovi.}
-{150}{}{Take... lidi nás chtìj zabít. Moná je døív zabijeme my.}
-{151}{}{Všichni lidi nás nechtìj zabít, e ne?}
-{152}{}{Ale, ale, ale... další lidskı intriky?}
-{153}{}{Kadım dnem ztrácím víc a víc... dnes vyprchaly moje vzpomínky a víra v lidstvo.}
-{154}{}{Ty jsi ten dobrı.}
-{162}{}{Francis je ohromenej. Stejnì tak jako já.}
-{163}{}{Jak mùe èlovìk porazit mutanta v páce? Nepodvádìl jsi?}
-{164}{}{Tak jak naloíš se svojí vıhrou?}
-{165}{}{Máš sílu. Velikou.}
-{166}{}{Jak jednou poznáš mutanta, u nikdy nechceš nikoho jinıho.}
-{167}{}{Slyšel jsem, e to s tebou stálo za to... od Francise.}
-{168}{}{Divím se, e vùbec chodíš.}
-{169}{}{Hehe... Francis je moná starej, ale poøád má chu!}
-{170}{}{Ti ubozí lidé.}
-{171}{}{Bıt takhle uvìznìnej pod zemí...}
-{172}{}{Celou dobu jsem jim to øíkal, "Jacob a Aileen jsou problém. Stejnì tak jako Franc a Manson." Ale myslíš, e mì nìkdo poslouchal? Neeeee.}
-{173}{}{V chodbách, jo? Já vìdìl, e jsou to krysy a èervy.}
-{174}{}{Take ten smrad byly ty mrtvoly, jo?}
-{175}{}{Proè nám ubliuješ?}
-{176}{}{Lidi mi nikdy nevìøí.}
-{177}{}{Nech mì bıt.}
-{178}{}{Proè u nechcípneš?}
-{179}{}{Proè lidi vdycky nièí to, èeho se bojí?}
-{180}{}{Jseš hajzl.}
-{181}{}{Tvùj ivot je ubohej.}
-{182}{}{Ty... znám lidi jako ty...}
-{183}{}{Jsem u moc starej na to, abych tì nenávidìl.}
+{100}{}{VidÃ­Å¡ starÃ©ho mutanta.}
+{101}{}{VidÃ­Å¡ starÃ©ho mutanta, obyvatele Broken Hills.}
+{102}{}{Po bliÅ¾Å¡Ã­m prozkoumÃ¡nÃ­ vidÃ­Å¡ pÅ™estÃ¡rlÃ©ho mutanta. Jeho svaly vypadajÃ­ poÅ™Ã¡d dobÅ™e, stejnÄ› jako jeho charisma, kterÃ© z nÄ›j ÄÃ­Å¡Ã­.}
+{103}{}{MyslÃ­m... Å¾e... ten radonovej plyn udrÅ¾uje hornÃ­ky mladÃ½.}
+{104}{}{UÅ¾ si toho moc nepamatuju... ale vÅ¡echno se to pomalu vracÃ­... poÄkat...}
+{105}{}{VÃ­Å¡ o tom, Å¾e nÃ¡s lidi chtÄ›j zabÃ­t?}
+{106}{}{PÅ™Ã¡l bych si, aby nÃ¡s lidi akceptovali. SvÃ½m zpÅ¯sobem jsme taky lidi.}
+{107}{}{Co se vlastnÄ› dÄ›je ve svÄ›tÄ›? PoslednÃ­ dobou to nÄ›jak nesleduju.}
+{108}{}{Å˜Ã­kÃ¡ se, Å¾e FEV, kterÃ½ nÃ¡s stvoÅ™ilo, nÃ¡s dÄ›lÃ¡ senilnÃ­.}
+{109}{}{ZdÃ¡ se, Å¾e mi nÄ›jak ujÃ­Å¾dÃ­ vlak. Bejval jsem silnej a rychlej... ale teÄ jsem trochu jako ÄlovÄ›k.}
+{110}{}{ZÃ¡leÅ¾Ã­ vÅ¯bec na Å¾ivotÄ›, kdyÅ¾ to stejnÄ› vÅ¡echno jednou skonÄÃ­?}
+{132}{}{Kdo vypustil ty psy? JÃ¡ ho pÅ™etrhnu!}
+{133}{}{Franc a Manson udÄ›laj lÃ­p, kdyÅ¾ se nÄ›kam zaÅ¡ijou... jestli je nÄ›kdy dostanu do ruky, rozbiju jim cifernÃ­k.}
+{134}{}{Franc. Manson. PÄ›knÃ½ skunci.}
+{135}{}{Ti srÃ¡ÄovÃ© uÅ¾ zase mÅ¯Å¾ou zabÃ­jet, co?}
+{136}{}{MÄ›li bysme na ty dva zorganizovat pÃ¡tracÃ­ skupinu.}
+{137}{}{Nebudu klidnÄ› spÃ¡t, dokud nebudou mrtvÃ­.}
+{138}{}{Tak a uÅ¾ nejsme v bezpeÄÃ­.}
+{139}{}{No... ehh... kdo Å¾e jsi?}
+{140}{}{Franc a Manson se budou chovat sluÅ¡nÄ›? VÄ›tÅ¡Ã­ kravinu jsem jeÅ¡tÄ› neslyÅ¡el.}
+{141}{}{Chci, abys vÄ›dÄ›l, Å¾e ti moc nepodÄ›kujem, jestli ti srÃ¡Äi udÄ›laj zase nÄ›jakej prÅ¯Å¡vih.}
+{142}{}{Tak dobÅ™e... dÃ¡m tÄ›m dvoum kretÃ©nÅ¯m Å¡anci...}
+{143}{}{Jak se dostanu domÅ¯?}
+{144}{}{Nemluvil jsem s tebou pÅ™ed chvÃ­lÃ­?}
+{145}{}{Nebudu klidnÄ› spÃ¡t, dokud nebudou mrtvÃ­.}
+{146}{}{Tak a uÅ¾ nejsme v bezpeÄÃ­.}
+{147}{}{No... ehh... kdo Å¾e jsi?}
+{148}{}{JÃ¡ to vÄ›dÄ›l! VÄ›dÄ›l jsem, Å¾e maj na nÃ¡s ti srÃ¡Äi spadeno!}
+{149}{}{Nikdy jsem nevÄ›Å™il tomu hajzlovi Jacobovi.}
+{150}{}{TakÅ¾e... lidi nÃ¡s chtÄ›j zabÃ­t. MoÅ¾nÃ¡ je dÅ™Ã­v zabijeme my.}
+{151}{}{VÅ¡ichni lidi nÃ¡s nechtÄ›j zabÃ­t, Å¾e ne?}
+{152}{}{Ale, ale, ale... dalÅ¡Ã­ lidskÃ½ intriky?}
+{153}{}{KaÅ¾dÃ½m dnem ztrÃ¡cÃ­m vÃ­c a vÃ­c... dnes vyprchaly moje vzpomÃ­nky a vÃ­ra v lidstvo.}
+{154}{}{Ty jsi ten dobrÃ½.}
+{162}{}{Francis je ohromenej. StejnÄ› tak jako jÃ¡.}
+{163}{}{Jak mÅ¯Å¾e ÄlovÄ›k porazit mutanta v pÃ¡ce? NepodvÃ¡dÄ›l jsi?}
+{164}{}{Tak jak naloÅ¾Ã­Å¡ se svojÃ­ vÃ½hrou?}
+{165}{}{MÃ¡Å¡ sÃ­lu. Velikou.}
+{166}{}{Jak jednou poznÃ¡Å¡ mutanta, uÅ¾ nikdy nechceÅ¡ nikoho jinÃ½ho.}
+{167}{}{SlyÅ¡el jsem, Å¾e to s tebou stÃ¡lo za to... od Francise.}
+{168}{}{DivÃ­m se, Å¾e vÅ¯bec chodÃ­Å¡.}
+{169}{}{Hehe... Francis je moÅ¾nÃ¡ starej, ale poÅ™Ã¡d mÃ¡ chuÅ¥!}
+{170}{}{Ti ubozÃ­ lidÃ©.}
+{171}{}{BÃ½t takhle uvÄ›znÄ›nej pod zemÃ­...}
+{172}{}{Celou dobu jsem jim to Å™Ã­kal, "Jacob a Aileen jsou problÃ©m. StejnÄ› tak jako Franc a Manson." Ale myslÃ­Å¡, Å¾e mÄ› nÄ›kdo poslouchal? Neeeee.}
+{173}{}{V chodbÃ¡ch, jo? JÃ¡ vÄ›dÄ›l, Å¾e jsou to krysy a Äervy.}
+{174}{}{TakÅ¾e ten smrad byly ty mrtvoly, jo?}
+{175}{}{ProÄ nÃ¡m ubliÅ¾ujeÅ¡?}
+{176}{}{Lidi mi nikdy nevÄ›Å™Ã­.}
+{177}{}{Nech mÄ› bÃ½t.}
+{178}{}{ProÄ uÅ¾ nechcÃ­pneÅ¡?}
+{179}{}{ProÄ lidi vÅ¾dycky niÄÃ­ to, Äeho se bojÃ­?}
+{180}{}{JseÅ¡ hajzl.}
+{181}{}{TvÅ¯j Å¾ivot je ubohej.}
+{182}{}{Ty... znÃ¡m lidi jako ty...}
+{183}{}{Jsem uÅ¾ moc starej na to, abych tÄ› nenÃ¡vidÄ›l.}

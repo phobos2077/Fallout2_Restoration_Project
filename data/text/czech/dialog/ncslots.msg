@@ -1,190 +1,190 @@
-{100}{}{Vidíš hrací automat.}
-{101}{}{Vidíš blıskající se hrací automat.}
-{150}{}{Vidíš hrací automat. Máš pocit, jako by se na tebe koutkem oka díval.}
-{151}{}{Vidíš hrací automat. Jeho lesklı povrch a zlatá páka lákavì záøí v odlescích svìtel New Rena.}
-{152}{}{Vidíš blıskající se hrací automat. Je urèenı pro gamblery vyšší tøídy... minimální sázka je }
-{153}{}{ dolarù.}
-{154}{}{Vidíš blıskající se hrací automat.}
-{160}{}{*Pojï si zahrát ještì jednou, kovboji.*}
-{161}{}{*Ahoj námoøníku.*}
-{162}{}{*Strè dovnitø dolar a zatáhni za páku. Budu na tebe hodnı.*}
-{163}{}{*Tik... tik... tíííík...*}
-{164}{}{*Ahoj zlato. Pojï si zahrát.*}
+{100}{}{VidÃ­Å¡ hracÃ­ automat.}
+{101}{}{VidÃ­Å¡ blÃ½skajÃ­cÃ­ se hracÃ­ automat.}
+{150}{}{VidÃ­Å¡ hracÃ­ automat. MÃ¡Å¡ pocit, jako by se na tebe koutkem oka dÃ­val.}
+{151}{}{VidÃ­Å¡ hracÃ­ automat. Jeho lesklÃ½ povrch a zlatÃ¡ pÃ¡ka lÃ¡kavÄ› zÃ¡Å™Ã­ v odlescÃ­ch svÄ›tel New Rena.}
+{152}{}{VidÃ­Å¡ blÃ½skajÃ­cÃ­ se hracÃ­ automat. Je urÄenÃ½ pro gamblery vyÅ¡Å¡Ã­ tÅ™Ã­dy... minimÃ¡lnÃ­ sÃ¡zka je }
+{153}{}{ dolarÅ¯.}
+{154}{}{VidÃ­Å¡ blÃ½skajÃ­cÃ­ se hracÃ­ automat.}
+{160}{}{*PojÄ si zahrÃ¡t jeÅ¡tÄ› jednou, kovboji.*}
+{161}{}{*Ahoj nÃ¡moÅ™nÃ­ku.*}
+{162}{}{*StrÄ dovnitÅ™ dolar a zatÃ¡hni za pÃ¡ku. Budu na tebe hodnÃ½.*}
+{163}{}{*Tik... tik... tÃ­Ã­Ã­Ã­k...*}
+{164}{}{*Ahoj zlato. PojÄ si zahrÃ¡t.*}
 {165}{}{*Ahoj zlato.*}
-{166}{}{*Vypadáš roztomile. Proè si nejdeš zahrát?*}
+{166}{}{*VypadÃ¡Å¡ roztomile. ProÄ si nejdeÅ¡ zahrÃ¡t?*}
 {175}{}{*Cink*}
-{176}{}{*Bøink*}
+{176}{}{*BÅ™ink*}
 {177}{}{*Klik-cvak*}
 {178}{}{*Zzzzzzz*}
 {179}{}{*Cinkylink*}
 {180}{}{*Dindading*}
-{185}{}{Vidíš podivnou zlatou bednu se tøema oèima a jednou rukou. Je to jedna z nejhezèích vìcí na svìtì, kterou jsi kdy vidìl.}
-{186}{}{Já }
+{185}{}{VidÃ­Å¡ podivnou zlatou bednu se tÅ™ema oÄima a jednou rukou. Je to jedna z nejhezÄÃ­ch vÄ›cÃ­ na svÄ›tÄ›, kterou jsi kdy vidÄ›l.}
+{186}{}{JÃ¡ }
 {187}{}{ gdo ty?}
-{188}{}{Já chtít MÁMU. }
-{189}{}{ stıskat se po AR-JOJO. Já chtít jít domù.}
-{190}{}{[Potøást mu rukou]}
-{191}{}{ty divnı mutant.}
-{192}{}{Chvála Vault! Chvála Vault!}
-{193}{}{Ty bıt vodní èip?}
-{194}{}{Odbelhat se jít hledat jiné lesklé vìcièky.}
-{195}{}{Odejít.}
-{205}{}{Ta divná pozlacená kovová krabice se tøema oèima a jednou rukou neodpovídá.}
-{206}{}{JÁ }
-{207}{}{ ODPOVÌDÌT JÁ.}
-{208}{}{[Potøást mu rukou]}
-{209}{}{Já dítì Zakládatel a ty mluvit k já HNED.}
-{210}{}{ty divnı mutant.}
-{211}{}{Ty bıt vodní èip?}
-{212}{}{Odbelhat se jít hledat jiné lesklé vìcièky.}
-{213}{}{Odejít.}
-{220}{}{Uchopíš jeho ruku a jemnì si s ní potøeseš. Slyšíš nìjaké *bzzzzzzz* a krabice promluví! "Prosím... vlote... peníze."}
-{221}{}{Ajajaj! Robot! Robot! Honééém pryè.}
-{222}{}{Odejít.}
-{225}{}{Nemáš dost penìz na hraní a proklínáš svou chudobu. Moná nìkdy jindy...}
-{226}{}{Odejít.}
-{230}{}{Vidíš hrací automat. Jeho lesklı povrch a zlatá páka lákavì záøí v odlescích svìtel New Rena. Štìrbina na mince tì pøitahuje a ty cítíš, jak se ti ruce chvìjí nedoèkavostí.}
-{231}{}{(Ruka se ti tøepe, kdy saháš do kapsy pro peníze. Stroj ti stále nìco šeptá.) *Tak pojï, zlato... to je ono... jen do toho... neostıchej se...*}
-{232}{}{(Ruka se ti tøepe, kdy saháš do kapsy pro peníze. Stroj ti stále nìco šeptá.) *Tak pojï, zlato... to je ono... popadni tu páku... poøádnì ji stiskni... jen do toho...*}
-{233}{}{Zbıvá ti  }
-{234}{}{ dolarù. Chceš riskovat všechno?}
-{235}{}{Zbıvá ti  }
-{236}{}{ dolarù. Vsadit }
-{237}{}{ dolarù?}
+{188}{}{JÃ¡ chtÃ­t MÃMU. }
+{189}{}{ stÃ½skat se po AR-JOJO. JÃ¡ chtÃ­t jÃ­t domÅ¯.}
+{190}{}{[PotÅ™Ã¡st mu rukou]}
+{191}{}{ty divnÃ½ mutant.}
+{192}{}{ChvÃ¡la Vault! ChvÃ¡la Vault!}
+{193}{}{Ty bÃ½t vodnÃ­ Äip?}
+{194}{}{Odbelhat se jÃ­t hledat jinÃ© lesklÃ© vÄ›ciÄky.}
+{195}{}{OdejÃ­t.}
+{205}{}{Ta divnÃ¡ pozlacenÃ¡ kovovÃ¡ krabice se tÅ™ema oÄima a jednou rukou neodpovÃ­dÃ¡.}
+{206}{}{JÃ }
+{207}{}{ ODPOVÄšDÄšT JÃ.}
+{208}{}{[PotÅ™Ã¡st mu rukou]}
+{209}{}{JÃ¡ dÃ­tÄ› ZaklÃ¡datel a ty mluvit k jÃ¡ HNED.}
+{210}{}{ty divnÃ½ mutant.}
+{211}{}{Ty bÃ½t vodnÃ­ Äip?}
+{212}{}{Odbelhat se jÃ­t hledat jinÃ© lesklÃ© vÄ›ciÄky.}
+{213}{}{OdejÃ­t.}
+{220}{}{UchopÃ­Å¡ jeho ruku a jemnÄ› si s nÃ­ potÅ™eseÅ¡. SlyÅ¡Ã­Å¡ nÄ›jakÃ© *bzzzzzzz* a krabice promluvÃ­! "ProsÃ­m... vloÅ¾te... penÃ­ze."}
+{221}{}{Ajajaj! Robot! Robot! HonÃ©Ã©Ã©m pryÄ.}
+{222}{}{OdejÃ­t.}
+{225}{}{NemÃ¡Å¡ dost penÄ›z na hranÃ­ a proklÃ­nÃ¡Å¡ svou chudobu. MoÅ¾nÃ¡ nÄ›kdy jindy...}
+{226}{}{OdejÃ­t.}
+{230}{}{VidÃ­Å¡ hracÃ­ automat. Jeho lesklÃ½ povrch a zlatÃ¡ pÃ¡ka lÃ¡kavÄ› zÃ¡Å™Ã­ v odlescÃ­ch svÄ›tel New Rena. Å tÄ›rbina na mince tÄ› pÅ™itahuje a ty cÃ­tÃ­Å¡, jak se ti ruce chvÄ›jÃ­ nedoÄkavostÃ­.}
+{231}{}{(Ruka se ti tÅ™epe, kdyÅ¾ sahÃ¡Å¡ do kapsy pro penÃ­ze. Stroj ti stÃ¡le nÄ›co Å¡eptÃ¡.) *Tak pojÄ, zlato... to je ono... jen do toho... neostÃ½chej se...*}
+{232}{}{(Ruka se ti tÅ™epe, kdyÅ¾ sahÃ¡Å¡ do kapsy pro penÃ­ze. Stroj ti stÃ¡le nÄ›co Å¡eptÃ¡.) *Tak pojÄ, zlato... to je ono... popadni tu pÃ¡ku... poÅ™Ã¡dnÄ› ji stiskni... jen do toho...*}
+{233}{}{ZbÃ½vÃ¡ ti  }
+{234}{}{ dolarÅ¯. ChceÅ¡ riskovat vÅ¡echno?}
+{235}{}{ZbÃ½vÃ¡ ti  }
+{236}{}{ dolarÅ¯. Vsadit }
+{237}{}{ dolarÅ¯?}
 {238}{}{Vsadit }
-{239}{}{ dolarù?}
-{240}{}{Pro dnešek skonèit.}
-{241}{}{Pro dnešek skonèit.}
-{245}{}{Kola se toèí, toèí, toèí a... nic.}
-{246}{}{NIC. NIC! Slyšíš, jak se ti stroj smìje a popadne tì vztek. Vyhazovaèi musí odtrhnout tvé jeèící tìlo od automatu.}
-{247}{}{(Stroj se na tebe zašklebí.) *Tak a mám všechno, co jsem chtìl. Promiò, zlato. A dej si pozor, a nezakopneš, a pùjdeš pryè. Ha ha ha ha ha ha.*}
-{248}{}{Máš }
-{249}{}{ dolarù. Pokusit se vyhrát ztracené peníze a hrát dál?}
-{250}{}{Zbıvá ti  }
-{251}{}{ dolarù. Chceš riskovat všechno?}
-{252}{}{Jsi na dnì. Musíš pro dnešek skonèit.}
-{253}{}{Jsi na dnì. Musíš pro dnešek skonèit.}
-{254}{}{Pro dnešek skonèit.}
-{255}{}{Pro dnešek skonèit.}
-{260}{}{Tøi dıky. ádná vıhra, ádná prohra.}
-{261}{}{(Stroj ti dál šeptá.) *No tak, zlato... to se stane kadému... zkus to znovu... prosím...*}
-{262}{}{(Stroj ti dál šeptá.) *No tak, zlato... zkus to znovu... popadni tu páku... poøádnì ji stiskni... jen do toho...*}
-{263}{}{Máš ještì }
-{264}{}{ dolarù. Chceš hrát dál?}
-{265}{}{Máš ještì }
-{266}{}{ dolarù. Chceš hrát dál?}
-{267}{}{Pro dnešek skonèit.}
-{268}{}{Pro dnešek skonèit.}
-{275}{}{Tøi Kulky! Vyhráváš dvojnásobek!}
-{276}{}{(Stroj rozkoší vzdychne.) *To je ono, zlato... tahej dál za páku... rychleji, tvrdìji, rychleji... jen do toho...*}
-{277}{}{(Stroj rozkoší zasténá.) *To je ono, zlato... tahej dál za páku... rychleji, tvrdìji, rychleji... jen do toho...*}
-{278}{}{Máš }
-{279}{}{ dolarù! Chceš hrát dál?}
-{280}{}{Pro dnešek skonèit.}
-{281}{}{Pro dnešek skonèit.}
-{290}{}{Tøi Granáty! Zatracenì! Vyhráváš trojnásobek!}
-{291}{}{(Stroj rozkoší zaskøípe a okolím se rozezní hlasité cinkání mincí.) *Aùùùùùùùùùù! To je ono, zlato! Ach boe, ano! Ano! Ano, znovu! Rychleji! Tvrdìji! Na co ještì èekáš?! Znovu!*}
-{292}{}{(Stroj radostnì zabruèí a okolím se rozezní hlasité cinkání mincí.) *Ennnnghhhh! To je ono, zlato! Takhle se to dìlá! TAKHLE se to dìlá! Znovu! Zatáhni za ni silnìji! A pìknì tvrdì!*}
-{293}{}{Zatancovat vítìznı tanec, pak se zhluboka nadechnout a hrát dál.}
-{294}{}{No tak granáty, pojïte! Malej potøebuje novı boty! (Hrát dál)}
-{295}{}{Máš }
-{296}{}{ dolarù. Chceš hrát dál?}
-{297}{}{Pro dnešek skonèit.}
-{298}{}{Pro dnešek skonèit.}
-{305}{}{(Vidíš hrací automat. Jeho naleštìnı povrch a pozlacená páka svádivì záøí pod blikajícími svìtly New Rena. Štìrbina na mince tì pøitahuje a ty cítíš, jak se ti ruce chvìjí nedoèkavostí. Jak na ten stroj zíráš, jedno z jeho tøí oèí na tebe mrkne. Slyšíš jemnı hlas vycházející ze štìrbiny na mince.) *A hele! Nazdááárek, zlato. Chceš se pobavit?*}
-{306}{}{(Vidíš hrací automat. Jeho bytelná skøíò a pozlacená páka záøí pod svìtly New Rena jako sluníèko. Štìrbina na mince tì pøitahuje a ty cítíš, jak se ti ruce chvìjí nedoèkavostí. Jak na ten stroj zíráš, slyšíš drsnı muskı šepot linoucí se ze štìrbiny na mince.) *Takovouhle koèku jsem tady ještì nevidìl. Chceš se pobavit?*}
-{307}{}{::Štípnout se, jestli se ti to jenom nezdá::}
+{239}{}{ dolarÅ¯?}
+{240}{}{Pro dneÅ¡ek skonÄit.}
+{241}{}{Pro dneÅ¡ek skonÄit.}
+{245}{}{Kola se toÄÃ­, toÄÃ­, toÄÃ­ a... nic.}
+{246}{}{NIC. NIC! SlyÅ¡Ã­Å¡, jak se ti stroj smÄ›je a popadne tÄ› vztek. VyhazovaÄi musÃ­ odtrhnout tvÃ© jeÄÃ­cÃ­ tÄ›lo od automatu.}
+{247}{}{(Stroj se na tebe zaÅ¡klebÃ­.) *Tak a mÃ¡m vÅ¡echno, co jsem chtÄ›l. PromiÅˆ, zlato. A dej si pozor, aÅ¥ nezakopneÅ¡, aÅ¾ pÅ¯jdeÅ¡ pryÄ. Ha ha ha ha ha ha.*}
+{248}{}{MÃ¡Å¡ }
+{249}{}{ dolarÅ¯. Pokusit se vyhrÃ¡t ztracenÃ© penÃ­ze a hrÃ¡t dÃ¡l?}
+{250}{}{ZbÃ½vÃ¡ ti  }
+{251}{}{ dolarÅ¯. ChceÅ¡ riskovat vÅ¡echno?}
+{252}{}{Jsi na dnÄ›. MusÃ­Å¡ pro dneÅ¡ek skonÄit.}
+{253}{}{Jsi na dnÄ›. MusÃ­Å¡ pro dneÅ¡ek skonÄit.}
+{254}{}{Pro dneÅ¡ek skonÄit.}
+{255}{}{Pro dneÅ¡ek skonÄit.}
+{260}{}{TÅ™i dÃ½ky. Å½Ã¡dnÃ¡ vÃ½hra, Å¾Ã¡dnÃ¡ prohra.}
+{261}{}{(Stroj ti dÃ¡l Å¡eptÃ¡.) *No tak, zlato... to se stane kaÅ¾dÃ©mu... zkus to znovu... prosÃ­m...*}
+{262}{}{(Stroj ti dÃ¡l Å¡eptÃ¡.) *No tak, zlato... zkus to znovu... popadni tu pÃ¡ku... poÅ™Ã¡dnÄ› ji stiskni... jen do toho...*}
+{263}{}{MÃ¡Å¡ jeÅ¡tÄ› }
+{264}{}{ dolarÅ¯. ChceÅ¡ hrÃ¡t dÃ¡l?}
+{265}{}{MÃ¡Å¡ jeÅ¡tÄ› }
+{266}{}{ dolarÅ¯. ChceÅ¡ hrÃ¡t dÃ¡l?}
+{267}{}{Pro dneÅ¡ek skonÄit.}
+{268}{}{Pro dneÅ¡ek skonÄit.}
+{275}{}{TÅ™i Kulky! VyhrÃ¡vÃ¡Å¡ dvojnÃ¡sobek!}
+{276}{}{(Stroj rozkoÅ¡Ã­ vzdychne.) *To je ono, zlato... tahej dÃ¡l za pÃ¡ku... rychleji, tvrdÄ›ji, rychleji... jen do toho...*}
+{277}{}{(Stroj rozkoÅ¡Ã­ zastÃ©nÃ¡.) *To je ono, zlato... tahej dÃ¡l za pÃ¡ku... rychleji, tvrdÄ›ji, rychleji... jen do toho...*}
+{278}{}{MÃ¡Å¡ }
+{279}{}{ dolarÅ¯! ChceÅ¡ hrÃ¡t dÃ¡l?}
+{280}{}{Pro dneÅ¡ek skonÄit.}
+{281}{}{Pro dneÅ¡ek skonÄit.}
+{290}{}{TÅ™i GranÃ¡ty! ZatracenÄ›! VyhrÃ¡vÃ¡Å¡ trojnÃ¡sobek!}
+{291}{}{(Stroj rozkoÅ¡Ã­ zaskÅ™Ã­pe a okolÃ­m se rozeznÃ­ hlasitÃ© cinkÃ¡nÃ­ mincÃ­.) *AÅ¯Å¯Å¯Å¯Å¯Å¯Å¯Å¯Å¯Å¯! To je ono, zlato! Ach boÅ¾e, ano! Ano! Ano, znovu! Rychleji! TvrdÄ›ji! Na co jeÅ¡tÄ› ÄekÃ¡Å¡?! Znovu!*}
+{292}{}{(Stroj radostnÄ› zabruÄÃ­ a okolÃ­m se rozeznÃ­ hlasitÃ© cinkÃ¡nÃ­ mincÃ­.) *Ennnnghhhh! To je ono, zlato! Takhle se to dÄ›lÃ¡! TAKHLE se to dÄ›lÃ¡! Znovu! ZatÃ¡hni za ni silnÄ›ji! A pÄ›knÄ› tvrdÄ›!*}
+{293}{}{Zatancovat vÃ­tÄ›znÃ½ tanec, pak se zhluboka nadechnout a hrÃ¡t dÃ¡l.}
+{294}{}{No tak granÃ¡ty, pojÄte! Malej potÅ™ebuje novÃ½ boty! (HrÃ¡t dÃ¡l)}
+{295}{}{MÃ¡Å¡ }
+{296}{}{ dolarÅ¯. ChceÅ¡ hrÃ¡t dÃ¡l?}
+{297}{}{Pro dneÅ¡ek skonÄit.}
+{298}{}{Pro dneÅ¡ek skonÄit.}
+{305}{}{(VidÃ­Å¡ hracÃ­ automat. Jeho naleÅ¡tÄ›nÃ½ povrch a pozlacenÃ¡ pÃ¡ka svÃ¡divÄ› zÃ¡Å™Ã­ pod blikajÃ­cÃ­mi svÄ›tly New Rena. Å tÄ›rbina na mince tÄ› pÅ™itahuje a ty cÃ­tÃ­Å¡, jak se ti ruce chvÄ›jÃ­ nedoÄkavostÃ­. Jak na ten stroj zÃ­rÃ¡Å¡, jedno z jeho tÅ™Ã­ oÄÃ­ na tebe mrkne. SlyÅ¡Ã­Å¡ jemnÃ½ hlas vychÃ¡zejÃ­cÃ­ ze Å¡tÄ›rbiny na mince.) *A hele! NazdÃ¡Ã¡Ã¡rek, zlato. ChceÅ¡ se pobavit?*}
+{306}{}{(VidÃ­Å¡ hracÃ­ automat. Jeho bytelnÃ¡ skÅ™Ã­Åˆ a pozlacenÃ¡ pÃ¡ka zÃ¡Å™Ã­ pod svÄ›tly New Rena jako slunÃ­Äko. Å tÄ›rbina na mince tÄ› pÅ™itahuje a ty cÃ­tÃ­Å¡, jak se ti ruce chvÄ›jÃ­ nedoÄkavostÃ­. Jak na ten stroj zÃ­rÃ¡Å¡, slyÅ¡Ã­Å¡ drsnÃ½ muÅ¾skÃ½ Å¡epot linoucÃ­ se ze Å¡tÄ›rbiny na mince.) *Takovouhle koÄku jsem tady jeÅ¡tÄ› nevidÄ›l. ChceÅ¡ se pobavit?*}
+{307}{}{::Å tÃ­pnout se, jestli se ti to jenom nezdÃ¡::}
 {308}{}{Uh... hello?}
-{309}{}{::Zhluboka se nadechnout a odejít.::}
-{315}{}{*Jsem tu poøád, krásko.* (Automat sníí hlas.) *Tak pojï, jdeme na to... chceš si zahrát?*}
-{316}{}{*Jsem poøád tady, zlato.* (Automat ztiší hlas.) *Víš, e jseš poøádnej kus chlapa? No ták... nechceš do mì strèit pár dolarù?*}
-{317}{}{Gdo jsssešš?}
-{318}{}{*Hik* Jasssnììì e chci hrádd.}
-{319}{}{Myslím, e radši odejdu, ne do tebe strèím nìco, èeho budu litovat.}
-{320}{}{::Zhluboka se nadechnout a odejít.::}
-{325}{}{*Jsem tvùj ideální mu.* (Automat na tebe mrkne.) *Dej mi pár mincí a já tì uspokojím tak, jako to ještì ádnı jinı mu pøedtím NIKDY nedokázal.*}
-{326}{}{*Jsem tvoje ideální ena, zlato. Chci jen trochu pozornosti. Pomùeš mi? No ták, jenom pár mincí.*}
-{327}{}{Co takchle si jen povídad?}
-{328}{}{*Hik* Jasssnììì e chci hrádd.}
-{329}{}{Myslím, e radši odejdu, ne do tebe strèím nìco, èeho budu litovat.}
-{330}{}{::Zhluboka se nadechnout a odejít.::}
-{335}{}{*To samozøejmì mùeme, zlato.* (Automat se zatváøí soucitnì.) *Copak trápí tu tvoji krásnou hlavièku?*}
-{336}{}{*To samozøejmì mùeme, zlato.* (Automat se zatváøí soucitnì.) *Copak tì trápí, fešáku?*}
-{337}{}{Já chybìt MÁMA a Arroyo a... nemùšu najíd GECK a... *smrk*}
-{338}{}{Já chybìt MÁMA a Arroyo bıt NAPADNOUD a... já nevìdìd, gde bıt... a... *smrk*}
-{339}{}{Já muset spravit véélikou loï... a vùbec nevìdìd JAG... a m-m-moje MÁMA bıt pryè a... *smrk*}
-{340}{}{Dohrál jsem tudle hru... a te se jen potulujù... a bojím se, e je POFŠEM a... *smrk*}
-{341}{}{Já jen, e Faloud dvì nepotporuje moji tøi dé efix kartu, za kerou jsem vyhodil tolik p-penìz a *smrk*}
-{342}{}{chtìl jsem si udìlat dobrou p-p-postavu, ale nìják jsem si špatnì rosdìlil body... a te mám postavu na houno... *smrk*}
-{343}{}{povídám si tady s hracím auto-ma-matem. U sem asi to-ta-tálnì mimo.}
-{344}{}{::Zhluboka se nadechnout a odejít.::}
-{350}{}{*Ale no ták... tak u tím netrap tu svoji roztomilou hlavièku... já se o všechno postarám. No tak, odpoèiò si a vyzpovídej se.*}
-{351}{}{*Ale no ták... tak u se tím netrap, zlato... já se o všechno postarám. No tak, opøi si o mì tu svoji hezkou hlavièku a vyzpovídej se.*}
-{352}{}{Díky, hrací automate. *smrk* Jseš nejlepèí.}
-{353}{}{Tys jediná *hodná* osoba, kerou jsem gdy podkal. Kadej mì jenom chce *ublíšit* nebo okrásd a... *smrk*}
-{354}{}{::Zhluboka se nadechnout a odejít.::}
-{360}{}{(Opøeš o automat svou tìkou hlavu.)}
-{361}{}{*Budeš v poøádku, zlato? Nechci tì nìkam pouštìt v takovém stavu.*}
-{362}{}{*Budeš v poøádku, zlato? Nechci tì nìkam pouštìt v takovém stavu.*}
-{363}{}{Já budu f pohodì... dík za rozhovor, automate, mám tì rát.}
-{370}{}{(Zdá se ti, e se v jednom z jeho oken objeví slza.)}
-{371}{}{*Jsi asi jediná hrdinka v tomhle hrozném svìtì zlodìjù a vrahù, }
-{372}{}{. Dávej na sebe pozor, ano zlato?* (Otoèí se.) *Radìji u jdi, ne se zaènu chovat jako baba.*}
-{373}{}{*Jsi asi jedinı hrdina v tomhle hrozném svìtì zlodìjù a vrahù, }
-{374}{}{. Ty... ty... dávej na sebe pozor, ano zlato?* (Otoèí se.) *Radìji u jdi, ne zaènu plakat.*}
+{309}{}{::Zhluboka se nadechnout a odejÃ­t.::}
+{315}{}{*Jsem tu poÅ™Ã¡d, krÃ¡sko.* (Automat snÃ­Å¾Ã­ hlas.) *Tak pojÄ, jdeme na to... chceÅ¡ si zahrÃ¡t?*}
+{316}{}{*Jsem poÅ™Ã¡d tady, zlato.* (Automat ztiÅ¡Ã­ hlas.) *VÃ­Å¡, Å¾e jseÅ¡ poÅ™Ã¡dnej kus chlapa? No tÃ¡k... nechceÅ¡ do mÄ› strÄit pÃ¡r dolarÅ¯?*}
+{317}{}{Gdo jssseÅ¡Å¡?}
+{318}{}{*Hik* JasssnÄ›Ä›Ä› Å¾e chci hrÃ¡dd.}
+{319}{}{MyslÃ­m, Å¾e radÅ¡i odejdu, neÅ¾ do tebe strÄÃ­m nÄ›co, Äeho budu litovat.}
+{320}{}{::Zhluboka se nadechnout a odejÃ­t.::}
+{325}{}{*Jsem tvÅ¯j ideÃ¡lnÃ­ muÅ¾.* (Automat na tebe mrkne.) *Dej mi pÃ¡r mincÃ­ a jÃ¡ tÄ› uspokojÃ­m tak, jako to jeÅ¡tÄ› Å¾Ã¡dnÃ½ jinÃ½ muÅ¾ pÅ™edtÃ­m NIKDY nedokÃ¡zal.*}
+{326}{}{*Jsem tvoje ideÃ¡lnÃ­ Å¾ena, zlato. Chci jen trochu pozornosti. PomÅ¯Å¾eÅ¡ mi? No tÃ¡k, jenom pÃ¡r mincÃ­.*}
+{327}{}{Co takchle si jen povÃ­dad?}
+{328}{}{*Hik* JasssnÄ›Ä›Ä› Å¾e chci hrÃ¡dd.}
+{329}{}{MyslÃ­m, Å¾e radÅ¡i odejdu, neÅ¾ do tebe strÄÃ­m nÄ›co, Äeho budu litovat.}
+{330}{}{::Zhluboka se nadechnout a odejÃ­t.::}
+{335}{}{*To samozÅ™ejmÄ› mÅ¯Å¾eme, zlato.* (Automat se zatvÃ¡Å™Ã­ soucitnÄ›.) *Copak trÃ¡pÃ­ tu tvoji krÃ¡snou hlaviÄku?*}
+{336}{}{*To samozÅ™ejmÄ› mÅ¯Å¾eme, zlato.* (Automat se zatvÃ¡Å™Ã­ soucitnÄ›.) *Copak tÄ› trÃ¡pÃ­, feÅ¡Ã¡ku?*}
+{337}{}{JÃ¡ chybÄ›t MÃMA a Arroyo a... nemÅ¯Å¡u najÃ­d GECK a... *smrk*}
+{338}{}{JÃ¡ chybÄ›t MÃMA a Arroyo bÃ½t NAPADNOUD a... jÃ¡ nevÄ›dÄ›d, gde bÃ½t... a... *smrk*}
+{339}{}{JÃ¡ muset spravit vÃ©Ã©likou loÄ... a vÅ¯bec nevÄ›dÄ›d JAG... a m-m-moje MÃMA bÃ½t pryÄ a... *smrk*}
+{340}{}{DohrÃ¡l jsem tudle hru... a teÅ¥ se jen potulujÅ¯... a bojÃ­m se, Å¾e je POFÅ EM a... *smrk*}
+{341}{}{JÃ¡ jen, Å¾e Faloud dvÄ› nepotporuje moji tÅ™i dÃ© efix kartu, za kerou jsem vyhodil tolik p-penÄ›z a *smrk*}
+{342}{}{chtÄ›l jsem si udÄ›lat dobrou p-p-postavu, ale nÄ›jÃ¡k jsem si Å¡patnÄ› rosdÄ›lil body... a teÅ¥ mÃ¡m postavu na houno... *smrk*}
+{343}{}{povÃ­dÃ¡m si tady s hracÃ­m auto-ma-matem. UÅ¾ sem asi to-ta-tÃ¡lnÄ› mimo.}
+{344}{}{::Zhluboka se nadechnout a odejÃ­t.::}
+{350}{}{*Ale no tÃ¡k... tak uÅ¾ tÃ­m netrap tu svoji roztomilou hlaviÄku... jÃ¡ se o vÅ¡echno postarÃ¡m. No tak, odpoÄiÅˆ si a vyzpovÃ­dej se.*}
+{351}{}{*Ale no tÃ¡k... tak uÅ¾ se tÃ­m netrap, zlato... jÃ¡ se o vÅ¡echno postarÃ¡m. No tak, opÅ™i si o mÄ› tu svoji hezkou hlaviÄku a vyzpovÃ­dej se.*}
+{352}{}{DÃ­ky, hracÃ­ automate. *smrk* JseÅ¡ nejlepÄÃ­.}
+{353}{}{Tys jedinÃ¡ *hodnÃ¡* osoba, kerou jsem gdy podkal. KaÅ¾dej mÄ› jenom chce *ublÃ­Å¡it* nebo okrÃ¡sd a... *smrk*}
+{354}{}{::Zhluboka se nadechnout a odejÃ­t.::}
+{360}{}{(OpÅ™eÅ¡ o automat svou tÄ›Å¾kou hlavu.)}
+{361}{}{*BudeÅ¡ v poÅ™Ã¡dku, zlato? Nechci tÄ› nÄ›kam pouÅ¡tÄ›t v takovÃ©m stavu.*}
+{362}{}{*BudeÅ¡ v poÅ™Ã¡dku, zlato? Nechci tÄ› nÄ›kam pouÅ¡tÄ›t v takovÃ©m stavu.*}
+{363}{}{JÃ¡ budu f pohodÄ›... dÃ­k za rozhovor, automate, mÃ¡m tÄ› rÃ¡t.}
+{370}{}{(ZdÃ¡ se ti, Å¾e se v jednom z jeho oken objevÃ­ slza.)}
+{371}{}{*Jsi asi jedinÃ¡ hrdinka v tomhle hroznÃ©m svÄ›tÄ› zlodÄ›jÅ¯ a vrahÅ¯, }
+{372}{}{. DÃ¡vej na sebe pozor, ano zlato?* (OtoÄÃ­ se.) *RadÄ›ji uÅ¾ jdi, neÅ¾ se zaÄnu chovat jako baba.*}
+{373}{}{*Jsi asi jedinÃ½ hrdina v tomhle hroznÃ©m svÄ›tÄ› zlodÄ›jÅ¯ a vrahÅ¯, }
+{374}{}{. Ty... ty... dÃ¡vej na sebe pozor, ano zlato?* (OtoÄÃ­ se.) *RadÄ›ji uÅ¾ jdi, neÅ¾ zaÄnu plakat.*}
 {375}{}{Ahooooj.}
-{380}{}{Vidíš vysokosázkovı hrací automat  - minimální sázka je }
-{381}{}{ dolarù. Jeho lesklı povrch a zlatá páka lákavì záøí v odlescích svìtel New Rena. Štìrbina na mince tì pøitahuje a ty cítíš, jak se ti ruce chvìjí nedoèkavostí.}
-{382}{}{(Ruka se ti tøepe, kdy saháš do kapsy pro peníze. Stroj ti stále nìco šeptá.) *Tak pojï, zlato... to je ono... jen do toho... neostıchej se...*}
-{383}{}{(Ruka se ti tøepe, kdy saháš do kapsy pro peníze. Stroj ti stále nìco šeptá.) *Tak pojï, zlato... to je ono... popadni tu páku... poøádnì ji stiskni... jen do toho...*}
-{384}{}{Zbıvá ti  }
-{385}{}{ dolarù. Chceš riskovat všechno?}
-{386}{}{Zbıvá ti  }
-{387}{}{ dolarù. Vsadit }
-{388}{}{ dolarù?}
+{380}{}{VidÃ­Å¡ vysokosÃ¡zkovÃ½ hracÃ­ automat  - minimÃ¡lnÃ­ sÃ¡zka je }
+{381}{}{ dolarÅ¯. Jeho lesklÃ½ povrch a zlatÃ¡ pÃ¡ka lÃ¡kavÄ› zÃ¡Å™Ã­ v odlescÃ­ch svÄ›tel New Rena. Å tÄ›rbina na mince tÄ› pÅ™itahuje a ty cÃ­tÃ­Å¡, jak se ti ruce chvÄ›jÃ­ nedoÄkavostÃ­.}
+{382}{}{(Ruka se ti tÅ™epe, kdyÅ¾ sahÃ¡Å¡ do kapsy pro penÃ­ze. Stroj ti stÃ¡le nÄ›co Å¡eptÃ¡.) *Tak pojÄ, zlato... to je ono... jen do toho... neostÃ½chej se...*}
+{383}{}{(Ruka se ti tÅ™epe, kdyÅ¾ sahÃ¡Å¡ do kapsy pro penÃ­ze. Stroj ti stÃ¡le nÄ›co Å¡eptÃ¡.) *Tak pojÄ, zlato... to je ono... popadni tu pÃ¡ku... poÅ™Ã¡dnÄ› ji stiskni... jen do toho...*}
+{384}{}{ZbÃ½vÃ¡ ti  }
+{385}{}{ dolarÅ¯. ChceÅ¡ riskovat vÅ¡echno?}
+{386}{}{ZbÃ½vÃ¡ ti  }
+{387}{}{ dolarÅ¯. Vsadit }
+{388}{}{ dolarÅ¯?}
 {389}{}{Vsadit }
-{390}{}{ dolarù?}
-{391}{}{Pro dnešek skonèit.}
-{392}{}{Pro dnešek skonèit.}
-{400}{}{Kola se toèí, toèí, toèí a... nic.}
-{401}{}{NIC. NIC! Slyšíš, jak se ti smìje a popadne tì vztek. Vyhazovaèi musí odtrhnout tvé jeèící tìlo od automatu.}
-{402}{}{(Stroj se na tebe zašklebí.) *Tak a mám všechno, co jsem chtìl. Promiò, zlato. A dej si pozor, a nezakopneš, a pùjdeš pryè. Ha ha ha ha ha ha.*}
-{403}{}{Máš }
-{404}{}{ dolarù. Pokusit se vyhrát ztracené peníze a hrát dál?}
-{405}{}{Zbıvá ti  }
-{406}{}{ dolarù. Chceš riskovat všechno?}
-{407}{}{Jsi na mizinì. Pro dnešek toho musíš nechat.}
-{408}{}{Jsi na mizinì. Pro dnešek toho musíš nechat.}
-{409}{}{Pro dnešek skonèit.}
-{410}{}{Pro dnešek skonèit.}
-{415}{}{Tøi bomby... ádná vıhra, ádná prohra.}
-{416}{}{(Stroj ti dál šeptá.) *No tak, zlato... to se stane kadému... zkus to znovu... prosím...*}
-{417}{}{(Stroj ti dál šeptá.) *No tak, zlato... zkus to znovu... popadni tu páku... poøádnì ji stiskni... jen do toho...*}
-{418}{}{Máš ještì }
-{419}{}{ dolarù. Chceš hrát dál?}
-{420}{}{Pro dnešek skonèit.}
-{421}{}{Pro dnešek skonèit.}
-{425}{}{Tøi Atomovky! Vyhráváš dvojnásobek!}
-{426}{}{(Stroj rozkoší vzdychne.) *To je ono, zlato... tahej dál za páku... rychleji, tvrdìji, rychleji... jen do toho...*}
-{427}{}{(Stroj rozkoší zasténá.) *To je ono, zlato... tahej dál za páku... rychleji, tvrdìji, rychleji... jen do toho...*}
-{428}{}{Máš }
-{429}{}{ dolarù! Chceš hrát dál?}
-{430}{}{Pro dnešek skonèit.}
-{431}{}{Pro dnešek skonèit.}
-{435}{}{Tøi Hirošimy! Vyhráváš trojnásobek!}
-{436}{}{(Stroj rozkoší zaskøípe a okolím se rozezní hlasité cinkání mincí.) *Aùùùùùùùùùù! To je ono, zlato! Ach boe, ano! Ano! Ano, znovu! Rychleji! Tvrdìji! Na co ještì èekáš?! Znovu!*}
-{437}{}{(Stroj radostnì zabruèí a okolím se rozezní hlasité cinkání mincí.) *Ennnnghhhh! To je ono, zlato! Takhle se to dìlá! TAKHLE se to dìlá! Znovu! Zatáhni za ni silnìji! A pìknì tvrdì!*}
-{438}{}{Zatancovat vítìznı tanec, pak se zhluboka nadechnout a hrát dál.}
-{439}{}{No tak Hirošimy, pojïte! Malej potøebuje novı boty! (Hrát dál)}
-{440}{}{Máš }
-{441}{}{ dolarù. Chceš hrát dál?}
-{442}{}{Pro dnešek skonèit.}
-{443}{}{Pro dnešek skonèit.}
-{1000}{}{Tvé šance nevypadají moc nadìjnì.}
-{1001}{}{Kurz vypadá dobøe.}
-{1005}{}{Své šance mùeš jen stìí odhadnout.}
-{1006}{}{Kurz vypadá docela dobøe.}
-{1010}{}{Kurz vypadá dobøe!}
-{1011}{}{Kurz nevypadá dobøe.}
-{1015}{}{Kurz vypadá dobøe!}
-{1016}{}{Kurz nevypadá dobøe.}
+{390}{}{ dolarÅ¯?}
+{391}{}{Pro dneÅ¡ek skonÄit.}
+{392}{}{Pro dneÅ¡ek skonÄit.}
+{400}{}{Kola se toÄÃ­, toÄÃ­, toÄÃ­ a... nic.}
+{401}{}{NIC. NIC! SlyÅ¡Ã­Å¡, jak se ti smÄ›je a popadne tÄ› vztek. VyhazovaÄi musÃ­ odtrhnout tvÃ© jeÄÃ­cÃ­ tÄ›lo od automatu.}
+{402}{}{(Stroj se na tebe zaÅ¡klebÃ­.) *Tak a mÃ¡m vÅ¡echno, co jsem chtÄ›l. PromiÅˆ, zlato. A dej si pozor, aÅ¥ nezakopneÅ¡, aÅ¾ pÅ¯jdeÅ¡ pryÄ. Ha ha ha ha ha ha.*}
+{403}{}{MÃ¡Å¡ }
+{404}{}{ dolarÅ¯. Pokusit se vyhrÃ¡t ztracenÃ© penÃ­ze a hrÃ¡t dÃ¡l?}
+{405}{}{ZbÃ½vÃ¡ ti  }
+{406}{}{ dolarÅ¯. ChceÅ¡ riskovat vÅ¡echno?}
+{407}{}{Jsi na mizinÄ›. Pro dneÅ¡ek toho musÃ­Å¡ nechat.}
+{408}{}{Jsi na mizinÄ›. Pro dneÅ¡ek toho musÃ­Å¡ nechat.}
+{409}{}{Pro dneÅ¡ek skonÄit.}
+{410}{}{Pro dneÅ¡ek skonÄit.}
+{415}{}{TÅ™i bomby... Å¾Ã¡dnÃ¡ vÃ½hra, Å¾Ã¡dnÃ¡ prohra.}
+{416}{}{(Stroj ti dÃ¡l Å¡eptÃ¡.) *No tak, zlato... to se stane kaÅ¾dÃ©mu... zkus to znovu... prosÃ­m...*}
+{417}{}{(Stroj ti dÃ¡l Å¡eptÃ¡.) *No tak, zlato... zkus to znovu... popadni tu pÃ¡ku... poÅ™Ã¡dnÄ› ji stiskni... jen do toho...*}
+{418}{}{MÃ¡Å¡ jeÅ¡tÄ› }
+{419}{}{ dolarÅ¯. ChceÅ¡ hrÃ¡t dÃ¡l?}
+{420}{}{Pro dneÅ¡ek skonÄit.}
+{421}{}{Pro dneÅ¡ek skonÄit.}
+{425}{}{TÅ™i Atomovky! VyhrÃ¡vÃ¡Å¡ dvojnÃ¡sobek!}
+{426}{}{(Stroj rozkoÅ¡Ã­ vzdychne.) *To je ono, zlato... tahej dÃ¡l za pÃ¡ku... rychleji, tvrdÄ›ji, rychleji... jen do toho...*}
+{427}{}{(Stroj rozkoÅ¡Ã­ zastÃ©nÃ¡.) *To je ono, zlato... tahej dÃ¡l za pÃ¡ku... rychleji, tvrdÄ›ji, rychleji... jen do toho...*}
+{428}{}{MÃ¡Å¡ }
+{429}{}{ dolarÅ¯! ChceÅ¡ hrÃ¡t dÃ¡l?}
+{430}{}{Pro dneÅ¡ek skonÄit.}
+{431}{}{Pro dneÅ¡ek skonÄit.}
+{435}{}{TÅ™i HiroÅ¡imy! VyhrÃ¡vÃ¡Å¡ trojnÃ¡sobek!}
+{436}{}{(Stroj rozkoÅ¡Ã­ zaskÅ™Ã­pe a okolÃ­m se rozeznÃ­ hlasitÃ© cinkÃ¡nÃ­ mincÃ­.) *AÅ¯Å¯Å¯Å¯Å¯Å¯Å¯Å¯Å¯Å¯! To je ono, zlato! Ach boÅ¾e, ano! Ano! Ano, znovu! Rychleji! TvrdÄ›ji! Na co jeÅ¡tÄ› ÄekÃ¡Å¡?! Znovu!*}
+{437}{}{(Stroj radostnÄ› zabruÄÃ­ a okolÃ­m se rozeznÃ­ hlasitÃ© cinkÃ¡nÃ­ mincÃ­.) *Ennnnghhhh! To je ono, zlato! Takhle se to dÄ›lÃ¡! TAKHLE se to dÄ›lÃ¡! Znovu! ZatÃ¡hni za ni silnÄ›ji! A pÄ›knÄ› tvrdÄ›!*}
+{438}{}{Zatancovat vÃ­tÄ›znÃ½ tanec, pak se zhluboka nadechnout a hrÃ¡t dÃ¡l.}
+{439}{}{No tak HiroÅ¡imy, pojÄte! Malej potÅ™ebuje novÃ½ boty! (HrÃ¡t dÃ¡l)}
+{440}{}{MÃ¡Å¡ }
+{441}{}{ dolarÅ¯. ChceÅ¡ hrÃ¡t dÃ¡l?}
+{442}{}{Pro dneÅ¡ek skonÄit.}
+{443}{}{Pro dneÅ¡ek skonÄit.}
+{1000}{}{TvÃ© Å¡ance nevypadajÃ­ moc nadÄ›jnÄ›.}
+{1001}{}{Kurz vypadÃ¡ dobÅ™e.}
+{1005}{}{SvÃ© Å¡ance mÅ¯Å¾eÅ¡ jen stÄ›Å¾Ã­ odhadnout.}
+{1006}{}{Kurz vypadÃ¡ docela dobÅ™e.}
+{1010}{}{Kurz vypadÃ¡ dobÅ™e!}
+{1011}{}{Kurz nevypadÃ¡ dobÅ™e.}
+{1015}{}{Kurz vypadÃ¡ dobÅ™e!}
+{1016}{}{Kurz nevypadÃ¡ dobÅ™e.}
