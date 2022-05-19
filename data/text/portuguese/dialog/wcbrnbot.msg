@@ -104,7 +104,7 @@
 {203}{}{Adeus.}
 {204}{}{Desativando toda a Segurança - Nível 1}
 {205}{}{Desativando toda a Segurança - Nível 2}
-{206}{}{Desativando toda a Segurança - Nível 3}
+{206}{}{Deactivating all Security - Level 4}
 {306}{}{[Essa engenhoca pode ser útil.]}
 {400}{}{Guarde sua arma.}
 {410}{}{*Vrrrrrrrr*}

@@ -115,7 +115,7 @@
 {203}{}{Tschüss.}
 {204}{}{Alle Sicherheitsmechanismen deaktivieren - Ebene 1}
 {205}{}{Alle Sicherheitsmechanismen deaktivieren - Ebene 2}
-{206}{}{Alle Sicherheitsmechanismen deaktivieren - Ebene 3}
+{206}{}{Deactivating all Security - Level 4}
 {306}{}{[Diese Gerätschaft könnte sich als praktisch erweisen.]}
 {400}{}{Steck die Waffe weg.}
 {410}{}{Whirrr}
