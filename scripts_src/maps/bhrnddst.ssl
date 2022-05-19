@@ -2120,7 +2120,7 @@ procedure Broken_Hills_VNNB_Encounter begin
    // enc_11
    else if (Encounter < 100) then begin
        ndebug("VNNB_Encounter Table, Encounter 11");
-       display_msg(mstr(610));
+       display_msg(mstr(261));
        Encounter_Counter:=random(1,2);
        Encounter_Rotation:=random(0,5);
        call New_Traveler;

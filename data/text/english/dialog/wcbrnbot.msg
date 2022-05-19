@@ -105,6 +105,7 @@
 {204}{}{Deactivating all Security - Level 1}
 {205}{}{Deactivating all Security - Level 2}
 {206}{}{Deactivating all Security - Level 3}
+{206}{}{Deactivating all Security - Level 4}
 
 {306}{}{[This contraption could be useful.]}
 

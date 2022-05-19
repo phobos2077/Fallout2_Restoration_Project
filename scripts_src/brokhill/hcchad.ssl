@@ -77,8 +77,6 @@ procedure Node006;
 procedure Node007;
 procedure Node008;
 procedure Node009;
-procedure Node010;
-procedure Node011;
 procedure Node012;
 procedure Node013;
 procedure Node014;
@@ -558,21 +556,7 @@ end
 
 procedure Node009 begin
    Reply(147);
-   //BOption(148,Node910,004); //Karma up 20 -comment out by killap dialog does not exist
-   //NOption(149,Node920,004); //Karma down 20 -comment out by killap dialog does not exist
-
    NOption(150,Node999,004);
-end
-
-procedure Node010 begin
-   Reply(151);
-   NOption(152,combat,004);
-end
-
-procedure Node011 begin
-   Reply(153); //transfer $1000 from chad to player
-   NOption(154,combat,004); //Karma down 15
-   NOption(155,Node999,004); //Chad=Fled
 end
 
 procedure Node012 begin

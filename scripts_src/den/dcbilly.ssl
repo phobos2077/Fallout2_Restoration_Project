@@ -42,7 +42,6 @@ procedure timed_event_p_proc;
 procedure Node000;
 procedure Node001;
 procedure Node002;
-procedure Node003;
 procedure Node004;
 procedure Node005;
 procedure Node006;
@@ -340,13 +339,6 @@ procedure Node002 begin
    NOption(162,Node004,004);
    NOption(163,Node993,-003);
    NOption(164,Node004,-003);
-end
-procedure Node003 begin
-   // had sex with billy
-   Reply(202);
-   NOption(166,Node004,004);
-   NOption(167,Node999,004);
-   NOption(168,Node999,-003);
 end
 procedure Node begin
 end

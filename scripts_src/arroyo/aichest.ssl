@@ -67,7 +67,7 @@ procedure use_skill_on_p_proc;
 
 /* Local variables which do not need to be saved between map changes. */
 
-#define SHAMAN_CHEST_TILE     (13512) //added by killap - expansion
+#define SHAMAN_CHEST_TILE     (13512)
 
 import variable Hakunin_Ptr; //added by killap - expansion
 
@@ -84,7 +84,6 @@ end
    This should only hold the most cursory of glances for the player. */
 procedure look_at_p_proc begin
    script_overrides;
-   //added tile check - killap - expansion
    if (self_tile == SHAMAN_CHEST_TILE) then
       display_msg(mstr(103));
    else
@@ -97,7 +96,6 @@ end
    if the critter is known to the player. */
 procedure description_p_proc begin
    script_overrides;
-   //added tile check - killap
    if (self_tile == SHAMAN_CHEST_TILE) then
       display_msg(mstr(103));
    else
@@ -106,14 +104,6 @@ procedure description_p_proc begin
 end
 
 procedure pickup_p_proc begin
-   /*if ((is_success(roll_vs_skill(dude_obj,SKILL_STEAL,-20))) and
-       (map_var(MVAR_Stealing_From_Shaman) < 6)) then begin
-       display_msg(mstr(104));
-   end
-   else begin
-       script_overrides;
-       set_map_var(MVAR_Stealing_From_Shaman,(map_var(MVAR_Stealing_From_Shaman) + 1));
-   end*/
 end
 
 procedure use_p_proc begin
