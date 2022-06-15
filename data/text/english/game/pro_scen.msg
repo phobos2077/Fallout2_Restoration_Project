@@ -282,14 +282,14 @@
 {14501}{}{A large hole has been blasted through this door.}
 {14600}{}{Hole}
 {14601}{}{A large hole has been blasted through this door.}
-{14700}{}{Bullet Proof Glass}
-{14701}{}{Completely unbreakable glass. Don't even try.}
-{14800}{}{Bullet Proof Glass}
-{14801}{}{Completely unbreakable glass. Don't even try.}
-{14900}{}{Bullet Proof Glass}
-{14901}{}{Completely unbreakable glass. Don't even try.}
-{15000}{}{Bullet Proof Glass}
-{15001}{}{Completely unbreakable glass. Don't even try.}
+{14700}{}{Supposedly Bullet Proof Glass}
+{14701}{}{Supposedly unbreakable glass. Don't even try!}
+{14800}{}{Supposedly Bullet Proof Glass}
+{14801}{}{Supposedly unbreakable glass. Don't even try!}
+{14900}{}{Supposedly Bullet Proof Glass}
+{14901}{}{Supposedly unbreakable glass. Don't even try!}
+{15000}{}{Supposedly Bullet Proof Glass}
+{15001}{}{Supposedly unbreakable glass. Don't even try!}
 {15100}{}{Door}
 {15101}{}{This door is a piece of high-technology construction. It opens by dilating as it rotates the three pieces that make up the door.}
 {15200}{}{Door}
@@ -2630,9 +2630,12 @@
 {171800}{}{Wall}
 {171900}{}{Air Vent}
 {172000}{}{Air Vent}
-{172100}{}{Bullet Proof Glass}
-{172200}{}{Bullet Proof Glass}
-{172300}{}{Bullet Proof Glass}
+{172100}{}{Supposedly Bullet Proof Glass}
+{172101}{}{Supposedly unbreakable glass. Don't even try!}
+{172200}{}{Supposedly Bullet Proof Glass}
+{172201}{}{Supposedly unbreakable glass. Don't even try!}
+{172300}{}{Supposedly Bullet Proof Glass}
+{172301}{}{Supposedly unbreakable glass. Don't even try!}
 {172400}{}{Heavy Laser Turret}
 {172401}{}{The turret rotates in a menacing way.}
 {172500}{}{Heavy Laser Turret}
@@ -3470,3 +3473,15 @@
 {229901}{}{A dead body with plant growth wrapped around it.}
 {230000}{}{An odd looking creature}
 {230001}{}{A dead body with plant growth wrapped around it.}
+{230100}{}{Smoke}
+{230200}{}{Smoke}
+{230300}{}{Flaming Brazier}
+{230301}{}{This putrid oil brazier is an effective light source. The fumes can't help but burn your eyes and nostrils.}
+{230400}{}{Tires}
+{230401}{}{Old rubber tires sitting in the middle of some weeds.}
+{230500}{}{Stack of Tires}
+{230501}{}{A stack of ancient rubber tires. They have vulcanized and hardened, probably due to the heat.}
+{230600}{}{Stack of Tires}
+{230601}{}{A stack of ancient rubber tires. They have vulcanized and hardened, probably due to the heat.}
+{230700}{}{Shattered Glass}
+{230701}{}{Scattered shards of broken glass.}
