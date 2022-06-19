@@ -81,8 +81,8 @@ procedure use_obj_on_p_proc begin
       if ((obj_pid(obj_being_used_with) == PID_ROPE)) then begin
          script_overrides;
          remove_pid_qty(dude_obj, PID_ROPE, 1)
-         door:=tile_contains_pid_obj(17124,1,33554902);
-         obj_open(door);
+         //door:=tile_contains_pid_obj(17124,1,33554902);
+         //obj_open(door);
          gfade_out(ONE_GAME_SECOND);
          gfade_in(ONE_GAME_SECOND);
          if (PARTY_NON_BIPED_SIZE > 1) then
