@@ -129,7 +129,7 @@
 #define CAR_THE_ENCLAVE_HEX                 (20100)
 #define CAR_ABBEY_HEX                       (20100)
 #define CAR_PRIMITIVE_TRIBE_HEX             (29487)
-#define CAR_EPA_HEX                         (34689)
+#define CAR_EPA_HEX                         (30700)
 
 #define CAR_GHOST_TOWN_HEX                  (23951)
 #define CAR_ARROYO_DESTROYED_HEX            (27312)

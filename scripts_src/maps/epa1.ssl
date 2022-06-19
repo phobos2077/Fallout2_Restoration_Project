@@ -9,7 +9,6 @@
 
 #include "../headers/command.h"
 
-#define CAR_EPA_HEX 30700
 #define HEX_PC_START 29899
 
 procedure start;
