@@ -10,6 +10,9 @@
 
 //GLOBAL                                        NUMBER
 
+// quest: kill EPA plants
+#define MAX_KILL_EPAPLANTS 10
+
 // All Map Vars need to start w/ MVAR_
 
 

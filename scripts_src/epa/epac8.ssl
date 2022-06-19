@@ -10,6 +10,7 @@
 #define TOWN_REP_VAR            GVAR_TOWN_REP_           //Global variable name for this Town
 
 #include "../headers/command.h"
+#include "../headers/epa.h"
 
 #define LVAR_Herebefore                 (4)
 #define LVAR_Hostile                    (5)
@@ -49,7 +50,7 @@ end
 
 procedure destroy_p_proc begin
   inc_global_var(GVAR_KILL_EPAPLANTS);
-  if (global_var(GVAR_KILL_EPAPLANTS) >= 26) then begin
+  if (global_var(GVAR_KILL_EPAPLANTS) >= MAX_KILL_EPAPLANTS) then begin
    display_msg(mstr(100));
   end
 end
@@ -83,7 +84,7 @@ procedure use_obj_on_p_proc begin
    script_overrides;
    if ((obj_pid(obj_being_used_with) == PID_PLANT_SPRAY)) then begin
       inc_global_var(GVAR_KILL_EPAPLANTS);
-      if (global_var(GVAR_KILL_EPAPLANTS) >= 26) then begin
+      if (global_var(GVAR_KILL_EPAPLANTS) >= MAX_KILL_EPAPLANTS) then begin
         display_msg(mstr(100));
       end
       switch self_pid begin

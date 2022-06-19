@@ -12,6 +12,7 @@
 #include "../headers/command.h"
 #include "../headers/modreact.h"
 #include "../headers/partybkg.h"
+#include "../headers/epa.h"
 
 #define LVAR_Herebefore                 (4)
 #define LVAR_Hostile                    (5)
@@ -266,7 +267,7 @@ begin
     gsay_end;
     end_dialogue;
   end
-  else if ((global_var(GVAR_KILL_EPAPLANTS) >= 26) and (global_var(GVAR_PLANT_QUEST) == 0) and (local_var(LVAR_Herebefore) == 0)) then
+  else if ((global_var(GVAR_KILL_EPAPLANTS) >= MAX_KILL_EPAPLANTS) and (global_var(GVAR_PLANT_QUEST) == 0) and (local_var(LVAR_Herebefore) == 0)) then
   begin
     start_gdialog(NAME, self_obj, 4, -1, -1);
     gsay_start;
@@ -319,7 +320,7 @@ end
 procedure Node005
 begin
   Reply(240);
-  if (global_var(GVAR_KILL_EPAPLANTS) >= 26) then
+  if (global_var(GVAR_KILL_EPAPLANTS) >= MAX_KILL_EPAPLANTS) then
    NOption(242, Node009, 4);
   else
    NOption(241, Node005a, 4);
@@ -342,7 +343,7 @@ end
 procedure Node008
 begin
   Reply(270);
-  if ((global_var(GVAR_KILL_EPAPLANTS) >= 26) and (global_var(GVAR_PLANT_QUEST) == 1)) then
+  if ((global_var(GVAR_KILL_EPAPLANTS) >= MAX_KILL_EPAPLANTS) and (global_var(GVAR_PLANT_QUEST) == 1)) then
     NOption(271, Node009, 4);
   NOption(272, Node999, 4);
 end
@@ -396,12 +397,8 @@ begin
   give_xp(500);
 end
 
-procedure Node001a
-begin
-  //if ((global_var(GVAR_KILL_EPAPLANTS) >= 26) and (global_var(GVAR_PLANT_QUEST) == 0)) then
-    //call Node010;
-  //else
-    call Node001;
+procedure Node001a begin
+  call Node001;
 end
 
 procedure Node002a
