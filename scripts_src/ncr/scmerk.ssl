@@ -155,6 +155,11 @@ procedure checktime;
 #define IN_RAWHIDE 3
 #define IN_TRANSIT 4
 
+// kill hubologist quest status
+#define KILL_ELRON_QST_STARTED 1
+#define KILL_ELRON_QST_NEED_REPORTING 2
+#define KILL_ELRON_QST_REPORTED 3
+
 //~~~~~~~~~~~~~~~~ DESIGN TOOL ENDS HERE
 // The Following lines are for anything that is not needed to be
 // seen by the design Tool
@@ -965,7 +970,7 @@ nbodyEnd
 
 procedure Node055d begin
    set_merk_seed_status(MSS_KILL_ELRON);
-   set_global_var(GVAR_NCR_KILL_ELRON_QST, 1);
+   set_global_var(GVAR_NCR_KILL_ELRON_QST, KILL_ELRON_QST_STARTED);
    call Node055;
 end
 
@@ -1152,9 +1157,12 @@ nbodyEnd
 nbody(042)
 
    //moved here from scenlone.ssl - killap
-   if (global_var(GVAR_NCR_SCMERK_SEED_STATUS) bwand (MSS_KILL_ELRON+MSS_ELRON_DEAD)) then begin
+   if (global_var(GVAR_NCR_SCMERK_SEED_STATUS) bwand (MSS_KILL_ELRON+MSS_ELRON_DEAD))
+      and (global_var(GVAR_NCR_KILL_ELRON_QST) == KILL_ELRON_QST_NEED_REPORTING)
+   then begin
       display_msg(mstr(271));
       give_xp(EXP_MERK_HUB_DEAD);
+      set_global_var(GVAR_NCR_KILL_ELRON_QST, KILL_ELRON_QST_REPORTED);
    end
    //end
 
