@@ -5,14 +5,6 @@
 {104}{}{Que fais-tu ?}
 {105}{}{Ug.}
 {106}{}{Ben, j'sais pas. J'suis pas depuis longtemps dans le coin, je connais seulement les endroits suivants.}
-{107}{}{New Reno.}
-{108}{}{La Cité de l'Abri.}
-{109}{}{Redding.}
-{110}{}{La Fosse.}
-{111}{}{San Francisco.}
-{112}{}{La République de Nouvelle Californie.}
-{113}{}{Une mine abandonnée.}
-{114}{}{Un vieux complexe abandonné.}
 {115}{}{J'y suis déjà allé. Merci quand même.}
 {116}{}{New Reno, c'est une super ville. Le paradis du sexe, de la drogue et du jeu. Que demander de plus ? Regarde, je vais t'montrer où c'est...}
 {117}{}{Merci. Au revoir.}
@@ -49,3 +41,11 @@
 {148}{}{J'ai abusé de ton hospitalité.}
 {149}{}{Je dois partir.}
 {150}{}{Merci. J'ai besoin de précision sur d'autres endroits.}
+{1107}{}{New Reno.}
+{1108}{}{La Cité de l'Abri.}
+{1109}{}{Redding.}
+{1110}{}{La Fosse.}
+{1111}{}{San Francisco.}
+{1112}{}{La République de Nouvelle Californie.}
+{1113}{}{Une mine abandonnée.}
+{1114}{}{Un vieux complexe abandonné.}
