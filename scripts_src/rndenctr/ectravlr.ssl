@@ -274,32 +274,7 @@ procedure checkChoiceTwo begin
 end
 
 procedure Node002 begin
-
-   //variable count := 0;
-
-   /* Seraph's Fix
-   if (one < 0 and two < 0) then begin
-      while (count < 10) do begin
-         one := Random(0, 6);
-         two := Random(0, 6);
-         if (one == two) then begin
-            while (one == two) do begin
-               two := Random(0, 6);
-            end
-         end
-
-         count += 1;
-      end
-      if (count == 10) then begin
-         one := 0;
-         two := 1;
-      end
-   end
-   */
-
-   // Seraph's Fix: Begin Rob's Code: simplify this to two rolls, with the same net
-   //                                 effect as re-rolling until they're different
-   if (Only_Once == 0) then begin //added check by killap
+   if (Only_Once == 0) then begin
       one := Random(0, 7);
       two := Random(0, 6);
       if (two >= one) then
@@ -307,60 +282,59 @@ procedure Node002 begin
 
       Only_Once := 1;
    end
-   // End Rob's Code
 
-   Reply(106); //added by killap
-   NOption(107 + one, checkChoiceOne, 4);
-   NOption(107 + two, checkChoiceTwo, 4);
+   Reply(106);
+   NOption(1107 + one, checkChoiceOne, 4);
+   NOption(1107 + two, checkChoiceTwo, 4);
    NOption(115, Node999, 4);
 end
 
 procedure Node003 begin
    mark_new_reno_on_map
    Reply(116);
-   NOption(150, Node002, 4); //added by killap
+   NOption(150, Node002, 4);
    NOption(117, Node999, 4);
 end
 
 procedure Node004 begin
    mark_vault_city_on_map
    Reply(118);
-   NOption(150, Node002, 4); //added by killap
+   NOption(150, Node002, 4);
    NOption(119, Node999, 4);
 end
 
 procedure Node005 begin
    mark_redding_on_map
    Reply(120);
-   NOption(150, Node002, 4); //added by killap
+   NOption(150, Node002, 4);
    NOption(121, Node999, 4);
 end
 
 procedure Node006 begin
    mark_den_on_map
    Reply(122);
-   NOption(150, Node002, 4); //added by killap
+   NOption(150, Node002, 4);
    NOption(123, Node999, 4);
 end
 
 procedure Node007 begin
    mark_san_francisco_on_map
    Reply(124);
-   NOption(150, Node002, 4); //added by killap
+   NOption(150, Node002, 4);
    NOption(125, Node999, 4);
 end
 
 procedure Node008 begin
    mark_new_CA_republic_on_map
    Reply(126);
-   NOption(150, Node002, 4); //added by killap
+   NOption(150, Node002, 4);
    NOption(127, Node999, 4);
 end
 
 procedure Node009 begin
    mark_military_base_on_map
    Reply(128);
-   NOption(150, Node002, 4); //added by killap
+   NOption(150, Node002, 4);
    NOption(129, Node999, 4);
 end
 
@@ -390,7 +364,7 @@ end
 procedure Node013 begin
    mark_EPA_on_map
    Reply(130);
-   NOption(150, Node002, 4); //added by killap
+   NOption(150, Node002, 4);
    NOption(131, Node999, 4);
 end
 
@@ -402,6 +376,3 @@ end
 procedure NodeFighting begin
    //float_msg(self_obj, mstr(100 + Random(0, 4)), FLOAT_MSG_RED);
 end
-
-
-//xxxxxxxxxxxxxxxxxxxx
