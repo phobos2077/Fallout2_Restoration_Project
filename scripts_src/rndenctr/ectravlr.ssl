@@ -369,10 +369,9 @@ procedure Node013 begin
 end
 
 procedure NodeFleeing begin
-   //float_msg(self_obj, mstr(105 + Random(0, 3)), FLOAT_MSG_YELLOW);
-   float_msg(self_obj, mstr(145 + Random(0, 4)), FLOAT_MSG_YELLOW);
+   float_msg(self_obj, mstr(147 + Random(0, 2)), FLOAT_MSG_YELLOW);
 end
 
 procedure NodeFighting begin
-   //float_msg(self_obj, mstr(100 + Random(0, 4)), FLOAT_MSG_RED);
+   float_msg(self_obj, mstr(144 + Random(0, 2)), FLOAT_MSG_RED);
 end
