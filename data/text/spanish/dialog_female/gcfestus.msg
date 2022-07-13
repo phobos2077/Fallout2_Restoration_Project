@@ -35,7 +35,7 @@
 {181}{}{Estoy impresionada.}
 {182}{}{Vale, dejémoslo aquí. Adiós.}
 {190}{}{Estaría bien tener algo de ayuda. Pero, verás, nadie más está cualificado para hacer lo que yo. Ni siquiera entienden los conceptos básicos de lo que hago.}
-{191}{}{How could anyone hope to keep up with you? You're above everyone.}
+{191}{}{Cómo podría alguien esperanza para mantenerse al día con usted? Estás por encima de todo el mundo.}
 {192}{}{Eres realmente especial, no hay duda de ello. Adiós.}
 {200}{}{Sabes que lo soy. Creo que tú entiendes realmente este tipo de cuestiones. Si no estuviera tan ocupado por aquí dirigiría todo Gecko. Y déjame decirte que lo haría muy bien.}
 {201}{}{¿También dirigirías la ciudad?}
