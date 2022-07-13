@@ -197,7 +197,7 @@ entrance_1=Off,190,190,Vault 13,-1,-1,0
 
 [Area 12]                ; Military Base
 area_name=Military Base
-world_pos=672,1422
+world_pos=673,1422
 start_state=On
 size=Large
 townmap_art_idx=468
@@ -226,7 +226,7 @@ entrance_5=Off,-1,-1,Redding Mine Tunnels,-1,-1,0
 
 [Area 14]                ; San Francisco
 area_name=San Francisco
-world_pos=472,1322
+world_pos=473,1322
 start_state=On
 size=Large
 townmap_art_idx=165
