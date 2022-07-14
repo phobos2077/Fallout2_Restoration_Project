@@ -290,7 +290,7 @@ entrance_2=Off,-1,-1,Umbra Tribe Waterside,-1,-1,0
 
 [Area 19]                ; Environmental Protection Agency
 area_name=EPA
-world_pos=622,971
+world_pos=621,970
 start_state=Off
 size=Medium
 townmap_art_idx=476
