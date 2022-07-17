@@ -3485,3 +3485,51 @@
 {230601}{}{A stack of ancient rubber tires. They have vulcanized and hardened, probably due to the heat.}
 {230700}{}{Shattered Glass}
 {230701}{}{Scattered shards of broken glass.}
+{230800}{}{Rusting Vehicle}
+{230801}{}{The sands are slowly swallowing this lost vehicle.}
+{230900}{}{Car}
+{230901}{}{This automobile is in terrible shape. You cannot think of a way to restore it.}
+{231000}{}{Car}
+{231001}{}{This rusted piece of scrap-metal cannot be restored.}
+{231100}{}{Car}
+{231101}{}{You determine that this vehicle will never drive again. Really.}
+{231200}{}{Car}
+{231201}{}{There is no way that this junkyard wannabe will ever drive again.}
+{231300}{}{Desk}
+{231301}{}{A wooden desk.}
+{231400}{}{Dresser}
+{231401}{}{A wooden dresser.}
+{231500}{}{Dresser}
+{231501}{}{A wooden dresser.}
+{231600}{}{Desk}
+{231601}{}{A generic desk. Seen one desk, you've seen them all.}
+{231700}{}{Desk}
+{231701}{}{A generic desk.}
+{231800}{}{Desk}
+{231801}{}{A generic desk.}
+{231900}{}{Books}
+{231901}{}{An assortment of books.}
+{232000}{}{Boxes and Sacks}
+{232001}{}{An assortment of boxes and sacks.}
+{232100}{}{Metal Parts}
+{232101}{}{An assortment of metal parts.}
+{232200}{}{Books}
+{232201}{}{An assortment of books.}
+{232300}{}{Boxes and Sacks}
+{232301}{}{An assortment of boxes and sacks.}
+{232400}{}{Metal Parts}
+{232401}{}{An assortment of metal parts.}
+{232500}{}{Barrel}
+{232501}{}{A barrel of smelly meaty bits.}
+{232600}{}{Barrel}
+{232601}{}{A barrel of smelly meaty bits.}
+{232700}{}{Barrel}
+{232701}{}{A barrel of smelly meaty bits.}
+{232800}{}{Barrel}
+{232801}{}{A barrel of smelly meaty bits.}
+{232900}{}{Flies}
+{233000}{}{Flies}
+{233100}{}{Vent}
+{233200}{}{Vent}
+{233300}{}{Vent}
+{233400}{}{Vent}
