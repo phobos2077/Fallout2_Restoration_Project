@@ -219,12 +219,14 @@ procedure damage_p_proc begin
             destroy_object(Field_Ptr);
             Field_Ptr:=0;
             if (Field_Pid == PID_NS_FORCE_FIELD) then begin
-            ndebug("Make NW Pain Field.");
-            create_object_sid(PID_NS_PAIN_FIELD,Field_Hex,Field_Elev,CUR_FIELD_SCRIPT);
+               ndebug("Make NW Pain Field.");
+               Field_Ptr:=create_object_sid(PID_NS_PAIN_FIELD,Field_Hex,Field_Elev,CUR_FIELD_SCRIPT);
+               add_timer_event(Field_Ptr, 1, 0);
             end
             else begin
                ndebug("Make EW Pain Field.");
-               create_object_sid(PID_EW_PAIN_FIELD,Field_Hex,Field_Elev,CUR_FIELD_SCRIPT);
+               Field_Ptr:=create_object_sid(PID_EW_PAIN_FIELD,Field_Hex,Field_Elev,CUR_FIELD_SCRIPT);
+               add_timer_event(Field_Ptr, 1, 0);
             end
          end
       end

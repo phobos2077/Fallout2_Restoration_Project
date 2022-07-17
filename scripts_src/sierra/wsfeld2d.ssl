@@ -69,6 +69,8 @@ end
 procedure map_enter_p_proc begin
    if self_exists then begin
        FIELD_PTR:=self_obj;
+
+       add_timer_event(self_obj, 1, 0);
    end
 
    //this can only happen if the player leaves the map before a timed event has expired
@@ -88,14 +90,15 @@ procedure map_update_p_proc begin
    end
 
    if (global_var(GVAR_SIERRA_BASE_POWER) == 0) then begin              // power on
-
        if (self_exists and (map_var(FIELD_STATUS) != FIELD_DAMAGED)) then begin
            if (self_pid == PID_NS_PAIN_FIELD) then begin
                FIELD_PTR:=create_object_sid(PID_NS_FORCE_FIELD,self_tile,self_elevation,CUR_SCRIPT);
+               add_timer_event(FIELD_PTR, 1, 0);
                destroy_object(self_obj);
            end
            else if (self_pid == PID_EW_PAIN_FIELD) then begin
                FIELD_PTR:=create_object_sid(PID_EW_FORCE_FIELD,self_tile,self_elevation,CUR_SCRIPT);
+               add_timer_event(FIELD_PTR, 1, 0);
                destroy_object(self_obj);
            end
        end
@@ -110,17 +113,28 @@ procedure map_update_p_proc begin
    else if self_exists then begin
        if (self_pid == PID_NS_FORCE_FIELD) then begin
            FIELD_PTR:=create_object_sid(PID_NS_PAIN_FIELD,self_tile,self_elevation,CUR_SCRIPT);
+           add_timer_event(FIELD_PTR, 1, 0);
            destroy_object(self_obj);
        end
        else if (self_pid == PID_EW_FORCE_FIELD) then begin
            FIELD_PTR:=create_object_sid(PID_EW_PAIN_FIELD,self_tile,self_elevation,CUR_SCRIPT);
+           add_timer_event(FIELD_PTR, 1, 0);
            destroy_object(self_obj);
        end
    end
 end
 
 procedure timed_event_p_proc begin
-   if (fixed_param == 1) then begin
+   if (fixed_param == 0) then begin
+       if ((anim_busy(self_obj) == false) and (combat_is_initialized == 0)) then begin
+           reg_anim_begin();
+           reg_anim_animate_forever(self_obj, ANIM_stand);
+           reg_anim_end();
+       end
+       flush_add_timer_event(self_obj, 5, 0);
+   end
+
+   else if (fixed_param == 1) then begin
        set_local_var(LVAR_Timed_Event,0);
        set_map_var(FIELD_STATUS,FIELD_ENABLED);
        if self_exists then begin
