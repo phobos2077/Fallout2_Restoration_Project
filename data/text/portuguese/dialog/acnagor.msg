@@ -39,25 +39,20 @@
  sobre os tempos difíceis que estão por vir.}
 {201}{}{Olá primo... é, eu quero dizer Escolhido. Espero que você tenha encontrado o GECK. Ouvi falar muito
  sobre os tempos difíceis que estão por vir.}
-{202}{}{Eu ainda olho, Nagor.}
-{203}{}{Eu ainda estou procurando, primo.}
-{204}{}{Bem-vindo a casa, primo. As coisas estão ficando um pouco apertadas por aqui. Você já encontrou o
- santo Treze e o GECK?}
-{205}{}{Bem-vindo a casa, primo. As coisas estão ficando um pouco apertadas por aqui. Você já encontrou o
- santo Treze e o GECK?}
-{206}{}{Não encontrei. Desculpa.}
-{207}{}{Desculpe, Nagor. Eu ainda estou procurando.}
-{208}{}{Olá novamente, primo. Eu acho que você já percebeu que as coisas estão realmente caindo aos
- pedaços aqui. Por favor encontre o GECK. Estamos em necessidade desesperada!}
-{209}{}{Olá novamente, primo. Eu acho que você já percebeu que as coisas estão realmente caindo aos
- pedaços aqui. Por favor encontre o GECK. Estamos em necessidade desesperada!}
-{210}{}{Oi, primo.}
-{211}{}{Oi, primo.}
-{212}{}{Você não soa auto como de costume.}
+{202}{}{Eu ainda estou olhando, Nagor.}
+{203}{}{Eu ainda estou procurando. Primo}
+{204}{}{Bem-vindo de volta, primo. As coisas estão ficando um pouco complicadas por aqui. Você já encontrou o vault treze e o GECK?}
+{205}{}{Bem-vindo de volta, primo. As coisas estão ficando um pouco complicadas por aqui. Você já encontrou o vault treze e o GECK?}
+{206}{}{Eu não encontrei. Sinto muito.}
+{207}{}{Eu sinto muito, Nagor. Eu ainda estou procurando.}
+{208}{}{Olá novamente, primo. Eu acho que você já percebeu que as coisas estão realmente caindo aos pedaços por aqui. Por favor encontre o GECK. Nós estamos desesperados!}
+{209}{}{Olá novamente, primo. Eu acho que você já percebeu que as coisas estão realmente caindo aos pedaços por aqui. Por favor encontre o GECK. Nós estamos desesperados!}
+{210}{}{Olá, primo.}
+{211}{}{Olá, primo.}
+{212}{}{Você não parece com você mesmo.}
 {213}{}{Você não soa como seu eu habitual.}
-{214}{}{Me desculpe, primo. As coisas estão piorando desde a última vez que você deixou. As pessoas estão
-doentes, os brahmins estão morrendo e ... eu ... meu cachorro, Fumaça morreu - Morlis o cozinhou. Sinto muita falta dele. Desculpe, mas não posso
-realmente falar mais ...}
+{214}{}{Me desculpe, primo. As coisas estão piorando desde a última vez que você foi embora. As pessoas estão
+doentes, os brahmins estão morrendo e... eu... meu cachorro, Fumaça morreu - Morlis o cozinhou. Sinto muita falta dele. Desculpe, mas tenho muito mais o que dizer...}
 {215}{}{Me desculpe, primo. As coisas estão piorando desde a última vez que você deixou. As pessoas estão doentes,
   Os brahmins estão morrendo e ... eu ... meu cachorro Fumaça morreu. Sinto muita falta dele. Desculpe, mas não posso realmente
   falar mais ...}

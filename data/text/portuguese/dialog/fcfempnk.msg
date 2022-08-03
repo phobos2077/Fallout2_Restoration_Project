@@ -1,16 +1,16 @@
-{100}{}{Você visualiza uma punk feminina.}
-{101}{}{Você visualiza uma punk feminina.}
-{102}{}{Você visualiza uma mulher bastante bonita e cínica.}
-{103}{}{Eu aposto que meu namorado se ofereceu para me compartilhar.}
-{104}{}{Às vezes eu fico de saco cheio de viajar.}
-{105}{}{Com certeza seria legal morar aqui.}
-{106}{}{Eu aposto que poderíamos fazer uma cena e tanto.}
-{107}{}{Você já esteve ao oeste cruzando a água?}
-{108}{}{Eu flertaria com você, mas eu apenas não estou interessado.}
-{109}{}{::Sarcasno:: Com certeza há muitas mulheres fortes pelas redondezas, não é?}
-{110}{}{Você espera que eu vá até você? Cai na real.}
-{111}{}{Eu sou único! Assim como todo mundo!}
-{112}{}{Às vezes esse mundo de cinismo me chateia.}
+{100}{}{Você vê uma mulher punk.}
+{101}{}{Você vê uma mulher punk.}
+{102}{}{Você vê uma mulher jovem bem bonita… e cínica.}
+{103}{}{Eu aposto que meu namorado ofereceu me dividir.}
+{104}{}{As vezes eu fico enjoada quando viajo.}
+{105}{}{Com certeza seria bom morar aqui.}
+{106}{}{Eu aposto que a gente conseguiria fazer uma puta cena.}
+{107}{}{Você já esteve no leste, depois da água?}
+{108}{}{Eu até flertaria com você, mas não estou interessada.}
+{109}{}{::sarcasmo:: Com certeza tem um monte de mulheres fortes por aqui, hein?}
+{110}{}{Você espera que eu fique de quatro por você? Fala sério.}
+{111}{}{Eu sou única! Igual a todo mundo!}
+{112}{}{As vezes essas pessoas cansadas da vida me entediam.}
 {113}{}{Da próxima vez, quero encontrar uma tribo de góticos.}
 {114}{}{Eu ouvi falar que o Imperador Shi é absurdamente inteligente.}
 {115}{}{Esses Shi tem um cara engraçada.}
@@ -39,9 +39,9 @@
 {138}{}{Obrigado por tentar devolver o baço do Chip.}
 {139}{}{Você deu seu melhor pelo Chip.}
 {140}{}{Aqui está mais uma curiosidade sobre Chip.}
-{141}{}{Será que o baço estava saboroso?}
-{142}{}{Eba! Agora eu posso ter Chip e o seu Baço!}
-{143}{}{Eu vou ir ver Chip agora mesmo!}
+{141}{}{Será que o baço tinha gosto bom?}
+{142}{}{Oba! Agora eu posso ter Chip e o seu Baço.}
+{143}{}{Estou indo ver o Chip agora mesmo!}
 {144}{}{Chip é o melhor!}
 {145}{}{Eu gosto de você. Você é dos bons.}
 {146}{}{Estou tão feliz pelo Chip.}
@@ -82,7 +82,7 @@
 {181}{}{Badger... ::suspiro::}
 {182}{}{Badger era uma princesa de um conto de fadas.}
 {183}{}{Seu imbecil. Porquê você matou ele?}
-{184}{}{Você acha que vamos nos juntar aos Hubologistas agora?}
+{184}{}{Você acha que vamos nos juntar aos Hubologists agora?}
 {185}{}{Seu idiota, peão estúpido.}
 {186}{}{Os hubologistas irão te enganar também.}
 {187}{}{Vá pro inferno!! Vá pro inferno e morra!}

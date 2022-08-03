@@ -55,7 +55,7 @@
   o que ele quer fazer sobre isso.}
 {411}{}{Ah, não parece que o mutie vai causar uma briga. Talvez devêssemos levá-la ao Comandante - veja
   o que ele quer fazer sobre isso.}
-{412}{}{Ah, não parece que os mutantes vão causar uma briga. Talvez devêssemos levá-los ao Comandante -- veja
+{412}{}{Ah, não parece que os mutantes vão causar uma briga. Talvez devêssemos levá-los ao Comandante - - veja
   o que ele quer fazer sobre isso.}
 {420}{}{[Depois de uma meia hora de sentar no compartimento de carga escuro, você sente a nave tocar a terra novamente. Um momento
   mais tarde, a porta da carga abre e você vê um esquadrão de soldados do Enclave. Um deles faz uma dupla tomada para você.] O que diabos

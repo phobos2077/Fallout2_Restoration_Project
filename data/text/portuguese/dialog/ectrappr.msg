@@ -1,7 +1,7 @@
 {100}{}{Você vê um homem sujo e sem barbear. }
 {101}{}{Caçador.}
-{102}{}{Melhor não chegar muito perto. Algumas das criaturas em sua roupa podem estar procurando uma casa limpa.}
-{103}{}{Howdy. Não encontrei pessoas muitas vezes aqui no país do caçador. O que quer?}
+{102}{}{Melhor não chegar muito perto. Algumas das criaturas nas roupas dele podem estar procurando uma casa limpa.}
+{103}{}{Olá. Não encontro pessoas muitas vezes por aqui na província do caçador. O que quer?}
 {104}{}{Você tem alguma pele de gecko para venda?}
 {105}{}{Só de passagem.}
 {106}{}{Ug.}
@@ -33,7 +33,7 @@
   atravesse sua terra. Deixe pacificamente. [Ele lhe entrega uma pele de gecko como presente.]}
 {128}{}{[FIM]}
 {129}{}{Eu não tenho mais negócios com você.}
-{130}{}{Sapsucker de ventre amarelo!}
+{130}{}{Seu Pica pau de barriga amarela!}
 {131}{}{Este é o meu território de caça. Deixe-o!}
 {132}{}{Eu vou te esfolar vivo!}
 {133}{}{Eu vou usar sua cabeça como um troféu.}

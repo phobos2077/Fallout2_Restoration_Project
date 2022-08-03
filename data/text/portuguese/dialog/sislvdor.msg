@@ -135,7 +135,7 @@ no alizar de porta.}
 {172}{}{Você não consegue abrir o bloqueio nesta porta.}
 {173}{}{ habilmente destranca a fechadura na porta.}
 {174}{}{A sua falta de habilidade emperrou a trava na porta.}
-{175}{}{ Falha ao tentar abrir esta porta.}
+{175}{}{ falhou em arrombar a fechadura dessa porta.}
 {176}{}{Você arrombou a fechadura da porta.}
 {177}{}{Você pressiona suas costas enquanto tenta abrir o bloqueio e
   toma um ponto de dano.}

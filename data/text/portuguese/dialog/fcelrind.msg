@@ -49,20 +49,20 @@
 {157}{}{Estou ansioso pra voltar pra nossa casa nas estrelas.}
 {158}{}{Estou prestes a ter um alinhamento.}
 {159}{}{Estou esperando ouvir AHS-9 falar de novo!}
-{160}{}{Eu espero que meus neurodynes estejam bem.}
+{160}{}{Eu espero que meus neurodinos estejam bem.}
 {161}{}{Quero ser um alto Aligned Hub Seeker!}
-{162}{}{Hora de focar no meu crescimento pessoal.}
-{163}{}{A ciência de "verdade" é um compilado de mentiras.}
-{164}{}{Não dê ouvidos a o que "cientistas" te dizem.}
-{165}{}{Somente o Hub e AHS-9 tem a resposta.}
-{178}{}{Saúdem o Pai-Estrela! Nós vamos para as estrelas!}
-{179}{}{Planeta Quetzel, aqui vamos nós!}
-{180}{}{Finalmente um pagamento por todo aquele trabalho duro!}
-{181}{}{Meus neurodynes estão totalmente relaxados agora!}
-{182}{}{É melhor eu ficar alinhado antes de partirmos.}
-{183}{}{Ooh! O Pai-Estrela! O Pai Estrela!}
-{184}{}{Estou muito animado pela decolagem!}
-{185}{}{Quando vamos partir?}
-{186}{}{Eu aposto que os AHS's não são essa agitação.}
-{187}{}{Uau... Enfim. As estrelas.}
-{188}{}{Eu não terei mais de usar um chapéu de papel metálico!}
+{162}{}{Está na hora de focar no meu autocrescimento.}
+{163}{}{Ciência "de verdade" é só um monte de mentiras.}
+{164}{}{Não escute o que "cientistas" dizem pra você.}
+{165}{}{Apenas o Hub e o AHS-9 tem a resposta.}
+{178}{}{Saúdem o Pai-Estrela! Nós finalmente vamos para as estrelas!}
+{179}{}{Planeta Quetzel, aí vamos nós!}
+{180}{}{Todo aquele trabalho duro finalmente valeu a pena!}
+{181}{}{Meus neurodinos estão totalmente relaxados agora!}
+{182}{}{É melhor eu fazer um alinhamento antes de decolar.}
+{183}{}{Ooh! O Pai Estrela! O Pai Estrela!}
+{184}{}{Estou muito empolgado para a decolagem!}
+{185}{}{Quando é que a gente vai embora?}
+{186}{}{Eu aposto que os Altos AHS's não estão assim tão nervosos.}
+{187}{}{Uau... As estrelas. Finalmente.}
+{188}{}{Não vou mais precisar usar meu chapéu de papel alumínio!}

@@ -55,7 +55,8 @@ e uma armadilha no quadro da porta.}
   uma armadilha no batente da porta.}
 {125}{}{Você vê uma porta resistente com um bloqueio velho e enferrujado e uma armadilha
   no batente da porta.}
-{126}{}{Você vê uma porta resistente com uma fechadura, que pode ser aberta com gazua e um fio cortado no quadro da porta.}
+{126}{}{Você vê uma porta resistente com uma fechadura, que pode
+ ser aberta com gazua e um fio cortado no quadro da porta.}
 {127}{}{Você vê uma porta resistente com uma fechadura e um fio cortado
   no batente da porta.}
 {128}{}{Você vê uma porta resistente com nenhum dispositivo de bloqueio aparente e
@@ -125,7 +126,7 @@ no alizar de porta.}
 {172}{}{Você não consegue abrir o bloqueio nesta porta.}
 {173}{}{ habilmente destranca a fechadura na porta.}
 {174}{}{A sua falta de habilidade emperrou a trava na porta.}
-{175}{}{ Falha ao tentar abrir esta porta.}
+{175}{}{ falhou em arrombar a fechadura dessa porta.}
 {176}{}{Você arrombou a fechadura da porta.}
 {177}{}{Ao tentar cortar o bloqueio, você pressiona suas costas e
   tomar um ponto de dano.}
@@ -159,8 +160,8 @@ no alizar de porta.}
 {204}{}{Você ouve o crepitar da eletricidade correndo pela porta.}
 {205}{}{ percebe o crepitar de eletricidade atravessando a porta.}
 {206}{}{Você não consegue colocar uma armadilha na porta porque a porta está aberta.}
-{207}{}{ está incapaz de colocar uma armadilha nessa porta porque
- a porta está aberta.}
+{207}{}{ É incapaz de colocar uma armadilha nesta porta
+ porque a porta está aberta.}
 {208}{}{Você habilmente configurou uma armadilha na moldura da porta.}
 {209}{}{Você não conseguiu ajustar a armadilha corretamente no quadro da porta.}
 {210}{}{ habilmente define uma armadilha na moldura da porta.}
