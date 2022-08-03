@@ -41,7 +41,8 @@
 {200}{}{Essas cavernas parecem um depósito da época pre-guerra. Deve ter mais no subsolo, mas tem uma bugiganga
 tecnologica trancando a porta. De qualquer forma, eu já estou de saco cheio. Vamos cair fora daqui.}
 {201}{}{OK.}
-{210}{}{Ufa. Dessa vez eu fiquei no bico do corvo. Por que você não passa na Buckner depois para receber uma recompensa por me salvar?}
+{210}{}{Ufa, acho que acabei de usar algumas vidas dessa vez. Por que voce nao da uma passada na casa dos
+ Buckner mais tarde e eu te garanto que voce recebera uma bela recompensa por me salvar.}
 {211}{}{Obrigado, Smiley. Estou feliz por ajudar. Tchau.}
 {212}{}{Ok, tanto faz. Adeus.}
 {213}{}{Finalmente você mencionou uma recompensa. Espero que seja boa. Adeus.}

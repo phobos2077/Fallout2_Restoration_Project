@@ -92,7 +92,7 @@
 {191}{}{Ele: Você fez uma escolha que vai mudar a sua vida. Ela: Infelizmente, foi a escolha errada. Ambos: Guardas! Guardas!}
 {192}{}{Porra.}
 {193}{}{Ele: Saudações,}
-{194}{}{So what do I do now that I'm a Hubologist?}
+{194}{}{Então, o que eu faço agora que sou um Hubologista?}
 {195}{}{Como faço para me juntar a vocês?}
 {196}{}{Isso era tudo que eu queria. Até logo!}
 {197}{}{}

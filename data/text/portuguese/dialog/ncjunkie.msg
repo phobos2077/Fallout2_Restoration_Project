@@ -237,14 +237,14 @@
 {530}{}{Cara, não olha agora, mas tem um cérebro numa caixa te seguindo.}
 {531}{}{Puts. To tomando merda demais... Estou vendo cerebros de robos correndo por ai.}
 {532}{}{Se eu ver aquele robô com o cérebro zunindo por aqui de novo, eu vou largar o Jet pra sempre.}
-{533}{}{I've felt like your robot friend before... tell him he'll be okay once he comes down
- from his high.}
-{534}{}{What the hell happened to your friend with the brain? He lose his body?}
-{535}{}{TELL me that robot brain thing isn't real. Please.}
-{536}{}{Whoa. Check out the robot brain. There's your brain on drugs if I've ever seen it.}
+{533}{}{Ja me senti como seu amigo robo antes... diga a ele que ficara tudo bem assim que descer
+ de onde esta.}
+{534}{}{Que porra aconteceu com o seu amigo com o cérebro? Ele perdeu o corpo dele?}
+{535}{}{DIZ pra mim que essa coisa de cérebro robótico não é real. Por favor.}
+{536}{}{Ei, olhe para aquele ceebro robo. Maldito seja se isso nao for um cerebro de um viciado.}
 {537}{}{You wanna fly with me? How about your robot friend?}
-{538}{}{You messin' with me, robot lover? I'm a Jet-pumped powerhouse! I'll kick YOUR ass
- and then your robot's ass!}
+{538}{}{Voce ta me tirando comigo, pegador de robos? Eu sou o poderoso movido a jet! Eu vou chutar
+ a sua bunda e a desse seu robo!}
 {539}{}{You want some of this, robot-lover?! Huh?}
 {540}{}{Huh? Voce e real?}
 {541}{}{Estou tao chapado que... uh, o que eu estava dizendo?}

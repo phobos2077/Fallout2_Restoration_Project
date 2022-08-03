@@ -11,8 +11,8 @@
 {109}{}{Não importa.}
 {110}{}{Ug.}
 {111}{}{Aqui está o que eu recebi: }
-{112}{}{regular gecko pelts.}
-{113}{}{golden gecko pelts.}
+{112}{}{Pele de gecko comum.}
+{113}{}{pele de gecko dourado.}
 {114}{}{Eu vou levar tudo que você tem.}
 {115}{}{Talvez da próxima vez. Tchau.}
 {116}{}{É bom fazer negócios com você. Até a próxima.}
