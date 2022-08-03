@@ -1,6 +1,7 @@
 {100}{}{Você vê uma mulher mais velha.}
 {101}{}{Você vê Rebecca.}
-{102}{}{Você vê uma mulher mais velha. Embora ela parece ter vivido uma vida difícil, ela não perdeu nada de sua beleza natural.}
+{102}{}{Você vê uma mulher mais velha. Embora ela parece ter vivido uma vida difícil, ela não perdeu nada de sua
+ beleza natural.}
 {103}{}{Oi, eu sou a Rebecca. Podemos conversar a sós, por favor?}
 {104}{}{O que falar?}
 {105}{}{Por que precisa falar privada?}

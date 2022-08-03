@@ -13,7 +13,7 @@
 {110}{}{Um mutante! Guardas! Guardas!}
 {111}{}{Um ghoul! Guardas! Guardas!}
 {112}{}{Vamos ver... três stimpacks, uma caixa de Rad-X...}
-{113}{}{Ainda precisa fazer essa lista do inventário para  o Oficial Randal.}
+{113}{}{Ainda precisa fazer essa lista do inventário para o Oficial Randal.}
 {114}{}{vamos ver: preciso checar o estoque, listar o inventário, checar a lista, então entrar com a lista no sistema...}
 {115}{}{Preciso ver sobre como assgurar mais alguns kits de primeiros socorros...}
 {119}{}{Desculpe, o escritório de Sub-Amenities é fechado à noite.}
@@ -22,7 +22,7 @@
 {122}{}{Posso ajudá-lo, Capitão?}
 {123}{}{Posso ajudá-lo, Cidadão?}
 {124}{}{Sim, o que é?}
-{125}{}{Ieu poss  ajuuudar ocêeee}
+{125}{}{Ieu poss ajuuudar oceeee}
 {126}{}{Desliga}
 {127}{}{O que é este lugar?}
 {128}{}{Posso ver o que você tem no estoque?}

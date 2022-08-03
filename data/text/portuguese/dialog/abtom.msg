@@ -15,7 +15,8 @@
 {208}{}{Encontrar alguma coisa, hein? Você quer dizer como algo em uma sepultura?}
 {209}{}{Isso é um bom lema de fato. Bem, tome cuidado.}
 {210}{}{(Os olhos de Tom se ampliam) Não tenho certeza do que você, uh, quer dizer.}
-{211}{}{Tom, você está em um cemitério, você tem lama em cima de você, e já passa da meia-noite. Por que, mesmo Torr poderia desenhar uma conclusão a partir disso. É hora de começar a dar-me algumas respostas, Tom. Por que você iria desenterrar esses túmulos?}
+{211}{}{Tom, você está em um cemitério, você tem lama em cima de você, e já passa da meia-noite. Por que, mesmo Torr poderia
+ desenhar uma conclusão a partir disso. É hora de começar a dar-me algumas respostas, Tom. Por que você iria desenterrar esses túmulos?}
 {212}{}{[Ele coloca a pá e suspira.] Tudo bem, eu vou te contar. Meu corpo não é o que costumava ser. Não tenho trabalho,
   e nenhum meio real para obter comida. Eu sei que um ladrão de tumba não é algo que as pessoas admirem, mas tem sido uma maneira para mim
   conseguir algum dinheiro. Estou apenas tentando sobreviver ... Não quero fazer nenhum mal.}

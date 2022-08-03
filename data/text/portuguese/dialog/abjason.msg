@@ -7,7 +7,9 @@
 {210}{}{Eu não sei o que você está falando. Eu não tenho qualquer baralho de cartas.}
 {211}{}{Não minta para mim. Eu vi você colocar no seu bolso. Eu só queria saber por quê.}
 {212}{}{Tudo bem, o que você disser. Até mais.}
-{220}{}{Olhe, não conte a ninguém, está bem? Não devemos "usar" as relíquias anteriores à guerra, basta adorá-las. Mas estes cartôes trágicos são tão legais. [Ele parece se perder em outro mundo enquanto olha amorosamente para o baralho. Depois de um momento, ele olha para você.] Oh, desculpe. Eu sou o irmão Jason, a propósito. Eu, uh, não suponha que você jogasse Trágico?}
+{220}{}{Olhe, não conte a ninguém, está bem? Não devemos "usar" as relíquias anteriores à guerra, basta adorá-las. Mas estes
+ cartoes de Tragic são tão legais. [Ele parece se perder em outro mundo enquanto olha amorosamente para o baralho.
+ Depois de um momento, ele olha para você.] Oh, desculpe. Eu sou o irmão Jason, a propósito. Eu, uh, não suponha que você jogasse Trágico?}
 {221}{}{BRING FORTH THE GARNERING!!!}
 {222}{}{Inferno sim, eu amo o Tragic the Garnering.}
 {223}{}{Eu tentei, mas não é para mim.}
@@ -75,9 +77,10 @@
   você fez isso, porque eu vou ter que agir tão chateado como todos os outros ou eles suspeitarão de algo. Obrigado novamente por
   Fazendo isso. É por seu próprio bem.}
 {301}{}{O que você diz. Tchau.}
-{310}{}{Está maluco? Eu nunca estive fora dos resíduos, mas eu tenho uma boa idéia do que é. Teria sorte de fazer cinquenta metros antes de um radscorpion empurrar um calcador de pé até minha bunda. Ou pior ainda, eu seria capturado
-  e torturado por uma gangue de invasores maníacos * ou * Eu seria comido vivo por tribos canibais. Tanto faz. Eu só sei que se
-  Eu sair daqui, eu ficaria fodido. Então não, estou preso aqui.}
+{310}{}{Está maluco? Eu nunca estive fora dos resíduos, mas eu tenho uma boa idéia do que é. Teria sorte de fazer cinquenta
+ metros antes de um radscorpion empurrar um calcador de pé até minha bunda. Ou pior ainda, eu seria capturado e torturado
+ por uma gangue de invasores maníacos *ou* Eu seria comido vivo por tribos canibais. Tanto faz. Eu só sei que se Eu sair
+ daqui, eu ficaria fodido. Então não, estou preso aqui.}
 {311}{}{Ei, não é * que * seja mal lá ... Na verdade, você está certo. Você provavelmente não chegaria a Gecko.
   Pelo menos, não sem ajuda. Mas e se eu dissesse que escolho-lo?}
 {312}{}{Chato ser você. Tchau.}

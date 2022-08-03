@@ -59,7 +59,7 @@
 {158}{}{Eu não sei o que isso significa exatamente, mas e daí se somos um pouco diferentes?}
 {159}{}{Bem, o seu DNA é mais do que um *pouco* diferente. É bem diferente. Se eu não estivesse com tanta pressa por causa do Projeto gostaria muito de fazer testes adicionais no seu povo, outros além do estudo toxicológico de F.E.V, é claro. É realmente um trabalho fascinante.}
 {160}{}{O que você quer saber?}
-{161}{}{Como o  nosso DNA é diferente?}
+{161}{}{Como o nosso DNA é diferente?}
 {162}{}{Você está realizando testes na minha tribo?}
 {163}{}{Que desgraça é essa de "o Projeto?"}
 {164}{}{Eu já ouvi o suficiente. Você precisa ser eliminado como se faz com um gecko raivoso. Adeus, panaca.}

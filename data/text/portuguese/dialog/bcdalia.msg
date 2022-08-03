@@ -28,7 +28,8 @@
 {126}{}{Não, não é problema. Eu te pergunto uma coisa.}
 {127}{}{Eu não tenho um problema, mas eu estou curioso sobre uma coisa.}
 {128}{}{Desculpe, eu vou estar indo em seguida.}
-{129}{}{Não, eu não estou guardando a trilha. Não há nada nesse buraco precisando de proteção. Eu disse a você, eu estou desfrutando o ar fresco. Agora vá embora.}
+{129}{}{Não, eu não estou guardando a trilha. Não há nada nesse buraco precisando de proteção. Eu disse a
+ você, eu estou desfrutando o ar fresco. Agora vá embora.}
 {130}{}{Que bom falar. Me fale mais.}
 {131}{}{Desculpe-me incomodar. Eu vou.}
 {132}{}{Mas estamos tendo uma conversa agradável, por que parar?}
@@ -50,7 +51,8 @@
 {148}{}{Vida de garota em jogo. Jovem menina. Alguém filha. Ajudar, por favor?}
 {149}{}{Eu não tenho tempo para a suas besteiras.}
 {150}{}{Bem, adeus.}
-{151}{}{Olha, é a vida de uma jovem que está em jogo aqui. Filha de uma mãe preocupada. Você pode por favor me ajudar?}
+{151}{}{Olha, é a vida de uma jovem que está em jogo aqui. Filha de uma mãe preocupada. Você pode
+ por favor me ajudar?}
 {152}{}{Eu não dou uma minima importancia ... Desculpe. Eu sou apenas uma arma que foi contratada para ficar aqui e proteger
   essa trilha. Além disso, não sei o que está acontecendo aqui. Eu tive uma filha uma vez, no entanto,
   e ... sim, algum cara veio aqui. Eu o livrei porque ele conhecia o sinal apropriado ... assim como o

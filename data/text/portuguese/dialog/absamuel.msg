@@ -41,7 +41,8 @@
   mona * soluço * -monasterio, mas eu sei que os nossos computadores têm todos os tipos de informações coletadas ao longo dos anos. Talvez
   Um pouco disso * soluço * pode ser útil para você.}
 {501}{}{Você não gasta muito tempo na igreja? Você é um monge, não é?}
-{502}{}{[Ele sorri, revelando um conjunto cheio de dentes podres]. Bem, * soluço * digamos que os outros monges não lidam * soluço * muito gentilmente com meu hábito de beber.}
+{502}{}{[Ele sorri, revelando um conjunto cheio de dentes podres]. Bem, *soluço* digamos que os outros monges não lidam
+ *soluço* muito gentilmente com meu hábito de beber.}
 {503}{}{Faz sentido, eu acho. Eu tenho mais algumas perguntas.}
 {504}{}{Acho que sim. Vejo você por ai, Sammy.}
 {505}{}{Eu vejo. Olha, eu preciso ir.}

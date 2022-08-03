@@ -12,7 +12,8 @@ segurando uma lança.}
 {156}{}{Bem, talvez os deuses cuidem de você.}
 {157}{}{Obrigado, adeus.}
 {158}{}{O que você quer saber?}
-{159}{}{O que você pode me dizer de homens que têm relações comerciais com a nossa aldeia?}
+{159}{}{O que você pode me dizer de homens que têm relações
+ comerciais com a nossa aldeia?}
 {160}{}{O que você pode me dizer sobre esse objeto que eu tenho de
 um cofre?}
 {161}{}{Nada, esquece.}
@@ -210,7 +211,8 @@ o Ancião fala de um racionamento de energia que nós temos. Temo pelo futuro de
 {1106}{}{Você é o Escolhido.}
 {1107}{}{Ele nos cura com suas ervas e magia. Ele está na
   parte norte da nossa aldeia.}
-{1108}{}{Ele nos cura com suas ervas e magia. Ele está na parte norte da nossa aldeia.}
+{1108}{}{Ele nos cura com suas ervas e magia. Ele está na
+ parte norte da nossa aldeia.}
 {1109}{}{É um pó mágico que irá curá-lo, mas vai
   fazer você ficar com sono.}
 {1110}{}{A Grande Ponte sai da nossa aldeia no sul.}

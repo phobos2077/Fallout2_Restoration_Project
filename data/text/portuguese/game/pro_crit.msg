@@ -504,7 +504,7 @@
 {48401}{}{O fantasma da morte Nessa.}
 {48500}{}{Xamã}
 {48501}{}{Xamã tribal.}
-{48600}{}{Warrior  }
+{48600}{}{Guerreiro}
 {48601}{}{Guerreiro da tribo.}
 {48700}{}{Guarda}
 {48800}{}{Irma do Sulik}
