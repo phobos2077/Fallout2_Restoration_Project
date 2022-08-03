@@ -49,8 +49,8 @@ que você poderá abrir.}
   armadilha explosiva no quadro.}
 {122}{}{Você vê um recipiente resistente com um bloqueio (que pode ser colhido com
   gazua) e uma armadilha no quadro.}
-{123}{}{Você vê um recipiente resistente com um bloqueio e uma armadilha na
-   moldura.}
+{123}{}{Você vê um recipiente resistente com um bloqueio e uma
+ armadilha na moldura.}
 {124}{}{Você vê um recipiente resistente com nenhum dispositivo de bloqueio aparente e
   uma armadilha no quadro.}
 {125}{}{Você vê um recipiente resistente com um bloqueio velho e enferrujado e uma armadilha
@@ -128,7 +128,7 @@ que você poderá abrir.}
 {165}{}{Você vê um recipiente antigo com um bloqueio antigo e enferrujado.}
 {166}{}{Você foi pego na armadilha e tomou }
 {167}{}{ pontos de dano.}
-{168}{}{ desencadeia a armadilha e foi atingido por  }
+{168}{}{ desencadeia a armadilha e foi atingido por }
 {169}{}{ pontos de dano.}
 {170}{}{Você colhe habilmente o bloqueio no recipiente.}
 {171}{}{Sua falta de habilidade bloqueou o bloqueio neste recipiente.}

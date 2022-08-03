@@ -134,7 +134,7 @@
 {320}{}{Isso vai rodando…e onde para, ninguém sabe…}
 {321}{}{Você detonou fácil aqueles idiotas da Enclave! Fácil de mais!}
 {322}{}{Eu sempre soube que o Presidente queria matar a todos nós.}
-{323}{}{O Presidente tá vivo?  Quando foi a última eleição?}
+{323}{}{O Presidente tá vivo? Quando foi a última eleição?}
 {324}{}{Destruí a Enclave, huh? Bem, deixa eu comprar uma bebida pra você.}
 {325}{}{Você acabou com a Enclave facilmente, }
 {326}{}{Com a destruição da Enclave, você fez esse cassino o melhor lugar para minhas crianças. Como eu posso te agradecer?}

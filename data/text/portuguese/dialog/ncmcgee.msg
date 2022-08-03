@@ -53,7 +53,7 @@
 {288}{}{Hunh? Chupador de pistola? Mim GRANDE chupador de pistola}
 {289}{}{Hunh? Onde vagabunda? Mim tem tigela}
 {290}{}{Mim não chupador de pistola. Mim }
-{291}{}{Mim não vagabunda. Mim  }
+{291}{}{Mim não vagabunda. Mim }
 {292}{}{Calma, Sr. McGee. Podemos conversar sobre isso?}
 {293}{}{Acalme-se senhor. Podemos conversar sobre isso?}
 {294}{}{Olha, eu ganhei o dinheiro justamente.}
@@ -109,7 +109,7 @@
 {395}{}{O que você está fazendo?}
 {396}{}{Se importa se eu der uma jogada?}
 {397}{}{Nada. Desculpe por atrapalhar.}
-{405}{}{(Uma série de símbolos roda no caça-níqueis. A máquina faz um  *bzzzzt*) Meeeerda!
+{405}{}{(Uma série de símbolos roda no caça-níqueis. A máquina faz um *bzzzzt*) Meeeerda!
  Máquina teimosa! Eu vou pegar meu dinheiro de volta qualquer dia...}
 {407}{}{ ir agora! Tcha-aau}
 {409}{}{Eh... Faz quanto tempo você está fazendo isso?}

@@ -13,7 +13,7 @@
 {112}{}{Eu vou.}
 {113}{sgnt5}{O que foi isso? Você se esqueceu de algo, verme?}
 {114}{}{Meu nome é }
-{115}{sgnt6}{Eu não sou um senhor. Eu trabalho para ganhar a vida, você é mongol. Você vai me chamar de sargento ou sargento Dornan. Você me entende!  }
+{115}{sgnt6}{Eu não sou um senhor. Eu trabalho para ganhar a vida, você é mongol. Você vai me chamar de sargento ou sargento Dornan. Você me entende! }
 {116}{}{Sim, Sargento!}
 {117}{}{Claro, Sargento. Tanto faz.}
 {118}{sgnt7}{Excepcional. Prossiga no dobro para o hangar, onde você ficará de guarda. Você fará um bom trabalho. Voce entende?}

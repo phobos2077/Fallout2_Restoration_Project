@@ -7,10 +7,10 @@
 {210}{}{[O terminal projeta um holograma de um homem de óculos altos em uma bata de laboratório. Ele acena e te dá um sorriso amigável.]
   Olá, sou o Dr. Caleb, e irei hospedar este vídeo holográfico em uma América pós-holocausto.}
 {211}{}{[MAIS]}
-{220}{}{[Uma sala de estar se materializa em torno do Dr. Caleb, onde uma família parece estar relaxando para a noite. Dr. Caleb 
-  acaricia a cabeça do cão da família, então sorri para você.] Conheça Johnsons. Eles são a sua família americana média. Papai fuma
-  seu cachimbo, mamãe lê seu livro de cozinhar, e o pequeno Billy e Susie pegam algum tubo de boob antes de dormir. Eles pensam que tudo
-  ficará bem. Eles ignoram as sirenes de advertência, pensando que é apenas uma outra broca. Ah, mas o que é isso?}
+{220}{}{[Uma sala de estar se materializa em torno do Dr. Caleb, onde uma família parece estar relaxando para a noite. Dr. Caleb
+ acaricia a cabeça do cão da família, então sorri para você.] Conheça Johnsons. Eles são a sua família americana média. Papai fuma
+ seu cachimbo, mamãe lê seu livro de cozinhar, e o pequeno Billy e Susie pegam algum tubo de boob antes de dormir. Eles pensam que tudo
+ ficará bem. Eles ignoram as sirenes de advertência, pensando que é apenas uma outra broca. Ah, mas o que é isso?}
 {221}{}{[MAIS]}
 {230}{}{[Através da janela de trás, você vê um grande choque de bomba para a Terra, criando uma enorme explosão de nuvem de cogumelo,
   seguido por uma luz cegante. Uma vez que a luz desaparece, você vê o Dr. Caleb agora está parado nas ruínas queimadas da

@@ -244,7 +244,7 @@ tentando limpar New Reeno. Fez um bom trabalho comigo.}
  para todo Reno se ele assumissse o c-comando. Não consiguiria aguentar, droga, puta... todos caem.}
 {752}{}{Os Mordinos são a fonte das drogas e a da maioria das putas de New Reno?}
 {754}{}{Assim como você em alguns segundos. Bem, obrigado por falar comigo.}
-{760}{}{(Tully te mira fixamente.)  }
+{760}{}{(Tully te mira fixamente.) }
 {761}{}{Siiim... (Sorri, lambe os lábios.) ...putass... (Começa a acariciar o gargalo da garrafa.)}
 {762}{}{Uh, padre? E sobre as drogas?}
 {763}{}{Acho melhor eu ir. Obrigado por falar comigo, padre.}

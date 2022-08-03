@@ -33,7 +33,7 @@
 {180}{}{Não me importa onde você o encontrou. A questão é se você pretende juntar-se a nós e usá-lo
  seriamente. }
 {181}{}{Juntar-me a vocês? O que quer dizer com isso?}
-{182}{}{Eu prefiro limpar sua gaiola a  me juntar a vocês.}
+{182}{}{Eu prefiro limpar sua gaiola a me juntar a vocês.}
 {183}{}{Depende. As patrulhas de Vault City continuam sendo atacadas por ratos toupeira. Presumo que você esteja por trás disso?}
 {184}{}{Claro que estou. Tudo parte do meu grande plano para dominar o mundo. Eu não esperaria que um cérebro humano deficiente como o seu entendesse. Mas, ai de mim, qual é a sua preocupação?}
 {185}{}{Eu só quero que seus ratos toupeira parem de atacar as patrulhas de Vault City.}
@@ -204,8 +204,8 @@
 pouco mais fora da cidade fazem minha fama.}
 {621}{}{Mas você é apenas um rato gigante.}
 {622}{}{Você disse algo sobre juntar-se a você?}
-{630}{}{As ações que eu proponho beneficiarão milhares de cidadãos de Vault City e Gecko. Você pode não 
- se importar comigo ou com meus motivos, mas ainda assim  os resultados
+{630}{}{As ações que eu proponho beneficiarão milhares de cidadãos de Vault City e Gecko. Você pode não
+ se importar comigo ou com meus motivos, mas ainda assim os resultados
  são promissores.}
 {631}{}{Você recebeu o Reactor Data disk, agora deve usá-lo.}
 {632}{}{Você teve o Reactor Data disk analisado, agora deve fazer algo com ele.}

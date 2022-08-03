@@ -157,7 +157,7 @@
  conheço um lugar chamado Gecko, nunca estive lá, mas ouvi dizer que é em algum lugar a leste
  daqui. Me sinto muito mal por enganar você, gostaria de poder lhe dar mais compensação do que
  isso, mas o melhor que posso te oferecer é um desconto das mercadorias. Não tenho muito
- agora, mas  as coisas vão melhorar por aqui em breve e eu ficaria honrado em contribuir para você.}
+ agora, mas as coisas vão melhorar por aqui em breve e eu ficaria honrado em contribuir para você.}
 {278}{}{Babaca!}
 {280}{}{Não te culpo por bravo comigo, mas não me arrependo de ter feito isso. Precisávamos de alguém
  para o trabalho e você se encaixava perfeitamente. Tudo o que posso dizer é "obrigado" e que vá em paz.}

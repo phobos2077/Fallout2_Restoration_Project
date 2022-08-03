@@ -207,8 +207,8 @@
 {611}{}{Eu acho que não há mal nenhum-}
 {612}{}{Bem, Eu-}
 {620}{}{Claro que não se importa. Valeu cara. [Ele passa além de você e abre um armário próximo. Ele casualmente se veste
-  em um terno finamente adaptado, em seguida, enfia o conteúdo do armário. Utilizando um pente de bolso, ele começa a 
-  esculpir e modelar o seu cabelos escuros escorregadios com a precisão rápida de um experiente profissional.] Então, onde está o doc?  }
+ em um terno finamente adaptado, em seguida, enfia o conteúdo do armário. Utilizando um pente de bolso, ele começa a
+ esculpir e modelar o seu cabelos escuros escorregadios com a precisão rápida de um experiente profissional.] Então, onde está o doc? }
 {621}{}{Sei lá. Onde quer que ele esteja, ele já está morto há muito tempo. Você vê, você está fazendo essa marca de picolé por um tempo muito longo.}
 {622}{}{Escute, garoto bonito. Eu não desprezei seu entalhe psicótico para que eu pudesse responder suas perguntas e assistir você se preparar.
   Só estou deixando você viver o suficiente para me contar qualquer informação útil que você possa ter. Então comece a falar. O mais

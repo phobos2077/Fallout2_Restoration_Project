@@ -234,7 +234,7 @@
 {810}{}{(Inclina-se.) Agora, eu nao quero falar sobre os locais menos AGRADAVEIS de New Reno, mas ha um bando de
  casacos brancos que falam como voce nesse lugar, os estabulos, ao norte da cidade. Fortemente guardado pelos homens de Mordino.}
 {811}{}{O que eles fazem la?}
-{825}{}{Testam novos tipos de Jet, pelo que ouvi. Agora, te digo com  CONFIANÇA, amigo: nao fique bisbilhotando por
+{825}{}{Testam novos tipos de Jet, pelo que ouvi. Agora, te digo com CONFIANÇA, amigo: nao fique bisbilhotando por
  aí... os mordinos nao gostam de visitas. - Alem disso... Jules pode te dar todo o jet que voce precisa.}
 {826}{}{Por que os Mordinos continuam testando o jet? Parece que e viciante o suficiente esse jeito.}
 {827}{}{Em quem os Mordinos testam as drogas?}
@@ -346,7 +346,7 @@
 {1178}{}{Uh, obrigado, Jules, mas não. Eu tenho outras perguntas...}
 {1180}{}{Bem, obrigado pela dica. Acho melhor eu ir.}
 {1181}{}{Bem, uh, obrigado de qualquer maneira, acho melhor eu ir.}
-{1190}{}{Você quer dizer Vault CITY, nao e? E la para o nordeste. Nao  tem como perder, todas as rotas de caravanas levam direto a ela.}
+{1190}{}{Você quer dizer Vault CITY, nao e? E la para o nordeste. Nao tem como perder, todas as rotas de caravanas levam direto a ela.}
 {1191}{}{Tudo bem. Olha, eu tenho mais perguntas.}
 {1192}{}{Bem, obrigado pela dica. E melhor eu ir.}
 {1200}{}{Jardim do que? Isso e alguma droga nova? O que esse "jardim nao sei das quanta" faz? Te deixa chapado?}

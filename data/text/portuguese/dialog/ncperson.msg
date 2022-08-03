@@ -229,7 +229,7 @@
 {487}{}{If the Temperance Union lectures me one more time...}
 {490}{}{Você detonou fácil aqueles idiotas da Enclave! Fácil de mais!}
 {491}{}{Eu sempre soube que o Presidente queria matar a todos nós.}
-{492}{}{O Presidente tá vivo?  Quando foi a última eleição?}
+{492}{}{O Presidente tá vivo? Quando foi a última eleição?}
 {493}{}{Você acabou com a Enclave facilmente, }
 {494}{}{A Enclave nunca mexeu comigo, mas eu estou feliz que eles se foram.}
 {495}{}{Eu não consigo acreditar que a Enclave continuou lutando a guerra durante todos esses anos. Idiotas.}

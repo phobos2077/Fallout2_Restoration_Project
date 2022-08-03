@@ -95,7 +95,7 @@
 {393}{}{TE MATO TE MATO TE}
 {394}{}{Ei, sem problemas, Cody. Salvar o mundo parece estar no meu sangue. Tome cuidado agora, ouviu?}
 {395}{}{Seu merdinha! Eu te mato! Eu te mato --!}
-{1204}{}{ triste. você viu  }
+{1204}{}{ triste. você viu }
 {1205}{}{ o carro agora? Por favoooor?}
 {1254}{}{?}
 {1282}{}{ carro! Onde! Onde! Vamos! Me leve! Por favor? Você poderia? Huh?}

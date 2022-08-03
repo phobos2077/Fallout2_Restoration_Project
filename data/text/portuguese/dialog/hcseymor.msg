@@ -47,8 +47,7 @@ Colega, Meu caro amigo, você estaria disposto a me fazer um favor?}
  se é que você me entende... Mas sei como derrotá-lo. Se você me fizer um favor, te direi como.}
 {138}{}{Sério? Como?}
 {139}{}{Isso é fascinante. Uma planta que joga xadrez. Que doidoo. Adeus.}
-{140}{}{Colega, se você vai me replantar lá perto da casa dos ghouls, eu vou ficar muito feliz  e posso 
- compartilhar meu profundo conhecimento de xadrez.}
+{140}{}{Colega, se você vai me replantar lá perto da casa dos ghouls, eu vou ficar muito feliz e posso compartilhar meu profundo conhecimento de xadrez.}
 {141}{}{Estamos de acordo.}
 {142}{}{Não, obrigado. Cuidarei do escorpião por minha conta.}
 {143}{}{Ah, colega, você retornou. Este é um lugar muito agradável. A sombra é perfeita, e a companhia é simplesmente deslumbrante. 

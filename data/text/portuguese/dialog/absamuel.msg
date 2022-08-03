@@ -32,8 +32,8 @@
   'exagerado ... quando' não há nenhum! [Ele engasga, o que rapidamente se transforma em uma tosse hedionda. Depois de tossir um pulmão
   ou dois, ele sorri para você.]}
 {411}{}{Oh, de * certo * é o que você quis dizer. [Suspiro de alívio.] Deixe-me perguntar-lhe outra coisa, no entanto.}
-{420}{}{[Seus olhos se arregalam de choque e parece estar sóbrio.] Não é isso que quis dizer, você ... seu MONSTRO! DEMÔNIO!
-  Saia de perto de mim!  }
+{420}{}{[Seus olhos se arregalam de choque e parece estar sóbrio.] Não é isso que quis dizer, você ... seu MONSTRO! DEMÔNIO! Saia de perto
+ de mim! }
 {421}{}{Seja o que for, você é um velho bêbado foda-se. Você não sabe o que está perdendo.}
 {430}{}{Demônio ruim! Sai!}
 {500}{}{A Abadia, bem, este lugar * soluço * passei a maior parte da minha vida. todomundo é * soluço * é legal, e

@@ -88,7 +88,7 @@
 {187}{}{Certo! Tchau!}
 {188}{}{Não!}
 {189}{}{Pegue! [dar a Rotgut pro Typhon]}
-{190}{}{Certo. Aqui está. [dar a  Rotgut pro Typhon]}
+{190}{}{Certo. Aqui está. [dar a Rotgut pro Typhon]}
 {191}{}{Vai ser isso mesmo?}
 {192}{}{Tudo bem. Tchau.}
 {193}{}{Esqueça.}

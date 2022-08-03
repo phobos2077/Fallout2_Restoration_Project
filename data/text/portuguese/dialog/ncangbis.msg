@@ -184,7 +184,7 @@
 {673}{}{Acho que você me confundiu com alguém que realmente consideraria tocar em você.}
 {680}{}{Você vê Angela Bishop. Ela está dormindo, roncando levemente, seu cabelo está desarrumado e ela tem um sorriso brilhante no rosto.}
 {690}{}{Você vê uma jovem com roupa de couro apertado que está gritando.}
-{700}{}{Zzxxssnnn... oh,  }
+{700}{}{Zzxxssnnn... oh, }
 {701}{}{Zzzzz...}
 {800}{}{Estuprador! Ajuda!}
 {801}{}{Socorro, ele me bateu! Socorro!}

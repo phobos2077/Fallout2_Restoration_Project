@@ -25,7 +25,7 @@
 {124}{}{(falando com aqueles que o rodeiam) Será que vocês ouviram isso? Eu mesmo tenho um vivo aqui. Quer ouvir ataque as fadas e duendes pequeninos e tal. (Hooo, haah, haah, ele dobra de tanto rir) Aqui rapaz, tome uma bebida por minha conta, esse é o seu bilhete para o reino do povo das fadas.}
 {125}{}{(falando com aqueles que o rodeiam) Será que vocês ouviram isso? Eu mesmo tenho um vivo aqui. Quer ouvir ataque as fadas e duendes pequeninos e tal. (Hooo, haah, haah, ele dobra de tanto rir) Aqui rapaz, tome uma bebida por minha conta, esse é o seu bilhete para o reino do povo das fadas.}
 {126}{}{Tudo que eu preciso é de uma bebida? Isso é ótimo. Obrigado pela dica.}
-{127}{}{De certa forma, eu sinto como se estivesse  me sacaneando.}
+{127}{}{De certa forma, eu sinto como se estivesse me sacaneando.}
 {128}{}{Bem, a bebida é apenas um começo. Você tem que encontrar um monte de fadas. (pisca para os clientes ao redor)}
 {129}{}{E depois?}
 {130}{}{Bem, você se senta junto do monte e espera até que consiga ver o círculo das fadas no orvalho. Se você saltar pelo anel de fadas, você vai ser levado para dançar até o amanhecer com o povo pequenino. Se você sobreviver, eles vão te levar para a terra das fadas. (heee, hah, hah, hah)}

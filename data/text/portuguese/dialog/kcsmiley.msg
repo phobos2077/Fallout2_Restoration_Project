@@ -36,7 +36,7 @@
 {181}{}{Interessante.}
 {190}{}{Chega de conversa fiada. Agora vamos sair daqui. Acho que se nos juntarmos podemos sair daqui tranquilos.
  Eu preciso de uma mão.}
-{191}{}{Ok. Pode vir comigo. Eu vou te tirar daqui e levar de volta para Klamath. Acho que a Ardin ficará feliz  em vê-lo de novo.}
+{191}{}{Ok. Pode vir comigo. Eu vou te tirar daqui e levar de volta para Klamath. Acho que a Ardin ficará feliz em vê-lo de novo.}
 {192}{}{Bem, ok. Mas eu não quero você choramingando por ajuda o tempo todo.}
 {200}{}{Essas cavernas parecem um depósito da época pre-guerra. Deve ter mais no subsolo, mas tem uma bugiganga
 tecnologica trancando a porta. De qualquer forma, eu já estou de saco cheio. Vamos cair fora daqui.}

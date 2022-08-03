@@ -90,5 +90,5 @@
 {189}{}{Você é um merda.}
 {190}{}{Ovelha ovelha ovelha!}
 {191}{}{Cultista maluco!}
-{192}{}{Algumas pessoas são naturalmente estúpidas,  eu acho.}
+{192}{}{Algumas pessoas são naturalmente estúpidas, eu acho.}
 {193}{}{Ei! É o idiota que não pensa por si próprio!}

@@ -49,7 +49,8 @@ GECK ou o nosso povo vai morrer!}
 {146}{aeld11}{Klamath é para o leste.}
 {147}{}{Há outras coisas que eu poderia aprender.}
 {148}{}{Eu estou pronto. Adeus.}
-{149}{aeld12}{O santo Treze? Eu não posso ajudar você. Apenas o Morador do Vault  sabia. Seus contos falam de uma perigosa jornada.}
+{149}{aeld12}{O santo Treze? Eu não posso ajudar você. Apenas o Morador do Vault sabia. Seus contos falam de
+ uma perigosa jornada. }
 {150}{}{Eu vejo. Há muito que eu preciso saber.}
 {151}{}{Adeus, Ancião.}
 {152}{aeld13}{Ser um covarde nos matará a todos! Incluindo você. Você passou
@@ -61,8 +62,8 @@ GECK ou o nosso povo vai morrer!}
 {157}{aeld14c}{Por que você faz isso?}
 {158}{aeld14d}{Eu sabia que você tinha a alma das trevas!}
 {159}{aeld15}{Em seguida, pegue esse frasco. É do santo Vault 13. Vic, comerciante em Klamath,
-  trouxe para nós. Ele pode saber onde está o cofre. Você também pode precisar de um pouco do que eles
-  chamam dinheiro. Aqui.}
+ trouxe para nós. Ele pode saber onde está o cofre. Você também pode precisar de um pouco do que eles
+ chamam dinheiro. Aqui.}
 {160}{}{Uh ... Qual foi a minha missão de novo?}
 {161}{}{Existe mais o que você pode me dizer?}
 {162}{}{Deseje-me sorte, Ancião, e não falharei com você.}

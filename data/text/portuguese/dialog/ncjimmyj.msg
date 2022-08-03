@@ -94,7 +94,7 @@
 {401}{}{Serio? O que aconteceu?}
 {402}{}{Serio? Mano, caras que batem em mulheres merecem tomar um pau.}
 {415}{}{(Entra em posição de luta.) Então eu entro, certo, e ele puxa uma FACA no velho JJ! Eu não tenho nada além de minhas próprias mãos, entende?
- Então ele consegue acertar um corte sortudo  antes que eu...*BAM!* Quebrasse ele!}
+ Então ele consegue acertar um corte sortudo antes que eu...*BAM!* Quebrasse ele!}
 {416}{}{Oh sério? Jules diz que você estava 'voando' no jet e cortou seu rosto tentando se barbear com sua faca de combate.}
 {417}{}{Jura Eu não acho que teria peito para fazer isso. Porra, aquele homem poderia ter te MATADO.}
 {418}{}{Boa história. Ei, eu tinha outras perguntas...}

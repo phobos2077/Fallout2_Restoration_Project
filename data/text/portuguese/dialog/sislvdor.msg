@@ -36,8 +36,8 @@
   capaz de se abrir.}
 {116}{}{Você vê uma porta resistente com nenhum dispositivo de bloqueio aparente,
   que você poderá abrir.}
-{117}{}{Você vê uma porta resistente com um bloqueio velho e enferrujado, que
-  você pode abrir.}
+{117}{}{Você vê uma porta resistente com um bloqueio velho
+ e enferrujado, que você pode abrir.}
 {118}{}{You see a study door with a lock which can be picked with
  lockpicks and a highly explosive trap in the doorframe.}
 {119}{}{Você vê uma porta resistente com um bloqueio e uma
@@ -124,7 +124,7 @@ no alizar de porta.}
 {165}{}{Você vê uma porta velha com um bloqueio velho e enferrujado.}
 {166}{}{Você foi pego na armadilha e tomou }
 {167}{}{ pontos de dano.}
-{168}{}{ desencadeia a armadilha e foi atingido por  }
+{168}{}{ desencadeia a armadilha e foi atingido por }
 {169}{}{ pontos de dano.}
 {170}{}{Você abre habilmente o bloqueio na porta.}
 {171}{}{A sua falta de habilidade encravou a trava na porta.}

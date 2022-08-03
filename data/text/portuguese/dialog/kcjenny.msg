@@ -60,7 +60,7 @@
 {342}{}{Espero que ele volte para você. Acho que vou indo agora. Adeus.}
 {350}{}{Olá, senhor. Meu nome é Jenny. Está procurando por uma boa esfregada?}
 {351}{}{Hum, não, obrigado; Só estava dando uma olhada.}
-{352}{}{Na verdade, uma  "massagem" (piscadinha) até que cairia bem...}
+{352}{}{Na verdade, uma "massagem" (piscadinha) até que cairia bem...}
 {353}{}{Bem, na verdade, eu só tenho algumas perguntas que gostaria de fazer, se você não se importa.}
 {354}{}{Estou procurando por informação sobre um comerciante de coisas antigas.}
 {360}{}{Olá, senhorita. Me chamo Jenny. Posso ajudá-la?}

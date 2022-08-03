@@ -180,8 +180,8 @@ o Ancião fala de um racionamento de energia que nós temos. Temo pelo futuro de
 {632}{}{Você sabe, eu acho que você está exagerando com o melodrama, apenas um pouco. De qualquer forma, obrigado pelo conselho. Eu vou te ver, Mynoc.}
 {633}{}{Eu vou manter isso em mente. Tome cuidado, Mynoc.}
 {640}{}{Você poderia me contar alguma coisa sobre este cara Kaga?}
-{641}{}{[Seus olhos se arregalam e ele olha-o nervosamente como se esperasse de repente ser atingido por um raio.] Você perdeu os sentidos nos resíduos?! Você deve saber melhor que não fale  o nome do pária! Ele deve ser referido apenas como Aquele-Que-Não-Deve-Ser-Nomeado.
-  Nossa aldeia sofre o suficiente sem convidar a ira dos Deuses sobre nós. [Ele ergue os olhos nervosamente para o céu.]}
+{641}{}{[Seus olhos se arregalam e ele olha-o nervosamente como se esperasse de repente ser atingido por um raio.] Você perdeu os sentidos nos resíduos?! Você deve saber melhor que não fale o nome do pária! Ele deve ser referido apenas como Aquele-Que-Não-Deve-Ser-Nomeado. Nossa aldeia sofre
+ o suficiente sem convidar a ira dos Deuses sobre nós. [Ele ergue os olhos nervosamente para o céu.]}
 {642}{}{Desculpe por isso, Mynoc. Mas você se importaria de me dizer o que Ka ... Quero dizer, "Aquele-Que-Não-Pode" é novamente? Eu realmente adoro essa história.}
 {643}{}{Sabe, eu esqueci o quão estupidamente supersticioso você poderia ser. Eu te vejo por aí.}
 {650}{}{Eu já enfrentei ele antes, então estou certo de que posso lidar com ele se nossos caminhos se cruzarem de novo.}

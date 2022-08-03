@@ -1,6 +1,6 @@
 {100}{}{Você vê um casal estranhamente saudável.}
 {101}{}{Você vê Juan Cruz e Vikki Goldman, dois dos mais conhecidos astros de filmes de New Reno.}
-{102}{}{Você vê um homem de cabelo escuro e uma mulher loira, ambos extremamente cativantes.  Eles passam uma sensação vulgar de "venha cá".}
+{102}{}{Você vê um homem de cabelo escuro e uma mulher loira, ambos extremamente cativantes. Eles passam uma sensação vulgar de "venha cá".}
 {103}{}{Ele: Oi! Eu sou Juan Cruz! Ela: E eu sou Vikki Goldman! Ambos: Nós somos celebridades! E nós apoiamos a Hubologia! Ambos: Por favor, note que quaisquer semelhanças entre nós e pessoas ou instituições, vivas ou mortas, é mera coincidência.}
 {104}{}{Hã? Cuz? Doldnan?}
 {105}{}{Celebridades? O que os torna celebridades?}

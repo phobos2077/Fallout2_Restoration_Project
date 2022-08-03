@@ -132,7 +132,7 @@
 {474}{}{Muito caro para o que eu tenho. Nos falamos quando eu tiver mais algum dinheiro.}
 {480}{}{(Sorri, esfrega as mãos quando você coloca o dinheiro na mesa.) Certo, aqui está. Algo mais? }
 {481}{}{(Pensa sobre isso por um momento, te olha, então acena com a cabeça.) Tudo bem então... Vou te deixar quase
- de graça,  aqui está. (Entrega o módulo, pega seu dinheiro.) }
+ de graça, aqui está. (Entrega o módulo, pega seu dinheiro.)}
 {482}{}{Mais alguma coisa?}
 {485}{}{Sim, eu estava interessado em outra coisa...}
 {486}{}{Nada mais hoje, obrigado.}
