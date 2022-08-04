@@ -10,11 +10,11 @@
 {109}{}{CARACT.}
 {110}{}{KARMA}
 {111}{}{MORTES}
-{112}{}{PONTOS DE HABILIDADE}
+{112}{}{PTS. HABILIDADE}
 {113}{}{Nível:}
 {114}{}{Exp:}
 {115}{}{Próx. Nível:}
-{116}{}{PONTOS DO PERSONAGEM:}
+{116}{}{PTS. PERSONAGEM}
 {117}{}{PERÍCIAS}
 {118}{}{Você deve usar todos os pontos}
 {119}{}{antes de iniciar o jogo!}
@@ -36,7 +36,7 @@
 {135}{}{Impossível diminuir}
 {136}{}{Não tem pontos disponíveis.}
 {137}{}{Base:}
-{138}{}{PONTOS}
+{138}{}{HABILIDADES MARCADAS}
 {139}{}{CARACTERÍSTICAS}
 {140}{}{Você já tem o máximo de}
 {141}{}{três habilidades destacadas!}
@@ -116,7 +116,7 @@
 {605}{}{Tem certeza de que deseja}
 {606}{}{apagar o personagem atual?}
 {607}{}{ salvo com sucesso.}
-{608}{}{ foi carregado com sucesso.}
+{608}{}{ carregado com êxito.}
 {609}{}{já existe.}
 {610}{}{Você deseja substituir?}
 {611}{}{Erro ao salvar}

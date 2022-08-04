@@ -6,9 +6,10 @@
 {105}{}{Então eu irei para fora na minha missão!}
 {106}{}{Espere aí... em que você precisa de ajuda?}
 {107}{}{Você faz isso.}
-{108}{}{Fumaça fugiu para o campo de caça e não voltou e agora Morlis não deixe-me ir encontrar
- ele. Ela diz que é muito perigoso e ele é apenas um cão, mas eu estava indo de qualquer
- maneira. Mas agora você está aqui e você pode fazê-lo e eu não iria me meter em apuros.}
+{108}{}{Fumaça fugiu para o campo de caça e não voltou, e agora Morlis não me deixa ir encontrar
+ ele. Ela diz que é muito perigoso e ele é apenas um cachorro, mas eu estava indo de qualquer
+ maneira. Mas agora você está aqui e você pode fazer por mim, eu não iria me meter em
+ apuros.}
 {109}{}{Com certeza. Mas onde estão os terrenos de caça?}
 {110}{}{Com certeza. Eu vou encontrá-lo agora.}
 {111}{}{Esqueça, eu não tenho tempo para isso.}
@@ -41,18 +42,23 @@
  sobre os tempos difíceis que estão por vir.}
 {202}{}{Eu ainda estou olhando, Nagor.}
 {203}{}{Eu ainda estou procurando. Primo}
-{204}{}{Bem-vindo de volta, primo. As coisas estão ficando um pouco complicadas por aqui. Você já encontrou o vault treze e o GECK?}
-{205}{}{Bem-vindo de volta, primo. As coisas estão ficando um pouco complicadas por aqui. Você já encontrou o vault treze e o GECK?}
+{204}{}{Bem-vindo de volta, primo. As coisas estão ficando um pouco complicadas por aqui. Você já encontrou o
+ vault treze e o GECK?}
+{205}{}{Bem-vindo de volta, primo. As coisas estão ficando um pouco complicadas por aqui. Você já encontrou o
+ vault treze e o GECK?}
 {206}{}{Eu não encontrei. Sinto muito.}
 {207}{}{Eu sinto muito, Nagor. Eu ainda estou procurando.}
-{208}{}{Olá novamente, primo. Eu acho que você já percebeu que as coisas estão realmente caindo aos pedaços por aqui. Por favor encontre o GECK. Nós estamos desesperados!}
-{209}{}{Olá novamente, primo. Eu acho que você já percebeu que as coisas estão realmente caindo aos pedaços por aqui. Por favor encontre o GECK. Nós estamos desesperados!}
+{208}{}{Olá novamente, primo. Eu acho que você já percebeu que as coisas estão realmente caindo aos
+ pedaços por aqui. Por favor encontre o GECK. Nós estamos desesperados!}
+{209}{}{Olá novamente, primo. Eu acho que você já percebeu que as coisas estão realmente caindo aos
+ pedaços por aqui. Por favor encontre o GECK. Nós estamos desesperados!}
 {210}{}{Olá, primo.}
 {211}{}{Olá, primo.}
 {212}{}{Você não parece com você mesmo.}
 {213}{}{Você não soa como seu eu habitual.}
 {214}{}{Me desculpe, primo. As coisas estão piorando desde a última vez que você foi embora. As pessoas estão
-doentes, os brahmins estão morrendo e... eu... meu cachorro, Fumaça morreu - Morlis o cozinhou. Sinto muita falta dele. Desculpe, mas tenho muito mais o que dizer...}
+ doentes, os brahmins estão morrendo e... eu... meu cachorro, Fumaça morreu - Morlis o cozinhou. Sinto muita falta dele.
+ Desculpe, mas tenho muito mais o que dizer...}
 {215}{}{Me desculpe, primo. As coisas estão piorando desde a última vez que você deixou. As pessoas estão doentes,
   Os brahmins estão morrendo e ... eu ... meu cachorro Fumaça morreu. Sinto muita falta dele. Desculpe, mas não posso realmente
   falar mais ...}

@@ -40,7 +40,7 @@
 {139}{}{Você deu seu melhor pelo Chip.}
 {140}{}{Aqui está mais uma curiosidade sobre Chip.}
 {141}{}{Será que o baço tinha gosto bom?}
-{142}{}{Oba! Agora eu posso ter Chip e o seu Baço.}
+{142}{}{Oba! Agora eu posso ter Chip e o seu Baço!}
 {143}{}{Estou indo ver o Chip agora mesmo!}
 {144}{}{Chip é o melhor!}
 {145}{}{Eu gosto de você. Você é dos bons.}

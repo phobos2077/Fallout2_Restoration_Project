@@ -26,7 +26,7 @@
 {132}{}{Com certeza sua grana vale a pena.}
 {133}{}{Vou tirar o resto do dia de folga.}
 {134}{}{Uau! Você sentiu o chão tremer também?}
-{135}{}{Agora eu sei como se sentia a grande Catherine.}
+{135}{}{Agora eu sei como a grande Catherine se sentia.}
 {140}{}{Bom, dinheiro é dinheiro, né....}
 {141}{}{Uau! Essa foi uhh...diferente.}
 {142}{}{Se saiu muito bem. Próximo!}

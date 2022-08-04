@@ -41,7 +41,8 @@ Você realmente me ameaça para isso?}
 {139}{}{Eu não posso muito bem trabalhar minha magia se não tiver. Volte quando você tiver.}
 {140}{}{Eu tenho mais perguntas.}
 {141}{}{Adeus.}
-{142}{}{::ele dá de ombros:: Você quer esta armadura ou não? É $10.000 a vista.}
+{142}{}{::ele dá de ombros::
+ Você quer esta armadura ou não? É $10.000 a vista.}
 {143}{}{Eu vou voltar para você.}
 {144}{}{Bem. Aqui.}
 {145}{}{Assalto em estrada. De maneira nenhuma.}

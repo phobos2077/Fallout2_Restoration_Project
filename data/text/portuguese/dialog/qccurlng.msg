@@ -146,7 +146,7 @@
 {245}{}{Já era hora de você dar por si, velhote. Agora vamos logo com isso.}
 {246}{}{When the stars threw down their spears,}
 {247}{}{                      E regou o céu com suas lágrimas,}
-{248}{}{                            Ele sorriu ao ver seu trabalho?}
+{248}{}{                            Ele esboçou um sorriso ao ver seu trabalho?}
 {249}{}{                                  Aquele que fez o cordeiro, te fez?}
 {250}{}{Hein?}
 {251}{}{Oh, foi só algo que eu lembrei de um poeta morto há muito tempo. Estava pensando se ainda há lugar para aqueles que trabalharam para um fim obscuro por tanto tempo. Nosso tempo acabou, o seu apenas começou. Vá logo!}

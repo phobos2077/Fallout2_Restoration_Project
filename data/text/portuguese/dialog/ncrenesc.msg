@@ -510,7 +510,7 @@ agonizar por muito tempo.}
 Lua quando eu me ajoelhei e… Ei, você quer saber? Você talvez goste da anciã. 
 Ela tem quase a sua idade.}
 {2000}{}{Você expôs o envolvimento de Renesco na morte de Richard Wright.}
-{5257}{}{ é tão grande. Estou indo agora.}
+{5257}{}{ é tão grande. Eu vou ir agora.}
 {5259}{}{ não grite. PORQUE VOCÊ CONTINUA GRITANDO? PARE COM ESSA GRITARIA }
 {5260}{}{…*sniff*…vou chamar o irmãozão pra te bater, velhote! Aí então nós 
 teremos sorvete e… *sniff* DOCE e uma grande festa com palhaços e…}

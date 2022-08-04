@@ -19,7 +19,8 @@
 {116}{}{Nós da Irmandade do Aço procuramos encontrar esta arma mais devastadora de nossos antepassados, e
   assegurar daqueles que abusariam do poder da Sagrada Grade Mágica de Antioquia.}
 {117}{}{Por quê?}
-{118}{}{Bem...porque a Irmandade do Aço é dedicada a proteger os fracos e indefesos, e essa coisa podia machucar alguém.}
+{118}{}{Bem...porque a Irmandade do Aço é dedicada a proteger os fracos e indefesos, e essa coisa podia machucar
+ alguém.}
 {119}{}{Por quê?}
 {120}{}{Umm ... porque é realmente a única coisa moral a fazer.}
 {121}{}{Por quê?}

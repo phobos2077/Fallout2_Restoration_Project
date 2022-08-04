@@ -170,7 +170,7 @@
 {403}{}{Você está louco!? Eles sabem de tudo. Estou aqui para avisá-lo para não seguir com o plano. Aposto que
  eles estão nos vigiando agora.}
 {404}{}{Quando Torr aparecer, precisamos de você para tirá-lo}
-{405}{}{ fora daqui por um tempo. Você pode ir falar com ele ou deixa-lo inconsciente, mas não o mate, ou 
+{405}{}{ Fora daqui por um tempo. Você pode ir falar com ele ou deixa-lo inconsciente, mas não o mate, ou 
  o povo ficará irritado com você. Enquanto faz isso, nós pegaremos os brahmins. Encontre-nos de volta em nossa loja 
  amanhã e pegue sua recompensa.}
 {410}{}{Talvez você esteja certo. (olhando em volta rapidamente) não gosto da idéia de alguém me observando.}

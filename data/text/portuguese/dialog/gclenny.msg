@@ -131,8 +131,9 @@
 {372}{}{Lamento ver você partir, Lenny.}
 {373}{}{Você não pode lidar com isso, hein? Bem, é melhor você arrastar sua carcaça podre antes que me
  me pergunte se vale a pena gastar um cartucho na tua cabeça.}
-{374}{}{*Arroto* Sim, que seja. Acho que você tem outras coisas a fazer, como gastar todo o seu
- tempo tentando lembrar como era ter uma pele que não se parecia com um mendigo atropelado a uns meses atrás com o corpo apodrecendo no asfalto. Some daqui, retardado de bosta.}
+{374}{}{*Arroto* Sim, que seja. Acho que você tem outras coisas a fazer, como gastar todo o seu tempo
+ tentando lembrar como era ter uma pele que não se parecia com um mendigo atropelado a uns meses
+ atrás com o corpo apodrecendo no asfalto. Some daqui, retardado de bosta.}
 {375}{}{Tudo bem.}
 {380}{}{O q-que você quer que eu f-faça?}
 {381}{}{Lenny, eu sei que você está realmente tentando. Mas, por favor, saia do meu caminho.}

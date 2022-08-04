@@ -1,6 +1,7 @@
 {100}{}{Você vê um homem sujo e sem barbear. }
 {101}{}{Caçador.}
-{102}{}{Melhor não chegar muito perto. Algumas das criaturas nas roupas dele podem estar procurando uma casa limpa.}
+{102}{}{Melhor não chegar muito perto. Algumas das criaturas nas roupas dele podem estar procurando
+ uma casa limpa.}
 {103}{}{Olá. Não encontro pessoas muitas vezes por aqui na província do caçador. O que quer?}
 {104}{}{Você tem alguma pele de gecko para venda?}
 {105}{}{Só de passagem.}

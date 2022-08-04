@@ -17,9 +17,8 @@
 {115}{}{Nós vamos colocá-lo abaixo!}
 {116}{}{O Enclave vai dominar o mundo!}
 {117}{}{Você morre para que o Enclave sobreviva!}
-{118}{}{Desculpe, soldado. Essa área está fora dos limites para o pessoal da base. Tenho que lhe pedir 
-que saia.
-  }
+{118}{}{Desculpe, soldado. Essa área está fora dos limites para o pessoal da base.
+ Tenho que lhe pedir que saia.}
 {119}{}{Doc quer que eu mate o garra mortal. Ele não quer fazer ele mesmo.}
 {120}{}{Ok, eu vou.}
 {121}{}{Doc quer que eu mate o bicho por ele. Ele não quer fazer isso sozinho.}

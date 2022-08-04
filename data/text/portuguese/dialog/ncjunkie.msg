@@ -229,7 +229,7 @@
 {512}{}{Voce quer um pouco disso, gangster?! Huh?}
 {513}{}{::Olha para você com os olhos encharcados de droga::}
 {520}{}{Whoa...o que VOCÊ tá usando? Tem um pouco pra dividir?}
-{521}{}{Eu achei que *eu* tinha me fodido.}
+{521}{}{Eu pensei que *EU* tava fodido.}
 {522}{}{Hey, amigo...divide um pouco dessa merda que você tá usando.}
 {523}{}{Te convidaria pra voar, mas parece que voce ja esta.}
 {524}{}{Por que voce sao dois? Esse e teu gemeo?}
@@ -242,10 +242,10 @@
 {534}{}{Que porra aconteceu com o seu amigo com o cérebro? Ele perdeu o corpo dele?}
 {535}{}{DIZ pra mim que essa coisa de cérebro robótico não é real. Por favor.}
 {536}{}{Ei, olhe para aquele ceebro robo. Maldito seja se isso nao for um cerebro de um viciado.}
-{537}{}{You wanna fly with me? How about your robot friend?}
+{537}{}{Voce quer voar comigo? E o seu amigo robo?}
 {538}{}{Voce ta me tirando comigo, pegador de robos? Eu sou o poderoso movido a jet! Eu vou chutar
  a sua bunda e a desse seu robo!}
-{539}{}{You want some of this, robot-lover?! Huh?}
+{539}{}{Ta querendo isso aqui, amante de robos?! ham?}
 {540}{}{Huh? Voce e real?}
 {541}{}{Estou tao chapado que... uh, o que eu estava dizendo?}
 {542}{}{Voce quer voar? Fale com a Juuuules.}
@@ -254,7 +254,7 @@
 {545}{}{A merda do Jagged Jimmy é a MELHOR. Te deixa tao alto que voce NUNCA quer descer.}
 {546}{}{Voce esta falando comigo? Voce esta falando comigo?!}
 {547}{}{::Olha para você com os olhos encharcados de droga::}
-{548}{}{Man, don't look now, but you got this mutant following you.}
+{548}{}{Cara, nao olhe agora, mas tem um mutante te seguindo.}
 {549}{}{Whoa. I must be taking some baaad shit... I'm seeing mutants running around.}
 {550}{}{Am I high, or is your friend two-stories tall?}
 {551}{}{::Laughs:: Your mutant has a vise growing out of his shoulder.}

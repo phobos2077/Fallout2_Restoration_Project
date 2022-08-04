@@ -132,7 +132,9 @@
  pessoas, mas elas só tentavam me matar. Humanos são muito violentos para sobreviver sob sua própria
  liderança -- mas essa é outra história. O primeiro passo é reparar o reator.}
 {391}{}{Reparar o reator?}
-{400}{}{Sim. Você deve pegar o Hydroelectric Magnetosphere Regulator em Vault City para poder reapara o reator de Gecko. Se não o fizer, Vault City vai, sem dúvida, atacar Gecko. É claro, destruindo o reator, eles se destinarão à ruina com o passar do tempo.}
+{400}{}{Sim. Você deve pegar o Regulador Hidroeletrico da Magnosfera em Vault City para poder reapara o reator de Gecko. Se não o fizer,
+ Vault City vai, sem dúvida, atacar Gecko. É claro, destruindo o reator, eles se destinarão à ruina
+ com o passar do tempo.}
 {401}{}{Eles vão se condenar? O que quer dizer?}
 {402}{}{Por que Vault City me daria uma peça da Usina de Gecko??}
 {410}{}{Você tem que mostrá-los que isso os ajuda em seus interesses. Pessoas são fácilmente
@@ -232,7 +234,7 @@ pouco mais fora da cidade fazem minha fama.}
 {656}{}{Bem, foi o que eu supus, mas o quê?}
 {657}{}{Como o quê?}
 {658}{}{Uma peça? Que tipo de peça?}
-{659}{}{Por que não me conta sobre esse último passo e eu pensarei em ajudá-lo?}
+{659}{}{Por que não me conta sobre essa última parte e daí eu penso em te ajudar?}
 {670}{}{O reator, sempre o reator (suspiro). Volte quando tiver tido algum
  progresso nele.}
 {671}{}{Volte mais tarde. Estou me comunicando com uma força maior, ou algo assim (hunf).}

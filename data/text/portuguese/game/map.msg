@@ -527,7 +527,7 @@
 {656}{}{Basement}
 {657}{}{enter name}
 {658}{}{enter name}
-{659}{}{Cave}
+{659}{}{Caverna}
 {660}{}{enter name}
 {661}{}{enter name}
 {662}{}{Village}

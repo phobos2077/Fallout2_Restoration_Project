@@ -3,8 +3,7 @@
 {102}{}{Você vê um homem em roupas funcionais e confortáveis.}
 {103}{}{Saudações! Bem vindo à minha loja, Flying Dragon 8.}
 {104}{}{O que posso fazer por você?}
-{105}{}{Da aggle oo!
-}
+{105}{}{Pastel de flango!}
 {106}{}{Coisas!}
 {107}{}{Quem é você?}
 {108}{}{Estou procurando equipamento.}
@@ -84,7 +83,8 @@
 {210}{}{Mesmo que você consiga ter o NavCom funcionando e o tanque cheio, você ainda precisará de muita sorte
   se realmente quer que o navio navegue novamente.}
 {211}{}{O que você quer dizer com "muita sorte"?'}
-{220}{}{Quero dizer que o pedaço de lixo é mais velho que a maioria dos ghouls. Seria um milagre se não afundasse com você. Isso é tudo o que eu quis dizer.}
+{220}{}{Quero dizer que o pedaço de lixo é mais velho que a maioria dos ghouls. Seria um milagre se não afundasse com
+ você. Isso é tudo o que eu quis dizer.}
 {221}{}{Tenho a sensação de que você não está me contando algo sobre o petroleiro.}
 {230}{}{Talvez tenha. (sorri) Talves a Wasteland te fez ficar paranoico}
 {231}{}{Escuta, eu tenho que achar minha tribo. estes desgraçados que pegarem eles são perigosos e precisam ser parados.}
@@ -111,7 +111,8 @@
 {287}{}{(Lao Chou embolsa os $ 1500). Não é o navio-tanque que é especial. É apenas um grande petroleiro enferrujado como você disse.
   Nosso submarino, por outro lado ...}
 {288}{}{Submarino?}
-{290}{}{Bem, se você coloca dessa maneira, eu tenho ficado confinado nesta loja empoeirada por um muito tempo. Já faz um bom tempo desde que eu tenha estado na companhia de uma mulher encantadora como você.}
+{290}{}{Bem, se você coloca dessa maneira, eu tenho ficado confinado nesta loja empoeirada por um muito tempo. Já faz um bom tempo
+ desde que eu tenha estado na companhia de uma mulher encantadora como você.}
 {291}{}{[CONTINUAR]}
 {300}{}{[As horas passam como em uma infinidade. Você começa a suspeitar que Lao Chou pode não ser completamente humano. Você desmaia, eventualmente.]}
 {301}{}{hhh... O que aconteceu?}
@@ -120,10 +121,10 @@
 {311}{}{Submarino?}
 {330}{}{Eu... acho que não}
 {331}{}{Não tente e lute agora. Você me quer e você sabe disso.}
-{340}{}{Na verdade não. Você não faz o meu tipo.}
-{341}{}{Ah, eu intendi. Você não gosta de mulheres.}
-{350}{}{Eu gosto. Eu só não te acho muito atraente. Talvez se eu estivesse bêbado.}
-{351}{}{Você é obviamente cego. Tanto faz. É você quem está perdendo.}
+{340}{}{Não, na verdade. Você não faz meu tipo.}
+{341}{}{Oh, entendo. Você não é chegado em mulheres.}
+{350}{}{Eu sou. Eu apenas não achei você muito atrativa. Talvez acharia se eu estivesse bêbado.}
+{351}{}{Você ta obviamente cego. Esquece. É você quem perde.}
 {360}{}{O que você está propondo? Ahh ... bem, eu tenho estado confinado nesta loja há muito tempo. Eu revelarei tudo o que sei
   em troca de uma amostra dos encantos de sua amiga.}
 {361}{}{Miria, querida... Eu acho que você terá que, bem... dar para esse cara em troca de informações.}

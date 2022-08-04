@@ -19,16 +19,16 @@
 {260}{}{Entrance}
 {261}{}{Downtown}
 {262}{}{Alturas}
-{263}{}{Cidade velha}
-{264}{}{Mercadores}
-{265}{}{Cave}
+{263}{}{Velha Cidade}
+{264}{}{Comerciantes.}
+{265}{}{Caverna}
 {270}{}{Entrance}
 {271}{}{Level 1}
 {272}{}{Level 2}
 {273}{}{Level 3}
 {274}{}{Level 4}
 {280}{}{Entrance}
-{281}{}{Fortaleza Nível 1}
+{281}{}{Nível de fortaleza 1}
 {282}{}{Fortaleza Nível 2}
 {283}{}{Vats Level 1}
 {284}{}{Vats Level 2}

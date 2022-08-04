@@ -18,7 +18,8 @@ direito smack dab no meio de alguns dos pior montanhas que você já viu.}
 {122}{}{Eu iria ficar longe da Den, se eu fosse você. É um ímã para lowlifes da área. Eu vou te mostrar
 onde ele está, mas eu não recomendo que você vá lá.}
 {123}{}{Obrigado. Tchau.}
-{124}{}{San Francisco. Hum...tudo o que posso dizer é que as pessoas de lá são...estranhas. Ela está situada na costa.}
+{124}{}{San Francisco. Hum...tudo o que posso dizer é que as pessoas de lá são...estranhas. Ela está situada na
+ costa.}
 {125}{}{Obrigado. Tchau.}
 {126}{}{A Califórnia, Nova República...agora há um lugar agradável. Eu gostaria de estabelecer e viver lá
 algum dia. Limpo, boa gente, e muito bem conservado. Ele está localizado aqui no seu mapa.}

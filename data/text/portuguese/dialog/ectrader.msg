@@ -8,7 +8,8 @@
   interessado ou não?}
 {106}{}{Interessados em quê?}
 {107}{}{Erg?}
-{108}{}{Por isso, ele fatias ele corta e ele também vai vir a calhar contra bichos traquinas. Uma pechincha em qualquer o preço, mas para você é especial por somente}
+{108}{}{Por isso, ele fatias ele corta e ele também vai vir a calhar contra bichos traquinas. Uma pechincha em
+ qualquer o preço, mas para você é especial por somente}
 {109}{}{Por que é feito apenas da melhor madeira ao redor. Use-o para jab em criaturas para mantê-los à distância ou,
   Se você é habilidoso o suficiente, jogue-o. É muito aerodinâmico e não vai impactar. O que você disse?
   É um roubo apenas}

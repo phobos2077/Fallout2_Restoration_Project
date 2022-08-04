@@ -62,8 +62,8 @@
 {311}{}{Hmm ... você tem um ponto, lá. Eu não estou dizendo que eu acredito em você ... mas acho que posso pelo menos escutar você.}
 {312}{}{Sim, sem brincadeira. Vá em...}
 {320}{}{Então, você vê, é tudo parte dos "experimentos" deles. Essas porras desses médicos malucos estavam fazendo algum tipo de testes na
-   "natureza do humano mau" ou alguma porcaria. Eles estavam injetando em mim as memórias de um maníaco para ver como isso
-  afetaria a personalidade de uma pessoa normal. Pelo menos, é o melhor que eu pude entender.}
+ "natureza do humano mau" ou alguma porcaria. Eles estavam injetando em mim as memórias de um maníaco para ver como isso
+ afetaria a personalidade de uma pessoa normal. Pelo menos, é o melhor que eu pude entender.}
 {321}{}{Bem ... se isso for verdade, então é terrível. Mas o que os fez escolher você como sujeito de teste em primeiro lugar?}
 {322}{}{Uau, isso realmente é uma merda. Enfim, isso é tudo no passado agora. Esses cientistas do caralho estão muito mortos e não vão
   poder mais incomodar com você. Venha comigo e sairemos deste lugar.}
@@ -247,7 +247,8 @@
 {691}{}{Inferno, não há necessidade de tentar me convencer. Eu ficaria feliz por ter você só para ver seu trabalho de primeira mão.}
 {692}{}{Eu não sei, Dex. Digamos que eu deixei você vir junto comigo, e nós voltamos para a segurança remota de um
   assentamento. Uma vez lá, como eu sei que você não vai tentar cortar minha garganta a primeira chance que você tem?}
-{700}{}{Eu posso dizer que você não é santo, então eu poderia te pedir o mesmo. Mas para responder a sua pergunta, eu não o mataria porque isso iria me foder mais. Eu serei honesto,}
+{700}{}{Eu posso dizer que você não é santo, então eu poderia te pedir o mesmo. Mas para responder a sua pergunta, eu não
+ o mataria porque isso iria me foder mais. Eu serei honesto, }
 {701}{}{, Eu não me importo com ninguém, ou qualquer coisa, exceto para mim. Se o mundo estiver tão fodido quanto você diz,
   então ficar com você é o melhor tiro que eu tenho. É simples assim.}
 {702}{}{Justo o suficiente. Vamos lá.}
@@ -492,7 +493,8 @@ deixei a maioria delas morta. Não foi uma vida ruim, você sabe? Demorou dez an
   Dar-lhes um show real.}
 {3035}{}{O que você fez?}
 {3036}{}{Bem, naquela época, eu fazia muitos fãs, mas havia esse em particular, uma boneca real chamada Alice. Ela disse
-ela me amava e faria qualquer coisa por mim. Então, durante minha trilha, ela me ajudou a fazer uma pausa para isso. Foi um tiro longo, mas tivemos a sorte de retirar isso. Então as coisas ficaram loucas ... Você tem certeza de que nunca ouviu falar sobre isso?}
+ ela me amava e faria qualquer coisa por mim. Então, durante minha trilha, ela me ajudou a fazer uma pausa para isso.
+ Foi um tiro longo, mas tivemos a sorte de retirar isso. Então as coisas ficaram loucas ... Você tem certeza de que nunca ouviu falar sobre isso?}
 {3037}{}{Tenho certeza, mas continue.}
 {3038}{}{Nunca ouvi falar dele, e agora eu nunca mais quero. Apenas esqueça, eu estou entediado.}
 {3039}{}{Bem, agora que eu estava com Alice, era meio difícil reverter minhas velhas maneiras de seduzir mulheres e cortar

@@ -29,7 +29,8 @@
 {127}{}{Ug.}
 {128}{}{Isso é ótimo! Me dê seu dinheiro e saia para lá. Eu tenho um negócio para correr.}
 {129}{}{[Fim]}
-{130}{}{Como diz o ditado. Sem dinheiro, não é amor. Oh. Isso é por sexo. Que tal, sem massa, nenhum golpe. Volte quando ganhou algum dinheiro.}
+{130}{}{Comodizoditado. Semdinheironãoéamor. Ohssoéporsexo. Quetalsemmassanenhumgolpe.
+ Voltequandoganharalgumdinheiro.}
 {131}{}{[Fim]}
 {132}{}{Heheheh! Parecequevocepodeusaralgunsmentats. Mede $1000.}
 {133}{}{[Dar ao homem us $1000]}

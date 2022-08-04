@@ -34,18 +34,18 @@
 {133}{}{Eu posso, mas por que eu deveria?}
 {134}{}{Parece justo para mim. Como este teste funciona?}
 {135}{}{Oh. Bem, nesse caso, eu tenho que ir.}
-{136}{}{Porque de outro modo os camponeses me amaldiçoarão e tornarão muito mais difícil intimidá-los quando eu tiver derrotado o Dragão.}
-{137}{}{Entendi. Vamos começar o teste.}
+{136}{}{Porque senão os camponeses vão me amaldiçoar e vai tornar muito mais difícil acovardá-los quando eu vencer o Dragão.}
+{137}{}{Consegui. Vamos começar o teste.}
 {138}{}{Tenho-o. Eu tenho mais perguntas.}
 {139}{}{Certo. Até mais.}
-{140}{}{Você quer lutar contra mim até a morte ou você apenas quer ver quem é melhor?}
+{140}{}{Você quer lutar comigo até a morte, ou você só quer ver quem é melhor?}
 {141}{}{Até o final. Eu posso te vencer.}
 {142}{}{Um teste de habilidades. Eu não quero matar você.}
 {143}{}{Nenhuma. Esquecê-lo.}
-{144}{}{Ótimo. Eu espero que você tenha um túmulo pronto. O Dragão enviou você?}
-{145}{}{Sim. Eu estou fazendo isto para o Shi.}
-{146}{}{Não. Eu estou fazendo isto porque eu acho que você é escória.}
-{147}{}{Um tipo dificil, é? Você lutará com meus homens primeiro, então veremos se você merece lutar comigo.}
+{144}{}{Ótimo. Eu espero que você tenha um túmulo pronto. O Dragão mandou você?}
+{145}{}{Sim. Estou fazendo isso pelo Shi.}
+{146}{}{Não. Estou fazendo isso porque acho que você é escória.}
+{147}{}{Uma pergunta difícil, hein? Você lutará contra meus homens primeiro, e então veremos se você é digno de lutar contra mim.}
 {148}{}{[INICIAR]}
 {149}{}{Sou Lo Pan. Eu também sou "inimigo jurado" do Dragão. É porque ele insiste em ter um inimigo jurado além de mim. Eu luto tão bem quanto ele, e ele tem o coração fraco e permite que os outros vivam por baixo da sua sombra. Somos inimigos porque temos o mesmo estilo de luta, e aquele que vence é que continua com a tradição.}
 {150}{}{Eu não estou tão mal em combate corpo-a-corpo. Quer me tentar?}
@@ -66,7 +66,7 @@
 {165}{}{Olha só, devo admitir, você é um lutador melhor do que eu. Quer tentar o Dragão?}
 {166}{}{Sim. Eu vou fazê-lo agora.}
 {167}{}{Realmente não é a minha luta.}
-{168}{}{Certo, mas eu tenho algumas perguntas.}
+{168}{}{Claro, mas tenho algumas perguntas.}
 {169}{}{Não, não é. Mas o dragão ainda me vence. Se você tiver alguma espinha dorsal, você o vence. Mas entçao, eu nunca esperei orgulho de um lao wai.}
 {170}{}{Direito. Eu tenho perguntas.}
 {171}{}{Sim, tanto faz. Tchau.}

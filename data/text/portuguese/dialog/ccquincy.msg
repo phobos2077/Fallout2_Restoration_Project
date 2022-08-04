@@ -36,7 +36,8 @@ ele é mais mecânico do que um soldado.}
   grunhidos por um motivo. Olha, Einstein, não posso te dar os planos sem
   autorização, está bem? Então, volte para quem o enviou aqui e obtenha a
   papelada.}
-{133}{}{Olha, Einstein, eu não posso dar-lhe os planos, sem autorização, ok? Então, vá de volta para quem enviou você aqui e pegue a documentação necessária.}
+{133}{}{Olha, Einstein, eu não posso dar-lhe os planos, sem autorização, ok?
+ Então, vá de volta para quem enviou você aqui e pegue a documentação necessária.}
 {134}{}{Ok, eu vou.}
 {135}{}{Não, me atirar em você, primeiro, encontrar planos de segundo, e então... o que vem depois de dois?}
 {136}{}{Ei, você entendeu.}

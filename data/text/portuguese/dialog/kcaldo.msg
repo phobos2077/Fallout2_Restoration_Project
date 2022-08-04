@@ -3,7 +3,7 @@
 {200}{}{Olá! Nunca te vi aqui em Klamath antes. Sou Aldo, o anfitrião oficial da cidade (soluça). Meu trabalho é receber os visitantes e responder qualquer pergunta que eles possam ter sobre a nossa bucólica cidadezinha. Seja bem-vindo a Klamath. (soluça) Você seria...?}
 {201}{}{Ah, valeu pelas boas-vindas. Sou só um viajante.}
 {202}{}{Meu nome é}
-{203}{}{. Valeu por me receber aqui.}
+{203}{}{. Obrigado por me receber aqui.}
 {204}{}{ sou o Escolhido de Arroyo.}
 {205}{}{Você não precisa saber meu nome ou qualquer outra coisa sobre mim. Vá embora, seu bêbado imundo.}
 {206}{}{Não acredito que uma cidade como Klamath tenha um bêbado fedorento como você recebendo os visitantes ou fazendo qualquer outra coisa.}

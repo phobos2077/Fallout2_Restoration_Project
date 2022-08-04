@@ -31,7 +31,9 @@
 {212}{}{Sujeito B.}
 {213}{}{Sujeito C.}
 {214}{}{Voltar.}
-{220}{}{Entrada de Log #87983: o Que finalmente aconteceu. Eles já lançaram suas armas nucleares em nós, e nós lançamos o nosso a eles. Bronze não vou entrar em detalhes, mas é, provavelmente, já o Dia do Juízo, sim, por agora. Rádio comunicações foram interrompidas indefinidamente. Coisa boa habituei a este lugar. Eu não tenho ilusões sobre eu nunca mais ver de novo a superfície.}
+{220}{}{Entrada de Log #87983: o Que finalmente aconteceu. Eles já lançaram suas armas nucleares em nós, e nós lançamos o
+ nosso a eles. Bronze não vou entrar em detalhes, mas é, provavelmente, já o Dia do Juízo, sim, por agora. Rádio comunicações foram
+ interrompidas indefinidamente. Coisa boa habituei a este lugar. Eu não tenho ilusões sobre eu nunca mais ver de novo a superfície.}
 {221}{}{[MAIS]}
 {222}{}{Eles trouxeram uma mulher para ser criada. Não disse por quê? só que era um negócio secreto. Ela era bem conhecida.
   Petite, de aparência chinesa, e havia algo sobre seus olhos. Ela tirou dois agentes de serviços secretos quando encontrou

@@ -6,7 +6,7 @@
 {105}{}{Vende coisas?}
 {106}{}{Não, eu vou.}
 {107}{}{Eu precisava de algumas informações.}
-{108}{}{Claro, me mostre o que você tem.}
+{108}{}{Claro, mostre-me o que você tem.}
 {109}{}{Não agora.}
 {110}{}{Aprendi que quanto menos você sabe, mais você vive. Não tenho nenhuma outra informação para você. Mas gostaria de ver meus produtos?}
 {111}{}{Sim.}
@@ -29,4 +29,4 @@
 {128}{}{Eu não estou aberto agora. Se manda da minha loja!}
 {129}{}{}
 {130}{}{Ok.}
-{131}{}{Espero que essa remessa chegue logo.}
+{131}{}{Espero que a remessa chegue logo.}

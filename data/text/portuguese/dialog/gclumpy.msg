@@ -37,28 +37,32 @@
 {171}{}{Quem é o Skeeter?}
 {172}{}{Deixe-me perguntar-lhe algo mais.}
 {173}{}{Eu acho que isso é tudo que eu preciso saber por enquanto. Falô, Lumpy.}
-{180}{}{Bem, é um tipo de piada. Veja bem, eles normalmente chamam as pessoas como nós de pele lisa. 
- Mas eu fui tratado tão mal por outros Pele lisa em Vault City que todos aqui perceberam que eu devo ser mais burro que eles.}
+{180}{}{Bem, é um tipo de piada. Veja bem, eles normalmente chamam as pessoas como nós de pele lisa. Mas eu
+ fui tratado tão mal por outros Pele lisa em Vault City que todos aqui perceberam que eu devo ser mais burro
+ que eles.}
 {181}{}{Por que você foi tratado tão mal em Vault City?}
 {182}{}{Isso explica tudo. Tchau.}
-{190}{}{Bem, Skeeter é tipo um mecânico. Ele vai desmontar a maioria das coisas que você trouxer aqui. Ele devolve a maioria, 
- cedo ou tarde. Ás vezes ele deixa as coisas melhores do que estavam antes dele desmontar.}
+{190}{}{Bem, Skeeter é tipo um mecânico. Ele vai desmontar a maioria das coisas que você trouxer aqui.
+ Ele devolve a maioria, cedo ou tarde. Ás vezes ele deixa as coisas melhores do que estavam antes dele
+ desmontar.}
 {191}{}{Onde eu posso achar o Skeeter?}
 {192}{}{Interessante. Deixe-me perguntar outra coisa.}
 {193}{}{Acho que é tudo o que eu queria saber. Tchau.}
 {200}{}{Bem, eles disseram que não sou humano o suficiente para eles. Eu sou muito resistente à radiação -— perfeito pra morar aqui. 
  Mas eles não gostaram disso. Me trataram como lixo.}
 {201}{}{Realmente?}
-{210}{}{Um dia eu não agüentei mais. Eu percebi que morrer no deserto era melhor do que viver com aqueles idiotas de Vaul City.}
+{210}{}{Um dia eu não aguentei mais. Eu percebi que morrer no deserto era melhor do que viver com aqueles
+ idiotas de Vaul City.}
 {211}{}{Então como você chegou aqui?}
-{220}{}{Bem, uma caravana de Broken Hills me achou e me trouxe pra cá. Eu tô aqui desde então. Uma coisa dos ghouls daqui, 
- é que eles se preocupam mais com a pessoa que você é por dentro. É como uma grande família.}
+{220}{}{Bem, uma caravana de Broken Hills me achou e me trouxe pra cá. Eu tô aqui desde então. Uma coisa dos
+ ghouls daqui, é que eles se preocupam mais com a pessoa que você é por dentro. É como uma grande
+ família.}
 {221}{}{Broken Hills? Onde é isso?}
 {222}{}{Interessante. Deixa eu perguntar outra coisa.}
 {223}{}{Que bom que você tá feliz aqui. Tchau.}
 {224}{}{Uma família de aberrações. Eu não acho que queira escutar alguma coisa de você. Adeus.}
-{230}{}{Broken Hills é onde nós pegamos todo o urânio que precisamos para o reator nuclear. Pelo que eu sei, 
- o urânio é minerado pelos mutantes de lá. Mas eles usam humanos para vender as coisas por eles.}
+{230}{}{Broken Hills é onde nós pegamos todo o urânio que precisamos para o reator nuclear. Pelo que eu sei, o
+ urânio é minerado pelos mutantes de lá. Mas eles usam humanos para vender as coisas por eles.}
 {231}{}{Por que eles usam humanos para vender por eles?}
 {240}{}{O que você quer saber?}
 {241}{}{Você não é o único curioso? Bom, tudo bem. O que você quer saber?}
@@ -89,17 +93,20 @@
  Indo e vindo do poço do reator tarde da noite.}
 {291}{}{Pessoas? Toda noite?}
 {292}{}{Interessante. Deixe-me perguntar outra coisa.}
-{300}{}{Eu não posso te dizer. As pessoas pensam que sou biruta. De qualquer jeito, provavelmente é só o vento batendo no lixo.}
+{300}{}{Eu não posso te dizer. As pessoas pensam que sou biruta. De qualquer jeito, provavelmente é
+ só o vento batendo no lixo.}
 {301}{}{Eu te disse, eu não escutei nada. Agora para de me encher o saco.}
 {302}{}{Ta bom. Então deixa eu perguntar outra coisa.}
-{310}{}{(Ele olha bem nos seus olhos) Você escuta vozes dentro da sua cabeça? Elas dizem o quanto você é melhor que todo mundo? 
- Elas te dizem que algum dia as pessoas irão se ajoelhar diante da sua grandeza? (ele sorri e concorda com a cabeça)}
+{310}{}{(Ele olha bem nos seus olhos) Você escuta vozes dentro da sua cabeça? Elas dizem o quanto você é
+ melhor que todo mundo? Elas te dizem que algum dia as pessoas irão se ajoelhar diante da sua grandeza?
+ (ele sorri e concorda com a cabeça)}
 {311}{}{Ah, não. Na verdade não.}
 {312}{}{Ah, sim. Claro que escuto. Não é todo mundo que escuta?}
 {320}{}{Que bom. Eu estava realmente começando a me preocupar com você.}
 {321}{}{Bem, obrigado por sua preocupação. Deixe-me fazer algumas perguntas.}
 {322}{}{Uh, sim. Bem, eu acho que preciso seguir em frente. Adeus.}
-{330}{}{Eu meio que fiquei confuso eu vi pela primeira vez, mas eu não tinha certeza. Saia daqui, você é maluco!}
+{330}{}{Eu meio que fiquei confuso eu vi pela primeira vez, mas eu não tinha certeza. Saia daqui, você é
+ maluco!}
 {331}{}{Uh, sim. Tanto faz. Adeus.}
 {332}{}{Bem, um de nós é um maluco - Eu só acho que você está confuso quanto ao que um de nós é.}
 {340}{}{Bem, eu não sei se eles eram pessoas ou o que, mas geralmente é apenas a cada duas noites. Ruídos indo e vindo do poço do reator. 

@@ -116,25 +116,25 @@
 {215}{}{Eu... às vezes penso que entendo o sentimento que você chama de solidão. Acho muito... desconcertante. EU...}
 {216}{}{Sinto muito. Vamos falar de outra coisa.}
 {217}{}{Sinto muito, Ace. Vamos mudar de assunto.}
-{218}{}{As aparências sugerem que a Enclave nada mais é do que uma organização militar. No entanto, seu nível de tecnologia indica que eles têm acesso a técnicas avançadas de fabricação e instalações de pesquisa. Normalmente, essas instalações só estariam disponíveis para agências do governo. Isso sugere que a Enclave é o resto do governo local ou federal que estava na ativa antes da guerra.}
+{218}{}{As aparências externas sugerem que o Enclave nada mais é do que uma organização militar. No entanto, seu nível de tecnologia indica que eles têm acesso a técnicas avançadas de fabricação e instalações de pesquisa. Normalmente, essas instalações só estariam disponíveis para agências governamentais. Isso sugere que o Enclave são os restos do governo local ou federal que estava em vigor antes da guerra.}
 {219}{}{Ok.}
-{220}{}{Interessante.}
-{221}{}{A Irmandade do Aço é uma organização paramilitar dedicada à salvação da humanidade por meio do uso adequado da tecnologia. O resto das informações é classificado.}
+{220}{}{Isso é interessante.}
+{221}{}{A Irmandade do Aço é uma organização paramilitar dedicada à salvação da humanidade por meio do uso adequado da tecnologia. Todas as outras informações são classificadas.}
 {222}{}{Voltar.}
 {223}{}{O que aconteceu com Matt?}
-{224}{}{Carregando sequência...}
-{225}{}{Reproduzir agora.}
-{226}{}{Reproduzir mais tarde.}
+{224}{}{Carregando sequência ...}
+{225}{}{Repita agora.}
+{226}{}{Repita mais tarde.}
 {227}{}{Você e seu suposto presidente não terão sucesso.}
 {228}{}{É isso?}
-{229}{}{O Escolhido chegou e livrará o mundo de sua maldade.}
-{230}{}{Não me importo com suas profecias patéticas. E mais, você agora é um estorvo por causa de sua intromissão. Isso acaba hoje!}
-{231}{}{Me matar não adiantará em nada.}
-{232}{}{Pode ser, mas ver teu cadáver podre no chão me fará ter um belo sorriso no rosto.}
+{229}{}{o Escolhido chegou e livrará o mundo de sua maldade.}
+{230}{}{Não me importo com suas profecias patéticas. Pior, você se tornou um estorvo por causa de sua intromissão. Isso acaba hoje!}
+{231}{}{Me matar não vai impedir nada.}
+{232}{}{Pode ser, mas ver seu corpo apodrecendo no chão trará um sorriso no meu rosto.}
 {233}{}{O que você pensa que está fazendo agora?}
-{234}{}{HA HA HA! Você é um grande bosta mole! HA HA HA!}
-{235}{}{Uau, eu não ria assim faz tempo. Bom, prepare-se para morrer.}
+{234}{}{HA HA HA! Seu idiota patético! HA HA HA!}
+{235}{}{Uau, eu não ria assim há um tempo. Enfim, prepare-se para morrer.}
 {236}{}{...peep...}
 {237}{}{Bem, passa um pouco das 12h. Alguém quer almoçar?}
-{238}{}{Ótimo, estou indo.}
-{239}{}{Boa, pode contar comigo.}
+{238}{}{Ponto, estou lá.}
+{239}{}{Sim, conte comigo.}
