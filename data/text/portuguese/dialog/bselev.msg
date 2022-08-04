@@ -9,8 +9,9 @@
 {104}{}{Você vê uma porta resistente com nenhum dispositivo de bloqueio aparente e
   uma armadilha altamente explosiva no quadro da porta, que você pode
   arrombar.}
-{105}{}{Você vê uma porta resistente com uma fechadura velha e enferrujada e uma
-  armadilha explosiva no batente da porta, que você poderá desarmar.}
+{105}{}{Você vê uma porta resistente com uma fechadura velha e
+ enferrujada e uma armadilha explosiva no batente da porta, que
+ você poderá desarmar.}
 {106}{}{Você vê uma porta resistente com uma fechadura (que pode ser aberta com
   gazua) e uma armadilha altamente explosiva no quadro da porta, que
   você pode desarmar.}
@@ -30,13 +31,14 @@
   abrir.}
 {113}{}{Você vê uma porta resistente com um bloqueio velho e enferrujado e um corte
   fio no quadro da porta, que você poderá abrir.}
-{114}{}{Você vê uma porta resistente com uma fechadura (que pode ser aberta co gazua), que você poderá abrir.}
+{114}{}{Você vê uma porta resistente com uma fechadura (que pode
+ ser aberta com gazua), que você poderá abrir.}
 {115}{}{Você vê uma porta resistente com um bloqueio nele, o que você pode ser
   capaz de se abrir.}
 {116}{}{Você vê uma porta resistente com nenhum dispositivo de bloqueio aparente,
   que você poderá abrir.}
-{117}{}{Você vê uma porta resistente com um bloqueio velho e enferrujado, que
-  você pode abrir.}
+{117}{}{Você vê uma porta resistente com um bloqueio velho
+ e enferrujado, que você pode abrir.}
 {118}{}{Você vê uma porta resistente com uma fechadura, que pode ser aberta com gazua
  e uma armadilha altamente explosiva no quadro da porta.}
 {119}{}{Você vê uma porta resistente com um bloqueio e uma
@@ -53,7 +55,8 @@ e uma armadilha no quadro da porta.}
   uma armadilha no batente da porta.}
 {125}{}{Você vê uma porta resistente com um bloqueio velho e enferrujado e uma armadilha
   no batente da porta.}
-{126}{}{Você vê uma porta resistente com uma fechadura, que pode ser aberta com gazua e um fio cortado no quadro da porta.}
+{126}{}{Você vê uma porta resistente com uma fechadura, que pode
+ ser aberta com gazua e um fio cortado no quadro da porta.}
 {127}{}{Você vê uma porta resistente com uma fechadura e um fio cortado
   no batente da porta.}
 {128}{}{Você vê uma porta resistente com nenhum dispositivo de bloqueio aparente e
@@ -72,10 +75,12 @@ e uma armadilha no quadro da porta.}
 {137}{}{Você vê uma porta danificada com um bloqueio e uma
   armadilha explosiva no quadro da porta.}
 {138}{}{Você vê uma porta danificada com uma fechadura, que pode ser colhida com gazua e uma armadilha no quadro da porta.}
-{139}{}{Você vê uma porta danificada com um bloqueio e uma armadilha no quadro da porta.}
+{139}{}{Você vê uma porta danificada com um bloqueio e uma
+ armadilha no quadro da porta.}
 {140}{}{Você vê uma porta danificada sem dispositivo de bloqueio aparente e
   uma armadilha no batente da porta.}
-{141}{}{Você vê uma porta danificada com um bloqueio e uma armadilha no quadro da porta.}
+{141}{}{Você vê uma porta danificada com um bloqueio e uma
+ armadilha no quadro da porta.}
 {142}{}{Você vê uma porta danificada com uma fechadura, que pode ser colhida com gazua e um fio cortado no quadro da porta.}
 {143}{}{Você vê uma porta danificada com um bloqueio e um fio cortado
   no batente da porta.}
@@ -95,7 +100,8 @@ e uma armadilha no quadro da porta.}
 {153}{}{Você vê uma porta resistente com uma fechadura velha e enferrujada e uma
   armadilha explosiva no quadro da porta.}
 {154}{}{Você vê uma porta velha com um bloqueio, que pode ser colhida com gazua e uma armadilha no quadro da porta.}
-{155}{}{Você vê uma porta velha com um bloqueio e uma armadilha no quadro da porta.}
+{155}{}{Você vê uma porta velha com um bloqueio e uma
+ armadilha no quadro da porta.}
 {156}{}{Você vê uma porta velha sem dispositivo de bloqueio aparente e
   uma armadilha no batente da porta.}
 {157}{}{Você verá uma porta velha, a velha e enferrujada de bloqueio e uma armadilha
@@ -113,14 +119,14 @@ no alizar de porta.}
 {165}{}{Você vê uma porta velha com um bloqueio velho e enferrujado.}
 {166}{}{Você foi pego na armadilha e tomou }
 {167}{}{ pontos de dano.}
-{168}{}{ desencadeia a armadilha e foi atingido por  }
+{168}{}{ desencadeia a armadilha e foi atingido por }
 {169}{}{ pontos de dano.}
 {170}{}{Você abre habilmente o bloqueio na porta.}
 {171}{}{A sua falta de habilidade encravou a trava na porta.}
 {172}{}{Você não consegue abrir o bloqueio nesta porta.}
 {173}{}{ habilmente destranca a fechadura na porta.}
 {174}{}{A sua falta de habilidade emperrou a trava na porta.}
-{175}{}{ falhou em destrancar essa porta.}
+{175}{}{ falhou em arrombar a fechadura dessa porta.}
 {176}{}{Você arrombou a fechadura da porta.}
 {177}{}{Ao tentar cortar o bloqueio, você pressiona suas costas e
   tomar um ponto de dano.}
@@ -129,8 +135,7 @@ no alizar de porta.}
 {179}{}{ pontos de dano.}
 {180}{}{Você é muito fraco para ultrapassar o bloqueio.}
 {181}{}{ arrombou a fechadura da porta.}
-{182}{}{ machuca as costas enquanto tenta arrombar a fechadura e recebe 
- pontos de dano.}
+{182}{}{ Estica as costas enquanto tenta violar a fechadura e recebe pontos de dano.}
 {183}{}{ massageia suas costas enquanto tenta abrir o bloqueio e toma }
 {184}{}{ pontos de dano.}
 {185}{}{ é muito fraco para ultrapassar o bloqueio.}
@@ -155,8 +160,8 @@ no alizar de porta.}
 {204}{}{Você ouve o crepitar da eletricidade correndo pela porta.}
 {205}{}{ percebe o crepitar de eletricidade atravessando a porta.}
 {206}{}{Você não consegue colocar uma armadilha na porta porque a porta está aberta.}
-{207}{}{ está incapaz de colocar uma armadilha nessa porta porque
- a porta está aberta.}
+{207}{}{ É incapaz de colocar uma armadilha nesta porta
+ porque a porta está aberta.}
 {208}{}{Você habilmente configurou uma armadilha na moldura da porta.}
 {209}{}{Você não conseguiu ajustar a armadilha corretamente no quadro da porta.}
 {210}{}{ habilmente define uma armadilha na moldura da porta.}

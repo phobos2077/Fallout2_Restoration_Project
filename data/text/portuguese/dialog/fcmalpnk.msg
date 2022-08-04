@@ -8,8 +8,8 @@
 {107}{}{Na verdade, prefiro morrer do que lhe dar o controle.}
 {108}{}{Ninguém comanda minha vida! Eu sou meu próprio rei!}
 {109}{}{Eu sou meu próprio chefe.}
-{110}{}{Eu sou único! Assim como todo mundo!}
-{111}{}{Às vezes esse mundo de cinismo me chateia.}
+{110}{}{Eu sou única! Igual a todo mundo!}
+{111}{}{As vezes essas pessoas cansadas da vida me entediam.}
 {112}{}{Da próxima vez, quero encontrar uma tribo de góticos.}
 {113}{}{Eu vi Selmy e Barro despedaçados lá embaixo.}
 {114}{}{Eu ouvi falar que o Imperador Shi é absurdamente inteligente.}

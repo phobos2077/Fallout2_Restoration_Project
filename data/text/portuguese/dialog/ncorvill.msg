@@ -91,7 +91,7 @@
 {380}{}{Cê tá certo, não falamos do preço, porque você não fez nada ALÉM de falar. Estou deixando que prove seu valor. Faça seu trabalho,
  e não precisa se preocupar com dinheiro. Eu te dou minha palvra como Wright.}
 {383}{}{Esqueça, então. Apenas tolos trabalham por nada. Estou fora.}
-{390}{}{(Saem chamas dos olhos.) Não…todos estão com medo de falar... para um Wright.  Se eu fosse você, eu 'questionaria' alguns vendedores de Jet
+{390}{}{(Saem chamas dos olhos.) Não…todos estão com medo de falar... para um Wright. Se eu fosse você, eu 'questionaria' alguns vendedores de Jet
  de Reno, veja o que sabem. Esse Jet vem DE ALGUM LUGAR.}
 {391}{}{Suspeita de algum vendedor?}
 {393}{}{Olha, esse trabalho não faz o meu tipo. Acho melhor eu ir embora.}
@@ -214,7 +214,7 @@
 {653}{}{Talvez não seja uma boa hora para discutir isso. Falo com você mais tarde.}
 {660}{}{Seu escavador de túmulos filho de uma puta…}
 {661}{}{Sua puta morfética...}
-{662}{}{ você acaba de ganhar seu PRÓPRIO  pedaço de terra em Golgotha. SE eles acharem todos os seus pedaços. (Começa a gritar.) Rapazes! Venham aqui!
+{662}{}{ você acaba de ganhar seu PRÓPRIO pedaço de terra em Golgotha. SE eles acharem todos os seus pedaços. (Começa a gritar.) Rapazes! Venham aqui!
  E tragam suas facas!}
 {663}{}{Espere um momento! Não podemos falar sobre isso?}
 {664}{}{Você precisa de mais do que facas para me vencer...}

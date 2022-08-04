@@ -21,7 +21,9 @@
 {400}{}{O que mais você gostaria de saber?}
 {401}{}{O que você pode me dizer sobre a Abadia?}
 {402}{}{Você sabe alguma coisa sobre um Kit de Criação do Jardim do Éden?}
-{500}{}{Desculpe, amigo, eu nunca ouvi falar dele. Mas se isso tem a ver com pré-guerra, então eu aposto que há algo sobre ele nos computadores do mosteiro. Infelizmente para você, os monges são rigorosos na proteção de suas informações—medo de que ela levem a outra guerra ou alguma coisa, se as pessoas aprendem muito. Ainda, pode valer a pena perguntar por lá.}
+{500}{}{Desculpe, amigo, eu nunca ouvi falar dele. Mas se isso tem a ver com pré-guerra, então eu aposto que há algo sobre ele
+ nos computadores do mosteiro. Infelizmente para você, os monges são rigorosos na proteção de suas informações—medo de
+ que ela levem a outra guerra ou alguma coisa, se as pessoas aprendem muito. Ainda, pode valer a pena perguntar por lá.}
 {501}{}{Obrigado, eu vou fazer isso. Eu tenho mais algumas perguntas embora.}
 {502}{}{Obrigado pela dica. Eu vou verificar isso agora.}
 {600}{}{O irmão Samuel mandou você aqui? O que aquele bêbado quer agora?}
@@ -38,7 +40,8 @@ a luz se moveu em direção ao cemitério.}
 {606}{}{Eu queria sair e enfrentar quem quer que fosse, ou seja o que fosse, mas a esposa me convenceu a ficar dentro e verificar
   nas coisas pela manhã. Então, na manhã seguinte, eu vejo que algumas das minhas colheitas foram comidas e há novas pegadas de todos
   lado. Agora, não me importo de alimentar os pobres, mas não lido gentilmente com os ladrões.}
-{607}{}{Eu vou tentar pegar esse indivíduo. Talvez eu espere em torno de meia-noite pra ver se eu posso encontrar alguma coisa. Bem, obrigado pela informação. Cuide-se.}
+{607}{}{Eu vou tentar pegar esse indivíduo. Talvez eu espere em torno de meia-noite pra ver se eu posso encontrar alguma
+ coisa. Bem, obrigado pela informação. Cuide-se.}
 {608}{}{Eu vou ver o que posso fazer. Eu tenho mais algumas perguntas antes de eu ir.}
 {609}{}{Esta história está ficando um pouco longa demais. Tchau.}
 {610}{}{Deixe-me ver se entendi. Você ficaria feliz em ajudar alguém que se esconda em sua casa de noite, rouba seus

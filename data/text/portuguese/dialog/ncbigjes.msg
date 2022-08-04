@@ -209,7 +209,7 @@
 {660}{}{Louis Salvatore continua vivo. Por que você voltou?}
 {661}{}{(Uma gota de suor escorre pelo rosto de Mordino.) Você fez o que eu pedi? Louis Salvatore está morto?}
 {662}{}{Está morto. Sua família está vingada, Senor Mordino.}
-{663}{}{No, I shall return when I have killed him.}
+{663}{}{Não, eu voltarei quando tiver matado ele.}
 {664}{}{Salvatore é muito bem protegido. Vou ter que cancelar este trabalho.}
 {670}{}{Se você... fugir desse trabalho, eu vou te matar... MATAR.}
 {671}{}{Já que é dessa forma, eu retornarei quando ele estiver morto.}

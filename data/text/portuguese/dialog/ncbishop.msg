@@ -49,7 +49,7 @@
 {278}{}{Sim, bem, em algum momento um trabalho precisa ser feito, e eles me ligam para garantir que as coisas
  sejam entregues... como aquela maleta.}
 {285}{}{(Para si mesmo.) Claro, ser capaz de levar uma multidão ao frenesi não é tão ruim para quem está entrando
- na política... (Te estuda com desconfiança.) Você não é  da NCR também, é? Tomcat é o único deles que posso suportar no momento.}
+ na política... (Te estuda com desconfiança.) Você não é da NCR também, é? Tomcat é o único deles que posso suportar no momento.}
 {286}{}{Sim, também sou da NCR. Não é o melhor, mas é que tem agora. Eu sou praticamente um agente livre.}
 {287}{}{Não, sou apenas um viajante. Concordei em ajudar Moore porque precisava trabalhar.}
 {295}{}{(Acena para a pasta.) Bem, essa maleta valeu a pena. Um pedacinho de Vault City aí dentro, um pouco

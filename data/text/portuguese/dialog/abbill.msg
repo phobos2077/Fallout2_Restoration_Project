@@ -27,7 +27,7 @@
 {217}{}{Sim? O que foi isso?}
 {218}{}{Um enorme conjunto de armaduras mutantes que conseguiram salvar um dos cadáveres. Claro, por tudo o que sei, eles
   roubou os ossos de um mutie longo e morto no qual haviam tropeçado nos resíduos, mas quem sabe? De qualquer forma, eles não eram
-  ansioso para manter a coisa pesada, então eles me ofereceram barato. Eu nunca saberia o que eu  faria
+  ansioso para manter a coisa pesada, então eles me ofereceram barato. Eu nunca saberia o que eu faria
   com isso, mas achei um bom acordo.}
 {219}{}{Bem, tenho certeza de que Marcus pode se beneficiar disso. Quanto custa?}
 {220}{}{Isso é interessante. Bem, Marcus, aqui, é resistente o suficiente. Eu não acho que nós vamos precisar desse item. Deixe-me perguntar

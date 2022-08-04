@@ -9,14 +9,16 @@
 {109}{}{Ei, obrigado por consertar a bomba de água!}
 {110}{}{Você deve notificar o monge principal que a bomba de água está agora fixada.}
 {200}{}{Obrigado por nos ajudar com essa coisa.}
-{300}{}{Ah, mas que pedaço de mer - umm, eu estou um pouco ocupado agora. Você precisa de algo ou só está gastando o meu tempo?}
+{300}{}{Ah, mas que pedaço de mer - umm, eu estou um pouco ocupado agora. Você precisa de algo ou
+ só está gastando o meu tempo?}
 {301}{}{Na verdade sim, o Abade me enviou. Ele disse que a bomba de água está com alguns problemas.}
 {302}{}{Heh, "ter problemas" é uma subavaliação. Esta coisa é totalmente interrompida. Não tem jeito
   Vai vazar novamente.}
 {303}{}{Eu vejo. Então eu acho que não iria doer nada se eu desse uma olhada nisso.}
 {304}{}{Com certeza, seja bem vindo. Não ha como você quebrá-lo mais.}
 {305}{}{Não quero incomodar, mas o que parece ser o problema aqui?}
-{306}{}{A principal bomba de água para a Abadia está travada. A maldita coisa estava dando seus últimos suspiros e agora ela finalmente se foi.}
+{306}{}{A principal bomba de água para a Abadia está travada. A maldita coisa estava dando seus últimos suspiros e
+ agora ela finalmente se foi.}
 {307}{}{Eu sou um pouco mecânico, se importa se eu der uma olhada?}
 {308}{}{Bem, eu não sou tão bom com as máquinas, mas talvez eu possa ver se algo pode ser feito.}
 {309}{}{Claro, ninguém está te impedindo.}

@@ -14,7 +14,8 @@
 {300}{}{Ninguém ... Apenas um velho guarda de caravanas aposentado. Muitas pessoas me confundem com algum tipo de xerife porque eu sou
   A coisa mais próxima que se assemelha à lei nestas partes, mas não sou. Eu apenas procuro essa comunidade porque eu acho que
   vale a pena proteger.}
-{301}{}{E, em troca, a comunidade cuida de mim. Recebo algumas bebidas alcoólicas complementares dos monges, Peterson garante que eu esteja alimentado e Bill faz com que eu tenha munição e stims. Não é um plano de aposentadoria ruim, se você me perguntar.}
+{301}{}{E, em troca, a comunidade cuida de mim. Recebo algumas bebidas alcoólicas complementares dos monges, Peterson garante 
+ que eu esteja alimentado e Bill faz com que eu tenha munição e stims. Não é um plano de aposentadoria ruim, se você me perguntar.}
 {302}{}{Eu sou o único que o mantém em linha, e é tudo o que você precisa saber. Agora continue com o seu negócio e me deixe
   sozinho.}
 {303}{}{Esse é um bom arranjo. Deixe-me perguntar-lhe outra coisa.}

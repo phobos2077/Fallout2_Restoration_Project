@@ -10,11 +10,11 @@
 {108}{}{Continue procurando.}
 {109}{}{Faça uma escolha abaixo.}
 {110}{}{À medida que as tensões continuavam a aumentar entre os EUA e a China, um medo na vanguarda das mentes dos nossos oficiais militares
-  era que os chineses iriam implantar armas biológicas contra tropas americanas. Como resultado, a West Tek, uma das principais empreiteiras tecnologicas 
-  de alta tecnologia de defesa, foi contratada para desenvolver um agente contador. Isso levou à pesquisa da West Tek no Virion Pan-Immunity
-  Projeto (PVP) com a intenção de criar imunidade em soldados, reestruturando seu DNA. Durante o teste de PVP em 2076,
-  Foram observados efeitos colaterais anormais em indivíduos com teste. Os animais de teste começaram a crescer drasticamente e sua atividade cerebral
-  aumentou.}
+ era que os chineses iriam implantar armas biológicas contra tropas americanas. Como resultado, a West Tek, uma das principais empreiteiras tecnologicas 
+ de alta tecnologia de defesa, foi contratada para desenvolver um agente contador. Isso levou à pesquisa da West Tek no Virion Pan-Immunity
+ Projeto (PVP) com a intenção de criar imunidade em soldados, reestruturando seu DNA. Durante o teste de PVP em 2076,
+ Foram observados efeitos colaterais anormais em indivíduos com teste. Os animais de teste começaram a crescer drasticamente e sua atividade cerebral
+ aumentou.}
 {111}{}{[MAIS]}
 {112}{}{Vendo o potencial lá, o Exército rapidamente requisitou o projeto e renomeou-o FEV: Virus Evolutivo Forçado.
   Não contente com a mera imunidade à doença, o VEF potencialmente transformaria os soldados em anormalmente fortes e inteligentes
@@ -35,10 +35,10 @@
 {134}{}{Após muita pesquisa dolorosa, você encontra um arquivo oculto.}
 {135}{}{Arquivo de acesso rotulado: Projeto de Fluoração de Massa.}
 {136}{}{No esforço contínuo para tornar os cidadãos dos Estados Unidos mais controláveis, a inclusão de sódio
-  O fluoreto em toda a água potável disponível é efetivo imediatamente. Os efeitos a longo prazo nos testes resultaram em
-  assuntos tornando-se mais "estúpidos e dóceis". Além disso, observou-se que o fluoreto de sódio causou danos leves a
-  uma parte específica do cérebro, tornando mais difícil para a pessoa afetada defender sua liberdade e 
-  fazendo com que o indivíduo se torne mais dócil em relação à autoridade.}
+ O fluoreto em toda a água potável disponível é efetivo imediatamente. Os efeitos a longo prazo nos testes resultaram em
+ assuntos tornando-se mais "estúpidos e dóceis". Além disso, observou-se que o fluoreto de sódio causou danos leves a
+ uma parte específica do cérebro, tornando mais difícil para a pessoa afetada defender sua liberdade e
+ fazendo com que o indivíduo se torne mais dócil em relação à autoridade.}
 {137}{}{[MAIS]}
 {138}{}{Em nossa experimentação mais recente, nós escolhemos o oficial militar, General J. Ripper, como sujeito. Inicialmente,
   Ele não sabia da nossa intenção, mas agora parece ter pegado. Ele ficou obcecado com a frase "precioso corporal

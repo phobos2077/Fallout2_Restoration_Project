@@ -49,8 +49,8 @@ que você poderá abrir.}
   armadilha explosiva no quadro.}
 {122}{}{Você vê um recipiente resistente com um bloqueio (que pode ser colhido com
   gazua) e uma armadilha no quadro.}
-{123}{}{Você vê um recipiente resistente com um bloqueio e uma armadilha na
-   moldura.}
+{123}{}{Você vê um recipiente resistente com um bloqueio e uma
+ armadilha na moldura.}
 {124}{}{Você vê um recipiente resistente com nenhum dispositivo de bloqueio aparente e
   uma armadilha no quadro.}
 {125}{}{Você vê um recipiente resistente com um bloqueio velho e enferrujado e uma armadilha
@@ -128,7 +128,7 @@ que você poderá abrir.}
 {165}{}{Você vê um recipiente antigo com um bloqueio antigo e enferrujado.}
 {166}{}{Você foi pego na armadilha e tomou }
 {167}{}{ pontos de dano.}
-{168}{}{ desencadeia a armadilha e foi atingido por  }
+{168}{}{ desencadeia a armadilha e foi atingido por }
 {169}{}{ pontos de dano.}
 {170}{}{Você colhe habilmente o bloqueio no recipiente.}
 {171}{}{Sua falta de habilidade bloqueou o bloqueio neste recipiente.}
@@ -139,12 +139,12 @@ que você poderá abrir.}
 {176}{}{Você emperra o bloqueio do recipiente.}
 {177}{}{Você pressiona suas costas enquanto tenta abrir o bloqueio e
   toma um ponto de dano.}
-{178}{}{Você pressiona suas costas enquanto tenta abrir o bloqueio e toma }
+{178}{}{Você pressiona suas costas enquanto tenta abrir o
+ bloqueio e toma }
 {179}{}{ pontos de dano.}
 {180}{}{Você é muito fraco para ultrapassar o bloqueio.}
 {181}{}{ emperra o bloqueio do recipiente.}
-{182}{}{ machuca as costas enquanto tenta arrombar a fechadura e recebe 
- pontos de dano.}
+{182}{}{ Estica as costas enquanto tenta violar a fechadura e recebe pontos de dano.}
 {183}{}{ massageia suas costas enquanto tenta abrir o bloqueio e toma }
 {184}{}{ pontos de dano.}
 {185}{}{ é muito fraco para ultrapassar o bloqueio.}

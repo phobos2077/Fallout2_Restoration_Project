@@ -62,7 +62,7 @@
 {222}{}{Beeeleza… (hic) Você por acaso não teria alguma garrafa de bebi-(hic)-da. Pode ficar (hic) frio por aqui durante a noite.}
 {224}{}{Você realmente é (hic) meu melhor amigo (hic) nesse mundo de cão. [Karl começa a beber toda garrafa de bebida, até o ponto de desmaiar]}
 {225}{}{Bem, talvez você consiga conversar com o Karl mais tarde.}
-{226}{}{Você realmente é (hic) meu melhor amigo (hic) nesse mundo de cão. [Karl abre a garrafa e começa a beber  -- e então cospe tudo em você.] Eca! Que porra é essa?! Ta tentando me envenenar?! Sai fora daqui!}
+{226}{}{Você realmente é (hic) meu melhor amigo (hic) nesse mundo de cão. [Karl abre a garrafa e começa a beber -- e então cospe tudo em você.] Eca! Que porra é essa?! Ta tentando me envenenar?! Sai fora daqui!}
 {227}{}{Pois, muito (hic) obrigado; você é tão (hic) generoso. Porque não deixa te ajudar com essa bolsa pesada? [Karl meche em sua bolsa e pega metade do seu dinheiro.] Muita bondade sua (hic) se precisar de algo, pode falar.}
 {228}{}{GECK?}
 {229}{}{Eu vou.}

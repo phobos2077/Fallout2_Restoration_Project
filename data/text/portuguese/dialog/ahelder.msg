@@ -27,11 +27,14 @@
 GECK ou o nosso povo vai morrer!}
 {125}{}{Eu preciso de mais algumas informações.}
 {126}{}{Bem, eu estou indo agora.}
-{127}{aeld6}{Você sobreviveu. O Escolhido não pode ser fraco ou estamos todos condenados. Está você preparado para sua busca?}
+{127}{aeld6}{Você sobreviveu. O Escolhido não pode ser fraco ou estamos todos condenados. Está
+ você preparado para sua busca?}
 {128}{}{Eu passei o teste. Claro, estou pronto.}
 {129}{}{Eu preciso pensar sobre isso.}
 {130}{}{Eu não estou indo para minha morte!}
-{131}{aeld7}{Preste atenção. Encontrar o santo Vault 13 e trazer de volta o GECK. Vic, o comerciante a partir de Klamath, nos trouxe o frasco de santo Treze. Comece a sua busca com ele. O disco irá lembrá-lo de sua tarefa. Talvez os deuses do Cofre cuidem de você.}
+{131}{aeld7}{Preste atenção. Encontrar o santo Vault 13 e trazer de volta o GECK. Vic, o comerciante
+ a partir de Klamath, nos trouxe o frasco de santo Treze. Comece a sua busca com ele.
+ O disco irá lembrá-lo de sua tarefa. Talvez os deuses do Cofre cuidem de você.}
 {133}{}{Antes de eu ir, eu tenho algumas perguntas.}
 {134}{}{Adeus. Eu não vou falhar com a tribo.}
 {135}{aeld8}{Muito bem. Veja-me quando você decidir - mas não espere muito.}
@@ -49,7 +52,8 @@ GECK ou o nosso povo vai morrer!}
 {146}{aeld11}{Klamath é para o leste.}
 {147}{}{Há outras coisas que eu poderia aprender.}
 {148}{}{Eu estou pronto. Adeus.}
-{149}{aeld12}{O santo Treze? Eu não posso ajudar você. Apenas o Morador do Vault  sabia. Seus contos falam de uma perigosa jornada.}
+{149}{aeld12}{O santo Treze? Eu não posso ajudar você. Apenas o Morador do Vault sabia. Seus contos falam de
+ uma perigosa jornada. }
 {150}{}{Eu vejo. Há muito que eu preciso saber.}
 {151}{}{Adeus, Ancião.}
 {152}{aeld13}{Ser um covarde nos matará a todos! Incluindo você. Você passou
@@ -61,13 +65,15 @@ GECK ou o nosso povo vai morrer!}
 {157}{aeld14c}{Por que você faz isso?}
 {158}{aeld14d}{Eu sabia que você tinha a alma das trevas!}
 {159}{aeld15}{Em seguida, pegue esse frasco. É do santo Vault 13. Vic, comerciante em Klamath,
-  trouxe para nós. Ele pode saber onde está o cofre. Você também pode precisar de um pouco do que eles
-  chamam dinheiro. Aqui.}
+ trouxe para nós. Ele pode saber onde está o cofre. Você também pode precisar de um pouco do que eles
+ chamam dinheiro. Aqui.}
 {160}{}{Uh ... Qual foi a minha missão de novo?}
 {161}{}{Existe mais o que você pode me dizer?}
 {162}{}{Deseje-me sorte, Ancião, e não falharei com você.}
 {163}{aeld16}{Encontrar Vic em Klamath. Estamos contando com você.}
-{164}{aeld17}{É bom ver você de novo, Filho. Eu não quero ser abrupta, mas eu vejo que você ainda não completou sua busca para encontrar o santo Treze. Por favor, não vamos perder tempo falando. A necessidade do nosso povo é grande. Vá encontrar o Cofre!}
+{164}{aeld17}{É bom ver você de novo, Filho. Eu não quero ser abrupta, mas eu vejo que você ainda
+ não completou sua busca para encontrar o santo Treze. Por favor, não vamos perder tempo
+ falando. A necessidade do nosso povo é grande. Vá encontrar o Cofre!}
 {165}{}{Eu vou agora.}
 {166}{}{Tudo bem, eu vou.}
 {167}{}{Eu não vou falhar ancião. }
@@ -78,7 +84,9 @@ GECK ou o nosso povo vai morrer!}
 {171}{}{Sim, Ancião.}
 {172}{}{Eu não falharei com você ou com o nosso povo, Ancião.}
 {173}{}{Olhar. Se acha que pode fazer melhor... }
-{174}{aeld19}{Escolhido, as coisas não são bem aqui. Precisamos do GECK, se a nossa aldeia quiser sobreviver. Nosso povo cresce fraco, com fome e nossas reservas de alimentos não vai durar muito mais. Por favor, encontre o santo Treze e nos devolva. Vá agora.}
+{174}{aeld19}{Escolhido, as coisas não são bem aqui. Precisamos do GECK, se a nossa aldeia quiser sobreviver.
+ Nosso povo cresce fraco, com fome e nossas reservas de alimentos não vai durar muito mais.
+ Por favor, encontre o santo Treze e nos devolva. Vá agora.}
 {175}{}{Eu vou.}
 {176}{}{Muito bem. Eu estou a caminho.}
 {177}{}{Eu farei o meu melhor para encontrar o GECK e salvar a nossa aldeia.}

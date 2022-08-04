@@ -44,7 +44,7 @@
 {282}{}{EU VOU DEIXE-ME G--}
 {283}{}{Ei, o, uh, "Jeito Jimmy J" parece bom e tudo, e é por isso que eu tinha algumas pergunt--}
 {284}{}{Não, eu não penso assim -}
-{290}{}{Knew you'd be back, knew it! Didn't Jagged Jimmy J say that it would be that WAY? Keep 'em happy, and they'll never let you down. So my pilot friend... what can Jagged Jimmy J do for you today?}
+{290}{}{Sabia que voce voltaria, sabia! Jagged Jimmy J nao disse que seria assim? Deixe eles felizes e eles nunca o abandonarao. Entao meu amigo piloto... o que Jagged Jimmy J pode fazer por voce hoje?}
 {291}{}{Bem, bem, se não é meu "amigo" piloto... você está voltando por que PRECISA de algo do Jagged Jimmy?}
 {292}{}{Hum... Eu esqueci o que ia dizer. Vou indo}
 {294}{}{Negocia coisas? Eu GOSTO de coisas}
@@ -94,7 +94,7 @@
 {401}{}{Serio? O que aconteceu?}
 {402}{}{Serio? Mano, caras que batem em mulheres merecem tomar um pau.}
 {415}{}{(Entra em posição de luta.) Então eu entro, certo, e ele puxa uma FACA no velho JJ! Eu não tenho nada além de minhas próprias mãos, entende?
- Então ele consegue acertar um corte sortudo  antes que eu...*BAM!* Quebrasse ele!}
+ Então ele consegue acertar um corte sortudo antes que eu...*BAM!* Quebrasse ele!}
 {416}{}{Oh sério? Jules diz que você estava 'voando' no jet e cortou seu rosto tentando se barbear com sua faca de combate.}
 {417}{}{Jura Eu não acho que teria peito para fazer isso. Porra, aquele homem poderia ter te MATADO.}
 {418}{}{Boa história. Ei, eu tinha outras perguntas...}

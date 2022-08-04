@@ -106,7 +106,7 @@
 {391}{}{Segui-lo.}
 {400}{}{O qu... você não me OUVIU? Stuart, Stuart Little? Maior agente de toda Reno? }
 {401}{}{Alguém fez o favor de não te contar sobre mim, chapa. }
-{402}{}{Alguém fez o favor de não te contar sobre mim, docinho.  }
+{402}{}{Alguém fez o favor de não te contar sobre mim, docinho. }
 {404}{}{Hmmmpf. Então. Qual o seu nome?}
 {405}{}{Eu sou }
 {407}{}{Você já trabalhou no circo, Stuart?}
@@ -123,7 +123,7 @@
 {424}{}{Estou procurando por boxe. Você pode me ajudar?}
 {430}{}{(Stuart mexe a cabeça e sorri quando você se aproxima.) Escutou o que você fez? Parabéns. E então?}
 {431}{}{(Stuart mexe a cabeça quando você se aproxima.) Heeeeeey, }
-{432}{}{(Stuart brinca com você ao se aproximar.) Bem, bem... se não é  "}
+{432}{}{(Stuart brinca com você ao se aproximar.) Bem, bem... se não é "}
 {433}{}{Mim querer brigar mais}
 {434}{}{Nada. Tchauuu}
 {435}{}{Estou prooooooonto pra arrebentar.}
@@ -195,8 +195,8 @@
 {580}{}{(Olha pra você com piedade.) Você reparou que TRAGÉDIA? Eu me enganei reduzindo você a um esteriótipo, uma caricatura,
  um modelo de Fallout genérico, ao invés de o considerar como um específico, único personagem.}
 {581}{}{Ahm, mas Stuart, EU SOU um típico modelo de herói. De fato, eu estou jogando como personagem desse jogo.}
-{590}{}{Nem todas as mulheres se atraem por barrigas-de-barril. Quase sempre é por personagens masculinos musculosos. Você se espantaria se soubesse  quantas mulheres
- acham meu tamanho intigantemente TENTADOR.}
+{590}{}{Nem todas as mulheres se atraem por barrigas-de-barril. Quase sempre é por personagens masculinos musculosos. Você se espantaria
+ se soubesse quantas mulheres acham meu tamanho intrigantemente TENTADOR.}
 {591}{}{E você ficaria surpreso se soubesse o número de homens que também acha.}
 {600}{}{Eu olhei pro seu físico musculoso ridículo, seu comportamento de Mad Max, your gritty Mad Maxx wanna-be demeanor, seu personagem
  mal planejado e concluí que você é um pirralho.}

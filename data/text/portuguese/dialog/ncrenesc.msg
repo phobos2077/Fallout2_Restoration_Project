@@ -182,10 +182,8 @@ seu sistema. Hmmmph. "Cura," minha bunda! Que coisa sem nexo!}
 criou a droga.}
 {515}{}{(Renesco lhe encara em silêncio.)}
 {516}{}{(Renesco lhe encara de novo, dessa vez em silêncio.)}
-{517}{}{Eu acho que você gostaria de Arroyo. É uma vila pacata. Exceto 
-pelas plantas possuídas por espíritos maus e é claro, o Templo dos Desafios, 
-cheio  daquelas mortíferas armadilhas com lanças e aquelas formigas gigantes 
-devoradoras de gente.}
+{517}{}{Eu acho que você gostaria de Arroyo. É uma vila pacata. Exceto pelas plantas possuídas por espíritos maus e é claro, o
+ Templo dos Desafios, cheio daquelas mortíferas armadilhas com lanças e aquelas formigas gigantes devoradoras de gente.}
 {518}{}{Ei, você já ouviu falar do Kit de Criação do Paraíso? Ou do Vault 
 13?}
 {519}{}{De acordo, então... Estou indo.}

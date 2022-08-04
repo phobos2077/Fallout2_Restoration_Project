@@ -1,6 +1,6 @@
 {100}{}{Você vê um casal estranhamente saudável.}
 {101}{}{Você vê Juan Cruz e Vikki Goldman, dois dos mais conhecidos astros de filmes de New Reno.}
-{102}{}{Você vê um homem de cabelo escuro e uma mulher loira, ambos extremamente cativantes.  Eles passam uma sensação vulgar de "venha cá".}
+{102}{}{Você vê um homem de cabelo escuro e uma mulher loira, ambos extremamente cativantes. Eles passam uma sensação vulgar de "venha cá".}
 {103}{}{Ele: Oi! Eu sou Juan Cruz! Ela: E eu sou Vikki Goldman! Ambos: Nós somos celebridades! E nós apoiamos a Hubologia! Ambos: Por favor, note que quaisquer semelhanças entre nós e pessoas ou instituições, vivas ou mortas, é mera coincidência.}
 {104}{}{Hã? Cuz? Doldnan?}
 {105}{}{Celebridades? O que os torna celebridades?}
@@ -92,7 +92,7 @@
 {191}{}{Ele: Você fez uma escolha que vai mudar a sua vida. Ela: Infelizmente, foi a escolha errada. Ambos: Guardas! Guardas!}
 {192}{}{Porra.}
 {193}{}{Ele: Saudações,}
-{194}{}{So what do I do now that I'm a Hubologist?}
+{194}{}{Então o que eu faço agora que sou um Hubologista?}
 {195}{}{Como faço para me juntar a vocês?}
 {196}{}{Isso era tudo que eu queria. Até logo!}
 {197}{}{}

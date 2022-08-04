@@ -461,7 +461,7 @@
 {23600}{}{Faca de combate}
 {23601}{}{Uma faca de combate de alta qualidade de SharpWit Inc. Esta lâmina afiada tem garantia de uso por mais de uma década! Min. FO: 2.}
 {23700}{}{Revistas de química}
-{23701}{}{Uma pilha aleatória de literatura sobre a área de Química. As revistas  de Química Molecular são particularmente interessantes.}
+{23701}{}{Uma pilha aleatória de literatura sobre a área de Química. As revistas de Química Molecular são particularmente interessantes.}
 {23800}{}{Regulador de Transmissão}
 {23801}{}{Uma disco com gravação de uma transmissão de áudio.}
 {23900}{}{Brotherhood Armor}
@@ -579,7 +579,7 @@
 {29500}{}{Cheezy Poofs}
 {29501}{}{Uma caixa de bolinhas com sabor de queijo. Eles são muito bons.}
 {29600}{}{H&K P90c}
-{29601}{}{A Heckler & Koch P90c era muito usada na época da guerra. Seu designer compacto a torna mais facil de controlar.  A durável P90c é valorizada pela sua confiabilidade e alto poder de fogo, robusto e compacto. Min. FO: 4}
+{29601}{}{A Heckler & Koch P90c era muito usada na época da guerra. Seu designer compacto a torna mais facil de controlar. A durável P90c é valorizada pela sua confiabilidade e alto poder de fogo, robusto e compacto. Min. FO: 4}
 {29700}{}{Barra de metal}
 {29701}{}{É uma barra de metal. O que você esperava?}
 {29800}{}{Chave do Bairro dos caçadores}

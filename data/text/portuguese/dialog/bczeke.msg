@@ -13,7 +13,8 @@
 {110}{}{Olá de novo. Ainda não tenho respostas para você, estranho. Por que você não toma uma dica e
   tirar o pato do forno?}
 {111}{}{Feito.}
-{112}{}{Rebecca disse-me o que você fez por ela. Eu quero pedir desculpas pelo tratamento que você recebeu aqui. Você certamente não merecia isso. Com o que eu posso ajudar?}
+{112}{}{Rebecca disse-me o que você fez por ela. Eu quero pedir desculpas pelo tratamento que você recebeu
+ aqui. Você certamente não merecia isso. Com o que eu posso ajudar?}
 {113}{}{Eu tenho perguntas.}
 {114}{}{Nada, até.}
 {115}{}{Eu tenho algumas perguntas para você.}
@@ -73,7 +74,9 @@ pelo fato, agora que eu sei o que ele está fazendo.}
 {155}{}{Feito.}
 {156}{}{Obrigado pela oportunidade de uma nova vida. Nós todos temos uma divida com você.}
 {157}{}{Apenas vá embora. Eu não tenho nada a dizer para você.}
-{158}{}{Aguarde, antes de você ir... eu achei este cartão-chave há algum tempo, e eu não tenho nenhuma idéia do que é. Rebecca diz que você encontrou uma espécie de entrada onde eles estavam segurando Chrissy. Talvez esta placa abra-o. Aqui, pegue-a.}
+{158}{}{Aguarde, antes de você ir... eu achei este cartão-chave há algum tempo, e eu não tenho nenhuma idéia
+ do que é. Rebecca diz que você encontrou uma espécie de entrada onde eles estavam segurando Chrissy. Talvez
+ esta placa abra-o. Aqui, pegue-a.}
 {159}{}{Obrigado.}
 {160}{}{Com o que posso ajudar?}
 {161}{}{Apenas a problemas com a NCR, mas eu acho que o negócio que você ofereceu vai resolver isso.}

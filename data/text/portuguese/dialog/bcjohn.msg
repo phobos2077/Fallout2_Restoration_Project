@@ -6,7 +6,8 @@
 {105}{}{Ok, suave.}
 {106}{}{Tudo bem, vejo você.}
 {107}{}{Espere um minuto. Por que você não conversa comigo?}
-{108}{}{Nós somos uma comunidade aqui, e nós não queremos nenhum problema ou interferência de fontes de fora. Por favor, deixe estar.}
+{108}{}{Nós somos uma comunidade aqui, e nós não queremos nenhum problema ou interferência de fontes de fora. Por
+ favor, deixe estar.}
 {109}{}{Tudo bem.}
 {110}{}{Olá... e adeus.}
 {111}{}{Obrigado por tudo o que você fez. Peço desculpas pelo geito frio antes.}

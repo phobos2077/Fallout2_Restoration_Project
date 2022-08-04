@@ -1,6 +1,6 @@
-{100}{}{Você vê um homem desmazelado  em uma camisa marrom e suja. Seus braços estão cobertos por uma erupção cutãnea vermelha e clara, a qual ele esfrega frequentemente.}
+{100}{}{Você vê um homem desmazelado em uma camisa marrom e suja. Seus braços estão cobertos por uma erupção cutanea vermelha e clara, a qual ele esfrega frequentemente.}
 {101}{}{Você vê o "Doutor" Andrew.}
-{102}{}{Você vê um homem desmazelado  em uma camisa marrom e suja. Seus braços estão cobertos por uma erupção cutãnea vermelha e clara, a qual ele esfrega frequentemente.}
+{102}{}{Você vê um homem desmazelado em uma camisa marrom e suja. Seus braços estão cobertos por uma erupção cutanea vermelha e clara, a qual ele esfrega frequentemente.}
 {103}{}{Parece que você presenciou uma bela de uma briga...}
 {104}{}{Opa... parece que você viu uma ação de verdade, amigão.}
 {105}{}{Puxa...parece que você esteve em uma briga séria...}
@@ -88,7 +88,7 @@
 {187}{}{Entendo. Eu tenho mais perguntas pra você...}
 {188}{}{Hmmm. Talvez eu volte quando precisar dos seus serviços.}
 {189}{}{Sim, o "Auto-Doctor" no quarto de trás. É um empréstimo de Vault City.}
-{190}{}{Ele costuma ficar  indisposto algumas vezes, mas na maioria delas faz o seu trabalho. Na maioria.}
+{190}{}{Ele costuma ficar indisposto algumas vezes, mas na maioria delas faz o seu trabalho. Na maioria.}
 {191}{}{Não está funcionando muito bem por esses dias, o que é bom. Reduz o número de visitas freqüentes.}
 {192}{}{É, eu troquei alguns cabos e limpei o interior. Ele não te dará mais problemas.}
 {193}{}{Entendo. Eu tenho mais perguntas pra você...}
@@ -216,7 +216,7 @@
 {315}{}{Bem... tudo bem. Isso parece justo.}
 {316}{}{Vamos com isso, então. Eu só vou prender o ol'Doctor aqui... esticar os suspensórios e firmar os presilhas...}
 {317}{}{Apagar-se por 3 segundos}
-{318}{}{Hmmph. Parece que o ol'Doctor está teimando de nobo. Pedaço de lixo...  ainda bem que eu consegui soltar as presilhas antes que ele começasse a cirurgia exploratória de rotina. Talvez funcinoe melhor da próxima vez.}
+{318}{}{Hmmph. Parece que o Doctor esta teimando de novo. Pedaço de lixo... ainda bem que eu consegui soltar as presilhas antes que ele começasse a cirurgia exploratória de rotina. Talvez funcione melhor da próxima vez.}
 {319}{}{O qu...? Eu quero meu dinheiro de volta!}
 {320}{}{Oh, bem, espero que sim. Olha, eu preciso de mais uma coisa...}
 {321}{}{É, talvez. Estou indo.}

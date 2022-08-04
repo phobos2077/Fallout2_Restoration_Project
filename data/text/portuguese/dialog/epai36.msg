@@ -37,8 +37,8 @@
   Mas esses caras são mais felizes quando moram em lugares legais, e você não quer que eles se irritem, você quer?}
 {321}{}{[Fim de sessão.]}
 {400}{}{Aqui você pode ver a vida vegetal diferente de qualquer que você já viu antes! Esta nova e excitante espécie, derivada da Venus Fly
-  Trap, foi projetada especificamente por nossos brilhantes cientistas para poder sobreviver em um mundo devastado por uma guerra 
-  nuclear. Por que queremos fazer isso? É simples.}
+ Trap, foi projetada especificamente por nossos brilhantes cientistas para poder sobreviver em um mundo devastado por uma guerra
+ nuclear. Por que queremos fazer isso? É simples.}
 {401}{}{[MAIS]}
 {410}{}{Após uma guerra nuclear global, os cientistas acreditam que grande parte da Terra se tornará uma terra deserta estéril. Vida vegetal
   Terá dificuldade em sobreviver neste novo e severo ambiente. Agora imagine-nos emergindo da segurança de nossos
