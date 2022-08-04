@@ -89,15 +89,15 @@
 {230}{}{Talvez tenha. (sorri) Talves a Wasteland te fez ficar paranoico}
 {231}{}{Escuta, eu tenho que achar minha tribo. estes desgraçados que pegarem eles são perigosos e precisam ser parados.}
 {232}{}{Vamos. O que há de tão especial no tanque? Somos apenas duas pessoas conversando.}
-{233}{}{Tem certeza? Irei fazer valer a pena para você.}
-{234}{}{Eu não tenho tempo para esses joguinhos mentais. Adeus.}
-{240}{}{Bah. Eles não são nada. No entanto, não é o petroleiro que é especial. É apenas um grande petroleiro enferrujado como você disse.
+{233}{}{Tem certeza que? Eu vou fazer valer a pena}
+{234}{}{Eu não tenho tempo para esses jogos mentais. Adeus.}
+{240}{}{Bah. Eles não são nada. No entanto, não é o tanker que é especial. É apenas um grande petroleiro enferrujado como você disse.
  Nosso submarino, por outro lado ...}
 {241}{}{Submarino?}
-{250}{}{Vamos conversar então. Mas não há nada especial sobre o petroleiro. Eu te dou minha palavra.}
+{250}{}{Vamos conversar então. Mas não há nada especial sobre o petroleiro. Eu te dou minha palavra}
 {251}{}{E se eu te pagasse para me dizer?}
-{260}{}{Hmm ... Os negócios estão lentos ultimamente. Eu poderia usar mais clientes. Ou uma doação de um muito generoso. Talvez, $ 2000?}
-{261}{}{Aqui está. Mas é melhor que sua informação seja útil.}
+{260}{}{Hmm ... Os negócios estão lentos ultimamente. Eu poderia usar mais clientes. Ou uma doação de uma muito generosa. Diga, $ 2000?}
+{261}{}{Aqui está. Mas suas informações valem a pena.}
 {262}{}{$ 1.500 e essa é a minha oferta final.}
 {263}{}{Acho que não. Isso é demais.}
 {270}{}{(Lao Chou embolsa US $ 2000). Não é o navio-tanque que é especial. É apenas um grande petroleiro enferrujado como você disse.
@@ -107,14 +107,14 @@
 {281}{}{Tem certeza? Minha querida esposa Miria certamente fará valer a pena.}
 {282}{}{Adeus.}
 {285}{}{Você barganha muito bem. Tudo bem, $1500.}
-{286}{}{Aqui está. Mas é melhor que sua informação seja útil.}
+{286}{}{Aqui está. Mas suas informações valem a pena.}
 {287}{}{(Lao Chou embolsa os $ 1500). Não é o navio-tanque que é especial. É apenas um grande petroleiro enferrujado como você disse.
   Nosso submarino, por outro lado ...}
 {288}{}{Submarino?}
 {290}{}{Bem, se você coloca dessa maneira, eu tenho ficado confinado nesta loja empoeirada por um muito tempo. Já faz um bom tempo desde que eu tenha estado na companhia de uma mulher encantadora como você.}
 {291}{}{[CONTINUAR]}
 {300}{}{[As horas passam como em uma infinidade. Você começa a suspeitar que Lao Chou pode não ser completamente humano. Você desmaia, eventualmente.]}
-{301}{}{uhhh... O que aconteceu?}
+{301}{}{hhh... O que aconteceu?}
 {310}{}{Você desmaiou enquanto eu nos movia para a posição do lótus triplo, e eu tive que terminar me dando prazer com o estilo panda-sorridente.
   Mas um acordo é um acordo. Não é o tanque que é especial - é apenas um grande tanque enferrujado como você disse. Nosso submarino, por outro lado...}
 {311}{}{Submarino?}
