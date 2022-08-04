@@ -3,25 +3,26 @@
 {102}{}{Você vê um homem em roupas funcionais e confortáveis.}
 {103}{}{Saudações! Bem vindo à minha loja, Flying Dragon 8.}
 {104}{}{O que posso fazer por você?}
-{105}{}{Pastel de Flango!}
+{105}{}{Da aggle oo!
+}
 {106}{}{Coisas!}
 {107}{}{Quem é você?}
-{108}{}{Estou procurando por algum equipamento.}
-{109}{}{Estou procurando por alguma informação.}
+{108}{}{Estou procurando equipamento.}
+{109}{}{Estou buscando informação.}
 {110}{}{Adeus.}
-{111}{}{Você quer comprar algo?}
+{111}{}{Você quer comprar alguma coisa?}
 {112}{}{:: acene com a cabeça ::}
 {113}{}{::balançar a cabeça::}
 {114}{}{Isso é o que temos, então.}
 {115}{}{[FEITO]}
 {116}{}{Bem, temo que é tudo que posso fazer por você. Tenha um bom dia. }
 {117}{}{[FEITO]}
-{118}{}{Eu sou Lao Chou. Eu dirijo este estabelecimento, Flying Dragon 8, uma loja geral. Eu sou conhecido por trocar ... informação.}
+{118}{}{Eu sou Lao Chou. Eu dirijo este estabelecimento, o Flying Dragon 8, uma loja de conveniencias. Eu sou conhecido por trocar ... informação.}
 {119}{}{Que tipo de informação?}
-{120}{}{Entendo. Eu gostaria de algum equipamento.}
-{121}{}{Pouco acontece nesta cidade que eu não conheço. Claro, você deve saber a pergunta certa a se fazer, sim? O que você precisa saber?}
-{122}{}{Estou procurando algumas atualizações no meu equipamento.}
-{123}{}{Onde posso encontrar planos de vertibird?}
+{120}{}{Entendo. Eu gostaria ver seus equipamentos.}
+{121}{}{Quase nada acontece nesta cidade sem que eu saiba. Claro, você deve fazer a pergunta certa, né? O que você quer saber?}
+{122}{}{Estou procurando melhorar meu equipamento.}
+{123}{}{Onde posso encontrar planos para os Vertibird?}
 {124}{}{Eu preciso encontrar combustível para o PMV Valdez.}
 {125}{}{Eu entendo que preciso de um FOB para acessar o computador do Valdez.}
 {126}{}{Eu preciso de algumas peças de computador para o PMV Valdez.}
@@ -29,52 +30,52 @@
 {128}{}{Eu ouvi que algumas máquinas voadoras trouxeram uma carga de aldeões por este caminho.}
 {129}{}{Nada. Tchau.}
 {130}{}{Fale com Crockett, no acampamento Hubologista. Ele é o cientista chefe deles.}
-{131}{}{Obrigado. Eu preciso de mais informação.}
+{131}{}{Obrigado. Eu quero mais informação.}
 {132}{}{Obrigado. Tchau.}
-{133}{}{Olhe para o norte, em Navarro. Há uma base escondida perto do posto de gasolina.}
-{134}{}{Obrigado. Eu preciso de mais informação.}
+{133}{}{Procure ao norte, em Navarro. Há uma base escondida perto do posto de gasolina.}
+{134}{}{Obrigado. Eu quero mais informação.}
 {135}{}{Obrigado. Tchau.}
-{136}{}{Você já tentou procurar nos antigos Refúgios? Eu ouvi dizer que eles são uma riqueza de informações e tecnologia dos antigos.}
-{137}{}{Obrigado. Eu preciso de mais informação.}
+{136}{}{Você já tentou procurar nos antigos Refúgios? Eu ouvi dizer que eles são ricos em informações e tecnologia dos antigos.}
+{137}{}{Obrigado. Eu quero mais informação.}
 {138}{}{Obrigado. Tchau.}
-{139}{}{Um baço? Ha ha! Sim, Chip do Valdez perdeu o baço em um jogo de cartas no outro dia. Eu vendi para o Dr. Wong. Ele ficou fascinado por isso.}
+{139}{}{Um baço? Ha ha! Sim, Chip, do Valdez, perdeu o baço em um jogo de cartas no outro dia. Eu o vendi para o Dr. Wong. Ele ficou fascinado por isso.}
 {140}{}{Dr. Wong? Onde posso encontrá-lo?}
 {141}{}{Como você perde um baço?}
 {142}{}{Obrigado. Eu tenho mais perguntas.}
 {143}{}{Ah, então Tchau.}
-{144}{}{O Dr. Wong é o cientista chefe do Palácio de Aço. Procure-o lá.}
+{144}{}{O Dr. Wong é o cientista-chefe do Palácio de Aço. Procure-o lá.}
 {145}{}{Como você perde um baço, aliás?}
-{146}{}{Obrigado. Eu preciso de mais informação.}
+{146}{}{Obrigado. Eu quero mais informação.}
 {147}{}{Obrigado. Tchau.}
-{148}{}{Ele estava bêbado. Muito, muito bêbado. Ele estava obcecado com o baço a noite toda. E então ele o aposta.}
+{148}{}{Ele estava bêbado. Muito, muito bêbado. Ele estava obcecado com o baço a noite toda...então ele o apostou.}
 {149}{}{Então você pegou o BAÇO dele?}
 {150}{}{Eu vejo. Bem, eu tenho mais perguntas.}
 {151}{}{Sim. Foi uma dívida. Ele é um homem honrado.}
 {152}{}{Entendo. Eu preciso de mais informações.}
 {153}{}{Você é um bastardo rude e doente, não é?}
 {154}{}{Direito. Tchau.}
-{155}{}{Você é uma pessoa desonrosa. Eu não quero você na minha loja. Volte outra hora.}
+{155}{}{Você é uma pessoa desonrosa. Eu não quero você na minha loja. Volte em outro momento.}
 {156}{}{Seja o que for.}
-{157}{}{Não. Eles vieram do norte e voaram sobre nós, indo para o mar.}
+{157}{}{Não. Eles vieram do norte e voaram sobre nós, em direção ao mar.}
 {158}{}{Além do horizonte? Como diabos eu chego lá?}
 {159}{}{Sim, eles fizeram. Diga-me onde eles estão antes de eu abrir você como uma lata de sardinha.}
 {160}{}{Bem... nenhum dos nossos barcos é capaz de percorrer essa distância. A menos que...}
 {161}{}{A menos que...?}
-{162}{}{Obrigado pela "ajuda". Eu vou procurar um conselho de verdade.}
-{163}{}{... a menos que você consiga colocar o velho petroleiro nas docas funcionando. É um navio antigo, mas provavelmente ainda funciona com um pouquinho de trabalho em cima dele. Pergunte aos punks para mais informações.}
-{164}{}{Obrigado. Eu preciso de mais informação.}
+{162}{}{Obrigado pela "ajuda". Eu vou procurar alguém que me ajude de verdade.}
+{163}{}{... a menos que você consiga colocar o velho petroleiro nas docas funcionando. É um navio antigo, mas provavelmente ainda funciona...se você trabalhar um pouco nele. Pergunte aos punks para mais informações.}
+{164}{}{Obrigado. Eu quero mais informação.}
 {165}{}{Obrigado. Tchau.}
 {166}{}{Dizem que os Hubologistas conseguiram uma grande quantidade de combustível recentemente. Negocie com eles.}
-{167}{}{Obrigado. Eu preciso de mais informação.}
+{167}{}{Obrigado. Eu quero mais informação.}
 {168}{}{Obrigado. Tchau.}
-{169}{}{Você pode tentar alguns dos cientistas Shi no Palácio de Aço. Talvez eles possam ajudá-lo com suas necessidades de combustível.}
-{170}{}{Obrigado. Eu preciso de mais informação.}
+{169}{}{Você pode tentar alguns dos cientistas Shi no Palácio de Aço. Talvez eles possam ajudá-lo com a sua procura por combustível.}
+{170}{}{Obrigado. Eu quero mais informação.}
 {171}{}{Obrigado. Tchau.}
 {172}{}{Você é um inimigo do meu povo. Morra!}
 {173}{}{Você fez bem para o meu pessoal ao matar o AHS-9. Espero poder ajudá-lo de alguma forma.}
 {174}{}{Quem é você?}
-{175}{}{Estou procurando por algum equipamento.}
-{176}{}{Estou procurando por alguma informação.}
+{175}{}{Estou procurando equipamento.}
+{176}{}{Estou buscando informação.}
 {177}{}{Adeus.}
 {178}{}{Você já entregou aos Hubologistas. Não?}
 {179}{}{Ah sim ... ah ... Posso perguntar outra coisa?}
@@ -85,10 +86,10 @@
 {211}{}{O que você quer dizer com "muita sorte"?'}
 {220}{}{Quero dizer que o pedaço de lixo é mais velho que a maioria dos ghouls. Seria um milagre se não afundasse com você. Isso é tudo o que eu quis dizer.}
 {221}{}{Tenho a sensação de que você não está me contando algo sobre o petroleiro.}
-{230}{}{Talvez tenha. (sorrindo) Ou talvez a Wasteland tenha feito você paranóico.}
-{231}{}{Escute, eu preciso encontrar minha tribo. Esses bastardos que os pegaram são perigosos e precisam ser parados.}
-{232}{}{Qual é? O que há de tão especial sobre o petroleiro? Somos só duas pessoas conversando.}
-{233}{}{Tem certeza? Eu vou fazer valer a pena para você.}
+{230}{}{Talvez tenha. (sorri) Talves a Wasteland te fez ficar paranoico}
+{231}{}{Escuta, eu tenho que achar minha tribo. estes desgraçados que pegarem eles são perigosos e precisam ser parados.}
+{232}{}{Vamos. O que há de tão especial no tanque? Somos apenas duas pessoas conversando.}
+{233}{}{Tem certeza? Irei fazer valer a pena para você.}
 {234}{}{Eu não tenho tempo para esses joguinhos mentais. Adeus.}
 {240}{}{Bah. Eles não são nada. No entanto, não é o petroleiro que é especial. É apenas um grande petroleiro enferrujado como você disse.
  Nosso submarino, por outro lado ...}

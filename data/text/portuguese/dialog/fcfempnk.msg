@@ -84,7 +84,7 @@
 {183}{}{Seu imbecil. Porquê você matou ele?}
 {184}{}{Você acha que vamos nos juntar aos Hubologists agora?}
 {185}{}{Seu idiota, peão estúpido.}
-{186}{}{Os hubologistas irão te enganar também.}
+{186}{}{Os Hubologistas irão te trair também.}
 {187}{}{Vá pro inferno!! Vá pro inferno e morra!}
 {188}{}{Eu te odeio.}
 {189}{}{Você é um merda.}

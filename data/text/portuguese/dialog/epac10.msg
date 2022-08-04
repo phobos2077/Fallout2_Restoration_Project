@@ -61,9 +61,9 @@
   sentido de ser feito por aqui. Quem sabe o que se passa nas mentes fodidas desses cientistas.}
 {311}{}{Hmm ... você tem um ponto, lá. Eu não estou dizendo que eu acredito em você ... mas acho que posso pelo menos escutar você.}
 {312}{}{Sim, sem brincadeira. Vá em...}
-{320}{}{Tudo bem, você vê, é parte de seus "experimentos". Esses loucos médicos fudidos estavam fazendo algum tipo de testes em
-  a "natureza do mal humano" ou alguma merda do tipo. Eles estavam me injetando as memórias de um maníaco para ver como
-  afetaria a personalidade de uma pessoa normal. Pelo menos, é o melhor que eu poderia imaginar.}
+{320}{}{Então, você vê, é tudo parte dos "experimentos" deles. Essas porras desses médicos malucos estavam fazendo algum tipo de testes na
+   "natureza do humano mau" ou alguma porcaria. Eles estavam injetando em mim as memórias de um maníaco para ver como isso
+  afetaria a personalidade de uma pessoa normal. Pelo menos, é o melhor que eu pude entender.}
 {321}{}{Bem ... se isso for verdade, então é terrível. Mas o que os fez escolher você como sujeito de teste em primeiro lugar?}
 {322}{}{Uau, isso realmente é uma merda. Enfim, isso é tudo no passado agora. Esses cientistas do caralho estão muito mortos e não vão
   poder mais incomodar com você. Venha comigo e sairemos deste lugar.}

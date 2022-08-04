@@ -16,7 +16,7 @@
 {115}{}{Fale de forma mais clara e devagar, vamos ver se eu posso te ajudar.}
 {116}{}{Nn! Coisas! Eu!}
 {117}{}{Adeus!}
-{118}{}{Você quer comprar algo?}
+{118}{}{Você quer comprar alguma coisa?}
 {119}{}{Sim!}
 {120}{}{Não não não.}
 {121}{}{Tudo bem. O que você quer?}
