@@ -10,106 +10,106 @@
 {215}{}{(A mulher diante de voce e incrivelmente bonita. Quando voce vai em sua direçao, ela interrompe seu trabalho e sorri.)
  Ah, um novo rosto! Eu sou a Senhorita Kitty... bem vindo a Garra da Gata.}
 {216}{}{Ola outra vez!}
-{217}{}{Why, if it isn't Reno's most famous prizefighter!}
-{218}{}{I wondered when Mr. }
-{219}{}{My, my, if isn't the star of the golden screen.}
-{220}{}{ What's your pleasure today, sir?}
-{221}{}{ What's your pleasure today, miss?}
-{222}{}{preshshure?}
-{223}{}{Yuu haf prettee hair}
-{224}{}{Yuu said 'pleashure' Huh-Huh-Huh-Huh-Huh}
-{225}{}{George sayz we gonna haf a few achers of owr own an' I shud keep away from yuu or he won't lemme
- play wit the rabbitz so me go now}
-{226}{}{Jules told me to come here if I was looking for some... action.}
+{217}{}{Ora, se nao e o pugilista mais famoso de Reno!}
+{218}{}{Eu me perguntei quando o Sr. }
+{219}{}{O meu Deus, se nao e a estrela da tela dourada.}
+{220}{}{ O que o Senhor deseja hoje?}
+{221}{}{ O que a Senhora deseja hoje?}
+{222}{}{desejo?}
+{223}{}{Tem cabelo lindu}
+{224}{}{Oh o Gustavo Lima ali Huh-Huh-Huh-Huh-Huh}
+{225}{}{George disse que resolvamos as coisas entre nos e para ficar longe de voce ou ele nao me deixa brincar com
+ coelhinhos e estou fora daqui.}
+{226}{}{Jules me disse para vir aqui se eu estivesse procurando por alguma... açao.}
 {227}{}{Estou buscando por alguma... ação.}
-{228}{}{Actually, I'd like to ask you some questions.}
-{229}{}{You know, I've been finding magazines named "Cat's Paw" throughout the desert, and I have no
- idea what they are. I have one right here.}
-{230}{}{Here's that collection of Cat's Paw magazines you asked for.}
+{228}{}{Na verdade, gostaria de lhe fazer algumas perguntas.}
+{229}{}{Voce sabe, eu tenho encontrado revistas chamadas "Garra da Gata" por todo o deserto, e nao tenho ideia
+ do que sao. Eu tenho uma aqui.}
+{230}{}{Aqui esta aquela coleçao de revistas Guarra da Gata que voce pediu.}
 {231}{}{Nada por hoje, valeu.}
-{240}{}{(The pretty lady puts the palm of her hand on your forehead.) Oh, you poor thing... you can stay in here
- for a little while to get in from the heat, but you can't be here too long, okay? Promise me now.}
-{241}{}{Okayy, pretty ladee fank you}
-{245}{}{(Smiles and winks.) Is that so? Well, then, you've come to the right place. Whatever your pleasure or
- fantasy, we can provide it... and don't be shy, we've heard it all. So, what would you like?}
-{246}{}{Well, pardon me for coming on strong, but I'd like to get to know YOU better. What time do you get off?
- Uh, work, I mean.}
+{240}{}{(A moça bonita coloca a palma da mao na sua testa.) Oh, coitadinho... voce pode ficar aqui um pouco para sair
+ do calor, mas nao pode ficar muito tempo, ok ? Me prometa.}
+{241}{}{Ok, linda moçaa, gosto de voce}
+{245}{}{(Sorri e pisca.) E mesmo? Bem, entao, voce veio ao lugar certo. Seja qual for o seu prazer ou fantasia, podemos
+ satisfazer... e nao seja timido, já ouvimos detudo. Entao, do o que voce gostaria?}
+{246}{}{Bem, me desculpe por ser direto, mas eu gostaria de te CONHECER melhor. Que horas voce sai? Uh, do trabalho,
+ quero dizer.}
 {247}{}{Depende... qual é o menu?}
-{248}{}{I'd like to hook up my friend here with a little something special.}
+{248}{}{Gostaria de surpreender meu amigo com algo especial.}
 {249}{}{Eu quero fazer uma surpresa para um dos meus amigos. É o... uh, aniversário dele.}
 {250}{}{Eu queria fazer algumas perguntas...}
-{251}{}{Actually, I've changed my mind. Performance anxiety and all. Goodbye.}
-{255}{}{I'm flattered, but... no. I can't.}
-{256}{}{Aw, c'mon. Just a drink. No pressure. We'll have a great time.}
-{257}{}{Look, if you don't like women, that's fine. Hell, I don't like most women I meet. We have something in
- common already.}
-{258}{}{Hey, don't worry... I won't wear the power armor, okay?}
+{251}{}{Na verdade, eu mudei de ideia. Coisa da ansiedade e tals. Falou.}
+{255}{}{Estou lisonjeada, mas... nao. Nao posso.}
+{256}{}{Ah, vamos, apenas uma bebida. Sem crise. Nos vamos nos divertir muito.}
+{257}{}{Olha, se voce nao gosta de mulheres, tudo bem. Droga, eu nao gosto da maioria das mulheres que conheço, ja
+ temos algo em comum.}
+{258}{}{Ei, nao se preocupe... Eu nao vou usar a power armor, ok?}
 {259}{}{Certo então, mas eu gostaria de fazer mais alguma perguntas.}
-{260}{}{Sorry, didn't mean to pressure you. Goodbye.}
-{265}{}{(Looks around, then leans in and whispers.) Look... come back after
- you've done what you've had to do to save your people, and then we'll talk, okay?}
+{260}{}{Desculpe, nao quis te pressionar. Adeus.}
+{265}{}{(Olha em volta, depois se inclina e sussurra.) Olhe... volte depois de ter
+ feito o que deve fazer para salvar seu povo, e então conversaremos, ok?}
 {266}{}{Tudo bem, entao. Eu tinha outras perguntas...}
-{267}{}{It's a date. See you then.}
-{275}{}{Well...(Ticks off the menu on her fingers.)...we have honey loving, the dipstick swirl, humjobs, and various
- other exotica. (Smiles.) Question is, what are YOU in the mood for?}
+{267}{}{E um encontro. Nos vemos entao.}
+{275}{}{Bem... (Marca o menu em seus dedos.)... nos temos o amor de mel, anoes de calcinha, mamadas vibratorias, e varios
+ outros exoticos. (Sorri.) A pergunta e: para que voce esta com vontade?}
 {276}{}{Eu gostaria de alguma... atenção oral.}
-{277}{}{Just some basic, raunchy, low-down, dirty sex oughta do me just fine.}
-{278}{}{I'd like a full upper and lower body workout.}
-{279}{}{Is it okay if I just, you know, talk with them?}
-{280}{}{I have a special... dramatic... request.}
+{277}{}{Apenas um pouco de sexo basico, ousado, visceral e sujo deve me fazer muito bem.}
+{278}{}{Eu gostaria de um treino completo, da parte superior a inferior do corpo.}
+{279}{}{Tudo bem se eu apenas, voce sabe, falar com elas?}
+{280}{}{Tenho um... pedido especial... dramatico.}
 {290}{}{Tudo bem, então. }
-{291}{}{(Winks.) That'll be no charge.}
-{292}{}{That'll be }
-{293}{}{Done. Here's the money.}
-{294}{}{Can't argue about that price. Let's do it.}
+{291}{}{(Pisca.) Isso nao sera cobrado.}
+{292}{}{Isso sera }
+{293}{}{Feito. Aqui esta o dinheiro.}
+{294}{}{Nao posso discutir sobre esse preço. Vamos fazer isso.}
 {295}{}{Não importa. Eu queria fazer mais perguntas...}
 {296}{}{Eu não tenho todo dinheiro... talvez outra hora.}
-{320}{}{Why, of course you can. We call it the "Kesting special." }
-{322}{}{Only costs }
-{323}{}{Why do you call it that?}
-{325}{}{Sounds like a deal. I'll take that then.}
+{320}{}{Bem, e claro que voce pode. Nos o chamamos de "Especial Kesting". }
+{322}{}{So custa }
+{323}{}{Por que se chama assim?}
+{325}{}{Parece um bom acordo. Escolho esse.}
 {326}{}{Talvez em outra hora. Eu gostaria de fazer algumas perguntas...}
-{335}{}{Well... rumor has it there was once an employee of a famous computer company who enjoyed talking with
- others. (Shrugs.) }
-{336}{}{By coincidence, he also only made }
-{337}{}{By coincidence, he also made no money at all, so talking was all he could afford.}
-{338}{}{Oh. Well, sign me up for the talking session then. Here's the }
+{335}{}{Bem... ha rumores de que era uma vez um funcionario de uma famosa empresa de informatica que gostava de conversar
+ com os outros. (Encolhe os ombros.)}
+{336}{}{Por coincidencia, ele também só fez }
+{337}{}{Por coincidencia, ele nao ganhou nenhum dinheiro, entao falar era tudo que ele podia pagar.}
+{338}{}{Oh. Bem, entao me inscreva para uma sessao de bate-papo. Aqui esta o }
 {340}{}{Acho que passo. Eu gostaria de fazer algumas perguntas...}
 {350}{}{Sim?}
-{351}{}{Well, there's no harm in asking...}
-{352}{}{All right. (Smiles.) Answers might cost you, though...}
-{353}{}{Sure. What questions did you have?}
-{354}{}{I heard some of your girls are chosen to go... visit Myron.}
-{355}{}{Jules told me to come here for some... action.}
-{361}{}{Actually, I better be going.}
-{375}{}{Chances are that we can accommodate you. Your request would be...?}
-{376}{}{I'd like my partner to dress up in a Vault jumpsuit, call me the "Vault Dweller," and I've got to find
- their "Vault Sex-Teen."}
-{377}{}{I'd like to be "captured" by some ravishing she-mutant, then be forced to take a dip in her mutating "vat."}
-{378}{}{I'd like to play the role of "Herk," a nubile young slave stolen from his village by a band of lusty
- female slavers. Here's the catch... he can only communicate using his BODY.}
-{379}{}{I'd like to play the role of "Zena," a nubile young slave stolen from her village by a band of
- slavers. Here's the catch... she can only communicate using her BODY.}
-{380}{}{I'd like to be "captured" by a sarcastic mutant lieutenant, interrogated roughly, then dunked
- in his mutating vats.}
-{381}{}{You have any girls that look like Angela Bishop? I need to work off some excitement.}
-{382}{}{You have any girls that look like Mrs. Bishop? I need to work off some excitement.}
+{351}{}{Bem, nao tem problema em perguntar...}
+{352}{}{Tudo bem. (Sorri.) Mas respostas podem te custar...}
+{353}{}{Claro. Que perguntas voce quer fazer?}
+{354}{}{Ouvi dizer que algumas de suas garotas foram escolhidas para... visitar Myron.}
+{355}{}{Jules me disse para vir aqui para alguma... açao.}
+{361}{}{Na verdade, e melhor eu ir.}
+{375}{}{Com certeza iremos atender voce. E seu pedido seria...?}
+{376}{}{Eu gostaria que meu parceiro se vestisse com um macacão do Vault, me chamasse de "Vault Dweller", e
+ eu tenho que encontrar o "Vault da putaria".}
+{377}{}{Eu gostaria de ser "capturado" por alguma mulher mutante toda fortona, entao ser forçado a dar um mergulho em seu "tanque" mutante.}
+{378}{}{Eu gostaria de fazer o papel de "Herk", uma jovem escrava inocente roubada de sua aldeia por um bando de
+ mulheres escravagistas selvagens. E tem um problema... ela so pode se comunicar usando seu CORPO.}
+{379}{}{Eu gostaria de fazer o papel de "Zena", uma jovem escrava inocente roubada de sua aldeia por um bando
+ de traficantes de escravos. E tem um problema... ela so pode se comunicar usando seu CORPO.}
+{380}{}{Eu gostaria de ser "capturado" por um tenente mutante sarcastico, interrogado grosseiramente e depois
+ mergulhado em seus tanques mutantes.}
+{381}{}{Voce tem alguma garota que se pareça com Angela Bishop? Eu procuro um pouco mais de emoçao.}
+{382}{}{Voce tem alguma garota que se pareça com a Sra. Bishop? Eu preciso de um pouco mais de emoçao.}
 {383}{}{Em vez disso eu gostaria de fazer algumas perguntas...}
-{384}{}{Actually, Nevermind. I've got to go.}
-{395}{}{Of course. (Scans your companions.) Which one?}
-{396}{}{Could you take care of Lenny? I don't think he's ever even kissed a girl.}
-{397}{}{You got anyone who can, uh, "handle" Marcus?}
-{398}{}{This little pervert Myron here.}
-{399}{}{"Bone Nose" here, if you catch my drift. Heh heh.}
-{400}{}{Cassidy here. I think it's been a while.}
-{401}{}{Vic. "Trader" Vic.}
-{402}{}{Can one of your girls read the dictionary to Robobrain? It stimulates his brain center.}
-{403}{}{Doc's looking to take a "temperature" or two.}
+{384}{}{Na verdade, nao importa. Eu tenho que ir.}
+{395}{}{E claro. (Examina seus companheiros.) Qual deles?}
+{396}{}{Voce poderia cuidar de Lenny? Acho que ele nunca beijou uma garota.}
+{397}{}{Voce tem alguem que possa, uh, "lidar" com Marcus?}
+{398}{}{Este pervertido do Myron aqui.}
+{399}{}{"O nariz de osso" aqui, se voce me entende. Heh heh.}
+{400}{}{Cassidy aqui. Deve ta na seca a muito tempo.}
+{401}{}{Vic. "Comerciante" Vic.}
+{402}{}{Uma de suas garotas pode ler um dicionario para Robobrain? Estimula seu modulo cerebral.}
+{403}{}{Doc esta querendo tirar a "temperatura" de uma ou duas dessas dai.}
 {404}{}{Davin poderia ganhar muito mais... experiência.}
-{405}{}{Miria wants to take a walk on the wild side.}
-{406}{}{Actually, no one, thanks.}
-{407}{}{Dex here. Better keep an eye on him though, he can get a little out of control.}
-{408}{}{Cat Jules here. Watch out though, he might bite the girls.}
+{405}{}{Miria quer dar um passeio pelo lado mais selvagem.}
+{406}{}{Na verdade, ninguem, obrigado.}
+{407}{}{Dex aqui. Melhor ficar de olho nele, ele pode ficar um pouco fora de controle.}
+{408}{}{Gato Jules aqui. Cuidado, ele pode morder as meninas.}
 {409}{}{Kitsune here. Hopefully you can satisfy her Asian needs, if you know what I mean.}
 {420}{}{This your friend here? (Looks your companion up and down, nods.) I think we can accommodate you... }
 {421}{}{(Looks your companion up and down, nods.) I think we can accommodate you... }
