@@ -255,24 +255,24 @@
 {546}{}{Voce esta falando comigo? Voce esta falando comigo?!}
 {547}{}{::Olha para você com os olhos encharcados de droga::}
 {548}{}{Cara, nao olhe agora, mas tem um mutante te seguindo.}
-{549}{}{Whoa. I must be taking some baaad shit... I'm seeing mutants running around.}
-{550}{}{Am I high, or is your friend two-stories tall?}
-{551}{}{::Laughs:: Your mutant has a vise growing out of his shoulder.}
-{552}{}{Uh... that a mutant, or am I high?}
-{553}{}{Your big friend looks really fucked up.}
-{554}{}{Yer big friend looks all yellowy and shit. ::Giggles::}
-{555}{}{That big guy with you for real? He looks like a mutant.}
-{556}{}{You wanna fly with me? How about your mutant friend?}
-{557}{}{You messin' with me, mutant lover? I'm a Jet-pumped powerhouse! I'll kick your ASS!}
-{558}{}{You want some of this, mutant lover?! Huh?}
-{560}{}{Man, don't look now, but you got this tribal following you.}
-{561}{}{Whoa. Check out that tribal. Big bone.}
-{562}{}{Whoa. Does your friend know he has a bone growing out of his nose?}
-{563}{}{Whoa. I must be taking some baaad shit... I just saw this guy with a bone growing out
- of his nose.}
-{564}{}{Am I high, or has your friend got a bone growing out of his nose?}
-{565}{}{Better tell your friend that somebody shoved a bone up his nose.}
-{566}{}{I can barely see you down there, I'm so high.}
+{549}{}{Eta porra, acho que tomei merda demais... Estou vendo mutantes correndo por ai.}
+{550}{}{Eu chapei demais, ou seu amigo tem o tamanho de um sobrado assim mesmo?}
+{551}{}{::Risos:: Seu mutante tem um torno crescendo em seu ombro.}
+{552}{}{Uh... isso eum mutante, ou estou chapado?}
+{553}{}{Seu amigao parece bem fodido.}
+{554}{}{Seu amigao ai parece todo amarelado de merda. ::Risadas::}
+{555}{}{Aquele grandao com voce e de verdade? Ele parece um mutante.}
+{556}{}{Voce quer chapar comigo? E o seu amigo mutante?}
+{557}{}{Ta me tirando, amorzinho de mutante? Eu sou foderoso bombada a jet! Vou chutar sua bunda!}
+{558}{}{Voce quer um pouco disso, amante mutante?! Huh?}
+{560}{}{Cara, nao olhe agora, mas tem um tribal seguindo voce.}
+{561}{}{Opa, olhe essa tribo. Osso grande.}
+{562}{}{Huum, seu amigo sabe que tem um osso crescendo no nariz?}
+{563}{}{Eta porra, tomei merda demais... Acabei de ver um cara com um osso crescendo no
+ nariz.}
+{564}{}{Chapei muito ou seu amigo tem um osso crescendo no nariz?}
+{565}{}{E melhor dizer ao seu amigo que alguem enfiou um osso no nariz dele.}
+{566}{}{Nem consigo te ver ai embaixo de tao alto que estou.}
 {567}{}{Por que voce sao dois? Esse e teu gemeo?}
 {568}{}{Huh? Voce e real?}
 {569}{}{Estou tao chapado que... uh, o que eu estava dizendo?}
@@ -282,14 +282,14 @@
 {573}{}{Se voce ver Renesco, diga que eu darei o dinheiro amanha.}
 {574}{}{A merda do Jagged Jimmy é a MELHOR. Te deixa tao alto que voce NUNCA quer descer.}
 {575}{}{Voce esta falando comigo? Voce esta falando comigo?!}
-{576}{}{You messin' with me? I'm a Jet-pumped powerhouse! I'll kick your ASS!}
+{576}{}{Ta me tirando? Eu sou foderoso bombada a jet! Eu vou chutar sua bunda!}
 {577}{}{Voce quer um pouco disso?! Huh?}
 {578}{}{::Olha para você com os olhos encharcados de droga::}
-{600}{}{Nice...}
+{600}{}{Daora...}
 {601}{}{Mmmm...}
 {602}{}{Você é um amigo.}
 {603}{}{j}
 {604}{}{J}
-{605}{}{Give me a J... ummm...}
-{796}{}{! KICK ASS!! WHAT'S NEXT, BABY, WHAT'S NEXT?!!!}
+{605}{}{Me de um J... ummm...}
+{796}{}{! FODA DEMAIS!! QUEM E O PROXIMO, CARINHA. QUEM?!!!}
 {871}{}{ familia? Pode me passar algum jet?}
