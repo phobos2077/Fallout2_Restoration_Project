@@ -1,15 +1,15 @@
-{100}{}{You see Miss Kitty.}
-{150}{}{You see a stunning woman. Despite her... revealing dress, her bearing is professional and businesslike.}
-{200}{}{First quarter revenues are up slightly... now, if we account for the increased tribute...}
-{201}{}{If I catch her taking Jet, even a *whiff,* she's out of here...}
-{202}{}{Monthly physicals are coming around again... right in time for the new caravan season.}
-{203}{}{Need to get some more girls for that pool party at Bishop's...}
-{204}{}{Damn Macrosoft spreadsheets...}
-{205}{}{Spend so much time updating these spreadsheets, I don't get any REAL work done.}
-{206}{}{Jules better send some horny... and wealthy... people this way soon.}
-{215}{}{(The woman before you is stunningly beautiful. As you address her, she looks up from her work, and
- smiles.) Ah, a new face! I'm Miss Kitty... welcome to the Cat's Paw.}
-{216}{}{Hello again!}
+{100}{}{Voce ve a senhorita Kitty.}
+{150}{}{Você vê uma mulher deslumbrante. Apesar de seu... vestido revelador, sua postura e seria e profissional.}
+{200}{}{As receitas do primeiro trimestre subiram um pouco... agora, se levarmos em conta o aumento do tributo...}
+{201}{}{Se eu a pegar tomando Jet, mesmo que seja um *cheiro*, ela esta fora daqui...}
+{202}{}{Exames fisicos mensais estao chegando novamente... bem a tempo da nova temporada de caravanas.}
+{203}{}{Precisa conseguir mais garotas para aquela festa na piscina no Bishop's...}
+{204}{}{Malditas planilhas da Macrosoft...}
+{205}{}{Gasto tanto tempo atualizando essas planilhas que nao consigo fazer nenhum trabalho REAL.}
+{206}{}{E melhor Jules mandar algumas pessoas excitadas... e ricas... por aqui logo.}
+{215}{}{(A mulher diante de voce e incrivelmente bonita. Quando voce vai em sua direçao, ela interrompe seu trabalho e sorri.)
+ Ah, um novo rosto! Eu sou a Senhorita Kitty... bem vindo a Garra da Gata.}
+{216}{}{Ola outra vez!}
 {217}{}{Why, if it isn't Reno's most famous prizefighter!}
 {218}{}{I wondered when Mr. }
 {219}{}{My, my, if isn't the star of the golden screen.}

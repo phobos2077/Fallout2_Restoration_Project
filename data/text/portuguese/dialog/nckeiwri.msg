@@ -63,29 +63,28 @@
 {420}{}{Bom garoto. Droga, se descobrirmos quem fez isso com ele...}
 {421}{}{Alguma ideia de quem possa ter feito isso?}
 {422}{}{Bem, espero que encontre o assassino. Tchau, Keith.}
-{430}{}{Lotta other families sell Jet, coulda been any one of them. Mordino's got the most Jet dealers, though,
- cause they make the most Jet. Me, I'm bettin' it was one of them.}
-{431}{}{What dealers do you suspect?}
-{432}{}{Can you tell me a little about Richard?}
-{440}{}{Bunch of 'em: Jagged Jimmy J on 2nd Street, that old sonuvabitch Renesco in the West End... and Jules
- deals, too, at th' fronta town, but mostly to dumb tourists. Then there's Little Jesus Mordino.}
-{441}{}{Little Jesus Mordino?}
-{442}{}{Can you tell me a little more about Richard?}
-{443}{}{Thanks for the info, Keith.}
-{450}{}{Quiet kid, clean kid. Kept outta trouble, and for a Wright, that's something. We buried
- him on the Golgotha plains a while ago, but even so, Mom still don't want his room disturbed.
- It's hard for her to let go, y'know?}
-{451}{}{Which room was his? Do you think your mother would mind if I looked in there?}
-{452}{}{Any dealers you suspect may have given him the Jet?}
-{454}{}{Buried in Golgotha, huh? Hmmm. Thanks for the info, Keith.}
-{460}{}{His room? It's the empty one next to Mom's room, the second one down from the kitchen. As fer looking around... well... look, don't stay
- long... and don't mess the place up, or Mom'll pop a clip if she finds out.}
-{461}{}{Thanks, Keith. I won't be long.}
-{470}{}{Hold on. (Knocks on door behind him.) Pa? (He sticks his head in, there's some mumbling, then he comes back and nods at the door.)
- You ken go in, but watch out. Dad's in a pissy mood.}
+{430}{}{Muitas outras familias vendem Jet, poderia ser qualquer uma delas. Mordino tem o maior numero de traficantes de
+ Jets, porque eles fazem mais. Eu, aposto que foi um deles.}
+{431}{}{Suspeita de algum traficante?}
+{432}{}{Voce pode me falar um pouco sobre Richard?}
+{440}{}{Bando deles: Jagged Jimmy J na Segunda Rua, aquele velho filho da puta do Renesco no Oeste... e Jules tambem
+ negocia de frente na cidade , mas principalmente para turistas burros. Ah, e tem o Pequeno Jesus Mordino.}
+{441}{}{Pequeno Jesus Mordino?}
+{442}{}{Voce pode me contar um pouco mais sobre Richard?}
+{443}{}{Obrigado pela informaçao, Keith.}
+{450}{}{Garoto quieto, garoto limpo. Mantido fora de problemas, e para um Wright, isso e bom. Nos o enterramos nas planicies de Golgota ha algum tempo, mas mesmo assim, mamae ainda nao quer que seu quarto
+ seja mudado. E dificil para ela deixar ir, sabe?}
+{451}{}{Qual quarto era o dele? Voce acha que sua mae se importaria se eu olhasse la dentro?}
+{452}{}{Algum revendedor que voce suspeite pode ter lhe dado o Jet?}
+{454}{}{Enterrado na Golgota, hein? Hmmm. Obrigado pela informaçao, Keith.}
+{460}{}{Quarto dele? E o vazio ao lado do quarto da mamae, o segundo da cozinha. Quanto a olhar em volta... bem... olhe, nao fique muito tempo... e nao estrague
+ o lugar, ou mamae vai ficar maluca se descobrir.}
+{461}{}{Obrigado, Keith. Eu nao vou demorar.}
+{470}{}{Aguenta ai. (Batida na porta atras dele.) Pai? (Ele enfia a cabeça para dentro, ha alguns resmungos, entao ele volta e acena para a porta.) Voce pode entrar,
+ mas cuidado. Papai esta de mau humor.}
 {471}{}{Obrigado.}
-{480}{}{He's Big Jesus' son. A bastard, more like. He mighta caught Richard alone, then pumped him fulla
- Jet outta spite. You looking for him, check out the Desperado. Little Jesus hangs out there with his old man.}
-{1220}{}{. What's goin' on?}
-{1252}{}{. Everybody treating you all right? Anything I can do for you?}
-{1253}{}{. We owe you big, and the Wrights always pay their debts. What can I do for you?}
+{480}{}{Ele e filho do Grande Jesus. Um bastardo, como o pai. Ele pode ter pego Richard sozinho, entao enfiado jet
+ a força. Se quiser procurar por ele, confira o Desperado. O pequeno Jesus anda por ai com seu velho.}
+{1220}{}{. O que esta acontecendo?}
+{1252}{}{. Todo mundo te tratou bem? Algo que eu possa fazer por voce?}
+{1253}{}{. Devemos muito a voce, e os Wrights sempre pagam suas dividas. O que posso fazer por voce?}
