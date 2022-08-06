@@ -110,35 +110,35 @@
 {406}{}{Na verdade, ninguem, obrigado.}
 {407}{}{Dex aqui. Melhor ficar de olho nele, ele pode ficar um pouco fora de controle.}
 {408}{}{Gato Jules aqui. Cuidado, ele pode morder as meninas.}
-{409}{}{Kitsune here. Hopefully you can satisfy her Asian needs, if you know what I mean.}
-{420}{}{This your friend here? (Looks your companion up and down, nods.) I think we can accommodate you... }
-{421}{}{(Looks your companion up and down, nods.) I think we can accommodate you... }
+{409}{}{Kitsune aqui. Espero que voce possa satisfazer as necessidades asiaticas dela, se e que me entende.}
+{420}{}{Este seu amigo aqui? (Olha seu companheiro de cima a baixo, acena com a cabeça.) Acho que podemos ajudar... }
+{421}{}{(Olha seu companheiro de cima a baixo, acena com a cabeça.) Acho que podemos ajudar... }
 {422}{}{ pratas.}
-{423}{}{Don't worry about the money. There's no charge.}
-{424}{}{Okay. Here you go.}
-{425}{}{Can't argue with that price. Done.}
+{423}{}{Nao se preocupe com o dinheiro. E de graça.}
+{424}{}{OK. Vamos la.}
+{425}{}{Nao posso discutir com esse preço. Feito.}
 {426}{}{Talvez mais tarde... Olha, eu gostaria de fazer outras perguntas.}
-{427}{}{Hmmm. Maybe some other time when I have enough cash.}
-{428}{}{Actually, I've changed my mind. Goodbye.}
-{440}{}{(Looks surprised.) Let me see. (Glances at magazine.) Well, well... you know, I had heard a rumor that
- - in the pre-war years -- the Cat's Paw was a publishing house... for pornographic materials.}
-{441}{}{For pornogru - porn-o-gra - pornu - uh, a publishing house, you said?}
-{442}{}{This place was a publishing house?}
-{450}{}{Yes... the rooms here were used for film shoots with models from across the world. (Seems entranced by the magazine.)
- Quite a little piece of history you have there.}
-{451}{}{Well, you know, I just read this for the articles.}
-{452}{}{I'm just glad to know what the damn thing is. It's irritating to keep examining it and getting
- that same message over and over. I'll probably STILL get it even though it's identified now.}
-{460}{}{You know... if you can bring me a complete set... say, ten issues, I'll buy them from you. They'd be good for
- a display, might attract customers. Are you interested?}
+{427}{}{Hmmm. Talvez outra hora quando eu tiver dinheiro suficiente.}
+{428}{}{Na verdade, mudei de ideia. Adeus.}
+{440}{}{(Parece surpreso.) Deixe-me ver. (Olha para a revista.) Bem, bem... sabe, eu tinha ouvido um boato de que - nos
+ anos pré-guerra - a Garra da Gata era uma editora... de materiais pornograficos.}
+{441}{}{Pornugra - por no grafico - pornu - uh, uma editora, voce disse?}
+{442}{}{Este lugar era uma editora?}
+{450}{}{Sim... as salas aqui foram usadas para filmagens com modelos de todo o mundo. (Parece encantada pela revista.) Você tem aqui
+ um belo pedaço de história.}
+{451}{}{Bem, sabe, eu so li isso para os artigos.}
+{452}{}{Estou feliz em saber que porra e essa. E irritante passar por isso varias vezes e receber a mesma mensagem
+ toda vez. Embora eu tenha certeza que AINDA saira, mesmo que já esteja identificado.}
+{460}{}{Entao... se voce puder me trazer um conjunto completo... digamos, dez ediçoes, eu compro de voce. Eles seriam
+ bons para uma exibição, poderiam atrair clientes. Te interessa?}
 {461}{}{Se eu puder ENCONTRAR tantos... Olha, eu tenho outras perguntas...}
-{462}{}{Actually, I happen to have ten right here.}
+{462}{}{Na verdade, eu tenho as dez aqui.}
 {463}{}{Sure. If I come across that many, I'll be sure to stop by.}
-{470}{}{Wonderful! I'll give you $500 for the set.}
-{471}{}{$500? After collecting ALL of these? No way. Make it a thousand.}
-{472}{}{Sounds good. Here you go. But hey, careful with number five... the pages look like they are glued together.}
+{470}{}{Maravilhoso! Te dou 500 dolares pelo conjunto.}
+{471}{}{$500? Depois de achar tudo isso? Sem chance. Por mil.}
+{472}{}{Parece bom, aqui esta. Mas ei, cuidado com a numero cinco... as paginas parecem que estao coladas.}
 {473}{}{Não, eu prefiro ficar com eles ... olha, eu tenho outras perguntas...}
-{474}{}{No thanks, I've become attached to them. Maybe some other time.}
+{474}{}{Nao, obrigado, gostei muito delas. Talvez outra hora.}
 {480}{}{Hmmmmm. Seven fifty, and you got a deal.}
 {481}{}{$750? All right, then. They're yours.}
 {482}{}{Então eu fico com eles. Olha, eu tenho algumas perguntas...}
