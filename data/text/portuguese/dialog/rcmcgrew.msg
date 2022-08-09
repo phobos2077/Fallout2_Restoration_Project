@@ -167,7 +167,7 @@
  off steam now and then, but they don't mean nothing by it.}
 {226}{}{I could see that. Let me ask you about something else going on here in town.}
 {227}{}{Someone needed to break it up was all. Let me ask you about something else.}
-{228}{}{Not a problem. Goodbye.}
+{228}{}{Sem problemas. Adeus.}
 {229}{}{I sure wish you hadn't put my miners behind bars like that. They were just letting off some
  steam.}
 {230}{}{They started the fight; I had to end it. Let me ask you about something else going on here

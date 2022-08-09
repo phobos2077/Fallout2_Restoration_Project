@@ -133,33 +133,33 @@
  bons para uma exibição, poderiam atrair clientes. Te interessa?}
 {461}{}{Se eu puder ENCONTRAR tantos... Olha, eu tenho outras perguntas...}
 {462}{}{Na verdade, eu tenho as dez aqui.}
-{463}{}{Sure. If I come across that many, I'll be sure to stop by.}
+{463}{}{Claro. Se eu encontrar varias, passarei por aqui.}
 {470}{}{Maravilhoso! Te dou 500 dolares pelo conjunto.}
 {471}{}{$500? Depois de achar tudo isso? Sem chance. Por mil.}
 {472}{}{Parece bom, aqui esta. Mas ei, cuidado com a numero cinco... as paginas parecem que estao coladas.}
 {473}{}{Não, eu prefiro ficar com eles ... olha, eu tenho outras perguntas...}
 {474}{}{Nao, obrigado, gostei muito delas. Talvez outra hora.}
-{480}{}{Hmmmmm. Seven fifty, and you got a deal.}
-{481}{}{$750? All right, then. They're yours.}
+{480}{}{Hmmmmm, 750, e voce tem um acordo.}
+{481}{}{$750? Tudo bem entao. Sao suas.}
 {482}{}{Então eu fico com eles. Olha, eu tenho algumas perguntas...}
-{483}{}{Forget it. Maybe some other time.}
-{490}{}{Here you go. (Counts out the money, hands it to you.) Thanks again.}
+{483}{}{Esqueça. Talvez outra hora.}
+{490}{}{Aqui esta. (Conta o dinheiro, entrega a voce.) Obrigado novamente.}
 {491}{}{Entao, eu tinha outras perguntas...}
-{492}{}{Not a problem. Goodbye.}
-{500}{}{Really? (Examines No. 5, then goes through the rest of your stack.) Hmmmm. Well, it looks like you have
- two of them, so you can have this one back... but let me get the stain out first.}
-{501}{}{Okay. Uh... by the way, that stain isn't mine. I have no idea how it got there.}
-{502}{}{Okay. Are you sure you can get that stain out? It looks glued in there pretty tight.}
-{510}{}{Happens all the time around here...(Miss Kitty starts cleaning the magazine.)...mostly to the sheets. That
- should do it...(Holds it up.)...good issue - has an article on energy weapons, it looks like. Here you go.}
+{492}{}{Sem problemas. Adeus.}
+{500}{}{Serio? (Examina a nº 5, depois continua o resto a pilha.) Hmmmm. Bem, parece que voce tem duas delas, entao voce
+ pode ter essa de volta... mas deixe eu tirar essa mancha primeiro.}
+{501}{}{OK. Uh... a proposito, essa mancha nao e minha. Nao faço ideia de como foi parar la.}
+{502}{}{OK. Tem certeza que consegue tirar essa mancha? Parece bem colada.}
+{510}{}{Acontece o tempo todo por aqui... (Senhorita Kitty começa a limpar a revista.)...principalmente com os lençois.
+ Isso deve dar... (Segura.)... um bom numero - tem um artigo sobre armas de energia, parece. Aqui esta.}
 {511}{}{Eu tenho mais algumas perguntas...}
-{512}{}{An article on energy weapons? Thanks. I might read it later on.}
-{520}{}{(As you speak, she looks up, startled.) You! You came back! I... I thought you might be dead. (She looks
- relieved.) I was so *worried.* Risking your life, taking on the Enclave... that's the bravest thing I've ever heard.}
-{521}{}{(As you speak, she looks up, startled.) You! I've heard about you. (Her face beams with admiration.) Risking
- your life, taking on the Enclave... that's the bravest thing I've ever heard.}
-{522}{}{! I'm glad you've come back again. Just having a hero like yourself around does wonders for business:
- risking your life, taking on the Enclave... That's the bravest thing I've ever heard.}
+{512}{}{Um artigo sobre armas de energia? Obrigado. Talvez eu leia mais tarde.}
+{520}{}{(Enquanto voce fala, ela olha para cima, assustada.) Voce! Voce voltou! Eu... eu pensei que voce pudesse estar morto.
+ (Ela parece aliviada.) Eu estava tao *preocupada*. Arriscar sua vida, enfrentar a Enclave... essa e a coisa mais corajosa que eu já ouvi.}
+{521}{}{(Enquanto voce fala, ela olha para cima, assustada.) Voce! Já ouvi falar de voce. (O rosto dela brilha com admiraçao.)
+ Arriscar sua vida, enfrentar a Enclave... essa e a coisa mais corajosa que eu ja ouvi.}
+{522}{}{! Estou feliz que voce voltou novamente. So de ter um heroi como voce por perto faz maravilhas aos negocios:
+ arriscar sua vida, enfrentar a Enclave... Essa e a coisa mais corajosa que ja ouvi.}
 {523}{}{Shucks, Miss Kitty. It taint nothing nobody else wouldnta done in mah place.}
 {524}{}{Daaaaamn right, baby. And that's the bravest thing you're ever gonna hear, cause I'm the BADDEST of
  the bad.}
