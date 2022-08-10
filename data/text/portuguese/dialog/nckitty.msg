@@ -160,78 +160,77 @@
  Arriscar sua vida, enfrentar a Enclave... essa e a coisa mais corajosa que eu ja ouvi.}
 {522}{}{! Estou feliz que voce voltou novamente. So de ter um heroi como voce por perto faz maravilhas aos negocios:
  arriscar sua vida, enfrentar a Enclave... Essa e a coisa mais corajosa que ja ouvi.}
-{523}{}{Shucks, Miss Kitty. It taint nothing nobody else wouldnta done in mah place.}
-{524}{}{Daaaaamn right, baby. And that's the bravest thing you're ever gonna hear, cause I'm the BADDEST of
- the bad.}
-{525}{}{It was nothing that any pissed-off woman who had her village kidnapped wouldn't have done.}
-{526}{}{And that's the bravest thing you're EVER gonna hear about, cause I'm the BADDEST bitch
- in the wastes.}
-{527}{}{Thanks. Just doing my job as a heroine.}
-{528}{}{Thanks. Just doing my job as a hero.}
-{529}{}{Kicking ass and taking names, that's my job.}
-{545}{}{You are so humble. }
-{546}{}{You are so strong. So... confident. }
-{547}{}{I LOVE that about you. (Makes sweeping gesture at Cat's Paw.) You are always welcome here, free of charge.}
-{548}{}{So... how about that date we talked about way back when?}
-{549}{}{So... how about... you know, you and me... like... you know.}
-{550}{}{Baby, I got to feeling like a machine, and that's no way to feel. C'mere.}
+{523}{}{Que nada, Senhorita. Kitty. Qualquer um teria feito o mesmo no meu lugar.}
+{524}{}{Aaahhh certo, querida. E essa e a coisa mais corajosa que voce vai ouvir, porque eu sou o PIOR dos piores.}
+{525}{}{Nao foi nada que qualquer mulher puta da vida que teve sua aldeia sequestrada nao teria feito.}
+{526}{}{E essa e a coisa mais corajosa que voce vai ouviu falar, porque eu sou a vadia MAIS LOUCAÇA dessa buceta
+ de deserto.}
+{527}{}{Obrigado. Apenas fazendo meu trabalho como uma heroina.}
+{528}{}{Obrigado. Apenas fazendo meu trabalho como um heroi.}
+{529}{}{Chutar cus e pegar muierada, esse e o meu trabalho.}
+{545}{}{Voce e tao humilde. }
+{546}{}{Voce e tao forte. Tao confiante. }
+{547}{}{EU AMO isso em voce. (Faz um gesto para a Garra da Gata.) Voce e sempre bem vindo aqui, de graça.}
+{548}{}{E… e aquela data que falamos ha algum tempo?}
+{549}{}{Entao... e que... voce sabe, voce e eu... tipo... voce sabe.}
+{550}{}{Querida, eu comecei a me sentir como uma maquina, e nao vai ficar so nisso. Venha.}
 {551}{}{Ótimo! Olha, eu tinha algumas perguntas antes se me permitir...}
-{552}{}{Thanks. I appreciate it, Miss Kitty.}
-{553}{}{I expect nothing less. I'll collect later.}
-{565}{}{All right then, }
+{552}{}{Obrigado. Eu agradeço, Srta. Kitty.}
+{553}{}{Nao espero nada menos. Eu passarei mais tarde.}
+{565}{}{Tudo bem entao, }
 {566}{}{...deixa que eu pegue meu casaco.}
-{567}{}{No rush. Take your time.}
-{568}{}{Good thing I've got my "coat" in my pocket. Heh-heh.}
-{569}{}{Sure. But hurry up... we've got reservations at eight. In my PANTS.}
-{570}{}{Sure. But hurry up... you and my tongue got reservations at eight.}
+{567}{}{Sem pressa. No seu tempo.}
+{568}{}{Ainda bem que tenho o meu "casaco" no bolso. Heh heh.}
+{569}{}{E claro. Mas corra… temos uma reserva para oito. Nas minhas CALÇAS.}
+{570}{}{Claro. Mas se apresse.. voce e minha lingua temos reservas as oito.}
 {575}{}{Oh, }
-{576}{}{, you Enclave-smashing animal...}
-{577}{}{::Bwanbwan-bwan-ba-bwan oookwaka oookwaka::}
-{585}{}{(Nods.) Yes, that's correct. We usually have to train them extensively to suppress their natural
- revulsion. It's almost a rite of passage now. Still, if a girl can abide Myron, it means she's tough...}
-{586}{}{I'd like to meet him. Think I could volunteer to be his next "choice?"}
+{576}{}{, voce e uma besta destruidora da Enclave...}
+{577}{}{::Bwanbwan-bwan-ba-bwan obatataka oookwaka::}
+{585}{}{(Acena.) Sim, esta correto. Geralmente temos que treina-las extensivamente para eliminar sua repulsa
+ natural. E quase um rito de passagem agora. Ainda assim, se uma garota pode suportar Myron, isso significa que ela é durona...}
+{586}{}{Eu gostaria de conhece-lo. Acho que eu poderia me voluntariar para ser sua proxima "escolha?"}
 {587}{}{Entendo. Eu tenho outras perguntas...}
-{588}{}{Hmmmm. Thanks for the information.}
-{595}{}{(Studies you, then makes a circling gesture with her finger.) Turn around for me. Hmmmm... }
-{596}{}{no, I don't think you'd make the cut. Maybe if you cleaned yourself up a little more, made
- yourself... presentable. Sorry.}
-{597}{}{yes... yes, I think you'd do just fine. Are you interested in the job? All of my other girls
- are... sick of it.}
+{588}{}{Hmmmm. Obrigado pela informaçao.}
+{595}{}{(Estuda voce, depois faz um gesto circular com o dedo.) Vire-se para mim. Hummm... }
+{596}{}{nao, eu nao acho que voce passaria. Talvez se voce se limpasse um pouco mais, se tornasse... apresentável.
+ Desculpe.}
+{597}{}{sim... sim, acho que voce se sairia bem. Voce esta interessado no trabalho? Todas as
+ minhas outras garotas estao... cansadas disso.}
 {598}{}{Com certeza.}
 {599}{}{Hmmmph. Eu tenho outras perguntas...}
 {600}{}{Não, eu posso perguntar novamente mais tarde. Eu tenho ouras perguntas...}
-{610}{}{(Nods.) Excellent. One of the Mordino lieutenants should be showing up soon. If you want to take a
- seat, I'll present you as one of the... applicants.}
+{610}{}{(Acena.) Excelente. Um dos tenentes Mordino deve aparecer em breve. Se quiser se sentar, vou apresenta-lo
+ como uma das... candidatas.}
 {611}{}{Certo então... Vou esperar por ele.}
 {612}{}{Na verdade, esqueça. Eu tenho outras perguntas...}
 {613}{}{Não importa... Eu mudei de ideia. Talvez outra hora.}
-{620}{}{(Looks you up and down, then nods.) I think we can accommodate you... }
-{621}{}{(Looks your companion up and down, then nods.) I think we can accommodate your friend... }
-{623}{}{(Winks.) There's no charge, so don't sweat the money.}
-{700}{}{Oooooh-yeah.}
-{701}{}{Shag-a-riffic.}
-{702}{}{Wow. That was deep.}
+{620}{}{(Olha voce de cima a baixo, depois acena com a cabeça.) Acho que podemos te acomodar... }
+{621}{}{(Olha seu companheiro de cima a baixo, depois assente.) Acho que podemos acomodar seu amigo... }
+{623}{}{(Pisca.) E gratis, entao nao se preocupe com o dinheiro.}
+{700}{}{Oooooh-sim.}
+{701}{}{Im-presionante.}
+{702}{}{Uau. Isso foi profundo.}
 {703}{}{Wow.}
-{704}{}{*Whew*}
-{705}{}{Heh... I sure hope I didn't get her pregnant.}
+{704}{}{*Ufa*}
+{705}{}{Heh... Espero nao ter engravidado ela.}
 {706}{}{Não é o mesmo quando seu sangue ainda está quente, você sabe?}
 {707}{}{Espero que você tenha tomado notas.}
 {708}{}{As meninas ficaram muito loucas desde o fim do mundo ... Eu escavo isso.}
 {709}{}{... e é por isso que as bebês costumavam me chamar de "Dex, o duque do sexo".}
-{710}{}{You talk for hours. The girls at the Cat's Paw have amazing insight into human nature.}
-{711}{}{The Mordino lieutenant arrives, and seems impressed with you. He leads you north out of
- town to someplace called the "Stables."}
-{720}{}{*whistles*}
-{721}{}{*clap clap clap*}
-{722}{}{Way to go!}
+{710}{}{Voce fala por horas. As garotas da Garra da Gata tem uma visao incrivel da natureza humana.}
+{711}{}{O tenente Mordino chega e parece impressionado com voce. Ele te leva para o norte, fora da cidade,
+ para um lugar chamado "Estabulos".}
+{720}{}{*assobios*}
+{721}{}{*aplausos*}
+{722}{}{Assim se faz!}
 {723}{}{Wahoo.}
-{730}{}{*sob sob sob*}
-{731}{}{I feel so... so cheated...}
-{740}{}{*Grunt*}
+{730}{}{*soluço*}
+{731}{}{Eu me sinto tao... tao enganada...}
+{740}{}{*Grunhido*}
 {750}{}{*Aaawoooo*}
 {760}{}{*Bzzzt*}
-{770}{}{Way to go, Boss! Ain't had sex myself in a loooooong time.}
-{800}{}{You delivered the Cat's Paw magazines to Miss Kitty.}
-{900}{}{You feel more coordinated and in tune with your body now.}
-{1218}{}{ would send you over...(Winks.)}
-{1336}{}{ chips a week.}
+{770}{}{Muito bom, chefe! Eu nao faço sexo ha muito tempo.}
+{800}{}{Voce entregou as revistas Garra da Gata para Srta. Kitty.}
+{900}{}{Você se sente mais coordenada e em sintonia com seu corpo agora.}
+{1218}{}{ mandaria voce assim... (Pisca.)}
+{1336}{}{ fichas por semana.}

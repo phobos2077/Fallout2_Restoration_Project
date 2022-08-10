@@ -1,19 +1,19 @@
-{100}{}{You see Mrs. Bishop.}
-{101}{}{You see a screaming Mrs. Bishop.}
-{150}{}{You see an attractive middle-aged woman. She looks bored.}
-{151}{}{You see Mrs. Bishop. She looks distracted, and she is staring off into the distance.}
-{200}{}{(The woman turns to face you. She is quite attractive, with a low cut dress made out of Gold Gecko
- skin. She studies you for a moment, then frowns.) Yes, what is it?}
-{201}{}{(Frowns slightly.) Yes? What is it this time?}
-{203}{}{Knock-knock}
-{204}{}{(Stare at her breasts and drool.)}
+{100}{}{Voce ve a Sra. Bishop.}
+{101}{}{Voce ve a Sra. Bishop gritando.}
+{150}{}{Voce ve uma mulher atraente de meia idade. Ela parece entediada.}
+{151}{}{Voce ve a Sra. Bishop. Ela parece distraida, e esta olhando para longe.}
+{200}{}{(A mulher se vira para voce. Ela e bastante atraente, tem um vestido decotado feito de pele de Gecko Dourado.
+ Ela o estuda por um momento, depois franze a testa.) Sim, o que e?}
+{201}{}{(Fraze a testa ligeiramente.) Sim? O que e desta vez?}
+{203}{}{Toc-toc}
+{204}{}{(Olha para os seios e fica com cara de tonto.)}
 {205}{}{Cai fora}
 {206}{}{Quem é você?}
-{207}{}{I wanted to ask you some questions, Mrs. Bishop.}
-{208}{}{Sorry, I thought you were someone else. Goodbye.}
-{210}{}{*What?*}
-{211}{}{Knock-KNOCK!}
-{212}{}{(Stare at her breasts and drool.)}
+{207}{}{Queria fazer algumas perguntas, Sra. Bishop.}
+{208}{}{Desculpe, pensei que voce fosse outra pessoa. Adeus.}
+{210}{}{*Que?*}
+{211}{}{¡Toc-TOC!}
+{212}{}{(Olha para os seios e fica com cara de tonto.)}
 {215}{}{(Blinks.) Who's there?}
 {216}{}{Boo}
 {217}{}{Me forget}
