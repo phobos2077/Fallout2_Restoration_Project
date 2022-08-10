@@ -14,28 +14,28 @@
 {210}{}{*Que?*}
 {211}{}{¡Toc-TOC!}
 {212}{}{(Olha para os seios e fica com cara de tonto.)}
-{215}{}{(Blinks.) Who's there?}
-{216}{}{Boo}
-{217}{}{Me forget}
-{218}{}{Who where?}
-{220}{}{(She seems puzzled.) Boo who?}
-{221}{}{Boo hoo? No cry, pretty lady! HA HA HA HA HA HA HA Hah Hahhh... hoooo... u get it?}
-{225}{}{(She glares daggers at you.) Leave at once before I have you shot, you insipid insect.}
-{226}{}{Boo... HOO... hee-hee-hee-hee... Boo who? Boo HOO! HA HA HA HA HA...}
-{227}{}{Me no instooppid incest...*snfff*...me funneee... MOM sayz so...*snfff*...}
-{230}{}{(She follows your eyes down to her breasts. She flushes angrily, opens her mouth... then pauses.) You're
- not terribly bright... (Studies your frame.) However, you are quite... strong. Come with me a moment.}
-{231}{}{(She follows your eyes down to her breasts. She flushes angrily, opens her mouth... then pauses.) You're
- not terribly bright... (Studies your face.) However, you do have a certain... charm. Come with me a moment.}
-{232}{}{(She follows your eyes down to the curvature of her breasts. Her tone becomes glacial.) Subtlety isn't
- your strong suit, is it? (She looks at you in disgust.) Leave before I have you shot.}
+{215}{}{(Pisca.) Quem esta aí?}
+{216}{}{Buuu}
+{217}{}{Eu esqueço}
+{218}{}{Quem onde?}
+{220}{}{(Ela parece confusa.) Buu quem?}
+{221}{}{Buuuu? Nao chore, moça bonita! HA HA HA HA HA HA HA Hah Hahhh... hoooo... voce entendeu?}
+{225}{}{(Te dar um olhar raivoso.) Saia imediatamente antes que eu mate voce, seu inseto insípido.}
+{226}{}{Buu... HUU... hee-hee-hee-hee... Buu who? Buu HOO! HA HA HA HA HA...}
+{227}{}{Eu sem incesto insipiii...*snfff*...eu riooo... MOM diz so...*snfff*...}
+{230}{}{(Ela segue seus olhos ate os seios. Ela cora furiosamente, abre a boca... depois faz uma pausa.) Voce nao e muito
+ brilhante... (Estuda seu corpo.) No entanto, voce e bastante... forte. Venha comigo um momento.}
+{231}{}{(Ela segue seus olhos ate os seios. Ela cora furiosamente, abre a boca... depois faz uma pausa.) Você nao e muito
+ inteligente... (Estuda seu rosto.) No entanto, voce tem um certo... charme. . Venha comigo um momento.}
+{232}{}{(Ela segue seus olhos ate a curvatura de seus seios. Seu tom se torna glacial.) Sutileza nao e seu forte, e? (Ela olha
+ para voce com nojo.) Vaá embora antes que eu mate voce.}
 {233}{}{(A segue.)}
-{234}{}{We go good place?}
-{235}{}{You go. Me stay}
+{234}{}{Vamos a um bom lugar?}
+{235}{}{Voce vai. Eu fico}
 {236}{}{Desliga}
-{240}{}{(She smiles faintly.) Yes. *Very* good place. Now come along.}
-{245}{}{(She frowns, and her face reddens.) Get out of here before I have you shot.}
-{246}{}{Sorreee... me go}
+{240}{}{(Ela sorri levemente.) Sim. *Muito* bom lugar. Agora venha.}
+{245}{}{(Ela franze a testa, e seu rosto fica vermelho.) Saia daqui antes que eu mate voce.}
+{246}{}{Descupaaa... eu vou}
 {250}{}{(She raises an eyebrow.) I think *I* should be the one asking that question. (She crosses her arms.)
  I am Leslie Anne Bishop. }
 {251}{}{My husband is the head of the Bishop family here in New Reno. And YOU are...?}
