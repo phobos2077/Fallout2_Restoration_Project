@@ -36,18 +36,18 @@
 {240}{}{(Ela sorri levemente.) Sim. *Muito* bom lugar. Agora venha.}
 {245}{}{(Ela franze a testa, e seu rosto fica vermelho.) Saia daqui antes que eu mate voce.}
 {246}{}{Descupaaa... eu vou}
-{250}{}{(She raises an eyebrow.) I think *I* should be the one asking that question. (She crosses her arms.)
- I am Leslie Anne Bishop. }
-{251}{}{My husband is the head of the Bishop family here in New Reno. And YOU are...?}
-{252}{}{My late husband was the head of the Bishop family here in New Reno. And YOU are...?}
+{250}{}{(Ela levanta uma sobrancelha.) Acho que *eu* deveria fazer essa pergunta. (Ela cruza os braços.) Eu sou
+ Leslie Anne Bishop.}
+{251}{}{Meu marido e o chefe da familia Bishop aqui em New Reno. E voce e...?}
+{252}{}{Meu falecido marido era o chefe da familia Bishop aqui em New Reno. E voce e...?}
 {253}{}{Meu nome é }
-{254}{}{I am a simple traveler.}
-{255}{}{I'm a traveler, looking for Vault 13. Have you heard of it?}
+{254}{}{Sou um simples viajante.}
+{255}{}{Eu sou um viajante, procurando a Vault 13. Voce ja ouviu falar dela?}
 {256}{}{Sou um viajante... você sabe onde posso encontrar um negócio chamado 'Kit de Criação do Jardim do Éden?'}
-{257}{}{Look, maybe I better be going. Goodbye.}
+{257}{}{Olha, talvez seja melhor eu ir. Adeus.}
 {260}{}{Sim?}
-{261}{}{Can you tell me about Mr. Bishop?}
-{262}{}{Can you tell me about the Bishop Family?}
+{261}{}{Voce pode me falar sobre o Sr. Bishop?}
+{262}{}{Voce pode me falar sobre a Familia Bishop?}
 {263}{}{Have you ever heard of a place called Vault 13?}
 {264}{}{Do you know where I could find something called the 'Garden of Eden Creation Kit?'}
 {265}{}{Deixa pra lá. É melhor eu ir.}
