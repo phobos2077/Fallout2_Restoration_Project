@@ -47,6 +47,7 @@
 #include "../headers/doors.h"
 
 import variable i_vortis_obj;
+#define vortis_alive (i_vortis_obj > 0)
 
 /********************************************************************
    Any time that a critter tries to use this door will call this
@@ -60,7 +61,7 @@ procedure use_p_proc begin
    Traps_Roll:=roll_vs_skill(source_obj,SKILL_TRAPS,Trap_Bonus);
 
    ndebug("i_vortis_obj : " + i_vortis_obj);
-   if (obj_in_party(source_obj) and local_var(LVAR_Vortis_Warn) < 2 and (i_vortis_obj > 0)) then begin
+   if (obj_in_party(source_obj) and local_var(LVAR_Vortis_Warn) < 2 and vortis_alive) then begin
       ndebug("past case");
       script_overrides;
       set_local_var(LVAR_Vortis_Warn, local_var(LVAR_Vortis_Warn)+1);
@@ -116,7 +117,7 @@ procedure use_skill_on_p_proc begin
 
    Skill_Used:=action_being_used;
 
-   if (obj_in_party(source_obj) and local_var(LVAR_Vortis_Warn) == 0 and (i_vortis_obj != -1 or i_vortis_obj != 0)) then begin
+   if (obj_in_party(source_obj) and local_var(LVAR_Vortis_Warn) == 0 and vortis_alive) then begin
       script_overrides;
       set_local_var(LVAR_Vortis_Warn, 1);
       add_timer_event(i_vortis_obj, 0, VORTIS_TIMER_DOOR_CHECK);
@@ -159,7 +160,7 @@ procedure use_obj_on_p_proc begin
 
    Tool:=obj_pid(obj_being_used_with);
 
-   if (obj_in_party(source_obj) and local_var(LVAR_Vortis_Warn) == 0 and (i_vortis_obj != -1 or i_vortis_obj != 0)) then begin
+   if (obj_in_party(source_obj) and local_var(LVAR_Vortis_Warn) == 0 and vortis_alive) then begin
       script_overrides;
       set_local_var(LVAR_Vortis_Warn, 1);
       add_timer_event(i_vortis_obj, 0, VORTIS_TIMER_DOOR_CHECK);
@@ -182,7 +183,7 @@ procedure damage_p_proc begin
 
  if (weapon_dmg_type(target_obj) == DMG_explosion) then begin
    // added by killap
-   if (i_vortis_obj > 0) then begin
+   if vortis_alive then begin
      script_overrides;
      set_map_var(MVAR_Slavers_Attack, 1);
    end
