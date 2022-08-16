@@ -41,8 +41,8 @@
   Apesar.}
 {134}{}{Já que você tem dois deles, talvez você poderia me dar um.}
 {135}{}{Não. Não. Não conseguiria fazer isso. Não seria correto terminar sua busca facilmente. Há mais alguns
-  daquele jeito. Vá buscar o seu próprio. [Ele aponta uma direção da mesma maneira que você apontou quando você
-  disse-lhe onde estava a Granada Mágica de Antioquia.]}
+ daquele jeito. Vá buscar o seu próprio. [Ele aponta uma direção da mesma maneira que você apontou quando você
+ disse-lhe onde estava a Granada Mágica de Antioquia.]}
 {136}{}{[FIM]}
 {200}{}{Você fala a língua do rei?}
 {201}{}{Hellooo.}

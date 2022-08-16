@@ -1,4 +1,4 @@
-{100}{}{Você vê brilhante, brilhante homem de lata.}
+{100}{}{Você vê um brilhante e resplandecente homem de lata.}
 {101}{}{Um soldado de armadura.}
 {102}{}{Um soldado em algum novo tipo de armadura de energia, você teria que adivinhar.}
 {103}{}{Você acredita nisso? Eu tenho o dever KP novamente!}

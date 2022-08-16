@@ -3,7 +3,7 @@
 {102}{}{Don't think I've seen you around before, stranger. The name's Smith. Help
  you with something?}
 {103}{}{Was there something else you wanted?}
-{104}{}{Can you tell me about Vault City?}
+{104}{}{O que voce pode me falar sobre Vault City?}
 {105}{}{O que você faz por aqui?}
 {106}{}{Estou a procura da Vault.}
 {107}{}{Eu gostaria de ajudá-lo com esse arado.}

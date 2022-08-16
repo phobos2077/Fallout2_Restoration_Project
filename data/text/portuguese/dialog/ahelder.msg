@@ -15,7 +15,7 @@
 {113}{}{Uh.}
 {114}{aeld3}{Escolhido, você nos deseja todos mortos? Você deve encontrar o Vault!}
 {115}{}{Desculpe, Ancião. Eu não vou falhar.}
-{116}{}{Sim Sim. Pare de gritar.}
+{116}{}{Sim, tá bom. Pare de gritar.}
 {117}{aeld4}{Escolhido, por que você está aqui?}
 {118}{}{Eu sei onde o Vault 13 está!}
 {119}{}{Estou pronto para a santa missão.}

@@ -71,7 +71,7 @@
 {170}{}{Você sabe me dizer onde fica o Computador Central?}
 {171}{}{I need some healing.}
 {172}{}{O que você faz aqui?}
-{173}{}{Can you tell me about Vault City?}
+{173}{}{O que voce pode me falar sobre Vault City?}
 {174}{}{Actually, never mind. Thanks anyway.}
 {175}{}{Oh, Dr. Troy can be pretty strict sometimes, but all in all, he's a good man. Vault City's fortunate to have him.}
 {176}{}{Well, he asked me to smuggle some drugs into the city for him.}

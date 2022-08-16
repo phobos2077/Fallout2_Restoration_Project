@@ -241,7 +241,7 @@
  de onde esta.}
 {534}{}{Que porra aconteceu com o seu amigo com o cérebro? Ele perdeu o corpo dele?}
 {535}{}{DIZ pra mim que essa coisa de cérebro robótico não é real. Por favor.}
-{536}{}{Ei, olhe para aquele ceebro robo. Maldito seja se isso nao for um cerebro de um viciado.}
+{536}{}{Ei, olhe para aquele cérebro robô. Maldito seja se isso não for um cérebro de um viciado.}
 {537}{}{Voce quer voar comigo? E o seu amigo robo?}
 {538}{}{Voce ta me tirando comigo, pegador de robos? Eu sou o poderoso movido a jet! Eu vou chutar
  a sua bunda e a desse seu robo!}

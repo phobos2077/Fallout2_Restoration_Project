@@ -11,7 +11,7 @@
 {110}{}{My friend Vic here says he bought a water flask from you.}
 {111}{}{Any luck remembering where you got the water flask from?}
 {112}{}{Estou a procura da Vault.}
-{113}{}{Can you tell me about Vault City?}
+{113}{}{O que voce pode me falar sobre Vault City?}
 {114}{}{O que você faz por aqui?}
 {115}{}{Adeus.}
 {116}{}{Vic?}
@@ -50,7 +50,7 @@
 {148}{}{My friend Vic here says he bought a water flask from you.}
 {149}{}{Any luck remembering where you got the water flask from?}
 {150}{}{Estou a procura da Vault.}
-{151}{}{Can you tell me about Vault City?}
+{151}{}{O que voce pode me falar sobre Vault City?}
 {152}{}{O que você faz por aqui?}
 {153}{}{Adeus.}
 {154}{}{Well... there's that Vault inside the main part of the city. You checked it out yet? Could be the one you're looking for.}

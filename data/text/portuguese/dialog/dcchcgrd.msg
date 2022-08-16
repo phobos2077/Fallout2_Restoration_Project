@@ -1,5 +1,5 @@
 {100}{}{Você vê um guarda.}
-{150}{}{O guarda guarda a igreja velha.}
+{150}{}{O guarda protege a igreja velha.}
 {151}{}{[FALAR]}
 {152}{}{Como você se atreve a mostrar o seu rosto novamente!}
 {153}{}{[Feito]}

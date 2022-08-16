@@ -109,7 +109,7 @@
 {1021}{}{Silêncio! Anos de trabalho na escuridão podem ter distorcido meus olhares, mas nesta mente estão os poderes de um deus! Usando a fonte Eu criei tempo, dominei mundos inteiros e ajustei o que não pode ser ajustado!
   Foi eu quem permitiu que o Evil Beth governasse o mundo RPG com meus mods. Tudo o que aconteceu foi feito de acordo com MEUS desejos.}
 {1022}{}{Molho? Que tipo de molho? Você está dizendo que cozinhar é a chave para controlar o universo? O que você disser, chef.}
-{1023}{}{Yeah Yeah. Jeeze, o que você diz. Eu acho que eu vou sair agora.}
+{1023}{}{Sim. Jeeze, o que você diz. Eu acho que eu vou sair agora.}
 {1024}{}{Uh, ok. isso é ótimo. Bem, eu preciso ir..erm ...regar minhas plantas...}
 {1030}{}{Ignorante e tolo. Seu excesso de confiança é sua fraqueza, e minha fé em seus amigos é ... er ... o meu. * parece confuso * Sai da minha vista!}
 {1040}{}{Esperar! Você deixará SE e QUANDO eu decidir. No caso de você não ter notado, você foi extremamente mau em sua busca.

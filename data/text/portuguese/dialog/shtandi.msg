@@ -133,7 +133,7 @@
 {232}{}{Ok.}
 {233}{tand26}{Listen. Lots of folks, me included, like old man Carlson even if we don't agree on New Reno. Something happens to him, we won't take kindly to it. Anyone thinking his or her life would be easier if he was gone is very, very wrong. Understand?}
 {234}{}{Yeah. Me understand.}
-{235}{}{Yes, I understand.}
+{235}{}{Sim, eu entendo.}
 {236}{tand27}{Lord, that was a long time ago! Hardly remember who I was then - just a naive girl. The one you call the Vault Dweller - is he still alive?}
 {237}{}{He ancestor now. Live with spirits. Live in me.}
 {238}{}{The Vault Dweller is my ancestor. He lives on in me.}

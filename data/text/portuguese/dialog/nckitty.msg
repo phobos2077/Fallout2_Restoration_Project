@@ -2,7 +2,7 @@
 {150}{}{Você vê uma mulher deslumbrante. Apesar de seu... vestido revelador, sua postura e seria e profissional.}
 {200}{}{As receitas do primeiro trimestre subiram um pouco... agora, se levarmos em conta o aumento do tributo...}
 {201}{}{Se eu a pegar tomando Jet, mesmo que seja um *cheiro*, ela esta fora daqui...}
-{202}{}{Exames fisicos mensais estao chegando novamente... bem a tempo da nova temporada de caravanas.}
+{202}{}{Exames físicos mensais estão chegando novamente... bem a tempo da nova temporada de caravanas.}
 {203}{}{Precisa conseguir mais garotas para aquela festa na piscina no Bishop's...}
 {204}{}{Malditas planilhas da Macrosoft...}
 {205}{}{Gasto tanto tempo atualizando essas planilhas que nao consigo fazer nenhum trabalho REAL.}
