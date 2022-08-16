@@ -208,165 +208,164 @@
 {515}{}{Intruso! Socorro!}
 {516}{}{Ladrao! Ladrao!}
 {517}{}{Intruso! Guardas! Guardas!}
-{520}{}{(Ela leva voce para cima a um quarto estranho e cheiroso. Chegando la, ela começa a te dar
- instruçoes estranhas que fazem voce se sentir feliz e desconfortavel.) Voce nao quer me tocar?}
+{520}{}{(Ela leva você para cima a um quarto estranho e cheiroso. Chegando lá, ela começa a te dar
+ instruções estranhas que fazem você se sentir feliz e desconfortável.) Você não quer me tocar?}
 {521}{}{hã-ham.}
 {522}{}{hã-hã}
 {525}{}{Hmmmm. Muito bem. Apenas deite na cama e eu farei o resto.}
 {526}{}{EU NAO QUERO e quero ir PA CASA em Arroz-yo.}
-{527}{}{Faz o que ela mandar.}
-{530}{}{(Ela respira fundo e começa a gritar tao alto que doi nos ouvidos! Algo sobre 'gardas'
- e 'ladro' que voce nao consegue entender porque ela esta gritando muito alto.)}
+{527}{}{Faz o que ela manda.}
+{530}{}{(Ela respira fundo e começa a gritar tão alto que dói nos ouvidos! Algo sobre 'gardas'
+ e 'ladro' que você não consegue entender porque ela esta gritando muito alto.)}
 {531}{}{Shhh! Se você não ficar em silêncio, George não me deixará brincar com os coelhos! Shhh!}
 {532}{}{O que tem errado com lados? Para que precisa guardar?}
-{533}{}{Nao grita! Nao grita!}
-{535}{}{Sim eu sei; as fofocas correm rapido em Reno. (Suspira.) Nao importa... Acho que voce
+{533}{}{Não grita! Não grita!}
+{535}{}{Sim eu sei; as fofocas correm rápido em Reno. (Suspira.) Não importa... Acho que você
  descobrira que sou muito mais experiente nas formas de dar prazer a um homem do que ela.
- (Pausa.) Voce usou um preservativo, nao e?}
+ (Pausa.) Você usou um preservativo, não é?}
 {536}{}{Pres... prese... o que?}
 {537}{}{Preservativo?}
-{538}{}{Claro, eu usei do meu inventario. No começo eu nao sabia para que servia. mas depois
+{538}{}{Claro, eu usei do meu inventario. No começo eu não sabia para que servia. mas depois
  imaginei.}
 {539}{}{Hum... Eu REALMENTE deveria ir, Sra. Bishop.}
-{540}{}{Sim, um *preservativo.* (Olha para voce.) Otimo. Simplesmente otimo. (Da de ombros.)
+{540}{}{Sim, um *preservativo.* (Olha para você.) Ótimo. Simplesmente ótimo. (Da de ombros.)
  Ah, bem, talvez eu tenha um neto. Ah bem, pare de falar e venha aqui.}
-{541}{}{Sim, nao e tao obvio quanto voce pensa. Humor de designer, imagino. (Da de ombros.)
+{541}{}{Sim, não e tão obvio quanto você pensa. Humor de designer, imagino. (Da de ombros.)
  Ah, bem. Pare de falar e venha aqui.}
 {542}{}{Mais experiente que Angela, serio isso? Isso eu TENHO que ver.}
 {543}{}{Eu tenho que ir.}
-{545}{}{(Voce se junta a Sra. Bishop para uma bebida em seus aposentos. Voces dois conversam
- um pouco, entao ela se aproxima e começa a passar a mao.)}
+{545}{}{(Você se junta a Sra. Bishop para uma bebida em seus aposentos. Vocês dois conversam
+ um pouco, então ela se aproxima e começa a passar a mão.)}
 {546}{}{[Vai.]}
 {547}{}{Abraça ela...}
-{548}{}{Uh, Sra. Bishop, eu dormi com sua filha. Talvez nao devessemos...}
-{549}{}{Antes de "fazer o negocio", voce nao vai abrir o cofre como sua fil-eh, como de
-
-costume?}
+{548}{}{Uh, Sra. Bishop, eu dormi com sua filha. Talvez não devêssemos...}
+{549}{}{Antes de "fazer o negocio", você não vai abrir o cofre como sua fil-eh, como
+ de costume?}
 {550}{}{Olha, eu realmente deveria ir, Sra. Bishop.}
-{555}{}{Nao. Agora venha aqui.}
+{555}{}{Não. Agora venha aqui.}
 {556}{}{[Vai.]}
 {557}{}{Olha, eu realmente tenho que ir, Sra. Bishop.}
-{560}{}{Oh?! Onde voce tem que ir agora?}
+{560}{}{Oh?! Onde você tem que ir agora?}
 {561}{}{Qualquer lugar.}
-{562}{}{Tenho que me encontrar Jules la na frente para... alguns negocios.}
-{563}{}{Eu tenho que ir encontrar um amigo e nao posso me atrasar.}
-{564}{}{Minhas razoes sao minhas. Adeus, Sra. Bishop.}
+{562}{}{Tenho que me encontrar Jules lá na frente para... alguns negócios.}
+{563}{}{Eu tenho que ir encontrar um amigo e não posso me atrasar.}
+{564}{}{Minhas razões são minhas. Adeus, Sra. Bishop.}
 {565}{}{Tente sair desta sala, e eu gritarei aos guardas.}
 {566}{}{Considerando tudo, provavelmente estou mais seguro com os guardas. Adeus.}
-{567}{}{Eu tenho que encontrar Jules na frente da cidade para uma... alguns negocios... muito em breve.}
-{569}{}{Tudo bem, tudo bem. Eu so queria que voce nao fosse tao duro de conseguir. Venha aqui.}
-{570}{}{Eu so quero que voce saiba que isso e errado, e se eu tivesse uma etica mais forte, 
-eu te daria um sermao fudido. Agora venha aqui.}
-{575}{}{Guardas! Um intruso! Ladrao! Guardas! Intruso na cobertura!}
-{576}{}{Onde? Do que voce esta falando, Sra. Bishop?}
-{577}{}{Porra! Nao acaba mais essa traduçao!}
-{580}{}{Bem. Se voce nao dormir comigo desta vez, quero que saiba que pode vir me ver quando
+{567}{}{Eu tenho que encontrar Jules na frente da cidade para uma... alguns negócios... muito em breve.}
+{569}{}{Tudo bem, tudo bem. Eu só queria que você não fosse tão duro de conseguir. Venha aqui.}
+{570}{}{Eu só quero que você saiba que isso e errado, e se eu tivesse uma ética mais forte, 
+eu te daria um sermão fudido. Agora venha aqui.}
+{575}{}{Guardas! Um intruso! Ladrão! Guardas! Intruso na cobertura!}
+{576}{}{Onde? Do que você esta falando, Sra. Bishop?}
+{577}{}{Porra! Não acaba mais essa tradução!}
+{580}{}{Bem. Se você não dormir comigo desta vez, quero que saiba que pode vir me ver quando
  quiser, e faremos algum tipo de acordo. Entende o que estou querendo
  dizer?}
 {581}{}{Sim. Agora me deixe sair.}
 {582}{}{Sim, eu entendo.}
-{585}{}{(Voces dois saem da sala e a Sra. Bishop o acompanha. Agora descem de volta ao segundo
+{585}{}{(Vocês dois saem da sala e a Sra. Bishop o acompanha. Agora descem de volta ao segundo
  andar.)}
 {586}{}{Ufa.}
-{590}{}{(Voce faz amor. Não e o melhor. Não e o maior. Mas, por um breve
- momento em suas vidas turbulentas, voce e a Sra. Bishop esquecem as crueldades do
+{590}{}{(Você faz amor. Não e o melhor. Não e o maior. Mas, por um breve
+ momento em suas vidas turbulentas, você e a Sra. Bishop esquecem as crueldades do
  mundo e se perdem um no outro...) }
-{591}{}{(E começa o bendito nheco nheco. Depois de acabar toda essa esfregaçao, a Sra. Bishop
+{591}{}{(E começa o bendito nheco nheco. Depois de acabar toda essa esfregação, a Sra. Bishop
  se aconchega ao seu lado, sorrindo satisfeita.) Mmmmm, }
-{592}{}{Voce e o *homem.* (Arrepia.) Aquela coisa que voce faz com a lingua --}
-{593}{}{Voce e a *mulher.* (Arrepia.) Aquela coisa que voce faz com a lingua --}
-{594}{}{Entao... o que voce quer fazer agora?}
+{592}{}{Você é o *homem.* (Arrepia.) Aquela coisa que você faz com a língua --}
+{593}{}{Você e a *mulher.* (Arrepia.) Aquela coisa que você faz com a língua --}
+{594}{}{Então... o que você quer fazer agora?}
 {595}{}{Mmmmm, Leslie.}
-{596}{}{Uh, olhe, apenas CASO alguem esteja nos observando la de cima agora e ouvindo tudo o que
- dizemos e fazemos, e melhor manter alguns segredos para nos mesmos. Entao, vamos
+{596}{}{Uh, olhe, apenas CASO alguém esteja nos observando lá de cima agora e ouvindo tudo o que
+ dizemos e fazemos, e melhor manter alguns segredos para nos mesmos. Então, vamos
  nos distrair com uma conversa intima de travesseiro.}
 {600}{}{(A Sra. Bishop suspira satisfeita e se espreguiça.)}
 {601}{}{Me fale sobre seu marido.}
 {602}{}{Me fale sobre sua filha.}
-{603}{}{Me fale sobre sua familia.}
-{604}{}{Voce nao e de New Reno, e, Sra. Bishop? Voce fala diferente de muita gente por
+{603}{}{Me fale sobre sua família.}
+{604}{}{Você não e de New Reno, e, Sra. Bishop? Você fala diferente de muita gente por
  aqui.}
-{605}{}{Voce e de Vault City?}
+{605}{}{Você e de Vault City?}
 {606}{}{Olhe, e melhor eu ir, Sra. Bishop.}
-{610}{}{(Sra. Bishop franze a testa ligeiramente e puxa os lençois mais apertados ao redor de seu
- corpo.) DEVEMOS falar sobre ele? Nao vamos estragar o clima.}
+{610}{}{(Sra. Bishop franze a testa ligeiramente e puxa os lençóis mais apertados ao redor de seu
+ corpo.) DEVEMOS falar sobre ele? Não vamos estragar o clima.}
 {611}{}{Eu realmente quero saber. Me fale sobre ele.}
-{612}{}{Ok, entao, me diga sobre...}
+{612}{}{Ok, então, me diga sobre...}
 {615}{}{(Ela ri.) Quem se importa? John esta morto. Viva John! O bastardo...}
-{616}{}{Ah! Garanto que John e eu nao temos amor um pelo outro. O pouco que existia se desfez em
- uma quantidade saudavel de rancor. Ele tem suas mulheres, e eu tenho meus... prazeres.}
-{617}{}{Certamente voces dois ainda devem se amar, mesmo que um pouco.}
+{616}{}{Ah! Garanto que John e eu não temos amor um pelo outro. O pouco que existia se desfez em
+ uma quantidade saudável de rancor. Ele tem suas mulheres, e eu tenho meus... prazeres.}
+{617}{}{Certamente vocês dois ainda devem se amar, mesmo que um pouco.}
 {618}{}{Qual e o problema dele com a NCR?}
-{619}{}{What is the deal with him and these 'raiders' I've been hearing about?}
-{620}{}{Do you know what the combination to Bishop's safe is?}
-{621}{}{How about we talk about something else...}
-{625}{}{(Frowns.) I'll leave that to your imagination. Can we *please* drop it? Let's
- talk about something else.}
-{630}{}{Want me to kill him?}
-{635}{}{Oh... that. Well...*yawn*...I think John wants to get in good with themmmm...
- (stretches) ...and then get their help to wipe out the other families.}
-{636}{}{Is that all Bishop wants from NCR?}
-{637}{}{Okay, then, let's talk about something else...}
-{638}{}{I wanted to know some other things about what John's been up to...}
-{645}{}{(Rolls over.) John sent some mercenaries East, near Vault City to 'lean'
- on the city. Wants to try and apply pressure on 'em, make them beg NCR for help.}
-{646}{}{Beg *NCR* for help? Why?}
-{650}{}{Mmmmm... oh... well... (Turns over.) John promised NCR he'd give Vault City to them.
- So he sent out some of his men, told them to act like raiders until Vault City caved.}
-{651}{}{Do you know where these raiders are?}
-{652}{}{Uh... is there any PROOF of this anywhere?}
-{655}{}{No... John probably has a map of their location somewhere around here...
- (Sniffs slightly, rubs nose.) Mmmmm....}
-{657}{}{Let's talk about something else...}
+{619}{}{Qual e o problema dele com esses 'invasores' que eu tenho ouvido falar?}
+{620}{}{Sabe qual e a combinação do cofre de Bishop?}
+{621}{}{Que tal falarmos de outra coisa...}
+{625}{}{(Carranca.) Vou deixar isso para sua imaginação. Podemos *por favor* deixa-lo?
+ Vamos falar de outra coisa.}
+{630}{}{Quer que eu o mate?}
+{635}{}{Oh... aquilo. Bem...*bocejo*...Eu acho que John quer se dar bem com elesmmmm... (estica) ...e então]
+ conseguir a ajuda deles para acabar com as outras famílias.}
+{636}{}{Isso e tudo o que Bishop quer da NCR?}
+{637}{}{Ok, então, vamos falar de outra coisa...}
+{638}{}{Eu queria saber algumas outras coisas sobre o que John tem feito...}
+{645}{}{(Rola.) John enviou alguns mercenários para o leste, perto de Vault City,
+ para ter 'apoio' na cidade. Quer tentar pressiona-los, faze-los implorar por ajuda ao NCR.}
+{646}{}{Implorar ajuda da *NCR*? Por que?}
+{650}{}{Mmmmm... oh... bem... (vira-se.) John prometeu a NCR que daria Vault City a eles. Então ele enviou
+ alguns de seus homens, disse a eles para agirem como invasores ate que Vault City cedesse.}
+{651}{}{Você sabe onde estão esses invasores?}
+{652}{}{Uh... existe alguma PROVA disso em algum lugar?}
+{655}{}{Não... John provavelmente tem um mapa da localização deles em algum lugar por aqui...
+ (Cheira um pouco, esfrega o nariz.) Mmmmm....}
+{657}{}{Vamos falar de outra coisa...}
 {660}{}{, Eu acho... algo assim...}
-{663}{}{Excellent... time to go crack a safe... sleep well, Mrs. Bishop.}
+{663}{}{Excelente... hora de abrir um cofre... durma bem, Sra. Bishop.}
 {665}{}{Oh, }
-{666}{}{Oh. Thanks.}
-{670}{}{(Frowns.) What *about* her? }
-{671}{}{If you're going to talk about the two of you fornicating, I *don't* want
- to hear it. For your sake, I hope you used a condom. }
-{672}{}{Little tramp'll sleep with any tribal that shakes his peace pipe at her...}
-{673}{}{Uh... well... let's talk about something else...}
-{675}{}{(Shrugs slightly.) Nothing to say. Bunch of hired thugs, mercenaries,
- whores, pushers, and slaves...(Rolls over.) ...that's the Bishop 'family.' Wish
- I'd never hooked up with John...}
-{677}{}{Hmmmm. I had some other questions...}
-{680}{}{And yours is? Hmmmph. }
-{681}{}{No, my 'marriage' was not a healthy one. My late husband was in the business
- of accumulating power, and that seldom leaves any room for... anything else.}
-{682}{}{No, my 'marriage' is not a healthy one. My husband is in the business of power,
- and that seldom leaves any room for... anything else.}
-{683}{}{You sound unhappy. You should leave here, go somewhere else.}
+{666}{}{Oh. Obrigada.}
+{670}{}{(Carrancas.) E *sobre* ela? }
+{671}{}{Se você vai falar sobre vocês dois fornicando, eu *não* quero ouvir. Para
+ o seu bem, espero que tenha usado camisinha. }
+{672}{}{Essa vadiazinha vai dormir com qualquer tribal que balançar o cachimbo da paz para ela...}
+{673}{}{Uh... bem... vamos falar de outra coisa...}
+{675}{}{(Da de ombros ligeiramente.) Nada a dizer. Bando de bandidos contratados,
+ mercenários, prostitutas, traficantes e escravos... (rola.) ...essa e a 'familia'
+ Bishop. Queria que nunca tivesse ficado com John...}
+{677}{}{Hmmmm. Eu tinha algumas outras perguntas...}
+{680}{}{E o seu é? Hummm. }
+{681}{}{Não, meu 'casamento' não tem nada saudável. Meu falecido marido estava só querendo
+ acumular poder, e isso raramente deixa espaço para... qualquer outra coisa.}
+{682}{}{Não, meu 'casamento' não é saudável. Meu marido esta só querendo poder, e isso raramente
+ deixa espaço para... qualquer outra coisa.}
+{683}{}{Você parece infeliz, deveria sair daqui, ir para outro lugar.}
 {684}{}{Hmmm. Eu tenho outras perguntas…}
-{690}{}{Why, what a BRILLIANT idea! And where would I go? Into the Wastes to live
- amongst the savages? South, to NCR? Northwest, to Redding, to rent my body to miners?}
-{691}{}{Why is leaving Reno so impossible? You're not a stupid woman. I would think
- that you could pick up any trade you put your mind to.}
-{692}{}{Nevermind then. Look, I had some other questions...}
-{700}{}{I leave, and my husband will bring me back. The Family watches out for their
- own, whether they want to be watched or not.}
-{701}{}{Hmmm. Perhaps I will... now that John had his much-deserved accident.
- (Smiles ruefully.) Maybe I will at that. Reno has become... tiresome. (Thinks.)
- Or maybe it just needs new management...}
+{690}{}{Ora, que ideia BRILHANTE! E para onde eu iria? Para o deserto viver entre os selvagens?
+ Sul, para NCR? Noroeste, para Redding, para vender meu corpo aos mineiros?}
+{691}{}{Por que deixar Reno e tão impossível? Você não e uma mulher estupida. Eu acho que você
+ poderia pegar arrumar qualquer coisa se fizer um bom plano.}
+{692}{}{Deixa pra lá então. Olha, eu tinha algumas outras perguntas...}
+{700}{}{Eu saio e meu marido me traz de volta. A Família cuida dos seus, quer eles queiram ser
+ vigiados ou não.}
+{701}{}{Hmmm. Talvez eu vá... agora que John teve seu merecido acidente. (Sorri
+ pesarosamente.) Talvez eu faça isso. Reno se tornou... cansativa. (Pensa.) Ou
+ talvez só precise de uma nova administração...}
 {702}{}{Entao, eu tinha outras perguntas...}
-{705}{}{No. (She rolls over, mumbles in her sleep.) Don't be an idiot. Soon as people
- find out, you'll be on the run for the rest of your short life.}
-{706}{}{But what if people didn't know it was me?}
-{710}{}{(She stirs, blinks.) What are you TALKING about? Don't talk foolish.}
-{711}{}{I don't know, maybe a trap? Or something that looks like an accident?}
-{712}{}{All right. Look, I had some other questions...}
-{715}{}{(Her eyes snap open.) His safe... he has explosives set up to it if it's tampered
- with. Only if you enter a certain combination is it safe. Of course, if that combination
- was changed... "fixed"... without his knowledge...}
-{716}{}{Hmmmm. Maybe if I "repaired" the lock on his safe... It's something to keep in mind.
- Say, I had some other questions...}
-{720}{}{No, I *don't* talk like everyone around here. It's called an 'education.' (She
- rolls over.) Go to sleep.}
-{721}{}{Where could I get an education?}
-{725}{}{*Yawn*... You're already as smart as I want you to be... now go to sleep. If you're
- pumping me for information, then you're creating a deficit.}
-{726}{}{Deficit? Here in the bed? I did not!}
-{730}{}{(Cracks open one eye.) Who told you that?}
+{705}{}{Não (Ele se vira, resmungando em seu sono). Não seja idiota. Assim que as pessoas descobrirem,
+ voce teria que correr pelo resto de sua curta vida.}
+{706}{}{Mas e se as pessoas não soubessem fui eu?}
+{710}{}{(Ela se mexe, pisca.) Do que você esta FALANDO? Não fale bobagem.}
+{711}{}{Não sei, talvez uma armadilha? Ou algo que pareça um acidente?}
+{712}{}{Tudo bem. Olha, eu tinha algumas outras perguntas...}
+{715}{}{(Seus olhos se abrem.) O cofre dele... ele tem explosivos instalados se for adulterado.
+ Somente se voce inserir uma determinada combinação e seguro. Claro, se essa combinação foi
+ alterada... "consertada"... sem o seu conhecimento...}
+{716}{}{Hmmmm. Talvez se eu "consertasse" a fechadura do cofre dele... E algo para se ter em mente. Olha,
+ eu tinha algumas outras perguntas...}
+{720}{}{Não, eu *não* falo como todo mundo por aqui. E chamado de 'educação'. (Ela se vira.)
+ Va dormir.}
+{721}{}{Onde poderia ter essa educação?}
+{725}{}{*Bocejo*... Você já é tão inteligente quanto eu quero que seja... agora vá dormir. Se você está
+ me tentando conseguir informações de mim, está perdendo seu tempo.}
+{726}{}{Perdendo tempo? Aqui na cama? Eu não!}
+{730}{}{(Abre um olho.) Quem te disse isso?}
 {731}{}{I guessed after I heard you talk about Vault City. You got this nostalgic look
  in your eye.}
 {735}{}{(Her expression crumbles for a moment, then she rolls over so you can't see her.)

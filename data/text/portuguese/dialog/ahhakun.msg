@@ -153,7 +153,7 @@
 {252}{}{Uhh?}
 {253}{hak103}{Sim. Foi. Muitas almas escuras chegaram, montando as aves de metal como um bando de bichos de carniça com fome, escondendo seu mal em peles brilhantes.}
 {254}{}{Ooo! Brilhante Pele!}
-{255}{hak104}{Não! Não muito brilhante! Eles sequestraram o nosso povo e levou-os para o sudoeste.}
+{255}{hak104}{Não! Não muito brilhante! Eles sequestraram o nosso povo e levaram para o sudoeste.}
 {256}{}{Ow.}
 {257}{hak105}{Sim. Uma grande tristeza e dor. Eu estou entre os mundos para contar a você, o Escolhido. Salve o seu povo.}
 {258}{}{Uh?}
