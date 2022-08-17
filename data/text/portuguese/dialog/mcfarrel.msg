@@ -44,7 +44,8 @@
 {194}{}{De qualquer jeito, fico feliz em ajudar.}
 {195}{}{Sendo assim, não poso ajudar, desculpe.}
 {196}{}{Isso seria maravilhoso. Não tenho palavras pra te agradecer. Meu jardim fica a leste. Venha, eu te mostro.}
-{197}{}{Obrigado! Você é realmente um herói. Ninguém arriscaria a vida por um estranho. Obrigado! Obrigado! Obrigado… [Você sente um energia vibrante até o dedão do pé.]}
+{197}{}{Obrigado! Você é realmente um herói. Ninguém arriscaria a vida por um estranho. Obrigado! Obrigado!
+ Obrigado… [Você sente um energia vibrante até o dedão do pé.]}
 {198}{}{Posso lhe fazer mais algumas perguntas?}
 {199}{}{Prefiro passar fome do que manchar meu nome! Vá pro inferno!}
 {200}{}{Todo mundo tá me acusando de roubar o relógio de bolso de ouro do meu melhor amigo, Cornelius. Eu e Cornelius somos amigos desde que me entendo por gente; eu nunca roubaria o relógio. Eu já procurei em todo lugar na esperança de encontrá-lo para que possamos ser amigos novamente, mas não tive sorte.}

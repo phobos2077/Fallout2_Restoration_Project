@@ -2,7 +2,7 @@
 {150}{}{Você vê uma gostosinha. Ela parece estar falando sozinha.}
 {151}{}{Parece que ela está memorizando algumas falas. Ela acaba desistindo, faz um "O" com a boca e começa a balançar a cabeça.}
 {152}{}{Você vê uma atriz porno. Ela te deixa no vaco.}
-{200}{}{Suponho que devo te agradecer por salvar o mundo, mas prefiro dar um metão bem bem selvagem com você.
+{200}{}{Suponho que devo te agradecer por salvar o mundo, mas prefiro dar um metão bem selvagem com você.
  Pode ser?}
 {201}{}{Ouvi dizer que você é o fodão que chutou a bunda da Enclave.}
 {202}{}{Caras que chutam esse governo maligno da Enclave me deixam molhadinha.}

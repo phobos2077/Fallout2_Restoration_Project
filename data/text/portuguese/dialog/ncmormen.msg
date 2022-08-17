@@ -111,7 +111,7 @@
 {405}{}{Fale comigo de novo, e eu te encho tanto de tiros que nem o Super-Homem vai consegui ver através de você.}
 {406}{}{::Cospe no seu pé.::}
 {407}{}{Você acha que pode simplesmente vir aqui e falar com um Mordino? Cai fora.}
-{408}{}{Fale comigo de novo, eu eu mato sua família, seu cachorro e você. Duas vezes.}
+{408}{}{Fale comigo de novo, eu mato sua família, seu cachorro e você. Duas vezes.}
 {409}{}{::Cospe no seu pé.::}
 {410}{}{Você acha que pode simplesmente vir aqui e falar com um Mordino? Cai fora.}
 {411}{}{Fale comigo de novo, puta, e eu te encho tanto de tiros que nem o Super-Homem vai consegui ver através de você.}

@@ -3,7 +3,7 @@
 {102}{}{Você vê um ghoul. Sua pele parece que está pronta para se desprender da criatura. Também 
  parece que é prontamente aceito pelos outros habitantes da cidade.}
 {103}{}{O trabalho da refinaria é difícil.}
-{104}{}{Os mutantes e humanos parecem parecem não estar se suportando.}
+{104}{}{Os mutantes e humanos parecem não estar se suportando.}
 {105}{}{Não gosto de trabalhar perto de ácido.}
 {106}{}{Parece que está cidade está ficando muito cheia.}
 {107}{}{Os humanos não são todos ruins.}
@@ -77,7 +77,7 @@
 {173}{}{Vá embora.}
 {174}{}{Bom trabalho.}
 {175}{}{Que pena que essas pessoas morreram sob a cidade.}
-{176}{}{Me pergunto como aquelas pessoas cavaram os túneis sem que que ninguém tivesse percebido.}
+{176}{}{Me pergunto como aquelas pessoas cavaram os túneis sem que ninguém tivesse percebido.}
 {177}{}{Agora sabemos o que Franc e Manson estavam fazendo.}
 {178}{}{Essas pobres pessoas... e suas pobres famílias.}
 {180}{}{Não me machucar.}

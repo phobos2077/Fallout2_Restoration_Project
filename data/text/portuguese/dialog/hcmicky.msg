@@ -12,7 +12,7 @@
 {111}{}{Bem, na verdade, sim. Eu acho que você seria o parceiro perfeito para uma, como posso dizer, "união empreendedora".}
 {112}{}{Qual é o seu nome?}
 {113}{}{Não importa.}
-{114}{}{Eu? Eu sou o Micky, o alegre e suave Caçador de Tesouros de Broken Hills.}
+{114}{}{Eu? Eu sou o Micky, o alegre e gentil Caçador de Tesouros de Broken Hills.}
 {115}{}{Caçadô?}
 {116}{}{Tchau-tchau.}
 {117}{}{Caçador de tesouros?}

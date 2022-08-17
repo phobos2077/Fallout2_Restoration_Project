@@ -6,8 +6,8 @@
 {220}{}{Ei, }
 {230}{}{De outro passo em direçao a essa porta, e voce vai se arrepender.}
 {240}{}{Ainda não consigo acreditar que papai está morto. Tinha tantas coisas que eu queria ter dito...}
-{250}{}{Escravista, voce veio para o lado errado da cidade. Se nao começar a se explicar, vai acabar entrando
- um um grande problema.}
+{250}{}{Escravista, você veio para o lado errado da cidade. Se não começar a se explicar, vai acabar entrando
+ em um grande problema.}
 {251}{}{Eu nao te conheço, meu pai nao te conhece, e se voce nao começar a explicar, nada disso vai importar mais.}
 {252}{}{Como vai', }
 {253}{}{Obrigado por descobrir quem matou Richard, }

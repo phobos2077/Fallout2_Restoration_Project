@@ -86,8 +86,8 @@
  ver um negocio agora.}
 {309}{}{Ah, camisinha? Claro que sim... que eu me lembre. Digo, tenho certeza. Acho que eu preciso dar uma olhada agora.}
 {315}{}{'}
-{316}{}{(Carranca.) Um simples viajante. Tao explicito e confiante de sua parte. Entao, por favor, diga, o
- que acha acha que posso fazer por voce, "simples viajante?"}
+{316}{}{(Carranca.) Um simples viajante. Tão explicito e confiante de sua parte. Então, por favor, diga, o
+ que acha que posso fazer por você, "simples viajante?"}
 {321}{}{Nada, obrigado. Eu preciso ir.}
 {325}{}{Eu sei onde voce pode encontrar *um* Kit de Criaçao... mas naão vai adiantar muito.
  Ja foi usado.}

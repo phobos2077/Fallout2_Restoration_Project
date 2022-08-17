@@ -130,7 +130,7 @@
  m-melhor também. Até n-unca mais, adeus.}
 {372}{}{Lamento ver você partir, Lenny.}
 {373}{}{Você não pode lidar com isso, hein? Bem, é melhor você arrastar sua carcaça podre antes que me
- me pergunte se vale a pena gastar um cartucho na tua cabeça.}
+ pergunte se vale a pena gastar um cartucho na tua cabeça.}
 {374}{}{*Arroto* Sim, que seja. Acho que você tem outras coisas a fazer, como gastar todo o seu tempo
  tentando lembrar como era ter uma pele que não se parecia com um mendigo atropelado a uns meses
  atrás com o corpo apodrecendo no asfalto. Some daqui, retardado de bosta.}

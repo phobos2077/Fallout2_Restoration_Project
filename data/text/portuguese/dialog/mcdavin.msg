@@ -22,7 +22,8 @@
 {179}{}{Posso lhe fazer mais algumas perguntas?}
 {180}{}{Bem, eu.. é... quero dizer eu… eu… eu supervisiono e cuido das coisas. Afinal sou o filho do dono de tudo aqui. 
  Vou herdar esse lugar quando meu pai morrer.}
-{182}{}{Mentira, só vou no celeiro à noite pra... pra confirmar se está tudo trancado. Sabe como é... com todos esses animais selvagens.}
+{182}{}{Mentira, só vou no celeiro à noite pra... pra confirmar se está tudo trancado. Sabe como é... com todos esses
+ animais selvagens.}
 {184}{}{Papai controla o abatedouro. Ele é legal, considerando que é meu pai. Um conselho se fizer algum negócio com ele.
  Geralmente tem algo a mais em seus acordos do que está explícito.}
 {186}{}{Se quiser conversar de novo, pode voltar.}

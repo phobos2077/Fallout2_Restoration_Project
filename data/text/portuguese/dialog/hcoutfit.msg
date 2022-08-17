@@ -57,7 +57,7 @@
 {151}{}{Não. Adeus!}
 {152}{}{Você terminou? Excelente. Aqui estão seus $ 100, e se precisar de mais alguma coisa, é só me avisar.}
 {153}{}{Cara, volte em uma ou duas horas e ficarei feliz em te vender algo. É que agora estou ocupado
- com esses brahmins. Precisa de mais mais alguma coisa?}
+ com esses brahmins. Precisa de mais alguma coisa?}
 {154}{}{Ele este pegando uma parte maior? Não que eu saiba. Por uma carga de urânio, cobramos $5000
  e recebemos $5000 de volta. Nenhuma parte vai pra lá, pelo menos que eu saiba. Ele mora em um bom
  lugar e sempre parece ter dinheiro no bolso, mas pode ter trazido isso com ele quando veio para vá.}

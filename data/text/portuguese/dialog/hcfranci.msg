@@ -79,8 +79,8 @@
 {202}{}{Obrigado. Tchau.}
 {203}{}{[MAIS]}
 {204}{}{Certo, obrigado. Tchau.}
-{300}{}{Cara, acho que você não saberia usar o que tenho a oferecer. Volte quando você tiver um um 
- pouco mais de experiência em seu currículo.}
+{300}{}{Cara, acho que você não saberia usar o que tenho a oferecer. Volte quando você tiver um pouco mais de
+ experiência em seu currículo.}
 {301}{}{Você vê um super mutante muito corpulento. Ele está vestido de couro preto, possuí uma expressão 
  de tédio estampada em seu rosto. Parece ter algum tipo de manopla saindo de sua bolsa.}
 {302}{}{Você se sente dolorido. Parece que as lembranças de sua visita à Francis vão demorar para saírem.}

@@ -138,7 +138,7 @@ ou quatro.}
 {405}{}{Nao posso te ajudar a proteger os brahmin agora, Torr.}
 {500}{}{Para de machucar moo-moos.}
 {501}{}{Torr ajuda moo-moos.}
-{502}{}{Mulher mau, mau! Nao machuca moo-moos!}
+{502}{}{Mulher mau, mau! Não machuca moo-moos!}
 {503}{}{Vaimbora, Homem mau.}
 {504}{}{Mulher mau, mau! Vaimbora!}
 {505}{}{homens maus, Mau! Nao machuca moo-moos!}

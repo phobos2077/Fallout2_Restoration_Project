@@ -50,7 +50,7 @@
 {229}{}{Nao posso... nao posso continuar assim... isso...}
 {230}{}{Voce viu Jules por aí? Eu preciso de uma correçao.}
 {231}{}{Voce viu Jagged Jimmy J por ai? Eu preciso de uma correçao.}
-{232}{}{Procuro a Farmacia Renesco. Renesco vai armar para mim.}
+{232}{}{Procuro a Farmácia Renesco. Renesco vai armar para mim.}
 {233}{}{O autor desta traduçao esta mais louco que os viciados de New Reno neste momento. Aproveite o game ;)}
 {240}{}{[Canta] Voar voar, Subir subir, Ir por onde for, Descer até o céu cair, Ou mudar de cor, Anjos de gás, Asas de ilusão, E um sonho audaz feito um balão}
 {241}{}{[Canta] No ar no ar eu sou assim, Brilho do farol, Além do mais amargo fim...}

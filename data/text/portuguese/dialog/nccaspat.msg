@@ -99,7 +99,7 @@
 {285}{}{Todos podem ter sorte…}
 {286}{}{Por pouco!}
 {287}{}{Eu faço banco.}
-{288}{}{Eu? Eu faço banco. Olha eu indo.}
+{288}{}{Eu? Eu faço banco. Me veja indo.}
 {289}{}{A Casa ta contra mim.}
 {290}{}{A fortuna ta contra mim.}
 {291}{}{Moça Sortuda, não falha comigo agora.}

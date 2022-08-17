@@ -24,7 +24,7 @@
 {123}{}{É verdade? O antigo governo ainda está promovendo a guerra?}
 {124}{}{Você devia registrar suas viagens no computador de Vault City assim os outros podem ler sobre elas.}
 {125}{}{Você é bem vindo para ficar o quanto você quiser, herói.}
-{126}{}{Você deveria registrar seus feitos heróicos contra a Enclave em uma bela, bela lista.}
+{126}{}{Você deveria registrar seus feitos heróicos contra a Enclave em uma bela e ordenada lista.}
 {127}{}{*Yawn*... hrmnnn? Yes? What is it?}
 {128}{}{It's a little late for visitors.}
 {129}{}{A MAIORIA dos Cidadãos estarão dormindo a esta hora.}

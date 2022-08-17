@@ -1055,7 +1055,7 @@
 {55400}{}{Computador}
 {55401}{}{Um computador muito moderno.}
 {55500}{}{Tanque de suspensão}
-{55501}{}{Algum tipo de aparelho médico ou experimental, que parece conter um um corpo humano ou um corpo bem maior.}
+{55501}{}{Algum tipo de aparelho médico ou experimental, que parece conter um corpo humano ou um corpo bem maior.}
 {55600}{}{Tanque de suspensão quebrado}
 {55601}{}{Um pedaço de material quebrado. É irreparável.}
 {55700}{}{Mainframe}

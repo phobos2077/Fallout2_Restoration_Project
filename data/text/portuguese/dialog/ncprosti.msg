@@ -24,7 +24,7 @@
 {198}{}{Ei, docinho? Alguma vaga pra mim?}
 {199}{}{Quando sai o seu novo filme?}
 {200}{}{Mmmm-mmmm. Belo trabalho, neném.}
-{201}{}{O que você que que EU faça, garotão?}
+{201}{}{O que você que EU faça, garotão?}
 {202}{}{Opa. Eu deixei cair uma coisa na sua calça. Deixa que eu pego.}
 {203}{}{Eu adorei você no Great Balls for Hire.}
 {204}{}{Eu adorei você no Good Will Humping.}

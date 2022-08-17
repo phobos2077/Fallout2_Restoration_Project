@@ -5,7 +5,7 @@
 {111}{}{Ei, vá com calma. Eu só estava brincando. Eu sinto muito. Não me bata, por favor. Alias, gostaria de fazer duas perguntas.}
 {112}{}{Uh, desculpe, Sr. Dunton, Sr. eu vou sair agora.}
 {113}{}{Preciso de algumas informações, e é melhor que me diga.}
-{114}{}{Você e seu irmão!? Tem medo de me encarar sozinho? (cacarejar, cacarejar, cacarejar)}
+{114}{}{Você e seu irmão!? Tem medo de me encarar sozinho? (Có, có, có, có)}
 {120}{}{Basta! É melhor sair ou vou transformar você em carne seca.}
 {121}{}{Ei, eu sinto muito. Eu não queria incomodá-lo. Sou um estúpido. Voltarei mais tarde quando minha presença não incomodar.}
 {122}{}{Oh, okay, Desculpe. Não me bata. Por favor.}
@@ -136,12 +136,14 @@
 {350}{}{Bem, Deixa eu lhe dizer: nossa carne seca é uma incrível mistura de onze ervas e especiarias. É de lamber
  os beiços, os animais adoram também, eles são vão persegui-lo para conseguir um pouco. Deve ser pelo cheiro de podridão.}
 {351}{}{Não há nada parecido com ele em lugar nenhum. É muito es-pe-ci-al e a maioria das pessoas adoram.}
-{352}{}{É GENTE! Hyuk, Hyuk, Hyuk, só queria ver sua cara quando eu dissesse isso. Heck, só compram poucas pessoas. Hyuk, Hyuk.}
+{352}{}{É GENTE! Hyuk, Hyuk, Hyuk, só queria ver sua cara quando eu dissesse isso. Heck, só compram poucas
+ pessoas. Hyuk, Hyuk.}
 {353}{}{É diferente das coisas que a maioria das pessoas estão acostumadas a comer. É bem diferente. Não melhor, apenas diferente.}
 {354}{}{Sem crueldade com os animais. Tudo é carne que encontramos por aí. As vezes levamos tempo para encontra - lá,
  mas, geralmente a encontramos pelo seu fedor.}
 {355}{}{Após um longo dia no curral dos brahmins, tropeçamos em algumas coisas que podem ajudar no sabor.}
-{356}{}{Bem, descobrimos um molho feito especialmente por nós, se é que me me entende, da esse gosto caseiro.}
+{356}{}{Bem, descobrimos um molho feito especialmente por nós, se é que me entende, da esse gosto
+ caseiro. }
 {357}{}{Ele é feito de carne bovina com idade superior a seis meses, e amaciada pelas larvas de moscas varejeira.}
 {358}{}{Incrível. Soa como se você realmente o comesse. Uh, o que eu quero dizer é quem não gostaria né? Yum-yum.}
 {359}{}{Sério! Fascinante. Conte-me mais.}

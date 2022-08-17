@@ -47,8 +47,8 @@
   Eu finalmente descobri o Santo 13. No entanto, estou curioso o que mais você pode saber desses lugares.}
 {290}{}{Eu vou te dizer o que, broto. Você precisa de ajuda para encontrar esses Vaults e preciso de alguém para me mostrar as cordas, por assim dizer,
   neste mundo maluco. Então, o que você diz ... parceiro?}
-{291}{}{Hmm, seu conhecimento dos antigos poderia me ser bastante útil ... Mas, bem, honestamente, eu, eu leio sobre você
-  nesse computador lá, e não tenho certeza se você é o tipo de cara com quem eu gostaria de viajar.}
+{291}{}{Hmm, seu conhecimento dos antigos poderia me ser bastante útil... Mas, bem, honestamente, eu, eu leio sobre você
+ nesse computador lá, e não tenho certeza se você é o tipo de cara com quem eu gostaria de viajar.}
 {292}{}{Eu realmente não tenho tempo para "mostrar-lhe as cordas". Tenho certeza de que você fará bem sozinho, "broto".}
 {293}{}{Eu digo que você tem um negócio... parceiro.}
 {294}{}{Eu não acho que estou ansioso para ir galilando em torno do terremoto com um assassino psicótico. Então você está no seu
@@ -413,8 +413,8 @@ que não podem ser todas verdadeiras.}
   As fatias da lâmina na carne, você sabe o que quero dizer?}
 {1701}{}{Uh... sim, com certeza. Qualquer outra coisa que você pode usar? Sinta-se livre para ser menos assustador sobre isso neste momento.}
 {1702}{}{Bem, meu tio era um daqueles duro-burro. Ele me treinou com pistolas e SMGs e até cheguei
-  em torno de alguns protótipos de armas de energia em que estavam trabalhando. Ele pensou em seguir seus passos e ser um
-  fantoche para o tio Sam, mas eu, eu ... Digamos que desci um caminho diferente.}
+ em torno de alguns protótipos de armas de energia em que estavam trabalhando. Ele pensou em seguir seus passos e ser um
+ fantoche para o tio Sam, mas eu, eu ... Digamos que desci um caminho diferente.}
 {1703}{}{Isso soa bem. Mais alguma coisa?}
 {1704}{}{Fui conhecido por vencer um pouco com bons "ol fisticuffs". Quando eu era adolescente, tentei minha mão no Karate por
 algum tempo, mas eles continuaram me alimentando toda essa merda por ser mais disciplinado, então eu disse a eles para que fossem fodidos. Algo mais que você precisa saber?}

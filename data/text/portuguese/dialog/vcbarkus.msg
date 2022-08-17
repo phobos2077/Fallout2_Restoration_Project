@@ -42,7 +42,7 @@
  Deve ser sua designação do dia. Muito bem. Vou providenciar que alguém te acompanhe até lá.}
 {141}{}{Valt! Valt!}
 {142}{}{Eu tomaria cuidado com esse tipo de assunto se fosse você. Isto NÃO É escravidão. Nós cuidamos destes refugiados,
- e eles tem uma boa vida...melhor do que que teriam no deserto.}
+ e eles tem uma boa vida...melhor do que teriam no deserto.}
 {143}{}{Onde você os consegue?}
 {144}{}{Hum, eu tenho outras questões...}
 {145}{}{Era tudo que eu precisava saber então, obrigado. Bom dia.}

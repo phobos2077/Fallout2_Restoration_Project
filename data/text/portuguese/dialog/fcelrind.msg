@@ -31,7 +31,7 @@
 {139}{}{O desiluminado!}
 {140}{}{Saia de perto de mim, carne maligna!}
 {141}{}{Você claramente está com seus neurodynes ruins!}
-{142}{}{Não! Não me polua com seu ódio!}
+{142}{}{Não! Não me contamine com seu ódio!}
 {143}{}{Guardas! Guardas! O selvagem está aqui!}
 {144}{}{Não me toque!}
 {145}{}{Ajuda!! Guardas!}

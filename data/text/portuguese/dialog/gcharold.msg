@@ -149,7 +149,7 @@
 {248}{}{Saber o que?}
 {249}{}{Já tomei bastante do seu tempo. É melhor eu ir. Adeus.}
 {250}{hld46a}{Bem, estou guardando para um dia chuvoso, mas parece que você vai precisar deles mais do que eu. Aqui, pegue isso.}
-{251}{hld46b}{Eu ia te dar alguns suprimentos de cura, mas mas foda-me se ainda não dei. Acredite em mim, envelhecer destrói sua memória.}
+{251}{hld46b}{Eu ia te dar alguns suprimentos de cura, mas foda-me se ainda não dei. Acredite em mim, envelhecer destrói sua memória.}
 {252}{}{Obrigado. Deixe-me perguntar sobre uma coisa.}
 {253}{}{Obrigado por tudo. É melhor eu ir embora. Até mais.}
 {254}{hld48a}{Sem um regulador hidroelétrico magnetosfera que funcione, estamos vazando refrigerante radioativo nas águas subterrâneas. Agora, isso significa que qualquer um que use essa água não precisa de um abajur para urinar à meia-noite. Além disso, precisamos de mais combustível porque nossa usina não o está queimando da forma eficiente.}

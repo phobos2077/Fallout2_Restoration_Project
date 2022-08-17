@@ -165,7 +165,7 @@
 {540}{}{Desculpe. Eu retorno assim que conseguir entrar na base.}
 {541}{}{Que se dane esse trabalho, que se dane você. Estou fora.}
 {550}{}{Se você NÃO FEZ o que pedi, então POR QUE QUE DIABOS voltou?! Eu preciso que você se infiltre naquela base, então não
- não volte até que tenha conseguido!}
+ volte até que tenha conseguido!}
 {551}{}{Certo. Eu voltarei assim que conseguir entrar lá.}
 {560}{}{Se você voltar aqui de novo e não tiver feito o que pedi, vai servir de exemplo em Golgotha, tribal. NINGUÉM me faz
  perder tempo. Você me entendeu?}
