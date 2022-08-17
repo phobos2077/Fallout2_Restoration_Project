@@ -10,7 +10,8 @@
 {109}{}{Outro waste-baby, hein? Ei, garoto, quer saber um segredo?}
 {110}{}{Claro!}
 {111}{}{Hã-hã.}
-{112}{}{Nos meus dias de corredor, eu ganhei boas corridas, e fiz um bom dinheiro. Há muito tempo, eu escondi todas as minhas economias não muito longe daqui. Se alguém me fizesse um favor ou dois, eu poderia contá-lo onde esse "tesouro" está.}
+{112}{}{Nos meus dias de corredor, eu ganhei boas corridas, e fiz um bom dinheiro. Há muito tempo, eu escondi todas as minhas economias não muito
+ longe daqui. Se alguém me fizesse um favor ou dois, eu poderia contá-lo onde esse "tesouro" está.}
 {113}{}{Conte!}
 {114}{}{Não me importo.}
 {115}{}{Que tipo de tesouro?}

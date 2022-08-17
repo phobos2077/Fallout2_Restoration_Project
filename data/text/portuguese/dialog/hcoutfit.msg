@@ -106,8 +106,10 @@
  que me resta são caravanas. Você pode escoltar uma deles por $200. Temos caravanas para
  Gecko, New California Republic e Vault City. Elas saem uma vez por semana.}
 {190}{}{Owwwwww cacete. Eu limpei meeerda de braaaamin. Tchau tchau.}
-{191}{}{Você quer um trabalho? Bem, vendo como você removeu toda merda dos brâmanes, tudo o que me resta são caravanas. Você pode escoltar uma deles por $200. Temos caravanas para Gecko e Vault City. Elas saem uma vez por semana.}
-{192}{}{Você quer um trabalho? Bem, temos duas opções: cavar esterco de brahmin por um dia por US$100, ou escoltar uma de nossas caravanas por US$200. Temos caravanas para Gecko e Vault City, elas saem uma vez por semana.}
+{191}{}{Você quer um trabalho? Bem, vendo como você removeu toda merda dos brâmanes, tudo o que me
+ resta são caravanas. Você pode escoltar uma deles por $200. Temos caravanas para Gecko e Vault City. Elas saem uma vez por semana.}
+{192}{}{Você quer um trabalho? Bem, temos duas opções: cavar esterco de brahmin por um dia por US$100, ou escoltar
+ uma de nossas caravanas por US$200. Temos caravanas para Gecko e Vault City, elas saem uma vez por semana.}
 {193}{}{Você se tornou um especialista em excrementos!}
 {194}{}{Sua habilidade de conversação aumentou em 5%.}
 {195}{}{Vou ficar com uma caravana.}

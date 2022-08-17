@@ -134,7 +134,8 @@
 {302}{}{$}
 {381}{}{Eu sou uma mulher ocupada, ainda não cheguei nisso.}
 {382}{}{Não me apresse, eu sou uma mulher ocupada. Idiota.}
-{383}{}{Bom, sinto muito, devo ter cometido mansplaining. Mas acho que a sobrevivência da cidade pode ser um pouco mais importante. Apresse-se, sim?}
+{383}{}{Bom, sinto muito, devo ter cometido mansplaining. Mas acho que a sobrevivência da cidade
+ pode ser um pouco mais importante. Apresse-se, sim?}
 {400}{}{Tenho um bilhete com o seu nome, encontrei em uma mulher morta nos túneis. Você tem algum comentário sobre isso?}
 {401}{}{Ei, acabei de receber a nota, pode falar com Francis sobre isso, beleza? Ele que
  escreveu.}

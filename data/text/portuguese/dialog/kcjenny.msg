@@ -1,17 +1,18 @@
 {100}{}{Você vê uma mulher jovem e atraente, mas cansada.}
 {101}{}{Você vê Jenny, uma atendente de banho.}
-{200}{}{Caramba rapaz, essa foi bem rápida. Você deve ser novo nisso... Relaxa um pouco que você vai se divertir mais...}
+{200}{}{Caramba rapaz, essa foi bem rápida. Você deve ser novo nisso... Relaxa um pouco que você vai se divertir
+ mais...}
 {201}{}{Obrigado, Jenny; Acho que preciso de um pouco mais de prática nisso.}
 {210}{}{Isso foi ótimo. Você parece conhecer as mulheres melhor que muitos homens da sua idade.}
 {211}{}{Fico feliz que tenha se divertido tanto quanto eu.}
 {220}{}{Você sabe aguentar bem por muito tempo... Essa é a coisa boa em vocês jovens...
  Eu com certeza gostaria que houvessem mais homens como você na cidade.}
-{221}{}{Eu com certeza adorei este banho, Jenny. Eu poderia ficar um pouco mais se eu não tivesse outras coisas que preciso fazer.}
+{221}{}{Eu com certeza adorei este banho, Jenny. Eu poderia ficar um pouco mais se eu não tivesse
+ outras coisas que preciso fazer.}
 {230}{}{Bem, isso foi diferente. Espero que você volte; Quero experimentar algumas idéias minhas na próxima vez...}
 {231}{}{É bom estar com alguém que entende o que eu preciso, pra variar.}
-{240}{}{Isso com certeza foi divertido. Você poderia ser realmente extraordinária se
- tirássemos você daqueles tribais lá. Eu não me importaria se você ficasse por aqui
- por um tempo, gata. Já pensou em uma mudança de carreira?}
+{240}{}{Isso com certeza foi divertido. Você poderia ser realmente extraordinária se tirássemos você daqueles
+ tribais lá. Eu não me importaria se você ficasse por aqui por um tempo, gata. Já pensou em uma mudança de carreira?}
 {241}{}{Eu me diverti muito também. Eu tenho muitas coisas pra fazer antes de pensar nisso...
  Mas obrigada, de qualquer jeito.}
 {250}{}{Você é diferente da maioria das pessoas por aqui.}
@@ -23,7 +24,8 @@
 {272}{}{(acena) ajuda }
 {273}{}{ bela Enny}
 {274}{}{Mamãe?}
-{280}{}{Humm, Acho melhor que saia daqui antes que Sally Nariz Grande te encontre. Ela não tolera idiotas por aqui.}
+{280}{}{Humm, Acho melhor que saia daqui antes que Sally Nariz Grande te encontre. Ela não tolera idiotas por
+ aqui.}
 {290}{}{O que você gostaria de saber?}
 {291}{}{Me diga o que sabe sobre caçadores.}
 {292}{}{Estou procurando por um comerciante. Conhece algum deles que trata de itens velhos, iguais aos de antigamente?}
@@ -41,8 +43,9 @@
 {311}{}{Bem, obrigado pela informação. Acho que vou indo agora.}
 {312}{}{Conta mais sobre o Vic.}
 {313}{}{Deixa eu te perguntar outra coisa.}
-{320}{}{Vic era realmente um amor. Ele ficava fora por algumas semanas e então voltava com todos os tipos de coisas antigas.
- Mas muitas vezes ele teve que viajar ao Den para vendê-las. Não há muita demanda por este tipo de coisa por aqui.}
+{320}{}{Vic era realmente um amor. Ele ficava fora por algumas semanas e então voltava com todos os tipos
+ de coisas antigas. Mas muitas vezes ele teve que viajar ao Den para vendê-las. Não há muita demanda
+ por este tipo de coisa por aqui.}
 {321}{}{Você sabe onde o Vic está agora?}
 {322}{}{Onde fica o Den?}
 {323}{}{Vic já teve algo rotulado com 'Vault-Tec'?}
@@ -76,7 +79,8 @@
 {382}{}{Hummm, eu adoraria te mostrar, pessoalmente, o quão bem eu posso me mover.}
 {383}{}{Obrigado, mas acho que só preciso fazer algumas perguntas.}
 {384}{}{Estou procurando por informações sobre um comerciante. Ele vende coisas antigas.}
-{390}{}{Vault-Tec? Ele deve ter tido algo assim. Não tenho certeza. Eu sei que ele tinha um monte de coisas realmente velhas.}
+{390}{}{Vault-Tec? Ele deve ter tido algo assim. Não tenho certeza. Eu sei que ele tinha um monte de coisas realmente
+ velhas.}
 {391}{}{Obrigado, Jenny. Deixa eu te perguntar outra coisa...}
 {392}{}{Bem, eu acho que isso é tudo que eu preciso por enquanto.}
 {400}{}{Um Geck? O que é isso? Algum tipo de gecko pequeno, talvez? Desculpe, não sei o que mais poderia ser.}

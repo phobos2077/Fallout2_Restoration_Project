@@ -92,8 +92,10 @@
 {1104}{}{É um posto avançado de troca que fica a alguns dias a leste daqui.}
 {1105}{}{O Vault é o paraíso.}
 {1106}{}{Você é o Escolhido.}
-{1107}{}{Ele nos cura com suas ervas e magia. Ele está localizado ao norte da nossa aldeia.}
-{1108}{}{Ele nos cura com suas ervas e magia. Ele está localizado ao norte da nossa aldeia.}
+{1107}{}{Ele nos cura com suas ervas e magia. Ele está localizado ao
+ norte da nossa aldeia.}
+{1108}{}{Ele nos cura com suas ervas e magia. Ele está localizado ao
+ norte da nossa aldeia.}
 {1109}{}{É um pó mágico que irá curá-lo, mas irá fazer você
   sonolento.}
 {1110}{}{A Grande Ponte sai da nossa aldeia no sul.}

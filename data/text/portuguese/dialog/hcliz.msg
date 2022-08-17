@@ -1,6 +1,7 @@
 {100}{}{Você vê uma mulher com o rosto carrancudo.}
 {101}{}{Você vê Liz, a gerente do Armazém Geral.}
-{102}{}{Você vê uma mulher de meia-idade com uma carranca que cobre seu rosto. Ela parece uma daquelas pessoas que tira um prazer perverso em uma vida difícil.}
+{102}{}{Você vê uma mulher de meia-idade com uma carranca que cobre seu rosto. Ela parece uma daquelas
+ pessoas que tira um prazer perverso em uma vida difícil.}
 {103}{}{Oi. Eu sou a Liz. O que quer?}
 {104}{}{E agora?}
 {105}{}{Nggg! Nnnnnng!}
