@@ -1,4 +1,5 @@
-{100}{}{Você vê um caçador sujo com a roupa rasgada e manchada de sangue. Parece que está se apoiando sobre uma perna só.}
+{100}{}{Você vê um caçador sujo com a roupa rasgada e manchada de sangue. Parece que está se apoiando sobre uma
+ perna só.}
 {101}{}{Você vê Smiley, o caçador. Ele está mancando um pouco e parece descontente.}
 {102}{}{Você vê Smiley, o caçador. Ele parece estar bem melhor desde que você o resgatou das cavernas.}
 {103}{}{Você vê um homem de meia-idade vestindo as roupas ensanguentadas e rasgadas de um caçador. 
@@ -31,15 +32,17 @@
 {170}{}{Parece que eu estava certo demais. Quando entrei aqui estava bem, mas então um daqueles geckos malditos ficou bem
  atrás de mim e pegou minha perna. Tive sorte de conseguir chegar até aqui.}
 {171}{}{Por que será que ele não matou você?}
-{180}{}{É, acho que eles não gostam muito de rastejar por aqui. Não posso culpá-los. Queima quando encosta
- na pele. Mas isso não impede os malditos de lamberem essa coisa como se fosse uma Buckner's Best.}
+{180}{}{É, acho que eles não gostam muito de rastejar por aqui. Não posso culpá-los. Queima quando encosta na
+ pele. Mas isso não impede os malditos de lamberem essa coisa como se fosse uma Buckner's Best.}
 {181}{}{Interessante.}
 {190}{}{Chega de conversa fiada. Agora vamos sair daqui. Acho que se nos juntarmos podemos sair daqui tranquilos.
  Eu preciso de uma mão.}
-{191}{}{Ok. Pode vir comigo. Eu vou te tirar daqui e levar de volta para Klamath. Acho que a Ardin ficará feliz em vê-lo de novo.}
+{191}{}{Ok. Pode vir comigo. Eu vou te tirar daqui e levar de volta para Klamath. Acho que a Ardin ficará feliz em
+ vê-lo de novo.}
 {192}{}{Bem, ok. Mas eu não quero você choramingando por ajuda o tempo todo.}
-{200}{}{Essas cavernas parecem um depósito da época pre-guerra. Deve ter mais no subsolo, mas tem uma bugiganga
-tecnologica trancando a porta. De qualquer forma, eu já estou de saco cheio. Vamos cair fora daqui.}
+{200}{}{Essas cavernas parecem um depósito da época pre-guerra. Deve ter mais no subsolo, mas tem uma
+ bugiganga tecnológica trancando a porta. De qualquer forma, eu já estou de saco cheio. Vamos cair fora
+ daqui.}
 {201}{}{OK.}
 {210}{}{Ufa, acho que acabei de usar algumas vidas dessa vez. Por que voce nao da uma passada na casa dos
  Buckner mais tarde e eu te garanto que voce recebera uma bela recompensa por me salvar.}
@@ -73,8 +76,8 @@ tecnologica trancando a porta. De qualquer forma, eu já estou de saco cheio. Va
 {262}{}{Uh, claro. Vá em frente. Estou ouvindo.}
 {263}{}{Claro, ok. Conte seus causos. Estou ouvindo.}
 {264}{}{Talvez eu não precise aprender sobre isso. Adeus.}
-{270}{}{Olha, você faz assim - golden geckos e geckos comuns são basicamente a mesma coisa, só que os 
- golden são muito mais desgraçados... (o tempo passa enquanto você aprende sobre a cultura Gecko)}
+{270}{}{Olha, você faz assim - golden geckos e geckos comuns são basicamente a mesma coisa, só que os golden
+ são muito mais desgraçados... (o tempo passa enquanto você aprende sobre a cultura Gecko)}
 {271}{}{Isso é incrível. Sinto que sei muito mais sobre geckos agora. Valeu. Falou.}
 {280}{}{Maida Buckner, a filha da viúva Buckner, conhece todo tipo de boato da cidade.}
 {281}{}{Deixa eu te perguntar outra coisa, então.}

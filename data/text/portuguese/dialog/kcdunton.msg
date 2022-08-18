@@ -1,4 +1,5 @@
-{100}{}{Você vê dois homens muito parecidos...eles podem ser gêmeos. Ambos são musculosos e têm sobrancelhas bem grossas.}
+{100}{}{Você vê dois homens muito parecidos -- eles podem ser gêmeos. Ambos
+ são musculosos e têm sobrancelhas bem grossas.}
 {101}{}{Você quer ver Chuck ou Buck Dunton, eles se parecem tanto que você não tem certeza de qual deles está olhando agora.}
 {102}{}{Você vê um homem alto e musculoso, que, debaixo dessa testa marrenta, se mostra um valentão. Ele se
  parece com seu irmão.}

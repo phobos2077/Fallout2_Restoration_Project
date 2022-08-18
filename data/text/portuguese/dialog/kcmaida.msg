@@ -72,7 +72,8 @@ você não conversa com meu irmão, Torr? Ele tem o raciocínio tão rápido qua
  de selvagens em algum lugar do noroeste -- e tem a tribo do Sulik, lá longe ao sudoeste.}
 {301}{}{Engraçado, minha tribo não conta cidades de antes da guerra como lugares civilizados. Então me fale sobre
  outra coisa.}
-{302}{}{Oh, vocês são civilizados, claro... E acho que não quero participar disso. Então me fale sobre outra coisa.}
+{302}{}{Oh, vocês são civilizados, claro... E acho que não quero participar disso. Então me fale
+ sobre outra coisa.}
 {303}{}{Me fale sobre o Sulik.}
 {304}{}{E sobre Den?}
 {305}{}{Interessante. Deixa eu perguntar outra coisa.}
@@ -84,12 +85,11 @@ ou menos uma semana ao sul daqui, mas a maioria dos que vão para lá, nunca mai
 {320}{}{Sulik é um índio que esta trabalhando para pagar a dívida estúpida que ele mesmo fez. Ele não é um escravo.
  Não temos escravos aqui em Klamath.}
 {321}{}{Pagando uma dívida? O que quer dizer?}
-{330}{}{Sabe, o Sulik ficou muito nervoso uma noite e encheu a cara. Então quando estava completamente
- bebado ele quebrou tudo aqui. Ele causou um prejuízo no valor de $500. Só estamos consertando agora.}
+{330}{}{Sabe, o Sulik ficou muito nervoso uma noite e encheu a cara. Então quando estava completamente bebado
+ ele quebrou tudo aqui. Ele causou um prejuízo no valor de $500. Só estamos consertando agora.}
 {331}{}{Por que ele ficou tão nervoso?}
-{340}{}{Ele disse que descobriu que sua irmã havia sido sequestrada por escravistas. Você precisaria
- perguntar para ele sobre isso. Ele vai ficar aqui até pagar todo o resto dos danos que ele causou 
- enquanto estava bebado.}
+{340}{}{Ele disse que descobriu que sua irmã havia sido sequestrada por escravistas. Você precisaria perguntar
+ para ele sobre isso. Ele vai ficar aqui até pagar todo o resto dos danos que ele causou enquanto estava bêbado.}
 {341}{}{Quanto mais ele tem que pagar?}
 {350}{}{Ele ainda tem que pagar $350. Se ele não fosse tão preguiçoso e desatento seria mais rápido.
  Ele não vai embora enquanto não pagar toda a dívida.}
@@ -109,7 +109,8 @@ ou menos uma semana ao sul daqui, mas a maioria dos que vão para lá, nunca mai
  realmente são unidos.}
 {381}{}{Sim, eu quero. Eu tenho o suficiente para pagar pelo prejuízo.}
 {382}{}{Isso é dinheiro demais. Afinal, acho que não quero pagar a dívida dele. Adeus.}
-{390}{}{Você não deve bater direito. Eu vou ficar feliz em me livrar desse (soluça) maldito (soluça) índio (soluça, soluça). (chora)}
+{390}{}{Você não deve bater direito. Eu vou ficar feliz em me livrar desse (soluça) maldito (soluça) índio
+ (soluça, soluça). (chora)}
 {391}{}{(soluça) Eu suponho que seja uma troca justa, um irmão idiota por um (soluça) selvagem idiota. Eu 
  não vou sentir nem um pouco a falta dele.}
 {392}{}{Bem, por algum motivo, parece que o Sulik sente falta de ficar aqui. Mas nós vamos vir visitar
@@ -173,7 +174,8 @@ ou menos uma semana ao sul daqui, mas a maioria dos que vão para lá, nunca mai
 {540}{}{Parece que você não tem como pagar tudo isso.}
 {541}{}{Uh, bem, acho que ficarei satisfeito só com algumas informações então.}
 {542}{}{Oh, talvez eu volte quando eu tiver mais. Adeus.}
-{550}{}{Eu vou ficar feliz em me livrar desse (soluça) maldito (soluça) índio (soluça, soluça). (chora)}
+{550}{}{Eu vou ficar feliz em me livrar desse (soluça) maldito (soluça) índio (soluça, soluça).
+ (chora)}
 {600}{}{[MAIS]}
 {700}{}{Eu descobri o que está acontecendo com seus brahmin.}
 {701}{}{Tem certeza? Isso é ótimo, conte para minha mãe o que descobriu.}
