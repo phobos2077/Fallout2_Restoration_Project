@@ -18,9 +18,13 @@
 {168}{}{Esse é o relógio que você tá procurando?}
 {169}{}{Morte aos EMOs!}
 {170}{}{Jar – din?}
-{171}{}{De novo não! Quantas vezes o Cornelius irá mandar procurar o relógio? Eu não roubei! Na verdade, eu provavelmente fui vítima do mesmo ladrão. Coincidentemente, quando o relógio dele foi roubado, algumas ferramentas minhas sumiram. Eu sei que você não acredita em mim, então pode vasculhar, vocês não saem se olhar mesmo. Bem, va em frente!}
+{171}{}{De novo não! Quantas vezes o Cornelius irá mandar procurar o relógio? Eu não roubei! Na verdade, eu
+ provavelmente fui vítima do mesmo ladrão. Coincidentemente, quando o relógio dele foi roubado, algumas
+ ferramentas minhas sumiram. Eu sei que você não acredita em mim, então pode vasculhar, vocês não
+ saem se olhar mesmo. Bem, va em frente!}
 {172}{}{Acho que vou dar uma olhada por aqui.}
-{173}{}{Miria te falou isso? Vou ter que dar uns bons tapas naquela bunda! Olhe, eu posso ser pobre, mas eu tenho meu orgulho. Eu ajudei um comerciante a consertar uma carroça, ele me pagou com umas ferramentas.}
+{173}{}{Miria te falou isso? Vou ter que dar uns bons tapas naquela bunda! Olhe, eu posso ser pobre, mas eu
+ tenho meu orgulho. Eu ajudei um comerciante a consertar uma carroça, ele me pagou com umas ferramentas.}
 {174}{}{Admita - você é culpado!}
 {175}{}{Que provas você tem de que está falando a verdade?}
 {176}{}{Você espera que eu acredite nisso?}

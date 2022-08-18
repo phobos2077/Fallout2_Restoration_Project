@@ -64,12 +64,14 @@
 {177}{}{Sabe, geckos tem um gosto bem parecido com alguma coisa se você cozinhá-los direito. 
  Não me lembro direito de quê.}
 {178}{}{Alguns animais gostam tanto de carne seca que eles atacam ela ao invés de você.}
-{179}{}{Faz tempo que não ouço aquela voz estranho que vinha das cavernas dos ratos. O que será que houve?}
+{179}{}{Faz tempo que não ouço aquela voz estranho que vinha das cavernas dos ratos. O
+ que será que houve?}
 {180}{}{Olha, não ria de mim, mas acho que o Deus Rato está morto.}
 {181}{}{Ouvi falar que o Deus Rato está morto. Não que eu acredite nessas coisas.}
 {200}{}{Você vê uma pessoa tosca com botas de couro.}
 {201}{}{Você vê uma pessoa que deve passar muito tempo ao ar livre.}
 {202}{}{Você vê uma pessoa com roupas toscas e remendadas.}
 {203}{}{Você vê um caçador tosco com botas de couro de gecko.}
-{204}{}{Você vê alguém que passa muito tempo nos desertos. Eles estão usando camisas de pele de gecko.}
+{204}{}{Você vê alguém que passa muito tempo nos desertos. Eles estão usando camisas de pele
+ de gecko.}
 {205}{}{Você vê um caçador que mora no Bairro dos Caçadores.}

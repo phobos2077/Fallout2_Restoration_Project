@@ -29,13 +29,15 @@
 {186}{}{Se quiser conversar de novo, pode voltar.}
 {187}{}{Uooou! Nunca pensei que uma mulher tão bonita tentaria me seduzir. Mas o que? Você não é uma mulher!!! 
  Não se preocupe, você é dez. Se você não quiser que ninguém saiba, fico de boca fechada.}
-{188}{}{Devo estar sonhando. Nunca pensei que uma mulher tão bonita tentaria me seduzir. Você esta tentando me seduzir, né?}
+{188}{}{Devo estar sonhando. Nunca pensei que uma mulher tão bonita tentaria me seduzir. Você esta tentando
+ me seduzir, né?}
 {189}{}{Olhar dentro dos seus olhos é como tocar o céu. Não vamos quebrar o encanto desse momento precioso com palavras. 
  Deixe nossas ações falarem por si mesmas.}
 {190}{}{Pare de falar! Vai estragar tudo. Apenas relaxe e goze.}
 {191}{}{Tá rolando algum mal-entendido. Só quero te fazer algumas perguntas.}
 {192}{}{Obrigado pela oferta, mas não. Uhhh... To saindo fora.}
-{193}{}{Oh Deus! Me possua! Me possua agora! [ele rasga as roupas dele e as suas... ai então você... ah! Use sua imaginação]}
+{193}{}{Oh Deus! Me possua! Me possua agora! [ele rasga as roupas dele e as suas... ai então você... ah! Use sua
+ imaginação]}
 {194}{}{[hehehe] Estou a todo vapor! Pode ser você da próxima vez.}
 {195}{}{[Duas horas depois: A Terra tremeu, e esta cama nunca mais será a mesma.]}
 {196}{}{[Uma hora depois e o melhor orgasmo que você ja teve.]}
@@ -60,7 +62,10 @@
 {1007}{}{Mas... mas o que eu fiz de errado?}
 {1008}{}{O que você quer de mim querido?}
 {1009}{}{Obrigado, estava começando a arrumar de qualquer jeito. Então, o que foi agora, amante?}
-{1010}{}{Eu comecei a matar Bahmin no abatedor, então estou quase preparado com a faca. Meu pai me fez matar um Brahmin com uma barra, de uma só vez. Eu acho que eu poderia usar um lugar para lutar (clube) se eu precisar. Papai me pegou para atirar uma vez, mas eu fiquei assustado e quase atirei nele por acidente.}
+{1010}{}{Eu comecei a matar Bahmin no abatedor, então estou quase preparado com a faca. Meu pai me
+ fez matar um Brahmin com uma barra, de uma só vez. Eu acho que eu poderia usar um lugar
+ para lutar (clube) se eu precisar. Papai me pegou para atirar uma vez, mas eu fiquei
+ assustado e quase atirei nele por acidente.}
 {1020}{}{Eu preciso relaxar um pouco, Davin.}
 {1100}{}{Estou completamente curado e pronto para ir.}
 {1200}{}{Arduamente, mais do que um arranhão deixado em mim.}

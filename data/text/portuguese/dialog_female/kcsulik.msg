@@ -353,14 +353,16 @@
 {910}{slk69}{Apenas um sobreviver. Estar em condição ruim. Dizer que guerreiros do mau vir com tochas mágicas.
  Fogo poder arrasar guerreiros da tribo e mandar eles com os espíritos.}
 {911}{}{E quanto a sua irmã?}
-{912}{slk69a}{Guerreiros do mal manter o resto ocupado e levar eles embora. Irmã com eles. Amigo, nós acha ela ou morrer tentando.}
+{912}{slk69a}{Guerreiros do mal manter o resto ocupado e levar eles embora. Irmã com eles. Amigo, nós
+ acha ela ou morrer tentando.}
 {913}{}{Parece escravagistas pra mim. Descobriu alguma coisa sobre eles?}
 {914}{}{Sinto muito em ouvir isso. Espero que você a ache. Deixe-me perguntar outra coisa.}
 {915}{}{Acho que é tudo o que eu queria saber. Tchau.}
 {916}{slk70a}{Parecer centro de formigueiro aqui. Muito lotado pra nós.}
 {917}{slk70b}{Nossa tribo ser menor que isso. Já ter muitas pessoas pra essa viagem.}
 {918}{slk70c}{Você ter seu exército. Não precisar de nós e mim pra ajudar agora.}
-{919}{slk71}{Nós e mim triste em ver que você ter a marca. Achar que você estar ficando com alma sombria. Ter que ir agora. 'Té mais.}
+{919}{slk71}{Nós e mim triste em ver que você ter a marca. Achar que você estar ficando com alma sombria.
+ Ter que ir agora. 'Té mais.}
 {920}{slk72}{Você achar que ser dono de pessoas bom? Nós ir agora.}
 {921}{slk73a}{Você ter muitos problemas com pessoas. Nós ir embora até você perceber isso.}
 {922}{slk73b}{Você gostar de sonho ruim. Nós ter que ir agora.}
@@ -384,12 +386,15 @@
 {940}{slk79}{Nós ouvir ele falar em Espírito ambulante. Tentar ser corajoso.}
 {941}{}{Espíito Ambulante?}
 {942}{}{Opa. Espíritos? Parece assustador. Tchau.}
-{943}{slk80}{Pro leste ter um canyon onde brahmins pasta. Nós ouvir há luas atrás muito trovão e relâmpago... sem nuvem. Espírito do mau ir pra'quela terra.}
+{943}{slk80}{Pro leste ter um canyon onde brahmins pasta. Nós ouvir há luas atrás muito trovão e relâmpago...
+ sem nuvem. Espírito do mau ir pra'quela terra.}
 {944}{}{Realmente?}
-{945}{slk80a}{Moradores começar a ouvir barulhos estranho. Espíritos em tormenta, achar nós e mim. Alguns até ver algo lá. Criatura-espírito não ter forma de homem.}
+{945}{slk80a}{Moradores começar a ouvir barulhos estranho. Espíritos em tormenta, achar nós e mim.
+ Alguns até ver algo lá. Criatura-espírito não ter forma de homem.}
 {946}{}{Hum.}
 {947}{}{Parece perigoso. O que o Torr tem a ver com isso?}
-{948}{slk80b}{Torr ser alvo de piadas. Então ele achar que encontrar e matar espírito mau faz dele herói. Nós acha que ele estar em perigo. Você ajuda Torr?}
+{948}{slk80b}{Torr ser alvo de piadas. Então ele achar que encontrar e matar espírito mau faz dele herói.
+ Nós acha que ele estar em perigo. Você ajuda Torr?}
 {949}{}{Eu não!}
 {950}{}{Uh-huh.}
 {951}{}{Eu vou procurar por ele agora mesmo.}
@@ -397,7 +402,8 @@
 {953}{}{Nós deveríamos dar um pouco mais de tempo pra ele. Ele não pode ser um herói se nós interferirmos. Eu
  poderia usar algumas informações locais.}
 {954}{}{Hum, história interessante mas eu acho que não posso ajudar o Torr. Estou muito ocupado. Tchau.}
-{955}{slk81a}{Irmã encontrada. Nós mandar ela de volta pra casa. Ela forte, consegue ir bem. Nós quer ir com você. Vovô Osso diz que você ter grande caminho a seguir.}
+{955}{slk81a}{Irmã encontrada. Nós mandar ela de volta pra casa. Ela forte, consegue ir bem. Nós quer ir com
+ você. Vovô Osso diz que você ter grande caminho a seguir.}
 {956}{slk81b}{Você deixar nós ir com você?}
 {957}{}{Hã-hã.}
 {958}{}{Uh-huh.}
