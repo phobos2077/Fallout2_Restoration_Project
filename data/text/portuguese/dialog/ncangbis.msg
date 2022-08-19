@@ -178,7 +178,8 @@
 {652}{}{[Deixa para lá.]}
 {660}{}{Fique longe de mim. Não tenho nada para te dizer.}
 {661}{}{Papai vai começar a ouvir TODAS as coisas sobre você em breve. Só espere.}
-{670}{}{E não só isso, mas quando eu tomo Jet, eu fico todo SELVAGEM, e mal consigo me controlar. Preciso de alguém que saiba assumir o controle para garantir que eu não faça nada... estúpido.}
+{670}{}{E não só isso, mas quando eu tomo Jet, eu fico todo SELVAGEM, e mal consigo me controlar. Preciso de alguém que saiba assumir o
+ controle para garantir que eu não faça nada... estúpido.}
 {671}{}{Eu sou seu homem. Vamos fazer isso.}
 {672}{}{Às vezes, ser um herói significa proteger mulheres bonitas de si mesma, não importa o que aconteça. Vamos lá.}
 {673}{}{Acho que você me confundiu com alguém que realmente consideraria tocar em você.}

@@ -1,6 +1,7 @@
 {100}{}{Você vê um garra mortal. Ele observa você com olhos estranhamente inteligentes.}
 {101}{}{You see Valdis, the Deathclaw.}
-{102}{}{Você vê um típico garra mortal. A criatura é enorme, com um corpo poderoso, dentes afiados, e longas garras.}
+{102}{}{Você vê um típico garra mortal. A criatura é enorme, com um corpo poderoso, dentes afiados,
+ e longas garras.}
 {103}{}{Greetings, human.}
 {104}{}{How may I serve you?}
 {105}{}{Who you be?}

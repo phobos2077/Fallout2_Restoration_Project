@@ -34,7 +34,9 @@
 {183}{}{Oeste?}
 {186}{}{Au?}
 {187}{}{Está bem. Talvez em outro canto, então?}
-{190}{}{Ele estava brincando de caubói e índio quando sem querer caiu dentro do poço e você quer que eu pegue uma corda e desça pra buscar o Jonny. Tudo bem, vamos, Laddie. [Impressionante!]}
-{191}{}{Ele estava brincando de caubói e índio quando sem querer caiu dentro do poço e você quer que eu use minha corda e desça pra buscar o Jonny. Tudo bem, vamos, Laddie. [Impressionante!]}
+{190}{}{Ele estava brincando de caubói e índio quando sem querer caiu dentro do poço e você quer que eu pegue uma
+ corda e desça pra buscar o Jonny. Tudo bem, vamos, Laddie. [Impressionante!]}
+{191}{}{Ele estava brincando de caubói e índio quando sem querer caiu dentro do poço e você quer que eu use minha
+ corda e desça pra buscar o Jonny. Tudo bem, vamos, Laddie.[Impressionante!]}
 {195}{}{Está bem, vou pegar uma corda e descer o poço atrás do Jonny.}
 {196}{}{Está bem, posso usar minha corda e descer o poço atrás do Jonny.}

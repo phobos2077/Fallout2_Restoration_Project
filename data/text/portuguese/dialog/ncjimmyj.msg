@@ -64,7 +64,8 @@
 {333}{}{Eu luto no ringue na frente de um monte de gente gritando hoo mata mata o filho da puta ai eu dou um soco nele até ele cair}
 {334}{}{Eu sou desagradavel com estranhos que falam muito com Deus.}
 {335}{}{Eu FEITO homem. Eu GRANDE homem em REEno}
-{336}{}{Como alguém pode conhecer o outro de VERDADE, Jimmy? É mesmo possível enquanto estamos neste corpo mortal? Ou só quando nos libertamos de nossos corpos físicos?}
+{336}{}{Como alguém pode conhecer o outro de VERDADE, Jimmy? É mesmo possível enquanto estamos neste corpo mortal? Ou só quando
+ nos libertamos de nossos corpos físicos?}
 {337}{}{Eu QUERO falar mas você não me DEIXA eu VOU}
 {338}{}{Bem, eu acabei com o plano da Enclave de aniquilaçao mundial, derrotei o presidente, explodi sua base, e
  só consegui escapar com vida.}
@@ -111,7 +112,8 @@
 {446}{}{Você fez o que era correto pra voce, certo?}
 {447}{}{Uh-huh. Olha, eu tenho outras perguntas...}
 {448}{}{Eu tenho que ir. Te encontro mais tarde, Jimmy.}
-{455}{}{Sim... Tinha acabado de ver algo errado, e tinha que fazer ALGO, certo? De jeito nenhum eu poderia deixar algo assim acontecer enquanto eu estava lá, sabe?}
+{455}{}{Sim... Tinha acabado de ver algo errado, e tinha que fazer ALGO, certo? De jeito nenhum eu poderia deixar algo assim acontecer enquanto eu
+ estava lá, sabe?}
 {456}{}{Você tem coragem em fazer o que fez, Jimmy. A maioria das pessoas teria apenas abaixado a cabeça e ido embora.}
 {457}{}{Entendo. Olhe, eu tenho outras perguntas...}
 {465}{}{EU GOSTO de pessoas, e não gosto quando alguém mexe com outra só porque pode. Essa merda é simplesmente ERRADA.}

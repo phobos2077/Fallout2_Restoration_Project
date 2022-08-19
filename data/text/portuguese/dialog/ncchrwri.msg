@@ -46,7 +46,8 @@
 {307}{}{A Família Wright está contratando?}
 {308}{}{Encontrei sua mãe há pouco tempo. Mulher agradável.}
 {310}{}{Não, sem mais perguntas. É melhor eu ir.}
-{315}{}{(O jovem te olha de cima a baixo. Seus olhos param na marca em sua testa.) Bem, agora. (Ele zomba, depois cospe em seus pés.) Por que você não se torna útil e lambe isso, escravo?}
+{315}{}{(O jovem te olha de cima a baixo. Seus olhos param na marca em sua testa.) Bem, agora. (Ele zomba, depois cospe em seus pés.)
+ Por que você não se torna útil e lambe isso, escravo?}
 {316}{}{(O jovem te olha de cima a baixo.) Bem, agora. (Ele zomba, depois cospe em seus pés.) Por que você não se torna útil e
  lambe isso, seu pedaço de }
 {317}{}{ pedaço de merda?}

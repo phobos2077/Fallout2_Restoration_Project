@@ -72,7 +72,8 @@
 {441}{}{Pequeno Jesus Mordino?}
 {442}{}{Voce pode me contar um pouco mais sobre Richard?}
 {443}{}{Obrigado pela informaçao, Keith.}
-{450}{}{Garoto quieto, garoto limpo. Mantido fora de problemas, e para um Wright, isso e bom. Nos o enterramos nas planicies de Golgota ha algum tempo, mas mesmo assim, mamae ainda nao quer que seu quarto
+{450}{}{Garoto quieto, garoto limpo. Mantido fora de problemas, e para um Wright, isso e bom. Nos o enterramos
+ nas planicies de Golgota ha algum tempo, mas mesmo assim, mamae ainda nao quer que seu quarto
  seja mudado. E dificil para ela deixar ir, sabe?}
 {451}{}{Qual quarto era o dele? Voce acha que sua mae se importaria se eu olhasse la dentro?}
 {452}{}{Algum revendedor que voce suspeite pode ter lhe dado o Jet?}

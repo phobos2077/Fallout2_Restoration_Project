@@ -9,7 +9,7 @@
 {213}{}{Meu Deus! Você está me matando! Faça de novo!}
 {214}{}{Que idiota!}
 {215}{}{Hahahaha!}
-{220}{}{Fomos intruídos para levar todos da superfície até Vegeir. Você não vai se machucar. Por favor venha conosco.}
+{220}{}{Fomos instruídos para levar todos da superfície até Vegeir. Você não vai se machucar. Por favor venha conosco.}
 {221}{}{Vai pro inferno, não vou a lugar nenhum com você.}
 {222}{}{Gostaria de fazer alguns perguntas.}
 {223}{}{Quê?}

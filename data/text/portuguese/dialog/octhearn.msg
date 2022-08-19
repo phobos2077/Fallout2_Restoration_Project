@@ -1,6 +1,7 @@
 {100}{}{Você vê um garra mortal. Ele observa você com olhos estranhamente inteligentes.}
 {101}{}{You see Thearn, the Deathclaw.}
-{102}{}{Você vê um típico garra mortal. A criatura é enorme, com um corpo poderoso, dentes afiados, e longas garras.}
+{102}{}{Você vê um típico garra mortal. A criatura é enorme, com um corpo poderoso, dentes afiados,
+ e longas garras.}
 {103}{}{Forgive. I no speak well. I try talk you.}
 {104}{}{You want what?}
 {105}{}{Quem é você?}

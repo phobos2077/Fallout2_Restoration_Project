@@ -37,13 +37,16 @@
 {137}{}{Obrigado. Vault City prevalece, Capitão.}
 {138}{}{Vault City prevails, Citizen.}
 {139}{}{Bom dia, Citizen.}
-{140}{}{Este é o escritório de Sub-Amenities B... nós controlamos a distribuição de suprimentos farmacêuticos em Vault City. Eu sou o diretor de Sub-Amenities Holden. Como posso ajudá-lo hoje Cidadão?}
-{141}{}{Este é o escritório de Sub-Amenities B... nós controlamos a distribuição de suprimentos farmacêuticos em Vault City. Vocês estavam procurando outro lugar?}
+{140}{}{Este é o escritório de Sub-Amenities B... nós controlamos a distribuição de suprimentos
+ farmacêuticos em Vault City. Eu sou o diretor de Sub-Amenities Holden. Como posso ajudá-lo hoje Cidadão?}
+{141}{}{Este é o escritório de Sub-Amenities B... nós controlamos a distribuição de suprimentos
+ farmacêuticos em Vault City. Vocês estavam procurando outro lugar?}
 {142}{}{Posso ver o que você tem no estoque?}
 {143}{}{Não, este é o lugar que Eu estava procurando. Posso ver o que você tem em estoque?}
 {144}{}{Nada por hoje, valeu.}
 {145}{}{Talvez sim. Adeus.}
-{150}{}{Este é o escritório de Sub-Amenities B... nós controlamos a distribuição de suprimentos farmacêuticos em Vault City. Eu sou o diretor de Sub-Amenities Holden. Como posso ajudá-lo hoje Capitão?}
+{150}{}{Este é o escritório de Sub-Amenities B... nós controlamos a distribuição de suprimentos farmacêuticos
+ em Vault City. Eu sou o diretor de Sub-Amenities Holden. Como posso ajudá-lo hoje Capitão?}
 {151}{}{Ei! Fique longe daí!}
 {152}{}{Já chega! Saia já daqui!}
 {153}{}{Obrigado.}

@@ -195,7 +195,8 @@
 {660}{}{Sim... (inclina-se.) ...veja, os Mordinos conseguiram uma pequena mina de ouro com o nome de Myron. Eles acertaram
  em cheio com ele... ele CRIOU o Jet.}
 {662}{}{Ja chega de falar dos Mordinos e das familias. Me fale sobre esse Myron...}
-{670}{}{Eles distribuem tudo em New Reno, para começar. Desde o norte ate Den, e tambem... uh... (se pega, entao da de ombros e continua.)... bem, eles tambem estao indo para Redding, o que nao esta prejudicando os lucros dos Mordinos.}
+{670}{}{Eles distribuem tudo em New Reno, para começar. Desde o norte ate Den, e tambem... uh... (se pega, entao da de ombros e continua.)... bem,
+ eles tambem estao indo para Redding, o que nao esta prejudicando os lucros dos Mordinos.}
 {672}{}{Me fale sobre Redding.}
 {685}{}{Nao ha muito a dizer. Cidade mineira a noroeste daqui. O negocio e que Mordino quer ter alguma influencia la,
  conseguir um pouco do OURO de Redding que eles desenterraram. Entao ele manda jet e eles enviam ouro de volta, todo mundo feliz.}

@@ -96,8 +96,10 @@
 {375}{}{Não. 500 tampas.}
 {377}{}{Senhor Mordino, por favor... está praticamente me insultando. Este é um estoque de primeira, vale muito mais do que isso.}
 {390}{}{(Mordino anda ao redor de Miria, examina seu rosto cuidadosamente, então dá um tapa em sua bunda.) Hmmmm. 500 tampas por ela, então.}
-{391}{}{(Mordino anda ao redor de Davin, arregaça a manga do menino e examina seus músculos, depois verifica seus olhos para ver se sinais de uso de drogas.) Hmmmm. Ele parece forte o suficiente. 400 tampas por ele, então.}
-{392}{}{(Mordino anda ao redor de Sulik, franzindo a testa.) Hmmmm. Ele parece forte... e tolerante à dor para enfiar um puta osso desse no nariz. 200 tampas parece bom.}
+{391}{}{(Mordino anda ao redor de Davin, arregaça a manga do menino e examina seus músculos, depois verifica seus olhos para ver se
+ sinais de uso de drogas.) Hmmmm. Ele parece forte o suficiente. 400 tampas por ele, então.}
+{392}{}{(Mordino anda ao redor de Sulik, franzindo a testa.) Hmmmm. Ele parece forte... e tolerante à dor para enfiar um puta
+ osso desse no nariz. 200 tampas parece bom.}
 {393}{}{(Mordino anda ao redor de Vic, franzindo a testa.) Hmmmmm. Vou levá-lo por 200 tampas. Nada mais.}
 {394}{}{(Mordino anda ao redor de Cassidy, franzindo a testa.) Hmmmmm. Vou levá-lo por 200 tampas. Nada mais.}
 {395}{}{(Mordino estuda o Robobrain por alguns minutos.) Mil fichas por ele.}

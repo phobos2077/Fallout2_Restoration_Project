@@ -150,10 +150,12 @@
 {235}{}{Voce insere a localização do Vault 15 no seu Pip-Boy.}
 {236}{}{Continua a pesquisar os arquivos para obter mais informaçoes.}
 {237}{}{Deslogar do terminal.}
-{238}{}{De acordo com os arquivos, nao ha GECK atualmente em estoque na Loja de Utilidades
- de Vault City. As pessoas de Vault City parecem ter usado o unico que tinham para ajudar a estabelecer o lugar quando vieram a superficie.}
+{238}{}{De acordo com os arquivos, nao ha GECK atualmente em estoque na Loja de Utilidades de Vault City.
+ As pessoas de Vault City parecem ter usado o unico que tinham para ajudar a estabelecer o lugar quando
+ vieram a superficie.}
 {239}{}{Percorre as informaçoes restantes.}
-{240}{}{Pelo que voce pode ver nos arquivos, dois GECKs faziam parte do pacote de inventario padrao de cada Vault. No entanto, apenas um foi enviado para o Vault 8.}
+{240}{}{Pelo que você pode ver nos arquivos, dois GECKs faziam parte do pacote de inventario padrão
+ de cada Vault. No entanto, apenas um foi enviado para o Vault 8.}
 {241}{}{Faça referencia cruzada das informaçoes da remessa do GECK.}
 {242}{}{Retorne ao menu principal.}
 {243}{}{Deslogar do terminal.}

@@ -88,8 +88,10 @@
 {445}{}{A mamãe e as minhas irmãs mais velhas sangram todo mês mais ou menos. Aí ela ficam realmente malvadas. Eu queria que elas fossem robôs.}
 {446}{}{Ah…sim. Boa, garoto. Olha, eu tenho que ir - não conte pra sua mãe que eu tava falando com você.}
 {456}{}{Eu apenas mijo, mas é preciso se acostumar com o cheiro}
-{459}{}{He he. Na verdade, eu mijo na própria armadura, e ela recicla tudo. Isso não é interessante? Você sabe o que significa "reciclagem", pequenino?}
-{460}{}{Não é confortável, isso eu te garanto. Viu, sinto pelo que houve com o seu irmão, Richie. Você sabe o que aconteceu com ele?}
+{459}{}{He he. Na verdade, eu mijo na própria armadura, e ela recicla tudo. Isso não é interessante?
+ Você sabe o que significa "reciclagem", pequenino?}
+{460}{}{Não é confortável, isso eu te garanto. Viu, sinto pelo que houve com o seu irmão, Richie.
+ Você sabe o que aconteceu com ele?}
 {475}{}{Isso é nojento.}
 {476}{}{Sim! Reciclagem significa que você bebe mijo!}
 {477}{}{Sua nojeiro, seu cara de mijo}
@@ -149,7 +151,8 @@
 {697}{}{Mutante "faminto"! Vixi. Todo mundo sabe que mutantes não comem... -ahn, porque você tá me olhando desse jeito, Marcus?}
 {698}{}{He he he he. "Issooooo é um ghoul DE VERDADE?" Ensine-a a não fazer perguntas.}
 {699}{}{Ghoul "faminto"! Vixi. Todo mundo sabe que mutantes não comem... -ahn, porque você tá me olhando desse jeito, Lenny?}
-{710}{}{Oh-oh. O papai tá muito bravo sobre isso porque ele não sabe quem matou o Richie. Ele fala que se nos pegar usando Jet, ele vai nos encher de palmadas.}
+{710}{}{Oh-oh. O papai tá muito bravo sobre isso porque ele não sabe quem matou o Richie. Ele fala que se nos
+ pegar usando Jet, ele vai nos encher de palmadas.}
 {711}{}{Você sabe QUEM deve ter dado pro Richie o Jet que o matou?}
 {712}{}{Você sabe ONDE o Richie conseguiu esse Jet que o matou?}
 {713}{}{Deixa a criança voltar às brincadeiras.}

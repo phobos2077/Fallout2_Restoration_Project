@@ -1,6 +1,7 @@
 {100}{}{Você vê um garra mortal. Ele observa você com olhos estranhamente inteligentes.}
 {101}{}{You see Jul, the Deathclaw.}
-{102}{}{Você vê um típico garra mortal. A criatura é enorme, com um corpo poderoso, dentes afiados, e longas garras.}
+{102}{}{Você vê um típico garra mortal. A criatura é enorme, com um corpo poderoso, dentes afiados,
+ e longas garras.}
 {103}{}{Stop. You not go here. This place off limits.}
 {104}{}{Tudo bem. - Me ir.}
 {105}{}{O que este lugar?}
