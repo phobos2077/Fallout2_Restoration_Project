@@ -366,29 +366,29 @@ eu te daria um sermão fudido. Agora venha aqui.}
  me tentando conseguir informações de mim, está perdendo seu tempo.}
 {726}{}{Perdendo tempo? Aqui na cama? Eu não!}
 {730}{}{(Abre um olho.) Quem te disse isso?}
-{731}{}{I guessed after I heard you talk about Vault City. You got this nostalgic look
- in your eye.}
-{735}{}{(Her expression crumbles for a moment, then she rolls over so you can't see her.)
- Don't mention that place.}
+{731}{}{Supus depois que ouvi você falar sobre Vault City. Você tem um tipo de olhar
+ nostálgico.}
+{735}{}{(Sua expressão de desmorona por um momento, então ela rola para que você não
+ possa vê-la.) Não mencione esse lugar.}
 {736}{}{O que aconteceu?}
-{740}{}{JOHN happened. I used to live there. He visited once, I was pleasantly charmed because he was so... rough, I guess. Different from most Vault Citizens. Of course, he let me try some drugs and... (Sighs.)}
+{740}{}{JOHN aconteceu. Eu morava lá. Ele me visitou uma vez, fiquei agradavelmente encantada porque ele era tão... áspero, acho. Diferente da maioria dos cidadãos do Vault. Claro, ele me deixou experimentar algumas drogas e... (Suspiros.)}
 {741}{}{E?}
-{745}{}{They had memory enhancers for the Pip-Boys there. Had dictionaries
- and encyclopedias stored on them. Took one of the lingual enhancers when I left, though I don't know why.}
-{746}{}{Where is this enhancer?}
-{750}{}{*Yawn*... (Curls up.) It's in my safe. Not much use without a Pip-Boy, though.
- Don't know why I still keep it.}
-{751}{}{Can I have it?}
-{752}{}{Hmmmnn. I had some other questions...}
-{760}{}{(Shrugs.) Sure, if you want them. Combination is }
-{761}{}{How do I use it?}
-{762}{}{Thanks. Say, I had some other questions...}
-{770}{}{(Mrs. Bishop rolls over and closes her eyes. In a few seconds, she's asleep.)}
-{771}{}{Quietly slip out of bed and get dressed.}
-{780}{}{The only 'love' we have consists of his forcing his way into my bedroom and
- mounting me like a drunken brahmin. And that is perhaps his least contemptible
- quality, considering his other pursuits.}
-{781}{}{Other pursuits?}
+{745}{}{Eles tinham potenciadores de memória para os Pip-Boys lá. Tinha dicionários e enciclopédias armazenados neles. Tomei um dos intensificadores linguais quando saí,
+ embora não saiba por quê.}
+{746}{}{Onde está esse intensificador?}
+{750}{}{*Bocejo*... (Enrola-se.) Está no meu cofre. Não há muito uso sem um Pip-Boy,
+ no entanto. Não sei porque ainda guardo.}
+{751}{}{Você pode me dar?}
+{752}{}{Hmmmnn. Eu tenho outras perguntas...}
+{760}{}{(Dá de ombros.) Claro, se você quiser. A combinação é }
+{761}{}{Como eu uso isso?}
+{762}{}{Obrigado. Olha, eu tinha algumas outras perguntas...}
+{770}{}{(Sra. Bishop rola e fecha os olhos. Em alguns segundos, ela está dormindo.)}
+{771}{}{Sai da cama silenciosamente e se veste.}
+{780}{}{O único 'amor' que temos consiste em ele entrar a força no meu quarto e montar
+ em mim como um brahmin bêbado. E essa talvez seja sua qualidade menos desprezível,
+ considerando suas outras atividades.}
+{781}{}{Outras atividades?}
 {790}{}{He also probably wants a say in who controls the drug trade in the new California
  Republic... him. He's been looking into rigging elections down soooouth... *yawn*}
 {791}{}{So he's actually planning to have Reno JOIN the Republic... hmmmm. Okay, then,
