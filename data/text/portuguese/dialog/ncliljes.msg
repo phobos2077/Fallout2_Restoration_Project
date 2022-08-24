@@ -25,13 +25,13 @@
 {273}{}{Você }
 {274}{}{Se você ainda tiver aqui quando eu terminar minha bebida, vou gravar meu nome na sua cara.}
 {275}{}{::Começa a brincar com a faca de forma ameaçadora.::}
-{276}{}{Lookin for your hermana, }
+{276}{}{Procurando tua hermana, }
 {277}{}{Mas que po... Você! Você, o que está fazendo aqui?}
 {278}{}{Ei! Puta! Estás procurando pelo anjo da morte? Cai fora!}
-{279}{}{Thought they kept you locked up in the kennel, puta.}
-{280}{}{If you ain't here to kiss my ass, }
+{279}{}{Achei que eles te botaram trancada no canil, puta.}
+{280}{}{Só se você não tiver aqui pra beijar minha bunda, }
 {281}{}{Hija de una puta…}
-{300}{}{Yo! Hombre, you can't be carrying that around in here.}
+{300}{}{Ei! Hombre, você não pode carregar isso aqui.}
 {301}{}{Ei! Amigo, guarde essa coisa antes que as pessoas comecem a ficar nervosas.}
 {310}{}{Ei! Chica, você não pode andar aqui carregando essa coisa.}
 {311}{}{Ei! Chica, guarde essa coisa antes que as pessoas comecem a ficar nervosas.}
@@ -42,7 +42,7 @@
 {342}{}{A última luta foi épica, hombre.}
 {343}{}{Voa como uma borboleta, pica como uma abelha. Esse é você, }
 {344}{}{'Cê sabe, os Mordinos fariam bom uso de seus músculos, }
-{345}{}{Bet on you, best money I ever placed. You were throwing hooks like nobody's business.}
+{345}{}{Aposto em você, melhor dinheiro que já coloquei. Você estava mandando ganchos como ninguém.}
 {346}{}{Vi você lutar no ringue.}
 {347}{}{Quanto você tem de envergadura, }
 {348}{}{Qual foi sua estratégia, hein?}
@@ -50,7 +50,7 @@
 {350}{}{Eu te pagaria uma bebida se não tivesse perdido todo meu dinheiro apostando no seu oponente.}
 {351}{}{De onde você é, pra lutar assim? Você é bom. Digo, BOM.}
 {352}{}{Onde aprendeu a lutar assim, chica? Você é violenta.}
-{353}{}{Last fight was something out of a fucking epic, chica.}
+{353}{}{A última luta foi algo fora de sério, fia.}
 {354}{}{Qual foi sua estratégia, hein? Precisa de um ajudante?}
 {370}{}{Hey, hey, hey! Chica, you need to me to put that weapon away for you?}
 {371}{}{O quê, você quer eu te reviste toda? Vamos lá, abaixe esse ferro antes que eu fique bravo.}
