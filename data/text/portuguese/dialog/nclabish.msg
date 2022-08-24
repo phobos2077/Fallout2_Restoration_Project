@@ -404,24 +404,24 @@ eu te daria um sermão fudido. Agora venha aqui.}
  registros meticulosos e usar para chantagens.}
 {820}{}{(Sua pergunta é recebida com silêncio... A Sra. Bishop adormeceu. Ela tem
  um sorriso largo no rosto e está segurando o travesseiro com força, murmurando seu nome.)}
-{821}{}{(Your question is met with silence... Mrs. Bishop has fallen asleep. You can't
- help but wonder if she would've stayed awake longer if you'd been more... skilled,
- but you quickly repress the thought before it hurts your ego.)}
-{822}{}{(Slip out of bed quietly.)}
-{825}{}{(A few minutes into your love-making, Mrs. Bishop suddenly falls asleep.
- Soft snores begin to emanate from her body.)}
-{826}{}{(Finish up, then leave.)}
-{900}{}{You have convinced Mrs. Bishop that she can change her life... for the better.}
+{821}{}{(Sua pergunta é recebida com silêncio... A Sra. Bishop adormeceu. Você não
+ consegue deixar de pensar se ela teria ficado acordada por mais tempo se você fosse
+ mais... habilidoso, mas você rapidamente reprime o pensamento antes isso fira seu ego.)}
+{822}{}{(Sai da cama em silêncio.)}
+{825}{}{(Alguns minutos depois de fazer amor, a Sra. Bishop de repente adormece.
+ Você começa a escutar roncos suaves.)}
+{826}{}{(Termina e vai embora.)}
+{900}{}{Você convenceu a Sra. Bishop que ela pode mudar sua vida... para melhor.}
 {1253}{}{.}
-{1315}{}{...' So...'}
+{1315}{}{...' Então...'}
 {1510}{}{, mmm-mmmm... mmmzmzrrm}
 {1511}{}{... oooh... }
 {1512}{}{... mmm...}
 {1591}{}{. }
-{1665}{}{... (Mrs. Bishop... Leslie... turns over and raises herself on her elbows.)
- His safe is trapped. So be careful, all right? You are no good to me with no
- fingers. (Smiles, rolls back over.)}
-{1760}{}{. The enhancer is in a compartment in the bottom of the safe... a thief isn't
- going to find it unless they know what to look for.}
-{2315}{}{'...what, pray tell, do you think I can do for you?}
+{1665}{}{... (Sra. Bishop... Leslie... vira-se e se levanta sobre os cotovelos.) O cofre
+ dele está preso. Então tome cuidado, está bem? Você não é bom para mim
+ sem dedos. (Sorri, rola de volta.)}
+{1760}{}{. O potenciador está em um compartimento no fundo do cofre... um ladrão
+ não vai encontrá-lo a menos que saiba o que procurar.}
+{2315}{}{'... o que, por favor, diga, você acha que eu posso fazer por você?}
 {2511}{}{... mmm}

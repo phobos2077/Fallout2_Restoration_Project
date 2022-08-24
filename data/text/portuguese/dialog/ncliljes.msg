@@ -1,7 +1,7 @@
-{150}{}{You see a sunburned young man dressed in black leather and chains. His face is pock-marked
- with acne scars.}
-{151}{}{You see Lil' Jesus Mordino.}
-{152}{}{You see Lil' Jesus Mordino. He is dressed mostly in black leather and playing with one of his knives.}
+{150}{}{Você vê um jovem queimado de sol vestido com couro preto e correntes. Seu rosto é marcado por cicatrizes
+ de espinha.}
+{151}{}{Você vê Lil' Jesus Mordino.}
+{152}{}{Você vê Lil' Jesus Mordino. Ele está quase todo vestido de couro preto e brincando com uma de suas facas.}
 {200}{}{E ae! }
 {201}{}{Do caralho, }
 {202}{}{::Faz o sinal de positivo pra você::}
@@ -9,22 +9,22 @@
 {220}{}{Como você mija com um coisa dessas?}
 {230}{}{Bela arma, }
 {240}{}{Pra quê está se escondendo, hein, }
-{250}{}{Wazzup, }
+{250}{}{Uepa, }
 {251}{}{Heeey... }
 {252}{}{Meeer-da, está quente.}
-{253}{}{Heeey! Whacha been up to, }
-{254}{}{Good to see you, }
-{255}{}{Hey! Come and check out my new knife, }
-{256}{}{What shit Dad got you doing now, }
-{257}{}{We goin' out tonight, }
-{258}{}{My knife needs some Bishop blood...}
-{259}{}{Gonna carve up so many Salvatores they'll call me the "butcher"...}
+{253}{}{Heeey! Fazendo o que, }
+{254}{}{Bom te ver, }
+{255}{}{Ei! Vem ver minha nova faca, }
+{256}{}{Que merda papai fez você fazer agora, }
+{257}{}{Nós vamos sair hoje à noite, }
+{258}{}{Minha faca precisa de um pouco de sangue Bishop...}
+{259}{}{Vou cortar tantos Salvatores que vão me chamar de "açougueiro"...}
 {270}{}{Ei! Cabrón! Estás procurando pelo anjo da morte? Cai fora!}
-{271}{}{You got some cojones coming in here, }
+{271}{}{Você mostra bastante coragem vindo aqui, }
 {272}{}{Hijo de una puta…}
-{273}{}{You }
-{274}{}{If you're still here when I finish my drink, I'm gonna carve my name on your face.}
-{275}{}{::Starts playing with his knife threateningly.::}
+{273}{}{Você }
+{274}{}{Se você ainda tiver aqui quando eu terminar minha bebida, vou gravar meu nome na sua cara.}
+{275}{}{::Começa a brincar com a faca de forma ameaçadora.::}
 {276}{}{Lookin for your hermana, }
 {277}{}{Mas que po... Você! Você, o que está fazendo aqui?}
 {278}{}{Ei! Puta! Estás procurando pelo anjo da morte? Cai fora!}
