@@ -389,17 +389,17 @@ eu te daria um sermão fudido. Agora venha aqui.}
  em mim como um brahmin bêbado. E essa talvez seja sua qualidade menos desprezível,
  considerando suas outras atividades.}
 {781}{}{Outras atividades?}
-{790}{}{He also probably wants a say in who controls the drug trade in the new California
- Republic... him. He's been looking into rigging elections down soooouth... *yawn*}
-{791}{}{So he's actually planning to have Reno JOIN the Republic... hmmmm. Okay, then,
- let's talk about something else...}
-{792}{}{Interesting. I wanted to know some other things about what John's been up to...}
-{800}{}{Drugs are illegal in Vault City, of course. The other Citizens found out and revoked my Citizenship. John was the only one I could turn to... he knew that, of course. He'd planned the whole thing.}
-{801}{}{So you got your education in Vault City? That's why you sound different than
- everyone else here in New Reno?}
-{810}{}{Just attach the headgear, place the optic sensor over your right eye, then connect
- the other end... hmpphh... (Rolls over.) ..to the Pip-Boy. You'll feel a slight rush,
- some nausea, then your head will feel... clearer.}
+{790}{}{Ele provavelmente quer uma opinião sobre quem controla o tráfico de drogas na
+ NCR... ele. Ele anda investigando a manipulação de eleições lá embaixo... *bocejo*}
+{791}{}{Então ele está planejando fazer que Reno JUNTE-SE à República... hmmmm. Entendi,
+ vamos falar de outra coisa...}
+{792}{}{Interessante. Eu queria saber algumas outras coisas sobre o que John tem feito...}
+{800}{}{Drogas são ilegais em Vault City, claro. Os outros cidadãos descobriram e revogaram minha cidadania. John era o único a quem eu podia recorrer... ele sabia disso, é claro. Ele planejou a coisa toda.}
+{801}{}{Então você estudou em Vault City? É por isso que você fala diferente de todo
+ mundo aqui em New Reno?}
+{810}{}{Você só tem que o colocar na cabeça, coloque o sensor óptico sobre seu olho direito,
+ então conecte a outra extremidade... hmpphh... (rola.) ..no Pip-Boy. Você sentirá
+ uma leve sacudida, alguma náusea, então sua cabeça ficará... mais clara.}
 {815}{}{Mmmmmnnn...? I don't know. Maybe John's safe in his room... he prefers keeping
  meticulous records for blackmail purposes.}
 {820}{}{(Your question is met with silence... Mrs. Bishop has fallen asleep. She has
