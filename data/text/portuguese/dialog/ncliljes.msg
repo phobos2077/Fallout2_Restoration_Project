@@ -112,61 +112,61 @@
 {562}{}{Está satisfeito, ou eu tenho que chamar uma das putas para que você relaxe? Ah!}
 {563}{}{Você está satisfeito, ou eu tenho que chamar uma das garçonetes para que você relaxe? Ah!}
 {567}{}{Não, eu tudo certo. Olhe, eu tenho algumas perguntas para você, Jesus...}
-{568}{}{No, I'm good, thanks. Catch you later.}
-{582}{}{Eh? You looking to deal, slaver? Got some stock you wanna unload?}
-{583}{}{Me unload! Me unload!}
-{586}{}{Sure. Are you the one to talk to?}
+{568}{}{Não, estou bem, obrigado. Te vejo mais tarde.}
+{582}{}{Eh? Você quer negociar, escravista? Tem algum material que precisa descarregar?}
+{583}{}{Eu descarrega! Eu descarrega!}
+{586}{}{Claro. Você é o único que preciso falar?}
 {587}{}{Agora não. Mas eu tenho algumas perguntas para você...}
-{588}{}{Not right now. Maybe later.}
-{600}{}{Heh. You been out squatting in the sun too long. Get.}
-{601}{}{Eh... right. You take care, amigo. I'll catch you later.}
-{602}{}{Eh... right. You take care, chica. I'll catch you later.}
-{603}{}{Heh. Maybe you oughta go back out and squat in the sun, tribal. Clear the air in here.}
-{604}{}{Okeee Doh-kee}
+{588}{}{Não agora. Talvez mais tarde.}
+{600}{}{Heh. O sol tá te castigando faz muito tempo. Vai.}
+{601}{}{É... certo. Tome cuidado, amigo. Te vejo mais tarde.}
+{602}{}{É... certo. Tome cuidado, fia. Eu vou pegá-lo mais tarde.}
+{603}{}{Heh. Talvez você devesse se virar e se rastejar para o sol, tribal. Tire seu cheiro daqui.}
+{604}{}{Peido molhado}
 {620}{}{Cai fora daqui.}
-{621}{}{Come around here again, and I'll fill you so full o' lead even Superman couldn't see through you.}
-{622}{}{::Plays with knife threateningly::}
+{621}{}{Aparece aqui de novo, e eu te encho tanto de chumbo que nem o Super Homem vai ver através de você.}
+{622}{}{::Brinca com a faca de forma ameaçadora::}
 {623}{}{::Cospe no seu pé.::}
-{624}{}{You look like someone who don't know when they're about to die.}
-{625}{}{Beat it 'fore I waste you.}
-{626}{}{Come around here again, and I'll gut you.}
-{640}{}{(Picks fingernails with knife.) Questions... EVERYBODY got questions...}
-{641}{}{(Picks his teeth with a dirty fingernail.) Yeah?}
-{642}{}{Something on your mind?}
-{643}{}{What was that you were saying about the Mordino Family again?}
+{624}{}{Você parece alguém que não sabe quando está prestes a morrer.}
+{625}{}{Suma antes que eu te machuque.}
+{626}{}{Venha aqui de novo, e eu vou estripar você.}
+{640}{}{(Limpa as unhas com a faca.) Perguntas... TODO MUNDO tem perguntas...}
+{641}{}{(Limpa os dentes com a unha suja.) Sim?}
+{642}{}{Pensando em algo?}
+{643}{}{O que você estava dizendo sobre a Família Mordino mesmo?}
 {644}{}{Estou à procura de trabalho.}
-{645}{}{What is there to do around New Reno to relax?}
-{646}{}{You know anything about Richard Wright overdosing on Jet?}
-{647}{}{Can you teach me knife fighting?}
-{648}{}{Nevermind. Catch you later.}
-{660}{}{Me? If you gotta ask... heh. Name's Jesus. Jesus Mordino. Same as my Dad, he's the BIG Jesus, head of the WHOLE Mordino family
- here in Reno. So most call me Lil' Jesus. Prevents confusion, y'know?}
-{661}{}{Family Mordino? Who are they?}
-{662}{}{I've heard about your family. I hear you guys are a force to be reckoned with.}
-{663}{}{I'm looking for a job. Is Family Mordino hiring?}
-{665}{}{Know what there is to do around New Reno to relax?}
+{645}{}{O que tem em New Reno para relaxar?}
+{646}{}{Sabe alguma coisa sobre a overdose de jet de Richard Wright?}
+{647}{}{Você pode me ensinar a lutar com facas?}
+{648}{}{Nada não. Te vejo mais tarde.}
+{660}{}{Eu? Se você está perguntando... heh. Nome é Jesus. Jesus Mordino. Igual ao meu pai, ele é o GRANDE Jesus, chefe de TODA a família
+ Mordino aqui em Reno. Então, a maioria me chama de Lil' Jesus. Evita confusão, sabe?}
+{661}{}{Família Mordino? Quem são eles?}
+{662}{}{Ouvi falar da sua família. Ouvi dizer que vocês são uma das grandes forças por aqui.}
+{663}{}{Estou à procura de trabalho. A Família Mordino está contratando?}
+{665}{}{Sabe o que há para fazer em New Reno para relaxar?}
 {666}{}{Certo. Olha, eu tenho algumas perguntas...}
-{680}{}{We Mordinos are gonna run New Reno... and Redding, too. You'll see.}
-{681}{}{Family MORDINO? You been taking too much Jet, homes? We Mordinos run New Reno... and Redding, too.}
-{682}{}{Family MORDINO? You been taking too much Jet, chica? We Mordinos run New Reno... and Redding, too.}
-{683}{}{Sounds like the Mordino family is the one to hook up with... can you set me up?}
-{684}{}{What do you mean about Redding?}
-{685}{}{Redding? Where's that?}
-{686}{}{Sounds like the Mordinos have a bright future. Say, I had some questions...}
-{687}{}{You Mordinos talk big, but got small cojones. What you got to say about that, LITTLE Jesus?}
-{700}{}{To the northwest, homes. }
-{701}{}{To the northwest, chica. }
-{702}{}{If you ain't been there, you ain't missing nothing. Bunch of no-neck miners who like to FLY, know what I'm saying?}
-{703}{}{Not really. What do you mean?}
-{704}{}{They're a bunch of drug addicts?}
+{680}{}{Nós, Mordinos, vamos tomar conta de New Reno... e Redding também. Você verá.}
+{681}{}{Família MORDINO? Anda tomando muito Jet, mano? Nós, Mordinos, mandamos em New Reno... e Redding também.}
+{682}{}{Família MORDINO? Anda tomando muito Jet, fia? Nós, Mordinos, mandamos em New Reno... e Redding também.}
+{683}{}{Parece que a Família Mordino é a ideal para se juntar... você pode me dar uma mão?}
+{684}{}{O que seria esse tal de Redding?}
+{685}{}{Redding? Onde fica?}
+{686}{}{Parece que os Mordinos têm um futuro brilhante. Olha, eu tinha algumas perguntas...}
+{687}{}{Vocês Mordinos falam demais, mas têm uma coragem pequenininha. O que você tem a dizer sobre isso, PEQUENO Jesus?}
+{700}{}{Está a noroeste, cara. }
+{701}{}{Está a noroeste, minha fia. }
+{702}{}{Se você não passou por lá, não perdeu nada. Um bando de mineiros sem pescoço que gostam de chapar, entendeu o que eu disse?}
+{703}{}{Na verdade, não. O que você quer dizer?}
+{704}{}{Eles são um bando de viciados em drogas?}
 {705}{}{Te ouço. Eu tenho algumas perguntas...}
-{706}{}{I have to go. Later, Jesus.}
-{720}{}{Bunch of no-neck miners, dig in the dirt, but they like to FLY, know what I'm saying?}
-{740}{}{Them no-necks dig for gold, see, but what WE give them is better than gold, know what I'm saying? They give us ALL
- the gold they dig up just for a LEETLE Jet. Everybody happy.}
+{706}{}{Eu tenho que ir. Até mais tarde, Jesus.}
+{720}{}{Bando de mineiros sem pescoço, cavam na terra, mas eles gostam de CHAPAR, sabe o que estou dizendo?}
+{740}{}{Aqueles sem pescoço cavam por ouro, olha, mas o que NÓS damos a eles é melhor que ouro, entendeu? Eles nos dão TODO
+ o ouro que desenterram apenas para um MÍSERO Jet. Todo mundo fica feliz.}
 {742}{}{Parece que sim. Olha, eu tinha algumas perguntas...}
-{760}{}{Well, when they got their first taste o' Jet, they were. You can't have just one.}
-{761}{}{Where does the Jet come from?}
+{760}{}{Bem, assim que experimentaram o Jet pela primeira vez, eles foram. Você não consegue tentar apenas uma vez.}
+{761}{}{De onde vem o Jet?}
 {762}{}{Eu ouço. Olha, eu tenho outras perguntas ..}
 {780}{}{The Jet? It comes from HERE. See, we don't dig for gold, we MAKE it: liquid gold. Jet. Worth a fortune to the miners, costs
  next to nothing to make. We ship it to Redding, they shoot up, they fly, they ship us gold. That simple.}
