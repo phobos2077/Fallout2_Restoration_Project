@@ -52,17 +52,17 @@
 {352}{}{Onde aprendeu a lutar assim, chica? Você é violenta.}
 {353}{}{A última luta foi algo fora de sério, fia.}
 {354}{}{Qual foi sua estratégia, hein? Precisa de um ajudante?}
-{370}{}{Hey, hey, hey! Chica, you need to me to put that weapon away for you?}
+{370}{}{Ei, ei, ei! Fia, você precisa que eu guarde essa arma para você?}
 {371}{}{O quê, você quer eu te reviste toda? Vamos lá, abaixe esse ferro antes que eu fique bravo.}
-{390}{}{No way you're sneaking by Lil' Jesus with a bod like that, chica.}
-{400}{}{Your film wasn't bad, but you obviously need a few pointers from me. ::Laughs::}
+{390}{}{Opa, não tem como você passar por Lil' Jesus com um corpinho desses, fia.}
+{400}{}{Seu filme não foi dos piores, mas é óbvio que você precisa de umas dicas minhas. ::gargalha::}
 {401}{}{Ei, }
 {402}{}{Estou pronto, preparado, coloque-me num filme, certo? Falamos no escritório, }
 {403}{}{Eu sou o maior amante Latino. Não há amante Latino como eu.}
 {404}{}{Fale de mim para os Brothers, }
-{405}{}{Give a good word to the brothers for me, alright?}
+{405}{}{Dê uma boa palavra aos irmãos por mim, certo?}
 {406}{}{Você está fazendo a coisa certa, lidando com os Mordinos.}
-{407}{}{Need some drugs? Hootch? Some chips? I can set you up. I'm co-nnected, see?}
+{407}{}{Precisa de algumas drogas? licor? Algumas batatas fritas? Eu posso te arranjar. Tenho contatos, viu?}
 {408}{}{E então, que tal um filme nosso? Eu te trato bem, chica. Eu te mostro o que um amante Latino sabe fazer.}
 {409}{}{Por que não passa aqui depois do trabalho?}
 {410}{}{Você tem amigos?}
@@ -80,37 +80,37 @@
 {467}{}{Esse robô vai virar sucata se ficar aqui.}
 {475}{}{YO ACHO que senti cheiro de mutante. Tire ele daqui antes que fiquemos bravos.}
 {476}{}{Gostas de mutantes? O lugar dele é LÁ FORA. Ou então...}
-{477}{}{That mutant sticks around, he's gonna become target practice.}
+{477}{}{Se aquele mutante ainda estiver por perto, ele vai virar tiro ao alvo.}
 {485}{}{YO ACHO que senti cheiro de carniça. Tire esse ghoul daqui.}
 {486}{}{Tire esse ghoul fedorento daqui. Agora.}
 {487}{}{Se esse ghoul não sair daqui em um minuto, vai ficar mais morto do que já está.}
-{495}{}{Hey, you. C'mon over here and let me see that knife.}
-{496}{}{Nice knife.}
-{497}{}{Can I see that knife for a second?}
+{495}{}{Ei você. Venha aqui e me deixe ver aquela faca.}
+{496}{}{Bela faca.}
+{497}{}{Posso ver aquela faca por um segundo?}
 {505}{}{Hunh? }
-{506}{}{Something you want, amigo?}
-{507}{}{Something you want, chica?}
+{506}{}{Quer alguma coisa, amigo?}
+{507}{}{Quer alguma coisa, fia?}
 {508}{}{Hoo ooh?}
 {511}{}{Cai fora}
 {512}{}{Quem é você?}
 {513}{}{Desculpe. Achei que você fosse outra pessoa.}
-{522}{}{Eh...? You again? What do you want now?}
-{523}{}{Heeeey... whatzzup, friend? Something on your mind?}
-{524}{}{Me from under where}
-{525}{}{Ay-me-go?}
-{526}{}{Cheee-ka Cheeek-aaaah}
+{522}{}{Eh...? Você de novo? Quer o que agora?}
+{523}{}{Heeeey... como é que tá, bonitão? Pensando em algo?}
+{524}{}{Eu de baixo de onde}
+{525}{}{A-mi-go?}
+{526}{}{Fiii-aaa Fiaaa-iaaahhhh}
 {529}{}{Eu tenho algumas perguntas…}
 {530}{}{Deixa pra lá. Desculpe incomodá-lo.}
 {540}{}{}
 {541}{}{}
-{542}{}{Hey, hey, hey! You're }
-{544}{}{Fire it up fire it up}
+{542}{}{Ei, ei, ei! Você é }
+{544}{}{Bora bora bora}
 {547}{}{Obrigado, pequeno Jesus. Ei, eu tenho algumas perguntas para você...}
-{548}{}{Thanks for the compliment. I was just stopping by; I have to be going.}
-{549}{}{Yeah, I don't need you to tell me that. Just watch yourself.}
-{560}{}{Heeeey! How's it going, }
-{562}{}{You being helped, or do I got to call over one of the putas ta get you set up? Ha!}
-{563}{}{You being helped, or do I got to call over one of the waitresses ta get you set up? Ha!}
+{548}{}{Obrigado pelo elogio. Só passava por aqui; preciso ir.}
+{549}{}{Sim, eu não preciso que você me diga isso. Observe a si mesmo.}
+{560}{}{Heeeey! Como tá indo, }
+{562}{}{Está satisfeito, ou eu tenho que chamar uma das putas para que você relaxe? Ah!}
+{563}{}{Você está satisfeito, ou eu tenho que chamar uma das garçonetes para que você relaxe? Ah!}
 {567}{}{Não, eu tudo certo. Olhe, eu tenho algumas perguntas para você, Jesus...}
 {568}{}{No, I'm good, thanks. Catch you later.}
 {582}{}{Eh? You looking to deal, slaver? Got some stock you wanna unload?}

@@ -1,34 +1,34 @@
 {100}{}{Um terminal de computador.}
-{101}{}{The screen saver is active.}
+{101}{}{O protetor de tela está ativo.}
 {102}{}{Você é incapaz de ler o que está no monitor.}
-{103}{}{Skynet Security Systems
-                                            Intruder Level 1
-                                                  Activating Counter Measures Level 1
-                              Counter Measures - Stopped Transmitting
-                        Activating Automated Repair Systems}
-{104}{}{Skynet Security Systems
-                                            Intruder Level 1
-                                                  Activating Counter Measures Level 1
-                        Attempting to reroute power to field generators}
-{105}{}{Skynet Security Systems
-                                           Intruder Level 1
-                                               Activating Counter Measures Level 1}
-{106}{}{Terminate Alarm Level 1 - False Alarm}
-{107}{}{[You notice a key on the keyboard labeled "Help"]. Press Key.}
+{103}{}{Sistemas de Segurança Skynet
+                                            Intruso Nível 1
+                                                  Ativando Contramedidas Nível 1
+                              Contramedidas - Transmissão Interrompida
+                        Ativando Sistemas de Reparação Automática}
+{104}{}{Sistemas de Segurança Skynet
+                                           Intruso Nível 1
+                                                  Ativando Contramedidas de Segurança Nível 1
+                        Tentativa de redirecionar energia para geradores de campo}
+{105}{}{Sistemas de Segurança Skynet
+                                           Intruso Nível 1
+                                                  Ativando Contramedidas de Segurança Nível 1}
+{106}{}{Finalizar Alarme Nível 1 - Alarme Falso}
+{107}{}{[Você percebe uma tecla no teclado chamada "Ajuda"]. Pressione a tecla.}
 {108}{}{"Hackear" o sistema de segurança}
 {109}{}{Sair}
-{110}{}{Arg! [You slam your fist into the keyboard in frustration]}
-{112}{}{Skynet Security Systems
-                                           Intruders Detected - Outside Perimeter
-                       Automated Repairs Initiated
-                                    Main Door - Malfunction
-                                    Reinitializing...
-                                                     Main Door reports locking bolts still in place
-                    Returning to power save mode}
-{113}{}{Activate Alarm System Level 1}
-{114}{}{Run self-diagnostic program.}
+{110}{}{Arg! [Você bate seu punho no teclado frustrado]}
+{112}{}{Sistemas de Segurança Skynet
+                                           Intrusos Detectados - Perímetro Exterior
+                       Sistemas de Reparação Automática
+                                    Porta Principal - Erro de Funcionamento
+                                    Reiniciando...
+                                                     Relatórios da Porta Principal Acionam as Travas Ainda na Posição
+                    Retornando ao Modo de Economia de Energia}
+{113}{}{Ativar Sistema de Alarme Nível 1}
+{114}{}{Execute o programa de autodiagnóstico.}
 {115}{}{Sair}
-{116}{}{Arg! [You slam your fist into the keyboard in frustration]}
+{116}{}{Arg! [Você bate seu punho no teclado frustrado]}
 {118}{}{Skynet Security Systems
                                           Access to this terminal is denied.}
 {120}{}{Sair}

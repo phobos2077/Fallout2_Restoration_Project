@@ -1,6 +1,6 @@
-{100}{}{This is a cybernetic receptacle. It looks like it can be repaired
- with the right parts.}
-{101}{}{You replace the broken motivator.}
-{102}{}{You connect the brain to the neural interface of the receptacle.}
-{103}{}{The Biomed Gel reservoirs are now full.}
-{104}{}{Look's all set to be activated.}
+{100}{}{Este é um receptáculo cibernético. Parece que pode ser reparado
+ com as peças certas.}
+{101}{}{Você substitui o motivador quebrado.}
+{102}{}{Você conecta o cérebro à interface neural do receptáculo.}
+{103}{}{Os reservatórios do Biomed Gel estão agora cheios.}
+{104}{}{Look está pronto para ser ativado.}

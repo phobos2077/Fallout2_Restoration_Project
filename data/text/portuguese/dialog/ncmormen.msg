@@ -63,7 +63,7 @@
 {305}{}{Você está fazendo a coisa certa, lidando com os Mordinos.}
 {306}{}{Precisa de Jet? Eu posso te arrumar, chica.}
 {307}{}{Chica, não há nada que eu não faria por você... vamos lá, me dê um beijinho.}
-{308}{}{Need some drugs? Hootch? Some chips? I can set you up. I'm co-nnected, see?}
+{308}{}{Precisa de algumas drogas? licor? Algumas batatas fritas? Eu posso te arranjar. Tenho contatos, viu?}
 {315}{}{Não ande com ferro por aqui, chapa. Guarde isso.}
 {320}{}{Não fique se escondendo por aí, escravagista. Você está entre amigos.}
 {325}{}{Ei! És burro ou o quê? Guarde essa coisa antes que yo tenha que te machucar.}
