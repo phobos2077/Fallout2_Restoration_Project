@@ -400,10 +400,10 @@ eu te daria um sermão fudido. Agora venha aqui.}
 {810}{}{Você só tem que o colocar na cabeça, coloque o sensor óptico sobre seu olho direito,
  então conecte a outra extremidade... hmpphh... (rola.) ..no Pip-Boy. Você sentirá
  uma leve sacudida, alguma náusea, então sua cabeça ficará... mais clara.}
-{815}{}{Mmmmmnnn...? I don't know. Maybe John's safe in his room... he prefers keeping
- meticulous records for blackmail purposes.}
-{820}{}{(Your question is met with silence... Mrs. Bishop has fallen asleep. She has
- a wide smile on her face and is clutching her pillow tightly, mumbling your name.)}
+{815}{}{Mmmmm...? Não sei. Talvez John esteja seguro em seu quarto... ele prefere manter
+ registros meticulosos e usar para chantagens.}
+{820}{}{(Sua pergunta é recebida com silêncio... A Sra. Bishop adormeceu. Ela tem
+ um sorriso largo no rosto e está segurando o travesseiro com força, murmurando seu nome.)}
 {821}{}{(Your question is met with silence... Mrs. Bishop has fallen asleep. You can't
  help but wonder if she would've stayed awake longer if you'd been more... skilled,
  but you quickly repress the thought before it hurts your ego.)}
