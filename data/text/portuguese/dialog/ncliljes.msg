@@ -168,45 +168,45 @@
 {760}{}{Bem, assim que experimentaram o Jet pela primeira vez, eles foram. Você não consegue tentar apenas uma vez.}
 {761}{}{De onde vem o Jet?}
 {762}{}{Eu ouço. Olha, eu tenho outras perguntas ..}
-{780}{}{The Jet? It comes from HERE. See, we don't dig for gold, we MAKE it: liquid gold. Jet. Worth a fortune to the miners, costs
- next to nothing to make. We ship it to Redding, they shoot up, they fly, they ship us gold. That simple.}
-{781}{}{How long has this been going on? It seems like you would have controlled all of Northern California by now if Jet was that
- addictive.}
-{800}{}{You're right about that... see, we didn't always HAVE Jet. But we stumbled across this kid - he took a look at the shitty
- drugs we was selling and said he could do 'better.' And he did. Now he works for us. That simple.}
-{801}{}{Who is this kid and where is he?}
-{820}{}{Kid's name's Myron. As for where he IS, that's somethin' you don't need to know.}
-{821}{}{Kid's name's Myron. We got him set up in the stables, north of town, testing new drugs. You could go over and see him if
- you want, but he's busy most of the time... either with the drugs or the women.}
-{822}{}{Why don't you get smart and tell me anyway?}
+{780}{}{Jet? Vem daqui. Entenda, nós não procuramos ouro, nós FAZEMOS: ouro líquido. Jet. Vale uma fortuna para os mineiros, não custa quase
+ nada para fazer. Nós enviamos para Redding, eles ficam loucos, voam, e nos enviam ouro. simples.}
+{781}{}{Há quanto tempo isso vem acontecendo? Parece que você já teria controlado todo o norte da Califórnia se Jet fosse tão
+ viciante.}
+{800}{}{Nessa você acertou... então, nem sempre tivemos Jet. Mas achamos esse garoto - ele viu essas drogas morféticas que estávamos
+ vendendo e disse que poderia fazer 'melhor', e fez. Agora ele trabalha para nós. Muito simples.}
+{801}{}{Quem é esse garoto e onde ele está?}
+{820}{}{O nome do garoto é Myron. Quando a onde ele ESTÁ, isso é algo que você não precisa saber.}
+{821}{}{O nome do garoto é Myron. O colocamos nos estábulos, ao norte da cidade, testando novas drogas. Você pode ir vê-lo se quiser, mas ele
+ está ocupado a maior parte do tempo... ou com as drogas ou com as mulheres.}
+{822}{}{Por que você não da uma esperto e me responde assim mesmo?}
 {823}{}{Eu consegui. Eu tenho mais perguntas...}
-{824}{}{Myron, huh? All right then, Jesus. Thanks for the conversation.}
-{840}{}{The Desperado is the place to be, homes. We got the Jet, the games, the action... and we got all the putas you need
- right outside, wet and willing. Paradise, homes. Pair-a-dice.}
-{841}{}{The Desperado is the place to be, chica. We got the Jet, the games, and the action. You
- ain't need to go nowhere else.}
-{842}{}{So... you wanna re-lax, chica? Heh... then how 'bout you and me get down to some sweet love?}
-{843}{}{Tempting, but I haven't got ten seconds for your sweet love right now, Little Jesus.}
+{824}{}{Myron, né? Tudo bem então, Jesus. Obrigado pela conversa.}
+{840}{}{O Desperado é o lugar correto, cara. Temos jet, os jogos, a ação... e temos todas as putas que você precisa do lado de fora, molhadinhas
+ e dispostas. Paraíso, filhão. Pa-ra-iso.}
+{841}{}{O Desperado é o lugar correto, fia. Temos jet, os jogos e a ação. Não precisa ir para nenhum
+ outro lugar.}
+{842}{}{Então... você quer relaxar, docinho? Heh... então que tal nós descermos para um amorzinho?}
+{843}{}{Tentador, mas não tenho dez segundos para o seu amorzinho agora, Nanico Jesus.}
 {844}{}{Agradeço muito, mas não obrigado. Olha, eu tenho algumas perguntas.}
-{846}{}{I'm looking for a job. Know of any place that's hiring?}
-{847}{}{Thanks for the tip, thanks.}
-{848}{}{Why don't you start without me? I have to go.}
-{860}{}{Eh? What are you talkin ab --? (Gets it.) You fucking PUTA! You better get yo tramp ass outta here 'fore I carve you
- into so many pieces your own mother won't recognize you.}
-{861}{}{Eh? What are you talkin ab --? (Gets it.) You better get your ass out here, homes, 'fore I take my knife and give
- you a second smile on that neck of yours.}
-{862}{}{Try it and see what happens, LITTLE Jesus.}
-{863}{}{Try it, and I'll add so many scars to your face you'll look like a jigsaw puzzle.}
+{846}{}{Estou à procura de trabalho. Conhece algum lugar que esteja contratando?}
+{847}{}{Obrigado pela dica, valeu mesmo.}
+{848}{}{Por que você não começa sem mim? Preciso ir.}
+{860}{}{Eh? O que você está falan --? (Se aproxima.) PUTA FODIDA! É melhor você vazar daqui antes que eu te corte em tantos pedaços
+ que sua própria mãe vai te reconhecer.}
+{861}{}{Eh? O que você está falan --? (Se aproxima.) É melhor você sair daqui, viado, antes que eu pegue minha faca e dê um segundo
+ sorriso nesse seu pescoço.}
+{862}{}{Experimente e veja o que acontece, PEQUENO Jesus.}
+{863}{}{Tenta, e eu enfio tantas cicatrizes na sua cara que você vai parecer um quebra-cabeça.}
 {864}{}{Tranquilo... Eu só estava zuando.}
 {865}{}{Frio. Eu tenha outras perguntas...}
-{867}{}{I'm leaving. Great talking to someone as cultured as you.}
-{880}{}{Ha! You all right, chica. You all right. Lil' Jesus gonna be keeping an eye on you... not that I couldn't help myself. What
- can I do for you?}
-{881}{}{First thing you can do for me is keep your eyes to yourself, LITTLE Jesus. I'd sooner consider humping a rock before
- touching that cratered landscape you call a face.}
-{882}{}{I'm looking for a job. Know of anyone who's hiring?}
+{867}{}{Estou indo. Ótimo conversar com alguém tão culto quanto você.}
+{880}{}{Ah! Tudo bem, mocinha. Claro que não. O Lil' Jesus vai ficar de olho em você... não que eu também não possa evitar. O que posso
+ fazer por você?}
+{881}{}{A primeira coisa que você pode fazer por mim é manter seus olhos longe, PEQUENO Jesus. Prefiro transar com uma pedra do
+ que tocar nessa pedaço cheio de crateras que você chama de cara.}
+{882}{}{Estou à procura de trabalho. Sabe de alguém que está contratando?}
 {883}{}{Eu tenho mais algumas perguntas...}
-{884}{}{Actually, I have to be going. Good talking to you, Jesus.}
+{884}{}{Na verdade, eu tenho que ir. Bom falar com você, Jesus.}
 {890}{}{(Checks you over, nods.) We're always looking for new blood...'specially new blood that's willing to spill blood, know what I'm saying? Go upstairs, talk to my Pa, tell him I sent you, and maybe we can do business.}
 {891}{}{(Checks you over, shakes head.) We don't hire chicas...'cept in certain positions. Try Pa upstairs, tell him I sent you.
  Maybe you can do some business.}
