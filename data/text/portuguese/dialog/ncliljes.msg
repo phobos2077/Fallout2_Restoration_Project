@@ -226,41 +226,41 @@
 {908}{}{Deixa pra lá então. Obrigado de qualquer maneira.}
 {909}{}{Não, obrigado. É melhor eu ir.}
 {920}{}{Ah, e isso resolve então, então? (Cospe em seus pés). Dê o fora daqui antes que eu te rasgue em pedaços.}
-{921}{}{Just try it and see what happens... LITTLE Jesus.}
+{921}{}{Apenas tente e veja o que acontece... PEQUENO Jesus.}
 {922}{}{Calma, Jesus... Olha, eu tenho outras perguntas...}
 {923}{}{Estou de saída.}
-{924}{}{You spit on my shoe? You fuck! I'm gonna teach you a lesson about respect, mother fucker.}
-{930}{}{No, not me... head on upstairs and see my Pa. He's the one you want to talk to.}
+{924}{}{Você cuspiu no meu sapato? Vai se fuder! Vou te ensinar uma lição sobre respeito, filho da puta.}
+{930}{}{Não, eu não... suba as escadas e veja meu pai. É com ele que você quer falar.}
 {931}{}{E você é...?}
 {932}{}{Tudo bem então. Antes de ir, eu tinha algumas perguntas...}
 {933}{}{Obrigado.}
-{940}{}{FUCK you. Get outta my family's casino 'fore I carve my initials on your dead body.}
-{942}{}{Don't you threaten me, Jesus.}
+{940}{}{Foda-se, babaca. Saia do cassino da minha família antes que eu grave minhas iniciais na sua testa.}
+{942}{}{Não me ameace, Jesus.}
 {943}{}{Calma lá - Eu tenho algumas perguntas...}
-{944}{}{Calm down, Jesus. I'm leaving.}
-{950}{}{That little piss-ass Wright kid? Ha! You trying to pin that shit on me? You outta luck; I ain't sorry the little
- fucker's dead, but I didn't have NOTHIN' to do with it.}
-{951}{}{Oh, yeah? Well, the Mordinos are the biggest suppliers of Jet in New Reno. That makes you the first ones who are
- gonna take the blame.}
-{952}{}{I don't believe you. I think you ARE the one responsible. You and the rest of the Mordinos.}
+{944}{}{Calma lá, Jesus. Estou indo embora.}
+{950}{}{Aquele merdinha do Wright? Ah! Você está querendo me incriminar? Sem sorte hoje; eu não sinto a menor pena
+ daquele bosta ter morrido, mas eu não tenho NADA a ver com isso.}
+{951}{}{Sério? Então, os Mordinos são os maiores fornecedores de Jet em New Reno. Isso faz de vocês os primeiros a levar
+ a culpa.}
+{952}{}{Eu não acredito em você, acho que você é o único responsável. Você e o resto dos Mordinos.}
 {953}{}{Quem você acha que pode ter feito isso?}
 {954}{}{Ok... Olha, eu tenho outras perguntas...}
-{955}{}{All right then. Just asking.}
-{965}{}{(Eyes narrow.) Look now, I ain't had NOTHING to do with that kid's death. I don't know what you heard, but if I'd killed
- that kid, I woulda carved him up, not made him crash and burn on Jet, see?}
-{966}{}{Yeah, so what if we take the blame? Don't mean we DID it. Little shit took too much. I ain't sorry he's dead. And
- if ol' man Wright starts throwing down, we'll bury him right next to his junkie kid.}
-{967}{}{You're a real humanitarian, Jesus.}
-{968}{}{That's a GREAT attitude, Jesus.}
-{969}{}{You know who sold Richard the Jet that killed him?}
+{955}{}{Tudo bem então. Só perguntando.}
+{965}{}{(Cerra os olhos.) Escuta, eu não tenho NADA a ver com a morte daquele garoto. Eu não sei o que você ouviu, mas se eu
+ tivesse matado aquele cara, eu o teria esquartejado, e não feito ele se entupir de jet, ouviu?}
+{966}{}{Sim, e daí se assumirmos a culpa? Não significa que nós fizemos isso. O merdinha se fodeu, não lamento sua morte. E se
+ o velho Wright começar a vomitar, vamos enterrá-lo ao lado do seu filho drogado.}
+{967}{}{Você é um verdadeiro humanitário, Jesus.}
+{968}{}{Essa é uma GRANDE atitude, Jesus.}
+{969}{}{Sabe quem vendeu pro Richard esse Jet que o matou?}
 {970}{}{Bem, isso com certeza esclarece as coisas para mim. Eu tinha algumas outras perguntas...}
-{971}{}{Thanks for the information, Jesus. You've been very helpful.}
-{980}{}{Yeah, Renesco... the "Rocketman." Sells so much Jet, he could shoot you to the moon. He's on the west side, in Salvatore
- territory. He don't like the Wrights none, and his drugs ain't PURE, know what I'm saying?}
-{981}{}{He can't be the only dealer in a town this size.}
+{971}{}{Obrigado pela informação, Jesus. Você tem sido muito útil.}
+{980}{}{Sim, Renesco... o tal do "Astronauta". Vende tanto Jet que poderia mandar boa parte pra lua. Ele está no lado oeste, no
+ território Salvatore. Ele não gosta de nenhum Wright, e suas drogas não são PURAS, sabe o que quer dizer?}
+{981}{}{Ele não pode ser o único traficante em uma cidade deste tamanho.}
 {982}{}{Lado oeste, hein? Eu posso passar por lá. Eu tenho outras perguntas, no entanto...}
-{983}{}{All right. I'll check it out. Thanks, Jesus.}
-{990}{}{No, there's others, but Renesco's the one who done it.}
+{983}{}{Tudo bem, vou dar uma olhada. Obrigado, Jesus.}
+{990}{}{Não, há outros, mas foi o Renesco que fez.}
 {991}{}{What makes you say that?}
 {992}{}{Who are the other dealers?}
 {993}{}{Sim, você já disse isso. Olha, eu tinha outras perguntas ..}
