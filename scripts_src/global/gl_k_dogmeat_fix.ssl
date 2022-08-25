@@ -1,0 +1,20 @@
+// temp fix for Dogmeat floats, see https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/154
+
+#define SCRIPT_REALNAME "gl_k_dogmeat_fix"
+#include "../headers/define.h"
+#include "../headers/command.h"
+
+procedure map_enter_p_proc begin
+    if Dogmeat_Ptr then begin
+        variable aiPacket := get_ai(Dogmeat_Ptr);
+        if (aiPacket != AI_PARTY_DOGMEAT_AGRESSIVE) and (aiPacket != AI_PARTY_DOGMEAT_CUSTOM) then begin
+            set_ai(Dogmeat_Ptr, AI_PARTY_DOGMEAT_CUSTOM); // reset
+        end
+    end
+end
+
+procedure start begin
+    if game_loaded then begin
+        call map_enter_p_proc;
+    end
+end
