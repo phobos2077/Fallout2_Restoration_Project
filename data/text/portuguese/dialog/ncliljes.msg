@@ -207,25 +207,25 @@
 {882}{}{Estou à procura de trabalho. Sabe de alguém que está contratando?}
 {883}{}{Eu tenho mais algumas perguntas...}
 {884}{}{Na verdade, eu tenho que ir. Bom falar com você, Jesus.}
-{890}{}{(Checks you over, nods.) We're always looking for new blood...'specially new blood that's willing to spill blood, know what I'm saying? Go upstairs, talk to my Pa, tell him I sent you, and maybe we can do business.}
-{891}{}{(Checks you over, shakes head.) We don't hire chicas...'cept in certain positions. Try Pa upstairs, tell him I sent you.
- Maybe you can do some business.}
+{890}{}{(Te analisa, acena com a cabeça.) Estamos sempre procurando por sangue novo... 'especialmente sangue novo que está disposto a derramar sangue, entende? Suba as escadas, fale com meu pai, diga a ele que eu te enviei, e talvez possamos fazer negócios.}
+{891}{}{(Analisa você, balança a cabeça.) Nós não contratamos muié... exceto em certas posições. Tenta o pai lá em cima, fala que te enviei.
+ Talvez você possa fazer algum negócio.}
 {892}{}{Talvez sim. Olha, eu tenho outras perguntas...}
-{893}{}{I'll go see him then. Later, Jesus.}
-{900}{}{I don't know. You don't look too strong to me... maybe you should try somewhere else, homes.}
-{901}{}{Naw... my mind's a blank. Our family ain't hiring, and the other families sooner'd kill you than listen to you. You
- outta luck, homes.}
-{902}{}{Naw... I don't know of no place hiring. You might try and find a pimp, MAYBE earn some cash charging rent on yer
- ass, y'know?}
-{903}{}{WE ain't hiring, but with a bod like that, you might try the Corsican Bros Studio up the street. (Grins.) But if you're looking
- for some quick chips, my room's upstairs...}
+{893}{}{Vou ver ele então. Até mais tarde, Jesus.}
+{900}{}{Não sei. Você não me parece muito forte... talvez devesse tentar em outro lugar, fio.}
+{901}{}{Não... me deu um branco aqui. Nossa família não está contratando, e as outras famílias preferem te matar do que ouvir.
+ Você está sem sorte, cara.}
+{902}{}{Não... não conheço nenhum lugar que contrate. Você pode tentar encontrar um cafetão, TALVEZ ganhar algum dinheiro cobrando
+ o aluguel da sua bunda, sabe?}
+{903}{}{NÓS não estamos contratando, mas com um corpo desses, você pode tentar os Estúdios dos Irmãos Corsican na rua. (sorri.) Mas se você
+ está procurando umas tampinhas fáceis, meu quarto é lá em cima...}
 {904}{}{Tudo bem, entao. Eu tinha outras perguntas...}
 {905}{}{Eh, eu passo. Tenho algumas perguntas...}
 {906}{}{Prefiro que não, valeu. Eu tenho algumas perguntas para você, no entanto...}
-{907}{}{Oh, I bet it WOULD be quick. No thanks.}
-{908}{}{Nevermind then. Thanks anyway.}
-{909}{}{No thanks. I better be going.}
-{920}{}{Oh, so that makes it all better then, huh? (Spits at your feet.) Get the hell outta here 'fore I carve you.}
+{907}{}{Ah, APOSTO que seria rápido. Não, obrigado.}
+{908}{}{Deixa pra lá então. Obrigado de qualquer maneira.}
+{909}{}{Não, obrigado. É melhor eu ir.}
+{920}{}{Ah, e isso resolve então, então? (Cospe em seus pés). Dê o fora daqui antes que eu te rasgue em pedaços.}
 {921}{}{Just try it and see what happens... LITTLE Jesus.}
 {922}{}{Calma, Jesus... Olha, eu tenho outras perguntas...}
 {923}{}{Estou de saída.}
