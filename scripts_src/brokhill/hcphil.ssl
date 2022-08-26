@@ -689,8 +689,6 @@ procedure Node024 begin
       Reply(204);
    else if ( (global_var(GVAR_BH_JAIL) == JAIL_STEALTH) or (global_var(GVAR_BH_JAIL) == JAIL_FORCE) ) then
       Reply(203);
-   else if (global_var(GVAR_BH_FTM) == FTM_SUCCESSFUL) then
-      Reply(205);
    else
       Reply(206);
 
@@ -699,10 +697,9 @@ procedure Node024 begin
 end
 
 procedure Node025 begin
-   //added - ( ( global_var( GVAR_BH_CONSPIRACY ) != CONSPIRACY_SUCCESSFUL ) and ( global_var( GVAR_BH_FTM ) != FTM_SUCCESSFUL ) ) - killap
-   if ( ( global_var(GVAR_BH_MIGHTY_MAN) < MIGHTY_MAN_WON ) and
-      ( ( global_var( GVAR_BH_CONSPIRACY ) != CONSPIRACY_SUCCESSFUL ) and
-      ( global_var( GVAR_BH_FTM ) != FTM_SUCCESSFUL ) ) ) then begin
+   if (global_var(GVAR_BH_MIGHTY_MAN) < MIGHTY_MAN_WON)
+      and (global_var(GVAR_BH_CONSPIRACY) != CONSPIRACY_SUCCESSFUL)
+   then begin
       if( global_var(GVAR_BH_MIGHTY_MAN) == 0 ) then
          set_global_var(GVAR_BH_MIGHTY_MAN, MIGHTY_MAN_KNOWN);
       Reply(209);

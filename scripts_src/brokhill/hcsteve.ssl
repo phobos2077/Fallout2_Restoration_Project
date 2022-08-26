@@ -434,13 +434,7 @@ procedure Node011b begin
 end
 
 procedure Node012 begin
-   if (global_var(GVAR_BH_FTM) == FTM_SUCCESSFUL) then begin
-      Reply(141);
-
-      NOption(301, Node012a, 004);
-   end
-   else
-      call Node012a;
+   call Node012a;
 end
 
 procedure Node012a begin

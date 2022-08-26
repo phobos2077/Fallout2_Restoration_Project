@@ -113,7 +113,7 @@ procedure map_enter_p_proc begin
    set_self_team(TEAM_BROKEN_HILLS);
    set_self_ai(AI_TOUGH_CITIZEN);
 
-   if( ( global_var( GVAR_BH_CONSPIRACY ) == CONSPIRACY_SUCCESSFUL ) or ( global_var( GVAR_BH_FTM ) == FTM_SUCCESSFUL ) ) then
+   if global_var(GVAR_BH_CONSPIRACY) == CONSPIRACY_SUCCESSFUL then
       set_obj_visibility( self_obj, true );
    else
       set_obj_visibility( self_obj, false );
@@ -134,7 +134,7 @@ procedure critter_p_proc begin
        attack(dude_obj);
    end
 
-   if( ( global_var( GVAR_BH_CONSPIRACY ) == CONSPIRACY_SUCCESSFUL ) or ( global_var( GVAR_BH_FTM ) == FTM_SUCCESSFUL ) ) then begin
+   if global_var(GVAR_BH_CONSPIRACY) == CONSPIRACY_SUCCESSFUL then begin
       if( self_visible ) then
          set_obj_visibility( self_obj, true );
    end
@@ -228,15 +228,6 @@ procedure talk_p_proc begin
    else if ( ( global_var(GVAR_BH_MINE) == MINE_FIXED_FREE ) or
              ( global_var(GVAR_BH_MINE) == MINE_FIXED_CASH ) or
              ( global_var(GVAR_BH_MINE) == MINE_REWARDED ) ) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
-       gSay_Start;
-           call Node017;
-       gSay_End;
-       end_dialogue;
-   end
-
-   else if (global_var(GVAR_BH_FTM) == FTM_SUCCESSFUL) then begin
-       //mutant miners erased from map (should be in map script)
        start_gdialog(NAME,self_obj,4,-1,-1);
        gSay_Start;
            call Node017;

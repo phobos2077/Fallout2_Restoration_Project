@@ -273,14 +273,13 @@ procedure map_enter_p_proc begin
 
    if (Marcus_In_Party) then begin
       Perform_Critter_Float := 1;
-      //rm_timer_event( self_obj ); - comment out by killap
       add_timer_event( self_obj, game_ticks( random(40, 50) ), 1);
    end
    else begin
       Perform_Critter_Float := 0;
       set_self_team(TEAM_BROKEN_HILLS);
 
-      if( ( global_var( GVAR_BH_CONSPIRACY ) == CONSPIRACY_SUCCESSFUL ) or ( global_var( GVAR_BH_FTM ) == FTM_SUCCESSFUL ) ) then
+      if global_var(GVAR_BH_CONSPIRACY) == CONSPIRACY_SUCCESSFUL then
          set_obj_visibility( self_obj, true );
       else begin
          set_obj_visibility( self_obj, false );
@@ -882,7 +881,7 @@ procedure Node023 begin
       NOption(430,Node116,004);
 
    // Scientist at NCR
-   if( global_var(GVAR_BH_FTM) == FTM_ENLISTED ) then
+   if global_var(GVAR_BH_FTM) == FTM_ENLISTED then
       NOption(440,Node117,004);
 
    NOption(194,Node999,004);
@@ -931,7 +930,8 @@ procedure Node026 begin
 end
 
 procedure Node027 begin
-   //inc_general_rep( REP_BONUS_FTM_EXPOSED );
+   inc_general_rep(REP_BONUS_FTM_EXPOSED);
+   give_xp(EXP_FTM_EXPOSED);
    set_global_var( GVAR_BH_FTM, FTM_EXPOSED );
    set_global_var( GVAR_TOWN_REP_BROKEN_HILLS, (global_var(GVAR_TOWN_REP_BROKEN_HILLS) + 5 ) );
    Reply(203);

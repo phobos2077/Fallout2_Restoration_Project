@@ -448,9 +448,9 @@ procedure Endgame_Info begin
 
 // Broken Hills Endgame
    if (broken_hills_visible_on_map) then begin
-       if ((global_var(GVAR_BH_CONSPIRACY) == CONSPIRACY_SUCCESSFUL) or (global_var(GVAR_BH_FTM) == FTM_SUCCESSFUL)) then
+       if global_var(GVAR_BH_CONSPIRACY) == CONSPIRACY_SUCCESSFUL then
            set_global_var(GVAR_ENDGAME_MOVIE_BROKEN_HILLS,1);
-       else if (((global_var(GVAR_BH_CONSPIRACY) == CONSPIRACY_BROKEN_DOUBLECROSS) or (global_var(GVAR_BH_CONSPIRACY) == CONSPIRACY_BROKEN_HERO) or (global_var(GVAR_BH_JAIL) == JAIL_DOUBLECROSS)) and ((global_var(GVAR_BH_FTM) == FTM_EXPOSED) or (global_var(GVAR_BH_FTM) == 0))) then begin
+       else if ((global_var(GVAR_BH_CONSPIRACY) == CONSPIRACY_BROKEN_DOUBLECROSS) or (global_var(GVAR_BH_CONSPIRACY) == CONSPIRACY_BROKEN_HERO) or (global_var(GVAR_BH_JAIL) == JAIL_DOUBLECROSS)) then begin
            set_global_var(GVAR_ENDGAME_MOVIE_BROKEN_HILLS,2);
 
            // Macus Endgame: Begin Seraph's Code - expansion

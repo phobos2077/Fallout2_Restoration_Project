@@ -139,7 +139,7 @@ procedure map_enter_p_proc begin
    set_self_team(TEAM_BROKEN_HILLS);
    set_self_ai(AI_TOUGH_CITIZEN);
 
-   if( ( global_var( GVAR_BH_CONSPIRACY ) == CONSPIRACY_SUCCESSFUL ) or ( global_var( GVAR_BH_FTM ) == FTM_SUCCESSFUL ) ) then
+   if global_var(GVAR_BH_CONSPIRACY) == CONSPIRACY_SUCCESSFUL then
       set_obj_visibility( self_obj, true );
    else
       set_obj_visibility( self_obj, false );
@@ -340,7 +340,7 @@ procedure talk_p_proc begin
        gSay_End;
        end_dialogue;
    end
-   else if (global_var(TOWN_REP_VAR) < 5) then begin //was TOWN_REP_VAR, changed to global_var(TOWN_REP_VAR) - killap
+   else if (global_var(TOWN_REP_VAR) < 5) then begin
        start_gdialog(NAME,self_obj,4,-1,-1);
        gSay_Start;
            call Node018;

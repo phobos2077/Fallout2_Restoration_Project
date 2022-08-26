@@ -139,7 +139,7 @@ procedure map_enter_p_proc begin
       set_local_var( LVAR_Barter_Mod, -25 );
    end
 
-   if( ( global_var(GVAR_BH_FTM) == FTM_SUCCESSFUL ) or ( global_var(GVAR_BH_CONSPIRACY) == CONSPIRACY_SUCCESSFUL ) ) then
+   if global_var(GVAR_BH_CONSPIRACY) == CONSPIRACY_SUCCESSFUL then
       set_obj_visibility( self_obj, true );
    else
       set_obj_visibility( self_obj, false );
@@ -159,7 +159,7 @@ procedure critter_p_proc begin
        attack(dude_obj);
    end
 
-   if( ( global_var( GVAR_BH_CONSPIRACY ) == CONSPIRACY_SUCCESSFUL ) or ( global_var( GVAR_BH_FTM ) == FTM_SUCCESSFUL ) ) then begin
+   if global_var(GVAR_BH_CONSPIRACY) == CONSPIRACY_SUCCESSFUL then begin
       if( self_visible ) then
          set_obj_visibility( self_obj, true );
    end

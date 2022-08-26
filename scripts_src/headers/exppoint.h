@@ -248,6 +248,7 @@
 #define EXP_SULLIVAN_TAUGHT_MOVES                (150)
 #define EXP_TYPHON_TOLD_TREASURE                (2000)
 #define EXP_REPLANTED_SEYMOUR                   (1000)
+#define EXP_FTM_EXPOSED                          (500)
 
 // Modoc XP
 #define EXP_SAVE_JONNY                          (2500)

@@ -95,7 +95,7 @@ procedure map_enter_p_proc begin
    set_self_ai(AI_TOUGH_CITIZEN);
 
    if( not( is_loading_game ) ) then begin
-      if( ( global_var( GVAR_BH_CONSPIRACY ) == CONSPIRACY_SUCCESSFUL ) or ( global_var( GVAR_BH_FTM ) == FTM_SUCCESSFUL ) ) then //added check by killap
+      if global_var(GVAR_BH_CONSPIRACY) == CONSPIRACY_SUCCESSFUL then
          set_obj_visibility( self_obj, true ); //invis
       else begin
          set_obj_visibility( self_obj, false );

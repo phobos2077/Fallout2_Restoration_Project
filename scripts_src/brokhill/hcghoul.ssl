@@ -58,7 +58,6 @@ procedure Node999;                                      // This Node is Always E
 procedure Node001;
 procedure Node002;
 procedure Node003;
-procedure Node004;
 procedure Node005;
 procedure Node006;
 procedure Node007;
@@ -151,7 +150,7 @@ procedure talk_p_proc begin
    else if (global_var(GVAR_ENEMY_BROKEN_HILLS) == 1) then begin
       call Node012;
    end
-/*
+
    else if (global_var(GVAR_BH_CHAD) == CHAD_ARRESTED) then begin
       call Node002;
    end
@@ -159,14 +158,10 @@ procedure talk_p_proc begin
       call Node003;
    end
 
-   else if (global_var(GVAR_BH_FTM) == FTM_SUCCESSFUL) then begin
-      call Node004;
-   end
-
    else if (global_var(GVAR_BH_FTM) == FTM_EXPOSED) then begin
       call Node005;
    end
-*/
+
    else if (global_var(GVAR_BH_JAIL) == JAIL_FORCE) then begin
       call Node006;
    end
@@ -245,10 +240,6 @@ end
 
 procedure Node003 begin
    floater(random(121,129));
-end
-
-procedure Node004 begin
-   floater(random(130,136));
 end
 
 procedure Node005 begin

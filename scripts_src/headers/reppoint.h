@@ -650,6 +650,7 @@ variable tmp_gen_rep := 0; /*added by killap for implementation of karma beacon 
 #define REP_BONUS_TYPHON_TOLD_TREASURE          (2)
 #define REP_BONUS_DIDNT_KILL_TYPHON             (2)
 #define REP_BONUS_REPLANTED_SEYMOUR             (2)
+#define REP_BONUS_FTM_EXPOSED                   (5)
 
 // Raiders Rep Bonuses
 #define REP_BONUS_RAIDERS_DESTROYED             (10)
