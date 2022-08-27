@@ -1,11 +1,6 @@
 name: build
 
-on:
-  push:
-    paths-ignore:
-      - 'data/text/**'
-    tags:
-    - '*'
+on: [push]
 
 env:
   sfall_version: 4.3.4
@@ -15,6 +10,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - uses: devopsx/gha-focal-i386-fix@master
       - uses: actions/checkout@v2
 
       - name: Run tests
@@ -23,13 +19,8 @@ jobs:
           ./extra/tests.sh
 
       - name: Install packages
-        # The Github's Ubuntu images since 20211122.1 are broken
-        # https://github.com/actions/virtual-environments/issues/4589
         run: |
           set -xeu -o pipefail
-          sudo apt-add-repository -y ppa:ondrej/php
-          sudo apt-get install ppa-purge
-          sudo ppa-purge -y ppa:ondrej/php
           sudo dpkg --add-architecture i386
           sudo apt -qq update
           sudo apt-get install -o=Dpkg::Use-Pty=0 -y crudini dos2unix gcc p7zip wine-stable wine32
