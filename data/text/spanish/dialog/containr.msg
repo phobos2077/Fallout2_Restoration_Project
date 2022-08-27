@@ -118,3 +118,5 @@
 {601}{}{Está cerrado, idiota.}
 {610}{}{Fallas espectacularmente, y el explosivo detona prematuramente.}
 {611}{}{Fallas espectacularmente, y el explosivo detona prematuramente.}
+{620}{}{You bend the crowbar beyond recognition. It's useless now.}
+{621}{}{ bends the crowbar beyond recognition. It's useless now.}

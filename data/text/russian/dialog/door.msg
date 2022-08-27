@@ -127,3 +127,5 @@
 {601}{}{Открыто, дурашка.}
 {610}{}{Вы терпите неудачу, и взрывчатка взрывается преждевременно.}
 {611}{}{ терпит неудачу, и взрывчатка взрывается преждевременно.}
+{620}{}{You bend the crowbar beyond recognition. It's useless now.}
+{621}{}{ bends the crowbar beyond recognition. It's useless now.}
