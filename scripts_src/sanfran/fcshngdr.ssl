@@ -44,12 +44,6 @@ import variable door_guard;
 /* Penalties for Lock difficulty based on whether or not you are using lockpicks. */
 #define Lock_Bonus                      (-20)
 
-/* Experience Points for Skills */
-#define Lockpick_Exp                    EXP_LOCKPICK_NEG_20
-
-/* Door close distance */
-#define DOOR_CLOSE_DIST                 (3)
-
 #define custom_start
 #define custom_use_p_proc
 #define custom_map_update_p_proc

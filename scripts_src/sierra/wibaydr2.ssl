@@ -39,9 +39,6 @@
 /* Penalties for Lock difficulty based on whether or not you are using lockpicks. */
 #define Lock_Bonus                      (-80)
 
-/* Experience Points for Skills */
-#define Lockpick_Exp                    EXP_LOCKPICK_NEG_80
-
 /* Door close distance */
 #define DOOR_CLOSE_DIST                 (2)
 
