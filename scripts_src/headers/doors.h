@@ -32,7 +32,7 @@
 
 /* Penalties for Lock difficulty based on whether or not you are using lockpicks. */
 #ifndef Lock_Bonus
-  #define Lock_Bonus                      (0)
+  #define Lock_Bonus                      (-20)
 #endif
 
 #ifndef CLOSE_STATUS

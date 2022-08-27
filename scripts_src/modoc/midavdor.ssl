@@ -30,9 +30,6 @@
 #define LOCK_STATUS                     STATE_STANDARD_LOCK
 #define CLOSE_STATUS                    STATE_DOOR_CLOSE
 
-/* Penalties for Lock difficulty based on whether or not you are using lockpicks. */
-#define Lock_Bonus                      (-20)
-
 procedure map_exit_p_proc;
 procedure Destroy_P_Proc;
 
@@ -47,7 +44,6 @@ procedure Destroy_P_Proc;
 #define custom_map_enter_p_proc
 #define custom_map_update_p_proc
 #define custom_use_skill_on_p_proc
-#define custom_description_p_proc
 #define custom_timed_event_p_proc
 #define custom_use_p_proc
 #include "../headers/doors.h"
@@ -178,22 +174,6 @@ variable tamper := false;
 end
 
 /*
-   Should the player examine the door closely, then he should be allowed a lockpick
-   roll, a traps roll and a perception roll. Depending on which rolls are made will
-   determine how much information about the door will be given.
-*/
-
-procedure description_p_proc begin
-   script_overrides;
-
-   if (DOOR_STATUS == STATE_WOOD) then begin
-       display_msg(mstr(100));
-   end else begin
-       display_msg(mstr(101));
-   end
-end
-
-/*
    Should the player try using a skill on the door, here are where the skill rolls
    will be made. The ones which need to be in here are: Lockpick and Traps. Science
    and Repair can be added to this list to give more information about the door.
@@ -218,18 +198,12 @@ variable tamper := false;
       Skill_Used:=action_being_used;
 
       if (Skill_Used == SKILL_LOCKPICK) then begin
-         script_overrides; //added by killap
+         script_overrides;
          display_msg(g_mstr(20100));
-         //if (local_var(LVAR_Locked) == STATE_ACTIVE) then begin
-          //  call Unlock_Lock;
-         //end
-         //else begin
-          //  call Set_Lock;
-         //end
       end                                                          // End of Skill_Lockpick
 
       else if (Skill_Used == SKILL_TRAPS) then begin
-         script_overrides; //added by killap
+         script_overrides;
          if (local_var(LVAR_Trapped) == STATE_ACTIVE) then begin
             call Skill_Disarm_Traps;
          end
@@ -267,25 +241,15 @@ procedure use_obj_on_p_proc begin
    end
    if (Tool != -1) then begin
       Tool:=obj_pid(obj_being_used_with);
-
-      if (LOCK_STATUS == STATE_STANDARD_LOCK) then begin
-         if (Tool == PID_LOCKPICKS) then begin
-            script_overrides; //added by killap
-            display_msg("There is no lock on this door.");
-         end else if (Tool == PID_EXP_LOCKPICK_SET) then begin
-            script_overrides; //added by killap
-            display_msg("There is no lock on this door.");
-         end
-      end else if (LOCK_STATUS == STATE_ELECTRIC_LOCK) then begin
-         if (Tool == PID_ELECTRONIC_LOCKPICKS) then begin
-            script_overrides; //added by killap
-            display_msg("There is no lock on this door.");
-         end else if (Tool == PID_ELEC_LOCKPICK_MKII) then begin
-            script_overrides; //added by killap
-            display_msg("There is no lock on this door.");
-         end
-      end
       pry_trap_block
+      if (Tool == PID_LOCKPICKS)
+         or (Tool == PID_EXP_LOCKPICK_SET)
+         or (Tool == PID_ELECTRONIC_LOCKPICKS)
+         or (Tool == PID_ELEC_LOCKPICK_MKII)
+      then begin
+         script_overrides;
+         display_msg(g_mstr(20100));
+      end
    end
 end
 

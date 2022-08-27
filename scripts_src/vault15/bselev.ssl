@@ -35,6 +35,7 @@
 
 /* Penalties for Lock difficulty based on whether or not you are using lockpicks. */
 #define Lock_Bonus                      (-220)
+#define Lockpick_Exp                    (245)
 
 /* Penalties for disarming the trap */
 #define Trap_Bonus                      (-210)
@@ -68,15 +69,11 @@ procedure use_skill_on_p_proc begin
        script_overrides; //added by killap
        if (local_var(LVAR_Locked) == STATE_ACTIVE) then begin
             script_overrides;
-            display_msg(message_str(SCRIPT_DOOR, 503)); //added by killap
-            //display_msg(mstr(203));
-           //call Unlock_Lock; //comment out by killap
+            display_msg(message_str(SCRIPT_DOOR, 503));
        end
        else begin
-           //call Set_Lock;
-            script_overrides; //comment out by killap
-            display_msg(message_str(SCRIPT_DOOR, 503)); //added by killap
-            //display_msg(mstr(320));
+            script_overrides;
+            display_msg(message_str(SCRIPT_DOOR, 503));
        end
    end                                                          // End of Skill_Lockpick
 

@@ -30,9 +30,6 @@
 #define LOCK_STATUS                     STATE_STANDARD_LOCK
 #define CLOSE_STATUS                    STATE_DOOR_CLOSE
 
-/* Penalties for Lock difficulty based on whether or not you are using lockpicks. */
-#define Lock_Bonus                      (-20)
-
 procedure map_exit_p_proc;
 procedure Destroy_P_Proc;
 
@@ -47,7 +44,6 @@ procedure Destroy_P_Proc;
 #define custom_map_enter_p_proc
 #define custom_map_update_p_proc
 #define custom_use_skill_on_p_proc
-#define custom_description_p_proc
 #define custom_timed_event_p_proc
 #define custom_use_obj_on_p_proc
 #define custom_use_p_proc
@@ -175,27 +171,6 @@ variable tamper := false;
             set_chicken_1st_visible;
          end
       end
-   end
-end
-
-/*
-   Should the player examine the door closely, then he should be allowed a lockpick
-   roll, a traps roll and a perception roll. Depending on which rolls are made will
-   determine how much information about the door will be given.
-*/
-
-procedure description_p_proc begin
-   script_overrides;
-   if ((local_var(LVAR_Locked) == STATE_ACTIVE) and (local_var(LVAR_Trapped) == STATE_ACTIVE)) then begin
-       call Look_Traps_And_Locks;
-   end else if (local_var(LVAR_Trapped) == STATE_ACTIVE) then begin
-       call Look_Traps;
-   end else if (local_var(LVAR_Locked) == STATE_ACTIVE) then begin
-       call Look_Locks;
-   end else if (DOOR_STATUS == STATE_WOOD) then begin
-       display_msg(mstr(100));
-   end else begin
-       display_msg(mstr(101));
    end
 end
 

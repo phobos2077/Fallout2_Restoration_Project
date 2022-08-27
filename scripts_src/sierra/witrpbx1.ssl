@@ -33,9 +33,6 @@
 /* Penalties for disarming the trap */
 #define Trap_Bonus                      (-20)
 
-/* Experience Points for Skills */
-#define Lockpick_Exp                    EXP_LOCKPICK_NEG_20
-
 #define MIN_DAMAGE                      (20)
 #define MAX_DAMAGE                      (30)
 

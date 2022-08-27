@@ -34,9 +34,6 @@
 #define LOCK_STATUS                     STATE_STANDARD_LOCK
 #define CLOSE_STATUS                    STATE_DOOR_NOCLOSE
 
-/* Penalties for Lock difficulty based on whether or not you are using lockpicks. */
-#define Lock_Bonus                      (-20)
-
 #define custom_use_obj_on_p_proc
 #define custom_damage_p_proc
 #define custom_use_skill_on_p_proc

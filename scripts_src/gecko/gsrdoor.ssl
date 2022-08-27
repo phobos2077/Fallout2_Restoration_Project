@@ -28,9 +28,6 @@
 #define DOOR_STATUS                     STATE_NON_DESTROY
 #define LOCK_STATUS                     STATE_ELECTRIC_LOCK
 
-/* Penalties for Lock difficulty based on whether or not you are using lockpicks. */
-#define Lock_Bonus                      (-20)
-
 #define REACTOR_KEY                     PID_RED_PASS_KEY
 
 procedure timed_event_p_proc;

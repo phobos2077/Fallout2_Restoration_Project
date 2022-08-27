@@ -18,7 +18,36 @@
 #endif
 /* Experience Points for Skills */
 #ifndef Lockpick_Exp
-  #define Lockpick_Exp                    EXP_LOCKPICK_NORMAL
+  #if Lock_Bonus == 0
+    #define Lockpick_Exp                    EXP_LOCKPICK_NORMAL
+  #endif
+  #if Lock_Bonus == (-10)
+    #define Lockpick_Exp                    EXP_LOCKPICK_NEG_10
+  #endif
+  #if Lock_Bonus == (-20)
+    #define Lockpick_Exp                    EXP_LOCKPICK_NEG_20
+  #endif
+  #if Lock_Bonus == (-30)
+    #define Lockpick_Exp                    EXP_LOCKPICK_NEG_30
+  #endif
+  #if Lock_Bonus == (-40)
+    #define Lockpick_Exp                    EXP_LOCKPICK_NEG_40
+  #endif
+  #if Lock_Bonus == (-50)
+    #define Lockpick_Exp                    EXP_LOCKPICK_NEG_50
+  #endif
+  #if Lock_Bonus == (-60)
+    #define Lockpick_Exp                    EXP_LOCKPICK_NEG_60
+  #endif
+  #if Lock_Bonus == (-70)
+    #define Lockpick_Exp                    EXP_LOCKPICK_NEG_70
+  #endif
+  #if Lock_Bonus == (-80)
+    #define Lockpick_Exp                    EXP_LOCKPICK_NEG_80
+  #endif
+  #if Lock_Bonus == (-90)
+    #define Lockpick_Exp                    EXP_LOCKPICK_NEG_90
+  #endif
 #endif
 #ifndef Traps_Exp
   #define Traps_Exp                       EXP_TRAPS_NORMAL
@@ -26,10 +55,18 @@
 
 /* Penalties for forcing the door open using strength */
 #ifndef Crowbar_Bonus
-  #define Crowbar_Bonus                   (0)
+  #if DOOR_STATUS == STATE_METAL
+    #define Crowbar_Bonus                   (-2)
+  #else
+    #define Crowbar_Bonus                   (0)
+  #endif
 #endif
 #ifndef Crowbar_Strain
-  #define Crowbar_Strain                  (2)
+  #if DOOR_STATUS == STATE_METAL
+    #define Crowbar_Strain                  (4)
+  #else
+    #define Crowbar_Strain                  (2)
+  #endif
 #endif
 
 /* Max and Min damage for the trap */
@@ -198,18 +235,23 @@ was taken, and remove the trap.
 This procedure is used should the player try to pry the door open using a
 crowbar or some similar instrument.
 ***************************************************************************/
+// For wood doors, Crowbar_Bonus = 0, which means always success
 procedure roll_pry_success begin
   variable rnd = random(1,10);
   if rnd <= (get_critter_stat(source_obj,STAT_st) + Crowbar_Bonus) then return true;
   return false;
 end
-// High strength = more chance to destroy the crowbar, same for metal doors/containers
+
+// Sturdier doors and high strength provide more chance to mangle the crowbar
+// Any STR char + wood door = 1% chance to destroy
+// 5 STR char + metal door = 10% chance to destroy
+// 10 STR char + metal door = 20% chance to destroy
 procedure roll_pry_destroy_crowbar begin
   variable rnd = random(1,100);
   variable str = get_critter_stat(source_obj,STAT_st);
-  variable bonus = 0;
-  if DOOR_STATUS == STATE_METAL then bonus = 10;
-  if rnd + str + bonus > 95 then return true;
+  // Base Crowbar_Bonus = 0 (wood door). For metal doors, default is -2
+  variable penalty = str * Crowbar_Bonus;
+  if rnd + penalty <= 1 then return true;
   return false;
 end
 
@@ -224,8 +266,18 @@ end
       return;
     end
 
-    pry_success = roll_pry_success();
+    // crowbar destroy runs always, discouraging high STR characters from spamming it
+    pry_destroy_crowbar = roll_pry_destroy_crowbar();
+    if pry_destroy_crowbar then begin
+      variable crowbar = get_item(source_obj, PID_CROWBAR);
+      rm_obj_from_inven(source_obj, crowbar);
+      destroy_object(crowbar);
+      if (source_obj == dude_obj) then display_msg(my_mstr(620));
+      else display_msg(obj_name(source_obj) + my_mstr(621));
+      return;
+    end
 
+    pry_success = roll_pry_success();
     if pry_success then begin
       set_local_var(LVAR_Locked, STATE_INACTIVE);
       obj_unlock(self_obj);
@@ -236,7 +288,7 @@ end
       end
       return;
     end
-    
+
     // failure: damage
     pry_strain = roll_critical();
     if pry_strain then begin
@@ -271,26 +323,11 @@ end
         end
       end
     end
-    
-    // crowbar destroy
-    pry_destroy_crowbar = roll_pry_destroy_crowbar();
-    if pry_destroy_crowbar then begin
-      variable crowbar = get_item(source_obj, PID_CROWBAR);
-      rm_obj_from_inven(source_obj, crowbar);
-      destroy_object(crowbar);
-      if source_obj == dude_obj then display_msg(my_mstr(620));
-      else display_msg(obj_name(source_obj) + my_mstr(621));
-    end
 
     // regular failure
-    if not (pry_strain or pry_destroy_crowbar) then begin
-      if (source_obj == dude_obj) then begin
-        display_msg(my_mstr(180));
-      end
-      
-      else begin
-        display_msg(my_mstr(185));
-      end
+    if not pry_strain then begin
+      if (source_obj == dude_obj) then display_msg(my_mstr(180));
+      else display_msg(my_mstr(185));
     end
 
   end
@@ -510,6 +547,11 @@ will need to be closed, as all traps are set to go off if the door is openned.
     else begin
       script_overrides;
       Removal_Counter:=rm_mult_objs_from_inven(source_obj,Explosive,1);
+
+      reg_anim_clear(dude_obj);
+      reg_anim_begin();
+        reg_anim_animate(dude_obj,ANIM_magic_hands_middle,-1);
+      reg_anim_end();
 
       if (is_success(Traps_Roll)) then begin
         destroy_object(Explosive);

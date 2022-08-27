@@ -47,7 +47,7 @@
 
 /* Sets whether the door is locked or trapped or closing */
 #ifndef LOCKED_STATUS
-  #define LOCKED_STATUS                STATE_INACTIVE
+  #define LOCKED_STATUS                 STATE_INACTIVE
 #endif
 #define TRAPPED_STATUS                  STATE_INACTIVE
 #define DOOR_STATUS                     STATE_WOOD
@@ -64,16 +64,28 @@
 #define Trap_Set_Bonus                  (Trap_Bonus-10)
 
 /* Penalties for forcing the door open using strength */
-#define Crowbar_Bonus                   (0)
+#ifndef Crowbar_Bonus
+  #if DOOR_STATUS == STATE_METAL
+    #define Crowbar_Bonus                   (-2)
+  #else
+    #define Crowbar_Bonus                   (0)
+  #endif
+#endif
+#ifndef Crowbar_Strain
+  #if DOOR_STATUS == STATE_METAL
+    #define Crowbar_Strain                  (4)
+  #else
+    #define Crowbar_Strain                  (2)
+  #endif
+#endif
 
 /* Max and Min damage for the trap */
 #define DOOR_STRENGTH                   (2)
 #define MIN_DAMAGE                      (10)
 #define MAX_DAMAGE                      (20)
-#define Crowbar_Strain                  (2)
 
 /* Experience Points for Skills */
-#define Lockpick_Exp                    EXP_LOCKPICK_NORMAL
+#define Lockpick_Exp                    EXP_LOCKPICK_NEG_20
 #define Traps_Exp                       EXP_TRAPS_NORMAL
 
 /* Door close distance */
@@ -114,6 +126,7 @@ procedure Pry_Door;
 procedure Damage_Critter;
 procedure trap_search_result(variable found_trap, variable who);
 procedure real_explosion(variable explosive);
+procedure roll_critical;
 
 /*****************************************************************
 Local Variables which are saved. All Local Variables need to be
@@ -1417,23 +1430,23 @@ end
 This procedure is used should the player try to pry the door open using a
 crowbar or some similar instrument.
 ***************************************************************************/
+// For wood doors, Crowbar_Bonus = 0, which means always success
 procedure roll_pry_success begin
   variable rnd = random(1,10);
   if rnd <= (get_critter_stat(source_obj,STAT_st) + Crowbar_Bonus) then return true;
   return false;
 end
-procedure roll_pry_strain begin
-  variable rnd = random(1,20);
-  if rnd == 20 then return true;
-  return false;
-end
-// High strength = more chance to destroy the crowbar, same for metal doors/containers
+
+// Sturdier doors and high strength provide more chance to mangle the crowbar
+// Any STR char + wood door = 1% chance to destroy
+// 5 STR char + metal door = 10% chance to destroy
+// 10 STR char + metal door = 20% chance to destroy
 procedure roll_pry_destroy_crowbar begin
   variable rnd = random(1,100);
   variable str = get_critter_stat(source_obj,STAT_st);
-  variable bonus = 0;
-  if DOOR_STATUS == STATE_METAL then bonus = 10;
-  if rnd + str + bonus > 95 then return true;
+  // Base Crowbar_Bonus = 0 (wood door). For metal doors, default is -2
+  variable penalty = str * Crowbar_Bonus;
+  if rnd + penalty <= 1 then return true;
   return false;
 end
 
@@ -1447,8 +1460,18 @@ procedure Pry_Door begin
     return;
   end
 
-  pry_success = roll_pry_success();
+  // crowbar destroy runs always, discouraging high STR characters from spamming it
+  pry_destroy_crowbar = roll_pry_destroy_crowbar();
+  if pry_destroy_crowbar then begin
+    variable crowbar = get_item(source_obj, PID_CROWBAR);
+    rm_obj_from_inven(source_obj, crowbar);
+    destroy_object(crowbar);
+    if (source_obj == dude_obj) then display_msg(mstr(620));
+    else display_msg(obj_name(source_obj) + mstr(621));
+    return;
+  end
 
+  pry_success = roll_pry_success();
   if pry_success then begin
     obj_unlock(self_obj);
     if (source_obj == dude_obj) then begin
@@ -1460,7 +1483,7 @@ procedure Pry_Door begin
   end
   
   // failure: damage
-  pry_strain = roll_pry_strain();
+  pry_strain = roll_critical();
   if pry_strain then begin
     critter_dmg(source_obj,Crowbar_Strain,(DMG_normal_dam BWOR DMG_BYPASS_ARMOR));
     
@@ -1493,27 +1516,13 @@ procedure Pry_Door begin
       end
     end
   end
-  
-  // crowbar destroy
-  pry_destroy_crowbar = roll_pry_destroy_crowbar();
-  if pry_destroy_crowbar then begin
-    variable crowbar = get_item(source_obj, PID_CROWBAR);
-    rm_obj_from_inven(source_obj, crowbar);
-    destroy_object(crowbar);
-    if source_obj == dude_obj then display_msg(mstr(620));
-    else display_msg(obj_name(source_obj) + mstr(621));
-  end
 
   // regular failure
-  if not (pry_strain or pry_destroy_crowbar) then begin
-    if (source_obj == dude_obj) then begin
-      display_msg(mstr(180));
-    end
-    
-    else begin
-      display_msg(mstr(185));
-    end
+  if not pry_strain then begin
+    if (source_obj == dude_obj) then display_msg(mstr(180));
+    else display_msg(mstr(185));
   end
+
 
 end
 
@@ -1525,4 +1534,11 @@ procedure Damage_Critter begin
   pcnpc_display_str(source_obj, door_mstr(166)+Trap_Damage+door_mstr(167), door_mstr(168)+Trap_Damage+door_mstr(169))
   critter_heal(source_obj, -Trap_Damage);
   set_local_var(LVAR_Trapped, STATE_INACTIVE);
+end
+
+// standard critical, used for stat checks - they can't crit on their own
+procedure roll_critical begin
+  variable rnd = random(1,20);
+  if rnd == 20 then return true;
+  return false;
 end

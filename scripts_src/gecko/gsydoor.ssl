@@ -28,9 +28,6 @@
 #define DOOR_STATUS                     STATE_NON_DESTROY
 #define LOCK_STATUS                     STATE_ELECTRIC_LOCK
 
-/* Penalties for Lock difficulty based on whether or not you are using lockpicks. */
-#define Lock_Bonus                      (-20)
-
 /* Penalties for disarming the trap */
 
 #define REACTOR_KEY                     PID_YELLOW_PASS_KEY

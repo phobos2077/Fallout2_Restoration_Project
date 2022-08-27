@@ -28,9 +28,6 @@
 #define DOOR_STATUS                     STATE_METAL
 #define LOCK_STATUS                     STATE_STANDARD_LOCK
 
-/* Penalties for Lock difficulty based on whether or not you are using lockpicks. */
-#define Lock_Bonus                      (-20)
-
 /* Penalties for disarming the trap */
 
 //added by killap - makes for easier changes in the future
