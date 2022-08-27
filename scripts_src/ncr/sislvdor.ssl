@@ -78,16 +78,8 @@ procedure use_skill_on_p_proc begin
    Skill_Used:=action_being_used;
 
    if (Skill_Used == SKILL_LOCKPICK) then begin
-      script_overrides; //added by killap
+      script_overrides;
       display_msg(mstr(212));
-/*
-       if (local_var(LVAR_Locked) == STATE_ACTIVE) then begin
-           call Unlock_Lock;
-       end
-       else begin
-           call Set_Lock;
-       end
-*/
    end                                                          // End of Skill_Lockpick
 
    else if (Skill_Used == SKILL_TRAPS) then begin
@@ -118,8 +110,11 @@ procedure use_obj_on_p_proc begin
 
    Tool:=obj_pid(obj_being_used_with);
    if ((Tool == PID_DYNAMITE) or (Tool == PID_PLASTIC_EXPLOSIVES)) then begin
-       script_overrides; //added by killap
+       script_overrides;
        call Set_Trap;
+   end else if (Tool == PID_CROWBAR) then begin
+      script_overrides;
+      display_msg(mstr(213));
    end else begin
       script_overrides;
       display_msg(mstr(212));

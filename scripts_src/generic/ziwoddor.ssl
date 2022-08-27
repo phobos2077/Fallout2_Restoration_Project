@@ -1417,30 +1417,51 @@ end
 This procedure is used should the player try to pry the door open using a
 crowbar or some similar instrument.
 ***************************************************************************/
+procedure roll_pry_success begin
+  variable rnd = random(1,10);
+  if rnd <= (get_critter_stat(source_obj,STAT_st) + Crowbar_Bonus) then return true;
+  return false;
+end
+procedure roll_pry_strain begin
+  variable rnd = random(1,20);
+  if rnd == 20 then return true;
+  return false;
+end
+// High strength = more chance to destroy the crowbar, same for metal doors/containers
+procedure roll_pry_destroy_crowbar begin
+  variable rnd = random(1,100);
+  variable str = get_critter_stat(source_obj,STAT_st);
+  variable bonus = 0;
+  if DOOR_STATUS == STATE_METAL then bonus = 10;
+  if rnd + str + bonus > 95 then return true;
+  return false;
+end
+
 procedure Pry_Door begin
-  variable Stat_Roll;
-  script_overrides;
+  variable pry_success;
+  variable pry_strain;
+  variable pry_destroy_crowbar;
 
   if not obj_is_locked(self_obj) then begin
     display_msg(mstr(601));
     return;
   end
 
-  Stat_Roll:=do_check(source_obj,STAT_st,Crowbar_Bonus);
-  
-  if (is_success(Stat_Roll)) then begin
+  pry_success = roll_pry_success();
+
+  if pry_success then begin
     obj_unlock(self_obj);
-    
     if (source_obj == dude_obj) then begin
       display_msg(mstr(176));
-    end
-    
-    else begin
+    end else begin
       display_msg(mstr(181));
     end
+    return;
   end
   
-  else if (is_critical(Stat_Roll)) then begin
+  // failure: damage
+  pry_strain = roll_pry_strain();
+  if pry_strain then begin
     critter_dmg(source_obj,Crowbar_Strain,(DMG_normal_dam BWOR DMG_BYPASS_ARMOR));
     
     if (source_obj == dude_obj) then begin
@@ -1473,7 +1494,18 @@ procedure Pry_Door begin
     end
   end
   
-  else begin
+  // crowbar destroy
+  pry_destroy_crowbar = roll_pry_destroy_crowbar();
+  if pry_destroy_crowbar then begin
+    variable crowbar = get_item(source_obj, PID_CROWBAR);
+    rm_obj_from_inven(source_obj, crowbar);
+    destroy_object(crowbar);
+    if source_obj == dude_obj then display_msg(mstr(620));
+    else display_msg(obj_name(source_obj) + mstr(621));
+  end
+
+  // regular failure
+  if not (pry_strain or pry_destroy_crowbar) then begin
     if (source_obj == dude_obj) then begin
       display_msg(mstr(180));
     end
@@ -1482,6 +1514,7 @@ procedure Pry_Door begin
       display_msg(mstr(185));
     end
   end
+
 end
 
 procedure Damage_Critter begin

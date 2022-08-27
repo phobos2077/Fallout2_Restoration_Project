@@ -289,6 +289,11 @@
 {188}{}{ points of damage.}
 
 {601}{}{It is open, dummy.}
+
+# Crowbar bent
+{620}{}{You bend the crowbar beyond recognition. It's useless now.}
+{621}{}{ bends the crowbar beyond recognition. It's useless now.}
+
 #############################################################
 #  Damage done to the door due to explosives.               #
 #############################################################
