@@ -69,7 +69,7 @@ procedure Super_Lockpick_Lock;
 procedure Super_Set_Lockpick_Lock;
 procedure trap_search_result(variable found_trap, variable who);
 procedure real_explosion(variable explosive);
-
+procedure roll_critical;
 /*****************************************************************
 Local Variables which are saved. All Local Variables need to be
 prepended by LVAR_
@@ -203,11 +203,6 @@ procedure roll_pry_success begin
   if rnd <= (get_critter_stat(source_obj,STAT_st) + Crowbar_Bonus) then return true;
   return false;
 end
-procedure roll_pry_strain begin
-  variable rnd = random(1,20);
-  if rnd == 20 then return true;
-  return false;
-end
 // High strength = more chance to destroy the crowbar, same for metal doors/containers
 procedure roll_pry_destroy_crowbar begin
   variable rnd = random(1,100);
@@ -243,7 +238,7 @@ end
     end
     
     // failure: damage
-    pry_strain = roll_pry_strain();
+    pry_strain = roll_critical();
     if pry_strain then begin
       critter_dmg(source_obj,Crowbar_Strain,(DMG_normal_dam BWOR DMG_BYPASS_ARMOR));
       
@@ -563,13 +558,15 @@ lockpick skill and perception to notice the lock.
 #ifndef custom_Look_Locks
   procedure Look_Locks begin
     variable Perception_Check;
+    variable perception_critical;
     variable Locks_Check;
     
     Perception_Check:=do_check(dude_obj,STAT_pe,0);
+    perception_critical = roll_critical();
     Locks_Check:=roll_vs_skill(dude_obj,SKILL_LOCKPICK,0);
     
     if (is_success(Perception_Check)) then begin
-      if (is_critical(Perception_Check)) then begin
+      if perception_critical then begin
         if (is_success(Locks_Check)) then begin
           if (is_critical(Locks_Check)) then begin
             display_msg(my_mstr(114));
@@ -610,7 +607,7 @@ lockpick skill and perception to notice the lock.
       end                                                      // Regular Success (Stat_pe)
     end
     
-    else if (is_critical(Perception_Check)) then begin
+    else if perception_critical then begin
       if (is_success(Locks_Check)) then begin
         if (is_critical(Locks_Check)) then begin
           display_msg(my_mstr(146));
@@ -659,13 +656,15 @@ traps skill and perception to notice the trap.
 #ifndef custom_Look_Traps
   procedure Look_Traps begin
     variable Perception_Check;
+    variable perception_critical;
     variable Traps_Check;
     
     Perception_Check:=do_check(dude_obj,STAT_pe,0);
+    perception_critical = roll_critical();
     Traps_Check:=roll_vs_skill(dude_obj,SKILL_TRAPS,0);
     
     if (is_success(Perception_Check)) then begin
-      if (is_critical(Perception_Check)) then begin
+      if perception_critical then begin
         if (is_success(Traps_Check)) then begin
           if (is_critical(Traps_Check)) then begin
             display_msg(my_mstr(104));
@@ -706,7 +705,7 @@ traps skill and perception to notice the trap.
       end                                                      // Regular Success (Stat_pe)
     end
     
-    else if (is_critical(Perception_Check)) then begin
+    else if perception_critical then begin
       if (is_success(Traps_Check)) then begin
         if (is_critical(Traps_Check)) then begin
           display_msg(my_mstr(136));
@@ -756,10 +755,12 @@ on your lockpick and traps skills and perception to notice things.
 #ifndef custom_Look_Traps_And_Locks
   procedure Look_Traps_And_Locks begin
     variable Perception_Check;
+    variable perception_critical;
     variable Traps_Check;
     variable Locks_Check;
     
     Perception_Check:=do_check(dude_obj,STAT_pe,0);
+    perception_critical = roll_critical();
     Traps_Check:=roll_vs_skill(dude_obj,SKILL_TRAPS,0);
     Locks_Check:=roll_vs_skill(dude_obj,SKILL_LOCKPICK,0);
     
@@ -769,7 +770,7 @@ on your lockpick and traps skills and perception to notice things.
       
       /* Critical Success of a Perception Check  (Start)*/
       
-      if (is_critical(Perception_Check)) then begin
+      if perception_critical then begin
         
         if (is_success(Traps_Check)) then begin
           set_local_var(LVAR_Found_Trap,1);                // player has found the trap
@@ -973,7 +974,7 @@ on your lockpick and traps skills and perception to notice things.
     
     /* Critical Failure of a Perception Check  (Start)*/
     
-    else if (is_critical(Perception_Check)) then begin
+    else if perception_critical then begin
       if (is_success(Traps_Check)) then begin
         set_local_var(LVAR_Found_Trap,1);                    // player has found the trap
         
@@ -1252,5 +1253,12 @@ and Repair can be added to this list to give more information about the door.
     end                                                          // End of Skill_Traps
   end
 #endif
-  
+
+// standard critical, used for stat checks - they can't crit on their own
+procedure roll_critical begin
+  variable rnd = random(1,20);
+  if rnd == 20 then return true;
+  return false;
+end
+
 #endif // DOORS_CONTAINERS_H
