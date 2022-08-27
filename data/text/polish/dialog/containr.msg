@@ -114,3 +114,5 @@
 {601}{}{To jest otwarte, głupku.}
 {610}{}{Ponosisz spektakularną porażkę, ładunek wybuchowy wybucha przedwcześnie.}
 {611}{}{ zawodzi spektakularnie, ładunek wybuchowy wybucha przedwcześnie.}
+{620}{}{You bend the crowbar beyond recognition. It's useless now.}
+{621}{}{ bends the crowbar beyond recognition. It's useless now.}
