@@ -115,11 +115,11 @@
 {211}{}{ no consigues colocar correctamente la trampa en el cajón.}
 {212}{}{Ves un frigorífico.}
 {400}{}{Abres el cajón.}
-{601}{}{Está cerrado, idiota.}
+{601}{}{Está abierto, idiota.}
 {610}{}{Fallas espectacularmente, y el explosivo detona prematuramente.}
 {611}{}{Fallas espectacularmente, y el explosivo detona prematuramente.}
-{620}{}{You bend the crowbar beyond recognition. It's useless now.}
-{621}{}{ bends the crowbar beyond recognition. It's useless now.}
+{620}{}{Doblas la palanca más allá de sus límites. Ahora no sirve para nada.}
+{621}{}{ dobla la palanca más allá de sus límites. Ahora no sirve para nada.}
 {800}{}{Has recuperado el FOB.}
 {810}{}{Te has hecho con los planos.}
 {820}{}{Has conseguido la unidad motriz de K-9.}

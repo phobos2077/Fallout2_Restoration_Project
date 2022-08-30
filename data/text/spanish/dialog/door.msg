@@ -175,8 +175,8 @@
 {501}{}{Parece que antes necesitarás hacer funcionar el generador.}
 {502}{}{Ves: Puerta de ascensor.}
 {503}{}{Parece que necesitas un aparato eléctrico para abrir esta cerradura.}
-{601}{}{Está cerrado, idiota.}
+{601}{}{Está abierto, idiota.}
 {610}{}{Fallas espectacularmente, y el explosivo detona prematuramente.}
 {611}{}{Fallas espectacularmente, y el explosivo detona prematuramente.}
-{620}{}{You bend the crowbar beyond recognition. It's useless now.}
-{621}{}{ bends the crowbar beyond recognition. It's useless now.}
+{620}{}{Doblas la palanca más allá de sus límites. Ahora no sirve para nada.}
+{621}{}{ dobla la palanca más allá de sus límites. Ahora no sirve para nada.}
