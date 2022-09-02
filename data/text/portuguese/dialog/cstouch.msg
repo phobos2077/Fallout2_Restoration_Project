@@ -183,7 +183,7 @@ que você poderá abrir.}
 {610}{}{Você falha grosseiramente e o explosivo detona prematuramente.}
 {611}{}{ falha grosseiramente e o explosivo detona prematuramente.}
 {620}{}{Você dobra o pé-de-cabra além do reconhecimento. É inútil agora.}
-{621}{}{ bends the crowbar beyond recognition. It's useless now.}
+{621}{}{ dobra o pé de cabra além dos limites. Agora não serve mais.}
 {800}{}{Você recuperou o fob.}
 {810}{}{Você recuperou os planos.}
 {820}{}{Você recuperou o K-9 motivador.}

@@ -265,62 +265,62 @@
 {992}{}{Quem são os outros traficantes?}
 {993}{}{Sim, você já disse isso. Olha, eu tinha outras perguntas ..}
 {994}{}{Tudo bem, Jesus. Obrigado pela informação}
-{1000}{}{CAUSE he's a half-blind cracker with a mean streak a mile wide that sells BAD SHIT, that's fucking why. You go see him,
- you see what he says about the Wright kid, and THEN you'll see I'm right.}
-{1001}{}{What other dealers are there?}
+{1000}{}{PORQUE ele é um branquelo meio cego com uma cara nojenta e mesquinha e que vende BAGULHO RUIM, essa é a porra da
+ razão. Vai lá ver, veja o que ele diz sobre o garoto Wright, e ENTÃO você verá que estou certo.}
+{1001}{}{Que outros traficantes existem?}
 {1002}{}{Eu faço isso. Olha, eu tenho outras perguntas ...}
-{1003}{}{All right then, Jesus. I'll go check this Renesco out.}
-{1010}{}{There's Jules, front of town, peddles mostly to newcomers... n' Jagged Jimmy J, up on 2nd street by the gym... can't
- miss that punk-ass cause he cut his face up one night while on Jet... it's so bad his entire face is all scars.}
-{1011}{}{I hear you deal drugs, too, Jesus. How come YOUR name wasn't on that list?}
-{1012}{}{What makes you think Renesco's responsible?}
+{1003}{}{Tudo bem então, Jesus. Vou dar uma olhada nesse Renesco.}
+{1010}{}{Tem o Jules, na frente da cidade, vai em cima principalmente dos recém-chegados... e Jagged Jimmy J, na 2ª rua perto do ginásio...
+ difícil não ver aquele retardado, ele cortou o rosto uma noite enquanto se entupia de Jet... deu bem ruim, a cara toda ficou cortada.}
+{1011}{}{Ouvi dizer que você também trafica drogas, Jesus. Como é que o SEU nome não estava nessa lista?}
+{1012}{}{O que faz você pensar que Renesco é o responsável?}
 {1013}{}{Interessante. Eu tinha outras perguntas...}
-{1014}{}{Renesco, Jules and Jagged Jimmy J. Got it. Thanks for the information.}
-{1020}{}{CAUSE, mother fucker, I AIN'T a dealer. }
-{1021}{}{CAUSE I AIN'T a dealer, BITCH. }
-{1022}{}{I may sell Jet sometimes, but I'm Lil' Jesus MORDINO, not some two-bit Jet-pushing punk that's got to addict ten
- customers a day just to make enough to eat. So FUCK you.}
-{1023}{}{You better watch your mouth with me, Jesus.}
+{1014}{}{Renesco, Jules e Jagged Jimmy J. Entendi. Obrigado pela informação.}
+{1020}{}{PORQUE, filha da puta, eu NÃO sou um traficante. }
+{1021}{}{PORQUE EU NÃO SOU traficante, VAGABUNDA. }
+{1022}{}{Eu até vendo Jet às vezes, mas eu sou Lil' Jesus MORDINO, não um marginal de esquina que empurra jet a rodo pra todo
+ mundo todo dia só para ter o suficiente para comer. Então vai se fuder.}
+{1023}{}{É melhor você maneirar a língua comigo, Jesus.}
 {1024}{}{Sussa, eu só estava curioso... Olha, eu tenho outras perguntas...}
-{1025}{}{All right then. Thanks for the information.}
-{1030}{}{(Lil' Jesus glances at the knife in your hand, shakes his head.) }
-{1031}{}{(The man glances at the knife in your hand, shakes his head.) }
-{1032}{}{*Tchhhh.* Don't you know how to HOLD a knife, homes? }
-{1033}{}{*Tchhhh.* Don't you know how to HOLD a knife, chica? }
-{1034}{}{Here, like this... (Adjusts your grip.) You need some instruction.}
-{1035}{}{(Look at knife. Look at ugly man. Look at knife.) You touch }
+{1025}{}{Tudo bem então. Obrigado pela informação.}
+{1030}{}{(Lil' Jesus olha para a faca em sua mão, balança a cabeça.) }
+{1031}{}{(O homem olha para a faca em sua mão, balança a cabeça.) }
+{1032}{}{*Puff* Você não sabem segurar uma faca, parceiro? }
+{1033}{}{*Puff.* Você não sabem segurar uma faca, fia? }
+{1034}{}{Aqui, assim... (Ajusta sua pegada.) Você precisa de uma boa instrução.}
+{1035}{}{(Olha para a faca. Olha para o homem feio. Olha para a faca.) Você toca }
 {1036}{}{Kagagoogoo}
-{1038}{}{Really? Can you teach me?}
+{1038}{}{Sério? Você pode me ensinar?}
 {1040}{}{Na verdade, eu tenho algumas perguntas para você, Jesus...}
-{1041}{}{Maybe some other time, thanks.}
+{1041}{}{Talvez outra hora, valeu.}
 {1050}{}{Hmmmmm...}
-{1051}{}{I don't know, homes... I mean, I ain't got a lot of free time and knife fighting's an ART, y'know?}
-{1052}{}{I don't know, chica... I mean, I ain't got a lot of free time and knife fighting's an ART, y'know?}
-{1053}{}{I don't know, chica... I mean, I MIGHT be willing to make an exception for a woman such as yourself, but I ain't
- got a lot of free time... and knife fighting's an ART, y'know?}
-{1054}{}{I'll give you a hundred chips.}
-{1055}{}{I'll give you two hundred chips.}
-{1056}{}{My lovemaking's an art, too. Wanna swap styles?}
+{1051}{}{Não sei, cara... Quer dizer, não tenho muito tempo livre e lutar com facas é uma ARTE, sabe?}
+{1052}{}{Não sei, mocinha... Quer dizer, não tenho muito tempo livre e lutar com facas é uma ARTE, sabe?}
+{1053}{}{Eu não sei, fia... quer dizer, eu poderia estar disposto a abrir uma exceção para uma mulher como você, mas eu não tenho
+ muito tempo livre... e lutar com facas é uma ARTE. Entende?}
+{1054}{}{Te dou cem tampinhas.}
+{1055}{}{Te dou duzentas tampinhas.}
+{1056}{}{Fazer amor também é uma arte. Quer fazer uma troca de estilos?}
 {1058}{}{Na verdade, eu tinha algumas perguntas...}
-{1059}{}{Some other time then... when I have enough chips to change your mind.}
-{1060}{}{Maybe some other time then, thanks.}
-{1070}{}{Hmmmmm. 200 and it's a deal.}
-{1071}{}{Naw... I was thinking about something ELSE, y'know? (His eyes drift down your body, licks his chapped lips.)}
-{1072}{}{Tell me you mean 200 chips. PLEASE tell me you mean 200 chips.}
-{1073}{}{Oh, you were thinking of sex? Well, keep thinking, cause it ain't gonna happen.}
-{1074}{}{Uh, okay. Let's do it. Anything for some added knife skill.}
+{1059}{}{Outra hora então... quando eu tiver tampas suficientes para fazer você mudar de ideia.}
+{1060}{}{Talvez outra hora então, obrigado.}
+{1070}{}{Hmmmmm. 200 e temos um trato.}
+{1071}{}{Nah... eu tinha pensado em outra coisa, sabe? (Seus olhos percorrem seu corpo, lambe seus lábios rachados.)}
+{1072}{}{Diga-me que você quer dizer 200 tampas. POR FAVOR, diga-me que você quer dizer 200 tampas.}
+{1073}{}{Mas essa porra de sexo de novo? Fica pensando nisso sozinho porque não vai acontecer.}
+{1074}{}{Certo, vamos lá então. Qualquer coisa por alguma habilidade a mais com facas.}
 {1075}{}{Tudo bem. Aqui está o dinheiro.}
-{1076}{}{Nevermind. Uh, who are you, anyway?}
+{1076}{}{Não importa. Uh, quem é você, afinal?}
 {1077}{}{Esqueça. Eu tinha outras perguntas...}
-{1079}{}{Maybe some other time, thanks. I REALLY have to be going.}
-{1090}{}{Hmmmm... all right, yeah, I'll do it. You look like you might have the cojones for it. Look, now, the first thing you
- gotta do is...}
-{1091}{}{Hmmmm... all right, yeah, I'll do it. You look like you might have the cojones for it... no offense. Look, now, the first
- thing you gotta do is...}
-{1092}{}{(Smiles, displaying the rotted remains of his teeth.) All right, yeah, I'll do it. You got some time right NOW, chica?
- Then let's get down to business...}
+{1079}{}{Talvez outra hora, obrigado. Eu realmente tenho que ir.}
+{1090}{}{Hmmmm... tudo bem, sim, eu faço isso. Parece que você é macho para isso. Olha, agora, a primeira coisa que você tem que
+ fazer é...}
+{1091}{}{Hmmmm... tudo bem, sim, eu faço isso. Parece que você é macho para isso... eh, quase. Olha, agora, a primeira coisa que
+ você tem que fazer é...}
+{1092}{}{(Sorri, mostrando os restos podres de seus dentes.) Tudo bem, sim, eu vou fazer isso. Você tem algum tempo AGORA, querida?
+ Então vamos ao que interessa...}
 {1093}{}{Tudo bem...}
-{1643}{}{Who is this Mordino Family you were talking about?}
+{1643}{}{Quem é essa Família Mordino que você estava falando?}
 {2000}{}{Lil' Jesus shows you some vicious knife fighting tricks. You have become more skilled with knives.}
 {2001}{}{At the cost of your dignity, you have become more skilled with knives. You also desperately want a shower.}
 {5200}{}{! Way to kick the Enclave's ass!}
