@@ -198,5 +198,5 @@ a porta está aberta.}
 {601}{}{Está aberto, burro.}
 {610}{}{Você falha grosseiramente e o explosivo detona prematuramente.}
 {611}{}{ falha grosseiramente e o explosivo detona prematuramente.}
-{620}{}{You bend the crowbar beyond recognition. It's useless now.}
+{620}{}{Você dobra o pé-de-cabra além do reconhecimento. É inútil agora.}
 {621}{}{ bends the crowbar beyond recognition. It's useless now.}

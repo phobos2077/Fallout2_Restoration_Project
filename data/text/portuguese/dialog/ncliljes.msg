@@ -261,10 +261,10 @@
 {982}{}{Lado oeste, hein? Eu posso passar por lá. Eu tenho outras perguntas, no entanto...}
 {983}{}{Tudo bem, vou dar uma olhada. Obrigado, Jesus.}
 {990}{}{Não, há outros, mas foi o Renesco que fez.}
-{991}{}{What makes you say that?}
-{992}{}{Who are the other dealers?}
+{991}{}{O que te faz dizer isso?}
+{992}{}{Quem são os outros traficantes?}
 {993}{}{Sim, você já disse isso. Olha, eu tinha outras perguntas ..}
-{994}{}{All right, Jesus. Thanks for the info.}
+{994}{}{Tudo bem, Jesus. Obrigado pela informação}
 {1000}{}{CAUSE he's a half-blind cracker with a mean streak a mile wide that sells BAD SHIT, that's fucking why. You go see him,
  you see what he says about the Wright kid, and THEN you'll see I'm right.}
 {1001}{}{What other dealers are there?}
