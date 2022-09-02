@@ -321,10 +321,10 @@
  Então vamos ao que interessa...}
 {1093}{}{Tudo bem...}
 {1643}{}{Quem é essa Família Mordino que você estava falando?}
-{2000}{}{Lil' Jesus shows you some vicious knife fighting tricks. You have become more skilled with knives.}
-{2001}{}{At the cost of your dignity, you have become more skilled with knives. You also desperately want a shower.}
+{2000}{}{Lil' Jesus mostra alguns truques topzeras de luta com facas. Você se tornou mais habilidoso com facas.}
+{2001}{}{Entregando sua dignidade, você se tornou mais habilidosa com facas. Você também quer desesperadamente um banho.}
 {5200}{}{! Way to kick the Enclave's ass!}
-{5201}{}{, way to teach them dumb Enclave fucks how things are done DOWNTOWN.}
+{5201}{}{, que forma de ensinar esses porra loca da Enclave como as coisas são feitas na CIDADE.}
 {5230}{}{.}
 {5240}{}{? Os Mordinos andam de cabeça erguida.}
 {5250}{}{?}
@@ -333,24 +333,24 @@
 {5254}{}{. Onde você esteve?}
 {5255}{}{.}
 {5256}{}{?}
-{5257}{}{. You comin' wit us?}
-{5271}{}{. Lose 'em and walk, or else.}
-{5273}{}{s fuck with us, you'll be wormfood. Get outta here!}
-{5276}{}{? She just got done kissing my ass. Now you better blow, too.}
-{5280}{}{, you better leave.}
+{5257}{}{. Você vem com nós?}
+{5271}{}{. Vaza, vai, pelo que te traz.}
+{5273}{}{foda-se, e você será comida para os vermes. Saia daqui!}
+{5276}{}{? Ela acabou de beijar minha bunda. Agora é melhor você soprar também.}
+{5280}{}{, é melhor você ir embora.}
 {5320}{}{? Com esse gancho direito que tem você deveria andar com a cabeça erguida.}
-{5340}{}{? You're vicious. You got the MOVES, hombre.}
+{5340}{}{? Você é implacável. Sabe se mover hein, cara.}
 {5343}{}{.}
 {5344}{}{. Se as outras famílias te virem, vão te enterrar em segundos.}
-{5346}{}{. You were *wasting* that guy.}
+{5346}{}{. Você estava *fodendo* aquele cara.}
 {5347}{}{?}
 {5380}{}{? Vamos, ajeita essa postura.}
 {5401}{}{! Que passa? Você vai fala de mim pros Brothers ou não?}
 {5402}{}{, bilheteria!}
-{5404}{}{...c'mon. I can *do* it.}
-{5542}{}{! The big ol' fighter! Man, you're good!}
-{5543}{}{! The nasty chica fighter! You're good, chica!}
+{5404}{}{...Vamos lá. Eu *posso* fazer isso.}
+{5542}{}{! O grande lutador! Cara, você é bom!}
+{5543}{}{! O lutadora perigosa! Você é boa, muié!}
 {5560}{}{? }
-{6035}{}{'s hand No TOUCH }
-{7035}{}{'s hand }
-{8035}{}{ NO LIKE}
+{6035}{}{é a mão para não TOCAR }
+{7035}{}{é a mão de }
+{8035}{}{ NÃO GOSTO}

@@ -39,7 +39,7 @@
 {137}{}{I'm looking for the Vault the flask came from.}
 {138}{}{Obrigado pela informação.}
 {139}{}{Well, hell, if it's a Vault you're looking for, then there's one inside the walls of Vault City.}
-{140}{}{Vault 13 is inside the city?}
+{140}{}{A Vault 13 está dentro da cidade?}
 {141}{}{Obrigado pela informação.}
 {142}{}{Well, now, don't know if it's "13" exactly, but there's a Vault. If that ain't the one you're looking for, the vault's central computer might know where the others are. They've damn near listed everything in it.}
 {143}{}{Eu tenho mais algumas perguntas...}

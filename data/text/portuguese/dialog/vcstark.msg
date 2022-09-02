@@ -36,18 +36,18 @@
 {135}{}{Quem é você?}
 {136}{}{Nothing, sorry to disturb you.}
 {137}{}{Come with me, boy. NOW.}
-{138}{}{Come with me, lady. NOW.}
-{139}{}{Me leave? Me leave!}
-{140}{}{ME NO GO. NOW.}
-{141}{}{You'll wish you left.}
-{142}{}{ME NO GO LEFT.}
-{143}{}{Sergeant Stark... sir. Did you need something?}
-{144}{}{I am Citizen SERGEANT Stark, Citizen. Was there something I could help you with?}
-{145}{}{I am Citizen SERGEANT Stark, Outsider. What do you want?}
+{138}{}{Venha comigo, moça. AGORA.}
+{139}{}{Eu sair? Eu sair!}
+{140}{}{EU NÃO VOU. AGORA.}
+{141}{}{Você vai desejar ter ido embora.}
+{142}{}{EU NÃO VOU.}
+{143}{}{Sargento Stark... senhor. O senhor precisa de algo?}
+{144}{}{Eu sou o Cidadão Sargento Stark, Cidadão. Tem algo em que eu possa ajudá-lo?}
+{145}{}{Eu sou o Cidadão Sargento Stark, Forasteiro. O que você procura?}
 {146}{}{O que você faz aqui?}
-{147}{}{Can you tell me where the Vault is?}
+{147}{}{Você pode me dizer onde fica a Vault?}
 {148}{}{Nothing, sorry to disturb you.}
-{149}{}{I do YOUR job, sir.}
+{149}{}{Eu faço o SEU trabalho, senhor.}
 {150}{}{I run the Corrections Center. And obey your orders, sir.}
 {151}{}{I run the Corrections Center. Keep the Outworlders in line. Make sure the Servants behave. Organize patrols. Try and protect the city from raiders.}
 {152}{}{You got a problem, Sergeant?}
@@ -266,7 +266,7 @@
 {364}{}{You the one who busted up Cassidy's bar?}
 {365}{}{Have you heard of a Servant named Joshua?}
 {366}{}{O que você faz aqui?}
-{367}{}{Can you tell me where the Vault is?}
+{367}{}{Você pode me dizer onde fica a Vault?}
 {368}{}{I surveyed the area around Gecko for you.}
 {369}{}{Got any more recon work for me?}
 {370}{}{I plotted that route to NCR for you.}

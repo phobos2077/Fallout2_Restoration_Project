@@ -1,5 +1,5 @@
-{150}{}{You see a lean, hungry-looking man. He has a haggard look, and a thin coat of stubble
- covers his chin.}
+{150}{}{Você vê um homem magro com cara de fome. Ele tem um olhar abatido, e uma fina
+ camada de barba por fazer cobre seu queixo.}
 {151}{}{You see Pretty Boy Lloyd.}
 {152}{}{You see Pretty Boy Lloyd. He is watching you warily.}
 {200}{}{Gotta get outta town...}
