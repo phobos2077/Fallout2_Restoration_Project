@@ -29,7 +29,7 @@
 {301}{}{Uh, no.}
 {302}{}{Oh, vale. Entonces déjame preguntarte otra cosa.}
 {303}{}{Ah, ya veo. Bueno, je, por mí no te cortes. Eh... adiós.}
-{315}{}{Me traen lo que encuentran. Piccoli, pequeñas cosas. Cosas que nadie quiere ya. A cambio, cuido de ellos.}
+{315}{}{Me traen lo que encuentran. Pequeñas cosas. Lo que nadie quiere ya. A cambio, cuido de ellos.}
 {316}{}{Parece un buen acuerdo.}
 {325}{}{(Flick se encoge de hombros) Supongo que sí.}
 {326}{}{Otra pregunta, si no te importa.}
@@ -66,7 +66,7 @@
 {432}{}{Eres un mentiroso. Estoy harta de escoria como tú que usa a la gente para su propio beneficio. ¡Hora de morir!}
 {440}{}{Pai-sa-nos, sabes, los chicos. Mis chicos.}
 {441}{}{¿Y tienes un acuerdo con ellos?}
-{450}{}{Me traen lo que encuentran. Piccoli, pequeñas cosas. Cosas que nadie quiere ya. A cambio, cuido de ellos.}
+{450}{}{Me traen lo que encuentran. Pequeñas cosas. Lo que nadie quiere ya. A cambio, cuido de ellos.}
 {451}{}{Parece un buen acuerdo.}
 {460}{}{Sí ... el negocio estuvo bien hasta que llegaste. Mira, tu pequeño truco me va a costar. Mi negocio va a sufrir gracias a ti. Debido a esto, realmente no me gustas demasiado. De hecho, te odio. Pero, soy un hombre de negocios, así que si necesitas hacer trueques, hazlo. Si no, vete a la mierda.}
 {461}{}{De acuerdo, déjame ver lo que tienes a la venta entonces.}
