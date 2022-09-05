@@ -1,69 +1,68 @@
 {150}{}{Você vê um homem magro com cara de fome. Ele tem um olhar abatido, e uma fina
  camada de barba por fazer cobre seu queixo.}
-{151}{}{You see Pretty Boy Lloyd.}
-{152}{}{You see Pretty Boy Lloyd. He is watching you warily.}
-{200}{}{Gotta get outta town...}
-{210}{}{Who're you? What're you doing down here?!}
-{211}{}{You again?! What're you doing down here?!}
-{212}{}{Nuttin honey}
+{151}{}{Você vê Lloyd Bonitão.}
+{152}{}{Você vê Lloyd Bonitão. Ele te observa com cautela.}
+{200}{}{Tenho que sair da cidade...}
+{210}{}{Quem é você? O que você está fazendo aqui embaixo?!}
+{211}{}{Você de novo?! O que você está fazendo aqui embaixo?!}
+{212}{}{N-nada naum}
 {213}{}{Eu}
 {214}{}{Cai fora}
-{215}{}{What are YOU doing down here?}
-{216}{}{Calm down, friend, THEN we'll talk. Everything all right?}
-{217}{}{You Lloyd? Pretty Boy Lloyd?}
-{218}{}{Nothing. Just looking around. See you.}
-{225}{}{Well, get outta here. And don't you be telling anyone you saw me, you hear?}
-{226}{}{Me here. Now me gone!}
-{230}{}{None of your business... friend. I suggest you just head right back up those stairs and forget
- we ever met.}
-{231}{}{Me Forget. 4-get, four-git... uh... forget whut?}
-{232}{}{Okee Dokee}
-{233}{}{I don't care much for your suggestion... friend. What's the problem here?}
-{234}{}{You sound like a man in trouble. I might be able to help you.}
-{235}{}{You look like a man who values his privacy. For someone as talkative as I am, forgetting
- you could be very expensive.}
+{215}{}{O quê VOCÊ está fazendo aqui em baixo?}
+{216}{}{Calma, parceiro, ENTÃO vamos conversar. Tudo está certo?}
+{217}{}{Você é Lloyd? Lloyd Bonitão?}
+{218}{}{Nada, apenas olhando por aí. Até mais.}
+{225}{}{Bem, saia daqui. E não conte a ninguém que me viu, tá ouvindo?}
+{226}{}{Eu aqui. Agora vou indo!}
+{230}{}{Não é da sua conta... amigo. Eu sugiro que você volte pelas escadas e esqueça que já nos vimos.}
+{231}{}{Eu Esqueço. Esque. Alzhei.. uh... esquecer o quê?}
+{232}{}{Taaaa bom}
+{233}{}{Não ligo muito para sua sugestão... amigo. Qual é o problema aqui?}
+{234}{}{Você parece um homem com problemas. Eu posso te ajudar.}
+{235}{}{Você parece um homem que gosta da privacidade. Para alguém tão tagarela quanto eu,
+ esquecer você pode ser muito caro.}
 {236}{}{Tudo bem então... desculpe incomodá-lo.}
-{245}{}{Problem? The problem's standing right in front of me. }
-{246}{}{Now I'm not going to say it again, fella: Leave.}
-{247}{}{Now I'm not going to say it again, sweetheart: Leave.}
-{248}{}{You *threatening* me? Think VERY carefully before you answer.}
-{255}{}{Problem? No problem, friend, no problem at all. Just looking for a little privacy is all.}
-{256}{}{Problem? No problem, sweetheart, no problem. Just looking for a little privacy is all.}
-{257}{}{Problem? Not at all. Just looking for a little privacy is all. Still... it WAS rude of me to turn away such a lovely lady.}
-{258}{}{I think you DO have a problem. See, all this privacy makes it hard for anyone to hear
- what's going on down here. Maybe I'll just kill you, eh?}
-{260}{}{For someone as talkative as I am, privacy can be pretty expensive.}
-{261}{}{All right then. Sorry to bother you.}
-{262}{}{You're right. It WAS rude. I'll be going now.}
-{270}{}{(Eyes narrow.) }
-{271}{}{If you came down here looking for trouble, you hit the jackpot, friend. }
-{272}{}{If you came down here looking for trouble, you hit the jackpot, sweetheart. }
-{273}{}{Hope you done paid your respects...}
-{274}{}{You want some trouble? You GOT troub --}
-{283}{}{Uh... now, look... I'm not threatening anyone, and I'm certainly not looking for any trouble.}
-{284}{}{I think you DO have a problem. See, all this privacy makes it difficult for anyone to hear
- what's going on down here. Maybe I'll just kill you, eh?}
-{285}{}{You look like a man in trouble, and I might be able to help you. What do you say?}
-{286}{}{You sound like a man who values his privacy. For someone as talkative as I am, forgetting
- you could be very expensive.}
+{245}{}{Problema? O problema está bem na minha frente. }
+{246}{}{Mais uma vez, não vou dizer isso de novo, cara: Vá embora.}
+{247}{}{Mais uma vez, não vou dizer de novo, belezinha: vá embora.}
+{248}{}{Você está me *ameaçando*? Pense muito bem antes de responder.}
+{255}{}{Problema? Nenhum problema, amigo, nenhum problema. Apenas procurando um pouco de privacidade.}
+{256}{}{Problema? Nenhum problema, belezinha, nenhum problema. Apenas procurando um pouco de privacidade.}
+{257}{}{Problema? De jeito nenhum. Apenas procurando um pouco de privacidade. Ainda assim... Foi RUDE da minha parte falar assim com uma linda senhorita.}
+{258}{}{Eu acho que você tem um problema. Olha, toda essa privacidade torna difícil para
+ qualquer um ouvir o que está acontecendo aqui. Talvez eu te mate, eh?}
+{260}{}{Para alguém tagarela como eu, a privacidade pode ser bem cara.}
+{261}{}{Tudo bem então. Desculpe incomodá-lo.}
+{262}{}{Você tem razão. Foi RUDE. Vou indo agora.}
+{270}{}{(Estreita os olhos.) }
+{271}{}{Se você veio aqui procurando problemas, você acertou o alvo, amigo. }
+{272}{}{Se você veio aqui procurando problemas, você acertou o alvo, docinho. }
+{273}{}{Espero que você tenha prestado seus respeitos...}
+{274}{}{Você quer algum problema? Você TERÁ problemas --}
+{283}{}{Uh... agora, olhe... eu não estou ameaçando ninguém, e obviamente não estou procurando nenhum problema.}
+{284}{}{Eu acho que você tem um problema. Veja, toda essa privacidade torna difícil para qualquer
+ um ouvir o que está acontecendo aqui. Talvez eu te mate, eh?}
+{285}{}{Você parece um homem com problemas, e talvez eu possa ajudá-lo. O que me diz?}
+{286}{}{Você parece um homem que valoriza sua privacidade. Para alguém tagarela comoeu, esquecer você pode
+ ser muito caro.}
 {287}{}{Tudo bem então... desculpe incomodá-lo.}
-{295}{}{Uh... hey, now... there's, uh, no need for that kind of talk. Maybe we can talk about something
- ELSE: how much your friend Lloyd can help you.}
-{296}{}{I'm interested. You keep on talking.}
-{297}{}{Not interested. I'm outta here.}
-{298}{}{Forget it, Lloyd. Your number's up. Prepare to die.}
-{305}{}{(The man's face turns pale. He swallows for a second... then lunges at you!)}
-{306}{}{Son of a b -}
-{315}{}{I got some chips... maybe a little money can clear the air between us, keep everything civil?}
-{316}{}{Fine. Give me everything you got.}
-{318}{}{Keep your money. I'm outta here.}
-{325}{}{All right then, all right...(He reaches into pocket, pulls out some chips, then hands them over to you.)...now
- how about you take that money, head on upstairs and have a good time on Lloyd, you hear?}
-{326}{}{Maybe you're deaf. I SAID, give me everything you got.}
-{327}{}{Okay. Well, after I kill you.}
-{328}{}{All right then. I'm outta here.}
-{335}{}{Uh, now... that's all I got in the world, friend. I ain't got no more; I done gave it all
- to you.}
+{295}{}{Uh... ei, agora... não há, uh, não precisamos desse tipo de conversa. Talvez possamos falar sobre outra coisa:
+ o quanto seu amigo Lloyd pode ajudá-lo.}
+{296}{}{Estou interessado. Continue falando.}
+{297}{}{Não tenho interesse. Estou saindo daqui.}
+{298}{}{Esqueça, Lloyd, seu tempo acabou. Prepare-se para morrer.}
+{305}{}{(O rosto dele fica pálido. Ele engole saliva... então se joga em você!)}
+{306}{}{Filho da p -}
+{315}{}{Eu tenho algumas tampas... talvez um pouco de dinheiro possa melhorar o clima, manter tudo civilizado?}
+{316}{}{Tá certo. Me passa tudo o que você tem.}
+{318}{}{Guarde seu dinheiro. Estou saindo daqui.}
+{325}{}{Tudo bem então, tudo bem... (Ele enfia a mão no bolso, tira algumas tampas, depois as entrega para você.)... agora
+ que tal você pegar esse dinheiro, subir as escadas e se divertir às custas de Lloyd, ouviu?}
+{326}{}{Talvez você seja surdo. EU DISSE, me dê tudo o que você tem.}
+{327}{}{Correto. Bem, depois que eu te matar.}
+{328}{}{Tudo bem então. Estou saindo daqui.}
+{335}{}{Uh, agora... isso é tudo que eu tenho no mundo, amigo. Eu não tenho mais; Eu dei
+ tudo para você.}
 {336}{}{Don't screw with me, Lloyd. I KNOW you got
  more; you're a smart guy. Last chance: where's the rest?}
 {337}{}{We'll see about that, Lloyd. I'm going to see what I find when I search your corpse.}
