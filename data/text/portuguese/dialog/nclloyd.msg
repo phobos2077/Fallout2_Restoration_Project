@@ -63,9 +63,9 @@
 {328}{}{Tudo bem então. Estou saindo daqui.}
 {335}{}{Uh, agora... isso é tudo que eu tenho no mundo, amigo. Eu não tenho mais; Eu dei
  tudo para você.}
-{336}{}{Don't screw with me, Lloyd. I KNOW you got
- more; you're a smart guy. Last chance: where's the rest?}
-{337}{}{We'll see about that, Lloyd. I'm going to see what I find when I search your corpse.}
+{336}{}{Não brinque comigo, Lloyd. EU SEI que você
+ tem mais; você é um cara esperto. Última chance: onde está o resto?}
+{337}{}{Veremos isso, Lloyd. Vou ver o que encontro quando vasculhar seu cadáver.}
 {345}{}{I... I said... ehh... all right now... I know where you can find more cash... it ain't mine, see, and it's
  more trouble than it's worth, but you want it, it's yours.}
 {346}{}{Could be I know where it is you can find some cash... it ain't mine, see, and it's more trouble
