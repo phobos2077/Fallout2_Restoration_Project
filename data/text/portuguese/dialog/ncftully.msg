@@ -232,7 +232,7 @@
 {730}{}{Os Mordino? (Levanta três dedos.) São dois deles. (Mantem a mão para o alto.) Grande Jesuus... (Agora a mão para baixo.) ...e Pequano
  Jesus. O Pai e o Filho. Eles controla as drogas e a muierada em Reno.}
 {731}{}{Me diga sobre o Grande Jesus.}
-{732}{}{Me diga sobre o Pequeno Jesus.}
+{732}{}{Me diga sobre o Lil' Jesus.}
 {733}{}{Então eles são a fonte de drogas e controlam a maioria das prostitutas em New Reno?}
 {740}{}{Jesuis? Ele é um muitxo ruim... (Toma um gole, esfrega nas bochechas.) Negocia com escravo, jet e umas puta. A
  única pessoa pior que é seu fio imundo.}

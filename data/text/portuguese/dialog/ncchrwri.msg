@@ -120,8 +120,8 @@
 {486}{}{Ei, moça, obrigado. }
 {487}{}{Você descobre quem matou meu irmão, e toda a Família Wright te agradece. E não é um agradecimento pequeno, entendeu?}
 {488}{}{Entendo. Te encontro mais tarde, Chris. }
-{495}{}{Jules na cabeça da cidade também vende Jet, mas ele normalmente vende para turistas... então tem o Pequeno Jesus Mordino: ele pode ter empurrado drogas enquanto Rich estava sozinho. Ele fica no Desperado.}
-{497}{}{Jagged Jimmy J, Renesco, Jules e Pequeno Jesus... Vou dar uma olhada neles. Obrigado pela informação, Cris. }
+{495}{}{Jules na cabeça da cidade também vende Jet, mas ele normalmente vende para turistas... então tem o Lil' Jesus Mordino: ele pode ter empurrado drogas enquanto Rich estava sozinho. Ele fica no Desperado.}
+{497}{}{Jagged Jimmy J, Renesco, Jules e Lil' Jesus... Vou dar uma olhada neles. Obrigado pela informação, Cris. }
 {1200}{}{! Way to kick the Enclave's ass!}
 {1201}{}{! Você é demais!}
 {1202}{}{!}

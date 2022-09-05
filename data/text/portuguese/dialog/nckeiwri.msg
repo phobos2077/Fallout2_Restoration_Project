@@ -68,8 +68,8 @@
 {431}{}{Suspeita de algum traficante?}
 {432}{}{Voce pode me falar um pouco sobre Richard?}
 {440}{}{Bando deles: Jagged Jimmy J na Segunda Rua, aquele velho filho da puta do Renesco no Oeste... e Jules tambem
- negocia de frente na cidade , mas principalmente para turistas burros. Ah, e tem o Pequeno Jesus Mordino.}
-{441}{}{Pequeno Jesus Mordino?}
+ negocia de frente na cidade , mas principalmente para turistas burros. Ah, e tem o Lil' Jesus Mordino.}
+{441}{}{Lil' Jesus Mordino?}
 {442}{}{Voce pode me contar um pouco mais sobre Richard?}
 {443}{}{Obrigado pela informaçao, Keith.}
 {450}{}{Garoto quieto, garoto limpo. Mantido fora de problemas, e para um Wright, isso e bom. Nos o enterramos
@@ -85,7 +85,7 @@
  mas cuidado. Papai esta de mau humor.}
 {471}{}{Obrigado.}
 {480}{}{Ele e filho do Grande Jesus. Um bastardo, como o pai. Ele pode ter pego Richard sozinho, entao enfiado jet
- a força. Se quiser procurar por ele, confira o Desperado. O pequeno Jesus anda por ai com seu velho.}
+ a força. Se quiser procurar por ele, confira o Desperado. O Lil' Jesus anda por ai com seu velho.}
 {1220}{}{. O que esta acontecendo?}
 {1252}{}{. Todo mundo te tratou bem? Algo que eu possa fazer por voce?}
 {1253}{}{. Devemos muito a voce, e os Wrights sempre pagam suas dividas. O que posso fazer por voce?}

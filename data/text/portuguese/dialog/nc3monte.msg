@@ -148,7 +148,7 @@
  você, pensaria mais sobre isso.}
 {404}{}{Eh... hmnnn... depende do que você quer saber.}
 {405}{}{Você sabe quem espanou o filho do Wright? O fez O.D. no Jet?}
-{406}{}{Sabe onde posso encontrar um cara chamado Pretty Boy Lloyd?}
+{406}{}{Sabe onde posso encontrar um cara chamado Lloyd Bonitão?}
 {407}{}{Sabe onde tá meu carro, Monte?}
 {408}{}{Tem alguma coisa que você acha que eu deveria saber?}
 {409}{}{Nada não, Monte. Estamos quites. Até mais.}
@@ -186,7 +186,7 @@
 {462}{}{Obrigado, Monte. Sempre será prazer.}
 {465}{}{(Carranca) O que eu digo depende do que você quer saber. E não será barato.}
 {466}{}{Você sabe quem espanou o filho do Wright? O fez O.D. no Jet?}
-{467}{}{Sabe onde posso encontrar um cara chamado Pretty Boy Lloyd?}
+{467}{}{Sabe onde posso encontrar um cara chamado Lloyd Bonitão?}
 {468}{}{Sabe onde tá meu carro, Monte?}
 {469}{}{Tem alguma coisa que você acha que eu deveria saber?}
 {470}{}{Deixa pra lá, Monte. Estou fora daqui.}

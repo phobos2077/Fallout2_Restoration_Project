@@ -33,7 +33,7 @@
 {250}{}{Ah, 'cê tá falando do velho McGee? Ele é inofensivo. Gasta quase uma fortuna naquela
  máquina velha e não ganhou nada há anos. De qualquer forma... posso te trazer alguma coisa,
  chapa?}
-{260}{}{Aquele é o Jesus's little boy, Lil' Jesus. Ele e aquela faca são como amigos
+{260}{}{Aquele é o garotinho do Jesus, Lil' Jesus. Ele e aquela faca são como amigos
  íntimos... eu já vi ele fazer coisas terríveis com ela. De qualquer forma, posso te
  trazer algo, chapa?}
 {270}{}{Prazer em fazer negócios com você.}
