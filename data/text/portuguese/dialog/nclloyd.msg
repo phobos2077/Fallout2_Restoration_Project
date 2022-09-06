@@ -66,51 +66,51 @@
 {336}{}{Não brinque comigo, Lloyd. EU SEI que você
  tem mais; você é um cara esperto. Última chance: onde está o resto?}
 {337}{}{Veremos isso, Lloyd. Vou ver o que encontro quando vasculhar seu cadáver.}
-{345}{}{I... I said... ehh... all right now... I know where you can find more cash... it ain't mine, see, and it's
- more trouble than it's worth, but you want it, it's yours.}
-{346}{}{Could be I know where it is you can find some cash... it ain't mine, see, and it's more trouble
- than it's worth, but you want it, it's yours.}
-{347}{}{Keep talking and keep it interesting.}
-{348}{}{Actually, I was just kidding about giving you a chance, Lloyd. I'm just going to kill
- you and let the spirits sort it out.}
-{349}{}{I'm not interested in your double-talk brahmin shit. I'm outta here.}
-{355}{}{All right then... it's on the Golgotha plain south of Reno, buried in one of the
- graves. Only I know where it is, though.}
+{345}{}{Eu... eu digo... ehh... tudo bem então... eu sei onde você pode encontrar mais dinheiro... não é meu, olha,
+ e é mais problema do que vale a pena, mas se você quer, é seu.}
+{346}{}{Pode ser que eu saiba onde você pode encontrar algum dinheiro... não é meu, olha, e é mais problema do
+ que vale, mas você quiser, é seu.}
+{347}{}{Continue falando porque está interessante.}
+{348}{}{Na verdade, eu estava zuando sobre te dar uma chance, Lloyd. Eu só vou te matar
+ e deixar os espíritos resolverem isso.}
+{349}{}{Eu não estou interessado em sua conversa torta sobre merda de brahmin. Vou vazar daqui.}
+{355}{}{Tudo bem então... está na planície do Gólgota ao sul de Reno, enterrado em
+ uma das sepulturas. Mas só eu sei onde fica.}
 {357}{}{Conte-me.}
-{358}{}{That's the biggest load of... oh hell, I'm just going to kill you, Lloyd and let the spirits
- sort it out.}
-{359}{}{Oh, forget this horseshit. I'm outta here.}
-{365}{}{Face the sign at the Golgotha crossroads, walk northwest until you hit the third grave, then
- head northeast until you hit the first stake. It's a grave near there, marked "Arch Stanton."
- Dig down about six feet, and you'll find it.}
-{366}{}{Face sign, go northwest three graves, go northeast until the first stake, then look for
- "Arch Stanton"...all right, let's go, Lloyd. I need someone to dig, after all.}
-{367}{}{All right then. I'm outta here. Make yourself scarce. (Let Lloyd leave.)}
-{368}{}{That's all I needed to know... they'll be burying you at that grave in the morning.}
-{375}{}{(Lloyd looks like he's about to say something, thinks better of it, then nods.) All right
- then. Seems I got no choice. Let's go.}
-{376}{}{I have some stuff to take care of first. You wait here, I'll be back in a hour. (Leave, hide
- outside room, then see if Lloyd leaves and follow him.)}
-{377}{}{I have some stuff to take care of first. You wait here, I'll be back.}
-{378}{}{I'm right behind you.}
-{385}{}{Hmmmmm. I don't know you, friend... but I'm thinking I'd like to. Name's Lloyd. Some call me Pretty Boy
- Lloyd, but that's them, not me.}
-{386}{}{Hmmmmm. I don't know you, sweetheart... but I'm thinking I'd like to. Name's Lloyd. Some call me Pretty Boy
- Lloyd, but that's them, not me.}
-{387}{}{Hmmmmm. 'm not fool enough to turn down help from a beautiful woman. Name's Lloyd. Some call me Pretty Boy
- Lloyd, but that's them, not me.}
+{358}{}{Esse é o maior monte de... oh caralho, eu vou apenas matar você, Lloyd, e deixar os espíritos resolverem
+ isso.}
+{359}{}{Ah, esqueça essa merda. Vou vazar daqui.}
+{365}{}{De frente a placa na encruzilhada do Gólgota, caminhe para noroeste até chegar na terceira sepultura,
+ depois siga para nordeste até chegar na primeira estaca. É um túmulo ali perto, marcado como "Arco Stanton".
+ Cave cerca de 1,80m, e você encontrará.}
+{366}{}{De frente ao sinal, vá para o noroeste três sepulturas, vá para o nordeste até a primeira
+ estaca, então procure por "Arch Stanton"... tudo bem, vamos, Lloyd. Eu preciso de alguém para cavar, afinal.}
+{367}{}{Tudo bem então, vou sair daqui. Vai logo. (Deixa Lloyd sair.)}
+{368}{}{Isso é tudo que eu precisava saber... eles vão enterrar você naquela sepultura pela manhã.}
+{375}{}{(Lloyd parece que está prestes a dizer alguma coisa, pensa melhor e acena com a cabeça.) Tudo
+ bem então, parece que não tenho escolha. Vamos lá.}
+{376}{}{Eu tenho algumas coisas para cuidar primeiro. Espere aqui, estarei de volta em uma hora. (Sai,
+ se esconde do lado de fora da sala, depois veja se Lloyd sai e o siga.)}
+{377}{}{Eu tenho algumas coisas para cuidar primeiro. Espere aqui, já volto.}
+{378}{}{Estou bem atrás de você.}
+{385}{}{Hmmmmm. Não te conheço, amigo... mas acho que gostaria. O nome é Lloyd. Alguns me chamam de Lloyd Bonitão,
+ mas é coisa deles, não minha.}
+{386}{}{Hmmmmm. Não te conheço, querida... mas acho que gostaria. O nome é Lloyd. Alguns me chamam de Lloyd Bonitão, mas
+ é coisa deles, não minha.}
+{387}{}{Hmmmmm. Não sou besta o suficiente para recusar a ajuda de uma mulher bonita. O nome é Lloyd. Alguns me chamam de
+ Lloyd Bonitão, mas é coisa deles, não minha.}
 {388}{}{Prazer em conhecê-lo. Então... sobre a minha oferta...?}
-{395}{}{The Salvatore family and I had a... disagreement over my success at one of their gambling tables.
- I think the matter can only be settled by removing myself as far from New Reno as possible.}
-{396}{}{Success at their gambling tables, eh? How much you win, Lloyd?}
+{395}{}{A família Salvatore e eu tivemos um... desacordo sobre meu sucesso em uma de suas mesas de jogo. Acho que
+ a questão só pode ser resolvida me afastando o mais longe possível de New Reno.}
+{396}{}{Sucesso em suas mesas de jogo, eh? Quanto você ganha, Lloyd?}
 {397}{}{Como posso ajudar?}
 {398}{}{O quê tem pra mim?}
-{399}{}{I don't think I can help you, Lloyd. I think we better just forget we met. Goodbye.}
-{405}{}{Hmmmm... you look well-equipped to serve as a bodyguard. Help me get out of town. Escort me
- to the Gologtha plain to the south, and I can pay you some chips for your trouble.}
-{407}{}{Done. Let's go. (Follow him.)}
-{415}{}{(Pales, then regains composure.) Enough to get them mad. Most was spent in bribes keeping the Salvatore
- thugs off of my back long enough to slip down here and hide. I've been afraid to show myself in town...}
+{399}{}{Acho que não posso ajudá-lo, Lloyd. Acho melhor esquecermos que nos conhecemos. Adeus.}
+{405}{}{Hmmmm... você parece bem equipado para servir como guarda-costas. Me ajude a sair da cidade. Me escolte
+ até a planície de Golgota ao sul, e eu posso te pagar algumas tampas pelo seu trabalho.}
+{407}{}{Feito. Vamos lá. (Siga-o.)}
+{415}{}{(Empalidece, depois recupera a compostura.) O suficiente para deixá-los loucos. A maior parte foi gasta em subornos para
+ manter os bandidos de Salvatore longe das minhas costas por tempo suficiente para me esquivar até aqui para me esconder. Tenho medo de me mostrar na cidade...}
 {416}{}{(Looks surprised, then regains composure.) Enough to get them mad. Most was spent in bribes keeping the Salvatore thugs off of
  my back long enough to slip down here and hide. I've been afraid to show myself in town...}
 {417}{}{I'll help you, but I'll want half that money you won, Lloyd. Don't cheat me on this if you
