@@ -134,51 +134,51 @@
  enterrado em uma das sepulturas. Mas eu só sei onde fica.}
 {446}{}{Me mostre.}
 {448}{}{Essa é a maior carga de... ah foda-se, eu só vou te matar e encontrar o dinheiro sozinho.}
-{455}{}{Hmmmmmm. I don't think either one of us believes that... (Swallows.) But maybe I can trust you.
- The money's buried on the Golgotha plains south of Reno, in one of the graves. Only I know where
- it is, though.}
-{459}{}{Oh, forget this horseshit. I'm leaving. Keep your cash and your secret and get out of my sight.}
-{465}{}{Hmmmm. An 'arrangement' you say... all right, all right... what is it you want?}
-{466}{}{I'll get you out of town for half of that money you won from Mr. Salvatore, Lloyd.}
-{467}{}{I'll get you out of town in exchange for all the money you won from Mr. Salvatore, Lloyd.}
-{468}{}{Aw, nevermind. I don't want anything - get outta here before I change my mind.
- (Pretend to leave, hide, then follow him.)}
-{469}{}{Aw, nevemind. I don't want anything - get outta here before I change my mind.}
-{475}{}{Well, now... hmmmm... seems I got no choice. I'm going to have to take you to where the money is,
- though, cause you won't find it otherwise. Let's go.}
-{476}{}{I have some stuff to take care of first. You wait here, I'll be back in a hour. (Pretend to
- leave, hide, then follow him.)}
-{477}{}{No, you wait here until I come back. I got to take care of some stuff, then I'll be back
- for you and we'll go on our field trip.}
-{478}{}{I'm right behind you. (Follow him.)}
-{555}{}{(Jumps.) Uh... ready to go?}
-{556}{}{Yes. Let's go. (Follow him.)}
-{557}{}{No, you wait here until I come back. I got to take care of some stuff first.}
-{565}{}{And as for your offer, I COULD use some help. See, I need to get out of town, but things
- have been complicated because of a certain... misunderstanding...}
-{566}{}{What misunderstanding?}
+{455}{}{Hmmmmmm. Acho que nenhum de nós acredita nisso... (Engole saliva.) Mas talvez eu possa confiar em você. O
+ dinheiro está enterrado nas planícies de Gólgota ao sul de Reno, em uma das sepulturas. Mas só eu sei
+ onde fica.}
+{459}{}{Ah, esqueça essa merda, vou vazar daqui. Fique com seu dinheiro e seu segredo e saia da minha vista.}
+{465}{}{Hmmmm. Um 'acordo' você diz... tudo bem, tudo bem... o que você quer?}
+{466}{}{Te tiro da cidade pela metade do dinheiro que você ganhou do Sr. Salvatore, Lloyd.}
+{467}{}{Te tiro da cidade em troca de todo o dinheiro que você ganhou do Sr. Salvatore, Lloyd.}
+{468}{}{Ah, não importa. Eu não quero nada - saia daqui antes que eu mude de ideia. (Finge sair,
+ se esconde e o siga.)}
+{469}{}{Ah, não importa. Eu não quero nada - saia daqui antes que eu mude de ideia.}
+{475}{}{Então, agora... hmmmm... parece que não tenho escolha. Vou ter que te levar para onde está o dinheiro, você
+ não vai encontrá-lo de outra forma. Vamos lá.}
+{476}{}{Eu tenho algumas coisas para cuidar primeiro. Espere aqui, estarei de volta em uma hora. (Finge sair,
+ se esconde e o segue.)}
+{477}{}{Não, espere aqui até eu voltar. Eu tenho que cuidar de algumas coisas, quando eu voltar, nós
+ vamos para uma viagem de campo.}
+{478}{}{Estou bem atrás de você. (Siga-o.)}
+{555}{}{(Ela se assusta). Ei... pronto para ir?}
+{556}{}{Sim. Vamos lá. (Siga-o.)}
+{557}{}{Não, espere aqui até eu voltar. Eu tenho que cuidar de algumas coisas primeiro.}
+{565}{}{E quanto à sua oferta, eu PODERIA precisar de alguma ajuda. Então, eu preciso sair da cidade,
+ mas as coisas estão complicadas por causa de um certo... mal-entendido...}
+{566}{}{Que mal-entendido?}
 {585}{}{Hora de dar o fora de Reno...}
 {586}{}{Merda de caixa...}
 {587}{}{Bem mais difícil do que eu me lembro...}
 {595}{}{Aqui estamos...}
-{596}{}{It's this one right here.}
-{605}{}{Here we are...*whew*...the money's in... this grave here.}
-{606}{}{Dig it up, Lloyd.}
-{607}{}{Let me take a look at this grave first...}
-{609}{}{Well, stand back and let me dig it out...}
-{610}{}{Get outta here, Lloyd. This money's mine now.}
-{615}{}{(Looks winded.) As... part of your... guard duties, I'd... be grateful if you'd... dig it up.}
+{596}{}{É esse aqui.}
+{605}{}{Chegamos... *ufa*... o dinheiro está... nesta sepultura aqui.}
+{606}{}{Desenterre, Lloyd.}
+{607}{}{Deixe eu dar uma olhada neste túmulo primeiro...}
+{609}{}{Bem, se afaste e me deixe desenterrar...}
+{610}{}{Sai daqui, Lloyd. Este dinheiro é meu agora.}
+{615}{}{(Parece sem fôlego.) Como... parte de suas... obrigações como guarda, eu... ficaria grato se você... desenterrasse.}
 {616}{}{Uh...}
-{617}{}{There's two types of people in this world, Lloyd. Those with loaded guns and those that dig.}
+{617}{}{Há dois tipos de pessoas neste mundo, Lloyd. Aqueles com armas e aqueles que cavam.}
 {620}{}{Tudo bem então, eu farei isso...}
-{625}{}{(Lloyd mumbles under his breath, then proceeds to dig.)}
-{626}{}{(Lloyd mumbles under his breath, then proceeds to dig... carefully. Less than a minute
- later, he pulls out a landmine from beneath the dirt and sets it aside. He shrugs sheepishly.)}
-{627}{}{Thaaat's it. You're doing great. Keep it up. Dig a little faster.}
-{628}{}{Nice one, Lloyd. KEEP digging. Let's see what else is under there.}
-{635}{}{(A half-hour later, Lloyd has dug away enough dirt to reveal a small
- manhole cover set into the ground... you're certain you wouldn't have found it if Lloyd hadn't told you about it.
- Lloyd takes a deep breath and wipes his forehead.) Old... fallout... shelter.}
+{625}{}{(Lloyd murmura baixinho, então começa a cavar.)}
+{626}{}{(Lloyd murmura baixinho, então começa a cavar... com cuidado. Menos de um minuto depois, ele tira
+ uma mina terrestre de debaixo da terra e a coloca de lado. Ele dá de ombros timidamente.)}
+{627}{}{Iiiisso aí. Você está indo bem, mantenha. Cave um pouco mais rápido.}
+{628}{}{Que legal, Lloyd, continue cavando. Vamos ver o que mais tem lá embaixo.}
+{635}{}{(Meia hora depois, Lloyd escavou terra suficiente para revelar uma
+ pequena tampa de bueiro fincada no chão... você tem certeza de que não a teria encontrado se Lloyd não tivesse
+ lhe contado. respira fundo e enxuga a testa.) Velho... abrigo... abrigo.}
 {636}{}{(A half-hour later, you have dug away enough dirt to reveal a small manhole cover set into
  the ground. You wouldn't have found it if Lloyd didn't tell you where to dig. As you uncover it, Lloyd speaks.)
  It's an old fallout shelter. Found it a week ago while checking out the area.}
