@@ -1,4 +1,4 @@
-{100}{}{You see Mason.}
+{100}{}{Você vê Mason.}
 {150}{}{You see a powerfully built middle-aged man with a receding hairline.}
 {151}{}{You see Mason. He is watching you carefully.}
 {200}{}{What're you doing up here?}

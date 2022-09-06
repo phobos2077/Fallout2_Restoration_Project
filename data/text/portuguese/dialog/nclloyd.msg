@@ -179,47 +179,46 @@
 {635}{}{(Meia hora depois, Lloyd escavou terra suficiente para revelar uma
  pequena tampa de bueiro fincada no chão... você tem certeza de que não a teria encontrado se Lloyd não tivesse
  lhe contado. respira fundo e enxuga a testa.) Velho... abrigo... abrigo.}
-{636}{}{(A half-hour later, you have dug away enough dirt to reveal a small manhole cover set into
- the ground. You wouldn't have found it if Lloyd didn't tell you where to dig. As you uncover it, Lloyd speaks.)
- It's an old fallout shelter. Found it a week ago while checking out the area.}
-{637}{}{Well, let me open this up, and we'll get down to business.}
-{638}{}{Open the manhole, Lloyd.}
-{645}{}{(The dirt around the grave looks like it has been disturbed recently. For some reason, the
- distance Lloyd is standing for the grave makes you wonder if it hasn't been trapped.)}
-{646}{}{I think you should dig, Lloyd.}
-{647}{}{Hmmmm. Let me take a closer look at the grave...}
-{648}{}{Stand back, Lloyd. I'm going to start digging.}
-{655}{}{(The dirt around the grave looks like it has been disturbed recently. This would make
- sense if Lloyd buried the chips here.)}
-{665}{}{(You make an examination of the site, and brush away the dirt. As you do, you notice a
- landmine buried in the dirt. You disarm it carefully and stow it in your pack.)}
-{666}{}{Forget about this, Lloyd? Let's see if you can forget THIS, dead man.}
-{667}{}{I think YOU should dig, Lloyd. Get to it.}
-{668}{}{I'll let this pass, Lloyd... this time. Now stand back while I keep digging.}
-{675}{}{(The manhole cover opens with a rusty shriek, revealing a dark hole leading downwards.)}
-{676}{}{Get in there, Lloyd.}
-{677}{}{Stand back, Lloyd. I'm going in.}
-{685}{}{(Lloyd frowns, thinks about making a comment, then shrugs and climbs down into the manhole
- cover.)}
-{686}{}{Hurry up, Lloyd.}
-{687}{}{HEY LLOYD, CATCH! (Drop the landmine down the hole.)}
-{688}{}{I'm coming down after you, Lloyd.}
-{695}{}{(You hear Lloyd grunting down below.) Hold on... almost got it... (There is the scraping of metal,
- then silence.)}
-{696}{}{Get a move on, Lloyd. We haven't got all day.}
-{698}{}{I'm coming down, Lloyd.}
-{706}{}{All in a day's work...}
-{715}{}{Right, right... all yours. No problem. I'm leaving. (Turns, then walks away.}
-{716}{}{(Let him go.)}
-{717}{}{(Shoot him in the back.)}
-{1000}{}{After a long hike, you reach the Golgotha foothills. Once there, Lloyd leads you to one
- of the graves.}
-{1001}{}{You follow Lloyd to Golgotha. Once there, he digs up one of the graves.}
-{1002}{}{You lose Lloyd once you get outside of New Reno.}
-{1050}{}{You let Lloyd leave.}
-{1051}{}{*grumble* Coulda been my money.}
+{636}{}{(Meia hora depois, você cavou terra suficiente para revelar uma pequena tampa de bueiro
+ no chão. Você não a teria encontrado se Lloyd não lhe dissesse onde cavar. Enquanto você a descobre, Lloyd
+ fala. ) É um antigo abrigo atômico. O encontrei há uma semana enquanto verificava a área.}
+{637}{}{Bom, vamos abrir isso, vamos ao que interessa.}
+{638}{}{Abra o tampa, Lloyd.}
+{645}{}{(A sujeira ao redor do túmulo parece ter sido revolvida recentemente. Por alguma razão, a distância que Lloyd
+ está do túmulo faz você se perguntar se não tem alguma cilada aí.)}
+{646}{}{Acho que você deveria cavar, Lloyd.}
+{647}{}{Hmmmm. Deixe eu dar uma olhada mais de perto na sepultura...}
+{648}{}{Afaste-se, Lloyd. Vou começar a cavar.}
+{655}{}{(A sujeira ao redor do túmulo parece ter sido removida recentemente. Isso faria sentido se Lloyd
+ enterrasse as tampas aqui.)}
+{665}{}{(Você faz um exame do local e limpa a sujeira. Ao fazer isso, você percebe uma mina terrestre
+ enterrada na sujeira. Você a desarma com cuidado e a guarda em sua mochila.)}
+{666}{}{Esqueceu disso, Lloyd? Vamos ver se você consegue esquecer ISSO, homem morto.}
+{667}{}{Acho que VOCÊ deveria cavar, Lloyd. Vá até lá.}
+{668}{}{Vou deixar isso passar, Lloyd... desta vez. Agora fique para trás enquanto eu continuo cavando.}
+{675}{}{(A tampa do bueiro se abre com um guincho enferrujado, revelando um buraco escuro logo abaixo.)}
+{676}{}{Entra aí, Lloyd.}
+{677}{}{Afaste-se, Lloyd. vou entrar.}
+{685}{}{(Lloyd franze a testa, pensa em fazer um comentário, depois dá de ombros e desce até a tampa do bueiro.)}
+{686}{}{Vai logo, Lloyd.}
+{687}{}{EI, LLOYD, SEGURA! (Joga a mina terrestre no buraco.)}
+{688}{}{Vou atrás de você, Lloyd.}
+{695}{}{(Você ouve Lloyd resmungando lá embaixo.) Espere... quase entendi... (Ouve-se o raspar do metal,
+ depois o silêncio.)}
+{696}{}{Vá em frente, Lloyd. Não temos o dia todo.}
+{698}{}{Estou descendo, Lloyd.}
+{706}{}{Tudo em um dia de trabalho...}
+{715}{}{Certo, certo... todo seu. Sem problemas. Vou indo embora. (Se vira e depois vai embora.}
+{716}{}{(Deixa ele ir.)}
+{717}{}{(Atira nele pelas costas.)}
+{1000}{}{Depois de uma longa caminhada, você chega ao sopé da Gólgota. Chegando lá, Lloyd te
+ leva a uma das sepulturas.}
+{1001}{}{Você segue Lloyd até a Gólgota. Chegando lá, ele desenterra uma das sepulturas.}
+{1002}{}{Você perde Lloyd quando sai de New Reno.}
+{1050}{}{Você deixa Lloyd sair.}
+{1051}{}{*resmunga* Poderia ter sido meu dinheiro.}
 {1052}{}{Uh... Obrigado por me deixar viver.}
-{1053}{}{When you reemerge from the grave Llyod is nowhere to be seen.}
-{1054}{}{Forget you. This is my money and you aint getting any of it!}
-{5213}{}{ Me }
-{7213}{}{Who U}
+{1053}{}{Quando você sai da sepultura, Llyod não está mais aí.}
+{1054}{}{Esqueça. Este é o meu dinheiro e você não vai receber nada!}
+{5213}{}{ Eu }
+{7213}{}{Quem tu}
