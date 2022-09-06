@@ -111,31 +111,29 @@
 {407}{}{Feito. Vamos lá. (Siga-o.)}
 {415}{}{(Empalidece, depois recupera a compostura.) O suficiente para deixá-los loucos. A maior parte foi gasta em subornos para
  manter os bandidos de Salvatore longe das minhas costas por tempo suficiente para me esquivar até aqui para me esconder. Tenho medo de me mostrar na cidade...}
-{416}{}{(Looks surprised, then regains composure.) Enough to get them mad. Most was spent in bribes keeping the Salvatore thugs off of
- my back long enough to slip down here and hide. I've been afraid to show myself in town...}
-{417}{}{I'll help you, but I'll want half that money you won, Lloyd. Don't cheat me on this if you
- know what's good for you.}
-{418}{}{Give me half of what you won at the tables, and I'll help you, Lloyd. It's a fair exchange
- to see that you get out of town in one piece.}
-{419}{}{All right, I'll help you. Let's get outta here. (Follow him.)}
-{420}{}{I don't think I can help you, Lloyd. Goodbye.}
-{425}{}{(Looks like he's about to say something, thinks better of it, then nods.) Seems I got no
- choice. Let's go.}
-{427}{}{No, you wait here and keep quiet until I come back. I got to take care of some stuff, then
- I'll be back and we'll go on our field trip.}
-{435}{}{(Stiffens.) Maybe. Who are you? I don't believe I've had the pleasure...}
-{436}{}{(Stiffens, then raises an eyebrow.) Maybe. I'm certain I would have remembered you, miss.
- I don't believe I've had the pleasure...?}
-{437}{}{Dispense with the bullshit, Lloyd. I'm here for the money you stole from Mr. Salvatore.}
-{438}{}{Look, Lloyd, hand over the cash and I MIGHT forget I ever saw you until you're far away
- from here.}
-{439}{}{Lloyd, Mr. Salvatore sent me here to get his money back and have me make an... example of you.
- It doesn't need to be that way... IF the two of us can come to an arrangement.}
-{445}{}{All right... all right now... (Swallows.) It's on the Golgotha plains south of Reno, buried in
- one of the graves. Only I know where it is, though.}
-{446}{}{Show me.}
-{448}{}{That's the biggest load of... oh hell, I'm just going to kill you and find the cash
- on my own.}
+{416}{}{(Parece surpreso, depois recupera a compostura.) O suficiente para deixá-los furiosos. A maior parte foi gasta em subornos para manter os
+ bandidos dos Salvatore longe das minhas costas por tempo suficiente para me esquivar até aqui e me esconder. Tenho medo de me mostrar na cidade...}
+{417}{}{Eu te ajudo, mas quero metade do dinheiro que ganhou, Lloyd. Não tente me enganar se você sabe
+ o que é bom para você.}
+{418}{}{Me de metade do que ganhou nas mesas e eu te ajudo, Lloyd. É uma troca justa pelo fato de que você
+ vai sair da cidade inteiro.}
+{419}{}{Tudo bem, eu te ajudo. Vamos sair daqui. (O segue.)}
+{420}{}{Acho que não posso te ajudar, Lloyd. Adeus.}
+{425}{}{(Parece que ele está prestes a dizer alguma coisa, pensa melhor, então acena com a cabeça.)
+ Parece que não tenho escolha. Vamos lá.}
+{427}{}{Não, espere aqui e fique quieto até eu voltar. Eu tenho que cuidar de algumas coisas, daqui a
+ pouco volto para irmos em nossa viagem pelos campos.}
+{435}{}{(Fica tenso.) Talvez. Quem é Você? Acho que não tive o prazer...}
+{436}{}{(Fica tenso, depois levanta uma sobrancelha.) Talvez. Tenho certeza de que me lembraria de você, senhorita.
+ Acho que não tive o prazer...?}
+{437}{}{Acabe com essas besteiras, Lloyd. Estou aqui pelo dinheiro que você roubou do Sr. Salvatore.}
+{438}{}{Olha, Lloyd, entrega esse dinheiro e eu ESQUEÇO que te vi até que você esteja longe daqui.}
+{439}{}{Lloyd, o Sr. Salvatore me mandou aqui para pegar seu dinheiro de volta e te fazer um... bom exemplo. Não precisa
+ ser assim... ISSO se nós dois pudermos chegar a um acordo.}
+{445}{}{Tudo bem... tudo bem agora... (Engole saliva.) Fica nas planícies de Gólgota ao sul de Reno,
+ enterrado em uma das sepulturas. Mas eu só sei onde fica.}
+{446}{}{Me mostre.}
+{448}{}{Essa é a maior carga de... ah foda-se, eu só vou te matar e encontrar o dinheiro sozinho.}
 {455}{}{Hmmmmmm. I don't think either one of us believes that... (Swallows.) But maybe I can trust you.
  The money's buried on the Golgotha plains south of Reno, in one of the graves. Only I know where
  it is, though.}
