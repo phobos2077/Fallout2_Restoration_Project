@@ -17,7 +17,7 @@
 {116}{}{Well... I'm not supposed to allow anyone other than trained personnel to use the equipment. It's all rather complex and delicate you understand.}
 {117}{}{Please? Me no break.}
 {118}{}{I promise not to break it}
-{119}{}{All right. You can access the system from the terminal over there. Just be careful please. They'll shoot us both if you damage that machine. Oh, the guest password is 'Snookie.'}
+{119}{}{Okej. Du har tillgång till systemet via terminalen där borta. Var bara försiktig, snälla. De skjuter oss båda om du skadar maskinen. Åh, gästlösenordet är 'Snookie.'}
 {120}{}{I'm sorry but it's out of the question. I'm not even supposed to allow enlisted personnel in the room let alone allow them to use the equipment.}
 {121}{}{Snookie? What is snookie?}
 {122}{}{Ok. Me understand.}
@@ -34,7 +34,7 @@
 {133}{}{Multiple intruders! Sound the alarm!}
 {134}{}{Shit! Get the backups started.}
 {135}{}{Shut down all classified operations.}
-{136}{}{Secure the system and enable all security passwords.}
+{136}{}{Säkra systemet och aktivera alla säkerhetslösenord.}
 {137}{}{I'm a scientist, not a fighter!}
 {138}{}{Pointy end with the laser diode goes toward the enemy. Then pull trigger.}
 {139}{}{Help! Help! To the computer lab!}

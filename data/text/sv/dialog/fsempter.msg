@@ -1,7 +1,7 @@
 {100}{}{You see a computer terminal.}
 {101}{}{You see the Emperor Computer terminal.}
 {102}{}{You see a computer with a built-in touch screen for its interface. Engraved on the side is "Emperor v8.8 Computer Terminal".}
-{103}{}{Greetings. Please enter your password to confirm your identity.}
+{103}{}{Hälsningar. Vänligen ange ditt lösenord för att bekräfta din identitet.}
 {104}{}{::drool::}
 {105}{}{CSPDMSHR-Shih-huang-ti-X9372}
 {106}{}{KSLJKJ:Ken-Lee-97313}

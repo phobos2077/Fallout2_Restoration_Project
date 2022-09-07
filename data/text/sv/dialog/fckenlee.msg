@@ -81,7 +81,7 @@
 {180}{}{It certainly is. And I deal with these people on a daily basis. Alas!}
 {181}{}{Well, I have more questions.}
 {182}{}{Yeah, poor you. Bye.}
-{183}{}{You are certainly a worthy recipient of our fuel. I believe I can trust you with our secrets. In the back room, you will find that the force field to the large computer has been turned off. Enter the password "CSPDMSHR-Shih-huang-ti-X9372" and you will find yourself connected to the Emperor Computer. The Emperor will be able to direct our fuel to where you need it.}
+{183}{}{Du är verkligen en värdig mottagare av vårt bränsle. Jag tror att jag kan lita på dig när det gäller våra hemligheter. I det bakre rummet kommer du att se att kraftfältet till den stora datorn har stängts av. Skriv in lösenordet "CSPDMSHR-Shih-huang-ti-X9372" och du kommer att finna dig själv ansluten till Kejsardatorn. Kejsaren kommer att kunna styra vårt bränsle dit du behöver det.}
 {184}{}{Thanks.}
 {185}{}{Guards! The enemy is among us! Guards!}
 {186}{}{Have they really? Perhaps you would like to turn the tables on them? I can promise you our aid if you will agree to kill AHS-9. }
@@ -95,7 +95,7 @@
 {194}{}{With the death of AHS-9, the Great and Terrible, the Hubologists pose no real threat to us and our researches. Well done. You have our gratitude. Would you like to speak to the Emperor?}
 {195}{}{Yes.}
 {196}{}{Not right now. I have other questions, though.}
-{197}{}{You have proven yourself to be a friend to the Shi. I believe I can trust you with our secrets. In the back room, you will find the forcefield to the large computer has been turned off. Enter the password "CSPDMSHR-Shih-huang-ti-X9372" and you will find yourself connected to the Emperor Computer. I hope this will prove useful to you.}
+{197}{}{Du har visat att du är en vän till Shi. Jag tror att jag kan lita på dig när det gäller våra hemligheter. I det bakre rummet kommer du att finna att kraftfältet till den stora datorn har stängts av. Skriv in lösenordet "CSPDMSHR-Shih-huang-ti-X9372" och du kommer att finna dig själv ansluten till kejsardatorn. Jag hoppas att detta kommer att vara till nytta för dig.}
 {198}{}{The Emperor is a COMPUTER?}
 {199}{}{Got it. Thanks.}
 {200}{}{Yes. It stores our history, our research, and projects possibilities for the future. It is far better than any fallible human- yet we temper its suggestions with our own knowledge of human nature.}
@@ -127,5 +127,5 @@
 {501}{}{Leave now. This is your second warning.}
 {502}{}{This is your last warning.}
 {503}{}{Guards!}
-{1430}{}{The Emperor remains hidden from prying eyes. It is my job to act as the Emperor's screen. However, you have proven yourself to be a friend to the Shi. I believe I can trust you with our secrets. In the back room, you will find the forcefield to the large computer has been turned off. Enter the password "CSPDMSHR-Shih-huang-ti-X9372" and you will find yourself connected to the Emperor Computer. I hope this will prove useful to you.}
+{1430}{}{Kejsaren förblir dold för nyfikna ögon. Det är mitt jobb att agera som kejsarens skärm. Du har dock visat dig vara en vän till Shi. Jag tror att jag kan lita på dig när det gäller våra hemligheter. I det bakre rummet kommer du att finna att kraftfältet till den stora datorn har stängts av. Ange lösenordet "CSPDMSHR-Shih-huang-ti-X9372" och du kommer att finna dig själv ansluten till kejsardatorn. Jag hoppas att detta kommer att vara till nytta för dig.}
 {2001}{}{I ... see. Well, thanks for your time. I have a village to rescue.}

@@ -1,7 +1,7 @@
 {100}{}{You see a computer terminal.}
 {101}{}{You see the chemistry workstation.}
 {102}{}{You see a computer workstation.}
-{103}{}{Greetings. Please enter your password to confirm your identity.}
+{103}{}{Hälsningar. Vänligen ange ditt lösenord för att bekräfta din identitet.}
 {104}{}{? Me no understand big words.}
 {105}{}{TIUASPO-Lo-Shi-S12908}
 {106}{}{Hack into computer.}
@@ -34,6 +34,6 @@
 {133}{}{[MORE]}
 {134}{}{The computer does not respond to any input.}
 {135}{}{You can't seem to find anywhere to put that.}
-{136}{}{Guess the password.}
+{136}{}{Gissa lösenordet.}
 {137}{}{Direct fuel along pipeline.}
 {138}{}{Destination required.}

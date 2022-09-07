@@ -75,17 +75,17 @@
 {300}{}{ - ID Confirmed: }
 {301}{}{
             Terminal Last Accessed: }
-{303}{}{Corporal Dixon}
+{303}{}{Korpral Dixon}
 {304}{}{General Clifton}
-{305}{}{August 5, 2077}
-{306}{}{ days ago.}
+{305}{}{5 Augusti 2077}
+{306}{}{ dagar sedan.}
 {307}{}{
-                                             Warning! Intruder Detected Level }
+                                             Varning! Inkräktare Upptäckt Nivå }
 {308}{}{
-                                             Warning! Intruder Detected Levels: }
+                                             Varning! Inkräktare Upptäckt Nivåer: }
 {309}{}{
                                       }
 {310}{}{
                                              }
 {311}{}{
-                       }
+                             }

@@ -1,46 +1,46 @@
 {100}{}{A computer terminal.}
-{101}{}{Pictures of scantily clad women are affixed to various spots on the computer.}
+{101}{}{Bilder av lättklädda kvinnor är fästa på olika ställen på datorn.}
 {102}{}{You are unable to read what's on the monitor.}
 {103}{}{Munitions Access Terminal
                                         Force Field - Disabled
                                               Shock Plates - Disabled}
-{104}{}{Munitions Access Terminal
-                                         Force Field - Disabled
-                                         Shock Plates - Active}
-{105}{}{Munitions Access Terminal
-                                     Force Field - Active
-                                                  Shock Plates - Disabled}
+{104}{}{Terminal för tillgång till ammunition
+                                         Kraftfält - Inaktiverat
+                                         Stötplattor - Aktiverat}
+{105}{}{Terminal för tillgång till ammunition
+                                     Kraftfält - Aktiverat
+                                                  Stötplattor - Inaktiverat}
 {106}{}{Munitions Access Terminal
                                          Force Field - Active
                                                   Shock Plates - Active}
-{107}{}{Disable Shock Plates}
-{108}{}{Disable Force Fields}
-{109}{}{Read Mail}
+{107}{}{Inaktivera Stötplattor}
+{108}{}{Inaktivera Kraftfält}
+{109}{}{Läs E-Post}
 {110}{}{Exit}
-{111}{}{[No matter how you try, the squiggly lines don't make sense to you.]}
-{112}{}{Disable Shock Plates
-                                               Please Enter Password:}
+{111}{}{[Hur du än försöker så är de snirkliga linjerna inte begripliga för dig.]}
+{112}{}{Inaktivera stötplattor
+                                               Ange Lösenord:}
 {113}{}{Hack into security systems}
-{114}{}{Guess Password}
-{115}{}{Return to Main Menu}
+{114}{}{Gissa Lösenord}
+{115}{}{Återvänd till Huvudmeny}
 {116}{}{Exit}
-{117}{}{[This program is just too complex for you to understand.]}
-{118}{}{Return to Main Menu}
+{117}{}{[Det här programmet är helt enkelt för komplicerat för att du ska förstå det.]}
+{118}{}{Återvänd till Huvudmeny}
 {119}{}{Exit}
-{120}{}{[You manage to bypass the password and turn off the Shock Plates.]}
-{121}{}{Return to Main Menu}
+{120}{}{[Du lyckas ta dig förbi lösenordet och stänga av Stötplattorna.]}
+{121}{}{Återvänd till Huvudmeny}
 {122}{}{Exit}
-{123}{}{Disable Force Fields
-                                                  Please Enter Password:}
+{123}{}{Inaktivera kraftfält
+                                                  Vänligen Ange Lösenord:}
 {124}{}{Hack into security systems}
-{125}{}{Guess Password}
-{126}{}{Return to Main Menu}
+{125}{}{Gissa Lösenord}
+{126}{}{Återvänd till Huvudmeny}
 {127}{}{Exit}
 {128}{}{[The files are encrypted and without a decoder you are unable to read anything.]}
-{129}{}{Return to Main Menu}
+{129}{}{Återvänd till Huvudmeny}
 {130}{}{Exit}
 {131}{}{[Mere child's play. The force fields are now deactivated.]}
-{132}{}{Return to Main Menu}
+{132}{}{Återvänd till Huvudmeny}
 {133}{}{Exit}
 {134}{}{[Somebody forgot to close their mailbox.]
                      Order Confirmation
@@ -52,7 +52,7 @@
 {137}{}{Read Notice to Evacuate}
 {138}{}{Read Penpal Greetings}
 {139}{}{Read Trade}
-{140}{}{Return to Main Menu}
+{140}{}{Återvänd till Huvudmeny}
 {141}{}{Exit}
 {142}{}{This is to confirm your video order for Debbie Does the Army and Deep Throat volume 1059. Your order should arrive by mail in 2-4 weeks. Thank you for your order.}
 {143}{}{Read more mail}
@@ -67,17 +67,17 @@
 {152}{}{Exit}
 {153}{}{[What incredible luck! You manage to guess the correct password. "Hooters"]
                                                 Deactivating Shock Plates}
-{154}{}{Return to Main Menu}
+{154}{}{Återvänd till Huvudmeny}
 {155}{}{Exit}
 {156}{}{[No matter how hard you try, you cannot guess the password.]}
-{157}{}{Return to Main Menu}
+{157}{}{Återvänd till Huvudmeny}
 {158}{}{Exit}
 {159}{}{[This person must have an infatuation with breasts. The password was "nipples"]
                                 Deactivating Force Fields}
-{160}{}{Return to Main Menu}
+{160}{}{Återvänd till Huvudmeny}
 {161}{}{Exit}
 {162}{}{[No matter how hard you try, you cannot guess the password.]}
-{163}{}{Return to Main Menu}
+{163}{}{Återvänd till Huvudmeny}
 {164}{}{Exit}
 {165}{}{[Somehow your tampering causes the terminal to explode in your face.]}
 {166}{}{Exit}

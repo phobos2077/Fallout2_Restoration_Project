@@ -102,14 +102,14 @@
 {244}{}{[You can hardly keep from gagging.] I've got to go.}
 {245}{}{OK, $1000.}
 {246}{}{[You and Karl slip out back for a quickie. To your surprise, you find that you enjoyed it.]}
-{247}{}{[He sobers up quickly and begins to tell his tale.] I used to be an upstanding citizen before
- coming here. I was a peaceful farmer that worked the fields as hard as any man -- until they started
- showing up at night. All glowing, with pasty white skins... Spooked the hell out of me, it did. Night
- after night they showed up and stole crops and cattle alike; I could do nothing to stop them. I know
- what you're gonna say - "Why didn't you ask for help?" I tell ya, I did! Nobody would believe me, they
- thought I was crazy. Finally, it just became too much for me. I COULDN'T TAKE IT ANYMORE! I just up
- and left and came here -- and here I've been ever since. [Karl starts to weep uncontrollably. You
- decide to leave him with his misery.]}
+{247}{}{[Han nyktrar snabbt till och börjar berätta sin historia.] Jag brukade vara en hederlig medborgare innan
+ jag kom hit. Jag var en fredlig bonde som arbetade på fälten lika hårt som någon annan man -- tills de började
+ dök upp på natten. Allihop glödande, med degig vit hud... Det skrämde skiten ur mig, det gjorde det. Night
+ efter natt dök de upp och stal både grödor och boskap; jag kunde inte göra något för att stoppa dem. Jag vet
+ vad du kommer att säga - "Varför bad du inte om hjälp?" Jag säger dig, det gjorde jag! Ingen trodde mig, de
+ trodde att jag var galen. Till slut blev det bara för mycket för mig. JAG KLARADE INTE AV DET LÄNGRE! Jag gav upp
+ och gick och kom hit -- och här har jag varit sedan dess. [Karl börjar gråta okontrollerat. Du
+ bestämmer dig för att lämna honom med sitt elände.]}
 {248}{}{Oh jeez. I must have dropped my money along the way. Here's $}
 {249}{}{.}
 {250}{}{Zzz}

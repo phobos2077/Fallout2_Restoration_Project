@@ -13,7 +13,7 @@
 {402}{}{Multiple intruders! Sound the alarm!}
 {500}{}{Shit! Get the backups started.}
 {501}{}{Shut down all classified operations.}
-{502}{}{Secure the system and enable all security passwords.}
+{502}{}{Säkra systemet och aktivera alla säkerhetslösenord.}
 {600}{}{I'm a mechanic, not a fighter!}
 {601}{}{Pointy end with the laser diode goes toward the enemy. Then pull the trigger.}
 {602}{}{Help! Help! To maintenance!}

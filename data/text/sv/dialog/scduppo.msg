@@ -39,7 +39,7 @@
 {138}{}{How about 300?}
 {139}{}{How about 200?}
 {140}{}{How about 100?}
-{141}{}{Well, you didn't hear this here, but the password to the door in the back is GANG PROBLEM LIMB.}
+{141}{}{Du har inte hört det här, men lösenordet till dörren på baksidan är GANG PROBLEM LIMB.}
 {142}{}{Hmm... Doesn't sound like something I would be interested in.}
 {143}{}{Hmmm.. Don't forget about my 10 kids.}
 {144}{}{Hmmm.. Well, the wife will want a new fur.}

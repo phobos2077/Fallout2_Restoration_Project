@@ -3,7 +3,7 @@
 {102}{}{You see a functional computer terminal.}
 {103}{}{Greetings. Please confirm your identity.}
 {104}{}{[Oooh! Look at the flashing lights!]}
-{105}{}{::guess password::}
+{105}{}{::gissa lösenord::}
 {106}{}{KSLJKJ:Ken-Lee-97313}
 {107}{}{::hack into computer::}
 {108}{}{Log Out.}
@@ -11,7 +11,7 @@
 {110}{}{Exploration...}
 {111}{}{Theory...}
 {112}{}{Deactivate Station.}
-{113}{}{Incorrect password. Please speak to the system administrator. Goodbye.}
+{113}{}{Felaktigt lösenord. Var vänligen och tala med systemadministratören. Adjö.}
 {114}{}{::hack into computer::}
 {115}{}{::leave::}
 {116}{}{Intruder alert activated. Shutting down. Have a nice day.}

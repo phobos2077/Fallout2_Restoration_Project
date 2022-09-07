@@ -1,7 +1,7 @@
 {100}{}{You see a computer.}
 {101}{}{You see a computer.}
 {102}{}{You see the central computer for Navarro.}
-{103}{}{Please enter your password.}
+{103}{}{Vänligen ange ditt lösenord.}
 {104}{}{Enter 'Snookie'}
 {105}{}{Forget this doo doo.}
 {106}{}{Screw this.}

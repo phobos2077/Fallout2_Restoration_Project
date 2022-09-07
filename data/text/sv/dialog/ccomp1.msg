@@ -12,7 +12,7 @@
 {111}{}{Multiple intruders! Sound the alarm!}
 {112}{}{Shit! Get the backups started.}
 {113}{}{Shut down all classified operations.}
-{114}{}{Secure the system and enable all security passwords.}
+{114}{}{Säkra systemet och aktivera alla säkerhetslösenord.}
 {115}{}{I'm a scientist, not a fighter!}
 {116}{}{Pointy end with the laser diode goes toward the enemy. Then pull trigger.}
 {117}{}{Help! Help! To the computer lab!}
