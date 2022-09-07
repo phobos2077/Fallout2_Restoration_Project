@@ -7,11 +7,11 @@
  failure.}
 {105}{}{Turn the force field off.}
 {106}{}{Turn the force field on.}
-{107}{}{Done.}
+{107}{}{Färdigt.}
 {108}{}{You give the command to deactivate the force field.}
-{109}{}{Done.}
+{109}{}{Färdigt.}
 {110}{}{You give the command to activate the force field.}
-{111}{}{Done.}
+{111}{}{Färdigt.}
 {112}{}{The terminal indicates that the field is off by manual override.}
 {113}{}{The terminal indicates that the field system has been compromised.}
 {114}{}{The terminal indicates that the field system is off.}

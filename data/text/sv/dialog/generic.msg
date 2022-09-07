@@ -33,7 +33,7 @@
 {900}{}{The old, worn door looks like it could be destroyed
  with a well-placed explosive.}
 {901}{}{You see the slave cart to take the slaves back to the Den.}
-{905}{}{Woof! Woof!}
+{905}{}{Voff! Voff!}
 {910}{}{You are shocked by the electrified floor.}
 {911}{}{ is shocked by the electrified floor.}
 {912}{}{The power level drops to zero and then goes back to 50% as the

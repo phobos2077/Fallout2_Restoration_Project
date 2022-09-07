@@ -2,8 +2,8 @@
 {101}{}{You see Laddie.}
 {102}{}{This dog seems to be really alert and intelligent.}
 {103}{}{You have no doubt that this dog is probably smarter than you are.}
-{150}{}{Woof!}
-{151}{}{Woof! Woof!}
+{150}{}{Voff!}
+{151}{}{Voff! Voff!}
 {152}{}{Woof! Woof! Woof!}
 {153}{}{[This dog seems highly agitated.]}
 {154}{}{Nice doggie.}

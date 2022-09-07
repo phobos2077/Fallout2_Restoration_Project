@@ -156,7 +156,7 @@
  even a little, and you're out. (Puts his hands on hips.) My take is half the winnings, no arguments.}
 {471}{}{Hmmmmm... I'll give you a chance... but I ain't promising anything; I'm doing you a favor
  taking some unknown under my wing. My take is half the winnings... no arguments.}
-{472}{}{Done.}
+{472}{}{Färdigt.}
 {473}{}{Cut your take down to 25%, and we got a deal.}
 {474}{}{Oh, this is brahmin shit. I'm out of here.}
 {480}{}{(Stuart's frown deepens. He looks like he is about to protest, then he shakes his head with a smirk.) All right already!

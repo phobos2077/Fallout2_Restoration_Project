@@ -35,7 +35,7 @@
 {134}{}{I've been there and I have the parts you're looking for.}
 {135}{}{I've handled this already. The squatters want a deal. You help them become self sufficient and they'll give you the vault. Also, here are the parts.}
 {136}{tand5}{Hell and thunder... Your choice - but if you change your mind...}
-{137}{}{Done.}
+{137}{}{Färdigt.}
 {138}{tand6a}{Fair enough. Do it right and there's a reward.}
 {139}{tand6b}{Lord, I know I'm making a mistake but... give it a shot - if you understood anything I said.}
 {140}{}{Ok. Me go.}

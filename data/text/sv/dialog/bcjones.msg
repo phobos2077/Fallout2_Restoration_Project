@@ -78,7 +78,7 @@
 {164}{}{Ah. Well, I've got to go.}
 {165}{}{I'll not help someone like you. Go away.}
 {166}{}{Okay, well, you take care, and come back if you need anything.}
-{167}{}{Done.}
+{167}{}{Färdigt.}
 {168}{}{Now he's paranoid. He believes that Tandi is out to get him. He's obsessed with revenge, and he
  wants Tandi dead. He's riddled with guilt 'cause he hid and lived, rather than dying with his
  gang... and the list goes on and on.}

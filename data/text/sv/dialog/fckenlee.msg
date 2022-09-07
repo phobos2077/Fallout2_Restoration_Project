@@ -60,7 +60,7 @@
 {159}{}{Okay, my name is}
 {160}{}{That's my real name! Now let me talk to the Emperor!}
 {161}{}{Excellent. This is what I require of you: there is a small military base north of here, called Navarro. There are numerous vertibirds there. We need plans and blueprints to manufacture some of our own. Fetch those and you will be on your way to seeing the Emperor.}
-{162}{}{You got it.}
+{162}{}{Ska ske.}
 {163}{}{Forget it.}
 {164}{}{Will you reconsider taking our test?}
 {165}{}{Nope.}

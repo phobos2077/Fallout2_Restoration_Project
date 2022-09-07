@@ -57,67 +57,66 @@
 {335}{}{Um dia, você e eu vamos resolver esse problema seu com autoridade.}
 {336}{}{Eu não tenho um problema. Tudo está ótimo.}
 {337}{}{Me chupa.}
-{345}{}{Awright, that DOES it, smartass! You crossed the line...(Cracks knuckles.)...now yer gonna get hurt.}
-{346}{}{Hurt? William?}
+{345}{}{Certo, FAÇA isso, idiota! Você chegou no limite... (Estala os dedos.)... agora você vai se ferrar.}
+{346}{}{Dor? Que isso?}
 {347}{}{Vamos dançar.}
-{348}{}{No, YOU'RE the one who's gonna get HURT! You HEAR ME, MASON?! YOU'RE THE ONE WHO'S GONNA GET H --}
-{355}{}{'Bout time you showed, boy. }
-{356}{}{'Bout time you showed, girl. }
-{357}{}{'Bout time you showed. Don't know why Mr. Salvatore would hire porn trash, but I ain't gonna question him
- on it. }
-{358}{}{This bum that stole from Mr. Salvatore, his name's Lloyd. Mr. Salvatore wants him dead and that money
- he stole back. When you done the job, report back to ME, understand? Think you can handle that?}
-{359}{}{Where can I find Lloyd?}
-{360}{}{What does Lloyd look like?}
-{361}{}{How much did he steal?}
-{362}{}{Why aren't YOU tracking down Lloyd?}
-{364}{}{Sure. Thanks, Mason.}
-{365}{}{I can handle it. Now stand back and let me get to work.}
-{366}{}{I already took care of the Lloyd "situation."}
-{367}{}{Who was the dealer at the table Lloyd won the money from?}
+{348}{}{Não, você é o único que vai se machucar! Está me OUVINDO, MASON?! VOCÊ É O QUE VAI SE F...}
+{355}{}{Já era hora de você aparecer, garoto. }
+{356}{}{Já era hora de você aparecer, garota. }
+{357}{}{Já era hora de você aparecer. Não sei por que o Sr. Salvatore contrataria lixo pornô, mas não questiono essas coisas.}
+{358}{}{Este vagabundo que roubou do Sr. Salvatore, o nome dele é Lloyd. O Sr. Salvatore o quer morto e o dinheiro que
+ ele roubou de volta. Quando terminar o trabalho, reporte-se a MIM, entendeu? Acha que pode fazer isso?}
+{359}{}{Onde posso encontrar Lloyd?}
+{360}{}{Como é o Lloyd?}
+{361}{}{Quanto ele roubou?}
+{362}{}{Por que VOCÊ não está atrás do Lloyd?}
+{364}{}{Claro. Obrigado, Mason.}
+{365}{}{Eu posso fazer isso. Agora afaste-se e me deixe trabalhar.}
+{366}{}{Já cuidei da "situação" de Lloyd.}
+{367}{}{Quem era o distribuidor de quem Lloyd ganhou o dinheiro?}
 {375}{}{Sim? Como o que?}
-{381}{}{That's all I need to know. Thanks, Mason.}
-{382}{}{That's all I need to know. Stand back and let me get to work, Mason.}
-{390}{}{He's been laying low, so tracking him down's gonna be YOUR job, boy. }
-{391}{}{He's been laying low, so tracking him down's gonna be YOUR job, girl. }
-{392}{}{Best bet? Check some of the bars along Virgin street. Lloyd might be running another hustle there.}
+{381}{}{Isso é tudo que eu preciso saber. Obrigado, Mason.}
+{382}{}{Isso é tudo que eu preciso saber. Afaste-se e me deixe trabalhar, Mason.}
+{390}{}{Ele está se escondendo, então rastreá-lo vai ser o SEU trabalho, garoto. }
+{391}{}{Ele está se escondendo, então rastreá-lo vai ser o SEU trabalho, garota. }
+{392}{}{O mais provável? Veja alguns dos bares ao longo da rua Virgin. Lloyd pode estar fazendo outro negócio lá.}
 {393}{}{Eu tenho mais algumas perguntas...}
-{400}{}{Lloyd? Hell... he's 'bout average height, white, brown hair. Last I saw him, he had a tan shirt, and dark
- brown scarf. He probably ain't changed his clothes since I saw him last.}
-{401}{}{You know, oddly enough, that describes a LOT of people I've seen since I left Arroyo.}
-{410}{}{Haw! You're telling me. Names are about the only way to tell people apart nowadays. You'd think there's
- only ten kinds of people in the world. (Leans in.) Way I figure it, there was some big cloning accident in the past.}
-{420}{}{About a thousand chips. Now look, that ain't nothin' to Mr. Salvatore, but he's got this policy
- with regards to people who take ANYTHING from him. If I were you, I'd remember that. Mr. Salvatore's gonna want EVERY chip
- back.}
-{430}{}{I been keeping my eyes open, but Lloyd's been pretty careful about keeping out of sight... from Salvatore
- eyes, anyway. I'm betting the boss figures you might have better luck, being new in town an' all.}
-{431}{}{Yeah, whatever. I'm outta --}
-{432}{}{I had some other qu --}
-{433}{}{All right then, I'll go check --}
+{400}{}{Lloyd? Vamos ver... ele é de estatura média, branco, cabelo castanho. A última vez que o vi, ele tinha uma camisa
+ bege e um cachecol marrom escuro. Ele provavelmente não mudou de roupa desde a última vez que o vi.}
+{401}{}{Sabe, curiosamente, isso descreve MUITAS pessoas que vi desde que saí de Arroyo.}
+{410}{}{Uau! Você está me dizendo. Os nomes são a única maneira de diferenciar as pessoas hoje em dia. Acredito que deva ter uns
+ dez tipos de pessoas no mundo. (Inclina-se.) Eu até imagino que houve algum grande acidente de clonagem no passado.}
+{420}{}{Cerca de mil tampas. Agora veja, isso não é nada para o Sr. Salvatore, mas ele tem essa política
+ sobre as pessoas que tiram QUALQUER COISA dele. Se eu fosse você, lembraria disso. O Sr. Salvatore vai querer TODAS as fichas
+ de volta.}
+{430}{}{Eu tenho mantido meus olhos abertos, mas Lloyd tem sido muito cuidadoso em ficar fora de vista... dos olhos de
+ Salvatore, de qualquer forma. Aposto que o chefe acha que você pode ter mais sorte, sendo novo na cidade e tudo mais.}
+{431}{}{Sim, tanto faz. estou fora --}
+{432}{}{Eu tinha outra pe --}
+{433}{}{Tudo bem então, vou verificar --}
 {440}{}{Está certo então.}
-{442}{}{That's all I need to know. Now back off and let me get to work.}
-{465}{}{You found Lloyd yet?}
-{466}{}{(Scowls.) You BETTER have some good news for me. You found Lloyd yet?}
-{467}{}{(Scowls.) You BETTER have some good news for Mr. Salvatore or yer gonna be sleeping with the radscorpions.}
-{468}{}{No, not yet. I had some more questions about Lloyd...}
-{470}{}{Yeah, I found Lloyd.}
-{472}{}{No, I think he left town with the cash.}
-{473}{}{Not yet. Sorry to bother you.}
-{480}{}{Hold on a minute there, speedy. I'll make this REAL clear so you can understand: Don't talk to me again until
- you find Lloyd. Or you're gonna make me mad. Now do your JOB.}
+{442}{}{Isso é tudo que eu preciso saber. Agora afaste-se e me deixe começar a trabalhar.}
+{465}{}{Já encontrou Lloyd?}
+{466}{}{(Carranca.) É MELHOR você ter boas notícias para mim. Já encontrou Lloyd?}
+{467}{}{(Carranca.) É MELHOR você ter boas notícias para o Sr. Salvatore ou você vai dormir com os radscorpions.}
+{468}{}{Não, ainda não. Eu tinha mais algumas perguntas sobre Lloyd...}
+{470}{}{Sim, encontrei Lloyd.}
+{472}{}{Não, acho que ele saiu da cidade com o dinheiro.}
+{473}{}{Ainda não. Desculpe incomodá-lo.}
+{480}{}{Espere um minuto aí, rápido. Vou deixar isso bem claro para que você entenda: não fale comigo de novo até encontrar
+ Lloyd. Ou você vai me deixar nervoso. Agora faça seu TRABALHO.}
 {481}{}{tudo bem, tudo bem...}
-{482}{}{Bite me, Mason.}
-{490}{}{I told you not to come back until you found Lloyd... I TOLD you. (Taps his head.) Are you stupid?! Must be,
- cause here you are talking to me again. Stupid... and DEAD.}
-{491}{}{Let's go, shitheel.}
+{482}{}{Da uma pegadinha aqui, Mason.}
+{490}{}{Eu te disse para não voltar até encontrar Lloyd... EU TE DISSE. (bate na cabeça.) Você é animal?! Deve ser, você
+ está falando comigo de novo. Estúpido... e MORTO.}
+{491}{}{Vamos, merda.}
 {492}{}{Traga à mostra.}
-{493}{}{No, YOU'RE the one who's STUPID AND DEAD! You HEAR ME, MASON?! YOU'RE THE ONE WHO'S STU --}
-{500}{}{(Stares at you in disbelief.) You screwed it up. We give you a simple job, and you screw. It. Up. }
-{501}{}{You must be the STUPIDEST son of a bitch alive. }
-{502}{}{You must be the STUPIDEST bitch alive. }
-{503}{}{(Sneers, reaches for weapons.) Time to die, tribal.}
-{506}{}{No, YOU'RE the one who's gonna DIE! You HEAR ME, MASON?! YOU'RE THE ONE WHO'S GONNA D --}
+{493}{}{Não, VOCÊ é aquele que é ESTÚPIDO E MORTO! Está me OUVINDO MASON?! VOCÊ É QUEM ESTÁ FU...}
+{500}{}{(Olha para você incrédulo.) Você estragou tudo. Nós lhe damos um trabalho simples, e você fode tudo. Tudo. }
+{501}{}{Você deve ser o filho da puta MAIS ESTÚPIDO que existe. }
+{502}{}{Você deve ser a vagabunda MAIS ESTÚPIDA que existe. }
+{503}{}{(Risos, pega as armas.) Hora de morrer, tribal.}
+{506}{}{Não, VOCÊ é quem vai MORRER! Está me OUVINDO, MASON?! VOCÊ É QUEM VAI SE F --}
 {514}{}{Well, why the hell didn't you say so in the FIRST place, idiot? Go tell Mr. Salvatore what you found.}
 {515}{}{(Nods, frowning slightly.) Well, awright then... go tell Mr. Salvatore what you found.}
 {516}{}{Oh, REALLY? Is THAT what I should do? Thanks, Mason. Without you, I wouldn't even know how to get

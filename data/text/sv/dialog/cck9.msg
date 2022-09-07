@@ -46,7 +46,7 @@
 {134}{}{I'll try there. If I don't find it, I'll look around for it.}
 {135}{}{Then leave me in peace.}
 {136}{}{Okay.}
-{137}{}{You got it.}
+{137}{}{Ska ske.}
 {138}{}{Hello again. The life functions of my master have terminated. Are
  you my new master?}
 {139}{}{Okay.}

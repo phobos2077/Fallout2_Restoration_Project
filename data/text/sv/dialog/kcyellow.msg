@@ -27,4 +27,4 @@
 {202}{}{Arf!}
 {203}{}{Arf, arf, arf!}
 {204}{}{(Stares at you lovingly)}
-{205}{}{Woof!}
+{205}{}{Voff!}

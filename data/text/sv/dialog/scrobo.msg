@@ -16,7 +16,7 @@
 {115}{}{<whirrr> Not bird, nor plane, nor even frog, just lil' old me - Robodog!<click>}
 {116}{}{Rooby-Doo!}
 {117}{}{Ee-bee-dee-bee-ee-bee-dee-bee!}
-{118}{}{Woof!}
+{118}{}{Voff!}
 {119}{}{GRRR-ROWF!}
 {120}{}{Arf-arf-arf-arf-arf-arf-arf!}
 {121}{}{OK}

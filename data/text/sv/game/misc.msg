@@ -69,11 +69,11 @@
 {9050}{}{Oh dear... I've actually learned something from this.}
 {9051}{}{The guilt of this is going to kill me.}
 {9052}{}{I can't believe I survived this far.}
-{9060}{}{Woof!}
-{9061}{}{Woof!}
-{9062}{}{Woof!}
-{9063}{}{Woof!}
-{9064}{}{Woof! Woof!}
+{9060}{}{Voff!}
+{9061}{}{Voff!}
+{9062}{}{Voff!}
+{9063}{}{Voff!}
+{9064}{}{Voff! Voff!}
 {9070}{}{I learned some new things!}
 {9071}{}{I learned some new things!}
 {9080}{}{I do believe I have gained some knowledge!}

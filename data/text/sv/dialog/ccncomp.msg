@@ -39,7 +39,7 @@
 {138}{}{Fine.}
 {139}{}{Sounds good.}
 {140}{}{Thank you for accessing EnclaveNet. Logging off... }
-{141}{}{Done.}
+{141}{}{Färdigt.}
 {142}{}{Command?}
 {143}{}{Unauthorized activity detected in main computer complex. Security alert. Security alert.}
 {144}{}{Initiate welcome program.}

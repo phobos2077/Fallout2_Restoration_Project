@@ -7,13 +7,13 @@
  to power failure.}
 {105}{}{Turn the force field off.}
 {106}{}{Turn the force field on.}
-{107}{}{Done.}
+{107}{}{Färdigt.}
 {108}{}{You give the command to deactivate the force field.}
 {109}{}{You can't seem to get around the security codes to deactivate the force field.}
-{110}{}{Done.}
+{110}{}{Färdigt.}
 {111}{}{You give the command to activate the force field.}
 {112}{}{You can't seem to get around the security codes to activate the force field.}
-{113}{}{Done.}
+{113}{}{Färdigt.}
 {114}{}{This terminal monitors the force field generators. It indicates that the force field is off.}
 {115}{}{This terminal monitors the force field generators. It indicates that the force field has been
  temporarily disabled.}

@@ -9,4 +9,4 @@
 {107}{}{Time to leave.}
 {108}{}{You manage to break the contacts loose and restore power!}
 {109}{}{Damn. This is tougher than it looks.}
-{110}{}{Done.}
+{110}{}{Färdigt.}

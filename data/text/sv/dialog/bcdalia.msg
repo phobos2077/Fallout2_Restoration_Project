@@ -60,6 +60,6 @@
 {153}{}{Thanks. Me no forget this, Dalia.}
 {154}{}{Thanks. I won't forget this, Dalia.}
 {155}{}{Then go the hell away and leave me be!}
-{156}{}{Done.}
+{156}{}{Färdigt.}
 {157}{}{Then go the hell away and leave me be!}
-{158}{}{Done.}
+{158}{}{Färdigt.}

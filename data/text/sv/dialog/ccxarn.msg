@@ -63,7 +63,7 @@
 {138}{}{No, but I'll think about it.}
 {139}{}{No, I don't think so.}
 {140}{}{Very well... I will wait here until you come to a decision.}
-{141}{}{Done.}
+{141}{}{Färdigt.}
 {142}{}{Very well... I am saddened by your decision but it is
  your choice. If you change your mind, I will be here.}
 {143}{}{Bye.}

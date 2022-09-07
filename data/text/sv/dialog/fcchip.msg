@@ -62,7 +62,7 @@
 {161}{}{Yeah, and he's charging me $1,000.}
 {162}{}{}
 {163}{}{Wow. You have some serious connections. Come back in a day and I'll see what help I can give you.}
-{164}{}{You got it.}
+{164}{}{Ska ske.}
 {165}{}{Can you cover me?}
 {166}{}{Yeah, I suppose.}
 {167}{}{No.}

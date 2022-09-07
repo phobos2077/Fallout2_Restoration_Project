@@ -38,7 +38,7 @@
 {137}{}{Ey'e mate, you screwen with me dog.}
 {138}{}{Grrrrr....}
 {139}{}{(I wonder if I can get Dogmeat to follow me differently?)}
-{150}{}{Woof! Woof!}
+{150}{}{Voff! Voff!}
 {200}{}{Here boy, I got something for you! Let's see somebody mess with you now! (You place the K-9 Kevlar on Dogmeat.)}
 {201}{}{Is the armor weighting you down, boy? Here, let's take that thing off. (You remove the K-9 Kevlar from Dogmeat.) }
 {300}{}{*Wimper*}
