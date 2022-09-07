@@ -95,7 +95,7 @@
 {457}{}{Look, I'm here to see Myron. I have a badge.}
 {458}{}{Eu vou estar indo agora.}
 {465}{}{Oh, sorry. Thought you were someone else. What do you want, chica?}
-{466}{}{What's behind that door?}
+{466}{}{O que há atrás daquela porta?}
 {475}{}{Myron expecting you?}
 {477}{}{Yes. Can I head on in? We have business to discuss.}
 {478}{}{No, not right now. Take care, you guys.}

@@ -1,62 +1,62 @@
 {100}{}{Você vê Mason.}
-{150}{}{You see a powerfully built middle-aged man with a receding hairline.}
-{151}{}{You see Mason. He is watching you carefully.}
-{200}{}{What're you doing up here?}
-{205}{}{Well, check out this bouquet of assholes.}
-{210}{}{Touch that door again, and I'll turn you into a torch.}
+{150}{}{Você vê um homem de meia-idade corpulento e uma bela careca reluzente.}
+{151}{}{Você vê Mason. Ele te observa com cuidado.}
+{200}{}{O que você está fazendo aqui?}
+{205}{}{Olha só, um bando de idiotas.}
+{210}{}{Encoste naquela porta de novo e eu corto suas mãos.}
 {215}{}{Pode entrar... DESTA vez.}
-{220}{}{You done walking in the wrong place, tribal. Get.}
-{221}{}{This ain't no porn studio. Get.}
-{222}{}{What're you doing here, punchy? Lose your way to the boxing ring? Get outta here.}
-{223}{}{Get smart}
-{224}{}{Oog make mission statement}
+{220}{}{Entrou no lugar errado, tribal. Saia daqui.}
+{221}{}{Isso não é um estúdio pornô. Saia.}
+{222}{}{O que você está fazendo aqui, vagabundo? Perdeu o caminho para o ringue de boxe? Saia daqui.}
+{223}{}{Fique esperto}
+{224}{}{Oog faz declaração de missão}
 {225}{}{Cai fora}
-{226}{}{What's behind that door?}
-{227}{}{I want to see Mr. Salvatore.}
-{228}{}{Can I ask you where you get those laser pistols?}
-{229}{}{Word is, you Salvatores poisoned that Wright kid.}
-{230}{}{All right then, I'm leaving.}
-{240}{}{Beat it, retard. I ain't gonna be telling you again.}
-{241}{}{Tell me WHUT again?}
-{250}{}{Life's full of disappointments. Now GET, capiche?}
-{251}{}{(Sarcastic.) Behind that door? That door right there? Why, that's Mr. SALVATORE'S room. Now BEAT it.}
-{252}{}{I want to see Mr. Salvatore. I want a job.}
-{253}{}{Look, dipshit... do you still want to have your job tomorrow? I have some info about one of the other families in Reno
- that Mr. Salvatore's going to want to hear. So let me speak to him NOW.}
-{254}{}{Where do you get those laser pistols?}
+{226}{}{O que há atrás daquela porta?}
+{227}{}{Eu quero ver o Sr. Salvatore.}
+{228}{}{Posso perguntar onde você consegue essas pistolas a laser?}
+{229}{}{Dizem que vocês Salvatores envenenaram aquele garoto Wright.}
+{230}{}{Tudo bem então, vou indo embora.}
+{240}{}{Some daqui, retardado. Eu não vou dizer de novo.}
+{241}{}{Repetir de novo?}
+{250}{}{A vida é um monte de decepções. Agora SAIA, capiche?}
+{251}{}{(Sarcástico.) Atrás daquela porta? Que porta ali? Ora, esse é o quarto do Sr. SALVATORE. Agora SOME.}
+{252}{}{Eu quero ver o Sr. Salvatore. Preciso de um emprego.}
+{253}{}{Olha, merdinha... você ainda quer ter seu emprego amanhã? Tenho algumas informações sobre uma das outras famílias em
+ Reno que o Sr. Salvatore vai querer ouvir. Então deixe eu falar com ele AGORA.}
+{254}{}{Onde você consegue essas pistolas a laser?}
 {265}{}{}
-{266}{}{Boy, you must be dumber than SHIT to be talking to me like that. One more word, just ONE more word, and
- yer a torch.}
-{267}{}{Girl, you must be dumber than SHIT to be talking to me like that. One more word, just ONE more word, and
- yer a torch.}
-{268}{}{I SAID, I want to see Mr. Salvatore.}
+{266}{}{Rapaz, você deve ser mais burro do que MILITANTE para estar falando assim comigo. Mais uma palavra, apenas mais
+ uma palavra, e você se fode.}
+{267}{}{Garota, você deve ser mais burra do que MILITANTE para estar falando assim comigo. Mais uma palavra, apenas mais
+ uma palavra, e você se fode.}
+{268}{}{EU DISSE, preciso ver o Sr. Salvatore.}
 {270}{}{(Saindo em silêncio.)}
-{275}{}{(His face reddens. He suddenly speaks to the air.) Excuse me, Mr. Salvatore, this is Mason. }
+{275}{}{(Seu rosto fica vermelho. Ele de repente fala para o ar.) Com licença, Sr. Salvatore, este é Mason. }
 {276}{}{Este... cara... diz que tem algo que você quer ouvir.}
 {277}{}{Esta... mulher... diz que tem algo que você quer ouvir.}
-{278}{}{(Wait...)}
-{279}{}{(Attack Mason before he can continue.)}
-{285}{}{Look, maybe you ain't HEARD, tribal, but this's Salvatore's place. MY job is to make sure the boss
- ain't bothered by yapping dogs like you. Now run back to yer tribe and cook up one of yer people for dinner.}
-{295}{}{These pistols? Aw, gee, I can't rightly say. I just plumb forgot. (Scowls.) Look, tribal. If you don't
- shove off right now, I'm going to turn you into a torch. Now get.}
-{298}{}{Okay! I'm going, I'm going.}
-{299}{}{Leave quietly.}
-{305}{}{I WARNED you, asshole, now you're... (Mason suddenly pauses, listening to something you can't hear. After a moment, his teeth clench.) Mr. Salvatore says you may come in... }
-{306}{}{Oh, I'll be going in all right. After I kill you.}
-{307}{}{Thanks, assholio, I'll be sure to mention your manners to Mr. Salvatore.}
+{278}{}{(Espera...)}
+{279}{}{(Ataque Mason antes que ele possa continuar.)}
+{285}{}{Olha, talvez você não tenha OUVIDO, tribal, mas este é o lugar de Salvatore. MEU trabalho é garantir que o
+ chefe não se incomode com cachorros latindo igual você. Agora volte de volta para sua tribo e faça um churrasco com suas crianças.}
+{295}{}{Essas pistolas? Ah, caramba, eu não posso dizer certamente, eu acabei esquecendo.(Carrancudo.)
+ Olha, tribal. Se você não sair agora, vai sair daqui pegando fogo. Agora vaza.}
+{298}{}{Ok! Eu vou, eu vou.}
+{299}{}{Saia tranquilamente.}
+{305}{}{Eu te avisei, idiota, agora você está... (Mason faz uma pausa repentina, ouvindo algo que você não pode ouvir. Depois de um momento, seus dentes cerram.) O Sr. Salvatore disse que você pode entrar... }
+{306}{}{Oh, eu vou entrar bem. Depois que eu te matar.}
+{307}{}{Obrigado, palerma, vou me certificar de mencionar suas maneiras ao Sr. Salvatore.}
 {308}{}{Está certo então.}
-{315}{}{(Mason stops you.) Look... (Leans in, lowers voice.) ...Some ground rules, boy. }
-{316}{}{Look... (Leans in, lowers voice.) ...Some ground rules, girl. }
-{317}{}{Don't waste Mr. Salvatore's time, and don't give him any bullshit, or you'll answer to me.}
+{315}{}{(Mason olha pra você.) Olhe... (inclina-se, abaixa a voz.) ...Algumas regras básicas, garoto. }
+{316}{}{Olhe... (inclina-se, abaixa a voz.) ...Algumas regras básicas, garota. }
+{317}{}{Não desperdice o tempo do Sr. Salvatore, e não dê a ele nenhuma besteira, ou você vai responder a mim.}
 {318}{}{Entendido.}
-{319}{}{Yeah, yeah, whatever. Get out of my way.}
-{325}{}{(Mason stops you again.) I ain't DONE yet. You show him RESPECT. You call him *Mr. Salvatore* at all times,
- and when he talks, you *shut up and listen.* Understand?}
-{327}{}{Last chance, Mason: Get the hell out of my way.}
-{335}{}{One day, you and me are gonna work out this problem you got with authority.}
-{336}{}{I haven't got a problem. Everything's cool.}
-{337}{}{Blow me.}
+{319}{}{Sim, sim, tanto faz. Saia do meu caminho.}
+{325}{}{(Mason para você novamente.) Ainda não terminei. Mostre a ele RESPEITO. Você o chama de *Sr. Salvatore* o tempo
+ todo, e quando ele fala, você *cala a boca e ouve.* Entendeu?}
+{327}{}{Última chance, Mason: Saia do meu caminho.}
+{335}{}{Um dia, você e eu vamos resolver esse problema seu com autoridade.}
+{336}{}{Eu não tenho um problema. Tudo está ótimo.}
+{337}{}{Me chupa.}
 {345}{}{Awright, that DOES it, smartass! You crossed the line...(Cracks knuckles.)...now yer gonna get hurt.}
 {346}{}{Hurt? William?}
 {347}{}{Vamos dançar.}

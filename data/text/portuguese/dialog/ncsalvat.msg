@@ -66,7 +66,7 @@
 {352}{}{Thank you, Mr. Salvatore. I will go ask Mason.}
 {360}{}{Then you are of... no use to me. Leave now.}
 {361}{}{Eh, um minuto... eu mudei de ideia. Farei isso.}
-{362}{}{Leave quietly.}
+{362}{}{Saia tranquilamente.}
 {370}{}{(Narrows his eyes. His next words are delivered in a rasping hiss.)
  ::You have not yet PROVEN yourself.:: Now go see Mason. He will have the... details of your assignment.}
 {371}{}{All right, then. Forget the pistols for now.}
