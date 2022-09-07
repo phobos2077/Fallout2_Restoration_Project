@@ -228,9 +228,9 @@
 {278}{}{Do you have what you need to perform the operations?}
 {279}{}{Mostly. I have the skill and the training, but I don't have the implant material.}
 {280}{}{So, what does that mean?}
-{281}{}{That means that we'll just have to improvise. I think I can get what I need from a set of
- standard combat armor. I can take the concussive protection plates and also the thermal cells from the
- armor.}
+{281}{}{Det betyder att vi helt enkelt måste improvisera. Jag tror att jag kan få vad jag behöver från en uppsättning av
+ standardstridsrustning. Jag kan ta de skottsäkra skyddsplattorna och även de termiska cellerna från
+ rustning.}
 {282}{}{That's great. So you can do it?}
 {283}{}{Well, yes - but if I pack too much armor in, the patient sure isn't going to win any beauty prizes.}
 {284}{}{I don't care about that; I just want the protection. What can you do, exactly?}

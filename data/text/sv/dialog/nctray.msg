@@ -270,15 +270,15 @@
 {906}{}{Could I check out your stock?}
 {907}{}{Well, I'd really like one, but I don't want to pay for it. Is there something... ELSE I could do to pay for it?}
 {909}{}{Just checking. Be seeing you.}
-{915}{}{Grav-plates! These beauties'll let you FLY cross the wasteland, and they have a recycling power chip, so they
- barely suck up any juice. How do you like that? You want 'em?}
+{915}{}{Gravitatinsplattor! De här skönheterna låter dig FLYGA genom ödemarken, och de har ett återvinningskraftchip, så att de
+ knappt använder någon energi. Vad tycker du om det? Vill du ha dem?}
 {916}{}{Me like me take}
 {918}{}{Sounds good. I'll take it.}
 {919}{}{Not right now. I have come to collect Mr. Bishop's free batteries.}
-{920}{}{Not right now. Can you upgrade the Highwayman without adding the grav plates?}
+{920}{}{Inte just nu. Kan du uppgradera min Highwayman utan att lägga till gravitationsplattorna?}
 {921}{}{Not right now. Can I buy some batteries from you instead?}
 {922}{}{No, not at the moment. Maybe later. See ya.}
-{930}{}{(T-Ray spends an hour or two in the shop. When he emerges, the grav-plates have been installed.)}
+{930}{}{(T-Ray spenderar en timme eller två i verkstan. När han kommer ut har gravitationsplattorna installerats.)}
 {931}{}{Thanks, T-Ray. Appreciate it. I'll go try them out.}
 {940}{}{Help yourself, hero.}
 {941}{}{What's mine is yours. Tell everybody I said that, too.}

@@ -1,18 +1,18 @@
 {100}{}{A computer terminal.}
 {101}{}{Bilder av lättklädda kvinnor är fästa på olika ställen på datorn.}
 {102}{}{You are unable to read what's on the monitor.}
-{103}{}{Munitions Access Terminal
-                                        Force Field - Disabled
-                                              Shock Plates - Disabled}
+{103}{}{Terminal för tillgång till ammunition
+                                        Kraftfält - Inaktiverat
+                                              Stötplattor - Inaktiverade}
 {104}{}{Terminal för tillgång till ammunition
                                          Kraftfält - Inaktiverat
                                          Stötplattor - Aktiverat}
 {105}{}{Terminal för tillgång till ammunition
                                      Kraftfält - Aktiverat
                                                   Stötplattor - Inaktiverat}
-{106}{}{Munitions Access Terminal
-                                         Force Field - Active
-                                                  Shock Plates - Active}
+{106}{}{Terminal för tillgång till ammunition
+                                     Kraftfält - Aktiverat
+                                                  Stötplattor - Inaktiverade}
 {107}{}{Inaktivera Stötplattor}
 {108}{}{Inaktivera Kraftfält}
 {109}{}{Läs E-Post}
@@ -82,5 +82,5 @@
 {165}{}{[Somehow your tampering causes the terminal to explode in your face.]}
 {166}{}{Exit}
 {200}{}{[This terminal is no longer operational.]}
-{300}{}{You disable the shock plates.}
+{300}{}{Du inaktiverar stötplattorna.}
 {400}{}{Computer in diagnostic mode. Please wait until diagnostic routine is finished.}
