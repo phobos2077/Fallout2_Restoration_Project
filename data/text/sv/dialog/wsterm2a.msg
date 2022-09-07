@@ -84,7 +84,7 @@
 {308}{}{
                                              Warning! Intruder Detected Levels: }
 {309}{}{
-                               }
+                                      }
 {310}{}{
                                              }
 {311}{}{
