@@ -76,7 +76,7 @@
 {175}{}{Where can I get fuel for the Poseidon tanker?}
 {176}{}{Where can I find the meaning of all the terms you use?}
 {177}{}{When does the ship take off?}
-{178}{}{Where is Crockett?}
+{178}{}{Var är Crockett?}
 {179}{}{Nothing, thanks. Bye.}
 {180}{}{Let us know when you have completed your task.}
 {181}{}{Will do. I have more questions.}
