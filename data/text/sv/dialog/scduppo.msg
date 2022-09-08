@@ -25,7 +25,7 @@
 {124}{}{I'm looking for Roger Westin. Ever hear of him?}
 {125}{}{Where can I find Frank Carlson?}
 {126}{}{Carl-son?}
-{127}{}{Goodbye.}
+{127}{}{Farväl.}
 {128}{}{You mean Roger Westin? West of town.}
 {129}{}{One of the stockholders in this place. West of town. I don't think he's looking for ranch hands, if that's what you're thinking.}
 {130}{}{He's the vice-president; I know that much. Otherwise, can't tell you anything, really. Spends all his time at the Presidential House. Hardly ever comes out, especially now what with all the trouble we've been having.}

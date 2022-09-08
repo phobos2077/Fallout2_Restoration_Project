@@ -48,7 +48,7 @@
 {311}{}{What kind of help do you need?}
 {320}{}{Well, that depends. I don't suppose you'd feel comfortable wielding a large experimental gun, would you?}
 {321}{}{Hell yeah I would!}
-{322}{}{Sure.}
+{322}{}{Visst.}
 {323}{}{I think I'll pass.}
 {330}{}{Oh, I see. That's too bad. Oh well, no hard feelings. I'll just wait until the next flesh and blood person comes
  wandering into this facility. It's bound to happen again within a century or two. Goodbye.}

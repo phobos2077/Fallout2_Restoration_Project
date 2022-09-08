@@ -3,11 +3,11 @@
 {102}{}{You see a young man with bulging muscles and a very confident air about him.}
 {103}{}{Good day to you, }
 {104}{}{. You have not completed the trial of the Elder and may not pass.}
-{105}{}{Uh...}
+{105}{}{Eh...}
 {106}{}{I need to go back to the village.}
 {107}{}{I have some questions for you.}
 {108}{}{All right, I'm off to take the test.}
-{109}{}{(sigh) }
+{109}{}{(suck)}
 {110}{}{. You go temple. You take test. You not come back here until take test. Obey Elder. Go!}
 {111}{}{Me go.}
 {112}{}{Forgive me, }

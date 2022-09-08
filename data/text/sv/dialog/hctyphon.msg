@@ -6,7 +6,7 @@
 {105}{}{Old Ghouls' Home?}
 {106}{}{Who are you?}
 {107}{}{Hey, you ever heard of a GECK?}
-{108}{}{Bye.}
+{108}{}{Hej då.}
 {109}{}{Another waste-baby, huh? Hey, kid, you want to know a secret?}
 {110}{}{Yeh!}
 {111}{}{Nuh uh.}
@@ -19,7 +19,7 @@
 {117}{}{I had other questions.}
 {118}{}{Bye!}
 {119}{}{Heh. All right, then. I ain't got nothin' for you. Go on, git.}
-{120}{}{Bye.}
+{120}{}{Hej då.}
 {121}{}{Kid, y'got to do me a favor, first.}
 {122}{}{Okey!}
 {123}{}{Nuh uh!}
@@ -45,7 +45,7 @@
 {143}{}{What kind of treasure is it?}
 {144}{}{Yeah, tell me.}
 {145}{}{I had other questions for you first.}
-{146}{}{No.}
+{146}{}{Nej.}
 {147}{}{Like what?}
 {148}{}{This is the Old Ghouls' Home?}
 {149}{}{You ever heard of a GECK?}
@@ -106,7 +106,7 @@
 {204}{}{Nope. I had some questions.}
 {205}{}{Nope. Bye.}
 {206}{}{Well, keep lookin'. You're bound to get it eventually.}
-{207}{}{Okay.}
+{207}{}{Okej.}
 {208}{}{Guess so. Bye.}
 {209}{}{How's the treasure, kid?}
 {210}{}{Bad! Caps!}

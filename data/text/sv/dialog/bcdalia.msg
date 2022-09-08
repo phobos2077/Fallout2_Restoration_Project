@@ -17,7 +17,7 @@
 {115}{}{Me want talk.}
 {116}{}{Ok, me go.}
 {117}{}{I want to talk to you.}
-{118}{}{Bye.}
+{118}{}{Hej då.}
 {119}{}{I said I'm Dalia. Look, I don't mean to be rude, but I don't want to talk to anyone right now. Okay?}
 {120}{}{Okay, bye.}
 {121}{}{Just little more.}

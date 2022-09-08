@@ -7,8 +7,8 @@
 {106}{}{Well, I am the Chosen One.}
 {107}{}{Uh, I really don't know what you're talking about.}
 {108}{}{So you're the itch Merk wants scratched!}
-{109}{}{Yes.}
-{110}{}{No.}
+{109}{}{Ja.}
+{110}{}{Nej.}
 {111}{}{I just want to be alone.}
 {112}{}{Hello? Anybody there?}
 {113}{}{Guh.}
@@ -49,8 +49,8 @@
 {148}{}{Nonsense. There is no organizing force determining our fates. In fact there's no 'higher power' behind anything. The universe is just chance. I am the Chosen One because others have declared it. That's all.}
 {149}{}{Aligned Hub Seeker. You are obviously not Enlightened.}
 {150}{}{A primitive belief - but you show signs of great promise. We can show you the higher path. Would you like to know more?}
-{151}{}{Yes.}
-{152}{}{No.}
+{151}{}{Ja.}
+{152}{}{Nej.}
 {153}{}{I can't help you with that. However, our scientists in San Francisco might know something. Perhaps you should travel there.}
 {154}{}{By purging you of the negative psychic energy that keeps you in an oppressive state. Only then can you be Enlightened!}
 {155}{}{Neurodynes are the psychic centers of the body. They become polluted by the spiritual remnants of the people who died in the War. Their psi-energies imprint into our neurodynes at birth and hold us in an oppressive state. Alignment erases these imprints.}
@@ -61,7 +61,7 @@
 {160}{}{Oppressive state?}
 {161}{}{So how's this purging work? Is it painful?}
 {162}{}{It's not painful. You just undergo a zeta-scan. I can do one now, if you like.}
-{163}{}{Sure.}
+{163}{}{Visst.}
 {164}{}{No way!}
 {165}{}{The Church of Hubology exists to free mankind from the chains that have kept his full spiritual potential in shackles.}
 {166}{}{How do you do that?}

@@ -7,7 +7,7 @@
 {106}{}{No trezhuur tooday.}
 {107}{}{Yah. Need yur help.}
 {108}{}{Who U?}
-{109}{}{Bye.}
+{109}{}{Hej då.}
 {110}{}{No, not today. If I run across any, I'll let you know, though.}
 {111}{}{Well, yes, actually. I think you'd be the perfect partner for a, shall we say, "joint venture".}
 {112}{}{What's your name?}

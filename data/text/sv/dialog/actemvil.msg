@@ -1,7 +1,7 @@
 {100}{}{You see Cameron, a fellow tribesman.}
 {101}{}{You see Cameron.}
 {102}{}{You see a young man with bulging muscles and a very confident air about him.}
-{103}{}{Greetings, }
+{103}{}{Hälsningar,}
 {104}{}{. I have the honor of being your final challenge. To continue in your quest you must defeat
  me in unarmed combat. Shall we begin?}
 {105}{}{Me got questions.}
@@ -26,7 +26,7 @@
  of these will be dealing with your fellow man. There will come a time when diplomacy and tact
  will prove to be useless and your hand must be raised instead. This challenge prepares you to face
  another human, look him in the eyes, and know that you may have to kill him.}
-{124}{}{Okay.}
+{124}{}{Okej.}
 {125}{}{I see.}
 {126}{}{No, my friend, you need only defeat me. When the time comes, we will end the battle.}
 {127}{}{Me understand.}

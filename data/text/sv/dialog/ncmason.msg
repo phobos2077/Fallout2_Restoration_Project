@@ -144,7 +144,7 @@
 {575}{}{I told you not to come back until you got that money... I TOLD you. (Taps his head.) Are you stupid?!
  Must be, cause here you are talking to me again. Stupid... and DEAD.}
 {585}{}{(Mason's eyes narrow.) So friggin' what? You tell him who you worked for?}
-{586}{}{Yes.}
+{586}{}{Ja.}
 {587}{}{Well, no.}
 {595}{}{Then did you SHOW him who you worked for?}
 {596}{}{Show him?}

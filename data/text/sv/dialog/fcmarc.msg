@@ -13,24 +13,24 @@
 {112}{}{Anks?}
 {113}{}{I'm Marc. I'm the resident smart-ass and know-it-all. ::he smiles::}
 {114}{}{Oh. I have other questions.}
-{115}{}{Bye.}
+{115}{}{Hej då.}
 {116}{}{This is the Poseidon Marine Vessel Valdez - also called the PMV Valdez. If you want more information about the Valdez, the best person to ask is the Captain.}
 {117}{}{The Captain? Who's that?}
 {118}{}{I have other questions.}
-{119}{}{Bye.}
+{119}{}{Hej då.}
 {120}{}{In charge? No one's in charge of us.}
 {121}{}{Where'd you all come from?}
 {122}{}{I have other questions to ask you, then.}
-{123}{}{Bye.}
+{123}{}{Hej då.}
 {124}{}{The Captain is a tough-ass ol' military guy. He sits upstairs there and checks the place out. He's got some thorough knowledge about this ship.}
 {125}{}{Thanks. I have more questions.}
 {126}{}{Thanks. Bye.}
 {127}{}{Oh, all over the wasteland. We'd heard things about San Francisco, passed down from our elders. Some of us have ancestors who used to live here before the great war. You want to hear more?}
-{128}{}{Yes.}
+{128}{}{Ja.}
 {129}{}{No, but I wanted to ask you something else.}
 {130}{}{No, that's all.}
 {131}{}{We're a band of musicians, tekheads, geeks, and artists. We thought we'd come back to someplace famous for artistic and personal freedom. I came here to spawn. Wanna hear more still?}
-{132}{}{Yes.}
+{132}{}{Ja.}
 {133}{}{No, but I wanted to ask you something else.}
 {134}{}{No, that's all.}
 {135}{}{Well, when we got here, we figured we'd camp out here until we either figured out how to get this tanker moving again or until we thought of something else.}
@@ -43,17 +43,17 @@
 {142}{}{What are they?}
 {143}{}{Where can I find the Captain?}
 {144}{}{I wanted to ask something else.}
-{145}{}{Bye.}
+{145}{}{Hej då.}
 {146}{}{They're crazy. Don't trust them - unless you're mentally feeble or like being screwed over. They're interested only in your money and your soul, and there's a good chance they'll destroy the one to get at the other. I've seen it happen too many times.}
 {147}{}{Have you figured out to move the tanker?}
 {148}{}{Tell me about the Shi.}
 {149}{}{I have other questions.}
-{150}{}{Bye.}
+{150}{}{Hej då.}
 {151}{}{They're a good sort, as far as they go. They're a little untrusting of outsiders, but then, that's not always such a bad attitude to take in these times. They've got some weird customs and they talk funny, but they're all right.}
 {152}{}{Have you figured out to move the tanker?}
 {153}{}{Tell me about the Hubologists.}
 {154}{}{I have other questions.}
-{155}{}{Bye.}
+{155}{}{Hej då.}
 {156}{}{You want to know what our plans are? We're going to keep moving around until we can find a place that hasn't been screwed over by human greed and then we're going to try to set up a better society.}
 {157}{}{Do you know how you're going to do that?}
 {158}{}{I have other questions.}

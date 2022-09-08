@@ -389,7 +389,7 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {435}{}{I, uh, don't remember.}
 {436}{}{You'll have to catch me first.}
 {437}{lyn061}{Hmmmm... very well. But do not appear again until you have your Citizenship papers. Good day.}
-{438}{}{Goodbye.}
+{438}{}{Farväl.}
 {439}{}{Good day, First Citizen.}
 {440}{lyn062}{Oh, really? That confirms my suspicions. Your Vault City access is now revoked. Hand
  over your Day Pass and go with my guards to the front gate.}
@@ -829,8 +829,8 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {822}{}{Give me that.}
 {823}{}{I don't know anything about that.}
 {824}{}{I don't know.}
-{825}{}{Yes.}
-{826}{}{No.}
+{825}{}{Ja.}
+{826}{}{Nej.}
 {827}{}{Certainly.}
 {828}{}{Of course.}
 {829}{}{Correct.}

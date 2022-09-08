@@ -4,10 +4,10 @@
 {103}{}{Who the hell are you guys... Alert! Intruders on the base!}
 {104}{}{I don't have time to chitchat with the grunts. You're dismissed.}
 {105}{}{Time to die.}
-{106}{}{Okay.}
+{106}{}{Okej.}
 {107}{}{I told you I don't have time for you. Leave this office and do not come back here unless I send for you. Dismissed!}
 {108}{}{Disobeying a direct order of a superior officer is treason. I don't have time to court martial you so I'll handle this myself. Guards! Kill this idiot!}
-{109}{}{Okay.}
+{109}{}{Okej.}
 {110}{}{Screw you!}
 {111}{}{The Fob is in the locker over there. Have the duty officer contact me once it's secured. Dismissed!}
 {112}{}{Yes sir!}

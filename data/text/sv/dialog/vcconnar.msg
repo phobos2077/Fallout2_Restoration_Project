@@ -7,7 +7,7 @@
 {106}{}{Why you Yell!}
 {107}{}{I bet those bastards at Vault City sent you. Well, you best be off, and leave everything else alive.}
 {108}{}{Well, it's a little late for that.}
-{109}{}{Why?}
+{109}{}{Varför?}
 {110}{}{Sorry, I have a job to do.}
 {111}{}{Those creatures are the only thing stopping Vault City from making us their so-called "servants".}
 {112}{}{Look, they're paying me to get rid of these beasts, so that's what I'm gonna do.}
@@ -39,7 +39,7 @@
 {135}{}{What was it that you needed again?}
 {136}{}{Yep, here they are.}
 {137}{}{We need four assault rifles and a shotgun. The sooner you can get them to us, the better.}
-{138}{}{Okay.}
+{138}{}{Okej.}
 {139}{}{Alright! With these babies, we should able to make something of this place over the next couple months. Thanks a
  lot, and hey, if you ever need a place to rest, you'll always be welcome here, friend.}
 {140}{}{You're welcome.}

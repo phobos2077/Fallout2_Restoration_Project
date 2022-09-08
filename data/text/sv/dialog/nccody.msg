@@ -19,7 +19,7 @@
 {212}{}{Cody, can you take me to the place where my car is?}
 {213}{}{Cody, can you take me to the place where my car was?}
 {214}{}{Can you tell me who stole it?}
-{215}{}{Goodbye.}
+{215}{}{Farväl.}
 {220}{}{(Cody gives you the finger and runs away.)}
 {221}{}{(Cody's eyes get wide, and he runs away.)}
 {223}{}{ME KILL YOU ME KILL YOU ME KILL YOU ME KILL --}

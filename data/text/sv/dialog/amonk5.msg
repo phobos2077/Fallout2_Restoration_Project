@@ -2,7 +2,7 @@
 {101}{}{You see Brother Paul.}
 {102}{}{This monk looks like a computer geek.}
 {200}{}{Hi!}
-{201}{}{Hello.}
+{201}{}{Hej.}
 {202}{}{Now, did I backup those computer files today...}
 {203}{}{I'm sorry, but I don't have time for someone of your intelligence.}
 {300}{}{Yes?}
@@ -11,7 +11,7 @@
 {303}{}{Tell me about your leader.}
 {304}{}{Do you have any info about a GECK?}
 {305}{}{Do you know where I could find Vault 13?}
-{306}{}{Bye.}
+{306}{}{Hej då.}
 {307}{}{I am in need of some specific information.}
 {308}{}{Such as?}
 {400}{}{Yes, we have. Too many, in my opinion. I can't express to you the tedium of having to back up all these files

@@ -134,7 +134,7 @@
 {374}{}{*Burp* Yeah, whatever. I guess you've got other things to do, like spending all of your free
  time trying to remember what it was like to have skin that didn't look like three month old roadkill
  in July. Get out of here, you fucking freak.}
-{375}{}{Okay.}
+{375}{}{Okej.}
 {380}{}{Wh'what d'do you w'want me to do?}
 {381}{}{Lenny, I know you're really trying. But please get out of my way.}
 {382}{}{I need you to fight differently, Lenny.}
@@ -164,7 +164,7 @@
 {424}{}{Never mind.}
 {430}{}{I g'guess you c'can teach an old d'dog new tricks. What a k'kick.}
 {431}{}{I j'jist c'can't seem to g'get the hang of it, somehow.}
-{432}{}{Okay.}
+{432}{}{Okej.}
 {440}{}{Oh, Okay. I'll w'wait right here until you g'get back. G'give me a chance to r'rest my aching
  j'joints.}
 {441}{}{You do that, Lenny. Goodbye.}
@@ -217,7 +217,7 @@
 {1400}{}{I need healing now or I'm g'gonna die.}
 {1500}{}{Oh, okay. I'll w'wait right here until you g'get back. G'give me a chance to r'rest my aching
  j'joints.}
-{1600}{}{Okay.}
+{1600}{}{Okej.}
 {1700}{}{I'll s'stick c'close to you.}
 {1800}{}{I g'guess we d'don't want to m'make too easy a t'target huh?}
 {1900}{}{Okay, I'll s'stay a b'bit farther off. S'seems like people mostly want to k'kill you, anyways.}

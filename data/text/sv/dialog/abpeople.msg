@@ -8,7 +8,7 @@
 {107}{}{You really showed those Enclave bastards!}
 {108}{}{You are truly a hero!}
 {109}{}{I've heard that you destroyed the Enclave, well done!}
-{110}{}{Hello.}
+{110}{}{Hej.}
 {111}{}{I hope that it starts to rain soon, or my crops will not survive.}
 {112}{}{We don't get too many visitors here.}
 {113}{}{Welcome!}

@@ -13,7 +13,7 @@
 {115}{}{Great, an idiot. Look, pal, just go down those stairs there and maybe they can adjust your neurodynes and make something useful of you. Until then, though, I'm busy. Now go.}
 {116}{}{Oh-tay!}
 {117}{}{Take it downstairs. Show it to AHS-7, who has gate duty right now, and he'll take it for you or send you on to AHS-9. Now can I get back to work, meat?}
-{118}{}{Sure.}
+{118}{}{Visst.}
 {119}{}{You're not one of the brethren, and you're therefore not authorized to be here. Unless you're planning on joining us - which you may do by expressing your interest to AHS-7, who is at the guard post. Now, either get downstairs or get out of here.}
 {120}{}{Fine, fine. No need to get testy.}
 {121}{}{Actually, it is my business. This is my ship and these are my guards - now, who are you and what are you doing here?}

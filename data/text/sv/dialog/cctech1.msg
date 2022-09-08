@@ -34,7 +34,7 @@
 {139}{}{Thanks.}
 {140}{}{Thanks.}
 {141}{}{They would be located in maintenance, next to air traffic control. }
-{142}{}{Okay.}
+{142}{}{Okej.}
 {143}{}{Got it.}
 {153}{}{Are you nuts, walking around here out of uniform? Get suited up!}
 {154}{}{If the sergeant catches you out of uniform he'll hand you your ass.}

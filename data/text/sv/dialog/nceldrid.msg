@@ -89,10 +89,10 @@
 {370}{}{Expand the magazine of the AK-112 assault rifle.}
 {371}{}{Attach that low-light scope on the FN FAL.}
 {385}{}{You want that cattleprod juiced up? I can SUPERCHARGE it for $}
-{386}{}{Sure.}
+{386}{}{Visst.}
 {395}{}{(Eldridge takes the item, examines it critically.) Awright... you just hold on for a bit, and I'll see what I can do.
  (He disappears into the back.)}
-{396}{}{Okay.}
+{396}{}{Okej.}
 {400}{}{(You wait...)}
 {401}{}{Wait...}
 {405}{}{(And wait some more...)}

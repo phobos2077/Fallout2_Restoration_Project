@@ -26,7 +26,7 @@
 {124}{}{Well, I have other questions for you.}
 {125}{}{Sounds great. Bye.}
 {126}{}{Promise not to laugh.}
-{127}{}{Okay.}
+{127}{}{Okej.}
 {128}{}{No, forget it.}
 {129}{}{The Hub recruiter, Vikki Goldman. I saw one of her movies up in Canada, and I just knew that she'd fall in love with me. It hasn't happened yet, but I'm working on it.}
 {130}{}{I'll keep it under my hat. I have some more questions.}
@@ -56,7 +56,7 @@ Oh well.
 {151}{}{Good luck. See ya!}
 {152}{}{There. Teach these bastards to use and reject me. Goodbye.}
 {153}{}{Well, I was really just kidding. She didn't actually say that.}
-{154}{}{Goodbye.}
+{154}{}{Farväl.}
 {155}{}{She didn't say that. Oh good.}
 {156}{}{So, I've done all this harm for nothing. I'm going to kill you now.}
 {157}{}{Try it.}

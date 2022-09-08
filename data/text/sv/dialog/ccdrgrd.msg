@@ -16,7 +16,7 @@
 {115}{}{I have business with the commander.}
 {116}{}{All right.}
 {117}{}{What is the nature of your business, sir?}
-{118}{}{Uh...}
+{118}{}{Eh...}
 {119}{}{Shit. Me screw up...}
 {120}{}{Never mind. Me go.}
 {121}{}{Well...}
@@ -38,12 +38,12 @@
 {137}{}{Nobody come here? Ever?}
 {138}{}{Nobody sees him?}
 {139}{}{(quietly) Nobody. Well, just the cleaning crew. They usually come by here in an hour or so. Other than that, this place is off limits. Now, you better head on out.}
-{140}{}{Okay.}
+{140}{}{Okej.}
 {141}{}{(speaking to self) Commander. Cleaning detail is here, sir. (pause) Yes, sir. (looking at you) Go on in.}
 {142}{}{You're early. Come back later.}
-{143}{}{Okay.}
+{143}{}{Okej.}
 {144}{}{Then get back to comm center and have them print the order.}
-{145}{}{Okay.}
+{145}{}{Okej.}
 {146}{}{You must be looking for the armory. Go back down the hall, turn right, and it's the first door on the left. You'll get your issue there.}
 {147}{}{Thanks.}
 {148}{}{Who the hell are you guys... Alert! Intruders!}

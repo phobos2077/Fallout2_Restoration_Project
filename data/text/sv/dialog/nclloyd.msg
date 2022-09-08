@@ -171,7 +171,7 @@
 {609}{}{Well, stand back and let me dig it out...}
 {610}{}{Get outta here, Lloyd. This money's mine now.}
 {615}{}{(Looks winded.) As... part of your... guard duties, I'd... be grateful if you'd... dig it up.}
-{616}{}{Uh...}
+{616}{}{Eh...}
 {617}{}{There's two types of people in this world, Lloyd. Those with loaded guns and those that dig.}
 {620}{}{All right then, I'll do it...}
 {625}{}{(Lloyd mumbles under his breath, then proceeds to dig.)}

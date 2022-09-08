@@ -71,7 +71,7 @@
 {318}{}{Let me show you...}
 {319}{}{Uh oh...}
 {320}{}{I tookie when yoo no lookie.}
-{321}{}{Uh...}
+{321}{}{Eh...}
 {325}{}{Square and fair, my lily white ASS! Boy, you gone and done signed yore own death warrant!}
 {326}{}{Square and fair, my lily white ASS! Girlie, you gone and done signed yore own death warrant!}
 {335}{}{What? (Blinks) You talkin' about givin' me my winnings back? All 500 chips?}

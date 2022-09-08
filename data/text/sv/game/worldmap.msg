@@ -1,4 +1,4 @@
-{200}{}{Bridge}
+{200}{}{Bro}
 {201}{}{Village}
 {202}{}{Temple Entrance}
 {203}{}{Wilderness}
@@ -21,7 +21,7 @@
 {240}{}{Courtyard}
 {241}{}{Inner City}
 {242}{}{Council}
-{243}{}{Vault}
+{243}{}{Valv}
 {250}{}{Settlement}
 {251}{}{Power Plant}
 {252}{}{Junkyard}
@@ -144,7 +144,7 @@
 {521}{}{Big Head}
 {530}{}{Crash Site}
 {540}{}{Desert}
-{550}{}{Bridge}
+{550}{}{Bro}
 {560}{}{Cafe of Broken Dreams}
 {570}{}{Desert}
 {580}{}{Cavern}

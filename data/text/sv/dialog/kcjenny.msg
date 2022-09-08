@@ -31,7 +31,7 @@
 {291}{}{Tell me about trappers.}
 {292}{}{I'm looking for a trader. Know any of them that deal in old items, like from the beforetimes?}
 {293}{}{Do you happen to know how to get to the Den from here?}
-{294}{}{Bye.}
+{294}{}{Hej då.}
 {295}{}{Jenny, have you ever heard of something called a GECK?}
 {300}{}{Well, there's not much to tell about the trappers, really. They get a few gecko pelts... or get
  lucky with a few golden geckos... and then they come in to blow off some steam. Quick and not too

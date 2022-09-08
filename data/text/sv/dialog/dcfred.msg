@@ -45,7 +45,7 @@
 {297}{}{I'm here to collect some money you owe someone.}
 {298}{}{Never mind.}
 {299}{}{Uk!}
-{300}{}{Bye.}
+{300}{}{Hej då.}
 {310}{}{HEY! There you are! I've been looking all over for you! Check out these threads!}
 {311}{}{Thanks again.}
 {312}{}{Looking very nice.}
@@ -67,13 +67,13 @@
 {351}{}{Thanks!}
 {352}{}{What ever.}
 {360}{}{Thanks a lot for covering for me. It really meant a lot to me, to be trusted by a complete stranger. Let me give you this.}
-{361}{}{Okay.}
+{361}{}{Okej.}
 {362}{}{You shouldn't have.}
-{363}{}{Uh.}
+{363}{}{Eh.}
 {370}{}{I owe you a lot. You trusted me when I was down on my luck. As a small gesture of gratitude I have something for you.}
-{371}{}{Okay.}
+{371}{}{Okej.}
 {372}{}{You shouldn't have.}
-{373}{}{Uh.}
+{373}{}{Eh.}
 {380}{}{Here. [Fred give you $1000.] I hope this helps. I'm sure you'll find someplace to spend it.}
 {381}{}{Sorry, I can't accept this.}
 {382}{}{Thanks.}
@@ -85,7 +85,7 @@
 {393}{}{Not really, but I'll take it.}
 {394}{}{Yum.}
 {400}{}{What? Well, okay, if you insist. Thank you so very much. Take good care of yourself.}
-{401}{}{Bye.}
+{401}{}{Hej då.}
 {410}{}{What? You doing some strange drug? You don't look like a jethead. Get away from me you freak.}
 {411}{}{Beat it!}
 {412}{}{Ug.}
@@ -123,7 +123,7 @@
 {502}{}{No problem.}
 {503}{}{You better pay me back.}
 {510}{}{Oh, don't worry. I will! You have my word and I won't forget about it this time!}
-{511}{}{Okay.}
+{511}{}{Okej.}
 {520}{}{Say, you know what? That hundred's really going to uh... delay things. Do you think I could borrow a little bit back?}
 {521}{}{How much?}
 {522}{}{No way.}
@@ -133,12 +133,12 @@
 {540}{}{Just $50. Please! It's all part of the master plan!}
 {541}{}{All right.}
 {542}{}{But that'll only leave me with $50 to pay your $200 loan.}
-{543}{}{No.}
+{543}{}{Nej.}
 {550}{}{Wha- uh... Damn! You won't regret this! I'm good for it!}
 {551}{}{No problem.}
 {560}{}{Uh, yeah. I see your math skills- I mean, please! It's not much to you I'm sure, but it's a hell of a lot for me.}
-{561}{}{Okay.}
-{562}{}{No.}
+{561}{}{Okej.}
+{562}{}{Nej.}
 {570}{}{Yeah, sure she did. Everyone knows she hates that name. You're not fooling me!}
 {571}{}{I don't owe her anything.}
 {572}{}{She said you were forgetful.}
@@ -152,7 +152,7 @@
 {592}{}{Just give me the money.}
 {600}{}{Leave me alone.}
 {601}{}{Whatever.}
-{602}{}{Okay.}
+{602}{}{Okej.}
 {610}{}{Uh. Hi again. So, uh, I suppose you want the money. Do you think you could cover me for half?}
 {611}{}{No, sorry.}
 {612}{}{If she lent you $200, you'll pay it.}

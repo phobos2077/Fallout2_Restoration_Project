@@ -25,12 +25,12 @@
 {123}{}{Guarding mother is a position of great responsibility. You must be an important pack member.}
 {124}{}{I guess I'll be leaving now.}
 {125}{}{You wait. I ask mother.}
-{126}{}{Okay.}
+{126}{}{Okej.}
 {127}{}{Mother say she talk to you. You go in. You not cause trouble. I not want hurt you, but I hurt
  you bad if you cause trouble.}
 {128}{}{Mother say she talk to you. You go in but you go alone; friends stay here. You not cause
  trouble. I not want hurt you, but I hurt you bad if you cause trouble.}
-{129}{}{Okay.}
+{129}{}{Okej.}
 {130}{}{You think so? I not look at it that way. That make me feel good. I like. Thank you.}
 {131}{}{You welcome. Me go now.}
 {132}{}{Me want talk mother.}

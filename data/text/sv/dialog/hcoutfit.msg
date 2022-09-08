@@ -39,10 +39,10 @@
 {133}{}{Not interested? All right. Come back when I can do something for you.}
 {134}{}{Okay!}
 {135}{}{Well, actually, I was interested in something else.}
-{136}{}{Bye.}
+{136}{}{Hej då.}
 {137}{}{All right. Gecko it is. Come back on the 1st of the month and you'll be on your way. Want anything else?}
-{138}{}{Yes.}
-{139}{}{No.}
+{138}{}{Ja.}
+{139}{}{Nej.}
 {140}{}{All right. The Republic it is. Come back on the 11th of the month and you'll be on your way. Want anything else?}
 {141}{}{All right. Vault City it is. Come back on the 21st of the month and you'll be on your way. Want anything else?}
 {142}{}{What do you want?}
@@ -78,7 +78,7 @@
 {166}{}{I'm off duty now. Talk to me when I'm at the shop.}
 {167}{}{He had it coming? You piece of crap, money ain't worth killing over. Get the hell out of my
  store.}
-{168}{}{Bye.}
+{168}{}{Hej då.}
 {169}{}{Any trouble he's in, he made for himself. Too bad... he was a hell of a caravan master. You want
  something?}
 {170}{}{Out of my store. Y'ain't wanted here.}

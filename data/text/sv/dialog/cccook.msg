@@ -37,7 +37,7 @@
 {137}{}{Raul, the vertibird mechanic, doesn't like Quincy, the head of maintenance. Those two are always
  getting into it. I don't think it's a case of professional rivalry either. Anyway, Raul's an arrogant
  ass but Quincy's an okay kind of guy. I hope he wins in the end.}
-{138}{}{Okay.}
+{138}{}{Okej.}
 {139}{}{Yeah, I hear you.}
 {140}{}{Med lab's been taken over by an Enclave egghead named Schreber. Mean son of a bitch; don't care
  for nothing or nobody. He's been doing some sort of experiments on deathclaws down there, don't know
@@ -49,7 +49,7 @@
 {145}{}{Nah, that's it around this place. If I hear anything more I'll let ya know. I like talking about it just as much as I like hearing it!}
 {146}{}{Thanks.}
 {147}{}{Why ya interested in those? Oh well, no matter. Quincy keeps them over in maintenance I think. }
-{148}{}{Okay.}
+{148}{}{Okej.}
 {149}{}{Where that?}
 {150}{}{I see.}
 {151}{}{Where's that?}
@@ -79,7 +79,7 @@
 {173}{}{Little lady, I can tell from the smell that you're not wearin' one of them powered armor suits.
  If the Sarge sees you out of uniform you're screwed. And I ain't talking the type of screwing that feels good. Now get your ass down to supply and suit up.}
 {174}{}{Where that?}
-{175}{}{Okay.}
+{175}{}{Okej.}
 {176}{}{Where's that?}
 {177}{}{I'll take care of it.}
 {178}{}{Take the elevator in the next room down, follow the hall to the main junction, turn left, and it's the first door on your left. Off you go.}

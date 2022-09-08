@@ -25,7 +25,7 @@
 {130}{}{Uh... yeah.}
 {131}{}{Good. Keep up the good work.}
 {132}{}{Soldier, that information is on a "need to know"-only basis. If you have to ask the question then you don't need to know.}
-{133}{}{Okay.}
+{133}{}{Okej.}
 {134}{}{Come on, it's not like I'm some damn tribal or something. We're in the same outfit; notice the insignia on the armor?}
 {135}{}{I understand.}
 {136}{}{Yes, sir. The main base is located off the Pacific coast near the city of San Francisco. May I inquire why you are asking, sir?}
@@ -36,7 +36,7 @@
 {141}{}{Thanks.}
 {142}{}{Thanks.}
 {143}{}{They would be located in maintenance, next to air traffic control. }
-{144}{}{Okay.}
+{144}{}{Okej.}
 {145}{}{Got it.}
 {155}{}{Are you nuts, walking around here out of uniform? Get suited up!}
 {156}{}{If the sergeant catches you out of uniform he'll hand you your ass.}

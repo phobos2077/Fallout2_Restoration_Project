@@ -170,7 +170,7 @@
 {233}{}{I'm interested in getting something here.}
 {234}{}{What's going on in this town?}
 {300}{}{You helped cure Fannie's addiction.}
-{301}{}{Goodbye.}
+{301}{}{Farväl.}
 {310}{}{I may have something that can help Fannie. [Give Lou the Jet antidote]}
 {1103}{}{Hello there. I'm Lou. Owner of the Malamute Saloon, finest house north of San Fran.
  I just want you to know that I'm thankful for what you did. How can I help you?}

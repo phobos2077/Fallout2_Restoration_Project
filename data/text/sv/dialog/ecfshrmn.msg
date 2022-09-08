@@ -21,7 +21,7 @@
 {114}{}{Fruit [$5]}
 {115}{}{Xander [$20]}
 {116}{}{Broc [$10]}
-{117}{}{Bye.}
+{117}{}{Hej då.}
 {118}{}{[He points you in the direction of the sea.] Just keep walking. The Goddess wishes to meet you
  personally.}
 {119}{}{[End]}

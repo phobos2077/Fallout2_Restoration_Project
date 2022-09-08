@@ -94,12 +94,12 @@
 {324}{}{Good, you can leave now.}
 {325}{}{Get a move on it then.}
 {326}{}{Good. See me when you're done.}
-{327}{}{Okay.}
-{328}{}{Uh.}
+{327}{}{Okej.}
+{328}{}{Eh.}
 {340}{}{Just kill all the hostile ones. If they attack you, kill them. I don't
  want to deal with them anymore, too big of a fucking hassle. Once you're done,
  the other slavers will round up and tag the rest.}
-{341}{}{Okay.}
+{341}{}{Okej.}
 {342}{}{Oh.}
 {350}{}{Once they start tagging the slaves, you can head back if you like. It takes
  special training, so don't try to subdue the others yourself. You can do whatever
@@ -116,11 +116,11 @@
 {365}{}{Another primitive. This one's a freak show. Still, he looks strong and that look might fetch something extra. $}
 {366}{}{How about someone else?}
 {367}{}{Well, let me ask you another question then.}
-{368}{}{Okay.}
+{368}{}{Okej.}
 {369}{}{Fine.}
-{370}{}{Okay.}
+{370}{}{Okej.}
 {371}{}{Not worth it.}
-{372}{}{No.}
+{372}{}{Nej.}
 {380}{}{All right, boys, put him in the pens.}
 {381}{}{All right, boys, put her in the pens.}
 {382}{}{Right, boss.}
@@ -171,7 +171,7 @@
 {477}{}{Thanks.}
 {485}{}{The Enclave and New... Hey, what the hell you care for? It's business. I need to be sure no one's trying to fuck me over. That's all you need to know.}
 {486}{}{Mind your own business.}
-{487}{}{Okay.}
+{487}{}{Okej.}
 {495}{}{Sure, but it'll cost you $}
 {496}{}{$}
 {497}{}{Can't we work something out?}
@@ -253,7 +253,7 @@
 {711}{}{What?}
 {712}{}{Oh boy...}
 {720}{}{I'm glad we're in agreement. [Metzger looks to his guards.] Men, it's payday.}
-{721}{}{Uh...}
+{721}{}{Eh...}
 {730}{}{Yes. It's a shame really. This person just doesn't seem to get it, but
  I think they are about to. [You see Metzger making a small hand gesture to his
  men.] Play time.}

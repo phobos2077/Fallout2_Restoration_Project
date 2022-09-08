@@ -20,7 +20,7 @@
 {116}{}{}
 {117}{}{I'd like to know who you are and what is going on here.}
 {118}{}{Really? Awesome! Let's go.}
-{119}{}{Okay.}
+{119}{}{Okej.}
 {120}{}{In a nutshell, my name is Chrissy and I'm from the Squat. I was out exploring last week when I
  found that entrance out there. I thought it might be an abandoned mine or something, so I decided to
  check it out. Well, it's not a mine; it's a secret entrance into Vault 15. The vault is being

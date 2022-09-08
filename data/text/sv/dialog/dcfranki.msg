@@ -2,7 +2,7 @@
 {101}{}{You see Frankie, owner of The Hole.}
 {150}{}{This appears to be the owner of this place.}
 {151}{}{This is Frankie. He owns this joint.}
-{152}{}{[TALK]}
+{152}{}{[TALA]}
 {153}{}{I'm Frankie and yer standing in 'The Hole.' Best damn bar for
  a hundred miles! Everyone crawls into The Hole when it's time to let loose.
  Now don't you be causing too much trouble, y'hear?}
@@ -28,7 +28,7 @@
 {173}{}{Why does your whiskey cost so much more than Becky's?}
 {174}{}{No thanks.}
 {175}{}{Anything else?}
-{176}{}{Yes.}
+{176}{}{Ja.}
 {177}{}{Nope, thanks.}
 {178}{}{You don't have enough money! This ain't no charity!}
 {179}{}{Oh, sorry. I'm low on funds.}
@@ -78,7 +78,7 @@
 {223}{}{No, I won't. Good bye.}
 {224}{}{Maybe you're right. I'll talk to her. Thanks.}
 {225}{}{Hey, what are friends for?}
-{226}{}{Bye.}
+{226}{}{Hej då.}
 {227}{}{Information I do not have.}
 {228}{}{Really? How about why Becky's drinks are so much cheaper than yours?}
 {229}{}{I thought bartenders knew everything.}
@@ -98,7 +98,7 @@
 {244}{}{You were the best I ever had. Really. I mean that.}
 {245}{}{I hate to eat and run, but...}
 {246}{}{Well, see you later.}
-{247}{}{Bye.}
+{247}{}{Hej då.}
 {248}{}{Yeah, whatever. Just clean up after yourself this time, will ya?}
 {249}{}{Hey, everyone! Let's hear it for Billy. He's actually getting some!}
 {250}{}{You need a mop?}

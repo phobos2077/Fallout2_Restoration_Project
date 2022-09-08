@@ -115,14 +115,14 @@
 {232}{}{Nothing. Forget it.}
 {233}{}{I hope you don't mind me saying that the folks 'round here are a little pissed off that you
  kept that uranium for yourself. You been warned. Anyway... ready for a drink?}
-{234}{}{Yes.}
+{234}{}{Ja.}
 {235}{}{No. But I have some questions.}
 {236}{}{Some folks might be a tad pissed off about Chad. You been warned. Ready for a drink?}
-{237}{}{Yes.}
+{237}{}{Ja.}
 {238}{}{No. But I have some questions.}
 {239}{}{All the mutants are dead. Someone blew up the damn mine while they were in it. Some bastard must have
  cried wolf and they all just came running to help. I just don't understand some people. Hell... Can I get you a drink?}
-{240}{}{Yes.}
+{240}{}{Ja.}
 {241}{}{No. But I have questions.}
 {242}{}{Get out of my bar. Now. Scumbag.}
 {300}{}{!}

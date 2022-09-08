@@ -2,9 +2,9 @@
 {101}{}{You see Mynoc, the bridge guard.}
 {150}{}{Before you stands a large warrior of your village,
  holding a spear.}
-{151}{}{[TALK]}
+{151}{}{[TALA]}
 {152}{}{Hello, Chosen One. Off to find the GECK?}
-{153}{}{Yes.}
+{153}{}{Ja.}
 {154}{}{Yes. But before I go, I would like to ask you some
  questions.}
 {155}{}{Not just yet. I'm going to look around a little
@@ -20,7 +20,7 @@
 {162}{}{Very well, but don't waste too much time. Without the GECK,
  we're doomed.}
 {163}{}{I know, don't worry -- I've got it all under control.}
-{164}{}{Why?}
+{164}{}{Varför?}
 {165}{}{I must be going. Goodbye.}
 {166}{}{The traders? They come from Klamath about every two months. There
  won't be another here for a month or more, but Klamath's only a few days
@@ -34,7 +34,7 @@
 {171}{}{Thank you. I must be going. Goodbye.}
 {172}{}{I hope you do.}
 {173}{}{Your overconfidence makes all of us suffer! Goodbye!}
-{174}{}{Goodbye.}
+{174}{}{Farväl.}
 {175}{}{Why? Look around you -- our village dies. The gardens wither and
  every day children and old ones collapse. You must bring Eden to us before
  it is too late!}
@@ -53,11 +53,11 @@
 {183}{}{I will speak to you no longer, insubordinate pig!}
 {184}{}{I would like to ask you another question.}
 {185}{}{That was quick! Have you found the holy Vault 13?}
-{186}{}{Yes.}
+{186}{}{Ja.}
 {187}{}{No, not yet.}
 {188}{}{You have? Wonderful! Did you bring back the
  GECK?}
-{189}{}{No.}
+{189}{}{Nej.}
 {190}{}{No. I haven't spoken to the people of the vault yet.}
 {191}{}{I don't believe that's any business of yours, my friend.}
 {192}{}{No? Chosen One, three old ones have died since you left. You must
@@ -71,7 +71,7 @@
 {199}{}{I have found the vault!}
 {200}{}{I have not been able to find Vault 13.}
 {201}{}{Well, look, it's the Chosen One.}
-{202}{}{Hello.}
+{202}{}{Hej.}
 {203}{}{Shut up.}
 {204}{}{Can I ask you a question?}
 {205}{}{No, I've no time for you.}
@@ -190,17 +190,17 @@
 {660}{}{[Mynoc nods grimly.] He may have strayed from the path, but he was once a great and respected warrior. I hope his troubled soul has found peace in the next world.}
 {661}{}{Indeed. I'll see you around, Mynoc.}
 {662}{}{Whatever. He seemed like an asshole to me. I'll see you around, Mynoc.}
-{1000}{}{Elder}
-{1001}{}{Founder}
+{1000}{}{Äldste}
+{1001}{}{Grundare}
 {1002}{}{Vault Dweller}
 {1003}{}{Arroyo}
 {1004}{}{Klamath}
-{1005}{}{Vault}
+{1005}{}{Valv}
 {1006}{}{Chosen One}
 {1007}{}{Shaman}
 {1008}{}{Hakunin}
 {1009}{}{Healing Powder}
-{1010}{}{Bridge}
+{1010}{}{Bro}
 {1011}{}{Mynoc}
 {1100}{}{The Elder is your mother and our leader.}
 {1101}{}{Our great ancestor who gave us knowledge.}

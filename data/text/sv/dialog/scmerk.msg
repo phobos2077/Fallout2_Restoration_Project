@@ -34,7 +34,7 @@
 {133}{}{Some say you might know a thing or two about, oh say, stuff missing from cars.}
 {134}{}{You again? So's the job done?}
 {135}{}{Glub.}
-{136}{}{No.}
+{136}{}{Nej.}
 {137}{}{I got some questions.}
 {138}{}{Hmm... Strong. Dumb... If you want a job, talk to Mira. Understand? Mi-ra. Over there.}
 {139}{}{Like making noises? Will somebody get this brahmin turd out of here?}
@@ -135,7 +135,7 @@
 {234}{}{Your feeble attempts to intimidate me are almost amusing, but now I suggest you leave before I tire of this game.}
 {235}{}{Ah, I've heard the news. You still interested in a job?}
 {236}{}{Yeah, I'm tired of freebies. I could use the work.}
-{237}{}{No.}
+{237}{}{Nej.}
 {238}{}{What the hell you doing in my place?}
 {239}{}{I was out of line before. I won't do it again. I just want a little of your time.}
 {240}{}{I'll do what I want, you weasel.}
@@ -145,7 +145,7 @@
 {244}{}{That disappoints me. I normally remove things that disappoint me. However, in your case I can be generous. Just leave and don't come back and I'll forget all about it.}
 {245}{}{So, is that little business with Dr. Henry done?}
 {246}{}{Yeah, I got the papers you want.}
-{247}{}{No.}
+{247}{}{Nej.}
 {248}{}{Days like this make me so happy. Well, let's conclude our business.}
 {249}{}{It has come to my attention that the ingenious doctor expired during your visit. That was against my orders. To recoup future losses I think it will be necessary to receive a refund.}
 {250}{}{Look, I'll just give you 500 bucks and we'll forget the whole deal.}

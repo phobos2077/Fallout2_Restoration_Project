@@ -32,7 +32,7 @@
 {280}{}{Well, there's a church east of here. Metzger has some people guarding whatever
  is inside. Find out what and I'll pay you $200.}
 {281}{}{That was easy. I already know.}
-{282}{}{Sure.}
+{282}{}{Visst.}
 {283}{}{I'll see what I can do.}
 {290}{}{Thanks. Don't get in a fight... yet. I have a plan.}
 {291}{}{No problem.}
@@ -53,16 +53,16 @@
 {350}{}{Not sure exactly. Somewhere to the south I think. I've never been there, I just see their caravans stop by once in a while - once in a long while.}
 {351}{}{Oh, okay. Thanks.}
 {360}{}{You looking for some more quick and easy cash? $50. Easy money.}
-{361}{}{Sure.}
+{361}{}{Visst.}
 {362}{}{Make it quick.}
 {370}{}{I need you to check with Metzger to see if he'd be okay if Tyler and I settled some old matters. He'll understand what I mean.}
 {371}{}{Why do you want me to ask?}
 {372}{}{If I get a chance.}
-{373}{}{Okay.}
+{373}{}{Okej.}
 {380}{}{Because I don't want Tyler to see any of my people going into or out of Metzger's place. I don't want to tip our hand.}
 {381}{}{Don't you get it? If Tyler sees me all of a sudden talking to Metzger he might catch wind of something fishy.}
 {382}{}{We'll see.}
-{383}{}{Okay.}
+{383}{}{Okej.}
 {390}{}{So did you find out what's in there?}
 {391}{}{Raw chemical compounds in large crates.}
 {392}{}{Big containers holding chemicals of some kind.}
@@ -86,7 +86,7 @@
 {443}{}{Consider it done.}
 {450}{}{We'll give you $150. There's no way we can get close enough to find out by ourselves.}
 {451}{}{If I get around to it.}
-{452}{}{Okay.}
+{452}{}{Okej.}
 {460}{}{I don't know. That's why I'm asking you to help.}
 {461}{}{I'll try.}
 {462}{}{This is pointless.}
@@ -105,12 +105,12 @@
 {493}{}{Give me a bit to get ready.}
 {494}{}{No way. Keep your money!}
 {500}{}{Okay, but we've got to act soon so don't take too long or we'll ruin our chance.}
-{501}{}{Okay.}
+{501}{}{Okej.}
 {510}{}{You don't have to fight. Easy money.}
 {511}{}{Well, have you changed your mind?}
 {512}{}{Let's go. I'm ready.}
 {513}{}{Okay, I'll be right back.}
-{514}{}{No.}
+{514}{}{Nej.}
 {515}{}{Uk}
 {520}{}{Because of you we blew our chance.}
 {521}{}{Coward!}

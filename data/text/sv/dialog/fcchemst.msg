@@ -68,7 +68,7 @@
 {167}{}{I'm here to obtain fuel for the Hubologists.}
 {168}{}{Nothing. Sorry.}
 {169}{}{We're all out of fuel now. I can't help you with anything else. I'm too busy with this armor. Good day.}
-{170}{}{Bye.}
+{170}{}{Hej då.}
 {171}{}{. I'm just looking around.}
 {172}{}{, do you actually have business here?}
 {173}{}{ would be nice.}

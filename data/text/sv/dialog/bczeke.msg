@@ -32,7 +32,7 @@
 {127}{}{I guess that's it. I'll be going now.}
 {128}{}{Yes, I do. I act as the middle man between him and the people up here. I'm not very happy about
  the fact, now that I know what he's up to.}
-{129}{}{Okay.}
+{129}{}{Okej.}
 {130}{}{I see.}
 {131}{}{Nothing. They have the guns, they control the water, and they control the food. That means
  they are in charge. Period. We have no skills and no means of support without the backing of Darion.
@@ -66,7 +66,7 @@
 {150}{}{Well, take the time to think about it, but know this -- until Darion is out of the picture, I
  have no choice but to maintain things around here as they are. It's for the safety of everyone
  concerned. That means no deal and you are still persona non grata. Understand?}
-{151}{}{Okay.}
+{151}{}{Okej.}
 {152}{}{Hi. I'm still waiting for a final resolution to our troubles. In other words, kick Darion's ass!}
 {153}{}{Färdigt.}
 {154}{}{You've done it, friend! We're no longer under Darion's yoke. Thank you! I'm ready to accept your deal with NCR now.

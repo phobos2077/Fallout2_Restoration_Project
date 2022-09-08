@@ -23,8 +23,8 @@
 {122}{}{I heard there's these guys - New California Rangers. They been giving you any trouble?}
 {123}{}{Mind if I have a look around?}
 {124}{}{Work? Well... there might be something. You ever hear of the New California Rangers?}
-{125}{}{Yes.}
-{126}{}{No.}
+{125}{}{Ja.}
+{126}{}{Nej.}
 {127}{}{Fuck you. Boys, escort this annoying crud out of my sight.}
 {128}{}{Bite me!}
 {129}{}{Vault 13! Get outta here. Damn place is a myth. Vault 13, my ass.}
@@ -40,13 +40,13 @@
 {139}{}{Another question...}
 {140}{}{Whatever you say. I'll be going.}
 {141}{}{Yeah, I may have some feelings about the Rangers. You looking for work?}
-{142}{}{Yes.}
-{143}{}{No.}
+{142}{}{Ja.}
+{143}{}{Nej.}
 {144}{}{No, you may not go nosing around, shit-for-brains! This ain't a museum!}
 {145}{}{Another question...}
 {146}{}{You're too touchy for me. I'm leaving.}
 {147}{}{Well then, you should know some folks see them as a potential problem. It would be extremely useful if we had a map of their safe houses through the north - New Reno, Klamath, wherever. I'd be willing to pay, oh say, $500 for something like that. You think you could get that for me?}
-{148}{}{Sure.}
+{148}{}{Visst.}
 {149}{}{I don't think so.}
 {150}{}{Let me tell you, then. These Rangers have got it in their heads to wipe out slavery and slavers - by force. They've been creating a lot of trouble for hard working folks.}
 {151}{}{They work in secret, especially up north.}
@@ -62,8 +62,8 @@
 {161}{}{Just a few more questions.}
 {162}{}{Alright. I'll be back.}
 {163}{}{You're back again. Did you get that map?}
-{164}{}{Yes.}
-{165}{}{No.}
+{164}{}{Ja.}
+{165}{}{Nej.}
 {166}{}{I'm still waiting for you to finish the first job!}
 {167}{}{Oh yeah, I forgot.}
 {168}{}{Not since you did your job. Thanks.}
@@ -79,7 +79,7 @@
 {200}{}{Good work. One more thing though. You're a slaver, right? How 'bout you lend a hand and wipe out those safe houses for me. I could
  pay you for the job - say $1000.}
 {201}{}{Good work. One more thing though. You look like a mean sonuvabith. How 'bout you wipe out those safe houses for me. There's a reward for it - say $1000.}
-{202}{}{Sure.}
+{202}{}{Visst.}
 {203}{}{Not interested.}
 {204}{}{Excellent. Here, let me mark these coordinates on your map thingy. Report back when you're done.}
 {205}{}{Your loss. Now you best make yourself scarce, in case those Rangers ever wise up.}

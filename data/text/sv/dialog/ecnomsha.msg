@@ -5,7 +5,7 @@
 {104}{}{Hello again.}
 {105}{}{I am in need of healing.}
 {106}{}{Can you combine the Xander root and the Broc flower?}
-{107}{}{Bye.}
+{107}{}{Hej då.}
 {108}{}{Ooga.}
 {109}{}{Be still and I will examine you.}
 {110}{}{[Continue]}
@@ -15,7 +15,7 @@
 {114}{}{Please extract the poison from my body.}
 {115}{}{Please heal me.}
 {116}{}{See what you can do for my broken limb.}
-{117}{}{Bye.}
+{117}{}{Hej då.}
 {118}{}{You have been healed.}
 {119}{}{You have been healed.}
 {120}{}{You have been healed.}
@@ -31,7 +31,7 @@
 {129}{}{Maybe later, bye.}
 {130}{}{[You watch as he carefully crushes and combines the two plants, and then hands you precisely
  measured doses of the powder.]}
-{131}{}{Bye.}
+{131}{}{Hej då.}
 {132}{}{You seem to be short on cash. Return later when your purse is fatter.}
 {133}{}{[END]}
 {134}{}{I do not have time for such nonsense. Leave!}

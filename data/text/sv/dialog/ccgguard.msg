@@ -21,18 +21,18 @@
 {120}{}{Jag är ledsen, men jag har tappat bort mitt passerkort och jag vet inget om ett lösenord.}
 {121}{}{Screw you and everyone who looks like you!}
 {122}{gate5}{I suggest you leave this installation immediately and do not return here without proper authorization. Do I make myself clear?}
-{123}{}{Yes.}
+{123}{}{Ja.}
 {124}{gate6a}{Jag förstår. Kan jag få ditt lösenord?}
 {125}{gate6b}{I see. (places hand on weapon) All new recruits are to report for duty alone. I suggest you leave this installation immediately and do not return here with your entourage. Do I make myself clear?}
 {126}{}{Sheepshead.}
-{127}{}{Yes.}
+{127}{}{Ja.}
 {128}{gate7a}{One moment. (pause) Okay, you check out. Report to the drill chief. Go through the gate, past the kennel, and it's the first door on the right.}
 {129}{gate7b}{(mumbles) Damn jarheads are getting dumber by the hour.}
 {130}{}{Ok.}
 {131}{gate8a}{Halt! -- Åh. Jag ser att du har återvänt och att du är ensam den här gången. Okej, rekryten, vad är lösenordet?}
 {132}{gate8b}{Halt! -- You again. I see you've still got your group with you. (places hand on weapon) I suggest you leave this installation immediately and do not return here. Do I make myself clear?}
 {133}{}{Sheepshead.}
-{134}{}{Yes.}
+{134}{}{Ja.}
 {135}{gate9}{Halt! -- Tillbaka igen, va? Det är bäst att du har ditt passerkort eller kan ditt lösenord den här gången. Nå, jag väntar?}
 {136}{}{Uh... me not know. Me come back.}
 {137}{}{Screw this. Me walk in over you dead body.}

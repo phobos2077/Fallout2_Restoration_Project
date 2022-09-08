@@ -73,17 +73,17 @@
 {221}{}{Do you like me?}
 {222}{}{Are you married?}
 {223}{}{One, two, three - weee!}
-{1000}{}{Elder}
-{1001}{}{Founder}
+{1000}{}{Äldste}
+{1001}{}{Grundare}
 {1002}{}{Vault Dweller}
 {1003}{}{Arroyo}
 {1004}{}{Klamath}
-{1005}{}{Vault}
+{1005}{}{Valv}
 {1006}{}{Chosen One}
 {1007}{}{Shaman}
 {1008}{}{Hakunin}
 {1009}{}{Healing Powder}
-{1010}{}{Bridge}
+{1010}{}{Bro}
 {1011}{}{Mynoc}
 {1100}{}{The Elder is your mother and our leader.}
 {1101}{}{Our great ancestor who gave us knowledge.}

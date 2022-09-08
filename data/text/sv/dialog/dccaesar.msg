@@ -1,6 +1,6 @@
 {100}{}{You see a member of the Slaver's Guild.}
 {150}{}{You see Metzger, head of the Slaver's Guild.}
-{151}{}{[TALK]}
+{151}{}{[TALA]}
 {152}{}{Guards! Attack!}
 {153}{}{[done]}
 {154}{}{Come back in the morning damn it! I do my business during the day.}

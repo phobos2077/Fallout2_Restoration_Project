@@ -31,10 +31,10 @@
 {130}{}{If you wish to see the Emperor then you must give me your own name.}
 {131}{}{Oh. Right. I'm}
 {132}{}{Sure. My name is}
-{133}{}{Yes.}
+{133}{}{Ja.}
 {134}{}{Forget it.}
 {135}{}{Not everyone is granted a chance to see the Emperor. You must first prove your worth. Are you willing to prove yours?}
-{136}{}{Yes.}
+{136}{}{Ja.}
 {137}{}{No. I've had enough tests in the last several months to last me a lifetime.}
 {138}{}{I do not believe the Emperor would like to see you. I have been told to forbid entrance to those who offend me or who reek of evil. You do both, traveler. Good day.}
 {139}{}{[DONE]}
@@ -43,7 +43,7 @@
 {142}{}{Fine.}
 {143}{}{The Emperor remains hidden from prying eyes. As my job is to act as the Emperor's screen, I cannot and will not tell you where he is.}
 {144}{}{I have more questions.}
-{145}{}{Bye.}
+{145}{}{Hej då.}
 {146}{}{We do research that will change the world. For more answers to your questions, you should seek out Dr. Wong Yi Tze. }
 {147}{}{I will. And I have more questions.}
 {148}{}{I will. Bye.}
@@ -86,14 +86,14 @@
 {185}{}{Guards! The enemy is among us! Guards!}
 {186}{}{Have they really? Perhaps you would like to turn the tables on them? I can promise you our aid if you will agree to kill AHS-9. }
 {187}{}{He's as good as dead.}
-{188}{}{No.}
+{188}{}{Nej.}
 {189}{}{Excellent. I hope to hear of your success soon.}
 {190}{}{You will. I have more questions.}
 {191}{}{You will. Bye.}
 {192}{}{Then in that case, you can only be an enemy. Good day.}
 {193}{}{Good day.}
 {194}{}{With the death of AHS-9, the Great and Terrible, the Hubologists pose no real threat to us and our researches. Well done. You have our gratitude. Would you like to speak to the Emperor?}
-{195}{}{Yes.}
+{195}{}{Ja.}
 {196}{}{Not right now. I have other questions, though.}
 {197}{}{Du har visat att du är en vän till Shi. Jag tror att jag kan lita på dig när det gäller våra hemligheter. I det bakre rummet kommer du att finna att kraftfältet till den stora datorn har stängts av. Skriv in lösenordet "CSPDMSHR-Shih-huang-ti-X9372" och du kommer att finna dig själv ansluten till kejsardatorn. Jag hoppas att detta kommer att vara till nytta för dig.}
 {198}{}{The Emperor is a COMPUTER?}

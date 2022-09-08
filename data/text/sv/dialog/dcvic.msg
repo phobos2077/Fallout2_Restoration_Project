@@ -2,7 +2,7 @@
 {101}{}{You see Vic.}
 {150}{}{This slave seems to be kept under tight surveillance.}
 {151}{}{This is Vic.}
-{152}{}{[TALK]}
+{152}{}{[TALA]}
 {153}{}{Would you tell him I can't... wait. Who are you? You're not a
  slaver. What are you doing here?}
 {154}{}{My name is }
@@ -36,7 +36,7 @@
 {177}{}{That's great! I'll have the radio fixed in no time.}
 {178}{}{Okay, I'll talk to Metzger.}
 {179}{}{Thanks.}
-{180}{}{Bye.}
+{180}{}{Hej då.}
 {181}{}{Pardon? I'm sorry but I don't understand.}
 {182}{}{hurm.}
 {183}{}{Thank you! I'm forever in your debt. What can I do to repay you?}
@@ -104,7 +104,7 @@
 {803}{}{I doubt it. Good luck.}
 {810}{}{Why'd you kill poor Mom... I guess you had your reasons... I'm sorry, Boss. It's not my place to question you. This is a pretty bad town. I'm sure she did something pretty bad.}
 {811}{}{Hey, Boss. Thanks for getting me out of that mess with Metzger. You need anything? Mom's been kind enough to feed me while you've been gone. I help her around the place...}
-{812}{}{Bye.}
+{812}{}{Hej då.}
 {813}{}{Oooh.}
 {814}{}{Beiye}
 {823}{}{Where is your friend Ed, again?}

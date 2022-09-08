@@ -37,10 +37,10 @@
 {133}{}{Great. Bye.}
 {134}{}{Good luck getting it refined any place else. The process is dangerous -- only a professional
  should do it. You want it or not?}
-{135}{}{Yes.}
-{136}{}{No.}
+{135}{}{Ja.}
+{136}{}{Nej.}
 {137}{}{Fine. You don't have any business here. Please leave so we can get our jobs done.}
-{138}{}{Bye.}
+{138}{}{Hej då.}
 {139}{}{That's ridiculous. We're not giving you any.}
 {140}{}{Then die.}
 {141}{}{Fine. Bye.}
@@ -55,7 +55,7 @@
 {148}{}{No way.}
 {149}{}{Sure. Don't worry about the extra $500. You probably need it more than I do.}
 {150}{}{Fine. Be that way. Here's your ore. Now get out of my refinery.}
-{151}{}{Bye.}
+{151}{}{Hej då.}
 {152}{}{Thanks! Here's your money back. Broken Hills won't forget this.}
 {153}{}{No problem.}
 {154}{}{I told you to get out of here!}

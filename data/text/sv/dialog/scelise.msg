@@ -47,20 +47,20 @@
 {146}{}{That's the kind of attitude that allows the atrocity of slavery to exist in the first place. I'm sorry, but there is no place for you in our organization.}
 {147}{}{Ok.}
 {148}{}{So, changed your mind? Ready to prove your worth?}
-{149}{}{Sure.}
+{149}{}{Visst.}
 {150}{}{What was it you wanted done?}
 {151}{}{Shouldn't you be doing something? Don't come back here until the job's done.}
 {152}{}{I've heard the news already. You freed the slaves. Good work! So, you ready to become a Ranger?}
-{153}{}{Yes.}
-{154}{}{No.}
+{153}{}{Ja.}
+{154}{}{Nej.}
 {155}{}{I hear you're the one who freed all the slaves outside the city gates. That was a fine thing you did and I just want to shake your hand.}
 {156}{}{Thanks.}
 {157}{}{Simple. We believe slavery is wrong and we'll do what we must to fight it. In NCR, we got a lot of friends in high places. Thanks to them we've already banned slavery down south, but now we're hoping to spread the word north.}
 {158}{}{The Rangers sound like a group I'd be proud to join. Sign me up.}
 {159}{}{Interesting... I'll have to think about what you've said.}
 {160}{}{Do you swear to fight slavery whenever the opportunity arises and to help your fellow Rangers whenever they're in need?}
-{161}{}{Yes.}
-{162}{}{No.}
+{161}{}{Ja.}
+{162}{}{Nej.}
 {163}{}{Congratulations, you're now a Ranger.}
 {164}{}{Well-met, fellow Ranger. Afraid there's not much for you to do around here at this time. Most our people are already out on patrol. I'll spread the word that you're one of us now. I wouldn't want you getting shot by one of us.}
 {165}{}{Well, we're always looking for good people to further our cause. If you change your mind, look me up. Are you sure you won't take the opportunity to join now?}
@@ -74,7 +74,7 @@
 {173}{}{That being the case, I have to ask you to get out of my sight. Now!}
 {174}{}{Ok.}
 {175}{}{A slaver! Get out of here before I remove that tattoo of yours with a bullet!}
-{176}{}{Sure.}
+{176}{}{Visst.}
 {177}{}{Try it!}
 {178}{}{We've got agents and sympathizers in some of the towns up north. We're spreading the word and hitting slavers wherever we can.}
 {179}{}{Hello again. Have you changed your mind about joining us?}

@@ -68,7 +68,7 @@
 {167}{}{Me guess...}
 {168}{}{Yeah, I guess I see what you mean.}
 {169}{}{Too many people in any one place can attract attention. One man in a city of many men is less noticeable.}
-{170}{}{Okay.}
+{170}{}{Okej.}
 {171}{}{Hello again. Is there something I can help you with?}
 {172}{}{No, just say hi.}
 {173}{}{Yes. You answer question?}
@@ -80,7 +80,7 @@
 {179}{}{No, not yet.}
 {180}{}{Yeah, I think I'll take the job.}
 {181}{}{Hello. Have you changed your mind about my offer?}
-{182}{}{No.}
+{182}{}{Nej.}
 {183}{}{Yes. Me take.}
 {184}{}{No, I haven't.}
 {185}{}{Yes, I'll take the job.}
@@ -90,13 +90,13 @@
 {189}{}{No, I'm still working on it.}
 {190}{}{I got the vertibird plans for you.}
 {191}{}{Well, keep working on it. I know it's a difficult mission, but I think you can pull it off.}
-{192}{}{Okay.}
+{192}{}{Okej.}
 {193}{}{Excellent work! Let me have the plans, and I'll make a copy of them. As promised, I'll give you full access to our facilities. Thank you.}
 {194}{}{You welcome.}
 {195}{}{You're welcome.}
 {196}{}{Navarro is relatively new and not fully staffed as yet. My sources tell me that they receive new recruits from time to time. Perhaps you could pose as a new arrival. I would suggest that.}
 {197}{}{Navarro is relatively new and not fully staffed as yet. My sources tell me that they receive new recruits from time to time. Perhaps, if you went in alone, you could pose as a new arrival. I would suggest that. You could have your friends wait here.}
-{198}{}{Okay.}
+{198}{}{Okej.}
 {199}{}{You say you 'sources.' What they be?}
 {200}{}{All right.}
 {201}{}{You mentioned your 'sources.' Who would they be?}

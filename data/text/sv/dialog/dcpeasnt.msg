@@ -1,6 +1,6 @@
 {100}{}{You see a resident of The Den.}
 {101}{}{You see a resident of The Den.}
-{102}{}{Hello.}
+{102}{}{Hej.}
 {103}{}{Nice to see you.}
 {104}{}{Not from around here, are you?}
 {105}{}{Mom is a great lady, isn't she?}

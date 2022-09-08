@@ -9,7 +9,7 @@
 {108}{}{Who are you?}
 {109}{}{I have a friend who's missing a spleen. Can you help him?}
 {110}{}{What can you tell me about this place?}
-{111}{}{Bye.}
+{111}{}{Hej då.}
 {112}{}{Let me take a look at that. Hmm. Yes. I'll have to charge you, of course.}
 {113}{}{How much?}
 {114}{}{Forget it.}
@@ -80,8 +80,8 @@
 {194}{}{Thanks! I have more questions.}
 {195}{}{Thanks!}
 {196}{}{Yes. I can do this. It will cost you $1000 dollars to do it. Up front. Do you accept?}
-{197}{}{Yes.}
-{198}{}{No.}
+{197}{}{Ja.}
+{198}{}{Nej.}
 {199}{}{Tell your friend to come here and I will replace it for him.}
 {200}{}{Thanks. I have more questions.}
 {201}{}{Thanks.}
@@ -119,7 +119,7 @@
 {233}{}{Hell yes. Let's do it.}
 {234}{}{Wow. That's... expensive. I'll get back to you.}
 {235}{}{::he shakes his head:: Do not toy with me. You are missing necessary ingredients. Listen more carefully to me next time. Now go, and come back when I can help you.}
-{236}{}{Okay.}
+{236}{}{Okej.}
 {237}{}{There you go! You are ... enhanced. Remember... do not pick at the scabs unless you want horrid scarring to add to your suddenly not-entirely-pleasing appearance.}
 {238}{}{Thanks, doc. So long.}
 {239}{}{I have the money for the spleen.}

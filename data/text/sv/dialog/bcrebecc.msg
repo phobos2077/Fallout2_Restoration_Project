@@ -5,7 +5,7 @@
 {103}{}{Hi, I'm Rebecca. Can we talk privately, please?}
 {104}{}{What talk about?}
 {105}{}{Why need talk private?}
-{106}{}{Okay.}
+{106}{}{Okej.}
 {107}{}{No. Me leave.}
 {108}{}{Sorry, not interested.}
 {109}{}{What do you want to talk to me about?}
@@ -13,7 +13,7 @@
 {111}{}{Why the need for privacy?}
 {112}{}{(whispering) My daughter is missing and I need help finding her. I can't talk about it here,
  though. Can we go somewhere private?}
-{113}{}{Okay.}
+{113}{}{Okej.}
 {114}{}{Why need talk private?}
 {115}{}{No, me go.}
 {116}{}{All right, let's go.}
@@ -26,7 +26,7 @@
 {122}{}{All right; where can we go to talk?}
 {123}{}{Sorry, I don't like the sound of this.}
 {124}{}{Thanks; we can go to my tent.}
-{125}{}{Okay.}
+{125}{}{Okej.}
 {126}{}{We should be able to talk here.}
 {127}{}{Okay, what problem?}
 {128}{}{Me got questions first.}
@@ -63,7 +63,7 @@
  much, but it's all we have. To the west is a city called the NCR. They've known about us for quite some
  time, and never offered us any kind of help or hindrance. Now, they are suddenly claiming this area as their
  ancestral home, and they want it back.}
-{153}{}{Okay.}
+{153}{}{Okej.}
 {154}{}{What here they want?}
 {155}{}{I see.}
 {156}{}{What is here that they want so badly?}
@@ -89,7 +89,7 @@
 {170}{}{I need to know more.}
 {171}{}{There's not much to say, really. Darion keeps to himself and never leaves the vault. If he has
  anything to say, he says it through Zeke. I've only met him once, and he seemed like a nice guy.}
-{172}{}{Okay.}
+{172}{}{Okej.}
 {173}{}{Nice guys finish last. I wonder what he's up to?}
 {174}{}{I see.}
 {175}{}{That's okay. You are very helpful.}
@@ -120,7 +120,7 @@
  Please wait here, I need to talk to Chrissy and then I'd like to talk to you.}
 {198}{}{You saved my daughter. I can never repay you for your kindness. Thank you.
  Please wait here, I need to talk to Chrissy and then I'd like to talk to you.}
-{199}{}{Okay.}
+{199}{}{Okej.}
 {200}{}{My daughter has told me everything. I find it hard to believe that Darion is such a monster
  after all he's been doing for us. And to think, we've been helping him hide his operations as a raider.
  I can guarantee you we won't stand for it any longer. I've already talked to Zeke, and he wants to see

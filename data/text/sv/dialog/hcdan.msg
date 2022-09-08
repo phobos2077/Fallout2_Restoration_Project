@@ -10,9 +10,9 @@
 {109}{}{Not in my house, please. There's a street outside where you can sleep and do whatever else it is you "special" people do.}
 {110}{}{Thppt!}
 {111}{}{Great, great. Pleased to meet you. [He looks distracted.] Hey, look... you're an adventuring type, right?}
-{112}{}{Yes.}
+{112}{}{Ja.}
 {113}{}{Do you not recognize the Chosen One?}
-{114}{}{No.}
+{114}{}{Nej.}
 {115}{}{What business is it of yours?}
 {116}{}{The reason I ask, you see, is because my wife is missing. I don't know where she is. She's been gone for days. I've asked around town, and no one has seen her. Can you find her for me?}
 {117}{}{What's in it for me?}

@@ -20,7 +20,7 @@
 {119}{}{::his voice hardens:: Then I see no reason you should be admitted here. Good day.}
 {120}{}{'Ey!}
 {121}{}{Very well. Be quick, though - he's a busy, busy man.}
-{122}{}{Okay.}
+{122}{}{Okej.}
 {123}{}{This is not a place that is open for random tours. Good day.}
 {124}{}{[DONE]}
 {125}{}{Excellent! Go in, go in. Speak to Juan Cruz and Vikki Goldman - they're celebrities, you know, but they'll talk to YOU.}
@@ -41,12 +41,12 @@
 {140}{}{Forget it. I'm out of here.}
 {141}{}{So now you've spoken to Juan and Vikki. Are you interested in joining our friends in the search for enlightenment to the Great Wheel?}
 {142}{}{Oh yes. Yes yes yes.}
-{143}{}{Sure.}
+{143}{}{Visst.}
 {144}{}{Not right now. Can I get back to you?}
 {145}{}{I don't think it's my bag. Sorry.}
 {146}{}{Hell no. Your crazy cult deserves to be torched down to the ground.}
 {147}{}{::he smiles:: You won't regret this. You may have the run of the compound. Oh... you're a person who knows how to use a weapon. Would you care to use yours in the service of the Great Wheel?}
-{148}{}{Yes.}
+{148}{}{Ja.}
 {149}{}{Maybe later.}
 {150}{}{Do not wait too long before returning with a reply. Your neurodynes will be filled with more and more pollution until we can begin the cleansing process.}
 {151}{}{I changed my mind. I'll join.}
@@ -57,8 +57,8 @@
 {156}{}{Torch us? TORCH US? GUARDS! KILL THE UNBELIEVER!}
 {157}{}{[DONE]}
 {158}{}{So. You have now had time to reconsider your decision. Will you join us?}
-{159}{}{Yes.}
-{160}{}{No.}
+{159}{}{Ja.}
+{160}{}{Nej.}
 {161}{}{I still need more time.}
 {162}{}{You do not have more time. Make your choice, meat.}
 {163}{}{Fine, I'll join.}

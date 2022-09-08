@@ -93,7 +93,7 @@
 {175}{}{What's in it for me?}
 {176}{}{Sure, I'll do it.}
 {177}{}{Not right now.}
-{178}{}{No.}
+{178}{}{Nej.}
 {179}{}{How's it coming? I hope you're going to take care of this soon...}
 {180}{}{It's coming along all right.}
 {181}{}{I'm a busy man. I haven't gotten around to it yet.}

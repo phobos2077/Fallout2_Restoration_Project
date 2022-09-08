@@ -33,10 +33,10 @@
 {132}{}{All right. Give us a day and we'll have it ready for you.}
 {133}{}{Great. Bye.}
 {134}{}{Good luck getting it refined any place else. The process is dangerous -- only a professional should do it. You want it or not?}
-{135}{}{Yes.}
-{136}{}{No.}
+{135}{}{Ja.}
+{136}{}{Nej.}
 {137}{}{Fine. You don't have any business here. Please leave so we can get our jobs done.}
-{138}{}{Bye.}
+{138}{}{Hej då.}
 {139}{}{That's ridiculous. We're not giving you any.}
 {140}{}{Then die.}
 {141}{}{Fine. Bye.}
@@ -47,8 +47,8 @@
 {146}{}{Fine. Bye.}
 {147}{}{It's done. Before you take it, listen. Our town really needs this ore. If you donate it to the town, I'll refund your money. What do you say?}
 {148}{}{No way.}
-{149}{}{Sure.}
+{149}{}{Visst.}
 {150}{}{Fine. Be that way. Here's your ore. Now get out of my refinery.}
-{151}{}{Bye.}
+{151}{}{Hej då.}
 {152}{}{Thanks! Here's your money back.}
 {153}{}{No problem.}

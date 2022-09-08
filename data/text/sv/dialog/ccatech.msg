@@ -34,7 +34,7 @@
 {139}{}{Thanks.}
 {140}{}{Thanks.}
 {141}{}{Vertibird plans... I don't see why you would need to know that. I suggest you talk to maintenance next door.}
-{142}{}{Okay.}
+{142}{}{Okej.}
 {143}{}{Got it.}
 {153}{}{Are you nuts, walking around here out of uniform? Get suited up!}
 {154}{}{If the sergeant catches you out of uniform, he'll hand you your ass.}

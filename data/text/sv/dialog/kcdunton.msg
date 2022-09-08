@@ -70,7 +70,7 @@
 {204}{}{I don't think I want to do that after all.}
 {205}{}{OK, I'll be there. Goodbye.}
 {206}{}{In the meantime, though, there's something that I want to know.}
-{207}{}{Goodbye.}
+{207}{}{Farväl.}
 {208}{}{I'm Chuck Dunton. What are you? Dumb?}
 {209}{}{I'm Buck Dunton. What are you? Dumb?}
 {210}{}{Do I look especially ugly? I'm Chuck Dunton.}

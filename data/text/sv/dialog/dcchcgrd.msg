@@ -1,6 +1,6 @@
 {100}{}{You see a guard.}
 {150}{}{The guard is guarding the old church.}
-{151}{}{[TALK]}
+{151}{}{[TALA]}
 {152}{}{How dare you show your face again!}
 {153}{}{[Done]}
 {154}{}{Ho! No one enters the Family Wright warehouse at night!}

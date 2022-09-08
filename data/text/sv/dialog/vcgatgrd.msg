@@ -106,7 +106,7 @@
 {204}{}{Forget it, then. I don't need to get into Vault City that badly.}
 {205}{}{Sorry, can't let you in with those items in your possession. Drugs and alcohol are not permitted in Vault
  City. Ditch them then come back, all right?}
-{206}{}{Okay.}
+{206}{}{Okej.}
 {207}{}{All right, it looks like you're clean. You can head on in.}
 {208}{}{Thanks.}
 {209}{}{Yup. Heer}

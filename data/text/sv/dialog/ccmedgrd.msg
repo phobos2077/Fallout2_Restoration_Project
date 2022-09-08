@@ -30,4 +30,4 @@
 {126}{}{I hear you're called Snookie. I think that's cute.}
 {127}{}{What... He told you that? When I get off duty I'm going to kick his ass...
  Move along, soldier. And wipe that smirk off your face!}
-{128}{}{Okay.}
+{128}{}{Okej.}

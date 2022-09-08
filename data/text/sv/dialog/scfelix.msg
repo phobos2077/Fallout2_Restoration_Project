@@ -30,14 +30,14 @@
 {129}{}{Westin. Job. Me}
 {130}{}{Me go.}
 {131}{}{Fine, he wants you to have a job; I got a job for you. Someone, or something, kill moo-moos. You come me. You guard. Keep moo-moos safe. Make boss happy. Okay?}
-{132}{}{Okay.}
+{132}{}{Okej.}
 {133}{}{No. Me no kill.}
 {134}{}{Back again, are you? Job done?}
-{135}{}{Yes.}
-{136}{}{No.}
+{135}{}{Ja.}
+{136}{}{Nej.}
 {137}{}{Yeah, he left orders. He's been expecting you.}
 {138}{}{HEY YOU! Get away from there!}
-{139}{}{Okay.}
+{139}{}{Okej.}
 {140}{}{Fuck you!}
 {141}{}{Yeah. He said to see you about some problem with the brahmin.}
 {142}{}{Yes. I'm out of here.}

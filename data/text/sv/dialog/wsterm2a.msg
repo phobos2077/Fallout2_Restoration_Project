@@ -46,8 +46,8 @@
 {133}{}{Exit}
 {134}{}{Warning! This program works best if you shut down all
  programs. Do you wish to do so now?}
-{135}{}{Yes.}
-{136}{}{No.}
+{135}{}{Ja.}
+{136}{}{Nej.}
 {137}{}{Exit}
 {138}{}{Shutting Down Skynet Security Program
                          Analyzing Data Structure...

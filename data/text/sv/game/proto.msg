@@ -153,8 +153,8 @@
 {656}{}{Err...}
 {660}{}{You can't see there.}
 {661}{}{Too far away.}
-{670}{}{Okay.}
-{671}{}{Sure.}
+{670}{}{Okej.}
+{671}{}{Visst.}
 {672}{}{Som du vill.}
 {673}{}{Whatever you say.}
 {674}{}{I'll try.}

@@ -39,7 +39,7 @@
 {131}{}{Can I help?}
 {132}{}{Can I ask you something else?}
 {133}{}{Oh, well, I'm sorry to hear that. Goodbye.}
-{134}{}{Sure.}
+{134}{}{Visst.}
 {135}{}{Well, we're from the wasteland... like yourself. So all we can get is
  protection from Vault City.}
 {136}{}{What kind of protection?}

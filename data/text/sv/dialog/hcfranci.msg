@@ -76,7 +76,7 @@
 {162}{}{Really? That's a fascinating attitude. Too bad we didn't crush your village when we controlled
  the wasteland. Get out of my sight, worm.}
 {200}{}{[DONE]}
-{201}{}{Bye.}
+{201}{}{Hej då.}
 {202}{}{Thanks. Bye.}
 {203}{}{[MORE]}
 {204}{}{Sure. Thanks. Bye.}

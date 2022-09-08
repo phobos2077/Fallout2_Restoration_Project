@@ -4,7 +4,7 @@
 {103}{}{Stop it!}
 {104}{}{How could you?}
 {105}{}{Get away from me!}
-{106}{}{Why?}
+{106}{}{Varför?}
 {107}{}{Please stop!}
 {108}{}{You murderer!}
 {109}{}{Poor Mom! You'll pay for that!}
@@ -32,7 +32,7 @@
 {137}{}{Yeah, Cuddles. She was such a sweet cat. I really don't feel like talking about it... Well, unless you'd like to buy me a drink. That might help.}
 {138}{}{As I said, I would prefer not to talk about it right now. If you'd like to buy me a drink, it might loosen my tongue.}
 {139}{}{Of course I will. I'd love to hear about it.}
-{140}{}{Sure.}
+{140}{}{Visst.}
 {141}{}{Sorry, I can't spare $10 right now.}
 {142}{}{Obviously.}
 {143}{}{Do you think you're funny or something? Get a better line.}
@@ -49,7 +49,7 @@
 {154}{}{Sounds nice.}
 {155}{}{Go on.}
 {156}{}{I had her when I was a kid, but she disappeared. I didn't know then what happened to her, I was too young.}
-{157}{}{Why?}
+{157}{}{Varför?}
 {158}{}{Well, food was awfully scarce back then and people had to eat. It's quite sad really...}
 {159}{}{What?}
 {160}{}{People would hunt them because they were such easy prey. None of them are around anymore because of it.}
@@ -60,5 +60,5 @@
 {165}{}{I'm sorry.}
 {166}{}{Oh...}
 {167}{}{It makes me sad to think about it...}
-{168}{}{Bye.}
+{168}{}{Hej då.}
 {169}{}{Stacy told you a sweet story about her darling cat Cuddles.}

@@ -149,7 +149,7 @@
 {502}{}{Uh... just checking. About my payment...}
 {510}{}{I have no more... work for you. (Nods at the door.) I wish to be alone. Leave now... and do NOT return.}
 {511}{}{Aw, c'mon. There must be SOME other job that I could do...}
-{512}{}{Okay.}
+{512}{}{Okej.}
 {520}{}{I... have more work for you. I need someone... (He takes a deep wheezing breath, then wipes sweat from his forehead.) ... to collect
  my percentage from the... Corsican Brothers. They are LATE in their payments.}
 {523}{}{I think I'll pass. Thanks anyway.}

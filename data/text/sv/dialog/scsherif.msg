@@ -13,7 +13,7 @@
 {112}{}{Primitive, eh? You. Questions? Ask me. Okay?}
 {113}{}{Vault 13?}
 {114}{}{GECK?}
-{115}{}{Okay.}
+{115}{}{Okej.}
 {116}{}{No, I don't. That's something even President Tandi would like to know. Solve a lot of problems.}
 {117}{}{Problems?}
 {118}{}{President Tandi?}
@@ -38,10 +38,10 @@
 {137}{}{Arrgh! THERE IS NO 13, YOU DUMB BOX OF ROCKS! No 13. No find. Never! Ever!}
 {138}{}{Tandi big chief. Tandi want help. You talk to Tandi. Go Con-gress house. Okay?}
 {139}{}{GECK?}
-{140}{}{Okay.}
+{140}{}{Okej.}
 {141}{}{No GECK. Me healthy. Not sick.}
 {142}{}{Vault 13?}
-{143}{}{Okay.}
+{143}{}{Okej.}
 {144}{}{Look around you. NCR's a growing place. We need parts, computers, whatnot. Been a problem ever since those squatters moved into Vault 15.}
 {145}{}{Vault 15? Squatters? What's going on?}
 {146}{}{What's this about President Tandi?}

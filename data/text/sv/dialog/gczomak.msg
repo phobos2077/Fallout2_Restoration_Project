@@ -27,9 +27,9 @@
 {171}{}{Not me. I'll go right in. Goodbye.}
 {172}{}{I might come back later. Goodbye.}
 {180}{}{Well, you should choose to leave. Get out of here.}
-{181}{}{Okay.}
+{181}{}{Okej.}
 {200}{}{Yes, you can all Renew inside.}
-{201}{}{Okay.}
+{201}{}{Okej.}
 {210}{}{Ook? What do you mean by that? Are you dumb?}
 {211}{}{Goop?}
 {220}{}{Get out of here. The Brain doesn't have time for the likes of you.}

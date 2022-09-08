@@ -127,7 +127,7 @@
 {381}{}{Initiate Coolant Maintenance}
 {382}{}{Logoff.}
 {390}{}{Hydroelectric Magnetosphere Regulator accepted. Scanning... Part within nominal QA constraints... Transfer to repair unit completed... Proceed?}
-{391}{}{Yes.}
+{391}{}{Ja.}
 {392}{}{Logoff.}
 {400}{}{Logic Circuits damaged. In emergency, RM&RR unit may be directed manually.}
 {401}{}{Well, that explains that. I guess I'll give it a try.}

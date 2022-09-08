@@ -25,8 +25,8 @@
 {243}{}{Used to travel with someone named Iam kept shooting me in back with burst fire}
 {244}{}{Me board too}
 {245}{}{Noooo me gotta go now}
-{246}{}{No.}
-{247}{}{Yes.}
+{246}{}{Nej.}
+{247}{}{Ja.}
 {248}{}{Uh... why are you looking at me like that?}
 {249}{}{I might be bored. Why, you looking for some excitement, princess?}
 {250}{}{Not really. I've got somewhere I've got to be.}
@@ -95,7 +95,7 @@
 {401}{}{Yeah. Let's go to your room, princess, and I'll show you what a real man is.}
 {402}{}{Naw, I was just curious to see how much of a slut you really are. Later, baby.}
 {410}{}{Yeah, it's best you know how things stand around here. (Looks you up and down.)}
-{411}{}{Uh...}
+{411}{}{Eh...}
 {413}{}{[Stand there uncomfortably while she checks you out.]}
 {420}{}{All right then... (Looks you up and down.)}
 {422}{}{Okay, so...}

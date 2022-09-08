@@ -12,9 +12,9 @@
 {203}{}{Thanks!}
 {204}{}{No thank you.}
 {205}{}{No thanks.}
-{206}{}{Sure.}
-{207}{}{Yes.}
-{208}{}{No.}
+{206}{}{Visst.}
+{207}{}{Ja.}
+{208}{}{Nej.}
 {209}{}{OK.}
 {300}{}{Ug.}
 {301}{}{Og.}
@@ -26,8 +26,8 @@
 {353}{}{[CONTINUE]}
 {354}{}{[COMBAT]}
 {355}{}{[GIVE MONEY]}
-{375}{}{Bye.}
-{376}{}{Goodbye.}
+{375}{}{Hej då.}
+{376}{}{Farväl.}
 {400}{}{You die due to the lethal injection from Dr. Troy.}
 {450}{}{The coast is clear. Let's move out!}
 {900}{}{The old, worn door looks like it could be destroyed

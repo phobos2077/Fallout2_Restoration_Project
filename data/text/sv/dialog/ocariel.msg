@@ -83,7 +83,7 @@
 {174}{}{}
 {175}{}{Go away, you bastard! I want nothing to do with you.}
 {176}{}{Go away, bitch! I have nothing to say to you.}
-{177}{}{Bye.}
+{177}{}{Hej då.}
 {178}{}{.}
 {179}{}{. Yes, I'm new here.}
 {180}{}{I was holding Sandy behind me, trying to keep her from the monster that had shot Rand. He stood

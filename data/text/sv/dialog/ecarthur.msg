@@ -18,16 +18,16 @@
 {115}{}{Why do you search for such a terrible weapon?}
 {116}{}{We of the Brotherhood of Steel seek to find this most devastating weapon of our ancestors, and
  secure it from those who would abuse the power of the Holy Hand Grenade of Antioch.}
-{117}{}{Why?}
+{117}{}{Varför?}
 {118}{}{Well... because the Brotherhood of Steel is dedicated to protecting the weak and defenseless, and
  this thing could really hurt someone.}
-{119}{}{Why?}
+{119}{}{Varför?}
 {120}{}{Umm... because it's really the only moral thing to do.}
-{121}{}{Why?}
+{121}{}{Varför?}
 {122}{}{Wha... um... Look now, we're really quite busy. Are you going to help us or not? Have you seen
  the Holy Hand Grenade of Antioch or not?}
-{123}{}{Yes.}
-{124}{}{No.}
+{123}{}{Ja.}
+{124}{}{Nej.}
 {125}{}{Well, why didn't you just say so? If you could just tell us where, we'll be off and you can get
  back to whatever it is you were doing.}
 {126}{}{[You point in a random direction.]}

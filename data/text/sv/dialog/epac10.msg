@@ -475,7 +475,7 @@ and fifty years.}
 {3025}{}{So anyway, we did a lot of moving around and it wasn't until I was in high school that we finally settled down
  in Chicago. That's when I took to sneaking out at night and knifing hookers. I'd been killing things for as long as I
  could remember, but gutting neighborhood critters didn't compare to the real deal, you know?}
-{3026}{}{Sure.}
+{3026}{}{Visst.}
 {3027}{}{So things were pretty sweet, for the most part. I mean, I fucking hated my Uncle and Aunt, but at school I was
  Mr. Popular. Every guy wanted to be my friend and every gal I looked at was willing to spread for me. Except for this
  one gal, Vicky. She actually took a bit of work. Amazing, I know, but eventually I got her to come around and become my girl.}

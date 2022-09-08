@@ -36,7 +36,7 @@
 {135}{}{Excellent. I knew you were the right person. Well, I promised you pay and I do not renege my deals. Here's your money.}
 {136}{}{Anything else I can do for you?}
 {137}{}{Thanks. Maybe you can help me out. I'm trying to find Vault 13.}
-{138}{}{Goodbye.}
+{138}{}{Farväl.}
 {139}{}{Dumont recommended you? Well, that's good enough for me. Something or someone has been raiding my brahmin at night. I need to find out what's up. How about going out there and looking into it for me? I'll pay you for your trouble.}
 {140}{}{Sounds like easy work. I'll do it.}
 {141}{}{I've decided against it.}
@@ -55,8 +55,8 @@
 {154}{}{Me tank you!}
 {155}{}{Thanks.}
 {156}{}{The First Citizen? Excellent, this is what I've been waiting for. Are you a Vault Citizen?}
-{157}{}{Yes.}
-{158}{}{No.}
+{157}{}{Ja.}
+{158}{}{Nej.}
 {159}{}{And you're a good Citizen, I'm sure. I want you to take this holodisk back to the 1st Citizen. It's important. It has the information she needs to expose this NCR-New Reno plan.}
 {160}{}{I have some other questions.}
 {161}{}{Yes, sir.}

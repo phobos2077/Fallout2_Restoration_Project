@@ -10,7 +10,7 @@
 {109}{}{You see a farm-woman.}
 {110}{}{What are you looking at?}
 {111}{}{Welcome to the big city.}
-{112}{}{Hello.}
+{112}{}{Hej.}
 {113}{}{Been in Redding long?}
 {114}{}{First time in Redding, huh?}
 {115}{}{We don't want any trouble here.}
@@ -63,7 +63,7 @@
 {162}{}{You see a woman mending a garment.}
 {163}{}{This woman is resting.}
 {164}{}{This woman is relaxing in her home.}
-{165}{}{Hello.}
+{165}{}{Hej.}
 {166}{}{What are you doing here?}
 {167}{}{I didn't invite you.}
 {168}{}{Go away. There aren't any tribal handouts here.}

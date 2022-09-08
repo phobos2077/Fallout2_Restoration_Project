@@ -131,7 +131,7 @@
 {230}{prs38}{An unfortunate, and unforeseen accident. However, as it turns out a rather fortuitous one.}
 {231}{}{What do you mean?}
 {232}{prs39}{As it turns out we needed test subjects from untainted, pre-war, human stock - your ancestors in Vault 13 - and some freshly mutated stock - the villagers from Arroyo.}
-{233}{}{Why?}
+{233}{}{Varför?}
 {234}{prs39a}{For the Project. It's almost ready. Humanity's salvation is almost at hand and the United States of America will be the progenitor of that rebirth.}
 {235}{}{Rebirth? What do you mean?}
 {236}{prs40a}{The only way for true humans, and democracy, to be safe is to cleanse the mutants from the globe. We humans will take back that which is rightfully ours.}
@@ -151,7 +151,7 @@
 {250}{prs45}{Simple. Navarro is an isolated base. Our vertibirds have a limited range. They refuel there.}
 {251}{}{Makes sense.}
 {252}{prs46a}{I'm sure you think so. But tests performed on your tribesmen have all shown that you are guilty of mutation. And it's a damn good thing the Project is ready.}
-{253}{}{Why?}
+{253}{}{Varför?}
 {254}{prs46b}{Some of the members of your tribe are showing some extremely interesting changes. If the danger to true humanity weren't so great I would think about studying them. But (sighs) that's not to be.}
 {255}{}{Not to be? Why not?}
 {256}{prs47}{Oh, but that's one of the advantages of the F.E.V. virus. We can release it right here and the Jet stream will carry it worldwide. It'll have plenty of time to cleanse every nook and cranny of the globe.}

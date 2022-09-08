@@ -12,7 +12,7 @@
  He is a trader in Klamath. Klamath. Go to Vic. Find Vault 13. Find GECK. Come home. Do
  your best, child.}
 {112}{aeld2b}{You not find vault. Find vault! Vault 13.}
-{113}{}{Uh.}
+{113}{}{Eh.}
 {114}{aeld3}{Chosen One, do you wish us all dead? You must find the Vault!}
 {115}{}{I'm sorry, Elder. I will not fail.}
 {116}{}{Yeah, yeah. Stop yelling.}
@@ -38,7 +38,7 @@
 {133}{}{Before I go, I have some questions.}
 {134}{}{Goodbye. I will not fail the tribe.}
 {135}{aeld8}{Very well. See me when you decide - but do not wait too long.}
-{136}{}{Goodbye.}
+{136}{}{Farväl.}
 {137}{aeld9}{I cannot help much. So much has been lost from the Long Ago. What wisdom do you seek?}
 {138}{aeld9b}{What do you need?}
 {139}{}{Tell me more about the GECK.}
@@ -48,7 +48,7 @@
 {143}{aeld10}{It is a holy artifact - the Garden of Eden Creation Kit. The disks promise it
  will make our lands green and our village prosperous. It will save us. More, I do not know.}
 {144}{}{There's more I want to know.}
-{145}{}{Goodbye.}
+{145}{}{Farväl.}
 {146}{aeld11}{Klamath is to the east.}
 {147}{}{There are other things I would learn.}
 {148}{}{I am ready. Goodbye.}
@@ -103,7 +103,7 @@
 {202}{}{I've come to rescue you.}
 {203}{}{What the hell's going on here?}
 {204}{eeld2}{You monster! Have you come to kill me, too?}
-{205}{}{Uhhh?}
+{205}{}{Ehhh?}
 {206}{}{No, it's me, the Chosen One!}
 {207}{}{Oh, shut up, you old bitch! It's me, your Chosen One.}
 {208}{eeld3}{Oh, gods... Listen - go down. Find machine that makes power. Kill machine. Kill bad men. Kill everybody! You kill, we go home. Also, if you not have GECK then look for GECK here. Must have GECK to save village! Freedom is nothing without home to return to. Understand? Oh, gods.}
@@ -115,19 +115,19 @@
 {214}{eeld5a}{Then they brought us here, to hell. They have killed most of us with something they call effeevee. They will kill us all before they are through!
  Do you know what must be done, Chosen One?}
 {215}{}{Effeevee?}
-{216}{}{Yes.}
-{217}{}{No.}
+{216}{}{Ja.}
+{217}{}{Nej.}
 {218}{eeld6}{If you destroy the machine, we will find the ship. Hurry, there are not many of us left. }
 {219}{}{What happened?}
 {220}{}{I understand.}
 {221}{eeld7}{You must destroy the machine and kill the devils in this place. We will meet you outside! And Chosen One, if you have not found the GECK, seek it here. Our freedom is nothing if we cannot save our village. Now go!}
-{222}{}{Goodbye.}
+{222}{}{Farväl.}
 {223}{eeld8}{I am still the Elder. Remember your place! Apologize or I will not help you anymore.}
 {224}{}{Sorry, you're not an old bitch. What's going on?}
 {225}{}{Like you could help me in there? Fuck off and die.}
 {226}{eeld9}{Go away. You are no better than these devils. I weep you were named the Chosen One.}
 {227}{eeld10}{Why are you here? Every minute you waste another of our people could be killed. And don't forget the GECK! We must have it.}
-{228}{}{Nuh??}
+{228}{}{Nä??}
 {229}{}{Where was I supposed to go?}
 {230}{}{Just wanted to annoy you. I'm on it. Don't worry.}
 {231}{eeld11}{(sigh) Go below. Kill. Smash machines. Go now!}

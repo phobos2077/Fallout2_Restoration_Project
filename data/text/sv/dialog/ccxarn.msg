@@ -1,5 +1,5 @@
 {100}{}{Greetings, human. I am the warrior Xarn. Are you to be my executioner?}
-{101}{}{Yes.}
+{101}{}{Ja.}
 {102}{}{No, me here rescue you.}
 {103}{}{Not know. Me want know why you here.}
 {104}{}{Yes I am.}
@@ -7,7 +7,7 @@
 {106}{}{I don't know. I'd like to know why you are here.}
 {107}{}{So be it. I do not intend to go quietly, human. Let us make this a
  battle to remember!}
-{108}{}{Okay.}
+{108}{}{Okej.}
 {109}{}{Wait. Me change mind. Why are you here?}
 {110}{}{I'm ready. Let's party.}
 {111}{}{Wait a minute. Why are you here?}
@@ -66,8 +66,8 @@
 {141}{}{Färdigt.}
 {142}{}{Very well... I am saddened by your decision but it is
  your choice. If you change your mind, I will be here.}
-{143}{}{Bye.}
-{144}{}{Goodbye.}
+{143}{}{Hej då.}
+{144}{}{Farväl.}
 {145}{}{I would ask you to help me escape this place. Will you?}
 {146}{}{Yes, me do.}
 {147}{}{Me think about it.}
@@ -85,10 +85,10 @@
 {159}{}{No. I'll be leaving now.}
 {160}{}{All right, let's get it over with.}
 {161}{}{Hello again. Have you changed your mind? Will you help me?}
-{162}{}{Yes.}
-{163}{}{No.}
+{162}{}{Ja.}
+{163}{}{Nej.}
 {164}{}{Hello again. Have you changed your mind? Will you help me?}
-{165}{}{Yes.}
+{165}{}{Ja.}
 {166}{}{No. Me still think about it.}
 {167}{}{No. Me not help.}
 {168}{}{No, I'm still thinking.}
@@ -120,7 +120,7 @@
 {193}{}{Fine. We're in this together. Load up your claws and let's party down!}
 {194}{}{You're on your own pal. I'm out of here.}
 {195}{}{I thank you, human. Let us kick some Enclave ass! Pack Gruthar! Grrrrrrrhh!}
-{196}{}{Okay.}
+{196}{}{Okej.}
 {200}{}{[MORE]}
 {201}{}{Yes. Who are you?}
 {202}{}{Yes. Why?}

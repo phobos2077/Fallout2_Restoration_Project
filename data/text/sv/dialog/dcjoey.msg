@@ -1,7 +1,7 @@
 {100}{}{You see a thug.}
 {101}{}{You see Joey.}
 {150}{}{This guy doesn't look too friendly.}
-{151}{}{[TALK]}
+{151}{}{[TALA]}
 {152}{}{I'm gonna cut you up, fucker!}
 {153}{}{Yeah? Come on and try.}
 {154}{}{Hey, wait just one minute!}
@@ -56,7 +56,7 @@
 {201}{}{No, I want information.}
 {202}{}{I have to go. Bye.}
 {203}{}{How about you and I get it on?}
-{204}{}{Okay.}
+{204}{}{Okej.}
 {205}{}{Not if you were the last nonmutated man on the planet.}
 {206}{}{Er, no... I don't think so. I need something else.}
 {207}{}{You'll be coming back.}
@@ -110,7 +110,7 @@
  uncut shit, shipped directly from New Reno. }
 {250}{}{Wait, I'll buy it.}
 {251}{}{Well, can I ask you something?}
-{252}{}{Bye.}
+{252}{}{Hej då.}
 {253}{}{OK, I'll drop the price to $350, but no less! That's my final offer. You got to pay
  top dollar for the good shit. Don't buy from Tubby or any of those losers. They cut their
  shit. I'm the only one for miles that can get a hold of the best stuff.}

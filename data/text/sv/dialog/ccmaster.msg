@@ -13,8 +13,8 @@
 {110}{}{You the guy Arch radioed about?}
 {111}{}{Are you sure you're not the guy?}
 {112}{}{Huh?}
-{113}{}{Yes.}
-{114}{}{No.}
+{113}{}{Ja.}
+{114}{}{Nej.}
 {115}{}{Who are you? What are you doing here?}
 {116}{}{What?}
 {117}{}{Uh... I'm new here?}
@@ -49,8 +49,8 @@
 {145}{}{I got better.}
 {146}{}{42.}
 {147}{}{That with an S or a C?}
-{148}{}{Yes.}
-{149}{}{No.}
+{148}{}{Ja.}
+{149}{}{Nej.}
 {150}{}{I don't know.}
 {151}{}{You'll get the damn armor when I'm good and ready! Now, answer the question.}
 {152}{}{[Player name]}
@@ -64,17 +64,17 @@
 {159}{}{That's it! Get your ass over to your sergeant. I'm sending you up on charges. Dismissed.}
 {160}{}{The 42nd, eh? Good unit. Okay. Here's your gear. Dismissed, soldier.}
 {161}{}{What are you, deaf? Are you the guy or not?}
-{162}{}{Yes.}
+{162}{}{Ja.}
 {163}{}{Like a fish in water.}
 {164}{}{Not.}
 {165}{}{Okay, let's make this quick. Take that off and I'll give you a new suit.}
 {166}{}{You're nothing but static.}
 {167}{}{Huh?}
-{168}{}{Okay.}
+{168}{}{Okej.}
 {169}{}{You're gonna off me? I don't think so!}
 {170}{}{Oh, well never mind.}
 {171}{}{The power armor. Give me the power armor, you moron.}
-{172}{}{Okay.}
+{172}{}{Okej.}
 {173}{}{I already made the deal. I'm not giving you any more.}
 {174}{}{You bet I got something for you, you bastard.}
 {175}{}{Okay, here's the suit. Now get out of here.}

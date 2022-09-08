@@ -66,7 +66,7 @@
 {165}{}{Thanks for your time. Goodbye.}
 {166}{}{You wish to take the test? Excellent, excellent! Nothing pleases me more than testing potential applicants... but I must warn you, the test is several hours long. Do you wish to take it now?}
 {167}{}{Well, anyone may take the test. I think in your case, however, it would be a waste of time... for both of us. Someone of your caliber is simply not Citizen material.}
-{168}{}{Sure.}
+{168}{}{Visst.}
 {169}{}{Not now. Can I ask you some other questions?}
 {170}{}{Maybe some other time.}
 {171}{}{I'd like to take the test anyway.}
@@ -95,7 +95,7 @@
 {194}{}{Why... you've passed! Congratulations.}
 {195}{}{Great. So I'm a Citizen?}
 {196}{}{Well, we still have to perform the physical examination. Fortunately, I have all the equipment right here. You might want to take off your boots.}
-{197}{}{Okay.}
+{197}{}{Okej.}
 {198}{}{You... you have a sixth toe! You're a mutant! How dare you even TRY to become one of us... you... you abomination! Get out! Out! And never come back!}
 {199}{}{Here comes the part when I lose my patience and kill every Citizen in Vault City for the fun of it. Starting with you.}
 {200}{}{I'm leaving, I'm leaving!}

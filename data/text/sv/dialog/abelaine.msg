@@ -4,7 +4,7 @@
 {200}{}{Greetings!}
 {201}{}{Hi, what's your name?}
 {202}{}{What can you tell me about the Abbey?}
-{203}{}{Bye.}
+{203}{}{Hej då.}
 {300}{}{If you want to know more about our order, talk to the Abbot. You can find him in his quarters on the third floor.}
 {301}{}{I see. A few more questions...}
 {400}{}{Of course. What would you like to know?}
@@ -16,7 +16,7 @@
 {600}{}{Hey! Before you go, perhaps you could do me a favor. I'm supposed to bring this machine part to Max in the
  basement copy room. But you see, my left knee has been acting up lately, and it's a real pain for me to go up and down
  all those stairs. Would it trouble you too much to bring him this part for me?}
-{601}{}{Sure.}
+{601}{}{Visst.}
 {602}{}{Sorry, I don't have time for this. Bye.}
 {603}{}{Do I look like your personal delivery service? Do it yourself, you fat lazy bitch. Bye.}
 {604}{}{Thanks! Here's the part. The copying room is in the basement. Just use the stairs directly behind Brother Matthew

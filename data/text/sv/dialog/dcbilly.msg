@@ -1,7 +1,7 @@
 {100}{}{You see a patron of the Hole.}
 {150}{}{This fellow sure isn't very attractive.}
 {151}{}{This guy's only got one tooth.}
-{152}{}{[TALK]}
+{152}{}{[TALA]}
 {153}{}{Your wife sure is pretty!}
 {154}{}{Get away from us.}
 {155}{}{You like her, huh?}
@@ -13,11 +13,11 @@
 {161}{}{Sure, but it'll cost you $200.}
 {162}{}{No way! Get away from us!}
 {163}{}{OK.}
-{164}{}{No.}
+{164}{}{Nej.}
 {165}{}{Alright! Now come with Billy, sweetie.}
 {166}{}{Now go away.}
 {167}{}{Thanks. Bye.}
-{168}{}{Bye.}
+{168}{}{Hej då.}
 {169}{}{Aw, shucks.}
 {170}{}{[DONE]}
 {171}{}{I am plumb tuckered out.}
@@ -35,7 +35,7 @@
 {183}{}{Don't bother me. I'm scoping for nice-looking chicks.}
 {184}{}{Good luck. You'll need it.}
 {185}{}{What am I, chopped liver?}
-{186}{}{Bye.}
+{186}{}{Hej då.}
 {187}{}{Oooh. OK. Bye.}
 {188}{}{[looks you up and down] No. I like chopped liver.}
 {189}{}{I don't need this from you!}

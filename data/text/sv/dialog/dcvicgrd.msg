@@ -31,7 +31,7 @@
 {261}{}{Thanks.}
 {275}{}{Thanks for cash. I'm just letting you talk to him. No funny stuff. He can't leave that room without Metzger's okay.}
 {276}{}{Now, I'm just letting you talk to him, okay? No funny stuff. He can't leave that room without Metzger's okay.}
-{277}{}{Okay.}
+{277}{}{Okej.}
 {285}{}{To be sure no one bugs him while he works on something for the boss, but mainly to be sure he doesn't run off.}
 {286}{}{Just to be sure he doesn't run off, I guess. He fixed that radio somehow.}
 {287}{}{Who's your boss?}
@@ -82,7 +82,7 @@
 {411}{}{Leave me alone! What's your problem?}
 {412}{}{I said talk to Metzger!}
 {413}{}{Okay, fine! You can talk to him, but that's it! He's not stepping a foot outside that room. Got it? Now beat it!}
-{414}{}{Okay.}
+{414}{}{Okej.}
 {415}{}{Thanks!}
 {430}{}{Yeah, talk to Metzger. I'm sure he has some work available. I think he said he needed another man.}
 {431}{}{Yeah, talk to Metzger. I'm sure he has some work available. He said he needed another man... but I'm sure you'll do.}
@@ -99,14 +99,14 @@
 {470}{}{Well, uh... I don't know. I guess it wouldn't hurt just for you to talk to him. $300 and I'll let you in.}
 {471}{}{You're nuts. That's too much!}
 {472}{}{Screw you, buddy!}
-{473}{}{Sure.}
+{473}{}{Visst.}
 {474}{}{Sorry, can't afford that.}
 {480}{}{Fine, see if I care.}
-{481}{}{Okay.}
+{481}{}{Okej.}
 {482}{}{Fine.}
 {490}{}{No, sorry.}
 {491}{}{I said no. Now beat it. You've got to talk to Metzger.}
-{492}{}{Okay.}
+{492}{}{Okej.}
 {500}{}{Too bad you didn't join us.}
 {501}{}{You should join the guild.}
 {502}{}{Just doing that guard thing.}

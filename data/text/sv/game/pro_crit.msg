@@ -20,7 +20,7 @@
 {1101}{}{A typical large rat.}
 {1200}{}{Mantis}
 {1201}{}{A mutated Mantis.}
-{1300}{}{Elder}
+{1300}{}{Äldste}
 {1400}{}{Hakunin}
 {1500}{}{Mynoc}
 {1600}{}{Spore Plant}

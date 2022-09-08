@@ -14,8 +14,8 @@
  English language. Therefore it is safe to assume that I am a talking dog. Now, do
  you intend to answer the question that I posed to you a moment ago?}
 {110}{}{Sorry, me forget question.}
-{111}{}{Yes.}
-{112}{}{No.}
+{111}{}{Ja.}
+{112}{}{Nej.}
 {113}{}{(sigh) Pay attention. Concentrate. Look me in the eyes. Now, are you ready?}
 {114}{}{Ready what?}
 {115}{}{Yes. Me ready.}
@@ -45,23 +45,23 @@
 {133}{}{Okay. Me go.}
 {134}{}{I'll try there. If I don't find it, I'll look around for it.}
 {135}{}{Then leave me in peace.}
-{136}{}{Okay.}
+{136}{}{Okej.}
 {137}{}{Ska ske.}
 {138}{}{Hello again. The life functions of my master have terminated. Are
  you my new master?}
-{139}{}{Okay.}
-{140}{}{No.}
+{139}{}{Okej.}
+{140}{}{Nej.}
 {141}{}{All right.}
 {142}{}{No thanks.}
 {143}{}{You are not my master. I cannot speak to you. Good bye.}
-{144}{}{Okay.}
+{144}{}{Okej.}
 {145}{}{Hello master. Have you found my motivation unit?}
 {146}{}{No, me look more.}
 {147}{}{Yes. Me find.}
 {148}{}{No, I'm still looking for it.}
 {149}{}{Got it right here.}
 {150}{}{I will wait here for your return, master.}
-{151}{}{Okay.}
+{151}{}{Okej.}
 {152}{}{Then please install the part, master! Please, master!}
 {153}{}{Okay. Calm down.}
 {154}{}{I appear to be fully functional now, master. Shall I join you?}

@@ -86,10 +86,10 @@
 {185}{}{I have some questions.}
 {186}{}{Your gratitude is enough for me. So long.}
 {187}{}{Okay, I got into the Shi computers. I don't know if I made it out undetected. I guess now the best thing is to hide. You want anything else?}
-{188}{}{Yes.}
+{188}{}{Ja.}
 {189}{}{No. See ya.}
 {190}{}{Got the Hubologists. No problem. Need anything else?}
-{191}{}{Yes.}
+{191}{}{Ja.}
 {192}{}{No. See ya.}
 {193}{}{You just made a big mistake, pal. I just turned the Shi against you through their computers. You're finished in San Francisco. }
 {194}{}{I guess I'd better kill you then.}

@@ -24,7 +24,7 @@
 {123}{}{Tell you father I have news about Mr. Bishop. Can you remember that?}
 {124}{}{Fnuh.}
 {125}{}{You're a poop brain! Poop brain!}
-{126}{}{Okay.}
+{126}{}{Okej.}
 {127}{}{News about Mr. Mishop. Okay?}
 {128}{}{Good enough.}
 {129}{}{Daddy says he can't see you.}

@@ -29,7 +29,7 @@
 {125}{}{I'm sorry, only Citizens are permitted to enter the Vault. I'm sure you
  understand.}
 {126}{}{Only Citizens may enter. Now leave.}
-{127}{}{Okay.}
+{127}{}{Okej.}
 {128}{}{Umgh}
 {129}{}{Of course. Please pass through.}
 {130}{}{Thankee!}

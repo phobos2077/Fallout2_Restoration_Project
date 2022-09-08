@@ -166,7 +166,7 @@
  And here they are!}
 {218}{}{I am against attacking any deathclaw.}
 {219}{}{I suddenly sense that my pack is in trouble. I am sorry to leave you, but I must check on my brothers.}
-{220}{}{Okay.}
+{220}{}{Okej.}
 {221}{}{The security cameras recorded what has happened. You should go check it.}
 {222}{}{You see a gray deathclaw. It's Goris.}
 {223}{}{You see a humanoid figure wearing a long sleeved, hooded robe. It's Goris.}

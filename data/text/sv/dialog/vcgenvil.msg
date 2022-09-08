@@ -1,6 +1,6 @@
 {100}{}{You see a peasant.}
 {101}{}{You see a peasant.}
-{102}{}{Hello.}
+{102}{}{Hej.}
 {103}{}{Good day to you.}
 {104}{}{Welcome to our village.}
 {105}{}{The monsters protect us.}

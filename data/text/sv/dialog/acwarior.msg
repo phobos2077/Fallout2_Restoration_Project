@@ -2,7 +2,7 @@
 {101}{}{You see a tribeswoman.}
 {150}{}{Before you stands a large warrior of your village, wearing
  pants fashioned from animal hides.}
-{151}{}{[TALK]}
+{151}{}{[TALA]}
 {152}{}{Hello, Chosen One, can I help you in your quest?}
 {153}{}{I'm just looking around the village one last time before I leave.}
 {154}{}{What can you tell me of the traders who trade with us?}
@@ -50,17 +50,17 @@
 {980}{}{I don't know anything about that.}
 {981}{}{Sorry. No clue.}
 {982}{}{Never heard of it.}
-{1000}{}{Elder}
-{1001}{}{Founder}
+{1000}{}{Äldste}
+{1001}{}{Grundare}
 {1002}{}{Vault Dweller}
 {1003}{}{Arroyo}
 {1004}{}{Klamath}
-{1005}{}{Vault}
+{1005}{}{Valv}
 {1006}{}{Chosen One}
 {1007}{}{Shaman}
 {1008}{}{Hakunin}
 {1009}{}{Healing Powder}
-{1010}{}{Bridge}
+{1010}{}{Bro}
 {1011}{}{Mynoc}
 {1100}{}{The Elder is your mother and our leader.}
 {1101}{}{Our great ancestor who gave us knowledge.}

@@ -3,14 +3,14 @@
 {102}{}{You see Hakunin. He's very near death.}
 {103}{}{Hakunin is badly burned. He smells like roast chicken, looks like burnt meatloaf, and you don't know how he's managed to stay alive this long.}
 {104}{hak001}{Greetings, Chosen. Why does the earth before me warm to the touch of your passing?}
-{105}{}{Uh? }
+{105}{}{Eh? }
 {106}{}{I've come to say goodbye. I'm leaving on my holy quest. }
 {107}{}{I'm heading out. I was hoping just this once you'd talk like a real person. }
 {108}{}{You are doing just way too many drugs. I'm outta here. }
 {109}{}{I'm hurt. Can you heal me?}
 {110}{}{There were some pretty nasty plants infesting your garden- I've taken care of them for you.}
 {111}{hak001a}{Please reveal to clouded eyes the purpose of your passage.}
-{112}{}{Uh? }
+{112}{}{Eh? }
 {113}{}{I've come to say goodbye. I'm leaving on my holy quest. }
 {114}{}{I'm heading out. I was hoping just this once you'd talk like a real person. }
 {115}{}{You are doing just way too many drugs. I'm outta here. }
@@ -22,7 +22,7 @@
 {121}{}{Did you just ask me to do you a favor? If so, sure, why not?}
 {122}{}{I'll do something for you, but since I have to work this hard just to understand you, this task will cost.}
 {123}{hak003}{A blessing on you, for you are truly a child of nature. Would you please use your special talents and rid my garden of the plants of dark soul?}
-{124}{}{Uh-huh. }
+{124}{}{Aha. }
 {125}{}{Nuh-uh. Youuu. Giv. Hed hurt.}
 {126}{hak004}{May your aura grace my presence when you are... Oh, come to my door when you're done and I'll give you something good.}
 {127}{}{Urgh.}
@@ -49,7 +49,7 @@
 {148}{hak008}{The burden you carry now will grow ever heavier.}
 {149}{hak009}{May the gods bless your efforts, Chosen. May your aura grace my presence when the earth breathes clean again.}
 {150}{}{I take it you want to see me again when I'm done... You could have just said so, you know.}
-{151}{}{Goodbye.}
+{151}{}{Farväl.}
 {152}{hak010}{Ha! The founder's spirit lives in you. Focus in to fortify the self to expand the greatness to enable such to touch the world. Of course, the rewards will be more than those of the spirit. }
 {153}{}{Sounds good. I'll be back when I'm done.}
 {154}{}{So, I'm getting an actual thing in payment. Good enough. See ya later.}
@@ -91,10 +91,10 @@
 {190}{}{I don't have a garden- what the hell are you talking about this time?}
 {191}{}{I'd like you to make some healing powder for me.}
 {192}{}{Oh, never mind. I've got to go.}
-{193}{}{Ow?}
+{193}{}{Aj?}
 {194}{}{Ooog! Bak!}
 {195}{hak020}{The pleasure of these words fills me. Alas, the gods whisper for my ear. Goodbye.}
-{196}{}{Bye.}
+{196}{}{Hej då.}
 {197}{}{Still mixing the herbs, huh? See you later.}
 {198}{hak021}{We all have gardens. May your journeys act as tending. Be well. I must seek audience with the gods now.}
 {199}{}{See ya.}
@@ -104,7 +104,7 @@
 {203}{hak023}{I am honored to serve the Chosen.}
 {204}{hak024}{Such is life. Two creates a third. You will need both xander root and broc flower for the healing powder.}
 {205}{}{Oh. Thanks}
-{206}{}{Poo.}
+{206}{}{Bajs.}
 {207}{hak025}{May this be of no use.}
 {208}{}{Okay. Thanks.}
 {209}{}{Uh!}
@@ -123,7 +123,7 @@
 {222}{hak028d}{May the Fire toast your bottom until you get this done.}
 {223}{}{Thanks.}
 {224}{}{Say what?!}
-{225}{}{Uh.}
+{225}{}{Eh.}
 {226}{}{Huh?!}
 {227}{hak029}{Welcome back, Chosen. I see by your face the salvation of the GECK is not yet ours. Be tireless as the ant before our reserves run out. You are our last hope.}
 {228}{}{Uh-huh.}

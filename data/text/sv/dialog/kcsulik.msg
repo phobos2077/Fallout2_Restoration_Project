@@ -38,7 +38,7 @@
 {143}{}{Ok... Can I ask you something else?}
 {150}{slk6b}{That be funny, fren. At least, Grampy Bone think so. He say you got wit. Say
  you going to need it.}
-{151}{}{Why?}
+{151}{}{Varför?}
 {152}{}{Who's Grampy Bone?}
 {153}{}{Can I ask you something else?}
 {160}{slk6c}{Him got feeling about you. Grampy Bone one smart spirit.}
@@ -60,7 +60,7 @@
 {222}{}{Let me ask you something else.}
 {223}{}{I guess that's all I need to know for now. Goodbye.}
 {230}{slk8}{We and I thank you. Name's Sulik. How can we repay?}
-{231}{}{Uh.}
+{231}{}{Eh.}
 {232}{}{Bye bye.}
 {233}{}{Who's "we?"}
 {234}{}{I was happy to help, Sulik. Tell me about yourself.}
@@ -218,7 +218,7 @@
 {747}{slk41c}{What's ours is yours, fren.}
 {750}{slk42}{We and I thank you. You try to do a good thing, just don't have the bread. Maybe you
  can raise some?}
-{751}{}{Uh.}
+{751}{}{Eh.}
 {752}{}{Sorry, I must have miscounted. Goodbye.}
 {753}{}{I thought I had enough. Sorry. Let me ask you something.}
 {754}{slk43a}{Yeah. We be giving this to Maida. Then we be free. Want us to walk by-and-by?}
@@ -247,7 +247,7 @@
  peep him, get pretty hot.}
 {777}{}{Vic's here but I don't think he knows much about slaves. Other than being held as one in the
  Den, that is. Tell me something else.}
-{778}{}{Bye.}
+{778}{}{Hej då.}
 {779}{slk48a}{Slavers got our sis. Thought Vic be having information. Couldn't peep him, got p.o.'d, drank
  like a fish. Spirits of Anger and Chaos pop out and now we have to pay some coin to make it right.}
 {780}{slk48b}{We be trying to know which way to go to find slavers who take sis. Maybe south.}
@@ -261,7 +261,7 @@
 {790}{slk52a}{You're bad news walking. Grampy Bone say we be stacking up the bad karma just being
  near you.}
 {791}{slk52b}{We're there. Grampy Bone say we might find sis with you.}
-{792}{}{Uh.}
+{792}{}{Eh.}
 {793}{}{I hope so. In any case it will be nice to travel with you, and, uh, your Grandfather's
  bone.}
 {794}{slk53}{Not just Grampy Bone, all tribe's spirits. Grampy Bone just wiser and stronger than
@@ -446,8 +446,8 @@
 {3006}{}{To the rising sun.}
 {3007}{}{To the Northeast.}
 {3008}{}{We don't know anything about that.}
-{3009}{}{Yes.}
-{3010}{}{No.}
+{3009}{}{Ja.}
+{3010}{}{Nej.}
 {3011}{}{What do you expect from us?}
 {3012}{}{That not be nice.}
 {3013}{}{Thank-you.}
@@ -488,7 +488,7 @@
  your home so soon.}
 {3057}{slk89}{Good to see home, but not while sis is still gone. Be wanting to stay in your
  company, OK?}
-{3058}{}{Yes.}
+{3058}{}{Ja.}
 {3059}{}{No, I think it's time you looked for her yourself.}
 {3060}{slk90}{Maybe so. We and I miss you, though. Good spirits be with you, fren.}
 {3061}{}{Thanks, Sulik. Goodbye. [Sulik hands you his gear.]}

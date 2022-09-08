@@ -153,7 +153,7 @@
 {252}{}{It's a drug with a 100% addiction rate, and severe withdrawals.}
 {253}{}{Please keep me posted.}
 {254}{}{Can I ask you some other questions?}
-{255}{}{Sure.}
+{255}{}{Visst.}
 {256}{}{This is sad news, we need to find a way to put a stop to this. If this keeps up, our ore supplies will dwindle to nothing. Please help us.}
 {257}{}{I'll see what I can do.}
 {258}{}{He has? Well then, what are you doing here? Take it to Doc Johnson in Redding! He should be able to find a way to administer it to the miners.}

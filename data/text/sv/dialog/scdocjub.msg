@@ -13,7 +13,7 @@
 {112}{}{There you are, sonny.}
 {113}{}{Again.}
 {114}{}{Thanks, Doc. Maybe you can help me out with some answers.}
-{115}{}{Goodbye.}
+{115}{}{Farväl.}
 {116}{}{It'll cost you $50.}
 {117}{}{Just heal me.}
 {118}{}{I'm not staying here.}

@@ -2,7 +2,7 @@
 {101}{}{You see Becky.}
 {150}{}{This looks like the owner.}
 {151}{}{This is Becky, owner of this place.}
-{152}{}{[TALK]}
+{152}{}{[TALA]}
 {153}{}{Hello, stranger, and welcome to my saloon. I'm Becky.}
 {154}{}{Hello, I am }
 {155}{}{. What's there to do around here?}
@@ -36,7 +36,7 @@
 {183}{}{Gwah.}
 {184}{}{I'll give you something to beat.}
 {185}{}{Quick question first?}
-{186}{}{Bye.}
+{186}{}{Hej då.}
 {187}{}{A shot of whiskey is $5. Pay first.}
 {188}{}{Huh?}
 {189}{}{Here's the money.}
@@ -75,11 +75,11 @@
 {221}{}{Why? Why did you destroy my still? You bastard!}
 {222}{}{Nothing personal. I got paid to do it.}
 {223}{}{I'm sorry.}
-{224}{}{Bye.}
+{224}{}{Hej då.}
 {225}{}{I'll just make another one, you know.}
 {226}{}{I know.}
 {227}{}{Well, that's good.}
-{228}{}{Bye.}
+{228}{}{Hej då.}
 {232}{}{Why? Why did you destroy my still? You bitch!}
 {233}{}{Where are you, baby?}
 {234}{}{Are you coming?}

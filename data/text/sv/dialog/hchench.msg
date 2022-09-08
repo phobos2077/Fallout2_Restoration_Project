@@ -42,10 +42,10 @@
 {219}{}{I have no idea what his history is. I mean, just about all of us caravan guards are drifters
  who came here for the job. Figure he's another one who had to vacate someplace else in a hurry. Any
  more questions?}
-{220}{}{Yes.}
-{221}{}{No.}
+{220}{}{Ja.}
+{221}{}{Nej.}
 {222}{}{All right. See ya, then.}
-{223}{}{Bye.}
+{223}{}{Hej då.}
 {300}{}{Hatch}
 {301}{}{Stark}
 {302}{}{Darin}

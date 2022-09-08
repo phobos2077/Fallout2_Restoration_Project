@@ -7,7 +7,7 @@
 {106}{}{So what's for sale?}
 {107}{}{You look like you're good with your hands. You do have hands, don't you?}
 {108}{}{I got $5. You got any good gossip?}
-{109}{}{Goodbye.}
+{109}{}{Farväl.}
 {110}{}{See that one there? That's my favorite - that one's Edna. I name all my stuff, see - they're like children to me. I hate having to sell 'em, but I got to eat.}
 {111}{}{You're messing with all my children!}
 {112}{}{Yeah, right. Here's a fiver. You know any good gossip?}
@@ -34,7 +34,7 @@
 {133}{}{Good enough. I'll see you later.}
 {134}{}{Look, if you get the cash, come back. I'll probably still have it.}
 {135}{}{Fair enough.}
-{136}{}{Goodbye.}
+{136}{}{Farväl.}
 {137}{}{There she is! Claudia's all installed.}
 {138}{}{Gimme a little more time. I'm still working on the cussed thing.}
 {139}{}{Whoa! I don't think I've got a spare brain for you.}

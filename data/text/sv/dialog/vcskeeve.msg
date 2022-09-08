@@ -22,7 +22,7 @@
 {121}{}{Since you're a part of customs and all, I was wondering if you had any 'advice' on how to bring certain items within the city.}
 {122}{}{Nothing. Sorry to bother you.}
 {123}{}{The Vault? It's inside the city. Why? You looking to get past the gate?}
-{124}{}{Yes.}
+{124}{}{Ja.}
 {125}{}{No, just looking around. Thanks.}
 {126}{}{Well, you could go see my boss, Wallace, and TRY to get permission to get inside, but you'd be wasting your time. He never lets anybody in. Of course, there's other ways...}
 {127}{}{What other ways?}
@@ -34,7 +34,7 @@
 {133}{}{Probably not enough to interest you. I'll be back when I have some more.}
 {134}{}{Never mind. Maybe we'll talk later.}
 {135}{}{Well, there's a few things you can do. One is become a Citizen. They never search Citizens. Of course, your chances of becoming a Citizen are next to nothing.}
-{136}{}{Why?}
+{136}{}{Varför?}
 {137}{}{What else could I do?}
 {138}{}{Nevermind. Maybe we'll talk some other time.}
 {139}{}{If you're not born a Citizen, then you have to take a test to become a Citizen. Number of Outsiders that have taken the test and become Citizens? Zero. Your chances? LESS than zero.}

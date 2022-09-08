@@ -43,7 +43,7 @@
 {138}{}{Hear someone call. Me go.}
 {139}{}{I see. Let us try this again. Hello. I am Valdis. What is your name?}
 {140}{}{Me}
-{141}{}{Bye.}
+{141}{}{Hej då.}
 {142}{}{Unauthorized personnel. Meaning 'people who do not have permission to be here.'}
 {143}{}{Ok. Me understand.}
 {144}{}{Me get another of those headaches. Me go now.}

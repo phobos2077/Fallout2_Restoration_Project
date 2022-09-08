@@ -30,7 +30,7 @@
 {129}{}{Okay. Me go get suit.}
 {130}{}{Yes, Sergeant!}
 {131}{sgnt11}{Those paper-shuffling jackasses! How the hell do they expect me to run this unit if they keep shortchanging me on supplies! Double-time it over to the armory and get your issue, then report back to me. Dismissed!}
-{132}{}{Okay.}
+{132}{}{Okej.}
 {133}{}{Yes, Sergeant!}
 {134}{sgnt12}{If I like you, you can call me Sarge. But guess what? I don't like you! Do you understand?}
 {135}{}{Yes, Sergeant!}

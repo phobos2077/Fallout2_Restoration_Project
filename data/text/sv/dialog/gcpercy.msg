@@ -41,7 +41,7 @@
 {135}{}{Cool, easy job for lotsa loot. I like it.}
 {136}{}{Well you see, I had a friend, name o' Woody. That Woody, he can sleep like nobody I ever did see. What's worse, he
  likes to travel. Really likes to kick up the dust that one does.}
-{137}{}{Okay.}
+{137}{}{Okej.}
 {138}{}{Well, that ain't so much of a problem, 'round here that is. But, last I heard Woody was goin' to take a stroll over
  to the Den. You know where the Den is?}
 {139}{}{Yes, I know where the Den is. Go on.}

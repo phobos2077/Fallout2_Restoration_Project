@@ -50,7 +50,7 @@
 {149}{}{Uh... what you said.}
 {150}{}{Ah, I see.}
 {151}{}{Normally the vault overseer would be stationed here but Vault 13 has been fully automated.}
-{152}{}{Why?}
+{152}{}{Varför?}
 {153}{}{Okay, me ask more.}
 {154}{}{Why? I mean, isn't that unusual?}
 {155}{}{I see. Let's change the subject.}

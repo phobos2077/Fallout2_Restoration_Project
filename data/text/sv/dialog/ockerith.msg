@@ -15,7 +15,7 @@
 {113}{}{Who built this hatchery?}
 {114}{}{I'll be leaving now.}
 {115}{}{Yes. I am the current pack mother. After my eggs hatch, the other mothers will have their turn.}
-{116}{}{Okay.}
+{116}{}{Okej.}
 {117}{}{Other mothers?}
 {118}{}{I see.}
 {119}{}{There are other mothers?}
@@ -41,9 +41,9 @@
  not allow it. I do not see the wisdom in this, but Gruthar's word is law and he will be obeyed. Should
  you talk to this human, take care. He cannot be trusted!}
 {134}{}{How get by guard outside?}
-{135}{}{Okay.}
+{135}{}{Okej.}
 {136}{}{How did this person get by the guard outside?}
-{137}{}{Okay.}
+{137}{}{Okej.}
 {138}{}{The guard was added after this incident occurred. We were more trusting back then. Now we are
  more careful.}
 {139}{}{What happen to human?}

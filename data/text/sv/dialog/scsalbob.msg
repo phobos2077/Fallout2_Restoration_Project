@@ -10,8 +10,8 @@
 {109}{}{Saltbeef? What kind of name is that?}
 {110}{}{What are you doing here?}
 {111}{}{That's a right fine name, yep. Say, you wouldn't have a drink on ya, pardner?}
-{112}{}{Yes.}
-{113}{}{No.}
+{112}{}{Ja.}
+{113}{}{Nej.}
 {114}{}{Get away from me, you stinking bum!}
 {115}{}{Well, there warn't no need to be rude about it. Just wanted a little sip, see. Steady my nerves...}
 {116}{}{Hoo-wee! Sounds like you got yerself some mighty fine hooch there! Say, hows about sharing a little? Just a little sip.}
@@ -34,8 +34,8 @@
 {133}{}{Well bite me, old timer!}
 {134}{}{Rile me? Rile me! You ain't seen me riled yet! Now jes' git outta my sight before you gets me really upset! Gwan! Git!}
 {135}{}{Well bite me, too! Now yer talking. Don't take no lip from nobody, pardner! Say, you got any hooch on ya? Just a little sip?}
-{136}{}{Yes.}
-{137}{}{No.}
+{136}{}{Ja.}
+{137}{}{Nej.}
 {138}{}{Get away from me you, stinking bum!}
 {139}{}{Hee, hee, hee! It's mine now, pardner. You'll jes' have to find yer own!}
 {140}{}{Boss let's me stay here. I run this stable! Do a little cleaning, keep a square camp.}
@@ -45,7 +45,7 @@
 {144}{}{Bite me!}
 {145}{}{You're a feisty one, old timer.}
 {146}{}{Damn right I am! You don't have a little drink on you, do you now? Fer an old man.}
-{147}{}{Yes.}
-{148}{}{No.}
+{147}{}{Ja.}
+{148}{}{Nej.}
 {149}{}{Get away from me you stinking bum!}
 {150}{}{.}

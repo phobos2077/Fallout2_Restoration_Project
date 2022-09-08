@@ -32,7 +32,7 @@
 {250}{}{Do you know a man named Vic?}
 {251}{}{I'm looking for a Merchant.}
 {252}{}{You ever heard of Vault 13?}
-{253}{}{Bye.}
+{253}{}{Hej då.}
 {254}{}{Work.}
 {255}{}{Food.}
 {256}{}{Kill.}
@@ -40,7 +40,7 @@
 {270}{}{Ah, a bloodthirsty one. Well... Talk to the boss. We might have a place for ya. Go through the back door.}
 {271}{}{Metzger's never had a bitch slaver, but if you're really that bloodthirsty, check with him. He's right through that door.}
 {272}{}{Okke.}
-{273}{}{Uh.}
+{273}{}{Eh.}
 {274}{}{Krook}
 {280}{}{Talk ta Metzger about that. He doesn't normally sell to the public. Has his hands full with... bigger customers.}
 {281}{}{Who's Metzger?}
@@ -58,7 +58,7 @@
 {304}{}{Okay, thanks. Bye.}
 {310}{}{He's in the back room right through the door over there.}
 {311}{}{You playing with me? He's right back there. Just go through that door.}
-{312}{}{Okay.}
+{312}{}{Okej.}
 {313}{}{Thanks.}
 {320}{}{Damn, you don't know Metzger? What're ya doin' in this town, if not ta see him? He's the head of the Slaver's Guild.}
 {321}{}{How many times do I have to tell ya? He's the slave master. He runs things in this town.}
@@ -81,7 +81,7 @@
 {353}{}{I was just joking, man.}
 {354}{}{I'm sorry. I was just trying to impress you.}
 {360}{}{Run along, before I change m'mind.}
-{361}{}{Okay.}
+{361}{}{Okej.}
 {370}{}{What? Oh, you must be looking for Mom's. You're one building off. She's in the building directly south. S-o-u-t-h. That way. [Aidan points out the door.]}
 {371}{}{Huh? Uh... Oh.}
 {380}{}{Ya look like ya might fit in, but Metzger's never hired a woman. Not sure why, but I doubt he's gonna start now.}

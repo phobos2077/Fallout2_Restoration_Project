@@ -87,7 +87,7 @@
 {1001}{}{I can do that.}
 {1002}{}{I got it.}
 {1003}{}{Glad to help.}
-{1004}{}{Okay.}
+{1004}{}{Okej.}
 {1005}{}{I'll try.}
 {1100}{}{If you have trouble, let me know.}
 {1101}{}{You got it?}

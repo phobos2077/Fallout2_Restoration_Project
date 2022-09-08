@@ -85,7 +85,7 @@
 {405}{}{(Puts his fingers together.) And... the money. Has it been recovered?}
 {406}{}{No, I couldn't find the money.}
 {407}{}{No, Lloyd already spent the money.}
-{408}{}{Yes.}
+{408}{}{Ja.}
 {410}{}{No, Mr. Salvatore, I couldn't find the money.}
 {411}{}{No, Mr. Salvatore, Lloyd already spent the money.}
 {412}{}{Yes, Mr. Salvatore.}
@@ -170,7 +170,7 @@
 {621}{}{How about...}
 {630}{}{(Nods) That is a... good name. Now go speak to Mason. He will have...
 something for you.}
-{640}{}{Greetings, }
+{640}{}{Hälsningar,}
 {645}{}{I have no further need of your services, }
 {650}{}{...}
 {651}{}{...hurkkk...}

@@ -24,7 +24,7 @@
 {122}{}{My name is Schreber, Dr. Schreber. I'm the base physician among
  other things. Don't bother with your name, soldier. All of you grunts look
  the same in that armor of yours.}
-{123}{}{Okay.}
+{123}{}{Okej.}
 {124}{}{Got it.}
 {125}{}{I work as the base physician but that's just a sideline. Actually,
  I'm a geneticist.}
@@ -120,7 +120,7 @@
 {184}{}{Oh yes. I removed his motivator circuit and gave it to
  Raul up in maintenance. It could always be put back in... Maybe
  I'll do that someday just to see if he's changed his attitude.}
-{185}{}{Okay.}
+{185}{}{Okej.}
 {186}{}{All right.}
 {187}{}{Are you a civilian?}
 {188}{}{This is the med lab. The armory is down the hall on your left.}

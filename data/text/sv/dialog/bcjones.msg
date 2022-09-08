@@ -103,6 +103,6 @@
  and was heading out when Darion captured me.}
 {231}{}{That's terrible. Well, I hope everything works out for you now.}
 {240}{}{I hope so too. I think I can put my medical skills to good use here.}
-{241}{}{Bye.}
+{241}{}{Hej då.}
 {250}{}{Thanks again for everything.}
 {251}{}{It feels good to be helping civilized people again.}

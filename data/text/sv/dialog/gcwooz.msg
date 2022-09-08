@@ -96,7 +96,7 @@
 {271}{}{I knew that. I was just testing you. Gee, Wooz, you're so smart. Tell me something else.}
 {272}{}{I am not! You're the one that's dumb. I'm leaving. Goodbye.}
 {280}{}{(Wooz beckons you closer) Let me whisper in your ear...}
-{281}{}{Okay.}
+{281}{}{Okej.}
 {282}{}{I don't think so; you're just trying to eat my brains, aren't you? I'm leaving. Goodbye.}
 {290}{}{FUCK YOU!!! Now get out of my bar. Chosen one. Sheesh, what a loser.}
 {291}{}{I don't want to stay in your stupid bar, anyway. You didn't have to yell like that. Goodbye.}

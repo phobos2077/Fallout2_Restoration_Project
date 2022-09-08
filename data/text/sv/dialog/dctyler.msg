@@ -36,12 +36,12 @@
 {270}{}{Sure he did. I've never seen you around here before. Now, beat it.}
 {271}{}{Let me in there now, before I have to get angry on your face!}
 {272}{}{Look, he had me come into town just to inspect his damn stuff. I could care less.}
-{273}{}{Okay.}
+{273}{}{Okej.}
 {280}{}{Whatever, slaver. Just go on in. Does he think it's just going to up and leave?
  Who the hell would want that shit?}
 {281}{}{Fuck it. Just go in. Does he think it's just going to up and leave? Who the
  hell would want that shit anyhow?}
-{282}{}{Bye.}
+{282}{}{Hej då.}
 {290}{}{Okay, fuck. It's not like I really care. Like you would know what to do with any of that shit anyway.}
 {291}{}{Grrrr.}
 {292}{}{Thanks.}
@@ -53,12 +53,12 @@
 {310}{}{Beat it.}
 {320}{}{That's nice. Me Tyler. Me go bye bye.}
 {321}{}{Ur.}
-{322}{}{Uh...}
+{322}{}{Eh...}
 {330}{}{Beat it, freak.}
 {331}{}{Sukyu!}
 {332}{}{Arug!}
 {340}{}{I don't think so. Now beat it.}
-{341}{}{Okay.}
+{341}{}{Okej.}
 {342}{}{But!}
 {343}{}{Fine.}
 {350}{}{Yeah, I bet you are. Who sent you?}
@@ -86,13 +86,13 @@
 {393}{}{I understand, thanks. Have fun.}
 {394}{}{See ya.}
 {400}{}{You better believe it! We're going to drink until we drop!}
-{401}{}{Bye.}
+{401}{}{Hej då.}
 {410}{}{What the fuck do you care. Beat it.}
 {411}{}{Yeah, so-so.}
 {412}{}{You trying to annoy me?}
 {413}{}{Not bad.}
 {414}{}{Tired.}
-{415}{}{Okay.}
+{415}{}{Okej.}
 {416}{}{Beat it.}
 {417}{}{Been better.}
 {418}{}{Oh.}
@@ -128,7 +128,7 @@
 {502}{}{Sounds good.}
 {510}{}{Look, I don't give a rat's ass what you are. I'm not giving you a dollar
  until after they show. We'll do the fighting, but you better be sure they show.}
-{511}{}{Okay.}
+{511}{}{Okej.}
 {600}{}{So, you're the boss's new whipping boy?}
 {601}{}{What do ya want?}
 {602}{}{What's up with Metzger? Doesn't he trust us anymore?}

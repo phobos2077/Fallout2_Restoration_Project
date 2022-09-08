@@ -44,7 +44,7 @@
 {143}{}{No. Actually, I'm not looking.}
 {144}{}{All right. ::pant:: Before I do, maybe we ought to set up a way to get it back in me. Talk to Dr. Fung about that, all right? Thanks.}
 {145}{}{All right.}
-{146}{}{No.}
+{146}{}{Nej.}
 {147}{}{I really appreciate what you're doing for me. I won't forget it.}
 {148}{}{No prob.}
 {149}{}{Dude, I can't really get places without a lot of effort. If you can't help me, I'm screwed.}
@@ -65,7 +65,7 @@
 {164}{}{Ska ske.}
 {165}{}{Can you cover me?}
 {166}{}{Yeah, I suppose.}
-{167}{}{No.}
+{167}{}{Nej.}
 {168}{}{I really appreciate this. Come back in a day and I'll see what help I can give you.}
 {169}{}{You better.}
 {170}{}{I can't afford to do this on my own. I guess I'm going to die.}

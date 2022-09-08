@@ -42,7 +42,7 @@
 {209}{}{Yes, Aunt Morlis. I mean no, Aunt Morlis. Uh, I've got to go, Aunt Morlis.}
 {210}{}{So, child. Once again you stand before me. Are you empty-handed yet again?}
 {211}{}{Yes, Aunt Morlis.}
-{212}{}{Listen, }
+{212}{}{Lyssna,}
 {213}{}{. People are dying, cattle are dying, and crops are failing. Everyone is either hungry, sick, or both. Our time draws near. If you do not find the GECK soon, we are doomed. Do you understand me?}
 {214}{}{Yes, Aunt Morlis.}
 {215}{}{Then get yourself out of here and find the GECK! People are depending on you!}

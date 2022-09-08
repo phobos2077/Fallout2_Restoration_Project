@@ -5,7 +5,7 @@
 {104}{}{Huh? Gug?}
 {105}{}{What's going on?}
 {106}{}{You come. Stop bad man. Stop him no break machine. Okay?}
-{107}{}{Okay.}
+{107}{}{Okej.}
 {108}{}{No, no come.}
 {109}{}{Oh, god, it's Jack. He's threatening to blow up the power plant. There's no time, you have to stop him for me. You can do that, can't you?}
 {110}{}{Stop wasting time. Lead on.}
@@ -16,8 +16,8 @@
 {115}{}{I don't know! I'm just the city engineer. You figure it out!}
 {116}{}{Crap! He's damaged the core unit. It's got to be fixed before things really go to hell. You any good at repairing things?}
 {117}{}{Urrgh.}
-{118}{}{Yes.}
-{119}{}{No.}
+{118}{}{Ja.}
+{119}{}{Nej.}
 {120}{}{What was I thinking?}
 {121}{}{Look, do what you can with the generator. I've got to stabilize the core. You've got about 30 seconds, I think. After that it'll be too late. Come on, Toto.}
 {122}{}{Damn! Then stand back. Unless I'm real lucky, the whole thing's going to blow. Let's go, Toto.}
@@ -30,8 +30,8 @@
 {129}{}{Crap! The whole grid's down. This is going to take forever to fix. No time to talk. Come on, Toto.}
 {130}{}{Look, I don't blame you for what happened, but I'm not in a real chatty mood.}
 {131}{}{You killed him! I mean, did you have to kill him? Wasn't there some other way?}
-{132}{}{Yes.}
-{133}{}{No.}
+{132}{}{Ja.}
+{133}{}{Nej.}
 {134}{}{You should have tried it then, instead of just killing him. Get out of here, you monster!}
 {135}{}{It's terrible. I wonder what made him do it? The town owes you its thanks. Look, it's not much, but here's some manuals I've been collecting. Maybe you can sell them or something.}
 {136}{}{Don't talk to me, you murdering swine.}

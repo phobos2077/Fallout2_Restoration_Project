@@ -13,7 +13,7 @@
 {109}{}{Raul, Quincy wants to see you.}
 {110}{}{Quincy, huh? Well, Raul don't want to see him, man. Raul is tired of
  his shit, you know?}
-{111}{}{Okay.}
+{111}{}{Okej.}
 {112}{}{Quincy say you asshole. You no got balls see him.}
 {113}{}{Fine.}
 {114}{}{Quincy said you were an asshole and that you wouldn't have
@@ -21,7 +21,7 @@
 {115}{}{ Hey man, Raul don't take no shit from nobody. You see Quincy working on these
  birds? No way, man. Only Raul works on these babies. You know why? Cause
  Quincy don't know DICK, man, that's why!}
-{116}{}{Uh...}
+{116}{}{Eh...}
 {117}{}{Well...}
 {118}{}{Hey, sorry, man. Raul shouldn't be yelling at you, you know? It's
  not your fault; you're just the messenger. Hey, man, you busy right now?}
@@ -35,7 +35,7 @@
 {124}{}{Hey, thanks, man. Raul owes you one!
  Don't go away and, hey, man, if anybody
  screws with Raul's birds, you shoot them in the ass. Ok?}
-{125}{}{Okay.}
+{125}{}{Okej.}
 {126}{}{Hey man, what you think you doing? Get the fuck away from that bird,
  man! Raul's got enough problems without you grunts fucking with things, you
  know? Damn flyboys are bad enough!}
@@ -47,7 +47,7 @@
 {130}{}{No thanks, you're too tough for me pal.}
 {131}{}{Why use fists when I have a perfectly good gun?}
 {132}{}{Then don't fuck with Raul's birds, man! Get out of here!}
-{133}{}{Okay.}
+{133}{}{Okej.}
 {134}{}{Raul thinks you must be nuts walking around here out of uniform.}
 {135}{}{Hey, man, if the sergeant catches you out of uniform he'll hand
  you your ass.}

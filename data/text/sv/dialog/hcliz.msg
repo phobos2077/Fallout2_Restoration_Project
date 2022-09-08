@@ -56,7 +56,7 @@
 {152}{}{Oh, well, if you got it from a reliable source, then yeah. Are you going to put an end to the
  mutants' domination?}
 {153}{}{Yep.}
-{154}{}{No.}
+{154}{}{Nej.}
 {155}{}{Then I guess I'd better start cleaning up the loose ends.}
 {156}{}{[DONE]}
 {157}{}{I don't support killin' in this store. Get out.}
@@ -68,14 +68,14 @@
 {162}{}{If you're really interested in killing mutants, maybe you ought to go talk to Jacob the chemist.}
 {163}{}{Jacob, eh? Will do.}
 {164}{}{Thought you might be. Now get along.}
-{165}{}{Sure.}
+{165}{}{Visst.}
 {166}{}{In that case, take the hidden passage in the floor in my room down to the stronghold. I got a
  small arsenal down there. Git going.}
 {167}{}{Thanks.}
 {168}{}{Coincidentally, I got rid of all the guns I had except what you see here. Help you with
  somethin' else?}
-{169}{}{Yes.}
-{170}{}{No.}
+{169}{}{Ja.}
+{170}{}{Nej.}
 {171}{}{I ain't sellin' to you. Get out of my store.}
 {172}{}{[DONE]}
 {173}{}{The store is closed. We open at eight.}

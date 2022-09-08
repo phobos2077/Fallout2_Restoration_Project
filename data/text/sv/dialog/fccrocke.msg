@@ -25,8 +25,8 @@
 {124}{}{What new tech have you developed?}
 {125}{}{Loud and clear. See ya.}
 {126}{}{Well... I *guess* that'll have to do. It's a deal. Do you have the armor to be hardened on you?}
-{127}{}{Yes.}
-{128}{}{No.}
+{127}{}{Ja.}
+{128}{}{Nej.}
 {129}{}{Great. That'll cost you $10,000, straight up, no bartering. I need some new equipment.}
 {130}{}{$10,000? That's outrageous! I don't have that kind of money!}
 {131}{}{All right. Here you go.}
@@ -40,7 +40,7 @@ Are you really threatening me for this?}
 {138}{}{I'll be back for the armor.}
 {139}{}{I can't very well work my magic on it if you don't have it. Come back when you do.}
 {140}{}{I have more questions.}
-{141}{}{Bye.}
+{141}{}{Hej då.}
 {142}{}{::he shrugs::
 You want this armor or not? It's $10,000 flat out.}
 {143}{}{I'll get back to you.}
@@ -48,8 +48,8 @@ You want this armor or not? It's $10,000 flat out.}
 {145}{}{Highway robbery. No way.}
 {146}{}{::he looks into your eyes and decides that you're serious::
 Do you have the armor here?}
-{147}{}{Yes.}
-{148}{}{No.}
+{147}{}{Ja.}
+{148}{}{Nej.}
 {149}{}{::he looks into your eyes and decides that you're bluffing::
 Try it, bucko. You'll have guards down on your ass and you'll never learn how to harden your armor.}
 {150}{}{Fine. Die, pencil-neck.}
@@ -66,7 +66,7 @@ Try it, bucko. You'll have guards down on your ass and you'll never learn how to
 {161}{}{I have some questions for you.}
 {162}{}{I'm here for my armor.}
 {163}{}{Too late.}
-{164}{}{Bye.}
+{164}{}{Hej då.}
 {165}{}{It's not ready yet. You have to give me time!}
 {166}{}{Fine. I have some questions.}
 {167}{}{Fine. I'll be back.}
