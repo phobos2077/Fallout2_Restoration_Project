@@ -11,7 +11,7 @@
 {110}{}{You're kidding.}
 {111}{}{Ha-ha.}
 {112}{}{There you are, sonny.}
-{113}{}{Again.}
+{113}{}{Igen.}
 {114}{}{Thanks, Doc. Maybe you can help me out with some answers.}
 {115}{}{Farväl.}
 {116}{}{It'll cost you $50.}

@@ -36,7 +36,7 @@
 {222}{}{I've got enough for that.}
 {223}{}{I think I'll pass for right now. Let me ask you something else.}
 {224}{}{Alright then. This is going to take two of us to move this thing, so let me help you fit it to your friend here.}
-{225}{}{[Done]}
+{225}{}{[Färdig]}
 {226}{}{Hey, this fits nicely!}
 {300}{}{I might know a thing or two. What would you like to know?}
 {301}{}{How often do you get resupplied?}

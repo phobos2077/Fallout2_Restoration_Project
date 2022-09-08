@@ -4,5 +4,5 @@
 {201}{}{This place is nice.}
 {202}{}{Have you seen my invisible friend?}
 {203}{}{You smell!}
-{204}{}{Hi!}
+{204}{}{Hej!}
 {500}{}{Mommy!}

@@ -166,7 +166,7 @@
  break open. And another thing, my fingernails keep tearing...}
 {491}{}{Hold on! Wait! I think I've heard enough. Uh, let's back up a little.}
 {500}{}{Festus leaves and then comes back. He is still carrying the part.}
-{510}{}{[Done]}
+{510}{}{[Färdig]}
 {520}{}{Festus gives you back the part.}
 {530}{}{Festus leaves and then comes back. He looks very pleased about something.}
 {600}{}{I have a reactor data disk that may help you optimize the reactor.}
