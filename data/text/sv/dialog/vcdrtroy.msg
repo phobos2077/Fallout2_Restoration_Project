@@ -37,7 +37,7 @@
 {133}{}{The main computer? It's down on the third level. Just take the elevator down, walk straight
  until you hit the T-intersection, then make the first left. That'll take you right to the control room.}
 {134}{}{What is it you do here?}
-{135}{}{Thanks.}
+{135}{}{Tack.}
 {136}{}{I am Vault City's primary physician. I take care of all the Citizens within Vault City and do my
  best to keep everyone healthy.}
 {137}{}{I'm looking for the main computer. Can you tell me where it is?}

@@ -65,7 +65,7 @@
 {2012}{}{*Well ain't you a pretty lil' thing. Why don't you come play me?*}
 {2100}{}{You see a strange golden metal box with three eyes and one arm. It is one of the
  prettiest things you have ever seen.}
-{2101}{}{Me }
+{2101}{}{Jag }
 {2102}{}{ who yu?}
 {2103}{}{Me miss MOM. }
 {2104}{}{ miss ARR-YO. Me want go home}

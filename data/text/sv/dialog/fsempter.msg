@@ -18,7 +18,7 @@
 {117}{}{::hack into computer::}
 {118}{}{::leave::}
 {119}{}{Intruder alert activated. Shutting down. Have a nice day.}
-{120}{}{[DONE]}
+{120}{}{[KLAR]}
 {121}{}{Diagnostic functions?}
 {122}{}{Network scan.}
 {123}{}{Format drive.}
@@ -39,7 +39,7 @@
 {138}{}{Tanker vagrants 0% likely to clear creature infestation without outside assistance. Processing desirability of providing assistance.}
 {139}{}{Input: Poseidon Oil tanker unfit for travel. Require more input.}
 {140}{}{Not processing. Require input.}
-{141}{}{[MORE]}
+{141}{}{[MER]}
 {142}{}{Back.}
 {143}{}{Biology station: Active}
 {144}{}{Biology station: Inactive}
@@ -66,7 +66,7 @@
 {165}{}{Ja.}
 {166}{}{Nej.}
 {167}{}{Formatting... formatting... formatting complete. Reboot requires full install. Shutting down. Shutting... down... complete...}
-{168}{}{[DONE]}
+{168}{}{[KLAR]}
 {169}{}{Data to find: - Botany program - Genetic program - Xeno program.}
 {170}{}{Botany program.}
 {171}{}{Genetic program.}
@@ -96,9 +96,9 @@
 {195}{}{(Once you have waded past the symbology and technical discussion, you discover that the Shi are working on a new kind of polymeric combat armor that is resistant to both flame and penetration. It is still years from completion. You also see mention of new weaponry and construction capabilities. Apparently the Shi have some plans for the future.)}
 {196}{}{Back.}
 {197}{}{Fuel directed accordingly. Storage tanks = Empty. Closing program.}
-{198}{}{[DONE]}
+{198}{}{[KLAR]}
 {199}{}{Fuel directed accordingly. Storage tanks = Empty. Closing program.}
-{200}{}{[DONE]}
+{200}{}{[KLAR]}
 {201}{}{Physics database: Exploration - Theory}
 {202}{}{Exploration.}
 {203}{}{Theory.}

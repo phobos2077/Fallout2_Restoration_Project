@@ -17,7 +17,7 @@
 {115}{}{What kind of treasure?}
 {116}{}{What kind of favor?}
 {117}{}{I had other questions.}
-{118}{}{Bye!}
+{118}{}{Hej då!}
 {119}{}{Heh. All right, then. I ain't got nothin' for you. Go on, git.}
 {120}{}{Hej då.}
 {121}{}{Kid, y'got to do me a favor, first.}
@@ -35,7 +35,7 @@
 {133}{}{Thanks for the mag, kid. Let me get back to you in an hour or so.}
 {134}{}{Okay!}
 {135}{}{I ain't done yet, kid! Sheesh! Can't an old ghoul have his privacy?}
-{136}{}{[DONE]}
+{136}{}{[KLAR]}
 {137}{}{What kind o' treasure? Money, kid, lots and lots of money. Enough to satisfy any sane person.}
 {138}{}{What's the catch?}
 {139}{}{I don't need money.}
@@ -70,9 +70,9 @@
 {168}{}{Nuh-uh.}
 {169}{}{Yup. Here you go. [Give Cat's Paw to Typhon.]}
 {170}{}{Not yet. I had other questions.}
-{171}{}{Nope.}
+{171}{}{Nepp.}
 {172}{}{Well, hurry it up! I'm an old, old ghoul, and I tell you, I gotta have relaxation! Now go, go, go!}
-{173}{}{[DONE]}
+{173}{}{[KLAR]}
 {174}{}{Kid, that magazine stirred up the ol' juices, and I figure that for the sort of treasure I'm talkin', you can hunt me down a few more things. Go git me a blow-up doll. You can probably find one in New Reno.}
 {175}{}{Okey! Bye!}
 {176}{}{Nuh-uh!}
@@ -82,9 +82,9 @@
 {180}{}{Forget it.}
 {181}{}{Got it right here. [Give Blow-Up Doll to Typhon.]}
 {182}{}{This, kid, will hit the spot. Gimme a few hours and we'll talk more. Go on. [He eyes the doll lustfully.]}
-{183}{}{[DONE]}
+{183}{}{[KLAR]}
 {184}{}{Can't a guy get a little privacy! Git! Git! G'wan!}
-{185}{}{[DONE]}
+{185}{}{[KLAR]}
 {186}{}{I'm all tuckered out now. Go get me some rotgut and we'll talk about the treasure. Phil the bartender should be able to take care o' that for you.}
 {187}{}{Rite! Bye!}
 {188}{}{No!}

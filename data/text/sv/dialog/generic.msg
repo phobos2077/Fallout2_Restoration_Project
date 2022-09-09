@@ -8,7 +8,7 @@
 {107}{}{ accidentally sets off the trap.}
 {200}{}{Thank you.}
 {201}{}{Good Day.}
-{202}{}{Thanks.}
+{202}{}{Tack.}
 {203}{}{Thanks!}
 {204}{}{No thank you.}
 {205}{}{No thanks.}
@@ -22,7 +22,7 @@
 {303}{}{Urg.}
 {350}{}{[END]}
 {351}{}{[BYE]}
-{352}{}{[MORE]}
+{352}{}{[MER]}
 {353}{}{[CONTINUE]}
 {354}{}{[COMBAT]}
 {355}{}{[GIVE MONEY]}

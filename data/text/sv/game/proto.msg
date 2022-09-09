@@ -144,8 +144,8 @@
 {624}{}{For being victorious in combat,}
 {625}{}{For crushing your enemies,}
 {626}{}{For destroying your enemies without taking a scratch,}
-{650}{}{[DONE]}
-{651}{}{[MORE]}
+{650}{}{[KLAR]}
+{651}{}{[MER]}
 {652}{}{More}
 {653}{}{[BACK]}
 {654}{}{Back}

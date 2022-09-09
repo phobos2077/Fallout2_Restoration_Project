@@ -37,7 +37,7 @@
 {136}{}{Look, I'm putting my neck on the line . . . Oh, to hell with it, I don't have time to argue. Just take em. [He quickly pockets your money.] Now get outta here. And remember, you didn't buy those from me.}
 {137}{}{Excellent. But remember, you didn't buy these weapons here.}
 {138}{}{It's a deal. Bye.}
-{139}{}{[MORE]}
+{139}{}{[MER]}
 {140}{}{Well then, wait a bit until I get the money.}
 {141}{}{Well, have you brought the money?}
 {142}{}{What if I just give you five grand?}

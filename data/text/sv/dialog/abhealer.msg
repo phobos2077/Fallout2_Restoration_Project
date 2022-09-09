@@ -3,17 +3,17 @@
 {200}{}{If you are injured, talk to me.}
 {300}{}{How can I help you?}
 {301}{}{I'm injured, can you help me?}
-{302}{}{[Drool.]}
+{302}{}{[Dräggel.]}
 {303}{}{So, what do you do here at the Abbey?}
 {304}{}{Hej då.}
 {400}{}{It is done!}
-{401}{}{Thanks.}
+{401}{}{Tack.}
 {402}{}{Stop that!}
 {403}{}{[GO ON]}
-{404}{}{[LEAVE]}
+{404}{}{[LÄMNA]}
 {405}{}{STOP IT! STOP IT! STOP IT!}
 {406}{}{[GO ON]}
-{407}{}{[STOP]}
+{407}{}{[SLUTA]}
 {408}{}{(Suddenly, Jack starts to melt.) I'M MELTING, I'M MELTING, OH WHAT A WORLD...}
 {409}{}{What the fu...}
 {500}{}{Hey, don't steal my medical supplies!}

@@ -136,7 +136,7 @@
 {430}{}{You came to the Den and you don't know who Metzger is? He's the slave master.
  He's on the east side of town. Hard to miss.}
 {431}{}{I have another question.}
-{432}{}{Thanks.}
+{432}{}{Tack.}
 {440}{}{Murderer!}
 {441}{}{Childkiller!}
 {442}{}{Please leave.}
@@ -177,7 +177,7 @@
  world a great service.}
 {541}{}{You are a wonderful woman. Even though I don't condone your actions. You did the
  world a great service.}
-{542}{}{Thanks.}
+{542}{}{Tack.}
 {550}{}{You are not welcome here. Please leave.}
 {551}{}{Please leave.}
 {560}{}{Why did you destroy my still? What did I ever do to you?}

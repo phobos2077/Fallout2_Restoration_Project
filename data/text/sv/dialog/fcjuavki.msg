@@ -15,7 +15,7 @@
 {114}{}{Goo-bye!}
 {115}{}{It certainly has!}
 {116}{}{Him: If you won't accept our help... Her: ... then we can't help you. Goodbye.}
-{117}{}{Bye!}
+{117}{}{Hej då!}
 {118}{}{Him: Ah, you see? The teachings of the Hub have demonstrated their worth again!}
 {119}{}{I have some questions.}
 {120}{}{Thanks! Bye!}
@@ -81,7 +81,7 @@
 {180}{}{Something bad is about to happen to YOU.}
 {181}{}{Nope. I'll take my chances. So long.}
 {182}{}{Him: We've done everything we can for you. Her: Good luck in your travels.}
-{183}{}{Bye!}
+{183}{}{Hej då!}
 {184}{}{Her: Dave? The computer guy? Him: Ha ha! What a loser! Vikki is mine, all mine - no way he'll... excuse me, this is negative energy I'm channeling. I must have fouled my neurodynes. Her: [whispers to you] I think Dave's a cutie, but nothing can happen while Juan is around. Him: Whew. Neurodyne is all clear again.}
 {185}{}{Well, I have more questions.}
 {186}{}{That's all. Bye.}

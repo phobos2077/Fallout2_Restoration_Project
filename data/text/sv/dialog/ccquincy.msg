@@ -53,7 +53,7 @@
  plans! And now he doesn't even have the brass bouncing balls to come to me
  and ask for them? Fine, they're in the locker over there. Oh and, when you
  deliver them, tell that asshole I want to see him.}
-{144}{}{Thanks.}
+{144}{}{Tack.}
 {145}{}{So you're back. Did you get the authorization?}
 {146}{}{You again? What is it now?}
 {147}{}{Yeah, me got plasma rifle. That good enough me!}

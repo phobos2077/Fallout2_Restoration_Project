@@ -237,9 +237,9 @@
 {831}{}{I found.}
 {832}{}{I still look.}
 {840}{}{[Krom quickly scrutinizes the weapons, then grins and pats you on the back.] You did a good job. Thank you. Now run along and stay out of trouble.}
-{841}{}{Bye!}
+{841}{}{Hej då!}
 {850}{}{[Krom ruffles your hair.] There's my special helper. You run along now and stay out of trouble.}
-{851}{}{Bye!}
+{851}{}{Hej då!}
 {860}{}{Come to press your luck, have you?}
 {861}{}{No, I've come to kick your ass.}
 {862}{}{No, I just wanted to apologize for offending you.}

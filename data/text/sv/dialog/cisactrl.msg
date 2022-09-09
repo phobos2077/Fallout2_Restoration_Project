@@ -5,6 +5,6 @@
 {103}{}{Log off.}
 {104}{}{Align satellite to receive Enclave coordinates.}
 {105}{}{Satellite realigning. One moment please...}
-{106}{}{[MORE]}
+{106}{}{[MER]}
 {107}{}{Realignment successful. Docking rig ready to receive incoming aircrafts.}
 {108}{}{Log off.}

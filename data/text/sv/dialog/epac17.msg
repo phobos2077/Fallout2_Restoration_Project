@@ -153,7 +153,7 @@
 {703}{}{When the war started, the other scientists and I used the cryogenic storage chambers. We handed over more control of the facility to the holograms and robots, then put ourselves in the chambers to wait out the worst of the destruction.}
 {704}{}{But, the great war was over many, many years ago.}
 {705}{}{True. We initially came out of hibernation about 90 years ago, and discovered that this place had deteriorated greatly. Most of the other scientists here continued some of their original research, as they didn't really know what else to do.}
-{706}{}{[MORE]}
+{706}{}{[MER]}
 {707}{}{I couldn't believe their scientific short-sightedness... their utter lack of imagination! We had an incredible opportunity to do some amazing things. We had the chance to remake things how we saw fit. Sadly, my comrades paid for their lack of vision...}
 {708}{}{You killed them!?}
 {709}{}{Understandable.}
@@ -190,9 +190,9 @@
 {805}{}{Not interested. Bye.}
 {806}{}{Well, wait. Are you sure you won't help me with a little something?}
 {810}{}{Excellent! Now, I must get back to work. [To himself.] It's all going according to plan.}
-{811}{}{[DONE]}
+{811}{}{[KLAR]}
 {820}{}{That's too bad. Well, I must be getting back to work. [To himself.] Almost had him. Now, where am I going to find another test subject...}
-{821}{}{[DONE]}
+{821}{}{[KLAR]}
 {830}{}{[The man looks up startled.] What the-?!}
 {831}{}{I'm still looking for your part.}
 {832}{}{Here's your tool. Piece of cake indeed.}
@@ -205,7 +205,7 @@
 {851}{}{Whatever. Bye.}
 {852}{}{I don't think so. You tried to kill me and now I will return the favor. Prepare to die!}
 {860}{}{Uh, yes, of course. Well, get to it then.}
-{861}{}{[DONE]}
+{861}{}{[KLAR]}
 {900}{}{*Grumbles*}
 {901}{}{*To himself* I was sure he wouldn't return.}
 {1000}{}{You return the Doctor's forgotten tool.}

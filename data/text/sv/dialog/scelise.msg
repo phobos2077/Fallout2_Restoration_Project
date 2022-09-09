@@ -54,7 +54,7 @@
 {153}{}{Ja.}
 {154}{}{Nej.}
 {155}{}{I hear you're the one who freed all the slaves outside the city gates. That was a fine thing you did and I just want to shake your hand.}
-{156}{}{Thanks.}
+{156}{}{Tack.}
 {157}{}{Simple. We believe slavery is wrong and we'll do what we must to fight it. In NCR, we got a lot of friends in high places. Thanks to them we've already banned slavery down south, but now we're hoping to spread the word north.}
 {158}{}{The Rangers sound like a group I'd be proud to join. Sign me up.}
 {159}{}{Interesting... I'll have to think about what you've said.}

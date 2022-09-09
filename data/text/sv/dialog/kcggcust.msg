@@ -53,7 +53,7 @@
 {159}{}{You sure ain't much to look at.}
 {160}{}{Feeling unwelcome... yet?}
 {162}{}{'Bout time, tribal.}
-{163}{}{Thanks.}
+{163}{}{Tack.}
 {164}{}{Nee!}
 {165}{}{Ecky, ecky, p'tang!}
 {166}{}{I'm going to get pissed.}

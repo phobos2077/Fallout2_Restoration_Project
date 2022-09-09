@@ -15,7 +15,7 @@
 {301}{}{Yes, I found the missing hunters. One of them is dead but the other is badly hurt. I need your help
  to carry him out and bring him to the Shaman. I'll go wait with the Shaman while you rescue the hunter.}
 {302}{}{Tribe member need help? Me need help them. In cave? Me coming!}
-{303}{}{[DONE]}
+{303}{}{[KLAR]}
 {400}{}{Thanks for helpin Serin. He good warrior. You friend of tribe.}
 {401}{}{Thanks. Well, I must be going now.}
 {402}{}{Hello friend. Wut you need?}

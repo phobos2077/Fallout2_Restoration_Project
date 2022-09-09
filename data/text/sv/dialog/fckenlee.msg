@@ -37,7 +37,7 @@
 {136}{}{Ja.}
 {137}{}{No. I've had enough tests in the last several months to last me a lifetime.}
 {138}{}{I do not believe the Emperor would like to see you. I have been told to forbid entrance to those who offend me or who reek of evil. You do both, traveler. Good day.}
-{139}{}{[DONE]}
+{139}{}{[KLAR]}
 {140}{}{Insults will get you nowhere, traveler, except removed from the Steel Palace. Kindly control your tongue.}
 {141}{}{Make me.}
 {142}{}{Fine.}
@@ -55,7 +55,7 @@
 {154}{}{No. My real name is}
 {155}{}{It's all the name you need, old man.}
 {156}{}{That will be quite impossible. Good day.}
-{157}{}{[DONE]}
+{157}{}{[KLAR]}
 {158}{}{Surely you must give me more credit than that. I know how the "biz" works. I have traveled to New Reno before.}
 {159}{}{Okay, my name is}
 {160}{}{That's my real name! Now let me talk to the Emperor!}
@@ -63,7 +63,7 @@
 {162}{}{Ska ske.}
 {163}{}{Forget it.}
 {164}{}{Will you reconsider taking our test?}
-{165}{}{Nope.}
+{165}{}{Nepp.}
 {166}{}{Oh, all right. I'll do it.}
 {167}{}{Lost villagers? I have heard nothing of this. Perhaps the Emperor would know of them.}
 {168}{}{I have more questions.}
@@ -82,7 +82,7 @@
 {181}{}{Well, I have more questions.}
 {182}{}{Yeah, poor you. Bye.}
 {183}{}{Du är verkligen en värdig mottagare av vårt bränsle. Jag tror att jag kan lita på dig när det gäller våra hemligheter. I det bakre rummet kommer du att se att kraftfältet till den stora datorn har stängts av. Skriv in lösenordet "CSPDMSHR-Shih-huang-ti-X9372" och du kommer att finna dig själv ansluten till Kejsardatorn. Kejsaren kommer att kunna styra vårt bränsle dit du behöver det.}
-{184}{}{Thanks.}
+{184}{}{Tack.}
 {185}{}{Guards! The enemy is among us! Guards!}
 {186}{}{Have they really? Perhaps you would like to turn the tables on them? I can promise you our aid if you will agree to kill AHS-9. }
 {187}{}{He's as good as dead.}

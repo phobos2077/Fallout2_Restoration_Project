@@ -58,7 +58,7 @@
 {153}{}{Yep.}
 {154}{}{Nej.}
 {155}{}{Then I guess I'd better start cleaning up the loose ends.}
-{156}{}{[DONE]}
+{156}{}{[KLAR]}
 {157}{}{I don't support killin' in this store. Get out.}
 {158}{}{Yeah, whatever. Bitch.}
 {159}{}{Ghouls are useful slaves. They ain't got enough minds of their own to be people, but they ain't
@@ -71,13 +71,13 @@
 {165}{}{Visst.}
 {166}{}{In that case, take the hidden passage in the floor in my room down to the stronghold. I got a
  small arsenal down there. Git going.}
-{167}{}{Thanks.}
+{167}{}{Tack.}
 {168}{}{Coincidentally, I got rid of all the guns I had except what you see here. Help you with
  somethin' else?}
 {169}{}{Ja.}
 {170}{}{Nej.}
 {171}{}{I ain't sellin' to you. Get out of my store.}
-{172}{}{[DONE]}
+{172}{}{[KLAR]}
 {173}{}{The store is closed. We open at eight.}
 {174}{}{Hey! Get away from there!}
 {175}{}{That's it! You asked for it!}
@@ -86,7 +86,7 @@
 {180}{}{I'm not going to warn you again. Stay away from there!}
 {181}{}{That's it! Get over here!}
 {182}{}{What else are you going to bother me with?}
-{183}{}{Thanks.}
+{183}{}{Tack.}
 {184}{}{[CONTINUE]}
 {185}{}{Hey! Who the hell is out there?}
 {186}{}{I don't know who you are, but I'm comin' for ya'.}

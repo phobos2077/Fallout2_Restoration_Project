@@ -83,7 +83,7 @@
 {461}{}{Thanks, Keith. I won't be long.}
 {470}{}{Hold on. (Knocks on door behind him.) Pa? (He sticks his head in, there's some mumbling, then he comes back and nods at the door.)
  You ken go in, but watch out. Dad's in a pissy mood.}
-{471}{}{Thanks.}
+{471}{}{Tack.}
 {480}{}{He's Big Jesus' son. A bastard, more like. He mighta caught Richard alone, then pumped him fulla
  Jet outta spite. You looking for him, check out the Desperado. Little Jesus hangs out there with his old man.}
 {1220}{}{. What's goin' on?}

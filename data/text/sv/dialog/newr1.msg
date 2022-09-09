@@ -7,7 +7,7 @@
 {103}{}{You have come to the Stables. A new chainlink fence surrounds the two farm
  section entrances.}
 {150}{}{[PREVIOUS]}
-{151}{}{[MORE]}
+{151}{}{[MER]}
 {201}{}{Salvatore}
 {202}{}{Bishop}
 {203}{}{Mordino}

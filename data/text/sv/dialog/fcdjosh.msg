@@ -23,9 +23,9 @@
 {122}{}{Do you know where I can find Vault 13?}
 {123}{}{I'm looking for a trader named Vic. Do you know where I can find him?}
 {124}{}{The GECKs were a standard issue item for all vaults. If memory serves me right they were to be used after the vault opened to rebuild civilization. I can only assume that one could be found in an unopened vault. Good luck,}
-{125}{}{Thanks.}
+{125}{}{Tack.}
 {126}{}{I've heard plenty of tales about Vault 13 and none of them speak of its whereabouts. Good luck,}
-{127}{}{Thanks.}
+{127}{}{Tack.}
 {128}{}{Vic has run afoul of the slaver's guild. You can find him there. Good luck,}
 {129}{}{Wait! Where I find guild?}
 {130}{}{Wait, can you tell me where the slaver's guild is?}

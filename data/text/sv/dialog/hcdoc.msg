@@ -70,7 +70,7 @@ because this is going to cost ::cough:: $200.}
 {160}{}{Give me the stimpacks.}
 {161}{}{No thanks.}
 {162}{}{It's been a pleasure.}
-{163}{}{Thanks.}
+{163}{}{Tack.}
 {164}{}{That's not acceptable.}
 {165}{}{How about this?}
 {166}{}{It's all I want to offer. So long.}

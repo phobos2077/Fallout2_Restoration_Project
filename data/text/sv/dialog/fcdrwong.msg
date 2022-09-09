@@ -48,7 +48,7 @@
 {147}{}{He needs it to survive, you know. It came from inside his body.}
 {148}{}{Then maybe I'd better kill you for it.}
 {149}{}{A deal is a deal. He can't have it. Sorry, but we made a bargain and just because Chip regrets it now doesn't mean he can go back on his deal.}
-{150}{}{[MORE]}
+{150}{}{[MER]}
 {151}{}{It's a human spleen? Lao Chou didn't tell me that!}
 {152}{}{Yet, because of the rudeness of the messenger, I believe I will hold all parties to the bargain. I will experiment on it instead.}
 {153}{}{Tell your friend to come by for it within the next day, and I will gladly return it to him. I just hope you can find a way to replace it in his body in time.}
@@ -56,7 +56,7 @@
 {155}{}{Ha ha! Yes, I too saw that old movie. Wait... what are you saying? Are you saying that...?}
 {156}{}{Yes, it's a human spleen.}
 {157}{}{Actually, I would object to that. You have not shown yourself to be of good character. Indeed, I do not know why I am talking to you. Good day.}
-{158}{}{[DONE]}
+{158}{}{[KLAR]}
 {159}{}{Aiee! Guards! The lao wai intruder is here!}
 {160}{}{You have certain schematics to give to me?}
 {161}{}{Ken Lee told me to give these to you.}
@@ -99,7 +99,7 @@
 {331}{}{So where is Dr. Sheng now?}
 {332}{}{Fine, you keep your fancy secrets. I have secrets of my own, you know. Better secrets than you could ever possibly imagine.}
 {340}{}{[He smiles politely.] I'm sure you do. Now if you will excuse me, I have plenty of work that needs doing. Good day.}
-{341}{}{[DONE]}
+{341}{}{[KLAR]}
 {350}{}{Dr. Sheng was escorted a day or so to the south. He took up residence in some abandoned home, if I'm not mistaken. He was only supposed to be gone for a month, but it's been much longer and we have yet to hear from him. If I were to guess, I would say he was either destroyed by his own creations, or else fell victim to the numerous hazards of the wasteland.}
 {351}{}{One of your lead scientists could be dead, and you don't care? You're not even going to go look into it?}
 {352}{}{I think I'd like follow up on this Dr. Sheng guy. Could you give me his last known location?}
@@ -118,7 +118,7 @@
 {402}{}{What kind of compensation are we talking here?}
 {403}{}{Not interested. Dr. Sheng's your problem--you guys can deal with him.}
 {410}{}{The Shi will be most grateful for this service. Once Dr. Sheng and all of his creations have been eliminated, report back to me to receive your reward.}
-{411}{}{[DONE]}
+{411}{}{[KLAR]}
 {420}{}{I'll leave that up to you. We could grant you weapons, supplies, or money. You may decide once the task is complete.}
 {421}{}{All right. I'll do it.}
 {422}{}{Not interested. Dr. Sheng's your problem--you guys can deal with him.}
@@ -138,13 +138,13 @@
 {454}{}{Just give me money.}
 {455}{}{Keep your reward. I only did it because it was the right thing to do.}
 {460}{}{Here you go. [He hands you various high powered weapons]}
-{461}{}{[DONE]}
+{461}{}{[KLAR]}
 {470}{}{Here you go. [He hands you various supplies]}
-{471}{}{[DONE]}
+{471}{}{[KLAR]}
 {480}{}{Here you go. [He hands you $5,000]}
-{481}{}{[DONE]}
+{481}{}{[KLAR]}
 {490}{}{The Shi appreciates your assistance. Now, I have much work to do. Good day.}
-{491}{}{[DONE]}
+{491}{}{[KLAR]}
 {500}{}{Before I go, Dr. Sheng wanted me to deliver this plant sample to you. He said it should help you achieve the goal of creating radiation-resistant plant life.}
 {501}{}{Dr. Sheng wanted me to deliver this plant sample to you. He said it should help you achieve the goal of creating radiation-resistant plant life.}
 {502}{}{Dr. Sheng wanted me to give you this plant sample as a gift, but I thought I should warn you that it's infused with his sentience serum. I don't know what it's supposed to do, but I'm pretty sure it won't be good for the Shi.}

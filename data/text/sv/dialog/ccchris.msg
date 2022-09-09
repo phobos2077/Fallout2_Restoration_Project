@@ -49,10 +49,10 @@
 {139}{}{What do you think you're doing?}
 {140}{}{Hey, I'm outta here.}
 {141}{}{(speaking into radio) Alert! We got an intruder at the station! Alert!}
-{142}{}{[DONE]}
+{142}{}{[KLAR]}
 {143}{}{Well, nice talking with you. Here's some advice though - ain't nothing
  in these parts except wasteland and radiation. Civilization's south of here. I'd be heading that way if I was you.}
-{144}{}{Thanks.}
+{144}{}{Tack.}
 {145}{}{Metal birds? Oh, you must mean vertibirds. Now why would you be
  asking about them here?}
 {146}{}{Vertibirds? That's an interesting subject. Now why would you be
@@ -153,7 +153,7 @@
 {208}{}{I hired an escort!}
 {209}{}{Well, I don't mean to be rude or nothing, but this here's private property.
  If you're going to be poking around somewhere, don't be doing it here.}
-{210}{}{[DONE]}
+{210}{}{[KLAR]}
 {211}{}{You're back. What can old Chris help you with?}
 {212}{}{You tell me Navarro south. You lie! Me here for truth.}
 {213}{}{You told me Navarro was to the south, old man. Now I want to know the truth.}

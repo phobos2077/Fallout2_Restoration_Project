@@ -121,7 +121,7 @@
 {220}{hak028b}{May the Waters soothe your journey.}
 {221}{hak028c}{May the Wind guide you to your goal.}
 {222}{hak028d}{May the Fire toast your bottom until you get this done.}
-{223}{}{Thanks.}
+{223}{}{Tack.}
 {224}{}{Say what?!}
 {225}{}{Eh.}
 {226}{}{Huh?!}

@@ -36,7 +36,7 @@
 {127}{}{Analyzing Command Please Wait...
                                   Overriding User Command
                                             Access Denied}
-{128}{}{[MORE]}
+{128}{}{[MER]}
 {129}{}{To Deactivate Alarm Press - 1
                                     To Run Diagnostic Program Press - 2
                              To Exit Press - 3}
@@ -71,7 +71,7 @@
                                       Access to this Terminal is Terminated.}
 {145}{}{Exit}
 {146}{}{Exiting Diagnostic Program.}
-{147}{}{[MORE]}
+{147}{}{[MER]}
 {300}{}{ - ID Confirmed: }
 {301}{}{
             Terminal Last Accessed: }

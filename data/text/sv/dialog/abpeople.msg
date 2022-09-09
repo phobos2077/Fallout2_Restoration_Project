@@ -11,7 +11,7 @@
 {110}{}{Hej.}
 {111}{}{I hope that it starts to rain soon, or my crops will not survive.}
 {112}{}{We don't get too many visitors here.}
-{113}{}{Welcome!}
+{113}{}{Välkommen!}
 {114}{}{Yeah, I know. It's pretty boring here, but at least we're safe from raiders and such...}
 {115}{}{Hi, tribal.}
 {116}{}{It sure is a hot day today!}

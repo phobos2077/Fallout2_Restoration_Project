@@ -13,9 +13,9 @@
 {112}{}{::nod head::}
 {113}{}{::shake head::}
 {114}{}{This is what we have, then.}
-{115}{}{[DONE]}
+{115}{}{[KLAR]}
 {116}{}{Well, I'm afraid that's all I can do for you. Good day.}
-{117}{}{[DONE]}
+{117}{}{[KLAR]}
 {118}{}{I'm Lao Chou. I run this establishment, Flying Dragon 8, a general store. I have been known to trade in... information.}
 {119}{}{What sort of information?}
 {120}{}{I see. I'd like some equipment.}

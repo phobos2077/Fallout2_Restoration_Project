@@ -24,7 +24,7 @@
 {120}{}{I'll do the caravan to NCR.}
 {121}{}{How about Vault City?}
 {122}{}{I changed my mind. I'd like something else, instead.}
-{123}{}{Bye!}
+{123}{}{Hej då!}
 {124}{}{Yeah? What do you wanna buy?}
 {125}{}{You got questions about Chad? Like what?}
 {126}{}{Is he skimming off the top?}
@@ -74,7 +74,7 @@
  And ... he's a hell of a caravan master. That's all.}
 {163}{}{I have some more questions.}
 {164}{}{I want some other things.}
-{165}{}{Thanks.}
+{165}{}{Tack.}
 {166}{}{I'm off duty now. Talk to me when I'm at the shop.}
 {167}{}{He had it coming? You piece of crap, money ain't worth killing over. Get the hell out of my
  store.}
@@ -126,7 +126,7 @@
 {207}{}{Yep, I'm all set. Let's go.}
 {208}{}{Not quite yet. I'll let you know when I'm ready. Thanks.}
 {209}{}{Not yet. I'll let you know when I'm ready. I have some more questions.}
-{210}{}{Thanks.}
+{210}{}{Tack.}
 {211}{}{[continue]}
 {212}{}{I'm sorry, but without Chad around to help manage personnel, I can't be givin' out work the way I used to. I'm gonna miss
  that poor bastard. Dyin' out in the wastes like some wounded brahmin.}

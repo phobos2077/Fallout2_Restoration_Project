@@ -22,7 +22,7 @@
 {121}{}{Was the band any good?}
 {122}{}{Thanks. Bye.}
 {123}{}{Uhh... okay.}
-{124}{}{Bye!}
+{124}{}{Hej då!}
 {125}{}{You oughta talk to Marc or the Captain about that.}
 {126}{}{Where can I find Marc?}
 {127}{}{Where can I find the Captain?}

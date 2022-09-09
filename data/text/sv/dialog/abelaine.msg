@@ -1,7 +1,7 @@
 {100}{}{You see a stout nun.}
 {101}{}{You see Elaine.}
 {102}{}{You still see her.}
-{200}{}{Greetings!}
+{200}{}{Hälsningar!}
 {201}{}{Hi, what's your name?}
 {202}{}{What can you tell me about the Abbey?}
 {203}{}{Hej då.}
@@ -22,10 +22,10 @@
 {604}{}{Thanks! Here's the part. The copying room is in the basement. Just use the stairs directly behind Brother Matthew
  in the chapel area.}
 {605}{}{Not a problem. [You take the part.] I'll bring it down to Max right away.}
-{700}{}{Me }
+{700}{}{Jag }
 {701}{}{. Who you?}
 {710}{}{Hehe. That pretty name.}
-{711}{}{Bye!}
+{711}{}{Hej då!}
 {720}{}{You're a special little guy aren't you? Could you do me a BIG favor and be my special helper today?}
 {721}{}{You're a special little gal aren't you? Could you do me a BIG favor and be my special helper today?}
 {722}{}{Me special. Me help.}

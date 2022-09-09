@@ -102,7 +102,7 @@
 {201}{}{Forget it. I'll come back some other time.}
 {202}{}{Well... this certainly seems to be a matter for the First Citizen. Here is your Day Pass. It is only good during the day - at night you will be asked to leave the city. Citizens also reserve the right to cancel the Day Pass privileges at any time, so behave yourself.}
 {203}{}{Understood. Can I ask you some other questions?}
-{204}{}{Thanks.}
+{204}{}{Tack.}
 {205}{}{Don't waste any more of my time, Outsider. Leave.}
 {206}{}{I suggest you leave now, or I will summon the guards.}
 {207}{}{NO Uuu LEAVE or me HIT U}
@@ -272,6 +272,6 @@
 {360}{}{Five hundred's a little more than I can afford right now. Maybe some other time.}
 {361}{}{Excellent. Here you go... again, it is only good during the day - at night you will be asked to leave the city. Citizens also reserve the right to cancel the Day Pass privileges at any time, so behave yourself.}
 {362}{}{Understood. Can I ask you some other questions?}
-{363}{}{Thanks.}
+{363}{}{Tack.}
 {1255}{}{I found the raiders' camp and convinced their guide to not help them. They won't be able to find their way without him.}
 {1314}{}{You won't have to worry about those raiders anymore. I convinced their guide to leave and without his help, they will never find their way through the mountains.}

@@ -71,7 +71,7 @@
 {223}{}{If you let me have the key, I'm sure that you'll have fewer rats to worry about after I use it.}
 {224}{}{I don't think I want the key. Goodbye.}
 {230}{}{I guess you got what you wanted. Just be careful now.}
-{231}{}{Thanks.}
+{231}{}{Tack.}
 {232}{}{You drive a hard bargain. I hope it was worth it.}
 {240}{}{Well, I guess you didn't need that key as much as you thought, huh? You sure you got what you
  wanted?}
@@ -85,7 +85,7 @@
 {252}{}{I'm interested in getting that key from you.}
 {253}{}{That's all I need to know for now. Goodbye.}
 {260}{}{You're interested in trapping, huh? (He looks you up and down.)}
-{261}{}{[MORE]}
+{261}{}{[MER]}
 {270}{}{I don't think I'd try it if I were you. You might get your hands all dirty and callused.
  (heh, hee, hee) Anything else you want to know about?}
 {271}{}{Well, I sure wouldn't want to get my hands dirty. Tell me something else.}

@@ -28,13 +28,13 @@
 {181}{}{Yes, it's all done.}
 {182}{}{...}
 {190}{}{[The corner of his mouth twitches up into a hint of a smile.] Ah, I suppose you outworlders aren't all bad, after all. Here, take this money. The spirits tell me you be needing this more than I.}
-{191}{}{Thanks.}
+{191}{}{Tack.}
 {200}{}{May your ancestors guide you well.}
 {201}{}{Thanks for your help.}
 {202}{}{Nice to be seeing you again.}
 {210}{}{You won't take us alive, slaver!}
 {300}{}{All right, calm your spirits of anger. I'll do it myself. [He mumbles.] Crazy outworlder...}
-{301}{}{[DONE]}
+{301}{}{[KLAR]}
 {310}{}{[He narrows his eyes at you, then glances at the well.] No.}
 {311}{}{Then no, I guess I didn't attach it yet.}
 {320}{}{Hey, did you hear me? I asked if the well be fixed yet.}

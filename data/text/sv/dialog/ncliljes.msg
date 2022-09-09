@@ -233,7 +233,7 @@
 {930}{}{No, not me... head on upstairs and see my Pa. He's the one you want to talk to.}
 {931}{}{And you are...?}
 {932}{}{All right then. Before I go, I had some questions...}
-{933}{}{Thanks.}
+{933}{}{Tack.}
 {940}{}{FUCK you. Get outta my family's casino 'fore I carve my initials on your dead body.}
 {942}{}{Don't you threaten me, Jesus.}
 {943}{}{Hold on - I had some other questions...}

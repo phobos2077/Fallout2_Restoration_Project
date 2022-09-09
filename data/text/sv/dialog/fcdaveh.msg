@@ -15,7 +15,7 @@
 {114}{}{Nevermind. Bye.}
 {115}{}{Ummm... oookay. Whatever. Say, what's that over there?
 [As you turn to look, he whips back to what he was doing and ignores you.]}
-{116}{}{[DONE]}
+{116}{}{[KLAR]}
 {117}{}{I'm Dave Handy. I'm down from Canada.}
 {118}{}{So, what do you do here?}
 {119}{}{What brought you down?}

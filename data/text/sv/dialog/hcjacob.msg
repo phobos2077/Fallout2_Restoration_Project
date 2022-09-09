@@ -13,15 +13,15 @@
 {112}{}{I was told to speak to you about a certain matter regarding mutants.}
 {113}{}{Hej då.}
 {114}{}{::A look of disgust crosses his face:: Get out of here. I don't have time for you.}
-{115}{}{[DONE]}
+{115}{}{[KLAR]}
 {116}{}{Drugstore. It's a drugstore. Look, do you want anything?}
 {117}{}{You again? Do you want something?}
 {118}{}{'Es!}
 {119}{}{Unh uh.}
 {120}{}{Fine. Let's see what you want.}
-{121}{}{[MORE]}
+{121}{}{[MER]}
 {122}{}{Then leave.}
-{123}{}{[DONE]}
+{123}{}{[KLAR]}
 {124}{}{There. We're done. Thank you for the tip. Now please leave.}
 {125}{}{D'okay!}
 {148}{}{Why don't you tell me how you feel about mutants first?}
@@ -86,7 +86,7 @@
  disgrace to humanity.}
 {223}{}{Hej då.}
 {224}{}{Well done on the jail work! }
-{225}{}{Thanks.}
+{225}{}{Tack.}
 {226}{}{Did you really have to kill everyone? Now they're all going to be worried. Well, no matter.}
 {227}{}{Sorry.}
 {228}{}{You got them out. I guess that's the important part. Of course, now everyone in town knows
@@ -112,7 +112,7 @@
 {267}{}{No, I guess I'll do it.}
 {268}{}{I suppose I can understand. You'll be equally understanding, I hope, when I tell you to get the
  hell out of my sight. Traitor.}
-{269}{}{[DONE]}
+{269}{}{[KLAR]}
 {270}{}{Are you ready to go on with the plan?}
 {272}{}{Yes. Let's do it.}
 {273}{}{I've changed my mind. I don't want to do this.}
@@ -157,7 +157,7 @@
 {310}{}{I already told you everything you need to know about this place. So, what do you want?}
 {311}{}{I have some other questions.}
 {312}{}{Nothing. Forget it.}
-{313}{}{Thanks.}
+{313}{}{Tack.}
 {314}{}{[CONTINUE]}
 {315}{}{Hey, friend. I appreciate your help gettin' our friends out of their spot of trouble. You're all right in my book.}
-{316}{}{Thanks.}
+{316}{}{Tack.}

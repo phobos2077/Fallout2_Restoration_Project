@@ -512,7 +512,7 @@
 {3088}{}{Thanks again for everything, fren.}
 {3090}{}{This here be our village. We and I go speak with our friends.}
 {3091}{}{We and I go speak with our friends again before headin out.}
-{3100}{}{[MORE]}
+{3100}{}{[MER]}
 {3101}{}{Where exactly is your tribe, Sulik?}
 {3102}{}{Thanks. Let me ask you something else.}
 {3103}{}{You too, Sulik. Take care of yourself.}

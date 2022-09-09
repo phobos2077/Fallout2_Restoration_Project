@@ -41,7 +41,7 @@
 town may use grain or gold. Redding is another prime example of a town fueled by drugs.
  Damn miners are too high all the time to get any real work done. I have never been there myself,
  but it is a couple days south-east of here if you want to check it out.}
-{183}{}{Thanks.}
+{183}{}{Tack.}
 {184}{}{I have heard of a place called Vault City. But unfortunately, I can't
  help you with directions. You see, very few of us towns can offer acceptable
  exchange for the medical services they provide, so most of us have never been

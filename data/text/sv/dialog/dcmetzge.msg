@@ -168,7 +168,7 @@
 {475}{}{What for? Ah, fuck, never mind. Just don't keep him from fixing that damn
  radio - and he better fix it soon. I'm sick of feeding his lazy ass.}
 {476}{}{Why are you keeping him here?}
-{477}{}{Thanks.}
+{477}{}{Tack.}
 {485}{}{The Enclave and New... Hey, what the hell you care for? It's business. I need to be sure no one's trying to fuck me over. That's all you need to know.}
 {486}{}{Mind your own business.}
 {487}{}{Okej.}
@@ -207,7 +207,7 @@
  in this to make money, not dick around.}
 {553}{}{I'll do better next time.}
 {554}{}{Thanks for nothing.}
-{555}{}{Thanks.}
+{555}{}{Tack.}
 {556}{}{Ug.}
 {570}{}{Damn bitch, was that your first time? There's no way that was not your first time.}
 {571}{}{Damn girl, was that your first time?}

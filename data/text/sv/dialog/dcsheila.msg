@@ -14,7 +14,7 @@
 {163}{}{Right here, baby.}
 {164}{}{How much, sister?}
 {165}{}{Um, I need to go. Bye.}
-{166}{}{Whee!}
+{166}{}{Jippiii!}
 {167}{}{I like 'em big and dumb.}
 {168}{}{That's me!}
 {169}{}{Yay!}

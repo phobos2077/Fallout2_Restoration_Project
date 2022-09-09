@@ -76,7 +76,7 @@
 {373}{}{Eh.}
 {380}{}{Here. [Fred give you $1000.] I hope this helps. I'm sure you'll find someplace to spend it.}
 {381}{}{Sorry, I can't accept this.}
-{382}{}{Thanks.}
+{382}{}{Tack.}
 {383}{}{Not really, but I'll take it.}
 {384}{}{Yum.}
 {390}{}{Here. [Fred gives you $2000, 5 Fusion Cells, 5 Energy Cells, and a Plasma Grenade.] I hope this helps, at least a little.}

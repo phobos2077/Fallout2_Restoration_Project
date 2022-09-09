@@ -90,7 +90,7 @@
 {205}{}{Well, I see no reason to return to my old life. The town above us doesn't have any medical assistance, so I think
  I will go up and help them. Thank you again for freeing me.}
 {206}{}{Of course. See you later.}
-{207}{}{Bye!}
+{207}{}{Hej då!}
 {210}{}{I still need to pack a few things. I'll see you on the outside.}
 {220}{}{Hey there, good to see you again! Everyone here really appreciates what you have done. I personally am glad
  to be out of there. Working for Darion was a nightmare.}

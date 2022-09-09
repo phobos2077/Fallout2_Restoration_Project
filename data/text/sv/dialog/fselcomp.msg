@@ -29,7 +29,7 @@
 {128}{}{Back.}
 {129}{}{Log Off.}
 {130}{}{Operation restricted. Consult system administrator. Logging off. Goodbye.}
-{131}{}{[DONE]}
+{131}{}{[KLAR]}
 {132}{}{There doesn't seem to be an interface for that.}
 {133}{}{ESS Quetzel fueled and ready to launch.}
 {134}{}{ESS Quetzel unfueled.}
@@ -51,4 +51,4 @@
 {220}{}{You format the Hubologist mainframe.}
 {250}{}{Direct fuel to Poseidon tanker.}
 {251}{}{Fuel directed accordingly. Storage tanks = Empty. Closing program.}
-{252}{}{[DONE]}
+{252}{}{[KLAR]}

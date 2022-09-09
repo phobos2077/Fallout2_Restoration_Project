@@ -33,8 +33,8 @@
 {138}{}{For security purposes, I'm checking the level of information awareness among base personnel. Now, tell me all the ways you personally know of to get to main base.}
 {139}{}{I understand.}
 {140}{}{Yes, sir. First, the vertibirds are the primary method used in reaching main base. Due to the complexity of their operation it is doubtful that subversives could commandeer a vertibird. Second, there is an operational fuel tanker in San Francisco harbor. The ship has, however, been disabled and a passkey is required to restart it. The base commander has the passkey in his possession. Third, with the proper equipment, you could conceivably swim to main base but the probability of survival is next to nil.}
-{141}{}{Thanks.}
-{142}{}{Thanks.}
+{141}{}{Tack.}
+{142}{}{Tack.}
 {143}{}{They would be located in maintenance, next to air traffic control. }
 {144}{}{Okej.}
 {145}{}{Got it.}

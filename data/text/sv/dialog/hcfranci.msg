@@ -75,10 +75,10 @@
 {161}{}{Sure. Thanks. Bye.}
 {162}{}{Really? That's a fascinating attitude. Too bad we didn't crush your village when we controlled
  the wasteland. Get out of my sight, worm.}
-{200}{}{[DONE]}
+{200}{}{[KLAR]}
 {201}{}{Hej då.}
 {202}{}{Thanks. Bye.}
-{203}{}{[MORE]}
+{203}{}{[MER]}
 {204}{}{Sure. Thanks. Bye.}
 {300}{}{Pal, I don't think you'd know how to use what I've got to offer. Come back when you've got a
  little more experience under your belt.}

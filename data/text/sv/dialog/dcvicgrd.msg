@@ -28,7 +28,7 @@
 {258}{}{Well, I'm fairly skilled in repairing things. Maybe I could help?}
 {259}{}{Well, I'm fairly skilled in the sciences, maybe I could help?}
 {260}{}{The door's locked. Could you open it?}
-{261}{}{Thanks.}
+{261}{}{Tack.}
 {275}{}{Thanks for cash. I'm just letting you talk to him. No funny stuff. He can't leave that room without Metzger's okay.}
 {276}{}{Now, I'm just letting you talk to him, okay? No funny stuff. He can't leave that room without Metzger's okay.}
 {277}{}{Okej.}
@@ -43,7 +43,7 @@
 {297}{}{Well, could you open the door then?}
 {298}{}{Okay, thanks.}
 {305}{}{Of course. I didn't know you wanted to talk to him right now, sorry. I just thought you were curious or something.}
-{306}{}{Thanks.}
+{306}{}{Tack.}
 {310}{}{Huh? You just in the habit of walking around into places you don't know? This is the Slaver's Guild.}
 {311}{}{Oh, so that would make your boss's name...}
 {312}{}{Oh, that's where I am? I thought I was in Kansas.}
@@ -56,7 +56,7 @@
 {332}{}{Oh, where's his office?}
 {333}{}{Okay, bye.}
 {340}{}{Right through the back door there.}
-{341}{}{Thanks.}
+{341}{}{Tack.}
 {350}{}{Sorry, I don't understand.}
 {351}{}{Hmph.}
 {360}{}{Sorry, Vic doesn't get visitors.}
@@ -68,7 +68,7 @@
 {371}{}{Sure, you can see him. Let me unlock that for you.}
 {372}{}{Tank.}
 {380}{}{Oh really? I'm sure the boss would appreciate it. Just as long as he stays put. We don't want him running off again.}
-{381}{}{Thanks.}
+{381}{}{Tack.}
 {390}{}{No, sorry. He's busy working on something for the boss.}
 {391}{}{Sorry, can't do that. Direct orders from the boss.}
 {392}{}{Well, you got my money?}

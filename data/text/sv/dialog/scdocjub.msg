@@ -58,10 +58,10 @@
 {157}{}{Thanks for the story.}
 {158}{}{You best go talk to President Tandi. I've heard she's looking for a special type of person.}
 {159}{}{Another question...}
-{160}{}{Thanks.}
+{160}{}{Tack.}
 {161}{}{I might... There is a group set against slavery and- well, most the other vices, too. You can sometimes find them over at the big shop, working on some automobile.}
 {162}{}{Another question...}
-{163}{}{Thanks.}
+{163}{}{Tack.}
 {164}{}{Hey, get your hands off that, punk!}
 {165}{}{Careful there! Just takes tiny amount to expose yourself.}
 {166}{}{Put that back! You could seriously hurt yourself with that stuff.}

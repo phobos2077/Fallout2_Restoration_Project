@@ -126,5 +126,5 @@
 {225}{}{!}
 {226}{}{, huh? Wait one minute, and I'll go get you the Hydroelectric Magneto... uh, the Hy-Mag.}
 {227}{}{, right? Wait one minute, and I'll go get you the Hydroelectric Magneto... uh, the Hy-Mag.}
-{228}{}{Thanks.}
+{228}{}{Tack.}
 {229}{}{[continue]}

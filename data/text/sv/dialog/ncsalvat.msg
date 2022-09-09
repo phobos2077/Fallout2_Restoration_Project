@@ -19,7 +19,7 @@
  a breathing mask, which is connected to an oxygen tank by his side.) What... do you want of me?}
 {231}{}{Me want... me no know what I want}
 {232}{}{Me want}
-{233}{}{Me }
+{233}{}{Jag }
 {234}{}{[Wander off.]}
 {235}{}{I have information for you.}
 {236}{}{I have information for you, Mr. Salvatore.}

@@ -45,7 +45,7 @@
 {141}{}{Swordfish.}
 {142}{}{Right. Unit?}
 {143}{}{Arroyo.}
-{144}{}{Nope.}
+{144}{}{Nepp.}
 {145}{}{I got better.}
 {146}{}{42.}
 {147}{}{That with an S or a C?}
@@ -84,7 +84,7 @@
 {179}{}{Screw this!}
 {180}{}{Right, J. Okay, Unit?}
 {181}{}{Arroyo.}
-{182}{}{Nope.}
+{182}{}{Nepp.}
 {183}{}{I got better.}
 {184}{}{42.}
 {185}{}{You deaf? Who are you?}

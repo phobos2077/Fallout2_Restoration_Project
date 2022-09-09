@@ -14,7 +14,7 @@
 {222}{}{Hell yeah, I love Tragic the Garnering.}
 {223}{}{I've tried it, but it's not for me.}
 {224}{}{I used to be addicted as hell to that game. I try to stay away from it now.}
-{225}{}{Nope.}
+{225}{}{Nepp.}
 {226}{}{Hell no. Do I look like a pathetic loser to you?}
 {230}{}{Hey, fuck you asshole. Just leave me alone.}
 {231}{}{Hey, fuck you whore. Just leave me alone.}
@@ -109,7 +109,7 @@
 {362}{}{Not yet. I'll let you know.}
 {370}{}{[Upon arriving in Gecko you introduce the young monk to Wooz. They quickly hit it off and begin comparing their
  Tragic card decks. You're about to leave when Brother Jason pulls himself away from Tragic long enough to have a word with you.]}
-{371}{}{[MORE]}
+{371}{}{[MER]}
 {372}{}{Holy shit, Wooz *does* have a Black Dahlia! That alone has made this trip worthwhile. Sure, the ghouls are ugly
  as hell, but I found if I take off my glasses, then they're kinda tolerable. Anyway, thanks a lot for bringing me. Here,
  I, uh, "borrowed" this from the Abbey's Memorabilia, amazingly it's one of the few tech relics that still works.

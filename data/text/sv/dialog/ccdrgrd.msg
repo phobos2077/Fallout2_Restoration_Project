@@ -29,10 +29,10 @@
 {128}{}{What? Oh, I get it. You screwed the pooch and Dornan's got you on cleaning detail.}
 {129}{}{Yeah... me screw... doggy and... yuck.}
 {130}{}{(speaking to self) Commander. Cleaning detail is here, sir. (pause) Yes, sir. (looking at you) Go on in.}
-{131}{}{Thanks.}
+{131}{}{Tack.}
 {132}{}{(speaking to self) Commander. Security detail is here. Main base wants the tanker passkey secured. (pause) Yes, sir. (looking at you) Go on in.}
 {133}{}{Let me see your orders.}
-{134}{}{Thanks.}
+{134}{}{Tack.}
 {135}{}{Oh, I didn't bring them with me.}
 {136}{}{(quietly) You must be lost then. This is the base commander's office. Nobody's allowed here unless the old man sends for you.}
 {137}{}{Nobody come here? Ever?}
@@ -45,7 +45,7 @@
 {144}{}{Then get back to comm center and have them print the order.}
 {145}{}{Okej.}
 {146}{}{You must be looking for the armory. Go back down the hall, turn right, and it's the first door on the left. You'll get your issue there.}
-{147}{}{Thanks.}
+{147}{}{Tack.}
 {148}{}{Who the hell are you guys... Alert! Intruders!}
 {149}{}{We've been infiltrated! Alert!}
 {150}{}{Multiple intruders! Sound the alarm!}

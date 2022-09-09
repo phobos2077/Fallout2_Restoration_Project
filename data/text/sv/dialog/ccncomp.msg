@@ -22,7 +22,7 @@
 {121}{}{Okay. Where maintenance?}
 {122}{}{Fine. So where is maintenance located?}
 {123}{}{Searching... Accessing base architectural files... Data acquired. Maintenance is located above ground in the northeast quadrant of the base. }
-{124}{}{Thanks.}
+{124}{}{Tack.}
 {125}{}{Searching... Accessing geographical maps... Data acquired. Enclave headquarters is located 175 miles off of the coast of California in the Pacific Ocean. Coordinates are 37 degrees 18 minutes north latitude by 120 degrees 7 minutes west longitude.}
 {126}{}{What the hell all that mean?}
 {127}{}{What the hell does all that crap mean?}

@@ -66,4 +66,4 @@
 {504}{}{After some experimentation you fail to figure out what is wrong with the hologram.}
 {505}{}{Damn. This is too hard for me. Repair just isn't my forte.}
 {506}{}{You fail to repair the hologram.}
-{507}{}{[DONE]}
+{507}{}{[KLAR]}

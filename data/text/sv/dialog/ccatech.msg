@@ -31,8 +31,8 @@
 {136}{}{How we get there?}
 {137}{}{Well... How do we get there?}
 {138}{}{By vertibird, of course. There's no other way, unless you have a ship. It's way too far to swim.}
-{139}{}{Thanks.}
-{140}{}{Thanks.}
+{139}{}{Tack.}
+{140}{}{Tack.}
 {141}{}{Vertibird plans... I don't see why you would need to know that. I suggest you talk to maintenance next door.}
 {142}{}{Okej.}
 {143}{}{Got it.}

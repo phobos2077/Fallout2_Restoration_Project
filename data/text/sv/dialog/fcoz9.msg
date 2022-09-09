@@ -92,7 +92,7 @@
 {191}{}{Bring it on.}
 {192}{}{Wait, I changed my mind.}
 {193}{}{Too late, meat. You have shown you cannot be trusted. Die!}
-{194}{}{[DONE]}
+{194}{}{[KLAR]}
 {195}{}{Child, there are some things you are not meant to know for now. [He smiles benignly.]}
 {196}{}{All right. I have more questions.}
 {197}{}{Hm. Bye.}

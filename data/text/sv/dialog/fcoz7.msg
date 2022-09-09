@@ -22,7 +22,7 @@
 {121}{}{Very well. Be quick, though - he's a busy, busy man.}
 {122}{}{Okej.}
 {123}{}{This is not a place that is open for random tours. Good day.}
-{124}{}{[DONE]}
+{124}{}{[KLAR]}
 {125}{}{Excellent! Go in, go in. Speak to Juan Cruz and Vikki Goldman - they're celebrities, you know, but they'll talk to YOU.}
 {126}{}{Who are they?}
 {127}{}{Ooh! Celebrities!}
@@ -55,7 +55,7 @@
 {154}{}{Thanks for the concern. See you.}
 {155}{}{I don't think I'd be the one hurt. So long.}
 {156}{}{Torch us? TORCH US? GUARDS! KILL THE UNBELIEVER!}
-{157}{}{[DONE]}
+{157}{}{[KLAR]}
 {158}{}{So. You have now had time to reconsider your decision. Will you join us?}
 {159}{}{Ja.}
 {160}{}{Nej.}
@@ -108,13 +108,13 @@
 {207}{}{Maybe. Thanks.}
 {208}{}{Simply use the holodisk Juan and Vikki provided to you and check out the Glossary.}
 {209}{}{Thanks. More questions?}
-{210}{}{Thanks.}
+{210}{}{Tack.}
 {211}{}{When AHS-9 receives his vision from the Hub, we will leave, and join him in celestial glory!}
 {212}{}{Yeah, praise the Wheel or whatever. I have more questions.}
 {213}{}{Most informative. Thanks.}
 {214}{}{He's usually in his lab, working on ways to perfect our bodies and our spirits.}
 {215}{}{Thanks. I wanted to ask something else.}
-{216}{}{Thanks.}
+{216}{}{Tack.}
 {217}{}{Before you can truly be one of us, we must perform an initial zeta scan - an alignment. Are you prepared for your scan?}
 {218}{}{No! No scan!}
 {219}{}{Sure. Let's do it.}

@@ -40,7 +40,7 @@
 {139}{}{Not bad for a tribal, I say.}
 {140}{}{I needed that.}
 {141}{}{Mmm-hmmm.}
-{142}{}{Thanks.}
+{142}{}{Tack.}
 {143}{}{You're my best friend.}
 {144}{}{What a pal.}
 {145}{}{You're the best.}

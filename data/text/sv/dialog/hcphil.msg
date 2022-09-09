@@ -65,7 +65,7 @@
 {181}{}{Nothing. Forget it.}
 {182}{}{Tapped, eh? Too bad. You can stick around here, but don't bug the customers. I got work to do.
  See you.}
-{183}{}{Bye!}
+{183}{}{Hej då!}
 {184}{}{Hey! Welcome back. What'll it be?}
 {185}{}{Welcome back, pard. What'll it be?}
 {186}{}{You again? What'll it be?}
@@ -99,7 +99,7 @@
 {218}{}{I understand that you can poke around the mine now. Hell, if you find anything, you might even
  get to keep it.}
 {219}{}{You got anything else?}
-{220}{}{Thanks.}
+{220}{}{Tack.}
 {221}{}{Hell yeah! Find out where those two lunatics Franc and Manson went!}
 {222}{}{I'm on it.}
 {223}{}{Got it. See ya.}

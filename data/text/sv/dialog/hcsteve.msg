@@ -122,9 +122,9 @@
 {197}{}{Hej då.}
 {198}{}{Marcus, are you sure you don't want to stick around and lead us for a while?}
 {199}{}{Marcus: Ain't no future in it. You'll do fine without me.}
-{200}{}{[MORE]}
+{200}{}{[MER]}
 {201}{}{Pal, you're not wanted here. You've done enough damage.}
-{202}{}{[DONE]}
+{202}{}{[KLAR]}
 {300}{}{You can usually find Marcus near the bank -- that also serves as a tougher jail -- or at the
  Jail. Sometimes he's in the tavern or at home, but he's usually working.}
 {301}{}{Bummer!}

@@ -39,5 +39,5 @@
 {504}{}{Yep, Metzger sent me alright. Now, I need to speak with whose in charge here.}
 {599}{}{Touch it again and you die.}
 {600}{}{I warned you asshole!}
-{800}{}{[DONE]}
+{800}{}{[KLAR]}
 {900}{}{What the!? Rangers! Shit, how did they find us. Alright, time to kick some ass!}

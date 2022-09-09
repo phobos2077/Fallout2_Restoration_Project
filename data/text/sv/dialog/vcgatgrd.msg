@@ -77,7 +77,7 @@
 {176}{}{All right. Goodbye.}
 {177}{}{Well, all right, you're cleared to enter. Vault City prevails, Citizen.}
 {178}{}{Uh, yes... Vault City prevails, Citizen.}
-{179}{}{Thanks.}
+{179}{}{Tack.}
 {180}{}{Day Pass, please.}
 {181}{}{Here you go.}
 {182}{}{I don't need a Day Pass. I'm a Citizen.}
@@ -108,7 +108,7 @@
  City. Ditch them then come back, all right?}
 {206}{}{Okej.}
 {207}{}{All right, it looks like you're clean. You can head on in.}
-{208}{}{Thanks.}
+{208}{}{Tack.}
 {209}{}{Yup. Heer}
 {210}{}{Byeeee}
 {211}{}{Uh... (Studies you for a moment, then shrugs.) }

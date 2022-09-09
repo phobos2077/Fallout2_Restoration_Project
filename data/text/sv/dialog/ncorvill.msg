@@ -27,7 +27,7 @@
  hairs are left in his thick gray hair.) }
 {241}{}{Start talking, tribal. Who are you and what do you want?}
 {242}{}{Start talking, slaver. Who are you and what do you want?}
-{243}{}{Me }
+{243}{}{Jag }
 {244}{}{Boogity boogity}
 {245}{}{Yoo Boo Hoo Yooooo}
 {246}{}{Kootchie Kootchie Koooo}

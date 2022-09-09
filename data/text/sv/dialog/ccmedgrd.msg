@@ -24,7 +24,7 @@
 {121}{}{Doc wants me to kill the critter for him. He doesn't want to do it himself.}
 {122}{}{I knew the bastard wouldn't have the balls to do it himself. Oh no, it's okay
  if one of us gets fucked up. (sigh) Oh well. Go on in and good luck, soldier.}
-{123}{}{Thanks.}
+{123}{}{Tack.}
 {124}{}{Why are you looking at me like that, soldier?}
 {125}{}{Me hear you call Snookie. That cute.}
 {126}{}{I hear you're called Snookie. I think that's cute.}

@@ -29,7 +29,7 @@
 {177}{}{Removing your head from your shoulders.}
 {178}{}{Sorry, wrong place.}
 {179}{}{Hello again. You can go on in.}
-{180}{}{Thanks.}
+{180}{}{Tack.}
 {181}{}{Hey, get the hell away from the door!}
 {182}{}{Don't touch the door again unless you want trouble.}
 {183}{}{I see you touch that door again, you're gonna get a bullet in the head.}

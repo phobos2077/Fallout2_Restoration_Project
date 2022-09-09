@@ -51,9 +51,9 @@
  is so offensive to you, then I suggest you get the hell outta my house. I'm not gonna sit here and let some wandering
  tribal insult me in front of my wife.}
 {612}{}{Alright, alright, I'm leaving.}
-{613}{}{OK tough guy, now this "wandering tribal" is going to kill you in front of your wife. Then maybe I'll kill her too.
- Hell, maybe I'll kill everyone in this pathetic fucking place. You thought you could all hide from the horror of the wasteland?
- Well guess what, my naive friend? Horror has found you, and its name is }
+{613}{}{Okej, tuffing, nu kommer den här "vandrande stammen" att döda dig inför din fru. Då kanske jag också dödar henne.
+ För helvete, jag kanske dödar alla på detta patetiska jävla ställe. Trodde du att ni alla kunde gömma er från ödemarkens fasor?
+ Nå, gissa vad, min naiva vän? Skräcken har hittat dig, och dess namn är}
 {700}{}{Get the hell outta here.}
 {710}{}{Good to see you again. Tom's been a big help around here. Thanks again for sorting all that out. Now, what can I do for you?}
 {6061}{}{After that, I asked Brother Samuel if anything had happened in the graveyard. That's when he told me someone
