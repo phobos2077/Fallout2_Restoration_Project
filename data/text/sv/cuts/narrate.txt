@@ -5,10 +5,10 @@
 5:Detaljerna är triviala och meningslösa, orsakerna är som alltid rent mänskliga.
 6:In 2077, the earth was nearly wiped clean of human life.
 7:A great cleansing, an atomic spark struck by human hands, quickly raged out of control.
-8:Spears of nuclear fire rained from the skies.
-9:Continents were swallowed in flames and fell beneath the boiling oceans.
+8:Spjut av kärnvapeneld regnade från himlen.
+9:Kontinenter slukades av lågor och sjönk under de kokande haven.
 10:Humanity was almost extinguished, their spirits becoming part of the background radiation that blanketed the earth.
-11:A quiet darkness fell across the planet, lasting many years.
+11:Ett tyst mörker föll över planeten och varade i många år.
 12:Few survived the devastation.
 13:Some had been fortunate enough to reach safety, taking shelter in great underground vaults.
 14:When the great darkness passed, these vaults opened, and their inhabitants emerged to begin their lives again.
