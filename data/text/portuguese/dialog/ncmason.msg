@@ -117,60 +117,60 @@
 {502}{}{Você deve ser a vagabunda MAIS ESTÚPIDA que existe. }
 {503}{}{(Risos, pega as armas.) Hora de morrer, tribal.}
 {506}{}{Não, VOCÊ é quem vai MORRER! Está me OUVINDO, MASON?! VOCÊ É QUEM VAI SE F --}
-{514}{}{Well, why the hell didn't you say so in the FIRST place, idiot? Go tell Mr. Salvatore what you found.}
-{515}{}{(Nods, frowning slightly.) Well, awright then... go tell Mr. Salvatore what you found.}
-{516}{}{Oh, REALLY? Is THAT what I should do? Thanks, Mason. Without you, I wouldn't even know how to get
- from place to place. Sheesh. Idiot.}
+{514}{}{Tá, então por que caralhos você não disse isso PRIMEIRO, idiota? Vá dizer ao Sr. Salvatore o que encontrou.}
+{515}{}{(Acena com a cabeça, franzindo a testa ligeiramente.) Bem, tudo bem então... vá contar ao Sr. Salvatore o que você encontrou.}
+{516}{}{Oh, sério? É ISSO que devo fazer? Obrigado, Mason. Sem você, eu nem saberia como andar pra frente. Ahhhh,
+ Idiota.}
 {517}{}{Tudo certo.}
-{520}{}{You done the job yet?}
-{525}{}{Go see Mr. Salvatore. He's waiting for you.}
-{530}{}{Awright, then. You're gonna be a one-man collection agency. Drill's simple: Visit Renesco's Pharmacy
- on Commercial Row, collect the tribute, 1000 chips, then bring it back here.}
+{520}{}{Você já fez o trabalho?}
+{525}{}{Vá ver o Sr. Salvatore. Ele está esperando por você.}
+{530}{}{Certo, então. Você vai ser uma agência de cobrança ambulante. O negócio é simples: Vá até a Farmácia de Renesco
+ na Rua Comercial, pegue o tributo, 1000 fichas, depois traga de volta aqui.}
 {531}{}{Tudo bem... mais alguma coisa?}
-{535}{}{You collect the tribute yet?}
-{536}{}{(Frowns.) You collect the tribute yet?}
-{537}{}{(Scowls.) You BETTER have the money this time, dipshit. Mr. Salvatore's waiting.}
-{539}{}{Where was I supposed to collect from again?}
-{540}{}{Renesco's giving me shit. Says he gave two weeks ago, and he shouldn't have to pay for another month.}
+{535}{}{Já recolheu o tributo?}
+{536}{}{(Carranca.) Você já recolheu o tributo?}
+{537}{}{(cara feia.) É MELHOR você ter o dinheiro dessa vez, merdinha. O Sr. Salvatore está esperando.}
+{539}{}{Onde é mesmo que eu devia coletar?}
+{540}{}{Renesco tá falando bosta, diz que deu há duas semanas atrás, e não deveria ter que pagar no próximo mês.}
 {542}{}{Uh... certo. Aqui está o dinheiro.}
-{543}{}{Did it, but I don't have the money on me...}
-{544}{}{Almost. I'll have it next time, Mason.}
+{543}{}{Fiz isso, mas não tenho o dinheiro comigo...}
+{544}{}{Quase. Da próxima vez eu pego, Mason.}
 {546}{}{Tenho sua homenagem bem aqui... homem morto.}
-{555}{}{*Renesco's Pharmacy.* On the West Side. A thousand chips. Now get going.}
-{556}{}{That's all I need to know. Now stand back and let me get to work, Mason.}
-{565}{}{Hold on a minute there, speedy. I'll make this REAL clear so you can understand: Don't talk to me again
- until you get that money from Renesco. Or you're gonna make me mad. Now do your JOB.}
-{575}{}{I told you not to come back until you got that money... I TOLD you. (Taps his head.) Are you stupid?!
- Must be, cause here you are talking to me again. Stupid... and DEAD.}
-{585}{}{(Mason's eyes narrow.) So friggin' what? You tell him who you worked for?}
+{555}{}{*Farmácia Renesco.* Na Zona Oeste. Mil tampas. Agora vá.}
+{556}{}{Isso é tudo que eu preciso saber. Agora afaste-se e me deixe trabalhar, Mason.}
+{565}{}{Espere um instante, vem cá. Vou deixar bem claro para você entender: não fale comigo de novo até conseguir aquele
+ dinheiro de Renesco, ou eu me aborreço de verdade. Agora faça seu TRABALHO.}
+{575}{}{Eu te disse para não voltar até que você conseguisse aquele dinheiro... EU TE DISSE. (bate na própria cabeça)
+ Você é burro?! Deve ser, porque está falando comigo de novo. Estúpido... e MORTO.}
+{585}{}{(Os olhos de Mason se estreitam.) Então, o quê? Você diz a ele para quem você trabalha?}
 {586}{}{Sim.}
-{587}{}{Well, no.}
-{595}{}{Then did you SHOW him who you worked for?}
-{596}{}{Show him?}
-{598}{}{Uh, no. I'll have it next time, Mason.}
-{605}{}{What, I gotta hold your HAND?! Easiest goddamn thing in the world, and you come crying to me
- 'May-son, May-son, so and so ain't paying his tribute.'}
-{606}{}{Now hold on...}
-{615}{}{(As soon as he sees you, Mason sneers.) Just the dumb mother fucker I was looking for. }
-{617}{}{You can't collect tribute from dead people. (Reaches for his weapons.) You done screwed up but GOOD.}
-{618}{}{Yeah, well, I was getting tired of you anyway...}
-{619}{}{No, YOU'RE the one who's DONE SCREWED UP BUT GOOD! You HEAR ME, MASON?! YOU'RE THE ONE WHO'S DONE SCR --}
-{625}{}{(Mason nods, seems disappointed.) Heh. Thought we'd bled ol' Renesco of his last dime. All right then,
- well... take it in to the boss. (Frowns.) Go on now.}
-{635}{}{Get outta here. Mr. Salvatore don't want to do business with you no more.}
-{640}{}{Awright, the boss says you're coming along on a little TRANSACTION we're doing. Make sure you come
- armed... don't bring no pea-shooters... then come back and talk to me.}
-{642}{}{Mr. Salvatore said you were to give me a laser pistol.}
-{643}{}{What is this transaction we're doing?}
-{644}{}{I'm ready to go right now. Let's do it.}
-{645}{}{Give me some time to get ready, and I'll come back.}
-{655}{}{Yeah, that's the word. Here you go... don't be playing with it, neither. You hurt ANYONE with that thing,
- and I'll shoot you dead.}
-{656}{}{Can you teach me how to use this?}
-{658}{}{All right then, I'm good to go. Let's do it.}
-{665}{}{(Sneers.) If the boss didn't tell you, then you ain't gotta know. So shut your hole... and don't be
- telling anyone about what's going on, neither, or I'll make sure you never say anything again.}
-{675}{}{Let's go then.}
+{587}{}{Bem não.}
+{595}{}{Então você MOSTROU a ele para quem trabalha?}
+{596}{}{Mostrar a ele?}
+{598}{}{Eh não. Eu faço da próxima vez, Mason.}
+{605}{}{O que, eu preciso segurar na sua MÃO?! É a coisa mais fácil do mundo, e você vem chorando para mim 'May-son,
+ May-son, fulano de tal não está pagando sua dívida.'}
+{606}{}{Espere...}
+{615}{}{(Assim que ele te vê, zomba de você.) Olha só, o exato débio mental que eu estava procurando. }
+{617}{}{Você não pode coletar imposto dos mortos. (Pega suas armas.) Você estragou tudo, mas foi BOM.}
+{618}{}{Sim, bem, eu estava ficando cansado de você de qualquer forma...}
+{619}{}{Não, VOCÊ é o único que FERROU TUDO, MAS FEZ BOM! Tá me OUVINDO, MASON?! VOCÊ É QUEM FEZ ERRA --}
+{625}{}{(Mason acena com a cabeça, parece desapontado.) Heh. Pensei que tivéssemos arrancado do velho Renesco
+ até seu último centavo. Tudo bem então, bem... leve para o chefe. (Carranca.) Vá agora.}
+{635}{}{Saia daqui. O Sr. Salvatore não quer mais fazer negócios com você.}
+{640}{}{Certo, o chefe disse que você está se juntando a nós para uma certa TRANSAÇÃO que vamos fazer. Certifique-se de
+ vir armado... não traga nenhuma mata pomba... depois volte e fale comigo.}
+{642}{}{O Sr. Salvatore disse que você deveria me dar uma pistola a laser.}
+{643}{}{O que é essa transação que estamos fazendo?}
+{644}{}{Estou pronto para ir agora. Vamos fazer isso.}
+{645}{}{Me dê algum tempo para ficar pronto, e eu voltarei.}
+{655}{}{Sim, esse é o trato. Aqui está... não brinque com isso. Se você machucar QUALQUER UM com essa coisa, eu é que vou
+ atirar em você.}
+{656}{}{Você pode me ensinar como usar isso?}
+{658}{}{Tudo bem então, estou pronto para ir. Vamos fazer isso.}
+{665}{}{(Risos.) Se o chefe não te contou, então você não precisa saber. Então cale a boca... e não conte a ninguém
+ sobre o que está acontecendo, ou eu vou me certifico de que você nunca mais diga nada.}
+{675}{}{Vamos então.}
 {676}{}{Follow him and the other Salvatores into the desert...}
 {685}{}{Make sure you hurry up. We only got a 24 hour window before the deal's off. You miss it, and I'll make sure
  you rot in Golgotha.}
