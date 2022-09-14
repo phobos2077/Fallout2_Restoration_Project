@@ -1,77 +1,77 @@
-{100}{}{You see Darlin' Nikki.}
-{125}{}{You see one of the casino dealers.}
-{150}{}{You see Darlin' Nikki.}
-{151}{}{You see Darlin' Nikki. She winks at you.}
-{152}{}{You see Darlin' Nikki. She motions for you to come over and play.}
-{153}{}{You see Darlin' Nikki. Mason was right about her ass.}
-{154}{}{You see Darlin' Nikki. Her dress barely covers her body.}
-{155}{}{You see Darlin' Nikki. Mason was right about her ass.}
-{156}{}{You see Darlin' Nikki. Her dress barely covers her body.}
-{160}{}{You see Darlin' Nikki. She motions for you to come over and play.}
-{161}{}{You see Darlin' Nikki. Her dress barely covers her body.}
-{162}{}{You see Darlin' Nikki. Her dress barely covers her body.}
-{170}{}{You see one of the casino dealers.}
-{171}{}{You see one of the casino dealers. She winks at you.}
-{172}{}{You see one of the casino dealers. She motions for you to come over and play.}
-{173}{}{You see one of the casino dealers. She's got some nice gams.}
-{174}{}{You see one of the casino dealers. Her dress barely covers her body.}
-{175}{}{You see one of the casino dealers. She smells reeeally nice.}
-{180}{}{You see one of the casino dealers. She motions for you to come over and play.}
-{181}{}{You see one of the casino dealers. Her dress barely covers her body.}
-{182}{}{You see one of the casino dealers. Her dress barely covers her body.}
-{183}{}{You see one of the casino dealers. She motions for you to come over and play.}
+{100}{}{Você vê a linda Nikki.}
+{125}{}{Você vê um dos crupiês do cassino.}
+{150}{}{Você vê a linda Nikki.}
+{151}{}{Você vê a linda Nikki. Ela pisca para você.}
+{152}{}{Você vê a linda Nikki. Ela gesticula para que você venha brincar.}
+{153}{}{Você vê a linda Nikki. Mason estava certo sobre sua bunda.}
+{154}{}{Você vê a linda Nikki. Seu vestido mal cobre seu corpo.}
+{155}{}{Você vê a linda Nikki. Mason estava certo sobre sua bunda.}
+{156}{}{Você vê a linda Nikki. Seu vestido mal cobre seu corpo.}
+{160}{}{Você vê a linda Nikki. Ela gesticula para que você venha brincar.}
+{161}{}{Você vê a linda Nikki. Seu vestido mal cobre seu corpo.}
+{162}{}{Você vê a linda Nikki. Seu vestido mal cobre seu corpo.}
+{170}{}{Você vê um dos crupiês do cassino.}
+{171}{}{Você vê uma das crupiês do cassino. Ela pisca para você.}
+{172}{}{Você vê uma das crupiês do cassino. Ela gesticula para que você venha brincar.}
+{173}{}{Você vê uma das crupiês do cassino. Ela tem um monumental par de coxas.}
+{174}{}{Você vê uma das crupiês do cassino. Seu vestido mal cobre seu corpo.}
+{175}{}{Você vê uma das crupiês do cassino. Ela é muito cheirosa.}
+{180}{}{Você vê uma das crupiês do cassino. Ela gesticula para que você venha brincar.}
+{181}{}{Você vê uma das crupiês do cassino. Seu vestido mal cobre seu corpo.}
+{182}{}{Você vê uma das crupiês do cassino. Seu vestido mal cobre seu corpo.}
+{183}{}{Você vê uma das crupiês do cassino. Ela gesticula para que você venha brincar.}
 {200}{}{::Assobios::}
 {201}{}{::Palmas::}
 {202}{}{::Assobios::}
-{203}{}{! Welcome to the casino, hero!}
-{204}{}{Thought you'd forgotten about us while you were saving the world.}
+{203}{}{! Bem-vindo ao cassino, herói!}
+{204}{}{Pensei que você tinha se esquecido de nós enquanto estava salvando o mundo.}
 {210}{}{Olá, }
 {211}{}{Se precisar de companhia mais tarde...}
-{212}{}{Hey, you...(winks)...you looking to gamble?}
+{212}{}{Ei, você... (pisca)... está querendo jogar?}
 {213}{}{Ele parece tão... (arrepios) perigoso.}
-{214}{}{Welcome to the casino, }
+{214}{}{Bem vindo ao cassino, }
 {215}{}{Fale bem de mim pro chefe, beleza?}
 {216}{}{Olá, madame. Se eu puder ajudar em algo é só me dizer.}
-{217}{}{Looking to gamble, ma'am?}
+{217}{}{Quer jogar, senhorita?}
 {218}{}{Ela parece tão... (arrepios) perigosa.}
-{220}{}{Looks like this one's already gambling with his life.}
+{220}{}{Parece que este já está jogando com a vida.}
 {221}{}{Uh, eu acho que ele entrou no cassino errado...}
-{222}{}{If he doesn't leave before the boys see him...}
-{223}{}{Uh-oh. Trouble...}
-{224}{}{Looks like this one's already gambling with her life.}
+{222}{}{Se ele não sair antes que os rapazes o vejam...}
+{223}{}{Oh-oh. Problema...}
+{224}{}{Parece que já esta jogando com a vida.}
 {225}{}{Uh, eu acho que ela entrou no cassino errado...}
-{226}{}{If she doesn't leave before the boys see her...}
-{230}{}{Hey, muscles. You looking to spend some chips?}
-{231}{}{Hey, champ...(winks)...you looking to gamble?}
-{232}{}{Hey, champ...(smiles)...wanna take a chance?}
+{226}{}{Se ela não sair antes que os rapazes a vejam...}
+{230}{}{Ei, músculos. Você quer gastar algumas tampas?}
+{231}{}{Ei, campeão...(pisca).... Gostaria de jogar?}
+{232}{}{Ei, campeão...(sorri).... Gostaria de uma chance?}
 {233}{}{Se precisar de companhia mais tarde...}
 {234}{}{Me pergunto se eu deveria falar com ele...}
 {235}{}{Ei, }
-{236}{}{If you're looking to win some chips, you came to the right place.}
-{237}{}{Best casino in New Reno. In the WORLD, even.}
-{238}{}{Lady Luck's in the house tonight... nothing but winners!}
-{239}{}{Step right up, }
-{240}{}{Need another drink?}
-{241}{}{Welcome to the casino, }
+{236}{}{Se você quer ganhar algumas tampas, veio ao lugar certo.}
+{237}{}{Melhor casino em New Reno. No MUNDO, até.}
+{238}{}{Dona Sorte está em casa esta noite... Somente vencedores!}
+{239}{}{Adiante, }
+{240}{}{Precisa de outra bebida?}
+{241}{}{Bem vindo ao cassino, }
 {242}{}{Olá, }
-{243}{}{Looking to gamble, }
-{244}{}{Welcome to the casino, }
-{250}{}{Hey there, movie man. You looking to spend some chips?}
+{243}{}{Com certeza quer jogar, }
+{244}{}{Bem vindo ao cassino, }
+{250}{}{Olá, estrela. Você quer gastar algumas tampas?}
 {251}{}{Ei, }
 {252}{}{Ei, }
-{253}{}{If you're looking to win some chips }
-{254}{}{Best casino in New Reno. In the WORLD, even.}
-{255}{}{Lady Luck's in the house tonight... nothing but winners!}
-{266}{}{Step right up, }
-{267}{}{Need another drink?}
-{268}{}{Welcome to the casino, }
-{269}{}{Hey there, Mrs. Movie Star. Looking to spend a paycheck?}
-{270}{}{Hey there, sweetie. You looking to spend some chips?}
-{271}{}{Hey, sweetie...(winks)...you looking to gamble?}
+{253}{}{Se você está querendo ganhar algumas tampas }
+{254}{}{Melhor casino em New Reno. No MUNDO, até.}
+{255}{}{Dona Sorte está em casa esta noite... Somente vencedores!}
+{266}{}{Adiante, }
+{267}{}{Precisa de outra bebida?}
+{268}{}{Bem vindo ao cassino, }
+{269}{}{Olá, Sra. Estrela de Cinema. Vendo onde gastar seu salário?}
+{270}{}{Ei, querida. Você quer gastar algumas tampas?}
+{271}{}{Ei, querida... (pisca)... você quer jogar?}
 {272}{}{Hey, sweetie...(smiles)...wanna take a chance?}
-{273}{}{If you're looking to win some chips, you came to the right place.}
-{274}{}{Best casino in New Reno. In the WORLD, even.}
-{275}{}{Lady Luck's in the house tonight... nothing but winners!}
+{273}{}{Se você quer ganhar algumas tampas, veio ao lugar certo.}
+{274}{}{Melhor casino em New Reno. No MUNDO, até.}
+{275}{}{Dona Sorte está em casa esta noite... Somente vencedores!}
 {276}{}{Step right up, win some chips.}
 {277}{}{Need another drink, honey?}
 {278}{}{Welcome to the casino, honey.}

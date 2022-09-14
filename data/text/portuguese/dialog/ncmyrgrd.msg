@@ -106,9 +106,9 @@
 {495}{}{(Dá de ombros.) Eu não me importo. Se você quiser esperar por ele, fica a vontade. Só não sei quando ele vai voltar...
  se é que ele vai voltar.}
 {5225}{}{! E aí?}
-{5230}{}{s! Waste 'em!}
-{5236}{}{ man who don't know when he's about to die.}
-{5240}{}{ kennel, puta?}
-{5241}{}{ bitch who don't know when she's about to die.}
-{5476}{}{! Myron's right behind that door. He expecting you?}
-{5486}{}{, whatzzup? Oh, hey... Myron ain't in.}
+{5230}{}{! Acabe com ele!}
+{5236}{}{ homem que não sabe quando está prestes a morrer.}
+{5240}{}{ canil, cadela?}
+{5241}{}{ vadia que não sabe quando ela está prestes a morrer.}
+{5476}{}{! Myron está bem atrás dessa porta. Ele está te esperando?}
+{5486}{}{, e ai? Oh, ei... Myron não está.}
