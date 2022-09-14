@@ -68,23 +68,23 @@
 {269}{}{Olá, Sra. Estrela de Cinema. Vendo onde gastar seu salário?}
 {270}{}{Ei, querida. Você quer gastar algumas tampas?}
 {271}{}{Ei, querida... (pisca)... você quer jogar?}
-{272}{}{Hey, sweetie...(smiles)...wanna take a chance?}
+{272}{}{Ei, docinho... (sorri)... quer ter uma chance?}
 {273}{}{Se você quer ganhar algumas tampas, veio ao lugar certo.}
 {274}{}{Melhor casino em New Reno. No MUNDO, até.}
 {275}{}{Dona Sorte está em casa esta noite... Somente vencedores!}
-{276}{}{Step right up, win some chips.}
-{277}{}{Need another drink, honey?}
-{278}{}{Welcome to the casino, honey.}
-{279}{}{This table's free if you're looking to gamble...}
-{280}{}{Hey there, honey. You looking to spend some chips?}
-{281}{}{Looking to gamble, honey?}
-{282}{}{Welcome to the casino, honey.}
-{290}{}{Well, you're crazy for coming in here, but... place your bets. Minimum bet 5 chips. Place your bets...}
-{291}{}{Um... place your bets... minimum bet 5 chips. Place your bets...}
-{292}{}{Place your bet, sir. Minimum bet 5 chips. Place your bets...}
-{293}{}{Place your bet, ma'am. Minimum bet 5 chips. Place your bets...}
-{294}{}{Place your bets, minimum bet 5 chips. Place your bets...}
-{295}{}{Me bet-ter than you}
+{276}{}{Vamos lá, ganhe algumas tampas.}
+{277}{}{Precisa de outra bebida, docinho?}
+{278}{}{Bem vindo ao cassino, docinho.}
+{279}{}{Essa mesa é grátis se você quiser jogar...}
+{280}{}{Ei, docinho. Você quer gastar algumas fichas?}
+{281}{}{Quer jogar, docinho?}
+{282}{}{Bem vindo ao cassino, docinho.}
+{290}{}{Bem, você está louco para entrar aqui, mas… faça suas apostas. A aposta mínima é de 5 tampas. Faça suas apostas…}
+{291}{}{Hum... façam suas apostas... aposta mínima 5 tampas. Façam suas apostas...}
+{292}{}{Faça sua aposta, senhor. Aposta mínima 5 tampas. Façam suas apostas...}
+{293}{}{Faça sua aposta, senhora. Aposta mínima 5 tampas. Façam suas apostas...}
+{294}{}{Façam suas apostas, aposta mínima 5 tampas. Façam suas apostas...}
+{295}{}{Eu meior que oce}
 {296}{}{Me play craps in pants}
 {297}{}{What this game? Can you bet Gecko skin? Me got geck... ooooh... pretty lights over there!}
 {298}{}{Bet 5 chips?}

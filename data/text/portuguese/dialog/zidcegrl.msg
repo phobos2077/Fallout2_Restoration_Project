@@ -74,18 +74,18 @@
 {292}{}{Hey, sweetie...[smiles]...wanna take a chance?}
 {293}{}{Se você quer ganhar algumas tampas, veio ao lugar certo.}
 {294}{}{Dona Sorte está em casa esta noite... Somente vencedores!}
-{295}{}{Step right up, win some chips.}
-{296}{}{Need another drink, honey?}
-{297}{}{Welcome to the casino, honey.}
-{298}{}{This table's free if you're looking to gamble...}
-{299}{}{Hey there, honey. You looking to spend some chips?}
-{300}{}{Looking to gamble, honey?}
-{301}{}{Welcome to the casino, honey.}
+{295}{}{Vamos lá, ganhe algumas tampas.}
+{296}{}{Precisa de outra bebida, docinho?}
+{297}{}{Bem vindo ao cassino, docinho.}
+{298}{}{Essa mesa é grátis se você quiser jogar...}
+{299}{}{Ei, docinho. Você quer gastar algumas fichas?}
+{300}{}{Quer jogar, docinho?}
+{301}{}{Bem vindo ao cassino, docinho.}
 {320}{}{[The dealer looks at you nervously, then chews her lip.] Um, place your bets... minimum bet $}
 {321}{}{Place your bet, sir. Minimum bet $}
 {322}{}{Place your bet, ma'am. Minimum bet $}
 {323}{}{Place your bets, minimum bet $}
-{324}{}{Me bet-ter than you}
+{324}{}{Eu meior que oce}
 {325}{}{Me play craps in pants}
 {326}{}{What this game? Can you bet gecko skin? Me got geck... ooooh... pretty lights! [Wander off.]}
 {327}{}{[You have $}
