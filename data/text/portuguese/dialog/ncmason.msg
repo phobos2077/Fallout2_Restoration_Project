@@ -171,24 +171,24 @@
 {665}{}{(Risos.) Se o chefe não te contou, então você não precisa saber. Então cale a boca... e não conte a ninguém
  sobre o que está acontecendo, ou eu vou me certifico de que você nunca mais diga nada.}
 {675}{}{Vamos então.}
-{676}{}{Follow him and the other Salvatores into the desert...}
-{685}{}{Make sure you hurry up. We only got a 24 hour window before the deal's off. You miss it, and I'll make sure
- you rot in Golgotha.}
-{686}{}{Don't you worry. I'll be there.}
-{695}{}{You got enough beauty sleep? Maybe NOW yer ready to go?}
-{696}{}{What is this transaction we're doing again?}
+{676}{}{Siga ele e os outros Salvatores no deserto...}
+{685}{}{Procure se apressar. Só temos umas 24 horas antes de fecharmos o negócio. Chegue mais tarde, e eu vou me certificar
+ de que você apodreça no Gólgota.}
+{686}{}{Não se preocupe. Eu estarei lá.}
+{695}{}{Teve um bom sono da beleza? Talvez AGORA você esteja pronto para ir?}
+{696}{}{O que é essa transação que estamos fazendo?}
 {697}{}{Sim, bora.}
-{698}{}{I need a little more time, then I'll be back.}
-{699}{}{Can you teach me how to use this pistol?}
-{705}{}{I been itching to kill you for a LONG time... I WARNED you what would happen if you were late.}
-{706}{}{Well, pardon fucking me for not having a watch.}
-{707}{}{No, YOU'RE the one was WARNED! You HEAR ME, MASON?! YOU'RE THE ONE WHO WAS WARN --}
-{715}{}{Why izzit you gotta question every thing I say?! Look: The OTHER party at this transaction ain't gonna
- be hurt by these lightbringers, okay? So make sure you have something ELSE with you.}
-{725}{}{(Grunts.) Goddammit... look, first off, hold it like THIS. (Adjusts your grip.) Now, the loading chamber
- is here...(After an hour, and some practice, Mason has improved your skill with Energy Weapons.)}
-{726}{}{So, why do I need something other than this? These pistols seem pretty powerful.}
-{728}{}{Well, I'm good to go. Let's do it.}
+{698}{}{Preciso de um pouco mais de tempo, depois volto.}
+{699}{}{Você pode me ensinar como usar essa pistola?}
+{705}{}{Fazia um BOM tempo que eu queria te matar... Eu avisei o que aconteceria se você se atrasasse.}
+{706}{}{Bem, me perdoe por não ter um relógio.}
+{707}{}{Não, VOCÊ é quem está sendo AVISADO! Tá me OUVINDO, MASON?! VOCÊ É QUEM FOI AVISA --}
+{715}{}{Mas por que você precisa questionar tudo o que eu digo?! Olha: a OUTRA parte dessa transação não vai se
+ incomodar com esses iluminadores, ok? Portanto, certifique de LEVAR algo a mais com você.}
+{725}{}{(Resmunga.) Caramba... olhe, pra começar, o segure assim. (Ajusta sua pegada.) Agora, a câmara de
+ carregamento está aqui... (Depois de uma hora e alguma prática, Mason melhorou sua habilidade com armas de energia.)}
+{726}{}{Então, por que eu preciso de algo a mais que isso? Essas pistolas parecem muito poderosas.}
+{728}{}{Bem, estou pronto para ir. Vamos fazer isso.}
 {729}{}{All right then. Give me some time to get ready, and I'll come back.}
 {735}{}{(Grunts.) Hey, there...}
 {736}{}{Take the items.}
