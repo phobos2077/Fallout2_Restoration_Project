@@ -86,35 +86,35 @@
 {322}{}{Place your bet, ma'am. Minimum bet $}
 {323}{}{Place your bets, minimum bet $}
 {324}{}{Eu meior que oce}
-{325}{}{Me play craps in pants}
+{325}{}{Eu jogo minha calça}
 {326}{}{What this game? Can you bet gecko skin? Me got geck... ooooh... pretty lights! [Wander off.]}
 {327}{}{[You have $}
 {328}{}{Bet $}
 {329}{}{Whoa, too rich for my blood.}
-{330}{}{No bets today, thanks.}
+{330}{}{Sem apostas hoje, obrigado.}
 {331}{}{Uhhh, sorry, I don't know how to play these crazy games.}
-{340}{}{Um... I hear they're giving away brains out back. Maybe you should go check it out.}
-{341}{}{Uh, very well, sir. Come back soon.}
-{342}{}{Uh, very well, ma'am. Come back soon.}
-{343}{}{Byeee-byeeee}
-{344}{}{Gooodie. }
+{340}{}{Hum… Ouvi dizer que estão dando cérebros lá atrás. Talvez você devesse dar uma olhada.}
+{341}{}{Muito bem, senhor. Volte logo.}
+{342}{}{Muito bem, senhora. Volte logo.}
+{343}{}{Tchaaaaau}
+{344}{}{Diaaaaa. }
 {345}{}{Uh... brains... what them?! Me go see!}
-{350}{}{Very well, sir. Come back soon.}
-{351}{}{Very well, ma'am. Come back soon.}
+{350}{}{Muito bem, senhor. Volte logo.}
+{351}{}{Muito bem, senhora. Volte logo.}
 {352}{}{[Dealer raises an eyebrow.] $}
-{354}{}{I will, thanks.}
+{354}{}{Eu vou, obrigado.}
 {355}{}{Maybe so.}
-{400}{}{Sorry, better luck next time.}
-{401}{}{Sorry, sir. Better luck next time.}
-{402}{}{Sorry, ma'am. Better luck next time.}
+{400}{}{Desculpe, mais sorte da próxima vez.}
+{401}{}{Desculpe, senhor. Mais sorte da próxima vez.}
+{402}{}{Desculpe, senhora. Mais sorte da próxima vez.}
 {410}{}{Match.}
 {411}{}{Match. Try again sir?}
 {412}{}{Match. Try again ma'am?}
-{420}{}{Winner! You've doubled your money!}
-{421}{}{Winner! You've doubled your money! Well done, sir!}
-{422}{}{Winner! You've doubled your money! Well done, ma'am!}
-{430}{}{Winner! You've tripled your money!}
-{431}{}{Winner! You've tripled your money! Luck is in the house tonight! Well done, sir!}
+{420}{}{Vencedor! Você dobrou seu dinheiro!}
+{421}{}{Vencedor! Você dobrou seu dinheiro! Muito bem, senhor!}
+{422}{}{Vencedora! Você dobrou seu dinheiro! Muito bem, senhora!}
+{430}{}{Vencedor! Você triplicou seu dinheiro!}
+{431}{}{Vencedor! Você triplicou seu dinheiro! A sorte está na casa esta noite! Muito bem, senhor!}
 {432}{}{Winner! You've tripled your money! Luck is in the house tonight! Well done, ma'am!}
 {440}{}{Liga-o por um dia.}
 {441}{}{Isso que é noite.}

@@ -35,7 +35,7 @@
 {283}{}{Quem é você?}
 {284}{}{What casino is this?}
 {285}{}{Can you tell me a little about the casino?}
-{286}{}{You know somebody named Pretty Boy Lloyd?}
+{286}{}{Você conhece alguém chamado Lloyd Bonitão?}
 {287}{}{Who's that old guy at the slot machine?}
 {288}{}{That comic you got on stage is weak. Mind if I try?}
 {289}{}{Do you need a dancer for the night? I'm open for a limited engagement.}
@@ -78,7 +78,7 @@
 {344}{}{Quem é você?}
 {345}{}{What casino is this?}
 {346}{}{Can you tell me a little about the casino?}
-{347}{}{You know somebody named Pretty Boy Lloyd?}
+{347}{}{Você conhece alguém chamado Lloyd Bonitão?}
 {348}{}{Who's that old guy at the slot machine?}
 {349}{}{That comic you got on stage is weak. Mind if I try?}
 {350}{}{Do you need a dancer for the night? I'm open for a limited engagement.}
@@ -97,7 +97,7 @@
 {364}{}{Quem é você?}
 {365}{}{What casino is this?}
 {366}{}{Can you tell me a little about the casino?}
-{367}{}{You know somebody named Pretty Boy Lloyd?}
+{367}{}{Você conhece alguém chamado Lloyd Bonitão?}
 {368}{}{Who's that old guy at the slot machine?}
 {369}{}{Thanks. Do you need a dancer for the night? I'm open for a limited engagement.}
 {370}{}{Thanks, I'm flattered. Just stopped by to say hello.}

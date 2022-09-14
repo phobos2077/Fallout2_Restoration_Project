@@ -85,73 +85,73 @@
 {293}{}{Faça sua aposta, senhora. Aposta mínima 5 tampas. Façam suas apostas...}
 {294}{}{Façam suas apostas, aposta mínima 5 tampas. Façam suas apostas...}
 {295}{}{Eu meior que oce}
-{296}{}{Me play craps in pants}
-{297}{}{What this game? Can you bet Gecko skin? Me got geck... ooooh... pretty lights over there!}
-{298}{}{Bet 5 chips?}
-{299}{}{Bet 15 chips?}
-{300}{}{Bet 25 chips?}
-{301}{}{Bet 50 chips?}
-{302}{}{You Nikki?}
-{303}{}{How you doing, Nikki?}
-{304}{}{Whoa, too rich for my blood. I'm outta here.}
-{305}{}{No bets today, thanks.}
-{310}{}{Uh, very well, sir. Come back soon.}
-{311}{}{Uh, very well, ma'am. Come back soon.}
-{312}{}{Um... I hear they're giving away brains out back. Maybe you should go check it out.}
-{313}{}{Byeee-byeeee}
-{314}{}{Gooodie. }
-{315}{}{Uh... brains... what them?}
-{320}{}{Very well, sir. Come back soon.}
-{321}{}{Very well, ma'am. Come back soon.}
-{322}{}{5 chips? 'Too rich for your blood?' Pal, you're in the wrong town.}
-{323}{}{5 chips? 'Too rich for your blood?' Pal, you're in the wrong town.}
-{324}{}{5 chips? 'Too rich for your blood?' Girl, you're in the wrong town.}
-{325}{}{5 chips? 'Too rich for your blood?' Girl, you're in the wrong town.}
-{326}{}{I will, thanks.}
-{327}{}{Maybe so, but at least *I* don't live here.}
-{330}{}{Sorry, sir. Better luck next time.}
-{331}{}{Sorry, ma'am. Better luck next time.}
-{332}{}{Sorry, better luck next time.}
-{333}{}{You have [C] chips. Keep playing?}
+{296}{}{Eu jogo minha calça}
+{297}{}{Do que é este jogo? Você pode apostar pele de Gecko? Eu tenho pele... ooooh... lindas luzes ali!}
+{298}{}{Aposta 5 tampas?}
+{299}{}{Aposta 15 tampas?}
+{300}{}{Aposta 25 tampas?}
+{301}{}{Aposta 50 tampas?}
+{302}{}{Você Nikki?}
+{303}{}{Como vai, Nikki?}
+{304}{}{Uau, caro demais para meu tipo. Vou sair daqui.}
+{305}{}{Sem apostas hoje, obrigado.}
+{310}{}{Muito bem, senhor. Volte logo.}
+{311}{}{Muito bem, senhora. Volte logo.}
+{312}{}{Hum… Ouvi dizer que estão dando cérebros lá atrás. Talvez você devesse dar uma olhada.}
+{313}{}{Tchaaaaau}
+{314}{}{Diaaaaa. }
+{315}{}{Uh... cérebros... quais?}
+{320}{}{Muito bem, senhor. Volte logo.}
+{321}{}{Muito bem, senhora. Volte logo.}
+{322}{}{5 tampinhas? "caro demais para meu tipo?" Colega, você está na cidade errada.}
+{323}{}{5 tampinhas? "caro demais para meu tipo?" Colega, você está na cidade errada.}
+{324}{}{5 tampinhas? "caro demais para meu tipo?" Moça, você está na cidade errada.}
+{325}{}{5 tampinhas? "caro demais para meu tipo?" Moça, você está na cidade errada.}
+{326}{}{Eu vou, obrigado.}
+{327}{}{Talvez sim, mas pelo menos *eu* não moro aqui.}
+{330}{}{Desculpe, senhor. Mais sorte da próxima vez.}
+{331}{}{Desculpe, senhora. Mais sorte da próxima vez.}
+{332}{}{Desculpe, mais sorte da próxima vez.}
+{333}{}{Você tem [C] tampas. Continua jogando?}
 {334}{}{Liga-o por um dia.}
 {335}{}{Isso que é noite.}
-{340}{}{Winner! Well done, sir!}
-{341}{}{Winner! Well done, ma'am!}
-{342}{}{Winner!}
-{343}{}{You have [C] chips. Keep playing?}
+{340}{}{Vencedor! Muito bem, senhor!}
+{341}{}{Vencedora! Muito bem, senhora!}
+{342}{}{Vencedor!}
+{343}{}{Você tem [C] tampas. Continua jogando?}
 {344}{}{Liga-o por um dia.}
 {345}{}{Isso que é noite.}
-{350}{}{Winner! You've doubled your money! Well done, sir!}
-{351}{}{Winner! You've doubled your money! Well done, ma'am!}
-{352}{}{Winner! You've doubled your money!}
-{353}{}{You have [C] chips. Keep playing?}
+{350}{}{Vencedor! Você dobrou seu dinheiro! Muito bem, senhor!}
+{351}{}{Vencedora! Você dobrou seu dinheiro! Muito bem, senhora!}
+{352}{}{Vencedor! Você dobrou seu dinheiro!}
+{353}{}{Você tem [C] tampas. Continua jogando?}
 {354}{}{Liga-o por um dia.}
 {355}{}{Isso que é noite.}
-{360}{}{Winner! You've tripled your money! Luck is in the house tonight! Well done, sir!}
-{361}{}{Winner! You've tripled your money! Luck is in the house tonight! Well done, sir!}
-{362}{}{Winner! You've tripled your money!}
-{363}{}{You have [C] chips. Keep playing?}
+{360}{}{Vencedor! Você triplicou seu dinheiro! A sorte está na casa esta noite! Muito bem, senhor!}
+{361}{}{Vencedor! Você triplicou seu dinheiro! A sorte está na casa esta noite! Muito bem, senhor!}
+{362}{}{Vencedor! Você triplicou seu dinheiro!}
+{363}{}{Você tem [C] tampas. Continua jogando?}
 {364}{}{Liga-o por um dia.}
 {365}{}{Isso que é noite.}
-{370}{}{What do you want now? You here to waste my time, or you gonna place a bet?}
-{371}{}{I'm whoever you WANT me to be, sweetheart. Now, you gonna place a bet?}
-{372}{}{I'm whoever you WANT me to be, girlfriend. Now, you gonna place a bet?}
-{373}{}{Place a bet.}
-{374}{}{Yeah. I'm betting you know where Pretty Boy Lloyd is.}
-{375}{}{Yeah, I'm betting you and Pretty Boy Lloyd were both stealing money from Mr. Salvatore. Hard to believe you
- didn't notice him cheating all those times.}
-{376}{}{You know somebody named Pretty Boy Lloyd?}
-{377}{}{We'll talk later, Nikki.}
-{380}{}{Yeah, I heard he's DEAD. That what you want to hear, killer?! Huh?! Now you gonna place a bet or bullshit me some more?}
-{381}{}{Nope. You gonna place a bet?}
-{382}{}{Place a bet.}
-{383}{}{Yeah. I'm betting you know where Pretty Boy Lloyd is.}
-{384}{}{Yeah, I'm betting you and Pretty Boy Lloyd were both stealing money from Mr. Salvatore. Hard to believe you didn't notice
- Lloyd cheating all those times.}
-{385}{}{We'll talk later, Nikki.}
-{390}{}{Then that's a bet you'd LOSE, sweetheart, but if you're as stupid as you are ugly, you'd probably bet anyway. I ain't
- seen that bum since he conned Mr. Salvatore.}
-{391}{}{Then that's a bet you'd lose, sweetheart. I ain't seen that bum since he pulled that swindle on Mr. Salvatore.}
+{370}{}{O que você quer agora? Está aqui para me fazer perder tempo, ou vai fazer uma aposta?}
+{371}{}{Eu sou quem VOCÊ quer que eu seja, docinho. Então, vai fazer uma aposta?}
+{372}{}{Eu sou quem VOCÊ que eu seja, amor. Então, você vai fazer uma aposta?}
+{373}{}{Coloque uma aposta.}
+{374}{}{Sim. Aposto que você sabe onde fica o Lloyd Bonitão.}
+{375}{}{Sim, aposto que você e o Lloyd Bonitão estavam roubando dinheiro do Sr. Salvatore. Difícil de acreditar que você
+ não percebeu que ele estava te enganando todas essas vezes.}
+{376}{}{Você conhece alguém chamado Lloyd Bonitão?}
+{377}{}{Conversamos mais tarde, Nikki.}
+{380}{}{Sim, ouvi dizer que ele está MORTO. É isso que você quer ouvir, seu assassino?! Huh?! Agora você vai fazer uma aposta continuar com suas besteiras?}
+{381}{}{Não. Você vai fazer uma aposta?}
+{382}{}{Coloque uma aposta.}
+{383}{}{Sim. Aposto que você sabe onde fica o Lloyd Bonitão.}
+{384}{}{Sim, aposto que você e o Lloyd Bonitão estavam roubando dinheiro do Sr. Salvatore. Difícil acreditar que você não percebeu
+ Lloyd trapaceando todas essas vezes.}
+{385}{}{Conversamos mais tarde, Nikki.}
+{390}{}{Então essa aposta você PERDERIA, docinho, mas se você é tão estúpido quanto é feio, provavelmente apostaria de
+ qualquer maneira. Não vejo aquele canalha desde que ele roubou o Sr. Salvatore.}
+{391}{}{Então é uma aposta que você perderia, docinho. Não vejo aquele vagabundo desde que ele enganou o Sr. Salvatore.}
 {392}{}{Then that's a bet you'd lose, girlfriend. I ain't seen that bum since he pulled that swindle on Mr. Salvatore.}
 {393}{}{Maybe you didn't hear me the first time, so for the benefit of the hearing impaired: Where is Lloyd?}
 {394}{}{Pretty suspicious you didn't notice him cheating all those times. You'd have to be blind... or bribed.}
