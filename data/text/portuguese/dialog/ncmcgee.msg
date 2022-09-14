@@ -19,7 +19,7 @@
 {228}{}{Gonna smack you up, girlie.}
 {235}{}{Máquina mardita, sua merda de brahmin!}
 {236}{}{Raider-de-um-braço-só desgraçado! Pague o velho McGee!}
-{237}{}{Stop holdin out on ol' McGee, darling...}
+{237}{}{Pare de segurar o velho McGee, querida...}
 {238}{}{Casa contra eu de novo!}
 {239}{}{Vamo lá, garota, seja boazinha com o McGee agora...}
 {240}{}{Me dá um pouco de amor, docinho.}
@@ -70,7 +70,7 @@
 {317}{}{(Tenta alcançar o rifle, mas pega o ar) Hein? Onde diabos tá o meu rifle...?}
 {318}{}{Deixa eu te mostrar...}
 {319}{}{Uh oh...}
-{320}{}{I tookie when yoo no lookie.}
+{320}{}{Eu peguei quando você não viu.}
 {321}{}{Uh...}
 {325}{}{Justamente seu cu! Rapaz, você assinou sua sentença de morte!}
 {326}{}{Justamente seu cu! Moça, você assinou sua sentença de morte!}

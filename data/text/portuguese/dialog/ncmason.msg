@@ -218,16 +218,16 @@
 {805}{}{Pobre, Sr. Salvatore... ele estava ficando muito velho. Acho que ele finalmente deu seu último suspiro.}
 {806}{}{*Snff*... Sr. Salvatore... ele era como um pai para mim.}
 {807}{}{Eu adorava aquele velho aleijado ofegante. Agora ele está morto, e ele nunca saberá como eu me sentia.}
-{815}{}{(Sneers when he sees you.) I heard Renesco had an "accident." Word on the street you had something
- to do with it. Just so you know, he was one of OURS, tribal. I figure you owe us... in blood.}
-{818}{}{No, YOU'RE the one who's gonna RETIRE! You HEAR ME, MASON?! YOU'RE THE ONE WHO'S GONNA R --}
-{825}{}{(Mason's face goes stone cold, then he reaches for his weapons.)}
-{826}{}{I don't think you'll find killing ME as easy as poisoning that kid...}
-{835}{}{Nevermind. The job was canceled. Get outta here.}
-{840}{}{Glad you finally got back. The boss wants to see you.}
-{900}{}{Her name's Nikki. She's downstairs in the backroom. (Mason stares off into the distance.) Man does she have a perfect ass.}
+{815}{}{(Ri quando te vê.) Ouvi dizer que Renesco teve um "acidente". Dizem nas ruas que você teve algo a ver com isso. Só
+ para você saber, ele era um dos NOSSOS, tribal. Creio que nos deve... em sangue.}
+{818}{}{Não, VOCÊ é que vai PAGAR! Tá me OUVINDO, MASON?! VOCÊ É QUE VAI P --}
+{825}{}{(O rosto de Mason fica frio como gelo, então ele procura suas armas.)}
+{826}{}{Não pense que me matar será tão fácil quanto envenenar aquele garoto...}
+{835}{}{Não importa. O trabalho foi cancelado. Saia daqui.}
+{840}{}{Que bom que você finalmente voltou. O chefe quer te ver.}
+{900}{}{O nome dela é Nikki. Ela está lá embaixo, na sala dos fundos. (Mason olha para longe.) Cara, ela tem uma bunda fantástica.}
 {901}{}{Eu tenho mais algumas perguntas...}
 {1305}{}{.}
-{5735}{}{. Mr. Salvatore sent word of yer promotion. Congrats. I got some stuff for you... lessee...(He hands you an
- armload of items.) Careful with that stuff...}
+{5735}{}{. O Sr. Salvatore me avisou sobre sua promoção. Parabéns. Eu tenho algumas coisas para você... vamos ver... (Ele
+ te entrega uma porrada de itens.) Cuidado com essas coisas...}
 {5765}{}{.}

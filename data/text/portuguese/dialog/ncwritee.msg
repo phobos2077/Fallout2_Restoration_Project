@@ -34,9 +34,9 @@
 {240}{}{Saudações, }
 {241}{}{Damn hot, innit,}
 {242}{}{Saudações, }
-{245}{}{It's one of the }
-{250}{}{It's one of the }
-{255}{}{It's one of the }
+{245}{}{É um dos }
+{250}{}{É um dos }
+{255}{}{É um dos }
 {260}{}{Get outta here, 'fore we fill you full of holes!}
 {261}{}{Get outta here! You n' yer family ain't welcome here!}
 {265}{}{Drop the weapon, slaver, or we'll shoot!}
