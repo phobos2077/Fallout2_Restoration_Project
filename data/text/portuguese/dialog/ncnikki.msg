@@ -152,45 +152,45 @@
 {390}{}{Então essa aposta você PERDERIA, docinho, mas se você é tão estúpido quanto é feio, provavelmente apostaria de
  qualquer maneira. Não vejo aquele canalha desde que ele roubou o Sr. Salvatore.}
 {391}{}{Então é uma aposta que você perderia, docinho. Não vejo aquele vagabundo desde que ele enganou o Sr. Salvatore.}
-{392}{}{Then that's a bet you'd lose, girlfriend. I ain't seen that bum since he pulled that swindle on Mr. Salvatore.}
-{393}{}{Maybe you didn't hear me the first time, so for the benefit of the hearing impaired: Where is Lloyd?}
-{394}{}{Pretty suspicious you didn't notice him cheating all those times. You'd have to be blind... or bribed.}
-{395}{}{Fine. We'll talk later, Nikki.}
-{400}{}{Sweetheart, I TOLD you that I don't know where he is. Now, look, I'm WORKING here, so go back to whatever rock you --}
-{401}{}{Girlfriend, I TOLD you that I don't know where he is. Now, look, I'm WORKING here, so go back to whatever rock you --}
-{402}{}{Nikki, Nikki... I'm losing PATIENCE here. If you don't tell me where Lloyd is, I'm going to lose my temper, too.}
-{403}{}{Nikki, I don't know what happened between you and Lloyd. But guess what? I don't NEED to know. I'll just tell
- Mr. Salvatore what I suspect.}
-{404}{}{Nikki, I know you helped Lloyd cheat. Tell me where Lloyd is, and I'll give you half of his take: 500 chips.}
-{405}{}{Pretty suspicious you didn't notice him cheating all those times. You'd have to be blind... or bribed.}
-{406}{}{We'll talk later then, Nikki.}
-{410}{}{You touch me, and Mr. Salvatore will skin you alive.}
-{411}{}{Salvatore won't protect you; dealers like you are a chip a dozen. Cut the shit and tell me where Lloyd is or ELSE.}
-{412}{}{Salvatore won't protect you; he's dead. Cut the shit and tell me where Lloyd is or ELSE.}
-{413}{}{Nikki, I know you helped Lloyd cheat. Tell me where Lloyd is, and I'll give you half of his take: 500 chips.}
-{414}{}{Pretty suspicious you didn't notice him cheating all those times. You'd have to be blind... or bribed.}
-{415}{}{We'll talk later then, Nikki.}
+{392}{}{Então é uma aposta que você perderia, amor. Não vejo aquele vagabundo desde que ele enganou o Sr. Salvatore.}
+{393}{}{Talvez você não tenha me ouvido da primeira vez, então para a inclusão social dos deficientes auditivos: Onde está Lloyd?}
+{394}{}{Bem suspeito você não ter notado ele enganando todas essas vezes. Você teria que ser cega... ou subornada.}
+{395}{}{Certo. Conversaremos mais tarde, Nikki.}
+{400}{}{Docinho, eu disse a você que não sei onde ele está. Agora, escuta, estou TRABALHANDO aqui, então volte para onde quer que seja...}
+{401}{}{Amor, eu disse que não sei onde ele está. Agora, escuta, estou TRABALHANDO aqui, então volte para o onde quer que seja...}
+{402}{}{Nikki, Nikki... Estou perdendo a PACIÊNCIA aqui. Se não me disser onde está Lloyd, você vai me obrigar a te mostrar o saco.}
+{403}{}{Nikki, não sei o que aconteceu entre você e Lloyd. Mas quer saber? Eu não PRECISO. Só preciso dizer ao Sr. Salvatore as
+ minhas suspeitas.}
+{404}{}{Nikki, eu sei que você ajudou Lloyd a trapacear. Só me diga onde está Lloyd e eu te darei metade do que ele ganhou: 500 contos.}
+{405}{}{Bem suspeito você não ter notado ele enganando todas essas vezes. Você teria que ser cega... ou subornada.}
+{406}{}{Conversamos mais tarde, Nikki.}
+{410}{}{Encosta em mim, e o Sr. Salvatore te esfola vivo.}
+{411}{}{Salvatore não te protegerá; negociantes como você são só uns números a mais. Pare de me enrolar e me diga onde está Lloyd.}
+{412}{}{Salvatore não te protegerá; ele está morto. Pare com a merda e me diga onde está Lloyd.}
+{413}{}{Nikki, eu sei que você ajudou Lloyd a trapacear. Só me diga onde está Lloyd e eu te darei metade do que ele ganhou: 500 contos.}
+{414}{}{Bem suspeito você não ter notado ele enganando todas essas vezes. Você teria que ser cega... ou subornada.}
+{415}{}{Conversamos mais tarde, Nikki.}
 {420}{}{Do que você está falando?}
 {421}{}{Nikki, if you don't tell me everything right now, I'll tell Mr. Salvatore you were in on it, whether you were or not.
  He'll have Mason cut you up seven ways to Sunday, and have your job filled in an hour.}
-{422}{}{Nikki, I know you helped Lloyd cheat. Tell me where Lloyd is, and I'll give you half of his take: 500 chips.}
-{423}{}{Pretty suspicious you didn't notice him cheating all those times. You'd have to be blind... or bribed.}
-{424}{}{We'll talk later then, Nikki.}
+{422}{}{Nikki, eu sei que você ajudou Lloyd a trapacear. Só me diga onde está Lloyd e eu te darei metade do que ele ganhou: 500 contos.}
+{423}{}{Bem suspeito você não ter notado ele enganando todas essas vezes. Você teria que ser cega... ou subornada.}
+{424}{}{Conversamos mais tarde, Nikki.}
 {430}{}{Look, LIKE I SAID, I don't know where he is. But *maybe* I heard he used to have a room at the Desperado. You might find
  something there. Now, if you don't mind, I got to get back to work.}
-{431}{}{Nikki, I know you helped Lloyd cheat. Tell me where Lloyd is, and I'll give you half of his take: 500 chips.}
+{431}{}{Nikki, eu sei que você ajudou Lloyd a trapacear. Só me diga onde está Lloyd e eu te darei metade do que ele ganhou: 500 contos.}
 {432}{}{Pretty suspicious that you didn't notice him cheating all those times. You'd have to be blind... or bribed.}
-{433}{}{We'll talk later then, Nikki.}
+{433}{}{Conversamos mais tarde, Nikki.}
 {440}{}{Look, I just STARTED working here, and I can't recognize every card counter and two-bit cheat that walks in.
  I gotta pretty good line on shitheads like you, though.}
 {441}{}{Oh, so that's how you and Lloyd hooked up then?}
 {442}{}{So you just started work, huh? Pretty convenient. Well, that's all I need to know. Tell Lloyd he's a dead man.}
-{443}{}{Nikki, I know you helped Lloyd cheat. Tell me where Lloyd is, and I'll give you half of his take: 500 chips.}
-{444}{}{We'll talk later then, Nikki.}
+{443}{}{Nikki, eu sei que você ajudou Lloyd a trapacear. Só me diga onde está Lloyd e eu te darei metade do que ele ganhou: 500 contos.}
+{444}{}{Conversamos mais tarde, Nikki.}
 {450}{}{Yeah, you take enough Jet, and everything seems suspicious, don't it?}
 {451}{}{It IS suspicious. You should have had Lloyd pegged for what he was as soon as he walked in this casino.}
-{452}{}{Nikki, I know you helped Lloyd cheat. Tell me where Lloyd is, and I'll give you half of his take: 500 chips.}
-{453}{}{We'll talk later then, Nikki.}
+{452}{}{Nikki, eu sei que você ajudou Lloyd a trapacear. Só me diga onde está Lloyd e eu te darei metade do que ele ganhou: 500 contos.}
+{453}{}{Conversamos mais tarde, Nikki.}
 {460}{}{You get the hell outta here right now. I ain't got nothing else to say to you.}
 {461}{}{I got nothing to say to you. Get out of here.}
 {462}{}{Not now, maybe. We'll talk later though, Nikki. Count on it.}

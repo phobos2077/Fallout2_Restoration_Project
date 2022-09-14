@@ -38,9 +38,9 @@
 {137}{}{Look at all that blood, and they're still going at it. What a fight!}
 {138}{}{This is the type of action you folks have come here to see. Classic moves, classic moves.}
 {139}{}{Yeah, raked him right across the jowls! That's gonna be a bleeder-wound too!}
-{140}{}{Did you see how far that blood spattered on that one?! Wow, what power!}
-{141}{}{Moving like greased lightning! Look at the all the torn flesh comin' off of there!}
-{142}{}{Just look at the scraps of flyin' flesh everywhere! These two have what it takes!}
+{140}{}{Você viu como aquele sangue respingou longe?! Uau, que poder!}
+{141}{}{Se move como um bagre ensaboado! Veja como toda aquela carne rasgada sai!}
+{142}{}{Basta olhar para os pedaços de carne voando pra todo lugar! Esses dois têm o que é preciso!}
 {143}{}{Hello there. I'm Jackpot Jane and I run the beast fights here in town. Here to place a bet on the outcome of one of our primal struggles? Beast against beast in its rawest form?}
 {144}{}{Step right up, place your bets. What'll it be?}
 {145}{}{Uh, what happens here?}

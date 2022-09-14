@@ -198,12 +198,12 @@
 {272}{lyn031}{We exited the Vault 120 years ago and, with the help of our Eden kit, began construction
  of Vault City. Ten years later, the Overseer retired and a Council of Citizens was established. The
  Council appointed the initial First Citizen.}
-{273}{}{Speaking of the GECK, do you have another one that I could have?}
-{274}{}{So you are the leader of this city, then?}
-{275}{}{120 years ago? That was 70 years before the Vault Dweller stopped the Master. This can't be the
- vault I'm looking for.}
-{276}{}{I see. Good day.}
-{277}{lyn032}{Correct... I am First Citizen of Vault City.}
+{273}{}{Falando em GECK, você tem outro que poderia me dar?}
+{274}{}{Então você é o líder desta cidade?}
+{275}{}{120 anos atrás? Isso foi 70 anos antes do Morador da Vault parar o Mestre. Essa não pode ser a vault
+ que estou procurando.}
+{276}{}{Estou vendo. Bom dia.}
+{277}{lyn032}{Correto... Eu sou o Primeiro Cidadão de Vault City.}
 {278}{}{First Citizen, I have an urgent request: My village is in dire need of a Garden of Eden Creation
  Kit. Do you possess one that I may have?}
 {279}{}{Then you are who I seek. I have come on behalf of the people of Arroyo to claim what is

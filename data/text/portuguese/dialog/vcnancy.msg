@@ -28,26 +28,26 @@
 {127}{}{Got ouchie... *snfff*... ouchie HURT}
 {128}{}{Actually, I'm the new Captain of the Guard.}
 {129}{}{Yeah, I just recently got my Citizenship.}
-{130}{}{Uh, yeah, I just recently got my Citizenship.}
-{131}{}{Sorry, I thought you were someone else. Good day.}
-{132}{}{Oh my, you are hurt, aren't you? I'm sorry, I should have been paying more attention. Go see Dr. Troy. He'll take care of you.}
+{130}{}{Uh, sim, eu consegui recentemente a minha cidadania.}
+{131}{}{Desculpe, pensei que você fosse outra pessoa. Bom dia.}
+{132}{}{Oh Deus, você está ferido, não é? Desculpe, eu deveria ter prestado mais atenção. Vá ver o Dr. Troy. Ele pode cuidar de você.}
 {133}{}{Uh... ok? Sim, sim.}
-{134}{}{Could I ask you some questions first?}
-{135}{}{Thanks. I'll go see him now.}
-{136}{}{Oh! You must be one of the Servants assigned here for the day. You should... uh, hmmm. YOU - GO - MARTIN.}
-{137}{}{Uh... hmmm. Listen to me again, closely this time: YOU - GO - MARTIN.}
+{134}{}{Posso fazer algumas perguntas primeiro?}
+{135}{}{Obrigado. Vou vê-lo agora.}
+{136}{}{Oh! Você deve ser um dos Servos designados aqui para o dia. Você deveria... uh, hmmm. VOCÊ - VAI - MARTIN.}
+{137}{}{Uh... hum. Me ouça novamente, desta vez com atenção: VOCÊ - VAI - MARTIN.}
 {138}{}{HUGO MARTIN.}
 {139}{}{Got ouchie... *snfff*... ouchie HURT}
 {140}{}{Desliga}
-{141}{}{YES, MARTIN. GO - BOTTOM - LEVEL.}
-{142}{}{YES, MAR-TIN. GO BOTTOM LEVEL.}
+{141}{}{SIM, MARTIN. IR - NÍVEL - INFERIOR.}
+{142}{}{SIM, MAR-TIN. VÁ PARA O NÍVEL INFERIOR.}
 {143}{}{Got ouchie... *snfff*... ouchie HURT}
 {144}{}{Desliga}
-{145}{}{GO - BOTTOM - LEVEL. LEVEL - THREE. NOW.}
-{146}{}{ME GO BOTTOM LEVEL TREE NOW}
+{145}{}{IR - NÍVEL - INFERIOR. NÍVEL - TRÊS. AGORA.}
+{146}{}{EU VOU AO NÍVEL INFERIOR TRÊS AGORA}
 {147}{}{Got ouchie... *snfff*... ouchie HURT}
 {148}{}{Desliga}
-{149}{}{Maybe our Servants have some sort of Intelligence Deficiency Syndrome...}
+{149}{}{Talvez nossos Servos tenham algum tipo de Síndrome de Deficiência de Inteligência...}
 {150}{}{Oh! Well, welcome to Vault City, Captain.}
 {151}{}{Well, welcome to Vault City, fellow Citizen.}
 {152}{}{We don't see many new faces around here. I'm Phyllis. What's your name?}

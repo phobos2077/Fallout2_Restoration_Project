@@ -32,7 +32,7 @@
 {131}{}{I'd be happy to help you out.}
 {132}{}{I'm interested, but what's the job pay?}
 {133}{}{I've handled most of this already. The squatters want a deal. You help them become self sufficient and they'll give you access to the vault.}
-{134}{}{I've been there and I have the parts you're looking for.}
+{134}{}{Eu estive lá e tenho as peças que você está procurando.}
 {135}{}{I've handled this already. The squatters want a deal. You help them become self sufficient and they'll give you the vault. Also, here are the parts.}
 {136}{tand5}{Hell and thunder... Your choice - but if you change your mind...}
 {137}{}{Feito.}
@@ -189,7 +189,7 @@
 {288}{}{Me been there. Squatters want deal. You teach, you help, they give you vault. Here parts also.}
 {289}{}{I'm still working on it. I'll see ya.}
 {290}{}{I've handled most of this already. The squatters want a deal. You help them become self sufficient and they'll give you access to the vault.}
-{291}{}{I've been there and I have the parts you're looking for.}
+{291}{}{Eu estive lá e tenho as peças que você está procurando.}
 {292}{}{I've handled this already. The squatters want a deal. You help them become self sufficient and they'll give you the vault. Also, here are the parts.}
 {293}{tand41}{Hell and thunder! Then stop wasting my time!}
 {294}{}{Sinto.}
