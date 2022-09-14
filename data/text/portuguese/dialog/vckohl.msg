@@ -4,15 +4,15 @@
 {103}{}{You see a gentle-looking man in a Vault City uniform.}
 {104}{}{I shall make certain that your heroic feats are recorded in the Vault City archives, }
 {105}{}{My word! An intruder! Help! Guards!}
-{106}{}{My word! A mutant in Vault City! Guards! Guards!}
-{107}{}{My word! A ghoul in Vault City! Guards! Guards!}
-{108}{}{The Information Office is closed for the evening. Come back in the morning.}
-{109}{}{The Information Office is closed for the evening. I'll be heading home after I tabulate all these lists.}
+{106}{}{Misericórdia! Um mutante em Vault City! Guardas! Guardas!}
+{107}{}{Misericórdia! Um ghoul em Vault City! Guardas! Guardas!}
+{108}{}{O Gabinete de Informação está fechado à noite. Volte pela manhã.}
+{109}{}{O Gabinete de Informação está fechado durante a tarde. Vou para casa assim que organizar todas essas listas.}
 {110}{}{Shhhhh.}
-{111}{}{Tread quietly, please.}
+{111}{}{Caminhe em silêncio, por favor.}
 {112}{}{Shhhhh.}
-{113}{}{Silence IS a virtue.}
-{114}{}{Oh... hello! Was there something I could help you with?}
+{113}{}{O silêncio é uma virtude.}
+{114}{}{Ah... olá! Tem algo em que eu possa ser de ajuda?}
 {115}{}{Frazz-urb-luuw!}
 {116}{}{Desliga}
 {117}{}{O que é este lugar?}

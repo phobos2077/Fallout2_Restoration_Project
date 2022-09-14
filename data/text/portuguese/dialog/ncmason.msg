@@ -189,35 +189,35 @@
  carregamento está aqui... (Depois de uma hora e alguma prática, Mason melhorou sua habilidade com armas de energia.)}
 {726}{}{Então, por que eu preciso de algo a mais que isso? Essas pistolas parecem muito poderosas.}
 {728}{}{Bem, estou pronto para ir. Vamos fazer isso.}
-{729}{}{All right then. Give me some time to get ready, and I'll come back.}
-{735}{}{(Grunts.) Hey, there...}
-{736}{}{Take the items.}
-{745}{}{Also, we Salvatores... we got a special UNDERSTANDING with Miss Kitty down at the Cat's Paw. And Eldridge
- over at the weapons store... and at Renesco's. (Winks.) Have fun.}
-{746}{}{Thanks, Mason.}
-{747}{}{Gee, Mason, thanks... except next time, why don't you call me, "sir?" I'd like that. HA HA HA HA HA HA...}
-{748}{}{Gee, Mason, thanks... except next time, why don't you call me, "ma'am?" I'd like that. HA HA HA HA HA HA...}
+{729}{}{Tudo bem então. Me de um tempo para eu ficar pronto, e eu voltarei.}
+{735}{}{(Resmunga.) Ei, eai...}
+{736}{}{Pegue os itens.}
+{745}{}{Além disso, nós Salvatores... temos um ACORDO especial com a Srta. Kitty na Garra da Gata. E Eldridge na loja de armas...
+ e no Renesco's. (Pisca.) Divirta-se.}
+{746}{}{Obrigado, Mason.}
+{747}{}{Uau, Mason, obrigado... mas da próxima vez, por que você não me chama de "senhor?" Eu gostaria disso. HA HA HA HA HA HA...}
+{748}{}{Uau, Mason, obrigado... mas da próxima vez, por que você não me chama de "senhora?" Eu gostaria disso. HA HA HA HA HA HA...}
 {755}{}{Olá... Senhor.}
 {756}{}{Olá... senhora.}
-{765}{}{(Mason pauses, listening to something you can't hear. After a moment, his teeth clench.) Mr. Salvatore
- says you may come in, }
-{766}{}{Thanks, assholio. I'll be sure to mention your manners to Mr. Salvatore.}
-{775}{}{(Eyes narrow.) Of course, if you're IMPLYING I ain't doing my JOB, then you and I can have
- a discussion up close and personal right now. Mr. Salvatore ain't gonna ask what happened to your sorry ass.}
-{776}{}{I'm not implying that you aren't doing your job, splinterdick. I'm TELLING you.}
-{777}{}{Calm down. I was just curious.}
-{778}{}{This conversation is starting to bore me. I'm outta here.}
-{785}{}{Don't let gramps give you any bullshit... if he does, tell him you work for Mr. Salvatore. That should clear
- up any misunderstandings. You got that?}
-{786}{}{Got it. Now stand back and let me get to work.}
-{795}{}{Grow some BALLS, boy, and take *care of it.*}
-{796}{}{Shoulda figured this would happen, sending a woman to do man's work. Quit your *bitching* and take *care of it.*}
-{797}{}{I'll take care of it, then. Thanks, Mason. You've been a BIG help.}
-{798}{}{I'll take care of it, then.}
-{799}{}{Oh, I'll take care of it. Starting with you.}
-{805}{}{Poor Mr. Salvatore... he was gettin' pretty old. Guess he finally breathed his last.}
-{806}{}{*Snff*...Mr. Salvatore... he was like a Dad to me.}
-{807}{}{I loved that wheezing old cripple. Now he's dead, and he'll never know how I felt.}
+{765}{}{(Mason faz uma pausa, ouvindo algo que você não pode ouvir. Depois de um momento, seus dentes cerram.) O
+ Sr. Salvatore diz que você pode entrar, }
+{766}{}{Valeu, viado. Com certeza mencionarei suas maneiras ao Sr. Salvatore.}
+{775}{}{(Olhos apertados.) Claro, se você INSINUA que eu não estou fazendo meu TRABALHO, então podemos
+ ter uma discussão bem mais próxima agora. O Sr. Salvatore não vai perguntar o que aconteceu com sua cara.}
+{776}{}{Não estou insinuando que você não está fazendo seu trabalho direito, babacão. Estou te DIZENDO.}
+{777}{}{Calma ae. Era só curiosidade.}
+{778}{}{Essa conversa está começando a me entediar. Vou sair daqui.}
+{785}{}{Não deixe que ele fique de brincadeira... se ele fizer, só diga que você trabalha para o Sr. Salvatore. Isso deve esclarecer
+ qualquer mal-entendido. Você entendeu?}
+{786}{}{Entendi. Agora afaste-se e me deixe trabalhar.}
+{795}{}{Crie CORAGEM, garoto, e cuide *disso.*}
+{796}{}{Deveria ter imaginado que isso aconteceria, enviando uma mulher para fazer o trabalho do homem. Pare de ser puta e cuide * disso.*}
+{797}{}{Eu cuido disso, então. Obrigado, Mason. Você tem sido de grande ajuda.}
+{798}{}{Eu cuido disso, então.}
+{799}{}{Ah, eu cuido disso. Começando com você.}
+{805}{}{Pobre, Sr. Salvatore... ele estava ficando muito velho. Acho que ele finalmente deu seu último suspiro.}
+{806}{}{*Snff*... Sr. Salvatore... ele era como um pai para mim.}
+{807}{}{Eu adorava aquele velho aleijado ofegante. Agora ele está morto, e ele nunca saberá como eu me sentia.}
 {815}{}{(Sneers when he sees you.) I heard Renesco had an "accident." Word on the street you had something
  to do with it. Just so you know, he was one of OURS, tribal. I figure you owe us... in blood.}
 {818}{}{No, YOU'RE the one who's gonna RETIRE! You HEAR ME, MASON?! YOU'RE THE ONE WHO'S GONNA R --}
