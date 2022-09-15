@@ -3,7 +3,7 @@
 {200}{}{Du siehst ein riesiges schwarzes eckiges Metallding mit einer Nase auf der Vorderseite.}
 {201}{}{Du siehst einen riesigen schwarzen Eisentresor, der zu schwer ist, um ihn zu verschieben. Auf der Vorderseite ist ein Kombinationsschloss.}
 {202}{}{Hallo Kiste, ich}
-{203}{}{Wer du?}
+{203}{}{ Wer du?}
 {204}{}{Dreh die Nase.}
 {205}{}{[Verschwinde]}
 {206}{}{Hmmmm. Vielleicht kann man den Tresor mit den Nummern auf diesen drei Erkennungsmarken öffnen...}

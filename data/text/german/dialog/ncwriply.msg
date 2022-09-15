@@ -207,7 +207,7 @@
 {5321}{}{ mitspielen?}
 {5334}{}{ will Inzest!}
 {5353}{}{ nicht mögen Schrei.}
-{5354}{}{ an. Du machst dich lustig über }
+{5354}{}{an. Du machst dich lustig über }
 {5382}{}{! }
 {6354}{}{. }
 {6382}{}{ KLATSCH!}

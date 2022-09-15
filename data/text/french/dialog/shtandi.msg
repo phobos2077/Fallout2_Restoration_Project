@@ -35,7 +35,7 @@
 {134}{}{J'ai ramené de là-bas les pièces que tu cherchais.}
 {135}{}{J'ai déjà fait le travail. Les squatteurs veulent négocier. Tu les aides à s'en sortir et ils te donnent accès à l'abri. D'ailleurs, voici les pièces.}
 {136}{tand5}{Bon sang... Comme tu veux. Mais si tu changes d'avis...}
-{137}{}{C'est terminé !}
+{137}{}{C'est terminé.}
 {138}{tand6a}{D'accord. Si tu réussis, tu auras une récompense.}
 {139}{tand6b}{Seigneur, je sais que je fais une bêtise, mais... fais de ton mieux, si tu as compris quelque chose à ce que je viens de te dire.}
 {140}{}{Ok. Moi partir.}

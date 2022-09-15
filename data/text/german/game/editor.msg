@@ -10,7 +10,7 @@
 {109}{}{BONUS}
 {110}{}{KARMA}
 {111}{}{OPFER}
-{112}{}{ FÄHIGKEITSPUNKTE}
+{112}{}{FÄHIGKEITSPUNKTE}
 {113}{}{Level:}
 {114}{}{Erf:}
 {115}{}{Näch. Level:}
@@ -55,10 +55,10 @@
 {154}{}{MERKMAL ABLEGEN}
 {155}{}{NEUES SPEZIALTALENT WÄHLEN}
 {156}{}{MERKMALE}
-{157}{}{ Alle Werte müssen zwischen 1 und 10 liegen}
+{157}{}{Alle Werte müssen zwischen 1 und 10 liegen}
 {158}{}{um mit dem Spiel zu beginnen!}
-{160}{}{ Du hast den Spielernamen nicht geändert.}
-{161}{}{ Soll diese Spielerfigur dennoch verwendet werden?}
+{160}{}{Du hast den Spielernamen nicht geändert.}
+{161}{}{Soll diese Spielerfigur dennoch verwendet werden?}
 {175}{}{Näch. Lvl:}
 {200}{}{Übel}
 {201}{}{Mies}

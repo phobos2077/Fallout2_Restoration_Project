@@ -62,10 +62,10 @@
 {706}{}{Leite mehr Strom zu Erics Haus um.}
 {800}{}{Hol dir dein gestohlenes Auto zurück.}
 {801}{}{Finde heraus, wer für Richard Wrights Überdosis verantwortlich war.}
-{802}{}{    Verdächtiger: Jagged Jimmy J}
-{803}{}{ 	Verdächtiger: Jules}
-{804}{}{ 	Verdächtiger: Lil' Jesus Mordino}
-{805}{}{ 	Verdächtiger: Renesco}
+{802}{}{     Verdächtiger: Jagged Jimmy J}
+{803}{}{     Verdächtiger: Jules}
+{804}{}{     Verdächtiger: Lil' Jesus Mordino}
+{805}{}{     Verdächtiger: Renesco}
 {806}{}{Finde einen Weg ins Sierra Army Depot.}
 {807}{}{Spüre Schönling Lloyd auf, nimm ihm das gestohlene Geld ab und...statuiere ein Exempel an ihm.}
 {808}{}{Besuch Renesco, den Rocketman, und treibe Mr. Salvatores Abgabe von $1000 ein.}

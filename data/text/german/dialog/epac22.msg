@@ -23,7 +23,7 @@
 {323}{}{Danke. Ich hätte da noch 'ne Frage.}
 {324}{}{Oh, ich bedaure, aber Ebene Blau birgt streng geheime Forschungen. Der Zugang zu dieser Ebene ist deshalb gesperrt... oh, zum Teufel damit. Sie waren so freundlich, mich zu reparieren, deshalb glaube ich, dass ich Ihnen das Kennwort geben kann. Es ist "FLOWERPOT".}
 {330}{}{Ich werde mein bestes geben. Welchen Gegenstand möchten Sie identifiziert haben?}
-{331}{}{Was ist der Sinn von diesem  Hundefutter?}
+{331}{}{Was ist der Sinn von diesem Hundefutter?}
 {332}{}{Ich habe diese Spritze, gefüllt mit einer unbekannten Substanz, gefunden. Kannst du mir sagen was sie bewirkt?}
 {333}{}{Ich hab dieses Gestell von Teströhrchen gefunden. Irgendwas spezifisches was ich damit machen kann?}
 {334}{}{Was sind die Auswirkungen dieser Droge die ich gefunden hab?}

@@ -156,7 +156,7 @@
 {712}{}{Siehst du das Zeichen auf meiner Stirn? Lass mich rein. Sofort! }
 {713}{}{Ich bin seine neue Schnalle, deshalb. Wenn du mich nicht sofort reinlässt, wirst du ganz oben auf seiner Abschussliste stehen, da kannste Gift drauf nehmen!}
 {714}{}{Hör zu, Mann, Metzger zieht mir das Fell über die Ohren, wenn ich nicht bald alles inspiziere. Du weißt ja, wie er sein kann. }
-{715}{}{Das geht dich 'nen Dreck an. Wenn der Boss will, dass ich seinen Kram kontrolliere, dann mach ich's. Ich stell keine Fragen, kapiert!?  }
+{715}{}{Das geht dich 'nen Dreck an. Wenn der Boss will, dass ich seinen Kram kontrolliere, dann mach ich's. Ich stell keine Fragen, kapiert!? }
 {716}{}{Macht nichts.}
 {717}{}{Schacka?}
 {800}{}{Wer zum- Hey! Du bists. Komm un nimm nen Rachenputzer *Hicks* und feier mit. Ich weiß du willst es. (Tyler stolpert zu dir rüber und ergreift deine Schulter)

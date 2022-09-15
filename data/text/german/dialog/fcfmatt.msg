@@ -89,7 +89,7 @@
 {188}{}{Ich holen Pläne.}
 {189}{}{Nein, Ich arbeite daran.}
 {190}{}{Ich habe die Vertibird-Pläne für dich beschafft.}
-{191}{}{Na, dann mach weiter. Ich weiß, es ist eine schwierige Mission, aber ich denke, du wirst damit fertig.  }
+{191}{}{Na, dann mach weiter. Ich weiß, es ist eine schwierige Mission, aber ich denke, du wirst damit fertig. }
 {192}{}{OK.}
 {193}{}{Großartige Arbeit! Gib mir die Pläne. Ich werde dafür sorgen, dass sie in die richtigen Hände kommen. Wie versprochen sollst du unbeschränkten Zugang zu unseren Einrichtungen haben. Vielen Dank.}
 {194}{}{Gemacht gern.}

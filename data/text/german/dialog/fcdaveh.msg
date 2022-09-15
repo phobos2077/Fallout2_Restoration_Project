@@ -37,7 +37,7 @@
 {135}{}{Sei's drum. Bis dann.}
 {136}{}{::Er sitzt für einen Moment ganz still da:: ::Schmerz zeichnet sich auf seinem Gesicht ab:: Tja ::er wendet den Kopf ab::}
 {137}{}{Ich wette, du würdest es ihr gern heimzahlen.}
-{138}{}{Sorry, aber  ich hab noch einige Fragen.}
+{138}{}{Sorry, aber ich hab noch einige Fragen.}
 {139}{}{Naja, ich hab dir die Nachricht überbracht...also bis dann!}
 {140}{}{Darauf kannst du Gift nehmen. Was brauchst du?}
 {141}{}{Ich brauche die Vertibird-Pläne aus deinem Computer.}

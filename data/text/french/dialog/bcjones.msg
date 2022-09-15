@@ -65,7 +65,7 @@
 {164}{}{Ah. Eh bien, je dois partir.}
 {165}{}{Je n'aiderai pas quelqu'un comme toi. Va-t'en.}
 {166}{}{Ok, prends bien soin de toi et reviens si tu as besoin de quoi que ce soit.}
-{167}{}{C'est terminé !}
+{167}{}{C'est terminé.}
 {168}{}{Il est devenu parano et il croit que Tandi est à sa recherche. La revanche l'obsède et il veut la mort de Tandi. Il se sent coupable d'avoir survécu alors que tous les membres de son gang sont morts... et ce n'est pas tout...}
 {200}{}{Darion est mort.}
 {201}{}{Dar-i-on mort.}

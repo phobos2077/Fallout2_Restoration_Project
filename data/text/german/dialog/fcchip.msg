@@ -54,7 +54,7 @@
 {153}{}{Ich werde sehen, was ich tun kann.}
 {154}{}{Sorry, Mann...ich fürchte, du bist geliefert. Ich kann dir nicht helfen.}
 {155}{}{Ohne Milz werde ich sterben. Trotzdem danke für deine Hilfe.}
-{156}{}{Ich hab sie gefunden. Geh rüber  zu Dr. Wong.}
+{156}{}{Ich hab sie gefunden. Geh rüber zu Dr. Wong.}
 {157}{}{Ich werde dich decken. Geh zu Fung.}
 {158}{}{Null Problemo. Viel Glück.}
 {159}{}{Hast du mit Fung gesprochen?}

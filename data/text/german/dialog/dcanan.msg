@@ -62,7 +62,7 @@ stößt einen Schrei aus und rennt zur Tür, wobei seine Mumienverpackung eine S
 {201}{}{Erzähl mir von der Mumie. Ich sterbe vor Spannung.}
 {202}{}{Ich habe mir gerade schon diese Geistergeschichte angehört. Äh, bekomme ich dazu eine schöne heiße Tasse Kakao?}
 {203}{}{Ich glaube, ich möchte keine Sekunde länger mit Deinen Geschichten verschwenden.}
-{300}{}{Tja, Du musst wissen, (er winkt Dich näher heran) einst   gab es eine mächtige Königin, die über diese Stadt und das gesamte Umland regierte. Sie behauptete ihren Thron mit der Kraft eines besonderen Amuletts, welches sie stets um ihren Hals trug.
+{300}{}{Tja, Du musst wissen, (er winkt Dich näher heran) einst gab es eine mächtige Königin, die über diese Stadt und das gesamte Umland regierte. Sie behauptete ihren Thron mit der Kraft eines besonderen Amuletts, welches sie stets um ihren Hals trug.
  Gute Geschichte, was?}
 {301}{}{Äh, ja. Darauf kannst Du wetten. Diese Prinzessin hatte also ein *magisches* Amulett. Oh, erzähl weiter. Ich kann diese Spannung nicht mehr ertragen
  (gähn).}

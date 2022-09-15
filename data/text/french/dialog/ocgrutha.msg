@@ -68,12 +68,12 @@
 {167}{}{J'en ai assez entendu pour le moment. J'ai besoin de temps pour réfléchir.}
 {168}{}{Je vois...}
 {169}{}{Ta décision me déplaît, mais je l'accepte. Tu peux partir, mais je t'en prie, reviens si tu changes d'avis.}
-{170}{}{C'est terminé !}
+{170}{}{C'est terminé.}
 {171}{}{Bonjour }
 {172}{}{Non, mais on verra.}
 {173}{}{Je regrette, Gruthar. Le module vocal ne fonctionne pas et je dois aller en chercher un autre.}
 {174}{}{Je ne comprends rien au fonctionnement de ces trucs, mais je te fais confiance, }
-{175}{}{C'est terminé !}
+{175}{}{C'est terminé.}
 {176}{}{Je reviendrai, je te le promets.}
 {177}{}{Bonjour }
 {178}{}{Non, je cherche toujours.}
@@ -126,9 +126,9 @@
 {225}{}{Ta présence ici n'est plus la bienvenue, tu peux partir.}
 {226}{}{Au revoir.}
 {227}{}{Au revoir.}
-{228}{}{C'est terminé !}
+{228}{}{C'est terminé.}
 {229}{}{J'accepte tes excuses, humain. Passe une bonne journée !}
-{230}{}{C'est terminé !}
+{230}{}{C'est terminé.}
 {231}{}{. As-tu examiné la machine ?}
 {232}{}{. Je vais attendre ton retour.}
 {233}{}{. As-tu trouvé la pièce pour réparer la machine ?}

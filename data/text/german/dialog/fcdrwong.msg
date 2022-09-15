@@ -26,7 +26,7 @@
 {122}{}{Danke. Tschüss.}
 {123}{}{Und wenn ich dir eine Knarre unter die Nase halte und dich zwinge, es mir zu sagen?}
 {124}{}{Naja, man lernt, wie man sich in den Computer hackt oder wie man sich mit meinen
- Mitarbeitern anfreundet.  Das mit dem Hacken war natürlich ein Scherz. Beim geringsten Versuch
+ Mitarbeitern anfreundet. Das mit dem Hacken war natürlich ein Scherz. Beim geringsten Versuch
  würde ich einen Killer auf dich ansetzen. [Er lächelt, um zu zeigen, dass er es nicht böse meint.]}
 {125}{}{Würdest du mich wirklich umbringen lassen?}
 {126}{}{Du hättest also eigentlich nichts dagegen, wenn ich auf den Computer zugreife?}

@@ -62,7 +62,7 @@
 {167}{}{Das wird diese Hubologen von hier vertreiben.}
 {168}{}{Diese dämlichen Hubologen sind noch nicht mal in der Lage, ihren eigenen Anführer zu
  schützen.}
-{169}{}{Hoffentlich fallen die  Hubologen nicht aus Rache über uns her.}
+{169}{}{Hoffentlich fallen die Hubologen nicht aus Rache über uns her.}
 {170}{}{Du bist wohl doch kein Spion.}
 {171}{}{Schweinepriester! Stirb!}
 {172}{}{Du hast deine Familie entehrt!}

@@ -31,7 +31,7 @@
  Brass wollte keine Details raus rücken, aber wahrscheinlich herrscht über uns schon der Tag des Jüngsten Gerichts. Die Radiokommunikation wurde auf unbestimmte Zeit eingestellt. Gut, dass ich diesen Ort eh schon als meine Heimat ansehe. Ich mache mir keine Hoffnungen jemals wieder die Oberfläche zu sehen.}
 {221}{}{[Mehr]}
 {222}{}{Sie brachten eine Frau, um sie Kryogen einzufrieren. Sie sagten nicht warum. Nur, dass das Unterfangen streng geheim sei. Sie war vielleicht der Spion. Sie war zierlich, wahrscheinlich Chinesin und da war etwas mit ihren Augen. Sie überwältigte zwei Agenten des Secret Service, als sie herausfand was wir vorhatten. Sie überraschte die Wachen und schlitzte sie mit einem von Delnays Skalpellen auf, mein Gott. Das war vielleicht ein Anblick. Der Dritte konnte sie dann überwältigen. Es ist ja nicht so, dass sie nicht ihr ganzes Leben hier unten verbringen müsste, auch wenn sie alle hier getötet hätte. Sie ist gerade bewusstlos, während sie den Tank vorbereiten. Es ist der, gleich rechts von diesem Psychopathen Patrick. Was für eine Schande. Ich hätte sie gerne etwas näher kennengelernt.
-                    - Dr. David Kimble, 23.10.2075}
+ - Dr. David Kimble, 23.10.2075}
 {230}{}{Eintrag #81977: Dexter "Dex" Patrick ist ein ziemlich interessantes Testsubjekt. Er ist ein narzisstischer, Frauen hassender, soziopathischer Mörder. Auch dafür bekannt nekrophile und kannibalische Neigungen zu haben. Er ist extrem kaltherzig, er zeigt kein Mitleid mit seinen Opfern, darunter auch unschuldige Kinder, hilflose Rentner und Behinderte. Seine bevorzugten Ziele waren aber junge, attraktive Frauen, die er immer erst verführte und nach dem Geschlechtsverkehr dann brutal umgebracht hatte.}
 {231}{}{[Mehr]}
 {232}{}{Trotz seines unsozialen Verhaltens, ist er bemerkenswert kontaktfreudig, sogar charmant. Ich konnte beobachten, dass mehrere weibliche Angestellte, auf ihn hereingefallen sind, obwohl sie wussten was für Gräueltaten er begangen hatte. Die Zahl von Dexs bestätigten Opfer beträgt 68, aber er prahlt immer damit, dass die tatsächliche Zahl seiner Opfer in die hunderte geht. Obwohl es bekannt ist, dass Dex ein zwanghafter Lügner ist, fällt es mir schwer seine Behauptung zu bezweifeln.}
@@ -43,7 +43,7 @@
  Aber ich schweife ab.}
 {237}{}{[Mehr]}
 {238}{}{Dex bleibt eingefroren bis die Verantwortlichen wieder zur Besinnung kommen und dieses überaus wichtige Projekt wiederbeleben. Ich hoffe nur, dass, wenn dieser Tag kommt, ich noch hier bin und meine Arbeit beenden kann.
-              - Doktor Dustin C. Delnay, 13.4.2075}
+ - Doktor Dustin C. Delnay, 13.4.2075}
 {240}{}{Eintrag #80052: Sergeant Christopher "Cat" Jules wurde am 17.2.2074 dem EPA Militärpolizeikommando zugewiesen.
  Vorher diente er bei der Luftaufklärung der 205. Luftlandedivision. Der Sergeant hat eine sehr beeindruckende Kampfstatistik und ist der am höchsten dekorierte, Energiewaffen- und Nahkampf-Spezialist der Truppe. Doch leider werden diese Auszeichnungen von einer fast genauso langen Liste von Anschuldigungen getrübt. Angefangen bei kleineren Eigentumsdelikten, wiederholtes nicht anlegen der Uniform und eine extrem arrogante Einstellung gegenüber seinen direkten Vorgesetzten.}
 {241}{}{[Mehr]}
@@ -51,7 +51,7 @@
 {243}{}{[Mehr]}
 {244}{}{Ein paar Tage sind verstrichen und Sgt. Jules scheint bei guter Gesundheit zu sein, jedoch hat er größere Eckzähne entwickelt und zusätzlich zu den Projektzielen (schnellere Reflexe und stark verbesserte sensorische Fähigkeiten), hat sich sein Charakter bedenklich verändert.
  Ich hatte mehrere Besprechungen mit dem Stützpunktkommandanten wegen weiterer Finanzmittel, aber leider sieht es so aus, dass er zu denen gehört, die mein Projekt einstellen wollen. Es ist eine Schande, vor allem, da die Gewebeprobe und der psychische Bericht nur ein paar kleine Schönheitsfehler und eine leichte Verschiebung der Aufmerksamkeitsgrenze auf- gezeigt haben. Bis auf diese wenigen Punkte, ist er in einer perfekten Verfassung, zusätzlich ist er um einiges Leistungsfähiger als vor der Behandlung. Bis wir neue Finanzmittel bekommen, bleibt Sgt. Jules im Kälteschlaf.
-  Dr. R.D. Crichton, 04.11.2075}
+ Dr. R.D. Crichton, 04.11.2075}
 {300}{}{Wählen Sie ein Subjekt aus:}
 {301}{}{Sergeant Christopher "Cat" Jules}
 {302}{}{Dexter "Dex" Patrick}

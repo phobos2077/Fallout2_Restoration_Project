@@ -12,7 +12,7 @@
 {404}{}{Du hast Herzprobleme?}
 {405}{}{Das ist sehr schlecht, machs gut!}
 {406}{}{Ja, ich habe ein schwaches Herz. Wenn ich noch meine Herzpillen hätte, wäre mein Leben um vieles einfacher.
-  Weißt du, es ist heutzutage sehr schwierig, Medikamente für dieses Problem zu finden.}
+ Weißt du, es ist heutzutage sehr schwierig, Medikamente für dieses Problem zu finden.}
 {407}{}{Ich habe vielleicht eine Lösung für deine Herzprobleme...}
 {408}{}{Tut mir leid das zu hören, machs gut.}
 {410}{}{Tschüss.}

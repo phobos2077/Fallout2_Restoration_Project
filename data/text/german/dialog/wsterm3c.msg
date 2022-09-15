@@ -68,11 +68,11 @@
 {162}{}{}
 {163}{}{}
 {164}{}{Anlaufsequenz initialisieren}
-{165}{}{                                           Leistungspegel - Sollwerte}
-{166}{}{                                          Synchronisationsverhältnis - 75%}
-{167}{}{                                  Gerät ist betriebsbereit.}
-{170}{}{                                          Synchronisationsverhältnis - 50%}
-{174}{}{                                          Synchronisationsverhältnis - 10%}
+{165}{}{                                   Leistungspegel - Sollwerte}
+{166}{}{                                              Synchronisationsverhältnis - 75%}
+{167}{}{                                               Gerät ist betriebsbereit.}
+{170}{}{                                              Synchronisationsverhältnis - 50%}
+{174}{}{                                              Synchronisationsverhältnis - 10%}
 {176}{}{Beenden}
 {200}{}{ kann nicht lesen, was auf dem Monitor steht.}
 {300}{}{Der Computer scheint mit einer Art Abwehrmechanismus ausgestattet zu sein.}

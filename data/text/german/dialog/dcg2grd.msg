@@ -48,7 +48,7 @@
 {310}{}{Danke für deine Hilfe. Zu schade um Lara.}
 {311}{}{Endlich haben wir sie!}
 {312}{}{Ohne dich hätten wir das nicht geschafft.}
-{313}{}{Wenigstens hat es Lara im  Kampf erwischt.}
+{313}{}{Wenigstens hat es Lara im Kampf erwischt.}
 {314}{}{Ich kann gar nicht glauben, dass Lara es nicht geschafft hat.}
 {315}{}{Jedenfalls haben wir Metzger gezeigt, wer die Besseren sind. }
 {316}{}{Metzger sollte sich lieber mit uns zusammentun.}

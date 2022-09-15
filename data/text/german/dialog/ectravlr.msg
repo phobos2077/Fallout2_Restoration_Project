@@ -12,7 +12,7 @@
 {119}{}{Danke. Tschüss.}
 {120}{}{Redding... Weiß nicht mehr, als das es ne alte Minenstadt ist. Es liegt im Norden, gleich im Schoß der gemeinsten Berge die du je gesehen hast.}
 {121}{}{Danke. Tschüss.}
-{122}{}{Ich würd mich an deiner Stelle von Den fern halten. Es ist eine Anlaufstelle für allen möglichen Abfall in der Gegend. Ich zeig dir wo es ist  aber ich rate dir dort nicht hinzugehen.}
+{122}{}{Ich würd mich an deiner Stelle von Den fern halten. Es ist eine Anlaufstelle für allen möglichen Abfall in der Gegend. Ich zeig dir wo es ist aber ich rate dir dort nicht hinzugehen.}
 {123}{}{Danke. Tschüss.}
 {124}{}{San Francisco. Öhm... alles was Ich darüber sagen kann ist, dass die Leute dort... Merkwürdig sind. Es ist an der Küste.}
 {125}{}{Danke. Tschüss.}

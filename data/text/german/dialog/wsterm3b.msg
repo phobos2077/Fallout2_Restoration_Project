@@ -2,7 +2,7 @@
 {101}{}{Dieses Terminal scheint anspruchsvoller konstruiert zu sein als die, mit denen du bisher
  zu tun hattest.}
 {102}{}{Du kannst nicht lesen, was auf dem Monitor steht.}
-{103}{}{       .–—————————————————————-.              
+{103}{}{.–—————————————————————-.              
                      |             S K Y N E T             |         
                         |      Hauptanschlussterminal      |
                                  '–—————————————————————-'

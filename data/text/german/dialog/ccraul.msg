@@ -59,7 +59,7 @@
 {146}{}{He, Mann, in der Schublade da drüben. Nimm's und sag dem Doc Grüße von Raul.}
 {147}{}{Danke.}
 {150}{}{He, Mann! Raul hat was dagegen, wenn einer in seinem Kram rumschnüffelt, klar!? Also raus hier, Mann!}
-{151}{}{Raul hat dir doch gesagt, du hast nix an seinem Zeug  verloren! Wachen!}
+{151}{}{Raul hat dir doch gesagt, du hast nix an seinem Zeug verloren! Wachen!}
 {200}{}{Raul hat gehört, dass du wieder Müll über ihn erzählt hast.}
 {201}{}{Jetzt reicht's, das war einmal zuviel, Drecksack. Diesmal wird Raul dich so richtig vermöbeln.}
 {300}{}{Siehst du nicht, dass Raul zu tun hat?!}

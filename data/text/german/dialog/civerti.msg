@@ -12,7 +12,7 @@
 {209}{}{Karte Akzeptiert. Der Vertibird ist jetzt Betriebsbereit.}
 {210}{}{Laden der Automatischen Abflug-Sicherheitsroutinen.}
 {211}{}{Abmelden.}
-{212}{}{Starte Systemdiagnose...                                            35% abgeschlossen...75% abgeschlossen...100% abgeschlossen. Alle Systeme Betriebsbereit.                                 Warte auf Antwort der Enklave...}
+{212}{}{Starte Systemdiagnose... 35% abgeschlossen...75% abgeschlossen...100% abgeschlossen. Alle Systeme Betriebsbereit. Warte auf Antwort der Enklave...}
 {213}{}{[Mehr]}
 {214}{}{Kein Bestätigungssignal der Enklave empfangen. Grund: Satelliten sind nicht korrekt für eine Automatische Verbindung mit der Hauptbasis ausgerichtet. Bitte stellen sie sicher das die Enklave über anfliegende Vertibirds informiert ist.}
 {215}{}{Hmm... sieht so aus als müsste ich einen Weg finden die Satelliten richtig auszurichten.}

@@ -70,7 +70,7 @@
 {163}{}{Äh, was ich meinte, war: Was muss ich anstellen, um Bürger zu werden?}
 {164}{}{Entschuldige, Bürger. Ich wollte dich nicht beleidigen. Du kannst eintreten.}
 {165}{}{Na schön.}
-{166}{}{ Hör mal, "Bürger", du brauchst einen Tagesausweis, wenn du hier reinwillst, alles klar?
+{166}{}{Hör mal, "Bürger", du brauchst einen Tagesausweis, wenn du hier reinwillst, alles klar?
  Versuch nicht noch mal, mich hinters Licht zu führen.}
 {167}{}{(Du gehst.)}
 {168}{}{Hmmm... die scheinen in Ordnung zu sein. Komisch, ich kann mich nicht erinnern, dich hier

@@ -75,7 +75,7 @@
 {160}{}{Geh weg. Ich will dich nicht als Meister.}
 {161}{}{Lass mich in Ruhe.}
 {162}{}{Ich mag dich nicht. Geh weg.}
-{163}{}{Ich  schalte dich aus.}
+{163}{}{Ich schalte dich aus.}
 {164}{}{Waffen auf Ziel gerichtet. Bereite Einsatz vor.}
 {165}{}{Du wirst zerstört.}
 {166}{}{Ja, Meister?}

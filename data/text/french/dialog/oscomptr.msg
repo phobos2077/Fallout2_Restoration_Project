@@ -20,11 +20,11 @@
 {119}{}{La seule chose qui reste à faire est de regarder à l'intérieur.}
 {120}{}{[Ne pas s'en occuper]}
 {121}{}{[En observant la masse de câbles et de cartes de circuit, tu comprends que le système a été volontairement saboté. Une des cartes de circuit, le module de reconnaissance vocale, est irréparable et doit être remplacée. Il ne te reste plus qu'à trouver un module de remplacement.]}
-{122}{}{C'est terminé !}
-{123}{}{C'est terminé !}
+{122}{}{C'est terminé.}
+{123}{}{C'est terminé.}
 {124}{}{[Installer le module dans le terminal]}
 {125}{}{[Le terminal requiert un module de reconnaissance vocale pour fonctionner]}
-{126}{}{C'est terminé !}
+{126}{}{C'est terminé.}
 {127}{}{[Le système fonctionne bien maintenant.]}
 {128}{}{Accès aux séquences de sécurité, chargement de l'affichage holographique...}
 {129}{}{Tu es le dernier, Gruthar. Les tâches de ton espèce vont bientôt être nettoyées.}

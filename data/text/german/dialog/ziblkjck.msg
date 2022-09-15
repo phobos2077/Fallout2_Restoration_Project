@@ -12,7 +12,7 @@
 {110}{}{Das ist ein Blackjack-Tisch. Mindesteinsatz $}
 {111}{}{.}
 {112}{}{Deine Karten: }
-{113}{}{, }
+{113}{}{ , }
 {114}{}{; }
 {115}{}{ und }
 {116}{}{ für }

@@ -24,7 +24,7 @@
 {123}{}{Nein. Was meinst du damit?}
 {124}{}{Was für neuen Technikkram hast du denn entwickelt?}
 {125}{}{Nur allzu deutlich. Mach's gut.}
-{126}{}{Naja...ich *denke*, das dürfte reichen.  Schlag ein. Hast du die Rüstung dabei, die ich an dir härten soll?}
+{126}{}{Naja...ich *denke*, das dürfte reichen. Schlag ein. Hast du die Rüstung dabei, die ich an dir härten soll?}
 {127}{}{Ja.}
 {128}{}{Nein.}
 {129}{}{Gut. Das macht 10.000 Dollar, sofort zu zahlen, kein Gefeilsche. Ich brauche ein paar neue Ausrüstungsteile.}

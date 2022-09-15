@@ -41,7 +41,7 @@
  zwei Angriffsformen auf. Bei der ersten Variante spuckt sie ihre Sporen auf Feinde. Die Zweite besteht aus Bissen mit dem dornenbespickten Maul.
  Es wird zu einer erhöhten Vorsicht beim Umgang mit diesen Lebensformen geraten.}
 {252}{}{Nach umfangreichen Tests, scheint der Zentaur ein Nebenprodukt des "Forced Evolutionary Virus" zu sein.
-     Es sieht danach aus als sei es eine Mischung aus Hund, Katze, Brahmin und anderen Tieren. Das FEV ist nicht der einzige
+ Es sieht danach aus als sei es eine Mischung aus Hund, Katze, Brahmin und anderen Tieren. Das FEV ist nicht der einzige
  Grund für die Mutation, auch die Verstrahlung spielte eine Rolle. Scheinbar bevorzugen sie ein Leben in stark verstrahlten
  Gebieten. Deshalb verstrahlen sie ihr näheres Umfeld gleichermaßen.}
 {253}{}{[Mehr]}
