@@ -1362,8 +1362,8 @@
 {5561}{}{Ein paar Kopfgeldjägern.}
 {5562}{}{Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
 {5563}{}{Einem Rudel Feuergeckos.}
-{5564}{}{ Einer Karawane, die sich gegen Deathclaws wehrt.}
-{5565}{}{ Einer Karawane, die sich gegen Deathclaws wehrt.}
+{5564}{}{Einer Karawane, die sich gegen Deathclaws wehrt.}
+{5565}{}{Einer Karawane, die sich gegen Deathclaws wehrt.}
 {5566}{}{Einer Karawane, die sich gegen Feuergeckos wehrt.}
 {5567}{}{Einer Karawane, die sich gegen Feuergeckos wehrt.}
 {5568}{}{Einer Karawane.}
@@ -1379,8 +1379,8 @@
 {5578}{}{Ungewaschenen Dorfbewohnern auf der Jagd nach einem Spammer.}
 {5600}{}{Einem Rudel Deathclaws.}
 {5601}{}{Einem Rudel Feuergeckos.}
-{5602}{}{ Einer Karawane, die sich gegen Deathclaws wehrt.}
-{5603}{}{ Einer Karawane, die sich gegen Deathclaws wehrt.}
+{5602}{}{Einer Karawane, die sich gegen Deathclaws wehrt.}
+{5603}{}{Einer Karawane, die sich gegen Deathclaws wehrt.}
 {5604}{}{Ein paar Kopfgeldjägern.}
 {5605}{}{Ein paar Kopfgeldjägern.}
 {5606}{}{Ein paar Kopfgeldjägern.}
@@ -1698,7 +1698,7 @@
 {6311}{}{Ein paar Kopfgeldjägern.}
 {6312}{}{Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
 {6313}{}{Einer Karawane, die sich gegen die Überreste der Armee des Meisters wehrt.}
-{6314}{}{ Einer Karawane, die sich gegen Deathclaws wehrt.}
+{6314}{}{Einer Karawane, die sich gegen Deathclaws wehrt.}
 {6315}{}{Einer Karawane.}
 {6316}{}{Einer Karawane.}
 {6317}{}{Einer Karawane.}
@@ -1712,7 +1712,7 @@
 {6325}{}{Dem Café der geplatzten Träume.}
 {6350}{}{Einer Karawane, die sich gegen die Überreste der Armee des Meisters wehrt.}
 {6351}{}{Einer Karawane, die sich gegen die Überreste der Armee des Meisters wehrt.}
-{6352}{}{ Einer Karawane, die sich gegen Deathclaws wehrt.}
+{6352}{}{Einer Karawane, die sich gegen Deathclaws wehrt.}
 {6353}{}{Einer Karawane.}
 {6354}{}{Ein paar Kopfgeldjägern.}
 {6355}{}{Ein paar Kopfgeldjägern.}

@@ -60,7 +60,7 @@
 {159}{}{Festplatte formatieren. Bei diesem Vorgang werden alle Daten gelöscht. Soll Laufwerk wirklich formatiert werden?}
 {160}{}{Ja.}
 {161}{}{Nein.}
-{162}{}{Die Funktionalität dieses Systems liegt bei 92%.  Im abgeschirmten Kern des Kaisercomputers bei 100%. Die Integrität der Daten beträgt 100%. Stromversorgungsprobleme am Prognoseknotenpunkt - zur Reparatur veranschlagte Zeit: 6 Tage. Prognose zu 15% einsatzbereit.}
+{162}{}{Die Funktionalität dieses Systems liegt bei 92%. Im abgeschirmten Kern des Kaisercomputers bei 100%. Die Integrität der Daten beträgt 100%. Stromversorgungsprobleme am Prognoseknotenpunkt - zur Reparatur veranschlagte Zeit: 6 Tage. Prognose zu 15% einsatzbereit.}
 {163}{}{Zurück.}
 {164}{}{Soll diese Einheit wirklich formatiert werden? Dieser Vorgang ist unumkehrbar.}
 {165}{}{Ja.}
@@ -88,7 +88,7 @@
 {187}{}{Benzin und Derivate}
 {188}{}{Polymere}
 {189}{}{Zurück.}
-{190}{}{(Nach Durchsicht der komplexen chemischen Formeln und Laboraufzeichnungen, stellst du fest, dass die Shi eine Art Kraftstoff aus Pflanzenextrakten und Meereslebewesen entwickelt haben. Anscheinend  haben sie bereits bestehende Pipelines benutzt, um den Treibstoff an möglichst viele Orte zu transportieren)}
+{190}{}{(Nach Durchsicht der komplexen chemischen Formeln und Laboraufzeichnungen, stellst du fest, dass die Shi eine Art Kraftstoff aus Pflanzenextrakten und Meereslebewesen entwickelt haben. Anscheinend haben sie bereits bestehende Pipelines benutzt, um den Treibstoff an möglichst viele Orte zu transportieren)}
 {191}{}{(Du entdeckst eine unglaubliche Masse komplexer chemischer Formeln und Laboraufzeichnungen. Du weißt nicht genau, was das alles zu bedeuten hat.}
 {192}{}{Leite Benzin zum Poseidon-Tanker.}
 {193}{}{Leite Benzin zu Hubologen.}
@@ -180,10 +180,10 @@
 {325}{}{Fehler. Kommandocode erforderlich. Bitte geben Sie den gültigen Code ein.}
 {330}{}{[Dank des Kommadocodediagramms, das du aus dem U-Boot geborgen hast,
  kannst du jetzt auf die Laufwerke des Kaisers zugreifen und die gesperrten Dateien aufrufen.]}
-{331}{}{Kommandocode akzeptiert. Sicherheitsbeschränkungen aufgehoben. Initialisiere Chinesisches Geheimdienstnetz . . .   
- . . .                                                                     
- . . .                                                                       
-Achtung! Verbindung zum CGN Zentralserver Peking nicht verfügbar. Rufe Archivdaten auf.                            
+{331}{}{Kommandocode akzeptiert. Sicherheitsbeschränkungen aufgehoben. Initialisiere Chinesisches Geheimdienstnetz . . . 
+ . . . 
+ . . . 
+Achtung! Verbindung zum CGN Zentralserver Peking nicht verfügbar. Rufe Archivdaten auf. 
  [Anscheinend sind die meisten Daten beschädigt. Doch der Zentralrechner findet noch einige lesbare Dateien.]}
 {332}{}{Geheimdienstbericht 05-11-2069}
 {333}{}{Geheimdienstbericht 18-04-2072}
@@ -258,7 +258,7 @@ Achtung! Verbindung zum CGN Zentralserver Peking nicht verfügbar. Rufe Archivda
 {461}{}{Weiterlesen.}
 {462}{}{::zurück::}
 {470}{}{21.10.2077: Wir sind mit den letzten Vorbereitungen für den Start fertig. Alles was jetzt noch fehlt, ist das Eingeben der
- Bestätigungscodes.                                            Es ist eine Ehre gewesen, mit diesen Männern zu dienen.}
+ Bestätigungscodes. Es ist eine Ehre gewesen, mit diesen Männern zu dienen.}
 {471}{}{Weiterlesen.}
 {472}{}{::zurück::}
 {480}{}{23.10.2077: Wir haben die Bestätigungscodes erhalten und werden in fünfzehn Minuten in Position sein. Dies ist wahr- scheinlich
@@ -301,7 +301,7 @@ Achtung! Verbindung zum CGN Zentralserver Peking nicht verfügbar. Rufe Archivda
  nicht anzugreifen, solange sie nicht provoziert werden - wir sollten uns potentielle Verbündete nicht zu Feinden machen.}
 {551}{}{Weiterlesen.}
 {552}{}{::zurück::}
-{560}{}{14.12.2077: Ein Kuriosum - ein Kult mit dem Namen Kirche  der Hubologen hat irgendwie die Zerstörung in einem ver- stärkten Bunker
+{560}{}{14.12.2077: Ein Kuriosum - ein Kult mit dem Namen Kirche der Hubologen hat irgendwie die Zerstörung in einem ver- stärkten Bunker
  nahe der Überreste der Golden Gate Brücke überlebt. Sie sind harmlose Fanatiker, aber nützlich. Ihre Ressourcen, Arbeitskraft und
  Kenntnisse von der Umgebung helfen uns dabei, unserer neuen Heimat aufzubauen.}
 {561}{}{Weiterlesen.}
@@ -313,8 +313,8 @@ Achtung! Verbindung zum CGN Zentralserver Peking nicht verfügbar. Rufe Archivda
 {572}{}{::zurück::}
 {580}{}{31.12.2077: Dies wird mein letzter Eintrag in diesem Tage- buch werden. Ich bin nicht länger Admiral der Marine der
  Volksbefreiungsarmee. Ich habe eine Verantwortung meinen Männern gegenüber und führe sie in die Zukunft.
-               Ab 2078 sind wir komplett von China abgespalten. Vorsitzender Cheng, nimm dich in Acht.
-                          Ye Li, Anführer der Shi-Huang-Ti Bürger, meldet sich ab.}
+ Ab 2078 sind wir komplett von China abgespalten. Vorsitzender Cheng, nimm dich in Acht.
+ Ye Li, Anführer der Shi-Huang-Ti Bürger, meldet sich ab.}
 {581}{}{::zurück::}
 {590}{}{Operation Outline R:
                                                  Krisenplan für einen Nuklearen Gegenschlag der Volks- befreiungsarmee im Falle
@@ -325,7 +325,7 @@ Achtung! Verbindung zum CGN Zentralserver Peking nicht verfügbar. Rufe Archivda
  Geräte. Das Ziel ist, das militärische Potential der USA lahmzulegen und damit auch Vergeltungsschläge zu verhindern.}
 {601}{}{Weiterlesen.}
 {610}{}{Die Shi-Huang-Ti hat den Auftrag acht Ziele auf kalifornischem Boden zu zerstören, einschließlich der
-      West Tek Forschungsanlage, Konzernzentralen in Los Angeles und wichtigen Ballungszentren.}
+ West Tek Forschungsanlage, Konzernzentralen in Los Angeles und wichtigen Ballungszentren.}
 {611}{}{Weiterlesen.}
 {620}{}{Im Falle von Meuterei oder Verrat ist der Kapitän dazu bevollmächtigt, dem Kaiser die alleinige Steuerung des Schiffs zu
  überlassen, damit dieser die Operation zu Ende führt.}

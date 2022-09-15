@@ -26,7 +26,7 @@
 {120}{}{In Ordnung. Tja, also... ich warte dann hier auf dich. Nicht, das ich eine andere
  Möglichkeit hätte. Bis dann!}
 {121}{}{Tschüüüß!}
-{122}{}{Solltest du deine Meinung ändern,  weißt du ja, wo du mich findest. Ich hab hier nämlich
+{122}{}{Solltest du deine Meinung ändern, weißt du ja, wo du mich findest. Ich hab hier nämlich
  Wurzeln geschlagen. Ha ha ha! Eine kleine Kostprobe vom Pflanzenhumor für dich. Aber lass dich
  nicht von mir aufhalten. Bis dann!}
 {123}{}{Tschüss.}

@@ -50,7 +50,7 @@
 {132}{}{Irgendwie habe ich das Gefühl, dass du mich auf den Arm nehmen willst.}
 {133}{}{Oh, das liegt mir natürlich im Blut. Geschichten erzählen! (er stemmt seinen Krug in die
  Höhe)}
-{134}{}{Genau,  Geschichten erzählen. Okay. Danke für den Hinweis. Hey, lass mich dich noch etwas
+{134}{}{Genau, Geschichten erzählen. Okay. Danke für den Hinweis. Hey, lass mich dich noch etwas
  anderes fragen.}
 {135}{}{Irgendwie habe ich das Gefühl, als würdest du mich mit dieser ganzen Geschichte auf den
  Arm nehmen.}

@@ -5,7 +5,8 @@
 {202}{}{Lass uns handeln.}
 {203}{}{Ich habe gehört, dass du der Mann bist, mit dem ich über die Karawanen reden muss.}
 {204}{}{Schon gut. Tschüss.}
-{210}{}{Sag mal, mir ist aufgefallen, dass hier in Abbey viele alte Geräte und Gegenstände gesammelt werden. Ich nehme nicht an, dass dir im Lauf der Zeit hier irgendetwas... Besonderes, untergekommen ist?}
+{210}{}{Sag mal, mir ist aufgefallen, dass hier in Abbey viele alte Geräte und Gegenstände gesammelt werden.
+ Ich nehme nicht an, dass dir im Lauf der Zeit hier irgendetwas... Besonderes, untergekommen ist?}
 {211}{}{Ah, du hast es bemerkt, nicht? Ja, die Menschen von Abbey sind ziemliche begeistert von allem aus der Vorkriegszeit, besonders wenn es Bezug zu Technik hat. Sie haben so eine Art von versponnener Religion darum herum geformt. Ich verstehe es selbst nicht ganz,
  aber sie sind nette Leute, und sie bezahlen gutes Geld für jedes Vorkriegszeug, das ich in die Hände bekomme. Aber wie auch immer, also etwas Besonderes... hmm, [Er blickt kurz zu Marcus rüber.] Könnte sein, dass ich da etwas habe das deinen Freund interessieren könnte.}
 {212}{}{Ah, du hast es bemerkt, nicht? Ja, die Menschen von Abbey sind ziemliche begeistert von allem aus der Vorkriegszeit, besonders wenn es Bezug zu Technik hat. Sie haben so eine Art von versponnener Religion darum herum geformt. Ich verstehe es selbst nicht ganz,

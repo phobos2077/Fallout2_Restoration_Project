@@ -33,7 +33,7 @@
  Idiot Festus hat das nicht so richtig hinbekommen. Tja, da ist noch was. Mein Freund Woody ist
  verschwunden.}
 {123}{}{Nix Neues hier in der Stadt. Hab gehört, dass Wooz neulich einen Neuling in der Schwarzen
- Orchidee aufgegabelt hat.  He, he, he. Tja, da ist noch was. Mein Freund Woody ist verschwunden.}
+ Orchidee aufgegabelt hat. He, he, he. Tja, da ist noch was. Mein Freund Woody ist verschwunden.}
 {124}{}{Aha, erzähl mehr davon.}
 {125}{}{Oh, das ist ja schrecklich. Ich hasse traurige Geschichten. Ich lasse Dich jetzt mit
  Deinen Sorgen alleine. Wiedersehen.}

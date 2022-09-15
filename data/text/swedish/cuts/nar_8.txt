@@ -1,2 +1,2 @@
-1:You fought valiantly, but to no avail.  
-2:Your twisted and ruined body goes down in a hail of bullets, and thus ends your life in the wasteland.
+1:Ni kämpade tappert, men utan resultat.  
+2:Din förvrängda och förstörda kropp faller ner i ett hagel av kulor, och därmed tar ditt liv i ödemarken slut.

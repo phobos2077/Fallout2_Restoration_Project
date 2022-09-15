@@ -187,7 +187,7 @@
 {716}{}{Hmmm... Vielleicht ist heute ein Tag wo du die Tragic-Karten weglegen solltest. Ich glaub du hast Heute lange genug gespielt.}
 {717}{}{NIEMALS! BRINGT DIE SAMMLUNG VORAN!}
 {718}{}{MUUAHAHAHAHA!!! ICH WAR SIEGREICH!}
-{719}{}{NEEEIIIIN!! WIE KONNTE ICH NUR VERLIEREN!?  Ahhhgghhhgh.}
+{719}{}{NEEEIIIIN!! WIE KONNTE ICH NUR VERLIEREN!? Ahhhgghhhgh.}
 {720}{}{Ja... Ich kann grad irgendwie nicht aufhören. Nur noch ein Spiel...}
 {721}{}{Ja, Gamma Gulp Bier. Bist du etwa Taub?}
 {722}{}{Klar, tut es. Ein Gamma Gulp, kommt sofort.}
