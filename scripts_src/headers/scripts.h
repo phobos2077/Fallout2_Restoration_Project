@@ -1358,7 +1358,7 @@
 #define SCRIPT_ATRIBAL          (1339)  // atribal.int     ; Abbey tribal
 #define SCRIPT_ABMATT           (1340)  // abmatt.int      ; Abbey Matthew
 #define SCRIPT_VILL             (1341)  // vill.int        ; Village Map
-#define SCRIPT_ZCLVILLRAT       (1342)  // zclvillrat.int  ; Village Monster
+#define SCRIPT_VILRAT           (1342)  // vilrat.int      ; Village Monster
 #define SCRIPT_VILANN           (1343)  // vilann.int      ; Ann in Village
 #define SCRIPT_TRIBEC1          (1344)  // tribec1.int     ; script for head warrior
 #define SCRIPT_TRIBEC2          (1345)  // tribec2.int     ; Script for Marli at well in tribe
