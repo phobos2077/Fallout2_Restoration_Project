@@ -179,11 +179,11 @@
 {430}{}{Olha, COMO EU DISSE, eu não sei onde ele está. Mas *talvez* eu tenha ouvido que ele costuma ter um quarto no Desperado, você pode
  encontrar alguma coisa lá. Agora, se você não se importa, eu tenho que voltar ao trabalho.}
 {431}{}{Nikki, eu sei que você ajudou Lloyd a trapacear. Só me diga onde está Lloyd e eu te darei metade do que ele ganhou: 500 contos.}
-{432}{}{Pretty suspicious that you didn't notice him cheating all those times. You'd have to be blind... or bribed.}
+{432}{}{É bastante suspeito você não perceber que ele trapaceou todas essas vezes. Você teria que ser cegueta... ou subornada.}
 {433}{}{Conversamos mais tarde, Nikki.}
-{440}{}{Look, I just STARTED working here, and I can't recognize every card counter and two-bit cheat that walks in.
- I gotta pretty good line on shitheads like you, though.}
-{441}{}{Oh, so that's how you and Lloyd hooked up then?}
+{440}{}{Olha, acabo de COMEÇAR a trabalhar aqui, não consigo reconhecer cada contador de cartas e trapaceiro de que me
+ aparece pela frente.}
+{441}{}{Ah, foi assim que você e Lloyd ficaram?}
 {442}{}{So you just started work, huh? Pretty convenient. Well, that's all I need to know. Tell Lloyd he's a dead man.}
 {443}{}{Nikki, eu sei que você ajudou Lloyd a trapacear. Só me diga onde está Lloyd e eu te darei metade do que ele ganhou: 500 contos.}
 {444}{}{Conversamos mais tarde, Nikki.}
