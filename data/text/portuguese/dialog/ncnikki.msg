@@ -171,13 +171,13 @@
 {414}{}{Bem suspeito você não ter notado ele enganando todas essas vezes. Você teria que ser cega... ou subornada.}
 {415}{}{Conversamos mais tarde, Nikki.}
 {420}{}{Do que você está falando?}
-{421}{}{Nikki, if you don't tell me everything right now, I'll tell Mr. Salvatore you were in on it, whether you were or not.
- He'll have Mason cut you up seven ways to Sunday, and have your job filled in an hour.}
+{421}{}{Nikki, se você não me contar tudo agora, vou dizer ao Sr. Salvatore que você estava envolvida nisso, quer estava ou não.
+ Se isso acontecer, Mason vai te cortar em vários pedacinhos e espalhar por cada canto de Reno.}
 {422}{}{Nikki, eu sei que você ajudou Lloyd a trapacear. Só me diga onde está Lloyd e eu te darei metade do que ele ganhou: 500 contos.}
 {423}{}{Bem suspeito você não ter notado ele enganando todas essas vezes. Você teria que ser cega... ou subornada.}
 {424}{}{Conversamos mais tarde, Nikki.}
-{430}{}{Look, LIKE I SAID, I don't know where he is. But *maybe* I heard he used to have a room at the Desperado. You might find
- something there. Now, if you don't mind, I got to get back to work.}
+{430}{}{Olha, COMO EU DISSE, eu não sei onde ele está. Mas *talvez* eu tenha ouvido que ele costuma ter um quarto no Desperado, você pode
+ encontrar alguma coisa lá. Agora, se você não se importa, eu tenho que voltar ao trabalho.}
 {431}{}{Nikki, eu sei que você ajudou Lloyd a trapacear. Só me diga onde está Lloyd e eu te darei metade do que ele ganhou: 500 contos.}
 {432}{}{Pretty suspicious that you didn't notice him cheating all those times. You'd have to be blind... or bribed.}
 {433}{}{Conversamos mais tarde, Nikki.}
