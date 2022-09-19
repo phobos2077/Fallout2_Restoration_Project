@@ -184,7 +184,7 @@
 {440}{}{Olha, acabo de COMEÇAR a trabalhar aqui, não consigo reconhecer cada contador de cartas e trapaceiro de que me
  aparece pela frente.}
 {441}{}{Ah, foi assim que você e Lloyd ficaram?}
-{442}{}{So you just started work, huh? Pretty convenient. Well, that's all I need to know. Tell Lloyd he's a dead man.}
+{442}{}{Então você é novata no trabalho, né? Bastante conveniente. Bem, isso é tudo que eu precisava saber. Diga ao Lloyd que ele é um homem morto.}
 {443}{}{Nikki, eu sei que você ajudou Lloyd a trapacear. Só me diga onde está Lloyd e eu te darei metade do que ele ganhou: 500 contos.}
 {444}{}{Conversamos mais tarde, Nikki.}
 {450}{}{Yeah, you take enough Jet, and everything seems suspicious, don't it?}
