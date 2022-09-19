@@ -187,12 +187,12 @@
 {442}{}{Então você é novata no trabalho, né? Bastante conveniente. Bem, isso é tudo que eu precisava saber. Diga ao Lloyd que ele é um homem morto.}
 {443}{}{Nikki, eu sei que você ajudou Lloyd a trapacear. Só me diga onde está Lloyd e eu te darei metade do que ele ganhou: 500 contos.}
 {444}{}{Conversamos mais tarde, Nikki.}
-{450}{}{Yeah, you take enough Jet, and everything seems suspicious, don't it?}
-{451}{}{It IS suspicious. You should have had Lloyd pegged for what he was as soon as he walked in this casino.}
+{450}{}{Certo, se você tomar bastante Jet, tudo vai parecer suspeito, certo?}
+{451}{}{É BEM suspeito. Você deveria ter reconhecido Lloyd assim que ele entrou neste cassino.}
 {452}{}{Nikki, eu sei que você ajudou Lloyd a trapacear. Só me diga onde está Lloyd e eu te darei metade do que ele ganhou: 500 contos.}
 {453}{}{Conversamos mais tarde, Nikki.}
-{460}{}{You get the hell outta here right now. I ain't got nothing else to say to you.}
-{461}{}{I got nothing to say to you. Get out of here.}
+{460}{}{De o fora daqui agora. Não tenho mais nada para te dizer.}
+{461}{}{Não tenho nada para te dizer. Saia daqui.}
 {462}{}{Not now, maybe. We'll talk later though, Nikki. Count on it.}
 {470}{}{You talk smooth... but so do snakes. MAYBE I know where Lloyd is, MAYBE I don't. You got 500 chips?}
 {471}{}{Maybe. Depends on what you got for me.}
