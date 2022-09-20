@@ -68,7 +68,7 @@
 {276}{}{Precisa de outra bebida?}
 {277}{}{Bem vindo ao cassino, }
 {278}{}{Hey there, Ms. Movie Star. Looking to spend a paycheck?}
-{279}{}{You dancing tonight?}
+{279}{}{Quer dançar essa noite?}
 {290}{}{Ei, querida. Você quer gastar algumas tampas?}
 {291}{}{Hey, sweetie...[winks]...you looking to gamble?}
 {292}{}{Hey, sweetie...[smiles]...wanna take a chance?}
@@ -126,10 +126,10 @@
 {2203}{}{! Bem-vindo ao cassino, herói!}
 {2215}{}{. Posso te ajudar com *alguma coisa?*}
 {2219}{}{.}
-{2255}{}{. Looking to spend some chips?}
-{2258}{}{, win some chips.}
+{2255}{}{. Procurando onde gastar algumas tampas?}
+{2258}{}{, ganhe algumas tampas.}
 {2260}{}{.}
-{2261}{}{. Let me know if I can help you with anything.}
+{2261}{}{. Me diga se eu posso te ajudar com alguma coisa.}
 {2262}{}{?}
 {2263}{}{.}
 {2321}{}{. faça suas apostas...}

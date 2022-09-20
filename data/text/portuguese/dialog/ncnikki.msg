@@ -193,34 +193,34 @@
 {453}{}{Conversamos mais tarde, Nikki.}
 {460}{}{De o fora daqui agora. Não tenho mais nada para te dizer.}
 {461}{}{Não tenho nada para te dizer. Saia daqui.}
-{462}{}{Not now, maybe. We'll talk later though, Nikki. Count on it.}
-{470}{}{You talk smooth... but so do snakes. MAYBE I know where Lloyd is, MAYBE I don't. You got 500 chips?}
-{471}{}{Maybe. Depends on what you got for me.}
-{480}{}{COULD be that Lloyd still has my take, and I ain't sure he's gonna give it to me. So COULD be that - for 500 chips - I
- COULD tell you where his lying ass is hanging out.}
-{481}{}{Done. Here's the 500 chips. Tell me where he is.}
-{482}{}{That's a pretty steep price for a whole bunch of "maybes" and "coulds." I'll find him on my own.}
-{483}{}{I don't have enough chips, but I'll be back. You better still be here when I return.}
-{490}{}{(Pockets the money) Check the boiler room in the basement of the Desperado. That's where the son of a bitch was
- going to run if things got hot.}
-{491}{}{All right then. Later, Nikki.}
-{500}{}{Would you get outta here?! People see us talking like this, then THEY'RE gonna talk. Understand?}
-{501}{}{All right then. Later, Nikki.}
-{510}{}{Go to hell, then! I ain't got nothing else to say to you, EVER.}
-{511}{}{Breaks my heart. Later, Nikki.}
-{600}{}{You bribe Nikki in telling you where Lloyd might be hiding.}
+{462}{}{Acho que agora não. Falaremos mais tarde, Nikki. Pode contar com isso.}
+{470}{}{Sua fala é suave... igual a das cobras. TALVEZ eu saiba onde Lloyd está, TALVEZ não. Você tem 500 tampas?}
+{471}{}{Talvez. Depende do que você tem para mim.}
+{480}{}{PODE ser que Lloyd ainda tenha minha parte, mas não tenho certeza se ele vai me dar. Então PODERIA ser que - por 500 tampas
+ - EU PODERIA te dizer onde esse rato mentiroso está.}
+{481}{}{Feito, aqui estão as 500 tampas. Agora me diga onde ele está.}
+{482}{}{Esse é um preço bem alto para um monte de "talvez" e "pode ser". Eu vou encontrá-lo sozinho.}
+{483}{}{Não tenho tampas suficientes, mas voltarei. É melhor você ainda estar aqui quando eu voltar.}
+{490}{}{(Embolsa o dinheiro) De uma olhada na sala das caldeiras no porão do Desperado. É para onde o filho da puta iria correr se as 
+coisas esquentassem.}
+{491}{}{Tudo bem então. Até mais, Nikki.}
+{500}{}{Você quer sair daqui?! Se as pessoas nos virem falando sobre isso, ELAS falarão mais ainda. Você entendeu?}
+{501}{}{Tudo bem então. Até mais, Nikki.}
+{510}{}{Vai pro inferno, então! Não tenho mais nada para te dizer, NUNCA.}
+{511}{}{Isso quebrou meu coração. Até mais, Nikki.}
+{600}{}{Você suborna Nikki para te dizer onde Lloyd pode estar escondido.}
 {1210}{}{. Posso ajudar com... alguma coisa?}
 {1214}{}{.}
-{1235}{}{. Looking to spend some chips?}
-{1239}{}{, win some chips.}
+{1235}{}{. Procurando onde gastar algumas tampas?}
+{1239}{}{, ganhe algumas tampas.}
 {1241}{}{.}
-{1242}{}{. Let me know if I can help you with anything.}
+{1242}{}{. Me diga se eu posso te ajudar com alguma coisa.}
 {1243}{}{?}
 {1244}{}{.}
-{1251}{}{...(winks)...you looking to gamble?}
-{1252}{}{...(smiles)...wanna take a chance?}
-{1253}{}{, you came to the right place.}
-{1266}{}{, win some chips.}
+{1251}{}{...(pisca) ...você quer jogar?}
+{1252}{}{...(sorri)...quer arriscar uma vez?}
+{1253}{}{, você veio ao lugar certo.}
+{1266}{}{, ganhe algumas tampas.}
 {1268}{}{.}
-{1314}{}{ could always use new inventory item}
-{2699}{}{You dancing tonight?}
+{1314}{}{ você sempre pode usar um novo item de inventário}
+{2699}{}{Quer dançar essa noite?}

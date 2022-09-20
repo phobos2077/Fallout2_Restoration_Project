@@ -1,16 +1,16 @@
-{100}{}{You see one of the Reno townsfolk.}
-{150}{}{You see a ragged-looking man. He looks bored.}
-{151}{}{You see a ragged-looking man. He has a dull look in his eye.}
-{152}{}{You see a ragged-looking man. He looks like he is nursing a hangover.}
-{153}{}{You see a ragged-looking man. He looks a little tipsy.}
-{154}{}{You see a ragged-looking man. He gives you an irritated glance, then ignores you.}
-{155}{}{You see a ragged-looking man. He looks pissed off.}
-{160}{}{You see a ragged-looking woman. She looks bored.}
-{161}{}{You see a ragged-looking woman. She has a dull look in her eye.}
-{162}{}{You see a ragged-looking woman. She is staring a thousand miles away.}
-{163}{}{You see a ragged-looking woman. She looks a little drunk.}
-{164}{}{You see a ragged-looking woman. She gives you an irritated glance, then ignores you.}
-{165}{}{You see a ragged-looking woman. When she catches your eye, she sneers.}
+{100}{}{Você vê um dos habitantes de Reno.}
+{150}{}{Você vê um homem de aparência esfarrapada. Ele parece entediado.}
+{151}{}{Você vê um homem de aparência esfarrapada e com um olhar maçante.}
+{152}{}{Você vê um homem de aparência esfarrapada. Ele parece estar se recuperando de uma ressaca.}
+{153}{}{Você vê um homem de aparência esfarrapada. Ele parece que tomou algumas.}
+{154}{}{Você vê um homem de aparência esfarrapada. Ele te olha irritado, depois te ignora.}
+{155}{}{Você vê um homem de aparência esfarrapada. Ele parece chateado.}
+{160}{}{Você vê uma mulher de aparência esfarrapada. Ela parece entediada.}
+{161}{}{Você vê uma mulher de aparência esfarrapada e com um olhar maçante.}
+{162}{}{Você vê uma mulher de aparência esfarrapada. Sua visão se perde a quilômetros de distância.}
+{163}{}{Você vê uma mulher de aparência esfarrapada. Ela parece de fogo.}
+{164}{}{Você vê uma mulher de aparência esfarrapada. Ela te olha irritada, depois te ignora.}
+{165}{}{Você vê uma mulher de aparência esfarrapada. Quando te olha com desprezo.}
 {200}{}{::Palmas::}
 {201}{}{::Assobios::}
 {202}{}{Você detonou fácil aqueles idiotas da Enclave! Fácil de mais!}
@@ -18,7 +18,7 @@
 {204}{}{Parabéns por destruir a Enclave, }
 {205}{}{Parabéns por destruir a Enclave, }
 {215}{}{Uh-oh. Saia do caminho.}
-{216}{}{Just looking at him... her... it... WHATEVER it is gives me the shivers.}
+{216}{}{Só de olhar para ele... ela... isso... O QUE SEJA, me dá arrepios.}
 {217}{}{Você acha que essa coisa quer atirar em alguém?}
 {218}{}{Isso é carne da fúria do inferno. Uh, embaixo da armadura, é isso.}
 {219}{}{Fique fora do caminho dessa coisa.}
@@ -36,9 +36,9 @@
 {246}{}{Eu quero comer meu jantar longe do seu peito.}
 {247}{}{Precisa de uma parceira para o próximo filme?}
 {248}{}{::Olhares no seu bíceps.::}
-{249}{}{::Claps, whistles::}
+{249}{}{::Palmas, assobios::}
 {255}{}{Whoa. Dá uma olhada nisso.}
-{256}{}{Would you look at THAT?}
+{256}{}{Está vendo ISSO?}
 {257}{}{::As bocas soltam um 'caramba.'::}
 {258}{}{Eu SABIA que devia ter me barbeado hoje.}
 {259}{}{Vem conversar comigo um pouco, tetas-de-mel.}
@@ -51,7 +51,7 @@
 {266}{}{Trabalhe isso!}
 {267}{}{::Assobios::}
 {268}{}{Essas pernas ficam totalmente erguidas?}
-{269}{}{Hey, beautiful, you got a tongue to go with that ass?}
+{269}{}{Ei, coisa linda, você quer uma língua para falar com sua bunda?}
 {270}{}{Você pega batatas fritas para acompanhar essa mexida, linda?}
 {271}{}{Talvez ela vai dançar hoje de noite.}
 {272}{}{Você viu o último filme dela? Muito bom, cara, muito BOM.}
@@ -59,13 +59,13 @@
 {274}{}{Eu queria ser a calça dela.}
 {275}{}{Eu gostaria de ser a calcinha dela.}
 {276}{}{Eu gostaria de cheirar o short dela.}
-{277}{}{That is one foxy lady.}
+{277}{}{Isso é uma cachorra.}
 {278}{}{Droga. Todas essas curvas e eu sem freio nenhum.}
-{279}{}{Check out those bazoongas!}
-{280}{}{Check out those begonias!}
-{281}{}{I want to get a better look at those big brown eyes.}
-{282}{}{Daaaaamn.}
-{283}{}{Check out those headlights.}
+{279}{}{Olha esses tetões!}
+{280}{}{Olha essa bunda!}
+{281}{}{Quero ver melhor esses grandes olhos castanhos.}
+{282}{}{Puuuuta merda.}
+{283}{}{Olha só esses faróis acesos.}
 {284}{}{I bet she has back problems.}
 {285}{}{Você não parece tão forte, Sr. Prizefighter.}
 {286}{}{I got 20 chips riding on you!}
