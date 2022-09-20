@@ -4,8 +4,8 @@
 {103}{prs1a}{You there, what are you doing outside of the reconditioning center?}
 {104}{prs1b}{Do I know you? What project are you on?}
 {105}{prs1c}{And who do you think you are barging into my office?}
-{106}{}{Uh?}
-{107}{}{Nuh.}
+{106}{}{Eh?}
+{107}{}{Nä.}
 {108}{}{Bye-bye.}
 {109}{prs2a}{Ah, affected by the test serums, I see. Um, I'll get you some help. Guards!}
 {110}{prs2b}{Doctor, I think you've been exposed to the F.E.V. Poor soul, I'll get you some help. Guards!}

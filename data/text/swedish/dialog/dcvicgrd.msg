@@ -88,7 +88,7 @@
 {431}{}{Yeah, talk to Metzger. I'm sure he has some work available. He said he needed another man... but I'm sure you'll do.}
 {432}{}{Talk to Metzger.}
 {433}{}{Ruru?}
-{434}{}{Uh?}
+{434}{}{Eh?}
 {435}{}{Oh.}
 {450}{}{Get him, guys.}
 {451}{}{Get her, guys.}

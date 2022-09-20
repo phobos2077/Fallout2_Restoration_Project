@@ -9,7 +9,7 @@
 {108}{}{Sure. What can you help me with?}
 {109}{}{Nope. I am doing fine.}
 {110}{}{Good answer, dumb one. Now keep quiet while I practice.}
-{111}{}{Uh-kay.}
+{111}{}{Uh-kej.}
 {112}{}{I know how to fight with fists and feet. Think you can learn that?}
 {113}{}{What can you teach me?}
 {114}{}{May the wind be at your back, Chosen One.}

@@ -112,7 +112,7 @@
 {211}{}{Thank you.}
 {212}{}{No lessons? No incomprehensible speeches? You sure you're okay?}
 {213}{hak027}{Welcome, Chosen. Bless us with words that the GECK will be found soon. Our village ails, our need is great, our time, short.}
-{214}{}{Nuh.}
+{214}{}{Nä.}
 {215}{}{And your ability to speak normally, non-existent. I'm still trying.}
 {216}{}{I'm on it. }
 {217}{}{Get off my back, old man. I'm doing the best I can.}
@@ -124,20 +124,20 @@
 {223}{}{Tack.}
 {224}{}{Say what?!}
 {225}{}{Eh.}
-{226}{}{Huh?!}
+{226}{}{Va?!}
 {227}{hak029}{Welcome back, Chosen. I see by your face the salvation of the GECK is not yet ours. Be tireless as the ant before our reserves run out. You are our last hope.}
-{228}{}{Uh-huh.}
+{228}{}{Aha. }
 {229}{}{I'm trying. I'd like to see the ant covering the miles I am.}
 {230}{}{I'm doing my best.}
 {231}{}{I'll double my efforts, holy one. I will not let you down.}
 {232}{}{Yeah, yeah. I've heard it all before.}
 {233}{hak030}{Chosen - the village cries in desperation. The children are weak with hunger. Please, we cannot hold out much longer.}
-{234}{}{Uh-huh.}
+{234}{}{Aha. }
 {235}{}{I'm trying. I'm trying! Give me a break!}
 {236}{}{I'll find the GECK, holy one. You have my word.}
 {237}{}{I'll do my best to find the GECK.}
 {238}{hak031}{Chosen, the sands of time are but a few grains. Please. Bring the GECK soon and make the future of the village like the beach of the ocean. Quickly, before the last grain falls.}
-{239}{}{Uh-huh.}
+{239}{}{Aha. }
 {240}{}{All right. I'm off to find it.}
 {241}{}{Life's a beach, huh?}
 {242}{}{I will find the GECK, holy one. I will not let our people down.}
@@ -146,17 +146,17 @@
 {245}{hak034}{Chosen. The village weakens. It is harder to touch your dreams. You must hurry or we will all...}
 {246}{hak035}{Chosen? Chosen? Do you hear me? The village dies. All of our futures die, too. We have little left in both time and essence... Hurry. Hurry...}
 {247}{hak101}{Chosen - the shadow of darkness arrived before you.}
-{248}{}{Owwww!}
+{248}{}{Ajjjj!}
 {249}{}{What happened?}
 {250}{}{You look bad. Let me help.}
 {251}{hak102}{Child of Nature, how could we put such a burden on your shoulders? (sigh) Your people have been taken.}
-{252}{}{Uhh?}
+{252}{}{Ehhh?}
 {253}{hak103}{Yes. Gone. Many dark souls came, riding the metal birds like a flock of hungry chittick bugs, hiding their evil in shiny skins. }
 {254}{}{Ooo! Shiny Purty!}
 {255}{hak104}{No! Not shiny pretty! They kidnapped our people and took them to the southwest.}
-{256}{}{Ow.}
+{256}{}{Aj.}
 {257}{hak105}{Yes. Great sadness and pain. I stand between worlds to tell you, Chosen. Save your people.}
-{258}{}{Uh?}
+{258}{}{Eh?}
 {259}{hak106}{Chosen, please let my words touch you. Go southwest. South and west. Save our people. Save our people.}
 {260}{}{Uh-huh..}
 {261}{hak107}{Thank the ancestors. Now my soul may join the eternal song. Safe journey, Chosen.}

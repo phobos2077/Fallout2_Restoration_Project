@@ -9,7 +9,7 @@
 {108}{}{Hej då.}
 {109}{}{Yes, I do talk. Better than some people, it seems. I'd smile at you right now, but I just don't have a mouth. [it laughs] Say, could you do me a big favor?}
 {110}{}{'Es.}
-{111}{}{Nuh.}
+{111}{}{Nä.}
 {112}{}{I'm looking for a better place to be. Right here is nice and all, but frankly, these plants aren't much for conversation. I was thinking over there, by the building with all the ghouls in it... Would you replant me?}
 {113}{}{'Es!}
 {114}{}{Nuh!}

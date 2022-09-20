@@ -1,56 +1,56 @@
-{100}{}{You see a pimp.}
-{150}{}{You see a well-dressed man. His clothes catch the light and reflect it, nearly blinding you.}
-{151}{}{You see a man with clothes so loud that they should have a volume knob.}
-{152}{}{You see a pimp. He's styling.}
-{153}{}{You see a pimp. He nods at you.}
-{154}{}{You see a pimp. He looks fly enough to be pimp of the year.}
-{155}{}{You see a pimp. His clothes are so loud they need a volume knob.}
-{200}{}{Man, I heard you destroyed the Enclave. Maybe NOW you want to get laid?}
-{201}{}{Man destroys the Enclave, thinks he owns the world... sheee-it.}
-{202}{}{Yo, man! Only thing better than blowing an oil rig is having
- somebody blowing your rig, know what I'm saying?}
-{220}{}{I heard you destroyed the Enclave, woman. Maybe NOW you come work for me?}
-{221}{}{Woman destroys the Enclave, thinks she owns the world... sheee-it.}
-{222}{}{A sexy Enclave-busting woman like yourself could earn a LOTTA chips in this town...}
-{230}{}{Woman better have my money...}
-{231}{}{These tourists ain't nearly as horn-ay as I'd like.}
+{100}{}{Você vê um cafetão.}
+{150}{}{Você vê um homem bem vestido. Suas roupas refletem bem a luz, quase te cegando.}
+{151}{}{Você vê um homem com roupas tão barulhentas que deveriam ter um botão de volume.}
+{152}{}{Você vê um cafetão. Ele tem estilo.}
+{153}{}{Você vê um cafetão. Ele acena para você.}
+{154}{}{Você vê um cafetão. Ele tem estilo para ser o cafetão do ano.}
+{155}{}{Você vê um cafetão. Suas roupas são tão barulhentas que precisam de um botão de volume.}
+{200}{}{Cara, ouvi dizer que você destruiu a Enclave. Então, AGORA você tem vontade de transar?}
+{201}{}{O homem que destrói a Enclave, pensa que é o dono do mundo... pooooorra.}
+{202}{}{Ei, amigo! A única coisa melhor do que explodir uma plataforma
+ de petróleo é alguém explodir sua plataforma, essa piada fez sentido?}
+{220}{}{Ouvi dizer que você destruiu a Enclave, mulher. E agora, quer trabalhar pra mim?}
+{221}{}{A mulher que destrói a Enclave, pensa que é dona do mundo... poooorra.}
+{222}{}{Uma mulher sexy destruidora de organizações militares altamente tecnológicas como você poderia ganhar MUITAS tampas nesta cidade...}
+{230}{}{Espero que as meninas tenham meu dinheiro...}
+{231}{}{Esses turistas não são tão excitados quanto eu queria.}
 {232}{}{É melhor tua vagaba não ficar se escondendo de mim...}
-{233}{}{Go on, then. Walk on by.}
-{234}{}{You looking for some action?}
-{235}{}{How come you don't snag one of my ladies for yo movies, brother?}
-{236}{}{You want a real partner, try one of my women for yo films.}
-{237}{}{You need some fluffers? I got 'em.}
-{238}{}{These ain't slaves, these are professionals, hear what I'm saying?}
-{239}{}{When you gonna set ME up in the biz, mistah movie staaar?}
-{240}{}{Give me some time on camera, I'll show you star.}
-{241}{}{I can do WHAT you do, do WHO you do, and do her BETTER than you do.}
-{242}{}{You should let me teach you some pointers, brother.}
-{243}{}{I got this one woman you should try out for yo films; she has this real soft juicy-fruit butt.}
-{244}{}{Let me set you up, man. I was pimp of the year two years running.}
-{245}{}{Don't understand how YOU got to be a star...}
-{260}{}{Woman better have my money...}
-{261}{}{These tourists ain't nearly as horn-ay as I'd like.}
+{233}{}{Vá, então. Ande por aí.}
+{234}{}{Procurando alguma ação?}
+{235}{}{Por que você não pega uma das minhas garotas para seus filmes, irmão?}
+{236}{}{Se quer uma parceira de verdade, tente uma das minhas garotas para seus filmes.}
+{237}{}{Você precisa de mais punheteiros? Eu tenho.}
+{238}{}{Essas não são escravas, são profissionais, está ouvindo?}
+{239}{}{Quando você vai me colocar no negócio, senhor estrela de cinema?}
+{240}{}{Me de algum tempo na câmera, e eu vou te mostrar a estrela.}
+{241}{}{Eu posso fazer O QUE você faz, fazer com QUEM você faz, e fazer MELHOR do que você.}
+{242}{}{Você deveria me deixar te ensinar algumas coisas, parceiro.}
+{243}{}{Eu tenho uma mulher que você deveria experimentar para seus filmes; ela tem uma bunda macia como um travesseiro.}
+{244}{}{Deixe que eu preparo você, cara. Fui o cafetão do ano por dois anos seguidos.}
+{245}{}{Não entendo como VOCÊ conseguiu ser uma estrela...}
+{260}{}{Espero que as meninas tenham meu dinheiro...}
+{261}{}{Esses turistas não são tão excitados quanto eu queria.}
 {262}{}{É melhor tua vagaba não ficar se escondendo de mim...}
-{263}{}{Go on, then. Walk on by.}
-{264}{}{Check out that soft juicy-fruit butt.}
-{265}{}{Baby, come let me squeeze that soft juicy-fruit butt o' yours.}
+{263}{}{Vá, então. Ande por aí.}
+{264}{}{Olhe para aquela bunda monumental.}
+{265}{}{Garota, venha e deixe que eu esprema esse teu cuzinho.}
 {266}{}{::Assobios::}
 {267}{}{::As bocas soltam um 'caramba.'::}
-{268}{}{You dancing at the casinos anytime soon, sweetness?}
-{269}{}{You want a real partner, you should try me, honey.}
-{270}{}{When you gonna set ME up in the biz, miss movie staaar?}
-{271}{}{Let me do you on camera, I'll show you star.}
-{272}{}{I can do you better than you ever been done.}
-{273}{}{You should let me teach you some tricks, woman.}
-{274}{}{Damn, body like that ought to be ill-legal.}
-{275}{}{Woman, it's a wonder the street don't melt beneath them legs o' yours.}
+{268}{}{Você vai dançar nos cassinos logo, doçura?}
+{269}{}{Você quer um parceiro de verdade, tente comigo, querida.}
+{270}{}{Quando você vai ME colocar no negócio, senhorita estrela de cinema?}
+{271}{}{Deixe eu fazer isso com você na câmera, e eu vou te mostrar o que é uma estrela.}
+{272}{}{Eu posso fazer você melhor como nunca.}
+{273}{}{Devia me deixar ensinar algumas coisas, mulher.}
+{274}{}{Porra, um corpo desse deveria ser ilegal.}
+{275}{}{Mulher, tenho que admirar que a rua não derreta por debaixo dessas suas pernas.}
 {276}{}{Come work for me, woman. I was pimp of the year two years running.}
 {277}{}{Baby, let me squeeze that soft juicy-fruit butt o' yours.}
 {278}{}{Daaaamn.}
-{290}{}{Woman better have my money...}
-{291}{}{These tourists ain't nearly as horn-ay as I'd like.}
+{290}{}{Espero que as meninas tenham meu dinheiro...}
+{291}{}{Esses turistas não são tão excitados quanto eu queria.}
 {292}{}{É melhor tua vagaba não ficar se escondendo de mim...}
-{293}{}{You looking for some action?}
+{293}{}{Procurando alguma ação?}
 {294}{}{You lookin' for some action? I give you a freebie, brother.}
 {295}{}{Let me extend a courtesy to you, friend. I give you one of my women for a whole night.}
 {296}{}{Talk to me, friend. I got a woman for you.}
@@ -60,11 +60,11 @@
 {300}{}{Say the word, an' I'll be watching yo back, brother.}
 {301}{}{I got your back, brother.}
 {302}{}{You the man, the MAIN man, know what I'm saying now?}
-{303}{}{Let me set you up, man. I was pimp of the year two years running.}
+{303}{}{Deixe que eu preparo você, cara. Fui o cafetão do ano por dois anos seguidos.}
 {304}{}{Gangster Man coming through...}
 {305}{}{Big man coming through...}
-{320}{}{Woman better have my money...}
-{321}{}{These tourists ain't nearly as horn-ay as I'd like.}
+{320}{}{Espero que as meninas tenham meu dinheiro...}
+{321}{}{Esses turistas não são tão excitados quanto eu queria.}
 {322}{}{É melhor tua vagaba não ficar se escondendo de mim...}
 {323}{}{Who is this beeeewt-ifull woman I sees?}
 {324}{}{Damn, I love a woman who knows her crime.}
@@ -74,8 +74,8 @@
 {328}{}{Say the word, an' I'll be watching yo back, sister.}
 {329}{}{I got your back, sister.}
 {330}{}{Love that raven black hair and gangsta attitude on you, woman.}
-{350}{}{Woman better have my money...}
-{351}{}{These tourists ain't nearly as horn-ay as I'd like.}
+{350}{}{Espero que as meninas tenham meu dinheiro...}
+{351}{}{Esses turistas não são tão excitados quanto eu queria.}
 {352}{}{É melhor tua vagaba não ficar se escondendo de mim...}
 {353}{}{You looking for some action, champ?}
 {354}{}{You need for some action, champ? I give you a freebie.}
@@ -91,8 +91,8 @@
 {364}{}{Let me set you up, champ. I was pimp of the year two years running.}
 {365}{}{Champ coming through...}
 {366}{}{Big man coming through...}
-{380}{}{Woman better have my money...}
-{381}{}{These tourists ain't nearly as horn-ay as I'd like.}
+{380}{}{Espero que as meninas tenham meu dinheiro...}
+{381}{}{Esses turistas não são tão excitados quanto eu queria.}
 {382}{}{É melhor tua vagaba não ficar se escondendo de mim...}
 {383}{}{Who is this beeeewt-ifull woman I sees?}
 {384}{}{Damn, I love a woman who knows how to beat a man up.}
@@ -105,8 +105,8 @@
 {391}{}{Don't you let me down in the ring, you hear?}
 {392}{}{I got 100 chips riding on you, sister. Don't be disappointing me now.}
 {393}{}{I do so love your raven black hair... and your wicked left hook.}
-{410}{}{Woman better have my money...}
-{411}{}{These tourists ain't nearly as horn-ay as I'd like.}
+{410}{}{Espero que as meninas tenham meu dinheiro...}
+{411}{}{Esses turistas não são tão excitados quanto eu queria.}
 {412}{}{É melhor tua vagaba não ficar se escondendo de mim...}
 {413}{}{You all looking for some action?}
 {414}{}{You two look like you need to get wet.}
@@ -124,20 +124,20 @@
 {426}{}{Myron, I don't want to catch you doing no flying camels on my women again.}
 {427}{}{Myron, I don't want to catch you doing no Cleveland Steamers on my women again.}
 {428}{}{Yo, Myron! You need a friend for tonight, Myron? I get you a sweeeet one.}
-{429}{}{These ain't slaves, these are professionals, hear what I'm saying?}
+{429}{}{Essas não são escravas, são profissionais, está ouvindo?}
 {430}{}{Myron! Boy, you still owe me for last week!}
 {431}{}{Can she suck a golf ball through a garden hose? Hell, yes.}
 {432}{}{I got women that make you a real man, only cost a few chips.}
 {433}{}{I got the mother lode in my stable.}
 {434}{}{What you doin' outta the stables, Myron? Lookin' for some talent?}
 {435}{}{Ol' man Mordino let you out finally, Myron?}
-{440}{}{Woman better have my money...}
-{441}{}{These tourists ain't nearly as horn-ay as I'd like.}
+{440}{}{Espero que as meninas tenham meu dinheiro...}
+{441}{}{Esses turistas não são tão excitados quanto eu queria.}
 {442}{}{É melhor tua vagaba não ficar se escondendo de mim...}
 {443}{}{Caught Myron doin' donkey punches on my woman again.}
 {444}{}{I better not catch Myron doing the Cleveland Steamer on my woman again.}
 {445}{}{You need a friend for tonight, brother? I get you a sweeeet one.}
-{446}{}{These ain't slaves, these are professionals, hear what I'm saying?}
+{446}{}{Essas não são escravas, são profissionais, está ouvindo?}
 {447}{}{I'm so bright, I make Reno look dim.}
 {448}{}{You can't find sweeter tail ANYWHERE else.}
 {449}{}{You got the chips, you can have a taste of heaven.}
@@ -151,8 +151,8 @@
 {457}{}{She's yo "wife," huh? Well, "hubbie," she better watch her ass in THIS town.}
 {458}{}{This is my corner. Don't pimp your bitch here.}
 {459}{}{I better not see you selling that ho on my street.}
-{470}{}{Woman better have my money...}
-{471}{}{These tourists ain't nearly as horn-ay as I'd like.}
+{470}{}{Espero que as meninas tenham meu dinheiro...}
+{471}{}{Esses turistas não são tão excitados quanto eu queria.}
 {472}{}{É melhor tua vagaba não ficar se escondendo de mim...}
 {473}{}{Yo slaver! You looking to get... wet?}
 {474}{}{Slaver, if you can find cheaper tail anywhere, I'll match it.}
@@ -179,8 +179,8 @@
 {495}{}{Don't you be doing no teabag on my woman now, slaver.}
 {496}{}{I might have some stock to sell you later if my woman mouths off to me again.}
 {497}{}{Slavers always a welcome sight in this town.}
-{500}{}{Woman better have my money...}
-{501}{}{These tourists ain't nearly as horn-ay as I'd like.}
+{500}{}{Espero que as meninas tenham meu dinheiro...}
+{501}{}{Esses turistas não são tão excitados quanto eu queria.}
 {502}{}{É melhor tua vagaba não ficar se escondendo de mim...}
 {503}{}{I'm so bright, I make Reno look dim.}
 {504}{}{You need a friend for tonight, slaver? I get you a sweeeet young thing, male or female, whatever
@@ -193,10 +193,10 @@
 {510}{}{I ain't looking to buy any slaves, but I might be looking to sell some a lil' later.}
 {511}{}{I got this one woman you should look at, slaver; she has this real soft juicy-fruit butt.}
 {512}{}{Slavers always a welcome sight in this town.}
-{520}{}{Woman better have my money...}
-{521}{}{These tourists ain't nearly as horn-ay as I'd like.}
+{520}{}{Espero que as meninas tenham meu dinheiro...}
+{521}{}{Esses turistas não são tão excitados quanto eu queria.}
 {522}{}{É melhor tua vagaba não ficar se escondendo de mim...}
-{523}{}{You looking for some action?}
+{523}{}{Procurando alguma ação?}
 {524}{}{Você... quer suar um pouco?}
 {525}{}{You can't find sweeter tail ANYWHERE else.}
 {526}{}{I'm so bright, I make Reno look dim.}
@@ -204,27 +204,27 @@
 {528}{}{Talk to me, friend. I got a woman you can wear for the WHOLE night.}
 {529}{}{You got the chips, you can have a taste of heaven.}
 {530}{}{You need a friend for tonight, brother? I get you a sweeeet one.}
-{531}{}{These ain't slaves, these are professionals, hear what I'm saying?}
+{531}{}{Essas não são escravas, são profissionais, está ouvindo?}
 {532}{}{The finest ladies in all o' New Reno. Yours for the asking... if you got the chips.}
 {533}{}{Can she suck a golf ball through a garden hose? Hell, yes.}
 {534}{}{I got women that make you a real man, only cost a few chips.}
 {535}{}{I got the mother lode in my stable.}
-{536}{}{Let me set you up, man. I was pimp of the year two years running.}
+{536}{}{Deixe que eu preparo você, cara. Fui o cafetão do ano por dois anos seguidos.}
 {537}{}{I got this one woman you try out; she has this real soft juicy-fruit butt.}
 {538}{}{Don't you be doing no teabag on my woman now.}
 {539}{}{I better not catch you doing no donkey punches on my women.}
 {540}{}{You better not be giving my women no purple mushrooms, hear?}
 {541}{}{I catch you doing a Cleveland Steamer on ANY of my women, and I will KILL you.}
-{542}{}{You looking for some action?}
+{542}{}{Procurando alguma ação?}
 {543}{}{I got the finest whores in all o' New Reno. Just try 'em and see.}
-{550}{}{Woman better have my money...}
-{551}{}{These tourists ain't nearly as horn-ay as I'd like.}
+{550}{}{Espero que as meninas tenham meu dinheiro...}
+{551}{}{Esses turistas não são tão excitados quanto eu queria.}
 {552}{}{É melhor tua vagaba não ficar se escondendo de mim...}
 {553}{}{::Scoping you out::}
 {554}{}{Yo, sweetness, come talk to me for a moment.}
 {555}{}{Come here, I got a pro-position for you.}
-{556}{}{Check out that soft juicy-fruit butt.}
-{557}{}{Baby, come let me squeeze that soft juicy-fruit butt o' yours.}
+{556}{}{Olhe para aquela bunda monumental.}
+{557}{}{Garota, venha e deixe que eu esprema esse teu cuzinho.}
 {558}{}{Hey, beautiful. You interested in doing some work?}
 {559}{}{I got some work for you; benefit is, you get to lie down on the job.}
 {560}{}{You need a place to stay, sugar and spice?}

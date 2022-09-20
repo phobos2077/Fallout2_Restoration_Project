@@ -4,7 +4,7 @@
  confident, composed demeanor.}
 {103}{}{.}
 {104}{slk1}{Hey, fren. Our name be Sulik. What you be needin'.}
-{105}{}{Uh?}
+{105}{}{Eh?}
 {107}{slk2a}{Oh, no. Don't be talking at us. One of you took our sis. Bad karma... for you.}
 {108}{slk2b}{Oh, no. We and I don't talk to no slave owner.}
 {109}{slk3}{Most people have evil spirits. You? You have stupid spirits.
@@ -13,14 +13,14 @@
 {111}{}{Uh-huh!}
 {112}{}{Gug! (you look concerned)}
 {113}{slk4}{Don't want a hole? Go see Torr, he your spirit-brother. He work for Maida-with-no-smiles. Just like we and I.}
-{114}{}{Uh-huh.}
+{114}{}{Aha. }
 {115}{}{Huh?}
 {116}{slk5a}{Ah, shit, fren. Slavers took our sister. We went drinking, then went breaking. Now paying off Maida. When
  that done, we go find sis.}
 {117}{slk5b}{Now we be getting ready to leave. Go look for sis. She snatched by slavers.}
-{118}{}{Uh?}
+{118}{}{Eh?}
 {119}{}{Hmm, how much do you have to pay before you can go free?}
-{120}{}{Uh-huh.}
+{120}{}{Aha. }
 {121}{}{I'm looking for something. Maybe you could join me.}
 {122}{slk6}{We owe Maida $350. You heading south? We walkabout with you and look for sis. You
  having $350?}
@@ -101,8 +101,8 @@
 {320}{slk26a}{They don't want to talk right now.}
 {321}{slk26b}{The spirits are sometimes hard to understand. They see things you and we can't.}
 {322}{slk26c}{Spirits be willing to talk. What you want?}
-{323}{}{Uh?}
-{324}{}{Nuh.}
+{323}{}{Eh?}
+{324}{}{Nä.}
 {325}{}{Nuh-uh.}
 {326}{}{What do they tell you about this place?}
 {327}{}{What do they tell you about our chances?}
@@ -225,7 +225,7 @@
 {755}{slk43b}{Yeah. You may be ugly outside, but you're way cool inside. We're free to find sis now.}
 {756}{slk43c}{Oh, yeah. Way cool. We'd go with you, but you're already a crowd.}
 {757}{}{Nuh-uh.}
-{758}{}{Uh-huh.}
+{758}{}{Aha. }
 {759}{}{Not right now, thanks.}
 {760}{}{That'd be great.}
 {761}{slk44a}{We and I know many things. Travel from Great Salt Water to home of biting lizards.}
@@ -375,7 +375,7 @@
 {923}{slk74}{No way we be frens with Child Killer.}
 {924}{slk75}{We think you're making a big mistake, but OK.}
 {925}{slk76}{We be hearing you helping Torr. Him losing any more Brahmin is big trouble.}
-{926}{}{Uh?}
+{926}{}{Eh?}
 {927}{}{Uh. Bye.}
 {928}{}{Well, he sure looked as though he needed help. I have some questions for you.}
 {929}{}{He needed the help all right. I need some local information.}
@@ -402,7 +402,7 @@
 {948}{slk80b}{Torr be the butt of many jokes. So him think finding and killing this bad spirit
  make him hero. We think he in trouble. You be helping Torr?}
 {949}{}{Huh-uh!}
-{950}{}{Uh-huh.}
+{950}{}{Aha. }
 {951}{}{I'll go look for him right away.}
 {952}{}{Of course, I'll help him. I need some information first though.}
 {953}{}{We should probably give him a little more time. He can't be a hero if we step in. I
@@ -412,7 +412,7 @@
  Bone say you have big path to travel.}
 {956}{slk81b}{You be having us go with you now?}
 {957}{}{Nuh-uh.}
-{958}{}{Uh-huh.}
+{958}{}{Aha. }
 {959}{}{You should return to your village with her to make sure she's safe. I'll miss you, Sulik.}
 {960}{}{Let's go, Sulik.}
 {961}{slk82a}{By the time you're done, won't be a bad person in the world.}

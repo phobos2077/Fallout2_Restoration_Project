@@ -27,7 +27,7 @@
 {204}{}{Yessur?}
 {205}{}{Ken I borrow sum teef?}
 {206}{}{You need spotter?}
-{207}{}{Uh-huh.}
+{207}{}{Aha. }
 {208}{}{::Nods stupidly at everything you say::}
 {209}{}{U big pershun. Me small.}
 {210}{}{U tough. Me weak.}

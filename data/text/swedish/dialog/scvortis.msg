@@ -9,7 +9,7 @@
 {108}{}{}
 {109}{}{Just got some questions.}
 {110}{}{I'm looking for work.}
-{111}{}{Uh?}
+{111}{}{Eh?}
 {112}{}{Not outhouse? Me go away.}
 {113}{}{What's this place do?}
 {114}{}{Nothing. Wrong place.}

@@ -310,7 +310,7 @@
 {620}{}{Eu faço banco.}
 {621}{}{Às vezes, beber demais não é suficiente.}
 {622}{}{Malditos jogadores dos cassinos...}
-{623}{}{A low roller is someone who comes into town and bets only a chip or two at the tables.}
+{623}{}{Um apostador baixo é alguém que vem à cidade e aposta apenas uma ou duas fichas nas mesas.}
 {624}{}{A Casa ta contra mim.}
 {625}{}{A fortuna ta contra mim.}
 {626}{}{Ainda bem tiraram esse cara daqui...}
@@ -325,7 +325,7 @@
 {635}{}{Vi outro drogado que teve overdose essa manhã. Tinha moscas por toda a boca, e estava SORRINDO.}
 {636}{}{TENTEI parar com isso, mas...}
 {637}{}{Pare de me incomodar.}
-{638}{}{Look, I ain't got the time to talk to you right now.}
+{638}{}{Olha, eu não tenho tempo para falar com você agora.}
 {650}{}{Seu amigo tem um osso no nariz.}
 {651}{}{Todo mundo no seu grupinho enfiam osso no nariz para fazer algum teste?}
 {652}{}{Esse cara com você é da tribo 'enfia-um-osso-no-meu-nariz'?}
@@ -350,7 +350,7 @@
 {671}{}{Eu faço banco.}
 {672}{}{Às vezes, beber demais não é suficiente.}
 {673}{}{Malditos jogadores dos cassinos...}
-{674}{}{A low roller is someone who comes into town and bets only a chip or two at the tables.}
+{674}{}{Um apostador baixo é alguém que vem à cidade e aposta apenas uma ou duas fichas nas mesas.}
 {675}{}{A Casa ta contra mim.}
 {676}{}{A fortuna ta contra mim.}
 {677}{}{Ainda bem tiraram esse cara daqui...}
@@ -365,9 +365,9 @@
 {686}{}{Vi outro drogado que teve overdose essa manhã. Tinha moscas por toda a boca, e estava SORRINDO.}
 {687}{}{TENTEI parar com isso, mas...}
 {688}{}{Pare de me incomodar.}
-{689}{}{Look, I ain't got the time to talk to you right now.}
-{690}{}{She's yer "wife," huh? Can I borrow her fer an hour or two?}
-{691}{}{Wanna swap wives for a while?}
+{689}{}{Olha, eu não tenho tempo para falar com você agora.}
+{690}{}{Ela é sua "esposa", hein? Pode me emprestar por uma ou duas horas?}
+{691}{}{Quer fazer uma troca de esposas por um tempo?}
 {692}{}{Essa mulher ai está a venda?}
 {693}{}{Por quanto você vende essa mulher que está com você?}
 {694}{}{Essa mulher que está do seu lado é bem delicinha.}
@@ -375,15 +375,15 @@
 {696}{}{Quanto por essa saia que você está vestindo?}
 {697}{}{A Sra. Bishop uma bunda boa.}
 {700}{}{Vou ter um pouco de ação esta noite!}
-{701}{}{Find a whore, get some play.}
+{701}{}{Encontre uma puta, de uma relaxada.}
 {702}{}{A Sra. Bishop uma bunda boa.}
 {703}{}{Ouvi falar que tem testes de drogas sendo feitos em escravos ao norte de New Reno.}
 {704}{}{A Gólgota fica ao sul de Reno, no deserto.}
 {705}{}{Posso ser pobre, mas não de espírito.}
 {706}{}{Não sou pobre, só tenho pouca sorte.}
 {707}{}{Tem mais quantos tribais pra vir nessa cidade?}
-{708}{}{Tell the rest of your tribe to stay at home.}
-{709}{}{Another primate? You tribals breed like mantises.}
+{708}{}{Fala ao resto de sua tribo para ficar em casa.}
+{709}{}{Outro primata? Vocês tribais se reproduzem mais que coelhos.}
 {710}{}{Aquele fedor da Gólgota estava horrível ontem à noite...}
 {711}{}{Droga! Olha, eu tinha 53 tampas, então...}
 {712}{}{É melhor ter cuidado por estas bandas, ou vai parar em Gólgota.}
@@ -394,7 +394,7 @@
 {717}{}{Eu faço banco.}
 {718}{}{Às vezes, beber demais não é suficiente.}
 {719}{}{Malditos jogadores dos cassinos...}
-{720}{}{A low roller is someone who comes into town and bets only a chip or two at the tables.}
+{720}{}{Um apostador baixo é alguém que vem à cidade e aposta apenas uma ou duas fichas nas mesas.}
 {721}{}{A Casa ta contra mim.}
 {722}{}{A fortuna ta contra mim.}
 {723}{}{Ainda bem tiraram esse cara daqui...}
@@ -409,9 +409,9 @@
 {732}{}{Vi outro drogado que teve overdose essa manhã. Tinha moscas por toda a boca, e estava SORRINDO.}
 {733}{}{TENTEI parar com isso, mas...}
 {734}{}{Pare de me incomodar.}
-{735}{}{Look, I ain't got the time to talk to you right now.}
+{735}{}{Olha, eu não tenho tempo para falar com você agora.}
 {736}{}{Pode ir para centro, ver se há novos homens na cidade...}
-{737}{}{Glad they put that asshole on the rack...}
+{737}{}{Ainda bem que se livraram desse idiota...}
 {1203}{}{!}
 {1204}{}{! Você chuta bundas! Você chuta BUNDAS!}
 {1205}{}{! Você tem tanto DINHEIRO!}

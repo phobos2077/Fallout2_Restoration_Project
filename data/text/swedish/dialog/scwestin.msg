@@ -22,7 +22,7 @@
 {121}{}{What do you mean?}
 {122}{}{Shut up.}
 {123}{}{Oh - simple are you? What a sad thing. It must be a hard cross to bear. Listen - you go, talk to Fee-lix. He give you job. Savvy?}
-{124}{}{Uh-huh.}
+{124}{}{Aha. }
 {125}{}{What do you think? You know too much. What if you come back to NCR and sell him out - or threaten to? You're as good as dead already. On the other hand, I've got a better offer.}
 {126}{}{Such as?}
 {127}{}{I don't believe you.}
