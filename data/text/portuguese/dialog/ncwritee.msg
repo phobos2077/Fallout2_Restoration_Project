@@ -52,7 +52,7 @@
 {288}{}{That some kind of rovin' brain display case you got with you?}
 {289}{}{That a robot? I ain't never seen one of those before.}
 {295}{}{Diga que aquilo não é um mutante.}
-{296}{}{That a mutant?}
+{296}{}{Isso é um mutante?}
 {297}{}{Holy brahmin turds. Mutants in New Reno. Must mean trouble...}
 {298}{}{Aquele mutante é um dos grandes.}
 {299}{}{That mutant o' yours better watch himself round here, y'hear me?}

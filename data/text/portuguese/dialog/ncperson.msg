@@ -66,9 +66,9 @@
 {281}{}{Quero ver melhor esses grandes olhos castanhos.}
 {282}{}{Puuuuta merda.}
 {283}{}{Olha só esses faróis acesos.}
-{284}{}{I bet she has back problems.}
+{284}{}{Aposto que ela vai trazer problemas.}
 {285}{}{Você não parece tão forte, Sr. Prizefighter.}
-{286}{}{I got 20 chips riding on you!}
+{286}{}{Aposto 20 tampas em você!}
 {287}{}{Ei, campeão! Aquela última luta foi ótima!}
 {288}{}{Vi você lutando no ringue. Que belo gancho que você deu.}
 {289}{}{Você vai cair? Eu ganhei 30 conto apostando em você.}
@@ -95,152 +95,152 @@
 {314}{}{Eu acho que ela está me dando o olhar da morte. Vou cair fora daqui.}
 {315}{}{Fiquei sabendo que ela matou três assassinos só ontem.}
 {316}{}{Que bunda! Uh, bunda má, é isso.}
-{320}{}{What's with all the slavers around here recently?}
+{320}{}{Por que tem tantos escravistas por aqui esses tempos?}
 {321}{}{Eu não tinha visto esse escravista por aqui...}
-{322}{}{I wonder if the slaver's headed to the Stables...}
-{323}{}{Wonder if that slaver's got any stock...}
-{324}{}{You headed to the stables, slaver?}
-{325}{}{ANOTHER slaver. Mordino must have discovered a gold mine somewhere...}
-{326}{}{Slaver's bound for Golgotha.}
-{327}{}{That stink from Golgotha was damn awful last night...}
-{328}{}{Friggin' slavers...}
+{322}{}{Eu me pergunto se o escravista está indo para os estábulos...}
+{323}{}{Gostaria de saber se aquele escravista tem algum estoque...}
+{324}{}{Você foi para os estábulos, escravista?}
+{325}{}{OUTRO escravista. Mordino deve ter descoberto uma mina de ouro em algum lugar...}
+{326}{}{O escravista está indo para a Gólgota.}
+{327}{}{Aquele fedor da Gólgota estava horrível ontem à noite...}
+{328}{}{Malditos escravistas...}
 {329}{}{Todos podem ter sorte…}
-{330}{}{Heard they got a new crop o' slaves.}
-{331}{}{New crop of slaves in the whorehouse.}
-{332}{}{Conjunction, Junction.}
+{330}{}{Ouvi dizer que eles têm uma nova leva de escravos.}
+{331}{}{Nova leva de escravas para o bordel..}
+{332}{}{Conjunção, união.}
 {333}{}{Eu faço banco.}
-{334}{}{Sometimes too much to drink is not enough.}
-{335}{}{Damned crossroaders in the casinos...}
+{334}{}{Às vezes, beber demais não é suficiente.}
+{335}{}{Malditos jogadores dos cassinos...}
 {336}{}{Ótimo, outro sortudo.}
 {337}{}{A Casa ta contra mim.}
 {338}{}{A fortuna ta contra mim.}
-{339}{}{Glad they put that guy on the rack...}
+{339}{}{Ainda bem tiraram esse cara daqui...}
 {340}{}{Cabra imundo...}
-{341}{}{Slavers walking round like they own the place...}
+{341}{}{Escravistas andando por aí como se fossem donos do lugar...}
 {342}{}{A Casa está a meu favor.}
-{343}{}{Bad luck, ill wind, not good times, not good times...}
-{344}{}{Reno's a-heating up, time ta move on.}
-{345}{}{That Bishop daughter is out of control.}
-{346}{}{If the Temperance Union lectures me one more time...}
-{347}{}{Saw Tully passed out in the gutter again.}
-{348}{}{Damn Den gutter trash.}
-{349}{}{I got to get out of this town.}
-{350}{}{Saw another O.D. this morning. Flies all over his mouth. And he was SMILING.}
-{351}{}{TRIED to quit, but...}
-{352}{}{Slaver better watch it in this town...}
-{353}{}{I hate this goddamn town.}
-{354}{}{I've been in this town too long.}
-{355}{}{This town's great... except for the tourists.}
-{356}{}{This town's great... except for the slavers.}
-{357}{}{This town's great... except for the pimps and whores.}
+{343}{}{Má sorte, vento ruim, não são bons tempos, não são bons tempos...}
+{344}{}{Reno está esquentando, é hora de agir.}
+{345}{}{Aquela filha do Bishop está descontrolada.}
+{346}{}{Se a União da Temperança me repreender de novo...}
+{347}{}{Vi Tully largado na sarjeta outra vez.}
+{348}{}{Essa bosta de lixo da sarjeta do Den.}
+{349}{}{Preciso sair desta cidade.}
+{350}{}{Vi outro drogado que teve overdose essa manhã. Tinha moscas por toda a boca, e estava SORRINDO.}
+{351}{}{TENTEI parar com isso, mas...}
+{352}{}{Escravista, é melhor você tomar cuidado nessa cidade...}
+{353}{}{Eu odeio essa cidade do capeta.}
+{354}{}{Estou nesta cidade há muito tempo.}
+{355}{}{Esta cidade é boa... exceto pelos turistas.}
+{356}{}{Esta cidade é ótima... exceto pelos escravistas.}
+{357}{}{Esta cidade é boa... exceto pelos cafetões e putas.}
 {365}{}{Isso é um tipo de caça-níquel que está te seguindo por aí?}
 {366}{}{Isso é um robô caça-níqueis?}
 {367}{}{O seu robô faz truques? Uh…truques de mágica, que eu quis dizer.}
 {375}{}{Diga que aquilo não é um mutante.}
-{376}{}{That a mutant?}
-{377}{}{Holy shit. Mutants in New Reno. Must mean trouble.}
+{376}{}{Isso é um mutante?}
+{377}{}{Puta merda, mutantes em New Reno. Deve ser problemas.}
 {378}{}{Aquele mutante é um dos grandes.}
-{379}{}{Filthy mutant-lover...}
-{385}{}{Yer friend has a bone through his nose.}
-{386}{}{Everybody in yer little band stick a bone through their nose to prove themselves?}
-{387}{}{That fella with you from the 'stick-a-bone-up-my-honker' tribe?}
-{388}{}{That fella with the bone in his nose is proof that tribals ain't never gonna be civilized.}
-{389}{}{That fella got a bone in his nose?}
+{379}{}{Olha esse imundo, amigo de mutantes...}
+{385}{}{Seu amigo tem um osso no nariz.}
+{386}{}{Todo mundo no seu grupinho enfiam osso no nariz para fazer algum teste?}
+{387}{}{Esse cara com você é da tribo 'enfia-um-osso-no-meu-nariz'?}
+{388}{}{Esse maluco com osso no nariz é a prova de que tribais nunca serão civilizados.}
+{389}{}{Esse cara tem um osso no nariz?}
 {390}{}{Aquele cara tem um osso enfiado no nariz que é do tamanho do meu braço. Deus do céu.}
-{391}{}{I don't even want to know how that friend o' yours got that bone in his nose.}
-{392}{}{Great. It's one of those tribal shit-kickers.}
-{393}{}{How many tribals are gonna be coming to this town?}
-{394}{}{Another primate.}
-{395}{}{Boy's bound for Golgotha.}
-{396}{}{That stink from Golgotha was damn awful last night...}
-{397}{}{Friggin' tourists.}
+{391}{}{Eu nem quero saber como seu amigo colocou um osso no próprio nariz.}
+{392}{}{Maravilha, é um daqueles tribais comedores de merda.}
+{393}{}{Tem mais quantos tribais pra vir nessa cidade?}
+{394}{}{Outro primata.}
+{395}{}{O rapaz está indo para a Gólgota.}
+{396}{}{Aquele fedor da Gólgota estava horrível ontem à noite...}
+{397}{}{Turistas do caralho.}
 {398}{}{Todos podem ter sorte…}
-{399}{}{Heard they got a new crop o' slaves.}
-{400}{}{Conjunction, Junction.}
+{399}{}{Ouvi dizer que eles têm uma nova leva de escravos.}
+{400}{}{Conjunção, união.}
 {401}{}{Eu faço banco.}
-{402}{}{Sometimes too much to drink is not enough.}
-{403}{}{Damned crossroaders in the casinos...}
+{402}{}{Às vezes, beber demais não é suficiente.}
+{403}{}{Malditos jogadores dos cassinos...}
 {404}{}{A Casa ta contra mim.}
 {405}{}{A fortuna ta contra mim.}
-{406}{}{Glad they put that guy on the rack...}
+{406}{}{Ainda bem tiraram esse cara daqui...}
 {407}{}{Cabra imundo...}
 {408}{}{A Casa está a meu favor.}
-{409}{}{Bad luck, ill wind, not good times, not good times...}
-{410}{}{Reno's a-heating up, time ta move on.}
-{411}{}{That Bishop daughter is out of control.}
-{412}{}{If the Temperance Union lectures me one more time...}
-{413}{}{Saw Tully passed out in the gutter again.}
-{414}{}{Damn ferner.}
-{415}{}{That one's not from around here.}
-{416}{}{I got to get out of this town.}
-{417}{}{Saw another O.D. this morning. Flies all over his mouth. And he was SMILING.}
-{418}{}{TRIED to quit, but...}
-{419}{}{Why risk jumping a claim like that?}
-{420}{}{I hate this goddamn town.}
-{421}{}{I've been in this town too long.}
-{422}{}{This town's great... except for the tourists.}
-{423}{}{This town's great... except for the slavers.}
-{424}{}{This town's great... except for the pimps and whores.}
-{425}{}{You selling that woman o' yours?}
-{426}{}{How much for that woman you got with you?}
-{427}{}{That woman you got with you shore is pretty.}
-{428}{}{Can that woman o' yours cook? If so, I'll take her.}
-{429}{}{How much for that skirt you got with you?}
-{430}{}{Check out the new boss o' the walk.}
-{431}{}{Gonna get some action to-night!}
-{432}{}{Mrs. Bishop shore got a sweet ass.}
-{450}{}{Mrs. Bishop's shore got a sweet ass.}
-{451}{}{If the Temperance Union lectures me one more time...}
-{452}{}{Great. It's one of those tribal shit-kickers.}
-{453}{}{How many tribals are gonna be coming to this town?}
-{454}{}{Another primate.}
-{455}{}{Tribal's bound for Golgotha.}
-{456}{}{That stink from Golgotha was damn awful last night...}
-{457}{}{Can't find his ass in a sandstorm...}
-{458}{}{Friggin' tourists.}
+{409}{}{Má sorte, vento ruim, não são bons tempos, não são bons tempos...}
+{410}{}{Reno está esquentando, é hora de agir.}
+{411}{}{Aquela filha do Bishop está descontrolada.}
+{412}{}{Se a União da Temperança me repreender de novo...}
+{413}{}{Vi Tully largado na sarjeta outra vez.}
+{414}{}{Maldito campista.}
+{415}{}{Esse não é daqui.}
+{416}{}{Preciso sair desta cidade.}
+{417}{}{Vi outro drogado que teve overdose essa manhã. Tinha moscas por toda a boca, e estava SORRINDO.}
+{418}{}{TENTEI parar com isso, mas...}
+{419}{}{Por que arriscar uma apreensão de mineração como essa?}
+{420}{}{Eu odeio essa cidade do capeta.}
+{421}{}{Estou nesta cidade há muito tempo.}
+{422}{}{Esta cidade é boa... exceto pelos turistas.}
+{423}{}{Esta cidade é ótima... exceto pelos escravistas.}
+{424}{}{Esta cidade é boa... exceto pelos cafetões e putas.}
+{425}{}{Essa mulher ai está a venda?}
+{426}{}{Por quanto você vende essa mulher que está com você?}
+{427}{}{Essa mulher que está do seu lado é bem delicinha.}
+{428}{}{Essa sua mulher sabe cozinhar? Se sim, eu levo.}
+{429}{}{Quanto por essa saia que você está vestindo?}
+{430}{}{Olhe para o novo mestre da rua.}
+{431}{}{Vou ter um pouco de ação esta noite!}
+{432}{}{A Sra. Bishop uma bunda boa.}
+{450}{}{A Sra. Bishop tem uma boa traseira.}
+{451}{}{Se a União da Temperança me repreender de novo...}
+{452}{}{Maravilha, é um daqueles tribais comedores de merda.}
+{453}{}{Tem mais quantos tribais pra vir nessa cidade?}
+{454}{}{Outro primata.}
+{455}{}{Esse tribal vai direto pra Gólgota.}
+{456}{}{Aquele fedor da Gólgota estava horrível ontem à noite...}
+{457}{}{Traduzir um jogo pode ser duro as vezes...}
+{458}{}{Turistas do caralho.}
 {459}{}{Todos podem ter sorte…}
-{460}{}{Heard they got a new crop o' slaves.}
-{461}{}{Conjunction, Junction.}
+{460}{}{Ouvi dizer que eles têm uma nova leva de escravos.}
+{461}{}{Conjunção, união.}
 {462}{}{Eu faço banco.}
-{463}{}{Sometimes too much to drink is not enough.}
-{464}{}{Damned crossroaders in the casinos...}
+{463}{}{Às vezes, beber demais não é suficiente.}
+{464}{}{Malditos jogadores dos cassinos...}
 {465}{}{Ótimo, outro sortudo.}
 {466}{}{A Casa ta contra mim.}
 {467}{}{A fortuna ta contra mim.}
-{468}{}{Glad they put that guy on the rack...}
+{468}{}{Ainda bem tiraram esse cara daqui...}
 {469}{}{Cabra imundo...}
 {470}{}{A Casa está a meu favor.}
-{471}{}{Bad luck, ill wind, not good times, not good times...}
-{472}{}{Reno's a-heating up, time ta move on.}
-{473}{}{That Bishop daughter is out of control.}
-{474}{}{Saw Tully passed out in the gutter again.}
-{475}{}{Damn ferner.}
-{476}{}{That one's not from around here.}
-{477}{}{I got to get out of this town.}
-{478}{}{Saw another O.D. this morning. Flies all over his mouth. And he was SMILING.}
-{479}{}{TRIED to quit, but...}
-{480}{}{Why risk jumping a claim like that?}
-{481}{}{I hate this goddamn town.}
-{482}{}{I've been in this town too long.}
-{483}{}{This town's great... except for the tourists.}
-{484}{}{This town's great... except for the slavers.}
-{485}{}{This town's great... except for the pimps and whores.}
-{486}{}{Might head downtown, see if any new men are in town...}
-{487}{}{If the Temperance Union lectures me one more time...}
+{471}{}{Má sorte, vento ruim, não são bons tempos, não são bons tempos...}
+{472}{}{Reno está esquentando, é hora de agir.}
+{473}{}{Aquela filha do Bishop está descontrolada.}
+{474}{}{Vi Tully largado na sarjeta outra vez.}
+{475}{}{Maldito campista.}
+{476}{}{Esse não é daqui.}
+{477}{}{Preciso sair desta cidade.}
+{478}{}{Vi outro drogado que teve overdose essa manhã. Tinha moscas por toda a boca, e estava SORRINDO.}
+{479}{}{TENTEI parar com isso, mas...}
+{480}{}{Por que arriscar uma apreensão de mineração como essa?}
+{481}{}{Eu odeio essa cidade do capeta.}
+{482}{}{Estou nesta cidade há muito tempo.}
+{483}{}{Esta cidade é boa... exceto pelos turistas.}
+{484}{}{Esta cidade é ótima... exceto pelos escravistas.}
+{485}{}{Esta cidade é boa... exceto pelos cafetões e putas.}
+{486}{}{Pode ir para centro, ver se há novos homens na cidade...}
+{487}{}{Se a União da Temperança me repreender de novo...}
 {490}{}{Você detonou fácil aqueles idiotas da Enclave! Fácil de mais!}
 {491}{}{Eu sempre soube que o Presidente queria matar a todos nós.}
 {492}{}{O Presidente tá vivo? Quando foi a última eleição?}
 {493}{}{Você acabou com a Enclave facilmente, }
 {494}{}{A Enclave nunca mexeu comigo, mas eu estou feliz que eles se foram.}
 {495}{}{Eu não consigo acreditar que a Enclave continuou lutando a guerra durante todos esses anos. Idiotas.}
-{496}{}{I felt a great disturbance... as if a hundred evil bastards on an oil derrick suddenly cried out in terror and were suddenly silenced. Strange.}
+{496}{}{Senti uma grande perturbação... como se uma cambada de vagabundos do mal em uma plataforma de petróleo de repente gritassem de terror e fossem subitamente silenciados. Estranho.}
 {497}{}{Parabéns por destruir a Enclave, }
-{498}{}{This game was brought to you by the letter Z.}
+{498}{}{Aqui temos um diálogo que quebra a quarta parede e não faz sentido ao traduzido para o português.}
 {499}{}{Nós sentimos falta do Tim Cain. Ele costumava cozinhar pães maravilhosos. E ele costumava nos espancar como se fossemos crianças.}
-{500}{}{Yeah, yeah, I'm the Avatar, too.}
-{501}{}{New Reno was designed by Chris Avellone and Tom French. Rumor is that they will marry soon.}
-{502}{}{Feargus got that frowny-look on his face when he saw how many float text messages I have.}
-{503}{}{You score is 192 out of 208. You really should have used the mutated toe on Horrigan.}
+{500}{}{Sim, sim, eu sou um Avatar também.}
+{501}{}{New Reno foi desenhado por Chris Avellone e Tom French. Não sei quem são mas devem ser dois perturbados para criar um lugar borbonico igual esse.}
+{502}{}{A tradução deveria ter sido terminada bem antes, mas o ADM do site resolveu atualizar essa bagaça, depois deu pau ao traduzir, uma zona.}
+{503}{}{Sua pontuação é 192 de 208. Você deveria ter usado o dedo mutante em Horrigan.}
 {510}{}{Você está procurando pelo seu irmão Robby? Você sabe, o Robô? Aw, esquece.}
 {511}{}{Me desculpa, por eu estar no seu caminho? Eu vou deixar a cidade.}
 {512}{}{Me desculpa, por eu estar respirando seu ar? Eu vou parar.}
@@ -249,18 +249,18 @@
 {515}{}{Beeeeela armadura. Tem ar condicionado?}
 {516}{}{Você não fica com calor aí?}
 {517}{}{Perdeu seu coração, homem de lata?}
-{518}{}{Uh, hello, sir... ma'am... whatever you are.}
+{518}{}{Uh, olá, senhor... senhora... seja lá o que for.}
 {519}{}{Tem alguma coisa errada, senhor…madame…uh, o que quer que você seja?}
-{520}{}{Are you some kind of new walking arcade game?}
-{521}{}{Are you one of those new console systems that are coming out?}
+{520}{}{Você é algum tipo de novo jogador de arcade ambulante?}
+{521}{}{Você é um daqueles novos sistemas de console que estão sendo lançados?}
 {522}{}{Não, eu NÃO vou colocar óleo nas suas juntas.}
-{523}{}{You look like you were on your way to one of those battle-mech PC games and got lost.}
+{523}{}{Deus abençoe os tradutores desse game, inclusive o papai aqui que traduziu mais da metade.}
 {524}{}{É, é, 'clank-whirrr-clank' pra você também.}
 {525}{}{Se você pensa que essa armadura me intimida, você está certo.}
 {540}{}{Você ta vendendo?}
 {541}{}{Eu posso comprar suas roupas? Eu digo, agora?}
 {542}{}{Eu SABIA que devia ter me barbeado hoje.}
-{543}{}{Come chat with me for a sec, honey.}
+{543}{}{Vamos conversar um segundo, boneca.}
 {544}{}{Vamos lá, lábios-de-mel…ande comigo.}
 {545}{}{Pequena ninfa ligeira, não é?}
 {546}{}{Eu tomei banho por você.}
@@ -270,147 +270,147 @@
 {550}{}{me desculpe. Eu tenho que ir ao banheiro e er, ajeitar meu cabelo por um segundo.}
 {551}{}{Eu queria ser suas roupas de baixo.}
 {552}{}{Eu gostaria de cheirar seu shorts.}
-{553}{}{You are one foxy lady.}
+{553}{}{Como é como uma raposa... astuta.}
 {554}{}{Me foda se eu estiver errado, querida, mas você não quer me beijar?}
 {555}{}{Droga. Todas essas curvas e eu sem freio nenhum.}
 {556}{}{Sabe o que ficaria bem em você? Eu.}
 {557}{}{Suas calças podem não ser a melhor coisa na Terra, mas elas estão perto.}
-{558}{}{Nice bazoongas!}
-{559}{}{Nice begonias!}
-{560}{}{Those headlights of yours are gonna blind me.}
-{561}{}{Got back problems?}
-{580}{}{Hello, sir. How are you?}
-{581}{}{Anything wrong, sir?}
+{558}{}{Belos peitões!}
+{559}{}{Oia que cuzão gostoso!}
+{560}{}{Seus faróis vão me cegar, meu bem.}
+{561}{}{Você tem problemas nas costas?}
+{580}{}{Olá, senhor. Como você está?}
+{581}{}{Alguma coisa errada, senhor?}
 {582}{}{Me desculpa, por eu estar no seu caminho? Eu vou deixar a cidade.}
 {583}{}{Me desculpa, por eu estar respirando seu ar? Eu vou parar.}
 {584}{}{Dê minhas saudações para o seu chefe.}
 {585}{}{Olha, por favor... Eu não quero problema nenhum.}
-{586}{}{Hello, ma'am. How are you?}
-{587}{}{Anything wrong, ma'am?}
-{600}{}{What's with all the slavers around here recently?}
+{586}{}{Olá, madame. Como você está?}
+{587}{}{Alguma coisa errada, madame?}
+{600}{}{Por que tem tantos escravistas por aqui esses tempos?}
 {601}{}{Nunca te vi por aqui antes...}
-{602}{}{If yer lookin' to sell slaves, try the Mordinos.}
-{603}{}{You headed to the stables? They keep most of the slaves there.}
-{604}{}{Show me your stock.}
-{605}{}{If you're looking to sell slaves, check with the Mordinos.}
-{606}{}{I hate this goddamn town.}
-{607}{}{I've been in this town too long.}
-{608}{}{This town's great... except for the tourists.}
-{609}{}{This town's great... except for the slavers.}
-{610}{}{This town's great... except for the pimps and whores.}
-{611}{}{There's drug-testing bein' done on slaves north of New Reno, I hear.}
-{612}{}{Golgotha's south of Reno, in the desert.}
-{613}{}{I may be poor, but not in spirit.}
-{614}{}{I'm not poor, I just have rotten luck.}
-{615}{}{That stink from Golgotha was damn awful last night...}
-{616}{}{Dammit! See, I was up 53 chips, then...}
-{617}{}{You better be careful around these parts, or you'll be bound for Golgotha.}
-{618}{}{New Reno wouldn't be a bad place 'cept for all the friggin' tourists.}
-{619}{}{Conjunction, Junction.}
+{602}{}{Se você quer vender escravos, tente falar com os Mordinos.}
+{603}{}{Você foi para os estábulos? Eles deixam a maioria dos escravos lá.}
+{604}{}{Me mostre seu estoque.}
+{605}{}{Se você quer vender escravos, fale com os Mordinos.}
+{606}{}{Eu odeio essa cidade do capeta.}
+{607}{}{Estou nesta cidade há muito tempo.}
+{608}{}{Esta cidade é boa... exceto pelos turistas.}
+{609}{}{Esta cidade é ótima... exceto pelos escravistas.}
+{610}{}{Esta cidade é boa... exceto pelos cafetões e putas.}
+{611}{}{Ouvi falar que tem testes de drogas sendo feitos em escravos ao norte de New Reno.}
+{612}{}{A Gólgota fica ao sul de Reno, no deserto.}
+{613}{}{Posso ser pobre, mas não de espírito.}
+{614}{}{Não sou pobre, só tenho pouca sorte.}
+{615}{}{Aquele fedor da Gólgota estava horrível ontem à noite...}
+{616}{}{Droga! Olha, eu tinha 53 tampas, então...}
+{617}{}{É melhor ter cuidado por estas bandas, ou vai parar em Gólgota.}
+{618}{}{New Reno não seria um lugar ruim, tirando toda essa cambada de turistas.}
+{619}{}{Conjunção, união.}
 {620}{}{Eu faço banco.}
-{621}{}{Sometimes too much to drink is not enough.}
-{622}{}{Damned crossroaders in the casinos...}
+{621}{}{Às vezes, beber demais não é suficiente.}
+{622}{}{Malditos jogadores dos cassinos...}
 {623}{}{A low roller is someone who comes into town and bets only a chip or two at the tables.}
 {624}{}{A Casa ta contra mim.}
 {625}{}{A fortuna ta contra mim.}
-{626}{}{Glad they put that guy on the rack...}
+{626}{}{Ainda bem tiraram esse cara daqui...}
 {627}{}{Cabra imundo...}
 {628}{}{O que você quer?}
-{629}{}{Bad luck, ill wind, not good times, not good times...}
-{630}{}{Reno's a-heating up, time ta move on.}
-{631}{}{That Bishop daughter is out of control.}
-{632}{}{If the Temperance Union lectures me one more time...}
-{633}{}{Saw Tully passed out in the gutter again.}
-{634}{}{I got to get out of this town.}
-{635}{}{Saw another O.D. this morning. Flies all over his mouth. And he was SMILING.}
-{636}{}{TRIED to quit, but...}
+{629}{}{Má sorte, vento ruim, não são bons tempos, não são bons tempos...}
+{630}{}{Reno está esquentando, é hora de agir.}
+{631}{}{Aquela filha do Bishop está descontrolada.}
+{632}{}{Se a União da Temperança me repreender de novo...}
+{633}{}{Vi Tully largado na sarjeta outra vez.}
+{634}{}{Preciso sair desta cidade.}
+{635}{}{Vi outro drogado que teve overdose essa manhã. Tinha moscas por toda a boca, e estava SORRINDO.}
+{636}{}{TENTEI parar com isso, mas...}
 {637}{}{Pare de me incomodar.}
 {638}{}{Look, I ain't got the time to talk to you right now.}
-{650}{}{Yer friend has a bone through his nose.}
-{651}{}{Everybody in yer little band stick a bone through their nose to prove themselves?}
-{652}{}{That fella with you from the 'stick-a-bone-up-my-honker' tribe?}
-{653}{}{That fella with the bone in his nose is proof that tribals ain't never gonna be civilized.}
-{654}{}{That fella got a bone in his nose?}
+{650}{}{Seu amigo tem um osso no nariz.}
+{651}{}{Todo mundo no seu grupinho enfiam osso no nariz para fazer algum teste?}
+{652}{}{Esse cara com você é da tribo 'enfia-um-osso-no-meu-nariz'?}
+{653}{}{Esse maluco com osso no nariz é a prova de que tribais nunca serão civilizados.}
+{654}{}{Esse cara tem um osso no nariz?}
 {655}{}{Aquele cara tem um osso enfiado no nariz que é do tamanho do meu braço. Deus do céu.}
-{656}{}{I don't even want to know how that friend o' yours got that bone in his nose.}
-{657}{}{I hate this goddamn town.}
-{658}{}{I've been in this town too long.}
-{659}{}{This town's great... except for the tourists.}
-{660}{}{This town's great... except for the slavers.}
-{661}{}{This town's great... except for the pimps and whores.}
-{662}{}{There's drug-testing bein' done on slaves north of New Reno, I hear.}
-{663}{}{Golgotha's south of Reno, in the desert.}
-{664}{}{I may be poor, but not in spirit.}
-{665}{}{I'm not poor, I just have rotten luck.}
-{666}{}{That stink from Golgotha was damn awful last night...}
-{667}{}{Dammit! See, I was up 53 chips, then...}
-{668}{}{You better be careful around these parts, or you'll be bound for Golgotha.}
-{669}{}{New Reno wouldn't be a bad place 'cept for all the friggin' tourists.}
-{670}{}{Conjunction, Junction.}
+{656}{}{Eu nem quero saber como seu amigo colocou um osso no próprio nariz.}
+{657}{}{Eu odeio essa cidade do capeta.}
+{658}{}{Estou nesta cidade há muito tempo.}
+{659}{}{Esta cidade é boa... exceto pelos turistas.}
+{660}{}{Esta cidade é ótima... exceto pelos escravistas.}
+{661}{}{Esta cidade é boa... exceto pelos cafetões e putas.}
+{662}{}{Ouvi falar que tem testes de drogas sendo feitos em escravos ao norte de New Reno.}
+{663}{}{A Gólgota fica ao sul de Reno, no deserto.}
+{664}{}{Posso ser pobre, mas não de espírito.}
+{665}{}{Não sou pobre, só tenho pouca sorte.}
+{666}{}{Aquele fedor da Gólgota estava horrível ontem à noite...}
+{667}{}{Droga! Olha, eu tinha 53 tampas, então...}
+{668}{}{É melhor ter cuidado por estas bandas, ou vai parar em Gólgota.}
+{669}{}{New Reno não seria um lugar ruim, tirando toda essa cambada de turistas.}
+{670}{}{Conjunção, união.}
 {671}{}{Eu faço banco.}
-{672}{}{Sometimes too much to drink is not enough.}
-{673}{}{Damned crossroaders in the casinos...}
+{672}{}{Às vezes, beber demais não é suficiente.}
+{673}{}{Malditos jogadores dos cassinos...}
 {674}{}{A low roller is someone who comes into town and bets only a chip or two at the tables.}
 {675}{}{A Casa ta contra mim.}
 {676}{}{A fortuna ta contra mim.}
-{677}{}{Glad they put that guy on the rack...}
+{677}{}{Ainda bem tiraram esse cara daqui...}
 {678}{}{Cabra imundo...}
 {679}{}{O que você quer?}
-{680}{}{Bad luck, ill wind, not good times, not good times...}
-{681}{}{Reno's a-heating up, time ta move on.}
-{682}{}{That Bishop daughter is out of control.}
-{683}{}{If the Temperance Union lectures me one more time...}
-{684}{}{Saw Tully passed out in the gutter again.}
-{685}{}{I got to get out of this town.}
-{686}{}{Saw another O.D. this morning. Flies all over his mouth. And he was SMILING.}
-{687}{}{TRIED to quit, but...}
+{680}{}{Má sorte, vento ruim, não são bons tempos, não são bons tempos...}
+{681}{}{Reno está esquentando, é hora de agir.}
+{682}{}{Aquela filha do Bishop está descontrolada.}
+{683}{}{Se a União da Temperança me repreender de novo...}
+{684}{}{Vi Tully largado na sarjeta outra vez.}
+{685}{}{Preciso sair desta cidade.}
+{686}{}{Vi outro drogado que teve overdose essa manhã. Tinha moscas por toda a boca, e estava SORRINDO.}
+{687}{}{TENTEI parar com isso, mas...}
 {688}{}{Pare de me incomodar.}
 {689}{}{Look, I ain't got the time to talk to you right now.}
 {690}{}{She's yer "wife," huh? Can I borrow her fer an hour or two?}
 {691}{}{Wanna swap wives for a while?}
-{692}{}{You selling that woman o' yours?}
-{693}{}{How much for that woman you got with you?}
-{694}{}{That woman you got with you shore is pretty.}
-{695}{}{Can that woman o' yours cook? If so, I'll take her.}
-{696}{}{How much for that skirt you got with you?}
-{697}{}{Mrs. Bishop shore got a sweet ass.}
-{700}{}{Gonna get some action to-night!}
+{692}{}{Essa mulher ai está a venda?}
+{693}{}{Por quanto você vende essa mulher que está com você?}
+{694}{}{Essa mulher que está do seu lado é bem delicinha.}
+{695}{}{Essa sua mulher sabe cozinhar? Se sim, eu levo.}
+{696}{}{Quanto por essa saia que você está vestindo?}
+{697}{}{A Sra. Bishop uma bunda boa.}
+{700}{}{Vou ter um pouco de ação esta noite!}
 {701}{}{Find a whore, get some play.}
-{702}{}{Mrs. Bishop shore got a sweet ass.}
-{703}{}{There's drug-testing bein' done on slaves north of New Reno, I hear.}
-{704}{}{Golgotha's south of Reno, in the desert.}
-{705}{}{I may be poor, but not in spirit.}
-{706}{}{I'm not poor, I just have rotten luck.}
-{707}{}{How many tribals are gonna be coming to this town?}
+{702}{}{A Sra. Bishop uma bunda boa.}
+{703}{}{Ouvi falar que tem testes de drogas sendo feitos em escravos ao norte de New Reno.}
+{704}{}{A Gólgota fica ao sul de Reno, no deserto.}
+{705}{}{Posso ser pobre, mas não de espírito.}
+{706}{}{Não sou pobre, só tenho pouca sorte.}
+{707}{}{Tem mais quantos tribais pra vir nessa cidade?}
 {708}{}{Tell the rest of your tribe to stay at home.}
 {709}{}{Another primate? You tribals breed like mantises.}
-{710}{}{That stink from Golgotha was damn awful last night...}
-{711}{}{Dammit! See, I was up 53 chips, then...}
-{712}{}{You better be careful around these parts, or you'll be bound for Golgotha.}
-{713}{}{New Reno wouldn't be a bad place 'cept for all the friggin' tourists.}
-{714}{}{Heard they got a new crop o' slaves.}
-{715}{}{New crop of slaves in the whorehouse.}
-{716}{}{Conjunction, Junction.}
+{710}{}{Aquele fedor da Gólgota estava horrível ontem à noite...}
+{711}{}{Droga! Olha, eu tinha 53 tampas, então...}
+{712}{}{É melhor ter cuidado por estas bandas, ou vai parar em Gólgota.}
+{713}{}{New Reno não seria um lugar ruim, tirando toda essa cambada de turistas.}
+{714}{}{Ouvi dizer que eles têm uma nova leva de escravos.}
+{715}{}{Nova leva de escravas para o bordel..}
+{716}{}{Conjunção, união.}
 {717}{}{Eu faço banco.}
-{718}{}{Sometimes too much to drink is not enough.}
-{719}{}{Damned crossroaders in the casinos...}
+{718}{}{Às vezes, beber demais não é suficiente.}
+{719}{}{Malditos jogadores dos cassinos...}
 {720}{}{A low roller is someone who comes into town and bets only a chip or two at the tables.}
 {721}{}{A Casa ta contra mim.}
 {722}{}{A fortuna ta contra mim.}
-{723}{}{Glad they put that guy on the rack...}
+{723}{}{Ainda bem tiraram esse cara daqui...}
 {724}{}{Cabra imundo...}
 {725}{}{O que você quer?}
-{726}{}{Bad luck, ill wind, not good times, not good times...}
-{727}{}{Reno's a-heating up, time ta move on.}
-{728}{}{That Bishop daughter is out of control.}
-{729}{}{If the Temperance Union lectures me one more time...}
-{730}{}{Saw Tully passed out in the gutter again.}
-{731}{}{I got to get out of this town.}
-{732}{}{Saw another O.D. this morning. Flies all over his mouth. And he was SMILING.}
-{733}{}{TRIED to quit, but...}
+{726}{}{Má sorte, vento ruim, não são bons tempos, não são bons tempos...}
+{727}{}{Reno está esquentando, é hora de agir.}
+{728}{}{Aquela filha do Bishop está descontrolada.}
+{729}{}{Se a União da Temperança me repreender de novo...}
+{730}{}{Vi Tully largado na sarjeta outra vez.}
+{731}{}{Preciso sair desta cidade.}
+{732}{}{Vi outro drogado que teve overdose essa manhã. Tinha moscas por toda a boca, e estava SORRINDO.}
+{733}{}{TENTEI parar com isso, mas...}
 {734}{}{Pare de me incomodar.}
 {735}{}{Look, I ain't got the time to talk to you right now.}
-{736}{}{Might head downtown, see if any new men are in town...}
+{736}{}{Pode ir para centro, ver se há novos homens na cidade...}
 {737}{}{Glad they put that asshole on the rack...}
 {1203}{}{!}
 {1204}{}{! Você chuta bundas! Você chuta BUNDAS!}
