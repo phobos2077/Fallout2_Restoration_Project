@@ -1,7 +1,7 @@
 1:Det är över.
 2:Valv 13 tillhör Enigheten och Mästaren.
-3:Your knowledge of the Vault defenses saved many mutant lives during the attack.
-4:You personally made the final kill when you took the life of the Overseer.
-5:You will certainly become one of the finest soldiers for the Unity, and your skills will see you rewarded often in the future.
-6:You are happy.
-7:But there remains the tiniest doubt of what could have been...
+3:Din kunskap om Valvets försvar räddade många mutanters liv under attacken.
+4:Det var du personligen som dödade den sista av dem när du tog livet av Övervakaren.
+5:Du kommer säkerligen att bli en av de bästa soldaterna för Enigheten, och dina färdigheter kommer att belönas ofta i framtiden.
+6:Du är nöjd.
+7:Men det finns fortfarande ett litet tvivel om vad som kunde ha varit...

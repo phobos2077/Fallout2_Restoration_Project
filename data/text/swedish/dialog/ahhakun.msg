@@ -126,18 +126,18 @@
 {225}{}{Eh.}
 {226}{}{Va?!}
 {227}{hak029}{Welcome back, Chosen. I see by your face the salvation of the GECK is not yet ours. Be tireless as the ant before our reserves run out. You are our last hope.}
-{228}{}{Aha. }
+{228}{}{Aha.}
 {229}{}{I'm trying. I'd like to see the ant covering the miles I am.}
 {230}{}{I'm doing my best.}
 {231}{}{I'll double my efforts, holy one. I will not let you down.}
 {232}{}{Yeah, yeah. I've heard it all before.}
 {233}{hak030}{Chosen - the village cries in desperation. The children are weak with hunger. Please, we cannot hold out much longer.}
-{234}{}{Aha. }
+{234}{}{Aha.}
 {235}{}{I'm trying. I'm trying! Give me a break!}
 {236}{}{I'll find the GECK, holy one. You have my word.}
 {237}{}{I'll do my best to find the GECK.}
 {238}{hak031}{Chosen, the sands of time are but a few grains. Please. Bring the GECK soon and make the future of the village like the beach of the ocean. Quickly, before the last grain falls.}
-{239}{}{Aha. }
+{239}{}{Aha.}
 {240}{}{All right. I'm off to find it.}
 {241}{}{Life's a beach, huh?}
 {242}{}{I will find the GECK, holy one. I will not let our people down.}

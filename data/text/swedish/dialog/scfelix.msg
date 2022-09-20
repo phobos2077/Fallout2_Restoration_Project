@@ -10,7 +10,7 @@
 {109}{}{I'm looking for Vault 13.}
 {110}{}{Just looking around.}
 {111}{}{Great, another idiot. I suppose you want to see the boss?}
-{112}{}{Aha. }
+{112}{}{Aha.}
 {113}{}{Nooo.}
 {114}{}{Fine. Go on in.}
 {115}{}{It's late. Come back in the morning.}

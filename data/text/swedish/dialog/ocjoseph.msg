@@ -58,7 +58,7 @@
  capable of abstract thought and reasoning.}
 {147}{}{Uh... what you said.}
 {148}{}{Got go now.}
-{149}{}{Aha. }
+{149}{}{Aha.}
 {150}{}{Wow, I'm impressed with your knowledge.}
 {151}{}{Sounds like a bunch of hogwash to me.}
 {152}{}{I was gathering some herbs one night when a voice called to me out of the darkness. 'I have been
