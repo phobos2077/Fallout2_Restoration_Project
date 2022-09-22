@@ -44,78 +44,78 @@
 {273}{}{Devia me deixar ensinar algumas coisas, mulher.}
 {274}{}{Porra, um corpo desse deveria ser ilegal.}
 {275}{}{Mulher, tenho que admirar que a rua não derreta por debaixo dessas suas pernas.}
-{276}{}{Come work for me, woman. I was pimp of the year two years running.}
-{277}{}{Baby, let me squeeze that soft juicy-fruit butt o' yours.}
-{278}{}{Daaaamn.}
+{276}{}{Venha trabalhar para mim, mulher. Fui o cafetão do ano por dois anos seguidos.}
+{277}{}{Querida, me deixe espremer esse cuzinho gostoso.}
+{278}{}{Poooorra.}
 {290}{}{Espero que as meninas tenham meu dinheiro...}
 {291}{}{Esses turistas não são tão excitados quanto eu queria.}
 {292}{}{É melhor tua vagaba não ficar se escondendo de mim...}
 {293}{}{Procurando alguma ação?}
-{294}{}{You lookin' for some action? I give you a freebie, brother.}
-{295}{}{Let me extend a courtesy to you, friend. I give you one of my women for a whole night.}
-{296}{}{Talk to me, friend. I got a woman for you.}
-{297}{}{Yo family needs a man like me to keep the womenz in line...}
-{298}{}{You styling, man, you styling.}
-{299}{}{Nice threads, boy-eee.}
-{300}{}{Say the word, an' I'll be watching yo back, brother.}
-{301}{}{I got your back, brother.}
-{302}{}{You the man, the MAIN man, know what I'm saying now?}
+{294}{}{Você está procurando alguma ação? Vou te dar um bônus, irmão.}
+{295}{}{Deixe eu te oferecer uma cortesia, amigo. Te dou uma das minhas mulheres pela noite toda.}
+{296}{}{Pode falar, amigo. Eu tenho uma mulher para você.}
+{297}{}{Sua família precisa de um homem que nem eu pra manter a muierada na linha...}
+{298}{}{Tem estilo, cara, você tem estilo.}
+{299}{}{Bonitos trapos, caaaaara.}
+{300}{}{Diga só uma palavra, e eu estarei de olho em você, irmão.}
+{301}{}{Conte comigo, irmão.}
+{302}{}{Você é o homem, o PRINCIPAL, entende o que estou dizendo?}
 {303}{}{Deixe que eu preparo você, cara. Fui o cafetão do ano por dois anos seguidos.}
-{304}{}{Gangster Man coming through...}
-{305}{}{Big man coming through...}
+{304}{}{Gangster chegando...}
+{305}{}{Grande homem passando...}
 {320}{}{Espero que as meninas tenham meu dinheiro...}
 {321}{}{Esses turistas não são tão excitados quanto eu queria.}
 {322}{}{É melhor tua vagaba não ficar se escondendo de mim...}
-{323}{}{Who is this beeeewt-ifull woman I sees?}
-{324}{}{Damn, I love a woman who knows her crime.}
-{325}{}{You styling, sister, you styling.}
-{326}{}{Nice threads, woman.}
-{327}{}{You dressing all lethal and shit, I like it.}
-{328}{}{Say the word, an' I'll be watching yo back, sister.}
-{329}{}{I got your back, sister.}
-{330}{}{Love that raven black hair and gangsta attitude on you, woman.}
+{323}{}{Quem é essa garota ma-ra-vi-lho-sa que estou vendo?}
+{324}{}{Caralho, como eu amo uma mulher perigosa.}
+{325}{}{Tem estilo, mana, você tem estilo.}
+{326}{}{Bonitos trapos, mulher.}
+{327}{}{Caralho, eu gosto desse seu jeito de mulher fatal.}
+{328}{}{Diga só uma palavra, e eu estarei de olho em você, maninha.}
+{329}{}{Conte comigo, mana.}
+{330}{}{Amo esse cabelo negro como um corvo e essa atitude gangster em você, mulher.}
 {350}{}{Espero que as meninas tenham meu dinheiro...}
 {351}{}{Esses turistas não são tão excitados quanto eu queria.}
 {352}{}{É melhor tua vagaba não ficar se escondendo de mim...}
-{353}{}{You looking for some action, champ?}
-{354}{}{You need for some action, champ? I give you a freebie.}
-{355}{}{Let me extend a courtesy to you, champ. I give you one of my women for a whole night.}
-{356}{}{Talk to me, champ. I got the woman for you.}
-{357}{}{This ain't no Robbin' Givens I givin'...you get a good woman, know what I'm sayin?}
-{358}{}{You styling, champ, you styling.}
-{359}{}{Don't you let me down in the ring, you hear?}
-{360}{}{I got 100 chips riding on you, champ. Don't be disappointing me now.}
-{361}{}{You need a boxing partner for tonight, champ? I get you a sweeeet one.}
-{362}{}{Say the word, an' I'll be watching yo back, champ.}
-{363}{}{I got your back, champ.}
-{364}{}{Let me set you up, champ. I was pimp of the year two years running.}
-{365}{}{Champ coming through...}
-{366}{}{Big man coming through...}
+{353}{}{Está procurando alguma ação, campeão?}
+{354}{}{Você precisa de alguma ação, campeão? Eu te dou um bônus.}
+{355}{}{Deixe eu te dar uma cortesia, campeão. Te dou uma das minhas mulheres por uma noite inteira.}
+{356}{}{Conte comigo, campeão. Eu tenho a mulher para você.}
+{357}{}{Isso não é nenhuma Robin Givens... mas você tem uma boa mulher, me entende?}
+{358}{}{Tem estilo, champs, você tem estilo.}
+{359}{}{Não me decepcione no ringue, ouviu?}
+{360}{}{Eu tenho 100 tampas apostada em você, campeão. Não me decepcione agora.}
+{361}{}{Você precisa de um parceiro de boxe para esta noite, campeão? Eu te dou um bem doooooce.}
+{362}{}{Diga só uma palavra, e eu estarei de olho em você, campeão.}
+{363}{}{Conte comigo, campeão.}
+{364}{}{Me deixe preparar você, campeão. Fui o cafetão do ano por dois anos seguidos.}
+{365}{}{Campeão chegando...}
+{366}{}{Grande homem passando...}
 {380}{}{Espero que as meninas tenham meu dinheiro...}
 {381}{}{Esses turistas não são tão excitados quanto eu queria.}
 {382}{}{É melhor tua vagaba não ficar se escondendo de mim...}
-{383}{}{Who is this beeeewt-ifull woman I sees?}
-{384}{}{Damn, I love a woman who knows how to beat a man up.}
-{385}{}{You styling, sister, you styling.}
-{386}{}{Nice threads, woman.}
-{387}{}{You dressing all lethal and shit, I like it.}
-{388}{}{Say the word, an' I'll be watching yo back, sister.}
-{389}{}{I got your back, sister.}
-{390}{}{You the woman, the queen, the champ of ALL, know what I'm saying now?}
-{391}{}{Don't you let me down in the ring, you hear?}
-{392}{}{I got 100 chips riding on you, sister. Don't be disappointing me now.}
-{393}{}{I do so love your raven black hair... and your wicked left hook.}
+{383}{}{Quem é essa garota ma-ra-vi-lho-sa que estou vendo?}
+{384}{}{Porra, eu amo uma mulher que sabe como bater em um homem.}
+{385}{}{Tem estilo, mana, você tem estilo.}
+{386}{}{Bonitos trapos, mulher.}
+{387}{}{Caralho, eu gosto desse seu jeito de mulher fatal.}
+{388}{}{Diga só uma palavra, e eu estarei de olho em você, maninha.}
+{389}{}{Conte comigo, mana.}
+{390}{}{Você É a mulher, a rainha, a campeã de TODAS, está entendendo?}
+{391}{}{Não me decepcione no ringue, ouviu?}
+{392}{}{Eu tenho 100 tampas apostada em você, maninha. Não me decepcione agora.}
+{393}{}{Eu amo tanto esse cabelo preto igual um corvo... e seu gancho de esquerda matador.}
 {410}{}{Espero que as meninas tenham meu dinheiro...}
 {411}{}{Esses turistas não são tão excitados quanto eu queria.}
 {412}{}{É melhor tua vagaba não ficar se escondendo de mim...}
-{413}{}{You all looking for some action?}
-{414}{}{You two look like you need to get wet.}
-{415}{}{Yo, Myron! Whazzup?}
-{416}{}{Yo, Myron! Need any company for tonight? I got this new woman for you...}
+{413}{}{Vocês estão procurando alguma ação?}
+{414}{}{Vocês dois parecem que precisam suar um pouco.}
+{415}{}{Hey, Myron! Como é que tá?}
+{416}{}{Ei, Myron! Precisa de companhia esta noite? Eu tenho uma novinha para você...}
 {417}{}{Vocês... estão querendo suar um pouco?}
-{418}{}{You can't find sweeter tail ANYWHERE else.}
-{419}{}{I'm so bright, I make Reno look dim.}
-{420}{}{You look like you gots a FIRE down below.}
+{418}{}{Você não encontra uma bunda mais suculenta em qualquer outro lugar.}
+{419}{}{Eu sou tão brilhante que até escureço Reno.}
+{420}{}{Parece que você tem um FOGO aí por baixo.}
 {421}{}{Talk to me, my friends. I got women you can wear for the WHOLE night.}
 {422}{}{You got the chips, you can have a taste of heaven.}
 {423}{}{Myron, I don't want to catch you doing no teabag on my women again.}
@@ -138,8 +138,8 @@
 {444}{}{I better not catch Myron doing the Cleveland Steamer on my woman again.}
 {445}{}{You need a friend for tonight, brother? I get you a sweeeet one.}
 {446}{}{Essas não são escravas, são profissionais, está ouvindo?}
-{447}{}{I'm so bright, I make Reno look dim.}
-{448}{}{You can't find sweeter tail ANYWHERE else.}
+{447}{}{Eu sou tão brilhante que até escureço Reno.}
+{448}{}{Você não encontra uma bunda mais suculenta em qualquer outro lugar.}
 {449}{}{You got the chips, you can have a taste of heaven.}
 {450}{}{You better not pimp that bitch of yours around here.}
 {451}{}{I see any chips changing hands over that bitch of yours, me and you are gonna have words.}
@@ -156,7 +156,7 @@
 {472}{}{É melhor tua vagaba não ficar se escondendo de mim...}
 {473}{}{Yo slaver! You looking to get... wet?}
 {474}{}{Slaver, if you can find cheaper tail anywhere, I'll match it.}
-{475}{}{I'm so bright, I make Reno look dim.}
+{475}{}{Eu sou tão brilhante que até escureço Reno.}
 {476}{}{Slaver, you look like a man with a FIRE down below.}
 {477}{}{Talk to me, slaver. I got a woman you can wear for the WHOLE night.}
 {478}{}{You got the chips, you can have a taste of heaven.}
@@ -182,7 +182,7 @@
 {500}{}{Espero que as meninas tenham meu dinheiro...}
 {501}{}{Esses turistas não são tão excitados quanto eu queria.}
 {502}{}{É melhor tua vagaba não ficar se escondendo de mim...}
-{503}{}{I'm so bright, I make Reno look dim.}
+{503}{}{Eu sou tão brilhante que até escureço Reno.}
 {504}{}{You need a friend for tonight, slaver? I get you a sweeeet young thing, male or female, whatever
  you want.}
 {505}{}{I got this one woman you should look at, slaver; she has this real soft juicy-fruit butt.}
@@ -198,8 +198,8 @@
 {522}{}{É melhor tua vagaba não ficar se escondendo de mim...}
 {523}{}{Procurando alguma ação?}
 {524}{}{Você... quer suar um pouco?}
-{525}{}{You can't find sweeter tail ANYWHERE else.}
-{526}{}{I'm so bright, I make Reno look dim.}
+{525}{}{Você não encontra uma bunda mais suculenta em qualquer outro lugar.}
+{526}{}{Eu sou tão brilhante que até escureço Reno.}
 {527}{}{You look like a man with a FIRE down below.}
 {528}{}{Talk to me, friend. I got a woman you can wear for the WHOLE night.}
 {529}{}{You got the chips, you can have a taste of heaven.}
@@ -231,5 +231,5 @@
 {561}{}{Come back to my crib, best place to stay in all of Reno.}
 {562}{}{You got a place to stay? I can get you one.}
 {563}{}{::Scopes you out::}
-{564}{}{Baby, let me squeeze that soft juicy-fruit butt o' yours.}
+{564}{}{Querida, me deixe espremer esse cuzinho gostoso.}
 {565}{}{You lookin' to earn some easy scratch, woman?}
