@@ -41,7 +41,7 @@
 {139}{}{I don't need money.}
 {140}{}{You're back, eh? You want to know about that treasure, kid?}
 {141}{}{'Es!}
-{142}{}{Nuh-uh.}
+{142}{}{Näe.}
 {143}{}{What kind of treasure is it?}
 {144}{}{Yeah, tell me.}
 {145}{}{I had other questions for you first.}
@@ -67,7 +67,7 @@
 {165}{}{Thanks. Bye.}
 {166}{}{Well? Do you have my Cat's Paw magazine yet?}
 {167}{}{'Es. [Give Cat's Paw to Typhon.]}
-{168}{}{Nuh-uh.}
+{168}{}{Näe.}
 {169}{}{Yup. Here you go. [Give Cat's Paw to Typhon.]}
 {170}{}{Not yet. I had other questions.}
 {171}{}{Nepp.}

@@ -105,7 +105,7 @@
 {204}{}{Oh, yes, well, I was getting to that... The F.E.V. virus bond is species specific, it will only bond with human glycoprotein. It only took a few years to tweak the F.E.V. virus to make it more lethal than it already was. The result was just what the doctor ordered, perfect in every way. }
 {205}{}{Perfect? How so?}
 {206}{}{Isn't it obvious, my mutated friend? The F.E.V. is, thanks to me, a lethal toxin, and thanks to some mysterious genius named, rather dramatically, the Master, it only works on humans, mutated or not.}
-{207}{}{So?}
+{207}{}{Och?}
 {208}{}{That means that we have the perfect disposal device for all of the near-human mutants infecting the globe.}
 {209}{}{I still don't understand how that's *perfect.*}
 {210}{}{I've got to ask you about some of your other crazy ideas.}

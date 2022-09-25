@@ -134,7 +134,7 @@
 {590}{}{(The kid blinks at you.)}
 {591}{}{All right, then. Talk to you later.}
 {595}{}{(The child runs off.)}
-{648}{}{Oh.}
+{648}{}{Åh.}
 {650}{}{Really? What else?}
 {665}{}{Is that a REAL ghoul?}
 {666}{}{Gool?}

@@ -123,7 +123,7 @@
 {273}{}{Aroo?}
 {274}{}{I gotta pee.}
 {275}{}{Hej.}
-{276}{}{Hi.}
+{276}{}{Hej.}
 {277}{}{Torr!}
 {279}{}{Torr see }
 {280}{}{! (Hello again, friend. Can I help you with anything?)}

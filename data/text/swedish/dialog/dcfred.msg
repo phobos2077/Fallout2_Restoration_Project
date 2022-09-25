@@ -99,7 +99,7 @@
 {432}{}{Hand it over.}
 {440}{}{Yeah, right. I've never seen that much money before in my life.}
 {441}{}{Hmmm.}
-{442}{}{Oh.}
+{442}{}{Åh.}
 {450}{}{Right! That'll be the day. Becky wouldn't hurt a fly. She sure is pretty though.}
 {451}{}{Well, you're wrong, asshole.}
 {452}{}{Maybe it was someone else.}

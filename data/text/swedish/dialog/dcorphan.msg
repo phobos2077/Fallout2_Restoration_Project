@@ -24,21 +24,21 @@
 {250}{}{Hey, lady, got any spare change?}
 {251}{}{Hey, mister, got any spare change?}
 {270}{}{You just gonna stand there or go in?}
-{271}{}{Hi.}
+{271}{}{Hej.}
 {272}{}{I'm hungry.}
 {273}{}{Hey, you! Tubby's is always open. Come on over.}
 {280}{}{You goin' in or what??}
 {281}{}{Come check Flicks' place out.}
-{282}{}{Hi.}
+{282}{}{Hej.}
 {283}{}{Hey, you over there! Check out Flick's shop.}
 {290}{}{Well, you goin' in?}
-{291}{}{Hi.}
+{291}{}{Hej.}
 {292}{}{Don't do that.}
 {293}{}{Hey! Frankie's got great stuff.}
 {300}{}{You should go in, Beck's very nice.}
 {301}{}{I'm keepin' watch.}
 {302}{}{Wow, you're pretty.}
-{303}{}{Hi.}
+{303}{}{Hej.}
 {304}{}{What's your name?}
 {305}{}{Becky would like you.}
 {306}{}{Hey! Come check out Becky's.}

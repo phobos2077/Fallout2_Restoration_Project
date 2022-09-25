@@ -149,7 +149,7 @@
 {461}{}{Where to?}
 {470}{}{Something about a commando... or that he was going after a commando. Not sure
  exactly. Something like that.}
-{471}{}{Oh.}
+{471}{}{Åh.}
 {480}{}{Oh, he said to give you this. It's a present from the Hendee family. It should
  help you out some.}
 {481}{}{What is it?}

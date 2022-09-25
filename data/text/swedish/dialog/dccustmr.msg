@@ -17,7 +17,7 @@
 {301}{}{Where was I going again?}
 {302}{}{Hej.}
 {303}{}{Excuse me.}
-{304}{}{Hi.}
+{304}{}{Hej.}
 {305}{}{Becky's place is the best, and not just cuz of the prices.}
 {306}{}{You here for the drinks or the tables?}
 {307}{}{All we need now are some troubadours.}

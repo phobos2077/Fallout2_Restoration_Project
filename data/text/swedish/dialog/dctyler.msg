@@ -95,7 +95,7 @@
 {415}{}{Okej.}
 {416}{}{Beat it.}
 {417}{}{Been better.}
-{418}{}{Oh.}
+{418}{}{Åh.}
 {430}{}{Can't wait for that party. Hope he has a few whores there again.}
 {431}{}{My buddy really knows how to throw a party.}
 {432}{}{Almost party time.}

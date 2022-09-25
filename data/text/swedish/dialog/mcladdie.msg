@@ -32,7 +32,7 @@
 {181}{}{Did he go south?}
 {182}{}{Did he go east?}
 {183}{}{Did he go west?}
-{186}{}{Woof?}
+{186}{}{Voff?}
 {187}{}{Okay, Okay... Maybe someplace else, then?}
 {190}{}{He was playing cowboys and Indians when he accidentally fell down the well and you want me to
  get a rope and go down and rescue him. Okay, let's go, Laddie. [Astounding!]}

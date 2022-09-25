@@ -25,7 +25,7 @@
 {166}{}{The traders? They come from Klamath about every two months. There
  won't be another here for a month or more, but Klamath's only a few days
  east of here.}
-{167}{}{Thank you. Goodbye.}
+{167}{}{Tack. Hej då.}
 {168}{}{What can you tell me about this object I have from
  the sacred vault?}
 {169}{}{Looks like a metal water gourd. Maybe the

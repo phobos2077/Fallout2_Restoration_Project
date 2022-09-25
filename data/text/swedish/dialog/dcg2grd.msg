@@ -36,9 +36,9 @@
 {271}{}{You must be here to see Lara.}
 {272}{}{How's it going?}
 {273}{}{Lara's the person you should be talking to.}
-{274}{}{Hi.}
+{274}{}{Hej.}
 {275}{}{You here to see Lara?}
-{300}{}{Hi.}
+{300}{}{Hej.}
 {301}{}{How's it going?}
 {302}{}{Hope things are going good.}
 {303}{}{So you might be able to help us out?}

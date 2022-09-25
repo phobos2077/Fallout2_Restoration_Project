@@ -50,7 +50,7 @@
 {142}{}{Hey, be careful with that! Okay, go on now.}
 {143}{}{Well, anyhows, like I been sayin' that ain't so much of a problem 'round Gecko. But, ya see, people in other parts
  ain't so usta the way we look.}
-{144}{}{So?}
+{144}{}{Och?}
 {145}{}{Cain't ya put two an' two ta-gether? I'm worried that Woody might have takin' himself a nap in the Den - it's a long
  trip after all - and then they woulda buried the poor cuss alive! I need someone to go look fer 'im there.}
 {146}{}{And...?}

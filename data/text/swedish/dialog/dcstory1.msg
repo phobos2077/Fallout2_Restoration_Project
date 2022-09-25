@@ -52,7 +52,7 @@
 {157}{}{Yeah, there were also others in dirty, tattered purple robes... they kept babbling about how the Master was dead...}
 {158}{}{Interesting.}
 {159}{}{Some of them even committed suicide right here in town!}
-{160}{}{So?}
+{160}{}{Och?}
 {161}{}{Well don't you see. They were talking about the Master, the one your ancestor killed.}
 {162}{}{Thanks for the story.}
 {163}{}{Well, it's getting late. Bye.}

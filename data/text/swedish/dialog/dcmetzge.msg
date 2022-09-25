@@ -100,7 +100,7 @@
  want to deal with them anymore, too big of a fucking hassle. Once you're done,
  the other slavers will round up and tag the rest.}
 {341}{}{Okej.}
-{342}{}{Oh.}
+{342}{}{Åh.}
 {350}{}{Once they start tagging the slaves, you can head back if you like. It takes
  special training, so don't try to subdue the others yourself. You can do whatever
  you want just as long as you don't damage the goods.}

@@ -14,7 +14,7 @@
 {232}{}{Hope you're liking the guild.}
 {233}{}{Your tat came out well.}
 {234}{}{Did you go on that last run?}
-{235}{}{Hi.}
+{235}{}{Hej.}
 {236}{}{You're my kind of lady.}
 {237}{}{A female slaver - got to respect that.}
 {238}{}{Hi there.}

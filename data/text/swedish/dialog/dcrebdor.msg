@@ -5,7 +5,7 @@
 {210}{}{This is to Rebecca's room. No one's allowed in.}
 {211}{}{Hope you're enjoying yourself.}
 {212}{}{You looking for Becky? She's right there.}
-{213}{}{Hi.}
+{213}{}{Hej.}
 {214}{}{Enjoy the tables.}
 {215}{}{Becky's got the cheapest drinks in town.}
 {230}{}{Get away from that right now.}

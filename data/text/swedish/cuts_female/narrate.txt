@@ -12,10 +12,10 @@
 12:Få överlevde förödelsen.
 13:Vissa var tursamma nog att komma i säkerhet och tog skydd i stora underjordiska valv.
 14:When the great darkness passed, these vaults opened, and their inhabitants emerged to begin their lives again.
-15:One of the northern tribes claims they are descended from one such Vault.
+15:En av de nordliga stammarna hävdar att de härstammar från et sådant Valv.
 16:They hold that their founder and ancestor, one known the "Vault Dweller," once saved the world from a great evil.
-17:According to their legend, this evil arose in the far south.
-18:It corrupted all it touched, twisting men inside, turning them into beasts.
+17:Enligt legenden uppstod denna ondska i det sydligaste området.
+18:Den fördärvade allt den rörde vid, förvrängde människorna inombords och förvandlade dem till odjur.
 19:Only through the bravery of this Vault Dweller was the evil destroyed.
 20:But in so doing, he lost many of his friends and suffered greatly, sacrificing much of himself to save the world.
 21:When at last he returned to the home he had fought so hard to protect, he was cast out.

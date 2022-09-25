@@ -13,7 +13,7 @@
 {112}{}{Sorry, can't think of anything else interesting.}
 {113}{}{My brains all dried up.}
 {114}{}{That's it.}
-{115}{}{Hi.}
+{115}{}{Hej.}
 {116}{}{Have you said hi to Mom yet?}
 {117}{}{Oh, hi.}
 {118}{}{Oh, you again.}
