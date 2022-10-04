@@ -49,7 +49,7 @@
 {148}{hak008}{The burden you carry now will grow ever heavier.}
 {149}{hak009}{May the gods bless your efforts, Chosen. May your aura grace my presence when the earth breathes clean again.}
 {150}{}{I take it you want to see me again when I'm done... You could have just said so, you know.}
-{151}{}{Farv‰l.}
+{151}{}{Farv√§l.}
 {152}{hak010}{Ha! The founder's spirit lives in you. Focus in to fortify the self to expand the greatness to enable such to touch the world. Of course, the rewards will be more than those of the spirit. }
 {153}{}{Sounds good. I'll be back when I'm done.}
 {154}{}{So, I'm getting an actual thing in payment. Good enough. See ya later.}
@@ -94,7 +94,7 @@
 {193}{}{Aj?}
 {194}{}{Ooog! Bak!}
 {195}{hak020}{The pleasure of these words fills me. Alas, the gods whisper for my ear. Goodbye.}
-{196}{}{Hej dÂ.}
+{196}{}{Hej d√•.}
 {197}{}{Still mixing the herbs, huh? See you later.}
 {198}{hak021}{We all have gardens. May your journeys act as tending. Be well. I must seek audience with the gods now.}
 {199}{}{See ya.}
@@ -112,7 +112,7 @@
 {211}{}{Thank you.}
 {212}{}{No lessons? No incomprehensible speeches? You sure you're okay?}
 {213}{hak027}{Welcome, Chosen. Bless us with words that the GECK will be found soon. Our village ails, our need is great, our time, short.}
-{214}{}{N‰.}
+{214}{}{N√§.}
 {215}{}{And your ability to speak normally, non-existent. I'm still trying.}
 {216}{}{I'm on it. }
 {217}{}{Get off my back, old man. I'm doing the best I can.}

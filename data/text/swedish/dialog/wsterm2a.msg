@@ -80,9 +80,9 @@
 {305}{}{5 Augusti 2077}
 {306}{}{ dagar sedan.}
 {307}{}{
-                                             Varning! Inkr‰ktare Uppt‰ckt NivÂ }
+                                             Varning! Inkr√§ktare Uppt√§ckt Niv√• }
 {308}{}{
-                                             Varning! Inkr‰ktare Uppt‰ckt NivÂer: }
+                                             Varning! Inkr√§ktare Uppt√§ckt Niv√•er: }
 {309}{}{
                                       }
 {310}{}{

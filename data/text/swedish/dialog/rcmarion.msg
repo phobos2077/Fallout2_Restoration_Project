@@ -34,7 +34,7 @@
 {129}{}{Common interests? What kind of common interests?}
 {130}{}{I see. Well, I'll be moving on now. Goodbye.}
 {131}{}{I didn't want to let on that easy. Anybody could know the handshake.}
-{132}{}{Åh.}
+{132}{}{Ã…h.}
 {133}{}{Keep the peace, mostly. At least that's what I'd be doing if I didn't have this leg all busted up.}
 {134}{}{It's like I said before. My leg's all busted up, and I can't do my job 'cause of it.}
 {135}{}{What happened to your leg?}

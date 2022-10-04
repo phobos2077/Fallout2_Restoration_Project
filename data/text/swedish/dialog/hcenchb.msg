@@ -19,7 +19,7 @@
  I told him I'd look into it.}
 {115}{}{Thanks. Bye.}
 {116}{}{Thanks. I'm sure glad that's over. You better watch your back though.}
-{117}{}{Hej då.}
+{117}{}{Hej dÃ¥.}
 {118}{}{It's the enemy! Die!}
 {119}{}{Oops.}
 {120}{}{[Lowers his voice and looks around.] That's gotta be it. In fact, I was a guard on the latest uranium run to

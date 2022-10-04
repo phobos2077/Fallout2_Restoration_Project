@@ -6,10 +6,10 @@
 {105}{}{Rrr?}
 {106}{}{Excuse me, but is this the plant that's talking?}
 {107}{}{Are you connected with that scientist in any way?}
-{108}{}{Hej då.}
+{108}{}{Hej dÃ¥.}
 {109}{}{Yes, I do talk. Better than some people, it seems. I'd smile at you right now, but I just don't have a mouth. [it laughs] Say, could you do me a big favor?}
 {110}{}{'Es.}
-{111}{}{Nä.}
+{111}{}{NÃ¤.}
 {112}{}{I'm looking for a better place to be. Right here is nice and all, but frankly, these plants aren't much for conversation. I was thinking over there, by the building with all the ghouls in it... Would you replant me?}
 {113}{}{'Es!}
 {114}{}{Nuh!}
@@ -21,7 +21,7 @@
 {120}{}{All right. Well, um... I'll be waiting here for you. Not like I really have a choice, you know. So long!}
 {121}{}{Byeeee!}
 {122}{}{If you should happen to change your mind, you know where to find me. I've put down roots here. Ha ha ha! Just a little plant humor for you. Oh, don't let me keep you. So long!}
-{123}{}{Hej då.}
+{123}{}{Hej dÃ¥.}
 {124}{}{Well said, well said! How delightful to see a homo sapiens use its brain to its fullest extent. My dear friend, would you be willing to do me a favor?}
 {125}{}{'Es.}
 {126}{}{Nuh!}
@@ -47,7 +47,7 @@
 {143}{}{Ahh, my friend, you have returned. This is quite a delightful place here. The shade is perfect, and the company is simply dazzling. That Typhon, what a kidder! He really makes my intellectual sap flow!}
 {144}{}{Chess?}
 {145}{}{What was that you mentioned about chess?}
-{146}{}{Hej då.}
+{146}{}{Hej dÃ¥.}
 {147}{}{Well, it was about how to beat the professor's scorpion at chess. My friend, it is simplicity itself.
  The Flying Liver Attack is like a flytrap to that bug - it walks right into it and then can't extricate itself. I guarantee your success.}
 {148}{}{'Anks! Bye!}
@@ -77,7 +77,7 @@
 {168}{}{Visst.}
 {169}{}{I think not.}
 {170}{}{Alas, you do not appear to have a shovel. Until you can find one, I can't go. I await your return with bated pistil.}
-{171}{}{Hej då.}
+{171}{}{Hej dÃ¥.}
 {172}{}{Psst! Hey! Hey, pal! Over here!}
 {173}{}{C'mere! I promise I won't hurt you.}
 {174}{}{Come on. You scared of a plant?}

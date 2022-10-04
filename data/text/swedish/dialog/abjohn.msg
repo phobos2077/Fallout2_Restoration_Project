@@ -4,7 +4,7 @@
 {300}{}{Hi there, youngster.}
 {301}{}{Who are you?}
 {302}{}{Have you heard anything about a GECK or Vault 13?}
-{303}{}{Hej då.}
+{303}{}{Hej dÃ¥.}
 {400}{}{My name is John, I'm one of the oldest monks here.}
 {401}{}{So, what's your job?}
 {402}{}{I see, bye.}
@@ -15,7 +15,7 @@
  to find medicine for that problem in today's world you know.}
 {407}{}{I might have a solution for your heart problems...}
 {408}{}{Sorry to hear that, Bye.}
-{410}{}{Hej då.}
+{410}{}{Hej dÃ¥.}
 {411}{}{You do? Are you saying that you actually HAVE heart pills?}
 {412}{}{Yes, I do. It would be a pleasure to give them to you.}
 {413}{}{Yeah, I have heart pills. You can have them for $400.}

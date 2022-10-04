@@ -24,7 +24,7 @@
 {121}{}{I'm looking for something. Maybe you could join me.}
 {122}{slk6}{We owe Maida $350. You heading south? We walkabout with you and look for sis. You
  having $350?}
-{123}{}{Näe.}
+{123}{}{NÃ¤e.}
 {124}{}{Uh-huh!}
 {125}{}{Here's the $350.}
 {126}{}{Who's we?}
@@ -38,7 +38,7 @@
 {143}{}{Ok... Can I ask you something else?}
 {150}{slk6b}{That be funny, fren. At least, Grampy Bone think so. He say you got wit. Say
  you going to need it.}
-{151}{}{Varför?}
+{151}{}{VarfÃ¶r?}
 {152}{}{Who's Grampy Bone?}
 {153}{}{Can I ask you something else?}
 {160}{slk6c}{Him got feeling about you. Grampy Bone one smart spirit.}
@@ -102,8 +102,8 @@
 {321}{slk26b}{The spirits are sometimes hard to understand. They see things you and we can't.}
 {322}{slk26c}{Spirits be willing to talk. What you want?}
 {323}{}{Eh?}
-{324}{}{Nä.}
-{325}{}{Näe.}
+{324}{}{NÃ¤.}
+{325}{}{NÃ¤e.}
 {326}{}{What do they tell you about this place?}
 {327}{}{What do they tell you about our chances?}
 {328}{}{I'd rather talk about something else.}
@@ -224,7 +224,7 @@
 {754}{slk43a}{Yeah. We be giving this to Maida. Then we be free. Want us to walk by-and-by?}
 {755}{slk43b}{Yeah. You may be ugly outside, but you're way cool inside. We're free to find sis now.}
 {756}{slk43c}{Oh, yeah. Way cool. We'd go with you, but you're already a crowd.}
-{757}{}{Näe.}
+{757}{}{NÃ¤e.}
 {758}{}{Aha.}
 {759}{}{Not right now, thanks.}
 {760}{}{That'd be great.}
@@ -247,7 +247,7 @@
  peep him, get pretty hot.}
 {777}{}{Vic's here but I don't think he knows much about slaves. Other than being held as one in the
  Den, that is. Tell me something else.}
-{778}{}{Hej då.}
+{778}{}{Hej dÃ¥.}
 {779}{slk48a}{Slavers got our sis. Thought Vic be having information. Couldn't peep him, got p.o.'d, drank
  like a fish. Spirits of Anger and Chaos pop out and now we have to pay some coin to make it right.}
 {780}{slk48b}{We be trying to know which way to go to find slavers who take sis. Maybe south.}
@@ -411,7 +411,7 @@
 {955}{slk81a}{Sis found. We send her home. She strong, can make it fine. We want go with you. Grampy
  Bone say you have big path to travel.}
 {956}{slk81b}{You be having us go with you now?}
-{957}{}{Näe.}
+{957}{}{NÃ¤e.}
 {958}{}{Aha.}
 {959}{}{You should return to your village with her to make sure she's safe. I'll miss you, Sulik.}
 {960}{}{Let's go, Sulik.}

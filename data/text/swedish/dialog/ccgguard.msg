@@ -15,25 +15,25 @@
 {114}{gate3}{Nobody gets... Damn. (slowly) Need pass get inside. You no got pass. You go away. You no go away, you get hurt. Understand?}
 {115}{}{How bout me hurt you instead?}
 {116}{}{Ok. Me go.}
-{117}{gate14}{(lägger handen på vapnet) Ge mig inga ursäkter! Du måste antingen visa mig ditt passerkort eller ge mig lösenordet!}
-{118}{}{Kan inte hitta passet, kan inte komma ihåg lösenord!}
+{117}{gate14}{(lÃ¤gger handen pÃ¥ vapnet) Ge mig inga ursÃ¤kter! Du mÃ¥ste antingen visa mig ditt passerkort eller ge mig lÃ¶senordet!}
+{118}{}{Kan inte hitta passet, kan inte komma ihÃ¥g lÃ¶senord!}
 {119}{}{Screw this. Me kill.}
-{120}{}{Jag är ledsen, men jag har tappat bort mitt passerkort och jag vet inget om ett lösenord.}
+{120}{}{Jag Ã¤r ledsen, men jag har tappat bort mitt passerkort och jag vet inget om ett lÃ¶senord.}
 {121}{}{Screw you and everyone who looks like you!}
 {122}{gate5}{I suggest you leave this installation immediately and do not return here without proper authorization. Do I make myself clear?}
 {123}{}{Ja.}
-{124}{gate6a}{Jag förstår. Kan jag få ditt lösenord?}
+{124}{gate6a}{Jag fÃ¶rstÃ¥r. Kan jag fÃ¥ ditt lÃ¶senord?}
 {125}{gate6b}{I see. (places hand on weapon) All new recruits are to report for duty alone. I suggest you leave this installation immediately and do not return here with your entourage. Do I make myself clear?}
 {126}{}{Sheepshead.}
 {127}{}{Ja.}
 {128}{gate7a}{One moment. (pause) Okay, you check out. Report to the drill chief. Go through the gate, past the kennel, and it's the first door on the right.}
 {129}{gate7b}{(mumbles) Damn jarheads are getting dumber by the hour.}
 {130}{}{Ok.}
-{131}{gate8a}{Halt! -- Åh. Jag ser att du har återvänt och att du är ensam den här gången. Okej, rekryten, vad är lösenordet?}
+{131}{gate8a}{Halt! -- Ã…h. Jag ser att du har Ã¥tervÃ¤nt och att du Ã¤r ensam den hÃ¤r gÃ¥ngen. Okej, rekryten, vad Ã¤r lÃ¶senordet?}
 {132}{gate8b}{Halt! -- You again. I see you've still got your group with you. (places hand on weapon) I suggest you leave this installation immediately and do not return here. Do I make myself clear?}
 {133}{}{Sheepshead.}
 {134}{}{Ja.}
-{135}{gate9}{Halt! -- Tillbaka igen, va? Det är bäst att du har ditt passerkort eller kan ditt lösenord den här gången. Nå, jag väntar?}
+{135}{gate9}{Halt! -- Tillbaka igen, va? Det Ã¤r bÃ¤st att du har ditt passerkort eller kan ditt lÃ¶senord den hÃ¤r gÃ¥ngen. NÃ¥, jag vÃ¤ntar?}
 {136}{}{Uh... me not know. Me come back.}
 {137}{}{Screw this. Me walk in over you dead body.}
 {138}{}{Look, I lost my pass...}

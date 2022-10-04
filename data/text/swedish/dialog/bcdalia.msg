@@ -17,7 +17,7 @@
 {115}{}{Me want talk.}
 {116}{}{Ok, me go.}
 {117}{}{I want to talk to you.}
-{118}{}{Hej då.}
+{118}{}{Hej dÃ¥.}
 {119}{}{I said I'm Dalia. Look, I don't mean to be rude, but I don't want to talk to anyone right now. Okay?}
 {120}{}{Okay, bye.}
 {121}{}{Just little more.}
@@ -60,6 +60,6 @@
 {153}{}{Thanks. Me no forget this, Dalia.}
 {154}{}{Thanks. I won't forget this, Dalia.}
 {155}{}{Then go the hell away and leave me be!}
-{156}{}{Färdigt.}
+{156}{}{FÃ¤rdigt.}
 {157}{}{Then go the hell away and leave me be!}
-{158}{}{Färdigt.}
+{158}{}{FÃ¤rdigt.}

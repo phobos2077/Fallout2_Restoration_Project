@@ -1,10 +1,10 @@
 {100}{}{You see a stout nun.}
 {101}{}{You see Elaine.}
 {102}{}{You still see her.}
-{200}{}{Hälsningar!}
+{200}{}{HÃ¤lsningar!}
 {201}{}{Hi, what's your name?}
 {202}{}{What can you tell me about the Abbey?}
-{203}{}{Hej då.}
+{203}{}{Hej dÃ¥.}
 {300}{}{If you want to know more about our order, talk to the Abbot. You can find him in his quarters on the third floor.}
 {301}{}{I see. A few more questions...}
 {400}{}{Of course. What would you like to know?}
@@ -25,7 +25,7 @@
 {700}{}{Jag }
 {701}{}{. Who you?}
 {710}{}{Hehe. That pretty name.}
-{711}{}{Hej då!}
+{711}{}{Hej dÃ¥!}
 {720}{}{You're a special little guy aren't you? Could you do me a BIG favor and be my special helper today?}
 {721}{}{You're a special little gal aren't you? Could you do me a BIG favor and be my special helper today?}
 {722}{}{Me special. Me help.}

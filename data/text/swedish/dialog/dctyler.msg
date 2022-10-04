@@ -41,7 +41,7 @@
  Who the hell would want that shit?}
 {281}{}{Fuck it. Just go in. Does he think it's just going to up and leave? Who the
  hell would want that shit anyhow?}
-{282}{}{Hej då.}
+{282}{}{Hej dÃ¥.}
 {290}{}{Okay, fuck. It's not like I really care. Like you would know what to do with any of that shit anyway.}
 {291}{}{Grrrr.}
 {292}{}{Tack.}
@@ -86,7 +86,7 @@
 {393}{}{I understand, thanks. Have fun.}
 {394}{}{See ya.}
 {400}{}{You better believe it! We're going to drink until we drop!}
-{401}{}{Hej då.}
+{401}{}{Hej dÃ¥.}
 {410}{}{What the fuck do you care. Beat it.}
 {411}{}{Yeah, so-so.}
 {412}{}{You trying to annoy me?}
@@ -95,7 +95,7 @@
 {415}{}{Okej.}
 {416}{}{Beat it.}
 {417}{}{Been better.}
-{418}{}{Åh.}
+{418}{}{Ã…h.}
 {430}{}{Can't wait for that party. Hope he has a few whores there again.}
 {431}{}{My buddy really knows how to throw a party.}
 {432}{}{Almost party time.}

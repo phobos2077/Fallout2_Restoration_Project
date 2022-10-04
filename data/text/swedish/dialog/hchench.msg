@@ -45,7 +45,7 @@
 {220}{}{Ja.}
 {221}{}{Nej.}
 {222}{}{All right. See ya, then.}
-{223}{}{Hej då.}
+{223}{}{Hej dÃ¥.}
 {300}{}{Hatch}
 {301}{}{Stark}
 {302}{}{Darin}

@@ -87,7 +87,7 @@ because this is going to cost ::cough:: $200.}
 {175}{}{Ha! And it's kicking around inside the body of a 70-year-old man!}
 {176}{}{I don't want to be taking shit from you, old man.}
 {177}{}{Ummm.. Yeah. I had more questions.}
-{178}{}{Hej då.}
+{178}{}{Hej dÃ¥.}
 {179}{}{Threaten the only doctor in town. Good thinking. ::cough:: Friend, if you want something, you
  can ask politely. Otherwise, get the hell out of my hospital.}
 {180}{}{Bite me, old man. Get ready to die.}

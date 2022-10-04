@@ -40,7 +40,7 @@ Are you really threatening me for this?}
 {138}{}{I'll be back for the armor.}
 {139}{}{I can't very well work my magic on it if you don't have it. Come back when you do.}
 {140}{}{I have more questions.}
-{141}{}{Hej då.}
+{141}{}{Hej dÃ¥.}
 {142}{}{::he shrugs::
 You want this armor or not? It's $10,000 flat out.}
 {143}{}{I'll get back to you.}
@@ -66,7 +66,7 @@ Try it, bucko. You'll have guards down on your ass and you'll never learn how to
 {161}{}{I have some questions for you.}
 {162}{}{I'm here for my armor.}
 {163}{}{Too late.}
-{164}{}{Hej då.}
+{164}{}{Hej dÃ¥.}
 {165}{}{It's not ready yet. You have to give me time!}
 {166}{}{Fine. I have some questions.}
 {167}{}{Fine. I'll be back.}

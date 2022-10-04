@@ -26,8 +26,8 @@
 {353}{}{[CONTINUE]}
 {354}{}{[COMBAT]}
 {355}{}{[GIVE MONEY]}
-{375}{}{Hej då.}
-{376}{}{Farväl.}
+{375}{}{Hej dÃ¥.}
+{376}{}{FarvÃ¤l.}
 {400}{}{You die due to the lethal injection from Dr. Troy.}
 {450}{}{The coast is clear. Let's move out!}
 {900}{}{The old, worn door looks like it could be destroyed
@@ -64,7 +64,7 @@
 {1016}{}{Oops, I nearly forgot the GECK. I wonder if one might be somewhere around here.}
 {1017}{}{The door blasts open from your GECK code.}
 {1018}{}{You wiped out Frog Morton's Gang.}
-{1019}{}{Du inaktiverar stötplattorna.}
+{1019}{}{Du inaktiverar stÃ¶tplattorna.}
 {1020}{}{You broke up the bar brawl.}
 {1021}{}{You disabled the Robot Repair Terminal.}
 {1050}{}{You grind the scorpion toxin into antidote.}

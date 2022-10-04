@@ -14,5 +14,5 @@
 {252}{}{Yah. Me got stuff!}
 {253}{}{Me go.}
 {260}{}{Good trading with you. Good luck in your travels.}
-{261}{}{Hej då.}
+{261}{}{Hej dÃ¥.}
 {270}{}{Glad to have you back. Can I interest you in something else?}

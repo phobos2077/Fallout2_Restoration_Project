@@ -3,7 +3,7 @@
 {102}{}{Run diagnostic check.}
 {103}{}{Leave.}
 {104}{}{!ERROR! !ERROR! PROBLEM ENCOUNTERED TERMINATING SEQUENCE!}
-{105}{}{≈terv‰nd till Huvudmeny}
+{105}{}{√Öterv√§nd till Huvudmeny}
 {106}{}{Diagnostic Check... circuit board error....section four... loose wiring.}
 {107}{}{Done}
 {108}{}{It's too difficult to repair this.}

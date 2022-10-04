@@ -1,7 +1,7 @@
 {100}{}{You see a computer terminal.}
 {101}{}{You see the Emperor Computer terminal.}
 {102}{}{You see a computer with a built-in touch screen for its interface. Engraved on the side is "Emperor v8.8 Computer Terminal".}
-{103}{}{Hälsningar. Vänligen ange ditt lösenord för att bekräfta din identitet.}
+{103}{}{HÃ¤lsningar. VÃ¤nligen ange ditt lÃ¶senord fÃ¶r att bekrÃ¤fta din identitet.}
 {104}{}{::drool::}
 {105}{}{CSPDMSHR-Shih-huang-ti-X9372}
 {106}{}{KSLJKJ:Ken-Lee-97313}
@@ -241,7 +241,7 @@ Warning! Uplink to CIN central Beijing server unavailable. Retrieving archived d
  contained within operational directives. May our souls return to this Earth.}
 {401}{}{::back::}
 {410}{}{From: Central Command                                            All forces in position. Transmitting final confirmation
- codes. Operation Youmíng is go.}
+ codes. Operation YoumÃ­ng is go.}
 {411}{}{::back::}
 {420}{}{Scanning communication outlets...                                    PLA CentCom...		offline
                                                 CIN Beijing...		offline

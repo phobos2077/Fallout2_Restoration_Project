@@ -9,10 +9,10 @@
 {107}{}{I just wanted to ask a couple of questions.}
 {108}{}{Well, I think you'll find that we're all out of answers here. Why don't you come back when we
  get a shipment in?}
-{109}{}{Färdigt.}
+{109}{}{FÃ¤rdigt.}
 {110}{}{Hello, again. I still don't have any answers for you, stranger. Why don't you take a hint and
  get the duck out of fodge?}
-{111}{}{Färdigt.}
+{111}{}{FÃ¤rdigt.}
 {112}{}{Rebecca has told me what you did for her. I want to apologize for the treatment you received
  here. You certainly didn't deserve it. What can I help you with?}
 {113}{}{Me got questions.}
@@ -62,16 +62,16 @@
 {146}{}{Yeah, I guess it has to be done.}
 {147}{}{I don't know.}
 {148}{}{Excellent. Good luck to you, and thank you.}
-{149}{}{Färdigt.}
+{149}{}{FÃ¤rdigt.}
 {150}{}{Well, take the time to think about it, but know this -- until Darion is out of the picture, I
  have no choice but to maintain things around here as they are. It's for the safety of everyone
  concerned. That means no deal and you are still persona non grata. Understand?}
 {151}{}{Okej.}
 {152}{}{Hi. I'm still waiting for a final resolution to our troubles. In other words, kick Darion's ass!}
-{153}{}{Färdigt.}
+{153}{}{FÃ¤rdigt.}
 {154}{}{You've done it, friend! We're no longer under Darion's yoke. Thank you! I'm ready to accept your deal with NCR now.
  Just have them send one of their reps by and I'll seal the deal.}
-{155}{}{Färdigt.}
+{155}{}{FÃ¤rdigt.}
 {156}{}{Thanks for the chance of a new life. We all owe you.}
 {157}{}{Just go away. I have nothing to say to you.}
 {158}{}{Wait, before you go... I found this key card some time ago, and I have no idea what it's for.

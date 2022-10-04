@@ -84,7 +84,7 @@
 {285}{}{[Kitsune ponders your words for a good long while. Finally, she lines her eyes with yours.] I can't pretend you don't have a point. Maybe... maybe I will take my chances with you.}
 {286}{}{Let's get out of here, then. It's time we left this dump behind.}
 {287}{}{Actually, I think I'm going to strike out on my own. I've always been the independent type, so it shouldn't be any skin off my back. A lot has changed since I've been away and I'd like to see it for myself. Thanks for unthawing me. You take care of yourself.}
-{288}{}{[Färdig]}
+{288}{}{[FÃ¤rdig]}
 {300}{}{Yes?}
 {301}{}{I'm all ears.}
 {302}{}{Something you wanted?}

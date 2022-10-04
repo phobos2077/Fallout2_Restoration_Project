@@ -36,7 +36,7 @@
 {135}{}{Hey man, Doofus warned you.}
 {136}{}{Fuck you. I am not answering your questions.}
 {137}{}{What is this place?}
-{138}{}{Farv‰l.}
+{138}{}{Farv√§l.}
 {139}{}{Bye-bye.}
 {140}{}{Whoa, thought communication! I'm picking up mental vibes! Okay, let me try... uhhh.... Uhhh...}
 {141}{}{Yes?}

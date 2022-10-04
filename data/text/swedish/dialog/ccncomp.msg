@@ -1,7 +1,7 @@
 {100}{}{You see a computer.}
 {101}{}{You see a computer.}
 {102}{}{You see the central computer for Navarro.}
-{103}{}{Vänligen ange ditt lösenord.}
+{103}{}{VÃ¤nligen ange ditt lÃ¶senord.}
 {104}{}{Enter 'Snookie'}
 {105}{}{Forget this doo doo.}
 {106}{}{Screw this.}
@@ -39,7 +39,7 @@
 {138}{}{Fine.}
 {139}{}{Sounds good.}
 {140}{}{Thank you for accessing EnclaveNet. Logging off... }
-{141}{}{Färdigt.}
+{141}{}{FÃ¤rdigt.}
 {142}{}{Command?}
 {143}{}{Unauthorized activity detected in main computer complex. Security alert. Security alert.}
 {144}{}{Initiate welcome program.}

@@ -102,14 +102,14 @@
 {244}{}{[You can hardly keep from gagging.] I've got to go.}
 {245}{}{OK, $1000.}
 {246}{}{[You and Karl slip out back for a quickie. To your surprise, you find that you enjoyed it.]}
-{247}{}{[Han nyktrar snabbt till och börjar berätta sin historia.] Jag brukade vara en hederlig medborgare innan
- jag kom hit. Jag var en fredlig bonde som arbetade på fälten lika hårt som någon annan man -- tills de började
- dök upp på natten. Allihop glödande, med degig vit hud... Det skrämde skiten ur mig, det gjorde det. Night
- efter natt dök de upp och stal både grödor och boskap; jag kunde inte göra något för att stoppa dem. Jag vet
- vad du kommer att säga - "Varför bad du inte om hjälp?" Jag säger dig, det gjorde jag! Ingen trodde mig, de
- trodde att jag var galen. Till slut blev det bara för mycket för mig. JAG KLARADE INTE AV DET LÄNGRE! Jag gav upp
- och gick och kom hit -- och här har jag varit sedan dess. [Karl börjar gråta okontrollerat. Du
- bestämmer dig för att lämna honom med sitt elände.]}
+{247}{}{[Han nyktrar snabbt till och bÃ¶rjar berÃ¤tta sin historia.] Jag brukade vara en hederlig medborgare innan
+ jag kom hit. Jag var en fredlig bonde som arbetade pÃ¥ fÃ¤lten lika hÃ¥rt som nÃ¥gon annan man -- tills de bÃ¶rjade
+ dÃ¶k upp pÃ¥ natten. Allihop glÃ¶dande, med degig vit hud... Det skrÃ¤mde skiten ur mig, det gjorde det. Night
+ efter natt dÃ¶k de upp och stal bÃ¥de grÃ¶dor och boskap; jag kunde inte gÃ¶ra nÃ¥got fÃ¶r att stoppa dem. Jag vet
+ vad du kommer att sÃ¤ga - "VarfÃ¶r bad du inte om hjÃ¤lp?" Jag sÃ¤ger dig, det gjorde jag! Ingen trodde mig, de
+ trodde att jag var galen. Till slut blev det bara fÃ¶r mycket fÃ¶r mig. JAG KLARADE INTE AV DET LÃ„NGRE! Jag gav upp
+ och gick och kom hit -- och hÃ¤r har jag varit sedan dess. [Karl bÃ¶rjar grÃ¥ta okontrollerat. Du
+ bestÃ¤mmer dig fÃ¶r att lÃ¤mna honom med sitt elÃ¤nde.]}
 {248}{}{Oh jeez. I must have dropped my money along the way. Here's $}
 {249}{}{.}
 {250}{}{Zzz}

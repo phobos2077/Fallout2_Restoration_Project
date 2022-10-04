@@ -11,7 +11,7 @@
 {110}{}{What can you tell me about Broken Hills?}
 {111}{}{I want some chemicals mixed.}
 {112}{}{I was told to speak to you about a certain matter regarding mutants.}
-{113}{}{Hej då.}
+{113}{}{Hej dÃ¥.}
 {114}{}{::A look of disgust crosses his face:: Get out of here. I don't have time for you.}
 {115}{}{[KLAR]}
 {116}{}{Drugstore. It's a drugstore. Look, do you want anything?}
@@ -41,7 +41,7 @@
 {160}{}{Ja.}
 {161}{}{Nej.}
 {162}{}{Great. Bye.}
-{163}{}{Hej då.}
+{163}{}{Hej dÃ¥.}
 {164}{}{He's been ruling here ever since the Master was destroyed. He puts down anyone who disagrees
  with him... or they just "disappear." The place looks civilized on the top of things, but the truth is
  that it's a killing ground for bloodthirsty mutants. There's a friend of a friend who had friends who
@@ -84,7 +84,7 @@
 {196}{}{Nothing. Bye.}
 {222}{}{Way to turn on your own kind, mutie-lover. How could you do that to Chad? I don't care what you've done for us. You're a
  disgrace to humanity.}
-{223}{}{Hej då.}
+{223}{}{Hej dÃ¥.}
 {224}{}{Well done on the jail work! }
 {225}{}{Tack.}
 {226}{}{Did you really have to kill everyone? Now they're all going to be worried. Well, no matter.}

@@ -1,7 +1,7 @@
 {100}{}{You see Cameron, a fellow tribesman.}
 {101}{}{You see Cameron.}
 {102}{}{You see a young man with bulging muscles and a very confident air about him.}
-{103}{}{Hälsningar,}
+{103}{}{HÃ¤lsningar,}
 {104}{}{. I have the honor of being your final challenge. To continue in your quest you must defeat
  me in unarmed combat. Shall we begin?}
 {105}{}{Me got questions.}

@@ -17,7 +17,7 @@
 {114}{}{I'll take all you got.}
 {115}{}{Maybe next time. Bye.}
 {116}{}{Nice doing business with ya. See you around.}
-{117}{}{Hej då.}
+{117}{}{Hej dÃ¥.}
 {118}{}{Seems you're short on cash. How about you give me five minutes with yer woman. I'll make it
  worth your while.}
 {119}{}{Seems you're short on cash. How bout give'n me 5 minutes with yer man. You know what I mean. I can give you pelts in trade.}
@@ -29,7 +29,7 @@
  pelts.]}
 {124}{}{[Davin seems no worse for wear after the experience.]}
 {125}{}{[You feel dirty in more than one sense of the word - but you got some gecko pelts.]}
-{126}{}{Hej då.}
+{126}{}{Hej dÃ¥.}
 {127}{}{[He holds up his right hand and says] How. Me mighty trapper. Hunt big geckos. Me no mean
  trespass on your land. Leave peacefully. [He hands you a gecko pelt as a gift.]}
 {128}{}{[END]}

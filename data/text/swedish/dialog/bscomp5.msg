@@ -5,4 +5,4 @@
  normally.}
 {104}{}{This terminal monitors the power generator. It indicates that the unit is off line due to a
  malfunction of some sort.}
-{105}{}{Färdigt.}
+{105}{}{FÃ¤rdigt.}

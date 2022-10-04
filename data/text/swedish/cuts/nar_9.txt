@@ -1,7 +1,7 @@
-1:Det är över.
-2:Valv 13 tillhör Enigheten och Mästaren.
-3:Din kunskap om Valvets försvar räddade många mutanters liv under attacken.
-4:Det var du personligen som dödade den sista av dem när du tog livet av Övervakaren.
-5:Du kommer säkerligen att bli en av de bästa soldaterna för Enigheten, och dina färdigheter kommer att belönas ofta i framtiden.
-6:Du är nöjd.
+1:Det Ã¤r Ã¶ver.
+2:Valv 13 tillhÃ¶r Enigheten och MÃ¤staren.
+3:Din kunskap om Valvets fÃ¶rsvar rÃ¤ddade mÃ¥nga mutanters liv under attacken.
+4:Det var du personligen som dÃ¶dade den sista av dem nÃ¤r du tog livet av Ã–vervakaren.
+5:Du kommer sÃ¤kerligen att bli en av de bÃ¤sta soldaterna fÃ¶r Enigheten, och dina fÃ¤rdigheter kommer att belÃ¶nas ofta i framtiden.
+6:Du Ã¤r nÃ¶jd.
 7:Men det finns fortfarande ett litet tvivel om vad som kunde ha varit...

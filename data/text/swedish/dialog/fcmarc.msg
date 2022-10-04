@@ -13,15 +13,15 @@
 {112}{}{Anks?}
 {113}{}{I'm Marc. I'm the resident smart-ass and know-it-all. ::he smiles::}
 {114}{}{Oh. I have other questions.}
-{115}{}{Hej då.}
+{115}{}{Hej dÃ¥.}
 {116}{}{This is the Poseidon Marine Vessel Valdez - also called the PMV Valdez. If you want more information about the Valdez, the best person to ask is the Captain.}
 {117}{}{The Captain? Who's that?}
 {118}{}{I have other questions.}
-{119}{}{Hej då.}
+{119}{}{Hej dÃ¥.}
 {120}{}{In charge? No one's in charge of us.}
 {121}{}{Where'd you all come from?}
 {122}{}{I have other questions to ask you, then.}
-{123}{}{Hej då.}
+{123}{}{Hej dÃ¥.}
 {124}{}{The Captain is a tough-ass ol' military guy. He sits upstairs there and checks the place out. He's got some thorough knowledge about this ship.}
 {125}{}{Thanks. I have more questions.}
 {126}{}{Thanks. Bye.}
@@ -43,17 +43,17 @@
 {142}{}{What are they?}
 {143}{}{Where can I find the Captain?}
 {144}{}{I wanted to ask something else.}
-{145}{}{Hej då.}
+{145}{}{Hej dÃ¥.}
 {146}{}{They're crazy. Don't trust them - unless you're mentally feeble or like being screwed over. They're interested only in your money and your soul, and there's a good chance they'll destroy the one to get at the other. I've seen it happen too many times.}
 {147}{}{Have you figured out to move the tanker?}
 {148}{}{Tell me about the Shi.}
 {149}{}{I have other questions.}
-{150}{}{Hej då.}
+{150}{}{Hej dÃ¥.}
 {151}{}{They're a good sort, as far as they go. They're a little untrusting of outsiders, but then, that's not always such a bad attitude to take in these times. They've got some weird customs and they talk funny, but they're all right.}
 {152}{}{Have you figured out to move the tanker?}
 {153}{}{Tell me about the Hubologists.}
 {154}{}{I have other questions.}
-{155}{}{Hej då.}
+{155}{}{Hej dÃ¥.}
 {156}{}{You want to know what our plans are? We're going to keep moving around until we can find a place that hasn't been screwed over by human greed and then we're going to try to set up a better society.}
 {157}{}{Do you know how you're going to do that?}
 {158}{}{I have other questions.}

@@ -24,7 +24,7 @@
 {120}{}{I'll do the caravan to NCR.}
 {121}{}{How about Vault City?}
 {122}{}{I changed my mind. I'd like something else, instead.}
-{123}{}{Hej då!}
+{123}{}{Hej dÃ¥!}
 {124}{}{Yeah? What do you wanna buy?}
 {125}{}{You got questions about Chad? Like what?}
 {126}{}{Is he skimming off the top?}
@@ -39,7 +39,7 @@
 {133}{}{Not interested? All right. Come back when I can do something for you.}
 {134}{}{Okay!}
 {135}{}{Well, actually, I was interested in something else.}
-{136}{}{Hej då.}
+{136}{}{Hej dÃ¥.}
 {137}{}{All right. Gecko it is. Come back on the 1st of the month and you'll be on your way. Want anything else?}
 {138}{}{Ja.}
 {139}{}{Nej.}
@@ -78,7 +78,7 @@
 {166}{}{I'm off duty now. Talk to me when I'm at the shop.}
 {167}{}{He had it coming? You piece of crap, money ain't worth killing over. Get the hell out of my
  store.}
-{168}{}{Hej då.}
+{168}{}{Hej dÃ¥.}
 {169}{}{Any trouble he's in, he made for himself. Too bad... he was a hell of a caravan master. You want
  something?}
 {170}{}{Out of my store. Y'ain't wanted here.}

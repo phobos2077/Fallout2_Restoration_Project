@@ -78,7 +78,7 @@
 {164}{}{Ah. Well, I've got to go.}
 {165}{}{I'll not help someone like you. Go away.}
 {166}{}{Okay, well, you take care, and come back if you need anything.}
-{167}{}{Färdigt.}
+{167}{}{FÃ¤rdigt.}
 {168}{}{Now he's paranoid. He believes that Tandi is out to get him. He's obsessed with revenge, and he
  wants Tandi dead. He's riddled with guilt 'cause he hid and lived, rather than dying with his
  gang... and the list goes on and on.}
@@ -90,7 +90,7 @@
 {205}{}{Well, I see no reason to return to my old life. The town above us doesn't have any medical assistance, so I think
  I will go up and help them. Thank you again for freeing me.}
 {206}{}{Of course. See you later.}
-{207}{}{Hej då!}
+{207}{}{Hej dÃ¥!}
 {210}{}{I still need to pack a few things. I'll see you on the outside.}
 {220}{}{Hey there, good to see you again! Everyone here really appreciates what you have done. I personally am glad
  to be out of there. Working for Darion was a nightmare.}
@@ -103,6 +103,6 @@
  and was heading out when Darion captured me.}
 {231}{}{That's terrible. Well, I hope everything works out for you now.}
 {240}{}{I hope so too. I think I can put my medical skills to good use here.}
-{241}{}{Hej då.}
+{241}{}{Hej dÃ¥.}
 {250}{}{Thanks again for everything.}
 {251}{}{It feels good to be helping civilized people again.}

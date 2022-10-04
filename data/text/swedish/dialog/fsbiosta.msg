@@ -3,7 +3,7 @@
 {102}{}{You see a functional computer terminal.}
 {103}{}{Greetings. Please confirm your identity.}
 {104}{}{[Oooh! Look at the flashing lights!]}
-{105}{}{::gissa lösenord::}
+{105}{}{::gissa lÃ¶senord::}
 {106}{}{INTLVR-Dnky-Pnch-98790}
 {107}{}{::hack into computer::}
 {108}{}{Log Out}
@@ -13,7 +13,7 @@
 {112}{}{Xeno program.}
 {113}{}{Recent Personnel Notes.}
 {114}{}{Deactivate workstation.}
-{115}{}{Felaktigt lösenord. Var vänligen och tala med systemadministratören. Adjö.}
+{115}{}{Felaktigt lÃ¶senord. Var vÃ¤nligen och tala med systemadministratÃ¶ren. AdjÃ¶.}
 {116}{}{::hack into computer::}
 {117}{}{::leave::}
 {118}{}{Intruder alert activated. Shutting down. Have a nice day.}
@@ -44,7 +44,7 @@ Dr. Long: Recently deceased via FEV serum.}
 {140}{}{Station deactivated.}
 {141}{}{Activate station.}
 {142}{}{-leave-}
-{143}{}{[Du trycker klumpigt på tangenterna och utlöser det rätta lösenordet... din tur är otrolig!]}
+{143}{}{[Du trycker klumpigt pÃ¥ tangenterna och utlÃ¶ser det rÃ¤tta lÃ¶senordet... din tur Ã¤r otrolig!]}
 {144}{}{-more-}
 {145}{}{The computer does not respond to any input.}
 {146}{}{You can't seem to find anywhere to put that.}

@@ -6,7 +6,7 @@
 {153}{}{I would prefer that you take your business elsewhere.}
 {154}{}{You are a business man. Let's conduct business.}
 {155}{}{Can I ask you something.}
-{156}{}{Hej dÂ.}
+{156}{}{Hej d√•.}
 {157}{}{I am so happy to see you again. What can I do for you today?}
 {158}{}{Let's trade.}
 {159}{}{Can I ask you something?}
@@ -15,14 +15,14 @@
  you?}
 {162}{}{Yes, let's trade.}
 {163}{}{I need some information.}
-{164}{}{Farv‰l.}
+{164}{}{Farv√§l.}
 {165}{}{Hello, madam. I am called Tubby by my friends, and I welcome you
  to my store. How may I help you?}
 {166}{}{I want to buy some things.}
 {167}{}{I need some information.}
-{168}{}{Farv‰l.}
+{168}{}{Farv√§l.}
 {169}{}{I would prefer that you leave, instead.}
-{170}{}{Hej dÂ.}
+{170}{}{Hej d√•.}
 {171}{}{What would you like to know?}
 {172}{}{Who's in charge of this town?}
 {173}{}{Why is everyone selling drugs?}

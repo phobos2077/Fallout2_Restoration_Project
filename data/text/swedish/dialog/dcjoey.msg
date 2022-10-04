@@ -110,7 +110,7 @@
  uncut shit, shipped directly from New Reno. }
 {250}{}{Wait, I'll buy it.}
 {251}{}{Well, can I ask you something?}
-{252}{}{Hej då.}
+{252}{}{Hej dÃ¥.}
 {253}{}{OK, I'll drop the price to $350, but no less! That's my final offer. You got to pay
  top dollar for the good shit. Don't buy from Tubby or any of those losers. They cut their
  shit. I'm the only one for miles that can get a hold of the best stuff.}

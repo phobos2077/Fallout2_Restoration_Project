@@ -389,7 +389,7 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {435}{}{I, uh, don't remember.}
 {436}{}{You'll have to catch me first.}
 {437}{lyn061}{Hmmmm... very well. But do not appear again until you have your Citizenship papers. Good day.}
-{438}{}{Farv‰l.}
+{438}{}{Farv√§l.}
 {439}{}{Good day, First Citizen.}
 {440}{lyn062}{Oh, really? That confirms my suspicions. Your Vault City access is now revoked. Hand
  over your Day Pass and go with my guards to the front gate.}

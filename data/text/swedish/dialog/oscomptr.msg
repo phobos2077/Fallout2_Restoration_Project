@@ -28,11 +28,11 @@
 {121}{}{Peering into the mass of cables and circuit boards, you find that the system has been deliberately sabotaged.
  One of the circuit boards, the voice recognition module, is beyond repair and must be replaced.
  Now all you need to do is find a replacement module.}
-{122}{}{Färdigt.}
-{123}{}{Färdigt.}
+{122}{}{FÃ¤rdigt.}
+{123}{}{FÃ¤rdigt.}
 {124}{}{You install the module in the terminal. The system is repaired.}
 {125}{}{The terminal needs a voice recognition module installed before it can become operational.}
-{126}{}{Färdigt.}
+{126}{}{FÃ¤rdigt.}
 {127}{}{The system is working fine now.}
 {128}{}{Accessing security footage, loading holographic playback...}
 {129}{}{You are the last, Gruthar. The stain of your kind will soon be wiped clean.}

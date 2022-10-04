@@ -18,7 +18,7 @@
 {134}{}{I'd like to trade.}
 {135}{}{I'd like a room for the night.}
 {136}{}{Thanks for your help. Goodbye.}
-{137}{}{Farv‰l.}
+{137}{}{Farv√§l.}
 {140}{}{One tall mug of Golden Gecko Piss coming up. Only $5 for the best beer north of Redding.}
 {141}{}{You poured me a mug of piss!?!}
 {142}{}{Thanks for the beer. I need some information though.}

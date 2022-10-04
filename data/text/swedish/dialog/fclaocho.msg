@@ -8,7 +8,7 @@
 {107}{}{Who are you?}
 {108}{}{I'm looking for some equipment.}
 {109}{}{I'm looking for some information.}
-{110}{}{Hej dÂ.}
+{110}{}{Hej d√•.}
 {111}{}{You want to buy something?}
 {112}{}{::nod head::}
 {113}{}{::shake head::}
@@ -75,7 +75,7 @@
 {174}{}{Who are you?}
 {175}{}{I'm looking for some equipment.}
 {176}{}{I'm looking for some information.}
-{177}{}{Hej dÂ.}
+{177}{}{Hej d√•.}
 {178}{}{You have already given them to the Hubologists. No?}
 {179}{}{Oh yeah... ah... Can I ask something else?}
 {180}{}{Oh yeah... Bye.}
@@ -105,7 +105,7 @@
 {271}{}{Submarine?}
 {280}{}{We have nothing further to discuss, then.}
 {281}{}{You sure? My lovely wife Miria will certainly make it worth your while.}
-{282}{}{Farv‰l.}
+{282}{}{Farv√§l.}
 {285}{}{You drive a hard bargain. Fine, $1500.}
 {286}{}{Here you go. But your information better be worth it.}
 {287}{}{(Lao Chou pockets the $1500.) It's not the tanker that's special. It's just a big rusty tanker like you said.
@@ -155,11 +155,11 @@
 {452}{}{That's outrageous for a simple password. I'll only go as high as $5000.}
 {453}{}{No deal.}
 {460}{}{Ah, much appreciated. The password is XY8QIV2SHI. Others may be watching me after this, so don't forget the password. If ever we discuss it again, I'll need even more money for bribes.}
-{461}{}{Tack. Hej dÂ.}
+{461}{}{Tack. Hej d√•.}
 {470}{}{You are a crafty one, I'll give you that. Fine. I accept your offer. The password is XY8QIV2SHI. Don't forget it, or you'll have buy it from me again.}
-{471}{}{Tack. Hej dÂ.}
+{471}{}{Tack. Hej d√•.}
 {480}{}{Don't insult me with your meager offers. $10000. Take it or leave it.}
 {481}{}{Fine. Here's your $10000.}
 {482}{}{No deal.}
 {490}{}{Your loss then. I don't believe we have anything else to discuss. Goodbye.}
-{491}{}{Hej dÂ.}
+{491}{}{Hej d√•.}

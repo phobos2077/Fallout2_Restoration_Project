@@ -107,12 +107,12 @@
 {168}{}{I see...}
 {169}{}{I am displeased with your decision but I accept it. You may leave, but please return if you
  reconsider.}
-{170}{}{Färdigt.}
+{170}{}{FÃ¤rdigt.}
 {171}{}{Hello}
 {172}{}{No. I'll get to it, though.}
 {173}{}{I'm sorry, Gruthar. The voice module has gone bad. I'll have to go get one.}
 {174}{}{I do not understand the workings of such things but I trust you,}
-{175}{}{Färdigt.}
+{175}{}{FÃ¤rdigt.}
 {176}{}{I shall return, you have my word.}
 {177}{}{Hello}
 {178}{}{No, I'm still looking.}
@@ -171,9 +171,9 @@
 {225}{}{You are not welcome here at this time. You may leave.}
 {226}{}{Good-bye.}
 {227}{}{Good-bye.}
-{228}{}{Färdigt.}
+{228}{}{FÃ¤rdigt.}
 {229}{}{Apology accepted, human. Have a nice day!}
-{230}{}{Färdigt.}
+{230}{}{FÃ¤rdigt.}
 {231}{}{. Have you examined the machine?}
 {232}{}{. I will wait for your return.}
 {233}{}{. Have you found the part to fix the machine?}

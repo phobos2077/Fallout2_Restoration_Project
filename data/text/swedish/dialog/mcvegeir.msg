@@ -108,6 +108,6 @@
  Take this message to Modoc. Give to leader of Modoc and try not to get lost.}
 {300}{}{I'll just be going now.}
 {301}{}{What do you want with me?}
-{302}{}{Hej då.}
+{302}{}{Hej dÃ¥.}
 {303}{}{Ghosts?}
 {400}{}{The message was received well. The town of Modoc would like to establish trade with your people.}

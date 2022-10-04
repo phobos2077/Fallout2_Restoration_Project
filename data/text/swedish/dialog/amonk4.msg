@@ -7,7 +7,7 @@
 {300}{}{Hi, how can I help you?}
 {301}{}{What can you tell me about your order?}
 {302}{}{Let's barter.}
-{303}{}{Hej då.}
+{303}{}{Hej dÃ¥.}
 {400}{}{Our holy mission is to collect and preserve the sacred relics of the forgotten past. Anyone is welcome here, as long as they don't damage anything.}
 {401}{}{Who is your leader?}
 {402}{}{What kind of relics?}

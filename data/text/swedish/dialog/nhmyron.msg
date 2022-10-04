@@ -646,7 +646,7 @@
 {5616}{}{Sure am. Try me.}
 {5617}{}{I think I could show you a thing or two.}
 {5725}{}{Fine, fine. What was the problem with making barbiturates?}
-{5741}{}{Varför?}
+{5741}{}{VarfÃ¶r?}
 {5851}{}{Yes...?}
 {5861}{}{I thought so.}
 {6208}{}{?}

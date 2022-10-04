@@ -22,7 +22,7 @@
 {118}{}{Just one of the miners. Do you want someone important?}
 {119}{}{Ja.}
 {120}{}{Nej.}
-{121}{}{Hej då.}
+{121}{}{Hej dÃ¥.}
 {122}{}{The movers and shakers of the town are Marcus, who's kind of the mayor and sheriff, Zaius, who's
  the mine foreman, and Chad, who runs the caravan. Phil the bartender's the leader of the ghouls, I guess...
  if you can say they have a leader. Who were you again?}

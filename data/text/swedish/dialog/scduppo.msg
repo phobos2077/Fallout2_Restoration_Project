@@ -25,7 +25,7 @@
 {124}{}{I'm looking for Roger Westin. Ever hear of him?}
 {125}{}{Where can I find Frank Carlson?}
 {126}{}{Carl-son?}
-{127}{}{Farväl.}
+{127}{}{FarvÃ¤l.}
 {128}{}{You mean Roger Westin? West of town.}
 {129}{}{One of the stockholders in this place. West of town. I don't think he's looking for ranch hands, if that's what you're thinking.}
 {130}{}{He's the vice-president; I know that much. Otherwise, can't tell you anything, really. Spends all his time at the Presidential House. Hardly ever comes out, especially now what with all the trouble we've been having.}
@@ -39,7 +39,7 @@
 {138}{}{How about 300?}
 {139}{}{How about 200?}
 {140}{}{How about 100?}
-{141}{}{Du har inte hört det här, men lösenordet till dörren på baksidan är GANG PROBLEM LIMB.}
+{141}{}{Du har inte hÃ¶rt det hÃ¤r, men lÃ¶senordet till dÃ¶rren pÃ¥ baksidan Ã¤r GANG PROBLEM LIMB.}
 {142}{}{Hmm... Doesn't sound like something I would be interested in.}
 {143}{}{Hmmm.. Don't forget about my 10 kids.}
 {144}{}{Hmmm.. Well, the wife will want a new fur.}

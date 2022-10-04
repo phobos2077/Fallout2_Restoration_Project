@@ -34,7 +34,7 @@
 {133}{}{Probably not enough to interest you. I'll be back when I have some more.}
 {134}{}{Never mind. Maybe we'll talk later.}
 {135}{}{Well, there's a few things you can do. One is become a Citizen. They never search Citizens. Of course, your chances of becoming a Citizen are next to nothing.}
-{136}{}{Varför?}
+{136}{}{VarfÃ¶r?}
 {137}{}{What else could I do?}
 {138}{}{Nevermind. Maybe we'll talk some other time.}
 {139}{}{If you're not born a Citizen, then you have to take a test to become a Citizen. Number of Outsiders that have taken the test and become Citizens? Zero. Your chances? LESS than zero.}

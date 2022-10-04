@@ -51,14 +51,14 @@
 {201}{}{I don't get paid enough for this.}
 {202}{}{It's not like you were worth the money anyhow.}
 {203}{}{You'll miss me.}
-{204}{}{Hej då.}
+{204}{}{Hej dÃ¥.}
 {205}{}{Lost?}
 {206}{}{Come back anytime.}
 {207}{}{OK. Bye.}
 {208}{}{Yeah, right.}
 {209}{}{Whoo!}
 {210}{}{See ya.}
-{211}{}{Hej då.}
+{211}{}{Hej dÃ¥.}
 {212}{}{Bye bye.}
 {213}{}{It will cost $}
 {214}{}{ for a session. Pay first.}

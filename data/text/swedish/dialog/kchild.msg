@@ -73,7 +73,7 @@
 {221}{}{Do you like me?}
 {222}{}{Are you married?}
 {223}{}{One, two, three - weee!}
-{1000}{}{Äldste}
+{1000}{}{Ã„ldste}
 {1001}{}{Grundare}
 {1002}{}{Vault Dweller}
 {1003}{}{Arroyo}

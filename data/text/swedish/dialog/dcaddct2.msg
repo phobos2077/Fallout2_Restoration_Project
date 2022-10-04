@@ -37,7 +37,7 @@
 {310}{}{Hey, thanks for helping to set this up for us. We'll work hard.}
 {311}{}{You better. Make sure the children stay out of trouble too.}
 {312}{}{We'll do our best.}
-{313}{}{Hej då.}
+{313}{}{Hej dÃ¥.}
 {350}{}{Anywhere but here. The Den's a big place, I'm sure you can find somewhere else to crash. Come on, do you really want the children to live on the streets?}
 {351}{}{Nah, you're right, that ain't cool for the children. Alright, we'll pack our things and move out. This place had a leaky roof anyway.}
 {352}{}{Thanks. This will mean a lot to them. Take care.}

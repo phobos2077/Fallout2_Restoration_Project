@@ -11,7 +11,7 @@
 {303}{}{Tell me about your leader.}
 {304}{}{Do you have any info about a GECK?}
 {305}{}{Do you know where I could find Vault 13?}
-{306}{}{Hej då.}
+{306}{}{Hej dÃ¥.}
 {307}{}{I am in need of some specific information.}
 {308}{}{Such as?}
 {400}{}{Yes, we have. Too many, in my opinion. I can't express to you the tedium of having to back up all these files

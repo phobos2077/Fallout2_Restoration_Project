@@ -27,7 +27,7 @@
 {219}{}{[After about 15 minutes of agonizing work, the leg is in much better shape. It looks as if this man will be able to walk again.]}
 {220}{}{Alright, that should about do it. You'll need a couple days of rest for it to fully heal. Don't put too much pressure on it during this time and you should be fine.}
 {221}{}{Holy spirits posses you, fren! I thank you. Now I be hobbling my way to the shaman. Get some good herb to ease the pain. Be seeing you back at the village, fren.}
-{222}{}{[Färdig]}
+{222}{}{[FÃ¤rdig]}
 {300}{}{I thank you, fren. Be seeing you back at the village.}
 {400}{}{Thanks much, fren. Truly, you are blessed by the spirits.}
 {500}{}{zzzZZzzz...}

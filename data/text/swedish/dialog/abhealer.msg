@@ -3,14 +3,14 @@
 {200}{}{If you are injured, talk to me.}
 {300}{}{How can I help you?}
 {301}{}{I'm injured, can you help me?}
-{302}{}{[Dräggel.]}
+{302}{}{[DrÃ¤ggel.]}
 {303}{}{So, what do you do here at the Abbey?}
-{304}{}{Hej då.}
+{304}{}{Hej dÃ¥.}
 {400}{}{It is done!}
 {401}{}{Tack.}
 {402}{}{Stop that!}
 {403}{}{[GO ON]}
-{404}{}{[LÄMNA]}
+{404}{}{[LÃ„MNA]}
 {405}{}{STOP IT! STOP IT! STOP IT!}
 {406}{}{[GO ON]}
 {407}{}{[SLUTA]}

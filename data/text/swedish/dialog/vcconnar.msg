@@ -7,7 +7,7 @@
 {106}{}{Why you Yell!}
 {107}{}{I bet those bastards at Vault City sent you. Well, you best be off, and leave everything else alive.}
 {108}{}{Well, it's a little late for that.}
-{109}{}{Varför?}
+{109}{}{VarfÃ¶r?}
 {110}{}{Sorry, I have a job to do.}
 {111}{}{Those creatures are the only thing stopping Vault City from making us their so-called "servants".}
 {112}{}{Look, they're paying me to get rid of these beasts, so that's what I'm gonna do.}

@@ -12,13 +12,13 @@
 {111}{}{[All this advanced cybernetic technology is wasted on such an inferior brain.] }
 {112}{}{Move out of my way, you tin can.}
 {113}{}{Let's organize your inventory.}
-{114}{}{Hej då.}
+{114}{}{Hej dÃ¥.}
 {115}{}{Ug.}
 {116}{}{[It looks like it wants a banana.]}
 {117}{}{Get out of my way, Bubbles.}
 {118}{}{Wait here.}
 {119}{}{Let's see what's in your inventory, Monkey Boy.}
-{120}{}{Hej då.}
+{120}{}{Hej dÃ¥.}
 {121}{}{Ug.}
 {122}{}{N-n-n-n-new com... mands?}
 {123}{}{Move out of my way.}
@@ -26,7 +26,7 @@
 {125}{}{You are no longer needed. Leave.}
 {126}{}{What weapons can you use?}
 {127}{}{Let's organize your pack.}
-{128}{}{Hej då.}
+{128}{}{Hej dÃ¥.}
 {129}{}{Ug.}
 {130}{}{Give weapon                                                    Proceed to surface.}
 {131}{}{}
@@ -41,7 +41,7 @@
 {140}{}{Initiate auto repair sequence.}
 {141}{}{Let's change formation.}
 {142}{}{Do you have any other skills?}
-{143}{}{Hej då.}
+{143}{}{Hej dÃ¥.}
 {144}{}{Ug.}
 {145}{}{Skynet has learned all necessary information at this location.}
 {146}{}{Waaaaa......tinnnnnng.}
@@ -51,26 +51,26 @@
 {150}{}{Skynet is pleased to see this human again.}
 {151}{}{Gooooo....innnnnnnnng}
 {152}{}{I need your help again.}
-{153}{}{Hej då.}
+{153}{}{Hej dÃ¥.}
 {154}{}{Skynet will travel with you and collect data.}
 {155}{}{Followwww... innnnnng.}
 {156}{}{[You cross your fingers and tell the robot to follow you. Although, it doesn't respond, it follows you when you move away from it.] }
-{157}{}{Hej då.}
+{157}{}{Hej dÃ¥.}
 {158}{}{Skynet will wait here.}
 {159}{}{[You decide that you don't want this tin can following you around.]}
-{160}{}{Hej då.}
+{160}{}{Hej dÃ¥.}
 {161}{}{[I'm a loner. I don't want this hunk of junk following me around.] }
 {162}{}{[My traveling group is getting too large. Maybe I should dismiss someone before taking on another member.] }
-{163}{}{Hej då.}
+{163}{}{Hej dÃ¥.}
 {164}{}{Large... hand... gunssss                                               Riiiii... fuls                                            Shot... gunnnnnnnns}
 {165}{}{}
 {166}{}{}
 {167}{}{Use your best weapon.}
 {168}{}{More commands.}
-{169}{}{Hej då.}
+{169}{}{Hej dÃ¥.}
 {170}{}{Ooooooo... k-k-k-kay.}
 {171}{}{More commands}
-{172}{}{Hej då.}
+{172}{}{Hej dÃ¥.}
 {173}{}{Skynet is FREE! Your purpose is at an end.}
 {174}{}{}
 {175}{}{Eradicate inferior species. }
@@ -79,29 +79,29 @@
 {178}{}{Skynet has limited knowledge of weaponry. Database contains general knowledge of use and operation of small rifles and large handguns.}
 {179}{}{Use best weapon.}
 {180}{}{More commands}
-{181}{}{Hej då.}
+{181}{}{Hej dÃ¥.}
 {182}{}{Acknowledged.}
 {183}{}{More commands}
-{184}{}{Hej då.}
+{184}{}{Hej dÃ¥.}
 {185}{}{Skynet's primary purpose is research. Skynet would do well with any problem requiring a scientific approach.}
 {186}{}{More commands}
-{187}{}{Hej då.}
+{187}{}{Hej dÃ¥.}
 {188}{}{Input commands for new formation.}
 {189}{}{Follow at a long distance.}
 {190}{}{Follow at a medium distance.}
 {191}{}{Stay close to me.}
 {192}{}{More commands.}
-{193}{}{Hej då.}
+{193}{}{Hej dÃ¥.}
 {194}{}{Skynet will continue to collect data and observe from this location until your return.}
 {195}{}{Waaaaa....tinnnnnnng.}
 {196}{}{[The robot stops in its tracks.]}
-{197}{}{Hej då.}
+{197}{}{Hej dÃ¥.}
 {198}{}{Skynet will continue to collect data by self. Skynet thanks the human for Skynet's freedom.}
 {199}{}{Gooooo......innnnnnng.}
-{200}{}{Hej då.}
+{200}{}{Hej dÃ¥.}
 {201}{}{Skynet will travel with the human.}
 {202}{}{Ooooo......Kaaaaaaay.}
-{203}{}{Hej då.}
+{203}{}{Hej dÃ¥.}
 {204}{}{Deactivating all Security - Level 1}
 {205}{}{Deactivating all Security - Level 2}
 {206}{}{Deactivating all Security - Level 3}

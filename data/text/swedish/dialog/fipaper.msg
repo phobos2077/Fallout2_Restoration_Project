@@ -1,1 +1,1 @@
-{100}{}{Pappersresterna kan kombineras för att göra en lösenordslista.}
+{100}{}{Pappersresterna kan kombineras fÃ¶r att gÃ¶ra en lÃ¶senordslista.}

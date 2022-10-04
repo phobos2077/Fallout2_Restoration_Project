@@ -45,7 +45,7 @@
 {297}{}{I'm here to collect some money you owe someone.}
 {298}{}{Never mind.}
 {299}{}{Uk!}
-{300}{}{Hej då.}
+{300}{}{Hej dÃ¥.}
 {310}{}{HEY! There you are! I've been looking all over for you! Check out these threads!}
 {311}{}{Thanks again.}
 {312}{}{Looking very nice.}
@@ -85,7 +85,7 @@
 {393}{}{Not really, but I'll take it.}
 {394}{}{Yum.}
 {400}{}{What? Well, okay, if you insist. Thank you so very much. Take good care of yourself.}
-{401}{}{Hej då.}
+{401}{}{Hej dÃ¥.}
 {410}{}{What? You doing some strange drug? You don't look like a jethead. Get away from me you freak.}
 {411}{}{Beat it!}
 {412}{}{Ug.}
@@ -99,7 +99,7 @@
 {432}{}{Hand it over.}
 {440}{}{Yeah, right. I've never seen that much money before in my life.}
 {441}{}{Hmmm.}
-{442}{}{Åh.}
+{442}{}{Ã…h.}
 {450}{}{Right! That'll be the day. Becky wouldn't hurt a fly. She sure is pretty though.}
 {451}{}{Well, you're wrong, asshole.}
 {452}{}{Maybe it was someone else.}

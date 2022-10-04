@@ -228,8 +228,8 @@
 {278}{}{Do you have what you need to perform the operations?}
 {279}{}{Mostly. I have the skill and the training, but I don't have the implant material.}
 {280}{}{So, what does that mean?}
-{281}{}{Det betyder att vi helt enkelt måste improvisera. Jag tror att jag kan få vad jag behöver från en uppsättning av
- standardstridsrustning. Jag kan ta de skottsäkra skyddsplattorna och även de termiska cellerna från
+{281}{}{Det betyder att vi helt enkelt mÃ¥ste improvisera. Jag tror att jag kan fÃ¥ vad jag behÃ¶ver frÃ¥n en uppsÃ¤ttning av
+ standardstridsrustning. Jag kan ta de skottsÃ¤kra skyddsplattorna och Ã¤ven de termiska cellerna frÃ¥n
  rustning.}
 {282}{}{That's great. So you can do it?}
 {283}{}{Well, yes - but if I pack too much armor in, the patient sure isn't going to win any beauty prizes.}

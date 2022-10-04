@@ -7,7 +7,7 @@
 {106}{}{Drink.}
 {107}{}{Who's the big guy over there?}
 {108}{}{What's to do in this town?}
-{109}{}{Farv‰l.}
+{109}{}{Farv√§l.}
 {110}{}{That's Hoss, President Tandi's boy. Born trouble when he's drinking, so I'd stay clear of him if I were you.}
 {111}{}{That was Hoss, President's Tandi's son. Boy, you sure whooped his ass good!}
 {112}{}{President Tandi?}

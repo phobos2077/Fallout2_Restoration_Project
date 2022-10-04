@@ -20,7 +20,7 @@
 {119}{}{More honest people? These guys?}
 {120}{}{What exactly is the Enclave?}
 {121}{}{How do you get this thing to go?}
-{122}{}{Hej då.}
+{122}{}{Hej dÃ¥.}
 {123}{}{How do you pilot this rig? Fill 'er up with some gas - try the Hubologists or the Shi after you've taken care of everything else - and press the button. The computer will take care of the rest, if it's still working. It'll sail right out to the oil rig - unless that old sub blows it up. But at least you won't have to worry about the Enclave firing at you, because you've got the IFF transponder. Just make sure you've got what you need to access everything: FOB, working computer, and fuel. Easy enough, huh?}
 {124}{}{Sure. How do you know all this?}
 {125}{}{What's an IFF transponder and a FOB?}

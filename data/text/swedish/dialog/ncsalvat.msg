@@ -50,7 +50,7 @@
  I require a... token of your good faith. A sample of your... willingness to work for me.}
 {316}{}{What do you want me to do?}
 {317}{}{What would you have me do, Mr. Salvatore?}
-{325}{}{(Shakes his head slightly.) Your naiveté has... no place here. Words are not
+{325}{}{(Shakes his head slightly.) Your naivetÃ© has... no place here. Words are not
  sufficient: You wish to work for Louis Salvatore? Then I must know how much I can rely on you.}
 {326}{}{Look, you can COUNT on me.}
 {327}{}{Let me prove it, Mr. Salvatore. Assign me a task.}
@@ -170,7 +170,7 @@
 {621}{}{How about...}
 {630}{}{(Nods) That is a... good name. Now go speak to Mason. He will have...
 something for you.}
-{640}{}{Hälsningar,}
+{640}{}{HÃ¤lsningar,}
 {645}{}{I have no further need of your services, }
 {650}{}{...}
 {651}{}{...hurkkk...}

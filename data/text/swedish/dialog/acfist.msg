@@ -13,7 +13,7 @@
 {112}{}{I know how to fight with fists and feet. Think you can learn that?}
 {113}{}{What can you teach me?}
 {114}{}{May the wind be at your back, Chosen One.}
-{115}{}{Farv‰l.}
+{115}{}{Farv√§l.}
 {116}{}{Hmmm -- spend a day with me and I'll teach you how to punch harder.}
 {117}{}{Okay. Let's do it.}
 {118}{}{Sorry, don't have the time right now.}

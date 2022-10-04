@@ -36,7 +36,7 @@
 {135}{}{Ja.}
 {136}{}{Nej.}
 {137}{}{Fine. You don't have any business here. Please leave so we can get our jobs done.}
-{138}{}{Hej då.}
+{138}{}{Hej dÃ¥.}
 {139}{}{That's ridiculous. We're not giving you any.}
 {140}{}{Then die.}
 {141}{}{Fine. Bye.}
@@ -49,6 +49,6 @@
 {148}{}{No way.}
 {149}{}{Visst.}
 {150}{}{Fine. Be that way. Here's your ore. Now get out of my refinery.}
-{151}{}{Hej då.}
+{151}{}{Hej dÃ¥.}
 {152}{}{Thanks! Here's your money back.}
 {153}{}{No problem.}

@@ -6,7 +6,7 @@
 {104}{}{Is this fenced-in area all there is to the city?}
 {105}{}{What do you mean by "the best?"}
 {106}{}{I'm looking for the Vault. Can you tell me where it is?}
-{107}{}{Farv‰l.}
+{107}{}{Farv√§l.}
 {108}{}{Umm... (Looks at a pamphlet in his hand.) Uh... you weren't
  supposed to ask that. There's no answer for that in here.}
 {109}{}{Do you know anything?}

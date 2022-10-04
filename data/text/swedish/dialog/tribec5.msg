@@ -14,7 +14,7 @@
 {140}{}{It wasn't supposed to be like this. You said you wanted to start a family with me. Oh, it's so cold... I think I'm dying... No! This isn't real! You would never do this to me, Thorg! I love you! Nessa will always love you...}
 {141}{}{Thank you, Nessa. That's all I needed to hear.}
 {150}{}{It's so lonely in the dark... So very lonely.}
-{151}{}{[Färdig]}
+{151}{}{[FÃ¤rdig]}
 {160}{}{The blood, it never stops flowing... why won't this pain end?}
 {161}{}{Don't worry, Nessa, I'm going to help you find peace soon.}
 {300}{}{Uh... You talkin' to me, glow-lady?}

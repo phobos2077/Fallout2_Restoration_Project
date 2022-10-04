@@ -63,11 +63,11 @@
 {138}{}{No, but I'll think about it.}
 {139}{}{No, I don't think so.}
 {140}{}{Very well... I will wait here until you come to a decision.}
-{141}{}{F‰rdigt.}
+{141}{}{F√§rdigt.}
 {142}{}{Very well... I am saddened by your decision but it is
  your choice. If you change your mind, I will be here.}
-{143}{}{Hej dÂ.}
-{144}{}{Farv‰l.}
+{143}{}{Hej d√•.}
+{144}{}{Farv√§l.}
 {145}{}{I would ask you to help me escape this place. Will you?}
 {146}{}{Yes, me do.}
 {147}{}{Me think about it.}

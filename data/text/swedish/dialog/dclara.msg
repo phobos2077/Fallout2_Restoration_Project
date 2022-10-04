@@ -46,7 +46,7 @@
 {312}{}{No problem. Bye.}
 {320}{}{I've seen caravans from Vault City come in and then some of it gets picked up by caravans from New Reno.}
 {321}{}{So? Why does that make sense?}
-{322}{}{Åh.}
+{322}{}{Ã…h.}
 {340}{}{New Reno is the drug capital around here. They have to get the raw materials to make their drugs from somewhere, right? It seems like they're getting some, or all of it, from Vault City.}
 {341}{}{Where's New Reno?}
 {342}{}{Okay, thanks.}

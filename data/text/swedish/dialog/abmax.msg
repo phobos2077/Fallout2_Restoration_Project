@@ -4,7 +4,7 @@
 {200}{}{Hello. What can I do for you?}
 {201}{}{I have something from Elaine...}
 {202}{}{What is this place?}
-{203}{}{Hej då.}
+{203}{}{Hej dÃ¥.}
 {300}{}{Let me guess. It's that service part I requested, right?}
 {301}{}{Yes, here it is.}
 {302}{}{No, I was just testing you.}

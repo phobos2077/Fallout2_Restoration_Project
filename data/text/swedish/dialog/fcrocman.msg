@@ -1,5 +1,5 @@
 {100}{}{You see a harried-looking bald man.}
-{101}{}{Du ser Harry, raketförmannen.}
+{101}{}{Du ser Harry, raketfÃ¶rmannen.}
 {102}{}{You see a harried-looking bald man.}
 {103}{}{Aiee! Enemies of enlightenment! Help! Guards!}
 {107}{}{Hey! Raw meat! Who are you? What are you doing here?}
@@ -22,7 +22,7 @@
 {124}{}{I want to join the Hubologists.}
 {125}{}{Who are YOU? And what are YOU doing here?}
 {126}{}{Nothing. Bye.}
-{127}{}{Jag är Harry. Jag är chef för raketteknikerna.}
+{127}{}{Jag Ã¤r Harry. Jag Ã¤r chef fÃ¶r raketteknikerna.}
 {128}{}{I'm}
 {129}{}{None of your business.}
 {130}{}{I want to join the Hubologists.}
@@ -43,7 +43,7 @@
 {176}{}{The Shi have the plans for the vertibird.}
 {177}{}{What can I do for you?}
 {178}{}{Forget it. Bye.}
-{179}{}{Jag är Harry, AHS-5. Jag är Stjärnbrodern som ansvarar för raketskeppet. Vi ska använda den för att resa till Quetzel.}
+{179}{}{Jag Ã¤r Harry, AHS-5. Jag Ã¤r StjÃ¤rnbrodern som ansvarar fÃ¶r raketskeppet. Vi ska anvÃ¤nda den fÃ¶r att resa till Quetzel.}
 {180}{}{Can I ask something else?}
 {181}{}{Got it. Bye.}
 {182}{}{What I'm doing is preparing the ship for the grand trip to the Star-Father. We're very close right now.}

@@ -46,7 +46,7 @@
 {202}{}{Howdy, stranger.}
 {203}{}{Watch out for those Duntons; they're dangerous.}
 {204}{}{Trapper Town sure has a lot of rats.}
-{1000}{}{Äldste}
+{1000}{}{Ã„ldste}
 {1001}{}{Grundare}
 {1002}{}{Vault Dweller}
 {1003}{}{Arroyo}

@@ -15,7 +15,7 @@
 {114}{}{Goo-bye!}
 {115}{}{It certainly has!}
 {116}{}{Him: If you won't accept our help... Her: ... then we can't help you. Goodbye.}
-{117}{}{Hej då!}
+{117}{}{Hej dÃ¥!}
 {118}{}{Him: Ah, you see? The teachings of the Hub have demonstrated their worth again!}
 {119}{}{I have some questions.}
 {120}{}{Thanks! Bye!}
@@ -57,7 +57,7 @@
 {156}{}{Her: You dare call the Hub (praise his vision) a crackpot? Here? In a stronghold devoted to his study? Him: Get out of here. If you talk to anyone on the way out, you will be attacked. Infidel. Both: Good riddance.}
 {157}{}{Maybe I'd better jump on them. I always hated your movies anyway. Let's see you do a death scene.}
 {158}{}{Your movies suck. Bye.}
-{159}{}{Hej då.}
+{159}{}{Hej dÃ¥.}
 {160}{}{Her: Neurodynes are the essence of souls destroyed in the Great War, polluting your spiritual essence and guiding you astray. Him: If you want to know more about our teachings, you'll have to join our church.}
 {161}{}{Yes, this sounds fascinating.}
 {162}{}{I'd heard this was science fiction, but I didn't know how much. The Hub must have been quite a crackpot.}
@@ -81,7 +81,7 @@
 {180}{}{Something bad is about to happen to YOU.}
 {181}{}{Nope. I'll take my chances. So long.}
 {182}{}{Him: We've done everything we can for you. Her: Good luck in your travels.}
-{183}{}{Hej då!}
+{183}{}{Hej dÃ¥!}
 {184}{}{Her: Dave? The computer guy? Him: Ha ha! What a loser! Vikki is mine, all mine - no way he'll... excuse me, this is negative energy I'm channeling. I must have fouled my neurodynes. Her: [whispers to you] I think Dave's a cutie, but nothing can happen while Juan is around. Him: Whew. Neurodyne is all clear again.}
 {185}{}{Well, I have more questions.}
 {186}{}{That's all. Bye.}

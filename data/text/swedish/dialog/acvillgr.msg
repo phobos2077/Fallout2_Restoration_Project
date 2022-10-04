@@ -10,14 +10,14 @@
 {157}{}{I do have a question for you.}
 {158}{}{Goodbye, my friend.}
 {159}{}{Go see Hakunin in the northern corner of the village. He can help you.}
-{160}{}{Tack. Hej då.}
+{160}{}{Tack. Hej dÃ¥.}
 {161}{}{Oh, it's not my place to deal with the traders. Talk to Mynoc, the guardian of the
  great bridge. He sees them all.}
-{162}{}{Tack. Hej då.}
+{162}{}{Tack. Hej dÃ¥.}
 {163}{}{Could you tell me where the great bridge is located?}
 {164}{}{One more question, if I may.}
 {165}{}{Good joke, Chosen One! You know where it is. That way -- to the south.}
-{166}{}{Tack. Hej då.}
+{166}{}{Tack. Hej dÃ¥.}
 {167}{}{One more question, if I may.}
 {168}{}{Of course, what is it?}
 {169}{}{Could you tell me where I can find some healing herbs?}
@@ -35,7 +35,7 @@
 {182}{}{You are evil. The Chosen One is evil!}
 {183}{}{They come to our village from the east, but their goods are poor.}
 {184}{}{Could you tell me where I can find some healing herbs?}
-{185}{}{Tack. Hej då.}
+{185}{}{Tack. Hej dÃ¥.}
 {186}{}{One more question, if I may.}
 {300}{}{Hello, Chosen One. Nice to see you again. I pray that your holy quest is going well. Is there something I can help you with?}
 {301}{}{Chosen One, our people are dying. You must hurry your search for the holy GECK. What may I do to aid you in this most holy of quests?}
@@ -45,7 +45,7 @@
 {400}{}{Is there anything you could tell me about Kaga?}
 {401}{}{[The villager stares at you, wide-eyed, then slowly steps away from you while glancing around nervously.]}
 {402}{}{Alright, I guess not.}
-{1000}{}{Äldste}
+{1000}{}{Ã„ldste}
 {1001}{}{Grundare}
 {1002}{}{Vault Dweller}
 {1003}{}{Arroyo}

@@ -57,6 +57,6 @@
 {162}{}{Thanks for the story.}
 {163}{}{Well, it's getting late. Bye.}
 {164}{}{My pleasure. Bye.}
-{165}{}{Hej då.}
+{165}{}{Hej dÃ¥.}
 {166}{}{Nevermind.}
 {167}{}{Leanne told you her story about the Master.}

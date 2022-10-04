@@ -89,7 +89,7 @@
 {432}{}{Talk to Metzger.}
 {433}{}{Ruru?}
 {434}{}{Eh?}
-{435}{}{Åh.}
+{435}{}{Ã…h.}
 {450}{}{Get him, guys.}
 {451}{}{Get her, guys.}
 {460}{}{He's busy.}

@@ -107,7 +107,7 @@
 {206}{}{It is a machine with the same free will and sense of 'I am' that a human has.}
 {207}{}{Can be done? Machine think human?}
 {208}{}{A true artificial intelligence is possible. A few such systems were completed for military purposes. The project was discontinued.}
-{209}{}{Varför?}
+{209}{}{VarfÃ¶r?}
 {210}{}{The suicide rate among true artificial intelligence machines was extremely high. When given full sensory capability the machines became depressed over their inability to go out into the world and experience it. When deprived of full sensory input the machines began to develop severe mental disorders similar to those among humans who are forced to endure sensory deprivation. The few machines that survived these difficulties became incredibly bored and began to create situations in the outside world for their amusement. It is theorized by some that this was the cause of the war that nearly destroyed mankind.}
 {211}{}{Uh... How you feel?}
 {212}{}{Me change subject.}

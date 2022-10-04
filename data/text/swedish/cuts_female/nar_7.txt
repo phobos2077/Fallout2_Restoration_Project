@@ -1,3 +1,3 @@
-1:Strålningen har tagit ut sin rätt.
-2:Din död var långvarig och mycket smärtsam.
-3:Ditt äventyr är över.
+1:StrÃ¥lningen har tagit ut sin rÃ¤tt.
+2:Din dÃ¶d var lÃ¥ngvarig och mycket smÃ¤rtsam.
+3:Ditt Ã¤ventyr Ã¤r Ã¶ver.

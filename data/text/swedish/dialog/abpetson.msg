@@ -51,9 +51,9 @@
  is so offensive to you, then I suggest you get the hell outta my house. I'm not gonna sit here and let some wandering
  tribal insult me in front of my wife.}
 {612}{}{Alright, alright, I'm leaving.}
-{613}{}{Okej, tuffing, nu kommer den här "vandrande stammen" att döda dig inför din fru. Då kanske jag också dödar henne.
- För helvete, jag kanske dödar alla på detta patetiska jävla ställe. Trodde du att ni alla kunde gömma er från ödemarkens fasor?
- Nå, gissa vad, min naiva vän? Skräcken har hittat dig, och dess namn är}
+{613}{}{Okej, tuffing, nu kommer den hÃ¤r "vandrande stammen" att dÃ¶da dig infÃ¶r din fru. DÃ¥ kanske jag ocksÃ¥ dÃ¶dar henne.
+ FÃ¶r helvete, jag kanske dÃ¶dar alla pÃ¥ detta patetiska jÃ¤vla stÃ¤lle. Trodde du att ni alla kunde gÃ¶mma er frÃ¥n Ã¶demarkens fasor?
+ NÃ¥, gissa vad, min naiva vÃ¤n? SkrÃ¤cken har hittat dig, och dess namn Ã¤r}
 {700}{}{Get the hell outta here.}
 {710}{}{Good to see you again. Tom's been a big help around here. Thanks again for sorting all that out. Now, what can I do for you?}
 {6061}{}{After that, I asked Brother Samuel if anything had happened in the graveyard. That's when he told me someone

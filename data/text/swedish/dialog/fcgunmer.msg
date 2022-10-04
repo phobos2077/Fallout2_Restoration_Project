@@ -13,7 +13,7 @@
 {112}{}{-more-}
 {113}{}{Great, great. Thank you for your business. Come back soon!}
 {114}{}{More questions!}
-{115}{}{Hej då!}
+{115}{}{Hej dÃ¥!}
 {116}{}{No. Is not good enough. So sorry. Something else perhaps?}
 {117}{}{More questions.}
 {118}{}{No. Bye}

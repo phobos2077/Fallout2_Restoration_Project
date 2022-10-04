@@ -141,9 +141,9 @@
  replacements?}
 {201}{}{Uh... yeah.}
 {202}{}{That's right.}
-{203}{}{Fan också. Ledsen för besväret. Jag ska rensa ett gäng nybörjare.
- men jag måste rensa ut soporna. Hur som helst, gå bara upp till porten,
- genom skogen där, och ge dem lösenordet. Det är 'fårskalle.' Åh, och håll dig på stigen!}
+{203}{}{Fan ocksÃ¥. Ledsen fÃ¶r besvÃ¤ret. Jag ska rensa ett gÃ¤ng nybÃ¶rjare.
+ men jag mÃ¥ste rensa ut soporna. Hur som helst, gÃ¥ bara upp till porten,
+ genom skogen dÃ¤r, och ge dem lÃ¶senordet. Det Ã¤r 'fÃ¥rskalle.' Ã…h, och hÃ¥ll dig pÃ¥ stigen!}
 {204}{}{Thanks!}
 {205}{}{Wait a minute, dummy. Are you trying to say you're one of the Enclave
  replacements? If that's the case, then why aren't you alone?}
@@ -178,5 +178,5 @@
 {231}{}{Yeah, right.}
 {232}{}{He's pulling out a radio. He's going to alert the whole base! I've got to deal with him quickly.}
 {233}{}{Oh, no. Man pull out talkie box. He tell on me. Must stop him.}
-{800}{}{Du lurade Chris att ge dig lösenordet.}
+{800}{}{Du lurade Chris att ge dig lÃ¶senordet.}
 {810}{}{You killed Chris before he could warn the base.}

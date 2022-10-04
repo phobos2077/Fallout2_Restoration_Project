@@ -174,7 +174,7 @@
 {1001}{}{Mountains}
 {1002}{}{City}
 {1003}{}{Coast}
-{1004}{}{Ok‰nt}
+{1004}{}{Ok√§nt}
 {1500}{}{You gained 10,000 experience points!}
 {1501}{}{Ruins}
 {1502}{}{The car is out of power.}

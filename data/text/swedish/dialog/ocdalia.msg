@@ -29,7 +29,7 @@
 {126}{}{No, I'm not. I'm here of my own free will and I like it. I think this will be a safe place for
  me to stay for a while.}
 {127}{}{Okej.}
-{128}{}{Hej då.}
+{128}{}{Hej dÃ¥.}
 {129}{}{All right.}
 {130}{}{I see. Well, I'll be going then.}
 {131}{}{Yeah, I've been told I'm free to go or stay. I'm staying for now.}
@@ -56,7 +56,7 @@
 {144}{}{You're safe now, Dalia. You'll have no need to worry about any retribution.}
 {145}{}{Thanks,}
 {146}{}{You welcome.}
-{147}{}{Hej då.}
+{147}{}{Hej dÃ¥.}
 {148}{}{You're welcome.}
 {149}{}{I'll see ya.}
 {150}{}{Hej.}

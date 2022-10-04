@@ -6,7 +6,7 @@
 {105}{}{Old Ghouls' Home?}
 {106}{}{Who are you?}
 {107}{}{Hey, you ever heard of a GECK?}
-{108}{}{Hej då.}
+{108}{}{Hej dÃ¥.}
 {109}{}{Another waste-baby, huh? Hey, kid, you want to know a secret?}
 {110}{}{Yeh!}
 {111}{}{Nuh uh.}
@@ -17,9 +17,9 @@
 {115}{}{What kind of treasure?}
 {116}{}{What kind of favor?}
 {117}{}{I had other questions.}
-{118}{}{Hej då!}
+{118}{}{Hej dÃ¥!}
 {119}{}{Heh. All right, then. I ain't got nothin' for you. Go on, git.}
-{120}{}{Hej då.}
+{120}{}{Hej dÃ¥.}
 {121}{}{Kid, y'got to do me a favor, first.}
 {122}{}{Okey!}
 {123}{}{Nuh uh!}
@@ -41,7 +41,7 @@
 {139}{}{I don't need money.}
 {140}{}{You're back, eh? You want to know about that treasure, kid?}
 {141}{}{'Es!}
-{142}{}{Näe.}
+{142}{}{NÃ¤e.}
 {143}{}{What kind of treasure is it?}
 {144}{}{Yeah, tell me.}
 {145}{}{I had other questions for you first.}
@@ -67,7 +67,7 @@
 {165}{}{Thanks. Bye.}
 {166}{}{Well? Do you have my Cat's Paw magazine yet?}
 {167}{}{'Es. [Give Cat's Paw to Typhon.]}
-{168}{}{Näe.}
+{168}{}{NÃ¤e.}
 {169}{}{Yup. Here you go. [Give Cat's Paw to Typhon.]}
 {170}{}{Not yet. I had other questions.}
 {171}{}{Nepp.}

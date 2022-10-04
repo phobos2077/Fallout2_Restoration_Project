@@ -12,15 +12,15 @@
 {158}{}{Goodbye, my friend.}
 {159}{}{Oh, you're testing me. Go see Hakunin in the northern corner of the village. He makes our
  medicines.}
-{160}{}{Tack. Hej då.}
+{160}{}{Tack. Hej dÃ¥.}
 {161}{}{Well, I've seen them when Mynoc has us guard the bridge, but he does all the dealing.
  Talk to him at the Great Bridge.}
-{162}{}{Tack. Hej då.}
+{162}{}{Tack. Hej dÃ¥.}
 {163}{}{Could tell me where the Great Bridge is located?}
 {164}{}{One more question, if I may.}
 {165}{}{Chosen One? The Great Bridge is at the southern end of the village. You know,
  you've been there many times.}
-{166}{}{Tack. Hej då.}
+{166}{}{Tack. Hej dÃ¥.}
 {167}{}{One more question, if I may.}
 {168}{}{Of course, what is it?}
 {169}{}{Could you tell me where I can find some healing herbs?}
@@ -38,7 +38,7 @@
 {180}{}{They are nothing to us! They scavenge the dying corpse
  of the wastes to live.}
 {181}{}{Could you tell me where I can find some healing herbs?}
-{182}{}{Tack. Hej då.}
+{182}{}{Tack. Hej dÃ¥.}
 {183}{}{One more question, if I may.}
 {300}{}{Hello again, Chosen One. May the warrior spirits protect and guide you.}
 {301}{}{Are you having difficulties, Chosen One? You must not fail us - please hurry.}
@@ -50,7 +50,7 @@
 {980}{}{I don't know anything about that.}
 {981}{}{Sorry. No clue.}
 {982}{}{Never heard of it.}
-{1000}{}{Äldste}
+{1000}{}{Ã„ldste}
 {1001}{}{Grundare}
 {1002}{}{Vault Dweller}
 {1003}{}{Arroyo}

@@ -270,15 +270,15 @@
 {906}{}{Could I check out your stock?}
 {907}{}{Well, I'd really like one, but I don't want to pay for it. Is there something... ELSE I could do to pay for it?}
 {909}{}{Just checking. Be seeing you.}
-{915}{}{Gravitatinsplattor! De här skönheterna låter dig FLYGA genom ödemarken, och de har ett återvinningskraftchip, så att de
- knappt använder någon energi. Vad tycker du om det? Vill du ha dem?}
+{915}{}{Gravitatinsplattor! De hÃ¤r skÃ¶nheterna lÃ¥ter dig FLYGA genom Ã¶demarken, och de har ett Ã¥tervinningskraftchip, sÃ¥ att de
+ knappt anvÃ¤nder nÃ¥gon energi. Vad tycker du om det? Vill du ha dem?}
 {916}{}{Me like me take}
 {918}{}{Sounds good. I'll take it.}
 {919}{}{Not right now. I have come to collect Mr. Bishop's free batteries.}
-{920}{}{Inte just nu. Kan du uppgradera min Highwayman utan att lägga till gravitationsplattorna?}
+{920}{}{Inte just nu. Kan du uppgradera min Highwayman utan att lÃ¤gga till gravitationsplattorna?}
 {921}{}{Not right now. Can I buy some batteries from you instead?}
 {922}{}{No, not at the moment. Maybe later. See ya.}
-{930}{}{(T-Ray spenderar en timme eller två i verkstan. När han kommer ut har gravitationsplattorna installerats.)}
+{930}{}{(T-Ray spenderar en timme eller tvÃ¥ i verkstan. NÃ¤r han kommer ut har gravitationsplattorna installerats.)}
 {931}{}{Thanks, T-Ray. Appreciate it. I'll go try them out.}
 {940}{}{Help yourself, hero.}
 {941}{}{What's mine is yours. Tell everybody I said that, too.}

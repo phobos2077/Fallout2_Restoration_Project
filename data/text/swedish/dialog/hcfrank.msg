@@ -38,7 +38,7 @@
 {129}{}{Of course.}
 {130}{}{I don't have anything to prove to you, lowlife.}
 {131}{}{Get the hell out of my sight, you jerk! I'd kill you if I had the chance!}
-{132}{}{Hej då.}
+{132}{}{Hej dÃ¥.}
 {133}{}{The law 'round here is based on mutant love. Do you hate mutants?}
 {134}{}{Ja.}
 {135}{}{Nej.}

@@ -154,7 +154,7 @@
 {223}{}{It pleases me to hear that my words have taken seed in your heart. Perhaps our paths
  will cross again.}
 {224}{}{Perhaps so. Keep the faith, brother.}
-{225}{}{Farv‰l.}
+{225}{}{Farv√§l.}
 {226}{}{The NCR is trying to bring honor and government to all of California,
  and Vault City has the power to make it happen! Think of the good we could do with access to Vault
  City's technology!}

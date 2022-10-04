@@ -9,7 +9,7 @@
 {108}{}{Who are you?}
 {109}{}{I have a friend who's missing a spleen. Can you help him?}
 {110}{}{What can you tell me about this place?}
-{111}{}{Hej då.}
+{111}{}{Hej dÃ¥.}
 {112}{}{Let me take a look at that. Hmm. Yes. I'll have to charge you, of course.}
 {113}{}{How much?}
 {114}{}{Forget it.}

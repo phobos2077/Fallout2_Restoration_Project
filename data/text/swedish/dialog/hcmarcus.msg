@@ -11,13 +11,13 @@
 {110}{}{What's the news?}
 {111}{}{I have something I wanted to tell you.}
 {112}{}{You wanna travel with me?}
-{113}{}{Hej då.}
+{113}{}{Hej dÃ¥.}
 {114}{mcs3}{Yeah, I'm a ugly mutant. I also run this place. You got a problem with that?}
 {115}{}{Uh!}
-{116}{}{Nä.}
+{116}{}{NÃ¤.}
 {117}{mcs4}{You wanna fight me?}
 {118}{}{Uh!}
-{119}{}{Nä.}
+{119}{}{NÃ¤.}
 {120}{mcs5}{Take your best shot, human.}
 {121}{mcs6a}{Good.}
 {122}{mcs6b}{Keep your nose clean and you won't get into trouble.}
@@ -25,7 +25,7 @@
 {124}{mcs7}{I'm Marcus. Helped build the place. Now I'm sheriff.}
 {125}{}{You helped build this place? That must have been a long time ago...}
 {126}{}{Bullshit. How could you have been around that long?}
-{127}{}{Hej då.}
+{127}{}{Hej dÃ¥.}
 {128}{mcs8}{Long story. Want it short or the whole thing?}
 {129}{}{Give me the short version.}
 {130}{}{Hell, I'm not too busy. Let's hear it all.}
@@ -60,7 +60,7 @@
 {159}{}{How 'bout more questions while I think it over.}
 {160}{}{Let me think about it. Bye.}
 {161}{mcs17}{That ain't good enough for you? Then get out.}
-{162}{}{Hej då.}
+{162}{}{Hej dÃ¥.}
 {163}{mcs18}{Got a little trouble with the mine. If you're interested in helping fix it, go talk to Zaius, the mine foreman.}
 {164}{}{Where can I find him?}
 {165}{}{You got anything else?}
@@ -69,17 +69,17 @@
 {168}{mcs19}{Usually at the mine. Sometimes the saloon.}
 {169}{}{Got anything else?}
 {170}{}{I have more questions.}
-{171}{}{Hej då.}
+{171}{}{Hej dÃ¥.}
 {172}{mcs20}{Somebody busted two lunatics out of the jail in the bank. Find 'em. Tell me and I'll stuff 'em back in.}
 {173}{}{Got anything else?}
 {174}{}{I have more questions.}
-{175}{}{Hej då.}
+{175}{}{Hej dÃ¥.}
 {176}{mcs21}{What exactly do you want? Okay. We've got some folks missing. No idea what's happened. Find 'em, get $500.}
 {177}{}{I'll do it for free.}
 {178}{}{$500? Sounds good.}
 {179}{}{I don't have time.}
 {180}{}{I have more questions.}
-{181}{}{Hej då.}
+{181}{}{Hej dÃ¥.}
 {182}{mcs22}{Great. Let me know when you've found something, right?}
 {183}{}{Sure. I have more questions.}
 {184}{}{Will do. Bye.}
@@ -113,17 +113,17 @@
 {212}{}{No, not right now.}
 {213}{mcs31}{Ah, there's too much going on right now. When things calm down, then I just might.}
 {214}{}{Sure. I got more questions.}
-{215}{}{Hej då.}
+{215}{}{Hej dÃ¥.}
 {216}{mcs32}{Damn right. Best friend I ever had.}
 {217}{}{Yeah, right, you would've dipped him just like everyone else.}
-{218}{}{Hej då.}
+{218}{}{Hej dÃ¥.}
 {219}{mcs33}{Hell, yes, I would've. What a great mutant he would've been.}
 {220}{}{I don't think he'd be happy to hear you say that.}
-{221}{}{Hej då.}
+{221}{}{Hej dÃ¥.}
 {222}{mcs34}{(laughs) We had this argument all the time. (sighs) I miss that hard-head.}
 {223}{}{What about the Master's hatred for humans?}
 {224}{}{I still think it's a rotten fate.}
-{225}{}{Hej då.}
+{225}{}{Hej dÃ¥.}
 {226}{mcs35}{You're talking a long time ago. The world's moved on. You want to hear ancient history?}
 {227}{}{Definitely.}
 {228}{}{Not right now. I'd like to ask some other questions, though.}
