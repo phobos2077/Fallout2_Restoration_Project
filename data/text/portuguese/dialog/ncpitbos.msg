@@ -105,115 +105,115 @@
  de slot que possam consertar essa porcaria.}
 {376}{}{Eu tenho mais algumas perguntas...}
 {377}{}{Interessante. Obrigado pela informação.}
-{385}{}{Yeah, that son of a bitch came in here about a week ago, ripped off one table of about a thousand chips, then bailed.
- Don't know where he is now, but he used to have a room at the Desperado.}
-{386}{}{Yeah, some guy by that name was rentin' one of th' rooms upstairs...204. He was all paid up, but he bailed
- a few days ago and nobody saw him leave.}
-{387}{}{Mr. Salvatore mentioned that there was a specific dealer that Lloyd won the money from. Who was that?}
+{385}{}{Sim, aquele filho da puta veio aqui faz uma semana mais ou menos, roubou uma mesa de umas mil tampas, depois saiu.
+ Não sei onde ele está agora, mas costumava ter um quarto no Desperado.}
+{386}{}{Sim, um cara com esse nome estava alugando um dos quartos lá em cima... 204. Ele pagou tudo, mas saiu há poucos
+ dias sem que ninguém o tivesse visto.}
+{387}{}{O Sr. Salvatore mencionou que havia um crupiê em particular de quem Lloyd ganhou o dinheiro. E quem foi?}
 {388}{}{Eu tenho mais algumas perguntas...}
 {389}{}{Obrigado pela informação.}
-{395}{}{Nikki? Yeah, she's over there, at the middle table. Is there some sort of problem?}
+{395}{}{Nikki? Sim, ela está ali, na mesa do meio. Que tipo de problema estamos falando?}
 {396}{}{Sem problemas. Só queria conhecê-la. Só tenho algumas perguntas...}
 {397}{}{Obrigado pela informação.}
-{405}{}{Her name WAS Nikki. She used to work here but she got aced... not too long ago.}
+{405}{}{O nome dela era Nikki. Ela costumava trabalhar aqui, mas foi presa... não faz muito tempo.}
 {406}{}{Hmmm. Você se importa se eu te fizer outras perguntas...?}
 {407}{}{Interessante. Obrigado pela informação.}
-{415}{}{Her name was Nikki. She used to work here but she took off not too long ago. Just packed her shit and bailed.}
+{415}{}{O nome dela era Nikki. Ela costumava trabalhar aqui, mas ela vazou não faz muito tempo. Só fez as malas e saiu.}
 {416}{}{Você se importa se eu te fizer outras perguntas...}
 {417}{}{Interessante. Obrigado pela informação.}
-{425}{}{Sure, be good for business. Dressing room's in the back...}
-{426}{}{Excellent. I'll be on stage in a few minutes...}
+{425}{}{Claro, seria bom para os negócios. O vestiário fica nos fundos...}
+{426}{}{Excelente. Estarei no palco em alguns minutos...}
 {427}{}{Não agora. Eu tenho outras perguntas...}
-{428}{}{Not right now, but I'll be back.}
-{435}{}{No, we're still recovering from your last gig. You might want to check some of the other casinos.}
+{428}{}{Não agora, mas voltarei.}
+{435}{}{Não, ainda estamos nos recuperando da sua última apresentação. Você pode querer tentar em um dos outros cassinos.}
 {436}{}{Que bom, obrigado. Olha, eu tenho outras perguntas...}
 {437}{}{Certo... Mas eu voltarei.}
-{445}{}{[You count up the evening's chips. Not a bad haul.]}
-{446}{}{The leather was a nice touch. }
-{447}{}{That ball gag you had with you didn't hurt, either. }
+{445}{}{[Você conta as tampas da noite. Não é um mau caminho.]}
+{446}{}{O couro era um toque agradável. }
+{447}{}{Aquela mordaça de bola que você tinha, também não doeu. }
 {448}{}{[CONTINUAR]}
-{455}{}{Yeah, he stinks worse than brahmin shit. Still, you...? Aw, why the hell not. A little improv ain't gonna hurt, but
- it's a rough crowd... better hope you're good.}
-{456}{}{Oh, I'm good... just watch me go.}
-{457}{}{Not right now, but I'll be back.}
-{500}{}{That was some funny shit. You're the next Milton Berle. Come back in a week for another show.}
-{501}{}{That was a great show. You got a great routine. Come back in a week for another show.}
-{502}{}{I will. See you around.}
-{510}{}{That was just awful. I don't know how you do it, but you are actually worse than the regular. I don't think we will be needing you again.}
-{511}{}{Fine, I'll go take my talent to someone who WILL actually appreciate it.}
+{455}{}{Sim, ele fede pior do que merda de brahmin. Então você...? Ótimo, por que não? Um pouco de improvisação deve bastar,
+ mas é uma multidão difícil... espero que você esteja bem.}
+{456}{}{Ah, eu estou bem... apenas observe.}
+{457}{}{Não agora, mas voltarei.}
+{500}{}{Essa porra foi engraçada. Você é o próximo Milton Berle. Volte em uma semana para outro show.}
+{501}{}{Esse foi um grande show, você tem uma ótima rotina. Volte em uma semana para outro.}
+{502}{}{Eu vou. Até a próxima.}
+{510}{}{Mas que porra foi essa? Eu não sei como você consegue ser pior do que os bostas que passam aqui. Acho que não vamos precisar de você de novo.}
+{511}{}{Tudo bem, eu vou levar meu talento para alguém que realmente possa apreciá-lo.}
 {512}{}{Seja o que for. Tchau.}
-{520}{}{You were smokin' out there. The next Traci Lords. }
-{521}{}{I don't think I have seen anyone move like that on stage. You got real talent. }
-{522}{}{I will. See you around.}
-{523}{}{Come back in a week for another show.}
-{530}{}{Sorry, you're not up to our standards.}
-{531}{}{Whatever. I got some other questions.}
-{532}{}{Fine, I'll go find someone who WILL appreciate my talent. Bye.}
-{620}{}{Interested in me doing another comic routine?}
-{621}{}{I told you to check back in a week. You still got some time, so check back later.}
-{622}{}{Alright. I got some questions then.}
-{623}{}{I will see you around then.}
-{720}{}{Is there an opening for any dancers tonight?}
-{721}{}{I told you to check back in a week. You still got some time, so check back later.}
-{722}{}{Alright. I got some questions then.}
-{723}{}{I will see you around then.}
+{520}{}{Você está fumando lá fora. Os próximos Lordes Traci. }
+{521}{}{Acho que nunca vi alguém se mexer assim no palco. Você tem talento de verdade. }
+{522}{}{Eu vou. Até a próxima.}
+{523}{}{Volte em uma semana para outro show.}
+{530}{}{Desculpe, você não está à altura dos nossos padrões.}
+{531}{}{Que seja. Eu tenho outras perguntas.}
+{532}{}{Tudo bem, eu vou encontrar alguém que aprecie meu talento. Tchau.}
+{620}{}{Interessado em me fazer outro show de comédia?}
+{621}{}{Eu te disse para voltar novamente em uma semana. Você ainda tem algum tempo, então volte depois.}
+{622}{}{Tudo bem. Eu tenho algumas perguntas então.}
+{623}{}{Vejo você por aí então.}
+{720}{}{Tem alguma abertura para dançarinos hoje à noite?}
+{721}{}{Eu te disse para voltar novamente em uma semana. Você ainda tem algum tempo, então volte depois.}
+{722}{}{Tudo bem. Eu tenho algumas perguntas então.}
+{723}{}{Vejo você por aí então.}
 {902}{}{Bishop}
 {903}{}{Mordino}
-{904}{}{Shark Club}
+{904}{}{Clube Tubarão}
 {905}{}{Desperado}
 {1000}{}{You know your marriage is in trouble if your wife says, 'You're only interested in one thing,' and you can't remember what it is.}
 {1001}{}{My doctor recently told me that jogging could add years to my life. I think he was right. I feel ten years older already.}
 {1002}{}{Folks who don't know why America is the Land of Promise should be here during an election campaign.}
 {1003}{}{Politicians have always made me laugh.}
 {1004}{}{Someone once told me I don't exercise enough. Well, they're wrong. I get my exercise running to the funerals of my friends who exercise.}
-{1215}{}{, sir.}
-{1216}{}{, sir.}
-{1220}{}{, ma'am.}
-{1221}{}{, ma'am.}
-{1225}{}{, sir.}
-{1226}{}{, sir.}
-{1230}{}{, ma'am.}
-{1231}{}{, ma'am.}
+{1215}{}{, senhor.}
+{1216}{}{, senhor.}
+{1220}{}{, senhora.}
+{1221}{}{, senhora.}
+{1225}{}{, senhor.}
+{1226}{}{, senhor.}
+{1230}{}{, senhora.}
+{1231}{}{, senhora.}
 {1285}{}{Nada de mutantes. Terá que esperar lá fora.}
 {1286}{}{I don't care if your friend is one of the Ex-Men, mutants wait outside.}
 {1287}{}{Aquele mutante nojento não é permitido aqui.}
 {1306}{}{. Take a rest from saving the world and have some fun.}
-{1335}{}{This is the }
-{1336}{}{This is the }
+{1335}{}{Isto é o }
+{1336}{}{Isto é o }
 {1337}{}{Quem é você?}
 {1338}{}{Você pode me dizer um pouco sobre o cassino?}
 {1339}{}{Nada, obrigado. Desculpe te incomodar.}
 {1345}{}{Best goddamn casino in town... but I am a little biased. Anything else you want to know?}
 {1346}{}{Best goddamn casino in town, best goddamn tables... now why don't you run along now, check 'em out? All right?}
 {1347}{}{Quem é você?}
-{1348}{}{Who owns this casino?}
-{1349}{}{Okay, thanks. Sorry to bother you.}
+{1348}{}{Quem é o dono desse cassino?}
+{1349}{}{Ok, obrigado. Desculpe incomodá-lo.}
 {1355}{}{ Family. They pumped a lot of life into this place, made it a real night spot, a shining jewel in New Reno.}
 {1356}{}{ Family. That a problem? Cause if you ain't here to gamble, then this ain't the place for you. Understand?}
-{1361}{}{. Love your films.}
+{1361}{}{. Amo seus filmes.}
 {1365}{}{That guy? Old Man McGee? Crazy sumabitch... he's been playing that machine
  there for the past few years, waiting for the big jackpot. His life fortune
  must be sitting in that thing, but it won't give him a single chip.}
 {1366}{}{That guy? Old Man McGee? Crazy sumabitch, that's for sure. Heh.
  Sure was pissed about you winning his fortune. I'd be careful around him.}
-{1367}{}{Is the machine rigged?}
+{1367}{}{A máquina é modificada?}
 {1368}{}{Eu tenho mais algumas perguntas...}
 {1369}{}{Obrigado pela informação.}
-{1425}{}{Sure. Let's hope you are as good as last time.}
+{1425}{}{Claro. Vamos torcer para que você seja tão bom quanto da última vez.}
 {1455}{}{Sure. I'm getting sick of our regular anyway. Let's hope you are as good as last time.}
 {1500}{}{Umm... Yo' mama is so fat when she fell over she rocked herself asleep trying to get up again.}
 {1501}{}{Yo mama sooooooo fat that I had to take a plane, a train, and an automobile just to get on the bitch's good side.}
-{1502}{}{Alright, what did one plate say to the other?}
-{1503}{}{Ok, why were the suspenders arrested?}
-{1504}{}{Ok, why couldn't the woman buy a bakery shop?}
-{2000}{}{Your comic routine was a success.}
-{2001}{}{Your comic routine was a flop.}
+{1502}{}{Tudo bem, o que um prato disse para o outro?}
+{1503}{}{Ok, por que os suspensórios foram presos?}
+{1504}{}{Ok, por que a mulher não pode comprar uma padaria?}
+{2000}{}{Seu show de comédia foi um sucesso.}
+{2001}{}{Seu show de comédia foi um fracasso.}
 {2003}{}{In Washington, a man gets up to speak and doesn't say a thing, and the other men disagree with him for three hours.}
-{2010}{}{Your erotic dance routine was a success.}
-{2335}{}{. Need anything, just ask.}
+{2010}{}{Sua dança erótica foi um sucesso.}
+{2335}{}{. Precisa de alguma coisa, é só pedir.}
 {2336}{}{. At least, last time I checked the sign outside the door. Now what can I do for you?}
-{2500}{}{[2 hours pass.]}
-{2501}{}{[1 hour passes.]}
-{2502}{}{Lunch is on me.}
-{2503}{}{They were arrested for holding up a pair of pants.}
-{2504}{}{Because she couldn't raise enough dough.}
+{2500}{}{[Se passa 2 horas.]}
+{2501}{}{[Se passa 1 hora.]}
+{2502}{}{O almoço é por minha conta.}
+{2503}{}{Eles foram presos por segurarem um par de calças.}
+{2504}{}{Porque ela não conseguia levantar dinheiro suficiente.}

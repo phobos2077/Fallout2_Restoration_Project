@@ -36,7 +36,7 @@
 {131}{}{Please... I am not permitted to speak to anyone.}
 {132}{}{If a Citizen catches me talking to a slaver, I will be punished.}
 {133}{}{The guards will report me if you continue to talk to me.}
-{134}{}{I cannot speak to you. I have duties.}
+{134}{}{Eu não posso falar com você. Eu tenho deveres.}
 {135}{}{Please go away, slaver. I don't want any trouble.}
 {136}{}{Escape? I... have never tried to escape from here. Life is good here.}
 {137}{}{The Citizens told me that if I work hard enough, one day *I* could become a Citizen.}
@@ -53,7 +53,7 @@
 {148}{}{I was taken from a tribal village north of here. Life is much better here.}
 {149}{}{I was first captured in the Den. Fortunately, I ended up here.}
 {150}{}{I hear the First Citizen occasionally loses her temper with her servants.}
-{151}{}{I cannot speak to you. I have work to do.}
+{151}{}{Eu não posso falar com você. Tenho trabalho a fazer.}
 {152}{}{I must finish my duties within the hour.}
 {153}{}{Speaking to Outsiders is against the rules.}
 {154}{}{Escape? Why?}
@@ -61,4 +61,4 @@
 {156}{}{I was captured by slavers long ago. I barely remember it.}
 {157}{}{I used to have two children, but they were shipped northwards. I hope they make their way here
  someday.}
-{158}{}{I'm sorry, but I don't have time to talk.}
+{158}{}{Desculpe, mas não tenho tempo para conversar.}
