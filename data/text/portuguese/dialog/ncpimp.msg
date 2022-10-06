@@ -221,15 +221,15 @@
 {551}{}{Esses turistas não são tão excitados quanto eu queria.}
 {552}{}{É melhor tua vagaba não ficar se escondendo de mim...}
 {553}{}{::Te observando::}
-{554}{}{Yo, sweetness, come talk to me for a moment.}
-{555}{}{Come here, I got a pro-position for you.}
+{554}{}{Ei, doçura, vem conversar comigo rapidão.}
+{555}{}{Vem aqui, eu tenho uma proposta para você.}
 {556}{}{Olhe para aquela bunda monumental.}
 {557}{}{Garota, venha e deixe que eu esprema esse teu cuzinho.}
-{558}{}{Hey, beautiful. You interested in doing some work?}
-{559}{}{I got some work for you; benefit is, you get to lie down on the job.}
-{560}{}{You need a place to stay, sugar and spice?}
-{561}{}{Come back to my crib, best place to stay in all of Reno.}
-{562}{}{You got a place to stay? I can get you one.}
-{563}{}{::Scopes you out::}
+{558}{}{Ei, minha linda. Está interessada em fazer algum trabalho?}
+{559}{}{Tenho um trabalho para você; e o benefício é que você pode trabalhar deitada.}
+{560}{}{Você precisa de um lugar para ficar, docinho?}
+{561}{}{Venha para o meu barraco, o melhor lugar para ficar em toda Reno.}
+{562}{}{Você tem um lugar para ficar? Eu posso te dar um.}
+{563}{}{::Te observa atentamente::}
 {564}{}{Querida, me deixe espremer esse cuzinho gostoso.}
-{565}{}{You lookin' to earn some easy scratch, woman?}
+{565}{}{Você quer ganhar alguns arranhões, linda?}

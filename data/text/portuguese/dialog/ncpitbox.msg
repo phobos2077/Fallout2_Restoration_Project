@@ -1,6 +1,6 @@
-{100}{}{You see the casino pit boss.}
-{150}{}{You see a well-dressed man. He is surveying the casino.}
-{200}{}{Uh... you'll need to remove that armor.}
+{100}{}{Você vê o guarda do cassino.}
+{150}{}{Você vê um homem bem vestido. Ele está supervisionando o cassino.}
+{200}{}{Uh... você precisará tirar essa armadura.}
 {210}{}{Uh, por que você está se esgueirando, senhor?}
 {220}{}{Uh, por que você está se esgueirando, senhora?}
 {230}{}{Good evening, [MM], sir.}
@@ -18,13 +18,13 @@
 {350}{}{[Nods at Marcus.] No mutants. He waits outside.}
 {360}{}{Nada de droides.}
 {370}{}{Não posso conversar enquanto estiver em serviço, mas me alegro que você deu um chute no cu da Enclave.}
-{380}{}{Need some more chips at table three...}
-{390}{}{Need some more chips at table three...}
+{380}{}{Precisa de mais fichas na mesa três...}
+{390}{}{Precisa de mais fichas na mesa três...}
 {400}{}{Hey, [X]! Heard yer the one who kicked the Enclave back to the stone age! [Becomes formal.] I've been instructed to give you some chips, courtesy of the casino. Enjoy yourself, sir.}
 {420}{}{Hey, look who's here! Hey, [PS]. [Smiles.] Welcome to [CN]. Love your films.}
-{440}{}{Shoot. What d'you want to know?}
-{460}{}{Uh, you better run along now, sir.}
-{470}{}{Yeah, yer Mom said I was special, too. Now take a hike... maybe she's along Virgin street somewhere.}
+{440}{}{Atira. O que você quer saber?}
+{460}{}{Uh, é melhor você sair agora, senhor.}
+{470}{}{Sim, sua mãe disse que eu também sou especial. Agora vai dar uma voltinha... talvez ela esteja em algum lugar na Virgin Street.}
 {480}{}{I'm the pit boss. [Looks slightly irritated.] Now what can I do for you?}
 {490}{}{This is [CN]. Need anything, just ask.}
 {500}{}{Best goddamn casino in town... but I am a little biased. [Laughs.] Anything else you want to know?}
