@@ -58,7 +58,7 @@
 {153}{}{Speaking to Outsiders is against the rules.}
 {154}{}{Escape? Why?}
 {155}{}{Yes? Can I help you?}
-{156}{}{I was captured by slavers long ago. I barely remember it.}
+{156}{}{Fui capturado por escravistas há muito tempo. Nem me lembro mais.}
 {157}{}{I used to have two children, but they were shipped northwards. I hope they make their way here
  someday.}
 {158}{}{Desculpe, mas não tenho tempo para conversar.}

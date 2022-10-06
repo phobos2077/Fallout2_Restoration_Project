@@ -89,19 +89,19 @@
 {410}{}{Não, Sr. Salvatore, não consegui encontrar o dinheiro.}
 {411}{}{Não, Sr. Salvatore, Lloyd já gastou o dinheiro.}
 {412}{}{Sim, Sr. Salvatore.}
-{420}{}{Your instructions were to recover the money he stole.
- Have you not done this?}
-{421}{}{Well, no, because --}
-{422}{}{Uh, I have the money --}
-{423}{}{Well, you see, I don't --}
-{430}{}{I will take the money now.}
+{420}{}{Suas instruções eram para recuperar o dinheiro que
+ ele roubou. Você não fez isso?}
+{421}{}{Bem, não, porque...}
+{422}{}{Uh, eu tenho o dinheiro...}
+{423}{}{Bem, veja, eu não --}
+{430}{}{Me de o dinheiro agora.}
 {431}{}{Bom, não tenho isso comigo...}
-{432}{}{Give him 250 chips.}
-{433}{}{Give him 500 chips.}
-{434}{}{Give him 750 chips.}
-{435}{}{Give him 1000 chips.}
-{436}{}{Give him 1000 chips. (This is the correct amount.)}
-{437}{}{(Make a break for it.)}
+{432}{}{Te da 250 tampas.}
+{433}{}{Te da 500 tampas.}
+{434}{}{Te da 750 tampas.}
+{435}{}{Te da 1000 tampas.}
+{436}{}{Te da 1000 tampas. (Esta é a quantidade correta.)}
+{437}{}{(Coooorreee.)}
 {450}{}{This amount... is not the amount that was stolen
  from me. Perhaps you don't know how much was stolen from me. Or perhaps you are holding
  out on me. Either way...}
@@ -111,8 +111,8 @@
 {456}{}{Ei, obrigado.}
 {468}{}{Obrigado, Sr. Salvatore.}
 {475}{}{(Mr. Salvatore takes a breath from the mask.) I have another... matter that requires your attention.}
-{476}{}{Sure, why not? What's the job -- another kill and fetch assignment?}
-{477}{}{I am interested in the job, Mr. Salvatore. What do you want me to do?}
+{476}{}{Claro, por que não? Qual é o trabalho -- outra tarefa sobre matar e cobrar?}
+{477}{}{Estou interessado no trabalho, Sr. Salvatore. O que o senhor quer que eu faça?}
 {478}{}{Não, já chega dos trabalhos de assassinato. Estou dando uma pausa.}
 {479}{}{Não há mais trabalho para mim, Sr. Salvatore. Eu preciso ir.}
 {485}{}{A constituent in my... district has not paid me... tribute... for the services I provide.
@@ -124,9 +124,9 @@
 {500}{}{Você fez como eu pedi?}
 {501}{}{Yes, Mr. Salvatore, I have the tribute you asked me to collect.}
 {502}{}{Sim, o 'tributo' está bem aqui.}
-{503}{}{Not yet. I haven't got the old guy to cough it up yet.}
-{504}{}{Not yet, Mr. Salvatore. When I return, I shall have it with me.}
-{515}{}{You told Mason you had collected my tribute. Have you not done this?}
+{503}{}{Ainda não. Ainda não consegui que o cara o largasse.}
+{504}{}{Ainda não, Sr. Salvatore. Vou ter quando voltar.}
+{515}{}{Você disse a Mason que havia coletado meu tributo. Você não fez isso?}
 {525}{}{Muito bem. (Ele espera.)}
 {527}{}{Dê a ele 900 tampas.}
 {528}{}{Dê a ele 800 tampas.}
@@ -134,8 +134,8 @@
 {540}{}{This amount... is not the amount that was stolen
  from me. Perhaps you don't know how much the required tribute is. Or perhaps you are
  holding out on me. Either way...}
-{545}{}{(Salvatore nods as you give him the money.) You have done... well. You have
- earned 25% of the cut.}
+{545}{}{(Salvatore acena com a cabeça enquanto você tedá o dinheiro.) Você fez... bem. Você
+ ganhou 25%.}
 {546}{}{(Salvatore nods as you give him the money.) You have done... adequately. You have
  earned 10% of the cut.}
 {555}{}{(Takes a breath from his mask.) You have... done as I asked. I have no
@@ -144,8 +144,8 @@
 {557}{}{Eu poderia ter uma dessas pistolas a laser como parte do meu pagamento antes de ir?}
 {565}{}{(Takes a deep breath from the mask.) I have another... matter that I could
  use your assistance with.}
-{566}{}{Sure, why not? What's the job - more extortion?}
-{568}{}{No, I'm done doing extortion jobs. I'm making a clean break.}
+{566}{}{Claro, por que não? Qual é o trabalho - mais extorsão?}
+{568}{}{Não, cansei de fazer trabalhos de extorsão. Vou fazer uma pausa.}
 {575}{}{A... sensitive transaction will be taking place soon. I am in need of an extra... guard
  to insure that the transaction goes smoothly. You will speak with Mason and do as he directs you.}
 {576}{}{Qual é essa transação?}
@@ -165,13 +165,13 @@
 {615}{}{That is... unfortunate. I cannot take the risk that you will remain... silent about
  what you have seen in the desert. Goodbye, }
 {616}{}{Opa! Espere um minuto...!}
-{617}{}{Oh yeah? Bring it on so I can slaughter your entire family, one by one.}
+{617}{}{Oh, sim? Deixe que venham, pode muito bem massacrar toda a sua Família, um por um.}
 {620}{}{Muito bem. Você deve escolher um nome...}
 {621}{}{E se...}
 {630}{}{(Nods) That is a... good name. Now go speak to Mason. He will have...
 something for you.}
 {640}{}{Saudações,}
-{645}{}{I have no further need of your services, }
+{645}{}{Não preciso mais dos seus serviços, }
 {650}{}{...}
 {651}{}{...hurkkk...}
 {652}{}{...*suspiro*...eu...*tosse*...*respiração*...}
@@ -186,16 +186,16 @@ something for you.}
 {675}{}{(Mr. Salvatore looks at you for a long time in silence, then speaks.) We
  Salvatores... we will rule New Reno. If a child must die to insure that, it will
  be... done. There is no other reason.}
-{676}{}{What did killing Wright's son have to do with ruling New Reno? That makes no SENSE.}
+{676}{}{O que matar o filho de Wright tem a ver com governar New Reno? Isso não tem SENTIDO.}
 {677}{}{You murdered someone's SON, Salvatore. You might as well have just signed
  your own death warrant...}
-{678}{}{All right then. I just wanted to know why you did it.}
+{678}{}{Tudo bem então. Eu só queria saber por que você fez isso.}
 {800}{}{Você assassinou Don Salvatore.}
 {825}{}{Você derrotou Don Salvatore.}
 {850}{}{Você resolveu a "situação" de Lloyd.}
 {875}{}{Você recolheu o tributo do Sr. Salvatore.}
-{900}{}{You have become a made man of the Salvatore family.}
-{925}{}{You have successfully completed the secret transaction.}
+{900}{}{Você se tornou um capanga da família Salvatore.}
+{925}{}{Você concluiu com sucesso a transação secreta.}
 {5233}{}{! Quem você}
 {5270}{}{. Agora... o que quer de mim?}
 {5290}{}{: O que... você quer de mim?}

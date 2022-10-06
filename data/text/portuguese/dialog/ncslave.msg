@@ -91,23 +91,23 @@
 {290}{}{I was taken from a tribal village north of here. Life is much... better here.}
 {291}{}{Fui capturado pela primeira vez no Den.}
 {292}{}{Eu não posso falar com você. Tenho trabalho a fazer.}
-{293}{}{I must finish my duties before my master returns.}
+{293}{}{Devo terminar meus deveres antes que meu mestre retorne.}
 {294}{}{Falar é contra as regras.}
 {295}{}{Please go away. I beg you. You're only going to get me in trouble.}
 {296}{}{Escape? There is nowhere to escape TO. The Wastes are filled with horrible monsters that will eat runaways alive.}
-{297}{}{Slaves who become sick are usually killed.}
+{297}{}{Escravos que ficam doentes geralmente são mortos.}
 {298}{}{I was one of the slaves who made it to New Reno. Two others got sick during the trip, so the slavers shot them.}
 {299}{}{Sim? Como posso ajudá-lo?}
 {300}{}{I hear rumors of an underground railroad, but I don't know anyone who escaped.}
 {301}{}{Julia escaped, but they caught her in Golgotha the next day. They tied her to a wheel and let her starve to death.}
-{302}{}{Runaway slaves are caught and left to die in Golgotha.}
+{302}{}{Escravos fugitivos são capturados e deixados para morrer na Gólgota.}
 {303}{}{No, I don't know where my family is now. I still think about them sometimes, but not so often anymore.}
-{304}{}{New Reno is... well, it is not as bad as the Den. In some ways.}
+{304}{}{New Reno é... bem, não é tão ruim quanto o Den. Por alguns lados.}
 {305}{}{::Se afasta, assustado.::}
 {306}{}{::Ignora você, assustado.::}
 {307}{}{Once you learn your new master's needs, the beatings become less... frequent.}
-{308}{}{I was captured by slavers long ago. I barely remember it.}
+{308}{}{Fui capturado por escravistas há muito tempo. Nem me lembro mais.}
 {309}{}{I used to have two children, but they were shipped northwards. I hope they ended up somewhere better than here.}
 {310}{}{Desculpe, mas não tenho tempo para conversar.}
 {311}{}{My master recently has become upset with me. He says he will sell me to the stables if I anger him again.}
-{312}{}{Runaway slaves die on Golgotha or are shipped to the Stables for testing.}
+{312}{}{Escravos fugitivos morrem na Gólgota ou são enviados para os estábulos para serem testados.}

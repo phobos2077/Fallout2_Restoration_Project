@@ -3,7 +3,7 @@
 {151}{}{Ele parece extremamente cansado e irritado.}
 {152}{}{You see a tired -looking woman. She is checking a clipboard and looking around as
  if she has forgotten something.}
-{153}{}{She is filling a hypodermic, grumbling slightly to herself.}
+{153}{}{Ela está enchendo uma seringa hipodérmica, resmungando um pouco para si mesma.}
 {154}{}{Olá, Myron, senhor.}
 {155}{}{Myron... senhor, tem um minuto...?}
 {156}{}{Sabe quando os novos escravos chegarão, Myron, senhor?}
@@ -25,7 +25,7 @@
 {200}{}{Os testes estão decorrendo conforme o programado, Myron.}
 {201}{}{Essa nova cepa de jet é extremamente viciante, senhor. Os escravos quase estão
  dispostos a matar uns aos outros por ela.}
-{202}{}{The slaves would rather take Jet than eat, it's so potent.}
+{202}{}{Os escravos preferem tomar Jet a comer, é potente demais.}
 {203}{}{Quem são estas pessoas com você, Myron? Novos escravos?}
 {204}{}{The third test group seem to be doing the best of all the groups, Myron, sir.}
 {205}{}{Myron, I think the next test group should include at least three children, sir.}
