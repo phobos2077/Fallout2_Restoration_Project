@@ -299,7 +299,7 @@
 {399}{}{Vortis}
 {400}{}{Bath Attendant}
 {401}{}{Slaves}
-{402}{}{Scorpion}
+{402}{}{Skorpion}
 {403}{}{Brahmin}
 {404}{}{Car}
 {405}{}{Table}
@@ -1197,7 +1197,7 @@
 {1297}{}{Cross}
 {1298}{}{Plow}
 {1299}{}{Plow}
-{1300}{}{Scorpion}
+{1300}{}{Skorpion}
 {1301}{}{Generator}
 {1302}{}{Door}
 {1303}{}{Door}

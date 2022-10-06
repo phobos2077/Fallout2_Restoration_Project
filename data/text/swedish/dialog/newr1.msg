@@ -178,7 +178,7 @@
 {465}{}{Tank}
 {466}{}{Bruiser}
 {467}{}{Mynx}
-{468}{}{Scorpion}
+{468}{}{Skorpion}
 {469}{}{Punchy}
 {470}{}{Cheetah}
 {471}{}{Verdict}

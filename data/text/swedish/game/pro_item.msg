@@ -10,7 +10,7 @@
 {501}{}{A military or police baton. Heavy wood. Min ST: 3.}
 {600}{}{Sledgehammer}
 {601}{}{A large hammer with big handle. Very popular with the muscular crowd. Min ST: 6.}
-{700}{}{Spear}
+{700}{}{Spjut}
 {701}{}{A razor tipped polearm. The shaft is wooden, and the tip is worked steel. Min ST: 4.}
 {800}{}{10mm Pistol}
 {801}{}{A Colt 6520 10mm autoloading pistol. Each pull of the trigger will automatically reload the firearm until the cylinder is empty. Single shot only, using the powerful 10mm round. Min ST: 3.}
@@ -721,10 +721,10 @@
 {36800}{}{Ammo Crate}
 {36900}{}{Ammo Crate}
 {37000}{}{Ammo Crate}
-{37100}{}{Claw}
-{37101}{}{Claw}
-{37200}{}{Claw}
-{37201}{}{Claw}
+{37100}{}{Klo}
+{37101}{}{Klo}
+{37200}{}{Klo}
+{37201}{}{Klo}
 {37300}{}{Vault 15 Keycard}
 {37301}{}{An electronic security key, color coded red.}
 {37400}{}{Gravesite}
