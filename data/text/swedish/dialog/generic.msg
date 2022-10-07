@@ -9,7 +9,7 @@
 {200}{}{Thank you.}
 {201}{}{Good Day.}
 {202}{}{Tack.}
-{203}{}{Thanks!}
+{203}{}{Tack!}
 {204}{}{No thank you.}
 {205}{}{No thanks.}
 {206}{}{Visst.}

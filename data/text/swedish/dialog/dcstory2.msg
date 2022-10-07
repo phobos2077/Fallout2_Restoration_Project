@@ -42,7 +42,7 @@
 {147}{}{That's nothing.}
 {148}{}{Yeah, it is.}
 {149}{}{The kind I'm talking about is a small cute animal, bigger than a rat but smaller than a dog. Some are fluffy, like my Cuddles, but others have short hair.}
-{150}{}{Really?}
+{150}{}{Verkligen?}
 {151}{}{They like to be pet like a dog does, but cats make this wonderful relaxing sound when you pet them.}
 {152}{}{Strange.}
 {153}{}{Cuddles always used to help me go to sleep at night. I think of her every night when I try to go to sleep.}

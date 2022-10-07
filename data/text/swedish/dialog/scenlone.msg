@@ -15,7 +15,7 @@
 {114}{}{No-body here.}
 {115}{}{Oh dear, a Level One. Still trapped in primitive state. Perhaps a zeta-scan alignment would help. Would you like that?}
 {116}{}{Zay-ta!}
-{117}{}{No!}
+{117}{}{Nej!}
 {118}{}{Please don't mock the Church of Hubology. It's oppressors like you who make things hard for the rest of us. Oh, dear. I'm all turbulent!}
 {119}{}{Chosen One? Don't you mean AHS-One? Just what text are you working from?}
 {120}{}{It's simple. I am the Chosen One because that is what must be.}

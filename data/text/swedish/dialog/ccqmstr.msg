@@ -26,7 +26,7 @@
 {121}{}{Well, you'll need your standard issue, then. Go into the armory,
  suit up, and take your weapon. You should report to the Drill Sergeant
  afterwards.}
-{122}{}{Thanks!}
+{122}{}{Tack!}
 {123}{}{You're welcome. Now get out of here. I've got work to do and I
  don't want to be disturbed.}
 {124}{}{I'm busy right now. Come back later.}

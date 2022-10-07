@@ -64,7 +64,7 @@
 {342}{}{Screw that. Where's the money I covered you for?}
 {343}{}{I don't give a crap. Where's my money?}
 {350}{}{Fine. Here. [Fred gives you $500] There's a little extra for trusting me. Well, see you later. Thanks again.}
-{351}{}{Thanks!}
+{351}{}{Tack!}
 {352}{}{What ever.}
 {360}{}{Thanks a lot for covering for me. It really meant a lot to me, to be trusted by a complete stranger. Let me give you this.}
 {361}{}{Okej.}

@@ -9,8 +9,8 @@
 {108}{}{I'd like to take one of your tests.}
 {109}{}{Nothing. Bye.}
 {110}{}{Ah, a test subject! Would you like to take a test, my friend?}
-{111}{}{Yes!}
-{112}{}{No!}
+{111}{}{Ja!}
+{112}{}{Nej!}
 {113}{}{You wish to take a test, eh? Do you want to test your hands, your eyes, or your brains?}
 {114}{}{'Ands!}
 {115}{}{Yeyes!}

@@ -18,7 +18,7 @@
 {116}{}{Nn! Stuff! Me!}
 {117}{}{Dood bye!}
 {118}{}{You want to buy something?}
-{119}{}{Yes!}
+{119}{}{Ja!}
 {120}{}{No no no.}
 {121}{}{All right. What do you want?}
 {122}{}{Barter.}

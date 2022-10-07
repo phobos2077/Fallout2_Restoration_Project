@@ -394,7 +394,7 @@
 {942}{}{Whoa. Spirits? Sounds scary. Goodbye.}
 {943}{slk80}{To the east is a canyon where Brahmin graze. We hear several moons back there was
  lightning and thunder... without clouds. Evil spirits come to that living land.}
-{944}{}{Really?}
+{944}{}{Verkligen?}
 {945}{slk80a}{Locals start to hear strange noises. Spirits in torment, say we and I. A few even
  see something there. Spirit-creature not wearing the shape of a man.}
 {946}{}{Huh.}

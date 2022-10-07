@@ -4,9 +4,9 @@
 {201}{}{}
 {300}{}{Villager}
 {400}{}{Villager}
-{500}{}{Radscorpion}
+{500}{}{Radskorpion}
 {501}{}{A small mutated scorpion.}
-{600}{}{Radscorpion}
+{600}{}{Radskorpion}
 {601}{}{A mutated scorpion.}
 {700}{}{Deathclaw}
 {701}{}{An immature deathclaw.}
@@ -381,7 +381,7 @@
 {36400}{}{Marc}
 {36500}{}{Dave H.}
 {36600}{}{Capt. A. Ron Meyers}
-{36700}{}{Chip}
+{36700}{}{Kretskort}
 {36800}{}{AHS-9}
 {36900}{}{Hubologist Guard}
 {37000}{}{Hubologist Guard}

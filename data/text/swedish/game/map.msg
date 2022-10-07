@@ -35,11 +35,11 @@
 {134}{}{error:Map Name}
 {135}{}{error:Map Name}
 {136}{}{error:Map Name}
-{137}{}{Hub}
-{138}{}{Hub}
-{139}{}{Hub}
-{140}{}{Hub}
-{141}{}{Hub}
+{137}{}{Knutpunkt}
+{138}{}{Knutpunkt}
+{139}{}{Knutpunkt}
+{140}{}{Knutpunkt}
+{141}{}{Knutpunkt}
 {142}{}{Glow}
 {143}{}{Glow}
 {144}{}{Boneyard}

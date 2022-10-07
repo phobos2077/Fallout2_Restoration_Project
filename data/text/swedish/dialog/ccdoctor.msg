@@ -106,7 +106,7 @@
 {174}{}{I was just curious.}
 {175}{}{I don't want anyone to hear your screams as I experiment on you.}
 {176}{}{Be my guest. It's in the next room.}
-{177}{}{Thanks!}
+{177}{}{Tack!}
 {178}{}{That is K-9, my dog. I decided to see if I could cyber
  enhance his intelligence. It worked but he developed a bad case of
  morals. He decided he didn't like my work or me much, and he bit me.}

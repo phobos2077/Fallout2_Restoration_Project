@@ -78,7 +78,7 @@
 {420}{}{Ahhh!}
 {421}{}{Ug!}
 {422}{}{Don't stop!}
-{423}{}{Yes!}
+{423}{}{Ja!}
 {424}{}{I'm heading as far away from this place as possible.}
 {425}{}{Keep moving!}
 {426}{}{Freedom! Freedom at last!}

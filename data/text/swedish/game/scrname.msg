@@ -613,7 +613,7 @@
 {713}{}{Chad}
 {714}{}{Spore Plant}
 {715}{}{}
-{716}{}{Radscorpion}
+{716}{}{Radskorpion}
 {717}{}{}
 {718}{}{Warrior}
 {719}{}{Cannibal}
@@ -932,7 +932,7 @@
 {1032}{}{Slave}
 {1033}{}{Slave}
 {1034}{}{Slaver}
-{1035}{}{Chip}
+{1035}{}{Kretskort}
 {1036}{}{Reactor}
 {1037}{}{Reactor Computer}
 {1038}{}{Cash Tender}
@@ -1170,7 +1170,7 @@
 {1270}{}{}
 {1271}{}{Peasant}
 {1272}{}{The Lavender Flower}
-{1273}{}{Radscorpion}
+{1273}{}{Radskorpion}
 {1274}{}{Professor}
 {1275}{}{Box}
 {1276}{}{Box}

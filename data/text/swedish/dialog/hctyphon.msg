@@ -87,7 +87,7 @@
 {185}{}{[KLAR]}
 {186}{}{I'm all tuckered out now. Go get me some rotgut and we'll talk about the treasure. Phil the bartender should be able to take care o' that for you.}
 {187}{}{Rite! Bye!}
-{188}{}{No!}
+{188}{}{Nej!}
 {189}{}{Take! [give Rotgut to Typhon]}
 {190}{}{Got it. Here you go. [Give Rotgut to Typhon.]}
 {191}{}{Is that going to be it?}

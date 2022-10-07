@@ -50,7 +50,7 @@
 {193}{}{I guess that's all I need to know for now. Goodbye.}
 {200}{}{Well, they said I wasn't human enough for them. I'm sorta radiation resistant -- perfect for
  here. But they didn't like it. Treated me like dirt.}
-{201}{}{Really?}
+{201}{}{Verkligen?}
 {210}{}{One day I just couldn't take it anymore. I figured that dying out in the Wastes was better than
  living with those assholes in Vault City.}
 {211}{}{How'd you end up here, then?}

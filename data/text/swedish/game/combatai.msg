@@ -2949,7 +2949,7 @@
 {41363}{}{Oy vey!}
 {41364}{}{Nyah, nyah-nyah, nyah-nyah}
 {41365}{}{Missed me!}
-{41366}{}{Yes!}
+{41366}{}{Ja!}
 {41367}{}{You suck!}
 {41368}{}{Betcha didn't expect that move didja?}
 {41369}{}{Swing, batta, batta. Swing!}

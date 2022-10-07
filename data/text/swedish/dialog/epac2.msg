@@ -76,7 +76,7 @@
 {394}{}{I'll get around to it.}
 {400}{}{Excellent! I'm delighted to know it works as intended. Thank you for assisting me with this. Why don't you go
  ahead and keep the Solar Scorcher, I'd rather it get some use than sit around here and collect dust.}
-{401}{}{Thanks!}
+{401}{}{Tack!}
 {402}{}{Good, because I didn't plan on giving it back anyway.}
 {410}{}{Oh... I see. I don't understand, that prototype withstood vigorous lab testing... [He shakes his head
  sadly.] Anyway, thanks for assisting me.}

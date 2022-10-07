@@ -57,7 +57,7 @@
 {453}{}{Super mutants}
 {454}{}{Ghouls}
 {455}{}{Brahmin}
-{456}{}{Radscorpions}
+{456}{}{Radskorpioner}
 {457}{}{Rats}
 {458}{}{Floaters}
 {459}{}{Centaurs}
@@ -185,7 +185,7 @@
 {1453}{}{Super Mutants}
 {1454}{}{Ghouls}
 {1455}{}{Brahmin}
-{1456}{}{Radscorpions}
+{1456}{}{Radskorpioner}
 {1457}{}{Rats}
 {1458}{}{Floaters}
 {1459}{}{Centaurs}

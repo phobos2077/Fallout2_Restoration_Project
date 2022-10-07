@@ -55,7 +55,7 @@
 {357}{}{Centaur chops, my specialty.}
 {358}{}{It's a surprise.}
 {359}{}{I can't give away my secret recipes!}
-{360}{}{Really?}
+{360}{}{Verkligen?}
 {375}{}{Here you go. You look half-starved. (Mom hands you a big steaming plate of delicious smelling food.)}
 {376}{}{Tank-u, Mom.}
 {385}{}{There you go. I knew you'd enjoy that.}

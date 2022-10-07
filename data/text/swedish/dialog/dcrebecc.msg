@@ -155,7 +155,7 @@
 {481}{}{What is it?}
 {490}{}{Oh, just a few trinkets. Here you go. [Becky hands you $1000, 5 Stimpaks,
  Metal Armor, an Uzi, 5 clips of ammo, a Plasma Grenade, and a flower]}
-{491}{}{Thanks!}
+{491}{}{Tack!}
 {500}{}{No problem. I was just holding them for you. Well, I better get back to work.}
 {501}{}{Thanks, bye.}
 {510}{}{Didn't you hear! He's dead! Oh, I know I shouldn't be happy, but he was a very

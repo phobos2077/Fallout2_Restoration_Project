@@ -127,7 +127,7 @@
 {280}{}{We're leaving town. You should too.}
 {281}{}{Come find me when I'm in the store and we'll talk.}
 {282}{}{Your ore is done. Here you go.}
-{283}{}{Thanks!}
+{283}{}{Tack!}
 {284}{}{I'm not done with the ore yet. Give me some time.}
 {285}{}{I had other questions.}
 {286}{}{Okay. Bye.}

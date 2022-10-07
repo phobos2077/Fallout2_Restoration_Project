@@ -144,7 +144,7 @@
 {203}{}{Fan också. Ledsen för besväret. Jag ska rensa ett gäng nybörjare.
  men jag måste rensa ut soporna. Hur som helst, gå bara upp till porten,
  genom skogen där, och ge dem lösenordet. Det är 'fårskalle.' Åh, och håll dig på stigen!}
-{204}{}{Thanks!}
+{204}{}{Tack!}
 {205}{}{Wait a minute, dummy. Are you trying to say you're one of the Enclave
  replacements? If that's the case, then why aren't you alone?}
 {206}{}{Wait a minute. Are you trying to say you're one of the Enclave

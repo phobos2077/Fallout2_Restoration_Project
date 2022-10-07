@@ -48,7 +48,7 @@
 {153}{}{Don't know, but there were multiple groups of them. Some would continue north, others headed east. No one knew where they were going.}
 {154}{}{Go on.}
 {155}{}{They were quite upset and seemed to be fleeing from something.}
-{156}{}{Really?}
+{156}{}{Verkligen?}
 {157}{}{Yeah, there were also others in dirty, tattered purple robes... they kept babbling about how the Master was dead...}
 {158}{}{Interesting.}
 {159}{}{Some of them even committed suicide right here in town!}

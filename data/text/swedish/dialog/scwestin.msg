@@ -46,7 +46,7 @@
 {145}{}{Excellent. Felix will guide you out there. Now, if you'll excuse me.}
 {146}{}{Well, maybe I can. I've heard a lot of stories about Tandi and the Vault Dweller. Seems he saved her life years ago before NCR was even founded. Anyway, legend has it that he spent a lot of time exploring a vault east of here. If that isn't vault 13 then maybe you'll find a clue there that will lead you to it.}
 {147}{}{Ooooh. Good.}
-{148}{}{Thanks!}
+{148}{}{Tack!}
 {149}{}{Well, maybe I can. However, I need a favor from you first. Something, or someone, has been raiding my brahmin at night. I need to find out what's up. How about going out there and looking into it for me? I'll pay you for it and I'll tell you what I know.}
 {150}{}{Sounds like a good idea. I'll do it.}
 {151}{}{No thanks. Sitting in a field, waiting for some mantoid to show sounds boring.}

@@ -24,10 +24,10 @@
 {123}{}{B-b-b-enny [Nothing, thanks. It's just nice being able to talk to you. Bye!]}
 {124}{}{If you'll agree to do me a favor, I can help you, child.}
 {125}{}{Oik? [What is it? I'd be happy to be of assistance.]}
-{126}{}{No!}
+{126}{}{Nej!}
 {127}{}{My counterpart, The Emperor of Shi-town, has been making my life miserable. I'd like you to end his. In return, I'll make sure you can get where you need to be.}
 {128}{}{Ays! [I'll do it.]}
-{129}{}{No!}
+{129}{}{Nej!}
 {130}{}{If you change your mind, let me know. Remember, I may be the only way you have of reaching your family.}
 {131}{}{Ok. [What is this favor?]}
 {132}{}{Didgeroo! [Thanks, I'd rather not owe anyone. So long!]}

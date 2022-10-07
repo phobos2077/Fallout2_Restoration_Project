@@ -10,7 +10,7 @@
 {109}{}{Great. Gotta go.}
 {110}{}{Him: A poor child of the waste. Her: Perhaps an alignment would help? Him: Yes. You. Would you like an alignment?}
 {111}{}{'Es!}
-{112}{}{No!}
+{112}{}{Nej!}
 {113}{}{Her: I do hope that has helped. Good luck in your travels!}
 {114}{}{Goo-bye!}
 {115}{}{It certainly has!}

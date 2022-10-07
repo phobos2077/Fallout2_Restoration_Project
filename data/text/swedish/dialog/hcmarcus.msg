@@ -35,7 +35,7 @@
 {134}{}{Great. I have more questions.}
 {135}{}{Fair enough. Bye.}
 {136}{mcs10}{Right... After the Master and the vats were destroyed, I wandered a bit. No place to go. One day got attacked by this fool wearin' power armor.}
-{137}{}{Really?}
+{137}{}{Verkligen?}
 {138}{mcs11}{That was Jacob, from the Brotherhood of Steel. He'd sworn some oath to destroy muties. We tussled for a while -- probably a day or two. After a while, we just started laughing. What was the point?}
 {139}{}{Then what?}
 {140}{mcs12}{We became friends. Headed off together. Then other people started following us. Guess they figured if they weren't safe with a mutie and a Steel Knight, safe just wasn't going to happen. }

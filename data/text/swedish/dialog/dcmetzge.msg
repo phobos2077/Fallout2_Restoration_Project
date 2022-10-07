@@ -243,7 +243,7 @@
 {681}{}{Actions?}
 {682}{}{What?}
 {690}{}{Oh, so you aren't as dumb as you act. Well, that's a shame. You see, I'm having a bit of a dilemma. Someone had the nerve to attack my men.}
-{691}{}{Really?}
+{691}{}{Verkligen?}
 {692}{}{It was an accident!}
 {700}{}{Really? I'm so glad you agree. Now what would you do if someone betrayed this trust?}
 {701}{}{Uh, give them a warning?}

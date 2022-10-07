@@ -83,7 +83,7 @@
 {412}{}{I said talk to Metzger!}
 {413}{}{Okay, fine! You can talk to him, but that's it! He's not stepping a foot outside that room. Got it? Now beat it!}
 {414}{}{Okej.}
-{415}{}{Thanks!}
+{415}{}{Tack!}
 {430}{}{Yeah, talk to Metzger. I'm sure he has some work available. I think he said he needed another man.}
 {431}{}{Yeah, talk to Metzger. I'm sure he has some work available. He said he needed another man... but I'm sure you'll do.}
 {432}{}{Talk to Metzger.}

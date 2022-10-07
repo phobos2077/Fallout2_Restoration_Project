@@ -52,12 +52,12 @@
 {500}{}{Don't stop there.}
 {501}{}{Keep moving.}
 {502}{}{COME ON 7!}
-{503}{}{Yes!}
+{503}{}{Ja!}
 {504}{}{Keep it coming!}
 {505}{}{Becky! I'm going to take all your money today!}
 {506}{}{Woohoo! Winner!}
 {507}{}{Give me another good bounce!}
-{508}{}{Yes!}
+{508}{}{Ja!}
 {509}{}{All right!}
 {510}{}{Again, let's see that again.}
 {511}{}{Come on.}
