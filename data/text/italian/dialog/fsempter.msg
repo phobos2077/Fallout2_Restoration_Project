@@ -19,7 +19,7 @@
 {118}{}{::lascia perdere::}
 {119}{}{Allarme intruso attivato. Spegnimento in corso. Buona giornata.}
 {120}{}{[FATTO]}
-{121}{}{Funzioni Diagnostiche? }
+{121}{}{Funzioni Diagnostiche?}
 {122}{}{Scansione di rete.}
 {123}{}{Formattazione disco.}
 {124}{}{Controllo integrita' disco rigido.}
