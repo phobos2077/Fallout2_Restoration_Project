@@ -58,37 +58,37 @@
 {416}{}{Alguém me deixou levar o RadAway. Eu não vou usar tudo isso, prometo.}
 {425}{}{Por que não voltamos ao primeiro nível da masmorra onde estão todos os kobolds?}
 {426}{}{Ainda bem que jogar D&D todos esses anos me ensinou algumas coisas sobre coragem.}
-{427}{}{Pass the Buffout. I think I'm going to need it soon.}
-{428}{}{Great place. Great place to visit. How about we keep our stay short?}
-{429}{}{Oh, this is MUCH better than being in some cozy whorehouse.}
-{430}{}{Let's get in, get out, all right?}
-{431}{}{How about we visit this place later?}
-{432}{}{Why the hell are we here?}
-{433}{}{This place ain't doing much for my morale.}
-{434}{}{I say we send ol' Bonenose to check out the area. Alone.}
-{435}{}{Why don't we send ol' Bone-nose out to scout the area?}
-{445}{}{Why don't we send ol' Marcus out to scout the area?}
-{446}{}{I say we send Marcus out to check out this area. Alone.}
-{447}{}{Pass the Buffout. I think I'm going to need it soon.}
+{427}{}{Passe o Buffout. Acho que vou precisar logo.}
+{428}{}{Ótimo lugar. Ótimo lugar para visitar. Vamos demorar quanto pra ir embora?}
+{429}{}{Oh, isso é MUITO melhor do que estar em algum bordel aconchegante.}
+{430}{}{Vamos entrar e sair, está bem?}
+{431}{}{Que tal visitarmos este lugar mais tarde?}
+{432}{}{Afinal, por que estamos aqui?}
+{433}{}{Este lugar não está fazendo nenhum favor ao meu humor.}
+{434}{}{Digo para mandarmos o velho Osso-No-Nariz para verificar a área. Sozinho.}
+{435}{}{Por que não mandamos o velho Nariz-de-Osso para explorar a área?}
+{445}{}{Por que não enviamos o velho Marcus para explorar a área?}
+{446}{}{Eu digo para enviarmos Marcus para verificar esta área. Sozinho.}
+{447}{}{Passe o Buffout. Acho que vou precisar logo.}
 {448}{}{Por que não voltamos ao primeiro nível da masmorra onde estão todos os kobolds?}
 {449}{}{Ainda bem que jogar D&D todos esses anos me ensinou algumas coisas sobre coragem.}
-{450}{}{Great place. Great place to visit. How about we keep our stay short?}
-{451}{}{Oh, this is MUCH better than being in some cozy whorehouse.}
-{452}{}{Let's get in, get out, all right?}
-{453}{}{How about we visit this place later?}
-{454}{}{Why the hell are we here?}
-{455}{}{This place ain't doing much for my morale.}
-{456}{}{Let's send ol' Lenny to check out this area. Alone.}
-{457}{}{Why don't we send ol' Lenny out to scout the area?}
-{465}{}{Hey, thanks. I could use a little pick me up.}
-{466}{}{Nothing like a strict drug regimen to keep my mind limber.}
-{467}{}{This doesn't mean we're married, does it?}
-{468}{}{Got any weed?}
-{469}{}{Let me hold the stimpacks, okay?}
+{450}{}{Ótimo lugar. Ótimo lugar para visitar. Vamos demorar quanto pra ir embora?}
+{451}{}{Oh, isso é MUITO melhor do que estar em algum bordel aconchegante.}
+{452}{}{Vamos entrar e sair, está bem?}
+{453}{}{Que tal visitarmos este lugar mais tarde?}
+{454}{}{Afinal, por que estamos aqui?}
+{455}{}{Este lugar não está fazendo nenhum favor ao meu humor.}
+{456}{}{Vamos enviar o velho Lenny para verificar a área. Sozinho.}
+{457}{}{Por que não enviamos o velho Lenny para explorar a área?}
+{465}{}{Ei, obrigado. Eu poderia usar um pouco para me acordar.}
+{466}{}{Nada como um regime rigoroso de drogas para manter minha mente ágil.}
+{467}{}{Isso não significa que somos casados, não é?}
+{468}{}{Tem alguma erva?}
+{469}{}{Deixe eu levar os stimpacks, ok?}
 {470}{}{Ahhhhhhhhh.}
 {471}{}{Ooooooohhh. Aaaaaaaah. Mmmmmm.}
-{472}{}{I love it when you do that.}
-{473}{}{Drugs make me feel all pixilated.}
+{472}{}{Eu adoro quando você faz isso.}
+{473}{}{As drogas me fazem sentir... pixealizado.}
 {485}{}{Hey, don't use that shit on me! Save it for addicts!}
 {486}{}{Look, I don't want to fly, and you don't either. Bury that shit somewhere.}
 {487}{}{Why don't you give that shit to ol' Bone-nose?}
