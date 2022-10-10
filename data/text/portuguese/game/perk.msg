@@ -102,7 +102,7 @@
 {202}{}{Piromaniaco}
 {203}{}{Recuperaçao Rapida}
 {204}{}{Vendedor}
-{205}{}{Stonewall}
+{205}{}{Muralha}
 {206}{}{Ladrao}
 {207}{}{Manuseio de Armas}
 {208}{}{Treinamento de Vault City}

@@ -175,7 +175,7 @@
 {346}{}{Grendel}
 {347}{}{Lady Penelope}
 {348}{}{Mr. Baggins}
-{350}{}{Lightning}
+{350}{}{Relâmpago}
 {351}{}{Percy}
 {352}{}{Flor}
 {353}{}{Rumplestiltskin}

@@ -299,7 +299,7 @@
 {399}{}{Vortis}
 {400}{}{Responsavel pelos banheiros}
 {401}{}{Escravos}
-{402}{}{Scorpion}
+{402}{}{Escorpião}
 {403}{}{Brahmin}
 {404}{}{Carro}
 {405}{}{Mesa}
@@ -1197,7 +1197,7 @@
 {1297}{}{Cruz}
 {1298}{}{Arado}
 {1299}{}{Arado}
-{1300}{}{Scorpion}
+{1300}{}{Escorpião}
 {1301}{}{Gerador}
 {1302}{}{Porta}
 {1303}{}{Porta}
