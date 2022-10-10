@@ -324,10 +324,10 @@
 {1400}{}{Você derrotou seu primeiro desafiante.}
 {1401}{}{Você derrotou seu segundo desafiante.}
 {1402}{}{Você derrotou seu terceiro desafiante.}
-{1403}{}{You have defeated the Masticator!}
-{1404}{}{You have become the Heavyweight Champion of New Reno.}
-{1405}{}{You have defeated your last challenger!}
-{1500}{}{You have convinced Mrs. Wright to destroy the stills.}
-{1550}{}{You have witnessed the secret transaction.}
-{1600}{}{In the heat of the fight, the Masticator tears your ear off.}
-{1700}{}{Enraged, you tear the Masticator's ear off.}
+{1403}{}{Você derrotou o Masticador!}
+{1404}{}{Você se tornou o Campeão Peso Pesado de New Reno.}
+{1405}{}{Você derrotou seu último desafiante!}
+{1500}{}{Você convenceu a Sra. Wright a destruir os alambiques.}
+{1550}{}{Você testemunhou a transação secreta.}
+{1600}{}{No calor da luta, o Masticador arranca sua orelha.}
+{1700}{}{Enfurecido, você arranca a orelha do Masticador.}

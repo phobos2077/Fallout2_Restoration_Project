@@ -7,24 +7,24 @@
 {105}{}{Kick it in that 'special' spot.}
 {106}{}{Run the diagnostic program.}
 {107}{}{Open it up and look inside.}
-{108}{}{Leave it alone.}
+{108}{}{O deixa sozinho.}
 {109}{}{You gaze at the console for a while and decide upon the best spot to place a punch. After giving
  it your best 'this'll fix it' hit, the monitor flashes a couple of times and then stabilizes. There is
  no other effect. What do you do?}
 {110}{}{Kick it in that 'special' spot.}
 {111}{}{Run the diagnostic program.}
 {112}{}{Open it up and look inside.}
-{113}{}{Leave it alone.}
+{113}{}{O deixa sozinho.}
 {114}{}{This well-known repair method produces two results. First, the monitor seems to go haywire for
  several seconds and then stabilizes. Second, you hear a breaking metal type of sound and the panel you
  kicked falls to the floor. What do you do?}
 {115}{}{Run the diagnostic program.}
 {116}{}{Damn thing's open. Might as well look inside.}
-{117}{}{Leave it alone.}
+{117}{}{O deixa sozinho.}
 {118}{}{You are certain that the system should have a set of diagnostic routines available. However, the
  keyboard input seems to have been disabled. The unit accepts voice commands only. What do you do?}
 {119}{}{The only thing left is to look inside.}
-{120}{}{Leave it alone.}
+{120}{}{O deixa sozinho.}
 {121}{}{Peering into the mass of cables and circuit boards, you find that the system has been deliberately sabotaged.
  One of the circuit boards, the voice recognition module, is beyond repair and must be replaced.
  Now all you need to do is find a replacement module.}
