@@ -3,7 +3,7 @@
 {151}{}{Você vê uma prostituta. Ela pisca pra você.}
 {152}{}{Você vê uma prostituta. Seus olhos demonstram calor.}
 {153}{}{Você vê uma prostituta. Ele cheira a flores.}
-{154}{}{Você vê uma prostituta. Ela tem um cheiro de mãe.}
+{154}{}{Você vê uma prostituta. Ela tem um cheiro da sua mãe.}
 {155}{}{Você vê uma prostituta. É um mistério pra você saber como os trapos dela conseguem segurar seus seios.}
 {156}{}{Você vê uma prostituta. Parece que ela mata seus parceiros e os come.}
 {157}{}{Você vê uma prostituta. Ela te aprecia como se você fosse um joalheiro.}

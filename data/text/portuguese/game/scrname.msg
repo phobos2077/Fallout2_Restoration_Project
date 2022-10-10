@@ -551,7 +551,7 @@
 {651}{}{V15 map Script}
 {652}{}{Phil}
 {653}{}{Bill}
-{654}{}{Butcher}
+{654}{}{Açougueiro}
 {655}{}{Dalia}
 {656}{}{John}
 {657}{}{Jones}

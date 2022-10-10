@@ -214,7 +214,7 @@
 {19700}{}{Jonny}
 {19800}{}{Jo}
 {19900}{}{Zeke}
-{20000}{}{Butcher}
+{20000}{}{Açougueiro}
 {20100}{}{Petey}
 {20200}{}{Caçador primitivo}
 {20300}{}{Caçador primitivo}

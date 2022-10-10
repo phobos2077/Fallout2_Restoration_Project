@@ -137,7 +137,7 @@
 {304}{}{Dimsdale}
 {305}{}{Marengo}
 {306}{}{Jackelope}
-{307}{}{Killer}
+{307}{}{Assassino}
 {308}{}{Boss}
 {310}{}{Petroleiro}
 {311}{}{Muttley}

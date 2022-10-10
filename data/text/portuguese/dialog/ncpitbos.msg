@@ -161,11 +161,11 @@
 {903}{}{Mordino}
 {904}{}{Clube Tubarão}
 {905}{}{Desperado}
-{1000}{}{You know your marriage is in trouble if your wife says, 'You're only interested in one thing,' and you can't remember what it is.}
-{1001}{}{My doctor recently told me that jogging could add years to my life. I think he was right. I feel ten years older already.}
-{1002}{}{Folks who don't know why America is the Land of Promise should be here during an election campaign.}
-{1003}{}{Politicians have always made me laugh.}
-{1004}{}{Someone once told me I don't exercise enough. Well, they're wrong. I get my exercise running to the funerals of my friends who exercise.}
+{1000}{}{Você sabe quando seu casamento está com problemas se sua esposa disser: 'Você só está interessado em uma coisa', e nem assim você se lembra do que é.}
+{1001}{}{Meu médico me disse recentemente que correr pode acrescentar anos à minha vida. Eu acho que ele estava certo, já me sinto uns dez anos mais velho.}
+{1002}{}{Pessoas que não sabem por que os Estados Unidos são a Terra da Promessa deveriam estar aqui durante uma campanha eleitoral.}
+{1003}{}{Os políticos sempre me fizeram rir.}
+{1004}{}{Alguém me disse uma vez que eu não me exercito o suficiente. Bem, eles estão errados. Eu faço meu exercício correndo para os funerais dos meus amigos que se exercitam.}
 {1215}{}{, senhor.}
 {1216}{}{, senhor.}
 {1220}{}{, senhora.}
@@ -175,43 +175,43 @@
 {1230}{}{, senhora.}
 {1231}{}{, senhora.}
 {1285}{}{Nada de mutantes. Terá que esperar lá fora.}
-{1286}{}{I don't care if your friend is one of the Ex-Men, mutants wait outside.}
+{1286}{}{Eu não me importo se seu amigo é um dos Ex-Men, os mutantes esperam do lado de fora.}
 {1287}{}{Aquele mutante nojento não é permitido aqui.}
-{1306}{}{. Take a rest from saving the world and have some fun.}
+{1306}{}{. Descanse de salvar o mundo e divirta-se.}
 {1335}{}{Isto é o }
 {1336}{}{Isto é o }
 {1337}{}{Quem é você?}
 {1338}{}{Você pode me dizer um pouco sobre o cassino?}
 {1339}{}{Nada, obrigado. Desculpe te incomodar.}
-{1345}{}{Best goddamn casino in town... but I am a little biased. Anything else you want to know?}
-{1346}{}{Best goddamn casino in town, best goddamn tables... now why don't you run along now, check 'em out? All right?}
+{1345}{}{O melhor cassino da cidade... mas pareço um pouco tendencioso. Mais alguma coisa que você queira saber?}
+{1346}{}{O melhor cassino da cidade, a melhores das melhores mesas... então, por que você não vai dar uma olhada? Certo?}
 {1347}{}{Quem é você?}
 {1348}{}{Quem é o dono desse cassino?}
 {1349}{}{Ok, obrigado. Desculpe incomodá-lo.}
-{1355}{}{ Family. They pumped a lot of life into this place, made it a real night spot, a shining jewel in New Reno.}
-{1356}{}{ Family. That a problem? Cause if you ain't here to gamble, then this ain't the place for you. Understand?}
+{1355}{}{ Família. Eles deram muita vida a este lugar, fizeram dele um verdadeiro ponto de encontro nas noites, uma joia brilhante em New Reno.}
+{1356}{}{ Família. Isso é um problema? Porque se você não está aqui para jogar, então este não é seu lugar. Entende?}
 {1361}{}{. Amo seus filmes.}
-{1365}{}{That guy? Old Man McGee? Crazy sumabitch... he's been playing that machine
- there for the past few years, waiting for the big jackpot. His life fortune
- must be sitting in that thing, but it won't give him a single chip.}
-{1366}{}{That guy? Old Man McGee? Crazy sumabitch, that's for sure. Heh.
- Sure was pissed about you winning his fortune. I'd be careful around him.}
+{1365}{}{Esse cara? Velho McGee? Totalmente louco... ele tem jogado naquela máquina
+ lá nos últimos anos, esperando o grande prêmio. Toda sua fortuna deve
+ estar naquela coisa, mas não lhe dará uma única tampinha.}
+{1366}{}{Aquele cara? Velho McGee? Completamente louco, certeza. Heh.
+ Claro que ficou chateado por você ter ganhado a fortuna dele. Eu tomaria cuidado.}
 {1367}{}{A máquina é modificada?}
 {1368}{}{Eu tenho mais algumas perguntas...}
 {1369}{}{Obrigado pela informação.}
 {1425}{}{Claro. Vamos torcer para que você seja tão bom quanto da última vez.}
-{1455}{}{Sure. I'm getting sick of our regular anyway. Let's hope you are as good as last time.}
-{1500}{}{Umm... Yo' mama is so fat when she fell over she rocked herself asleep trying to get up again.}
-{1501}{}{Yo mama sooooooo fat that I had to take a plane, a train, and an automobile just to get on the bitch's good side.}
+{1455}{}{Claro. De qualquer maneira estou farto. Espero que você seja tão bom quanto da última vez.}
+{1500}{}{Umm... Sua mãe é tão gorda que tem o próprio satélite.}
+{1501}{}{Sua mãe é tããããão gorda, que eu tive que pegar um avião, um trem e um carro só para ficar do lado dela.}
 {1502}{}{Tudo bem, o que um prato disse para o outro?}
 {1503}{}{Ok, por que os suspensórios foram presos?}
 {1504}{}{Ok, por que a mulher não pode comprar uma padaria?}
 {2000}{}{Seu show de comédia foi um sucesso.}
 {2001}{}{Seu show de comédia foi um fracasso.}
-{2003}{}{In Washington, a man gets up to speak and doesn't say a thing, and the other men disagree with him for three hours.}
+{2003}{}{Em Washington, um homem se levanta para falar e não diz nada, e os outros homens discordam dele por três horas.}
 {2010}{}{Sua dança erótica foi um sucesso.}
 {2335}{}{. Precisa de alguma coisa, é só pedir.}
-{2336}{}{. At least, last time I checked the sign outside the door. Now what can I do for you?}
+{2336}{}{. Pelo menos da última vez, verifiquei a placa do lado de fora da porta. Agora, o que posso fazer por você?}
 {2500}{}{[Se passa 2 horas.]}
 {2501}{}{[Se passa 1 hora.]}
 {2502}{}{O almoço é por minha conta.}

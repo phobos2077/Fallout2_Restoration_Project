@@ -97,31 +97,31 @@
 {378}{}{Trashman}
 {379}{}{Nine Inch Nick}
 {380}{}{Rainmaker}
-{381}{}{King}
-{382}{}{Killer}
+{381}{}{Rei}
+{382}{}{Assassino}
 {383}{}{Santana}
 {384}{}{Joey}
 {385}{}{Caesar}
 {386}{}{Mickey}
-{387}{}{Drifter}
+{387}{}{Vagabundo}
 {388}{}{Giuseppe}
-{389}{}{Butcher}
-{390}{}{Red}
+{389}{}{Açougueiro}
+{390}{}{Vermelho}
 {391}{}{Ruby}
 {392}{}{X}
 {393}{}{}
 {400}{}{}
 {401}{}{Jabby}
-{402}{}{Spinning Jenny}
+{402}{}{Jenny Giratória}
 {403}{}{Piston}
-{404}{}{Hurricane}
-{405}{}{Big Bad Muthuh}
+{404}{}{Furacão}
+{405}{}{Muthuh Malvadão}
 {406}{}{Escolhido}
-{407}{}{Raging Bull}
+{407}{}{Touro Bravo}
 {408}{}{LaMotta}
-{409}{}{Sledge}
-{410}{}{Glass Joe}
-{411}{}{New Reno Nancy}
+{409}{}{Trenó}
+{410}{}{Zé Vidraceiro}
+{411}{}{Nancy New Reno}
 {412}{}{Bald Bull}
 {413}{}{Princess}
 {414}{}{Duke}
@@ -307,7 +307,7 @@
 {713}{}{Nicki}
 {714}{}{LaMotta}
 {715}{}{Ivan}
-{716}{}{Glass Joe}
+{716}{}{Zé Vidraceiro}
 {717}{}{Drago}
 {718}{}{Tommy Gunn}
 {719}{}{Apollo}
