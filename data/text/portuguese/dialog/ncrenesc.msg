@@ -391,43 +391,43 @@ teremos sorvete e… *sniff* DOCE e uma grande festa com palhaços e…}
 {6012}{}{Vamos, você poderia me ajudar? Só essa vez? Vamos, por favor?}
 {6020}{}{Tudo bem. Minha receita é de cigarros e carne vermelha, em grande quantidade. Isso é tudo? Se eu tiver que aturar essa conversa mole por mais tempo hoje, juro que terei um AVC.}
 {6021}{}{Sim, você é meio nervoso, não é? Aposto que Hakunin pode te ajudar com isso. Ele é o curandeiro de casa, em Arroyo. Então, eu já te falei sobre Arroyo?}
-{6022}{}{And wouldn't that be a tragedy. Next question...}
-{6023}{}{Okay then, just one more quick thing...}
-{6024}{}{Gee, thanks Renesco. I knew I could count on you. You take care now.}
-{6030}{}{I need you to fix me up with a special order.}
-{6031}{}{So, about that special order we were discussing...}
-{6040}{}{Yes? And? Were you expecting me to read your mind, or would you like me to surprise you?}
-{6041}{}{Not on your life, asshole. What I need are some... um... pills. For, um... (trail off, glance pointedly in the direction of your belt buckle, look Renesco in the eye, and clear your throat).}
-{6042}{}{Not on your life, asshole. What I need are some... um... pills. For, um... a man's... (trail off, glance pointedly in the direction of your belt buckle, look Renesco in the eye, and clear your throat).}
-{6043}{}{I'd like you to make me a batch of, erm, "Corsican Brothers chewable multivitamins."}
-{6044}{}{I'm looking for something you'd use to, uh, sharpen your spear, you know? Put a little bite back into your gecko?}
-{6045}{}{I'm looking for something a man would use to, uh, sharpen his spear, you know? Put a little bite back into his gecko?}
-{6046}{}{I'm looking for a complex PDE5-inhibitor compound, and I need the pills made according to my distinct specifications.}
-{6050}{}{What in Golgotha are you babbling about? English, Tribal! Do you speak it?}
-{6051}{}{(Sigh...) I would like you to make me some... erectile dysfunction medication.}
-{6052}{}{You know. Boner pills. Uh, for a friend.}
-{6053}{}{Boner pills. Not for me, obviously.}
-{6054}{}{You know exactly what I mean, you withered old bastard.}
-{6060}{}{(He leers derisively at you.) Hnn! I wouldn't exactly call that a "special" order. Half the reason this deviant cesspit of a city exists is to provide rutting degenerates such as yourself with an easy means of drowning in their own unsavory juices.}
-{6061}{}{I've got over a dozen brands here. Take your pick. And don't hurt yourself thinking too hard about it; they're all completely identical aside from the packaging.}
-{6062}{}{None of that is going to cut it. I need these made to order.}
-{6063}{}{That's a good start, but I had something specific in mind.}
+{6022}{}{E isso não seria uma tragédia. Próxima pergunta...}
+{6023}{}{Ok, então, só mais uma coisinha rápida...}
+{6024}{}{Caramba, obrigado, Renesco. Eu sabia que podia contar com você. Se cuide.}
+{6030}{}{Preciso que me conserte com um pedido especial.}
+{6031}{}{Então, sobre aquele pedido especial que estávamos conversando...}
+{6040}{}{Sim? E daí? Você esperava que eu lesse sua mente, ou você gostaria que eu te fizesse uma surpresa?}
+{6041}{}{Não na sua vida, idiota. O que eu preciso são umas... eh... pílulas. Pois, hum... (desacelera, olhe incisivamente na direção da fivela do cinto, olha nos olhos de Renesco e limpa a garganta).}
+{6042}{}{Não na sua vida, idiota. O que eu preciso são umas... eh... pílulas. Para, hum... um homem... (desacelera, olha diretamente na direção da fivela do cinto, olha Renesco nos olhos e limpa a garganta).}
+{6043}{}{Eu gostaria que você me fizesse um lote de, eh, "multivitaminas mastigáveis dos Irmãos Corsican".}
+{6044}{}{Estou procurando um negócio bom pra afiar a lança pra caçar, sabe? Tipo, lubrificar bem a ferramenta?}
+{6045}{}{Estou procurando algo que um homem usaria para afiar sua lança, entende? lubrificar bem a ferramenta pra ficar nos trinks?}
+{6046}{}{Estou procurando um composto inibidor de PDE5 complexo e preciso das pílulas feitas de acordo com minhas especificações distintas.}
+{6050}{}{O que é isso da Gólgota você está falado? Português, tribal! O jogo foi traduzido, fala português?}
+{6051}{}{(Suspiro...) Eu gostaria que você me fizesse um... remédio para disfunção erétil.}
+{6052}{}{Você sabe, viagra. Eh... para um amigo meu.}
+{6053}{}{Viagra. Mas não pra mim, obviamente.}
+{6054}{}{Você sabe exatamente o que quero dizer, seu velho broxa do caralho.}
+{6060}{}{(Ele olha com escárnio para você.) Aahh! Eu não chamaria isso exatamente de pedido "especial". Boa parte da razão dessa fossa nojenta de cidade existir é para fornecer a degenerados no cio como você um meio fácil de se enfiar no meio dessa putaria.}
+{6061}{}{Eu tenho mais de uma dúzia de marcas aqui, pode escolher. E não vai se matar pensando muito nisso; eles são todos praticamente idênticos, exceto pela embalagem.}
+{6062}{}{Nada disso vai cortar. Eu preciso desses sob encomenda.}
+{6063}{}{É um bom começo, mas eu tinha pensado em algo mais específico.}
 {6070}{}{(He sneers.) Oh, discerning customer, are you? Fine. Go on. It's been awhile since I got to charge anyone the specialty rate. Most of the local street vermin could care less what they're killing themselves with.}
 {6071}{}{Yeah, I hear that works out pretty well for you. Get those dollar signs out of your eyes, though, I'm not asking for anything too special. Just take some of that off the rack crap, grind it up, and shape it into smooth, circular, red pills, about yea big. Sound doable?}
-{6072}{}{(Show Renesco one of the heart pills.) What I need you to do is to make me a batch of those pills, only they need to look *exactly* like this one.}
-{6073}{}{Chemically, the base formulation can match the generic. As far as physical parameters... hmm... let's say, about a centimeter and a half in diameter, smooth, mildly rounded face, dull red coating. Lozenge edge of about an eighth-centimeter. Shouldn't be too much of a challenge for a man of your experience.}
-{6080}{}{Hmmm. Is that all? Remedial stuff, really. And the base materials are dirt cheap. Accounting for labor... $200 should suffice.}
-{6081}{}{What?! If I wanted to get screwed, I'd have gone to the Cat's Paw! At least I'd know what I was getting myself into.}
+{6072}{}{(Mostra a Renesco uma das pílulas para o coração.) E eu preciso que você me faça um lote dessas pílulas, só que elas precisam ser *exatamente* como esta.}
+{6073}{}{Quimicamente, a formulação base pode corresponder ao genérico. Quanto aos parâmetros físicos... hmm... vamos ver, cerca de um centímetro e meio de diâmetro, base lisa, levemente arredondada, revestimento vermelho fosco. Borda em losango com cerca de um oito milímetros. Não deve ser um grande desafio para um homem com a sua experiência.}
+{6080}{}{Hmmm. Isso é tudo? Coisas corretivas, na verdade. E os materiais básicos são muito baratos. Contabilizando tudo... $200 devem ser suficientes.}
+{6081}{}{O que?! Se eu quisesse me ferrar, teria ido para a Garra da Gata! Pelo menos eu saberia no que estava me metendo.}
 {6082}{}{You know as well as I do that we're talking about $15 in chems and five minutes of mortar work. I think we need to talk some numbers here.}
 {6083}{}{All right. You've got overhead, I've got better places to be. $200.}
 {6084}{}{Not sure I can spare that much at the moment. Maybe we'll come back to this later.}
 {6090}{}{(His scowl deepens.) I'm not in the mood to beat around the bush with you. You think I'm going to buy that you're just some particularly picky homo not-so-erectus? PLEASE! Do you have any idea how long I've been doing this?}
 {6091}{}{You obviously haven't spent much time out of your cave, so take my word for it when I say there aren't too many kinds of pills going around that match that oddly specific description of yours, and one *very notable* one comes to mind immediately. "Specialty" items, specialty prices, throwback. Welcome to New Reno. That'll be $300.}
-{6092}{}{Look, I made sure no one even *breathed your name* in connection with that Wright affair. You do this for me, we're square. Okay?}
-{6093}{}{I covered your ass with Salvatore. Consider this collection on your debt.}
-{6094}{}{I don't think *Mr. Bishop* would be very happy with you if he knew you were hindering his interests like this, Renesco.}
-{6095}{}{Fine. $300, and that's for the pills *and* your discretion. Understand?}
-{6096}{}{Whoa, easy there fuzzy little man peach. Maybe I'll just come back when you're in a better mood.}
+{6092}{}{Olha, eu me certifiquei de que ninguém sequer *murmurasse seu nome* e conectasse com o caso Wright. Faça isso por mim e estamos quites. Ok?}
+{6093}{}{Eu salvei sua pele com Salvatore. Considere isso um retorno pela dívida.}
+{6094}{}{Eu não acho que o *Sr. Bishop* ficaria muito feliz se soubesse que você está atrapalhando seus interesses assim, Renesco.}
+{6095}{}{Certo. $300, isso é para as pílulas *e* a seu critério. Entendeu?}
+{6096}{}{Ei, nada fácil meu amiguinho peludinho. Talvez eu volte quando você estiver de bom humor.}
 {6100}{}{Well. I guess that concludes our business, then. I must say, tribal, this has been... almost *tolerable*. Now, sit on your hands and try not to ruin the moment. (Renesco takes your money and goes to work.)}
 {6101}{}{(Minutes pass. Renesco dusts off his hands and rolls a pill bottle indistinguishable from Westin's across the counter at you.) There you are. Now, are we done here?}
 {6102}{}{Deixe-me perguntar-lhe algo mais.}
