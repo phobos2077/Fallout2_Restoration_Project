@@ -18,7 +18,7 @@
 {115}{}{Obrigado. Adeus.}
 {116}{}{My family and I work a farm here in the Courtyard. We get by. Don't know
  for how long, though.}
-{117}{}{What's the problem?}
+{117}{}{Qual é o problema?}
 {118}{}{Por que você não está na cidade?}
 {119}{}{Posso pedir mais uma coisa?}
 {120}{}{Yeah, times are tough. Goodbye.}

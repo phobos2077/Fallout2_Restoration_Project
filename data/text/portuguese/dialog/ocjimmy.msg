@@ -1,47 +1,47 @@
-{100}{}{You see a tall, lanky man with thick glasses.}
-{101}{}{You see Jimmy.}
-{102}{}{You see a tall, lanky man wearing thick glasses. His brow is furrowed in deep thought and he talks to himself as he wanders about the room.}
-{103}{}{Oh, hello there. I'm Jim, or Jimmy. Whatcha up to?}
-{104}{}{Me look around.}
+{100}{}{Você vê um homem alto e magro com óculos grossos.}
+{101}{}{Você vê Jimmy.}
+{102}{}{Você vê um homem alto e magro usando óculos grossos. Sua testa está franzida em pensamentos profundos e ele fala consigo mesmo enquanto vagueia pela sala.}
+{103}{}{Oi, olá. Eu sou Jim, ou Jimmy. O que há?}
+{104}{}{Estou dando uma olhada.}
 {105}{}{Eu}
-{106}{}{Uh... Me wander about. Me go now.}
+{106}{}{Uh... Eu ando por aí. Vou indo agora.}
 {107}{}{Apenas olhando por aí.}
-{108}{}{Hi, Jim. I'm}
-{109}{}{None of your business, four eyes. Back off.}
-{110}{}{I'm just wandering about. I'll be leaving now.}
-{111}{}{Feel free to look all you want but please don't touch anything. There's some sensitive equipment in here.}
-{112}{}{Me just look around. Me no touch.}
-{113}{}{I'm just looking around. I won't bother anything.}
-{114}{}{You're annoying. Go away.}
-{115}{}{Hey, sorry. I didn't mean to step on your toes. I'll leave you to your business.}
+{108}{}{Oi, Jim. Eu sou}
+{109}{}{Não é da sua conta, quatro olhos. Vaza.}
+{110}{}{Só to dando uma volta. Vou embora agora.}
+{111}{}{Sinta-se à vontade para olhar o quanto quiser, mas por favor, não toque em nada. Temos alguns equipamentos sensíveis aqui.}
+{112}{}{Só olho por aí. Mas não toco.}
+{113}{}{Estou só dando uma olhada, não vou atrapalhar nada.}
+{114}{}{Está me irritando. Vá embora.}
+{115}{}{Oi, desculpe. Eu não queria te atrapalhar. Vou te deixar com seus assuntos.}
 {116}{}{Boa.}
 {117}{}{It's a pleasure to meet you,}
 {118}{}{O que você gostaria de saber?}
 {119}{}{O que você faz aqui?}
-{120}{}{What all this machine?}
-{121}{}{Vault have overseer. This overseer room?}
-{122}{}{You here in vault cause you want be?}
-{123}{}{What you think about D'claws?}
-{124}{}{Computer need part. You know where get?}
-{125}{}{Me know enough. Me go now.}
+{120}{}{O que é toda essa máquina?}
+{121}{}{Vault tem um supervisor. Este é quarto do supervisor?}
+{122}{}{Você está na Vault por que quer?}
+{123}{}{O que você acha dos D'claws?}
+{124}{}{Computador precisa de peça. Você sabe onde tem?}
+{125}{}{Eu sei bastante. Vou agora.}
 {126}{}{O que você faz aqui?}
-{127}{}{What's all this machinery for?}
-{128}{}{Isn't this the vault overseer room?}
-{129}{}{Are you here in the vault because you want to be?}
+{127}{}{Para que serve todo este maquinário?}
+{128}{}{Esta não é a sala do supervisor da Vault?}
+{129}{}{Você está aqui na Vault por que quer estar?}
 {130}{}{O que você acha dos deathclaws?}
-{131}{}{The computer needs a part. Do you know where I might be able to get it?}
-{132}{}{I think I'll be going now.}
-{133}{}{Well... we're having some computer problems and I'm looking into it. Unfortunately my forte is software, not hardware.}
-{134}{}{What problem?}
-{135}{}{What's the problem?}
-{136}{}{Yes, Gruthar mentioned this to me and asked me to take a look. Do you mind?}
+{131}{}{O computador precisa de uma peça. Você sabe onde posso conseguir?}
+{132}{}{Acho que vou indo agora.}
+{133}{}{Bem... estamos tendo alguns problemas no computador e estou analisando. Infelizmente minha área é software, não hardware.}
+{134}{}{Que problema?}
+{135}{}{Qual é o problema?}
+{136}{}{Sim, Gruthar me disse sobre isso e me pediu para dar uma olha. Você se importaria?}
 {137}{}{The voice interface to the mainframe has failed so Gruthar can't give the system instructions for running the vault. The food and water processors have already shut down. The power systems could very well be next.}
 {138}{}{Why you no use keebored?}
 {139}{}{Why not just give it keyboard input?}
 {140}{}{Well, you see, that's the weird part. The system refuses to accept keyboard input. I'm at a loss as to what to do at this point.}
 {141}{}{Okay me look?}
 {142}{}{Mind if I take a look at it?}
-{143}{}{Yes, Gruthar mentioned this to me and asked me to take a look. Do you mind?}
+{143}{}{Sim, Gruthar me disse sobre isso e me pediu para dar uma olha. Você se importaria?}
 {144}{}{Well... no offense, but are you sure you're qualified? Oh, never mind. You can't possibly make matters any worse than they already are. Go right ahead.}
 {145}{}{You can't make matters any worse than they already are. Go right ahead.}
 {146}{}{Okay, but me ask more questions first.}
