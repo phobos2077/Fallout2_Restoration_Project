@@ -1,10 +1,10 @@
-{100}{}{You see a man with greasy hair. He's covered in dust.}
-{101}{}{You see Savinelli, the guy in charge of the New Reno-to-Redding Caravans.}
-{102}{}{You see a short, nervous looking guy with slicked-back hair.}
+{100}{}{Você vê um homem com cabelo oleoso. Ele está coberto de poeira.}
+{101}{}{Você vê Savinelli, o cara encarregado das Caravanas de New Reno-Redding.}
+{102}{}{Você vê um cara baixo e nervoso com o cabelo penteado para trás.}
 {103}{}{If you come by here again, it's just possible that you'll have an accident.}
 {104}{}{You've been warned. Now get the hell out of here.}
 {105}{}{Get them doggies moving!}
-{106}{}{Uh, doggies? Okay, whatever. Let's go.}
+{106}{}{Eh, cachorrinhos? Ok, o que você disser. Vamos lá.}
 {107}{}{Hello. I'm Enrico Savinelli. I run the caravan between New Reno and Redding. We can use an
  extra guard, if you're willing to leave right now.}
 {108}{}{Hello. I'm Savinelli. I run the caravan between New Reno and Redding. Always looking for a
