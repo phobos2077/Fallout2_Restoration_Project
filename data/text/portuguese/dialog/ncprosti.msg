@@ -1257,7 +1257,7 @@
 {3155}{}{Você vê uma prostituta. Parece que ela mata seus parceiros e os come.}
 {3156}{}{Você vê uma prostituta. Ela te aprecia como se você fosse um joalheiro.}
 {3157}{}{Você vê uma prostituta. Suas roupas em trapos estão jogadas sedutivamente ao redor de seu corpo.}
-{3158}{}{You see one of the Cat's Paw girls. Her tattered clothes are draped seductively around her body.}
+{3158}{}{Você vê uma das garotas da Garra da Gata. Suas roupas esfarrapadas estão coladas de forma sedutora ao redor de seu corpo.}
 {3200}{}{Oh, isso! Vai! Mais rápido! Vai! Vaivaivaivai!!! Oh! Depressa! Vai! OOOOOOHH.}
 {3201}{}{Hmm! Mais rápido! Ooooh! Oh! Sim! SIM! OOH! OOOH! Agora pague no
  caixa.}

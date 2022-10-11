@@ -29,8 +29,8 @@
 {490}{}{Este é [CN]. Se precisar de alguma coisa, é só pedir.}
 {500}{}{O melhor cassino da cidade... mas sou um pouco tendencioso. [Risos.] Mais alguma coisa que você queira saber?}
 {510}{}{A família [CA]. Eles deram muita vida a este lugar, fizeram dele um verdadeiro ponto da noite, uma joia brilhante em New Reno.}
-{520}{}{That guy? Old Man McGee? Crazy sumabitch... he's been playing that machine there for the past few years, waiting for the big jackpot. His life fortune must be sitting in that thing, but it won't give him a single chip.}
-{530}{}{[Shakes his head.] Nope, it's just stubborn... just like him. [Shrugs.] It could probably use a little repair work, but we ain't got no slot mechanics that can fix that damn thing.}
+{520}{}{Aquele cara? Velho McGee? Maluco total... ele tem jogado naquela máquina lá a anos, fica esperando o grande prêmio. Toda a sua fortuna deve estar naquela coisa, mas não vai ganhar uma única tampa.}
+{530}{}{[Balança a cabeça.] Não, ela só é teimosa... como ele. [Dá de ombros.] Acredito que só precisaria de um pequeno reparo, mas não temos nenhuma mecânica de slot para consertar essa porcaria.}
 {540}{}{Sim, aquele filho da puta veio aqui faz cerca de uma semana atrás, roubou umas mil tampas de uma mesa, depois saiu. Não sei onde ele está agora, mas costumava ter um quarto no Desperado.}
 {550}{}{Nikki? [Examina o chão.] Sim, ela está ali, na mesa do meio. Tem algum problema?}
 {560}{}{O nome dela *era* Nikki. Ela costumava trabalhar aqui, mas foi presa... não muito tempo atrás.}
@@ -38,4 +38,4 @@
 {580}{}{Claro, seria bom para os negócios. O vestiário fica nos fundos...}
 {590}{}{[balança a cabeça.] Não, ainda estamos nos recuperando do seu último show. Você pode querer dar uma olhada em outros cassinos.}
 {600}{}{Parece que isso não vai ser um mau negócio no fim. [C] = fichas. Não, nada mau.}
-{610}{}{Yeah, he stinks worse than brahmin shit. Still, you...? [Looks you up and down skeptically.] Aw, why the hell not. A little improv ain't gonna hurt, but it's a rough crowd... better hope you're good.}
+{610}{}{Sim, ele fede pior do que merda de brahmin . Agora, você..? [Olha você de cima a baixo com ceticismo.] Ah, podemos tentar. Um pouco de improvisação não pode doer, mas é uma multidão difícil... espero que você seja dos bons.}

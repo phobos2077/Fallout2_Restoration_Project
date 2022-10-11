@@ -90,7 +90,7 @@ faz aqui, "Nicolau?"}
 a essa reconstrução.}
 {378}{}{Bem, Seja o que for. Eu preciso ir agora.}
 {385}{}{Assim. De que maneira. Ninguém esta FORÇANDO esses idiotas a inalar Jet. Ninguém esta indo por aí e enfiando isso goela abaixo!}
-{386}{}{Can I see -}
+{386}{}{Me parece -}
 {387}{}{Mas não -}
 {388}{}{Esse é seu -}
 {395}{}{Esses quebradores de pedra com cabeça de lâmpada em Redding SABEM o que é que estão tomando, assim eu não sinto um
@@ -376,8 +376,8 @@ ser um bom samaritano, você está GRAVEMENTE errado. Agora… O que você quer?
 {1041}{}{Oh. Ei, tenho algumas outras perguntas…}
 {1042}{}{Continue falando carinhosamente desse jeito, Renesco, e você vai agonizar por muito tempo. }
 {1043}{}{OBRIGADO, Renesco.}
-{1526}{}{And sometimes the elder gets upset at little things, like... heh-heh... that one night when I ignored my vow of
- chastity and snuck out with Kor - Who - Thunders - Like - a - Thousand - Stallions to the Arroyo canyon...}
+{1526}{}{As vezes o ancião fica chateado com coisinhas, tipo... heh-heh... aquela noite quando eu abandonei meu voto
+ de castidade e me enfiei com Kor - Que - Ruge- Como - a - Mil - Garanhões para o desfiladeiro de Arroyo...}
 {1536}{}{Foi como ontem. O corpo de Kor agitou-se que nem bronze na luz da Lua quando eu me ajoelhei e… Ei, você quer
  saber? Você talvez goste da anciã. Ela tem quase a sua idade.}
 {2000}{}{Você expôs o envolvimento de Renesco na morte de Richard Wright.}
@@ -385,12 +385,12 @@ ser um bom samaritano, você está GRAVEMENTE errado. Agora… O que você quer?
 {5259}{}{ não grite. PORQUE VOCÊ CONTINUA GRITANDO? PARE COM ESSA GRITARIA }
 {5260}{}{…*sniff*…vou chamar o irmãozão pra te bater, velhote! Aí então nós 
 teremos sorvete e… *sniff* DOCE e uma grande festa com palhaços e…}
-{6000}{}{I was looking for some pointers on heart health. Think you could fill me in on a thing or two?}
-{6010}{}{I know this must come as something of a shock to you, but a white smock does not automatically confer a cardiology degree. I am a pharmacist. I produce chems. Then you buy them. Then, you leave. Quietly.}
-{6011}{}{Fair enough. Moving on, then...}
-{6012}{}{C'mon, could you humor me? Just this once? Pretty pleeease?}
-{6020}{}{Fine. My prescription is cigarettes and red meat, in large quantities. Was that all? If I have to put up with much more vacuous prattle today, I'm liable to have a stroke myself.}
-{6021}{}{Yeah, you are pretty high strung, aren't you? I'll bet Hakunin could help you with that. He's the medicine man back home, in Arroyo. Say, have I ever told you about Arroyo?}
+{6000}{}{Eu estava procurando algumas dicas sobre saúde do coração. Acha que poderia me ajudar com algumas coisas?}
+{6010}{}{Eu sei que isso deve ser um choque para você, mas um avental branco não te dá automaticamente um diploma de cardiologista. Eu sou um farmacêutico, produzo químicos, então você os compra. Agora, você sai, em silêncio.}
+{6011}{}{Justo. Então, continuando...}
+{6012}{}{Vamos, você poderia me ajudar? Só essa vez? Vamos, por favor?}
+{6020}{}{Tudo bem. Minha receita é de cigarros e carne vermelha, em grande quantidade. Isso é tudo? Se eu tiver que aturar essa conversa mole por mais tempo hoje, juro que terei um AVC.}
+{6021}{}{Sim, você é meio nervoso, não é? Aposto que Hakunin pode te ajudar com isso. Ele é o curandeiro de casa, em Arroyo. Então, eu já te falei sobre Arroyo?}
 {6022}{}{And wouldn't that be a tragedy. Next question...}
 {6023}{}{Okay then, just one more quick thing...}
 {6024}{}{Gee, thanks Renesco. I knew I could count on you. You take care now.}
