@@ -72,18 +72,18 @@
 {171}{}{I see. I need to ask you about a few other things.}
 {172}{tand10}{I tried. I sent some people down there but, after the first few, they stopped coming back. I can't prove the squatters are responsible either. My boys managed to capture one of 'em but he won't talk. Got 'em locked up downtown.}
 {173}{}{Need know more.}
-{174}{}{A few more questions please.}
-{175}{tand11}{Get to it. I can't spend the day with you.}
+{174}{}{Mais algumas perguntas, por favor.}
+{175}{tand11}{Vai rápido, não posso passar o dia com você.}
 {176}{}{Ok, estou com pressa.}
-{177}{}{I'll try to be quick.}
-{178}{tand12}{With that suit you're wearing I figured you already knew.}
-{179}{}{Suit been in village long time. Belong to Vaultdweller, tribe founder.}
-{180}{}{This suit has been in our village since the beginning. It belonged to the Vault Dweller, our founder.}
-{181}{tand13}{You're serious aren't you? If we're talking about the same person, he saved my life. (snorts) Then vanished. When I start thinking it was only a dream, I go look at the statue out front.}
-{182}{}{Statue?}
-{183}{tand14a}{That's right. For scaring off the raiders. They kept clear of Shady Sands afterwards we got time to get ourselves set up. We made him a hero... even if we didn't believe a word about him coming from Vault 13.}
-{184}{}{Me remember. Ask more?}
-{185}{}{I'll keep that in mind. Can I ask you some more?}
+{177}{}{Vou tentar ser rápido.}
+{178}{tand12}{Com esse uniforme que você está vestindo, imaginei que você já soubesse.}
+{179}{}{Esse uniforme está na vila há muito tempo. Pertencia ao Morador da Vault, fundador da tribo.}
+{180}{}{Esse uniforme está na nossa aldeia desde a fundação. Pertencia ao Morador da Vault, nosso fundador.}
+{181}{tand13}{Você está falando sério, não eh? Se estamos falando da mesma pessoa, ele salvou minha vida. (bufa) Então desapareceu. Quando começo a pensar que foi só um sonho, vou ver a estátua.}
+{182}{}{Estátua?}
+{183}{tand14a}{Isso mesmo. Para assustar os invasores. Eles se mantiveram afastados de Shady Sands depois que conseguimos tempo para nos prepararmos. Fizemos dele um herói... mesmo que não acreditássemos em uma palavra sobre ele vir da Vault 13.}
+{184}{}{Me lembro. Mais pergunta?}
+{185}{}{Vou me lembrar. Posso te perguntar mais alguma coisa?}
 {186}{tand15}{Vault 13? Why are you asking?}
 {187}{}{Me curious.}
 {188}{}{Me Chosen One. Me descendant Vaultdweller.}

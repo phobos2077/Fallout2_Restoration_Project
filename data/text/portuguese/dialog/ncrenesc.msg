@@ -412,17 +412,17 @@ teremos sorvete e… *sniff* DOCE e uma grande festa com palhaços e…}
 {6061}{}{Eu tenho mais de uma dúzia de marcas aqui, pode escolher. E não vai se matar pensando muito nisso; eles são todos praticamente idênticos, exceto pela embalagem.}
 {6062}{}{Nada disso vai cortar. Eu preciso desses sob encomenda.}
 {6063}{}{É um bom começo, mas eu tinha pensado em algo mais específico.}
-{6070}{}{(He sneers.) Oh, discerning customer, are you? Fine. Go on. It's been awhile since I got to charge anyone the specialty rate. Most of the local street vermin could care less what they're killing themselves with.}
-{6071}{}{Yeah, I hear that works out pretty well for you. Get those dollar signs out of your eyes, though, I'm not asking for anything too special. Just take some of that off the rack crap, grind it up, and shape it into smooth, circular, red pills, about yea big. Sound doable?}
+{6070}{}{(Ele zomba.) Olha, cliente exigente, neh? Tudo bem, prossiga. Já faz algum tempo desde que eu consegui cobrar de alguém pela taxa de especialidade. A maioria dos vermes que andam pela rua não se importam com o que os está matando.}
+{6071}{}{Sim, ouvi dizer que funciona muito bem para você. Tire esses cifrões dos olhos, mas não estou pedindo nada muito especial. Basta tirar um pouco dessa porcaria da prateleira, moa e transforme em pílulas lisas, circulares e vermelhas, mais ou menos grandes. Parece viável?}
 {6072}{}{(Mostra a Renesco uma das pílulas para o coração.) E eu preciso que você me faça um lote dessas pílulas, só que elas precisam ser *exatamente* como esta.}
 {6073}{}{Quimicamente, a formulação base pode corresponder ao genérico. Quanto aos parâmetros físicos... hmm... vamos ver, cerca de um centímetro e meio de diâmetro, base lisa, levemente arredondada, revestimento vermelho fosco. Borda em losango com cerca de um oito milímetros. Não deve ser um grande desafio para um homem com a sua experiência.}
 {6080}{}{Hmmm. Isso é tudo? Coisas corretivas, na verdade. E os materiais básicos são muito baratos. Contabilizando tudo... $200 devem ser suficientes.}
 {6081}{}{O que?! Se eu quisesse me ferrar, teria ido para a Garra da Gata! Pelo menos eu saberia no que estava me metendo.}
-{6082}{}{You know as well as I do that we're talking about $15 in chems and five minutes of mortar work. I think we need to talk some numbers here.}
-{6083}{}{All right. You've got overhead, I've got better places to be. $200.}
-{6084}{}{Not sure I can spare that much at the moment. Maybe we'll come back to this later.}
-{6090}{}{(His scowl deepens.) I'm not in the mood to beat around the bush with you. You think I'm going to buy that you're just some particularly picky homo not-so-erectus? PLEASE! Do you have any idea how long I've been doing this?}
-{6091}{}{You obviously haven't spent much time out of your cave, so take my word for it when I say there aren't too many kinds of pills going around that match that oddly specific description of yours, and one *very notable* one comes to mind immediately. "Specialty" items, specialty prices, throwback. Welcome to New Reno. That'll be $300.}
+{6082}{}{Você sabe tão bem quanto eu que estamos falando de 15 dólares em química e cinco minutos de trabalho com argamassa. Acho que precisamos falar sobre alguns números aqui.}
+{6083}{}{Tudo bem. Você tem sobrecarga, eu tenho lugares melhores para estar. $200.}
+{6084}{}{Não tenho certeza se posso economizar tanto por enquanto. Talvez falemos disso mais tarde.}
+{6090}{}{(Ele carranca com mais força.) Não estou afim de enrolar com você. Você acha que eu vou acreditar que você é apenas um homo não tão erectus particularmente exigente? POR FAVOR! Você tem alguma ideia de quanto tempo eu tenho feito isso?}
+{6091}{}{Você obviamente não passou muito tempo fora da sua caverna, então acredite em minha palavra quando digo que não há muitos tipos de pílulas que combinam com essa sua descrição estranhamente específica, e uma *muito notável* me vem à mente. Itens "especializados", possuem preços especiais, retrocesso. Bem-vindo a New Reno. Isso vai ser $300.}
 {6092}{}{Olha, eu me certifiquei de que ninguém sequer *murmurasse seu nome* e conectasse com o caso Wright. Faça isso por mim e estamos quites. Ok?}
 {6093}{}{Eu salvei sua pele com Salvatore. Considere isso um retorno pela dívida.}
 {6094}{}{Eu não acho que o *Sr. Bishop* ficaria muito feliz se soubesse que você está atrapalhando seus interesses assim, Renesco.}
@@ -431,13 +431,13 @@ teremos sorvete e… *sniff* DOCE e uma grande festa com palhaços e…}
 {6100}{}{Well. I guess that concludes our business, then. I must say, tribal, this has been... almost *tolerable*. Now, sit on your hands and try not to ruin the moment. (Renesco takes your money and goes to work.)}
 {6101}{}{(Minutes pass. Renesco dusts off his hands and rolls a pill bottle indistinguishable from Westin's across the counter at you.) There you are. Now, are we done here?}
 {6102}{}{Deixe-me perguntar-lhe algo mais.}
-{6103}{}{That's it for me. See you around.}
-{6110}{}{(Renesco flushes, nostrils flaring in anger, but then looks down and begins cleaning his glasses very intently on his smock as he speaks.) Primate, the ONLY two things I will EVER be indebted to you for are JACK and SHIT.}
-{6111}{}{Now, that being the case... if it will disabuse you of this intolerable provincial delusion that you've somehow got something over me, the very THOUGHT of which makes me ill in ways I lack the words to describe... }
+{6103}{}{Isso é tudo para mim. Até a próxima.}
+{6110}{}{(Renesco cora, as narinas se dilatam de raiva, mas depois olha para baixo e começa a limpar os óculos com muita atenção em seu avental enquanto fala.) Primata, as ÚNICAS duas coisas pelas quais estarei em dívida com você são JACK e MERDA.}
+{6111}{}{Agora, sendo esse o caso... se isso vai desiludir você dessa intolerável ilusão provinciana de que você de alguma forma tem algo sobre mim, a própria IDÉIA que me isso me machuca de maneiras que até me faltam palavras para descrever... }
 {6112}{}{I... SUPPOSE... your thrice damned pills are a small price to pay. And if I EVER AGAIN hear you say a word that even RHYMES with "owe," the shop is getting a new chimp-skin rug. Sit down, shut up, and work on growing a pair of opposable thumbs while I get this compounded. (Renesco goes to work.)}
 {6120}{}{(Renesco gazes around wide-eyed at the rest of the shop's chemically stupefied patrons before leaning in and rounding on you in a lowered voice, sibilant with rage) You. IGNORANT. Toad-licking, tumleweed worshipping ass. I don't think *Mr Bishop* would be very happy AT ALL if he were to hear that one of the talking brahmin turds on his payroll had been dropping his name while purchasing HIGHLY SPECIALIZED MURDER WEAPONS.}
-{6121}{}{In fact, I don't think *anyone involved* would be very happy about it in the end, unless you count the feeling of relief that comes when Bishop's people finally tire of pulling bits off of you with METALWORKING TOOLS and decide to FINISH THE JOB.}
-{6122}{}{(He blanches.) Oh God. I didn't hear this. I can't know this. Turn around. Get out. NOW. Find somewhere else to finish this mystical, ancestral vision quest up your own ass. Somewhere far, far away. (Renesco hurries off to look busy on the other side of his cage.)}
+{6121}{}{Na verdade, eu não acho que *alguém envolvido* ficaria muito feliz com isso no final, a menos que você conte o sentimento de alívio que vem quando os homens de Bishop finalmente se cansam de arrancar pedaços de você com FERRAMENTAS DE METALURGICO e decidem finalmente TERMINAR O TRABALHO.}
+{6122}{}{(Ele empalidece.) Oh Deus. Eu não ouvi isso. Eu não posso saber isso. De meia volta. Saia, AGORA. Encontre outro lugar para terminar essa missão de mística e ancestral de buscar sua própria bunda. Em algum lugar muito, muito distante de mim. (Renesco corre para parecer ocupado do outro lado de seu balcão.)}
 {6130}{}{All the parts that weren't belches or grunts, anyway. Now wait here. (Renesco takes your money and goes to work). And for the love of God, *try* not to get any of my merchandise stuck in your simian face-holes while my back is turned.}
 {6141}{}{Oh, *this* again. My fee is $200, in the highly likely event that it slipped your mind.}
 {6142}{}{Once more, in case you were distracted by something shiny the first time around: $300. And don't push your luck.}
