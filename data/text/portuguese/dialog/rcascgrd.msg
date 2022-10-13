@@ -45,7 +45,7 @@
 {144}{}{We don't want any trouble here, friend. Put that away.}
 {145}{}{Better put that piece away.}
 {146}{}{Keep it in the holster, bub.}
-{147}{}{Put that weapon away.}
+{147}{}{Guarde essa arma.}
 {148}{}{Better put up that weapon.}
 {149}{}{Keep your hands off the weapons while you're in here.}
 {150}{}{Put that weapon away, pal.}

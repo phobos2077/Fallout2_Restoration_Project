@@ -1,54 +1,54 @@
-{100}{}{You see one of Salvatore's men.}
-{150}{}{You see a sullen looking man. His face is set in a frown, and he is staring straight ahead.
- He is carrying a strange pistol in his hand.}
-{151}{}{You see a sullen looking man. His face is set in a frown, and he is staring straight ahead.}
-{152}{}{You see one of Salvatore's men. He looks like he hasn't relaxed in years.}
-{153}{}{You see one of Salvatore's men. He is staring straight ahead with a grim expression.}
-{154}{}{You see one of Salvatore's men. He looks silent, deadly, and possibly asleep.}
-{155}{}{You see one of Salvatore's men. He looks silent, deadly, and potentially very bored.}
-{160}{}{::Nods Respectfully::}
+{100}{}{Você vê um dos homens de Salvatore.}
+{150}{}{Você vê um homem mal-humorado. Seu rosto está franzido e ele está olhando para a frente.
+ Ele está carregando uma pistola estranha na mão.}
+{151}{}{Você vê um homem mal-humorado. Seu rosto está franzido e ele está olhando para a frente.}
+{152}{}{Você vê um dos homens de Salvatore. Parece que não relaxa há anos.}
+{153}{}{Você vê um dos homens de Salvatore. Ele está olhando para frente com uma expressão sombria.}
+{154}{}{Você vê um dos homens de Salvatore. Ele parece silencioso, mortal, e possivelmente adormecido.}
+{155}{}{Você vê um dos homens de Salvatore. Ele parece silencioso, mortal e provavelmente muito entediado.}
+{160}{}{::Acena respeitosamente::}
 {161}{}{Você deve ser um cara durão para explodir o Enclave como fez.}
 {162}{}{Você é quase tão durão quanto Tommy Bengala.}
-{163}{}{I heard what you did to the Enclave. Word travels fast.}
-{164}{}{Thought about replaying the game as a different character?}
-{170}{}{Why are you sneaking around?}
-{171}{}{Why the secrecy? Somebody looking for you?}
-{172}{}{You trying to keep a low profile?}
-{173}{}{Why you sneaking around? Somebody chasing you?}
+{163}{}{Ouvi o que você fez com a Enclave. As palavras viajam rápido.}
+{164}{}{Pensou em repetir o jogo com um personagem diferente?}
+{170}{}{Por que você está se esgueirando?}
+{171}{}{Qual o segredo? Alguém procurando por você?}
+{172}{}{Você está tentando manter um perfil baixo?}
+{173}{}{Por que você está se esgueirando? Alguém está te perseguindo?}
 {180}{}{Ora ora, se não é }
-{181}{}{You LOST, pal? You better get out of here.}
+{181}{}{Se PERDEU, amigo? É melhor você sair daqui.}
 {182}{}{Esse cara tá procurando problemas...}
-{183}{}{Get out of here. Now.}
-{184}{}{Unless you're looking for trouble, you better leave right now.}
+{183}{}{Saia daqui. Agora.}
+{184}{}{A menos que você esteja procurando problemas, é melhor sair daqui agora.}
 {185}{}{Ora ora, se não é }
-{186}{}{You LOST, girl? You better get out of here.}
-{187}{}{This chick's asking for trouble...}
-{195}{}{No weapons allowed in here.}
-{196}{}{Put that weapon away.}
-{200}{}{Miss, I'm afraid I'll have to ask you to put that weapon away.}
-{201}{}{Miss, I'm sorry, but weapons aren't allowed in here.}
-{205}{}{You! Slaver! Secure that weapon NOW.}
-{206}{}{Weapons aren't allowed in here, slaver.}
-{207}{}{Put that weapon away, slaver.}
-{208}{}{Slaver, I need you to secure that weapon right now.}
-{210}{}{You! Slaver! Stop sneaking around in here!}
-{215}{}{You! Secure that weapon NOW.}
-{216}{}{Weapons aren't allowed in here.}
-{217}{}{Put that weapon away. Now.}
-{218}{}{Secure that weapon right now.}
-{220}{}{You! Stop sneaking around in here!}
-{225}{}{Robots aren't allowed in here. Get it outta here. Now.}
-{226}{}{No robots. Get it outta here.}
-{230}{}{No mutants allowed in here. Get him outta here. Now.}
-{231}{}{Mutants aren't allowed in here. Get him outta here. Now.}
+{186}{}{Se PERDEU, moça? É melhor você sair daqui.}
+{187}{}{Essa garota está procurando problemas...}
+{195}{}{Nenhuma arma é permitida aqui.}
+{196}{}{Guarde essa arma.}
+{200}{}{Senhorita, temo que terei que te pedir para guardar essa arma.}
+{201}{}{Senhorita, me desculpe, mas armas não são permitidas aqui.}
+{205}{}{Você! Escravista! Guarde essa arma AGORA.}
+{206}{}{Armas não são permitidas aqui, escravista.}
+{207}{}{Guarde essa arma, escravista.}
+{208}{}{Escravista, eu preciso que você guarde essa arma agora.}
+{210}{}{Você! Escravista! Pare de se esgueirar por aqui!}
+{215}{}{Você! Guarde essa arma AGORA.}
+{216}{}{Armas não são permitidas aqui.}
+{217}{}{Guarde essa arma. Agora.}
+{218}{}{Guarde essa arma agora.}
+{220}{}{Você! Pare de se esgueirar por aqui!}
+{225}{}{Robôs não são permitidos aqui. Tire isso daqui. Agora.}
+{226}{}{Sem robôs. Tire isso daqui.}
+{230}{}{Não são permitidos mutantes aqui. Tire-o daqui. Agora.}
+{231}{}{Mutantes não são permitidos aqui. Tire-o daqui. Agora.}
 {235}{}{Como você usa o banheiro com isso?}
-{240}{}{Sir.}
-{241}{}{Hello, sir.}
-{242}{}{Nothing to report, sir.}
-{243}{}{Anything you need, sir?}
-{244}{}{Anyone bothers you, sir, let us know.}
+{240}{}{Senhor.}
+{241}{}{Olá, senhor.}
+{242}{}{Nada a repostar, senhor.}
+{243}{}{Precisa de alguma coisa, senhor?}
+{244}{}{Se alguém o incomodar, senhor, nos avise.}
 {245}{}{Cuidado com Tommy Bengala. Ele tem um pau grande e um temperamento curto.}
-{246}{}{Mr. Salvatore's been in poor health for as long as I've known him. He's really old.}
+{246}{}{O Sr. Salvatore está com problemas de saúde desde que o conheço. Ele é bem velho.}
 {247}{}{These new pistols have really allowed us to gain ground in New Reno.}
 {248}{}{These new pistols may look strange, but they are really easy to use.}
 {249}{}{I shot this one Bishop smartass with my new pistol, and it drilled a hole through him AND
@@ -97,15 +97,15 @@
 {315}{}{Not now, sweetheart. Business.}
 {316}{}{I'd chat, but the boss could be watching.}
 {325}{}{Secure that weapon NOW, slaver.}
-{326}{}{Weapons aren't allowed in here, slaver.}
-{327}{}{Put that weapon away, slaver.}
+{326}{}{Armas não são permitidas aqui, escravista.}
+{327}{}{Guarde essa arma, escravista.}
 {330}{}{Stop sneaking around in here, slaver.}
 {331}{}{People sneaking around in here makes my trigger finger itch.}
 {332}{}{Sneaking around in here can get you shot, slaver.}
 {335}{}{Secure that weapon NOW.}
-{336}{}{Weapons aren't allowed in here.}
-{337}{}{Put that weapon away. Now.}
-{338}{}{Secure that weapon right now.}
+{336}{}{Armas não são permitidas aqui.}
+{337}{}{Guarde essa arma. Agora.}
+{338}{}{Guarde essa arma agora.}
 {340}{}{Stop sneaking around in here, or there's gonna be trouble.}
 {345}{}{I'm not the person to talk to about dealing slaves. Talk to Mason.}
 {346}{}{Salvatores already got all the slaves we need.}
