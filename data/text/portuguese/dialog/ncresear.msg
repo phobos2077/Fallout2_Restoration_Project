@@ -44,7 +44,7 @@
 {266}{}{Onde escravo? Mim não ver um}
 {275}{}{Olha, eu estou MUITO ocupada, então se você não se importa... [Olha pra você por cima da prancheta, então fecha a cara] QUEM é você? Como chegou aqui?}
 {276}{}{Olha, eu estou MUITO ocupada, então se você não se importa... [Olha pra você por cima da prancheta, então fecha a cara] VOCÊ de novo? O que quer agora?}
-{277}{}{Your barn door's open. Heh-heh... get it? I kill me.}
+{277}{}{A porta do seu estábulo está aberta. Hehehe… entendeu? Hilário.}
 {278}{}{Sou um dos novos empregados aqui.}
 {279}{}{Estou procurando pelo Myron. Ele está por perto?}
 {280}{}{São resultados de testes nessa prancheta? Eu posso vê-los?}

@@ -428,17 +428,17 @@ teremos sorvete e… *sniff* DOCE e uma grande festa com palhaços e…}
 {6094}{}{Eu não acho que o *Sr. Bishop* ficaria muito feliz se soubesse que você está atrapalhando seus interesses assim, Renesco.}
 {6095}{}{Certo. $300, isso é para as pílulas *e* a seu critério. Entendeu?}
 {6096}{}{Ei, nada fácil meu amiguinho peludinho. Talvez eu volte quando você estiver de bom humor.}
-{6100}{}{Well. I guess that concludes our business, then. I must say, tribal, this has been... almost *tolerable*. Now, sit on your hands and try not to ruin the moment. (Renesco takes your money and goes to work.)}
-{6101}{}{(Minutes pass. Renesco dusts off his hands and rolls a pill bottle indistinguishable from Westin's across the counter at you.) There you are. Now, are we done here?}
+{6100}{}{Tudo bem. Acho que isso termina nosso negócio, então. Devo dizer, tribal, isso tem sido... quase *tolerável*. Agora, sente-se em suas mãos e tente não estragar o momento. (Renesco pega seu dinheiro e vai trabalhar.)}
+{6101}{}{(Minutos se passam. Renesco tira a poeira das mãos e rola um frasco de comprimidos indistinguível do Westin, do outro lado do balcão, para você.) Aí está você. Agora, terminamos aqui?}
 {6102}{}{Deixe-me perguntar-lhe algo mais.}
 {6103}{}{Isso é tudo para mim. Até a próxima.}
 {6110}{}{(Renesco cora, as narinas se dilatam de raiva, mas depois olha para baixo e começa a limpar os óculos com muita atenção em seu avental enquanto fala.) Primata, as ÚNICAS duas coisas pelas quais estarei em dívida com você são JACK e MERDA.}
 {6111}{}{Agora, sendo esse o caso... se isso vai desiludir você dessa intolerável ilusão provinciana de que você de alguma forma tem algo sobre mim, a própria IDÉIA que me isso me machuca de maneiras que até me faltam palavras para descrever... }
-{6112}{}{I... SUPPOSE... your thrice damned pills are a small price to pay. And if I EVER AGAIN hear you say a word that even RHYMES with "owe," the shop is getting a new chimp-skin rug. Sit down, shut up, and work on growing a pair of opposable thumbs while I get this compounded. (Renesco goes to work.)}
-{6120}{}{(Renesco gazes around wide-eyed at the rest of the shop's chemically stupefied patrons before leaning in and rounding on you in a lowered voice, sibilant with rage) You. IGNORANT. Toad-licking, tumleweed worshipping ass. I don't think *Mr Bishop* would be very happy AT ALL if he were to hear that one of the talking brahmin turds on his payroll had been dropping his name while purchasing HIGHLY SPECIALIZED MURDER WEAPONS.}
+{6112}{}{Eu... SUPONHO... que as três malditas pílulas sejam um preço a pagar. E se eu MAIS UMA VEZ ouvir você dizer uma palavrinha, a loja vai ganhar um novo tapete de pele de chimpanzé. Agora se sente, cale a boquinha e trabalhe no crescimento de um par de polegares opositores enquanto eu termino isso. (Renesco vai trabalhar.)}
+{6120}{}{(Renesco olha em volta com os olhos arregalados para o resto dos clientes quimicamente estupefatos da loja antes de se inclinar e se virar para você em voz baixa, sibilante de raiva) Você. IGNORANTE. Lambedor de sapo, burro, macumbeiro. Eu não acho que o *Sr. Bishop* ficaria MUITO feliz ao ouvir que um dos brahmins falantes de sua folha de pagamento abandonou seu nome enquanto comprava ARMAS DE ASSASSINATO ALTAMENTE ESPECIALIZADAS.}
 {6121}{}{Na verdade, eu não acho que *alguém envolvido* ficaria muito feliz com isso no final, a menos que você conte o sentimento de alívio que vem quando os homens de Bishop finalmente se cansam de arrancar pedaços de você com FERRAMENTAS DE METALURGICO e decidem finalmente TERMINAR O TRABALHO.}
 {6122}{}{(Ele empalidece.) Oh Deus. Eu não ouvi isso. Eu não posso saber isso. De meia volta. Saia, AGORA. Encontre outro lugar para terminar essa missão de mística e ancestral de buscar sua própria bunda. Em algum lugar muito, muito distante de mim. (Renesco corre para parecer ocupado do outro lado de seu balcão.)}
-{6130}{}{All the parts that weren't belches or grunts, anyway. Now wait here. (Renesco takes your money and goes to work). And for the love of God, *try* not to get any of my merchandise stuck in your simian face-holes while my back is turned.}
-{6141}{}{Oh, *this* again. My fee is $200, in the highly likely event that it slipped your mind.}
-{6142}{}{Once more, in case you were distracted by something shiny the first time around: $300. And don't push your luck.}
+{6130}{}{Todas as partes que não eram arrotos ou grunhidos, de qualquer maneira. Agora espere aqui. (Renesco pega seu dinheiro e vai trabalhar). E pelo amor de Deus, *tente* não ficar brincando com minhas mercadorias usando suas mãos de primatas enquanto eu estiver de costas.}
+{6141}{}{Ah, *isso* de novo. Minha taxa é de US $200, no caso altamente provável de você esquecer.}
+{6142}{}{Mais uma vez, caso você tenha se distraído com algo brilhante na primeira vez, são: $300. E não abuse da sorte.}
 {6259}{}{ MATAR VOCÊ}
