@@ -49,35 +49,35 @@
 {244}{}{Se alguém o incomodar, senhor, nos avise.}
 {245}{}{Cuidado com Tommy Bengala. Ele tem um pau grande e um temperamento curto.}
 {246}{}{O Sr. Salvatore está com problemas de saúde desde que o conheço. Ele é bem velho.}
-{247}{}{These new pistols have really allowed us to gain ground in New Reno.}
-{248}{}{These new pistols may look strange, but they are really easy to use.}
-{249}{}{I shot this one Bishop smartass with my new pistol, and it drilled a hole through him AND
- the wall behind him.}
-{250}{}{None of the boys really know where these new pistols are coming from. It's best not to ask.}
-{251}{}{The rest of the families have been givin' us a lot of space ever since the Massacre.}
-{252}{}{The other families have been giving us a lot of space since we got these new pistols.
- They know what will happen if they don't.}
-{253}{}{These new pistols fire beams of light. The beams drill through ANYTHING.}
-{254}{}{Family Salvatore's been good to me. No complaints.}
-{255}{}{The Bishops talk big. Salvatores don't need to talk.}
-{256}{}{All's quiet on the northern front.}
-{257}{}{Saw some Bishops today, and they steered clear. They're getting smarter.}
+{247}{}{Essas pistolas novas nos ajudaram muito a ganhar território em New Reno.}
+{248}{}{Essas pistolas novas parecem bem estranhas, mas até que são fáceis de usar.}
+{249}{}{Eu atirei em um espertinho do Bishop com essa nova pistola, ela fez um buraco nele e na parede logo
+ atrás.}
+{250}{}{Nenhum dos caras realmente sabem de onde essas novas pistolas estão vindo. É melhor nem perguntar.}
+{251}{}{O resto das Famílias estão mantendo distância desde o massacre.}
+{252}{}{As outras famílias têm mantido distância desde que pegamos essas novas pistolas.
+ Eles sabem o que acontece se não ficarem longe.}
+{253}{}{Essas novas pistolas disparam raios de luz. Esses raios perfuram QUALQUER COISA.}
+{254}{}{A Família Salvatore tem sido boa para mim. Não tenho o que reclamar.}
+{255}{}{Os Bishops falam muito. Salvatores não precisam falar.}
+{256}{}{Está tudo tranquilo na frente norte.}
+{257}{}{Vi alguns Bishops hoje, já se afastaram. Eles estão ficando ligeiros.}
 {258}{}{Está tudo de boa hoje.}
-{259}{}{Ma'am.}
-{260}{}{Hello, ma'am.}
-{261}{}{Nothing to report, ma'am.}
-{262}{}{Anything you need, ma'am?}
-{263}{}{Anyone bothers you, ma'am, let us know.}
-{275}{}{You better leave before there's trouble.}
-{276}{}{Play it smart - leave before we have to get rough.}
-{277}{}{There's going to be trouble if you stick around.}
-{278}{}{Don't know what you want }
-{279}{}{Don't know what you're trying to prove, }
-{280}{}{I suggest you leave right now.}
-{285}{}{Where did you learn to fight? You're vicious.}
-{286}{}{You know, Family Salvatore could really use someone like you.}
-{287}{}{You should talk to Mason about a job.}
-{288}{}{If prizefighting loses its charm, you might want to consider joining up with us.}
+{259}{}{Senhora.}
+{260}{}{Olá, senhora.}
+{261}{}{Nada a reportar, senhora.}
+{262}{}{Precisa de algo, senhora?}
+{263}{}{Se alguém te incomodar, senhora, nos avise.}
+{275}{}{É melhor você sair antes que tenha problemas.}
+{276}{}{Use a cabeça - saia antes que as coisas fiquem feias.}
+{277}{}{Teremos problemas se você ficar por aqui.}
+{278}{}{Não sei o que você quer }
+{279}{}{Não sei o que você está tentando provar, }
+{280}{}{Te sugiro sair agora mesmo.}
+{285}{}{Onde você aprendeu a lutar? Você é impiedoso.}
+{286}{}{Você sabe, a Família Salvatore está precisando de alguém como você.}
+{287}{}{Você deveria falar com Mason sobre um trabalho.}
+{288}{}{Se as lutas de boxe perderem seu charme, você deveria pensar em se juntar a nós.}
 {289}{}{Consegui $20 apostando em você!}
 {290}{}{Ei, campeão! Aquela última luta foi ótima!}
 {291}{}{Vi você lutando no ringue. Que belo gancho que você deu.}
@@ -85,48 +85,48 @@
 {293}{}{Onde você trabalha fora do ringue?}
 {294}{}{Cuidado com o Masticator. Ele é louco por orelhas.}
 {295}{}{Eu te pagaria uma bebida se não tivesse perdido todo meu dinheiro apostando no seu oponente.}
-{305}{}{Something I can do for you?}
-{306}{}{This ain't the porn studio, lover-boy.}
-{307}{}{Take your business elsewhere, lover-boy.}
-{310}{}{I'm really sorry... really... but I haven't got time to talk right now. Stop by after work
- if you're free then.}
-{311}{}{Breaks my heart, but I really can't talk right now.}
-{312}{}{C'mon now, you're distracting me, sweetheart.}
-{313}{}{I can't help you.}
+{305}{}{Algo que eu possa fazer por você?}
+{306}{}{Isso não é o estúdio pornô, bonitão.}
+{307}{}{Vai com seus negócios para outro lugar, bonitão.}
+{310}{}{Sinto muito... sério... mas não tenho tempo para conversar agora. Passe depois do
+ trabalho se estiver livre.}
+{311}{}{Parte meu coração, mas eu realmente não posso falar agora.}
+{312}{}{Vamos agora, você está me distraindo, querida.}
+{313}{}{Não posso te ajudar.}
 {314}{}{Ouvi dizer que o Tommy Bengala quer um fazer um exame médico privado com você.}
-{315}{}{Not now, sweetheart. Business.}
-{316}{}{I'd chat, but the boss could be watching.}
-{325}{}{Secure that weapon NOW, slaver.}
+{315}{}{Agora não, querida. Tenho negócios.}
+{316}{}{Eu trocaria uma ideia, mas o chefe pode estar vigiando.}
+{325}{}{Guarde essa arma AGORA, escravista.}
 {326}{}{Armas não são permitidas aqui, escravista.}
 {327}{}{Guarde essa arma, escravista.}
-{330}{}{Stop sneaking around in here, slaver.}
-{331}{}{People sneaking around in here makes my trigger finger itch.}
-{332}{}{Sneaking around in here can get you shot, slaver.}
-{335}{}{Secure that weapon NOW.}
+{330}{}{Pare de se esgueirar por aqui, escravista.}
+{331}{}{Pessoas se esgueirando por aí fazem meu dedo coçar no gatilho.}
+{332}{}{Se esgueirar por aqui pode fazer você levar um tiro, escravista.}
+{335}{}{Guarde essa arma AGORA.}
 {336}{}{Armas não são permitidas aqui.}
 {337}{}{Guarde essa arma. Agora.}
 {338}{}{Guarde essa arma agora.}
-{340}{}{Stop sneaking around in here, or there's gonna be trouble.}
-{345}{}{I'm not the person to talk to about dealing slaves. Talk to Mason.}
-{346}{}{Salvatores already got all the slaves we need.}
-{347}{}{I haven't got time to talk right now.}
-{348}{}{I can't help you.}
-{349}{}{Look, I ain't got the time. You want conversation, go to Virgin Street and talk to a whore.}
-{355}{}{If you're looking to deal some slaves, talk to the boss.}
-{356}{}{Don't think the boss is looking for any more slaves, but you might want to try him anyway.}
-{360}{}{Looking for work? Talk to Mason.}
-{361}{}{If you're looking for work, you should talk to Mason.}
-{365}{}{Look, I ain't got the time. You want conversation, go to Virgin Street and talk to a whore.}
-{366}{}{I haven't got time to talk right now.}
-{367}{}{I can't help you.}
-{368}{}{Can't help you. Sorry.}
-{369}{}{Not now, sweetheart. Business.}
-{370}{}{I'd chat, but the boss could be watching.}
-{371}{}{Look, I ain't got the time for chit-chat.}
-{380}{}{That ghoul better leave right NOW.}
-{381}{}{If that ghoul's still here when I turn around, we'll burn it.}
-{382}{}{That ghoul's asking to be a torch if it sticks around.}
-{1180}{}{. His name's gonna be corpse if he doesn't get out of here...}
-{1185}{}{. Her name's gonna be corpse if she doesn't get out of here...}
-{1278}{}{, but you better take it elsewhere.}
-{1279}{}{, but I'd take it somewhere else.}
+{340}{}{Pare de se esgueirar por aqui, ou teremos problemas.}
+{345}{}{Não é comigo que você fala sobre tráfico de escravos. Fale com o Mason.}
+{346}{}{Os Salvatores já tem todos os escravos que precisamos.}
+{347}{}{Não tenho tempo para falar agora.}
+{348}{}{Não posso te ajudar.}
+{349}{}{Olha, eu não tenho tempo. Quer conversar, vá até a Virgin Street e converse com uma puta.}
+{355}{}{Se você está querendo negociar alguns escravos, fale com o chefe.}
+{356}{}{Não ache que o chefe procura mais escravos, mas de qualquer forma você deveria tentar conversar com ele.}
+{360}{}{Procurando por trabalho? Fale com o Mason.}
+{361}{}{Se você está procurando trabalho, deveria falar com Mason.}
+{365}{}{Olha, eu não tenho tempo. Quer conversar, vá até a Virgin Street e converse com uma puta.}
+{366}{}{Não tenho tempo para falar agora.}
+{367}{}{Não posso te ajudar.}
+{368}{}{Não posso te ajudar. Desculpe.}
+{369}{}{Agora não, querida. Tenho negócios.}
+{370}{}{Eu trocaria uma ideia, mas o chefe pode estar vigiando.}
+{371}{}{Olha, eu não tenho tempo para conversinhas.}
+{380}{}{É melhor esse ghoul sair AGORA.}
+{381}{}{Se esse ghoul ainda estiver aqui quando eu me virar, vamos queimá-lo.}
+{382}{}{Aquele ghoul está pedindo para virar uma tocha se ficar por perto.}
+{1180}{}{. Ele vai virar um cadáver bem rápido se ele não sair daqui...}
+{1185}{}{. Ela vai virar um cadáver bem rápido se ele não sair daqui...}
+{1278}{}{, mas é melhor levá-lo para outro lugar.}
+{1279}{}{, mas eu levaria para outro lugar.}

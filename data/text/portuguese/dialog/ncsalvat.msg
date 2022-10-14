@@ -1,38 +1,38 @@
-{100}{}{You see Louis Salvatore.}
-{150}{}{You see an elderly, well-dressed gentleman. He is carrying an oxygen tank, and he seems
- to have difficulty breathing.}
-{151}{}{You see Louis Salvatore. He is carrying an oxygen tank, and he seems
- to have difficulty breathing.}
+{100}{}{Você vê Louis Salvatore.}
+{150}{}{Você vê um senhor idoso e bem vestido. Ele está carregando um tanque de oxigênio e parece ter dificuldade
+ para respirar.}
+{151}{}{Você vê Louis Salvatore. Ele está carregando um tanque de oxigênio,
+ e parece ter dificuldade para respirar.}
 {200}{}{*Tosse*}
 {201}{}{:Sibilos::}
 {202}{}{*Tosse* *Tosse*}
-{210}{}{Guards! Gu...*cough* *cough*...Guards!}
-{215}{}{(Salvatore turns to you with a stone-faced expression. He studies you for a fraction
- of a second, then makes a strange motion with his hand. Instantly, an alarm rings throughout the casino.)}
-{216}{}{Owwww! Turn down sound! Hurt ears! HURT EARS!}
-{217}{}{ME CANT TALK OVER RINGING. TURN OFF, WE TALK}
-{218}{}{I'm gonna CRIPPLE you, old man! You'll never walk again!}
+{210}{}{Guardas! Gua...*tosse* *tosse*...Guardas!}
+{215}{}{(Salvatore se vira para você com um olhar inexpressivo. Ele te analisa por uma fração
+ de segundo, depois faz um movimento estranho com a mão. Instantaneamente, um alarme toca em todo o cassino.)}
+{216}{}{Owwww! Abaixa o som! Doem meus ouvidos! ORELHAS DOEM!}
+{217}{}{EU NÃO POSSO FALAR COM ESSE SOM. DESLIGUE E NÓS FALAMOS}
+{218}{}{Eu vou QUEBRAR você, velho! Você nunca mais vai andar!}
 {219}{}{Eu sabia que deveria conseguido uma permissão primeiro...}
 {220}{}{Merda!}
-{221}{}{Uh, please tell me that was room service.}
-{230}{}{(The elderly man looks up at you. His face is gaunt and covered with liver spots. He is holding
- a breathing mask, which is connected to an oxygen tank by his side.) What... do you want of me?}
+{221}{}{Ei, alguém, por favor, me diga que era o quarto dos empregados.}
+{230}{}{(O homem idoso olha para você. Seu rosto está magro e coberto de manchas. Ele está segurando uma
+ máscara de respiração, que está conectada a um tanque de oxigênio ao seu lado.) O que... você quer de mim?}
 {231}{}{Eu quero... não sei o que eu quero}
-{232}{}{Me want}
+{232}{}{Eu quero}
 {233}{}{Eu}
 {234}{}{Sair andando}
-{235}{}{I have information for you.}
-{236}{}{I have information for you, Mr. Salvatore.}
+{235}{}{Eu tenho uma informação para o senhor.}
+{236}{}{Tenho informações para o senhor, Sr. Salvatore.}
 {237}{}{Estou à procura de trabalho.}
-{238}{}{Mr. Salvatore, you have a reputation for strength and fairness. I want to work for you.}
-{239}{}{I wanted to know where you get the lightbringers.}
+{238}{}{Sr. Salvatore, você tem uma reputação de força e justiça. Eu quero trabalhar para o senhor.}
+{239}{}{Eu queria saber onde vocês conseguiram essas armas de luz.}
 {240}{}{Word is you had Mr. Wright's son poisoned. Why?}
 {241}{}{I think I've entered the wrong room. Pardon me.}
 {250}{}{I have told you the reason the boy was killed. It will not leave this room. (Salvatore
  makes a strange motion with his hand. Instantly, an alarm rings throughout the casino.)}
 {251}{}{(Salvatore studies you for a fraction of a second in disgust, then makes a strange motion with his hand.
  Instantly, an alarm rings throughout the casino.)}
-{254}{}{I'm gonna CRIPPLE you, old man! You'll never walk again!}
+{254}{}{Eu vou QUEBRAR você, velho! Você nunca mais vai andar!}
 {270}{}{(Takes a deep breath from his mask, then shakes his head.) You have
  nothing... that I need to know, }
 {271}{}{Um, I don't recall introducing myself. How do you know my name?}
