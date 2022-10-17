@@ -79,7 +79,7 @@
 {380}{}{Actually, great! Almost forgot - a buddy of mine won it big at the tables and he's sharing the wealth, if you know what I mean.}
 {381}{}{Pretty fucking bored. I hate guarding - but, hey, things can't be that bad. A buddy of mine won it big at the tables and he's sharing the wealth, if you know what I mean.}
 {382}{}{Big plans, then?}
-{383}{}{Sounds like fun.}
+{383}{}{Det låter kul.}
 {390}{}{Yeah, he's throwing a party tonight at his place. Should be a blast.}
 {391}{}{Yeah, he's throwing a party tonight at his place. Should be a blast. I'd invite you, honey, but it's only for his closest friends.}
 {392}{}{Down a few brews for me.}

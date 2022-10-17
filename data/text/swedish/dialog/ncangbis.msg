@@ -111,7 +111,7 @@
 {450}{}{Hey, it's you... we had some good times before you went off and kicked the Enclave's ass. You wanna re-live some
  of those moments?}
 {451}{}{You again. You want to waste some time?}
-{452}{}{Not right now.}
+{452}{}{Inte just nu}
 {453}{}{All right. Let's go to your room.}
 {460}{}{I heard about what you did to the Enclave, }
 {462}{}{Well, well: }

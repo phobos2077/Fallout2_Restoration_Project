@@ -7,7 +7,7 @@
 {106}{}{No, me go.}
 {107}{}{I want some information.}
 {108}{}{Sure, show me what you've got.}
-{109}{}{Not right now.}
+{109}{}{Inte just nu}
 {110}{}{I've learned that the less you know, the longer you live. I have no other information for you. Would you like to see my goods?}
 {111}{}{Ja.}
 {112}{}{Nej.}

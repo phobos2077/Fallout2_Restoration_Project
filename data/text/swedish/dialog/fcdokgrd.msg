@@ -26,7 +26,7 @@
 {241}{}{Thank you, friend. And don't worry, I won't speak a word of this anyone.}
 {250}{}{I hope not, for both our sakes... Let me know when you're ready to use the boat. You can't bring anyone with you, as it'll draw too much attention. You'll have to go at this alone.}
 {251}{}{I'd like to use it right now.}
-{252}{}{Not right now.}
+{252}{}{Inte just nu}
 {260}{}{[The guard listens to the password and nods.] I guess you really are a technician. Hmm, the Shi must be getting desperate to hire outsiders... Anyway, you're early. Didn't they tell you that the tech team doesn't leave port until midnight? You can wait for the rest of the team here, if you wish.}
 {261}{}{I don't really have anything better to do, so sure...}
 {262}{}{I'll come back later.}

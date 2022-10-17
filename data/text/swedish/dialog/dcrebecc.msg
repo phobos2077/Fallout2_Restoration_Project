@@ -47,7 +47,7 @@
 {255}{}{I suppose.}
 {256}{}{What?}
 {257}{}{No, sorry.}
-{258}{}{Not right now.}
+{258}{}{Inte just nu}
 {270}{}{I need a drink.}
 {271}{}{I'm looking for a merchant who sells Vault equipment.}
 {272}{}{I'm looking for a merchant named Vic.}

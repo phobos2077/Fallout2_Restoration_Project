@@ -42,7 +42,7 @@
 {134}{}{Really? Would you do it for me... and, more importantly, for Broken Hills?}
 {135}{}{What's in it for me?}
 {136}{}{Sure, I'll do it.}
-{137}{}{Not right now.}
+{137}{}{Inte just nu}
 {138}{}{Izzat so? Well, my brainy friend, why not fix the air purifier down below? You'll need the
  parts, and you'll need to find a way to breathe the gas. Until you can show me you can do that, I think
  I'll just assume the only thing smart about you is your mouth.}
@@ -92,7 +92,7 @@
 {174}{}{You changed your mind about trying to fix the mine yet?}
 {175}{}{What's in it for me?}
 {176}{}{Sure, I'll do it.}
-{177}{}{Not right now.}
+{177}{}{Inte just nu}
 {178}{}{Nej.}
 {179}{}{How's it coming? I hope you're going to take care of this soon...}
 {180}{}{It's coming along all right.}

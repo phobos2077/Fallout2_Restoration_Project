@@ -271,7 +271,7 @@
 {369}{}{Got any more recon work for me?}
 {370}{}{I plotted that route to NCR for you.}
 {371}{}{About those Raiders...}
-{372}{}{Never mind. Goodbye.}
+{372}{}{Det spelar ingen roll. Adjö.}
 {373}{}{Good day... ma'am.}
 {374}{}{Vault City prevails... ma'am.}
 {375}{}{Captain. Can I help you... ma'am?}
