@@ -6,7 +6,7 @@
 {105}{}{This person hasn't won in a while.}
 {106}{}{She looks like she's about to cry and seems to almost be out of money.}
 {107}{}{He looks very angry and seems to be losing big.}
-{200}{}{Don't hurt me!}
+{200}{}{Gör mig inte illa!}
 {201}{}{Don't shoot!}
 {202}{}{I don't have any money!}
 {203}{}{Why did you have to kill poor Becky?}

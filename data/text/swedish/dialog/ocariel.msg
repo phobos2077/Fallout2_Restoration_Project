@@ -4,7 +4,7 @@
 {103}{}{Hello, I'm Ariel. I don't think I've seen you here before. Who are you?}
 {104}{}{Me}
 {105}{}{Uh... you look sad. Why?}
-{106}{}{Me go now.}
+{106}{}{Jag gå nu.}
 {107}{}{Hello, Ariel, my name is}
 {108}{}{Hi. You're looking rather down. What's up?}
 {109}{}{You don't need to know my name, but I need some information from you.}

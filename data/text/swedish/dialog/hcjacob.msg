@@ -100,7 +100,7 @@
 {235}{}{Not just yet, thanks. Bye.}
 {258}{}{It's like this. We hate the mutants. We want to kill them. The best way to get rid of 'em is to
  blow the mine up while they're inside. We want you to plant the charge.}
-{259}{}{I'll do it!}
+{259}{}{Jag gör det!}
 {260}{}{I can't do that.}
 {261}{}{Excellent, my friend! Here. Take this explosive switch. Hook it up to the air purifier and get the hell out of there.
  We've arranged it so that the town's mutants will be in the mine.}

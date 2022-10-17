@@ -109,7 +109,7 @@
 {444}{}{Tubby hasn't given us any in a while. Where he at?}
 {445}{}{My lips are numb.}
 {446}{}{I can't feel my fingers.}
-{460}{}{Don't hurt me!}
+{460}{}{Gör mig inte illa!}
 {461}{}{Please, don't!}
 {462}{}{I didn't take it!}
 {463}{}{It wasn't me!}

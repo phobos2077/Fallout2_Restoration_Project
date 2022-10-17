@@ -6,7 +6,7 @@
 {151}{}{Eeeee! The boogy-monster!}
 {152}{}{Daddy says you're a bad person.}
 {153}{}{Aieeee! Run away!}
-{154}{}{You're scaring me.}
+{154}{}{Du skrämmer mig.}
 {155}{}{Stop looking at me.}
 {156}{}{I'm not supposed to talk to tribals.}
 {157}{}{Wiener dog.}

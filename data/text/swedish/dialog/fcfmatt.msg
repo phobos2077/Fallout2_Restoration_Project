@@ -12,7 +12,7 @@
 {111}{}{Who you guys?}
 {112}{}{Why nobody mention you?}
 {113}{}{Why only one person here?}
-{114}{}{Me go now.}
+{114}{}{Jag gå nu.}
 {115}{}{Who are you guys?}
 {116}{}{Why is it that nobody around here mentions you?}
 {117}{}{Why do you have only one person here?}

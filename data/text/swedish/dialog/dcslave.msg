@@ -26,7 +26,7 @@
 {329}{}{What's going to happen to us?}
 {330}{}{What did we do wrong?}
 {331}{}{Leave us alone, slaver!}
-{332}{}{Don't hurt me!}
+{332}{}{Gör mig inte illa!}
 {333}{}{Get away from me!}
 {350}{}{Who you?}
 {351}{}{You no slaver.}

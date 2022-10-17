@@ -19,7 +19,7 @@
 {116}{}{How long you here?}
 {117}{}{D'claws bad?}
 {118}{}{Why you stay?}
-{119}{}{Me go now.}
+{119}{}{Jag gå nu.}
 {120}{}{Who is this shrine dedicated to?}
 {121}{}{How long have you been here?}
 {122}{}{What can you tell me about the deathclaws?}

@@ -75,7 +75,7 @@
 {218}{}{Leave me alone!}
 {219}{}{No! No! No!}
 {220}{}{Don't touch me!}
-{221}{}{Don't hurt me!}
+{221}{}{Gör mig inte illa!}
 {250}{}{Those poor people.}
 {251}{}{Who fell down Jacob's ladder?}
 {252}{}{Well, look what the desert dragged in.}

@@ -10,7 +10,7 @@
 {108}{}{What do you want?}
 {109}{}{Who you?}
 {110}{}{You prisoner?}
-{111}{}{Me go now.}
+{111}{}{Jag gå nu.}
 {112}{}{Who are you?}
 {113}{}{Are you a prisoner here?}
 {114}{}{I'll be leaving now.}
@@ -54,7 +54,7 @@
 {147}{}{Others here. They need food, water. You no care about them?}
 {148}{}{What about the others who live here. Aren't you concerned with their fate?}
 {149}{}{Not in the least. They are simply casualties of war.}
-{150}{}{Me go now.}
+{150}{}{Jag gå nu.}
 {151}{}{Me think me shoot you now.}
 {152}{}{Good job.}
 {153}{}{I see. I'll be going now.}

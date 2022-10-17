@@ -8,7 +8,7 @@
 {106}{}{Who D'claw father?}
 {107}{}{Door look like crap. What happen?}
 {108}{}{Who build nest room?}
-{109}{}{Me go now.}
+{109}{}{Jag gå nu.}
 {110}{}{So, you are the deathclaw mother?}
 {111}{}{Who is the deathclaw father?}
 {112}{}{What happened to the door? It looks like it has seen better days.}

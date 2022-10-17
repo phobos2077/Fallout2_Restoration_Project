@@ -119,7 +119,7 @@
 {185}{}{Yeah, you know, well traveled... knowledgeable... experienced... You don't have a clue what I'm
  talking about, do you? }
 {186}{}{Food seasoned, not me.}
-{187}{}{Me go now.}
+{187}{}{Jag gå nu.}
 {188}{}{Uh huh. Well, your IQ may be smaller than your shoe size, but you obviously have something
  going for you to have survived in the world this long... Ok, let's try this. Me want leave this place.
  Me want travel with you. Ok?}

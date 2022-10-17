@@ -30,7 +30,7 @@
 {126}{}{What you know about Darion?}
 {127}{}{How you be here?}
 {128}{}{You say Darion got doggie?}
-{129}{}{Me go now.}
+{129}{}{Jag gå nu.}
 {130}{}{Do you work for Darion?}
 {131}{}{Can you leave here if you want?}
 {132}{}{What can you tell me about Darion?}

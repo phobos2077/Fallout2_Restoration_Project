@@ -153,7 +153,7 @@
 {224}{}{Myron, Dr. Troy... Dr. Troy, Myron.}
 {225}{}{Then I have some questions for this young man...}
 {226}{}{Uh, sure. You might want to take some aspirin before you start, though. I'll wait here.}
-{227}{}{Be my guest.}
+{227}{}{Varsågod.}
 {228}{}{Go ahead. Call me if you need anything... like a baseball bat.}
 {229}{}{Brahmin fumes? Not a conventional manufacturing process, but... hmmmmm. Perhaps I could take
  blood samples from the brahmin in the courtyard, then... thank you, my friend.}

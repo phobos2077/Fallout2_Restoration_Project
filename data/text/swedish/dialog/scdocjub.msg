@@ -18,7 +18,7 @@
 {117}{}{Just heal me.}
 {118}{}{I'm not staying here.}
 {119}{}{You make better.}
-{120}{}{Me go now.}
+{120}{}{Jag gå nu.}
 {121}{}{Nope. Never joke. Best I cut that leg off before gangrene sets in.}
 {122}{}{No way you're cutting anything off, understand?}
 {123}{}{That's it, I'm leaving.}

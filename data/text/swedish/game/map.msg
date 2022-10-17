@@ -612,7 +612,7 @@
 {1522}{}{Arroyo}
 {1523}{}{Toxic Caves}
 {1524}{}{Den Slave Run}
-{1525}{}{Raiders}
+{1525}{}{Rädare}
 {1526}{}{Desert}
 {1527}{}{Mountain}
 {1528}{}{Ruined City}

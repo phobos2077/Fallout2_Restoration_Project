@@ -204,7 +204,7 @@
 {303}{}{It's full of intelligent deathclaws. They can even talk.}
 {304}{tand44a}{Right. (shakes head) Lord, you're dumber than Hoss ever was! (sigh) There's the door.}
 {305}{tand44b}{Right. (shakes head) Well then, let's stop wasting each other's time. (sigh) There's the door.}
-{306}{}{Me go now.}
+{306}{}{Jag gå nu.}
 {307}{}{Right. I'll be leaving.}
 {308}{tand45}{You earned yourself a bonus. My assistant will square things up.}
 {309}{}{}

@@ -30,7 +30,7 @@
 {125}{}{You leave here when want?}
 {126}{}{What you know about D'claws?}
 {127}{}{How you be here?}
-{128}{}{Me go now.}
+{128}{}{Jag gå nu.}
 {129}{}{Are you a prisoner here?}
 {130}{}{Can you leave here if you want?}
 {131}{}{What can you tell me about the deathclaws?}

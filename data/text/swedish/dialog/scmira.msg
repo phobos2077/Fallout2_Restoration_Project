@@ -93,7 +93,7 @@
 {192}{}{Not much now. I killed him.}
 {193}{}{You're kidding? That's the best news I've had all day! I hope his brains made nice wallpaper. Damn psycho deserved it. Have a Rad-a-Waster on me.}
 {194}{}{Me like.}
-{195}{}{Me go now.}
+{195}{}{Jag gå nu.}
 {196}{}{Thanks - I guess. Say, got time for a question?}
 {197}{}{Thanks. Just figured you ought to know.}
 {198}{}{You did what? Oh, if I wasn't on duty, I'd climb over this bar and... well, kiss you. The little prick deserved it. In fact, don't tell anyone but I was hoping to get some stupid ox to do the job for me. Had a little reward all set aside. It's yours now - as far as I'm concerned you earned it.}

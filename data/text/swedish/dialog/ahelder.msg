@@ -74,7 +74,7 @@
 {164}{aeld17}{It's good to see you again, Child. I don't mean to be abrupt but I see you
  haven't completed your quest to find the holy Thirteen. Please, let's not waste time
  talking. The need of our people is great. Go find the Vault!}
-{165}{}{Me go now.}
+{165}{}{Jag gå nu.}
 {166}{}{All right, I'm going.}
 {167}{}{I will not fail you elder.}
 {168}{}{I'm working on it, Ok?}
