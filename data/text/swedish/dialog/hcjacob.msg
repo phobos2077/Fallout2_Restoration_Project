@@ -67,7 +67,7 @@
 {180}{}{Then that's your choice. I'll let you go on with your life. Pity, though. You look tough.}
 {181}{}{Yeah. Bye.}
 {182}{}{You are, eh? I don't think so, traitor.}
-{183}{}{What?}
+{183}{}{Vad?}
 {184}{}{I have a little job for you. Our friends, Manson and Franc, are being held in jail. I want you
  to get them out. Do it quietly, if possible. Don't want the whole town on your head.}
 {185}{}{What if I kill someone?}

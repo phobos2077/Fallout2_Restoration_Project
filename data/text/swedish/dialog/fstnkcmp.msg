@@ -4,7 +4,7 @@
 {103}{}{::beep:: Terminal malfunctioning. Require NavComp installation. ::beep::}
 {104}{}{[KLAR]}
 {105}{}{Welcome to PoseidoNet. This terminal is limited to transmission between one tanker - PMV Valdez - and docking rig. Command?}
-{106}{}{Go.}
+{106}{}{Gå.}
 {107}{}{Check status.}
 {108}{}{Log Off.}
 {109}{}{-Fuel Tanks: Empty- -Cargo Hold: Empty- -Navigation Computer: Non Functional- -Mooring Lines: Attached-}

@@ -14,7 +14,7 @@
 {112}{}{Gug! (you look concerned)}
 {113}{slk4}{Don't want a hole? Go see Torr, he your spirit-brother. He work for Maida-with-no-smiles. Just like we and I.}
 {114}{}{Aha.}
-{115}{}{Huh?}
+{115}{}{Vadå?}
 {116}{slk5a}{Ah, shit, fren. Slavers took our sister. We went drinking, then went breaking. Now paying off Maida. When
  that done, we go find sis.}
 {117}{slk5b}{Now we be getting ready to leave. Go look for sis. She snatched by slavers.}

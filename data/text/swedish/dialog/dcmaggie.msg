@@ -8,7 +8,7 @@
 {155}{}{. What's there to do around here?}
 {156}{}{Hi, I'm }
 {157}{}{. Can I ask some questions?}
-{158}{}{Mom?}
+{158}{}{Mamma?}
 {159}{}{Mag gah.}
 {160}{}{Run along. I don't need your kind here.}
 {161}{}{Mmmm...}
@@ -38,7 +38,7 @@
 {185}{}{Quick question first?}
 {186}{}{Hej då.}
 {187}{}{A shot of whiskey is $5. Pay first.}
-{188}{}{Huh?}
+{188}{}{Vadå?}
 {189}{}{Here's the money.}
 {190}{}{Changed my mind.}
 {191}{}{I'm a little short of cash. Can I have a tab?}

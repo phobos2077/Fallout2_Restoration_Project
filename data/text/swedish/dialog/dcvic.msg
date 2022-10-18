@@ -219,7 +219,7 @@
 {4001}{}{This better Boss?}
 {4002}{}{How 'bout here?}
 {4003}{}{Yes Boss.}
-{4004}{}{What?}
+{4004}{}{Vad?}
 {4005}{}{Where we going?}
 {4006}{}{We leaving Boss?}
 {4007}{}{I'm moving.}

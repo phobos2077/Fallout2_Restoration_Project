@@ -92,7 +92,7 @@
 {484}{}{Mom can make a sandwich out of anything.}
 {485}{}{I hope you get to know Mom as well as us.}
 {486}{}{Great company, great food. What else could you ask for?}
-{487}{}{Cheers!}
+{487}{}{Skål!}
 {488}{}{Hej.}
 {500}{}{How could you have hurt poor old Mom?}
 {501}{}{I've known, I mean, knew Mom all my life.}

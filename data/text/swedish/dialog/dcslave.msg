@@ -106,7 +106,7 @@
 {480}{}{What you want?}
 {481}{}{What do you want?}
 {482}{}{Oh, nothing.}
-{500}{}{Huh?}
+{500}{}{Vadå?}
 {501}{}{Never mind. You're free to go. Metzger's dead.}
 {510}{}{Wha? Free? Bad men gone? We go now! Thank you. You friend! Bye!}
 {511}{}{Free? What? You killed them all? Thank you so much! We'd better leave while we still can. Thank you again, you're a saint!}
@@ -131,8 +131,8 @@
 {602}{}{Go!}
 {603}{}{Home!}
 {604}{}{Free?}
-{605}{}{Huh?}
-{606}{}{What?}
+{605}{}{Vadå?}
+{606}{}{Vad?}
 {607}{}{Did you say free?}
 {608}{}{I'm out of here!}
 {609}{}{Let's go!}

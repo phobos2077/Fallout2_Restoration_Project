@@ -1,7 +1,7 @@
 {100}{}{You see a child.}
 {150}{}{You see a small orphan child.}
 {200}{}{Spare change?}
-{201}{}{What?}
+{201}{}{Vad?}
 {202}{}{I'm not doin' anythin'!}
 {210}{}{This is Tubby's place.}
 {211}{}{Tubby sells bad things.}

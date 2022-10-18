@@ -101,7 +101,7 @@
 {1100}{}{I think I need to sit down.}
 {1101}{}{That wasn't fair.}
 {1102}{}{Cow... ard, unh....}
-{1103}{}{Damn!}
+{1103}{}{Förbannat!}
 {1104}{}{My aching skull!}
 {1105}{}{My face! My face!}
 {1106}{}{I see stars!}
@@ -693,7 +693,7 @@
 {2000}{}{Mercy!}
 {2001}{}{Somebody help me!}
 {2002}{}{Please stop!}
-{2003}{}{Help!}
+{2003}{}{Hjälp!}
 {2004}{}{Aaaaahhhh!}
 {2005}{}{Mercy!}
 {2006}{}{Somebody help meeeee!}
@@ -3037,8 +3037,8 @@
 {41671}{}{My knee!}
 {41672}{}{My ankle!}
 {41673}{}{My calf!}
-{41674}{}{Shit!}
-{41675}{}{Damn!}
+{41674}{}{Skit!}
+{41675}{}{Förbannat!}
 {41676}{}{That's gonna scar.}
 {41677}{}{Ow!}
 {41678}{}{Stupid normal!}

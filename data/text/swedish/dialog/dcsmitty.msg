@@ -30,9 +30,9 @@
 {282}{}{On second thought, let me ask you about something else.}
 {283}{}{Maybe another time. Goodbye, Smitty.}
 {300}{}{Well now, that looks to me like it's an old fuel cell controller. Hmm, I bet if I used that with the old Highwayman I could get her purring like a kitten.}
-{301}{}{Huh?}
+{301}{}{Vadå?}
 {310}{}{Hmm, that looks jist like a fuel cell regulator. If I had a car that ran, it'd sure improve the mileage on it.}
-{311}{}{Huh?}
+{311}{}{Vadå?}
 {320}{}{That was mighty darn kind of you. Thanks mucho, compadre. Here's a little something for your trouble. It'll come in handy 'round these parts. (He hands you a Stimpack.)}
 {321}{}{Thanks, Smitty. No problem. See you around.}
 {322}{}{Well, uhhh... Thanks, but I already headed over to Mom's and got some eats myself, so I won't be needin' that anymore.}
@@ -52,7 +52,7 @@
 {370}{}{Jist take it easy with her 'til she warms up, now.}
 {371}{}{OK, I will. Thanks, Smitty.}
 {380}{}{Well, a lot an' not so much at the same time.}
-{381}{}{Huh?}
+{381}{}{Vadå?}
 {390}{}{What I'm saying is that havin' a regulator is nice but you need to find a fuel cell controller.}
 {391}{}{Why's that?}
 {400}{}{'Cause if'n you had a controller, and $2,000, I could fix this here Chrysalis Motors Highwayman that I got here and you could drive around in style.}

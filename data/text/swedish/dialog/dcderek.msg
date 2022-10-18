@@ -45,7 +45,7 @@
 {283}{}{That's great. I've uh... got to go.}
 {290}{}{What? You! Screw you buddy! I'm not... Ow! Fuck.}
 {291}{}{What? You! Screw you lady! I'm not... Ow! Fuck.}
-{292}{}{Damn.}
+{292}{}{Förbannat.}
 {293}{}{Nuf Said.}
 {300}{}{Oh yeah. I didn't like it. Too much kissing. I threw it in the corner of that building... no that building... no... was it a building? Maybe I dropped it somewhere else... or did I throw it? Ow! My head!}
 {301}{}{Book? Oh, that book. Who sent you? I'm not sure if that's the proper side. Don't forget the tissue.}

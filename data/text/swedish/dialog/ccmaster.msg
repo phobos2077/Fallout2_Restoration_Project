@@ -12,17 +12,17 @@
 {109}{}{No way. Forget it.}
 {110}{}{You the guy Arch radioed about?}
 {111}{}{Are you sure you're not the guy?}
-{112}{}{Huh?}
+{112}{}{Vadå?}
 {113}{}{Ja.}
 {114}{}{Nej.}
 {115}{}{Who are you? What are you doing here?}
-{116}{}{What?}
+{116}{}{Vad?}
 {117}{}{Uh... I'm new here?}
-{118}{}{Peek-a-boo!}
+{118}{}{Tittut!}
 {119}{}{Who are you? What are you doing here?}
-{120}{}{What?}
+{120}{}{Vad?}
 {121}{}{Uh... I'm new here?}
-{122}{}{Peek-a-boo!}
+{122}{}{Tittut!}
 {123}{}{What do you mean? This suit's working fine! You gonna sign the papers or not?}
 {124}{}{I'm not understanding a word of this.}
 {125}{}{Your speaker's broken.}
@@ -30,19 +30,19 @@
 {127}{}{To hell with this!}
 {128}{}{(What, are you deaf? I said I got a suit; just sign here.)}
 {129}{}{Clown, are you? Well, I don't need this. You explain to Sarge why you don't have a uniform!}
-{130}{}{Huh?}
+{130}{}{Vadå?}
 {131}{}{Okay, fine. I'll do it.}
 {132}{}{Just forget it, okay?}
 {133}{}{Your speaker's not broken. I can hear you just fine. Just sign the papers and we can get this
  done.}
-{134}{}{Huh?}
+{134}{}{Vadå?}
 {135}{}{Fine, I give up!}
 {136}{}{You want me to what? I'm not that kind of person!}
 {137}{}{Okay, what's your name?}
 {138}{}{[Player name]}
-{139}{}{Pisces?}
+{139}{}{Fiskarna?}
 {140}{}{I want the power armor.}
-{141}{}{Swordfish.}
+{141}{}{Svärdfisk.}
 {142}{}{Right. Unit?}
 {143}{}{Arroyo.}
 {144}{}{Nepp.}
@@ -54,8 +54,8 @@
 {150}{}{I don't know.}
 {151}{}{You'll get the damn armor when I'm good and ready! Now, answer the question.}
 {152}{}{[Player name]}
-{153}{}{Pisces?}
-{154}{}{Swordfish.}
+{153}{}{Fiskarna?}
+{154}{}{Svärdfisk.}
 {155}{}{Arroy-- Wait a minute! We just hit that place. You're a damn tribal! Guards!}
 {156}{}{Look, clown, don't be making trouble or I'll have your insubordinate ass up on report. Just
  answer the question. }
@@ -66,10 +66,10 @@
 {161}{}{What are you, deaf? Are you the guy or not?}
 {162}{}{Ja.}
 {163}{}{Like a fish in water.}
-{164}{}{Not.}
+{164}{}{Inte.}
 {165}{}{Okay, let's make this quick. Take that off and I'll give you a new suit.}
 {166}{}{You're nothing but static.}
-{167}{}{Huh?}
+{167}{}{Vadå?}
 {168}{}{Okej.}
 {169}{}{You're gonna off me? I don't think so!}
 {170}{}{Oh, well never mind.}
@@ -98,4 +98,4 @@
 {192}{}{Wait a minute -- you're not one of us! GUARDS!}
 {193}{}{Look soldier, I already gave you your gear, so get on out of here.}
 {194}{}{What do you want?}
-{195}{}{Droog?}
+{195}{}{Drååg?}

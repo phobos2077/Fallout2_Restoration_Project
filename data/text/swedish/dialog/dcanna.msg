@@ -31,7 +31,7 @@
 {178}{}{Wait! Don't go!}
 {179}{}{Go into the light.}
 {200}{}{Where could it be?}
-{201}{}{Ohhh.}
+{201}{}{Åhhh.}
 {202}{}{Mommy? Daddy? Where are you?}
 {203}{}{I can't find it!}
 {500}{}{Mommy... Daddy... I'm coming...}

@@ -15,7 +15,7 @@
 {231}{}{Alright. First off, I'm not a Chinese spy -- I'm what you might call a tribal. I've been chosen to embark on a perilous quest so that I might save my tribe from destruction. I only entered this complex in hope of scavenging something that could aid me in my quest.}
 {232}{}{Fuck off. Seriously, you're a *hologram*. The worst you can do is try and shout me to death, which you seem to be giving your best shot. As for those scrap heaps you call robots, I might be a little more intimidated if I saw any around here that actually work.}
 {240}{}{Scavenge! You Pissnelke! How dare you discredit the name of the EPA in this way! Nobody so much as removes a piece of paper from this building without my say so! However, to have entered this far into the EPA would require some skill... perhaps I could find a use for you after all. }
-{241}{}{Huh?}
+{241}{}{Vadå?}
 {242}{}{No, I think I'll just scavenge some more and go. Bye!}
 {250}{}{Insolence! Such insolence from a Blödes Arschloch! When I began my training, insolence was to be punished. And punished we were! Mark my words scheisskopf, that forked tongue of yours will one day be the death of you.}
 {251}{}{Maybe it will, maybe it will. And if that day were ever to come, I shall deal with it then and there. What is certain, is it will not come from you. You're a nobody. You have nothing left to rule over, which is why you cover up your sadness with anger. How long have the robots failed to respond to you?}

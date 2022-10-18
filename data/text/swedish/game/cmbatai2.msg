@@ -29,7 +29,7 @@
 {1093}{}{Ooorp! aoooww...}
 {1094}{}{I... can't... breathe...}
 {1095}{}{The pain, the pain...}
-{1100}{}{Damn!}
+{1100}{}{Förbannat!}
 {1101}{}{My aching skull!}
 {1102}{}{My face! My face!}
 {1110}{}{Aggghhh! My arm!}
@@ -423,7 +423,7 @@
 {2000}{}{Mercy!}
 {2001}{}{Somebody help me!}
 {2002}{}{Please stop!}
-{2003}{}{Help!}
+{2003}{}{Hjälp!}
 {2004}{}{Aaaaahhhh!}
 {2005}{}{Mercy!}
 {2020}{}{Hmm, uh, stop!}

@@ -25,7 +25,7 @@
 {243}{}{I never thought I would see that tat on a woman. It looks good though. Surprised Metzger... fuck it. So what do ya need?}
 {244}{}{What do ya want? Ya lost or somethin'?}
 {245}{}{Hello again. li'l lady. Whatcha need?}
-{246}{}{What?}
+{246}{}{Vad?}
 {247}{}{I'm looking to join.}
 {248}{}{Where do you get your slaves?}
 {249}{}{I'd like to buy some slaves.}

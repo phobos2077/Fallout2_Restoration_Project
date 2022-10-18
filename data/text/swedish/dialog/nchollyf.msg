@@ -14,7 +14,7 @@
 {304}{}{Mike bite my ears cause he hungry.}
 {305}{}{Me no hear good.}
 {306}{}{::Scratches ear stumps::}
-{307}{}{Huh?}
+{307}{}{Vadå?}
 {308}{}{What? Me no hear you.}
 {309}{}{Ear today gone tomorrow.}
 {310}{}{You bite?}
@@ -27,6 +27,6 @@
 {317}{}{Mike bite my ears cause he hungry.}
 {318}{}{Me no hear good.}
 {319}{}{::Scratches ear stumps::}
-{320}{}{Huh?}
+{320}{}{Vadå?}
 {321}{}{What? Me no hear you.}
 {322}{}{Ear today gone tomorrow.}

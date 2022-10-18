@@ -14,7 +14,7 @@
 {113}{}{Hey you, over here!}
 {114}{}{Are you looking for me?}
 {115}{}{Want to know what happened?}
-{116}{}{Help!}
+{116}{}{Hjälp!}
 {117}{}{I'm Martin, over here.}
 {118}{}{Hey, you, I'm Frobisher. Here!}
 {119}{}{Over heeeere!}

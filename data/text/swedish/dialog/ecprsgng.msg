@@ -6,7 +6,7 @@
 {105}{}{4F.}
 {106}{}{Time to look elsewhere.}
 {107}{}{Go join the Navy.}
-{108}{}{Damn!}
+{108}{}{Förbannat!}
 {109}{}{Whoa! Look at the time, I gotta go!}
 {110}{}{Recruit.}
 {111}{}{Sergeant.}

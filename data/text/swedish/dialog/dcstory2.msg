@@ -51,7 +51,7 @@
 {156}{}{I had her when I was a kid, but she disappeared. I didn't know then what happened to her, I was too young.}
 {157}{}{Varför?}
 {158}{}{Well, food was awfully scarce back then and people had to eat. It's quite sad really...}
-{159}{}{What?}
+{159}{}{Vad?}
 {160}{}{People would hunt them because they were such easy prey. None of them are around anymore because of it.}
 {161}{}{Sick!}
 {162}{}{I can understand that.}

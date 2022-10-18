@@ -9,11 +9,11 @@
 {154}{}{I hear ya.}
 {155}{}{Yeah, okay. Whatever.}
 {156}{}{I see why you call this place "The Hole."}
-{157}{}{Huh?}
+{157}{}{Vadå?}
 {158}{}{What's yer pleasure?}
 {159}{}{Whiskey.}
-{160}{}{Women.}
-{161}{}{Men.}
+{160}{}{Kvinnor.}
+{161}{}{Män.}
 {162}{}{Info.}
 {163}{}{Nothing today. Bye.}
 {164}{}{Wee wee.}
@@ -38,7 +38,7 @@
 {183}{}{Nothing. I'm leaving.}
 {184}{}{Wahdo a peedee!}
 {185}{}{And stay out!}
-{186}{}{[EXIT]}
+{186}{}{[UTGÅNG]}
 {187}{}{I don't want people like you in my place. Get out!}
 {188}{}{Alright, I'm going.}
 {189}{}{Wah.}

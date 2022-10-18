@@ -29,12 +29,12 @@
 {118}{}{Shit! What a waste of my time. Go on, beat it!}
 {119}{}{[End]}
 {120}{}{Well, that was a wasted speech. $}
-{121}{}{Yup.}
+{121}{}{Japp.}
 {122}{}{Nepp.}
 {123}{}{Hey, it's you again. I got some new stuff - you interested?}
 {124}{}{Sure, let's hear what you got.}
 {125}{}{Not a chance, Willy.}
-{126}{}{Yup.}
+{126}{}{Japp.}
 {127}{}{Nepp.}
 {128}{}{Beat it! I'm busy.}
 {129}{}{Come back when you got some money.}

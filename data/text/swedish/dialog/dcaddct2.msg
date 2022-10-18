@@ -24,11 +24,11 @@
 {113}{}{Screw this, I changed my mind. We ain't leaving. We're staying right here and fighting.}
 {114}{}{[He exchanges a look with the other squatters and ponders your words.] You know what? That doesn't sound too bad. In fact, that could work out great,
  if you really think Mom will go for it. While you go talk to her, we'll get started on cleaning this place up. Oh, and thanks for being so cool about things.}
-{115}{}{Nevermind.}
+{115}{}{Det är inte viktigt.}
 {116}{}{She's not going to pay you. But I'm here to offer you a new deal: You and your friends walk away from here now, and you get to keep your lives.}
 {117}{}{Alright, well, I gave it a shot. Bye.}
 {120}{}{This is a great idea. We'll get things ready.}
-{200}{}{Huh?}
+{200}{}{Vadå?}
 {201}{}{This is our turf.}
 {202}{}{You squatting here too?}
 {203}{}{Got anything to eat?}

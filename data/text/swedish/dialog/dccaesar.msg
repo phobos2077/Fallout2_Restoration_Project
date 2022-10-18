@@ -2,9 +2,9 @@
 {150}{}{You see Metzger, head of the Slaver's Guild.}
 {151}{}{[TALA]}
 {152}{}{Guards! Attack!}
-{153}{}{[done]}
+{153}{}{[färdig]}
 {154}{}{Come back in the morning damn it! I do my business during the day.}
-{155}{}{[done]}
+{155}{}{[färdig]}
 {156}{}{What is it now? You're really starting to piss me off.}
 {157}{}{I would like to apologize.}
 {158}{}{Sorry, I was drugged earlier. I didn't mean anything.}
@@ -22,7 +22,7 @@
 {170}{}{Hello. It's good to see you.}
 {171}{}{Hi Metzger. We need to talk.}
 {172}{}{You too. Bye.}
-{173}{}{Blurp.}
+{173}{}{Rap.}
 {174}{}{I am Metzger, Head of the Slaver's Guild. Whatcha need?}
 {175}{}{Yes, I have some questions.}
 {176}{}{No thanks. I'll just go now.}
@@ -86,7 +86,7 @@
 {230}{}{I have more questions.}
 {231}{}{Thanks; gotta go.}
 {232}{}{Hmm, looks like a healthy slave. I'll give you }
-{233}{}{ coins.}
+{233}{}{ mynt.}
 {234}{}{OK! It's a deal.}
 {235}{}{Uh, never mind.}
 {236}{}{No way! I want double!}
@@ -99,13 +99,13 @@
 {243}{}{Which "friend" are you selling?}
 {244}{}{Um, never mind.}
 {245}{}{Interesting. I'll give you }
-{246}{}{ coins.}
-{247}{}{Sold!}
+{246}{}{ mynt.}
+{247}{}{Såld!}
 {248}{}{No, thanks.}
 {249}{}{I want more money than that!}
 {250}{}{Alright, I'll give you }
 {251}{}{ but no more!}
-{252}{}{Sold!}
+{252}{}{Såld!}
 {253}{}{Not good enough.}
 {254}{}{That's way too little. I'm leaving.}
 {255}{}{What do you want with Vic? He's my property now. He shouldn't have fucked with me.}
@@ -127,19 +127,19 @@
 {271}{}{Too bad for me. Can I ask you a question?}
 {272}{}{Sorry, I'll come back.}
 {307}{}{How dare you return after abandoning your brothers during a Slave Run! Guards! Attack!}
-{308}{}{[done]}
+{308}{}{[färdig]}
 {309}{}{Excellent! It may take a few days for you to travel there and back. Are you ready to leave now?}
 {310}{}{No. I'll come back.}
 {311}{}{Yes, I'm ready. Let's go.}
 {312}{}{Ah, you are back from the Slave run. Let's see how you did...}
-{313}{}{[more]}
-{314}{}{[more]}
+{313}{}{[mer]}
+{314}{}{[mer]}
 {315}{}{You killed potential slaves! A dead man brings us no income! Only kill the ones that are a threat,
  the others are of no threat.}
-{316}{}{[more]}
+{316}{}{[mer]}
 {317}{}{You returned no slaves at all! What the hell is wrong with you? We're trying to make money here,
  not lose it.}
-{318}{}{[more]}
+{318}{}{[mer]}
 {319}{}{Overall, you did well this Run. Keep up the good work and I might keep you around a while.}
 {320}{}{Thank you. I will.}
 {321}{}{I don't know if I like this too much.}

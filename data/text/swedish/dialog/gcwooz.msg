@@ -112,7 +112,7 @@
 {320}{}{Zombies? Fuck you! We're ghouls. Zombies are a type of undead with no free will. Although we
  share certain physical characteristics -- most notably, the rotting flesh and characteristic morbidity --
  we are creatures of free will. Allow me to demonstrate.}
-{321}{}{Huh?}
+{321}{}{Vadå?}
 {330}{}{I am demonstrating my free will by telling you to GET OUT! Damn smoothskin bigot. Go back to
  Vault City, where you belong.}
 {331}{}{Ghouls, zombies, who cares? You're all freaks.}

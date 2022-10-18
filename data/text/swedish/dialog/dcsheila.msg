@@ -4,12 +4,12 @@
 {153}{}{Hey, I don't do chicks!}
 {154}{}{Whatever.}
 {155}{}{Sorry.}
-{156}{}{Mom?}
+{156}{}{Mamma?}
 {157}{}{Hey, it'll cost more if you've got an audience with ya.}
 {158}{}{Hey, they go where I go.}
 {159}{}{I want them with me.}
 {160}{}{I'll be back.}
-{161}{}{Mom?}
+{161}{}{Mamma?}
 {162}{}{Oh, baby. Where you been all my life?}
 {163}{}{Right here, baby.}
 {164}{}{How much, sister?}

@@ -6,7 +6,7 @@
 {154}{}{Get away from us.}
 {155}{}{You like her, huh?}
 {156}{}{Yes, she is.}
-{157}{}{Yup.}
+{157}{}{Japp.}
 {158}{}{I sure would like to do her.}
 {159}{}{Go right ahead.}
 {160}{}{OK. That'll be $50.}
@@ -44,7 +44,7 @@
 {203}{}{I want my money back.}
 {204}{}{I ain't giving you anything but a hole in the head.}
 {205}{}{OK, here you go.}
-{206}{}{Hey.}
+{206}{}{Hej.}
 {207}{}{Oh come on, give }
 {208}{}{ another chance here.}
 {209}{}{I can see you don't want to talk to me. I'm leaving.}
@@ -75,7 +75,7 @@
 {370}{}{Oh, that's nice.}
 {371}{}{Billy likes that.}
 {372}{}{Ohhhh yeah.}
-{373}{}{Nice.}
+{373}{}{Snyggt.}
 {374}{}{Jeezus and ramona.}
 {375}{}{Good Gracious.}
 {376}{}{I shoulda packed a box of tissue.}
@@ -89,11 +89,11 @@
 {402}{}{Billy, your fly's down. AGAIN!}
 {403}{}{Yo Billy, don't forget to change your pants later.}
 {404}{}{Billy, you been eating doughnuts?}
-{410}{}{Uhhh.}
-{411}{}{Shucks}
+{410}{}{Ehhh.}
+{411}{}{Attans}
 {412}{}{Jeesh}
 {413}{}{He, he, heee...}
-{414}{}{Huh?}
+{414}{}{Vadå?}
 {500}{}{*SPIT, SPIT* Eccchhhh...}
 {510}{}{Hey buddy, care to "rent" that fine ho of yours?}
 {511}{}{Can't this wait? I've got to get a drink.}

@@ -33,7 +33,7 @@
 {137}{}{OK, I'll cough up the dough. Now... Show Me The Mummy!}
 {138}{}{I don't want to spend that much. I think I'll survive without seeing the thing. Goodbye.}
 {139}{}{Simply open the sarcophagus lid and the marvelous Mummy will be revealed, in all its ancient glory, to you. But please, no touching, and, uh, no flash photography.}
-{140}{}{Great.}
+{140}{}{Utmärkt.}
 {141}{}{There you go! The MUMMY! (the door to the sarcophagus swings open to reveal a desiccated corpse, that looks very much like an ordinary ghoul, standing in a poorly painted, chipped and cracked paper-mache sarcophagus.)}
 {142}{}{There you go! Presenting, the MUMMY! (a crypt-like door swings open to reveal a jan-u-wine Egyptian mummy standing in an open sarcophagus that looks as though it's made out of pure gold!)}
 {143}{}{Hey, wait a minute. That's not a Mummy. That's a ghoul. WOODY! Hey WOODY! Is that you?}

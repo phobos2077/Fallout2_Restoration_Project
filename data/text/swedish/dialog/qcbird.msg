@@ -10,7 +10,7 @@
 {109}{}{I'm just here to double-check on our secret plans.}
 {110}{}{I'm here to kill you.}
 {111}{}{Carry on then, trooper. Carry on. You lads are doing a great service. We are ready for any unforeseen event that may or may not occur.}
-{112}{}{Huh?}
+{112}{}{Vadå?}
 {113}{}{Uh, yes. Well, I better complete my patrol. Goodbye.}
 {114}{}{Hmm, tell me, how do you spell potato? With an 'E,' or without?}
 {115}{}{Hmm, tell me, how do you spell subtle? With a 'B,' or without?}

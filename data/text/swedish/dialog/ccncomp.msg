@@ -43,5 +43,5 @@
 {142}{}{Command?}
 {143}{}{Unauthorized activity detected in main computer complex. Security alert. Security alert.}
 {144}{}{Initiate welcome program.}
-{145}{}{Shit!}
+{145}{}{Skit!}
 {146}{}{Security System Lockout in Progress.}

@@ -13,7 +13,7 @@
 {154}{}{It doesn't normally seem this real.}
 {155}{}{Stop it, man!}
 {156}{}{Will no one help me?}
-{157}{}{Help!}
+{157}{}{Hjälp!}
 {158}{}{Get away!}
 {159}{}{My head hurts enough as it is!}
 {160}{}{Leave me alone.}
@@ -38,7 +38,7 @@
 {218}{}{Boy, I'm sleepy...}
 {219}{}{Have you seen my dog?}
 {220}{}{Shhh, they're right behind you...}
-{221}{}{Mine!}
+{221}{}{Min!}
 {222}{}{Oooh, my head.}
 {223}{}{I ache all over.}
 {224}{}{I'm starting to get the shakes.}
@@ -80,11 +80,11 @@
 {362}{}{What was that?}
 {363}{}{Sasha? Where are you Sasha?}
 {364}{}{The colors are fading!}
-{365}{}{Mom?}
+{365}{}{Mamma?}
 {366}{}{Hey! Get away from me! Oh...}
 {367}{}{Don't you do that!}
 {368}{}{I can't see... again.}
-{369}{}{Need...}
+{369}{}{Behöver...}
 {370}{}{Get more...}
 {371}{}{There? No.}
 {372}{}{No. Can't find it.}
@@ -102,5 +102,5 @@
 {405}{}{Feet fom chin rat going! Ahhh!}
 {406}{}{You won't take it from me!}
 {407}{}{Give it back!}
-{408}{}{No!!!}
+{408}{}{Nej!!!!}
 {409}{}{My family!}

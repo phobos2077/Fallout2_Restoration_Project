@@ -58,5 +58,5 @@
 {163}{}{Well, it's getting late. Bye.}
 {164}{}{My pleasure. Bye.}
 {165}{}{Hej då.}
-{166}{}{Nevermind.}
+{166}{}{Det är inte viktigt.}
 {167}{}{Leanne told you her story about the Master.}

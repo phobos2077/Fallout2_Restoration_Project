@@ -11,7 +11,7 @@
 {160}{}{Sorry; bye.}
 {161}{}{Duh, you are welcome, uh-huh, yeah.}
 {162}{}{Maybe next time. Thank you anyway. [cough]}
-{163}{}{[done]}
+{163}{}{[färdig]}
 {164}{}{Thank you so much. [cough] So, so, so very much.}
 {165}{}{You're welcome.}
 {166}{}{Yeah, yeah.}

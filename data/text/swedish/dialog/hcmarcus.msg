@@ -254,7 +254,7 @@
 {352}{}{Never mind.}
 {353}{mcs114}{What? Where the hell did you hear that?}
 {354}{}{So... you AREN'T sterile?}
-{355}{}{Nevermind.}
+{355}{}{Det är inte viktigt.}
 {356}{mcs116}{Nope. Well, not now. It takes a few years after bein' dipped to get the juices flowing again. Why?}
 {357}{}{Oh. Uh. Never mind.}
 {360}{}{You have exposed the conspiracy against the mutants of Broken Hills.}

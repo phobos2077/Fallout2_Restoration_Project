@@ -1,6 +1,6 @@
 {100}{}{You open the dresser and find rows of files and notes.}
 {101}{}{Search the dresser.}
-{102}{}{Leave.}
+{102}{}{Lämna.}
 {103}{}{As you search through the records in the dresser, you notice a thin leather briefcase stuffed carefully far in the back.}
 {104}{}{Pull out briefcase.}
 {105}{}{Ignore and continue perusing.}

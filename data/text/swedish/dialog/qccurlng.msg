@@ -148,7 +148,7 @@
 {247}{}{                      And water'd heaven with their tears,}
 {248}{}{                            Did he smile his work to see?}
 {249}{}{                                  Did he who made the Lamb make thee?}
-{250}{}{Huh?}
+{250}{}{Vadå?}
 {251}{}{Oh, just something I remembered from a long dead poet. I was wondering if there's still a place for those who've worked towards such a dark end for so long. Our time is over, yours has just begun. Get going!}
 {252}{}{Oh, okay, thanks for all your help, doctor. You're a brave man.}
 {253}{}{You're a loony - but a useful loony. Goodbye.}

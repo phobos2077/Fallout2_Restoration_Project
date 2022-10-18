@@ -16,12 +16,12 @@
 {115}{}{We're going to put you under!}
 {116}{}{The Enclave will rule the world!}
 {117}{}{You die so that the Enclave will survive!}
-{200}{}{...asshole...}
+{200}{}{...rövhål...}
 {201}{}{...yeah, you'd BETTER walk away...}
 {202}{}{...what a brownie hound...}
 {203}{}{...yes, sir! fuckin' sir!...}
 {300}{}{Hold on there. What do you think you're doing with that aircraft? There are no scheduled flights for several days.}
-{301}{}{Nrg?}
+{301}{}{Va?}
 {302}{}{I am aware of this.}
 {303}{}{I'm sorry. I was just looking. I'll be going now.}
 {304}{}{There's been a change of plans. I'm taking this aircraft.}

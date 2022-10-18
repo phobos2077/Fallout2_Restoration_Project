@@ -23,7 +23,7 @@
 {221}{}{Run pre-flight diagnostics.}
 {222}{}{Log off.}
 {230}{}{Test signal received. Retrieving docking coordinates... complete. Aircraft ready for takeoff.}
-{231}{}{Go.}
+{231}{}{Gå.}
 {232}{}{Log off.}
 {240}{}{Aircraft is locked in on target. Flight time is approximately 6 hours. Enjoy your flight.}
 {241}{}{This is it -- the moment of truth. The tribe is in trouble and it's all up to me. My feet are sore, my entire body

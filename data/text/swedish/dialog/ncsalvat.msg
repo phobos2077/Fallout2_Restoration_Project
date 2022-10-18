@@ -13,7 +13,7 @@
 {217}{}{ME CANT TALK OVER RINGING. TURN OFF, WE TALK}
 {218}{}{I'm gonna CRIPPLE you, old man! You'll never walk again!}
 {219}{}{I knew I should have gotten permission first...}
-{220}{}{Shit!}
+{220}{}{Skit!}
 {221}{}{Uh, please tell me that was room service.}
 {230}{}{(The elderly man looks up at you. His face is gaunt and covered with liver spots. He is holding
  a breathing mask, which is connected to an oxygen tank by his side.) What... do you want of me?}

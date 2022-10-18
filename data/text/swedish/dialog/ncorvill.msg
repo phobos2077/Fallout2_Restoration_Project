@@ -236,7 +236,7 @@
 {692}{}{"You can't do anything about it?" What do you mean?}
 {700}{}{Know what those Salvatore bastards are ARMED with, friend? Those damned lightbringers. ONE Salvatore packing that kind
  of heat can kill my whole family without batting an eye. To beat that, I'd need...}
-{701}{}{What?}
+{701}{}{Vad?}
 {702}{}{Don't worry about it, I've kicked the shins out from underneath the Salvatores already.}
 {710}{}{Ha! The ones in Reno maybe, but you got a lot to learn about the families... there's still Salvatores kicking
  around beyond Reno, and even if there's just one left, that's trouble. To beat them, I'd need...}

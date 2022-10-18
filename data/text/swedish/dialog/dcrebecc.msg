@@ -21,7 +21,7 @@
 {216}{}{Greetings. What can we get you?}
 {217}{}{Need something?}
 {218}{}{Nice to see you again. How can I help you today?}
-{219}{}{What?}
+{219}{}{Vad?}
 {220}{}{Ja?}
 {221}{}{Now what?}
 {222}{}{Please keep it short. It's a busy day. What do you need?}
@@ -45,7 +45,7 @@
 {253}{}{Let's keep it short. I have a business to run.}
 {254}{}{Well, okay. What is it?}
 {255}{}{I suppose.}
-{256}{}{What?}
+{256}{}{Vad?}
 {257}{}{No, sorry.}
 {258}{}{Inte just nu}
 {270}{}{I need a drink.}
@@ -143,8 +143,8 @@
 {443}{}{I won't deal with the likes of you.}
 {444}{}{I'm not going down without a fight!}
 {450}{}{Buffy! It's you! How are you? It's been a long time!}
-{451}{}{Huh?}
-{452}{}{Huh?}
+{451}{}{Vadå?}
+{452}{}{Vadå?}
 {460}{}{Dave sends his best and wishes he could be here to say hi, but he had to run off.}
 {461}{}{Where to?}
 {470}{}{Something about a commando... or that he was going after a commando. Not sure

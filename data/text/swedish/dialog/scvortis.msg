@@ -115,7 +115,7 @@
 {270}{}{What, do you think you can get whatever the fuck you want for free? $1000. Take it or leave it.}
 {271}{}{What, do you think you can get whatever the fuck you want for free? Plus, you ooze virtuousness. I don't like that. $2000. Take it or leave it.}
 {272}{}{Alright, here.}
-{273}{}{Nevermind.}
+{273}{}{Det är inte viktigt.}
 {274}{}{I'll do whatever I want. And I think I'll kill you now.}
 {275}{}{I'll come back when I have more money.}
 {280}{}{[He points on your map the location of the slaver camp.] It's around there. Now what else are you going to waste my time with?}
