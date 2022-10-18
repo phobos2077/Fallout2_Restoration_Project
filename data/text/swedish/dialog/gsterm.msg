@@ -80,7 +80,7 @@
 {301}{}{Incorrect Security Access Code Entered. Access Denied. Please enter correct code. Two more attempts permitted.}
 {302}{}{Incorrect Security Access Code Entered. Access Denied. One more attempt permitted.}
 {303}{}{Incorrect Security Access Code Entered. Access Denied. Internal Security Procedures Activated.}
-{304}{}{Oops.}
+{304}{}{Hoppsan.}
 {305}{}{I better be more careful.}
 {306}{}{I better not make a mistake this time.}
 {307}{}{That doesn't sound good.}

@@ -148,7 +148,7 @@
 {301}{}{Sorry, friend, but... I just lost my two best friends. Those bastard muties killed them in prison.}
 {302}{}{Urrggg. Toooo badddd. Bye.}
 {303}{}{Uh... Gee. I'm really sorry. You have my condolences. Bye.}
-{304}{}{Oops.}
+{304}{}{Hoppsan.}
 {305}{}{Oops? Did you say 'Oops?' You didn't have nothin' to do with this, did you?}
 {306}{}{It was an accident, I swear!}
 {307}{}{Hell no. Of course not! Damn muties!}

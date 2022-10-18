@@ -21,7 +21,7 @@
 {116}{}{Thanks. I'm sure glad that's over. You better watch your back though.}
 {117}{}{Hej då.}
 {118}{}{It's the enemy! Die!}
-{119}{}{Oops.}
+{119}{}{Hoppsan.}
 {120}{}{[Lowers his voice and looks around.] That's gotta be it. In fact, I was a guard on the latest uranium run to
  Gecko, and I overheard Chad arguing with their ghoul rep. Apparently, Broken Hills had recently been jacking up the
  price of uranium, and the ghoul wasn't too happy about it. Then I hear Chad explain to him our uranium supply was

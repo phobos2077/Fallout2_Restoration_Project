@@ -13,7 +13,7 @@
 {112}{}{I'm here about a job.}
 {113}{}{First Citizen Lynette sends her greetings. She's got something for you.}
 {114}{}{Bishop sent me.}
-{115}{}{Oops.}
+{115}{}{Hoppsan.}
 {116}{}{That all? Talk to my foreman, Felix.}
 {117}{}{You don't understand. I'm here to do a job.}
 {118}{}{The sheriff suggested I come talk to you personally.}

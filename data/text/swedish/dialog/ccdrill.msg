@@ -54,7 +54,7 @@
 {153}{}{I don't have my papers with me. They're in my footlocker.}
 {154}{}{Papers? I've got your papers right here!}
 {155}{sgnt17}{Wrong answer, maggot. You are to carry your papers with you at all times and you should know that!}
-{156}{}{Oops.}
+{156}{}{Hoppsan.}
 {157}{}{Stay alert, soldier!}
 {158}{}{Good. You're on the ball. Stay that way!}
 {159}{}{Nothing to report, I see. Stay at your post.}

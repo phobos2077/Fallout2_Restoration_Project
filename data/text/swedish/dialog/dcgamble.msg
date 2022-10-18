@@ -65,7 +65,7 @@
 {513}{}{Almost.}
 {514}{}{Not bad.}
 {515}{}{How did that happen?}
-{516}{}{Oops.}
+{516}{}{Hoppsan.}
 {517}{}{No whammies, no whammies. Stop!}
 {518}{}{Well, the game lives up to its name.}
 {519}{}{I just need one big win.}

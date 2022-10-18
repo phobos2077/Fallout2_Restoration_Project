@@ -132,7 +132,7 @@
  for the taking, but if word gets out that he came to trade with us and never returned, we'll be blacklisted among the traders.}
 {412}{}{Sorry, I guess I got carried away.}
 {413}{}{He was civilized scum and deserved death.}
-{414}{}{Oops.}
+{414}{}{Hoppsan.}
 {420}{}{I see now that it was a mistake to task you with this. I'll be keeping a close eye on you during your time at our
  village. Now come, let us take care of this mess and be on our way.}
 {430}{}{The lying bastard got what he deserved. Let his fate be a lesson to any trader who thinks they can cheat our valuables from us.

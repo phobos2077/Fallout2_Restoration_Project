@@ -231,7 +231,7 @@
 {650}{}{Oh, don't worry. I'm sure I can find it in my heart to pay- I mean repay you. Men, it's payday.}
 {651}{}{Oh, don't worry. I'm sure I can find it in my heart to pay- I mean repay you. Men,
  take this bitch down.}
-{652}{}{Oops.}
+{652}{}{Hoppsan.}
 {653}{}{Garaka!}
 {654}{}{Uh... Tank?}
 {670}{}{Oh, I'm sure. This line of work isn't to be taken lightly. It takes trust and loyalty. We watch each other's backs. Good policy don't you think?}
