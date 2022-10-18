@@ -102,7 +102,7 @@
  that way! ::points north-east:: They must have heard everything!}
 {181}{}{Me stop, no get away!}
 {182}{}{You no worry, me find girl.}
-{183}{}{Ooops.}
+{183}{}{Ojdå.}
 {184}{}{I'll try and stop them.}
 {185}{}{They won't stop me from finding your daughter.}
 {186}{}{Oh well. Shit happens.}

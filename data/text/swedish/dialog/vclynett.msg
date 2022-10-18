@@ -835,7 +835,7 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {828}{}{Of course.}
 {829}{}{Correct.}
 {830}{}{Exactly.}
-{831}{}{Right.}
+{831}{}{Just det.}
 {832}{}{Hmpphhh.}
 {833}{}{Explain to me again why Fallout 2 doesn't have any black hero models?}
 {834}{}{Vault City prevails. }

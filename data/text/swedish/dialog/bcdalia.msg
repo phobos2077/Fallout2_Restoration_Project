@@ -42,8 +42,8 @@
 {139}{}{}
 {140}{}{Hi. I'm Dalia. What can I help you with?}
 {141}{}{Person go by here? In hurry?}
-{142}{}{Nothing.}
-{143}{}{Nothing.}
+{142}{}{Ingenting.}
+{143}{}{Ingenting.}
 {144}{}{Did you see someone go by here in a hurry?}
 {145}{}{I see people go by here every day. I really don't pay much attention to them.}
 {146}{}{Me not have time for you crap.}

@@ -75,7 +75,7 @@
 {337}{}{By coincidence, he also made no money at all, so talking was all he could afford.}
 {338}{}{Oh. Well, sign me up for the talking session then. Here's the }
 {340}{}{I think I'll pass. I'd like to ask you some questions...}
-{350}{}{Yes?}
+{350}{}{Ja?}
 {351}{}{Well, there's no harm in asking...}
 {352}{}{All right. (Smiles.) Answers might cost you, though...}
 {353}{}{Sure. What questions did you have?}

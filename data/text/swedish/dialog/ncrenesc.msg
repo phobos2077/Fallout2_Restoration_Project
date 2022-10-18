@@ -217,7 +217,7 @@
  accept these glasses as a gift on my daughter's wedding day. }
 {680}{}{Ehhh...}
 {681}{}{Errr...}
-{682}{}{Well...}
+{682}{}{Tja...}
 {683}{}{Okay! Okay! I'll give you a discount! Hmphhh.}
 {684}{}{C'mon. Just a little discount. C'mon...}
 {687}{}{Great! Let's see what you've got, "buddy."}

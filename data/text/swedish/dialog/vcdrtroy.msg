@@ -222,7 +222,7 @@
 {282}{}{Hello, Captain. How may I be of assistance?}
 {283}{}{Hello, Citizen. How may I be of assistance?}
 {284}{}{How may I be of assistance?}
-{285}{}{Yes?}
+{285}{}{Ja?}
 {286}{}{Me got ouchie}
 {287}{}{Ass-is-tense?}
 {288}{}{(Shamble off)}

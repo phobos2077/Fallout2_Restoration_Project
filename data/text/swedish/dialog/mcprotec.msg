@@ -1,7 +1,7 @@
 {100}{}{You see a Slag guard.}
 {150}{}{Surrender or die!}
 {151}{}{I surrender.}
-{152}{}{Die!}
+{152}{}{Dö!}
 {153}{}{Ug!}
 {154}{}{If you need to see Vegeir, we can escort you to him.}
 {155}{}{Not now. I'll see Vegeir later.}

@@ -21,7 +21,7 @@
 {120}{}{Hates slavery, huh. Interesting. What would you do if you found this outfit?}
 {121}{}{I'd ask to join them.}
 {122}{}{I'd kick their butts.}
-{123}{}{Nothing.}
+{123}{}{Ingenting.}
 {124}{}{None of your business. Now get out.}
 {125}{}{We've gotten out of the car business. Closed permanently. Goodbye.}
 {126}{}{It's not. Goodbye.}
@@ -117,7 +117,7 @@
 {230}{}{I still need more time.}
 {231}{}{I am ready to go. Let's do it.}
 {232}{}{Your fellow Rangers will meet up with you along the way. Best of luck to you.}
-{233}{}{[END]}
+{233}{}{[SLUT]}
 {234}{}{I've heard the news. Thank you so much for your help. This will surely deal quite a blow to the slavers. We are truly in your debt.}
 {235}{}{Please, don't delay too long. This attack is critical in our fight against slavery.}
 {236}{}{You aid the Rangers in their continual struggle against slavery.}

@@ -58,7 +58,7 @@
 {214}{}{Log off.}
 {220}{}{Please wait while I initiate diagnostic checks..Vault-Tec appreciates your patience... Thank you for waiting... Diagnostic
  checks complete. All systems are working properly. After all, you're using Vault-Tec. }
-{221}{}{Back.}
+{221}{}{Tillbaka.}
 {222}{}{Log off.}
 {230}{}{Switching to manual interface mode... manual interface mode initiated. For the convenience of others, this
  terminal will automatically revert to vocal interface mode once you have logged off. Please input command.}

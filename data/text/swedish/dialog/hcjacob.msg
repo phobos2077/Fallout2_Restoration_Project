@@ -158,6 +158,6 @@
 {311}{}{I have some other questions.}
 {312}{}{Nothing. Forget it.}
 {313}{}{Tack.}
-{314}{}{[CONTINUE]}
+{314}{}{[FORTSÄTT]}
 {315}{}{Hey, friend. I appreciate your help gettin' our friends out of their spot of trouble. You're all right in my book.}
 {316}{}{Tack.}

@@ -9,7 +9,7 @@
 {108}{}{You again?}
 {109}{}{Me go in.}
 {110}{}{I'd like to get into NCR.}
-{111}{}{Nothing.}
+{111}{}{Ingenting.}
 {112}{}{You aren't going anywhere until you stow those weapons.}
 {113}{}{Everybody's got to put their weapons away.}
 {114}{}{Hmm... well, you look respectable enough. What's your name? I've got to put it in the log book.}

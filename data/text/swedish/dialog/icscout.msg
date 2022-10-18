@@ -95,7 +95,7 @@
 {727}{}{Never mind, I'll just leave.}
 {728}{}{I don't wanna talk to you no more, you empty headed animal food trough wiper! I fart in your general direction! Your mother was a hamster and your father smelt of elderberries!}
 {800}{}{Shadow Who Walks believes you not. Shadow Who Walks is through talking. Goodbye.}
-{801}{}{[END]}
+{801}{}{[SLUT]}
 {802}{}{Don't you turn your back on me tribal. I'm talking to you.}
 {810}{}{How dare you threaten Shadow Who Walks. Leave now.}
 {811}{}{[Walk Away]}

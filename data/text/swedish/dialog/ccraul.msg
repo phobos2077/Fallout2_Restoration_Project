@@ -15,14 +15,14 @@
  his shit, you know?}
 {111}{}{Okej.}
 {112}{}{Quincy say you asshole. You no got balls see him.}
-{113}{}{Fine.}
+{113}{}{Bra.}
 {114}{}{Quincy said you were an asshole and that you wouldn't have
  the balls to report to him.}
 {115}{}{ Hey man, Raul don't take no shit from nobody. You see Quincy working on these
  birds? No way, man. Only Raul works on these babies. You know why? Cause
  Quincy don't know DICK, man, that's why!}
 {116}{}{Eh...}
-{117}{}{Well...}
+{117}{}{Tja...}
 {118}{}{Hey, sorry, man. Raul shouldn't be yelling at you, you know? It's
  not your fault; you're just the messenger. Hey, man, you busy right now?}
 {119}{}{No, me not busy. Why?}

@@ -32,12 +32,12 @@
 {131}{}{You may be right. Goodbye.}
 {132}{}{I'm Lt. Col. Dr. Charles Curling, United States Chemical Corps. And just who the holy hell are you?}
 {133}{}{I'm your worst nightmare-a mutant with a gun and an attitude.}
-{134}{}{I'm }
+{134}{}{Jag är}
 {135}{}{ of Arroyo, and we've got something to talk about.}
 {136}{}{I'm someone that needs to talk to you.}
 {137}{}{You need to talk to me? Who are you and why should I spend time talking to you?}
 {138}{}{I'm from Arroyo and I need to talk to you about saving thousands of lives.}
-{139}{}{I'm }
+{139}{}{Jag är}
 {140}{}{ and you better talk to me because I'm holding all the aces here.}
 {141}{}{You're right. There's nothing for us to talk about. You're a dead-man anyway.}
 {142}{}{Carry on, doctor. I'll be leaving you now. Goodbye.}

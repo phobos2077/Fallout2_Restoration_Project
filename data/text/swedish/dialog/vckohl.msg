@@ -84,7 +84,7 @@
 {175}{}{Oh. I had some other questions...}
 {176}{}{Sorry to hear it. I have to go.}
 {177}{}{That's how I feel as well! I have nothing against electronic format mind you, but there is a certain... solidity... in having a book in your hands and turning the pages one by one. Hmmm. You know...}
-{178}{}{Yes?}
+{178}{}{Ja?}
 {179}{}{Oh. I had some other questions...}
 {180}{}{Sorry to hear it. I have to go.}
 {181}{}{They haven't shipped all the books out to the Amenities Offices yet. I know Randal won't miss them if I gave them to someone who appreciated them... someone like yourself.}

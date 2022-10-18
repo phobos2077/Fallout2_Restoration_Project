@@ -17,7 +17,7 @@
 {116}{}{K'}
 {117}{}{Me go.}
 {118}{}{Nice talk. Go now. Tired am I.}
-{119}{}{[END]}
+{119}{}{[SLUT]}
 {120}{}{Talk give pain in head. Go.}
 {121}{}{Done me talk to you.}
 {122}{}{No talk. Go.}

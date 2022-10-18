@@ -47,7 +47,7 @@
 {135}{}{In the course of my research I perform... experiments on test
  subjects. Sometimes they get a little vocal. The base commander found
  this to be disturbing so he had the soundproofing installed.}
-{136}{}{Oh...}
+{136}{}{Åh...}
 {137}{}{I see.}
 {138}{}{Big, brown, and ugly? It's an experiment that I've recently
  completed. It's scheduled for termination.}
@@ -68,7 +68,7 @@
  That maybe they were a lot smarter than they were letting on. So
  when I was transferred here I brought one of them with me so I
  could put my theory to the test.}
-{147}{}{And?}
+{147}{}{Och?}
 {148}{}{I was right! The deathclaws have apparently been playing
  dumb, biding their time, and trying to learn as much as they can
  from us. They can even mimic human speech! I've actually had a
@@ -113,7 +113,7 @@
 {179}{}{As punishment I disabled his legs but left him pretty much
  functional otherwise. Now he gets to sit there and watch every
  distasteful thing I do.}
-{180}{}{Oh...}
+{180}{}{Åh...}
 {181}{}{He be fixed?}
 {182}{}{I see.}
 {183}{}{Can he be fixed?}

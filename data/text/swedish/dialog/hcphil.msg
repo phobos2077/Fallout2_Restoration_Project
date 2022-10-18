@@ -18,7 +18,7 @@
 {115}{}{Nuka-Cola.}
 {116}{}{Beer.}
 {117}{}{Rotgut.}
-{118}{}{Nothing.}
+{118}{}{Ingenting.}
 {119}{}{Nothing, sorry. Bye!}
 {120}{}{Fine, pal. Be that way. I'm Phil. I own this place and run it. What'll it be?}
 {126}{}{Undercover, eh? I guess I can understand that. I'm Phil, by the way. What'll it be?}

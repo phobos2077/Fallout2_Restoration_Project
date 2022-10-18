@@ -93,7 +93,7 @@
 {367}{}{(Blinks as chips change hands) Well, now... hell, I don't know what to say. }
 {368}{}{That was mighty kind of you, boy... er, mister. I...}
 {369}{}{That was mighty kind of you, girlie... er, miss. I...}
-{370}{}{Yes?}
+{370}{}{Ja?}
 {375}{}{Don't you DARE turn yore back on me, boy!}
 {376}{}{Don't you DARE turn yore back on me, girlie!}
 {385}{}{}

@@ -3,7 +3,7 @@
 {102}{}{You see a well-dressed man whose face looks like it's on the verge of hysteria.}
 {103}{}{Who are you? What are you doing in my house?}
 {104}{}{Ack? Oop?}
-{105}{}{I'm }
+{105}{}{Jag är}
 {106}{}{Nobody important.}
 {107}{}{I'm here to rob you.}
 {108}{}{Nothing. Nobody. Bye.}

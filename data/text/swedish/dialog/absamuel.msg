@@ -66,10 +66,10 @@
 {702}{}{Glad to help. I got some questions though.}
 {703}{}{Well, take care then.}
 {704}{}{I don't think open graves are the real reason you're falling down Samuel, but you take it easy now.}
-{1000}{}{*Whistle*}
+{1000}{}{*Vissling*}
 {1001}{}{*Cough* *Cough*}
 {1002}{}{*Clears throat*}
-{1003}{}{*Cough*}
-{1004}{}{*Sigh*}
-{1005}{}{*Hickup*}
+{1003}{}{*Host*}
+{1004}{}{*Suck*}
+{1005}{}{*Hick*}
 {2000}{}{It's been a *hickup* long day. Come back in th' morning.}

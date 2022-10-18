@@ -110,7 +110,7 @@
 {521}{}{Easier than riding a bicycle. Or your mother! Ha-Ha-Ha-Ha-Ha!}
 {522}{}{Yes. Myron is -- the Science God.}
 {523}{}{Beep. Myron has used the SCIENCE skill successfully.}
-{530}{}{Nothing.}
+{530}{}{Ingenting.}
 {531}{}{Nada.}
 {532}{}{No luck.}
 {533}{}{Crap! I tried everything...}
@@ -657,5 +657,5 @@
 {6257}{}{ fren?}
 {6287}{}{ go.}
 {6298}{}{ go, }
-{6379}{}{I'm }
+{6379}{}{Jag är}
 {6525}{}{Sure would. I'd make them see what they'd really lost.}

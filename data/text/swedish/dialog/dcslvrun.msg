@@ -14,7 +14,7 @@
 {161}{}{She looks like strong fighter.}
 {170}{}{You see a scrawny looking woman.}
 {171}{}{This one doesn't seem like much trouble.}
-{200}{}{Die!}
+{200}{}{Dö!}
 {201}{}{Where you at?}
 {202}{}{I'm gunna hurt you.}
 {210}{}{I'm going to get your for this!}

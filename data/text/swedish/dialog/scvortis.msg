@@ -52,7 +52,7 @@
 {151}{}{They work in secret, especially up north.}
 {152}{}{Jeez, I got to spell this out for you? They raid slavers, drive off the stock, and smuggle 'em down south to NCR lands where slavery's illegal. So you interested?}
 {153}{}{There is no "and"! You want the job or not?}
-{154}{}{And?}
+{154}{}{Och?}
 {155}{}{So what you want me to do?}
 {156}{}{Fine. When you get me a map, I'll be here.}
 {157}{}{Where am I going to find a map?}

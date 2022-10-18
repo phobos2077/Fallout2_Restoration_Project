@@ -55,7 +55,7 @@
 {154}{}{Hmmmm. I need to get a Servant to hose out the store room...}
 {155}{}{A Servant should be over later to weed the garden...}
 {156}{}{That Council meeting yesterday was very productive. We made *lots* of lists. We here at Vault City love to make lists.}
-{157}{}{Yes?}
+{157}{}{Ja?}
 {158}{}{Pardon me, can I help you?}
 {159}{}{It's polite to ask before entering someone's house.}
 {160}{}{Please wipe your feet before entering the house.}

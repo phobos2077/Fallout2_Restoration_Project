@@ -22,7 +22,7 @@
 {217}{}{Need something?}
 {218}{}{Nice to see you again. How can I help you today?}
 {219}{}{What?}
-{220}{}{Yes?}
+{220}{}{Ja?}
 {221}{}{Now what?}
 {222}{}{Please keep it short. It's a busy day. What do you need?}
 {223}{}{What can I do for you? I'm really busy.}

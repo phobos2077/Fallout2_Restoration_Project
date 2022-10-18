@@ -55,7 +55,7 @@
 {149}{}{The servants? Oh, we use them for menial tasks.}
 {150}{}{That Council meeting yesterday was very productive. We made *lots* of lists. We here at Vault
  City love to make lists.}
-{151}{}{Yes?}
+{151}{}{Ja?}
 {152}{}{Something I can help you with... Outsider?}
 {153}{}{I'm sorry, did you say something?}
 {154}{}{Me? I'm going about my business. Perhaps you should, too.}

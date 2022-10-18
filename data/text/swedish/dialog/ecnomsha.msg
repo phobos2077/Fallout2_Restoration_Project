@@ -33,9 +33,9 @@
  measured doses of the powder.]}
 {131}{}{Hej då.}
 {132}{}{You seem to be short on cash. Return later when your purse is fatter.}
-{133}{}{[END]}
+{133}{}{[SLUT]}
 {134}{}{I do not have time for such nonsense. Leave!}
-{135}{}{[END]}
+{135}{}{[SLUT]}
 {136}{}{[Poisoned]}
 {137}{}{[Injured]}
 {138}{}{[Radiated]}

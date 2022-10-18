@@ -25,7 +25,7 @@
 {304}{}{I protect!}
 {305}{}{I hurt you!}
 {306}{}{You pay!}
-{307}{}{Die!}
+{307}{}{Dö!}
 {308}{}{I'm gonna hurt you.}
 {350}{}{You're not going to take my family, slaver!}
 {351}{}{Die, slaving scum!}

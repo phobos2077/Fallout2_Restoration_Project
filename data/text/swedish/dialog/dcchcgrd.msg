@@ -43,4 +43,4 @@
 {203}{}{Just finish up your business, thank you.}
 {250}{}{You know, pal, I've had enough of your shit!}
 {251}{}{You know, bitch, I've had enough of your shit!}
-{252}{}{[END]}
+{252}{}{[SLUT]}

@@ -55,5 +55,5 @@
 {154}{}{What the hell do you want?}
 {155}{}{Bugger off.}
 {156}{}{Go pester someone else.}
-{157}{}{Yes?}
+{157}{}{Ja?}
 {158}{}{This work is very delicate, go away.}

@@ -14,7 +14,7 @@
 {108}{}{}
 {109}{}{What the... Who the hell are you?}
 {110}{}{I'm Corporal Dixon.}
-{111}{}{I'm }
+{111}{}{Jag är}
 {112}{}{Urg!}
 {113}{}{[You are unable to read what's on the monitor.]}
 {114}{}{Error!
@@ -30,7 +30,7 @@
     Please Input Identity}
 {120}{}{}
 {121}{}{I'm Corporal Dixon.}
-{122}{}{I'm }
+{122}{}{Jag är}
 {123}{}{I'm a friend.}
 {124}{}{Exit.}
 {125}{}{Picture does not match that of Corporal Dixon's personnel file.

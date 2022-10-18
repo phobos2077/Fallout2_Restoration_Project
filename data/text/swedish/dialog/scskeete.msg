@@ -39,7 +39,7 @@
 {138}{}{Farväl.}
 {139}{}{Bye-bye.}
 {140}{}{Whoa, thought communication! I'm picking up mental vibes! Okay, let me try... uhhh.... Uhhh...}
-{141}{}{Yes?}
+{141}{}{Ja?}
 {142}{}{No?}
 {143}{}{You are a goddamn head case! I'm out of here.}
 {144}{}{This is the NCR - the high, mighty, righteous, absolutely and always correct New California Republic. They are the ones who will lead people like us out of the wasteland and into the new and perfect future. Can you dig it?}

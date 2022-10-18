@@ -32,7 +32,7 @@
 {126}{}{Hej då.}
 {127}{}{[He holds up his right hand and says] How. Me mighty trapper. Hunt big geckos. Me no mean
  trespass on your land. Leave peacefully. [He hands you a gecko pelt as a gift.]}
-{128}{}{[END]}
+{128}{}{[SLUT]}
 {129}{}{I've got no more business with you.}
 {130}{}{Yellow bellied sapsucker!}
 {131}{}{This is my hunting territory. Leave!}

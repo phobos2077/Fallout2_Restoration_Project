@@ -3,7 +3,7 @@
  to have difficulty breathing.}
 {151}{}{You see Louis Salvatore. He is carrying an oxygen tank, and he seems
  to have difficulty breathing.}
-{200}{}{*Cough*}
+{200}{}{*Host*}
 {201}{}{::Wheeze::}
 {202}{}{*Cough* *Cough*}
 {210}{}{Guards! Gu...*cough* *cough*...Guards!}

@@ -30,7 +30,7 @@
 {211}{}{Subject A.}
 {212}{}{Subject B.}
 {213}{}{Subject C.}
-{214}{}{Back.}
+{214}{}{Tillbaka.}
 {220}{}{Log Entry #87983: It's finally happened. They've launched their nukes at us and we've launched ours at them.
  Brass won't go into detail, but it's probably already Judgment Day topside by now. Radio communications have been disrupted
  indefinitely. Good thing I've grown used to this place. I've got no illusions about ever seeing the surface again.}

@@ -106,7 +106,7 @@
  He casually dresses himself in a finely tailored suit, then pockets the locker's contents. Utilizing a pocket comb,
  he begins to sculpt and style his slicked dark hair with the quick precision of a seasoned pro.] I don't think I've
  seen you around, doll, and I doubt I'd forget a face like yours. Name's Dex, but I'm sure you know that. Mind if I ask yours?}
-{421}{}{I'm }
+{421}{}{Jag är}
 {422}{}{. But you should know I've got a strict rule of not dating any strange men I unthaw. Since you've been on ice for the past century and a half, I'll assume your hand spasmed and accidentally slapped my ass. But if it happens again, I'll rip your cock off. Got it?}
 {423}{}{My name's }
 {424}{}{. It's nice to meet you, Dex. I can't imagine what it must be like to wake up after being frozen for over a hundred and fifty years.}
@@ -268,7 +268,7 @@
  He casually dresses himself in a finely tailored suit, then pockets the locker's contents. Utilizing a pocket comb, he
  begins to sculpt and style his slicked dark hair with the quick precision of a seasoned pro.] I don't think I've seen
  you around, doll, and I doubt I'd forget a face like yours. Name's, Dex, but I'm sure you know that. Mind if I ask yours?}
-{821}{}{I'm }
+{821}{}{Jag är}
 {822}{}{. But you should know I've got a strict rule of not dating any strange men I unthaw. Since you've been on ice for the past century and a half, I'll assume your hand spasmed and accidentally slapped my ass. But if it happens again, I'll rip your cock off. Got it?}
 {823}{}{My name's }
 {824}{}{. It's nice to meet you, Dex. I can't imagine what it must be like to wake up after being frozen for over a hundred
@@ -589,5 +589,5 @@ and fifty years.}
 {4260}{}{Why the hell are we even wasting our time here? Seriously?}
 {4270}{}{I don't think I want to willingly spend any more of my time in this facility.}
 {5000}{}{[He snaps his head towards you and leaps to his feet. As he looks at you, his eyes suddenly get really wide and he starts gasping for air.]}
-{5001}{}{[END]}
+{5001}{}{[SLUT]}
 {5002}{}{Holy shit!}

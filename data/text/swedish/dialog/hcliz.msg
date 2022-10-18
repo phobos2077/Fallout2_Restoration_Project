@@ -11,7 +11,7 @@
 {109}{}{I want to kill something. What's around?}
 {110}{}{What's up with the guns in your basement?}
 {111}{}{I understand you have a surplus of weapons. I need some.}
-{112}{}{Nothing.}
+{112}{}{Ingenting.}
 {113}{}{Oh, god... another addle-headed mutant baby. When will someone just shoot these things?}
 {114}{}{Gurgle.}
 {115}{}{Speak slowly and clearly and I'll see if I can help you.}
@@ -87,7 +87,7 @@
 {181}{}{That's it! Get over here!}
 {182}{}{What else are you going to bother me with?}
 {183}{}{Tack.}
-{184}{}{[CONTINUE]}
+{184}{}{[FORTSÄTT]}
 {185}{}{Hey! Who the hell is out there?}
 {186}{}{I don't know who you are, but I'm comin' for ya'.}
 {200}{}{Do you have anything special you could set me up with that isn't on the shelves?}

@@ -4,7 +4,7 @@
 {103}{}{This nun looks like she knows a thing or two about computers.}
 {200}{}{Don't break anything.}
 {201}{}{Sorry, I'm rather busy at the moment.}
-{202}{}{Greetings.}
+{202}{}{Hälsningar.}
 {203}{}{Feel free to look around.}
 {204}{}{We copy the knowledge for the future generations.}
 {205}{}{These old books are very fragile.}

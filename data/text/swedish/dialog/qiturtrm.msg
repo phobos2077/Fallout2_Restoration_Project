@@ -19,7 +19,7 @@
 {118}{}{Enter User ID:}
 {119}{}{(Let me try this) List users.}
 {120}{}{(I wonder if this'll work?) Smith, J.}
-{121}{}{Back.}
+{121}{}{Tillbaka.}
 {123}{}{I think I better do this somewhere else.}
 {124}{}{Listing (the terminal displays a list of about 500 names).}
 {125}{}{Listing (the computer displays a list of names).}

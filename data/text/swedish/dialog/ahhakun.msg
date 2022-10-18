@@ -158,10 +158,10 @@
 {257}{hak105}{Yes. Great sadness and pain. I stand between worlds to tell you, Chosen. Save your people.}
 {258}{}{Eh?}
 {259}{hak106}{Chosen, please let my words touch you. Go southwest. South and west. Save our people. Save our people.}
-{260}{}{Uh-huh..}
+{260}{}{Aha.}
 {261}{hak107}{Thank the ancestors. Now my soul may join the eternal song. Safe journey, Chosen.}
-{262}{}{Go?}
-{263}{hak108}{Go!...}
+{262}{}{Gå?}
+{263}{hak108}{Gå!...}
 {264}{}{Bye bye.}
 {265}{hak109}{Dark souls came. They took everyone.}
 {266}{}{Dark souls? What do you mean?}

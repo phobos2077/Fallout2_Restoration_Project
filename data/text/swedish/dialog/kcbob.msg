@@ -16,7 +16,7 @@
 {150}{}{Howdy stranger, my name's Whiskey Bob. What's yours?}
 {151}{}{My name's }
 {152}{}{. Nice to meet you Whiskey Bob.}
-{153}{}{I'm }
+{153}{}{Jag är}
 {154}{}{. What's happening here in town?}
 {155}{}{I don't think you need to know my name.}
 {160}{}{Always nice to find another drinking buddy. Wanna buy me a drink? Talking always makes me

@@ -4,7 +4,7 @@
  he is more of a mechanic than a soldier.}
 {103}{}{Name's Quincy, soldier. Why are you tapping my shoulder and looking lost?}
 {104}{}{Me need ask you something.}
-{105}{}{Nothing.}
+{105}{}{Ingenting.}
 {106}{}{Hi. I need to ask you something.}
 {107}{}{Never mind.}
 {108}{}{All right, but make it quick. I have inventory to do.}
@@ -30,7 +30,7 @@
 {127}{}{I've got some friends down south who want to get their hands on them.}
 {128}{}{I was told by the Sarge to get them.}
 {129}{}{Down south... Holy shit! We've got a spy here! Guards! Alert!}
-{130}{}{Ooops.}
+{130}{}{Ojdå.}
 {131}{}{Ooops. Put my foot in it this time.}
 {132}{}{You're one round short of a full clip, aren't you? Well, they call you
  grunts for a reason. Look, Einstein, I can't give you the plans without

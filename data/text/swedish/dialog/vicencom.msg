@@ -196,7 +196,7 @@
 {272}{}{Oooooooh. Dat tynglzzz.}
 {300}{}{As you are about to return to the archive listing, you skillfully notice a hidden entry in the list of archives..}
 {301}{}{As you are about to log off the terminal, you skillfully notice a hidden entry in the list of archives.}
-{302}{}{[CONTINUE]}
+{302}{}{[FORTSÄTT]}
 {303}{}{After a few minutes you are able to gain access to the locked archive. There is only one file listed and it is
  entitled "Classified." It looks like your skill points in Science are paying off.}
 {304}{}{[Read entry.]}

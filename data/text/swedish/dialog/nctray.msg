@@ -189,7 +189,7 @@
 {675}{}{What have you got for the car?}
 {690}{}{Damn, woman! I just gave you sweet love five minutes ago! You trying to KILL me?}
 {691}{}{You wanna go AGAIN? Damn, woman! Don't your legs EVER close?}
-{692}{}{Well...}
+{692}{}{Tja...}
 {693}{}{C'mon, I need a-fixin', and only YOUR sweet love is going to do it.}
 {710}{}{(Studies you, frowns) Yeah, sure you are. I know ALLA Bishop's lieutenants, and you ain't one of them.
  (Nods at the door.) Get outta here before I lose my temper.}
@@ -201,7 +201,7 @@
  more... (looks skeptical) ...bad-ass.}
 {731}{}{(Studies you.) You're }
 {732}{}{I'm legit. You challengin' me?}
-{733}{}{I'm }
+{733}{}{Jag är}
 {734}{}{Don't believe everything you hear. Let's talk about Mr. Bishop's car.}
 {735}{}{Forget this conversation. I'm outta here.}
 {745}{}{(Raises his hands in mock surrender) Naw, naw, I was just playin' witcha.}

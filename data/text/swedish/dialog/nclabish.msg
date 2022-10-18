@@ -45,7 +45,7 @@
 {255}{}{I'm a traveler, looking for Vault 13. Have you heard of it?}
 {256}{}{I'm a traveler... do you know where I could find something called the 'Garden of Eden Creation Kit?'}
 {257}{}{Look, maybe I better be going. Goodbye.}
-{260}{}{Yes?}
+{260}{}{Ja?}
 {261}{}{Can you tell me about Mr. Bishop?}
 {262}{}{Can you tell me about the Bishop Family?}
 {263}{}{Have you ever heard of a place called Vault 13?}
@@ -193,7 +193,7 @@
 {473}{}{Uh, thanks for the advice. I had some other, safer, questions...}
 {474}{}{I will. Goodbye.}
 {475}{}{Thanks for your time... and your advice, Mrs. Bishop.}
-{480}{}{*Sigh*}
+{480}{}{*Suck*}
 {481}{}{Another BEAUTIFUL Reno day. The devil must be dancing a jig.}
 {482}{}{Judging from the crowd in the casino, looks like more human sewage has washed into Reno...}
 {483}{}{Reno... "the biggest little cesspool in the world." Hmmmph.}
@@ -374,7 +374,7 @@
  Don't mention that place.}
 {736}{}{What happened?}
 {740}{}{JOHN happened. I used to live there. He visited once, I was pleasantly charmed because he was so... rough, I guess. Different from most Vault Citizens. Of course, he let me try some drugs and... (Sighs.)}
-{741}{}{And?}
+{741}{}{Och?}
 {745}{}{They had memory enhancers for the Pip-Boys there. Had dictionaries
  and encyclopedias stored on them. Took one of the lingual enhancers when I left, though I don't know why.}
 {746}{}{Where is this enhancer?}

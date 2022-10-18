@@ -114,7 +114,7 @@
 {430}{}{(Glares at you suspiciously.) Whaddya want?}
 {432}{}{I just wanted to know what kind of game you're playing. It looks like fun!}
 {433}{}{Uh... where are your parents?}
-{434}{}{Nothing.}
+{434}{}{Ingenting.}
 {440}{}{(The little man turns white, takes a step back, then turns and runs, screaming his head off.)}
 {441}{}{(The kid turns white, takes a step back, then turns and runs, screaming his head off.)}
 {442}{}{Hee hee... run, little mann! RUN!}

@@ -9,7 +9,7 @@
 {108}{}{Who are you?}
 {109}{}{What is this place?}
 {110}{}{I want some uranium.}
-{111}{}{Nothing.}
+{111}{}{Ingenting.}
 {112}{}{Forget it. Bye.}
 {113}{}{Look son, I'm sorry that you've got no mind. But you can't be here. Run along now.}
 {114}{}{[KLAR]}
@@ -22,12 +22,12 @@
 {121}{}{What is this place?}
 {122}{}{I want some ore refined.}
 {123}{}{I want some uranium.}
-{124}{}{Nothing.}
+{124}{}{Ingenting.}
 {125}{}{This is the refinery of Broken Hills. This is where we purify the ore dug from the mine. What do you want?}
 {126}{}{What is this place?}
 {127}{}{I want some ore refined.}
 {128}{}{I want some uranium.}
-{129}{}{Nothing.}
+{129}{}{Ingenting.}
 {130}{}{You don't have enough money. Come on back when you do.}
 {131}{}{[KLAR]}
 {132}{}{All right. Give us a day and we'll have it ready for you.}

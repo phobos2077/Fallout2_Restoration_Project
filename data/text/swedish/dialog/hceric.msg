@@ -29,7 +29,7 @@
 {128}{}{I've tried that. I've tried everything. The only thing that keeps the flies off me is not to sweat... and when I don't have enough power to keep cool, I can't.}
 {129}{}{I see. I have more questions.}
 {130}{}{I see. Goodbye.}
-{131}{}{Yes?}
+{131}{}{Ja?}
 {132}{}{I talked to Brian and he said the power rations are so tight that he can't possibly allow you to increase your share.}
 {133}{}{Where do the flies come from?}
 {134}{}{Have you tried bathing?}

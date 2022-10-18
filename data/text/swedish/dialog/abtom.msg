@@ -46,9 +46,9 @@
  lighter on some lad I dug up a couple weeks ago. I have no use for it and hopefully you might.}
 {304}{}{Thanks, Tom. I'm sure this'll come in handy. See you around.}
 {305}{}{(The old man nods and goes back to what he was doing.)}
-{306}{}{[END]}
+{306}{}{[SLUT]}
 {307}{}{Hello again. Thanks for everything!}
-{308}{}{*Whistle*}
+{308}{}{*Vissling*}
 {400}{}{You youngins never learn. You aint the boss of me. I think I'll just kill you instead.}
 {450}{}{Listen, I've dug up my share of graves too. I'm a bit of a kleptomaniac. What's your reason?}
 {451}{}{I'm not unfamiliar to grave digging, Tom. Every man has his own enjoyment. Now you be on your way.}

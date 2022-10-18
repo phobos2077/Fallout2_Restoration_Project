@@ -34,16 +34,16 @@
 {127}{}{Right then. Thank you for your help. Something for your trouble.}
 {128}{}{Wait! I am also on a quest. I seek the holy GECK. Have you seen it?}
 {129}{}{Well then, no sense in continuing this conversation. We're off.}
-{130}{}{[END]}
+{130}{}{[SLUT]}
 {131}{}{Bloody peasant!}
-{132}{}{[END]}
+{132}{}{[SLUT]}
 {133}{}{GECK, you said? Why yes, we have two of them. Don't need another one. Thanks all the same
  though.}
 {134}{}{Since you have two of them, maybe you could give me one.}
 {135}{}{No. No. Couldn't do that. Wouldn't be right to end your quest that easily. There's some more
  of them that way. Go get your own. [He points in a direction about the same way you pointed when you
  told him where the Holy Hand Grenade of Antioch was.]}
-{136}{}{[END]}
+{136}{}{[SLUT]}
 {200}{}{Do you speak the king's tongue?}
 {201}{}{Hellooo.}
 {202}{}{Hey, I'm over here.}

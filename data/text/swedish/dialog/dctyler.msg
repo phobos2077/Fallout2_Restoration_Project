@@ -60,7 +60,7 @@
 {340}{}{I don't think so. Now beat it.}
 {341}{}{Okej.}
 {342}{}{But!}
-{343}{}{Fine.}
+{343}{}{Bra.}
 {350}{}{Yeah, I bet you are. Who sent you?}
 {351}{}{Yeah, you said that already, fuck head. Who sent you?}
 {352}{}{Who do you think, moron? Now stop dicking around and let me in.}
@@ -68,9 +68,9 @@
 {354}{}{Okay, you'll regret that.}
 {360}{}{The what? Get outta here!}
 {361}{}{But...}
-{362}{}{Fine.}
+{362}{}{Bra.}
 {370}{}{Now what the hell does the boss want? Another stupid fucking inspection?}
-{371}{}{Yes?}
+{371}{}{Ja?}
 {372}{}{What now?}
 {373}{}{How's it going?}
 {374}{}{Sorry, gotta go.}
@@ -103,7 +103,7 @@
 {440}{}{Hey, what's up? Almost time for that party.}
 {441}{}{What's up?}
 {442}{}{I have some information you might be interested in.}
-{443}{}{Nothing.}
+{443}{}{Ingenting.}
 {444}{}{Uhg.}
 {445}{}{Urseco?}
 {450}{}{Damn, what the hell's wrong with you today? Lay off the drugs.}
@@ -153,5 +153,5 @@
 {800}{}{Who the- Hey! It's you. You came to *hickup* party with us. I knew you would. (Tyler stumbles over to you and grabs your shoulder)
  Did I ever tell you how much I-(He spies Lara's gang) What the fuck! No fuckin way! This party ain't endin *hickup* cause of some fuckin bitch
  and her cronies. Time to lock and load guys!}
-{801}{}{[END]}
+{801}{}{[SLUT]}
 {1255}{}{!}

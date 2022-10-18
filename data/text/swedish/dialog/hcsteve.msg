@@ -98,7 +98,7 @@
 {179}{}{To hell with you, pal. YOU'RE the ignorant one.}
 {180}{}{Oh, all right. You've got a point.}
 {181}{}{Anyway, that's all I wanted to say. Welcome to Broken Hills.}
-{182}{}{Wait.}
+{182}{}{Vänta.}
 {183}{}{Hej då.}
 {184}{}{If the mutants intended us harm, they'd have moved on us before now. They're not going to last
  forever -- in fact, most of them are going senile now. Building a community isn't going to help them

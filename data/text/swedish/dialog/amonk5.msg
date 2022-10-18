@@ -5,7 +5,7 @@
 {201}{}{Hej.}
 {202}{}{Now, did I backup those computer files today...}
 {203}{}{I'm sorry, but I don't have time for someone of your intelligence.}
-{300}{}{Yes?}
+{300}{}{Ja?}
 {301}{}{You guys sure have a lot of computers here.}
 {302}{}{What can you tell me about the Abbey?}
 {303}{}{Tell me about your leader.}
@@ -25,7 +25,7 @@
  caverns--but if I had to guess, I'd say it's probably just some overgrown radscorpion.}
 {407}{}{If you haven't seen it, then what makes you think it's a radscorpion?}
 {408}{}{Because I've heard sounds echoing up from the caves--the sounds of snapping claws and skittering legs.}
-{409}{}{Right.}
+{409}{}{Just det.}
 {410}{}{In fact, we do. Take a look on that computer over there. Here, you can use this card to access our encrypted files. [He hands you an access card.]}
 {411}{}{Wow, thanks a lot!}
 {412}{}{I don't know anything about Vault 13, but there is Vault City down south. Maybe they have the info you need.}

@@ -109,7 +109,7 @@
 {458}{}{All right then. Goodbye.}
 {465}{}{Awright, pal. What's yer name? I'll check with the boss.}
 {466}{}{Awright, hon. What's yer name? I'll check with the boss.}
-{467}{}{I'm }
+{467}{}{Jag är}
 {468}{}{.}
 {469}{}{You don't need my name. Just let me see him.}
 {471}{}{Forget it. You don't need to check... I'll be going.}

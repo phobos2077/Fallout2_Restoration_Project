@@ -40,7 +40,7 @@
 {139}{}{[KLAR]}
 {140}{}{Insults will get you nowhere, traveler, except removed from the Steel Palace. Kindly control your tongue.}
 {141}{}{Make me.}
-{142}{}{Fine.}
+{142}{}{Bra.}
 {143}{}{The Emperor remains hidden from prying eyes. As my job is to act as the Emperor's screen, I cannot and will not tell you where he is.}
 {144}{}{I have more questions.}
 {145}{}{Hej då.}

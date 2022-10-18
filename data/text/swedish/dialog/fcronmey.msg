@@ -8,7 +8,7 @@
 {107}{}{I hear you're the one who knows all about this ship.}
 {108}{}{Why do they call you the Captain?}
 {109}{}{How do you get this thing to go?}
-{110}{}{Nothing.}
+{110}{}{Ingenting.}
 {111}{}{I'm the Captain. I run the ship. Any more questions, go talk to one of the Shi or Badger or someone. I don't have time for you.}
 {112}{}{[KLAR]}
 {113}{}{This ship's a Poseidon tanker. It's equipped with tech that lasted through the war. It's got a FOB that allows access to the navigation computer room, and its got an IFF transponder that protects it from Poseidon guns. Course, that ain't gonna help you any against that old Chinese sub, so you best hope that thing's as dead as she looks.}

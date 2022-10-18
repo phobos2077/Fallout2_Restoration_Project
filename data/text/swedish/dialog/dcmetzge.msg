@@ -117,7 +117,7 @@
 {366}{}{How about someone else?}
 {367}{}{Well, let me ask you another question then.}
 {368}{}{Okej.}
-{369}{}{Fine.}
+{369}{}{Bra.}
 {370}{}{Okej.}
 {371}{}{Not worth it.}
 {372}{}{Nej.}

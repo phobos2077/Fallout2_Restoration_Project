@@ -12,14 +12,14 @@
 {111}{}{Never mind.}
 {112}{}{This is the base commander's office. This area is off limits to all personnel. I'll have to ask you to leave, sir.}
 {113}{}{Me have business with commander.}
-{114}{}{Fine.}
+{114}{}{Bra.}
 {115}{}{I have business with the commander.}
 {116}{}{All right.}
 {117}{}{What is the nature of your business, sir?}
 {118}{}{Eh...}
 {119}{}{Shit. Me screw up...}
 {120}{}{Never mind. Me go.}
-{121}{}{Well...}
+{121}{}{Tja...}
 {122}{}{Uh, we got a call from base security. Seems they're worried about the tanker passkey getting into the wrong hands. We're to lock it up.}
 {123}{}{I'm leaving.}
 {124}{}{Sir, this is your final warning. I have to ask you to leave this area.}

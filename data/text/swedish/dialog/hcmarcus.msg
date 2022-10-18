@@ -94,7 +94,7 @@
 {193}{}{Chad kept about $1000 from the last uranium shipment for himself. He's planning on bailing outta town. I got a briefcase of documents to prove it.}
 {194}{}{Nothing. Forget it.}
 {195}{mcs24}{Tunnels under the city? Guess it's not that surprising with the mines around. You'll keep looking around for those folks, right? }
-{196}{}{Right.}
+{196}{}{Just det.}
 {197}{mcs25a}{They're dead? Damn... I'll tell the families myself. }
 {198}{mcs25b}{Here's your reward. $500. Thanks for your time.}
 {199}{mcs25c}{Oh, hey, I know you said you'd do this for free, but take this as our thanks.}
@@ -215,7 +215,7 @@
 {314}{}{Northeast.}
 {315}{}{Don't ask me. I don't know. }
 {316}{}{Yep.}
-{317}{}{Right.}
+{317}{}{Just det.}
 {318}{}{Nepp.}
 {319}{}{Why're you talking to me like this?}
 {320}{}{Not very nice.}

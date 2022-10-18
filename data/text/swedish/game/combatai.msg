@@ -963,7 +963,7 @@
 {2344}{}{Got any last words?}
 {2345}{}{Take this!}
 {2346}{}{Die! Die! Die! Die! Die!}
-{2347}{}{Die!}
+{2347}{}{Dö!}
 {2348}{}{Let's open you up a little...}
 {2349}{}{You're dogfood, friend.}
 {2350}{}{You've fought the rest, now it's time for the best!}
@@ -1039,7 +1039,7 @@
 {2545}{}{Shouldn't start what you can't finish.}
 {2546}{}{Hope you don't die too quickly.}
 {2547}{}{Only one of us is walking away.}
-{2548}{}{Die!}
+{2548}{}{Dö!}
 {2549}{}{I eat punks like you for breakfast.}
 {2550}{}{I'm gonna feed you to my pet iguana.}
 {2551}{}{The last thing you'll see is my grinnin' face.}
@@ -1253,7 +1253,7 @@
 {3145}{}{I'm gonna eat your liver!}
 {3146}{}{Hope you don't die too quickly!}
 {3147}{}{Dinnertime!}
-{3148}{}{Die!}
+{3148}{}{Dö!}
 {3149}{}{I eat punks like you for breakfast, and lunch.}
 {3150}{}{How can anything this messy be bad?}
 {3151}{}{Lemme' just have a taste!}
@@ -1451,7 +1451,7 @@
 {12145}{}{I'm gonna eat your liver!}
 {12146}{}{Hope you don't die too quickly!}
 {12147}{}{Dinnertime!}
-{12148}{}{Die!}
+{12148}{}{Dö!}
 {12149}{}{I eat punks like you for breakfast, and lunch.}
 {12160}{}{You cannot hurt me!}
 {12161}{}{Missed me!}
@@ -1984,7 +1984,7 @@
 {32643}{}{... something for your sister...}
 {32644}{}{... and something for your ancestors!}
 {32645}{}{Get out!}
-{32646}{}{Die!}
+{32646}{}{Dö!}
 {32647}{}{Goodbye!}
 {32648}{}{Let me dishonor you!}
 {32649}{}{Your presence offends me.}
@@ -2192,7 +2192,7 @@
 {36144}{}{I'm gonna eat your liver!}
 {36145}{}{Hope you don't die as quickly as the others!}
 {36146}{}{Another Chosen One to kill!}
-{36147}{}{Die!}
+{36147}{}{Dö!}
 {36148}{}{Scream for me.}
 {36160}{}{You cannot hurt me!}
 {36161}{}{The spirits are protecting me.}
@@ -2218,7 +2218,7 @@
 {36245}{}{I'm gonna carve your heart out with a spoon!}
 {36246}{}{Hope you don't die as quickly as the others!}
 {36247}{}{Another Chosen One to kill!}
-{36248}{}{Die!}
+{36248}{}{Dö!}
 {36249}{}{Scream for me.}
 {36260}{}{You cannot hurt me!}
 {36261}{}{The spirits are protecting me.}
@@ -2243,7 +2243,7 @@
 {36344}{}{I'm gonna carve your heart out with a spoon!}
 {36345}{}{Hope you don't die as quick as the others.}
 {36346}{}{Another Chosen One to kill!}
-{36347}{}{Die!}
+{36347}{}{Dö!}
 {36348}{}{Scream for me.}
 {36360}{}{You cannot hurt me!}
 {36361}{}{The spirits are protecting me.}
@@ -2269,7 +2269,7 @@
 {36445}{}{I'm gonna carve your heart out with a spoon!}
 {36446}{}{Hope you don't die as quickly as the others!}
 {36447}{}{Another Chosen One to kill!}
-{36448}{}{Die!}
+{36448}{}{Dö!}
 {36449}{}{Scream for me.}
 {36460}{}{You cannot hurt me!}
 {36461}{}{The spirits are protecting me.}
@@ -2294,7 +2294,7 @@
 {36544}{}{I'm gonna take your head back to the Elder!}
 {36545}{}{It ends here Chosen One!}
 {36546}{}{Kaga has to kill you now!}
-{36547}{}{Die!}
+{36547}{}{Dö!}
 {36548}{}{Scream for me.}
 {36560}{}{You cannot hurt me!}
 {36561}{}{The spirits are protecting me.}
@@ -2426,7 +2426,7 @@
 {36851}{}{Here's a gift from the people you murdered.}
 {36852}{}{Do you feel lucky?}
 {36853}{}{Catch!}
-{36854}{}{Die!}
+{36854}{}{Dö!}
 {36855}{}{No mercy!}
 {36856}{}{You'd better start praying.}
 {36857}{}{I'm sorry I have to do this. Just kidding.}

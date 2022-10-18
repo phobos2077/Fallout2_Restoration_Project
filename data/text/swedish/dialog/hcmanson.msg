@@ -47,7 +47,7 @@
 {137}{}{You? Smart? Ha!}
 {138}{}{Sure. Bye.}
 {139}{}{Wha'?}
-{140}{}{Nothing.}
+{140}{}{Ingenting.}
 {141}{}{Yeah, I think he's one of the wisest people I ever knew. Jacob's smart, but he ain't as
  straight up as Franc.}
 {142}{}{Franc's just a virulent scumbag. He won't get you anywhere.}

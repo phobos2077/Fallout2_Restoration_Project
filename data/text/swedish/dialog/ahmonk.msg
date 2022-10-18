@@ -62,7 +62,7 @@
  destroy this knowledge, for fear that it would once again guide humanity towards apocalypse. But it was eventually
  decided that they would instead dedicate themselves to ensuring the preservation of the books, to be released when,
  and if, the world was ready for it.}
-{438}{}{(More)}
+{438}{}{(Mer)}
 {439}{}{And so, utilizing a small printing press, they began making copies of the books, and also transcribing them
  into the Abbey's computers to preserve them digitally, should the physical books ever be destroyed. Over the long years,
  others have come across the Abbey, and some have elected to stay and live out their lives in the tranquil quiet of our mountain home.}
@@ -140,7 +140,7 @@
 {1030}{}{I find book.}
 {1031}{}{That's great. Thanks. You're one special guy.}
 {1032}{}{That's great. Thanks. You're one special gal.}
-{1033}{}{YAY.}
+{1033}{}{JIPPIE.}
 {1100}{}{I was down there earlier. I saw a few dead bodies, so I'm guessing one of them belonged to your missing monk. If
  it makes you feel any better, I killed the thing responsible for his death.}
 {1110}{}{Ah... so it's as I feared. Brother Thomas shall be dearly missed. You have my thanks for ridding us of whatever

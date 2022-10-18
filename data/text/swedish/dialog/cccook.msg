@@ -45,7 +45,7 @@
 {141}{}{Got it.}
 {142}{}{That's interesting. }
 {143}{}{Ha! We're talking romance, my friend. It seems one of the computer geeks has fallen for one of the grunts, the guard outside med lab. Even has one of those cutesy names for her. Calls her "Snookie" of all things.}
-{144}{}{Cute.}
+{144}{}{Söt.}
 {145}{}{Nah, that's it around this place. If I hear anything more I'll let ya know. I like talking about it just as much as I like hearing it!}
 {146}{}{Tack.}
 {147}{}{Why ya interested in those? Oh well, no matter. Quincy keeps them over in maintenance I think. }
@@ -68,8 +68,8 @@
 {163}{}{Take the elevator in the next room down, follow the hallway to the main junction, and go straight. }
 {164}{}{Tack.}
 {165}{}{Hey, soldier. Good to hear from you again. Grub or talk this time?}
-{166}{}{Food.}
-{167}{}{Chitchat.}
+{166}{}{Mat.}
+{167}{}{Småprat.}
 {168}{}{Me just say hi.}
 {169}{}{Neither, I'm just saying hi.}
 {170}{}{Here ya go. It's dead, it's cooked, it's unidentifiable. Enjoy.}

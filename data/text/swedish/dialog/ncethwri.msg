@@ -3,7 +3,7 @@
 {151}{}{You see Mrs. Wright. She seems to be depressed and is sighing to herself.}
 {175}{}{You see a plump, rosy-cheeked woman. She seems to be in good spirits and is humming to herself.}
 {176}{}{You see Mrs. Wright. She seems to be in good spirits and is humming to herself.}
-{200}{}{*Sigh*}
+{200}{}{*Suck*}
 {201}{}{How could he do this to me?}
 {205}{}{Another fine Reno day!}
 {206}{}{::Whistle while you work...::}
@@ -162,7 +162,7 @@
 {427}{}{All right, all right! I'm leaving!}
 {428}{}{Jeez-Louise. Loosen those drawstrings a little before they cut off your circulation.}
 {430}{}{(Squints at you, then her gaze travels to your slaver brand. Her tone becomes glacial.) }
-{431}{}{Yes?}
+{431}{}{Ja?}
 {432}{}{You again. We have NOTHING to talk about.}
 {433}{}{Me... uh... me... me wanted to... uh... me looking for... uh... dam! Me hate bein stoopid! Me hate!}
 {434}{}{I... uh... ooooh, shiny thing!}

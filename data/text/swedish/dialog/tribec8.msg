@@ -2,7 +2,7 @@
 {101}{}{You see a fisherwoman.}
 {102}{}{He is carrying a sharpened pole used for fishing.}
 {103}{}{She appears to be busily cooking.}
-{104}{}{Greetings.}
+{104}{}{Hälsningar.}
 {200}{}{You're not welcome here.}
 {201}{}{The spirits do not like you.}
 {202}{}{Go away, outworlder.}

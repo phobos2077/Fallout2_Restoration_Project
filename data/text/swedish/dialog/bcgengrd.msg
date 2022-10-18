@@ -43,4 +43,4 @@
 {142}{}{I don't think the generator just fixes itself, does it?}
 {143}{}{That was kind of weird; now I can see. Jesus, this place looks like shit!}
 {144}{}{Wow, it's bright in here. Where's the dimmer control?}
-{145}{}{Die!}
+{145}{}{Dö!}

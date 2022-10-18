@@ -35,7 +35,7 @@
 {134}{}{One moment please while I open the suspension tank... Please lie down in the tank and relax. Anti-radiation compounds will be administered and then tissue damage will be repaired. This process will require 60 minutes.}
 {135}{}{Ok.}
 {136}{}{Nej.}
-{137}{}{Fine.}
+{137}{}{Bra.}
 {138}{}{I changed my mind.}
 {139}{}{One moment please while I open the suspension tank... Please lie down in the tank and relax. Restructuring of impaired limbs requires 24 hours.}
 {140}{}{Ok.}
@@ -120,7 +120,7 @@
 {219}{}{Ok.}
 {220}{}{That's interesting.}
 {221}{}{The Brotherhood of Steel is a paramilitary organization dedicated to the salvation of mankind through the proper use of technology. All other information is classified.}
-{222}{}{Back.}
+{222}{}{Tillbaka.}
 {223}{}{What happened to Matt?}
 {224}{}{Loading sequence...}
 {225}{}{Replay it now.}

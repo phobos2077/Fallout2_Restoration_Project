@@ -52,7 +52,7 @@
 {151}{}{Mon-ey.}
 {152}{}{I'm here to collect my pay.}
 {153}{}{Your president said you should know there's a spy in your house - somebody named Feargus.}
-{154}{}{Nothing.}
+{154}{}{Ingenting.}
 {155}{}{Of course, she just buzzed me about it. A reward of $6000 and NCR thanks you, she said. Now, there is work to be done. Goodbye.}
 {156}{}{Let's see. Contract says $500. Here you are.}
 {157}{}{In fact, she just buzzed me to change your amount - seems you earned a bonus. Here it is, $900 and NCR's thanks. Now, there is work to be done, so goodbye.}

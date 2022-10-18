@@ -7,10 +7,10 @@
  slaver. What are you doing here?}
 {154}{}{My name is }
 {155}{}{. I'm here to get you out.}
-{156}{}{I'm }
+{156}{}{Jag är}
 {157}{}{, but why have you been locked in this room?}
 {158}{}{Can you tell me where Vault 13 is?}
-{159}{}{I'm }
+{159}{}{Jag är}
 {160}{}{. I'll be right back.}
 {161}{}{Dubba iba }
 {162}{}{.}

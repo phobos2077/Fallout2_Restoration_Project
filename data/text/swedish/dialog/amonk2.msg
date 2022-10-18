@@ -2,7 +2,7 @@
 {101}{}{You see a holy woman.}
 {102}{}{You see a regular Abbey monk.}
 {103}{}{You see a regular Abbey nun.}
-{200}{}{Greetings.}
+{200}{}{Hälsningar.}
 {201}{}{Welcome to the Abbey.}
 {202}{}{You should talk to our leader if you wish to gain any information.}
 {203}{}{Good day... or is it night already?}

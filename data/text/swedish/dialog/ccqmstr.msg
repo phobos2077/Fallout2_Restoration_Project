@@ -6,7 +6,7 @@
 {104}{}{What the... I can see why you're here. You obviously want
  to get rid of that antique suit you're wearing.}
 {105}{}{Why are you out of uniform, soldier?}
-{106}{}{Die!}
+{106}{}{Dö!}
 {107}{}{Uh, yeah...}
 {108}{}{Eh...}
 {109}{}{Me new here.}

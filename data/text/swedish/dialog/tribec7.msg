@@ -1,7 +1,7 @@
 {100}{}{You see a tribal woman.}
 {101}{}{You see Kurisu, Sulik's sister.}
 {102}{}{You see a young, full figured tribal woman with several piercings and tattoos.}
-{150}{}{[END]}
+{150}{}{[SLUT]}
 {200}{}{Sulik! [She catches herself and begins to whisper.] Do the spirits be teasing, or is that really you, brother?}
 {201}{}{Me? No, I'm the Chosen One. You must be thinking of old bone nose here.}
 {202}{}{[Sulik rushes to the gate door and clasps the outstretched hands of his sister. You turn away to give some privacy to their emotional reunion. Moments later, a twig snaps outside the building. Sulik lets go of his sister and reaches for his weapon as he glances at the door. No more sounds come from outside.]}

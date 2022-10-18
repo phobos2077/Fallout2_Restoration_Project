@@ -7,12 +7,12 @@
 {203}{}{Open}
 {204}{}{Wheat}
 {205}{}{Abre}
-{206}{}{[END]}
+{206}{}{[SLUT]}
 {300}{}{Incorrect door code. Locking door. Please contact the head of Public Relations for the override code.}
-{301}{}{[END]}
+{301}{}{[SLUT]}
 {400}{}{Confirm override code.}
-{401}{}{[END]}
+{401}{}{[SLUT]}
 {402}{}{This door is electronically locked.}
 {403}{}{Unlocking door. Thank you and have a pleasant day.}
-{404}{}{[END]}
+{404}{}{[SLUT]}
 {500}{}{There is no lock to pick.}

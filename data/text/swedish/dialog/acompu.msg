@@ -10,9 +10,9 @@
 {109}{}{Scan files for any information about GECK or VAULT 13.}
 {110}{}{Access other files.}
 {111}{}{Play Rock Paper Scissors.}
-{112}{}{Back.}
-{113}{}{Logoff.}
-{114}{}{[CONTINUE]}
+{112}{}{Tillbaka.}
+{113}{}{Logga ut.}
+{114}{}{[FORTSÄTT]}
 {115}{}{You find some files containing the keywords "GECK" and "Vault".}
 {116}{}{Browse files pertaining to "GECK".}
 {117}{}{Browse files pertaining to "Vault".}
@@ -49,10 +49,10 @@
  Of course, much user consideration has been put into this latest release. As with previous versions of Winblows, the common
  commands of Search, Add, Move, Delete, and Format are available to the user.}
 {142}{}{Format file system, including all backup databases on host and networked machines.}
-{143}{}{Back.}
+{143}{}{Tillbaka.}
 {144}{}{Formatting backup database... SUCCESS... Formatting current file system... WAITING... Warning: There has been a catastrophic error.
  Please stand by...}
-{145}{}{Wait.}
+{145}{}{Vänta.}
 {146}{}{...System Error: The operation completed successfully...(A screeching sound begins to emanate from inside the computer and others nearby.}
 {147}{}{[Walk Away.]}
 {148}{}{Error: No keyboard found. Please press any key to reboot.}
@@ -72,9 +72,9 @@
 {401}{}{Return to menu.}
 {402}{}{Search by topic.}
 {403}{}{Please enter a topic to search for.}
-{404}{}{Science.}
-{405}{}{Repair.}
-{406}{}{Medicine.}
+{404}{}{Vetenskap.}
+{405}{}{Reparation.}
+{406}{}{Medicin.}
 {407}{}{Weapon Usage.}
 {408}{}{Persuasive Arguments.}
 {410}{}{After a few hours of reading you learn more about the art of science.}
@@ -87,7 +87,7 @@
 {422}{}{After a few hours of reading you learn nothing new about the art of medicine.}
 {423}{}{After a few hours of reading you learn nothing new about the art of firing a gun.}
 {424}{}{After a few hours of reading you learn nothing new about the art of persuasion.}
-{430}{}{Back.}
+{430}{}{Tillbaka.}
 {500}{}{As you read over more articles, you learn the GECK was developed by Future-Tec, a division of Vault-Tec, and that
  it was standard issue in all Vault-Tec vaults. It was meant to be used upon exiting a Vault, to help re-establish life in
  the harsh environments of a world devastated by nuclear war.}

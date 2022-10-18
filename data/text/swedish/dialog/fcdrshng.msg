@@ -42,7 +42,7 @@
 {311}{}{[His eyes flare with rage] Kill her, my children! Her body shall make a fine host for your newest sibling!}
 {312}{}{[KLAR]}
 {320}{}{Excellent! Now I shall prepare your reward. Make yourself comfortable. This may take a little while.}
-{321}{}{[CONTINUE]}
+{321}{}{[FORTSÄTT]}
 {322}{}{Keep your reward. I don't have time to wait around.}
 {330}{}{Yes, bring the seeds to me and you may claim your reward.}
 {331}{}{I'll be back.}

@@ -145,7 +145,7 @@
 {244}{}{Never mind. I had some other questions.}
 {245}{}{I see. Maybe some other time.}
 {246}{}{Well, I'm gonna need another set of combat armor to get the extra assault plates. Good thing is, the plates'll double the strength of the original grafts, so they'll absorb 10% of the kick. Except...}
-{247}{}{Yes?}
+{247}{}{Ja?}
 {248}{}{Tell me about the other implants.}
 {249}{}{Never mind. I had some other questions.}
 {250}{}{I see. Maybe some other time.}
@@ -179,7 +179,7 @@
 {278}{}{Never mind. I had some other questions.}
 {279}{}{I see. Maybe some other time.}
 {280}{}{Well, I'm gonna need to scavenge thermal dissipaters from another set of combat armor. Good thing is, the dissipaters'll double the thermal resistance, absorbing 10% of the bite. But...}
-{281}{}{Yes?}
+{281}{}{Ja?}
 {282}{}{Tell me about the other implants.}
 {283}{}{Never mind. I had some other questions.}
 {284}{}{I see. Maybe some other time.}

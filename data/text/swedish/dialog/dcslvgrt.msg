@@ -34,7 +34,7 @@
 {252}{}{You ever heard of Vault 13?}
 {253}{}{Hej då.}
 {254}{}{Work.}
-{255}{}{Food.}
+{255}{}{Mat.}
 {256}{}{Kill.}
 {257}{}{Ug.}
 {270}{}{Ah, a bloodthirsty one. Well... Talk to the boss. We might have a place for ya. Go through the back door.}

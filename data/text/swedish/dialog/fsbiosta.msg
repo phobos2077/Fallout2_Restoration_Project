@@ -22,25 +22,25 @@
 {121}{}{Genetic program.}
 {122}{}{Xeno program.}
 {123}{}{Recent Personnel Notes.}
-{124}{}{Back.}
+{124}{}{Tillbaka.}
 {125}{}{(after about twenty minutes you piece together this information: Using the basics of FEV virus, Dr. Long Wang is convinced of success in creating mutant soldiers. He creates a serum providing interesting results with rodent experiments. He injects himself and dissolves into a puddle of goo. Dr. Sheng disables line of inquiry. With the death of Dr. Long, Dr. Sheng is in charge. Sheng demands focus on radiation-consuming plant life.)}
 {126}{}{Botany program.}
 {127}{}{Xeno program.}
 {128}{}{Recent Personnel Notes.}
-{129}{}{Back.}
+{129}{}{Tillbaka.}
 {130}{}{"The subject on which we had hoped to establish a series of meaningful experiments has disappeared, presumed either destroyed or stolen by the Hubologists. Further inquiries have proven fruitless. Until such time as further specimens are obtained, this database will remain inoperative."
 - Dr. Sheng}
 {131}{}{Botany program.}
 {132}{}{Genetic program.}
 {133}{}{Recent Personnel Notes.}
-{134}{}{Back.}
+{134}{}{Tillbaka.}
 {135}{}{Dr. Wong: New head of Biology Project, in addition to Physics Research.
 Dr. Sheng: Biology Project Head until two months ago. One month sabbatical with new "botany sentience serum" accounted for; further absence a puzzle. Dr. Wong assumes control of Biology Program.
 Dr. Long: Recently deceased via FEV serum.}
 {136}{}{Botany program.}
 {137}{}{Genetic program.}
 {138}{}{Xeno program.}
-{139}{}{Back.}
+{139}{}{Tillbaka.}
 {140}{}{Station deactivated.}
 {141}{}{Activate station.}
 {142}{}{-leave-}
