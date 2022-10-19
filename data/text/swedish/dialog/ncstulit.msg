@@ -108,7 +108,7 @@
 {401}{}{Someone's done you a disservice not telling you about me, pal. }
 {402}{}{Someone's done you a disservice not telling you about me, darling. }
 {404}{}{Hmmmph. So. What's your name?}
-{405}{}{Jag är}
+{405}{}{Jag är }
 {407}{}{You ever worked in a circus, Stuart?}
 {408}{}{"Stuart Little?"}
 {409}{}{There's a little more to me than my legs, Stuart. So be polite, or else you're going to have even more trouble getting

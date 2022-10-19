@@ -201,7 +201,7 @@
  more... (looks skeptical) ...bad-ass.}
 {731}{}{(Studies you.) You're }
 {732}{}{I'm legit. You challengin' me?}
-{733}{}{Jag är}
+{733}{}{Jag är }
 {734}{}{Don't believe everything you hear. Let's talk about Mr. Bishop's car.}
 {735}{}{Forget this conversation. I'm outta here.}
 {745}{}{(Raises his hands in mock surrender) Naw, naw, I was just playin' witcha.}

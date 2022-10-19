@@ -657,5 +657,5 @@
 {6257}{}{ fren?}
 {6287}{}{ go.}
 {6298}{}{ go, }
-{6379}{}{Jag är}
+{6379}{}{Jag är }
 {6525}{}{Sure would. I'd make them see what they'd really lost.}

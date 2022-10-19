@@ -4,7 +4,7 @@
 {200}{}{Halt! Do not attempt to come any closer. Identify yourself, intruder.}
 {201}{}{I'm the Chosen One of Arroyo. I'm exploring the EPA.}
 {202}{}{I'm not an intruder and now I need to be leaving.}
-{203}{}{Jag är}
+{203}{}{Jag är }
 {204}{}{, and I'm not trying to intrude, I'm just exploring.}
 {210}{}{Exploring!? Exploring... MY... EPA!? How dare you have the audacity to break in here and just casually wander around! Vollidiot! I have a half a mind to arrest you and toss your ass in the petting zoo -- give them freakshows a real feast!}
 {211}{}{No, wait! I'm not doing you any harm! Let me explain...}

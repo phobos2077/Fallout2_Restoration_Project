@@ -7,7 +7,7 @@
  never falters, his probing eye betrays a hint of suspicion.] So Krom here says I'm to do business with you today.
  [He shrugs.] Folks call me One-Eyed Roy, but I can't for the life of me figure out why. [He laughs heartily at his joke.]
  What's your name, friend?}
-{203}{}{Jag är}
+{203}{}{Jag är }
 {204}{}{ of Arroyo.}
 {205}{}{. Now let's get this underway.}
 {210}{}{A true pleasure to meetcha, }

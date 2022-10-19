@@ -52,7 +52,7 @@
 {151}{}{Well, welcome to Vault City, fellow Citizen.}
 {152}{}{We don't see many new faces around here. I'm Phyllis. What's your name?}
 {153}{}{My name's }
-{154}{}{Jag är}
+{154}{}{Jag är }
 {155}{}{If I wanted to give you my name, I would have told it to you, "Sy-phyllis"... or whatever the hell your name is.}
 {156}{}{Sorry, I don't have time to talk right now.}
 {157}{}{Why, of all the...! I have NEVER met someone as low-class as yourself. I suggest you leave. Now.}

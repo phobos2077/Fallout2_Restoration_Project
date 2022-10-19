@@ -8,7 +8,7 @@
 {107}{sgnt2b}{Well I'll be damned. I had the bunch of you escorted off this base and here you are again. I don't think you're civilians after all. More than likely you're all spies! Sound the alarm and execute these maggots!}
 {108}{sgnt3}{Welcome to Camp Navarro. So, you're the replacement. What's your name, private?}
 {109}{}{Uh... me }
-{110}{}{Jag är}
+{110}{}{Jag är }
 {111}{sgnt4}{Oh, lovely. They've sent me a mo-ron. Listen closely. You will stand guard at the hangar. This is your duty post. You will go there now and stay on guard until told otherwise. Now move it, soldier!}
 {112}{}{Me go.}
 {113}{sgnt5}{What was that? Did you forget something, maggot?}
