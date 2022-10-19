@@ -17,7 +17,7 @@
 {115}{}{You all same. Me leave.}
 {116}{}{Me}
 {117}{}{I see. Well I've got to go now.}
-{118}{}{I'm}
+{118}{}{Jag är}
 {119}{}{Got it.}
 {120}{}{Warrior! Ha! That's a good one. Know any more?}
 {121}{}{Dar guard hall and keep peace. Nothing more.}

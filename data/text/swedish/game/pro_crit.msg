@@ -8,9 +8,9 @@
 {501}{}{A small mutated scorpion.}
 {600}{}{Radskorpion}
 {601}{}{A mutated scorpion.}
-{700}{}{Deathclaw}
+{700}{}{Dödsklo}
 {701}{}{An immature deathclaw.}
-{800}{}{Deathclaw}
+{800}{}{Dödsklo}
 {801}{}{An immature deathclaw.}
 {900}{}{Dog}
 {901}{}{A canine, probably of a mixed breed.}
@@ -93,7 +93,7 @@
 {8200}{}{Wild Dog}
 {8201}{}{A mixed breed feral dog.}
 {8300}{}{Golden Gecko}
-{8400}{}{Deathclaw}
+{8400}{}{Dödsklo}
 {8500}{}{Deathclaw Spawn}
 {8600}{}{Tough Golden Gecko}
 {8700}{}{Lynette}

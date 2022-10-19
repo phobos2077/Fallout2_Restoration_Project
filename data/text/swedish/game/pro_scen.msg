@@ -208,13 +208,13 @@
 {10401}{}{Some sort of desert weed.}
 {10500}{}{Scrub}
 {10501}{}{Some sort of desert weed.}
-{10600}{}{Junk}
+{10600}{}{Skrot}
 {10601}{}{It's a rusted car door leaning on a rusted metal barrel. A whole lot of rust is going on.}
-{10700}{}{Junk}
+{10700}{}{Skrot}
 {10701}{}{A broken toilet, half-buried in the sand. Life's a pisser, then you die.}
 {10800}{}{Weeds}
 {10801}{}{Some sort of desert scrub. If it was growing in the recent past, it isn't now.}
-{10900}{}{Junk}
+{10900}{}{Skrot}
 {10901}{}{A car tire, buried in the sand. Some small pieces of wood are piled up around it.}
 {11000}{}{Rocks}
 {11001}{}{On closer examination, you think these might actually be pieces of petrified wood.}
@@ -228,11 +228,11 @@
 {11401}{}{A small pile of dirt.}
 {11500}{}{Weed}
 {11501}{}{A small pile of dirt, with a dry weed sticking out of it.}
-{11600}{}{Junk}
+{11600}{}{Skrot}
 {11601}{}{A twisted piece of rusted metal.}
-{11700}{}{Junk}
+{11700}{}{Skrot}
 {11701}{}{Some broken pieces of wood.}
-{11800}{}{Junk}
+{11800}{}{Skrot}
 {11801}{}{A small pile of random junk.}
 {11900}{}{Dirt}
 {11901}{}{A small pile of dirt.}
@@ -477,15 +477,15 @@
 {25001}{}{This is a functional lamp post.}
 {25100}{}{Gate}
 {25101}{}{The lock on this gate has been jammed shut and the bars look very sturdy.}
-{25200}{}{Junk}
+{25200}{}{Skrot}
 {25201}{}{Definitely useless junk, no doubt about it.}
-{25300}{}{Junk}
+{25300}{}{Skrot}
 {25301}{}{Definitely useless junk, no doubt about it.}
-{25400}{}{Junk}
+{25400}{}{Skrot}
 {25401}{}{Definitely useless junk, no doubt about it.}
-{25500}{}{Junk}
+{25500}{}{Skrot}
 {25501}{}{Definitely useless junk, no doubt about it.}
-{25600}{}{Junk}
+{25600}{}{Skrot}
 {25601}{}{Definitely useless junk, no doubt about it.}
 {25700}{}{Mailbox}
 {25701}{}{The mailbox is empty. You get the feeling it's been that way for a while.}
@@ -515,19 +515,19 @@
 {26901}{}{The newspaper machine is empty.}
 {27000}{}{Newspaper Machine}
 {27001}{}{The newspaper machine is empty. It looks like it once held adult magazines.}
-{27100}{}{Junk}
+{27100}{}{Skrot}
 {27101}{}{A bed mattress in terrible condition. Even the rats won't sleep in or on it.}
-{27200}{}{Junk}
+{27200}{}{Skrot}
 {27201}{}{A twin bed mattress that has seen many better days than this one.}
-{27300}{}{Junk}
+{27300}{}{Skrot}
 {27301}{}{A pile of rotted and weathered wood. Not worth it's weight in, well, anything.}
-{27400}{}{Junk}
+{27400}{}{Skrot}
 {27401}{}{A pile of wood, with some rusty useless nails imbedded deeply.}
 {27500}{}{Boxes}
 {27501}{}{A pile of old, cardboard boxes. You cannot believe that they have survived for this long.}
 {27600}{}{Boxes}
 {27601}{}{A pile of old, cardboard boxes.}
-{27700}{}{Junk}
+{27700}{}{Skrot}
 {27701}{}{Some junk that you think might have been a bed mattress before it was destroyed by the environment.}
 {27800}{}{Rocks}
 {27900}{}{Rocks}
@@ -787,11 +787,11 @@
 {40901}{}{This car is a little wet, and cannot be repaired.}
 {41000}{}{Car}
 {41001}{}{This car has been poorly parked. Unfortunately, it is beyond repair.}
-{41100}{}{Junk}
+{41100}{}{Skrot}
 {41101}{}{This junk has been ruined by the contaminated seawater.}
-{41200}{}{Junk}
+{41200}{}{Skrot}
 {41201}{}{This junk has almost washed away.}
-{41300}{}{Junk}
+{41300}{}{Skrot}
 {41301}{}{A choice selection of useless junk.}
 {41400}{}{Pipes}
 {41401}{}{These pipes used to transfer fuel from an underground tank to the garage. They haven't been used in a long time.}
@@ -1873,7 +1873,7 @@
 {101701}{}{This plow is designed to be dragged by a Brahmin.}
 {101800}{}{Plow}
 {101801}{}{This plow is designed to be dragged by a Brahmin.}
-{101900}{}{Water}
+{101900}{}{Vatten}
 {102000}{}{Sign}
 {102001}{}{The entry sign for New Reno.}
 {102100}{}{Sign}
@@ -2057,7 +2057,7 @@
 {118901}{}{A misc. piece of equipment for the power plant.}
 {119000}{}{Tank}
 {119100}{}{Fire}
-{119200}{}{Water}
+{119200}{}{Vatten}
 {119300}{}{Trapper Town Sign}
 {119400}{}{Golden Gecko Sign}
 {119500}{}{Bath House Sign}
@@ -2684,12 +2684,12 @@
 {177000}{}{Steel Supports}
 {177100}{}{Steel Supports}
 {177200}{}{Steel Supports}
-{177300}{}{Water}
-{177400}{}{Water}
-{177500}{}{Water}
-{177600}{}{Water}
-{177700}{}{Water}
-{177800}{}{Water}
+{177300}{}{Vatten}
+{177400}{}{Vatten}
+{177500}{}{Vatten}
+{177600}{}{Vatten}
+{177700}{}{Vatten}
+{177800}{}{Vatten}
 {177900}{}{Waterfall}
 {178000}{}{Road}
 {178100}{}{Road}

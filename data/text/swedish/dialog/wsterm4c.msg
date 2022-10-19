@@ -9,7 +9,7 @@
 {105}{}{}
 {106}{}{}
 {107}{}{Retrieve}
-{108}{}{Store}
+{108}{}{Butik}
 {109}{}{Exit}
 {110}{}{Ug.}
 {111}{}{[You are unable to read what's on the monitor.]}

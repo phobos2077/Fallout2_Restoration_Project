@@ -4,7 +4,7 @@
 {103}{}{Excuse me, I'm Dr. Henry and I'm very busy. What do you want?}
 {104}{}{You again? What do you want?}
 {105}{}{Hurgh.}
-{106}{}{I'm}
+{106}{}{Jag är}
 {107}{}{Enough chit-chat. You've got some papers Mr. Merk wants. Hand 'em over and nobody gets hurt.}
 {108}{}{Ever heard of a place called the Enclave?}
 {109}{}{None of your business.}

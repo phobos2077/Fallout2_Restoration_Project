@@ -5,7 +5,7 @@
 {107}{}{Hey! Raw meat! Who are you? What are you doing here?}
 {108}{}{Duh?}
 {109}{}{I have a letter for AHS-9. Where do I take it?}
-{110}{}{I'm}
+{110}{}{Jag är}
 {111}{}{None of your business.}
 {112}{}{I want to join the Hubologists.}
 {113}{}{Who are YOU? And what are YOU doing here?}
@@ -17,13 +17,13 @@
 {119}{}{You're not one of the brethren, and you're therefore not authorized to be here. Unless you're planning on joining us - which you may do by expressing your interest to AHS-7, who is at the guard post. Now, either get downstairs or get out of here.}
 {120}{}{Fine, fine. No need to get testy.}
 {121}{}{Actually, it is my business. This is my ship and these are my guards - now, who are you and what are you doing here?}
-{122}{}{I'm}
+{122}{}{Jag är}
 {123}{}{None of your business.}
 {124}{}{I want to join the Hubologists.}
 {125}{}{Who are YOU? And what are YOU doing here?}
 {126}{}{Nothing. Bye.}
 {127}{}{Jag är Harry. Jag är chef för raketteknikerna.}
-{128}{}{I'm}
+{128}{}{Jag är}
 {129}{}{None of your business.}
 {130}{}{I want to join the Hubologists.}
 {131}{}{Nothing. Bye.}

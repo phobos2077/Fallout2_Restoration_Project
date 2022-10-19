@@ -10,7 +10,7 @@
 {150}{}{Armor}
 {151}{}{Container}
 {152}{}{Drug}
-{153}{}{Weapon}
+{153}{}{Vapen}
 {154}{}{Ammo}
 {155}{}{Misc Item}
 {156}{}{Key}

@@ -8,7 +8,7 @@
 {107}{}{Hej då.}
 {108}{}{Ooga.}
 {109}{}{Be still and I will examine you.}
-{110}{}{[Continue]}
+{110}{}{[Fortsätt]}
 {111}{}{I have found these afflictions.}
 {112}{}{Can you help me?}
 {113}{}{I can perform the following for a price:}
@@ -22,9 +22,9 @@
 {121}{}{I am in need of more of your skills.}
 {122}{}{Thank you; I feel much better. Bye.}
 {123}{}{My skills are limited, and I cannot help you any further in this area.}
-{124}{}{[Continue]}
+{124}{}{[Fortsätt]}
 {125}{}{You do not require this type of healing.}
-{126}{}{[Continue]}
+{126}{}{[Fortsätt]}
 {127}{}{Ahh... You are familiar with the healing properties of these two plants. It will only cost
  you}
 {128}{}{Please combine the two plants for me.}

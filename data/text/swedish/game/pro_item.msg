@@ -192,7 +192,7 @@
 {9601}{}{An electronic security key, color coded red.}
 {9700}{}{Blue Pass Key}
 {9701}{}{An electronic security key, color coded blue.}
-{9800}{}{Junk}
+{9800}{}{Skrot}
 {9801}{}{A pile of junk parts. A little bit of everything.}
 {9900}{}{Gold Locket}
 {9901}{}{A valuable gold locket.}

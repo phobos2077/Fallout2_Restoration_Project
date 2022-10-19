@@ -18,9 +18,9 @@
 {252}{}{Vattenskjul}
 {260}{}{Entrance}
 {261}{}{Downtown}
-{262}{}{Heights}
+{262}{}{Höjder}
 {263}{}{Old Town}
-{264}{}{Merchants}
+{264}{}{Köpmän}
 {265}{}{Cave}
 {270}{}{Entrance}
 {271}{}{Level 1}

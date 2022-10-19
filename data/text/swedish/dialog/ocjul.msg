@@ -21,7 +21,7 @@
 {119}{}{Me}
 {120}{}{Jag gå nu.}
 {121}{}{Guard mother important job. You important.}
-{122}{}{I'm}
+{122}{}{Jag är}
 {123}{}{Guarding mother is a position of great responsibility. You must be an important pack member.}
 {124}{}{I guess I'll be leaving now.}
 {125}{}{You wait. I ask mother.}

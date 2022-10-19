@@ -67,7 +67,7 @@
 {353}{}{The pink panther.}
 {354}{}{Okay, you'll regret that.}
 {360}{}{The what? Get outta here!}
-{361}{}{But...}
+{361}{}{Men...}
 {362}{}{Bra.}
 {370}{}{Now what the hell does the boss want? Another stupid fucking inspection?}
 {371}{}{Ja?}

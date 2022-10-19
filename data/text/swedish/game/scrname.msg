@@ -255,7 +255,7 @@
 {355}{}{Bookshelf}
 {356}{}{Raider}
 {357}{}{Peasant}
-{358}{}{Merchant}
+{358}{}{Köpman}
 {359}{}{Guard}
 {360}{}{Rawhide Patron}
 {361}{}{Floor}
@@ -515,7 +515,7 @@
 {615}{}{Door}
 {616}{}{Computer}
 {617}{}{Brahmn}
-{618}{}{Deathclaw}
+{618}{}{Dödsklo}
 {619}{}{Exit Grid}
 {620}{}{Computer}
 {621}{}{Feargus}
@@ -559,7 +559,7 @@
 {659}{}{V15 Secret entrance map}
 {660}{}{Rebecca}
 {661}{}{Door}
-{662}{}{Deathclaw}
+{662}{}{Dödsklo}
 {663}{}{Roberta}
 {664}{}{Sara}
 {665}{}{Zeke}
@@ -738,9 +738,9 @@
 {838}{}{Patrol Member}
 {839}{}{Traveler}
 {840}{}{Smoke}
-{841}{}{Trader}
+{841}{}{Handlare}
 {842}{}{Scavenger}
-{843}{}{Merchant}
+{843}{}{Köpman}
 {844}{}{Peasant}
 {845}{}{Arroyo Temple}
 {846}{}{Dock Worker}
@@ -813,7 +813,7 @@
 {913}{}{Ferndown}
 {914}{}{The Dragon}
 {915}{}{Stable Boy}
-{916}{}{Trader}
+{916}{}{Handlare}
 {917}{}{Townsperson}
 {918}{}{Slag}
 {919}{}{Slag}
@@ -1310,7 +1310,7 @@
 {1410}{}{Bill}
 {1411}{}{}
 {1412}{}{Child}
-{1413}{}{Deathclaw}
+{1413}{}{Dödsklo}
 {1414}{}{Sister Elaine}
 {1415}{}{Grave}
 {1416}{}{Grave}
@@ -1318,8 +1318,8 @@
 {1418}{}{Abbey Doctor}
 {1419}{}{Brother John}
 {1420}{}{Brother Max}
-{1421}{}{Merchant}
-{1422}{}{Merchant}
+{1421}{}{Köpman}
+{1422}{}{Köpman}
 {1423}{}{Merchant Guard}
 {1424}{}{Mrs. Peterson}
 {1425}{}{Abbey citizen}
@@ -1503,7 +1503,7 @@
 {1603}{}{Peeing}
 {1604}{}{Map Script}
 {1605}{}{Map Script}
-{1606}{}{Merchant}
+{1606}{}{Köpman}
 {1607}{}{Merchant Guard}
 {1608}{}{Merchant Guard}
 {1609}{}{Merchant Map}
@@ -1522,7 +1522,7 @@
 {1622}{}{Guard}
 {1623}{}{Motor Boat}
 {1624}{}{Guard}
-{1625}{}{Junk}
+{1625}{}{Skrot}
 {1626}{}{stairs}
 {1627}{}{elevator shaft}
 {1628}{}{spatial}

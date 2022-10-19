@@ -40,12 +40,12 @@
 {139}{}{Knutpunkt}
 {140}{}{Knutpunkt}
 {141}{}{Knutpunkt}
-{142}{}{Glow}
-{143}{}{Glow}
-{144}{}{Boneyard}
-{145}{}{Boneyard}
-{146}{}{Boneyard}
-{147}{}{Cathedral}
+{142}{}{Glöd}
+{143}{}{Glöd}
+{144}{}{Bengård}
+{145}{}{Bengård}
+{146}{}{Bengård}
+{147}{}{Katedral}
 {148}{}{Military}
 {149}{}{Mountains}
 {150}{}{Mountains}
@@ -53,7 +53,7 @@
 {152}{}{Desert}
 {153}{}{Desert}
 {154}{}{Desert}
-{155}{}{Brotherhood}
+{155}{}{Brödraskap}
 {156}{}{Desert}
 {157}{}{Desert}
 {158}{}{Mountains}
@@ -66,7 +66,7 @@
 {165}{}{EPA}
 {166}{}{EPA}
 {167}{}{EPA Warehouse}
-{168}{}{Merchant}
+{168}{}{Köpman}
 {169}{}{Shi Submarine}
 {200}{}{Desert}
 {201}{}{}
@@ -306,7 +306,7 @@
 {435}{}{Basement}
 {436}{}{Unused}
 {437}{}{Residential}
-{438}{}{Underground}
+{438}{}{Underjord}
 {439}{}{Mine}
 {440}{}{Cavern}
 {441}{}{Cavern}
@@ -396,7 +396,7 @@
 {525}{}{Desert}
 {526}{}{Desert}
 {527}{}{Gas Station}
-{528}{}{Underground}
+{528}{}{Underjord}
 {529}{}{Vertibird Base}
 {530}{}{Coastline}
 {531}{}{Coastline}
@@ -625,13 +625,13 @@
 {1535}{}{Unwashed Villagers}
 {1536}{}{Bro}
 {1537}{}{Cafe of Broken Dreams}
-{1538}{}{Paladins}
+{1538}{}{Paladiner}
 {1539}{}{Vorpal Rat Cave}
 {1540}{}{Guardian of Forever}
 {1541}{}{Toxic Waste Dump}
 {1542}{}{Pariahs}
 {1543}{}{Mad Brahmin}
-{1544}{}{Caravan}
+{1544}{}{Karavan}
 {1545}{}{Vault 13}
 {1546}{}{Fake Vault 13}
 {1547}{}{Random Encounter}
@@ -643,8 +643,8 @@
 {1553}{}{Safe House}
 {1554}{}{Safe House}
 {1555}{}{RP Easter Egg Encounter}
-{1556}{}{Merchant}
-{1557}{}{Merchant}
+{1556}{}{Köpman}
+{1557}{}{Köpman}
 {1558}{}{Shi Submarine}
 {1559}{}{Abandoned House}
 {1560}{}{Gecko Enclave Patrol}
