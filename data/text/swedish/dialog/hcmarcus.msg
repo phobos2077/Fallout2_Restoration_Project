@@ -125,7 +125,7 @@
 {224}{}{I still think it's a rotten fate.}
 {225}{}{Hej då.}
 {226}{mcs35}{You're talking a long time ago. The world's moved on. You want to hear ancient history?}
-{227}{}{Definitely.}
+{227}{}{Definitivt.}
 {228}{}{Not right now. I'd like to ask some other questions, though.}
 {229}{}{Not right now. I'll talk to you later.}
 {230}{mcs36}{Right. Well, never really HATED humans. We just had a better way. These new governments, they think they've got all the answers. Blah, blah. Been there, seen that, got the scars.}
@@ -135,7 +135,7 @@
 {234}{mcs38}{While Jacob was alive, I thought the Master was wrong. But it seems that while some men can heed the call and rise above it all, most just run away.}
 {235}{}{So you think the Master was right?}
 {236}{mcs38a}{Jacob heard the call and embraced it. So did the Vault Dweller. But no matter how many rise above, the masses will always destroy them, right?}
-{237}{}{Maybe.}
+{237}{}{Kanske.}
 {238}{mcs39}{The Master just wanted everyone to see clearly. The Vault Dweller ended that dream.}
 {239}{}{Sounds like you admired and hated the Vault Dweller at the same time.}
 {240}{}{You were a human. How can you justify what the Master did to you?}

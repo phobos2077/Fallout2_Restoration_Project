@@ -224,7 +224,7 @@
 {720}{}{*whistles*}
 {721}{}{*clap clap clap*}
 {722}{}{Way to go!}
-{723}{}{Wahoo.}
+{723}{}{Jippie.}
 {730}{}{*sob sob sob*}
 {731}{}{I feel so... so cheated...}
 {740}{}{*Grunt*}

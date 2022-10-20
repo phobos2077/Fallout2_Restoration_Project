@@ -15,7 +15,7 @@
 {114}{}{Nothing. Wrong place.}
 {115}{}{Oh, look - the goody two-shoes, lollipop kid. Boys, escort this hypocritical paragon of saintly virtue out of my sight!}
 {116}{}{Fuck this.}
-{117}{}{Well?}
+{117}{}{Nå?}
 {118}{}{I'm looking for Vault 13.}
 {119}{}{Do you have a GECK?}
 {120}{}{What can you tell me about this town?}

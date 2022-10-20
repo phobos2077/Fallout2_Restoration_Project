@@ -37,7 +37,7 @@
 {296}{}{You can't hide from us!}
 {297}{}{Come out, or I'll blow your fucking head off.}
 {298}{}{Ah, that was good! Where are the rest of them?}
-{305}{}{Shit.}
+{305}{}{Skit.}
 {306}{}{That sucked.}
 {307}{}{Damn it.}
 {308}{}{We better not do that again.}

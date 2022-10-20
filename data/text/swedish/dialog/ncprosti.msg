@@ -56,7 +56,7 @@
 {230}{}{Haul your fat ass outta my sight.}
 {231}{}{You're as talented as my shoe.}
 {232}{}{Stay on this street, and we'll cut you.}
-{233}{}{Bitch.}
+{233}{}{Subba.}
 {234}{}{Stuck-up whore...}
 {235}{}{Trash...}
 {236}{}{Hmphh!}

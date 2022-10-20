@@ -21,9 +21,9 @@
 {285}{}{I deserve better than this.}
 {300}{}{Ahhh!}
 {301}{}{No kill! No kill!}
-{302}{}{Stop!}
-{303}{}{Heeeelp!}
-{304}{}{Run!}
+{302}{}{Stopp!}
+{303}{}{Hjäääälp!}
+{304}{}{Spring!}
 {305}{}{Leave alone!}
 {306}{}{Don't hurt!}
 {307}{}{No hurt you!}

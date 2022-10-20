@@ -1195,7 +1195,7 @@
 {32502}{}{Ha ha OW!}
 {32503}{}{AT! AT! At at at at at!}
 {32504}{}{Ay carumba!}
-{32505}{}{Heeeelp!}
+{32505}{}{Hjäääälp!}
 {32520}{}{You don't want none o' this!}
 {32521}{}{Come get some!}
 {32522}{}{You want some of this? Huh? Huh?}
@@ -1595,7 +1595,7 @@
 {36693}{}{Why you attack me there?}
 {36694}{}{I will hurt you for many hours}
 {36695}{}{Why you attack me there?}
-{36700}{}{Run!}
+{36700}{}{Spring!}
 {36701}{}{You will not kill me!}
 {36702}{}{I will be back!}
 {36703}{}{My friends get you for me!}

@@ -1,7 +1,7 @@
 {100}{}{Oh my! A very shapely and seductive looking woman.}
 {101}{}{You see Miria.}
 {102}{}{You're not sure, but the measurements 36-24-36 come to mind.}
-{150}{}{Bitch!}
+{150}{}{Subba!}
 {151}{}{How dare you show your face around here!}
 {152}{}{That's just sick!}
 {153}{}{I hope you two are happy together.}

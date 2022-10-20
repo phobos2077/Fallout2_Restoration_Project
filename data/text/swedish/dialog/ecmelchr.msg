@@ -1,6 +1,6 @@
 {100}{}{You see a strange beast.}
 {101}{}{You see a super-mutant that looks a bit deranged.}
-{102}{}{Stop!}
+{102}{}{Stopp!}
 {103}{}{Approach no further! Melchior the Magnificent commands you!}
 {104}{}{Behold, I am the greatest magician in the world!}
 {105}{}{Tremble before the might of Melchior the Magnificent!}

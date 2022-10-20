@@ -30,7 +30,7 @@
 {262}{}{(Big Jesus's gaze turns black. He makes a motion, and his guards reach for their weapons.)}
 {263}{}{Aieeeeeeee!}
 {264}{}{Play along!}
-{265}{}{Run!}
+{265}{}{Spring!}
 {266}{}{Whoa! Whoa...!}
 {267}{}{Hey! Hold on a second...!}
 {268}{}{You want some of THIS, *Fatman?!* You WANT SOME of }

@@ -13,7 +13,7 @@
 {403}{}{Yeah, keep walking, idiot.}
 {404}{}{I hope I never have the "pleasure" of meeting that asshead again.}
 {405}{}{That chick needs some breath mints.}
-{406}{}{Bitch.}
+{406}{}{Subba.}
 {500}{}{She just looks at you blankly.}
 {501}{}{She apparently has nothing to say.}
 {600}{}{I'd really like to take him to the ball game.}

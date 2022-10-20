@@ -49,6 +49,6 @@
 {314}{}{Ahhhh!}
 {315}{}{Missed me.}
 {316}{}{You're it.}
-{317}{}{Don't!}
+{317}{}{Gör det inte!}
 {318}{}{Stop it.}
 {319}{}{I didn't do anythin' to you!}

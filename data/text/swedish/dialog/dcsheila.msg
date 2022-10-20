@@ -2,8 +2,8 @@
 {150}{}{This is your usual, run of the mill, prostitute.}
 {152}{}{[TALA]}
 {153}{}{Hey, I don't do chicks!}
-{154}{}{Whatever.}
-{155}{}{Sorry.}
+{154}{}{Hur som helst.}
+{155}{}{Förlåt.}
 {156}{}{Mamma?}
 {157}{}{Hey, it'll cost more if you've got an audience with ya.}
 {158}{}{Hey, they go where I go.}
@@ -17,7 +17,7 @@
 {166}{}{Jippiii!}
 {167}{}{I like 'em big and dumb.}
 {168}{}{That's me!}
-{169}{}{Yay!}
+{169}{}{Jippie!}
 {170}{}{Oh. No. Bye.}
 {171}{}{What a big boy you are!}
 {172}{}{The way you like it.}
@@ -28,14 +28,14 @@
 {178}{}{You'll be back.}
 {179}{}{We'll see.}
 {180}{}{Um, no.}
-{181}{}{[drool]}
+{181}{}{[dräggel]}
 {182}{}{You don't have enough bucks. Get lost, honey.}
 {183}{}{I'll come back.}
 {184}{}{You're not worth it, toots.}
 {185}{}{Wah!}
 {186}{}{You were incredible!}
 {187}{}{Always, baby.}
-{188}{}{Whatever.}
+{188}{}{Hur som helst.}
 {189}{}{You were, too.}
 {190}{}{Me edible!}
 {191}{}{You were great!}

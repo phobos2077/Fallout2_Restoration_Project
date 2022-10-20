@@ -113,7 +113,7 @@
 {514}{}{Nej.}
 {515}{}{Uk}
 {520}{}{Because of you we blew our chance.}
-{521}{}{Coward!}
+{521}{}{Ynkrygg!}
 {522}{}{You get nothing.}
 {523}{}{It was probably a trap anyhow.}
 {524}{}{Sorry, you're not reliable.}
@@ -129,11 +129,11 @@
 {543}{}{What's going to happen to the Den now? Maybe something better.}
 {544}{}{This could actually be for the better.}
 {550}{}{Bastard!}
-{551}{}{Bitch!}
+{551}{}{Subba!}
 {560}{}{Thanks. Here's your money and $100 extra.}
 {570}{}{Did you kill Tyler and his guards? How are we supposed to prove ourselves to Metzger? He'll never hire us now. That was our only chance.}
 {571}{}{We don't have any work. Someone killed off Metzger's guards and now he won't talk to us. He thinks we did it. Oh well.}
-{572}{}{Sorry.}
+{572}{}{Förlåt.}
 {573}{}{Too bad.}
 {574}{}{That was me, and you're next.}
 {575}{}{Oh. Okay, bye.}

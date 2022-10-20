@@ -45,11 +45,11 @@
 {192}{}{Can I ask a question?}
 {193}{}{Gotta go.}
 {194}{}{Here's the drink. Anything else?}
-{195}{}{Question?}
+{195}{}{Fråga?}
 {196}{}{Yeha, how about you and I...}
 {197}{}{Nepp.}
 {198}{}{Hey, you don't enough cash for this drink. You're poorer than even these sops!}
-{199}{}{Sorry.}
+{199}{}{Förlåt.}
 {200}{}{Hmm, I'll come back.}
 {201}{}{Hmm. Let me get someone to watch the bar. You and I can go into the back room and play a little
  game I call "First Strike." If you're good, well, there's "Ground Zero."}

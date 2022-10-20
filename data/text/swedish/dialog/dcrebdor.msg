@@ -13,7 +13,7 @@
 {232}{}{Back off!}
 {233}{}{Leave that alone.}
 {234}{}{What do you think you're doing?}
-{240}{}{Thief!}
+{240}{}{Tjuv!}
 {250}{}{We don't tolerate that here.}
 {300}{}{Baby, you up for something after work?}
 {301}{}{You're looking fine, as always.}

@@ -18,7 +18,7 @@
 {117}{}{Nothing... just lower my karma by a 100.}
 {118}{}{Nevermind. I wanted something else...}
 {119}{}{Nope, nothing.}
-{120}{}{Who?}
+{120}{}{Vem?}
 {121}{}{Marcus.}
 {122}{}{Lenny.}
 {123}{}{Vic.}

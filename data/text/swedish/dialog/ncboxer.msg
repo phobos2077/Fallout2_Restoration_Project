@@ -72,7 +72,7 @@
 {335}{}{No pain, no pain, no pain...}
 {340}{}{Eat this!}
 {341}{}{You want some of this?!}
-{342}{}{Bitch!}
+{342}{}{Subba!}
 {343}{}{Now you're mine.}
 {344}{}{I eat green berets for breakfast.}
 {345}{}{Haadookin.}

@@ -71,7 +71,7 @@
 {411}{}{What do you have to eat here?}
 {417}{}{Well if it isn't my hero. What can Mom do you for today?}
 {425}{}{I know that. But everyone calls me that. Heck, I even treat people like they're my kin - long as you obey my rules that is.}
-{426}{}{Rules?}
+{426}{}{Regler?}
 {435}{}{That's right. No stealing, no cursing, and no fighting - not in my shop you don't. 'Cause if'n you do, out you'll go. I like things peaceful here.}
 {436}{}{I see. Let me ask you something else.}
 {437}{}{That makes sense. See you later, Mom.}
@@ -105,7 +105,7 @@
 {521}{}{Two years, huh? Anybody use the place back then?}
 {522}{}{Me neither. Thanks.}
 {540}{}{One of the boys used to sleep there a few years back. Maybe he knows something.}
-{541}{}{Who?}
+{541}{}{Vem?}
 {542}{}{Probably not. Bye.}
 {560}{}{He used to come by and try to pawn stuff. Jewelry mostly. I remember
  a little gold locket he kept for himself.}

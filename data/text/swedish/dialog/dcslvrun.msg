@@ -70,9 +70,9 @@
 {305}{}{You're not leaving here with my friends!}
 {310}{}{Ahhh!}
 {311}{}{No kill! No kill!}
-{312}{}{Stop!}
-{313}{}{Heeeelp!}
-{314}{}{Run!}
+{312}{}{Stopp!}
+{313}{}{Hjäääälp!}
+{314}{}{Spring!}
 {315}{}{No do that!}
 {320}{}{Run for your lives!}
 {321}{}{Don't let them catch you!}

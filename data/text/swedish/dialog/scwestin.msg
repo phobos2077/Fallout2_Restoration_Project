@@ -62,7 +62,7 @@
 {161}{}{Yes, sir.}
 {162}{}{Well then, that's all.}
 {163}{}{I have some other questions.}
-{164}{}{Whatever.}
+{164}{}{Hur som helst.}
 {165}{}{A job. You mean--}
 {166}{}{Bishop sent me. Got a little message for you.}
 {167}{}{Bye-bye and sleep tight, old man.}

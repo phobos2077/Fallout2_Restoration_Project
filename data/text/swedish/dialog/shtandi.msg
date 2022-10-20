@@ -192,7 +192,7 @@
 {291}{}{I've been there and I have the parts you're looking for.}
 {292}{}{I've handled this already. The squatters want a deal. You help them become self sufficient and they'll give you the vault. Also, here are the parts.}
 {293}{tand41}{Hell and thunder! Then stop wasting my time!}
-{294}{}{Sorry.}
+{294}{}{Förlåt.}
 {295}{tand42}{Vault 13 - you found it? That solves all of our problems! Where is it?}
 {296}{}{Uh, before me tell, there be one problem with vault.}
 {297}{}{Me draw map. Here.}

@@ -7,7 +7,7 @@
 {202}{}{Hi! Glad you came back. Any questions or are you here for some fine whiskey?}
 {203}{}{Really glad to see you. What's up? Need something?}
 {204}{}{Hope everything's going well for my favorite customer! What can we do for you today?}
-{205}{}{Hello!}
+{205}{}{Hej!}
 {206}{}{Always nice to see you again.}
 {207}{}{Hi! You care for a drink? Finest whiskey in the land!}
 {208}{}{Hi there!}
@@ -66,7 +66,7 @@
 {302}{}{You okay? You want whiskey? Only $5.}
 {303}{}{I'll take a drink.}
 {304}{}{Why are your drinks so cheap?}
-{305}{}{Dyer?}
+{305}{}{Färgare?}
 {306}{}{Can I ask a question?}
 {307}{}{Hej då.}
 {308}{}{Wekee}
@@ -137,8 +137,8 @@
  He's on the east side of town. Hard to miss.}
 {431}{}{I have another question.}
 {432}{}{Tack.}
-{440}{}{Murderer!}
-{441}{}{Childkiller!}
+{440}{}{Mördare!}
+{441}{}{Barnamördare!}
 {442}{}{Please leave.}
 {443}{}{I won't deal with the likes of you.}
 {444}{}{I'm not going down without a fight!}
@@ -163,7 +163,7 @@
 {511}{}{He sure put up a good fight.}
 {512}{}{I have a question.}
 {513}{}{Yes, he was. Goodbye.}
-{514}{}{ kill!}
+{514}{}{ döda!}
 {520}{}{What? You? I... don't know what to say. He was such an evil man...}
 {521}{}{A thank you would be enough.}
 {522}{}{Humph.}
@@ -184,12 +184,12 @@
 {561}{}{I was paid to do it.}
 {562}{}{I don't have to answer to anyone.}
 {563}{}{I don't know what you're talking about.}
-{564}{}{Whatever.}
+{564}{}{Hur som helst.}
 {565}{}{Ooba gooba.}
 {570}{}{Oh really? That sleaze Frankie put you up to it, I'm sure of it. I'll just
  make another one, you know.}
 {571}{}{Doesn't matter. I got paid.}
-{572}{}{So.}
+{572}{}{Så.}
 {573}{}{I wouldn't be surprised.}
 {580}{}{So, you're a coward too? Figures.}
 {581}{}{...}

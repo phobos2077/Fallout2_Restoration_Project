@@ -76,7 +76,7 @@
 {158}{}{I'll take it.}
 {159}{}{I'll leave it.}
 {160}{}{Fine. Leave it, then. No thanks.}
-{161}{}{Whatever.}
+{161}{}{Hur som helst.}
 {162}{}{Hi, friend!}
 {163}{}{Oh, good. It's you again.}
 {164}{}{Howdy.}

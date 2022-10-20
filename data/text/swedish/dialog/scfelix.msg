@@ -21,7 +21,7 @@
 {120}{}{What if I said Bishop in New Reno sent me to kill him?}
 {121}{}{Uh, no.}
 {122}{}{Hah! Another crackpot. You ought to go talk to Saltbeef. You and he'd get along fine.}
-{123}{}{Who?}
+{123}{}{Vem?}
 {124}{}{I'm out of here.}
 {125}{}{Saltbeef Bob - over in the stables. Mr. Westin lets him stay there. Now stop wasting my time.}
 {126}{}{Oh, thanks.}

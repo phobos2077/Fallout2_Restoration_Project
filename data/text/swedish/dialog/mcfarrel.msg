@@ -3,7 +3,7 @@
 {102}{}{You hear the sound of dry twigs cracking every time he moves.}
 {150}{}{Hey, get away from there!}
 {151}{}{Stop that!}
-{152}{}{Thief!}
+{152}{}{Tjuv!}
 {153}{}{I didn't steal the watch, so stop coming over here and harassing poor old Farrel!}
 {154}{}{Cornelius says you stole his gold watch.}
 {155}{}{Where'd you get the money for the new tools?}

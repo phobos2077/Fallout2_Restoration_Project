@@ -30,7 +30,7 @@
 {175}{}{Nah, I changed my mind. See ya.}
 {176}{}{Give it to me or I kill you for it.}
 {177}{}{Here. Now just leave me alone.}
-{178}{}{Gladly.}
+{178}{}{Gärna.}
 {179}{}{Don't let me catch you doing this again!}
 {180}{}{H-Hey! You don't have the money! Get the hell out of here!}
 {181}{}{Oops. I'll come back.}
@@ -60,7 +60,7 @@
 {205}{}{Not if you were the last nonmutated man on the planet.}
 {206}{}{Er, no... I don't think so. I need something else.}
 {207}{}{You'll be coming back.}
-{208}{}{Maybe.}
+{208}{}{Kanske.}
 {209}{}{Don't count on it.}
 {210}{}{Wait! Can I ask you something?}
 {211}{}{Nobody talks to me like that!}

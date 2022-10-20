@@ -54,7 +54,7 @@
 {153}{}{You're a sick, rude bastard, aren't you?}
 {154}{}{Right. Bye.}
 {155}{}{You are a dishonorable person. I will not have you in my shop. Come back some other time.}
-{156}{}{Whatever.}
+{156}{}{Hur som helst.}
 {157}{}{They did not. They came from the north and flew over us, heading out over the sea.}
 {158}{}{Over the horizon? How the hell do I get there?}
 {159}{}{Yeah, right they did. Tell me where they are before I open you like a can of sardines.}

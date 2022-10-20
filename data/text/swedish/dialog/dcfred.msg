@@ -50,7 +50,7 @@
 {311}{}{Thanks again.}
 {312}{}{Looking very nice.}
 {313}{}{You look like crap!}
-{314}{}{Yuk!}
+{314}{}{Blä!}
 {315}{}{Ug.}
 {320}{}{Thank you. Thank you very much! Thanks to you, I have four sets just like these!}
 {321}{}{So you won it big after all?}
@@ -78,12 +78,12 @@
 {381}{}{Sorry, I can't accept this.}
 {382}{}{Tack.}
 {383}{}{Not really, but I'll take it.}
-{384}{}{Yum.}
+{384}{}{Nam.}
 {390}{}{Here. [Fred gives you $2000, 5 Fusion Cells, 5 Energy Cells, and a Plasma Grenade.] I hope this helps, at least a little.}
 {391}{}{Sorry, I can't accept this.}
 {392}{}{Thank you very much.}
 {393}{}{Not really, but I'll take it.}
-{394}{}{Yum.}
+{394}{}{Nam.}
 {400}{}{What? Well, okay, if you insist. Thank you so very much. Take good care of yourself.}
 {401}{}{Hej då.}
 {410}{}{What? You doing some strange drug? You don't look like a jethead. Get away from me you freak.}
@@ -104,7 +104,7 @@
 {451}{}{Well, you're wrong, asshole.}
 {452}{}{Maybe it was someone else.}
 {460}{}{Damn. I think your right, but - I'm almost broke. I can't afford that kind of money! I've got to eat you know.}
-{461}{}{Sorry.}
+{461}{}{Förlåt.}
 {462}{}{Tough luck.}
 {470}{}{Oh, damn it. I can barely afford $100. Could you spot me half? I promise I'll pay you back!}
 {471}{}{No sorry.}
@@ -151,7 +151,7 @@
 {591}{}{Hand over the $200.}
 {592}{}{Just give me the money.}
 {600}{}{Leave me alone.}
-{601}{}{Whatever.}
+{601}{}{Hur som helst.}
 {602}{}{Okej.}
 {610}{}{Uh. Hi again. So, uh, I suppose you want the money. Do you think you could cover me for half?}
 {611}{}{No, sorry.}

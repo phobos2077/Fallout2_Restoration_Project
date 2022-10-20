@@ -59,7 +59,7 @@
 {224}{}{It's gonna have to wait. I'll talk to you later.}
 {225}{}{I don't have it.}
 {300}{}{Damn, I'm fucked flat.}
-{301}{}{Wahoo.}
+{301}{}{Jippie.}
 {302}{}{That was... was... WOW!!!}
 {303}{}{You could set her ass on fire.}
 {304}{}{Damn that parted my hair - well, what little I have.}

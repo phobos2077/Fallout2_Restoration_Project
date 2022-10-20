@@ -80,7 +80,7 @@
 {402}{}{Good, because I didn't plan on giving it back anyway.}
 {410}{}{Oh... I see. I don't understand, that prototype withstood vigorous lab testing... [He shakes his head
  sadly.] Anyway, thanks for assisting me.}
-{411}{}{Whatever.}
+{411}{}{Hur som helst.}
 {412}{}{No problem.}
 {420}{}{Nice to see you again. However, if you'll excuse me, I've got a plethora of projects that require my attention.}
 {421}{}{[End.]}

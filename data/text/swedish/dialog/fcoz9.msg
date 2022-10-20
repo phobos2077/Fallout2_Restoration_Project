@@ -70,7 +70,7 @@
 {169}{}{Gee, great. Bye.}
 {170}{}{Address your questions to AHS-7. I am AHS-9, the Great and Terrible, and I have many matters on my mind. Trouble me not, meat.}
 {171}{}{If you won't answer my questions, you'll answer my weapons.}
-{172}{}{Whatever.}
+{172}{}{Hur som helst.}
 {173}{}{Ahh, a letter from my field agent. Pity she calls herself "The Enlightened One" - it shows that she truly is not enlightened. You have my gratitude.}
 {174}{}{No problem. I have a question or two, though.}
 {175}{}{Great. Bye.}

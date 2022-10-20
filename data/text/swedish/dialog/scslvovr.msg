@@ -22,7 +22,7 @@
 {121}{}{Thanks, stranger.}
 {122}{}{I know more than old Vortis gives me credit for, you know.}
 {123}{}{Well, I've done a lot more than most people suspect. Like this job, though. It's nice and cushy.}
-{124}{}{Whatever.}
+{124}{}{Hur som helst.}
 {125}{}{What's the deal with these Rangers I hear about?}
 {126}{}{I'm looking for Vault 13. Ever hear of it?}
 {127}{}{Ever hear of a GECK?}

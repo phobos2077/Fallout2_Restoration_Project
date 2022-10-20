@@ -6,7 +6,7 @@
 {202}{}{Pay back.}
 {203}{}{Come here.}
 {204}{}{I'm not through with you.}
-{205}{}{Bitch.}
+{205}{}{Subba.}
 {225}{}{Wonder how long things will last around here with Metzger gone?}
 {226}{}{So, Metzger's finally dead?}
 {227}{}{Was that your handiwork?}
@@ -22,7 +22,7 @@
 {248}{}{Better watch your step.}
 {249}{}{Lara's the only reason we don't string you up right now.}
 {250}{}{What were you trying to pull?}
-{251}{}{Coward.}
+{251}{}{Ynkrygg.}
 {252}{}{You make me sick.}
 {253}{}{Get lost.}
 {254}{}{Beat it.}

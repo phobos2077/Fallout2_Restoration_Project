@@ -9,7 +9,7 @@
 {152}{}{Thank you for saving the residents of Modoc.}
 {153}{}{What are you doing?}
 {154}{}{Hey! Leave that alone!}
-{155}{}{Thief!}
+{155}{}{Tjuv!}
 {156}{}{Sorry, this trading post is closed indefinitely due to the drought.}
 {157}{}{So who says I'm here to trade?}
 {158}{}{I'm new here. What can you tell about this town?}

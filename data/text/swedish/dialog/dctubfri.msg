@@ -51,7 +51,7 @@
 {275}{}{No way - it zoomed across the ground.}
 {276}{}{Yeah, you seeing things, man.}
 {277}{}{No way. That was real.}
-{278}{}{Whatever.}
+{278}{}{Hur som helst.}
 {279}{}{Ohhhh it's kicking in again. Ahh.}
 {290}{}{Pretty lights.}
 {291}{}{Lots of lights.}

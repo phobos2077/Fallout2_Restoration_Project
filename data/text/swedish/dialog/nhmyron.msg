@@ -280,7 +280,7 @@
 {921}{}{What about using some kind of endorphin blocker? That would repress the chemical and psychological addiction, wouldn't it?}
 {924}{}{Nevermind then.}
 {930}{myn132}{Kee-rist. That has got to be the dumbest... hmmmm...}
-{931}{}{Well?}
+{931}{}{Nå?}
 {940}{myn133}{Well... maybe it would work, but I'm pretty sure Jet would just chew right through that shit. Now wh-wh-why the hell are we even talking about this?! Wh-where would you get your hands on endorphin blockers anyway?}
 {941}{}{You tell me, Myron. You're a bright guy.}
 {950}{myn134}{Maybe Vault City. They have a pretty good medical warehouse. A lot of old pre-holocaust bases also used to stock them to prevent combat drug addiction.}
@@ -638,7 +638,7 @@
 {3003}{}{I need you to take off that armor you're wearing.}
 {3004}{}{What weapons are you skilled with Myron? Any?}
 {3005}{}{Nevermind, there's something else I needed from you.}
-{3025}{}{Whatever.}
+{3025}{}{Hur som helst.}
 {4000}{}{Yeah, this should be where that facility I marked on your map is. Probably deep underground too.}
 {5000}{}{Fuck! Fuck! I can't feel this limb anymore!}
 {5001}{}{I feel like I am fucking melting!}

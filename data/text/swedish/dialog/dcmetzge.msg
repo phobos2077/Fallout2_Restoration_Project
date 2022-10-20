@@ -38,11 +38,11 @@
 {242}{}{Cat Jules}
 {243}{}{Kitsune}
 {245}{}{Go ahead.}
-{246}{}{Yeah?}
+{246}{}{Visst?}
 {247}{}{I'm not your fucking servant, so hurry it up.}
 {248}{}{What is it? I don't have all day.}
 {249}{}{Shoot.}
-{250}{}{Maybe.}
+{250}{}{Kanske.}
 {255}{}{I have someone I'd like to sell.}
 {256}{}{About Vic...}
 {257}{}{I'm looking for a merchant.}
@@ -138,7 +138,7 @@
 {411}{}{So, it's okay?}
 {420}{}{Well, I did say the offer would remain open. If she finally thinks she can kick his ass and
  is better able to guard my shit...}
-{421}{}{Well?}
+{421}{}{Nå?}
 {422}{}{So, that's a yes?}
 {430}{}{Look, I don't give a shit which of them guards it. Just as long as none of my goods are
  damaged, I don't care.}
@@ -189,7 +189,7 @@
 {523}{}{Sure, why not.}
 {524}{}{Maybe later.}
 {530}{}{Oh, you better believe it.}
-{531}{}{Good.}
+{531}{}{Bra.}
 {540}{}{Here's $}
 {541}{}{Here's your $}
 {542}{}{Good job out there. Here's $}
@@ -237,7 +237,7 @@
 {670}{}{Oh, I'm sure. This line of work isn't to be taken lightly. It takes trust and loyalty. We watch each other's backs. Good policy don't you think?}
 {671}{}{I guess.}
 {672}{}{Uh, what's going on?}
-{673}{}{Definitely.}
+{673}{}{Definitivt.}
 {680}{}{You guess? I didn't think you were that smart. You really are a stupid fuck.
  [Metzger glares at you then looks to his guards and motions in your direction.]}
 {681}{}{Actions?}

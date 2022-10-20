@@ -59,7 +59,7 @@
 {158}{}{President Tandi?}
 {159}{}{Got to go.}
 {160}{}{Roger Westin. His spread's just out the west gate. He's been having some problem with varmints. He'd take care of it himself, but his health ain't what it used to be. Bad ticker, Doc Jubilee says.}
-{161}{}{Yeah?}
+{161}{}{Visst?}
 {162}{}{Any work to be had in this town?}
 {163}{}{Never mind. I'm going.}
 {164}{}{Just make sure things stay that way. Goodbye.}

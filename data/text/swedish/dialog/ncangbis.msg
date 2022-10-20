@@ -13,7 +13,7 @@
 {221}{}{Hello there.}
 {222}{}{You. Talk to me. Now.}
 {223}{}{You. Come here. Now.}
-{224}{}{Yum.}
+{224}{}{Nam.}
 {225}{}{Hmmmm.}
 {226}{}{Well, well...}
 {230}{}{I'm BORED.}
@@ -138,7 +138,7 @@
  get hurt.}
 {511}{}{Okayeee! Thanx!}
 {520}{}{Kind of like shit through the intestines, huh? Don't stay too long, bitch, or you're gonna get hurt.}
-{521}{}{Whatever.}
+{521}{}{Hur som helst.}
 {522}{}{Bitch...}
 {531}{}{Yeah, I understand you need someone to put in your place, PRINCESS, and I'm just the one to do it.}
 {532}{}{Understood, Miss Bishop.}

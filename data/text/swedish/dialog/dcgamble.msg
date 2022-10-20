@@ -62,15 +62,15 @@
 {510}{}{Again, let's see that again.}
 {511}{}{Come on.}
 {512}{}{That's what I wanted.}
-{513}{}{Almost.}
+{513}{}{Nästan.}
 {514}{}{Not bad.}
 {515}{}{How did that happen?}
 {516}{}{Hoppsan.}
 {517}{}{No whammies, no whammies. Stop!}
 {518}{}{Well, the game lives up to its name.}
 {519}{}{I just need one big win.}
-{520}{}{Figures!}
-{521}{}{Again?}
+{520}{}{Såklart!}
+{521}{}{Igen?}
 {522}{}{This isn't looking good.}
 {523}{}{Roulette sucks!}
 {524}{}{Becky! You're tables are killing me!}

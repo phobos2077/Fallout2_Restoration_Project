@@ -16,7 +16,7 @@
 {235}{}{Piss off.}
 {236}{}{Piss off. I mean it.}
 {237}{}{I ain't got nothing to say to you.}
-{245}{}{Yeah?}
+{245}{}{Visst?}
 {246}{}{Hey! How's it going, }
 {247}{}{Hey, you got my thanks for finding who killed Richard, }
 {248}{}{. I owe you big, and the Wright family always pays its debts. What can I do for you?}

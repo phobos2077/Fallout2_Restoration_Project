@@ -88,10 +88,10 @@
 {224}{}{Well done on the jail work! }
 {225}{}{Tack.}
 {226}{}{Did you really have to kill everyone? Now they're all going to be worried. Well, no matter.}
-{227}{}{Sorry.}
+{227}{}{Förlåt.}
 {228}{}{You got them out. I guess that's the important part. Of course, now everyone in town knows
  you're linked to Manson and Franc somehow. Oh, well.}
-{229}{}{Sorry.}
+{229}{}{Förlåt.}
 {230}{}{I think I can trust you with something important. How'd you like to do a little more work?}
 {231}{}{What else can I do for you, friend?}
 {232}{}{More work? Like what?}
