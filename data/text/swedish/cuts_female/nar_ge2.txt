@@ -1,2 +1,2 @@
-1:Repairing Gecko's power plant prevented any further radioactivity from leaking into Vault City's groundwater.
-2:Though this eased tensions between the two communities, they still maintain an uneasy truce.
+1:Genom att reparera Geckos kraftverk förhindrades att ytterligare radioaktivitet läckte ut i Valvstadens grundvatten.
+2:Även om detta minskade spänningarna mellan de två samhällena råder det fortfarande en orolig vapenvila mellan dem.

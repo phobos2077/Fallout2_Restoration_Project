@@ -50,7 +50,7 @@
 {155}{}{They were quite upset and seemed to be fleeing from something.}
 {156}{}{Verkligen?}
 {157}{}{Yeah, there were also others in dirty, tattered purple robes... they kept babbling about how the Master was dead...}
-{158}{}{Interesting.}
+{158}{}{Intressant.}
 {159}{}{Some of them even committed suicide right here in town!}
 {160}{}{Och?}
 {161}{}{Well don't you see. They were talking about the Master, the one your ancestor killed.}

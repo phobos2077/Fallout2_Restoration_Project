@@ -9,7 +9,7 @@
 {1008}{}{Why's everything spinning like that?}
 {1009}{}{No one will ever be able to look at me again!}
 {1010}{}{Ow, my arm!}
-{1011}{}{Ow!}
+{1011}{}{Aj!}
 {1012}{}{You broke my arm!}
 {1013}{}{Christ, my arm's been torn off!}
 {1014}{}{Oh God, not my arm.}
@@ -60,7 +60,7 @@
 {1059}{}{Oh God, oh God, oh God...}
 {1060}{}{Ow, my leg!}
 {1061}{}{My knee!}
-{1062}{}{Ow!}
+{1062}{}{Aj!}
 {1063}{}{You tore my leg off.}
 {1064}{}{My knee's been ripped open!}
 {1065}{}{I can't walk.}
@@ -330,7 +330,7 @@
 {1329}{}{I'll tear out your liver for that.}
 {1330}{}{A little blood ain't hurt no-one.}
 {1331}{}{Oof! I'm gonna scrag you for that...}
-{1332}{}{Ow!}
+{1332}{}{Aj!}
 {1333}{}{I like the pain!}
 {1334}{}{I love the sound of cracking ribs!}
 {1335}{}{That ain't nothing!}
@@ -1794,7 +1794,7 @@
 {32001}{}{My scalp!}
 {32002}{}{oooh... my ears...}
 {32010}{}{Ow, my arm!}
-{32011}{}{Ow!}
+{32011}{}{Aj!}
 {32012}{}{You broke my arm!}
 {32020}{}{Ow, my arm!}
 {32021}{}{Wahhhh!}
@@ -1998,7 +1998,7 @@
 {32701}{}{Star Father! Heal me!}
 {32702}{}{Ouch! I need some ice for my head.}
 {32710}{}{Ow, my arm!}
-{32711}{}{Ow!}
+{32711}{}{Aj!}
 {32712}{}{You broke my arm!}
 {32720}{}{Ow, my arm!}
 {32721}{}{Wahhhh!}
@@ -2012,7 +2012,7 @@
 {32736}{}{Ohhh, pain!}
 {32760}{}{Ow, my leg!}
 {32761}{}{My knee!}
-{32762}{}{Ow!}
+{32762}{}{Aj!}
 {32770}{}{Ow, my tibia!}
 {32771}{}{My knee!}
 {32772}{}{Aaaarrrrggghhh!}
@@ -2131,7 +2131,7 @@
 {33236}{}{Ohhh... owwww}
 {33260}{}{My fibia!}
 {33261}{}{My knee!}
-{33262}{}{Ow!}
+{33262}{}{Aj!}
 {33270}{}{Oooh, my femur!}
 {33271}{}{My knee!}
 {33272}{}{That'll be a limper..}
@@ -3006,7 +3006,7 @@
 {41640}{}{Stop that.}
 {41641}{}{Do you really think you're tough?}
 {41642}{}{Violence never solves anything.}
-{41643}{}{Ow!}
+{41643}{}{Aj!}
 {41644}{}{Cut that out.}
 {41645}{}{I've had about all I can take of you.}
 {41646}{}{I am NOT a merry mutant.}
@@ -3030,7 +3030,7 @@
 {41664}{}{I'm going to hop on you.}
 {41665}{}{Oh, my bad leg!}
 {41666}{}{Gonna make it harder to kick your ass.}
-{41667}{}{Ow!}
+{41667}{}{Aj!}
 {41668}{}{Hey!}
 {41669}{}{Stupid normal!}
 {41670}{}{Mother...!}
@@ -3040,7 +3040,7 @@
 {41674}{}{Skit!}
 {41675}{}{Förbannat!}
 {41676}{}{That's gonna scar.}
-{41677}{}{Ow!}
+{41677}{}{Aj!}
 {41678}{}{Stupid normal!}
 {41679}{}{Hey!}
 {41680}{}{Aaah!}

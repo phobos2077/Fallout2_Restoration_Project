@@ -51,7 +51,7 @@
  If you cannot deal with me civilly, then please leave.}
 {146}{}{Sorry, I'll try to be more civil.}
 {147}{}{Shove it.}
-{148}{}{Yeah.}
+{148}{}{Visst.}
 {149}{}{Good day to you.}
 {150}{}{I regret the fact that I must kill you.}
 {151}{}{.}

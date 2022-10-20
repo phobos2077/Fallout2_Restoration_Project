@@ -31,7 +31,7 @@
 {350}{}{Who you?}
 {351}{}{You no slaver.}
 {352}{}{You no hurt?}
-{353}{}{Friend?}
+{353}{}{Vän?}
 {354}{}{You help?}
 {355}{}{What's going to happen to us?}
 {356}{}{Were you captured too?}
@@ -128,14 +128,14 @@
 {535}{}{You think this makes things better?}
 {600}{}{We go?}
 {601}{}{No hurt?}
-{602}{}{Go!}
-{603}{}{Home!}
-{604}{}{Free?}
+{602}{}{Gå!}
+{603}{}{Hem!}
+{604}{}{Gratis?}
 {605}{}{Vadå?}
 {606}{}{Vad?}
 {607}{}{Did you say free?}
 {608}{}{I'm out of here!}
 {609}{}{Let's go!}
 {610}{}{Everyone! We're free!}
-{611}{}{Yaaahooo!}
+{611}{}{Jiiippieee!}
 {700}{}{You free the slaves from their pens.}

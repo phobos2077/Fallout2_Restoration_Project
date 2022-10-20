@@ -31,8 +31,8 @@
 {176}{}{Never mind. Bye}
 {177}{}{Oh my. I can tell we will have a communication problem. Please nod
  if you would like to trade any goods.}
-{178}{}{[Nod]}
-{179}{}{Byebye.}
+{178}{}{[Nickning]}
+{179}{}{Hej då.}
 {180}{}{No one, I'm afraid. The Den is an anarchistic place where a kind of
  Darwinian struggle is played out. Only the strongest, fastest or smartest
  will survive here. I'm sure you will find your niche.}

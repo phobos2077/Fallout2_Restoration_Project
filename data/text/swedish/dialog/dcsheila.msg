@@ -41,8 +41,8 @@
 {191}{}{You were great!}
 {192}{}{Thanks. You too.}
 {193}{}{Hmm.}
-{194}{}{Yeah.}
-{195}{}{Great!}
+{194}{}{Visst.}
+{195}{}{Utmärkt!}
 {196}{}{OK, we're done. Bye.}
 {197}{}{That's it?}
 {198}{}{OK. Bye}
@@ -52,7 +52,7 @@
 {202}{}{It's not like you were worth the money anyhow.}
 {203}{}{You'll miss me.}
 {204}{}{Hej då.}
-{205}{}{Lost?}
+{205}{}{Vilse?}
 {206}{}{Come back anytime.}
 {207}{}{OK. Bye.}
 {208}{}{Yeah, right.}

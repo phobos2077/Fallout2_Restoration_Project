@@ -3,7 +3,7 @@
 {102}{}{He's a stocky fellow and with constantly flushed face and shock of thin blond hair. He walks with a slight limp.}
 {103}{}{Greetings, stranger. Don't know you from these parts, so that means you're not a rancher. You come looking for work or are you here to buy?}
 {104}{}{What'll it be, stranger?}
-{105}{}{Work.}
+{105}{}{Arbete.}
 {106}{}{Buy.}
 {107}{}{Well, my name's Duppo. Ranch supplies and hiring hall, all done right here. Gotta say, you don't look like a brahmin puncher. How are you with a gun?}
 {108}{}{Still looking for some guards, if you're interested.}
@@ -20,7 +20,7 @@
 {119}{}{Anything else?}
 {120}{}{Good enough. Anything else, stranger?}
 {121}{}{Buy.}
-{122}{}{Work.}
+{122}{}{Arbete.}
 {123}{}{Wes-tin?}
 {124}{}{I'm looking for Roger Westin. Ever hear of him?}
 {125}{}{Where can I find Frank Carlson?}

@@ -2,7 +2,7 @@
 {101}{}{You see Tyler, the leader of this gang.}
 {150}{}{He seems fairly strong.}
 {200}{}{Hey, don't touch the fucking door.}
-{201}{}{Moron.}
+{201}{}{Idiot.}
 {210}{}{Now we finish it.}
 {220}{}{Told you it would be a piece of cake.}
 {221}{}{That was like leading lambs to the slaughter.}
@@ -49,7 +49,7 @@
 {301}{}{Beat it, bitch. Metzger wouldn't have sent a woman anyhow, so take a hike.}
 {302}{}{Bitch? I'll show you what this bitch can do.}
 {303}{}{Fuck you.}
-{304}{}{[Leave]}
+{304}{}{[Lämna]}
 {310}{}{Beat it.}
 {320}{}{That's nice. Me Tyler. Me go bye bye.}
 {321}{}{Ur.}
@@ -59,7 +59,7 @@
 {332}{}{Arug!}
 {340}{}{I don't think so. Now beat it.}
 {341}{}{Okej.}
-{342}{}{But!}
+{342}{}{Men!}
 {343}{}{Bra.}
 {350}{}{Yeah, I bet you are. Who sent you?}
 {351}{}{Yeah, you said that already, fuck head. Who sent you?}
@@ -91,7 +91,7 @@
 {411}{}{Yeah, so-so.}
 {412}{}{You trying to annoy me?}
 {413}{}{Not bad.}
-{414}{}{Tired.}
+{414}{}{Utmattad.}
 {415}{}{Okej.}
 {416}{}{Beat it.}
 {417}{}{Been better.}
@@ -109,7 +109,7 @@
 {450}{}{Damn, what the hell's wrong with you today? Lay off the drugs.}
 {451}{}{Drugs are bad for you, man.}
 {452}{}{Drugs are bad for you, lady.}
-{453}{}{[Grunt]}
+{453}{}{[Stön]}
 {460}{}{Oh, yeah? What's that?}
 {461}{}{It'll cost you.}
 {462}{}{Lara's planning on hitting this place tonight.}

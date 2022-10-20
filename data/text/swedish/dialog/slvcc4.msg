@@ -17,7 +17,7 @@
 {350}{}{Who you?}
 {351}{}{You no slaver.}
 {352}{}{You no hurt?}
-{353}{}{Friend?}
+{353}{}{Vän?}
 {354}{}{You help?}
 {355}{}{What's going to happen to us?}
 {356}{}{Were you captured too?}

@@ -33,9 +33,9 @@
 {251}{}{I'm looking for a Merchant.}
 {252}{}{You ever heard of Vault 13?}
 {253}{}{Hej då.}
-{254}{}{Work.}
+{254}{}{Arbete.}
 {255}{}{Mat.}
-{256}{}{Kill.}
+{256}{}{Döda.}
 {257}{}{Ug.}
 {270}{}{Ah, a bloodthirsty one. Well... Talk to the boss. We might have a place for ya. Go through the back door.}
 {271}{}{Metzger's never had a bitch slaver, but if you're really that bloodthirsty, check with him. He's right through that door.}

@@ -2,7 +2,7 @@
 {1001}{}{Ow! That hurt!}
 {1002}{}{Ouch! I need some ice for my head.}
 {1010}{}{Ow, my arm!}
-{1011}{}{Ow!}
+{1011}{}{Aj!}
 {1012}{}{You broke my arm!}
 {1020}{}{Ow, my arm!}
 {1021}{}{Wahhhh!}
@@ -16,7 +16,7 @@
 {1036}{}{Ohhh, pain!}
 {1060}{}{Ow, my leg!}
 {1061}{}{My knee!}
-{1062}{}{Ow!}
+{1062}{}{Aj!}
 {1070}{}{Ow, my leg!}
 {1071}{}{My knee!}
 {1072}{}{Aaaarrrrggghhh!}
@@ -108,7 +108,7 @@
 {1322}{}{You broke my arm, so I'm gonna break your neck!}
 {1330}{}{A little blood ain't hurt no-one.}
 {1331}{}{Oof! I'm gonna scrag you for that...}
-{1332}{}{Ow!}
+{1332}{}{Aj!}
 {1333}{}{I like the pain!}
 {1334}{}{I love the sound of cracking ribs!}
 {1335}{}{That ain't nothing!}
@@ -1047,7 +1047,7 @@
 {32001}{}{My scalp!}
 {32002}{}{oooh... my ears...}
 {32010}{}{Ow, my arm!}
-{32011}{}{Ow!}
+{32011}{}{Aj!}
 {32012}{}{You broke my arm!}
 {32020}{}{Ow, my arm!}
 {32021}{}{Wahhhh!}
@@ -1251,7 +1251,7 @@
 {32701}{}{Star Father! Heal me!}
 {32702}{}{Ouch! I need some ice for my head.}
 {32710}{}{Ow, my arm!}
-{32711}{}{Ow!}
+{32711}{}{Aj!}
 {32712}{}{You broke my arm!}
 {32720}{}{Ow, my arm!}
 {32721}{}{Wahhhh!}
@@ -1265,7 +1265,7 @@
 {32736}{}{Ohhh, pain!}
 {32760}{}{Ow, my leg!}
 {32761}{}{My knee!}
-{32762}{}{Ow!}
+{32762}{}{Aj!}
 {32770}{}{Ow, my tibia!}
 {32771}{}{My knee!}
 {32772}{}{Aaaarrrrggghhh!}
@@ -1384,7 +1384,7 @@
 {33236}{}{Ohhh... owwww}
 {33260}{}{My fibia!}
 {33261}{}{My knee!}
-{33262}{}{Ow!}
+{33262}{}{Aj!}
 {33270}{}{Oooh, my femur!}
 {33271}{}{My knee!}
 {33272}{}{That'll be a limper..}

@@ -43,7 +43,7 @@
 {184}{}{Tell me where Vault 13 is.}
 {186}{}{Come with me, I could use a hand.}
 {187}{}{It was nothing. Good bye.}
-{188}{}{Candy?}
+{188}{}{Godis?}
 {189}{}{Vault 13? There's a Vault City east of here. I trade there,
  sometimes.}
 {190}{}{Want to go there with me?}
@@ -160,7 +160,7 @@
 {2202}{}{Sure thing, Boss.}
 {2203}{}{Ready to go when you are, Boss.}
 {2204}{}{Great! Let's go.}
-{2205}{}{Great!}
+{2205}{}{Utmärkt!}
 {2206}{}{You're the best, Boss!}
 {2207}{}{You won't be disappointed. No more mistakes!}
 {2208}{}{I'll be careful this time, don't you worry!}
@@ -224,7 +224,7 @@
 {4006}{}{We leaving Boss?}
 {4007}{}{I'm moving.}
 {4008}{}{Sorry Boss.}
-{4009}{}{Better?}
+{4009}{}{Bättre?}
 {4010}{}{Ooof.}
 {4011}{}{How's this Boss?}
 {4012}{}{I'll stand over here.}
@@ -232,7 +232,7 @@
 {4100}{}{Boss! I'm not doing so well here.}
 {4101}{}{I need a doctor.}
 {4102}{}{Oh, boy. This really hurts.}
-{4103}{}{Ow!}
+{4103}{}{Aj!}
 {4104}{}{Ouch.}
 {4105}{}{Dang it.}
 {4106}{}{Medic?}

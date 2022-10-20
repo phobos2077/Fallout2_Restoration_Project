@@ -25,10 +25,10 @@
 {124}{}{How about my smarts?}
 {125}{}{Hmm. None of them. Forget it.}
 {126}{}{Very well. I'll be matching you against the scorpion. You will both attempt to unlock those boxes. Good luck.}
-{127}{}{Go!}
+{127}{}{Gå!}
 {128}{}{Let's do it.}
 {129}{}{Right. You'll stand behind this rail, and you and the scorpion will tell me the letters you read, from top to bottom, left to right.}
-{130}{}{Go!}
+{130}{}{Gå!}
 {131}{}{Got it. Let's go.}
 {132}{}{You and the scorpion will be playing a game of my own devising. I call it "chess". Are you ready?}
 {133}{}{'Es!}

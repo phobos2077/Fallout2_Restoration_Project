@@ -36,7 +36,7 @@
 {180}{}{Well, I guess they don't like to crawl through the goo too much. I can't say as I blame them.
  It sure burns if gets on your skin. But that doesn't seem to stop 'em from licking up the darn stuff
  like it was Buckner's Best.}
-{181}{}{Interesting.}
+{181}{}{Intressant.}
 {190}{}{Enough gum flapping. Now let's get out of here. I figure that if I can join you we should both
  be able to make it out of here okay. I sure could use the help.}
 {191}{}{Ok. You can join me. I'll make sure you get out of here and back to Klamath. I think that Ardin
