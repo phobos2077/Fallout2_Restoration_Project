@@ -1,4 +1,4 @@
-{100}{}{Usted ve un Hubologist de la guardia.}
+{100}{}{Ves a un guardia Hubologista.}
 {101}{}{Él está construida como una roca y está bien armado.}
 {200}{}{Alto! Esta es la propiedad privada de la Iglesia de Hubology. ¿Cuál es su negocio aquí?}
 {201}{}{He venido a saquear este lugar. Me dijeron que hay un montón de riqueza para la toma.}
