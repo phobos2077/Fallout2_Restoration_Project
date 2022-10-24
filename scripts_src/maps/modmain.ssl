@@ -83,6 +83,16 @@ variable laddie; //added by killap
       if ( (laddie_dead == false) and (not(laddie_none)) ) then
          laddie:=create_object_sid(PID_LADDIE,13519,0,SCRIPT_MCLADDIE);
       //end
+
+      // if player has car, move it from Ghost farm to Modoc
+      if dude_has_car and (car_current_town == AREA_GHOST_TOWN) then begin
+         set_global_var(GVAR_CAR_PLACED_TILE, 0);
+         Create_Car(CAR_MODOC_HEX,CAR_MODOC_ELEV)
+         if (tile_contains_pid_obj(CAR_MODOC_HEX, CAR_MODOC_ELEV, PID_DRIVABLE_CAR) != 0) then begin
+            Create_Trunk(CAR_MODOC_HEX,CAR_MODOC_ELEV)
+         end
+      end
+
    end else begin
       override_map_start_hex(23533,0,5);
    end
