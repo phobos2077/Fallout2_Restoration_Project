@@ -35,7 +35,7 @@
 {181}{}{Ich möchte in der Welt herumreisen, wenn ich so alt bin wie du.}
 {182}{}{Du bist ein netter Wilder, nicht so wie die anderen.}
 {183}{}{Beim Baden aber bestimmt.}
-{184}{}{Du bist klüger als Torr}
+{184}{}{Ich hab 'nen Glitzerstein}
 {185}{}{Ist die Klinge da richtig scharf?}
 {186}{}{Wenn ich erwachsen bin, möchte ich sein wie du.}
 {187}{}{Mein Hund liebt Dörrfleisch.}
@@ -47,7 +47,7 @@
 {193}{}{Was hast'n da an?}
 {194}{}{Ich möchte auf 'nem Brahmin reiten!}
 {195}{}{Bist du von weit weg?}
-{196}{}{Uuuiii! Ha Ha Ha}
+{196}{}{Weeee! Ha ha ha!}
 {197}{}{Geh nicht weg!}
 {198}{}{Hast du was zum Essen?}
 {199}{}{Stör ich dich?}

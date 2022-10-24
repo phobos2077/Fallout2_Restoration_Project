@@ -18,7 +18,7 @@
 {163}{}{Stay away from me!}
 {164}{}{Eeeeeeeee!}
 {165}{}{I hate you!}
-{166}{}{Mommy mommy mommy!}
+{166}{}{Mommy, mommy, mommy!}
 {167}{}{Leave me alone!}
 {168}{}{You stink!}
 {170}{}{Hello there.}
@@ -35,7 +35,7 @@
 {181}{}{I want to travel the world when I'm as old as you.}
 {182}{}{You're a nice tribal, not like the others.}
 {183}{}{I bet you do bathe.}
-{184}{}{You're smarter than Torr.}
+{184}{}{I've got a shiny pebble.}
 {185}{}{Is that blade you have really sharp?}
 {186}{}{I want to be just like you when I grow up.}
 {187}{}{My dog loves drymeat.}
@@ -47,7 +47,7 @@
 {193}{}{Whatcha wearing?}
 {194}{}{I want a brahmin ride!}
 {195}{}{Are you from far away?}
-{196}{}{Weeee! Ha, ha, ha!}
+{196}{}{Weeee! Ha ha ha!}
 {197}{}{Don't leave!}
 {198}{}{Do you have some food?}
 {199}{}{Am I bothering you?}

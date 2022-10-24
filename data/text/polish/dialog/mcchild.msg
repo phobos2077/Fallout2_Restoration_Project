@@ -18,7 +18,7 @@
 {163}{}{Nie zbliżaj się!}
 {164}{}{Eeeeeeeee!}
 {165}{}{Nienawidzę cię!}
-{166}{}{Mamo mamo mamo!}
+{166}{}{Mamo! Mamo! Mamo!}
 {167}{}{Zostaw mnie w spokoju!}
 {168}{}{Sam śmierdzisz!}
 {170}{}{Cześć wszystkim.}
@@ -35,7 +35,7 @@
 {181}{}{Kiedy będę już w twoim wieku, to mam zamiar podróżować po całym świecie.}
 {182}{}{Jesteś miłym dzikusem, nie tak jak inni.}
 {183}{}{Założę się, że się kąpiesz.}
-{184}{}{Nie zachowujesz się tak głupio jak Torr.}
+{184}{}{A ja mam błyszczący kamyk.}
 {185}{}{Czy to ostrze jest naprawdę ostre?}
 {186}{}{Kiedy dorosnę, to chcę być taki jak ty.}
 {187}{}{Mój pies uwielbia suszone mięso.}
@@ -47,7 +47,7 @@
 {193}{}{Co masz na sobie?}
 {194}{}{Chcę się przejechać na braminie!}
 {195}{}{Jesteś z daleka?}
-{196}{}{Iiiiii! Ha, ha, ha!}
+{196}{}{Weeee! Ha ha ha!}
 {197}{}{Nie odchodź!}
 {198}{}{Masz coś do jedzenia?}
 {199}{}{Przeszkadzam ci?}

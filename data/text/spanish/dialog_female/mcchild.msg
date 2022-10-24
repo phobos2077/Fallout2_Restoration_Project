@@ -35,7 +35,7 @@
 {181}{}{Quiero viajar por todo el mundo cuando sea mayor como tú.}
 {182}{}{Tu eres una tribal buena, no como los otros.}
 {183}{}{Apuesto a que tú te bañas.}
-{184}{}{Eres más lista que Torr.}
+{184}{}{Tengo una piedrecita brillante.}
 {185}{}{¿Ese cuchillo que tienes está afilado?}
 {186}{}{Quiero ser como tú cuando crezca.}
 {187}{}{A mi perro le encanta la cecina.}
@@ -47,7 +47,7 @@
 {193}{}{¿Qué es lo que llevas puesto?}
 {194}{}{¡Quiero montar en brahmin!}
 {195}{}{¿Eres de muy lejos?}
-{196}{}{¡Siii! ¡Ja Ja Ja!}
+{196}{}{Weeee! Ha ha ha!}
 {197}{}{¡No te vayas!}
 {198}{}{¿Tienes algo de comida?}
 {199}{}{¿Te estoy molestando?}

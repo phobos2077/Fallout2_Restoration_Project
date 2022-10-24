@@ -32,7 +32,7 @@
 {180}{}{Você viu meu amigo invisível?}
 {181}{}{Quero viajar o mundo quando tiver sua idade.}
 {182}{}{Você é um tribal legal, nem parece com os outros.}
-{183}{}{Eu aposto que você até toma banho... de vez em quando.}
+{183}{}{Aposto que toma banho.}
 {184}{}{Vocé é mais esperto que Torr.}
 {185}{}{Essa lâmina é afiada mesmo?}
 {186}{}{Quando eu crescer quero ser igual a você.}
@@ -45,7 +45,7 @@
 {193}{}{Ta vestindo o quê?}
 {194}{}{Quero andar numa brahmin!}
 {195}{}{Você é de muito longe?}
-{196}{}{Weeee! Ha Ha Ha!}
+{196}{}{Weeee! Ha ha ha!}
 {197}{}{Não vá!}
 {198}{}{Tem comida aí?}
 {199}{}{To te incomodando?}
@@ -72,7 +72,7 @@
 {220}{}{Gosto de você.}
 {221}{}{Você gosta de mim?}
 {222}{}{Você é casado?}
-{223}{}{Um, dois, três - weee!}
+{223}{}{Um, Dois, três... e jááááá!}
 {1000}{}{Ancião}
 {1001}{}{Fundador}
 {1002}{}{Morador do Vault}

@@ -32,7 +32,7 @@
 {180}{}{Neviděl jsi mýho neviditelnýho přítele?}
 {181}{}{Chci procestovat celý svět, až budu stejně starej jako ty.}
 {182}{}{Ty jsi hodný divoch, ne jako ti ostatní.}
-{183}{}{Vsadím se, že se koupáš.}
+{183}{}{Vsadím se, že se myjete.}
 {184}{}{Jseš chytřejší než Torr.}
 {185}{}{Je ten nůž opravdu ostrej?}
 {186}{}{Až vyrostu, chci být jako ty.}
@@ -45,7 +45,7 @@
 {193}{}{Co to máš na sobě?}
 {194}{}{Chci se povozit na brahmíně!}
 {195}{}{Jseš z daleka?}
-{196}{}{Juchůůů! Hahaha!}
+{196}{}{Weeee! Ha ha ha!}
 {197}{}{Neodcházej!}
 {198}{}{Nemáš nějaký jídlo?}
 {199}{}{Neotravuju tě?}
@@ -72,7 +72,7 @@
 {220}{}{Líbíš se mi.}
 {221}{}{Líbím se ti?}
 {222}{}{Máš rodinu?}
-{223}{}{Raz, dva, tři, jééé!}
+{223}{}{Raz, dva, tři... jéééé!}
 {1000}{}{Starsi}
 {1001}{}{Zakladatel}
 {1002}{}{Obyvatel Vaultu}

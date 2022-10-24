@@ -18,7 +18,7 @@
 {163}{}{Ne t'approche pas de moi.}
 {164}{}{Ahhhhhhhh !}
 {165}{}{Je te déteste.}
-{166}{}{Maman maman maman !}
+{166}{}{Maman, maman, maman !}
 {167}{}{Laisse-moi tranquille.}
 {168}{}{Tu pues !}
 {170}{}{Salut tout le monde !}
@@ -35,7 +35,7 @@
 {181}{}{Quand j'aurai ton âge, je veux voyager dans le monde entier.}
 {182}{}{Tu es un gentil tribal, pas comme les autres.}
 {183}{}{Je parie que ça vous arrive de vous laver.}
-{184}{}{Tu es plus intelligent que Torr.}
+{184}{}{J'ai un caillou brillant.}
 {185}{}{Cette épée que tu as, est-elle vraiment tranchante ?}
 {186}{}{Quand je serai grand, je veux être comme toi.}
 {187}{}{Mon chien adore la viande séchée.}
@@ -47,7 +47,7 @@
 {193}{}{Qu'est-ce que tu portes ?}
 {194}{}{Je veux faire un tour de Brahmine !}
 {195}{}{Est-ce que tu viens de loin ?}
-{196}{}{Wiiii ! Ha Ha Ha !}
+{196}{}{Weeee! Ha ha ha!}
 {197}{}{Ne pars pas !}
 {198}{}{Tu as de la nourriture ?}
 {199}{}{Est-ce que je te dérange ?}

@@ -18,7 +18,7 @@
 {163}{}{Fique longe de mim!}
 {164}{}{Eeeeeeeee!}
 {165}{}{Eu odeio você!}
-{166}{}{Mamãe mamãe mamãe!}
+{166}{}{Mamãe, mamãe, mamãe!}
 {167}{}{Deixe-me em paz!}
 {168}{}{Seu fedido!}
 {170}{}{Olá.}
@@ -35,7 +35,7 @@
 {181}{}{Quero viajar o mundo quando tiver sua idade.}
 {182}{}{Você é um tribal legal, nem parece com os outros.}
 {183}{}{Aposto que toma banho.}
-{184}{}{Vocé é mais esperto que Torr.}
+{184}{}{Tenho uma pedrinha brilhante.}
 {185}{}{Essa lâmina é afiada mesmo?}
 {186}{}{Quando eu crescer quero ser igual a você.}
 {187}{}{Meu cachorro adora carne seca.}
@@ -47,7 +47,7 @@
 {193}{}{Ta vestindo o quê?}
 {194}{}{Quero andar numa brahmin!}
 {195}{}{Você é de muito longe?}
-{196}{}{Weeee! Ha, ha, ha!}
+{196}{}{Weeee! Ha ha ha!}
 {197}{}{Não vá!}
 {198}{}{Tem comida aí?}
 {199}{}{To te incomodando?}

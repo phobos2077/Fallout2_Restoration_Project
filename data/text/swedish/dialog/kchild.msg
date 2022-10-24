@@ -32,7 +32,7 @@
 {180}{}{Have you seen my invisible friend?}
 {181}{}{I want to travel the world when I'm as old as you.}
 {182}{}{You're a nice tribal, not like the others.}
-{183}{}{I bet you do to bathe.}
+{183}{}{I bet you do bathe.}
 {184}{}{You're smarter than Torr.}
 {185}{}{Is that blade you have really sharp?}
 {186}{}{I want to be just like you when I grow up.}
@@ -45,7 +45,7 @@
 {193}{}{Whatcha wearing?}
 {194}{}{I want a brahmin ride!}
 {195}{}{Are you from far away?}
-{196}{}{Weeee! Ha Ha Ha!}
+{196}{}{Weeee! Ha ha ha!}
 {197}{}{Don't leave!}
 {198}{}{Do you have some food?}
 {199}{}{Am I bothering you?}
@@ -72,7 +72,7 @@
 {220}{}{I like you.}
 {221}{}{Do you like me?}
 {222}{}{Are you married?}
-{223}{}{One, two, three - weee!}
+{223}{}{One, two, three... Weee!}
 {1000}{}{Äldste}
 {1001}{}{Grundare}
 {1002}{}{Vault Dweller}
