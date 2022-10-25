@@ -195,8 +195,8 @@
 {1174}{}{Megtanultad, hogyan nyúzd meg a gekkót a bőréért.}
 {1175}{}{Belső védelemre tettél szert a fizikai támadások ellen.}
 {1176}{}{Nagy mértékű belső védelmed van a fizikai támadások ellen.}
-{1177}{}{Belső védelemre tettél szert a hőalapú támadások ellen.}
-{1178}{}{Nagy mértékű belső védelmed van a hőalapú támadások ellen.}
+{1177}{}{You have inherent protection against thermal attacks.}
+{1178}{}{You have extra inherent protection against thermal attacks.}
 {1179}{}{10%-ot kaptál a méreg és a sugárzás ellenállásodhoz.}
 {1180}{}{Ezzel a képességgel 1-et kapsz az Erődhöz, ha az Életpontjaid a maximális felére csökkennek.}
 {1181}{}{Mivel figyelmesebb vagy a külvilágban, az ellenségeid nem tudnak olyan könnyen a hátad mögé lopakodni. 3 pontot kapsz az Érzékelésedhez, amikor a véletlenszerű események során helymeghatározásra kerül sor}

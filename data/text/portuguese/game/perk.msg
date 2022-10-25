@@ -195,8 +195,8 @@
 {1174}{}{Voce tem o conhecimento de como esfolar geckos corretamente para conseguir peles.}
 {1175}{}{Voce tem proteçao inerente contra ataques fisicos.}
 {1176}{}{Voce tem proteçao inerente extra contra ataques fisicos.}
-{1177}{}{Voce tem proteçao inerente contra ataques de energia.}
-{1178}{}{Voce tem proteçao inerente extra contra ataques de energia.}
+{1177}{}{You have inherent protection against thermal attacks.}
+{1178}{}{You have extra inherent protection against thermal attacks.}
 {1179}{}{Voce ganhou +10% de resistencia a veneno e radiaçao.}
 {1180}{}{Com este Perk, voce ganha +1 em sua Força quando fica abaixo de 1/2 de seus pontos de vida maximos.}
 {1181}{}{Voce esta mais alerta ao ar livre e os inimigos sao menos propensos a se aproximar de voce. Com este Perk, você recebe +3 em sua percepçao em encontros aleatorios ao determinar a colocaçao.}

@@ -195,8 +195,8 @@
 {1174}{}{You have the knowledge of how to skin geckos properly to get their hides.}
 {1175}{}{You have inherent protection against physical attacks.}
 {1176}{}{You have extra inherent protection against physical attacks.}
-{1177}{}{You have inherent protection against energy attacks.}
-{1178}{}{You have extra inherent protection against energy attacks.}
+{1177}{}{You have inherent protection against thermal attacks.}
+{1178}{}{You have extra inherent protection against thermal attacks.}
 {1179}{}{You have gained +10% resistance to both poison and radiation.}
 {1180}{}{With this Perk, you gain +1 to your Strength when you drop below 1/2 of your max hit points.}
 {1181}{}{You are more alert outdoors and enemies are less likely to sneak up on you. With this Perk you get a +3 to your perception in random encounters when determining placement.}

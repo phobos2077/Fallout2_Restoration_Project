@@ -195,8 +195,8 @@
 {1174}{}{Víš, jak správně stáhnout geckona, aby se nepoškodila jeho kůže.}
 {1175}{}{Pro zvýšení své odolnosti vůči fyzickému útoku máš voperovány podkožní implantáty.}
 {1176}{}{Pro zvýšení své odolnosti vůči fyzickému útoku máš voperovány zesílené podkožní implantáty.}
-{1177}{}{Tyto implantáty zvyšují tvou odolnost vůči všemi druhům energetických útoků.}
-{1178}{}{Tyto zesílené implantáty zvyšují tvou odolnost vůči všemi druhům energetických útoků.}
+{1177}{}{You have inherent protection against thermal attacks.}
+{1178}{}{You have extra inherent protection against thermal attacks.}
 {1179}{}{Získáváš +10% odolnost vůči jedům a radiaci.}
 {1180}{}{S tímto perkem získáváš +1 SÍLA, kdykoliv klesneš pod 1/2 svého maxima hit bodů.}
 {1181}{}{Jsi velmi opatrný a nepřátelé se k tobě nemohou nepozorovaně přiblížit. S tímto perkem získáš +3 ke svému VNÍMÁNÍ v náhodných setkáních, když se rozhoduje o rozmístění protivníků.}
