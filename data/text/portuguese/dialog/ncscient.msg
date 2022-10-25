@@ -18,7 +18,7 @@
 {165}{}{Resultados dos testes com o Jet Beta são muito promissores, mas…}
 {166}{}{O estado de êxtase dura de 15 min a uma hora... calculando um dose/hora... hmmmnnn.}
 {167}{}{O sujeito 12 ainda continua tendo sangramento nos pulmões...}
-{168}{}{That's the fifth time Subject 12 has had seizures... up the dose, see what happens...}
+{168}{}{Essa é a quinta vez que o Sujeito 12 teve convulsões... aumente a dose, vamos ver o que acontece...}
 {169}{}{Bem, que TIPO de alucinações ele estava tendo?}
 {170}{}{Cheque o batimento cardíaco deste aqui. Se ainda estiver em limites toleráveis, aumente a dose.}
 {171}{}{Por que a escrava no grupo de controle se matou? Nós nem a estávamos testando!}
@@ -27,30 +27,30 @@
  dispostos a matar uns aos outros por ela.}
 {202}{}{Os escravos preferem tomar Jet a comer, é potente demais.}
 {203}{}{Quem são estas pessoas com você, Myron? Novos escravos?}
-{204}{}{The third test group seem to be doing the best of all the groups, Myron, sir.}
-{205}{}{Myron, I think the next test group should include at least three children, sir.}
-{206}{}{Myron, sir, Subject 46 had a heart attack; we are restricting doses to six times
- a day from now on.}
-{207}{}{Myron? We need a new shipment of hypodermics from Vault City, soon. We can't
- keep re-using these.}
+{204}{}{O terceiro grupo de teste parece estar sendo o melhor de todos os grupos, Myron, senhor.}
+{205}{}{Myron, acho que o próximo grupo de teste deve incluir pelo menos três crianças, senhor.}
+{206}{}{Myron, senhor, o sujeito 46 teve um ataque cardíaco; estamos restringindo as
+ doses para seis vezes ao dia a partir de agora.}
+{207}{}{Myron? Estamos precisando de um novo carregamento de hipodérmicas de Vault
+ City. Não podemos continuar reutilizando isso.}
 {208}{}{Myron, finalmente! Alguma notícia de quando os novos escravos serão entregues, senhor?}
-{209}{}{Myron, sir, we moved three slaves from the control group into the test group because
- of those respiratory failures we had last week.}
-{210}{}{Myron, sir... we had to shoot one slave for trying to escape. What a waste.}
+{209}{}{Myron, senhor, transferimos três escravos do grupo de controle para o grupo de teste
+ por causa das falhas respiratórias que tivemos na semana passada.}
+{210}{}{Myron, senhor... tivemos que atirar em um escravo que tentou escapar. Um desperdício.}
 {211}{}{Myron... esse novo alucinógeno que você desenvolveu é promissor, mas não é tão viciante como o jet...}
-{212}{}{If you have any suggestions, please write it on a piece of paper and then put it right
- in the trash bin over there.}
+{212}{}{Se você tiver alguma sugestão, faz um favor, escreve em um pedaço de papel e pode
+ colocar naquela lixeira ali.}
 {213}{}{Sim, sim, o quê?}
 {214}{}{Não conseguiremos resultados se você continuar nos interrompendo.}
 {215}{}{Parece que hoje em dia o filho de qualquer vizinho pode andar por aqui...}
 {216}{}{O que você quer?}
 {217}{}{Por favor, me desculpe, *eu* tenho trabalho a fazer.}
 {218}{}{Se você tiver dúvidas, fale com os guardas, não comigo.}
-{219}{}{Yes, I'm certain that whatever you need is of *great* importance, but I have duties
- of my own.}
+{219}{}{Sim, tenho certeza de que tudo o que você precisa é de *grande* importância, mas
+ tenho minhas próprias tarefas.}
 {220}{}{Você está autorizado a estar aqui?}
 {221}{}{Quem te permitiu entrar aqui?}
-{222}{}{When Myron hears strangers were entering the lab...}
-{223}{}{Do you have those test results I asked for... oh, sorry. Thought you were a lab tech.}
+{222}{}{Quando Myron ouve estranhos entrando no laboratório...}
+{223}{}{Você tem os resultados do teste que eu pedi... oh, desculpe. Pensei que você fosse um técnico de laboratório.}
 {224}{}{Muito ocupado para falar agora, desculpe.}
-{225}{}{Need a new crop of slaves soon... these ones are running out of steam.}
+{225}{}{Precisamos de uma nova safra de escravos em breve... estes estão perdendo a força.}
