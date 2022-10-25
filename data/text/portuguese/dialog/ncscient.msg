@@ -1,8 +1,8 @@
 {100}{}{Você vê um cientista.}
-{150}{}{You see a stern-looking man with a clipboard and a hypodermic. He ignores you.}
+{150}{}{Você vê um homem de aparência séria com uma prancheta e uma seringa hipodérmica. Ele te ignora.}
 {151}{}{Ele parece extremamente cansado e irritado.}
-{152}{}{You see a tired -looking woman. She is checking a clipboard and looking around as
- if she has forgotten something.}
+{152}{}{Você vê uma mulher de aparência cansada. Ela está verificando uma prancheta e
+ olhando em volta como se tivesse esquecido alguma coisa.}
 {153}{}{Ela está enchendo uma seringa hipodérmica, resmungando um pouco para si mesma.}
 {154}{}{Olá, Myron, senhor.}
 {155}{}{Myron... senhor, tem um minuto...?}
