@@ -45,7 +45,7 @@
 {193}{}{Ta vestindo o quê?}
 {194}{}{Quero andar numa brahmin!}
 {195}{}{Você é de muito longe?}
-{196}{}{Weeee! Ha ha ha!}
+{196}{}{Weeee! Ha, ha, ha!}
 {197}{}{Não vá!}
 {198}{}{Tem comida aí?}
 {199}{}{To te incomodando?}
