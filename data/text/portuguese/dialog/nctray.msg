@@ -69,55 +69,55 @@
 {341}{}{"Ajustes?" Que tipo de ajustes?}
 {342}{}{Sell her to BISHOP? Look, idiot... Bishop's dea... er, I mean, I can meet Bishop's offer.}
 {343}{}{Sell her to Bishop? Hell, I can meet Bishop's offer and then raise it some.}
-{344}{}{What a coincidence. I'm Bishop's lieutenant, }
-{346}{}{Actually, you won't be selling that car to anyone. The car's mine.}
-{347}{}{Sounds like a good deal. Catch you later.}
+{344}{}{Que coincidência. Eu sou o tenente de Bishop, }
+{346}{}{Na verdade, você não vai vender aquele carro para ninguém. O carro é meu.}
+{347}{}{Parece um bom negócio. Nos vemos mais tarde.}
 {360}{}{Jazz up the engine, clean out the interior, put a brass rope around the license plate - and kick some of that shit
  outta the trunk, make some room. When we're done, it'll be worth some serious chips to Mr. Bishop.}
 {361}{}{Sell her to Bishop? I can meet Bishop's offer and then raise it some.}
-{362}{}{What a coincidence. I'm one of Bishop's lieutenants: }
-{365}{}{Sounds good. Catch you later then.}
+{362}{}{Que coincidência. Eu sou um dos tenentes de Bishop: }
+{365}{}{Parece bom. Nos vemos mais tarde então.}
 {375}{}{You're gonna match BISHOP'S offer? That's a lot of scrilla, man. A LOT of chips. Plus, he's one of the top men in
  Reno, y'know? I get him this machine, there's... FRINGE benefits.}
 {376}{}{You're gonna match BISHOP'S offer? That's a lot of scrilla, woman. A LOT of chips. Plus, he's one of the top men in
  Reno, y'know? I get him this machine, there's... FRINGE benefits.}
 {377}{}{Estou ouvindo...}
-{378}{}{1000 chips change your mind?}
-{379}{}{750 chips change your mind?}
-{380}{}{500 chips change your mind?}
-{381}{}{Actually, I don't have enough chips to make you an offer right now...}
+{378}{}{1000 tampas mudam sua opiniao?}
+{379}{}{750 tampas mudam sua opiniao?}
+{380}{}{500 tampas mudam sua opiniao?}
+{381}{}{Na verdade, não tenho tampas suficientes para aceitar sua oferta agora...}
 {382}{}{How about a night with me, T-Ray? You ain't never going to have anything better.}
 {383}{}{My offer's this: I'll leave you in one piece if you give me MY car back right now.}
 {384}{}{Não importa... eu tenho que ir.}
 {395}{}{Man, that amount couldn't even afford to change my clothes, much less change my mind. }
 {396}{}{Woman, that amount couldn't even afford to change my clothes, much less change my mind. }
-{397}{}{You must think cars are cheap.}
-{398}{}{Let's re-negotiate then.}
+{397}{}{Você deve pensar que os carros são baratos.}
+{398}{}{Vamos renegociar então.}
 {399}{}{Look, I can't make you an offer right now, but once I get the chips together...}
 {401}{}{No, but your life is. I'll leave you in one piece if you give me back MY car right now.}
-{402}{}{I don't have time for this right now. Good-bye.}
+{402}{}{Não tenho tempo para isso agora. Adeus.}
 {420}{}{Naw, I already got one dog I give a bone to, and I ain't looking to start a kennel. From the looks of you, you ain't
  got nothing that would be worth my time.}
-{421}{}{Your loss. Let me see your stock then.}
+{421}{}{Deixe-me ver seu estoque então.}
 {422}{}{Know what? I'm SICK of listening to you and your bullshit. I'm going to carve you into so many pieces you could
  start your own butcher shop.}
-{423}{}{All right then. I'm leaving.}
-{436}{}{Screw negotiating, then. Give me MY car back, right now. Or else.}
-{437}{}{Forget this. I'm going to carve you into so many pieces you could start your own butcher shop.}
+{423}{}{Tudo bem então. Estou indo embora.}
+{436}{}{Foda-se a negociação. Me devolva o meu carro, agora mesmo. Ou então.}
+{437}{}{Esqueça. Vou te cortar em tantos pedaços que vou conseguir abrir o meu próprio açougue.}
 {445}{}{(His eyes slide up and down your body.) I don't know if you're worth all THAT, woman. This is a HIGHWAYMAN we're talking about...}
 {446}{}{Oh, I'm worth all that. And more.}
 {455}{}{Curse me for a fool... it's a done deal, then. I get some playtime, then you can drive that Highwayman outta here.}
-{456}{}{Let's get to it, then.}
-{457}{}{Screw negotiating. Give me MY car back, right now. Or else.}
+{456}{}{Então vamos a isso.}
+{457}{}{Foda-se a negociação. Me devolva o meu carro, agora mesmo. Ou então.}
 {458}{}{I've changed my mind. I think I'm just going to kill you instead.}
 {459}{}{Esqueça. Estou indo.}
 {470}{}{Look, why are you wasting my time? If you ain't got the chips, then you ain't got no business here. I got better
  things to do than be talking to your cheap ass.}
 {471}{}{Only thing that's cheap in here is your life. I'll leave you in one piece if you give me back MY car right now.}
-{472}{}{You know, that was your last chance. Now I'm just going to KILL you.}
-{485}{}{YOUR car? }
-{486}{}{Man, you don't even know what the hell you're talking about. }
-{487}{}{Woman, you don't even know what the hell you're talking about. }
+{472}{}{Sabe, essa foi sua última chance. Agora eu só vou te MATAR.}
+{485}{}{SEU carro? }
+{486}{}{Cara, você nem sabe do que está falando. }
+{487}{}{Mulher, você nem sabe do que está falando. }
 {488}{}{That Highwayman was scrap, left lying around, and guess what? Now it's ours. 'Course, you got an ISSUE with that, we
  could settle it here and now...}
 {489}{}{Yeah, I got an issue with it. Let's go, chop shop boy...}
