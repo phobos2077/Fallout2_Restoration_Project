@@ -30,7 +30,7 @@
 {129}{}{I'm looking for work. Know anybody who's hiring?}
 {130}{}{Forget it. I don't want to take up your time.}
 {131}{}{Those bastards killed my brother and then said it was for the good of the people! I want them dead. If you can help, talk to Vortis.}
-{132}{}{Sounds like a good idea to me.}
+{132}{}{Jag tycker att det låter som en bra idé.}
 {133}{}{Vortis, eh? You're a fountain of wisdom. What else do you know?}
 {134}{}{Right. Think I'll do that right now.}
 {135}{}{Everybody's heard of Vault 13. When I was a kid, me and my friends used to go prospecting for it. Supposed to be east of here, so we searched everything but never did find it.}
