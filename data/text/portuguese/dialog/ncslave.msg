@@ -1,10 +1,10 @@
 {100}{}{Você vê um escravo doente.}
 {101}{}{Você vê um escravo drogado.}
 {102}{}{Você vê um escravo.}
-{150}{}{You see a broken looking man. His eyes dart around the area, as if following some invisible insect.}
-{151}{}{You see a sickly slave. He looks terribly frightened, and his eyes seem unable to focus on you.}
-{152}{}{You see a sickly slave. His clothes are in tatters, and his skin hangs loosely on his flesh.}
-{153}{}{You see a sickly slave. He is coughing violently, and his tattered shirt has blood stains on the front of it.}
+{150}{}{Você vê um homem com a cara meio estragada. Seus olhos percorrem a área, como se estivesse seguindo algum churrumino.}
+{151}{}{Você vê um escravo doente. Ele parece terrivelmente assustado, e seus olhos parecem incapazes de focar em você.}
+{152}{}{Você vê um escravo doente. Suas roupas estão em farrapos, e sua pele pende frouxamente em sua carne.}
+{153}{}{Você vê um escravo doente. Ele está tossindo violentamente, e sua camisa esfarrapada tem manchas de sangue no colo.}
 {154}{}{You see a sickly slave. The smell of dried urine and feces emanates from him.}
 {155}{}{You see a sickly slave. His teeth have fallen out, and his eyes are bloodshot.}
 {156}{}{You see a sickly slave. Some sort of rash covers his face and neck, and he scratches occasionally.}

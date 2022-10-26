@@ -6,11 +6,11 @@
 {203}{}{Dê sua oferta em nossa principal seleção de espólio! É um estouro de espólios!}
 {204}{}{Temos bunda branca, bunda preta, bunda do sul, bunda do norte...}
 {205}{}{Temos bunda quente, bunda fria, temos bunda fresca, temos...::ugh::... bunda *fedorenta*...}
-{206}{}{Temos espólio tribal, temos espólio mutante, espólio de radscorpion, espólio de robô.}
-{207}{}{Temos até espólio de brahmin , espólios de ghoul, espólios de deathclaws.}
-{208}{}{Vamos lá, você quer espólios? Entrem, amantes do espólio!}
-{209}{}{If we don't got it, you don't want it! Come on in, booty lovers!}
-{210}{}{Attention booty shoppers! Take advantage of this booty sale!}
-{211}{}{Buy one piece of booty at the regular price, n' you'll get another piece of booty of equal or lesser value for only a chip!}
-{212}{}{Venha e ganhe loot em troca de uma tampa!}
-{213}{}{Se você pode encontrar espólio mais barato em qualquer lugar... NOS DIGA!}
+{206}{}{Temos bunda de tribal, temos bunda mutante, bundinha de radscorpion, bunda de robô.}
+{207}{}{Temos até bundão de brahmin , bunda de ghoul, bunda de deathclaws.}
+{208}{}{Vamos lá, você quer bundas? Entrem, amantes das bundas!}
+{209}{}{Se não temos, você não quer! Entrem, amantes das bundas!}
+{210}{}{Atenção, compradores de bunda! Aproveite essa promoção das bundas!}
+{211}{}{Compre uma bela bunda pelo preço normal, e você receberá outra bela bunda de valor igual ou menor por apenas uma tampa!}
+{212}{}{Venha e ganhe bundas em troca de uma tampa!}
+{213}{}{Se você pode encontrar bundas mais baratas em qualquer lugar... NOS DIGA!}
