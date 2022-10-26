@@ -1,63 +1,63 @@
-{100}{}{You see a good-looking black man... er, no, wait. You see T-Ray.}
-{150}{}{You see a heavily muscled black man with thick glasses, a light beard, and an attitude.}
-{151}{}{You see T-Ray. He looks pretty good in them jeans.}
-{152}{}{You see T-Ray. He occasionally flexes and feels his biceps, whispering "damn" to himself.}
-{153}{}{You can barely make out T-Ray past all that attitude.}
-{200}{}{Hey, it wasn't my fault that condom we were using had a hole in it.}
-{201}{}{Whoa! I wasn't bragging to everyone about you and me doing it. Really! Musta been somebody else.}
-{202}{}{DAMN, woman. After I hit those skins, you go off and save the world. That's T-Ray's power for you.}
-{210}{}{I been telling everyone that you and me is TIGHT. That when I give the word, it's like it was you givin' the orders.}
-{211}{}{You're lucky I was around to save your ass, or the Enclave woulda had you for BREAKFAST.}
-{212}{}{Yo, hero. You be sure to tell everyone that T-Ray's your man, aiight?}
-{220}{}{Whoa, we're in the presence of royalty. Big hero, comin' through.}
-{221}{}{You know, you coulda stopped by before you went off and did that shit, then I coulda helped you whack the President.}
-{222}{}{I woulda gone to the Enclave, too, 'cept I was talkin' on the phone too much.}
-{230}{}{How many horsepower does that thing you have on get?}
+{100}{}{Você vê um negro bonito... er, não, espere. Você vê T-Ray.}
+{150}{}{Você vê um negro musculoso com óculos grossos, barba rala e de atitude.}
+{151}{}{Você vê T-Ray. Ele fica muito bem naqueles jeans.}
+{152}{}{Você vê T-Ray. Ele ocasionalmente flexiona e sente seus bíceps, sussurrando "merda" para si mesmo.}
+{153}{}{Você mal consegue distinguir o T-Ray além de toda essa atitude.}
+{200}{}{Ei, não foi minha culpa que a camisinha que eu peguei tinha um buraco.}
+{201}{}{Opa! Eu não estava me gabando pra todo mundo sobre nós fazendo isso. Eh Sério! Deve ser outra pessoa.}
+{202}{}{PORRA, mulher. Depois que eu dar uma boa olhada, você sai e salva o mundo. Esse é o poder que T-Ray tem pra você.}
+{210}{}{Estou dizendo para todos que nós somos INTIMOS. Que quando eu digo algo, é como se as ordens fossem suas.}
+{211}{}{Você tem sorte que eu estava por perto para salvar sua pele, ou a Enclave teria feito CAFÉ DA MANHÃ de voce.}
+{212}{}{Ae, heroína. Tenha certeza de dizer a todos que T-Ray é seu homem, fechou?}
+{220}{}{Uau, estamos presenciando a realeza. Grande herói chegando.}
+{221}{}{Sabe, você poderia ter dado uma passada aqui antes de sair e fazer tudo aquilo, então eu poderia ter te ajudado a dar uma surra no presidente.}
+{222}{}{Eu também teria ido para a Enclave, só que eu estava em uma ligação muito importante.}
+{230}{}{Quantos cavalos de potência tem essa coisa que você está carregando?}
 {231}{}{Como você usa o banheiro com isso?}
-{232}{}{Any chance you let me have that armor for a little bit? I ain't gonna strip it, I just wanna borrow it.}
-{250}{}{If it ain't the man, here to oppress me again.}
-{251}{}{Yeah, Impala's a good car, but it ain't no Omni.}
-{252}{}{Whenever I make love to you, it's hot lava...}
-{253}{}{Damn, this car needs a brass rope around the license plate.}
+{232}{}{Tem chance de você me dar essa armadura? Não vou te tirar, só quero emprestar um pouco.}
+{250}{}{Se não é o homem, está aqui para me oprimir novamente.}
+{251}{}{Sim, o Impala é um bom carro, mas nada como um Omni.}
+{252}{}{Sempre que faço amor com você, é como lava fervendo...}
+{253}{}{Droga, este carro precisa de uma corda de metal em volta da placa.}
 {254}{}{O motor ainda está bom.}
-{255}{}{Interior smells like someone took a shit in there.}
-{256}{}{Interior smells like gecko assholes.}
-{257}{}{What the hell does a car need to RUN for?}
-{258}{}{Car ain't gotta run to get you where you need to go, nawimean?}
-{259}{}{My car ain't fast, but my lovin' is.}
-{260}{}{I can't believe my brick is as LARGE as it is.}
-{261}{}{I'm hung like a 2-headed brahmin.}
+{255}{}{O interior cheira como se alguém tivesse cagado dentro.}
+{256}{}{O interior cheira como aqueles geckos idiotas.}
+{257}{}{Que merda que um carro precisa para FUNCIONAR?}
+{258}{}{O carro não vai te levar aonde você precisa ir, endendeu?}
+{259}{}{Meu carro não é rápido, mas meu amor é.}
+{260}{}{Eu não posso acreditar que minha bengala é tão longa.}
+{261}{}{Ele me enforca como um brahmin de duas cabeças.}
 {262}{}{O Highwayman tem um sistema analógico completo, 800 cavalos de potência, 0-100 em menos de um segundo.}
 {263}{}{Rápido? O Highwayman vai de 0 a 100 em menos de um segundo.}
 {264}{}{Na verdade, a potencia do Highwayman é de 800 CV.}
-{265}{}{The Highwayman's got a full analog system and no computers. None of the fancy stuff.}
-{266}{}{The Highwayman's a sweet car; Chryslus sure knew how to build 'em.}
-{267}{}{I give piece a chance.}
-{268}{}{I'll give your piece a chance.}
-{275}{}{Who're you? What're you doing here?}
-{276}{}{Damn. Look what just walked in... looks like them upper body workouts is finally paying off. What can I do for you, sweet thing?}
-{277}{}{You again? What do you want NOW?}
-{278}{}{Damn, woman... you again? What do you want NOW? I don't want to hear no shit about how I got you pregnant...}
+{265}{}{O Highwayman tem um sistema analógico completo e nenhum computador. Nada de extravagancias.}
+{266}{}{O Highwayman é uma maquina; Chryslus sabia exatamente como construir.}
+{267}{}{Eu dou uma chance a sua peça.}
+{268}{}{Vou dar uma chance a sua peça.}
+{275}{}{Quem é você? O que você está fazendo aqui?}
+{276}{}{Droga. Veja o que acabou de entrar... parece que os exercicios superiores estão finalmente fazendo efeito. O que posso fazer por você, fofura?}
+{277}{}{De novo aqui? O que você quer AGORA?}
+{278}{}{Porra, mulher... você de novo? O que você quer agora? Eu não quero ouvir porra nenhuma sobre essa gravidez...}
 {279}{}{}
-{280}{}{ go where }
-{281}{}{ go}
+{280}{}{ Ir aonde }
+{281}{}{ vai}
 {282}{}{Cai fora}
-{283}{}{Where did you get that Highwayman? I like the look of it.}
-{284}{}{That car you have in the garage belongs to me.}
-{285}{}{You the one who stole my car, asshole?}
-{286}{}{I'm Bishop's lieutenant, }
-{287}{}{I'm one of Bishop's lieutenants. I'm here for his car.}
-{288}{}{I have come to collect Mr. Bishop's free batteries.}
-{289}{}{Can you upgrade the Highwayman?}
-{290}{}{Can I buy some batteries from you?}
-{291}{}{Nothing. I'm going now.}
-{300}{}{Man, this AIN'T no bathroom, and you shore as hell ain't going in here. Now git.}
-{301}{}{Girl, this AIN'T no bathroom, and you shore as hell ain't going in here. Now git.}
-{302}{}{You wanna GO? Here? Well... (Looks you up and down) ...a man's gotta do who a man's gotta do. Let's get down to bitness.}
+{283}{}{Onde você conseguiu esse Highwayman? Eu curto muito isso.}
+{284}{}{Aquele carro que você tem na garagem me pertence.}
+{285}{}{Você que roubou meu carro, babaca?}
+{286}{}{Eu sou o tenente de Bishop, }
+{287}{}{Sou um dos tenentes de Bishop. Estou aqui pelo carro dele.}
+{288}{}{Vim buscar as baterias grátis do Sr. Bishop.}
+{289}{}{Você pode fazer um upgrade no Highwayman?}
+{290}{}{Posso comprar algumas baterias de você?}
+{291}{}{Nada. Vou indo agora.}
+{300}{}{Cara, isso NÃO é um banheiro, e você não pode entrar aqui. Agora saia.}
+{301}{}{Garota, isso NÃO é banheiro, e você não pode entrar aqui. Agora saia.}
+{302}{}{Você quer ENTRAR? Aqui? Bem... (Olha você de cima a baixo) ...um homem de verdade tem que fazer seu trabalho. Vamos aos negocios.}
 {303}{}{hã-ham.}
 {304}{}{hã-hã}
-{306}{}{Get down to business.}
-{307}{}{Uh, no thanks. I've changed my mind. Good-bye.}
+{306}{}{Vamos aos negocios.}
+{307}{}{Não, obrigado. Eu mudei de ideia. Adeus.}
 {320}{}{Tudo certo então...}
 {321}{}{Uh-uh-uh}
 {330}{}{Aw, so you just PLAYING with T-Ray? All right, then. Get, woman... I got better bitches to do with my time.}
@@ -66,7 +66,7 @@
 {334}{}{The fact you have sex with dogs does not surprise me. Good-bye.}
 {340}{}{The Highwayman outside? Damn RIGHT you like the look of her. That's one sweet machine, a recent ac-quisition... we're just
  about to spruce her up, make some adjustments, then sell her off to ol' man Bishop.}
-{341}{}{"Adjustments?" What kind of adjustments?}
+{341}{}{"Ajustes?" Que tipo de ajustes?}
 {342}{}{Sell her to BISHOP? Look, idiot... Bishop's dea... er, I mean, I can meet Bishop's offer.}
 {343}{}{Sell her to Bishop? Hell, I can meet Bishop's offer and then raise it some.}
 {344}{}{What a coincidence. I'm Bishop's lieutenant, }
