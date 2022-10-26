@@ -37,7 +37,7 @@
 {132}{}{If a Citizen catches me talking to a slaver, I will be punished.}
 {133}{}{The guards will report me if you continue to talk to me.}
 {134}{}{Eu não posso falar com você. Eu tenho deveres.}
-{135}{}{Please go away, slaver. I don't want any trouble.}
+{135}{}{Por favor, va embora, escravista. Eu não quero nenhum problema.}
 {136}{}{Escape? I... have never tried to escape from here. Life is good here.}
 {137}{}{The Citizens told me that if I work hard enough, one day *I* could become a Citizen.}
 {138}{}{The Citizens teach us that work is its own reward.}
