@@ -83,6 +83,7 @@ procedure Node017;
 procedure Node018;
 
 //added by killap - expansion pack
+procedure Node_decomposing;
 procedure Node019;
 procedure Node020;
 procedure Node021;
@@ -270,6 +271,12 @@ procedure talk_p_proc begin
          call Node017;
       gSay_End;
       end_dialogue;
+   end else if dude_item_count(PID_DECOMPOSING_BODY) then begin
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+         call Node_decomposing;
+      gSay_End;
+      end_dialogue;
    end else if (local_var(LVAR_Herebefore) == 1 and dude_iq < 4) then begin
       start_gdialog(NAME,self_obj,4,-1,-1);
       gSay_Start;
@@ -373,36 +380,36 @@ end
 // The Following lines are from the Design Tool
 //~~~~~~~~~~~~~~~~ DESIGN TOOL STARTS HERE
 
-procedure Node001 begin
-   if ((dude_item_count(PID_DECOMPOSING_BODY))) then begin
-      Reply(240);
-      if (map_var(MVAR_Xeno_Program_Know)) then begin
-         NOption(200, Node019, 4);
-      end else begin
-         NOption(241, Node044, 4);
-         NLowOption(242,Node044);
-      end
+procedure Node_decomposing begin
+   Reply(240);
+   if (map_var(MVAR_Xeno_Program_Know)) then begin
+      NOption(200, Node019, 4);
    end else begin
-      Reply(103);
-      NLowOption(104, Node002);
-      NLowOption(105, Node002);
-      if (spleen_flag(SP_TALKWONG) and local_var(LVAR_Plyr_Knows_Me)) then
-         NOption(106, Node010, 4);
-      //added by killap - expansion pack
-      if ((global_var(GVAR_SHI_FIND_DR_SHENG) == PLANT_QUEST_DRSHENG_KNOW) and (global_var(GVAR_SHI_ELIMINATE_DR_SHENG) < PLANT_QUEST_KILLED_DRSHENG)) then begin
-         NOption(300, Node023, 4);
-      end else if (global_var(GVAR_SHI_FIND_DR_SHENG) == PLANT_QUEST_FOUND_DRSHENG and (local_var(LVAR_Kill_Sheng) == 0) and (town_known(AREA_SAN_FRAN_DR_SHENG) == MARK_STATE_VISITED) and (global_var(GVAR_SHI_ELIMINATE_DR_SHENG) < PLANT_QUEST_KILLED_DRSHENG)) then begin
-         NOption(380, Node031, 4);
-      end else if (global_var(GVAR_SHI_DELIVER_SEED_SAMPLE_TO_DR_WONG) > 0 and (dude_item_count(PID_DR_SHENG_PLANT_SEED)) and (global_var(GVAR_SHI_ELIMINATE_DR_SHENG) < PLANT_QUEST_KILLED_DRSHENG)) then begin
-         if (global_var(GVAR_SHI_DELIVER_SEED_SAMPLE_TO_DR_WONG) == PLANT_QUEST_RETURN_TO_DRWONG_KNOW_SEED_TRUTH) then
-            NOption(502, Node045, 4);
-         NOption(501, Node042, 4);
-      end
-      //end added
-      NOption(107, Node003, 4);
-      NOption(108, Node004, 4);
-      NOption(109, Node999, 4);
+      NOption(241, Node044, 4);
+      NLowOption(242,Node044);
    end
+end
+
+procedure Node001 begin
+   Reply(103);
+   NLowOption(104, Node002);
+   NLowOption(105, Node002);
+   if (spleen_flag(SP_TALKWONG) and local_var(LVAR_Plyr_Knows_Me)) then
+      NOption(106, Node010, 4);
+   //added by killap - expansion pack
+   if ((global_var(GVAR_SHI_FIND_DR_SHENG) == PLANT_QUEST_DRSHENG_KNOW) and (global_var(GVAR_SHI_ELIMINATE_DR_SHENG) < PLANT_QUEST_KILLED_DRSHENG)) then begin
+      NOption(300, Node023, 4);
+   end else if (global_var(GVAR_SHI_FIND_DR_SHENG) == PLANT_QUEST_FOUND_DRSHENG and (local_var(LVAR_Kill_Sheng) == 0) and (town_known(AREA_SAN_FRAN_DR_SHENG) == MARK_STATE_VISITED) and (global_var(GVAR_SHI_ELIMINATE_DR_SHENG) < PLANT_QUEST_KILLED_DRSHENG)) then begin
+      NOption(380, Node031, 4);
+   end else if (global_var(GVAR_SHI_DELIVER_SEED_SAMPLE_TO_DR_WONG) > 0 and (dude_item_count(PID_DR_SHENG_PLANT_SEED)) and (global_var(GVAR_SHI_ELIMINATE_DR_SHENG) < PLANT_QUEST_KILLED_DRSHENG)) then begin
+      if (global_var(GVAR_SHI_DELIVER_SEED_SAMPLE_TO_DR_WONG) == PLANT_QUEST_RETURN_TO_DRWONG_KNOW_SEED_TRUTH) then
+         NOption(502, Node045, 4);
+      NOption(501, Node042, 4);
+   end
+   //end added
+   NOption(107, Node003, 4);
+   NOption(108, Node004, 4);
+   NOption(109, Node999, 4);
 end
 
 procedure Node002 begin
