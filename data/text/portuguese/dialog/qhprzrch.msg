@@ -41,7 +41,7 @@
 {140}{}{I just want to leave quietly. Keep your hand off the alarm until I'm out of here. Or else....}
 {141}{}{I'm leaving here and taking you as a hostage to make sure my people get out safely.}
 {142}{prs10}{Do you really think you can intimidate the President of the United States?}
-{143}{}{Without a doubt.}
+{143}{}{Sem dúvida.}
 {144}{}{Maybe not, but I suggest you stay out of my way until I leave.}
 {145}{prs11a_a}{For your information, the guards have orders to shoot me rather than let anyone or anything endanger the Project. I... wouldn't be of any use as a hostage.}
 {146}{prs11b}{You don't really expect that to work do you? Ha! If you try it, my guards have orders to shoot me rather than let anything, or anyone, endanger the Project. I'm staying right here. Now, are you going to shoot me or not?}

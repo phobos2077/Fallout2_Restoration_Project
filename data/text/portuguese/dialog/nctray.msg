@@ -60,21 +60,21 @@
 {307}{}{Não, obrigado. Eu mudei de ideia. Adeus.}
 {320}{}{Tudo certo então...}
 {321}{}{Uh-uh-uh}
-{330}{}{Aw, so you just PLAYING with T-Ray? All right, then. Get, woman... I got better bitches to do with my time.}
-{331}{}{Time keepz on ticking, ticking, ticking... inta the fuuuuture}
-{333}{}{If suppose if you can catch dogs, you're welcome to do whatever you want with them. Good-bye.}
-{334}{}{The fact you have sex with dogs does not surprise me. Good-bye.}
-{340}{}{The Highwayman outside? Damn RIGHT you like the look of her. That's one sweet machine, a recent ac-quisition... we're just
- about to spruce her up, make some adjustments, then sell her off to ol' man Bishop.}
+{330}{}{Ah, então você está apenas JOGANDO com o T-Ray? Tudo bem então. Saia, mulher... Tenho cadelas melhores para gastar meu tempo.}
+{331}{}{O tempo vai tique-taque, tique-taque, tique-taque… para o futuuuuuro}
+{333}{}{Eu suponho que se você pode capturar cães, pode fazer o que quiser com eles. Tchau.}
+{334}{}{O fato de você transar com cachorros não me surpreende. Adeus.}
+{340}{}{O Highwayman lá fora? Porra, CERTO você gosta do visual dele. Essa é uma verdadeira máquina, e uma aquisição recente... queremos mexer
+ nela, fazer alguns ajustes, então vendê-la para o velho Bishop.}
 {341}{}{"Ajustes?" Que tipo de ajustes?}
-{342}{}{Sell her to BISHOP? Look, idiot... Bishop's dea... er, I mean, I can meet Bishop's offer.}
-{343}{}{Sell her to Bishop? Hell, I can meet Bishop's offer and then raise it some.}
+{342}{}{Vender para o BISHOP? Olha, burrao... Bishop está morto... eh, quero dizer, posso igualar a oferta de Bishop.}
+{343}{}{Vender para Bishop? Que porra, eu posso igualar a oferta de Bishop e até a superar um pouco.}
 {344}{}{Que coincidência. Eu sou o tenente de Bishop, }
 {346}{}{Na verdade, você não vai vender aquele carro para ninguém. O carro é meu.}
 {347}{}{Parece um bom negócio. Nos vemos mais tarde.}
 {360}{}{Jazz up the engine, clean out the interior, put a brass rope around the license plate - and kick some of that shit
  outta the trunk, make some room. When we're done, it'll be worth some serious chips to Mr. Bishop.}
-{361}{}{Sell her to Bishop? I can meet Bishop's offer and then raise it some.}
+{361}{}{Vender para Bishop? Posso igualar a oferta de Bishop e até superar um pouco.}
 {362}{}{Que coincidência. Eu sou um dos tenentes de Bishop: }
 {365}{}{Parece bom. Nos vemos mais tarde então.}
 {375}{}{You're gonna match BISHOP'S offer? That's a lot of scrilla, man. A LOT of chips. Plus, he's one of the top men in
