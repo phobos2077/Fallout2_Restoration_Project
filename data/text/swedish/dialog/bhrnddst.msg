@@ -95,47 +95,47 @@
 {510}{}{You encounter a caravan fending off robbers.}
 {511}{}{You encounter a caravan fending off highwaymen.}
 {512}{}{You encounter a caravan.}
-{550}{}{Du möter geckoödlor och vargar.}
+{550}{}{Du stöter på geckoödlor och vargar.}
 {551}{}{You encounter claim jumpers.}
 {552}{}{You encounter wolves.}
 {553}{}{You encounter golden geckos.}
 {554}{}{You encounter prospectors fending off claim jumpers.}
-{555}{}{You encounter trappers hunting geckos.}
-{556}{}{You encounter bootleggers fighting wolves.}
+{555}{}{Du möter jägare som jagar geckoödlor.}
+{556}{}{Du möter förfalskare som slåss mot vargar.}
 {557}{}{You encounter homesteaders fighting claim jumpers}
-{558}{}{You encounter homesteaders fighting wolves.}
-{559}{}{You encounter bootleggers.}
-{560}{}{You encounter trappers.}
-{561}{}{You encounter prospectors.}
+{558}{}{Du möter hemvändare som slåss mot vargar.}
+{559}{}{Du möter förfalskare.}
+{560}{}{Du möter jägare.}
+{561}{}{Du möter prospektörer.}
 {600}{}{You encounter deathclaws.}
-{601}{}{You encounter fire geckos.}
-{602}{}{You encounter a caravan fleeing from deathclaws.}
-{603}{}{You encounter a caravan fighting deathclaws.}
-{604}{}{You encounter a caravan fighting fire geckos.}
-{605}{}{You encounter a caravan fighting fire geckos.}
+{601}{}{Du möter eldsprutande geckoödlor.}
+{602}{}{Du möter en karavan som flyr från dödsklor.}
+{603}{}{Du möter en karavan som strider mot dödsklor.}
+{604}{}{Du möter en karavan som strider mot eldsprutande geckoödlor.}
+{605}{}{Du möter en karavan som strider mot eldsprutande geckoödlor.}
 {606}{}{You encounter a caravan.}
 {607}{}{You encounter a caravan.}
 {608}{}{You encounter a caravan.}
 {609}{}{You encounter a caravan.}
-{650}{}{You encounter aliens and deathclaws.}
-{651}{}{You encounter centaurs and floaters.}
-{652}{}{You encounter fire geckos.}
-{653}{}{You encounter aliens.}
+{650}{}{Du möter utomjordingar och dödsklor.}
+{651}{}{Man möter kentaurer och svävare.}
+{652}{}{Du möter eldsprutande geckoödlor.}
+{653}{}{Du möter utomjordingar.}
 {654}{}{You encounter deathclaws.}
-{655}{}{You encounter fire geckos.}
-{656}{}{You encounter aliens.}
-{657}{}{You encounter centaurs.}
-{658}{}{You encounter floaters.}
-{700}{}{You encounter some Yakuza.}
-{701}{}{You encounter a gang.}
-{702}{}{You encounter some wolves.}
+{655}{}{Du möter eldsprutande geckoödlor.}
+{656}{}{Du möter utomjordingar.}
+{657}{}{Du möter kentaurer.}
+{658}{}{Du möter svävare.}
+{700}{}{Du möter några Yakuza-medlemmar.}
+{701}{}{Du möter ett gäng.}
+{702}{}{Du möter några vargar.}
 {703}{}{You encounter some mobsters fighting some Yakuza.}
-{704}{}{You encounter some mobsters fighting a gang.}
-{705}{}{You encounter some mobsters.}
+{704}{}{Du möter några gangstrar som slåss mot ett gäng.}
+{705}{}{Du möter några gangstrar.}
 {706}{}{You encounter a traveler.}
-{750}{}{You encounter a caravan fending off remnants of the Master's army.}
-{751}{}{You encounter a caravan fighting remnants of the master's army.}
-{752}{}{You encounter a caravan fighting deathclaws.}
+{750}{}{Du stöter på en karavan som driver bort resterna av Mästarens armé.}
+{751}{}{Du möter en karavan som slåss mot rester av mästarens armé.}
+{752}{}{Du möter en karavan som strider mot dödsklor.}
 {753}{}{You encounter a caravan.}
 {754}{}{You encounter a caravan.}
 {755}{}{You encounter a caravan.}
