@@ -25,7 +25,7 @@
 {124}{}{Yes, what is it?}
 {125}{}{Ken I Helf uuuuuuuu}
 {126}{}{Shamble off}
-{127}{}{What is this place?}
+{127}{}{Vad är det här för ställe?}
 {128}{}{Can I see what you have in stock?}
 {129}{}{Nothing today, thanks.}
 {130}{}{Great, another Outsider... guards! We have an Outsider that needs to be escorted to the gate!

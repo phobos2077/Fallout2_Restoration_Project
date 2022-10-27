@@ -8,7 +8,7 @@
 {106}{}{Who you?}
 {107}{}{All right, I'll leave}
 {108}{}{I go where I please, lizard breath!}
-{109}{}{What is this place?}
+{109}{}{Vad är det här för ställe?}
 {110}{}{Who are you?}
 {111}{}{This hatchery. Pack mother inside. Eggs inside. I guard. All of pack guard.}
 {112}{}{Me want talk mother.}
@@ -46,7 +46,7 @@
 {140}{}{Who you say you be?}
 {141}{}{What this place?}
 {142}{}{Just dropped by to say hello.}
-{143}{}{What is this place?}
+{143}{}{Vad är det här för ställe?}
 {144}{}{Who are you again?}
 {145}{}{You already dead. You just too dumb to fall over.}
 {146}{}{. Me want talk mother.}

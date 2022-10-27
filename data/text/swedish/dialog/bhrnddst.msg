@@ -95,7 +95,7 @@
 {510}{}{You encounter a caravan fending off robbers.}
 {511}{}{You encounter a caravan fending off highwaymen.}
 {512}{}{You encounter a caravan.}
-{550}{}{You encounter geckos and wolves.}
+{550}{}{Du möter geckoödlor och vargar.}
 {551}{}{You encounter claim jumpers.}
 {552}{}{You encounter wolves.}
 {553}{}{You encounter golden geckos.}

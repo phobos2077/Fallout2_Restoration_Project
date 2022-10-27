@@ -253,7 +253,7 @@
 {780}{}{The Corsican Bros at yer service... (The man glances up, irritated, then does a double take.) Holy...}
 {781}{}{Me 4! Me 4!}
 {782}{}{Nothing}
-{783}{}{What is this place?}
+{783}{}{Vad är det här för ställe?}
 {784}{}{Can you tell me a little about the studio?}
 {785}{}{Got any... openings... I could fill?}
 {786}{}{Got any work for someone like me?}
@@ -267,7 +267,7 @@
 {806}{}{[Do as the man directs.]}
 {810}{}{The Corsican Bros at yer service... (The man glances up, irritated, then does a double take.) Holy... uh... hey, how you doing, }
 {812}{}{Nuthin}
-{813}{}{What is this place?}
+{813}{}{Vad är det här för ställe?}
 {814}{}{Indulge me. Tell me a little about this studio.}
 {815}{}{Good question. You got any... openings... I could fill?}
 {816}{}{Good question. Got any work for someone like me?}

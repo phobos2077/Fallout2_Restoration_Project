@@ -4,7 +4,7 @@
 {103}{}{Yes, soldier?}
 {104}{}{What this place?}
 {105}{}{Me just say hi. Me go now.}
-{106}{}{What is this place?}
+{106}{}{Vad är det här för ställe?}
 {107}{}{Just saying hi. See ya.}
 {108}{}{This is the computer room. That's the mainframe over there, the interface terminal is next to it, and these devices are the holotape data storage units. This is the latest and the greatest.}
 {109}{}{Oh. Uh, what you do?}

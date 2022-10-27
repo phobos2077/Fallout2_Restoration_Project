@@ -5,7 +5,7 @@
 {104}{}{Whaddya want?}
 {105}{}{Nyug aarg.}
 {106}{}{Who are you?}
-{107}{}{What is this place?}
+{107}{}{Vad är det här för ställe?}
 {108}{}{Ever hear of a GECK?}
 {109}{}{Say, Eric asked me to adjust the power ration to his house. He said that he's sweating too much.}
 {110}{}{Hey, Eric's really happy in his nice cool house. And I notice the power hasn't failed across the city.}

@@ -250,7 +250,7 @@
 {348}{}{This intelligence looks good. Well done. Here's payment for your services, five hundred dollars... plus, you might find this useful.}
 {349}{}{What is it?}
 {350}{}{It's a Vault-Tec Motion sensor. We were going to strip it for parts, since it's too old for our Pip-Boys, but it looks like it's compatible with your model.}
-{351}{}{How does it work?}
+{351}{}{Hur fungerar det?}
 {352}{}{Keep it in your hand and it IDs hostiles in your immediate area when you use it. Or you can call up the Pip-Boy automap as normal, then just click the "scanner" button and they're lit up like a neon sign.}
 {353}{}{Thanks, this could be useful. Say, can I ask you some other questions?}
 {354}{}{Much appreciated. I'll go try it out.}

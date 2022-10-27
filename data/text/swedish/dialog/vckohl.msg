@@ -15,7 +15,7 @@
 {114}{}{Oh... hello! Was there something I could help you with?}
 {115}{}{Frazz-urb-luuw!}
 {116}{}{Shamble off}
-{117}{}{What is this place?}
+{117}{}{Vad är det här för ställe?}
 {118}{}{Nothing. Sorry to disturb you.}
 {119}{}{Uh... pardon me?}
 {120}{}{Cripple-cripple creep}
@@ -34,7 +34,7 @@
 {132}{}{Maybe I'll check there, then.}
 {133}{}{Hello, again. Did you need help finding anything?}
 {134}{}{Certainly. What questions did you have?}
-{135}{}{What is this place?}
+{135}{}{Vad är det här för ställe?}
 {136}{}{Do you know where I can find a GECK?}
 {137}{}{Do you know where I could find the Vault?}
 {138}{}{Nothing today, thanks.}

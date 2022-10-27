@@ -27,7 +27,7 @@
 {124}{}{I'm sorry, can I help you with something?}
 {125}{}{Sumfin? Doodle-doodle doooooo}
 {126}{}{Shamble off}
-{127}{}{What is this place?}
+{127}{}{Vad är det här för ställe?}
 {128}{}{Can I see what you have in stock?}
 {129}{}{Nothing today, thanks.}
 {130}{}{Wait here for a moment, all right? I'll bring someone to show you out.}

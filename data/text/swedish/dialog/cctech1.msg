@@ -13,7 +13,7 @@
 {112}{}{Where Enclave main base at.}
 {113}{}{Me look for vertibird plans. Where I find?}
 {117}{}{Me be go now.}
-{118}{}{What is this place?}
+{118}{}{Vad är det här för ställe?}
 {119}{}{What is your job here?}
 {120}{}{Where is the Enclave main base located?}
 {121}{}{I need to look at the vertibird plans. Where are they kept?}

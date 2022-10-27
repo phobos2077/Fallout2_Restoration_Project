@@ -31,7 +31,7 @@
 {310}{}{I'm Keith Wright of the Family Wright. Now, you gonna tell me what yer doing here?}
 {312}{}{Chris told me to stop by. I'm looking for work. Can you help me?}
 {313}{}{Keith Wright, huh? I ran into your mother.}
-{315}{}{What is this place?}
+{315}{}{Vad är det här för ställe?}
 {325}{}{This is the Family Wright HOUSE. Now, you gonna tell me what yer doing here?}
 {335}{}{Chris sent you, huh?}
 {336}{}{That's right. He said you might have some work for me.}

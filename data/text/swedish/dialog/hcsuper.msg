@@ -8,7 +8,7 @@
 {106}{}{Dunno.}
 {107}{}{I have some ore to be refined.}
 {108}{}{Who are you?}
-{109}{}{What is this place?}
+{109}{}{Vad är det här för ställe?}
 {110}{}{I want some uranium.}
 {111}{}{Ingenting.}
 {112}{}{Forget it. Bye.}
@@ -21,13 +21,13 @@
 {118}{}{It's a deal.}
 {119}{}{$1000? That's ridiculous. Forget it.}
 {120}{}{I'm the supervisor of this refinery. What do you want?}
-{121}{}{What is this place?}
+{121}{}{Vad är det här för ställe?}
 {122}{}{I want some ore refined.}
 {123}{}{I want some uranium.}
 {124}{}{Ingenting.}
 {125}{}{This is the refinery of Broken Hills. This is where we purify the ore dug from the mine. What
  do you want?}
-{126}{}{What is this place?}
+{126}{}{Vad är det här för ställe?}
 {127}{}{I want some ore refined.}
 {128}{}{I want some uranium.}
 {129}{}{Ingenting.}

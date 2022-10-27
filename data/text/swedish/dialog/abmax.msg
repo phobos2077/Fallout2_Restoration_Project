@@ -3,7 +3,7 @@
 {102}{}{He looks a little nervous.}
 {200}{}{Hello. What can I do for you?}
 {201}{}{I have something from Elaine...}
-{202}{}{What is this place?}
+{202}{}{Vad är det här för ställe?}
 {203}{}{Hej då.}
 {300}{}{Let me guess. It's that service part I requested, right?}
 {301}{}{Yes, here it is.}

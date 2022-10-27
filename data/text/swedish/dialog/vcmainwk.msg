@@ -31,7 +31,7 @@
 {130}{}{I was looking for the Vault. Can you tell me where it is?}
 {131}{}{Actually, I was just leaving.}
 {132}{}{It's that big hole in the mountain to the east, past those two heavily-armed guards. Anything else you want to ask or can I get back to work?}
-{133}{}{What is this place?}
+{133}{}{Vad är det här för ställe?}
 {134}{}{Watch it. I'm not in the mood for any bullshit today.}
 {135}{}{Thanks for the directions. Goodbye.}
 {136}{}{As if Vault City didn't have enough human brahmin... look, you CANT BE IN HERE, OKAY? You could HURT yourself! NOW GET OUT! GO!}
