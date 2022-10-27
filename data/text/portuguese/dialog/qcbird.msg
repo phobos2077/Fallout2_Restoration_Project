@@ -54,22 +54,22 @@
 {153}{}{Bem, essa é a grande questão. A Enclave é uma ilha artificial cercada por água.}
 {154}{}{Você acha que está imune ao que acontece aqui. Você está preso no mesmo planeta com o resto de nós.}
 {155}{}{Você esqueceu de adicionar algo a essa afirmação? Tipo uma opinião.}
-{156}{}{I'm Vice-President Daniel Bird. Damn glad to meet you.}
-{157}{}{You're just another part of the whole problem here.}
-{158}{}{You're a nutcase.}
-{159}{}{I am not part of the problem. I am a Republican.}
-{160}{}{Like I said, part of the problem.}
-{161}{}{Ah, I see. Well, as you may know, I've long thought that it's time for the human race to enter the solar system.}
-{162}{}{Aren't we already in the... Uh, to go *where*?}
-{163}{}{How would we do that?}
-{164}{}{I think that maybe Mars would be nice because Mars is essentially in the same orbit... Mars is somewhat the same distance from the Sun, which is very important. We have seen pictures where there are canals, we believe, and water. If there is water, that means there is oxygen. If oxygen, that means we can breathe.}
-{165}{}{I didn't expect such a, uh, *complete* answer.}
-{166}{}{You've lost your mind.}
-{167}{}{What a waste it is to lose one's mind. Or not to have a mind is being very wasteful. How true that is.}
-{168}{}{I'd say it's *usually* a waste. But, in your case I'm willing to make an exception.}
-{169}{}{What the hell did you just say?}
-{170}{}{That's it. I've wasted enough time. Goodbye.}
-{171}{}{For NASA, space is still a high priority.}
+{156}{}{Sou o vice-presidente Daniel Bird. Prazer em conhecê-lo.}
+{157}{}{Você é apenas mais uma parte de todo o problema aqui.}
+{158}{}{Você é um retardado.}
+{159}{}{Eu não sou parte do problema. Eu sou um republicano.}
+{160}{}{Como eu disse, parte do problema.}
+{161}{}{Ah, sei. Bem, como você deve saber, faz muito tempo que penso que é hora da raça humana entrar no sistema solar.}
+{162}{}{Já não estamos no... Uh, para ir *onde*?}
+{163}{}{Como faríamos isso?}
+{164}{}{Acho que talvez Marte seja bom, porque Marte está essencialmente na mesma órbita... Marte está quase a mesma distância do Sol, o que é muito importante. Vimos fotos onde há canais, acreditamos, e água. Se houver água, isso significa que há oxigênio. Se for oxigênio, isso significa que podemos respirar.}
+{165}{}{Eu não esperava uma resposta tão, uh, *completa*.}
+{166}{}{A verdade é que voce perdeu a cabeça.}
+{167}{}{Que desperdício é perder a cabeça. Ou não ter uma mente é muito desperdício. Como isso é verdade.}
+{168}{}{Normalmente eu falaria que é um desperdício. Mas, no seu caso, acho que vou abrir uma exceção.}
+{169}{}{Que porra é essa, Marreco?}
+{170}{}{Chega, já perdi tempo suficiente. Adeus.}
+{171}{}{Para a NASA, o espaço ainda é de alta prioridade.}
 {172}{}{I see, and where would we be going then?}
 {173}{}{That's not true, Republicans understand the importance of bondage between a mother and child. That's the key to the solution of all our problems-we need a return to family values.}
 {174}{}{What you and the Enclave are up to has nothing to do with family values.}
