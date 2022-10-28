@@ -2,14 +2,14 @@
 {101}{}{It's the bartender.}
 {102}{}{He's a gruff-looking guy with a crooked nose and pinched up ears like he might have been a boxer years ago.}
 {103}{}{What can I get you?}
-{104}{}{Say, you're the one who got Jack to give up, ain't you? That was good work. So what do you want?}
+{104}{}{Diga, foi você que fez Jack desistir, não foi? Esse foi um bom trabalho. Então o que você quer?}
 {105}{}{Com certeza.}
-{106}{}{Drink.}
-{107}{}{Who's the big guy over there?}
-{108}{}{What's to do in this town?}
+{106}{}{Bebida.}
+{107}{}{Quem é o grandalhão ali?}
+{108}{}{O que tem para fazer nesta cidade?}
 {109}{}{Adeus.}
-{110}{}{That's Hoss, President Tandi's boy. Born trouble when he's drinking, so I'd stay clear of him if I were you.}
-{111}{}{That was Hoss, President's Tandi's son. Boy, you sure whooped his ass good!}
+{110}{}{Esse é Hoss, o filho da presidente Tandi. É um problema quando está bebendo, então eu ficaria longe dele se eu fosse você.}
+{111}{}{Era Hoss, filho da presidente Tandi. Rapaz, você com certeza ama a bunda dele!}
 {112}{}{President Tandi?}
 {113}{}{Tough guy, eh? Thanks.}
 {114}{}{Not much. If you're looking for trouble, go drink someplace else, like the Rawhide. If you're looking for work, there's the Westin place west of town. Heard some things about President Tandi looking for a specialist, too.}

@@ -4,21 +4,21 @@
 {103}{}{Você examina o terminal do computador, mas não consegue encontrar nada obviamente errado com ele.
  O que você faz?}
 {104}{}{O golpeia de maneira "especial".}
-{105}{}{Kick it in that 'special' spot.}
-{106}{}{Run the diagnostic program.}
-{107}{}{Open it up and look inside.}
+{105}{}{O chuta de maneira "especial".}
+{106}{}{Execute o programa de diagnóstico.}
+{107}{}{Abre e o olha por dentro.}
 {108}{}{O deixa sozinho.}
 {109}{}{You gaze at the console for a while and decide upon the best spot to place a punch. After giving
  it your best 'this'll fix it' hit, the monitor flashes a couple of times and then stabilizes. There is
  no other effect. What do you do?}
-{110}{}{Kick it in that 'special' spot.}
-{111}{}{Run the diagnostic program.}
-{112}{}{Open it up and look inside.}
+{110}{}{O chuta de maneira "especial".}
+{111}{}{Execute o programa de diagnóstico.}
+{112}{}{Abre e o olha por dentro.}
 {113}{}{O deixa sozinho.}
 {114}{}{This well-known repair method produces two results. First, the monitor seems to go haywire for
  several seconds and then stabilizes. Second, you hear a breaking metal type of sound and the panel you
  kicked falls to the floor. What do you do?}
-{115}{}{Run the diagnostic program.}
+{115}{}{Execute o programa de diagnóstico.}
 {116}{}{Damn thing's open. Might as well look inside.}
 {117}{}{O deixa sozinho.}
 {118}{}{You are certain that the system should have a set of diagnostic routines available. However, the

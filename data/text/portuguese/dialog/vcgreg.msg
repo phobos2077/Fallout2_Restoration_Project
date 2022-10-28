@@ -4,16 +4,16 @@
 {103}{}{You see a grim-looking bureaucrat with a narrow face and thick eyebrows.}
 {104}{}{For your act of bravery, you have been granted full access to Vault City. Oh... the First Citizen said she wanted to see you.}
 {105}{}{An intruder! Guards! Guards!}
-{106}{}{Wh-?! A mutant! GUARDS! GUARDS!}
+{106}{}{Qu-e?! Um Mutante! GUARDAS! GUARDAS!}
 {107}{}{Wh-? A ghoul! GUARDS! GUARDS!}
 {108}{}{Bom dia, Capitão.}
 {109}{}{Vault City prevails, Capitão.}
 {110}{}{Bom dia, Citizen.}
 {111}{}{Vault City prevails, Citizen.}
-{112}{}{Lists, lists, lists... how I love lists!}
-{113}{}{Compile form 5632 into the list server...}
-{114}{}{Make a list of lists 43A through 121B... then enter them into the List Archive...}
-{115}{}{It's a beautiful day to be compiling lists.}
+{112}{}{Listas, listas, listas... como eu amo listas!}
+{113}{}{Compile o formulário 5632 no servidor de listas...}
+{114}{}{Faça uma lista das listas 43A a 121B... e as insira no Arquivo de Listas...}
+{115}{}{É um belo dia para compilar listas.}
 {116}{}{Still need to finish these lists before I retire for the evening...}
 {117}{}{Come back in the morning. I should be done with these lists by then.}
 {118}{}{Filthy mutant...}

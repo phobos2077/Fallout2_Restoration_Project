@@ -598,12 +598,12 @@
 {1816}{myn1005b}{All right, I'll just watch your ass... er... uh, back carefully.}
 {1820}{}{Actually, forget that: Stay close to me instead.}
 {1822}{}{Spread out even more, Myron. It's best for both of us.}
-{1824}{}{I'm counting on it. Now let's go.}
-{1825}{}{Greeeeat. Let's go.}
-{1835}{myn1006a}{All right, I'll keep an eye on things back here. Gives me a good position to practice my burst-fire technique.}
-{1836}{myn1006b}{Wha -- do I have B.O. or something?! Sheesh.}
-{1841}{}{Come a little closer, Myron.}
-{1844}{}{Whatever. Now let's go.}
+{1824}{}{Estou contando com isso. Agora vamos.}
+{1825}{}{Oootimo. Vamos lá.}
+{1835}{myn1006a}{Tudo bem, vou ficar de olho nas coisas por aqui. Me de uma boa posição para praticar a minha técnica de tiro rápido.}
+{1836}{myn1006b}{O que - eu tenho CC ou alguma coisa assim?! Meu Deus.}
+{1841}{}{Se aproxime um pouco, Myron.}
+{1844}{}{Que seja. Agora vamos.}
 {1845}{}{If it was just your body odor, I could stand it. Let's go.}
 {1860}{myn232a}{All right.}
 {1863}{}{Kid, your ego just wrote a check your body can't cash. Get ready to die.}

@@ -18,7 +18,7 @@
 {302}{}{I'm busy too. Perhaps a little later.}
 {303}{}{Hey, life is full of problems and I'm not here to solve them all. Bye.}
 {304}{}{I'm running low on wood for this fire. If you could collect some more for me, I'd really appreciate it. I'd do it myself, but I am afraid this pot will boil over if I leave it unattended. I'm sure some logs can be found in the nearby forest. Three bundles would be perfect.}
-{305}{}{It would be my pleasure.}
+{305}{}{Seria um prazer.}
 {306}{}{Actually, for some crazy reason, I happen to have three bundles of logs on me right now. Here you go.}
 {307}{}{You'll help me? Great! Let me know when you've collected them.}
 {308}{}{Ah, excellent. This will help keep this fire going. Thank you for taking the time to help me. I don't really
