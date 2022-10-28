@@ -44,17 +44,17 @@
 {135}{}{Their blood will run like the Nile!}
 {200}{}{Welcome, Vault Dweller. For your convenience, this Vault-Tec terminal has been modified to respond to vocal commands. Please vocalize your command now.}
 {201}{}{Oh, you've got me confused with someone else. You see, I'm not the Vault Dweller, I'm the Chosen One. }
-{202}{}{Run diagnostics.}
-{203}{}{Switch to keyboard input mode.}
-{204}{}{Access security footage.}
+{202}{}{Execute o diagnóstico.}
+{203}{}{Mude para o modo de entrada do teclado.}
+{204}{}{Segurança de acesso ao material de arquivo.}
 {205}{}{Termine a sessão.}
 {206}{}{Urk?}
 {210}{}{[A light blinks on the terminal as it makes various clicking and whirling sounds. After several seconds, text
  appears on the monitor.] Sorry, I did not understand your command. Please repeat your command, making sure to speak
  directly into the microphone in a clear and precise manner. Vault-Tec apologizes for any inconvenience. Thank you.}
-{211}{}{Run diagnostics.}
-{212}{}{Switch to keyboard input mode.}
-{213}{}{Access security footage.}
+{211}{}{Execute o diagnóstico.}
+{212}{}{Mude para o modo de entrada do teclado.}
+{213}{}{Segurança de acesso ao material de arquivo.}
 {214}{}{Termine a sessão.}
 {220}{}{Please wait while I initiate diagnostic checks..Vault-Tec appreciates your patience... Thank you for waiting... Diagnostic
  checks complete. All systems are working properly. After all, you're using Vault-Tec. }
@@ -126,9 +126,9 @@
 {302}{}{[Attempt to hack into it.]}
 {303}{}{Termine a sessão.}
 {310}{}{[You try everything you can think of, but you're unable to gain access. With a sigh of defeat, you return to the main menu.]}
-{311}{}{Run diagnostics.}
-{312}{}{Switch to keyboard input mode.}
-{313}{}{Access security footage.}
+{311}{}{Execute o diagnóstico.}
+{312}{}{Mude para o modo de entrada do teclado.}
+{313}{}{Segurança de acesso ao material de arquivo.}
 {314}{}{Termine a sessão.}
 {320}{}{Password correct. All entries but one have been removed from the system. Final entry in the Overseer's Logs is still accessible.}
 {321}{}{[After several long minutes of working your technical magic, you manage to hack your way into the Overseer's Logs. However, it seems that every entry except for the final one has been deleted.]}

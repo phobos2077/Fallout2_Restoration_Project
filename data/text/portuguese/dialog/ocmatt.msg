@@ -14,16 +14,16 @@
 {112}{}{Quem é você?}
 {113}{}{Are you a prisoner here?}
 {114}{}{I'll be leaving now.}
-{115}{}{My name is Matt. Does it matter?}
-{116}{}{Guess not.}
-{117}{}{Humph. Me go.}
-{118}{}{Okay, I'll just leave.}
+{115}{}{Meu nome é Matt. Importa?}
+{116}{}{Acho que não.}
+{117}{}{Humph. Vou indo.}
+{118}{}{Ok, estou indo.}
 {119}{}{Na verdade, não.}
-{120}{}{Yes, as a matter of fact I am. I stumbled upon this place and got myself captured by the deathclaws.
- They give me freedom of movement within the lower levels of the vault, but I can never go to level 1 where the exit is.}
+{120}{}{Sim, na verdade estou. Tropecei com esta lugar e fui capturado pelos Deathclaws. Eles me dão liberdade de
+ andar dentro dos níveis mais baixos da Vault, mas eu nunca posso ir para o nível 1 onde fica a saída.}
 {121}{}{Por quê?}
 {122}{}{Tudo bem.}
-{123}{}{Me outta here.}
+{123}{}{Vou embora.}
 {124}{}{Por quê?}
 {125}{}{Eu vejo.}
 {126}{}{Eu vou estar indo agora.}
@@ -32,9 +32,9 @@
  Look: They can think for themselves, they can learn, they can read and even write if they dip a claw
  in ink. They are fast, tough, perceptive, and deadly. If their numbers grow large enough, they will be
  the greatest threat that the human race could ever face. Think about it. They need to be eliminated!}
-{128}{}{Hmm. You make sense.}
-{129}{}{Me think you wrong.}
-{130}{}{I realize that they are a potential threat, but I trust them.}
+{128}{}{Hum. Tem razão.}
+{129}{}{Eu acho que você está errado.}
+{130}{}{Percebo que eles são uma ameaça em potencial, mas confio neles.}
 {131}{}{You do have a point. What should we do?}
 {132}{}{Alone I don't stand a chance, but together we can fight our way out of here. How about it?}
 {133}{}{Sim.}

@@ -72,7 +72,7 @@
 {171}{}{I'd like to take the test anyway.}
 {172}{}{Just give me the damn test.}
 {173}{}{Forget it then. Can I ask you some other questions?}
-{174}{}{Whatever. I'm outta here.}
+{174}{}{Tanto faz. Estou saindo daqui.}
 {175}{}{Muito bem.}
 {176}{}{Hmmm. Well, that is your right, though I doubt it will matter.}
 {177}{}{Here are forms 5028, 6112, and the Pip-Boy answer console. Please be sure to fill in each circle COMPLETELY. Now, if you would take a seat over here...}
