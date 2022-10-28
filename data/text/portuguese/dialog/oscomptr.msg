@@ -1,9 +1,9 @@
 {100}{}{Você vê um terminal de computador.}
-{101}{}{You see the voice interface terminal.}
-{102}{}{You see a standard computer terminal, modified for voice commands.}
-{103}{}{You examine the computer terminal, but cannot find anything obviously wrong with it. What do
- you do?}
-{104}{}{Hit it in that 'special' way.}
+{101}{}{Você vê o terminal de interface de voz.}
+{102}{}{Você vê um terminal de computador padrão, modificado para comandos de voz.}
+{103}{}{Você examina o terminal do computador, mas não consegue encontrar nada obviamente errado com ele.
+ O que você faz?}
+{104}{}{O golpeia de maneira "especial".}
 {105}{}{Kick it in that 'special' spot.}
 {106}{}{Run the diagnostic program.}
 {107}{}{Open it up and look inside.}

@@ -35,28 +35,28 @@
 {128}{}{Hum. Tem razão.}
 {129}{}{Eu acho que você está errado.}
 {130}{}{Percebo que eles são uma ameaça em potencial, mas confio neles.}
-{131}{}{You do have a point. What should we do?}
-{132}{}{Alone I don't stand a chance, but together we can fight our way out of here. How about it?}
+{131}{}{Você tem razão. O que deveríamos fazer?}
+{132}{}{Sozinho eu não tenho chance, mas juntos podemos lutar para sair daqui. Que tal?}
 {133}{}{Sim.}
 {134}{}{Não.}
-{135}{}{Arrgh! You're a fool to trust them. If you change your mind come back and get me.}
+{135}{}{Arrgh! Você é um idiota por confiar neles. Se mudar de ideia, volte e me leve junto.}
 {136}{}{Adeus.}
-{137}{}{Have you changed your mind? Will you help me get out of here?}
+{137}{}{Você mudou de ideia? Vai me ajudar a sair daqui?}
 {138}{}{Sim.}
 {139}{}{Não.}
-{140}{}{You seem to have bought yourself a shit storm!}
-{141}{}{Me not here about escape. Me here because someone break computer. You do?}
-{142}{}{I'm not here to talk about escape plans. Someone sabotaged the mainframe computer interface. Know anything about that?}
-{143}{}{You seem to have bought yourself a shit storm!}
-{144}{}{Yeah. I destroyed the voice module and then I disabled all keyboard input.}
+{140}{}{Isso tudo é apenas um monte de merda!}
+{141}{}{Não estou aqui para escapar. Estou aqui porque alguém quebrou um computador. você faz?}
+{142}{}{Não estou aqui para falar sobre planos de fuga. Alguém sabotou a interface principal do computador. Sabe alguma coisa sobre isso?}
+{143}{}{Isso tudo é apenas um monte de merda!}
+{144}{}{Sim. Destruí o módulo de voz e desativei todas as entradas do teclado.}
 {145}{}{Por quê?}
-{146}{}{With the mainframe offline the vault will eventually shut down. Without food or water the deathclaws will be forced to begin raiding human lands for their needs. Eventually they will be discovered and their threat to humanity can be dealt with.}
-{147}{}{Others here. They need food, water. You no care about them?}
-{148}{}{What about the others who live here. Aren't you concerned with their fate?}
-{149}{}{Not in the least. They are simply casualties of war.}
+{146}{}{Com a parte principal offline, a Vault acabará por ser encerrada. Sem comida ou água, os Deathclaws serão forçados a começar a invadir terras humanas para suprir suas necessidades. Até o momento que eles serão descobertos e sua ameaça à humanidade poderá ser tratada.}
+{147}{}{Os outros aqui. Eles precisam de comida, água. Você não se importa com eles?}
+{148}{}{E os outros que moram aqui? Você não se preocupa com o destino deles?}
+{149}{}{Nem um pouco. Eles são simplesmente vítimas da guerra.}
 {150}{}{Eu vou agora.}
-{151}{}{Me think me shoot you now.}
-{152}{}{Good job.}
+{151}{}{Acho que vou atirar em você agora.}
+{152}{}{Bom trabalho.}
 {153}{}{Eu vejo. Eu vou estar indo agora.}
-{154}{}{I think I'll shoot you now. You are obviously dangerous.}
-{155}{}{Good job!}
+{154}{}{Acho que vou atirar em você agora. É obvio que voce é perigoso.}
+{155}{}{Bom trabalho!}

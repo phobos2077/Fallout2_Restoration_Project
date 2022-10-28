@@ -121,7 +121,7 @@
 {209}{}{Cancela o procedimento e faz logoff do terminal.}
 {210}{}{Uma pequena tela abaixo do Pip-Boy informa que sua ultima manutençao programada foi ha 50.352 anos.
  Os arquivos estao corrompidos e precisam ser "reformatados". Voce deseja continuar?}
-{211}{}{Uh... sure.}
+{211}{}{Ah... certo.}
 {212}{}{O que... nao! Nada disso! }
 {213}{}{Cancela o procedimento e faz logoff do terminal.}
 {214}{}{Procedimento de inicializaçao começando... Reformatando Pip-Boy...}

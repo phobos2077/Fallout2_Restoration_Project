@@ -1,50 +1,50 @@
-{100}{}{You see a small girl wearing a yellow dress.}
-{101}{}{You see Sandy, the child.}
-{102}{}{You see a small girl wearing a yellow dress with flowers on it. She appears to be meowing like
- a cat. She has on a name tag that says "Sandy".}
-{103}{}{Meow... meow... I am a cat. And I have special powers that only cats have. What are you?}
-{104}{}{Me doggy! Woof! Woof! Who you?}
-{105}{}{Urrrh? (confused puppy look)}
-{106}{}{You strange. Me gone.}
-{107}{}{I'm the person that's gonna kick your ass if you don't stop this cat nonsense and tell me your
- name.}
-{108}{}{I'm just a normal person who is quite impressed with your special nature. Can you tell me your
- name?}
+{100}{}{Você vê uma garotinha usando um vestido amarelo.}
+{101}{}{Você vê Sandy, a menina.}
+{102}{}{Você vê uma garotinha usando um vestido amarelo com flores. Ela parece estar miando como um gatinho. Ela tem
+ um crachá que diz "Sandy".}
+{103}{}{Miau... miau... Eu sou um gato. E eu tenho poderes especiais que só os gatos têm. Quem é você?}
+{104}{}{Eu cachorrinho! Au! Au! Quem você?}
+{105}{}{Urra? (olhar de cachorrinho confuso)}
+{106}{}{Você estranha. Eu vou.}
+{107}{}{Eu sou a pessoa que vai chutar sua bunda se você não parar com essa besteira de gato e me
+ dizer seu nome.}
+{108}{}{Sou apenas uma pessoa normal que está bastante impressionada com sua natureza especial. Você pode me
+ dizer seu nome?}
 {109}{}{Não importa.}
-{110}{}{(Giggles) You look funny! Meow... I'm Sandy. I'm not really a cat. I just like to play like I
- am.}
-{111}{}{(Screams) Mommy! Mommy! Mommy!}
-{112}{}{I'm Sandy. I'm not really a cat, I just like to play.}
-{113}{}{Me play too. Me ask you questions?}
+{110}{}{(Risos) Você parece engraçado! Miau... eu sou Sandy. Eu não sou realmente um gato. Eu só gosto de
+ fingir que eu sou um.}
+{111}{}{(Gritos) Mamãe! Mamãe! Mamãe!}
+{112}{}{Eu sou Sandy. Eu não sou realmente um gato, eu só gosto de brincar.}
+{113}{}{Eu jogo também. Te fazer perguntas?}
 {114}{}{Me deixe agora.}
-{115}{}{I see. Can I ask you some questions?}
-{116}{}{Okay, I'm history.}
-{117}{}{What do you want to ask me?}
-{118}{}{You forced stay here?}
-{119}{}{You like be here?}
-{120}{}{You safe here?}
-{121}{}{Never mind. Me leave.}
-{122}{}{Are you forced to stay here?}
-{123}{}{Do you like it here?}
-{124}{}{Are you safe here?}
+{115}{}{Entendo. Posso te fazer algumas perguntinhas?}
+{116}{}{Sim, estou ouvindo.}
+{117}{}{O que quer me perguntar?}
+{118}{}{Você é forçada a estar aqui?}
+{119}{}{Gosta de ficar aqui?}
+{120}{}{Esta segura aqui?}
+{121}{}{Deixa para lá. Vou embora.}
+{122}{}{Você esta aqui a força?}
+{123}{}{Você gosta desse lugar?}
+{124}{}{Você esta segura aqui?}
 {125}{}{Deixa pra lá. Tchau.}
-{126}{}{Yeah. My mom always tells me where I can and can't go. She tells me where I can play and when
- to eat and when to go to bed and when to go potty and when to go to school and everything. I don't think
- it's fair that she can do anything she wants but I've gotta do what she says all the time.}
+{126}{}{Sim. Minha mãe sempre me diz onde posso e não posso ir. Ela me diz onde eu posso brincar e quando comer
+ e quando ir para a cama e quando ir ao banheiro e quando ir para a escola e tudo mais. Não acho justo que ela
+ possa fazer o que quiser, mas tenho que fazer o que ela diz o tempo todo.}
 {127}{}{Ok.}
-{128}{}{Me got leave now.}
+{128}{}{Tenho que ir agora.}
 {129}{}{Eu vejo.}
-{130}{}{I think I've heard enough for now. Bye.}
-{131}{}{I guess. I miss not having other kids to play with but Mom says that will change some day. She
- thinks other kids will come to live here. Until they do I like to play with Valdis. He's funny and he
- gives me piggy back rides. Mom says I should leave Valdis alone. He's busy and doesn't have time to
- play but he always plays with me when I ask him. I just don't tell Mom about it anymore.}
-{132}{}{Piggy... (confused puppy look)}
+{130}{}{Acho que já ouvi o suficiente por enquanto. Tchau.}
+{131}{}{Eu acho. Mas queria ter outras crianças para brincar, mas mamãe diz que isso vai mudar algum dia.
+ Ela acha que outras crianças virão morar aqui. Até que venham, gosto de jogar com Valdis, ele é
+ engraçado e me dá carona nas costas. Mamãe diz que eu deveria deixar Valdis em paz. Ele está ocupado
+ e não tem tempo para brincar, mas sempre brinca comigo quando peço. Só não conto mais para a mamãe.}
+{132}{}{Cavalinho... (Olhar de cachorrinho confuso)}
 {133}{}{Eu vou.}
 {134}{}{That's nice.}
-{135}{}{Ok, see ya.}
-{136}{}{Yeah. Mommy takes care of me and Valdis wouldn't let anyone hurt me. I'm safe here.}
-{137}{}{Ok. Me go now.}
-{138}{}{Good; I'll be leaving then.}
+{135}{}{Ok, entendi.}
+{136}{}{Sim. Mamãe cuida de mim e Valdis não deixaria ninguém me machucar. Estou segura aqui.}
+{137}{}{OK. Eu vou agora.}
+{138}{}{Bom; vou embora então.}
 {139}{}{Oi.}
-{140}{}{Go away! I don't like you!}
+{140}{}{Vá embora! Eu não gosto de você!}
