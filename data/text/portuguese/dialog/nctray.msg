@@ -147,45 +147,45 @@
 {543}{}{Eu...*huff-huff*...tenho meu carro de volta, e eu...*huff-huff*...não quero que você rele nele. Estou saindo daqui.}
 {550}{}{Claro que pode. Posso melhorar o carregador de bateria, polir o motor, limpar um pouco o interior, dar um brilho,
  colocar uma corda de metal em volta da placa - e botar mais espaço nesse porta-malas, é muito pequeno. 500 tampas.}
-{551}{}{You know, jazz up the battery charger, spruce up the engine, clean out the interior a little, give it a shine, put a brass
- rope around the license plate - and  kick some of that shit outta the trunk, make some more room. Any of that interest you?
- Only 500 chips.}
-{552}{}{Sure. Here's 500 chips.}
-{553}{}{How about 300 chips?}
-{554}{}{I ain't got that much on me right now. How about I bring it back when I have the cash?}
-{555}{}{How about some more sweet love?}
-{556}{}{How about my body? That interest you?}
-{558}{}{I'm SICK of this bullshit run-around. Eat lead, chop shop boy...}
-{559}{}{I don't want you touching my car anymore. I'm outta here.}
-{575}{}{Done. (Takes money) It's all taken care of. An' look: you ever need batteries, come talk to me, and I'll hook you up.}
-{576}{}{Can I see what you have in stock now?}
-{577}{}{All right, then, thanks. Catch you later, T-Ray.}
-{590}{}{(Shakes his head.) Naw, that ain't gonna cut it. 500 or nothing.}
-{615}{}{Course you can. It's all good. An' look: you ever need any batteries for it, come talk to me, and I'll hook you up.}
-{616}{}{Actually, I need some batteries right now.}
-{617}{}{I could use some batteries, but you know what? I don't feel like paying with chips... would you be interested in something... ELSE?}
-{619}{}{All right, then. Catch you later.}
-{630}{}{(Shrugs) Sorry, we ain't got no batteries now... come back in a week or two, maybe some will have turned up.
- 'Course... we could just conduct bitness ANYWAY...}
+{551}{}{Você sabe, melhorar o carregador de bateria, polir o motor, limpar um pouco o interior, dar um brilho, colocar uma
+ corda de metal em volta da placa - e botar um pouco mais de espaço nesse porta-malas, é muito pequeno. Alguma dessas
+ te interessa? Apenas 500 tampas.}
+{552}{}{Claro. Aqui estão 500 tampas.}
+{553}{}{Que tal 300 tampas?}
+{554}{}{Eu não tenho muito comigo agora. Que tal eu voltar quando tiver o dinheiro?}
+{555}{}{Que tal um pouco mais de amor, docinho?}
+{556}{}{Que tal meu corpo? Isso te interessa?}
+{558}{}{Estou DE SACO CHEIO dessa palhaçada. Coma chumbo, sucateiro...}
+{559}{}{Não quero mais que toque no meu carro. Estou saindo daqui.}
+{575}{}{Feito. (Pega o dinheiro) Está tudo resolvido. Olha só: se precisar de baterias, venha falar comigo e eu te dou uma mão.}
+{576}{}{Posso ver o que você tem a venda agora?}
+{577}{}{Tudo bem, então, obrigado. Te vejo mais tarde, T-Ray.}
+{590}{}{(Balança a cabeça.) Não, isso me interessa. 500 ou nada.}
+{615}{}{Claro que você pode, por mim está ótimo. Olha só: se precisar de baterias para isso, venha falar comigo e eu te dou uma mão.}
+{616}{}{Na verdade, eu preciso de algumas baterias agora.}
+{617}{}{Eu poderia pegar algumas baterias, mas quer saber? Não tenho vontade de pagar com tampas... você estaria interessado em outra coisa... OUTRA?}
+{619}{}{Tudo bem então. Te vejo mais tarde.}
+{630}{}{(Dá de ombros) Desculpe, não temos baterias agora... volte em uma semana ou duas, talvez algumas tenham
+ aparecido. 'Claro... nós poderíamos aproveitar o tempo para fazer alguns NEGOCIOS...}
 {631}{}{Tudo certo.}
-{632}{}{Sorry, only when it IS business. Later, T-Ray.}
-{640}{}{Damn, bitch! I just gave you sweet love five minutes ago! You trying to KILL me?}
+{632}{}{Desculpe, apenas quando se TRATA de negócios. Até mais, T-Ray.}
+{640}{}{Porra, vadia! Acabei de te dar um doce amor há cinco minutos! Você quer me MATAR?}
 {641}{}{Agora, espera...}
-{642}{}{C'mon, I need a charge, and only YOUR sweet love is going to do it.}
-{643}{}{Nevermind then. Be that way.}
-{650}{}{Naw, I already got one dog I give a bone to, and I ain't looking to start a kennel. From the looks of you, you ain't
- got nothing that would be worth my time. 500 chips is what sprucing up the Highwayman's gonna cost.}
-{651}{}{All right then. Here's 500 chips.}
-{653}{}{Know what? I'm SICK of listening to your bullshit. I'm going to put you down.}
-{660}{}{(Stops you before you turn away.) Now hold on a minute, woman. I didn't say I didn't HAVE no sweet love for you.
- Let's get down to bitness.}
-{661}{}{(Looks you up and down.) A man's gotta do who a man's gotta do. Let's get down to bitness.}
-{662}{}{Get down to "bitness."}
-{663}{}{No, I've changed my mind. Bye.}
-{670}{}{Hey! The big hero comes 'round to T-Ray's neck o' the woods! Welcome, welcome... }
-{671}{}{Hey, sweet-thing. You come back to relax with the Ray after you done kicking the world's ass? }
-{672}{}{Say... I got something you might be interested in for yo car... IF you still have it.}
-{673}{}{Wut izzit}
+{642}{}{Vamos lá, eu preciso de uma carga, e só o SEU doce amor vai fazer isso.}
+{643}{}{Deixa pra lá então. Seja desse jeito.}
+{650}{}{Não, osso eu só dou pro meu cachorro, e não estou querendo começar um canil. Pelo seu tipinho, você não tem
+ nada que valha o meu tempo. 500 tampas é o que vai custar para ajeitar o Highwayman.}
+{651}{}{Tudo bem então. Aqui estão 500 tampas.}
+{653}{}{Sabe de uma coisa? Eu to PUTO DA CARA de ouvir essas bostas. Você vai se fuder agora.}
+{660}{}{(Para antes de você se virar.) Agora espere um minuto, mulher. Eu não disse que não TENHO nenhum amor doce
+ pra você. Vamos aos negocios.}
+{661}{}{(Olha você de cima a baixo.) Um homem tem que fazer o seu trabalho. Vamos aos negocios.}
+{662}{}{Vamos por a mão na massa.}
+{663}{}{Não, mudei de ideia. Tchau.}
+{670}{}{Ei! O grande herói retorna aos dominios de T-Ray! Bem-vindo, bem vindo... }
+{671}{}{Ei, coisa doce. Você voltou para relaxar com o Ray depois de chutar o cu de todo mundo? }
+{672}{}{Veja... Eu tenho algo que você pode te interessar para o seu carro... SE você ainda o tiver.}
+{673}{}{Qu-e se passa}
 {675}{}{What have you got for the car?}
 {690}{}{Damn, woman! I just gave you sweet love five minutes ago! You trying to KILL me?}
 {691}{}{You wanna go AGAIN? Damn, woman! Don't your legs EVER close?}
