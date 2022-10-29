@@ -140,13 +140,13 @@
 {531}{}{Que tipo de regalias você fala?}
 {532}{}{Já cansei de ficar enrolando aqui. Coma chumbo, sucateiro...}
 {533}{}{Ah, mas você já me deu TANTO. Vou sair daqui.}
-{540}{}{(T-Ray wipes the sweat off his body.) Goddamn, woman. All right then, the Highwayman's all yours. It ain't got none
- of the special amen-ities I was gonna add...}
-{541}{}{*Huff-huff* What amenities are you...*huff-huff*...talking about?}
-{542}{}{I am sick of this...*huff-*huff*...bullshit run-around. Eat...*wheeze*...lead, chop shop boy...}
-{543}{}{I...*huff-huff*...got my car back, and I...*huff-huff*...don't want you touching it anymore. I'm... outta here.}
-{550}{}{Sure can. I can jazz up the battery charger, spruce up the engine, clean out the interior a little, give it a shine, put
- a brass rope around the license plate - and  kick some of that shit outta the trunk, make some more room. 500 chips.}
+{540}{}{(T-Ray enxuga o suor de seu corpo.) Porra, mulher. Tudo bem então, o Highwayman é todo seu. Não tem nenhuma
+ das regalias especiais que eu ia colocar...}
+{541}{}{*Huff-huff* De que regalias você está...*huff-huff*...falando?}
+{542}{}{Estou cansada disso... *huff-*huff*... só besteiras. Coma...*chiado*...lidere, sucateiro...}
+{543}{}{Eu...*huff-huff*...tenho meu carro de volta, e eu...*huff-huff*...não quero que você rele nele. Estou saindo daqui.}
+{550}{}{Claro que pode. Posso melhorar o carregador de bateria, polir o motor, limpar um pouco o interior, dar um brilho,
+ colocar uma corda de metal em volta da placa - e botar mais espaço nesse porta-malas, é muito pequeno. 500 tampas.}
 {551}{}{You know, jazz up the battery charger, spruce up the engine, clean out the interior a little, give it a shine, put a brass
  rope around the license plate - and  kick some of that shit outta the trunk, make some more room. Any of that interest you?
  Only 500 chips.}
