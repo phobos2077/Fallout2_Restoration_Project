@@ -1,1 +1,0 @@
-{100}{}{Who did you piss off to get stuck in this?}
