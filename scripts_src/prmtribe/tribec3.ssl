@@ -31,7 +31,6 @@ procedure damage_p_proc;
 procedure map_enter_p_proc;
 procedure map_update_p_proc;
 procedure talk_p_proc;
-procedure wield_spear_p_proc;
 
 /*****************************************************************
    Local Variables which are saved. All Local Variables need to be
@@ -54,7 +53,7 @@ procedure wield_spear_p_proc;
 *******************************************************************/
 variable In_Timed_Event;
 variable STEAL_Once;
-variable WIELD_Once;
+
 /*******************************************************************
 *******                         PROCEDURES                   *******
 *******************************************************************/
@@ -204,9 +203,6 @@ begin
   if ( (REP_ENEMY_PRIMITIVE_TRIBE) and (self_can_see_dude) ) then begin
        attack(dude_obj);
   end
-  if (global_var(GVAR_TRIBE_WEAPONS)==2) then begin
-      call wield_spear_p_proc;
-  end
 end
 
 procedure destroy_p_proc
@@ -220,13 +216,5 @@ procedure combat_p_proc
 begin
    if (global_var(GVAR_ENEMY_PRIMITIVE_TRIBE) == 1) then begin
       attack(dude_obj);
-   end
-end
-
-procedure wield_spear_p_proc
-begin
-   if (WIELD_Once == 0) then begin
-      wield_obj(self_item(PID_SPEAR));
-      WIELD_Once:=1;
    end
 end

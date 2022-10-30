@@ -28,7 +28,6 @@ procedure damage_p_proc;
 procedure map_enter_p_proc;
 procedure map_update_p_proc;
 procedure talk_p_proc;
-procedure wield_spear_p_proc;
 
 procedure Node995;
 procedure Node996;
@@ -62,7 +61,7 @@ procedure Node008;
 
 variable step := 1;
 variable STEAL_Once;
-variable WIELD_Once;
+
 /*******************************************************************
    Imported variables from the Map scripts. These should only be
    pointers and variables that need not be saved. If a variable
@@ -197,7 +196,6 @@ end
 ***************************************************************************************/
 
 procedure map_enter_p_proc begin
-   call wield_spear_p_proc;
    add_timer_event(self_obj,game_ticks(random(5,9)),1);
 
    set_self_team(TEAM_PRIMITIVE_TRIBE);
@@ -282,15 +280,6 @@ begin
       attack(dude_obj);
    end
 end
-
-procedure wield_spear_p_proc
-begin
-   if ( (WIELD_Once == 0) and (self_is_male) ) then begin
-      wield_obj(self_item(PID_SHARPENED_POLE));
-      WIELD_Once:=1;
-   end
-end
-
 
 procedure Node001 begin
    Reply(300);

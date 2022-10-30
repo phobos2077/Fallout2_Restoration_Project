@@ -133,7 +133,6 @@ variable from_home:=0;
 *******************************************************************/
 
 procedure start begin
-   wield_obj(self_item(PID_SHARP_SPEAR));
 end
 
 procedure timed_event_p_proc begin

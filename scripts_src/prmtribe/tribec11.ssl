@@ -37,7 +37,6 @@ procedure Node005;
 procedure Node006;
 procedure Node007;
 procedure Node008;
-procedure wield_spear_p_proc;
 procedure Node009;
 
 /*****************************************************************
@@ -71,7 +70,7 @@ procedure Node009;
    first entered. Any initial information that needs to be set up
    should be placed in here.
 *******************************************************************/
-variable WIELD_Once;
+
 import variable WARRIOR_obj;
 
 procedure start begin
@@ -143,7 +142,6 @@ end
 ***************************************************************************************/
 
 procedure map_enter_p_proc begin
-   call wield_spear_p_proc;
    set_self_team(TEAM_PRIMITIVE_TRIBE);
 end
 
@@ -280,14 +278,6 @@ procedure Node008 begin
    set_global_var(GVAR_MISSING_WARRIOR,4);
    move_to(WARRIOR_obj, 18517, 1);
    load_map(MAP_PRIMITIVE_TRIBE1,0);
-end
-
-procedure wield_spear_p_proc
-begin
-   if ((WIELD_Once == 0)) then begin
-      wield_obj(self_item(PID_SHARP_SPEAR));
-      WIELD_Once:=1;
-   end
 end
 
 procedure Node009 begin
