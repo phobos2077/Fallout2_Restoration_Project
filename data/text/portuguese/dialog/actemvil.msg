@@ -85,7 +85,8 @@ Você pode obtê-lo após a luta. Deixe que a luta comece! Boa sorte para você 
 {172}{}{Eu vejo.}
 {200}{}{Não me lembro da nossa última batalha, escolhido. Eu sempre me pergunto como você conseguiu
   passar por mim.}
-{201}{}{Você tem uma língua da mais pura prata, Escolhido. Sua habilidade com as palavras, irá abrir muitas portas para você.}
+{201}{}{Você tem uma língua da mais pura prata, Escolhido. Sua habilidade com as palavras, irá abrir muitas
+ portas para você.}
 {300}{}{E para você também, Escolhido. Que os espíritos o guiem na sua missão.}
 {301}{}{Obrigado, Cameron.}
 {302}{}{Escolhido, não pude deixar de notar que você não possui habilidades de combate fortes. Por minha experiência você nem sempre pode confiar em sua inteligência ou palavras para proteção. Com sua permissão, eu vou ensinar-lhe algumas coisas que eu acho que você vai achar mais útil.}

@@ -30,7 +30,7 @@
 {142}{}{Com certeza sua grana vale a pena.}
 {143}{}{Vou tirar o resto do dia de folga.}
 {144}{}{Uau! Você sentiu o chão tremer também?}
-{145}{}{Agora eu sei como se sentia a grande Catherine.}
+{145}{}{Agora eu sei como a grande Catherine se sentia.}
 {150}{}{Bom, dinheiro é dinheiro, né....}
 {151}{}{Uau! Essa foi uhh...diferente.}
 {152}{}{Se saiu muito bem. Próximo!}

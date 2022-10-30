@@ -27,7 +27,7 @@
 {26}{}{Não há espaço libre para esse item.}
 {27}{}{OK, isso é um bom negócio.}
 {28}{}{Não, sua oferta não é boa o suficiente.}
-{29}{}{Você ganha %d Pontos de experiência por usar com sucesso sua sua habilidade de roubar.}
+{29}{}{Você ganha %d Pontos de experiência por usar com sucesso sua habilidade de roubar.}
 {30}{}{Peso}
 {31}{}{Você não pode carregar tanto peso.}
 {32}{}{Isso é muito para carregar..}

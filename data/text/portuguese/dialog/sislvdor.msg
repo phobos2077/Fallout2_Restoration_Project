@@ -9,8 +9,9 @@
 {104}{}{Você vê uma porta resistente com nenhum dispositivo de bloqueio aparente e
   uma armadilha altamente explosiva no quadro da porta, que você pode
   arrombar.}
-{105}{}{Você vê uma porta resistente com uma fechadura velha e enferrujada e uma
-  armadilha explosiva no batente da porta, que você poderá desarmar.}
+{105}{}{Você vê uma porta resistente com uma fechadura velha e
+ enferrujada e uma armadilha explosiva no batente da porta, que
+ você poderá desarmar.}
 {106}{}{You see a study door with a lock which can be picked with
  lockpicks and a trap in the doorframe, which you may be able to
  pry open.}
@@ -36,8 +37,8 @@
   capaz de se abrir.}
 {116}{}{Você vê uma porta resistente com nenhum dispositivo de bloqueio aparente,
   que você poderá abrir.}
-{117}{}{Você vê uma porta resistente com um bloqueio velho e enferrujado, que
-  você pode abrir.}
+{117}{}{Você vê uma porta resistente com um bloqueio velho
+ e enferrujado, que você pode abrir.}
 {118}{}{You see a study door with a lock which can be picked with
  lockpicks and a highly explosive trap in the doorframe.}
 {119}{}{Você vê uma porta resistente com um bloqueio e uma
@@ -77,10 +78,12 @@
   armadilha explosiva no quadro da porta.}
 {138}{}{You see a damaged door with a lock which can be picked with
  lockpicks and a trap in the doorframe.}
-{139}{}{Você vê uma porta danificada com um bloqueio e uma armadilha no quadro da porta.}
+{139}{}{Você vê uma porta danificada com um bloqueio e uma
+ armadilha no quadro da porta.}
 {140}{}{Você vê uma porta danificada sem dispositivo de bloqueio aparente e
   uma armadilha no batente da porta.}
-{141}{}{Você vê uma porta danificada com um bloqueio e uma armadilha no quadro da porta.}
+{141}{}{Você vê uma porta danificada com um bloqueio e uma
+ armadilha no quadro da porta.}
 {142}{}{You see a damaged door with a lock which can be picked with
  lockpicks and a cut wire in the doorframe.}
 {143}{}{Você vê uma porta danificada com um bloqueio e um fio cortado
@@ -104,7 +107,8 @@
   armadilha explosiva no quadro da porta.}
 {154}{}{You see an old door with a lock which can be picked with
  lockpicks and a trap in the doorframe.}
-{155}{}{Você vê uma porta velha com um bloqueio e uma armadilha no quadro da porta.}
+{155}{}{Você vê uma porta velha com um bloqueio e uma
+ armadilha no quadro da porta.}
 {156}{}{Você vê uma porta velha sem dispositivo de bloqueio aparente e
   uma armadilha no batente da porta.}
 {157}{}{Você verá uma porta velha, a velha e enferrujada de bloqueio e uma armadilha
@@ -124,23 +128,24 @@ no alizar de porta.}
 {165}{}{Você vê uma porta velha com um bloqueio velho e enferrujado.}
 {166}{}{Você foi pego na armadilha e tomou }
 {167}{}{ pontos de dano.}
-{168}{}{ desencadeia a armadilha e foi atingido por  }
+{168}{}{ desencadeia a armadilha e foi atingido por }
 {169}{}{ pontos de dano.}
 {170}{}{Você abre habilmente o bloqueio na porta.}
 {171}{}{A sua falta de habilidade encravou a trava na porta.}
 {172}{}{Você não consegue abrir o bloqueio nesta porta.}
 {173}{}{ habilmente destranca a fechadura na porta.}
 {174}{}{A sua falta de habilidade emperrou a trava na porta.}
-{175}{}{ falhou em destrancar essa porta.}
+{175}{}{ falhou em arrombar a fechadura dessa porta.}
 {176}{}{Você arrombou a fechadura da porta.}
 {177}{}{Você pressiona suas costas enquanto tenta abrir o bloqueio e
   toma um ponto de dano.}
-{178}{}{Você pressiona suas costas enquanto tenta abrir o bloqueio e toma }
+{178}{}{Você pressiona suas costas enquanto tenta abrir o
+ bloqueio e toma }
 {179}{}{ pontos de dano.}
 {180}{}{Você é muito fraco para ultrapassar o bloqueio.}
 {181}{}{ arrombou a fechadura da porta.}
-{182}{}{ machuca as costas enquanto tenta arrombar a fechadura e recebe 
- pontos de dano.}
+{182}{}{ Estica as costas enquanto tenta violar a fechadura e
+ recebe pontos de dano.}
 {183}{}{ massageia suas costas enquanto tenta abrir o bloqueio e toma }
 {184}{}{ pontos de dano.}
 {185}{}{ é muito fraco para ultrapassar o bloqueio.}

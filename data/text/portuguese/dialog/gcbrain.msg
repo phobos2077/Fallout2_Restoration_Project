@@ -33,7 +33,7 @@
 {180}{}{Não me importa onde você o encontrou. A questão é se você pretende juntar-se a nós e usá-lo
  seriamente. }
 {181}{}{Juntar-me a vocês? O que quer dizer com isso?}
-{182}{}{Eu prefiro limpar sua gaiola a  me juntar a vocês.}
+{182}{}{Eu prefiro limpar sua gaiola a me juntar a vocês.}
 {183}{}{Depende. As patrulhas de Vault City continuam sendo atacadas por ratos toupeira. Presumo que você esteja por trás disso?}
 {184}{}{Claro que estou. Tudo parte do meu grande plano para dominar o mundo. Eu não esperaria que um cérebro humano deficiente como o seu entendesse. Mas, ai de mim, qual é a sua preocupação?}
 {185}{}{Eu só quero que seus ratos toupeira parem de atacar as patrulhas de Vault City.}
@@ -132,7 +132,9 @@
  pessoas, mas elas só tentavam me matar. Humanos são muito violentos para sobreviver sob sua própria
  liderança -- mas essa é outra história. O primeiro passo é reparar o reator.}
 {391}{}{Reparar o reator?}
-{400}{}{Sim. Você deve pegar o Hydroelectric Magnetosphere Regulator em Vault City para poder reapara o reator de Gecko. Se não o fizer, Vault City vai, sem dúvida, atacar Gecko. É claro, destruindo o reator, eles se destinarão à ruina com o passar do tempo.}
+{400}{}{Sim. Você deve pegar o Regulador Hidroeletrico da Magnosfera em Vault City para poder reapara o reator de Gecko. Se não o fizer,
+ Vault City vai, sem dúvida, atacar Gecko. É claro, destruindo o reator, eles se destinarão à ruina
+ com o passar do tempo.}
 {401}{}{Eles vão se condenar? O que quer dizer?}
 {402}{}{Por que Vault City me daria uma peça da Usina de Gecko??}
 {410}{}{Você tem que mostrá-los que isso os ajuda em seus interesses. Pessoas são fácilmente
@@ -204,8 +206,8 @@
 pouco mais fora da cidade fazem minha fama.}
 {621}{}{Mas você é apenas um rato gigante.}
 {622}{}{Você disse algo sobre juntar-se a você?}
-{630}{}{As ações que eu proponho beneficiarão milhares de cidadãos de Vault City e Gecko. Você pode não 
- se importar comigo ou com meus motivos, mas ainda assim  os resultados
+{630}{}{As ações que eu proponho beneficiarão milhares de cidadãos de Vault City e Gecko. Você pode não
+ se importar comigo ou com meus motivos, mas ainda assim os resultados
  são promissores.}
 {631}{}{Você recebeu o Reactor Data disk, agora deve usá-lo.}
 {632}{}{Você teve o Reactor Data disk analisado, agora deve fazer algo com ele.}
@@ -232,7 +234,7 @@ pouco mais fora da cidade fazem minha fama.}
 {656}{}{Bem, foi o que eu supus, mas o quê?}
 {657}{}{Como o quê?}
 {658}{}{Uma peça? Que tipo de peça?}
-{659}{}{Por que não me conta sobre esse último passo e eu pensarei em ajudá-lo?}
+{659}{}{Por que não me conta sobre essa última parte e daí eu penso em te ajudar?}
 {670}{}{O reator, sempre o reator (suspiro). Volte quando tiver tido algum
  progresso nele.}
 {671}{}{Volte mais tarde. Estou me comunicando com uma força maior, ou algo assim (hunf).}

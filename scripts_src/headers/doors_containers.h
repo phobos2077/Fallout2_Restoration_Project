@@ -18,7 +18,36 @@
 #endif
 /* Experience Points for Skills */
 #ifndef Lockpick_Exp
-  #define Lockpick_Exp                    EXP_LOCKPICK_NORMAL
+  #if Lock_Bonus == 0
+    #define Lockpick_Exp                    EXP_LOCKPICK_NORMAL
+  #endif
+  #if Lock_Bonus == (-10)
+    #define Lockpick_Exp                    EXP_LOCKPICK_NEG_10
+  #endif
+  #if Lock_Bonus == (-20)
+    #define Lockpick_Exp                    EXP_LOCKPICK_NEG_20
+  #endif
+  #if Lock_Bonus == (-30)
+    #define Lockpick_Exp                    EXP_LOCKPICK_NEG_30
+  #endif
+  #if Lock_Bonus == (-40)
+    #define Lockpick_Exp                    EXP_LOCKPICK_NEG_40
+  #endif
+  #if Lock_Bonus == (-50)
+    #define Lockpick_Exp                    EXP_LOCKPICK_NEG_50
+  #endif
+  #if Lock_Bonus == (-60)
+    #define Lockpick_Exp                    EXP_LOCKPICK_NEG_60
+  #endif
+  #if Lock_Bonus == (-70)
+    #define Lockpick_Exp                    EXP_LOCKPICK_NEG_70
+  #endif
+  #if Lock_Bonus == (-80)
+    #define Lockpick_Exp                    EXP_LOCKPICK_NEG_80
+  #endif
+  #if Lock_Bonus == (-90)
+    #define Lockpick_Exp                    EXP_LOCKPICK_NEG_90
+  #endif
 #endif
 #ifndef Traps_Exp
   #define Traps_Exp                       EXP_TRAPS_NORMAL
@@ -26,10 +55,18 @@
 
 /* Penalties for forcing the door open using strength */
 #ifndef Crowbar_Bonus
-  #define Crowbar_Bonus                   (0)
+  #if DOOR_STATUS == STATE_METAL
+    #define Crowbar_Bonus                   (-2)
+  #else
+    #define Crowbar_Bonus                   (0)
+  #endif
 #endif
 #ifndef Crowbar_Strain
-  #define Crowbar_Strain                  (2)
+  #if DOOR_STATUS == STATE_METAL
+    #define Crowbar_Strain                  (4)
+  #else
+    #define Crowbar_Strain                  (2)
+  #endif
 #endif
 
 /* Max and Min damage for the trap */
@@ -69,7 +106,7 @@ procedure Super_Lockpick_Lock;
 procedure Super_Set_Lockpick_Lock;
 procedure trap_search_result(variable found_trap, variable who);
 procedure real_explosion(variable explosive);
-
+procedure roll_critical;
 /*****************************************************************
 Local Variables which are saved. All Local Variables need to be
 prepended by LVAR_
@@ -198,29 +235,63 @@ was taken, and remove the trap.
 This procedure is used should the player try to pry the door open using a
 crowbar or some similar instrument.
 ***************************************************************************/
+// For wood doors, Crowbar_Bonus = 0, which means always success
+procedure roll_pry_success begin
+  variable rnd = random(1,10);
+  if rnd <= (get_critter_stat(source_obj,STAT_st) + Crowbar_Bonus) then return true;
+  return false;
+end
+
+// Sturdier doors and high strength provide more chance to mangle the crowbar
+// Any STR char + wood door = 1% chance to destroy
+// 5 STR char + metal door = 10% chance to destroy
+// 10 STR char + metal door = 20% chance to destroy
+procedure roll_pry_destroy_crowbar begin
+  variable rnd = random(1,100);
+  variable str = get_critter_stat(source_obj,STAT_st);
+  // Base Crowbar_Bonus = 0 (wood door). For metal doors, default is -2
+  variable penalty = str * Crowbar_Bonus;
+  if rnd + penalty <= 1 then return true;
+  return false;
+end
+
 #ifndef custom_Pry_Door
   procedure Pry_Door begin
-    variable Stat_Roll;
+    variable pry_success;
+    variable pry_strain;
+    variable pry_destroy_crowbar;
 
     if not obj_is_locked(self_obj) then begin
       display_msg(my_mstr(601));
       return;
     end
 
-    Stat_Roll:=do_check(source_obj,STAT_st,Crowbar_Bonus);
+    // crowbar destroy runs always, discouraging high STR characters from spamming it
+    pry_destroy_crowbar = roll_pry_destroy_crowbar();
+    if pry_destroy_crowbar then begin
+      variable crowbar = get_item(source_obj, PID_CROWBAR);
+      rm_obj_from_inven(source_obj, crowbar);
+      destroy_object(crowbar);
+      if (source_obj == dude_obj) then display_msg(my_mstr(620));
+      else display_msg(obj_name(source_obj) + my_mstr(621));
+      return;
+    end
 
-    if (is_success(Stat_Roll)) then begin
+    pry_success = roll_pry_success();
+    if pry_success then begin
       set_local_var(LVAR_Locked, STATE_INACTIVE);
       obj_unlock(self_obj);
       if (source_obj == dude_obj) then begin
         display_msg(my_mstr(176));
-      end
-      else begin
+      end else begin
         display_msg(my_mstr(181));
       end
+      return;
     end
-    
-    else if (is_critical(Stat_Roll)) then begin
+
+    // failure: damage
+    pry_strain = roll_critical();
+    if pry_strain then begin
       critter_dmg(source_obj,Crowbar_Strain,(DMG_normal_dam BWOR DMG_BYPASS_ARMOR));
       
       if (source_obj == dude_obj) then begin
@@ -252,16 +323,13 @@ crowbar or some similar instrument.
         end
       end
     end
-    
-    else begin
-      if (source_obj == dude_obj) then begin
-        display_msg(my_mstr(180));
-      end
-      
-      else begin
-        display_msg(my_mstr(185));
-      end
+
+    // regular failure
+    if not pry_strain then begin
+      if (source_obj == dude_obj) then display_msg(my_mstr(180));
+      else display_msg(my_mstr(185));
     end
+
   end
 #endif
 
@@ -480,6 +548,11 @@ will need to be closed, as all traps are set to go off if the door is openned.
       script_overrides;
       Removal_Counter:=rm_mult_objs_from_inven(source_obj,Explosive,1);
 
+      reg_anim_clear(dude_obj);
+      reg_anim_begin();
+        reg_anim_animate(dude_obj,ANIM_magic_hands_middle,-1);
+      reg_anim_end();
+
       if (is_success(Traps_Roll)) then begin
         destroy_object(Explosive);
         set_local_var(LVAR_Trapped,STATE_ACTIVE);
@@ -527,13 +600,15 @@ lockpick skill and perception to notice the lock.
 #ifndef custom_Look_Locks
   procedure Look_Locks begin
     variable Perception_Check;
+    variable perception_critical;
     variable Locks_Check;
     
     Perception_Check:=do_check(dude_obj,STAT_pe,0);
+    perception_critical = roll_critical();
     Locks_Check:=roll_vs_skill(dude_obj,SKILL_LOCKPICK,0);
     
     if (is_success(Perception_Check)) then begin
-      if (is_critical(Perception_Check)) then begin
+      if perception_critical then begin
         if (is_success(Locks_Check)) then begin
           if (is_critical(Locks_Check)) then begin
             display_msg(my_mstr(114));
@@ -574,7 +649,7 @@ lockpick skill and perception to notice the lock.
       end                                                      // Regular Success (Stat_pe)
     end
     
-    else if (is_critical(Perception_Check)) then begin
+    else if perception_critical then begin
       if (is_success(Locks_Check)) then begin
         if (is_critical(Locks_Check)) then begin
           display_msg(my_mstr(146));
@@ -623,13 +698,15 @@ traps skill and perception to notice the trap.
 #ifndef custom_Look_Traps
   procedure Look_Traps begin
     variable Perception_Check;
+    variable perception_critical;
     variable Traps_Check;
     
     Perception_Check:=do_check(dude_obj,STAT_pe,0);
+    perception_critical = roll_critical();
     Traps_Check:=roll_vs_skill(dude_obj,SKILL_TRAPS,0);
     
     if (is_success(Perception_Check)) then begin
-      if (is_critical(Perception_Check)) then begin
+      if perception_critical then begin
         if (is_success(Traps_Check)) then begin
           if (is_critical(Traps_Check)) then begin
             display_msg(my_mstr(104));
@@ -670,7 +747,7 @@ traps skill and perception to notice the trap.
       end                                                      // Regular Success (Stat_pe)
     end
     
-    else if (is_critical(Perception_Check)) then begin
+    else if perception_critical then begin
       if (is_success(Traps_Check)) then begin
         if (is_critical(Traps_Check)) then begin
           display_msg(my_mstr(136));
@@ -720,10 +797,12 @@ on your lockpick and traps skills and perception to notice things.
 #ifndef custom_Look_Traps_And_Locks
   procedure Look_Traps_And_Locks begin
     variable Perception_Check;
+    variable perception_critical;
     variable Traps_Check;
     variable Locks_Check;
     
     Perception_Check:=do_check(dude_obj,STAT_pe,0);
+    perception_critical = roll_critical();
     Traps_Check:=roll_vs_skill(dude_obj,SKILL_TRAPS,0);
     Locks_Check:=roll_vs_skill(dude_obj,SKILL_LOCKPICK,0);
     
@@ -733,7 +812,7 @@ on your lockpick and traps skills and perception to notice things.
       
       /* Critical Success of a Perception Check  (Start)*/
       
-      if (is_critical(Perception_Check)) then begin
+      if perception_critical then begin
         
         if (is_success(Traps_Check)) then begin
           set_local_var(LVAR_Found_Trap,1);                // player has found the trap
@@ -937,7 +1016,7 @@ on your lockpick and traps skills and perception to notice things.
     
     /* Critical Failure of a Perception Check  (Start)*/
     
-    else if (is_critical(Perception_Check)) then begin
+    else if perception_critical then begin
       if (is_success(Traps_Check)) then begin
         set_local_var(LVAR_Found_Trap,1);                    // player has found the trap
         
@@ -1216,5 +1295,12 @@ and Repair can be added to this list to give more information about the door.
     end                                                          // End of Skill_Traps
   end
 #endif
-  
+
+// standard critical, used for stat checks - they can't crit on their own
+procedure roll_critical begin
+  variable rnd = random(1,20);
+  if rnd == 20 then return true;
+  return false;
+end
+
 #endif // DOORS_CONTAINERS_H

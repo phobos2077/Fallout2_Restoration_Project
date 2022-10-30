@@ -1,10 +1,10 @@
 {100}{}{Você vê um boxeador.}
 {101}{}{You see Mike "the Masticator."}
-{150}{}{His arms look like tree trunks.}
-{151}{}{Each arm looks like it could double as a tank barrel.}
-{152}{}{When he moves, it's like watching an ocean of muscle.}
-{153}{}{He's looking at your ear hungrily.}
-{154}{}{His face looks like a raw slab of meat.}
+{150}{}{Seus braços parecem toras de árvores.}
+{151}{}{Parece que cada braço poderia dar a volta em um barril de petróleo.}
+{152}{}{Parece que observo um oceano de músculos enquanto ele se move.}
+{153}{}{Ele olha para sua orelha com cara de fome.}
+{154}{}{Seu rosto parece um pedaço de carne crua.}
 {158}{}{Hurgghhh}
 {159}{}{Gunhrrhh}
 {160}{}{Mike esmaga.}

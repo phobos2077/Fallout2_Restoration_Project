@@ -101,7 +101,7 @@
 {182}{}{All miners are doing here lately is getting high. Hardly anyone's mining for gold any more. I'm
  worried that New Reno's going to own this town. I sure wish there was a way to stop this Jet addiction.}
 {183}{}{What does New Reno have to do with it?}
-{184}{}{Where does the Jet come from?}
+{184}{}{De onde vem o Jet?}
 {185}{}{I see. Let me ask you about something else.}
 {186}{}{Thanks for the information. I'll see you around, Doc. Goodbye.}
 {187}{}{Hello there. I'm Painless Doc Johnson. What can I do for you?}

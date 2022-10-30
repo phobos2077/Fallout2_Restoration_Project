@@ -1,45 +1,46 @@
 {100}{}{Você vê um garra mortal. Ele observa você com olhos estranhamente inteligentes.}
-{101}{}{You see Thearn, the Deathclaw.}
-{102}{}{Você vê um típico garra mortal. A criatura é enorme, com um corpo poderoso, dentes afiados, e longas garras.}
-{103}{}{Forgive. I no speak well. I try talk you.}
-{104}{}{You want what?}
+{101}{}{Você vê Thearn, o Deathclaw.}
+{102}{}{Você vê um típico garra mortal. A criatura é enorme, com um corpo poderoso, dentes afiados,
+ e longas garras.}
+{103}{}{Perdoar. Eu não falo bem. Eu tento falar com você.}
+{104}{}{Quer o que?}
 {105}{}{Quem é você?}
 {106}{}{O que você faz?}
-{107}{}{How smart you?}
+{107}{}{Quanto esperto voce?}
 {108}{}{Eu vou agora.}
 {109}{}{Quem é você?}
 {110}{}{O que faz aqui?}
-{111}{}{No offense, but just how smart are you?}
+{111}{}{Sem ofensa, o quanto você é inteligente?}
 {112}{}{Well, just passing the time.}
-{113}{}{I Thearn. Who you?}
+{113}{}{Sou Thearn. Quem voce?}
 {114}{}{Eu}
-{115}{}{Me leave.}
+{115}{}{Vou indo.}
 {116}{}{Tenho que ir.}
-{117}{}{It's a pleasure to meet you, Thearn. I'm}
+{117}{}{É um prazer conhecê-lo, Thearn. Eu sou}
 {118}{}{Tenho-o.}
-{119}{}{Now that I think about it, I don't give a radrat's ass who you are.}
-{120}{}{I guard hall. Safety of pack goal.}
+{119}{}{Agora que pensei bem, não dou a mínima para quem você é.}
+{120}{}{Eu protejo a sala. Deixar o pacote seguro.}
 {121}{}{Oh... Uh...}
-{122}{}{Guard? What?}
+{122}{}{Proteger? Que?}
 {123}{}{Ok. - Me ir.}
-{124}{}{Well, continue on. I'll be leaving now.}
-{125}{}{You're doing a great job!}
-{126}{}{You call yourself a guard? Ha!}
-{127}{}{What are you guarding the hall against?}
-{128}{}{Intruder. Human, deathclaw, whatever. Pack threatened, I attack.}
+{124}{}{Sim, pode continuar. Estou indo agora.}
+{125}{}{Esta fazendo um grande trabalho!}
+{126}{}{Voce se chama de guarda? Ha!}
+{127}{}{Esta protegendo a sala contra o que?}
+{128}{}{Intruso. Humano, Deathclaw, tanto faz. Se ameaçar, eu ataco.}
 {129}{}{Ah.}
 {130}{}{Eu vejo.}
-{131}{}{I'd be surprised if you're smart enough to tell a friend from a foe.}
-{132}{}{I feel sorry for any intruders who happen upon you.}
-{133}{}{Never mind. I'll be seeing you.}
-{134}{}{How I judge? Not know. Some things understand much. Some things understand little. Lot things
- understand not.}
-{135}{}{You, me, same.}
-{136}{}{Yeah, well that describes me as well.}
-{137}{}{You're doing ok.}
-{138}{}{In other words, you're a dumbass.}
-{139}{}{You pack friend. You save pack by fix machine.}
-{140}{}{Hello again. I still guard here.}
+{131}{}{Eu ficaria surpreso se você fosse inteligente o suficiente para distinguir um amigo de um inimigo.}
+{132}{}{Sinto pena de qualquer intruso que passe por você.}
+{133}{}{Deixa para lá. Nos vemos.}
+{134}{}{Como sei? Não sei. Algumas coisas entender muito. Algumas coisas entender pouco. Muitas coisas
+ não entender.}
+{135}{}{Você, eu, iguais.}
+{136}{}{Sim, bem, parece até comigo.}
+{137}{}{Você está indo bem.}
+{138}{}{Em outras palavras, você é um jumento.}
+{139}{}{Você amigo do bando. Você salva o bando por consertar maquina.}
+{140}{}{Olá de novo. Eu ainda vigio aqui.}
 {141}{}{}
-{142}{}{Arrrrrrrrrgggh! Die!}
+{142}{}{Arrrrrrrrrgggh! Morre!}
 {143}{}{.}

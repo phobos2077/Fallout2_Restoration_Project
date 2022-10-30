@@ -56,7 +56,7 @@
 {152}{}{[Spielername]}
 {153}{}{Fische?}
 {154}{}{Schwertfisch.}
-{155}{}{Arroy - Warte eine Minute! Da  waren wir vorhin schon mal. Du bist ein verdammter Sippenangehöriger! Wachen!}
+{155}{}{Arroy - Warte eine Minute! Da waren wir vorhin schon mal. Du bist ein verdammter Sippenangehöriger! Wachen!}
 {156}{}{Hör zu, Scherzkeks, mach keinen Ärger, sonst findest Du Deinen aufsässigen Hintern im Report wieder. Beantworte einfach die Frage.}
 {157}{}{Arroyo.}
 {158}{}{42.}

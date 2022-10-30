@@ -32,7 +32,8 @@
 {705}{}{Porque estou numa missão sagrada para encontrar um Kit de Criação do Jardim do Éden. Você vê, toda a minha aldeia perecerá se
   Não encontro esse dispositivo a tempo. Seu povo, por outro lado, parece viver uma vida pacífica sem muita necessidade de
   muito equipamento de cura. Não estou pedindo muito, mesmo a menor quantidade que você poderia me dar me ajudaria muito.}
-{706}{}{[Ele vê através de suas palavras por um momento, então concorda com a cabeça.] Tudo bem, eu vou dar-lhe alguns de nossos excessos de suprimentos médicos. Parece que você vai precisar. Aqui. [Ele entrega-los para você.] Boa sorte, vagabundo.}
+{706}{}{[Ele vê através de suas palavras por um momento, então concorda com a cabeça.] Tudo bem, eu vou dar-lhe alguns de nossos
+ excessos de suprimentos médicos. Parece que você vai precisar. Aqui. [Ele entrega-los para você.] Boa sorte, vagabundo.}
 {707}{}{Obrigado, Jack. Você é um verdadeiro salvador dos resíduos. Tchau.}
 {708}{}{Então talvez você devesse aprender a ser mais cuidadoso. Desculpe, não vou apenas dar os suprimentos médicos da Abadia.}
 {709}{}{Bem. ADEUS.}

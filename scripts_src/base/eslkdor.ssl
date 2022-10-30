@@ -30,7 +30,4 @@
 /* Penalties for Lock difficulty based on whether or not you are using lockpicks. */
 #define Lock_Bonus                      (-50)
 
-/* Experience Points for Skills */
-#define Lockpick_Exp                    EXP_LOCKPICK_NEG_30
-
 #include "../headers/doors.h"

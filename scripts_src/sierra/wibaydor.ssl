@@ -33,39 +33,15 @@
 /* Penalties for Lock difficulty based on whether or not you are using lockpicks. */
 #define Lock_Bonus                      (-80)
 
-/* Experience Points for Skills */
-#define Lockpick_Exp                    EXP_LOCKPICK_NEG_60
-
-#define PARTY_CLOSE_DIST                (5)
-/* How far do party members have to be from the door before it closes */
-
 #define CHECK_REPAIR                    (2)
 import variable repair_bot1;
 import variable repair_bot2;
 import variable repair_bot3;
-procedure Check_Repair(variable Cur_Var);
 
 #define custom_timed_event_p_proc
 #define custom_map_enter_p_proc
 #include "../headers/doors.h"
 
-/***************************************************************************
-   This procedure will check against the roll_vs_lockpick to see if the
-   source_object will unlock the door and display the appropriate messages
-***************************************************************************/
-
-procedure Check_Repair(variable Cur_Var) begin
-   if ((map_var(Cur_Var) > 0)/* and (self_tile == 20118)*/) then begin //edit by killap - was != 0 and did a tile check
-      obj_unlock(self_obj);
-      set_local_var(LVAR_Locked, STATE_INACTIVE);
-      ndebug("unlocking door for repair bot");
-   end else begin
-      if (local_var(LVAR_Gave_Locks_XP) == 0) then begin
-         obj_lock(self_obj);
-         set_local_var(LVAR_Locked, STATE_ACTIVE);
-      end
-   end
-end
 
 
 procedure timed_event_p_proc begin

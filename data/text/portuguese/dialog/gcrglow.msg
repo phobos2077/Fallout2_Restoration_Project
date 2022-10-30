@@ -25,7 +25,7 @@
 {143}{}{Obrigado por sua ajuda.}
 {144}{}{Talvez aquelas pessoas de Vault City não sejam tão ruins.}
 {150}{}{Não me lembro quando o reator funcionou tão bem.}
-{151}{}{Está frio demais hoje por por aqui.}
+{151}{}{Está frio demais hoje por aqui.}
 {152}{}{Brrrr, estou congelando.}
 {153}{}{Acho que estou com queimaduras de frio ou algo assim.}
 {154}{}{Parece frio para você?}

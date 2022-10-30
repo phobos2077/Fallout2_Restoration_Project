@@ -299,7 +299,7 @@
 // Broken Hills Information
 #define GVAR_BROKEN_HILLS_FRAUD              (147)
 #define GVAR_BH_CHAD                         (300)
-#define GVAR_BH_FTM                          (301)
+#define GVAR_BH_FTM                          (301) // Fight The Mutants? RP quest, mostly cut. Var used to tell Marcus about Dr. Henry's serum.
 #define GVAR_BH_MINE                         (302)
 #define GVAR_BH_JAIL                         (303)
 #define GVAR_BH_CONSPIRACY                   (304)
@@ -1340,13 +1340,8 @@
 #define CHAD_KILLED                         (8)
 #define CHAD_FLED                           (9)
 
-#define FTM_QUESTIONED                      (0)
-#define FTM_FRIENDLY                        (1)
-#define FTM_HATES                           (2)
 #define FTM_ENLISTED                        (3)
-#define FTM_ACCOMPANIED                     (4)
 #define FTM_EXPOSED                         (5)
-#define FTM_SUCCESSFUL                      (6)
 
 #define MINE_KNOWN                          (1)
 #define MINE_OFFERED                        (2)

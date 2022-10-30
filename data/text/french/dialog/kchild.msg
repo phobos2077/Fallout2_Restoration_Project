@@ -32,7 +32,7 @@
 {180}{}{Tu as vu mon copain invisible ?}
 {181}{}{Quand j'aurai ton âge, je veux voyager dans le monde entier.}
 {182}{}{Tu es un gentil tribal, pas comme les autres.}
-{183}{}{Je parie que tu prends des bains.}
+{183}{}{Je parie que ça vous arrive de vous laver.}
 {184}{}{Tu es plus intelligent que Torr.}
 {185}{}{Cette épée que tu as, est-elle vraiment tranchante ?}
 {186}{}{Quand je serai grand, je veux être comme toi.}
@@ -45,7 +45,7 @@
 {193}{}{Qu'est-ce que tu portes ?}
 {194}{}{Je veux faire un tour de Brahmine !}
 {195}{}{Est-ce que tu viens de loin ?}
-{196}{}{Youpi ! Allez, hue !}
+{196}{}{Weeee! Ha ha ha!}
 {197}{}{Ne pars pas !}
 {198}{}{Tu as de la nourriture ?}
 {199}{}{Est-ce que je te dérange ?}
@@ -72,7 +72,7 @@
 {220}{}{Je t'aime bien. }
 {221}{}{Est-ce que tu m'aimes bien ?}
 {222}{}{Tu es marié ?}
-{223}{}{Un, deux, trois ! Youpi !}
+{223}{}{Un, deux, trois, Hiiii !}
 {1000}{}{La doyenne}
 {1001}{}{Fondatrice}
 {1002}{}{Habitant de l'Abri }

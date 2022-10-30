@@ -15,7 +15,7 @@
 {305}{}{Nichts. Tschüss.}
 {306}{}{häh?}
 {307}{}{Hm, Ich glaub, ich muss jetzt los. Tschüss.}
-{310}{}{Ich würd dir gern helfen, aber ich wandere jetzt schon so lang  hier rum, dass ich nicht mehr genau weiß, wo was ist.}
+{310}{}{Ich würd dir gern helfen, aber ich wandere jetzt schon so lang hier rum, dass ich nicht mehr genau weiß, wo was ist.}
 {311}{}{Und warum läufst du hier so rum?}
 {312}{}{Was machst du hier draußen?}
 {313}{}{Na denn, viel Glück.}

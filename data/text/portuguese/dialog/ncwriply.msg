@@ -135,7 +135,8 @@
 {474}{}{Humm, tudo bem. [Dê a ele uma pistola descarregada.]}
 {475}{}{Humm, tudo bem. [Dê a ele uma pistola carregada.]}
 {476}{}{Esqueça. Vá brincar com seus amigos.}
-{485}{}{Sim, insetos de metal! Vimos um quando estávamos no deserto! Era tão grande... (respira fundo.) ... tão grande quanto uma CASA! Não havia PESSOAS de metal nele.}
+{485}{}{Sim, insetos de metal! Vimos um quando estávamos no deserto! Era tão grande... (respira fundo.) ... tão grande quanto
+ uma CASA! Não havia PESSOAS de metal nele.}
 {486}{}{Really! Wow! Where did you see it?}
 {487}{}{You're lying!}
 {488}{}{I don't believe you. You're lying.}

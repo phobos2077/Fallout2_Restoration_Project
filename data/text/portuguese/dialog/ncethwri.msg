@@ -14,7 +14,7 @@
 {211}{}{(Sra. Wright pula.) Oh, Deus! Você me deu um susto! (Olha para você.) Bem, olá de novo!}
 {212}{}{Quem, quem?}
 {213}{}{Olá, olá!}
-{214}{}{Você não é mãe... Mãe? Mmmmm...?! Mãe! Eu vou procurar pela  mamãe.}
+{214}{}{Você não é mãe... Mãe? Mmmmm...?! Mãe! Eu vou procurar pela mamãe.}
 {215}{}{Quem é você?}
 {216}{}{Percebi você cantarolando um pouco e pensei em parar e falar com a senhora um momento. Que belo dia hoje, não é?}
 {217}{}{Desculpe. Achei que você fosse outra pessoa.}

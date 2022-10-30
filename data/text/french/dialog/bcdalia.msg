@@ -54,6 +54,6 @@
 {153}{}{Merci, moi pas oublier ça, Dalia.}
 {154}{}{Merci, je ne l'oublierai pas, Dalia.}
 {155}{}{Alors va au diable et lâche-moi !}
-{156}{}{C'est terminé !}
+{156}{}{C'est terminé.}
 {157}{}{Alors va au diable et lâche-moi !}
-{158}{}{C'est terminé !}
+{158}{}{C'est terminé.}

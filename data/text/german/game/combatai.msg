@@ -1050,13 +1050,13 @@
 {2563}{}{Echt erbärmlich...}
 {2564}{}{Zu langsam!}
 {2565}{}{Verlierer!}
-{2600}{}{ Flieh vor dem Teufel!}
+{2600}{}{Flieh vor dem Teufel!}
 {2601}{}{Die Geister gebieten mir, mich selbst zu retten.}
 {2602}{}{Unser Feind hat mächtige Magie eingesetzt--Beeilt euch! Holt den Schamanen!}
 {2603}{}{Der Geist des Finsteren hat große Macht über ihn. Der Tod wandelt auf der Erde!}
 {2604}{}{Der Dunkle Gott ist hier!}
 {2605}{}{Der Dunkle Gott will uns strafen. Lauft! Meine Seele flieht und ich muss ihr folgen!}
-{2606}{}{ Aiiieeeee!!}
+{2606}{}{Aiiieeeee!!}
 {2620}{}{Ahne, führe meinen Arm!}
 {2621}{}{Deine Stärke wird die meine sein.}
 {2622}{}{Mein Ruhm wird groß sein.}

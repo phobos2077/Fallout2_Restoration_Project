@@ -26,8 +26,9 @@ Tem apenas informações médicas relatando anatomia, doenças conhecidas, trata
 Se você possui conhecimento de medicina, não terá problemas para o entendimento.}
 {122}{}{Continuar a pesquisa nos arquivos do computador.}
 {123}{}{Deslogar do terminal.}
-{124}{}{Você pesquisa na base de dados e nota as incriveis informações contidas nos arquivos.
-As recentes pesquisas conduzidas em Vault City são fascinantes, e a técnologia médica está alem de qualquer coisa que você já viu.}
+{124}{}{Você pesquisa na base de dados e nota as incríveis informações contidas nos arquivos. As recentes
+ pesquisas conduzidas em Vault City são fascinantes, e a tecnologia médica está além de qualquer coisa que
+ você já viu.}
 {125}{}{Você pesquisa no banco de dados outra vez, porem não descobre nada novo. Os esquemas mostrados são na maioria informações inúteis.
 É possível que você tenha perdido algo, porem você acha que é pouco improvável.}
 {126}{}{Você pesquisa na data base denovo... mais uma vez... porem nada novo.
@@ -54,8 +55,9 @@ Agora deslogue deste terminal e vá brincar lá fora.}
 {144}{}{Você passa uma hora estudando os arquivos. Você se aprofunda no banco de dados e localiza uma série de velhos documentos
 contendo esquemas para uma espécia de "implante de combate."}
 {145}{}{Estudar a informação do implante.}
-{146}{}{O esquema detalha uma operação para a implantação de placas de impacto e membranas de dissipação térmica em um esqueleto humando.
-Concedendo-lhe grande resistencia a danos físicos e calor. Parece um procedimento complicado.}
+{146}{}{O esquema detalha uma operação para a implantação de placas de impacto e membranas de dissipação
+ térmica em um esqueleto humano. Concedendo-lhe grande resistência a danos físicos e calor.
+ Parece um procedimento complicado.}
 {147}{}{Faça uma anotação do mesmo e pesquise no banco de dados para mais informações.}
 {148}{}{Gravar as informações e em seguida deslogar do terminal.}
 {149}{}{Você voltou para o menu inicial. Uma série de arquivos e programas de pesquisa são listados na tela do terminal.}

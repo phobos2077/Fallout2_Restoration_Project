@@ -1,4 +1,4 @@
-{100}{}{Usted ve un Hubologist de la guardia.}
+{100}{}{Ves a un guardia Hubologista.}
 {101}{}{Usted ve un individuo armado con una cruel mirada en sus ojos.}
 {110}{}{Ves a un Hubologista.}
 {111}{}{Él está mirando a los distintos equipos de computación antes de él.}

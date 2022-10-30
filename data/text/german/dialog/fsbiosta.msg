@@ -7,7 +7,7 @@
 {106}{}{INTLVR-Dnky-Pnch-98790}
 {107}{}{::hack dich in den Computer::}
 {108}{}{Abmelden}
-{109}{}{Daten für folgende Forschungsprojekte gefunden:               - Botanik - Genetik - Xenogenese -}
+{109}{}{Daten für folgende Forschungsprojekte gefunden: - Botanik - Genetik - Xenogenese -}
 {110}{}{Botanikprogramm.}
 {111}{}{Genetikprogramm}
 {112}{}{Xeno-Programm.}

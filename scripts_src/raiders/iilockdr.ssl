@@ -34,7 +34,4 @@
 #define Lockpick_Bonus                  (Lock_Bonus+10) // extra strong safe
 #define Exd_Lockpick_Bonus              (Lock_Bonus+20)
 
-#define PARTY_CLOSE_DIST                (5)
-/* How far do party members have to be from the door before it closes */
-
 #include "../headers/doors.h"

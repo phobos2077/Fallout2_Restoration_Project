@@ -37,9 +37,6 @@
 #define DOOR_STRENGTH                   (3)
 #define Crowbar_Strain                  (3)
 
-/* Experience Points for Skills */
-#define Lockpick_Exp                    EXP_LOCKPICK_NEG_90
-
 #define LVAR_Used_Key                   (7)
 
 #define custom_use_obj_on_p_proc

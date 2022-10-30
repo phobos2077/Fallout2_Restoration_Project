@@ -29,7 +29,7 @@
 {126}{}{Werd ich tun.}
 {127}{}{Ich kann nichts versprechen.}
 {128}{}{Ich habe eine bei mir.}
-{129}{}{Ich erstelle Verbindungen und Geräte für den Kaiser und den kaiserlichen Berater, Ken Lee. Im Moment arbeite ich an Benzinderivaten und -polymeren, die verstärkten  Belastungen standhalten. Das ist für dich natürlich nicht so interessant, weil es zum großen Teil Theorie ist.}
+{129}{}{Ich erstelle Verbindungen und Geräte für den Kaiser und den kaiserlichen Berater, Ken Lee. Im Moment arbeite ich an Benzinderivaten und -polymeren, die verstärkten Belastungen standhalten. Das ist für dich natürlich nicht so interessant, weil es zum großen Teil Theorie ist.}
 {130}{}{Im Gegenteil, es ist sehr interessant. Ich brauche nämlich etwas Benzin für den Poseidon-Öltanker.}
 {131}{}{Das wäre sicher von großem Interesse für die Hubologen. Sie brauchen Benzin.}
 {132}{}{Im Augenblick noch nicht. Aber ich komme später noch mal.}

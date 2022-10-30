@@ -183,7 +183,7 @@
 {653}{}{Das ist vielleicht nicht gerade die beste Zeit, das zu diskutieren. Verschieben wir's auf später.}
 {660}{}{Du elender Hundesohn...}
 {661}{}{Du elende Schlampe...}
-{662}{}{du hast dir gerade SELBST ein Stückchen Land in Golgotha verdient. WENN man alle deine Teile zusammensuchen kann. (Beginnt zu brüllen.) Jungs! Kommt rein! Und bringt eure Messer mit!}
+{662}{}{ du hast dir gerade SELBST ein Stückchen Land in Golgotha verdient. WENN man alle deine Teile zusammensuchen kann. (Beginnt zu brüllen.) Jungs! Kommt rein! Und bringt eure Messer mit!}
 {663}{}{Moment! Können wir nicht darüber reden?}
 {664}{}{Du brauchst schon mehr als ein paar Messer, um mich umzulegen...}
 {665}{}{Verzeihung. Ich bin mit dem Ausgang verabredet.}

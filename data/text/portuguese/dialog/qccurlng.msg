@@ -59,7 +59,7 @@
 {158}{}{Eu não sei o que isso significa exatamente, mas e daí se somos um pouco diferentes?}
 {159}{}{Bem, o seu DNA é mais do que um *pouco* diferente. É bem diferente. Se eu não estivesse com tanta pressa por causa do Projeto gostaria muito de fazer testes adicionais no seu povo, outros além do estudo toxicológico de F.E.V, é claro. É realmente um trabalho fascinante.}
 {160}{}{O que você quer saber?}
-{161}{}{Como o  nosso DNA é diferente?}
+{161}{}{Como o nosso DNA é diferente?}
 {162}{}{Você está realizando testes na minha tribo?}
 {163}{}{Que desgraça é essa de "o Projeto?"}
 {164}{}{Eu já ouvi o suficiente. Você precisa ser eliminado como se faz com um gecko raivoso. Adeus, panaca.}
@@ -146,7 +146,7 @@
 {245}{}{Já era hora de você dar por si, velhote. Agora vamos logo com isso.}
 {246}{}{When the stars threw down their spears,}
 {247}{}{                      E regou o céu com suas lágrimas,}
-{248}{}{                            Ele sorriu ao ver seu trabalho?}
+{248}{}{                            Ele esboçou um sorriso ao ver seu trabalho?}
 {249}{}{                                  Aquele que fez o cordeiro, te fez?}
 {250}{}{Hein?}
 {251}{}{Oh, foi só algo que eu lembrei de um poeta morto há muito tempo. Estava pensando se ainda há lugar para aqueles que trabalharam para um fim obscuro por tanto tempo. Nosso tempo acabou, o seu apenas começou. Vá logo!}

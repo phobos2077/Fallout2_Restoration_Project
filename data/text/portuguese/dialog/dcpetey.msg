@@ -1,4 +1,4 @@
-{100}{}{Você vê um viciado em drogas.}
+{100}{}{Você vê um drogado.}
 {101}{}{Você vê Petey.}
 {150}{}{Este aqui é um pobre viciado em drogas.}
 {151}{}{Petey aqui parece que ele poderia usar alguma ajuda.}

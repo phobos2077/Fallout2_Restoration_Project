@@ -28,7 +28,8 @@
  caminhão de Cola do sul. Você deveria ter visto, garoto! Tampinhas por todo lugar!}
 {125}{}{Aaahhh. Divertiiido!}
 {126}{}{Caramba! Imagine alguém correndo com isso no deserto! Ele teria ficado rico!}
-{127}{}{Pode apostar. Arrgh! Ow! Eu odeio estragar nossa conversa fantástica, mas se você puder me ajudar a sair de baixo desse para-choque, eu agradeceria.}
+{127}{}{Pode apostar. Arrgh! Ow! Eu odeio estragar nossa conversa fantástica, mas se você puder me ajudar a sair de baixo desse para-choque,
+ eu agradeceria.}
 {128}{}{Tem certeza?}
 {129}{}{Tem certeza? Acho que você não deveria se mover.}
 {130}{}{Ah, não se preocupe com isso. Uma hora tudo volta ao lugar.}

@@ -63,8 +63,7 @@
 {301}{}{União da Tempe --?}
 {302}{}{Oh. eu não --}
 {303}{}{Quebrar o --?}
-{305}{}{União da Temprança, Sinhoraaa. Wright... a mesma pessoa 
-tentando limpar New Reeno. Fez um bom trabalho comigo.}
+{305}{}{União da Temprança, Sinhoraaa. Wright... a mesma pessoa tentando limpar New Reeno. Fez um bom trabalho comigo.}
 {306}{}{Claro que sim. Eu tenho algumas outras perguntas...}
 {315}{}{Preguntas? Não posso falar que sei muitas cosass. Mas podi falr.}
 {316}{}{Você já ouviu falar do Vault 13?}
@@ -142,7 +141,8 @@ tentando limpar New Reeno. Fez um bom trabalho comigo.}
  estaçço de trem, que vende o tipo deagua benta que eu preciso.}
 {541}{}{OK, eu vou pegar um pouco. Volto logo.}
 {542}{}{OK, eu vou pegar algum. Mas vou precisar de algumas tampas pra comprar.}
-{550}{}{Claaro, caro... tampas, umas tampis... onde guardo as tampas... (Seus olhos se voltam para a caixa de doações ao lado do altar.) Ah! Nem sei por que não pensei nisso antes... ispera um minuto...}
+{550}{}{Claaro, caro... tampas, umas tampis... onde guardo as tampas... (Seus olhos se voltam para a caixa de doações ao lado do altar.) Ah!
+ Nem sei por que não pensei nisso antes... ispera um minuto...}
 {551}{}{Espera pacientemente que ele faça a retirada da caixa de doações.}
 {552}{}{Uh, deixa pra lá, padre. Essa é por minha conta.}
 {560}{}{(Padre Tully olha para a... agora... garrafa vazia em suas mãos.) Diga, não quero me meter, amigo: você teria outra garrafi
@@ -232,7 +232,7 @@ tentando limpar New Reeno. Fez um bom trabalho comigo.}
 {730}{}{Os Mordino? (Levanta três dedos.) São dois deles. (Mantem a mão para o alto.) Grande Jesuus... (Agora a mão para baixo.) ...e Pequano
  Jesus. O Pai e o Filho. Eles controla as drogas e a muierada em Reno.}
 {731}{}{Me diga sobre o Grande Jesus.}
-{732}{}{Me diga sobre o Pequeno Jesus.}
+{732}{}{Me diga sobre o Lil' Jesus.}
 {733}{}{Então eles são a fonte de drogas e controlam a maioria das prostitutas em New Reno?}
 {740}{}{Jesuis? Ele é um muitxo ruim... (Toma um gole, esfrega nas bochechas.) Negocia com escravo, jet e umas puta. A
  única pessoa pior que é seu fio imundo.}
@@ -244,7 +244,7 @@ tentando limpar New Reeno. Fez um bom trabalho comigo.}
  para todo Reno se ele assumissse o c-comando. Não consiguiria aguentar, droga, puta... todos caem.}
 {752}{}{Os Mordinos são a fonte das drogas e a da maioria das putas de New Reno?}
 {754}{}{Assim como você em alguns segundos. Bem, obrigado por falar comigo.}
-{760}{}{(Tully te mira fixamente.)  }
+{760}{}{(Tully te mira fixamente.) }
 {761}{}{Siiim... (Sorri, lambe os lábios.) ...putass... (Começa a acariciar o gargalo da garrafa.)}
 {762}{}{Uh, padre? E sobre as drogas?}
 {763}{}{Acho melhor eu ir. Obrigado por falar comigo, padre.}
@@ -285,7 +285,8 @@ Só os Mordinos sabem onde ficam os estabulos.}
 {852}{}{Você sabe onde Richard conseguiu o jet que o matou?}
 {853}{}{Eu tenho mais algumas perguntas...}
 {854}{}{Entendo. Obrigado por falar comigo, padre.}
-{860}{}{Ele proderia ter conseguido com qualquer pessoa em New Reno! Tem uma farmacia atravesssand-do a rua comandada por um traficante, e se ele num tive vendendo, so pergunta pra qualque que tive na rua! Maldito jet!}
+{860}{}{Ele proderia ter conseguido com qualquer pessoa em New Reno! Tem uma farmacia atravesssand-do a rua comandada por
+ um traficante, e se ele num tive vendendo, so pergunta pra qualque que tive na rua! Maldito jet!}
 {862}{}{A farmácia do outro lado da rua? Vou ver. Obrigado por falar comigo, padre.}
 {957}{}{Tudo bem, es-escuta...}
 {958}{}{::Toma uma trago::}

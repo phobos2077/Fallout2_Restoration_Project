@@ -330,7 +330,7 @@
 {16901}{}{Uma coluna de suporte}
 {17000}{}{Coluna}
 {17001}{}{Uma coluna de suporte}
-{17100}{}{Computador  de aceso.}
+{17100}{}{Computador de aceso.}
 {17101}{}{Este computador controla a porta de entrada para o Refúgio. Você precisa digitar um código de acesso específico para o computador trabalhar.}
 {17200}{}{Cartaz de Casino}
 {17201}{}{Parece que é uma propaganda para o Casino de Gizmo.}
@@ -1047,7 +1047,7 @@
 {55000}{}{Mesa de Roleta}
 {55001}{}{Esta é uma mesa de jogo.}
 {55100}{}{Barril}
-{55101}{}{Este barril de  metal vazio tem o símbolo do trevo nuclear pintado com tinta amarela brilhante.}
+{55101}{}{Este barril de metal vazio tem o símbolo do trevo nuclear pintado com tinta amarela brilhante.}
 {55200}{}{Barril}
 {55201}{}{Este barril tem uma substância verde brilhante. O símbolo do clube nuclear te dá uma pista da substância que pode ser.}
 {55300}{}{Computador}
@@ -1055,7 +1055,7 @@
 {55400}{}{Computador}
 {55401}{}{Um computador muito moderno.}
 {55500}{}{Tanque de suspensão}
-{55501}{}{Algum tipo de aparelho médico ou experimental, que parece conter um um corpo humano ou um corpo bem maior.}
+{55501}{}{Algum tipo de aparelho médico ou experimental, que parece conter um corpo humano ou um corpo bem maior.}
 {55600}{}{Tanque de suspensão quebrado}
 {55601}{}{Um pedaço de material quebrado. É irreparável.}
 {55700}{}{Mainframe}
@@ -1129,11 +1129,11 @@
 {59200}{}{Mesa}
 {59201}{}{Esta mesa de metal está em boas condições. Ele tem um dreno no centro.}
 {59300}{}{Mesa}
-{59301}{}{A mesa de metal  esta coberta por algum tipo de biomassa.}
+{59301}{}{A mesa de metal esta coberta por algum tipo de biomassa.}
 {59400}{}{Mesa}
-{59401}{}{A mesa de metal  esta coberta por algum tipo de biomassa.}
+{59401}{}{A mesa de metal esta coberta por algum tipo de biomassa.}
 {59500}{}{Mesa}
-{59501}{}{A mesa de metal  esta coberta por algum tipo de biomassa.}
+{59501}{}{A mesa de metal esta coberta por algum tipo de biomassa.}
 {59600}{}{Quadro de avisos}
 {59601}{}{Há ofertas de emprego grampeados na placa. Parece muito usado.}
 {59700}{}{Posto de Guarda}
@@ -2082,17 +2082,17 @@
 {121400}{}{Parede da caverna}
 {121500}{}{Parede da caverna}
 {121600}{}{Estaca}
-{121601}{}{Esta  estaca parece ter uma pessoa pregada no topo!}
+{121601}{}{Esta estaca parece ter uma pessoa pregada no topo!}
 {121700}{}{Estaca}
-{121701}{}{Esta  estaca parece ter uma pessoa pregada no topo!}
+{121701}{}{Esta estaca parece ter uma pessoa pregada no topo!}
 {121800}{}{Estaca}
-{121801}{}{Esta  estaca parece ter uma pessoa pregada no topo!}
+{121801}{}{Esta estaca parece ter uma pessoa pregada no topo!}
 {121900}{}{Estaca}
-{121901}{}{Esta  estaca parece ter uma pessoa pregada no topo!}
+{121901}{}{Esta estaca parece ter uma pessoa pregada no topo!}
 {122000}{}{Estaca}
-{122001}{}{Esta  estaca parece ter uma pessoa pregada no topo!}
+{122001}{}{Esta estaca parece ter uma pessoa pregada no topo!}
 {122100}{}{Estaca}
-{122101}{}{Esta  estaca parece ter uma pessoa pregada no topo!}
+{122101}{}{Esta estaca parece ter uma pessoa pregada no topo!}
 {122200}{}{Estaca}
 {122201}{}{Esta estaca parece ter um crânio humano colocado no topo.}
 {122300}{}{Estaca}
@@ -2109,7 +2109,7 @@
 {122801}{}{A imagem nesta cartaz parece estranhamente como você!}
 {122900}{}{Piso}
 {123000}{}{Robobrain desativado.}
-{123001}{}{Um corpo cibernéticas incompleto.  Parece faltar várias partes.}
+{123001}{}{Um corpo cibernéticas incompleto. Parece faltar várias partes.}
 {123100}{}{Canhão Howitzer}
 {123101}{}{Este estranho canhão parece uma relíquia dos dias antes da guerra. Você queria saber como ele veio parar aqui.}
 {123200}{}{Cartaz}
@@ -3179,7 +3179,7 @@
 {210201}{}{Este grande porta é o elo entre o refúgio e o mundo exterior. Foi arrasada por uma tremenda explosão.}
 {210300}{}{Entrada da caverna}
 {210301}{}{A caverna parece se expandir para uma rede maior de cavernas.}
-{210400}{}{Computador  de aceso.}
+{210400}{}{Computador de aceso.}
 {210401}{}{Este computador controla a porta de entrada para o Refúgio. Você precisa digitar um código de acesso específico para o computador trabalhar.}
 {210500}{}{Barco enferrujado}
 {210501}{}{Este barco parece não ter condições de navegar.}

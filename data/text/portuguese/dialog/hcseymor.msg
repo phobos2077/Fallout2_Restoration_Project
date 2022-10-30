@@ -7,12 +7,10 @@
 {106}{}{Com licença, mas é esta planta que está falando?}
 {107}{}{Você está ligado de alguma forma ao cientista?}
 {108}{}{Adeus.}
-{109}{}{Sim, eu falo. E até melhor que algumas pessoas. Eu sorriria para você agora, mas não tenho uma boca. [risos] 
- Diga, você poderia me fazer um grande favor?}
+{109}{}{Sim, eu falo. E até melhor que algumas pessoas. Eu sorriria para você agora, mas não tenho uma boca. [risos] Diga, você poderia me fazer um grande favor?}
 {110}{}{Sim.}
 {111}{}{Nuh.}
-{112}{}{Procuro por um lugar melhor. Aqui é legal e tal, mas sinceramente, essas plantas não são de conversar. 
- Eu estava pensando ali, perto do edifício com todos os ghouls... Será que você me replanta??}
+{112}{}{Procuro por um lugar melhor. Aqui é legal e tal, mas sinceramente, essas plantas não são de conversar. Eu estava pensando ali, perto do edifício com todos os ghouls... Será que você me replanta??}
 {113}{}{Simmm!}
 {114}{}{Não!}
 {115}{}{Com certeza.}
@@ -22,19 +20,15 @@
 {119}{}{Hã-hã.}
 {120}{}{Certo. Bem... vou te esperar aqui. Como se eu tivesse outra escolha. Até logo!}
 {121}{}{Tchau!}
-{122}{}{Se você mudar de idéia sabe onde me achar. Estarei plantado aqui. Ha ha ha! É só uma piada de planta. 
-Oh, não vou mais tomar seu tempo. Até logo!}
+{122}{}{Se você mudar de idéia sabe onde me achar. Estarei plantado aqui. Ha ha ha! É só uma piada de planta. Oh, não vou mais tomar seu tempo. Até logo!}
 {123}{}{Adeus.}
-{124}{}{Bem dito, bem dito! Que maravilha ver um homo sapiens usar seu ao máxima a capacidade de seu cérebro. 
-Colega, Meu caro amigo, você estaria disposto a me fazer um favor?}
+{124}{}{Bem dito, bem dito! Que maravilha ver um homo sapiens usar seu ao máxima a capacidade de seu cérebro. Colega, Meu caro amigo, você estaria disposto a me fazer um favor?}
 {125}{}{Sim.}
 {126}{}{Não!}
-{127}{}{Porque, sim! É, sim! Muito astuto, amigo, muito astuto. Eu posso ver que você não germinou ontem! 
- Meu companheiro de haste fina, você seria tão amável de me fazer um favor?}
+{127}{}{Porque, sim! É, sim! Muito astuto, amigo, muito astuto. Eu posso ver que você não germinou ontem! Meu companheiro de haste fina, você seria tão amável de me fazer um favor?}
 {128}{}{Com certeza.}
 {129}{}{Acho que não.}
-{130}{}{Maravilha! Estou muitíssimo satisfeito. Encontre logo uma pá e volte. Quando terminar, 
- talvez eu possa lhe contar um segredo. Colega, espero que você continue a florir.}
+{130}{}{Maravilha! Estou muitíssimo satisfeito. Encontre logo uma pá e volte. Quando terminar, talvez eu possa lhe contar um segredo. Colega, espero que você continue a florir.}
 {131}{}{Hum, certo. Até logo.}
 {132}{}{Eu mudei de ideia.}
 {133}{}{Ah sim, o Professor. Ele me cultivou desde que eu era uma semente... Mas desde cedo percebi que se mostrasse toda minha inteligência,
@@ -47,12 +41,10 @@ Colega, Meu caro amigo, você estaria disposto a me fazer um favor?}
  se é que você me entende... Mas sei como derrotá-lo. Se você me fizer um favor, te direi como.}
 {138}{}{Sério? Como?}
 {139}{}{Isso é fascinante. Uma planta que joga xadrez. Que doidoo. Adeus.}
-{140}{}{Colega, se você vai me replantar lá perto da casa dos ghouls, eu vou ficar muito feliz  e posso 
- compartilhar meu profundo conhecimento de xadrez.}
+{140}{}{Colega, se você vai me replantar lá perto da casa dos ghouls, eu vou ficar muito feliz e posso compartilhar meu profundo conhecimento de xadrez.}
 {141}{}{Estamos de acordo.}
 {142}{}{Não, obrigado. Cuidarei do escorpião por minha conta.}
-{143}{}{Ah, colega, você retornou. Este é um lugar muito agradável. A sombra é perfeita, e a companhia é simplesmente deslumbrante. 
-E o Typhon, que brincalhão! Ele realmente faz minha seiva intelectual fluir!}
+{143}{}{Ah, colega, você retornou. Este é um lugar muito agradável. A sombra é perfeita, e a companhia é simplesmente deslumbrante. E o Typhon, que brincalhão! Ele realmente faz minha seiva intelectual fluir!}
 {144}{}{Xadrez?}
 {145}{}{O que você havia mencionado sobre xadrez?}
 {146}{}{Adeus.}

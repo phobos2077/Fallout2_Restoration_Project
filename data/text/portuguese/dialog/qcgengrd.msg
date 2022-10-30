@@ -14,7 +14,7 @@
 {113}{}{Positivo.}
 {114}{}{Isso não é uma simulação, repito, não é uma simulação.}
 {115}{}{Iniciar procedimentos de contenção.}
-{116}{}{Vá para uma uma área segura. Agora!}
+{116}{}{Vá para uma área segura. Agora!}
 {117}{}{Nós temos uma situação perigosa aqui.}
 {118}{}{É melho você se proteger.}
 {119}{}{Você não ouviu o alarme?}

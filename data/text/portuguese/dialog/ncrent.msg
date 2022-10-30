@@ -1,1 +1,1 @@
-{100}{}{You have entered the outskirts of the walled settlement of New California Republic.}
+{100}{}{Você entrou nos arredores do assentamento murado da República da Nova Califórnia.}

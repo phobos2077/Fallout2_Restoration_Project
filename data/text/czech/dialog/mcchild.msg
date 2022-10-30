@@ -18,7 +18,7 @@
 {163}{}{Drž se dál ode mě!}
 {164}{}{Jéééééééé!}
 {165}{}{Nenávidím tě!}
-{166}{}{Mamíí, mamíí, maminkoo!}
+{166}{}{Mamí, mamí, mamí!}
 {167}{}{Nech mě na pokoji!}
 {168}{}{Smrdíš!}
 {170}{}{Nazdárek.}
@@ -35,7 +35,7 @@
 {181}{}{Chci procestovat celý svět, až budu stejně starej jako ty.}
 {182}{}{Ty jsi hodný divoch, ne jako ti ostatní.}
 {183}{}{Vsadím se, že se myjete.}
-{184}{}{Jseš chytřejší než Torr.}
+{184}{}{Mám lesklej kamínek.}
 {185}{}{Je ten nůž opravdu ostrej?}
 {186}{}{Až vyrostu, chci být jako ty.}
 {187}{}{Můj pes má rád sušený maso.}
@@ -47,7 +47,7 @@
 {193}{}{Co to máš na sobě?}
 {194}{}{Chci se povozit na brahmíně!}
 {195}{}{Jseš z daleka?}
-{196}{}{Jéééé! Hahaha!}
+{196}{}{Weeee! Ha ha ha!}
 {197}{}{Neodcházej!}
 {198}{}{Nemáš nějaký jídlo?}
 {199}{}{Neotravuju tě?}

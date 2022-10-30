@@ -35,7 +35,7 @@
 {181}{}{Ha olyan idős leszek, mint te, körbe fogom utazni a világot.}
 {182}{}{Te rendes törzsbéli vagy, nem úgy, mint a többi.}
 {183}{}{Szerintem te szoktál fürdeni.}
-{184}{}{Okosabb vagy, mint Torr.}
+{184}{}{Van egy fényes kavicsom.}
 {185}{}{Éles az a penge?}
 {186}{}{Amikor felnövök, olyan akarok lenni, mint te.}
 {187}{}{A kutyám imádja a szárított húst.}
@@ -47,7 +47,7 @@
 {193}{}{Mit viselsz?}
 {194}{}{Brahminon akarok lovagolni!}
 {195}{}{Messziről jöttél?}
-{196}{}{Íhíííííjjj! Ha, ha, ha!}
+{196}{}{Weeee! Ha ha ha!}
 {197}{}{Ne menj!}
 {198}{}{Van kajád?}
 {199}{}{Zavarlak?}

@@ -7,9 +7,9 @@
 {106}{}{Você?}
 {107}{}{Quem é você?}
 {108}{}{O que é este lugar?}
-{109}{}{Eu estou procurando por alguns aldeões desaparecidos.}
-{110}{}{Eu preciso de combustível.}
-{111}{}{Eu gostaria de falar com o Imperador.}
+{109}{}{Estou Procurando Por alguns Aldeões Perdidos}
+{110}{}{Eu Preciso de Gasolina}
+{111}{}{Eu Gostaria De Falar Com o Imperador}
 {112}{}{Os Hubologistas me enviaram para matar o Imperador.}
 {113}{}{Nada. Obrigado. Tchau.}
 {114}{}{Eu sou Ken Lee, conselheiro do Imperador. E você, meu amigo, parece ser simplório, então lembre-se disso: se você procura pelo Enclave, então você deve navegar com o petroleiro até eles. Você precisará de combustível para o petroleiro. Você tem minha bênção.}
@@ -77,7 +77,7 @@
 {176}{}{Estou ansioso para ver o resultado da sua tentativa. Tenha um bom dia.}
 {177}{}{Bom dia.}
 {178}{}{Repreendendo alguém? Qualquer tolo que tenha feito sua pesquisa pode ver que a base da cidade de Shi é o destroço desse submarino. Parece infrutífero argumentar com aqueles que diriam o contrário.}
-{179}{}{Você é muito bem humorado.}
+{179}{}{Você é alguém muito bem-humorado.}
 {180}{}{Certamente é. E eu lido com essas pessoas diariamente. Ai de mim!}
 {181}{}{Bem, eu tenho mais perguntas.}
 {182}{}{É, coitado de você. Tchau.}

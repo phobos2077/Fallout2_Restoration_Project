@@ -5,14 +5,17 @@
 {104}{}{What do you do?}
 {105}{}{Ug.}
 {106}{}{Well... I don't know. I'm pretty new to this area and I've only been to the following areas.}
-{107}{}{New Reno.}
-{108}{}{Vault City.}
-{109}{}{Redding.}
-{110}{}{The Den.}
-{111}{}{San Francisco.}
-{112}{}{New California Republic.}
-{113}{}{An abandoned mine.}
-{114}{}{An old, abandoned facility.}
+
+# this is calculated numerically in the script, separate range for consistency between UP/RP
+{1107}{}{New Reno.}
+{1108}{}{Vault City.}
+{1109}{}{Redding.}
+{1110}{}{The Den.}
+{1111}{}{San Francisco.}
+{1112}{}{New California Republic.}
+{1113}{}{An abandoned mine.}
+{1114}{}{An old, abandoned facility.} # RP: EPA
+
 {115}{}{No, I've been there already. Thanks anyway.}
 
 {116}{}{New Reno -- now that's a great place to go. Sex, drugs and gambling. What more can one ask for?
@@ -39,6 +42,7 @@
  all right if I show you where it is.}
 {129}{}{Thanks. Bye.}
 
+# RP: EPA
 {130}{}{Yeah, a while back I came across an old facility that looked like it'd been abandoned since the Great War.
  Looked pretty important too, so I bet it's chock full of pre-war goods. I would've scavenged the place myself,
  but it's grounds were covered with some real pissed off man-eating plants. I'm not planning on going back, so I guess
@@ -57,13 +61,14 @@
 {141}{}{Maybe we'll meet again.}
 {142}{}{I want to make the next town by nightfall. I'd better go.}
 {143}{}{I'd better be going.}
+
+# fighting
 {144}{}{Ambush!}
 {145}{}{Can't trust anyone these days.}
 {146}{}{You have broken the code of the traveler.}
+# fleeing
 {147}{}{Time to go.}
 {148}{}{I've overstayed my welcome.}
 {149}{}{I must depart.}
 
 {150}{}{Thanks. I need directions to some other places.}
-
-

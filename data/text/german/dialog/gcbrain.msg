@@ -160,7 +160,7 @@
 {639}{}{Erzähl mir doch einfach, was dieser letzte Schritt ist, und ich denk drüber nach, ob ich helfe.}
 {640}{}{Wem soll ich sie geben?}
 {641}{}{Noch ein Schritt?}
-{650}{}{Deine Befremdung darüber, dass ein Nagetier die Welt regiert, ändert nichts daran, dass die Maßnahmen, die ich vorschlage, Tausenden von Bürgern in Vault City und Gecko zugute kommen würden. Vielleicht sind  ich und meine Beweggründe dir egal, aber das Ergebnis ist die Mühe in jedem Fall wert.}
+{650}{}{Deine Befremdung darüber, dass ein Nagetier die Welt regiert, ändert nichts daran, dass die Maßnahmen, die ich vorschlage, Tausenden von Bürgern in Vault City und Gecko zugute kommen würden. Vielleicht sind ich und meine Beweggründe dir egal, aber das Ergebnis ist die Mühe in jedem Fall wert.}
 {651}{}{Du hast die Disk mit den Reaktordaten erhalten. Nun musst du irgend etwas damit tun.}
 {652}{}{Du hast die Disk mit den Reaktordaten analysieren lassen. Jetzt musst du sie verwenden.}
 {653}{}{Wir brauchen ein Teil für unseren Atomreaktor; das ist unsere einzige Chance, ihn richtig zum Laufen zu bringen.}

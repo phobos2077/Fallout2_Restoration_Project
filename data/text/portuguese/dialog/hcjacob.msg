@@ -69,7 +69,7 @@
 {182}{}{É você, hein? Acho que não, traidor.}
 {183}{}{O que?}
 {184}{}{Eu tenho um trabalhinho para você. Nossos amigos, Manson e Franc, estão presos. Quero
- que você os tire de lá, e em em silêncio, se possível. Você não vai querer a cidade toda caçando sua cabeça.}
+ que você os tire de lá, e em silêncio, se possível. Você não vai querer a cidade toda caçando sua cabeça.}
 {185}{}{E se eu matar alguém?}
 {186}{}{Tenho-o. Eu tenho mais perguntas.}
 {187}{}{Esqueça. Estou fora.}

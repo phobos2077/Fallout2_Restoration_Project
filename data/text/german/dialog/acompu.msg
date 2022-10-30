@@ -5,7 +5,7 @@
 {104}{}{Öffne GECK-Informationen.}
 {105}{}{Öffne Vault-Informationen.}
 {106}{}{FEHLER! Berechtigunskarte nicht gefunden. Bitte Berechtigungskarte in den Einschubschlitz stecken.}
-{107}{}{[Du steckst die Karte in den dafür vorgesehenen Schlitz.] PIEP! Berechtigungskarte akzeptiert.                       STARTE Winblows 2075 . . . . . FERTIG.}
+{107}{}{[Du steckst die Karte in den dafür vorgesehenen Schlitz.] PIEP! Berechtigungskarte akzeptiert. STARTE Winblows 2075 . . . . . FERTIG.}
 {108}{}{Eingabebefehl.}
 {109}{}{Durchsuche Dateien nach allen Infos über das GECK oder Vault 13.}
 {110}{}{Zugriff auf andere Dateien.}
@@ -41,8 +41,8 @@ Die Anzeige zeigt einen breit grinsenden Cartoontypen in einem Vaultanzug, der e
  Suchen, Hinzufügen, Löschen und Formatieren dem Nutzer zur Verfügung.}
 {142}{}{Formatiere das Dateisystem einschließlich aller Backups auf dem Host und auf Netzwerkrechnern.}
 {143}{}{Zurück.}
-{144}{}{Formatiere Backup Dateien... ERFOLGREICH...                       Formatiere Dateisystem... WARTEN...
-                               Warnung: Ein schwerwiegender Fehler ist aufgetreten.         Bitte warten...}
+{144}{}{Formatiere Backup Dateien... ERFOLGREICH... Formatiere Dateisystem... WARTEN... Warnung: Ein schwerwiegender Fehler ist aufgetreten.
+Bitte warten...}
 {145}{}{Warten.}
 {146}{}{...System Fehler: Die Operation wurde erfolgreich abgeschlossen... [Ein kratzendes Geräusch beginnt aus dem innern des Computers und anderen in der Nähe zu ertönen.]}
 {147}{}{[Geh weg.]}

@@ -5,7 +5,7 @@
 {201}{}{Sim, na verdade, era eu.}
 {202}{}{Não, fui enviado pelo AHS-9 para verificar tudo.}
 {210}{}{Excelente! Não se dá pra ter certeza do que está guardado por aqui. É bom ter alguém como você aqui.}
-{211}{}{Sério? Isso é interessante. Fique à vontade para para olhar ao redor. Tenho certeza que você vai descobrir que tudo está em ordem.}
+{211}{}{Sério? Isso é interessante. Fique à vontade para olhar ao redor. Tenho certeza que você vai descobrir que tudo está em ordem.}
 {220}{}{Obrigado. O que exatamente estamos armazenando aqui, afinal?}
 {221}{}{Tudo bem então. Até a próxima.}
 {230}{}{Como você com certeza sabe, todas as doações para a Igreja de Hubologia nas últimas décadas são armazenadas aqui - e devo dizer

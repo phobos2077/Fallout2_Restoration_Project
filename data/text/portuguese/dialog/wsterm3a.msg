@@ -69,6 +69,6 @@
 {143}{}{Sair.}
 {200}{}{ é incapaz de ler o que está no monitor.}
 {300}{}{O computador parece ter um mecanismo de defesa.}
-{301}{}{You are shocked for }
-{302}{}{ is shocked for }
+{301}{}{Você toma uma descarga por }
+{302}{}{ toma uma descarga por }
 {303}{}{ pontos de dano.}

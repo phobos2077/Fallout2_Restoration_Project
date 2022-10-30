@@ -213,7 +213,7 @@
  untersuchen und behandeln lassen.}
 {260}{}{Hervorragend. Hier ist dein Geld. Ich werde den alten Mann erst mal medizinisch
  untersuchen und behandeln lassen.}
-{261}{}{ Einen Moment, ich veranlasse schnell alles Erforderliche.}
+{261}{}{Einen Moment, ich veranlasse schnell alles Erforderliche.}
 {262}{}{Klar. Ich warte hier solange.}
 {263}{}{Sehr gut. Der Diener wurde zur medizinischen Untersuchung und Behandlung gebracht.
  Seltsam... der Diener schien von der ganzen Angelegenheit ziemlich überrascht. Es waren einige

@@ -1,1 +1,1 @@
-{100}{}{You enter a mountainous area. A Ranger safe house lies nearby.}
+{100}{}{Você entra em uma área montanhosa. Uma casa segura Ranger fica nas proximidades.}

@@ -5,14 +5,6 @@
 {104}{}{Was machst'n du so?}
 {105}{}{Agh.}
 {106}{}{Nun... Keine Ahnung. Ich bin ziemlich neu hier in der Gegend und kam bisher nur an folgenden Orten vorbei.}
-{107}{}{New Reno.}
-{108}{}{Vault City.}
-{109}{}{Redding.}
-{110}{}{Den.}
-{111}{}{San Francisco.}
-{112}{}{New California Republic.}
-{113}{}{Eine aufgegebenen Mine.}
-{114}{}{Eine alte, verlassene Anlage.}
 {115}{}{Ne, da war ich schon. Trotzdem danke.}
 {116}{}{New Reno -- Das ist ne Stadt Mann. Sex, Drogen und Glücksspiel. Was kann man da noch verlangen? Lass mich dir zeigen wo es liegt.}
 {117}{}{Danke. Tschüss.}
@@ -20,7 +12,7 @@
 {119}{}{Danke. Tschüss.}
 {120}{}{Redding... Weiß nicht mehr, als das es ne alte Minenstadt ist. Es liegt im Norden, gleich im Schoß der gemeinsten Berge die du je gesehen hast.}
 {121}{}{Danke. Tschüss.}
-{122}{}{Ich würd mich an deiner Stelle von Den fern halten. Es ist eine Anlaufstelle für allen möglichen Abfall in der Gegend. Ich zeig dir wo es ist  aber ich rate dir dort nicht hinzugehen.}
+{122}{}{Ich würd mich an deiner Stelle von Den fern halten. Es ist eine Anlaufstelle für allen möglichen Abfall in der Gegend. Ich zeig dir wo es ist aber ich rate dir dort nicht hinzugehen.}
 {123}{}{Danke. Tschüss.}
 {124}{}{San Francisco. Öhm... alles was Ich darüber sagen kann ist, dass die Leute dort... Merkwürdig sind. Es ist an der Küste.}
 {125}{}{Danke. Tschüss.}
@@ -49,3 +41,11 @@
 {148}{}{Meine Gastfreundschaft wird überstrapaziert.}
 {149}{}{Ich muss weiter.}
 {150}{}{Danke. Ich brauch eine Wegbeschreibung zu anderen Orten.}
+{1107}{}{New Reno.}
+{1108}{}{Vault City.}
+{1109}{}{Redding.}
+{1110}{}{Den.}
+{1111}{}{San Francisco.}
+{1112}{}{New California Republic.}
+{1113}{}{Eine aufgegebenen Mine.}
+{1114}{}{Eine alte, verlassene Anlage.}

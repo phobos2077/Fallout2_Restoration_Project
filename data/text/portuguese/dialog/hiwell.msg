@@ -67,6 +67,6 @@
 {160}{}{Você vai me pagar por isso!}
 {161}{}{Meu Deus! Morlocks!}
 {162}{}{[assobio] Quando estou assustado, eu [calafrio] canto essa canção alegre... [assobio]}
-{163}{}{Agora... estou... estou... chateado!}
+{163}{}{Agora... eu... estou... chateado!}
 {164}{}{Acho que uma passagem secreta seria pedir demais.}
 {165}{}{O que está acontecendo lá em cima?}

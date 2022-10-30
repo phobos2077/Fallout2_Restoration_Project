@@ -33,10 +33,10 @@
  18 Minuten nördlicher Breite und 120 Grad, 7 Minuten westlicher Länge.}
 {126}{}{Was heißen zum Teufel?}
 {127}{}{Was zum Teufel soll der ganze Mist bedeuten?}
-{128}{}{Suche... Zugriff auf umgangssprachliches Wörterbuch...     Daten empfangen. Übersetzung folgt:
-                              1) Es liegt verdammt weit draußen im Meer.
-                       2) Es liegt vor der Küste Kaliforniens.                            3) Es liegt westlich von San Francisco.
-                            4) Wenn du das geographische Koordinatensystem                 nicht kapierst, findest du es nie.}
+{128}{}{Suche... Zugriff auf umgangssprachliches Wörterbuch... Daten empfangen. Übersetzung folgt:
+ 1) Es liegt verdammt weit draußen im Meer.
+ 2) Es liegt vor der Küste Kaliforniens. 3) Es liegt westlich von San Francisco.
+ 4) Wenn du das geographische Koordinatensystem nicht kapierst, findest du es nie.}
 {129}{}{Wie dahin?}
 {130}{}{Wie komme ich dahin?}
 {131}{}{Suche... Zugriff auf Transportmittelverzeichnis... Daten empfangen. Die Transportdateien zeigen

@@ -74,7 +74,7 @@
 {173}{}{[Fertig]}
 {174}{}{Du hast die Ehre eines Kojoten und die Moral eines Schakals. Ich möchte nichts mit dir zu tun haben.}
 {175}{}{[Fertig]}
-{176}{}{Deine Kampfkunst ist wirklich beeindruckend. Willst du gegen  Lo Pan antreten?}
+{176}{}{Deine Kampfkunst ist wirklich beeindruckend. Willst du gegen Lo Pan antreten?}
 {177}{}{Ja, und zwar sofort.}
 {178}{}{Im Grunde ist es ja nicht mein Kampf.}
 {179}{}{Klar. Aber ich habe einige Fragen.}

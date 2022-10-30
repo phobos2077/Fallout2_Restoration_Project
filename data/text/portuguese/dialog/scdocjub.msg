@@ -98,53 +98,53 @@
 {231}{}{Will do, doc. But, uh, say-- I've got a buddy who could really use some of those heart pills you've got there.
  Think you'd be willing to sell me some?}
 {240}{}{Awww, }
-{241}{}{son, }
+{241}{}{filho, }
 {242}{}{miss, }
 {243}{}{I wish I could help you, but I'm not taking on any new patients right now. Council's got me on retainer. Can't sell you no pills, neither-- Councilman Westin's people are supposed to pick those ones up in }
-{244}{}{ days, }
-{245}{}{ day, }
+{244}{}{ dias, }
+{245}{}{ dia, }
 {246}{}{and just ain't no way I'm going to have time to mix up another batch before then.}
 {247}{}{I understand, doc. Maybe I'll find a decent pharmacist somewhere else. If it's not too much to ask, though, is there any advice you could give me on the subject? You don't find medicine like that too often.}
 {248}{}{Those are the breaks, I guess. Anyway, I should be alright. I've picked up *tons* about cardamomagy from old comic books. Cut the hard chems back to twice a day, TOPS, make sure to get your exercise in short, strenuous bursts so your heart doesn't have time to act up, all kinds of good stuff.}
 {250}{}{I feel for you, friend, but I'm afraid those pills are for Councilman Westin, and I ain't taking on any new patients right now so I wouldn't be able to write you up a script. Now please, don't go messing around on that shelf anymore. Those prescriptions get mixed up, someone could wind up in a pretty bad way.}
-{260}{}{Let's be clear here, }
-{261}{}{mister. }
-{262}{}{missy. }
-{263}{}{What exactly do you mean by "donation?"}
+{260}{}{Vamos ser claros aqui, }
+{261}{}{senhor. }
+{262}{}{senhorita. }
+{263}{}{O que exatamente você quer dizer com "doação?"}
 {264}{}{A charitable contribution, in furtherance of your service to the public, say... $150? You can count it out in the back room. Should only take a minute, right?}
 {265}{}{Uh, actually, I think I'd better check with my accountant before I do anything rash. See you later, doc.}
-{270}{}{No can do, I'm afraid. Those are for Councilman Westin. His people are due by to pick them up in }
-{271}{}{ days, }
-{272}{}{ day, }
-{273}{}{and I'm not going to have the time to mix up another batch before then. I'm sure you can find a pharmacist with a lighter workload.}
-{274}{}{I see. Well, thanks anyway.}
+{270}{}{Eu temo que isso não pode ser feito. Esses são para o vereador do Westin. Seu povo deve pegar em }
+{271}{}{ dias, }
+{272}{}{ dia, }
+{273}{}{e eu não vou ter tempo para misturar outro lote antes disso. Tenho certeza que você pode encontrar um farmacêutico com menos trabalho.}
+{274}{}{Tudo bem, obrigado de qualquer maneira.}
 {280}{}{(Doc Jubilee gapes at you for a moment.) Aw, you're puttin' me on, right? You've gotta be puttin' me on. (Glances at you again, shakes head, blows out cheeks.) Hooo, boy. Either way, I wouldn't be no kind of doctor if I let you walk out of here without a few pointers, at least.}
-{281}{}{Let's see... for starters, you should prob'ly stop doing... well, near to just about everything oughta cover it. No drinking, no smoking, no red meat, NO chems. Try to get a half-hour a day of MILD exercise. And take it easy. Life ain't a race, 'least not the kind where you want to be first to finish. Truth told, no one ever listens to this stuff, but at least I'll be able to rest easier tonight.}
-{282}{}{More important, you need to find you a half-decent chemist and tell 'em you need set up with a regular supply of Triproxinil. Tri-prox-i-nil. Wasteland stock ain't gonna be as fancy as what I got on the shelf there, but chemically, it's all the same once you get down to brass tacks. 30 milligrams, twice a day.}
+{281}{}{Vamos ver... para começar, você provavelmente deveria parar de fazer... bem, quase tudo deveria cobrir isso. Nada de beber, fumar, carne vermelha, drogas. Tente fazer meia hora por dia de exercícios leves, e vá com calma. A vida não é uma corrida, muito menos do tipo em que você quer ser o primeiro a terminar. Verdade dita, ninguém nunca ouve essas coisas, mas pelo menos poderei descansar com a cabeça leve esta noite.}
+{282}{}{Mais importante, você precisa encontrar um químico meio decente e dizer a eles que você precisa ter um suprimento regular de Triproxinil. Tri-prox-i-nil. O estoque dos desertos não vai ser tão chique quanto o que eu tenho na prateleira lá, mas quimicamente, é tudo a mesma coisa quando você chega ao ponto. 30 miligramas, duas vezes ao dia.}
 {283}{}{Now, you gotta be sure to drink plenty of water while you're on this stuff. And for criminy sakes, you stay *as far as you can* from those pecker pills like they got up in New Reno, understand? They don't play nice together. Fella takes one while he's on the other, his John Thomas ain't nearly the only part of him going stiff that day, if you follow.}
 {284}{}{(To yourself) Hmm, that could work. Yeah. Maybe something in the way of a PDE-5 inhibitor compound...}
 {285}{}{Oh-- And if you *do* go through one of them Reno hucksters, they might go tellin' you that this stuff'll proof your heart against just about any pusher's poison you'd care to try. I ain't gonna lie to you-- there's prob'ly some truth to that. Still don't make bein' a junkie any more glamorous. You're grown and out of britches, so I ain't gonna lecture, but there it is.}
-{286}{}{Thanks a million, doc. You have no idea what a help you've been. Take care.}
-{287}{}{Tri-prox-i-nil, no bo-ner-pill. Heh heh. I'll keep that in mind. See you around, doc.}
-{290}{}{You think you're dealing with some shifty bartertown sawbones, }
-{291}{}{son, }
-{292}{}{girlie, }
+{286}{}{Muito obrigado mesmo, doutor. Você não tem ideia da ajuda que me deu. Se cuide.}
+{287}{}{Tri-prox-i-nil, sem bo-ner-pílula. Heh heh. Vou me lembrar disso. Vejo você por aí, doutor.}
+{290}{}{Você acha que está lidando com alguns malandros de bartertown, }
+{291}{}{filho, }
+{292}{}{garotas, }
 {293}{}{is that it? Don't. I am a trained and accredited NCR medical professional, and that's worth a lot more than that pocketful o' chump change.}
-{294}{}{My apologies. Obviously, a practitioner of your caliber rates a donation of no less than $250.}
-{295}{}{(Hang head.) Look, I'm really sorry. I'm not proud of myself, and I would normally never have tried anything like that, but I'll be honest with you: I was desperate for those pills.}
-{296}{}{Sorry for the trouble. I think I'd better just go before I dig myself a bigger hole.}
+{294}{}{Minhas desculpas. Obviamente, um profissional de seu calibre não cobra doações inferiores a US$ 250.}
+{295}{}{(Abaixe a cabeça.) Olha, eu sinto muito. Não estou orgulhoso de mim mesmo e normalmente nunca teria tentado algo assim, mas vou ser honesto com você: eu estava desesperado por essas pílulas.}
+{296}{}{Desculpe por todo o incomodo. Acho melhor ir antes quem cavem um buraco maior.}
 {300}{}{(Doc Jubilee begins to turn red.) I don't think you heard me the first time,}
-{301}{}{ boy, }
-{302}{}{ woman, }
+{301}{}{ menino, }
+{302}{}{ mulher, }
 {303}{}{so listen close: I am a doctor of the NCR. It's a solemn duty, and it came with a solemn oath. You ask me one more time to piss on that oath, the ONLY part of it that's going out the window is "first, do no harm." You got me?}
 {304}{}{Alright, screw it. If you're as great as you seem to think you are, maybe you'll be able to sew yourself back together after this.}
 {305}{}{Whoa, now. Didn't mean to step on any toes, doc. I'll just leave you be for awhile.}
 {310}{}{Say, doc, I was wondering about those heart pills you've got up there on the shelf.}
 {311}{}{Are you sure you can't reconsider selling me some of those pills?}
-{320}{}{Sorry, Councilman Westin's people are due by to pick those up in }
-{321}{}{ days, }
-{322}{}{ day, }
-{323}{}{and I'm just too busy to mix up another batch in time.}
+{320}{}{Desculpe, o pessoal do vereador Westin deve buscá-los em }
+{321}{}{ dias, }
+{322}{}{ dia, }
+{323}{}{e estou muito ocupado para misturar outro lote em tempo.}
 {324}{}{(Mutters to himself.) Where the hell did I put those pills for Mr. Westin. His heart aint gonna last long without 'em. (He looks up.)
  Oh, sorry. What can I do for you today?}
 {325}{}{I couldn't help overhearing what you said about heart pills. I was actually going to ask you about such medicine.}

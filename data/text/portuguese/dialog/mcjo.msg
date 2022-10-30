@@ -78,7 +78,9 @@
 {206}{}{Se nos ajudar, direi onde você pode encontrar o que procura.}
 {207}{}{OK, então vamos selar o acordo. Corte o dedo mindinho direito.}
 {208}{}{Isso é um acordo. Me mostre onde fica a Fazenda Fantasma.}
-{209}{}{O que?!? De onde você veio é assim que selam um acordo? Bom, estamos desesperados e acho que você é a única esperança que temos. Então, acho que merece um pequeno sacrifício, se salvar nossa cidade. [Jo pega uma faca e começa a cortar seu dedo mindinho direito!]}
+{209}{}{O que?!? De onde você veio é assim que selam um acordo? Bom, estamos desesperados e acho que você é a única
+ esperança que temos. Então, acho que merece um pequeno sacrifício, se salvar nossa cidade.
+ [Jo pega uma faca e começa a cortar seu dedo mindinho direito!]}
 {210}{}{[Você o interrompe bem na hora.] Espere! Vejo agora que você estava dizendo a verdade e que
  realmente precisa de ajuda. Vou te ajudar.}
 {211}{}{Bom, agora pegue o dedo, passe na farinha e leve ao forno. Hmmmm que delicia!}
@@ -157,7 +159,7 @@
  conheço um lugar chamado Gecko, nunca estive lá, mas ouvi dizer que é em algum lugar a leste
  daqui. Me sinto muito mal por enganar você, gostaria de poder lhe dar mais compensação do que
  isso, mas o melhor que posso te oferecer é um desconto das mercadorias. Não tenho muito
- agora, mas  as coisas vão melhorar por aqui em breve e eu ficaria honrado em contribuir para você.}
+ agora, mas as coisas vão melhorar por aqui em breve e eu ficaria honrado em contribuir para você.}
 {278}{}{Babaca!}
 {280}{}{Não te culpo por bravo comigo, mas não me arrependo de ter feito isso. Precisávamos de alguém
  para o trabalho e você se encaixava perfeitamente. Tudo o que posso dizer é "obrigado" e que vá em paz.}
@@ -201,14 +203,13 @@
  Enquanto isso, acredito que já é hora de os Slags e os moradores de Modoc se conhecerem.}
 {303}{}{Acredito que cumpri minha parte do trato. Que tal me dizer onde posso encontrar o GECK
  sagrado?}
-{304}{}{[Um pouco envergonhado.] Hum... bem, então, eu realmente não sei nada sobre essa coisa
- sagrada de GECK que você está procurando. Entenda; estávamos desesperados! No entanto, eu conheço
- um lugar chamado Gecko, fica a leste daqui em algum lugar. Se eu fosse um apostador, apostaria que seu
- aparelho GECK está localizado lá. Eu gostaria de ter mais para lhe dar, mas ainda somos uma
- comunidade pobre, com poucos recursos. O melhor que posso fazer é te oferecer mercadorias
- basicamente no custo. Mas eu ficaria honrado em te ajudar a se manter abastecido para suas viagens
- quando eu tiver as mercadorias e tenho certeza de que qualquer um dos outros residentes ficaria igualmente
- grato se você perguntasse. Obrigado! Você salvou a todos nós.}
+{304}{}{[Um pouco envergonhado.] Hum... bem, então, eu realmente não sei nada sobre essa coisa sagrada
+ de GECK que você está procurando. Entenda; estávamos desesperados! No entanto, eu conheço um lugar
+ chamado Gecko, fica a leste daqui em algum lugar. Se eu fosse um apostador, apostaria que seu aparelho
+ GECK está localizado lá. Eu gostaria de ter mais para lhe dar, mas ainda somos uma comunidade
+ pobre, com poucos recursos. O melhor que posso fazer é te oferecer mercadorias basicamente
+ no custo. Mas eu ficaria honrado em te ajudar a se manter abastecido para suas viagens quando eu
+ tiver as mercadorias e tenho certeza de que qualquer um dos outros residentes ficaria igualmente grato se você perguntasse. Obrigado! Você salvou a todos nós.}
 {305}{}{Bem, eles mataram Karl junto com todas aquelas outras pessoas que você viu na fazenda.
  OK, vamos lá. Você viu o esconderijo deles e parece bastante capacitado; pode nos levar à vitória
  sobre essas escórias desgraçadas?}

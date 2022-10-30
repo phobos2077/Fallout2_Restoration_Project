@@ -1,11 +1,11 @@
 {100}{}{Você vê um computador PoseidoNet.}
 {101}{}{Você vê um computador PoseidoNet.}
 {102}{}{Você vê um computador PoseidoNet.}
-{103}{}{::Beep:: Terminal com defeito. Requer a instalação do NavComp. ::beep::}
+{103}{}{:: Bip :: Terminal com defeito. Requer a instalação do NavComp. ::bip::}
 {104}{}{[FEITO]}
-{105}{}{Bem-vindo ao PoseidoNet. Este terminal está limitado à transmissão entre um petroleiro - PMV Valdez - e plataforma de atracação. Comando?}
+{105}{}{Bem-vindo ao PoseidoNet. Este terminal está limitado à transmissão entre um navio-tanque - PMV Valdez - e a plataforma de atracação. Comando?}
 {106}{}{Ir.}
-{107}{}{Checando estado.}
+{107}{}{Verifique o estatus}
 {108}{}{Sair.}
 {109}{}{-Tanques de combustível: Vazios- -Carga de espera: Vazio- -Computador de navegação: Não funcional- -Cabas de ancoragem: Anexadas-}
 {110}{}{[VOLTAR]}

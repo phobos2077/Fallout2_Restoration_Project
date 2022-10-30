@@ -4,12 +4,12 @@
 {111}{}{You see a table.}
 {140}{}{You see a table for playing dice games.}
 {141}{}{You see a table with stuff on it.}
-{150}{}{You see one of the casino dealers.}
-{151}{}{You see one of the casino dealers. She motions for you to come over and play.}
-{152}{}{You see one of the casino dealers. Her dress barely covers her body.}
-{153}{}{You see one of the casino dealers. She's got some nice gams.}
-{154}{}{You see one of the casino dealers. She winks at you.}
-{155}{}{You see one of the casino dealers. She smells reeeally nice.}
+{150}{}{Você vê um dos crupiês do cassino.}
+{151}{}{Você vê uma das crupiês do cassino. Ela gesticula para que você venha brincar.}
+{152}{}{Você vê uma das crupiês do cassino. Seu vestido mal cobre seu corpo.}
+{153}{}{Você vê uma das crupiês do cassino. Ela tem um monumental par de coxas.}
+{154}{}{Você vê uma das crupiês do cassino. Ela pisca para você.}
+{155}{}{Você vê uma das crupiês do cassino. Ela é muito cheirosa.}
 {160}{}{You see a pretty woman.}
 {161}{}{She's waving for you to come over.}
 {162}{}{Her dress is kinda small.}
@@ -33,88 +33,88 @@
 {216}{}{Se precisar de companhia mais tarde...}
 {217}{}{Hey, you...[winks]...you looking to gamble?}
 {218}{}{He looks so...[shivers]...dangerous.}
-{219}{}{Welcome to the casino, }
+{219}{}{Bem vindo ao cassino, }
 {220}{}{Fale bem de mim pro chefe, beleza?}
 {221}{}{Olá, madame. Se eu puder ajudar em algo é só me dizer.}
-{222}{}{Looking to gamble, ma'am?}
+{222}{}{Quer jogar, senhorita?}
 {223}{}{She looks so...[shivers]...dangerous.}
-{235}{}{Looks like this one's already gambling with his life.}
+{235}{}{Parece que este já está jogando com a vida.}
 {236}{}{Uh, eu acho que ele entrou no cassino errado...}
-{237}{}{If he doesn't leave before the boys see him...}
-{238}{}{Uh-oh. Trouble...}
-{239}{}{Looks like this one's already gambling with her life.}
+{237}{}{Se ele não sair antes que os rapazes o vejam...}
+{238}{}{Oh-oh. Problema...}
+{239}{}{Parece que já esta jogando com a vida.}
 {240}{}{Uh, eu acho que ela entrou no cassino errado...}
-{241}{}{If she doesn't leave before the boys see her...}
-{250}{}{Hey, muscles. You looking to spend some chips?}
+{241}{}{Se ela não sair antes que os rapazes a vejam...}
+{250}{}{Ei, músculos. Você quer gastar algumas tampas?}
 {251}{}{Hey, champ...[winks]...you looking to gamble?}
 {252}{}{Hey, champ...[smiles]...wanna take a chance?}
 {253}{}{Se precisar de companhia mais tarde...}
 {254}{}{Me pergunto se eu deveria falar com ele...}
 {255}{}{Ei, }
-{256}{}{If you're looking to win some chips, you came to the right place.}
-{257}{}{Lady Luck's in the house tonight... nothing but winners!}
-{258}{}{Step right up, }
-{259}{}{Need another drink?}
-{260}{}{Welcome to the casino, }
+{256}{}{Se você quer ganhar algumas tampas, veio ao lugar certo.}
+{257}{}{Dona Sorte está em casa esta noite... Somente vencedores!}
+{258}{}{Adiante, }
+{259}{}{Precisa de outra bebida?}
+{260}{}{Bem vindo ao cassino, }
 {261}{}{Olá, }
-{262}{}{Looking to gamble, }
-{263}{}{Welcome to the casino, }
-{270}{}{Hey there, movie man. You looking to spend some chips?}
+{262}{}{Com certeza quer jogar, }
+{263}{}{Bem vindo ao cassino, }
+{270}{}{Olá, estrela. Você quer gastar algumas tampas?}
 {271}{}{Ei, }
 {272}{}{Ei, }
-{273}{}{If you're looking to win some chips }
-{274}{}{Lady Luck's in the house tonight... nothing but winners!}
-{275}{}{Step right up, }
-{276}{}{Need another drink?}
-{277}{}{Welcome to the casino, }
+{273}{}{Se você está querendo ganhar algumas tampas }
+{274}{}{Dona Sorte está em casa esta noite... Somente vencedores!}
+{275}{}{Adiante, }
+{276}{}{Precisa de outra bebida?}
+{277}{}{Bem vindo ao cassino, }
 {278}{}{Hey there, Ms. Movie Star. Looking to spend a paycheck?}
-{279}{}{You dancing tonight?}
-{290}{}{Hey there, sweetie. You looking to spend some chips?}
+{279}{}{Quer dançar essa noite?}
+{290}{}{Ei, querida. Você quer gastar algumas tampas?}
 {291}{}{Hey, sweetie...[winks]...you looking to gamble?}
 {292}{}{Hey, sweetie...[smiles]...wanna take a chance?}
-{293}{}{If you're looking to win some chips, you came to the right place.}
-{294}{}{Lady Luck's in the house tonight... nothing but winners!}
-{295}{}{Step right up, win some chips.}
-{296}{}{Need another drink, honey?}
-{297}{}{Welcome to the casino, honey.}
-{298}{}{This table's free if you're looking to gamble...}
-{299}{}{Hey there, honey. You looking to spend some chips?}
-{300}{}{Looking to gamble, honey?}
-{301}{}{Welcome to the casino, honey.}
+{293}{}{Se você quer ganhar algumas tampas, veio ao lugar certo.}
+{294}{}{Dona Sorte está em casa esta noite... Somente vencedores!}
+{295}{}{Vamos lá, ganhe algumas tampas.}
+{296}{}{Precisa de outra bebida, docinho?}
+{297}{}{Bem vindo ao cassino, docinho.}
+{298}{}{Essa mesa é grátis se você quiser jogar...}
+{299}{}{Ei, docinho. Você quer gastar algumas fichas?}
+{300}{}{Quer jogar, docinho?}
+{301}{}{Bem vindo ao cassino, docinho.}
 {320}{}{[The dealer looks at you nervously, then chews her lip.] Um, place your bets... minimum bet $}
 {321}{}{Place your bet, sir. Minimum bet $}
 {322}{}{Place your bet, ma'am. Minimum bet $}
 {323}{}{Place your bets, minimum bet $}
-{324}{}{Me bet-ter than you}
-{325}{}{Me play craps in pants}
+{324}{}{Eu meior que oce}
+{325}{}{Eu jogo minha calça}
 {326}{}{What this game? Can you bet gecko skin? Me got geck... ooooh... pretty lights! [Wander off.]}
 {327}{}{[You have $}
 {328}{}{Bet $}
 {329}{}{Whoa, too rich for my blood.}
-{330}{}{No bets today, thanks.}
+{330}{}{Sem apostas hoje, obrigado.}
 {331}{}{Uhhh, sorry, I don't know how to play these crazy games.}
-{340}{}{Um... I hear they're giving away brains out back. Maybe you should go check it out.}
-{341}{}{Uh, very well, sir. Come back soon.}
-{342}{}{Uh, very well, ma'am. Come back soon.}
-{343}{}{Byeee-byeeee}
-{344}{}{Gooodie. }
+{340}{}{Hum… Ouvi dizer que estão dando cérebros lá atrás. Talvez você devesse dar uma olhada.}
+{341}{}{Muito bem, senhor. Volte logo.}
+{342}{}{Muito bem, senhora. Volte logo.}
+{343}{}{Tchaaaaau}
+{344}{}{Diaaaaa. }
 {345}{}{Uh... brains... what them?! Me go see!}
-{350}{}{Very well, sir. Come back soon.}
-{351}{}{Very well, ma'am. Come back soon.}
+{350}{}{Muito bem, senhor. Volte logo.}
+{351}{}{Muito bem, senhora. Volte logo.}
 {352}{}{[Dealer raises an eyebrow.] $}
-{354}{}{I will, thanks.}
+{354}{}{Eu vou, obrigado.}
 {355}{}{Maybe so.}
-{400}{}{Sorry, better luck next time.}
-{401}{}{Sorry, sir. Better luck next time.}
-{402}{}{Sorry, ma'am. Better luck next time.}
+{400}{}{Desculpe, mais sorte da próxima vez.}
+{401}{}{Desculpe, senhor. Mais sorte da próxima vez.}
+{402}{}{Desculpe, senhora. Mais sorte da próxima vez.}
 {410}{}{Match.}
 {411}{}{Match. Try again sir?}
 {412}{}{Match. Try again ma'am?}
-{420}{}{Winner! You've doubled your money!}
-{421}{}{Winner! You've doubled your money! Well done, sir!}
-{422}{}{Winner! You've doubled your money! Well done, ma'am!}
-{430}{}{Winner! You've tripled your money!}
-{431}{}{Winner! You've tripled your money! Luck is in the house tonight! Well done, sir!}
+{420}{}{Vencedor! Você dobrou seu dinheiro!}
+{421}{}{Vencedor! Você dobrou seu dinheiro! Muito bem, senhor!}
+{422}{}{Vencedora! Você dobrou seu dinheiro! Muito bem, senhora!}
+{430}{}{Vencedor! Você triplicou seu dinheiro!}
+{431}{}{Vencedor! Você triplicou seu dinheiro! A sorte está na casa esta noite! Muito bem, senhor!}
 {432}{}{Winner! You've tripled your money! Luck is in the house tonight! Well done, ma'am!}
 {440}{}{Liga-o por um dia.}
 {441}{}{Isso que é noite.}
@@ -123,13 +123,13 @@
 {452}{}{Sorry ma'am, this table has been closed. Someone has been tampering with the dice.}
 {453}{}{Uhhh, OK.}
 {454}{}{Sorry to hear that. Thanks.}
-{2203}{}{! Welcome to the casino, hero!}
+{2203}{}{! Bem-vindo ao cassino, herói!}
 {2215}{}{. Posso te ajudar com *alguma coisa?*}
 {2219}{}{.}
-{2255}{}{. Looking to spend some chips?}
-{2258}{}{, win some chips.}
+{2255}{}{. Procurando onde gastar algumas tampas?}
+{2258}{}{, ganhe algumas tampas.}
 {2260}{}{.}
-{2261}{}{. Let me know if I can help you with anything.}
+{2261}{}{. Me diga se eu posso te ajudar com alguma coisa.}
 {2262}{}{?}
 {2263}{}{.}
 {2321}{}{. faça suas apostas...}

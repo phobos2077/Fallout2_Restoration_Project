@@ -116,7 +116,7 @@
 {215}{}{Ich...ich glaube, manchmal verstehe ich das Gefühl, das ihr Einsamkeit nennt. Ich finde es sehr...beunruhigend. Ich...}
 {216}{}{Mir tun leid. Wir sprechen anderes.}
 {217}{}{Es tut mir leid, Kübe. Wechseln wir das Thema.}
-{218}{}{Nach außen hin scheint die Enklave nichts anderes als eine militärische Organisation zu sein. Allerdings lässt der Stand ihrer Technik darauf schließen, dass sie Zugang zu hochentwickelten Herstellungsverfahren und Forschungseinrichtungen haben. Solche Einrichtungen sind normalerweise nur Regierungsstellen zugänglich. Das deutet darauf hin, dass die Enklave der Rest einer  Regierungsstelle ist, die vor dem Krieg bestand.}
+{218}{}{Nach außen hin scheint die Enklave nichts anderes als eine militärische Organisation zu sein. Allerdings lässt der Stand ihrer Technik darauf schließen, dass sie Zugang zu hochentwickelten Herstellungsverfahren und Forschungseinrichtungen haben. Solche Einrichtungen sind normalerweise nur Regierungsstellen zugänglich. Das deutet darauf hin, dass die Enklave der Rest einer Regierungsstelle ist, die vor dem Krieg bestand.}
 {219}{}{OK.}
 {220}{}{Das ist ja interessant.}
 {221}{}{Die Brotherhood of Steel ist eine paramilitärische Organisation, der Rettung der Menschheit, mit zweckmäßiger Anwendung von Technologien, gewidmet. Alle anderen Informationen sind klassifiziert.}

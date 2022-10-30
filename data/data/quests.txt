@@ -263,7 +263,7 @@
 #Deliver Elronologist's Field Report to Superiors in San Francisco, GVAR_NCR_ENLONE_LETTER_QST
 1510, 1109, 485, 1, 2
 #Kill Elronologist in NCR for Merk, GVAR_NCR_KILL_ELRON_QST
-1510, 1110, 486, 1, 2
+1510, 1110, 486, 1, 3
 #Stop Brahmin Raids, GVAR_NCR_BRAHMIN_QST
 1510, 1111, 500, 1, 2
 #Wipe out Ranger safe houses, GVAR_NCR_VORTIS_QUEST_STATE

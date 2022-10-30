@@ -1,191 +1,191 @@
-{100}{}{You see a good-looking black man... er, no, wait. You see T-Ray.}
-{150}{}{You see a heavily muscled black man with thick glasses, a light beard, and an attitude.}
-{151}{}{You see T-Ray. He looks pretty good in them jeans.}
-{152}{}{You see T-Ray. He occasionally flexes and feels his biceps, whispering "damn" to himself.}
-{153}{}{You can barely make out T-Ray past all that attitude.}
-{200}{}{Hey, it wasn't my fault that condom we were using had a hole in it.}
-{201}{}{Whoa! I wasn't bragging to everyone about you and me doing it. Really! Musta been somebody else.}
-{202}{}{DAMN, woman. After I hit those skins, you go off and save the world. That's T-Ray's power for you.}
-{210}{}{I been telling everyone that you and me is TIGHT. That when I give the word, it's like it was you givin' the orders.}
-{211}{}{You're lucky I was around to save your ass, or the Enclave woulda had you for BREAKFAST.}
-{212}{}{Yo, hero. You be sure to tell everyone that T-Ray's your man, aiight?}
-{220}{}{Whoa, we're in the presence of royalty. Big hero, comin' through.}
-{221}{}{You know, you coulda stopped by before you went off and did that shit, then I coulda helped you whack the President.}
-{222}{}{I woulda gone to the Enclave, too, 'cept I was talkin' on the phone too much.}
-{230}{}{How many horsepower does that thing you have on get?}
+{100}{}{Você vê um negro bonito... er, não, espere. Você vê T-Ray.}
+{150}{}{Você vê um negro musculoso com óculos grossos, barba rala e de atitude.}
+{151}{}{Você vê T-Ray. Ele fica muito bem naqueles jeans.}
+{152}{}{Você vê T-Ray. Ele ocasionalmente flexiona e sente seus bíceps, sussurrando "merda" para si mesmo.}
+{153}{}{Você mal consegue distinguir o T-Ray além de toda essa atitude.}
+{200}{}{Ei, não foi minha culpa que a camisinha que eu peguei tinha um buraco.}
+{201}{}{Opa! Eu não estava me gabando pra todo mundo sobre nós fazendo isso. Eh Sério! Deve ser outra pessoa.}
+{202}{}{PORRA, mulher. Depois que eu dar uma boa olhada, você sai e salva o mundo. Esse é o poder que T-Ray tem pra você.}
+{210}{}{Estou dizendo para todos que nós somos INTIMOS. Que quando eu digo algo, é como se as ordens fossem suas.}
+{211}{}{Você tem sorte que eu estava por perto para salvar sua pele, ou a Enclave teria feito CAFÉ DA MANHÃ de voce.}
+{212}{}{Ae, heroína. Tenha certeza de dizer a todos que T-Ray é seu homem, fechou?}
+{220}{}{Uau, estamos presenciando a realeza. Grande herói chegando.}
+{221}{}{Sabe, você poderia ter dado uma passada aqui antes de sair e fazer tudo aquilo, então eu poderia ter te ajudado a dar uma surra no presidente.}
+{222}{}{Eu também teria ido para a Enclave, só que eu estava em uma ligação muito importante.}
+{230}{}{Quantos cavalos de potência tem essa coisa que você está carregando?}
 {231}{}{Como você usa o banheiro com isso?}
-{232}{}{Any chance you let me have that armor for a little bit? I ain't gonna strip it, I just wanna borrow it.}
-{250}{}{If it ain't the man, here to oppress me again.}
-{251}{}{Yeah, Impala's a good car, but it ain't no Omni.}
-{252}{}{Whenever I make love to you, it's hot lava...}
-{253}{}{Damn, this car needs a brass rope around the license plate.}
+{232}{}{Tem chance de você me dar essa armadura? Não vou te tirar, só quero emprestar um pouco.}
+{250}{}{Se não é o homem, está aqui para me oprimir novamente.}
+{251}{}{Sim, o Impala é um bom carro, mas nada como um Omni.}
+{252}{}{Sempre que faço amor com você, é como lava fervendo...}
+{253}{}{Droga, este carro precisa de uma corda de metal em volta da placa.}
 {254}{}{O motor ainda está bom.}
-{255}{}{Interior smells like someone took a shit in there.}
-{256}{}{Interior smells like gecko assholes.}
-{257}{}{What the hell does a car need to RUN for?}
-{258}{}{Car ain't gotta run to get you where you need to go, nawimean?}
-{259}{}{My car ain't fast, but my lovin' is.}
-{260}{}{I can't believe my brick is as LARGE as it is.}
-{261}{}{I'm hung like a 2-headed brahmin.}
+{255}{}{O interior cheira como se alguém tivesse cagado dentro.}
+{256}{}{O interior cheira como aqueles geckos idiotas.}
+{257}{}{Que merda que um carro precisa para FUNCIONAR?}
+{258}{}{O carro não vai te levar aonde você precisa ir, endendeu?}
+{259}{}{Meu carro não é rápido, mas meu amor é.}
+{260}{}{Eu não posso acreditar que minha bengala é tão longa.}
+{261}{}{Ele me enforca como um brahmin de duas cabeças.}
 {262}{}{O Highwayman tem um sistema analógico completo, 800 cavalos de potência, 0-100 em menos de um segundo.}
 {263}{}{Rápido? O Highwayman vai de 0 a 100 em menos de um segundo.}
 {264}{}{Na verdade, a potencia do Highwayman é de 800 CV.}
-{265}{}{The Highwayman's got a full analog system and no computers. None of the fancy stuff.}
-{266}{}{The Highwayman's a sweet car; Chryslus sure knew how to build 'em.}
-{267}{}{I give piece a chance.}
-{268}{}{I'll give your piece a chance.}
-{275}{}{Who're you? What're you doing here?}
-{276}{}{Damn. Look what just walked in... looks like them upper body workouts is finally paying off. What can I do for you, sweet thing?}
-{277}{}{You again? What do you want NOW?}
-{278}{}{Damn, woman... you again? What do you want NOW? I don't want to hear no shit about how I got you pregnant...}
+{265}{}{O Highwayman tem um sistema analógico completo e nenhum computador. Nada de extravagancias.}
+{266}{}{O Highwayman é uma maquina; Chryslus sabia exatamente como construir.}
+{267}{}{Eu dou uma chance a sua peça.}
+{268}{}{Vou dar uma chance a sua peça.}
+{275}{}{Quem é você? O que você está fazendo aqui?}
+{276}{}{Droga. Veja o que acabou de entrar... parece que os exercicios superiores estão finalmente fazendo efeito. O que posso fazer por você, fofura?}
+{277}{}{De novo aqui? O que você quer AGORA?}
+{278}{}{Porra, mulher... você de novo? O que você quer agora? Eu não quero ouvir porra nenhuma sobre essa gravidez...}
 {279}{}{}
-{280}{}{ go where }
-{281}{}{ go}
+{280}{}{ Ir aonde }
+{281}{}{ vai}
 {282}{}{Cai fora}
-{283}{}{Where did you get that Highwayman? I like the look of it.}
-{284}{}{That car you have in the garage belongs to me.}
-{285}{}{You the one who stole my car, asshole?}
-{286}{}{I'm Bishop's lieutenant, }
-{287}{}{I'm one of Bishop's lieutenants. I'm here for his car.}
-{288}{}{I have come to collect Mr. Bishop's free batteries.}
-{289}{}{Can you upgrade the Highwayman?}
-{290}{}{Can I buy some batteries from you?}
-{291}{}{Nothing. I'm going now.}
-{300}{}{Man, this AIN'T no bathroom, and you shore as hell ain't going in here. Now git.}
-{301}{}{Girl, this AIN'T no bathroom, and you shore as hell ain't going in here. Now git.}
-{302}{}{You wanna GO? Here? Well... (Looks you up and down) ...a man's gotta do who a man's gotta do. Let's get down to bitness.}
+{283}{}{Onde você conseguiu esse Highwayman? Eu curto muito isso.}
+{284}{}{Aquele carro que você tem na garagem me pertence.}
+{285}{}{Você que roubou meu carro, babaca?}
+{286}{}{Eu sou o tenente de Bishop, }
+{287}{}{Sou um dos tenentes de Bishop. Estou aqui pelo carro dele.}
+{288}{}{Vim buscar as baterias grátis do Sr. Bishop.}
+{289}{}{Você pode fazer um upgrade no Highwayman?}
+{290}{}{Posso comprar algumas baterias de você?}
+{291}{}{Nada. Vou indo agora.}
+{300}{}{Cara, isso NÃO é um banheiro, e você não pode entrar aqui. Agora saia.}
+{301}{}{Garota, isso NÃO é banheiro, e você não pode entrar aqui. Agora saia.}
+{302}{}{Você quer ENTRAR? Aqui? Bem... (Olha você de cima a baixo) ...um homem de verdade tem que fazer seu trabalho. Vamos aos negocios.}
 {303}{}{hã-ham.}
 {304}{}{hã-hã}
-{306}{}{Get down to business.}
-{307}{}{Uh, no thanks. I've changed my mind. Good-bye.}
+{306}{}{Vamos aos negocios.}
+{307}{}{Não, obrigado. Eu mudei de ideia. Adeus.}
 {320}{}{Tudo certo então...}
 {321}{}{Uh-uh-uh}
-{330}{}{Aw, so you just PLAYING with T-Ray? All right, then. Get, woman... I got better bitches to do with my time.}
-{331}{}{Time keepz on ticking, ticking, ticking... inta the fuuuuture}
-{333}{}{If suppose if you can catch dogs, you're welcome to do whatever you want with them. Good-bye.}
-{334}{}{The fact you have sex with dogs does not surprise me. Good-bye.}
-{340}{}{The Highwayman outside? Damn RIGHT you like the look of her. That's one sweet machine, a recent ac-quisition... we're just
- about to spruce her up, make some adjustments, then sell her off to ol' man Bishop.}
-{341}{}{"Adjustments?" What kind of adjustments?}
-{342}{}{Sell her to BISHOP? Look, idiot... Bishop's dea... er, I mean, I can meet Bishop's offer.}
-{343}{}{Sell her to Bishop? Hell, I can meet Bishop's offer and then raise it some.}
-{344}{}{What a coincidence. I'm Bishop's lieutenant, }
-{346}{}{Actually, you won't be selling that car to anyone. The car's mine.}
-{347}{}{Sounds like a good deal. Catch you later.}
-{360}{}{Jazz up the engine, clean out the interior, put a brass rope around the license plate - and kick some of that shit
- outta the trunk, make some room. When we're done, it'll be worth some serious chips to Mr. Bishop.}
-{361}{}{Sell her to Bishop? I can meet Bishop's offer and then raise it some.}
-{362}{}{What a coincidence. I'm one of Bishop's lieutenants: }
-{365}{}{Sounds good. Catch you later then.}
-{375}{}{You're gonna match BISHOP'S offer? That's a lot of scrilla, man. A LOT of chips. Plus, he's one of the top men in
- Reno, y'know? I get him this machine, there's... FRINGE benefits.}
-{376}{}{You're gonna match BISHOP'S offer? That's a lot of scrilla, woman. A LOT of chips. Plus, he's one of the top men in
- Reno, y'know? I get him this machine, there's... FRINGE benefits.}
+{330}{}{Ah, então você está apenas JOGANDO com o T-Ray? Tudo bem então. Saia, mulher... Tenho cadelas melhores para gastar meu tempo.}
+{331}{}{O tempo vai tique-taque, tique-taque, tique-taque… para o futuuuuuro}
+{333}{}{Eu suponho que se você pode capturar cães, pode fazer o que quiser com eles. Tchau.}
+{334}{}{O fato de você transar com cachorros não me surpreende. Adeus.}
+{340}{}{O Highwayman lá fora? Porra, CERTO você gosta do visual dele. Essa é uma verdadeira máquina, e uma aquisição recente... queremos mexer
+ nela, fazer alguns ajustes, então vendê-la para o velho Bishop.}
+{341}{}{"Ajustes?" Que tipo de ajustes?}
+{342}{}{Vender para o BISHOP? Olha, burrao... Bishop está morto... eh, quero dizer, posso igualar a oferta de Bishop.}
+{343}{}{Vender para Bishop? Que porra, eu posso igualar a oferta de Bishop e até a superar um pouco.}
+{344}{}{Que coincidência. Eu sou o tenente de Bishop, }
+{346}{}{Na verdade, você não vai vender aquele carro para ninguém. O carro é meu.}
+{347}{}{Parece um bom negócio. Nos vemos mais tarde.}
+{360}{}{Acelere o motor, limpe o interior, coloque uma corda de metal por volta da placa - e tire umas merdas do porta-malas
+ para abrir algum espaço. Quando terminarmos, valerá umas boas tampas do Sr. Bishop.}
+{361}{}{Vender para Bishop? Posso igualar a oferta de Bishop e até superar um pouco.}
+{362}{}{Que coincidência. Eu sou um dos tenentes de Bishop: }
+{365}{}{Parece bom. Nos vemos mais tarde então.}
+{375}{}{Você vai igualar a oferta de BISHOP? É grana pra caralho, cara. MUITAS tampas. Além disso, ele é um dos principais homens
+ de Reno, sabia? Se eu der pra ele essa belezinha, ganho... benefícios EXTRAS.}
+{376}{}{Você vai igualar a oferta de BISHOP? É grana pra caralho, mulher. MUITAS tampas. Além disso, ele é um dos principais homens
+ de Reno, sabia? Se eu der pra ele essa belezinha, ganho... benefícios EXTRAS.}
 {377}{}{Estou ouvindo...}
-{378}{}{1000 chips change your mind?}
-{379}{}{750 chips change your mind?}
-{380}{}{500 chips change your mind?}
-{381}{}{Actually, I don't have enough chips to make you an offer right now...}
-{382}{}{How about a night with me, T-Ray? You ain't never going to have anything better.}
-{383}{}{My offer's this: I'll leave you in one piece if you give me MY car back right now.}
+{378}{}{1000 tampas mudam sua opiniao?}
+{379}{}{750 tampas mudam sua opiniao?}
+{380}{}{500 tampas mudam sua opiniao?}
+{381}{}{Na verdade, não tenho tampas suficientes para aceitar sua oferta agora...}
+{382}{}{Que tal uma noite comigo, T-Ray? Você nunca terá uma oferta melhor.}
+{383}{}{Minha oferta é a seguinte: eu vou deixá-lo inteiro se você devolver o MEU carro agora.}
 {384}{}{Não importa... eu tenho que ir.}
-{395}{}{Man, that amount couldn't even afford to change my clothes, much less change my mind. }
-{396}{}{Woman, that amount couldn't even afford to change my clothes, much less change my mind. }
-{397}{}{You must think cars are cheap.}
-{398}{}{Let's re-negotiate then.}
-{399}{}{Look, I can't make you an offer right now, but once I get the chips together...}
-{401}{}{No, but your life is. I'll leave you in one piece if you give me back MY car right now.}
-{402}{}{I don't have time for this right now. Good-bye.}
-{420}{}{Naw, I already got one dog I give a bone to, and I ain't looking to start a kennel. From the looks of you, you ain't
- got nothing that would be worth my time.}
-{421}{}{Your loss. Let me see your stock then.}
-{422}{}{Know what? I'm SICK of listening to you and your bullshit. I'm going to carve you into so many pieces you could
- start your own butcher shop.}
-{423}{}{All right then. I'm leaving.}
-{436}{}{Screw negotiating, then. Give me MY car back, right now. Or else.}
-{437}{}{Forget this. I'm going to carve you into so many pieces you could start your own butcher shop.}
-{445}{}{(His eyes slide up and down your body.) I don't know if you're worth all THAT, woman. This is a HIGHWAYMAN we're talking about...}
-{446}{}{Oh, I'm worth all that. And more.}
-{455}{}{Curse me for a fool... it's a done deal, then. I get some playtime, then you can drive that Highwayman outta here.}
-{456}{}{Let's get to it, then.}
-{457}{}{Screw negotiating. Give me MY car back, right now. Or else.}
-{458}{}{I've changed my mind. I think I'm just going to kill you instead.}
+{395}{}{Cara, essa tanto não da nem para trocar de roupa, muito menos mudar de ideia. }
+{396}{}{Mulher, essa tanto não da nem para trocar de roupa, muito menos mudar de ideia. }
+{397}{}{Você deve pensar que os carros são baratos.}
+{398}{}{Vamos renegociar então.}
+{399}{}{Olha, não posso te fazer uma oferta agora, mas assim que eu juntar as tampas...}
+{401}{}{Não, mas sua vida é. Vou deixá-lo inteiro se você devolver o MEU carro agora.}
+{402}{}{Não tenho tempo para isso agora. Adeus.}
+{420}{}{Não, os ossos eu ja dou para o meu cachorro, e não estou querendo juntar um canil. Pelo seu tipinho, você não tem
+ nada que vai valer a pena.}
+{421}{}{Deixe-me ver seu estoque então.}
+{422}{}{Sabe de uma coisa? Ja cansei dessas suas besteiras. Vou te partir em tantos pedaços que vou poder começar meu
+ próprio açougue.}
+{423}{}{Tudo bem então. Estou indo embora.}
+{436}{}{Foda-se a negociação. Me devolva o meu carro, agora mesmo. Ou então.}
+{437}{}{Esqueça. Vou te cortar em tantos pedaços que vou conseguir abrir o meu próprio açougue.}
+{445}{}{(Seus olhos deslizam para cima e para baixo em seu corpo.) Eu não sei se você vale tudo isso, mulher. Estamos falando de um HIGHWAYMAN ...}
+{446}{}{Oh, estou valendo tudo isso. E mais.}
+{455}{}{Eu me amaldiçoo por ser burro... temos um negócio, então. Eu tenho um tempo para brincar, então você pode levar o Highwayman daqui.}
+{456}{}{Então vamos a isso.}
+{457}{}{Foda-se a negociação. Me devolva o meu carro, agora mesmo. Ou então.}
+{458}{}{Eu mudei de ideia. Acho que vou te matar em vez disso.}
 {459}{}{Esqueça. Estou indo.}
-{470}{}{Look, why are you wasting my time? If you ain't got the chips, then you ain't got no business here. I got better
- things to do than be talking to your cheap ass.}
-{471}{}{Only thing that's cheap in here is your life. I'll leave you in one piece if you give me back MY car right now.}
-{472}{}{You know, that was your last chance. Now I'm just going to KILL you.}
-{485}{}{YOUR car? }
-{486}{}{Man, you don't even know what the hell you're talking about. }
-{487}{}{Woman, you don't even know what the hell you're talking about. }
-{488}{}{That Highwayman was scrap, left lying around, and guess what? Now it's ours. 'Course, you got an ISSUE with that, we
- could settle it here and now...}
-{489}{}{Yeah, I got an issue with it. Let's go, chop shop boy...}
-{490}{}{What are you doing with the car?}
-{491}{}{No, that's cool. You can have the damn Highwayman. Piece of shit anyway. Uses too much 'tricity, smells like gecko inside,
- trunk's too small... be perfect for you, though. See ya.}
+{470}{}{Olha, por que você me faz perder tempo? Se você não tem as tampas, então nem tem negócios aqui. Tenho coisas melhores
+ para fazer do que ficar falando com seu rabo estragado.}
+{471}{}{A única coisa barata aqui é a sua vida. Vou deixá-lo inteiro se você devolver o MEU carro agora.}
+{472}{}{Sabe, essa foi sua última chance. Agora eu só vou te MATAR.}
+{485}{}{SEU carro? }
+{486}{}{Cara, você nem sabe do que está falando. }
+{487}{}{Mulher, você nem sabe do que está falando. }
+{488}{}{Esse Highwayman era sucata, largado por aí, e adivinhe? Agora é nosso. Claro, se voce tem um PROBLEMA com isso, podemos
+ resolver aqui e agora...}
+{489}{}{Sim, eu tenho um problema com isso. Vamos, sucateiro...}
+{490}{}{O que você está fazendo com o carro?}
+{491}{}{Não, está certo. Você pode ficar com o maldito Highwayman, é uma bosta de qualquer jeito. Consome muita eletricidade, cheira a gecko por
+ dentro, o porta-malas é muito pequeno... combina muito com você. Até mais.}
 {492}{}{Não, eu não tenho nenhum problema com isso... ainda. Nos vemos por aí.}
-{500}{}{Whoa, hold on there! *Piece of shit? Smells like Gecko?* }
-{501}{}{Man, what kinda Jet you been taking? }
-{502}{}{Woman, what kinda Jet you been taking? }
-{503}{}{This is a HIGHWAYMAN. Not only does it run, but after I fix it up, it's gonna purr like a woman beneath me.}
-{504}{}{I'm sick of listening to you. Eat lead, chop shop boy...}
-{505}{}{What are you fixing on the car?}
-{506}{}{Whatever. I'm outta here.}
-{520}{}{Yeah, that's what I THOUGHT. You better run along now 'fore Momma gets worried about you.}
-{521}{}{No, actually, it's YOUR Mom that gets worried without me around to please her.}
-{522}{}{Let it go and leave quietly.}
-{530}{}{All right, then. It's a done deal. (Scans the money quickly, pockets it.) The Highwayman's all yours. It ain't got no
- battery juice, of course, and it ain't got none of the special amen-ities I was gonna add...}
-{531}{}{What amenities are you talking about?}
-{532}{}{I am sick of this bullshit run-around. Eat lead, chop shop boy...}
-{533}{}{Oh, but you've given me so MUCH already. I'm outta here.}
-{540}{}{(T-Ray wipes the sweat off his body.) Goddamn, woman. All right then, the Highwayman's all yours. It ain't got none
- of the special amen-ities I was gonna add...}
-{541}{}{*Huff-huff* What amenities are you...*huff-huff*...talking about?}
-{542}{}{I am sick of this...*huff-*huff*...bullshit run-around. Eat...*wheeze*...lead, chop shop boy...}
-{543}{}{I...*huff-huff*...got my car back, and I...*huff-huff*...don't want you touching it anymore. I'm... outta here.}
-{550}{}{Sure can. I can jazz up the battery charger, spruce up the engine, clean out the interior a little, give it a shine, put
- a brass rope around the license plate - and  kick some of that shit outta the trunk, make some more room. 500 chips.}
-{551}{}{You know, jazz up the battery charger, spruce up the engine, clean out the interior a little, give it a shine, put a brass
- rope around the license plate - and  kick some of that shit outta the trunk, make some more room. Any of that interest you?
- Only 500 chips.}
-{552}{}{Sure. Here's 500 chips.}
-{553}{}{How about 300 chips?}
-{554}{}{I ain't got that much on me right now. How about I bring it back when I have the cash?}
-{555}{}{How about some more sweet love?}
-{556}{}{How about my body? That interest you?}
-{558}{}{I'm SICK of this bullshit run-around. Eat lead, chop shop boy...}
-{559}{}{I don't want you touching my car anymore. I'm outta here.}
-{575}{}{Done. (Takes money) It's all taken care of. An' look: you ever need batteries, come talk to me, and I'll hook you up.}
-{576}{}{Can I see what you have in stock now?}
-{577}{}{All right, then, thanks. Catch you later, T-Ray.}
-{590}{}{(Shakes his head.) Naw, that ain't gonna cut it. 500 or nothing.}
-{615}{}{Course you can. It's all good. An' look: you ever need any batteries for it, come talk to me, and I'll hook you up.}
-{616}{}{Actually, I need some batteries right now.}
-{617}{}{I could use some batteries, but you know what? I don't feel like paying with chips... would you be interested in something... ELSE?}
-{619}{}{All right, then. Catch you later.}
-{630}{}{(Shrugs) Sorry, we ain't got no batteries now... come back in a week or two, maybe some will have turned up.
- 'Course... we could just conduct bitness ANYWAY...}
+{500}{}{Opa, espera aí! *Qualquer merda? Tem cheiro de gecko?* }
+{501}{}{Mano, quanto jet voce anda tomando? }
+{502}{}{Mulher, quanto de jet você anda tomando? }
+{503}{}{Esse é um HIGHWAYMAN. Não só funciona, mas depois que eu consertar, vai ronronar como uma mulher embaixo de mim.}
+{504}{}{Ja cansei de ouvir. Coma chumbo, sucateiro...}
+{505}{}{O que você está consertando no carro?}
+{506}{}{Tanto faz. Estou saindo daqui.}
+{520}{}{Sim, foi o que eu PENSEI. É melhor você correr agora, antes que mamãe fique preocupada com você.}
+{521}{}{Não, na verdade, é a SUA mamae que fica com saudades de mim quando não estou perto.}
+{522}{}{Deixe-o ir e sai em silêncio.}
+{530}{}{Tudo bem então, trato feito. (Dá uma olhada no dinheiro rapidamente e guarda no bolso.) O Highwayman é todo seu. Não tem bateria,
+ é claro, e não tem nenhuma das regalias adicionais que eu ia colocar...}
+{531}{}{Que tipo de regalias você fala?}
+{532}{}{Já cansei de ficar enrolando aqui. Coma chumbo, sucateiro...}
+{533}{}{Ah, mas você já me deu TANTO. Vou sair daqui.}
+{540}{}{(T-Ray enxuga o suor de seu corpo.) Porra, mulher. Tudo bem então, o Highwayman é todo seu. Não tem nenhuma
+ das regalias especiais que eu ia colocar...}
+{541}{}{*Huff-huff* De que regalias você está...*huff-huff*...falando?}
+{542}{}{Estou cansada disso... *huff-*huff*... só besteiras. Coma...*chiado*...lidere, sucateiro...}
+{543}{}{Eu...*huff-huff*...tenho meu carro de volta, e eu...*huff-huff*...não quero que você rele nele. Estou saindo daqui.}
+{550}{}{Claro que pode. Posso melhorar o carregador de bateria, polir o motor, limpar um pouco o interior, dar um brilho,
+ colocar uma corda de metal em volta da placa - e botar mais espaço nesse porta-malas, é muito pequeno. 500 tampas.}
+{551}{}{Você sabe, melhorar o carregador de bateria, polir o motor, limpar um pouco o interior, dar um brilho, colocar uma
+ corda de metal em volta da placa - e botar um pouco mais de espaço nesse porta-malas, é muito pequeno. Alguma dessas
+ te interessa? Apenas 500 tampas.}
+{552}{}{Claro. Aqui estão 500 tampas.}
+{553}{}{Que tal 300 tampas?}
+{554}{}{Eu não tenho muito comigo agora. Que tal eu voltar quando tiver o dinheiro?}
+{555}{}{Que tal um pouco mais de amor, docinho?}
+{556}{}{Que tal meu corpo? Isso te interessa?}
+{558}{}{Estou DE SACO CHEIO dessa palhaçada. Coma chumbo, sucateiro...}
+{559}{}{Não quero mais que toque no meu carro. Estou saindo daqui.}
+{575}{}{Feito. (Pega o dinheiro) Está tudo resolvido. Olha só: se precisar de baterias, venha falar comigo e eu te dou uma mão.}
+{576}{}{Posso ver o que você tem a venda agora?}
+{577}{}{Tudo bem, então, obrigado. Te vejo mais tarde, T-Ray.}
+{590}{}{(Balança a cabeça.) Não, isso me interessa. 500 ou nada.}
+{615}{}{Claro que você pode, por mim está ótimo. Olha só: se precisar de baterias para isso, venha falar comigo e eu te dou uma mão.}
+{616}{}{Na verdade, eu preciso de algumas baterias agora.}
+{617}{}{Eu poderia pegar algumas baterias, mas quer saber? Não tenho vontade de pagar com tampas... você estaria interessado em outra coisa... OUTRA?}
+{619}{}{Tudo bem então. Te vejo mais tarde.}
+{630}{}{(Dá de ombros) Desculpe, não temos baterias agora... volte em uma semana ou duas, talvez algumas tenham
+ aparecido. 'Claro... nós poderíamos aproveitar o tempo para fazer alguns NEGOCIOS...}
 {631}{}{Tudo certo.}
-{632}{}{Sorry, only when it IS business. Later, T-Ray.}
-{640}{}{Damn, bitch! I just gave you sweet love five minutes ago! You trying to KILL me?}
+{632}{}{Desculpe, apenas quando se TRATA de negócios. Até mais, T-Ray.}
+{640}{}{Porra, vadia! Acabei de te dar um doce amor há cinco minutos! Você quer me MATAR?}
 {641}{}{Agora, espera...}
-{642}{}{C'mon, I need a charge, and only YOUR sweet love is going to do it.}
-{643}{}{Nevermind then. Be that way.}
-{650}{}{Naw, I already got one dog I give a bone to, and I ain't looking to start a kennel. From the looks of you, you ain't
- got nothing that would be worth my time. 500 chips is what sprucing up the Highwayman's gonna cost.}
-{651}{}{All right then. Here's 500 chips.}
-{653}{}{Know what? I'm SICK of listening to your bullshit. I'm going to put you down.}
-{660}{}{(Stops you before you turn away.) Now hold on a minute, woman. I didn't say I didn't HAVE no sweet love for you.
- Let's get down to bitness.}
-{661}{}{(Looks you up and down.) A man's gotta do who a man's gotta do. Let's get down to bitness.}
-{662}{}{Get down to "bitness."}
-{663}{}{No, I've changed my mind. Bye.}
-{670}{}{Hey! The big hero comes 'round to T-Ray's neck o' the woods! Welcome, welcome... }
-{671}{}{Hey, sweet-thing. You come back to relax with the Ray after you done kicking the world's ass? }
-{672}{}{Say... I got something you might be interested in for yo car... IF you still have it.}
-{673}{}{Wut izzit}
+{642}{}{Vamos lá, eu preciso de uma carga, e só o SEU doce amor vai fazer isso.}
+{643}{}{Deixa pra lá então. Seja desse jeito.}
+{650}{}{Não, osso eu só dou pro meu cachorro, e não estou querendo começar um canil. Pelo seu tipinho, você não tem
+ nada que valha o meu tempo. 500 tampas é o que vai custar para ajeitar o Highwayman.}
+{651}{}{Tudo bem então. Aqui estão 500 tampas.}
+{653}{}{Sabe de uma coisa? Eu to PUTO DA CARA de ouvir essas bostas. Você vai se fuder agora.}
+{660}{}{(Para antes de você se virar.) Agora espere um minuto, mulher. Eu não disse que não TENHO nenhum amor doce
+ pra você. Vamos aos negocios.}
+{661}{}{(Olha você de cima a baixo.) Um homem tem que fazer o seu trabalho. Vamos aos negocios.}
+{662}{}{Vamos por a mão na massa.}
+{663}{}{Não, mudei de ideia. Tchau.}
+{670}{}{Ei! O grande herói retorna aos dominios de T-Ray! Bem-vindo, bem vindo... }
+{671}{}{Ei, coisa doce. Você voltou para relaxar com o Ray depois de chutar o cu de todo mundo? }
+{672}{}{Veja... Eu tenho algo que você pode te interessar para o seu carro... SE você ainda o tiver.}
+{673}{}{Qu-e se passa}
 {675}{}{What have you got for the car?}
 {690}{}{Damn, woman! I just gave you sweet love five minutes ago! You trying to KILL me?}
 {691}{}{You wanna go AGAIN? Damn, woman! Don't your legs EVER close?}

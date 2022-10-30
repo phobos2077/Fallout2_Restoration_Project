@@ -35,7 +35,7 @@
 {181}{}{Quando saro' vecchio come te, voglio viaggiare per il mondo.}
 {182}{}{Sei un selvaggio simpatico, non sei come gli altri.}
 {183}{}{Scommetto che ti sei fatto il bagno.}
-{184}{}{Sei piu' sveglio di Torr.}
+{184}{}{Ho un bel sassolino lucido.}
 {185}{}{La punta della tua lancia e' molto tagliente?}
 {186}{}{Voglio essere proprio come te quando saro' grande.}
 {187}{}{Il mio cane adora la carne secca.}
@@ -47,7 +47,7 @@
 {193}{}{Cosa stai indossando?}
 {194}{}{Voglio andare al pascolo con i brahmin!}
 {195}{}{Vieni da lontano?}
-{196}{}{Weeee! Ah, ah, ah!}
+{196}{}{Weeee! Ha ha ha!}
 {197}{}{Non andartene!}
 {198}{}{Hai del cibo?}
 {199}{}{Ti do fastidio?}

@@ -8,12 +8,12 @@
 {210}{}{[Er dreht sich schlagartig zu dir um und springt auf. Dann blickt er dich aufmerksam an und schaut anschließend
  um sich wie ein in die Enge getriebenes Tier. Als seine Augen wieder auf dir ruhen wird sein Blick allmählich klarer,
  während seine Erinnerung anscheinend langsam zurückkehrt. Ziemlich schnell gewinnt er seine Fassung wieder und
- wirkt  plötzlich, trotz seiner Nacktheit, ruhig und selbstsicher.] Ich kenne dich nicht, Kumpel. Du hast sicher nichts
- dagegen,  wenn ich mir etwas anziehe, oder?}
+ wirkt plötzlich, trotz seiner Nacktheit, ruhig und selbstsicher.] Ich kenne dich nicht, Kumpel. Du hast sicher nichts
+ dagegen, wenn ich mir etwas anziehe, oder?}
 {211}{}{Ich schätze, es könnte nicht schad-}
 {212}{}{Ich denke nicht, dass es-}
 {220}{}{Natürlich hast du nichts dagegen. Danke Freundchen. [Er geht an dir vorbei, öffnet einen in der Nähe
- befindlichen  Spind und zieht sich lässig einen feinen, maßgeschneiderten Anzug an. Danach entnimmt er dem Spind
+ befindlichen Spind und zieht sich lässig einen feinen, maßgeschneiderten Anzug an. Danach entnimmt er dem Spind
  diverse Dinge, darunter auch einen Kamm, mit dem er sich geschickt durchs Haar fährt und seine Frisur mit der Präzision
  eines routiniertem Profis herrichtet.] Also, wo ist der Doktor?}
 {221}{}{Der Doktor? Oh, ich nehme an, er ist hier irgendwo. Tatsächlich glaube ich sogar, dass er sich gerade auf dem
@@ -71,7 +71,7 @@ Je mehr du erzählst, umso länger lebst du.}
 {293}{}{Abgemacht...Partner.}
 {294}{}{Ich glaube nicht, dass ich zu begierig darauf bin, mit einem psychotischen Mörder durch das Ödland zu streifen.
 Du bist auf die allein gestellt, "Kumpel". Aber keine Sorge, ich bin sciher, du wirst klarkommen. [Kichern.]}
-{300}{}{Warte mal kurz. Lass mich raten. In den Aufzeichnungen,   die du gelesen hast, steht, dass ich so eine Art
+{300}{}{Warte mal kurz. Lass mich raten. In den Aufzeichnungen, die du gelesen hast, steht, dass ich so eine Art
  verrückter Mörder bin, richtig? Tja, ich hab zwei Wörter für dich: Völliger Schwachsinn. Glaub ja kein Wort davon.}
 {301}{}{Aber das ergibt keinen Sinn, warum sollten sie falsche Angaben über deine Person machen?}
 {302}{}{Der einzige Schwachsinn hier ist das, was aus deinem Mund heraus kommt und ich denke, dass es an der Zeit ist
@@ -99,7 +99,7 @@ Du bist auf die allein gestellt, "Kumpel". Aber keine Sorge, ich bin sciher, du 
 {331}{}{Ähm. Gut. Schön dass ich dir helfen konnte... denke ich.}
 {332}{}{Also wenn man es genau nimmt, haben deine Alpträume gerade erst begonnen, Arschloch. Ich glaub dir nämlich
  kein einziges Wort davon.}
-{340}{}{Wie steht's, Freund? Können wir uns zusammenschließen?  Du wirst dir nicht nur cooler vorkommen, wenn du
+{340}{}{Wie steht's, Freund? Können wir uns zusammenschließen? Du wirst dir nicht nur cooler vorkommen, wenn du
  mit mir abhängst, ich kann dir im Kampf auch eine große Hilfe sein. Zur Hölle, es würde mir nichts ausmachen alleine
  klarkommen zu müssen aber ich habe absolut keine Ahnung was für eine verrückte Scheiße jetzt da draußen auf mich
  lauert. Der erstbeste Baum an den ich pisse, könnte seinen Mund aufmachen und meinen Schwanz abbeißen.}
@@ -237,7 +237,7 @@ Du bist auf die allein gestellt, "Kumpel". Aber keine Sorge, ich bin sciher, du 
 {542}{}{Ähm. Gut. Schön dass ich dir helfen konnte... denke ich.}
 {543}{}{Also wenn man es genau nimmt, haben deine Alpträume gerade erst begonnen, Arschloch. Ich glaub dir nämlich
  kein einziges Wort davon.}
-{550}{}{Wie steht's, Baby? Können wir uns zusammenschließen?     Du wirst dir nicht nur cooler vorkommen, wenn du mit
+{550}{}{Wie steht's, Baby? Können wir uns zusammenschließen? Du wirst dir nicht nur cooler vorkommen, wenn du mit
  mir abhängst, ich kann dir im Kampf auch eine große Hilfe sein. Zur Hölle, es würde mir nichts ausmachen alleine
  klarkommen zu müssen aber ich habe absolut keine Ahnung was für eine verrückte Scheiße jetzt da draußen auf mich
  lauert. Der erstbeste Baum an den ich pinkle, könnte seinen Mund aufmachen und meinen Schwanz abbeißen.}

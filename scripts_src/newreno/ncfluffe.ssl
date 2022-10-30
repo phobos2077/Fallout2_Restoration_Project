@@ -318,7 +318,7 @@ procedure Node016 begin
 end
 procedure Node017 begin
    //if (message_str(SCRIPT_NCPERSON, 100) == "You see one of the Reno townsfolk.") then
-      floater_rand(423-(3*dude_is_male),432+(3*dude_is_male));
+      floater_rand(423-(3*dude_is_male),432+(3*dude_is_female));
    //else
    //   floater_rand(420,422);
 end

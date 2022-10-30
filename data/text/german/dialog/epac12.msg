@@ -408,7 +408,7 @@
 {3070}{}{Um der sichersten Niederlage zu entgehen schlägt man den stärksten zuerst.}
 {3071}{}{Wenn dein Feind gut trainiert ist kannst du dich auf eine Ekstase freuen.}
 {3072}{}{Unterstütze deinen Feind, damit er sich vorbereiten kann.}
-{3073}{}{Derjenige der nicht weiß wie man kämpft aber dafür weiß wann man es tut  
+{3073}{}{Derjenige der nicht weiß wie man kämpft aber dafür weiß wann man es tut 
  wird siegreich sein.}
 {3074}{}{Der vorlaute liegt auf der lauer nach einem Feind der es nicht kann und
  wird so gewinnen.}
@@ -447,7 +447,7 @@
 {3103}{}{Augen sind unsere Seelenfenster.}
 {3104}{}{Das Alter schleicht sich an dich heran wie ein dreckiger alter Mann.}
 {3105}{}{Der Himmel irrt sich nie. Mit der Zeit werden die Sünder ihren Preis zahlen.}
-{3106}{}{Gerechtigkeit ist eine vortreffliche Seele die sich selbst über die Wüste  
+{3106}{}{Gerechtigkeit ist eine vortreffliche Seele die sich selbst über die Wüste 
  da draußen verteilt.}
 {3107}{}{Es ist besser, wenn zehn unschuldige sterben als wenn ein schuldiger
  leiden muss.}

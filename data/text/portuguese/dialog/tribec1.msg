@@ -94,30 +94,30 @@
  trader's soon -- a pudgy one-eyed dog of a man, who I trust about as much as a starving radscorpion. He's not wronged us
  yet, but I've got a feeling about our next meeting.}
 {341}{}{Por que?}
-{342}{}{I don't see how I fit into this. What's your point?}
+{342}{}{Não vejo como entro nisso. Onde você quer chegar?}
 {350}{}{When last we spoke, he boasted he'd be bringing me something truly miraculous, and that I'd be wise to haul all
  the golden gecko hides I could carry to the meet. I don't know what his miracle item is, but it's likely some civilized
  trinket that he'll hope I'll be ignorant of enough to pay far more than it's worth. That's why I'd like you to make the
  trade.}
 {351}{}{Por que eu?}
-{352}{}{Sorry, but I think I'll pass. Bye.}
+{352}{}{Desculpe, mas acho que vou passar. Tchau.}
 {360}{}{Because you're my kin -- a fellow tribal, as they call us -- yet I can tell you've had recent experience with the
  civilized world. If he tries to pull something, you'd be more likely to spot it than me. Besides, I've got a good
  feeling about you, and I've learned to trust my instincts.}
 {361}{}{Because you're my kin -- a fellow tribal, as they call us -- yet I can tell you've had recent experience with the
  civilized world. If he tries to pull something, you'd be more likely to spot it than me. Besides, I've got a good
  feeling about you girl, and I've learned to trust my instincts.}
-{362}{}{Alright. Let's do this.}
-{363}{}{Alright, but give me a moment to get ready.}
+{362}{}{Tudo bem. Vamos fazer isso.}
+{363}{}{Tudo bem, mas me dê um momento para me preparar.}
 {364}{}{Se eu a ajudar, o que há para mim?}
-{370}{}{[He chuckles.] I offer the hospitality of our tribe and the opportunity to impress me. I promise no more than that.}
-{371}{}{Alright. Let's do this.}
-{372}{}{Alright, but give me a moment to get ready.}
+{370}{}{[Ele ri.] Eu ofereço a hospitalidade de nossa tribo e a oportunidade de me impressionar. Não prometo mais do que isso.}
+{371}{}{Tudo bem. Vamos fazer isso.}
+{372}{}{Tudo bem, mas me dê um momento para me preparar.}
 {373}{}{Não interessado. Tchau.}
-{375}{}{Are you ready to go?}
+{375}{}{Você está pronto para ir?}
 {376}{}{Ainda não.}
-{377}{}{Alright. Let's do this.}
-{380}{}{It's up to you to decide.}
+{377}{}{Tudo bem. Vamos fazer isso.}
+{380}{}{A decisão é sua.}
 {390}{}{[Krom examines one of the tribe's newly acquired stimpaks.] These should prove to be quite useful. [He brings
  the stimpak to his nose, sniffs, and frowns. He squirts a little of the crimson fluid onto his hand and tentatively
  tastes it.] Curse the gods! They're filled with brahmin blood! That one-eyed bastard fucked us over. Right now he's

@@ -16,7 +16,8 @@
 {163}{}{Com o que posso ajudar?}
 {168}{}{Só estou olhando, obrigado.}
 {171}{}{Sorte para encontrar Jonny?}
-{172}{}{Eu encontrei este na parte inferior do poço seco antigo. Uma parte do poço tinha caído, ele foi nos escombros. Sinto muito, mas eu acredito que Jonny está morto.}
+{172}{}{Eu encontrei este na parte inferior do poço seco antigo. Uma parte do poço tinha caído,
+ ele foi nos escombros. Sinto muito, mas eu acredito que Jonny está morto.}
 {173}{}{Não, nada ainda.}
 {175}{}{Obrigado por devolver meu filho para mim. Não há nenhuma maneira que eu posso recompensá-lo, mas por favor, tome este
   armadura de couro, como agradecimento. Estive a experimentar com um novo processo de cura; Acho que você vai encontrar este
@@ -88,4 +89,5 @@ Aquele velho galego acabou de sair de algum lugar e esqueceu.}
   iram me ajudar a conseguir o meu filho de volta! Encontre conosco no Santo Farm. Vamos matá-los todos!}
 {230}{}{Você voltou em segurança Jonny volte para Modoc.}
 {240}{}{Por favor, traga meu filho de volta para mim de forma segura.}
-{2199}{}{Isso é arma do BB de Johnny tudo bem ... Eu não acredito que ele está morto. Por favor, continue olhando para o meu menino. Tenho certeza que ele ainda está lá fora.}
+{2199}{}{Isso é arma do BB de Johnny tudo bem ... Eu não acredito que ele está morto. Por favor, continue olhando
+ para o meu menino. Tenho certeza que ele ainda está lá fora.}

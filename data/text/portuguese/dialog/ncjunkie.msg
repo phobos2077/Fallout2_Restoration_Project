@@ -50,7 +50,7 @@
 {229}{}{Nao posso... nao posso continuar assim... isso...}
 {230}{}{Voce viu Jules por aí? Eu preciso de uma correçao.}
 {231}{}{Voce viu Jagged Jimmy J por ai? Eu preciso de uma correçao.}
-{232}{}{Procuro a Farmacia Renesco. Renesco vai armar para mim.}
+{232}{}{Procuro a Farmácia Renesco. Renesco vai armar para mim.}
 {233}{}{O autor desta traduçao esta mais louco que os viciados de New Reno neste momento. Aproveite o game ;)}
 {240}{}{[Canta] Voar voar, Subir subir, Ir por onde for, Descer até o céu cair, Ou mudar de cor, Anjos de gás, Asas de ilusão, E um sonho audaz feito um balão}
 {241}{}{[Canta] No ar no ar eu sou assim, Brilho do farol, Além do mais amargo fim...}
@@ -228,25 +228,24 @@
 {511}{}{Ta me tirando, bandidao? Eu sou uma potencia bombada a jet! Eu vou chutar sua bunda daqui!}
 {512}{}{Voce quer um pouco disso, gangster?! Huh?}
 {513}{}{::Olha para você com os olhos encharcados de droga::}
-{520}{}{Whoa... what are YOU on? Got any to share?}
-{521}{}{I thought *I* was fucked up.}
-{522}{}{Hey, friend... share some of that shit you're on.}
-{523}{}{I'd ask you to fly, but you look like you're already there.}
+{520}{}{Whoa...o que VOCÊ tá usando? Tem um pouco pra dividir?}
+{521}{}{Eu pensei que *EU* tava fodido.}
+{522}{}{Hey, amigo...divide um pouco dessa merda que você tá usando.}
+{523}{}{Te convidaria pra voar, mas parece que voce ja esta.}
 {524}{}{Por que voce sao dois? Esse e teu gemeo?}
-{525}{}{Where did you get that shit you're on?}
-{530}{}{Man, don't look now, but you got this brain in a box following you.}
-{531}{}{Whoa. I must be taking some baaad shit... I'm seeing robot brains running around.}
-{532}{}{If I see that robot with the brain whirring around here again, I'm gonna give up Jet
- forever.}
-{533}{}{I've felt like your robot friend before... tell him he'll be okay once he comes down
- from his high.}
-{534}{}{What the hell happened to your friend with the brain? He lose his body?}
-{535}{}{TELL me that robot brain thing isn't real. Please.}
-{536}{}{Whoa. Check out the robot brain. There's your brain on drugs if I've ever seen it.}
-{537}{}{You wanna fly with me? How about your robot friend?}
-{538}{}{You messin' with me, robot lover? I'm a Jet-pumped powerhouse! I'll kick YOUR ass
- and then your robot's ass!}
-{539}{}{You want some of this, robot-lover?! Huh?}
+{525}{}{Onde você conseguiu essa merda que você tá usando?}
+{530}{}{Cara, não olha agora, mas tem um cérebro numa caixa te seguindo.}
+{531}{}{Puts. To tomando merda demais... Estou vendo cerebros de robos correndo por ai.}
+{532}{}{Se eu ver aquele robô com o cérebro zunindo por aqui de novo, eu vou largar o Jet pra sempre.}
+{533}{}{Ja me senti como seu amigo robo antes... diga a ele que ficara tudo bem assim que descer
+ de onde esta.}
+{534}{}{Que porra aconteceu com o seu amigo com o cérebro? Ele perdeu o corpo dele?}
+{535}{}{DIZ pra mim que essa coisa de cérebro robótico não é real. Por favor.}
+{536}{}{Ei, olhe para aquele cérebro robô. Maldito seja se isso não for um cérebro de um viciado.}
+{537}{}{Voce quer voar comigo? E o seu amigo robo?}
+{538}{}{Voce ta me tirando comigo, pegador de robos? Eu sou o poderoso movido a jet! Eu vou chutar
+ a sua bunda e a desse seu robo!}
+{539}{}{Ta querendo isso aqui, amante de robos?! ham?}
 {540}{}{Huh? Voce e real?}
 {541}{}{Estou tao chapado que... uh, o que eu estava dizendo?}
 {542}{}{Voce quer voar? Fale com a Juuuules.}
@@ -255,25 +254,25 @@
 {545}{}{A merda do Jagged Jimmy é a MELHOR. Te deixa tao alto que voce NUNCA quer descer.}
 {546}{}{Voce esta falando comigo? Voce esta falando comigo?!}
 {547}{}{::Olha para você com os olhos encharcados de droga::}
-{548}{}{Man, don't look now, but you got this mutant following you.}
-{549}{}{Whoa. I must be taking some baaad shit... I'm seeing mutants running around.}
-{550}{}{Am I high, or is your friend two-stories tall?}
-{551}{}{::Laughs:: Your mutant has a vise growing out of his shoulder.}
-{552}{}{Uh... that a mutant, or am I high?}
-{553}{}{Your big friend looks really fucked up.}
-{554}{}{Yer big friend looks all yellowy and shit. ::Giggles::}
-{555}{}{That big guy with you for real? He looks like a mutant.}
-{556}{}{You wanna fly with me? How about your mutant friend?}
-{557}{}{You messin' with me, mutant lover? I'm a Jet-pumped powerhouse! I'll kick your ASS!}
-{558}{}{You want some of this, mutant lover?! Huh?}
-{560}{}{Man, don't look now, but you got this tribal following you.}
-{561}{}{Whoa. Check out that tribal. Big bone.}
-{562}{}{Whoa. Does your friend know he has a bone growing out of his nose?}
-{563}{}{Whoa. I must be taking some baaad shit... I just saw this guy with a bone growing out
- of his nose.}
-{564}{}{Am I high, or has your friend got a bone growing out of his nose?}
-{565}{}{Better tell your friend that somebody shoved a bone up his nose.}
-{566}{}{I can barely see you down there, I'm so high.}
+{548}{}{Cara, nao olhe agora, mas tem um mutante te seguindo.}
+{549}{}{Eta porra, acho que tomei merda demais... Estou vendo mutantes correndo por ai.}
+{550}{}{Eu chapei demais, ou seu amigo tem o tamanho de um sobrado assim mesmo?}
+{551}{}{::Risos:: Seu mutante tem um torno crescendo em seu ombro.}
+{552}{}{Uh... isso eum mutante, ou estou chapado?}
+{553}{}{Seu amigao parece bem fodido.}
+{554}{}{Seu amigao ai parece todo amarelado de merda. ::Risadas::}
+{555}{}{Aquele grandao com voce e de verdade? Ele parece um mutante.}
+{556}{}{Voce quer chapar comigo? E o seu amigo mutante?}
+{557}{}{Ta me tirando, amorzinho de mutante? Eu sou foderoso bombada a jet! Vou chutar sua bunda!}
+{558}{}{Voce quer um pouco disso, amante mutante?! Huh?}
+{560}{}{Cara, nao olhe agora, mas tem um tribal seguindo voce.}
+{561}{}{Opa, olhe essa tribo. Osso grande.}
+{562}{}{Huum, seu amigo sabe que tem um osso crescendo no nariz?}
+{563}{}{Eta porra, tomei merda demais... Acabei de ver um cara com um osso crescendo no
+ nariz.}
+{564}{}{Chapei muito ou seu amigo tem um osso crescendo no nariz?}
+{565}{}{E melhor dizer ao seu amigo que alguem enfiou um osso no nariz dele.}
+{566}{}{Nem consigo te ver ai embaixo de tao alto que estou.}
 {567}{}{Por que voce sao dois? Esse e teu gemeo?}
 {568}{}{Huh? Voce e real?}
 {569}{}{Estou tao chapado que... uh, o que eu estava dizendo?}
@@ -283,14 +282,14 @@
 {573}{}{Se voce ver Renesco, diga que eu darei o dinheiro amanha.}
 {574}{}{A merda do Jagged Jimmy é a MELHOR. Te deixa tao alto que voce NUNCA quer descer.}
 {575}{}{Voce esta falando comigo? Voce esta falando comigo?!}
-{576}{}{You messin' with me? I'm a Jet-pumped powerhouse! I'll kick your ASS!}
+{576}{}{Ta me tirando? Eu sou foderoso bombada a jet! Eu vou chutar sua bunda!}
 {577}{}{Voce quer um pouco disso?! Huh?}
 {578}{}{::Olha para você com os olhos encharcados de droga::}
-{600}{}{Nice...}
+{600}{}{Daora...}
 {601}{}{Mmmm...}
 {602}{}{Você é um amigo.}
 {603}{}{j}
 {604}{}{J}
-{605}{}{Give me a J... ummm...}
-{796}{}{! KICK ASS!! WHAT'S NEXT, BABY, WHAT'S NEXT?!!!}
+{605}{}{Me de um J... ummm...}
+{796}{}{! FODA DEMAIS!! QUEM E O PROXIMO, CARINHA. QUEM?!!!}
 {871}{}{ familia? Pode me passar algum jet?}

@@ -35,7 +35,7 @@
 {134}{}{A Hubologista űrhajó-kilövésnek 95% esélye van, hogy csődöt mond. Tényezők: Nincs üzemanyag, elégtelen tömítőgyűrű, gyenge vezetés, kezdeményezés hiánya.}
 {135}{}{15% esély van arra, hogy a "Kiválasztott" sikeresen végrehajtja a küldetését.}
 {136}{}{Az adatok azt jelzik, hogy az "Enklávé" sokkal erősebb, mint azt korábban hittük. Ne közelítse meg őket!}
-{137}{}{Chances of submarine reappearing in this game: 100%}
+{137}{}{Annak az esélye, hogy egy tengeralattjáró feltűnik ebben a játékban: 100%}
 {138}{}{A tanker csavargóinak 0% százalék esélye van, hogy a raktérben külső segítség nélkül megszüntessék a szörny-járást. Segítségnyújtás testhezállóságának kiszámítása folyamatban.}
 {139}{}{Adat: A Poseidon Olaj Tanker alkalmatlan az útra. Több adatra van szükség.}
 {140}{}{Nem feldolgozható. Több adatra van szükség.}

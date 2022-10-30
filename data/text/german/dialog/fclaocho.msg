@@ -3,7 +3,7 @@
 {102}{}{Du siehst einen Mann in bequemer Arbeitskleidung.}
 {103}{}{Guten Tag! Willkommen in meinem Laden, dem Fliegenden 8. Drachen.}
 {104}{}{Was kann ich für dich tun?}
-{105}{}{Da eggel uuh!     }
+{105}{}{Da eggel uuh! }
 {106}{}{Sachen!}
 {107}{}{Wer bist du?}
 {108}{}{Ich brauche eine Ausrüstung.}

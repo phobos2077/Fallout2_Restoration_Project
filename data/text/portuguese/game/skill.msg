@@ -26,7 +26,7 @@
 {207}{}{Para cura de grandes feridas e membros aleijados.  Sem essa habilidade, levará muito mais tempo para restaurar o uso destes mesmos membros.}
 {208}{}{Movimento silencioso e capacidade de passar despercebido.  Se for bem-sucedido, será muito mais difícil te localizar.  Você não pode correr e se esgueirar ao mesmo tempo.}
 {209}{}{A habilidade de abrir fechaduras sem a chave adequada. O uso de gazua ou gazuas eletrônicas aumentará muito essa habilidade.}
-{210}{}{A habilidade de de tomar as coisas dos outros.  Pode ser usado para roubar pessoas ou lugares.}
+{210}{}{A habilidade de tomar as coisas dos outros. Pode ser usado para roubar pessoas ou lugares.}
 {211}{}{A localização e remoção de armadilhas.  Também a colocação de explosivos para fins de demolição.}
 {212}{}{Abrange uma variedade de habilidades de alta tecnologia, como computadores, biologia, física e geologia.}
 {213}{}{A aplicação prática da habilidade ciência para a fixação de equipamentos quebrados, máquinas e eletrônicos.}

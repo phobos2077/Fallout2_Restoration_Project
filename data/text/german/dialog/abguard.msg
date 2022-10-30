@@ -22,7 +22,7 @@
  Bunkerstadt.}
 {401}{}{Gut zu wissen. Ich habe noch eine Frage.}
 {402}{}{Danke, Tschüss.}
-{500}{}{Wenn jemand arm oder gierig genug ist, um zu versuchen, Gräber auszuheben, ist das seine Sache. Es ist nicht so, dass die Toten  das benutzen, womit sie ohnehin begraben sind.
+{500}{}{Wenn jemand arm oder gierig genug ist, um zu versuchen, Gräber auszuheben, ist das seine Sache. Es ist nicht so, dass die Toten das benutzen, womit sie ohnehin begraben sind.
  Nicht mein Problem... Ich verliere deswegen jeweils keinen Schlaf.}
 {501}{}{Ich möchte dich noch was anderes fragen.}
 {502}{}{Tschüss.}

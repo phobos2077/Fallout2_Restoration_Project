@@ -35,7 +35,7 @@
 {134}{}{Das sind schwere Verletzungen. Für nur 300 Dollar stehen dir meine Dienste zur Verfügung.}
 {135}{}{In Ordnung.}
 {136}{}{Vergiss es.}
-{137}{}{Ich befürchte, dass ich für so schwere Verletzungen  400 Dollar verlangen muss.}
+{137}{}{Ich befürchte, dass ich für so schwere Verletzungen 400 Dollar verlangen muss.}
 {138}{}{In Ordnung.}
 {139}{}{Vergiss es.}
 {140}{}{Setz dich lieber hin, bevor ich dir meinen Preis nenne. Verkrüppelte Gliedmaßen kosten 600 Dollar.}
@@ -69,7 +69,7 @@
 {183}{}{Und wie ist die lange Version?}
 {184}{}{Danke. Ich habe noch weitere Fragen.}
 {185}{}{Danke.}
-{186}{}{Die lange Version ist folgende: Wir sind hier, weil wir die Nachkommen der Besatzung des Atom-U-Bootes Shih-Huang-Ti sind. Als die Raketen fielen,  während der Großen Flut, versagten die Systeme an Bord des U-Bootes, so dass wir viele Tage im Dunkeln herumtrieben.}
+{186}{}{Die lange Version ist folgende: Wir sind hier, weil wir die Nachkommen der Besatzung des Atom-U-Bootes Shih-Huang-Ti sind. Als die Raketen fielen, während der Großen Flut, versagten die Systeme an Bord des U-Bootes, so dass wir viele Tage im Dunkeln herumtrieben.}
 {187}{}{[Weiter]}
 {188}{}{Schließlich trieben wir an Land. Wir befanden uns in der Nähe des zerstörten San Francisco. Der größte Teil der Stadt war im Krieg verwüstet worden. Also mussten wir mit den wenigen Überlebenden, die in die Stadt zurückgeirrt waren, eine neue Gesellschaft aufbauen.}
 {189}{}{[Weiter]}
@@ -106,13 +106,13 @@
 {220}{}{Zeit für die erweiterten Phoenix-Implantate.}
 {221}{}{Hmm... vergiss es. Ich habe weitere Fragen.}
 {222}{}{Im Augenblick keine. Wiedersehn.}
-{223}{}{Großartig. Dazu brauche ich eine Kampfrüstung und ach so, 5500 Dollar. Das  Ganze wird zwei Tage dauern und du darfst nicht am Schorf herumkratzen.}
+{223}{}{Großartig. Dazu brauche ich eine Kampfrüstung und ach so, 5500 Dollar. Das Ganze wird zwei Tage dauern und du darfst nicht am Schorf herumkratzen.}
 {224}{}{Na, dann los.}
 {225}{}{Vergiss es. Bis dann.}
 {226}{}{Die Hautstabilisatorrüstung also? Das wird dich einige Tage deines Lebens kosten, außerdem noch 33000 Dollar, eine Kampfrüstung und eine Menge nagelneuer Narben, die du tragen wirst, solange du lebst.}
 {227}{}{Ach ja? Das kann ich mir ALLES leisten.}
 {228}{}{Hmm. Ich glaube kaum, dass ich soviel bezahlen will. Bis dann.}
-{229}{}{Wenn du dich von 8500 Dollar, ein paar Tagen deines Lebens und  einem Kampfrüstungsset trennen kannst, können wir gleich mit der Operation beginnen}
+{229}{}{Wenn du dich von 8500 Dollar, ein paar Tagen deines Lebens und einem Kampfrüstungsset trennen kannst, können wir gleich mit der Operation beginnen}
 {230}{}{Dann leg mal los, Doc. Ich bin bereit.}
 {231}{}{Das ist aber ganz schön heftig. Ich werd's mir noch mal überlegen.}
 {232}{}{Das ist eine schwierige Operation. Das wird dich dein "gutes Aussehen", eine Kampfrüstung und 49000 Dollar kosten. Bist du bereit, das anzulegen?}

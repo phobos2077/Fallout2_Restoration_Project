@@ -63,7 +63,11 @@ ou animais.}
   uma vontade própria. Comigo até agora?}
 {144}{}{Uh... sim.}
 {145}{}{Sim, eu sigo você.}
-{146}{}{Bem, nós conseguimos! Nós, na verdade, conseguiu aumentar a sua inteligência. No entanto, comecei a suspeitar de que fomos longe demais. Que, talvez, eles foram muito mais esperto do que eles estavam aparentando. Então, quando fui transferido para cá eu trouxe um deles comigo para que eu pudesse colocar a minha teoria para o teste.}
+{146}{}{Bem, nós conseguimos! Nós, na verdade, conseguiu aumentar
+ a sua inteligência. No entanto, comecei a suspeitar de que fomos
+ longe demais. Que, talvez, eles foram muito mais esperto do que
+ eles estavam aparentando. Então, quando fui transferido para cá
+ eu trouxe um deles comigo para que eu pudesse colocar a minha teoria para o teste.}
 {147}{}{E?}
 {148}{}{Eu tinha razão! Os garras mortais aparentemente estão jogando
   burro, aguardando seu tempo e tentando aprender o máximo que puderem

@@ -5,14 +5,6 @@
 {104}{}{Che cosa fai?}
 {105}{}{Ug.}
 {106}{}{Beh... non saprei. Sono nuovo di queste parti e ho visitato solo queste zone.}
-{107}{}{New Reno.}
-{108}{}{Vault City.}
-{109}{}{Redding.}
-{110}{}{The Den.}
-{111}{}{San Francisco.}
-{112}{}{New California Republic.}
-{113}{}{Una miniera abbandonata.}
-{114}{}{An old, abandoned facility.}
 {115}{}{No, li' ci sono gia' stato. Grazie lo stesso.}
 {116}{}{New Reno -- un gran bel posto dove andare. Sesso, droghe e gioco d'azzardo. Cosa si puo' chiedere di piu'? Ecco, lascia che ti mostri dove si trova.}
 {117}{}{Grazie. Ciao.}
@@ -52,3 +44,11 @@
 {148}{}{Ho abusato della tua ospitalita'.}
 {149}{}{Devo lasciarti.}
 {150}{}{Grazie. Ho bisogno di informazioni su altri posti.}
+{1107}{}{New Reno.}
+{1108}{}{Vault City.}
+{1109}{}{Redding.}
+{1110}{}{The Den.}
+{1111}{}{San Francisco.}
+{1112}{}{New California Republic.}
+{1113}{}{Una miniera abbandonata.}
+{1114}{}{An old, abandoned facility.}

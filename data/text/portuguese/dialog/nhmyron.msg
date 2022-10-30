@@ -1,94 +1,94 @@
-{100}{}{You see Myron! Myron, baby, Myron!}
-{150}{}{You see a pasty-faced teenager leering at you. His hair is greasy, and he smells faintly of formaldehyde.}
-{151}{}{You see Myron. He's scoping you out from the corner of his eye.}
-{200}{}{You see a pasty-faced teenager. His hair is greasy, and he smells faintly of formaldehyde.}
-{201}{}{You see Myron. He's looking around like a ferret.}
-{202}{}{You see Myron. He sniffs occasionally, as if he has a cold.}
-{203}{}{You see Myron. He looks bored.}
-{204}{}{You see Myron. As you watch, he gives a wide yawn, then rubs his eyes.}
-{210}{}{Get off your asses and get in here, guys! We got an intruder!}
+{100}{}{Você vê Myron! Myron, querido, Myron!}
+{150}{}{Você vê um adolescente pálido olhando para você maliciosamente. Seu cabelo está oleoso e ele cheira levemente a formaldeído.}
+{151}{}{Você vê Myron. Ele te observa com o canto dos olhos.}
+{200}{}{Você vê um adolescente de rosto pálido. Seu cabelo está oleoso e ele cheira levemente a formaldeído.}
+{201}{}{Você vê Myron. Ele está olhando em volta como um furão.}
+{202}{}{Você vê Myron. Ele cheira ocasionalmente, como se estivesse resfriado.}
+{203}{}{Você vê Myron. Ele parece entediado.}
+{204}{}{Você vê Myron. Enquanto você observa, ele dá um grande bocejo, depois esfrega os olhos.}
+{210}{}{Levantem essas bundas e entrem aqui, caras! Temos um intruso!}
 {215}{}{O que diabos você quer?}
-{216}{}{If you're here for Jet, don't waste my time, just get out.}
+{216}{}{Se você está aqui por jet, nem perca meu tempo, apenas saia.}
 {217}{}{Pensei ter cheirado alguma coisa...}
-{225}{}{Hell-oooo, beautiful.}
-{226}{}{Come over here and talk to me a minute. I don't bite.}
-{227}{}{Don't tease. Come on over.}
-{228}{}{I think loooove just walked in.}
-{229}{}{Come here often?}
-{230}{}{Mmmm-mmmm. Those legs go all the way up?}
-{235}{}{What is that smell? Smells like a tribal.}
-{236}{}{Nice bone on your friend, there. Tres chic.}
-{237}{}{That tribal your slave?}
-{238}{}{Your tribal friend over-compensating for something?}
-{239}{}{How the hell did that thing get in here?}
-{240}{}{Great. Now they're letting mutants in here.}
-{241}{}{Is that really a vise on yer mutant's shoulder?}
-{242}{}{That mutant your slave?}
-{243}{}{Does yer ugly mutant friend get mad easy?}
-{244}{}{What is that smell? Smells like a mutant.}
-{255}{}{What stinks? Smells like something died.}
-{256}{}{Great. Now they're letting ghouls in here.}
-{257}{}{You need to air out that ghoul of yours. He smells pretty ripe.}
-{258}{}{That ghoul radioactive?}
-{259}{}{Rub a skunk on your ghoul so it smells better, OK?}
-{265}{}{Are we going to do something sometime soon?}
-{266}{}{Let's get more women in this chicken-shit outfit.}
-{267}{}{Could we go somewhere where there's more women?}
-{268}{}{You should be glad I'm with you to point out all your stupid mistakes.}
-{375}{}{Hey, I'm dying over here! Give me a stimpack already!}
-{376}{}{Is this my blood?}
+{225}{}{Olááááá, coisa linda.}
+{226}{}{Venha aqui e fale comigo um minuto. eu não mordo.}
+{227}{}{Não provoque. Venha.}
+{228}{}{Acho que amoooor acabou de entrar.}
+{229}{}{Vem aqui com frequência?}
+{230}{}{Mmmm-mmmm. Essas pernas se abrem mais?}
+{235}{}{Que cheiro é esse? Tem cheiro de tribal.}
+{236}{}{Belo osso do seu amigo aí. Muito chique.}
+{237}{}{Aquele tribal é seu escravo?}
+{238}{}{Seu amigo tribal compensa mais por alguma coisa?}
+{239}{}{Como que essa merda entrou aqui?}
+{240}{}{Maravilha. Agora eles estão deixando mutantes entrarem aqui.}
+{241}{}{Isso é um torno de verdade no ombro do seu mutante?}
+{242}{}{Aquele mutante é seu escravo?}
+{243}{}{Seu amigo mutante feio fica bravo com facilidade?}
+{244}{}{Que cheiro é esse? Tem cheiro de mutante.}
+{255}{}{O que tá fedendo? Parece alguma coisa morta.}
+{256}{}{Ótimo. Agora eles deixam ghouls entrar aqui.}
+{257}{}{Você precisa arejar esse seu ghoul. Ele cheira coisa morta.}
+{258}{}{Esse ghoul é radioativo?}
+{259}{}{Esfregue um gambá no seu ghoul para que ele cheire melhor, ok?}
+{265}{}{Vamos fazer algo em logo?}
+{266}{}{Vamos encontrar algumas mulheres nesse galinheiro.}
+{267}{}{Podemos ir a algum lugar onde tenham mais mulheres?}
+{268}{}{Você deveria estar feliz por eu estar com você para apontar todos os seus erros estúpidos.}
+{375}{}{Ei, estou morrendo aqui! Me dê um stimpack já!}
+{376}{}{Este é o meu sangue?}
 {377}{}{Médico!}
-{378}{}{Owwwww. Fuck! Owwwww, that hurts!}
-{379}{}{Ow! That smarts!}
+{378}{}{Owwwww. Porra! Owwwww, isso dói!}
+{379}{}{Ai! Que esperteza!}
 {380}{}{Owwwwwwww Owwwww Ow. Ow. Ow?}
-{381}{}{Owwww. Wish SOMEONE would patch these wounds.}
-{390}{}{Give me a goddamn stimpack before I pass out!}
-{391}{}{Give me a damn stimpack! I'm going into shock!}
-{392}{}{Somebody give me some first aid, fast! I'm dying here!}
+{381}{}{Owwww. Gostaria que ALGUÉM curasse esses machucados.}
+{390}{}{Me dê essa merda de stimpack antes que eu desmaie!}
+{391}{}{Me dê um stimpack logo! Vou entrar em choque!}
+{392}{}{Alguém me dê uns primeiros socorros, rápido! Estou morrendo aqui!}
 {400}{}{Nossa... estou me sentindo um meio fraco...}
-{401}{}{Let's see... I'm nauseous... palpitations... fever. Most likely poison.}
-{402}{}{Uh... can't... last... much... longer... poison... spreading...}
-{403}{}{Could someone please suck this poison out?}
-{410}{}{Is that me glowing? Give me some Rad-X next time we dick around in radiation zones, okay?}
-{411}{}{I need some RadAway before the radiation eats my Gnads-away.}
-{412}{}{Why don't we just drink the radioactive goo next time? At least we'll die faster!}
-{413}{}{I could power New Reno with all the radiation in my body.}
-{414}{}{I'm glowing brighter than New Reno at midnight. Anybody got some RadAway?}
-{415}{}{Great. A little radiation, and I'm a human flashlight.}
-{416}{}{Somebody let me hold the RadAway. I won't use all of it. I promise.}
-{425}{}{Why don't we go back to the first level of the dungeon where all the kobolds are?}
-{426}{}{Good thing playing D&D all those years taught me a few things about courage.}
-{427}{}{Pass the Buffout. I think I'm going to need it soon.}
-{428}{}{Great place. Great place to visit. How about we keep our stay short?}
-{429}{}{Oh, this is MUCH better than being in some cozy whorehouse.}
-{430}{}{Let's get in, get out, all right?}
-{431}{}{How about we visit this place later?}
-{432}{}{Why the hell are we here?}
-{433}{}{This place ain't doing much for my morale.}
-{434}{}{I say we send ol' Bonenose to check out the area. Alone.}
-{435}{}{Why don't we send ol' Bone-nose out to scout the area?}
-{445}{}{Why don't we send ol' Marcus out to scout the area?}
-{446}{}{I say we send Marcus out to check out this area. Alone.}
-{447}{}{Pass the Buffout. I think I'm going to need it soon.}
-{448}{}{Why don't we go back to the first level of the dungeon where all the kobolds are?}
-{449}{}{Good thing playing D&D all those years taught me a few things about courage.}
-{450}{}{Great place. Great place to visit. How about we keep our stay short?}
-{451}{}{Oh, this is MUCH better than being in some cozy whorehouse.}
-{452}{}{Let's get in, get out, all right?}
-{453}{}{How about we visit this place later?}
-{454}{}{Why the hell are we here?}
-{455}{}{This place ain't doing much for my morale.}
-{456}{}{Let's send ol' Lenny to check out this area. Alone.}
-{457}{}{Why don't we send ol' Lenny out to scout the area?}
-{465}{}{Hey, thanks. I could use a little pick me up.}
-{466}{}{Nothing like a strict drug regimen to keep my mind limber.}
-{467}{}{This doesn't mean we're married, does it?}
-{468}{}{Got any weed?}
-{469}{}{Let me hold the stimpacks, okay?}
+{401}{}{Vejamos... tenho náuseas... palpitações... febre. Isso é provavelmente veneno.}
+{402}{}{Uh... não pode... durar... muito... mais tempo... veneno... se espalhando...}
+{403}{}{Alguém poderia sugar esse veneno?}
+{410}{}{Sou eu que estou brilhando? Me dê um pouco de Rad-X da próxima vez que andaremos em zonas radioativas, ok?}
+{411}{}{Preciso de um pouco de RadAway antes que a radiação destrua minhas bolas.}
+{412}{}{Por que não bebemos um suco de radiação da próxima vez? Pelo menos vamos morrer mais rápido!}
+{413}{}{Eu poderia alimentar New Reno com toda a radiação do meu corpo.}
+{414}{}{Estou brilhando mais do que New Reno à meia-noite. Alguém tem RadAway?}
+{415}{}{Excelente. Um pouco de radiação, eu sou uma lanterna humana.}
+{416}{}{Alguém me deixou levar o RadAway. Eu não vou usar tudo isso, prometo.}
+{425}{}{Por que não voltamos ao primeiro nível da masmorra onde estão todos os kobolds?}
+{426}{}{Ainda bem que jogar D&D todos esses anos me ensinou algumas coisas sobre coragem.}
+{427}{}{Passe o Buffout. Acho que vou precisar logo.}
+{428}{}{Ótimo lugar. Ótimo lugar para visitar. Vamos demorar quanto pra ir embora?}
+{429}{}{Oh, isso é MUITO melhor do que estar em algum bordel aconchegante.}
+{430}{}{Vamos entrar e sair, está bem?}
+{431}{}{Que tal visitarmos este lugar mais tarde?}
+{432}{}{Afinal, por que estamos aqui?}
+{433}{}{Este lugar não está fazendo nenhum favor ao meu humor.}
+{434}{}{Digo para mandarmos o velho Osso-No-Nariz para verificar a área. Sozinho.}
+{435}{}{Por que não mandamos o velho Nariz-de-Osso para explorar a área?}
+{445}{}{Por que não enviamos o velho Marcus para explorar a área?}
+{446}{}{Eu digo para enviarmos Marcus para verificar esta área. Sozinho.}
+{447}{}{Passe o Buffout. Acho que vou precisar logo.}
+{448}{}{Por que não voltamos ao primeiro nível da masmorra onde estão todos os kobolds?}
+{449}{}{Ainda bem que jogar D&D todos esses anos me ensinou algumas coisas sobre coragem.}
+{450}{}{Ótimo lugar. Ótimo lugar para visitar. Vamos demorar quanto pra ir embora?}
+{451}{}{Oh, isso é MUITO melhor do que estar em algum bordel aconchegante.}
+{452}{}{Vamos entrar e sair, está bem?}
+{453}{}{Que tal visitarmos este lugar mais tarde?}
+{454}{}{Afinal, por que estamos aqui?}
+{455}{}{Este lugar não está fazendo nenhum favor ao meu humor.}
+{456}{}{Vamos enviar o velho Lenny para verificar a área. Sozinho.}
+{457}{}{Por que não enviamos o velho Lenny para explorar a área?}
+{465}{}{Ei, obrigado. Eu poderia usar um pouco para me acordar.}
+{466}{}{Nada como um regime rigoroso de drogas para manter minha mente ágil.}
+{467}{}{Isso não significa que somos casados, não é?}
+{468}{}{Tem alguma erva?}
+{469}{}{Deixe eu levar os stimpacks, ok?}
 {470}{}{Ahhhhhhhhh.}
 {471}{}{Ooooooohhh. Aaaaaaaah. Mmmmmm.}
-{472}{}{I love it when you do that.}
-{473}{}{Drugs make me feel all pixilated.}
+{472}{}{Eu adoro quando você faz isso.}
+{473}{}{As drogas me fazem sentir... pixealizado.}
 {485}{}{Hey, don't use that shit on me! Save it for addicts!}
 {486}{}{Look, I don't want to fly, and you don't either. Bury that shit somewhere.}
 {487}{}{Why don't you give that shit to ol' Bone-nose?}
@@ -598,12 +598,12 @@
 {1816}{myn1005b}{All right, I'll just watch your ass... er... uh, back carefully.}
 {1820}{}{Actually, forget that: Stay close to me instead.}
 {1822}{}{Spread out even more, Myron. It's best for both of us.}
-{1824}{}{I'm counting on it. Now let's go.}
-{1825}{}{Greeeeat. Let's go.}
-{1835}{myn1006a}{All right, I'll keep an eye on things back here. Gives me a good position to practice my burst-fire technique.}
-{1836}{myn1006b}{Wha -- do I have B.O. or something?! Sheesh.}
-{1841}{}{Come a little closer, Myron.}
-{1844}{}{Whatever. Now let's go.}
+{1824}{}{Estou contando com isso. Agora vamos.}
+{1825}{}{Oootimo. Vamos lá.}
+{1835}{myn1006a}{Tudo bem, vou ficar de olho nas coisas por aqui. Me de uma boa posição para praticar a minha técnica de tiro rápido.}
+{1836}{myn1006b}{O que - eu tenho CC ou alguma coisa assim?! Meu Deus.}
+{1841}{}{Se aproxime um pouco, Myron.}
+{1844}{}{Que seja. Agora vamos.}
 {1845}{}{If it was just your body odor, I could stand it. Let's go.}
 {1860}{myn232a}{All right.}
 {1863}{}{Kid, your ego just wrote a check your body can't cash. Get ready to die.}
@@ -650,7 +650,7 @@
 {5851}{}{Sim...?}
 {5861}{}{I thought so.}
 {6208}{}{?}
-{6218}{}{ go}
+{6218}{}{ vai}
 {6226}{}{ KILL}
 {6247}{}{'s fren?}
 {6256}{}{ drenk}

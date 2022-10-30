@@ -27,9 +27,6 @@
 #define DOOR_STATUS                     STATE_WOOD
 #define LOCK_STATUS                     STATE_STANDARD_LOCK
 
-/* Penalties for Lock difficulty based on whether or not you are using lockpicks. */
-#define Lock_Bonus                      (-20)
-
 #define RAT_KEY                         PID_TRAPPER_TOWN_KEY
 
 procedure key_unlock_door;

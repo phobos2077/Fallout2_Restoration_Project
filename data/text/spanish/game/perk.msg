@@ -195,8 +195,8 @@
 {1174}{}{Sabes como despellejar geckos para conseguir sus pieles.}
 {1175}{}{Tienes una protección inherente contra ataques físicos}
 {1176}{}{Tienes una protección extra inherente contra ataques físicos}
-{1177}{}{Tienes una protección inherente contra ataques de energía.}
-{1178}{}{Tienes una protección extra inherente contra ataques de energía.}
+{1177}{}{You have inherent protection against thermal attacks.}
+{1178}{}{You have extra inherent protection against thermal attacks.}
 {1179}{}{Ganas un 10% más de Resistencia a la Radiación y al Veneno.}
 {1180}{}{Con este extra, ganas +1 a tu Fuerza cuando tus Puntos de Salud descienden por debajo de la mitad.}
 {1181}{}{Estás más alerta en el exterior y los enemigos son menos capaces de pillarte por sorpresa. Con este extra ganas un bono de +3 a tu Percepción en los encuentros aleatorios a la hora de determinar el lugar.}

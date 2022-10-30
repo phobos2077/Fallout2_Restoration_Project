@@ -3,7 +3,7 @@
 {151}{}{Você vê uma prostituta. Ela pisca pra você.}
 {152}{}{Você vê uma prostituta. Seus olhos demonstram calor.}
 {153}{}{Você vê uma prostituta. Ele cheira a flores.}
-{154}{}{Você vê uma prostituta. Ela tem um cheiro de mãe.}
+{154}{}{Você vê uma prostituta. Ela tem um cheiro da sua mãe.}
 {155}{}{Você vê uma prostituta. É um mistério pra você saber como os trapos dela conseguem segurar seus seios.}
 {156}{}{Você vê uma prostituta. Parece que ela mata seus parceiros e os come.}
 {157}{}{Você vê uma prostituta. Ela te aprecia como se você fosse um joalheiro.}
@@ -24,7 +24,7 @@
 {198}{}{Ei, docinho? Alguma vaga pra mim?}
 {199}{}{Quando sai o seu novo filme?}
 {200}{}{Mmmm-mmmm. Belo trabalho, neném.}
-{201}{}{O que você que que EU faça, garotão?}
+{201}{}{O que você que EU faça, garotão?}
 {202}{}{Opa. Eu deixei cair uma coisa na sua calça. Deixa que eu pego.}
 {203}{}{Eu adorei você no Great Balls for Hire.}
 {204}{}{Eu adorei você no Good Will Humping.}
@@ -1257,7 +1257,7 @@
 {3155}{}{Você vê uma prostituta. Parece que ela mata seus parceiros e os come.}
 {3156}{}{Você vê uma prostituta. Ela te aprecia como se você fosse um joalheiro.}
 {3157}{}{Você vê uma prostituta. Suas roupas em trapos estão jogadas sedutivamente ao redor de seu corpo.}
-{3158}{}{You see one of the Cat's Paw girls. Her tattered clothes are draped seductively around her body.}
+{3158}{}{Você vê uma das garotas da Garra da Gata. Suas roupas esfarrapadas estão coladas de forma sedutora ao redor de seu corpo.}
 {3200}{}{Oh, isso! Vai! Mais rápido! Vai! Vaivaivaivai!!! Oh! Depressa! Vai! OOOOOOHH.}
 {3201}{}{Hmm! Mais rápido! Ooooh! Oh! Sim! SIM! OOH! OOOH! Agora pague no
  caixa.}

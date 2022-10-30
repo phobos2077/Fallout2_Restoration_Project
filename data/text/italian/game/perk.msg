@@ -195,8 +195,8 @@
 {1174}{}{Conosci il modo corretto per scuoiare i gecki senza rovinare le loro pelli.}
 {1175}{}{Hai una protezione interna contro gli attacchi fisici.}
 {1176}{}{Hai una protezione interna extra contro gli attacchi fisici.}
-{1177}{}{Hai una protezione interna contro gli attacchi ad energia.}
-{1178}{}{Hai una protezione interna extra contro gli attacchi ad energia.}
+{1177}{}{You have inherent protection against thermal attacks.}
+{1178}{}{You have extra inherent protection against thermal attacks.}
 {1179}{}{Guadagni +10% nella resistenza al veleno e alle radiazioni.}
 {1180}{}{Con questa Strenna aggiungi +1 alla tua Forza quando scendi sotto la meta' del numero massimo di punti vita.}
 {1181}{}{Sei un viaggiatore che sta sempre in guardia ed e' piu' difficile che i nemici ti sorprendano. Con questa Strenna aggiungi +3 alla tua Percezione negli incontri casuali per determinare le posizioni.}

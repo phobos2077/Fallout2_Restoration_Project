@@ -26,7 +26,7 @@
 {173}{}{Sé que puedo hacerlo. Tan sólo necesito algunas piezas sueltas. Hay una vieja radio en mi choza de Klamath que es exactamente lo que necesito. ¿Has estado donde los Dunton? Mi choza... bueno, estaba justo al este de su local.}
 {174}{}{¿Quieres decir esta radio?}
 {175}{}{Iré a buscarla.}
-{176}{}{Hmmm...  Volveré.}
+{176}{}{Hmmm... Volveré.}
 {177}{}{¡Eso es genial! Tendré la radio arreglada en un momento.}
 {178}{}{Vale, hablaré con Metzger.}
 {179}{}{Gracias.}

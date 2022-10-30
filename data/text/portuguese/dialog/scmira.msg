@@ -3,7 +3,7 @@
 {102}{}{Well, she's young and attractive, but there's just a look in her eye that says she don't take no crap from anybody. That and the spiked knuckles hanging on the chain around her neck.}
 {103}{}{Mira's the name. What'll ya have, stranger?}
 {104}{}{Hello again. What'll it be?}
-{105}{}{Drink.}
+{105}{}{Bebida.}
 {106}{}{Vault 13?}
 {107}{}{GECK?}
 {108}{}{I don't care. Give me the house special.}

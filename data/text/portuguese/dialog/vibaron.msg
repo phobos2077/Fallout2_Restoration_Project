@@ -77,7 +77,7 @@
 {401}{}{[Bate o pe enquanto espera.]}
 {402}{}{[Assobia enquanto espera.]}
 {403}{}{[Checa suas armas enquanto espera.]}
-{404}{}{[Fica ai quieto olhando para os os guardas da caravana enquanto ouve os sons de sua esposa sendo profanada pelo mestre comerciante, e vendo sua dignidade ser arrancada de voce a cada bimbada que tua mulher leva.]}
+{404}{}{[Fica ai quieto olhando para os guardas da caravana enquanto ouve os sons de sua esposa sendo profanada pelo mestre comerciante, e vendo sua dignidade ser arrancada de você a cada bimbada que tua mulher leva.]}
 {410}{}{[Uma hora depois, voce ve Robert e Miria, agora suados e desgrenhados de sua brincadeira sexual, andando de volta para voce. Percebe que Miria esta mancando levemente. O mercador sorri para voce enquanto volta a apertar o cinto.] Puta merda, sua esposa e realmente uma delicia, amigo. Se voce precisar convencer um comerciante a fazer outra coisa, pode me procurar. Agora, eu preciso ir, foi um prazer fazer negecios com voce.}
 {411}{}{Seja o que for. Tchau.}
 {412}{}{A qualquer momento. Tchau.}

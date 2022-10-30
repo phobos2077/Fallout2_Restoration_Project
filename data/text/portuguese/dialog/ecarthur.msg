@@ -19,7 +19,8 @@
 {116}{}{Nós da Irmandade do Aço procuramos encontrar esta arma mais devastadora de nossos antepassados, e
   assegurar daqueles que abusariam do poder da Sagrada Grade Mágica de Antioquia.}
 {117}{}{Por quê?}
-{118}{}{Bem...porque a Irmandade do Aço é dedicada a proteger os fracos e indefesos, e essa coisa podia machucar alguém.}
+{118}{}{Bem...porque a Irmandade do Aço é dedicada a proteger os fracos e indefesos, e essa coisa podia machucar
+ alguém.}
 {119}{}{Por quê?}
 {120}{}{Umm ... porque é realmente a única coisa moral a fazer.}
 {121}{}{Por quê?}
@@ -40,8 +41,8 @@
   Apesar.}
 {134}{}{Já que você tem dois deles, talvez você poderia me dar um.}
 {135}{}{Não. Não. Não conseguiria fazer isso. Não seria correto terminar sua busca facilmente. Há mais alguns
-  daquele jeito. Vá buscar o seu próprio. [Ele aponta uma direção da mesma maneira que você apontou quando você
-  disse-lhe onde estava a Granada Mágica de Antioquia.]}
+ daquele jeito. Vá buscar o seu próprio. [Ele aponta uma direção da mesma maneira que você apontou quando você
+ disse-lhe onde estava a Granada Mágica de Antioquia.]}
 {136}{}{[FIM]}
 {200}{}{Você fala a língua do rei?}
 {201}{}{Hellooo.}

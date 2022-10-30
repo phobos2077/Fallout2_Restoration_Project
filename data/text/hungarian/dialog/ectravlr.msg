@@ -5,14 +5,6 @@
 {104}{}{Mivel foglalkozol?}
 {105}{}{Aghhh!}
 {106}{}{Hát... nem biztos, hogy tudok segíteni. Új vagyok ezen a környéken, még csak az alábbi helyeken voltam.}
-{107}{}{New Reno.}
-{108}{}{Menedékváros.}
-{109}{}{Redding.}
-{110}{}{The Den.}
-{111}{}{San Francisco.}
-{112}{}{New California Republic.}
-{113}{}{Egy elhagyatott bánya.}
-{114}{}{An old, abandoned facility.}
 {115}{}{Most ennyi elég is lesz. Köszönöm.}
 {116}{}{New Reno -- now that's a great place to go. Sex, drugs and gambling. What more can one ask for?
  Here, let me show you where it is.}
@@ -53,3 +45,11 @@
 {148}{}{Túl sokáig időztem itt.}
 {149}{}{Mennem kell.}
 {150}{}{Thanks. I need directions to some other places.}
+{1107}{}{New Reno.}
+{1108}{}{Menedékváros.}
+{1109}{}{Redding.}
+{1110}{}{The Den.}
+{1111}{}{San Francisco.}
+{1112}{}{New California Republic.}
+{1113}{}{Egy elhagyatott bánya.}
+{1114}{}{An old, abandoned facility.}

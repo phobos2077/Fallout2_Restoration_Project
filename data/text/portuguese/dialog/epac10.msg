@@ -47,8 +47,8 @@
   Eu finalmente descobri o Santo 13. No entanto, estou curioso o que mais você pode saber desses lugares.}
 {290}{}{Eu vou te dizer o que, broto. Você precisa de ajuda para encontrar esses Vaults e preciso de alguém para me mostrar as cordas, por assim dizer,
   neste mundo maluco. Então, o que você diz ... parceiro?}
-{291}{}{Hmm, seu conhecimento dos antigos poderia me ser bastante útil ... Mas, bem, honestamente, eu, eu leio sobre você
-  nesse computador lá, e não tenho certeza se você é o tipo de cara com quem eu gostaria de viajar.}
+{291}{}{Hmm, seu conhecimento dos antigos poderia me ser bastante útil... Mas, bem, honestamente, eu, eu leio sobre você
+ nesse computador lá, e não tenho certeza se você é o tipo de cara com quem eu gostaria de viajar.}
 {292}{}{Eu realmente não tenho tempo para "mostrar-lhe as cordas". Tenho certeza de que você fará bem sozinho, "broto".}
 {293}{}{Eu digo que você tem um negócio... parceiro.}
 {294}{}{Eu não acho que estou ansioso para ir galilando em torno do terremoto com um assassino psicótico. Então você está no seu
@@ -61,9 +61,9 @@
   sentido de ser feito por aqui. Quem sabe o que se passa nas mentes fodidas desses cientistas.}
 {311}{}{Hmm ... você tem um ponto, lá. Eu não estou dizendo que eu acredito em você ... mas acho que posso pelo menos escutar você.}
 {312}{}{Sim, sem brincadeira. Vá em...}
-{320}{}{Então, você viu, isso tudo é parte de seus "experimentos". Esses malditos médicos estavam fazendo algum tipo de testes em
-  a "natureza do mal humano" ou qualquer merda do tipo. Eles estavam injetando as memórias de um maníaco em mim para ver como
-  afetaria a personalidade de uma pessoa normal. Pelo menos, é o melhor que eu poderia imaginar.}
+{320}{}{Então, você vê, é tudo parte dos "experimentos" deles. Essas porras desses médicos malucos estavam fazendo algum tipo de testes na
+ "natureza do humano mau" ou alguma porcaria. Eles estavam injetando em mim as memórias de um maníaco para ver como isso
+ afetaria a personalidade de uma pessoa normal. Pelo menos, é o melhor que eu pude entender.}
 {321}{}{Bem ... se isso for verdade, então é terrível. Mas o que os fez escolher você como sujeito de teste em primeiro lugar?}
 {322}{}{Uau, isso realmente é uma merda. Enfim, isso é tudo no passado agora. Esses cientistas do caralho estão muito mortos e não vão
   poder mais incomodar com você. Venha comigo e sairemos deste lugar.}
@@ -207,8 +207,8 @@
 {611}{}{Eu acho que não há mal nenhum-}
 {612}{}{Bem, Eu-}
 {620}{}{Claro que não se importa. Valeu cara. [Ele passa além de você e abre um armário próximo. Ele casualmente se veste
-  em um terno finamente adaptado, em seguida, enfia o conteúdo do armário. Utilizando um pente de bolso, ele começa a 
-  esculpir e modelar o seu cabelos escuros escorregadios com a precisão rápida de um experiente profissional.] Então, onde está o doc?  }
+ em um terno finamente adaptado, em seguida, enfia o conteúdo do armário. Utilizando um pente de bolso, ele começa a
+ esculpir e modelar o seu cabelos escuros escorregadios com a precisão rápida de um experiente profissional.] Então, onde está o doc? }
 {621}{}{Sei lá. Onde quer que ele esteja, ele já está morto há muito tempo. Você vê, você está fazendo essa marca de picolé por um tempo muito longo.}
 {622}{}{Escute, garoto bonito. Eu não desprezei seu entalhe psicótico para que eu pudesse responder suas perguntas e assistir você se preparar.
   Só estou deixando você viver o suficiente para me contar qualquer informação útil que você possa ter. Então comece a falar. O mais
@@ -247,7 +247,8 @@
 {691}{}{Inferno, não há necessidade de tentar me convencer. Eu ficaria feliz por ter você só para ver seu trabalho de primeira mão.}
 {692}{}{Eu não sei, Dex. Digamos que eu deixei você vir junto comigo, e nós voltamos para a segurança remota de um
   assentamento. Uma vez lá, como eu sei que você não vai tentar cortar minha garganta a primeira chance que você tem?}
-{700}{}{Eu posso dizer que você não é santo, então eu poderia te pedir o mesmo. Mas para responder a sua pergunta, eu não o mataria porque isso iria me foder mais. Eu serei honesto,}
+{700}{}{Eu posso dizer que você não é santo, então eu poderia te pedir o mesmo. Mas para responder a sua pergunta, eu não
+ o mataria porque isso iria me foder mais. Eu serei honesto, }
 {701}{}{, Eu não me importo com ninguém, ou qualquer coisa, exceto para mim. Se o mundo estiver tão fodido quanto você diz,
   então ficar com você é o melhor tiro que eu tenho. É simples assim.}
 {702}{}{Justo o suficiente. Vamos lá.}
@@ -412,8 +413,8 @@ que não podem ser todas verdadeiras.}
   As fatias da lâmina na carne, você sabe o que quero dizer?}
 {1701}{}{Uh... sim, com certeza. Qualquer outra coisa que você pode usar? Sinta-se livre para ser menos assustador sobre isso neste momento.}
 {1702}{}{Bem, meu tio era um daqueles duro-burro. Ele me treinou com pistolas e SMGs e até cheguei
-  em torno de alguns protótipos de armas de energia em que estavam trabalhando. Ele pensou em seguir seus passos e ser um
-  fantoche para o tio Sam, mas eu, eu ... Digamos que desci um caminho diferente.}
+ em torno de alguns protótipos de armas de energia em que estavam trabalhando. Ele pensou em seguir seus passos e ser um
+ fantoche para o tio Sam, mas eu, eu ... Digamos que desci um caminho diferente.}
 {1703}{}{Isso soa bem. Mais alguma coisa?}
 {1704}{}{Fui conhecido por vencer um pouco com bons "ol fisticuffs". Quando eu era adolescente, tentei minha mão no Karate por
 algum tempo, mas eles continuaram me alimentando toda essa merda por ser mais disciplinado, então eu disse a eles para que fossem fodidos. Algo mais que você precisa saber?}
@@ -492,7 +493,8 @@ deixei a maioria delas morta. Não foi uma vida ruim, você sabe? Demorou dez an
   Dar-lhes um show real.}
 {3035}{}{O que você fez?}
 {3036}{}{Bem, naquela época, eu fazia muitos fãs, mas havia esse em particular, uma boneca real chamada Alice. Ela disse
-ela me amava e faria qualquer coisa por mim. Então, durante minha trilha, ela me ajudou a fazer uma pausa para isso. Foi um tiro longo, mas tivemos a sorte de retirar isso. Então as coisas ficaram loucas ... Você tem certeza de que nunca ouviu falar sobre isso?}
+ ela me amava e faria qualquer coisa por mim. Então, durante minha trilha, ela me ajudou a fazer uma pausa para isso.
+ Foi um tiro longo, mas tivemos a sorte de retirar isso. Então as coisas ficaram loucas ... Você tem certeza de que nunca ouviu falar sobre isso?}
 {3037}{}{Tenho certeza, mas continue.}
 {3038}{}{Nunca ouvi falar dele, e agora eu nunca mais quero. Apenas esqueça, eu estou entediado.}
 {3039}{}{Bem, agora que eu estava com Alice, era meio difícil reverter minhas velhas maneiras de seduzir mulheres e cortar

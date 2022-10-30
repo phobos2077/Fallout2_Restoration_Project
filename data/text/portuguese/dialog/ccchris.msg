@@ -3,7 +3,8 @@
 {102}{}{Você vê um homem idoso desgastando com um manto roxo.}
 {103}{}{Howdy, estranho. Whoa baby! Confira esse conjunto de rodas. Não é visto um
   de anos em anos. O que o velho Chris pode fazer por você?}
-{104}{}{Olá, estranho. Não viu você em torno destas peças antes. O que pode o antigo Chris fazer por você?}
+{104}{}{Olá, estranho. Não viu você em torno destas peças antes. O que pode o
+ antigo Chris fazer por você?}
 {105}{}{O que este lugar?}
 {106}{}{Eu busco Navarro. É isso?}
 {107}{}{Você vê o pássaro de metal voar aqui?}
@@ -81,7 +82,8 @@ destes vertibirds, a quem eu deveria dizer?}
 {163}{}{Você pode dizer aos Shi.}
 {164}{}{Você pode dizer que a Irmandade do Aço.}
 {165}{}{Você pode dizer aos Hubologistas.}
-{166}{}{Faça a sua escolha. Você pode dizer aos Shi ou a Irmandade do Aço ou os Hubologistas. Todo mundo parece estar interessado em vertibirds.}
+{166}{}{Faça a sua escolha. Você pode dizer aos Shi ou a Irmandade do
+ Aço ou os Hubologistas. Todo mundo parece estar interessado em vertibirds.}
 {167}{}{O Shi, hein? Bem, se você diz. Vou enviar-lhes as palavras para dentro de
   Chiny town. Enquanto isso, eu tenho coisas para fazer.}
 {168}{}{Esperar. Eu tenho amigos fortes. Eles dizem Navarro aqui. Você conta
@@ -110,7 +112,8 @@ Eu vou... Sim, bem, eu tenho algumas coisas para fazer.}
   o tipo de problema que você está falando.}
 {180}{}{Então diga melhor caminho na base ... agora!}
 {181}{}{Então eu sugiro que você diga-me o melhor caminho para a base... agora!}
-{182}{}{Eu suponho que seria através do alçapão no chão do meu quarto. Apenas vá e me deixe estar.}
+{182}{}{Eu suponho que seria através do alçapão no chão do meu quarto. Apenas
+ vá e me deixe estar.}
 {183}{}{Ok, eu vou.}
 {184}{}{Tudo bem. Eu vou fazer isso.}
 {185}{}{Eu sei que eles voam aqui de vez em quando. Eles geralmente estão indo

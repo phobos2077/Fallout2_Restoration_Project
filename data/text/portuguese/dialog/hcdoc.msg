@@ -54,7 +54,7 @@
 {148}{}{Eu vou pagar.}
 {149}{}{Esqueça.}
 {150}{}{Garoto, você cuida bem dos seus amigos? ::tosse:: Para cuidar desse amigo seu vai
-  precisar pagar $150.}
+ precisar pagar $150.}
 {151}{}{Eu vou pagar.}
 {152}{}{Esqueça.}
 {153}{}{Você deve ser muito bom para ainda ter a lealdade dos seus amigos. Espero que seja 

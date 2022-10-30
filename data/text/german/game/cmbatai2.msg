@@ -593,13 +593,13 @@
 {2563}{}{Echt erbärmlich...}
 {2564}{}{Zu langsam!}
 {2565}{}{Verlierer!}
-{2600}{}{ Flieh vor dem Teufel!}
+{2600}{}{Flieh vor dem Teufel!}
 {2601}{}{Die Geister gebieten mir, mich selbst zu retten.}
 {2602}{}{Unser Feind hat mächtige Magie eingesetzt--Beeilt euch! Holt den Schamanen!}
 {2603}{}{Der Geist des Finsteren hat große Macht über ihn. Der Tod wandelt auf der Erde!}
 {2604}{}{Der Dunkle Gott ist hier!}
 {2605}{}{Der Dunkle Gott will uns strafen. Lauft! Meine Seele flieht und ich muss ihr folgen!}
-{2606}{}{ Aiiieeeee!!}
+{2606}{}{Aiiieeeee!!}
 {2620}{}{Ahne, führe meinen Arm!}
 {2621}{}{Deine Stärke wird die meine sein.}
 {2622}{}{Mein Ruhm wird groß sein.}
@@ -622,16 +622,16 @@
 {2649}{}{Unsere Ahnen dürstet nach deiner Seele.}
 {2650}{}{Meiner Klinge dürstet nach Blut.}
 {2651}{}{Lass uns den Kampf beginnen!}
-{2660}{}{Deine Augen sind vom Hass getrübt.}
-{2661}{}{Deine Geister haben dich verlassen.}
-{2662}{}{Unsere Magie zeigt ihre Wirkung!}
-{2663}{}{Meine Magie macht mich unbesiegbar!}
-{2664}{}{Deine Lebenskraft nimmt ab!}
-{2665}{}{Furcht tötet den Verstand}
-{2666}{}{Mein Kampflied zeigt seine Wirkung!}
-{2667}{}{Unsere Kinder wissen mehr vom Kampf als du!}
-{2668}{}{Du hast zu lange im Frieden gelebt.}
-{2669}{}{Sind alle in deinem Stamm so schwach?}
+{2660}{}{ Deine Augen sind vom Hass getrübt.}
+{2661}{}{ Deine Geister haben dich verlassen.}
+{2662}{}{ Unsere Magie zeigt ihre Wirkung!}
+{2663}{}{ Meine Magie macht mich unbesiegbar!}
+{2664}{}{ Deine Lebenskraft nimmt ab!}
+{2665}{}{ Furcht tötet den Verstand}
+{2666}{}{ Mein Kampflied zeigt seine Wirkung!}
+{2667}{}{ Unsere Kinder wissen mehr vom Kampf als du!}
+{2668}{}{ Du hast zu lange im Frieden gelebt.}
+{2669}{}{ Sind alle in deinem Stamm so schwach?}
 {2700}{}{Verstärkung!}
 {2701}{}{Sie können mich vor ein Kriegsgericht stellen...}
 {2702}{}{Einen Arzt!}

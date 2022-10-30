@@ -17,4 +17,5 @@ a falha de energia.}
 {114}{}{Este terminal monitora os geradores de campo de força. Ele indica que o campo de força está desligado.}
 {115}{}{Este terminal monitora os geradores de campo de força. Ele indica que o campo de força tem sido
 temporariamente desativado.}
-{116}{}{Este terminal monitora os geradores de campo de força. Ele indica que o campo de força tem sido comprometido.}
+{116}{}{Este terminal monitora os geradores de campo de força. Ele indica que o campo de força tem sido
+ comprometido.}

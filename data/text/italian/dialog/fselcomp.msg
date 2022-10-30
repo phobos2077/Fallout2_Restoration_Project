@@ -46,8 +46,8 @@
  You already determined the coordinates of it.]}
 {210}{}{Hack the system.}
 {211}{}{[After some time you gain full administrative access to the mainframe. You can now do whatever you want to the system.]}
-{212}{}{Format the system.}
-{213}{}{Initializing format procedure... Initialized... Formatting... Formatting Complete... System is shutting down. Goodbye.}
+{212}{}{Formatta il sistema.}
+{213}{}{Procedura di formattazione... Inizializzata... Formattazione... Formattazione Completata... Il sistema verra' spento . Arrivederci}
 {220}{}{You format the Hubologist mainframe.}
 {250}{}{Inviare il combustibile alla petroliera Poseidon.}
 {251}{}{Combustibile inviato come richiesto. Cisterne = Vuote. Chiusura programma in corso.}

@@ -175,7 +175,8 @@ dinheiro. [Becky dá 1000 dólares]}
 {534}{}{Ug! Perdy senhora.}
 {540}{}{Você é um homem maravilhoso. Mesmo embora eu não condene suas ações. Você fez ao
   mundo um ótimo serviço.}
-{541}{}{Você é mulher maravilhosa. Mesme embora eu não condene suas ações. Você fez ao mundo um grande serviço.}
+{541}{}{Você é mulher maravilhosa. Mesmo embora eu não condene suas ações. Você fez ao mundo
+ um grande serviço.}
 {542}{}{Obrigado.}
 {550}{}{Você não é bem vindo aqui. Por favor saia.}
 {551}{}{Por favor saia.}

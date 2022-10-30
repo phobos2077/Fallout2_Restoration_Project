@@ -71,10 +71,10 @@
 {170}{}{Du musst noch eine zweite Prüfung bestehen: Die Hubologen sind unsere Feinde. Ihr Anführer, AHS-9, entführt unsere Kinder und unterzieht sie einer Gehirnwäsche. Töte ihn zum Wohle der Shi und ich werde dir verraten, wie du mit dem Kaiser sprechen kannst.}
 {171}{}{Er ist so gut wie tot.}
 {172}{}{Nein, ich glaube nicht.}
-{173}{}{Nein? Das betrübt mich, doch ich kann dich verstehen. Viel Glück auf deiner Suche. Wenn du deine Meinung änderst, weißt du ja, wo du mich findest.  }
+{173}{}{Nein? Das betrübt mich, doch ich kann dich verstehen. Viel Glück auf deiner Suche. Wenn du deine Meinung änderst, weißt du ja, wo du mich findest. }
 {174}{}{Sicher. Ich habe noch weitere Fragen.}
 {175}{}{Jo. Tschüss.}
-{176}{}{Ich bin gespannt auf das Ergebnis. Auf Wiedersehen.  }
+{176}{}{Ich bin gespannt auf das Ergebnis. Auf Wiedersehen. }
 {177}{}{Auf Wiedersehen.}
 {178}{}{Kritisieren? Jeder Narr, der seine Nachforschungen richtig angestellt hat, weiß, dass das U-Boot Wrack das Fundament von Shi-Town ist. Es bringt einfach nichts mit denen zu streiten, die etwas anderes behaupten.}
 {179}{}{Das ist sehr besonnen von dir.}

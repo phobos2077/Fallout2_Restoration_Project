@@ -5,14 +5,6 @@
 {104}{}{Co tutaj robisz?}
 {105}{}{Ug.}
 {106}{}{No nie wiem. Nie znam zbyt dobrze tych stron. Wiem, gdzie leżą.}
-{107}{}{Nowe Reno}
-{108}{}{Kryptopolis}
-{109}{}{Redding}
-{110}{}{Nora}
-{111}{}{San Francisco}
-{112}{}{Republika Nowej Kalifornii}
-{113}{}{Opuszczona kopalnia.}
-{114}{}{Stara, opuszczona instalacja naukowo-badawcza.}
 {115}{}{Nie, te miejsca już znam. Mimo to - dzięki.}
 {116}{}{Nowe Reno - to dopiero wspaniałe miejsce. Seks, narkotyki i hazard. Czego więcej chcieć od życia? Czekaj, pokażę ci gdzie to jest.}
 {117}{}{Dzięki. Na razie.}
@@ -49,3 +41,11 @@
 {148}{}{No, to pora iść.}
 {149}{}{Pora ruszać w drogę.}
 {150}{}{Dzięki. Potrzebuję lokalizacji jeszcze kilku innych miejsc.}
+{1107}{}{Nowe Reno}
+{1108}{}{Kryptopolis}
+{1109}{}{Redding}
+{1110}{}{Nora}
+{1111}{}{San Francisco}
+{1112}{}{Republika Nowej Kalifornii}
+{1113}{}{Opuszczona kopalnia.}
+{1114}{}{Stara, opuszczona instalacja naukowo-badawcza.}

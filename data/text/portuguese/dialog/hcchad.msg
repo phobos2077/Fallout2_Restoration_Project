@@ -7,20 +7,20 @@
 {122}{}{Deerk deegler!}
 {123}{}{Você quem?}
 {124}{}{Marcus tem feito algumas perguntas sobre você.}
-{125}{}{Há evidências suficientes para te prender por roubar dinheiro que deveria ir para Broken Hills. Perdeu, irmão.}
-{126}{}{Há evidências suficientes para te prender por roubar dinheiro que deveria ir para Broken Hills. Se me pagar $ 1000 eu garanto que você sairá daqui vivinho.}
+{125}{}{Há provas suficientes para te prender por ter roubado dinheiro que deveria ter ido para Broken Hills. Você não sai daqui.}
+{126}{}{Há provas suficientes para te prender por ter roubado o dinheiro que deveria ter ido para Broken Hills. Me dê $1000 e eu farei com que você consiga sair da cidade.}
 {127}{}{Quem é você?}
 {128}{}{Conte-me sobre este lugar.}
 {129}{}{Nada. Tchau.}
-{130}{}{Olha o quê as Terras Ermas arrastou até aqui! Desculpa, mano, eu não posso te ajudar.}
-{131}{}{A-deus!}
+{130}{}{Olha o quê as Terras Ermas arrastaram até aqui! Desculpa mano, eu não posso te ajudar.}
+{131}{}{Tchauzinho!}
 {132}{}{Eu sou Chad. }
 {133}{}{Olha, eu estou muito ocupado. Por favor encontre outra pessoa para importunar.}
-{134}{}{Eu sou o chefe da caravana da cidade. Eu cuido dos negócios do outro lado das rotas comerciais. Atualmente, eu me concentro principalmente em Gecko.}
+{134}{}{Eu sou o mestre de caravanas da cidade. Eu tomo conta dos negócios do outro lado das rotas comerciais. Agora, eu estou focando principalmente em Geckos.}
 {135}{}{Tudo bem!}
-{136}{}{Eu gostaria trabalhar com você.}
-{137}{}{Me sua interessante.}
-{138}{}{Me soa tedioso.}
+{136}{}{Eu gostaria de pegar um trabalho com você}
+{137}{}{Parece Legal.}
+{138}{}{Parece chato}
 {139}{}{Eu tenho mais perguntas.}
 {140}{}{Obrigado. Tchau.}
 {141}{}{Falar sobre Broken Hills? Bom... eu me mudei para cá há alguns anos. Consegui um emprego com o Bill -
@@ -29,10 +29,10 @@
 {142}{}{Eu tenho mais perguntas.}
 {143}{}{Adeus.}
 {144}{}{Como o quê?}
-{145}{}{Ele suspeita que você está pegando dinheiro que deveria ir para Broken Hills.}
-{146}{}{Na verdade nada, adeus.}
-{147}{}{Olha, eu não sei nada sobre isso, e eu não costumo gostar de quando as pessoas me acusam de coisas. Agora eu sugiro que você saia.}
-{150}{}{Vou descobrir a verdade. Tchau.}
+{145}{}{Ele suspeita que você está desviando dinheiro que deveria estar indo para Broken Hills}
+{146}{}{Nada, Tchau.}
+{147}{}{Olha, eu não sei nada sobre isto, e eu garanto que eu odeio quando pessoas me acusam de alguma coisa. Agora eu sugiro que você saia.}
+{150}{}{Eu vou descobrir a verdade. Tchau.}
 {156}{}{Fale com o Bill. Ele irá te ajudar.}
 {157}{}{Eu tenho mais perguntas.}
 {158}{}{Obrigado. Tchau.}

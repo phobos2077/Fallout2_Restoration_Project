@@ -1,115 +1,114 @@
 {100}{}{Você vê um guarda.}
-{150}{}{You see a bored-looking guard. He looks like he would rather be anywhere else.}
-{151}{}{You see one of Myron's bored-looking guards.}
-{152}{}{You see one of Myron's bored-looking guards. He looks like he would rather be anywhere else.}
-{200}{}{Touch my shit again, and I'll kill you.}
-{205}{}{Go on in. Everything's cool.}
-{206}{}{Head on in. It's cool.}
-{210}{}{Grab for that door again, and you'll pull away a stump.}
-{211}{}{Get away from there.}
-{215}{}{Hey, Myron. You takin' a walk?}
-{216}{}{Watch yourself, Myron.}
-{217}{}{Don't get into any trouble, Myron, awright?}
-{218}{}{Don't go too far, Myron.}
+{150}{}{Você vê um guarda entediado. Ele tem cara que preferiria estar em qualquer outro lugar.}
+{151}{}{Você vê um dos guardas entediados de Myron.}
+{152}{}{Você vê um dos guardas entediados de Myron. Parece que ele preferiria estar em qualquer outro lugar.}
+{200}{}{Toque nessa merda de novo e eu vou te matar.}
+{205}{}{Entre. Está tudo bem.}
+{206}{}{Pode ir. Está bem.}
+{210}{}{Encosta nessa porta de novo pra você ver o que vai ganhar.}
+{211}{}{Some daqui, meu.}
+{215}{}{Oi, Myron. Quer dar uma passada?}
+{216}{}{Tenha cuidado, Myron.}
+{217}{}{Não se meta em encrenca, Myron, beleza?}
+{218}{}{Não vá muito longe, Myron.}
 {225}{}{Ei, }
-{230}{}{It's one of the }
+{230}{}{É um dos }
 {235}{}{Você tem muito cojones em vir aqui. Sugiro que vá embora.}
-{236}{}{You look like a }
-{240}{}{Ain't you better be getting back to your }
-{241}{}{You look like a }
+{236}{}{Parece uma }
+{240}{}{Não é melhor você voltar para o seu }
+{241}{}{Parece uma }
 {245}{}{Guarda essa arma... A não ser que você PROCURE problemas.}
 {250}{}{Intruso!}
 {260}{}{Tire essa lixeira rolante daqui.}
 {261}{}{Robôs não são permitidos aqui. Caia fora.}
 {262}{}{Esse robô vai virar sucata se ficar aqui.}
-{270}{}{I *thought* I smelled mutant. Get him outta here 'fore we get mad.}
+{270}{}{Me *pareceu* que cheirava a mutante. Tire ele daqui antes que chateie alguém.}
 {271}{}{Gostas de mutantes? O lugar dele é LÁ FORA. Ou então...}
 {272}{}{Esse mutante quer virar alvo de tiro? Continue aqui e ele vai ter o desejo realizado.}
 {280}{}{Eu *pensei* sentir cheiro de algo podre. Tire esse seu ghoul daqui.}
-{281}{}{Get that stinky ghoul mother fucker outta here. Now.}
+{281}{}{Tira essa nhaca desse ghoul filha da puta daqui. Agora.}
 {282}{}{Se esse ghoul não sair daqui em um minuto, vai ficar mais morto do que já está.}
-{290}{}{::Whoa.:: Check THAT out.}
-{291}{}{Hey, chica, you looking for some company?}
-{292}{}{Wanna waste some time with us, chica?}
-{293}{}{::Howls like a wolf when he sees you:: Awooooooo!}
-{300}{}{What the hell do you want, slaver? Slaves are upstairs.}
-{305}{}{What happened to Myron?}
-{310}{}{Myron still sleeping it off?}
-{311}{}{I'm bored.}
+{290}{}{::Opa.:: Cheque ISSO.}
+{291}{}{Ei, mocinha, está procurando companhia?}
+{292}{}{Quer gastar um tempo com a gente, mocinha?}
+{293}{}{::Uiva como um lobo quando te vê:: Awooooooo!}
+{300}{}{O que você quer agora, escravista? Os escravos estão lá em cima.}
+{305}{}{O que aconteceu com Myron?}
+{310}{}{Myron ainda está dormindo?}
+{311}{}{Estou entediado.}
 {312}{}{Viu a luta de ontem a noite?}
-{313}{}{Can't wait until this shift is over.}
-{320}{}{Help you with somthin', amigo? This area's off-limits.}
-{321}{}{Well, well, well... we got us a star in our midst. You got an appointment with Myron, chica?}
-{322}{}{Help you with somthin', chica? This area's off-limits.}
-{323}{}{(The guard smiles, looks you up and down.) Got an appointment with Myron, chica?}
+{313}{}{Mal posso esperar pra terminar meu turno.}
+{320}{}{Posso ajudar com algo, amigo? Essa área é proibida.}
+{321}{}{Bem, bem, bem... temos uma estrela por aqui. Você tem um encontro com Myron, mocinha?}
+{322}{}{Posso ajudar com algo, mocinha? Essa área é proibida.}
+{323}{}{(O guarda sorri, olha você de cima a baixo.) Tem um encontro com Myron, meu bem?}
 {324}{}{Quero a paz mundial}
-{325}{}{Me want to go past door}
+{325}{}{Eu quero passar pela porta}
 {326}{}{Quem você.}
 {327}{}{Cai fora}
-{328}{}{Off-Limits? What's behind that door?}
-{329}{}{I'm here to see Myron.}
-{330}{}{I'm here to see Myron. I have a badge.}
-{331}{}{I'm here to see Myron. Me and him got a "special appointment," see?}
-{332}{}{Sure do. You gonna keep me standing here, handsome, or have your eyes had their fill yet?}
-{333}{}{I'm sorry? What appointment?}
-{334}{}{Sorry, wrong room. I'll be going now.}
-{350}{}{You escape from your stall, slave? Maybe you better get your ass back upstairs before we put you in one
- of the cages.}
+{328}{}{Proibida? O que tem atrás dessa porta?}
+{329}{}{Estou aqui para ver Myron.}
+{330}{}{Estou aqui para ver Myron. Eu tenho um passe.}
+{331}{}{Estou aqui para ver Myron. Nós temos um "encontro especial", sabe?}
+{332}{}{Claro que sim. Você vai me deixar plantada aqui, bonitão, ou seus olhos já encheram o suficiente?}
+{333}{}{Perdão? Que compromisso?}
+{334}{}{Desculpe, sala errada. Vou ir agora.}
+{350}{}{Você escapou da sua jaula, escravo? Acho que é melhor você voltar para cima antes que coloquemos você
+ em alguma gaiola.}
 {351}{}{EU QUERO PAZ MUNDIAL EU QUERO PAZ MUNDIAL}
-{352}{}{ME SAY ME WANT TO GO PAST DOOR}
+{352}{}{EU DISSE QUE QUERO PASSAR PELA PORTA}
 {353}{}{QUEM VOCÊ.}
-{354}{}{[Shamble off]}
-{360}{}{(Readies weapon.) I'm gonna enjoy this. I ain't beaten a slave for at least an hour...}
-{361}{}{(Readies weapon.) I'm gonna enjoy this. I ain't killed no one for two days...}
+{354}{}{[Para de balbuciar]}
+{360}{}{(Prepara a arma.) Eu vou adorar isso. Eu não espanco nenhum escravo faz pelo menos uma hora...}
+{361}{}{(Prepara a arma.) Eu vou adorar isso. Não mato ninguém faz pelo menos uns dois dias...}
 {362}{}{VOCÊ SERÁ UMA PESSOA FERIDA.}
-{363}{}{ SMASH}
-{364}{}{[Try and run.]}
-{365}{}{Pal, you're about to get the ass whipping of a life time.}
-{370}{}{(Sneers.) Sorry. "Need-ta-know" basis. Now get lost... amigo.}
-{371}{}{(Sneers.) Sorry. "Need-ta-know" basis. Now get lost, chica.}
-{374}{}{Let me by. I have to get past that door.}
+{363}{}{ ESMAGA}
+{364}{}{[Tenta e corre.]}
+{365}{}{Colega, você está prestes a levar a surra da sua vida.}
+{370}{}{(Risos.) Desculpe. É o critério "não precisa saber". Agora se manda... colega.}
+{371}{}{(simulados). Desculpe. É o critério "não precisa saber". Agora se manda... moça.}
+{374}{}{Me deixe passar. Eu tenho que passar por aquela porta.}
 {375}{}{Tudo bem, tudo certo.}
-{380}{}{Oh, you ARE, are you? Well, goddamn, why didn't you say something earlier? We could have avoided
- this talk altogether, and I could have told you to piss off right from the start.}
-{381}{}{Myron's expecting me. You better let me see him, or you'll hear about it later.}
-{390}{}{Nah. You ain't gonna see him. Now piss off before you make me angry.}
-{391}{}{Can you at least give him a message for me?}
-{400}{}{Nope. Now piss OFF, you little shit.}
-{401}{}{I'm staying until you let me in. In fact, I'd like to see you TRY and move me.}
-{402}{}{I'm staying until you let me in. In fact, I'd like to see you sorry sacks of shit TRY and move me.}
+{380}{}{Oh, é VOCÊ, não é? Oh, porra, por que você não disse isso antes? Teríamos evitado esse tipo conversa totalmente,
+ e eu teria dito para você ir para o raio que te parta logo cedo.}
+{381}{}{Myron está esperando por mim. É melhor você me deixar entrar, ou você vai se arrepender mais tarde.}
+{390}{}{Não, você não vai vê-lo. Agora vá embora antes que eu me irrite.}
+{391}{}{Você pode pelo menos dar uma mensagem para mim?}
+{400}{}{Não. Agora se MANDA, merdinha.}
+{401}{}{Eu vou ficar aqui até você me deixar entrar. Na verdade, eu gostaria de ver você TENTAR me fazer sair daqui.}
+{402}{}{Eu vou ficar até você me deixar entrar. Na verdade, eu gostaria de ver você, esse pedação de bosta, TENTAR me tirar daqui.}
 {404}{}{Tudo certo.}
 {411}{}{Vamos ver isso...}
-{412}{}{Defend yourself.}
-{425}{}{Yeah? Lemme see. Hmmmm. (Checks badge, shrugs.) All right, but keep it quick. Myron's busy, and he don't
- like being disturbed.}
+{412}{}{Defenda-se.}
+{425}{}{Eh? Deixe eu ver. Hmmmm. (Verifica o passe, dá de ombros.) Tudo bem, mas seja rápido. Myron está ocupado e não gosta de
+ ser incomodado.}
 {426}{}{Tenho-o.}
-{435}{}{(Eyes roam up and down your body.) Yeah, for now... heh heh... though, I might need ANOTHER fill a little
- later on. When you're done inside, that is.}
+{435}{}{(Olhos percorrem seu corpo de cima a baixo.) Sim, por enquanto... heh heh... embora você possa precisar de um pouco
+ MAIS de algo mais tarde. Quando você terminar lá, é claro.}
 {436}{}{Eu... vou manter isso em mente. Posso entrar?}
-{437}{}{We'll see, all right?}
-{445}{}{Sure, sweetheart. Head on in.}
-{446}{}{Yeah, head on in.}
+{437}{}{Veremos, certo?}
+{445}{}{Claro, meu bem. Entre.}
+{446}{}{Certo, entre.}
 {447}{}{Obrigado.}
-{455}{}{You? Ha! Chica, unless Myron suddenly went blind, you ain't going in there. I know his tastes, right?
- He ain't interested in any skanky Jet-begging whore.}
-{457}{}{Look, I'm here to see Myron. I have a badge.}
+{455}{}{Você? Ah! mocinha, a menos que Myron fique cego do nada, você não vai entrar lá. Eu conheço os gostos dele,
+ ta bom? Ele não está interessado em nenhuma puta leprosa implorando Jet.}
+{457}{}{Olha, estou aqui para ver Myron. Eu tenho um passe.}
 {458}{}{Eu vou estar indo agora.}
-{465}{}{Oh, sorry. Thought you were someone else. What do you want, chica?}
-{466}{}{What's behind that door?}
-{475}{}{Myron expecting you?}
-{477}{}{Yes. Can I head on in? We have business to discuss.}
-{478}{}{No, not right now. Take care, you guys.}
-{479}{}{Yes. Can I head on in? We have "business" to discuss. If you know what I mean. (You wink at the guard.)}
-{480}{}{Heh, I sure do. Try not to make too much of a ruckus while you're here. (To himself) Damn, Myron's such a lucky
- man.)}
-{485}{}{Myron ain't in.}
-{487}{}{Can I head in anyway?}
-{495}{}{(Shrugs.) I don't care. If you wanna wait for him, go ahead. I don't know when he's gonna be back... or if
- he is gonna be back.}
-{5225}{}{! Whazzup?}
-{5230}{}{s! Waste 'em!}
-{5236}{}{ man who don't know when he's about to die.}
-{5240}{}{ kennel, puta?}
-{5241}{}{ bitch who don't know when she's about to die.}
-{5476}{}{! Myron's right behind that door. He expecting you?}
-{5486}{}{, whatzzup? Oh, hey... Myron ain't in.}
+{465}{}{Oh, desculpe. Pensei que você fosse outra pessoa. O que você quer, mocinha?}
+{466}{}{O que há atrás daquela porta?}
+{475}{}{Myron esperando por você?}
+{477}{}{Sim. Posso entrar? Temos negócios a discutir.}
+{478}{}{Não, agora não. Cuidem-se, rapazes.}
+{479}{}{Sim. Posso entrar? Temos "negócios" a discutir. Se é que você me entende. (Você pisca para o guarda.)}
+{480}{}{Hehe, com certeza. Tente não fazer muito barulho enquanto estiver aqui. (Para si mesmo) Cacete, Myron é um homem de sorte.)}
+{485}{}{Myron não está.}
+{487}{}{Posso entrar de qualquer forma?}
+{495}{}{(Dá de ombros.) Eu não me importo. Se você quiser esperar por ele, fica a vontade. Só não sei quando ele vai voltar...
+ se é que ele vai voltar.}
+{5225}{}{! E aí?}
+{5230}{}{! Acabe com ele!}
+{5236}{}{ homem que não sabe quando está prestes a morrer.}
+{5240}{}{ canil, cadela?}
+{5241}{}{ vadia que não sabe quando ela está prestes a morrer.}
+{5476}{}{! Myron está bem atrás dessa porta. Ele está te esperando?}
+{5486}{}{, e ai? Oh, ei... Myron não está.}

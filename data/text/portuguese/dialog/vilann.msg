@@ -45,7 +45,8 @@ Nós iremos sufocar sem um comercio decente.}
 {412}{}{Deixa pra lá. Tchau.}
 {420}{}{Como foi lá?}
 {421}{}{Como foi? Ah, o mercante. Bem, na verdade eu perdi o interesse nele e sai fora.}
-{430}{}{Oque!? Você tem noção que perdeu a ultima chance de fazer um acordo com ele. Nós ficamos parecendo uns patetas plantados aqui. Você condenou a todos nós.}
+{430}{}{Oque!? Você tem noção que perdeu a ultima chance de fazer um acordo com ele. Nós ficamos parecendo uns patetas
+ plantados aqui. Você condenou a todos nós.}
 {431}{}{Foi mal, erros acontecem. Até.}
 {432}{}{Não é problema meu. Adeus.}
 {433}{}{Você não precisa mais se preocupar com comerciantes mediocres. Pois eu pretendo matar toda a corja deles para você.}

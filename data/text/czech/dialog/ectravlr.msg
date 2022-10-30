@@ -5,14 +5,6 @@
 {104}{}{Co děláš?}
 {105}{}{Eh.}
 {106}{}{No... nevím. Jsem tu docela nová a byla jsem jen na následujících místech.}
-{107}{}{New Reno.}
-{108}{}{Vault City.}
-{109}{}{Redding.}
-{110}{}{Den.}
-{111}{}{San Francisco.}
-{112}{}{New California Republic.}
-{113}{}{Nějaký opuštěný důl.}
-{114}{}{Staré, opuštěné zařízení.}
 {115}{}{Ne, tam už jsem byl. Každopádně díky.}
 {116}{}{New Reno... to je super místo. Sex, drogy a hazard. Co víc si člověk může přát?
  Hned ti ukážu, kde to je.}
@@ -61,3 +53,11 @@
 {148}{}{Už jsem tady déle než je zdrávo.}
 {149}{}{Musím vyrazit.}
 {150}{}{Díky. Potřebuju nasměrovat na nějaká další místa.}
+{1107}{}{New Reno.}
+{1108}{}{Vault City.}
+{1109}{}{Redding.}
+{1110}{}{Den.}
+{1111}{}{San Francisco.}
+{1112}{}{New California Republic.}
+{1113}{}{Nějaký opuštěný důl.}
+{1114}{}{Staré, opuštěné zařízení.}

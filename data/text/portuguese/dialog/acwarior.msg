@@ -10,7 +10,8 @@
 {156}{}{Os deuses te dão velocidade para trazer o Ancião antes que seja tarde demais.}
 {157}{}{Eu tenho uma pergunta para você.}
 {158}{}{Adeus, meu amigo.}
-{159}{}{Ah, você está me testando. Vá ver Hakunin, no canto norte da aldeia. Ele faz os nossos medicamentos.}
+{159}{}{Ah, você está me testando. Vá ver Hakunin, no canto norte da aldeia. Ele faz os nossos
+ medicamentos.}
 {160}{}{Obrigado. Adeus.}
 {161}{}{Bem, eu os vi quando Mynoc nos guarda na ponte, mas ele faz todo o trato.
   Fale com ele na Grande Ponte.}

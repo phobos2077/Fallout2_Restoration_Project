@@ -81,19 +81,19 @@
 {179}{}{Sem problemas. Foi um prazer ajudar.}
 {180}{}{Yeah, yeah... look, I have some work to do. Come back in a day or two, all right? I'll have
  time to chat then.}
-{181}{}{See you tomorrow, then.}
-{182}{}{Uh, all right. I'll be back in a day or two. Goodbye.}
+{181}{}{Até amanhã, então.}
+{182}{}{Tudo bem. Eu estarei de volta em um dia ou dois. Adeus.}
 {183}{}{You won't believe this. Not less than a DAY after you gave me those tools, that Super Tool Kit I ordered arrives. But not just one. They send me FIVE. What the hell is wrong with the ordering office?!}
 {184}{}{Could you part with one of those tool kits?}
 {185}{}{Why not?! What am I going to do with FIVE?! Take it! I swear that I'm going to beat the living tar out of the List Office for this.}
 {186}{}{Thanks. Say, I had some questions...}
-{187}{}{Appreciate it. I'll put this kit to good use.}
-{188}{}{Oh, I see how it is. Well, what is it you want?}
-{189}{}{What? I haven't got time to chat all day.}
-{190}{}{Yeah? What?}
-{191}{}{Can you repair anything of mine?}
-{192}{}{What have you got in stock?}
-{193}{}{What's the deal with you and your father?}
+{187}{}{Te agradeço. Vou usar bem esse kit.}
+{188}{}{Ah, eu vejo como é. Bem, o que é que você quer?}
+{189}{}{O que? Não tenho tempo para conversar o dia todo.}
+{190}{}{Sim? O que?}
+{191}{}{Você pode consertar alguma coisa minha?}
+{192}{}{O que tem a venda?}
+{193}{}{Qual é o problema com você e seu pai?}
 {194}{}{Never mind. I'll leave you to your work.}
 {195}{}{Nothing worth mentioning. He came here twenty years ago on one of his caravan trips, knocked up Mom and left. Until he stopped by, I hadn't seen him in about five years. No loss.}
 {196}{}{Sounds like you and him have some things to work out.}
@@ -116,7 +116,7 @@
 {213}{}{Look, I don't have anything in "stock." This isn't a store. Most of the stuff I fix here ends up in the Amenities Office... it's out the door and to your left.}
 {214}{}{Like I said BEFORE, this isn't a store. Go to the Amenities Office if you want a gun. Come here if you want something repaired.}
 {215}{}{Oh. Well, can you repair anything of mine instead?}
-{216}{}{Can you repair anything of mine?}
+{216}{}{Você pode consertar alguma coisa minha?}
 {217}{}{All right, all right. Goodbye.}
 {218}{}{Well... maybe. Let's see what you got.}
 {219}{}{Show her your pistols.}

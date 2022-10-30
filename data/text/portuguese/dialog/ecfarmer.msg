@@ -9,7 +9,8 @@
 {106}{}{Obrigado novamente por nos ajudar.}
 {107}{}{}
 {108}{}{}
-{109}{}{Você apenas mantenha as mãos onde eu possa vê-las. Temos sido atormentados por bandidos ultimamente e eu acho que você só pode ser um deles. O que você quer?}
+{109}{}{Você apenas mantenha as mãos onde eu possa vê-las. Temos sido atormentados por bandidos ultimamente e
+ eu acho que você só pode ser um deles. O que você quer?}
 {110}{}{Eu só queria trocar por suprimentos.}
 {111}{}{Eu estou só de passagem. Eu vou estar no meu caminho.}
 {112}{}{Ug.}

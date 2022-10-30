@@ -131,55 +131,55 @@
 {189}{}{Hello again, human. I hope that you do not intend to play the fool with me.}
 {190}{}{I want to apologize and start over, Gruthar.}
 {191}{}{Sorry, I gotta go.}
-{192}{}{Uh, me sorry.}
-{193}{}{Greetings, human. Have you reconsidered? Will you help me?}
-{194}{}{Hell, no. I just wanted to listen to you butcher the language some more.}
+{192}{}{Ah, desculpe.}
+{193}{}{Saudações, humano. Você reconsiderou? Você vai me ajudar?}
+{194}{}{De jeito nenhum. Eu só queria ouvir você assassinar um pouco mais a língua.}
 {195}{}{Não, eu não penso assim.}
-{196}{}{Yes, Gruthar. I will help you.}
-{197}{}{Greetings, friend. Have you examined the machine yet?}
-{198}{}{Not yet, but I'll get on it.}
-{199}{}{Hello, my friend. You have saved the pack and we thank you.}
+{196}{}{Sim, Gruthar. Vou te ajudar.}
+{197}{}{Saudações, amigo. Checou a máquina?}
+{198}{}{Ainda não, mas vou começar.}
+{199}{}{Olá, meu amigo. Você salvou o pacote e nós agradecemos.}
 {200}{}{}
 {201}{}{}
 {202}{}{Morra, humano traiçoeiro!}
 {203}{}{}
 {204}{}{}
-{205}{}{I have no quarrel with you, human, and I do not want one. I am trying to deal with you civilly.
- Please return the favor!}
-{206}{}{All right, let's talk then.}
-{207}{}{You're a deathclaw and that means a death sentence... for you, that is!}
-{208}{}{I'm sorry, Gruthar. Let's talk.}
-{209}{}{Whatever. I'm gone.}
-{210}{}{No. I am leader here, so I decide. If you do not like this, you can return to your human lands!}
-{211}{}{Blow me!}
-{212}{}{OK, I'll be going now.}
-{213}{}{Of course, Gruthar. I forgot myself for a moment.}
-{214}{}{I assure you that I was not trying to be funny or toy with you. Please excuse me if I gave you
- that impression. I would help you if I could.}
-{215}{}{Well, thanks.}
-{216}{}{I'm sorry, I didn't mean to smart off like that.}
-{217}{}{Give up the civilized act, bud. It doesn't work on me.}
-{218}{}{(Gruthar emits a guttural series of growls) I may not own this place, human, but it is my home
- and the home of others who rely on me for their protection. Do not push me to the point that either of
- us will regret it!}
-{219}{}{I'm sorry; I've been impolite and overstepped my bounds.}
+{205}{}{Eu não tenho nada contra você, humano, e eu não quero ter. Estou tentando lidar de um modo civilizado.
+ Por favor, retribua o favor!}
+{206}{}{Tudo bem, vamos conversar então.}
+{207}{}{Você é um Deathclaw e essa será sua sentença de morte... Isso é tudo!}
+{208}{}{Desculpe, Gruthar. Vamos conversar.}
+{209}{}{Que seja. Vou embora.}
+{210}{}{Não. Eu sou o líder aqui, então eu que decido. Se você não gostar de alguma coisa, pode voltar para suas terras humanas!}
+{211}{}{Chupa aqui oh!}
+{212}{}{Certo, já vou indo.}
+{213}{}{Claro, Gruthar. Eu me esqueci por um momento.}
+{214}{}{Te garanto que não estava tentando ser engraçado ou brincar com você. Por favor, me desculpe se deixei
+ essa impressão. Eu te ajudaria se pudesse.}
+{215}{}{Bem, valeu.}
+{216}{}{Desculpe, não queria ser impertinente.}
+{217}{}{Esqueça essa pose civilizada, cara. Não funciona comigo.}
+{218}{}{(Gruthar emite uma série de grunhidos guturais) Posso não ser o dono deste lugar, humano,
+ mas é meu lar e o lar de outros que confiam em mim para protege-los. Não me force, ou qualquer um
+ de nós a fazer alguma coisa que nos arrependeremos depois!}
+{219}{}{Eu sinto muito; fui indelicado e ultrapassei os limites.}
 {220}{}{Aperto você e todos que se parecem com você!}
-{221}{}{Whoa! I'm outta here.}
-{222}{}{Thank you. Please go to the control room and replace the module.}
-{223}{}{Consider it done!}
+{221}{}{Ha ha! Vou sair daqui.}
+{222}{}{Obrigado. Por favor, vá para a sala de controle e substitua o módulo.}
+{223}{}{Considere isso feito!}
 {224}{}{}
-{225}{}{You are not welcome here at this time. You may leave.}
-{226}{}{Good-bye.}
-{227}{}{Good-bye.}
+{225}{}{Você não é bem-vindo aqui agora. Pode sair.}
+{226}{}{Adeus.}
+{227}{}{Adeus.}
 {228}{}{Feito.}
-{229}{}{Apology accepted, human. Have a nice day!}
+{229}{}{Desculpas aceitas, humano. Tenha um bom dia!}
 {230}{}{Feito.}
-{231}{}{. Have you examined the machine?}
-{232}{}{. I will wait for your return.}
-{233}{}{. Have you found the part to fix the machine?}
+{231}{}{. Você examinou a máquina?}
+{232}{}{. Vou esperar seu retorno.}
+{233}{}{. Encontrou a peça para consertar a máquina?}
 {234}{}{Uh, tudo bem.}
-{235}{}{I hope you are enjoying your stay.}
-{236}{}{Unfortunately, it had to come to this. I allowed him to stay unharmed as long as he presented no threat to the pack. He chose his path. I hope you understand.}
-{237}{}{You bad.}
-{238}{}{I understand, Gruthar.}
-{239}{}{Yes. Matt no good.}
+{235}{}{Espero que você esteja gostando da sua estadia.}
+{236}{}{Infelizmente, tivemos que chegar a isso. Eu permiti que ele ficasse ileso, desde que ele não representasse nenhuma ameaça para o bando. Mas escolheu seu caminho, espero que entenda.}
+{237}{}{Voce mau.}
+{238}{}{Entendo, Gruthar.}
+{239}{}{Sim. Matt não é bom.}

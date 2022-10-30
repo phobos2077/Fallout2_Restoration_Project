@@ -99,7 +99,7 @@
 {215}{}{Effeehfau?}
 {216}{}{Ja.}
 {217}{}{Nein.}
-{218}{eeld6}{Wenn du die Maschine zerstörst, finden wir das Schiff. Beeil dich, es sind nicht mehr viele von uns übrig.  }
+{218}{eeld6}{Wenn du die Maschine zerstörst, finden wir das Schiff. Beeil dich, es sind nicht mehr viele von uns übrig. }
 {219}{}{Was ist passiert?}
 {220}{}{Ich verstehe.}
 {221}{eeld7}{Du musst die Maschine zerstören, und diese Teufel hier töten. Wir warten auf dich! Und, Auserwähltes Wesen, wenn du das GECK noch nicht gefunden hast, such es hier. Unsere Freiheit nützt uns nichts, wenn wir unser Dorf nicht retten können. Beeil dich!}

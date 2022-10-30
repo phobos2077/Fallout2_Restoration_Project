@@ -1,5 +1,5 @@
 {100}{}{Um terminal de computador.}
-{101}{}{The screen saver is active.}
+{101}{}{O protetor de tela está ativo.}
 {103}{}{Skynet Security Systems
                                   Intruder Level 2
                                                    Activating Counter Measures Level 2
@@ -23,7 +23,7 @@
                                            Scanning...
                                                               Searching Database}
 {115}{}{Activate Alarm System Level 2}
-{116}{}{Run self-diagnostic program.}
+{116}{}{Execute o programa de autodiagnóstico.}
 {117}{}{Sair}
 {118}{}{Arg! [You slam you fist into the keyboard in frustration.]}
 {120}{}{Skynet Security Systems

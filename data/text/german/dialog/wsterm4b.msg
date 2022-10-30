@@ -32,7 +32,7 @@
 {124}{}{Beenden}
 {125}{}{Momentan ausgewählt:                                                  }
 {126}{}{Spezies: }
-{127}{}{ - Organ: }
+{127}{}{Organ: }
 {128}{}{Spezies auswählen}
 {129}{}{Organ auswählen}
 {130}{}{Mit Entnahme fortfahren.}

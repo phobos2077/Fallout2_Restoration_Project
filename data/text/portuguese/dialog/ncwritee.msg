@@ -34,9 +34,9 @@
 {240}{}{Saudações, }
 {241}{}{Damn hot, innit,}
 {242}{}{Saudações, }
-{245}{}{It's one of the }
-{250}{}{It's one of the }
-{255}{}{It's one of the }
+{245}{}{É um dos }
+{250}{}{É um dos }
+{255}{}{É um dos }
 {260}{}{Get outta here, 'fore we fill you full of holes!}
 {261}{}{Get outta here! You n' yer family ain't welcome here!}
 {265}{}{Drop the weapon, slaver, or we'll shoot!}
@@ -52,7 +52,7 @@
 {288}{}{That some kind of rovin' brain display case you got with you?}
 {289}{}{That a robot? I ain't never seen one of those before.}
 {295}{}{Diga que aquilo não é um mutante.}
-{296}{}{That a mutant?}
+{296}{}{Isso é um mutante?}
 {297}{}{Holy brahmin turds. Mutants in New Reno. Must mean trouble...}
 {298}{}{Aquele mutante é um dos grandes.}
 {299}{}{That mutant o' yours better watch himself round here, y'hear me?}

@@ -1,30 +1,30 @@
 {100}{}{Você vê um terminal de computador.}
-{101}{}{You see the voice interface terminal.}
-{102}{}{You see a standard computer terminal, modified for voice commands.}
-{103}{}{You examine the computer terminal, but cannot find anything obviously wrong with it. What do
- you do?}
-{104}{}{Hit it in that 'special' way.}
-{105}{}{Kick it in that 'special' spot.}
-{106}{}{Run the diagnostic program.}
-{107}{}{Open it up and look inside.}
-{108}{}{Leave it alone.}
+{101}{}{Você vê o terminal de interface de voz.}
+{102}{}{Você vê um terminal de computador padrão, modificado para comandos de voz.}
+{103}{}{Você examina o terminal do computador, mas não consegue encontrar nada obviamente errado com ele.
+ O que você faz?}
+{104}{}{O golpeia de maneira "especial".}
+{105}{}{O chuta de maneira "especial".}
+{106}{}{Execute o programa de diagnóstico.}
+{107}{}{Abre e o olha por dentro.}
+{108}{}{O deixa sozinho.}
 {109}{}{You gaze at the console for a while and decide upon the best spot to place a punch. After giving
  it your best 'this'll fix it' hit, the monitor flashes a couple of times and then stabilizes. There is
  no other effect. What do you do?}
-{110}{}{Kick it in that 'special' spot.}
-{111}{}{Run the diagnostic program.}
-{112}{}{Open it up and look inside.}
-{113}{}{Leave it alone.}
+{110}{}{O chuta de maneira "especial".}
+{111}{}{Execute o programa de diagnóstico.}
+{112}{}{Abre e o olha por dentro.}
+{113}{}{O deixa sozinho.}
 {114}{}{This well-known repair method produces two results. First, the monitor seems to go haywire for
  several seconds and then stabilizes. Second, you hear a breaking metal type of sound and the panel you
  kicked falls to the floor. What do you do?}
-{115}{}{Run the diagnostic program.}
+{115}{}{Execute o programa de diagnóstico.}
 {116}{}{Damn thing's open. Might as well look inside.}
-{117}{}{Leave it alone.}
+{117}{}{O deixa sozinho.}
 {118}{}{You are certain that the system should have a set of diagnostic routines available. However, the
  keyboard input seems to have been disabled. The unit accepts voice commands only. What do you do?}
 {119}{}{The only thing left is to look inside.}
-{120}{}{Leave it alone.}
+{120}{}{O deixa sozinho.}
 {121}{}{Peering into the mass of cables and circuit boards, you find that the system has been deliberately sabotaged.
  One of the circuit boards, the voice recognition module, is beyond repair and must be replaced.
  Now all you need to do is find a replacement module.}
@@ -44,17 +44,17 @@
 {135}{}{Their blood will run like the Nile!}
 {200}{}{Welcome, Vault Dweller. For your convenience, this Vault-Tec terminal has been modified to respond to vocal commands. Please vocalize your command now.}
 {201}{}{Oh, you've got me confused with someone else. You see, I'm not the Vault Dweller, I'm the Chosen One. }
-{202}{}{Run diagnostics.}
-{203}{}{Switch to keyboard input mode.}
-{204}{}{Access security footage.}
+{202}{}{Execute o diagnóstico.}
+{203}{}{Mude para o modo de entrada do teclado.}
+{204}{}{Segurança de acesso ao material de arquivo.}
 {205}{}{Termine a sessão.}
 {206}{}{Urk?}
 {210}{}{[A light blinks on the terminal as it makes various clicking and whirling sounds. After several seconds, text
  appears on the monitor.] Sorry, I did not understand your command. Please repeat your command, making sure to speak
  directly into the microphone in a clear and precise manner. Vault-Tec apologizes for any inconvenience. Thank you.}
-{211}{}{Run diagnostics.}
-{212}{}{Switch to keyboard input mode.}
-{213}{}{Access security footage.}
+{211}{}{Execute o diagnóstico.}
+{212}{}{Mude para o modo de entrada do teclado.}
+{213}{}{Segurança de acesso ao material de arquivo.}
 {214}{}{Termine a sessão.}
 {220}{}{Please wait while I initiate diagnostic checks..Vault-Tec appreciates your patience... Thank you for waiting... Diagnostic
  checks complete. All systems are working properly. After all, you're using Vault-Tec. }
@@ -126,9 +126,9 @@
 {302}{}{[Attempt to hack into it.]}
 {303}{}{Termine a sessão.}
 {310}{}{[You try everything you can think of, but you're unable to gain access. With a sigh of defeat, you return to the main menu.]}
-{311}{}{Run diagnostics.}
-{312}{}{Switch to keyboard input mode.}
-{313}{}{Access security footage.}
+{311}{}{Execute o diagnóstico.}
+{312}{}{Mude para o modo de entrada do teclado.}
+{313}{}{Segurança de acesso ao material de arquivo.}
 {314}{}{Termine a sessão.}
 {320}{}{Password correct. All entries but one have been removed from the system. Final entry in the Overseer's Logs is still accessible.}
 {321}{}{[After several long minutes of working your technical magic, you manage to hack your way into the Overseer's Logs. However, it seems that every entry except for the final one has been deleted.]}

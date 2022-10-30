@@ -32,8 +32,7 @@
 {152}{}{Interessante. Deixe-me perguntar outra coisa.}
 {153}{}{Preciso de um cartão? Como faço ter um desses?}
 {154}{}{Obrigado. Isso é tudo que eu precisava saber. Adeus.}
-{160}{}{A sala de suprimentos fica em uma porta à esquerda daquela porta que você entrou 
-no prédio.
+{160}{}{A sala de suprimentos fica em uma porta à esquerda daquela porta que você entrou no prédio.
  Você precisa falar com Jeremy se quiser conseguir suprimentos.}
 {161}{}{Obrigado. No entanto, preciso saber onde está outra coisa.}
 {162}{}{Obrigado. Isso é tudo que eu precisava saber. Adeus.}
@@ -54,10 +53,9 @@ no prédio.
 {192}{}{Interessante. Deixe-me perguntar outra coisa.}
 {193}{}{Preciso de um cartão? Como faço ter um desses?}
 {194}{}{Obrigado. Isso é tudo que eu precisava saber. Adeus.}
-{200}{}{Bom, eu não me preocuparia, só se você planeja ficar aqui por mais algumas semanas.
-A maior 
- parte da radiação que o reator vaza vai para a água de refrigeração e a bombeamos de volta para o subsolo.
- O pouco que vaza acima do solo nos faz sentir bem de alguma forma.}
+{200}{}{Bom, eu não me preocuparia, só se você planeja ficar aqui por mais algumas semanas. A maior parte
+ da radiação que o reator vaza vai para a água de refrigeração e a bombeamos de volta para o subsolo. O pouco
+ que vaza acima do solo nos faz sentir bem de alguma forma.}
 {201}{}{Oh, isso não parece tão ruim. Preciso perguntar outra coisa.}
 {202}{}{Hmm, acho melhor seguir em frente. Adeus.}
 {300}{}{Certo. O que mais você gostaria de saber?}

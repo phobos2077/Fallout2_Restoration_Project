@@ -17,7 +17,7 @@
 {115}{}{Zurück.}
 {116}{}{[Nachdem du dich durch das religiöse Papperlapapp gewühlt hast, entdeckst du, dass die
  Hubologen ein Verfahren entwickelt haben, Powerrüstungen zu härten. Außerdem habe sie einen Weg
- gefunden, um  Raketenstarts, Umlaufbahnen und Ziele im Weltraum zu berechnen. Darüber hinaus
+ gefunden, um Raketenstarts, Umlaufbahnen und Ziele im Weltraum zu berechnen. Darüber hinaus
  scheinen sie an der Beeinflussung des Wetters zu arbeiten.]}
 {117}{}{Zurück.}
 {118}{}{Abmelden.}

@@ -1,6 +1,6 @@
-{100}{}{Access granted for Level }
-{101}{}{Access denied.}
-{102}{}{Unknown retina pattern.}
-{103}{}{Security breach on Level }
-{104}{}{Access granted for Level 4.}
-{105}{}{Security breach on Level 4.}
+{100}{}{Acesso concedido para o nível }
+{101}{}{Acesso negado.}
+{102}{}{Padrão de retina desconhecido.}
+{103}{}{Violação de segurança no nível }
+{104}{}{Acesso permitido para o Nível 4.}
+{105}{}{Violação de segurança no Nível 4.}

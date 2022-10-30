@@ -1,14 +1,14 @@
-{100}{}{You can see no way to use the emitter.}
-{101}{}{You can see no way to use the force field.}
-{102}{}{You are shocked by the weakened force field.}
-{103}{}{ is shocked by the weakened force field.}
-{107}{}{You are shocked by the force field.}
-{108}{}{ is shocked by the force field.}
-{109}{}{You fail to affect the force field.}
-{110}{}{ fails to lower the force field.}
-{111}{}{You hear over the loud speaker: Warning! Intruder Alert! Enable Security Systems.}
-{112}{}{You disable the force field.}
+{100}{}{Você não vê forma de usar o emissor.}
+{101}{}{Você não vê forma de usar o campo de força.}
+{102}{}{Você leva uma descarga do campo de força enfraquecido.}
+{103}{}{ leva uma descarga do campo de força enfraquecido.}
+{107}{}{Você leva uma descarga do campo de força.}
+{108}{}{ leva uma descarga do campo de força.}
+{109}{}{Você falha em afetar o campo de força.}
+{110}{}{ não consegue diminuir o campo de força.}
+{111}{}{Você ouve no alto-falante: Aviso! Alerta de intruso! Ativar sistemas de segurança.}
+{112}{}{Você desativa o campo de força.}
 {113}{}{ desabilita o campo de força.}
-{114}{}{You enable the force field.}
+{114}{}{Você ativa o campo de força.}
 {115}{}{ habilita o campo de força.}
-{116}{}{You destroy the force field emitter.}
+{116}{}{Você destrói o emissor do campo de força.}

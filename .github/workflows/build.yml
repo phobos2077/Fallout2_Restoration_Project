@@ -10,8 +10,6 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      # The Github's Ubuntu images since 20211122.1 are broken
-      # https://github.com/actions/virtual-environments/issues/4589
       - uses: devopsx/gha-focal-i386-fix@master
       - uses: actions/checkout@v2
 
@@ -23,6 +21,8 @@ jobs:
       - name: Install packages
         run: |
           set -xeu -o pipefail
+          sudo dpkg --add-architecture i386
+          sudo apt -qq update
           sudo apt-get install -o=Dpkg::Use-Pty=0 -y crudini dos2unix gcc p7zip wine-stable wine32
           wineboot
 

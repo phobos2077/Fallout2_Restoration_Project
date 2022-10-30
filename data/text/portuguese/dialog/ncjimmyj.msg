@@ -44,7 +44,7 @@
 {282}{}{EU VOU DEIXE-ME G--}
 {283}{}{Ei, o, uh, "Jeito Jimmy J" parece bom e tudo, e é por isso que eu tinha algumas pergunt--}
 {284}{}{Não, eu não penso assim -}
-{290}{}{Knew you'd be back, knew it! Didn't Jagged Jimmy J say that it would be that WAY? Keep 'em happy, and they'll never let you down. So my pilot friend... what can Jagged Jimmy J do for you today?}
+{290}{}{Sabia que voce voltaria, sabia! Jagged Jimmy J nao disse que seria assim? Deixe eles felizes e eles nunca o abandonarao. Entao meu amigo piloto... o que Jagged Jimmy J pode fazer por voce hoje?}
 {291}{}{Bem, bem, se não é meu "amigo" piloto... você está voltando por que PRECISA de algo do Jagged Jimmy?}
 {292}{}{Hum... Eu esqueci o que ia dizer. Vou indo}
 {294}{}{Negocia coisas? Eu GOSTO de coisas}
@@ -64,7 +64,8 @@
 {333}{}{Eu luto no ringue na frente de um monte de gente gritando hoo mata mata o filho da puta ai eu dou um soco nele até ele cair}
 {334}{}{Eu sou desagradavel com estranhos que falam muito com Deus.}
 {335}{}{Eu FEITO homem. Eu GRANDE homem em REEno}
-{336}{}{Como alguém pode conhecer o outro de VERDADE, Jimmy? É mesmo possível enquanto estamos neste corpo mortal? Ou só quando nos libertamos de nossos corpos físicos?}
+{336}{}{Como alguém pode conhecer o outro de VERDADE, Jimmy? É mesmo possível enquanto estamos neste corpo mortal? Ou só quando
+ nos libertamos de nossos corpos físicos?}
 {337}{}{Eu QUERO falar mas você não me DEIXA eu VOU}
 {338}{}{Bem, eu acabei com o plano da Enclave de aniquilaçao mundial, derrotei o presidente, explodi sua base, e
  só consegui escapar com vida.}
@@ -94,7 +95,7 @@
 {401}{}{Serio? O que aconteceu?}
 {402}{}{Serio? Mano, caras que batem em mulheres merecem tomar um pau.}
 {415}{}{(Entra em posição de luta.) Então eu entro, certo, e ele puxa uma FACA no velho JJ! Eu não tenho nada além de minhas próprias mãos, entende?
- Então ele consegue acertar um corte sortudo  antes que eu...*BAM!* Quebrasse ele!}
+ Então ele consegue acertar um corte sortudo antes que eu...*BAM!* Quebrasse ele!}
 {416}{}{Oh sério? Jules diz que você estava 'voando' no jet e cortou seu rosto tentando se barbear com sua faca de combate.}
 {417}{}{Jura Eu não acho que teria peito para fazer isso. Porra, aquele homem poderia ter te MATADO.}
 {418}{}{Boa história. Ei, eu tinha outras perguntas...}
@@ -111,7 +112,8 @@
 {446}{}{Você fez o que era correto pra voce, certo?}
 {447}{}{Uh-huh. Olha, eu tenho outras perguntas...}
 {448}{}{Eu tenho que ir. Te encontro mais tarde, Jimmy.}
-{455}{}{Sim... Tinha acabado de ver algo errado, e tinha que fazer ALGO, certo? De jeito nenhum eu poderia deixar algo assim acontecer enquanto eu estava lá, sabe?}
+{455}{}{Sim... Tinha acabado de ver algo errado, e tinha que fazer ALGO, certo? De jeito nenhum eu poderia deixar algo assim acontecer enquanto eu
+ estava lá, sabe?}
 {456}{}{Você tem coragem em fazer o que fez, Jimmy. A maioria das pessoas teria apenas abaixado a cabeça e ido embora.}
 {457}{}{Entendo. Olhe, eu tenho outras perguntas...}
 {465}{}{EU GOSTO de pessoas, e não gosto quando alguém mexe com outra só porque pode. Essa merda é simplesmente ERRADA.}

@@ -46,7 +46,7 @@ procedure LoadCritterPos;
 procedure LoadChests;
 
 #define AREA_1 20896
-#define AREA_2 23902
+#define AREA_2 24306
 #define AREA_3 21320
 
 #define CHEST_1 21491

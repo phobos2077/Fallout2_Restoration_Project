@@ -68,7 +68,8 @@
 {215}{}{Não agora. Talvez mais tarde. Sim, definitivamente, mais tarde.}
 {216}{}{Posso fazer uma pergunta?}
 {217}{}{Mais tarde, então.}
-{218}{}{Eu tenho um alambique no porão. Eu mesma fiz. Doía pagar o triplo para os bandidos de Novos Reno.}
+{218}{}{Eu tenho um alambique no porão. Eu mesma fiz. Doía pagar o triplo para os bandidos de New
+ Reno.}
 {219}{}{Menina inteligente! Eu gosto disso!}
 {220}{}{Hmm, eu tenho que ir. Eu te vejo mais tarde.}
 {221}{}{Por quê? Por que você destruiu meu alambique? Seu desgraçado!}

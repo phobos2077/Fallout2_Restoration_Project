@@ -19,7 +19,9 @@
 {113}{}{(suspiro) Preste atenção. Concentrar-se. Olha-me nos olhos. Agora, você está pronto?}
 {114}{}{Pronto o que?}
 {115}{}{Sim. Me pronto.}
-{116}{}{Eu... Se não fosse pelo fato de que seu QI é menos da minha altura, em pés eu iria pensar que você está tentando me irritar. Agora, ficar em silêncio. Prestar atenção. Concentrar-se. Olha-me nos olhos. Eu estou prestes a lhe fazer uma pergunta.}
+{116}{}{Eu... Se não fosse pelo fato de que seu QI é menos da minha altura,
+ em pés eu iria pensar que você está tentando me irritar. Agora, ficar em
+ silêncio. Prestar atenção. Concentrar-se. Olha-me nos olhos. Eu estou prestes a lhe fazer uma pergunta.}
 {117}{}{Então vá em frente. Quem te parou?}
 {118}{}{As funções vitais de meu mestre estão terminadas. Você é o meu novo mestre?}
 {119}{}{Uh... cachorrinho falar?}
@@ -68,7 +70,8 @@ canto nordeste da base.}
 {156}{}{Tudo bem. Cachorrinho vem comigo.}
 {157}{}{- Me saber o que fazer! - Me tentar novamente.}
 {158}{}{Sim, vamos lá.}
-{159}{}{Ei, eu consertei coisas mais complexas do que a sua bunda vira-lata sarnento. Fique tranquilo e eu vou tentar isso de novo.}
+{159}{}{Ei, eu consertei coisas mais complexas do que a sua bunda vira-lata
+ sarnento. Fique tranquilo e eu vou tentar isso de novo.}
 {160}{}{Vá embora. Eu não quero você como mestre.}
 {161}{}{Deixe-me em paz.}
 {162}{}{Eu não gosto de você. Vá embora.}
@@ -187,7 +190,8 @@ canto nordeste da base.}
 {273}{}{Não fique muito longe.}
 {274}{}{Vamos lá.}
 {275}{}{É isso por agora.}
-{276}{}{Desculpe, mestre, mas não parece haver espaço para mim em a sua festa. Eu vou esperar aqui até que uma posição seja aberta.}
+{276}{}{Desculpe, mestre, mas não parece haver espaço para mim em a sua
+ festa. Eu vou esperar aqui até que uma posição seja aberta.}
 {277}{}{Como você ordena, mestre.}
 {278}{}{Você se cura.}
 {279}{}{Você espera aqui. Eu voltarei logo.}
@@ -214,14 +218,17 @@ canto nordeste da base.}
 {1000}{}{Sim, mestre?}
 {1100}{}{Todos os sistemas estão a funcionar em plena capacidade, mestre.}
 {1200}{}{Meus sistemas estão funcionando perto da capacidade total, mestre.}
-{1300}{}{Eu tenho realizado os reparos que posso mestre, mas vou exigir mais ajuda.}
-{1400}{}{Eu tenho realizado os reparos que posso mestre, mas a falha do sistema é iminente sem assistência.}
+{1300}{}{Eu tenho realizado os reparos que posso mestre, mas vou
+ exigir mais ajuda.}
+{1400}{}{Eu tenho realizado os reparos que posso mestre, mas a falha do
+ sistema é iminente sem assistência.}
 {1500}{}{Vou aguardar seu retorno, mestre.}
 {1600}{}{Você espera que eu engula os meus dentes, mestre?}
 {1700}{}{Eu vou seguir em seu calcanhar, mestre.}
 {1800}{}{Eu vou passar para um meio de distância, mestre.}
 {1900}{}{Vou passar para o máximo de intervalo aceitável, mestre.}
-{2000}{}{Desculpe, mestre, mas não parece haver espaço para mim em a sua festa. Eu vou esperar aqui até que uma posição seja aberta.}
+{2000}{}{Desculpe, mestre, mas não parece haver espaço para mim em a sua
+ festa. Eu vou esperar aqui até que uma posição seja aberta.}
 {2200}{}{Como você ordena, mestre.}
 {2300}{}{Tenho pele, mestre. Eu não carrego nenhum outro equipamento.}
 {2400}{}{Eu não tenho nenhum desejo para remover a minha pele, mestre.}

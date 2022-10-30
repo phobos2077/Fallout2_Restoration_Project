@@ -181,7 +181,7 @@ uma lembrança de tempos passados. E também um tipo de brincadeira para negocia
 {482}{}{Oh, certo. Heh heh. Me deixe perguntar algo.}
 {490}{}{Com sinos de prata e conchas de marisco e... Cara, tu é burro, não é? Com radiação severa. É assim 
  que acontece. Como você acha? Sabe, muitas bombas explodem, muitas luzes e calor, a carne queima, mas
- mas você ainda não morre com a radiação, entendeu?}
+ você ainda não morre com a radiação, entendeu?}
 {491}{}{Uh bem, quero dizer...}
 {500}{}{Eu acho que não. Valeu por trazer de volta todas aquelas memórias intensamente dolorosas, 
  idiota. Somos uma cidade de restos - restos ligeiramente cozidos demais.}

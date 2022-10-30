@@ -87,7 +87,7 @@
 {222}{}{Eles querem saber o que aconteceu com o fazendeiro que vivia aqui.}
 {223}{}{Nós somos um povo pacífico, e não matamos ninguém. Esses corpos são meros bonecos que fizemos
  para assustar aqueles que tentam roubar de nós. Se você examinar os corpos de perto, você vai notar que eles não passam de
- de tripas de brahmin e palha.}
+ tripas de brahmin e palha.}
 {224}{}{E sobre o pobre Karl? Você sabe, o fazendeiro que vivia na sua fazenda?}
 {225}{}{Esse era o nome dele, Karl? Nós assustamos ele, nada mais. Eu acredito que ele voltou para casa
  quando descobriu que a fazenda era assombrada. Os Protetores me informaram que ele foi para oeste. Você pode tentar

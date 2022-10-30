@@ -53,22 +53,22 @@
 {139}{}{Threatening a frail old woman with Gross Bodily Harm? You and Ascorti are cut from the same
  cloth. All right. I'll leave, but I'll leave you a little extra something from my gypsy ancestors.
  (She makes a sign with her hands.) There; you have the evil eye on you now. I hope you like it.}
-{140}{}{I've got a couple of gestures that you'll like, too. Here they are! [You make a few choice ones.]
- Now get out!}
-{141}{}{Gypsies, huh? Well if you're some sort of witch, maybe we should just burn you, then. Get out.}
-{142}{}{Just doing a job, lady. You don't want me to have to get rough with you. Now get out. Please?}
+{140}{}{Eu tenho alguns gestos que você vai gostar também. Aqui estão eles! [Você faz uns gestos aleatórios.]
+ Agora saia!}
+{141}{}{Ciganos, eh? Bem, se você é algum tipo de bruxa, acho que devemos te queimar. Saia daqui.}
+{142}{}{Apenas fazendo meu trabalho, senhorita. Você não quer que eu tenha que ser duro com você. Agora saia. Por favor?}
 {143}{}{Ascorti... Ascorti's nobody but the greediest, most conniving, slipperiest, low-down,
  weasel-crawling, gutless, slimeball in this here town. He's the Mayor as well as my landlord.}
 {144}{}{Oh, *that* Ascorti. Well, why didn't you say so?}
 {145}{}{I'd hate to take money from someone touched in the head. Uh, Mr. Chosen One.}
 {146}{}{I'd hate to take money from someone touched in the head. Uh, Miss Chosen One.}
-{147}{}{It's nothing. I'm happy to do it. Here's the $120 you need.}
-{148}{}{You know, I do feel a bit woozy after that last fight. Maybe I should think about this a
- bit more. Goodbye.}
+{147}{}{Não é nada. Fico feliz em fazer. Aqui estão os $120 que você precisa.}
+{148}{}{Veja, eu me sinto meio tonto depois daquela última luta. Talvez eu devesse pensar um pouco
+ mais sobre isso. Até.}
 {149}{}{Thank you so much. You ARE the Chosen One! Thank you. I just can't wait to see the look on that
  Ascorti's puss when I give him the money.}
-{150}{}{I was happy to help you. Goodbye.}
+{150}{}{Fiquei feliz em te ajudar. Adeus.}
 {151}{}{Material things mean little to me. I'm glad I was able to use the money for good.}
 {152}{}{Looks like your heart is bigger than your means. Well, I thank you for the thought, anyhow.}
-{153}{}{I'll try to come back later with more money. Goodbye.}
-{154}{}{I'm sorry. I wish I could help. Good luck.}
+{153}{}{Tentarei voltar mais tarde com mais dinheiro. Adeus.}
+{154}{}{Eu sinto muito, gostaria de poder ajudar. Boa sorte.}

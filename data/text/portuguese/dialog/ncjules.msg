@@ -171,11 +171,11 @@
 {582}{}{Na verdade, nao importa. Vamos falar de outra hora.}
 {590}{}{(Levanta dois dedos.) Os Mordinos sao uma besta de duas cabeças, amigo, e cada cabeça se chama Jesus Mordino.}
 {591}{}{Continue...}
-{592}{}{Sempre suspeitei que Jesus tinha ligaçoes com o crime organizado.}
+{592}{}{Sempre suspeitei que Jesus tinha ligações com o crime organizado.}
 {594}{}{Vamos ver as outras familias.}
 {596}{}{Na verdade, nao importa. Obrigado por falar comigo.}
-{615}{}{Tem o pai, Grande Jesus Mordino, e o filho, Pequeno Jesus, e ambos sao os filhos da puta mais malvados que voce ja
- conheceu. Antes eram escravos aqui, mas eles viraram o jogo anos atras e criaram seu proprio pequeno imperio.}
+{615}{}{Tem o pai, Grande Jesus Mordino, e o filho, Lil' Jesus, e ambos são os filhos da puta mais malvados que voce ja
+ conheceu. Antes eram escravos aqui, mas eles viraram o jogo anos atrás e criaram seu próprio pequeno império.}
 {616}{}{Quao grande e esse "império?"}
 {625}{}{Eles sao donos do Desperado no final da rua. Nao tem como perder. Eles tambem controlam o maior suprimento de Jet em
  TODA Reno. Entao, se voce tem vontade de chpar...}
@@ -195,7 +195,8 @@
 {660}{}{Sim... (inclina-se.) ...veja, os Mordinos conseguiram uma pequena mina de ouro com o nome de Myron. Eles acertaram
  em cheio com ele... ele CRIOU o Jet.}
 {662}{}{Ja chega de falar dos Mordinos e das familias. Me fale sobre esse Myron...}
-{670}{}{Eles distribuem tudo em New Reno, para começar. Desde o norte ate Den, e tambem... uh... (se pega, entao da de ombros e continua.)... bem, eles tambem estao indo para Redding, o que nao esta prejudicando os lucros dos Mordinos.}
+{670}{}{Eles distribuem tudo em New Reno, para começar. Desde o norte ate Den, e tambem... uh... (se pega, entao da de ombros e continua.)... bem,
+ eles tambem estao indo para Redding, o que nao esta prejudicando os lucros dos Mordinos.}
 {672}{}{Me fale sobre Redding.}
 {685}{}{Nao ha muito a dizer. Cidade mineira a noroeste daqui. O negocio e que Mordino quer ter alguma influencia la,
  conseguir um pouco do OURO de Redding que eles desenterraram. Entao ele manda jet e eles enviam ouro de volta, todo mundo feliz.}
@@ -234,7 +235,7 @@
 {810}{}{(Inclina-se.) Agora, eu nao quero falar sobre os locais menos AGRADAVEIS de New Reno, mas ha um bando de
  casacos brancos que falam como voce nesse lugar, os estabulos, ao norte da cidade. Fortemente guardado pelos homens de Mordino.}
 {811}{}{O que eles fazem la?}
-{825}{}{Testam novos tipos de Jet, pelo que ouvi. Agora, te digo com  CONFIANÇA, amigo: nao fique bisbilhotando por
+{825}{}{Testam novos tipos de Jet, pelo que ouvi. Agora, te digo com CONFIANÇA, amigo: nao fique bisbilhotando por
  aí... os mordinos nao gostam de visitas. - Alem disso... Jules pode te dar todo o jet que voce precisa.}
 {826}{}{Por que os Mordinos continuam testando o jet? Parece que e viciante o suficiente esse jeito.}
 {827}{}{Em quem os Mordinos testam as drogas?}
@@ -346,7 +347,7 @@
 {1178}{}{Uh, obrigado, Jules, mas não. Eu tenho outras perguntas...}
 {1180}{}{Bem, obrigado pela dica. Acho melhor eu ir.}
 {1181}{}{Bem, uh, obrigado de qualquer maneira, acho melhor eu ir.}
-{1190}{}{Você quer dizer Vault CITY, nao e? E la para o nordeste. Nao  tem como perder, todas as rotas de caravanas levam direto a ela.}
+{1190}{}{Você quer dizer Vault CITY, nao e? E la para o nordeste. Nao tem como perder, todas as rotas de caravanas levam direto a ela.}
 {1191}{}{Tudo bem. Olha, eu tenho mais perguntas.}
 {1192}{}{Bem, obrigado pela dica. E melhor eu ir.}
 {1200}{}{Jardim do que? Isso e alguma droga nova? O que esse "jardim nao sei das quanta" faz? Te deixa chapado?}
@@ -368,12 +369,12 @@
 {1252}{}{Reno e um lugar grande, Jules. Alguém mais poderia ser o responsavel?}
 {1253}{}{Eu tenho mais algumas perguntas...}
 {1254}{}{Tudo bem. Vou dar uma olhada.}
-{1270}{}{Muitos traficantes na cidade... Pequeno Jesus, talvez, mas nao faz sentido ele vender para um Wright. Tem o Jagged Jimmy
- J na Segunda Rua, ao norte daqui, mas ele e pequeno. Eu veria com o Renesco se fosse voce.}
+{1270}{}{Muitos traficantes na cidade... Lil' Jesus, talvez, mas não faz sentido ele vender para um Wright. Tem o Jagged Jimmy
+ J na Segunda Rua, ao norte daqui, mas ele e pequeno. Eu veria com o Renesco se fosse você.}
 {1272}{}{"Jagged Jimmy J?" Quem e esse?}
-{1273}{}{Pequeno Jesus? Onde posso encontra-lo?}
+{1273}{}{Lil' Jesus Mordino? Onde posso encontra-lo?}
 {1274}{}{Talvez eu vá. olha, eu tenho outras perguntas...}
-{1275}{}{Pequeno Jesus... Jagged Jimmy J... Renesco. Entendi. Obrigado.}
+{1275}{}{Lil' Jesus... Jagged Jimmy J... Renesco. Entendi. Obrigado.}
 {1290}{}{(O sorriso de Jules desaparece.) Estou procurando por pessoas como voce que vem para Reno. Esse e um o local
  privilegiado de lidar. Alem disso, certos lugares me pagam para indicar o caminho aos recem-chegados. ESSA e uma resposta boa o suficiente para voce?}
 {1291}{}{Sim. Agora eu preciso te perguntar mais algumas coisas...}
@@ -423,7 +424,7 @@
 {1408}{}{Ate mais, Jules.}
 {1415}{}{Ele aquele filho da puta idiota que pensa que e um grande traficante. Nao tem como errar... seu rosto esta
  todo marcado. O idiota tava brisando no jet uma noite e tentou se barbear com uma faca de combate. A parte triste e que nao morreu.}
-{1416}{}{E esse Pequeno Jesus? Onde eu acho?}
+{1416}{}{E esse Lil' Jesus Mordino? Onde eu acho?}
 {1417}{}{Quanto amor tem nessa cidade. Olha, eu tenho outras perguntas...}
 {1425}{}{Bem, amigo, eu tomaria cuidado para não chegar acusando o Lil' Jesus de qualquer coisa. Mas se voce REALMENTE
  quer falar com ele, eu e que nao vou te impedir. Ele fica no Desperado, e so atravessar a rua.}

@@ -19,7 +19,7 @@
 {118}{}{Não. Eu tenho mais perguntas.}
 {119}{}{Sim, com certeza.}
 {120}{}{Eu desenvolvo novas tecnologias e recebo minha parte dos cultistas, se você entende o meu significado.}
-{121}{}{So you're not a Hubologist?}
+{121}{}{Então você não é um Hubologista?}
 {122}{}{Entendi. Eu tenho mais perguntas.}
 {123}{}{Não. O que você quer dizer?}
 {124}{}{Que nova tecnologia tem desenvolvido?}
@@ -41,7 +41,8 @@ Você realmente me ameaça para isso?}
 {139}{}{Eu não posso muito bem trabalhar minha magia se não tiver. Volte quando você tiver.}
 {140}{}{Eu tenho mais perguntas.}
 {141}{}{Adeus.}
-{142}{}{::ele dá de ombros:: Você quer esta armadura ou não? É $10.000 a vista.}
+{142}{}{::ele dá de ombros::
+ Você quer esta armadura ou não? É $10.000 a vista.}
 {143}{}{Eu vou voltar para você.}
 {144}{}{Bem. Aqui.}
 {145}{}{Assalto em estrada. De maneira nenhuma.}

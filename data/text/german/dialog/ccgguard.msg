@@ -3,7 +3,7 @@
 {102}{}{Du siehst eine Wache in einer Powerrüstung von ungewöhnlichem Aussehen. Auf der
  Brustplatte befindet sich ein Abzeichen, das du nicht kennst.}
 {103}{gate1}{Halt! Dies ist Bundeseigentum - Zutritt nur mit gültigem Ausweis.}
-{104}{}{Äh...bun  tes?}
+{104}{}{Äh...bun tes?}
 {105}{}{Ich haben Ausweis...wohin ich tun?}
 {106}{}{Ich neu. Mir gesagt du erwarten.}
 {107}{}{Oh. Leid, ich gehen.}

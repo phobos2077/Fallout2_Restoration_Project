@@ -36,7 +36,4 @@
 #define MIN_DAMAGE                      (20)
 #define MAX_DAMAGE                      (40)
 
-#define PARTY_CLOSE_DIST                (5)
-/* How far do party members have to be from the door before it closes */
-
 #include "../headers/doors.h"

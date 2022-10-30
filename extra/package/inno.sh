@@ -19,6 +19,10 @@ rm -rf release translations
 cp -r $release_dir ./
 mkdir translations
 mv $trans_dir/*.dat translations/
+
+# alternative animations, not included into manual install
+"$extra_dir"/package/animation_fixes.sh
+
 docker run --rm -i -v $PWD:/work amake/innosetup "$install_iss"
 rm -rf release translations
 popd

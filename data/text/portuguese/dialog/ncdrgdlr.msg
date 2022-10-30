@@ -19,7 +19,7 @@
 {215}{}{Então você está querendo celebrar com um Jet, herói? Você veio ao lugar certo. Para você, TUDO do meu estoque especial.}
 {216}{}{O mínimo que eu posso fazer é marcar o meu estoque para você, herói. É o meu jeito de dizer obrigado por nos salvar.}
 {217}{}{Nada melhor que usar um Jet depois de chutar a bunda da Enclave, né? Estou certo? Todo o meu estoque especial pra você.}
-{218}{}{Eu tenho a parada que vai ajudar você a beijar o céu, herói.  E para você: um ótimo desconto. O que você acha?}
+{218}{}{Eu tenho a parada que vai ajudar você a beijar o céu, herói. E para você: um ótimo desconto. O que você acha?}
 {219}{}{Você tem doce? }
 {220}{}{Cai fora}
 {221}{}{O que você tem?}
@@ -28,7 +28,7 @@
  bem?}
 {231}{}{Então você está procurando fazer uma festa com uns Jet, amigo? Você veio ao lugar certo. Para você, TUDO do estoque especial.}
 {232}{}{Eu tenho Jet suficiente pra te colocar em órbita, meu caro amigo. E para você: um desconto. Vamos falar de preços?}
-{233}{}{Eu tenho a parada que vai ajudar você a beijar o céu, amigo.  E para você: um desconto. O que você acha?}
+{233}{}{Eu tenho a parada que vai ajudar você a beijar o céu, amigo. E para você: um desconto. O que você acha?}
 {234}{}{O mínimo que eu posso fazer é marcar meu estoque para VOCÊ, amigo. É meu jeito de ser amigável.}
 {235}{}{Você tem classe, sabia disso? Classe. E quando alguém com classe negocia comigo, eles ganham um desconto no
  estoque, sabia?}
@@ -37,7 +37,7 @@
 {238}{}{Hey, Estou na presença do grandioso. Para VOCÊ, amigo, meu estoque especial. Fale de mim para todos os seus amigos, tudo bem?}
 {239}{}{Então você está procurando fazer uma festa com uns Jet, amiga? Você veio ao lugar certo. Para você, TUDO do estoque especial.}
 {240}{}{Eu tenho Jet suficiente pra te colocar em órbita, minha cara amiga. E para você: um desconto. Vamos falar de preços?}
-{241}{}{Eu tenho a parada que vai ajudar você a beijar o céu, moça.  E para você: um desconto. O que você acha?}
+{241}{}{Eu tenho a parada que vai ajudar você a beijar o céu, moça. E para você: um desconto. O que você acha?}
 {242}{}{O mínimo que eu posso fazer é marcar meu estoque para VOCÊ, moça. É meu jeito de ser amigável.}
 {247}{}{Eu sei o que você ta procurando, slaver, e eu tenho bem aqui. Todo o Jet que você PRECISA.}
 {248}{}{Por que andar quando você pode VOAR? Você quer Jet, eu tenho aqui.}
@@ -55,7 +55,7 @@
 {264}{}{Você quer voar? Você tem grana? Fale COMIGO.}
 {265}{}{Eu tenho a parade que vai te ajudar a beijar o céu, amigo.}
 {266}{}{Eu tenho Jet, Jet e MAIS Jet. Vamos conversar.}
-{267}{}{Eu tenho Jet suficiente para colocá-lo em órbita, amigo. Vamos falar de preço?}
+{267}{}{Eu tenho Jet o suficiente pra deixar você levitando, amigo. Vamos falar de preço?}
 {268}{}{Você já experimentou? Deixa eu te mostrar o melhor Jet da cidade.}
 {269}{}{Ta procurando Jet? Vamos negociar.}
 {270}{}{Ta procurando Jet? Vamos conversar.}

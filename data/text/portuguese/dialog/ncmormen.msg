@@ -63,7 +63,7 @@
 {305}{}{Você está fazendo a coisa certa, lidando com os Mordinos.}
 {306}{}{Precisa de Jet? Eu posso te arrumar, chica.}
 {307}{}{Chica, não há nada que eu não faria por você... vamos lá, me dê um beijinho.}
-{308}{}{Need some drugs? Hootch? Some chips? I can set you up. I'm co-nnected, see?}
+{308}{}{Precisa de algumas drogas? licor? Algumas batatas fritas? Eu posso te arranjar. Tenho contatos, viu?}
 {315}{}{Não ande com ferro por aqui, chapa. Guarde isso.}
 {320}{}{Não fique se escondendo por aí, escravagista. Você está entre amigos.}
 {325}{}{Ei! És burro ou o quê? Guarde essa coisa antes que yo tenha que te machucar.}
@@ -111,7 +111,7 @@
 {405}{}{Fale comigo de novo, e eu te encho tanto de tiros que nem o Super-Homem vai consegui ver através de você.}
 {406}{}{::Cospe no seu pé.::}
 {407}{}{Você acha que pode simplesmente vir aqui e falar com um Mordino? Cai fora.}
-{408}{}{Fale comigo de novo, eu eu mato sua família, seu cachorro e você. Duas vezes.}
+{408}{}{Fale comigo de novo, eu mato sua família, seu cachorro e você. Duas vezes.}
 {409}{}{::Cospe no seu pé.::}
 {410}{}{Você acha que pode simplesmente vir aqui e falar com um Mordino? Cai fora.}
 {411}{}{Fale comigo de novo, puta, e eu te encho tanto de tiros que nem o Super-Homem vai consegui ver através de você.}

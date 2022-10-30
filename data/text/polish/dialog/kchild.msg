@@ -32,7 +32,7 @@
 {180}{}{Widziałeś mojego niewidzialnego przyjaciela?}
 {181}{}{Kiedy będę już w twoim wieku, to mam zamiar podróżować po całym świecie.}
 {182}{}{Jesteś miłym dzikusem, nie tak jak inni.}
-{183}{}{Założę się, że się umyjesz.}
+{183}{}{Założę się, że się kąpiesz.}
 {184}{}{Nie zachowujesz się tak głupio jak Torr.}
 {185}{}{Czy to ostrze jest naprawdę ostre?}
 {186}{}{Kiedy dorosnę, to chcę być taki jak ty.}
@@ -45,7 +45,7 @@
 {193}{}{Co masz na sobie?}
 {194}{}{Chcę się przejechać na braminie!}
 {195}{}{Jesteś z daleka?}
-{196}{}{Łiiii! Ha Ha Ha!}
+{196}{}{Weeee! Ha ha ha!}
 {197}{}{Nie odchodź!}
 {198}{}{Masz coś do jedzenia?}
 {199}{}{Przeszkadzam ci?}
@@ -72,7 +72,7 @@
 {220}{}{Lubię cię.}
 {221}{}{Lubisz mnie?}
 {222}{}{Czy masz kogoś?}
-{223}{}{Raz, dwa, trzy - łiiii!}
+{223}{}{Jeden, dwa, trzy... Iiiii!}
 {1000}{}{Starsza}
 {1001}{}{Założyciel}
 {1002}{}{Przybysz z Krypty}

@@ -46,7 +46,8 @@
 {307}{}{A Família Wright está contratando?}
 {308}{}{Encontrei sua mãe há pouco tempo. Mulher agradável.}
 {310}{}{Não, sem mais perguntas. É melhor eu ir.}
-{315}{}{(O jovem te olha de cima a baixo. Seus olhos param na marca em sua testa.) Bem, agora. (Ele zomba, depois cospe em seus pés.) Por que você não se torna útil e lambe isso, escravo?}
+{315}{}{(O jovem te olha de cima a baixo. Seus olhos param na marca em sua testa.) Bem, agora. (Ele zomba, depois cospe em seus pés.)
+ Por que você não se torna útil e lambe isso, escravo?}
 {316}{}{(O jovem te olha de cima a baixo.) Bem, agora. (Ele zomba, depois cospe em seus pés.) Por que você não se torna útil e
  lambe isso, seu pedaço de }
 {317}{}{ pedaço de merda?}
@@ -119,8 +120,8 @@
 {486}{}{Ei, moça, obrigado. }
 {487}{}{Você descobre quem matou meu irmão, e toda a Família Wright te agradece. E não é um agradecimento pequeno, entendeu?}
 {488}{}{Entendo. Te encontro mais tarde, Chris. }
-{495}{}{Jules na cabeça da cidade também vende Jet, mas ele normalmente vende para turistas... então tem o Pequeno Jesus Mordino: ele pode ter empurrado drogas enquanto Rich estava sozinho. Ele fica no Desperado.}
-{497}{}{Jagged Jimmy J, Renesco, Jules e Pequeno Jesus... Vou dar uma olhada neles. Obrigado pela informação, Cris. }
+{495}{}{Jules na cabeça da cidade também vende Jet, mas ele normalmente vende para turistas... então tem o Lil' Jesus Mordino: ele pode ter empurrado drogas enquanto Rich estava sozinho. Ele fica no Desperado.}
+{497}{}{Jagged Jimmy J, Renesco, Jules e Lil' Jesus... Vou dar uma olhada neles. Obrigado pela informação, Cris. }
 {1200}{}{! Way to kick the Enclave's ass!}
 {1201}{}{! Você é demais!}
 {1202}{}{!}

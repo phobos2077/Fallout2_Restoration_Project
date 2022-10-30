@@ -195,8 +195,8 @@
 {1174}{}{Du weißt, wie man Geckos richtig häutet, um die Haut weiterzuverwenden.}
 {1175}{}{Du hast einen inneren Schutz gegen körperliche Angriffe.}
 {1176}{}{Du hast einen besonders starken inneren Schutz gegen körperliche Angriffe.}
-{1177}{}{Du hast einen inneren Schutz gegen Energieangriffe.}
-{1178}{}{Du hast einen besonders starken inneren Schutz gegen Energieangriffe.}
+{1177}{}{You have inherent protection against thermal attacks.}
+{1178}{}{You have extra inherent protection against thermal attacks.}
 {1179}{}{Du hast +10 % Resistenz gegen Gift und Strahlung erlangt.}
 {1180}{}{Mit diesem Bonus gewinnst du 1 Stärkepunkt, wenn du unter 1/2 deiner max. Trefferpunkte fällst.}
 {1181}{}{Du bist im Freien wachsamer, und Feinde können sich nicht so leicht an dich heranschleichen. Mit diesem Bonus bekommst du +3 zu deiner Wahrnehmung in Zufallsbegegnungen hinzu, wenn du die Plazierung festlegst.}

@@ -49,7 +49,7 @@
 {278}{}{Sim, bem, em algum momento um trabalho precisa ser feito, e eles me ligam para garantir que as coisas
  sejam entregues... como aquela maleta.}
 {285}{}{(Para si mesmo.) Claro, ser capaz de levar uma multidão ao frenesi não é tão ruim para quem está entrando
- na política... (Te estuda com desconfiança.) Você não é  da NCR também, é? Tomcat é o único deles que posso suportar no momento.}
+ na política... (Te estuda com desconfiança.) Você não é da NCR também, é? Tomcat é o único deles que posso suportar no momento.}
 {286}{}{Sim, também sou da NCR. Não é o melhor, mas é que tem agora. Eu sou praticamente um agente livre.}
 {287}{}{Não, sou apenas um viajante. Concordei em ajudar Moore porque precisava trabalhar.}
 {295}{}{(Acena para a pasta.) Bem, essa maleta valeu a pena. Um pedacinho de Vault City aí dentro, um pouco
@@ -275,8 +275,7 @@
 {791}{}{Sua filha nem VALE tanto assim.}
 {800}{}{Ei, antes que você vá… eu gosto das suas armas, tribal… elas me lembram um certo boato que ouvi não muito tempo atrás.}
 {801}{}{Boato?}
-{805}{}{Sim... alguns boatos no deserto de que alguém que combina com sua descrição eliminou aqueles invasores ao sul de
- Vault City.}
+{805}{}{Sim... alguns boatos no deserto de que alguém que combina com sua descrição eliminou aqueles invasores ao sul de Vault City. }
 {806}{}{Ele tinha um puta mutante forte com ele, com um torno preso no ombro. }
 {807}{}{Ele tinha com ele um robô com um cérebro em uma cúpula. }
 {808}{}{Tinha com ele um tribal com um osso no nariz. }
@@ -302,8 +301,7 @@
 {925}{}{Você assassinou Westin.}
 {950}{}{Você matou Carlson.}
 {975}{}{Você se tornou um iniciado da família Bishop.}
-{1805}{}{Sim... alguns boatos no deserto de que alguém que combina com sua descrição ajudou a parar aqueles invasores ao sul de
- Vault City. }
+{1805}{}{Sim... alguns boatos no deserto de que alguém que combina com sua descrição ajudou a parar aqueles invasores ao sul de Vault City. }
 {1820}{}{Bem, você deve ser um filho da puta genial para convencer o guia deles a parar de guiá-los pelas montanhas.
  E pode ser que eu não goste do que você fez lá embaixo.}
 {1836}{}{Como vejo, você me DEVE uma grande, tribal. Eu não gosto de pessoas mexendo com assuntos que não são deles. }

@@ -71,8 +71,8 @@ aqui e sentar-se perto de mim.}
 {217}{}{Aoooga!}
 {218}{}{Urg?}
 {219}{}{Sim! Isso é o que eu pensava. É engraçado como Neanderthal e um discurso civilizado cruza estradas esse
-   assunto. [Você não vê-lo chegando. Mas você está certo a impressão de mão vermelha no seu rosto vai
-  desaparecer algum dia.]}
+ assunto. [Você não vê-lo chegando. Mas você está certo a impressão de mão vermelha no seu rosto vai
+ desaparecer algum dia.]}
 {250}{}{Ajuda, papai! Levá-lo embora!}
 {251}{}{Fugir!}
 {260}{}{Ajuda, papai! Afastá-la!}

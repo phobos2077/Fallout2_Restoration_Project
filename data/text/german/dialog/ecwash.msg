@@ -48,7 +48,7 @@
 {215}{}{Warte nicht auf uns!}
 {216}{}{Es ist ein dreckiger Job und ich genieße ihn sehr!}
 {217}{}{Zurück zur Patrouille!}
-{218}{}{Die Ungewaschenen Dorflinge.  Bewahren den Frieden in einem verfluchten Ödland.}
+{218}{}{Die Ungewaschenen Dorflinge. Bewahren den Frieden in einem verfluchten Ödland.}
 {219}{}{Er hat bekommen, was er verdient.}
 {220}{}{Ich jage dich!}
 {300}{}{Seife? Wir brauchen keine klebrige Seife!}

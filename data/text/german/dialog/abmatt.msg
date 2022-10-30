@@ -43,7 +43,7 @@
  untergegangen Welt enthalten. Im Laufe der Zeit erklärten wir uns selbst zu den die Hütern und Bewahrern dieser Weisheit.}
 {603}{}{Sehr interessant. Ich hab da noch ne Frage.}
 {604}{}{Interessant. Ich muss jetzt los.}
-{700}{}{[Der Mann ist über deine Frage sichtlich amüsiert.]         Das hat keinen bestimmten Grund.
+{700}{}{[Der Mann ist über deine Frage sichtlich amüsiert.] Das hat keinen bestimmten Grund.
  Ich hab einfach viele poetische Werke in meinem Leben gelesen und manche Sachen dann in meine Predigten eingebaut.
  So hat es eine größere, intensivere Wirkung auf die, die meine Reden hören.}
 {701}{}{Verstehe. Ich hab noch eine Frage.}

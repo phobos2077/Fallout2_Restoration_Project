@@ -116,8 +116,9 @@
 {196}{}{Eu acho que você pode estar... enganado.}
 {197}{}{Bem, é muito difícil de tragar. Eu tenho outras perguntas...}
 {198}{}{Não, sério. Eles cultivam Jet com merda de brahmin... eles a utilizam como fertilizante.}
-{199}{}{Não, sério. Eles cultivavam alucinógenos em merda de brahmin, mas então descobriram
- que o *gás* estava deixando os trabalhadores doidões. O sistema das brahmins revelou essa proteína de antes da guerra...}
+{199}{}{Não, sério. Eles cultivavam alucinógenos em merda de brahmin, mas então descobriram que o
+ *gás* estava deixando os trabalhadores doidões. O sistema das brahmins revelou essa proteína de
+ antes da guerra...}
 {200}{}{Provavelmente. Eu não acredito muito nisso. Até mais, doutor.}
 {201}{}{Sério? Hmmmm. Suponho que... os excrementos das brahmins dão um ótimo fertilizante. Eu não considerei
  isso antes. Obrigado. Estava curioso para saber sobre o processo de fabricação.}
@@ -283,8 +284,7 @@
  que precisam.}
 {336}{}{Ótimo! Vou mantê-lo seguro. Eu tenho algumas perguntas pra você...}
 {337}{}{Obrigado pelo antídoto.}
-{338}{}{Excelente! Volte quando obtiver a amostra  de Jet e você será
- pago.}
+{338}{}{Excelente! Volte quando obtiver a amostra de Jet e você será pago.}
 {339}{}{Feito. Eu tenho outras perguntas...}
 {340}{}{Eu voltarei com o Jet.}
 {341}{}{Sim, eu conheço. É um procedimento invasivo, onde placas de impacto e dissipadores
@@ -319,7 +319,7 @@
 {361}{}{Puxa, seu amigo mutante tem um belo négocio com balas e e estilhaços alojados no corpo. É um
  milagre ele não ter se infeccionado. Finalmente consegui tirar tudo. Aqui está, veja.}
 {362}{}{Isso deve cuidar do problema. Fale-me se precisar se recuperar novamente.}
-{363}{}{Eu preciso de cura  também.}
+{363}{}{Eu preciso de cura também.}
 {364}{}{Eu poderia receber alguma ajuda... eu fui irradiado.}
 {365}{}{Eu fui envenenado. Você pode me ajudar?}
 {366}{}{Certo. Diga, você sabe alguma coisa sobre implantes dérmicos?}

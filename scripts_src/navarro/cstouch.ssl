@@ -21,90 +21,72 @@
 
 #include "../headers/command.h"
 
-#define Lockpick_Exp                    EXP_LOCKPICK_NORMAL
-#define STATE_ACTIVE                    (0)
-#define STATE_INACTIVE                  (1)
+#define custom_use_skill_on_p_proc
+#define custom_use_obj_on_p_proc
+#define custom_pickup_p_proc
+#define custom_use_p_proc
+#define LOCKED_STATUS                   STATE_ACTIVE
+#define TRAPPED_STATUS                  STATE_INACTIVE
+#define DOOR_STATUS                     STATE_METAL
+#define LOCK_STATUS                     STATE_STANDARD_LOCK
+#define custom_mstr                     NAME
+#include "../headers/containers.h"
 
-#define Lock_Bonus                      (-20)
-
-procedure start;
 procedure timed_event_p_proc;
-procedure use_p_proc;
-procedure use_skill_on_p_proc;
-procedure use_obj_on_p_proc;
 procedure signal_critter;
-procedure Set_Lock;
-procedure Unlock_Lock;
-procedure Lockpick_It;
-procedure Lock_It;
-procedure Pry_It;
 
-#define LVAR_Locked                     (0)
-#define LVAR_Gave_Locks_XP              (1)
-#define LVAR_got_plans                  (2)
-#define LVAR_got_part                   (3)
-
-variable Skill_Used;
-variable Locks_Roll;
-variable Tool;
-variable Stat_Roll;
-variable Crowbar_Strain;
-
-procedure start begin
-end
+#define LVAR_got_plans                  (7)
+#define LVAR_got_part                   (8)
 
 procedure timed_event_p_proc begin
    set_map_var(MVAR_Touched,0);
 end
 
-procedure use_p_proc begin
-   call signal_critter;
-
-   if (local_var(LVAR_Locked) == STATE_ACTIVE) then begin
-       script_overrides;
-       display_msg(mstr(203));
-   end
-end
-
 procedure use_skill_on_p_proc begin
    call signal_critter;
 
+   variable Skill_Used;
    Skill_Used:=action_being_used;
    if (Skill_Used == SKILL_LOCKPICK) then begin
-       if (local_var(LVAR_Locked) == STATE_ACTIVE) then begin
-           call Unlock_Lock;
+     script_overrides;
+     if (local_var(LVAR_Locked) == STATE_ACTIVE) then begin
+       call Unlock_Lock;
+     end
+     else begin
+       call Set_Lock;
+     end
+   end  // End of Skill_Lockpick
+   else if (Skill_Used == SKILL_TRAPS) then begin
+     script_overrides;
+     if (local_var(LVAR_Trapped) == STATE_ACTIVE) then begin
+       call Skill_Disarm_Traps;
+     end
+     else begin
+       if (source_obj == dude_obj) then begin
+         display_msg(my_mstr(195));
        end
-       else begin
-           call Set_Lock;
-       end
-   end                                                          // End of Skill_Lockpick
 
+       else begin
+         display_msg(obj_name(source_obj)+my_mstr(200));
+       end
+     end
+   end // End of Skill_Traps
 end
 
 procedure use_obj_on_p_proc begin
    call signal_critter;
+    variable Tool;
+    Tool:=obj_pid(obj_being_used_with);
+    pry_trap_block
+    full_lockpick_block
+end
 
-   Tool:=obj_pid(obj_being_used_with);
-   if (Tool == PID_LOCKPICKS) then begin
-       if (local_var(LVAR_Locked) == STATE_ACTIVE) then begin
-           call Lockpick_It;
-       end
-       else begin
-           call Lock_It;
-       end
+procedure use_p_proc begin
+   call signal_critter;
+   if (local_var(LVAR_Locked) == STATE_ACTIVE) then begin
+       script_overrides;
+       display_msg(mstr(203));
    end
-   else if (Tool == PID_EXP_LOCKPICK_SET) then begin
-       if (local_var(LVAR_Locked) == STATE_ACTIVE) then begin
-           call Lockpick_It;
-       end
-       else begin
-           call Lock_It;
-       end
-   end
-   else if (Tool == PID_CROWBAR) then begin
-       call Pry_It;
-   end
-
 end
 
 procedure pickup_p_proc begin
@@ -160,155 +142,4 @@ procedure signal_critter begin
    //tell the critter guarding me that someone is messing with me
    //display_msg("don't touch me there!");
    add_timer_event(self_obj,game_ticks(2),0);
-end
-
-procedure Set_Lock begin
-/* Locks_Roll is a global variable to this script, defined at the beginning
-   of the script. */
-
-   Locks_Roll:=roll_vs_skill(source_obj,SKILL_LOCKPICK,Lock_Bonus);
-
-   call Lock_It;
-end
-
-procedure Unlock_Lock begin
-/* Locks_Roll is a global variable to this script, defined at the beginning
-   of the script. */
-
-   Locks_Roll:=roll_vs_skill(source_obj,SKILL_LOCKPICK,Lock_Bonus);
-
-   call Lockpick_It;
-end
-
-procedure Lockpick_It begin
-   if (is_success(Locks_Roll)) then begin
-       set_local_var(LVAR_Locked, STATE_INACTIVE);              // Door is unlocked
-       obj_unlock(self_obj);                                    // engine unlock door
-
-       if (source_obj == dude_obj) then begin
-           display_msg(mstr(170));
-       end
-
-       else begin
-           display_msg(obj_name(source_obj)+mstr(173));
-       end
-
-       if (local_var(LVAR_Gave_Locks_XP) == 0) then begin
-           set_local_var(LVAR_Gave_Locks_XP,1);
-           give_xp(Lockpick_Exp);
-       end
-   end
-
-   else if (is_critical(Locks_Roll)) then begin
-       jam_lock(self_obj);
-
-       if (source_obj == dude_obj) then begin
-           display_msg(mstr(171));
-       end
-
-       else begin
-           display_msg(obj_name(source_obj)+mstr(174));
-       end
-   end
-
-   else begin
-       if (source_obj == dude_obj) then begin
-           display_msg(mstr(172));
-       end
-
-       else begin
-           display_msg(obj_name(source_obj)+mstr(175));
-       end
-   end
-end
-
-procedure Lock_It begin
-   if (is_success(Locks_Roll)) then begin
-       set_local_var(LVAR_Locked, STATE_ACTIVE);                // Door is unlocked
-       obj_lock(self_obj);                                      // engine unlock door
-
-       if (source_obj == dude_obj) then begin
-           display_msg(mstr(189));
-       end
-
-       else begin
-           display_msg(obj_name(source_obj)+mstr(191));
-       end
-
-       if (local_var(LVAR_Gave_Locks_XP) == 0) then begin
-           set_local_var(LVAR_Gave_Locks_XP,1);
-           give_xp(Lockpick_Exp);
-       end
-   end
-
-   else begin
-       if (source_obj == dude_obj) then begin
-           display_msg(mstr(190));
-       end
-
-       else begin
-           display_msg(obj_name(source_obj)+mstr(192));
-       end
-   end
-end
-
-procedure Pry_It begin
-   //Stat_Roll:=do_check(source_obj,STAT_st,Crowbar_Bonus);
-   Stat_Roll:=do_check(source_obj,STAT_st,0);
-
-   if (is_success(Stat_Roll)) then begin
-       set_local_var(LVAR_Locked, STATE_INACTIVE);
-       obj_unlock(self_obj);
-
-       if (source_obj == dude_obj) then begin
-           display_msg(mstr(176));
-       end
-
-       else begin
-           display_msg(mstr(181));
-       end
-   end
-
-   else if (is_critical(Stat_Roll)) then begin
-       critter_dmg(source_obj,Crowbar_Strain,(DMG_normal_dam BWOR DMG_BYPASS_ARMOR));
-
-       if (source_obj == dude_obj) then begin
-           if (Crowbar_Strain == 1) then begin
-               display_msg(mstr(177));
-           end
-           else begin
-               display_msg(mstr(178)+Crowbar_Strain+mstr(179));
-           end
-       end
-
-       else begin
-           if (is_male(source_obj)) then begin
-               if (Crowbar_Strain == 1) then begin
-                   display_msg(mstr(182));
-               end
-               else begin
-                   display_msg(mstr(183)+Crowbar_Strain+mstr(184));
-               end
-           end
-
-           else begin
-               if (Crowbar_Strain == 1) then begin
-                   display_msg(mstr(186));
-               end
-               else begin
-                   display_msg(mstr(187)+Crowbar_Strain+mstr(188));
-               end
-           end
-       end
-   end
-
-   else begin
-       if (source_obj == dude_obj) then begin
-           display_msg(mstr(180));
-       end
-
-       else begin
-           display_msg(mstr(185));
-       end
-   end
 end

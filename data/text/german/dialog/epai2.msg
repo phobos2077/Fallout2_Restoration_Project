@@ -2,7 +2,7 @@
 {101}{}{Roboter befehligen.}
 {102}{}{Diagnoseprüfung durchlaufen.}
 {103}{}{[Geh]}
-{104}{}{!FEHLFUNKTION! !FEHLFUNKTION! FEHLER ENTDECKT   SEQUENZ ABGEBROCHEN!}
+{104}{}{!FEHLFUNKTION! !FEHLFUNKTION! FEHLER ENTDECKT SEQUENZ ABGEBROCHEN!}
 {105}{}{Zurück zum Hauptmenü}
 {106}{}{Diagnoseprüfung... Schaltkreisfehler....Sektion Vier... unterbrochene Leitungen.}
 {107}{}{[Fertig]}

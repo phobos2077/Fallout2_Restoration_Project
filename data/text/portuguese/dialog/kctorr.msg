@@ -1,6 +1,7 @@
 {100}{}{Você ve um homem muito grande coberto com poeira com um pequeno sorriso e um olhar branco em sua face.}
 {101}{}{Você vê Torr Buckner, o pateta da cidade.}
-{102}{}{Você vê um grande, e musculoso homem numa roupa suja, coberto com sujeira e poeira, com um bondoso sorriso em sua face.}
+{102}{}{Você vê um grande, e musculoso homem numa roupa suja, coberto com sujeira e
+ poeira, com um bondoso sorriso em sua face.}
 {110}{}{Você mal. Você machuca Torr. Vá embora agora!}
 {111}{}{Vai má pessoa! Não Machuca Torr.}
 {112}{}{Owwww! Vai embora!}
@@ -138,7 +139,7 @@ ou quatro.}
 {405}{}{Nao posso te ajudar a proteger os brahmin agora, Torr.}
 {500}{}{Para de machucar moo-moos.}
 {501}{}{Torr ajuda moo-moos.}
-{502}{}{Mulher mau, mau! Nao machuca moo-moos!}
+{502}{}{Mulher mau, mau! Não machuca moo-moos!}
 {503}{}{Vaimbora, Homem mau.}
 {504}{}{Mulher mau, mau! Vaimbora!}
 {505}{}{homens maus, Mau! Nao machuca moo-moos!}

@@ -1,56 +1,57 @@
 {100}{}{Você vê um garra mortal. Ele observa você com olhos estranhamente inteligentes.}
-{101}{}{You see Valdis, the Deathclaw.}
-{102}{}{Você vê um típico garra mortal. A criatura é enorme, com um corpo poderoso, dentes afiados, e longas garras.}
-{103}{}{Greetings, human.}
-{104}{}{How may I serve you?}
-{105}{}{Who you be?}
+{101}{}{Você vê Valdis, o Deathclaw.}
+{102}{}{Você vê um típico garra mortal. A criatura é enorme, com um corpo poderoso, dentes afiados,
+ e longas garras.}
+{103}{}{Saudações, humano.}
+{104}{}{Como posso te ajudar?}
+{105}{}{Quem é voce?}
 {106}{}{O que você faz?}
-{107}{}{Brain hurt. Me come back later.}
-{108}{}{Hello, who are you?}
-{109}{}{What's your job?}
-{110}{}{No offense to your fellow deathclaws, but you sound more... educated, shall we say?}
+{107}{}{Minha cabeça doi. Volto mais tarde}
+{108}{}{Olá, quem é você?}
+{109}{}{Qual é o seu trabalho?}
+{110}{}{Sem ofensa para seus amigos Deathclaws, mas você parece mais... educado, entende?}
 {111}{}{Well, just passing the time.}
-{112}{}{I am called Valdis. And you are?}
-{113}{}{Me human.}
-{114}{}{Oooo! Something shiny. Me go.}
-{115}{}{Hey, I'm the one asking the questions here.}
+{112}{}{Eu me chamo Valdis. E você é...?}
+{113}{}{Eu humano.}
+{114}{}{Oooo! Algo brilhante. Eu vou.}
+{115}{}{Ei, eu que estou fazendo as perguntas aqui.}
 {116}{}{Tenho que ir.}
-{117}{}{Glad to meet you, I'm}
+{117}{}{Prazer em conhecê-lo, sou}
 {118}{}{Tenho-o.}
-{119}{}{I am currently guarding this area of the vault against any unauthorized personnel.}
-{120}{}{Un awe thor iced person el?}
-{121}{}{Uh... sure.}
-{122}{}{You talk funny. Me leave.}
-{123}{}{I'll be leaving now, Valdis.}
+{119}{}{Atualmente, estou protegendo esta área da Vault contra qualquer pessoa não autorizada.}
+{120}{}{Pessoa.. nao alto e risada?}
+{121}{}{Ah... certo.}
+{122}{}{Fala engraçado. Eu vou.}
+{123}{}{Estou indo agora, Valdis.}
 {124}{}{Eu vejo.}
-{125}{}{Well, you certainly seem to know your job well.}
-{126}{}{Do you have the brains to decide who is or is not 'authorized?'}
-{127}{}{Why yes, I do. I also have enough brains to decide who is or is not an asshole -- and I have
- concluded that you excel in that category! Now, why don't you leave before I dance on your face for
- half an hour?}
+{125}{}{Bem, você certamente parece conhecer bem o seu trabalho.}
+{126}{}{Você tem o cérebro para decidir quem é ou não 'autorizado?'}
+{127}{}{Sim, eu tenho. Eu também tenho cérebro suficiente para decidir quem é ou não um imbecil - e chego a
+ conclusão que você é mestre nessa categoria! Agora, por que você não vai embora antes que eu dance na
+ sua cara meia hora?}
 {128}{}{Tudo certo.}
-{129}{}{Bad lizard. Now I have to shoot you.}
-{130}{}{Hey, I'm sorry. I'll watch my tongue from now on.}
-{131}{}{Yes. We are quite diverse in our levels of education. I am doing my best to continue mine in my
- spare time.}
-{132}{}{An iguana with a goal. How freaking cute.}
-{133}{}{You're doing ok.}
-{134}{}{That's an excellent goal. Keep it up.}
-{135}{}{Huh? I am well aware that you are human. I was inquiring about your name.}
-{136}{}{Not ask name, ask 'you are.' I are human.}
-{137}{}{Me know. Me just test you. Uh... you pass.}
-{138}{}{Hear someone call. Me go.}
-{139}{}{I see. Let us try this again. Hello. I am Valdis. What is your name?}
+{129}{}{Lagarto mau. Agora vou disparar.}
+{130}{}{Ei, me desculpe. Vou segurar minha língua a partir de agora.}
+{131}{}{Sim. Somos bastante diversificados em nossos níveis de educação. Estou fazendo o meu melhor para
+ continuar me aprimorando em meu tempo livre.}
+{132}{}{Uma iguana com um objetivo. Que fofo.}
+{133}{}{Você está indo bem.}
+{134}{}{Esse é um excelente objetivo. Continue assim.}
+{135}{}{Huh? Estou bem ciente de que você é humano. Eu estava perguntando sobre seu nome.}
+{136}{}{Não perguntou nome, perguntou 'você é'. Eu humano.}
+{137}{}{Eu sei. Eu apenas testava você. Uh... você passou.}
+{138}{}{Ouvi alguém chamar. Eu vou.}
+{139}{}{Entendo. Vamos tentar isso novamente. Olá, eu sou Valdis. Qual o seu nome?}
 {140}{}{Eu}
 {141}{}{Adeus.}
-{142}{}{Unauthorized personnel. Meaning 'people who do not have permission to be here.'}
+{142}{}{Pessoal não autorizado. Significa 'pessoas que não têm permissão para estar aqui.'}
 {143}{}{Ok. Me entender.}
-{144}{}{Me get another of those headaches. Me go now.}
-{145}{}{My goal is to maintain as much patience as I can, in light of the fact that you are being rude.
- If you cannot deal with me civilly, then please leave.}
-{146}{}{Sorry, I'll try to be more civil.}
-{147}{}{Shove it.}
+{144}{}{Eu terei outra daquelas dores de cabeça. Eu vou agora.}
+{145}{}{Meu objetivo é manter o máximo de paciência possível, tendo em vista que você está sendo rude. Se você
+ não pode lidar comigo civilizadamente, então, por favor, vá embora.}
+{146}{}{Desculpe, vou tentar ser mais civilizado.}
+{147}{}{Empurra.}
 {148}{}{Sim.}
 {149}{}{Bom dia pra você.}
-{150}{}{I regret the fact that I must kill you.}
+{150}{}{Eu lamento o ocorrido, mas devo mata-lo.}
 {151}{}{.}

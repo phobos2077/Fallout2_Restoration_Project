@@ -214,7 +214,7 @@
 {3309}{}{Ein paar Kopfgeldjägern.}
 {3310}{}{Ein paar Kopfgeldjägern.}
 {3311}{}{Ein paar Kopfgeldjägern.}
-{3312}{}{ Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
+{3312}{}{Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
 {3313}{}{Einer Gruppe Radskorpione.}
 {3314}{}{Einer Gruppe Sporenpflanzen.}
 {3315}{}{Einer Gruppe Schweineratten.}
@@ -242,7 +242,7 @@
 {3359}{}{Ein paar Kopfgeldjägern.}
 {3360}{}{Ein paar Kopfgeldjägern.}
 {3361}{}{Ein paar Kopfgeldjägern.}
-{3362}{}{ Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
+{3362}{}{Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
 {3363}{}{Einer Gruppe Kannibalen.}
 {3364}{}{Einer Gruppe Sporenpflanzen und einigen Silbergeckos.}
 {3365}{}{Einer Gruppe Silbergeckos.}
@@ -264,7 +264,7 @@
 {3381}{}{Einem Wachportal.}
 {3382}{}{Den Rittern der Tafelrunde.}
 {3383}{}{Dem Blechmann.}
-{3384}{}{   Ungewaschenen Dorfbewohnern auf der Jagd nach einem Spammer.}
+{3384}{}{Ungewaschenen Dorfbewohnern auf der Jagd nach einem Spammer.}
 {3385}{}{Einer Bande zorniger Ausgestoßener.}
 {3400}{}{Einer Kriegertruppe.}
 {3401}{}{Einer Gruppe Kannibalen.}
@@ -278,7 +278,7 @@
 {3409}{}{Ein paar Kopfgeldjägern.}
 {3410}{}{Ein paar Kopfgeldjägern.}
 {3411}{}{Ein paar Kopfgeldjägern.}
-{3412}{}{ Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
+{3412}{}{Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
 {3413}{}{Einer Gruppe Radskorpione.}
 {3414}{}{Einer Gruppe Sporenpflanzen.}
 {3415}{}{Einer Gruppe Schweineratten.}
@@ -304,7 +304,7 @@
 {3459}{}{Ein paar Kopfgeldjägern.}
 {3460}{}{Ein paar Kopfgeldjägern.}
 {3461}{}{Ein paar Kopfgeldjägern.}
-{3462}{}{ Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
+{3462}{}{Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
 {3463}{}{Einer Gruppe heiliger Menschen.}
 {3464}{}{Einigen Geckos und Maulwurfsratten.}
 {3465}{}{Einigen Geckos.}
@@ -320,7 +320,7 @@
 {3475}{}{Einem Wachportal.}
 {3476}{}{Den Rittern der Tafelrunde.}
 {3477}{}{Dem Blechmann.}
-{3478}{}{   Ungewaschenen Dorfbewohnern auf der Jagd nach einem Spammer.}
+{3478}{}{Ungewaschenen Dorfbewohnern auf der Jagd nach einem Spammer.}
 {3479}{}{Einer Bande zorniger Ausgestoßener.}
 {3500}{}{Einer Bande Ausgestoßener.}
 {3501}{}{Einer Gruppe heiliger Menschen.}
@@ -332,7 +332,7 @@
 {3507}{}{Ein paar Kopfgeldjägern.}
 {3508}{}{Ein paar Kopfgeldjägern.}
 {3509}{}{Ein paar Kopfgeldjägern.}
-{3510}{}{ Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
+{3510}{}{Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
 {3511}{}{Einigen Silbergeckos, versteckt zwischen Sporenpflanzen.}
 {3512}{}{Einigen Geckos.}
 {3513}{}{Einigen Radskorpionen, versteckt zwischen Sporenpflanzen.}
@@ -359,7 +359,7 @@
 {3562}{}{Ein paar Kopfgeldjägern.}
 {3563}{}{Ein paar Kopfgeldjägern.}
 {3564}{}{Ein paar Kopfgeldjägern.}
-{3565}{}{ Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
+{3565}{}{Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
 {3566}{}{Einer Familie von Radskorpionen.}
 {3567}{}{Einigen Sporenpflanzen.}
 {3568}{}{Einigen Banditen, die von Goldgeckos angegriffen werden.}
@@ -383,7 +383,7 @@
 {3586}{}{Einem Wachportal.}
 {3587}{}{Den Rittern der Tafelrunde.}
 {3588}{}{Dem Blechmann.}
-{3589}{}{   Ungewaschenen Dorfbewohnern auf der Jagd nach einem Spammer.}
+{3589}{}{Ungewaschenen Dorfbewohnern auf der Jagd nach einem Spammer.}
 {3600}{}{Einem Rudel Goldgeckos und einer Familie von Radskorpionen.}
 {3601}{}{Einigen Banditen.}
 {3602}{}{Einer Gruppe Obdachloser.}
@@ -396,7 +396,7 @@
 {3609}{}{Ein paar Kopfgeldjägern.}
 {3610}{}{Ein paar Kopfgeldjägern.}
 {3611}{}{Ein paar Kopfgeldjägern.}
-{3612}{}{ Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
+{3612}{}{Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
 {3613}{}{Einer Familie von Radskorpionen.}
 {3614}{}{Einigen Sporenpflanzen.}
 {3615}{}{Einigen Banditen, die von Goldgeckos angegriffen werden.}
@@ -429,7 +429,7 @@
 {3659}{}{Ein paar Kopfgeldjägern.}
 {3660}{}{Ein paar Kopfgeldjägern.}
 {3661}{}{Ein paar Kopfgeldjägern.}
-{3662}{}{ Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
+{3662}{}{Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
 {3663}{}{Einigen Fallenstellern.}
 {3664}{}{Einigen Banditen, die eine Händlergruppe angreifen.}
 {3665}{}{Einigen Banditen, die Fallensteller in einen Hinterhalt locken.}
@@ -451,7 +451,7 @@
 {3681}{}{Einem Wachportal.}
 {3682}{}{Den Rittern der Tafelrunde.}
 {3683}{}{Dem Blechmann.}
-{3684}{}{   Ungewaschenen Dorfbewohnern auf der Jagd nach einem Spammer.}
+{3684}{}{Ungewaschenen Dorfbewohnern auf der Jagd nach einem Spammer.}
 {3685}{}{Einer Bande zorniger Ausgestoßener.}
 {3700}{}{Einer Giftmülldeponie.}
 {3701}{}{Einem einsamen überlebenden Hund.}
@@ -465,7 +465,7 @@
 {3709}{}{Ein paar Kopfgeldjägern.}
 {3710}{}{Ein paar Kopfgeldjägern.}
 {3711}{}{Ein paar Kopfgeldjägern.}
-{3712}{}{ Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
+{3712}{}{Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
 {3713}{}{Einer Räuberbande.}
 {3714}{}{Einer Bande Räuber und Wegelagerern.}
 {3715}{}{Einigen Goldgeckos und einigen Radskorpionen.}
@@ -485,7 +485,7 @@
 {3729}{}{Einem Wachportal.}
 {3730}{}{Den Rittern der Tafelrunde.}
 {3731}{}{Dem Blechmann.}
-{3732}{}{   Ungewaschenen Dorfbewohnern auf der Jagd nach einem Spammer.}
+{3732}{}{Ungewaschenen Dorfbewohnern auf der Jagd nach einem Spammer.}
 {3750}{}{Einer Truppe Straßenräuber.}
 {3751}{}{Einer Räuberbande.}
 {3752}{}{Einer Bande Räuber und Wegelagerern.}
@@ -498,7 +498,7 @@
 {3759}{}{Ein paar Kopfgeldjägern.}
 {3760}{}{Ein paar Kopfgeldjägern.}
 {3761}{}{Ein paar Kopfgeldjägern.}
-{3762}{}{ Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
+{3762}{}{Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
 {3763}{}{Einer Familie von Goldgeckos.}
 {3764}{}{Einer Familie von Maulwurfsratten.}
 {3765}{}{Einer großen Gruppe Radskorpione.}
@@ -523,7 +523,7 @@
 {3809}{}{Ein paar Kopfgeldjägern.}
 {3810}{}{Ein paar Kopfgeldjägern.}
 {3811}{}{Ein paar Kopfgeldjägern.}
-{3812}{}{ Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
+{3812}{}{Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
 {3813}{}{Einer Straßenräuberbande.}
 {3814}{}{Einer Räuberbande.}
 {3815}{}{Ein paar Goldgeckos, die sich zwischen Sporenpflanzen verstecken.}
@@ -542,7 +542,7 @@
 {3828}{}{Einem Wachportal.}
 {3829}{}{Den Rittern der Tafelrunde.}
 {3830}{}{Dem Blechmann.}
-{3831}{}{   Ungewaschenen Dorfbewohnern auf der Jagd nach einem Spammer.}
+{3831}{}{Ungewaschenen Dorfbewohnern auf der Jagd nach einem Spammer.}
 {3850}{}{Einer Gruppe Sklavenhändler mit Sklaven.}
 {3851}{}{Einer Straßenräuberbande.}
 {3852}{}{Einer Räuberbande.}
@@ -555,7 +555,7 @@
 {3859}{}{Ein paar Kopfgeldjägern.}
 {3860}{}{Ein paar Kopfgeldjägern.}
 {3861}{}{Ein paar Kopfgeldjägern.}
-{3862}{}{ Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
+{3862}{}{Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
 {3863}{}{Einem Rudel Radskorpione und einigen Maulwurfsratten.}
 {3864}{}{Einem Rudel Radskorpione.}
 {3865}{}{Einer Gruppe Maulwurfsratten.}
@@ -577,7 +577,7 @@
 {3909}{}{Ein paar Kopfgeldjägern.}
 {3910}{}{Ein paar Kopfgeldjägern.}
 {3911}{}{Ein paar Kopfgeldjägern.}
-{3912}{}{ Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
+{3912}{}{Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
 {3913}{}{Einigen Räubern im Kampf gegen Skorpione.}
 {3914}{}{Einigen Räubern.}
 {3915}{}{Einer Gruppe von Kaufleuten, die von Wegelagerern angegriffen wird.}
@@ -599,7 +599,7 @@
 {3959}{}{Ein paar Kopfgeldjägern.}
 {3960}{}{Ein paar Kopfgeldjägern.}
 {3961}{}{Ein paar Kopfgeldjägern.}
-{3962}{}{ Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
+{3962}{}{Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
 {3963}{}{Einigen wilden Brahmin.}
 {3964}{}{Einigen Radskorpionen.}
 {3965}{}{Einigen Schwarzbrennern, die von Straßenräubern angegriffen werden.}
@@ -627,12 +627,12 @@
 {4009}{}{Ein paar Kopfgeldjägern.}
 {4010}{}{Ein paar Kopfgeldjägern.}
 {4011}{}{Ein paar Kopfgeldjägern.}
-{4012}{}{ Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
+{4012}{}{Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
 {4013}{}{Einem Schwarm Gottesanbeterinnen, die Sporenpflanzen heimsuchen.}
 {4014}{}{Einem Rudel Wildhunde unter Sporenpflanzen.}
 {4015}{}{Einem Schwarm Gottesanbeterinnen.}
 {4016}{}{Einem Rudel Wildhunde.}
-{4017}{}{ Einigen Räubern, die sich gegen Wildhunde wehren.}
+{4017}{}{Einigen Räubern, die sich gegen Wildhunde wehren.}
 {4018}{}{Einer Karawane, die von Wildhunden angegriffen wird.}
 {4019}{}{Einer Karawane, die von Räubern in einen Hinterhalt gelockt wird.}
 {4020}{}{Einer Karawane, die von Wegelagerern in einen Hinterhalt gelockt wird.}
@@ -651,7 +651,7 @@
 {4059}{}{Ein paar Kopfgeldjägern.}
 {4060}{}{Ein paar Kopfgeldjägern.}
 {4061}{}{Ein paar Kopfgeldjägern.}
-{4062}{}{ Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
+{4062}{}{Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
 {4063}{}{Einigen Räubern mit Wildhunden.}
 {4064}{}{Einer Räuberbande.}
 {4065}{}{Einer Truppe Straßenräuber.}
@@ -659,7 +659,7 @@
 {4067}{}{Einem Rudel Wildhunde unter Sporenpflanzen.}
 {4068}{}{Einem Schwarm Gottesanbeterinnen.}
 {4069}{}{Einem Rudel Wildhunde.}
-{4070}{}{ Einigen Räubern, die sich gegen Wildhunde wehren.}
+{4070}{}{Einigen Räubern, die sich gegen Wildhunde wehren.}
 {4071}{}{Einer Karawane, die von Wildhunden angegriffen wird.}
 {4072}{}{Einer Karawane, die von Räubern in einen Hinterhalt gelockt wird.}
 {4073}{}{Einer Karawane, die von Wegelagerern in einen Hinterhalt gelockt wird.}
@@ -670,7 +670,7 @@
 {4078}{}{Einem Wachportal.}
 {4079}{}{Den Rittern der Tafelrunde.}
 {4080}{}{Dem Blechmann.}
-{4081}{}{   Ungewaschenen Dorfbewohnern auf der Jagd nach einem Spammer.}
+{4081}{}{Ungewaschenen Dorfbewohnern auf der Jagd nach einem Spammer.}
 {4100}{}{Einigen Geckos.}
 {4101}{}{Einem Schwarm Gottesanbeterinnen.}
 {4102}{}{Einigen Radskorpionen.}
@@ -683,7 +683,7 @@
 {4109}{}{Ein paar Kopfgeldjägern.}
 {4110}{}{Ein paar Kopfgeldjägern.}
 {4111}{}{Ein paar Kopfgeldjägern.}
-{4112}{}{ Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
+{4112}{}{Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
 {4113}{}{Einem Händler mit Wachen im Kampf gegen Goldgeckos.}
 {4114}{}{Einem Schwarm Gottesanbeterinnen, die eine Händlergruppe massakrieren.}
 {4115}{}{Einem Schwarm Gottesanbeterinnen im Kampf gegen wilde Brahmin.}
@@ -705,7 +705,7 @@
 {4159}{}{Ein paar Kopfgeldjägern.}
 {4160}{}{Ein paar Kopfgeldjägern.}
 {4161}{}{Ein paar Kopfgeldjägern.}
-{4162}{}{ Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
+{4162}{}{Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
 {4163}{}{Einem Schwarm Gottesanbeterinnen.}
 {4164}{}{Einigen Radskorpionen.}
 {4165}{}{Einigen wilden Brahmin.}
@@ -721,7 +721,7 @@
 {4175}{}{Einem Wachportal.}
 {4176}{}{Den Rittern der Tafelrunde.}
 {4177}{}{Dem Blechmann.}
-{4178}{}{   Ungewaschenen Dorfbewohnern auf der Jagd nach einem Spammer.}
+{4178}{}{Ungewaschenen Dorfbewohnern auf der Jagd nach einem Spammer.}
 {4179}{}{Ein paar irren Banditen.}
 {4200}{}{Einer Giftmülldeponie.}
 {4201}{}{Einem einsamen überlebenden Hund.}
@@ -735,13 +735,13 @@
 {4209}{}{Ein paar Kopfgeldjägern.}
 {4210}{}{Ein paar Kopfgeldjägern.}
 {4211}{}{Ein paar Kopfgeldjägern.}
-{4212}{}{ Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
+{4212}{}{Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
 {4213}{}{Einigen mutierten Schweineratten.}
 {4214}{}{Einigen Sporenpflanzen.}
-{4215}{}{  Einem Einsiedler mit Hunden im Kampf im Kampf gegen mutierte Maulwurfsratten.}
+{4215}{}{Einem Einsiedler mit Hunden im Kampf im Kampf gegen mutierte Maulwurfsratten.}
 {4216}{}{Einem Einsiedler, der sich gegen Wildhunde wehrt.}
 {4217}{}{Einem Einsiedler, der sich gegen mutierte Schweineratten wehrt}
-{4218}{}{  Einem Einsiedler mit Hunden im Kampf im Kampf gegen mutierte Maulwurfsratten.}
+{4218}{}{Einem Einsiedler mit Hunden im Kampf im Kampf gegen mutierte Maulwurfsratten.}
 {4219}{}{Einigen mutierten Maulwurfsratten im Kampf gegen mutierte Schweineratten.}
 {4220}{}{Einigen mutierten Maulwurfsratten im Kampf gegen Sporenpflanzen.}
 {4221}{}{Einigen mutierten Schweineratten im Kampf gegen Wildhunde.}
@@ -752,11 +752,11 @@
 {4226}{}{Einem Wachportal.}
 {4227}{}{Den Rittern der Tafelrunde.}
 {4228}{}{Dem Blechmann.}
-{4229}{}{   Ungewaschenen Dorfbewohnern auf der Jagd nach einem Spammer.}
+{4229}{}{Ungewaschenen Dorfbewohnern auf der Jagd nach einem Spammer.}
 {4250}{}{Einigen mutierten Maulwurfsratten.}
 {4251}{}{Einigen mutierten Schweineratten.}
 {4252}{}{Einigen Sporenpflanzen.}
-{4253}{}{  Einem Einsiedler mit Hunden im Kampf im Kampf gegen mutierte Maulwurfsratten.}
+{4253}{}{Einem Einsiedler mit Hunden im Kampf im Kampf gegen mutierte Maulwurfsratten.}
 {4254}{}{Ein paar Kopfgeldjägern.}
 {4255}{}{Ein paar Kopfgeldjägern.}
 {4256}{}{Ein paar Kopfgeldjägern.}
@@ -765,10 +765,10 @@
 {4259}{}{Ein paar Kopfgeldjägern.}
 {4260}{}{Ein paar Kopfgeldjägern.}
 {4261}{}{Ein paar Kopfgeldjägern.}
-{4262}{}{ Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
+{4262}{}{Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
 {4263}{}{Einem Einsiedler, der sich gegen Wildhunde wehrt.}
 {4264}{}{Einem Einsiedler, der sich gegen mutierte Schweineratten wehrt}
-{4265}{}{  Einem Einsiedler mit Hunden im Kampf im Kampf gegen mutierte Maulwurfsratten.}
+{4265}{}{Einem Einsiedler mit Hunden im Kampf im Kampf gegen mutierte Maulwurfsratten.}
 {4266}{}{Einigen mutierten Maulwurfsratten im Kampf gegen mutierte Schweineratten.}
 {4267}{}{Einigen mutierten Maulwurfsratten im Kampf gegen Sporenpflanzen.}
 {4268}{}{Einigen mutierten Schweineratten im Kampf gegen Wildhunde.}
@@ -787,7 +787,7 @@
 {4309}{}{Ein paar Kopfgeldjägern.}
 {4310}{}{Ein paar Kopfgeldjägern.}
 {4311}{}{Ein paar Kopfgeldjägern.}
-{4312}{}{ Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
+{4312}{}{Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
 {4313}{}{Einer Patrouille mit Hunden, die Sklaven knechten.}
 {4314}{}{Einer Gruppe Sklavenhändler, die sich gegen Goldgeckos wehren.}
 {4315}{}{Einer Patrouille im Kampf gegen Sklavenhändler.}
@@ -808,7 +808,7 @@
 {4359}{}{Ein paar Kopfgeldjägern.}
 {4360}{}{Ein paar Kopfgeldjägern.}
 {4361}{}{Ein paar Kopfgeldjägern.}
-{4362}{}{ Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
+{4362}{}{Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
 {4363}{}{Einer Gruppe Sklavenhändler.}
 {4364}{}{Einigen Geckos.}
 {4365}{}{Einem Rudel Wildhunde.}
@@ -824,7 +824,7 @@
 {4375}{}{Einem Wachportal.}
 {4376}{}{Den Rittern der Tafelrunde.}
 {4377}{}{Dem Blechmann.}
-{4378}{}{   Ungewaschenen Dorfbewohnern auf der Jagd nach einem Spammer.}
+{4378}{}{Ungewaschenen Dorfbewohnern auf der Jagd nach einem Spammer.}
 {4400}{}{Einem Haufen Leichenfledderer.}
 {4401}{}{Einigen leichenfleddernden Ghuls.}
 {4402}{}{Einem Haufen Irrer.}
@@ -837,7 +837,7 @@
 {4409}{}{Ein paar Kopfgeldjägern.}
 {4410}{}{Ein paar Kopfgeldjägern.}
 {4411}{}{Ein paar Kopfgeldjägern.}
-{4412}{}{ Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
+{4412}{}{Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
 {4413}{}{Einigen Geckos.}
 {4414}{}{Einem Rudel Wildhunde.}
 {4415}{}{Einer Familie von Radskorpionen.}
@@ -861,7 +861,7 @@
 {4459}{}{Ein paar Kopfgeldjägern.}
 {4460}{}{Ein paar Kopfgeldjägern.}
 {4461}{}{Ein paar Kopfgeldjägern.}
-{4462}{}{ Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
+{4462}{}{Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
 {4463}{}{Einigen leichenfleddernden Ghuls.}
 {4464}{}{Einem Haufen Irrer.}
 {4465}{}{Einigen irren Ghuls.}
@@ -880,7 +880,7 @@
 {4478}{}{Einem Wachportal.}
 {4479}{}{Den Rittern der Tafelrunde.}
 {4480}{}{Dem Blechmann.}
-{4481}{}{   Ungewaschenen Dorfbewohnern auf der Jagd nach einem Spammer.}
+{4481}{}{Ungewaschenen Dorfbewohnern auf der Jagd nach einem Spammer.}
 {4500}{}{Einigen Kannibalen.}
 {4501}{}{Einigen Verirrten.}
 {4502}{}{Einer Kriegertruppe.}
@@ -893,7 +893,7 @@
 {4509}{}{Ein paar Kopfgeldjägern.}
 {4510}{}{Ein paar Kopfgeldjägern.}
 {4511}{}{Ein paar Kopfgeldjägern.}
-{4512}{}{ Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
+{4512}{}{Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
 {4513}{}{Einer Familie von Radskorpionen.}
 {4514}{}{Einigen Maulwurfsratten.}
 {4515}{}{Einigen Fischern, die sich gegen Kannibalen wehren.}
@@ -912,7 +912,7 @@
 {4559}{}{Ein paar Kopfgeldjägern.}
 {4560}{}{Ein paar Kopfgeldjägern.}
 {4561}{}{Ein paar Kopfgeldjägern.}
-{4562}{}{ Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
+{4562}{}{Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
 {4563}{}{Einigen Ausgestoßenen.}
 {4564}{}{Einigen Verirrten.}
 {4565}{}{Einer Kriegertruppe.}
@@ -924,7 +924,7 @@
 {4571}{}{Einigen Geckos, die einige Ausgestoßene angreifen.}
 {4572}{}{Einigen Geckos im Kampf mit einigen Verirrten.}
 {4573}{}{Einigen Radskorpionen im Kampf gegen Kannibalen.}
-{4574}{}{ Einigen Radskorpionen, die einen Einsiedler angreifen.}
+{4574}{}{Einigen Radskorpionen, die einen Einsiedler angreifen.}
 {4575}{}{Einem Einsiedler.}
 {4576}{}{Den Überresten eines Wals.}
 {4577}{}{Einem riesigen Steinkopf.}
@@ -932,7 +932,7 @@
 {4579}{}{Einem Wachportal.}
 {4580}{}{Den Rittern der Tafelrunde.}
 {4581}{}{Dem Blechmann.}
-{4582}{}{   Ungewaschenen Dorfbewohnern auf der Jagd nach einem Spammer.}
+{4582}{}{Ungewaschenen Dorfbewohnern auf der Jagd nach einem Spammer.}
 {4600}{}{Einigen Kannibalen.}
 {4601}{}{Einigen Ausgestoßenen.}
 {4602}{}{Einigen Verirrten.}
@@ -945,7 +945,7 @@
 {4609}{}{Ein paar Kopfgeldjägern.}
 {4610}{}{Ein paar Kopfgeldjägern.}
 {4611}{}{Ein paar Kopfgeldjägern.}
-{4612}{}{ Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
+{4612}{}{Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
 {4613}{}{Einigen Geckos, versteckt zwischen Sporenpflanzen.}
 {4614}{}{Einigen Geckos und Radskorpionen.}
 {4615}{}{Einigen Geckos.}
@@ -954,7 +954,7 @@
 {4618}{}{Einigen Geckos, die einige Ausgestoßene angreifen.}
 {4619}{}{Einigen Geckos im Kampf mit einigen Verirrten.}
 {4620}{}{Einigen Radskorpionen im Kampf gegen Kannibalen.}
-{4621}{}{ Einigen Radskorpionen, die einen Einsiedler angreifen.}
+{4621}{}{Einigen Radskorpionen, die einen Einsiedler angreifen.}
 {4622}{}{Einem Einsiedler.}
 {4623}{}{Einem Mann, der eine Brücke bewacht.}
 {4624}{}{Den Rittern der Tafelrunde im Kampf gegen eine Ratte.}
@@ -970,7 +970,7 @@
 {4659}{}{Ein paar Kopfgeldjägern.}
 {4660}{}{Ein paar Kopfgeldjägern.}
 {4661}{}{Ein paar Kopfgeldjägern.}
-{4662}{}{ Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
+{4662}{}{Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
 {4663}{}{Einigen Wegelagerern und Räubern.}
 {4664}{}{Einigen Straßenräubern.}
 {4665}{}{Einigen Räubern.}
@@ -988,7 +988,7 @@
 {4677}{}{Einem Wachportal.}
 {4678}{}{Den Rittern der Tafelrunde.}
 {4679}{}{Dem Blechmann.}
-{4680}{}{   Ungewaschenen Dorfbewohnern auf der Jagd nach einem Spammer.}
+{4680}{}{Ungewaschenen Dorfbewohnern auf der Jagd nach einem Spammer.}
 {4700}{}{Einer Den-Karawane.}
 {4701}{}{Einigen Wegelagerern und Räubern.}
 {4702}{}{Einigen Straßenräubern.}
@@ -1001,7 +1001,7 @@
 {4709}{}{Ein paar Kopfgeldjägern.}
 {4710}{}{Ein paar Kopfgeldjägern.}
 {4711}{}{Ein paar Kopfgeldjägern.}
-{4712}{}{ Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
+{4712}{}{Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
 {4713}{}{Einer Redding-Karawane, die sich gegen Straßenräuber wehrt.}
 {4714}{}{Einer New-Reno-Karawane, die sich gegen Räuber wehrt.}
 {4715}{}{Einer Den-Karawane, die sich gegen Straßenräuber wehrt.}
@@ -1024,7 +1024,7 @@
 {4759}{}{Ein paar Kopfgeldjägern.}
 {4760}{}{Ein paar Kopfgeldjägern.}
 {4761}{}{Ein paar Kopfgeldjägern.}
-{4762}{}{ Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
+{4762}{}{Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
 {4763}{}{Einigen Grubenspringer.}
 {4764}{}{Einigen Wölfen.}
 {4765}{}{Einigen Geckos.}
@@ -1042,7 +1042,7 @@
 {4777}{}{Einem Wachportal.}
 {4778}{}{Den Rittern der Tafelrunde.}
 {4779}{}{Dem Blechmann.}
-{4780}{}{   Ungewaschenen Dorfbewohnern auf der Jagd nach einem Spammer.}
+{4780}{}{Ungewaschenen Dorfbewohnern auf der Jagd nach einem Spammer.}
 {4800}{}{Einigen Geckos und Wölfen.}
 {4801}{}{Einigen Grubenspringer.}
 {4802}{}{Einigen Wölfen.}
@@ -1055,7 +1055,7 @@
 {4809}{}{Ein paar Kopfgeldjägern.}
 {4810}{}{Ein paar Kopfgeldjägern.}
 {4811}{}{Ein paar Kopfgeldjägern.}
-{4812}{}{ Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
+{4812}{}{Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
 {4813}{}{Einigen Goldsuchern im Kampf gegen Grubenspringer.}
 {4814}{}{Einigen Fallenstellern im Kampf gegen Geckos.}
 {4815}{}{Einigen Schmugglern im Kampf gegen Wölfe.}
@@ -1078,7 +1078,7 @@
 {4859}{}{Ein paar Kopfgeldjägern.}
 {4860}{}{Ein paar Kopfgeldjägern.}
 {4861}{}{Ein paar Kopfgeldjägern.}
-{4862}{}{ Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
+{4862}{}{Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
 {4863}{}{Einem Rudel Wölfe.}
 {4864}{}{Einem Rudel mutierter Maulwurfsratten.}
 {4865}{}{Einem Rudel Radskorpione.}
@@ -1099,7 +1099,7 @@
 {4909}{}{Ein paar Kopfgeldjägern.}
 {4910}{}{Ein paar Kopfgeldjägern.}
 {4911}{}{Ein paar Kopfgeldjägern.}
-{4912}{}{ Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
+{4912}{}{Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
 {4913}{}{Einer Karawane, die sich gegen Gangster wehrt.}
 {4914}{}{Einer Karawane, die sich gegen Gangster wehrt.}
 {4915}{}{Einer Karawane.}
@@ -1121,7 +1121,7 @@
 {4959}{}{Ein paar Kopfgeldjägern.}
 {4960}{}{Ein paar Kopfgeldjägern.}
 {4961}{}{Ein paar Kopfgeldjägern.}
-{4962}{}{ Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
+{4962}{}{Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
 {4963}{}{Einigen Wölfen.}
 {4964}{}{Einer Karawane, die sich gegen Gangster wehrt.}
 {4965}{}{Einer Karawane, die sich gegen Gangster wehrt.}
@@ -1137,7 +1137,7 @@
 {4975}{}{Einem Wachportal.}
 {4976}{}{Den Rittern der Tafelrunde.}
 {4977}{}{Dem Blechmann.}
-{4978}{}{   Ungewaschenen Dorfbewohnern auf der Jagd nach einem Spammer.}
+{4978}{}{Ungewaschenen Dorfbewohnern auf der Jagd nach einem Spammer.}
 {4979}{}{Einer irren Gangsterbande.}
 {5000}{}{Einer Gangsterbande, die einige Wölfe anführt.}
 {5001}{}{Einigen Sporenpflanzen und Wölfen.}
@@ -1151,7 +1151,7 @@
 {5009}{}{Ein paar Kopfgeldjägern.}
 {5010}{}{Ein paar Kopfgeldjägern.}
 {5011}{}{Ein paar Kopfgeldjägern.}
-{5012}{}{ Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
+{5012}{}{Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
 {5013}{}{Einem Rudel Radskorpione.}
 {5014}{}{Einem Rudel Wölfe im Kampf gegen Gangster.}
 {5015}{}{Einem Mann, der eine Brücke bewacht.}
@@ -1169,7 +1169,7 @@
 {5059}{}{Ein paar Kopfgeldjägern.}
 {5060}{}{Ein paar Kopfgeldjägern.}
 {5061}{}{Ein paar Kopfgeldjägern.}
-{5062}{}{ Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
+{5062}{}{Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
 {5063}{}{Einigen Sporenpflanzen und Wölfen.}
 {5064}{}{Einer Gangsterbande.}
 {5065}{}{Einem Rudel Wölfe.}
@@ -1181,7 +1181,7 @@
 {5071}{}{Einem Wachportal.}
 {5072}{}{Den Rittern der Tafelrunde.}
 {5073}{}{Dem Blechmann.}
-{5074}{}{   Ungewaschenen Dorfbewohnern auf der Jagd nach einem Spammer.}
+{5074}{}{Ungewaschenen Dorfbewohnern auf der Jagd nach einem Spammer.}
 {5075}{}{Einer irren Gangsterbande.}
 {5100}{}{Einer Giftmülldeponie.}
 {5101}{}{Einem einsamen überlebenden Hund.}
@@ -1195,14 +1195,14 @@
 {5109}{}{Ein paar Kopfgeldjägern.}
 {5110}{}{Ein paar Kopfgeldjägern.}
 {5111}{}{Ein paar Kopfgeldjägern.}
-{5112}{}{ Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
+{5112}{}{Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
 {5113}{}{Den Überresten eines Wals.}
 {5114}{}{Einem riesigen Steinkopf.}
 {5115}{}{Einem abgestürzten Shuttle.}
 {5116}{}{Einem Wachportal.}
 {5117}{}{Den Rittern der Tafelrunde.}
 {5118}{}{Dem Blechmann.}
-{5119}{}{   Ungewaschenen Dorfbewohnern auf der Jagd nach einem Spammer.}
+{5119}{}{Ungewaschenen Dorfbewohnern auf der Jagd nach einem Spammer.}
 {5120}{}{Dem Café der geplatzten Träume.}
 {5150}{}{Einer Enklaven-Patrouille.}
 {5151}{}{Ein paar Kopfgeldjägern.}
@@ -1213,7 +1213,7 @@
 {5156}{}{Ein paar Kopfgeldjägern.}
 {5157}{}{Ein paar Kopfgeldjägern.}
 {5158}{}{Ein paar Kopfgeldjägern.}
-{5159}{}{ Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
+{5159}{}{Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
 {5160}{}{Einem Mann, der eine Brücke bewacht.}
 {5161}{}{Den Rittern der Tafelrunde im Kampf gegen eine Ratte.}
 {5200}{}{Einer Enklaven-Patrouille.}
@@ -1225,7 +1225,7 @@
 {5206}{}{Ein paar Kopfgeldjägern.}
 {5207}{}{Ein paar Kopfgeldjägern.}
 {5208}{}{Ein paar Kopfgeldjägern.}
-{5209}{}{ Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
+{5209}{}{Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
 {5250}{}{Einer Giftmülldeponie.}
 {5251}{}{Einem einsamen überlebenden Hund.}
 {5252}{}{Einer Herde Brahmin.}
@@ -1238,7 +1238,7 @@
 {5259}{}{Ein paar Kopfgeldjägern.}
 {5260}{}{Ein paar Kopfgeldjägern.}
 {5261}{}{Ein paar Kopfgeldjägern.}
-{5262}{}{ Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
+{5262}{}{Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
 {5263}{}{Einer Armee von Floaters und Zentauren.}
 {5264}{}{Einigen Feuergeckos.}
 {5265}{}{Einer Riesenhorde Aliens.}
@@ -1253,7 +1253,7 @@
 {5274}{}{Einem Wachportal.}
 {5275}{}{Den Rittern der Tafelrunde.}
 {5276}{}{Dem Blechmann.}
-{5277}{}{   Ungewaschenen Dorfbewohnern auf der Jagd nach einem Spammer.}
+{5277}{}{Ungewaschenen Dorfbewohnern auf der Jagd nach einem Spammer.}
 {5278}{}{Dem Café der geplatzten Träume.}
 {5279}{}{Einer Versammlung von wichtigen Persöhnlichkeiten.}
 {5300}{}{Einigen Aliens und Deathclaws.}
@@ -1268,7 +1268,7 @@
 {5309}{}{Ein paar Kopfgeldjägern.}
 {5310}{}{Ein paar Kopfgeldjägern.}
 {5311}{}{Ein paar Kopfgeldjägern.}
-{5312}{}{ Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
+{5312}{}{Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
 {5313}{}{Einigen Deathclaws.}
 {5314}{}{Einigen Feuergeckos.}
 {5315}{}{Einigen Aliens.}
@@ -1289,7 +1289,7 @@
 {5359}{}{Ein paar Kopfgeldjägern.}
 {5360}{}{Ein paar Kopfgeldjägern.}
 {5361}{}{Ein paar Kopfgeldjägern.}
-{5362}{}{ Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
+{5362}{}{Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
 {5363}{}{Einigen Deathclaws.}
 {5364}{}{Einigen Feuergeckos.}
 {5365}{}{Einigen Aliens.}
@@ -1308,7 +1308,7 @@
 {5409}{}{Ein paar Kopfgeldjägern.}
 {5410}{}{Ein paar Kopfgeldjägern.}
 {5411}{}{Ein paar Kopfgeldjägern.}
-{5412}{}{ Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
+{5412}{}{Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
 {5413}{}{Einem Rudel Feuergeckos.}
 {5414}{}{Einem großen Rudel Goldgeckos.}
 {5415}{}{Den Überresten eines Wals.}
@@ -1317,7 +1317,7 @@
 {5418}{}{Einem Wachportal.}
 {5419}{}{Den Rittern der Tafelrunde.}
 {5420}{}{Dem Blechmann.}
-{5421}{}{   Ungewaschenen Dorfbewohnern auf der Jagd nach einem Spammer.}
+{5421}{}{Ungewaschenen Dorfbewohnern auf der Jagd nach einem Spammer.}
 {5422}{}{Dem Café der geplatzten Träume.}
 {5423}{}{Einer Versammlung von wichtigen Persöhnlichkeiten.}
 {5450}{}{Einem Rudel Feuergeckos.}
@@ -1331,7 +1331,7 @@
 {5458}{}{Ein paar Kopfgeldjägern.}
 {5459}{}{Ein paar Kopfgeldjägern.}
 {5460}{}{Ein paar Kopfgeldjägern.}
-{5461}{}{ Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
+{5461}{}{Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
 {5462}{}{Einem Mann, der eine Brücke bewacht.}
 {5463}{}{Den Rittern der Tafelrunde im Kampf gegen eine Ratte.}
 {5464}{}{Einer Versammlung von wichtigen Persöhnlichkeiten.}
@@ -1346,7 +1346,7 @@
 {5508}{}{Ein paar Kopfgeldjägern.}
 {5509}{}{Ein paar Kopfgeldjägern.}
 {5510}{}{Ein paar Kopfgeldjägern.}
-{5511}{}{ Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
+{5511}{}{Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
 {5512}{}{Einer Versammlung von wichtigen Persöhnlichkeiten.}
 {5550}{}{Einer Giftmülldeponie.}
 {5551}{}{Einem einsamen überlebenden Hund.}
@@ -1360,10 +1360,10 @@
 {5559}{}{Ein paar Kopfgeldjägern.}
 {5560}{}{Ein paar Kopfgeldjägern.}
 {5561}{}{Ein paar Kopfgeldjägern.}
-{5562}{}{ Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
+{5562}{}{Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
 {5563}{}{Einem Rudel Feuergeckos.}
-{5564}{}{ Einer Karawane, die sich gegen Deathclaws wehrt.}
-{5565}{}{ Einer Karawane, die sich gegen Deathclaws wehrt.}
+{5564}{}{Einer Karawane, die sich gegen Deathclaws wehrt.}
+{5565}{}{Einer Karawane, die sich gegen Deathclaws wehrt.}
 {5566}{}{Einer Karawane, die sich gegen Feuergeckos wehrt.}
 {5567}{}{Einer Karawane, die sich gegen Feuergeckos wehrt.}
 {5568}{}{Einer Karawane.}
@@ -1376,11 +1376,11 @@
 {5575}{}{Einem Wachportal.}
 {5576}{}{Den Rittern der Tafelrunde.}
 {5577}{}{Dem Blechmann.}
-{5578}{}{   Ungewaschenen Dorfbewohnern auf der Jagd nach einem Spammer.}
+{5578}{}{Ungewaschenen Dorfbewohnern auf der Jagd nach einem Spammer.}
 {5600}{}{Einem Rudel Deathclaws.}
 {5601}{}{Einem Rudel Feuergeckos.}
-{5602}{}{ Einer Karawane, die sich gegen Deathclaws wehrt.}
-{5603}{}{ Einer Karawane, die sich gegen Deathclaws wehrt.}
+{5602}{}{Einer Karawane, die sich gegen Deathclaws wehrt.}
+{5603}{}{Einer Karawane, die sich gegen Deathclaws wehrt.}
 {5604}{}{Ein paar Kopfgeldjägern.}
 {5605}{}{Ein paar Kopfgeldjägern.}
 {5606}{}{Ein paar Kopfgeldjägern.}
@@ -1389,7 +1389,7 @@
 {5609}{}{Ein paar Kopfgeldjägern.}
 {5610}{}{Ein paar Kopfgeldjägern.}
 {5611}{}{Ein paar Kopfgeldjägern.}
-{5612}{}{ Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
+{5612}{}{Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
 {5613}{}{Einer Karawane, die sich gegen Feuergeckos wehrt.}
 {5614}{}{Einer Karawane, die sich gegen Feuergeckos wehrt.}
 {5615}{}{Einer Karawane.}
@@ -1410,7 +1410,7 @@
 {5659}{}{Ein paar Kopfgeldjägern.}
 {5660}{}{Ein paar Kopfgeldjägern.}
 {5661}{}{Ein paar Kopfgeldjägern.}
-{5662}{}{ Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
+{5662}{}{Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
 {5663}{}{Einer Gang.}
 {5664}{}{Einem Rudel Wölfe.}
 {5665}{}{Einigen Mafiosi im Kampf gegen Yakuza.}
@@ -1423,7 +1423,7 @@
 {5672}{}{Einem Wachportal.}
 {5673}{}{Den Rittern der Tafelrunde.}
 {5674}{}{Dem Blechmann.}
-{5675}{}{   Ungewaschenen Dorfbewohnern auf der Jagd nach einem Spammer.}
+{5675}{}{Ungewaschenen Dorfbewohnern auf der Jagd nach einem Spammer.}
 {5676}{}{Dem Café der geplatzten Träume.}
 {5700}{}{Einigen Yakuza.}
 {5701}{}{Einer Gang.}
@@ -1437,7 +1437,7 @@
 {5709}{}{Ein paar Kopfgeldjägern.}
 {5710}{}{Ein paar Kopfgeldjägern.}
 {5711}{}{Ein paar Kopfgeldjägern.}
-{5712}{}{ Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
+{5712}{}{Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
 {5713}{}{Einigen Mafiosi im Kampf gegen eine Gang.}
 {5714}{}{Einigen Mafiosi.}
 {5715}{}{Einem Reisenden.}
@@ -1455,7 +1455,7 @@
 {5759}{}{Ein paar Kopfgeldjägern.}
 {5760}{}{Ein paar Kopfgeldjägern.}
 {5761}{}{Ein paar Kopfgeldjägern.}
-{5762}{}{ Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
+{5762}{}{Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
 {5763}{}{Einigen Mafiosi im Kampf gegen eine Gang.}
 {5764}{}{Einigen Mafiosi.}
 {5765}{}{Einem Reisenden.}
@@ -1471,7 +1471,7 @@
 {5809}{}{Ein paar Kopfgeldjägern.}
 {5810}{}{Ein paar Kopfgeldjägern.}
 {5811}{}{Ein paar Kopfgeldjägern.}
-{5812}{}{ Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
+{5812}{}{Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
 {5813}{}{Einer Gruppe Schurken.}
 {5814}{}{Einem Rudel Wölfe.}
 {5815}{}{Einem Rudel Radskorpione.}
@@ -1485,7 +1485,7 @@
 {5823}{}{Einem Wachportal.}
 {5824}{}{Den Rittern der Tafelrunde.}
 {5825}{}{Dem Blechmann.}
-{5826}{}{   Ungewaschenen Dorfbewohnern auf der Jagd nach einem Spammer.}
+{5826}{}{Ungewaschenen Dorfbewohnern auf der Jagd nach einem Spammer.}
 {5850}{}{Einer Gruppe Schurken und einigen Wölfen.}
 {5851}{}{Einer Gruppe Schurken.}
 {5852}{}{Einem Rudel Wölfe.}
@@ -1498,7 +1498,7 @@
 {5859}{}{Ein paar Kopfgeldjägern.}
 {5860}{}{Ein paar Kopfgeldjägern.}
 {5861}{}{Ein paar Kopfgeldjägern.}
-{5862}{}{ Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
+{5862}{}{Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
 {5863}{}{Einem Wald aus Sporenpflanzen.}
 {5864}{}{Einer Einheits-Patrouille im Kampf gegen Schurken.}
 {5865}{}{Einer Einheits-Patrouille im Kampf gegen Wölfe.}
@@ -1517,7 +1517,7 @@
 {5909}{}{Ein paar Kopfgeldjägern.}
 {5910}{}{Ein paar Kopfgeldjägern.}
 {5911}{}{Ein paar Kopfgeldjägern.}
-{5912}{}{ Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
+{5912}{}{Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
 {5913}{}{Einem Haufen Aliens.}
 {5914}{}{Hubologen, die gegen Söldner kämpfen.}
 {5915}{}{Hubologen, die sich gegen eine Presspatrouille verteidigen.}
@@ -1536,7 +1536,7 @@
 {5959}{}{Ein paar Kopfgeldjägern.}
 {5960}{}{Ein paar Kopfgeldjägern.}
 {5961}{}{Ein paar Kopfgeldjägern.}
-{5962}{}{ Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
+{5962}{}{Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
 {5963}{}{Einem Haufen Aliens.}
 {5964}{}{Hubologen, die gegen Söldner kämpfen.}
 {5965}{}{Hubologen, die sich gegen eine Presspatrouille verteidigen.}
@@ -1557,7 +1557,7 @@
 {6009}{}{Ein paar Kopfgeldjägern.}
 {6010}{}{Ein paar Kopfgeldjägern.}
 {6011}{}{Ein paar Kopfgeldjägern.}
-{6012}{}{ Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
+{6012}{}{Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
 {6013}{}{Einem Haufen Aliens.}
 {6014}{}{Hubologen, die gegen Söldner kämpfen.}
 {6015}{}{Hubologen, die sich gegen eine Presspatrouille verteidigen.}
@@ -1576,7 +1576,7 @@
 {6059}{}{Ein paar Kopfgeldjägern.}
 {6060}{}{Ein paar Kopfgeldjägern.}
 {6061}{}{Ein paar Kopfgeldjägern.}
-{6062}{}{ Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
+{6062}{}{Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
 {6063}{}{Einer Presspatrouille.}
 {6064}{}{Einer Herde Deathclaws.}
 {6065}{}{Einer Schar Feuergeckos.}
@@ -1590,7 +1590,7 @@
 {6073}{}{Einem Wachportal.}
 {6074}{}{Den Rittern der Tafelrunde.}
 {6075}{}{Dem Blechmann.}
-{6076}{}{   Ungewaschenen Dorfbewohnern auf der Jagd nach einem Spammer.}
+{6076}{}{Ungewaschenen Dorfbewohnern auf der Jagd nach einem Spammer.}
 {6077}{}{Dem Café der geplatzten Träume.}
 {6078}{}{Einer Gruppe von zornigen Söldnern.}
 {6079}{}{Einer Versammlung von wichtigen Persöhnlichkeiten.}
@@ -1606,7 +1606,7 @@
 {6109}{}{Ein paar Kopfgeldjägern.}
 {6110}{}{Ein paar Kopfgeldjägern.}
 {6111}{}{Ein paar Kopfgeldjägern.}
-{6112}{}{ Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
+{6112}{}{Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
 {6113}{}{Einem Rudel Deathclaws.}
 {6114}{}{Einem Rudel Feuergeckos.}
 {6115}{}{Einem Haufen Aliens.}
@@ -1622,7 +1622,7 @@
 {6125}{}{Einem Wachportal.}
 {6126}{}{Den Rittern der Tafelrunde.}
 {6127}{}{Dem Blechmann.}
-{6128}{}{   Ungewaschenen Dorfbewohnern auf der Jagd nach einem Spammer.}
+{6128}{}{Ungewaschenen Dorfbewohnern auf der Jagd nach einem Spammer.}
 {6129}{}{Dem Café der geplatzten Träume.}
 {6130}{}{Einer Gruppe von zornigen Söldnern.}
 {6150}{}{Einer Söldnerbande.}
@@ -1637,7 +1637,7 @@
 {6159}{}{Ein paar Kopfgeldjägern.}
 {6160}{}{Ein paar Kopfgeldjägern.}
 {6161}{}{Ein paar Kopfgeldjägern.}
-{6162}{}{ Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
+{6162}{}{Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
 {6163}{}{Einer Karawane, die sich gegen Söldner wehrt.}
 {6164}{}{Einer Karawane, die sich gegen Söldner wehrt.}
 {6165}{}{Einer Karawane, die sich gegen Feuergeckos wehrt.}
@@ -1657,7 +1657,7 @@
 {6209}{}{Ein paar Kopfgeldjägern.}
 {6210}{}{Ein paar Kopfgeldjägern.}
 {6211}{}{Ein paar Kopfgeldjägern.}
-{6212}{}{ Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
+{6212}{}{Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
 {6213}{}{Den Überresten der Armee des Meisters.}
 {6214}{}{Einem Rudel Deathclaws.}
 {6215}{}{Einem Schwarm Gottesanbeterinnen.}
@@ -1667,7 +1667,7 @@
 {6219}{}{Einem Wachportal.}
 {6220}{}{Den Rittern der Tafelrunde.}
 {6221}{}{Dem Blechmann.}
-{6222}{}{   Ungewaschenen Dorfbewohnern auf der Jagd nach einem Spammer.}
+{6222}{}{Ungewaschenen Dorfbewohnern auf der Jagd nach einem Spammer.}
 {6223}{}{Dem Café der geplatzten Träume.}
 {6250}{}{Einer Enklaven-Patrouille.}
 {6251}{}{Den Überresten der Armee des Meisters.}
@@ -1681,7 +1681,7 @@
 {6259}{}{Ein paar Kopfgeldjägern.}
 {6260}{}{Ein paar Kopfgeldjägern.}
 {6261}{}{Ein paar Kopfgeldjägern.}
-{6262}{}{ Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
+{6262}{}{Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
 {6263}{}{Einem Mann, der eine Brücke bewacht.}
 {6264}{}{Den Rittern der Tafelrunde im Kampf gegen eine Ratte.}
 {6300}{}{Einer Giftmülldeponie.}
@@ -1696,9 +1696,9 @@
 {6309}{}{Ein paar Kopfgeldjägern.}
 {6310}{}{Ein paar Kopfgeldjägern.}
 {6311}{}{Ein paar Kopfgeldjägern.}
-{6312}{}{ Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
+{6312}{}{Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
 {6313}{}{Einer Karawane, die sich gegen die Überreste der Armee des Meisters wehrt.}
-{6314}{}{ Einer Karawane, die sich gegen Deathclaws wehrt.}
+{6314}{}{Einer Karawane, die sich gegen Deathclaws wehrt.}
 {6315}{}{Einer Karawane.}
 {6316}{}{Einer Karawane.}
 {6317}{}{Einer Karawane.}
@@ -1708,11 +1708,11 @@
 {6321}{}{Einem Wachportal.}
 {6322}{}{Den Rittern der Tafelrunde.}
 {6323}{}{Dem Blechmann.}
-{6324}{}{   Ungewaschenen Dorfbewohnern auf der Jagd nach einem Spammer.}
+{6324}{}{Ungewaschenen Dorfbewohnern auf der Jagd nach einem Spammer.}
 {6325}{}{Dem Café der geplatzten Träume.}
 {6350}{}{Einer Karawane, die sich gegen die Überreste der Armee des Meisters wehrt.}
 {6351}{}{Einer Karawane, die sich gegen die Überreste der Armee des Meisters wehrt.}
-{6352}{}{ Einer Karawane, die sich gegen Deathclaws wehrt.}
+{6352}{}{Einer Karawane, die sich gegen Deathclaws wehrt.}
 {6353}{}{Einer Karawane.}
 {6354}{}{Ein paar Kopfgeldjägern.}
 {6355}{}{Ein paar Kopfgeldjägern.}
@@ -1722,7 +1722,7 @@
 {6359}{}{Ein paar Kopfgeldjägern.}
 {6360}{}{Ein paar Kopfgeldjägern.}
 {6361}{}{Ein paar Kopfgeldjägern.}
-{6362}{}{ Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
+{6362}{}{Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
 {6363}{}{Einer Karawane.}
 {6364}{}{Einer Karawane.}
 {6365}{}{Einem Mann, der eine Brücke bewacht.}
@@ -1738,7 +1738,7 @@
 {6408}{}{Ein paar Kopfgeldjägern.}
 {6409}{}{Ein paar Kopfgeldjägern.}
 {6410}{}{Ein paar Kopfgeldjägern.}
-{6411}{}{ Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
+{6411}{}{Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
 {6412}{}{Einem Mann, der eine Brücke bewacht.}
 {6413}{}{Den Rittern der Tafelrunde im Kampf gegen eine Ratte.}
 {6450}{}{Einer Giftmülldeponie.}
@@ -1753,7 +1753,7 @@
 {6459}{}{Ein paar Kopfgeldjägern.}
 {6460}{}{Ein paar Kopfgeldjägern.}
 {6461}{}{Ein paar Kopfgeldjägern.}
-{6462}{}{ Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
+{6462}{}{Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
 {6463}{}{Einem Schwarm Gottesanbeterinnen.}
 {6464}{}{Einer Familie von Radskorpionen.}
 {6465}{}{Den Überresten eines Wals.}
@@ -1762,7 +1762,7 @@
 {6468}{}{Einem Wachportal.}
 {6469}{}{Den Rittern der Tafelrunde.}
 {6470}{}{Dem Blechmann.}
-{6471}{}{   Ungewaschenen Dorfbewohnern auf der Jagd nach einem Spammer.}
+{6471}{}{Ungewaschenen Dorfbewohnern auf der Jagd nach einem Spammer.}
 {6472}{}{Dem Café der geplatzten Träume.}
 {6500}{}{Einer Giftmülldeponie.}
 {6501}{}{Einem einsamen überlebenden Hund.}
@@ -1776,7 +1776,7 @@
 {6509}{}{Ein paar Kopfgeldjägern.}
 {6510}{}{Ein paar Kopfgeldjägern.}
 {6511}{}{Ein paar Kopfgeldjägern.}
-{6512}{}{ Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
+{6512}{}{Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
 {6513}{}{Einem Rudel Wölfe.}
 {6514}{}{Einem Rudel Radskorpione.}
 {6515}{}{Einer Karawane, die sich gegen Plünderer wehrt.}
@@ -1794,7 +1794,7 @@
 {6527}{}{Einem Wachportal.}
 {6528}{}{Den Rittern der Tafelrunde.}
 {6529}{}{Dem Blechmann.}
-{6530}{}{   Ungewaschenen Dorfbewohnern auf der Jagd nach einem Spammer.}
+{6530}{}{Ungewaschenen Dorfbewohnern auf der Jagd nach einem Spammer.}
 {6531}{}{Dem Café der geplatzten Träume.}
 {6532}{}{Einer Gruppe von wilden Plünderern.}
 {6550}{}{Einer Bande Plünderer.}
@@ -1809,7 +1809,7 @@
 {6559}{}{Ein paar Kopfgeldjägern.}
 {6560}{}{Ein paar Kopfgeldjägern.}
 {6561}{}{Ein paar Kopfgeldjägern.}
-{6562}{}{ Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
+{6562}{}{Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
 {6563}{}{Einer Karawane, die sich gegen Plünderer wehrt.}
 {6564}{}{Einer Karawane, die sich gegen Wölfe wehrt.}
 {6565}{}{Einer Karawane, die sich gegen Radskorpione wehrt.}
@@ -1833,7 +1833,7 @@
 {6609}{}{Ein paar Kopfgeldjägern.}
 {6610}{}{Ein paar Kopfgeldjägern.}
 {6611}{}{Ein paar Kopfgeldjägern.}
-{6612}{}{ Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
+{6612}{}{Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
 {6613}{}{Einigen Bauern, die sich gegen Teile der Armee des Meisters wehren.}
 {6614}{}{Einigen Bauern, die sich gegen Plünderer wehren.}
 {6615}{}{Einer Abordnung der NCR-Ranger.}
@@ -1853,7 +1853,7 @@
 {6659}{}{Ein paar Kopfgeldjägern.}
 {6660}{}{Ein paar Kopfgeldjägern.}
 {6661}{}{Ein paar Kopfgeldjägern.}
-{6662}{}{ Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
+{6662}{}{Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
 {6663}{}{Einer Bande Plünderer.}
 {6664}{}{Einigen Rangern, die sich gegen eine Kommandotruppe der Armee des Meisters wehren.}
 {6665}{}{Einigen Rangern, die sich gegen Plünderer wehren.}
@@ -1867,7 +1867,7 @@
 {6673}{}{Einem Wachportal.}
 {6674}{}{Den Rittern der Tafelrunde.}
 {6675}{}{Dem Blechmann.}
-{6676}{}{   Ungewaschenen Dorfbewohnern auf der Jagd nach einem Spammer.}
+{6676}{}{Ungewaschenen Dorfbewohnern auf der Jagd nach einem Spammer.}
 {6677}{}{Dem Café der geplatzten Träume.}
 {6678}{}{Einer Gruppe von wilden Plünderern.}
 {6700}{}{Überresten der Armee des Meisters im Kampf gegen mutierte Maulwurfsratten.}
@@ -1882,7 +1882,7 @@
 {6709}{}{Ein paar Kopfgeldjägern.}
 {6710}{}{Ein paar Kopfgeldjägern.}
 {6711}{}{Ein paar Kopfgeldjägern.}
-{6712}{}{ Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
+{6712}{}{Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
 {6713}{}{Einem Rudel Radskorpione.}
 {6714}{}{Einem Mann, der eine Brücke bewacht.}
 {6715}{}{Den Rittern der Tafelrunde im Kampf gegen eine Ratte.}
@@ -1898,7 +1898,7 @@
 {6759}{}{Ein paar Kopfgeldjägern.}
 {6760}{}{Ein paar Kopfgeldjägern.}
 {6761}{}{Ein paar Kopfgeldjägern.}
-{6762}{}{ Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
+{6762}{}{Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
 {6763}{}{Überresten der Armee des Meisters.}
 {6764}{}{Einem Schwarm Gottesanbeterinnen.}
 {6765}{}{Einem Rudel mutierter Maulwurfsratten.}
@@ -1909,5 +1909,5 @@
 {6770}{}{Einem Wachportal.}
 {6771}{}{Den Rittern der Tafelrunde.}
 {6772}{}{Dem Blechmann.}
-{6773}{}{   Ungewaschenen Dorfbewohnern auf der Jagd nach einem Spammer.}
+{6773}{}{Ungewaschenen Dorfbewohnern auf der Jagd nach einem Spammer.}
 {6774}{}{Dem Café der geplatzten Träume.}

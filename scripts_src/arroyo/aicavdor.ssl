@@ -7,5 +7,6 @@
 #define DOOR_STATUS                     STATE_METAL
 #define LOCK_STATUS                     STATE_STANDARD_LOCK
 #define CLOSE_STATUS                    STATE_DOOR_NOCLOSE
+#define Lock_Bonus                      (0)
 
 #include "../headers/doors.h"

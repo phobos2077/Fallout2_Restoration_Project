@@ -115,7 +115,7 @@ procedure storeOpen begin
    variable time;
 
    time := game_time_hour;
-   if (time > 800 and time < 2400) then
+   if (time >= 800 and time < 2400) then
       return 1;
    return 0;
 end

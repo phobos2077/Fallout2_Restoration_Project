@@ -32,7 +32,7 @@
 {180}{}{Találkoztál már a láthatatlan barátommal?}
 {181}{}{Ha olyan idős leszek, mint te, körbe fogom utazni a világot.}
 {182}{}{Te rendes törzsbéli vagy, nem úgy, mint a többi.}
-{183}{}{Fogadok, hogy te is gyakran fürdőzöl.}
+{183}{}{Szerintem te szoktál fürdeni.}
 {184}{}{Okosabb vagy, mint Torr.}
 {185}{}{Éles az a penge?}
 {186}{}{Amikor felnövök, olyan akarok lenni, mint te.}
@@ -45,7 +45,7 @@
 {193}{}{Mit viselsz?}
 {194}{}{Brahminon akarok lovagolni!}
 {195}{}{Messziről jöttél?}
-{196}{}{Jeeeee! Ha-ha-ha!}
+{196}{}{Weeee! Ha ha ha!}
 {197}{}{Ne menj!}
 {198}{}{Van kajád?}
 {199}{}{Zavarlak?}
@@ -72,7 +72,7 @@
 {220}{}{Kedvellek.}
 {221}{}{Kedvelsz?}
 {222}{}{Házas vagy?}
-{223}{}{Egy, kettő, három - álom!}
+{223}{}{Egy, kettő, három... Íhhíííííjjj!}
 {1000}{}{Törzsfőnök}
 {1001}{}{Alapító}
 {1002}{}{Menedéklakó}

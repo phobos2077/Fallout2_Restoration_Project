@@ -73,16 +73,16 @@
 {147}{}{[KONTYNUUJ]}
 {300}{}{                                       
  Tożsamość Potwierdzona: }
-{301}{}{                       
- Ostatnie Wejście: }
+{301}{}{
+            Ostatnie Wejście: }
 {303}{}{Kapral Dixon    }
 {304}{}{Generał Clifton}
 {305}{}{5 sierpnia 2077}
 {306}{}{ dni temu.}
-{307}{}{                                       
- Uwaga! Wykryto Intruza na Poziomie }
-{308}{}{                                       
- Uwaga! Wykryto Intruza na Poziomach: }
+{307}{}{
+                                             Uwaga! Wykryto Intruza na Poziomie }
+{308}{}{
+                                             Uwaga! Wykryto Intruza na Poziomach: }
 {309}{}{
                                       }
 {310}{}{

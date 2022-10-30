@@ -45,8 +45,8 @@
 {193}{}{Nada. Eu tenho que ir.}
 {195}{}{É a partir de uma língua antiga, pré-guerra ou algo assim.}
 {196}{}{Metzger significa açougueiro. Intimida, você não acha?}
-{197}{}{Esse era o nome do meu bisavô. Ele veio de algum lugar longe, a leste.
- Através de um grande corpo de água.}
+{197}{}{Esse era o nome do meu bisavô. Ele veio de algum lugar longe ao
+  leste. Através de um grande corpo de água.}
 {198}{}{Eu li um livro sobre um Metzger. Ele foi um presidente, ou algo assim.}
 {199}{}{Olha quem está falando tribal.}
 {200}{}{Germen, alemão, Garmano, ou algo assim. Linguagem antiga, de 

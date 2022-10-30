@@ -759,7 +759,7 @@ procedure Node042 begin
    Reply(615 + ((local_var(LVAR_Node042)) or (get_snuff_westin(snuff_westin_succeed))));
    NOption(412, Node043, 004);
    NOption(413, Node044, 006);
-   if ((dude_iq<7) or (has_skill(dude_obj, SKILL_DOCTOR)>50) or (has_skill(dude_obj,SKILL_FIRST_AID )>100)) then begin
+   if ((dude_iq>=7) and (has_skill(dude_obj, SKILL_DOCTOR)>50) or (has_skill(dude_obj,SKILL_FIRST_AID )>100)) then begin
       NOption(414, Node046, 004);
    end
    //NOption(414, Node046, 007); - duplicate - killap

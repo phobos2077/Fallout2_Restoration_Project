@@ -246,22 +246,6 @@ procedure Node001 begin
    floater(random(252,261));
 end
 
-procedure Node002 begin
-   // Chad removed
-end
-
-procedure Node003 begin
-   // Chad removed
-end
-
-procedure Node004 begin //FtM successful
-   // FTM removed
-end
-
-procedure Node005 begin
-   // FTM removed
-end
-
 procedure Node006 begin
    floater(random(147,154));
 end

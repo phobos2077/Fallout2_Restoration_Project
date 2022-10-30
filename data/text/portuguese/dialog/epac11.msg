@@ -5,7 +5,7 @@
   Seu corpo musculoso ainda está tremendo da água gelada e fria. Ele olha para você enquanto você se aproxima.]}
 {201}{}{Quem é você?}
 {210}{}{[De pé e se sacudindo como um animal molhado, o homem olha para você e sorri, revelando alguns dentes da frente estranhamente afiados.]
-  Quem sou *eu*? Quem é *Você*? Você parece um vagabundo fortemente armado!}
+ Quem sou *eu*? Quem é *Você*? Você parece um vagabundo fortemente armado!}
 {211}{}{[De pé e se sacudindo como um animal molhado, o homem olha para você sorrindo amplamente, revelando alguns dentes da frente estranhamente afiados.]
   Quem sou *eu*. Por que, sou sargento Jules, o soldado mais bem parecido desta base, lindo!}
 {212}{}{Eu sou }

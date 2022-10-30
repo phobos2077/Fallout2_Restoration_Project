@@ -53,7 +53,7 @@
 {151}{}{minério de ouro.}
 {152}{}{minério de urânio.}
 {153}{}{produtos agrícolas.}
-{154}{}{drogas.}
+{154}{}{entorpecentes.}
 {155}{}{escravos.}
 {156}{}{coisas.}
 {198}{}{Novo Reno}

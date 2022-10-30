@@ -16,8 +16,7 @@
 {115}{}{Sim!}
 {116}{}{Raios!}
 {117}{}{Nenhum!}
-{118}{}{Então porque está gastando meu tempo? Já disse que estou ocupado, não disse? Tenho muito 
- pra fazer em vez de ficar de conversa fiada... Nem sei por que ainda estou falando com você. Passar bem!}
+{118}{}{Então porque está gastando meu tempo? Já disse que estou ocupado, não disse? Tenho muito pra fazer em vez de ficar de conversa fiada... Nem sei por que ainda estou falando com você. Passar bem!}
 {119}{}{Tchau!}
 {120}{}{É mesmo. Tchau.}
 {121}{}{Você deseja fazer um teste, não é? Você quer testar a sua destreza manual, a sua percepção, ou a sua inteligência?}
@@ -28,15 +27,13 @@
 {126}{}{Muito bem. Vou testar você contra o escorpião. Vocês tentarão destrancar essas caixas. Boa sorte.}
 {127}{}{Vai!}
 {128}{}{Vamos lá.}
-{129}{}{Certo. Fique atrás deste cercado, onde você e o escorpião vão me dizer quais as letras vocês lêem, de cima para baixo, 
- da esquerda para direita.}
+{129}{}{Certo. Fique atrás deste cercado, onde você e o escorpião vão me dizer quais as letras vocês lêem, de cima para baixo, da esquerda para direita.}
 {130}{}{Vai!}
 {131}{}{Entendi. Pode começar.}
 {132}{}{Você e o escorpião vão jogar um jogo que eu mesmo criei, chamado "xadrez". Podemos começar?}
 {133}{}{Simmm!}
 {134}{}{Sim. Manda ver.}
-{135}{}{Eu sou o Professor. Realizo testes de inteligência aplicada. Produzo componentes químicos que aumentam a inteligência 
- e estou testando nesse escorpião, depois de ter falhando com uma planta.}
+{135}{}{Eu sou o Professor. Realizo testes de inteligência aplicada. Produzo componentes químicos que aumentam a inteligência e estou testando nesse escorpião, depois de ter falhando com uma planta.}
 {136}{}{Você testou em uma planta?}
 {137}{}{Quero fazer um teste.}
 {138}{}{Conseguiu fazer algo que funciona?}
@@ -45,8 +42,7 @@
 {141}{}{Entendi. Conseguiu fazer algo que funciona?}
 {142}{}{Quero fazer um teste.}
 {143}{}{Isso é tudo que queria saber.}
-{144}{}{Claro que consegui! Já ouviu falar do "Mentats"? Ajudei no desenvolvimento de um método para facilitar 
-a produção em massa dessa droga! E de tantas outras!}
+{144}{}{Claro que consegui! Já ouviu falar do "Mentats"? Ajudei no desenvolvimento de um método para facilitar a produção em massa dessa droga! E de tantas outras!}
 {145}{}{Beleza, não estressa. Diz aí, queria testar minhas habilidades contra seu escorpião.}
 {146}{}{Tudo bem, acredito em você. Não está mais aqui quem falou.}
 {147}{}{Como você foi capaz de matar meu escorpião? Eu estava tão perto... tão perto...}
@@ -71,7 +67,7 @@ a produção em massa dessa droga! E de tantas outras!}
 {301}{}{Está certo.}
 {302}{}{M...O...O...Moo?}
 {303}{}{Não, eu lamento. Está incorreto.}
-{304}{}{::click clack:: ::click clack:: (batidas com a cauda)::}
+{304}{}{::ranger de dentes ranger de dentes:: ::estalido estalido:: barulho estridente (balanço de cauda)::}
 {305}{}{Correto! Bom garoto! Sua habilidade com o código Morse está melhorando bem.}
 {306}{}{Você provou ser tão perceptivo quanto o escorpião.}
 {400}{}{Xeque-mate ::click::}

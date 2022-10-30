@@ -90,5 +90,5 @@
 {238}{}{Folge mir, Zuckerschneckchen.}
 {240}{}{Wie machst du... Das... Ohhh...}
 {241}{}{Ist ok. Die Größe spielt keine Rolle.}
-{242}{}{Das war, ähmmm, nett --  schätze ich.}
+{242}{}{Das war, ähmmm, nett -- schätze ich.}
 {243}{}{Danke, Süßer; das hat Spaß gemacht.}

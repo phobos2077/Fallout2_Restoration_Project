@@ -41,7 +41,8 @@
 {133}{}{Só porque você é forte, não significa que seja inteligente, amigo. Lembre-se disso.}
 {134}{}{Amigo, se você não gosta daqui, tem um mundo inteiro lá fora.}
 {135}{}{Tranquilo. Se precisar de alguma outra coisa pode perguntar ao Phil, o barman, ou a outra pessoa.}
-{136}{}{Cara, você quer uma queda de braço ou não? Não tenho tempo a perder com comentários arrogantes e covardes.}
+{136}{}{Cara, você quer uma queda de braço ou não? Não tenho tempo a perder com comentários arrogantes e
+ covardes.}
 {137}{}{Sim claro. Vamos fazer isso.}
 {138}{}{Não, eu não penso assim.}
 {139}{}{Então volte quando estiver pronto. Eu sempre vou estar por aqui.}
@@ -79,8 +80,8 @@
 {202}{}{Obrigado. Tchau.}
 {203}{}{[MAIS]}
 {204}{}{Certo, obrigado. Tchau.}
-{300}{}{Cara, acho que você não saberia usar o que tenho a oferecer. Volte quando você tiver um um 
- pouco mais de experiência em seu currículo.}
+{300}{}{Cara, acho que você não saberia usar o que tenho a oferecer. Volte quando você tiver um pouco mais de
+ experiência em seu currículo.}
 {301}{}{Você vê um super mutante muito corpulento. Ele está vestido de couro preto, possuí uma expressão 
  de tédio estampada em seu rosto. Parece ter algum tipo de manopla saindo de sua bolsa.}
 {302}{}{Você se sente dolorido. Parece que as lembranças de sua visita à Francis vão demorar para saírem.}

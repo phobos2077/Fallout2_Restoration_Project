@@ -28,8 +28,8 @@
  merda. Agora, se espera que todos nós esqueçamos o passado e vivamos em paz com eles. Eu não! Viva livre ou morra!}
 {123}{}{Não era bem o que eu estava procurando, mas obrigado de qualquer maneira. O que você pode me dizer sobre Marcus?}
 {124}{}{Umm, ok. Até logo.}
-{125}{}{Marcus conta a todos que ajudou a descobrir a cidade. Fez nada. Tinham humanos aqui primeiro, e 
- ele e sua turma entraram e assumiram o controle, agora  esperam que todo mundo se fiquem na boa 
+{125}{}{Marcus conta a todos que ajudou a descobrir a cidade. Fez nada. Tinham humanos aqui primeiro, e
+ ele e sua turma entraram e assumiram o controle, agora esperam que todo mundo se fiquem na boa
  e deixem os mutantes em paz. Marcus é o líder de todo esse circo.}
 {126}{}{Eu acho que você está bem louco.}
 {127}{}{Malditos mutantes. Assim como eu pensei.}

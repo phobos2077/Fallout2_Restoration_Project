@@ -6,23 +6,12 @@
 #define UPDATMAP_H
 
 // Lighting Information
-/*
 #define BRIGHT_LIGHT                    (100)
-#define CAVERN_LIGHT                    (50)
-#define DUSK_LIGHT                      (40)
+#define CAVERN_LIGHT                    (49)
+#define DUSK_LIGHT                      (49)
 #define ENCLAVE_LIGHT                   (60)
 #define INDOOR_LIGHT                    (60)
 #define BASEMENT_LIGHT                  (50)
-#define MILITARY_BASE_LIGHTING          (75)
-*/
-
-//new lighting values for RP - suggested by Josan12
-#define BRIGHT_LIGHT                    (90)
-#define CAVERN_LIGHT                    (40)
-#define DUSK_LIGHT                      (45)
-#define ENCLAVE_LIGHT                   (60)
-#define INDOOR_LIGHT                    (60)
-#define BASEMENT_LIGHT                  (40)
 #define MILITARY_BASE_LIGHTING          (50)
 
 #define WINTER_MORNING                  (700)

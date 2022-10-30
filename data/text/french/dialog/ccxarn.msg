@@ -39,7 +39,7 @@
 {138}{}{Non, mais je vais y réfléchir.}
 {139}{}{Non, je ne crois pas.}
 {140}{}{Très bien... J'attendrai ici jusqu'à ce que tu prennes une décision.}
-{141}{}{C'est terminé !}
+{141}{}{C'est terminé.}
 {142}{}{Bon... Je suis triste que tu aies pris cette décision mais c'est ton droit. Si tu changes d'avis, je serai ici.}
 {143}{}{Salut.}
 {144}{}{Salut.}

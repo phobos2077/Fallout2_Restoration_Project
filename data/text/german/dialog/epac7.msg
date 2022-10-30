@@ -11,7 +11,7 @@
 {221}{}{Es gibt einige Türen in diesem Komplex, die sich, ohne dass man ein Kennwort spricht, nicht öffnen. Ich würde da wirklich gerne durch, um mehr von dieser Einrichtung zu sehen. Ich nehme nicht an, dass du das Kennwort kennst?}
 {230}{}{Natürlich weiß ich das Kennwort, aber leider bin ich außerstande es Ihnen mitzuteilen. Ich verstehe Ihre Begeisterung dafür, alles sehen zu wollen, was diese große Einrichtung anbietet, aber es gibt Regeln, die wir für Ihre eigene Sicherheit beachten müssen. Zur Erinnerung, wir bieten zu vorbestimmten Zeiten Führungen durch unseren Komplex an.}
 {231}{}{Oh, du musst dich nicht um meine Sicherheit sorgen, ich bin das Auserwählte Wesen. Außerdem, wann hattest du zum letzte Mal einen *richtigen* Besucher? Willst du mich wirklich enttäuscht weggehen lassen?}
-{232}{}{Na gut.  Wiedersehen.}
+{232}{}{Na gut. Wiedersehen.}
 {240}{}{Natürlich nicht. Aber, wenn ich Ihnen das Kennwort gebe, würde ich nicht nur Sie gefährden, ich könnte auch den ganzen Komplex gefährden. Kinder, belästigt bitte nicht die Hologramme.}
 {241}{}{Wie könnte das den Komplex gefährden? Es tut mir leid, aber ich muss es dir sagen, Lady, dieser Komplex ist bereits zur Hölle und wieder zurück gegangen. Es gibt hier nichts, außer gefährlichen Chemikalien und kaputten Robotern. Also wirklich, ich sehe nicht wie ich die Sache noch schlimmer machen könnte.}
 {242}{}{Oh, dann vergiss es.}

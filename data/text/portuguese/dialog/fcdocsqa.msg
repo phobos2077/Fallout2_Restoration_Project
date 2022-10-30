@@ -12,7 +12,7 @@
 {111}{}{Você gosta de nosso lar?}
 {112}{}{Eu amo morar na praia.}
 {113}{}{Por favor, não me faça mal!}
-{114}{}{Não! Não me machucar!}
+{114}{}{Não! Não me machuque!}
 {115}{}{Deixe meus filhos sozinhos!}
 {116}{}{Parar! Não nos machucar!}
 {117}{}{Eu vou fazer de tudo!}

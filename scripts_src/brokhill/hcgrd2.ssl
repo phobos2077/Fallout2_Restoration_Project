@@ -114,7 +114,7 @@ procedure map_enter_p_proc begin
       set_self_team(TEAM_BROKEN_HILLS);
    set_self_ai(AI_TOUGH_CITIZEN);
 
-   if( ( global_var( GVAR_BH_CONSPIRACY ) == CONSPIRACY_SUCCESSFUL ) or ( global_var( GVAR_BH_FTM ) == FTM_SUCCESSFUL ) ) then
+   if global_var(GVAR_BH_CONSPIRACY) == CONSPIRACY_SUCCESSFUL then
       set_obj_visibility( self_obj, true );
    else
       set_obj_visibility( self_obj, false );

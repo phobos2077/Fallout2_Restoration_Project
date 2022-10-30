@@ -71,7 +71,7 @@
 {170}{}{Geschickt öffnest du das Schloss an dem Behälter.}
 {171}{}{Du bist nicht besonders geschickt. Deshalb verklemmt sich das Schloss an dem Behälter.}
 {172}{}{Du schaffst es nicht, das Schloss diesen Behälter zu öffnen.}
-{173}{}{öffnet geschickt das Schloss an dem Behälter.}
+{173}{}{ öffnet geschickt das Schloss an dem Behälter.}
 {174}{}{ist nicht besonders geschickt. Deshalb verklemmt sich das Schloss an dem Behälter.}
 {175}{}{ schafft es nicht, das Schloss an dem Behälter zu öffnen.}
 {176}{}{Du hast das Schloss von dem Behälter abgebrochen.}
@@ -114,3 +114,5 @@
 {601}{}{Es ist offen, Dummkopf.}
 {610}{}{Du versagst spektakulär und der Sprengstoff geht zu früh hoch.}
 {611}{}{ versagt spektakulär und der Sprengstoff geht zu früh hoch.}
+{620}{}{You bend the crowbar beyond recognition. It's useless now.}
+{621}{}{ bends the crowbar beyond recognition. It's useless now.}

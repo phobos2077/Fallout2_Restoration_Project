@@ -97,12 +97,10 @@
 {182}{}{Bem... ok. Lembrando-se das coisas que você bebeu quando era pirralho, você
  inclina o jarro para trás e o deixa fluir. Esse liquido cai como uma bomba quando atinge o estômago. 
  Você sente que acabou de ser picado por um radscorpion.}
-{183}{}{Ei, parece água, será que é tão bom quanto? Assim que a coisa chega na garganta,
-você 
- percebe que cometeu um erro. O bagulho QUEIMA. Você sente dor por muito, muito tempo.}
-{184}{}{Um pouco disso, um pouco daquilo... espere um pouco ... o frasco está tremendo... 
- O que 
- tem de errado? ETA PORRA! A garrafa explode na tua fuça!}
+{183}{}{Ei, parece água, será que é tão bom quanto? Assim que a coisa chega na garganta, você percebe
+ que cometeu um erro. O bagulho QUEIMA. Você sente dor por muito, muito tempo.}
+{184}{}{Um pouco disso, um pouco daquilo... espere um pouco ... o frasco está tremendo... O que tem de
+ errado? ETA PORRA! A garrafa explode na tua fuça!}
 {185}{}{Você mistura as coisas tranquilamente, esperando ter criado a mistura certa de produtos químicos. 
  Agora você se senta e espera sua recompensa. E espera... mais um pouco... O líquido se transforma 
  em um marrom opaco e pegajoso. Desperdício.}
@@ -113,7 +111,7 @@ você
 {190}{}{Beba.}
 {191}{}{Guardar pra depois.}
 {192}{}{Você criou com sucesso uma fórmula que simula os efeitos da radiação. O que
-você gostaria 
- de fazer com isso?}
+você gostaria de fazer com
+ isso?}
 {193}{}{Beba.}
 {194}{}{Guardar pra depois.}

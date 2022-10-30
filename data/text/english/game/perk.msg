@@ -203,11 +203,11 @@
 {1172}{}{You feel a burning desire to open another box of Tragic cards.}
 {1173}{}{Armor Charisma}
 {1174}{}{You have the knowledge of how to skin geckos properly to get their hides.}
-{1175}{}{You have inherent protection against physical attacks.}     # Dermal Impact Armor
+{1175}{}{You have inherent protection against physical attacks.}        # Dermal Impact Armor
 {1176}{}{You have extra inherent protection against physical attacks.}  # Dermal Impact Assault Enhancement
-{1177}{}{You have inherent protection against energy attacks.}     # Phoenix Armor Implants
-{1178}{}{You have extra inherent protection against energy attacks.}  # Phoenix Assault Enhancement
-{1179}{}{You have gained +10% resistance to both poison and radiation.}  # Vault City Inoculations
+{1177}{}{You have inherent protection against thermal attacks.}         # Phoenix Armor Implants
+{1178}{}{You have extra inherent protection against thermal attacks.}   # Phoenix Assault Enhancement
+{1179}{}{You have gained +10% resistance to both poison and radiation.} # Vault City Inoculations
 {1180}{}{With this Perk, you gain +1 to your Strength when you drop below 1/2 of your max hit points.}  # Adrenaline Rush
 {1181}{}{You are more alert outdoors and enemies are less likely to sneak up on you. With this Perk you get a +3 to your perception in random encounters when determining placement.}  # Cautious Nature
 {1182}{}{You pay much closer attention to the smaller details when reading. You gain 50% more skill points when reading books.}  # Comprehension

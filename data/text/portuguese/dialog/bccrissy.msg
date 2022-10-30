@@ -48,4 +48,5 @@ isso?}
   por aí. O cofre está morto, e as máquinas de alimentos e água não funcionam. Nossa comida e água estão chegando
   dos despojos
   de ataques contra caravanas.}
-{136}{}{Olha, eu tenho que ir para casa e avisar a todos sobre o que realmente está acontecendo aqui. Não podemos ajudar esses monstros. Você vai me levar para casa?}
+{136}{}{Olha, eu tenho que ir para casa e avisar a todos sobre o que realmente está acontecendo aqui. Não podemos
+ ajudar esses monstros. Você vai me levar para casa?}

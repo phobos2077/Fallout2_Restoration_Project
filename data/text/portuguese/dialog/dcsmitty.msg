@@ -29,8 +29,7 @@
 {281}{}{Certo, aqui está.}
 {282}{}{Pensando bem, deixe-me perguntar-lhe sobre outra coisa.}
 {283}{}{Talvez em outra ocasião. Adeus, Smitty.}
-{300}{}{Bem, agora, isso me parece que é um antigo controlador de célula de combustível. Hmm, eu aposto que se eu usar isso com o velho Highwayman, eu poderia fazer com que ele 
- ronronar como uma gatinha.}
+{300}{}{Bem, agora, isso me parece que é um antigo controlador de célula de combustível. Hmm, eu aposto que se eu usar isso com o velho Highwayman, eu poderia fazer com que ele ronronar como uma gatinha.}
 {301}{}{Hein?}
 {310}{}{Hmm, isso parece um regulador de célula de combustível. Se eu tivesse um carro que funcionasse, certamente aumentaria a quilometragem.}
 {311}{}{Hein?}

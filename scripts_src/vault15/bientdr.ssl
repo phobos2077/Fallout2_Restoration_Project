@@ -31,6 +31,7 @@
 
 /* Penalties for Lock difficulty based on whether or not you are using lockpicks. */
 #define Lock_Bonus                      (-220)
+#define Lockpick_Exp                    (245)
 
 /* Max and Min damage for the trap */
 #define MIN_DAMAGE                      (5)
