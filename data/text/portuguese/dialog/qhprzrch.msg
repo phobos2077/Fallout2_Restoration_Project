@@ -1,8 +1,8 @@
-{100}{}{You see a man in a suit. He's staring into space. Like he's lookin' at you but he ain't lookin' at you.}
-{101}{}{You see the head of the free world, the President of the United States.}
-{102}{}{You see a thin, nervous, older man who looks as tired and frayed as the suit he's wearing.}
-{103}{prs1a}{You there, what are you doing outside of the reconditioning center?}
-{104}{prs1b}{Do I know you? What project are you on?}
+{100}{}{Você vê um homem de terno. Ele está olhando para um espaço vazio. Como se estivesse te olhando mas não esta.}
+{101}{}{Você vê o chefe da porra toda, o presidente dos Estados Unidos.}
+{102}{}{Você vê um homem magro, nervoso e mais velho que parece tão cansado e desgastado quanto o terno que está vestindo.}
+{103}{prs1a}{Você aí, o que está fazendo fora do centro de recondicionamento?}
+{104}{prs1b}{Eu conheço você? Em que projeto trabalha?}
 {105}{prs1c}{And who do you think you are barging into my office?}
 {106}{}{Uh?}
 {107}{}{Nuh.}

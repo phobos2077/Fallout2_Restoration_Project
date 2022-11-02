@@ -186,112 +186,112 @@
 {671}{}{Ei, coisa doce. Você voltou para relaxar com o Ray depois de chutar o cu de todo mundo? }
 {672}{}{Veja... Eu tenho algo que você pode te interessar para o seu carro... SE você ainda o tiver.}
 {673}{}{Qu-e se passa}
-{675}{}{What have you got for the car?}
-{690}{}{Damn, woman! I just gave you sweet love five minutes ago! You trying to KILL me?}
-{691}{}{You wanna go AGAIN? Damn, woman! Don't your legs EVER close?}
+{675}{}{O que você tem para o carro?}
+{690}{}{Porra, mulher! Acabei de te dar um doce amor há cinco minutos! Você quer me MATAR?}
+{691}{}{Você quer ir DE NOVO? Porra, mulher! Essas pernas NUNCA se fecham?}
 {692}{}{Bem...}
-{693}{}{C'mon, I need a-fixin', and only YOUR sweet love is going to do it.}
-{710}{}{(Studies you, frowns) Yeah, sure you are. I know ALLA Bishop's lieutenants, and you ain't one of them.
- (Nods at the door.) Get outta here before I lose my temper.}
-{711}{}{I AM one of Bishop's lieutenants. Now are we gonna deal, or what?}
-{712}{}{I'm leaving, I'm leaving...}
-{720}{}{(Sneers) Yeah, we're gonna deal all right. Better hope you ain't got no family who's gonna miss you...}
-{721}{}{You better hope that you got a family that'll be able to find all your pieces.}
-{730}{}{(Studies you.) You're one of Bishop's lew-tenants?! Naw... if you were, you'd be a little taller, a little
- more... (looks skeptical) ...bad-ass.}
-{731}{}{(Studies you.) You're }
-{732}{}{I'm legit. You challengin' me?}
+{693}{}{Vamos láááá, eu preciso que me de um jeito, e só o SEU doce amor vai fazer isso.}
+{710}{}{(Te analisa, franze a testa) Sim, claro. Conheço TRODOS os tenentes de Bishop, e você não é um deles. (Acena
+ para a porta.) Saia daqui antes que eu perca a paciência.}
+{711}{}{EU SOU um dos tenentes de Bishop. Agora vamos aos negócios ou o que?}
+{712}{}{Estou indo, estou indo...}
+{720}{}{(Risos) Sim, vamos negociar certo. Espero que você não tenha nenhuma família que vai sentir sua falta...}
+{721}{}{É melhor que voce tenha alguma família que possa recolher todos seus pedaços.}
+{730}{}{(Te analisa.) Você é um dos tenentes de Bishop?! Não... se você fosse, seria um pouco mais alto, um pouco mais...
+ (parece cético) ...durão.}
+{731}{}{(Te analisa). Voce é }
+{732}{}{Estou dizendo a verdade. Você está me desafiando?}
 {733}{}{Eu sou }
-{734}{}{Don't believe everything you hear. Let's talk about Mr. Bishop's car.}
-{735}{}{Forget this conversation. I'm outta here.}
-{745}{}{(Raises his hands in mock surrender) Naw, naw, I was just playin' witcha.}
-{746}{}{Let's talk about Mr. Bishop's car.}
-{747}{}{Next time you better watch yourself. I'm outta here.}
-{755}{}{Aiight, aiight... here's the deal: we can do all the upgrades, spruce her up, and get it to Mr. Bishop pronto.
- Price... (Shrugs, smiles) ...question is: how CAN you put a price on a Highwayman like this?}
+{734}{}{Não acredite em tudo que você ouve. Vamos falar sobre o carro do Sr. Bishop.}
+{735}{}{Esqueça essa conversa. Estou saindo daqui.}
+{745}{}{(Levanta as mãos fingindo se render) Não, não, eu só tava de zoeira.}
+{746}{}{Vamos falar sobre o carro do Sr. Bishop.}
+{747}{}{Da próxima vez é melhor você ter cuidado Estou saindo daqui.}
+{755}{}{Certo, ceeeerto... o trato é esse: podemos fazer todas as modificações, dar um trato, e entregar ao Sr. Bishop
+ imediatamente. O preço... (encolhe os ombros, sorri) ...a pergunta é: como você pode colocar um preço em um Highwayman desse?}
 {756}{}{Continue.}
-{757}{}{I don't have TIME for your bullshit. What's the bottom-line?}
-{758}{}{You're right. You can't. I will be taking the car with me, and Mr. Bishop will let you continue your operation here.}
-{759}{}{I don't have time for this. I'm outta here.}
-{770}{}{As I see it, this Highwayman... most likely the last of its kind in working order... is worth at LEAST 3000 chips... but
- y'know what? (Winks) I'm willing to part with this fine machine for 2700 chips considerin' the condition. A-course, we'd
- need ta talk about FRINGE benefits: club privileges, free admission to the ho-house...}
-{771}{}{2700? Done. Here you are.}
-{772}{}{Mr. Bishop is prepared to offer you 1500 chips.}
-{773}{}{2700? No, no... Mr. Bishop will take it for 900 chips.}
-{774}{}{I have a counter-offer. I will take the car for no charge, and Mr. Bishop will permit you to continue your operation here.}
-{775}{}{I'll tell Mr. Bishop and return with his reply.}
-{780}{}{(T-Ray blinks, then smiles slow and wide as you pass off the chips.) Now, I like a deal that's concluded fast and
- simple; pleasure doing bitness with you, pleasure doing bitness... now about those fringe benefits...?}
-{781}{}{You will have to discuss those with Mr. Bishop. Mr. Bishop has one last request: free batteries from your shop.
- I will be the courier for these pick-ups.}
-{782}{}{The other benefits you will have to discuss with Mr. Bishop himself. Be sure to go to talk to him armed and
- shouting loudly about what he owes you. He respects men like that.}
-{783}{}{You will have to talk to Mr. Bishop about your fringe benefits. Goodbye.}
-{790}{}{Man, that amount couldn't even afford to change my clothes! }
-{791}{}{Woman, that amount couldn't even afford to change my clothes! }
-{792}{}{What, does Bishop think cars are CHEAP?!}
-{793}{}{Perhaps you feel you are being treated... unfairly?}
-{794}{}{Mr. Bishop has made a GENEROUS offer of 1500 chips. You won't like the next offer.}
-{795}{}{Then perhaps an offer of 900 chips will be more to your liking. Mr. Bishop will be pleased your work comes so cheaply.}
-{797}{}{Since his generous offer has been refused, I'm instructed to take the car for no charge.}
-{798}{}{I tire of this conversation. I will return later.}
+{757}{}{Eu não tenho TEMPO para suas besteiras. Qual é o resumo?}
+{758}{}{Você tem razão. Você não pode. Vou levar o carro comigo, e o Sr. Bishop vai deixar você continuar sua operação aqui.}
+{759}{}{Eu não tenho tempo para isso. Estou saindo daqui.}
+{770}{}{Em minha opinião, este Highwayman... provavelmente o último desse modelo funcionando... vale pelo menos 3000 tampas...
+ mas quer saber? (Pisca com um olho) Estou disposto a me desfazer desta bela máquina por 2700 tampas pela sua condição. Ah, claro,
+ temos que falar sobre os benefícios a mais: privilégios do clube, entrada gratuita na ca-casa...}
+{771}{}{2700? Feito. Aqui está.}
+{772}{}{Mr. Bishop está preparado para te oferecer 1500 tampas.}
+{773}{}{2700? Não, não... O Sr. Bishop aceita por 900 tampas.}
+{774}{}{Tenho outra proposta. Levarei o carro gratuitamente, e o Sr. Bishop permitirá que você continue sua operação aqui.}
+{775}{}{Direi ao Sr. Bishop e retornarei com sua resposta.}
+{780}{}{(T-Ray pisca, depois dá um sorriso lento e largo enquanto você passa as tampas.) Ótimo, eu gosto de um negócio que é feito
+ de forma rápida e simples; foi um prazer fazer negócios com você... agora sobre esses benefícios a mais...?}
+{781}{}{Você terá que discutir isso com o Sr. Bishop. Mas ele tem um último pedido: baterias grátis na sua loja. Eu serei o mensageiro
+ para fazer as coletas.}
+{782}{}{Os outros benefícios você terá que discutir com o próprio Sr. Bishop. Quando for, não se esqueça de entrar armado
+ e gritar bem alto sobre o que ele te deve. Ele respeita homens assim.}
+{783}{}{Você terá que falar com o Sr. Bishop sobre seus benefícios adicionais. Adeus.}
+{790}{}{Cara, essa quantia não da nem para trocar de roupa! }
+{791}{}{Mulher, essa quantia não da nem para trocar de roupa! }
+{792}{}{O que, Bishop acha que carros são coisa BARATA?!}
+{793}{}{Talvez você ache que está sendo tratado... injustamente?}
+{794}{}{O Sr. Bishop fez uma oferta GENEROSA de 1500 tampas. Você não vai gostar da próxima oferta.}
+{795}{}{Então talvez uma oferta de 900 tampas seja mais do seu agrado. O Sr. Bishop ficará satisfeito que seu trabalho seja tão barato.}
+{797}{}{Como sua generosa oferta foi recusada, tenho instruções para levar o carro gratuitamente.}
+{798}{}{Cansei dessa conversa. Voltarei mais tarde.}
 {810}{}{Novecen... mano, você tá de brincadeira?! }
 {811}{}{Novece... Muié, você tá de brincadeira?! }
-{812}{}{Cut the bull-shit! This is a HIGHWAYMAN. They don't make them ANYWHERE anymore, see? There's OTHER families that'll be
- willin' to pay for it if that cheap bastard Bishop won't...}
-{814}{}{Mr. Bishop has made a GENEROUS offer of 900 chips. You won't like the next offer.}
-{816}{}{So you are dealing with other families? Mr. Bishop will be interested to hear that.}
-{817}{}{I'm sorry? What did you just call Mr. Bishop?}
-{818}{}{I tire of this. We'll talk again later.}
-{830}{}{(T-Ray freezes. For a second, you think he's going to attack you, but then he relaxes.) Man, this is a raw deal. }
-{831}{}{(T-Ray freezes. For a second, you think he's going to attack you, but then he relaxes.) Woman, this is a raw deal. }
-{832}{}{What have I ever done to Bishop to deserve this? Huh?}
-{834}{}{I'd take it up with Mr. Bishop. Oh... Mr. Bishop has one last request: he would like free batteries from your shop.
- I will be the courier for these pick-ups.}
-{835}{}{I'm sure it was something. He doesn't like you much. Pleasure doing business with you.}
-{845}{}{Naw, naw, nothin' like that...! Me and Mr. Bishop, we see eye to eye on this, no problems. He's treated me right, and you
- tell him that, aiight? But... uh... what 'bout those fringe benefits I mentioned...?}
-{846}{}{You will have to discuss those with Mr. Bishop. Mr. Bishop has one last request: he would like free batteries from your
- shop. I will be the courier for these pick-ups.}
-{847}{}{The other benefits you will have to discuss with Mr. Bishop. Be sure to go to talk to him armed and shouting loudly
- about what he owes you. He respects men like that.}
-{855}{}{(T-Ray's smile fades.) Aiight... sure, sure... not a problem.}
-{856}{}{Excellent. Give me all the batteries you have in stock right now.}
+{812}{}{Chega dessa merda! Esse é um HIGHWAYMAN. Não se fazem mais em QUALQUER LUGAR, entende? Temos OUTRAS famílias que estarão
+ dispostas a pagar por isso se aquele retardado do Bishop não...}
+{814}{}{O Sr. Bishop fez uma oferta GENEROSA de 900 tampas. Você não vai gostar da próxima oferta.}
+{816}{}{Então você está negociando com outras famílias? O Sr. Bishop ficará interessado em ouvir isso.}
+{817}{}{Perdão? Do que você acabou de chamar o Sr. Bishop?}
+{818}{}{Cansei disso. Conversaremos mais tarde.}
+{830}{}{(T-Ray congela. Por um segundo, você pensa que ele vai te atacar, mas então ele relaxa.) Cara, esse é um trato injusto. }
+{831}{}{(T-Ray congela. Por um segundo, você pensa que ele vai te atacar, mas então ele relaxa.) Mulher, esse é um trato injusto. }
+{832}{}{O que eu fiz ao Bishop para merecer isso? Huh?}
+{834}{}{Eu levarei isso ao Sr. Bishop. Oh... Sr. Bishop tem um último pedido: ele gostaria de baterias grátis de sua loja. Eu serei o
+ mensageiro para as coletas.}
+{835}{}{Tenho certeza que fez algo, ele não gosta muito de você. Prazer em fazer negócios com você.}
+{845}{}{Não, não, nada disso...! Eu e o Sr. Bishop, concordamos com isso, sem problemas. Ele me tratou bem, e você diz isso a ele, certo?
+ Mas... uh... e aqueles benefícios a mais que mencionei...?}
+{846}{}{Você terá que discutir isso com o Sr. Bishop. O Sr. Bishop tem um último pedido: ele gostaria de baterias grátis de sua loja. Eu serei
+ o mensageiro para as coletas.}
+{847}{}{Os outros benefícios você terá que discutir com o Sr. Bishop. Não se esqueça, entre armado e grite bem alto tudo o que ele te
+ deve. Ele respeita homens assim.}
+{855}{}{(O sorriso de T-Ray desaparece.) Certo... claro, claro... não é um problema.}
+{856}{}{Excelente. Pode me dar todas as baterias que você tem em estoque agora.}
 {857}{}{(Vai embora.)}
-{865}{}{I will, I will... hey, you tell your boss he can buy batteries from me, too. I keep finding new ones every day round here.}
-{866}{}{Really? Let me see what you have in stock.}
-{875}{}{We ain't got any batteries right now; most of the cars we've stripped ain't turned up shit. Give us a week or two, aiight?}
-{876}{}{All right. I'll let it slide. This time. See ya.}
-{885}{}{(T-Ray's shoulders slump a little.) Aiight, aiight. Here you go. It's all I got.}
-{886}{}{All right. I'll be back in two weeks for the next batch. Have them ready for Mr. Bishop.}
-{896}{}{Okay. I'll try back later.}
-{905}{}{Sure, we got some.}
-{906}{}{Could I check out your stock?}
-{907}{}{Well, I'd really like one, but I don't want to pay for it. Is there something... ELSE I could do to pay for it?}
-{909}{}{Just checking. Be seeing you.}
+{865}{}{Eu vou, eu vou... ei, diga ao seu chefe que ele pode comprar baterias de mim também. Eu continuo encontrando novas todos os dias por aqui.}
+{866}{}{Sério? Deixe eu ver o seu estoque.}
+{875}{}{Não temos baterias agora; a maioria dos carros que desmontamos não tinha nada. Nos de uma semana ou duas, certo?}
+{876}{}{Tudo bem. Vou deixar passar... Desta vez. Até mais.}
+{885}{}{(Os ombros de T-Ray caem um pouco.) Ta certo, beleza. Aqui está. É tudo o que tenho.}
+{886}{}{Está bem. Estarei de volta em duas semanas para a próxima entrega. De tudo pronto para o Sr. Bishop.}
+{896}{}{OK. Voltarei mais tarde.}
+{905}{}{Claro, temos algumas.}
+{906}{}{Posso checar seu estoque?}
+{907}{}{Bem, eu realmente gostaria de uma, mas eu não quero pagar por isso. Existe alguma coisa... OUTRA coisa que eu poderia fazer para pagar por isso?}
+{909}{}{Apenas checando. Nos veremos depois.}
 {915}{}{Grav-plates! These beauties'll let you FLY cross the wasteland, and they have a recycling power chip, so they
  barely suck up any juice. How do you like that? You want 'em?}
-{916}{}{Me like me take}
-{918}{}{Sounds good. I'll take it.}
-{919}{}{Not right now. I have come to collect Mr. Bishop's free batteries.}
-{920}{}{Not right now. Can you upgrade the Highwayman without adding the grav plates?}
-{921}{}{Not right now. Can I buy some batteries from you instead?}
-{922}{}{No, not at the moment. Maybe later. See ya.}
-{930}{}{(T-Ray spends an hour or two in the shop. When he emerges, the grav-plates have been installed.)}
-{931}{}{Thanks, T-Ray. Appreciate it. I'll go try them out.}
-{940}{}{Help yourself, hero.}
-{941}{}{What's mine is yours. Tell everybody I said that, too.}
+{916}{}{Eu vejo, eu pego.}
+{918}{}{Parece bom. Eu vou levar.}
+{919}{}{Não agora. Vim buscar as baterias grátis do Sr. Bishop.}
+{920}{}{Não agora. Você pode melhorar o Highwayman sem adicionar as placas de gravidade?}
+{921}{}{Não agora. Posso comprar algumas baterias de você em vez disso?}
+{922}{}{Não, não no momento, talvez mais tarde. Até mais.}
+{930}{}{(T-Ray passa uma ou duas horas na oficina. Quando ele sai, as placas de gravidade foram instaladas.)}
+{931}{}{Obrigado, T-Ray. Agradeço mesmo. Vou esperimentar.}
+{940}{}{Sirva-se, herói.}
+{941}{}{O que é meu é seu. Diga a todos que eu disse isso também.}
 {942}{}{Damn. You save the world, and you STILL got to go through everybody's shit.}
-{950}{}{Get away from my shit.}
-{951}{}{Next time you touch my shit, you're going to get yo ass beat.}
-{1000}{}{You got the car back without using violence.}
-{1001}{}{You successfully tricked T-Ray.}
-{1002}{}{You have received a free supply of car batteries.}
-{1100}{}{Too... much... sex... gonna... blow...}
-{2000}{}{You got a battery for the Highwayman.}
-{2010}{}{You got the upgrade for the Highwayman.}
-{5286}{}{. I'm here for the car.}
-{5731}{}{?! I heard }
-{5733}{}{. You challengin' me?}
-{6731}{}{ was a little taller, a little more... (looks skeptical) ...bad-ass.}
+{950}{}{Fique longe das minhas coisas.}
+{951}{}{Da próxima vez que você tocar na minhas coisas, vai apanhar.}
+{1000}{}{Você pegou o carro de volta sem usar violência.}
+{1001}{}{Você enganou T-Ray com sucesso.}
+{1002}{}{Você recebeu um suprimento gratuito de baterias de carro.}
+{1100}{}{Muito... muito... sexo... vamos... voar...}
+{2000}{}{Você tem uma bateria para o Highwayman.}
+{2010}{}{Você conseguir melhoria para o Highwayman.}
+{5286}{}{. Estou aqui pelo carro.}
+{5731}{}{?! ouvi que }
+{5733}{}{. Esta me questionando?}
+{6731}{}{ era um pouco mais alto, um pouco mais... (parece cético) ...durão.}
