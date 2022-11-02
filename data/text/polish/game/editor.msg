@@ -74,13 +74,13 @@
 {301}{}{Punkty akcji}
 {302}{editor}{Klasa pancerza}
 {303}{}{Obrażenia bez broni}
-{304}{}{Obr. w walce wręcz}
+{304}{}{Obr. wal. wręcz}
 {305}{}{Odp. na obr.}
 {306}{}{Odp. na truc.}
 {307}{}{Odp. na prom.}
 {308}{editor}{Inicjatywa}
-{309}{editor}{Tempo zdrowienia}
-{310}{editor}{Szansa na trafienie krytyczne}
+{309}{editor}{Tempo zdr.}
+{310}{editor}{Sz. na kryt.}
 {311}{editor}{Udźwig}
 {312}{}{Zatrucie}
 {313}{}{Napromieniowanie}
