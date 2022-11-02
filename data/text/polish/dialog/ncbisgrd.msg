@@ -95,7 +95,7 @@
 {424}{}{ więc }
 {425}{}{ ZGNIEŚĆ MAŁE LUDZIKI}
 {426}{}{Z wrzaskiem rzuć się w poszukiwaniu osłony.}
-{427}{}{Ucichnij, skup się i przygotuj się na dokonanie drobnych zniszczeń.}
+{427}{}{[Ucichnij, skup się i przygotuj się na dokonanie drobnych zniszczeń.]}
 {428}{}{A sami chcecie TROCHĘ tego, co chłopcy?! CHCECIE?! Więc chodźcie tu i WEŹCIE sobie, wy żałosne SKURWYSY...}
 {435}{}{Jeśli nie wiesz, to nie musisz wiedzieć. A teraz zmiataj.}
 {445}{}{To wielka szkoda, bo Bishop właśnie niedawno wybrał się w podróż autostradą do nieba. A teraz spadaj.}

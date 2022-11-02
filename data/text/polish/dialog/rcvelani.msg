@@ -5,7 +5,8 @@
 {104}{}{To duży błąd okradać rodzinę Mordino. Zapłacisz za to - w swoim czasie. Na razie wynoś się stąd.}
 {105}{}{Złodziejem? Zapamiętam to sobie, ty podły niewdzięczniku. Odchodzę, żegnam.}
 {106}{}{Któregoś dnia, niedługo, pożałujesz tego. Żegnam.}
-{107}{}{Ta karawana to hańba. Cieszę się, że Savinelli nie przeżył. Nie mogę uwierzyć w to, że myślisz, że dostaniesz za tę porażkę pieniądze. Won!}
+{107}{}{Ta karawana to hańba. Cieszę się, że Savinelli nie przeżył. Nie mogę uwierzyć w to, że myślisz,
+ że dostaniesz za tę porażkę pieniądze. Won!}
 {108}{}{Ty draniu! Zapłacisz mi za to oszustwo. Żegnam.}
 {109}{}{Cóż, czasami ma się większe szczęście od innych. Tym razem było odwrotnie. Żegnaj.}
 {110}{}{Zapłacę ci za tę żałośnie wykonaną robotę. Masz tu 50$. A teraz zmiataj.}
