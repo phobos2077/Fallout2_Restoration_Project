@@ -88,7 +88,7 @@
 {187}{}{Ona: Nie było tak źle, prawda? On: Teraz po prostu idź porozmawiać z UKC-7, a staniemy się towarzyszami w Centrologii! Ona: Jestem taka podniecona! On: Zawsze cię pożądam po wciągnięciu nowych członków. Ona: Och, kochanie... On: Och, złotko...}
 {188}{}{...Wrócę później.}
 {189}{}{On: Wielka szkoda. Ona: Od teraz masz skazę na duszy.}
-{190}{}{[GOTOWE]}
+{190}{}{[OK]}
 {191}{}{On: Ta decyzja zmieni twoje życie. Ona: I, niestety, jest to zła decyzja. Oboje: Straże! Straże!}
 {192}{}{Cholera.}
 {193}{}{On: Witaj,}

@@ -2,7 +2,7 @@
 {1}{}{WCZYTAJ}
 {2}{}{OPCJE GRY}
 {3}{}{WYJŚCIE}
-{4}{}{GOTOWE}
+{4}{}{OK}
 {100}{}{OPCJE GRY}
 {101}{}{TRUDNOŚĆ GRY}
 {102}{}{TRUDNOŚĆ WALKI}
@@ -51,7 +51,7 @@
 {222}{}{Głośno}
 {223}{}{Jasno}
 {224}{}{Szeroko}
-{300}{}{GOTOWE}
+{300}{}{OK}
 {301}{}{PAUZA}
 {1000}{}{Opcje gry nie są dostępne}
 {1001}{}{w wersji demo.}

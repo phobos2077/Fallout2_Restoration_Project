@@ -81,7 +81,7 @@
 {305}{}{Średnio}
 {306}{}{Dobrze}
 {307}{}{B.dobrze}
-{308}{}{Świetnie}
+{308}{}{Świet.}
 {309}{}{Idealnie}
 {310}{}{Epicko}
 {400}{}{Niewykorzystane punkty umiejętności}

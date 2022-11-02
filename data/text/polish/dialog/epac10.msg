@@ -11,7 +11,7 @@
 {223}{}{Nie chcę cię dobijać, ale byłeś zamrożony *naprawdę* długo. Jestem pewien, że twój przyjaciel, "doktorek", już od dawna nie żyje.}
 {224}{}{Słuchaj, chłopczyku. Nie uwolniłem twojego psychotycznego tyłka żeby móc odpowiadać na twoje głupie pytania i patrzeć jak się pogrążasz. Pozwalam ci żyć tylko tak długo żebyś mógł przekazać mi wszelkie przydatne informacje jakie możesz mieć. Więc zacznij mówić. Im więcej mi możesz powiedzieć, tym dłużej pożyjesz.}
 {230}{}{[Jego opanowanie znika, a oczy rozpala furia.] Wydaje ci się, że możesz straszyć MNIE? Czy ty masz w ogóle pojęcie z kim rozmawiasz? Tylko tu podejdź a pokażę ci do czego jestem zdolny!}
-{231}{}{[Gotowe.]}
+{231}{}{[Ok.]}
 {240}{}{[Dex szczerzy się do ciebie, odsłaniając zestaw idealnych zębów produktu przedwojennej stomatologii dla ciebie wyglądają dziwnie w całej swojej perłowej symetrii.]  Doktorek, moim przyjacielem? [Uniósł brew.] Ty naprawdę nie wiesz kim jestem, co?}
 {241}{}{Uch, nie zupełnie. Odbywałem pewien rodzaj wędrówki po tym dziwnym obiekcie, pomajstrowałem trochę przy tej rzeczy i tak się stało, że trafiłem na ciebie. W każdym razie dlaczego byłeś zamrożony?}
 {242}{}{Cóż, według komputera, jesteś Dex, narcystycznym, socjopatycznym, seryjnym mordercą z przed wielkiej ciszy. Odmroziłem cię tylko po to żeby cię ubić jak chorego psa , którym jesteś.}
@@ -150,7 +150,7 @@
 {632}{}{Cóż, według komputera, jesteś Dex, narcystycznym, socjopatycznym, seryjnym mordercą z przed wielkiej ciszy. Odmroziłem cię tylko po to żeby cię ubić jak chorego psa , którym jesteś.}
 {633}{}{Nie mam pojęcia, ale czuje od ciebie ten rodzaj złych wibracji, który lubię.}
 {640}{}{[Jego opanowanie znika, a oczy rozpala furia.] Wydaje ci się, że możesz straszyć MNIE? Czy ty masz w ogóle pojęcie z kim rozmawiasz? Tylko tu podejdź a pokażę ci do czego jestem zdolny!}
-{641}{}{[Gotowe.]}
+{641}{}{[Ok.]}
 {650}{}{[Dex szczerzy się do ciebie, odsłaniając zestaw idealnych zębów produktu przedwojennej stomatologii dla ciebie wyglądają dziwnie w całej swojej perłowej symetrii.] Wiedziałem, że jest coś co mi się w tobie podoba. Masz dobry gust. Ale nie przypuszczam żebyś był też fanem Króla?}
 {651}{}{Yyy.... [Puste spojrzenie.]}
 {652}{}{Pewnie, że tak, uwielbiam to... jak to nazywasz... Król? Ta, jestem wielkim fanem.}

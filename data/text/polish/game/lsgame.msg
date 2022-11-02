@@ -2,7 +2,7 @@
 {101}{}{GRA DO SZYBKIEGO ODCZYTU}
 {102}{}{ZAPISZ GRĘ}
 {103}{}{GRA DO SZYBKIEGO ZAPISU}
-{104}{}{GOTOWE}
+{104}{}{OK}
 {105}{}{Anuluj}
 {106}{}{Błąd w trakcie odczytu listy gier!}
 {107}{}{Katalog }
