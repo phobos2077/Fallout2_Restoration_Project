@@ -1,8 +1,8 @@
 1:Utvalde?
 2:Utvalde?
-3:Do you hear me?
-4:[The] village [dies].
-5:[All of our] futures die, too.
-6:We have little [left in both time and] essence.
+3:Hör du mig?
+4:Byn [dör].
+5:[Alla våra] framtider dör också.
+6:Vi har inte mycket [kvar av både tid och] essens.
 7:Skynda.
 8:Sky-...

@@ -1,4 +1,4 @@
-{100}{}{You see your nephew, Feargus, crying about something as usual.}
+{100}{}{Du ser din brorson Feargus gråta över något som vanligt.}
 {101}{}{Wahh!!! Please fix the well.}
 {102}{}{Wahh!!! I'm really thirsty but the well's broken!}
 {103}{}{Wahh!!! The well really needs fixing.}
