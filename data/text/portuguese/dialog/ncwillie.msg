@@ -22,6 +22,6 @@
 {603}{}{Rápido, PEGUE UMA PÁ!}
 {604}{}{Alguém pode me desenterrar? Eu preciso de uma bebida!}
 {605}{}{Estou sentindo uma minhoca? Ah...esquece.}
-{700}{}{Ug, smellie in hole.}
-{701}{}{Me dig more for smellie shinies.}
-{702}{}{Huh, You not shini-!?}
+{700}{}{Ug, buraco fedorento.}
+{701}{}{Eu procuro mais brilhos fedidos.}
+{702}{}{Huh, você não brilh-!?}

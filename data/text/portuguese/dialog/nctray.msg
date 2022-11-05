@@ -270,8 +270,8 @@
 {906}{}{Posso checar seu estoque?}
 {907}{}{Bem, eu realmente gostaria de uma, mas eu não quero pagar por isso. Existe alguma coisa... OUTRA coisa que eu poderia fazer para pagar por isso?}
 {909}{}{Apenas checando. Nos veremos depois.}
-{915}{}{Grav-plates! These beauties'll let you FLY cross the wasteland, and they have a recycling power chip, so they
- barely suck up any juice. How do you like that? You want 'em?}
+{915}{}{Placas Gravitacionais! Essas beldades permitem que você VOE através do deserto, e elas têm um chip de energia de reciclagem,
+ então elas gastam bem pouco. Gosta disso? Quer elas?}
 {916}{}{Eu vejo, eu pego.}
 {918}{}{Parece bom. Eu vou levar.}
 {919}{}{Não agora. Vim buscar as baterias grátis do Sr. Bishop.}
@@ -282,7 +282,7 @@
 {931}{}{Obrigado, T-Ray. Agradeço mesmo. Vou esperimentar.}
 {940}{}{Sirva-se, herói.}
 {941}{}{O que é meu é seu. Diga a todos que eu disse isso também.}
-{942}{}{Damn. You save the world, and you STILL got to go through everybody's shit.}
+{942}{}{Droga. Você salva o mundo, e AINDA tem que cuidar de merda dos outros.}
 {950}{}{Fique longe das minhas coisas.}
 {951}{}{Da próxima vez que você tocar na minhas coisas, vai apanhar.}
 {1000}{}{Você pegou o carro de volta sem usar violência.}

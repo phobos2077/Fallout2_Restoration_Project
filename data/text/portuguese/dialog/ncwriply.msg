@@ -1,24 +1,24 @@
-{100}{}{You see one of the Wright children.}
-{150}{}{You see a small, black-haired child with a pot on his head. He is pointing his finger at some imaginary Enclave agents and making BLAM noises.}
-{151}{}{You see one of the Wright children with a pot on his head.}
-{152}{}{You see one of the Wright children with a pot on his head. He is pointing his finger at some imaginary Enclave agents and making BLAM noises.}
-{200}{}{You see a small, black-haired child with a pot on his head.}
-{201}{}{You see one of the Wright children with a pot on his head. He is making *bzzzzing* noises like a hornet.}
-{210}{}{Look at me, I'm the descendent of the Vault Dweller! Praise the Vault!}
-{211}{}{I want to go on the quest for Vault 13!}
-{212}{}{Blam blam! Die, Enclave jerk-faces!}
-{213}{}{Look out, here comes the Enclave!}
-{214}{}{Pow! Pow! Take that, you Enclave jerks!}
-{215}{}{You're ALWAYS the Vault Dweller!}
-{216}{}{Try and kill everybody with a virus, huh? Take this, Mr. President!}
-{217}{}{Eat this, Mr. Prezident!}
-{218}{}{I want to be the Vault Dweller next game!}
-{219}{}{Nuh-uh! You missed me, President-lover!}
-{220}{}{Uh-uh! I got you! I got you!}
-{221}{}{I just blew up the Enclave! Boooooom!}
-{222}{}{Quick! Everybody to the tanker!}
-{223}{}{Eat this, you Enclave butt-faces!}
-{224}{}{I killed you dead, Enclave-lover!}
+{100}{}{Você vê uma das crianças Wright.}
+{150}{}{Você vê uma criança pequena de cabelos pretos com um pote na cabeça. Ele está apontando o dedo para alguns agentes imaginários da Enclave e fazendo barulhos de disparo.}
+{151}{}{Você vê uma das crianças dos Wright com um pote na cabeça.}
+{152}{}{Você vê uma das crianças dos Wright com um pote na cabeça. Ele está apontando o dedo para alguns agentes imaginários da Enclave e fazendo barulhos de disparo.}
+{200}{}{Você vê uma criança pequena de cabelos pretos com um pote na cabeça.}
+{201}{}{Você vê uma das crianças dos Wright com um pote na cabeça. Ele está fazendo barulhos *bzzzzing* como uma vespa.}
+{210}{}{Olhe para mim, sou descendente do Morador da Vault! Louve a Vault!}
+{211}{}{Eu quero ir procurar a Vault 13!}
+{212}{}{Blá blá! Morram, soldados idiotas da Enclave!}
+{213}{}{Cuidado, aí vem a Enclave!}
+{214}{}{Pow! Pow! Tomem isso, seus idiotas da Enclave!}
+{215}{}{Você sempre foi o Morador da Vault!}
+{216}{}{Tenta matar todo mundo com um virus, neh? Toma isto, Sr. Presidente!}
+{217}{}{Coma isso, Sr. Presidente!}
+{218}{}{Eu quero ser o Morador da Vault na proxima gameplay!}
+{219}{}{Ah ha! Venha ver comigo, gado do presidente!}
+{220}{}{Uh-uh! Te peguei! Te peguei!}
+{221}{}{Acabei de explodir a Enclave! Boooom!}
+{222}{}{Rápido! Todo mundo para o petroleiro!}
+{223}{}{Comam isso, seus idiotas da Enclave!}
+{224}{}{Eu te matei ate a morte, amigo da Enclave!}
 {225}{}{Enclave Muthuhfugguhs gonna taste my metal.}
 {226}{}{Had my hardened power armor on! That bullet bounced right off!}
 {227}{}{Die, Enclave-face!}
@@ -31,7 +31,7 @@
 {245}{}{Bang bang!}
 {246}{}{I want to be the metal insect next game!}
 {247}{}{Nuh-uh! You missed me!}
-{248}{}{Uh-uh! I got you! I got you!}
+{248}{}{Uh-uh! Te peguei! Te peguei!}
 {249}{}{Bzzzzzzz}
 {250}{}{I killed you dead!}
 {251}{}{Zooommmm}
