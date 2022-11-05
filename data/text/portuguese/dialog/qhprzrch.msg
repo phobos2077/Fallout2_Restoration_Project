@@ -86,39 +86,39 @@
 {185}{}{I, uh, I'm just checking this area, sir. Security check. Yeah. Everything's fine here. Uh, goodbye.}
 {186}{prs22a}{Hello. I'm the President of the United States of America, and you are...?}
 {187}{prs22b}{Hello there. I'm the President of the United States of America and I must say I've seldom seen a stranger, or sorrier, delegation of misfits in all my life. Just who are you to barge in on me this way?}
-{188}{}{I'm damn curious as to what's going on here.}
-{189}{}{I'm your executioner.}
-{190}{}{The President? What are you talking about?}
-{191}{}{I'm lost. I can see you're a busy man Mr. President. I'll just be leaving now. Goodbye.}
-{192}{prs23}{That's a shame. A conversation with a genuine mutant like you? It'd certainly paint me a picture of what life's like in that radioactive hell on the mainland.}
-{193}{}{Mutant? Why are you calling me a mutant?}
-{194}{}{Radioactive hell? You don't get out much, do you?}
-{195}{}{That's it. Enough talk. Time to die.}
-{196}{}{Yeah, well, we all have to learn to live with disappointment. Goodbye.}
-{197}{prs24}{There was a great war long before we were born. Our gallant soldiers fought from the Yukon to the Yangtze.}
-{198}{}{Yeah, I knew about that part. Go on.}
-{199}{prs26}{Vice-President Bird may look like a drooling idiot, but I'll have you know that man's a national hero.}
-{200}{}{To you, probably.}
-{201}{prs27}{He's one of the bravest men I know. He volunteered to try one of the early versions of the F.E.V. toxin antidote. (sigh) Unfortunately, it didn't quite work out the way we'd hoped.}
-{202}{}{You mean that wasn't what you'd hoped for?}
-{203}{prs28}{It's tiny mocking minds like yours that prove the superiority of real humans over mutants.}
-{204}{}{He's still a gibbering idiot.}
-{205}{}{Why are you calling me a mutant?}
-{206}{prs29}{He may yet come around. In fact, there may even be some unforeseen benefits. His spelling ability has actually improved.}
-{207}{}{I'm happy for you. But why did you call me a mutant?}
-{208}{prs30}{Because you are. Your tribe's DNA has changed since your ancestor left the vault. Unavoidable. All that background radiation you've been exposed to.}
-{209}{}{OK, so I'm a mutant. Guess what smart guy, you're about to become a dead pure-strain human.}
-{210}{}{So we're mutants. So what?}
-{211}{}{Creatures change all the time. It's called evolution. Without that change you and I would still be two bits of protoplasmic goo.}
-{212}{prs31}{We try to keep ourselves safe and secure from radiation. That's what separates humans - like me - from mutants like you.}
+{188}{}{Estou muito curioso para saber o que está acontecendo aqui.}
+{189}{}{Sou seu executor.}
+{190}{}{O presidente? O que você está falando?}
+{191}{}{Me perdi. Posso ver que é um homem ocupado, Sr. Presidente. Preciso sair agora. Adeus.}
+{192}{prs23}{Isso é uma vergonha. Uma conversa com um mutante genuíno como você? Certamente isso me da uma imagem de como é a vida naquele inferno radioativo de continente.}
+{193}{}{Mutante? Por que você está me chamando de mutante?}
+{194}{}{Inferno radioativo? Você não sai muito, não é?}
+{195}{}{É isso. Chega de conversa. Hora de morrer.}
+{196}{}{Sim, bem, todos nós temos que aprender a viver com decepções. Adeus.}
+{197}{prs24}{Houve uma grande guerra muito antes de nascermos. Nossos bravos soldados lutaram do Yukon ao Yangtze.}
+{198}{}{Sim, eu sabia dessa parte. Prossiga.}
+{199}{prs26}{O vice-presidente Bird pode parecer ter um parafuso a menos, mas você deve saber que esse homem é um herói nacional.}
+{200}{}{Para você, provavelmente.}
+{201}{prs27}{Ele é um dos homens mais corajosos que conheço. Ele se ofereceu para experimentar uma das primeiras versões do antídoto da toxina F.E.V.(suspiro). Infelizmente, não funcionou como esperávamos.}
+{202}{}{Quer dizer que não era o que você esperava?}
+{203}{prs28}{São pequenas mentes zombeteiras como a sua que provam a superioridade dos humanos reais sobre os mutantes.}
+{204}{}{Ele ainda é um puta dum retardado.}
+{205}{}{Por que você está me chamando de mutante?}
+{206}{prs29}{Já deveria ter chegado. Na verdade, teve até vantagens imprevistas. Suas ortografia melhorou muito.}
+{207}{}{Estou feliz por você. Mas por que você me chamou de mutante?}
+{208}{prs30}{Porque você é. O DNA de sua tribo mudou desde que seu ancestral deixou a Vault. Inevitável. Toda aquela radiação de fundo a que você foi exposto.}
+{209}{}{OK, então eu sou um mutante. Agora adivinhe, você está prestes a se tornar um autentico ser humano morto.}
+{210}{}{Então somos mutantes. E daí?}
+{211}{}{As criaturas mudam o tempo todo. Chama-se evolução. Sem essa mudança, você e eu ainda seríamos dois pedaços de gosma protoplasmática.}
+{212}{prs31}{Tentamos nos manter seguros e protegidos da radiação. É isso que separa humanos - como eu - de mutantes como você.}
 {213}{}{Por que você continua me chamando de mutante?}
-{214}{}{Enough talk. Time for you to face that great electoral college in the sky.}
-{215}{}{I've killed men for less than that. But I'm in a hurry today. Goodbye.}
-{216}{prs32}{We were winning, too. And then those damn Reds launched. We barely got our birds up.}
-{217}{}{Doesn't seem as though it helped us much.}
-{218}{prs33}{Well, no it didn't. But at least it knocked the damn Red menace back into the stone age. (chuckles)}
-{219}{}{And us with it.}
-{220}{prs34}{Well, no. No... not quite. You see, we had planned ahead. We were ready. }
+{214}{}{Já conversamos bastante. É hora de você ir ver o STF no inferno.}
+{215}{}{Já matei homens por menos que isso. Mas hoje estou com pressa. Adeus.}
+{216}{prs32}{E estávamos ganhando também. E então aqueles malditos Reds lançaram. Nós os explodimos.}
+{217}{}{Não parece que nos ajudou muito.}
+{218}{prs33}{Bem, não. Mas pelo menos fez a maldita ameaça Vermelha voltar à idade da pedra. (risos)}
+{219}{}{E nós juntos deles.}
+{220}{prs34}{Bem não. Não... não exatamente. Veja, nós tínhamos planejado com antecedência. Estavamos prontos. }
 {221}{}{O que você quer dizer?}
 {222}{prs35}{We had a number of sanctuaries that would enable the glorious American civilization to endure. This facility - the vaults - were part of the great plan.}
 {223}{}{Those damn vaults didn't work the way they were supposed to. A lot of people in them died.}

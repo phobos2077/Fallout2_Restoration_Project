@@ -19,74 +19,74 @@
 {222}{}{Rápido! Todo mundo para o petroleiro!}
 {223}{}{Comam isso, seus idiotas da Enclave!}
 {224}{}{Eu te matei ate a morte, amigo da Enclave!}
-{225}{}{Enclave Muthuhfugguhs gonna taste my metal.}
-{226}{}{Had my hardened power armor on! That bullet bounced right off!}
-{227}{}{Die, Enclave-face!}
-{228}{}{Aighhhhhhhh... I've been hit...}
-{240}{}{Look at me, I'm the metal insect! Bzzzzzz}
+{225}{}{Seu filho d... huh... da Enclave, vem aqui provar minha munição.}
+{226}{}{Eu estava com minha Power Armor melhorada! Nem senti a bala!}
+{227}{}{Morra, trouxa da Enclave!}
+{228}{}{Ahhhhhhhhh... fui atingido...}
+{240}{}{Olhe para mim, eu sou o inseto de metal! Bzzzzzz}
 {241}{}{Blam blam!}
-{242}{}{Look out, here comes the metal insect!}
+{242}{}{Cuidado, aí vem o inseto de metal!}
 {243}{}{Tome isso!}
-{244}{}{You're always the metal insect!}
+{244}{}{Você é sempre foi o inseto de metal!}
 {245}{}{Bang bang!}
-{246}{}{I want to be the metal insect next game!}
-{247}{}{Nuh-uh! You missed me!}
+{246}{}{Eu quero ser o inseto de metal na próxima gameplay!}
+{247}{}{Huuuuu! Você falhou!}
 {248}{}{Uh-uh! Te peguei! Te peguei!}
 {249}{}{Bzzzzzzz}
-{250}{}{I killed you dead!}
+{250}{}{Te matei bem morto!}
 {251}{}{Zooommmm}
-{252}{}{Muthuhfugguh gonna taste my metal.}
-{253}{}{Had my force field up!}
-{254}{}{Die, Salvatore-face!}
-{255}{}{Aighhhhhhhh... I've been hit...}
-{270}{}{I miss Dogmeat from Fallout 1.}
-{271}{}{Think there's gonna be a Fallout 3? I wanna be the hero of that one!}
+{252}{}{Filho da... mãe, vai provar meu metal.}
+{253}{}{Ativei meu campo de força!}
+{254}{}{Morra, idiota do Salvatore!}
+{255}{}{Ahhhhhhhhh... fui atingido...}
+{270}{}{Saudades do Dogmeat do Fallout 1.}
+{271}{}{Acha que vai ter um Fallout 3? Tomara que a historia seja boa igual a do 2!}
 {272}{}{Fallout 2 foi trazido para você pela letra Z.}
-{273}{}{The Enclave can kiss my seven year old ass. What jerks.}
-{274}{}{The Enclave were real jerk-faces, huh? Sheesh.}
-{275}{}{Were you scared when you met the President? Did he have big fangs and claws?}
-{276}{}{I wish I coulda helped you destroy the Enclave. I... wouldn't have been scared. Uh-uh.}
+{273}{}{A Enclave pode beijar minha bunda de sete anos. Que idiotas.}
+{274}{}{A Enclave era bem idiota, hein? Tontos.}
+{275}{}{Ficou com medo quando conheceu o presidente? Ele tinha grandes presas e garras?}
+{276}{}{Eu gostaria de ter ajudado você a destruir a Enclave. Eu... não teria medo. Uh-uh.}
 {277}{}{Ei! }
 {278}{}{}
 {279}{}{Obrigado por nos salvar.}
-{280}{}{I wanna save th' world just like you when I grow up.}
+{280}{}{Eu quero salvar o mundo como você quando eu crescer.}
 {281}{}{Eu posso ser um herói que nem você quando eu crescer?}
 {282}{}{Eu quero ser}
-{300}{}{Aighhhh! It's one of the metal people! Run!}
-{301}{}{It's one of th' metal people! They found us! Run!}
-{302}{}{We're sorry! We're sorry! Don't sic yer metal insect on us! Please!}
+{300}{}{Aihhh! É uma das pessoas de metal! Corre!}
+{301}{}{É uma das pessoas do metal! Eles nos encontraram! Corre!}
+{302}{}{Perdão! Por favor, não venha pra cima de nos, inseto de metal!}
 {310}{}{Melhor você fugir antes que o meu papai te veja.}
 {311}{}{Melhor você fugir antes que os meus irmãos te vejam.}
 {312}{}{Você é uma pessoa má. Melhor sair daqui antes que eu conte sobre você.}
-{320}{}{(The child stops *bzzzzzing* around and lifts up the pot to look at you.)}
-{321}{}{Can }
-{322}{}{Sorree. I thought you were a pot Byeeee}
-{323}{}{Why do you have a pot on your head?}
-{324}{}{What are you playing?}
+{320}{}{(A criança para o *bzzzzzz* e levanta o pote para olhar para você.)}
+{321}{}{Pode }
+{322}{}{Discupa. Achei que você fosse um pote Tchaaau}
+{323}{}{Por que você tem um pote na cabeça?}
+{324}{}{Do que você está brincando?}
 {325}{}{Onde estão seus pais?}
-{326}{}{(Let him play.)}
-{330}{}{Well... okay. (Looks you up and down.) But I'M the metal insect this game!}
-{331}{}{Okee dokee little bee person}
-{332}{}{ okay with that.}
-{333}{}{What incest?}
-{334}{}{No! }
-{335}{}{Ooooh... what over here?}
-{340}{}{(The little man lets the pot fall down over his head, and resumes *bzzzzing* around.)}
-{341}{}{Run around with him for a while making *bzzzzing* noises.}
+{326}{}{(Deixa ele brincar.)}
+{330}{}{Bem... tudo bem. (Olha você de cima a baixo.) Mas eu sou o inseto de metal neste jogo!}
+{331}{}{Tuuuudo bem, pessoa abelhinha}
+{332}{}{ tudo bem com isso.}
+{333}{}{Que incesto?}
+{334}{}{Não! }
+{335}{}{Ooooh... que temos aqui?}
+{340}{}{(O homenzinho coloca o pote cair sobre sua cabeça e recomeça *bzzzzing* por ai.)}
+{341}{}{Corre com ele por um tempo fazendo barulhos *bzzzzing*.}
 {342}{}{Desliga}
 {343}{}{(Vai embora.)}
 {350}{}{INSECT, stoo-pid! We SAW one when we were out in the desert! It was as big... (Takes a deep breath.) ...as big as a HOUSE!
  N'it had metal PEOPLE in it.}
 {351}{}{hã-hã}
-{352}{}{Don't call me stoopid}
-{353}{}{Don't shout. }
-{354}{}{You lie to }
-{355}{}{ has killed a lot of little loud people like you... maybe you next?}
+{352}{}{Não me chama de estupido}
+{353}{}{Nao atire. }
+{354}{}{Você mente }
+{355}{}{ ele matou um monte de pessoinhas barulhentas como você... talvez você seja o próximo?}
 {356}{}{Sair andando}
-{360}{}{UH-HUH. We saw it.}
+{360}{}{UH-HUH. Nós vimos.}
 {362}{}{Uh-uh-uh-uh}
 {363}{}{Huh-huh-huh-huh}
-{364}{}{Wander off and make "uhhh" noises at someone else.}
+{364}{}{Você vai embora e faz "uhhh" como se fosse outra pessoa.}
 {370}{}{Uh-huh! I'll show you! A bunch of us are going over there when it gets REALLY dark. }
 {371}{}{Uh-huh! I'll show you! A bunch of us are going over there tonight. }
 {372}{}{Wanna come? (The little person squints at you.) But you gotta be reeeally quiet. Reeeeally quiet.}
