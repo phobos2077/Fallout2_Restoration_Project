@@ -8,7 +8,7 @@
 {300}{}{If you want to know more about our order, talk to the Abbot. You can find him in his quarters on the third floor.}
 {301}{}{I see. A few more questions...}
 {400}{}{Of course. What would you like to know?}
-{401}{}{What is your name?}
+{401}{}{Vad heter du?}
 {402}{}{Nothing really, bye.}
 {403}{}{What can you tell me about the Abbey?}
 {500}{}{My name is Elaine.}

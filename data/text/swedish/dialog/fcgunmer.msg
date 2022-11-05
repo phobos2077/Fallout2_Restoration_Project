@@ -6,7 +6,7 @@
 {105}{}{Me buy!}
 {106}{}{I was looking for some weaponry.}
 {107}{}{Tell me about the place.}
-{108}{}{Forget it.}
+{108}{}{Glöm det.}
 {109}{}{I'm sorry! I don't speak your language! Have a nice day!}
 {110}{}{Rrr?}
 {111}{}{Ahh, a weapon, eh? Well, this is what I have.}
@@ -22,7 +22,7 @@
 {121}{}{No. Bye.}
 {122}{}{I was looking for some weaponry.}
 {123}{}{Tell me about the place.}
-{124}{}{Forget it.}
+{124}{}{Glöm det.}
 {125}{}{We have lived here for years, but we did not always live here. Dr. Fung knows the complete history. I'll bet what you're looking for is what we do now.}
 {126}{}{Yep.}
 {127}{}{No, actually, I wanted to know the history. I'll go find Fung. See you.}

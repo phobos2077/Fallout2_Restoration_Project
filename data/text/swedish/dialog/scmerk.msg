@@ -75,7 +75,7 @@
 {174}{}{Knowledge costs you. Am I clear?}
 {175}{}{"The price of wisdom is above rubies."}
 {176}{}{Here's $50.}
-{177}{}{Forget it.}
+{177}{}{Glöm det.}
 {178}{}{Oh, you're that person.}
 {179}{}{Continue}
 {180}{}{Well, as far as I'm concerned, here you're just a pile of dung.}
