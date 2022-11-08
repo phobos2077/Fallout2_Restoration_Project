@@ -1954,3 +1954,50 @@
 {194200}{}{Embrasure de porte}
 {194300}{}{Embrasure de porte}
 {194400}{}{Embrasure de porte}
+{194500}{}{Embrasure de porte}
+{194600}{}{Embrasure de porte}
+{194700}{}{Embrasure de porte}
+{194800}{}{Embrasure de porte}
+{194900}{}{Embrasure de porte}
+{195000}{}{Embrasure de porte}
+{195100}{}{Embrasure de porte}
+{195200}{}{Voûte}
+{195300}{}{Fenêtre}
+{195400}{}{Fenêtre}
+{195500}{}{Fenêtre}
+{195600}{}{Fenêtre}
+{195700}{}{Fenêtre}
+{195800}{}{Fenêtre}
+{195900}{}{Fenêtre}
+{196000}{}{Fenêtre}
+{196100}{}{Fenêtre}
+{196200}{}{Fenêtre}
+{196300}{}{Fenêtre}
+{196400}{}{Fenêtre}
+{196500}{}{Fenêtre}
+{196600}{}{Fenêtre}
+{196700}{}{Fenêtre}
+{196800}{}{Fenêtre}
+{196900}{}{Fenêtre}
+{197000}{}{Fenêtre}
+{197100}{}{Mur}
+{197200}{}{Mur}
+{197300}{}{Mur}
+{197400}{}{Mur}
+{197500}{}{Mur}
+{197600}{}{Mur}
+{197700}{}{Mur}
+{197800}{}{Mur}
+{197900}{}{Mur}
+{198000}{}{Mur}
+{198100}{}{Mur}
+{198200}{}{Mur}
+{198300}{}{Mur}
+{198400}{}{Mur}
+{198500}{}{Mur}
+{198600}{}{Mur}
+{198700}{}{Pilier}
+{198800}{}{Embrasure de porte}
+{198900}{}{Embrasure de porte}
+{199000}{}{Embrasure de porte}
+{199100}{}{Embrasure de porte}

@@ -23,11 +23,11 @@
 {270}{}{¿Has completado la tarea por mí?}
 {271}{}{Sí, he matado todas las plantas. Los jardines todavía se ven como el infierno, pero al menos son un poco más seguros.}
 {272}{}{No aún no. Tendré que contactar contigo.}
-{280}{}{Oh muchas gracias. Por eso, por la presente te contrato como mi asistente de jardinería. [Señala una llave en el suelo junto a sus pies.] Logré convencer a uno de los robots que trabajaban a medias para que te lo trajeran. Ahora tiene autorización para acceder al cobertizo de almacenamiento. Gracias de nuevo.}
+{280}{}{Oh, thank you so much. For that, I hereby hire you as my assistant groundskeeper. [He points to a key on the floor by his feet.] I managed to coax one of the half working robots into bringing that for you. You now have authorization to access the storage room on the ground level. Thanks again.}
 {281}{}{[Recoge la llave y la guarda en el bolsillo.] No hay problema. Nos vemos.}
 {290}{}{Te ves bastante desordenado. ¿Está todo bien?}
 {291}{}{Si estoy bien. Tuve algunos problemas con algunas plantas mutadas en el camino hasta aquí, pero me ocupé de ellas.}
-{300}{}{¿Tienes? ¡Maravilloso! Por eso, por la presente te contrato como mi asistente de jardinería. [Señala una llave en el suelo junto a sus pies.] Logré convencer a uno de los robots que trabajaban a medias para que me trajeran las llaves hace un tiempo, por si acaso. Tómalos. Ahora tiene autorización para acceder al cobertizo de almacenamiento. Gracias de nuevo.}
+{300}{}{You have? Wonderful! For that, I hereby hire you as my assistant groundskeeper. [He points to a key on the floor by his feet.] I managed to coax one of the half working robots into bringing the keys to me awhile ago -- just in case. Take 'em. You now have authorization to access the storage room on the ground level. Thanks again.}
 {301}{}{Oh no. Es todo lo que pude hacer. No te preocupes por eso.}
 {302}{}{!Hey gracias¡ Hasta luego. }
 {310}{}{Oye, me has dado un buen giro para que tomes la llave y todo lo que quieras o necesites. Es mi forma de decir gracias por lo que has hecho.}

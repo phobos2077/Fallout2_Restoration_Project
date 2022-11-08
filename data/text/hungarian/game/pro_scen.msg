@@ -282,14 +282,14 @@
 {14501}{}{Az ajtón egy óriási lyuk tátong.}
 {14600}{}{Lyuk}
 {14601}{}{Az ajtón egy óriási lyuk tátong.}
-{14700}{}{Golyóálló üveg}
-{14701}{}{Teljesen törhetetlen üveg. Meg se próbáld...}
-{14800}{}{Golyóálló üveg}
-{14801}{}{Teljesen törhetetlen üveg. Meg se próbáld...}
-{14900}{}{Golyóálló üveg}
-{14901}{}{Teljesen törhetetlen üveg. Meg se próbáld...}
-{15000}{}{Golyóálló üveg}
-{15001}{}{Teljesen törhetetlen üveg. Meg se próbáld...}
+{14700}{}{Supposedly Bullet Proof Glass}
+{14701}{}{Supposedly unbreakable glass. Don't even try!}
+{14800}{}{Supposedly Bullet Proof Glass}
+{14801}{}{Supposedly unbreakable glass. Don't even try!}
+{14900}{}{Supposedly Bullet Proof Glass}
+{14901}{}{Supposedly unbreakable glass. Don't even try!}
+{15000}{}{Supposedly Bullet Proof Glass}
+{15001}{}{Supposedly unbreakable glass. Don't even try!}
 {15100}{}{Ajtó}
 {15101}{}{Ez az ajtó nagyon modern. Tágulva nyílik ki, ahogy a három alkotórésze elfordul.}
 {15200}{}{Ajtó}
@@ -2630,9 +2630,12 @@
 {171800}{}{Fal}
 {171900}{}{Szellőztető}
 {172000}{}{Szellőztető}
-{172100}{}{Golyóálló üveg}
-{172200}{}{Golyóálló üveg}
-{172300}{}{Golyóálló üveg}
+{172100}{}{Supposedly Bullet Proof Glass}
+{172101}{}{Supposedly unbreakable glass. Don't even try!}
+{172200}{}{Supposedly Bullet Proof Glass}
+{172201}{}{Supposedly unbreakable glass. Don't even try!}
+{172300}{}{Supposedly Bullet Proof Glass}
+{172301}{}{Supposedly unbreakable glass. Don't even try!}
 {172400}{}{Nehézlézer-löveg}
 {172401}{}{The turret rotates in a menacing way.}
 {172500}{}{Nehézlézer-löveg}
@@ -3470,3 +3473,63 @@
 {229901}{}{A dead body with plant growth wrapped around it.}
 {230000}{}{An odd looking creature}
 {230001}{}{A dead body with plant growth wrapped around it.}
+{230100}{}{Füst}
+{230200}{}{Füst}
+{230300}{}{Flaming Brazier}
+{230301}{}{This putrid oil brazier is an effective light source. The fumes can't help but burn your eyes and nostrils.}
+{230400}{}{Tires}
+{230401}{}{Old rubber tires sitting in the middle of some weeds.}
+{230500}{}{Abroncsok}
+{230501}{}{Egy rakás poros gumiabroncs. Vulkanizált és keményített fajta. Valószínűleg a hő által.}
+{230600}{}{Abroncsok}
+{230601}{}{Egy rakás poros gumiabroncs. Vulkanizált és keményített fajta. Valószínűleg a hő által.}
+{230700}{}{Shattered Glass}
+{230701}{}{Scattered shards of broken glass.}
+{230800}{}{Rusting Vehicle}
+{230801}{}{The sands are slowly swallowing this lost vehicle.}
+{230900}{}{Autó}
+{230901}{}{Ez az automobil rettentően néz ki. Gondolni se merj arra, hogy egyszer majd üzemképes lesz!}
+{231000}{}{Autó}
+{231001}{}{Ezt a rozsdás fémdarabot már nem lehet helyrerakni.}
+{231100}{}{Autó}
+{231101}{}{Minden jel arra utal, hogy ez a jármű már többet nem fog közlekedni. De tényleg.}
+{231200}{}{Autó}
+{231201}{}{Semmi esély arra, hogy ezt a szemétnek is alig nevezhető valamit valaki, valaha is vezetni fogja.}
+{231300}{}{Asztal}
+{231301}{}{Fából készült asztal.}
+{231400}{}{Komód}
+{231401}{}{Fából készült komód.}
+{231500}{}{Komód}
+{231501}{}{Fából készült komód.}
+{231600}{}{Asztal}
+{231601}{}{Egy közönséges asztal. Ha láttál egyet, láttad mindet.}
+{231700}{}{Asztal}
+{231701}{}{Egy közönséges asztal.}
+{231800}{}{Asztal}
+{231801}{}{Egy közönséges asztal.}
+{231900}{}{Books}
+{231901}{}{An assortment of books.}
+{232000}{}{Boxes and Sacks}
+{232001}{}{An assortment of boxes and sacks.}
+{232100}{}{Metal Parts}
+{232101}{}{An assortment of metal parts.}
+{232200}{}{Books}
+{232201}{}{An assortment of books.}
+{232300}{}{Boxes and Sacks}
+{232301}{}{An assortment of boxes and sacks.}
+{232400}{}{Metal Parts}
+{232401}{}{An assortment of metal parts.}
+{232500}{}{Hordó}
+{232501}{}{A barrel of smelly meaty bits.}
+{232600}{}{Hordó}
+{232601}{}{A barrel of smelly meaty bits.}
+{232700}{}{Hordó}
+{232701}{}{A barrel of smelly meaty bits.}
+{232800}{}{Hordó}
+{232801}{}{A barrel of smelly meaty bits.}
+{232900}{}{Flies}
+{233000}{}{Flies}
+{233100}{}{Szellőző}
+{233200}{}{Szellőző}
+{233300}{}{Szellőző}
+{233400}{}{Szellőző}

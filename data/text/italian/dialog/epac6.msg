@@ -23,11 +23,11 @@
 {270}{}{Have you completed the task for me?}
 {271}{}{Yep, I've killed all the plants. The grounds still look like hell, but at least they're a little safer.}
 {272}{}{No, not yet. I'll have to get back to you.}
-{280}{}{Oh, thank you so much. For that, I hereby hire you as my assistant groundskeeper. [He points to a key on the floor by his feet.] I managed to coax one of the half working robots into bringing that for you. You now have authorization to access the storage shed. Thanks again.}
+{280}{}{Oh, thank you so much. For that, I hereby hire you as my assistant groundskeeper. [He points to a key on the floor by his feet.] I managed to coax one of the half working robots into bringing that for you. You now have authorization to access the storage room on the ground level. Thanks again.}
 {281}{}{[You pick up the key and pocket it.] No problem. See ya.}
 {290}{}{You look rather messy. Is everything all right?}
 {291}{}{Yeah, I'm fine. I had some trouble with some mutated plants on the way down here but I took care of them.}
-{300}{}{You have? Wonderful! For that, I hereby hire you as my assistant groundskeeper. [He points to a key on the floor by his feet.] I managed to coax one of the half working robots into bringing the keys to me awhile ago -- just in case. Take 'em. You now have authorization to access the storage shed. Thanks again.}
+{300}{}{You have? Wonderful! For that, I hereby hire you as my assistant groundskeeper. [He points to a key on the floor by his feet.] I managed to coax one of the half working robots into bringing the keys to me awhile ago -- just in case. Take 'em. You now have authorization to access the storage room on the ground level. Thanks again.}
 {301}{}{Oh no. It's all I could do. Don't worry about it.}
 {302}{}{Hey thanks! Goodbye.}
 {310}{}{Hey, you've done me a good turn so you'll take the key and anything you want or need. It's my way of saying thank you for what you've done.}

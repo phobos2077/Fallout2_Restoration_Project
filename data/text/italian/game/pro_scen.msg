@@ -282,14 +282,14 @@
 {14501}{}{Un grosso buco e' stato creato in questa porta.}
 {14600}{}{Buco}
 {14601}{}{Un grosso buco e' stato creato in questa porta.}
-{14700}{}{Vetro Anti-Proiettile}
-{14701}{}{Un vetro assolutamente indistruttibile. Non provarci nemmeno.}
-{14800}{}{Vetro Anti-Proiettile}
-{14801}{}{Un vetro assolutamente indistruttibile. Non provarci nemmeno.}
-{14900}{}{Vetro Anti-Proiettile}
-{14901}{}{Un vetro assolutamente indistruttibile. Non provarci nemmeno.}
-{15000}{}{Vetro Anti-Proiettile}
-{15001}{}{Un vetro assolutamente indistruttibile. Non provarci nemmeno.}
+{14700}{}{Supposedly Bullet Proof Glass}
+{14701}{}{Supposedly unbreakable glass. Don't even try!}
+{14800}{}{Supposedly Bullet Proof Glass}
+{14801}{}{Supposedly unbreakable glass. Don't even try!}
+{14900}{}{Supposedly Bullet Proof Glass}
+{14901}{}{Supposedly unbreakable glass. Don't even try!}
+{15000}{}{Supposedly Bullet Proof Glass}
+{15001}{}{Supposedly unbreakable glass. Don't even try!}
 {15100}{}{Porta}
 {15101}{}{Questa porta e' un esempio di costruzione ad alta tecnologia. Si apre allargandosi grazie alla rotazione dei tre pezzi che la compongono.}
 {15200}{}{Porta}
@@ -2630,9 +2630,12 @@
 {171800}{}{Parete}
 {171900}{}{Presa d'Aria}
 {172000}{}{Presa d'Aria}
-{172100}{}{Vetro Anti-Proiettile}
-{172200}{}{Vetro Anti-Proiettile}
-{172300}{}{Vetro Anti-Proiettile}
+{172100}{}{Supposedly Bullet Proof Glass}
+{172101}{}{Supposedly unbreakable glass. Don't even try!}
+{172200}{}{Supposedly Bullet Proof Glass}
+{172201}{}{Supposedly unbreakable glass. Don't even try!}
+{172300}{}{Supposedly Bullet Proof Glass}
+{172301}{}{Supposedly unbreakable glass. Don't even try!}
 {172400}{}{Torretta Laser Pesante}
 {172401}{}{The turret rotates in a menacing way.}
 {172500}{}{Torretta Laser Pesante}
@@ -3470,3 +3473,63 @@
 {229901}{}{A dead body with plant growth wrapped around it.}
 {230000}{}{An odd looking creature}
 {230001}{}{A dead body with plant growth wrapped around it.}
+{230100}{}{Smoke}
+{230200}{}{Smoke}
+{230300}{}{Flaming Brazier}
+{230301}{}{This putrid oil brazier is an effective light source. The fumes can't help but burn your eyes and nostrils.}
+{230400}{}{Tires}
+{230401}{}{Old rubber tires sitting in the middle of some weeds.}
+{230500}{}{Pila di Pneumatici}
+{230501}{}{Una pila di vecchissimi pneumatici. Si sono vulcanizzati e induriti, probabilmente a causa del calore.}
+{230600}{}{Pila di Pneumatici}
+{230601}{}{Una pila di vecchissimi pneumatici. Si sono vulcanizzati e induriti, probabilmente a causa del calore.}
+{230700}{}{Shattered Glass}
+{230701}{}{Scattered shards of broken glass.}
+{230800}{}{Rusting Vehicle}
+{230801}{}{The sands are slowly swallowing this lost vehicle.}
+{230900}{}{Automobile}
+{230901}{}{Questa automobile e' in pessime condizioni. Non ti e' possibile trovare il modo di ripararla.}
+{231000}{}{Automobile}
+{231001}{}{Questo pezzo di metallo arrugginito non puo' essere riparato.}
+{231100}{}{Automobile}
+{231101}{}{Decidi che questo veicolo non si muovera' mai piu'. Davvero.}
+{231200}{}{Automobile}
+{231201}{}{Non c'e' possibilita' che questo avanzo di discarica possa muoversi di nuovo.}
+{231300}{}{Scrivania}
+{231301}{}{Una scrivania in legno.}
+{231400}{}{Credenza}
+{231401}{}{Una credenza in legno.}
+{231500}{}{Credenza}
+{231501}{}{Una credenza in legno.}
+{231600}{}{Scrivania}
+{231601}{}{Una normale scrivania. Vista una scrivania, le hai viste tute.}
+{231700}{}{Scrivania}
+{231701}{}{Una scrivania.}
+{231800}{}{Scrivania}
+{231801}{}{Una scrivania.}
+{231900}{}{Books}
+{231901}{}{An assortment of books.}
+{232000}{}{Boxes and Sacks}
+{232001}{}{An assortment of boxes and sacks.}
+{232100}{}{Metal Parts}
+{232101}{}{An assortment of metal parts.}
+{232200}{}{Books}
+{232201}{}{An assortment of books.}
+{232300}{}{Boxes and Sacks}
+{232301}{}{An assortment of boxes and sacks.}
+{232400}{}{Metal Parts}
+{232401}{}{An assortment of metal parts.}
+{232500}{}{Barile}
+{232501}{}{A barrel of smelly meaty bits.}
+{232600}{}{Barile}
+{232601}{}{A barrel of smelly meaty bits.}
+{232700}{}{Barile}
+{232701}{}{A barrel of smelly meaty bits.}
+{232800}{}{Barile}
+{232801}{}{A barrel of smelly meaty bits.}
+{232900}{}{Flies}
+{233000}{}{Flies}
+{233100}{}{Presa d'Aria}
+{233200}{}{Presa d'Aria}
+{233300}{}{Presa d'Aria}
+{233400}{}{Presa d'Aria}

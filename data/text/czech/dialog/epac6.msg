@@ -23,11 +23,11 @@
 {270}{}{Dokončil jste pro mě ten úkol?}
 {271}{}{Jo, zlikvidoval jsem všechny masožravé rostliny. Země sice pořád vypadá příšerně, ale aspoň je tu o trochu bezpečněji.}
 {272}{}{Ne, ještě ne. Ještě se vrátím.}
-{280}{}{Ach, děkuji moc. Za to vás jmenuji svým asistentem údržby. (Ukáže na klíč, který mu leží u nohou.) Přemluvil jsem jednoho napůl funkčního robota, aby vám tohle přinesl. Nyní máte přístup do skladiště. Ještě jednou díky.}
+{280}{}{Oh, thank you so much. For that, I hereby hire you as my assistant groundskeeper. [He points to a key on the floor by his feet.] I managed to coax one of the half working robots into bringing that for you. You now have authorization to access the storage room on the ground level. Thanks again.}
 {281}{}{[Sebrat klíč a dát si ho do kapsy] Dobře. Nashle.}
 {290}{}{Vypadáte poněkud rozhozeně. Je všechno v pořádku?}
 {291}{}{Jo, jsem v pohodě. Na cestě sem dolů mi trochu dělaly potíže zmutované rostliny, ale postaral jsem se o ně.}
-{300}{}{Vy jste je zabil? Skvělé! Za to vás jmenuji svým asistentem údržby. (Ukáže na klíč, který mu leží u nohou.) Přemluvil jsem jednoho napůl funkčního robota, aby mi přinesl tyhle klíče... kdyby něco. Vezměte si je. Nyní máte přístup do skladiště. Ještě jednou díky.}
+{300}{}{You have? Wonderful! For that, I hereby hire you as my assistant groundskeeper. [He points to a key on the floor by his feet.] I managed to coax one of the half working robots into bringing the keys to me awhile ago -- just in case. Take 'em. You now have authorization to access the storage room on the ground level. Thanks again.}
 {301}{}{Ale to nemuselo být. To ani nestálo za řeč. Netrapte se tím.}
 {302}{}{Hej, díky! Sbohem.}
 {310}{}{Hele, vykonal jste pro mě dobrou službu, takže si vezměte ten klíč a s ním i všechno, co chcete nebo potřebujete. Tímto způsobem vám chci vyjádřit díky za vaši pomoc.}

@@ -642,21 +642,21 @@
 {64200}{}{Střecha}
 {64300}{}{Střecha}
 {64400}{}{Střecha}
-{64500}{}{Střecha}
-{64600}{}{Střecha}
-{64700}{}{Střecha}
-{64800}{}{Střecha}
-{64900}{}{Střecha}
-{65000}{}{Střecha}
-{65100}{}{Střecha}
-{65200}{}{Střecha}
-{65300}{}{Střecha}
-{65400}{}{Střecha}
-{65500}{}{Střecha}
-{65600}{}{Střecha}
-{65700}{}{Střecha}
-{65800}{}{Střecha}
-{65900}{}{Střecha}
+{64500}{}{}
+{64600}{}{}
+{64700}{}{}
+{64800}{}{}
+{64900}{}{}
+{65000}{}{}
+{65100}{}{}
+{65200}{}{}
+{65300}{}{}
+{65400}{}{}
+{65500}{}{}
+{65600}{}{}
+{65700}{}{}
+{65800}{}{}
+{65900}{}{}
 {66000}{}{Střecha}
 {66100}{}{Podlaha}
 {66200}{}{Střecha}
@@ -811,7 +811,83 @@
 {105400}{}{Sliz}
 {150400}{}{}
 {162300}{}{Scotty}
-{310300}{}{Dlaždicová podlaha}
+{242300}{}{Podlaha}
+{242400}{}{Podlaha}
+{242500}{}{Podlaha}
+{242600}{}{Podlaha}
+{242700}{}{Podlaha}
+{242800}{}{Podlaha}
+{242900}{}{Podlaha}
+{243000}{}{Podlaha}
+{243100}{}{Podlaha}
+{243200}{}{Podlaha}
+{243300}{}{Podlaha}
+{243400}{}{Podlaha}
+{243500}{}{Podlaha}
+{243600}{}{Podlaha}
+{243700}{}{Podlaha}
+{243800}{}{Podlaha}
+{243900}{}{Podlaha}
+{244000}{}{Podlaha}
+{244100}{}{Podlaha}
+{244200}{}{Podlaha}
+{244300}{}{Podlaha}
+{244400}{}{Podlaha}
+{244500}{}{Podlaha}
+{244600}{}{Podlaha}
+{244700}{}{Podlaha}
+{244800}{}{Podlaha}
+{244900}{}{Podlaha}
+{245000}{}{Podlaha}
+{245100}{}{Podlaha}
+{245200}{}{Podlaha}
+{245300}{}{Podlaha}
+{245400}{}{Podlaha}
+{245500}{}{End of Group}
+{245600}{}{Střecha}
+{245700}{}{Střecha}
+{245800}{}{Střecha}
+{245900}{}{Střecha}
+{246000}{}{Střecha}
+{246100}{}{Střecha}
+{246200}{}{Střecha}
+{246300}{}{Střecha}
+{246400}{}{Střecha}
+{246500}{}{Střecha}
+{246600}{}{Střecha}
+{246700}{}{Střecha}
+{246800}{}{Střecha}
+{246900}{}{Střecha}
+{247000}{}{Střecha}
+{247100}{}{Střecha}
+{247200}{}{Střecha}
+{247300}{}{Střecha}
+{247400}{}{Střecha}
+{247500}{}{Střecha}
+{247600}{}{Střecha}
+{247700}{}{Střecha}
+{247800}{}{Střecha}
+{247900}{}{Střecha}
+{248000}{}{Střecha}
+{248100}{}{Střecha}
+{248200}{}{End of Group}
+{249100}{}{End of Group}
+{250400}{}{End of Group}
+{250500}{}{Dřevěná podlaha}
+{250600}{}{Dřevěná podlaha}
+{250700}{}{Dřevěná podlaha}
+{250800}{}{Dřevěná podlaha}
+{250900}{}{Dřevěná podlaha}
+{251000}{}{Dřevěná podlaha}
+{251100}{}{Dřevěná podlaha}
+{251200}{}{Dřevěná podlaha}
+{251300}{}{Dřevěná podlaha}
+{251400}{}{Dřevěná podlaha}
+{251500}{}{Dřevěná podlaha}
+{251600}{}{End of Group}
+{310300}{}{}
+{313100}{}{End of Group}
+{318200}{}{End of Group}
 {369100}{}{Střecha}
 {369200}{}{Střecha}
 {369300}{}{Střecha}
@@ -878,35 +954,35 @@
 {376200}{}{Střecha}
 {376300}{}{Střecha}
 {376400}{}{Střecha}
-{379100}{}{Potrubí na střeše}
-{379200}{}{Potrubí na střeše}
-{379300}{}{Potrubí na střeše}
-{379400}{}{Potrubí na střeše}
-{379500}{}{Potrubí na střeše}
-{379600}{}{Potrubí na střeše}
-{379700}{}{Potrubí na střeše}
-{379800}{}{Potrubí na střeše}
-{379900}{}{Potrubí na střeše}
-{380000}{}{Potrubí na střeše}
-{380100}{}{Potrubí na střeše}
-{380200}{}{Potrubí na střeše}
-{380300}{}{Potrubí na střeše}
-{380400}{}{Potrubí na střeše}
-{380500}{}{Potrubí na střeše}
-{380600}{}{Potrubí na střeše}
-{380700}{}{Potrubí na střeše}
-{380800}{}{Potrubí na střeše}
-{380900}{}{Potrubí na střeše}
-{381000}{}{Potrubí na střeše}
-{381100}{}{Potrubí na střeše}
-{381200}{}{Potrubí na střeše}
-{381300}{}{Potrubí na střeše}
-{381400}{}{Potrubí na střeše}
-{381500}{}{Potrubí na střeše}
-{381600}{}{Potrubí na střeše}
-{381700}{}{Potrubí na střeše}
-{381800}{}{Potrubí na střeše}
-{381900}{}{Potrubí na střeše}
+{379100}{}{}
+{379200}{}{}
+{379300}{}{}
+{379400}{}{}
+{379500}{}{}
+{379600}{}{}
+{379700}{}{}
+{379800}{}{}
+{379900}{}{}
+{380000}{}{}
+{380100}{}{}
+{380200}{}{}
+{380300}{}{}
+{380400}{}{}
+{380500}{}{}
+{380600}{}{}
+{380700}{}{}
+{380800}{}{}
+{380900}{}{}
+{381000}{}{}
+{381100}{}{}
+{381200}{}{}
+{381300}{}{}
+{381400}{}{}
+{381500}{}{}
+{381600}{}{}
+{381700}{}{}
+{381800}{}{}
+{381900}{}{}
 {385900}{}{Střecha}
 {386000}{}{Střecha}
 {386100}{}{Střecha}

@@ -642,21 +642,21 @@
 {64200}{}{Tetto}
 {64300}{}{Tetto}
 {64400}{}{Tetto}
-{64500}{}{Tetto}
-{64600}{}{Tetto}
-{64700}{}{Tetto}
-{64800}{}{Tetto}
-{64900}{}{Tetto}
-{65000}{}{Tetto}
-{65100}{}{Tetto}
-{65200}{}{Tetto}
-{65300}{}{Tetto}
-{65400}{}{Tetto}
-{65500}{}{Tetto}
-{65600}{}{Tetto}
-{65700}{}{Tetto}
-{65800}{}{Tetto}
-{65900}{}{Tetto}
+{64500}{}{}
+{64600}{}{}
+{64700}{}{}
+{64800}{}{}
+{64900}{}{}
+{65000}{}{}
+{65100}{}{}
+{65200}{}{}
+{65300}{}{}
+{65400}{}{}
+{65500}{}{}
+{65600}{}{}
+{65700}{}{}
+{65800}{}{}
+{65900}{}{}
 {66000}{}{Tetto}
 {66100}{}{Pavimento}
 {66200}{}{Tetto}
@@ -811,7 +811,83 @@
 {105400}{}{Slime}
 {150400}{}{}
 {162300}{}{Scotty}
-{310300}{}{Floor tile}
+{242300}{}{Pavimento}
+{242400}{}{Pavimento}
+{242500}{}{Pavimento}
+{242600}{}{Pavimento}
+{242700}{}{Pavimento}
+{242800}{}{Pavimento}
+{242900}{}{Pavimento}
+{243000}{}{Pavimento}
+{243100}{}{Pavimento}
+{243200}{}{Pavimento}
+{243300}{}{Pavimento}
+{243400}{}{Pavimento}
+{243500}{}{Pavimento}
+{243600}{}{Pavimento}
+{243700}{}{Pavimento}
+{243800}{}{Pavimento}
+{243900}{}{Pavimento}
+{244000}{}{Pavimento}
+{244100}{}{Pavimento}
+{244200}{}{Pavimento}
+{244300}{}{Pavimento}
+{244400}{}{Pavimento}
+{244500}{}{Pavimento}
+{244600}{}{Pavimento}
+{244700}{}{Pavimento}
+{244800}{}{Pavimento}
+{244900}{}{Pavimento}
+{245000}{}{Pavimento}
+{245100}{}{Pavimento}
+{245200}{}{Pavimento}
+{245300}{}{Pavimento}
+{245400}{}{Pavimento}
+{245500}{}{End of Group}
+{245600}{}{Tetto}
+{245700}{}{Tetto}
+{245800}{}{Tetto}
+{245900}{}{Tetto}
+{246000}{}{Tetto}
+{246100}{}{Tetto}
+{246200}{}{Tetto}
+{246300}{}{Tetto}
+{246400}{}{Tetto}
+{246500}{}{Tetto}
+{246600}{}{Tetto}
+{246700}{}{Tetto}
+{246800}{}{Tetto}
+{246900}{}{Tetto}
+{247000}{}{Tetto}
+{247100}{}{Tetto}
+{247200}{}{Tetto}
+{247300}{}{Tetto}
+{247400}{}{Tetto}
+{247500}{}{Tetto}
+{247600}{}{Tetto}
+{247700}{}{Tetto}
+{247800}{}{Tetto}
+{247900}{}{Tetto}
+{248000}{}{Tetto}
+{248100}{}{Tetto}
+{248200}{}{End of Group}
+{249100}{}{End of Group}
+{250400}{}{End of Group}
+{250500}{}{Pavimento in Legno}
+{250600}{}{Pavimento in Legno}
+{250700}{}{Pavimento in Legno}
+{250800}{}{Pavimento in Legno}
+{250900}{}{Pavimento in Legno}
+{251000}{}{Pavimento in Legno}
+{251100}{}{Pavimento in Legno}
+{251200}{}{Pavimento in Legno}
+{251300}{}{Pavimento in Legno}
+{251400}{}{Pavimento in Legno}
+{251500}{}{Pavimento in Legno}
+{251600}{}{End of Group}
+{310300}{}{}
+{313100}{}{End of Group}
+{318200}{}{End of Group}
 {369100}{}{Tetto}
 {369200}{}{Tetto}
 {369300}{}{Tetto}
@@ -878,35 +954,35 @@
 {376200}{}{Tetto}
 {376300}{}{Tetto}
 {376400}{}{Tetto}
-{379100}{}{Roof Pipes}
-{379200}{}{Roof Pipes}
-{379300}{}{Roof Pipes}
-{379400}{}{Roof Pipes}
-{379500}{}{Roof Pipes}
-{379600}{}{Roof Pipes}
-{379700}{}{Roof Pipes}
-{379800}{}{Roof Pipes}
-{379900}{}{Roof Pipes}
-{380000}{}{Roof Pipes}
-{380100}{}{Roof Pipes}
-{380200}{}{Roof Pipes}
-{380300}{}{Roof Pipes}
-{380400}{}{Roof Pipes}
-{380500}{}{Roof Pipes}
-{380600}{}{Roof Pipes}
-{380700}{}{Roof Pipes}
-{380800}{}{Roof Pipes}
-{380900}{}{Roof Pipes}
-{381000}{}{Roof Pipes}
-{381100}{}{Roof Pipes}
-{381200}{}{Roof Pipes}
-{381300}{}{Roof Pipes}
-{381400}{}{Roof Pipes}
-{381500}{}{Roof Pipes}
-{381600}{}{Roof Pipes}
-{381700}{}{Roof Pipes}
-{381800}{}{Roof Pipes}
-{381900}{}{Roof Pipes}
+{379100}{}{}
+{379200}{}{}
+{379300}{}{}
+{379400}{}{}
+{379500}{}{}
+{379600}{}{}
+{379700}{}{}
+{379800}{}{}
+{379900}{}{}
+{380000}{}{}
+{380100}{}{}
+{380200}{}{}
+{380300}{}{}
+{380400}{}{}
+{380500}{}{}
+{380600}{}{}
+{380700}{}{}
+{380800}{}{}
+{380900}{}{}
+{381000}{}{}
+{381100}{}{}
+{381200}{}{}
+{381300}{}{}
+{381400}{}{}
+{381500}{}{}
+{381600}{}{}
+{381700}{}{}
+{381800}{}{}
+{381900}{}{}
 {385900}{}{Tetto}
 {386000}{}{Tetto}
 {386100}{}{Tetto}

@@ -282,14 +282,14 @@
 {14501}{}{Ein großes Loch wurde in diese Tür gesprengt.}
 {14600}{}{Loch}
 {14601}{}{Ein großes Loch wurde in diese Tür gesprengt.}
-{14700}{}{Kugelsicheres Glas}
-{14701}{}{Absolut bruchsicheres Glas. Versuch's gar nicht erst.}
-{14800}{}{Kugelsicheres Glas}
-{14801}{}{Absolut bruchsicheres Glas. Versuch's gar nicht erst.}
-{14900}{}{Kugelsicheres Glas}
-{14901}{}{Absolut bruchsicheres Glas. Versuch's gar nicht erst.}
-{15000}{}{Kugelsicheres Glas}
-{15001}{}{Absolut bruchsicheres Glas. Versuch's gar nicht erst.}
+{14700}{}{Supposedly Bullet Proof Glass}
+{14701}{}{Supposedly unbreakable glass. Don't even try!}
+{14800}{}{Supposedly Bullet Proof Glass}
+{14801}{}{Supposedly unbreakable glass. Don't even try!}
+{14900}{}{Supposedly Bullet Proof Glass}
+{14901}{}{Supposedly unbreakable glass. Don't even try!}
+{15000}{}{Supposedly Bullet Proof Glass}
+{15001}{}{Supposedly unbreakable glass. Don't even try!}
 {15100}{}{Tür}
 {15101}{}{Diese Tür ist reines High-Tech. Sie öffnet sich durch Ausdehnung, wenn ihre drei Teilstücke sich drehen.}
 {15200}{}{Tür}
@@ -2630,9 +2630,12 @@
 {171800}{}{Wand}
 {171900}{}{Lüftungsgitter}
 {172000}{}{Lüftungsgitter}
-{172100}{}{Kugelsicheres Glas}
-{172200}{}{Kugelsicheres Glas}
-{172300}{}{Kugelsicheres Glas}
+{172100}{}{Supposedly Bullet Proof Glass}
+{172101}{}{Supposedly unbreakable glass. Don't even try!}
+{172200}{}{Supposedly Bullet Proof Glass}
+{172201}{}{Supposedly unbreakable glass. Don't even try!}
+{172300}{}{Supposedly Bullet Proof Glass}
+{172301}{}{Supposedly unbreakable glass. Don't even try!}
 {172400}{}{Schwerer Lasergeschützturm}
 {172401}{}{Der Turm dreht sich auf bedrohliche Art.}
 {172500}{}{Schwerer Lasergeschützturm}
@@ -3470,3 +3473,63 @@
 {229901}{}{Eine Leiche mit Pflanzenwuchs umwickelt.}
 {230000}{}{Eine seltsam aussehende Kreatur}
 {230001}{}{Eine Leiche mit Pflanzenwuchs umwickelt.}
+{230100}{}{Rauch}
+{230200}{}{Rauch}
+{230300}{}{Flaming Brazier}
+{230301}{}{This putrid oil brazier is an effective light source. The fumes can't help but burn your eyes and nostrils.}
+{230400}{}{Tires}
+{230401}{}{Old rubber tires sitting in the middle of some weeds.}
+{230500}{}{ein Stapel Reifen}
+{230501}{}{Ein Stapel alter Gummireifen. Sie sind verschmolzen und verhärtet, vermutlich wegen der Hitze.}
+{230600}{}{ein Stapel Reifen}
+{230601}{}{Ein Stapel alter Gummireifen. Sie sind verschmolzen und verhärtet, vermutlich wegen der Hitze.}
+{230700}{}{Shattered Glass}
+{230701}{}{Scattered shards of broken glass.}
+{230800}{}{Rusting Vehicle}
+{230801}{}{The sands are slowly swallowing this lost vehicle.}
+{230900}{}{Auto}
+{230901}{}{Dieses Auto ist in einem furchtbaren Zustand. Du kannst dir nicht denken, wie man es wieder flottmachen kann.}
+{231000}{}{Auto}
+{231001}{}{Dieser rostige Schrotthaufen kann nicht wieder flottgemacht werden.}
+{231100}{}{Auto}
+{231101}{}{Du beschließt, dass dieses Fahrzeug nie mehr fahren wird. Ehrlich.}
+{231200}{}{Auto}
+{231201}{}{Es besteht nicht die geringste Chance, dass diese Schrottkiste je wieder fahren wird.}
+{231300}{}{Schreibtisch}
+{231301}{}{Ein Holzschreibtisch}
+{231400}{}{Kommode}
+{231401}{}{Eine Holzkommode}
+{231500}{}{Kommode}
+{231501}{}{Eine Holzkommode}
+{231600}{}{Schreibtisch}
+{231601}{}{Ein normaler Schreibtisch. Hast du einen gesehen, kennst du alle.}
+{231700}{}{Schreibtisch}
+{231701}{}{Ein normaler Schreibtisch.}
+{231800}{}{Schreibtisch}
+{231801}{}{Ein normaler Schreibtisch.}
+{231900}{}{Books}
+{231901}{}{An assortment of books.}
+{232000}{}{Boxes and Sacks}
+{232001}{}{An assortment of boxes and sacks.}
+{232100}{}{Metal Parts}
+{232101}{}{An assortment of metal parts.}
+{232200}{}{Books}
+{232201}{}{An assortment of books.}
+{232300}{}{Boxes and Sacks}
+{232301}{}{An assortment of boxes and sacks.}
+{232400}{}{Metal Parts}
+{232401}{}{An assortment of metal parts.}
+{232500}{}{Fass}
+{232501}{}{A barrel of smelly meaty bits.}
+{232600}{}{Fass}
+{232601}{}{A barrel of smelly meaty bits.}
+{232700}{}{Fass}
+{232701}{}{A barrel of smelly meaty bits.}
+{232800}{}{Fass}
+{232801}{}{A barrel of smelly meaty bits.}
+{232900}{}{Flies}
+{233000}{}{Flies}
+{233100}{}{Lüftungsgitter}
+{233200}{}{Lüftungsgitter}
+{233300}{}{Lüftungsgitter}
+{233400}{}{Lüftungsgitter}

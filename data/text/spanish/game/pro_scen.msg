@@ -282,14 +282,14 @@
 {14501}{}{Se ha abierto un gran agujero a través de esta puerta con una explosión.}
 {14600}{}{Agujero}
 {14601}{}{Se ha abierto un gran agujero a través de esta puerta con una explosión.}
-{14700}{}{Cristal blindado}
-{14701}{}{Cristal completamente irrompible. Ni siquiera lo intentes.}
-{14800}{}{Cristal blindado}
-{14801}{}{Cristal completamente irrompible. Ni siquiera lo intentes.}
-{14900}{}{Cristal blindado}
-{14901}{}{Cristal completamente irrompible. Ni siquiera lo intentes.}
-{15000}{}{Cristal blindado}
-{15001}{}{Cristal completamente irrompible. Ni siquiera lo intentes.}
+{14700}{}{Supposedly Bullet Proof Glass}
+{14701}{}{Supposedly unbreakable glass. Don't even try!}
+{14800}{}{Supposedly Bullet Proof Glass}
+{14801}{}{Supposedly unbreakable glass. Don't even try!}
+{14900}{}{Supposedly Bullet Proof Glass}
+{14901}{}{Supposedly unbreakable glass. Don't even try!}
+{15000}{}{Supposedly Bullet Proof Glass}
+{15001}{}{Supposedly unbreakable glass. Don't even try!}
 {15100}{}{Puerta}
 {15101}{}{Esta puerta es una pieza de construcción de alta tecnología. Se abre por dilatación a medida que rotan las tres piezas que la forman.}
 {15200}{}{Puerta}
@@ -2630,9 +2630,12 @@
 {171800}{}{Muro}
 {171900}{}{Respiradero}
 {172000}{}{Respiradero}
-{172100}{}{Cristal blindado}
-{172200}{}{Cristal blindado}
-{172300}{}{Cristal blindado}
+{172100}{}{Supposedly Bullet Proof Glass}
+{172101}{}{Supposedly unbreakable glass. Don't even try!}
+{172200}{}{Supposedly Bullet Proof Glass}
+{172201}{}{Supposedly unbreakable glass. Don't even try!}
+{172300}{}{Supposedly Bullet Proof Glass}
+{172301}{}{Supposedly unbreakable glass. Don't even try!}
 {172400}{}{Torreta pesada láser}
 {172401}{}{La torreta gira en una forma amenazante.}
 {172500}{}{Torreta pesada láser}
@@ -3470,3 +3473,63 @@
 {229901}{}{Un cuerpo muerto con el crecimiento de la planta envuelto alrededor de él.}
 {230000}{}{Una extraña criatura de aspecto}
 {230001}{}{Un cuerpo muerto con el crecimiento de la planta envuelto alrededor de él.}
+{230100}{}{Smoke}
+{230200}{}{Smoke}
+{230300}{}{Flaming Brazier}
+{230301}{}{This putrid oil brazier is an effective light source. The fumes can't help but burn your eyes and nostrils.}
+{230400}{}{Tires}
+{230401}{}{Old rubber tires sitting in the middle of some weeds.}
+{230500}{}{Montón de llantas}
+{230501}{}{Un montón de viejas llantas de caucho. Están vulcanizadas y endurecidas, probablemente por el calor.}
+{230600}{}{Montón de llantas}
+{230601}{}{Un montón de viejas llantas de caucho. Están vulcanizadas y endurecidas, probablemente por el calor.}
+{230700}{}{Shattered Glass}
+{230701}{}{Scattered shards of broken glass.}
+{230800}{}{Rusting Vehicle}
+{230801}{}{The sands are slowly swallowing this lost vehicle.}
+{230900}{}{Coche}
+{230901}{}{Este automóvil tiene una pinta terrible. No crees que haya forma de repararlo.}
+{231000}{}{Coche}
+{231001}{}{Esta oxidada pieza de metal hecha polvo no puede repararse.}
+{231100}{}{Coche}
+{231101}{}{Concluyes que este vehículo no volverá a poder conducirse. Ni de broma.}
+{231200}{}{Coche}
+{231201}{}{No hay forma de que esta chatarra pueda volver a poder conducirse de nuevo.}
+{231300}{}{Escritorio}
+{231301}{}{Un escritorio de madera.}
+{231400}{}{Vestidor}
+{231401}{}{Un tocador de madera.}
+{231500}{}{Vestidor}
+{231501}{}{Un tocador de madera.}
+{231600}{}{Escritorio}
+{231601}{}{Un escritorio genérico. Cuando has visto un escritorio, los has visto todos.}
+{231700}{}{Escritorio}
+{231701}{}{Un escritorio genérico.}
+{231800}{}{Escritorio}
+{231801}{}{Un escritorio genérico.}
+{231900}{}{Books}
+{231901}{}{An assortment of books.}
+{232000}{}{Boxes and Sacks}
+{232001}{}{An assortment of boxes and sacks.}
+{232100}{}{Metal Parts}
+{232101}{}{An assortment of metal parts.}
+{232200}{}{Books}
+{232201}{}{An assortment of books.}
+{232300}{}{Boxes and Sacks}
+{232301}{}{An assortment of boxes and sacks.}
+{232400}{}{Metal Parts}
+{232401}{}{An assortment of metal parts.}
+{232500}{}{Barril}
+{232501}{}{A barrel of smelly meaty bits.}
+{232600}{}{Barril}
+{232601}{}{A barrel of smelly meaty bits.}
+{232700}{}{Barril}
+{232701}{}{A barrel of smelly meaty bits.}
+{232800}{}{Barril}
+{232801}{}{A barrel of smelly meaty bits.}
+{232900}{}{Flies}
+{233000}{}{Flies}
+{233100}{}{Ventilación}
+{233200}{}{Ventilación}
+{233300}{}{Ventilación}
+{233400}{}{Ventilación}

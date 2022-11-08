@@ -23,11 +23,11 @@
 {270}{}{Avez-vous fait ce que je voulais ?}
 {271}{}{Oui, j'ai éradiqué toutes les plantes. Le centre est maintenant sain et sauf.}
 {272}{}{Non, pas encore. Je reviendrai plus tard.}
-{280}{}{Ah, merci beaucoup. J'ai demandé à un robot opérationnel de vous ramener cette clef. Elle ouvre les abris de stockage et les serres de la surface. Prenez tout ce que vous voudrez.}
+{280}{}{Oh, thank you so much. For that, I hereby hire you as my assistant groundskeeper. [He points to a key on the floor by his feet.] I managed to coax one of the half working robots into bringing that for you. You now have authorization to access the storage room on the ground level. Thanks again.}
 {281}{}{Merci.}
 {290}{}{Vous semblez stressé. Tout est Ok ?}
 {291}{}{Ouais, je vais bien. J'ai eu des problèmes en venant ici avec quelques plantes mutantes mais je m'en suis débarrassé.}
-{300}{}{Vous avez... ! Magnifique ! Comment vous remercier ? Ah oui, je peux ordonner à un de ces robots de vous récupérer une clef qui donne l'accès aux hangars et aux serres du niveau de la surface. Il y a des herbes, des désherbants, etc... Vous pouvez prendre tout ce que vous voudrez.}
+{300}{}{You have? Wonderful! For that, I hereby hire you as my assistant groundskeeper. [He points to a key on the floor by his feet.] I managed to coax one of the half working robots into bringing the keys to me awhile ago -- just in case. Take 'em. You now have authorization to access the storage room on the ground level. Thanks again.}
 {301}{}{Non merci. C'est naturel de t'avoir rendu service. Oublions ça.}
 {302}{}{Merci ! Au revoir.}
 {310}{}{Hé, c'est ma façon de vous remercier pour le service rendu.}

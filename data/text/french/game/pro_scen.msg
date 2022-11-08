@@ -282,14 +282,14 @@
 {14501}{}{Une explosion a formé un gros trou dans cette porte.}
 {14600}{}{Trou}
 {14601}{}{Une explosion a formé un gros trou dans cette porte.}
-{14700}{}{Verre blindé}
-{14701}{}{Du verre vraiment incassable. N'essaie même pas.}
-{14800}{}{Verre blindé}
-{14801}{}{Du verre vraiment incassable. N'essaie même pas.}
-{14900}{}{Verre blindé}
-{14901}{}{Du verre vraiment incassable. N'essaie même pas.}
-{15000}{}{Verre blindé}
-{15001}{}{Du verre vraiment incassable. N'essaie même pas.}
+{14700}{}{Supposedly Bullet Proof Glass}
+{14701}{}{Supposedly unbreakable glass. Don't even try!}
+{14800}{}{Supposedly Bullet Proof Glass}
+{14801}{}{Supposedly unbreakable glass. Don't even try!}
+{14900}{}{Supposedly Bullet Proof Glass}
+{14901}{}{Supposedly unbreakable glass. Don't even try!}
+{15000}{}{Supposedly Bullet Proof Glass}
+{15001}{}{Supposedly unbreakable glass. Don't even try!}
 {15100}{}{Porte}
 {15101}{}{Cette porte est une pièce de construction ultra-sophistiquée. Elle s'ouvre par dilatation et fait pivoter les trois éléments qui la forment.}
 {15200}{}{Porte}
@@ -2630,9 +2630,12 @@
 {171800}{}{Mur}
 {171900}{}{Conduit d'aération}
 {172000}{}{Conduit d'aération}
-{172100}{}{Verre blindé}
-{172200}{}{Verre blindé}
-{172300}{}{Verre blindé}
+{172100}{}{Supposedly Bullet Proof Glass}
+{172101}{}{Supposedly unbreakable glass. Don't even try!}
+{172200}{}{Supposedly Bullet Proof Glass}
+{172201}{}{Supposedly unbreakable glass. Don't even try!}
+{172300}{}{Supposedly Bullet Proof Glass}
+{172301}{}{Supposedly unbreakable glass. Don't even try!}
 {172400}{}{Tourelle laser lourde}
 {172401}{}{La tourelle tourne d'une manière menaçante.}
 {172500}{}{Tourelle laser lourde}
@@ -3470,3 +3473,63 @@
 {229901}{}{Un cadavre avec une plante enroulée autour.}
 {230000}{}{Une créature étrange}
 {230001}{}{Un cadavre avec une plante enroulée autour.}
+{230100}{}{Fumace}
+{230200}{}{Fumace}
+{230300}{}{Flaming Brazier}
+{230301}{}{This putrid oil brazier is an effective light source. The fumes can't help but burn your eyes and nostrils.}
+{230400}{}{Tires}
+{230401}{}{Old rubber tires sitting in the middle of some weeds.}
+{230500}{}{Pile de pneus}
+{230501}{}{Une pile d'anciens pneu de caoutchouc. Ils sont endommagés et durcis, probablement à cause de la chaleur.}
+{230600}{}{Pile de pneus}
+{230601}{}{Une pile d'anciens pneu de caoutchouc. Ils sont endommagés et durcis, probablement à cause de la chaleur.}
+{230700}{}{Shattered Glass}
+{230701}{}{Scattered shards of broken glass.}
+{230800}{}{Rusting Vehicle}
+{230801}{}{The sands are slowly swallowing this lost vehicle.}
+{230900}{}{Voiture}
+{230901}{}{Cette voiture est en très mauvais état. Tu ne vois pas comment la restaurer.}
+{231000}{}{Voiture}
+{231001}{}{Ce tas de ferraille rouillé ne peut pas être restauré.}
+{231100}{}{Voiture}
+{231101}{}{Tu penses que cette voiture ne roulera plus jamais. Vraiment.}
+{231200}{}{Voiture}
+{231201}{}{Il est impossible que ce tas de ferraille puisse rouler de nouveau.}
+{231300}{}{Bureau}
+{231301}{}{Un bureau en bois.}
+{231400}{}{Commode}
+{231401}{}{Une commode en bois.}
+{231500}{}{Commode}
+{231501}{}{Une commode en bois.}
+{231600}{}{Bureau}
+{231601}{}{Un bureau en bois. Quand on en a vu un, on les a tous vus.}
+{231700}{}{Bureau}
+{231701}{}{Un bureau en bois.}
+{231800}{}{Bureau}
+{231801}{}{Un bureau en bois.}
+{231900}{}{Books}
+{231901}{}{An assortment of books.}
+{232000}{}{Boxes and Sacks}
+{232001}{}{An assortment of boxes and sacks.}
+{232100}{}{Metal Parts}
+{232101}{}{An assortment of metal parts.}
+{232200}{}{Books}
+{232201}{}{An assortment of books.}
+{232300}{}{Boxes and Sacks}
+{232301}{}{An assortment of boxes and sacks.}
+{232400}{}{Metal Parts}
+{232401}{}{An assortment of metal parts.}
+{232500}{}{Baril}
+{232501}{}{A barrel of smelly meaty bits.}
+{232600}{}{Baril}
+{232601}{}{A barrel of smelly meaty bits.}
+{232700}{}{Baril}
+{232701}{}{A barrel of smelly meaty bits.}
+{232800}{}{Baril}
+{232801}{}{A barrel of smelly meaty bits.}
+{232900}{}{Flies}
+{233000}{}{Flies}
+{233100}{}{Conduit d'aération}
+{233200}{}{Conduit d'aération}
+{233300}{}{Conduit d'aération}
+{233400}{}{Conduit d'aération}

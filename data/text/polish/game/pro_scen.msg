@@ -282,14 +282,14 @@
 {14501}{}{W tych drzwiach ktoś zrobił sztucznie wielką dziurę.}
 {14600}{}{dziura}
 {14601}{}{W tych drzwiach ktoś zrobił sztucznie wielką dziurę.}
-{14700}{}{szkło kuloodporne}
-{14701}{}{Całkowicie niezniszczalna szyba - nie warto nawet niczego próbować.}
-{14800}{}{szkło kuloodporne}
-{14801}{}{Całkowicie niezniszczalna szyba - nie warto nawet niczego próbować.}
-{14900}{}{szkło kuloodporne}
-{14901}{}{Całkowicie niezniszczalna szyba - nie warto nawet niczego próbować.}
-{15000}{}{szkło kuloodporne}
-{15001}{}{Całkowicie niezniszczalna szyba - nie warto nawet niczego próbować.}
+{14700}{}{Supposedly Bullet Proof Glass}
+{14701}{}{Supposedly unbreakable glass. Don't even try!}
+{14800}{}{Supposedly Bullet Proof Glass}
+{14801}{}{Supposedly unbreakable glass. Don't even try!}
+{14900}{}{Supposedly Bullet Proof Glass}
+{14901}{}{Supposedly unbreakable glass. Don't even try!}
+{15000}{}{Supposedly Bullet Proof Glass}
+{15001}{}{Supposedly unbreakable glass. Don't even try!}
 {15100}{}{drzwi}
 {15101}{}{Te drzwi to kawał solidnej technologii. Otwierają się dopiero po obróceniu swoich trzech części składowych.}
 {15200}{}{drzwi}
@@ -2630,9 +2630,12 @@
 {171800}{}{ściana}
 {171900}{}{otwór wentylacyjny}
 {172000}{}{otwór wentylacyjny}
-{172100}{}{szkło kuloodporne}
-{172200}{}{szkło kuloodporne}
-{172300}{}{szkło kuloodporne}
+{172100}{}{Supposedly Bullet Proof Glass}
+{172101}{}{Supposedly unbreakable glass. Don't even try!}
+{172200}{}{Supposedly Bullet Proof Glass}
+{172201}{}{Supposedly unbreakable glass. Don't even try!}
+{172300}{}{Supposedly Bullet Proof Glass}
+{172301}{}{Supposedly unbreakable glass. Don't even try!}
 {172400}{}{ciężka wieżyczka laserowa}
 {172401}{}{Wieżyczka obraca się w groźny sposób.}
 {172500}{}{ciężka wieżyczka laserowa}
@@ -3470,3 +3473,63 @@
 {229901}{}{Martwe ciało, które oplatają jakieś dziwne rośliny.}
 {230000}{}{dziwnie wyglądający stwór}
 {230001}{}{Martwe ciało, które oplatają jakieś dziwne rośliny.}
+{230100}{}{Smoke}
+{230200}{}{Smoke}
+{230300}{}{Flaming Brazier}
+{230301}{}{This putrid oil brazier is an effective light source. The fumes can't help but burn your eyes and nostrils.}
+{230400}{}{Tires}
+{230401}{}{Old rubber tires sitting in the middle of some weeds.}
+{230500}{}{stos opon}
+{230501}{}{Stos prastarych gumowych opon, stwardniałych i nawulkanizowanych z powodu gorąca.}
+{230600}{}{stos opon}
+{230601}{}{Stos prastarych gumowych opon, stwardniałych i nawulkanizowanych z powodu gorąca.}
+{230700}{}{Shattered Glass}
+{230701}{}{Scattered shards of broken glass.}
+{230800}{}{Rusting Vehicle}
+{230801}{}{The sands are slowly swallowing this lost vehicle.}
+{230900}{}{samochód}
+{230901}{}{Ten pojazd jest w strasznym stanie. Trudno ci sobie nawet wyobrazić sposób na doprowadzenie go do porządku.}
+{231000}{}{samochód}
+{231001}{}{Ta stara kupa złomu do niczego się już nie nadaje.}
+{231100}{}{samochód}
+{231101}{}{Oceniasz, że ten pojazd nigdy już nie będzie się poruszał o własnych siłach. Nigdy.}
+{231200}{}{samochód}
+{231201}{}{Nie ma żadnych szans na uruchomienie tego wraka.}
+{231300}{}{biurko}
+{231301}{}{Drewniane biurko.}
+{231400}{}{komoda}
+{231401}{}{Drewniana komoda.}
+{231500}{}{komoda}
+{231501}{}{Drewniana komoda.}
+{231600}{}{biurko}
+{231601}{}{Zwyczajne biurko. Kto widział jedno, widział je wszystkie.}
+{231700}{}{biurko}
+{231701}{}{Zwyczajne biurko.}
+{231800}{}{biurko}
+{231801}{}{Zwyczajne biurko.}
+{231900}{}{Books}
+{231901}{}{An assortment of books.}
+{232000}{}{Boxes and Sacks}
+{232001}{}{An assortment of boxes and sacks.}
+{232100}{}{Metal Parts}
+{232101}{}{An assortment of metal parts.}
+{232200}{}{Books}
+{232201}{}{An assortment of books.}
+{232300}{}{Boxes and Sacks}
+{232301}{}{An assortment of boxes and sacks.}
+{232400}{}{Metal Parts}
+{232401}{}{An assortment of metal parts.}
+{232500}{}{beczka}
+{232501}{}{A barrel of smelly meaty bits.}
+{232600}{}{beczka}
+{232601}{}{A barrel of smelly meaty bits.}
+{232700}{}{beczka}
+{232701}{}{A barrel of smelly meaty bits.}
+{232800}{}{beczka}
+{232801}{}{A barrel of smelly meaty bits.}
+{232900}{}{Flies}
+{233000}{}{Flies}
+{233100}{}{otwór wentylacyjny}
+{233200}{}{otwór wentylacyjny}
+{233300}{}{otwór wentylacyjny}
+{233400}{}{otwór wentylacyjny}

@@ -642,21 +642,21 @@
 {64200}{}{Tejado}
 {64300}{}{Tejado}
 {64400}{}{Tejado}
-{64500}{}{Tejado}
-{64600}{}{Tejado}
-{64700}{}{Tejado}
-{64800}{}{Tejado}
-{64900}{}{Tejado}
-{65000}{}{Tejado}
-{65100}{}{Tejado}
-{65200}{}{Tejado}
-{65300}{}{Tejado}
-{65400}{}{Tejado}
-{65500}{}{Tejado}
-{65600}{}{Tejado}
-{65700}{}{Tejado}
-{65800}{}{Tejado}
-{65900}{}{Tejado}
+{64500}{}{}
+{64600}{}{}
+{64700}{}{}
+{64800}{}{}
+{64900}{}{}
+{65000}{}{}
+{65100}{}{}
+{65200}{}{}
+{65300}{}{}
+{65400}{}{}
+{65500}{}{}
+{65600}{}{}
+{65700}{}{}
+{65800}{}{}
+{65900}{}{}
 {66000}{}{Tejado}
 {66100}{}{Suelo}
 {66200}{}{Tejado}
@@ -811,7 +811,83 @@
 {105400}{}{Lodo}
 {150400}{}{}
 {162300}{}{Scotty}
-{310300}{}{Baldosa de suelo}
+{242300}{}{Suelo}
+{242400}{}{Suelo}
+{242500}{}{Suelo}
+{242600}{}{Suelo}
+{242700}{}{Suelo}
+{242800}{}{Suelo}
+{242900}{}{Suelo}
+{243000}{}{Suelo}
+{243100}{}{Suelo}
+{243200}{}{Suelo}
+{243300}{}{Suelo}
+{243400}{}{Suelo}
+{243500}{}{Suelo}
+{243600}{}{Suelo}
+{243700}{}{Suelo}
+{243800}{}{Suelo}
+{243900}{}{Suelo}
+{244000}{}{Suelo}
+{244100}{}{Suelo}
+{244200}{}{Suelo}
+{244300}{}{Suelo}
+{244400}{}{Suelo}
+{244500}{}{Suelo}
+{244600}{}{Suelo}
+{244700}{}{Suelo}
+{244800}{}{Suelo}
+{244900}{}{Suelo}
+{245000}{}{Suelo}
+{245100}{}{Suelo}
+{245200}{}{Suelo}
+{245300}{}{Suelo}
+{245400}{}{Suelo}
+{245500}{}{End of Group}
+{245600}{}{Tejado}
+{245700}{}{Tejado}
+{245800}{}{Tejado}
+{245900}{}{Tejado}
+{246000}{}{Tejado}
+{246100}{}{Tejado}
+{246200}{}{Tejado}
+{246300}{}{Tejado}
+{246400}{}{Tejado}
+{246500}{}{Tejado}
+{246600}{}{Tejado}
+{246700}{}{Tejado}
+{246800}{}{Tejado}
+{246900}{}{Tejado}
+{247000}{}{Tejado}
+{247100}{}{Tejado}
+{247200}{}{Tejado}
+{247300}{}{Tejado}
+{247400}{}{Tejado}
+{247500}{}{Tejado}
+{247600}{}{Tejado}
+{247700}{}{Tejado}
+{247800}{}{Tejado}
+{247900}{}{Tejado}
+{248000}{}{Tejado}
+{248100}{}{Tejado}
+{248200}{}{End of Group}
+{249100}{}{End of Group}
+{250400}{}{End of Group}
+{250500}{}{Suelo de madera}
+{250600}{}{Suelo de madera}
+{250700}{}{Suelo de madera}
+{250800}{}{Suelo de madera}
+{250900}{}{Suelo de madera}
+{251000}{}{Suelo de madera}
+{251100}{}{Suelo de madera}
+{251200}{}{Suelo de madera}
+{251300}{}{Suelo de madera}
+{251400}{}{Suelo de madera}
+{251500}{}{Suelo de madera}
+{251600}{}{End of Group}
+{310300}{}{}
+{313100}{}{End of Group}
+{318200}{}{End of Group}
 {369100}{}{Tejado}
 {369200}{}{Tejado}
 {369300}{}{Tejado}
@@ -878,35 +954,35 @@
 {376200}{}{Tejado}
 {376300}{}{Tejado}
 {376400}{}{Tejado}
-{379100}{}{Techo De Tuberías}
-{379200}{}{Techo De Tuberías}
-{379300}{}{Techo De Tuberías}
-{379400}{}{Techo De Tuberías}
-{379500}{}{Techo De Tuberías}
-{379600}{}{Techo De Tuberías}
-{379700}{}{Techo De Tuberías}
-{379800}{}{Techo De Tuberías}
-{379900}{}{Techo De Tuberías}
-{380000}{}{Techo De Tuberías}
-{380100}{}{Techo De Tuberías}
-{380200}{}{Techo De Tuberías}
-{380300}{}{Techo De Tuberías}
-{380400}{}{Techo De Tuberías}
-{380500}{}{Techo De Tuberías}
-{380600}{}{Techo De Tuberías}
-{380700}{}{Techo De Tuberías}
-{380800}{}{Techo De Tuberías}
-{380900}{}{Techo De Tuberías}
-{381000}{}{Techo De Tuberías}
-{381100}{}{Techo De Tuberías}
-{381200}{}{Techo De Tuberías}
-{381300}{}{Techo De Tuberías}
-{381400}{}{Techo De Tuberías}
-{381500}{}{Techo De Tuberías}
-{381600}{}{Techo De Tuberías}
-{381700}{}{Techo De Tuberías}
-{381800}{}{Techo De Tuberías}
-{381900}{}{Techo De Tuberías}
+{379100}{}{}
+{379200}{}{}
+{379300}{}{}
+{379400}{}{}
+{379500}{}{}
+{379600}{}{}
+{379700}{}{}
+{379800}{}{}
+{379900}{}{}
+{380000}{}{}
+{380100}{}{}
+{380200}{}{}
+{380300}{}{}
+{380400}{}{}
+{380500}{}{}
+{380600}{}{}
+{380700}{}{}
+{380800}{}{}
+{380900}{}{}
+{381000}{}{}
+{381100}{}{}
+{381200}{}{}
+{381300}{}{}
+{381400}{}{}
+{381500}{}{}
+{381600}{}{}
+{381700}{}{}
+{381800}{}{}
+{381900}{}{}
 {385900}{}{Tejado}
 {386000}{}{Tejado}
 {386100}{}{Tejado}

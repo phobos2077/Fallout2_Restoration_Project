@@ -282,14 +282,14 @@
 {14501}{}{Velká díra vypálená skrz dveře.}
 {14600}{}{Díra}
 {14601}{}{Velká díra vypálená skrz dveře.}
-{14700}{}{Neprůstřelné sklo}
-{14701}{}{Absolutně nezničitelné sklo. Ani to nezkoušej.}
-{14800}{}{Neprůstřelné sklo}
-{14801}{}{Absolutně nezničitelné sklo. Ani to nezkoušej.}
-{14900}{}{Neprůstřelné sklo}
-{14901}{}{Absolutně nezničitelné sklo. Ani to nezkoušej.}
-{15000}{}{Neprůstřelné sklo}
-{15001}{}{Absolutně nezničitelné sklo. Ani to nezkoušej.}
+{14700}{}{Supposedly Bullet Proof Glass}
+{14701}{}{Supposedly unbreakable glass. Don't even try!}
+{14800}{}{Supposedly Bullet Proof Glass}
+{14801}{}{Supposedly unbreakable glass. Don't even try!}
+{14900}{}{Supposedly Bullet Proof Glass}
+{14901}{}{Supposedly unbreakable glass. Don't even try!}
+{15000}{}{Supposedly Bullet Proof Glass}
+{15001}{}{Supposedly unbreakable glass. Don't even try!}
 {15100}{}{Dveře}
 {15101}{}{Tyto dveře jsou příkladem vyspělé konstrukční technologie. Skládají se ze tří pohybujících se kovových segmentů, které tvoří samotné dveře.}
 {15200}{}{Dveře}
@@ -2630,9 +2630,12 @@
 {171800}{}{Stěna}
 {171900}{}{Vzduchová ventilace}
 {172000}{}{Vzduchová ventilace}
-{172100}{}{Neprůstřelné sklo}
-{172200}{}{Neprůstřelné sklo}
-{172300}{}{Neprůstřelné sklo}
+{172100}{}{Supposedly Bullet Proof Glass}
+{172101}{}{Supposedly unbreakable glass. Don't even try!}
+{172200}{}{Supposedly Bullet Proof Glass}
+{172201}{}{Supposedly unbreakable glass. Don't even try!}
+{172300}{}{Supposedly Bullet Proof Glass}
+{172301}{}{Supposedly unbreakable glass. Don't even try!}
 {172400}{}{Těžká laserová věž}
 {172401}{}{Věž se výhružně otáčí.}
 {172500}{}{Těžká laserová věž}
@@ -3470,3 +3473,63 @@
 {229901}{}{Mrtvé tělo obrostlé rostlinným porostem.}
 {230000}{}{Podivně vypadající tvor}
 {230001}{}{Mrtvé tělo obrostlé rostlinným porostem.}
+{230100}{}{Kouř}
+{230200}{}{Kouř}
+{230300}{}{Flaming Brazier}
+{230301}{}{This putrid oil brazier is an effective light source. The fumes can't help but burn your eyes and nostrils.}
+{230400}{}{Tires}
+{230401}{}{Old rubber tires sitting in the middle of some weeds.}
+{230500}{}{Hromada pneumatik}
+{230501}{}{Hromada starých gumových pneumatik. Jsou vulkanizované a ztvrdlé, pravděpodobně působením horka.}
+{230600}{}{Hromada pneumatik}
+{230601}{}{Hromada starých gumových pneumatik. Jsou vulkanizované a ztvrdlé, pravděpodobně působením horka.}
+{230700}{}{Shattered Glass}
+{230701}{}{Scattered shards of broken glass.}
+{230800}{}{Rusting Vehicle}
+{230801}{}{The sands are slowly swallowing this lost vehicle.}
+{230900}{}{Auto}
+{230901}{}{Tento automobil je v naprosto příšerném stavu. Nemáš nejmenší tušení, jak by se dal opravit.}
+{231000}{}{Auto}
+{231001}{}{Tento zrezivělý kus šrotu už asi opravit nepůjde.}
+{231100}{}{Auto}
+{231101}{}{Docházíš k závěru, že tento vůz už nebude nikdy jezdit. Opravdu.}
+{231200}{}{Auto}
+{231201}{}{Tento kus šrotu už nebude v žádném případě jezdit.}
+{231300}{}{Stůl}
+{231301}{}{Dřevěný stůl.}
+{231400}{}{Prádelník}
+{231401}{}{Dřevěný prádelník.}
+{231500}{}{Prádelník}
+{231501}{}{Dřevěný prádelník.}
+{231600}{}{Stůl}
+{231601}{}{Obyčejný stůl. Viděl-li jsi jeden, viděl jsi je všechny.}
+{231700}{}{Stůl}
+{231701}{}{Obyčejný stůl.}
+{231800}{}{Stůl}
+{231801}{}{Obyčejný stůl.}
+{231900}{}{Books}
+{231901}{}{An assortment of books.}
+{232000}{}{Boxes and Sacks}
+{232001}{}{An assortment of boxes and sacks.}
+{232100}{}{Metal Parts}
+{232101}{}{An assortment of metal parts.}
+{232200}{}{Books}
+{232201}{}{An assortment of books.}
+{232300}{}{Boxes and Sacks}
+{232301}{}{An assortment of boxes and sacks.}
+{232400}{}{Metal Parts}
+{232401}{}{An assortment of metal parts.}
+{232500}{}{Sud}
+{232501}{}{A barrel of smelly meaty bits.}
+{232600}{}{Sud}
+{232601}{}{A barrel of smelly meaty bits.}
+{232700}{}{Sud}
+{232701}{}{A barrel of smelly meaty bits.}
+{232800}{}{Sud}
+{232801}{}{A barrel of smelly meaty bits.}
+{232900}{}{Flies}
+{233000}{}{Flies}
+{233100}{}{Větrací otvor}
+{233200}{}{Větrací otvor}
+{233300}{}{Větrací otvor}
+{233400}{}{Větrací otvor}
