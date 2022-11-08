@@ -9,10 +9,10 @@
 {108}{}{Maks. PA}
 {109}{}{Klasa pancerza}
 {110}{}{Obrażenia bez broni}
-{111}{}{Obr. w walce wręcz}
+{111}{}{Obr. wal. wręcz}
 {112}{}{Udźwig}
 {113}{}{Inicjatywa}
-{114}{}{Tempo zdrowienia}
+{114}{}{Tempo zdr.}
 {115}{}{Szansa na trafienie krytyczne}
 {116}{}{Człowiek-demolka}
 {117}{}{Próg uszkodzeń}
@@ -81,7 +81,7 @@
 {305}{}{Średnio}
 {306}{}{Dobrze}
 {307}{}{B.dobrze}
-{308}{}{Świetnie}
+{308}{}{Świet.}
 {309}{}{Idealnie}
 {310}{}{Epicko}
 {400}{}{Niewykorzystane punkty umiejętności}

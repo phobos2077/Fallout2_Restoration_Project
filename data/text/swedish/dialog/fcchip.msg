@@ -34,7 +34,7 @@
 {133}{}{Information? I'm in pain and you want information?}
 {134}{}{What's the matter with you?}
 {135}{}{You're in pain? Ha ha ha.}
-{136}{}{Forget it.}
+{136}{}{Glöm det.}
 {137}{}{Have you found my spleen yet?}
 {138}{}{Yes. Dr. Wong Yi Tze has it, and he'll give it back to you. Go talk to him about it.}
 {139}{}{Yes. Go check out Dr. Wong's corpse.}

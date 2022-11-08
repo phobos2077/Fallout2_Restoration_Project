@@ -11,7 +11,7 @@
 {107}{}{Very well.}
 {108}{}{Ask me the questions, bridge keeper. I'm not afraid.}
 {109}{}{Maybe I'll just come back later.}
-{110}{}{What is your name?}
+{110}{}{Vad heter du?}
 {111}{}{Hhhh....Eye... Jay... Kay... Lell...}
 {112}{}{?}
 {113}{}{Me}

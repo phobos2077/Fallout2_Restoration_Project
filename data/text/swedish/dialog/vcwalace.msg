@@ -52,7 +52,7 @@
 {151}{}{Look, it was all a misunderstanding.}
 {152}{}{Well, I just don't have it on me. Can't you issue me another one?}
 {153}{}{Nevermind then.}
-{154}{}{Forget it.}
+{154}{}{Glöm det.}
 {155}{}{I can. But there is a $50 fee for every Day Pass I issue past the first.}
 {156}{}{All right. Here's the money.}
 {157}{}{Never mind. I don't need it that badly.}

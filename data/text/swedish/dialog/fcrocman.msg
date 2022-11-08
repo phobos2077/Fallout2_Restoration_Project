@@ -61,7 +61,7 @@
 {194}{}{No one has been able to get plans for the vertibirds from the Shi, or from that old base in Navarro. Have you reconsidered helping us?}
 {195}{}{Remember, recruit! The hated Shi have the plans.}
 {196}{}{I have the plans for the vertibird.}
-{197}{}{Forget it.}
+{197}{}{Glöm det.}
 {198}{}{Ok, I'll do it.}
 {199}{}{Now you know what we need? Gas. A lot of it. The Shi have some. See if you can get it.}
 {200}{}{Remember, you were getting us gas for our great spaceship.}

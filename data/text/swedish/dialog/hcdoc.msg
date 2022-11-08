@@ -14,10 +14,10 @@
 {112}{}{Forget it. Sorry.}
 {113}{}{Let me take a look at that. I can heal you, but it'll cost.}
 {114}{}{How much?}
-{115}{}{Forget it.}
+{115}{}{Glöm det.}
 {116}{}{Yes, I can heal this... ::wheeze:: for a price.}
 {117}{}{How much?}
-{118}{}{Forget it.}
+{118}{}{Glöm det.}
 {119}{}{What do I do here? You're in a hospital. I'm wearing a doctor's coat. I'm covered with blood.
  There are sharp, pointy things lying all around. Either I'm a successful killer or a fair doctor. Take your pick.}
 {120}{}{I guess I can call you a doctor.}
@@ -33,38 +33,38 @@
 {128}{}{I changed my mind. I'd rather ask other questions.}
 {129}{}{That'll cost you $50.}
 {130}{}{I'll pay.}
-{131}{}{Forget it.}
+{131}{}{Glöm det.}
 {132}{}{For wounds like that, you'll be losing $100.}
 {133}{}{I'll pay.}
-{134}{}{Forget it.}
+{134}{}{Glöm det.}
 {135}{}{That looks like it must have hurt. Going to hurt your wallet, too... $150.}
 {136}{}{I'll pay.}
-{137}{}{Forget it.}
+{137}{}{Glöm det.}
 {138}{}{Ouch! You're going to need some serious patching. $200.}
 {139}{}{I'll pay.}
-{140}{}{Forget it.}
+{140}{}{Glöm det.}
 {141}{}{Whew... friend, this is going to hurt you a lot. $300 and you're good as new.}
 {142}{}{I'll pay.}
-{143}{}{Forget it.}
+{143}{}{Glöm det.}
 {144}{}{He should be okay after a little help from me... ::wheeze:: to the tune of $50.}
 {145}{}{I'll pay.}
-{146}{}{Forget it.}
+{146}{}{Glöm det.}
 {147}{}{You been seeing some action? I remember back when I was a little spitfire. Got plenty of holes
  in me, too. This misadventure will cost you $100.}
 {148}{}{I'll pay.}
-{149}{}{Forget it.}
+{149}{}{Glöm det.}
 {150}{}{Kid, do you take care of your friends? ::cough:: If you're going to take care of this friend,
  you'll need to pay $150.}
 {151}{}{I'll pay.}
-{152}{}{Forget it.}
+{152}{}{Glöm det.}
 {153}{}{You must be pretty good to inspire loyalty like this from your friends. I hope you're good...
 because this is going to cost ::cough:: $200.}
 {154}{}{I'll pay.}
-{155}{}{Forget it.}
+{155}{}{Glöm det.}
 {156}{}{Ouch! I'll need to put a cast on that or something. For my extensive medical knowledge, you'll
  be parting with $300.}
 {157}{}{I'll pay.}
-{158}{}{Forget it.}
+{158}{}{Glöm det.}
 {159}{}{Friend, you don't have that kind of money. I can sell you some stimpacks if you like, but with
  the healing you're looking for, you can't afford what I can afford to give you.}
 {160}{}{Give me the stimpacks.}

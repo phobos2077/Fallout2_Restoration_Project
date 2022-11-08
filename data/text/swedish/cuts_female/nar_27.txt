@@ -1,2 +1,2 @@
-1:The mutants are slowed, but not stopped, by the brave defenders of Junktown.
-2:When the army finishes their brutal siege, nothing of Junktown remains.
+1:Mutanterna saktas ner, men stoppas inte, av Junktowns modiga försvarare.
+2:När armén avslutar sin brutala belägring finns ingenting kvar av Junktown.

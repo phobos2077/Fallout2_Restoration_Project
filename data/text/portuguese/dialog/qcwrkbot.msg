@@ -1,6 +1,6 @@
 {100}{}{Você vê um robô Mr. Handy.}
-{101}{}{This robot appears to have been designed to carry heavy supplies and equipment around.}
+{101}{}{Este robô parece ter sido projetado para transportar suprimentos e equipamentos pesados.}
 {200}{}{Beep.}
 {201}{}{*Click*}
 {202}{}{*Beeboop*}
-{203}{}{Proceed through work area with caution.}
+{203}{}{Prossiga pela área de trabalho com cuidado.}

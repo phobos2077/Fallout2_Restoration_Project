@@ -12,10 +12,10 @@
 {111}{}{Hej då.}
 {112}{}{Let me take a look at that. Hmm. Yes. I'll have to charge you, of course.}
 {113}{}{How much?}
-{114}{}{Forget it.}
+{114}{}{Glöm det.}
 {115}{}{I can heal... but for a price, you understand.}
 {116}{}{How much?}
-{117}{}{Forget it.}
+{117}{}{Glöm det.}
 {118}{}{Who am I? I am Dr. Fung. I teach and I heal.}
 {119}{}{Dr. Fung? Do you know Doc Holliday?}
 {120}{}{Pleased to meet you. I need healing.}
@@ -28,19 +28,19 @@
 {127}{}{Probably. I have to go. Bye.}
 {128}{}{That'll cost you $100.}
 {129}{}{I'll pay.}
-{130}{}{Forget it.}
+{130}{}{Glöm det.}
 {131}{}{This appears serious. That will cost $200.}
 {132}{}{I'll pay.}
-{133}{}{Forget it.}
+{133}{}{Glöm det.}
 {134}{}{Those are impressive wounds. $300 is all it takes to procure my services.}
 {135}{}{I'll pay.}
-{136}{}{Forget it.}
+{136}{}{Glöm det.}
 {137}{}{For this much damage, I'm afraid that I will have to demand $400.}
 {138}{}{I'll pay.}
-{139}{}{Forget it.}
+{139}{}{Glöm det.}
 {140}{}{Sit down. You'll need to when you hear my bill. Crippled limbs cost $600.}
 {141}{}{I'll pay.}
-{142}{}{Forget it.}
+{142}{}{Glöm det.}
 {158}{}{What? You do not have the money? How do you expect me to survive if you ask me for free healing?}
 {159}{}{Do you have stimpacks?}
 {160}{}{No thanks.}

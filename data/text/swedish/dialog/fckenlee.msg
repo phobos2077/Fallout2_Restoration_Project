@@ -32,7 +32,7 @@
 {131}{}{Oh. Right. I'm}
 {132}{}{Sure. My name is}
 {133}{}{Ja.}
-{134}{}{Forget it.}
+{134}{}{Glöm det.}
 {135}{}{Not everyone is granted a chance to see the Emperor. You must first prove your worth. Are you willing to prove yours?}
 {136}{}{Ja.}
 {137}{}{No. I've had enough tests in the last several months to last me a lifetime.}
@@ -61,7 +61,7 @@
 {160}{}{That's my real name! Now let me talk to the Emperor!}
 {161}{}{Excellent. This is what I require of you: there is a small military base north of here, called Navarro. There are numerous vertibirds there. We need plans and blueprints to manufacture some of our own. Fetch those and you will be on your way to seeing the Emperor.}
 {162}{}{Ska ske.}
-{163}{}{Forget it.}
+{163}{}{Glöm det.}
 {164}{}{Will you reconsider taking our test?}
 {165}{}{Nepp.}
 {166}{}{Oh, all right. I'll do it.}

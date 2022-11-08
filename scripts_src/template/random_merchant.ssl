@@ -121,7 +121,11 @@ end
    written by designers are placed in here. Additionally, Reactions are generated and
    stored which affects player interactions. */
 procedure talk_p_proc begin
-   Evil_Critter:=0;
+   #if CITY_START >= 0
+      Evil_Critter = 0;
+   #else
+      Evil_Critter = 1;
+   #endif
    Slavery_Tolerant:=SLAVE_TOLERANT;
    Karma_Perception:=KARMA_PERCEPTION1;
 

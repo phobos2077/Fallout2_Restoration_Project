@@ -1,4 +1,4 @@
-{100}{}{You see a security robot.}
-{101}{}{You see a heavily armed security robot.}
-{102}{}{It looks like one of these is more than enough to waste a squad.}
-{103}{}{It does not respond to you.}
+{100}{}{Você vê um robô de segurança.}
+{101}{}{Você vê um robô de segurança fortemente armado.}
+{102}{}{Parece que um desses é mais do que suficiente para desperdiçar um esquadrão.}
+{103}{}{Ele não te responde.}

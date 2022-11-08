@@ -13,6 +13,6 @@
 {112}{}{Do those Secret Service agents always have to hover like that?}
 {113}{}{Come back later. I'm gonna be busy in a minute here.}
 {114}{}{I don't think I'll wash this dress - it might come in handy.}
-{115}{}{The President says I kiss the best.}
-{116}{}{You're not taping me, are you?}
-{117}{}{Where are my kneepads? Heh, heh, just kidding.}
+{115}{}{O presidente diz que meu beijo é o melhor.}
+{116}{}{Você não está me gravando, está?}
+{117}{}{Onde estão minhas joelheiras? Heh, heh, apenas brincando.}

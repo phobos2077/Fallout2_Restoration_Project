@@ -9,8 +9,8 @@
 {108}{}{Krwawa jatka}
 {109}{}{Fatum}
 {110}{}{Dobrotliwość}
-{111}{}{Zależność od Narkotyków}
-{112}{}{Odporność na Narkotyki}
+{111}{}{Zal. od Narkot.}
+{112}{}{Odp. na Narkot.}
 {113}{}{Seksapil}
 {114}{}{Kujon}
 {115}{}{Zdolniacha}

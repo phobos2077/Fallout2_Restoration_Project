@@ -8,7 +8,7 @@
 {107}{}{Who are you?}
 {108}{}{I want to learn to fight like you. Teach me.}
 {109}{}{I wish to challenge you.}
-{110}{}{Forget it.}
+{110}{}{Glöm det.}
 {111}{}{Get out of here, idiot. I don't have anything to say to you.}
 {112}{}{GRR!}
 {113}{}{I'm Lo Pan. I'm the best fighter in town, except for the Dragon. And one day, he's a dead man. When that happens, I'll teach others my style.}

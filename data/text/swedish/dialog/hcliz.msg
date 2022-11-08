@@ -6,7 +6,7 @@
 {104}{}{Now what?}
 {105}{}{Nggg! Nnnnnng!}
 {106}{}{Me nget ssssstUFF!}
-{107}{}{I'd like to buy something.}
+{107}{}{Jag skulle vilja köpa något.}
 {108}{}{What can you tell me about this town?}
 {109}{}{I want to kill something. What's around?}
 {110}{}{What's up with the guns in your basement?}

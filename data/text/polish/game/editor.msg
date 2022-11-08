@@ -1,4 +1,4 @@
-{100}{}{GOTOWE}
+{100}{}{OK}
 {101}{}{OPCJE}
 {102}{}{Anuluj}
 {103}{}{PLIK TXT}
@@ -67,20 +67,20 @@
 {204}{}{Średn.}
 {205}{}{Dobrze}
 {206}{}{B.dob.}
-{207}{}{Świetnie}
+{207}{}{Świet.}
 {208}{}{Ideal.}
 {209}{}{Epicko}
-{300}{editor}{Punkty wytrzym.}
+{300}{editor}{PW}
 {301}{}{Punkty akcji}
 {302}{editor}{Klasa pancerza}
 {303}{}{Obrażenia bez broni}
-{304}{}{Obr. w walce wręcz}
+{304}{}{Obr. wal. wręcz}
 {305}{}{Odp. na obr.}
 {306}{}{Odp. na truc.}
 {307}{}{Odp. na prom.}
 {308}{editor}{Inicjatywa}
-{309}{editor}{Tempo zdrowienia}
-{310}{editor}{Szansa na trafienie krytyczne}
+{309}{editor}{Tempo zdr.}
+{310}{editor}{Sz. na kryt.}
 {311}{editor}{Udźwig}
 {312}{}{Zatrucie}
 {313}{}{Napromieniowanie}
@@ -112,7 +112,7 @@
 {601}{}{WCZYTAJ}
 {602}{}{DO PLIKU TXT}
 {603}{}{USUŃ}
-{604}{}{GOTOWE}
+{604}{}{OK}
 {605}{}{Czy na pewno chcesz usunąć}
 {606}{}{bieżącą postać?}
 {607}{}{ - zapis bezbłędny.}

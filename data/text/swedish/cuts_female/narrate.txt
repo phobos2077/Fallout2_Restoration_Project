@@ -1,31 +1,31 @@
 1:Krig.
-2:War never changes.
+2:Krig förändras aldrig.
 3:Världens undergång inträffade i stort sett som vi hade förutsett.
 4:För många människor, för lite utrymme och för lite resurser.
 5:Detaljerna är triviala och meningslösa, orsakerna är som alltid rent mänskliga.
-6:In 2077, the earth was nearly wiped clean of human life.
+6:År 2077 var jorden nästan helt rensad från mänskligt liv.
 7:En stor utrensning, en atomisk gnista som slogs av människohänder, rasade snabbt ur kontroll.
 8:Spjut av kärnvapeneld regnade från himlen.
 9:Kontinenter slukades av lågor och sjönk under de kokande haven.
-10:Humanity was almost extinguished, their spirits becoming part of the background radiation that blanketed the earth.
+10:Mänskligheten var nästan utplånad, deras andar blev en del av bakgrundsstrålningen som täckte jorden.
 11:Ett tyst mörker föll över planeten och varade i många år.
 12:Få överlevde förödelsen.
 13:Vissa var tursamma nog att komma i säkerhet och tog skydd i stora underjordiska valv.
-14:When the great darkness passed, these vaults opened, and their inhabitants emerged to begin their lives again.
+14:När det stora mörkret försvann öppnades dessa valv och invånarna kom ut för att påbörja sina liv igen.
 15:En av de nordliga stammarna hävdar att de härstammar från et sådant Valv.
 16:They hold that their founder and ancestor, one known the "Vault Dweller," once saved the world from a great evil.
 17:Enligt legenden uppstod denna ondska i det sydligaste området.
 18:Den fördärvade allt den rörde vid, förvrängde människorna inombords och förvandlade dem till odjur.
 19:Det var endast tack vare denna Valvinvånares mod som ondskan förstördes.
-20:But in so doing, he lost many of his friends and suffered greatly, sacrificing much of himself to save the world.
+20:Men på så sätt förlorade han många av sina vänner och led mycket, och offrade mycket av sig själv för att rädda världen.
 21:När han äntligen återvände till det hem han kämpat så hårt för att skydda blev han utkastad.
 22:I exil.
-23:In confronting that which they feared, he had become something else in their eyes... and no longer their champion.
+23:Genom att konfrontera det som de fruktade hade han blivit något annat i deras ögon... och inte längre deras kämpe.
 24:Övergiven av sitt folk gick han ut i ödemarken.
 25:Han reste långt norrut tills han kom till de stora ravinerna.
 26:Där grundade han en liten by, Arroyo, där han levde resten av sitt liv.
-27:And so, for a generation since its founding, Arroyo has lived in peace, its canyons sheltering it from the outside world.
+27:Och så, i en generation sedan dess grundande, har Arroyo levt i fred, dess dalar skyddar den från omvärlden.
 28:Det är ett hem. Ditt hem.
-29:But in the world outside, the scars left by the war have not yet healed.
-30:The wounds run deep, and now they are being felt in Arroyo.
-31:Life in Arroyo is about to change...
+29:Men i världen utanför har de ärr som kriget lämnat efter sig ännu inte läkt.
+30:Såren är djupa, och nu känns de i Arroyo.
+31:Livet i Arroyo är på väg att förändras...

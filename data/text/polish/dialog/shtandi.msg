@@ -212,7 +212,7 @@
 {311}{tand46}{Pewnie sprzedajesz też piasek na pustyni, co? Dobrze, zobacz się z Guntherem. On już z tobą ustali resztę.}
 {312}{}{Dziękuję.}
 {313}{tand47}{Chłopcy, wynieście tę kupę bramińskiego łajna z mojego biura! Czas się stąd wynosić, przybyszu.}
-{314}{}{GOTOWE}
+{314}{}{OK}
 {315}{tand14b}{Mój ojciec i Seth przez lata próbowali odnaleźć Kryptę 13. Umarli szukając - zawsze mówili, że jest gdzieś na zachód stąd. Gdyby ktoś odnalazł Kryptę 13, to by nas nawet lepiej ustawiło niż 15.}
 {316}{}{O tym musisz porozmawiać z moim asystentem, Guntherem.}
 {400}{}{Squatters chcieć umowa. Ty uczyć, ty pomagać, oni dają tobie Krypta.}
