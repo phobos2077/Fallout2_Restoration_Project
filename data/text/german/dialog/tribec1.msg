@@ -104,10 +104,9 @@
  Wunder bewirken würde. Ich würde es hassen, so einen süßen Schatz wie dich, mit irgendwem zu teilen. Nein, ich habe
  eine weitaus profane Aufgabe für dich, wenn du magst.}
 {331}{}{Es kommt darauf an. Was möchtest du denn, was ich tun soll?}
-{340}{}{[Er schaut an Dir vorbei, um scheinbar etwas für einen Moment zu überdenken.] Ich bin bald verabredet mit
- einem von diesen so verdammt zivilisierten Händlern — ein dicklicher einäugiger Hund von einem Mann, dem ich in etwa
- so viel vertraue, wie einem hungerndem Radskorpion. Er hat uns bis jetzt noch nicht betrogen, aber ich habe so ein
- Gefühl, was unser nächstes Treffen anbelangt.}
+{340}{}{[He looks you over, seeming to consider something for a moment.] I'm to meet with one of them damned civilized
+ traders soon -- a pudgy one-eyed dog of a man, who I trust about as much as a starving radscorpion. He's not wronged us
+ yet, but I've got a feeling about our next meeting.}
 {341}{}{Warum das denn?}
 {342}{}{Ich verstehe nicht, was ich da machen soll. Worauf willst du hinaus?}
 {350}{}{Als wir letztes Mal miteinander sprachen, prahlte er, er würde mir etwas wirklich wundervolles bringen. Und es

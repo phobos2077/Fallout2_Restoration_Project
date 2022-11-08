@@ -59,7 +59,9 @@
 {323}{}{Chceš, abych ošukala i zbytek kmene? Kdo si myslíš, že jsem?}
 {330}{}{(Krom vyprskne smíchy.) Bože to ne, holka! Sice by to asi udělalo s morálkou mých válečníků divy, ale nerad bych se dělil o takový poklad, jako jseš ty. Ne, mám pro tebe mnohem důležitější úkol, pokud máš zájem.}
 {331}{}{Záleží na tom, o co jde. Co chceš, abych udělala?}
-{340}{}{(Pozorně si tě prohlédne, jako by na moment nad něčím uvažoval.) Mám se brzy setkat s jedním z těch zatracených civilizovaných obchodníků. Je to zavalitý jednooký psanec, kterému věřím asi tak jako hladovějícímu radškorpionovi. Zatím nás sice nepodrazil, ale mám pocit, že se něco stane na našem dalším setkání.}
+{340}{}{[He looks you over, seeming to consider something for a moment.] I'm to meet with one of them damned civilized
+ traders soon -- a pudgy one-eyed dog of a man, who I trust about as much as a starving radscorpion. He's not wronged us
+ yet, but I've got a feeling about our next meeting.}
 {341}{}{K čemu?}
 {342}{}{Nechápu, jak to souvisí se mnou. Kam tím směřuješ?}
 {350}{}{Když jsme spolu posledně mluvili, chlubil se, že mi přiveze něco opravdu zázračného a že bych měl přinést všechny kůže zlatého geckona, které unesu. Nevím, co je to za zázračnou věc, ale nejspíš je to nějaká civilizovaná cetka, za kterou budu ochotný nevědomě zaplatit víc, než jakou má doopravdy cenu. A proto bude nejlepší, když se o ten obchod postaráš ty.}

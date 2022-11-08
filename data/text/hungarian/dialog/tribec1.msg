@@ -91,7 +91,7 @@
  hate to share honey as sweet as you. No, I have a far more mundane task for you, if you're willing.}
 {331}{}{That depends. What would you need me to do?}
 {340}{}{[He looks you over, seeming to consider something for a moment.] I'm to meet with one of them damned civilized
- trader's soon -- a pudgy one-eyed dog of a man, who I trust about as much as a starving radscorpion. He's not wronged us
+ traders soon -- a pudgy one-eyed dog of a man, who I trust about as much as a starving radscorpion. He's not wronged us
  yet, but I've got a feeling about our next meeting.}
 {341}{}{Miért?}
 {342}{}{I don't see how I fit into this. What's your point?}

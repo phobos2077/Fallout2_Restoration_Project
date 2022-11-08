@@ -28,7 +28,7 @@
 {270}{}{Ya estás de vuelta. Descubriste algo sobre el espíritu perdido?}
 {271}{}{Estoy trabajando en ello. Voy a volver a usted.}
 {272}{}{Me habló--er, escuchó-el espíritu. Parece que fue traicionado y asesinado por su amante, alguien llamado Thorg.}
-{280}{}{Thorg?! Él era el chamán que me sirvió como un apercibir bajo. Wow, yo sabía que él era un poco de un idiota, pero no me tomes por un asesino de las niñas bonitas. Hmm, supongo que una conciencia culpable ayuda a explicar que los borrachos de la medianoche de natación que conducen a su muerte. Así Thorg es un asesino... ¿cómo 'bout que...}
+{280}{}{Thorg?! He was the shaman that I served as an apprentice under. Wow, I knew he was a bit of an asshole, but I didn't take him for a slayer of pretty young girls. Hmm, I suppose a guilty conscience helps to explain that drunken midnight swim that lead to his death. So Thorg is a murderer... how 'bout that...}
 {281}{}{¿Y ahora qué?}
 {290}{}{[Suspiro pesado.] Ahora supongo que tengo que enviar en la niebla. Creo que voy a ser capaz de hacerlo, pero necesito que vengas conmigo. Simplemente no hay manera de que yo sería capaz de enfrentarse a su solo y ninguno de los demás en el pueblo se van ... ellos creen que es un mal augurio para un no-chamán encuentro con un espíritu perdido.}
 {291}{}{Nah. Ya he hecho demasiado para usted. Estás en tu propio.}
