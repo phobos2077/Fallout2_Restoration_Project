@@ -7,19 +7,19 @@
 {160}{}{Você vê uma jovem com uma expressão rigida. Ela está tentando parecer durona.}
 {161}{}{Você vê uma das filhas de Wright. Ela está carregando algumas armas e parece um pouco jovem demais para saber o que fazer com elas.}
 {162}{}{Você vê uma das filhas de Wright. Ela ignora você, mas deixa a mão no coldre por precaução.}
-{163}{}{You see one of Wright's daughters. She looks meaner than a rattler.}
-{164}{}{You see one of Wright's daughters. She looks meaner than a rattler. For some reason, that excites you.}
+{163}{}{Você vê uma das filhas de Wright. Ela parece mais malvada do que uma serpente.}
+{164}{}{Você vê uma das filhas de Wright. Ela parece mais malvada do que uma serpente. Por alguma razão, isso te excita.}
 {200}{}{::Assobios::}
 {201}{}{::Palmas::}
 {202}{}{::Assobios::}
-{203}{}{(Sings.) "We don't need another hero, we don't need to know the way home..."}
+{203}{}{(Canta.) "Não precisamos de outro herói, não precisamos saber o caminho de casa..."}
 {204}{}{Ei! }
-{205}{}{Way to smash the Enclave, }
+{205}{}{Que maneira de esmagar a Enclave, }
 {206}{}{Você deve ter sido mais forte que Tommy Bengala para destruir a Enclave assim.}
-{207}{}{Those Enclave fellas sound like real bastards.}
-{208}{}{They were gonna dump some new VIRUS into the air? Bastards. Hope you shot a few for me.}
-{209}{}{I thought the President was a myth, a boogeyman used to scare children.}
-{210}{}{You look like you've been through hell and back. Relax for a while. You deserve it.}
+{207}{}{Esses caras da Enclave parecem uns verdadeiros desgraçados.}
+{208}{}{Eles iam jogar um novo VÍRUS no ar? Que merda. Espero que você tenha atirado em alguns para mim.}
+{209}{}{Achei que o presidente era um mito, um bicho papão usado para assustar as crianças.}
+{210}{}{Parece que você visitou o inferno e voltou. Relaxe um pouco, você merece isso.}
 {211}{}{You gonna replay the game as a different character? I recommend an Outdoorsman type.}
 {212}{}{F.E.V.? What's that?}
 {213}{}{New Reno was designed by Chris Avellone and scripted by Tom French. Tom plays in a band. Chris plays with himself.}
