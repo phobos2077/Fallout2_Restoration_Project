@@ -31,7 +31,7 @@
 {130}{}{That's it, I'm gonna take you out for that one.}
 {131}{}{Who the hell is this watching us?}
 {132}{}{Someone new. Hey, this is a private matter! Let's get 'em!}
-{133}{}{Fer once I agree with you. Get 'em!}
+{133}{}{Por uma vez eu concordo. Vamos lá!}
 {134}{}{You sure did yourself a job there. Put every damn miner in Redding behind bars.}
 {135}{}{You got some nerve, putting us away.}
 {136}{}{We was just having a bit of fun. Let us out.}

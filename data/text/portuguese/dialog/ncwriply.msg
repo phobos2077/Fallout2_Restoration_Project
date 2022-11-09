@@ -157,11 +157,11 @@
 {532}{}{Um helicóptero é... Acho o mais próximo que você está familiarizado é 'automóvel'. Um helicóptero é como um automóvel
  capaz de se erguer do chão e pairar usando lâminas rotativas verticais. O motor do helicóptero gira as pás tão rápido
  que o mantém no ar. Não é incrível?}
-{533}{}{Nevermind. Just don't go wandering around outside of town again. It could get you killed.}
-{540}{}{I'm NOT lying! We SAW it in the desert! (He glares at you sullenly.)}
-{541}{}{Hmmm. Maybe you ARE telling the truth. Can you show me where you saw it?}
-{542}{}{Okay, I believe you. Will you show me where you saw it?}
-{543}{}{Okay, okay. Nevermind. Go back to playing your game.}
+{533}{}{Não importa. Só não vá zanzar fora da cidade de novo. Isso pode te matar.}
+{540}{}{Eu NÃO estou mentindo! Nós o vimos no deserto! (Ele olha para você com cara de mau.)}
+{541}{}{Hmmm. Talvez você esteja dizendo a verdade. Pode me mostrar onde viu?}
+{542}{}{Ok, eu acredito em você. Você vai me mostrar onde você viu?}
+{543}{}{Está bem, está bem. Não importa. Volte para sua brincadeira.}
 {550}{}{I'm NOT lying! We SAW it in the desert! I can PROVE it! (Glares at you.) A bunch of us are going over when it gets a little darker. }
 {551}{}{I'm NOT lying! We SAW it in the desert! I can PROVE it! (Glares at you.) A bunch of us are going over there tonight. }
 {552}{}{Come along, and I'll show it to you. (Sneers.) If yer not SCARED.}

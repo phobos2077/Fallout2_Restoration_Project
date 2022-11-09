@@ -133,17 +133,17 @@
 {320}{}{Password correct. All entries but one have been removed from the system. Final entry in the Overseer's Logs is still accessible.}
 {321}{}{[After several long minutes of working your technical magic, you manage to hack your way into the Overseer's Logs. However, it seems that every entry except for the final one has been deleted.]}
 {322}{}{Alright, let's see what this Overseer had to say. [Read Log.] }
-{323}{}{Eh, whatever. [Logoff.]}
+{323}{}{Ah, tanto faz. [Encerrar.]}
 {330}{}{This is it. Consider these my final words, as I doubt I'll live to write another entry. Oh no, the people of the Vault have spoken, and they've made it quite clear that they want my head. I knew this day would come, ever since HE managed to rile them up by doing the impossible. Sure, he saved all our lives, but he also ruined everything.}
 {331}{}{[MAIS]}
 {332}{}{Let it be known that I took little joy in exiling our "great hero", but I had no choice in the matter. His adventures in the outside world had changed him too much. He was too great a threat to the project. Had I let him remain among us, he might have uncovered the true nature of the Vaults and jeopardized the experiment. Even if he didn't, he'd at least inspire others to venture outside, which would be just as bad.}
 {333}{}{[MAIS]}
-{334}{}{He simply had to go. There was no other option. But even that wasn't enough. No, I'm afraid the damage had already been done. I allowed his most stubborn supporters to follow him into exile, and then tried to reassert my control over those who remained. But it was no use -- I'd already been vilified. So be it. The only thing I'm guilty of is an entire lifetime of carrying out the demands of our Great Nation.}
+{334}{}{Ele simplesmente tinha que ir. Não havia outra opção. Mas mesmo isso não foi suficiente. Temo que o estrago já tenha sido feito. Permiti que seus partidários mais teimosos o seguissem para o exílio e depois tentei reafirmar meu controle sobre aqueles que permaneceram. Mas não adiantou - eu já tinha sido condenado. Que assim seja. A única coisa de que sou culpado é uma vida inteira de cumprir as exigências de nossa Grande Nação.}
 {335}{}{[MAIS]}
-{336}{}{My only regret is that Vault 13 is not likely to complete the social experiment. Once I've been disposed of, I feel certain the others will leave the Vault. Not right away, of course -- I've instilled too much fear in them of the outside world. But eventually, they're bound to overcome that fear. I have very little faith that Vault 13 will remained closed until 2277, as the experiment dictates.}
+{336}{}{Meu único arrependimento é que a Vault 13 provavelmente não concluirá o experimento social. Assim que eu for eliminado, tenho certeza de que os outros deixarão a Vault. Não imediatamente, é claro - eu os deixei com muito medo do mundo exterior. Mas, eventualmente, eles serão obrigados a superar esse medo. Tenho muito pouca fé de que a Vault 13 permanecerá fechado até 2277, como diz o experimento.}
 {337}{}{[MAIS]}
-{338}{}{I'm afraid I have failed my duty as Overseer. I can only hope that the rest of the public Vaults involved in the Societal Preservation Program have been more successful. To my superiors, who I'm certain will one day read this: forgive me. And may God bless America.}
-{339}{}{Search for any other files that contain information on "Societal Preservation Program".}
+{338}{}{Receio ter falhado no meu dever como Supervisor. Só posso esperar que o resto das Vaults envolvidas no Programa de Preservação Social tenham sido mais bem-sucedidos. Aos meus superiores, que tenho certeza que um dia lerão isto: perdoem-me. E que Deus abençoe a América.}
+{339}{}{Procure quaisquer outros arquivos que contenham informações sobre "Programa de Preservação Social".}
 {340}{}{Termine a sessão.}
 {350}{}{After hours of scouring through the computer's archives, you're unable to find anything else that mentions the Societal Preservation Program. As you give up your search, you vow never again to waste so much time staring at a computer monitor.}
 {351}{}{Termine a sessão.}

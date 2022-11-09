@@ -32,18 +32,18 @@
 {130}{}{That's it, I'm gonna take you out for that one.}
 {131}{}{Who the hell is this watching us?}
 {132}{}{Someone new. Hey, this is a private matter! Let's get 'em!}
-{133}{}{Fer once I agree with you. Get 'em!}
-{134}{}{Who's gonna mine the gold now, huh, asshole?}
-{135}{}{I could use a fucking vacation.}
-{136}{}{I gotta share this crappy jail with that jerk?}
-{137}{}{Caminetto, your fucking days are numbered.}
-{138}{}{Kiss your ass goodbye for this.}
-{139}{}{Get me the fucking hell out of here!}
-{140}{}{Hey, fuckwit, let me out of here!}
-{141}{}{Hey, Sheriff; I'll blow you if you let me out.}
-{142}{}{Next time I'll settle your fucking hash.}
-{143}{}{What the hell are you looking at?}
-{144}{}{What do you want, dipshit?}
+{133}{}{Por uma vez eu concordo. Vamos lá!}
+{134}{}{Quem vai minerar o ouro agora, hein, idiota?}
+{135}{}{Eu poderia usar uma merda de férias}
+{136}{}{Eu tenho que dividir essa porcaria de prisão com aquele babaca?}
+{137}{}{Caminetto, seus malditos dias estão contados.}
+{138}{}{Diga adeus à sua vida por isso.}
+{139}{}{Me tire desse inferno!}
+{140}{}{Ei, idiota, me deixe sair daqui!}
+{141}{}{Ei, xerife; você ta morto se eu sair daqui.}
+{142}{}{Da próxima vez vou arrancar suas tripas.}
+{143}{}{Ta olhando o que?}
+{144}{}{O que você quer, retardado?}
 {145}{}{Eu não vou deixar voces ficarem brigando.}
 {146}{}{Quero saber o que está acontecendo aqui.}
 {147}{}{Tem muita merda nesse bar e eu e meus mineiros da Morningstar vamos botar tudo pra rua. A maior merda
