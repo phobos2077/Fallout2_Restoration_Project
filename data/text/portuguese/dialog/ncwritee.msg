@@ -1,10 +1,10 @@
-{100}{}{You see one of Wright's sons.}
-{101}{}{You see one of Wright's daughters.}
-{150}{}{You see a young man with an angry expression. He's trying hard to look tough.}
-{151}{}{You see one of Wright's sons. He looks like he's packing a few weapons and looks a little too young to know what to be doing with them.}
-{152}{}{You see one of Wright's sons. He glares at you unsuccessfully.}
-{153}{}{You see one of Wright's sons. He looks like he'd rather be off doing something... anything... else.}
-{160}{}{You see a young woman with a stern expression. She's trying to look tough.}
+{100}{}{Você vê um dos filhos de Wright.}
+{101}{}{Você vê uma das filhas de Wright.}
+{150}{}{Você vê um jovem com uma expressão de raiva. Ele está se esforçando para parecer durão.}
+{151}{}{Você vê um dos filhos de Wright. Ele parece estar carregando algumas armas e parece um pouco jovem demais para saber o que fazer com elas.}
+{152}{}{Você vê um dos filhos de Wright. Ele olha para você sem prestar muita atenção.}
+{153}{}{Você vê um dos filhos de Wright. Parece que ele prefere estar fazendo alguma coisa... qualquer... outra coisa.}
+{160}{}{Você vê uma jovem com uma expressão rigida. Ela está tentando parecer durona.}
 {161}{}{You see one of Wright's daughters. She's packing a few weapons and looks a little too young to know what to be doing with them.}
 {162}{}{You see one of Wright's daughters. She ignores you, but drops her hand to her holster meaningfully.}
 {163}{}{You see one of Wright's daughters. She looks meaner than a rattler.}

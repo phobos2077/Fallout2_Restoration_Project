@@ -162,57 +162,57 @@
 {541}{}{Hmmm. Talvez você esteja dizendo a verdade. Pode me mostrar onde viu?}
 {542}{}{Ok, eu acredito em você. Você vai me mostrar onde você viu?}
 {543}{}{Está bem, está bem. Não importa. Volte para sua brincadeira.}
-{550}{}{I'm NOT lying! We SAW it in the desert! I can PROVE it! (Glares at you.) A bunch of us are going over when it gets a little darker. }
-{551}{}{I'm NOT lying! We SAW it in the desert! I can PROVE it! (Glares at you.) A bunch of us are going over there tonight. }
-{552}{}{Come along, and I'll show it to you. (Sneers.) If yer not SCARED.}
-{556}{}{No thanks. Go back to playing your game.}
-{560}{}{(You take your crappiest gun from your pack and give it to the kid. He smiles and holds it up, admiring it.) MY gun! Cool! }
-{561}{}{I know where I can get ammo for it, too!}
-{562}{}{Uh, you can't keep it. It's just a loan...}
+{550}{}{Eu NÃO estou mentindo! Nós o vimos no deserto! Eu posso provar! (Olha para você.) Alguns de nós vai para lá quando fica um pouco mais escuro. }
+{551}{}{Eu NÃO estou mentindo! Nós o vimos no deserto! Eu posso provar! (Olha para você.) Um grupo de nós vai para lá esta noite. }
+{552}{}{Venha, e eu vou mostrar para você. (Risos.) Se você não ficar com MEDO.}
+{556}{}{Não, obrigado. Volte para sua brincadeira.}
+{560}{}{(Você pega sua arma mais ruim da mochila e dá para o garoto. Ele sorri e a ergue, a admirando.) MINHA arma! Legal! }
+{561}{}{Eu sei onde posso conseguir munição para ela!}
+{562}{}{Ei, você não pode pegar. É só emprestada...}
 {563}{}{Sim, todo seu. Agora me fale sobre esses insetos de metal...}
-{564}{}{Lock and load, kid. Say... why don't you go show your gun to Daddy? Be sure to wave it around a lot and pull that little
- switch beneath the gun there.}
-{565}{}{Sure is. Enjoy. Catch you later.}
-{570}{}{Tribal giver! It's mine! You gave it to me! It's my gun!}
-{571}{}{Give it back, you little shit!}
-{572}{}{No, it's mine. I had to hurt a lot of people for that gun. Can I pleeeease have it back?}
-{573}{}{Oh, hell. This post holocaust world can't get any worse. Go on and play with it.}
-{580}{}{Nuh-uh! (He runs off with your gun.)}
-{581}{}{Come back here, you little shit!}
-{590}{}{Okay! (He runs off.)}
-{591}{}{Well, THIS little act of evil might take a while to bear fruit... better leave the area and come back.}
-{592}{}{[Calmly leave the vicinity, whistling innocently.]}
-{600}{}{(Shrugs.) Daddy's in the house, Mommy's at church.}
-{603}{}{All right then. Just curious. Thanks.}
-{610}{}{(The kid lets the pot fall down over his head, and resumes *bzzzzing* around.)}
-{620}{}{(The kid shrugs. He lets the pot fall down over his head, and resumes *bzzzzing* around.)}
-{630}{}{(He shakes his head. He lets the pot fall down over his head, and resumes *bzzzzing* around.)}
+{564}{}{Carregada e pronta, garoto. Viu... por que você não vai mostrar sua arma para o papai? Lembre sempre de apontar na direção dele e
+ puxar esse pequeno interruptor por baixo da arma.}
+{565}{}{Claro que é, aproveite. Te vejo mais tarde.}
+{570}{}{Tribo idiota! É minha! Você me deu! É minha arma!}
+{571}{}{Devolva, seu merdinha!}
+{572}{}{Não, é minha. Eu tive que machucar muitas pessoas por aquela arma. Por favor, pode devolve-la?}
+{573}{}{Puta merda. Esse mundo pós-holocausto não pode ficar pior. Vai logo e brinque com ela.}
+{580}{}{Não! (Ele foge com sua arma.)}
+{581}{}{Volta aqui, seu merdinha!}
+{590}{}{Ok! (Ele sai correndo.)}
+{591}{}{Bem, ESSE pequeno ato de maldade pode levar tempo para compensar... É melhor eu sair daqui e voltar mais tarde.}
+{592}{}{[Sai da área calmamente, assobiando uma melodia inocente.]}
+{600}{}{(Dá de ombros.) Papai está em casa, mamãe está na igreja.}
+{603}{}{Tudo bem então. Só curiosidade. Obrigado.}
+{610}{}{(O garoto deixa o pote cair sobre sua cabeça e recomeça *bzzzzing* por ai.)}
+{620}{}{(O garoto dá de ombros. Ele deixa o pote cair sobre sua cabeça e recomeça *bzzzz* por ai.)}
+{630}{}{(Ele balança a cabeça. Ele deixa o pote cair sobre sua cabeça e recomeça *bzzzz* por ai.)}
 {631}{}{Uh, tudo bem.}
-{632}{}{You little punk... see if I save you when I'm saving the world...}
-{640}{}{You wait until it gets a little darker...}
-{641}{}{You wait until it gets dark...}
-{642}{}{[...then you follow the kids into the desert.]}
-{700}{}{GET AWAY FROM ME!}
+{632}{}{Seu bostinha... vamos ver se te salvo quando dor salvar o mundo...}
+{640}{}{Você espera até que fique um pouco mais escuro...}
+{641}{}{Você espera até escurecer...}
+{642}{}{[... então você segue as crianças para o deserto.]}
+{700}{}{SAIA DE PERTO DE MIM!}
 {701}{}{Ahhh...}
-{702}{}{Help me, help me...}
-{703}{}{MEAN PERSON! GET AWAY!}
-{704}{}{GET AWAY FROM ME!}
-{710}{}{Hey, thanks for the cool gun, mister.}
-{711}{}{Did I tell you I love my new gun you gave me?}
-{712}{}{Hey, thanks for the cool gun, lady.}
-{720}{}{Did one of you jerks take my gun this guy gave to me?}
-{721}{}{Where did my gun go?}
-{722}{}{I know you gave me a gun, what did I do with it?}
-{723}{}{Did one of you jerks take my gun this lady gave to me?}
+{702}{}{Socorro, socorro...}
+{703}{}{PESSOA MÁ! CAI FORA!}
+{704}{}{SAIA DE PERTO DE MIM!}
+{710}{}{Ei, obrigado pela arma legal, senhor.}
+{711}{}{Eu te disse que amo minha nova arma que você me deu?}
+{712}{}{Ei, obrigado pela arma legal, senhora.}
+{720}{}{Algum de vocês idiotas pegou minha arma que esse cara me deu?}
+{721}{}{Para onde foi minha arma?}
+{722}{}{Eu sei que você me deu uma arma, o que eu fiz com ela?}
+{723}{}{Algum de vocês idiotas pegou minha arma que essa moça me deu?}
 {5277}{}{! Conta pra gente a história da Enclave! Por favoooor?}
 {5278}{}{! Eeeeeee!}
 {5279}{}{!}
 {5282}{}{ quando eu crescer.}
-{5321}{}{ play tooo?}
-{5334}{}{ wanna be incest!}
-{5353}{}{ no like shout.}
-{5354}{}{. You make FUN of }
+{5321}{}{ brincar tambeeem?}
+{5334}{}{ quero ser incesto!}
+{5353}{}{ não quero atirar.}
+{5354}{}{. Você se DIVERTE }
 {5382}{}{! }
 {6354}{}{. }
-{6382}{}{ SMASH!}
-{7354}{}{ not like.}
+{6382}{}{ ESMAGA!}
+{7354}{}{ não quero.}

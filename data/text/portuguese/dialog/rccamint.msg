@@ -8,29 +8,29 @@
 {107}{}{Don't flatter yourself, you little runt.}
 {108}{}{You'd be lucky to get a runt instead of that drilling machine you normally use.}
 {109}{}{Well, at least my drill lasts more than thirty seconds.}
-{110}{}{No wonder the Morningstar's machinery is always breaking down.}
-{111}{}{I'll show you broken down, with my fists!}
-{112}{}{Your fists? Your breath is bad enough.}
-{113}{}{I don't know how you could smell that over your own 3-week stink.}
-{114}{}{Stink? Hell, looking at you causes me enough pain.}
-{115}{}{You don't know nuthin' about pain, but I'll teach you something.}
-{116}{}{You teach me?}
-{117}{}{Yeah, that's right. 'Cause your momma sure didn't.}
-{118}{}{You talkin' about my momma now? Ain't that creative.}
-{119}{}{I'll do a better job of creating a new face for you. That old one sure ain't much to look at.}
-{120}{}{You and what army?}
+{110}{}{Não é de admirar que a maquinaria da Morningstar esteja sempre quebrando.}
+{111}{}{Eu vou te mostrar como se quebra, com meus punhos!}
+{112}{}{Seus punhos? Seu bafo ja é ruim o suficiente.}
+{113}{}{Não sei como você consegue sentir o cheiro com esse seu fedor de carniça.}
+{114}{}{Fedor? Porra, te olhar ja me causa dor o suficiente.}
+{115}{}{Você não sabe nada sobre dor, mas eu vou te ensinar uma coisa.}
+{116}{}{Me ensinar?}
+{117}{}{Sim, esta certo. Porque sua mãe com certeza não fez.}
+{118}{}{Agora botou minha mãe no meio? Não é tão criativo.}
+{119}{}{Farei um trabalho melhor criando um novo rosto para você. A velha não vai conseguir olhar muito.}
+{120}{}{Você e que exército?}
 {121}{}{Just me, that's all it's gonna take. But I bet us Morningstars can take you wimpy Kokoweefs anytime.}
-{122}{}{I don't think so. Kokoweef rules the roost here. I'm gonna have to learn you that.}
-{123}{}{Gonna be hard for you to do that when I beat you unconscious.}
-{124}{}{Think you might get lucky then, huh?}
-{125}{}{I don't need luck to pound you flat.}
-{126}{}{You're gonna pound me with your fat? Uh oh, now I *am* scared.}
+{122}{}{Não acho. Kokoweef comanda o show aqui. Eu vou ter que mostrar para você.}
+{123}{}{Vai ser difícil para você fazer isso quando eu te desmaiar.}
+{124}{}{Vai tentar a sorte então?}
+{125}{}{Não preciso de sorte para te quebrar.}
+{126}{}{Você vai me bater com sua gordura? Uh oh, agora eu *estou* com medo.}
 {127}{}{Put up or shut up you, little shrimp.}
-{128}{}{Come get some, you hag.}
-{129}{}{Now who's hoping to get lucky?}
-{130}{}{That's it, I'm gonna take you out for that one.}
-{131}{}{Who the hell is this watching us?}
-{132}{}{Someone new. Hey, this is a private matter! Let's get 'em!}
+{128}{}{Venha receber um pouco, sua bruxa.}
+{129}{}{Agora, quem está esperando para ter sorte?}
+{130}{}{É isso, eu vou cuidar de você agora.}
+{131}{}{Mas que merda que você esta olhando?}
+{132}{}{Alguém novo. Ei, esse é um assunto privado! Vamos pegá-los!}
 {133}{}{Por uma vez eu concordo. Vamos lá!}
 {134}{}{You sure did yourself a job there. Put every damn miner in Redding behind bars.}
 {135}{}{You got some nerve, putting us away.}
@@ -50,8 +50,8 @@
 {148}{}{Por quê? Como começou?}
 {149}{}{Entendo. Bem, eu não vou permitir isso. Você tem que separar agora.}
 {150}{}{We just got tired of their ornery selves stinking up our bar.}
-{151}{}{That's not good enough. I can't let you fight.}
-{152}{}{Well, that seems like a problem, all right. I don't blame you. Good luck.}
+{151}{}{Isso não basta. Não posso deixar você lutar.}
+{152}{}{Bem, isso parece um problema. Tudo bem, não te culpo. Boa sorte.}
 {153}{}{Oh yeah? How're you gonna stop us?}
 {154}{}{I'll kill the first person to throw a punch.}
 {155}{}{I'm just going to ask you real nice like. Then I'm going to load up my weapons and wait for some
