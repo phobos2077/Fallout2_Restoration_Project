@@ -5,8 +5,8 @@
 {152}{}{Você vê um dos filhos de Wright. Ele olha para você sem prestar muita atenção.}
 {153}{}{Você vê um dos filhos de Wright. Parece que ele prefere estar fazendo alguma coisa... qualquer... outra coisa.}
 {160}{}{Você vê uma jovem com uma expressão rigida. Ela está tentando parecer durona.}
-{161}{}{You see one of Wright's daughters. She's packing a few weapons and looks a little too young to know what to be doing with them.}
-{162}{}{You see one of Wright's daughters. She ignores you, but drops her hand to her holster meaningfully.}
+{161}{}{Você vê uma das filhas de Wright. Ela está carregando algumas armas e parece um pouco jovem demais para saber o que fazer com elas.}
+{162}{}{Você vê uma das filhas de Wright. Ela ignora você, mas deixa a mão no coldre por precaução.}
 {163}{}{You see one of Wright's daughters. She looks meaner than a rattler.}
 {164}{}{You see one of Wright's daughters. She looks meaner than a rattler. For some reason, that excites you.}
 {200}{}{::Assobios::}

@@ -53,8 +53,8 @@
 {150}{}{É só olhar aqueles pobres lamentáveis de pau mole. Quem não gostaria pisar em cima?}
 {151}{}{Isso não basta. Não posso deixar você lutar.}
 {152}{}{Bem, isso parece um problema. Tudo bem, não te culpo. Boa sorte.}
-{153}{}{What the hell are you going to do about it, you goddamn shit-heel?}
-{154}{}{I'll kill the first person to throw a punch.}
+{153}{}{O que pensa fazer sobre isso, seu bunda mole?}
+{154}{}{Eu mato a primeira pessoa que levantar a mão.}
 {155}{}{I'm just going to ask you real nice like. Then I'm going to load up my weapons and wait for some
  target practice.}
 {156}{}{The Sheriff asked me to help him out while he's laid up with a bum leg. I've got to keep my
