@@ -483,19 +483,19 @@
 {1518}{}{What was that stuff you were saying about Redding?}
 {1525}{myn229a}{Hmm....their boy wonder leaving town. Ha. That'd wake 'em up. Yeah. }
 {1526}{myn229e}{I like that.}
-{1527}{myn229d}{I like the way you think, beautiful.}
-{1528}{myn229c}{So where we headed?}
-{1529}{myn229b}{So where we headed, beautiful?}
-{1530}{}{Just follow me.}
-{1531}{}{Then come with me.}
-{1532}{}{Hold on a minute. I haven't said yes yet. What can you do, Myron? I can't just have anyone traveling with me. I got standards.}
-{1533}{}{First off, what are you good at, Myron?}
+{1527}{myn229d}{Eu gosto do jeito que você pensa, linda.}
+{1528}{myn229c}{Então, para onde vamos?}
+{1529}{myn229b}{Então, para onde vamos, linda?}
+{1530}{}{Apenas me siga.}
+{1531}{}{Então venha comigo.}
+{1532}{}{Espera um minuto, ainda não disse sim. O que você pode fazer, Myron? Não posso deixar qualquer um andar comigo. Eu tenho princípios.}
+{1533}{}{Primeiro, no que você é bom, Myron?}
 {1534}{}{Em lugar nenhum ainda. Eu tenho mais algumas perguntas...}
-{1535}{}{Nowhere yet, Myron. I'll be back for you, though.}
-{1545}{myn230a}{Naw, you look full up. Whydoncha ditch the tribal. Looks like he takes being a bone-head too seriously.}
-{1546}{myn230b}{Naw, you look full up. And Myron doesn't hang with mutant trash. Ah-heh, no offense, big guy.}
-{1547}{myn230c}{Uh, naw, you look full up. And uh, Myron doesn't hang with ghouls. Never know when they're gunna drop a body part on your shoe.}
-{1548}{myn230d}{Naw, I don't want to hang out with another family. The Mordinos were enough. Lose some baggage, and then come talk to me.}
+{1535}{}{Nada ainda, Myron. Mas eu voltarei para você.}
+{1545}{myn230a}{Não, você parece cheio. E se você se livrar do tribal? Parece que ele está levando bem a sério o fato de ser um cabeça de osso.}
+{1546}{myn230b}{Não, você parece cheio. E Myron não anda com lixo mutante. Ah-heh, sem ofensa, grandão.}
+{1547}{myn230c}{Uh, não, você parece cheio. E uh, Myron não anda com ghouls. Nunca se sabe quando eles vão deixar cair uma parte do corpo no seu colo.}
+{1548}{myn230d}{Passo, não quero me juntar com outra Família. Ja tenho o suficiente com os Mordinos. Se livre de umas bagagens depois venha me perguntar de novo.}
 {1549}{myn230e}{Yeah, right. Flies wouldn't follow you if you were covered in shit. Huh, forget it.}
 {1550}{}{Certo então. Bem, eu tenho algumas perguntas...}
 {1551}{}{Pretty enlightened attitude. I'll think about it, Myron.}
@@ -567,7 +567,7 @@
 {1716}{}{Well what? Aren't they treating you all right?}
 {1725}{myn247}{You again. So... ready to go?}
 {1726}{}{Sure, Myron. Let's get out of here.}
-{1727}{}{Hold on a minute. I haven't said yes yet. What can you do, Myron? I can't just have anyone traveling with me. I got standards.}
+{1727}{}{Espera um minuto, ainda não disse sim. O que você pode fazer, Myron? Não posso deixar qualquer um andar comigo. Eu tenho princípios.}
 {1728}{}{First off, what skills do you have Myron?}
 {1729}{}{No, not exactly. I had some questions...}
 {1730}{}{Not at the moment. Why don't you just cool your heels for a while?}

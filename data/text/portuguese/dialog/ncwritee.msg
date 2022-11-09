@@ -48,71 +48,71 @@
 {281}{}{Mas que po.. er, por que você está se esgueirando por aí? Quer levar um tiro?}
 {285}{}{Isso é algum tipo de máquina caça-níqueis que está seguindo você?}
 {286}{}{Isso é um robô caça-níqueis?}
-{287}{}{Is that a brain inside that robot thing? Yechhh.}
-{288}{}{That some kind of rovin' brain display case you got with you?}
-{289}{}{That a robot? I ain't never seen one of those before.}
+{287}{}{Isso é um cérebro dentro dessa robô? Aghhh.}
+{288}{}{Esse negócio te acompanhando é alguma vitrine com um cérebro ambulante?}
+{289}{}{Isso é um robô? Eu nunca vi um desses antes.}
 {295}{}{Diga que aquilo não é um mutante.}
 {296}{}{Isso é um mutante?}
-{297}{}{Holy brahmin turds. Mutants in New Reno. Must mean trouble...}
+{297}{}{Nossa Senhora... Mutantes em New Reno. Já vejo problemas...}
 {298}{}{Aquele mutante é um dos grandes.}
-{299}{}{That mutant o' yours better watch himself round here, y'hear me?}
+{299}{}{É melhor esse seu mutante olhar bem onde pisa, está me ouvindo?}
 {305}{}{O que você quer?}
-{306}{}{Help you with somethin'?}
+{306}{}{Precisa de ajuda?}
 {307}{}{Desgraça de calor...}
-{308}{}{New Reno gets uglier every day...}
-{309}{}{What're you doing round here?}
-{310}{}{If you're lookin' for alcohol, the train station is the place to be.}
-{311}{}{Watch yer step around here, friend. This here's Wright Family territory.}
-{320}{}{You should go play with the youngsters with that armor on. They'd love it.}
-{321}{}{Don't step on any of the little ones with that armor on, y'hear?}
-{322}{}{Aren't you hot in there?}
-{323}{}{A walking refrigerator. Now I've seen everything.}
-{324}{}{You lookin' for a car wash?}
-{325}{}{You look like you belong in a battle mech computer game. This is Fallout 2. Maybe you opened the
- wrong folder on your hard drive?}
+{308}{}{New Reno fica cada dia mais feia...}
+{309}{}{O que você está fazendo por aqui?}
+{310}{}{Se você está procurando por álcool, a estação de trem é o lugar certo.}
+{311}{}{Observe por onde anda aqui, amigo. Esse aqui é o território da Família Wright.}
+{320}{}{Você deveria ir brincar com a garotada com essa armadura. Eles adorariam.}
+{321}{}{Não pise em nenhum dos pequenos com essa armadura, ouviu?}
+{322}{}{Você não está com calor aí?}
+{323}{}{Uma geladeira ambulante. Agora eu vi de tudo.}
+{324}{}{Procurando uma lavagem de carro?}
+{325}{}{Parece que você pertence a um jogo de computador mech de batalha. Isso é o Fallout 2. Sera que você não
+ baixou o jogo errado?}
 {326}{}{Como você usa o banheiro com isso?}
-{335}{}{How're you, }
-{336}{}{Good to have you in the family, uh, even though you aren't family, y'know? Uh... nevermind.}
+{335}{}{Como está, }
+{336}{}{É bom ter você na família, uh, mesmo que você não seja da família, entendeu? Ah... deixa pra lá.}
 {337}{}{Ouvi dizer que Tommy Bengala estava de volta à cidade. Assustador.}
-{338}{}{We Wrights are the strongest family 'cause we ARE family.}
-{339}{}{Shame about my lil' brother. He was a good kid, but Jet's all over this town, hard to avoid it...}
-{340}{}{Dad said he'd strangle us if he ever hears about us takin' Jet.}
-{341}{}{Dad's still upset, so be careful when you talk to him, y'hear?}
-{342}{}{Chris's gonna get a whippin' if he keeps sneakin' inta the whorehouse.}
+{338}{}{Nós, Wrights, somos a família mais forte porque SOMOS família.}
+{339}{}{Uma lastima o que aconteceu com meu irmãozinho. Ele era um bom garoto, mas o jet está por toda a cidade, difícil de evitar...}
+{340}{}{Papai disse que nos estrangularia se soubesse que pegamos jet.}
+{341}{}{Papai ainda está chateado, então tome cuidado ao falar com ele, ouviu?}
+{342}{}{Chris vai levar uma surra se continuar entrando no bordel.}
 {343}{}{Desgraça de calor...}
-{344}{}{Ain't seen Mom for a while. If you see her, don't mention nothin' about the stills, 'kay?}
-{345}{}{Keith took apart the piano last week and put it back together. Smart kid.}
-{346}{}{We're going huntin' for radscorpions again in a few days.}
-{347}{}{If you're lookin' for alcohol, the train station is the place to be.}
-{348}{}{Watch out for the kids around here, they're always underfoot.}
-{349}{}{Can you teach me to fight, too?}
-{350}{}{Yer that fighter, }
-{351}{}{You fight good. You should talk to Dad... er, the boss, about a job.}
-{352}{}{We could use a strong arm around town, if yer interested.}
-{353}{}{When you gonna fight again?}
-{354}{}{I'd bet on you, but Mom gets so pissed off when we gamble.}
-{355}{}{They built you tough, no doubt.}
-{356}{}{Watch out for the Masticator, all right? He's a mean one. Sooner bite your ear off than look at you.}
-{360}{}{Mom says yer a tool of the devil. Or that you have a devil's tool. Something like that.}
-{361}{}{Better not stick around... Mom might see you and start preaching.}
-{362}{}{So what's it like in the movies? Mom won't let me go see your films.}
-{363}{}{Don't tell the little ones what you do.}
-{364}{}{Mom'll throw a fit if she sees you. She's so histrionic.}
-{365}{}{If you're lookin' for alcohol, the train station is the place to be.}
-{366}{}{We Wrights are the strongest family 'cause we ARE family.}
-{367}{}{Shame about my lil' brother. He was a good kid, but Jet's all over this town, hard to avoid it...}
-{368}{}{Dad said he'd strangle us if he ever hears 'bout us takin' Jet.}
+{344}{}{Faz um tempo que não vejo mamãe. Se você a vir, não fale nada sobre as fotos, ok?}
+{345}{}{Keith desmontou o piano na semana passada e o montou novamente. Garoto esperto.}
+{346}{}{Vamos caçar radscorpions dentro de alguns dias.}
+{347}{}{Se você está procurando por álcool, a estação de trem é o lugar certo.}
+{348}{}{Cuidado com as crianças por aqui, elas estão sempre rodeando seus pés.}
+{349}{}{Você pode me ensinar a lutar também?}
+{350}{}{É aquele lutador, }
+{351}{}{Você luta bem. Você deveria falar com papai... er, o chefe, sobre um trabalho.}
+{352}{}{Nós poderíamos usar um braço forte pela cidade, se você estiver interessado.}
+{353}{}{Quando você vai lutar de novo?}
+{354}{}{Eu apostaria em você, mas mamãe fica muito chateada quando apostamos.}
+{355}{}{Eles te fizeram forte, sem dúvida.}
+{356}{}{Cuidado com o Mastigador, ta bom? Ele é um malvado. Quando voce perceber ele ja mordeu sua orelha.}
+{360}{}{Mamãe diz que você é uma ferramenta do diabo. Ou que você tem uma ferramenta do diabo. Tipo isso.}
+{361}{}{Melhor não ficar por aqui... Mamãe pode ver você e começar a pregar.}
+{362}{}{Então, como é nos filmes? Mamãe não me deixa ir ver seus filmes.}
+{363}{}{Não diga aos pequenos o que você faz.}
+{364}{}{Mamãe vai ter um ataque se ela vir você. Ela é do tipo histrionica.}
+{365}{}{Se você está procurando por álcool, a estação de trem é o lugar certo.}
+{366}{}{Nós, Wrights, somos a família mais forte porque SOMOS família.}
+{367}{}{Uma lastima o que aconteceu com meu irmãozinho. Ele era um bom garoto, mas o jet está por toda a cidade, difícil de evitar...}
+{368}{}{Papai disse que nos estrangularia se soubesse que pegamos jet.}
 {369}{}{Dad's still upset, so be careful when you talk to him, you hear?}
-{370}{}{Chris's gonna get a whippin' if he keeps sneakin' inta the whorehouse.}
+{370}{}{Chris vai levar uma surra se continuar entrando no bordel.}
 {371}{}{Desgraça de calor...}
-{372}{}{Keith took apart the piano last week and put it back together. Smart kid.}
-{373}{}{We're going huntin' for radscorpions again in a few days.}
+{372}{}{Keith desmontou o piano na semana passada e o montou novamente. Garoto esperto.}
+{373}{}{Vamos caçar radscorpions dentro de alguns dias.}
 {374}{}{Are you REALLY talkin' to God when you're havin' sex on stage?}
 {375}{}{Mom says yer a tool of the devil.}
 {376}{}{Mom says yer a harlot. A brazen strumpet. I have no idea what's she goin' on about.}
 {385}{}{You planning to see Dad about business? Well, good luck, I don't think he's hiring any hands now.}
 {386}{}{If you're lookin' for alcohol, the train station is the place to be. }
-{387}{}{Watch yer step around here, friend. This here's Wright Family territory.}
+{387}{}{Observe por onde anda aqui, amigo. Esse aqui é o território da Família Wright.}
 {390}{}{Better take off... we don't take kindly to slavers.}
 {391}{}{Don't you even THINK about kidnapping anyone here. You cause any trouble, we'll gut you.}
 {392}{}{Just keep your distance, slaver. If you've got business with Pa, do it, then get.}
@@ -120,7 +120,7 @@
 {394}{}{I'm watchin' you, slaver, so you watch what you do, hear?}
 {395}{}{You touch any of those kids, slaver, and I'll shoot you so much you'll fly outta your boots.}
 {396}{}{Touch any of those kids, slaver, and I'll kill you.}
-{397}{}{If you're lookin' for alcohol, the train station is the place to be.}
+{397}{}{Se você está procurando por álcool, a estação de trem é o lugar certo.}
 {398}{}{You harm any Wright, slaver, and our Family won't rest until yer hide is rotting in Golgotha.}
 {399}{}{You here to see Dad about business? I don't think Dad does business with slavers. You better git.}
 {410}{}{Better take off... no offense, but Dad doesn't like tribals much.}
@@ -129,7 +129,7 @@
 {413}{}{You better not have brought any drugs, or else Dad'll kill you. Then I'LL kill you.}
 {414}{}{I'm watching you, so you watch what you do, hear?}
 {415}{}{Where you from? Ain't seen your kind around here in a while.}
-{416}{}{If you're lookin' for alcohol, the train station is the place to be.}
+{416}{}{Se você está procurando por álcool, a estação de trem é o lugar certo.}
 {417}{}{You harm any Wright, and the Family won't rest until yer hide is rotting in Golgotha.}
 {418}{}{You here to see Dad 'bout business? Good luck, I don't think he's hiring any hands now.}
 {425}{}{That ghoul shouldn't be around here. You better send him back to Gecko.}

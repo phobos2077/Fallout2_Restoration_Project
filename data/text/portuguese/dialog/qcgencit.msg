@@ -42,12 +42,12 @@
 {141}{}{Where's a trooper when you need one?}
 {142}{}{I just need to stay calm - stay calm.}
 {143}{}{I'll never finish this.}
-{144}{}{I'd sure rather be somewhere else.}
-{145}{}{That terminal operator was kind of cute.}
-{146}{}{This doesn't make sense.}
-{147}{}{I'm underpaid for this.}
-{148}{}{I'm doing everyone else's work.}
-{149}{}{Why don't people do what they're supposed to?}
-{150}{}{Just hit a terminal if it doesn't work-fixes 'em every time.}
-{151}{}{This pong game is cool. Hope nobody catches me.}
-{152}{}{I need some caffeine.}
+{144}{}{Eu com certeza preferia estar em outro lugar.}
+{145}{}{Aquele operador de terminal era uma gracinha.}
+{146}{}{Isso não faz sentido.}
+{147}{}{Não me pagam o suficiente para isso.}
+{148}{}{Estou fazendo o trabalho de todos.}
+{149}{}{Por que as pessoas não fazem o que deveriam?}
+{150}{}{Se isso não funcionar, aperte um terminal.}
+{151}{}{Este jogo de pong é legal. Espero que ninguém me pegue.}
+{152}{}{Eu preciso de algo com cafeína.}
