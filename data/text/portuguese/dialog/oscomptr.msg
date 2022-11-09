@@ -67,11 +67,11 @@
 {240}{}{After a bit of searching, you discover three files that might be worth a look: Vault Dweller's Survival Guide
  (Abridged Version), Vault 13 Timeline, and Overseer Logs.}
 {241}{}{Access Vault Dweller's Survival Guide (Abridged Version). }
-{242}{}{Access Vault 13 Timeline. }
-{243}{}{Access Overseer Logs.}
+{242}{}{Acesso a linha do tempo da Vault 13. }
+{243}{}{Acesso aos registros do Supervisor.}
 {244}{}{Termine a sessão.}
-{250}{}{Welcome to Vault-13, the latest in a series of public defense works from Vault-Tec, your contractor of choice
- when it comes to the best in nuclear shelters. Vault-Tec, America's Final Word in Homes.}
+{250}{}{Bem-vindo à Vault-13, a mais recente de uma série de obras de defesa pública da Vault-Tec, sua empreiteira preferida
+ quando se trata do melhor em abrigos nucleares. Vault-Tec, o que temos de mais recente em casas.}
 {251}{}{[MAIS]}
 {252}{}{The Vault series of survival shelters are designed from the ground up to provide the best chance for a good life
  following nuclear armageddon. It is the duty of every American citizen to learn and use the skills necessary for a comfortable Vault life. The best place to start is with a description of your new home.}
@@ -93,13 +93,13 @@
 {259}{}{[MAIS]}
 {260}{}{The key to a successful reintroduction of civilization following a massive scale nuclear war is people. Here at Vault-Tec, we are working to ensure to your fellow man (and woman) is up to the task of bringing America back from the dead.}
 {261}{}{[MAIS]}
-{262}{}{We believe that a positive attitude is one of the best tools at our disposal. Should you encounter any fellow Vault Dwellers displaying a less than positive attitude, you are encouraged to report them to your Vault's Overseer. Remember, once the doors are sealed, the Overseer's word is law.}
+{262}{}{Acreditamos que uma atitude positiva é uma das melhores ferramentas à nossa disposição. Se você encontrar qualquer outro morador da Vault mostrando uma atitude menos do que positiva, você é encorajado a denunciá-lo ao seu Supervisor. Lembre-se, uma vez que as portas são seladas, a palavra do Supervisor é lei.}
 {263}{}{[MAIS]}
-{264}{}{Vault-13 comes prepared with the latest in survival equipment. The items in your storage containers will last 1,000 people over 10 years in comfortable and modern surroundings. When it is time to leave the Vault, and return to rebuild America, your friends at Vault-Tec have provided you with everything that you will need.}
+{264}{}{O Vault-13 vem preparada com o que há de mais moderno em equipamentos de sobrevivência. Os itens em seus contêineres de armazenamento durarão 1.000 pessoas em 10 anos em um ambiente confortável e moderno. Quando chegar a hora de deixar a Vault e voltar para reconstruir a América, seus amigos da Vault-Tec fornecerão tudo o que você precisar.}
 {265}{}{[MAIS]}
-{266}{}{Thank you for taking the time to read The Vault Dweller's Survival Guide (Abridged Version). We at Vault-Tec feel confident that you'll love your new underground dwelling.}
-{267}{}{Access Vault 13 Timeline. }
-{268}{}{Access Overseer Logs.}
+{266}{}{Obrigado por reservar um tempo para ler o Guia de Sobrevivência do Morador da Vault (Versão Abreviada). Nós da Vault-Tec estamos confiantes de que você vai adorar sua nova residência subterrânea.}
+{267}{}{Acesso a linha do tempo da Vault 13. }
+{268}{}{Acesso aos registros do Supervisor.}
 {269}{}{Termine a sessão.}
 {270}{}{As you read over the beginning of the timeline, you find it interesting that no reason is given for why the Vault didn't open 10 years after the Great War, as it was originally designed to. }
 {271}{}{[MAIS]}
@@ -109,23 +109,23 @@
 {275}{}{[MAIS]}
 {276}{}{The final entry in the timeline is dated May of 2242. It seems that, for the first time, Vault 13 was sent an "all clear" signal from an unknown source. After some debate, the vault dwellers decided to open the Vault doors and see what awaited them on the surface world. There is no record of what happened to them after that.}
 {277}{}{Access Vault Dweller's Survival Guide (Abridged Version). }
-{278}{}{Access Overseer Logs.}
+{278}{}{Acesso aos registros do Supervisor.}
 {279}{}{Termine a sessão.}
-{280}{}{Authorization required. Please enter password. }
+{280}{}{Autorização necessária. Por favor, digite a senha. }
 {281}{}{[VOLTAR]}
-{282}{}{[Guess password]}
-{283}{}{[Attempt to hack into it.]}
+{282}{}{[Adivinha a senha]}
+{283}{}{[Tenta hackear.]}
 {284}{}{Termine a sessão.}
-{290}{}{Incorrect. Please enter password.}
+{290}{}{Incorreta. Por favor, digite a senha.}
 {291}{}{[VOLTAR]}
-{292}{}{[Guess password]}
-{293}{}{[Attempt to hack into it.]}
+{292}{}{[Adivinha a senha]}
+{293}{}{[Tenta hackear.]}
 {294}{}{Termine a sessão.}
-{300}{}{Incorrect. You are now locked out of these files. Vault-Tec apologizes for any inconvenience.}
+{300}{}{Incorreta. Agora você está bloqueado para esses arquivos. A Vault-Tec pede desculpas por qualquer inconveniente.}
 {301}{}{[VOLTAR]}
-{302}{}{[Attempt to hack into it.]}
+{302}{}{[Tenta hackear.]}
 {303}{}{Termine a sessão.}
-{310}{}{[You try everything you can think of, but you're unable to gain access. With a sigh of defeat, you return to the main menu.]}
+{310}{}{[Você tenta tudo o que pode pensar, mas não consegue acessar. Com um suspiro de derrota, você volta ao menu principal.]}
 {311}{}{Execute o diagnóstico.}
 {312}{}{Mude para o modo de entrada do teclado.}
 {313}{}{Segurança de acesso ao material de arquivo.}

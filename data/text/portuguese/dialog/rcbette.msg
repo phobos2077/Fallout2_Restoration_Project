@@ -44,12 +44,12 @@
 {142}{}{Next time I'll settle your fucking hash.}
 {143}{}{What the hell are you looking at?}
 {144}{}{What do you want, dipshit?}
-{145}{}{I'm not going to let you fight each other.}
-{146}{}{I was just wondering what's going on here.}
-{147}{}{There's a bunch of shit in this bar and me and my Morningstar miners are gonna shovel it out
- into the street. The biggest turd even has a name - Caminetto.}
-{148}{}{Why? What started it?}
-{149}{}{I see. Well, I can't let you do that. You have to break it up now.}
+{145}{}{Eu não vou deixar voces ficarem brigando.}
+{146}{}{Quero saber o que está acontecendo aqui.}
+{147}{}{Tem muita merda nesse bar e eu e meus mineiros da Morningstar vamos botar tudo pra rua. A maior merda
+ tem até nome: Caminetto.}
+{148}{}{Por quê? Como começou?}
+{149}{}{Entendo. Bem, eu não vou permitir isso. Você tem que separar agora.}
 {150}{}{Just look at their sorry-ass, limp-dicked selves. Who wouldn't want to stomp them flat?}
 {151}{}{That's not good enough. I can't let you fight.}
 {152}{}{Well, that seems like a problem, all right. I don't blame you. Good luck.}

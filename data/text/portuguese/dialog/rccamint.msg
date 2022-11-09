@@ -43,12 +43,12 @@
 {142}{}{I didn't do nothin'}
 {143}{}{Sheriff? I gotta take a leak.}
 {144}{}{O que diabos você quer?}
-{145}{}{I'm not going to let you fight each other.}
-{146}{}{I was just wondering what's going on here.}
+{145}{}{Eu não vou deixar voces ficarem brigando.}
+{146}{}{Quero saber o que está acontecendo aqui.}
 {147}{}{Me and my boys are gonna teach these Morningstar creampuffs a lesson. Starting with Blasphemous
  Bette over there.}
-{148}{}{Why? What started it?}
-{149}{}{I see. Well, I can't let you do that. You have to break it up now.}
+{148}{}{Por quê? Como começou?}
+{149}{}{Entendo. Bem, eu não vou permitir isso. Você tem que separar agora.}
 {150}{}{We just got tired of their ornery selves stinking up our bar.}
 {151}{}{That's not good enough. I can't let you fight.}
 {152}{}{Well, that seems like a problem, all right. I don't blame you. Good luck.}

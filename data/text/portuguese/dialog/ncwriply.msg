@@ -75,8 +75,8 @@
 {341}{}{Corre com ele por um tempo fazendo barulhos *bzzzzing*.}
 {342}{}{Desliga}
 {343}{}{(Vai embora.)}
-{350}{}{INSECT, stoo-pid! We SAW one when we were out in the desert! It was as big... (Takes a deep breath.) ...as big as a HOUSE!
- N'it had metal PEOPLE in it.}
+{350}{}{INSETO, estu-upidoo! Vimos um quando estavamos no deserto! Era tão grande... (Respira fundo.) ...tão grande quanto uma CASA!
+ Tinha pessoa de metal nele.}
 {351}{}{hã-hã}
 {352}{}{Não me chama de estupido}
 {353}{}{Nao atire. }
@@ -87,46 +87,46 @@
 {362}{}{Uh-uh-uh-uh}
 {363}{}{Huh-huh-huh-huh}
 {364}{}{Você vai embora e faz "uhhh" como se fosse outra pessoa.}
-{370}{}{Uh-huh! I'll show you! A bunch of us are going over there when it gets REALLY dark. }
-{371}{}{Uh-huh! I'll show you! A bunch of us are going over there tonight. }
-{372}{}{Wanna come? (The little person squints at you.) But you gotta be reeeally quiet. Reeeeally quiet.}
-{373}{}{Okee-dokee [Follow him.]}
-{374}{}{Okee-dokee, me go wit... oooooh, that sand over there?}
-{380}{}{I don't like you. You're a big stupid-head! (Sticks out his tongue.) Get outta here, stupid-head!}
-{381}{}{DON'T CALL ME STOOPID! YOU STOOPID! YOU STOOPID!}
-{382}{}{No shout! No shout at }
-{383}{}{Bite back your tears and run away}
-{384}{}{All right... this time. Go easy on the Jet, kid.}
-{390}{}{(Squints at you.) You sound like my Mom and Dad when they go to bed.}
-{391}{}{Where you see incest? I wanna see too}
-{400}{}{I'm not lying, stupid! A bunch of us are going over there when it gets REALLY dark. }
-{401}{}{I'm not lying, stupid! A bunch of us are going over there tonight. }
-{403}{}{DON'T call me stoopid, STOOPID}
-{404}{}{Uh-huh [Follow him.]}
-{405}{}{Okee-dokee, me want to com... oooooh, that sand over there?}
-{410}{}{A bunch of us are going over there when it gets REALLY dark. }
-{411}{}{A bunch of us are going over there tonight. }
-{412}{}{Wanna come? (Squints at you.) But you gotta be reeeally quiet. Reeeeally quiet.}
-{420}{}{It's not a pot, STUPID! It's my helmet!}
-{421}{}{Whoa, sorry there, fearsome helmed warrior.}
-{422}{}{Call me stupid AGAIN, you little shit, and we'll see how well that 'helmet' protects you from a gaping head wound.}
-{423}{}{[Let him play with his 'helmet.']}
-{430}{}{(Glares at you suspiciously.) Whaddya want?}
-{432}{}{I just wanted to know what kind of game you're playing. It looks like fun!}
+{370}{}{Uh-uh! Eu vou provar isso para você! Vários de nós vão para lá quando ficar MUITO escuro. }
+{371}{}{Uh-uh! Eu vou te mostrar! Um grupo de nós está indo para lá esta noite. }
+{372}{}{Quer vir? (A pessoinha aperta os olhos para você.) Mas você tem que ficar muuuuito quieto. Quieeeetinho.}
+{373}{}{Taaa bom [O segue.]}
+{374}{}{Taaaa bom, eu vou com… oooooh, e aquela areia ali?}
+{380}{}{Eu não gosto de você. Você é um grande bobão! (Estica a língua.) Sai daqui, estúpido!}
+{381}{}{NÃO ME CHAME DE ESTUPIDO! VOCÊ ESTUPIDO! VOCÊ QUE EH!}
+{382}{}{Não dispare! Não atire em }
+{383}{}{Você enxuga suas lágrimas e vai embora}
+{384}{}{Ta bom... desta vez. Vai com calma no Jet, garotão.}
+{390}{}{(Olha para você.) Você parece minha mãe e meu pai quando eles vão para a cama.}
+{391}{}{Onde você viu esse incesto? eu também quero ver}
+{400}{}{Não estou mentindo, estúpido! Um grupo de nós está indo para lá quando fica MUITO escuro. }
+{401}{}{Não estou mentindo, estúpido! Um grupo de nós está indo para lá esta noite. }
+{403}{}{NÃO me chame de estupido, ESTUPIDO}
+{404}{}{Uh-huh [Segue ele.]}
+{405}{}{Taaaa bom, vou com... oooooh, aquela areia ali?}
+{410}{}{Um grupo de nós está indo para lá quando fica MUITO escuro. }
+{411}{}{Um grupo de nós está indo para lá esta noite. }
+{412}{}{Quer vir? (Olha para você.) Mas você tem que ficar muuuuito quieto. Quieeeetinho.}
+{420}{}{Não é um pote, ESTÚPIDO! É meu capacete!}
+{421}{}{Whoa, desculpa ai, temível guerreiro do capacete.}
+{422}{}{Me chame de estúpido de novo, seu merdinha, e vamos ver se esse teu "capacete" te protege bem de uma paulada na cabeça.}
+{423}{}{[Deixe que ele brinque com seu 'capacete.']}
+{430}{}{(Olha para você desconfiado.) O que você quer?}
+{432}{}{Eu só queria saber do que você esta brincando. Parece divertido!}
 {433}{}{Uh... onde estão seus pais?}
 {434}{}{Nada.}
-{440}{}{(The little man turns white, takes a step back, then turns and runs, screaming his head off.)}
-{441}{}{(The kid turns white, takes a step back, then turns and runs, screaming his head off.)}
-{442}{}{Hee hee... run, little mann! RUN!}
+{440}{}{(O homenzinho fica branco, dá um passo para trás, depois se vira e corre, gritando.)}
+{441}{}{(O garoto fica branco, dá um passo para trás, depois se vira e corre, gritando.)}
+{442}{}{Hee hee... corre, baixinho! CORRE!}
 {443}{}{Pequeno punk...}
-{450}{}{Metal insects n' soldiers. }
-{451}{}{(Looks at your equipment, spots one of your pistols.) Can I play with yer gun?}
-{452}{}{No, no... it's too dangerous to play with, youngster.}
-{453}{}{No. You'll shoot your eye out.}
-{454}{}{Why, sure you can, you little pothead. Here you go. (Give him an unloaded pistol.)}
-{455}{}{Why, sure you can, you little pothead. Here you go. (Give him a loaded pistol.)}
-{456}{}{"Metal insects?"}
-{457}{}{Oh, okay. I was just curious.}
+{450}{}{Insetos metálicos e soldados. }
+{451}{}{(Olha para seu equipamento, vê uma de suas pistolas.) Posso brincar com sua arma?}
+{452}{}{Não... é muito perigoso brincar com isso, carinha.}
+{453}{}{Não. Você vai dar um tiro no olho.}
+{454}{}{Ora, claro que pode, seu pequeno miliciano, aqui está. (Da a ele uma pistola descarregada.)}
+{455}{}{Ora, claro que pode, seu pequeno miliciano, aqui está. (Da a ele uma pistola carregada.)}
+{456}{}{"Insetos de metal?"}
+{457}{}{Oh, tudo bem. Eu só estava curioso.}
 {458}{}{Nãããão... Acho melhor eu ir andando.}
 {470}{}{(Olha para você.) Vamos, eu sei como usar armas assim! Sou da Família Wright! Deixa eu ver! Por favor?}
 {471}{}{Veja: nas mãos erradas, uma pistola é uma arma mortal. Bem, quero dizer, é SEMPRE uma arma mortal, mas nas mãos erradas... é, uh... mortal... espere, deixe-me começar de novo.}
@@ -137,26 +137,26 @@
 {476}{}{Esqueça. Vá brincar com seus amigos.}
 {485}{}{Sim, insetos de metal! Vimos um quando estávamos no deserto! Era tão grande... (respira fundo.) ... tão grande quanto
  uma CASA! Não havia PESSOAS de metal nele.}
-{486}{}{Really! Wow! Where did you see it?}
-{487}{}{You're lying!}
-{488}{}{I don't believe you. You're lying.}
-{489}{}{You better go easy on the Jet, kid. That stuff'll kill you. Later.}
-{490}{}{Really? That's amazing. I may have to go out there sometime and see for myself. Bye.}
-{500}{}{In th' desert. (Squints at you suspiciously.) It's probably not there anymore, though.}
-{501}{}{Are you sure you wouldn't want to show it to me anyway?}
-{502}{}{Can you show me where you saw it anyway?}
-{503}{}{Oh, okay. See you, then.}
-{510}{}{In th' desert. (Glances around, starts whispering.) A bunch of us are going out there when it gets REALLY dark. }
-{511}{}{In th' desert. (Glances around, starts whispering.) A bunch of us are going out there tonight. }
-{513}{}{I'm never quiet when I come. But just this once...}
-{514}{}{I'll be quiet. Lead on, MacDuff.}
-{515}{}{Uh, I don't think you'll be seeing that 'metal insect' anymore. It was actually a helicopter.}
-{516}{}{Not tonight, thanks. Early day tomorrow.}
-{530}{}{Hunh? (Frowns and adjusts the pot on his head.) What's a hello-copter?}
-{531}{}{It's a... flying machine. It can hold people and stuff inside.}
-{532}{}{A helicopter is... I guess the closest approximation you'd be familiar with is 'automobile.' A helicopter is like
- an automobile that's able to rise off the ground and hover through the use of vertically rotating blades. The helicopter's
- engine spins the blades so fast it keeps it aloft. Isn't that incredible?}
+{486}{}{Sério! Uau! Onde você viu isso?}
+{487}{}{É mentira!}
+{488}{}{Eu não acredito em você. Você está mentindo.}
+{489}{}{É melhor você pegar leve no Jet, garoto, esse negócio pode matar. Até mais.}
+{490}{}{Sério? Isso é incrível. Talvez eu precise ir lá e ver com meus próprios olhos. Tchau.}
+{500}{}{No deserto. (Olha para você desconfiado.) Mas acho que provavelmente não está mais lá.}
+{501}{}{Tem certeza de que não gostaria de me mostrar de qualquer maneira?}
+{502}{}{De qualquer forma, você pode me mostrar onde viu?}
+{503}{}{Oh, tudo bem. Vejo voce por ai.}
+{510}{}{No deserto. (Olha ao redor, começa a sussurrar.) Um grupo de nós está indo para lá quando fica MUITO escuro. }
+{511}{}{No deserto. (Olha ao redor, começa a sussurrar.) Um grupo de nós vai lá esta noite.}
+{513}{}{Eu nunca fico parado quando vou. Mas desta vez...}
+{514}{}{Eu vou ficar quieto. Vamos, MacDuff.}
+{515}{}{Uh, eu não acho que você vai ver aquele 'inseto de metal' mais. Na verdade, era um helicóptero.}
+{516}{}{Não esta noite, obrigado. Amanhã cedo.}
+{530}{}{Hum? (Faz uma careta e ajeita o pote na cabeça.) O que é um helicóptero?}
+{531}{}{É uma... máquina voadora. Pode conter pessoas e coisas dentro.}
+{532}{}{Um helicóptero é... Acho o mais próximo que você está familiarizado é 'automóvel'. Um helicóptero é como um automóvel
+ capaz de se erguer do chão e pairar usando lâminas rotativas verticais. O motor do helicóptero gira as pás tão rápido
+ que o mantém no ar. Não é incrível?}
 {533}{}{Nevermind. Just don't go wandering around outside of town again. It could get you killed.}
 {540}{}{I'm NOT lying! We SAW it in the desert! (He glares at you sullenly.)}
 {541}{}{Hmmm. Maybe you ARE telling the truth. Can you show me where you saw it?}
