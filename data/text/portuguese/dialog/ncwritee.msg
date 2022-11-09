@@ -20,33 +20,33 @@
 {208}{}{Eles iam jogar um novo VÍRUS no ar? Que merda. Espero que você tenha atirado em alguns para mim.}
 {209}{}{Achei que o presidente era um mito, um bicho papão usado para assustar as crianças.}
 {210}{}{Parece que você visitou o inferno e voltou. Relaxe um pouco, você merece isso.}
-{211}{}{You gonna replay the game as a different character? I recommend an Outdoorsman type.}
-{212}{}{F.E.V.? What's that?}
-{213}{}{New Reno was designed by Chris Avellone and scripted by Tom French. Tom plays in a band. Chris plays with himself.}
-{214}{}{I hope I get to be a major character in Fallout 3, like Tandi or Ian. Bein' a thug sucks.}
-{215}{}{Heard you busted up that Enclave down South. You're pretty brave.}
+{211}{}{Você vai jogar de novo com um personagem diferente? Eu recomendo um do tipo sobrevivente.}
+{212}{}{F.E.V.? O que é isso?}
+{213}{}{New Reno foi desenhada por Chris Avellone e roteirizado por Tom French. Tom toca em uma banda. Chris toca sozinho mesmo.}
+{214}{}{Queria ser um personagem importante em Fallout 3, como Tandi ou Ian. Ser bandido é uma merda. Menos no Brasil, lá você vira presidente.}
+{215}{}{Ouvi dizer que você destruiu aquela Enclave no sul. Você é bem corajoso.}
 {225}{}{Como você usa o banheiro com isso?}
-{230}{}{Keep that weapon outta sight around the youngsters, okay?}
-{231}{}{Don't be flashin' that weapon 'round the youngsters, okay?}
-{235}{}{You nearly scart the devil outta me, sneakin' around like that!}
-{236}{}{Why're you skulkin' around like that?}
-{237}{}{Whoa! Stop tryin' ta make like a shadow... I almost shot you, fer Chrissakes! Sheesh.}
+{230}{}{Mantenha essa arma fora da vista dos jovens, ok?}
+{231}{}{Não fique mostrando essa arma por perto dos jovens, ok?}
+{235}{}{Você me deu um puta de um susto se esgueirando assim!}
+{236}{}{Por que você está se escondendo assim?}
+{237}{}{Uau! Pare de tentar parecer uma sombra... Eu quase atirei em você, pelo amor de Deus! Porra.}
 {240}{}{Saudações, }
-{241}{}{Damn hot, innit,}
+{241}{}{Maldito calor esses dias.}
 {242}{}{Saudações, }
 {245}{}{É um dos }
 {250}{}{É um dos }
 {255}{}{É um dos }
-{260}{}{Get outta here, 'fore we fill you full of holes!}
-{261}{}{Get outta here! You n' yer family ain't welcome here!}
-{265}{}{Drop the weapon, slaver, or we'll shoot!}
-{270}{}{What th' hell you sneakin' around for? You lookin' to get shot, slaver?}
-{275}{}{Drop the weapon! Now!}
-{276}{}{Put that weapon down, or we'll shoot!}
-{277}{}{Put that weapon away, or we'll shoot!}
-{280}{}{What're you sneakin' around for? That'll get you shot.}
-{281}{}{What th' hell... er, heck, you sneakin' around for? You lookin' to get shot?}
-{285}{}{Is that some kind of slot machine that's followin' you around?}
+{260}{}{Saia daqui, antes de te enchermos de buracos!}
+{261}{}{Saia daqui! Você e sua família não são bem-vindos aqui!}
+{265}{}{Largue a arma, escravista, ou vamos atirar!}
+{270}{}{Por qual motivo você fica se esgueirando por aí? Quer levar um tiro, escravista?}
+{275}{}{Largue a arma! Agora!}
+{276}{}{Abaixe essa arma, ou vamos atirar!}
+{277}{}{Guarde essa arma, ou vamos atirar!}
+{280}{}{Por que você está se esgueirando? Vai fazer você levar um tiro.}
+{281}{}{Mas que po.. er, por que você está se esgueirando por aí? Quer levar um tiro?}
+{285}{}{Isso é algum tipo de máquina caça-níqueis que está seguindo você?}
 {286}{}{Isso é um robô caça-níqueis?}
 {287}{}{Is that a brain inside that robot thing? Yechhh.}
 {288}{}{That some kind of rovin' brain display case you got with you?}
