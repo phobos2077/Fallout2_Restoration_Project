@@ -1,19 +1,19 @@
 {100}{}{Você chegou em uma planície desértica fora de New Reno.}
 {110}{}{Você vê várias caixas repletas de produtos químicos.}
-{120}{}{You see several crates filled with chemicals. You can't identify the chemicals,
- but they have been packed VERY carefully.}
+{120}{}{Você vê várias caixas cheias de produtos químicos. Você não pode identificar
+ os produtos, mas eles foram embalados com muito cuidado.}
 {130}{}{Você vê um Vertibird.}
-{140}{}{You see a Vertibird... an advanced form of helicopter. Unfortunately, you have no
- idea how to operate it.}
-{150}{}{You have no idea how to operate it.}
+{140}{}{Você vê um Vertibird... uma forma avançada de helicóptero. Infelizmente, você não
+ tem ideia de como operá-lo.}
+{150}{}{Você não tem ideia de como operá-lo.}
 {200}{}{(Esses caras me dão arrepios...)}
 {201}{}{(Cala a boca. Lá vêm eles.)}
 {202}{}{*Zztttt* Você tem a carga que pedimos? *Zzzttt*}
-{203}{}{Yes, the chemicals are all here. You can check them if you like.}
+{203}{}{Sim, os produtos químicos estão todos aqui. Você pode verificá-los se quiser.}
 {204}{}{*Zztttt* Isso não será necessário. *Zzzttt*}
-{205}{}{*Zztttt* You know what will happen if the chemicals do not meet the specifications
- we requested. *Zzzttt*}
-{206}{}{Right, of course. Uh, and you brought the lightbringers...?}
+{205}{}{*Zztttt* Você sabe o que acontecerá se os produtos químicos não atenderem as
+ especificações que solicitamos. *Zzzttt*}
+{206}{}{Certo, claro. Uh, e você trouxe os iluminadores...?}
 {207}{}{*Zztttt* As armas a laser estão em nosso compartimento de carga. *Zzzttt**}
 {208}{}{*Zztttt* To ensure your cooperation, we will transmit the arming sequence for them
  once the chemicals are loaded. *Zzzttt*}

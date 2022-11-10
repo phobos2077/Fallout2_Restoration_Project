@@ -1,102 +1,102 @@
-{100}{}{Welcome to New Reno, the biggest little town in the world. Trashcan fires
- and neon signs bathe the city in a hellish glow.}
-{101}{}{Before you is a dreary plain spotted with graves. Bloodied poles jut from the
- earth with the remains of dead bodies tied to them.}
-{102}{}{This looks like an old electrical pre-war charging station. A graveyard of
- stripped cars surrounds the buildings.}
-{103}{}{You have come to the Stables. A new chainlink fence surrounds the two farm
- section entrances.}
-{150}{}{[PREVIOUS]}
+{100}{}{Bem vindo a New Reno, a maior cidadezinha do mundo. Latas de lixo e
+ letreiros de neon banham a cidade com um brilho infernal.}
+{101}{}{Diante de você está uma planície sombria tomada de sepulturas. Postes
+ ensanguentados se projetam da terra com os restos de cadáveres amarrados a eles.}
+{102}{}{Isso parece um antigo posto de gasolina de antes da guerra. Um cemitério
+ de carros abandonados cerca os prédios.}
+{103}{}{Você veio para os estábulos. Uma nova cerca de arame envolve as duas entradas
+ da fazenda.}
+{150}{}{[ANTERIOR]}
 {151}{}{[MAIS]}
 {201}{}{Salvatore}
 {202}{}{Bishop}
 {203}{}{Mordino}
 {204}{}{Wright}
 {221}{}{Salvatore's}
-{222}{}{the Shark Club}
-{223}{}{the Desperado}
+{222}{}{O Clube Tubarão}
+{223}{}{O Desperado}
 {224}{}{}
 {300}{}{}
-{301}{}{Whisper}
-{302}{}{Spider}
-{303}{}{Measle}
-{304}{}{Teacher}
-{305}{}{Mover}
-{306}{}{Bull}
-{307}{}{Skipper}
-{308}{}{Shush}
-{309}{}{Lefty}
-{310}{}{Righty}
-{311}{}{Eyebrows}
+{301}{}{Sussurrador}
+{302}{}{Aranha}
+{303}{}{Sarampo}
+{304}{}{Professor}
+{305}{}{Deslocador}
+{306}{}{Touro}
+{307}{}{Capitão}
+{308}{}{Silenciador}
+{309}{}{Canhotinha}
+{310}{}{Direitinha}
+{311}{}{Sobrancelha}
 {312}{}{Tornado}
-{313}{}{Moulty}
-{314}{}{Monkey Boy}
+{313}{}{Molhada}
+{314}{}{Argentino}
 {315}{}{Lumpy}
-{316}{}{Mitts}
+{316}{}{Mãozinha}
 {317}{}{Gooch}
-{318}{}{Meat Cleaver}
+{318}{}{Carniceiro}
 {319}{}{Brocco}
-{320}{}{Two-Times}
+{320}{}{Duas-Vezes}
 {321}{}{Romeo}
 {322}{}{Vinnie}
 {323}{}{Rook}
-{324}{}{Silencer}
-{325}{}{Hammer}
-{326}{}{Knuckles}
-{327}{}{Bender}
-{328}{}{Grocer}
-{329}{}{Snake Eyes}
-{330}{}{Wolf}
-{331}{}{Hatchetman}
+{324}{}{Silenciador}
+{325}{}{Martelo}
+{326}{}{Porrada}
+{327}{}{Dobrador}
+{328}{}{Marceneiro}
+{329}{}{Olhos de Cobra}
+{330}{}{Furrie}
+{331}{}{Machado}
 {332}{}{Smiley}
-{333}{}{Fats}
-{334}{}{Pearl}
+{333}{}{Gordola}
+{334}{}{Pérola}
 {335}{}{Reno Jimmy}
 {336}{}{Jade}
-{337}{}{Scarface}
-{338}{}{Diamond}
-{339}{}{Ace}
-{340}{}{One-Eyed Jack}
+{337}{}{Retalho}
+{338}{}{Diamante}
+{339}{}{Ace Ventura}
+{340}{}{Jack Caolho}
 {341}{}{Nikki}
-{342}{}{Iceman}
+{342}{}{Gelado}
 {343}{}{Sly}
-{344}{}{Slick}
+{344}{}{Liso}
 {345}{}{Charlie}
-{346}{}{Opium}
-{347}{}{Dagger}
-{348}{}{Angel-Eyes}
-{349}{}{Fixer}
-{350}{}{Shark}
-{351}{}{Hound}
-{352}{}{Reverend}
+{346}{}{Opio}
+{347}{}{Punhal}
+{348}{}{Olhos de Anjo}
+{349}{}{Consertador}
+{350}{}{Turabão}
+{351}{}{Cão de Caça}
+{352}{}{Silas Malafaia}
 {353}{}{Magnum}
 {354}{}{Iceberg}
 {355}{}{Gina}
 {356}{}{Vicki}
-{357}{}{Chase}
-{358}{}{Guillotine}
-{359}{}{Frost}
+{357}{}{Perseguidor}
+{358}{}{Guilhotina}
+{359}{}{Geada}
 {360}{}{Valentino}
-{361}{}{Coffinmaker}
-{362}{}{Little Joe}
-{363}{}{Ice Queen}
-{364}{}{Switch}
+{361}{}{Coveiro}
+{362}{}{Ze Pikeno}
+{363}{}{Rainha do Gelo}
+{364}{}{Interruptor}
 {365}{}{Bucks}
 {366}{}{Chips}
-{367}{}{Lucky}
-{368}{}{Saint}
-{369}{}{Numbers}
+{367}{}{Sortudo}
+{368}{}{Santo}
+{369}{}{Números}
 {370}{}{Mantis}
 {371}{}{Scorpio}
-{372}{}{Fat Man}
+{372}{}{Jubarte}
 {373}{}{Sam}
-{374}{}{Blue Lou}
-{375}{}{Tommy the Gun}
-{376}{}{Crazy Jane}
-{377}{}{Widow}
-{378}{}{Trashman}
-{379}{}{Nine Inch Nick}
-{380}{}{Rainmaker}
+{374}{}{Bola Azul}
+{375}{}{Tommy Metralha}
+{376}{}{Jane a Louca}
+{377}{}{Viuva}
+{378}{}{Lixeiro}
+{379}{}{Nine Inch Nails}
+{380}{}{Encanador}
 {381}{}{Rei}
 {382}{}{Assassino}
 {383}{}{Santana}
@@ -279,7 +279,7 @@
 {585}{}{Ruby Red}
 {586}{}{Christie Chipps}
 {587}{}{Lisa Lix}
-{588}{}{Opium}
+{588}{}{Opio}
 {589}{}{Gatinha braba}
 {590}{}{Lady Chatterfly}
 {591}{}{Sayuri Mattar}
@@ -295,7 +295,7 @@
 {701}{}{Tony Gunn}
 {702}{}{Mark "Aço" Torrance}
 {703}{}{Crissie Tiro Certo}
-{704}{}{Spider}
+{704}{}{Aranha}
 {705}{}{Slim}
 {706}{}{Doce Jones}
 {707}{}{Il Roche}
@@ -315,12 +315,12 @@
 {751}{}{Pete McKneely}
 {752}{}{Evan Holyfeld}
 {753}{}{O Mastigador}
-{1000}{}{Jules leads you into the wrecked city blocks surrounding New Reno. You don't think you could have found
- this place on your own. Soon after you arrive, Jules vanishes.}
+{1000}{}{Jules leva você aos quarteirões destruídos que cercam New Reno. Você não acha que poderia ter encontrado este lugar
+ sozinho. Logo depois que você chega, Jules desaparece.}
 {1100}{}{A trilha leva você aos quarteirões destruídos que cercam New Reno.}
 {1200}{}{Você descobre uma pequena caixa de metal. Você não o teria encontrado se não estivesse procurando por ele.}
-{1300}{}{Cody leads you into the wrecked city blocks surrounding New Reno, then runs back the way he came. You
- don't think you could have found this place on your own.}
+{1300}{}{Cody leva você para os quarteirões destruídos da cidade ao redor de New Reno, depois corre de volta pelo caminho
+ que ele veio. Você não acha que poderia ter encontrado este lugar sozinho.}
 {1400}{}{Você derrotou seu primeiro desafiante.}
 {1401}{}{Você derrotou seu segundo desafiante.}
 {1402}{}{Você derrotou seu terceiro desafiante.}
