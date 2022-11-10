@@ -102,13 +102,13 @@
 {366}{}{Nós, Wrights, somos a família mais forte porque SOMOS família.}
 {367}{}{Uma lastima o que aconteceu com meu irmãozinho. Ele era um bom garoto, mas o jet está por toda a cidade, difícil de evitar...}
 {368}{}{Papai disse que nos estrangularia se soubesse que pegamos jet.}
-{369}{}{Dad's still upset, so be careful when you talk to him, you hear?}
+{369}{}{Papai ainda está chateado, então tome cuidado ao falar com ele, ouviu?}
 {370}{}{Chris vai levar uma surra se continuar entrando no bordel.}
 {371}{}{Desgraça de calor...}
 {372}{}{Keith desmontou o piano na semana passada e o montou novamente. Garoto esperto.}
 {373}{}{Vamos caçar radscorpions dentro de alguns dias.}
-{374}{}{Are you REALLY talkin' to God when you're havin' sex on stage?}
-{375}{}{Mom says yer a tool of the devil.}
+{374}{}{Você REALMENTE fala com Deus quando está transando no palco?}
+{375}{}{Mamãe diz que você é uma ferramenta do diabo.}
 {376}{}{Mom says yer a harlot. A brazen strumpet. I have no idea what's she goin' on about.}
 {385}{}{You planning to see Dad about business? Well, good luck, I don't think he's hiring any hands now.}
 {386}{}{If you're lookin' for alcohol, the train station is the place to be. }
