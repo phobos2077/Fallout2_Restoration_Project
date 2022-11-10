@@ -15,25 +15,25 @@
  especificações que solicitamos. *Zzzttt*}
 {206}{}{Certo, claro. Uh, e você trouxe os iluminadores...?}
 {207}{}{*Zztttt* As armas a laser estão em nosso compartimento de carga. *Zzzttt**}
-{208}{}{*Zztttt* To ensure your cooperation, we will transmit the arming sequence for them
- once the chemicals are loaded. *Zzzttt*}
+{208}{}{*Zztttt* Para garantir a sua cooperação, transmitiremos a sequência de armamento
+ para eles assim que os produtos químicos forem carregados. *Zzzttt*}
 {209}{}{Uh... bem... tudo bem então. Carreguem ela, garotos --}
 {210}{}{*Zztttt* Não. *Zzzttt*}
-{211}{}{*Zztttt* We will load the cargo. *Zzzttt*}
-{212}{}{Uh, right... right. Of course. Give them room, boys.}
-{213}{}{All right; we're good here. The rest of you guards head back to Reno. We'll meet up with you.}
+{211}{}{*Zztttt* Vamos carregar a mercadoria. *Zzzttt*}
+{212}{}{Certo... certo. É claro. Deem um espaço, rapazes.}
+{213}{}{Tudo bem; estamos bem aqui. O resto de vocês, guardas, voltem para Reno. Nós nos encontraremos com você.}
 {250}{}{Olhem! Tem alguém nos espionando!}
 {251}{}{Matem eles!}
 {252}{}{Parece que temos um espião...!}
-{253}{}{*Zztttt* Mission aborted. Cargo failsafe sequence engaged. *Zzzttt*}
-{254}{}{*Zztttt* Terminate hostiles, then return to base. *Zzzttt*}
+{253}{}{*Zztttt* Missão abortada. Sequência de carregamento comprometida. *zzzztt*}
+{254}{}{*Zztttt* Acabe com os inimigos e retorne à base. *Zzzttt*}
 {300}{}{Não chegue perto daqueles caras de armadura. Eles podem te partir no meio.}
 {301}{}{Volte para a posição.}
-{302}{}{Stop twitching... those armored guys don't like it much.}
+{302}{}{Pare de se mexer... esses caras blindados não gostam muito disso.}
 {350}{}{Merda! O que você está fazendo, imbecil?!}
-{351}{}{Get back to your post! What the hell are you do --?!}
-{352}{}{*Zztttt* Mission aborted. Cargo failsafe sequence engaged. *Zzzttt*}
-{353}{}{*Zztttt* Terminate hostiles, then return to base. *Zzzttt*}
+{351}{}{Volte para sua posição! O que diabos você pensa que está fazendo -?!}
+{352}{}{*Zztttt* Missão abortada. Sequência de carregamento comprometida. *zzzztt*}
+{353}{}{*Zztttt* Acabe com os inimigos e retorne à base. *Zzzttt*}
 {400}{}{[Parece que tem uma porta. Abrir e embarcar?]}
 {401}{}{Aham}
 {402}{}{Cai fora}
