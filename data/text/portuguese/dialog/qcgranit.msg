@@ -1,33 +1,33 @@
-{100}{}{You see a trooper wearing Enclave power armor.}
-{101}{}{You see Sergeant Granite.}
-{102}{}{You see a trooper with sergeant's chevrons on his shoulder.}
-{103}{}{Let's get that lunatic.}
-{104}{}{Yeah, lemme at 'im!}
-{105}{}{Lock and load. Let's go!}
-{106}{}{Ready to rock.}
-{107}{}{Let's take that freak down!}
-{108}{}{Slag 'im.}
+{100}{}{Você vê um soldado vestindo uma power armor da Enclave.}
+{101}{}{Você vê o sargento Granite.}
+{102}{}{Você vê um soldado com insígnias de sargento no ombro.}
+{103}{}{Vamos pegar aquele lunático.}
+{104}{}{Sim, deixe eu ir com ele!}
+{105}{}{Pronta e carregada. Vamos lá!}
+{106}{}{Pronto para dançar.}
+{107}{}{Vamos derrubar esse maluco!}
+{108}{}{É melhor chamar o Saul.}
 {109}{}{Eu estou bem para ir.}
 {110}{}{Vamos arrasar!}
-{111}{}{I'm gonna light that freak up!}
-{112}{}{I don't take to killing idjits.}
-{113}{}{You can go.}
-{114}{}{I didn't see nuthin'.}
-{115}{}{These are not the droids we are looking for.}
+{111}{}{Eu vou fuzilar essa aberração!}
+{112}{}{Não gosto de matar idiotas.}
+{113}{}{Você pode ir.}
+{114}{}{Eu não vi nada.}
+{115}{}{Estes não são os androides que estamos procurando.}
 {116}{}{Mova-se.}
-{117}{}{I'm tired of the killing.}
-{118}{}{Go on, get!}
-{119}{}{Stand easy, lads.}
-{120}{}{Watch yourself out there, mutie.}
-{121}{}{Good luck, mutant. You're gonna need it.}
-{122}{}{Halt! What are you doing here?}
-{123}{}{I'm trying to get back to my people.}
+{117}{}{Estou cansado de matar.}
+{118}{}{Vai, adiante!}
+{119}{}{Fiquem tranquilos, rapazes.}
+{120}{}{Cuidado lá fora, mutante.}
+{121}{}{Boa sorte, mutante. Você vai precisar.}
+{122}{}{Pare! O que você está fazendo aqui?}
+{123}{}{Estou tentando voltar para o meu povo.}
 {124}{}{Não é da sua conta.}
-{125}{}{I don't have time for your questions.}
-{126}{}{Just who are you?}
-{127}{}{Well, you know that freak, Agent Horrigan, just stormed past here. He's waiting for someone to try and make a break for it.}
-{128}{}{Who's that?}
-{129}{}{I think you're wrong on that one. Let's just say I'm making it my business. Now, just what the hell are you doing here?}
+{125}{}{Não tenho tempo para suas perguntas.}
+{126}{}{Quem é você?}
+{127}{}{Bem, você sabe que a aberração, Agente Horrigan, acabou de passar por aqui. Ele está esperando por alguém para o atacar.}
+{128}{}{Quem é?}
+{129}{}{Acho que você está errado quanto a isso. Digamos que estou cuidando da minha vida. E agora, o que você está fazendo aqui?}
 {130}{}{I'm trying to get back to the boat so I can escape with my tribe.}
 {131}{}{Well, you just better make time.}
 {132}{}{Why? What do you mean?}

@@ -28,6 +28,7 @@
 {270}{}{You're back. Did you discover anything about the lost spirit?}
 {271}{}{I'm working on it. I'll get back to you.}
 {272}{}{I spoke to--er, listened to--the spirit. It seems she was betrayed and murdered by her lover, someone named Thorg.}
+{280}{}{Thorg?! He was the shaman that I served as an apprentice under. Wow, I knew he was a bit of an asshole, but I didn't take him for a slayer of pretty young girls. Hmm, I suppose a guilty conscience helps to explain that drunken midnight swim that lead to his death. So Thorg is a murderer... how 'bout that...}
 {280}{}{Thorg?! He was the shaman that I served as an apperceive under. Wow, I knew he was a bit of an asshole, but I didn't take him for a slayer of pretty young girls. Hmm, I suppose a guilty conscience helps to explain that drunken midnight swim that lead to his death. So Thorg is a murderer... how 'bout that...}
 {281}{}{So what now?}
 {290}{}{[Heavy sigh.] Now I suppose I have to send her into the mists. I think I'll be able to do it, but I need you to come with me. There's just no way I'd be able to face her alone and none of the others in the village will go--they believe it's an ill omen for a non-shaman to encounter a lost spirit.}

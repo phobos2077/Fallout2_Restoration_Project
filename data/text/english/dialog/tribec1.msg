@@ -118,7 +118,7 @@
 
 #trader meeting quest
 {340}{}{[He looks you over, seeming to consider something for a moment.] I'm to meet with one of them damned civilized
- trader's soon -- a pudgy one-eyed dog of a man, who I trust about as much as a starving radscorpion. He's not wronged us
+ traders soon -- a pudgy one-eyed dog of a man, who I trust about as much as a starving radscorpion. He's not wronged us
  yet, but I've got a feeling about our next meeting.}
 {341}{}{Why's that?}
 {342}{}{I don't see how I fit into this. What's your point?}
