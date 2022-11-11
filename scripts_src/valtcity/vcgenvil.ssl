@@ -130,7 +130,7 @@ procedure map_enter_p_proc begin
       if (global_var(GVAR_QUEST_VAULT_VILLAGE) >= VILLAGE_QUEST_FINISHED_DIPLOMATIC) or (global_var(GVAR_QUEST_VAULT_VILLAGE) == VILLAGE_QUEST_DELIVERED_GUNS) then begin
       //if ( ((global_var(GVAR_VAULT_SERVANT) == 3) and (global_var(GVAR_VAULT_VILLAGE) != 4) and ((game_time - global_var(GVAR_SERVANT_RAID_DATE)) >= ONE_GAME_MONTH) ) or (global_var(GVAR_VAULT_SERVANT) == 4)) then begin
          if (local_var(LVAR_Home_Tile) == 21315) then
-            critter_attempt_placement(self_obj, 23086, dude_elevation);
+            critter_attempt_placement(self_obj, 21487, dude_elevation);
          else if (local_var(LVAR_Home_Tile) == 20502) then
             critter_attempt_placement(self_obj, 22102, dude_elevation);
          else if (local_var(LVAR_Home_Tile) == 19499) then
