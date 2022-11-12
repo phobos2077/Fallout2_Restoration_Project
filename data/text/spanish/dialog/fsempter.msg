@@ -243,11 +243,11 @@ Advertencia! Ascendente a CIN el centro de Pekín servidor no esté disponible. 
 {410}{}{De: centro de Comando de Todas las fuerzas en la posición. La transmisión de confirmación final
  códigos. Operación Youmíng se vaya.}
 {411}{}{::volver::}
-{420}{}{El escaneo de medios de comunicación... PLA CentCom... sin conexión
- CIN de Beijing... sin conexión
- SSC Naval Yard... sin conexión
- SCA Eastern Dragon.. sin conexión
- Advertencia: No hay conexión con el exterior sirve podría ser hecho.}
+{420}{}{Scanning communication outlets...                                    PLA CentCom...		offline
+                                                CIN Beijing...		offline
+                                                   SSC Naval Yard...	offline
+                                              SCA Eastern Dragon..	offline
+                                        Warning: No connection to external servers could be made.}
 {421}{}{Que decepcionante...}
 {430}{}{Escaneado de unidades locales...}
 {431}{}{[CONTINUAR]}
@@ -284,9 +284,9 @@ Advertencia! Ascendente a CIN el centro de Pekín servidor no esté disponible. 
  son bajos y no hay suficiente de ellos para todo. La tripulación es cada vez más inquietos.}
 {501}{}{Leer en.}
 {502}{}{::volver::}
-{510}{}{2077-11-08: El Emperador está de vuelta en línea, pero apenas. Todavía no tenemos la navegación y la tripulación está a punto de
- motín - he tenido que parar dos marineros de golpear a Jing. La situación es grave. A menos que la superficie en los próximos días,
- Me temo que vamos a matar unos a otros.}
+{510}{}{2077-11-08: The Emperor is back online, but barely. We still have no navigation and the crew is on the verge of
+ mutiny - I had to stop two sailors from beating up Jing. The situation is dire. Unless we surface in the next few days,
+ I fear we will kill each other.}
 {511}{}{Leer en.}
 {512}{}{::volver::}
 {520}{}{2077-11-12: ¡por fin! Nos encalló en la bahía de San Francisco. Los marineros fueron regocijo hasta que abra la

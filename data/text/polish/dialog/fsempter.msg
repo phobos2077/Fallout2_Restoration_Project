@@ -213,12 +213,11 @@
 {401}{}{::wróć::}
 {410}{}{Od: Dowództwa Głównego                                          Wszystkie formacje na pozycjach. Przesyłam ostateczne kody zatwierdzające. Rozpocząć operację Youmíng.}
 {411}{}{::wróć::}
-{420}{}{Szukanie nadajników komunikacyjnych...
-                                   PLA CentCom...               niedostępny
-                           CSW Pekin...                   niedostępny
-                           SSC Port Marynarki...       niedostępny
-                           SCA Wschodni Smok...        niedostępny
-               Uwaga: Nie można nawiązać połączenia z żadnym z zewnętrznych serwerów.}
+{420}{}{Scanning communication outlets...                                    PLA CentCom...		offline
+                                                CIN Beijing...		offline
+                                                   SSC Naval Yard...	offline
+                                              SCA Eastern Dragon..	offline
+                                        Warning: No connection to external servers could be made.}
 {421}{}{To dopiero rozczarowanie...}
 {430}{}{Skanowanie dysków lokalnych...}
 {431}{}{[KONTYNUUJ]}
@@ -246,7 +245,9 @@
 {500}{}{2077-11-04: Dryfujemy już od kilku dni. Jingowi udało się częściowo przywrócić zasilanie systemów pokładowych, więc powinniśmy mieść dość tlenu żeby przetrwać kilka tygodni. Teraz bardziej martwię się o jedzenie i wodę - mamy mało zapasów i nie wystarczy ich dla wszystkich. Załoga robi się niespokojna.}
 {501}{}{Czytaj dalej.}
 {502}{}{::wróć::}
-{510}{}{2077-11-08: Cesarz znowu działa, ale ledwie. Ciągle nie mamy nawigacji, a załoga jest na krawędzi - musiałem powstrzymać dwóch marynarzy przed pobiciem Jinga. Sytuacja jest rozpaczliwa. Jeżeli nie wynurzymy się w ciągu kilku następnych dni, obawiam się, że się pozabijamy.}
+{510}{}{2077-11-08: The Emperor is back online, but barely. We still have no navigation and the crew is on the verge of
+ mutiny - I had to stop two sailors from beating up Jing. The situation is dire. Unless we surface in the next few days,
+ I fear we will kill each other.}
 {511}{}{Czytaj dalej.}
 {512}{}{::wróć::}
 {520}{}{2077-11-12: Nareszcie! Wpłynęliśmy na bieliznę w zatoce San Francisco. Marynarze cieszyli się dopóki nie otworzyliśmy włazów. Miasto jest zniszczone, spustoszone przez burze ogniowe i radioaktywny opad. Wysłałem na brzeg grupy które mają znaleźć miejsce na obóz. Jak do tej pory, żadna nie zgłosiła takiej lokacji. }
