@@ -9,7 +9,7 @@
 {156}{}{You don't see anything unusual about him.}
 {157}{}{You don't see anything unusual about her.}
 {200}{}{Get away from me!}
-{201}{}{Leave me alone!}
+{201}{}{Lämna mig ifred!}
 {202}{}{Don't touch me!}
 {203}{}{Stop it!}
 {204}{}{What are you doing?}

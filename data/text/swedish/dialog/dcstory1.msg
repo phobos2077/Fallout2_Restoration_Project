@@ -3,7 +3,7 @@
 {102}{}{She's very beautiful, but seems to be lost in thought.}
 {103}{}{Stop it!}
 {104}{}{Why are you doing this?}
-{105}{}{Leave me alone!}
+{105}{}{Lämna mig ifred!}
 {106}{}{Please stop!}
 {107}{}{You murderer!}
 {108}{}{How could you do that to Becky!}

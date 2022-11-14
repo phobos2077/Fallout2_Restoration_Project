@@ -8,7 +8,7 @@
  an effort to get along with you.}
 {107}{}{What do you want to know?}
 {108}{}{Who you?}
-{109}{}{What you do?}
+{109}{}{Vad du gör?}
 {110}{}{What this place?}
 {111}{}{Why room made no sound?}
 {112}{}{Why D'claw in other room?}
