@@ -243,11 +243,11 @@ Aviso! Subindo para CIN, o servidor central de Pequim não está disponível. Re
 {410}{}{De: Comando Central                                            Todas as forças em posição. Transmitindo códigos finais
  de confirmação. A Operação Youmíng está pronta.}
 {411}{}{::voltar::}
-{420}{}{Scanning communication outlets...                                    PLA CentCom...		offline
-                                                CIN Beijing...		offline
-                                                   SSC Naval Yard...	offline
-                                              SCA Eastern Dragon..	offline
-                                        Warning: No connection to external servers could be made.}
+{420}{}{Verificando canais de comunicação...                                    PLA CentCom...  offline
+                                                CIN Beijing...  offline
+                                                   SSC Naval Yard... offline
+                                              SCA Eastern Dragon.. offline
+                                        Aviso: Nenhuma conexão com servidores externos pôde ser feita.}
 {421}{}{Que decepcionante...}
 {430}{}{Verificando unidades locais...}
 {431}{}{[CONTINUAR]}
@@ -284,9 +284,9 @@ Aviso! Subindo para CIN, o servidor central de Pequim não está disponível. Re
  estão baixos e não há o suficiente para todos. A tripulação está ficando agitada.}
 {501}{}{Leia.}
 {502}{}{::voltar::}
-{510}{}{2077-11-08: The Emperor is back online, but barely. We still have no navigation and the crew is on the verge of
- mutiny - I had to stop two sailors from beating up Jing. The situation is dire. Unless we surface in the next few days,
- I fear we will kill each other.}
+{510}{}{08-11-2077: O imperador está de volta à linha, mas mal. Ainda não temos navegação e a tripulação está prestes a
+ causar um motim - Impedi que dois marinheiros batessem no Jing. A situação é terrível. A menos que subamos à superfície nos próximos dias,
+ temo que iremos nos matar.}
 {511}{}{Leia.}
 {512}{}{::voltar::}
 {520}{}{2077-11-12: Finalmente! Encalhamos na baía de São Francisco. Os marinheiros estavam alegres até que abrimos as 

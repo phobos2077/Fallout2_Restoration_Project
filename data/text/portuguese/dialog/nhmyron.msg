@@ -89,63 +89,63 @@
 {471}{}{Ooooooohhh. Aaaaaaaah. Mmmmmm.}
 {472}{}{Eu adoro quando você faz isso.}
 {473}{}{As drogas me fazem sentir... pixealizado.}
-{485}{}{Hey, don't use that shit on me! Save it for addicts!}
-{486}{}{Look, I don't want to fly, and you don't either. Bury that shit somewhere.}
-{487}{}{Why don't you give that shit to ol' Bone-nose?}
-{495}{}{Why don't you give that shit to ol' Marcus?}
-{496}{}{Hey, don't use that shit on me! Save it for addicts!}
-{497}{}{Man, I don't want to fly and you don't either. Bury that shit somewhere.}
-{498}{}{Why don't you give that shit to ol' Lenny?}
-{505}{}{All right, all right. I'm on it.}
-{506}{}{Stand back, idiot. I'll figure it out.}
-{507}{}{This looks simple. Stand back, all right?}
+{485}{}{Ei, não use essa merda comigo! Deixe para os viciados!}
+{486}{}{Olha, eu não quero chapar, e você também não. Guarda essa merda em algum lugar.}
+{487}{}{Por que você não dá essa merda para o nosso amigão com osso no nariz?}
+{495}{}{Por que você não dá essa merda para o velho Marcus?}
+{496}{}{Ei, não use essa merda comigo! Deixe para os viciados!}
+{497}{}{Cara, eu não quero chapar e você também não. Guarde essa merda em algum lugar.}
+{498}{}{Por que você não dá essa merda para o velho Lenny?}
+{505}{}{Tudo bem. Eu estou trabalhando nisso.}
+{506}{}{Afaste-se, idiota. Eu vou verificar.}
+{507}{}{Isso parece simples. Saia do caminho, ok?}
 {508}{}{Não há problema.}
-{509}{}{Time for the ol' 'magic fingers' routine...}
+{509}{}{Hora da velha rotina dos velhos 'dedos mágicos'...}
 {515}{}{Bingo!}
 {516}{}{Eureka!}
-{517}{}{Fuckin' Ay!}
-{518}{}{Myron does it again. Crowd goes wild!}
-{519}{}{Hey, I found something.}
-{520}{}{All done. Fineto.}
-{521}{}{Easier than riding a bicycle. Or your mother! Ha-Ha-Ha-Ha-Ha!}
-{522}{}{Yes. Myron is -- the Science God.}
-{523}{}{Beep. Myron has used the SCIENCE skill successfully.}
+{517}{}{Porra, sim!}
+{518}{}{Myron faz isso de novo. A multidão vai à loucura!}
+{519}{}{Ei, eu encontrei algo.}
+{520}{}{Tudo feito. Fineto.}
+{521}{}{Mais fácil do que montar em uma bicicleta. Ou na sua mãe! Ha-Ha-Ha-Ha-Ha!}
+{522}{}{Sim. Myron é... o Deus da Ciência.}
+{523}{}{Bip. Myron usou sua habilidade de CIÊNCIA com sucesso.}
 {530}{}{Nada.}
 {531}{}{Nada.}
-{532}{}{No luck.}
-{533}{}{Crap! I tried everything...}
-{534}{}{I can't do anything with this.}
-{535}{}{I didn't find out anything. This time.}
-{536}{}{Maybe with some Mentats I could pull this off... mmmm. Mentats.}
-{537}{}{My skill ain't high enough. Spend some skill points on me, then I'll try again. Ha-Ha.}
+{532}{}{Sem sorte.}
+{533}{}{Porcaria! Tentei de tudo...}
+{534}{}{Eu não posso fazer nada com isso.}
+{535}{}{Eu não descobri nada. Desta vez.}
+{536}{}{Talvez com alguns mentats eu consiga fazer isso... hhhmmm, mentats.}
+{537}{}{Minha habilidade não é o bastante. Gaste alguns pontos de habilidade comigo, então eu tentarei novamente. Ha-Ha.}
 {538}{}{Não aprendi nada.}
-{539}{}{I can't make a successful Science Roll under these conditions.}
-{540}{}{Beep. Myron has used the SCIENCE skill unsuccessfully.}
-{550}{}{All right, all right! Stop pushing!}
-{551}{}{You better stop pushing me, or I'll... well, just stop pushing me.}
-{552}{}{Well, excuuuuuuse me.}
-{553}{}{All right. But next time, YOU get out of MY way.}
-{554}{}{I was here first. But have it your way.}
-{560}{}{Don't need to tell me twice.}
-{561}{}{I could use some womanly healing, know what I mean?}
-{562}{}{Ahhhhhhh. Good thing stimpacks aren't too addictive.}
-{563}{}{Oooooh, yeah. Good thing stimpacks aren't too addictive.}
-{570}{}{Don't inject me with that shit. I'm fine, okay?}
-{571}{}{Stop mothering me. I'm all right.}
-{572}{}{Hey, don't sweat it. I'm fine. But let me hold the stimpacks anyway.}
-{580}{}{Hey, let me join you again! C'mon!}
-{581}{}{I'm sorry I was being such a jerk. Give me another chance.}
-{582}{}{I'm getting sick of waiting around for you.}
-{583}{}{I'm so bored. C'mon, let me hang out with you.}
-{584}{}{I wish I'd brought a book.}
-{585}{}{I'm NOT going to wait for you much longer.}
-{590}{}{So... is Miria really your wife?}
-{591}{}{Miria's kinda cute. Can I... well, you know... how about it?}
-{592}{}{Your wife suuuure is a looker.}
-{593}{}{So... you and Miria. Are you two serious, or...?}
-{594}{}{So... you and Miria. Are you both free to see other people, or....?}
-{595}{}{You wanna swap wives? You can have mine as soon as I get one.}
-{596}{}{So... who is this hot oriental looking chick?}
+{539}{}{Não posso fazer um teste de ciências bem sucedido nessas condições..}
+{540}{}{Bip. Myron usou sua habilidade de CIÊNCIA sem sucesso.}
+{550}{}{Tudo bem, tudo bem! Pare de me pressionar!}
+{551}{}{É melhor você parar de me pressionar, ou eu vou... bem, só pare com isso.}
+{552}{}{Ta bom, discuuuupa.}
+{553}{}{Tudo bem. Mas da próxima vez, VOCÊ vai sair do MEU caminho.}
+{554}{}{Eu estava aqui primeiro. Mas vamos fazer do seu jeito.}
+{560}{}{Não precisa me dizer duas vezes.}
+{561}{}{Eu poderia usar um pouco de cura feminina, entende?}
+{562}{}{Ahhhhhh. Ainda bem que os stimpacks não são muito viciantes.}
+{563}{}{Oooh, sim. Ainda bem que os stimpacks não são muito viciantes.}
+{570}{}{Não me injete com essa merda. Eu estou bem, ok?}
+{571}{}{Pare de ficar me mimando, eu estou bem.}
+{572}{}{Ei, não se preocupe, estou bem. Mas pode me deixar levar os stimpacks.}
+{580}{}{Ei, deixe que eu o acompanho novamente! Vamos lá!}
+{581}{}{Me desculpe, eu estava sendo tão idiota. Me dê outra chance.}
+{582}{}{Estou ficando cansado de ficar te esperando.}
+{583}{}{Estou tão entediado. Vamos, deixe que eu vou com você.}
+{584}{}{Deveria ter trazido um livro.}
+{585}{}{Eu NÃO vou ficar te esperando muito mais.}
+{590}{}{Então... Miria é mesmo sua esposa?}
+{591}{}{Miria é bem gracinha. Posso... bem, você sabe... que tal?}
+{592}{}{Suuuuua esposa é uma graça.}
+{593}{}{Então... você e Miria. Vocês falam sério, ou...?}
+{594}{}{Então... você e Miria. Vocês estão em um relacionamento aberto, ou...?}
+{595}{}{Quer trocar de esposa? Você pode ter a minha assim que eu conseguir uma.}
+{596}{}{Então... quem é essa gatinha asiatica?}
 {597}{}{Kitsune's kinda cute. Can I... well, you know... how about it?}
 {598}{}{This oriental chick suuuure is a looker.}
 {599}{}{Então... você e Kitsune. Vocês dois estão saindo ou algo assim?}
@@ -612,10 +612,10 @@
 {1875}{}{You have convinced Myron there might be a cure.}
 {1880}{}{That's the grave where Big Jesus' stashed those extra chips.}
 {1885}{}{You have convinced Myron to leave the Stables.}
-{1957}{}{All right, all right! Stop pushing!}
+{1957}{}{Tudo bem, tudo bem! Pare de me pressionar!}
 {1958}{}{Hey, give me a break. I didn't program my A.I.}
-{1959}{}{Well, excuuuuuuse me.}
-{1960}{}{All right. But next time, YOU get out of MY way.}
+{1959}{}{Ta bom, discuuuupa.}
+{1960}{}{Tudo bem. Mas da próxima vez, VOCÊ vai sair do MEU caminho.}
 {1961}{}{I was here first. But have it YOUR way.}
 {2001}{myn321}{This sucks.}
 {2004}{myn324}{What the hell are you talking about?}

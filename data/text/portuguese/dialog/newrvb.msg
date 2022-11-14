@@ -44,6 +44,6 @@
  preso aí dentro!]}
 {451}{}{Oh oh}
 {452}{}{Oh, merda...}
-{500}{}{These crates are filled with heavy metal canisters. Judging from the care packing
- them, you suspect that they contain some sort of hazardous chemicals.}
-{550}{}{Now's probably not the best time to be striking up conversation.}
+{500}{}{Essas caixas estão cheias de latas de metal pesado. A julgar pelo cuidado que foram
+ embaladas, você suspeita que eles contenham algum tipo de produto químico perigoso.}
+{550}{}{Agora não é provavelmente o melhor momento para puxar conversa.}
