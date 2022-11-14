@@ -149,48 +149,48 @@
 {597}{}{Kitsune's kinda cute. Can I... well, you know... how about it?}
 {598}{}{This oriental chick suuuure is a looker.}
 {599}{}{Então... você e Kitsune. Vocês dois estão saindo ou algo assim?}
-{600}{}{Ready to go?}
-{605}{}{Why the hell are we HERE?}
-{606}{}{Everybody in this town needs an enema.}
-{607}{}{Being in Vault City makes me... disgruntled.}
-{608}{}{What is it about Vault City that makes me want to crap?}
-{609}{}{When are we going back to Reno?}
-{615}{myn102b}{So you finally came around, huh? I knew you would. You need me.}
-{616}{myn102a}{So you finally came around, huh, beautiful? I knew you would. All right, I'll join up with you again.}
-{617}{myn103a}{Yeah, what? Can'tcha see I'm thinking here?}
-{618}{myn103b}{So you finally wise up, beautiful? Finally realize that I'm the only one for you?}
-{619}{}{You don't look too good, Myron. Heal yourself.}
-{620}{}{Wait here until I, uh, come back.}
-{621}{}{Put that weapon away before you hurt yourself.}
-{622}{}{Keep close to me.}
-{623}{}{Put a little distance between us, Myron.}
-{624}{}{Spread out a bit, Myron. It's best for both of us.}
+{600}{}{Pronto pra ir?}
+{605}{}{Mas por que estamos AQUI?}
+{606}{}{Todo mundo nessa cidade precisa de um enema.}
+{607}{}{Estar em Vault City me deixa... chateado.}
+{608}{}{O que tem em Vault City que me faz ter vontade de cagar?}
+{609}{}{Quando voltaremos para Reno?}
+{615}{myn102b}{Então você finalmente apareceu, eh? Eu sabia que voltaria. Você precisa de mim.}
+{616}{myn102a}{Então você finalmente apareceu, hein, minha linda? Eu sabia que você voltaria. Tudo bem, eu vou junto de você.}
+{617}{myn103a}{Sim, o que? Não vê que estou pensando aqui?}
+{618}{myn103b}{Então você finalmente descobriu, linda? Você finalmente entendeu que eu sou o único para você?}
+{619}{}{Você não parece muito bem, Myron. Se cure.}
+{620}{}{Espere aqui até eu, uh, voltar.}
+{621}{}{Guarde essa arma antes que você se machuque.}
+{622}{}{Fique perto de mim.}
+{623}{}{Fique a pouca distância de nós, Myron.}
+{624}{}{Se separe um pouco, Myron. É melhor para nós dois.}
 {625}{}{Eu tenho algumas perguntas…}
 {626}{}{Agora não, Myron. Eu tenho algumas perguntas...}
-{627}{}{All right, then. Hurry up and let's go.}
-{628}{}{No, you keep waiting here. I'll be back. I promise.}
-{629}{}{I'll let you get back to doing nothing then.}
-{630}{}{Myron, your hand is the only "one" for you.}
-{640}{myn105_b}{It's around on Golgotha somewhere... I'll let you know when I see it.}
-{641}{}{All right, Myron.}
-{645}{myn106}{Yeah. What's on your mind?}
-{646}{}{Tell me about Jet.}
-{647}{}{Can you make any drugs?}
-{648}{}{You don't look in top shape, Myron. Try and patch yourself up.}
-{650}{}{Where was that Mordino stash you were talking about?}
-{655}{myn107a}{Ah, my finest little addiction. What about it?}
-{656}{myn107b}{We've been over this. I'm not here to be your memory.}
-{657}{myn107c}{We've been over this. Look, I'll be your love slave, beautiful, but I ain't gonna be your memory.}
-{658}{}{How did you create it?}
-{659}{}{Is there any cure for it?}
-{660}{}{Can you make me some Jet?}
-{661}{}{You'll be a corpse if you don't answer my questions. How did you create Jet?}
-{662}{}{Cut the shit, Myron. Is there any cure for Jet?}
-{664}{}{I'd sooner lance a boil with my tongue than let you be my sex slave, Myron.}
-{665}{}{Myron, 'love slave' is the last thing that crosses my mind when I think of you.}
-{666}{}{I was thinking of using you more as a practice dummy than a love slave, actually.}
-{667}{}{I'd sooner kiss Sulik than let you be my love slave. Uh... no offense, Sulik.}
-{668}{}{I'd sooner kiss Marcus than let you be my love slave. Uh... no offense, Marcus.}
+{627}{}{Tudo bem, então. Se apresse e vamos.}
+{628}{}{Não, continue esperando aqui. Eu voltarei, prometo.}
+{629}{}{Então eu vou deixar você continuar sem fazer nada.}
+{630}{}{Myron, sua mão é a "única" coisa para você.}
+{640}{myn105_b}{Está em algum lugar na Gólgota... Te direi quando eu for.}
+{641}{}{Tudo bem, Myron.}
+{645}{myn106}{Sim. O que está pensando?}
+{646}{}{Me diga sobre o jet.}
+{647}{}{Pode fazer alguma droga?}
+{648}{}{Você não parece em boa forma, Myron. Tente consertar.}
+{650}{}{Onde estava aquele estoque do Mordino que você estava falando?}
+{655}{myn107a}{Ah, o melhor dos meus pequenos vícios. O que se passa com ele?}
+{656}{myn107b}{Já passamos por isso. Não estou aqui para ser seu secretario.}
+{657}{myn107c}{Já discutimos isso. Olha, adoro ser seu escravo, querida, mas não estou querendo seu secretario..}
+{658}{}{Como você o criou?}
+{659}{}{Existe alguma cura para isso?}
+{660}{}{Você pode me fazer um pouco de Jet?}
+{661}{}{Você será um cadáver se não responder às minhas perguntas. Como você criou o Jet?}
+{662}{}{Pare com essa merda, Myron. Existe alguma cura para Jet?}
+{664}{}{Prefiro furar um furúnculo com a língua do que deixar você ser meu escravo sexual, Myron.}
+{665}{}{Myron, voce ser meu escravo sexual é a última coisa que me passa pela cabeça quando penso em você.}
+{666}{}{Eu estava pensando em usar você mais como um boneco de treino do que um escravo sexual, na verdade.}
+{667}{}{Prefiro beijar Sulik do que deixar você ser meu escravo sexual. Uh... sem ofensa, Sulik.}
+{668}{}{Prefiro beijar Marcus do que deixar você ser meu escravo sexual. Uh... sem ofensa, Marcus.}
 {669}{}{Nevermind, Myron.}
 {680}{myn108}{Uh, in my lab. Next question?}
 {681}{}{HOW did you develop it, smart guy?}
