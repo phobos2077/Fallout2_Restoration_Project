@@ -191,48 +191,48 @@
 {666}{}{Eu estava pensando em usar você mais como um boneco de treino do que um escravo sexual, na verdade.}
 {667}{}{Prefiro beijar Sulik do que deixar você ser meu escravo sexual. Uh... sem ofensa, Sulik.}
 {668}{}{Prefiro beijar Marcus do que deixar você ser meu escravo sexual. Uh... sem ofensa, Marcus.}
-{669}{}{Nevermind, Myron.}
-{680}{myn108}{Uh, in my lab. Next question?}
-{681}{}{HOW did you develop it, smart guy?}
-{682}{}{Forget this. Different topic...}
-{683}{}{I can see where this is going. Nevermind, Myron.}
-{690}{myn109}{Ah, Christ. Well... when I came across the Mordino family way back when, they were farming peyote cacti and trying to sell it to tourists as the 'Reno experience.' Total bullshit.}
+{669}{}{Deixa quieto, Myron.}
+{680}{myn108}{Uh, em meu laboratório. Outra pergunta?}
+{681}{}{COMO você desenvolveu isso, espertão?}
+{682}{}{Esqueça isso. Outro assunto...}
+{683}{}{Eu vejo onde isso está levando. Esqueça, Myron.}
+{690}{myn109}{Ah, Cristo. Bem... quando eu encontrei a família Mordino um tempo atrás, eles estavam cultivando cactos peyote e tentando vender aos turistas como a 'experiência Reno'. Besteira total.}
 {691}{}{Continue.}
 {692}{}{Esqueça. Eu tenho algumas perguntas...}
-{693}{}{Forget I mentioned it.}
-{700}{myn110}{I mean, peyote? C'mon. It isn't even half the strength of, say, old school LSD.}
-{701}{}{Uh, about the Jet --?}
-{710}{myn112}{Plus, a peyote trip is too long. The profit's in fast turn around and high addiction. Like, uh, barbiturates before the Big One, y'know?}
-{711}{}{I hope this is leading somewhere.}
+{693}{}{Esqueça que eu mencionei isso.}
+{700}{myn110}{Quero dizer, peyote? Ah, cara. Não chega nem na metade do efeito do bom e velho LSD.}
+{701}{}{Uh, sobre o Jet --?}
+{710}{myn112}{Além disso, uma viagem com peyote é muito longa. O lucro está em uma viagem rápida e com alto vício. Tipo, uh, os barbitúricos de antes da Grande Guerra, sabe?}
+{711}{}{Espero que isso chegue em algum lugar.}
 {712}{}{Se você disser que sim.}
-{713}{}{Barbiturates... like old school cocaine, crank, all that?}
-{714}{}{You mean barbiturates... like old school cocaine, crank, all that?}
-{716}{}{Nevermind, Myron. I don't have time for your long-winded bullshit.}
-{725}{myn113a}{Right. Can I finish? }
-{726}{myn113b}{Problem is, in the new climate, we can't grow most of the veggies needed for the best drugs.}
-{727}{}{You just like hearing yourself talk, right?}
-{728}{}{I'm with you.}
-{729}{}{You mean 'veggies' as in coca plants, opium poppies, that sort of thing.}
-{740}{myn114a}{Couldn't grow coca plants, opium poppies -- and man did we try -- so we figured our best bet was shrooms. }
-{741}{myn114b}{Right, Sherlock. And we tried -- so we figured our best bet was shrooms. }
-{742}{myn114c}{You can grow 'em if you use plenty o' brahmin shit as fertilizer.}
-{743}{}{Speaking of plenty of shit... Go on.}
+{713}{}{Barbitúricos... como a velha cocaína, anfetaminas, tudo isso?}
+{714}{}{Você quer dizer barbitúricos... como a velha cocaína, anfetaminas, essas coisas?}
+{716}{}{Já deu, Myron. Não tenho tempo para esse monte de besteiras.}
+{725}{myn113a}{Certo. Posso terminar? }
+{726}{myn113b}{O problema é que, no novo clima, não podemos cultivar a maioria dos vegetais necessários para as melhores drogas.}
+{727}{}{Você gosta de ouvir a própria voz, certo?}
+{728}{}{Estou de acordo.}
+{729}{}{Você quer dizer 'vegetais' como plantas de coca, papoulas de ópio, essas coisas.}
+{740}{myn114a}{Não podíamos cultivar plantas de coca, papoulas de ópio - e cara, nós tentamos - então achamos que nossa melhor aposta eram cogumelos. }
+{741}{myn114b}{Certo, Sherlock. E nós tentamos -- então achamos que nossa melhor aposta eram os cogumelos. }
+{742}{myn114c}{Você pode cultivá-los se usar bastante merda de brahmin como fertilizante.}
+{743}{}{Falando em monte de merda... Vá em frente.}
 {744}{}{OK...}
-{755}{myn115}{Plus, hallucinogens have low overhead, so I start experimenting with derivatives of lysergic acid diethylamide and psilocybin. Still...}
+{755}{myn115}{Além disso, os alucinógenos são baratos, então comecei a experimentar derivados de dietilamida do ácido lisérgico e psilocibina. Porém…}
 {756}{}{Ainda…?}
-{765}{myn116}{Still, I really wanted to whip up a hard-hitter that didn't rely on veggie extracts. Man, was I an idiot, 'cause the answer turned out to BE the extracts, or, more precisely, what they were growing IN.}
-{766}{}{You don't really care what I say, do you? You just love telling your story.}
-{767}{}{How do you mean?}
-{775}{myn117}{See, old Jesus Mordino wanted something that the Redding miners would get addicted to fast AND make them work harder. So, I said, 'no prob,' right?}
-{776}{}{What was that about Redding?}
-{777}{}{What was that about Redding, again?}
-{778}{}{Right. Go on.}
-{779}{}{Yeah, no prob.}
-{790}{myn118}{Well, wasn't too hard to come up with a good upper. A sample of that pre-war protein extract, corrupt it and bam -- decent amphetamine.}
-{791}{}{Explain to me about Redding, again?}
-{792}{}{Uh, "protein extract?"}
-{800}{myn119}{Redding? Town full o' gold diggers. Mordino wants to control it all. So he comes to me in his wheezing voice and says, 'Myron, Myron, make me something that'll give me Redding.'}
-{801}{}{And you say...}
+{765}{myn116}{No entanto, eu realmente queria fazer uma coisa que não dependesse de extratos vegetais. Cara, eu fui um idiota, porque a resposta acabou sendo os extratos, ou, mais precisamente, no que eles estavam crescendo.}
+{766}{}{Você realmente não se importa com o que eu digo, não é? Você simplesmente adora contar sua história.}
+{767}{}{O que você quer dizer?}
+{775}{myn117}{Veja, o velho Jesus Mordino queria algo em que os mineiros de Redding se viciassem rapidamente E os fizessem trabalhar mais. Então eu disse, 'sem problemas', ok?}
+{776}{}{O que foi isso sobre Redding?}
+{777}{}{Diga o que foi isso sobre Redding de novo?}
+{778}{}{Certo, continue.}
+{779}{}{Sim, sem problemas.}
+{790}{myn118}{Bem, não foi muito difícil chegar a algo superior. Uma amostra daquele extrato de proteína pré-guerra, eu aumentei e bingo: anfetamina decente.}
+{791}{}{Me explique sobre o Redding de novo?}
+{792}{}{Uh, "extrato de proteína?"}
+{800}{myn119}{Redding? Cidade cheia de garimpeiros, Mordino quer controlar tudo. Então ele vem até mim com sua voz ofegante e diz: "Myron, Myron, me façam algo que faça Redding ser minha."}
+{801}{}{E você diz...}
 {810}{myn120}{And I say, 'Okay, what timeframe we looking at?' He goes - of course - 'Yesterday.' Crime lords. Want everything done fast and sloppy. Least they don't have a marketing department.}
 {811}{}{I see. Go back to talking about Jet production.}
 {820}{myn121}{Before the Big One some meat companies were experimenting with a cheap protein extract for growing food, but they had to ditch it.
@@ -251,7 +251,7 @@
 {861}{myn125b}{By putting tons of brahmin shit in the vats, we found out that the fumes give more than enough of a kick. Eureka. Literally. 'Course, we had to test to get the mix right...}
 {862}{}{Uh, how much testing?}
 {863}{}{How much testing exactly?}
-{865}{}{Nevermind, Myron.}
+{865}{}{Deixa quieto, Myron.}
 {866}{}{This sounds like a load of crap... literally. It doesn't sound like you know anything about drug manufacture. "Brahmin Shit Fumes?" Please. I've heard enough.}
 {870}{myn126}{Hmmm... about a hundred slaves? Mostly heart attacks, cerebral hemorrhages, psychotic episodes... that sort of thing.}
 {871}{}{Are you insane? You killed a hundred human beings just for drug testing?!}
@@ -517,8 +517,8 @@
 {1587}{}{I'll think about it. I have a few more questions for you...}
 {1588}{}{Well, I'll think about it... it's just that, well, no offense, but science guys have a notorious reputation for being near worthless in combat.}
 {1589}{}{I'll need to think about it. I'll be back.}
-{1595}{myn119}{Redding? Town full o' gold diggers. Mordino wants to control it all. So he comes to me in his wheezing voice and says, 'Myron, Myron, make me something that'll give me Redding.'}
-{1596}{}{And you say...}
+{1595}{myn119}{Redding? Cidade cheia de garimpeiros, Mordino quer controlar tudo. Então ele vem até mim com sua voz ofegante e diz: "Myron, Myron, me façam algo que faça Redding ser minha."}
+{1596}{}{E você diz...}
 {1597}{}{Hmmm. Eu tenho outras perguntas…}
 {1605}{myn120}{And I say, 'okay, what timeframe we looking at?' He goes - of course - 'yesterday.' Crime lords. Want everything done fast and sloppy. At least they don't have a marketing department.}
 {1615}{myn236a}{Yeah. Why? You gonna try and prove me wrong, pal? }
