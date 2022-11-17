@@ -102,46 +102,46 @@
 {366}{}{Nós, Wrights, somos a família mais forte porque SOMOS família.}
 {367}{}{Uma lastima o que aconteceu com meu irmãozinho. Ele era um bom garoto, mas o jet está por toda a cidade, difícil de evitar...}
 {368}{}{Papai disse que nos estrangularia se soubesse que pegamos jet.}
-{369}{}{Dad's still upset, so be careful when you talk to him, you hear?}
+{369}{}{Papai ainda está chateado, então tome cuidado ao falar com ele, ouviu?}
 {370}{}{Chris vai levar uma surra se continuar entrando no bordel.}
 {371}{}{Desgraça de calor...}
 {372}{}{Keith desmontou o piano na semana passada e o montou novamente. Garoto esperto.}
 {373}{}{Vamos caçar radscorpions dentro de alguns dias.}
-{374}{}{Are you REALLY talkin' to God when you're havin' sex on stage?}
-{375}{}{Mom says yer a tool of the devil.}
-{376}{}{Mom says yer a harlot. A brazen strumpet. I have no idea what's she goin' on about.}
-{385}{}{You planning to see Dad about business? Well, good luck, I don't think he's hiring any hands now.}
-{386}{}{If you're lookin' for alcohol, the train station is the place to be. }
+{374}{}{Você REALMENTE fala com Deus quando está transando no palco?}
+{375}{}{Mamãe diz que você é uma ferramenta do diabo.}
+{376}{}{Mamãe diz que você é uma prostituta, uma vadia descarada. Mas eu nem sei o que quer dizer isso.}
+{385}{}{Está querendo ver o papai sobre negócios? Bem, boa sorte, acho que ele não está contratando agora.}
+{386}{}{Se você está procurando álcool, a estação de trem é o lugar certo. }
 {387}{}{Observe por onde anda aqui, amigo. Esse aqui é o território da Família Wright.}
-{390}{}{Better take off... we don't take kindly to slavers.}
-{391}{}{Don't you even THINK about kidnapping anyone here. You cause any trouble, we'll gut you.}
-{392}{}{Just keep your distance, slaver. If you've got business with Pa, do it, then get.}
-{393}{}{You better not have brought any drugs, or else Dad'll kill you. Then I'LL kill you.}
-{394}{}{I'm watchin' you, slaver, so you watch what you do, hear?}
-{395}{}{You touch any of those kids, slaver, and I'll shoot you so much you'll fly outta your boots.}
-{396}{}{Touch any of those kids, slaver, and I'll kill you.}
+{390}{}{Melhor ir embora... não gostamos de escravistas aqui.}
+{391}{}{Nem PENSE que você vai sequestrar alguém por aqui. Se você causar um único problema, nós o estripamos.}
+{392}{}{Mantenha distância, escravista. Se você tem negócios com o papai, faça e saia.}
+{393}{}{É melhor você não ter trazido nenhuma droga, se não papai vai te matar. Ou EU mesmo vou te matar.}
+{394}{}{Estou de olho em você, escravista, fique atento ao que faz, ouviu?}
+{395}{}{Toque em qualquer uma dessas crianças, escravista, e eu vou atirar tanto que você vai voar para fora de suas botas.}
+{396}{}{Toque em qualquer uma dessas crianças, escravista, e eu mato você.}
 {397}{}{Se você está procurando por álcool, a estação de trem é o lugar certo.}
-{398}{}{You harm any Wright, slaver, and our Family won't rest until yer hide is rotting in Golgotha.}
-{399}{}{You here to see Dad about business? I don't think Dad does business with slavers. You better git.}
-{410}{}{Better take off... no offense, but Dad doesn't like tribals much.}
-{411}{}{Don't you even THINK about causing any trouble. We Wrights outnumber you by... uh, by a lot.}
-{412}{}{Just keep your distance. If you've got business, do it, then get.}
-{413}{}{You better not have brought any drugs, or else Dad'll kill you. Then I'LL kill you.}
-{414}{}{I'm watching you, so you watch what you do, hear?}
-{415}{}{Where you from? Ain't seen your kind around here in a while.}
+{398}{}{Prejudique qualquer Wright, escravista, e nossa Família não vai descansar até que sua pele esteja apodrecendo na Golgota.}
+{399}{}{Você está aqui para ver papai sobre negócios? Acho que papai não faz negócios com escravistas. É melhor você ir.}
+{410}{}{Melhor ir embora... sem ofensa, mas papai não gosta muito de tribais.}
+{411}{}{Nem pense em causar problemas. Nós, Wrights, somos maiores em número... uh, e muito.}
+{412}{}{Só mantenha a distância. Se você tem negócios, faça e saia.}
+{413}{}{É melhor você não ter trazido nenhuma droga, se não papai vai te matar. Ou EU mesmo vou te matar.}
+{414}{}{Estou de olho em você, fique atento ao que faz, ouviu?}
+{415}{}{De onde você é? Faz tempo que não vejo seu tipo por aqui.}
 {416}{}{Se você está procurando por álcool, a estação de trem é o lugar certo.}
-{417}{}{You harm any Wright, and the Family won't rest until yer hide is rotting in Golgotha.}
-{418}{}{You here to see Dad 'bout business? Good luck, I don't think he's hiring any hands now.}
-{425}{}{That ghoul shouldn't be around here. You better send him back to Gecko.}
-{426}{}{You better not bring that ghoul around the kids. They might get radiation poisoning.}
-{427}{}{I suggest you and yer ghoul friend leave before there's trouble.}
-{1204}{}{! Way to kick the Enclave's ass... er, butt!}
-{1205}{}{. That took some serious guts.}
+{417}{}{Prejudique qualquer Wright, e a Família não vai descansar até que sua pele esteja apodrecendo na Golgota.}
+{418}{}{Você está aqui para falar com papai sobre negócios? Boa sorte, acho que ele não está contratando agora.}
+{425}{}{Aquele ghoul não deveria estar por aqui. É melhor mandá-lo de volta para Gecko.}
+{426}{}{É melhor você não trazer esse ghoul perto das crianças. Eles podem ficar envenenadas com radiação.}
+{427}{}{Sugiro que você e seu amigo ghoul saiam antes que tenham problemas.}
+{1204}{}{! Que maneira de chutar o cu da Enclave... er, bunda!}
+{1205}{}{. Isso exigiu muita coragem.}
 {1240}{}{. O que você tem feito?}
 {1241}{}{?}
 {1242}{}{. Como estão as coisas?}
-{1245}{}{ family! And he's armed! Call the others!}
-{1250}{}{ family! And she's armed! Call the others!}
-{1255}{}{ family sneakin' around! Call the others!}
-{1335}{}{? Run into any trouble with anybody in town?}
-{1350}{}{, aincha? Yer good in the ring, best I ever seen in these parts.}
+{1245}{}{ família! Ele está armado! Chamem os outros!}
+{1250}{}{ família! Ela está armada! Chamem os outros!}
+{1255}{}{ família, está se escondendo aqui! Chamem os outros!}
+{1335}{}{? Teve algum problema com alguém na cidade?}
+{1350}{}{, Serio? Você é bom no ringue, o melhor que já vi por aqui.}

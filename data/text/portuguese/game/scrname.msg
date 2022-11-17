@@ -340,7 +340,7 @@
 {440}{}{Atriz porno}
 {441}{}{Punhetinha}
 {442}{}{Roteiro do mapa}
-{443}{}{Wolf}
+{443}{}{Furrie}
 {444}{}{Gerador}
 {445}{}{Porta}
 {446}{}{Super mutante}

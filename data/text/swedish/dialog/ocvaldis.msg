@@ -5,7 +5,7 @@
 {103}{}{Greetings, human.}
 {104}{}{How may I serve you?}
 {105}{}{Who you be?}
-{106}{}{What you do?}
+{106}{}{Vad du gör?}
 {107}{}{Brain hurt. Me come back later.}
 {108}{}{Hello, who are you?}
 {109}{}{What's your job?}

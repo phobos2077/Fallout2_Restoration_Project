@@ -157,7 +157,7 @@
 {326}{}{One-eye}
 {327}{}{Spot}
 {328}{}{Lord Wiggler}
-{330}{}{Lucky}
+{330}{}{Sortudo}
 {331}{}{Zoroaster the Great}
 {332}{}{Shub}
 {333}{}{Usuthu}
@@ -166,7 +166,7 @@
 {336}{}{Precious}
 {337}{}{Fraggle}
 {338}{}{Captain Midnight}
-{340}{}{Hammer}
+{340}{}{Martelo}
 {341}{}{Secretariat}
 {342}{}{Man o' War}
 {343}{}{Sancho Panza}

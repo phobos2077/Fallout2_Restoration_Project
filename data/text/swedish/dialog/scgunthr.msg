@@ -11,7 +11,7 @@
 {110}{}{Let's try this again. You help Tandi? Do job for Tandi?}
 {111}{}{Yesyesyesyes!}
 {112}{}{Tandi job. Me want.}
-{113}{}{What you do?}
+{113}{}{Vad du gör?}
 {114}{}{Uhhhh... me kill, me kill big!}
 {115}{}{Uhhhh... me smart. Elder say I got brain-of-child. I got 2 brain. Me smart.}
 {116}{}{You can't take the president's job!}

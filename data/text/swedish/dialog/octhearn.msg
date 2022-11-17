@@ -5,7 +5,7 @@
 {103}{}{Forgive. I no speak well. I try talk you.}
 {104}{}{You want what?}
 {105}{}{Who you?}
-{106}{}{What you do?}
+{106}{}{Vad du gör?}
 {107}{}{How smart you?}
 {108}{}{Jag gå nu.}
 {109}{}{Who are you?}

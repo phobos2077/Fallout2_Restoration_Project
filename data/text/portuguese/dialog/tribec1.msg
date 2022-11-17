@@ -93,9 +93,6 @@
 {340}{}{[He looks you over, seeming to consider something for a moment.] I'm to meet with one of them damned civilized
  traders soon -- a pudgy one-eyed dog of a man, who I trust about as much as a starving radscorpion. He's not wronged us
  yet, but I've got a feeling about our next meeting.}
-{340}{}{[He looks you over, seeming to consider something for a moment.] I'm to meet with one of them damned civilized
- trader's soon -- a pudgy one-eyed dog of a man, who I trust about as much as a starving radscorpion. He's not wronged us
- yet, but I've got a feeling about our next meeting.}
 {341}{}{Por que?}
 {342}{}{Não vejo como entro nisso. Onde você quer chegar?}
 {350}{}{When last we spoke, he boasted he'd be bringing me something truly miraculous, and that I'd be wise to haul all

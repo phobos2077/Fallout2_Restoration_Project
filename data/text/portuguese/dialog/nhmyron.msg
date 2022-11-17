@@ -89,150 +89,150 @@
 {471}{}{Ooooooohhh. Aaaaaaaah. Mmmmmm.}
 {472}{}{Eu adoro quando você faz isso.}
 {473}{}{As drogas me fazem sentir... pixealizado.}
-{485}{}{Hey, don't use that shit on me! Save it for addicts!}
-{486}{}{Look, I don't want to fly, and you don't either. Bury that shit somewhere.}
-{487}{}{Why don't you give that shit to ol' Bone-nose?}
-{495}{}{Why don't you give that shit to ol' Marcus?}
-{496}{}{Hey, don't use that shit on me! Save it for addicts!}
-{497}{}{Man, I don't want to fly and you don't either. Bury that shit somewhere.}
-{498}{}{Why don't you give that shit to ol' Lenny?}
-{505}{}{All right, all right. I'm on it.}
-{506}{}{Stand back, idiot. I'll figure it out.}
-{507}{}{This looks simple. Stand back, all right?}
+{485}{}{Ei, não use essa merda comigo! Deixe para os viciados!}
+{486}{}{Olha, eu não quero chapar, e você também não. Guarda essa merda em algum lugar.}
+{487}{}{Por que você não dá essa merda para o nosso amigão com osso no nariz?}
+{495}{}{Por que você não dá essa merda para o velho Marcus?}
+{496}{}{Ei, não use essa merda comigo! Deixe para os viciados!}
+{497}{}{Cara, eu não quero chapar e você também não. Guarde essa merda em algum lugar.}
+{498}{}{Por que você não dá essa merda para o velho Lenny?}
+{505}{}{Tudo bem. Eu estou trabalhando nisso.}
+{506}{}{Afaste-se, idiota. Eu vou verificar.}
+{507}{}{Isso parece simples. Saia do caminho, ok?}
 {508}{}{Não há problema.}
-{509}{}{Time for the ol' 'magic fingers' routine...}
+{509}{}{Hora da velha rotina dos velhos 'dedos mágicos'...}
 {515}{}{Bingo!}
 {516}{}{Eureka!}
-{517}{}{Fuckin' Ay!}
-{518}{}{Myron does it again. Crowd goes wild!}
-{519}{}{Hey, I found something.}
-{520}{}{All done. Fineto.}
-{521}{}{Easier than riding a bicycle. Or your mother! Ha-Ha-Ha-Ha-Ha!}
-{522}{}{Yes. Myron is -- the Science God.}
-{523}{}{Beep. Myron has used the SCIENCE skill successfully.}
+{517}{}{Porra, sim!}
+{518}{}{Myron faz isso de novo. A multidão vai à loucura!}
+{519}{}{Ei, eu encontrei algo.}
+{520}{}{Tudo feito. Fineto.}
+{521}{}{Mais fácil do que montar em uma bicicleta. Ou na sua mãe! Ha-Ha-Ha-Ha-Ha!}
+{522}{}{Sim. Myron é... o Deus da Ciência.}
+{523}{}{Bip. Myron usou sua habilidade de CIÊNCIA com sucesso.}
 {530}{}{Nada.}
 {531}{}{Nada.}
-{532}{}{No luck.}
-{533}{}{Crap! I tried everything...}
-{534}{}{I can't do anything with this.}
-{535}{}{I didn't find out anything. This time.}
-{536}{}{Maybe with some Mentats I could pull this off... mmmm. Mentats.}
-{537}{}{My skill ain't high enough. Spend some skill points on me, then I'll try again. Ha-Ha.}
+{532}{}{Sem sorte.}
+{533}{}{Porcaria! Tentei de tudo...}
+{534}{}{Eu não posso fazer nada com isso.}
+{535}{}{Eu não descobri nada. Desta vez.}
+{536}{}{Talvez com alguns mentats eu consiga fazer isso... hhhmmm, mentats.}
+{537}{}{Minha habilidade não é o bastante. Gaste alguns pontos de habilidade comigo, então eu tentarei novamente. Ha-Ha.}
 {538}{}{Não aprendi nada.}
-{539}{}{I can't make a successful Science Roll under these conditions.}
-{540}{}{Beep. Myron has used the SCIENCE skill unsuccessfully.}
-{550}{}{All right, all right! Stop pushing!}
-{551}{}{You better stop pushing me, or I'll... well, just stop pushing me.}
-{552}{}{Well, excuuuuuuse me.}
-{553}{}{All right. But next time, YOU get out of MY way.}
-{554}{}{I was here first. But have it your way.}
-{560}{}{Don't need to tell me twice.}
-{561}{}{I could use some womanly healing, know what I mean?}
-{562}{}{Ahhhhhhh. Good thing stimpacks aren't too addictive.}
-{563}{}{Oooooh, yeah. Good thing stimpacks aren't too addictive.}
-{570}{}{Don't inject me with that shit. I'm fine, okay?}
-{571}{}{Stop mothering me. I'm all right.}
-{572}{}{Hey, don't sweat it. I'm fine. But let me hold the stimpacks anyway.}
-{580}{}{Hey, let me join you again! C'mon!}
-{581}{}{I'm sorry I was being such a jerk. Give me another chance.}
-{582}{}{I'm getting sick of waiting around for you.}
-{583}{}{I'm so bored. C'mon, let me hang out with you.}
-{584}{}{I wish I'd brought a book.}
-{585}{}{I'm NOT going to wait for you much longer.}
-{590}{}{So... is Miria really your wife?}
-{591}{}{Miria's kinda cute. Can I... well, you know... how about it?}
-{592}{}{Your wife suuuure is a looker.}
-{593}{}{So... you and Miria. Are you two serious, or...?}
-{594}{}{So... you and Miria. Are you both free to see other people, or....?}
-{595}{}{You wanna swap wives? You can have mine as soon as I get one.}
-{596}{}{So... who is this hot oriental looking chick?}
+{539}{}{Não posso fazer um teste de ciências bem sucedido nessas condições..}
+{540}{}{Bip. Myron usou sua habilidade de CIÊNCIA sem sucesso.}
+{550}{}{Tudo bem, tudo bem! Pare de me pressionar!}
+{551}{}{É melhor você parar de me pressionar, ou eu vou... bem, só pare com isso.}
+{552}{}{Ta bom, discuuuupa.}
+{553}{}{Tudo bem. Mas da próxima vez, VOCÊ vai sair do MEU caminho.}
+{554}{}{Eu estava aqui primeiro. Mas vamos fazer do seu jeito.}
+{560}{}{Não precisa me dizer duas vezes.}
+{561}{}{Eu poderia usar um pouco de cura feminina, entende?}
+{562}{}{Ahhhhhh. Ainda bem que os stimpacks não são muito viciantes.}
+{563}{}{Oooh, sim. Ainda bem que os stimpacks não são muito viciantes.}
+{570}{}{Não me injete com essa merda. Eu estou bem, ok?}
+{571}{}{Pare de ficar me mimando, eu estou bem.}
+{572}{}{Ei, não se preocupe, estou bem. Mas pode me deixar levar os stimpacks.}
+{580}{}{Ei, deixe que eu o acompanho novamente! Vamos lá!}
+{581}{}{Me desculpe, eu estava sendo tão idiota. Me dê outra chance.}
+{582}{}{Estou ficando cansado de ficar te esperando.}
+{583}{}{Estou tão entediado. Vamos, deixe que eu vou com você.}
+{584}{}{Deveria ter trazido um livro.}
+{585}{}{Eu NÃO vou ficar te esperando muito mais.}
+{590}{}{Então... Miria é mesmo sua esposa?}
+{591}{}{Miria é bem gracinha. Posso... bem, você sabe... que tal?}
+{592}{}{Suuuuua esposa é uma graça.}
+{593}{}{Então... você e Miria. Vocês falam sério, ou...?}
+{594}{}{Então... você e Miria. Vocês estão em um relacionamento aberto, ou...?}
+{595}{}{Quer trocar de esposa? Você pode ter a minha assim que eu conseguir uma.}
+{596}{}{Então... quem é essa gatinha asiatica?}
 {597}{}{Kitsune's kinda cute. Can I... well, you know... how about it?}
 {598}{}{This oriental chick suuuure is a looker.}
 {599}{}{Então... você e Kitsune. Vocês dois estão saindo ou algo assim?}
-{600}{}{Ready to go?}
-{605}{}{Why the hell are we HERE?}
-{606}{}{Everybody in this town needs an enema.}
-{607}{}{Being in Vault City makes me... disgruntled.}
-{608}{}{What is it about Vault City that makes me want to crap?}
-{609}{}{When are we going back to Reno?}
-{615}{myn102b}{So you finally came around, huh? I knew you would. You need me.}
-{616}{myn102a}{So you finally came around, huh, beautiful? I knew you would. All right, I'll join up with you again.}
-{617}{myn103a}{Yeah, what? Can'tcha see I'm thinking here?}
-{618}{myn103b}{So you finally wise up, beautiful? Finally realize that I'm the only one for you?}
-{619}{}{You don't look too good, Myron. Heal yourself.}
-{620}{}{Wait here until I, uh, come back.}
-{621}{}{Put that weapon away before you hurt yourself.}
-{622}{}{Keep close to me.}
-{623}{}{Put a little distance between us, Myron.}
-{624}{}{Spread out a bit, Myron. It's best for both of us.}
+{600}{}{Pronto pra ir?}
+{605}{}{Mas por que estamos AQUI?}
+{606}{}{Todo mundo nessa cidade precisa de um enema.}
+{607}{}{Estar em Vault City me deixa... chateado.}
+{608}{}{O que tem em Vault City que me faz ter vontade de cagar?}
+{609}{}{Quando voltaremos para Reno?}
+{615}{myn102b}{Então você finalmente apareceu, eh? Eu sabia que voltaria. Você precisa de mim.}
+{616}{myn102a}{Então você finalmente apareceu, hein, minha linda? Eu sabia que você voltaria. Tudo bem, eu vou junto de você.}
+{617}{myn103a}{Sim, o que? Não vê que estou pensando aqui?}
+{618}{myn103b}{Então você finalmente descobriu, linda? Você finalmente entendeu que eu sou o único para você?}
+{619}{}{Você não parece muito bem, Myron. Se cure.}
+{620}{}{Espere aqui até eu, uh, voltar.}
+{621}{}{Guarde essa arma antes que você se machuque.}
+{622}{}{Fique perto de mim.}
+{623}{}{Fique a pouca distância de nós, Myron.}
+{624}{}{Se separe um pouco, Myron. É melhor para nós dois.}
 {625}{}{Eu tenho algumas perguntas…}
 {626}{}{Agora não, Myron. Eu tenho algumas perguntas...}
-{627}{}{All right, then. Hurry up and let's go.}
-{628}{}{No, you keep waiting here. I'll be back. I promise.}
-{629}{}{I'll let you get back to doing nothing then.}
-{630}{}{Myron, your hand is the only "one" for you.}
-{640}{myn105_b}{It's around on Golgotha somewhere... I'll let you know when I see it.}
-{641}{}{All right, Myron.}
-{645}{myn106}{Yeah. What's on your mind?}
-{646}{}{Tell me about Jet.}
-{647}{}{Can you make any drugs?}
-{648}{}{You don't look in top shape, Myron. Try and patch yourself up.}
-{650}{}{Where was that Mordino stash you were talking about?}
-{655}{myn107a}{Ah, my finest little addiction. What about it?}
-{656}{myn107b}{We've been over this. I'm not here to be your memory.}
-{657}{myn107c}{We've been over this. Look, I'll be your love slave, beautiful, but I ain't gonna be your memory.}
-{658}{}{How did you create it?}
-{659}{}{Is there any cure for it?}
-{660}{}{Can you make me some Jet?}
-{661}{}{You'll be a corpse if you don't answer my questions. How did you create Jet?}
-{662}{}{Cut the shit, Myron. Is there any cure for Jet?}
-{664}{}{I'd sooner lance a boil with my tongue than let you be my sex slave, Myron.}
-{665}{}{Myron, 'love slave' is the last thing that crosses my mind when I think of you.}
-{666}{}{I was thinking of using you more as a practice dummy than a love slave, actually.}
-{667}{}{I'd sooner kiss Sulik than let you be my love slave. Uh... no offense, Sulik.}
-{668}{}{I'd sooner kiss Marcus than let you be my love slave. Uh... no offense, Marcus.}
-{669}{}{Nevermind, Myron.}
-{680}{myn108}{Uh, in my lab. Next question?}
-{681}{}{HOW did you develop it, smart guy?}
-{682}{}{Forget this. Different topic...}
-{683}{}{I can see where this is going. Nevermind, Myron.}
-{690}{myn109}{Ah, Christ. Well... when I came across the Mordino family way back when, they were farming peyote cacti and trying to sell it to tourists as the 'Reno experience.' Total bullshit.}
+{627}{}{Tudo bem, então. Se apresse e vamos.}
+{628}{}{Não, continue esperando aqui. Eu voltarei, prometo.}
+{629}{}{Então eu vou deixar você continuar sem fazer nada.}
+{630}{}{Myron, sua mão é a "única" coisa para você.}
+{640}{myn105_b}{Está em algum lugar na Gólgota... Te direi quando eu for.}
+{641}{}{Tudo bem, Myron.}
+{645}{myn106}{Sim. O que está pensando?}
+{646}{}{Me diga sobre o jet.}
+{647}{}{Pode fazer alguma droga?}
+{648}{}{Você não parece em boa forma, Myron. Tente consertar.}
+{650}{}{Onde estava aquele estoque do Mordino que você estava falando?}
+{655}{myn107a}{Ah, o melhor dos meus pequenos vícios. O que se passa com ele?}
+{656}{myn107b}{Já passamos por isso. Não estou aqui para ser seu secretario.}
+{657}{myn107c}{Já discutimos isso. Olha, adoro ser seu escravo, querida, mas não estou querendo seu secretario..}
+{658}{}{Como você o criou?}
+{659}{}{Existe alguma cura para isso?}
+{660}{}{Você pode me fazer um pouco de Jet?}
+{661}{}{Você será um cadáver se não responder às minhas perguntas. Como você criou o Jet?}
+{662}{}{Pare com essa merda, Myron. Existe alguma cura para Jet?}
+{664}{}{Prefiro furar um furúnculo com a língua do que deixar você ser meu escravo sexual, Myron.}
+{665}{}{Myron, voce ser meu escravo sexual é a última coisa que me passa pela cabeça quando penso em você.}
+{666}{}{Eu estava pensando em usar você mais como um boneco de treino do que um escravo sexual, na verdade.}
+{667}{}{Prefiro beijar Sulik do que deixar você ser meu escravo sexual. Uh... sem ofensa, Sulik.}
+{668}{}{Prefiro beijar Marcus do que deixar você ser meu escravo sexual. Uh... sem ofensa, Marcus.}
+{669}{}{Deixa quieto, Myron.}
+{680}{myn108}{Uh, em meu laboratório. Outra pergunta?}
+{681}{}{COMO você desenvolveu isso, espertão?}
+{682}{}{Esqueça isso. Outro assunto...}
+{683}{}{Eu vejo onde isso está levando. Esqueça, Myron.}
+{690}{myn109}{Ah, Cristo. Bem... quando eu encontrei a família Mordino um tempo atrás, eles estavam cultivando cactos peyote e tentando vender aos turistas como a 'experiência Reno'. Besteira total.}
 {691}{}{Continue.}
 {692}{}{Esqueça. Eu tenho algumas perguntas...}
-{693}{}{Forget I mentioned it.}
-{700}{myn110}{I mean, peyote? C'mon. It isn't even half the strength of, say, old school LSD.}
-{701}{}{Uh, about the Jet --?}
-{710}{myn112}{Plus, a peyote trip is too long. The profit's in fast turn around and high addiction. Like, uh, barbiturates before the Big One, y'know?}
-{711}{}{I hope this is leading somewhere.}
+{693}{}{Esqueça que eu mencionei isso.}
+{700}{myn110}{Quero dizer, peyote? Ah, cara. Não chega nem na metade do efeito do bom e velho LSD.}
+{701}{}{Uh, sobre o Jet --?}
+{710}{myn112}{Além disso, uma viagem com peyote é muito longa. O lucro está em uma viagem rápida e com alto vício. Tipo, uh, os barbitúricos de antes da Grande Guerra, sabe?}
+{711}{}{Espero que isso chegue em algum lugar.}
 {712}{}{Se você disser que sim.}
-{713}{}{Barbiturates... like old school cocaine, crank, all that?}
-{714}{}{You mean barbiturates... like old school cocaine, crank, all that?}
-{716}{}{Nevermind, Myron. I don't have time for your long-winded bullshit.}
-{725}{myn113a}{Right. Can I finish? }
-{726}{myn113b}{Problem is, in the new climate, we can't grow most of the veggies needed for the best drugs.}
-{727}{}{You just like hearing yourself talk, right?}
-{728}{}{I'm with you.}
-{729}{}{You mean 'veggies' as in coca plants, opium poppies, that sort of thing.}
-{740}{myn114a}{Couldn't grow coca plants, opium poppies -- and man did we try -- so we figured our best bet was shrooms. }
-{741}{myn114b}{Right, Sherlock. And we tried -- so we figured our best bet was shrooms. }
-{742}{myn114c}{You can grow 'em if you use plenty o' brahmin shit as fertilizer.}
-{743}{}{Speaking of plenty of shit... Go on.}
+{713}{}{Barbitúricos... como a velha cocaína, anfetaminas, tudo isso?}
+{714}{}{Você quer dizer barbitúricos... como a velha cocaína, anfetaminas, essas coisas?}
+{716}{}{Já deu, Myron. Não tenho tempo para esse monte de besteiras.}
+{725}{myn113a}{Certo. Posso terminar? }
+{726}{myn113b}{O problema é que, no novo clima, não podemos cultivar a maioria dos vegetais necessários para as melhores drogas.}
+{727}{}{Você gosta de ouvir a própria voz, certo?}
+{728}{}{Estou de acordo.}
+{729}{}{Você quer dizer 'vegetais' como plantas de coca, papoulas de ópio, essas coisas.}
+{740}{myn114a}{Não podíamos cultivar plantas de coca, papoulas de ópio - e cara, nós tentamos - então achamos que nossa melhor aposta eram cogumelos. }
+{741}{myn114b}{Certo, Sherlock. E nós tentamos -- então achamos que nossa melhor aposta eram os cogumelos. }
+{742}{myn114c}{Você pode cultivá-los se usar bastante merda de brahmin como fertilizante.}
+{743}{}{Falando em monte de merda... Vá em frente.}
 {744}{}{OK...}
-{755}{myn115}{Plus, hallucinogens have low overhead, so I start experimenting with derivatives of lysergic acid diethylamide and psilocybin. Still...}
+{755}{myn115}{Além disso, os alucinógenos são baratos, então comecei a experimentar derivados de dietilamida do ácido lisérgico e psilocibina. Porém…}
 {756}{}{Ainda…?}
-{765}{myn116}{Still, I really wanted to whip up a hard-hitter that didn't rely on veggie extracts. Man, was I an idiot, 'cause the answer turned out to BE the extracts, or, more precisely, what they were growing IN.}
-{766}{}{You don't really care what I say, do you? You just love telling your story.}
-{767}{}{How do you mean?}
-{775}{myn117}{See, old Jesus Mordino wanted something that the Redding miners would get addicted to fast AND make them work harder. So, I said, 'no prob,' right?}
-{776}{}{What was that about Redding?}
-{777}{}{What was that about Redding, again?}
-{778}{}{Right. Go on.}
-{779}{}{Yeah, no prob.}
-{790}{myn118}{Well, wasn't too hard to come up with a good upper. A sample of that pre-war protein extract, corrupt it and bam -- decent amphetamine.}
-{791}{}{Explain to me about Redding, again?}
-{792}{}{Uh, "protein extract?"}
-{800}{myn119}{Redding? Town full o' gold diggers. Mordino wants to control it all. So he comes to me in his wheezing voice and says, 'Myron, Myron, make me something that'll give me Redding.'}
-{801}{}{And you say...}
+{765}{myn116}{No entanto, eu realmente queria fazer uma coisa que não dependesse de extratos vegetais. Cara, eu fui um idiota, porque a resposta acabou sendo os extratos, ou, mais precisamente, no que eles estavam crescendo.}
+{766}{}{Você realmente não se importa com o que eu digo, não é? Você simplesmente adora contar sua história.}
+{767}{}{O que você quer dizer?}
+{775}{myn117}{Veja, o velho Jesus Mordino queria algo em que os mineiros de Redding se viciassem rapidamente E os fizessem trabalhar mais. Então eu disse, 'sem problemas', ok?}
+{776}{}{O que foi isso sobre Redding?}
+{777}{}{Diga o que foi isso sobre Redding de novo?}
+{778}{}{Certo, continue.}
+{779}{}{Sim, sem problemas.}
+{790}{myn118}{Bem, não foi muito difícil chegar a algo superior. Uma amostra daquele extrato de proteína pré-guerra, eu aumentei e bingo: anfetamina decente.}
+{791}{}{Me explique sobre o Redding de novo?}
+{792}{}{Uh, "extrato de proteína?"}
+{800}{myn119}{Redding? Cidade cheia de garimpeiros, Mordino quer controlar tudo. Então ele vem até mim com sua voz ofegante e diz: "Myron, Myron, me façam algo que faça Redding ser minha."}
+{801}{}{E você diz...}
 {810}{myn120}{And I say, 'Okay, what timeframe we looking at?' He goes - of course - 'Yesterday.' Crime lords. Want everything done fast and sloppy. Least they don't have a marketing department.}
 {811}{}{I see. Go back to talking about Jet production.}
 {820}{myn121}{Before the Big One some meat companies were experimenting with a cheap protein extract for growing food, but they had to ditch it.
@@ -251,7 +251,7 @@
 {861}{myn125b}{By putting tons of brahmin shit in the vats, we found out that the fumes give more than enough of a kick. Eureka. Literally. 'Course, we had to test to get the mix right...}
 {862}{}{Uh, how much testing?}
 {863}{}{How much testing exactly?}
-{865}{}{Nevermind, Myron.}
+{865}{}{Deixa quieto, Myron.}
 {866}{}{This sounds like a load of crap... literally. It doesn't sound like you know anything about drug manufacture. "Brahmin Shit Fumes?" Please. I've heard enough.}
 {870}{myn126}{Hmmm... about a hundred slaves? Mostly heart attacks, cerebral hemorrhages, psychotic episodes... that sort of thing.}
 {871}{}{Are you insane? You killed a hundred human beings just for drug testing?!}
@@ -517,8 +517,8 @@
 {1587}{}{I'll think about it. I have a few more questions for you...}
 {1588}{}{Well, I'll think about it... it's just that, well, no offense, but science guys have a notorious reputation for being near worthless in combat.}
 {1589}{}{I'll need to think about it. I'll be back.}
-{1595}{myn119}{Redding? Town full o' gold diggers. Mordino wants to control it all. So he comes to me in his wheezing voice and says, 'Myron, Myron, make me something that'll give me Redding.'}
-{1596}{}{And you say...}
+{1595}{myn119}{Redding? Cidade cheia de garimpeiros, Mordino quer controlar tudo. Então ele vem até mim com sua voz ofegante e diz: "Myron, Myron, me façam algo que faça Redding ser minha."}
+{1596}{}{E você diz...}
 {1597}{}{Hmmm. Eu tenho outras perguntas…}
 {1605}{myn120}{And I say, 'okay, what timeframe we looking at?' He goes - of course - 'yesterday.' Crime lords. Want everything done fast and sloppy. At least they don't have a marketing department.}
 {1615}{myn236a}{Yeah. Why? You gonna try and prove me wrong, pal? }
@@ -612,10 +612,10 @@
 {1875}{}{You have convinced Myron there might be a cure.}
 {1880}{}{That's the grave where Big Jesus' stashed those extra chips.}
 {1885}{}{You have convinced Myron to leave the Stables.}
-{1957}{}{All right, all right! Stop pushing!}
+{1957}{}{Tudo bem, tudo bem! Pare de me pressionar!}
 {1958}{}{Hey, give me a break. I didn't program my A.I.}
-{1959}{}{Well, excuuuuuuse me.}
-{1960}{}{All right. But next time, YOU get out of MY way.}
+{1959}{}{Ta bom, discuuuupa.}
+{1960}{}{Tudo bem. Mas da próxima vez, VOCÊ vai sair do MEU caminho.}
 {1961}{}{I was here first. But have it YOUR way.}
 {2001}{myn321}{This sucks.}
 {2004}{myn324}{What the hell are you talking about?}

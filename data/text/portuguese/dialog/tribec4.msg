@@ -29,7 +29,6 @@
 {271}{}{I'm working on it. I'll get back to you.}
 {272}{}{I spoke to--er, listened to--the spirit. It seems she was betrayed and murdered by her lover, someone named Thorg.}
 {280}{}{Thorg?! He was the shaman that I served as an apprentice under. Wow, I knew he was a bit of an asshole, but I didn't take him for a slayer of pretty young girls. Hmm, I suppose a guilty conscience helps to explain that drunken midnight swim that lead to his death. So Thorg is a murderer... how 'bout that...}
-{280}{}{Thorg?! He was the shaman that I served as an apperceive under. Wow, I knew he was a bit of an asshole, but I didn't take him for a slayer of pretty young girls. Hmm, I suppose a guilty conscience helps to explain that drunken midnight swim that lead to his death. So Thorg is a murderer... how 'bout that...}
 {281}{}{So what now?}
 {290}{}{[Heavy sigh.] Now I suppose I have to send her into the mists. I think I'll be able to do it, but I need you to come with me. There's just no way I'd be able to face her alone and none of the others in the village will go--they believe it's an ill omen for a non-shaman to encounter a lost spirit.}
 {291}{}{Nah. I've already done too much for you. You're on your own.}
@@ -44,14 +43,14 @@
 {313}{}{I... I hear someone! Who is there? }
 {314}{}{I am the shaman of this village. You must enter the mists. There, you will find peace.}
 {315}{}{Yes! Yes I see the mists now. I see spirits beckoning to me.}
-{316}{}{Go to them, Nessa. Go into the mists and join your ancestors.}
-{317}{}{I'm not alone anymore.}
-{320}{}{Thank you for helping us rescue Serin. I gave him some herbs to help him rest and ease his pain. Spirits willing, he should be back up and about after a couple days.}
-{330}{}{Let's see here... Oh, excellent. These will work well. Here, take some healing powder for your time. May your ancestors guide you well.}
-{400}{}{Yes, yes, very funny. Now run along. I'm busy.}
-{401}{}{::Turn to leave, then quickly whirl back around:: Booh!}
-{410}{}{Ah! Dammit! Get out of here! Go!}
-{411}{}{Huh-huh! Bu-bye!}
+{316}{}{Vá até eles, Nessa. Vá para as brumas e junte-se aos seus ancestrais.}
+{317}{}{Eu não estou mais sozinho.}
+{320}{}{Obrigado por nos ajudar a resgatar Serin. Dei algumas ervas para ajudá-lo a descansar e aliviar sua dor. Se os espíritos quiserem, ele deve estar de volta depois de alguns dias.}
+{330}{}{Vamos ver aqui... Ah, excelente. Estes funcionarão bem. Aqui, pegue um pouco de pó de cura para o seu tempo. Que seus ancestrais o guiem bem.}
+{400}{}{Sim, sim, muito engraçado. Agora saia, estou ocupado.}
+{401}{}{::Vira para fora, então gira rapidamente para trás:: Booh!}
+{410}{}{Ah! Droga! Saia daqui! Vai!}
+{411}{}{Hu-hu! Tchau!}
 {420}{}{I told you before, Simple One, go on and leave me be.}
 {500}{}{You've given me the courage I need to serve this village. I can't thank you enough.}
 {501}{}{I will forever be in your debt.}

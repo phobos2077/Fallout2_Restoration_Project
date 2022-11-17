@@ -243,11 +243,11 @@ Upozornění! Spojení s centrálním serverem Čínské výzvědné sítě v Pe
 {410}{}{Od: Centrálního velení                                            Všechny jednotky na pozicích. Přenáším poslední potvrzovací
  kódy. Operace Youmíng má zelenou.}
 {411}{}{::zpět::}
-{420}{}{Prohledávám komunikační kanály...                                  PLA CentCom...		offline
-                                             CIN Peking...		offline
+{420}{}{Scanning communication outlets...                                    PLA CentCom...		offline
+                                                CIN Beijing...		offline
                                                    SSC Naval Yard...	offline
-                                           SCA Eastern Dragon..	offline
-                                     Varování: Nebylo možné navázat spojení s žádným externím serverem.}
+                                              SCA Eastern Dragon..	offline
+                                        Warning: No connection to external servers could be made.}
 {421}{}{To je škoda...}
 {430}{}{Prohledávám místní disky...}
 {431}{}{Pokračovat.}
@@ -283,9 +283,9 @@ Upozornění! Spojení s centrálním serverem Čínské výzvědné sítě v Pe
  jsou nízké a není jich dost, abychom vystačili na delší dobu. Posádka je neklidná.}
 {501}{}{Pokračovat.}
 {502}{}{::zpět::}
-{510}{}{2077-11-08: Císař je opět spuštěn, ale funguje jen tak tak. Stále nemáme žádnou navigaci a posádka je na pokraji
- vzpoury - musel jsem zastavit dva námořníky, aby nezmlátili Jinga. Naše situace je zoufalá. Obávám se, že pokud se během několika příštích dní nevynoříme na hladinu,
- tak se tu všichni pozabíjíme.}
+{510}{}{2077-11-08: The Emperor is back online, but barely. We still have no navigation and the crew is on the verge of
+ mutiny - I had to stop two sailors from beating up Jing. The situation is dire. Unless we surface in the next few days,
+ I fear we will kill each other.}
 {511}{}{Pokračovat.}
 {512}{}{::zpět::}
 {520}{}{2077-11-12: Konečně! Najeli jsme na mělčinu v San Franciské zátoce. Námořníci oslavovali, dokud jsme neotevřeli

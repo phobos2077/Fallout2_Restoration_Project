@@ -235,12 +235,11 @@ Achtung! Verbindung zum CGN Zentralserver Peking nicht verfügbar. Rufe Archivda
 {410}{}{Von: Zentrale Militärkommission
                                  Alle Kräfte in Position. Wir übertragen endgültige Bestätigungscodes. Operation Youmíng läuft an.}
 {411}{}{::zurück::}
-{420}{}{Kommunikationsanschlüsse werden gescannt...
-                         VBA ZMK                    . . . offline
-                               CGN Peking                  . . . offline
-                              SSC Flottenstützpunkt   . . . offline
-                              SCA Eastern Dragon      . . . offline
-                     Achtung: Es konnte keine Verbindung zu externen Diensten hergestellt werden.}
+{420}{}{Scanning communication outlets...                                    PLA CentCom...		offline
+                                                CIN Beijing...		offline
+                                                   SSC Naval Yard...	offline
+                                              SCA Eastern Dragon..	offline
+                                        Warning: No connection to external servers could be made.}
 {421}{}{Das ist enttäuschend...}
 {430}{}{Durchsuche lokale Laufwerke...}
 {431}{}{[FORTSETZEN]}
@@ -276,9 +275,9 @@ Achtung! Verbindung zum CGN Zentralserver Peking nicht verfügbar. Rufe Archivda
  und es ist nicht genug um damit lange durchzuhalten. Die Mannschaft wird unruhig.}
 {501}{}{Weiterlesen.}
 {502}{}{::zurück::}
-{510}{}{8.11.2077: Der Kaiser ist wieder in Betrieb, doch nur notdürftig. Wir haben noch keine Navigation und die Mannschaft ist am
- Rand der Meuterei - ich musste zwei Seeleute davon abhalten, Jing zusammenzuschlagen. Die Situation ist schrecklich. Wenn wir in den
- nächsten Tagen nicht auftauchen, fürchte ich, dass wir uns gegenseitig töten.}
+{510}{}{2077-11-08: The Emperor is back online, but barely. We still have no navigation and the crew is on the verge of
+ mutiny - I had to stop two sailors from beating up Jing. The situation is dire. Unless we surface in the next few days,
+ I fear we will kill each other.}
 {511}{}{Weiterlesen.}
 {512}{}{::zurück::}
 {520}{}{12.11.2077: Endlich! Wir liefen in der San Francisco Bucht auf Grund. Die Matrosen jubelten, bis die Luken aufgeschnitten waren.

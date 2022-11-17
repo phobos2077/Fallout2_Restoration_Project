@@ -247,7 +247,7 @@ Warning! Uplink to CIN central Beijing server unavailable. Retrieving archived d
                                                 CIN Beijing...		offline
                                                    SSC Naval Yard...	offline
                                               SCA Eastern Dragon..	offline
-                                        Warning: No connection to external serves could be made.}
+                                        Warning: No connection to external servers could be made.}
 {421}{}{That's disappointing...}
 {430}{}{Scanning local drives...}
 {431}{}{[FORTSÄTT]}
@@ -284,7 +284,7 @@ Warning! Uplink to CIN central Beijing server unavailable. Retrieving archived d
  are low and there's not enough of them to go around. The crew is getting restless.}
 {501}{}{Read on.}
 {502}{}{::back::}
-{510}{}{2077-11-08: The Emperor is back on line, but barely. We still have no navigation and the crew is on the verge of
+{510}{}{2077-11-08: The Emperor is back online, but barely. We still have no navigation and the crew is on the verge of
  mutiny - I had to stop two sailors from beating up Jing. The situation is dire. Unless we surface in the next few days,
  I fear we will kill each other.}
 {511}{}{Read on.}

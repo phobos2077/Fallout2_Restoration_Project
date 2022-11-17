@@ -187,7 +187,11 @@ Attention ! Connexion au serveur central de CIN Pékin indisponible. Recherche d
 {401}{}{[Retour]}
 {410}{}{De : Commandement Central                                            Toutes les forces sont en position. Transmettons les codes de confirmation finale. L'opération Youmíng est en route.}
 {411}{}{[Retour]}
-{420}{}{Scan des centres de communications...                                    Centre de communication de l'ALP...		déconnecté                                                CIN de Pékin...		déconnecté                                                   Chantier naval SSC...	déconnecté                                              Dragon oriental SCA...	déconnecté                                        Avertissement: Aucune connexion à un serveur externe n'a pu être établie.}
+{420}{}{Scanning communication outlets...                                    PLA CentCom...		offline
+                                                CIN Beijing...		offline
+                                                   SSC Naval Yard...	offline
+                                              SCA Eastern Dragon..	offline
+                                        Warning: No connection to external servers could be made.}
 {421}{}{C'est décevant...}
 {430}{}{Scan des disques locaux...}
 {431}{}{[Continue]}
@@ -211,7 +215,9 @@ Attention ! Connexion au serveur central de CIN Pékin indisponible. Recherche d
 {500}{}{04-11-2077 : Nous sommes à la dérive depuis plusieurs jours maintenant. Jing a tenté de redonner un peu d'énergie aux systèmes de bord, aussi nous devrions avoir assez d'oxygène pour plusieurs semaines. Je suis plus préoccupé par la nourriture et l'eau, nos réserves sont basses et il n'y en a pas assez pour survivre. L'équipage s'agite.}
 {501}{}{[Continuer]}
 {502}{}{[Retour]}
-{510}{}{08-11-2077 : L'Empereur est de nouveau en ligne, mais très peu. Nous n'avons toujours pas de navigation et l'équipage est sur le point de se mutiner. J'ai du arrêter 2 marins qui frappaient Jing. La situation est désespérée. A moins de faire surface dans les prochains jours, je crains de nous voir nous entretuer.}
+{510}{}{2077-11-08: The Emperor is back online, but barely. We still have no navigation and the crew is on the verge of
+ mutiny - I had to stop two sailors from beating up Jing. The situation is dire. Unless we surface in the next few days,
+ I fear we will kill each other.}
 {511}{}{[Continuer]}
 {512}{}{[Retour]}
 {520}{}{12-11-2077 : Enfin ! Nous avons échoué dans la baie de San Francisco. Les marins se réjouissaient jusqu'à ce que nous ayons ouvert les écoutilles. La ville est en ruines, ravagée par des tempêtes de feu et les retombées radioactives. J'ai ordonné l'inspection du rivage pour trouver un endroit viable pour un campement. Jusqu'ici, personne n'a trouvé. }
