@@ -81,23 +81,23 @@
 {180}{}{ and they just hate each other. What's your bet?}
 {181}{}{This one's a real grudge-match. The best of the best }
 {182}{}{ against }
-{183}{}{. Which one's your money on?}
-{184}{}{I've never put on a lineup this close before. }
-{185}{}{ fighting }
-{186}{}{ this round. Should be a good fight. Which ways' your money going?}
-{187}{}{Champion }
-{188}{}{ against up and coming }
-{189}{}{. Quite a match. Which one's your lucky number today?}
-{190}{}{Okay. Here's the action. }
-{191}{}{ is takin' on good old }
-{192}{}{. You won't see a fight like this one again anytime soon. What's your pleasure?}
-{193}{}{I'll put my money on }
+{183}{}{. Onde você coloca seu dinheiro?}
+{184}{}{Eu nunca fiz esse emparelhamento. }
+{185}{}{ luta }
+{186}{}{ esta vez. Deve ser uma boa luta. Para que lado está indo seu dinheiro?}
+{187}{}{Campeão }
+{188}{}{ contra o aspirante }
+{189}{}{. Uma luta e tanto. Qual é o seu número da sorte hoje?}
+{190}{}{Muito bem. Isto é o que temos. }
+{191}{}{ enfrenta o bom e velho }
+{192}{}{. Você não verá uma luta como esta novamente tão cedo. Quem você prefere?}
+{193}{}{Eu aposto em }
 {194}{}{.}
-{195}{}{I'll put my money on }
+{195}{}{Eu aposto em }
 {196}{}{.}
-{197}{}{Hmm, I think I'll sit this one out. }
-{198}{}{I think I've had enough of this for today. I'll see you some other time. Goodbye.}
-{199}{}{Here you go champ. Here's your winnings. That's the last fight today. Come back tomorrow if you want more action.}
+{197}{}{Hmm, acho que vou passar essa. }
+{198}{}{Acho que já chega disso por hoje. Vejo você outra hora. Adeus.}
+{199}{}{Aqui está campeão, esses são seus ganhos. Essa é a última luta hoje. Volte amanhã se quiser mais ação.}
 {200}{}{More to come. You want to bet on the next fight?}
 {201}{}{I sure do.}
 {202}{}{I think I'll sit this next one out.}
