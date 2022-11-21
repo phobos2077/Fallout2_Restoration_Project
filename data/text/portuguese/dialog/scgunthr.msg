@@ -30,25 +30,25 @@
 {129}{}{E que tal um GECK? Ela pode saber algo sobre isso?}
 {130}{}{There was some talk about a job.}
 {131}{}{You're useless. I'm going.}
-{132}{}{Then I suggest you read the plaque on the statue outside. Now, good day.}
-{133}{}{I have no idea what you are talking about. Do you have real question?}
+{132}{}{Então sugiro que você leia a placa na estátua do lado de fora. Agora, bom dia.}
+{133}{}{Eu não tenho ideia do que você está falando. Você tem uma pergunta de verdade?}
 {134}{}{I'm searching for Vault 13.}
 {135}{}{I understand the president has a job to be done.}
 {136}{}{Não importa.}
-{137}{}{Ah yes. Well, she's instructed me to send in anyone asking about it. You're buzzed in. It's the door to my right.}
-{138}{}{Madam President is finished with you? How did things go?}
-{139}{}{Good. Me bye-bye.}
-{140}{}{Just fine. Now, I'm out of here.}
-{141}{}{Here to report the outcome of Vault 15?}
+{137}{}{Ah sim. Bem, ela me instruiu a deixar qualquer um que perguntasse sobre isso passar. Pode passar, é a porta à minha direita.}
+{138}{}{Senhora Presidente terminou com você? Como foram as coisas?}
+{139}{}{Bom. Eu vou.}
+{140}{}{Bem. Agora, vou saindo daqui.}
+{141}{}{Esta aqui para informar o resultado da Vault 15?}
 {142}{}{Sim.}
 {143}{}{Não.}
-{144}{}{Well, I'm sorry, but Madam President is very busy. Why don't you come back when the job is done?}
+{144}{}{Bem, desculpe, mas a senhora presidente está muito ocupada. Por que você não volta quando o trabalho estiver feito?}
 {145}{}{Tudo bem.}
-{146}{}{Excellent! I'll buzz you right in.}
-{147}{}{You bastard! Guards! Assassin! Murderer!}
-{148}{}{Back so soon! Now what?}
-{149}{}{Re-ward.}
-{150}{}{The president said to see you about a reward.}
+{146}{}{Excelente! Eu te avisarei.}
+{147}{}{Seu desgraçado! Guardas! Assassino aqui!}
+{148}{}{Já de volta! O que foi agora?}
+{149}{}{Rec-compensa.}
+{150}{}{A presidente disse para pedir uma recompensa.}
 {151}{}{Mon-ey.}
 {152}{}{I'm here to collect my pay.}
 {153}{}{Your president said you should know there's a spy in your house - somebody named Feargus.}

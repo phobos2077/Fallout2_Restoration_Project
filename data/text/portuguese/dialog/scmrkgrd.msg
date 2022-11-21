@@ -1,6 +1,6 @@
-{100}{}{Looks like another guy who thinks more with his fists than his head.}
-{101}{}{Hmmm. One of Merk's guards.}
-{102}{}{Big. Tough. Dumb. Bodyguard.}
+{100}{}{Parece outro cara que pensa mais com os punhos do que com a cabeça.}
+{101}{}{Hmmm. Um dos guardas de Merk.}
+{102}{}{Grande. Forte. Idiota. Guarda-costas.}
 {103}{}{Stand back. Give Mr. Merk his space.}
 {104}{}{Uhh...}
 {105}{}{I'm not supposed to talk to anybody on duty.}

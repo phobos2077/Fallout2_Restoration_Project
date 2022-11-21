@@ -98,15 +98,15 @@
 {197}{}{Hmm, acho que vou passar essa. }
 {198}{}{Acho que já chega disso por hoje. Vejo você outra hora. Adeus.}
 {199}{}{Aqui está campeão, esses são seus ganhos. Essa é a última luta hoje. Volte amanhã se quiser mais ação.}
-{200}{}{More to come. You want to bet on the next fight?}
-{201}{}{I sure do.}
-{202}{}{I think I'll sit this next one out.}
-{203}{}{Look, nobody's forcing you to bet on them, are they? You don't like what you see here, then just keep walkin', you won't be missed. Understand?}
+{200}{}{Temos mais. Quer apostar na próxima luta?}
+{201}{}{Claro que sim.}
+{202}{}{Acho que vou ficar de fora dessa próxima.}
+{203}{}{Ei, ninguém está forçando a apostar, certo? Se você não gosta do que vê aqui, então siga seu caminho, você não fará falta. Entendeu?}
 {204}{}{Eu entendo.}
-{205}{}{What a shot! }
-{206}{}{ took out }
-{207}{}{ in the very first round! What action!}
-{208}{}{Wow, that was close but }
+{205}{}{Que golpe! }
+{206}{}{ derrubou }
+{207}{}{ logo no primeiro assalto! Impressionante!}
+{208}{}{Uau, passou raspando, mas }
 {209}{}{ won this, last battle of the day. I'll pay everyone off, but come on back tomorrow for more great action.}
 {210}{}{What a gore-fest! I can't remember ever seeing a fight like that. The winner is }
 {211}{}{. Let me pay everyone off and we'll start the next round.}

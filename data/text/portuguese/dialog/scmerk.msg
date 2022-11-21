@@ -1,6 +1,6 @@
-{100}{}{You see a well-dressed, heavy set man who moves with deliberate slowness.}
-{101}{}{It's Merk - folks call him The Man around here.}
-{102}{}{This fellow's got an air of arrogant coldness to him, like he cares for you no more than the fly he just squished between his fingers.}
+{100}{}{Você vê um homem corpulento e bem vestido se movendo com lentidão deliberada.}
+{101}{}{É Merk - as pessoas por aqui o chamam de O Homem.}
+{102}{}{Esse sujeito tem um ar de frieza e arrogancia, como se ele não visse diferença entre você e a mosca que acabou de esmagar entre os dedos.}
 {103}{}{Hey, I've seen you in the movies! Come to show me some action, have you?}
 {104}{}{Whaddya mean, disturbing my peace like this? Get outta here.}
 {105}{}{Excuse me, I got business to conduct.}

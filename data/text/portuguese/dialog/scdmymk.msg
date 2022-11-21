@@ -1,6 +1,6 @@
-{100}{}{You see a well-dressed, heavy set man who moves with deliberate slowness.}
-{101}{}{It's Merk - folks call him The Man around here.}
-{102}{}{This fellow's got an air of arrogant coldness to him, like he cares for you no more than the fly he just squished between his fingers.}
-{200}{}{Looks like another guy who thinks more with his fists than his head.}
-{201}{}{Hmmm. One of Merk's guards.}
-{202}{}{Big. Tough. Dumb. Bodyguard.}
+{100}{}{Você vê um homem corpulento e bem vestido se movendo com lentidão deliberada.}
+{101}{}{É Merk - as pessoas por aqui o chamam de O Homem.}
+{102}{}{Esse sujeito tem um ar de frieza e arrogancia, como se ele não visse diferença entre você e a mosca que acabou de esmagar entre os dedos.}
+{200}{}{Parece outro cara que pensa mais com os punhos do que com a cabeça.}
+{201}{}{Hmmm. Um dos guardas de Merk.}
+{202}{}{Grande. Forte. Idiota. Guarda-costas.}

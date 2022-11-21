@@ -37,12 +37,12 @@
  sometime.}
 {132}{}{I don't think I ever want to spend so much time looking at the ass-end of a brahmin again. Goodbye.}
 {133}{}{That wasn't too bad at all. See you later. Goodbye.}
-{134}{}{Hoo-wee! That was a great run. $1000 for you, and another $200 as a bonus. You must be some kind
- of lucky charm. Join us again if you're going our way.}
+{134}{}{Hoo-wee! Foi uma ótima corrida. $1.000 para você e outros $200 como bônus. Você deve ser algum tipo de amuleto
+ da sorte. Volte com nós se formos ao mesmo lugar.}
 {135}{}{Nice to find someone who appreciates quality when he sees it. See you around, maybe. Goodbye.}
 {136}{}{Always glad to make some extra money. Thanks, and goodbye.}
-{137}{}{Hard to say, really. I guess it depends upon how long it takes to get enough ore together. I'm
- no miner, but I'd guess it won't take longer than a couple of weeks.}
+{137}{}{Difícil dizer, na verdade. Acho que depende de quanto tempo leva para reunir minério suficiente. Não
+ sou mineiro, mas acho que não vai demorar mais do que algumas semanas.}
 {138}{}{Well, because I'm not exactly sure how long it will take to get all the medical supplies together. Probably not much
  longer than a couple of weeks. Then we can go. Just keep checking back with me.}
 {139}{}{What do you usually transport?}
