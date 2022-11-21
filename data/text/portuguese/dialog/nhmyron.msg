@@ -337,12 +337,12 @@
 {1083}{myn147c}{Feito. Aqui está, linda.}
 {1085}{}{Obrigado. Olha, eu tenho algumas perguntas...}
 {1086}{}{Obrigado, Myron. Você é um muito util.}
-{1095}{myn148}{Sorry, ain't got the "raw materials" I need... don't really wanna get 'em, either.}
+{1095}{myn148}{Desculpe, não tenho as "matérias-primas" de que preciso... também não quero pegá-las.}
 {1097}{}{Esqueça então. Eu tenho algumas perguntas...}
-{1098}{}{All right. Thanks a bunch, Myron.}
-{1105}{myn149a}{Piece of cake. How many packs you want?}
-{1106}{myn149b}{Hey, genius. Ever cross your mind that it might be easier just to stay outta trouble, huh? OK, how many?}
-{1107}{myn149c}{Just tell me how much and where you want it, beautiful.}
+{1098}{}{Tudo bem. Muito obrigado, Myron.}
+{1105}{myn149a}{Pedaço de bolo. Quantos pacotes você quer?}
+{1106}{myn149b}{Ei, gênio. Já te passou pela sua cabeça que pode ser mais fácil ficar longe de problemas, eh? Certo, quantos?}
+{1107}{myn149c}{Apenas me diga quantos e onde você quer, linda.}
 {1111}{}{Make as many stimpacks as you can from what we're carrying.}
 {1113}{}{Pode me fazer uns super stimpacks?}
 {1114}{}{Forget it. I had some questions...}
