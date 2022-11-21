@@ -157,14 +157,14 @@
 {256}{}{Me sure. Lowlifes there but me kick ass.}
 {257}{}{Quite sure. There were some lowlifes there but I kicked their ass.}
 {258}{tand34}{I've always believed in fair pay for fair work. My assistant will square things up.}
-{259}{}{Me find problem. You look disk. There spy at NCR.}
-{260}{}{Me need know one more thing. What if me found Vault 13?}
-{261}{}{I'm afraid you have another problem. If you'll look at this holodisk you'll see that you have a spy in the NCR.}
+{259}{}{Problema encontrado. Você olha disco. Há um espião na NCR.}
+{260}{}{Eu preciso saber mais uma coisa. E se eu encontrasse a Vault 13?}
+{261}{}{Receio que você tenha outro problema. Se você olhar para este holodisco, verá que tem um espião na NCR.}
 {262}{}{Just one more thing. What if I told you that I found Vault 13?}
 {263}{}{Obrigado.}
 {264}{tand35}{Damn, the only person who knew all this was Feargus! I'm not suggesting anything, but maybe Gunther should know about this.}
 {265}{}{Me tell. Me go now.}
-{266}{}{Me need know one more thing. What if me found Vault 13?}
+{266}{}{Eu preciso saber mais uma coisa. E se eu encontrasse a Vault 13?}
 {267}{}{Just one more thing. What if I told you that I found Vault 13?}
 {268}{}{I'll talk to him. Bye.}
 {269}{tand36}{It's all business, huh? Fine. Five hundred, when it's done. I don't haggle, so take it or don't waste my time.}

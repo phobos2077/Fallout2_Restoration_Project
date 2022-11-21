@@ -96,7 +96,7 @@
  Here's one for you; You gonna slap leather and draw that smoke wagon, or you just gonna stand there and
  sweat?}
 {177}{}{Okay, Sheriff! Draw!}
-{178}{}{Hey, I didn't mean nothing. I was just funnin'. Let me ask you about something.}
+{178}{}{Ei, eu não quis dizer nada. Eu só estava brincando. Deixe eu perguntar uma coisa.}
 {179}{}{Uh, hey... I was just kidding. I'll just sweat, thank you. Uh, goodbye, Sheriff.}
 {180}{}{Yeah. I figured you was like that.}
 {181}{}{Heh, heh. Goodbye, Sheriff Marion.}

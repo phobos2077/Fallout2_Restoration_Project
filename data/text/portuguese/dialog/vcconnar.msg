@@ -10,11 +10,11 @@
 {109}{}{Por quê?}
 {110}{}{Sorry, I have a job to do.}
 {111}{}{Those creatures are the only thing stopping Vault City from making us their so-called "servants".}
-{112}{}{Look, they're paying me to get rid of these beasts, so that's what I'm gonna do.}
-{113}{}{They didn't tell me that.}
-{114}{}{They're paying me to get rid of them, and the job's done.}
-{115}{}{You idiot! Why the hell did you do that!}
-{116}{}{I needed the money.}
+{112}{}{Olha, eles estão me pagando para me livrar dessas feras, então é isso que vou fazer.}
+{113}{}{Eles não me disseram isso.}
+{114}{}{Eles estão me pagando para me livrar deles, e o trabalho está feito.}
+{115}{}{Seu idiota! Por que você fez isso!}
+{116}{}{Precisava do dinheiro.}
 {117}{}{They'll come for us if you do that, you know.}
 {118}{}{Not my problem.}
 {119}{}{Well I hope you choke on it. They'll be here for us soon.}

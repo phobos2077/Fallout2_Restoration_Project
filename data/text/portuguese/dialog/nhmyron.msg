@@ -146,8 +146,8 @@
 {594}{}{Então... você e Miria. Vocês estão em um relacionamento aberto, ou...?}
 {595}{}{Quer trocar de esposa? Você pode ter a minha assim que eu conseguir uma.}
 {596}{}{Então... quem é essa gatinha asiatica?}
-{597}{}{Kitsune's kinda cute. Can I... well, you know... how about it?}
-{598}{}{This oriental chick suuuure is a looker.}
+{597}{}{Kitsune é bem gracinha. Posso... bem, você sabe... que tal?}
+{598}{}{Essa gracinha asiática cooom ceeerteza é linda.}
 {599}{}{Então... você e Kitsune. Vocês dois estão saindo ou algo assim?}
 {600}{}{Pronto pra ir?}
 {605}{}{Mas por que estamos AQUI?}
@@ -233,62 +233,62 @@
 {792}{}{Uh, "extrato de proteína?"}
 {800}{myn119}{Redding? Cidade cheia de garimpeiros, Mordino quer controlar tudo. Então ele vem até mim com sua voz ofegante e diz: "Myron, Myron, me façam algo que faça Redding ser minha."}
 {801}{}{E você diz...}
-{810}{myn120}{And I say, 'Okay, what timeframe we looking at?' He goes - of course - 'Yesterday.' Crime lords. Want everything done fast and sloppy. Least they don't have a marketing department.}
-{811}{}{I see. Go back to talking about Jet production.}
-{820}{myn121}{Before the Big One some meat companies were experimenting with a cheap protein extract for growing food, but they had to ditch it.
- One little skin bacteria contaminates it, and it's all screwed.}
-{821}{}{Screwed? How?}
-{830}{myn122}{The contaminated version acted like an amphetamine when ingested. Little side effect. Don't ask. It's, uh, technical.}
-{831}{}{So... did you somehow get a hold of this protein extract?}
-{840}{myn123}{I didn't have to. When they first screwed up, they contaminated tons of that shit. And rather than ditch it, they fed it to their brahmin herds to try and recoup their losses.}
-{841}{}{Uh, okay...}
-{842}{}{This better be going somewhere, Myron.}
-{843}{}{So you used brahmin shit as fertilizer for the shrooms, except the pre-war protein contamination gives whatever shrooms grown in brahmin shit... certain extra ingredients?}
-{850}{myn124a}{Close...}
-{851}{myn124b}{See, we start experimenting with the brahmin shit as fertilizer for the shrooms, except get this; then, we noticed the slaves working fertilizer vats were getting high from the fumes...}
-{853}{}{So the fumes were enough to produce the effect?}
-{860}{myn125a}{Riiiight...}
-{861}{myn125b}{By putting tons of brahmin shit in the vats, we found out that the fumes give more than enough of a kick. Eureka. Literally. 'Course, we had to test to get the mix right...}
-{862}{}{Uh, how much testing?}
-{863}{}{How much testing exactly?}
+{810}{myn120}{E eu digo, 'Ok, qual o prazo que estamos falando?' Ele diz: "Para ontem". Os cabeças do crime, querem tudo feito rápido e de qualquer jeito. Pelo menos eles não têm um departamento de marketing.}
+{811}{}{Entendo. Volte a falar sobre a produção do Jet.}
+{820}{myn121}{Antes da Grande Guerra, algumas empresas de carne estavam experimentando um extrato de proteína barato para o cultivo de alimentos, mas tiveram
+ que abandonar. Uma bactériazinha da pele a contamina, e está tudo ferrado.}
+{821}{}{Sim? Como?}
+{830}{myn122}{A versão contaminada agia como uma anfetamina quando ingerida. Pouco efeito colateral. Não pergunte. É, uh, algo técnico.}
+{831}{}{Então... você de alguma forma conseguiu esse extrato de proteína?}
+{840}{myn123}{Eu não precisava. Quando eles estragaram tudo, eles contaminaram toneladas dessa merda. E ao invés de abandonar, eles alimentaram seus rebanhos de brahmins para tentar recuperar suas perdas.}
+{841}{}{Uh, ok...}
+{842}{}{É melhor que isso chegue a algum lugar, Myron.}
+{843}{}{Então você usou merda de brahmins como fertilizante para os cogumelos, exceto que a contaminação de proteína pré-guerra deu aos cogumelos que cresceram em merda de brahmins ... alguns ingredientes extras?}
+{850}{myn124a}{Perto...}
+{851}{myn124b}{Veja, nós começamos a experimentar a merda de brahmin como fertilizante para os cogumelos, exceto por isso; então, notamos que os escravos que trabalhavam nos tanques de fertilizantes estavam ficando chapados com a fumaça...}
+{853}{}{Então só os gases foram suficientes para produzir efeito?}
+{860}{myn125a}{Ceeeerto...}
+{861}{myn125b}{Colocando toneladas de merda brahmin nos tonéis, descobrimos que a fumaça dá um coice mais que suficiente. Eureka. Literalmente. Claro, tivemos que testar para acertar a mistura...}
+{862}{}{Uh, quanto testaram?}
+{863}{}{Quantos testes exatamente?}
 {865}{}{Deixa quieto, Myron.}
-{866}{}{This sounds like a load of crap... literally. It doesn't sound like you know anything about drug manufacture. "Brahmin Shit Fumes?" Please. I've heard enough.}
-{870}{myn126}{Hmmm... about a hundred slaves? Mostly heart attacks, cerebral hemorrhages, psychotic episodes... that sort of thing.}
-{871}{}{Are you insane? You killed a hundred human beings just for drug testing?!}
-{872}{}{Figures... Jet can be pretty powerful stuff. Least nobody important died. Still, hard to believe you killed that many, though...}
+{866}{}{Isso soa como um monte de bosta ... literalmente. Parece que você não sabe nada sobre fabricação de drogas. "Fumaça da merda de brahmin?" Por favor, já ouvi o suficiente.}
+{870}{myn126}{Hmmm... cerca de cem escravos? Principalmente ataques cardíacos, hemorragias cerebrais, episódios psicóticos... esse tipo de coisa.}
+{871}{}{Você está louco? Você matou cem seres humanos apenas para testar drogas?!}
+{872}{}{Apenas números... o jet pode ser um negócio bem forte. Pelo menos ninguém importante morreu. Ainda assim, é difícil acreditar que ele matou tantos...}
 {873}{}{Eu vejo. Olhe, eu tenho algumas outras perguntas…}
-{880}{myn127}{Well, not on purpose. I mean, slaves are expensive. Still, we made the money back in the first few months, so the Mordino Family wasn't too pissed at me.}
-{881}{}{I think you and I are going to get along, Myron. Ends justify the means. Say, I had some other questions...}
-{882}{}{Myron, you are lower than a snake's shadow. Killing humans for drug testing... that's the coldest thing I've ever heard.}
-{883}{}{Myron, you killed over a hundred humans beings for the sake of drug testing? Did you get your conscience lobotomized when you were a kid?}
-{884}{}{Tell me about it. Slave prices keep going up. If humans only bred faster. Anyway, I had some other questions...}
+{880}{myn127}{Bem, não de propósito. Quero dizer, os escravos são caros. Ainda assim, recuperamos o dinheiro nos primeiros meses, então a Família Mordino não ficou muito chateada comigo.}
+{881}{}{Acho que você e eu vamos nos dar bem, Myron. Os fins justificam os meios. Olha, eu tinha algumas outras perguntas...}
+{882}{}{Myron, você é mais baixo que a sombra de uma cobra. Matar humanos para testar drogas... é a coisa mais fria que já ouvi.}
+{883}{}{Myron, você matou mais de cem seres humanos para testar drogas? Teve sua consciência lobotomizada quando era criança?}
+{884}{}{Conte-me sobre isso. Os preços dos escravos continuam subindo.... Se os humanos ao menos se reproduzissem mais rápido. Enfim, tenho outras dúvidas...}
 {885}{}{Eu... entendi. Olhe, eu tenho outras perguntas...}
-{886}{}{I think I've heard enough.}
-{887}{}{Oh, well, THAT makes it all right, then. I've heard enough. I'm out of here.}
-{890}{myn128}{You getting bent at me over a bunch of slaves? Hey, we had to make sure Jet wouldn't kill our customers.}
+{886}{}{Acho que já ouvi o suficiente.}
+{887}{}{Oh, bem, então ISSO termina tudo. Já ouvi o suficiente. Vou sair daqui.}
+{890}{myn128}{Você está me atacando por causa de um bando de escravos? Ei, tínhamos que ter certeza de que jet não mataria nossos clientes.}
 {891}{}{Tem razão, Myron. Eu tenho outras perguntas...}
-{893}{}{Oh, well, THAT makes it all right, then. Congratulations, Myron. You have hit the lowest common denominator possible for a human being. I'm out of here.}
-{894}{}{Sounds sensible. Maybe we'll talk later.}
-{900}{myn129a}{How quaint. A cure. Sure. You go cold turkey. Course, I made sure that was a reeeal difficult option with Jet.}
-{901}{myn129b}{Beautiful, look. This is drug addiction, not an STD. Only cure is to go cold turkey, heh heh, and that's a reeeal difficult option with Jet.}
-{902}{}{How did you create Jet?}
-{903}{}{Myron, you're a pretty smart fella. Consider it a challenge. What would it take to make a cure for Jet?}
-{910}{myn130}{Ah for fuck's sake, it can't be done, all right? It's a goddamn drug, not a bacterial infection.}
-{911}{}{It's basically a highly addictive meta-amphetamine, right? Couldn't you use a nervous system suppressant to break the addiction?}
-{913}{}{Nevermind, Myron. Forget I asked.}
-{920}{myn131}{Nice try, no dice. Jet ain't blocked that easy. Once it's in your system, it ain't coming out.}
-{921}{}{What about using some kind of endorphin blocker? That would repress the chemical and psychological addiction, wouldn't it?}
+{893}{}{Oh, bem, então ISSO termina tudo. Parabéns Myron, você atingiu o menor denominador comum possível para um ser humano. Vou sair daqui.}
+{894}{}{Parece sensato. Talvez possamos conversar mais tarde.}
+{900}{myn129a}{Que graça, uma cura. Claro, você pode passar pela síndrome de abstinência. Claro, eu me certifiquei de que seria uma fase muuuuito difícil com o jet.}
+{901}{myn129b}{Olha, lindinha. Isso é vício em drogas, não uma DST. A única cura é perder a cabeça, heh heh, e essa é uma saída muito difícil com o jet.}
+{902}{}{Como você criou o jet?}
+{903}{}{Myron, você é um cara muito esperto. Considere isso um desafio. O que seria necessário para fazer uma cura para jet?}
+{910}{myn130}{Ah, pelo amor de Deus, isso não pode ser feito, certo? É uma maldita droga, não uma infecção bacteriana.}
+{911}{}{É basicamente uma meta-anfetamina altamente viciante, certo? Você não poderia usar um supressor do sistema nervoso para quebrar o vício?}
+{913}{}{Não importa, Myron. Esqueça o que eu perguntei.}
+{920}{myn131}{Boa tentativa, mas falhou, o jet não é bloqueado tão fácil. Uma vez que está no seu sistema, não sai.}
+{921}{}{Que tal usar algum tipo de bloqueador de endorfina? Isso reprimiria a dependência química e psicológica, não é?}
 {924}{}{Deixe pra lá então.}
-{930}{myn132}{Kee-rist. That has got to be the dumbest... hmmmm...}
+{930}{myn132}{Por Cristo. Isso deve ser o mais estúpido de todos... hmmmm...}
 {931}{}{Bem?}
-{940}{myn133}{Well... maybe it would work, but I'm pretty sure Jet would just chew right through that shit. Now wh-wh-why the hell are we even talking about this?! Wh-where would you get your hands on endorphin blockers anyway?}
-{941}{}{You tell me, Myron. You're a bright guy.}
-{950}{myn134}{Maybe Vault City. They have a pretty good medical warehouse. A lot of old pre-holocaust bases also used to stock them to prevent combat drug addiction.}
-{951}{}{Why don't we try Vault City?}
-{952}{}{Pre-holocaust bases? Where?}
-{954}{}{All right. Maybe I can find some somewhere.}
-{960}{myn135}{Ha! You'd have better luck convincing a radscorpion to part with its tail than get Vault City to give up anything.}
-{961}{}{What about those pre-holocaust bases? Where are those?}
+{940}{myn133}{Bem... talvez funcione, mas tenho certeza que o jet iria mastigar essa merda. Agora, por que mesmo estamos falando sobre isso?! Mas tanto faz, onde você acharia bloqueadores de endorfina?}
+{941}{}{Me diga você, Myron. Você é um cara brilhante.}
+{950}{myn134}{Talvez Vault City. Eles têm um armazém médico muito bom. Muitas bases antigas pré-holocausto também costumavam estocá-los para prevenir o combate ao vício em drogas.}
+{951}{}{Por que não tentamos Vault City?}
+{952}{}{Bases pré-holocausto? Onde?}
+{954}{}{Tudo bem. Talvez eu possa encontrar em algum lugar.}
+{960}{myn135}{Ha! Você teria mais sorte tentando convencer um radscorpion a te dar sua cauda do que fazer Vault City desistir de qualquer coisa.}
+{961}{}{E aquelas bases pré-holocausto? Onde estão essas?}
 {962}{}{Yeah, maybe. Look, I had some other questions...}
 {963}{}{No harm in trying.}
 {970}{myn136}{Do I look like a cartographer? You want to scour the desert for them, you go right ahead.}

@@ -133,7 +133,7 @@
 {232}{}{Oh, no, no... you see, our pregnancies don't result from intercourse.}
 {233}{}{I'm afraid to ask. But I will anyway.}
 {234}{}{I don't want to know any more. I had some other questions, though...}
-{235}{}{I think I've heard enough.}
+{235}{}{Acho que já ouvi o suficiente.}
 {236}{}{Male Citizens "donate" to the Auto-Doc here in the Vault and the most favorable matches are chosen by the computer. Then the appropriate female Citizen is seeded by the Auto-Doc.}
 {237}{}{Can I donate?}
 {238}{}{Don't people still get pregnant from intercourse? What about accidental pregnancies?}
