@@ -289,54 +289,54 @@
 {954}{}{Tudo bem. Talvez eu possa encontrar em algum lugar.}
 {960}{myn135}{Ha! Você teria mais sorte tentando convencer um radscorpion a te dar sua cauda do que fazer Vault City desistir de qualquer coisa.}
 {961}{}{E aquelas bases pré-holocausto? Onde estão essas?}
-{962}{}{Yeah, maybe. Look, I had some other questions...}
-{963}{}{No harm in trying.}
-{970}{myn136}{Do I look like a cartographer? You want to scour the desert for them, you go right ahead.}
-{971}{}{What about Vault City?}
-{973}{}{Thanks for nothing, Myron.}
-{974}{}{I just might do that.}
-{980}{myn137}{Oooh... with a wit like that, you're sure to wise up and go for me, beautiful. You'll see.}
-{981}{}{Whatever. How did you create Jet?}
-{983}{}{Yeah, we'll see. Can you make me some Jet?}
-{985}{}{Forget I asked anything, Myron.}
-{990}{myn139}{Wha-a-a-are you fucking serious? Whoa, whoa, hey, hey... you keep me around, I'll do you a favor. Huh? Wh-Whadda ya say?}
-{991}{}{Like what kind of favor?}
-{992}{}{Forget favors. Now buzz off, you annoying pest.}
-{993}{}{Forget favors. Now wait here, you annoying pest.}
-{994}{}{Forget I said anything. You can stay.}
-{1005}{myn140}{Hoh! Oh, so-o-o what was that, like tribal humor? Yea, hardy-har-har. Pretty fucking funny.}
-{1006}{}{Yeah, we tribals are famous for it. Let's get going.}
-{1010}{myn141}{Okay! Okay! I'll wait here. Phew! You could show me a little more respect, you know. I am MYRON.}
-{1020}{myn142a}{I've heard of a secret building with lots of strange vegetation around it. If I'm with you, I can point it out on a map.}
-{1021}{myn142b}{Could be I know one of Mordino's little stashes in Golgotha outside of Reno. Lotsa chips. Lotsa drugs. Just gotta keep me around.}
-{1022}{myn142c}{I'll... I'll carry more of your stuff! No hassles when you ask me to make drugs! Just keep me around, okay?}
-{1023}{}{Okay. You can stay.}
-{1026}{}{Forget it, Myron. Wait here until I get back.}
-{1035}{myn143a}{"Can I make drugs?" I'm Myron. Whaddya need?}
-{1036}{myn143b}{Hey, can't get enough, huh? Whaddya need?}
-{1037}{}{An antidote for radscorpion venom.}
+{962}{}{Sim, talvez. Olha, eu tinha outras perguntas...}
+{963}{}{Não custa nada tentar.}
+{970}{myn136}{Tenho cara de cartógrafo? Se você quiser vasculhar o deserto caçando eles, vá em frente.}
+{971}{}{E sobre Vault City?}
+{973}{}{Obrigado por nada, Myron.}
+{974}{}{Poderia fazer isso.}
+{980}{myn137}{Oooh... com uma sagacidade dessas, tenho certeza que você vai cair em si e voltar para mim, belezinha. Você verá.}
+{981}{}{Que seja. Como você criou o jet?}
+{983}{}{Sim, veremos. Você pode me fazer algum jet?}
+{985}{}{Esqueça que te perguntei alguma coisa, Myron.}
+{990}{myn139}{Vo-você e-está falando sério? Ei, ei, ei, ei... se eu ficar por perto, te faço um favor. Huh? O-O que você me diz?}
+{991}{}{Que tipo de favor?}
+{992}{}{Esqueça o favor. Sai de perto de mim, praga irritante.}
+{993}{}{Esqueça o favor. Agora espere aqui, praga irritante.}
+{994}{}{Esqueça o que ouviu. Você pode ficar.}
+{1005}{myn140}{Hoh! Oh, o que foi isso? Algum tipo de humor tribal? Sim, engraçado, ha ha. Engraçado pra um caralho.}
+{1006}{}{Sim, nós tribais somos famosos por isso. Vamos indo.}
+{1010}{myn141}{Ok! Ok! Eu espero aqui. Ufa! Você poderia me mostrar um pouco mais de respeito, sabe. Eu sou MYRON.}
+{1020}{myn142a}{Ouvi falar de um prédio secreto com muita vegetação estranha ao redor. Se eu estiver com você, posso indicá-lo no mapa.}
+{1021}{myn142b}{Pode ser que eu conheça um dos pequenos esconderijos de Mordino na Gólgota, perto de Reno. Muitas tampas e drogas. Só tenho que ficar por perto.}
+{1022}{myn142c}{Eu vou... eu vou carregar mais coisas suas! Não discuto quando você me pedir para fazer drogas! Apenas me deixe por perto, ok?}
+{1023}{}{OK. Você pode ficar.}
+{1026}{}{Esqueça isso, Myron. Espere aqui até eu voltar.}
+{1035}{myn143a}{Se "posso fazer drogas?" Eu sou Myron. Qual você precisa?}
+{1036}{myn143b}{Ei, não se cansa, hein? Do que você precisa?}
+{1037}{}{Um antídoto para veneno de radscorpion.}
 {1038}{}{Algum jet.}
-{1039}{}{Some stimpacks.}
-{1040}{}{Can you make super stimpacks?}
+{1039}{}{Alguns stimpacks.}
+{1040}{}{Pode me fazer uns super stimpacks?}
 {1041}{}{Nada não. Eu tenho outras perguntas...}
 {1042}{}{Deixa pra lá.}
-{1050}{myn145a}{Uhm, I'm gonna need some radscorpion venom sacs first. Ironic, in'it?}
-{1051}{myn145b}{Oh, well, I'd looove to, beautiful, but I need radscorpion tails. Oh, well.}
-{1052}{}{Can you make any other drugs?}
+{1050}{myn145a}{Uhm, eu vou precisar de alguns sacos de veneno de radscorpion primeiro. Irônico, né?}
+{1051}{myn145b}{Bem, eu adoraria, princesa, mas preciso de caudas de radscorpion. Ah, é isso.}
+{1052}{}{Pode me fazer alguma outra droga?}
 {1053}{}{Esqueça então. Eu tenho algumas perguntas...}
-{1060}{myn146a}{Hmmm, Shouldn't be too hard. How many bottles of antidote you want?}
-{1061}{myn146b}{Ah, for cryin' out loud. Ever think it might be easier to just stay away from the friggin' scorpions in the first place, genius? How many you want this time?!}
-{1062}{myn146c}{Anything for you, beautiful. He-ha! How many you want?}
-{1063}{}{Just one.}
-{1065}{}{Three's a charm.}
-{1066}{}{Make antidote out of all the tails that we have. They aren't good for much else.}
-{1067}{}{Forget it. Can you make any other drugs?}
+{1060}{myn146a}{Hmmm, não deve ser muito difícil. Quantos frascos de antídoto você quer?}
+{1061}{myn146b}{Ah, pelo amor de Deus. Já passou pela sua cabeça que é mais fácil ficar longe dos escorpiões, gênio? Quantos você quer desta vez?!}
+{1062}{myn146c}{Qualquer coisa para você, linda. He-ha! Quantos voce quer?}
+{1063}{}{Só um.}
+{1065}{}{Tres deve dar.}
+{1066}{}{Faça um antídoto com todas as caudas que temos. Eles não são uteis para muito mais.}
+{1067}{}{Esqueça. Você pode fazer outras drogas?}
 {1068}{}{Nada; eu mudei de ideia. Eu tenho algumas perguntas...}
-{1081}{myn147a}{Done. Here you go.}
-{1082}{myn147b}{There. That's it. No more of that shit, all right? Next time, go find some backwater medicine man to do it.}
-{1083}{myn147c}{Done. Here you go, beautiful.}
+{1081}{myn147a}{Feito. Aqui está.}
+{1082}{myn147b}{Certo, feito. Chega dessa merda, beleza? Da próxima vez, vai encontrar algum curandeiro para fazer isso.}
+{1083}{myn147c}{Feito. Aqui está, linda.}
 {1085}{}{Obrigado. Olha, eu tenho algumas perguntas...}
-{1086}{}{Thanks, Myron. You're a real sport.}
+{1086}{}{Obrigado, Myron. Você é um muito util.}
 {1095}{myn148}{Sorry, ain't got the "raw materials" I need... don't really wanna get 'em, either.}
 {1097}{}{Esqueça então. Eu tenho algumas perguntas...}
 {1098}{}{All right. Thanks a bunch, Myron.}
@@ -344,7 +344,7 @@
 {1106}{myn149b}{Hey, genius. Ever cross your mind that it might be easier just to stay outta trouble, huh? OK, how many?}
 {1107}{myn149c}{Just tell me how much and where you want it, beautiful.}
 {1111}{}{Make as many stimpacks as you can from what we're carrying.}
-{1113}{}{Can you make super stimpacks?}
+{1113}{}{Pode me fazer uns super stimpacks?}
 {1114}{}{Forget it. I had some questions...}
 {1125}{myn151}{Sorry, we just ain't got what I need to whip up a stim. Let's see: You'll need some xander root... some broc flower... and an empty hypo.}
 {1126}{}{Can you make some other drugs?}
