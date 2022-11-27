@@ -114,21 +114,21 @@
 {213}{}{E o ganhador é...}
 {214}{}{ by a blood-soaked claw. Let me pay everyone off and we'll start the next round.}
 {215}{}{I just wanted to say that Ascorti's is going to be running a special on, uh, *steaks* tonight. It'll be just a moment while we drag the loser from the field. }
-{216}{}{ wins this fight! Let me pay everyone off and we'll start the next round.}
-{217}{}{It looks as though }
-{218}{}{ won. I've never seen a trouncing like that. Let me pay everyone off and we'll start the next round.}
-{219}{}{Wahoo! I won.}
-{220}{}{Yes! That's the ticket!}
-{221}{}{I've got a real talent for this.}
-{222}{}{I sure know my critter-flesh.}
-{223}{}{Damn. I lost.}
-{224}{}{Just my luck.}
-{225}{}{That could have gone better.}
-{226}{}{Maybe next time I'll pick better.}
-{227}{}{Good thing I didn't bet on that one.}
-{228}{}{I'm glad I held onto my money.}
-{229}{}{That would've cost me.}
-{230}{}{That was a good fight. Glad I didn't bet on it though.}
+{216}{}{ ganha essa luta! Deixe eu pagar a todos e começaremos a próxima rodada.}
+{217}{}{Parece que }
+{218}{}{ ganhou. Nunca vi uma surra assim. Deixe eu pagar a todos e começaremos a próxima rodada.}
+{219}{}{Uou! Eu Ganhei.}
+{220}{}{isso! Bem desse jeito!}
+{221}{}{Eu tenho um verdadeiro talento para isso.}
+{222}{}{Conheço bem o meu bicho.}
+{223}{}{Desgraça, eu perdi.}
+{224}{}{Só a minha sorte.}
+{225}{}{Isso poderia ter sido melhor.}
+{226}{}{Talvez da próxima vez eu escolha melhor.}
+{227}{}{Ainda bem que não apostei nisso.}
+{228}{}{Ainda bem que guardei meu dinheiro.}
+{229}{}{Isso teria me dado prejuízo.}
+{230}{}{Essa foi uma boa luta. Ainda bem que não apostei nisso.}
 {231}{}{Ok, obrigado.}
 {300}{}{Keen Squeek}
 {301}{}{Vicky}
@@ -138,43 +138,43 @@
 {305}{}{Marengo}
 {306}{}{Jackelope}
 {307}{}{Assassino}
-{308}{}{Boss}
+{308}{}{Chefe}
 {310}{}{Petroleiro}
 {311}{}{Muttley}
 {312}{}{Spud}
 {313}{}{Larry}
-{314}{}{Joe}
+{314}{}{Zé}
 {315}{}{Kong}
 {316}{}{Gorgo}
 {317}{}{Willard}
 {318}{}{Ben}
 {320}{}{Stumpy}
-{321}{}{Shredder}
+{321}{}{Trituradora}
 {322}{}{Ripper}
 {323}{}{Skree}
 {324}{}{Buban}
 {325}{}{Bongo}
-{326}{}{One-eye}
-{327}{}{Spot}
-{328}{}{Lord Wiggler}
+{326}{}{Caolho}
+{327}{}{Mancha}
+{328}{}{Visconde de Sabugosa}
 {330}{}{Sortudo}
-{331}{}{Zoroaster the Great}
+{331}{}{Zoroaster O Grande}
 {332}{}{Shub}
 {333}{}{Usuthu}
 {334}{}{Growler}
 {335}{}{Puggsly}
-{336}{}{Precious}
+{336}{}{Tesouro}
 {337}{}{Fraggle}
-{338}{}{Captain Midnight}
+{338}{}{Capitão Meia Noite}
 {340}{}{Martelo}
-{341}{}{Secretariat}
-{342}{}{Man o' War}
+{341}{}{Secretaria}
+{342}{}{Manowar}
 {343}{}{Sancho Panza}
 {344}{}{Loki}
 {345}{}{Cerberus}
 {346}{}{Grendel}
-{347}{}{Lady Penelope}
-{348}{}{Mr. Baggins}
+{347}{}{Penelope Charmosa}
+{348}{}{Sr. Baggins}
 {350}{}{Relâmpago}
 {351}{}{Percy}
 {352}{}{Flor}

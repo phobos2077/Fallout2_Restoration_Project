@@ -410,48 +410,48 @@
 {1325}{myn215a}{Meu Deus do céu! Eu falei pra Jesus que aqueles dois idiotas não podiam vigiar uma pedra! Então uh, você acabou com eles, hein? Vai me matar também?}
 {1326}{myn215b}{Uau. Sexy e mortal! Então você acabou com eles, hein? Vai me matar também?}
 {1327}{}{Estou pensando sobre isso. Você tem algo para me convencer do contrário... garoto?}
-{1328}{}{Not unless you do something stupid. Who are you?}
-{1329}{}{Not unless you do something stupid. You Myron?}
-{1330}{}{Yeah, why not? I ain't killed anyone since I started this conversation. }
-{1331}{}{Not now. Maybe later. }
-{1345}{myn216a}{Sure, pal. }
-{1346}{myn216b}{Sure, lady. }
-{1347}{myn216c}{You bet, beautiful. }
-{1348}{myn216d}{I-I can give you drugs. You lookin' to fly?}
-{1349}{}{Actually, I want everything you have. Hand it over, and I'll let you live.}
-{1350}{}{Sure. Give me all the drugs you got.}
-{1351}{}{I don't want anything right now. Maybe later.}
-{1365}{myn217}{All right, all right. Here you go. Now will you leave me alone?}
-{1366}{}{No. Who are you?}
-{1367}{}{No. You Myron?}
+{1328}{}{Não, a menos que você faça algo estúpido. Quem é Você?}
+{1329}{}{Não, a menos que você faça algo estúpido. Você é Myron?}
+{1330}{}{Sim, por que não? Não matei ninguém desde que comecei esta conversa. }
+{1331}{}{Agora não. Talvez mais tarde. }
+{1345}{myn216a}{Claro, amigo. }
+{1346}{myn216b}{Claro, senhorita. }
+{1347}{myn216c}{Pode apostar, linda. }
+{1348}{myn216d}{Eu-eu posso te dar drogas. Você gostaria de chapar?}
+{1349}{}{Na verdade, eu quero tudo o que você tem. Entregue e eu o deixarei viver.}
+{1350}{}{Claro. Me de todas as drogas que voce tem.}
+{1351}{}{Eu não quero nada agora. Talvez mais tarde.}
+{1365}{myn217}{Tudo bem, tudo bem. Aqui está. Agora você vai me deixar em paz?}
+{1366}{}{Não, quem é você?}
+{1367}{}{Não. Voce é Myron?}
 {1368}{}{Claro. Por hora... Mas eu voltarei.}
-{1375}{myn218a}{M-maybe. W-who the hell are you?}
-{1376}{myn218b}{Say, you one of Mordino's new whores or just a big fan of Myron? Ooh, you got a name to go with those legs, beautiful?}
-{1377}{myn218c}{Who the hell are you?}
-{1378}{myn218d}{I'm someone who's been looking for someone like you, beautiful. And you are...?}
+{1375}{myn218a}{T-talvez. Quem seria você?}
+{1376}{myn218b}{Diga, você é uma das novas putas de Mordino ou apenas uma grande fã de Myron? Ooh, você tem um nome para combinar com essas pernas, linda?}
+{1377}{myn218c}{Mas quem diabos é você?}
+{1378}{myn218d}{Eu sou alguém que está procurando por alguém como você, linda. E você é...?}
 {1379}{}{.}
-{1380}{}{I'm just a traveler passing through.}
-{1381}{}{I'm someone who's in the wrong room. Later.}
-{1395}{myn219a}{That so? Why are you here? Huh? Thought you could hit Myron up for some free drugs?}
-{1396}{myn219b}{Whatever, beautiful. Want some drugs to break the ice, or should we just get down to some mattress dancing?}
-{1397}{}{I would, but I don't have ten seconds to spare right now. What drugs are you talking about?}
-{1398}{}{Drugs? Like what?}
-{1399}{}{I'm definitely in the wrong room. Pardon me.}
-{1405}{myn220a}{Hey stupid! Jet, mother fucker, Jet! Yer talkin' to its maker. Its creator. Its... God.}
-{1406}{myn220b}{Are you stupid? Jet, bitch, Jet! Yer talkin' to its maker. Its creator. Its... God.}
-{1407}{myn220c}{You ever heard of Jet, beautiful? Well, yer talkin' to its maker. Its creator. Its... God.}
-{1408}{}{Bullshit. You didn't make Jet.}
-{1409}{}{You made Jet?}
-{1410}{}{You made Jet? No way! That stuff is making a KILLING on the streets!}
-{1411}{}{Big deal. I'm out of here.}
-{1412}{}{Your mother must be proud. Later, kid.}
-{1413}{}{Really? Interesting. I have to go now.}
-{1425}{myn221a}{I did so make Jet! What, you think this lab is for show?}
-{1426}{myn221b}{Sorry to prove you wrong, beautiful, but look around. This lab ain't just for show.}
-{1427}{}{All right. MAYBE you did make Jet.}
-{1428}{}{Why did you make Jet?}
-{1430}{}{Your mother must be proud. I'm out of here.}
-{1445}{myn222}{Damn right I did! I make the shit everybody wants and can't get enough of.}
+{1380}{}{Sou apenas um viajante de passagem.}
+{1381}{}{Sou alguém que está na sala errada. Até mais.}
+{1395}{myn219a}{Só isso? Por quê você está aqui? Huh? Achou que podia pedir ao Myron algumas drogas grátis?}
+{1396}{myn219b}{Tanto faz, linda. Quer algumas drogas para quebrar o gelo, ou devemos apenas começar a dançar no colchão?}
+{1397}{}{Eu gostaria, mas não tenho dez segundos sobrando agora. De que drogas você está falando?}
+{1398}{}{Drogas? Como o quê?}
+{1399}{}{Estou definitivamente na sala errada. Desculpe.}
+{1405}{myn220a}{Ei, estúpido! jet, filho da puta, jet! Você está falando com seu criador. Seu criador. Com... Deus.}
+{1406}{myn220b}{Você é estúpida? Jet, vadia, jet! Você está falando com seu criador. Seu criador. Com... Deus.}
+{1407}{myn220c}{Já ouviu falar em jet, linda? Bem, você está falando com seu criador. Seu criador. Com... Deus.}
+{1408}{}{Besteira. Voce não criou o jet.}
+{1409}{}{Voce criou o jet?}
+{1410}{}{Você fez o jet? Não mesmo! Essa porcaria está fazendo uma CARNIFICINA nas ruas!}
+{1411}{}{Grande coisa. Estou saindo daqui.}
+{1412}{}{Sua mãe deve estar orgulhosa. Até depois, garoto.}
+{1413}{}{Sério? Interessante. Eu tenho que ir agora.}
+{1425}{myn221a}{Eu criei o jet! Você acha que este laboratório é de enfeite?}
+{1426}{myn221b}{Desculpe provar que você está errada, linda, mas olhe em volta. Este laboratório não é só de enfeite.}
+{1427}{}{Tudo bem. TALVEZ você tenha feito o jet.}
+{1428}{}{Por que voce criou o jet?}
+{1430}{}{Sua mãe deve estar orgulhosa. Estou saindo daqui.}
+{1445}{myn222}{Claro como o dia que eu fiz! Eu fiz a merda que todo mundo consome e nunca se cansa.}
 {1455}{myn223}{"Why?" 'Cause I could. Family Mordino needed a product, Myron makes a product, Mordino makes Myron happy... at least as happy as they're able. Nice lil' circle o' love, huh?}
 {1456}{}{How did you make Jet?}
 {1457}{}{'As happy as they're able?' Are you happy here?}
