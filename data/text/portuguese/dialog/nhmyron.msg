@@ -343,73 +343,73 @@
 {1105}{myn149a}{Pedaço de bolo. Quantos pacotes você quer?}
 {1106}{myn149b}{Ei, gênio. Já te passou pela sua cabeça que pode ser mais fácil ficar longe de problemas, eh? Certo, quantos?}
 {1107}{myn149c}{Apenas me diga quantos e onde você quer, linda.}
-{1111}{}{Make as many stimpacks as you can from what we're carrying.}
+{1111}{}{Faça o máximo de stimpacks que puder com o que temos disponivel.}
 {1113}{}{Pode me fazer uns super stimpacks?}
-{1114}{}{Forget it. I had some questions...}
-{1125}{myn151}{Sorry, we just ain't got what I need to whip up a stim. Let's see: You'll need some xander root... some broc flower... and an empty hypo.}
-{1126}{}{Can you make some other drugs?}
-{1127}{}{If you can make stimpacks, couldn't you make some super stimpacks?}
-{1128}{}{All right then. I had some questions...}
-{1135}{myn152}{Of course I could...'cept we ain't got what I need. Some of that mutated fruit for the citric acid... a splash a' Nuka Cola... and a normal stim pack.}
-{1145}{myn153a}{Repeat after me: Myron's a genius. How many packs you want?}
-{1146}{myn153b}{How about. Stay. Out. Of. Trouble? Nevermind, obviously too tough a concept. How many this time?}
-{1147}{myn153c}{Myron's your man, beautiful. How many?}
-{1149}{}{Give me two.}
-{1151}{}{Make as many stimpacks as you can from what we're carrying.}
-{1170}{myn201a}{Who're you an' how the hell did you get in here? Wh-where are those jackass guards?}
-{1171}{myn201b}{Why, helll-ooooo there, beautiful. What can Myron do to, ah-uh, for you?}
-{1172}{}{Gud. Nuh-uh.}
-{1173}{}{Hell-oooooo Moron. Me }
-{1174}{}{Gud. Ded.}
-{1175}{}{Weak people watching door stop breathing when I hurt them}
-{1176}{}{Bye-bye}
-{1177}{}{Your guards are too busy being dead to be watching the door.}
-{1178}{}{I used this badge. Marjorie sent me.}
+{1114}{}{Esqueça. eu tinha algumas perguntas...}
+{1125}{myn151}{Desculpe, mas não temos o que preciso para preparar um stimpack. Vejamos: você vai precisar de um pouco de raiz de xander... um pouco de flor de broc... e uma hipodermica vazia.}
+{1126}{}{Você pode fazer algumas outras drogas?}
+{1127}{}{Se você pode fazer stimpacks, não poderia fazer alguns super stimpacks?}
+{1128}{}{Tudo bem então. eu tinha algumas perguntas...}
+{1135}{myn152}{Claro que poderia... só que não temos o que é preciso. Um pouco daquela fruta mutante para o ácido cítrico... um tiquinho de Nuka Cola... e um pacote de stimpacks normais.}
+{1145}{myn153a}{Repita comigo: Myron é um gênio. Quantos precisa?}
+{1146}{myn153b}{Que tal: fique-fora-de-problemas? Ah, tanto faz, muito difícil pra voce. Quantos desta vez?}
+{1147}{myn153c}{Myron é o seu homem, linda. Quantos?}
+{1149}{}{Me de dois.}
+{1151}{}{Faça o máximo de stimpacks que puder com o que temos disponivel.}
+{1170}{myn201a}{Quem é você e como conseguir entrar aqui? Onde estão aqueles guardas idiotas?}
+{1171}{myn201b}{Ora, olaaaaaa, linda. O que Myron pode fazer por... uaaau... por você?}
+{1172}{}{Bom. Nuh-uh.}
+{1173}{}{Olaaaaaaa, Myron. Eu }
+{1174}{}{Bom. Morto.}
+{1175}{}{As pessoas fracas que vigiavam o portão pararam de respirar quando eu as machuquei}
+{1176}{}{Tchauzinho}
+{1177}{}{Seus guardas estão muito mortos para conseguir vigiar uma porta.}
+{1178}{}{Eu usei esta identificação. Marjorie me enviou.}
 {1179}{}{Quem é você?}
-{1180}{}{You Myron?}
-{1181}{}{Easy there, tiger. Keep those hormones in check. Who are you?}
-{1182}{}{Easy there, tiger. Keep those hormones in check. You Myron?}
-{1183}{}{Sorry. I seem to have entered the wrong room.}
-{1195}{myn202}{So. Who are you? Spill it, or I'll have the guards BEAT it out of you.}
-{1196}{}{Your guards are too dead to do much of anything. Got any other questions, you little shit?}
+{1180}{}{Você Myron?}
+{1181}{}{Calma aí, tigrão. Deixe esses hormônios sob controle. Quem é você?}
+{1182}{}{Calma aí, tigrão. Deixe esses hormônios sob controle. Você é Myron?}
+{1183}{}{Desculpe. Parece que entrei na sala errada.}
+{1195}{myn202}{Então quem é você? Fale logo, ou vou mandar os guardas te arrebentarem.}
+{1196}{}{Seus guardas estão mortos demais para fazer qualquer coisa. Tem mais alguma pergunta, seu merdinha?}
 {1197}{}{Quem é você?}
-{1198}{}{You Myron?}
-{1199}{}{I think I'll just go take a walk out of here. Nice meeting you.}
-{1205}{myn203}{Great. One of the mental midgets from upstairs. Look, I ain't got much here, but you can, tuh-tuh-take whatever you want.}
-{1206}{}{WAN YOU DED}
-{1207}{}{Wan Ull. Now.}
-{1208}{}{Hoo yoo? Yoo FREN of }
+{1198}{}{Você Myron?}
+{1199}{}{Acho que vou dar uma volta daqui. Muito prazer em conhece-lo.}
+{1205}{myn203}{Ótimo.. Um dos anões mentais lá em cima. Ei, não tenho muito aqui, mas você pode pegar o que quiser.}
+{1206}{}{QUERO VOCE MORTO}
+{1207}{}{Queero tuuuudo. Agora.}
+{1208}{}{Quem você? Você AMIGO de }
 {1209}{}{Shaaauuuu}
-{1215}{myn204}{Sure! You bet! Uh, here you go. Here's all of it. Now uh, you go back to your stall now, okay?}
-{1216}{}{Nuh-uh. Kill.}
-{1217}{}{Hoo yoo? Yoo FRIEND of }
-{1225}{myn205}{Abso-fucking-lutely! Heh, you bet! You and I are gonna be the best of friends, okay?}
-{1226}{}{Lie? }
-{1227}{}{Fren give ull }
-{1235}{myn207}{Of course you are. Have a seat on the bed. Can I get you a drink, maybe a little... Jet?}
-{1236}{}{Sit. Drenk.}
-{1237}{}{Yoo fren?}
-{1245}{myn208}{Excellent... here you go. A little drink - help you re-lax, y'know what I mean?}
-{1246}{}{Drenk}
-{1247}{}{Yoo }
-{1255}{myn209}{Uh, hey, hey, hey! Wait a minute! Stay - have a drink first! We can talk, be friends. You DO want us to be friends, right?}
-{1265}{myn210}{I'm suuure we'll be friends.}
-{1266}{}{Wan fren.}
-{1267}{}{Fren. Giv ull. No owww.}
-{1275}{myn211}{Now, you just relax, sweetmeat...}
-{1276}{}{Okeezzzzzzz Zznnzznn Zzznnnzzzz}
-{1285}{myn212}{Hmmmm. You must have the constitution of a Brahmin. Get outta here, beautiful.}
-{1295}{myn213}{Guards ain't worth the chips you pay for 'em... well, my retarded friend, we've been introduced, so why don't you GET THE HELL OUTTA HERE NOW!}
-{1296}{}{OW EARS. KILL.}
-{1297}{}{Nuh fren?}
-{1305}{myn214a}{Yeah, you bet, pal. }
-{1306}{myn214b}{Yeah, you bet, honey. }
-{1307}{myn214c}{You and me - friends for ever n' ever. Or the next injection. NOW GET THE HELL OUTTA HERE!}
-{1308}{}{NUH FREN. KILL.}
-{1309}{}{Fren giv ull. No oww.}
-{1325}{myn215a}{God-DAMN it! I told Jesus those two morons couldn't guard a stone! So uh, you iced them, huh? Gonna kill me, too?}
-{1326}{myn215b}{Whoa. Hot and deadly! So you iced them, huh? You gonna kill me, too?}
-{1327}{}{I'm thinking about it. You got something to convince me otherwise... kid?}
+{1215}{myn204}{Claro! Pode apostar! Aqui está. Aqui está tudo. Agora uh, volte para sua barraca agora, ok?}
+{1216}{}{Naunn. Matar.}
+{1217}{}{Quem voce? Voce AMIGO de }
+{1225}{myn205}{Verdade ABSOLUTA! Ei, pode apostar! Você e eu seremos os melhores amigos, ok?}
+{1226}{}{Mente? }
+{1227}{}{Amigo dá tudo para }
+{1235}{myn207}{Claro que você é. Sente-se na cama. Posso pegar uma bebida, talvez um pouco de... jet?}
+{1236}{}{Sento. Bebo.}
+{1237}{}{Voce amigo?}
+{1245}{myn208}{Excelente... aqui está. Um pouco de bebida - ajuda a relaxar, entende?}
+{1246}{}{Bebo}
+{1247}{}{Voce }
+{1255}{myn209}{Ei, ei, ei! Espere um pouco! Fique - beba primeiro! Podemos conversar, ser amigos. Você quer que sejamos amigos, certo?}
+{1265}{myn210}{Mas é claaaaro que seremos amigos.}
+{1266}{}{Quero amigo.}
+{1267}{}{Amigo. Da tudo. Agoooora.}
+{1275}{myn211}{Agora, relaxe, docinho...}
+{1276}{}{Ooookkkkk Zznnzznn Zzznnnzzzz}
+{1285}{myn212}{Hmmmm. Você deve ter a constituição de um Brahmin. Saia daqui, linda.}
+{1295}{myn213}{Guardas não valem as fichas que você paga por eles... bem, meu amigo retardado, fomos apresentados, então por que você não CHISPA DAQUI AGORA!}
+{1296}{}{ORELHAS DOEM. EU MATO.}
+{1297}{}{Não amigo?}
+{1305}{myn214a}{Sim, pode apostar, amigo. }
+{1306}{myn214b}{Sim, pode apostar, docinho. }
+{1307}{myn214c}{Você e eu: amigos para todo o sempre. Ou até a próxima injeção. SAI DAQUI AGORA!}
+{1308}{}{AMIGO NÃO. EU MATO.}
+{1309}{}{Amigo da tudo. Agooora.}
+{1325}{myn215a}{Meu Deus do céu! Eu falei pra Jesus que aqueles dois idiotas não podiam vigiar uma pedra! Então uh, você acabou com eles, hein? Vai me matar também?}
+{1326}{myn215b}{Uau. Sexy e mortal! Então você acabou com eles, hein? Vai me matar também?}
+{1327}{}{Estou pensando sobre isso. Você tem algo para me convencer do contrário... garoto?}
 {1328}{}{Not unless you do something stupid. Who are you?}
 {1329}{}{Not unless you do something stupid. You Myron?}
 {1330}{}{Yeah, why not? I ain't killed anyone since I started this conversation. }
