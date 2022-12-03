@@ -160,15 +160,15 @@
 {259}{}{De jeito nenhum. A pressão para se conformar deve ser muito difícil por aqui, especialmente considerando o quão isolada é a comunidade de Vault City.}
 {260}{}{Oh, well. Just thought I'd ask.}
 {261}{}{Sim, às vezes pode ser meio opressor. Mas aqui estou, derrubando sua opinião sobre Vault City. Não me entenda mal, é um ótimo lugar para se viver.}
-{262}{}{Just a suggestion, but you might want to travel a little outside of Vault City. Even speak to some of the merchants in the Courtyard. They might be able to broaden your horizons a little.}
-{263}{}{It's got its advantages, no doubt. Can I ask you some other questions?}
-{264}{}{Glad you're happy here. Maybe we'll speak again.}
-{265}{}{Well, I've been tempted to go outside the gate, but the other Citizens have warned me against it...}
-{266}{}{That's just another reason to do it. You don't want to do what the OTHER Citizens do, do you? They're all set in their ways.}
-{267}{}{Well, it can be dangerous out there. Say, can I ask you another question?}
-{268}{}{They're right. It's probably not a good idea. I better be going.}
-{269}{}{You know, you're right. Maybe I will step outside the gate when I get the chance. I'd like to know more about the outside world.}
-{270}{}{Great. Say, can I ask you another question?}
+{262}{}{Apenas uma sugestão, mas você pode querer viajar um pouco para fora de Vault City. Até fale com alguns dos mercadores no Pátio. Eles podem ser capazes de ampliar um pouco seus horizontes.}
+{263}{}{Tem suas vantagens, sem dúvida. Posso te fazer algumas outras perguntas?}
+{264}{}{Que bom que você está feliz aqui. Talvez voltemos a nos falar.}
+{265}{}{Bem, fiquei tentado a sair pelo portão, mas os outros Cidadãos me avisaram contra isso...}
+{266}{}{Essa é apenas mais uma razão para fazer. Você não quer fazer o que os OUTROS Cidadãos fazem, quer? Eles estão todos obrigados em seus caminhos.}
+{267}{}{Bem, pode ser perigoso lá fora. Olha, posso fazer outra pergunta?}
+{268}{}{Eles estão certos. Provavelmente não é uma boa ideia. É melhor eu ir.}
+{269}{}{Você sabe que está certo. Talvez eu saia do portão quando tiver a chance. Eu gostaria de saber mais sobre o mundo exterior.}
+{270}{}{Ótimo. Olha, posso fazer outra pergunta?}
 {271}{}{It'll be good for you. Take care.}
 {272}{}{Pardon me?}
 {273}{}{I couldn't help but notice you're an attractive young woman who could stand to get out once in a while. How about you and I have dinner?}
