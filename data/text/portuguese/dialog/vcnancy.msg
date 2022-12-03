@@ -136,30 +136,30 @@
 {235}{}{Acho que já ouvi o suficiente.}
 {236}{}{Male Citizens "donate" to the Auto-Doc here in the Vault and the most favorable matches are chosen by the computer. Then the appropriate female Citizen is seeded by the Auto-Doc.}
 {237}{}{Can I donate?}
-{238}{}{Don't people still get pregnant from intercourse? What about accidental pregnancies?}
-{239}{}{You know, I would very much like to ask you any other question right now.}
-{240}{}{Would you excuse me? I'm going to go see if I can get my Citizenship revoked.}
-{241}{}{I think I'm going to go somewhere and be violently ill. Goodbye.}
-{242}{}{Certainly. We'd welcome your contribution. Vault City could use some fresh genetic material.}
+{238}{}{As pessoas não engravidam por causa da relação sexual? E gravidez acidental?}
+{239}{}{Sabe, eu gostaria muito de fazer qualquer outra pergunta agora.}
+{240}{}{Você me daria licença? Vou ver se consigo revogar minha cidadania.}
+{241}{}{Acho que vou a algum lugar e ficar gravemente doente. Adeus.}
+{242}{}{Certamente. Agradeceríamos sua contribuição. Vault City poderia usar algum material genético novo.}
 {243}{}{Tudo bem, então...}
-{244}{}{Say, could I get a magazine or something?}
-{245}{}{Your contribution is impressive... you yourself seem to be quite gifted. How do you feel?}
-{246}{}{Excellent! Thank you.}
-{247}{}{Hmmm. Maybe your contribution wasn't as valuable as I thought. Thanks anyway, though.}
-{248}{}{I can honestly say I have never missed the primitive charm of Arroyo more until this moment.}
-{249}{}{I have never felt the need to be held more than at this moment.}
-{250}{}{No, thank YOU.}
-{251}{}{Well, actually... you see, this is something I've been thinking about recently, but Citizens don't seem to have accidental pregnancies. The only successful pregnancies have been facilitated by the Auto-Doc.}
-{252}{}{You know, background radiation might be resulting in sterility or even worse, chromosomal damage. Might be worth checking out.}
-{253}{}{Maybe it's just because they don't have much real sex around here.}
+{244}{}{Diga, posso pegar uma revista ou algo assim?}
+{245}{}{Sua contribuição é impressionante... você mesmo parece ser bastante talentoso. Como você está se sentindo?}
+{246}{}{Excelente! Obrigado.}
+{247}{}{Hmmm. Talvez sua contribuição não tenha sido tão valiosa quanto eu pensava. Obrigado mesmo assim.}
+{248}{}{Posso dizer honestamente que nunca senti tanta falta do charme primitivo de Arroyo até este momento.}
+{249}{}{Nunca senti tanto a necessidade que me abracem como neste momento.}
+{250}{}{Não, EU que te agradeço.}
+{251}{}{Bem, na verdade... veja bem, isso é algo em que tenho pensado ultimamente, mas os cidadãos não parecem ter gravidezes acidentais. As únicas gestações bem-sucedidas foram facilitadas pelo Auto-Doc.}
+{252}{}{Você sabe, a radiação de fundo pode resultar em esterilidade ou pior ainda, dano cromossômico. Pode valer a pena conferir.}
+{253}{}{Talvez seja só porque eles não fazem muito sexo de verdade por aqui.}
 {254}{}{Oh, well. Just thought I'd ask.}
-{255}{}{You know, I was thinking the same thing. Maybe I should mention it to Dr. Troy. He's been too busy to look into it recently, but the next pregnancy cycle IS coming up, so...}
+{255}{}{Sabe, eu estava pensando a mesma coisa. Talvez eu devesse mencionar isso ao Dr. Troy. Ele tem estado muito ocupado para investigar isso ultimamente, mas o próximo ciclo de gravidez ESTÁ chegando, então...}
 {256}{}{Posso fazer mais algumas perguntas?}
-{257}{}{Mentioning it to Dr. Troy would be a good idea. Good luck.}
-{258}{}{It's like they're all... clones. They all dress alike, act alike, and the worst part is that everybody seems happy with it. I... well, sometimes I worry that I'll end up being just like them. That probably sounds silly, huh?}
-{259}{}{Not at all. Pressure to conform must be pretty rough around here, especially considering how insular a community Vault City is.}
+{257}{}{Mencionar isso ao Dr. Troy seria uma boa ideia. Boa sorte.}
+{258}{}{É como se fossem todos... clones. Todos se vestem da mesma forma, agem da mesma forma, e o pior é que todos parecem felizes com isso. Eu... bem, às vezes me preocupo em acabar sendo como eles. Isso provavelmente parece bobo, não é?}
+{259}{}{De jeito nenhum. A pressão para se conformar deve ser muito difícil por aqui, especialmente considerando o quão isolada é a comunidade de Vault City.}
 {260}{}{Oh, well. Just thought I'd ask.}
-{261}{}{Yeah, it can get kind of overwhelming at times. But here I am, bringing down your opinion of Vault City. Don't misunderstand me. It's a great place to live.}
+{261}{}{Sim, às vezes pode ser meio opressor. Mas aqui estou, derrubando sua opinião sobre Vault City. Não me entenda mal, é um ótimo lugar para se viver.}
 {262}{}{Just a suggestion, but you might want to travel a little outside of Vault City. Even speak to some of the merchants in the Courtyard. They might be able to broaden your horizons a little.}
 {263}{}{It's got its advantages, no doubt. Can I ask you some other questions?}
 {264}{}{Glad you're happy here. Maybe we'll speak again.}

@@ -452,37 +452,37 @@
 {1428}{}{Por que voce criou o jet?}
 {1430}{}{Sua mãe deve estar orgulhosa. Estou saindo daqui.}
 {1445}{myn222}{Claro como o dia que eu fiz! Eu fiz a merda que todo mundo consome e nunca se cansa.}
-{1455}{myn223}{"Why?" 'Cause I could. Family Mordino needed a product, Myron makes a product, Mordino makes Myron happy... at least as happy as they're able. Nice lil' circle o' love, huh?}
-{1456}{}{How did you make Jet?}
-{1457}{}{'As happy as they're able?' Are you happy here?}
-{1458}{}{How about I suggest a new circle to you? Mordino doesn't know talent when they see it - I do.}
-{1459}{}{Yeah, great. I have to be going now.}
-{1465}{myn224a}{Ha, you wouldn't understand. It's WAY above you.}
-{1466}{myn224b}{Don't you worry your pretty little head about it, beautiful. I can give you something else for your head to work on.}
-{1467}{}{You happy here?}
-{1468}{}{Yeah, I guess an idiot like me couldn't be expected to understand the process of manufacturing a hallucinogenic-amphetamine hybrid like Jet, huh?}
-{1469}{}{Yeah, I guess a bimbo like me couldn't be expected to understand the process of manufacturing a hallucinogenic-amphetamine hybrid like Jet, huh?}
-{1472}{}{I think you'd be surprised about how much I know about your amateurish hallucinogenic-amphetamine hybrid. I'm not convinced a child like you didn't just STUMBLE across it, Myron.}
-{1473}{}{Well, thanks for making the effort, Myron. I have to be going now.}
-{1485}{myn225}{Pretty much. They give me whores, cash, drugs. My own lab. The creative freedom I need to make magic, but, well... no, naw, it's a good gig.}
-{1486}{}{Well what? Are they treating you right?}
-{1487}{}{Good to hear it, Myron. I have to be going now.}
-{1495}{myn226}{Well, see, the Mordinos don't show Myron the R-E-S-P-E-C-T, right? I tell 'em what they should be doing, they say 'shut up, Myron' or 'go back to the lab, Myron.' Bastards.}
-{1496}{}{Maybe I could help you. You want to ditch this town? Travel with me, and then the Mordinos will wake up to how valuable you are and quick.}
-{1497}{}{You're too valuable to be here, Myron. You should leave.}
-{1498}{}{Too bad, Myron. I have to be going now.}
-{1505}{myn227}{They've forgotten I'M the reason they control Reno AND the reason why Redding'll be sucking at their tit in a few
- months. Most Mordinos got more hair on their butt than brain cells, y'know what I'm saying?}
-{1506}{}{Uh, I said, maybe I could help you...}
-{1507}{}{You're definitely too valuable to be here, Myron... you should leave, like I was saying.}
-{1509}{}{I'm beginning to see why they don't listen to you.}
-{1510}{}{You bet, Myron. I have to be going now.}
-{1515}{myn228}{And another thing: The Mordinos can't get it through their skulls that I ain't interested in purifying Jet. It does what it's supposed to do. I want to make NEW drugs, not re-tool old ones, y'know?}
-{1516}{}{I can help you. Why don't you ditch this town, travel with me, and then the Mordinos will wake up to how valuable you are.}
-{1517}{}{You're absolutely right. You're too valuable to be here, Myron! You should leave!}
-{1518}{}{What was that stuff you were saying about Redding?}
-{1525}{myn229a}{Hmm....their boy wonder leaving town. Ha. That'd wake 'em up. Yeah. }
-{1526}{myn229e}{I like that.}
+{1455}{myn223}{"Por que?" Porque podia. A família Mordino precisava de um produto, Myron faz o produto, Mordino faz Myron feliz... pelo menos tão feliz quanto eles podem. Belo círculo de amor, hein?}
+{1456}{}{Como criou o jet?}
+{1457}{}{'Tão felizes quanto podem?' Você está feliz aqui?}
+{1458}{}{E se eu te sugerir um novo círculo? Mordino não reconhece um talento quando o vê - eu sim.}
+{1459}{}{Sim, ótimo. Eu tenho que ir agora.}
+{1465}{myn224a}{Ha, você não entenderia. Está MUITO acima de você.}
+{1466}{myn224b}{Não preocupe sua linda cabecinha com isso, linda. Posso te dar outra coisa para a sua cabeça trabalhar.}
+{1467}{}{Esta feliz aqui?}
+{1468}{}{Sim, acho que não se pode esperar que um idiota como eu entenda o processo de fabricação de um híbrido de anfetamina alucinógeno como jet, neh não?}
+{1469}{}{Sim, acho que não se pode esperar que uma burra como eu entenda o processo de fabricação de um híbrido de anfetamina alucinógeno como jet, neh não?}
+{1472}{}{Acho que ficaria surpreso com o quanto sei sobre seu híbrido amador de alucinógeno e anfetamina. Não me convenceu de que uma criança como você não tenha tropeçado nele, Myron.}
+{1473}{}{Bem, obrigado por se esforçar, Myron. Eu tenho que ir agora.}
+{1485}{myn225}{Bastante. Eles me dão prostitutas, dinheiro, drogas... meu próprio laboratório. A liberdade criativa que preciso para fazer mágica, mas, bem... não é um bom show.}
+{1486}{}{Bem o que? Eles estão te tratando bem?}
+{1487}{}{Que bom saber disso, Myron. Eu tenho que ir agora.}
+{1495}{myn226}{Bem, olha, os Mordinos não mostram a Myron o R-E-S-P-E-I-T-O, endendeu? Eu digo a eles o que eles devem fazer, eles dizem 'cale a boca, Myron' ou 'volte para o laboratório, Myron'. Babacas.}
+{1496}{}{Talvez eu possa ajudá-lo. Você quer abandonar esta cidade? Viaje comigo, e então os Mordinos vão perceber o quanto você é valioso, bem rápido.}
+{1497}{}{Você é valioso demais para estar aqui, Myron. Você deveria ir embora.}
+{1498}{}{Que pena, Myron. Eu tenho que ir agora.}
+{1505}{myn227}{Eles esqueceram que eu sou a razão pela qual eles controlam Reno, e a razão pela qual Redding vai mamar nas tetas
+ deles em alguns meses. A maioria dos mordinos tem mais pelos na bunda do que células cerebrais, entende?}
+{1506}{}{Uh, eu disse que talvez pudesse te ajudar...}
+{1507}{}{Você definitivamente é muito valioso para estar aqui, Myron... você deveria ir embora, como eu dizia.}
+{1509}{}{Estou começando a entender por que eles não te ouvem.}
+{1510}{}{Pode apostar, Myron. Eu tenho que ir agora.}
+{1515}{myn228}{E outra coisa: os Mordinos não conseguem entender que não estou interessado em purificar Jet, ele faz o que é tem que fazer. Eu quero fazer NOVAS drogas, não reformular as velhas, entende?}
+{1516}{}{Posso te ajudar. Por que você não abandona esta cidade, viaja comigo, e então os Mordinos vão perceber o quanto você é valioso.}
+{1517}{}{Você está absolutamente correto. Você é valioso demais para estar aqui, Myron! Você deveria ir embora!}
+{1518}{}{O que era isso que você estava dizendo sobre Redding?}
+{1525}{myn229a}{Hmm ....o menino maravilha deixando a cidade. isso acordaria eles pra vida. Sim. }
+{1526}{myn229e}{Gosto disso.}
 {1527}{myn229d}{Eu gosto do jeito que você pensa, linda.}
 {1528}{myn229c}{Então, para onde vamos?}
 {1529}{myn229b}{Então, para onde vamos, linda?}
@@ -496,62 +496,62 @@
 {1546}{myn230b}{Não, você parece cheio. E Myron não anda com lixo mutante. Ah-heh, sem ofensa, grandão.}
 {1547}{myn230c}{Uh, não, você parece cheio. E uh, Myron não anda com ghouls. Nunca se sabe quando eles vão deixar cair uma parte do corpo no seu colo.}
 {1548}{myn230d}{Passo, não quero me juntar com outra Família. Ja tenho o suficiente com os Mordinos. Se livre de umas bagagens depois venha me perguntar de novo.}
-{1549}{myn230e}{Yeah, right. Flies wouldn't follow you if you were covered in shit. Huh, forget it.}
+{1549}{myn230e}{Okay, certo. As moscas não te seguiriam se você estivesse coberto de merda. Ei, esqueça.}
 {1550}{}{Certo então. Bem, eu tenho algumas perguntas...}
-{1551}{}{Pretty enlightened attitude. I'll think about it, Myron.}
-{1552}{}{No, he's worth at least two of you. Later, kid.}
-{1553}{}{Kid, your ego just wrote a check your body can't cash. Get ready to die.}
-{1554}{}{They would, too! You'll see.}
-{1555}{}{Your loss, Myron. Later.}
-{1565}{myn231}{Yeah? I'm listening...}
-{1566}{}{Maybe we can help each other. I could use a man with your skills. Why don't you ditch this town, travel with me for a while, and then the Mordinos will wake up to how valuable you are.}
-{1567}{}{Oh, forget what I said. Say, I had some other questions...}
-{1568}{}{Forget it. It wouldn't work anyway.}
-{1575}{myn232a}{All right. }
-{1576}{myn232b}{All right, beautiful. }
-{1577}{myn232c}{Why the hell not? Let's blow this popsicle stand.}
-{1578}{}{We're outta here.}
-{1579}{}{It's 106 miles to Arroyo, we got a full fusion cell, half a pack of RadAway, it's midnight, and I'm wearing a 50-year old Vault 13 jumpsuit. Let's hit it.}
-{1585}{myn233}{Ah! What, you need Myron's resume? I'm the science guy. Know all, see all. Not to mention I can make whatever drugs you need. With the right raw materials.}
-{1586}{}{All right then, you've passed the interview. The part about the drugs helped. Follow me.}
-{1587}{}{I'll think about it. I have a few more questions for you...}
-{1588}{}{Well, I'll think about it... it's just that, well, no offense, but science guys have a notorious reputation for being near worthless in combat.}
-{1589}{}{I'll need to think about it. I'll be back.}
+{1551}{}{Atitude bastante esclarecedora. Vou pensar nisso, Myron.}
+{1552}{}{Não, ele vale pelo menos dois de vocês. Até mais tarde, garoto.}
+{1553}{}{Garoto, seu ego assina cheques que seu corpo não pode descontar. Prepare-se para morrer.}
+{1554}{}{Eles também iriam! Você vai ver.}
+{1555}{}{Voce perdeu, Myron. Até mais.}
+{1565}{myn231}{Sim? Estou ouvindo...}
+{1566}{}{Talvez nós possamos ajudar um ao outro. Eu poderia usar um homem com suas habilidades. Por que você não abandona esta cidade, viaja comigo por um tempo, e então os Mordinos vão perceber o quanto você é valioso.}
+{1567}{}{Ah, esqueça o que eu disse. Olha, eu tinha algumas outras perguntas...}
+{1568}{}{Esqueça. Não funcionaria de qualquer maneira.}
+{1575}{myn232a}{De acordo. }
+{1576}{myn232b}{De acordo, princesa. }
+{1577}{myn232c}{Porra, por que não? Foda-se esse lixão.}
+{1578}{}{Vamos fora daqui.}
+{1579}{}{São 170 quilômetros até Arroyo, temos uma célula de fusão completa, meio pacote de RadAway, é meia-noite e estou usando um macacão Vault 13 de 50 anos. A combinação certa.}
+{1585}{myn233}{Ah! O que, você precisa do currículo de Myron? Eu sou o cara da ciência. Sei de tudo. Sem mencionar que posso fazer qualquer droga que você precisar, com as matérias-primas certas.}
+{1586}{}{Tudo bem então, você passou na entrevista. A parte das drogas ajudou. Vamos la.}
+{1587}{}{Vou pensar sobre isso. Tenho mais algumas perguntas para você...}
+{1588}{}{Bem, vou pensar sobre isso... é só que, bem, sem ofensa, mas os caras da ciência têm uma pessima reputação em serem quase inúteis em combate.}
+{1589}{}{Vou precisar pensar sobre isso. Eu voltarei.}
 {1595}{myn119}{Redding? Cidade cheia de garimpeiros, Mordino quer controlar tudo. Então ele vem até mim com sua voz ofegante e diz: "Myron, Myron, me façam algo que faça Redding ser minha."}
 {1596}{}{E você diz...}
 {1597}{}{Hmmm. Eu tenho outras perguntas…}
-{1605}{myn120}{And I say, 'okay, what timeframe we looking at?' He goes - of course - 'yesterday.' Crime lords. Want everything done fast and sloppy. At least they don't have a marketing department.}
-{1615}{myn236a}{Yeah. Why? You gonna try and prove me wrong, pal? }
-{1616}{myn236b}{Yeah. Why? You gonna try and prove me wrong, lady? }
-{1617}{myn236c}{Yeah? But hey, don't get all defensive on me, beautiful. You weren't built for brains, y'know? }
-{1618}{myn236d}{I've forgotten more about pharmaceutical research than you'll ever know.}
+{1605}{myn120}{E eu digo, 'ok, de que prazo estamos falando?' Ele diz, é claro: ' pra ontem'. Senhores do crime, querem tudo feito rápido e de qualquer jeito. Pelo menos eles não têm um departamento de marketing.}
+{1615}{myn236a}{Sim. Por quê? Você vai tentar provar que estou errado, amigo? }
+{1616}{myn236b}{Sim. Por quê? Você vai tentar provar que estou errado, senhorita? }
+{1617}{myn236c}{Sim? Mas ei, não fique na defensiva comigo, linda. Você não foi feita para ter cérebro, sabe? }
+{1618}{myn236d}{Esqueci mais pesquisas farmacêuticas do que você jamais aprenderá.}
 {1619}{}{Existe alguma cura para o Jet?}
-{1620}{}{Fine. Then how did you make Jet?}
-{1621}{}{First off, answer me this: how did you make a hybrid hallucinogen-amphetamine? Jet seems to have some... unique properties.}
+{1620}{}{Certo. Então, como você fez jet?}
+{1621}{}{Em primeiro lugar, me responda o seguinte: como você fez um híbrido alucinógeno-anfetamina? Jet parece ter algumas... propriedades únicas.}
 {1623}{}{Esqueça. Eu tinha outras perguntas...}
-{1624}{}{Forget this. I'm outta here.}
-{1625}{}{Kiss my ass, you arrogant shit. I'm outta here.}
-{1635}{myn237}{Amateurish? Ama-amateurish?! Jet's pure genius, and don't you forget it! And I didn't stumble across it, I MADE it.}
-{1636}{}{I don't believe you. Show me the process.}
-{1637}{}{Whatever, kid. I'm out of here.}
-{1645}{myn238}{Two words: brahmin shit.}
-{1646}{}{That what you use to grow the hallucinogen in?}
-{1647}{}{You use brahmin shit as fertilizer to grow the Jet crop, right? What about it?}
+{1624}{}{Esqueça isso. Estou fora daqui.}
+{1625}{}{Pau no seu cu, seu arrogante de merda. Estou saindo daqui.}
+{1635}{myn237}{Amador? Ama-amador?! A pura genialidade do jet, e não se esqueça disso! E eu não tropecei nele, EU O FIZ.}
+{1636}{}{Eu não acredito em você. Me mostre o processo.}
+{1637}{}{Tanto faz, garoto. Estou saindo daqui.}
+{1645}{myn238}{Tres palavras: merda de brahmin.}
+{1646}{}{É isso que você usa para cultivar o alucinógeno?}
+{1647}{}{Você usa merda de brâmane como fertilizante para cultivar a safra jet, certo? E sobre isso?}
 {1648}{}{Não quer me contar? Beleza. Então eu tenho algumas perguntas...}
-{1649}{}{All right then. I can see where this is going. Nevermind.}
-{1655}{myn239a}{Very good. And that's all yer ever gonna learn, pal. You wanna know, you figure it out.}
-{1656}{myn239b}{Very good. And that's all yer ever gonna learn, lady. You wanna know, you figure it out.}
-{1657}{myn239c}{Very good, beautiful. But that's all yer ever gonna learn, so don't trouble your pretty little head about it. Enough talk: why don't you and me, uh, hehh...}
-{1658}{}{So the brahmin shit has some chemical properties that stimulate the human nervous system?}
+{1649}{}{Tudo bem então. Eu posso ver onde isso está indo. Não importa.}
+{1655}{myn239a}{Muito bem. E isso é tudo que você vai descobrir, amigo. Você vai descobrir.}
+{1656}{myn239b}{Muito bom. E isso é tudo que você vai aprender, senhorita. Voce vai descobrir.}
+{1657}{myn239c}{Muito bom, linda. Mas isso é tudo que você vai aprender, então não preocupe sua linda cabecinha com isso. Chega de conversa: por que você e eu não, uh, hehh...}
+{1658}{}{Então a merda brahmin tem algumas propriedades químicas que estimulam o sistema nervoso humano?}
 {1659}{}{Talvez. Eu tenho algumas perguntas...}
 {1660}{}{-- Falar mais? Excelente! Eu tenho outras perguntas...}
-{1661}{}{Fine. I have to be going.}
-{1662}{}{Uh, why don't you and me talk later? Good idea. See you.}
-{1675}{myn240}{You sure do ask a lot of goddamn questions. The answer is yeah, maybe... say, wh-where did you learn all this stuff anyway? You from Vault City or something?}
-{1676}{}{To answer your question, yeah... MAYBE. Where did YOU learn all this stuff?}
-{1677}{}{Not exactly. I just pick this stuff up. It's pretty easy, really.}
+{1661}{}{Certo. Eu tenho que ir.}
+{1662}{}{Uh, por que você e eu não conversamos mais tarde? Boa ideia. Vejo você.}
+{1675}{myn240}{Você com certeza faz um monte de malditas perguntas. A resposta é sim, talvez... vamos ver, onde você aprendeu tudo isso? Você é de Vault City ou algo assim?}
+{1676}{}{Para responder à sua pergunta, sim... TALVEZ. Onde VOCÊ aprendeu tudo isso?}
+{1677}{}{Não exatamente. Só melhorei a base. Na verdade, é bem simples.}
 {1678}{}{Não. Olha, eu tenho algumas perguntas...}
-{1679}{}{Vault City. Where's that?}
+{1679}{}{Vault City. Onde é isso?}
 {1680}{}{I'll let you wonder. You already told me everything I need to know.}
 {1685}{myn241a}{Yeah, keep mouthing off, smartass. I could oxidize circles around you. I'm a natural. Self-taught. None of that bullshit Vault City 'purer-than-thou' 'tude, see?}
 {1686}{myn241b}{Heh, huh, ha! You're a sharp one, beautiful... raven hair, teeth, claws... mmm-mmm. So you learn your shit at Vault City or what?}
@@ -606,7 +606,7 @@
 {1844}{}{Que seja. Agora vamos.}
 {1845}{}{If it was just your body odor, I could stand it. Let's go.}
 {1860}{myn232a}{All right.}
-{1863}{}{Kid, your ego just wrote a check your body can't cash. Get ready to die.}
+{1863}{}{Garoto, seu ego assina cheques que seu corpo não pode descontar. Prepare-se para morrer.}
 {1866}{}{Vamos lá.}
 {1870}{}{Mee feel oogy now.}
 {1875}{}{You have convinced Myron there might be a cure.}
