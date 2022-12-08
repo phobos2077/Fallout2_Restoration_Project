@@ -579,83 +579,83 @@
 {1748}{myn104d}{É você? Não consigo... ver... perdendo... a consciência. *Tosse* *Tosse* Me ajude...}
 {1749}{}{Hmmmm. Cure novamente.}
 {1753}{}{Me de um pouco de distância, Myron.}
-{1756}{}{Nevermind then. Let's go.}
-{1757}{}{Suck it up, Myron. We got a lot of ground to cover.}
-{1765}{myn138}{Eh, excuse me. Wait for you here? Are you kidding? Tell me you're kidding.}
-{1766}{}{Stay. Here. Until. I. Come. Back. Understand?}
-{1767}{}{I'll be back. Don't sweat it.}
-{1775}{myn1003a}{Aw, c'mon... fine, whatever. Still want to try out that new burst-fire technique I've been working on, though.}
-{1776}{myn1003b}{Uh, this weapon? Oh... sorry about that, beautiful. It just seems to... pop out all the time, you know?}
-{1781}{}{Maybe you better back off a little, Myron.}
-{1784}{}{Not while you're hanging with me, you won't. Now let's go.}
-{1785}{}{I heard it goes off prematurely, too. Now let's go.}
-{1795}{myn1004a}{Eh... all right. You ain't hitting on me, are you?}
-{1796}{myn1004b}{Whatever you say, gorgeous. Rrrrooow.}
-{1802}{}{Actually, give me a lot of distance, Myron. It's best for both of us.}
-{1804}{}{When I hit you, you'll know. Now let's go.}
-{1805}{}{Calm down, Myron. Let's go.}
-{1815}{myn1005a}{Well... all right. But I hear it's the guys in the middle who always get it first.}
-{1816}{myn1005b}{All right, I'll just watch your ass... er... uh, back carefully.}
-{1820}{}{Actually, forget that: Stay close to me instead.}
-{1822}{}{Spread out even more, Myron. It's best for both of us.}
+{1756}{}{Deixa pra lá então. Vamos lá.}
+{1757}{}{Cale-se, Myron. Temos muito chão para cobrir.}
+{1765}{myn138}{Ei, me desculpe. Esperar por você aqui? Ta de brincadeira comigo? Me diga que você está brincando.}
+{1766}{}{Espere. Aqui. Até. Eu. Estar de volta. Está entendido?}
+{1767}{}{Eu voltarei. Não se preocupe.}
+{1775}{myn1003a}{Ah, vamos... tudo bem, tanto faz. Eu quero experimentar aquela nova técnica de rajadas de fogo que eu ando trabalhando.}
+{1776}{myn1003b}{Essa arma? Oh... desculpe por isso, linda. Parece que... pula o tempo todo, sabe?}
+{1781}{}{Talvez seja melhor você recuar um pouco, Myron.}
+{1784}{}{Não enquanto você estiver comigo, você não vai. Agora vamos.}
+{1785}{}{Ouvi dizer que também dispara antes do tempo. Agora vamos.}
+{1795}{myn1004a}{Ei... tudo bem. Você não está dando em cima de mim, está?}
+{1796}{myn1004b}{O que você disser, gracinha. Rrrrooow.}
+{1802}{}{Na verdade, de mais bastante distância, Myron. É o melhor para nós dois.}
+{1804}{}{Quando eu bater em você, você saberá. Agora vamos.}
+{1805}{}{Calma lá, Myron. Vamos.}
+{1815}{myn1005a}{Bom está bem. Mas já ouvi dizer que quem está na meia distância é sempre quem acerta primeiro.}
+{1816}{myn1005b}{Ok, vou cuidar da sua bunda... er... uh, de volta com cuidado.}
+{1820}{}{Na verdade, escute: fique perto de mim.}
+{1822}{}{Disperse ainda mais, Myron. É o melhor para nós dois.}
 {1824}{}{Estou contando com isso. Agora vamos.}
 {1825}{}{Oootimo. Vamos lá.}
 {1835}{myn1006a}{Tudo bem, vou ficar de olho nas coisas por aqui. Me de uma boa posição para praticar a minha técnica de tiro rápido.}
 {1836}{myn1006b}{O que - eu tenho CC ou alguma coisa assim?! Meu Deus.}
 {1841}{}{Se aproxime um pouco, Myron.}
 {1844}{}{Que seja. Agora vamos.}
-{1845}{}{If it was just your body odor, I could stand it. Let's go.}
-{1860}{myn232a}{All right.}
+{1845}{}{Se fosse apenas o seu fedor, eu aguentaria. Vamos lá.}
+{1860}{myn232a}{De acordo.}
 {1863}{}{Garoto, seu ego assina cheques que seu corpo não pode descontar. Prepare-se para morrer.}
 {1866}{}{Vamos lá.}
-{1870}{}{Mee feel oogy now.}
-{1875}{}{You have convinced Myron there might be a cure.}
-{1880}{}{That's the grave where Big Jesus' stashed those extra chips.}
-{1885}{}{You have convinced Myron to leave the Stables.}
+{1870}{}{Me sinto mal agora.}
+{1875}{}{Você convenceu Myron de que pode haver uma cura.}
+{1880}{}{Essa é a sepultura onde o Grande Jesus escondeu as tampas extras.}
+{1885}{}{Você convenceu Myron a deixar os estábulos.}
 {1957}{}{Tudo bem, tudo bem! Pare de me pressionar!}
-{1958}{}{Hey, give me a break. I didn't program my A.I.}
+{1958}{}{Ei, me dê um tempo. Eu não programei minha I.A.}
 {1959}{}{Ta bom, discuuuupa.}
 {1960}{}{Tudo bem. Mas da próxima vez, VOCÊ vai sair do MEU caminho.}
-{1961}{}{I was here first. But have it YOUR way.}
-{2001}{myn321}{This sucks.}
-{2004}{myn324}{What the hell are you talking about?}
-{2023}{myn343}{I'd sooner lick Marcus's balls.}
-{2024}{myn344}{I'd sooner lick Lenny's wrinkled balls.}
-{2025}{myn345}{I'd sooner let that cyber-dog bite off my testicles.}
-{2033}{myn353}{Beats me.}
-{2091}{}{You got some chips to share? I need to save some women from their virginity.}
-{2675}{myn242a}{Easy, huh? I'm the best. Twice as good as any of those Vault City pecker checkers.}
-{2676}{myn242b}{Oh yeah, you're right about that. Easier to learn than that stuff those Vault City pecker checkers would lead you to believe.}
-{2678}{}{Let it go, Mr. Insecurity. I had some other questions...}
-{2679}{}{What a wonderful command of the language you have. I'll see you later, Myron.}
-{2685}{myn243}{A city to the northeast. Buncha "genetically pure" humans. They got their noses so high in the air they'll drown when it rains.}
-{2686}{}{Well, I didn't learn at Vault City. I just pick this stuff up. It's pretty easy, really.}
+{1961}{}{Eu estava aqui primeiro. Mas faça do SEU jeito.}
+{2001}{myn321}{Isso é péssimo.}
+{2004}{myn324}{De que merda você ta falando?}
+{2023}{myn343}{Prefiro lamber as bolas de Marcus.}
+{2024}{myn344}{Prefiro lamber as bolas enrugadas de Lenny.}
+{2025}{myn345}{Eu prefiro deixar aquele cyber cão morder meu saco.}
+{2033}{myn353}{Me bate.}
+{2091}{}{Você tem algumas tampas sobrando? Preciso salvar algumas mulheres da virgindade.}
+{2675}{myn242a}{Fácil né? Eu sou o melhor. Duas vezes melhor do que qualquer um daqueles médicos em Vault City.}
+{2676}{myn242b}{Oh sim, você está certo sobre isso. Mais fácil de aprender do que aquelas coisas que os phds de Vault City querem que você acredite.}
+{2678}{}{Deixe pra lá, Sr. Insegurança. Eu tinha algumas outras perguntas...}
+{2679}{}{Que domínio maravilhoso da língua você tem. Vejo você mais tarde, Myron.}
+{2685}{myn243}{Uma cidade a nordeste. Um bando de humanos "geneticamente puros". Eles têm o nariz tão alto que vão se afogar quando chover.}
+{2686}{}{Bem, eu não aprendi em Vault City, eu só melhoro as coisas. Na verdade, é bem simples.}
 {2687}{}{Interessante. Eu tinha outras perguntas...}
-{2688}{}{What a wonderful command of the language you have. I'll see you later, Myron.}
-{3000}{}{Myron, I think we need to discuss... distance.}
-{3001}{}{Let's talk about your gear for a second.}
-{3002}{}{Forget I brought it up. Keep the same distance.}
-{3003}{}{I need you to take off that armor you're wearing.}
-{3004}{}{What weapons are you skilled with Myron? Any?}
-{3005}{}{Nevermind, there's something else I needed from you.}
+{2688}{}{Que domínio maravilhoso da língua você tem. Vejo você mais tarde, Myron.}
+{3000}{}{Myron, acho que precisamos discutir... a distância.}
+{3001}{}{Vamos falar sobre o seu equipamento.}
+{3002}{}{Esqueça que eu falei isso. Mantenha a mesma distância.}
+{3003}{}{Preciso que tire essa armadura que está usando.}
+{3004}{}{Com quais armas você é bom, Myron? Alguma?}
+{3005}{}{Deixa pra lá, tem outra coisa que eu precisava de você.}
 {3025}{}{Seja o que for.}
-{4000}{}{Yeah, this should be where that facility I marked on your map is. Probably deep underground too.}
-{5000}{}{Fuck! Fuck! I can't feel this limb anymore!}
-{5001}{}{I feel like I am fucking melting!}
-{5002}{}{I'm puking my fucking guts out over here!}
-{5616}{}{Sure am. Try me.}
-{5617}{}{I think I could show you a thing or two.}
-{5725}{}{Fine, fine. What was the problem with making barbiturates?}
+{4000}{}{Sim, deve ser aqui que está a instalação que marquei no seu mapa. Provavelmente subterrâneo profundo também.}
+{5000}{}{Porra! Caralho! Não to sentindo mais esse membro!}
+{5001}{}{Eu sinto que estou derretendo pra caralho!}
+{5002}{}{Estou vomitando a porra das tripas aqui!}
+{5616}{}{Claro que sim. Me teste.}
+{5617}{}{Acho que posso te mostrar umas coisinhas.}
+{5725}{}{Bem, certo. Qual era o problema de fazer barbitúricos?}
 {5741}{}{Por quê?}
 {5851}{}{Sim...?}
-{5861}{}{I thought so.}
+{5861}{}{Eu pensei assim.}
 {6208}{}{?}
 {6218}{}{ vai}
-{6226}{}{ KILL}
-{6247}{}{'s fren?}
-{6256}{}{ drenk}
-{6257}{}{ fren?}
-{6287}{}{ go.}
-{6298}{}{ go, }
+{6226}{}{ MATAR}
+{6247}{}{amigo?}
+{6256}{}{ beber}
+{6257}{}{ amigo?}
+{6287}{}{ vai.}
+{6298}{}{ vai, }
 {6379}{}{Eu sou }
-{6525}{}{Sure would. I'd make them see what they'd really lost.}
+{6525}{}{Claro que sim. Eu os faria ver o que eles realmente perderam.}

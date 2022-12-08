@@ -1,2 +1,2 @@
-{100}{}{You have used the Pip-Boy Medical Enhancer. A vast amount of medical knowledge floods your brain.}
-{200}{}{Whoa. The doctor is IN.}
+{100}{}{Você usa o Aprimorador Médico do Pip-Boy. Uma vasta quantidade de conhecimento médico inunda seu cérebro.}
+{200}{}{Oh. O médico está pronto.}

@@ -81,24 +81,24 @@
 {180}{}{All right, time's up. Let's see your form.}
 {181}{}{Already did. Here.}
 {182}{}{Wait! Just a minute more... oh, forget it. Here.}
-{183}{}{Hmmm... no, no... that's wrong... that's not right, either... a divide by zero error here... hmmm... needed to carry the two... oh my, your vocabulary is sadly lacking as well, I see.}
-{184}{}{Let's see... I see you missed spotting the sub-derivative equation... and you missed the essential meaning of paragraph seven, both parts...  and the pyramid in this diagram can be crossed eight times, not three.}
-{185}{}{Well, the answers you DID manage to put down seem fine... it's the timeliness in which you took the test... and the glaring grammatical errors and...}
-{186}{}{So...?}
-{187}{}{Well, I regret to inform you I cannot grant you Citizenship at this time.}
-{188}{}{Frankly, you don't seem to have the intelligence necessary to grasp higher mathematics. }
-{189}{}{If I may say so, your grasp of spatial relations borders on imperceptive.}
-{190}{}{If I may say so, you don't seem to test well. Perhaps you'll have better luck next time.}
-{191}{}{Maybe some other time then.}
-{192}{}{Well, let's take a look... first, let's see if... oh, very good, I see you got that one, how about... why yes, you carried the two, very clever, very clever... but why did you... oh, you applied the derivative to #5... brilliant!}
-{193}{}{Of COURSE it was brilliant.}
-{194}{}{Why... you've passed! Congratulations.}
-{195}{}{Great. So I'm a Citizen?}
-{196}{}{Well, we still have to perform the physical examination. Fortunately, I have all the equipment right here. You might want to take off your boots.}
+{183}{}{Hmmm... não, não... isso está errado... também não está certo... um erro de divisão por zero aqui... hmmm... precisava carregar os dois... nossa, seu vocabulário é escasso pelo que vejo.}
+{184}{}{Vejamos... Vejo que você errou em identificar a equação da subderivada... e perdeu o significado essencial do parágrafo sete, ambas as partes...  e a pirâmide neste diagrama pode ser cruzada oito vezes, não três.}
+{185}{}{Bem, as respostas que você conseguiu anotar parecem boas... é a pontualidade em que você fez o teste... e os erros gramaticais gritantes e...}
+{186}{}{E...?}
+{187}{}{Bem, lamento informar que não posso lhe conceder a cidadania neste momento.}
+{188}{}{Francamente, você não parece ter a inteligência necessária para entender a matemática superior. }
+{189}{}{Se assim posso dizer, sua compreensão das relações espaciais beira o imperceptível.}
+{190}{}{Se me permite dizer, parece que você não se saiu muito bem no teste.. Talvez você tenha mais sorte da próxima vez.}
+{191}{}{Talvez outra hora então.}
+{192}{}{Bem, vamos dar uma olhada... primeiro, vamos ver se... ah, muito bem, vejo que você pegou esse, que tal... ora, sim, você carregou os dois, muito esperto, muito esperto... mas por que você... ah, você aplicou a derivada em #5... brilhante!}
+{193}{}{Mas é CLARO que fui brilhante.}
+{194}{}{Bem... você passou! Parabéns.}
+{195}{}{Excelente. Então eu sou um cidadão?}
+{196}{}{Bem, ainda temos que fazer o exame físico. Felizmente, tenho todo o equipamento aqui. Seria melhor você tirar suas botas.}
 {197}{}{Tudo bem.}
-{198}{}{You... you have a sixth toe! You're a mutant! How dare you even TRY to become one of us... you... you abomination! Get out! Out! And never come back!}
-{199}{}{Here comes the part when I lose my patience and kill every Citizen in Vault City for the fun of it. Starting with you.}
-{200}{}{I'm leaving, I'm leaving!}
+{198}{}{Você... você tem um sexto dedo! Você é um mutante! Como você ousa TENTAR se tornar um de nós... sua... sua abominação! Saia! Fora! E nunca mais volte!}
+{199}{}{Aí vem a parte em que perco a paciência e mato todos os cidadãos em Vault City para me divertir. Começando por você.}
+{200}{}{Vou embora, vou embora!}
 {201}{}{Your blood pressure looks good, no communicable diseases that I can find... congratulations, Citizen. Welcome to Vault City.}
 {202}{}{Thanks. It's good to be here.}
 {203}{}{You again. Can I help you?}
