@@ -552,33 +552,33 @@
 {1677}{}{Não exatamente. Só melhorei a base. Na verdade, é bem simples.}
 {1678}{}{Não. Olha, eu tenho algumas perguntas...}
 {1679}{}{Vault City. Onde é isso?}
-{1680}{}{I'll let you wonder. You already told me everything I need to know.}
-{1685}{myn241a}{Yeah, keep mouthing off, smartass. I could oxidize circles around you. I'm a natural. Self-taught. None of that bullshit Vault City 'purer-than-thou' 'tude, see?}
-{1686}{myn241b}{Heh, huh, ha! You're a sharp one, beautiful... raven hair, teeth, claws... mmm-mmm. So you learn your shit at Vault City or what?}
-{1687}{}{I didn't learn at Vault City. I just pick this stuff up. It's pretty easy, really.}
+{1680}{}{Vou deixar você se perguntar. Você já me disse tudo o que eu preciso saber.}
+{1685}{myn241a}{Sim, continue se gabando espertinha. Eu poderia oxidar círculos ao seu redor. Eu sou natural. Autodidata. Nada daquela besteira de Vault City 'mais pura que você', entende?}
+{1686}{myn241b}{Ei, ei, ei! Você é afiada, linda... cabelos negros, dentes e garras... hhhmmm. Então você aprende suas merdas em Vault City ou o quê?}
+{1687}{}{Eu não aprendi em Vault City, só melhorei essas coisas. É muito fácil, na verdade.}
 {1689}{}{Eu tenho mais algumas perguntas...}
-{1695}{myn244}{What didja wanna know?}
+{1695}{myn244}{O que você quer saber?}
 {1696}{}{Conte-me sobre este lugar.}
 {1697}{}{Conte sobre a Familia Mordino.}
-{1699}{}{I'm going to go now.}
-{1705}{myn245a}{The Stables? We test new kinds o' Jet here. What about it?}
-{1706}{myn245b}{The Stables? Uh, we test new kinds o' Jet here. What about it, beautiful?}
-{1715}{myn246}{They're my patrons. They're all right... I guess.}
-{1716}{}{Well what? Aren't they treating you all right?}
-{1725}{myn247}{You again. So... ready to go?}
-{1726}{}{Sure, Myron. Let's get out of here.}
+{1699}{}{Eu estou indo agora.}
+{1705}{myn245a}{Os estábulos? Testamos novos tipos de Jet aqui. Por que pergunta?}
+{1706}{myn245b}{Os estábulos? Uh, nós testamos novos tipos de Jet aqui. Por que, linda?}
+{1715}{myn246}{Eles são meus chefes. Estão bem... eu acho.}
+{1716}{}{Bem? Eles não estão te tratando bem?}
+{1725}{myn247}{Você de novo. Então... pronto para ir?}
+{1726}{}{Claro, Myron. Vamos sair daqui.}
 {1727}{}{Espera um minuto, ainda não disse sim. O que você pode fazer, Myron? Não posso deixar qualquer um andar comigo. Eu tenho princípios.}
-{1728}{}{First off, what skills do you have Myron?}
-{1729}{}{No, not exactly. I had some questions...}
-{1730}{}{Not at the moment. Why don't you just cool your heels for a while?}
+{1728}{}{Pra começar, que habilidades você tem, Myron?}
+{1729}{}{Não, não exatamente. Eu tinha algumas perguntas...}
+{1730}{}{Não no momento. Por que você não deixa seus pés descansarem por um tempo?}
 {1735}{}{Você é meio estranho... gostei.}
 {1736}{}{Você é meio estranho... gostei.}
-{1745}{myrn104a}{Stop mothering me.}
-{1746}{myn104b}{Owww! Hurts! It hur - oh, it. No. No, I'm pretty much okay. Stings a little.}
-{1747}{myn104c}{I'm dying over here! Gi-give me a stimpack. Or two. Or three.}
-{1748}{myn104d}{Is... that... you? Can't... see... losing... consciousness. *Cough* *Cough* Help... me...}
-{1749}{}{Hmmmm. Heal yourself again.}
-{1753}{}{Give me a little distance, Myron.}
+{1745}{myrn104a}{Pare de me mimar.}
+{1746}{myn104b}{Owww! Machuca! Doeu - oh, isso. Não. Não, estou bem. Dói um pouco.}
+{1747}{myn104c}{Estou morrendo aqui! Me de um stimpack. Ou dois, ou três.}
+{1748}{myn104d}{É você? Não consigo... ver... perdendo... a consciência. *Tosse* *Tosse* Me ajude...}
+{1749}{}{Hmmmm. Cure novamente.}
+{1753}{}{Me de um pouco de distância, Myron.}
 {1756}{}{Nevermind then. Let's go.}
 {1757}{}{Suck it up, Myron. We got a lot of ground to cover.}
 {1765}{myn138}{Eh, excuse me. Wait for you here? Are you kidding? Tell me you're kidding.}
