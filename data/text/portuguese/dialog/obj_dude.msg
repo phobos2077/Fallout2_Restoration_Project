@@ -1,22 +1,22 @@
 {100}{}{}
 {101}{}{}
-{110}{}{Your feet really itch.}
-{120}{}{You're developing a nasty bunion on each foot.}
-{130}{}{Your shoes feel really tight; those bunions are really getting inflamed.}
-{140}{}{That nasty bunion on each foot seems to have turned into an extra toe. But at least that
- persistent, burning itch has gone away.}
+{110}{}{Seus pés realmente coçam.}
+{120}{}{Você está desenvolvendo um joanete desagradável em cada pé.}
+{130}{}{Seus sapatos parecem muito apertados; esses joanetes estão realmente ficando inflamados.}
+{140}{}{Aquele joanete desagradável em cada pé parece ter se transformado em um dedo extra. Mas pelo
+ menos aquela coceira persistente e ardente desapareceu.}
 {141}{}{Oh, meu Deus, é Bess!}
 {150}{}{Você ganhou }
-{151}{}{ experience points for getting the GECK.}
+{151}{}{ pontos de experiência por obter o GECK.}
 {400}{}{Você não pode entender muita coisa do texto, mas as ilustrações são bastante informativas.}
-{500}{}{You have become addicted to alcohol. The thirst for alcohol will soon consume you.}
-{600}{}{Something doesn't feel quite right in your stomach.}
-{601}{}{You feel an intense pressure in your stomach.}
-{700}{}{You attach the torn pieces of paper together to yield a list of three passwords.}
-{800}{}{The cravings are getting worse.}
-{801}{}{You've got the shakes. You have this intense urge to drink something with alcohol in it.}
-{802}{}{You feel as if a great burden has been lifted from your mind. No longer do you crave the need to drink alcohol.}
-{900}{}{Something doesn't feel quite right in your stomach.}
-{901}{}{You feel an intense pressure in your stomach.}
-{1000}{}{You cannot think straight. You feel a burning desire to open another box of Tragic cards.}
-{1001}{}{You feel as if a great burden has been lifted from your mind. No longer is Tragic a constant part of your thoughts.}
+{500}{}{Você se tornou viciado em álcool. A sede de álcool logo o consumirá}
+{600}{}{Algo não parece muito certo em seu estômago.}
+{601}{}{Você sente uma pressão intensa no estômago.}
+{700}{}{Você junta os pedaços de papel rasgado para obter uma lista de três senhas.}
+{800}{}{Os impulsos estão piorando.}
+{801}{}{Você tem uns tremores. Você tem um impulso intenso em beber algo com álcool.}
+{802}{}{Você sente como se um grande fardo tivesse sido tirado de sua mente. Você não tem mais o impulso em beber álcool.}
+{900}{}{Algo não parece muito certo em seu estômago.}
+{901}{}{Você sente uma pressão intensa no estômago.}
+{1000}{}{Você não consegue pensar direito. Sente um desejo ardente de abrir outra caixa de Tragic .}
+{1001}{}{Você sente como se um grande fardo tivesse sido tirado de sua mente. O Tragic não é mais uma parte constante de seus pensamentos.}

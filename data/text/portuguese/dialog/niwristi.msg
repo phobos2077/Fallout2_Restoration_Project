@@ -1,14 +1,14 @@
-{100}{}{You see a large alcohol brewing vat. It is emitting a low humming noise.}
-{110}{}{You see a large alcohol brewing vat. Floating inside is the radscorpion tail.}
-{120}{}{You see a large alcohol brewing vat. It is broken, and the damage looks irreparable.}
-{130}{}{The vat grinds to a halt. It looks irreparable.}
-{140}{}{You drop it into the vat, and you watch it sink to the bottom, venom bleeding from the poison sac.}
-{150}{}{It looks irreparable.}
-{200}{}{::Ker-chunk::}
+{100}{}{Você vê um grande tanque de fermentação de álcool. Está emitindo um zumbido baixo.}
+{110}{}{Você vê um grande tanque de fermentação de álcool. Flutuando dentro está a cauda do radscorpion.}
+{120}{}{Você vê um grande tanque de fermentação de álcool. Está quebrado e o dano parece irreparável.}
+{130}{}{A cuba parou. Parece irreparável.}
+{140}{}{Você o joga no tanque e o observa afundar, o veneno fluindo do recipiente.}
+{150}{}{Parece irreparável.}
+{200}{}{::Clique::}
 {201}{}{::Klunk::}
-{202}{}{::Whirrrr-klunk::}
-{203}{}{::Kerrrrr-chunk::}
+{202}{}{::Whirrrr-clique::}
+{203}{}{::Cliiiii-que::}
 {204}{}{::Kzzztttt::}
 {250}{}{Hmmmmmmmm}
 {251}{}{Thmmmmmmm}
-{300}{}{You have destroyed family Wright's stills.}
+{300}{}{Você destruiu os alambiques da família Wright.}

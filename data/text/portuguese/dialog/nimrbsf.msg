@@ -8,6 +8,6 @@
 {260}{}{(Você está girando a maçaneta... quando de repente ouve um CLIC e a porta se abre!)}
 {270}{}{(Você gira a maçaneta, mas a portinha não abre!)}
 {290}{}{(Você não ouve ninguém e não consegue ver uma campainha. Talvez ninguém esteja em casa.)}
-{300}{}{(With surgical precision, you disarm the fuse and pull the plastic explosive from the wall. The trap is now disarmed.)}
-{310}{}{(With surgical precision, you open the primer and adjust the tumbler combination trigger. The owner of this safe will be
- in for a surprise when he tries to open it again.)}
+{300}{}{(Com precisão cirúrgica, você desarma o fusível e puxa o explosivo plástico da parede. A armadilha agora está desarmada.)}
+{310}{}{(Com precisão cirúrgica, você abre o fuzivel e ajusta o gatilho de combinação do tambor. O dono deste cofre terá uma surpresa
+ quando tentar abri-lo novamente.)}

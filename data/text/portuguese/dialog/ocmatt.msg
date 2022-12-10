@@ -9,10 +9,10 @@
 {107}{}{No, I'll be leaving.}
 {108}{}{O que você quer?}
 {109}{}{Quem é você?}
-{110}{}{You prisoner?}
+{110}{}{Seu prisioneiro?}
 {111}{}{Eu vou agora.}
 {112}{}{Quem é você?}
-{113}{}{Are you a prisoner here?}
+{113}{}{Você é prisioneira aqui?}
 {114}{}{I'll be leaving now.}
 {115}{}{Meu nome é Matt. Importa?}
 {116}{}{Acho que não.}

@@ -1,7 +1,7 @@
-{100}{}{The headstone reads: "Here lies our beloved son, Richard Wright. You will never be forgotten."}
-{200}{}{You see the body of a teenager in the coffin.}
-{201}{}{You examine Richard Wright's grave. A foul stench emanates from the body.}
-{202}{}{That stench coming from the body is radscorpion venom... this kid didn't die
- of a Jet overdose. He was poisoned.}
-{203}{}{Something about that smell from the kid's body seems familiar, but I can't place it...}
-{300}{}{You have discovered Richard Wright was poisoned.}
+{100}{}{A lápide diz: "Aqui jaz nosso amado filho, Richard Wright. Você nunca será esquecido."}
+{200}{}{Você vê o corpo de um adolescente no caixão.}
+{201}{}{Você examina o túmulo de Richard Wright. Um mau cheiro emana do corpo.}
+{202}{}{Esse fedor vindo do corpo é veneno de radscorpion... esse garoto não morreu
+ de overdose de Jet. Ele foi envenenado.}
+{203}{}{Esse cheiro do corpo do garoto parece familiar, mas não consigo identificar...}
+{300}{}{Você descobriu que Richard Wright foi envenenado.}

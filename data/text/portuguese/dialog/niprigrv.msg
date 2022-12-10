@@ -1,8 +1,8 @@
-{100}{}{A body of an old man is inside the coffin. His throat has been cut. There is nothing on the body.}
-{101}{}{An old man's body lies in a sturdy wooden coffin, and it looks like someone cut his throat.}
-{150}{}{While searching Pritchard's body, you pull off his boots and notice one of the heels is loose. Prying
- it off, you find a wrinkled map that leads to something called "SAD." You enter the map into your Pip-Boy.}
-{200}{}{The headstone reads: "Here lies Sam Pritchard: He talked too much so we gave him a second mouth."}
-{250}{}{You have found Pritchard's grave... and the map to the Sierra Army Depot.}
-{255}{}{Hmmm... I seem to have found a clue.}
-{256}{}{Hmmm... neeet papur to cuwa on.}
+{100}{}{Um corpo de um velho está dentro do caixão. Sua garganta foi cortada, não há nada no corpo.}
+{101}{}{O corpo de um velho jaz em um caixão de madeira resistente e parece que alguém cortou sua garganta.}
+{150}{}{Enquanto revista o corpo de Pritchard, você tira suas botas e percebe que um dos saltos está solto. Abrindo-o,
+ você encontra um mapa enrugado que leva a algo chamado "DAS". Você insere o mapa em seu Pip-Boy.}
+{200}{}{A lápide diz: "Aqui jaz Sam Pritchard: ele falou demais, então demos a ele uma segunda boca.}
+{250}{}{Você encontrou o túmulo de Pritchard... e o mapa para o Deposito de Armas de Sierra.}
+{255}{}{Hmmm... Parece que encontrei uma pista.}
+{256}{}{Hmmm... preciso de papel pra pipboy.}

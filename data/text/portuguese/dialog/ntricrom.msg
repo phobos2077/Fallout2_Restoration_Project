@@ -1,2 +1,2 @@
-{100}{}{This was Richard's old room.}
-{200}{}{Maybe I should take a look around.}
+{100}{}{Este era o antigo quarto de Richard.}
+{200}{}{Talvez eu devesse dar uma olhada.}

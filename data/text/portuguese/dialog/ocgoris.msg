@@ -28,7 +28,7 @@
 {121}{}{Besides, I couldn't refuse a friend of Gruthar.}
 {122}{}{O que você gostaria de saber?}
 {123}{}{O que faz aqui?}
-{124}{}{Are you a prisoner here?}
+{124}{}{Você é prisioneira aqui?}
 {125}{}{How long have you been here?}
 {126}{}{O que você pode me dizer sobre os deathclaws que estão por aqui?}
 {127}{}{Do you know what happened to the people who used to live here in the vault?}

@@ -1,4 +1,4 @@
-{200}{}{Knowing this is Richard's room, you carefully search his dresser.}
-{201}{}{Hey. I found an empty Jet canister beneath the dresser.}
+{200}{}{Sabendo que este é o quarto de Richard, você vasculha cuidadosamente a cômoda dele.}
+{201}{}{Ei. Encontrei um frasco de jet vazio embaixo da cômoda.}
 {202}{}{Nada mais aqui.}
-{250}{}{You found a... clue. Beneath the dresser. In the Wright mansion.}
+{250}{}{Você encontrou uma... pista, abaixo da cômoda, na mansão Wright.}

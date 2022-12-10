@@ -1,43 +1,43 @@
-{100}{}{You see a short, slender woman wearing a blue velvet sun dress.}
-{101}{}{You see Ariel, the widow.}
-{102}{}{You see a short, slender woman wearing a blue velvet sun dress. She appears to be sad.}
-{103}{}{Hello, I'm Ariel. I don't think I've seen you here before. Who are you?}
+{100}{}{Você vê uma mulher baixa e esguia usando um vestido de verão de veludo azul.}
+{101}{}{Você vê Ariel, a viúva.}
+{102}{}{Você vê uma mulher baixa e esguia usando um vestido de verão de veludo azul. Ela parece estar triste.}
+{103}{}{Olá, eu sou Ariel. Acho que nunca te vi aqui antes. Quem é Você?}
 {104}{}{Eu}
-{105}{}{Uh... you look sad. Why?}
+{105}{}{Você parece triste. Por quê?}
 {106}{}{Eu vou agora.}
-{107}{}{Hello, Ariel, my name is}
-{108}{}{Hi. You're looking rather down. What's up?}
-{109}{}{You don't need to know my name, but I need some information from you.}
-{110}{}{Sorry. I don't have time for this.}
-{111}{}{It's a pleasure to meet you. What can I help you with?}
-{112}{}{Answer questions?}
+{107}{}{Olá, Ariel, meu nome é}
+{108}{}{Oi, parece desanimado, como esta?}
+{109}{}{Você não precisa saber meu nome, mas preciso de algumas informações suas.}
+{110}{}{Desculpe. Eu não tenho tempo para isso.}
+{111}{}{É um prazer conhecer você. Com o que posso ajudar?}
+{112}{}{Responder a perguntas?}
 {113}{}{Nada. Tchau.}
-{114}{}{You can't possibly be of any help to me. Bye.}
+{114}{}{Você não pode ser de nenhuma ajuda para mim. Tchau.}
 {115}{}{Gostaria de fazer alguns perguntas.}
-{116}{}{I'm sorry to intrude on your solitude, but could you answer some questions?}
-{117}{}{I'm just having some personal problems. It's nothing, really.}
-{118}{}{You talk, me listen. It help.}
-{119}{}{Ok. No talk problem. Answer question?}
-{120}{}{I'm a good listener, Ariel, and talking about whatever is bothering you may just help.}
-{121}{}{Ok. Let's forget the problems for now. Can you answer some questions?}
-{122}{}{Everybody's got problems, woman. Learn to deal with them.}
-{123}{}{Forgive me, but I don't have the time for someone with your attitude. Good-day.}
+{116}{}{Desculpe me intrometer em sua solidão, mas você poderia responder algumas perguntas?}
+{117}{}{Só estou tendo alguns problemas pessoais. Não é nada de mais.}
+{118}{}{Você fala, eu escuto. Isso ajuda.}
+{119}{}{Ta bom, sem problemas em falar. Responder a perguntas?}
+{120}{}{Sou um bom ouvinte, Ariel, e falar sobre o que quer que esteja incomodando você pode ajudar.}
+{121}{}{OK. Vamos esquecer os problemas por enquanto. Você pode responder a algumas perguntas?}
+{122}{}{Todo mundo tem problemas, mulher. Aprenda a lidar com eles.}
+{123}{}{Perdoe-me, mas não tenho tempo para alguém com a sua atitude. Bom dia.}
 {124}{}{}
 {125}{}{}
 {126}{}{Tudo certo.}
 {127}{}{O que você quer saber?}
-{128}{}{You prisoner?}
-{129}{}{D'claws treat you ok?}
-{130}{}{Want leave?}
-{131}{}{So why sad?}
-{132}{}{How you come here?}
+{128}{}{Seu prisioneiro?}
+{129}{}{Deathclaws tratam bem?}
+{130}{}{Quer sair?}
+{131}{}{Por que esta triste?}
+{132}{}{Como você veio aqui?}
 {133}{}{Tenho que ir agora.}
-{134}{}{Are you a prisoner here?}
-{135}{}{Are you treated all right by the deathclaws?}
-{136}{}{Would you like to leave the vault?}
-{137}{}{So tell me, Ariel: Why are you so sad?}
-{138}{}{How did you come to be here at the vault?}
-{139}{}{I must be going now.}
+{134}{}{Você é prisioneira aqui?}
+{135}{}{Os deathclaws te tratam bem?}
+{136}{}{Gostaria de sair da vault?}
+{137}{}{Então me diga, Ariel: Por que você está tão triste?}
+{138}{}{Como você veio parar aqui na vault?}
+{139}{}{Eu devo ir agora.}
 {140}{}{No, I can leave anytime I want. The deathclaws have made that very clear to me. They don't hold
  anyone here against their will, as far as I know.}
 {141}{}{Uh, tudo bem.}

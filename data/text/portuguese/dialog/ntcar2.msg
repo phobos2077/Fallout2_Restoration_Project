@@ -1,10 +1,10 @@
-{100}{}{I parked my car right here!}
-{101}{}{Me swear me parked right here!}
-{150}{}{As you pass closer to where the car was parked, you notice faint skid marks
- leading off to the north.}
-{151}{}{You see skid marks leading off to the north.}
-{152}{}{You see car tracks!}
-{153}{}{(Follow trax!)}
-{154}{}{(No follow trax.)}
-{155}{}{(Follow the car tracks.)}
-{156}{}{(Ignore them.)}
+{100}{}{Estacionei meu carro aqui!}
+{101}{}{Eu juro que estacionei aqui!}
+{150}{}{Ao passar mais perto de onde o carro estava estacionado, você nota marcas
+ fracas de derrapagem levando para o norte.}
+{151}{}{Você vê marcas de derrapagem indo para o norte.}
+{152}{}{Você vê rastros de carro!}
+{153}{}{(Siga marcas!)}
+{154}{}{(Não sigo marcas!)}
+{155}{}{(Siga os rastros do carro.)}
+{156}{}{(Os ignora.)}

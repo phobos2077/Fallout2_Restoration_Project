@@ -1,30 +1,30 @@
-{100}{}{You see a combination safe set securely into the wall. It is closed.}
-{101}{}{You see a combination safe set securely into the wall. It is open.}
-{120}{}{Just as you are about to begin lockpicking the safe, you notice a fuse running
- into the wall just beneath the safe. Looks like this sucker's trapped.}
-{121}{}{The safe is still trapped.}
-{150}{}{There is a KER-KLANK as the safe unlocks.}
-{160}{}{You are spinning the dial randomly, when suddenly the dial catches on a number...
- there is a KER-KLANK, and the safe unlocks.}
+{100}{}{Você vê um cofre de combinação instalado com segurança na parede. Está fechado.}
+{101}{}{Você vê um cofre de combinação instalado com segurança na parede. Está aberto.}
+{120}{}{Quando você está prestes a arrombar o cofre, percebe um fusível na parede
+ logo abaixo do cofre. Parece que esse desgraçado tem uma armadilha.}
+{121}{}{O cofre ainda tem uma armadilha.}
+{150}{}{Há um CLIC quando o cofre é desbloqueado.}
+{160}{}{Você está girando a roleta aleatoriamente, quando de repente ela atinge
+ um número e... CLIC e o cofre se abre.}
 {170}{}{Você gira a roda lentamente por vários minutos, mas não consegue fazer nada.}
 {171}{}{Você gira o dial por vários minutos e nada acontece.}
-{180}{}{You find a trap on the safe and successfully disarm it.}
-{181}{}{You successfully disarm the trap on the safe.}
-{190}{}{You find a trap on the safe, but fail to disarm it.}
-{200}{}{Doesn't look like there's a trap on the safe.}
-{201}{}{You fail to disarm the trap on the safe.}
-{220}{}{It probably would be best to re-arm the safe with plastic explosives or dynamite first.}
-{230}{}{The combination on the safe has successfully been changed... heh heh heh...}
-{231}{}{The combination on the safe has successfully been changed... again.}
-{240}{}{You don't have the skills to change the combination.}
-{241}{}{ doesn't have the skills to change the combination.}
-{250}{}{The safe needs to be closed.}
-{260}{}{There appears to be a trap already on the safe.}
-{270}{}{You fail to trap the safe.}
-{271}{}{ fails to trap the safe.}
-{280}{}{The trap on the safe has successfully been re-armed.}
-{290}{}{While searching the safe for a trap, you set off an explosion.}
-{291}{}{You pulled the wrong wire while disarming the trap.}
-{300}{}{You hear a muffled boom upstairs.}
-{400}{}{You pry up a small panel on the bottom of the safe. You don't think you would have found it
- if Mrs. Bishop hadn't told you about it. Inside is an odd-looking Pip-Boy attachment.}
+{180}{}{Você encontra uma armadilha no cofre e a desarma com sucesso.}
+{181}{}{Você desarmou com sucesso a armadilha do cofre.}
+{190}{}{Você encontra uma armadilha no cofre, mas não consegue desarmá-la.}
+{200}{}{Não parece haver uma armadilha no cofre.}
+{201}{}{Você falha em desarmar a armadilha do cofre.}
+{220}{}{Provavelmente seria melhor rearmar o cofre com explosivos plásticos ou dinamite primeiro.}
+{230}{}{A combinação no cofre foi alterada com sucesso... heh heh heh...}
+{231}{}{A combinação no cofre foi alterada com sucesso... de novo.}
+{240}{}{Você não tem as habilidades para mudar a combinação.}
+{241}{}{ não tem as habilidades para mudar a combinação.}
+{250}{}{O cofre precisa ser fechado.}
+{260}{}{Parece haver uma armadilha já no cofre.}
+{270}{}{Você falha em por a armadilha no cofre.}
+{271}{}{ falha em por a armadilha no cofre.}
+{280}{}{A armadilha do cofre foi rearmada com sucesso.}
+{290}{}{Enquanto procurava uma armadilha no cofre, ocorre uma explosão.}
+{291}{}{Você puxou o fio errado ao desarmar a armadilha.}
+{300}{}{Você ouve um estrondo abafado no andar de cima.}
+{400}{}{Você abre um pequeno painel no fundo do cofre. Você não acha que teria encontrado se a Sra. Bishop
+ não tivesse lhe contado sobre isso. Dentro há um acessório Pip-Boy de aparência estranha.}

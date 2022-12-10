@@ -1,4 +1,4 @@
-{100}{}{Hey! Where's my car?!}
-{101}{}{Where did my car go...?}
-{110}{}{Uh, oh. Me no see car here!}
-{111}{}{Uh, oh. Me lost car...}
+{100}{}{Ei! Cadê meu carro?!}
+{101}{}{Para onde foi meu carro...?}
+{110}{}{Ei, oi. Eu não vejo carro aqui!}
+{111}{}{Ei, oi. Eu perdi o carro...}

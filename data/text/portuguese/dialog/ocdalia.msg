@@ -20,7 +20,7 @@
 {117}{}{Como você está aqui?}
 {118}{}{Why you worry safe?}
 {119}{}{Thanks. Me go.}
-{120}{}{Are you a prisoner here?}
+{120}{}{Você é prisioneira aqui?}
 {121}{}{Can you leave anytime you want?}
 {122}{}{O que você pode me contar sobre os deathclaws?}
 {123}{}{How did you come to be here?}

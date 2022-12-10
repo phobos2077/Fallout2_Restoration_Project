@@ -26,12 +26,12 @@
 {121}{}{Tudo bem. Tchau.}
 {122}{}{Tudo bem. Obrigado de qualquer forma.}
 {123}{}{O que você gostaria de saber?}
-{124}{}{You prisoner?}
+{124}{}{Seu prisioneiro?}
 {125}{}{Você sai daqui quando quer?}
 {126}{}{What you know about D'claws?}
 {127}{}{Como você está aqui?}
 {128}{}{Eu vou agora.}
-{129}{}{Are you a prisoner here?}
+{129}{}{Você é prisioneira aqui?}
 {130}{}{Você pode sair daqui se você deseja?}
 {131}{}{O que você pode me contar sobre os deathclaws?}
 {132}{}{Como você chegou a estar aqui, em primeiro lugar?}
