@@ -38,42 +38,42 @@
 {137}{}{Então me diga, Ariel: Por que você está tão triste?}
 {138}{}{Como você veio parar aqui na vault?}
 {139}{}{Eu devo ir agora.}
-{140}{}{No, I can leave anytime I want. The deathclaws have made that very clear to me. They don't hold
- anyone here against their will, as far as I know.}
+{140}{}{Não, posso sair quando quiser. Os deathclaws deixaram isso bem claro para mim. Eles não mantêm ninguém
+ aqui contra sua vontade, até onde eu sei.}
 {141}{}{Uh, tudo bem.}
-{142}{}{Got it. Me go.}
+{142}{}{Entendi. Eu vou.}
 {143}{}{Eu vejo.}
-{144}{}{I think you're lying, bitch.}
-{145}{}{I see. If you don't mind, I need to ask you about a few more things.}
-{146}{}{Yes. They provide me with food, water, shelter, and protection. I feel very safe here, and
- that's more than I could ask for.}
-{147}{}{Okay. Got go then.}
-{148}{}{Good. Ask more.}
-{149}{}{All right. I need to ask you more.}
-{150}{}{Okay. On to some other stuff, then.}
-{151}{}{Great. A lizard lover.}
-{152}{}{I've considered it, but I would have to say no. I feel safer here than anywhere else I've ever
- lived. I do get lonely for the company of other people like myself, but hopefully others will come to
- live here in the future and satisfy that need.}
-{153}{}{Me go. Wavy bye bye.}
-{154}{}{Tell more.}
-{155}{}{Fine, you can rot here for all I care.}
-{156}{}{Okay. I guess I'll go now.}
-{157}{}{You've been very helpful, but I must trouble you for more.}
-{158}{}{My husband recently died. I miss him and I'm having problems adjusting. That's all.}
-{159}{}{Sorry, how happen?}
-{160}{}{Ooops. Got go, hear elder calling.}
-{161}{}{I'm sorry to hear that. How did it happen?}
-{162}{}{Tough break. I'll be seeing ya.}
-{163}{}{Shit happens, people die. Usually when I'm around.}
-{164}{}{I've already told you about the raid. That's when it happened.}
-{165}{}{My husband and I were traveling with a caravan on its way to the New California Republic. We
- wanted to start a new life for ourselves and our daughter, Sandy. Unfortunately, the caravan was
- attacked by raiders one night. They were incredibly brutal. They killed everyone: men, women, and
- children. Rand, my husband, died trying to defend Sandy and me. We were to die next when a miracle
- occurred. }
-{166}{}{Uh... wow.}
-{167}{}{Glad you, little one, both okay.}
+{144}{}{Acho que você está mentindo, vadia.}
+{145}{}{Entendo. Se não se importa, preciso perguntar mais algumas coisas.}
+{146}{}{Sim. Eles me fornecem comida, água, abrigo e proteção. Eu me sinto muito segura aqui, e isso é mais
+ do que eu poderia pedir.}
+{147}{}{OK. Vamos então.}
+{148}{}{Bom. Pergunto mais.}
+{149}{}{Tudo bem. Tenho outras coisa para perguntar.}
+{150}{}{OK. Em algumas outras coisas, então.}
+{151}{}{Que beleza, um amante de lagartos.}
+{152}{}{Eu considerei isso, mas eu teria que dizer não. Eu me sinto mais segura aqui do que em qualquer
+ outro lugar que já vivi. Eu me sinto solitária na companhia de outras pessoas como eu, mas espero que
+ outros venham morar aqui no futuro e satisfaçam essa necessidade.}
+{153}{}{Eu vou. Tchauzin.}
+{154}{}{Conte mais.}
+{155}{}{Tudo bem, você pode apodrecer aqui se quiser.}
+{156}{}{OK. Acho que vou agora.}
+{157}{}{Você tem sido de grande ajuda, mas gostaria de te incomodar um pouco mais.}
+{158}{}{Meu marido morreu recentemente. Sinto falta dele e estou tendo problemas para me ajustar. Isso é tudo.}
+{159}{}{Sinto muito, como aconteceu?}
+{160}{}{Ops. Tenho que ir, ouço a anciã me chamando.}
+{161}{}{Sinto muito por ouvir isso. Como aconteceu?}
+{162}{}{Que porra. Nos vemos por ai.}
+{163}{}{Merdas acontecem, pessoas morrem. Normalmente quando estou por perto.}
+{164}{}{Eu já te contei sobre o ataque. Foi quando aconteceu.}
+{165}{}{Meu marido e eu estávamos viajando com uma caravana a caminho da República da Nova Califórnia.
+ Queríamos começar uma nova vida para nós e nossa filha, Sandy. Infelizmente, a caravana foi
+ atacada por invasores uma noite. Eles foram incrivelmente brutais, mataram todos: homens, mulheres
+ e crianças. Rand, meu marido, morreu tentando defender Sandy e eu. Devíamos morrer em seguida quando
+ ocorreu um milagre. }
+{166}{}{Uh... uau.}
+{167}{}{Fico feliz, pequenina, as duas estão bem.}
 {168}{}{Me outta here. Bye.}
 {169}{}{Wow. What a story.}
 {170}{}{What a crock of sh... I'm outta here.}
