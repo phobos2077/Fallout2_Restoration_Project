@@ -10,7 +10,7 @@
 {108}{}{Olá, quem é você?}
 {109}{}{Qual é o seu trabalho?}
 {110}{}{Sem ofensa para seus amigos Deathclaws, mas você parece mais... educado, entende?}
-{111}{}{Well, just passing the time.}
+{111}{}{Bom, só passando o tempo.}
 {112}{}{Eu me chamo Valdis. E você é...?}
 {113}{}{Eu humano.}
 {114}{}{Oooo! Algo brilhante. Eu vou.}

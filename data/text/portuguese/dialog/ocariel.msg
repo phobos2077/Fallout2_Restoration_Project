@@ -74,22 +74,22 @@
  ocorreu um milagre. }
 {166}{}{Uh... uau.}
 {167}{}{Fico feliz, pequenina, as duas estão bem.}
-{168}{}{Me outta here. Bye.}
-{169}{}{Wow. What a story.}
-{170}{}{What a crock of sh... I'm outta here.}
-{171}{}{Thank goodness that you and your daughter are safe.}
-{172}{}{Hello again. How are you?}
+{168}{}{Vou sair daqui. Tchau.}
+{169}{}{Uau. Que história.}
+{170}{}{Que monte mer.. Vou sair daqui.}
+{171}{}{Graças a Deus que você e sua filha estão bem.}
+{172}{}{Olá de novo. Como você está?}
 {173}{}{}
 {174}{}{}
-{175}{}{Go away, you bastard! I want nothing to do with you.}
-{176}{}{Go away, bitch! I have nothing to say to you.}
+{175}{}{Vá embora, seu desgraçado! Eu não quero nada com você.}
+{176}{}{Vá embora, vadia! Eu não tenho nada para dizer para voce.}
 {177}{}{Adeus.}
 {178}{}{.}
-{179}{}{. Yes, I'm new here.}
-{180}{}{I was holding Sandy behind me, trying to keep her from the monster that had shot Rand. He stood
- next to my husband's body and laughed at me as he aimed his gun at my head. Suddenly, this huge claw
- came out of the darkness, grabbed him from behind and... well, thank goodness that Sandy didn't see
- what happened next. Anyway, the raiders were being wiped out by this group of deathclaws. The one that
- saved Sandy and me stood near us and talked to me. He kept reassuring me that I was safe, and that he
- was sorry that he couldn't have gotten there sooner to help us. Afterwards, the deathclaws brought us
- here.}
+{179}{}{. Sim, sou novo aqui.}
+{180}{}{Eu estava segurando Sandy atrás de mim, tentando mantê-la longe do monstro que havia atirado
+ em Rand. Ele ficou ao lado do corpo do meu marido e riu de mim enquanto apontava a arma para minha
+ cabeça. De repente, um enorme deathclaw saiu da escuridão, o agarrou por trás e... bem, graças a Deus
+ que Sandy não viu o que aconteceu a seguir. De qualquer forma, os invasores estavam sendo aniquilados
+ por esse grupo de deathclaws. Aquele que salvou Sandy e eu ficou perto de nós e falou comigo. Ele continuou
+ me assegurando que eu estava bem e que lamentava não ter chegado antes para nos ajudar. Depois,
+ os deathclaws nos trouxeram aqui.}

@@ -11,7 +11,7 @@
 {109}{}{Quem é você?}
 {110}{}{O que faz aqui?}
 {111}{}{Sem ofensa, o quanto você é inteligente?}
-{112}{}{Well, just passing the time.}
+{112}{}{Bom, só passando o tempo.}
 {113}{}{Sou Thearn. Quem voce?}
 {114}{}{Eu}
 {115}{}{Vou indo.}

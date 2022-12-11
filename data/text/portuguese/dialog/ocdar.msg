@@ -2,39 +2,39 @@
 {101}{}{You see Dar, the Deathclaw.}
 {102}{}{Você vê um típico garra mortal. A criatura é enorme, com um corpo poderoso, dentes afiados,
  e longas garras.}
-{103}{}{Hello, human.}
+{103}{}{Ola, humano.}
 {104}{}{O que você quer?}
-{105}{}{Hi. Who you?}
-{106}{}{Why you here?}
-{107}{}{You smart like rest?}
-{108}{}{Me bored, me go.}
-{109}{}{Sorry to bother you, but who are you?}
-{110}{}{What is your job at the vault?}
-{111}{}{Please don't take offense, but how educated are you?}
-{112}{}{Well, just passing the time.}
-{113}{}{I Dar, warrior.}
+{105}{}{Ola. Quem voce?}
+{106}{}{Por que esta aqui?}
+{107}{}{Voce inteligente como outros?}
+{108}{}{Eu entediado, vou indo.}
+{109}{}{Desculpe incomodar, mas quem é você?}
+{110}{}{Qual é o seu trabalho na Vault?}
+{111}{}{Por favor, não se ofenda, mas quão educado você é?}
+{112}{}{Bom, só passando o tempo.}
+{113}{}{Eu Dar, guerreiro.}
 {114}{}{Ok.}
-{115}{}{You all same. Me leave.}
+{115}{}{Vocês todos iguais. Vou embora.}
 {116}{}{Eu}
-{117}{}{I see. Well I've got to go now.}
+{117}{}{Entendo. Bem, eu tenho que ir agora.}
 {118}{}{Eu sou}
 {119}{}{Tenho-o.}
-{120}{}{Warrior! Ha! That's a good one. Know any more?}
-{121}{}{Dar guard hall and keep peace. Nothing more.}
-{122}{}{Me hear before.}
+{120}{}{Guerreiro! Ha! Essa é boa. Sabe outra?}
+{121}{}{Dar protege a entrada e manter a paz. Nada mais.}
+{122}{}{Escuta antes.}
 {123}{}{Ok.}
-{124}{}{Well, you're doing fine, Dar. Just keep it up.}
-{125}{}{Yeah, I figured as much.}
-{126}{}{Nothing new here. I guess I'll be going.}
-{127}{}{With a face like yours, how can you keep the peace?}
-{128}{}{You not nice. Go away.}
-{129}{}{Not much but I learn. Gruthar -- he leader -- tell us all learn.}
-{130}{}{Elder in village do same me.}
+{124}{}{Bem, você está indo bem, Dar. Continue assim.}
+{125}{}{Sim, eu imaginei isso.}
+{126}{}{Nada de novo aqui. Acho que vou indo.}
+{127}{}{Com um rosto como o seu, como você pode manter a paz?}
+{128}{}{Você não é legal. Vá embora.}
+{129}{}{Não muito, mas eu aprendo. Gruthar -- o líder -- nos diz que nós aprendemos.}
+{130}{}{A anciã da aldeia diz a mesma coisa para mim.}
 {131}{}{Ah.}
-{132}{}{Gruthar is right; you should all try to educate yourselves.}
+{132}{}{Gruthar está certo; todos vocês devem tentar se educar.}
 {133}{}{Tenho-o.}
-{134}{}{So, you're so stupid that someone else has to force you to educate yourself. How nice.}
-{135}{}{Hello. You pack friend.}
+{134}{}{Então, você é tão estúpido que alguém tem que forçá-lo a se educar. Que legal.}
+{135}{}{Olá. Você amigo de manada.}
 {136}{}{Grrrrrrrrr! Argggggghhhh.}
 {137}{}{.}
 {138}{}{, Dar.}
