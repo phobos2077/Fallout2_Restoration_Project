@@ -3,24 +3,24 @@
 {102}{}{You see a competent, vigilant guard watching the crowd.}
 {103}{}{Keep your hands off our stack, Jack.}
 {104}{}{Gettin' greedy's gonna cost you.}
-{105}{}{You shoulda known better than that.}
-{106}{}{You thought you'd get away with that?}
-{107}{}{You ain't gonna be able to spend anything now.}
-{108}{}{There's gonna be a fee for this withdrawal.}
-{109}{}{And I was just thinking how bored I am. Thanks, stranger.}
-{110}{}{Yeah, party time begins.}
-{111}{}{What a maroon. }
-{112}{}{You'd think that even someone like you would know better than that.}
-{113}{}{And I was just starting to get bored too.}
-{114}{}{Yeah! Party's on!}
+{105}{}{Você deveria saber mais do que isso.}
+{106}{}{Você pensou que iria se safar disso?}
+{107}{}{Você não vai poder gastar nada agora.}
+{108}{}{Essa retirada terá um preço.}
+{109}{}{Eu só estava pensando em como estou entediado. Obrigado, estranho.}
+{110}{}{Sim, a festa começa.}
+{111}{}{Boludo imbecil. }
+{112}{}{Você pensaria que mesmo alguém como você poderia fazer melhor do que isso.}
+{113}{}{Eu estava começando a ficar entediado também.}
+{114}{}{Sim! A festa começou!}
 {115}{}{Vamos dançar.}
-{116}{}{Ready to rumble?}
-{117}{}{Oh yeah, bring it on, badman.}
-{118}{}{I wanna see what your insides look like.}
-{119}{}{Glad I'm not going to hafta clean up the mess your guts are gonna make in here.}
-{120}{}{I ain't had a good fight for a week now.}
-{121}{}{Oh yeah, oh yeeeeaaahhh!}
-{122}{}{Good to go here.}
+{116}{}{Pronto para fazer barulho?}
+{117}{}{Oh sim, vamos lá, malvadão.}
+{118}{}{Quero ver o que você tem por dentro.}
+{119}{}{Ainda bem que não vou ter que limpar a bagunça que suas entranhas vão fazer aqui.}
+{120}{}{Faz uma semana que não tenho uma luta boa.}
+{121}{}{Oh sim, oh siiiiiiiiiiiiiuuuuu!}
+{122}{}{Estou feliz por ter vindo.}
 {123}{}{Don't fuck with the customers.}
 {124}{}{You'll see what full service is all about.}
 {125}{}{You can't attack the guests and get away with it.}

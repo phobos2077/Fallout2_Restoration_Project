@@ -1,5 +1,5 @@
 {100}{}{Você vê um garra mortal. Ele observa você com olhos estranhamente inteligentes.}
-{101}{}{You see Dar, the Deathclaw.}
+{101}{}{Você vê Dar, o Deathclaw.}
 {102}{}{Você vê um típico garra mortal. A criatura é enorme, com um corpo poderoso, dentes afiados,
  e longas garras.}
 {103}{}{Ola, humano.}

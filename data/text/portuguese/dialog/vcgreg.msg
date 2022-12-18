@@ -35,7 +35,7 @@
 {134}{}{I am the ASSISTANT to the First Citizen. I schedule her appointments, administer the Citizenship test to potential applicants, and update all the lists on the Vault City server. No small task, I assure you.}
 {135}{}{The Citizenship test?}
 {136}{}{Speaking of the Citizenship test, I want to take it again.}
-{137}{}{Can I ask you some questions?}
+{137}{}{Posso te fazer algumas perguntas?}
 {138}{}{I see. Well, I have to be going.}
 {139}{}{Yes, there is the RIGHT way... you can become a Citizen by taking the Citizenship test.}
 {140}{}{Yes, I am responsible for administering the Citizenship test to anyone who wishes to become a Citizen of Vault City.}

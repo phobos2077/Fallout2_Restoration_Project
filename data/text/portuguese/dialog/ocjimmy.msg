@@ -15,7 +15,7 @@
 {114}{}{Está me irritando. Vá embora.}
 {115}{}{Oi, desculpe. Eu não queria te atrapalhar. Vou te deixar com seus assuntos.}
 {116}{}{Boa.}
-{117}{}{It's a pleasure to meet you,}
+{117}{}{É um prazer conhecer você,}
 {118}{}{O que você gostaria de saber?}
 {119}{}{O que você faz aqui?}
 {120}{}{O que é toda essa máquina?}
@@ -79,6 +79,6 @@
 {178}{}{Thanks for fixing the computer. You've saved all our butts.}
 {179}{}{I've got better things to do than shoot the likes of you, but everyone needs a vacation!}
 {180}{}{. Me ask question?}
-{181}{}{. Can I ask you some questions?}
+{181}{}{. Posso te fazer algumas perguntas?}
 {182}{}{. I'd be happy to answer some questions.}
 {183}{}{You should let Gruthar know that you fixed the computer.}

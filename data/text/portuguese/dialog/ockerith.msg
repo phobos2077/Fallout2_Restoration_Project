@@ -52,7 +52,7 @@
 {142}{}{Eu vejo.}
 {143}{}{We built the cave portion, and a human friend installed the door. He got the parts from a settlement
  north-east of here.}
-{144}{}{That nice.}
+{144}{}{Que bom.}
 {145}{}{That's nice.}
 {146}{}{Hello again. It is good to see you. What can I help you with?}
 {147}{}{Me just say hello. Me go now.}

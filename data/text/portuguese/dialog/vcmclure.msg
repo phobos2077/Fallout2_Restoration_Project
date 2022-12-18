@@ -15,7 +15,7 @@
 {114}{}{Yes? Was there something else you wanted?}
 {115}{}{San-tah Klass?}
 {116}{}{Desliga}
-{117}{}{Can I ask you some questions?}
+{117}{}{Posso te fazer algumas perguntas?}
 {118}{}{Quem é você?}
 {119}{}{Just looking around, thanks. Good day.}
 {120}{}{How did you get into our City? Guards! We have an Outworlder that needs to be escorted to the gate!}
@@ -65,7 +65,7 @@
 {164}{}{O que posso fazer por você?}
 {165}{}{I don't know, old man. What CAN you do for me?}
 {166}{}{Estou procurando um Kit de Criação do Jardim do Éden.}
-{167}{}{Can I ask you some questions?}
+{167}{}{Posso te fazer algumas perguntas?}
 {168}{}{Nothing today. I was just taking a tour of the council building.}
 {169}{}{A GECK? As I understand it, we only had one. I read that it lasted a long time but it broke down a number of years before I was even born. We were supposed to have two...}
 {170}{}{Supposed to?}

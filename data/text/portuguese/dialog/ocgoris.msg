@@ -1,57 +1,57 @@
-{100}{}{You see a robed figure.}
-{101}{}{You see Goris the scholar.}
-{102}{}{You see a humanoid figure wearing a long sleeved, hooded robe. There is something unnatural
- about his stance, but you're not sure exactly what it is.}
-{103}{}{Hello, I'm Goris. I don't recognize you; are you new here?}
+{100}{}{Você vê uma figura vestida com uma tunica.}
+{101}{}{Você vê Goris, o estudante.}
+{102}{}{Você vê uma figura humanoide vestindo um manto com capuz de mangas compridas. Há algo antinatural em sua
+ postura, mas você não sabe exatamente o que é.}
+{103}{}{Olá, eu sou Goris. Não te reconheço; você é novo aqui?}
 {104}{}{Eu}
 {105}{}{Eu vou.}
-{106}{}{Yeah, so what?}
-{107}{}{Hi. I'm}
-{108}{}{Hello, Goris. Gruthar said I should look you up. He seems to think you're the man with the
- answers.}
-{109}{}{Can I ask you some questions?}
+{106}{}{Sim, e daí?}
+{107}{}{Ola. Eu sou }
+{108}{}{Olá, Goris. Gruthar disse que eu deveria procurá-lo. Ele acredita que você é o homem com
+ as respostas.}
+{109}{}{Posso te fazer algumas perguntas?}
 {110}{}{Desculpe, tenho que ir.}
-{111}{}{It's a pleasure to meet you,}
-{112}{}{So you've talked with Gruthar. He has a rather inflated opinion of me. I don't really know half
- as much as he thinks I do. Anyway...}
-{113}{}{So you're an outsider! I've seen a few like you; some are staying here in the vault, but you
- look different. You appear to be more 'seasoned,' if you know what I mean. I'll bet you've been around
- a bit and accomplished things. Am I right?}
-{114}{}{Uh... 'seasoned'?}
+{111}{}{É um prazer conhecer você,}
+{112}{}{Então você falou com Gruthar. Ele tem uma opinião bastante exagerada sobre mim. Eu realmente
+ não sei a metade do que ele pensa que eu sei. De qualquer maneira...}
+{113}{}{Então você é o estrangeiro! Eu vi alguns como você; alguns estão aqui na Vault, mas você
+ parece diferente, você parece ser mais 'experiente', se é que me entende. Aposto que você já esteve por
+ aí um pouco e fez muitas coisas. Estou certo?}
+{114}{}{Uh... 'experiente'?}
 {115}{}{Eu vou.}
-{116}{}{Sorry, but I think I'll be leaving.}
-{117}{}{Yes, I've had some adventures. Say, if you wouldn't mind answering some questions for me, I
- could tell you some of my adventures in return.}
+{116}{}{Desculpe, mas acho que vou embora.}
+{117}{}{Sim, já tive algumas aventuras. Diga, se você não se importasse em responder algumas perguntas para mim,
+ eu poderia lhe contar algumas das minhas aventuras em troca.}
 {118}{}{Não é da sua conta.}
-{119}{}{Mind if I ask you some questions?}
-{120}{}{It's a deal! I would love to hear anything you can tell me.}
-{121}{}{Besides, I couldn't refuse a friend of Gruthar.}
+{119}{}{Se importa se eu te fizer algumas perguntas?}
+{120}{}{É um acordo! Eu adoraria ouvir qualquer coisa que você possa me dizer.}
+{121}{}{Além disso, eu não poderia recusar um amigo de Gruthar.}
 {122}{}{O que você gostaria de saber?}
 {123}{}{O que faz aqui?}
 {124}{}{Você é prisioneira aqui?}
-{125}{}{How long have you been here?}
+{125}{}{A Quanto tempo você esta aqui?}
 {126}{}{O que você pode me dizer sobre os deathclaws que estão por aqui?}
-{127}{}{Do you know what happened to the people who used to live here in the vault?}
-{128}{}{What can you tell me about Gruthar?}
+{127}{}{Você sabe o que aconteceu com as pessoas que moravam aqui na Vault?}
+{128}{}{O que você pode me dizer sobre Gruthar?}
 {129}{}{Você acha que os deathclaws são uma ameaça aos humanos?}
-{130}{}{Do you have any information on this Enclave you spoke of?}
-{131}{}{What do you know about this virus?}
-{132}{}{You mentioned you wanted to do some traveling. How about joining me?}
-{133}{}{Sorry, but I've got to go now.}
-{134}{}{Hmm... I'm surprised Gruthar didn't tell you about me. Oh well. }
-{135}{}{I'm a student of sorts. I'm trying to learn as much as I can about the world and the different
- cultures that have developed. Right now I'm studying the culture the deathclaws are forming and
- comparing it to human development along similar lines. I've acquired just about all the information I
- need here. It would help my research a great deal if I could do some traveling. However, I don't want
- to go it alone, if you know what I mean.}
-{136}{}{Interesting. Can I ask you some more questions?}
-{137}{}{So, you're a scholar. That's quite an accomplishment in today's world.}
-{138}{}{How boring. Oh, well... it's your life to waste as you see fit. I need more info, though.}
-{139}{}{No, I can leave any time I like. I haven't done so because I don't want to travel alone. I'm
- pretty tough and can take care of myself, but I would still be one person alone in the desert if
- anything happened.}
+{130}{}{Você tem alguma informação sobre essa Enclave de que falou?}
+{131}{}{O que você sabe sobre esse vírus?}
+{132}{}{Você mencionou que queria fazer algumas viagens. Que tal se juntar a mim?}
+{133}{}{Desculpe, mas tenho que ir agora.}
+{134}{}{Hmm... Estou surpreso que Gruthar não tenha contado a você sobre mim. Ah bem. }
+{135}{}{Eu sou um tipo de estudante. Estou tentando aprender o máximo que posso sobre o mundo
+ e as diferentes culturas que se desenvolveram. No momento, estou estudando a cultura que os
+ deathclaws estão formando e comparando-a com o desenvolvimento humano em linhas semelhantes.
+ Adquiri quase todas as informações de que preciso aqui. Ajudaria muito minha pesquisa se eu pudesse
+ viajar um pouco. No entanto, não quero ir sozinho, entende.}
+{136}{}{Interessante. Posso te fazer mais algumas perguntas?}
+{137}{}{Então, você é um estudioso. Isso é uma grande conquista no mundo de hoje.}
+{138}{}{Que tédio. Oh, bem... é a sua vida para desperdiçar como quiser. Mas eu preciso de mais informações.}
+{139}{}{Não, posso sair quando quiser. Não fiz porque não quero viajar sozinho. Sou muito durão
+ e sei cuidar de mim mesmo, mas ainda seria uma pessoa sozinha no deserto se alguma coisa
+ acontecesse.}
 {140}{}{Eu vejo.}
-{141}{}{Ah, too much of a wimp to make it on your own. I got it.}
+{141}{}{Ah, covarde demais para fazer isso sozinho. Eu entendi.}
 {142}{}{I don't like traveling alone either, so I can't blame you.}
 {143}{}{Uh... a few months actually. I came here from the coast a while back.}
 {144}{}{Wow, you're pretty new here yourself. If you don't mind, I need to know more.}
@@ -126,7 +126,7 @@
 {189}{}{Uh huh. Well, your IQ may be smaller than your shoe size but you obviously have something going
  for you to have survived in the world this long... it must be that mean streak I can sense in you. Oh,
  well. Good-bye.}
-{190}{}{Uh... Okay.}
+{190}{}{Uh... Ok.}
 {191}{}{Eu vou.}
 {192}{}{I'm sorry, I didn't mean to pry into your private affairs.}
 {193}{}{Yeah, well, see that you don't do it again!}

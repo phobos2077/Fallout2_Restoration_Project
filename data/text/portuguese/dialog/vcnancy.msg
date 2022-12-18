@@ -62,7 +62,7 @@
 {161}{}{So that's how it's going to be, huh? All right then...}
 {162}{}{I'm the Resident Medical Assistant. I work for Dr. Troy.}
 {163}{}{What do you think of Dr. Troy?}
-{164}{}{Can I ask you some questions?}
+{164}{}{Posso te fazer algumas perguntas?}
 {165}{}{Great. I could use some medical assistance.}
 {166}{}{Sorry, I don't have time to talk right now.}
 {167}{}{Welcome back. Anything I can help you with?}

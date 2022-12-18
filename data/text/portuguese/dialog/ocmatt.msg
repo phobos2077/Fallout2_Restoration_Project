@@ -3,7 +3,7 @@
 {102}{}{You see a tall, slender man with short hair and a wild look in his eye. You can feel him staring
  back at you.}
 {103}{}{Is there something that I can help you with, stranger?}
-{104}{}{Me ask questions?}
+{104}{}{Faço perguntas?}
 {105}{}{No, wavy.}
 {106}{}{Yes, I'd like to ask you some questions.}
 {107}{}{No, I'll be leaving.}

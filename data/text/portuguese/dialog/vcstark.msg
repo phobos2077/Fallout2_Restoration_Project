@@ -56,7 +56,7 @@
 {155}{}{Patrols?}
 {156}{}{Raiders?}
 {157}{}{About those Raiders...}
-{158}{}{Can I ask you some questions?}
+{158}{}{Posso te fazer algumas perguntas?}
 {159}{}{Obrigado. Adeus.}
 {160}{}{Permission to speak freely, sir.}
 {161}{}{Granted.}

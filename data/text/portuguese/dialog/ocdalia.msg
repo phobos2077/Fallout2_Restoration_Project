@@ -47,12 +47,12 @@
  uma fogueira - então decidi dar uma olhada em quem estava la.}
 {140}{}{Wow.}
 {141}{}{Isso é interessante.}
-{142}{}{When I let you by me in the Squat, I broke my contract with my employer. I was sure that I'd be
- hunted down and killed because of it. Seeing you here convinces me that I don't have to worry about
- that. I can only assume that my previous employer is no longer in any condition to be concerned with me
- or my whereabouts.}
-{143}{}{You safe now. Dalia no worry.}
-{144}{}{You're safe now, Dalia. You'll have no need to worry about any retribution.}
+{142}{}{Quando deixei você passar por mim na Ocupação, rompi meu contrato com meu empregador.
+ Eu tinha certeza de que seria caçado e morto por causa disso. Ver você aqui me alivia em pensar que
+ não preciso me preocupar com isso. Acho que posso pensar que meu antigo empregador não está mais
+ em condições de se preocupar comigo ou pra onde eu fui.}
+{143}{}{Agora você está segura. Dália não deveria se preocupar.}
+{144}{}{Você está segura agora, Dalia. Você não precisa se preocupar com nenhum castigo.}
 {145}{}{Valeu,}
 {146}{}{Você é bem-vindo.}
 {147}{}{Adeus.}
@@ -61,10 +61,10 @@
 {150}{}{Olá.}
 {151}{}{Olá de novo. Como tá indo?}
 {152}{}{Eu não tenho nenhum problema com você. }
-{153}{}{. I hope everything worked out for you at the Squat.}
-{154}{}{So, I sneak up on this camp site and there are these two deathclaws sitting around the fire just
- chatting away. Idiot that I am, I let out a little cry of surprise, jumped up, and turned to run -- right
- into the arms of another deathclaw standing right behind me. Anyway, to make a long story short, it
- took awhile for me to realize that I wasn't about to be put on a spit and barbecued. Instead, I was
- brought here and 'interviewed' by Gruthar. Now I can live here if I want.}
-{155}{}{. That takes a load off my mind.}
+{153}{}{. Espero que tudo tenha dado certo para você na Ocupação.}
+{154}{}{Então, eu cheguei de mansinho nesse acampamento e vi esses dois deathclaws sentados ao
+ redor do fogo só na conversa. Como eu sou idiota, soltei um resmungo de surpresa, pulei e me virei
+ para correr - direto para os braços de outro deathclaw parado bem atrás de mim. De qualquer forma,
+ para encurtar a história, demorei um pouco para perceber que não estava prestes a entrar em um
+ espeto para virar churrasco. Em vez disso, ne trouxeram para cá para uma "entrevista" com Gruthar. Agora eu posso morar aqui se eu quiser.}
+{155}{}{. Isso tira um peso da minha cabeça.}

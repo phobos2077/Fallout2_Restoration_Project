@@ -92,7 +92,7 @@
 {191}{}{Uh... actually, I don't have time to buy anything right now. Let me have the papers back, and I'll be on my way.}
 {192}{}{All right. I'm sure everything's in order.}
 {193}{}{Well... uh, all right.}
-{194}{}{Mind if I ask you some questions?}
+{194}{}{Se importa se eu te fizer algumas perguntas?}
 {195}{}{I'll see you later.}
 {196}{}{Everything checks out. Here's your papers back. What can I do for you?}
 {197}{}{Let me see what you have in stock.}
@@ -104,7 +104,7 @@
 {203}{}{Actually, never mind, I'll come back later for it.}
 {204}{}{Okay, here you go. One Hy-Mag. Kinda looks like a lava lamp, doesn't it? Oh, don't drop it... it's pretty fragile.}
 {205}{}{Say, what else do you have in stock?}
-{206}{}{Mind if I ask you some questions?}
+{206}{}{Se importa se eu te fizer algumas perguntas?}
 {207}{}{Thanks. I might stare at this for a few hours before taking it to the Gecko plant.}
 {208}{}{Got it. Thanks for the part.}
 {209}{}{Yeah, the First Citizen said you'd be stopping by... Captain. (Winks.) Let me tell you, Captain, you've got a BEAUTY waiting for you.}
