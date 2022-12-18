@@ -21,7 +21,7 @@
 {120}{}{Faz uma semana que não tenho uma luta boa.}
 {121}{}{Oh sim, oh siiiiiiiiiiiiiuuuuu!}
 {122}{}{Estou feliz por ter vindo.}
-{123}{}{Don't fuck with the customers.}
+{123}{}{Não brinque com os clientes.}
 {124}{}{You'll see what full service is all about.}
 {125}{}{You can't attack the guests and get away with it.}
 {126}{}{This ain't that kind of place, pally.}

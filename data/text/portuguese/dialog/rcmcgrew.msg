@@ -239,7 +239,7 @@
  Ascorti. He's the deed-holder now.}
 {280}{}{Take care of yourself. I really need that chip.}
 {281}{}{Let me ask you about some other stuff going on in town.}
-{282}{}{Thanks for the tip. Goodbye.}
+{282}{}{Obrigado pela dica. Tchau.}
 {283}{}{"Painless" Doc Johnson is our town quack. Oh, I suppose he knows something about doctoring, but
  I don't guess he knows too much. He's on the west side of Downtown. Anyhow, he usually sells all the
  medicine and drugs that we get here in town.}

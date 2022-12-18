@@ -114,8 +114,8 @@
  they're not going to get the prize get it in their mind to not let anyone else get it, either. The
  only way to avoid that is if we decide to go with one of the powers and make a quick alliance before
  the others catch on.}
-{193}{}{What do you think will happen?}
-{194}{}{I see. Thanks. Goodbye.}
+{193}{}{O que você acha que acontecerá?}
+{194}{}{Entendo. Obrigado, tchau.}
 {195}{}{I think that the folks here will follow Mayor Ascorti's lead. He's a crook, but people trust
  that. He'll go with whoever's strongest. You see, whatever's good for Ascorti is also going to be good
  for Redding. I think he just hasn't figured out who's closest to being on top yet. But he's got to

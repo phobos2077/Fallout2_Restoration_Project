@@ -127,22 +127,21 @@
 {197}{}{Okay, I'll do it.}
 {198}{}{Mayor Ascorti? Who's that?}
 {199}{}{I don't think I want to do that right now. Goodbye, Sheriff.}
-{200}{}{Ascorti's the Mayor here in Redding. He runs Ascorti's Ace, right across the street here. Just
- north of us. So, will you help me out?}
-{201}{}{How much does she owe him?}
+{200}{}{Ascorti é nosso prefeito em Redding. Ele administra o As de Ascorti, do outro lado da rua, ao norte de
+ nós. Então, você vai me ajudar nisso?}
+{201}{}{Quanto ela deve a ele?}
 {202}{}{Okay, I'll do it.}
-{203}{}{I don't think I want to help you right now. Goodbye, Sheriff.}
-{204}{}{Sorry to hear that. I could sure use the help. Well, if you change your mind... you know where to
- find me.}
-{205}{}{Before I go, let me ask you about something else.}
-{206}{}{I sure do. Goodbye, Sheriff.}
-{207}{}{Oh, one more thing. I almost forgot. Here's a badge. You may need it.}
-{208}{}{Thanks, Sheriff; I'm honored. I won't tarnish it with actions you wouldn't approve of.}
-{209}{}{Heck, I feel more important already. Goodbye.}
-{210}{}{Hey there. I'm sorry that you couldn't help me out earlier. You come back 'cause you changed
- your mind?}
-{211}{}{Maybe. Tell me what I need to do again.}
-{212}{}{Nope, I was just walking around town. Goodbye, again.}
+{203}{}{Acho que não quero ajuda-lo agora. Adeus, xerife.}
+{204}{}{Lamento ouvir isso, com certeza poderia usar a ajuda. Bem, se mudar de ideia... sabe onde me
+ encontrar.}
+{205}{}{Antes de ir, deixe eu perguntar sobre outra coisa.}
+{206}{}{Eu com certeza faço. Adeus, xerife.}
+{207}{}{Ah, mais uma coisa, quase me esqueci. Aqui está um distintivo, você pode precisar.}
+{208}{}{Obrigado, xerife; estou honrado. Não vou manchá-lo com ações que você não aprovaria.}
+{209}{}{Nossa, já me sinto mais importante. Tchau.}
+{210}{}{Olá. Lamento que não pode me ajudar antes. Você voltou porque mudou de ideia?}
+{211}{}{Pode ser. Me diga novamente o que preciso fazer.}
+{212}{}{Não, eu estava apenas andando pela cidade. Adeus, de novo.}
 {213}{}{Glad to see you again. You've got to take care of that Widow Rooney problem before I can pay you,
  though.}
 {214}{}{Sure thing. Uh, what was I supposed to do again?}

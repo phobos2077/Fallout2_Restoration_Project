@@ -239,16 +239,16 @@
  one has an Assault Enhancement as well. You have to get the basic armor before you can get the Assault
  Enhancement.}
 {286}{}{What operation did you want to know about?}
-{287}{}{I don't think I want to do anything like that. Let me ask you about something else.}
-{288}{}{Tell me more about the implants. I think I may want you to operate on me.}
-{289}{}{I think I know enough now. I'll have to think about it. Goodbye.}
-{290}{}{Which operation were you interested in?}
-{291}{}{The Dermal Impact Armor.}
-{292}{}{The Phoenix Armor Implant.}
-{293}{}{The Assault Enhancement for the Dermal Impact Armor.}
-{294}{}{The Assault Enhancement for the Phoenix Armor Implants.}
+{287}{}{Acho que não quero fazer nada disso. Deixe-me perguntar sobre outra coisa.}
+{288}{}{Me conte mais sobre os implantes. Acho que vou querer que você me opere.}
+{289}{}{Acho que já aprendi o suficiente, eu vou ter que pensar sobre isso. Tchau.}
+{290}{}{Em qual operação você estava interessado?}
+{291}{}{A Armadura Dérmica de Impacto.}
+{292}{}{O Implante da Armadura da Fênix.}
+{293}{}{O Aprimoramento de Assalto para a Armadura Dérmica de Impacto.}
+{294}{}{O Aprimoramento de Assalto para o Implante da Armadura da Fênix.}
 {295}{}{Doutor, acho que prefiro perguntar sobre algo menos... uh, ofensivo.}
-{296}{}{I guess I don't want to hear about an operation right now. Goodbye.}
+{296}{}{Acho que não quero ouvir sobre uma operação agora. Tchau.}
 {297}{}{According to what I've read, Dermal Impact Armor gives you 5% resistance to normal and explosive
  damage - over and above any other armor you're wearing. The operation takes about two days, one suit of
  Combat Armor (for parts), and it will cost you $5,000. This procedure should be fairly simple... I think.
