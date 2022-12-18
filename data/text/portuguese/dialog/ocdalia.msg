@@ -40,11 +40,11 @@
 {136}{}{Bah, já me acostumei.}
 {137}{}{Sim, é, de várias maneiras.}
 {138}{}{Não, eu vim para aceitá-lo.}
-{139}{}{After I left the Squat I didn't know what to do with myself. I figured I'd just drift into
- another town and another hired gun job... so I was wandering the desert trying to decide exactly where
- I should go. Well, one day I was looking for a good place to camp. It was getting late, and I didn't
- want to be out in the open after dark. Off in the distance a ways, I thought I saw a campfire -- so I
- decided to see who was there.}
+{139}{}{Depois que saí da Ocupação não sabia o que fazer da vida. Achei que iria para outra
+ cidade e tentar outro emprego de pistoleiro... então acabei vagando pelo deserto tentando decidir
+ exatamente o que fazer. Bem, um dia eu estava procurando um lugar descente para acampar.
+ Estava ficando tarde e eu não queria ficar ao ar livre depois de escurecer. Ao longe, pensei ter visto
+ uma fogueira - então decidi dar uma olhada em quem estava la.}
 {140}{}{Wow.}
 {141}{}{Isso é interessante.}
 {142}{}{When I let you by me in the Squat, I broke my contract with my employer. I was sure that I'd be
