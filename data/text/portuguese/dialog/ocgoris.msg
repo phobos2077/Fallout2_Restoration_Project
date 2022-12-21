@@ -196,22 +196,22 @@
 {1075}{}{Devemos espalhar um pouco.}
 {1078}{}{É isso por agora.}
 {1079}{}{Vou ficar o mais perto que puder,}
-{1098}{}{I'll move out a bit and give you room to breathe,}
-{1117}{}{I'll hang back and give you some room,}
-{1136}{}{I'm sorry,}
-{1137}{}{I've learned a lot from our travels together. I'll gladly come with you, }
+{1098}{}{Vou sair um pouco e te dar um espaço para respirar,}
+{1117}{}{Eu vou ficar mais atrás e te dar algum espaço,}
+{1136}{}{Sinto muito,}
+{1137}{}{Aprendi muito com nossas viagens juntos. Eu irei com você com prazer, }
 {1156}{}{? }
 {1157}{}{. }
-{1158}{}{, but you've got too many people with you now. I'll wait here until a position opens.}
-{1159}{}{I think I will do better on my own.}
-{1160}{}{Your not anyone I want to be around I am leaving.}
-{1161}{}{I wish to avenge my brethren.}
-{1162}{}{All right. Let's do it.}
-{1163}{}{Maybe you should do this one on your own.}
-{1164}{}{You right we kill.}
-{1165}{}{You go alone.}
-{1166}{}{Lets change up the distance between us.}
-{1167}{}{Me think you need to move different.}
-{2000}{}{I think I broke a limb. Medical assistance is required.}
-{2001}{}{I believe I am suffering from radiation poisoning. Do you have anything to aid me?}
-{2002}{}{I believe I have been poisoned. Do you have anything to aid me?}
+{1158}{}{, mas você tem muitas pessoas com você agora. Vou esperar aqui até surgir uma vaga.}
+{1159}{}{Acho que vou me sair melhor sozinho.}
+{1160}{}{Você não é ninguém que eu queira ter por perto, vou indo embora.}
+{1161}{}{Desejo vingar meus irmãos.}
+{1162}{}{Tudo bem, vamos fazer.}
+{1163}{}{Talvez você devesse fazer isso sozinho.}
+{1164}{}{Você está certo, matamos.}
+{1165}{}{Pode ir sozinho.}
+{1166}{}{Vamos mudar nossa distância.}
+{1167}{}{Eu acho que você tem que se mover de forma diferente.}
+{2000}{}{Acho que quebrei um membro, preciso de assistência médica.}
+{2001}{}{Acredito que estou sendo envenenado por radiação. Você tem alguma coisa para me ajudar?}
+{2002}{}{Acredito que fui envenenado. Você tem alguma coisa para me ajudar?}

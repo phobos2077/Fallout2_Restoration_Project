@@ -1,34 +1,34 @@
 {100}{}{Você um deathclaw enorme. O bicho tem músculos enormes, dentes afiados, e garras.}
 {101}{}{Você vê Gruthar, líder dos deathclaws.}
-{102}{}{You see the most impressive deathclaw you could imagine. The creature must be unique among its
- kind.}
-{103}{}{Do not fear me, human. I do not intend to harm you. I am Gruthar, leader of this deathclaw pack.
- Why have you come here?}
-{104}{}{Why have you come here?}
+{102}{}{Você vê o deathclaw mais impressionante que você poderia imaginar. A criatura deve ser única entre
+ sua espécie.}
+{103}{}{Não tenha medo de mim, humano, minha intenção não é te fazer mal. Eu sou Gruthar, líder deste
+ bando deathclaw. Por que você veio aqui?}
+{104}{}{Por que você veio aqui?}
 {105}{}{Uh...}
-{106}{}{To kick your ass!}
-{107}{}{How is it possible that a deathclaw can talk... and so well?}
-{108}{}{I want to know what happened to the people who once lived here.}
-{109}{}{I'm looking for something called a GECK. I was told I could find one here.}
-{110}{}{I've been asked to eliminate a den of dangerous deathclaws...}
-{111}{}{I'm investigating raids on the local brahmin ranches. Do you know anything about this?}
-{112}{}{I think I'll be leaving now.}
-{113}{}{You are no idiot, human. I can see the truth of this in your eyes. Please do not try to deceive
- me. I have no patience for such games.}
-{114}{}{Very well. If you wish to be thought of as an idiot, then so be it. Return to me if you change
- your mind.}
-{115}{}{My apologies. You seem to be intellectually challenged. You are no threat to me or the pack. You
- are welcome here, and may consider this place a safe haven from the outside world. Harm no one, stay
- out of trouble, and you will always be welcome here.}
-{116}{}{Forgive me. I do not mean to be rude, but I do not see that this is relevant to our conversation.
- I can speak your tongue, I can read your written word. What more needs be said?}
+{106}{}{Pra comer seu cu!}
+{107}{}{Como é possível que um deathclaw fale... e tão bem?}
+{108}{}{Quero saber o que aconteceu com as pessoas que viveram aqui.}
+{109}{}{Estou procurando algo chamado GECK. Me disseram que eu poderia encontrar um aqui.}
+{110}{}{Me disseram para eliminar um covil com deathclaws muito perigosos...}
+{111}{}{Estou investigando incursões nas fazendas de brahmins locais. Você sabe algo sobre isso?}
+{112}{}{Acho que vou embora agora.}
+{113}{}{Você não é idiota, humano, eu posso ver a verdade disso em seus olhos. Por favor, não tente me enganar.
+ Não tenho paciência para joguinhos.}
+{114}{}{Muito bem. Se você deseja ser considerado um idiota, então que assim seja. Volte para ca
+ se mudar de ideia.}
+{115}{}{Minhas desculpas, você parece ser intelectualmente desafiador. Você não é uma ameaça para
+ mim ou para o bando. Você é bem-vindo aqui e pode considerar este lugar um refúgio seguro do mundo
+ exterior. Não prejudique ninguém, fique longe de problemas e você sempre será bem-vindo aqui.}
+{116}{}{Me perdoe, não quero ser rude, mas não acho que isso seja relevante para nossa conversa. Eu
+ posso falar em seu idioma e ler seus textos escritos. O que mais há pra dizer?}
 {117}{}{Eu vejo.}
-{118}{}{I don't mean to pry, but surely you can understand my interest in this matter.}
-{119}{}{Yeah, well, how about letting me decide what is or is not relevant?}
-{120}{}{Yes, I certainly can. Very well. If we part as friends, human, you should speak with Goris. He
- has more understanding in this matter than I. He can usually be found in the vault library.}
-{121}{}{Thank you. I look forward to meeting Goris.}
-{122}{}{I have no intention of adding a deathclaw to my list of friends. Bye!}
+{118}{}{Não quero me intrometer, mas certamente você pode entender meu interesse neste assunto.}
+{119}{}{Sim, bem, que tal me deixar decidir o que é ou não relevante?}
+{120}{}{Sim, certamente posso. Muito bem, se nos despedirmos como amigos, humano, você deveria falar com
+ Goris. Ele tem mais conhecimento nesse assunto do que eu. Ele geralmente pode ser encontrado na biblioteca da vault.}
+{121}{}{Obrigado. Eu gostaria de conhecer Goris.}
+{122}{}{Não tenho intenção de botar um deathclaw na minha lista de amigos. Tchau!}
 {123}{}{Tudo certo.}
 {124}{}{They are gone, human. We did not kill them and take their home. It is not our way to kill. I
  understand that you may not believe me, but I hope that you will judge me by my actions toward you and
