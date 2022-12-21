@@ -52,37 +52,37 @@
  acontecesse.}
 {140}{}{Eu vejo.}
 {141}{}{Ah, covarde demais para fazer isso sozinho. Eu entendi.}
-{142}{}{I don't like traveling alone either, so I can't blame you.}
-{143}{}{Uh... a few months actually. I came here from the coast a while back.}
-{144}{}{Wow, you're pretty new here yourself. If you don't mind, I need to know more.}
-{145}{}{You weren't long on that answer. Care to tell me more?}
-{146}{}{I see. I need to ask a couple more questions.}
-{147}{}{These aren't your average deathclaws, as I'm sure you noticed. They've had their intelligence
- enhanced by some means not understood by them. It was done by a group of humans known as 'The
- Enclave.' It seems this Enclave needed an army and they chose deathclaws because of their ferocity,
- physical prowess, and... well, you get the picture. Anyway, the only thing lacking in deathclaws was
- their intelligence. They needed to be smart enough to understand complex commands, but not so smart
- that they'd be a threat to 'those in charge.'}
-{148}{}{That sounds like the biggest crock of shit I've ever heard in my life!}
-{149}{}{That's incredible. You seem very knowledgeable. Can I ask you more?}
-{150}{}{Hmm... Okay.}
-{151}{}{::sigh:: They were captured by The Enclave. Gruthar and the pack were forced to aid in their
- capture. They had no choice since they were slaves at the time. The fate of the humans has weighed
- heavily on Gruthar's mind. He's never really forgiven himself for his complicity in the affair. The
- humans were taken alive, but who knows what has happened to them since?}
-{152}{}{(Sigh) They were captured by a group called 'The Enclave.' Gruthar and the pack were forced to
- aid in their capture. They had no choice since they were slaves at the time. The fate of the humans has
- weighed heavily on Gruthar's mind. He's never really forgiven himself for his complicity in the
- affair. The humans were taken alive, but who knows what has happened to them since.}
-{153}{}{Hmm... I need to ask some more questions.}
+{142}{}{Também não gosto de viajar sozinho, não te culpo.}
+{143}{}{Uh... alguns meses, na verdade. Eu vim para cá do litoral, faz um tempo.}
+{144}{}{Hhmm, você é bem novo aqui. Se não se importa, gostaria de saber mais.}
+{145}{}{Você não foi longe demais com essa resposta. Se importa de me contar mais?}
+{146}{}{Entendo. Gostaria de fazer mais algumas perguntas.}
+{147}{}{Estes não são seus deathclaws comuns, tenho certeza que você reparou. Eles tiveram sua
+ inteligência aprimorada por alguns meios que nem eles compreendem... foi feito por um grupo de
+ humanos conhecidos como 'Enclave'. Parece que essa Enclave precisava de um exército e eles escolheram
+ deathclaws por causa de sua ferocidade, destreza física e... bem, você entendeu. De qualquer forma,
+ a única coisa que faltava nos deathclaws era sua inteligência. Eles precisavam ser espertos o suficiente
+ para entender comandos complexos, mas não tão espertos a ponto de serem uma ameaça para 'aqueles que estão no comando'.}
+{148}{}{Essa parece a maior merda que eu já ouvi na minha vida!}
+{149}{}{Isso é incrível, você parece muito experiente. Posso te perguntar mais?}
+{150}{}{Hmm... Entendi.}
+{151}{}{::suspiro:: Eles foram capturados pela Enclave. Gruthar e o bando foram forçados a ajudar
+ na captura, eles não tiveram escolha, pois eram escravos na época. O destino dos humanos pesou
+ muito na mente de Gruthar, ele nunca se perdoou por ser cumplice no caso. Os humanos foram
+ levados vivos, mas quem sabe o que aconteceu com eles desde então?}
+{152}{}{(Suspiro) Eles foram capturados por um grupo chamado 'Enclave'. Gruthar e o bando foram
+ forçados a ajudar na captura, eles não tiveram escolha, eram escravos na época. O destino dos humanos
+ pesou muito na mente de Gruthar, ele nunca se perdoou por ser cumplice no caso. Os humanos
+ foram levados vivos, mas quem sabe o que aconteceu com eles desde então.}
+{153}{}{Hmm... Preciso fazer mais algumas perguntas.}
 {154}{}{Eu sabia que essas pragas de deathclaws tinha alguma coisa a ver. Eu preciso de mais informação.}
-{155}{}{Sometimes we're forced into doing distasteful things by situations outside of our control.
- Gruthar should learn to forgive himself.}
-{156}{}{Gruthar is not the monster that he appears to be. He genuinely cares about all of us here, and
- is doing everything he can to ensure our safety and survival. All of us trust him with our lives. I
- don't know what else I can say about him. You would have to get to know him and judge for yourself.}
-{157}{}{I'll not make any snap decisions about him. He deserves better.}
-{158}{}{Sure. Let's talk about some other things.}
+{155}{}{As vezes somos forçados a fazer coisas desagradáveis em situações fora de nosso controle.
+ Gruthar deveria aprender a perdoar a si mesmo.}
+{156}{}{Gruthar não é o monstro que parece ser. Ele realmente se preocupa com todos nós aqui e está
+ fazendo tudo o que pode para garantir nossa segurança e sobrevivência. Todos nós confiamos
+ nossas vidas com ele. Não sei o que mais posso dizer sobre ele, você teria que conhecê-lo e fazer seu proprio julgamento.}
+{157}{}{Não tomarei nenhuma decisão precipitada sobre ele. Merece algo melhor.}
+{158}{}{Claro. Vamos falar de outra coisa.}
 {159}{}{He's a deathclaw. I find it hard to believe that he can have any redeeming qualities.}
 {160}{}{Well... the potential is there, especially when you take their new intelligence into account.
  However, I don't think that Gruthar and his pack pose a threat. They all seem to respect life and
