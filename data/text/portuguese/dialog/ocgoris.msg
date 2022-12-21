@@ -83,65 +83,65 @@
  nossas vidas com ele. Não sei o que mais posso dizer sobre ele, você teria que conhecê-lo e fazer seu proprio julgamento.}
 {157}{}{Não tomarei nenhuma decisão precipitada sobre ele. Merece algo melhor.}
 {158}{}{Claro. Vamos falar de outra coisa.}
-{159}{}{He's a deathclaw. I find it hard to believe that he can have any redeeming qualities.}
-{160}{}{Well... the potential is there, especially when you take their new intelligence into account.
- However, I don't think that Gruthar and his pack pose a threat. They all seem to respect life and
- personal freedom above all else. Now, I don't expect you to take my word on this. I would ask you to
- judge for yourself. There are others who live here whom you can ask your questions.}
-{161}{}{Only a dumbass would fail to see the threat potential of these deathclaws!}
-{162}{}{Thanks for the advice; I will ask around. Can I ask you a few more questions, though?}
-{163}{}{Hmm... Okay, how about a few more questions?}
-{164}{}{No, only what I've told you. Wait, there is one other thing. The Enclave showed an interest in some ruins to the west of here. Why, I don't know. That's about it.}
-{165}{}{Well, every little bit of information helps, and I thank you for it.}
-{166}{}{This happens to be a very important subject to me and you've let me down!}
+{159}{}{Ele é um deathclaw. É difícil acreditar que ele possa ter boas qualidades.}
+{160}{}{Bem... o potencial existe, especialmente quando você leva em conta a nova inteligência deles.
+ Mas não acho que Gruthar e seu bando representem uma ameaça, todos parecem respeitar a vida
+ e a liberdade pessoal acima de tudo. Agora, eu não espero que você aceite minha palavra sobre isso, eu
+ gostaria que você mesmo julgasse. Existem outras pessoas que moram aqui a quem você pode fazer suas perguntas.}
+{161}{}{Só um idiota deixaria de ver a potencial ameaça que existe nesses deathclaws!}
+{162}{}{Obrigado pelo conselho; vou perguntar por aí. Posso fazer mais algumas perguntas?}
+{163}{}{Hmm... Ok, que tal mais algumas perguntas?}
+{164}{}{Não, apenas o que eu te disse. Espere, tem outra coisa. A Enclave mostrou interesse em algumas ruínas a oeste daqui, por que, eu não sei. Isso é tudo.}
+{165}{}{Bem, cada informação servirá de ajuda, agradeço muito por isso.}
+{166}{}{Este é um assunto muito importante para mim e você me decepcionou!}
 {167}{}{Eu vejo.}
-{168}{}{I think it's called the FEV virus. The Enclave is, or was, doing extensive research on it. I'm
- sorry, but I don't know anything more.}
-{169}{}{That's okay; on to other things.}
-{170}{}{You should be sorry. I was told you were a font of knowledge!}
-{171}{}{You've been more than helpful, Goris.}
-{172}{}{I've kept my part of our bargain and answered all of your questions. Now, how about those
- adventure stories you promised?}
-{173}{}{Gladly. It's a pleasure to talk to you.}
-{174}{}{Promise? What promise?}
+{168}{}{Acho que se chama vírus FEV. A Enclave está, ou estava, fazendo uma extensa pesquisa sobre isso. Lamento,
+ mas não sei de mais nada.}
+{169}{}{Tudo bem; Vamos falar de outras coisas.}
+{170}{}{Você deveria se envergonhar, me falaram que você era uma fonte de conhecimento!}
+{171}{}{Você tem sido mais do que útil, Goris.}
+{172}{}{Mantive minha parte do acordo e respondi a todas as suas perguntas. Agora, que tal aquelas histórias
+ de aventura que você prometeu?}
+{173}{}{Será um prazer conversar disso com você.}
+{174}{}{Acordo, que acordo?}
 {175}{}{Sim, com certeza.}
-{176}{}{(Goris hesitates and you get the feeling you are being carefully scrutinized.) I would be
- honored to join you!}
-{177}{}{(Goris hesitates and you get the feeling you are being carefully scrutinized.) I'm sorry, but I
- don't think that you and I share the same ideals. A joint venture would not be in our best interest.}
-{178}{}{Okay, you lose.}
-{179}{}{I understand. Perhaps you'll reconsider later.}
-{180}{}{What? I'm not good enough for your company? Screw you!}
-{181}{}{Ok, I understand.}
-{182}{}{I have nothing to say to you. Do not bother me again.}
-{183}{}{I asked you not to bother me again. Perhaps violence is the only language you understand.}
+{176}{}{(Goris hesita e você tem a sensação de que está sendo cuidadosamente examinado.) Seria uma
+ honra te acompanhar!}
+{177}{}{(Goris hesita e você tem a sensação de que está sendo cuidadosamente examinado.) Sinto muito, mas
+ não acho que você e eu compartilhamos os mesmos ideais. Uma aventura juntos não seria do nosso interesse.}
+{178}{}{Ok, você que perde.}
+{179}{}{Eu entendo. Talvez você reconsidere depois.}
+{180}{}{Que? Eu não sou bom o suficiente para te acompanhar? !Que se foda!}
+{181}{}{Ok, eu entendo.}
+{182}{}{Eu não tenho nada para dizer para voce. Não me incomode de novo.}
+{183}{}{Pedi para não me incomodar de novo. Talvez a violência seja a única linguagem que você entende.}
 {184}{}{}
-{185}{}{Yeah, you know, well traveled... knowledgeable... experienced... You don't have a clue what I'm
- talking about, do you? }
-{186}{}{Food seasoned, not me.}
+{185}{}{Sim, você sabe, bem viajado... conhecedor... experiente... Você não tem idéia do que estou falando,
+ não é? }
+{186}{}{Comida temperada, não eu.}
 {187}{}{Eu vou agora.}
-{188}{}{Uh huh. Well, your IQ may be smaller than your shoe size, but you obviously have something
- going for you to have survived in the world this long... Ok, let's try this. Me want leave this place.
- Me want travel with you. Ok?}
-{189}{}{Uh huh. Well, your IQ may be smaller than your shoe size but you obviously have something going
- for you to have survived in the world this long... it must be that mean streak I can sense in you. Oh,
- well. Good-bye.}
+{188}{}{Huh. Bem, seu QI pode ser menor do que o tamanho do seu sapato, mas obviamente você tem algo
+ de valor por ter sobrevivido no mundo por tanto tempo... Ok, vamos tentar isso. Eu quero sair deste
+ lugar, eu quero viajar com você. OK?}
+{189}{}{Huh. Bem, seu QI pode ser menor do que o tamanho do seu sapato, mas você obviamente tem algo a seu favor
+ por ter sobrevivido no mundo por tanto tempo... deve ser esse traço da maldade que sinto em você.
+ Ah bem, adeus.}
 {190}{}{Uh... Ok.}
 {191}{}{Eu vou.}
-{192}{}{I'm sorry, I didn't mean to pry into your private affairs.}
-{193}{}{Yeah, well, see that you don't do it again!}
-{194}{}{Whatever. I need some information from you, though.}
-{195}{}{I'm sorry, Goris. I'm a bit jumpy today. I wanted to ask you a few questions, if you don't mind.}
-{196}{}{You have had some interesting times. You are the stuff that heroes are made from, and I
- envy you. Thanks for telling me everything.}
-{197}{}{Well... you are a walking quest for carnage, and I think I'll be going now. Thanks, and bye!}
-{198}{}{You're welcome, Goris.}
-{199}{}{Hello again. What's up?}
-{200}{}{You come me?}
-{201}{}{Uh... me lost. Me go.}
-{202}{}{Just thought I'd stop by and say hello. See ya later.}
-{203}{}{Hey, I'm looking for a traveling companion. You up for it?}
-{204}{}{What can I do for you,}
+{192}{}{Desculpe, não queria me intrometer em seus assuntos particulares.}
+{193}{}{Sim, bem, certifique-se de não fazer isso de novo!}
+{194}{}{Que seja. Eu preciso de algumas informações de você.}
+{195}{}{Me desculpe, Goris, estou um pouco nervoso hoje. Queria te fazer algumas perguntas, se não se importa.}
+{196}{}{Você teve algumas histórias interessantes. Você é feito do material que os heróis são feitos, e eu
+ te invejo. Obrigado por me contar tudo.}
+{197}{}{Bem... você é uma carnificina ambulante, e acho que vou indo agora. Obrigado e tchau!}
+{198}{}{Seja bem-vindo, Goris.}
+{199}{}{Olá de novo. E aí?}
+{200}{}{Vem comigo?}
+{201}{}{Uh... eu perdi. Eu vou.}
+{202}{}{Só pensei em passar por aqui e dizer olá. Te vejo mais tarde.}
+{203}{}{Ei, estou procurando um companheiro de viagem. Gostaria de ir?}
+{204}{}{O que posso fazer por você,}
 {205}{}{You bad thing! Why no tell?}
 {206}{}{You're a deathclaw? Is there a reason you didn't mention this to me?}
 {207}{}{How do I put this... Bad thing you kill, no talk. Me not tell you so you see me good thing. Not
