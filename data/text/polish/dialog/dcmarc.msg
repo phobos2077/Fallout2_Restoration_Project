@@ -10,7 +10,7 @@
 {229}{}{Jesteśmy najlepsi.}
 {230}{}{Ja pieprzę! Ale im skopaliśmy dupy!}
 {250}{}{Lepiej pogadaj z Tylerem paniusiu.}
-{251}{}{What's up. You need something, you gotta talk to Tyler here.}
+{251}{}{Co jest? Szukasz czegoś? Pogadaj lepiej z Tylerem.}
 {252}{}{Na co się patrzysz?}
 {253}{}{Tyler tu rządzi, nie ja.}
 {255}{}{Dziś wreszcie skopiemy im dupy!}

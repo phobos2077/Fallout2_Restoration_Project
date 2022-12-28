@@ -33,7 +33,7 @@
 {140}{}{Naprawdę muszę już iść. Miło się gawędziło.}
 {141}{}{Może się jeszcze kiedyś spotkamy.}
 {142}{}{Chcę dotrzeć przed zmrokiem do jakiejś osady. Muszę już iść.}
-{143}{}{Muszę już iść.}
+{143}{}{Lepiej już pójdę.}
 {144}{}{Pułapka!}
 {145}{}{Nikomu już nie można ufać.}
 {146}{}{Łamiesz honorowy kodeks podróżnika.}
@@ -41,11 +41,11 @@
 {148}{}{No, to pora iść.}
 {149}{}{Pora ruszać w drogę.}
 {150}{}{Dzięki. Potrzebuję lokalizacji jeszcze kilku innych miejsc.}
-{1107}{}{Nowe Reno}
+{1107}{}{Nowego Reno.}
 {1108}{}{Kryptopolis}
-{1109}{}{Redding}
-{1110}{}{Nora}
-{1111}{}{San Francisco}
-{1112}{}{Republika Nowej Kalifornii}
+{1109}{}{Redding.}
+{1110}{}{Nory.}
+{1111}{}{San Francisco.}
+{1112}{}{Republiki Nowej Kalifornii.}
 {1113}{}{Opuszczona kopalnia.}
 {1114}{}{Stara, opuszczona instalacja naukowo-badawcza.}

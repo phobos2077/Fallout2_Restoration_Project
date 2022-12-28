@@ -92,7 +92,7 @@
 {191}{}{On: Ta decyzja zmieni twoje życie. Ona: I, niestety, jest to zła decyzja. Oboje: Straże! Straże!}
 {192}{}{Cholera.}
 {193}{}{On: Witaj,}
-{194}{}{So what do I do now that I'm a Hubologist?}
+{194}{}{A więc co mam robić teraz, gdy już należę do Centrologów?}
 {195}{}{Umówilibyście się ze mną?}
 {196}{}{To mi wystarczy. Na razie!}
 {197}{}{}
