@@ -62,20 +62,20 @@
 {142}{}{Certo. Acho que uma lobotomia na base da bala é uma solução viável para o meu problema.}
 {143}{}{Lamento que você se sinta assim, Gruthar.}
 {144}{}{Eu vou embora, então.}
-{145}{}{There are many machines here, machines built by humans. Deathclaw hands cannot use these
- machines. However, there is one machine that understands questions. I ask it to run the other machines
- and it obeys. This machine no longer listens. It will no longer run the other machines. We are running
- out of food and water. I have ordered raids on the human lands so that we may survive. I am not proud
- of this and I would put an end to it. If you repair this machine, I will be able to feed my people once
- again. I will gladly stop the raids. Will you agree to this?}
-{146}{}{Sorry, I have no idea how to fix such a thing.}
-{147}{}{I'm no tech, but I can give it a try.}
-{148}{}{Hmm... sounds like the voice recognition module has gone bad on you. Let's go take a look.}
-{149}{}{I've changed my mind. I'll have to think about this some more.}
-{150}{}{I will do what I can for you.}
+{145}{}{Existem muitas máquinas aqui, máquinas construídas por humanos. As mãos de Deathclaws não
+ conseguem usar essas máquinas. No entanto, existe uma máquina que entende perguntas, pedimos que
+ operasse as outras máquinas e ela obedeceu. Esta máquina não escuta mais, ela não executa mais as
+ outras, agora estamos ficando sem comida e água. Até ordenei ataques às terras humanas para que
+ possamos sobreviver. Não tenho orgulho disso e colocaria um fim agora se pudesse. Se você consertar
+ esta máquina, poderei alimentar meu povo novamente, terei prazer em interromper os ataques. Aceita esse trato?}
+{146}{}{Desculpe, não tenho ideia de como consertar uma coisa dessas.}
+{147}{}{Não sou técnico, mas posso tentar.}
+{148}{}{Hmm... parece que o módulo de reconhecimento de voz quebrou. Vamos dar uma olhada.}
+{149}{}{Eu mudei de ideia. Vou ter que pensar um pouco mais sobre isso.}
+{150}{}{Farei o que puder para ajudar.}
 {151}{}{Eu me recuso a ajudar os deathclaws.}
-{152}{}{Thank you. The machine is in the vault control center on the third level. If you can repair it,
- please do so. I am placing my trust in you. Please do not betray it. You are welcome here.}
+{152}{}{Obrigado. A máquina está no centro de controle do Vault, no terceiro nível. Se você puder
+ repará-la, por favor, faça. Estou colocando minha confiança em você. Por favor, não nos traia, você é bem vindo aqui.}
 {153}{}{I won't let you down, Gruthar. You have my word on that.}
 {154}{}{Thanks. I'll get on it.}
 {155}{}{There really is one born every minute...}
