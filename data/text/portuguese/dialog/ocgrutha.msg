@@ -40,28 +40,28 @@
  um geck, nem onde se pode encontrar um.}
 {129}{}{Sim, eu acredito que você mencionou isso uma vez antes. Não sei o que é um geck, nem onde
  pode ser encontrado.}
-{130}{}{Will you let me in to look for it?}
-{131}{}{Hey, that small lizard comment was really funny. That a relative of yours?}
-{132}{}{It's obvious that talking to you is a waste of time. Good-bye.}
-{133}{}{To be honest with you, I'm not exactly sure what it is myself. Would it be all right with you if
- I looked for it?}
-{134}{}{I am sorry, but I do not allow just anyone to wander these halls. I am responsible for the
- safety of all who live here and I must exercise caution. However, I will look for this geck, and if I
- find it, I will let you know.}
-{135}{}{I am sorry, but I do not allow just anyone to wander these halls. I am responsible for the
- safety of all who live here and I must exercise caution.}
-{136}{}{Look. It's not like you own the place. Maybe I'll look around whether you like it or not!}
-{137}{}{I understand, Gruthar, and I'll respect your wish for privacy.}
-{138}{}{I can understand your concern. You don't know me well enough to trust me. What if I could help
- you out somehow, and in return you allow me to look around?}
-{139}{}{(Gruthar stares at you intently for a moment.) You would be interested in helping us? Yes, I
- sense little evil in you. Very well, I shall place my trust in you.}
-{140}{}{(Gruthar stares at you intently for a moment.) I think not. I can sense the evil in you, human.
- I cannot risk the lives of those I protect by taking a chance with you.}
+{130}{}{Você vai me deixar entrar para procurá-lo?}
+{131}{}{Ei, aquele comentário sobre o lagarto foi muito engraçado. É seu parente?}
+{132}{}{É óbvio que falar com você é perda de tempo. Adeus.}
+{133}{}{Para ser honesto com você, nem eu tenho certeza do que é. Tudo bem para você se eu
+ procurar?}
+{134}{}{Sinto muito, mas não permito que qualquer um perambule por estes corredores. Sou
+ responsável pela segurança de todos os que vivem aqui e devo ter cautela. No entanto, vou
+ procurar esse geck e, se eu encontrar, avisarei.}
+{135}{}{Sinto muito, mas não permito que qualquer um perambule por estes corredores. Sou
+ responsável pela segurança de todos os que vivem aqui e devo ter cautela.}
+{136}{}{Olhe, não é como se você fosse o dono do lugar. Talvez eu de uma olhada, goste você ou não!}
+{137}{}{Entendo, Gruthar, e respeitarei seu desejo de privacidade.}
+{138}{}{Entendo sua preocupação, você não me conhece bem o suficiente para confiar em mim. E se eu
+ pudesse ajudá-lo de alguma forma e, em troca, você me permitisse dar uma olhada?}
+{139}{}{(Gruthar olha fixamente para você por um momento.) Você estaria interessado em nos ajudar? Sim, não
+ sinto maldade em você. Muito bem, depositarei minha confiança em você.}
+{140}{}{(Gruthar olha fixamente para você por um momento.) Acho que não, eu posso sentir a maldade em
+ você, humano. Não posso arriscar a vida daqueles que protejo me arriscando com você.}
 {141}{}{Obrigado.}
-{142}{}{Fine. I think a bullet lobotomy is a viable solution to my problem.}
-{143}{}{Sorry you feel that way, Gruthar.}
-{144}{}{I'll be leaving, then.}
+{142}{}{Certo. Acho que uma lobotomia na base da bala é uma solução viável para o meu problema.}
+{143}{}{Lamento que você se sinta assim, Gruthar.}
+{144}{}{Eu vou embora, então.}
 {145}{}{There are many machines here, machines built by humans. Deathclaw hands cannot use these
  machines. However, there is one machine that understands questions. I ask it to run the other machines
  and it obeys. This machine no longer listens. It will no longer run the other machines. We are running
