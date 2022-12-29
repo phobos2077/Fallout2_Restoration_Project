@@ -1,7 +1,7 @@
 {100}{}{Você vê um pequeno homem com um livro em suas mãos.}
-{101}{}{You see Joseph, the herbalist.}
-{102}{}{You see a short man with a book called "Herbs and Their Medicinal Uses."}
-{103}{}{Hello, I'm Joseph the herbalist. What can I help you with?}
+{101}{}{Você vê Joseph, o herbalista.}
+{102}{}{Você vê um homem baixo com um livro chamado "Ervas e seus usos medicinais".}
+{103}{}{Olá, sou Joseph, o herbalista. Com o que posso ajudar?}
 {104}{}{Tenho owie. Você conserta?}
 {105}{}{Sinto icky. Você conserta?}
 {106}{}{Eu gimp, você conserta?}
@@ -20,7 +20,7 @@
  need to take this, drink this -- all of it, I know it tastes foul. Now, just lie back and I'll wake
  you in the morning.}
 {118}{}{Me sinto bem. Tchau.}
-{119}{}{Thanks. That did the trick.}
+{119}{}{Obrigado. Resolveu o problema.}
 {120}{}{I'm sorry, but I'm not a medical doctor and I can't perform surgery. I would suggest that you
  go to one of the bigger cities and see a surgeon. Try the New California Republic. It's east of here.}
 {121}{}{Tudo bem. Tchau.}
@@ -28,7 +28,7 @@
 {123}{}{O que você gostaria de saber?}
 {124}{}{Seu prisioneiro?}
 {125}{}{Você sai daqui quando quer?}
-{126}{}{What you know about D'claws?}
+{126}{}{O que sabe dos deathclaws?}
 {127}{}{Como você está aqui?}
 {128}{}{Eu vou agora.}
 {129}{}{Você é prisioneira aqui?}
@@ -36,38 +36,38 @@
 {131}{}{O que você pode me contar sobre os deathclaws?}
 {132}{}{Como você chegou a estar aqui, em primeiro lugar?}
 {133}{}{Obrigado pela informação. Eu vou estar indo agora.}
-{134}{}{No, I'm not a prisoner. I stay because I'm needed here. I've learned to accept the fact that
- some of my patients are deathclaws.}
+{134}{}{Não, eu não sou um prisioneiro, eu fico porque sou necessário aqui. Aprendi a aceitar o fato de que
+ alguns de meus pacientes são deathclaws.}
 {135}{}{Tudo bem. Precisa saber mais.}
 {136}{}{Obrigado. Tchau.}
 {137}{}{Isso é muito louvável.}
 {138}{}{Eu vejo.}
-{139}{}{That's a decision that I can't agree with, but it's your life.}
+{139}{}{Essa é uma decisão com a qual não concordo, mas é a sua vida.}
 {140}{}{Yes I can, and often do. I have to collect my herbs from time to time, and I've never been
  stopped. I used to wonder if the deathclaws were secretly following me and whether or not they would
  stop me if I tried to leave. So one day I put the theory to test.}
 {141}{}{Eu entendi. Vá agora.}
 {142}{}{Precisa pedir mais.}
-{143}{}{You took a foolish chance and you're lucky it paid off.}
+{143}{}{Foi uma escolha estúpida e você tem sorte de ter funcionado.}
 {144}{}{Tudo certo.}
-{145}{}{Good idea. I'm glad to see it worked.}
-{146}{}{Well, let's see... Deathclaws appear to be mutated Jackson's Chameleons, the horned variety.
- There are a lot of similarities still present, but an even greater number of differences. The mutation
- factor is quite high. This species is highly intelligent, about the equivalent of an eight-year-old,
- with some individuals reaching human normal level. Their learning capacity is very high and they are
- capable of abstract thought and reasoning.}
+{145}{}{Boa ideia. Fico feliz em ver que funcionou.}
+{146}{}{Bem, vamos ver... Deathclaws parecem ser camaleões mutantes de Jackson, a variedade com
+ chifres. Há muitas semelhanças ainda presentes, mas um número ainda maior de diferenças, o fator
+ de mutação é bastante alto. Esta espécie é altamente inteligente, equivalente a uma criança de
+ oito anos, com alguns indivíduos atingindo o nível humano normal. Sua capacidade de aprendizado é
+ muito alta e eles são capazes de pensar e raciocinar de forma abstrata.}
 {147}{}{Uh... o que você disse.}
 {148}{}{Tenho que ir agora.}
 {149}{}{Uh-huh.}
-{150}{}{Wow, I'm impressed with your knowledge.}
-{151}{}{Sounds like a bunch of hogwash to me.}
+{150}{}{Uau, estou impressionado com o seu conhecimento.}
+{151}{}{Parece um monte de besteira para mim.}
 {152}{}{I was gathering some herbs one night when a voice called to me out of the darkness. 'I have been
  watching you,' it said, 'and I know that you are a healer. Are you dedicated to your art enough to heal
  someone foreign to you? Someone whom many would consider an enemy?'}
 {153}{}{Ugh.}
 {154}{}{Obrigado. Eu vou embora agora.}
-{155}{}{What a waste to be here when you could be helping others.}
-{156}{}{You are truly a dedicated man who deserves recognition.}
+{155}{}{Que desperdício estar aqui quando você poderia estar ajudando os outros.}
+{156}{}{Você é realmente um homem dedicado que merece reconhecimento.}
 {157}{}{Interessante.}
 {158}{}{Eu não vou ajudar alguém como você. Vá embora.}
 {159}{}{I traveled to another town and stayed there a week or so before returning. When I got back, I was

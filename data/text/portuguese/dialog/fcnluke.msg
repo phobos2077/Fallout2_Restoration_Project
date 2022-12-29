@@ -31,7 +31,7 @@
 {130}{}{Sua localização está armazenada no sistema dos computadores do Vault 15. Boa sorte,}
 {131}{}{.}
 {132}{}{Obrigado.}
-{133}{}{Nós somos a Brotherhood of Steel. Não há mais nada para eu te dizer agora. Boa sorte,}
+{133}{}{Nós somos a Irmandade do Aço. Não há mais nada para eu te dizer agora. Boa sorte,}
 {134}{}{Espera! Mim precisa saber mais!}
 {135}{}{Espere, você não pode deixar as coisas vagas desse jeito!}
 {136}{}{Olá novamente. Eu não tenho nada mais a dizer para você.}

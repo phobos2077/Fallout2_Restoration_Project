@@ -38,47 +38,47 @@
 {137}{}{A interface de voz para o mainframe falhou, então Gruthar não pode dar instruções ao sistema para executar a Vault. Os processadores de alimentos e água já acabaram. Os sistemas de energia podem muito bem ser os próximos.}
 {138}{}{Por que você não usa teclas?}
 {139}{}{Por que você simplesmente não usa o teclado?}
-{140}{}{Well, you see, that's the weird part. The system refuses to accept keyboard input. I'm at a loss as to what to do at this point.}
-{141}{}{Okay me look?}
-{142}{}{Mind if I take a look at it?}
+{140}{}{Bem, veja, essa é a parte estranha. O sistema se recusa a aceitar a entrada do teclado. Estou sem saber o que fazer neste momento.}
+{141}{}{Ok, eu olho?}
+{142}{}{Se importa se eu der uma olhada?}
 {143}{}{Sim, Gruthar me disse sobre isso e me pediu para dar uma olha. Você se importaria?}
-{144}{}{Well... no offense, but are you sure you're qualified? Oh, never mind. You can't possibly make matters any worse than they already are. Go right ahead.}
-{145}{}{You can't make matters any worse than they already are. Go right ahead.}
-{146}{}{Okay, but me ask more questions first.}
-{147}{}{All right, but I need to ask you a couple of things first.}
-{148}{}{This is a mainframe computer system and related support devices. From here all functions of the vault are remotely controlled.}
+{144}{}{Bem... sem ofensa, mas você tem certeza que é qualificado? Ah, não importa. Você não pode piorar mais as coisas. Fique a vontade.}
+{145}{}{Você não pode piorar mais as coisas. Fique a vontade.}
+{146}{}{Bom, mas primeiro responde minhas perguntas.}
+{147}{}{Tudo bem, mas primeiro preciso te perguntar algumas coisas.}
+{148}{}{Este é um sistema de computador mainframe e seus dispositivos de suporte relacionados. A partir daqui, todas as funções da Vault são controladas remotamente.}
 {149}{}{Uh... o que você disse.}
 {150}{}{Ah, eu vejo.}
-{151}{}{Normally the vault overseer would be stationed here but Vault 13 has been fully automated.}
+{151}{}{Normalmente, o supervisor da vault ficaria aqui, mas a Vault 13 foi totalmente automatizada.}
 {152}{}{Por quê?}
-{153}{}{Okay, me ask more.}
-{154}{}{Why? I mean, isn't that unusual?}
-{155}{}{I see. Let's change the subject.}
-{156}{}{I don't know the full story but at one point in the vault's history there was a rebellion. The overseer was either killed or overthrown, I'm not sure which. Anyway, the leaders of the revolution didn't want to entrust the fate of the people to another overseer so they installed this mainframe. The records say it was purchased from... oh, what was that name... Ah, I remember, the 'Brotherhood of Steel.'}
-{157}{}{You tell about Brotherhood?}
-{158}{}{Can you tell me anything about this Brotherhood?}
-{159}{}{No, I'm sorry, but I have no information on them. This all happened ages ago and I've never found any references to them other than this one. However, it's my understanding that the Brotherhood was a military outfit and there are some ruins of what appears to be a military base west of here. That may be what's left of them.}
-{160}{}{Ok. Me ask other thing.}
-{161}{}{All right. Let me ask you some other things then.}
-{162}{}{Oh yeah. I've liked it here ever since I stumbled upon the place and I don't really want to leave. I've always been a loner and don't much care for people, no offense intended.}
-{163}{}{Me take none.}
-{164}{}{None taken.}
-{165}{}{Well... In some ways I admire them for what they are and what they are trying to become. In other ways they scare the hell out of me. I don't think I'll ever get used to the fact that they are just as smart as I am... well, some of them are that smart.}
-{166}{}{You think they threat to people?}
-{167}{}{Do you think they are a threat to human society?}
+{153}{}{Ok, pergunto outras coisas.}
+{154}{}{Porque? Quero dizer, isso não é incomum?}
+{155}{}{Entendo. Vamos mudar de assunto.}
+{156}{}{Não conheço a história completa, mas em certo ponto, houve uma rebelião aqui na Vault. O superintendente foi morto ou tirado do cargo, não tenho certeza. De qualquer forma, os mandantes da rebelião não queriam confiar o destino do povo a outro capataz, então instalaram esse mainframe. Os registros dizem que foi comprado de... oh, como era esse nome... Ah, eu me lembro, a 'Irmandade de Aço'.}
+{157}{}{Me diga sobre a Irmandade?}
+{158}{}{Você pode me dizer algo sobre esta Irmandade?}
+{159}{}{Não, desculpe, mas não tenho informações sobre eles. Isso tudo aconteceu há muito tempo e nunca encontrei nenhuma referência a eles além desta. No entanto, pelo que entendi, a Irmandade era uma unidade militar e existem algumas ruínas do que parece ser uma base militar a oeste daqui. Isso pode ser o que sobrou deles.}
+{160}{}{OK. Eu pergunto outra coisa.}
+{161}{}{Tudo bem. Deixe te perguntar algumas outras coisas então.}
+{162}{}{Oh sim. Gosto daqui desde que encontrei esse lugar e realmente não quero sair. Sempre fui um solitário e não ligo muito para as pessoas, sem intenção de ofender.}
+{163}{}{Ofende não.}
+{164}{}{Não se preocupe.}
+{165}{}{Bem... De certa forma, eu os admiro pelo que são e pelo que estão tentando se tornar. Apesar disso, eles me assustam muito. Acho que nunca vou me acostumar com o fato de que eles são tão inteligentes quanto eu... bem, alguns deles são muito inteligentes.}
+{166}{}{Você acha que eles ameaçam as pessoas?}
+{167}{}{Você acha que eles são uma ameaça para a sociedade humana?}
 {168}{}{Oh, absolutely. They are far superior to us physically and they are our equals mentally. That makes them a pretty big threat. However, it all comes down to morals and ethics in the end. Fortunately, they seem to be ethical and morally well developed.}
 {169}{}{Eu vejo.}
-{170}{}{Yeah, I see what you mean.}
-{171}{}{Hi there. It's good to see you again. What can I help you with?}
-{172}{}{Need ask question.}
-{173}{}{Just say hi. Me go.}
+{170}{}{Sim, entendo o que quer dizer.}
+{171}{}{Olá, é bom ver você novamente. Com o que posso ajudar?}
+{172}{}{Preciso fazer pergunta.}
+{173}{}{Apenas falo oi. Eu vou.}
 {174}{}{Eu preciso perguntar uma coisa.}
-{175}{}{Just saying hi.}
+{175}{}{Só dizendo Oi.}
 {176}{}{Well, let's see... I suppose the best place to look would be Vault City since they're the most modern place I can think of. You might want to give New Reno a try though. They're closer and they do a lot of trading with Vault City.}
 {177}{}{Obrigado.}
 {178}{}{Thanks for fixing the computer. You've saved all our butts.}
 {179}{}{I've got better things to do than shoot the likes of you, but everyone needs a vacation!}
-{180}{}{. Me ask question?}
+{180}{}{. fazer pergunta?}
 {181}{}{. Posso te fazer algumas perguntas?}
-{182}{}{. I'd be happy to answer some questions.}
-{183}{}{You should let Gruthar know that you fixed the computer.}
+{182}{}{. Ficarei feliz em responder algumas perguntas.}
+{183}{}{Você deve deixar Gruthar saber que você consertou o computador.}
