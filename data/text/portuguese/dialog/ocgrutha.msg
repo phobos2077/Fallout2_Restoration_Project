@@ -121,16 +121,16 @@
 {181}{}{Você restaurou minha fé nos humanos. Agradeço por tudo o que você fez pelo bando. Há algo que eu
  possa fazer por você em troca?}
 {182}{}{Você disse que me avisaria se encontrasse um GECK aqui. Você achou algum?}
-{183}{}{Yes, I am looking for a GECK. I have been told that I could find it here. Do you know where it is?}
-{184}{}{No, thank you. I have everything that I need.}
-{185}{}{Ah, let me see. [He leaves, then returns a moment later, awkwardly clutching some kind of metallic case in his large claws.] Yes, there was a geck in the vault storage room. It is yours with many thanks.}
-{186}{}{Yes, there was a geck in the vault storage room. However, it is missing. I am sorry
- that I cannot give it to you as a reward for all your generous help.}
+{183}{}{Sim, estou procurando um GECK. Me disseram que eu poderia encontrá-lo aqui. Você sabe onde é?}
+{184}{}{Não, obrigado. Eu tenho tudo que preciso.}
+{185}{}{Deixe-me ver. [Ele sai, então retorna um momento depois, segurando desajeitadamente algum tipo de caixa metálica em suas grandes garras.] Sim, havia uma geck no depósito da Vault. É seu com meu muito obrigado.}
+{186}{}{Sim, havia um geck no depósito da Vault. No entanto, está faltando. Lamento não
+ poder te dar como recompensa por toda a sua generosa ajuda.}
 {187}{}{Obrigado!}
-{188}{}{Uh... that's okay. I'll try to locate one elsewhere.}
-{189}{}{Hello again, human. I hope that you do not intend to play the fool with me.}
-{190}{}{I want to apologize and start over, Gruthar.}
-{191}{}{Sorry, I gotta go.}
+{188}{}{Tudo bem. Vou tentar localizar um em outro lugar.}
+{189}{}{Olá de novo, humano. Espero que você não pretenda bancar o tonto comigo.}
+{190}{}{Quero me desculpar e começar do zero, Gruthar.}
+{191}{}{Desculpe, tenho que ir.}
 {192}{}{Ah, desculpe.}
 {193}{}{Saudações, humano. Você reconsiderou? Você vai me ajudar?}
 {194}{}{De jeito nenhum. Eu só queria ouvir você assassinar um pouco mais a língua.}

@@ -35,8 +35,8 @@
 {134}{}{Que problema?}
 {135}{}{Qual é o problema?}
 {136}{}{Sim, Gruthar me disse sobre isso e me pediu para dar uma olha. Você se importaria?}
-{137}{}{The voice interface to the mainframe has failed so Gruthar can't give the system instructions for running the vault. The food and water processors have already shut down. The power systems could very well be next.}
-{138}{}{Why you no use keebored?}
+{137}{}{A interface de voz para o mainframe falhou, então Gruthar não pode dar instruções ao sistema para executar a Vault. Os processadores de alimentos e água já acabaram. Os sistemas de energia podem muito bem ser os próximos.}
+{138}{}{Por que você não usa teclas?}
 {139}{}{Why not just give it keyboard input?}
 {140}{}{Well, you see, that's the weird part. The system refuses to accept keyboard input. I'm at a loss as to what to do at this point.}
 {141}{}{Okay me look?}
