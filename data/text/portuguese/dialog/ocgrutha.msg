@@ -76,51 +76,51 @@
 {151}{}{Eu me recuso a ajudar os deathclaws.}
 {152}{}{Obrigado. A máquina está no centro de controle do Vault, no terceiro nível. Se você puder
  repará-la, por favor, faça. Estou colocando minha confiança em você. Por favor, não nos traia, você é bem vindo aqui.}
-{153}{}{I won't let you down, Gruthar. You have my word on that.}
-{154}{}{Thanks. I'll get on it.}
-{155}{}{There really is one born every minute...}
-{156}{}{I see... Well, deathclaws are dangerous by nature and great care must be taken when encountering
- them in the wild. However, I am certain that you have noticed that we are an exception. My pack poses
- no threat to you or your human communities. We have evolved beyond our base cousins and wish simply to
- be left alone.}
+{153}{}{Não vou decepcioná-lo, Gruthar. Você tem minha palavra.}
+{154}{}{Obrigado. Eu vou cuidar disso.}
+{155}{}{Realmente nasce um a cada minuto...}
+{156}{}{Entendo... Bem, deathclaws são perigosos por natureza e muito cuidado deve ser tomado ao
+ encontrá-los na natureza. No entanto, tenho certeza de que você percebeu que somos uma exceção.
+ Minha matilha não representa nenhuma ameaça para você ou suas comunidades humanas. Evoluímos além
+ de nossos ancestrais selvagens e desejamos simplesmente ser deixados em paz.}
 {157}{}{Uh... sim.}
-{158}{}{Your heightened intellect could make you even more of a threat than the average deathclaw,
+{158}{}{Seu intelecto elevado pode torná-lo ainda mais ameaçador do que um deathclaw normal,
  Gruthar.}
-{159}{}{I can see that you are not the savage killers that deathclaws are known to be.}
-{160}{}{I have spent many sleepless nights, deep in thought, pondering just such issues. I have finally
- come to the conclusion that the burdens and responsibilities associated with the gift of intelligence
- are countless. There are only two choices available to any thinking being. Either accept life as it
- comes and make the best of it for yourself and others, or simply cease to be. I have chosen to accept
- the challenges of life. If this makes me a threat to humankind, then I pity the small mind that finds
- it so...}
-{161}{}{Yes, well... I may have a small mind but I also have a BIG weapon.}
-{162}{}{I couldn't agree with you more. I don't think you're a threat, Gruthar.}
-{163}{}{Uh... yeah. What you said.}
-{164}{}{(Gruthar pauses and seems to be carefully considering his response to you) I am sorry to say
- that I ordered the raids on the human lands. I am responsible for the lives of many here. We are
- running out of food, water, and other supplies. Until I can get the situation corrected, I need to take
- what I, a deathclaw, cannot ask humans for.}
-{165}{}{Well, now that I know the source of the raids, I'll just eliminate it!}
-{166}{}{I'm sorry to hear that. Is there some way that I may be able to help you so that you can stop
- the raids?}
-{167}{}{I've heard enough for now. I need some time to think.}
-{168}{}{I see...}
-{169}{}{I am displeased with your decision but I accept it. You may leave, but please return if you
- reconsider.}
+{159}{}{Eu posso ver que vocês não são assassinos selvagens como a maioria dos deathclaws são conhecidos.}
+{160}{}{Passei muitas noites sem dormir, pensando profundamente, refletindo sobre essas questões.
+ Finalmente cheguei à conclusão de que os fardos e responsabilidades associados ao dom da inteligência
+ são incontáveis. Existem apenas duas opções disponíveis para qualquer ser pensante, ou aceite a
+ vida como ela vem e faça o melhor para você e para os outros, ou simplesmente deixe de existir. Eu
+ escolhi aceitar os desafios da vida. Se isso me torna uma ameaça para a humanidade, então tenho
+ pena da mente pequena que pensa assim...}
+{161}{}{Sim, bem... Posso ter uma mente pequena, mas também tenho uma arma GRANDE.}
+{162}{}{Eu não poderia concordar mais com você. Não acho que você seja uma ameaça, Gruthar.}
+{163}{}{Eh... sim. O que você disse.}
+{164}{}{(Gruthar faz uma pausa e parece estar considerando cuidadosamente sua resposta a você)
+ Lamento dizer que ordenei os ataques às terras humanas. Sou responsável pela vida de muitos
+ aqui, estamos ficando sem comida, água e outros suprimentos. Até que eu possa corrigir a situação,
+ preciso pegar o que eu, um deathclaw, não posso pedir aos humanos.}
+{165}{}{Bem, agora que sei a origem dos ataques, vou simplesmente eliminá-la!}
+{166}{}{Sinto muito por ouvir isso. Existe alguma maneira que eu possa ajudá-lo para que você possa parar os
+ ataques?}
+{167}{}{Já ouvi o suficiente por agora. Preciso de um tempo para pensar.}
+{168}{}{Entendo...}
+{169}{}{Estou descontente com sua decisão, mas eu a aceito. Você pode sair, mas, por favor, volte se
+ reconsiderar.}
 {170}{}{Feito.}
-{171}{}{Hello}
-{172}{}{No. I'll get to it, though.}
-{173}{}{I'm sorry, Gruthar. The voice module has gone bad. I'll have to go get one.}
-{174}{}{I do not understand the workings of such things but I trust you,}
+{171}{}{Olá}
+{172}{}{Não. Vou chegar lá.}
+{173}{}{Sinto muito, Gruthar. O módulo de voz estragou, vou ter que ir buscar um.}
+{174}{}{Eu não entendo o funcionamento de tais coisas, mas eu confio em você,}
 {175}{}{Feito.}
-{176}{}{I shall return, you have my word.}
-{177}{}{Hello}
+{176}{}{Voltarei, tem minha palavra.}
+{177}{}{Olá}
 {178}{}{Não, eu ainda estou procurando.}
-{179}{}{Yes, and here it is!}
+{179}{}{Sim, e aqui está!}
 {180}{}{}
-{181}{}{You have restored my faith in humans. I thank you for all that you have done for the pack. Is
- there something that I can do for you in return?}
-{182}{}{You said you would let me know if you found a GECK here. Did you locate one?}
+{181}{}{Você restaurou minha fé nos humanos. Agradeço por tudo o que você fez pelo bando. Há algo que eu
+ possa fazer por você em troca?}
+{182}{}{Você disse que me avisaria se encontrasse um GECK aqui. Você achou algum?}
 {183}{}{Yes, I am looking for a GECK. I have been told that I could find it here. Do you know where it is?}
 {184}{}{No, thank you. I have everything that I need.}
 {185}{}{Ah, let me see. [He leaves, then returns a moment later, awkwardly clutching some kind of metallic case in his large claws.] Yes, there was a geck in the vault storage room. It is yours with many thanks.}
