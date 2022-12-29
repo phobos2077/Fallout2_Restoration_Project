@@ -30,16 +30,16 @@
 {121}{}{Obrigado. Eu gostaria de conhecer Goris.}
 {122}{}{Não tenho intenção de botar um deathclaw na minha lista de amigos. Tchau!}
 {123}{}{Tudo certo.}
-{124}{}{They are gone, human. We did not kill them and take their home. It is not our way to kill. I
- understand that you may not believe me, but I hope that you will judge me by my actions toward you and
- not out of fear or prejudice.}
-{125}{}{Hey, maybe you figure I can kick your ass?}
-{126}{}{You seem to be an honorable being, Gruthar.}
+{124}{}{Eles se foram, humano. Não os matamos nem os levamos para casa, não é nosso jeito de
+ matar. Entendo que você pode não acreditar em mim, mas espero que me julgue por minhas ações em
+ relação a você e não por medo ou preconceito.}
+{125}{}{Ei, talvez você pense que eu vou chutar o sua bunda?}
+{126}{}{Você parece ser honrado, Gruthar.}
 {127}{}{Sim, eu suponho.}
-{128}{}{A geck. Is that not a small lizard... no, wait... that is a gecko. I am sorry, but I do not know
- what a geck is, nor where it can be found.}
-{129}{}{Yes, I believe you mentioned this once before. I do not know what a geck is, nor where it can be
- found.}
+{128}{}{Um geck. Não é aquele calanguinho... não, espera... isso é um gecko. Lamento, mas não sei o que é
+ um geck, nem onde se pode encontrar um.}
+{129}{}{Sim, eu acredito que você mencionou isso uma vez antes. Não sei o que é um geck, nem onde
+ pode ser encontrado.}
 {130}{}{Will you let me in to look for it?}
 {131}{}{Hey, that small lizard comment was really funny. That a relative of yours?}
 {132}{}{It's obvious that talking to you is a waste of time. Good-bye.}
