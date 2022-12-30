@@ -8,9 +8,9 @@
 {106}{}{Execute o programa de diagnóstico.}
 {107}{}{Abre e o olha por dentro.}
 {108}{}{O deixa sozinho.}
-{109}{}{You gaze at the console for a while and decide upon the best spot to place a punch. After giving
- it your best 'this'll fix it' hit, the monitor flashes a couple of times and then stabilizes. There is
- no other effect. What do you do?}
+{109}{}{Você olha para o console por um tempo e decide o melhor local para dar um soco. Depois de
+ dar o seu melhor 'isso vai consertar', o monitor pisca algumas vezes e depois se estabiliza.
+ Não há outro efeito. O que faz?}
 {110}{}{O chuta de maneira "especial".}
 {111}{}{Execute o programa de diagnóstico.}
 {112}{}{Abre e o olha por dentro.}
@@ -23,21 +23,21 @@
 {117}{}{O deixa sozinho.}
 {118}{}{You are certain that the system should have a set of diagnostic routines available. However, the
  keyboard input seems to have been disabled. The unit accepts voice commands only. What do you do?}
-{119}{}{The only thing left is to look inside.}
+{119}{}{A única coisa que resta é olhar para dentro.}
 {120}{}{O deixa sozinho.}
 {121}{}{Peering into the mass of cables and circuit boards, you find that the system has been deliberately sabotaged.
  One of the circuit boards, the voice recognition module, is beyond repair and must be replaced.
  Now all you need to do is find a replacement module.}
 {122}{}{Feito.}
 {123}{}{Feito.}
-{124}{}{You install the module in the terminal. The system is repaired.}
-{125}{}{The terminal needs a voice recognition module installed before it can become operational.}
+{124}{}{Você instala o módulo no terminal. O sistema é reparado.}
+{125}{}{O terminal precisa de um módulo de reconhecimento de voz instalado antes de se tornar operacional.}
 {126}{}{Feito.}
-{127}{}{The system is working fine now.}
-{128}{}{Accessing security footage, loading holographic playback...}
-{129}{}{You are the last, Gruthar. The stain of your kind will soon be wiped clean.}
-{130}{}{You tell your so-called President that he will burn for this.}
-{131}{}{Whatever. You were never anything more than a talking animal.}
+{127}{}{O sistema está funcionando bem agora.}
+{128}{}{Acessando imagens de segurança, carregando reprodução holográfica...}
+{129}{}{Você é o último, Gruthar. A mancha de sua espécie logo será limpa.}
+{130}{}{Diga ao seu suposto presidente que ele vai queimar por isso.}
+{131}{}{Qualquer que seja. Você nunca foi nada além de um animal falante.}
 {132}{}{That may be, but we were created through your experimentation. You gave us life!}
 {133}{}{And now I give you death.}
 {134}{}{Take his body. The doctor wanted a specimen.}
