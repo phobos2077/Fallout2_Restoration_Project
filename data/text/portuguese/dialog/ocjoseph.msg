@@ -82,8 +82,8 @@
  aplicado pelo bando completo. A violência nunca é usada como solução para um problema entre o bando,
  até onde pude ver. Não houve 'crimes capitais' cometidos aqui, então não posso dizer como eles
  são tratados. Hmmm, isso é tudo que consigo pensar por enquanto, espero que isso possa te ajudar.}
-{162}{}{I answered that I respected all life and would do my best to heal the injured, regardless of who
- or what they were. I thought it was some thief or raider who had gotten himself hurt and needed
- a doctor. You can't begin to imagine my surprise when a couple of deathclaws stepped out of the
- night with an injured companion. Somebody had shot him up real good. I told them I couldn't work on him
- where we were, so they blindfolded me and brought me here. I've been here from that day forward.}
+{162}{}{Respondi que respeitava todas as vidas e faria o possível para curar os feridos, independentemente
+ de quem ou o que fossem. Achei que fosse algum ladrão ou assaltante que se machucou e precisava
+ de um médico. Você não pode começar a imaginar minha surpresa quando um par de deathclaws
+ saiu da noite com um companheiro ferido, alguém acertou um tiro muito bem. Eu disse a eles que não poderia
+ trabalhar com ele onde estávamos, então eles me vendaram e me trouxeram aqui. Estou aqui desde aquele dia.}
