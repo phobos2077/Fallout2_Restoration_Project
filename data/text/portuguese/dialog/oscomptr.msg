@@ -19,7 +19,7 @@
  several seconds and then stabilizes. Second, you hear a breaking metal type of sound and the panel you
  kicked falls to the floor. What do you do?}
 {115}{}{Execute o programa de diagnóstico.}
-{116}{}{Damn thing's open. Might as well look inside.}
+{116}{}{A maldita coisa está aberta. Poderia muito bem olhar para dentro.}
 {117}{}{O deixa sozinho.}
 {118}{}{You are certain that the system should have a set of diagnostic routines available. However, the
  keyboard input seems to have been disabled. The unit accepts voice commands only. What do you do?}
@@ -38,12 +38,12 @@
 {129}{}{Você é o último, Gruthar. A mancha de sua espécie logo será limpa.}
 {130}{}{Diga ao seu suposto presidente que ele vai queimar por isso.}
 {131}{}{Qualquer que seja. Você nunca foi nada além de um animal falante.}
-{132}{}{That may be, but we were created through your experimentation. You gave us life!}
-{133}{}{And now I give you death.}
-{134}{}{Take his body. The doctor wanted a specimen.}
-{135}{}{Their blood will run like the Nile!}
+{132}{}{Talvez, mas fomos criados por meio dos seus experimentos. Você nos deu a vida!}
+{133}{}{E agora te dou a morte.}
+{134}{}{Pegue o corpo dele. O médico queria uma amostra.}
+{135}{}{O sangue deles correrá como o Nilo!}
 {200}{}{Welcome, Vault Dweller. For your convenience, this Vault-Tec terminal has been modified to respond to vocal commands. Please vocalize your command now.}
-{201}{}{Oh, you've got me confused with someone else. You see, I'm not the Vault Dweller, I'm the Chosen One. }
+{201}{}{Oh, você me confundiu com outra pessoa. Você vê, eu não sou o Morador da Vault, eu sou o Escolhido. }
 {202}{}{Execute o diagnóstico.}
 {203}{}{Mude para o modo de entrada do teclado.}
 {204}{}{Segurança de acesso ao material de arquivo.}
@@ -62,7 +62,7 @@
 {222}{}{Termine a sessão.}
 {230}{}{Switching to manual interface mode... manual interface mode initiated. For the convenience of others, this
  terminal will automatically revert to vocal interface mode once you have logged off. Please input command.}
-{231}{}{Search database for anything of interest.}
+{231}{}{Banco de dados de pesquisa para qualquer coisa de interesse.}
 {232}{}{Termine a sessão.}
 {240}{}{After a bit of searching, you discover three files that might be worth a look: Vault Dweller's Survival Guide
  (Abridged Version), Vault 13 Timeline, and Overseer Logs.}
