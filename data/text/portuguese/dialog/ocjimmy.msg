@@ -66,7 +66,7 @@
 {165}{}{Bem... De certa forma, eu os admiro pelo que são e pelo que estão tentando se tornar. Apesar disso, eles me assustam muito. Acho que nunca vou me acostumar com o fato de que eles são tão inteligentes quanto eu... bem, alguns deles são muito inteligentes.}
 {166}{}{Você acha que eles ameaçam as pessoas?}
 {167}{}{Você acha que eles são uma ameaça para a sociedade humana?}
-{168}{}{Oh, absolutely. They are far superior to us physically and they are our equals mentally. That makes them a pretty big threat. However, it all comes down to morals and ethics in the end. Fortunately, they seem to be ethical and morally well developed.}
+{168}{}{Com certeza. Eles são muito superiores a nós fisicamente e são nossos iguais mentalmente. Isso os torna uma grande ameaça. No entanto, no final tudo se resume a moral e a ética. Felizmente, eles parecem ser éticos e moralmente bem desenvolvidos.}
 {169}{}{Eu vejo.}
 {170}{}{Sim, entendo o que quer dizer.}
 {171}{}{Olá, é bom ver você novamente. Com o que posso ajudar?}
@@ -74,10 +74,10 @@
 {173}{}{Apenas falo oi. Eu vou.}
 {174}{}{Eu preciso perguntar uma coisa.}
 {175}{}{Só dizendo Oi.}
-{176}{}{Well, let's see... I suppose the best place to look would be Vault City since they're the most modern place I can think of. You might want to give New Reno a try though. They're closer and they do a lot of trading with Vault City.}
+{176}{}{Bem, vamos ver... Acho que o melhor lugar para procurar seria Vault City, já que é o lugar mais moderno que consigo lembrar. Talvez voce possa tentar em New Reno, eles estão mais próximos e fazem muitas trocas com Vault City.}
 {177}{}{Obrigado.}
-{178}{}{Thanks for fixing the computer. You've saved all our butts.}
-{179}{}{I've got better things to do than shoot the likes of you, but everyone needs a vacation!}
+{178}{}{Obrigado por consertar o computador. Você salvou o rabo de todo mundo aqui.}
+{179}{}{Tenho coisas melhores para fazer do que atirar em gente como você, mas todo mundo precisa de uma folga!}
 {180}{}{. fazer pergunta?}
 {181}{}{. Posso te fazer algumas perguntas?}
 {182}{}{. Ficarei feliz em responder algumas perguntas.}
