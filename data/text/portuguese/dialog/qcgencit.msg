@@ -1,47 +1,47 @@
-{100}{}{You see a person in a vault suit.}
-{101}{}{You see a citizen of the Enclave.}
-{102}{}{You see a pale but healthy looking citizen.}
-{103}{}{Might as well rest a bit.}
-{104}{}{Wonder what the safety movie is tonight?}
+{100}{}{Você vê uma pessoa em uma roupa da Vault.}
+{101}{}{Você vê um cidadão da Enclave.}
+{102}{}{Você vê um cidadão pálido, mas de aparência saudável.}
+{103}{}{Poderia descansar um pouco.}
+{104}{}{Qual sera o filme de segurança que teremos esta noite?}
 {105}{}{Que foi?}
-{106}{}{The weather's always the same here.}
-{107}{}{The Project is proceeding well.}
-{108}{}{It's a shame about Vice-President Bird.}
-{109}{}{My next shift isn't for a few hours yet.}
-{110}{}{God bless America.}
-{111}{}{The Project is our salvation.}
-{112}{}{I'm sure glad I'm not on the mainland.}
+{106}{}{O tempo sempre é o mesmo por aqui.}
+{107}{}{O Projeto está caminhando bem.}
+{108}{}{É uma vergonha para o vice-presidente Bird.}
+{109}{}{Falta ainda algumas horas para o meu próximo turno.}
+{110}{}{Deus abençoe a America.}
+{111}{}{O Projeto é a nossa salvação.}
+{112}{}{Estou feliz por não estar no continente.}
 {113}{}{É só mais um exercício militar.}
-{114}{}{What's all that racket?}
-{115}{}{That's the reactor alarm.}
+{114}{}{Que barulho todo e esse?}
+{115}{}{Esse é o alarme do reator.}
 {116}{}{Uh, oh.}
-{117}{}{Better find some Rad-X, again.}
-{118}{}{That thing's always breaking down.}
-{119}{}{I feel sunburnt.}
-{120}{}{Is it getting hotter in here?}
+{117}{}{Melhor encontrar algum Rad-X, outra vez.}
+{118}{}{Essa coisa está sempre quebrando.}
+{119}{}{Me sinto queimado de sol.}
+{120}{}{Está ficando mais quente aqui?}
 {121}{}{Isso não ser bom.}
-{122}{}{Shit, shit, shit.}
-{123}{}{Where's my breather mask?}
-{124}{}{Something smells funny.}
-{125}{}{I don't feel too good.}
-{126}{}{The air burns my throat.}
-{127}{}{Man, do I have some nasty heartburn.}
-{128}{}{My lungs are on fire.}
-{129}{}{I think I need a breathe of fresh air.}
-{130}{}{Is it getting darker in here?}
-{131}{}{So sleepy, must rest.}
-{132}{}{I think I'll just sit down for a bit.}
-{133}{}{Another drill?}
-{134}{}{I thought I heard gunfire.}
-{135}{}{Hey, who're you?}
-{136}{}{Halt! Who goes there?}
-{137}{}{I get so tired of these drills all the time.}
-{138}{}{Yeah, like I'd recognize an intruder.}
-{139}{}{Don't worry about it.}
-{140}{}{The troopers will take care of us.}
-{141}{}{Where's a trooper when you need one?}
-{142}{}{I just need to stay calm - stay calm.}
-{143}{}{I'll never finish this.}
+{122}{}{Merda, merda, merda.}
+{123}{}{Cadê minha máscara de respiração?}
+{124}{}{Algo cheira estranho.}
+{125}{}{Eu não me sinto muito bem.}
+{126}{}{O ar esta queimando minha garganta.}
+{127}{}{Cara, meu estomago não esta normal.}
+{128}{}{Meus pulmões estão pegando fogo.}
+{129}{}{Acho que preciso respirar ar fresco.}
+{130}{}{Está ficando mais escuro aqui?}
+{131}{}{Me sinto sonolento, deveria descansar.}
+{132}{}{Acho que vou sentar um pouco.}
+{133}{}{Outro exercício?}
+{134}{}{Achei ter ouvido tiros.}
+{135}{}{Ei, quem é você?}
+{136}{}{Pare! Quem vem lá?}
+{137}{}{To me cansando desses exercícios toda hora.}
+{138}{}{Opa, podemos ter um intruso.}
+{139}{}{Não se preocupe com isso.}
+{140}{}{Os soldados cuidarão de nós.}
+{141}{}{Onde está um soldado quando você precisa de um?}
+{142}{}{Eu só preciso ficar calmo - fique calmo.}
+{143}{}{Eu nunca vou terminar isso.}
 {144}{}{Eu com certeza preferia estar em outro lugar.}
 {145}{}{Aquele operador de terminal era uma gracinha.}
 {146}{}{Isso não faz sentido.}

@@ -167,11 +167,11 @@
 {510}{}{Você aprende sobre a história da Vault 13 e o papel do Supervisor nos Experimentos das Vaults.}
 {520}{}{Me desculpe, eu não entendi isso.}
 {521}{}{Termine a sessão.}
-{2541}{}{Door thickness: 4 yards, steel
-                                       Earth coverage: 3,200,000 tons of soil, at 200 feet
-           Computer control system: Think machine
-                          Primary power supply: Geo-thermal
-                                Secondary power supply: General Atomics Nuclear Power backup systems
-                                                         Power requirements: 3.98mkw/day
-                                 Stores: Complete construction equipment, hydro-agricultural farms, water purification system from underground river,
- defensive weaponry to equip 10 men, communication, social and entertainment files (for total duration)}
+{2541}{}{Espessura da porta: 4 jardas, aço
+                                       Cobertura da Terra: 3.200.000 toneladas de solo, a 200 pés
+           Sistema de controle de computador: máquina de pensar
+                          Fonte de alimentação primária: geotérmica
+                                Fonte de alimentação secundária: Sistemas de backup da General Atomics de Energia Nuclear
+                                                         Requisitos de energia: 3,98mkw/dia
+                                 Lojas: Equipamentos de construção completos, fazendas hidroagrícolas, sistema de purificação de água de rio subterrâneo,
+ armamento defensivo para equipar 10 homens, arquivos de comunicação, sociais e de entretenimento (duração total)}

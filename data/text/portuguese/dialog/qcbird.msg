@@ -70,28 +70,28 @@
 {169}{}{Que porra é essa, Marreco?}
 {170}{}{Chega, já perdi tempo suficiente. Adeus.}
 {171}{}{Para a NASA, o espaço ainda é de alta prioridade.}
-{172}{}{I see, and where would we be going then?}
-{173}{}{That's not true, Republicans understand the importance of bondage between a mother and child. That's the key to the solution of all our problems-we need a return to family values.}
-{174}{}{What you and the Enclave are up to has nothing to do with family values.}
-{175}{}{I stand by all the misstatements that I've made.}
-{176}{}{Don't you understand, you'll create another holocaust if you continue.}
-{177}{}{You're quite mad. You do realize that don't you?}
-{178}{}{The Holocaust was an obscene period in our nation's history. I mean in this century's history. But we all lived in this century. I didn't live in this century.}
-{179}{}{You're a flipping loony.}
-{180}{}{Someone's got to put you out of my misery. Say your prayers, Bird.}
-{181}{}{I've got to get out of here.}
-{182}{}{P-O-T-A-T-O-E}
-{183}{}{P-O-T-A-T-O}
-{184}{}{T-O-M-A-T-O-E}
-{185}{}{T-O-M-A-T-O}
-{186}{}{Where did my two gallons of strawberry ice-cream go?}
-{187}{}{The Caine is my ship. Mine, do you hear me?}
-{188}{}{You're all against me, aren't you? Aren't you?}
-{189}{}{Fast as fast can be, they won't catch me.}
-{190}{}{Pretty, pretty.}
-{191}{}{Shiny.}
-{192}{}{No, mommy, I didn't do it. Don't hit me again!}
-{193}{}{Mother! Where are you Mother?}
-{194}{}{I don't want to be the patient this time.}
-{195}{}{No, not the needles, anything but the needles.}
-{196}{}{No, no, uh-uh, no. Nooooo!}
+{172}{}{Entendo, e para onde estaríamos indo então?}
+{173}{}{Isso não é verdade, Republicanos entendem a importância da dependência mãe-filho. Essa é a chave para a solução de todos os nossos problemas: precisamos de um retorno aos valores familiares.}
+{174}{}{O que você e a Enclave estão fazendo não tem nada a ver com valores familiares.}
+{175}{}{Eu mantenho todas as declarações errôneas que fiz.}
+{176}{}{Você não entende, criará outro holocausto se continuar.}
+{177}{}{Você é totalmente louco. Esta percebendo isso, não é?}
+{178}{}{O Holocausto foi um período obsceno na história da nossa nação, quero dizer na história deste século. Mas todos nós vivemos neste século. Eu não vivi neste século.}
+{179}{}{Você é um retardado.}
+{180}{}{Alguém tem que acabar com a sua miséria. Faça suas orações, Bird.}
+{181}{}{Eu tenho que sair daqui.}
+{182}{}{B-A-T-A-T-A}
+{183}{}{D-E-M-E-N-C-I-A}
+{184}{}{T-O-M-A-T-E}
+{185}{}{M-A-I-O-N-E-S-E}
+{186}{}{Para onde foram meus dois galões de sorvete de morango?}
+{187}{}{O Caine é o meu navio. Meu, está me ouvindo?}
+{188}{}{Vocês estão todos contra mim, não estão? não é?}
+{189}{}{Tão rápido quanto possível, eles não vão me pegar.}
+{190}{}{Bonito, bonito.}
+{191}{}{Brilhante.}
+{192}{}{Não, mamãe, eu não fiz isso. Não me bata de novo!}
+{193}{}{Mãe! Onde você está, mãe?}
+{194}{}{Eu não quero ser o paciente desta vez.}
+{195}{}{Não, as agulhas não, qualquer coisa menos as agulhas.}
+{196}{}{Não, não, uh-uh, não. Naaaao!}

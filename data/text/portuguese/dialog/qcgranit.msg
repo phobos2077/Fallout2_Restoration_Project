@@ -28,27 +28,27 @@
 {127}{}{Bem, você sabe que a aberração, Agente Horrigan, acabou de passar por aqui. Ele está esperando por alguém para o atacar.}
 {128}{}{Quem é?}
 {129}{}{Acho que você está errado quanto a isso. Digamos que estou cuidando da minha vida. E agora, o que você está fazendo aqui?}
-{130}{}{I'm trying to get back to the boat so I can escape with my tribe.}
-{131}{}{Well, you just better make time.}
-{132}{}{Why? What do you mean?}
-{133}{}{I don't make time. I make corpses and you're next.}
-{134}{}{Have it your way, but don't say we didn't try to warn ya.}
-{135}{}{Warn me? About what?}
-{136}{}{Yeah, I'm warned all right. Time to die, Enclave scum.}
-{137}{}{He's some genetically engineered freak is what he is. Used to be the president's bodyguard. Secret Service agent Frank Horrigan. Now he's more than half machine.}
-{138}{}{Sounds like bad news.}
-{139}{}{I've killed worse than that. He'll just be another stain in a few minutes.}
-{140}{}{Gee, you've got me shaking in my boots. Shut up. }
-{141}{}{Oh, that he is, and worse. He's going to mop the floor with you. He's tough, fast, and just plain mean. I've seen what he likes to do to mutants and it ain't pretty.}
-{142}{}{I'm not a mutant and... uh, what did he do?}
-{143}{}{I don't like to talk about it. It gives me nightmares. Let's just say that those walls aren't covered with *rust* exactly.}
-{144}{}{Sounds like I'm going to have a hard time getting past him.}
-{145}{}{That's the understatement of the year. I pity ya, pal, really do.}
-{146}{}{Pity me? You should feel bad for yourself. Your power plant's control computer got fried and now you're headed for a meltdown. You're all dead men unless...}
-{147}{}{I don't need your pity. I just need you to die.}
-{148}{}{I've got things to do. You're all dead men anyway. Try to enjoy your last few minutes on this earth. Smoke 'em if you got 'em. Goodbye.}
-{149}{}{Unless what?!?}
-{150}{}{Unless you help me get past Horrigan to get to my ship.}
+{130}{}{Estou tentando voltar para o barco para poder fugir com minha tribo.}
+{131}{}{Bem, é melhor você arranjar tempo.}
+{132}{}{Por que? O que você quer dizer?}
+{133}{}{Eu não faço tempo. Eu faço cadáveres e você é o próximo.}
+{134}{}{Faça do seu jeito, mas não diga que não tentamos avisá-lo.}
+{135}{}{Me avisar? Sobre o que?}
+{136}{}{Sim, estou avisado. Hora de morrer, escória da Enclave.}
+{137}{}{Ele é uma aberração geneticamente modificada, é isso o que ele é. Costumava ser o guarda-costas do presidente, agente do Serviço Secreto Frank Horrigan. Agora ele é mais da metade feito de máquina.}
+{138}{}{Parecem más noticias.}
+{139}{}{Já matei coisas piores. Ele será mais uma sombra em alguns minutos.}
+{140}{}{Nossa, olha como eu estou tremendo de medo, olha. Cala boca. }
+{141}{}{Oh, ele é, e pior, vai esfregar o chão com você. Ele é forte, rápido e totalmente mau. Eu vi o que ele gosta de fazer com os mutantes e não é bonito.}
+{142}{}{Eu não sou um mutante e... uh, o que ele fez?}
+{143}{}{Eu não gosto de falar sobre isso, me dá até pesadelos. Digamos apenas que essas paredes não estão exatamente cobertas de *ferrugem*.}
+{144}{}{Parece que vou ter dificuldade em passar por ele.}
+{145}{}{Esse é o eufemismo do ano. Tenho pena de você, amigo, de verdade.}
+{146}{}{Pena de mim? Você é quem deveria estar mal. O computador de controle da sua usina quebrou e agora você está prestes a fritar. Vocês são todos homens mortos, a menos que...}
+{147}{}{Eu não preciso da sua pena, eu só preciso que você morra.}
+{148}{}{Eu tenho coisas para fazer, vocês são todos homens mortos de qualquer forma. Tente aproveitar seus últimos minutos nesta terra. Descanse e fume um cigarro se der tempo. Tchau.}
+{149}{}{A menos que o que?!?}
+{150}{}{A menos que você me ajude a passar por Horrigan para chegar ao meu navio.}
 {151}{}{Never mind. I don't have time to discuss this. Goodbye.}
 {152}{}{Oh, yeah. Tell me another one. If the reactor's scragged how come the light's are still on? Huh, smartie? Heh, heh, tell me another one.}
 {153}{}{That's just the *emergency* lighting. Hey, I saw where the computer *was.* It's not broken, it's *gone.* I'm telling you, you're all goin' down for the count unless...}
