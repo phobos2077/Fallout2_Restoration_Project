@@ -1,33 +1,33 @@
-{100}{}{You see a powerful-looking black man.}
-{101}{}{You see Earl Marion, the Sheriff of Redding.}
-{102}{}{You see a powerfully built man looking at you intently.}
-{103}{}{You're about a taco short of a combination plate.}
-{104}{}{No hand-outs here. Now git!}
-{105}{}{You're a few fries short of a happy meal, aren't you?}
-{106}{}{Move along, little doggy.}
+{100}{}{Você vê um homem negro de aparência poderosa.}
+{101}{}{Você vê Earl Marion, o xerife de Redding.}
+{102}{}{Você vê um homem de constituição poderosa olhando para você atentamente.}
+{103}{}{Você é apenas um pequeno taco em um prato combinado.}
+{104}{}{Sem esmolas aqui. Agora vai!}
+{105}{}{Te faltam algumas batatas fritas para uma refeição feliz, não é?}
+{106}{}{Siga em frente, cachorrinho.}
 {107}{}{Mova-se.}
-{108}{}{Howdy there. My name's Earl Marion. I'm the Sheriff in these here parts. Sounds downright
- picturesque, don't it? Well, that's my job.}
-{109}{}{What can Sheriff Marion do for you?}
-{110}{}{As the Sheriff, what do you do here in town?}
-{111}{}{I'm here in town to kick ass and chew bubblegum - and I'm all out of gum.}
-{112}{}{I won't make any trouble. I was just leaving. Goodbye.}
-{113}{}{Hello there, Ranger. My name's Earl Marion and I'm the Sheriff in Redding. Glad to have you in
- town, Ranger.}
-{114}{}{Howdy, Ranger. What can Sheriff Marion do for you?}
-{115}{}{How'd you know I'm a Ranger?}
-{116}{}{As the Sheriff, what do you do here in town?}
-{117}{}{Good to be here. I was just checking in, Sheriff. See you later. Goodbye.}
-{118}{}{Simple. It's tattooed on the back of your neck.}
-{119}{}{It is not.}
-{120}{}{It is?}
-{121}{}{Damn, I thought it was a secret.}
-{122}{}{Oh, I thought you recognized the secret hand-shake I gave you.}
-{123}{}{(Heh, heh) If you were a fish I'd have landed a big one. I was just kidding. Seriously though,
- it's my business to know stuff like that.}
-{124}{}{Oh, I see. What else do you do as Sheriff?}
-{125}{}{I'm still curious as to how you knew.}
-{126}{}{I guess that's why you're the Sheriff, Earl. Goodbye.}
+{108}{}{Olá, meu nome é Earl Marion, eu sou o xerife por estas bandas. Soa absolutamente pitoresco,
+ não é? Bem, esse é o meu trabalho.}
+{109}{}{O que o xerife Marion pode fazer por você?}
+{110}{}{Sendo o xerife, o que você faz aqui na cidade?}
+{111}{}{Estou aqui na cidade para arrasar e mascar chiclete - e estou sem chiclete.}
+{112}{}{Eu não vou causar nenhum problema, ja estava saindo. Tchau.}
+{113}{}{Olá, Ranger, meu nome é Earl Marion e sou o xerife em Redding. Fico feliz em te ver na cidade,
+ Ranger.}
+{114}{}{Olá, Ranger. O que o xerife Marion pode fazer por você?}
+{115}{}{Como você sabe que eu sou um Ranger?}
+{116}{}{Sendo o xerife, o que você faz aqui na cidade?}
+{117}{}{Bom estar aqui, só estava de passagem, xerife. Até logo.}
+{118}{}{Simples, esta tatuado na nuca.}
+{119}{}{Não esta.}
+{120}{}{Esta?}
+{121}{}{Droga, pensei que fosse segredo.}
+{122}{}{Oh, pensei que você reconhecesse o aperto de mão secreto que te dei.}
+{123}{}{(Heh, heh) Se você fosse um peixe, eu teria pescado um grande, eu estava só brincando. Sério,
+ é da minha conta saber coisas assim.}
+{124}{}{Oh, entendo. O que mais você faz como xerife?}
+{125}{}{Ainda estou curioso para saber como você sabia.}
+{126}{}{Acho que é por isso que você é o xerife, Earl. Tchau.}
 {127}{}{Well, if you must steal all the drama and mystery from my moment... I have friends in the NCR. Good
  friends. Might say that we have common interests, too.}
 {128}{}{Oh, well, that explains it. I was curious. What do you do here in town as the Sheriff?}

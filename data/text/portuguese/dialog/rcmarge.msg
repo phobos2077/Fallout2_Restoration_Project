@@ -123,11 +123,11 @@
  machine to work.}
 {195}{}{Great. Hey, let me ask you something else first, though.}
 {196}{}{Obrigado pelo dinheiro. Tchau.}
-{197}{}{Yeah? Gee, thanks. I'm getting all warm and cuddly feeling inside. What do you want?}
-{198}{}{I want to ask you about something.}
-{199}{}{Nothing. I'm just looking around. Goodbye.}
-{200}{}{Why not? Actually, I don't know where the name came from. I think it's always been called that.
- Even before I got here. It's got kind of a romantic sound to it, don't it? Ko-ko-weef. Yeah, I still
- like the way that sounds.}
-{201}{}{Uh, yeah. Okay. Uh, what did you say you mine here?}
-{202}{}{Uh huh. Well I'll be leaving now. Goodbye.}
+{197}{}{Sim? Caramba, valeu. Estou ficando todo quente e fofinho por dentro. O que você quer?}
+{198}{}{Eu quero te perguntar sobre algo.}
+{199}{}{Nada não, estou só dando uma olhada. Tchau.}
+{200}{}{Por que não? Na verdade, não sei de onde veio o nome, acho que sempre foi chamado assim.
+ Antes mesmo de eu chegar aqui. Tem uma espécie de som romântico, não é? Ko-ko-weef. Sim,
+ eu ainda gosto do jeito que soa.}
+{201}{}{Sim, ok. Uh, o que você disse que é meu aqui?}
+{202}{}{Uh, huh. Bem, eu vou sair agora. Tchau.}
