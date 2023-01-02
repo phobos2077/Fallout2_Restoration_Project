@@ -1,22 +1,22 @@
 {100}{}{Você vê um homem calvo em um bata de laboratório.}
-{101}{}{You see Tom Murray, the head of the Atomic Energy Commission.}
-{102}{}{You see a very nervous old man in a pristine lab coat.}
-{103}{}{My machine! My beautiful machine gone. (Sob, sob.)}
-{104}{}{We're doomed.}
-{105}{}{Without the computer online the reactor will meltdown!}
-{106}{}{I can't even swim.}
+{101}{}{Você vê Tom Murray, o chefe da Comissão de Energia Atômica.}
+{102}{}{Você vê um velho muito nervoso em um jaleco imaculado.}
+{103}{}{Minha máquina! Minha bela máquina se foi. (Soluço, soluço.)}
+{104}{}{Estamos condenados.}
+{105}{}{Sem o computador conectado, o reator vai derreter!}
+{106}{}{Eu não sei nem nadar.}
 {107}{}{Talvez eu possa consertá-lo...}
-{108}{}{What's the alarm ringing about?}
-{109}{}{What's going on here?}
-{110}{}{Don't panic, anyone. DON'T PANIC!!!!!!!!!!!!}
-{111}{}{OK, stay calm. }
-{112}{}{Maybe this is just a drill.}
-{113}{}{Get back to the detention level.}
-{114}{}{You really can tell the difference.}
-{115}{}{Your forehead is quite beetling.}
-{116}{}{Your cranial capacity isn't quite up to snuff is it?}
-{117}{}{If you're good, I'll make sure you get a cracker when you get back to your cell.}
-{118}{}{You there, you're not supposed to wear that stuff in here.}
+{108}{}{Por que o alarme está tocando?}
+{109}{}{O que está acontecendo aqui?}
+{110}{}{Não entre em pânico, ninguém. NÃO ENTRAR EM PÂNICO!!!!!!!!!!!!}
+{111}{}{Certo, fiquem calmos. }
+{112}{}{Talvez seja apenas um exercício.}
+{113}{}{Volte para o nível de detenção.}
+{114}{}{Você realmente pode notar a diferença.}
+{115}{}{Sua testa incha terrivelmente.}
+{116}{}{Você tem pouca capacidade craniana para fazer isso, né?}
+{117}{}{Se você estiver bem, vou garantir que você receba um biscoito quando voltar para sua cela.}
+{118}{}{Você aí, você não deveria usar essas coisas aqui.}
 {119}{}{I'll wear my armor wherever I want to.}
 {120}{}{Oh, sorry, sir. I'll be going then.}
 {121}{}{You will, huh? Well, I'll just have to report you then.}

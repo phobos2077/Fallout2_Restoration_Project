@@ -63,23 +63,23 @@
 {162}{}{Tchau e boa sorte para você.}
 {163}{}{Obrigado, mas deixe eu te perguntar outra coisa primeiro.}
 {164}{}{Tenho a sensação de que vou precisar. Tchau.}
-{165}{}{To turn off these forcefields, I think you're going to have to turn off the main power supply.}
-{166}{}{How the heck am I going to manage that?}
-{167}{}{I've been listening and I think that the power reactor is controlled by a large computer three levels below us. If you manage to blow that up, it should turn off the power and we can go free.}
-{168}{}{Great idea. I can use my explosives to blow up the computer. Then you can run topside to my ship. I'll be right behind you.}
-{169}{}{Great idea but I don't know how I can blow up the reactor. I don't have any explosives.}
-{170}{}{I'm sure that wherever the guards have their barracks that they must have an arsenal. They'll have explosives there, I'm certain of it.}
-{171}{}{Good idea. I can get the explosives and use them to blow up the computer. Then you can run topside to my ship. I'll be right behind you.}
-{172}{}{We don't use that term anymore. There used to be an overseer, many years ago, but he did a bad thing and many of our people left the vault - only to die in the wastes, I'm sure. He was tried and sentenced to death for his crime. We haven't used the title since.}
-{173}{}{I don't blame you. I understand that an overseer kicked my ancestor, the Vault Dweller, out into the wastes. }
-{174}{}{The Vault Dweller? How long ago was that? Say, about eighty years perhaps?}
-{175}{}{Yes, It was eighty years ago. How did you know that?}
-{176}{}{Eighty years ago, a hero saved our vault and then the Overseer exiled him. Others followed him into exile and they were never heard from again. We remember the event with shame.}
-{177}{}{Hey! You're talking about *my* ancestor and the people who founded my village. They all came from the Vault of the Holy 13.}
-{178}{}{As well you should. Let me ask you about something else.}
-{179}{}{I don't think you've suffered enough for that yet. Goodbye.}
-{180}{}{Incredible, that's our vault! Once again, the people of the vault must rely upon - uh, this time - the great grandson, of the Vault Dweller to save us.}
-{181}{}{Incredible, that's our vault! Once again, the people of the Vault must rely upon - uh, this time - the great granddaughter, of the Vault Dweller to save us.}
-{182}{}{I wish I knew how to save you.}
+{165}{}{Para desligar esses campos de força, acho que você terá que desligar a fonte de alimentação principal.}
+{166}{}{Mas como eu vou conseguir isso?}
+{167}{}{Estive ouvindo e acho que o reator de energia é controlado por um grande computador três níveis abaixo de nós. Se você conseguir destruir isso, deve desligar a energia e podemos ficar livres.}
+{168}{}{Boa ideia, posso usar meus explosivos para explodir o computador. Depois você pode correr direto para o meu navio. Estarei logo atrás de você.}
+{169}{}{Ótima ideia, mas não sei como posso explodir o reator. Não tenho explosivos.}
+{170}{}{Tenho certeza de que onde quer que os guardas tenham seus quartéis, eles devem ter um arsenal. Terão explosivos lá, tenho certeza.}
+{171}{}{Boa ideia, posso pegar os explosivos e usá-los para explodir o computador. Então você pode correr direto para o meu navio. Estarei logo atrás de você.}
+{172}{}{Não usamos mais esse termo. Costumava haver um supervisor, muitos anos atrás, mas ele fez uma coisa ruim e muitos de nosso pessoal deixaram a Vault - apenas para morrer no deserto, tenho certeza. Ele foi julgado e condenado à morte por seu crime. Não usamos o título desde então.}
+{173}{}{Não te culpo. Eu sei muito bem que um supervisor expulsou meu ancestral, o Morador da Vault, para o deserto. }
+{174}{}{O Morador do Vault? Há quanto tempo foi isso? Tipo, uns oitenta anos, talvez?}
+{175}{}{Sim, foi há oitenta anos. Como você soube disso?}
+{176}{}{Oitenta anos atrás, um herói salvou nossa vault e então o Supervisor o exilou. Outros o seguiram para o exílio e nunca mais se ouviu falar deles. Sempre relembramos o acontecimento com vergonha.}
+{177}{}{Ei! Você está falando sobre *meu* ancestral e as pessoas que fundaram minha aldeia. Todos eles vieram da Sagrada Vault 13.}
+{178}{}{Você também deveria. Deixe eu te perguntar sobre outra coisa.}
+{179}{}{Acho que você ainda não pagou todos os pecados por isso. Tchau.}
+{180}{}{Incrível, essa é a nossa vault! Mais uma vez, o povo da Vault deve contar com... uh, desta vez, com o bisneto do Morador da Vault para nos salvar.}
+{181}{}{Incrível, essa é a nossa vault! Mais uma vez, o povo da Vault deve contar com... uh, desta vez, com a bisneta do Morador da Vault para nos salvar.}
+{182}{}{Eu gostaria de saber como te salvar.}
 {183}{}{Eu vou pensar sobre isso.}
-{184}{}{What a bizarre coincidence! Let me ask you about something else.}
+{184}{}{Que coincidência bizarra! Deixe eu te perguntar sobre outra coisa.}

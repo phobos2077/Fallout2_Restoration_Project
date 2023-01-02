@@ -29,7 +29,7 @@
  came from the Vault.}
 {123}{}{Well, that makes a bit more sense. Well, it's good to hear my friend did well. Well, old Ian's
  got some advice for you. You be careful out there. This place ain't as peachy as it seems. }
-{124}{}{What's going on here?}
+{124}{}{O que está acontecendo aqui?}
 {125}{}{Well, the Vault Citizens think very highly of their bloodline and don't care much for
  people like me and you. You take this. It'll protect you if things get a little out of control.
  You probably shouldn't be seen talking with this crazy old man. Best get on your way.}
