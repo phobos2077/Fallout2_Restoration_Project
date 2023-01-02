@@ -84,5 +84,5 @@
 {183}{}{I LIKE CATS THE WORD SOUNDS LIKE CAR AND THATS WHAT I WATCH!}
 {184}{}{You like cars I WATCH'EM like a hawk with litty beady eyes.}
 {185}{}{Never get out ub my site I be watchen em somtimes people talk but I just keep watchn}
-{186}{}{Yeah, I am fine. YEAH, IM FINE, yeah.}
-{187}{}{Sure, dude, take it all.}
+{186}{}{Sim, estou bem. SIM, ESTOU BEM, sim.}
+{187}{}{Claro, cara, pegue tudo.}

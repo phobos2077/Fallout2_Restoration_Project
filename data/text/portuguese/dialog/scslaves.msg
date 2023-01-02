@@ -1,5 +1,5 @@
-{100}{}{You see a miserable wretch of human being.}
-{101}{}{You still see a miserable wretch of a human being.}
+{100}{}{Você vê um pobre coitado.}
+{101}{}{Você ainda vê um pobre coitado.}
 {102}{}{You see a really, really miserable wretch of a human being. Why are you staring?}
 {103}{}{Help me! Please, don't turn your back on me.}
 {104}{}{My master says I shouldn't talk to anybody.}

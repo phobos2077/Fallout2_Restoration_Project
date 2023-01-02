@@ -67,7 +67,7 @@
 {158}{}{Alright. I'll try to speak with him. Bye.}
 {159}{}{I will go speak with him then. I was curious about the molerats that are guarding the village though.}
 {200}{}{Hey, if you really are the same Ian that journeyed with my ancestor, then I've got a question for you.}
-{201}{}{Alright, let's hear it.}
+{201}{}{Tudo bem, vamos ouvi-lo.}
 {202}{}{How the hell are you still alive? You must be over a hundred years old. Not to mention the Vault Dweller's memoirs, which say you were burnt to death in Necropolis by a super mutant with a flame thrower.}
 {203}{}{[He barks gruff laughter for awhile; finally, he settles down and wipes a couple tears from his eyes.] Oh, that's rich. Burnt to death by a flame thrower, ha! You see, I told the Vault Dweller to make up some story about how I died, 'cause I didn't want any of our old enemies trying to hunt me down -- that's why I changed my name. I told him to have me going down in a blaze of glory, and it looks like he took that literally. Ha, that's classic.}
 {204}{}{Heh, I guess that solves that. I was curious about the molerats that are guarding the village though.}

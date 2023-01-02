@@ -12,21 +12,21 @@
 {111}{}{Era Hoss, filho da presidente Tandi. Rapaz, você com certeza ama a bunda dele!}
 {112}{}{President Tandi?}
 {113}{}{Tough guy, eh? Thanks.}
-{114}{}{Not much. If you're looking for trouble, go drink someplace else, like the Rawhide. If you're looking for work, there's the Westin place west of town. Heard some things about President Tandi looking for a specialist, too.}
-{115}{}{Specialist?}
+{114}{}{Não muito. Se você está procurando problemas, vá beber em outro lugar, como o Rawhide. Se você está procurando trabalho, há a Westin Place a oeste da cidade. Ouvi algumas coisas sobre a presidente Tandi procurando um especialista também.}
+{115}{}{Especialista?}
 {116}{}{President Tandi?}
 {117}{}{Obrigado.}
-{118}{}{Daughter of President Aradesh, the guy who founded NCR. She's been president for years. Does a good job too.}
-{119}{}{And she's looking for a specialist? What kind?}
-{120}{}{Who's the big guy?}
+{118}{}{Filha do presidente Aradesh, o homem que fundou a NCR. Ela é presidente há anos e faz um bom trabalho também.}
+{119}{}{E ela está procurando um especialista? Que tipo?}
+{120}{}{Quem é o grandalhão?}
 {121}{}{Obrigado.}
-{122}{}{Don't know. Gunther, her aide, probably does. He's down at the Hall of Congress.}
-{123}{}{Who's the big guy?}
+{122}{}{Não sei. Gunther, seu ajudante, provavelmente sim. Ele está no Hall do Congresso.}
+{123}{}{Quem é o grandalhão?}
 {124}{}{Obrigado.}
-{125}{}{Would you like a drink?}
+{125}{}{Quer tomar alguma coisa?}
 {126}{}{Com certeza.}
 {127}{}{Não.}
-{128}{}{Let me buy you a drink! I've been wanting to smack him around for years!}
+{128}{}{Deixe eu te pagar uma bebida! Eu tenho vontade de bater nele por anos!}
 {129}{}{I've got some questions.}
-{130}{}{Good! Bye.}
-{131}{}{Boy, you sure whooped Hoss's ass good! What can I get you?}
+{130}{}{Bom! Adeus.}
+{131}{}{Rapaz, você com certeza deu uma surra da boa no Hoss! O que posso pegar para você?}
