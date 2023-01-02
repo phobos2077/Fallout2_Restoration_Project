@@ -122,7 +122,7 @@
 {194}{}{You made the right choice. Thanks. I'm going to get right on this so we can put that excavator
  machine to work.}
 {195}{}{Great. Hey, let me ask you something else first, though.}
-{196}{}{Thanks for the cash. Goodbye.}
+{196}{}{Obrigado pelo dinheiro. Tchau.}
 {197}{}{Yeah? Gee, thanks. I'm getting all warm and cuddly feeling inside. What do you want?}
 {198}{}{I want to ask you about something.}
 {199}{}{Nothing. I'm just looking around. Goodbye.}

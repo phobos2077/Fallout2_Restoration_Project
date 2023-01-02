@@ -49,16 +49,16 @@
 {148}{}{Eu tenho coisas para fazer, vocês são todos homens mortos de qualquer forma. Tente aproveitar seus últimos minutos nesta terra. Descanse e fume um cigarro se der tempo. Tchau.}
 {149}{}{A menos que o que?!?}
 {150}{}{A menos que você me ajude a passar por Horrigan para chegar ao meu navio.}
-{151}{}{Never mind. I don't have time to discuss this. Goodbye.}
-{152}{}{Oh, yeah. Tell me another one. If the reactor's scragged how come the light's are still on? Huh, smartie? Heh, heh, tell me another one.}
-{153}{}{That's just the *emergency* lighting. Hey, I saw where the computer *was.* It's not broken, it's *gone.* I'm telling you, you're all goin' down for the count unless...}
-{154}{}{I don't have time to argue about this anymore. Hope you're all strong swimmers. Goodbye.}
-{155}{}{Don't you tell a pretty story. You make me laugh. Y'know, I think you might even last over the one-minute mark with Horrigan. That'd be a new record. Good luck, mutie.}
-{156}{}{Gee, aren't you generous. I better warm up first. On you and your squad.}
-{157}{}{You better hope that armor floats. Goodbye.}
-{158}{}{Okay, okay. I can't talk for everyone, but my squad and I will do our best to help you put that freak Horrigan away for good. I don't wanna drown like no rat.}
-{159}{}{Good thinking. Let's go get him. We've got to get out of here.}
-{160}{}{Sergeant Granite of EC Company.}
-{161}{}{EC Company?}
-{162}{}{Enclave Control Company. We're responsible for perimeter defense, *usually* that is.}
-{163}{}{Oh, I see. What do you mean *usually?*}
+{151}{}{Deixa para lá, não tenho tempo para discutir isso. Tchau.}
+{152}{}{Oh sim, me conta outra. Se o reator está danificado, como é que as luzes ainda estão acesas? Hein, espertinho? Heh, heh, me conta outra.}
+{153}{}{Essa é só a iluminação de *emergência*. Ei, eu vi onde o computador *estava.* Não está quebrado, ele *desapareceu.* Estou te dizendo, você vai ser outro morto, a menos que...}
+{154}{}{Não tenho mais tempo para discutir sobre isso. Espero que todos vocês sejam bons nadadores. Tchau.}
+{155}{}{Não conte uma história bonita, você é bem engraçado. Sabe, acho que você pode até durar mais de um minuto com Horrigan, isso seria um novo recorde. Boa sorte, mutante.}
+{156}{}{Puxa, você não é generoso, é melhor eu me aquecer primeiro, com você e seu esquadrão.}
+{157}{}{É melhor torcer que a armadura flutue. Tchau.}
+{158}{}{Está bem, está bem. Não posso falar pelos outros, mas meu esquadrão e eu faremos o possível para ajudá-lo a passar por aquela aberração do Horrigan. Eu não quero me afogar como nenhum rato.}
+{159}{}{Boa escolha, vamos por ele. Temos que sair daqui.}
+{160}{}{Sargento Granite da Companhia CE.}
+{161}{}{Companhia CE?}
+{162}{}{Companhia de Controle da Enclave. Somos responsáveis pela defesa do perímetro, *normalmente* isso é.}
+{163}{}{Oh, entendo. O que quer dizer com *normalmente?*}

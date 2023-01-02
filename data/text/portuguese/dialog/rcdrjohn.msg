@@ -210,35 +210,35 @@
 {265}{}{I'm not sure I should tell you.}
 {266}{}{Oh? And what did this rumor say?}
 {267}{}{That mine production is way down and gold prices are way up.}
-{268}{}{Oh, just the usual garbage. Hey, let me ask you about something else, Doc.}
-{269}{}{That's true. The miners here are all getting high on Jet instead of working. So exports are
- down and prices are up. This situation can't last.}
-{270}{}{That's not good. Hmm, let me ask you about something else.}
-{271}{}{That doesn't sound good, Doc. Goodbye.}
-{272}{}{It's because my patients usually pass out before they get to screamin' too much. It's kind of a
- joke.}
-{273}{}{I see. Well, that's uh, comforting. I guess. Let me ask you something else, then.}
-{274}{}{I think I need to be going. I just remembered an important appointment that I have, uh,
- somewhere. Uh, goodbye, Doc.}
-{275}{}{You can tell me. I'm a doctor.}
-{276}{}{Oh, yeah. Well, okay. He told me that gold production here in Redding is way down and prices are
- way up.}
-{277}{}{I read something about that, too. It's not too hard to do if you've got the training. And the
- equipment.}
-{278}{}{Do you have what you need to perform the operations?}
-{279}{}{Mostly. I have the skill and the training, but I don't have the implant material.}
-{280}{}{So, what does that mean?}
-{281}{}{That means that we'll just have to improvise. I think I can get what I need from a set of
- standard combat armor. I can take the concussive protection plates and also the thermal cells from the
- armor.}
-{282}{}{That's great. So you can do it?}
-{283}{}{Well, yes - but if I pack too much armor in, the patient sure isn't going to win any beauty prizes.}
-{284}{}{I don't care about that; I just want the protection. What can you do, exactly?}
-{285}{}{There are actually four different operations that can be performed. There's Dermal Impact Armor
- that protects against impact, and there's Phoenix Armor Implants that protects against heat. Then each
- one has an Assault Enhancement as well. You have to get the basic armor before you can get the Assault
- Enhancement.}
-{286}{}{What operation did you want to know about?}
+{268}{}{Oh, apenas o lixo de sempre. Ei, me deixe perguntar sobre outra coisa, Doc.}
+{269}{}{Isso é verdade. Os mineiros aqui estão todos ficando chapados com jet em vez de trabalhar, portanto, as
+ exportações caíram e os preços subiram. Esta situação não pode durar.}
+{270}{}{Isso não é bom. Hmm, deixe eu te perguntar sobre outra coisa.}
+{271}{}{Isso não parece bom, doutor. Tchau.}
+{272}{}{É porque meus pacientes geralmente desmaiam antes de começar a gritar demais. É meio que
+ uma piada.}
+{273}{}{Entendo, bem, isso é reconfortante, eu acho. Deixe eu te perguntar outra coisa, então.}
+{274}{}{Acho que preciso ir. Acabei de me lembrar de um compromisso importante que tenho,
+ uh, em algum lugar. Adeus, doutor.}
+{275}{}{Você pode me dizer, eu sou um médico.}
+{276}{}{Oh sim, bem, tudo bem. Ele me disse que a produção de ouro aqui em Redding está muito baixa e
+ os preços estão muito altos.}
+{277}{}{Também li algo sobre isso. Não é muito difícil de fazer se você tiver o treinamento... e o
+ equipamento.}
+{278}{}{Você tem o que precisa para realizar as operações?}
+{279}{}{A maioria. Tenho a habilidade e o treinamento, mas não tenho o material do implante.}
+{280}{}{Então, o que isso significa?}
+{281}{}{Isso significa que teremos que improvisar. Acho que posso conseguir o que preciso
+ com um conjunto de armadura de combate padrão. Posso pegar as placas de proteção contra choques
+ e também as células térmicas da armadura.}
+{282}{}{Isso é ótimo. Então você pode fazer isso?}
+{283}{}{Bem, sim - mas se eu colocar muita armadura, o paciente certamente não ganhará nenhum prêmio de beleza.}
+{284}{}{Eu não me importo com isso; eu só quero a proteção. O que você pode fazer, exatamente?}
+{285}{}{Na verdade, existem quatro operações diferentes que podem ser executadas. Temos o Armadura
+ Dérmica de Impacto que protege contra o impacto, e há os Implantes de Armadura da Fênix que protegem
+ contra o calor. E cada um também tem um aprimoramento de assalto. Você precisa obter a armadura básica
+ antes de obter o aprimoramento de assalto.}
+{286}{}{Sobre qual operação você queria saber?}
 {287}{}{Acho que não quero fazer nada disso. Deixe-me perguntar sobre outra coisa.}
 {288}{}{Me conte mais sobre os implantes. Acho que vou querer que você me opere.}
 {289}{}{Acho que já aprendi o suficiente, eu vou ter que pensar sobre isso. Tchau.}
@@ -249,44 +249,44 @@
 {294}{}{O Aprimoramento de Assalto para o Implante da Armadura da Fênix.}
 {295}{}{Doutor, acho que prefiro perguntar sobre algo menos... uh, ofensivo.}
 {296}{}{Acho que não quero ouvir sobre uma operação agora. Tchau.}
-{297}{}{According to what I've read, Dermal Impact Armor gives you 5% resistance to normal and explosive
- damage - over and above any other armor you're wearing. The operation takes about two days, one suit of
- Combat Armor (for parts), and it will cost you $5,000. This procedure should be fairly simple... I think.
- Hmm, you may not even scar all that badly.}
-{298}{}{That sounds great, Doc. Let's do it. I just hate getting shot, stabbed, and blown up all the
- damn time.}
-{299}{}{Let me ask you about one of the other operations, Doc.}
-{300}{}{I'll have to come back when I have more money, Doc. Goodbye.}
-{301}{}{I'll have to come back when I dig up a set of Combat Armor, Doc. Goodbye.}
-{302}{}{I don't think I want to do this right now after all. Goodbye, Doc.}
-{303}{}{You need to have the Dermal Impact Armor installed before I can give you the Assault
- Enhancement. But I'll tell you what it should do. The Assault Enhancement should give you a total of
- 10% resistance to normal and explosive damage - over and above any other armor you're wearing. The
- operation takes a few days and it'll cost you $30,000. In addition, you're not going to be too
- Charismatic after I finish. Cramming all those impact plates under your skin is going to make you look
- pretty damn angular, but in a very streamlined way. But who doesn't like the way a new car looks - I'll
- try not to give you tail-fins.}
-{304}{}{The Assault Enhancement of the Dermal Impact Armor should give you a total of 10% resistance to
- normal and explosive damage - over and above any other armor you're wearing. The operation takes a few
- days and it'll cost you $30,000. In addition, you're not going to be too charismatic after I finish.
- Cramming all those impact plates under your skin is going to make you look pretty damn angular, but in
- a very streamlined way. But who doesn't like the way a new car looks - I'll try not to give you tail-fins.
- Ready to begin?}
-{305}{}{That sounds great, Doc. Let's do it. I'm all assault, all the time, and I don't mind looking the
- part.}
-{306}{}{Let me ask you about one of the other operations, Doc.}
-{307}{}{I'll have to come back when I have more money, Doc. Goodbye.}
-{308}{}{I'll have to come back when I dig up a set of Combat Armor, Doc. Goodbye.}
-{309}{}{I don't think I want to do this right now after all. Goodbye, Doc.}
+{297}{}{De acordo com o que li, a Armadura de Impacto Dérmico oferece 5% de resistência a danos normais
+ e explosivos - além de qualquer outra armadura que você esteja usando. A operação leva cerca de dois dias,
+ uma Armadura de Combate (para peças) e custará US$ 5.000. Este procedimento deve ser bastante
+ simples... eu acho. Hmm, você pode nem ter uma cicatriz muito aparente.}
+{298}{}{Parece ótimo, doutor, vamos fazer. É tão ruim ser baleado, esfaqueado e explodido o tempo
+ todo.}
+{299}{}{Deixe eu te perguntar sobre uma das outras operações, Doc.}
+{300}{}{Voltarei quando tiver mais dinheiro, doutor. Tchau.}
+{301}{}{Voltarei quando arrumar um conjunto de Armadura de Combate, doutor. Tchau.}
+{302}{}{Acho que não quero fazer isso agora, na verdade. Adeus, doutor.}
+{303}{}{Você precisa ter a Armadura de Impacto Dérmico instalada antes que eu possa te dar
+ o Aprimoramento de Ataque. Mas eu vou te dizer o que deve fazer. O Aprimoramento de Assalto deve
+ dar a você um total de 10% de resistência a dano normal e explosivo - além de qualquer outra armadura
+ que você esteja usando. A operação leva alguns dias e custará US$ 30.000. Além disso, você
+ não ficará muito carismático depois que eu terminar. Enfiar todas aquelas placas de impacto sob a pele
+ vai fazer você ficar meio "ossudo", mas de uma forma muito simplificada. Mas quem não gosta da
+ aparência de um carro novo - vou tentar não deixar você tão extravagante.}
+{304}{}{O Aprimoramento de Assalto da Armadura de Impacto Dérmico deve dar a você um total de 10%
+ de resistência a dano normal e explosivo - além de qualquer outra armadura que você esteja usando. A operação
+ leva alguns dias e custará US$ 30.000. Além disso, você não vai ser muito carismático depois que
+ eu terminar. Enfiar todas aquelas placas de impacto sob a pele vai fazer você parecer meio "ossudo", mas
+ de uma forma muito simplificada. Mas quem não gosta da aparência de um carro novo - tentarei não te
+ deixar meio extravagante. Pronto para começar?}
+{305}{}{Parece ótimo, doutor, vamos fazer. Ja estou no modo assalto, o tempo todo, e não me importo
+ com a aparência.}
+{306}{}{Deixe eu te perguntar sobre uma das outras operações, Doc.}
+{307}{}{Voltarei quando tiver mais dinheiro, doutor. Tchau.}
+{308}{}{Voltarei quando arrumar um conjunto de Armadura de Combate, doutor. Tchau.}
+{309}{}{Acho que não quero fazer isso agora, na verdade. Adeus, doutor.}
 {310}{}{According to the reports, Phoenix Armor Implants give you 5% resistance to thermal damage (fire,
  laser, and plasma) - over and above any other armor you're wearing. The operation takes a few days, one
  suit of Combat Armor (for the thermal-dissipative membranes), and it will cost you $8,000. Not to worry,
  though; this operation *should* create only minimal scarring - at least that's what I read.}
 {311}{}{That sounds great, Doc. I sure won't have to worry about extra sunscreen after this.}
-{312}{}{Let me ask you about one of the other operations, Doc.}
-{313}{}{I'll have to come back when I have more money, Doc. Goodbye.}
-{314}{}{I'll have to come back when I dig up a set of Combat Armor, Doc. Goodbye.}
-{315}{}{I don't think I want to do this right now after all. Goodbye, Doc.}
+{312}{}{Deixe eu te perguntar sobre uma das outras operações, Doc.}
+{313}{}{Voltarei quando tiver mais dinheiro, doutor. Tchau.}
+{314}{}{Voltarei quando arrumar um conjunto de Armadura de Combate, doutor. Tchau.}
+{315}{}{Acho que não quero fazer isso agora, na verdade. Adeus, doutor.}
 {316}{}{You need to have the Phoenix Armor Implants before I can give you the Assault Enhancement. But
  I'll tell you what it should do. The Assault Enhancement should give you a total of 10% resistance to
  thermal damage (fire, laser, and plasma) - over and above any other armor you're wearing. The operation
@@ -299,10 +299,10 @@
  Charismatic after I finish. Cramming all those impact plates under your skin is going to make you look
  a bit lumpy, sort of like an overstuffed burrito. Ready to begin?}
 {318}{}{That sounds great, Doc. Let's do it.}
-{319}{}{Let me ask you about one of the other operations, Doc.}
-{320}{}{I'll have to come back when I have more money, Doc. Goodbye.}
-{321}{}{I'll have to come back when I dig up a set of Combat Armor, Doc. Goodbye.}
-{322}{}{I don't think I want to do this right now after all. Goodbye, Doc.}
+{319}{}{Deixe eu te perguntar sobre uma das outras operações, Doc.}
+{320}{}{Voltarei quando tiver mais dinheiro, doutor. Tchau.}
+{321}{}{Voltarei quando arrumar um conjunto de Armadura de Combate, doutor. Tchau.}
+{322}{}{Acho que não quero fazer isso agora, na verdade. Adeus, doutor.}
 {323}{}{There, that should do it. The operation was a success. You shouldn't have to worry about bumps
  and bruises so much anymore. That swelling and tenderness will go down in a few days.}
 {324}{}{I wouldn't have thought that your skin could accommodate so many of those impact plates, but

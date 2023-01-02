@@ -1,68 +1,68 @@
-{100}{}{You see a haggard-looking man in a blue suit.}
-{101}{}{You see Martin Frobisher, spokesman for the Vault 13 prisoners.}
-{102}{}{You see a haggard man in a blue vault suit just like yours.}
+{100}{}{Você vê um homem de aparência abatida em uma roupa azul.}
+{101}{}{Você vê Martin Frobisher, porta-voz dos prisioneiros da Vault 13.}
+{102}{}{Você vê um homem abatido em uma roupa azul igual a sua.}
 {103}{}{Tira a gente daqui!}
-{104}{}{Turn off the power to the doors.}
-{105}{}{Power off, we go free!}
-{106}{}{Get us OUT of here!}
-{107}{}{Power off! Door open!}
-{108}{}{We are so screwed.}
-{109}{}{Get us out before they run more tests.}
+{104}{}{Desliga a energia das portas.}
+{105}{}{Desligue, nos liberte!}
+{106}{}{Nos TIRE daqui!}
+{107}{}{Desligue! Abra a porta!}
+{108}{}{Estamos fodidos.}
+{109}{}{Nos tire daqui antes que façam mais testes.}
 {110}{}{Quem são essas pessoas?}
-{111}{}{Why me? Why us?}
-{112}{}{We've got to get out of this place.}
-{113}{}{Hey you, over here!}
-{114}{}{Are you looking for me?}
-{115}{}{Want to know what happened?}
+{111}{}{Por que eu? Por que nós?}
+{112}{}{Temos que sair deste lugar.}
+{113}{}{Ei você, aqui!}
+{114}{}{Você está procurando por mim?}
+{115}{}{Quer saber o que aconteceu?}
 {116}{}{Ajuda!}
-{117}{}{I'm Martin, over here.}
-{118}{}{Hey, you, I'm Frobisher. Here!}
-{119}{}{Over heeeere!}
-{120}{}{Helloooooo!}
-{121}{}{Come here!}
-{122}{}{I can tell you what you want to know.}
-{123}{}{My name's Martin.}
+{117}{}{Eu sou Martin, aqui.}
+{118}{}{Ei, você, eu sou Frobisher. Aqui!}
+{119}{}{Por aquiiiiii!}
+{120}{}{Olaaaaa!}
+{121}{}{Venha aqui!}
+{122}{}{Posso dizer o que você quer saber.}
+{123}{}{Meu nome é Martin.}
 {124}{}{Eu posso te contar o que aconteceu.}
-{125}{}{Hello there, I'm Martin Frobisher. I speak for these people. Thank God you're here.}
+{125}{}{Olá, sou Martin Frobisher, eu falo por essas pessoas. Graças a Deus você está aqui.}
 {126}{}{O que você gostaria de saber?}
-{127}{}{Nice outfits, just like mine. Who are you people?}
-{128}{}{What are you people doing here?}
-{129}{}{Are you the Overseer?}
-{130}{}{How did you people get here?}
-{131}{}{Nice to meet you Martin, but I've got people to free. Goodbye.}
-{132}{}{Yes, I'd hoped that's why you were here. You've got to free us.}
-{133}{}{Free you? I was just going to free my tribe.}
-{134}{}{Of course, I wouldn't let anyone stay trapped in this place.}
-{135}{}{What are you people doing here anyway?}
-{136}{}{They're using us to test some sort of antidote for a fatal virus.}
-{137}{}{What kind of virus?}
-{138}{}{That doesn't sound good. Let me ask you something else.}
-{139}{}{Lucky you. Maybe now you know the pain my ancestor, the Vault Dweller, felt. I hope you all burn. Goodbye.}
-{140}{}{They call it the F.E.V. toxin. It does horrible things to people, before it kills them. The only *good* thing about it is that it kills so quickly. Sure looks painful though.}
-{141}{}{That sounds nasty. Why are they using your people for a test?}
-{142}{}{They took us all from our vault because they wanted test subjects for the antidote. They needed people from outside the Enclave, and who were still pure-strain-humans. So they took us.}
-{143}{}{They took you? How, from where?}
-{144}{}{They came to the front door of the vault. Somehow they already knew the security code. They just opened the door and their armored troopers marched us into vertibirds and flew us here. Then the experiments began. (He shudders.)}
-{145}{}{That sounds bad. Let me ask you something else.}
-{146}{}{The vault? Which vault are you from?}
-{147}{}{Why, Vault 13, of course.}
-{148}{}{I went there looking for a GECK.}
-{149}{}{I went there to ask for your GECK to save my people. But you were already gone. Only the GECK remained.}
-{150}{}{I was looking for that. Hey, are you the Overseer?}
-{151}{}{A GECK? We must have a couple of them. You're welcome to one. I think I saw some troopers loading one of our GECKs into a vertibird.}
-{152}{}{You saw them load a GECK? Do you know where they put it?}
-{153}{}{That's okay. I already helped myself to a GECK from our vault. Let me ask you something else.}
-{154}{}{I don't know exactly where they put it but I did hear them say that they were going to leave it in the barrier level, just below this level, I think.}
-{155}{}{That's great. Thanks. I better be going.}
-{156}{}{Ah, I see. Let me ask you something else.}
-{157}{}{Wait! You've got to get us out of this place.}
-{158}{}{I plan to. I'm going downstairs to the power plant to shut the power off and free you. When the fields are down, run topside for the ship I've got there.}
-{159}{}{How can I do that?}
-{160}{}{You should have thought of that *before* you kicked my ancestor out of the vault. I hope you all rot here. Goodbye.}
-{161}{}{Thank you. Godspeed and good luck to you friend.}
-{162}{}{Goodbye and good luck to you.}
-{163}{}{Thanks, but let me ask you something else first.}
-{164}{}{I've got a feeling I'll need it. Goodbye.}
+{127}{}{Roupas bonitas, iguais as minhas. Quem são vocês?}
+{128}{}{O que vocês estão fazendo aqui?}
+{129}{}{Voce é o Supervisor?}
+{130}{}{Como vocês chegaram aqui?}
+{131}{}{Prazer em conhecê-lo, Martin, mas tenho pessoas para salvar. Tchau.}
+{132}{}{Sim, eu esperava que fosse por isso que você estava aqui. Você tem que nos libertar.}
+{133}{}{Te libertar? Eu só ia libertar minha tribo.}
+{134}{}{Claro, eu não deixaria ninguém ficar preso neste lugar.}
+{135}{}{O que vocês estão fazendo aqui afinal?}
+{136}{}{Eles estão nos usando para testar algum tipo de antídoto para um vírus fatal.}
+{137}{}{Que tipo de vírus?}
+{138}{}{Isso não parece bom. Deixe eu te perguntar outra coisa.}
+{139}{}{Que sorte. Talvez agora você conheça a dor que meu ancestral, o Morador da Vault, sentiu. Espero que todos queimem, tchau.}
+{140}{}{Eles chamam isso de toxina F.E.V.. Ela faz coisas horríveis com as pessoas antes de matá-las. A única coisa *boa* sobre isso é que mata rapidamente, mas claro que parece doloroso.}
+{141}{}{Isso parece terrivel. Por que eles estão usando seu pessoal para um teste?}
+{142}{}{Eles nos tiraram de nossa Vault porque queriam cobaias para o antídoto. Eles precisavam de pessoas de fora da Enclave, e que ainda fossem humanos puros. Então eles nos levaram.}
+{143}{}{Eles levaram vocês? Como, de onde?}
+{144}{}{Eles chegaram à porta da frente da Vault. De alguma forma, eles já conheciam o código de segurança. Eles só abriram a porta e seus soldados blindados nos levaram até os vertibirds e nos trouxeram até aqui. Então começaram os experimentos. (Ele estremece.)}
+{145}{}{Isso parece mal. Deixe eu te perguntar outra coisa.}
+{146}{}{Vault? De qual vault você é?}
+{147}{}{Da Vault 13, é claro.}
+{148}{}{Eu fui lá procurando um GECK.}
+{149}{}{Fui lá pedir seu GECK para salvar meu povo. Mas você já tinha ido, só o GECK permaneceu.}
+{150}{}{Isso é o que eu estava procurando. Ei, você é o Supervisor?}
+{151}{}{Um GECK? Devemos ter alguns deles, pode ficar com um. Acho que vi alguns soldados carregando um de nossos GECKs em um vertibird.}
+{152}{}{Você os viu carregar um GECK? Você sabe onde eles colocaram?}
+{153}{}{Tudo bem, já peguei um GECK de sua vault. Deixe eu te perguntar outra coisa.}
+{154}{}{Eu não sei exatamente onde eles colocaram, mas eu ouvi eles dizerem que eles iriam deixá-lo no nível da barreira, logo abaixo deste nível, eu acho.}
+{155}{}{Isso é ótimo, obrigado. É melhor eu ir.}
+{156}{}{Entendo. Deixe eu te perguntar outra coisa.}
+{157}{}{Espere! Você tem que nos tirar deste lugar.}
+{158}{}{Eu vou fazer. Vou descer até a usina para desligar a energia e libertar vocês. Quando os campos forem desativados, corra para o navio que tenho lá fora.}
+{159}{}{Como eu posso fazer isso?}
+{160}{}{Você deveria ter pensado nisso *antes* de expulsar meu ancestral da vault. Espero que todos apodreçam aqui, tchau.}
+{161}{}{Obrigado. Que de tudo certo com voce, amigo.}
+{162}{}{Tchau e boa sorte para você.}
+{163}{}{Obrigado, mas deixe eu te perguntar outra coisa primeiro.}
+{164}{}{Tenho a sensação de que vou precisar. Tchau.}
 {165}{}{To turn off these forcefields, I think you're going to have to turn off the main power supply.}
 {166}{}{How the heck am I going to manage that?}
 {167}{}{I've been listening and I think that the power reactor is controlled by a large computer three levels below us. If you manage to blow that up, it should turn off the power and we can go free.}
