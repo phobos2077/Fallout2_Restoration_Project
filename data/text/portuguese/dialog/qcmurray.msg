@@ -17,32 +17,32 @@
 {116}{}{Você tem pouca capacidade craniana para fazer isso, né?}
 {117}{}{Se você estiver bem, vou garantir que você receba um biscoito quando voltar para sua cela.}
 {118}{}{Você aí, você não deveria usar essas coisas aqui.}
-{119}{}{I'll wear my armor wherever I want to.}
-{120}{}{Oh, sorry, sir. I'll be going then.}
-{121}{}{You will, huh? Well, I'll just have to report you then.}
-{122}{}{Go ahead. Make my day.}
-{123}{}{Oh, please don't do that. I'm leaving now. Goodbye.}
-{124}{}{I'm Tom Murray, head of the Atomic Energy Commission. I control our atomic power plant here. Who the hell are you and what are you doing here?}
-{125}{}{What the hell do you want now?}
-{126}{}{I need to shut down your atomic reactor.}
-{127}{}{I was just curious as to how your reactor works.}
-{128}{}{I need to exterminate you.}
-{129}{}{Help! Help me! Help!}
-{130}{}{Intruders! Alert!}
-{131}{}{Run for your lives! The primitives are loose!}
-{132}{}{Guards! Heeeeeeelllllp!}
+{119}{}{Eu vou usar minha armadura onde eu quiser}
+{120}{}{Desculpe, senhor. Estou indo então.}
+{121}{}{Você vai, eh? Bem, eu vou ter que te denunciar.}
+{122}{}{Vá em frente, alegre meu dia.}
+{123}{}{Ah, por favor, não faça isso, estou saindo agora. Tchau.}
+{124}{}{Sou Tom Murray, chefe da Comissão de Energia Atômica, eu controlo nossa usina atômica aqui. E quem seria você e o que está fazendo aqui?}
+{125}{}{Que diabos você quer agora?}
+{126}{}{Preciso desligar seu reator atômico.}
+{127}{}{Só estava curioso para saber como funciona o seu reator.}
+{128}{}{Preciso te exterminar.}
+{129}{}{Socorro! Me ajudem! Socorro!}
+{130}{}{Intruso! Alerta!}
+{131}{}{Corra por suas vidas! Os primitivos se soltaram!}
+{132}{}{Guardas! Socoooooorrroooo!}
 {133}{}{Alerta de intrusão! Alerta de intrusão!}
-{134}{}{Shut it down? Are you crazed? You're not going to shut down *my* reactor.}
-{135}{}{Yes, I am. You better tell me how, or I'll shut you down, permanently.}
-{136}{}{Did I say shut down? I'm sorry, I just wanted to know how your reactor works.}
-{137}{}{Oh, it's yours? I'm sorry, I didn't realize that. Well, Goodbye then.}
-{138}{}{Here, I tell you what. I'll do it for you. But if you try to shut it down too fast it'll overheat.}
-{139}{}{I don't care about that. Just shut down the reactor, or I'll gut you like a fish.}
-{140}{}{That sounds dangerous. Well, OK, just forget it. Goodbye.}
-{141}{}{You're bluffing. You wouldn't dare.}
-{142}{}{Yes, I would. If you don't help me, you're a dead man.}
-{143}{}{I tried to let you cooperate, but you wouldn't do it. Oh well, can't let you sound the alarm. }
-{144}{}{Hey, I was just kidding. How does your reactor work anyway?}
+{134}{}{Desligar isso? Esta ficando maluco? Você não vai desligar o *meu* reator.}
+{135}{}{Sim, eu vou. É melhor me dizer como, ou te mato aqui mesmo.}
+{136}{}{Eu falei em desligar? Desculpe, só queria saber como funciona o seu reator.}
+{137}{}{Ah, é seu? Me desculpe, eu não percebi isso. Bem, adeus então.}
+{138}{}{Ok, eu faço isso por você. Mas se você tentar desligar muito rapidamente, ele vai superaquecer.}
+{139}{}{Eu não me importo com isso. Apenas desligue o reator, ou te estripo como um peixe.}
+{140}{}{Isso me parece perigoso. Bem, ok, apenas esqueça, tchau.}
+{141}{}{Você está blefando, você não ousaria.}
+{142}{}{Sim, eu faria. Se você não me ajudar, vai ser um homem morto.}
+{143}{}{Tentei fazer você cooperar, mas não quis saber. Então, não posso deixar você soar o alarme. }
+{144}{}{Ei, eu só estava brincando. Como funciona o seu reator?}
 {145}{}{Yeah, I guess you're right. You better just keep quiet for a while after I'm gone though. Goodbye.}
 {146}{}{Okay, okay. I'll do it. Just take it easy now. But I'm telling you - it's going to overheat as soon as I put the containment rods down. If we perform a crash shutdown like this we'll have to scram the whole reactor-or we better learn to speak Chinese.}
 {147}{}{Yeah, whatever. Just shut the damn thing down right now!}
