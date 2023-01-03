@@ -98,46 +98,46 @@
 {198}{}{Executive Office Area: Security turrets currently at Deactivated Maintenance status.}
 {199}{}{Information and Power plant Level: Security turrets currently at Armed Alert status.}
 {200}{}{Information and Power plant Level: Security turrets currently at Normal status.}
-{201}{}{Information and Power plant Level: Security turrets currently at Deactivated Maintenance status.}
-{202}{}{Adjust security level.}
-{203}{}{State of the Nation: Current status}
+{201}{}{Nível de Informação e Usina: Torretas de segurança atualmente com status de Desativadas para Manutenção.}
+{202}{}{Ajustar o nível de segurança.}
+{203}{}{Estado da Nação: Situação atual}
 {204}{}{Download Word List.}
 {205}{}{Download Chemical Corps: Project Status Report.}
 {206}{}{Download A. E. C.: Atomic Power plant Operations.}
-{207}{}{Security status.}
+{207}{}{Estado de segurança.}
 {208}{}{Return to User ID:}
 {209}{}{Download complete.}
-{210}{}{Download State of the Nation: Current status.}
+{210}{}{Baixar Estado da Nação: Status atual.}
 {211}{}{Download Word List.}
 {212}{}{Security/Level: Current Status}
 {213}{}{Download A. E. C.: Atomic Power plant Operations.}
 {215}{}{Security Status.}
 {216}{}{Return to User ID:}
 {217}{}{Download complete.}
-{218}{}{Download State of the Nation: Current status.}
+{218}{}{Baixar Estado da Nação: Status atual.}
 {219}{}{Download Word List.}
-{220}{}{Security/Level: Current status}
+{220}{}{Segurança/nível: Status atual}
 {221}{}{Download Chemical Corps: Project Status Report.}
-{222}{}{Security status.}
+{222}{}{Estado de segurança.}
 {223}{}{Return to User ID:}
-{224}{}{This terminal currently running deep diagnostic. Please try another terminal. Thank-you.}
-{225}{}{Welcome to PoseidoNet Help system. We regret that your Help files are currently out of date, and unavailable. Seek Help file update? (Y/N)}
+{224}{}{Este terminal atualmente está executando um diagnóstico profundo, tente outro terminal. Obrigado.}
+{225}{}{Bem vindo ao sistema de ajuda PoseidoNet. Lamentamos que seus arquivos de ajuda estejam desatualizados e indisponíveis. Buscar atualização de arquivo de ajuda? (S/N)}
 {226}{}{Sim.}
-{227}{}{No, Back.}
-{228}{}{User Help file update not available with trial PoseidoNet software. Please purchase full version for full access to all further updates. Your trial period for PoseidoNet access is 59, 439 days overdue.}
-{229}{}{Back to Log On.}
-{230}{}{End session.}
-{231}{}{Security override requires Presidential-only passkey. Options allowed: Counter Insurgency, Emergency Defensive Systems Shutdown.}
-{232}{}{(I'll take a look at this one.) Counter Insurgency.}
-{233}{}{(I'll take a look at this one.) Emergency Defensive Systems Shutdown.}
-{234}{}{(Maybe I should try something less conspicuous) Return to User ID.}
-{235}{}{(I don't think I want to mess with this right now.) Log Off.}
-{236}{}{Counter Insurgency. In the event of an armed rebellion, Presidential Security Keycard allows defensive systems to be turned on all, previously loyal, but now threatening units within an area. Defensive systems are programmed to attack most dangerous foe first. Warning! Current operational level - Entry levels only!}
-{237}{}{(That sounds useful.) Activate Counter Insurgency Protocol.}
-{238}{}{(Maybe I'll give that a shot some other time.) Back.}
-{239}{}{(I don't want to play with the computer any more right now.) Log off.}
-{240}{}{Presidential Security Passkey recognized. Good day, Mr. President.... Emergency Counter Insurgency Protocol initiated... Target acquired.}
-{241}{}{(I think I'll stand back and see what happens.)}
+{227}{}{Não, atrás.}
+{228}{}{A atualização do arquivo de Ajuda do usuário não está disponível com o software PoseidoNet de avaliação. Adquira a versão completa para acesso total a todas as atualizações adicionais. Seu período de teste para acesso ao PoseidoNet está atrasado há 59.439 dias.}
+{229}{}{Retornar ao log.}
+{230}{}{Finalizar seção.}
+{231}{}{A substituição de segurança requer uma senha somente presidencial. Opções permitidas: Contra-Insurgência, Desligamento de Emergência dos Sistemas Defensivos.}
+{232}{}{(Vou dar uma olhada neste.) Contra-insurgência.}
+{233}{}{(Vou dar uma olhada neste.) Desligamento de Emergência dos Sistemas Defensivos.}
+{234}{}{(Talvez eu deva tentar algo menos chamativo) Retorne à ID do usuário.}
+{235}{}{(Acho que não quero mexer com isso agora.) Faça logoff.}
+{236}{}{Contra-Insurgência. No caso de uma rebelião armada, o Cartão de Segurança Presidencial permite que os sistemas defensivos sejam ativados em todas as unidades anteriormente leais, mas agora ameaçadoras dentro de uma área. Os sistemas defensivos são programados para atacar primeiro o inimigo mais perigoso. Aviso! Nível operacional atual - apenas níveis de entrada!}
+{237}{}{(Isso parece útil.) Ative o Protocolo de Contra-Insurgência.}
+{238}{}{(Talvez eu tente em outra oportunidade.) Volte.}
+{239}{}{(Não quero mais mexer com o computador agora.) Faça logoff.}
+{240}{}{Senha de Segurança Presidencial reconhecida. Bom dia, Sr. Presidente.... Protocolo de emergência Contra-Insurgência iniciado... Alvo adquirido.}
+{241}{}{(Acho que vou voltar para ver o que acontece).}
 {242}{}{Presidential Security Passkey recognized. Good day, Mr. President.... Emergency Counter Insurgency Protocol initiated...**Malfunction**... Security link offline on this level. Please submit form FG-I-106-32-0635 to authorize repair services. Thanks for using another fine Vault-Tec product. Good day.}
 {243}{}{(Maybe it'll work on the entry levels. Hmm, that must mean the area just before the dock. I'll have to give it a try there.) Return to User ID.}
 {244}{}{(I wonder what else I can try?) Back.}
@@ -146,7 +146,7 @@
 {247}{}{Emergency Defensive Systems Shutdown temporarily shuts down active security systems on a level by level basis. Shutdown starts deep diagnostic procedure before initiating auto-reboot of security systems.}
 {248}{}{(That sounds like something good to try.) Activate Emergency Defensive Systems Shutdown.}
 {249}{}{(Hmm, maybe I'll try this some other time.) Back.}
-{250}{}{(I don't want to play with the computer any more right now.) Log off.}
+{250}{}{(Não quero mais mexer com o computador agora.) Faça logoff.}
 {251}{}{Presidential Security Passkey recognized. Good day, Mr. President.... Emergency Defensive Systems Shutdown initiated... Performing deep diagnostic. Alpha....Bravo....Charlie....}
 {252}{}{(For some strange reason, I don't think I want to do this right now.) Back.}
 {253}{}{(I better get moving, while this thing is still running that diagnostic). Log off.}

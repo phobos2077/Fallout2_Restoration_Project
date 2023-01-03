@@ -43,16 +43,16 @@
 {142}{}{Sim, eu faria. Se você não me ajudar, vai ser um homem morto.}
 {143}{}{Tentei fazer você cooperar, mas não quis saber. Então, não posso deixar você soar o alarme. }
 {144}{}{Ei, eu só estava brincando. Como funciona o seu reator?}
-{145}{}{Yeah, I guess you're right. You better just keep quiet for a while after I'm gone though. Goodbye.}
-{146}{}{Okay, okay. I'll do it. Just take it easy now. But I'm telling you - it's going to overheat as soon as I put the containment rods down. If we perform a crash shutdown like this we'll have to scram the whole reactor-or we better learn to speak Chinese.}
-{147}{}{Yeah, whatever. Just shut the damn thing down right now!}
-{148}{}{That sounds dangerous. Maybe I better look for another way. I sure don't want to hurt anything here. Goodbye.}
-{149}{}{I'm not going to risk the lives of everyone here. No way. }
-{150}{}{I'm sorry to hear that. I guess I'll have to kill you then. Nothing personal.}
-{151}{}{How would that risk everyone's life? How does your reactor work anyway?}
-{152}{}{I guess I'll just have to find another way to shut down the power. You better not make any noise after I'm gone. Goodbye.}
-{153}{}{You got it. Okay, uh, slide this to green. (He fiddles with a control panel for a few minutes while he mutters to himself.) Okay, you got it, but it sure isn't going to stay stable for very long.}
-{154}{}{You did the right thing. Now, I've got to be going. You better just keep quiet in here for a while.}
+{145}{}{Sim, acho que você está certo. Mas é melhor você ficar quieto por um tempo enquanto eu saio. Tchau.}
+{146}{}{Está bem, está bem, eu faço isso, só vá com calma agora. Mas estou te dizendo: vai superaquecer assim que eu colocar as hastes de contenção no chão. Se fizermos um desligamento forçado como este, teremos que desorganizar todo o reator, ou é melhor aprendermos a falar chinês.}
+{147}{}{Sim, tanto faz. Só desligue essa bosta agora mesmo!}
+{148}{}{Isso me parece perigoso, talvez seja melhor eu procurar outro caminho. Eu com certeza não quero machucar nada por aqui. Tchau.}
+{149}{}{Não vou arriscar a vida de todos aqui, sem chance. }
+{150}{}{Sinto muito por ouvir isso, acho que vou ter que te matar então. Nada pessoal.}
+{151}{}{Como isso arriscaria a vida de todos? Como funciona o seu reator?}
+{152}{}{Acho que vou ter que encontrar outra maneira de desligar a energia. É melhor não fazer barulho depois que eu for embora. Tchau.}
+{153}{}{Você entendeu. Ok, uh, deslize isso para verde. (Ele mexe em um painel de controle por alguns minutos enquanto resmunga para si mesmo.) Ok, você entendeu, mas certeza que não vai ficar estável por muito tempo.}
+{154}{}{Você fez a coisa certa, agora, eu tenho que ir. É melhor você ficar quieto aqui por um tempo.}
 {155}{}{Good job. Now, I've got to kill you. Sorry, but I can't leave any witnesses.}
 {156}{}{I've got to be going. Goodbye.}
 {157}{}{I don't control that much of the reactor's operation. The central computer just north of the reactor controls most of the power plant functions. If that weren't there, we'd have no power at all.}

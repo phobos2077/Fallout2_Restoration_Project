@@ -158,42 +158,41 @@
  kick that old gal out of her home.}
 {225}{}{But you would have. Well, let's talk about something else.}
 {226}{}{Somehow, I knew you'd say something like that. Goodbye, Mayor.}
-{227}{}{You went too far with the Widow Rooney. She wasn't no threat to nobody. Why'd you have to go and
- kill her?}
-{228}{}{She had it coming.}
-{229}{}{It was an accident.}
-{230}{}{Had it coming? She weren't nothing but a little harmless old lady. You're plumb crazy. Just get
- out of here.}
-{231}{}{You talkin' to me?}
-{232}{}{I was already on my way out of this shack. Goodbye.}
-{233}{}{An accident? They still can't find all of her body parts. You just better make sure you don't
- make a habit out of accidents like that. They're bad for business.}
-{234}{}{I understand. Let me ask you about something else, Mayor.}
-{235}{}{I'll be more careful next time.}
-{236}{}{Yes, I'm talking to you. Do you see anyone else around that I might be talking to? Get the hell
- out of my bar.}
-{237}{}{Are *you* talkin' to *me*?}
-{238}{}{I'm going, I'm going.}
-{239}{}{What? Are you deaf or just stupid? *I'm* talking to *you*, all right. Now get out!}
-{240}{}{Well, you must be talkin' to me 'cause I don't see no one else around here.}
-{241}{}{All right. I'm leaving. Don't give yourself a stroke. Goodbye.}
-{242}{}{Is everyone in your tribe this stupid? That's it. You want to dance? Then let's dance. Guards!}
-{243}{}{You've gotta be talkin' to me and I don't like what you're saying.}
-{244}{}{Whoa, hey... easy there, sparky. I was just leaving.}
-{245}{}{I hear you're working for Earl Marion as a sort of fill-in Sheriff until he gets better. That
- oughta keep your hands full for a while. Cain't think of any other real work for you in town, anyhow.}
-{246}{}{I see. Let me ask you about something else then, Mayor Ascorti.}
-{247}{}{Hey, tell me about the mine owners.}
-{248}{}{Thanks anyhow, Mayor. Goodbye.}
-{249}{}{I hear you did a real good job of helping Sheriff Marion out. Town's been pretty quiet since you
- helped him out. I cain't rightly think of anything that would suit your talents.}
-{250}{}{Thanks, Mayor. That means a lot coming from you. Let me ask you about something else here.}
-{251}{}{Hey, tell me about the mine owners.}
-{252}{}{Thanks anyhow. Guess I'll be moseying on then. Goodbye.}
+{227}{}{Você foi longe demais com a viúva Rooney, ela não era uma ameaça para ninguém. Por que você teve
+ que ir e matá-la?}
+{228}{}{Ela merecia isso.}
+{229}{}{Foi um acidente.}
+{230}{}{Merecia isso? Ela não passava de uma velhinha inofensiva. Você é louco, saia daqui agora.}
+{231}{}{Você esta falando comigo?}
+{232}{}{Eu já estava saindo desse barraco. Tchau.}
+{233}{}{Um acidente? Eles ainda não conseguiram encontrar todas as partes do corpo dela. É melhor
+ você se certificar de não transformar acidentes como esse em um hábito. Eles são ruins para os negócios.}
+{234}{}{Eu entendo. Deixe eu te perguntar sobre outra coisa, prefeito.}
+{235}{}{Vou ter mais cuidado da próxima vez.}
+{236}{}{Sim, estou falando com você. Você vê mais alguém por aí com quem eu possa estar falando?
+ Dê o fora do meu bar.}
+{237}{}{*Você* está falando comigo?}
+{238}{}{De acordo, estou indo.}
+{239}{}{O que? Você é surdo ou apenas estúpido? *Eu* estou falando com *você*, tudo bem. Agora saia!}
+{240}{}{Bem, você deve estar falando comigo porque não vejo mais ninguém por aqui.}
+{241}{}{Tudo bem, estou indo embora. Só não desmaie, tchau.}
+{242}{}{Todos na sua tribo são tão estúpidos? Devem ser. Você quer dançar? Então vamos dançar. Guardas!}
+{243}{}{Você deve estar falando comigo e eu não gosto do que você está dizendo.}
+{244}{}{Ei, ei... calma aí, cara. Eu estava saindo.}
+{245}{}{Ouvi que você está trabalhando para Earl Marion como um tipo de xerife substituto
+ até que ele melhore. Isso deve te manter ocupado. De qualquer forma, não vejo nenhum outro trabalho de verdade para você na cidade.}
+{246}{}{Entendo. Deixe eu te perguntar sobre outra coisa então, prefeito Ascorti.}
+{247}{}{Ei, me conte sobre os donos da mina.}
+{248}{}{Obrigado de qualquer forma, prefeito. Tchau.}
+{249}{}{Ouvi que você fez um ótimo trabalho ajudando o xerife Marion, a cidade está bem quieta desde
+ sua ajuda. Não consigo pensar direito em nada que se encaixe nos seus talentos.}
+{250}{}{Obrigado, prefeito, isso significa muito vindo de você. Deixe eu te perguntar sobre outra coisa aqui.}
+{251}{}{Ei, me conte sobre os donos da mina.}
+{252}{}{Obrigado de qualquer maneira. Acho que vou indo então, tchau.}
 {253}{}{I understand that Sheriff Earl Marion is looking for someone to fill in for him until his bum
  leg heals up a fetch. You might go talk to him. His office is just South of here, across the street.}
 {254}{}{Thanks for the tip. Before I go, though, let me ask you about something else.}
-{255}{}{Hey, tell me about the mine owners.}
+{255}{}{Ei, me conte sobre os donos da mina.}
 {256}{}{Maybe I'll take a look over there, then. Thanks.}
 {257}{}{Well, there's the Sheriff, and then the mine owners are looking for someone to retrieve some
  kind of part for one of their machines.}
