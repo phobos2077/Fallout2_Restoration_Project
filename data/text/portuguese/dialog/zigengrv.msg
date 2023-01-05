@@ -29,29 +29,29 @@
 {310}{}{"Jason Anderson: no longer a living god."}
 {311}{}{"Jason G. Suinn."}
 {312}{}{"Jason Taylor."}
-{313}{}{"Jeremy Barnes. The bald headed monkey of Black Isle."}
-{314}{}{"Jesse Reynolds. Liked ginger snaps. Too much."}
+{313}{}{"Jeremy Barnes. O macaco careca da Ilha Negra."}
+{314}{}{"Jesse Reynolds. Gostava de biscoitos de gengibre. Demais."}
 {315}{}{"John Deiley."}
 {316}{}{"John Price."}
-{317}{}{"Leonard Boyarski. Exile from Vault City."}
-{318}{}{"Rupert Dinkos, died Winter '00."}
-{319}{}{"Matt Norton. He coulda been someone. He coulda been a contenda, instead of a bum, which is what he was."}
-{320}{}{"Nick Kesting." [There's a small bucket of round copper slugs on top.]}
-{321}{}{"Robert Collier. Silent. Deadly. Rob."}
-{322}{}{"Robert Hertenstein 2. His doctor tried to tell him, but he insisted, 'That's a bit too much information.'"}
-{323}{}{"Scott Campbell. Not the soup."}
-{324}{}{"Here lies Scott Everts. Late for work. Late for life."}
-{325}{}{"Scott Rodenhizer. Built 3D heads."}
-{326}{}{"Thomas French: Died while attempting to master the Flying Guillotine."}
-{327}{}{"Tim Cain. Founder, Lover, Fighter, Programmer."}
-{328}{}{"Tramell Ray Isaac: Hear lies one of the hardest working men in this business. Animator extraordinare(sp?). I think. R.I.P. T.Ray."}
-{329}{}{"Zeb -- Still Older Than Dirt."}
-{330}{}{"Dennis Presnell. We can almost hear him now. 'You call that a funeral?! That sucked! You guys are !@#holes! I'm never dying again! Blah blah blah...'" Scratched below it says, "God rest 'Cryin' D, shoulda kept on the patch."}
-{331}{}{"Rupert Diukos, died 9/24/96."}
-{332}{}{"Sal De Ban, died 9/24/96."}
-{333}{}{"Greg Zeschule, Fall '99."}
-{334}{}{"Ray Muzyka, Summer '98."}
-{335}{}{"Evan Chantland, 74-??: He wasn't paranoid, they really were after him."}
+{317}{}{"Leonard Boyarski. Exílio de Vault City."}
+{318}{}{"Rupert Dinkos, morreu no inverno de 2000."}
+{319}{}{"Matt Norton. Ele poderia ter sido alguém. Ele poderia ter sido um lutador, em vez de um vagabundo, que é o que ele era."}
+{320}{}{"Nick Kesting." [Há um pequeno balde de balas de cobre redondas no topo.]}
+{321}{}{"Robert Collier. Silencioso. Mortal. Rob."}
+{322}{}{"Robert Hertenstein 2. Seu médico tentou dizer a ele, mas ele insistiu: 'Isso é informação demais.'"}
+{323}{}{"Scott Campbell. Não a sopa."}
+{324}{}{"Aqui jaz Scott Everts. Atrasado para o trabalho. Atrasado para a vida."}
+{325}{}{"Scott Rodenhizer. Construiu cabeças 3D."}
+{326}{}{"Thomas French: Morreu enquanto tentava dominar a Guilhotina Voadora."}
+{327}{}{"Tim Cain. Fundador, amante, lutador, programador."}
+{328}{}{"Tramell Ray Isaac: Ouça as mentiras de um dos homens que mais trabalham neste negócio. Animador extraordinário (sp?). Eu acho. R.I.P. T.Ray."}
+{329}{}{"Zeb - ainda mais velho que a sociedade."}
+{330}{}{"Dennis Presnell. Quase podemos ouvi-lo agora. 'Você chama isso de funeral?! Que merda! Vocês são !@#fodidos! Nunca mais vou morrer! Blá, blá, blá...'" Riscado abaixo diz: "Descanse em paz, D, deveria ter continuado no patch."}
+{331}{}{"Rupert Diukos, falecido em 24/09/96."}
+{332}{}{"Sal De Ban, falecido em 24/09/96."}
+{333}{}{"Greg Zeschule, outono de 99."}
+{334}{}{"Ray Muzyka, verão de 98."}
+{335}{}{"Evan Chantland, 74-??: Ele não era paranóico, realmente estavam atrás dele."}
 {336}{}{"Here lies Moose, cold and dead. We found him here, without his head."}
 {337}{}{"Amy Presnell."}
 {338}{}{"Stephen Bokkes, age 25. Cut down in his prime by the slings and arrows of outrageous fortune." }

@@ -471,14 +471,14 @@
 {3715}{}{Some golden geckos and some radscorpions.}
 {3716}{}{A family of golden geckos.}
 {3717}{}{A family of molerats.}
-{3718}{}{A large group of radscorpions.}
-{3719}{}{A large infestation of spore plants.}
-{3720}{}{A band of robbers contesting a group of highwaymen.}
-{3721}{}{A merchant party fending off some highwaymen.}
-{3722}{}{A merchant party fending off some robbers.}
-{3723}{}{A merchant party fending off some radscorpions.}
-{3724}{}{A group of golden geckos battling some radscorpions.}
-{3725}{}{A merchant with some guards.}
+{3718}{}{Um grande grupo de radscorpions.}
+{3719}{}{Uma grande infestação de plantas de esporos.}
+{3720}{}{Um bando de ladrões contestando um grupo de salteadores.}
+{3721}{}{Um grupo de mercadores afastando alguns salteadores.}
+{3722}{}{Um grupo de mercadores se defendendo de alguns ladrões.}
+{3723}{}{Um grupo de mercadores se defendendo de alguns radscorpions.}
+{3724}{}{Um grupo de geckos dourados lutando contra alguns radscorpions.}
+{3725}{}{Um comerciante com alguns guardas.}
 {3726}{}{The remains of a whale.}
 {3727}{}{A giant stone head.}
 {3728}{}{A crashed shuttle.}
@@ -501,20 +501,20 @@
 {3762}{}{A band of ruffians led by a Morton Brother.}
 {3763}{}{A family of golden geckos.}
 {3764}{}{A family of molerats.}
-{3765}{}{A large group of radscorpions.}
-{3766}{}{A large infestation of spore plants.}
-{3767}{}{A band of robbers contesting a group of highwaymen.}
-{3768}{}{A merchant party fending off some highwaymen.}
-{3769}{}{A merchant party fending off some robbers.}
-{3770}{}{A merchant party fending off some radscorpions.}
-{3771}{}{A group of golden geckos battling some radscorpions.}
-{3772}{}{A merchant with some guards.}
+{3765}{}{Um grande grupo de radscorpions.}
+{3766}{}{Uma grande infestação de plantas de esporos.}
+{3767}{}{Um bando de ladrões contestando um grupo de salteadores.}
+{3768}{}{Um grupo de mercadores afastando alguns salteadores.}
+{3769}{}{Um grupo de mercadores se defendendo de alguns ladrões.}
+{3770}{}{Um grupo de mercadores se defendendo de alguns radscorpions.}
+{3771}{}{Um grupo de geckos dourados lutando contra alguns radscorpions.}
+{3772}{}{Um comerciante com alguns guardas.}
 {3773}{}{A man guarding a bridge.}
 {3774}{}{King Arthur's Knights fighting a rat.}
 {3800}{}{Toxic waste dump.}
 {3801}{}{A lone surviving dog.}
 {3802}{}{A herd of brahmin.}
-{3803}{}{A group of slavers and slaves.}
+{3803}{}{Um grupo de escravistas e escravos.}
 {3804}{}{Some bounty hunters.}
 {3805}{}{Some bounty hunters.}
 {3806}{}{Some bounty hunters.}
@@ -524,18 +524,18 @@
 {3810}{}{Some bounty hunters.}
 {3811}{}{Some bounty hunters.}
 {3812}{}{A band of ruffians led by a Morton Brother.}
-{3813}{}{A group of highwaymen.}
+{3813}{}{Um grupo de salteadores.}
 {3814}{}{A band of robbers.}
-{3815}{}{Some golden geckos hiding amongst a large number of spore plants.}
-{3816}{}{A pack of radscorpions and some molerats.}
-{3817}{}{A pack of radscorpions.}
+{3815}{}{Alguns geckos dourados escondidas entre um grande número de plantas de esporos.}
+{3816}{}{Um bando de radscorpions e alguns ratos toupeiras.}
+{3817}{}{Um bando de radscorpions.}
 {3818}{}{A group of molerats.}
-{3819}{}{A band of robbers ambushing a group of highwaymen.}
-{3820}{}{A group of slavers attempting to enslave some people.}
-{3821}{}{A group of slavers and slaves fending off some robbers.}
-{3822}{}{Some slavers and slaves fending off some golden geckos.}
-{3823}{}{Some radscorpions raiding a Rave party.}
-{3824}{}{A Rave party.}
+{3819}{}{Um bando de ladrões emboscando um grupo de salteadores.}
+{3820}{}{Um grupo de escravistas tentando escravizar algumas pessoas.}
+{3821}{}{Um grupo de escravistas e escravos se defendendo de alguns ladrões.}
+{3822}{}{Um grupo de escravistas e escravos se defendendo de alguns geckos dourados.}
+{3823}{}{Alguns radscorpions invadindo uma festa Rave.}
+{3824}{}{Uma festa Rave.}
 {3825}{}{The remains of a whale.}
 {3826}{}{A giant stone head.}
 {3827}{}{A crashed shuttle.}
@@ -543,10 +543,10 @@
 {3829}{}{King Arthur's Knights.}
 {3830}{}{A tin woodsman.}
 {3831}{}{The Unwashed Villagers hunting a spammer.}
-{3850}{}{A group of slavers and slaves.}
-{3851}{}{A group of highwaymen.}
+{3850}{}{Um grupo de escravistas e escravos.}
+{3851}{}{Um grupo de salteadores.}
 {3852}{}{A band of robbers.}
-{3853}{}{Some golden geckos hiding amongst a large number of spore plants.}
+{3853}{}{Alguns geckos dourados escondidas entre um grande número de plantas de esporos.}
 {3854}{}{Some bounty hunters.}
 {3855}{}{Some bounty hunters.}
 {3856}{}{Some bounty hunters.}
@@ -556,19 +556,19 @@
 {3860}{}{Some bounty hunters.}
 {3861}{}{Some bounty hunters.}
 {3862}{}{A band of ruffians led by a Morton Brother.}
-{3863}{}{A pack of radscorpions and some molerats.}
-{3864}{}{A pack of radscorpions.}
+{3863}{}{Um bando de radscorpions e alguns ratos toupeiras.}
+{3864}{}{Um bando de radscorpions.}
 {3865}{}{A group of molerats.}
-{3866}{}{A band of robbers ambushing a group of highwaymen.}
-{3867}{}{A group of slavers attempting to enslave some people.}
-{3868}{}{A group of slavers and slaves fending off some robbers.}
-{3869}{}{Some slavers and slaves fending off some golden geckos.}
+{3866}{}{Um bando de ladrões emboscando um grupo de salteadores.}
+{3867}{}{Um grupo de escravistas tentando escravizar algumas pessoas.}
+{3868}{}{Um grupo de escravistas e escravos se defendendo de alguns ladrões.}
+{3869}{}{Um grupo de escravistas e escravos se defendendo de alguns geckos dourados.}
 {3870}{}{A man guarding a bridge.}
 {3871}{}{King Arthur's Knights fighting a rat.}
-{3900}{}{Some highwaymen and robbers.}
-{3901}{}{Some highwaymen.}
-{3902}{}{A large pack of golden geckos.}
-{3903}{}{Some radscorpions hiding in the spore plants.}
+{3900}{}{Alguns salteadores e assaltantes.}
+{3901}{}{Alguns salteadores.}
+{3902}{}{Um grande grupo de geckos dourados.}
+{3903}{}{Alguns radscorpions escondidos nas plantas de esporos.}
 {3904}{}{Some bounty hunters.}
 {3905}{}{Some bounty hunters.}
 {3906}{}{Some bounty hunters.}
@@ -578,19 +578,19 @@
 {3910}{}{Some bounty hunters.}
 {3911}{}{Some bounty hunters.}
 {3912}{}{A band of ruffians led by a Morton Brother.}
-{3913}{}{Some robbers fighting some radscorpions.}
-{3914}{}{Some robbers.}
-{3915}{}{A merchant party attacked by highwaymen.}
-{3916}{}{A merchant party ambushed by robbers.}
-{3917}{}{Some highwaymen attacked by some spore plants.}
+{3913}{}{Alguns ladrões lutando contra alguns radscorpions.}
+{3914}{}{Alguns ladrões.}
+{3915}{}{Um grupo de mercadores atacado por salteadores.}
+{3916}{}{Um grupo de mercadores emboscado por ladrões.}
+{3917}{}{Alguns salteadores atacados por algumas plantas de esporos.}
 {3918}{}{A merchant party.}
 {3919}{}{A man guarding a bridge.}
 {3920}{}{King Arthur's Knights fighting a rat.}
-{3921}{}{Some angry bandits.}
-{3950}{}{Some highwaymen.}
-{3951}{}{Some robbers.}
-{3952}{}{Some homeless people.}
-{3953}{}{Some golden geckos and mantis.}
+{3921}{}{Alguns bandidos furiosos.}
+{3950}{}{Alguns salteadores.}
+{3951}{}{Alguns ladrões.}
+{3952}{}{Alguns mendigos.}
+{3953}{}{Alguns geckos dourados e louva-a-deus.}
 {3954}{}{Some bounty hunters.}
 {3955}{}{Some bounty hunters.}
 {3956}{}{Some bounty hunters.}
@@ -600,12 +600,12 @@
 {3960}{}{Some bounty hunters.}
 {3961}{}{Some bounty hunters.}
 {3962}{}{A band of ruffians led by a Morton Brother.}
-{3963}{}{Some wild brahmin.}
+{3963}{}{Alguns brahmins selvagens.}
 {3964}{}{Some radscorpions.}
-{3965}{}{Some moonshiners attacked by some highwaymen.}
-{3966}{}{Some highwaymen attacking some homeless people.}
-{3967}{}{Some moonshiners and farmers.}
-{3968}{}{Some mantis attacking some farmers.}
+{3965}{}{Alguns destiladores atacados por alguns bandidos.}
+{3966}{}{Alguns bandidos atacando alguns mendigos.}
+{3967}{}{Alguns destiladores e fazendeiros.}
+{3968}{}{Alguns louva-a-deus atacando alguns fazendeiros.}
 {3969}{}{Some moonshiners battling some farmers.}
 {3970}{}{Some brahmin fending off some mantis.}
 {3971}{}{Some mantis attacking some molerats.}
@@ -614,7 +614,7 @@
 {3974}{}{A herd of brahmin.}
 {3975}{}{A man guarding a bridge.}
 {3976}{}{King Arthur's Knights fighting a rat.}
-{3977}{}{Some angry bandits.}
+{3977}{}{Alguns bandidos furiosos.}
 {4000}{}{Some highwaymen tracking with wild dogs.}
 {4001}{}{Some robbers searching with wild dogs.}
 {4002}{}{A band of robbers.}
@@ -674,7 +674,7 @@
 {4100}{}{Some golden geckos.}
 {4101}{}{A swarm of mantis.}
 {4102}{}{Some radscorpions.}
-{4103}{}{Some wild brahmin.}
+{4103}{}{Alguns brahmins selvagens.}
 {4104}{}{Some bounty hunters.}
 {4105}{}{Some bounty hunters.}
 {4106}{}{Some bounty hunters.}
@@ -692,7 +692,7 @@
 {4118}{}{A trader and guards.}
 {4119}{}{A man guarding a bridge.}
 {4120}{}{King Arthur's Knights fighting a rat.}
-{4121}{}{Some angry bandits.}
+{4121}{}{Alguns bandidos furiosos.}
 {4150}{}{Toxic waste dump.}
 {4151}{}{A lone surviving dog.}
 {4152}{}{A herd of brahmin.}
@@ -708,7 +708,7 @@
 {4162}{}{A band of ruffians led by a Morton Brother.}
 {4163}{}{A swarm of mantis.}
 {4164}{}{Some radscorpions.}
-{4165}{}{Some wild brahmin.}
+{4165}{}{Alguns brahmins selvagens.}
 {4166}{}{A trader and guards fighting golden geckos.}
 {4167}{}{A swarm of mantis massacring a trading band.}
 {4168}{}{A swarm of mantis fighting wild brahmin.}
@@ -722,7 +722,7 @@
 {4176}{}{King Arthur's Knights.}
 {4177}{}{A tin woodsman.}
 {4178}{}{The Unwashed Villagers hunting a spammer.}
-{4179}{}{Some angry bandits.}
+{4179}{}{Alguns bandidos furiosos.}
 {4200}{}{Toxic waste dump.}
 {4201}{}{A lone surviving dog.}
 {4202}{}{A herd of brahmin.}
@@ -971,9 +971,9 @@
 {4660}{}{Some bounty hunters.}
 {4661}{}{Some bounty hunters.}
 {4662}{}{A band of ruffians led by a Morton Brother.}
-{4663}{}{Some highwaymen and robbers.}
-{4664}{}{Some highwaymen.}
-{4665}{}{Some robbers.}
+{4663}{}{Alguns salteadores e assaltantes.}
+{4664}{}{Alguns salteadores.}
+{4665}{}{Alguns ladrões.}
 {4666}{}{A Redding caravan fending off highwaymen.}
 {4667}{}{A New Reno caravan fending off robbers.}
 {4668}{}{A Den caravan fending off highwaymen.}
@@ -990,9 +990,9 @@
 {4679}{}{A tin woodsman.}
 {4680}{}{The Unwashed Villagers hunting a spammer.}
 {4700}{}{A Den caravan.}
-{4701}{}{Some highwaymen and robbers.}
-{4702}{}{Some highwaymen.}
-{4703}{}{Some robbers.}
+{4701}{}{Alguns salteadores e assaltantes.}
+{4702}{}{Alguns salteadores.}
+{4703}{}{Alguns ladrões.}
 {4704}{}{Some bounty hunters.}
 {4705}{}{Some bounty hunters.}
 {4706}{}{Some bounty hunters.}
@@ -1152,7 +1152,7 @@
 {5010}{}{Some bounty hunters.}
 {5011}{}{Some bounty hunters.}
 {5012}{}{A band of ruffians led by a Morton Brother.}
-{5013}{}{A pack of radscorpions.}
+{5013}{}{Um bando de radscorpions.}
 {5014}{}{Uma matilha de lobos lutando contra alguns raiders.}
 {5015}{}{A man guarding a bridge.}
 {5016}{}{King Arthur's Knights fighting a rat.}
@@ -1173,7 +1173,7 @@
 {5063}{}{Some spore plants and some wolves.}
 {5064}{}{A band of raiders.}
 {5065}{}{A pack of wolves.}
-{5066}{}{A pack of radscorpions.}
+{5066}{}{Um bando de radscorpions.}
 {5067}{}{Uma matilha de lobos lutando contra alguns raiders.}
 {5068}{}{The remains of a whale.}
 {5069}{}{A giant stone head.}
@@ -1310,7 +1310,7 @@
 {5411}{}{Some bounty hunters.}
 {5412}{}{A band of ruffians led by a Morton Brother.}
 {5413}{}{Um grupo de geckos de fogo.}
-{5414}{}{A large pack of golden geckos.}
+{5414}{}{Um grande grupo de geckos dourados.}
 {5415}{}{The remains of a whale.}
 {5416}{}{A giant stone head.}
 {5417}{}{A crashed shuttle.}
@@ -1322,7 +1322,7 @@
 {5423}{}{Uma reunião de indivíduos com aparência importante.}
 {5450}{}{Um grupo de geckos de fogo.}
 {5451}{}{Um grupo de geckos de fogo.}
-{5452}{}{A large pack of golden geckos.}
+{5452}{}{Um grande grupo de geckos dourados.}
 {5453}{}{Some bounty hunters.}
 {5454}{}{Some bounty hunters.}
 {5455}{}{Some bounty hunters.}
@@ -1337,7 +1337,7 @@
 {5464}{}{Uma reunião de indivíduos com aparência importante.}
 {5500}{}{Um grupo de geckos de fogo.}
 {5501}{}{Um grupo de geckos de fogo.}
-{5502}{}{A large pack of golden geckos.}
+{5502}{}{Um grande grupo de geckos dourados.}
 {5503}{}{Some bounty hunters.}
 {5504}{}{Some bounty hunters.}
 {5505}{}{Some bounty hunters.}
@@ -1474,7 +1474,7 @@
 {5812}{}{A band of ruffians led by a Morton Brother.}
 {5813}{}{Um bando de bandidos.}
 {5814}{}{A pack of wolves.}
-{5815}{}{A pack of radscorpions.}
+{5815}{}{Um bando de radscorpions.}
 {5816}{}{Uma floresta de plantas de esporos.}
 {5817}{}{Uma patrulha da Unity lutando contra alguns bandidos.}
 {5818}{}{Uma patrulha da Unity lutando contra alguns lobos.}
@@ -1489,7 +1489,7 @@
 {5850}{}{Um bando de bandidos e alguns lobos.}
 {5851}{}{Um bando de bandidos.}
 {5852}{}{A pack of wolves.}
-{5853}{}{A pack of radscorpions.}
+{5853}{}{Um bando de radscorpions.}
 {5854}{}{Some bounty hunters.}
 {5855}{}{Some bounty hunters.}
 {5856}{}{Some bounty hunters.}
@@ -1778,7 +1778,7 @@
 {6511}{}{Some bounty hunters.}
 {6512}{}{A band of ruffians led by a Morton Brother.}
 {6513}{}{A pack of wolves.}
-{6514}{}{A pack of radscorpions.}
+{6514}{}{Um bando de radscorpions.}
 {6515}{}{Uma caravana se defendendo de saqueadores.}
 {6516}{}{Uma caravana se defendendo de saqueadores.}
 {6517}{}{Uma caravana se defendendo de lobos.}
@@ -1799,7 +1799,7 @@
 {6532}{}{Um bando de saqueadores com raiva.}
 {6550}{}{Um bando de saqueadores.}
 {6551}{}{A pack of wolves.}
-{6552}{}{A pack of radscorpions.}
+{6552}{}{Um bando de radscorpions.}
 {6553}{}{Uma caravana se defendendo de saqueadores.}
 {6554}{}{Some bounty hunters.}
 {6555}{}{Some bounty hunters.}
@@ -1883,7 +1883,7 @@
 {6710}{}{Some bounty hunters.}
 {6711}{}{Some bounty hunters.}
 {6712}{}{A band of ruffians led by a Morton Brother.}
-{6713}{}{A pack of radscorpions.}
+{6713}{}{Um bando de radscorpions.}
 {6714}{}{A man guarding a bridge.}
 {6715}{}{King Arthur's Knights fighting a rat.}
 {6750}{}{Toxic waste dump.}
@@ -1902,7 +1902,7 @@
 {6763}{}{Remanescentes do exército do Mestre.}
 {6764}{}{A swarm of mantis.}
 {6765}{}{A pack of mutated molerats.}
-{6766}{}{A pack of radscorpions.}
+{6766}{}{Um bando de radscorpions.}
 {6767}{}{The remains of a whale.}
 {6768}{}{A giant stone head.}
 {6769}{}{A crashed shuttle.}
