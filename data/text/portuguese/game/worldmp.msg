@@ -45,6 +45,6 @@
 {501}{}{Ruínas}
 {1000}{}{Desert}
 {1001}{}{Mountains}
-{1002}{}{City}
+{1002}{}{Cidade}
 {1003}{}{Coast}
 {1004}{}{Unknown}

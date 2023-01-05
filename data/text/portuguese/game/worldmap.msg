@@ -1,6 +1,6 @@
 {200}{}{Ponte}
 {201}{}{Village}
-{202}{}{Temple Entrance}
+{202}{}{Entrada do Templo}
 {203}{}{Wilderness}
 {204}{}{Interior do Templo}
 {210}{}{West Side}
@@ -34,7 +34,7 @@
 {273}{}{East Side}
 {274}{}{Chop Shop}
 {275}{}{Boxing Arena}
-{276}{}{Vertibird Area}
+{276}{}{Area de Vertibird}
 {280}{}{Battlefield}
 {281}{}{Depósito Nível 1: Pessoal}
 {282}{}{Depósito Nível 1: Baia de armazenamento}
@@ -61,34 +61,34 @@
 {330}{}{Downtown}
 {331}{}{Grande Mina Wanamingo}
 {332}{}{Mina Wanamingo}
-{333}{}{Mining Camp}
+{333}{}{Campo de mineração}
 {334}{}{Túneis centrais}
 {335}{}{Tuneis da Mina}
 {340}{}{Chinatown}
-{341}{}{Dock}
+{341}{}{Doca}
 {342}{}{Petroleiro}
 {343}{}{Transporte Exterior}
-{344}{}{Shuttle Interior}
+{344}{}{Interior da balsa}
 {345}{}{Hubologistas}
-{346}{}{Shi Temple}
-{350}{}{Gas Station}
+{346}{}{Templo Shi}
+{350}{}{Posto de gasolina}
 {351}{}{Portao Principal}
-{360}{}{Dock}
+{360}{}{Doca}
 {361}{}{Centro de Detenção}
 {362}{}{End Boss}
-{363}{}{Barracks}
-{364}{}{Presidential Area}
-{365}{}{Reactor}
+{363}{}{Barracas}
+{364}{}{Área Presidencial}
+{365}{}{Reator}
 {366}{}{Trap Room}
 {370}{}{Entrance}
-{380}{}{Woodland}
-{381}{}{Tribe}
+{380}{}{Bosque}
+{381}{}{Tribo}
 {390}{}{Entrance}
 {391}{}{Ducts}
 {392}{}{Utilities}
-{393}{}{Level One}
-{394}{}{Level Two}
-{395}{}{Level Three}
+{393}{}{Nivel Um}
+{394}{}{Nivel Dois}
+{395}{}{Nivel Tres}
 {396}{}{Warehouse}
 {400}{}{The Ghost Town}
 {401}{}{Main Cavern}
@@ -120,24 +120,24 @@
 {477}{}{Caverna}
 {478}{}{Montanha}
 {479}{}{Montanha}
-{480}{}{Ruined City}
-{481}{}{Ruined City}
-{482}{}{Ruined City}
-{483}{}{Ruined City}
-{484}{}{Ruined City}
-{485}{}{Ruined City}
-{486}{}{Ruined City}
-{487}{}{Ruined City}
-{490}{}{Coastline}
-{491}{}{Coastline}
-{492}{}{Coastline}
-{493}{}{Coastline}
-{494}{}{Coastline}
-{495}{}{Coastline}
-{496}{}{Coastline}
-{497}{}{Coastline}
-{498}{}{Coastline}
-{499}{}{Coastline}
+{480}{}{Cidade em ruinas}
+{481}{}{Cidade em ruinas}
+{482}{}{Cidade em ruinas}
+{483}{}{Cidade em ruinas}
+{484}{}{Cidade em ruinas}
+{485}{}{Cidade em ruinas}
+{486}{}{Cidade em ruinas}
+{487}{}{Cidade em ruinas}
+{490}{}{Litoral}
+{491}{}{Litoral}
+{492}{}{Litoral}
+{493}{}{Litoral}
+{494}{}{Litoral}
+{495}{}{Litoral}
+{496}{}{Litoral}
+{497}{}{Litoral}
+{498}{}{Litoral}
+{499}{}{Litoral}
 {500}{}{Golgotha}
 {510}{}{Smashed Whale Guts}
 {520}{}{Tin Woodsman}
@@ -145,19 +145,19 @@
 {530}{}{Crash Site}
 {540}{}{Desert}
 {550}{}{Ponte}
-{560}{}{Cafe of Broken Dreams}
+{560}{}{Café dos Sonhos Desfeitos}
 {570}{}{Desert}
 {580}{}{Caverna}
 {590}{}{Guardião para Sempre}
-{600}{}{Toxic Waste Dump}
+{600}{}{Deposito de lixo tóxico}
 {610}{}{Desert}
 {620}{}{Herd of Brahmin}
 {630}{}{Desert}
 {631}{}{Montanha}
 {640}{}{Vault 13 Cavern}
 {650}{}{Caverna}
-{660}{}{Coastline}
-{661}{}{Coastline}
+{660}{}{Litoral}
+{661}{}{Litoral}
 {662}{}{Desert}
 {663}{}{Desert}
 {664}{}{Desert}
@@ -172,7 +172,7 @@
 {710}{}{Umbra Tribe}
 {1000}{}{Desert}
 {1001}{}{Mountains}
-{1002}{}{City}
+{1002}{}{Cidade}
 {1003}{}{Coast}
 {1004}{}{Unknown}
 {1500}{}{You gained 10,000 experience points!}

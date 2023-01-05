@@ -52,37 +52,37 @@
 {333}{}{"Greg Zeschule, outono de 99."}
 {334}{}{"Ray Muzyka, verão de 98."}
 {335}{}{"Evan Chantland, 74-??: Ele não era paranóico, realmente estavam atrás dele."}
-{336}{}{"Here lies Moose, cold and dead. We found him here, without his head."}
+{336}{}{"Aqui jaz Moose, frio e morto. Nós o encontramos aqui, sem a cabeça."}
 {337}{}{"Amy Presnell."}
-{338}{}{"Stephen Bokkes, age 25. Cut down in his prime by the slings and arrows of outrageous fortune." }
-{339}{}{"R.I.P. Doug "Skully" Finch (Date does not matter) Killed for smoking in the French Market. Last words - 'Donkey Punches to ya!'"}
-{340}{}{"Here lies Donnie Cornwell, good and dead. In an extra large coffin to fit his extra large head."}
-{341}{}{"Rob Giampa lived his life like he liked his women: fast, cheap, and easy."}
-{342}{}{"T. D. Hamilton: Hear lies a stank hoe that should have been dead a long time ago. Rest in hell, BITCH!"}
-{343}{}{"Another victim of the deadline."}
-{344}{}{"Dogbomb is dead. Long live the Dog."}
-{345}{}{"Kris Snider: Too competitive."}
-{346}{}{"Are you doing anything useful with your life?"}
-{347}{}{"Why not just kill yourself and save someone else the hassle?"}
-{348}{}{"Charles Cuevas: He once said, 'Give me hockey or give me death.' He didn't quite get hockey."}
+{338}{}{"Stephen Bokkes, 25 anos. Derrubado em seu auge pelas fundas e flechas de uma fortuna ultrajante." }
+{339}{}{"R.I.P. Doug "Skully" Finch (a data não importa) Morto por fumar no mercado francês. Últimas palavras - 'Todo dia tem uma merda!'"}
+{340}{}{"Aqui jaz Donnie Cornwell, bom e morto. Em um caixão extra grande para caber em sua cabeça de cearense."}
+{341}{}{"Rob Giampa viveu sua vida como gostava de suas mulheres: rápida, barata e fácil."}
+{342}{}{"TD Hamilton: Aqui jaz uma vagabunda fedorenta que deveria estar morta há muito tempo. Não descanse em paz, PUTA!"}
+{343}{}{"Outra vítima do petismo."}
+{344}{}{"Dogbomb está morto. Viva o Cachorro."}
+{345}{}{"Kris Snider: Competitivo demais."}
+{346}{}{"Você está fazendo alguma coisa útil com sua vida?"}
+{347}{}{"Por que não se matar e poupar alguém do aborrecimento?"}
+{348}{}{"Charles Cuevas: Ele disse uma vez, 'Me dê hóquei ou me dê a morte.' Ele não entendeu muito bem o hóquei."}
 {349}{}{"William Lebus."}
-{350}{}{"Reg Arnedo: we can still hear his voice in the halls."}
+{350}{}{"Reg Arnedo: ainda podemos ouvir sua voz nos corredores."}
 {351}{}{"Shanna SanPaolo."}
 {352}{}{"Brahmin Wrangler."}
-{353}{}{"Josh Walters, 1971-2011. Died of complications during his fifth liver transplant."}
-{354}{}{"Doug Avery. Hated the war for destroying his trailer park lifestyle."}
-{355}{}{"Here lies Ezekial Aikle, age 102. The good die young."}
-{356}{}{"Here lies Ann Mann, who lived an old maid but died an old Mann. Dec. 8, 1767"}
-{357}{}{"The children of Israel wanted bread and the Lord sent them manna, old clerk Wallace wanted a wife, and the Devil sent him Anna."}
+{353}{}{"Josh Walters, 1971-2011. Morreu de complicações durante seu quinto transplante de fígado."}
+{354}{}{"Doug Avery. Odiava a guerra por destruir seu estilo de vida no parque de trailers."}
+{355}{}{"Aqui jaz Ezekial Aikle, 102 anos. Os bons morrem jovens."}
+{356}{}{"Aqui jaz Ann Mann, que viveu como uma velha solteirona. 8 de dezembro de 1767"}
+{357}{}{"Os filhos de Israel queriam pão e o Senhor lhes enviou o maná, o velho escriturário Wallace queria uma esposa e o Diabo lhe enviou Anna."}
 {358}{}{"Aqui está Johnny Fermento. Perdoe-me por não subir."}
-{359}{}{"Here lies the body of Jonathan Blake stepped on the gas instead of the brake."}
-{360}{}{"Here lays Butch, we planted him raw. He was quick on the trigger, but slow on the draw."}
-{361}{}{"Sacred to the memory of my husband John Barnes who died January 3, 1803. His comely young widow, aged 23, has many qualifications of a good wife, and yearns to be comforted."}
+{359}{}{"Aqui jaz o corpo de Jonathan Blake pisou no acelerador em vez do freio."}
+{360}{}{"Aqui está Butch, nós o plantamos cru. Ele foi rápido no gatilho, mas lento no saque."}
+{361}{}{"Sagrada à memória de meu marido John Barnes, que morreu em 3 de janeiro de 1803. Sua bela e jovem viúva, de 23 anos, tem muitas qualidades de uma boa esposa e anseia para ser consolada."}
 {362}{}{"Sir John Estranho, aqui jaz um advogado honesto, o que é Estranho."}
-{363}{}{"I was somebody. Who, is no business of yours."}
-{364}{}{"Here lies Lester Moore, four slugs from a .44, no less, no more."}
-{365}{}{"I told you I was sick!"}
-{366}{}{"Reader if cash thou art in want of any dig 4 feet deep and thou wilt find a Penny."}
+{363}{}{"Eu era alguém. Quem, não é da sua conta."}
+{364}{}{"Aqui jaz Lester Moore, quatro balas de .44, nem menos, nem mais."}
+{365}{}{"Eu disse que estava doente!"}
+{366}{}{"Leitor, se você precisa de dinheiro para cavar 4 pés de profundidade e encontrará um centavo."}
 {367}{}{"She always said her feet were killing her but nobody believed her."}
 {368}{}{"On the 22nd of June - Jonathan Fiddle - Went out of tune."}
 {369}{}{"Here lies the body of our Anna done to death by a banana. It wasn't the fruit that laid her low but the skin of the thing that made her go."}

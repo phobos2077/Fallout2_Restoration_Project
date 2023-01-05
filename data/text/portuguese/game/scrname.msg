@@ -933,7 +933,7 @@
 {1033}{}{Escravo}
 {1034}{}{Traficante de escravos}
 {1035}{}{Chip}
-{1036}{}{Reactor}
+{1036}{}{Reator}
 {1037}{}{Computador do Reator}
 {1038}{}{Caixa eletrônico}
 {1039}{}{Cofre}
@@ -1097,7 +1097,7 @@
 {1197}{}{Mapa dos Raiders}
 {1198}{}{Pariah Dog}
 {1199}{}{Klaxon}
-{1200}{}{Mine}
+{1200}{}{Mina}
 {1201}{}{Cova}
 {1202}{}{Cal}
 {1203}{}{Slim}
@@ -1271,7 +1271,7 @@
 {1371}{}{Roteiro do mapa}
 {1372}{}{Roteiro do mapa}
 {1373}{}{Máquina de Nuka-Cola}
-{1374}{}{Dock}
+{1374}{}{Doca}
 {1375}{}{Porta}
 {1376}{}{Mina}
 {1377}{}{Mina}
@@ -1297,7 +1297,7 @@
 {1397}{}{Carny Kid}
 {1398}{}{}
 {1399}{}{}
-{1400}{}{Mine}
+{1400}{}{Mina}
 {1401}{}{Armário}
 {1402}{}{Porta}
 {1403}{}{}

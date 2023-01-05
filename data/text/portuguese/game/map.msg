@@ -263,22 +263,22 @@
 {392}{}{Downtown}
 {393}{}{Downtown}
 {394}{}{Downtown}
-{395}{}{Mining Camp}
-{396}{}{Mining Camp}
-{397}{}{Mining Camp}
-{398}{}{Tunnels}
-{399}{}{Tunnels}
-{400}{}{Tunnels}
-{401}{}{Tunnels}
-{402}{}{Tunnels}
-{403}{}{Tunnels}
-{404}{}{City}
-{405}{}{City}
-{406}{}{City}
+{395}{}{Campo de mineração}
+{396}{}{Campo de mineração}
+{397}{}{Campo de mineração}
+{398}{}{Tuneis}
+{399}{}{Tuneis}
+{400}{}{Tuneis}
+{401}{}{Tuneis}
+{402}{}{Tuneis}
+{403}{}{Tuneis}
+{404}{}{Cidade}
+{405}{}{Cidade}
+{406}{}{Cidade}
 {407}{}{Montanha}
 {408}{}{Montanha}
 {409}{}{Montanha}
-{410}{}{Caverns}
+{410}{}{Cavernas}
 {411}{}{Caverna}
 {412}{}{Caverna}
 {413}{}{Caverna}
@@ -303,11 +303,11 @@
 {432}{}{Coast}
 {433}{}{Coast}
 {434}{}{Downtown}
-{435}{}{Basement}
+{435}{}{Sótão}
 {436}{}{Não usado}
 {437}{}{Residential}
-{438}{}{Underground}
-{439}{}{Mine}
+{438}{}{Subterraneo}
+{439}{}{Mina}
 {440}{}{Caverna}
 {441}{}{Caverna}
 {442}{}{Caverna}
@@ -344,12 +344,12 @@
 {473}{}{Coast}
 {474}{}{Coast}
 {475}{}{Coast}
-{476}{}{Raider Camp}
-{477}{}{Raider Camp}
-{478}{}{Raider Camp}
+{476}{}{Acampamento de saqueadores}
+{477}{}{Acampamento de saqueadores}
+{478}{}{Acampamento de saqueadores}
 {479}{}{Entrada da caverna}
-{480}{}{Scorpion Nest}
-{481}{}{Barracks}
+{480}{}{Ninho de escorpiões}
+{481}{}{Barracas}
 {482}{}{Desert}
 {483}{}{Desert}
 {484}{}{Desert}
@@ -371,42 +371,42 @@
 {500}{}{Desert}
 {501}{}{Desert}
 {502}{}{Desert}
-{503}{}{Bridge of Death}
-{504}{}{Bridge of Death}
-{505}{}{Bridge of Death}
-{506}{}{Cafe of Broken Dreams}
-{507}{}{Cafe of Broken Dreams}
-{508}{}{Cafe of Broken Dreams}
+{503}{}{Ponte da Morte}
+{504}{}{Ponte da Morte}
+{505}{}{Ponte da Morte}
+{506}{}{Café dos Sonhos Desfeitos}
+{507}{}{Café dos Sonhos Desfeitos}
+{508}{}{Café dos Sonhos Desfeitos}
 {509}{}{Desert}
 {510}{}{Desert}
 {511}{}{Desert}
 {512}{}{Montanha}
 {513}{}{Caverna}
 {514}{}{Caverna}
-{515}{}{Guardian}
+{515}{}{Guardião}
 {516}{}{Vault 13}
 {517}{}{Vault 13}
-{518}{}{Toxic Waste Dump}
-{519}{}{Toxic Waste Dump}
-{520}{}{Toxic Waste Dump}
+{518}{}{Deposito de lixo tóxico}
+{519}{}{Deposito de lixo tóxico}
+{520}{}{Deposito de lixo tóxico}
 {521}{}{Desert}
 {522}{}{Desert}
 {523}{}{Desert}
 {524}{}{Desert}
 {525}{}{Desert}
 {526}{}{Desert}
-{527}{}{Gas Station}
-{528}{}{Underground}
-{529}{}{Vertibird Base}
-{530}{}{Coastline}
-{531}{}{Coastline}
-{532}{}{Coastline}
-{533}{}{Coastline}
-{534}{}{Coastline}
-{535}{}{Coastline}
-{536}{}{Coastline}
-{537}{}{Coastline}
-{538}{}{Coastline}
+{527}{}{Posto de gasolina}
+{528}{}{Subterraneo}
+{529}{}{Base de vertibirds}
+{530}{}{Litoral}
+{531}{}{Litoral}
+{532}{}{Litoral}
+{533}{}{Litoral}
+{534}{}{Litoral}
+{535}{}{Litoral}
+{536}{}{Litoral}
+{537}{}{Litoral}
+{538}{}{Litoral}
 {539}{}{Desert}
 {540}{}{Desert}
 {541}{}{Desert}
@@ -443,78 +443,78 @@
 {572}{}{Montanha}
 {573}{}{Montanha}
 {574}{}{Montanha}
-{575}{}{Abandoned City}
-{576}{}{Ruined City}
-{577}{}{Ruined City}
-{578}{}{Temple Entrance}
-{579}{}{Temple Entrance}
-{580}{}{Temple Entrance}
+{575}{}{Cidade abandonada}
+{576}{}{Cidade em ruinas}
+{577}{}{Cidade em ruinas}
+{578}{}{Entrada do Templo}
+{579}{}{Entrada do Templo}
+{580}{}{Entrada do Templo}
 {581}{}{Ponte destruída}
 {582}{}{Ponte destruída}
 {583}{}{Ponte destruída}
-{584}{}{Detention Cells}
-{585}{}{Detention Cells}
-{586}{}{Detention Cells}
-{587}{}{Dock}
-{588}{}{Vertibird Unloading Pad}
-{589}{}{Dock}
-{590}{}{Entry Hall}
-{591}{}{Entry Hall}
-{592}{}{Entry Hall}
-{593}{}{Guard Barracks}
-{594}{}{Guard Barracks}
-{595}{}{Guard Barracks}
-{596}{}{Presidential Area}
-{597}{}{Presidential Area}
-{598}{}{Presidential Area}
-{599}{}{Reactor}
-{600}{}{Reactor}
-{601}{}{Reactor}
-{602}{}{Access Corridor}
-{603}{}{Access Corridor}
-{604}{}{Access Corridor}
-{605}{}{Oil Tanker}
-{606}{}{Oil Tanker}
-{607}{}{Oil Tanker}
-{608}{}{Dock}
-{609}{}{Dock}
-{610}{}{Dock}
+{584}{}{Celas de Detenção}
+{585}{}{Celas de Detenção}
+{586}{}{Celas de Detenção}
+{587}{}{Doca}
+{588}{}{Bloco de descarga de Vertibird.}
+{589}{}{Doca}
+{590}{}{Salão de Entrada}
+{591}{}{Salão de Entrada}
+{592}{}{Salão de Entrada}
+{593}{}{Barracas de Guarda}
+{594}{}{Barracas de Guarda}
+{595}{}{Barracas de Guarda}
+{596}{}{Área Presidencial}
+{597}{}{Área Presidencial}
+{598}{}{Área Presidencial}
+{599}{}{Reator}
+{600}{}{Reator}
+{601}{}{Reator}
+{602}{}{Corredor de acesso}
+{603}{}{Corredor de acesso}
+{604}{}{Corredor de acesso}
+{605}{}{Petroleiro}
+{606}{}{Petroleiro}
+{607}{}{Petroleiro}
+{608}{}{Doca}
+{609}{}{Doca}
+{610}{}{Doca}
 {611}{}{Chinatown}
 {612}{}{Chinatown}
 {613}{}{Chinatown}
-{614}{}{Shuttle Dock}
-{615}{}{Shuttle Dock}
-{616}{}{Shuttle Dock}
-{617}{}{Shuttle Interior}
-{618}{}{Shuttle Interior}
-{619}{}{Shuttle Interior}
-{620}{}{Hubologist Base}
-{621}{}{Hubologist Base}
-{622}{}{Hubologist Base}
-{623}{}{Destroyed City}
-{624}{}{Destroyed City}
-{625}{}{Destroyed City}
-{626}{}{Destroyed City}
-{627}{}{Destroyed City}
-{628}{}{Destroyed City}
-{629}{}{Destroyed City}
-{630}{}{Destroyed City}
-{631}{}{Destroyed City}
-{632}{}{Destroyed City}
-{633}{}{Destroyed City}
-{634}{}{Destroyed City}
-{635}{}{Destroyed City}
-{636}{}{Destroyed City}
-{637}{}{Destroyed City}
-{638}{}{Destroyed City}
-{639}{}{Destroyed City}
-{640}{}{Destroyed City}
-{641}{}{Vertibird Area}
-{642}{}{Vertibird Area}
-{643}{}{Vertibird Area}
-{644}{}{Shi Temple}
+{614}{}{Cais da balsa}
+{615}{}{Cais da balsa}
+{616}{}{Cais da balsa}
+{617}{}{Interior da balsa}
+{618}{}{Interior da balsa}
+{619}{}{Interior da balsa}
+{620}{}{Base Hubologista}
+{621}{}{Base Hubologista}
+{622}{}{Base Hubologista}
+{623}{}{Cidade destruida}
+{624}{}{Cidade destruida}
+{625}{}{Cidade destruida}
+{626}{}{Cidade destruida}
+{627}{}{Cidade destruida}
+{628}{}{Cidade destruida}
+{629}{}{Cidade destruida}
+{630}{}{Cidade destruida}
+{631}{}{Cidade destruida}
+{632}{}{Cidade destruida}
+{633}{}{Cidade destruida}
+{634}{}{Cidade destruida}
+{635}{}{Cidade destruida}
+{636}{}{Cidade destruida}
+{637}{}{Cidade destruida}
+{638}{}{Cidade destruida}
+{639}{}{Cidade destruida}
+{640}{}{Cidade destruida}
+{641}{}{Area de Vertibird}
+{642}{}{Area de Vertibird}
+{643}{}{Area de Vertibird}
+{644}{}{Templo Shi}
 {645}{}{}
-{646}{}{Brotherhood Base}
+{646}{}{Base da Irmandade}
 {647}{}{Desert}
 {648}{}{Desert}
 {649}{}{Desert}
@@ -522,41 +522,41 @@
 {651}{}{Desert}
 {652}{}{Desert}
 {653}{}{Entrance}
-{654}{}{Second Floor}
-{655}{}{Third Floor}
-{656}{}{Basement}
-{657}{}{enter name}
-{658}{}{enter name}
+{654}{}{Segundo Piso}
+{655}{}{Terceiro Piso}
+{656}{}{Sótão}
+{657}{}{Introduza o nome}
+{658}{}{Introduza o nome}
 {659}{}{Caverna}
-{660}{}{enter name}
-{661}{}{enter name}
+{660}{}{Introduza o nome}
+{661}{}{Introduza o nome}
 {662}{}{Village}
 {663}{}{Village}
 {664}{}{Village}
-{665}{}{Woodland}
-{666}{}{Tribe}
-{667}{}{Tribe}
-{668}{}{Fishing Area}
-{669}{}{Small Cave}
-{670}{}{enter name}
+{665}{}{Bosque}
+{666}{}{Tribo}
+{667}{}{Tribo}
+{668}{}{Area de pesca}
+{669}{}{Caverna pequena}
+{670}{}{Introduza o nome}
 {671}{}{Entrance}
-{672}{}{Air, Water, and Power Facility Level}
-{673}{}{Robot Maintenance}
-{674}{}{Level One}
-{675}{}{Level Two}
-{676}{}{Level Three}
-{677}{}{Secret Level}
-{678}{}{enter name}
-{679}{}{enter name}
+{672}{}{Nível da instalação de ar, água e energia}
+{673}{}{Manutenção de robos}
+{674}{}{Nivel Um}
+{675}{}{Nivel Dois}
+{676}{}{Nivel Tres}
+{677}{}{Nivel Secreto}
+{678}{}{Introduza o nome}
+{679}{}{Introduza o nome}
 {680}{}{Main Camp}
-{681}{}{enter name}
-{682}{}{enter name}
+{681}{}{Introduza o nome}
+{682}{}{Introduza o nome}
 {683}{}{Desert}
 {684}{}{Desert}
 {685}{}{Desert}
 {686}{}{Entrance}
-{687}{}{Level One}
-{688}{}{Level Two}
+{687}{}{Nivel Um}
+{688}{}{Nivel Dois}
 {689}{}{Ranger Safe House}
 {690}{}{Ranger Safe House}
 {691}{}{Ranger Safe House}
@@ -578,12 +578,12 @@
 {707}{}{Sub Surface}
 {708}{}{Sub Interior Level 1}
 {709}{}{}
-{710}{}{Level One}
-{711}{}{Level Two}
-{712}{}{Level Three}
-{713}{}{Level One}
-{714}{}{Level Two}
-{715}{}{Level Three}
+{710}{}{Nivel Um}
+{711}{}{Nivel Dois}
+{712}{}{Nivel Tres}
+{713}{}{Nivel Um}
+{714}{}{Nivel Dois}
+{715}{}{Nivel Tres}
 {716}{}{Abandoned House}
 {717}{}{Caverna}
 {718}{}{}
@@ -615,7 +615,7 @@
 {1525}{}{Raiders}
 {1526}{}{Desert}
 {1527}{}{Montanha}
-{1528}{}{Ruined City}
+{1528}{}{Cidade em ruinas}
 {1529}{}{Coast}
 {1530}{}{Golgotha}
 {1531}{}{Crashed Whale}
@@ -624,11 +624,11 @@
 {1534}{}{Federation Shuttle}
 {1535}{}{Unwashed Villagers}
 {1536}{}{Ponte}
-{1537}{}{Cafe of Broken Dreams}
+{1537}{}{Café dos Sonhos Desfeitos}
 {1538}{}{Paladins}
 {1539}{}{Vorpal Rat Cave}
 {1540}{}{Guardião para Sempre}
-{1541}{}{Toxic Waste Dump}
+{1541}{}{Deposito de lixo tóxico}
 {1542}{}{Pariahs}
 {1543}{}{Mad Brahmin}
 {1544}{}{Caravan}
