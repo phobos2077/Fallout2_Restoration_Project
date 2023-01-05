@@ -123,19 +123,19 @@
 {222}{}{Oh. Ei, tenho algumas outras perguntas…}
 {223}{}{Entendo. Bem, agradeço pela informação.}
 {224}{}{How would that happen?}
-{225}{}{Uh, last I heard, SEX can make someone pregnant.}
-{226}{}{Forget I asked. Look, I had some other questions...}
-{227}{}{Never mind. I better be going.}
-{228}{}{Oh, you mean intercourse? Intercourse is still allowed outside of pregnancy cycles.}
-{229}{}{Doesn't that make people pregnant?}
+{225}{}{Uh, pelo que ouvi, SEXO pode engravidar alguém.}
+{226}{}{Esqueça que eu perguntei. Olha, eu tenho outras perguntas...}
+{227}{}{Deixa para lá. É melhor eu ir.}
+{228}{}{Oh, você quer dizer relação sexual? A relação sexual ainda é permitida fora dos ciclos de gravidez.}
+{229}{}{Isso não deixa as pessoas grávidas?}
 {230}{}{Oh. Ei, tenho algumas outras perguntas…}
 {231}{}{Oh, well. Just thought I'd ask.}
-{232}{}{Oh, no, no... you see, our pregnancies don't result from intercourse.}
-{233}{}{I'm afraid to ask. But I will anyway.}
-{234}{}{I don't want to know any more. I had some other questions, though...}
+{232}{}{Oh, não, não... veja, nossas gravidezes não resultam de relações sexuais.}
+{233}{}{Tenho medo de perguntar. Mas eu vou de qualquer jeito.}
+{234}{}{Eu não quero mais nada. Mas eu tenho algumas outras perguntas...}
 {235}{}{Acho que já ouvi o suficiente.}
-{236}{}{Male Citizens "donate" to the Auto-Doc here in the Vault and the most favorable matches are chosen by the computer. Then the appropriate female Citizen is seeded by the Auto-Doc.}
-{237}{}{Can I donate?}
+{236}{}{Os cidadãos "doam" para o Auto-Doc aqui na Vault e as doações mais favoráveis são escolhidas pelo computador. Em seguida, a cidadã apropriada é semeada pelo Auto-Doc.}
+{237}{}{Posso doar?}
 {238}{}{As pessoas não engravidam por causa da relação sexual? E gravidez acidental?}
 {239}{}{Sabe, eu gostaria muito de fazer qualquer outra pergunta agora.}
 {240}{}{Você me daria licença? Vou ver se consigo revogar minha cidadania.}
@@ -169,24 +169,24 @@
 {268}{}{Eles estão certos. Provavelmente não é uma boa ideia. É melhor eu ir.}
 {269}{}{Você sabe que está certo. Talvez eu saia do portão quando tiver a chance. Eu gostaria de saber mais sobre o mundo exterior.}
 {270}{}{Ótimo. Olha, posso fazer outra pergunta?}
-{271}{}{It'll be good for you. Take care.}
-{272}{}{Pardon me?}
-{273}{}{I couldn't help but notice you're an attractive young woman who could stand to get out once in a while. How about you and I have dinner?}
-{274}{}{Never mind. Can I ask you another question?}
+{271}{}{Vai ser bom para você. Tome cuidado.}
+{272}{}{Perdão?}
+{273}{}{Não pude deixar de notar que você é uma jovem atraente que costuma sair de vez em quando. Que tal você e eu sairmos para jantar?}
+{274}{}{Deixa para lá. Posso te fazer outra pergunta?}
 {275}{}{Oh, well. Just thought I'd ask.}
-{276}{}{Oh. I... you know, I'd love to, but I can't.}
-{277}{}{Oh. Well, I... I'd love to.}
-{278}{}{Aw, c'mon. I'm new. I'll get into trouble if I go around by myself.}
-{279}{}{All right. Can I ask you some questions then?}
+{276}{}{Oh. Eu... sabe, eu adoraria, mas não posso.}
+{277}{}{Oh. Bem, eu... eu adoraria.}
+{278}{}{Ah, vamos. Sou novo, vou ter problemas se sair por aí sozinho.}
+{279}{}{Tudo bem. Posso te fazer algumas perguntas então?}
 {280}{}{Oh, well. Just thought I'd ask.}
 {281}{}{Grande! Vamos lá.}
-{282}{}{Thanks for the wonderful evening.}
-{283}{}{Uh... sure. Maybe we'll go out some other time. I'll... uh, call you. Bye.}
-{284}{}{I'm sorry, but no.}
-{285}{}{All right. Can I ask you some questions instead?}
+{282}{}{Obrigado pela noite maravilhosa.}
+{283}{}{Claro. Talvez a gente saia outra hora. Eu... uh, ligo para você. Tchau.}
+{284}{}{Sinto muito, mas não.}
+{285}{}{De acordo. Em vez disso, posso fazer algumas perguntas?}
 {286}{}{Oh, well. Just thought I'd ask.}
-{287}{}{Well, it's good to see same-sex prejudice is alive and well in Vault City. Bye.}
-{288}{}{. What do you do around here?}
+{287}{}{Bem, é bom ver que o preconceito com homossexuais esta bem vivo em Vault City. Tchau.}
+{288}{}{. O que você faz por aqui?}
 {289}{}{. Mind if I ask you some questions?}
 {290}{}{Oh well, I thought there weren't any children because this might be the European version of Fallout 2. Goodbye.}
 {291}{}{You have given Vault City a donation and introduced favorable genetic material into their community.}

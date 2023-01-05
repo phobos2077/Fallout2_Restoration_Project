@@ -34,42 +34,42 @@
 {133}{}{O que é este lugar?}
 {134}{}{Cuidado. Não estou com disposição para nenhuma besteira hoje.}
 {135}{}{Obrigado pelas direções. Tchau.}
-{136}{}{As if Vault City didn't have enough human brahmin... look, you CANT BE IN HERE, OKAY? You could HURT yourself! NOW GET OUT! GO!}
-{137}{}{*Snfff* You big meenie... *snff*... me go sumplace n' have partee wiff clowns... *snfff*... and ice creem... and kake... and me no invit smart meen peuple like YOU!}
+{136}{}{Como se Vault City não tivesse brahmin humanos o suficientes... olha, você NÃO PODE ESTAR AQUI, OK? Você pode se machucar! AGORA SAIA! VAI!}
+{137}{}{*Snfff* Seu grande tonto... *snff*... eu vou para um lugar que tem palhaços... *snfff*... e sorvete... e pastel... e eu não vou convidar pessoas inteligentes como VOCÊ!}
 {138}{}{Desliga}
-{139}{}{Get out of here. Or I'm going to summon the guards to MAKE you get out.}
-{140}{}{Try it. I'll like it.}
+{139}{}{Saia daqui. Ou vou chamar os guardas para FAZER você sair.}
+{140}{}{Tente, eu gostaria.}
 {141}{}{Muito bem, estou saindo.}
-{142}{}{It's the maintenance shed for Vault City. Or did you just HAPPEN to miss the huge sign on
- the side of the building?}
-{143}{}{No, sorry. I thought this might be a shop of some sort.}
-{144}{}{Forget it. Sorry to disturb you.}
-{145}{}{You've got the "of some sort" right, anyway. Look, did you need something repaired or did you just want to ask me a bunch of dumb questions?}
-{146}{}{What do you repair here?}
+{142}{}{É o cenro de manutenção de Vault City. Ou você simplesmente nem viu a enorme placa ao
+ lado do prédio?}
+{143}{}{Não, desculpe. Achei que seria algum tipo de loja.}
+{144}{}{Esqueça. Lamento te perturbar.}
+{145}{}{De qualquer forma, você acertou o "de algum tipo". Olha, você precisa consertar alguma coisa ou só vai me fazer um monte de perguntas idiotas?}
+{146}{}{O que você conserta aqui?}
 {147}{}{Cuidado. Não estou com disposição para nenhuma besteira hoje.}
-{148}{}{Just dumb questions today, actually. Talk to you later.}
-{149}{}{Synthetic alcohol dispensers, radios, firearms, laser turret parts, computer monitors, you name it... when I can get the tools to do my job.}
-{150}{}{Tools?}
-{151}{}{Sounds like a tough job. I'll leave you to it.}
-{152}{}{Right now, I've got the metal lathe barely working, and my wrench has gone missing... AGAIN... and my pliers' teeth are stripped.}
-{153}{}{Anything I could help with?}
-{154}{}{What's the problem with getting more tools?}
+{148}{}{Apenas perguntas idiotas hoje, na verdade. Falo com você mais tarde.}
+{149}{}{Distribuidores de álcool sintético, rádios, armas de fogo, peças de revólveres a laser, monitores de computador, o que você quiser... quando eu conseguir as ferramentas necessárias para fazer meu trabalho.}
+{150}{}{Ferramentas?}
+{151}{}{Parece um trabalho difícil. Eu vou deixar você com isso.}
+{152}{}{Por enquanto, o torno de metal não está funcionando e minha chave inglesa sumiu... DE NOVO... e os dentes do meu alicate estão gastos.}
+{153}{}{Algo que eu possa ajudar?}
+{154}{}{Qual é o problema em conseguir mais ferramentas?}
 {155}{}{Tudo bem então. Bom Dia.}
-{156}{}{You? I doubt it.}
-{157}{}{Well, I have a wrench and a pair of pliers right here.}
-{158}{}{Would getting you a new wrench and a set of pliers help you out?}
-{159}{}{What's the problem with getting more tools?}
-{160}{}{Just thought I would offer to help. Nevermind then.}
-{161}{}{The PROBLEM is, I can't just go out and buy some new ones, I have to requisition them from Vault City. That means filling out five billion lists, submitting them in triplicate, then WAITING.}
-{162}{}{So why d --?}
-{163}{}{Sorry to h --}
+{156}{}{Vocês? Eu duvido.}
+{157}{}{Bem, eu tenho uma chave inglesa e um alicate aqui.}
+{158}{}{Conseguir uma nova chave inglesa e um alicate ajudaria você?}
+{159}{}{Qual é o problema em conseguir mais ferramentas?}
+{160}{}{Só pensei em me oferecer para ajudar. Deixa pra lá então.}
+{161}{}{O PROBLEMA é que não posso simplesmente sair e comprar alguns novos, tenho que requisitar em Vault City. Isso significa preencher cinco bilhões de listas, envia-las em triplicado e, então, ESPERAR.}
+{162}{}{Então por qu --?}
+{163}{}{Me desculpe --}
 {164}{}{Hell, I ordered a Super Snap-Off Tool Kit MONTHS ago, but just like always, it won't show until I don't need it anymore. It's a wonder things ever get done around here...}
 {165}{}{Maybe I could help you.}
 {166}{}{Oh. Well, sorry to hear it. I may be back.}
 {167}{}{Sim. Por quê?}
-{168}{}{Well, I have a wrench and a pair of pliers right here.}
+{168}{}{Bem, eu tenho uma chave inglesa e um alicate aqui.}
 {169}{}{Maybe I could go find some and bring them back to you.}
-{170}{}{What's the problem with getting more tools?}
+{170}{}{Qual é o problema em conseguir mais ferramentas?}
 {171}{}{Oh. Well, thanks for the advice.}
 {172}{}{I won't hold my breath, but if you want to, go ahead. It's your time, not mine. I might be able to scrape together a little to pay you for your trouble.}
 {173}{}{If I find a wrench and a pair of pliers, I'll bring them by.}
