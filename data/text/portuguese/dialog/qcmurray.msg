@@ -53,13 +53,13 @@
 {152}{}{Acho que vou ter que encontrar outra maneira de desligar a energia. É melhor não fazer barulho depois que eu for embora. Tchau.}
 {153}{}{Você entendeu. Ok, uh, deslize isso para verde. (Ele mexe em um painel de controle por alguns minutos enquanto resmunga para si mesmo.) Ok, você entendeu, mas certeza que não vai ficar estável por muito tempo.}
 {154}{}{Você fez a coisa certa, agora, eu tenho que ir. É melhor você ficar quieto aqui por um tempo.}
-{155}{}{Good job. Now, I've got to kill you. Sorry, but I can't leave any witnesses.}
-{156}{}{I've got to be going. Goodbye.}
-{157}{}{I don't control that much of the reactor's operation. The central computer just north of the reactor controls most of the power plant functions. If that weren't there, we'd have no power at all.}
-{158}{}{No power at all?}
-{159}{}{Well, not enough for much. The lights, life-support, and defenses would work for a while but forcefields and other power intensive devices would be shut down immediately.}
-{160}{}{Sounds as though you'd really be crippled.}
-{161}{}{Well, it wouldn't be good. All kinds of watertight security doors close when that happens. No way in the world to open them once they're closed by the power shut-off. That's a safety feature.}
-{162}{}{Interesting. There's something else I wanted to know though.}
-{163}{}{That's all I need to know. Thanks you've been a big help. You just better keep quiet after I leave.}
-{164}{}{Thanks. Too bad you won't live to see that. Goodbye.}
+{155}{}{Bom trabalho, agora, preciso matar você. Desculpe, mas não posso deixar nenhuma testemunha.}
+{156}{}{Eu tenho que ir. Adeus.}
+{157}{}{Não controlo muito a operação do reator. O computador central ao norte do reator controla a maioria das funções da usina. Se não existisse, não teríamos força alguma.}
+{158}{}{Não teria força?}
+{159}{}{Bem, não o suficiente para muito. As luzes, o suporte de vida e as defesas funcionariam por um tempo, mas os campos de força e outros dispositivos intensivos de energia seriam desligados imediatamente.}
+{160}{}{Parece que isso deixaria tudo paralisado.}
+{161}{}{Bem, isso não seria bom. Todos os tipos de portas de segurança estanques são fechadas quando isso acontece. Não é humanamente possivel abrir depois de fechadas por uma queda de energia. É um recurso de segurança.}
+{162}{}{Interessante. Tem outra coisa que eu queria saber.}
+{163}{}{Isso é tudo que eu preciso saber. Obrigado, você tem sido uma grande ajuda. É melhor você ficar quieto depois que eu sair.}
+{164}{}{Obrigado. Pena que você não viverá para ver isso. Adeus.}

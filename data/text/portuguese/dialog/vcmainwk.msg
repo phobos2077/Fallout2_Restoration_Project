@@ -21,18 +21,18 @@
 {120}{}{Shop's closed. After I finish this list for the First Citizen, I'm heading home.}
 {121}{}{I'm busy. Come back in a day or so, and I should be finished.}
 {122}{}{I have a whole backlog of stuff that needs fixing. Come back in a day or two.}
-{123}{}{Well, if it isn't my Dad's "boss."}
-{124}{}{Yes?!}
-{125}{}{Did you WANT something, or are you just going to stand there gawking like a moron?}
-{126}{}{Mooo-ron}
+{123}{}{Bem, se não é o "chefe" do meu pai.}
+{124}{}{Sim?!}
+{125}{}{Você QUER alguma coisa, ou vai ficar aí parado olhando como um idiota?}
+{126}{}{Imbe-cil}
 {127}{}{Desliga}
-{128}{}{Whoa, easy. I was just stopping in to see what this place is.}
-{129}{}{Watch it. I'm not in the mood for any bullshit today.}
-{130}{}{I was looking for the Vault. Can you tell me where it is?}
-{131}{}{Actually, I was just leaving.}
-{132}{}{It's that big hole in the mountain to the east, past those two heavily-armed guards. Anything else you want to ask or can I get back to work?}
+{128}{}{Uau, tranquilo. Eu só estava parando para ver o que é esse lugar.}
+{129}{}{Cuidado. Não estou com disposição para nenhuma besteira hoje.}
+{130}{}{Eu estava procurando pela Vault. Você pode me dizer onde fica?}
+{131}{}{Na verdade, eu estava saindo.}
+{132}{}{É aquele grande buraco na montanha a leste, depois daqueles dois guardas fortemente armados. Mais alguma coisa que queira perguntar ou posso voltar ao trabalho?}
 {133}{}{O que é este lugar?}
-{134}{}{Watch it. I'm not in the mood for any bullshit today.}
+{134}{}{Cuidado. Não estou com disposição para nenhuma besteira hoje.}
 {135}{}{Obrigado pelas direções. Tchau.}
 {136}{}{As if Vault City didn't have enough human brahmin... look, you CANT BE IN HERE, OKAY? You could HURT yourself! NOW GET OUT! GO!}
 {137}{}{*Snfff* You big meenie... *snff*... me go sumplace n' have partee wiff clowns... *snfff*... and ice creem... and kake... and me no invit smart meen peuple like YOU!}
@@ -46,7 +46,7 @@
 {144}{}{Forget it. Sorry to disturb you.}
 {145}{}{You've got the "of some sort" right, anyway. Look, did you need something repaired or did you just want to ask me a bunch of dumb questions?}
 {146}{}{What do you repair here?}
-{147}{}{Watch it. I'm not in the mood for any bullshit today.}
+{147}{}{Cuidado. Não estou com disposição para nenhuma besteira hoje.}
 {148}{}{Just dumb questions today, actually. Talk to you later.}
 {149}{}{Synthetic alcohol dispensers, radios, firearms, laser turret parts, computer monitors, you name it... when I can get the tools to do my job.}
 {150}{}{Tools?}

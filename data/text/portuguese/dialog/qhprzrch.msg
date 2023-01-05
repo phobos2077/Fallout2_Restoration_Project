@@ -3,53 +3,53 @@
 {102}{}{Você vê um homem magro, nervoso e mais velho que parece tão cansado e desgastado quanto o terno que está vestindo.}
 {103}{prs1a}{Você aí, o que está fazendo fora do centro de recondicionamento?}
 {104}{prs1b}{Eu conheço você? Em que projeto trabalha?}
-{105}{prs1c}{And who do you think you are barging into my office?}
+{105}{prs1c}{E quem você pensa que é invadindo meu escritório?}
 {106}{}{Uh?}
 {107}{}{Nuh.}
 {108}{}{Tchau-tchau.}
-{109}{prs2a}{Ah, affected by the test serums, I see. Um, I'll get you some help. Guards!}
-{110}{prs2b}{Doctor, I think you've been exposed to the F.E.V. Poor soul, I'll get you some help. Guards!}
-{111}{prs2c}{Now be a good mutant and stay put. Guards!}
+{109}{prs2a}{Ah, afetado pelos soros de teste, entendo. Hum, vou te dar uma ajuda. Guardas!}
+{110}{prs2b}{Acho que você foi exposto ao F.E.V. Pobre alma, vou conseguir uma ajuda. Guardas!}
+{111}{prs2c}{Agora seja um bom mutante e fique parado. Guardas!}
 {112}{}{OK.}
-{113}{}{Uh uh. Bye bye.}
-{114}{}{Just wait right here. }
-{115}{}{Uh, stay calm. Someone will be right along. }
-{116}{}{Everything is fine.}
-{117}{}{Damn it! Will somebody come and get this... person?}
-{118}{}{Oh, guards! There's an idiot in my office... No, not the veep.}
-{119}{prs4}{Hello, there. I'm President Richardson and I'm damn proud to meet you. Ah, Vault 13. You've been doing your country an invaluable service.}
-{120}{}{President? Who are you anyway?}
-{121}{}{A service to my country? Just what's going on here anyway?}
-{122}{}{Uh, I guess I took a wrong turn on my way to the lab. Sorry, sir. Goodbye.}
-{123}{prs5a}{Hello, doctor. Do you have a report? Good news, I hope. Our salvation is in your team's hands.}
-{124}{prs5b}{You there, shouldn't you be working on the Project? Mankind's salvation depends on you.}
+{113}{}{Uh. Tchauzinho.}
+{114}{}{Só espere aqui. }
+{115}{}{Ei, fique calmo. Alguém esta vindo. }
+{116}{}{Tudo está bem.}
+{117}{}{Droga! Alguém poderia vir e levar essa... pessoa?}
+{118}{}{Ah, guardas! Tem um idiota no meu escritório...}
+{119}{prs4}{Olá, sou o presidente Richardson e estou muito orgulhoso de conhecê-lo. Ah, Vault 13, você tem prestado um serviço inestimável ao seu país.}
+{120}{}{Presidente? Quem é você?}
+{121}{}{Um serviço ao meu país? O que esta acontecendo aqui?}
+{122}{}{Uh, acho que peguei o caminho errado indo ao laboratório. Desculpe, senhor. Adeus.}
+{123}{prs5a}{Olá, doutor. Você tem um relatório? Boas notícias, espero. Nossa salvação está nas mãos de sua equipe.}
+{124}{prs5b}{Você aí, não deveria estar trabalhando no Projeto? A salvação da humanidade depende de você.}
 {125}{}{Quem é você?}
-{126}{}{Salvation? Just what's going on here?}
-{127}{}{Sorry, sir. Wrong turn on my way back to the lab. Goodbye.}
-{128}{prs6}{Oh, that's quite all right. All those inoculation shots would disorient anyone.}
-{129}{}{Inoculation shots? What do you mean?}
-{130}{}{I guess I do feel a bit groggy. But knowing that I'm helping my country makes it all seem worthwhile.}
-{131}{}{You can say that again. Well, I better get going.}
-{132}{prs7}{Let me get one of the Secret Service to escort you back.}
-{133}{}{That's kind of you but I think I can make it on my own. Goodbye.}
-{134}{}{That would be nice of you. Thanks.}
-{135}{prs8}{It's no problem at all. (talking to intercom) Hello. I could use a little assistance here.}
-{136}{}{Uh. Gee, thanks sir.}
-{137}{}{You better not call your guards if you want to leave this room alive.}
-{138}{prs9}{Ah... well. I'm sure we can work something out. What's on your mind?}
-{139}{}{I want to know what's going on here.}
-{140}{}{I just want to leave quietly. Keep your hand off the alarm until I'm out of here. Or else....}
-{141}{}{I'm leaving here and taking you as a hostage to make sure my people get out safely.}
-{142}{prs10}{Do you really think you can intimidate the President of the United States?}
+{126}{}{Salvação? O que está acontecendo aqui?}
+{127}{}{Desculpe, senhor. Tomei o caminho errado quando ia ao laboratório. Adeus.}
+{128}{prs6}{Oh, tudo bem. Todas essas doses de inoculação desorientariam qualquer um.}
+{129}{}{Doses de inoculação? O que você quer dizer?}
+{130}{}{Me sinto um pouco grogue ainda. Mas saber que estou ajudando meu país faz tudo valer a pena.}
+{131}{}{Você poderia dizer isso de novo. Tudo bem, é melhor eu ir.}
+{132}{prs7}{Deixe que eu chamo alguém do Serviço Secreto para acompanhá-lo de volta.}
+{133}{}{Isso é gentil da sua parte, mas acho que posso fazer isso sozinho. Adeus.}
+{134}{}{Isso seria ótimo. Obrigado.}
+{135}{prs8}{Não tem problema. (falando com o interfone) Alô, gostaria de um pouco de ajuda, por favor.}
+{136}{}{Uh. Nossa, obrigado, senhor.}
+{137}{}{É melhor você não chamar seus guardas se quiser sair vivo desta sala.}
+{138}{prs9}{Ah, bem. Tenho certeza de que podemos resolver algo. O que está pensando?}
+{139}{}{Eu quero saber o que está acontecendo aqui.}
+{140}{}{Eu só quero sair em silêncio. Deixe sua mão longe do alarme até eu sair daqui, se não....}
+{141}{}{Estou saindo daqui e levando você como refém para garantir que meu povo saia em segurança.}
+{142}{prs10}{Você realmente acha que pode intimidar o presidente dos Estados Unidos?}
 {143}{}{Sem dúvida.}
-{144}{}{Maybe not, but I suggest you stay out of my way until I leave.}
-{145}{prs11a_a}{For your information, the guards have orders to shoot me rather than let anyone or anything endanger the Project. I... wouldn't be of any use as a hostage.}
+{144}{}{Talvez não, mas sugiro que fique fora do meu caminho até eu ir embora.}
+{145}{prs11a_a}{Para sua informação, os guardas têm ordens de atirar até em mim para não permitir que nada prejudique o projeto. Eu... não serviria como refém.}
 {146}{prs11b}{You don't really expect that to work do you? Ha! If you try it, my guards have orders to shoot me rather than let anything, or anyone, endanger the Project. I'm staying right here. Now, are you going to shoot me or not?}
 {147}{}{Maybe not, but I'm leaving. Don't touch that buzzer.}
 {148}{}{The Project? What Project?}
 {149}{}{Yes, it will. I'll enjoy it.}
 {150}{prs12}{Uh, now, now, now. Now, let's... let's... Uh, Wh-wh-what is it you want, anyway?}
-{151}{}{I want to know what's going on here.}
+{151}{}{Eu quero saber o que está acontecendo aqui.}
 {152}{}{I want to know just who the hell you are.}
 {153}{}{I want you dead.}
 {154}{prs13}{Okay, okay, whatever you say. I'll just sit here quietly. It's, uh, nice to meet you. Goodbye.}
