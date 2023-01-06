@@ -80,9 +80,9 @@
 {179}{}{Primeiro, por que vocês tem uma base em Navarro?}
 {180}{}{Antes de prosseguir... Eu vi alguns de seus vertibirds em New Reno. O que seria isso?}
 {181}{}{Não tenho tempo para essa loucura agora. Adeus.}
-{182}{prs21a}{Well, hello there. Glad to make time for one of our gallant troopers. But, I am rather busy. So, uh, what can the President of the United States of America do for you?}
-{183}{prs21b}{You're back? What is it you want?}
-{184}{}{You can tell me just what's going on here.}
+{182}{prs21a}{Bem, olá. Prazer em passar um tempo com um membro de nossas tropas mais galantes, mas estou bem ocupado. Então, o que o presidente dos Estados Unidos da América pode fazer por você?}
+{183}{prs21b}{Você voltou? O que é que você quer?}
+{184}{}{Pode me dizer o que está acontecendo aqui.}
 {185}{}{I, uh, I'm just checking this area, sir. Security check. Yeah. Everything's fine here. Uh, goodbye.}
 {186}{prs22a}{Hello. I'm the President of the United States of America, and you are...?}
 {187}{prs22b}{Hello there. I'm the President of the United States of America and I must say I've seldom seen a stranger, or sorrier, delegation of misfits in all my life. Just who are you to barge in on me this way?}
