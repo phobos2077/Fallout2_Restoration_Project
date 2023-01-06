@@ -188,76 +188,76 @@
 {3004}{}{<Special>}
 {3050}{}{A party of raiders.}
 {3051}{}{Some manti.}
-{3052}{}{A group of geckos.}
-{3053}{}{A group of molerats.}
-{3054}{}{A group of radscorpions.}
-{3055}{}{A group of giant rats.}
+{3052}{}{Um grupo de geckos.}
+{3053}{}{Um grupo de ratos toupeira.}
+{3054}{}{Um grupo de radscorpions.}
+{3055}{}{Um grupo de ratos gigantes.}
 {3056}{}{A merchant party.}
 {3057}{}{<Special>}
 {3100}{}{A party of raiders.}
-{3101}{}{A group of radscorpions.}
-{3102}{}{A group of giant rats.}
+{3101}{}{Um grupo de radscorpions.}
+{3102}{}{Um grupo de ratos gigantes.}
 {3103}{}{A merchant party.}
 {3104}{}{<Special>}
 {3150}{}{A party of raiders.}
 {3200}{}{A party of raiders.}
 {3250}{}{A party of raiders.}
-{3300}{}{A war party.}
-{3301}{}{A group of cannibals.}
-{3302}{}{A group of spore plants and some silver geckos.}
-{3303}{}{A group of silver geckos.}
-{3304}{}{Some bounty hunters.}
-{3305}{}{Some bounty hunters.}
-{3306}{}{Some bounty hunters.}
-{3307}{}{Some bounty hunters.}
-{3308}{}{Some bounty hunters.}
-{3309}{}{Some bounty hunters.}
-{3310}{}{Some bounty hunters.}
-{3311}{}{Some bounty hunters.}
-{3312}{}{A band of ruffians led by a Morton Brother.}
-{3313}{}{A group of radscorpions.}
-{3314}{}{A group of spore plants.}
-{3315}{}{A group of pig rats.}
-{3316}{}{A group of rats.}
-{3317}{}{A hunting party fighting cannibals.}
-{3318}{}{A group of ants.}
-{3319}{}{A hunting party fighting some radscorpions.}
-{3320}{}{A small group of pig rats.}
-{3321}{}{A small group of radscorpions.}
-{3322}{}{A small group of ants.}
-{3323}{}{A hunting party.}
-{3324}{}{A group of nomads.}
-{3325}{}{A man guarding a bridge.}
+{3300}{}{Um grupo de guerra.}
+{3301}{}{Um grupo de canibais.}
+{3302}{}{Um grupo de plantes esporo e alguns geckos prateados.}
+{3303}{}{Um grupo de geckos prateados.}
+{3304}{}{Um grupo de caçadores de recompensa.}
+{3305}{}{Um grupo de caçadores de recompensa.}
+{3306}{}{Um grupo de caçadores de recompensa.}
+{3307}{}{Um grupo de caçadores de recompensa.}
+{3308}{}{Um grupo de caçadores de recompensa.}
+{3309}{}{Um grupo de caçadores de recompensa.}
+{3310}{}{Um grupo de caçadores de recompensa.}
+{3311}{}{Um grupo de caçadores de recompensa.}
+{3312}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
+{3313}{}{Um grupo de radscorpions.}
+{3314}{}{Um grupo de plantas de esporo.}
+{3315}{}{Um grupo de ratos toupeira.}
+{3316}{}{Um grupo de ratos.}
+{3317}{}{Um grupo de caçadores lutando contra canibais.}
+{3318}{}{Um grupo de formigas.}
+{3319}{}{Um grupo de caçadores lutando contra alguns radscorpions.}
+{3320}{}{Um pequeno grupo de ratos toupeira.}
+{3321}{}{Um pequeno grupo de radscorpions.}
+{3322}{}{Um pequeno grupo de formigas.}
+{3323}{}{Um grupo de caçadores.}
+{3324}{}{Um grupo de nômades.}
+{3325}{}{Um homem guardando uma ponte.}
 {3326}{}{King Arthur's Knights fighting a rat.}
 {3327}{}{A band of angry outcasts.}
 {3350}{}{Toxic waste dump.}
 {3351}{}{A lone surviving dog.}
 {3352}{}{A herd of brahmin.}
-{3353}{}{A war party.}
-{3354}{}{Some bounty hunters.}
-{3355}{}{Some bounty hunters.}
-{3356}{}{Some bounty hunters.}
-{3357}{}{Some bounty hunters.}
-{3358}{}{Some bounty hunters.}
-{3359}{}{Some bounty hunters.}
-{3360}{}{Some bounty hunters.}
-{3361}{}{Some bounty hunters.}
-{3362}{}{A band of ruffians led by a Morton Brother.}
-{3363}{}{A group of cannibals.}
-{3364}{}{A group of spore plants and some silver geckos.}
-{3365}{}{A group of silver geckos.}
-{3366}{}{A group of radscorpions.}
-{3367}{}{A group of spore plants.}
-{3368}{}{A group of pig rats.}
-{3369}{}{A group of rats.}
-{3370}{}{A hunting party fighting cannibals.}
-{3371}{}{A group of ants.}
-{3372}{}{A hunting party fighting some radscorpions.}
-{3373}{}{A small group of pig rats.}
-{3374}{}{A small group of radscorpions.}
-{3375}{}{A small group of ants.}
-{3376}{}{A hunting party.}
-{3377}{}{A group of nomads.}
+{3353}{}{Um grupo de guerra.}
+{3354}{}{Um grupo de caçadores de recompensa.}
+{3355}{}{Um grupo de caçadores de recompensa.}
+{3356}{}{Um grupo de caçadores de recompensa.}
+{3357}{}{Um grupo de caçadores de recompensa.}
+{3358}{}{Um grupo de caçadores de recompensa.}
+{3359}{}{Um grupo de caçadores de recompensa.}
+{3360}{}{Um grupo de caçadores de recompensa.}
+{3361}{}{Um grupo de caçadores de recompensa.}
+{3362}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
+{3363}{}{Um grupo de canibais.}
+{3364}{}{Um grupo de plantes esporo e alguns geckos prateados.}
+{3365}{}{Um grupo de geckos prateados.}
+{3366}{}{Um grupo de radscorpions.}
+{3367}{}{Um grupo de plantas de esporo.}
+{3368}{}{Um grupo de ratos toupeira.}
+{3369}{}{Um grupo de ratos.}
+{3370}{}{Um grupo de caçadores lutando contra canibais.}
+{3371}{}{Um grupo de formigas.}
+{3372}{}{Um grupo de caçadores lutando contra alguns radscorpions.}
+{3373}{}{Um pequeno grupo de ratos toupeira.}
+{3374}{}{Um pequeno grupo de radscorpions.}
+{3375}{}{Um pequeno grupo de formigas.}
+{3376}{}{Um grupo de caçadores.}
+{3377}{}{Um grupo de nômades.}
 {3378}{}{The remains of a whale.}
 {3379}{}{A giant stone head.}
 {3380}{}{A crashed shuttle.}
@@ -266,52 +266,52 @@
 {3383}{}{A tin woodsman.}
 {3384}{}{The Unwashed Villagers hunting a spammer.}
 {3385}{}{A band of angry outcasts.}
-{3400}{}{A war party.}
-{3401}{}{A group of cannibals.}
-{3402}{}{A group of spore plants and some silver geckos.}
-{3403}{}{A group of silver geckos.}
-{3404}{}{Some bounty hunters.}
-{3405}{}{Some bounty hunters.}
-{3406}{}{Some bounty hunters.}
-{3407}{}{Some bounty hunters.}
-{3408}{}{Some bounty hunters.}
-{3409}{}{Some bounty hunters.}
-{3410}{}{Some bounty hunters.}
-{3411}{}{Some bounty hunters.}
-{3412}{}{A band of ruffians led by a Morton Brother.}
-{3413}{}{A group of radscorpions.}
-{3414}{}{A group of spore plants.}
-{3415}{}{A group of pig rats.}
-{3416}{}{A group of rats.}
-{3417}{}{A hunting party fighting cannibals.}
-{3418}{}{A group of ants.}
-{3419}{}{A hunting party fighting some radscorpions.}
-{3420}{}{A small group of pig rats.}
-{3421}{}{A small group of radscorpions.}
-{3422}{}{A small group of ants.}
-{3423}{}{A hunting party.}
-{3424}{}{A group of nomads.}
+{3400}{}{Um grupo de guerra.}
+{3401}{}{Um grupo de canibais.}
+{3402}{}{Um grupo de plantes esporo e alguns geckos prateados.}
+{3403}{}{Um grupo de geckos prateados.}
+{3404}{}{Um grupo de caçadores de recompensa.}
+{3405}{}{Um grupo de caçadores de recompensa.}
+{3406}{}{Um grupo de caçadores de recompensa.}
+{3407}{}{Um grupo de caçadores de recompensa.}
+{3408}{}{Um grupo de caçadores de recompensa.}
+{3409}{}{Um grupo de caçadores de recompensa.}
+{3410}{}{Um grupo de caçadores de recompensa.}
+{3411}{}{Um grupo de caçadores de recompensa.}
+{3412}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
+{3413}{}{Um grupo de radscorpions.}
+{3414}{}{Um grupo de plantas de esporo.}
+{3415}{}{Um grupo de ratos toupeira.}
+{3416}{}{Um grupo de ratos.}
+{3417}{}{Um grupo de caçadores lutando contra canibais.}
+{3418}{}{Um grupo de formigas.}
+{3419}{}{Um grupo de caçadores lutando contra alguns radscorpions.}
+{3420}{}{Um pequeno grupo de ratos toupeira.}
+{3421}{}{Um pequeno grupo de radscorpions.}
+{3422}{}{Um pequeno grupo de formigas.}
+{3423}{}{Um grupo de caçadores.}
+{3424}{}{Um grupo de nômades.}
 {3425}{}{A band of angry outcasts.}
 {3450}{}{Toxic waste dump.}
 {3451}{}{A lone surviving dog.}
 {3452}{}{A herd of brahmin.}
 {3453}{}{A band of outcasts.}
-{3454}{}{Some bounty hunters.}
-{3455}{}{Some bounty hunters.}
-{3456}{}{Some bounty hunters.}
-{3457}{}{Some bounty hunters.}
-{3458}{}{Some bounty hunters.}
-{3459}{}{Some bounty hunters.}
-{3460}{}{Some bounty hunters.}
-{3461}{}{Some bounty hunters.}
-{3462}{}{A band of ruffians led by a Morton Brother.}
+{3454}{}{Um grupo de caçadores de recompensa.}
+{3455}{}{Um grupo de caçadores de recompensa.}
+{3456}{}{Um grupo de caçadores de recompensa.}
+{3457}{}{Um grupo de caçadores de recompensa.}
+{3458}{}{Um grupo de caçadores de recompensa.}
+{3459}{}{Um grupo de caçadores de recompensa.}
+{3460}{}{Um grupo de caçadores de recompensa.}
+{3461}{}{Um grupo de caçadores de recompensa.}
+{3462}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
 {3463}{}{A group of holy people.}
 {3464}{}{Some geckos hiding amongst spore plants.}
 {3465}{}{Some geckos.}
 {3466}{}{Some radscorpions hiding amongst spore plants.}
 {3467}{}{Some spore plants.}
 {3468}{}{A family of radscorpions.}
-{3469}{}{A group of molerats.}
+{3469}{}{Um grupo de ratos toupeira.}
 {3470}{}{A group of holy people staving off a war party.}
 {3471}{}{A band of nomads.}
 {3472}{}{The remains of a whale.}
@@ -324,24 +324,24 @@
 {3479}{}{A band of angry outcasts.}
 {3500}{}{A band of outcasts.}
 {3501}{}{A group of holy people.}
-{3502}{}{Some bounty hunters.}
-{3503}{}{Some bounty hunters.}
-{3504}{}{Some bounty hunters.}
-{3505}{}{Some bounty hunters.}
-{3506}{}{Some bounty hunters.}
-{3507}{}{Some bounty hunters.}
-{3508}{}{Some bounty hunters.}
-{3509}{}{Some bounty hunters.}
-{3510}{}{A band of ruffians led by a Morton Brother.}
+{3502}{}{Um grupo de caçadores de recompensa.}
+{3503}{}{Um grupo de caçadores de recompensa.}
+{3504}{}{Um grupo de caçadores de recompensa.}
+{3505}{}{Um grupo de caçadores de recompensa.}
+{3506}{}{Um grupo de caçadores de recompensa.}
+{3507}{}{Um grupo de caçadores de recompensa.}
+{3508}{}{Um grupo de caçadores de recompensa.}
+{3509}{}{Um grupo de caçadores de recompensa.}
+{3510}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
 {3511}{}{Some silver geckos hiding amongst spore plants.}
 {3512}{}{Some geckos.}
 {3513}{}{Some radscorpions hiding amongst spore plants.}
 {3514}{}{Some spore plants.}
 {3515}{}{A family of radscorpions.}
-{3516}{}{A group of molerats.}
+{3516}{}{Um grupo de ratos toupeira.}
 {3517}{}{A group of holy people staving off a war party.}
 {3518}{}{A band of nomads.}
-{3519}{}{A man guarding a bridge.}
+{3519}{}{Um homem guardando uma ponte.}
 {3520}{}{King Arthur's Knights fighting a rat.}
 {3521}{}{A band of angry outcasts.}
 {3550}{}{Toxic waste dump}
@@ -351,15 +351,15 @@
 {3554}{}{Some bandits.}
 {3555}{}{A group of homeless people.}
 {3556}{}{A pack of golden geckos.}
-{3557}{}{Some bounty hunters.}
-{3558}{}{Some bounty hunters.}
-{3559}{}{Some bounty hunters.}
-{3560}{}{Some bounty hunters.}
-{3561}{}{Some bounty hunters.}
-{3562}{}{Some bounty hunters.}
-{3563}{}{Some bounty hunters.}
-{3564}{}{Some bounty hunters.}
-{3565}{}{A band of ruffians led by a Morton Brother.}
+{3557}{}{Um grupo de caçadores de recompensa.}
+{3558}{}{Um grupo de caçadores de recompensa.}
+{3559}{}{Um grupo de caçadores de recompensa.}
+{3560}{}{Um grupo de caçadores de recompensa.}
+{3561}{}{Um grupo de caçadores de recompensa.}
+{3562}{}{Um grupo de caçadores de recompensa.}
+{3563}{}{Um grupo de caçadores de recompensa.}
+{3564}{}{Um grupo de caçadores de recompensa.}
+{3565}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
 {3566}{}{A family of radscorpions.}
 {3567}{}{Some spore plants.}
 {3568}{}{Some bandits attacked by some golden geckos.}
@@ -388,15 +388,15 @@
 {3601}{}{Some bandits.}
 {3602}{}{A group of homeless people.}
 {3603}{}{A pack of golden geckos.}
-{3604}{}{Some bounty hunters.}
-{3605}{}{Some bounty hunters.}
-{3606}{}{Some bounty hunters.}
-{3607}{}{Some bounty hunters.}
-{3608}{}{Some bounty hunters.}
-{3609}{}{Some bounty hunters.}
-{3610}{}{Some bounty hunters.}
-{3611}{}{Some bounty hunters.}
-{3612}{}{A band of ruffians led by a Morton Brother.}
+{3604}{}{Um grupo de caçadores de recompensa.}
+{3605}{}{Um grupo de caçadores de recompensa.}
+{3606}{}{Um grupo de caçadores de recompensa.}
+{3607}{}{Um grupo de caçadores de recompensa.}
+{3608}{}{Um grupo de caçadores de recompensa.}
+{3609}{}{Um grupo de caçadores de recompensa.}
+{3610}{}{Um grupo de caçadores de recompensa.}
+{3611}{}{Um grupo de caçadores de recompensa.}
+{3612}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
 {3613}{}{A family of radscorpions.}
 {3614}{}{Some spore plants.}
 {3615}{}{Some bandits attacked by some golden geckos.}
@@ -414,28 +414,28 @@
 {3627}{}{Some farmers rooting out an infestation of pig rats.}
 {3628}{}{Some farmers.}
 {3629}{}{A group of trappers.}
-{3630}{}{A man guarding a bridge.}
+{3630}{}{Um homem guardando uma ponte.}
 {3631}{}{King Arthur's Knights fighting a rat.}
 {3632}{}{A band of angry outcasts.}
 {3650}{}{Toxic waste dump.}
 {3651}{}{A lone surviving dog.}
 {3652}{}{A herd of brahmin.}
 {3653}{}{A merchant and some guards.}
-{3654}{}{Some bounty hunters.}
-{3655}{}{Some bounty hunters.}
-{3656}{}{Some bounty hunters.}
-{3657}{}{Some bounty hunters.}
-{3658}{}{Some bounty hunters.}
-{3659}{}{Some bounty hunters.}
-{3660}{}{Some bounty hunters.}
-{3661}{}{Some bounty hunters.}
-{3662}{}{A band of ruffians led by a Morton Brother.}
+{3654}{}{Um grupo de caçadores de recompensa.}
+{3655}{}{Um grupo de caçadores de recompensa.}
+{3656}{}{Um grupo de caçadores de recompensa.}
+{3657}{}{Um grupo de caçadores de recompensa.}
+{3658}{}{Um grupo de caçadores de recompensa.}
+{3659}{}{Um grupo de caçadores de recompensa.}
+{3660}{}{Um grupo de caçadores de recompensa.}
+{3661}{}{Um grupo de caçadores de recompensa.}
+{3662}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
 {3663}{}{Some trappers.}
 {3664}{}{Some bandits attacking a merchant party.}
 {3665}{}{Some bandits ambushing some trappers.}
 {3666}{}{A family of radscorpions attacking a merchant party.}
 {3667}{}{Some trappers trying to catch radscorpions.}
-{3668}{}{A group of radscorpions.}
+{3668}{}{Um grupo de radscorpions.}
 {3669}{}{A family of molerats.}
 {3670}{}{Some bandits.}
 {3671}{}{A band of trappers trying to catch some golden geckos.}
@@ -457,15 +457,15 @@
 {3701}{}{A lone surviving dog.}
 {3702}{}{A herd of brahmin.}
 {3703}{}{A band of highwaymen.}
-{3704}{}{Some bounty hunters.}
-{3705}{}{Some bounty hunters.}
-{3706}{}{Some bounty hunters.}
-{3707}{}{Some bounty hunters.}
-{3708}{}{Some bounty hunters.}
-{3709}{}{Some bounty hunters.}
-{3710}{}{Some bounty hunters.}
-{3711}{}{Some bounty hunters.}
-{3712}{}{A band of ruffians led by a Morton Brother.}
+{3704}{}{Um grupo de caçadores de recompensa.}
+{3705}{}{Um grupo de caçadores de recompensa.}
+{3706}{}{Um grupo de caçadores de recompensa.}
+{3707}{}{Um grupo de caçadores de recompensa.}
+{3708}{}{Um grupo de caçadores de recompensa.}
+{3709}{}{Um grupo de caçadores de recompensa.}
+{3710}{}{Um grupo de caçadores de recompensa.}
+{3711}{}{Um grupo de caçadores de recompensa.}
+{3712}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
 {3713}{}{A band of robbers.}
 {3714}{}{A band of robbers and highwaymen.}
 {3715}{}{Some golden geckos and some radscorpions.}
@@ -490,15 +490,15 @@
 {3751}{}{A band of robbers.}
 {3752}{}{A band of robbers and highwaymen.}
 {3753}{}{Some golden geckos and some radscorpions.}
-{3754}{}{Some bounty hunters.}
-{3755}{}{Some bounty hunters.}
-{3756}{}{Some bounty hunters.}
-{3757}{}{Some bounty hunters.}
-{3758}{}{Some bounty hunters.}
-{3759}{}{Some bounty hunters.}
-{3760}{}{Some bounty hunters.}
-{3761}{}{Some bounty hunters.}
-{3762}{}{A band of ruffians led by a Morton Brother.}
+{3754}{}{Um grupo de caçadores de recompensa.}
+{3755}{}{Um grupo de caçadores de recompensa.}
+{3756}{}{Um grupo de caçadores de recompensa.}
+{3757}{}{Um grupo de caçadores de recompensa.}
+{3758}{}{Um grupo de caçadores de recompensa.}
+{3759}{}{Um grupo de caçadores de recompensa.}
+{3760}{}{Um grupo de caçadores de recompensa.}
+{3761}{}{Um grupo de caçadores de recompensa.}
+{3762}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
 {3763}{}{A family of golden geckos.}
 {3764}{}{A family of molerats.}
 {3765}{}{Um grande grupo de radscorpions.}
@@ -509,27 +509,27 @@
 {3770}{}{Um grupo de mercadores se defendendo de alguns radscorpions.}
 {3771}{}{Um grupo de geckos dourados lutando contra alguns radscorpions.}
 {3772}{}{Um comerciante com alguns guardas.}
-{3773}{}{A man guarding a bridge.}
+{3773}{}{Um homem guardando uma ponte.}
 {3774}{}{King Arthur's Knights fighting a rat.}
 {3800}{}{Toxic waste dump.}
 {3801}{}{A lone surviving dog.}
 {3802}{}{A herd of brahmin.}
 {3803}{}{Um grupo de escravistas e escravos.}
-{3804}{}{Some bounty hunters.}
-{3805}{}{Some bounty hunters.}
-{3806}{}{Some bounty hunters.}
-{3807}{}{Some bounty hunters.}
-{3808}{}{Some bounty hunters.}
-{3809}{}{Some bounty hunters.}
-{3810}{}{Some bounty hunters.}
-{3811}{}{Some bounty hunters.}
-{3812}{}{A band of ruffians led by a Morton Brother.}
+{3804}{}{Um grupo de caçadores de recompensa.}
+{3805}{}{Um grupo de caçadores de recompensa.}
+{3806}{}{Um grupo de caçadores de recompensa.}
+{3807}{}{Um grupo de caçadores de recompensa.}
+{3808}{}{Um grupo de caçadores de recompensa.}
+{3809}{}{Um grupo de caçadores de recompensa.}
+{3810}{}{Um grupo de caçadores de recompensa.}
+{3811}{}{Um grupo de caçadores de recompensa.}
+{3812}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
 {3813}{}{Um grupo de salteadores.}
 {3814}{}{A band of robbers.}
 {3815}{}{Alguns geckos dourados escondidas entre um grande número de plantas de esporos.}
 {3816}{}{Um bando de radscorpions e alguns ratos toupeiras.}
 {3817}{}{Um bando de radscorpions.}
-{3818}{}{A group of molerats.}
+{3818}{}{Um grupo de ratos toupeira.}
 {3819}{}{Um bando de ladrões emboscando um grupo de salteadores.}
 {3820}{}{Um grupo de escravistas tentando escravizar algumas pessoas.}
 {3821}{}{Um grupo de escravistas e escravos se defendendo de alguns ladrões.}
@@ -547,59 +547,59 @@
 {3851}{}{Um grupo de salteadores.}
 {3852}{}{A band of robbers.}
 {3853}{}{Alguns geckos dourados escondidas entre um grande número de plantas de esporos.}
-{3854}{}{Some bounty hunters.}
-{3855}{}{Some bounty hunters.}
-{3856}{}{Some bounty hunters.}
-{3857}{}{Some bounty hunters.}
-{3858}{}{Some bounty hunters.}
-{3859}{}{Some bounty hunters.}
-{3860}{}{Some bounty hunters.}
-{3861}{}{Some bounty hunters.}
-{3862}{}{A band of ruffians led by a Morton Brother.}
+{3854}{}{Um grupo de caçadores de recompensa.}
+{3855}{}{Um grupo de caçadores de recompensa.}
+{3856}{}{Um grupo de caçadores de recompensa.}
+{3857}{}{Um grupo de caçadores de recompensa.}
+{3858}{}{Um grupo de caçadores de recompensa.}
+{3859}{}{Um grupo de caçadores de recompensa.}
+{3860}{}{Um grupo de caçadores de recompensa.}
+{3861}{}{Um grupo de caçadores de recompensa.}
+{3862}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
 {3863}{}{Um bando de radscorpions e alguns ratos toupeiras.}
 {3864}{}{Um bando de radscorpions.}
-{3865}{}{A group of molerats.}
+{3865}{}{Um grupo de ratos toupeira.}
 {3866}{}{Um bando de ladrões emboscando um grupo de salteadores.}
 {3867}{}{Um grupo de escravistas tentando escravizar algumas pessoas.}
 {3868}{}{Um grupo de escravistas e escravos se defendendo de alguns ladrões.}
 {3869}{}{Um grupo de escravistas e escravos se defendendo de alguns geckos dourados.}
-{3870}{}{A man guarding a bridge.}
+{3870}{}{Um homem guardando uma ponte.}
 {3871}{}{King Arthur's Knights fighting a rat.}
 {3900}{}{Alguns salteadores e assaltantes.}
 {3901}{}{Alguns salteadores.}
 {3902}{}{Um grande grupo de geckos dourados.}
 {3903}{}{Alguns radscorpions escondidos nas plantas de esporos.}
-{3904}{}{Some bounty hunters.}
-{3905}{}{Some bounty hunters.}
-{3906}{}{Some bounty hunters.}
-{3907}{}{Some bounty hunters.}
-{3908}{}{Some bounty hunters.}
-{3909}{}{Some bounty hunters.}
-{3910}{}{Some bounty hunters.}
-{3911}{}{Some bounty hunters.}
-{3912}{}{A band of ruffians led by a Morton Brother.}
+{3904}{}{Um grupo de caçadores de recompensa.}
+{3905}{}{Um grupo de caçadores de recompensa.}
+{3906}{}{Um grupo de caçadores de recompensa.}
+{3907}{}{Um grupo de caçadores de recompensa.}
+{3908}{}{Um grupo de caçadores de recompensa.}
+{3909}{}{Um grupo de caçadores de recompensa.}
+{3910}{}{Um grupo de caçadores de recompensa.}
+{3911}{}{Um grupo de caçadores de recompensa.}
+{3912}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
 {3913}{}{Alguns ladrões lutando contra alguns radscorpions.}
 {3914}{}{Alguns ladrões.}
 {3915}{}{Um grupo de mercadores atacado por salteadores.}
 {3916}{}{Um grupo de mercadores emboscado por ladrões.}
 {3917}{}{Alguns salteadores atacados por algumas plantas de esporos.}
 {3918}{}{A merchant party.}
-{3919}{}{A man guarding a bridge.}
+{3919}{}{Um homem guardando uma ponte.}
 {3920}{}{King Arthur's Knights fighting a rat.}
 {3921}{}{Alguns bandidos furiosos.}
 {3950}{}{Alguns salteadores.}
 {3951}{}{Alguns ladrões.}
 {3952}{}{Alguns mendigos.}
 {3953}{}{Alguns geckos dourados e louva-a-deus.}
-{3954}{}{Some bounty hunters.}
-{3955}{}{Some bounty hunters.}
-{3956}{}{Some bounty hunters.}
-{3957}{}{Some bounty hunters.}
-{3958}{}{Some bounty hunters.}
-{3959}{}{Some bounty hunters.}
-{3960}{}{Some bounty hunters.}
-{3961}{}{Some bounty hunters.}
-{3962}{}{A band of ruffians led by a Morton Brother.}
+{3954}{}{Um grupo de caçadores de recompensa.}
+{3955}{}{Um grupo de caçadores de recompensa.}
+{3956}{}{Um grupo de caçadores de recompensa.}
+{3957}{}{Um grupo de caçadores de recompensa.}
+{3958}{}{Um grupo de caçadores de recompensa.}
+{3959}{}{Um grupo de caçadores de recompensa.}
+{3960}{}{Um grupo de caçadores de recompensa.}
+{3961}{}{Um grupo de caçadores de recompensa.}
+{3962}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
 {3963}{}{Alguns brahmins selvagens.}
 {3964}{}{Some radscorpions.}
 {3965}{}{Alguns destiladores atacados por alguns bandidos.}
@@ -612,22 +612,22 @@
 {3972}{}{Some moonshiners.}
 {3973}{}{Some farmers.}
 {3974}{}{A herd of brahmin.}
-{3975}{}{A man guarding a bridge.}
+{3975}{}{Um homem guardando uma ponte.}
 {3976}{}{King Arthur's Knights fighting a rat.}
 {3977}{}{Alguns bandidos furiosos.}
 {4000}{}{Some highwaymen tracking with wild dogs.}
 {4001}{}{Some robbers searching with wild dogs.}
 {4002}{}{A band of robbers.}
 {4003}{}{A band of highwaymen.}
-{4004}{}{Some bounty hunters.}
-{4005}{}{Some bounty hunters.}
-{4006}{}{Some bounty hunters.}
-{4007}{}{Some bounty hunters.}
-{4008}{}{Some bounty hunters.}
-{4009}{}{Some bounty hunters.}
-{4010}{}{Some bounty hunters.}
-{4011}{}{Some bounty hunters.}
-{4012}{}{A band of ruffians led by a Morton Brother.}
+{4004}{}{Um grupo de caçadores de recompensa.}
+{4005}{}{Um grupo de caçadores de recompensa.}
+{4006}{}{Um grupo de caçadores de recompensa.}
+{4007}{}{Um grupo de caçadores de recompensa.}
+{4008}{}{Um grupo de caçadores de recompensa.}
+{4009}{}{Um grupo de caçadores de recompensa.}
+{4010}{}{Um grupo de caçadores de recompensa.}
+{4011}{}{Um grupo de caçadores de recompensa.}
+{4012}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
 {4013}{}{A swarm of mantis infesting some spore plants.}
 {4014}{}{A pack of wild dogs amongst some spore plants.}
 {4015}{}{A swarm of mantis.}
@@ -637,21 +637,21 @@
 {4019}{}{A caravan ambushed by robbers.}
 {4020}{}{A caravan ambushed by highwaymen.}
 {4021}{}{A caravan.}
-{4022}{}{A man guarding a bridge.}
+{4022}{}{Um homem guardando uma ponte.}
 {4023}{}{King Arthur's Knights fighting a rat.}
 {4050}{}{Toxic waste dump.}
 {4051}{}{A lone surviving dog.}
 {4052}{}{A herd of brahmin.}
 {4053}{}{Some highwaymen tracking with wild dogs.}
-{4054}{}{Some bounty hunters.}
-{4055}{}{Some bounty hunters.}
-{4056}{}{Some bounty hunters.}
-{4057}{}{Some bounty hunters.}
-{4058}{}{Some bounty hunters.}
-{4059}{}{Some bounty hunters.}
-{4060}{}{Some bounty hunters.}
-{4061}{}{Some bounty hunters.}
-{4062}{}{A band of ruffians led by a Morton Brother.}
+{4054}{}{Um grupo de caçadores de recompensa.}
+{4055}{}{Um grupo de caçadores de recompensa.}
+{4056}{}{Um grupo de caçadores de recompensa.}
+{4057}{}{Um grupo de caçadores de recompensa.}
+{4058}{}{Um grupo de caçadores de recompensa.}
+{4059}{}{Um grupo de caçadores de recompensa.}
+{4060}{}{Um grupo de caçadores de recompensa.}
+{4061}{}{Um grupo de caçadores de recompensa.}
+{4062}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
 {4063}{}{Some robbers searching with wild dogs.}
 {4064}{}{A band of robbers.}
 {4065}{}{A band of highwaymen.}
@@ -675,37 +675,37 @@
 {4101}{}{A swarm of mantis.}
 {4102}{}{Some radscorpions.}
 {4103}{}{Alguns brahmins selvagens.}
-{4104}{}{Some bounty hunters.}
-{4105}{}{Some bounty hunters.}
-{4106}{}{Some bounty hunters.}
-{4107}{}{Some bounty hunters.}
-{4108}{}{Some bounty hunters.}
-{4109}{}{Some bounty hunters.}
-{4110}{}{Some bounty hunters.}
-{4111}{}{Some bounty hunters.}
-{4112}{}{A band of ruffians led by a Morton Brother.}
+{4104}{}{Um grupo de caçadores de recompensa.}
+{4105}{}{Um grupo de caçadores de recompensa.}
+{4106}{}{Um grupo de caçadores de recompensa.}
+{4107}{}{Um grupo de caçadores de recompensa.}
+{4108}{}{Um grupo de caçadores de recompensa.}
+{4109}{}{Um grupo de caçadores de recompensa.}
+{4110}{}{Um grupo de caçadores de recompensa.}
+{4111}{}{Um grupo de caçadores de recompensa.}
+{4112}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
 {4113}{}{A trader and guards fighting golden geckos.}
 {4114}{}{A swarm of mantis massacring a trading band.}
 {4115}{}{A swarm of mantis fighting wild brahmin.}
 {4116}{}{Some radscorpions feasting on mantis.}
 {4117}{}{Some radscorpions butchering some wild brahmin.}
 {4118}{}{A trader and guards.}
-{4119}{}{A man guarding a bridge.}
+{4119}{}{Um homem guardando uma ponte.}
 {4120}{}{King Arthur's Knights fighting a rat.}
 {4121}{}{Alguns bandidos furiosos.}
 {4150}{}{Toxic waste dump.}
 {4151}{}{A lone surviving dog.}
 {4152}{}{A herd of brahmin.}
 {4153}{}{Some golden geckos.}
-{4154}{}{Some bounty hunters.}
-{4155}{}{Some bounty hunters.}
-{4156}{}{Some bounty hunters.}
-{4157}{}{Some bounty hunters.}
-{4158}{}{Some bounty hunters.}
-{4159}{}{Some bounty hunters.}
-{4160}{}{Some bounty hunters.}
-{4161}{}{Some bounty hunters.}
-{4162}{}{A band of ruffians led by a Morton Brother.}
+{4154}{}{Um grupo de caçadores de recompensa.}
+{4155}{}{Um grupo de caçadores de recompensa.}
+{4156}{}{Um grupo de caçadores de recompensa.}
+{4157}{}{Um grupo de caçadores de recompensa.}
+{4158}{}{Um grupo de caçadores de recompensa.}
+{4159}{}{Um grupo de caçadores de recompensa.}
+{4160}{}{Um grupo de caçadores de recompensa.}
+{4161}{}{Um grupo de caçadores de recompensa.}
+{4162}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
 {4163}{}{A swarm of mantis.}
 {4164}{}{Some radscorpions.}
 {4165}{}{Alguns brahmins selvagens.}
@@ -727,15 +727,15 @@
 {4201}{}{A lone surviving dog.}
 {4202}{}{A herd of brahmin.}
 {4203}{}{Some mutated molerats.}
-{4204}{}{Some bounty hunters.}
-{4205}{}{Some bounty hunters.}
-{4206}{}{Some bounty hunters.}
-{4207}{}{Some bounty hunters.}
-{4208}{}{Some bounty hunters.}
-{4209}{}{Some bounty hunters.}
-{4210}{}{Some bounty hunters.}
-{4211}{}{Some bounty hunters.}
-{4212}{}{A band of ruffians led by a Morton Brother.}
+{4204}{}{Um grupo de caçadores de recompensa.}
+{4205}{}{Um grupo de caçadores de recompensa.}
+{4206}{}{Um grupo de caçadores de recompensa.}
+{4207}{}{Um grupo de caçadores de recompensa.}
+{4208}{}{Um grupo de caçadores de recompensa.}
+{4209}{}{Um grupo de caçadores de recompensa.}
+{4210}{}{Um grupo de caçadores de recompensa.}
+{4211}{}{Um grupo de caçadores de recompensa.}
+{4212}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
 {4213}{}{Some mutated pig rats.}
 {4214}{}{Some spore plants.}
 {4215}{}{A hermit and some dogs fighting mutated molerats.}
@@ -757,15 +757,15 @@
 {4251}{}{Some mutated pig rats.}
 {4252}{}{Some spore plants.}
 {4253}{}{A hermit and some dogs fighting mutated molerats.}
-{4254}{}{Some bounty hunters.}
-{4255}{}{Some bounty hunters.}
-{4256}{}{Some bounty hunters.}
-{4257}{}{Some bounty hunters.}
-{4258}{}{Some bounty hunters.}
-{4259}{}{Some bounty hunters.}
-{4260}{}{Some bounty hunters.}
-{4261}{}{Some bounty hunters.}
-{4262}{}{A band of ruffians led by a Morton Brother.}
+{4254}{}{Um grupo de caçadores de recompensa.}
+{4255}{}{Um grupo de caçadores de recompensa.}
+{4256}{}{Um grupo de caçadores de recompensa.}
+{4257}{}{Um grupo de caçadores de recompensa.}
+{4258}{}{Um grupo de caçadores de recompensa.}
+{4259}{}{Um grupo de caçadores de recompensa.}
+{4260}{}{Um grupo de caçadores de recompensa.}
+{4261}{}{Um grupo de caçadores de recompensa.}
+{4262}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
 {4263}{}{A hermit fending off some wild dogs.}
 {4264}{}{A hermit fending off some mutated pig rats.}
 {4265}{}{A hermit with some dogs fighting mutated molerats.}
@@ -773,42 +773,42 @@
 {4267}{}{Some mutated molerats fighting some spore plants.}
 {4268}{}{Some mutated pig rats fighting some wild dogs.}
 {4269}{}{A hermit.}
-{4270}{}{A man guarding a bridge.}
+{4270}{}{Um homem guardando uma ponte.}
 {4271}{}{King Arthur's Knights fighting a rat.}
 {4300}{}{A band of slavers and some dogs.}
 {4301}{}{A band of slavers.}
 {4302}{}{Some golden geckos.}
 {4303}{}{A pack of wild dogs.}
-{4304}{}{Some bounty hunters.}
-{4305}{}{Some bounty hunters.}
-{4306}{}{Some bounty hunters.}
-{4307}{}{Some bounty hunters.}
-{4308}{}{Some bounty hunters.}
-{4309}{}{Some bounty hunters.}
-{4310}{}{Some bounty hunters.}
-{4311}{}{Some bounty hunters.}
-{4312}{}{A band of ruffians led by a Morton Brother.}
+{4304}{}{Um grupo de caçadores de recompensa.}
+{4305}{}{Um grupo de caçadores de recompensa.}
+{4306}{}{Um grupo de caçadores de recompensa.}
+{4307}{}{Um grupo de caçadores de recompensa.}
+{4308}{}{Um grupo de caçadores de recompensa.}
+{4309}{}{Um grupo de caçadores de recompensa.}
+{4310}{}{Um grupo de caçadores de recompensa.}
+{4311}{}{Um grupo de caçadores de recompensa.}
+{4312}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
 {4313}{}{A patrol unit and dogs subduing slavers}
 {4314}{}{A band of slavers fending off some golden geckos.}
 {4315}{}{A patrol unit fighting some slavers.}
 {4316}{}{A patrol unit battling some golden geckos.}
 {4317}{}{A patrol unit fending off wild dogs.}
 {4318}{}{A patrol unit.}
-{4319}{}{A man guarding a bridge.}
+{4319}{}{Um homem guardando uma ponte.}
 {4320}{}{King Arthur's Knights fighting a rat.}
 {4350}{}{Toxic waste dump.}
 {4351}{}{A lone surviving dog.}
 {4352}{}{A herd of brahmin.}
 {4353}{}{A band of slavers and some dogs.}
-{4354}{}{Some bounty hunters.}
-{4355}{}{Some bounty hunters.}
-{4356}{}{Some bounty hunters.}
-{4357}{}{Some bounty hunters.}
-{4358}{}{Some bounty hunters.}
-{4359}{}{Some bounty hunters.}
-{4360}{}{Some bounty hunters.}
-{4361}{}{Some bounty hunters.}
-{4362}{}{A band of ruffians led by a Morton Brother.}
+{4354}{}{Um grupo de caçadores de recompensa.}
+{4355}{}{Um grupo de caçadores de recompensa.}
+{4356}{}{Um grupo de caçadores de recompensa.}
+{4357}{}{Um grupo de caçadores de recompensa.}
+{4358}{}{Um grupo de caçadores de recompensa.}
+{4359}{}{Um grupo de caçadores de recompensa.}
+{4360}{}{Um grupo de caçadores de recompensa.}
+{4361}{}{Um grupo de caçadores de recompensa.}
+{4362}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
 {4363}{}{A band of slavers.}
 {4364}{}{Some golden geckos.}
 {4365}{}{A pack of wild dogs.}
@@ -829,15 +829,15 @@
 {4401}{}{Some ghoul scavengers.}
 {4402}{}{A bunch of crazies.}
 {4403}{}{Some ghoul crazies.}
-{4404}{}{Some bounty hunters.}
-{4405}{}{Some bounty hunters.}
-{4406}{}{Some bounty hunters.}
-{4407}{}{Some bounty hunters.}
-{4408}{}{Some bounty hunters.}
-{4409}{}{Some bounty hunters.}
-{4410}{}{Some bounty hunters.}
-{4411}{}{Some bounty hunters.}
-{4412}{}{A band of ruffians led by a Morton Brother.}
+{4404}{}{Um grupo de caçadores de recompensa.}
+{4405}{}{Um grupo de caçadores de recompensa.}
+{4406}{}{Um grupo de caçadores de recompensa.}
+{4407}{}{Um grupo de caçadores de recompensa.}
+{4408}{}{Um grupo de caçadores de recompensa.}
+{4409}{}{Um grupo de caçadores de recompensa.}
+{4410}{}{Um grupo de caçadores de recompensa.}
+{4411}{}{Um grupo de caçadores de recompensa.}
+{4412}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
 {4413}{}{Some geckos.}
 {4414}{}{A pack of wild dogs.}
 {4415}{}{A family of radscorpions.}
@@ -847,21 +847,21 @@
 {4419}{}{Some ghoul scavengers fending off some crazies.}
 {4420}{}{Some geckos fighting some crazies.}
 {4421}{}{Some mutated rats infesting some ghoul scavengers.}
-{4422}{}{A man guarding a bridge.}
+{4422}{}{Um homem guardando uma ponte.}
 {4423}{}{King Arthur's Knights fighting a rat.}
 {4450}{}{Toxic waste dump.}
 {4451}{}{A lone surviving dog.}
 {4452}{}{A herd of brahmin.}
 {4453}{}{A slew of scavengers.}
-{4454}{}{Some bounty hunters.}
-{4455}{}{Some bounty hunters.}
-{4456}{}{Some bounty hunters.}
-{4457}{}{Some bounty hunters.}
-{4458}{}{Some bounty hunters.}
-{4459}{}{Some bounty hunters.}
-{4460}{}{Some bounty hunters.}
-{4461}{}{Some bounty hunters.}
-{4462}{}{A band of ruffians led by a Morton Brother.}
+{4454}{}{Um grupo de caçadores de recompensa.}
+{4455}{}{Um grupo de caçadores de recompensa.}
+{4456}{}{Um grupo de caçadores de recompensa.}
+{4457}{}{Um grupo de caçadores de recompensa.}
+{4458}{}{Um grupo de caçadores de recompensa.}
+{4459}{}{Um grupo de caçadores de recompensa.}
+{4460}{}{Um grupo de caçadores de recompensa.}
+{4461}{}{Um grupo de caçadores de recompensa.}
+{4462}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
 {4463}{}{Some ghoul scavengers.}
 {4464}{}{A bunch of crazies.}
 {4465}{}{Some ghoul crazies.}
@@ -883,17 +883,17 @@
 {4481}{}{The Unwashed Villagers hunting a spammer.}
 {4500}{}{Some cannibals.}
 {4501}{}{Some wilders.}
-{4502}{}{A war party.}
+{4502}{}{Um grupo de guerra.}
 {4503}{}{Some outcasts.}
-{4504}{}{Some bounty hunters.}
-{4505}{}{Some bounty hunters.}
-{4506}{}{Some bounty hunters.}
-{4507}{}{Some bounty hunters.}
-{4508}{}{Some bounty hunters.}
-{4509}{}{Some bounty hunters.}
-{4510}{}{Some bounty hunters.}
-{4511}{}{Some bounty hunters.}
-{4512}{}{A band of ruffians led by a Morton Brother.}
+{4504}{}{Um grupo de caçadores de recompensa.}
+{4505}{}{Um grupo de caçadores de recompensa.}
+{4506}{}{Um grupo de caçadores de recompensa.}
+{4507}{}{Um grupo de caçadores de recompensa.}
+{4508}{}{Um grupo de caçadores de recompensa.}
+{4509}{}{Um grupo de caçadores de recompensa.}
+{4510}{}{Um grupo de caçadores de recompensa.}
+{4511}{}{Um grupo de caçadores de recompensa.}
+{4512}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
 {4513}{}{A family of radscorpions.}
 {4514}{}{Some molerats.}
 {4515}{}{Some fishermen fending off some cannibals.}
@@ -904,18 +904,18 @@
 {4551}{}{A lone surviving dog.}
 {4552}{}{A herd of brahmin.}
 {4553}{}{Some cannibals.}
-{4554}{}{Some bounty hunters.}
-{4555}{}{Some bounty hunters.}
-{4556}{}{Some bounty hunters.}
-{4557}{}{Some bounty hunters.}
-{4558}{}{Some bounty hunters.}
-{4559}{}{Some bounty hunters.}
-{4560}{}{Some bounty hunters.}
-{4561}{}{Some bounty hunters.}
-{4562}{}{A band of ruffians led by a Morton Brother.}
+{4554}{}{Um grupo de caçadores de recompensa.}
+{4555}{}{Um grupo de caçadores de recompensa.}
+{4556}{}{Um grupo de caçadores de recompensa.}
+{4557}{}{Um grupo de caçadores de recompensa.}
+{4558}{}{Um grupo de caçadores de recompensa.}
+{4559}{}{Um grupo de caçadores de recompensa.}
+{4560}{}{Um grupo de caçadores de recompensa.}
+{4561}{}{Um grupo de caçadores de recompensa.}
+{4562}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
 {4563}{}{Some outcasts.}
 {4564}{}{Some wilders.}
-{4565}{}{A war party.}
+{4565}{}{Um grupo de guerra.}
 {4566}{}{Some geckos hiding in some spore plants.}
 {4567}{}{Some geckos and some radscorpions.}
 {4568}{}{Some geckos.}
@@ -936,16 +936,16 @@
 {4600}{}{Some cannibals.}
 {4601}{}{Some outcasts.}
 {4602}{}{Some wilders.}
-{4603}{}{A war party.}
-{4604}{}{Some bounty hunters.}
-{4605}{}{Some bounty hunters.}
-{4606}{}{Some bounty hunters.}
-{4607}{}{Some bounty hunters.}
-{4608}{}{Some bounty hunters.}
-{4609}{}{Some bounty hunters.}
-{4610}{}{Some bounty hunters.}
-{4611}{}{Some bounty hunters.}
-{4612}{}{A band of ruffians led by a Morton Brother.}
+{4603}{}{Um grupo de guerra.}
+{4604}{}{Um grupo de caçadores de recompensa.}
+{4605}{}{Um grupo de caçadores de recompensa.}
+{4606}{}{Um grupo de caçadores de recompensa.}
+{4607}{}{Um grupo de caçadores de recompensa.}
+{4608}{}{Um grupo de caçadores de recompensa.}
+{4609}{}{Um grupo de caçadores de recompensa.}
+{4610}{}{Um grupo de caçadores de recompensa.}
+{4611}{}{Um grupo de caçadores de recompensa.}
+{4612}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
 {4613}{}{Some geckos hiding in some spore plants.}
 {4614}{}{Some geckos and some radscorpions.}
 {4615}{}{Some geckos.}
@@ -956,21 +956,21 @@
 {4620}{}{Some radscorpions fighting some cannibals.}
 {4621}{}{Some radscorpions attacking a hermit.}
 {4622}{}{A hermit.}
-{4623}{}{A man guarding a bridge.}
+{4623}{}{Um homem guardando uma ponte.}
 {4624}{}{King Arthur's Knights fighting a rat.}
 {4650}{}{Toxic waste dump.}
 {4651}{}{A lone surviving dog.}
 {4652}{}{A herd of brahmin.}
 {4653}{}{A Den caravan.}
-{4654}{}{Some bounty hunters.}
-{4655}{}{Some bounty hunters.}
-{4656}{}{Some bounty hunters.}
-{4657}{}{Some bounty hunters.}
-{4658}{}{Some bounty hunters.}
-{4659}{}{Some bounty hunters.}
-{4660}{}{Some bounty hunters.}
-{4661}{}{Some bounty hunters.}
-{4662}{}{A band of ruffians led by a Morton Brother.}
+{4654}{}{Um grupo de caçadores de recompensa.}
+{4655}{}{Um grupo de caçadores de recompensa.}
+{4656}{}{Um grupo de caçadores de recompensa.}
+{4657}{}{Um grupo de caçadores de recompensa.}
+{4658}{}{Um grupo de caçadores de recompensa.}
+{4659}{}{Um grupo de caçadores de recompensa.}
+{4660}{}{Um grupo de caçadores de recompensa.}
+{4661}{}{Um grupo de caçadores de recompensa.}
+{4662}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
 {4663}{}{Alguns salteadores e assaltantes.}
 {4664}{}{Alguns salteadores.}
 {4665}{}{Alguns ladrões.}
@@ -993,15 +993,15 @@
 {4701}{}{Alguns salteadores e assaltantes.}
 {4702}{}{Alguns salteadores.}
 {4703}{}{Alguns ladrões.}
-{4704}{}{Some bounty hunters.}
-{4705}{}{Some bounty hunters.}
-{4706}{}{Some bounty hunters.}
-{4707}{}{Some bounty hunters.}
-{4708}{}{Some bounty hunters.}
-{4709}{}{Some bounty hunters.}
-{4710}{}{Some bounty hunters.}
-{4711}{}{Some bounty hunters.}
-{4712}{}{A band of ruffians led by a Morton Brother.}
+{4704}{}{Um grupo de caçadores de recompensa.}
+{4705}{}{Um grupo de caçadores de recompensa.}
+{4706}{}{Um grupo de caçadores de recompensa.}
+{4707}{}{Um grupo de caçadores de recompensa.}
+{4708}{}{Um grupo de caçadores de recompensa.}
+{4709}{}{Um grupo de caçadores de recompensa.}
+{4710}{}{Um grupo de caçadores de recompensa.}
+{4711}{}{Um grupo de caçadores de recompensa.}
+{4712}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
 {4713}{}{A Redding caravan fending off highwaymen.}
 {4714}{}{A New Reno caravan fending off robbers.}
 {4715}{}{A Den caravan fending off highwaymen.}
@@ -1010,21 +1010,21 @@
 {4718}{}{Some highwaymen fighting some robbers.}
 {4719}{}{A Vault City caravan.}
 {4720}{}{A Den caravan.}
-{4721}{}{A man guarding a bridge.}
+{4721}{}{Um homem guardando uma ponte.}
 {4722}{}{King Arthur's Knights fighting a rat.}
 {4750}{}{Toxic waste dump.}
 {4751}{}{A lone surviving dog.}
 {4752}{}{A herd of brahmin.}
 {4753}{}{Some geckos and some wolves.}
-{4754}{}{Some bounty hunters.}
-{4755}{}{Some bounty hunters.}
-{4756}{}{Some bounty hunters.}
-{4757}{}{Some bounty hunters.}
-{4758}{}{Some bounty hunters.}
-{4759}{}{Some bounty hunters.}
-{4760}{}{Some bounty hunters.}
-{4761}{}{Some bounty hunters.}
-{4762}{}{A band of ruffians led by a Morton Brother.}
+{4754}{}{Um grupo de caçadores de recompensa.}
+{4755}{}{Um grupo de caçadores de recompensa.}
+{4756}{}{Um grupo de caçadores de recompensa.}
+{4757}{}{Um grupo de caçadores de recompensa.}
+{4758}{}{Um grupo de caçadores de recompensa.}
+{4759}{}{Um grupo de caçadores de recompensa.}
+{4760}{}{Um grupo de caçadores de recompensa.}
+{4761}{}{Um grupo de caçadores de recompensa.}
+{4762}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
 {4763}{}{Some claim jumpers.}
 {4764}{}{Some wolves.}
 {4765}{}{Some golden geckos.}
@@ -1047,15 +1047,15 @@
 {4801}{}{Some claim jumpers.}
 {4802}{}{Some wolves.}
 {4803}{}{Some golden geckos.}
-{4804}{}{Some bounty hunters.}
-{4805}{}{Some bounty hunters.}
-{4806}{}{Some bounty hunters.}
-{4807}{}{Some bounty hunters.}
-{4808}{}{Some bounty hunters.}
-{4809}{}{Some bounty hunters.}
-{4810}{}{Some bounty hunters.}
-{4811}{}{Some bounty hunters.}
-{4812}{}{A band of ruffians led by a Morton Brother.}
+{4804}{}{Um grupo de caçadores de recompensa.}
+{4805}{}{Um grupo de caçadores de recompensa.}
+{4806}{}{Um grupo de caçadores de recompensa.}
+{4807}{}{Um grupo de caçadores de recompensa.}
+{4808}{}{Um grupo de caçadores de recompensa.}
+{4809}{}{Um grupo de caçadores de recompensa.}
+{4810}{}{Um grupo de caçadores de recompensa.}
+{4811}{}{Um grupo de caçadores de recompensa.}
+{4812}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
 {4813}{}{Some prospectors fighting some claim jumpers.}
 {4814}{}{Some trappers fighting some golden geckos.}
 {4815}{}{Some bootleggers fighting some wolves.}
@@ -1064,64 +1064,64 @@
 {4818}{}{Some bootleggers.}
 {4819}{}{Some trappers.}
 {4820}{}{Some prospectors.}
-{4821}{}{A man guarding a bridge.}
+{4821}{}{Um homem guardando uma ponte.}
 {4822}{}{King Arthur's Knights fighting a rat.}
 {4850}{}{A pack of wolves and some molerats.}
 {4851}{}{Some radscorpions and some wolves.}
 {4852}{}{Some mutated molerats and some radscorpions.}
 {4853}{}{A pack of golden geckos.}
-{4854}{}{Some bounty hunters.}
-{4855}{}{Some bounty hunters.}
-{4856}{}{Some bounty hunters.}
-{4857}{}{Some bounty hunters.}
-{4858}{}{Some bounty hunters.}
-{4859}{}{Some bounty hunters.}
-{4860}{}{Some bounty hunters.}
-{4861}{}{Some bounty hunters.}
-{4862}{}{A band of ruffians led by a Morton Brother.}
+{4854}{}{Um grupo de caçadores de recompensa.}
+{4855}{}{Um grupo de caçadores de recompensa.}
+{4856}{}{Um grupo de caçadores de recompensa.}
+{4857}{}{Um grupo de caçadores de recompensa.}
+{4858}{}{Um grupo de caçadores de recompensa.}
+{4859}{}{Um grupo de caçadores de recompensa.}
+{4860}{}{Um grupo de caçadores de recompensa.}
+{4861}{}{Um grupo de caçadores de recompensa.}
+{4862}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
 {4863}{}{A pack of wolves.}
 {4864}{}{A pack of mutated molerats.}
 {4865}{}{A pack of radscorpions}
 {4866}{}{A pack of wolves and some golden geckos.}
 {4867}{}{Some mutated molerats fighting some golden geckos.}
 {4868}{}{Some molerats fighting some radscorpions.}
-{4869}{}{A man guarding a bridge.}
+{4869}{}{Um homem guardando uma ponte.}
 {4870}{}{King Arthur's Knights fighting a rat.}
 {4900}{}{A band of raiders.}
 {4901}{}{Some wolves.}
 {4902}{}{A caravan fending off some raiders.}
 {4903}{}{A caravan fending off some raiders.}
-{4904}{}{Some bounty hunters.}
-{4905}{}{Some bounty hunters.}
-{4906}{}{Some bounty hunters.}
-{4907}{}{Some bounty hunters.}
-{4908}{}{Some bounty hunters.}
-{4909}{}{Some bounty hunters.}
-{4910}{}{Some bounty hunters.}
-{4911}{}{Some bounty hunters.}
-{4912}{}{A band of ruffians led by a Morton Brother.}
+{4904}{}{Um grupo de caçadores de recompensa.}
+{4905}{}{Um grupo de caçadores de recompensa.}
+{4906}{}{Um grupo de caçadores de recompensa.}
+{4907}{}{Um grupo de caçadores de recompensa.}
+{4908}{}{Um grupo de caçadores de recompensa.}
+{4909}{}{Um grupo de caçadores de recompensa.}
+{4910}{}{Um grupo de caçadores de recompensa.}
+{4911}{}{Um grupo de caçadores de recompensa.}
+{4912}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
 {4913}{}{A caravan fending off some raiders.}
 {4914}{}{A caravan fending off some raiders.}
 {4915}{}{A caravan.}
 {4916}{}{A caravan.}
 {4917}{}{A caravan.}
 {4918}{}{A caravan.}
-{4919}{}{A man guarding a bridge.}
+{4919}{}{Um homem guardando uma ponte.}
 {4920}{}{King Arthur's Knights fighting a rat.}
 {4921}{}{A band of angry raiders.}
 {4950}{}{Toxic waste dump.}
 {4951}{}{A lone surviving dog.}
 {4952}{}{A herd of brahmin.}
 {4953}{}{A band of raiders.}
-{4954}{}{Some bounty hunters.}
-{4955}{}{Some bounty hunters.}
-{4956}{}{Some bounty hunters.}
-{4957}{}{Some bounty hunters.}
-{4958}{}{Some bounty hunters.}
-{4959}{}{Some bounty hunters.}
-{4960}{}{Some bounty hunters.}
-{4961}{}{Some bounty hunters.}
-{4962}{}{A band of ruffians led by a Morton Brother.}
+{4954}{}{Um grupo de caçadores de recompensa.}
+{4955}{}{Um grupo de caçadores de recompensa.}
+{4956}{}{Um grupo de caçadores de recompensa.}
+{4957}{}{Um grupo de caçadores de recompensa.}
+{4958}{}{Um grupo de caçadores de recompensa.}
+{4959}{}{Um grupo de caçadores de recompensa.}
+{4960}{}{Um grupo de caçadores de recompensa.}
+{4961}{}{Um grupo de caçadores de recompensa.}
+{4962}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
 {4963}{}{Some wolves.}
 {4964}{}{A caravan fending off some raiders.}
 {4965}{}{A caravan fending off some raiders.}
@@ -1143,33 +1143,33 @@
 {5001}{}{Some spore plants and some wolves.}
 {5002}{}{A band of raiders.}
 {5003}{}{A pack of wolves.}
-{5004}{}{Some bounty hunters.}
-{5005}{}{Some bounty hunters.}
-{5006}{}{Some bounty hunters.}
-{5007}{}{Some bounty hunters.}
-{5008}{}{Some bounty hunters.}
-{5009}{}{Some bounty hunters.}
-{5010}{}{Some bounty hunters.}
-{5011}{}{Some bounty hunters.}
-{5012}{}{A band of ruffians led by a Morton Brother.}
+{5004}{}{Um grupo de caçadores de recompensa.}
+{5005}{}{Um grupo de caçadores de recompensa.}
+{5006}{}{Um grupo de caçadores de recompensa.}
+{5007}{}{Um grupo de caçadores de recompensa.}
+{5008}{}{Um grupo de caçadores de recompensa.}
+{5009}{}{Um grupo de caçadores de recompensa.}
+{5010}{}{Um grupo de caçadores de recompensa.}
+{5011}{}{Um grupo de caçadores de recompensa.}
+{5012}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
 {5013}{}{Um bando de radscorpions.}
 {5014}{}{Uma matilha de lobos lutando contra alguns raiders.}
-{5015}{}{A man guarding a bridge.}
+{5015}{}{Um homem guardando uma ponte.}
 {5016}{}{King Arthur's Knights fighting a rat.}
 {5017}{}{A band of angry raiders.}
 {5050}{}{Toxic waste dump.}
 {5051}{}{A lone surviving dog.}
 {5052}{}{A herd of brahmin.}
 {5053}{}{A band of raiders leading some wolves.}
-{5054}{}{Some bounty hunters.}
-{5055}{}{Some bounty hunters.}
-{5056}{}{Some bounty hunters.}
-{5057}{}{Some bounty hunters.}
-{5058}{}{Some bounty hunters.}
-{5059}{}{Some bounty hunters.}
-{5060}{}{Some bounty hunters.}
-{5061}{}{Some bounty hunters.}
-{5062}{}{A band of ruffians led by a Morton Brother.}
+{5054}{}{Um grupo de caçadores de recompensa.}
+{5055}{}{Um grupo de caçadores de recompensa.}
+{5056}{}{Um grupo de caçadores de recompensa.}
+{5057}{}{Um grupo de caçadores de recompensa.}
+{5058}{}{Um grupo de caçadores de recompensa.}
+{5059}{}{Um grupo de caçadores de recompensa.}
+{5060}{}{Um grupo de caçadores de recompensa.}
+{5061}{}{Um grupo de caçadores de recompensa.}
+{5062}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
 {5063}{}{Some spore plants and some wolves.}
 {5064}{}{A band of raiders.}
 {5065}{}{A pack of wolves.}
@@ -1187,15 +1187,15 @@
 {5101}{}{A lone surviving dog.}
 {5102}{}{A herd of brahmin.}
 {5103}{}{Uma patrulha da Enclave.}
-{5104}{}{Some bounty hunters.}
-{5105}{}{Some bounty hunters.}
-{5106}{}{Some bounty hunters.}
-{5107}{}{Some bounty hunters.}
-{5108}{}{Some bounty hunters.}
-{5109}{}{Some bounty hunters.}
-{5110}{}{Some bounty hunters.}
-{5111}{}{Some bounty hunters.}
-{5112}{}{A band of ruffians led by a Morton Brother.}
+{5104}{}{Um grupo de caçadores de recompensa.}
+{5105}{}{Um grupo de caçadores de recompensa.}
+{5106}{}{Um grupo de caçadores de recompensa.}
+{5107}{}{Um grupo de caçadores de recompensa.}
+{5108}{}{Um grupo de caçadores de recompensa.}
+{5109}{}{Um grupo de caçadores de recompensa.}
+{5110}{}{Um grupo de caçadores de recompensa.}
+{5111}{}{Um grupo de caçadores de recompensa.}
+{5112}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
 {5113}{}{The remains of a whale.}
 {5114}{}{A giant stone head.}
 {5115}{}{A crashed shuttle.}
@@ -1205,40 +1205,40 @@
 {5119}{}{The Unwashed Villagers hunting a spammer.}
 {5120}{}{Cafe of Broken Dreams.}
 {5150}{}{Uma patrulha da Enclave.}
-{5151}{}{Some bounty hunters.}
-{5152}{}{Some bounty hunters.}
-{5153}{}{Some bounty hunters.}
-{5154}{}{Some bounty hunters.}
-{5155}{}{Some bounty hunters.}
-{5156}{}{Some bounty hunters.}
-{5157}{}{Some bounty hunters.}
-{5158}{}{Some bounty hunters.}
-{5159}{}{A band of ruffians led by a Morton Brother.}
-{5160}{}{A man guarding a bridge.}
+{5151}{}{Um grupo de caçadores de recompensa.}
+{5152}{}{Um grupo de caçadores de recompensa.}
+{5153}{}{Um grupo de caçadores de recompensa.}
+{5154}{}{Um grupo de caçadores de recompensa.}
+{5155}{}{Um grupo de caçadores de recompensa.}
+{5156}{}{Um grupo de caçadores de recompensa.}
+{5157}{}{Um grupo de caçadores de recompensa.}
+{5158}{}{Um grupo de caçadores de recompensa.}
+{5159}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
+{5160}{}{Um homem guardando uma ponte.}
 {5161}{}{King Arthur's Knights fighting a rat.}
 {5200}{}{Uma patrulha da Enclave.}
-{5201}{}{Some bounty hunters.}
-{5202}{}{Some bounty hunters.}
-{5203}{}{Some bounty hunters.}
-{5204}{}{Some bounty hunters.}
-{5205}{}{Some bounty hunters.}
-{5206}{}{Some bounty hunters.}
-{5207}{}{Some bounty hunters.}
-{5208}{}{Some bounty hunters.}
-{5209}{}{A band of ruffians led by a Morton Brother.}
+{5201}{}{Um grupo de caçadores de recompensa.}
+{5202}{}{Um grupo de caçadores de recompensa.}
+{5203}{}{Um grupo de caçadores de recompensa.}
+{5204}{}{Um grupo de caçadores de recompensa.}
+{5205}{}{Um grupo de caçadores de recompensa.}
+{5206}{}{Um grupo de caçadores de recompensa.}
+{5207}{}{Um grupo de caçadores de recompensa.}
+{5208}{}{Um grupo de caçadores de recompensa.}
+{5209}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
 {5250}{}{Toxic waste dump.}
 {5251}{}{A lone surviving dog.}
 {5252}{}{A herd of brahmin.}
 {5253}{}{Alguns aliens e deathclaws}
-{5254}{}{Some bounty hunters.}
-{5255}{}{Some bounty hunters.}
-{5256}{}{Some bounty hunters.}
-{5257}{}{Some bounty hunters.}
-{5258}{}{Some bounty hunters.}
-{5259}{}{Some bounty hunters.}
-{5260}{}{Some bounty hunters.}
-{5261}{}{Some bounty hunters.}
-{5262}{}{A band of ruffians led by a Morton Brother.}
+{5254}{}{Um grupo de caçadores de recompensa.}
+{5255}{}{Um grupo de caçadores de recompensa.}
+{5256}{}{Um grupo de caçadores de recompensa.}
+{5257}{}{Um grupo de caçadores de recompensa.}
+{5258}{}{Um grupo de caçadores de recompensa.}
+{5259}{}{Um grupo de caçadores de recompensa.}
+{5260}{}{Um grupo de caçadores de recompensa.}
+{5261}{}{Um grupo de caçadores de recompensa.}
+{5262}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
 {5263}{}{Um exército de flutuadores e centauros.}
 {5264}{}{Alguns geckos de fogo.}
 {5265}{}{Um grande bando de aliens.}
@@ -1260,36 +1260,36 @@
 {5301}{}{Um exército de flutuadores e centauros.}
 {5302}{}{Alguns geckos de fogo.}
 {5303}{}{Um grande bando de aliens.}
-{5304}{}{Some bounty hunters.}
-{5305}{}{Some bounty hunters.}
-{5306}{}{Some bounty hunters.}
-{5307}{}{Some bounty hunters.}
-{5308}{}{Some bounty hunters.}
-{5309}{}{Some bounty hunters.}
-{5310}{}{Some bounty hunters.}
-{5311}{}{Some bounty hunters.}
-{5312}{}{A band of ruffians led by a Morton Brother.}
+{5304}{}{Um grupo de caçadores de recompensa.}
+{5305}{}{Um grupo de caçadores de recompensa.}
+{5306}{}{Um grupo de caçadores de recompensa.}
+{5307}{}{Um grupo de caçadores de recompensa.}
+{5308}{}{Um grupo de caçadores de recompensa.}
+{5309}{}{Um grupo de caçadores de recompensa.}
+{5310}{}{Um grupo de caçadores de recompensa.}
+{5311}{}{Um grupo de caçadores de recompensa.}
+{5312}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
 {5313}{}{Alguns deathclaws.}
 {5314}{}{Alguns geckos de fogo.}
 {5315}{}{Alguns aliens.}
 {5316}{}{Um grupo de centauros.}
 {5317}{}{Um enxame de flutuadores.}
-{5318}{}{A man guarding a bridge.}
+{5318}{}{Um homem guardando uma ponte.}
 {5319}{}{King Arthur's Knights fighting a rat.}
 {5320}{}{Uma reunião de indivíduos com aparência importante.}
 {5350}{}{Alguns aliens e deathclaws.}
 {5351}{}{Um exército de flutuadores e centauros.}
 {5352}{}{Alguns geckos de fogo.}
 {5353}{}{Um grande bando de aliens.}
-{5354}{}{Some bounty hunters.}
-{5355}{}{Some bounty hunters.}
-{5356}{}{Some bounty hunters.}
-{5357}{}{Some bounty hunters.}
-{5358}{}{Some bounty hunters.}
-{5359}{}{Some bounty hunters.}
-{5360}{}{Some bounty hunters.}
-{5361}{}{Some bounty hunters.}
-{5362}{}{A band of ruffians led by a Morton Brother.}
+{5354}{}{Um grupo de caçadores de recompensa.}
+{5355}{}{Um grupo de caçadores de recompensa.}
+{5356}{}{Um grupo de caçadores de recompensa.}
+{5357}{}{Um grupo de caçadores de recompensa.}
+{5358}{}{Um grupo de caçadores de recompensa.}
+{5359}{}{Um grupo de caçadores de recompensa.}
+{5360}{}{Um grupo de caçadores de recompensa.}
+{5361}{}{Um grupo de caçadores de recompensa.}
+{5362}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
 {5363}{}{Alguns deathclaws.}
 {5364}{}{Alguns geckos de fogo.}
 {5365}{}{Alguns aliens.}
@@ -1300,15 +1300,15 @@
 {5401}{}{A lone surviving dog.}
 {5402}{}{A herd of brahmin.}
 {5403}{}{Um grupo de geckos de fogo.}
-{5404}{}{Some bounty hunters.}
-{5405}{}{Some bounty hunters.}
-{5406}{}{Some bounty hunters.}
-{5407}{}{Some bounty hunters.}
-{5408}{}{Some bounty hunters.}
-{5409}{}{Some bounty hunters.}
-{5410}{}{Some bounty hunters.}
-{5411}{}{Some bounty hunters.}
-{5412}{}{A band of ruffians led by a Morton Brother.}
+{5404}{}{Um grupo de caçadores de recompensa.}
+{5405}{}{Um grupo de caçadores de recompensa.}
+{5406}{}{Um grupo de caçadores de recompensa.}
+{5407}{}{Um grupo de caçadores de recompensa.}
+{5408}{}{Um grupo de caçadores de recompensa.}
+{5409}{}{Um grupo de caçadores de recompensa.}
+{5410}{}{Um grupo de caçadores de recompensa.}
+{5411}{}{Um grupo de caçadores de recompensa.}
+{5412}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
 {5413}{}{Um grupo de geckos de fogo.}
 {5414}{}{Um grande grupo de geckos dourados.}
 {5415}{}{The remains of a whale.}
@@ -1323,44 +1323,44 @@
 {5450}{}{Um grupo de geckos de fogo.}
 {5451}{}{Um grupo de geckos de fogo.}
 {5452}{}{Um grande grupo de geckos dourados.}
-{5453}{}{Some bounty hunters.}
-{5454}{}{Some bounty hunters.}
-{5455}{}{Some bounty hunters.}
-{5456}{}{Some bounty hunters.}
-{5457}{}{Some bounty hunters.}
-{5458}{}{Some bounty hunters.}
-{5459}{}{Some bounty hunters.}
-{5460}{}{Some bounty hunters.}
-{5461}{}{A band of ruffians led by a Morton Brother.}
-{5462}{}{A man guarding a bridge.}
+{5453}{}{Um grupo de caçadores de recompensa.}
+{5454}{}{Um grupo de caçadores de recompensa.}
+{5455}{}{Um grupo de caçadores de recompensa.}
+{5456}{}{Um grupo de caçadores de recompensa.}
+{5457}{}{Um grupo de caçadores de recompensa.}
+{5458}{}{Um grupo de caçadores de recompensa.}
+{5459}{}{Um grupo de caçadores de recompensa.}
+{5460}{}{Um grupo de caçadores de recompensa.}
+{5461}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
+{5462}{}{Um homem guardando uma ponte.}
 {5463}{}{King Arthur's Knights fighting a rat.}
 {5464}{}{Uma reunião de indivíduos com aparência importante.}
 {5500}{}{Um grupo de geckos de fogo.}
 {5501}{}{Um grupo de geckos de fogo.}
 {5502}{}{Um grande grupo de geckos dourados.}
-{5503}{}{Some bounty hunters.}
-{5504}{}{Some bounty hunters.}
-{5505}{}{Some bounty hunters.}
-{5506}{}{Some bounty hunters.}
-{5507}{}{Some bounty hunters.}
-{5508}{}{Some bounty hunters.}
-{5509}{}{Some bounty hunters.}
-{5510}{}{Some bounty hunters.}
-{5511}{}{A band of ruffians led by a Morton Brother.}
+{5503}{}{Um grupo de caçadores de recompensa.}
+{5504}{}{Um grupo de caçadores de recompensa.}
+{5505}{}{Um grupo de caçadores de recompensa.}
+{5506}{}{Um grupo de caçadores de recompensa.}
+{5507}{}{Um grupo de caçadores de recompensa.}
+{5508}{}{Um grupo de caçadores de recompensa.}
+{5509}{}{Um grupo de caçadores de recompensa.}
+{5510}{}{Um grupo de caçadores de recompensa.}
+{5511}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
 {5512}{}{Uma reunião de indivíduos com aparência importante.}
 {5550}{}{Toxic waste dump.}
 {5551}{}{A lone surviving dog.}
 {5552}{}{A herd of brahmin.}
 {5553}{}{Um grupo de deathclaws.}
-{5554}{}{Some bounty hunters.}
-{5555}{}{Some bounty hunters.}
-{5556}{}{Some bounty hunters.}
-{5557}{}{Some bounty hunters.}
-{5558}{}{Some bounty hunters.}
-{5559}{}{Some bounty hunters.}
-{5560}{}{Some bounty hunters.}
-{5561}{}{Some bounty hunters.}
-{5562}{}{A band of ruffians led by a Morton Brother.}
+{5554}{}{Um grupo de caçadores de recompensa.}
+{5555}{}{Um grupo de caçadores de recompensa.}
+{5556}{}{Um grupo de caçadores de recompensa.}
+{5557}{}{Um grupo de caçadores de recompensa.}
+{5558}{}{Um grupo de caçadores de recompensa.}
+{5559}{}{Um grupo de caçadores de recompensa.}
+{5560}{}{Um grupo de caçadores de recompensa.}
+{5561}{}{Um grupo de caçadores de recompensa.}
+{5562}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
 {5563}{}{Um grupo de geckos de fogo.}
 {5564}{}{Uma caravana de defendendo de deathclaws.}
 {5565}{}{Uma caravana de defendendo de deathclaws.}
@@ -1381,36 +1381,36 @@
 {5601}{}{Um grupo de geckos de fogo.}
 {5602}{}{Uma caravana de defendendo de deathclaws.}
 {5603}{}{Uma caravana de defendendo de deathclaws.}
-{5604}{}{Some bounty hunters.}
-{5605}{}{Some bounty hunters.}
-{5606}{}{Some bounty hunters.}
-{5607}{}{Some bounty hunters.}
-{5608}{}{Some bounty hunters.}
-{5609}{}{Some bounty hunters.}
-{5610}{}{Some bounty hunters.}
-{5611}{}{Some bounty hunters.}
-{5612}{}{A band of ruffians led by a Morton Brother.}
+{5604}{}{Um grupo de caçadores de recompensa.}
+{5605}{}{Um grupo de caçadores de recompensa.}
+{5606}{}{Um grupo de caçadores de recompensa.}
+{5607}{}{Um grupo de caçadores de recompensa.}
+{5608}{}{Um grupo de caçadores de recompensa.}
+{5609}{}{Um grupo de caçadores de recompensa.}
+{5610}{}{Um grupo de caçadores de recompensa.}
+{5611}{}{Um grupo de caçadores de recompensa.}
+{5612}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
 {5613}{}{Uma caravana se defendendo de geckos de fogo.}
 {5614}{}{Uma caravana se defendendo de geckos de fogo.}
 {5615}{}{A caravan.}
 {5616}{}{A caravan.}
 {5617}{}{A caravan.}
 {5618}{}{A caravan.}
-{5619}{}{A man guarding a bridge.}
+{5619}{}{Um homem guardando uma ponte.}
 {5620}{}{King Arthur's Knights fighting a rat.}
 {5650}{}{Toxic waste dump.}
 {5651}{}{A lone surviving dog.}
 {5652}{}{A herd of brahmin.}
 {5653}{}{Alguns da Yakuza.}
-{5654}{}{Some bounty hunters.}
-{5655}{}{Some bounty hunters.}
-{5656}{}{Some bounty hunters.}
-{5657}{}{Some bounty hunters.}
-{5658}{}{Some bounty hunters.}
-{5659}{}{Some bounty hunters.}
-{5660}{}{Some bounty hunters.}
-{5661}{}{Some bounty hunters.}
-{5662}{}{A band of ruffians led by a Morton Brother.}
+{5654}{}{Um grupo de caçadores de recompensa.}
+{5655}{}{Um grupo de caçadores de recompensa.}
+{5656}{}{Um grupo de caçadores de recompensa.}
+{5657}{}{Um grupo de caçadores de recompensa.}
+{5658}{}{Um grupo de caçadores de recompensa.}
+{5659}{}{Um grupo de caçadores de recompensa.}
+{5660}{}{Um grupo de caçadores de recompensa.}
+{5661}{}{Um grupo de caçadores de recompensa.}
+{5662}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
 {5663}{}{Uma gangue.}
 {5664}{}{A pack of wolves.}
 {5665}{}{Alguns mafiosos lutando contra alguns yakuzas.}
@@ -1429,33 +1429,33 @@
 {5701}{}{Uma gangue.}
 {5702}{}{A pack of wolves.}
 {5703}{}{Alguns mafiosos lutando contra alguns yakuzas.}
-{5704}{}{Some bounty hunters.}
-{5705}{}{Some bounty hunters.}
-{5706}{}{Some bounty hunters.}
-{5707}{}{Some bounty hunters.}
-{5708}{}{Some bounty hunters.}
-{5709}{}{Some bounty hunters.}
-{5710}{}{Some bounty hunters.}
-{5711}{}{Some bounty hunters.}
-{5712}{}{A band of ruffians led by a Morton Brother.}
+{5704}{}{Um grupo de caçadores de recompensa.}
+{5705}{}{Um grupo de caçadores de recompensa.}
+{5706}{}{Um grupo de caçadores de recompensa.}
+{5707}{}{Um grupo de caçadores de recompensa.}
+{5708}{}{Um grupo de caçadores de recompensa.}
+{5709}{}{Um grupo de caçadores de recompensa.}
+{5710}{}{Um grupo de caçadores de recompensa.}
+{5711}{}{Um grupo de caçadores de recompensa.}
+{5712}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
 {5713}{}{Alguns mafiosos lutando contra uma gangue.}
 {5714}{}{Alguns mafiosos.}
 {5715}{}{Um viajante.}
-{5716}{}{A man guarding a bridge.}
+{5716}{}{Um homem guardando uma ponte.}
 {5717}{}{King Arthur's Knights fighting a rat.}
 {5750}{}{Alguns da Yakuza.}
 {5751}{}{Uma gangue.}
 {5752}{}{A pack of wolves.}
 {5753}{}{Alguns mafiosos lutando contra alguns yakuzas.}
-{5754}{}{Some bounty hunters.}
-{5755}{}{Some bounty hunters.}
-{5756}{}{Some bounty hunters.}
-{5757}{}{Some bounty hunters.}
-{5758}{}{Some bounty hunters.}
-{5759}{}{Some bounty hunters.}
-{5760}{}{Some bounty hunters.}
-{5761}{}{Some bounty hunters.}
-{5762}{}{A band of ruffians led by a Morton Brother.}
+{5754}{}{Um grupo de caçadores de recompensa.}
+{5755}{}{Um grupo de caçadores de recompensa.}
+{5756}{}{Um grupo de caçadores de recompensa.}
+{5757}{}{Um grupo de caçadores de recompensa.}
+{5758}{}{Um grupo de caçadores de recompensa.}
+{5759}{}{Um grupo de caçadores de recompensa.}
+{5760}{}{Um grupo de caçadores de recompensa.}
+{5761}{}{Um grupo de caçadores de recompensa.}
+{5762}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
 {5763}{}{Alguns mafiosos lutando contra uma gangue.}
 {5764}{}{Alguns mafiosos.}
 {5765}{}{Um viajante.}
@@ -1463,15 +1463,15 @@
 {5801}{}{A lone surviving dog.}
 {5802}{}{A herd of brahmin.}
 {5803}{}{Um bando de bandidos e alguns lobos.}
-{5804}{}{Some bounty hunters.}
-{5805}{}{Some bounty hunters.}
-{5806}{}{Some bounty hunters.}
-{5807}{}{Some bounty hunters.}
-{5808}{}{Some bounty hunters.}
-{5809}{}{Some bounty hunters.}
-{5810}{}{Some bounty hunters.}
-{5811}{}{Some bounty hunters.}
-{5812}{}{A band of ruffians led by a Morton Brother.}
+{5804}{}{Um grupo de caçadores de recompensa.}
+{5805}{}{Um grupo de caçadores de recompensa.}
+{5806}{}{Um grupo de caçadores de recompensa.}
+{5807}{}{Um grupo de caçadores de recompensa.}
+{5808}{}{Um grupo de caçadores de recompensa.}
+{5809}{}{Um grupo de caçadores de recompensa.}
+{5810}{}{Um grupo de caçadores de recompensa.}
+{5811}{}{Um grupo de caçadores de recompensa.}
+{5812}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
 {5813}{}{Um bando de bandidos.}
 {5814}{}{A pack of wolves.}
 {5815}{}{Um bando de radscorpions.}
@@ -1490,34 +1490,34 @@
 {5851}{}{Um bando de bandidos.}
 {5852}{}{A pack of wolves.}
 {5853}{}{Um bando de radscorpions.}
-{5854}{}{Some bounty hunters.}
-{5855}{}{Some bounty hunters.}
-{5856}{}{Some bounty hunters.}
-{5857}{}{Some bounty hunters.}
-{5858}{}{Some bounty hunters.}
-{5859}{}{Some bounty hunters.}
-{5860}{}{Some bounty hunters.}
-{5861}{}{Some bounty hunters.}
-{5862}{}{A band of ruffians led by a Morton Brother.}
+{5854}{}{Um grupo de caçadores de recompensa.}
+{5855}{}{Um grupo de caçadores de recompensa.}
+{5856}{}{Um grupo de caçadores de recompensa.}
+{5857}{}{Um grupo de caçadores de recompensa.}
+{5858}{}{Um grupo de caçadores de recompensa.}
+{5859}{}{Um grupo de caçadores de recompensa.}
+{5860}{}{Um grupo de caçadores de recompensa.}
+{5861}{}{Um grupo de caçadores de recompensa.}
+{5862}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
 {5863}{}{Uma floresta de plantas de esporos.}
 {5864}{}{Uma patrulha da Unity lutando contra alguns bandidos.}
 {5865}{}{Uma patrulha da Unity lutando contra alguns lobos.}
 {5866}{}{Uma patrulha da Unity.}
-{5867}{}{A man guarding a bridge.}
+{5867}{}{Um homem guardando uma ponte.}
 {5868}{}{King Arthur's Knights fighting a rat.}
 {5900}{}{Um bando de mercenários.}
 {5901}{}{Uma gangue de assaltantes.}
 {5902}{}{Uma manada de deathclaws.}
 {5903}{}{Uma manada de geckos de fogo.}
-{5904}{}{Some bounty hunters.}
-{5905}{}{Some bounty hunters.}
-{5906}{}{Some bounty hunters.}
-{5907}{}{Some bounty hunters.}
-{5908}{}{Some bounty hunters.}
-{5909}{}{Some bounty hunters.}
-{5910}{}{Some bounty hunters.}
-{5911}{}{Some bounty hunters.}
-{5912}{}{A band of ruffians led by a Morton Brother.}
+{5904}{}{Um grupo de caçadores de recompensa.}
+{5905}{}{Um grupo de caçadores de recompensa.}
+{5906}{}{Um grupo de caçadores de recompensa.}
+{5907}{}{Um grupo de caçadores de recompensa.}
+{5908}{}{Um grupo de caçadores de recompensa.}
+{5909}{}{Um grupo de caçadores de recompensa.}
+{5910}{}{Um grupo de caçadores de recompensa.}
+{5911}{}{Um grupo de caçadores de recompensa.}
+{5912}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
 {5913}{}{Um monte de aliens.}
 {5914}{}{Hubologistas lutando contra mercenarios.}
 {5915}{}{Hubologistas se defendendo contra assaltantes.}
@@ -1528,20 +1528,20 @@
 {5951}{}{Uma gangue de assaltantes.}
 {5952}{}{Uma manada de deathclaws.}
 {5953}{}{Uma manada de geckos de fogo.}
-{5954}{}{Some bounty hunters.}
-{5955}{}{Some bounty hunters.}
-{5956}{}{Some bounty hunters.}
-{5957}{}{Some bounty hunters.}
-{5958}{}{Some bounty hunters.}
-{5959}{}{Some bounty hunters.}
-{5960}{}{Some bounty hunters.}
-{5961}{}{Some bounty hunters.}
-{5962}{}{A band of ruffians led by a Morton Brother.}
+{5954}{}{Um grupo de caçadores de recompensa.}
+{5955}{}{Um grupo de caçadores de recompensa.}
+{5956}{}{Um grupo de caçadores de recompensa.}
+{5957}{}{Um grupo de caçadores de recompensa.}
+{5958}{}{Um grupo de caçadores de recompensa.}
+{5959}{}{Um grupo de caçadores de recompensa.}
+{5960}{}{Um grupo de caçadores de recompensa.}
+{5961}{}{Um grupo de caçadores de recompensa.}
+{5962}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
 {5963}{}{Um monte de aliens.}
 {5964}{}{Hubologistas lutando contra mercenarios.}
 {5965}{}{Hubologistas se defendendo contra assaltantes.}
 {5966}{}{Hubologistas.}
-{5967}{}{A man guarding a bridge.}
+{5967}{}{Um homem guardando uma ponte.}
 {5968}{}{King Arthur's Knights fighting a rat.}
 {5969}{}{Um bando de mercenários furiosos.}
 {5970}{}{Uma reunião de indivíduos com aparência importante.}
@@ -1549,15 +1549,15 @@
 {6001}{}{Uma gangue de assaltantes.}
 {6002}{}{Uma manada de deathclaws.}
 {6003}{}{Uma manada de geckos de fogo.}
-{6004}{}{Some bounty hunters.}
-{6005}{}{Some bounty hunters.}
-{6006}{}{Some bounty hunters.}
-{6007}{}{Some bounty hunters.}
-{6008}{}{Some bounty hunters.}
-{6009}{}{Some bounty hunters.}
-{6010}{}{Some bounty hunters.}
-{6011}{}{Some bounty hunters.}
-{6012}{}{A band of ruffians led by a Morton Brother.}
+{6004}{}{Um grupo de caçadores de recompensa.}
+{6005}{}{Um grupo de caçadores de recompensa.}
+{6006}{}{Um grupo de caçadores de recompensa.}
+{6007}{}{Um grupo de caçadores de recompensa.}
+{6008}{}{Um grupo de caçadores de recompensa.}
+{6009}{}{Um grupo de caçadores de recompensa.}
+{6010}{}{Um grupo de caçadores de recompensa.}
+{6011}{}{Um grupo de caçadores de recompensa.}
+{6012}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
 {6013}{}{Um monte de aliens.}
 {6014}{}{Hubologistas lutando contra mercenarios.}
 {6015}{}{Hubologistas se defendendo contra assaltantes.}
@@ -1568,15 +1568,15 @@
 {6051}{}{A lone surviving dog.}
 {6052}{}{A herd of brahmin.}
 {6053}{}{Um bando de mercenários.}
-{6054}{}{Some bounty hunters.}
-{6055}{}{Some bounty hunters.}
-{6056}{}{Some bounty hunters.}
-{6057}{}{Some bounty hunters.}
-{6058}{}{Some bounty hunters.}
-{6059}{}{Some bounty hunters.}
-{6060}{}{Some bounty hunters.}
-{6061}{}{Some bounty hunters.}
-{6062}{}{A band of ruffians led by a Morton Brother.}
+{6054}{}{Um grupo de caçadores de recompensa.}
+{6055}{}{Um grupo de caçadores de recompensa.}
+{6056}{}{Um grupo de caçadores de recompensa.}
+{6057}{}{Um grupo de caçadores de recompensa.}
+{6058}{}{Um grupo de caçadores de recompensa.}
+{6059}{}{Um grupo de caçadores de recompensa.}
+{6060}{}{Um grupo de caçadores de recompensa.}
+{6061}{}{Um grupo de caçadores de recompensa.}
+{6062}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
 {6063}{}{Uma gangue de assaltantes.}
 {6064}{}{Uma manada de deathclaws.}
 {6065}{}{Uma manada de geckos de fogo.}
@@ -1598,15 +1598,15 @@
 {6101}{}{A lone surviving dog.}
 {6102}{}{A herd of brahmin.}
 {6103}{}{Um bando de mercenários.}
-{6104}{}{Some bounty hunters.}
-{6105}{}{Some bounty hunters.}
-{6106}{}{Some bounty hunters.}
-{6107}{}{Some bounty hunters.}
-{6108}{}{Some bounty hunters.}
-{6109}{}{Some bounty hunters.}
-{6110}{}{Some bounty hunters.}
-{6111}{}{Some bounty hunters.}
-{6112}{}{A band of ruffians led by a Morton Brother.}
+{6104}{}{Um grupo de caçadores de recompensa.}
+{6105}{}{Um grupo de caçadores de recompensa.}
+{6106}{}{Um grupo de caçadores de recompensa.}
+{6107}{}{Um grupo de caçadores de recompensa.}
+{6108}{}{Um grupo de caçadores de recompensa.}
+{6109}{}{Um grupo de caçadores de recompensa.}
+{6110}{}{Um grupo de caçadores de recompensa.}
+{6111}{}{Um grupo de caçadores de recompensa.}
+{6112}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
 {6113}{}{Um grupo de deathclaws.}
 {6114}{}{Um grupo de geckos de fogo.}
 {6115}{}{Um monte de aliens.}
@@ -1629,15 +1629,15 @@
 {6151}{}{Um grupo de deathclaws.}
 {6152}{}{Um grupo de geckos de fogo.}
 {6153}{}{Um monte de aliens.}
-{6154}{}{Some bounty hunters.}
-{6155}{}{Some bounty hunters.}
-{6156}{}{Some bounty hunters.}
-{6157}{}{Some bounty hunters.}
-{6158}{}{Some bounty hunters.}
-{6159}{}{Some bounty hunters.}
-{6160}{}{Some bounty hunters.}
-{6161}{}{Some bounty hunters.}
-{6162}{}{A band of ruffians led by a Morton Brother.}
+{6154}{}{Um grupo de caçadores de recompensa.}
+{6155}{}{Um grupo de caçadores de recompensa.}
+{6156}{}{Um grupo de caçadores de recompensa.}
+{6157}{}{Um grupo de caçadores de recompensa.}
+{6158}{}{Um grupo de caçadores de recompensa.}
+{6159}{}{Um grupo de caçadores de recompensa.}
+{6160}{}{Um grupo de caçadores de recompensa.}
+{6161}{}{Um grupo de caçadores de recompensa.}
+{6162}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
 {6163}{}{Uma caravana se defendendo contra mercenarios.}
 {6164}{}{Uma caravana se defendendo contra mercenarios.}
 {6165}{}{Uma caravana se defendendo de geckos de fogo.}
@@ -1649,15 +1649,15 @@
 {6201}{}{A lone surviving dog.}
 {6202}{}{A herd of brahmin.}
 {6203}{}{Uma patrulha da Enclave.}
-{6204}{}{Some bounty hunters.}
-{6205}{}{Some bounty hunters.}
-{6206}{}{Some bounty hunters.}
-{6207}{}{Some bounty hunters.}
-{6208}{}{Some bounty hunters.}
-{6209}{}{Some bounty hunters.}
-{6210}{}{Some bounty hunters.}
-{6211}{}{Some bounty hunters.}
-{6212}{}{A band of ruffians led by a Morton Brother.}
+{6204}{}{Um grupo de caçadores de recompensa.}
+{6205}{}{Um grupo de caçadores de recompensa.}
+{6206}{}{Um grupo de caçadores de recompensa.}
+{6207}{}{Um grupo de caçadores de recompensa.}
+{6208}{}{Um grupo de caçadores de recompensa.}
+{6209}{}{Um grupo de caçadores de recompensa.}
+{6210}{}{Um grupo de caçadores de recompensa.}
+{6211}{}{Um grupo de caçadores de recompensa.}
+{6212}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
 {6213}{}{Remanescentes do exército do Mestre.}
 {6214}{}{Um grupo de deathclaws.}
 {6215}{}{A swarm of mantis.}
@@ -1673,30 +1673,30 @@
 {6251}{}{Remanescentes do exército do Mestre.}
 {6252}{}{Um grupo de deathclaws.}
 {6253}{}{A swarm of mantis.}
-{6254}{}{Some bounty hunters.}
-{6255}{}{Some bounty hunters.}
-{6256}{}{Some bounty hunters.}
-{6257}{}{Some bounty hunters.}
-{6258}{}{Some bounty hunters.}
-{6259}{}{Some bounty hunters.}
-{6260}{}{Some bounty hunters.}
-{6261}{}{Some bounty hunters.}
-{6262}{}{A band of ruffians led by a Morton Brother.}
-{6263}{}{A man guarding a bridge.}
+{6254}{}{Um grupo de caçadores de recompensa.}
+{6255}{}{Um grupo de caçadores de recompensa.}
+{6256}{}{Um grupo de caçadores de recompensa.}
+{6257}{}{Um grupo de caçadores de recompensa.}
+{6258}{}{Um grupo de caçadores de recompensa.}
+{6259}{}{Um grupo de caçadores de recompensa.}
+{6260}{}{Um grupo de caçadores de recompensa.}
+{6261}{}{Um grupo de caçadores de recompensa.}
+{6262}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
+{6263}{}{Um homem guardando uma ponte.}
 {6264}{}{King Arthur's Knights fighting a rat.}
 {6300}{}{Toxic waste dump.}
 {6301}{}{A lone surviving dog.}
 {6302}{}{A herd of brahmin.}
 {6303}{}{Uma caravana se defendendo dos remanescentes do exercito do Mestre.}
-{6304}{}{Some bounty hunters.}
-{6305}{}{Some bounty hunters.}
-{6306}{}{Some bounty hunters.}
-{6307}{}{Some bounty hunters.}
-{6308}{}{Some bounty hunters.}
-{6309}{}{Some bounty hunters.}
-{6310}{}{Some bounty hunters.}
-{6311}{}{Some bounty hunters.}
-{6312}{}{A band of ruffians led by a Morton Brother.}
+{6304}{}{Um grupo de caçadores de recompensa.}
+{6305}{}{Um grupo de caçadores de recompensa.}
+{6306}{}{Um grupo de caçadores de recompensa.}
+{6307}{}{Um grupo de caçadores de recompensa.}
+{6308}{}{Um grupo de caçadores de recompensa.}
+{6309}{}{Um grupo de caçadores de recompensa.}
+{6310}{}{Um grupo de caçadores de recompensa.}
+{6311}{}{Um grupo de caçadores de recompensa.}
+{6312}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
 {6313}{}{Uma caravana se defendendo dos remanescentes do exercito do Mestre.}
 {6314}{}{Uma caravana se defendendo dos deathclaws.}
 {6315}{}{A caravan.}
@@ -1714,46 +1714,46 @@
 {6351}{}{Uma caravana se defendendo dos remanescentes do exercito do Mestre.}
 {6352}{}{Uma caravana se defendendo dos deathclaws.}
 {6353}{}{A caravan.}
-{6354}{}{Some bounty hunters.}
-{6355}{}{Some bounty hunters.}
-{6356}{}{Some bounty hunters.}
-{6357}{}{Some bounty hunters.}
-{6358}{}{Some bounty hunters.}
-{6359}{}{Some bounty hunters.}
-{6360}{}{Some bounty hunters.}
-{6361}{}{Some bounty hunters.}
-{6362}{}{A band of ruffians led by a Morton Brother.}
+{6354}{}{Um grupo de caçadores de recompensa.}
+{6355}{}{Um grupo de caçadores de recompensa.}
+{6356}{}{Um grupo de caçadores de recompensa.}
+{6357}{}{Um grupo de caçadores de recompensa.}
+{6358}{}{Um grupo de caçadores de recompensa.}
+{6359}{}{Um grupo de caçadores de recompensa.}
+{6360}{}{Um grupo de caçadores de recompensa.}
+{6361}{}{Um grupo de caçadores de recompensa.}
+{6362}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
 {6363}{}{A caravan.}
 {6364}{}{A caravan.}
-{6365}{}{A man guarding a bridge.}
+{6365}{}{Um homem guardando uma ponte.}
 {6366}{}{King Arthur's Knights fighting a rat.}
 {6400}{}{A pack of wolves.}
 {6401}{}{A swarm of mantis.}
 {6402}{}{A family of radscorpions.}
-{6403}{}{Some bounty hunters.}
-{6404}{}{Some bounty hunters.}
-{6405}{}{Some bounty hunters.}
-{6406}{}{Some bounty hunters.}
-{6407}{}{Some bounty hunters.}
-{6408}{}{Some bounty hunters.}
-{6409}{}{Some bounty hunters.}
-{6410}{}{Some bounty hunters.}
-{6411}{}{A band of ruffians led by a Morton Brother.}
-{6412}{}{A man guarding a bridge.}
+{6403}{}{Um grupo de caçadores de recompensa.}
+{6404}{}{Um grupo de caçadores de recompensa.}
+{6405}{}{Um grupo de caçadores de recompensa.}
+{6406}{}{Um grupo de caçadores de recompensa.}
+{6407}{}{Um grupo de caçadores de recompensa.}
+{6408}{}{Um grupo de caçadores de recompensa.}
+{6409}{}{Um grupo de caçadores de recompensa.}
+{6410}{}{Um grupo de caçadores de recompensa.}
+{6411}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
+{6412}{}{Um homem guardando uma ponte.}
 {6413}{}{King Arthur's Knights fighting a rat.}
 {6450}{}{Toxic waste dump.}
 {6451}{}{A lone surviving dog.}
 {6452}{}{A herd of brahmin.}
 {6453}{}{A pack of wolves.}
-{6454}{}{Some bounty hunters.}
-{6455}{}{Some bounty hunters.}
-{6456}{}{Some bounty hunters.}
-{6457}{}{Some bounty hunters.}
-{6458}{}{Some bounty hunters.}
-{6459}{}{Some bounty hunters.}
-{6460}{}{Some bounty hunters.}
-{6461}{}{Some bounty hunters.}
-{6462}{}{A band of ruffians led by a Morton Brother.}
+{6454}{}{Um grupo de caçadores de recompensa.}
+{6455}{}{Um grupo de caçadores de recompensa.}
+{6456}{}{Um grupo de caçadores de recompensa.}
+{6457}{}{Um grupo de caçadores de recompensa.}
+{6458}{}{Um grupo de caçadores de recompensa.}
+{6459}{}{Um grupo de caçadores de recompensa.}
+{6460}{}{Um grupo de caçadores de recompensa.}
+{6461}{}{Um grupo de caçadores de recompensa.}
+{6462}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
 {6463}{}{A swarm of mantis.}
 {6464}{}{A family of radscorpions.}
 {6465}{}{The remains of a whale.}
@@ -1768,15 +1768,15 @@
 {6501}{}{A lone surviving dog.}
 {6502}{}{A herd of brahmin.}
 {6503}{}{Um bando de saqueadores.}
-{6504}{}{Some bounty hunters.}
-{6505}{}{Some bounty hunters.}
-{6506}{}{Some bounty hunters.}
-{6507}{}{Some bounty hunters.}
-{6508}{}{Some bounty hunters.}
-{6509}{}{Some bounty hunters.}
-{6510}{}{Some bounty hunters.}
-{6511}{}{Some bounty hunters.}
-{6512}{}{A band of ruffians led by a Morton Brother.}
+{6504}{}{Um grupo de caçadores de recompensa.}
+{6505}{}{Um grupo de caçadores de recompensa.}
+{6506}{}{Um grupo de caçadores de recompensa.}
+{6507}{}{Um grupo de caçadores de recompensa.}
+{6508}{}{Um grupo de caçadores de recompensa.}
+{6509}{}{Um grupo de caçadores de recompensa.}
+{6510}{}{Um grupo de caçadores de recompensa.}
+{6511}{}{Um grupo de caçadores de recompensa.}
+{6512}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
 {6513}{}{A pack of wolves.}
 {6514}{}{Um bando de radscorpions.}
 {6515}{}{Uma caravana se defendendo de saqueadores.}
@@ -1801,15 +1801,15 @@
 {6551}{}{A pack of wolves.}
 {6552}{}{Um bando de radscorpions.}
 {6553}{}{Uma caravana se defendendo de saqueadores.}
-{6554}{}{Some bounty hunters.}
-{6555}{}{Some bounty hunters.}
-{6556}{}{Some bounty hunters.}
-{6557}{}{Some bounty hunters.}
-{6558}{}{Some bounty hunters.}
-{6559}{}{Some bounty hunters.}
-{6560}{}{Some bounty hunters.}
-{6561}{}{Some bounty hunters.}
-{6562}{}{A band of ruffians led by a Morton Brother.}
+{6554}{}{Um grupo de caçadores de recompensa.}
+{6555}{}{Um grupo de caçadores de recompensa.}
+{6556}{}{Um grupo de caçadores de recompensa.}
+{6557}{}{Um grupo de caçadores de recompensa.}
+{6558}{}{Um grupo de caçadores de recompensa.}
+{6559}{}{Um grupo de caçadores de recompensa.}
+{6560}{}{Um grupo de caçadores de recompensa.}
+{6561}{}{Um grupo de caçadores de recompensa.}
+{6562}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
 {6563}{}{Uma caravana se defendendo de saqueadores.}
 {6564}{}{Uma caravana se defendendo de lobos.}
 {6565}{}{Uma caravana se defendendo de radscorpions.}
@@ -1818,42 +1818,42 @@
 {6568}{}{A caravan.}
 {6569}{}{A caravan.}
 {6570}{}{Um viajante.}
-{6571}{}{A man guarding a bridge.}
+{6571}{}{Um homem guardando uma ponte.}
 {6572}{}{King Arthur's Knights fighting a rat.}
 {6573}{}{Um bando de saqueadores com raiva.}
 {6600}{}{Um destacamento do exercito do Mestre.}
 {6601}{}{Um bando de saqueadores.}
 {6602}{}{Alguns rangers lutando contra uma esquadra do exercito do Mestre.}
 {6603}{}{Alguns rangers lutando contra saqueadores.}
-{6604}{}{Some bounty hunters.}
-{6605}{}{Some bounty hunters.}
-{6606}{}{Some bounty hunters.}
-{6607}{}{Some bounty hunters.}
-{6608}{}{Some bounty hunters.}
-{6609}{}{Some bounty hunters.}
-{6610}{}{Some bounty hunters.}
-{6611}{}{Some bounty hunters.}
-{6612}{}{A band of ruffians led by a Morton Brother.}
+{6604}{}{Um grupo de caçadores de recompensa.}
+{6605}{}{Um grupo de caçadores de recompensa.}
+{6606}{}{Um grupo de caçadores de recompensa.}
+{6607}{}{Um grupo de caçadores de recompensa.}
+{6608}{}{Um grupo de caçadores de recompensa.}
+{6609}{}{Um grupo de caçadores de recompensa.}
+{6610}{}{Um grupo de caçadores de recompensa.}
+{6611}{}{Um grupo de caçadores de recompensa.}
+{6612}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
 {6613}{}{Alguns fazendeiros se defendendo contra uma parte do exercito do Mestre.}
 {6614}{}{Alguns fazendeiros se defendendo de saqueadores.}
 {6615}{}{Um destacamento de rangers da NCR.}
 {6616}{}{Some farmers.}
-{6617}{}{A man guarding a bridge.}
+{6617}{}{Um homem guardando uma ponte.}
 {6618}{}{King Arthur's Knights fighting a rat.}
 {6619}{}{Um bando de saqueadores com raiva.}
 {6650}{}{Toxic waste dump.}
 {6651}{}{A lone surviving dog.}
 {6652}{}{A herd of brahmin.}
 {6653}{}{Um destacamento do exercito do Mestre.}
-{6654}{}{Some bounty hunters.}
-{6655}{}{Some bounty hunters.}
-{6656}{}{Some bounty hunters.}
-{6657}{}{Some bounty hunters.}
-{6658}{}{Some bounty hunters.}
-{6659}{}{Some bounty hunters.}
-{6660}{}{Some bounty hunters.}
-{6661}{}{Some bounty hunters.}
-{6662}{}{A band of ruffians led by a Morton Brother.}
+{6654}{}{Um grupo de caçadores de recompensa.}
+{6655}{}{Um grupo de caçadores de recompensa.}
+{6656}{}{Um grupo de caçadores de recompensa.}
+{6657}{}{Um grupo de caçadores de recompensa.}
+{6658}{}{Um grupo de caçadores de recompensa.}
+{6659}{}{Um grupo de caçadores de recompensa.}
+{6660}{}{Um grupo de caçadores de recompensa.}
+{6661}{}{Um grupo de caçadores de recompensa.}
+{6662}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
 {6663}{}{Um bando de saqueadores.}
 {6664}{}{Alguns rangers lutando contra uma esquadra do exercito do Mestre.}
 {6665}{}{Alguns rangers lutando contra saqueadores.}
@@ -1874,31 +1874,31 @@
 {6701}{}{Remanescentes do exército do Mestre.}
 {6702}{}{A swarm of mantis.}
 {6703}{}{A pack of mutated molerats.}
-{6704}{}{Some bounty hunters.}
-{6705}{}{Some bounty hunters.}
-{6706}{}{Some bounty hunters.}
-{6707}{}{Some bounty hunters.}
-{6708}{}{Some bounty hunters.}
-{6709}{}{Some bounty hunters.}
-{6710}{}{Some bounty hunters.}
-{6711}{}{Some bounty hunters.}
-{6712}{}{A band of ruffians led by a Morton Brother.}
+{6704}{}{Um grupo de caçadores de recompensa.}
+{6705}{}{Um grupo de caçadores de recompensa.}
+{6706}{}{Um grupo de caçadores de recompensa.}
+{6707}{}{Um grupo de caçadores de recompensa.}
+{6708}{}{Um grupo de caçadores de recompensa.}
+{6709}{}{Um grupo de caçadores de recompensa.}
+{6710}{}{Um grupo de caçadores de recompensa.}
+{6711}{}{Um grupo de caçadores de recompensa.}
+{6712}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
 {6713}{}{Um bando de radscorpions.}
-{6714}{}{A man guarding a bridge.}
+{6714}{}{Um homem guardando uma ponte.}
 {6715}{}{King Arthur's Knights fighting a rat.}
 {6750}{}{Toxic waste dump.}
 {6751}{}{A lone surviving dog.}
 {6752}{}{A herd of brahmin.}
 {6753}{}{Remanescentes do exercito do Mestre lutando contra ratos toupeira mutantes.}
-{6754}{}{Some bounty hunters.}
-{6755}{}{Some bounty hunters.}
-{6756}{}{Some bounty hunters.}
-{6757}{}{Some bounty hunters.}
-{6758}{}{Some bounty hunters.}
-{6759}{}{Some bounty hunters.}
-{6760}{}{Some bounty hunters.}
-{6761}{}{Some bounty hunters.}
-{6762}{}{A band of ruffians led by a Morton Brother.}
+{6754}{}{Um grupo de caçadores de recompensa.}
+{6755}{}{Um grupo de caçadores de recompensa.}
+{6756}{}{Um grupo de caçadores de recompensa.}
+{6757}{}{Um grupo de caçadores de recompensa.}
+{6758}{}{Um grupo de caçadores de recompensa.}
+{6759}{}{Um grupo de caçadores de recompensa.}
+{6760}{}{Um grupo de caçadores de recompensa.}
+{6761}{}{Um grupo de caçadores de recompensa.}
+{6762}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
 {6763}{}{Remanescentes do exército do Mestre.}
 {6764}{}{A swarm of mantis.}
 {6765}{}{A pack of mutated molerats.}
