@@ -114,53 +114,53 @@
  buy 'em out - in no time.}
 {186}{}{Too bad nobody knows where to get one of those chips, then.}
 {187}{}{Terei que ver quanto eles pagariam por um chip desses. Obrigado, adeus.}
-{188}{}{Squee-gee out your dang ears! I told you where to look for the damn chip. Ain't you been
- listening to a word I said? The Wanamingo mine had machines, and they were workin' 'til the time the
- mine got shut down. Prolly still chips down there. Jist waitin' fer someone to come along an' take 'em.}
-{189}{}{Hmm, maybe so. Let me ask you about something else.}
-{190}{}{Tell me about those Want-to-mangles, then.}
-{191}{}{Thanks. I'll have to look into that. Goodbye.}
-{192}{}{Well you see - here's the god's honest truth - I know someone who saw one up close-like, it was...
-(time passes)...With huge fangs that it uses to...(more time passes)...}
-{193}{}{I had a friend once that I was workin' a claim with and one day...(time passes)...big as a brahmin
- and it smelled worse...(more time passes)...}
-{194}{}{You're jist gonna fall asleep anyhow, but here goes nuthin.' It was late at night, see, and so...
-(time passes)...tracks like a cross 'tween a Radscorpion and a Gecko...(more time passes)... See, I told you
- you'd fall asleep.}
-{195}{}{Huh, wha? (your head snaps up; you must have been dozing).}
-{196}{}{I better go find something to help me stay awake. Goodbye.}
-{197}{}{...So, now you know. The slaves that used to work the mine blew up the dynamite stores and
- escaped, rather than face those Wanamingos. Shut down the mine right after and nobody went back.}
-{198}{}{Where did you say the Great Wanamingo Mine is?}
-{199}{}{Sounds sensible enough. Well, goodbye for now.}
-{200}{}{Jist west of town. But I heard that some of the Wanamingos been coming into town late at night.
- So mebbe' you won't have to go out there to see 'em. Heh-hee.}
-{201}{}{I think I've heard all I need to about Wanamingos. Let me ask you something else.}
-{202}{}{I'll keep an eye out for anyone Wanting-to-mingle. Goodbye.}
-{203}{}{Ascorti's the mayor. He runs Ascorti's Ace downtown. He takes care of buying and selling a lot
- of stuff. He's right in the middle of all kinds o' thangs.}
-{204}{}{Ascorti's the Mayor of Redding. But I don't rightly know where he is. Haven't seen him around
- for a stretch.}
+{188}{}{Aperte suas malditas orelhas! Eu te disse onde procurar a bosta do chip. Você não está ouvindo
+ uma palavra do que eu disse? A mina Wanamingo tinha máquinas, e elas estavam trabalhando até a
+ hora que a mina foi fechada. Os chips ainda estão lá, é alguém entrar lá e levar embora.}
+{189}{}{Hum, talvez sim. Deixe eu te perguntar sobre outra coisa.}
+{190}{}{Me conte sobre essas máquinas de matar, então.}
+{191}{}{Obrigado, eu vou dar uma olhada nisso. Adeus.}
+{192}{}{Bem, veja bem - aqui está a verdade honesta, diante de Deus - eu conheço alguém que viu de perto,
+tipo, era... (passa um tempo)... Com enormes presas que ele usa para... (mais tempo passa).. .}
+{193}{}{Eu tive um amigo com quem estava trabalhando em uma reivindicação e um dia... (o tempo passa)
+ ... grande como um brahmin e cheirava bem pior... (mais tempo passa)...}
+{194}{}{Você vai dormir de qualquer forma, mas nada acontece.' Era tarde da noite, olha, e então...
+(o tempo passa)... rastros, como um cruzamento entre um Radscorpion e um Gecko... (mais tempo passa)...
+ Veja, eu disse que você adormeceria.}
+{195}{}{O quê? (sua cabeça se levanta; você deve estar cochilando).}
+{196}{}{É melhor eu ir procurar algo que me ajude a ficar acordado. Adeus.}
+{197}{}{...Então, agora você sabe. Os escravos que trabalhavam na mina explodiram os depósitos de
+ dinamite e fugiram, em vez de enfrentar aqueles Wanamingos. Fechei a mina logo depois e ninguém voltou.}
+{198}{}{Onde você disse que fica a Grande Mina de Wanamingo?}
+{199}{}{Parece bem sensato. Bem, tchau por enquanto.}
+{200}{}{Bem ao oeste da cidade. Mas ouvi dizer que alguns dos Wanamingos vêm para a cidade tarde da
+ noite. Então talvez você nem precise ir lá para vê-los. Hehe.}
+{201}{}{Acho que já ouvi tudo o que preciso sobre Wanamingos. Deixe eu te perguntar outra coisa.}
+{202}{}{Vou ficar de olho em quem quiser se intrometer. Tchau.}
+{203}{}{Ascorti é o prefeito, ele comanda o As de Ascorti no centro, ele se dedica a comprar e vender
+ um monte de coisas. Ele está em envolvido em todo tipo de coisas.}
+{204}{}{Ascorti é o prefeito de Redding. Mas não sei direito onde ele está, faz um bom tempo que não
+ o vejo por aí.}
 {205}{}{Deixa eu te perguntar outra coisa.}
-{206}{}{Oh, okay. Well, go on with the rest of your story, then.}
-{207}{}{I think I've listened to you long enough. Goodbye.}
-{208}{}{Jet is jist a little somethin' from New Reno. I jist take enough to smooth out the rough edges.}
+{206}{}{Oh, tudo bem. Bom, continue com o resto da sua história, então.}
+{207}{}{Acho que já ouvi você o suficiente. Adeus.}
+{208}{}{Jet é apenas uma coisinha de New Reno. Eu mal tomo o suficiente para acalmar meus nervos.}
 {209}{}{Deixe-me perguntar-lhe algo mais.}
-{210}{}{Interesting. Thanks and goodbye.}
-{211}{}{Jet's the way to go, man. If I'm not flying Jet, I just don't feel right no more. You've gotta
- get yourself some.}
+{210}{}{Interessante. Obrigado e adeus.}
+{211}{}{Jet é o caminho que temos, cara. Se não estou chapado com Jet, eu não consigo me
+ sentir bem. Você tem que conseguir um pouco.}
 {212}{}{Deixe-me perguntar-lhe algo mais.}
-{213}{}{Interesting. Thanks and goodbye.}
-{214}{}{I cain't make it without taking some Jet. Everyone's flyin' it lately. Gotta have it jist to get
- by. Heck, I don't feel so good with it as I feel shitty without it.}
+{213}{}{Interessante. Obrigado e adeus.}
+{214}{}{Não consigo sem tomar um pouco de Jet. Todo mundo está chapando ultimamente, preciso
+ disso para sobreviver. Droga, não me sinto bem com ele, mas sem ele me sinto pior ainda.}
 {215}{}{Deixe-me perguntar-lhe algo mais.}
-{216}{}{Interesting. Thanks and goodbye.}
+{216}{}{Interessante. Obrigado e adeus.}
 {217}{}{The Jet's bad, man. Everyone who's using got all sick like they're gonna die. I think I better...
 (bends over and dry heaves a bit)...sorry. Say pardner, can we talk about something else?}
 {218}{}{Sure, sorry. Let me ask you something else.}
-{219}{}{Interesting. Thanks and goodbye.}
+{219}{}{Interessante. Obrigado e adeus.}
 {220}{}{I don't never want to hear about that god-damn Jet again. That stuff'll kill ya. Damn-sight
  worse'n Radscorp venom. I cain't believe that I ever liked that stuff. That last time... I
  thought I was a goner.}
 {221}{}{Deixe-me perguntar-lhe algo mais.}
-{222}{}{Interesting. Thanks and goodbye.}
+{222}{}{Interessante. Obrigado e adeus.}

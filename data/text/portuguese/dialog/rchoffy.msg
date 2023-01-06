@@ -30,7 +30,7 @@
  to arrive at Redding rather than leave it. Real neat and tidy that way. You see here, this is the way
  it works: When a caravan's in town and looking for help, the caravan master has his tent set up
  here just south of my castle. Real neat and tidy that way.}
-{126}{}{Your castle? What do you mean?}
+{126}{}{Seu castelo? O que você quer dizer?}
 {127}{}{I see. I guess I'll talk to them, then. Thanks. Goodbye.}
 {128}{}{We run caravans all over the fricking place. Let me tell you: We've got gold ore going out to
  Vault City, we've got some going out to New Reno (ooo-la-la, if ya know what I mean), and we've even

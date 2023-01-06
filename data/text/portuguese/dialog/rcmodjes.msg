@@ -140,13 +140,13 @@
 {209}{}{Thanks for the info. Goodbye.}
 {210}{}{Ascorti's the Mayor. He runs Ascorti's Ace downtown. He takes care of buying and selling a lot
  of stuff. He's right in the middle of all kinds o' thangs.}
-{211}{}{Ascorti's the Mayor of Redding. But I don't rightly know where he is. Haven't seen him around
- for a stretch.}
+{211}{}{Ascorti é o prefeito de Redding. Mas não sei direito onde ele está, faz um bom tempo que não
+ o vejo por aí.}
 {212}{}{Deixa eu te perguntar outra coisa.}
-{213}{}{I think I've listened to you long enough. Goodbye.}
+{213}{}{Acho que já ouvi você o suficiente. Adeus.}
 {214}{}{Jet is a wonderful drug that helps me to take the edge of this miserable existence, darling.}
 {215}{}{Deixe-me perguntar-lhe algo mais.}
-{216}{}{Interesting. Thanks and goodbye.}
+{216}{}{Interessante. Obrigado e adeus.}
 {217}{}{Jet's a drug that helps me to feel truly alive. I'm a real sky-pilot with Jet.}
 {218}{}{Deixe-me perguntar-lhe algo mais.}
 {219}{}{Interesting. Thanks, and goodbye.}
