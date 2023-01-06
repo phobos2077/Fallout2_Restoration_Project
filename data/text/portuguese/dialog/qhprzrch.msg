@@ -83,9 +83,9 @@
 {182}{prs21a}{Bem, olá. Prazer em passar um tempo com um membro de nossas tropas mais galantes, mas estou bem ocupado. Então, o que o presidente dos Estados Unidos da América pode fazer por você?}
 {183}{prs21b}{Você voltou? O que é que você quer?}
 {184}{}{Pode me dizer o que está acontecendo aqui.}
-{185}{}{I, uh, I'm just checking this area, sir. Security check. Yeah. Everything's fine here. Uh, goodbye.}
-{186}{prs22a}{Hello. I'm the President of the United States of America, and you are...?}
-{187}{prs22b}{Hello there. I'm the President of the United States of America and I must say I've seldom seen a stranger, or sorrier, delegation of misfits in all my life. Just who are you to barge in on me this way?}
+{185}{}{Eu, uh, estou apenas verificando esta área, senhor. Verificação de segurança, isso. Está tudo em ordem aqui, adeus.}
+{186}{prs22a}{Olá. Eu sou o presidente dos Estados Unidos da América, e você é...?}
+{187}{prs22b}{Olá. Sou o presidente dos Estados Unidos da América e devo dizer que nunca vi uma delegação de desajustados mais estranha ou mais triste em toda a minha vida. Quem é você para invadir aqui dessa maneira?}
 {188}{}{Estou muito curioso para saber o que está acontecendo aqui.}
 {189}{}{Sou seu executor.}
 {190}{}{O presidente? O que você está falando?}
@@ -120,32 +120,32 @@
 {219}{}{E nós juntos deles.}
 {220}{prs34}{Bem não. Não... não exatamente. Veja, nós tínhamos planejado com antecedência. Estavamos prontos. }
 {221}{}{O que você quer dizer?}
-{222}{prs35}{We had a number of sanctuaries that would enable the glorious American civilization to endure. This facility - the vaults - were part of the great plan.}
-{223}{}{Those damn vaults didn't work the way they were supposed to. A lot of people in them died.}
-{224}{prs36}{Actually, they worked almost exactly the way they were supposed to. You might call it a social experiment on a grand scale.}
-{225}{}{An experiment?}
-{226}{prs36a}{The vaults were set up to test humanity. Some had not enough food synthesizers, others had only men in them, yet others were designed to open after only 6 months. They each had a unique set of circumstances designed to test the occupants.}
-{227}{}{What about Vault 13? What was its purpose?}
-{228}{prs37}{Ahh. Vault 13 is a special case. It was supposed to remain closed until the subjects were needed. Vault 13 was, in scientific parlance, a control group.}
-{229}{}{But they would all have died if my ancestor didn't get them a replacement water chip. That doesn't seem to fit in with your plan.}
-{230}{prs38}{An unfortunate, and unforeseen accident. However, as it turns out a rather fortuitous one.}
+{222}{prs35}{Tínhamos um bom número de santuários que manteriam a gloriosa cultura americana. Essas instalações - as vaults - faziam parte desse plano.}
+{223}{}{Aqueles malditas vaults não funcionavam como deveriam. Muitas pessoas morreram nelas.}
+{224}{prs36}{Na verdade, eles funcionaram quase exatamente como deveriam. Você pode chamar de um experimento social em grande escala.}
+{225}{}{Um experimento?}
+{226}{prs36a}{As vaults foram criadas para testar a humanidade. Alguns não tinham sintetizadores de alimentos suficientes, outras tinham apenas homens por dentro, ainda outras foram projetadas para abrir depois de apenas 6 meses. Cada uma deles tinha um conjunto único de circunstâncias projetadas para testar os ocupantes.}
+{227}{}{E a Vault 13? Qual era o propósito dela?}
+{228}{prs37}{Ahh, a Vault 13 é um caso especial. Deveria permanecer fechada até que os habitantes fossem necessários. A Vault 13 era, em linguagem científica, um grupo de controle.}
+{229}{}{Mas todos eles teriam morrido se meu ancestral não tivesse substituído o purificador de água. Isso não parece fazer parte do plano.}
+{230}{prs38}{Um acidente infeliz e imprevisto. No entanto, como se vê, tivemos sorte.}
 {231}{}{O que você quer dizer?}
-{232}{prs39}{As it turns out we needed test subjects from untainted, pre-war, human stock - your ancestors in Vault 13 - and some freshly mutated stock - the villagers from Arroyo.}
+{232}{prs39}{Acontece que precisávamos de cobaias humanas não contaminadas, pré-guerra - seus ancestrais da Vault 13 - e alguns recém-mutados, os aldeões de Arroyo.}
 {233}{}{Por quê?}
-{234}{prs39a}{For the Project. It's almost ready. Humanity's salvation is almost at hand and the United States of America will be the progenitor of that rebirth.}
-{235}{}{Rebirth? What do you mean?}
-{236}{prs40a}{The only way for true humans, and democracy, to be safe is to cleanse the mutants from the globe. We humans will take back that which is rightfully ours.}
-{237}{prs40b}{The Project will cleanse all the mutants from our fair land - and the rest of the globe. Once again, America will be the world's policeman.}
-{238}{}{I'm a true human, too.}
-{239}{}{Cleanse the mutants? That sounds a bit drastic. How are you going to do that?}
-{240}{prs41}{We found a research facility in operational shape about 70 years ago. A former military base that had been used to research a special virus.}
-{241}{}{A virus?}
-{242}{prs42}{Yes, the F.E.V. virus. It was originally developed to turn soldiers into super-warriors but it failed. The warriors were tough and strong, but far too stupid. However, our brilliant Chemical Corps altered it.}
-{243}{}{Altered the virus? Why?}
-{244}{prs43}{To turn it into a staggeringly effective killer. Any humanoid that isn't inoculated against its effects before its release will die. That is the Project.}
-{245}{}{That's insane.}
-{246}{prs43a}{No, no. That's humanity's last, best, hope. That's what we've been working towards all these years.}
-{247}{}{Great, so you have all this poison and no way to spread it around.}
+{234}{prs39a}{Para o projeto, está quase pronto. A salvação da humanidade está bem próxima e os Estados Unidos da América serão os progenitores desse renascimento.}
+{235}{}{Renascimento? O que você quer dizer?}
+{236}{prs40a}{A única maneira de os verdadeiros humanos e a democracia ficarem seguros é limpar os mutantes da terra. Nós, humanos, tomaremos de volta o que é nosso por direito.}
+{237}{prs40b}{O Projeto limpará todos os mutantes de nosso lindo pais - e do resto do globo. Mais uma vez, a América será a policia do mundo.}
+{238}{}{Eu sou um humano autêntico também.}
+{239}{}{Limpar os mutantes? Isso parece bem drástico. Como você vai fazer isso?}
+{240}{prs41}{Encontramos um centro de pesquisa em funcionamento há cerca de 70 anos. Uma antiga base militar que havia sido usada para pesquisar um vírus especial.}
+{241}{}{Um virus?}
+{242}{prs42}{Sim, o vírus F.E.V.. Foi originalmente desenvolvido para transformar soldados em super-guerreiros, mas falhou. Os guerreiros eram duros e fortes, mas estúpidos. No entanto, nossa brilhante Unidade Química o alterou.}
+{243}{}{Alterou o vírus? Por que?}
+{244}{prs43}{Para transformá-lo em um assassino incrivelmente eficaz. Qualquer humanóide que não for inoculado contra seus efeitos antes de sua liberação morrerá. Esse é o Projeto.}
+{245}{}{Isso é insanidade.}
+{246}{prs43a}{Não. Essa é a última e melhor esperança da humanidade. É para isso que temos trabalhado todos esses anos.}
+{247}{}{Ótimo, então você tem todo esse veneno e não tem como espalhá-lo.}
 {248}{prs44}{We've run short of certain critical chemicals. We can get them from the drug labs of New Reno. If the mutant-mobsters use our guns to kill each other, (snorts) just saves us the trouble.}
 {249}{}{Everything works in your favor, huh? Tell me the rest of the story.}
 {250}{prs45}{Simple. Navarro is an isolated base. Our vertibirds have a limited range. They refuel there.}
