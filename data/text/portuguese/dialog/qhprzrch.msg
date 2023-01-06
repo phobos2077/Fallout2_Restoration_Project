@@ -44,42 +44,42 @@
 {143}{}{Sem dúvida.}
 {144}{}{Talvez não, mas sugiro que fique fora do meu caminho até eu ir embora.}
 {145}{prs11a_a}{Para sua informação, os guardas têm ordens de atirar até em mim para não permitir que nada prejudique o projeto. Eu... não serviria como refém.}
-{146}{prs11b}{You don't really expect that to work do you? Ha! If you try it, my guards have orders to shoot me rather than let anything, or anyone, endanger the Project. I'm staying right here. Now, are you going to shoot me or not?}
-{147}{}{Maybe not, but I'm leaving. Don't touch that buzzer.}
-{148}{}{The Project? What Project?}
-{149}{}{Yes, it will. I'll enjoy it.}
-{150}{prs12}{Uh, now, now, now. Now, let's... let's... Uh, Wh-wh-what is it you want, anyway?}
+{146}{prs11b}{Você realmente não espera que isso funcione, não é? Ha! Se você tentar, meus guardas têm ordens de atirar em mim para não deixar que nada, nem ninguém, coloque o projeto em perigo. Eu vou ficar aqui. Então, você vai atirar em mim ou não?}
+{147}{}{Talvez não, mas estou indo embora. Não toque nessa campainha.}
+{148}{}{Projeto? Que projeto?}
+{149}{}{Sim, vai. Eu adoraria.}
+{150}{prs12}{Uh, agora, agora, agora. Agora, vamos... vamos... Uh, o que você quer, afinal?}
 {151}{}{Eu quero saber o que está acontecendo aqui.}
-{152}{}{I want to know just who the hell you are.}
-{153}{}{I want you dead.}
-{154}{prs13}{Okay, okay, whatever you say. I'll just sit here quietly. It's, uh, nice to meet you. Goodbye.}
-{155}{}{That's too easy. Before I go, I'd like to know just what you're doing here.}
+{152}{}{Eu quero saber que maldito você é.}
+{153}{}{Te quero morto.}
+{154}{prs13}{Ok, o que você disser, eu vou sentar aqui em silêncio. É, uh, um prazer em conhecê-lo. Adeus.}
+{155}{}{Isso é muito fácil. Antes de ir, gostaria de saber o que está acontecendo aqui.}
 {156}{}{Tenha cuidado.}
-{157}{}{Nice to meet you, Mr. President. Goodbye.}
-{158}{prs14}{Ahhh. Ahhh. Guards? Guards!}
-{159}{}{Say goodnight, Mr. President.}
-{160}{prs15}{I am the President of the United States of America. The Vice-President is in the office outside. If you belonged here you'd know that. Who are you and what are you doing here?}
-{161}{}{You're the President of what United States?}
-{162}{}{You're a loony.}
-{163}{}{Vice-President? You mean that drooling idiot next door?}
-{164}{}{What a coincidence, I'm Emperor of the planet Quetzel, here for the surrender of Earth.}
-{165}{}{I'll just let you get back to business Mr., uh, President. Goodbye.}
-{166}{prs16}{Ah-ha. Oh, of course, your eminence. Why don't I just call for... some refreshments? We can talk and work things out - can't we all just get along?}
-{167}{}{That sounds just grand.}
-{168}{}{Nice try, Mr. President.}
-{169}{prs17}{Uh, well, just one second. (into intercom) Ahh, I'd like refreshments for myself and an *unexpected guest*. A very important - unexpected - guest. Right away?}
-{170}{}{Thanks. I guess you're not such a bad guy after all.}
-{171}{}{That was stupid. Now someone's going to have to get hurt.}
-{172}{prs18}{Somebody's loony here, all right. Oh yeah. Oooooh yeah.}
-{173}{}{Don't look at me. I'm not claiming to be the President of a United States that fell long before either of us was born.}
-{174}{prs19}{I am the elected representative of the people. The United States does still exist. God bless us, every one. We've just had to adapt in order to survive after the war.}
-{175}{}{I don't understand. What do you mean?}
-{176}{prs20a}{You really don't know, do you? Let me tell you about mankind's salvation. A little history first...}
-{177}{prs20b}{A, hmm, a little history....}
-{178}{}{Go on, Mr. President....}
-{179}{}{First, why do you have a base at Navarro?}
-{180}{}{Before you get into that... I saw some of your vertibirds doing some trade with New Reno. What's that all about?}
-{181}{}{I don't have time for this lunacy now. Goodbye.}
+{157}{}{Foi um prazer conhecê-lo, Sr. Presidente. Adeus.}
+{158}{prs14}{Ahhh. Ahhh. Guardas? Guardas!}
+{159}{}{Diga boa noite, Sr. Presidente.}
+{160}{prs15}{Eu sou o Presidente dos Estados Unidos da América, o vice-presidente está no escritório lá fora. Se você pertencesse a esse lugar, saberia disso. Quem é você e o que está fazendo aqui?}
+{161}{}{Você é o presidente de que Estados Unidos?}
+{162}{}{Você é maluco.}
+{163}{}{Vice presidente? Você quer dizer aquele idiota babão ali do lado?}
+{164}{}{Que coincidência, sou o Rei do planeta Vegeta, estou aqui para render a Terra.}
+{165}{}{Vou deixar você voltar aos seus assuntos Sr., uh, Presidente. Adeus.}
+{166}{prs16}{Ah-ha. Oh, claro, sua eminência. Devia até pedir... alguns refrigerantes? Podemos conversar e resolver nos problemas. Não podemos todos nos dar bem?}
+{167}{}{Isso parece ótimo.}
+{168}{}{Boa tentativa, Sr. Presidente.}
+{169}{prs17}{Uh, bem, só um segundo. (no intercomunicador) Ahh, gostaria de refrigerantes para mim e para um *convidado inesperado*. Um convidado muito importante e *inesperado*. Recebudi?}
+{170}{}{Obrigado. Acho que você não é um cara tão mau, afinal.}
+{171}{}{Aquilo foi estúpido. Agora alguém vai se machucar.}
+{172}{prs18}{Alguém está louco aqui, certo. Oh sim. Oooooh sim.}
+{173}{}{Não olhe para mim. Não tenho o direito de ser presidente de uma América que caiu muito antes de nascermos.}
+{174}{prs19}{Eu sou o representante eleito do povo. Os Estados Unidos ainda existe, Deus abençoe todos nós. Nós apenas tivemos que nos adaptar para sobreviver depois da guerra.}
+{175}{}{Não entendo. O que você quer dizer?}
+{176}{prs20a}{Você realmente não sabe, não é? Deixe-me falar sobre a salvação da humanidade. Um pouco de história primeiro...}
+{177}{prs20b}{A, hum, um pouco de história....}
+{178}{}{Siga, Sr. Presidente....}
+{179}{}{Primeiro, por que vocês tem uma base em Navarro?}
+{180}{}{Antes de prosseguir... Eu vi alguns de seus vertibirds em New Reno. O que seria isso?}
+{181}{}{Não tenho tempo para essa loucura agora. Adeus.}
 {182}{prs21a}{Well, hello there. Glad to make time for one of our gallant troopers. But, I am rather busy. So, uh, what can the President of the United States of America do for you?}
 {183}{prs21b}{You're back? What is it you want?}
 {184}{}{You can tell me just what's going on here.}

@@ -92,12 +92,12 @@
 {192}{}{Test Subject Holding Level: Security turrets currently at Deactivated Maintenance status.}
 {193}{}{Research and Development Project Area: Security turrets currently at Armed Alert status.}
 {194}{}{Research and Development Project Area: Security turrets currently at Normal status.}
-{195}{}{Research and Development Project Area: Security turrets currently at Deactivated Maintenance status.}
-{196}{}{Executive Office Area: Security turrets currently at Armed Alert status.}
-{197}{}{Executive Office Area: Security turrets currently at Normal status.}
-{198}{}{Executive Office Area: Security turrets currently at Deactivated Maintenance status.}
-{199}{}{Information and Power plant Level: Security turrets currently at Armed Alert status.}
-{200}{}{Information and Power plant Level: Security turrets currently at Normal status.}
+{195}{}{Área do Projeto de Pesquisa e Desenvolvimento: Torres de segurança atualmente em status Desativado para Manutenção.}
+{196}{}{Área do Escritório Executivo: torres de segurança atualmente em estado de Alerta Armado.}
+{197}{}{Área do Escritório Executivo: Torres de segurança atualmente em status Normal.}
+{198}{}{Área do escritório executivo: torres de segurança atualmente com status de Desativada para Manutenção.}
+{199}{}{Nível de Informação e Usina: Torres de segurança atualmente em status de Alerta Armado.}
+{200}{}{Nível de Informação e Usina: Torretas de segurança atualmente em estado Normal.}
 {201}{}{Nível de Informação e Usina: Torretas de segurança atualmente com status de Desativadas para Manutenção.}
 {202}{}{Ajustar o nível de segurança.}
 {203}{}{Estado da Nação: Situação atual}
@@ -138,30 +138,30 @@
 {239}{}{(Não quero mais mexer com o computador agora.) Faça logoff.}
 {240}{}{Senha de Segurança Presidencial reconhecida. Bom dia, Sr. Presidente.... Protocolo de emergência Contra-Insurgência iniciado... Alvo adquirido.}
 {241}{}{(Acho que vou voltar para ver o que acontece).}
-{242}{}{Presidential Security Passkey recognized. Good day, Mr. President.... Emergency Counter Insurgency Protocol initiated...**Malfunction**... Security link offline on this level. Please submit form FG-I-106-32-0635 to authorize repair services. Thanks for using another fine Vault-Tec product. Good day.}
-{243}{}{(Maybe it'll work on the entry levels. Hmm, that must mean the area just before the dock. I'll have to give it a try there.) Return to User ID.}
-{244}{}{(I wonder what else I can try?) Back.}
-{245}{}{Presidential Security Keycard required to access this function. Keycard not found.}
-{246}{}{(I wonder what else I can try?) Back.}
-{247}{}{Emergency Defensive Systems Shutdown temporarily shuts down active security systems on a level by level basis. Shutdown starts deep diagnostic procedure before initiating auto-reboot of security systems.}
-{248}{}{(That sounds like something good to try.) Activate Emergency Defensive Systems Shutdown.}
-{249}{}{(Hmm, maybe I'll try this some other time.) Back.}
+{242}{}{Senha de Segurança Presidencial reconhecida. Bom dia, Sr. Presidente.... Protocolo de Contra-Insurgência de Emergência iniciado...**Avaria**... Link de segurança offline neste nível. Envie o formulário FG-I-106-32-0635 para autorizar os serviços de reparo. Obrigado por usar outro excelente produto Vault-Tec. Bom dia.}
+{243}{}{(Talvez funcione nos níveis de entrada. Hmm, isso deve significar a área logo antes do cais. Terei que tentar lá.) Volte para a ID do usuário.}
+{244}{}{(O que mais que posso tentar?) Volte.}
+{245}{}{Cartão de acesso de segurança presidencial necessário para acessar esta função. Cartão-chave não encontrado.}
+{246}{}{(O que mais que posso tentar?) Volte.}
+{247}{}{O desligamento dos Sistemas Defensivos de Emergência desliga temporariamente os sistemas de segurança ativos nível a nível. O desligamento inicia um procedimento de diagnóstico profundo antes de iniciar a reinicialização automática dos sistemas de segurança.}
+{248}{}{(Isso parece bom para eu tentar.) Ative o desligamento de emergência dos sistemas defensivos.}
+{249}{}{(Hmm, talvez eu tente isso em outro momento.) Volte.}
 {250}{}{(Não quero mais mexer com o computador agora.) Faça logoff.}
-{251}{}{Presidential Security Passkey recognized. Good day, Mr. President.... Emergency Defensive Systems Shutdown initiated... Performing deep diagnostic. Alpha....Bravo....Charlie....}
-{252}{}{(For some strange reason, I don't think I want to do this right now.) Back.}
-{253}{}{(I better get moving, while this thing is still running that diagnostic). Log off.}
-{254}{}{Presidential Security Passkey not recognized. Access denied.}
-{255}{}{(Hmm, I wonder if I can fool the scanner into thinking I have the key by hacking into the access file. I think I'll try.)}
-{256}{}{(Oh well, it was worth a shot.) Back.}
-{257}{}{Security Passkey Scanner malfunction noted... Reinitializing scanner...}
-{258}{}{(That's my chance, now if I can only get it to think it's recognized the Presidential Passkey...)}
-{259}{}{(Damn, well nothing ventured...) Back.}
-{260}{}{Scanner reinitialized. Rescanning...}
-{261}{}{(Here's the big moment.)-You type feverishly.}
-{262}{}{Illegal procedure detected. Further access to this terminal is denied... Maintenance alert sent.}
-{263}{}{Damn. That's not what I wanted at all.}
-{264}{}{Presidential Security Passkey recognized. Good day, Mr. President. (Yes! Now let's see what I can do...)}
-{265}{}{(What else can I do?)}
+{251}{}{Senha de Segurança Presidencial reconhecida. Bom dia, Sr. Presidente.... Desligamento de Emergência dos Sistemas Defensivos iniciado... Realizando diagnóstico profundo. Alfa....Bravo....Charlie....}
+{252}{}{(Por alguma estranha razão, acho que não quero fazer isso agora.) Volte.}
+{253}{}{(É melhor eu me apressar, enquanto essa coisa ainda está rodando esse diagnóstico). Saia.}
+{254}{}{Senha de Segurança Presidencial não reconhecida. Acesso negado.}
+{255}{}{(Hmm, me pergunto se posso enganar o scanner o fazendo pensar que tenho a chave invadindo o arquivo de acesso. Acho que vou tentar.)}
+{256}{}{(Bem, valeu a pena tentar.) Volte.}
+{257}{}{Foi detectado mau funcionamento na Chave de Acesso ao Scanner ... Reiniciando o scanner...}
+{258}{}{(Essa é a minha chance, agora se eu conseguir o fazer pensar que reconheceu a Chave Presidencial...)}
+{259}{}{(Droga, bem, nada arriscado...) Volte.}
+{260}{}{Scanner reinicializado. Redigitalizando...}
+{261}{}{(Aqui está o grande momento.) - Você digita febrilmente.}
+{262}{}{Procedimento ilegal detectado. Mais acesso a este terminal foi negado... Alerta de manutenção enviado.}
+{263}{}{Droga. não era isso que eu queria.}
+{264}{}{Senha de Segurança Presidencial reconhecida. Bom dia, Sr. Presidente. (Sim! Agora vamos ver o que posso fazer...)}
+{265}{}{(O que mais eu posso fazer?)}
 {266}{}{Presidential Security Passkey recognized. Good day, Mr. President... Emergency Counter Insurgency Protocol initiated... **Error** Target not found. Please ensure that the sensors are working correctly. If not, please submit form FG-I-106-32-0635 to authorize repair services. Thanks for using another fine Vault-Tec product. Good day.}
 {267}{}{(Hmm... Maybe it'll work once there's someone actually there. I'll have to give it a try later.) Return to User ID.}
-{268}{}{(I wonder what else I can try?) Back.}
+{268}{}{(O que mais que posso tentar?) Volte.}

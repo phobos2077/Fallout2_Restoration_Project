@@ -113,7 +113,7 @@
  Heck, if they had a workin' machine and the other mine doesn't, they'd shut the other mine down - or
  buy 'em out - in no time.}
 {186}{}{Too bad nobody knows where to get one of those chips, then.}
-{187}{}{I'll have to see how much they'd pay for a chip like that. Thanks. Goodbye.}
+{187}{}{Terei que ver quanto eles pagariam por um chip desses. Obrigado, adeus.}
 {188}{}{Squee-gee out your dang ears! I told you where to look for the damn chip. Ain't you been
  listening to a word I said? The Wanamingo mine had machines, and they were workin' 'til the time the
  mine got shut down. Prolly still chips down there. Jist waitin' fer someone to come along an' take 'em.}
