@@ -32,27 +32,27 @@
 {602}{}{Duas cerejas. }
 {603}{}{Tres }
 {604}{}{PREMIO! }
-{605}{}{DOUBLE JACKPOT!!! }
+{605}{}{DUPLO PREMIO!!! }
 {613}{}{. }
-{700}{}{Payoff is $}
+{700}{}{O premio é $}
 {701}{}{.}
-{1001}{}{cherry}
-{1002}{}{orange}
-{1003}{}{plum}
-{1004}{}{bell}
-{1005}{}{bar}
-{1006}{}{melon}
+{1001}{}{cereja}
+{1002}{}{laranja}
+{1003}{}{ameixa}
+{1004}{}{sino}
+{1005}{}{barra}
+{1006}{}{melao}
 {1007}{}{sete}
-{1101}{}{cherries}
-{1102}{}{oranges}
-{1103}{}{plums}
-{1104}{}{bells}
-{1105}{}{bars}
-{1106}{}{melons}
-{1107}{}{sevens}
+{1101}{}{cerejas}
+{1102}{}{laranjas}
+{1103}{}{ameixas}
+{1104}{}{sinos}
+{1105}{}{barras}
+{1106}{}{meloes}
+{1107}{}{setes}
 {2000}{}{*Venha me jogar por um minuto, cowboy.*}
 {2001}{}{*Olá, marinheiro.*}
-{2002}{}{*Put in a cap, pull the arm. I'll be nice to you.*}
+{2002}{}{*Coloque uma moeda, puxe o braço. Serei legal com você.*}
 {2003}{}{*Tick…Tick…Tiiiiick…*}
 {2004}{}{*Ding*}
 {2005}{}{*Bing*}
@@ -63,13 +63,13 @@
 {2010}{}{*Ei, você! Venha me jogar um minutinho.*}
 {2011}{}{*Olá, beleza.*}
 {2012}{}{*Não é que você é uma gracinha... por que não vem me jogar um poquinho?*}
-{2100}{}{You see a strange golden metal box with three eyes and one arm. It is one of the
- prettiest things you have ever seen.}
+{2100}{}{Você vê uma estranha caixa de metal dourado com três olhos e um braço. É uma das coisas
+ mais bonitas que você já viu.}
 {2101}{}{Eu}
-{2102}{}{ who yu?}
+{2102}{}{ quem voce?}
 {2103}{}{Mim sente falta da mamãe. }
 {2104}{}{ sente saudade de ARR-YO. Mim quer ir pra casa.}
-{2105}{}{(Shake its hand)}
+{2105}{}{(Aperta sua mão)}
 {2106}{}{Você mutante estranho}
 {2107}{}{Viva a Vault! Viva a Vault!}
 {2108}{}{Você ser um water chip?}
@@ -77,9 +77,9 @@
 {2110}{}{Deixar.}
 {2130}{}{A estranha caixa dourada de metal com três olhos e um braço parece não responder.}
 {2131}{}{MIM }
-{2132}{}{! YU ANSWER ME!}
-{2133}{}{(Shake its hand)}
-{2134}{}{Me child of Vault Dweller. You talk to me NOW.}
+{2132}{}{! VOCÊ ME RESPONDE!}
+{2133}{}{(Aperta sua mão)}
+{2134}{}{Eu, filho do Morador da Vault. Você fala comigo AGORA.}
 {2135}{}{Você mutante estranho}
 {2136}{}{Você ser um water chip?}
 {2137}{}{Sair; procurar por mais coisas brilhantes}
