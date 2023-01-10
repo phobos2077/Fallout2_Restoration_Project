@@ -146,23 +146,23 @@
 {245}{}{Isso é insanidade.}
 {246}{prs43a}{Não. Essa é a última e melhor esperança da humanidade. É para isso que temos trabalhado todos esses anos.}
 {247}{}{Ótimo, então você tem todo esse veneno e não tem como espalhá-lo.}
-{248}{prs44}{We've run short of certain critical chemicals. We can get them from the drug labs of New Reno. If the mutant-mobsters use our guns to kill each other, (snorts) just saves us the trouble.}
-{249}{}{Everything works in your favor, huh? Tell me the rest of the story.}
-{250}{prs45}{Simple. Navarro is an isolated base. Our vertibirds have a limited range. They refuel there.}
-{251}{}{Makes sense.}
-{252}{prs46a}{I'm sure you think so. But tests performed on your tribesmen have all shown that you are guilty of mutation. And it's a damn good thing the Project is ready.}
+{248}{prs44}{Ficamos sem alguns produtos químicos críticos, podemos obtê-los nos laboratórios de drogas de New Reno. Enquanto os mutantes mafiosos usarem nossas armas para se matarem, (bufa) apenas nos poupa um problema.}
+{249}{}{Tudo funciona a seu favor, eh? Me conte o resto da história.}
+{250}{prs45}{Simples, Navarro é uma base isolada. Nossos vertibirds têm um alcance limitado, eles reabastecem lá.}
+{251}{}{Faz sentido.}
+{252}{prs46a}{Tenho certeza que você pensa assim. Mas os testes realizados nos membros da tribo mostraram que vocês possuem a mutação. E que bom que o Projeto está pronto.}
 {253}{}{Por quê?}
-{254}{prs46b}{Some of the members of your tribe are showing some extremely interesting changes. If the danger to true humanity weren't so great I would think about studying them. But (sighs) that's not to be.}
-{255}{}{Not to be? Why not?}
-{256}{prs47}{Oh, but that's one of the advantages of the F.E.V. virus. We can release it right here and the Jet stream will carry it worldwide. It'll have plenty of time to cleanse every nook and cranny of the globe.}
-{257}{}{OK. Then why did you have to kidnap my villagers and the people from Vault 13?}
-{258}{prs48}{Test subjects. Your villagers are all descended from vault stock and we had to make sure that the F.E.V. toxin was still effective. The subjects from Vault 13 test that and an inoculation against the FEV.}
-{259}{}{You're not testing the inoculation on my people?}
-{260}{prs48a}{It's hardly necessary. I'm sure we could and it would work, but there's no reason to do so.}
-{261}{}{Did it ever occur to you that what you're doing is wrong?}
-{262}{prs49}{Never. Part of the president's job is to make the tough decisions. A lot of near-humans will sacrifice their lives for the return of humanity. Humans will prevail.}
-{263}{}{There's no way in hell that I can let you do this.}
-{264}{}{Just because everyone out there doesn't have an exact copy of your DNA that doesn't give you a license to exterminate them.}
+{254}{prs46b}{Alguns dos membros de sua tribo estão apresentando algumas mudanças extremamente interessantes. Se o perigo para a verdadeira humanidade não fosse tão grande, eu pensaria em estudá-los. Mas (suspira) não é bem assim.}
+{255}{}{Não é assim? Por que não?}
+{256}{prs47}{Ah, mas essa é uma das vantagens do vírus F.E.V. Podemos lançá-lo aqui e a corrente o levará para o resto do mundo. Terá muito tempo para alcançar todos os cantos do globo.}
+{257}{}{OK. Então por que você teve que sequestrar minha tribo e as pessoas da Vault 13?}
+{258}{prs48}{Assuntos do teste. Sua tribo é toda descendente do grupo antigo da Vault e tivemos que garantir que o F.E.V. ainda era eficaz. Os sujeitos da Vault 13 testam isso e uma vacina contra o FEV.}
+{259}{}{Você não está testando uma vacina em meu povo?}
+{260}{prs48a}{Somente é necessário. Tenho certeza de que poderia funcionar, mas não há razão para isso.}
+{261}{}{Você já parou para pensar se o que está fazendo é muito errado?}
+{262}{prs49}{Nunca. Parte do trabalho do presidente é tomar decisões difíceis, muitos quase-humanos sacrificarão suas vidas pelo retorno da humanidade. Os humanos prevalecerão.}
+{263}{}{Não existe razão nenhuma para eu te deixar fazer isso.}
+{264}{}{Só porque todos lá fora não têm uma cópia exata do seu DNA, não te dá licença de exterminá-los.}
 {265}{prs50}{You can't stop it. The tests are complete and the toxin is ready for release. In hours, your villagers will be the first to make the ultimate sacrifice. The other mutants will follow. An unfortunate footnote in the continuing history of the human race.}
 {266}{}{Why don't we start that footnote off with your epitaph, Mr. President?}
 {267}{prs51}{Oh, I don't relish this decision. If there was another way- but there isn't. No price is too high for the survival of the human race. If you were human, you'd feel the same way.}
