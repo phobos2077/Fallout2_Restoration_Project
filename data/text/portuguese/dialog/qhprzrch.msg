@@ -186,47 +186,47 @@
 {285}{}{Sim, senhor. O que quer que o senhor diga, senhor.}
 {286}{}{Oh, consigo encontrar meu caminho de volta, senhor. Adeus.}
 {287}{prs60}{Contra o vírus F.E.V., é claro. Um sacrifício corajoso que você e os outros membros da Vault 13 estão fazendo. Em nome do governo dos Estados Unidos e de toda a humanidade, agradeço. Agora, é melhor levá-lo de volta para sua zona.}
-{288}{}{F.E.V. toxin? What the hell are you talking about? What's going on here?}
-{289}{}{Uh, yes sir. Whatever you say, sir.}
+{288}{}{F.E.V.? Mas de que merda você está falando? O que está acontecendo aqui?}
+{289}{}{Sim, senhor. O que quer que o senhor diga, senhor.}
 {290}{}{Oh, consigo encontrar meu caminho de volta, senhor. Adeus.}
-{291}{prs61}{So what? If your kind is allowed to flourish it'll mean the end of the human race as we know it. We can't allow radioactive freaks to squeeze humans into extinction.}
-{292}{}{I think you're overestimating things a bit.}
-{293}{prs62}{Not at all. Look to the future. Sure muties and men could get along for a while, but before you know it, the numeric pressure of your kind would tell. No, a line must be drawn in the sand - the buck stops here.}
-{294}{}{What do you intend to do about this so called threat?}
-{295}{}{I don't have time to listen to your bigoted, mad ravings. Goodbye.}
-{296}{prs63}{The government of the United States of America has been working towards a solution for quite some time.}
-{297}{}{How so? What are you doing here?}
-{298}{prs64}{I assure you, I'm quite sane, as is everyone on the Project. We're dedicated to the salvation of the human race. You can call single-minded dedication to a cause madness, I suppose, but if so, it's divine madness.}
-{299}{}{What are you talking about? What are you doing here?}
-{300}{}{How about my single-minded dedication to killing you right now?}
-{301}{}{You're mad. I don't have time for your lunacy right now. Goodbye.}
-{302}{prs65}{I don't think this tired old Planet's big enough for two top dogs. If it's us or you.... Well, I'm going to choose us.}
-{303}{}{I don't think you get to make that kind of choice.}
-{304}{prs66}{As the embodiment of the executive branch, I bear the burden of ensuring the survival and prosperity of the United States and of humanity itself. A heavy burden and yet if it means the return of the earth to our children and to their children, I bear it gladly.}
-{305}{}{How do you intend to do that? What are you doing here?}
-{306}{}{Let me remove your burden. Permanently.}
-{307}{}{It must be nice in your dimension. See you later, Mr. Nutcake.}
-{308}{}{To the North}
-{309}{}{To the Northwest}
-{310}{}{To the West}
-{311}{}{To the Southwest}
-{312}{}{To the South}
-{313}{}{To the Southeast}
-{314}{}{To the East of here}
-{315}{}{To the Northeast}
+{291}{prs61}{E daí? Se a sua espécie puder florescer, isso significará o fim da raça humana como conhecemos. Não podemos permitir que aberrações radioativas levem os humanos à extinção.}
+{292}{}{Acho que você está superestimando um pouco as coisas.}
+{293}{prs62}{De jeito nenhum. Olhe para o futuro. Claro que mutantes e homens podem se dar bem por um tempo, mas antes que você perceba, a pressão numérica de sua espécie diria. Não, você devemos traçar uma linha entre nós: você não pode ir além disso.}
+{294}{}{O que você pretende fazer com essa tal ameaça?}
+{295}{}{Não tenho tempo para ouvir seus delírios fanáticos. Adeus.}
+{296}{prs63}{O governo dos Estados Unidos da América vem trabalhando em uma solução há algum tempo.}
+{297}{}{Como assim? O que esta acontecendo aqui?}
+{298}{prs64}{Te garanto que estou bastante são, assim como todos envolvidos no Projeto. Estamos dedicados à salvação da raça humana. Você pode chamar essa dedicação obstinada a uma causa de fanatismo, suponho, mas se assim for, é uma fanatismo divino.}
+{299}{}{Do que você está falando? O que esta acontecendo aqui?}
+{300}{}{Que tal meu fanatismo em te matar agora?}
+{301}{}{Você está louco. Não tenho tempo para sua loucura agora. Adeus.}
+{302}{prs65}{Acho que este velho e cansado planeta não é grande o suficiente para dois cachorros grandes. Se somos nós ou você... Bem, eu vou escolher a nós.}
+{303}{}{Eu não acho que você pode fazer esse tipo de escolha.}
+{304}{prs66}{Como personificação do poder executivo, carrego o fardo de garantir a sobrevivência e a prosperidade dos Estados Unidos e da própria humanidade. Um fardo pesado e, no entanto, se significar o retorno da terra para nossos filhos e para os filhos deles, eu o carrego com prazer.}
+{305}{}{Como você pretende fazer isso? O que esta acontecendo aqui?}
+{306}{}{Deixe que eu removo seu fardo. Permanentemente.}
+{307}{}{Deve ser bom em sua dimensão. Até logo, Retardado.}
+{308}{}{Ao Norte}
+{309}{}{Ao Noroeste}
+{310}{}{Ao Oeste}
+{311}{}{Ao Sudoeste}
+{312}{}{Ao Sul}
+{313}{}{Ao Sudeste}
+{314}{}{Ao Leste daqui}
+{315}{}{Ao Nordeste}
 {316}{}{Sim}
 {317}{}{Não}
 {318}{}{Ouch}
-{319}{}{(cry of pain)}
-{320}{}{Why are you talking to me like that?}
+{319}{}{(choro de dor)}
+{320}{}{Por que está falando assim comigo?}
 {321}{}{Eu não sei nada sobre isso.}
-{322}{}{You're not very nice.}
-{323}{}{Thank-you. }
+{322}{}{Você não é muito legal.}
+{323}{}{Obrigado. }
 {324}{}{Isso ser bom.}
 {325}{}{Isso não ser bom.}
 {326}{}{Tenho um bom pressentimento sobre isso.}
 {327}{}{Tenho um mau pressentimento sobre isso.}
-{328}{}{You people are crazy.}
+{328}{}{Sua gente esta louca.}
 {329}{}{Do que você está falando?}
 {330}{}{Todo mundo é louco aqui?}
 {331}{}{Deve ter outro caminho.}
@@ -236,4 +236,4 @@
 {335}{}{Isso dói.}
 {336}{}{Isso realmente dói.}
 {337}{}{Isso deve doer.}
-{338}{}{Actually, Mr. President, I'm back.}
+{338}{}{Na verdade, Sr. Presidente, estou de volta.}

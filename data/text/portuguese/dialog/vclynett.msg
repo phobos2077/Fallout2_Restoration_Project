@@ -806,14 +806,14 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {799}{}{Northeast}
 {800}{}{Southwest}
 {801}{}{Southeast}
-{802}{}{To the North}
-{803}{}{To the South}
+{802}{}{Ao Norte}
+{803}{}{Ao Sul}
 {804}{}{To the East}
-{805}{}{To the West}
-{806}{}{To the Northwest}
-{807}{}{To the Northeast}
-{808}{}{To the Southwest}
-{809}{}{To the Southeast}
+{805}{}{Ao Oeste}
+{806}{}{Ao Noroeste}
+{807}{}{Ao Nordeste}
+{808}{}{Ao Sudoeste}
+{809}{}{Ao Sudeste}
 {810}{}{I don't want that.}
 {811}{}{Obrigado.}
 {812}{}{Thanks for your time.}

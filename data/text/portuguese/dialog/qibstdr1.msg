@@ -1,6 +1,5 @@
-{100}{}{There is no apparent locking mechanism on the door.}
-{101}{}{It does not appear as though conventional explosives will open
- these doors.}
-{102}{}{You see sturdy blast doors. They seem to meld into the floor and
- ceiling.}
-{103}{}{You see no way in which to open the door.}
+{100}{}{Não há nenhum mecanismo de travamento aparente na porta.}
+{101}{}{Não parece que os explosivos convencionais abrirão essas portas.}
+{102}{}{Você vê portas resistentes à explosão. Elas parecem se fundir no
+ chão e no teto.}
+{103}{}{Você não vê uma forma de abrir a porta.}
