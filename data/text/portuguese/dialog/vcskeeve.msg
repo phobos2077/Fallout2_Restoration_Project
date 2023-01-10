@@ -77,18 +77,18 @@ They don't seem to catch on that anyone would let Servants carry anything import
  seus outros amigos forasteiros que você os comprou tão barato.}
 {172}{}{Tudo certo.}
 {173}{}{Me da logo esses malditos papéis.}
-{174}{}{All right, they're all done printing. Here you are..."Citizen." And don't tell anyone about this,
- ESPECIALLY Wallace, all right?}
-{175}{}{No problem. I would never think of doing such a thing to an upstanding Citizen such as
- yourself, especially when I have proof of your illegal activities sitting right here in my pocket.}
-{176}{}{Got it. No problem.}
-{177}{}{What th-?! Nobody's gonna believe you, Outsider! It'll be your word over mine!}
-{178}{}{Normally, it would be. But these fake papers speak for themselves. And they will,
- unless you can pay for their silence.}
-{179}{}{Of course it will. See you.}
-{180}{}{I... wh... you dirty...}
-{181}{}{Careful... I'd watch your tongue if I were you.}
-{182}{}{Sweet talking me isn't going to help, Skeev.}
+{174}{}{Tudo bem, eles terminaram de imprimir. Aqui está..."Cidadão." E não conte a ninguém sobre
+ isso, ESPECIALMENTE Wallace, certo?}
+{175}{}{Sem problemas. Eu nunca pensaria em fazer uma coisa dessas com um cidadão honesto
+ como você, especialmente quando tenho provas de suas atividades ilegais bem aqui no meu bolso.}
+{176}{}{Entendi. Sem problemas.}
+{177}{}{Mas que po...?! Ninguém vai acreditar em você, Forasteiro! Será a sua palavra sobre a minha!}
+{178}{}{Normalmente, seria, mas esses papéis falsos já falam por mim. E eles vão, a menos
+ que você possa pagar para que eles fiquem quietinhos.}
+{179}{}{Claro que vai. Nos vemos por ai.}
+{180}{}{Eu... mas... maldito...}
+{181}{}{Cuidado... Eu tomaria cuidado com essa língua se eu fosse você.}
+{182}{}{Falar comigo não vai ajudar, Skeev.}
 {183}{}{All right, I got a LITTLE cash stashed away. Here. Take it... three hundred bucks.
  Now, you gonna keep quiet?}
 {184}{}{As far as you know. See you.}
