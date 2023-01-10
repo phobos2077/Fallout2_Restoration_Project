@@ -103,25 +103,25 @@
 {202}{}{Thanks. It's good to be here.}
 {203}{}{You again. Can I help you?}
 {204}{}{I suppose... what is it you would like to know?}
-{205}{}{What is it you do here again?}
-{206}{}{Can I take the Citizenship test?}
-{207}{}{Can I take the Citizenship test again?}
-{208}{}{What can you tell me about Gecko?}
-{209}{}{Never mind. Maybe we'll talk again later.}
+{205}{}{O que você faz aqui de novo?}
+{206}{}{Posso fazer o teste de Cidadania?}
+{207}{}{Posso fazer o teste de Cidadania novamente?}
+{208}{}{O que você pode me dizer sobre Gecko?}
+{209}{}{Deixa para lá. Talvez conversemos mais tarde.}
 {210}{}{Well, if you finish that task for the First Citizen she will give you your Citizenship, not that you'd deserve it. I suppose she has her reasons.}
-{211}{}{Is there another way to become a Citizen?}
+{211}{}{Existe outra forma de se tornar Cidadão?}
 {212}{}{You disapprove of her offering me Citizenship for that?}
 {213}{}{Posso fazer mais algumas perguntas?}
-{214}{}{Hmm. Goodbye.}
-{215}{}{It is not my place to question the First Citizen's actions.}
-{216}{}{Is there another way to become a Citizen?}
+{214}{}{Hum. Adeus.}
+{215}{}{Não é minha função questionar as ações do Primeiro Cidadão.}
+{216}{}{Existe outra forma de se tornar Cidadão?}
 {217}{}{Posso fazer mais algumas perguntas?}
-{218}{}{Never mind then.}
-{219}{}{Gecko? It's a filthy shantytown to the north, inhabited by those creatures, those... "ghouls." They're responsible for poisoning our groundwater, you know! It's an obvious act of terrorism against Vault City!}
-{220}{}{How are they poisoning the water?}
+{218}{}{Deixa pra lá então.}
+{219}{}{Gecko? É uma favela imunda ao norte, habitada por aquelas criaturas, aqueles... "ghouls". Eles são responsáveis por envenenar nossas águas subterrâneas, sabe! É um nitidamente um ato de terrorismo contra Vault City!}
+{220}{}{Como eles estão envenenando a água?}
 {221}{}{Hmmm. Can I ask you some other questions?}
 {222}{}{Obrigado, adeus.}
-{223}{}{Their shantytown is built around the remains of an old atomic power plant... a plant they SOMEHOW started up again and that is now leaking radiation! Those creatures need to be driven out and that plant shut down!}
+{223}{}{A favela deles foi construída em torno dos restos de uma antiga usina de energia atômica... uma usina que eles DE ALGUMA FORMA começaram de novo e que agora está vazando radiação! Essas criaturas precisam ser expulsas e aquela fábrica fechada!}
 {224}{}{Hmmm. Can I ask you some other questions?}
 {225}{}{Obrigado pela informação. Adeus.}
-{226}{}{You have passed the Citizenship test and become a Citizen of Vault City.}
+{226}{}{Você passou no teste de cidadania e se tornou um cidadão de Vault City.}

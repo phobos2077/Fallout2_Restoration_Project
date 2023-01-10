@@ -163,32 +163,32 @@
 {262}{prs49}{Nunca. Parte do trabalho do presidente é tomar decisões difíceis, muitos quase-humanos sacrificarão suas vidas pelo retorno da humanidade. Os humanos prevalecerão.}
 {263}{}{Não existe razão nenhuma para eu te deixar fazer isso.}
 {264}{}{Só porque todos lá fora não têm uma cópia exata do seu DNA, não te dá licença de exterminá-los.}
-{265}{prs50}{You can't stop it. The tests are complete and the toxin is ready for release. In hours, your villagers will be the first to make the ultimate sacrifice. The other mutants will follow. An unfortunate footnote in the continuing history of the human race.}
-{266}{}{Why don't we start that footnote off with your epitaph, Mr. President?}
-{267}{prs51}{Oh, I don't relish this decision. If there was another way- but there isn't. No price is too high for the survival of the human race. If you were human, you'd feel the same way.}
-{268}{}{You really believe that, don't you?}
-{269}{prs53}{Yes, I do. Even killing me won't help you. There's nothing you can do to stop the release.}
-{270}{}{Maybe I'll just figure out a way to give you a taste of your own medicine.}
-{271}{}{We'll just see about that. I've got things to do. Goodbye, President Richardson.}
-{272}{}{I disagree, Mr. President. I think killing you will help. I'll feel a lot better.}
-{273}{prs54}{You could try, I suppose, but soon the staff of the Enclave and Navarro will be inoculated.}
-{274}{}{They aren't already?}
-{275}{prs55}{We just have to distribute the supplies. A matter of hours. Besides, the Enclave is a sealed unit. No air or contaminants get in or get out.}
-{276}{}{We'll see. In the meantime, I'm taking you out of the picture, personally.}
-{277}{prs56}{You might find that tougher than you think. If you do, I'll go to my reward knowing that I died a patriot and a servant of humanity.}
-{278}{}{Time for your reward.}
-{279}{}{Right now, I'll let you think about your coming death. Don't touch the alarm. Goodbye.}
-{280}{prs57}{Very moving. But the radical changes your villagers and other mutants show is a far cry from the gradual changes of natural evolution.}
-{281}{}{Maybe we're changing into a better version of the human race. Did you ever think of that?}
-{282}{prs58}{Very possible, indeed. In which case, our mission is even more vital to the survival of the human race. }
-{283}{}{Huh? What do you mean by that?}
-{284}{prs59}{That's the spirit. God bless America. You should probably get back to your isolation ward now, though.}
-{285}{}{Uh, yes, sir. Whatever you say, sir.}
-{286}{}{Oh, I'll be able to find my own way back, sir. Goodbye.}
-{287}{prs60}{Why, against the F.E.V. toxin, of course. Damn brave sacrifice you and the other members of Vault 13 are making. On behalf of the United States government, and all humanity, I thank you. Now, we better get you back to your ward.}
+{265}{prs50}{Você não pode pará-lo, os testes estão completos e a toxina está pronta para ser liberada. Em horas, seus aldeões serão os primeiros a fazer o sacrifício final, os outros mutantes os seguirão. Uma nota de rodapé infeliz na história contínua da raça humana.}
+{266}{}{Por que não começamos essa nota de rodapé com seu epitáfio, Sr. Presidente?}
+{267}{prs51}{Oh, eu não gosto desta decisão. Se houvesse outra maneira, mas não há, nenhum preço é alto demais para a sobrevivência da raça humana. Se você fosse humano, se sentiria da mesma maneira.}
+{268}{}{Você realmente acredita nisso, não é?}
+{269}{prs53}{Sim, mesmo me matando não vai te ajudar. Não há nada que você possa fazer para impedir o lançamento.}
+{270}{}{Talvez eu ache uma maneira de te dar do seu próprio remédio.}
+{271}{}{Veremos isso. Eu tenho coisas para fazer, adeus, Presidente Richardson.}
+{272}{}{Discordo, Sr. Presidente. Acho que te matar vai ajudar, vou me sentir muito melhor.}
+{273}{prs54}{Você poderia tentar, suponho, mas logo o pessoal da Enclave e Navarro serão vacinados.}
+{274}{}{Eles já não são?}
+{275}{prs55}{Só temos que distribuir os suprimentos, uma questão de horas. Além disso, a Enclave é uma unidade selada, nenhum ar ou contaminantes entra ou sai.}
+{276}{}{Veremos. Enquanto isso, estou tirando você da jogada, pessoalmente.}
+{277}{prs56}{Você pode achar isso mais difícil do que pensa. Se fizer, saiba que terei minha recompensa sabendo que morri como um patriota e um servo da humanidade.}
+{278}{}{Hora de sua recompensa.}
+{279}{}{Agora, vou deixar você pensando sobre sua morte iminente. Não toque no alarme, adeus.}
+{280}{prs57}{Muito comovente. Mas as mudanças radicais que seus aldeões e outros mutantes mostram estão muito longe das mudanças graduais da evolução natural.}
+{281}{}{Talvez estejamos nos transformando em uma versão melhor da raça humana. Você já pensou nisso?}
+{282}{prs58}{Muito possível, de fato. Nesse caso, nossa missão é ainda mais vital para a sobrevivência da raça humana. }
+{283}{}{Huh? O que você quer dizer com isso?}
+{284}{prs59}{Esse é o espírito, Deus abençoe a America. Você provavelmente deveria voltar para sua ala de isolamento agora.}
+{285}{}{Sim, senhor. O que quer que o senhor diga, senhor.}
+{286}{}{Oh, consigo encontrar meu caminho de volta, senhor. Adeus.}
+{287}{prs60}{Contra o vírus F.E.V., é claro. Um sacrifício corajoso que você e os outros membros da Vault 13 estão fazendo. Em nome do governo dos Estados Unidos e de toda a humanidade, agradeço. Agora, é melhor levá-lo de volta para sua zona.}
 {288}{}{F.E.V. toxin? What the hell are you talking about? What's going on here?}
 {289}{}{Uh, yes sir. Whatever you say, sir.}
-{290}{}{Oh, I'll be able to find my own way back, sir. Goodbye.}
+{290}{}{Oh, consigo encontrar meu caminho de volta, senhor. Adeus.}
 {291}{prs61}{So what? If your kind is allowed to flourish it'll mean the end of the human race as we know it. We can't allow radioactive freaks to squeeze humans into extinction.}
 {292}{}{I think you're overestimating things a bit.}
 {293}{prs62}{Not at all. Look to the future. Sure muties and men could get along for a while, but before you know it, the numeric pressure of your kind would tell. No, a line must be drawn in the sand - the buck stops here.}

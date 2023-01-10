@@ -255,7 +255,7 @@
 {355}{}{Prateleiras}
 {356}{}{Raider}
 {357}{}{Campones}
-{358}{}{Merchant}
+{358}{}{Comerciante}
 {359}{}{Guarda}
 {360}{}{Cliente de Rawhide}
 {361}{}{Piso}
@@ -740,7 +740,7 @@
 {840}{}{Smoke}
 {841}{}{Comerciante}
 {842}{}{Carniceiro}
-{843}{}{Merchant}
+{843}{}{Comerciante}
 {844}{}{Campones}
 {845}{}{Templo de Arroyo}
 {846}{}{Trabalhador do Porto}
@@ -1318,8 +1318,8 @@
 {1418}{}{Doutor Abbey}
 {1419}{}{Irmão John}
 {1420}{}{Irmão Max}
-{1421}{}{Merchant}
-{1422}{}{Merchant}
+{1421}{}{Comerciante}
+{1422}{}{Comerciante}
 {1423}{}{Guarda do comerciante}
 {1424}{}{Senhora Peterson}
 {1425}{}{Cidadão Abbey}
@@ -1503,7 +1503,7 @@
 {1603}{}{Mijando}
 {1604}{}{Roteiro do mapa}
 {1605}{}{Roteiro do mapa}
-{1606}{}{Merchant}
+{1606}{}{Comerciante}
 {1607}{}{Guarda do comerciante}
 {1608}{}{Guarda do comerciante}
 {1609}{}{Mapa do comerciante}

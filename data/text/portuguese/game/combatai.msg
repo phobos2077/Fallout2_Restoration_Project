@@ -1447,7 +1447,7 @@
 {12141}{}{Não adianta ficar gritando por Misericórdia ...}
 {12142}{}{Vou aproveitar isto.}
 {12143}{}{Oooo, isso vai doer!}
-{12144}{}{Time to die!}
+{12144}{}{Hora de morrer!}
 {12145}{}{Vou comer seu fígado!}
 {12146}{}{Espero que você não morra rápido demais!}
 {12147}{}{Hora da janta!}

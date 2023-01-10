@@ -1,6 +1,6 @@
-{100}{}{Desert}
-{101}{}{Desert}
-{102}{}{Desert}
+{100}{}{Deserto}
+{101}{}{Deserto}
+{102}{}{Deserto}
 {103}{}{Arroyo}
 {104}{}{Arroyo}
 {105}{}{Arroyo}
@@ -16,25 +16,25 @@
 {115}{}{Vault City}
 {116}{}{Vault City}
 {117}{}{Vault City}
-{118}{}{error:Map Name}
-{119}{}{City Ruins}
-{120}{}{Coast}
-{121}{}{Coast}
-{122}{}{Desert}
-{123}{}{Desert}
-{124}{}{error:Map Name}
-{125}{}{error:Map Name}
-{126}{}{error:Map Name}
-{127}{}{error:Map Name}
-{128}{}{error:Map Name}
-{129}{}{error:Map Name}
-{130}{}{error:Map Name}
-{131}{}{error:Map Name}
-{132}{}{error:Map Name}
-{133}{}{error:Map Name}
-{134}{}{error:Map Name}
-{135}{}{error:Map Name}
-{136}{}{error:Map Name}
+{118}{}{erro: Nome do mapa}
+{119}{}{Cidade em Ruinas}
+{120}{}{Costa}
+{121}{}{Costa}
+{122}{}{Deserto}
+{123}{}{Deserto}
+{124}{}{erro: Nome do mapa}
+{125}{}{erro: Nome do mapa}
+{126}{}{erro: Nome do mapa}
+{127}{}{erro: Nome do mapa}
+{128}{}{erro: Nome do mapa}
+{129}{}{erro: Nome do mapa}
+{130}{}{erro: Nome do mapa}
+{131}{}{erro: Nome do mapa}
+{132}{}{erro: Nome do mapa}
+{133}{}{erro: Nome do mapa}
+{134}{}{erro: Nome do mapa}
+{135}{}{erro: Nome do mapa}
+{136}{}{erro: Nome do mapa}
 {137}{}{Hub}
 {138}{}{Hub}
 {139}{}{Hub}
@@ -45,140 +45,140 @@
 {144}{}{Boneyard}
 {145}{}{Boneyard}
 {146}{}{Boneyard}
-{147}{}{Cathedral}
-{148}{}{Military}
-{149}{}{Mountains}
-{150}{}{Mountains}
-{151}{}{Desert}
-{152}{}{Desert}
-{153}{}{Desert}
-{154}{}{Desert}
-{155}{}{Brotherhood}
-{156}{}{Desert}
-{157}{}{Desert}
-{158}{}{Mountains}
-{159}{}{Mountains}
-{160}{}{Viper Camp}
-{161}{}{Desert}
-{162}{}{Mountains}
-{163}{}{Desert}
-{164}{}{Mountains}
+{147}{}{Catedral}
+{148}{}{Base Militar}
+{149}{}{Montanhas}
+{150}{}{Montanhas}
+{151}{}{Deserto}
+{152}{}{Deserto}
+{153}{}{Deserto}
+{154}{}{Deserto}
+{155}{}{Irmandade}
+{156}{}{Deserto}
+{157}{}{Deserto}
+{158}{}{Montanhas}
+{159}{}{Montanhas}
+{160}{}{Acampamento Viper}
+{161}{}{Deserto}
+{162}{}{Montanhas}
+{163}{}{Deserto}
+{164}{}{Montanhas}
 {165}{}{EPA}
 {166}{}{EPA}
-{167}{}{EPA Warehouse}
-{168}{}{Merchant}
-{169}{}{Shi Submarine}
-{200}{}{Desert}
+{167}{}{Armazém EPA}
+{168}{}{Comerciante}
+{169}{}{Submarino Shi}
+{200}{}{Deserto}
 {201}{}{}
 {202}{}{}
-{203}{}{Desert}
+{203}{}{Deserto}
 {204}{}{}
 {205}{}{}
-{206}{}{Desert}
+{206}{}{Deserto}
 {207}{}{}
 {208}{}{}
-{209}{}{Temple: Foyer}
-{210}{}{Temple: Hallway}
-{211}{}{Temple: Inner Sanctum}
-{212}{}{Village}
+{209}{}{Templo: Vestíbulo}
+{210}{}{Templo: Corredor}
+{211}{}{Templo: Santuário Interior}
+{212}{}{Vila}
 {213}{}{}
 {214}{}{}
 {215}{}{Ponte}
 {216}{}{Ponte destruída}
 {217}{}{}
-{218}{}{West Side}
+{218}{}{Zona Oeste}
 {219}{}{}
 {220}{}{}
-{221}{}{East Side}
+{221}{}{Zona Leste}
 {222}{}{}
 {223}{}{}
-{224}{}{Residential}
+{224}{}{Zona residencial}
 {225}{}{}
 {226}{}{}
-{227}{}{Downtown}
-{228}{}{Downtown}
-{229}{}{Downtown}
-{230}{}{Mall}
-{231}{}{Mall}
+{227}{}{Centro da Cidade}
+{228}{}{Centro da Cidade}
+{229}{}{Centro da Cidade}
+{230}{}{Centro}
+{231}{}{Centro}
 {232}{}{}
-{233}{}{Rat Caves}
-{234}{}{Rat Caves}
-{235}{}{Rat Caves}
-{236}{}{Entrance}
-{237}{}{Waste Tunnels}
-{238}{}{Storage}
-{239}{}{Trapping Grounds}
-{240}{}{Trapping Grounds}
-{241}{}{Trapping Grounds}
-{242}{}{Grazing Area}
-{243}{}{Grazing Area}
+{233}{}{Caverna dos Ratos}
+{234}{}{Caverna dos Ratos}
+{235}{}{Caverna dos Ratos}
+{236}{}{Entrada}
+{237}{}{Túneis de resíduos}
+{238}{}{Depósito}
+{239}{}{Áreas de Caça}
+{240}{}{Áreas de Caça}
+{241}{}{Áreas de Caça}
+{242}{}{Area de pastagem}
+{243}{}{Area de pastagem}
 {244}{}{}
-{245}{}{Courtyard}
+{245}{}{Patio}
 {246}{}{}
 {247}{}{}
-{248}{}{Downtown}
+{248}{}{Centro da Cidade}
 {249}{}{}
 {250}{}{}
-{251}{}{Council Area}
+{251}{}{Área do Conselho}
 {252}{}{}
 {253}{}{}
-{254}{}{Main Street}
+{254}{}{Rua Principal}
 {255}{}{}
 {256}{}{}
-{257}{}{Bed & Breakfast}
-{258}{}{Bed & Breakfast}
+{257}{}{Alojamento e Café}
+{258}{}{Alojamento e Café}
 {259}{}{}
-{260}{}{Brahmin Pastures}
+{260}{}{Pastos de brahmin}
 {261}{}{}
 {262}{}{}
-{263}{}{Farrel's Garden}
+{263}{}{Jardim de Farrel}
 {264}{}{}
 {265}{}{}
 {266}{}{Down the John}
 {267}{}{}
 {268}{}{}
-{269}{}{Town Well}
+{269}{}{Poço da cidade}
 {270}{}{}
 {271}{}{}
-{272}{}{Farm}
+{272}{}{Fazenda Fantasma}
 {273}{}{}
 {274}{}{}
 {275}{}{Caverna}
 {276}{}{}
 {277}{}{}
-{278}{}{Underground Lake}
+{278}{}{Lago subterraneo}
 {279}{}{}
 {280}{}{}
-{281}{}{Battlefield}
+{281}{}{Campo de batalha}
 {282}{}{}
 {283}{}{}
-{284}{}{Personnel}
-{285}{}{Storage Bay}
-{286}{}{Robotics Lab}
-{287}{}{Bio Research Lab}
+{284}{}{Pessoal}
+{285}{}{Baía de armazenamento}
+{286}{}{Laboratório de robótica}
+{287}{}{Laboratório de pesquisa biológica}
 {288}{}{}
 {289}{}{}
-{290}{}{Vault: Level 1}
-{291}{}{Vault: Level 2}
-{292}{}{Vault: Level 3}
-{293}{}{Settlement}
-{294}{}{Settlement}
-{295}{}{Settlement}
-{296}{}{Power Plant}
-{297}{}{Power Plant}
+{290}{}{Vault: Nivel 1}
+{291}{}{Vault: Nivel 2}
+{292}{}{Vault: Nivel 3}
+{293}{}{Assentamento}
+{294}{}{Assentamento}
+{295}{}{Assentamento}
+{296}{}{Usina}
+{297}{}{Usina}
 {298}{}{}
-{299}{}{Junkyard}
-{300}{}{Junkyard}
-{301}{}{Junkyard}
-{302}{}{Access Tunnels}
-{303}{}{Access Tunnels}
-{304}{}{Access Tunnels}
-{305}{}{Wilderness}
+{299}{}{Ferro Velho}
+{300}{}{Ferro Velho}
+{301}{}{Ferro Velho}
+{302}{}{Túneis de acesso}
+{303}{}{Túneis de acesso}
+{304}{}{Túneis de acesso}
+{305}{}{Região selvagem}
 {306}{}{}
 {307}{}{}
-{308}{}{Vault 15: Level 1}
-{309}{}{Vault 15: Level 2}
-{310}{}{Vault 15: Level 3}
+{308}{}{Vault 15: Nivel 1}
+{309}{}{Vault 15: Nivel 2}
+{310}{}{Vault 15: Nivel 3}
 {311}{}{Squatters}
 {312}{}{}
 {313}{}{}
@@ -194,7 +194,7 @@
 {323}{}{Caverna}
 {324}{}{}
 {325}{}{}
-{326}{}{Downtown}
+{326}{}{Centro da Cidade}
 {327}{}{}
 {328}{}{}
 {329}{}{Council Hall}
@@ -221,13 +221,13 @@
 {350}{}{Level 3}
 {351}{}{Level 4}
 {352}{}{}
-{353}{}{Entrance}
+{353}{}{Entrada}
 {354}{}{}
 {355}{}{}
-{356}{}{Desert}
-{357}{}{Village}
+{356}{}{Deserto}
+{357}{}{Vila}
 {358}{}{Camp Site}
-{359}{}{Desert}
+{359}{}{Deserto}
 {360}{}{}
 {361}{}{}
 {362}{}{Virgin Street}
@@ -239,7 +239,7 @@
 {368}{}{Commercial Row}
 {369}{}{New Reno Arms Basement}
 {370}{}{}
-{371}{}{East Side}
+{371}{}{Zona Leste}
 {372}{}{Train Station}
 {373}{}{}
 {374}{}{Chop Shop}
@@ -260,9 +260,9 @@
 {389}{}{Mine Level 1}
 {390}{}{Mine Level 2}
 {391}{}{}
-{392}{}{Downtown}
-{393}{}{Downtown}
-{394}{}{Downtown}
+{392}{}{Centro da Cidade}
+{393}{}{Centro da Cidade}
+{394}{}{Centro da Cidade}
 {395}{}{Campo de mineração}
 {396}{}{Campo de mineração}
 {397}{}{Campo de mineração}
@@ -296,90 +296,90 @@
 {425}{}{Montanha}
 {426}{}{Montanha}
 {427}{}{Montanha}
-{428}{}{Coast}
-{429}{}{Coast}
-{430}{}{Coast}
-{431}{}{Coast}
-{432}{}{Coast}
-{433}{}{Coast}
-{434}{}{Downtown}
+{428}{}{Costa}
+{429}{}{Costa}
+{430}{}{Costa}
+{431}{}{Costa}
+{432}{}{Costa}
+{433}{}{Costa}
+{434}{}{Centro da Cidade}
 {435}{}{Sótão}
 {436}{}{Não usado}
-{437}{}{Residential}
+{437}{}{Zona residencial}
 {438}{}{Subterraneo}
 {439}{}{Mina}
 {440}{}{Caverna}
 {441}{}{Caverna}
 {442}{}{Caverna}
-{443}{}{Desert}
-{444}{}{Desert}
-{445}{}{Desert}
-{446}{}{Desert}
-{447}{}{Desert}
-{448}{}{Desert}
-{449}{}{Desert}
-{450}{}{Desert}
-{451}{}{Desert}
-{452}{}{Desert}
-{453}{}{Desert}
-{454}{}{Desert}
-{455}{}{Coast}
-{456}{}{Coast}
-{457}{}{Coast}
-{458}{}{Coast}
-{459}{}{Coast}
-{460}{}{Coast}
-{461}{}{Coast}
-{462}{}{Coast}
-{463}{}{Coast}
-{464}{}{Coast}
-{465}{}{Coast}
-{466}{}{Coast}
-{467}{}{Coast}
-{468}{}{Coast}
-{469}{}{Coast}
-{470}{}{Coast}
-{471}{}{Coast}
-{472}{}{Coast}
-{473}{}{Coast}
-{474}{}{Coast}
-{475}{}{Coast}
+{443}{}{Deserto}
+{444}{}{Deserto}
+{445}{}{Deserto}
+{446}{}{Deserto}
+{447}{}{Deserto}
+{448}{}{Deserto}
+{449}{}{Deserto}
+{450}{}{Deserto}
+{451}{}{Deserto}
+{452}{}{Deserto}
+{453}{}{Deserto}
+{454}{}{Deserto}
+{455}{}{Costa}
+{456}{}{Costa}
+{457}{}{Costa}
+{458}{}{Costa}
+{459}{}{Costa}
+{460}{}{Costa}
+{461}{}{Costa}
+{462}{}{Costa}
+{463}{}{Costa}
+{464}{}{Costa}
+{465}{}{Costa}
+{466}{}{Costa}
+{467}{}{Costa}
+{468}{}{Costa}
+{469}{}{Costa}
+{470}{}{Costa}
+{471}{}{Costa}
+{472}{}{Costa}
+{473}{}{Costa}
+{474}{}{Costa}
+{475}{}{Costa}
 {476}{}{Acampamento de saqueadores}
 {477}{}{Acampamento de saqueadores}
 {478}{}{Acampamento de saqueadores}
 {479}{}{Entrada da caverna}
 {480}{}{Ninho de escorpiões}
 {481}{}{Barracas}
-{482}{}{Desert}
-{483}{}{Desert}
-{484}{}{Desert}
+{482}{}{Deserto}
+{483}{}{Deserto}
+{484}{}{Deserto}
 {485}{}{Montanha}
 {486}{}{Montanha}
 {487}{}{Montanha}
-{488}{}{Desert}
-{489}{}{Desert}
-{490}{}{Desert}
-{491}{}{Desert}
-{492}{}{Desert}
-{493}{}{Desert}
-{494}{}{Desert}
-{495}{}{Desert}
-{496}{}{Desert}
-{497}{}{Desert}
-{498}{}{Desert}
-{499}{}{Desert}
-{500}{}{Desert}
-{501}{}{Desert}
-{502}{}{Desert}
+{488}{}{Deserto}
+{489}{}{Deserto}
+{490}{}{Deserto}
+{491}{}{Deserto}
+{492}{}{Deserto}
+{493}{}{Deserto}
+{494}{}{Deserto}
+{495}{}{Deserto}
+{496}{}{Deserto}
+{497}{}{Deserto}
+{498}{}{Deserto}
+{499}{}{Deserto}
+{500}{}{Deserto}
+{501}{}{Deserto}
+{502}{}{Deserto}
 {503}{}{Ponte da Morte}
 {504}{}{Ponte da Morte}
 {505}{}{Ponte da Morte}
 {506}{}{Café dos Sonhos Desfeitos}
 {507}{}{Café dos Sonhos Desfeitos}
 {508}{}{Café dos Sonhos Desfeitos}
-{509}{}{Desert}
-{510}{}{Desert}
-{511}{}{Desert}
+{509}{}{Deserto}
+{510}{}{Deserto}
+{511}{}{Deserto}
 {512}{}{Montanha}
 {513}{}{Caverna}
 {514}{}{Caverna}
@@ -389,12 +389,12 @@
 {518}{}{Deposito de lixo tóxico}
 {519}{}{Deposito de lixo tóxico}
 {520}{}{Deposito de lixo tóxico}
-{521}{}{Desert}
-{522}{}{Desert}
-{523}{}{Desert}
-{524}{}{Desert}
-{525}{}{Desert}
-{526}{}{Desert}
+{521}{}{Deserto}
+{522}{}{Deserto}
+{523}{}{Deserto}
+{524}{}{Deserto}
+{525}{}{Deserto}
+{526}{}{Deserto}
 {527}{}{Posto de gasolina}
 {528}{}{Subterraneo}
 {529}{}{Base de vertibirds}
@@ -407,21 +407,21 @@
 {536}{}{Litoral}
 {537}{}{Litoral}
 {538}{}{Litoral}
-{539}{}{Desert}
-{540}{}{Desert}
-{541}{}{Desert}
-{542}{}{Desert}
-{543}{}{Desert}
-{544}{}{Desert}
-{545}{}{Desert}
-{546}{}{Desert}
-{547}{}{Desert}
-{548}{}{Desert}
-{549}{}{Desert}
-{550}{}{Desert}
-{551}{}{Desert}
-{552}{}{Desert}
-{553}{}{Desert}
+{539}{}{Deserto}
+{540}{}{Deserto}
+{541}{}{Deserto}
+{542}{}{Deserto}
+{543}{}{Deserto}
+{544}{}{Deserto}
+{545}{}{Deserto}
+{546}{}{Deserto}
+{547}{}{Deserto}
+{548}{}{Deserto}
+{549}{}{Deserto}
+{550}{}{Deserto}
+{551}{}{Deserto}
+{552}{}{Deserto}
+{553}{}{Deserto}
 {554}{}{Caverna}
 {555}{}{Caverna}
 {556}{}{Caverna}
@@ -515,13 +515,13 @@
 {644}{}{Templo Shi}
 {645}{}{}
 {646}{}{Base da Irmandade}
-{647}{}{Desert}
-{648}{}{Desert}
-{649}{}{Desert}
-{650}{}{Desert}
-{651}{}{Desert}
-{652}{}{Desert}
-{653}{}{Entrance}
+{647}{}{Deserto}
+{648}{}{Deserto}
+{649}{}{Deserto}
+{650}{}{Deserto}
+{651}{}{Deserto}
+{652}{}{Deserto}
+{653}{}{Entrada}
 {654}{}{Segundo Piso}
 {655}{}{Terceiro Piso}
 {656}{}{Sótão}
@@ -530,16 +530,16 @@
 {659}{}{Caverna}
 {660}{}{Introduza o nome}
 {661}{}{Introduza o nome}
-{662}{}{Village}
-{663}{}{Village}
-{664}{}{Village}
+{662}{}{Vila}
+{663}{}{Vila}
+{664}{}{Vila}
 {665}{}{Bosque}
 {666}{}{Tribo}
 {667}{}{Tribo}
 {668}{}{Area de pesca}
 {669}{}{Caverna pequena}
 {670}{}{Introduza o nome}
-{671}{}{Entrance}
+{671}{}{Entrada}
 {672}{}{Nível da instalação de ar, água e energia}
 {673}{}{Manutenção de robos}
 {674}{}{Nivel Um}
@@ -551,10 +551,10 @@
 {680}{}{Main Camp}
 {681}{}{Introduza o nome}
 {682}{}{Introduza o nome}
-{683}{}{Desert}
-{684}{}{Desert}
-{685}{}{Desert}
-{686}{}{Entrance}
+{683}{}{Deserto}
+{684}{}{Deserto}
+{685}{}{Deserto}
+{686}{}{Entrada}
 {687}{}{Nivel Um}
 {688}{}{Nivel Dois}
 {689}{}{Ranger Safe House}
@@ -566,15 +566,15 @@
 {695}{}{Ranger Safe House}
 {696}{}{Ranger Safe House}
 {697}{}{Ranger Safe House}
-{698}{}{Desert}
-{699}{}{Desert}
-{700}{}{Desert}
-{701}{}{Desert}
-{702}{}{Desert}
-{703}{}{Desert}
-{704}{}{Desert}
-{705}{}{Desert}
-{706}{}{Desert}
+{698}{}{Deserto}
+{699}{}{Deserto}
+{700}{}{Deserto}
+{701}{}{Deserto}
+{702}{}{Deserto}
+{703}{}{Deserto}
+{704}{}{Deserto}
+{705}{}{Deserto}
+{706}{}{Deserto}
 {707}{}{Sub Surface}
 {708}{}{Sub Interior Level 1}
 {709}{}{}
@@ -613,10 +613,10 @@
 {1523}{}{Toxic Caves}
 {1524}{}{Den Slave Run}
 {1525}{}{Raiders}
-{1526}{}{Desert}
+{1526}{}{Deserto}
 {1527}{}{Montanha}
 {1528}{}{Cidade em ruinas}
-{1529}{}{Coast}
+{1529}{}{Costa}
 {1530}{}{Golgotha}
 {1531}{}{Crashed Whale}
 {1532}{}{Tin Woodsman}
@@ -636,15 +636,15 @@
 {1546}{}{Fake Vault 13}
 {1547}{}{Random Encounter}
 {1548}{}{Stables}
-{1549}{}{Village}
+{1549}{}{Vila}
 {1550}{}{Slaver Camp}
 {1551}{}{Hubologist Stash}
 {1552}{}{Safe House}
 {1553}{}{Safe House}
 {1554}{}{Safe House}
 {1555}{}{RP Easter Egg Encounter}
-{1556}{}{Merchant}
-{1557}{}{Merchant}
-{1558}{}{Shi Submarine}
+{1556}{}{Comerciante}
+{1557}{}{Comerciante}
+{1558}{}{Submarino Shi}
 {1559}{}{Abandoned House}
 {1560}{}{Gecko Enclave Patrol}

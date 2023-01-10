@@ -1,41 +1,41 @@
 {200}{}{Ponte}
-{201}{}{Village}
+{201}{}{Vila}
 {202}{}{Entrada do Templo}
-{203}{}{Wilderness}
+{203}{}{Região selvagem}
 {204}{}{Interior do Templo}
-{210}{}{West Side}
-{211}{}{East Side}
+{210}{}{Zona Oeste}
+{211}{}{Zona Leste}
 {212}{}{Residencial do Den}
-{220}{}{Downtown}
+{220}{}{Centro da Cidade}
 {221}{}{Cidade dos caçadores}
-{222}{}{Rat Caves}
-{223}{}{Trapping Grounds}
-{224}{}{Grazing Area}
+{222}{}{Caverna dos Ratos}
+{223}{}{Áreas de Caça}
+{224}{}{Area de pastagem}
 {225}{}{Desfiladeiro}
-{230}{}{Main Street}
-{231}{}{Bed & Breakfast}
+{230}{}{Rua Principal}
+{231}{}{Alojamento e Café}
 {232}{}{Pastagens Brahmin de Grisham}
-{233}{}{Farrel's Garden}
+{233}{}{Jardim de Farrel}
 {234}{}{Down the John}
-{235}{}{Town Well}
-{240}{}{Courtyard}
+{235}{}{Poço da cidade}
+{240}{}{Patio}
 {241}{}{Interior da cidade}
 {242}{}{Conselho}
 {243}{}{Vault}
-{250}{}{Settlement}
-{251}{}{Power Plant}
-{252}{}{Junkyard}
-{253}{}{Access Tunnels}
-{260}{}{Downtown}
-{261}{}{Residential}
+{250}{}{Assentamento}
+{251}{}{Usina}
+{252}{}{Ferro Velho}
+{253}{}{Túneis de acesso}
+{260}{}{Centro da Cidade}
+{261}{}{Zona residencial}
 {270}{}{Virgin Street}
 {271}{}{2nd Street}
 {272}{}{Commercial Row}
-{273}{}{East Side}
+{273}{}{Zona Leste}
 {274}{}{Chop Shop}
 {275}{}{Boxing Arena}
 {276}{}{Area de Vertibird}
-{280}{}{Battlefield}
+{280}{}{Campo de batalha}
 {281}{}{Depósito Nível 1: Pessoal}
 {282}{}{Depósito Nível 1: Baia de armazenamento}
 {283}{}{Depósito Nível 1: Laboratorio de Robotica}
@@ -47,18 +47,18 @@
 {294}{}{East Entrance}
 {300}{}{Bazaar}
 {301}{}{Conselho 2}
-{302}{}{Downtown}
+{302}{}{Centro da Cidade}
 {303}{}{Council Hall}
 {304}{}{Westin Ranch}
 {305}{}{Grazing Lands}
 {310}{}{Entrada da caverna}
 {311}{}{Vault 13}
-{320}{}{Entrance}
+{320}{}{Entrada}
 {321}{}{Level 1}
 {322}{}{Level 2}
 {323}{}{Level 3}
 {324}{}{Level 4}
-{330}{}{Downtown}
+{330}{}{Centro da Cidade}
 {331}{}{Grande Mina Wanamingo}
 {332}{}{Mina Wanamingo}
 {333}{}{Campo de mineração}
@@ -80,10 +80,10 @@
 {364}{}{Área Presidencial}
 {365}{}{Reator}
 {366}{}{Trap Room}
-{370}{}{Entrance}
+{370}{}{Entrada}
 {380}{}{Bosque}
 {381}{}{Tribo}
-{390}{}{Entrance}
+{390}{}{Entrada}
 {391}{}{Ducts}
 {392}{}{Utilities}
 {393}{}{Nivel Um}
@@ -92,7 +92,7 @@
 {396}{}{Warehouse}
 {400}{}{The Ghost Town}
 {401}{}{Main Cavern}
-{402}{}{Underground Lake}
+{402}{}{Lago subterraneo}
 {410}{}{Car outta power}
 {420}{}{Ponte destruída}
 {430}{}{Toxic Caves}
@@ -100,16 +100,16 @@
 {450}{}{Poço}
 {451}{}{Cliff}
 {452}{}{Entry Cave}
-{460}{}{Desert}
-{461}{}{Desert}
-{462}{}{Desert}
-{463}{}{Desert}
-{464}{}{Desert}
-{465}{}{Desert}
-{466}{}{Desert}
-{467}{}{Desert}
-{468}{}{Desert}
-{469}{}{Desert}
+{460}{}{Deserto}
+{461}{}{Deserto}
+{462}{}{Deserto}
+{463}{}{Deserto}
+{464}{}{Deserto}
+{465}{}{Deserto}
+{466}{}{Deserto}
+{467}{}{Deserto}
+{468}{}{Deserto}
+{469}{}{Deserto}
 {470}{}{Montanha}
 {471}{}{Caverna}
 {472}{}{Montanha}
@@ -143,37 +143,37 @@
 {520}{}{Tin Woodsman}
 {521}{}{Cabeça Grande}
 {530}{}{Crash Site}
-{540}{}{Desert}
+{540}{}{Deserto}
 {550}{}{Ponte}
 {560}{}{Café dos Sonhos Desfeitos}
-{570}{}{Desert}
+{570}{}{Deserto}
 {580}{}{Caverna}
 {590}{}{Guardião para Sempre}
 {600}{}{Deposito de lixo tóxico}
-{610}{}{Desert}
+{610}{}{Deserto}
 {620}{}{Herd of Brahmin}
-{630}{}{Desert}
+{630}{}{Deserto}
 {631}{}{Montanha}
 {640}{}{Vault 13 Cavern}
 {650}{}{Caverna}
 {660}{}{Litoral}
 {661}{}{Litoral}
-{662}{}{Desert}
-{663}{}{Desert}
-{664}{}{Desert}
+{662}{}{Deserto}
+{663}{}{Deserto}
+{664}{}{Deserto}
 {665}{}{Montanha}
 {666}{}{Montanha}
-{667}{}{Desert}
-{668}{}{Desert}
+{667}{}{Deserto}
+{668}{}{Deserto}
 {670}{}{Stables}
-{680}{}{Village}
+{680}{}{Vila}
 {690}{}{Umbra Tribe}
 {700}{}{Umbra Tribe}
 {710}{}{Umbra Tribe}
-{1000}{}{Desert}
-{1001}{}{Mountains}
+{1000}{}{Deserto}
+{1001}{}{Montanhas}
 {1002}{}{Cidade}
-{1003}{}{Coast}
+{1003}{}{Costa}
 {1004}{}{Unknown}
 {1500}{}{You gained 10,000 experience points!}
 {1501}{}{Ruínas}

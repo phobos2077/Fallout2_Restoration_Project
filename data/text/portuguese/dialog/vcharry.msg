@@ -1,22 +1,22 @@
-{100}{}{You see a short, jovial man.}
-{101}{}{You see Happy Harry, the store owner.}
-{102}{}{Well, hello there... what can I do for you?}
-{103}{}{I'm looking to trade. Can I see what you have in stock?}
-{104}{}{You still selling that plow out there?}
-{105}{}{Me Buy}
+{100}{}{Você vê um homem baixo e jovial.}
+{101}{}{Você vê Harry Alegre, o dono da loja.}
+{102}{}{Opa, olá... o que posso fazer por você?}
+{103}{}{Gostaria de negociar. Posso ver o que você tem a venda?}
+{104}{}{Ainda está vendendo aquele arado?}
+{105}{}{Compro voce}
 {106}{}{Nada por hoje, valeu.}
-{107}{}{Sorry. Can't help you, neighbor.}
-{108}{}{Why, yes I am. I'll let it go for... say, eight hundred.}
-{109}{}{I'll give you six hundred for it.}
-{110}{}{It's a deal. I'll take it.}
-{111}{}{Eh, eight hundred? I'll be back... with the money.}
-{112}{}{Forget it. The Smiths can starve.}
-{113}{}{It's yours. [Pockets the money.] You just going to take it, or do you need it
- delivered somewhere?}
-{114}{}{Drop it off with the Smiths.}
-{115}{}{Sorry, friend. It's going to cost you eight hundred.}
-{119}{}{You need the money to pay me, friend.}
-{120}{}{I'll be back with the money.}
+{107}{}{Desculpa. Não posso ajudá-lo, amigo.}
+{108}{}{Bem, sim, tenho. Te deixo com você por... bem, oitocentos.}
+{109}{}{Te dou seiscentos por ele.}
+{110}{}{Negocio fechado, eu levo.}
+{111}{}{Eh, oitocentos? Eu voltarei... com o dinheiro.}
+{112}{}{Esqueça. Os Smiths podem morrer de fome.}
+{113}{}{É seu. [Embolsa o dinheiro.] Você mesmo leva ou precisa que seja entregue
+ em algum lugar?}
+{114}{}{Pode deixar com os Smiths.}
+{115}{}{Desculpe, amigo. Vai te custar oitocentos.}
+{119}{}{Você precisa do dinheiro para pegar, amigo.}
+{120}{}{Eu volto com o dinheiro.}
 {121}{}{Not a problem. I'll have it dropped off right now.}
 {122}{}{Thought you'd just help yourself, huh? Damn thief... guards! Guards!}
 {123}{}{Dave sent me. We're trying to fix a broken water pump, and he said you'd have a replacement motor.}

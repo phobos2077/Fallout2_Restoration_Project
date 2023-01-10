@@ -82,7 +82,7 @@
 {181}{}{Are you certain? That doesn't sound like Dr. Troy at all. Still... he HAS been working hard lately... no, no, that's impossible. You must be mistaken.}
 {182}{}{I don't think so. He was very clear about what he wanted.}
 {183}{}{Hmmmm. Can I ask you another question?}
-{184}{}{Never mind then.}
+{184}{}{Deixa pra lá então.}
 {185}{}{I would be VERY careful about what you say about Dr. Troy in Vault City. He is a respected member of our community.}
 {186}{}{All right, then. Can I ask you another question?}
 {187}{}{Thanks for the warning. Maybe I should go talk to someone else.}

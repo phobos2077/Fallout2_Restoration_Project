@@ -224,7 +224,7 @@
 {323}{}{Yes. I've already scouted out the area, though.}
 {324}{}{I'll take the job. I'll report back when I'm done.}
 {325}{}{I'll take the job. I had some questions first, though...}
-{326}{}{No thanks. Maybe some other time.}
+{326}{}{Não, obrigado. Talvez outra hora.}
 {327}{}{That so? Heh. Well... all right then.}
 {328}{}{Good job. Download the information into my Pip-Boy, and I'll log it into the patrol computers.}
 {329}{}{Tudo bem...}
