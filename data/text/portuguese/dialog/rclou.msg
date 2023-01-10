@@ -104,60 +104,60 @@
 {184}{}{Well, I'm sure glad that someone's workin' on it. This type of thing is just bad all the way
  around. I sure hope you make the bastard pay for what he did to my girl. Make sure he cain't never do
  that to no one ever again.}
-{185}{}{Well, I'll do what I can. Let me ask you something else, though.}
-{186}{}{I'll see what I can do. Goodbye.}
-{187}{}{What can I do for you? You want an empty bed, a full one? Maybe some booze or other goods?}
-{188}{}{I'd like a room with an empty bed, Lou.}
-{189}{}{A full bed? That sounds good. Tell me more about that.}
-{190}{}{Booze and other goods. Yeah, that's the ticket. Let's barter.}
+{185}{}{Bem, farei o que puder. Deixe eu te perguntar outra coisa.}
+{186}{}{Verei o que posso fazer. Adeus.}
+{187}{}{O que posso fazer por você? Você quer uma cama livre, uma cama de casal? Talvez um pouco de licor ou algo mais?}
+{188}{}{Eu gostaria de um quarto com uma cama livre, Lou.}
+{189}{}{Uma cama de casal? Parece bom. Me diga mais sobre isso.}
+{190}{}{Bebidas e outras coisas. Sim, assim mesmo. Vamos negociar.}
 {191}{}{Hmm, me deixe perguntar sobre outra coisa.}
-{192}{}{That do it for you, or was there something else you wanted to buy?}
-{193}{}{Seems like you're having a little trouble making up your mind. That it, or you wanna look again?}
-{194}{}{Nope. I have all I need right now. Thanks. Tell me about something else, though.}
-{195}{}{Hmm, let me take another look at your stock.}
-{196}{}{Thanks, Lou. That's it for now. Goodbye.}
-{197}{}{You wanna get some sleep, huh? Well, that's going to cost you $40. Includes fresh, mostly clean
- sheets too. You still interested?}
-{198}{}{I'll take it, Lou.}
-{199}{}{Hmm, I guess I'm not that tired. Let me ask you about something else. }
-{200}{}{I don't have enough money for that right now. Let me ask you about something, though.}
-{201}{}{You're one of Fannie's regulars, aren't you? Why don't you go talk to her. She's in back someplace.}
-{202}{}{Listen. You're a jinx here. After what happened to Fannie Mae, none of my other girls has much
- interest in being with you... and I cain't say as I blame 'em.}
-{203}{}{Looking for someone to help you warm up that big lonely bed, huh? Let me see who I've got
- available. Hmm, why don't you try Fannie Mae? She oughta be around here somewheres. You can make the
- arrangements with her yourself.}
-{204}{}{Sounds like a good idea. I'll go do that. Goodbye.}
+{192}{}{Ja é o suficiente ou tem algo mais que você queria comprar?}
+{193}{}{Parece que você está tendo um pouco de dificuldade para se decidir. É isso, ou quer olhar de novo?}
+{194}{}{Não. Eu tenho tudo que preciso agora, obrigado. Vamos falar de outra coisa.}
+{195}{}{Hmm, deixe eu dar uma olhada em seu estoque.}
+{196}{}{Obrigado, Lou. Por enquanto é isso, adeus.}
+{197}{}{Você quer dormir um pouco, eh? Bem, isso vai te custar $40. Inclui lençóis frescos e muito bem
+ limpos. Continua interessado?}
+{198}{}{Vou ficar com isso, Lou.}
+{199}{}{Hmm, acho que não estou tão cansado. Deixe eu te perguntar sobre outra coisa. }
+{200}{}{Não tenho dinheiro suficiente para isso agora. Deixe eu te perguntar sobre algo.}
+{201}{}{Você é um dos regulares da Fannie, certo? Por que você não fala com ela? Ela está lá atrás em algum lugar.}
+{202}{}{Ouça, você é um azar aqui. Depois do que aconteceu com Fannie Mae, nenhuma das minhas
+ garotas se interessam em ficar com você... e não posso dizer que as culpo.}
+{203}{}{Procurando alguém para te ajudar a esquentar aquela cama grande e solitária, né? Deixe ver
+ quem eu tenho disponível. Hmm, por que você não tenta Fannie Mae? Ela deveria estar por aqui em algum
+ lugar. Você mesmo pode fazer os arranjos com ela.}
+{204}{}{Parece uma boa ideia, vou fazer isso. Adeus.}
 {205}{}{Mas eu não ... ok. Adeus.}
-{206}{}{You and Fannie already worked things out. Why don't you go see her. She's right in back
- someplace.}
-{207}{}{Listen. You're a jinx here. After what happened to Fannie Mae, none of my other girls has much
- interest in being with you... and I cain't say as I blame 'em.}
-{208}{}{We've only got gals working here, hun. If that's alright by you, a buck's a buck. You might try
- talking to Fannie Mae. She's in back someplace here. You can make the arrangements with her.}
-{209}{}{Sounds like a good idea. I'll go do that. Goodbye.}
+{206}{}{Você e Fannie já estiveram juntos. Por que você não vai vê-la? Ela não deve estar muito
+ longe daqui.}
+{207}{}{Ouça, você é um azar aqui. Depois do que aconteceu com Fannie Mae, nenhuma das minhas
+ garotas se interessam em ficar com você... e não posso dizer que as culpo.}
+{208}{}{Nós só temos garotas trabalhando aqui, meu bem. Se estiver tudo bem para você, um dólar
+ é um dólar. Você pode tentar falar com Fannie Mae, ela está lá atrás em algum lugar aqui. Você pode fazer os preparativos com ela.}
+{209}{}{Parece uma boa ideia, vou fazer isso. Adeus.}
 {210}{}{Mas eu não ... ok. Adeus.}
-{211}{}{I can't believe that you were dumb enough to give Fannie enough money all at once to overdose
- herself. You're just an idjit, ain't ya?}
+{211}{}{Não consigo acreditar que você foi burro o suficiente para deixar com Fannie dinheiro suficiente
+ para uma overdose. Você é um puta de um idiota, não é?}
 {212}{}{Eu não sei, honestamente. Venha, Lou... Eu preciso te perguntar algo.}
-{213}{}{What she did with her life was her own business. Goodbye.}
-{214}{}{I gave her the only release from this shitty existence that she could take. You're no saint
- yourself, Lou. Goodbye.}
-{215}{}{So you're the sucker giving my Fannie all that money. I wouldn't do that if I were you. You're
- not helping her like you think you are.}
+{213}{}{O que ela fazia da vida era problema dela. Adeus.}
+{214}{}{Eu dei a ela a única libertação dessa existência de merda que ela aguentaria. Você não é
+ nenhum santo, Lou. Adeus.}
+{215}{}{Então você é o babaca que está dando a minha Fannie todo aquela grana. Eu não faria isso
+ no seu lugar, você não a está ajudando como pensa.}
 {216}{}{O que você quer dizer?}
-{217}{}{I'm helping her to start a new life.}
-{218}{}{Yeah, whatever. Let's talk about something else.}
-{219}{}{What I mean is that Fannie's got a problem and money isn't the answer for it. I hate to break
- your heart, but Fannie's just playing you for a sucker. She just wants money so that she can buy Jet.
- Too damn much Jet.}
-{220}{}{I think you're just worried that you're going to loose one of your best earners. You just want
- to keep your girls down.}
-{221}{}{Yeah, sure. I've heard enough. Goodbye.}
-{222}{}{Helping her into the afterlife is what your extra money is doing. She's just using that money
- to buy too much Jet. She'll O.D. one of these days if you keep giving her money.}
-{223}{}{Hmm, I'll have to think about that.}
-{224}{}{I'll think that over. Goodbye.}
+{217}{}{Estou ajudando ela a começar uma nova vida.}
+{218}{}{Sim, tanto faz. Vamos falar de outra coisa.}
+{219}{}{O que quero dizer é que Fannie tem um problema e dinheiro não é a solução. Odeio partir seu
+ coração, mas Fannie está apenas te fazendo de otário. Ela só quer dinheiro para poder comprar jet.
+ Muito jet.}
+{220}{}{Acho que você só esta preocupado em perder uma de suas melhores garotas. Você só quer
+ manter elas controladas.}
+{221}{}{Sim, claro. Já ouvi o suficiente. Adeus.}
+{222}{}{Ajudá-la na vida após a morte é o que tua grana extra está fazendo. Ela só está usando esse
+ dinheiro para comprar jet pra caralho, ela vai ter uma overdose um dia desses se você continuar dando dinheiro pra ela.}
+{223}{}{Hum, vou ter que pensar nisso.}
+{224}{}{Vou pensar nisso. Adeus.}
 {225}{}{You can think whatever you like. I just thought I'd try to tell you what the straight scoop
  really is. Your choice whether you want to listen or not.}
 {226}{}{I've heard it all before. Let's get down to other business.}

@@ -18,8 +18,8 @@
 {117}{}{Urrgh.}
 {118}{}{Sim.}
 {119}{}{Não.}
-{120}{}{What was I thinking?}
-{121}{}{Look, do what you can with the generator. I've got to stabilize the core. You've got about 30 seconds, I think. After that it'll be too late. Come on, Toto.}
+{120}{}{O que eu estava pensando?}
+{121}{}{Olhe, faça o que conseguir com o gerador, tenho de estabilizar o núcleo. Você tem cerca de 30 segundos, eu acho. Depois disso será tarde demais. Vamos, Toto.}
 {122}{}{Damn! Then stand back. Unless I'm real lucky, the whole thing's going to blow. Let's go, Toto.}
 {123}{}{You fixed it? Without any parts? That's amazing! Where'd you learn to do that?}
 {124}{}{Huh-huh!}
