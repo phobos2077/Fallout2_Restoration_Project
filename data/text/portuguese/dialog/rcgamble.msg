@@ -47,8 +47,8 @@
 {146}{}{Eu não consigo acreditar na sorte.}
 {147}{}{Belo jogo, não é?}
 {148}{}{Eu me sinto com sorte hoje.}
-{149}{}{This time's going to be different.}
-{150}{}{Didn't know you folks were much for games of chance.}
-{151}{}{It's all skill, I tell ya.}
-{152}{}{Stand back and watch it happen.}
-{153}{}{We're going to break the bank here, I just know it.}
+{149}{}{Dessa vez vai ser diferente.}
+{150}{}{Não sabia que vocês gostavam tanto de jogos de azar.}
+{151}{}{É tudo habilidade, te juro.}
+{152}{}{Se afaste e veja acontecer.}
+{153}{}{Nós vamos quebrar a banca, eu sei disso.}

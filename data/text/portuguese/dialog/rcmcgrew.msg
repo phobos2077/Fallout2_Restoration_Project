@@ -159,21 +159,21 @@
 {218}{}{Why's it better for me to sell it to you than her?}
 {219}{}{I'll think about it. Let me ask you about something else going on in town.}
 {220}{}{We'll just have to see about that. Goodbye.}
-{221}{}{I just want to thank you for selling the chip to the right party.}
-{222}{}{Not a problem. Let me ask you about other stuff going on in town.}
-{223}{}{You got it. That thousand bucks did most of your convincing for you. Let me ask you something.}
-{224}{}{No problem. Bye for now.}
-{225}{}{Thanks for breaking up that bar fight without having to lock anyone up. The miners need to let
- off steam now and then, but they don't mean nothing by it.}
-{226}{}{I could see that. Let me ask you about something else going on here in town.}
-{227}{}{Someone needed to break it up was all. Let me ask you about something else.}
+{221}{}{Só quero agradecer por vender o chip para a pessoa certa.}
+{222}{}{Não é problema. Deixe eu perguntar sobre outras coisas acontecendo na cidade.}
+{223}{}{Você entendeu. Esses mil dólares foram muito convincentes. Deixe me perguntar algo.}
+{224}{}{Sem problemas. Tchau por agora.}
+{225}{}{Obrigado por acabar com aquela briga de bar sem ter que prender ninguém. Os mineiros precisam
+ desabafar de vez em quando, mas nada acontece.}
+{226}{}{Entendo isso. Deixe eu perguntar sobre outra coisa acontecendo aqui na cidade.}
+{227}{}{Alguém precisava acabar com isso. Deixe eu perguntar sobre outra coisa.}
 {228}{}{Sem problemas. Adeus.}
-{229}{}{I sure wish you hadn't put my miners behind bars like that. They were just letting off some
- steam.}
-{230}{}{They started the fight; I had to end it. Let me ask you about something else going on here
- in town.}
-{231}{}{They needed some time to cool off. You can get them in a few days. Let me ask you about
- something else.}
+{229}{}{Eu gostaria que você não tivesse colocado meus mineiros na cadeia assim. Eles estavam só
+ desabafando.}
+{230}{}{Eles começaram a luta; eu precisei acabar com isso. Deixe eu perguntar sobre outra coisa
+ acontecendo aqui na cidade.}
+{231}{}{Eles precisavam de um tempo para se acalmar, você pode recuperá-los em alguns dias.
+ Deixe eu perguntar outra coisa.}
 {232}{}{I think I need to let off some steam myself. Goodbye.}
 {233}{}{Thanks for putting those Kokoweef thugs away for picking a fight with my lads. Those
  Kokoweefers need to be put away for good.}

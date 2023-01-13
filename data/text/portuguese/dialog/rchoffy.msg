@@ -1,7 +1,7 @@
-{100}{}{You see a burly, thick-set man with short, bushy hair.}
-{101}{}{You see James Hoffy, the caravan master.}
-{102}{}{You see a scarred, tough-looking man with a calculating stare.}
-{103}{}{Come on, get out of here.}
+{100}{}{Você vê um homem corpulento com cabelo curto e espesso.}
+{101}{}{Você vê James Hoffy, o mestre de caravana.}
+{102}{}{Você vê um homem com cicatrizes e aparência forte, com um olhar calculista.}
+{103}{}{Vamos, saia daqui.}
 {104}{}{This ain't no charity ward. Now get out.}
 {105}{}{Who let you out of the house, anyway?}
 {106}{}{Anyone home in there?}
