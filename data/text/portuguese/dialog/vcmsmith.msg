@@ -2,62 +2,62 @@
 {101}{}{You see Smith.}
 {102}{}{Don't think I've seen you around before, stranger. The name's Smith. Help
  you with something?}
-{103}{}{Was there something else you wanted?}
+{103}{}{Gostaria de algo mais?}
 {104}{}{O que voce pode me falar sobre Vault City?}
 {105}{}{O que você faz por aqui?}
 {106}{}{Estou a procura da Vault.}
 {107}{}{Eu gostaria de ajudá-lo com esse arado.}
-{108}{}{Your wife says things have been hard.}
-{109}{}{No, just passing through. Goodbye.}
+{108}{}{Sua esposa diz que as coisas têm sido difíceis.}
+{109}{}{Não, só estou de passagem. Adeus.}
 {110}{}{Um... Waga Nu-kik?}
-{111}{}{Well, what you see here ain't really Vault City... you're actually standing
- in the city's Courtyard.}
+{111}{}{Bem, o que você vê aqui não é realmente Vault City... na verdade, você
+ está no Pátio da cidade.}
 {112}{}{Por que você não está na cidade?}
 {113}{}{O que você faz aqui?}
 {114}{}{Posso pedir mais uma coisa?}
 {115}{}{Obrigado. Adeus.}
-{116}{}{My family and I work a farm here in the Courtyard. We get by. Don't know
- for how long, though.}
+{116}{}{Minha família e eu trabalhamos em uma fazenda aqui no Pátio, nós
+ sobrevivemos. Não sei por quanto tempo, na verdade.}
 {117}{}{Qual é o problema?}
 {118}{}{Por que você não está na cidade?}
 {119}{}{Posso pedir mais uma coisa?}
-{120}{}{Yeah, times are tough. Goodbye.}
-{121}{}{That's right, big fella. I gotta get going.}
-{122}{}{You talking about the Vault inside the city? I've only seen it once... it's
- inside the gates, along the cliff, I think. They only let the Citizens into it,
- though.}
+{120}{}{Sim, o sistema é foda. Adeus.}
+{121}{}{Isso mesmo, fella. Preciso ir.}
+{122}{}{Você está falando sobre a Vault dentro da cidade? Eu só vi uma vez... é
+ dentro dos portões, ao longo do penhasco, que me lembro. Eles só deixam
+ os Cidadãos entrarem.}
 {123}{}{Posso pedir mais uma coisa?}
 {124}{}{Obrigado pelas direções. Tchau.}
-{125}{}{Me and the family ain't the kind of people they let in there. So we
- live here under their protection.}
+{125}{}{Eu e minha família não somos o tipo de pessoa que eles deixam
+ entrar lá. Então vivemos aqui sob a proteção deles.}
 {126}{}{Por que você não tem permissão para morar na cidade?}
-{127}{}{Protection? What kind of protection? }
+{127}{}{Proteção? Que tipo de proteção? }
 {128}{}{Posso pedir mais uma coisa?}
-{129}{}{I see. Well, thanks for your time. Goodbye.}
-{130}{}{Well, it's tough without a plow. Me and the wife try, but the farming goes
- slow.}
-{131}{}{Can I help?}
+{129}{}{Entendo. Bem, obrigado pelo seu tempo. Adeus.}
+{130}{}{Bem, é difícil sem um arado. Eu e a esposa tentamos, mas a lavoura vai
+ devagar.}
+{131}{}{Posso ajudar?}
 {132}{}{Posso pedir mais uma coisa?}
 {133}{}{Oh, bem, lamento ouvir isso. Adeus.}
 {134}{}{Com certeza.}
-{135}{}{Well, we're from the wasteland... like yourself. So all we can get is
- protection from Vault City.}
-{136}{}{What kind of protection?}
+{135}{}{Bem, nós somos do deserto... como você. Então, tudo o que podemos
+ conseguir é proteção de Vault City.}
+{136}{}{Que tipo de proteção?}
 {137}{}{Posso pedir mais uma coisa?}
 {138}{}{Obrigado. Adeus.}
-{139}{}{They keep us safe from the outside, but it costs me and the wife quite
- a bit. And without a plow... well, making ends meet is difficult.}
-{140}{}{Can I help with the plow?}
+{139}{}{Eles nos mantêm seguros do lado de fora, mas custa um pouco para
+ mim e para minha esposa. E sem um arado... bem, é difícil sobreviver.}
+{140}{}{Posso ajudar com o arado?}
 {141}{}{Posso pedir mais uma coisa?}
 {142}{}{Oh, bem, lamento ouvir isso. Adeus.}
-{143}{}{Me and the wife don't talk with your kind.}
-{144}{}{Mary, keep away from this fella.}
-{145}{}{You'd help people like us? We can't offer much, but we sure would
- appreciate it.}
+{143}{}{Eu e minha esposa não conversamos com espécie como a sua.}
+{144}{}{Mary, fique longe desse cara.}
+{145}{}{Você ajudaria pessoas como nós? Não podemos oferecer muito, mas
+ com certeza agradeceríamos.}
 {146}{}{Eh! Se você não pode pagar, não posso ajudá-lo.}
 {147}{}{Sem problemas. Eu gostaria de ajudar.}
 {148}{}{Posso pedir mais uma coisa?}
-{149}{}{I'll have to think about it. Goodbye.}
+{149}{}{Eu vou ter que pensar sobre isso. Adeus.}
 {150}{}{Well, we have about a hundred and fifty saved, if that would help. But
  we won't be able to make our next payment if we don't have the plow by next week.}
 {151}{}{Eu fico com o dinheiro.}
