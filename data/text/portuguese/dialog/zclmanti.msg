@@ -1,1 +1,1 @@
-{100}{}{You see a mantis.}
+{100}{}{Você vê um louva-a-deus.}

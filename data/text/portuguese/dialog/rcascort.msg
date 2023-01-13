@@ -1,12 +1,12 @@
 {100}{}{Você vê um homem baixo com cabelo preto e um belo sorriso.}
-{101}{}{You see Ascorti, Redding's Mayor.}
-{102}{}{You see a well-dressed man with a greasy look to him.}
-{103}{}{Keep on movin', pal.}
-{104}{}{If you're here to try your luck, you're welcome.}
-{105}{}{Play or get out.}
-{106}{}{You better not make a mess in my place.}
-{107}{}{You should try the tables, tribal.}
-{108}{}{You should try the slots, tribal. Heap good magic there.}
+{101}{}{Você vê Ascorti, prefeito de Redding.}
+{102}{}{Você vê um homem bem vestido e com um olhar bajulador.}
+{103}{}{Continue andando, amigo.}
+{104}{}{Se você está aqui para tentar a sorte, seja bem vindo.}
+{105}{}{Jogue ou saia.}
+{106}{}{É melhor não fazer graça na minha casa.}
+{107}{}{Você deveria tentar as mesas, tribal.}
+{108}{}{Você deveria tentar os caça-níqueis, tribal. Tem magia da boa lá.}
 {109}{}{Take it easy on the firewater, tribal.}
 {110}{}{Hello there; welcome to the fine city of Redding... and welcome to my casino. Everyone's an Ace
  here at Ascorti's. I'm Ascorti, proprietor and mayor of this fine town.}

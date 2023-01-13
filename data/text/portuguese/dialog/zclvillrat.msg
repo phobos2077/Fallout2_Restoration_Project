@@ -1,4 +1,4 @@
-{100}{}{You see a large molerat.}
-{101}{}{The molerat doesn't seemed to be bothered by your presence.}
-{102}{}{The molerat looks very angry.}
-{200}{}{You've exterminated the mole rats.}
+{100}{}{Você vê um grande rato toupeira.}
+{101}{}{O rato toupeira não parece se incomodar com sua presença.}
+{102}{}{O rato toupeira parece muito zangado.}
+{200}{}{Você exterminou os ratos toupeira.}

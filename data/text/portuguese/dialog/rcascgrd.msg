@@ -65,29 +65,29 @@
 {164}{}{Não da pra acreditar que alguém é estúpido o bastante para cair nessa.}
 {165}{}{Sim, se eu já vi uma aposta ruim, é esta.}
 {166}{}{Cara, eu não me sinto muito bem.}
-{167}{}{That Ascorti's one sharp customer.}
-{168}{}{Psst, straighten up, the boss's looking.}
-{169}{}{See, it was like this, there was at least twenty...}
-{170}{}{That Gecko pie's givin' me heartburn.}
-{171}{}{Late night last night?}
-{172}{}{You gotta still be hung over after that.}
-{173}{}{Breakin' the law, breakin' the law.}
-{174}{}{You can't come into our town and do that.}
-{175}{}{You can't pull that kind of shit here.}
-{176}{}{We don't need your kind here.}
-{177}{}{Somebody's gotta stomp you flat.}
-{178}{}{There's a stink in this town and I think it's you.}
-{179}{}{I smell shitheel... oh, there you are.}
-{180}{}{Get out of our town, fucknut.}
-{181}{}{I ain't popped a skull for too long.}
-{182}{}{I'm gonna watch you bleed for that one.}
-{183}{}{Did you *really* think we wouldn't notice?}
-{184}{}{I can't believe you're pulling that shit right in front of us.}
-{185}{}{Uh, excuse me. KNOCK THAT SHIT OFF!}
-{186}{}{Stop fucking with the door, you idiot.}
+{167}{}{Um dos melhores clientes de Ascorti.}
+{168}{}{Psst, se endireite, o chefe está olhando.}
+{169}{}{Olha, era assim mesmo, tinha pelo menos uns vinte...}
+{170}{}{Essa torta de Gecko está me dando azia.}
+{171}{}{Tarde da noite ontem?}
+{172}{}{Você ainda deve estar de ressaca depois disso.}
+{173}{}{Quebrando a lei, quebrando a lei.}
+{174}{}{Você não pode entrar em nossa cidade e fazer isso.}
+{175}{}{Você não pode puxar ir sacando essas merdas aqui.}
+{176}{}{Não precisamos da sua laia aqui.}
+{177}{}{Alguém vai te quebrar.}
+{178}{}{Essa cidade esta fedendo e acho que é você.}
+{179}{}{Sinto cheiro de merda... oh, e aí está você.}
+{180}{}{Saia da nossa cidade, filho da puta.}
+{181}{}{Faz tempo que eu não estouro uns miolos.}
+{182}{}{Vou te fazer sangrar por isso.}
+{183}{}{Você *realmente* achou que não iríamos notar?}
+{184}{}{Não acredito que você está puxando essa merda bem na nossa frente.}
+{185}{}{Ah, desculpe. ACABE COM ESSA MERDA!}
+{186}{}{Pare de foder com a porta, seu idiota.}
 {187}{}{O que você está fazendo?}
-{188}{}{Sheesh, just a lower quality of criminals every day. }
-{189}{}{Step away from the door.}
-{190}{}{Don't touch that door again.}
-{191}{}{Step away from the door.}
-{192}{}{Don't touch that door again.}
+{188}{}{Pfff, quantos criminosos sem qualidade hoje em dia. }
+{189}{}{Se afaste da porta.}
+{190}{}{Não toque nessa porta de novo.}
+{191}{}{Se afaste da porta.}
+{192}{}{Não toque nessa porta de novo.}

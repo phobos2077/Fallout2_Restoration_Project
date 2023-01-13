@@ -143,4 +143,4 @@
 {809}{}{Odds bet on 10.}
 {810}{}{Bet on what number?}
 {1100}{}{You see a woman with a sharp eye, and a business attitude.}
-{1102}{}{She has a stick and lots of chips. You could try your luck with her.}
+{1102}{}{Ela tem um bastão e muitas tampas. Você pode tentar a sorte com ela.}
