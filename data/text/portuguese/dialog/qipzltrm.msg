@@ -1,5 +1,5 @@
 {100}{}{Você vê um terminal.}
-{101}{}{This terminal seems to operate the doors in this area.}
-{102}{}{You hear some doors opening.}
-{110}{}{You seemed to have dislodged something here.}
-{120}{}{The electrified floor discharges.}
+{101}{}{Este terminal parece operar as portas nesta área.}
+{102}{}{Você ouve algumas portas se abrindo.}
+{110}{}{Parece que você baixou algo aqui.}
+{120}{}{O piso eletrificado descarrega.}

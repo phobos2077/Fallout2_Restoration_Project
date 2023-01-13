@@ -8,10 +8,10 @@
 {115}{}{Você falha em desarmar o campo elétrico.}
 {116}{}{ falha ao desarmar o campo elétrico.}
 {120}{}{Você encontra um campo elétrico.}
-{121}{}{ encounters an electric field.}
-{125}{}{You are unable move this door.}
-{126}{}{ is unable to move this door.}
-{130}{}{You failed to unlock this door.}
-{131}{}{ failed to unlock this door.}
-{135}{}{You manage to open the door.}
-{136}{}{ manages to open the door.}
+{121}{}{ encontra um campo elétrico.}
+{125}{}{Você não pode mover esta porta.}
+{126}{}{ é incapaz de mover esta porta.}
+{130}{}{Você falhou em destrancar esta porta.}
+{131}{}{ falhou em destrancar esta porta.}
+{135}{}{Você consegue abrir a porta.}
+{136}{}{ consegue abrir a porta.}

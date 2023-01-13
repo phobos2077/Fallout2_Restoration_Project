@@ -1,97 +1,97 @@
 {100}{}{Você vê um terminal.}
-{101}{}{You see a terminal. It appears to be operational.}
-{102}{}{You see a DataPlex 2000 SmarTerminal, with a full 64k of RAM, it's the very latest in computer technology - too bad it's not working right now.}
-{103}{}{You see a DataPlex 2000 SmarTerminal, with a full 64k of RAM, it's the very latest in computer technology.}
-{104}{}{Welcome to PoseidoNet. Enter Menu Selection:}
-{105}{}{Log On.}
-{106}{}{Help.}
-{107}{}{End Session.}
-{108}{}{This terminal is playing an Indian movie, but it's really boring.}
-{109}{}{This terminal is playing a program about target shooting. All you can see is a bull's-eye.}
-{110}{}{This terminal is showing some kind of modern art - some work with many different colors of stripes.}
-{111}{}{You see a terminal. It shows little green bombs moving diagonally across the screen.}
-{112}{}{This terminal has a message on it, "It is now safe to turn off your computer." You wonder what it means.}
-{113}{}{You see an image of red, green, and blue, pinpoints of light combined to make a picture of something....}
-{114}{}{There's a hideous visage peering back at you. Oh, wait, this terminal is off.}
-{115}{}{This window peers into a dark dimension beyond space and time.}
-{116}{}{This terminal has a message on it; "Loading Fenestra '98." The terminal is covered with a thick layer of dust.}
-{117}{}{This terminal seems to be an Apricot-brand terminal. It's running something called Fallout 3. Wow, it looks like it's multiplayer and 3D.}
-{118}{}{Enter User ID:}
-{119}{}{(Let me try this) List users.}
-{120}{}{(I wonder if this'll work?) Smith, J.}
+{101}{}{Você vê um terminal. Parece estar operacional.}
+{102}{}{Você vê um DataPlex 2000 SmarTerminal, com 64k de RAM, é o que há de mais moderno em tecnologia de computadores - pena que não está funcionando agora.}
+{103}{}{Você vê um DataPlex 2000 SmarTerminal, com 64k de RAM, é o que há de mais moderno em tecnologia de computadores.}
+{104}{}{Bem-vindo ao PoseidoNet. Entrar na seleção do menu:}
+{105}{}{Entrar.}
+{106}{}{Ajuda.}
+{107}{}{Terminar Sessão.}
+{108}{}{Este terminal está passando um filme indiano, mas é muito chato.}
+{109}{}{Este terminal está reproduzindo um programa sobre tiro ao alvo. Tudo o que você pode ver é um alvo.}
+{110}{}{Este terminal mostra algum tipo de arte moderna - alguns trabalhos com muitas cores diferentes e listras.}
+{111}{}{Você vê um terminal. Ele mostra pequenas bombas verdes movendo-se diagonalmente pela tela.}
+{112}{}{Este terminal tem uma mensagem nele, "Agora é seguro desligar o computador." Você gostaria de saber o que isso significa.}
+{113}{}{Você vê uma imagem em vermelho, verde e azul, pontinhos de luz combinados para formar uma imagem de alguma coisa...}
+{114}{}{Tem um rosto horrível te olhando. Oh, espera ai, o terminal está desligado.}
+{115}{}{Esta janela leva a uma dimensão escura além do tempo e do espaço.}
+{116}{}{Este terminal contém uma mensagem; "Carregando Fenestra '98." O terminal está coberto por uma espessa camada de poeira.}
+{117}{}{Este parece ser um terminal da marca Apricot. Está executando algo chamado Fallout 3. Parece bem capenga, nem história boa tem. Tomara que tenha mods pra melhorar.}
+{118}{}{Insira a ID do usuário:}
+{119}{}{(Deixe-me tentar isso) Listar usuários.}
+{120}{}{(Sera que isso vai funcionar?) Smith, J.}
 {121}{}{Voltar.}
-{123}{}{I think I better do this somewhere else.}
-{124}{}{Listing (the terminal displays a list of about 500 names).}
-{125}{}{Listing (the computer displays a list of names).}
-{126}{}{Select User ID or Log Off:}
-{127}{}{(This one has okay access.) Smith, J.}
-{128}{}{(This one looks kind of special.) Presidential Passkey-Security Override.}
-{129}{}{(This has better than average access.) Murray, T.}
-{130}{}{(This one has good access.) Curling, Dr. C.}
-{131}{}{(This one looks as though it has really good access.) Bird, D.}
-{132}{}{(Maybe I'll try this later.) Log off.}
-{133}{}{Select: }
-{134}{}{A. E. C.: Atomic Power plant Operations, }
-{135}{}{Security Status?}
-{136}{}{Download A. E. C.: Atomic Power plant Operations.}
-{137}{}{Security Status.}
-{138}{}{Return to User ID:}
-{139}{}{Select: }
-{140}{}{Security Level: Current Status, }
-{141}{}{Chemical Corps: Project Status Report, }
-{142}{}{A. E. C.: Atomic Power plant Operations, }
-{143}{}{Security Status?}
-{144}{}{Security/Level: Current Status}
-{145}{}{Download Chemical Corps: Project Status Report.}
-{146}{}{Download A. E. C.: Atomic Power plant Operations.}
-{147}{}{Security Status.}
-{148}{}{Return to User ID:}
-{149}{}{Select: }
-{150}{}{State of the Nation: Current Status, }
-{151}{}{Word List, }
-{152}{}{Security Level: Current Status, }
-{153}{}{Chemical Corps: Project Status Report, }
-{154}{}{A. E. C.: Atomic Power plant Operations, }
-{155}{}{Security Status?}
-{156}{}{State of the Nation: Current Status}
-{157}{}{Download Word List.}
-{158}{}{Security/Level: Current Status}
-{159}{}{Download Chemical Corps: Project Status Report.}
-{160}{}{Download A. E. C.: Atomic Power plant Operations.}
-{161}{}{Security Status}
-{162}{}{Return to User ID:}
-{163}{}{Select: Security Status?}
-{164}{}{Security Status}
+{123}{}{Acho melhor fazer isso em outro lugar.}
+{124}{}{Listagem (o terminal exibe uma lista de cerca de 500 nomes).}
+{125}{}{Listagem (o computador exibe uma lista de nomes).}
+{126}{}{Selecione ID de Usuário ou Desconectar:}
+{127}{}{(Este tem acesso aceitável.) Smith, J.}
+{128}{}{(Este parece ser especial.) Senha Presidencial - Substituição de Segurança.}
+{129}{}{(Isto é melhor do que o acesso mediano.) Murray, T.}
+{130}{}{(Este tem um bom acesso.) Curling, Dr. C.}
+{131}{}{(Este parece ter um acesso muito bom.) Bird, D.}
+{132}{}{(Talvez eu tente isso mais tarde.) Finalizar seção.}
+{133}{}{Selecione: }
+{134}{}{A. E. C.: Operações da usina de energia atômica, }
+{135}{}{Estado de segurança?}
+{136}{}{Baixar A. E. C.: Operações de usinas de energia atômica.}
+{137}{}{Status de segurança.}
+{138}{}{Voltar para a ID do usuário:}
+{139}{}{Selecione: }
+{140}{}{Nível de segurança: Status atual, }
+{141}{}{Corpo Químico: Relatório de Status do Projeto, }
+{142}{}{A. E. C.: Operações da usina de energia atômica, }
+{143}{}{Estado de segurança?}
+{144}{}{Segurança/Nível: Status Atual}
+{145}{}{Baixar Corpo Quimico: Relatório de status do projeto.}
+{146}{}{Baixar A. E. C.: Operações de usinas de energia atômica.}
+{147}{}{Status de segurança.}
+{148}{}{Voltar para a ID do usuário:}
+{149}{}{Selecione: }
+{150}{}{Estado da Nação: Situação Atual, }
+{151}{}{Lista de palavras, }
+{152}{}{Nível de segurança: Status atual, }
+{153}{}{Corpo Químico: Relatório de Status do Projeto, }
+{154}{}{A. E. C.: Operações da usina de energia atômica, }
+{155}{}{Estado de segurança?}
+{156}{}{Estado da Nação: Situação Atual}
+{157}{}{Baixar lista de palavras.}
+{158}{}{Segurança/Nível: Status Atual}
+{159}{}{Baixar Corpo Quimico: Relatório de status do projeto.}
+{160}{}{Baixar A. E. C.: Operações de usinas de energia atômica.}
+{161}{}{Status de segurança}
+{162}{}{Voltar para a ID do usuário:}
+{163}{}{Selecione: Status de segurança?}
+{164}{}{Status de segurança}
 {165}{}{Final de acesso.}
-{166}{}{Download failed - Security Status file missing.}
-{167}{}{State of the Nation: Current Status}
-{168}{}{Download Word List.}
-{169}{}{Security/Level: Current Status.}
-{170}{}{Download Chemical Corps: Project Status Report.}
-{171}{}{Download A. E. C.: Atomic Power plant Operations.}
-{172}{}{Return to User ID:}
-{173}{}{Download complete.}
-{174}{}{Download Word List.}
-{175}{}{Security/Level: Current Status.}
-{176}{}{Download Chemical Corps: Project Status Report}
-{177}{}{Download A. E. C.: Atomic Power plant Operations}
-{178}{}{Security Status.}
-{179}{}{Return to User ID:}
-{180}{}{Download complete.}
-{181}{}{State of the Nation: Current Status}
-{182}{}{Security/Level: Current Status.}
-{183}{}{Download Chemical Corps: Project Status Report}
-{184}{}{Download A. E. C.: Atomic Power plant Operations}
-{185}{}{Security Status.}
-{186}{}{Return to User ID:}
-{187}{}{Guard Barracks Level: Security turrets currently at Armed Alert status.}
-{188}{}{Guard Barracks Level: Security turrets currently at Normal status.}
-{189}{}{Guard Barracks Level: Security turrets currently at Deactivated Maintenance status.}
-{190}{}{Test Subject Holding Level: Security turrets currently at Armed Alert status.}
-{191}{}{Test Subject Holding Level: Security turrets currently at Normal status.}
-{192}{}{Test Subject Holding Level: Security turrets currently at Deactivated Maintenance status.}
-{193}{}{Research and Development Project Area: Security turrets currently at Armed Alert status.}
-{194}{}{Research and Development Project Area: Security turrets currently at Normal status.}
+{166}{}{Falha no download - Arquivo de Status de Segurança ausente.}
+{167}{}{Estado da Nação: Situação Atual}
+{168}{}{Baixar lista de palavras.}
+{169}{}{Segurança/Nível: Status atual.}
+{170}{}{Baixar Corpo Quimico: Relatório de status do projeto.}
+{171}{}{Baixar A. E. C.: Operações de usinas de energia atômica.}
+{172}{}{Voltar para a ID do usuário:}
+{173}{}{Download completo.}
+{174}{}{Baixar lista de palavras.}
+{175}{}{Segurança/Nível: Status atual.}
+{176}{}{Baixar Corpo Quimico: Relatório de Status do Projeto}
+{177}{}{Baixar A. E. C.: Operações de Usina de Energia Atômica}
+{178}{}{Status de segurança.}
+{179}{}{Voltar para a ID do usuário:}
+{180}{}{Download completo.}
+{181}{}{Estado da Nação: Situação Atual}
+{182}{}{Segurança/Nível: Status atual.}
+{183}{}{Baixar Corpo Quimico: Relatório de Status do Projeto}
+{184}{}{Baixar A. E. C.: Operações de Usina de Energia Atômica}
+{185}{}{Status de segurança.}
+{186}{}{Voltar para a ID do usuário:}
+{187}{}{Nível do Quartel de Guarda: Torretas de segurança atualmente em status de alerta armado.}
+{188}{}{Nível do Quartel de guarda: Torres de segurança atualmente em status Normal.}
+{189}{}{Nível Quartel de Guarda: Torretas de segurança atualmente com status de Manutenção Desativada.}
+{190}{}{Teste de Nível de Célula do Sujeito: Torretas de segurança atualmente em estado de Alerta Armado.}
+{191}{}{Teste de Nível de Célula do Sujeito: Torretas de segurança atualmente em status Normal.}
+{192}{}{Nível de Sujeito de Teste: Torretas de segurança atualmente com status de Manutenção Desativada.}
+{193}{}{Área do Projeto de Pesquisa e Desenvolvimento: Torretas de segurança atualmente em estado de Alerta Armado.}
+{194}{}{Área do Projeto de Pesquisa e Desenvolvimento: Torretas de segurança atualmente em status Normal.}
 {195}{}{Área do Projeto de Pesquisa e Desenvolvimento: Torres de segurança atualmente em status Desativado para Manutenção.}
 {196}{}{Área do Escritório Executivo: torres de segurança atualmente em estado de Alerta Armado.}
 {197}{}{Área do Escritório Executivo: Torres de segurança atualmente em status Normal.}
@@ -101,25 +101,25 @@
 {201}{}{Nível de Informação e Usina: Torretas de segurança atualmente com status de Desativadas para Manutenção.}
 {202}{}{Ajustar o nível de segurança.}
 {203}{}{Estado da Nação: Situação atual}
-{204}{}{Download Word List.}
-{205}{}{Download Chemical Corps: Project Status Report.}
-{206}{}{Download A. E. C.: Atomic Power plant Operations.}
+{204}{}{Baixar lista de palavras.}
+{205}{}{Baixar Corpo Quimico: Relatório de status do projeto.}
+{206}{}{Baixar A. E. C.: Operações de usinas de energia atômica.}
 {207}{}{Estado de segurança.}
-{208}{}{Return to User ID:}
-{209}{}{Download complete.}
+{208}{}{Voltar para a ID do usuário:}
+{209}{}{Download completo.}
 {210}{}{Baixar Estado da Nação: Status atual.}
-{211}{}{Download Word List.}
-{212}{}{Security/Level: Current Status}
-{213}{}{Download A. E. C.: Atomic Power plant Operations.}
-{215}{}{Security Status.}
-{216}{}{Return to User ID:}
-{217}{}{Download complete.}
+{211}{}{Baixar lista de palavras.}
+{212}{}{Segurança/Nível: Status Atual}
+{213}{}{Baixar A. E. C.: Operações de usinas de energia atômica.}
+{215}{}{Status de segurança.}
+{216}{}{Voltar para a ID do usuário:}
+{217}{}{Download completo.}
 {218}{}{Baixar Estado da Nação: Status atual.}
-{219}{}{Download Word List.}
+{219}{}{Baixar lista de palavras.}
 {220}{}{Segurança/nível: Status atual}
-{221}{}{Download Chemical Corps: Project Status Report.}
+{221}{}{Baixar Corpo Quimico: Relatório de status do projeto.}
 {222}{}{Estado de segurança.}
-{223}{}{Return to User ID:}
+{223}{}{Voltar para a ID do usuário:}
 {224}{}{Este terminal atualmente está executando um diagnóstico profundo, tente outro terminal. Obrigado.}
 {225}{}{Bem vindo ao sistema de ajuda PoseidoNet. Lamentamos que seus arquivos de ajuda estejam desatualizados e indisponíveis. Buscar atualização de arquivo de ajuda? (S/N)}
 {226}{}{Sim.}
