@@ -32,39 +32,39 @@
 {131}{}{Seu imbecil.}
 {132}{}{Você não pode fazer isso e sair vivo.}
 {133}{}{É hora do pau.}
-{134}{}{You shoulda known better.}
-{135}{}{Sorry it had to come to this.}
-{136}{}{You loser.}
-{137}{}{Gotta keep the peace here.}
-{138}{}{This is gonna hurt you more'n us.}
-{139}{}{Gotta pay to play, pal.}
-{140}{}{Told you to knock it off. Too bad you didn't listen.}
-{141}{}{Now we've gotta come down hard on you.}
+{134}{}{Você deveria saber melhor.}
+{135}{}{Desculpe, tive que chegar nisso.}
+{136}{}{Perdedor.}
+{137}{}{Tenho que manter a paz aqui.}
+{138}{}{Isso vai doer mais em você do que em nós.}
+{139}{}{Tem que pagar pra jogar, amigo.}
+{140}{}{Disse para parar com isso, pena que você não ouviu.}
+{141}{}{Agora temos que pegar pesado com você.}
 {142}{}{Isso vai ser bem doloroso... para você.}
-{143}{}{Better put up that gat, pal.}
-{144}{}{We don't want any trouble here, friend. Put that away.}
-{145}{}{Better put that piece away.}
-{146}{}{Keep it in the holster, bub.}
+{143}{}{Melhor colocar esse negócio, amigo.}
+{144}{}{Não queremos problemas aqui, amigo. Se afaste.}
+{145}{}{Melhor guardar esse negócio.}
+{146}{}{Guarde isso no coldre, amigo.}
 {147}{}{Guarde essa arma.}
-{148}{}{Better put up that weapon.}
-{149}{}{Keep your hands off the weapons while you're in here.}
-{150}{}{Put that weapon away, pal.}
-{151}{}{Sorry, gotta ask you to put that weapon away.}
-{152}{}{Put your weapon away. We want things to stay friendly here.}
-{153}{}{Just keepin' things in line here.}
-{154}{}{Play nice.}
-{155}{}{Keep things nice and frosty.}
+{148}{}{Melhor guardar essa arma.}
+{149}{}{Deixe suas mãos longe das armas enquanto estiver aqui.}
+{150}{}{Guarde essa arma, amigo.}
+{151}{}{Desculpe, preciso pedir para você guardar essa arma.}
+{152}{}{Guarde sua arma. Queremos que as coisas continuem tranquilas aqui.}
+{153}{}{Só deixando as coisas na linha aqui.}
+{154}{}{Jogue limpo.}
+{155}{}{Mantenha as coisas tranquilas aqui.}
 {156}{}{Mova-se.}
-{157}{}{Nothing to see here.}
+{157}{}{Nada para ver aqui.}
 {158}{}{Tenha um bom dia.}
-{159}{}{Welcome to Ascorti's.}
-{160}{}{Play friendly.}
+{159}{}{Bem-vindo ao Ascorti's.}
+{160}{}{Jogue limpo.}
 {161}{}{Tenha um bom dia.}
-{162}{}{Everyone's an Ace here at Ascorti's.}
-{163}{}{So then I says to them, get your hands off my...}
-{164}{}{I can't believe that someone'd be dumb enough to double up on that.}
-{165}{}{Yup, that's a sucker-bet if I ever saw one.}
-{166}{}{Man, I don't feel so great.}
+{162}{}{Todo mundo um ás aqui no Ascorti's.}
+{163}{}{Então eu disse para eles, deixem suas mãos longe de mim...}
+{164}{}{Não da pra acreditar que alguém é estúpido o bastante para cair nessa.}
+{165}{}{Sim, se eu já vi uma aposta ruim, é esta.}
+{166}{}{Cara, eu não me sinto muito bem.}
 {167}{}{That Ascorti's one sharp customer.}
 {168}{}{Psst, straighten up, the boss's looking.}
 {169}{}{See, it was like this, there was at least twenty...}
