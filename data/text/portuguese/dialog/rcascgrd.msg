@@ -1,8 +1,8 @@
-{100}{}{You see a burly-looking guard checking you out.}
-{101}{}{You see one of Ascorti's security people.}
-{102}{}{You see a competent, vigilant guard watching the crowd.}
-{103}{}{Keep your hands off our stack, Jack.}
-{104}{}{Gettin' greedy's gonna cost you.}
+{100}{}{Você vê um guarda corpulento te analisando de perto.}
+{101}{}{Você vê um dos seguranças de Ascorti.}
+{102}{}{Você vê um guarda competente e vigilante observando a multidão.}
+{103}{}{Mantenha suas mãos longe de nossa pilha, campeão.}
+{104}{}{Ficar ganancioso vai custar caro.}
 {105}{}{Você deveria saber mais do que isso.}
 {106}{}{Você pensou que iria se safar disso?}
 {107}{}{Você não vai poder gastar nada agora.}
@@ -22,16 +22,16 @@
 {121}{}{Oh sim, oh siiiiiiiiiiiiiuuuuu!}
 {122}{}{Estou feliz por ter vindo.}
 {123}{}{Não brinque com os clientes.}
-{124}{}{You'll see what full service is all about.}
-{125}{}{You can't attack the guests and get away with it.}
-{126}{}{This ain't that kind of place, pally.}
-{127}{}{No disruptin' the boss's business.}
-{128}{}{You just gambled with your life, and lost.}
-{129}{}{Looks like you're gonna lose this one.}
-{130}{}{Gonna turn you into scraps for startin' a fight in here.}
-{131}{}{You dumbass.}
-{132}{}{You can't do that and live.}
-{133}{}{Time to take you outta' da' gene-pool.}
+{124}{}{Você verá como todo o serviço é completo.}
+{125}{}{Você não pode atacar os convidados e sair impune.}
+{126}{}{Aqui não é esse tipo de lugar, amigo.}
+{127}{}{Fique fora dos negócios do chefe.}
+{128}{}{Você apostou sua vida e perdeu.}
+{129}{}{Parece que você vai perder essa.}
+{130}{}{Vou te deixar em pedaços por ter começado essa briga.}
+{131}{}{Seu imbecil.}
+{132}{}{Você não pode fazer isso e sair vivo.}
+{133}{}{É hora do pau.}
 {134}{}{You shoulda known better.}
 {135}{}{Sorry it had to come to this.}
 {136}{}{You loser.}

@@ -1,4 +1,4 @@
-{100}{}{You have entered a dark cave in the side of a mountain.}
-{101}{}{You are in a series of pitch black caves. In the darkness, you can hear the clicking of scorpions.}
-{102}{}{These caves look like they serve as the barracks for a band of raiders.}
-{103}{}{You have found the raiders' lair.}
+{100}{}{Você entrou em uma caverna escura na encosta de uma montanha.}
+{101}{}{Você está em uma série de cavernas escuras. Na escuridão, você pode ouvir as pinças dos escorpiões.}
+{102}{}{Parece que essas cavernas serviram de base para um grupo de Saqueadores.}
+{103}{}{Você encontrou o Covil dos Saqueadores.}

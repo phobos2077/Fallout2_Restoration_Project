@@ -162,6 +162,6 @@
 {263}{}{Droga. não era isso que eu queria.}
 {264}{}{Senha de Segurança Presidencial reconhecida. Bom dia, Sr. Presidente. (Sim! Agora vamos ver o que posso fazer...)}
 {265}{}{(O que mais eu posso fazer?)}
-{266}{}{Presidential Security Passkey recognized. Good day, Mr. President... Emergency Counter Insurgency Protocol initiated... **Error** Target not found. Please ensure that the sensors are working correctly. If not, please submit form FG-I-106-32-0635 to authorize repair services. Thanks for using another fine Vault-Tec product. Good day.}
-{267}{}{(Hmm... Maybe it'll work once there's someone actually there. I'll have to give it a try later.) Return to User ID.}
+{266}{}{Senha de Segurança Presidencial reconhecida. Bom dia, Sr. Presidente... Protocolo de Contra-Insurgência de Emergência iniciado... **Erro** Alvo não encontrado. Certifique-se de que os sensores estão funcionando corretamente. Caso contrário, envie o formulário FG-I-106-32-0635 para autorizar os serviços de reparo. Obrigado por usar outro excelente produto Vault-Tec. Bom dia.}
+{267}{}{(Hmm... Talvez funcione assim que houver alguém realmente lá. Terei que tentar mais tarde.) Voltar para o ID de usuário.}
 {268}{}{(O que mais que posso tentar?) Volte.}

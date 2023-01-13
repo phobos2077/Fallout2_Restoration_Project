@@ -1,5 +1,5 @@
-{100}{}{You wonder if these wires are connected to the floor.}
-{110}{}{You cut the wires, stopping the current to the floor.}
-{111}{}{ cuts the wires, stopping the current to the floor.}
-{120}{}{You are too inept to cut the correct wires.}
-{121}{}{ is too inept to cut the correct wires.}
+{100}{}{Você se pergunta se esses fios estão conectados ao chão.}
+{110}{}{Você corta os fios, interrompendo a corrente no chão.}
+{111}{}{ corta os fios, parando a corrente para o chão.}
+{120}{}{Você é muito inepto para cortar os fios corretos.}
+{121}{}{ é muito inepto para cortar os fios corretos.}
