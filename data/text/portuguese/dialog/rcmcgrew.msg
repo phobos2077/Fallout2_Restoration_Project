@@ -12,7 +12,7 @@
 {110}{}{What do you mine here?}
 {111}{}{Você já ouviu falar de uma coisa chamada Garden of Eden Creation Kit?}
 {112}{}{Why do they call you *Dangerous* Dan McGrew?}
-{113}{}{What's going on here in town lately?}
+{113}{}{O que está acontecendo aqui na cidade ultimamente?}
 {114}{}{I was just moving through. Goodbye.}
 {115}{}{We mine gold. Everybody wants it, too. Send it all the way to Vault City, New Reno, and even
  down to the NCR. You might say that Redding has something for everybody - that's what keeps us

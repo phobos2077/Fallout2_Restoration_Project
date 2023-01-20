@@ -7,53 +7,53 @@
 {106}{}{É melhor não fazer graça na minha casa.}
 {107}{}{Você deveria tentar as mesas, tribal.}
 {108}{}{Você deveria tentar os caça-níqueis, tribal. Tem magia da boa lá.}
-{109}{}{Take it easy on the firewater, tribal.}
-{110}{}{Hello there; welcome to the fine city of Redding... and welcome to my casino. Everyone's an Ace
- here at Ascorti's. I'm Ascorti, proprietor and mayor of this fine town.}
-{111}{}{What can Mayor Ascorti do for you?}
-{112}{}{Is there any work here in Redding?}
-{113}{}{What's going on here in town lately?}
-{114}{}{Have you heard of anything called a Garden of Eden Creation Kit?}
+{109}{}{Pega leve na cachaça, tribal.}
+{110}{}{Ola; bem-vindo a bela cidade de Redding... e bem-vindo ao meu cassino. Todo mundo é um ás
+ aqui no Ascorti's. Sou Ascorti, proprietário e prefeito desta bela cidade.}
+{111}{}{O que o prefeito Ascorti pode fazer por você?}
+{112}{}{Há algum trabalho aqui em Redding?}
+{113}{}{O que está acontecendo aqui na cidade ultimamente?}
+{114}{}{Você já ouviu falar de algo chamado Kit de Criação do Jardim do Éden?}
 {115}{}{O que você faz aqui?}
-{116}{}{I was just looking around, Mayor. See you later. Goodbye.}
-{117}{}{I run this here casino, and I help to run things in town, too. I keep track of things like deeds
- and such.}
-{118}{}{Deeds? Deeds to what?}
-{119}{}{I see; let me ask you something else, Mayor.}
-{120}{}{Deeds like the one to that Great Wanamingo Mine that I want to buy from you. Ready to sell it
- yet?}
-{121}{}{I might be. How much were you going to offer for it?}
-{122}{}{Maybe. Let me ask you about something else first.}
-{123}{}{I'm still thinking it over. Goodbye, Mayor.}
-{124}{}{Well, just the one deed. The one I sold to you. You know, for the Great Wanamingo Mine?}
-{125}{}{Oh, that deed. Now I remember. Let me ask you about something else, Mayor.}
-{126}{}{Of course - I was just wondering if you had any other bargains. Well, I better get to work
- clearing that mine. Goodbye.}
-{127}{}{Just that deed for the Great Wanamingo Mine that you sold back to me. Remember?}
-{128}{}{Of course I do. Uh, let me ask you about something else, Mayor.}
-{129}{}{Yes, of course. I was just checking. Goodbye, Mayor Ascorti.}
-{130}{}{All kinds of private property. Why, right now, I have a Jim-dandy of a deed for sale.}
+{116}{}{Eu estava só dando uma olhada por aqui, prefeito. Até logo. Adeus.}
+{117}{}{Eu administro este cassino aqui, e também ajudo a cuidar das coisas na cidade. Tipo registrar
+ escrituras, ações, coisas assim.}
+{118}{}{Escrituras? Escrituras de quê?}
+{119}{}{Entendo; deixe eu te perguntar outra coisa, Prefeito.}
+{120}{}{Escrituras como aquela da Grande Mina Wanamingo que eu quero comprar de você. Pronto para
+ me vender?}
+{121}{}{Pode ser. Quanto você quer oferecer por ela?}
+{122}{}{Talvez. Deixe eu te perguntar sobre outra coisa.}
+{123}{}{Eu ainda estou pensando sobre isso. Tchau, prefeito.}
+{124}{}{Bem, só uma escritura, aquela que te vendi. Sabe, da a Grande Mina Wanamingo?}
+{125}{}{Ah, essa escritura, agora eu lembro. Deixe eu te perguntar sobre outra coisa, prefeito.}
+{126}{}{Claro: eu só queria saber se você tinha mais pechinchas. Bem, é melhor eu ir limpar
+ aquela mina. Tchau.}
+{127}{}{Aquela escritura da Grande Mina Wanamingo que você vendeu de volta para mim. Lembra?}
+{128}{}{Claro que sim Uh, deixe eu te perguntar sobre outra coisa, prefeito.}
+{129}{}{Sim, claro, eu só estava verificando. Adeus, prefeito Ascorti.}
+{130}{}{Todos os tipos de propriedade privada. Olha, agora mesmo tenho uma escritura Jim-dandy à venda.}
 {131}{}{O que é isso?}
-{132}{}{I bet you do, but let me ask you about something else first, Mayor.}
-{133}{}{Hmm, I think I'll look around town first, Mayor. Goodbye.}
-{134}{}{It's the deed to the Great Wanamingo Mine just outside of town. I can sell it to you for only
- $1,000, too. Special offer; just your luck to hit me on a generous day like this.}
-{135}{}{That sounds interesting. Tell me more.}
-{136}{}{What's the catch, Mayor?}
-{137}{}{I don't think I want to buy that right now, Mayor. Let me ask you about something else.}
-{138}{}{Well, there are some dang critters in there that need to be killed before anyone will work the
- mine. If'n you were to buy the deed - and then kill off the critters infesting it - I'd be happy to buy
- the deed back off you for a nice profit.}
-{139}{}{A profit? How much of a profit?}
-{140}{}{Why don't you clear it out yourself if it's so profitable?}
-{141}{}{Critters? What kind of critters?}
-{142}{}{No catch. No catch at all. You just have to evict some of the squatters that have taken up
- residence there. No hardship at all for a rugged customer like yourself. I can tell you more if you'd
- like.}
-{143}{}{Okay, I'll bite. Tell me more.}
-{144}{}{I don't think I want to get into that sort of business, Mayor. Let me ask you about something
- else.}
-{145}{}{I see. I think I'll leave that to someone else. Goodbye, Mayor.}
+{132}{}{Aposto que sim, mas deixe eu te perguntar sobre outra coisa primeiro, prefeito.}
+{133}{}{Hmm, acho que vou dar uma olhada na cidade primeiro, prefeito. Adeus.}
+{134}{}{É a escritura da Grande Mina Wanamingo, fora da cidade. Posso te vender por apenas $1.000.
+ Oferta especial; sorte sua aparecer em um dia generoso como este.}
+{135}{}{Isso parece interessante. Me conte mais.}
+{136}{}{Qual é o truque, prefeito?}
+{137}{}{Acho que não quero comprar isso agora, prefeito. Deixe eu te perguntar sobre outra coisa.}
+{138}{}{Bem, tem algumas criaturas miseraveis lá que precisam ser mortas antes que alguém trabalhe
+ na mina. Se você comprasse a escritura - e depois matar essas criaturas - eu ficaria feliz em comprar
+ a escritura de volta com um bom lucro.}
+{139}{}{Lucro? Quanto de lucro?}
+{140}{}{Por que você mesmo não limpa se é tão lucrativo?}
+{141}{}{Criaturas? Que tipo de criaturas?}
+{142}{}{Sem pegadinhas, nenhuma. Você só precisa se livrar alguns dos invasores que se fixaram
+ por lá. Quase nenhuma dificuldade para um cliente robusto como você. Eu posso te contar mais se
+ você quiser.}
+{143}{}{Ok, fiquei curioso. Me diga mais.}
+{144}{}{Acho que não quero entrar nesse tipo de negócio, prefeito. Deixe eu te perguntar sobre outra
+ coisa.}
+{145}{}{Entendo. Acho que vou deixar isso para outra pessoa. Adeus, prefeito.}
 {146}{}{Heck, more than double. I figure that's the least that your time's worth to you. I couldn't
  afford to pay any more than that. There's still a lot of work that needs to be put back into the mine
  before I can start to turn a profit with it.}
