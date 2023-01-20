@@ -76,23 +76,23 @@
 {154}{}{Everyone's just about rolling in Jet lately. Seems as though most fellers just can't get enough
  of it. Makes for happy workers, though, so I can't complain. Lined up two deep in front of Doc
  Johnson's, they are. If there was much more, though, I'd start to worry.}
-{155}{}{Who's Doc Johnson?}
+{155}{}{Quem é o Dr. Johnson?}
 {156}{}{Interesting. Let me ask you about something else, Dan.}
 {157}{}{I better be moseying, Dan. Goodbye.}
 {158}{}{Damn; there's just too much Jet in this town. We're drowning in the stuff. Nobody wants to work;
  they just want to get high. I can't make my ore quotas with half my damn miners flying high on Jet.
  Goddamn that Doc Johnson.}
-{159}{}{Who's Doc Johnson?}
+{159}{}{Quem é o Dr. Johnson?}
 {160}{}{Sounds like a problem. Let me ask you about something else, Dan.}
 {161}{}{I better be traveling, Dan. Goodbye.}
 {162}{}{Most of the miners that were real Jet Jockeys have crashed hard. That last batch that Doc
  Johnson sold must have been real bad, somehow.}
-{163}{}{Who's Doc Johnson?}
+{163}{}{Quem é o Dr. Johnson?}
 {164}{}{Interesting. Let me ask you about something else, Dan.}
 {165}{}{I better be hiking on, Dan. Goodbye.}
 {166}{}{I don't know what happened, but most of the Jet Jocks got real sick on that last batch - and
  now they can't go near Jet without getting sick. Doc Johnson's looking into it, I heard.}
-{167}{}{Who's Doc Johnson?}
+{167}{}{Quem é o Dr. Johnson?}
 {168}{}{Interesting. Let me ask you about something else, Dan.}
 {169}{}{I better be Trekking, Dan. Goodbye.}
 {170}{}{Cause I'm nothing but the biggest, toughest, mine-crawling, gullywumpin', snake-eatin' buck

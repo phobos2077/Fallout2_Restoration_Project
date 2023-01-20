@@ -54,21 +54,21 @@
 {144}{}{Acho que não quero entrar nesse tipo de negócio, prefeito. Deixe eu te perguntar sobre outra
  coisa.}
 {145}{}{Entendo. Acho que vou deixar isso para outra pessoa. Adeus, prefeito.}
-{146}{}{Heck, more than double. I figure that's the least that your time's worth to you. I couldn't
- afford to pay any more than that. There's still a lot of work that needs to be put back into the mine
- before I can start to turn a profit with it.}
-{147}{}{Sounds good to me. How much was that again?}
-{148}{}{I don't think I want to do that. Let me ask you about something else, Mayor.}
-{149}{}{$1,000 for the deed to the Great Wanamingo Mine. You want it?}
-{150}{}{Yes, I'll buy the deed.}
-{151}{}{I'd like to buy the deed, but I don't have enough money for it right now. Let me ask you about
- something else.}
-{152}{}{I don't think I want to buy that right now. Let me ask you about something else.}
-{153}{}{Maybe some other time, Mayor. Goodbye.}
-{154}{}{I'll go ahead and record the Great Wanamingo Mine's deed in your name. Let me know when you've
- got it all cleared out, and I'll buy it back from you.}
-{155}{}{I'll do that. Let me ask you about something else right now, though.}
-{156}{}{Okay. See you in a while, Mayor.}
+{146}{}{Caramba, mais que o dobro. Imagino que seja o mínimo que seu tempo vale para você.
+ Eu não podia pagar mais. Ainda tem muito trabalho que precisa ser colocado de volta na mina antes
+ que eu possa começar a lucrar com ela.}
+{147}{}{Me parece bom. Quanto é mesmo?}
+{148}{}{Não to afim de fazer isso. Deixe eu te perguntar sobre outra coisa, prefeito.}
+{149}{}{$1.000 pela escritura da Grande Mina Wanamingo. Você quer?}
+{150}{}{Sim, vou comprar a escritura.}
+{151}{}{Eu gostaria de comprar a escritura, mas não tenho dinheiro o suficiente agora. Deixe eu te
+ perguntar sobre outra coisa.}
+{152}{}{Não to afim de comprar isso agora. Deixe eu te perguntar sobre outra coisa.}
+{153}{}{Talvez outra hora, prefeito. Adeus.}
+{154}{}{Vou registrar a escritura da Grande Mina de Wanamingo em seu nome. Me avie quando tiver tudo limpo
+ e comprarei de volta.}
+{155}{}{Eu faço isso. Deixe eu te perguntar sobre outra coisa agora.}
+{156}{}{OK. Até daqui a pouco, Prefeito.}
 {157}{}{I can't really do that. I'm not a real danger-seeking kind of guy. I know my strengths and
  fighting just isn't one of them. Now you, you look like a real tough hombre. This should be just up
  your alley.}

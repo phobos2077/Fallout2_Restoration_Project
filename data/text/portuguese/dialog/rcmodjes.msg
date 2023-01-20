@@ -107,7 +107,7 @@
 {186}{}{How can those people help a takeover?}
 {187}{}{Who's Marge LeBarge?}
 {188}{}{Who's Dan McGrew?}
-{189}{}{Who's Doc Johnson?}
+{189}{}{Quem é o Dr. Johnson?}
 {190}{}{Who's Mayor Ascorti?}
 {191}{}{Thanks for the info. Goodbye.}
 {192}{}{People are going to get hurt because this kind of change doesn't come easy. Those that think
@@ -126,7 +126,7 @@
  working mines left in Redding. I think that Marge's more of an NCR type. I don't think she likes their
  prudishness, but she recognizes power when she sees it.}
 {199}{}{Who's Dan McGrew?}
-{200}{}{Who's Doc Johnson?}
+{200}{}{Quem é o Dr. Johnson?}
 {201}{}{Who's Mayor Ascorti?}
 {202}{}{How can these people help a takeover?}
 {203}{}{Thanks for the info. Goodbye.}
@@ -134,7 +134,7 @@
  are the only two working mines left in Redding. I think Dan is leaning more towards New Reno, if I had
  to guess. He likes his miners doped up and happy.}
 {205}{}{Who's Marge LeBarge?}
-{206}{}{Who's Doc Johnson?}
+{206}{}{Quem é o Dr. Johnson?}
 {207}{}{Who's Mayor Ascorti?}
 {208}{}{How can these people help a takeover?}
 {209}{}{Thanks for the info. Goodbye.}
@@ -177,6 +177,6 @@
  few scruples left, but mostly he'll do what's right for Redding in order to keep his own interests safe.}
 {236}{}{Who's Marge LeBarge?}
 {237}{}{Who's Dan McGrew?}
-{238}{}{Who's Doc Johnson?}
+{238}{}{Quem é o Dr. Johnson?}
 {239}{}{How can these people help a takeover?}
 {240}{}{Thanks for the info. Goodbye.}

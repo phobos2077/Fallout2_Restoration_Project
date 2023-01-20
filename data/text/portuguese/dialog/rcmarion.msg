@@ -28,37 +28,37 @@
 {124}{}{Oh, entendo. O que mais você faz como xerife?}
 {125}{}{Ainda estou curioso para saber como você sabia.}
 {126}{}{Acho que é por isso que você é o xerife, Earl. Tchau.}
-{127}{}{Well, if you must steal all the drama and mystery from my moment... I have friends in the NCR. Good
- friends. Might say that we have common interests, too.}
-{128}{}{Oh, well, that explains it. I was curious. What do you do here in town as the Sheriff?}
-{129}{}{Common interests? What kind of common interests?}
-{130}{}{I see. Well, I'll be moving on now. Goodbye.}
-{131}{}{I didn't want to let on that easy. Anybody could know the handshake.}
+{127}{}{Bem, se você quer perder todo o drama e mistério deste momento... Tenho amigos na NCR. Bons
+ amigos. Pode-se dizer que também temos interesses comuns.}
+{128}{}{Bem, isso explica, eu estava curioso. O que você faz aqui na cidade como xerife?}
+{129}{}{Interesses em comum? Que tipo de interesses comuns?}
+{130}{}{Entendo. Bem, vou indo agora. Adeus.}
+{131}{}{Eu não deixaria isso ser tão fácil. Qualquer um poderia saber o aperto de mão.}
 {132}{}{Oh.}
-{133}{}{Keep the peace, mostly. At least that's what I'd be doing if I didn't have this leg all busted up.}
-{134}{}{It's like I said before. My leg's all busted up, and I can't do my job 'cause of it.}
-{135}{}{What happened to your leg?}
-{136}{}{That must make it hard to do your job as Sheriff.}
-{137}{}{Bad break, that. Oops. I mean bad luck. Goodbye.}
-{138}{}{I was going out to meet a caravan and it was late, so I took a nap. Next thing I knew, a damn
- gecko was trying to make a lunch outta my kneecap. Damn thing almost had it, too. Another good bite and
- I'd be sitting down permanent-like.}
-{139}{}{So your leg's still in bad shape, huh?}
-{140}{}{Well, I wasn't much of a dancer before this happened, and I reckon I won't be afterwards, neither.
- I can gimp around, but Doc Johnson said I better not if'n I want it to heal right. Sure could use some
- help, though.}
-{141}{}{Not that I can do much right now, with my leg all banged up. Gotta stay off it for a time yet,
- according to Doc Johnson. What can I help you with?}
-{142}{}{Whatcha pestering me with now?}
-{143}{}{Who's Doc Johnson?}
-{144}{}{You need some help, Sheriff?}
+{133}{}{Manter a paz, principalmente. Pelo menos é o que eu estaria fazendo se não tivesse essa perna toda quebrada.}
+{134}{}{É como eu disse antes. Minha perna está toda quebrada e não posso fazer meu trabalho por causa disso.}
+{135}{}{O que aconteceu com sua perna?}
+{136}{}{Isso deve dificultar seu trabalho como xerife.}
+{137}{}{Que bosta hein mano. Quero dizer... que pena. Adeus.}
+{138}{}{Eu estava saindo para encontrar uma caravana e já era tarde, então tirei um sono. A próxima
+ coisa que eu me lembro é que um gecko lazarento estava tentando fazer um almoço com minha rótula. O
+ maldito quase a pegou. Outra mordida certa e eu nem conseguiria mais levantar.}
+{139}{}{Então sua perna ainda está bem mau, eh?}
+{140}{}{Bem, eu não era nenhum dançarino antes disso acontecer, e acho que não serei daqui pra frente.
+ Eu posso andar por aí, mas o Dr. Johnson disse que é melhor eu não fazer, se quiser curar direito.
+ Claro que um pouco de ajuda seria ótimo.}
+{141}{}{Não que eu possa fazer muito agora, com a perna toda machucada. Tenho que ficar meio
+ parado por um tempo ainda, de acordo com Dr. Johnson. Com o que posso ajudar?}
+{142}{}{Por que você está me incomodando agora?}
+{143}{}{Quem é o Dr. Johnson?}
+{144}{}{Precisa de ajuda, xerife?}
 {145}{}{Enquanto o gato está fora...}
-{146}{}{Well, I won't keep you any longer. You must need your rest. Goodbye.}
-{147}{}{Good ole Painless Doc Johnson's our town doc. You have a toothache or a broken bone, he'll set
- you to right. He also sells medicine. All kinds of medicine, if you get my drift. For *whatever* ails
- ya.}
-{148}{}{Sounds like a helpful guy to have around. Where is he here in town?}
-{149}{}{Interesting. Let me ask you something else, Sheriff Marion.}
+{146}{}{Bem, não vou mais te segurar. Você deve estar precisando descansar, adeus.}
+{147}{}{O bom e velho Dr. Johnson é o médico da nossa cidade. Se você tem uma dor de dente ou um
+ osso quebrado, ele resolve pra você. Ele também vende remédios, todos os tipos de remédios, se
+ você é que você me entende. Para realmente *qualquer coisa* que te atrapalhe.}
+{148}{}{Parece um cara útil para se ter por perto. Onde ele está aqui na cidade?}
+{149}{}{Interessante. Deixe eu te perguntar outra coisa, Xerife Marion.}
 {150}{}{Thanks. I'll see you around. Goodbye.}
 {151}{}{Yeah, I sure could use some help with a couple of things. Just part-time like. It pays real good
  and you'd be doing a good thing for the town of Redding, too.}
