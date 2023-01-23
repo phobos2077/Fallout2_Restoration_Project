@@ -2,11 +2,11 @@
 {101}{}{Você vê James Hoffy, o mestre de caravana.}
 {102}{}{Você vê um homem com cicatrizes e aparência forte, com um olhar calculista.}
 {103}{}{Vamos, saia daqui.}
-{104}{}{This ain't no charity ward. Now get out.}
-{105}{}{Who let you out of the house, anyway?}
-{106}{}{Anyone home in there?}
-{107}{}{You're not quite smart enough to grunt, are you?}
-{108}{}{Come on, already. Just move it out of here.}
+{104}{}{Aqui não é um lugar pra caridade. Agora vá embora.}
+{105}{}{Quem te deixou sair de casa, afinal?}
+{106}{}{Tem alguém em casa?}
+{107}{}{Você não é inteligente o suficiente para grunhir, não é?}
+{108}{}{Vamos, está tudo bem. Apenas saia daqui.}
 {109}{}{I ain't got time for no stupids.}
 {110}{}{I hear that you had some trouble with some of your caravans. Everyone has trouble sometimes -
  just don't make a habit of it.}

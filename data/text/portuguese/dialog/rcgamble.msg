@@ -1,28 +1,28 @@
 {100}{}{Você vê um jogador.}
-{101}{}{You see a gambler hoping to make some money.}
-{102}{}{You see a nervously excited person gambling.}
-{103}{}{Come on, baby needs new shoes.}
-{104}{}{Yeah, that's the ticket!}
+{101}{}{Você vê um jogador esperando ganhar algum dinheiro.}
+{102}{}{Você vê uma pessoa nervosamente jogando.}
+{103}{}{Vamos, meu bebê precisa de sapatos novos.}
+{104}{}{Sim, essa é a hora!}
 {105}{}{Merda!}
 {106}{}{Por que eu?}
-{107}{}{Can anyone spare me some change?}
-{108}{}{I've got a sure thing this time.}
-{109}{}{My system always works.}
-{110}{}{This system stinks!}
-{111}{}{This game is rigged!}
-{112}{}{I'm the luckiest person alive!}
-{113}{}{What did I do to deserve this?}
-{114}{}{Crap!}
-{115}{}{Yeee-haaaawww!}
-{116}{}{Yippeeee!}
-{117}{}{I've never seen anyone get that lucky before.}
-{118}{}{That *seems* too good to be true.}
-{119}{}{You better not win again.}
-{120}{}{What's the house limit?}
-{121}{}{House rules really say that?}
-{122}{}{Yeah, you betcha.}
-{123}{}{Let it ride.}
-{124}{}{I'm going to double-up next time.}
+{107}{}{Alguém pode me dar algum troco?}
+{108}{}{Eu tenho a coisa certa agora.}
+{109}{}{Meu método sempre funciona.}
+{110}{}{Este método não presta!}
+{111}{}{Isso aqui é pegadinha!}
+{112}{}{Eu sou a pessoa viva mais sortuda!}
+{113}{}{O que eu fiz para merecer isso?}
+{114}{}{Merda!}
+{115}{}{Iiiihhhh-haaaaaaaa!}
+{116}{}{Opaaaaaa!}
+{117}{}{Nunca vi ninguém ter tanta sorte antes.}
+{118}{}{Isso *parece* bom demais para ser verdade.}
+{119}{}{É melhor não ganhar de novo.}
+{120}{}{Qual é o limite da casa?}
+{121}{}{As regras da casa realmente dizem isso?}
+{122}{}{Sim, pode apostar.}
+{123}{}{Deixe que siga.}
+{124}{}{Vou dobrar da próxima vez.}
 {125}{}{Vai amor, vai amor...}
 {126}{}{Lá vai minha casa.}
 {127}{}{Lá se vai minha terra.}

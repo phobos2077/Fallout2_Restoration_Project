@@ -112,18 +112,18 @@
 {186}{}{Por que esse nome idiota de Sapo Morton?}
 {187}{}{Excelente. O que eu faço sobre isso?}
 {188}{}{É melhor eu me mexer agora. Adeus, prefeito.}
-{189}{}{I think you should go back to the Wanamingo Mine and kill off Frog and his gang. When you do
- that, you can come back here and I'll be happy to buy the mine from you.}
-{190}{}{Nothing's ever easy, is it? Okay, Mayor. I'll see you later. I've got some business to attend to.}
-{191}{}{You ready to sell that Wanamingo Mine deed back to me yet?}
-{192}{}{Sure thing, Mayor. How much was that again?}
-{193}{}{Not yet, Mayor. Goodbye.}
-{194}{}{I hear that you've decided to help the Sheriff. Good. I can't afford to allow that deadbeat
- Rooney to keep her marvelous house.}
-{195}{}{You mean that tiny, drafty shack you're overcharging her for?}
-{196}{}{I bet. How much does she owe you?}
-{197}{}{Well, I'll see what I can find out. Let me ask you something else, though.}
-{198}{}{Yeah. So who are you, anyway?}
+{189}{}{Acho que você deveria voltar para a Mina Wanamingo e matar Sapo e sua gangue. Quando fizer
+ isso, você pode voltar aqui, ficarei grato e comprarei a mina de você.}
+{190}{}{Nada nunca é fácil, não é? Ok, prefeito, te você mais tarde. Tenho alguns negócios para resolver.}
+{191}{}{Você está pronto para vender a escritura da Mina Wanamingo de volta para mim?}
+{192}{}{Claro, prefeito. Em quanto ficou?}
+{193}{}{Ainda não, prefeito. Adeus.}
+{194}{}{Ouvi dizer que você decidiu ajudar o xerife. Bom. Não posso permitir que aquela indigente
+ do Rooney fique com sua casa maravilhosa.}
+{195}{}{Você quer dizer aquele barraco minúsculo e todo largado que você está superfaturando?}
+{196}{}{Eu aposto. Quanto ela deve a você?}
+{197}{}{Bem, vou ver o que consigo descobrir. Deixe eu te perguntar outra coisa, no entanto.}
+{198}{}{Sim. Então, quem é você, afinal?}
 {199}{}{I prefer to call it cozy, with flow-through seasonal ventilation. It's quite reasonably priced,
  too.}
 {200}{}{I bet it is. How much back-rent does she owe you?}
