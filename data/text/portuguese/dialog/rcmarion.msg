@@ -231,7 +231,7 @@
 {270}{}{There's a bandit, name o' Frog Morton, that's taken up lodgings over in the ruins of the Great
  Wanamingo Mine just west of town. I need you to exterminate him. But be careful. He's crafty and he's
  bound to have some of his gang with him. I'll give you $1000 to get rid o' the varmint.}
-{271}{}{Why do they call him Frog Morton?}
+{271}{}{Por que esse nome idiota de Sapo Morton?}
 {272}{}{Sure thing, Sheriff.}
 {273}{}{Dash it all, but that just isn't my sort of soiree, mon frere. Goodbye.}
 {274}{}{His name's Morton, and they call him Frog 'cause he croaks people. Ready to go get 'im?}

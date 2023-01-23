@@ -69,49 +69,49 @@
  e comprarei de volta.}
 {155}{}{Eu faço isso. Deixe eu te perguntar sobre outra coisa agora.}
 {156}{}{OK. Até daqui a pouco, Prefeito.}
-{157}{}{I can't really do that. I'm not a real danger-seeking kind of guy. I know my strengths and
- fighting just isn't one of them. Now you, you look like a real tough hombre. This should be just up
- your alley.}
-{158}{}{Maybe so. How much are you willing to pay to buy the deed back once I clear it out?}
-{159}{}{Maybe, maybe not. I'll think about it. Let me ask you something else, Mayor.}
-{160}{}{I don't think I have time for that right now. Sorry, Mr. Mayor. Goodbye.}
-{161}{}{So, you clear out that mine yet?}
-{162}{}{I sure did.}
-{163}{}{I haven't right now, but I will. In the meantime, let me ask you about something else.}
-{164}{}{I'm working on it. Goodbye, Mayor Ascorti.}
-{165}{}{You know, I don't think you got all of those damn Wanamingos. You better go back and check. I
- won't buy it back from you until every last one of them is dead.}
-{166}{}{I see. Let me ask you about something else first, Mayor.}
-{167}{}{Well, I better go back and check then.}
-{168}{}{You did a great job of clearing all them damn Wanamingos out of that mine, but you've got a
- problem.}
-{169}{}{A problem? Like what?}
-{170}{}{You cleared out the whole mine. Thanks so much. Ready to sell me the deed? I'll give you $2,500
- for it.}
-{171}{}{I don't think so. I think I'll hold on to it for now. Goodbye, Mayor.}
-{172}{}{You bet. I'll be happy to unload this deed, Mayor Ascorti.}
-{173}{}{We call 'em Wanamingos. They're some kind of all-fired weird critter with nasty teeth and suckers
- or somesuch. Not too intelligent, but nasty up-close.}
-{174}{}{I see. And you want me to get rid of them?}
-{175}{}{You've got it. I knew you weren't as slow as you look. You can be right quick when you're of a
- mind to be.}
-{176}{}{Yeah. So how much do I stand to make on my $1,000?}
-{177}{}{It was so homey-looking that someone else moved in. A nasty type by the name of Frog Morton, uh,
- and his gang too, from what I hear.}
-{178}{}{Why do they call him Frog Morton?}
-{179}{}{How's that my problem?}
-{180}{}{Great, what do I do about this?}
-{181}{}{I guess it's because he's got a reputation for croaking people. He's a real nasty customer who
- won't be missed... and you'll be a hero. You'd like to be a hero, wouldn't you?}
-{182}{}{Maybe, but I still don't see how this is my problem.}
-{183}{}{Yeah, sure. What do I do about this?}
-{184}{}{I guess I've got some more house-clearing to do. I'll be back when I've kicked some more ass,
- Mayor.}
-{185}{}{Well, until the mine is cleared out I can't send miners in to work it. So, if you want to sell
- me the mine, it's your problem.}
-{186}{}{Why do they call him Frog Morton?}
-{187}{}{Great. What do I do about this?}
-{188}{}{I better get busy, then. Goodbye, Mayor.}
+{157}{}{Eu realmente não posso fazer isso. Eu não sou o tipo de cara que vive procurando o perigo,
+ eu conheço meus pontos fortes e lutar não é um deles. Agora, você me parece um homem durão,
+ isso parece coisa facil para você.}
+{158}{}{Talvez sim. Quanto você está disposto a pagar para comprar a escritura de volta depois que eu limpar tudo?}
+{159}{}{Talvez, ou talvez não, vou pensar sobre isso. Deixe eu te perguntar outra coisa, prefeito.}
+{160}{}{Acho que não tenho tempo para isso agora. Desculpe, Sr. Prefeito. Adeus.}
+{161}{}{Então, você já limpou aquela mina?}
+{162}{}{Claro que sim.}
+{163}{}{Eu não consegui, mas eu vou. Enquanto isso, deixe eu te perguntar sobre outra coisa.}
+{164}{}{Eu estou trabalhando nisso. Adeus, prefeito Ascorti.}
+{165}{}{Sabe, acho que você não matou todos aqueles malditos Wanamingos, é melhor você voltar e dar
+ uma olhada. Não vou comprá-la de volta até todos estejam mortos.}
+{166}{}{Entendo. Deixe eu te perguntar sobre outra coisa primeiro, prefeito.}
+{167}{}{Bem, é melhor eu voltar e verificar então.}
+{168}{}{Você fez um ótimo trabalho acabando com todos aqueles malditos Wanamingos daquela mina,
+ mas você tem um problema.}
+{169}{}{Um problema? Tipo o que?}
+{170}{}{Você limpou toda a mina, muito obrigado. Pronto para me vender a escritura? Te dou 2.500 dólares
+ por ela.}
+{171}{}{Eu acho que não. Acho que vou ficar com ela por enquanto. Adeus, prefeito.}
+{172}{}{Pode apostar. Terei todo o o prazer em te vender a escritura, Prefeito Ascorti.}
+{173}{}{Nós os chamamos de Wanamingos. Eles são um tipo de criatura esquisita com dentes horríveis e
+ umas ventosas ou sei la o que. Não muito inteligente, mas bem desagradável de perto.}
+{174}{}{Entendo. E você quer que eu me livre deles?}
+{175}{}{Você conseguiu, eu sabia que você não era tão lento quanto parece. Você pode ser bem rápido
+ quando quiser.}
+{176}{}{Sim. Então, até quanto posso ganhar com meus $1.000?}
+{177}{}{Era tão aconchegante que outra pessoa se mudou. Um sujeito desagradável chamado Sapo Morton,
+ eh, e sua gangue também, pelo que ouvi.}
+{178}{}{Por que esse nome idiota de Sapo Morton?}
+{179}{}{Por que é problema meu?}
+{180}{}{Ótimo, o que eu faço sobre isso?}
+{181}{}{Dizem que ele resmunga igual um quando chega perto das pessoas. Ele é um cliente realmente
+ desagradável que não fará falta... e você será um herói. Você gostaria de ser um herói, não é?}
+{182}{}{Talvez, mas ainda não vejo como esse é problema meu.}
+{183}{}{Sim, claro. O que eu faço sobre isso?}
+{184}{}{Acho que tenho mais limpezas para fazer. Estarei de volta quando tiver quebrado mais ossos,
+ prefeito.}
+{185}{}{Bem, até que a mina fique limpa, não posso enviar mineiros para trabalhar nela. Então, se
+ você quer me vender a mina, o problema é seu.}
+{186}{}{Por que esse nome idiota de Sapo Morton?}
+{187}{}{Excelente. O que eu faço sobre isso?}
+{188}{}{É melhor eu me mexer agora. Adeus, prefeito.}
 {189}{}{I think you should go back to the Wanamingo Mine and kill off Frog and his gang. When you do
  that, you can come back here and I'll be happy to buy the mine from you.}
 {190}{}{Nothing's ever easy, is it? Okay, Mayor. I'll see you later. I've got some business to attend to.}
