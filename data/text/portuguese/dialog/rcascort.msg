@@ -124,11 +124,11 @@
 {196}{}{Eu aposto. Quanto ela deve a você?}
 {197}{}{Bem, vou ver o que consigo descobrir. Deixe eu te perguntar outra coisa, no entanto.}
 {198}{}{Sim. Então, quem é você, afinal?}
-{199}{}{I prefer to call it cozy, with flow-through seasonal ventilation. It's quite reasonably priced,
- too.}
-{200}{}{I bet it is. How much back-rent does she owe you?}
-{201}{}{Hmm, well I better be going, Mayor. Goodbye.}
-{202}{}{Let's see here... Mrs. Rooney owes me... yes, here it is, $120. That's it. $120.}
+{199}{}{Prefiro chamá-lo de confortável, com ventilação para fluxo de ar sazonal. E também, tem
+ preços razoáveis.}
+{200}{}{Aposto que sim. Quanto ele te deve de aluguel?}
+{201}{}{Hmm, bem, é melhor eu ir, prefeito. Adeus.}
+{202}{}{Vamos ver... A Sra. Rooney me deve... sim, aqui, olhe, $120. Isso mesmo, $120.}
 {203}{}{Is that all? I've got that right here.}
 {204}{}{That's not that much. Let me ask you about something else.}
 {205}{}{I'll see what I can do to make her pay up. Goodbye.}
