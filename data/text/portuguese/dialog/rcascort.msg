@@ -129,35 +129,35 @@
 {200}{}{Aposto que sim. Quanto ele te deve de aluguel?}
 {201}{}{Hmm, bem, é melhor eu ir, prefeito. Adeus.}
 {202}{}{Vamos ver... A Sra. Rooney me deve... sim, aqui, olhe, $120. Isso mesmo, $120.}
-{203}{}{Is that all? I've got that right here.}
-{204}{}{That's not that much. Let me ask you about something else.}
-{205}{}{I'll see what I can do to make her pay up. Goodbye.}
-{206}{}{That'll do it. Now she's current. Thanks for settling that account.}
-{207}{}{Not a problem. Let me ask you about something else, though.}
-{208}{}{I guess some people are just more generous than others. Goodbye, Mayor.}
-{209}{}{Thanks for clearing out my property, Sheriff. Now I can rent it to someone that can actually pay
- for it.}
-{210}{}{I sure didn't feel good about what I did.}
-{211}{}{That makes sense. }
-{212}{}{Why not? You should have. By kicking out Widow Rooney, you've enabled me to keep paying all of
- my employees. If I didn't pay them, then their families would go hungry. That's not right, is it?}
-{213}{}{I guess not. I didn't think about it that way. But I still don't feel great about it.}
-{214}{}{It doesn't look like you're suffering much here. I'm sure your casino makes enough.}
-{215}{}{It takes a big individual to do the right thing, even when that thing doesn't leave them
- feeling good. You did a hard thing, and you did it well. Have a beer on me.}
-{216}{}{Thanks, Mayor; that's mighty nice of you.}
-{217}{}{I don't think I want to drink with you. Now or ever. Goodbye.}
-{218}{}{No problem at all. Happy to wet the whistle of local law enforcement.}
-{219}{}{Thanks again, Mayor. Let me ask you about something else, though.}
-{220}{}{Thanks, Mayor. I'll see you around. Goodbye.}
-{221}{}{Today, maybe, but it's not always so lucky. I've got to maintain a good balance, good income. I
- owe it to my employees - as well as a little something for myself, of course.}
-{222}{}{I guess that's fair enough.}
-{223}{}{You're lower than a gecko's belly. I've heard enough. Goodbye.}
-{224}{}{I just wanted to thank you again for doing the right thing by Mrs. Rooney. I sure didn't want to
- kick that old gal out of her home.}
-{225}{}{But you would have. Well, let's talk about something else.}
-{226}{}{Somehow, I knew you'd say something like that. Goodbye, Mayor.}
+{203}{}{Isso é tudo? Eu tenho isso aqui.}
+{204}{}{Não é tanto. Deixe eu te perguntar sobre outra coisa.}
+{205}{}{Vou ver o que posso fazer para ela te pagar. Adeus.}
+{206}{}{Isso é o suficiente, agora ela está ciente. Obrigado por pagar essa dívida.}
+{207}{}{Não é problema. Deixe eu te perguntar sobre outra coisa.}
+{208}{}{Eu acho que algumas pessoas são mais generosas do que outras. Adeus, prefeito.}
+{209}{}{Obrigado por limpar minha propriedade, xerife. Agora posso alugá-lo para alguém que possa
+ realmente pagar por ela.}
+{210}{}{Não tenho orgulho do que fiz.}
+{211}{}{Isso faz sentido. }
+{212}{}{Por que não? Deveria. Expulsando a viúva Rooney, você permitiu que eu continue pagando todos
+ os meus funcionários. Se eu não pagasse, teríamos famílias passando fome. Isso não parece certo, não eh?}
+{213}{}{Eu acho que não, não tinha pensado nisso. Mas ainda não me sinto muito bem com isso.}
+{214}{}{Você não parece muito necessitado. Tenho certeza que seu cassino rende bastante.}
+{215}{}{É preciso ser uma grande pessoa para fazer a coisa certa, mesmo quando isso não o
+ deixa se sentindo tão bem. Você fez uma coisa difícil, e fez isso muito bem. Tome uma cerveja por minha conta.}
+{216}{}{Obrigado, Prefeito; isso é muito legal da sua parte.}
+{217}{}{Acho que não quero beber com você. Nem agora nem nunca. Adeus.}
+{218}{}{Nenhum problema. Fico feliz em pagar uma breja para os homens da lei locais.}
+{219}{}{Obrigado mais uma vez, prefeito. Deixe eu te perguntar sobre outra coisa.}
+{220}{}{Obrigado, prefeito. Eu te vejo por aí, adeus.}
+{221}{}{Hoje, talvez, mas nem sempre tenho tanta sorte. Tenho que manter um bom equilíbrio, um bom
+ rendimento. Devo isso aos meus funcionários - e também um pouco para mim, é claro.}
+{222}{}{Acho que isso é justo.}
+{223}{}{Você é mais baixo que a barriga de um gecko. Já ouvi demais, adeus.}
+{224}{}{Eu só queria te agradecer novamente por fazer a coisa certa com a Sra. Rooney. Te garanto que
+ não queria expulsar aquela velha de casa.}
+{225}{}{Mas eu teria. Ok, vamos falar de outra coisa.}
+{226}{}{De alguma forma, eu sabia que você diria algo assim. Adeus, prefeito.}
 {227}{}{Você foi longe demais com a viúva Rooney, ela não era uma ameaça para ninguém. Por que você teve
  que ir e matá-la?}
 {228}{}{Ela merecia isso.}
@@ -189,18 +189,18 @@
 {250}{}{Obrigado, prefeito, isso significa muito vindo de você. Deixe eu te perguntar sobre outra coisa aqui.}
 {251}{}{Ei, me conte sobre os donos da mina.}
 {252}{}{Obrigado de qualquer maneira. Acho que vou indo então, tchau.}
-{253}{}{I understand that Sheriff Earl Marion is looking for someone to fill in for him until his bum
- leg heals up a fetch. You might go talk to him. His office is just South of here, across the street.}
-{254}{}{Thanks for the tip. Before I go, though, let me ask you about something else.}
+{253}{}{Entendo que o xerife Earl Marion está procurando alguém para o substituir até que sua perna
+ cicatrize um pouco. Você pode ir falar com ele. O escritório dele fica ao sul daqui, do outro lado da rua.}
+{254}{}{Obrigado pela dica. Mas antes de ir, deixe eu te perguntar sobre outra coisa.}
 {255}{}{Ei, me conte sobre os donos da mina.}
-{256}{}{Maybe I'll take a look over there, then. Thanks.}
-{257}{}{Well, there's the Sheriff, and then the mine owners are looking for someone to retrieve some
- kind of part for one of their machines.}
-{258}{}{What about the Sheriff?}
-{259}{}{What about the mine owners?}
-{260}{}{Interesting. Let me ask you about something else, Mayor.}
-{261}{}{Maybe I'll look around a bit. Thanks and goodbye.}
-{262}{}{Heck, that's right. I hear you already went ahead and got that chip for one of 'em.}
+{256}{}{Talvez eu de uma olhada lá, então. Agradeço.}
+{257}{}{Bem, la esta o xerife, e também os donos da mina estão procurando alguém para recuperar
+ algum tipo de peça para uma de suas máquinas.}
+{258}{}{Pode me dizer sobre o xerife?}
+{259}{}{Pode me dizer sobre os donos das minas?}
+{260}{}{Interessante. Deixe eu te perguntar sobre outra coisa, prefeito.}
+{261}{}{Talvez eu de mais uma olhada por ai. Obrigado e adeus.}
+{262}{}{Droga, é verdade. Ouvi dizer que você foi em frente e pegou o chip de um deles.}
 {263}{}{Well, tell me about the Sheriff, then.}
 {264}{}{Yup, that was me. Tell me about something else then, Mayor.}
 {265}{}{Oh, I thought there was something new. Well, goodbye then.}
