@@ -208,10 +208,10 @@
  Marge LeBarge na Mina Kokoweef . Ambos estão ao norte do centro da cidade aqui, em frente ao
  cemitério.}
 {267}{}{Obrigado. Agora, e o xerife?}
-{268}{}{Thanks. Let me ask you about something else, though.}
-{269}{}{Maybe I'll take a walk up there and talk to them. Thanks, Mayor. Goodbye.}
-{270}{}{Lately our gold shipments have started to slow down because the miners are spending too much
- time flying high on Jet.}
+{268}{}{Obrigado. Deixe eu te perguntar sobre outra coisa, no entanto.}
+{269}{}{Talvez eu dei uma passada lá e fale com eles. Obrigado, prefeito. Adeus.}
+{270}{}{Ultimamente, nossos envios de ouro começaram a diminuir porque os mineradores estão gastando
+ muito tempo chapando no Jet.}
 {271}{}{Almost all of the miners are spending more time flying Jet than mining for gold... so our prices
  are up, and our exports are down. Bad for business all the way around.}
 {272}{}{Everyone's getting too high on Jet to work effectively. We aren't making but a tenth of our
