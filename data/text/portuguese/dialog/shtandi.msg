@@ -160,44 +160,44 @@
 {259}{}{Problema encontrado. Você olha disco. Há um espião na NCR.}
 {260}{}{Eu preciso saber mais uma coisa. E se eu encontrasse a Vault 13?}
 {261}{}{Receio que você tenha outro problema. Se você olhar para este holodisco, verá que tem um espião na NCR.}
-{262}{}{Just one more thing. What if I told you that I found Vault 13?}
+{262}{}{Só mais uma coisa. E se eu te contasse que encontrei a Vault 13?}
 {263}{}{Obrigado.}
-{264}{tand35}{Damn, the only person who knew all this was Feargus! I'm not suggesting anything, but maybe Gunther should know about this.}
-{265}{}{Me tell. Me go now.}
+{264}{tand35}{Porra, a única pessoa que sabia de tudo isso era Feargus! Não estou sugerindo nada, mas talvez Gunther saiba disso.}
+{265}{}{Eu digo. Eu vou agora.}
 {266}{}{Eu preciso saber mais uma coisa. E se eu encontrasse a Vault 13?}
-{267}{}{Just one more thing. What if I told you that I found Vault 13?}
-{268}{}{I'll talk to him. Bye.}
-{269}{tand36}{It's all business, huh? Fine. Five hundred, when it's done. I don't haggle, so take it or don't waste my time.}
+{267}{}{Só mais uma coisa. E se eu te contasse que encontrei a Vault 13?}
+{268}{}{Eu vou falar com ele. Tchau.}
+{269}{tand36}{É tudo negócio, eh? De acordo. Quinhentos, quando terminar. Eu não pechincho, então pegue ou não perca meu tempo.}
 {270}{}{Eu levo, mas preciso fazer perguntas.}
-{271}{}{Me not interested.}
-{272}{}{I'll take it but I need some information.}
+{271}{}{Eu não estou interessado.}
+{272}{}{Vou levar, mas preciso de algumas informações.}
 {273}{}{Não interessado.}
-{274}{tand37a}{I'm Tandi, president of the NCR. So you whupped my boy, Hoss, over at Dusty's? Maybe you're the right man at the right time. Interested in some work?}
-{275}{tand37b}{I'm Tandi, president of the NCR. So you're the girl who whupped my boy Hoss? I should've had such a daughter! I've got a job you might want. Interested?}
-{276}{}{Maybe. What job?}
-{277}{}{I might be, what's the job?}
-{278}{tand38}{I'm Tandi, president of the New California Republic. Welcome to Shady Sands. I hear some pretty impressive things about you. No point in dancing. Got some business I want to discuss.}
+{274}{tand37a}{Sou Tandi, presidente da NCR. Então você espancou meu garoto, Hoss, no Dusty's? Talvez você seja o homem certo na hora certa. Interessado em algum trabalho?}
+{275}{tand37b}{Sou Tandi, presidente da NCR. Então você é a garota que espancou meu garoto Hoss? Eu deveria ter tido uma filha assim! Eu tenho um trabalho que você pode querer. Interessada?}
+{276}{}{Pode ser. Que trabalho?}
+{277}{}{Pode ser, qual é o trabalho?}
+{278}{tand38}{Sou Tandi, presidente da Republica da Nova California. Bem-vindo a Shady Sands. Eu ouço algumas coisas impressionantes sobre você. Vou ser direta: tenho alguns negócios que quero discutir.}
 {279}{}{Hã, certo.}
-{280}{}{Fine, what can I do for you?}
-{281}{tand39}{You're back. So, you interested in a job or not?}
+{280}{}{Tudo bem, o que posso fazer por você?}
+{281}{tand39}{Você voltou. Então, você está interessado em um emprego ou não?}
 {282}{}{Não.}
 {283}{}{Ok.}
-{284}{tand40}{Back, are you stranger? So's the job done? Do we have access to the vault?}
-{285}{}{Me working on it. Bye.}
+{284}{tand40}{De volta, Estranho? O trabalho está feito? Temos o acesso a Vault?}
+{285}{}{Eu trabalhando nisso. Tchau.}
 {286}{}{Me been there. Squatters want deal. You teach, you help, they give you vault.}
 {287}{}{Me been there. Me got parts.}
 {288}{}{Me been there. Squatters want deal. You teach, you help, they give you vault. Here parts also.}
-{289}{}{I'm still working on it. I'll see ya.}
+{289}{}{Ainda estou trabalhando nisso. Até mais.}
 {290}{}{I've handled most of this already. The squatters want a deal. You help them become self sufficient and they'll give you access to the vault.}
 {291}{}{Eu estive lá e tenho as peças que você está procurando.}
 {292}{}{I've handled this already. The squatters want a deal. You help them become self sufficient and they'll give you the vault. Also, here are the parts.}
-{293}{tand41}{Hell and thunder! Then stop wasting my time!}
+{293}{tand41}{Raios e trovões! Então pare de desperdiçar meu tempo!}
 {294}{}{Sinto.}
-{295}{tand42}{Vault 13 - you found it? That solves all of our problems! Where is it?}
-{296}{}{Uh, before me tell, there be one problem with vault.}
-{297}{}{Me draw map. Here.}
-{298}{}{Before I tell you, there is one small problem with the vault.}
-{299}{}{I've drawn up a map. It's yours.}
+{295}{tand42}{A Vault 13, você encontrou? Isso resolve todos os nossos problemas! Onde esta?}
+{296}{}{Uh, antes que eu continue, há um problema com a vault.}
+{297}{}{Desenho no mapa. Aqui.}
+{298}{}{Antes que eu continue, há um pequeno problema com a vault.}
+{299}{}{Desenhei um mapa. É seu.}
 {300}{}{I'm not one to just hand over a gold mine for free. I want 20 grand or you can forget it.}
 {301}{tand43}{What?}
 {302}{}{It full of D'claws. Smart ones. They talk.}
