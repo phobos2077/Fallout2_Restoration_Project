@@ -201,13 +201,13 @@
 {260}{}{Interessante. Deixe eu te perguntar sobre outra coisa, prefeito.}
 {261}{}{Talvez eu de mais uma olhada por ai. Obrigado e adeus.}
 {262}{}{Droga, é verdade. Ouvi dizer que você foi em frente e pegou o chip de um deles.}
-{263}{}{Well, tell me about the Sheriff, then.}
-{264}{}{Yup, that was me. Tell me about something else then, Mayor.}
-{265}{}{Oh, I thought there was something new. Well, goodbye then.}
-{266}{}{I don't know too much about it. You should go talk to either Dangerous Dan McGrew at the
- Morningstar Mine, or to Marge LeBarge at the Kokoweef Mine. They're both just north of the downtown
- area here, across from the graveyard.}
-{267}{}{Thanks. Now, what about the Sheriff?}
+{263}{}{Bem, me conte sobre o xerife, então.}
+{264}{}{Sim, era eu. Então me conte outra coisa, prefeito.}
+{265}{}{Oh, eu pensei que tinha algo novo. Bem, adeus então.}
+{266}{}{Eu não sei muito sobre isso. Você deve falar com Dan McGrew na Mina Morningstar ou com
+ Marge LeBarge na Mina Kokoweef . Ambos estão ao norte do centro da cidade aqui, em frente ao
+ cemitério.}
+{267}{}{Obrigado. Agora, e o xerife?}
 {268}{}{Thanks. Let me ask you about something else, though.}
 {269}{}{Maybe I'll take a walk up there and talk to them. Thanks, Mayor. Goodbye.}
 {270}{}{Lately our gold shipments have started to slow down because the miners are spending too much

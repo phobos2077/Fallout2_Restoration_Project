@@ -1,48 +1,48 @@
-{100}{}{You see a young woman, very much a tomboy, dressed in work overalls.}
-{101}{}{It's Dorothy, the city engineer.}
-{102}{}{From all the grease and dirt on her, she's a hands-on tool type, especially since that maintenance bot follows her everywhere.}
-{103}{}{Oh my god, somebody's got to do something! What do I do? I need some help quick.}
-{104}{}{Huh? Gug?}
+{100}{}{Você vê uma jovem, muito moleca, vestida com um macacão de trabalho.}
+{101}{}{É Dorothy, a engenheira da cidade.}
+{102}{}{Com toda essa graxa e sujeira, da pra ver que ela é praticamente uma faz-tudo, especialmente porque aquele robô de manutenção a segue por toda parte.}
+{103}{}{Oh meu Deus, alguém tem que fazer alguma coisa! O que eu faço? Preciso de ajuda rápido.}
+{104}{}{Huh? Cu?}
 {105}{}{O que está acontecendo?}
-{106}{}{You come. Stop bad man. Stop him no break machine. Okay?}
+{106}{}{Você vem. Você para o homem mau. Você para, não quebre a máquina. Ok?}
 {107}{}{Tudo bem.}
-{108}{}{No, no come.}
-{109}{}{Oh, god, it's Jack. He's threatening to blow up the power plant. There's no time, you have to stop him for me. You can do that, can't you?}
-{110}{}{Stop wasting time. Lead on.}
-{111}{}{Not my job. Go find somebody else.}
-{112}{}{Listen - Jack's inside. He's upset about his ex-wife. Things haven't been good for him lately. He says he's got a bomb. If so, it's probably right alongside the generating dynamo. Look, see if you can talk him out of it, but whatever you do don't let that bomb go off!}
-{113}{}{How am I supposed to do that?}
-{114}{}{Don't worry, I'm on it.}
-{115}{}{I don't know! I'm just the city engineer. You figure it out!}
-{116}{}{Crap! He's damaged the core unit. It's got to be fixed before things really go to hell. You any good at repairing things?}
+{108}{}{Não, não vou.}
+{109}{}{Oh, Deus, é o Jack, ele está ameaçando explodir a usina. Não tem mais tempo, você precisa detê-lo para mim. Você pode fazer isso, não pode?}
+{110}{}{Pare de perder tempo. Continue.}
+{111}{}{Não é meu trabalho. Vá procurar outra pessoa.}
+{112}{}{Ouça - Jack está lá dentro. Ele está puto com a ex-mulher, as coisas não têm sido fáceis para ele ultimamente. Ele fala que tem uma bomba, provavelmente está ao lado do dínamo gerador. Olhe, veja se consegue convence-lo, não importa o que fizer, não deixe a bomba explodir!}
+{113}{}{Como devo fazer isso?}
+{114}{}{Não se preocupe, estou cuidando disso.}
+{115}{}{Não sei! Sou apenas a engenheira da cidade. Você tem que descobrir isso!}
+{116}{}{Merda! Ele danificou a unidade principal. Tem que ser consertado antes que as coisas vão para o inferno de uma vez. Você é bom em consertar coisas?}
 {117}{}{Urrgh.}
 {118}{}{Sim.}
 {119}{}{Não.}
 {120}{}{O que eu estava pensando?}
 {121}{}{Olhe, faça o que conseguir com o gerador, tenho de estabilizar o núcleo. Você tem cerca de 30 segundos, eu acho. Depois disso será tarde demais. Vamos, Toto.}
-{122}{}{Damn! Then stand back. Unless I'm real lucky, the whole thing's going to blow. Let's go, Toto.}
-{123}{}{You fixed it? Without any parts? That's amazing! Where'd you learn to do that?}
+{122}{}{Droga! Então fique para trás. Só se eu tiver muita sorte, se não a coisa toda vai explodir. Vamos, Toto.}
+{123}{}{Você consertou? Sem nenhuma peça? Isso é incrível! Onde você aprendeu a fazer isso?}
 {124}{}{Huh-huh!}
-{125}{}{Just handy that's all.}
-{126}{}{I get it. You're one of those moron types - what do they call them? Idiot savants. Well look, idiot or not, you've earned a reward. RE-WARD - you. I give you pretty books. You see. Get money. Good... Not like you can read, after all.}
-{127}{}{Look, it's not much, but I've got some books - old tech manuals. They're yours. Take them.}
-{128}{}{Hey look, Toto. It's the stranger who helped us out. Thanks again, mister.}
-{129}{}{Crap! The whole grid's down. This is going to take forever to fix. No time to talk. Come on, Toto.}
-{130}{}{Look, I don't blame you for what happened, but I'm not in a real chatty mood.}
-{131}{}{You killed him! I mean, did you have to kill him? Wasn't there some other way?}
+{125}{}{Sou bom com as mãos, só isso.}
+{126}{}{Entendo. Você é um daqueles tipos de idiotas - como se chamam? Sábios idiotas. Bem, olhe, idiota ou não, você ganhou uma recompensa. RECOMPENSAR VOCÊ. Eu te dou livros bonitos, veja. Consegue dinheiro. Bom... Não se você pode ler, na verdade.}
+{127}{}{Olha, não é muito, mas tenho alguns livros, velhos manuais de tecnologia. São seus, pegue eles.}
+{128}{}{Ei, olha, Toto. É o forasteiro que nos ajudou. Obrigado novamente, senhor.}
+{129}{}{Merda! Toda a rede está fora do ar, isso vai levar uma eternidade para consertar. Sem tempo para conversa. Vamos, Toto.}
+{130}{}{Olha, não te culpo pelo que aconteceu, mas não estou com muita vontade de falar.}
+{131}{}{Você matou ele! Digo, você teve mesmo que o matar? Não tinha outra maneira?}
 {132}{}{Sim.}
 {133}{}{Não.}
-{134}{}{You should have tried it then, instead of just killing him. Get out of here, you monster!}
-{135}{}{It's terrible. I wonder what made him do it? The town owes you its thanks. Look, it's not much, but here's some manuals I've been collecting. Maybe you can sell them or something.}
-{136}{}{Don't talk to me, you murdering swine.}
-{137}{}{Can't chat, stranger. Name's Dorothy, city engineer, and that's Toto. Got to run.}
-{138}{}{You don't have an illudium Q-38 space modulator, do you? Didn't think so.}
-{139}{}{You talked him out of it? That's amazing! The town owes you big, mister. Look, it's not much, but here's some manuals I've been collecting. Maybe you can sell them or something.}
-{140}{}{I just want you to know I'm still impressed by what you did with Jack. Me and Toto have to run now. 'Bye!}
-{141}{}{Crap! I got one word of advice-RUN!}
-{142}{}{Hey look, Toto. It's the stranger who helped us out. Thanks again, miss.}
-{143}{}{You talked him out of it? That's amazing! The town owes you big, sister. Look, it's not much, but here's some manuals I've been collecting. Maybe you can sell them or something.}
-{144}{}{Don't waste time! He's serious.}
+{134}{}{Você deveria ter tentado alguma coisa em vez de só matar. Saia daqui, monstro!}
+{135}{}{É terrível. Por que ele fez isso? A cidade te deve muitos agradecimentos. Olha, não é muito, mas aqui estão alguns manuais que tenho colecionado. Talvez você possa vendê-los ou algo assim.}
+{136}{}{Não fale comigo, seu porco assassino.}
+{137}{}{Não posso conversar, estranho. O nome é Dorothy, engenheira municipal, e esse é Toto. Eu tenho que correr.}
+{138}{}{Você não tem um modulador espacial Iludium Q-38, tem? Acho que não.}
+{139}{}{Você o convenceu a desistir? Isso é incrível! A cidade deve muito a você, senhor. Olha, não é muito, mas aqui estão alguns manuais que tenho colecionado. Talvez você possa vender ou algo assim.}
+{140}{}{Só quero que saiba que ainda estou impressionado com o que fez com Jack. Eu e Toto temos que correr agora. Tchau!}
+{141}{}{Merda! Eu tenho um conselho - CORRA!}
+{142}{}{Ei, olha, Toto. É o estranho que nos ajudou. Obrigado novamente, moça.}
+{143}{}{Você o convenceu a desistir? Isso é incrível! A cidade te deve muito, moça. Olha, não é muito, mas aqui estão alguns manuais que tenho colecionado. Talvez você possa vender ou algo assim.}
+{144}{}{Não perca tempo! Ele está falando sério.}
 {145}{}{You've got to do something right now!}
 {146}{}{Don't just stand there -- stop him!}
 {147}{}{Just get out of here, brahmin dung.}

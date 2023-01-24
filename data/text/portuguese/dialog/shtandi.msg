@@ -140,23 +140,23 @@
 {239}{tand28}{Yes... there's a resemblance - you've got the same fire, too. I was always afraid that he was nothing but a skeleton somewhere in the desert.}
 {240}{}{Me want hear you story.}
 {241}{}{I'd like to hear your story.}
-{242}{tand29}{Figures. (sigh) Well, I was pretty young when we met. There was a gang of raiders - The Khans - Who'd gotten hold of me. Things were looking pretty bad when, all of a sudden, this stranger shows up and rescues me. Your Vault Dweller.}
-{243}{}{Vaultdweller have many adventures.}
-{244}{}{The Vault Dweller had many such adventures.}
-{245}{tand30}{I used to envy 'em that. I wanted a life of adventure, but I stayed here and took over as mayor when my dad died. Been running this place and building NCR ever since. Guess it turned out to be a pretty big life after all.}
-{246}{}{Elder be happy know you still alive. Sorry, but me need ask more.}
-{247}{}{The Elder will be happy to know that you are still alive. I'm sorry but I need to know more.}
-{248}{tand31}{Was Shady Sands; Most folks call it NCR now. New California Republic - pretty impressive name, huh?}
-{249}{}{Tell about NCR.}
-{250}{}{Me ask about something else.}
-{251}{}{Tell me about the NCR please.}
+{242}{tand29}{Figuras. (suspiro) Bem, eu era bem jovem quando nos conhecemos. Havia uma gangue de invasores - Os Khans - eles me pegaram. As coisas pareciam muito ruins quando, de repente, esse estranho apareceu e me resgatou. Seu Morador da Vault.}
+{243}{}{Morador tem muitas aventuras.}
+{244}{}{O Morador da Vault teve muitas dessas aventuras.}
+{245}{tand30}{Eu costumava invejá-lo por isso. Eu queria uma vida de aventura, mas fiquei aqui e assumi o cargo de prefeita quando meu pai morreu. Tenho administrado esse lugar e construído a NCR desde então. Acho que acabou por ser uma grande vida depois de tudo.}
+{246}{}{Elder fique feliz por saber que você ainda está vivo. Desculpe, mas eu tenho mais perguntas.}
+{247}{}{A Anciã ficará feliz em saber que você ainda está viva. Sinto muito, mas gostaria de saber mais.}
+{248}{tand31}{Era Shady Sands; A maioria das pessoas chama de NCR agora. Republica da Nova California - nome bastante impressionante, não eh?}
+{249}{}{Me diga sobre a NCR.}
+{250}{}{Eu pergunto sobre outra coisa.}
+{251}{}{Me diga sobre a NCR, por favor.}
 {252}{}{Deixe-me perguntar-lhe algo mais.}
-{253}{tand32}{Lord, I could talk about that forever and I just don't have the time. Here's a holodisk on the NCR. We make 'em to spread the good word.}
+{253}{tand32}{Deus, eu poderia falar sobre isso para sempre e infelizmente não tenho tempo. Aqui está um holodisco da NCR. Nós sempre fazemos para espalhar a boa palavra.}
 {254}{}{Hã, valeu.}
-{255}{tand33}{So, they finally got reasonable. I can bull the Congress into sending supplies and techs. You sure we can get into the vault?}
-{256}{}{Me sure. Lowlifes there but me kick ass.}
-{257}{}{Quite sure. There were some lowlifes there but I kicked their ass.}
-{258}{tand34}{I've always believed in fair pay for fair work. My assistant will square things up.}
+{255}{tand33}{Então eles finalmente forma razoaveis. Posso convencer o Congresso a enviar suprimentos e técnicos. Tem certeza de que podemos entrar na Vault?}
+{256}{}{Tenho. Tinha bandidos mas eu chutei o cu deles.}
+{257}{}{Com certeza. Havia alguns bandidos lá, mas eu chutei o traseiro deles.}
+{258}{tand34}{Sempre acreditei em pagamento justo por trabalho justo. Meu assistente vai resolver as coisas.}
 {259}{}{Problema encontrado. Você olha disco. Há um espião na NCR.}
 {260}{}{Eu preciso saber mais uma coisa. E se eu encontrasse a Vault 13?}
 {261}{}{Receio que você tenha outro problema. Se você olhar para este holodisco, verá que tem um espião na NCR.}

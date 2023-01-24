@@ -138,14 +138,14 @@
 {302}{}{ mulher, }
 {303}{}{so listen close: I am a doctor of the NCR. It's a solemn duty, and it came with a solemn oath. You ask me one more time to piss on that oath, the ONLY part of it that's going out the window is "first, do no harm." You got me?}
 {304}{}{Alright, screw it. If you're as great as you seem to think you are, maybe you'll be able to sew yourself back together after this.}
-{305}{}{Whoa, now. Didn't mean to step on any toes, doc. I'll just leave you be for awhile.}
-{310}{}{Say, doc, I was wondering about those heart pills you've got up there on the shelf.}
-{311}{}{Are you sure you can't reconsider selling me some of those pills?}
+{305}{}{Uau, agora. Não queria pisar no pé de ninguém, doutor. Vou deixar você em paz por um tempo.}
+{310}{}{Diga, doutor, eu estava pensando sobre aquelas pílulas para o coração que você tem aí na prateleira.}
+{311}{}{Tem certeza que não pode pensar de novo em me vender algumas dessas pílulas?}
 {320}{}{Desculpe, o pessoal do vereador Westin deve buscá-los em }
 {321}{}{ dias, }
 {322}{}{ dia, }
 {323}{}{e estou muito ocupado para misturar outro lote em tempo.}
-{324}{}{(Mutters to himself.) Where the hell did I put those pills for Mr. Westin. His heart aint gonna last long without 'em. (He looks up.)
- Oh, sorry. What can I do for you today?}
-{325}{}{I couldn't help overhearing what you said about heart pills. I was actually going to ask you about such medicine.}
-{330}{}{(Mutters to himself.) I can't believe Mr. Westin's dead. Couldn't have been my fault, I measured out those pills precisely. (He looks up) Oh, sorry. What can I do for you today?}
+{324}{}{(Mutters falando para si mesmo.) Onde eu coloquei essas malditas pílulas para o Sr. Westin? O coração dele não aguenta muito
+ sem elas. (Ele olha para cima.) Oh, desculpe. O que eu posso fazer por você hoje?}
+{325}{}{Não pude deixar de ouvir o que você disse sobre pílulas para o coração. Na verdade, eu ia perguntar sobre esse remédio.}
+{330}{}{(Mutters falando para si mesmo.) Eu não acredito que o Sr. Westin está morto. Não pode ser minha culpa, eu calculei tudo com precisão. (Ele olha para cima) Oh, desculpe. O que eu posso fazer por você hoje?}
