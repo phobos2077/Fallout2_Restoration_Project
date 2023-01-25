@@ -24,8 +24,8 @@
 {400}{}{Sim, * soluço * Eu costumo cuidar das sepulturas. Ninguém mais quer * soluço * fazê-lo, então Ol 'Sammy obteve o trabalho. Está
   não tão ruim como se poderia pensar. Tem suas ... vantagens, se você sabe o que quero dizer. [Ele sorri despreocupadamente e meneia o suas espessas
   sobrancelhas para você.]}
-{401}{}{Não. Não sei o que quer dizer, e eu não quero. Tchau.}
-{402}{}{Não. Não sei o que você quer dizer. Mas acho que prefiro pedir outra coisa.}
+{401}{}{Não. Eu não sei o que quer dizer, e eu não quero. Tchau.}
+{402}{}{Não. Eu não sei o que você quer dizer. Mas acho que prefiro pedir outra coisa. }
 {403}{}{Não. Eu não sei o que você quer dizer, mas eu tenho uma mórbida curiosidade...}
 {404}{}{Inferior, sim. Nada me excita como um cadáver podre.}
 {410}{}{Por que, eu tenho que estar ao ar livre, e ninguém liga para o Sammy quando ele já bebeu o suficiente. Eu * sei * quando eu tenho

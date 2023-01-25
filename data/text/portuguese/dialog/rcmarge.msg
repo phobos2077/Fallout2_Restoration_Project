@@ -115,19 +115,19 @@
 {188}{}{$1,000. Right here, right now. You want it or not?}
 {189}{}{OK, I'll take it. Here's the chip.}
 {190}{}{I don't think I want to sell right now.}
-{191}{}{Think you'll get a better offer? Think again, pal. I don't think you'll find a better offer. But
- I guess it's your time.}
-{192}{}{All right, I'll sell it to you. Here's the chip.}
-{193}{}{I think I'd still like to look around a bit more. Goodbye.}
-{194}{}{You made the right choice. Thanks. I'm going to get right on this so we can put that excavator
- machine to work.}
-{195}{}{Great. Hey, let me ask you something else first, though.}
-{196}{}{Thanks for the cash. Goodbye.}
-{197}{}{Yeah? Gee, thanks. I'm getting all warm and cuddly feeling inside. What do you want?}
-{198}{}{I want to ask you about something.}
-{199}{}{Nothing. I'm just looking around. Goodbye.}
-{200}{}{Why not? Actually, I don't know where the name came from. I think it's always been called that.
- Even before I got here. It's got kind of a romantic sound to it, don't it? Ko-ko-weef. Yeah, I still
- like the way that sounds.}
-{201}{}{Uh, yeah. Okay. Uh, what did you say you mine here?}
-{202}{}{Uh huh. Well I'll be leaving now. Goodbye.}
+{191}{}{Acha que vai conseguir uma oferta melhor? Pense de novo, cara. Eu não acho que você
+ pode encontrar uma melhor. Mas acho que é a sua hora.}
+{192}{}{Tudo bem, eu vou te vender. Aqui está a ficha.}
+{193}{}{Acho que vou dar uma olhada em volta mais um pouco. Adeus.}
+{194}{}{Você fez a escolha certa, obrigado. Vou colocar isso no lugar para que possamos colocar aquela
+ escavadeira para trabalhar.}
+{195}{}{Excelente. Ei, deixe eu te perguntar outra coisa primeiro.}
+{196}{}{Obrigado pelo dinheiro. Tchau.}
+{197}{}{Sim? Caramba, valeu. Estou ficando todo quente e fofinho por dentro. O que você quer?}
+{198}{}{Eu quero te perguntar sobre algo.}
+{199}{}{Nada não, estou só dando uma olhada. Tchau.}
+{200}{}{Por que não? Na verdade, não sei de onde veio o nome, acho que sempre foi chamado assim.
+ Antes mesmo de eu chegar aqui. Tem uma espécie de som romântico, não é? Ko-ko-weef. Sim,
+ eu ainda gosto do jeito que soa.}
+{201}{}{Sim, ok. Uh, o que você disse que é meu aqui?}
+{202}{}{Uh, huh. Bem, eu vou sair agora. Tchau.}

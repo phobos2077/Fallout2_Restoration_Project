@@ -62,7 +62,7 @@
 {161}{}{So that's how it's going to be, huh? All right then...}
 {162}{}{I'm the Resident Medical Assistant. I work for Dr. Troy.}
 {163}{}{What do you think of Dr. Troy?}
-{164}{}{Can I ask you some questions?}
+{164}{}{Posso te fazer algumas perguntas?}
 {165}{}{Great. I could use some medical assistance.}
 {166}{}{Sorry, I don't have time to talk right now.}
 {167}{}{Welcome back. Anything I can help you with?}
@@ -82,7 +82,7 @@
 {181}{}{Are you certain? That doesn't sound like Dr. Troy at all. Still... he HAS been working hard lately... no, no, that's impossible. You must be mistaken.}
 {182}{}{I don't think so. He was very clear about what he wanted.}
 {183}{}{Hmmmm. Can I ask you another question?}
-{184}{}{Never mind then.}
+{184}{}{Deixa pra lá então.}
 {185}{}{I would be VERY careful about what you say about Dr. Troy in Vault City. He is a respected member of our community.}
 {186}{}{All right, then. Can I ask you another question?}
 {187}{}{Thanks for the warning. Maybe I should go talk to someone else.}
@@ -123,70 +123,70 @@
 {222}{}{Oh. Ei, tenho algumas outras perguntas…}
 {223}{}{Entendo. Bem, agradeço pela informação.}
 {224}{}{How would that happen?}
-{225}{}{Uh, last I heard, SEX can make someone pregnant.}
-{226}{}{Forget I asked. Look, I had some other questions...}
-{227}{}{Never mind. I better be going.}
-{228}{}{Oh, you mean intercourse? Intercourse is still allowed outside of pregnancy cycles.}
-{229}{}{Doesn't that make people pregnant?}
+{225}{}{Uh, pelo que ouvi, SEXO pode engravidar alguém.}
+{226}{}{Esqueça que eu perguntei. Olha, eu tenho outras perguntas...}
+{227}{}{Deixa para lá. É melhor eu ir.}
+{228}{}{Oh, você quer dizer relação sexual? A relação sexual ainda é permitida fora dos ciclos de gravidez.}
+{229}{}{Isso não deixa as pessoas grávidas?}
 {230}{}{Oh. Ei, tenho algumas outras perguntas…}
 {231}{}{Oh, well. Just thought I'd ask.}
-{232}{}{Oh, no, no... you see, our pregnancies don't result from intercourse.}
-{233}{}{I'm afraid to ask. But I will anyway.}
-{234}{}{I don't want to know any more. I had some other questions, though...}
-{235}{}{I think I've heard enough.}
-{236}{}{Male Citizens "donate" to the Auto-Doc here in the Vault and the most favorable matches are chosen by the computer. Then the appropriate female Citizen is seeded by the Auto-Doc.}
-{237}{}{Can I donate?}
-{238}{}{Don't people still get pregnant from intercourse? What about accidental pregnancies?}
-{239}{}{You know, I would very much like to ask you any other question right now.}
-{240}{}{Would you excuse me? I'm going to go see if I can get my Citizenship revoked.}
-{241}{}{I think I'm going to go somewhere and be violently ill. Goodbye.}
-{242}{}{Certainly. We'd welcome your contribution. Vault City could use some fresh genetic material.}
+{232}{}{Oh, não, não... veja, nossas gravidezes não resultam de relações sexuais.}
+{233}{}{Tenho medo de perguntar. Mas eu vou de qualquer jeito.}
+{234}{}{Eu não quero mais nada. Mas eu tenho algumas outras perguntas...}
+{235}{}{Acho que já ouvi o suficiente.}
+{236}{}{Os cidadãos "doam" para o Auto-Doc aqui na Vault e as doações mais favoráveis são escolhidas pelo computador. Em seguida, a cidadã apropriada é semeada pelo Auto-Doc.}
+{237}{}{Posso doar?}
+{238}{}{As pessoas não engravidam por causa da relação sexual? E gravidez acidental?}
+{239}{}{Sabe, eu gostaria muito de fazer qualquer outra pergunta agora.}
+{240}{}{Você me daria licença? Vou ver se consigo revogar minha cidadania.}
+{241}{}{Acho que vou a algum lugar e ficar gravemente doente. Adeus.}
+{242}{}{Certamente. Agradeceríamos sua contribuição. Vault City poderia usar algum material genético novo.}
 {243}{}{Tudo bem, então...}
-{244}{}{Say, could I get a magazine or something?}
-{245}{}{Your contribution is impressive... you yourself seem to be quite gifted. How do you feel?}
-{246}{}{Excellent! Thank you.}
-{247}{}{Hmmm. Maybe your contribution wasn't as valuable as I thought. Thanks anyway, though.}
-{248}{}{I can honestly say I have never missed the primitive charm of Arroyo more until this moment.}
-{249}{}{I have never felt the need to be held more than at this moment.}
-{250}{}{No, thank YOU.}
-{251}{}{Well, actually... you see, this is something I've been thinking about recently, but Citizens don't seem to have accidental pregnancies. The only successful pregnancies have been facilitated by the Auto-Doc.}
-{252}{}{You know, background radiation might be resulting in sterility or even worse, chromosomal damage. Might be worth checking out.}
-{253}{}{Maybe it's just because they don't have much real sex around here.}
+{244}{}{Diga, posso pegar uma revista ou algo assim?}
+{245}{}{Sua contribuição é impressionante... você mesmo parece ser bastante talentoso. Como você está se sentindo?}
+{246}{}{Excelente! Obrigado.}
+{247}{}{Hmmm. Talvez sua contribuição não tenha sido tão valiosa quanto eu pensava. Obrigado mesmo assim.}
+{248}{}{Posso dizer honestamente que nunca senti tanta falta do charme primitivo de Arroyo até este momento.}
+{249}{}{Nunca senti tanto a necessidade que me abracem como neste momento.}
+{250}{}{Não, EU que te agradeço.}
+{251}{}{Bem, na verdade... veja bem, isso é algo em que tenho pensado ultimamente, mas os cidadãos não parecem ter gravidezes acidentais. As únicas gestações bem-sucedidas foram facilitadas pelo Auto-Doc.}
+{252}{}{Você sabe, a radiação de fundo pode resultar em esterilidade ou pior ainda, dano cromossômico. Pode valer a pena conferir.}
+{253}{}{Talvez seja só porque eles não fazem muito sexo de verdade por aqui.}
 {254}{}{Oh, well. Just thought I'd ask.}
-{255}{}{You know, I was thinking the same thing. Maybe I should mention it to Dr. Troy. He's been too busy to look into it recently, but the next pregnancy cycle IS coming up, so...}
+{255}{}{Sabe, eu estava pensando a mesma coisa. Talvez eu devesse mencionar isso ao Dr. Troy. Ele tem estado muito ocupado para investigar isso ultimamente, mas o próximo ciclo de gravidez ESTÁ chegando, então...}
 {256}{}{Posso fazer mais algumas perguntas?}
-{257}{}{Mentioning it to Dr. Troy would be a good idea. Good luck.}
-{258}{}{It's like they're all... clones. They all dress alike, act alike, and the worst part is that everybody seems happy with it. I... well, sometimes I worry that I'll end up being just like them. That probably sounds silly, huh?}
-{259}{}{Not at all. Pressure to conform must be pretty rough around here, especially considering how insular a community Vault City is.}
+{257}{}{Mencionar isso ao Dr. Troy seria uma boa ideia. Boa sorte.}
+{258}{}{É como se fossem todos... clones. Todos se vestem da mesma forma, agem da mesma forma, e o pior é que todos parecem felizes com isso. Eu... bem, às vezes me preocupo em acabar sendo como eles. Isso provavelmente parece bobo, não é?}
+{259}{}{De jeito nenhum. A pressão para se conformar deve ser muito difícil por aqui, especialmente considerando o quão isolada é a comunidade de Vault City.}
 {260}{}{Oh, well. Just thought I'd ask.}
-{261}{}{Yeah, it can get kind of overwhelming at times. But here I am, bringing down your opinion of Vault City. Don't misunderstand me. It's a great place to live.}
-{262}{}{Just a suggestion, but you might want to travel a little outside of Vault City. Even speak to some of the merchants in the Courtyard. They might be able to broaden your horizons a little.}
-{263}{}{It's got its advantages, no doubt. Can I ask you some other questions?}
-{264}{}{Glad you're happy here. Maybe we'll speak again.}
-{265}{}{Well, I've been tempted to go outside the gate, but the other Citizens have warned me against it...}
-{266}{}{That's just another reason to do it. You don't want to do what the OTHER Citizens do, do you? They're all set in their ways.}
-{267}{}{Well, it can be dangerous out there. Say, can I ask you another question?}
-{268}{}{They're right. It's probably not a good idea. I better be going.}
-{269}{}{You know, you're right. Maybe I will step outside the gate when I get the chance. I'd like to know more about the outside world.}
-{270}{}{Great. Say, can I ask you another question?}
-{271}{}{It'll be good for you. Take care.}
-{272}{}{Pardon me?}
-{273}{}{I couldn't help but notice you're an attractive young woman who could stand to get out once in a while. How about you and I have dinner?}
-{274}{}{Never mind. Can I ask you another question?}
+{261}{}{Sim, às vezes pode ser meio opressor. Mas aqui estou, derrubando sua opinião sobre Vault City. Não me entenda mal, é um ótimo lugar para se viver.}
+{262}{}{Apenas uma sugestão, mas você pode querer viajar um pouco para fora de Vault City. Até fale com alguns dos mercadores no Pátio. Eles podem ser capazes de ampliar um pouco seus horizontes.}
+{263}{}{Tem suas vantagens, sem dúvida. Posso te fazer algumas outras perguntas?}
+{264}{}{Que bom que você está feliz aqui. Talvez voltemos a nos falar.}
+{265}{}{Bem, fiquei tentado a sair pelo portão, mas os outros Cidadãos me avisaram contra isso...}
+{266}{}{Essa é apenas mais uma razão para fazer. Você não quer fazer o que os OUTROS Cidadãos fazem, quer? Eles estão todos obrigados em seus caminhos.}
+{267}{}{Bem, pode ser perigoso lá fora. Olha, posso fazer outra pergunta?}
+{268}{}{Eles estão certos. Provavelmente não é uma boa ideia. É melhor eu ir.}
+{269}{}{Você sabe que está certo. Talvez eu saia do portão quando tiver a chance. Eu gostaria de saber mais sobre o mundo exterior.}
+{270}{}{Ótimo. Olha, posso fazer outra pergunta?}
+{271}{}{Vai ser bom para você. Tome cuidado.}
+{272}{}{Perdão?}
+{273}{}{Não pude deixar de notar que você é uma jovem atraente que costuma sair de vez em quando. Que tal você e eu sairmos para jantar?}
+{274}{}{Deixa para lá. Posso te fazer outra pergunta?}
 {275}{}{Oh, well. Just thought I'd ask.}
-{276}{}{Oh. I... you know, I'd love to, but I can't.}
-{277}{}{Oh. Well, I... I'd love to.}
-{278}{}{Aw, c'mon. I'm new. I'll get into trouble if I go around by myself.}
-{279}{}{All right. Can I ask you some questions then?}
+{276}{}{Oh. Eu... sabe, eu adoraria, mas não posso.}
+{277}{}{Oh. Bem, eu... eu adoraria.}
+{278}{}{Ah, vamos. Sou novo, vou ter problemas se sair por aí sozinho.}
+{279}{}{Tudo bem. Posso te fazer algumas perguntas então?}
 {280}{}{Oh, well. Just thought I'd ask.}
 {281}{}{Grande! Vamos lá.}
-{282}{}{Thanks for the wonderful evening.}
-{283}{}{Uh... sure. Maybe we'll go out some other time. I'll... uh, call you. Bye.}
-{284}{}{I'm sorry, but no.}
-{285}{}{All right. Can I ask you some questions instead?}
+{282}{}{Obrigado pela noite maravilhosa.}
+{283}{}{Claro. Talvez a gente saia outra hora. Eu... uh, ligo para você. Tchau.}
+{284}{}{Sinto muito, mas não.}
+{285}{}{De acordo. Em vez disso, posso fazer algumas perguntas?}
 {286}{}{Oh, well. Just thought I'd ask.}
-{287}{}{Well, it's good to see same-sex prejudice is alive and well in Vault City. Bye.}
-{288}{}{. What do you do around here?}
+{287}{}{Bem, é bom ver que o preconceito com homossexuais esta bem vivo em Vault City. Tchau.}
+{288}{}{. O que você faz por aqui?}
 {289}{}{. Mind if I ask you some questions?}
 {290}{}{Oh well, I thought there weren't any children because this might be the European version of Fallout 2. Goodbye.}
 {291}{}{You have given Vault City a donation and introduced favorable genetic material into their community.}

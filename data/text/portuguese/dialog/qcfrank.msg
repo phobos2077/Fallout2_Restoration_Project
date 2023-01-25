@@ -1,31 +1,31 @@
-{100}{}{You see a huge man-like armored figure.}
-{101}{}{You see Secret Service agent Frank Horrigan.}
-{102}{}{You see a huge man-like creature glaring at you with a look of pure hatred.}
-{103}{}{You're not getting out of here alive, mutie.}
-{104}{}{You damn mutant.}
-{105}{}{Red mutant!}
-{106}{}{You've destroyed us all.}
-{107}{}{You're going to pay for what you've done.}
-{108}{ssa2}{You (cough), you haven't won here. You and your mutie-bastard friends are gonna join me in a big ol' mushroom cloud sendoff. I just triggered the self-destruct. (Heh, heh; cough, cough...) The work will go on. You didn't do nothing here, 'cept seal your own death warrants. Duty, (cough) honor... courage... Semper Fiiiii...}
-{109}{ssa2}{You (cough), you haven't won here. You and your mutie-bastard friends are gonna join me in a big ol' mushroom cloud sendoff. I just triggered the self-destruct. (Heh, heh; cough, cough...) The work will go on. You didn't do nothing here, 'cept seal your own death warrants. Duty, (cough) honor... courage... Semper Fiiiii...}
-{110}{}{Uh-oh. Bad happen here. Me run ship now.}
-{111}{}{I better get to the ship and get the hell out of here.}
-{112}{ssa3alt}{You've gotten a lot farther than you should have, but then you haven't met Frank Horrigan either. Your ride's over, mutie. Time to die.}
-{113}{}{I'm going past you whether you like it or not.}
-{114}{}{Can't we talk this over?}
-{115}{ssa4a}{Dumping the F.E.V. toxin into our air doesn't make you a hero. You're just another mutant that needs to be put down.}
-{116}{ssa4b}{Making our reactor melt-down means that things are going to be pretty hot in here soon. Pity you won't live long enough to see it. You're not a hero; you're just a walking corpse.}
-{117}{}{You talk the talk but can you walk the walk? I don't think so.}
-{118}{}{Wait a minute! Hold on! Can't we talk this over?}
-{119}{ssa5}{We just did. Time for talking's over.}
-{120}{}{So be it.}
-{121}{}{Wait!}
-{130}{ssa7}{Me, Frank Horrigan, that's who. United States Secret Service. You aren't going anywhere from here.}
-{131}{}{I'm going past you whether you like it or not.}
-{132}{}{Hold on, let's talk this over.}
-{133}{}{I'm not going anywhere 'til I stomp your ugly mug out of existence.}
-{134}{}{Huh? Frank who?}
-{135}{}{There's only one mutant here, and that's you. Time to die, freak.}
-{140}{ssa6}{You mutant scum! Just like you to try a trick like that. It won't help you though, nothing will now.}
-{141}{}{I'm going past you and there's nothing you can do about it.}
-{142}{}{Wait, let's talk this over.}
+{100}{}{Você vê uma enorme figura humanoide com armadura poderosa.}
+{101}{}{Você vê o agente do Serviço Secreto, Frank Horrigan.}
+{102}{}{Você vê uma enorme criatura parecida com um homem olhando para você com um olhar de puro ódio.}
+{103}{}{Você não vai sair daqui vivo, mutante.}
+{104}{}{Mutante maldito.}
+{105}{}{Mutante vermelho!}
+{106}{}{Voce destruiu a todos.}
+{107}{}{Você vai pagar pelo que fez.}
+{108}{ssa2}{Você (tosse), você não ganhou nada. Você e seus amigos malditos vão se juntar a mim em uma grande e bela despedida em uma nuvem de cogumelo. Acabei de ativar a autodestruição. (Heh, heh; tosse, tosse...) O trabalho vai continuar. Você não fez nada aqui, exceto selar sua própria sentença de morte. Dever, (tosse) honra... coragem... Semper Fiiiii...}
+{109}{ssa2}{Você (tosse), você não ganhou nada. Você e seus amigos malditos vão se juntar a mim em uma grande e bela despedida em uma nuvem de cogumelo. Acabei de ativar a autodestruição. (Heh, heh; tosse, tosse...) O trabalho vai continuar. Você não fez nada aqui, exceto selar sua própria sentença de morte. Dever, (tosse) honra... coragem... Semper Fiiiii...}
+{110}{}{Uh-oh. Algo ruim aconteceu. Eu dirijo o navio agora.}
+{111}{}{É melhor eu ir para o navio e dar o fora daqui.}
+{112}{ssa3alt}{Você foi muito mais longe do que deveria, mas ainda não conheceu Frank Horrigan. Seu passeio acabou, mutante. Hora de morrer.}
+{113}{}{Eu vou passar por cima de você, querendo ou não.}
+{114}{}{Não podemos só conversar sobre isso?}
+{115}{ssa4a}{Despejando a toxina F.E.V. em nosso ar não faz de você um herói. Você é apenas mais um mutante que precisa ser aniquilado.}
+{116}{ssa4b}{Fazer nosso reator derreter significa que as coisas vão ficar bem quentes aqui em breve. Pena que você não viverá o suficiente para ver. Você não é um herói; você é apenas um cadáver ambulante.}
+{117}{}{Você fala muito, mas sabe fazer mais alguma coisa? Acho que não.}
+{118}{}{Espere um minuto! Espere! Não podemos conversar sobre isso?}
+{119}{ssa5}{Ja esta feito. O tempo de falar acabou.}
+{120}{}{Que assim seja.}
+{121}{}{Espere!}
+{130}{ssa7}{Eu, Frank Horrigan, quem sou. Ao Serviço Secreto dos Estados Unidos. Você não vai a lugar nenhum daqui.}
+{131}{}{Eu vou passar por cima de você, querendo ou não.}
+{132}{}{Espere, vamos conversar sobre isso.}
+{133}{}{Eu não vou a lugar nenhum sem acabar com sua existência deprimente.}
+{134}{}{Huh? Frank o que?}
+{135}{}{Há apenas um mutante aqui, e é você. Hora de morrer, aberração.}
+{140}{ssa6}{Sua escória mutante! Você pode tentar outro truque como esse, mas isso não vai te ajudar, nada vai te ajudar.}
+{141}{}{Vou passar por você e não há nada que você possa fazer a respeito.}
+{142}{}{Espere, vamos conversar sobre isso.}

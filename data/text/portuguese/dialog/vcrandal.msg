@@ -80,21 +80,21 @@
 {179}{}{All right. Where is she?}
 {180}{}{I see. Mind if I ask you another question?}
 {181}{}{Thanks for the information. I'll go look for her.}
-{182}{}{She's in the Council Building... head out the building here, make a right, and keep heading down the street past the park. You should run right smack into it.}
+{182}{}{Ela está no Prédio do Conselho... saia do prédio aqui, vire à direita e continue descendo a rua passando pelo parque. Você deve chegar direto nele.}
 {183}{}{I see. Mind if I ask you another question?}
 {184}{}{Thanks for the information. I'll go look for her.}
-{185}{}{Really? Can't say I recall you. You got any papers on you? Might clear up the matter.}
-{186}{}{No, I don't have them on me right now.}
-{187}{}{Yes. Here you go.}
-{188}{}{Never mind. I'll talk to you later.}
-{189}{}{Well, let me run it through the reader here, and we'll just make sure everything's on the up and up. Won't take but a moment.}
-{190}{}{Wh-?! Whoa! Give those papers back!}
-{191}{}{Uh... actually, I don't have time to buy anything right now. Let me have the papers back, and I'll be on my way.}
-{192}{}{All right. I'm sure everything's in order.}
-{193}{}{Well... uh, all right.}
-{194}{}{Mind if I ask you some questions?}
-{195}{}{I'll see you later.}
-{196}{}{Everything checks out. Here's your papers back. What can I do for you?}
+{185}{}{Sério? Não posso dizer que me lembro de você. Tem algum documento com você? Isso esclareceria o assunto.}
+{186}{}{Não, eu não os tenho comigo agora.}
+{187}{}{Sim. Aqui está.}
+{188}{}{Deixa para lá. Falo com você mais tarde.}
+{189}{}{Bem, deixe-me passar pelo leitor aqui, e vamos apenas garantir que tudo esteja em ordem. Não vai demorar, mas um momento.}
+{190}{}{O qu-?! Hey! Devolva esses documentos!}
+{191}{}{Uh... na verdade, não tenho tempo para comprar nada agora. Me deixe pegar os papéis de volta e vou embora.}
+{192}{}{Tudo bem. Tenho certeza que está tudo em ordem.}
+{193}{}{Bem... uh, tudo bem.}
+{194}{}{Se importa se eu te fizer algumas perguntas?}
+{195}{}{Vejo você mais tarde.}
+{196}{}{Tudo confere, pegue de volta seus documentos. O que posso fazer por você?}
 {197}{}{Let me see what you have in stock.}
 {198}{}{Actually, do you mind if I ask you some questions instead?}
 {199}{}{Nothing today, actually.}
@@ -104,7 +104,7 @@
 {203}{}{Actually, never mind, I'll come back later for it.}
 {204}{}{Okay, here you go. One Hy-Mag. Kinda looks like a lava lamp, doesn't it? Oh, don't drop it... it's pretty fragile.}
 {205}{}{Say, what else do you have in stock?}
-{206}{}{Mind if I ask you some questions?}
+{206}{}{Se importa se eu te fizer algumas perguntas?}
 {207}{}{Thanks. I might stare at this for a few hours before taking it to the Gecko plant.}
 {208}{}{Got it. Thanks for the part.}
 {209}{}{Yeah, the First Citizen said you'd be stopping by... Captain. (Winks.) Let me tell you, Captain, you've got a BEAUTY waiting for you.}

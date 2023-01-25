@@ -10,11 +10,11 @@
 {109}{}{Por quê?}
 {110}{}{Sorry, I have a job to do.}
 {111}{}{Those creatures are the only thing stopping Vault City from making us their so-called "servants".}
-{112}{}{Look, they're paying me to get rid of these beasts, so that's what I'm gonna do.}
-{113}{}{They didn't tell me that.}
-{114}{}{They're paying me to get rid of them, and the job's done.}
-{115}{}{You idiot! Why the hell did you do that!}
-{116}{}{I needed the money.}
+{112}{}{Olha, eles estão me pagando para me livrar dessas feras, então é isso que vou fazer.}
+{113}{}{Eles não me disseram isso.}
+{114}{}{Eles estão me pagando para me livrar deles, e o trabalho está feito.}
+{115}{}{Seu idiota! Por que você fez isso!}
+{116}{}{Precisava do dinheiro.}
 {117}{}{They'll come for us if you do that, you know.}
 {118}{}{Not my problem.}
 {119}{}{Well I hope you choke on it. They'll be here for us soon.}
@@ -77,16 +77,16 @@
 {166}{}{My name is - }
 {167}{}{Thank you, }
 {168}{}{, but what about the money I gave you to buy the guns?}
-{169}{}{You are always welcome here! Goodbye.}
-{170}{}{Yes, but I don't think you're gonna need them. At least not against Vault City. You see, I've convinced the Vault City council not to touch your village.}
-{171}{}{I'll do it. I have some questions before I go though.}
+{169}{}{Você é sempre bem vindo aqui! Adeus.}
+{170}{}{Sim, mas acho que não vai precisar deles. Pelo menos não contra Vault City. Veja, convenci o conselho de Vault City a não tocar em sua vila.}
+{171}{}{Vou fazer isso. Eu tenho algumas perguntas antes de ir embora.}
 {172}{}{Deixa pra lá. Tchau.}
-{173}{}{Not yet. I'll return when I have them.}
-{174}{}{Thanks! See you around.}
-{200}{}{It just so happens that I've already got what you need right here.}
-{201}{}{As it turns out, I'm already carrying all those guns. I suppose I could spare a few, but are you sure this is the best way to go about this?}
-{202}{}{I've got the guns you need, but honestly, I think there could be a better way to do this. There's a reasonable man on the council in Vault City, Senior Council Member McClure. I'm sure I could get him to convince the council to come to a peaceful solution.}
-{203}{}{Honestly, I think there could be a better way to do this. There's a reasonable man on the council in Vault City, Senior Council Member McClure. I'm sure I could get him to convince the council to come to a peaceful solution.}
+{173}{}{Ainda não. Voltarei quando os tiver.}
+{174}{}{Obrigado! Até a próxima.}
+{200}{}{Acontece que eu já tenho o que você precisa aqui.}
+{201}{}{Acontece que já estou carregando todas essas armas. Suponho que poderia dispensar algumas, mas você tem certeza de que esta é a melhor maneira de fazer isso?}
+{202}{}{Tenho as armas que você precisa, mas honestamente, acho que poderia haver uma maneira melhor de fazer isso. Há um homem razoável no conselho em Vault City, o membro sênior do conselho McClure. Tenho certeza de que conseguiria convencê-lo a chegar a uma solução pacífica.}
+{203}{}{Honestamente, acho que poderia haver uma maneira melhor de fazer isso. Há um homem razoável no conselho em Vault City, o membro sênior do conselho, McClure. Tenho certeza de que conseguiria convencê-lo a chegar a uma solução pacífica.}
 {205}{}{Ha! You really think any of those big shot council members give a damn about what happens to us? Don't be so naive my friend, those bastards in Vault City can't be trusted. Now please, go find Joe in the Vault City courtyard. If he's not in the bar, then he's probably not far from it. Old Joe will know what to do. You can trust him. Please hurry.}
 {206}{}{Ok. I'll report back when I have some news.}
 {210}{}{Trust me, we've considered the alternative, but the only thing these Vault City bastards will respond to is violence. Now, will you give us the weapons? I'll pay $5,000 for em. No price can be set on freedom.}

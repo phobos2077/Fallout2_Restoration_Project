@@ -19,7 +19,7 @@
 {118}{}{Nie. Mam jeszcze kilka pytań.}
 {119}{}{Jasne.}
 {120}{}{Wynajduję nowe technologie i korzystam nieco z kultystycznego garnuszka, jeżeli wiesz, o co mi chodzi.}
-{121}{}{So you're not a Hubologist?}
+{121}{}{A więc nie jesteś Centrologiem?}
 {122}{}{Rozumiem. Mam też inne pytania.}
 {123}{}{Nie. Co masz na myśli?}
 {124}{}{Jakie nowe technologie udało ci się wynaleźć?}

@@ -81,32 +81,32 @@
 {180}{}{ and they just hate each other. What's your bet?}
 {181}{}{This one's a real grudge-match. The best of the best }
 {182}{}{ against }
-{183}{}{. Which one's your money on?}
-{184}{}{I've never put on a lineup this close before. }
-{185}{}{ fighting }
-{186}{}{ this round. Should be a good fight. Which ways' your money going?}
-{187}{}{Champion }
-{188}{}{ against up and coming }
-{189}{}{. Quite a match. Which one's your lucky number today?}
-{190}{}{Okay. Here's the action. }
-{191}{}{ is takin' on good old }
-{192}{}{. You won't see a fight like this one again anytime soon. What's your pleasure?}
-{193}{}{I'll put my money on }
+{183}{}{. Onde você coloca seu dinheiro?}
+{184}{}{Eu nunca fiz esse emparelhamento. }
+{185}{}{ luta }
+{186}{}{ esta vez. Deve ser uma boa luta. Para que lado está indo seu dinheiro?}
+{187}{}{Campeão }
+{188}{}{ contra o aspirante }
+{189}{}{. Uma luta e tanto. Qual é o seu número da sorte hoje?}
+{190}{}{Muito bem. Isto é o que temos. }
+{191}{}{ enfrenta o bom e velho }
+{192}{}{. Você não verá uma luta como esta novamente tão cedo. Quem você prefere?}
+{193}{}{Eu aposto em }
 {194}{}{.}
-{195}{}{I'll put my money on }
+{195}{}{Eu aposto em }
 {196}{}{.}
-{197}{}{Hmm, I think I'll sit this one out. }
-{198}{}{I think I've had enough of this for today. I'll see you some other time. Goodbye.}
-{199}{}{Here you go champ. Here's your winnings. That's the last fight today. Come back tomorrow if you want more action.}
-{200}{}{More to come. You want to bet on the next fight?}
-{201}{}{I sure do.}
-{202}{}{I think I'll sit this next one out.}
-{203}{}{Look, nobody's forcing you to bet on them, are they? You don't like what you see here, then just keep walkin', you won't be missed. Understand?}
+{197}{}{Hmm, acho que vou passar essa. }
+{198}{}{Acho que já chega disso por hoje. Vejo você outra hora. Adeus.}
+{199}{}{Aqui está campeão, esses são seus ganhos. Essa é a última luta hoje. Volte amanhã se quiser mais ação.}
+{200}{}{Temos mais. Quer apostar na próxima luta?}
+{201}{}{Claro que sim.}
+{202}{}{Acho que vou ficar de fora dessa próxima.}
+{203}{}{Ei, ninguém está forçando a apostar, certo? Se você não gosta do que vê aqui, então siga seu caminho, você não fará falta. Entendeu?}
 {204}{}{Eu entendo.}
-{205}{}{What a shot! }
-{206}{}{ took out }
-{207}{}{ in the very first round! What action!}
-{208}{}{Wow, that was close but }
+{205}{}{Que golpe! }
+{206}{}{ derrubou }
+{207}{}{ logo no primeiro assalto! Impressionante!}
+{208}{}{Uau, passou raspando, mas }
 {209}{}{ won this, last battle of the day. I'll pay everyone off, but come on back tomorrow for more great action.}
 {210}{}{What a gore-fest! I can't remember ever seeing a fight like that. The winner is }
 {211}{}{. Let me pay everyone off and we'll start the next round.}
@@ -114,21 +114,21 @@
 {213}{}{E o ganhador é...}
 {214}{}{ by a blood-soaked claw. Let me pay everyone off and we'll start the next round.}
 {215}{}{I just wanted to say that Ascorti's is going to be running a special on, uh, *steaks* tonight. It'll be just a moment while we drag the loser from the field. }
-{216}{}{ wins this fight! Let me pay everyone off and we'll start the next round.}
-{217}{}{It looks as though }
-{218}{}{ won. I've never seen a trouncing like that. Let me pay everyone off and we'll start the next round.}
-{219}{}{Wahoo! I won.}
-{220}{}{Yes! That's the ticket!}
-{221}{}{I've got a real talent for this.}
-{222}{}{I sure know my critter-flesh.}
-{223}{}{Damn. I lost.}
-{224}{}{Just my luck.}
-{225}{}{That could have gone better.}
-{226}{}{Maybe next time I'll pick better.}
-{227}{}{Good thing I didn't bet on that one.}
-{228}{}{I'm glad I held onto my money.}
-{229}{}{That would've cost me.}
-{230}{}{That was a good fight. Glad I didn't bet on it though.}
+{216}{}{ ganha essa luta! Deixe eu pagar a todos e começaremos a próxima rodada.}
+{217}{}{Parece que }
+{218}{}{ ganhou. Nunca vi uma surra assim. Deixe eu pagar a todos e começaremos a próxima rodada.}
+{219}{}{Uou! Eu Ganhei.}
+{220}{}{isso! Bem desse jeito!}
+{221}{}{Eu tenho um verdadeiro talento para isso.}
+{222}{}{Conheço bem o meu bicho.}
+{223}{}{Desgraça, eu perdi.}
+{224}{}{Só a minha sorte.}
+{225}{}{Isso poderia ter sido melhor.}
+{226}{}{Talvez da próxima vez eu escolha melhor.}
+{227}{}{Ainda bem que não apostei nisso.}
+{228}{}{Ainda bem que guardei meu dinheiro.}
+{229}{}{Isso teria me dado prejuízo.}
+{230}{}{Essa foi uma boa luta. Ainda bem que não apostei nisso.}
 {231}{}{Ok, obrigado.}
 {300}{}{Keen Squeek}
 {301}{}{Vicky}
@@ -138,43 +138,43 @@
 {305}{}{Marengo}
 {306}{}{Jackelope}
 {307}{}{Assassino}
-{308}{}{Boss}
+{308}{}{Chefe}
 {310}{}{Petroleiro}
 {311}{}{Muttley}
 {312}{}{Spud}
 {313}{}{Larry}
-{314}{}{Joe}
+{314}{}{Zé}
 {315}{}{Kong}
 {316}{}{Gorgo}
 {317}{}{Willard}
 {318}{}{Ben}
 {320}{}{Stumpy}
-{321}{}{Shredder}
+{321}{}{Trituradora}
 {322}{}{Ripper}
 {323}{}{Skree}
 {324}{}{Buban}
 {325}{}{Bongo}
-{326}{}{One-eye}
-{327}{}{Spot}
-{328}{}{Lord Wiggler}
+{326}{}{Caolho}
+{327}{}{Mancha}
+{328}{}{Visconde de Sabugosa}
 {330}{}{Sortudo}
-{331}{}{Zoroaster the Great}
+{331}{}{Zoroaster O Grande}
 {332}{}{Shub}
 {333}{}{Usuthu}
 {334}{}{Growler}
 {335}{}{Puggsly}
-{336}{}{Precious}
+{336}{}{Tesouro}
 {337}{}{Fraggle}
-{338}{}{Captain Midnight}
+{338}{}{Capitão Meia Noite}
 {340}{}{Martelo}
-{341}{}{Secretariat}
-{342}{}{Man o' War}
+{341}{}{Secretaria}
+{342}{}{Manowar}
 {343}{}{Sancho Panza}
 {344}{}{Loki}
 {345}{}{Cerberus}
 {346}{}{Grendel}
-{347}{}{Lady Penelope}
-{348}{}{Mr. Baggins}
+{347}{}{Penelope Charmosa}
+{348}{}{Sr. Baggins}
 {350}{}{Relâmpago}
 {351}{}{Percy}
 {352}{}{Flor}

@@ -107,15 +107,15 @@
 {186}{}{How can those people help a takeover?}
 {187}{}{Who's Marge LeBarge?}
 {188}{}{Who's Dan McGrew?}
-{189}{}{Who's Doc Johnson?}
+{189}{}{Quem é o Dr. Johnson?}
 {190}{}{Who's Mayor Ascorti?}
 {191}{}{Thanks for the info. Goodbye.}
 {192}{}{People are going to get hurt because this kind of change doesn't come easy. Those that think
  they're not going to get the prize get it in their mind to not let anyone else get it, either. The
  only way to avoid that is if we decide to go with one of the powers and make a quick alliance before
  the others catch on.}
-{193}{}{What do you think will happen?}
-{194}{}{I see. Thanks. Goodbye.}
+{193}{}{O que você acha que acontecerá?}
+{194}{}{Entendo. Obrigado, tchau.}
 {195}{}{I think that the folks here will follow Mayor Ascorti's lead. He's a crook, but people trust
  that. He'll go with whoever's strongest. You see, whatever's good for Ascorti is also going to be good
  for Redding. I think he just hasn't figured out who's closest to being on top yet. But he's got to
@@ -126,7 +126,7 @@
  working mines left in Redding. I think that Marge's more of an NCR type. I don't think she likes their
  prudishness, but she recognizes power when she sees it.}
 {199}{}{Who's Dan McGrew?}
-{200}{}{Who's Doc Johnson?}
+{200}{}{Quem é o Dr. Johnson?}
 {201}{}{Who's Mayor Ascorti?}
 {202}{}{How can these people help a takeover?}
 {203}{}{Thanks for the info. Goodbye.}
@@ -134,19 +134,19 @@
  are the only two working mines left in Redding. I think Dan is leaning more towards New Reno, if I had
  to guess. He likes his miners doped up and happy.}
 {205}{}{Who's Marge LeBarge?}
-{206}{}{Who's Doc Johnson?}
+{206}{}{Quem é o Dr. Johnson?}
 {207}{}{Who's Mayor Ascorti?}
 {208}{}{How can these people help a takeover?}
 {209}{}{Thanks for the info. Goodbye.}
 {210}{}{Ascorti's the Mayor. He runs Ascorti's Ace downtown. He takes care of buying and selling a lot
  of stuff. He's right in the middle of all kinds o' thangs.}
-{211}{}{Ascorti's the Mayor of Redding. But I don't rightly know where he is. Haven't seen him around
- for a stretch.}
+{211}{}{Ascorti é o prefeito de Redding. Mas não sei direito onde ele está, faz um bom tempo que não
+ o vejo por aí.}
 {212}{}{Deixa eu te perguntar outra coisa.}
-{213}{}{I think I've listened to you long enough. Goodbye.}
+{213}{}{Acho que já ouvi você o suficiente. Adeus.}
 {214}{}{Jet is a wonderful drug that helps me to take the edge of this miserable existence, darling.}
 {215}{}{Deixe-me perguntar-lhe algo mais.}
-{216}{}{Interesting. Thanks and goodbye.}
+{216}{}{Interessante. Obrigado e adeus.}
 {217}{}{Jet's a drug that helps me to feel truly alive. I'm a real sky-pilot with Jet.}
 {218}{}{Deixe-me perguntar-lhe algo mais.}
 {219}{}{Interesting. Thanks, and goodbye.}
@@ -177,6 +177,6 @@
  few scruples left, but mostly he'll do what's right for Redding in order to keep his own interests safe.}
 {236}{}{Who's Marge LeBarge?}
 {237}{}{Who's Dan McGrew?}
-{238}{}{Who's Doc Johnson?}
+{238}{}{Quem é o Dr. Johnson?}
 {239}{}{How can these people help a takeover?}
 {240}{}{Thanks for the info. Goodbye.}

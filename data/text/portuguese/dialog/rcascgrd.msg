@@ -1,93 +1,93 @@
-{100}{}{You see a burly-looking guard checking you out.}
-{101}{}{You see one of Ascorti's security people.}
-{102}{}{You see a competent, vigilant guard watching the crowd.}
-{103}{}{Keep your hands off our stack, Jack.}
-{104}{}{Gettin' greedy's gonna cost you.}
-{105}{}{You shoulda known better than that.}
-{106}{}{You thought you'd get away with that?}
-{107}{}{You ain't gonna be able to spend anything now.}
-{108}{}{There's gonna be a fee for this withdrawal.}
-{109}{}{And I was just thinking how bored I am. Thanks, stranger.}
-{110}{}{Yeah, party time begins.}
-{111}{}{What a maroon. }
-{112}{}{You'd think that even someone like you would know better than that.}
-{113}{}{And I was just starting to get bored too.}
-{114}{}{Yeah! Party's on!}
+{100}{}{Você vê um guarda corpulento te analisando de perto.}
+{101}{}{Você vê um dos seguranças de Ascorti.}
+{102}{}{Você vê um guarda competente e vigilante observando a multidão.}
+{103}{}{Mantenha suas mãos longe de nossa pilha, campeão.}
+{104}{}{Ficar ganancioso vai custar caro.}
+{105}{}{Você deveria saber mais do que isso.}
+{106}{}{Você pensou que iria se safar disso?}
+{107}{}{Você não vai poder gastar nada agora.}
+{108}{}{Essa retirada terá um preço.}
+{109}{}{Eu só estava pensando em como estou entediado. Obrigado, estranho.}
+{110}{}{Sim, a festa começa.}
+{111}{}{Boludo imbecil. }
+{112}{}{Você pensaria que mesmo alguém como você poderia fazer melhor do que isso.}
+{113}{}{Eu estava começando a ficar entediado também.}
+{114}{}{Sim! A festa começou!}
 {115}{}{Vamos dançar.}
-{116}{}{Ready to rumble?}
-{117}{}{Oh yeah, bring it on, badman.}
-{118}{}{I wanna see what your insides look like.}
-{119}{}{Glad I'm not going to hafta clean up the mess your guts are gonna make in here.}
-{120}{}{I ain't had a good fight for a week now.}
-{121}{}{Oh yeah, oh yeeeeaaahhh!}
-{122}{}{Good to go here.}
-{123}{}{Don't fuck with the customers.}
-{124}{}{You'll see what full service is all about.}
-{125}{}{You can't attack the guests and get away with it.}
-{126}{}{This ain't that kind of place, pally.}
-{127}{}{No disruptin' the boss's business.}
-{128}{}{You just gambled with your life, and lost.}
-{129}{}{Looks like you're gonna lose this one.}
-{130}{}{Gonna turn you into scraps for startin' a fight in here.}
-{131}{}{You dumbass.}
-{132}{}{You can't do that and live.}
-{133}{}{Time to take you outta' da' gene-pool.}
-{134}{}{You shoulda known better.}
-{135}{}{Sorry it had to come to this.}
-{136}{}{You loser.}
-{137}{}{Gotta keep the peace here.}
-{138}{}{This is gonna hurt you more'n us.}
-{139}{}{Gotta pay to play, pal.}
-{140}{}{Told you to knock it off. Too bad you didn't listen.}
-{141}{}{Now we've gotta come down hard on you.}
+{116}{}{Pronto para fazer barulho?}
+{117}{}{Oh sim, vamos lá, malvadão.}
+{118}{}{Quero ver o que você tem por dentro.}
+{119}{}{Ainda bem que não vou ter que limpar a bagunça que suas entranhas vão fazer aqui.}
+{120}{}{Faz uma semana que não tenho uma luta boa.}
+{121}{}{Oh sim, oh siiiiiiiiiiiiiuuuuu!}
+{122}{}{Estou feliz por ter vindo.}
+{123}{}{Não brinque com os clientes.}
+{124}{}{Você verá como todo o serviço é completo.}
+{125}{}{Você não pode atacar os convidados e sair impune.}
+{126}{}{Aqui não é esse tipo de lugar, amigo.}
+{127}{}{Fique fora dos negócios do chefe.}
+{128}{}{Você apostou sua vida e perdeu.}
+{129}{}{Parece que você vai perder essa.}
+{130}{}{Vou te deixar em pedaços por ter começado essa briga.}
+{131}{}{Seu imbecil.}
+{132}{}{Você não pode fazer isso e sair vivo.}
+{133}{}{É hora do pau.}
+{134}{}{Você deveria saber melhor.}
+{135}{}{Desculpe, tive que chegar nisso.}
+{136}{}{Perdedor.}
+{137}{}{Tenho que manter a paz aqui.}
+{138}{}{Isso vai doer mais em você do que em nós.}
+{139}{}{Tem que pagar pra jogar, amigo.}
+{140}{}{Disse para parar com isso, pena que você não ouviu.}
+{141}{}{Agora temos que pegar pesado com você.}
 {142}{}{Isso vai ser bem doloroso... para você.}
-{143}{}{Better put up that gat, pal.}
-{144}{}{We don't want any trouble here, friend. Put that away.}
-{145}{}{Better put that piece away.}
-{146}{}{Keep it in the holster, bub.}
+{143}{}{Melhor colocar esse negócio, amigo.}
+{144}{}{Não queremos problemas aqui, amigo. Se afaste.}
+{145}{}{Melhor guardar esse negócio.}
+{146}{}{Guarde isso no coldre, amigo.}
 {147}{}{Guarde essa arma.}
-{148}{}{Better put up that weapon.}
-{149}{}{Keep your hands off the weapons while you're in here.}
-{150}{}{Put that weapon away, pal.}
-{151}{}{Sorry, gotta ask you to put that weapon away.}
-{152}{}{Put your weapon away. We want things to stay friendly here.}
-{153}{}{Just keepin' things in line here.}
-{154}{}{Play nice.}
-{155}{}{Keep things nice and frosty.}
+{148}{}{Melhor guardar essa arma.}
+{149}{}{Deixe suas mãos longe das armas enquanto estiver aqui.}
+{150}{}{Guarde essa arma, amigo.}
+{151}{}{Desculpe, preciso pedir para você guardar essa arma.}
+{152}{}{Guarde sua arma. Queremos que as coisas continuem tranquilas aqui.}
+{153}{}{Só deixando as coisas na linha aqui.}
+{154}{}{Jogue limpo.}
+{155}{}{Mantenha as coisas tranquilas aqui.}
 {156}{}{Mova-se.}
-{157}{}{Nothing to see here.}
+{157}{}{Nada para ver aqui.}
 {158}{}{Tenha um bom dia.}
-{159}{}{Welcome to Ascorti's.}
-{160}{}{Play friendly.}
+{159}{}{Bem-vindo ao Ascorti's.}
+{160}{}{Jogue limpo.}
 {161}{}{Tenha um bom dia.}
-{162}{}{Everyone's an Ace here at Ascorti's.}
-{163}{}{So then I says to them, get your hands off my...}
-{164}{}{I can't believe that someone'd be dumb enough to double up on that.}
-{165}{}{Yup, that's a sucker-bet if I ever saw one.}
-{166}{}{Man, I don't feel so great.}
-{167}{}{That Ascorti's one sharp customer.}
-{168}{}{Psst, straighten up, the boss's looking.}
-{169}{}{See, it was like this, there was at least twenty...}
-{170}{}{That Gecko pie's givin' me heartburn.}
-{171}{}{Late night last night?}
-{172}{}{You gotta still be hung over after that.}
-{173}{}{Breakin' the law, breakin' the law.}
-{174}{}{You can't come into our town and do that.}
-{175}{}{You can't pull that kind of shit here.}
-{176}{}{We don't need your kind here.}
-{177}{}{Somebody's gotta stomp you flat.}
-{178}{}{There's a stink in this town and I think it's you.}
-{179}{}{I smell shitheel... oh, there you are.}
-{180}{}{Get out of our town, fucknut.}
-{181}{}{I ain't popped a skull for too long.}
-{182}{}{I'm gonna watch you bleed for that one.}
-{183}{}{Did you *really* think we wouldn't notice?}
-{184}{}{I can't believe you're pulling that shit right in front of us.}
-{185}{}{Uh, excuse me. KNOCK THAT SHIT OFF!}
-{186}{}{Stop fucking with the door, you idiot.}
+{162}{}{Todo mundo um ás aqui no Ascorti's.}
+{163}{}{Então eu disse para eles, deixem suas mãos longe de mim...}
+{164}{}{Não da pra acreditar que alguém é estúpido o bastante para cair nessa.}
+{165}{}{Sim, se eu já vi uma aposta ruim, é esta.}
+{166}{}{Cara, eu não me sinto muito bem.}
+{167}{}{Um dos melhores clientes de Ascorti.}
+{168}{}{Psst, se endireite, o chefe está olhando.}
+{169}{}{Olha, era assim mesmo, tinha pelo menos uns vinte...}
+{170}{}{Essa torta de Gecko está me dando azia.}
+{171}{}{Tarde da noite ontem?}
+{172}{}{Você ainda deve estar de ressaca depois disso.}
+{173}{}{Quebrando a lei, quebrando a lei.}
+{174}{}{Você não pode entrar em nossa cidade e fazer isso.}
+{175}{}{Você não pode puxar ir sacando essas merdas aqui.}
+{176}{}{Não precisamos da sua laia aqui.}
+{177}{}{Alguém vai te quebrar.}
+{178}{}{Essa cidade esta fedendo e acho que é você.}
+{179}{}{Sinto cheiro de merda... oh, e aí está você.}
+{180}{}{Saia da nossa cidade, filho da puta.}
+{181}{}{Faz tempo que eu não estouro uns miolos.}
+{182}{}{Vou te fazer sangrar por isso.}
+{183}{}{Você *realmente* achou que não iríamos notar?}
+{184}{}{Não acredito que você está puxando essa merda bem na nossa frente.}
+{185}{}{Ah, desculpe. ACABE COM ESSA MERDA!}
+{186}{}{Pare de foder com a porta, seu idiota.}
 {187}{}{O que você está fazendo?}
-{188}{}{Sheesh, just a lower quality of criminals every day. }
-{189}{}{Step away from the door.}
-{190}{}{Don't touch that door again.}
-{191}{}{Step away from the door.}
-{192}{}{Don't touch that door again.}
+{188}{}{Pfff, quantos criminosos sem qualidade hoje em dia. }
+{189}{}{Se afaste da porta.}
+{190}{}{Não toque nessa porta de novo.}
+{191}{}{Se afaste da porta.}
+{192}{}{Não toque nessa porta de novo.}

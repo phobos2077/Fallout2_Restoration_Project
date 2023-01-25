@@ -1,19 +1,19 @@
-{100}{}{You see a tall, slender man.}
-{101}{}{You see Matt.}
-{102}{}{You see a tall, slender man with short hair and a wild look in his eye. You can feel him staring
- back at you.}
-{103}{}{Is there something that I can help you with, stranger?}
-{104}{}{Me ask questions?}
-{105}{}{No, wavy.}
-{106}{}{Yes, I'd like to ask you some questions.}
-{107}{}{No, I'll be leaving.}
+{100}{}{Você vê um homem alto e magro.}
+{101}{}{Você vê Matt.}
+{102}{}{Você vê um homem alto e magro com cabelo curto e um olhar selvagem em seus olhos. Você
+ pode senti-lo olhando para você.}
+{103}{}{Há algo em que eu possa ajudá-lo, estranho?}
+{104}{}{Faço perguntas?}
+{105}{}{Não, vou.}
+{106}{}{Sim, gostaria de te fazer algumas perguntas.}
+{107}{}{Não, eu vou embora.}
 {108}{}{O que você quer?}
 {109}{}{Quem é você?}
-{110}{}{You prisoner?}
+{110}{}{Seu prisioneiro?}
 {111}{}{Eu vou agora.}
 {112}{}{Quem é você?}
-{113}{}{Are you a prisoner here?}
-{114}{}{I'll be leaving now.}
+{113}{}{Você é prisioneira aqui?}
+{114}{}{Eu vou embora agora.}
 {115}{}{Meu nome é Matt. Importa?}
 {116}{}{Acho que não.}
 {117}{}{Humph. Vou indo.}
@@ -27,11 +27,11 @@
 {124}{}{Por quê?}
 {125}{}{Eu vejo.}
 {126}{}{Eu vou estar indo agora.}
-{127}{}{Because, unlike the rest of the sheep who live here, I recognize them as a threat to humanity.
- They know that if I get out of here I will see to it that they are wiped off the face of the earth!
- Look: They can think for themselves, they can learn, they can read and even write if they dip a claw
- in ink. They are fast, tough, perceptive, and deadly. If their numbers grow large enough, they will be
- the greatest threat that the human race could ever face. Think about it. They need to be eliminated!}
+{127}{}{Porque, ao contrário do resto das ovelhinhas que vivem aqui, eu as reconheço como uma
+ ameaça à humanidade. Eles sabem que, se eu sair daqui, cuidarei para que sejam varridos da
+ face da terra! Olha: eles podem pensar por si mesmos, podem aprender, podem ler e até escrever
+ se mergulharem uma garra na tinta. Eles são rápidos, resistentes, perspicazes e mortais. Se seus
+ números continuarem crescendo, eles serão a maior ameaça que a raça humana poderia enfrentar. Pense nisso, eles precisam ser eliminados!}
 {128}{}{Hum. Tem razão.}
 {129}{}{Eu acho que você está errado.}
 {130}{}{Percebo que eles são uma ameaça em potencial, mas confio neles.}

@@ -1,19 +1,19 @@
 {151}{}{}
-{200}{}{Outlook good.}
-{201}{}{Outlook not so good.}
-{202}{}{My reply is no.}
+{200}{}{Boas perspectivas.}
+{201}{}{Perspectivas não tão boas.}
+{202}{}{Minha resposta é não.}
 {203}{}{Não conte com isso.}
-{204}{}{You may rely on it.}
-{205}{}{Ask again later.}
-{206}{}{Most likely.}
-{207}{}{Cannot predict now.}
+{204}{}{Você pode contar com ele.}
+{205}{}{Pergunte novamente mais tarde.}
+{206}{}{Muito provavelmente.}
+{207}{}{Não é possível prever agora.}
 {208}{}{Sim.}
-{209}{}{Yes. Definitely.}
-{210}{}{Better not to tell you now.}
-{211}{}{It is certain.}
-{212}{}{Very doubtful.}
-{213}{}{It is decidedly so.}
-{214}{}{Concentrate and ask again.}
+{209}{}{Sim, com certeza.}
+{210}{}{Melhor não contar agora.}
+{211}{}{É certo.}
+{212}{}{Muito duvidoso.}
+{213}{}{É decididamente assim.}
+{214}{}{Concentre-se e pergunte novamente.}
 {215}{}{Sinais apontam que sim.}
 {216}{}{Minhas fontes dizem não.}
 {217}{}{Sem dúvida.}

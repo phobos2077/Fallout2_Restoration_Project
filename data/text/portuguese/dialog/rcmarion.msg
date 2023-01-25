@@ -1,64 +1,64 @@
-{100}{}{You see a powerful-looking black man.}
-{101}{}{You see Earl Marion, the Sheriff of Redding.}
-{102}{}{You see a powerfully built man looking at you intently.}
-{103}{}{You're about a taco short of a combination plate.}
-{104}{}{No hand-outs here. Now git!}
-{105}{}{You're a few fries short of a happy meal, aren't you?}
-{106}{}{Move along, little doggy.}
+{100}{}{Você vê um homem negro de aparência poderosa.}
+{101}{}{Você vê Earl Marion, o xerife de Redding.}
+{102}{}{Você vê um homem de constituição poderosa olhando para você atentamente.}
+{103}{}{Você é apenas um pequeno taco em um prato combinado.}
+{104}{}{Sem esmolas aqui. Agora vai!}
+{105}{}{Te faltam algumas batatas fritas para uma refeição feliz, não é?}
+{106}{}{Siga em frente, cachorrinho.}
 {107}{}{Mova-se.}
-{108}{}{Howdy there. My name's Earl Marion. I'm the Sheriff in these here parts. Sounds downright
- picturesque, don't it? Well, that's my job.}
-{109}{}{What can Sheriff Marion do for you?}
-{110}{}{As the Sheriff, what do you do here in town?}
-{111}{}{I'm here in town to kick ass and chew bubblegum - and I'm all out of gum.}
-{112}{}{I won't make any trouble. I was just leaving. Goodbye.}
-{113}{}{Hello there, Ranger. My name's Earl Marion and I'm the Sheriff in Redding. Glad to have you in
- town, Ranger.}
-{114}{}{Howdy, Ranger. What can Sheriff Marion do for you?}
-{115}{}{How'd you know I'm a Ranger?}
-{116}{}{As the Sheriff, what do you do here in town?}
-{117}{}{Good to be here. I was just checking in, Sheriff. See you later. Goodbye.}
-{118}{}{Simple. It's tattooed on the back of your neck.}
-{119}{}{It is not.}
-{120}{}{It is?}
-{121}{}{Damn, I thought it was a secret.}
-{122}{}{Oh, I thought you recognized the secret hand-shake I gave you.}
-{123}{}{(Heh, heh) If you were a fish I'd have landed a big one. I was just kidding. Seriously though,
- it's my business to know stuff like that.}
-{124}{}{Oh, I see. What else do you do as Sheriff?}
-{125}{}{I'm still curious as to how you knew.}
-{126}{}{I guess that's why you're the Sheriff, Earl. Goodbye.}
-{127}{}{Well, if you must steal all the drama and mystery from my moment... I have friends in the NCR. Good
- friends. Might say that we have common interests, too.}
-{128}{}{Oh, well, that explains it. I was curious. What do you do here in town as the Sheriff?}
-{129}{}{Common interests? What kind of common interests?}
-{130}{}{I see. Well, I'll be moving on now. Goodbye.}
-{131}{}{I didn't want to let on that easy. Anybody could know the handshake.}
+{108}{}{Olá, meu nome é Earl Marion, eu sou o xerife por estas bandas. Soa absolutamente pitoresco,
+ não é? Bem, esse é o meu trabalho.}
+{109}{}{O que o xerife Marion pode fazer por você?}
+{110}{}{Sendo o xerife, o que você faz aqui na cidade?}
+{111}{}{Estou aqui na cidade para arrasar e mascar chiclete - e estou sem chiclete.}
+{112}{}{Eu não vou causar nenhum problema, ja estava saindo. Tchau.}
+{113}{}{Olá, Ranger, meu nome é Earl Marion e sou o xerife em Redding. Fico feliz em te ver na cidade,
+ Ranger.}
+{114}{}{Olá, Ranger. O que o xerife Marion pode fazer por você?}
+{115}{}{Como você sabe que eu sou um Ranger?}
+{116}{}{Sendo o xerife, o que você faz aqui na cidade?}
+{117}{}{Bom estar aqui, só estava de passagem, xerife. Até logo.}
+{118}{}{Simples, esta tatuado na nuca.}
+{119}{}{Não esta.}
+{120}{}{Esta?}
+{121}{}{Droga, pensei que fosse segredo.}
+{122}{}{Oh, pensei que você reconhecesse o aperto de mão secreto que te dei.}
+{123}{}{(Heh, heh) Se você fosse um peixe, eu teria pescado um grande, eu estava só brincando. Sério,
+ é da minha conta saber coisas assim.}
+{124}{}{Oh, entendo. O que mais você faz como xerife?}
+{125}{}{Ainda estou curioso para saber como você sabia.}
+{126}{}{Acho que é por isso que você é o xerife, Earl. Tchau.}
+{127}{}{Bem, se você quer perder todo o drama e mistério deste momento... Tenho amigos na NCR. Bons
+ amigos. Pode-se dizer que também temos interesses comuns.}
+{128}{}{Bem, isso explica, eu estava curioso. O que você faz aqui na cidade como xerife?}
+{129}{}{Interesses em comum? Que tipo de interesses comuns?}
+{130}{}{Entendo. Bem, vou indo agora. Adeus.}
+{131}{}{Eu não deixaria isso ser tão fácil. Qualquer um poderia saber o aperto de mão.}
 {132}{}{Oh.}
-{133}{}{Keep the peace, mostly. At least that's what I'd be doing if I didn't have this leg all busted up.}
-{134}{}{It's like I said before. My leg's all busted up, and I can't do my job 'cause of it.}
-{135}{}{What happened to your leg?}
-{136}{}{That must make it hard to do your job as Sheriff.}
-{137}{}{Bad break, that. Oops. I mean bad luck. Goodbye.}
-{138}{}{I was going out to meet a caravan and it was late, so I took a nap. Next thing I knew, a damn
- gecko was trying to make a lunch outta my kneecap. Damn thing almost had it, too. Another good bite and
- I'd be sitting down permanent-like.}
-{139}{}{So your leg's still in bad shape, huh?}
-{140}{}{Well, I wasn't much of a dancer before this happened, and I reckon I won't be afterwards, neither.
- I can gimp around, but Doc Johnson said I better not if'n I want it to heal right. Sure could use some
- help, though.}
-{141}{}{Not that I can do much right now, with my leg all banged up. Gotta stay off it for a time yet,
- according to Doc Johnson. What can I help you with?}
-{142}{}{Whatcha pestering me with now?}
-{143}{}{Who's Doc Johnson?}
-{144}{}{You need some help, Sheriff?}
+{133}{}{Manter a paz, principalmente. Pelo menos é o que eu estaria fazendo se não tivesse essa perna toda quebrada.}
+{134}{}{É como eu disse antes. Minha perna está toda quebrada e não posso fazer meu trabalho por causa disso.}
+{135}{}{O que aconteceu com sua perna?}
+{136}{}{Isso deve dificultar seu trabalho como xerife.}
+{137}{}{Que bosta hein mano. Quero dizer... que pena. Adeus.}
+{138}{}{Eu estava saindo para encontrar uma caravana e já era tarde, então tirei um sono. A próxima
+ coisa que eu me lembro é que um gecko lazarento estava tentando fazer um almoço com minha rótula. O
+ maldito quase a pegou. Outra mordida certa e eu nem conseguiria mais levantar.}
+{139}{}{Então sua perna ainda está bem mau, eh?}
+{140}{}{Bem, eu não era nenhum dançarino antes disso acontecer, e acho que não serei daqui pra frente.
+ Eu posso andar por aí, mas o Dr. Johnson disse que é melhor eu não fazer, se quiser curar direito.
+ Claro que um pouco de ajuda seria ótimo.}
+{141}{}{Não que eu possa fazer muito agora, com a perna toda machucada. Tenho que ficar meio
+ parado por um tempo ainda, de acordo com Dr. Johnson. Com o que posso ajudar?}
+{142}{}{Por que você está me incomodando agora?}
+{143}{}{Quem é o Dr. Johnson?}
+{144}{}{Precisa de ajuda, xerife?}
 {145}{}{Enquanto o gato está fora...}
-{146}{}{Well, I won't keep you any longer. You must need your rest. Goodbye.}
-{147}{}{Good ole Painless Doc Johnson's our town doc. You have a toothache or a broken bone, he'll set
- you to right. He also sells medicine. All kinds of medicine, if you get my drift. For *whatever* ails
- ya.}
-{148}{}{Sounds like a helpful guy to have around. Where is he here in town?}
-{149}{}{Interesting. Let me ask you something else, Sheriff Marion.}
+{146}{}{Bem, não vou mais te segurar. Você deve estar precisando descansar, adeus.}
+{147}{}{O bom e velho Dr. Johnson é o médico da nossa cidade. Se você tem uma dor de dente ou um
+ osso quebrado, ele resolve pra você. Ele também vende remédios, todos os tipos de remédios, se
+ você é que você me entende. Para realmente *qualquer coisa* que te atrapalhe.}
+{148}{}{Parece um cara útil para se ter por perto. Onde ele está aqui na cidade?}
+{149}{}{Interessante. Deixe eu te perguntar outra coisa, Xerife Marion.}
 {150}{}{Thanks. I'll see you around. Goodbye.}
 {151}{}{Yeah, I sure could use some help with a couple of things. Just part-time like. It pays real good
  and you'd be doing a good thing for the town of Redding, too.}
@@ -96,7 +96,7 @@
  Here's one for you; You gonna slap leather and draw that smoke wagon, or you just gonna stand there and
  sweat?}
 {177}{}{Okay, Sheriff! Draw!}
-{178}{}{Hey, I didn't mean nothing. I was just funnin'. Let me ask you about something.}
+{178}{}{Ei, eu não quis dizer nada. Eu só estava brincando. Deixe eu perguntar uma coisa.}
 {179}{}{Uh, hey... I was just kidding. I'll just sweat, thank you. Uh, goodbye, Sheriff.}
 {180}{}{Yeah. I figured you was like that.}
 {181}{}{Heh, heh. Goodbye, Sheriff Marion.}
@@ -127,22 +127,21 @@
 {197}{}{Okay, I'll do it.}
 {198}{}{Mayor Ascorti? Who's that?}
 {199}{}{I don't think I want to do that right now. Goodbye, Sheriff.}
-{200}{}{Ascorti's the Mayor here in Redding. He runs Ascorti's Ace, right across the street here. Just
- north of us. So, will you help me out?}
-{201}{}{How much does she owe him?}
+{200}{}{Ascorti é nosso prefeito em Redding. Ele administra o As de Ascorti, do outro lado da rua, ao norte de
+ nós. Então, você vai me ajudar nisso?}
+{201}{}{Quanto ela deve a ele?}
 {202}{}{Okay, I'll do it.}
-{203}{}{I don't think I want to help you right now. Goodbye, Sheriff.}
-{204}{}{Sorry to hear that. I could sure use the help. Well, if you change your mind... you know where to
- find me.}
-{205}{}{Before I go, let me ask you about something else.}
-{206}{}{I sure do. Goodbye, Sheriff.}
-{207}{}{Oh, one more thing. I almost forgot. Here's a badge. You may need it.}
-{208}{}{Thanks, Sheriff; I'm honored. I won't tarnish it with actions you wouldn't approve of.}
-{209}{}{Heck, I feel more important already. Goodbye.}
-{210}{}{Hey there. I'm sorry that you couldn't help me out earlier. You come back 'cause you changed
- your mind?}
-{211}{}{Maybe. Tell me what I need to do again.}
-{212}{}{Nope, I was just walking around town. Goodbye, again.}
+{203}{}{Acho que não quero ajuda-lo agora. Adeus, xerife.}
+{204}{}{Lamento ouvir isso, com certeza poderia usar a ajuda. Bem, se mudar de ideia... sabe onde me
+ encontrar.}
+{205}{}{Antes de ir, deixe eu perguntar sobre outra coisa.}
+{206}{}{Eu com certeza faço. Adeus, xerife.}
+{207}{}{Ah, mais uma coisa, quase me esqueci. Aqui está um distintivo, você pode precisar.}
+{208}{}{Obrigado, xerife; estou honrado. Não vou manchá-lo com ações que você não aprovaria.}
+{209}{}{Nossa, já me sinto mais importante. Tchau.}
+{210}{}{Olá. Lamento que não pode me ajudar antes. Você voltou porque mudou de ideia?}
+{211}{}{Pode ser. Me diga novamente o que preciso fazer.}
+{212}{}{Não, eu estava apenas andando pela cidade. Adeus, de novo.}
 {213}{}{Glad to see you again. You've got to take care of that Widow Rooney problem before I can pay you,
  though.}
 {214}{}{Sure thing. Uh, what was I supposed to do again?}
@@ -232,7 +231,7 @@
 {270}{}{There's a bandit, name o' Frog Morton, that's taken up lodgings over in the ruins of the Great
  Wanamingo Mine just west of town. I need you to exterminate him. But be careful. He's crafty and he's
  bound to have some of his gang with him. I'll give you $1000 to get rid o' the varmint.}
-{271}{}{Why do they call him Frog Morton?}
+{271}{}{Por que esse nome idiota de Sapo Morton?}
 {272}{}{Sure thing, Sheriff.}
 {273}{}{Dash it all, but that just isn't my sort of soiree, mon frere. Goodbye.}
 {274}{}{His name's Morton, and they call him Frog 'cause he croaks people. Ready to go get 'im?}

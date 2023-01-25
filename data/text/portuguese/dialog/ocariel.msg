@@ -1,95 +1,95 @@
-{100}{}{You see a short, slender woman wearing a blue velvet sun dress.}
-{101}{}{You see Ariel, the widow.}
-{102}{}{You see a short, slender woman wearing a blue velvet sun dress. She appears to be sad.}
-{103}{}{Hello, I'm Ariel. I don't think I've seen you here before. Who are you?}
+{100}{}{Você vê uma mulher baixa e esguia usando um vestido de verão de veludo azul.}
+{101}{}{Você vê Ariel, a viúva.}
+{102}{}{Você vê uma mulher baixa e esguia usando um vestido de verão de veludo azul. Ela parece estar triste.}
+{103}{}{Olá, eu sou Ariel. Acho que nunca te vi aqui antes. Quem é Você?}
 {104}{}{Eu}
-{105}{}{Uh... you look sad. Why?}
+{105}{}{Você parece triste. Por quê?}
 {106}{}{Eu vou agora.}
-{107}{}{Hello, Ariel, my name is}
-{108}{}{Hi. You're looking rather down. What's up?}
-{109}{}{You don't need to know my name, but I need some information from you.}
-{110}{}{Sorry. I don't have time for this.}
-{111}{}{It's a pleasure to meet you. What can I help you with?}
-{112}{}{Answer questions?}
+{107}{}{Olá, Ariel, meu nome é}
+{108}{}{Oi, parece desanimado, como esta?}
+{109}{}{Você não precisa saber meu nome, mas preciso de algumas informações suas.}
+{110}{}{Desculpe. Eu não tenho tempo para isso.}
+{111}{}{É um prazer conhecer você. Com o que posso ajudar?}
+{112}{}{Responder a perguntas?}
 {113}{}{Nada. Tchau.}
-{114}{}{You can't possibly be of any help to me. Bye.}
+{114}{}{Você não pode ser de nenhuma ajuda para mim. Tchau.}
 {115}{}{Gostaria de fazer alguns perguntas.}
-{116}{}{I'm sorry to intrude on your solitude, but could you answer some questions?}
-{117}{}{I'm just having some personal problems. It's nothing, really.}
-{118}{}{You talk, me listen. It help.}
-{119}{}{Ok. No talk problem. Answer question?}
-{120}{}{I'm a good listener, Ariel, and talking about whatever is bothering you may just help.}
-{121}{}{Ok. Let's forget the problems for now. Can you answer some questions?}
-{122}{}{Everybody's got problems, woman. Learn to deal with them.}
-{123}{}{Forgive me, but I don't have the time for someone with your attitude. Good-day.}
+{116}{}{Desculpe me intrometer em sua solidão, mas você poderia responder algumas perguntas?}
+{117}{}{Só estou tendo alguns problemas pessoais. Não é nada de mais.}
+{118}{}{Você fala, eu escuto. Isso ajuda.}
+{119}{}{Ta bom, sem problemas em falar. Responder a perguntas?}
+{120}{}{Sou um bom ouvinte, Ariel, e falar sobre o que quer que esteja incomodando você pode ajudar.}
+{121}{}{OK. Vamos esquecer os problemas por enquanto. Você pode responder a algumas perguntas?}
+{122}{}{Todo mundo tem problemas, mulher. Aprenda a lidar com eles.}
+{123}{}{Perdoe-me, mas não tenho tempo para alguém com a sua atitude. Bom dia.}
 {124}{}{}
 {125}{}{}
 {126}{}{Tudo certo.}
 {127}{}{O que você quer saber?}
-{128}{}{You prisoner?}
-{129}{}{D'claws treat you ok?}
-{130}{}{Want leave?}
-{131}{}{So why sad?}
-{132}{}{How you come here?}
+{128}{}{Seu prisioneiro?}
+{129}{}{Deathclaws tratam bem?}
+{130}{}{Quer sair?}
+{131}{}{Por que esta triste?}
+{132}{}{Como você veio aqui?}
 {133}{}{Tenho que ir agora.}
-{134}{}{Are you a prisoner here?}
-{135}{}{Are you treated all right by the deathclaws?}
-{136}{}{Would you like to leave the vault?}
-{137}{}{So tell me, Ariel: Why are you so sad?}
-{138}{}{How did you come to be here at the vault?}
-{139}{}{I must be going now.}
-{140}{}{No, I can leave anytime I want. The deathclaws have made that very clear to me. They don't hold
- anyone here against their will, as far as I know.}
+{134}{}{Você é prisioneira aqui?}
+{135}{}{Os deathclaws te tratam bem?}
+{136}{}{Gostaria de sair da vault?}
+{137}{}{Então me diga, Ariel: Por que você está tão triste?}
+{138}{}{Como você veio parar aqui na vault?}
+{139}{}{Eu devo ir agora.}
+{140}{}{Não, posso sair quando quiser. Os deathclaws deixaram isso bem claro para mim. Eles não mantêm ninguém
+ aqui contra sua vontade, até onde eu sei.}
 {141}{}{Uh, tudo bem.}
-{142}{}{Got it. Me go.}
+{142}{}{Entendi. Eu vou.}
 {143}{}{Eu vejo.}
-{144}{}{I think you're lying, bitch.}
-{145}{}{I see. If you don't mind, I need to ask you about a few more things.}
-{146}{}{Yes. They provide me with food, water, shelter, and protection. I feel very safe here, and
- that's more than I could ask for.}
-{147}{}{Okay. Got go then.}
-{148}{}{Good. Ask more.}
-{149}{}{All right. I need to ask you more.}
-{150}{}{Okay. On to some other stuff, then.}
-{151}{}{Great. A lizard lover.}
-{152}{}{I've considered it, but I would have to say no. I feel safer here than anywhere else I've ever
- lived. I do get lonely for the company of other people like myself, but hopefully others will come to
- live here in the future and satisfy that need.}
-{153}{}{Me go. Wavy bye bye.}
-{154}{}{Tell more.}
-{155}{}{Fine, you can rot here for all I care.}
-{156}{}{Okay. I guess I'll go now.}
-{157}{}{You've been very helpful, but I must trouble you for more.}
-{158}{}{My husband recently died. I miss him and I'm having problems adjusting. That's all.}
-{159}{}{Sorry, how happen?}
-{160}{}{Ooops. Got go, hear elder calling.}
-{161}{}{I'm sorry to hear that. How did it happen?}
-{162}{}{Tough break. I'll be seeing ya.}
-{163}{}{Shit happens, people die. Usually when I'm around.}
-{164}{}{I've already told you about the raid. That's when it happened.}
-{165}{}{My husband and I were traveling with a caravan on its way to the New California Republic. We
- wanted to start a new life for ourselves and our daughter, Sandy. Unfortunately, the caravan was
- attacked by raiders one night. They were incredibly brutal. They killed everyone: men, women, and
- children. Rand, my husband, died trying to defend Sandy and me. We were to die next when a miracle
- occurred. }
-{166}{}{Uh... wow.}
-{167}{}{Glad you, little one, both okay.}
-{168}{}{Me outta here. Bye.}
-{169}{}{Wow. What a story.}
-{170}{}{What a crock of sh... I'm outta here.}
-{171}{}{Thank goodness that you and your daughter are safe.}
-{172}{}{Hello again. How are you?}
+{144}{}{Acho que você está mentindo, vadia.}
+{145}{}{Entendo. Se não se importa, preciso perguntar mais algumas coisas.}
+{146}{}{Sim. Eles me fornecem comida, água, abrigo e proteção. Eu me sinto muito segura aqui, e isso é mais
+ do que eu poderia pedir.}
+{147}{}{OK. Vamos então.}
+{148}{}{Bom. Pergunto mais.}
+{149}{}{Tudo bem. Tenho outras coisa para perguntar.}
+{150}{}{OK. Em algumas outras coisas, então.}
+{151}{}{Que beleza, um amante de lagartos.}
+{152}{}{Eu considerei isso, mas eu teria que dizer não. Eu me sinto mais segura aqui do que em qualquer
+ outro lugar que já vivi. Eu me sinto solitária na companhia de outras pessoas como eu, mas espero que
+ outros venham morar aqui no futuro e satisfaçam essa necessidade.}
+{153}{}{Eu vou. Tchauzin.}
+{154}{}{Conte mais.}
+{155}{}{Tudo bem, você pode apodrecer aqui se quiser.}
+{156}{}{OK. Acho que vou agora.}
+{157}{}{Você tem sido de grande ajuda, mas gostaria de te incomodar um pouco mais.}
+{158}{}{Meu marido morreu recentemente. Sinto falta dele e estou tendo problemas para me ajustar. Isso é tudo.}
+{159}{}{Sinto muito, como aconteceu?}
+{160}{}{Ops. Tenho que ir, ouço a anciã me chamando.}
+{161}{}{Sinto muito por ouvir isso. Como aconteceu?}
+{162}{}{Que porra. Nos vemos por ai.}
+{163}{}{Merdas acontecem, pessoas morrem. Normalmente quando estou por perto.}
+{164}{}{Eu já te contei sobre o ataque. Foi quando aconteceu.}
+{165}{}{Meu marido e eu estávamos viajando com uma caravana a caminho da República da Nova Califórnia.
+ Queríamos começar uma nova vida para nós e nossa filha, Sandy. Infelizmente, a caravana foi
+ atacada por invasores uma noite. Eles foram incrivelmente brutais, mataram todos: homens, mulheres
+ e crianças. Rand, meu marido, morreu tentando defender Sandy e eu. Devíamos morrer em seguida quando
+ ocorreu um milagre. }
+{166}{}{Uh... uau.}
+{167}{}{Fico feliz, pequenina, as duas estão bem.}
+{168}{}{Vou sair daqui. Tchau.}
+{169}{}{Uau. Que história.}
+{170}{}{Que monte mer.. Vou sair daqui.}
+{171}{}{Graças a Deus que você e sua filha estão bem.}
+{172}{}{Olá de novo. Como você está?}
 {173}{}{}
 {174}{}{}
-{175}{}{Go away, you bastard! I want nothing to do with you.}
-{176}{}{Go away, bitch! I have nothing to say to you.}
+{175}{}{Vá embora, seu desgraçado! Eu não quero nada com você.}
+{176}{}{Vá embora, vadia! Eu não tenho nada para dizer para voce.}
 {177}{}{Adeus.}
 {178}{}{.}
-{179}{}{. Yes, I'm new here.}
-{180}{}{I was holding Sandy behind me, trying to keep her from the monster that had shot Rand. He stood
- next to my husband's body and laughed at me as he aimed his gun at my head. Suddenly, this huge claw
- came out of the darkness, grabbed him from behind and... well, thank goodness that Sandy didn't see
- what happened next. Anyway, the raiders were being wiped out by this group of deathclaws. The one that
- saved Sandy and me stood near us and talked to me. He kept reassuring me that I was safe, and that he
- was sorry that he couldn't have gotten there sooner to help us. Afterwards, the deathclaws brought us
- here.}
+{179}{}{. Sim, sou novo aqui.}
+{180}{}{Eu estava segurando Sandy atrás de mim, tentando mantê-la longe do monstro que havia atirado
+ em Rand. Ele ficou ao lado do corpo do meu marido e riu de mim enquanto apontava a arma para minha
+ cabeça. De repente, um enorme deathclaw saiu da escuridão, o agarrou por trás e... bem, graças a Deus
+ que Sandy não viu o que aconteceu a seguir. De qualquer forma, os invasores estavam sendo aniquilados
+ por esse grupo de deathclaws. Aquele que salvou Sandy e eu ficou perto de nós e falou comigo. Ele continuou
+ me assegurando que eu estava bem e que lamentava não ter chegado antes para nos ajudar. Depois,
+ os deathclaws nos trouxeram aqui.}

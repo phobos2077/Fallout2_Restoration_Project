@@ -7,52 +7,52 @@
 {141}{}{.}
 {150}{}{You swear you can see it looking at you out of the corner of your eye. }
 {151}{}{Its shiny frame and golden handle gleam seductively beneath the lights. }
-{165}{}{It's intended for high-rollers. }
-{180}{}{Its high payoff amount seems mighty attractive. }
-{200}{}{(Your hand quivers as you reach for your coins. The machine continues to whisper at you.) *Come on, sugar... that's
- it... come on now... don't tease...*}
-{201}{}{You see a slot machine. Its shiny frame and golden handle gleam seductively beneath the lights. Its coin slot
- beckons you, and you feel your face flush with anticipation.}
-{202}{}{(Your hand quivers as you reach for your coins. The machine continues to whisper at you.) *Come on, honey... that's
- it... grab the handle... grip it firmly... come on now...*}
-{250}{}{Insert $}
+{165}{}{Destina-se aos grandes apostadores. }
+{180}{}{Seu alto premio parece muito atraente. }
+{200}{}{(Sua mão treme enquanto você pega suas moedas. A máquina continua a sussurrar para você.) *Vamos, doçura... é isso...
+ vamos agora... não provoque...*}
+{201}{}{Você vê uma máquina caça-níqueis. Sua moldura brilhante e alça dourada brilham sedutoramente sob as
+ luzes. Seu slot de moeda acena para você, e você sente seu rosto corar com expectativa.}
+{202}{}{(Sua mão treme quando você pega suas moedas. A máquina continua a sussurrar para você.) *Vamos, querida... é isso... pegue a
+ alça... segure com firmeza... vamos agora.. .*}
+{250}{}{Coloque $}
 {251}{}{. }
-{252}{}{Play last $}
+{252}{}{Jogue o último $}
 {253}{}{.}
 {254}{}{Liga-o por um dia.}
 {255}{}{Você está quebrado e não pode mais jogar. Você é forçado a dizer "Isso é que é noite".}
 {256}{}{Isso que é noite.}
 {257}{}{Você está quebrado e não pode mais jogar. Você é forçado a dizer "Isso é que é dia."}
-{258}{}{That does it! I'm leaving!}
-{259}{}{That does it! I'm leaving!}
-{500}{}{The rolls spin on the machine... }
+{258}{}{Isso resolve! Estou indo!}
+{259}{}{Isso resolve! Estou indo!}
+{500}{}{Os rolos giram na máquina... }
 {599}{}{… }
-{600}{}{Nothing. }
-{601}{}{One cherry. }
-{602}{}{Two cherries. }
-{603}{}{Three }
-{604}{}{JACKPOT! }
-{605}{}{DOUBLE JACKPOT!!! }
+{600}{}{Nada. }
+{601}{}{Uma cereja. }
+{602}{}{Duas cerejas. }
+{603}{}{Tres }
+{604}{}{PREMIO! }
+{605}{}{DUPLO PREMIO!!! }
 {613}{}{. }
-{700}{}{Payoff is $}
+{700}{}{O premio é $}
 {701}{}{.}
-{1001}{}{cherry}
-{1002}{}{orange}
-{1003}{}{plum}
-{1004}{}{bell}
-{1005}{}{bar}
-{1006}{}{melon}
+{1001}{}{cereja}
+{1002}{}{laranja}
+{1003}{}{ameixa}
+{1004}{}{sino}
+{1005}{}{barra}
+{1006}{}{melao}
 {1007}{}{sete}
-{1101}{}{cherries}
-{1102}{}{oranges}
-{1103}{}{plums}
-{1104}{}{bells}
-{1105}{}{bars}
-{1106}{}{melons}
-{1107}{}{sevens}
+{1101}{}{cerejas}
+{1102}{}{laranjas}
+{1103}{}{ameixas}
+{1104}{}{sinos}
+{1105}{}{barras}
+{1106}{}{meloes}
+{1107}{}{setes}
 {2000}{}{*Venha me jogar por um minuto, cowboy.*}
 {2001}{}{*Olá, marinheiro.*}
-{2002}{}{*Put in a cap, pull the arm. I'll be nice to you.*}
+{2002}{}{*Coloque uma moeda, puxe o braço. Serei legal com você.*}
 {2003}{}{*Tick…Tick…Tiiiiick…*}
 {2004}{}{*Ding*}
 {2005}{}{*Bing*}
@@ -63,13 +63,13 @@
 {2010}{}{*Ei, você! Venha me jogar um minutinho.*}
 {2011}{}{*Olá, beleza.*}
 {2012}{}{*Não é que você é uma gracinha... por que não vem me jogar um poquinho?*}
-{2100}{}{You see a strange golden metal box with three eyes and one arm. It is one of the
- prettiest things you have ever seen.}
+{2100}{}{Você vê uma estranha caixa de metal dourado com três olhos e um braço. É uma das coisas
+ mais bonitas que você já viu.}
 {2101}{}{Eu}
-{2102}{}{ who yu?}
+{2102}{}{ quem voce?}
 {2103}{}{Mim sente falta da mamãe. }
 {2104}{}{ sente saudade de ARR-YO. Mim quer ir pra casa.}
-{2105}{}{(Shake its hand)}
+{2105}{}{(Aperta sua mão)}
 {2106}{}{Você mutante estranho}
 {2107}{}{Viva a Vault! Viva a Vault!}
 {2108}{}{Você ser um water chip?}
@@ -77,9 +77,9 @@
 {2110}{}{Deixar.}
 {2130}{}{A estranha caixa dourada de metal com três olhos e um braço parece não responder.}
 {2131}{}{MIM }
-{2132}{}{! YU ANSWER ME!}
-{2133}{}{(Shake its hand)}
-{2134}{}{Me child of Vault Dweller. You talk to me NOW.}
+{2132}{}{! VOCÊ ME RESPONDE!}
+{2133}{}{(Aperta sua mão)}
+{2134}{}{Eu, filho do Morador da Vault. Você fala comigo AGORA.}
 {2135}{}{Você mutante estranho}
 {2136}{}{Você ser um water chip?}
 {2137}{}{Sair; procurar por mais coisas brilhantes}

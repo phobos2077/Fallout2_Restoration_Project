@@ -1,10 +1,10 @@
-{100}{}{You see a safe set securely into the wall. It is closed.}
-{150}{}{You see a safe set securely into the wall. It is open.}
-{200}{}{(There is a little door in the wall. A very, very small person must live inside! There is a doorknob with numbers on it in the middle of the door.)}
-{220}{}{(There is a KER-KLANK, and the safe opens.)}
-{230}{}{(You pry up a small panel on the bottom of the safe. You don't think you would have found it if Mrs. Bishop hadn't told you about it. Inside is an odd-looking Pip-Boy attachment.)}
-{240}{}{(You turn the dial slowly for several minutes, but you can't make out anything.)}
-{250}{}{(You don't find any traps on the safe.)}
-{260}{}{(You are turning the knob... when suddenly there is a KER-KLANK, and the door opens!)}
-{270}{}{(You turn the knob, but the tiny door won't open!)}
-{290}{}{(You don't hear anybody, and you can't see a doorbell. Maybe nobody's home.)}
+{100}{}{Você vê um cofre bem preso na parede. Está fechado.}
+{150}{}{Você vê um cofre bem preso na parede. Está aberto.}
+{200}{}{(Há uma portinha na parede. Uma pessoa muito, muito pequena deve morar lá dentro! Há uma maçaneta com números no meio da porta.)}
+{220}{}{(Você escuta um CLIC e o cofre se abre.)}
+{230}{}{(Você abre um pequeno painel no fundo do cofre. Você não acha que o teria encontrado se a Sra. Bishop não tivesse lhe contado sobre isso. Dentro há um acessório Pip-Boy de aparência estranha.)}
+{240}{}{(Você gira o botão lentamente por vários minutos, mas não consegue nada.)}
+{250}{}{(Você não encontra nenhuma armadilha no cofre.)}
+{260}{}{(Você está girando a maçaneta... quando de repente ouve um CLIC e a porta se abre!)}
+{270}{}{(Você gira a maçaneta, mas a portinha não abre!)}
+{290}{}{(Você não ouve ninguém e não consegue ver uma campainha. Talvez ninguém esteja em casa.)}

@@ -1,12 +1,12 @@
-{100}{}{You see a burly, thick-set man with short, bushy hair.}
-{101}{}{You see James Hoffy, the caravan master.}
-{102}{}{You see a scarred, tough-looking man with a calculating stare.}
-{103}{}{Come on, get out of here.}
-{104}{}{This ain't no charity ward. Now get out.}
-{105}{}{Who let you out of the house, anyway?}
-{106}{}{Anyone home in there?}
-{107}{}{You're not quite smart enough to grunt, are you?}
-{108}{}{Come on, already. Just move it out of here.}
+{100}{}{Você vê um homem corpulento com cabelo curto e espesso.}
+{101}{}{Você vê James Hoffy, o mestre de caravana.}
+{102}{}{Você vê um homem com cicatrizes e aparência forte, com um olhar calculista.}
+{103}{}{Vamos, saia daqui.}
+{104}{}{Aqui não é um lugar pra caridade. Agora vá embora.}
+{105}{}{Quem te deixou sair de casa, afinal?}
+{106}{}{Tem alguém em casa?}
+{107}{}{Você não é inteligente o suficiente para grunhir, não é?}
+{108}{}{Vamos, está tudo bem. Apenas saia daqui.}
 {109}{}{I ain't got time for no stupids.}
 {110}{}{I hear that you had some trouble with some of your caravans. Everyone has trouble sometimes -
  just don't make a habit of it.}
@@ -30,7 +30,7 @@
  to arrive at Redding rather than leave it. Real neat and tidy that way. You see here, this is the way
  it works: When a caravan's in town and looking for help, the caravan master has his tent set up
  here just south of my castle. Real neat and tidy that way.}
-{126}{}{Your castle? What do you mean?}
+{126}{}{Seu castelo? O que você quer dizer?}
 {127}{}{I see. I guess I'll talk to them, then. Thanks. Goodbye.}
 {128}{}{We run caravans all over the fricking place. Let me tell you: We've got gold ore going out to
  Vault City, we've got some going out to New Reno (ooo-la-la, if ya know what I mean), and we've even
@@ -73,19 +73,19 @@
 {155}{}{A Garden of Eden Creation Kit? I don't know for certain, 'cept I know we don't have one of them
  here. Hmm. You might try a vault. They're supposed to have all kinds of teck-no-logical stuff, ain't
  they?}
-{156}{}{I suppose I'll have to try that. Let me ask you something else.}
-{157}{}{Thanks for the tip. Goodbye.}
-{158}{}{Yeah, I hear that they got some newbie to go scrounging around the Wanamingo mine for an old
- part.}
-{159}{}{I heard that the Sheriff got someone to do some of his dirty work for him.}
-{160}{}{Not a whole lot going on lately, I guess. Just the usual digging, and caravans and stuff.}
-{161}{}{Yeah, well, that newbie is me. Got a problem with that?}
-{162}{}{Someone's got to keep order in this flea-pit of a town.}
-{163}{}{Let me ask you something.}
-{164}{}{I just thought I'd check. Thanks and goodbye for now.}
-{165}{}{Nope, no problem at all. You know that you're messing around with politics with that, don't ya?}
+{156}{}{Acho que vou ter que tentar isso. Deixe eu te perguntar outra coisa.}
+{157}{}{Obrigado pela dica. Tchau.}
+{158}{}{Sim, ouvi dizer que eles arranjaram um novato para vasculhar a mina Wanamingo e procurar e
+ uma peça velha.}
+{159}{}{Ouvi dizer que o xerife contratou alguém para fazer o trabalho sujo para ele.}
+{160}{}{Não tem muita coisa acontecendo ultimamente, eu acho. Só a escavação normal, caravanas e outras coisas.}
+{161}{}{Sim, bem, esse novato sou eu. Tem algum problema com isso?}
+{162}{}{Alguém tem que manter a ordem nesta cidade cheia de pulgas.}
+{163}{}{Deixe eu perguntar uma coisa.}
+{164}{}{Só pensei em verificar. Obrigado e tchau por enquanto.}
+{165}{}{Não, não há problema algum. Você sabe que está brincando com política, não é?}
 {166}{}{O que você quer dizer?}
-{167}{}{Yeah, sure. Goodbye.}
+{167}{}{Sim, claro. Tchau.}
 {168}{}{Well, whichever mine owner you give the chip to is gonna do real well with it. Well enough to
  put the other mine outta business.}
 {169}{}{E…?}
@@ -96,5 +96,5 @@
 {172}{}{If I didn't do it, someone else would. Tell me about something else.}
 {173}{}{That's the way of the world, isn't it? Goodbye.}
 {174}{}{As long as it's not me, pally. Long as it's not me.}
-{175}{}{Let me ask you something.}
+{175}{}{Deixe eu perguntar uma coisa.}
 {176}{}{Just checking. Goodbye for now.}

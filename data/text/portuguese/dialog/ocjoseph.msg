@@ -1,7 +1,7 @@
 {100}{}{Você vê um pequeno homem com um livro em suas mãos.}
-{101}{}{You see Joseph, the herbalist.}
-{102}{}{You see a short man with a book called "Herbs and Their Medicinal Uses."}
-{103}{}{Hello, I'm Joseph the herbalist. What can I help you with?}
+{101}{}{Você vê Joseph, o herbalista.}
+{102}{}{Você vê um homem baixo com um livro chamado "Ervas e seus usos medicinais".}
+{103}{}{Olá, sou Joseph, o herbalista. Com o que posso ajudar?}
 {104}{}{Tenho owie. Você conserta?}
 {105}{}{Sinto icky. Você conserta?}
 {106}{}{Eu gimp, você conserta?}
@@ -12,78 +12,78 @@
 {111}{}{Eu estou aleijado. Você pode me ajudar?}
 {112}{}{Eu queria pedir-lhe algumas perguntas.}
 {113}{}{Apenas dizer "olá".}
-{114}{}{Why, certainly. Hmmm. You'll need to take some of this. I'll apply this balm to the wound.
- Now just lie back and rest for a couple of hours.}
+{114}{}{Desde já. Hmmm, você vai precisar levar um pouco disso. Vou aplicar este bálsamo na
+ ferida. Agora é só deitar e descansar por algumas horas.}
 {115}{}{Eu agradecer. Tchau.}
 {116}{}{Obrigado, Doc. Eu me sinto muito melhor.}
-{117}{}{Why, certainly. Hmmm. This will take a while, so you'll have to stay here overnight. You'll
- need to take this, drink this -- all of it, I know it tastes foul. Now, just lie back and I'll wake
- you in the morning.}
+{117}{}{Desde já. Hmmm, isso vai demorar um pouco, você terá que passar a noite aqui. Você vai
+ precisar tomar isso, beba isso - tudo isso, eu sei que o gosto não ajuda. Agora, apenas deite
+ e eu te acordo pela manhã.}
 {118}{}{Me sinto bem. Tchau.}
-{119}{}{Thanks. That did the trick.}
-{120}{}{I'm sorry, but I'm not a medical doctor and I can't perform surgery. I would suggest that you
- go to one of the bigger cities and see a surgeon. Try the New California Republic. It's east of here.}
+{119}{}{Obrigado. Resolveu o problema.}
+{120}{}{Lamento, mas não sou médico e não posso fazer cirurgias. Sugiro que você vá a uma das
+ cidades maiores e consulte com um cirurgião. Tente a República da Nova Califórnia. É a leste daqui.}
 {121}{}{Tudo bem. Tchau.}
 {122}{}{Tudo bem. Obrigado de qualquer forma.}
 {123}{}{O que você gostaria de saber?}
-{124}{}{You prisoner?}
+{124}{}{Seu prisioneiro?}
 {125}{}{Você sai daqui quando quer?}
-{126}{}{What you know about D'claws?}
+{126}{}{O que sabe dos deathclaws?}
 {127}{}{Como você está aqui?}
 {128}{}{Eu vou agora.}
-{129}{}{Are you a prisoner here?}
+{129}{}{Você é prisioneira aqui?}
 {130}{}{Você pode sair daqui se você deseja?}
 {131}{}{O que você pode me contar sobre os deathclaws?}
 {132}{}{Como você chegou a estar aqui, em primeiro lugar?}
 {133}{}{Obrigado pela informação. Eu vou estar indo agora.}
-{134}{}{No, I'm not a prisoner. I stay because I'm needed here. I've learned to accept the fact that
- some of my patients are deathclaws.}
+{134}{}{Não, eu não sou um prisioneiro, eu fico porque sou necessário aqui. Aprendi a aceitar o fato de que
+ alguns de meus pacientes são deathclaws.}
 {135}{}{Tudo bem. Precisa saber mais.}
 {136}{}{Obrigado. Tchau.}
 {137}{}{Isso é muito louvável.}
 {138}{}{Eu vejo.}
-{139}{}{That's a decision that I can't agree with, but it's your life.}
-{140}{}{Yes I can, and often do. I have to collect my herbs from time to time, and I've never been
- stopped. I used to wonder if the deathclaws were secretly following me and whether or not they would
- stop me if I tried to leave. So one day I put the theory to test.}
+{139}{}{Essa é uma decisão com a qual não concordo, mas é a sua vida.}
+{140}{}{Sim, eu posso, e faço várias vezes. Eu tenho que colher minhas ervas de vez em quando
+ e nunca me pararam, até costumava me perguntar se os deathclaws estavam me seguindo em segredo e
+ se eles me impediriam ou não se eu tentasse sair. Então, um dia, coloquei a teoria à prova.}
 {141}{}{Eu entendi. Vá agora.}
 {142}{}{Precisa pedir mais.}
-{143}{}{You took a foolish chance and you're lucky it paid off.}
+{143}{}{Foi uma escolha estúpida e você tem sorte de ter funcionado.}
 {144}{}{Tudo certo.}
-{145}{}{Good idea. I'm glad to see it worked.}
-{146}{}{Well, let's see... Deathclaws appear to be mutated Jackson's Chameleons, the horned variety.
- There are a lot of similarities still present, but an even greater number of differences. The mutation
- factor is quite high. This species is highly intelligent, about the equivalent of an eight-year-old,
- with some individuals reaching human normal level. Their learning capacity is very high and they are
- capable of abstract thought and reasoning.}
+{145}{}{Boa ideia. Fico feliz em ver que funcionou.}
+{146}{}{Bem, vamos ver... Deathclaws parecem ser camaleões mutantes de Jackson, a variedade com
+ chifres. Há muitas semelhanças ainda presentes, mas um número ainda maior de diferenças, o fator
+ de mutação é bastante alto. Esta espécie é altamente inteligente, equivalente a uma criança de
+ oito anos, com alguns indivíduos atingindo o nível humano normal. Sua capacidade de aprendizado é
+ muito alta e eles são capazes de pensar e raciocinar de forma abstrata.}
 {147}{}{Uh... o que você disse.}
 {148}{}{Tenho que ir agora.}
 {149}{}{Uh-huh.}
-{150}{}{Wow, I'm impressed with your knowledge.}
-{151}{}{Sounds like a bunch of hogwash to me.}
-{152}{}{I was gathering some herbs one night when a voice called to me out of the darkness. 'I have been
- watching you,' it said, 'and I know that you are a healer. Are you dedicated to your art enough to heal
- someone foreign to you? Someone whom many would consider an enemy?'}
+{150}{}{Uau, estou impressionado com o seu conhecimento.}
+{151}{}{Parece um monte de besteira para mim.}
+{152}{}{Eu estava colhendo algumas ervas uma noite quando uma voz me chamou da escuridão. 'Tenho
+ observado você', disse, 'e sei que você é um curador. Você é dedicado à sua arte o suficiente para curar
+ algum que seja estranho a você? Alguém que muitos considerariam um inimigo?'}
 {153}{}{Ugh.}
 {154}{}{Obrigado. Eu vou embora agora.}
-{155}{}{What a waste to be here when you could be helping others.}
-{156}{}{You are truly a dedicated man who deserves recognition.}
+{155}{}{Que desperdício estar aqui quando você poderia estar ajudando os outros.}
+{156}{}{Você é realmente um homem dedicado que merece reconhecimento.}
 {157}{}{Interessante.}
 {158}{}{Eu não vou ajudar alguém como você. Vá embora.}
-{159}{}{I traveled to another town and stayed there a week or so before returning. When I got back, I was
- warmly welcomed. Gruthar, the pack leader, came to me privately and personally thanked me for coming
- back. No, I am definitely here because I want to be.}
-{160}{}{Although they do not have vocal chords, the deathclaws seem to mimic human speech much the same
- as a parrot does. I have yet to discover the exact mechanism behind this, so I am unable to say more at
- this time. Socially, they are pack animals with a very rigid code of ethics. They are led by an 'alpha
- male' who rules with the mutual consent of the pack. They appear to be extremely loyal to the pack as a
- whole, treating it as a family unit rather than having individual families as humans do.}
-{161}{}{Their sense of right and wrong is very well defined. They do follow a code of ethics that is
- enforced by the pack as a whole. Violence is never used as a solution to a problem among the pack as
- far as I can see. There have been no 'capital crimes' committed here, so I can't say how those are
- handled. Hmmm. That's about all I can think of for now. I hope this helps you.}
-{162}{}{I answered that I respected all life and would do my best to heal the injured, regardless of who
- or what they were. I thought it was some thief or raider who had gotten himself hurt and needed
- a doctor. You can't begin to imagine my surprise when a couple of deathclaws stepped out of the
- night with an injured companion. Somebody had shot him up real good. I told them I couldn't work on him
- where we were, so they blindfolded me and brought me here. I've been here from that day forward.}
+{159}{}{Viajei para outra cidade e fiquei lá mais ou menos uma semana antes de voltar, quando voltei, fui
+ muito bem recebido. Gruthar, o líder do bando, veio até mim em particular e me agradeceu pessoalmente
+ por ter voltado. Não, eu realmente estou aqui porque quero estar.}
+{160}{}{Embora não tenham cordas vocais, os deathclaws parecem imitar a fala humana da mesma forma que
+ um papagaio. Ainda não descobri o mecanismo exato que faz isso, então não posso dizer mais nada
+ concreto. Socialmente, são animais de carga com um código de ética muito rígido e são liderados
+ por um 'macho alfa' que governa com o consentimento mútuo do bando. Eles parecem ser extremamente
+ leais ao bando como um todo, os tratando como uma unidade familiar, em vez de terem famílias individuais como os humanos.}
+{161}{}{Seu senso de certo e errado é muito bem definido, eles seguem um código de ética que é
+ aplicado pelo bando completo. A violência nunca é usada como solução para um problema entre o bando,
+ até onde pude ver. Não houve 'crimes capitais' cometidos aqui, então não posso dizer como eles
+ são tratados. Hmmm, isso é tudo que consigo pensar por enquanto, espero que isso possa te ajudar.}
+{162}{}{Respondi que respeitava todas as vidas e faria o possível para curar os feridos, independentemente
+ de quem ou o que fossem. Achei que fosse algum ladrão ou assaltante que se machucou e precisava
+ de um médico. Você não pode começar a imaginar minha surpresa quando um par de deathclaws
+ saiu da noite com um companheiro ferido, alguém acertou um tiro muito bem. Eu disse a eles que não poderia
+ trabalhar com ele onde estávamos, então eles me vendaram e me trouxeram aqui. Estou aqui desde aquele dia.}

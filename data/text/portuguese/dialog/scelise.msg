@@ -81,14 +81,14 @@
 {180}{}{Não importa.}
 {181}{}{Você não é bem vindo aqui. Agora saia antes que eu use a violência.}
 {182}{}{Eu não sei o que você disse para o Gond, mas você vai pagar!}
-{200}{}{Congratulations, you're now a Ranger. It is your sworn duty to fight slavery wherever it may appear. Take care, my friend.}
-{201}{}{Before I go, I have some information that may interest you.}
-{202}{}{Alright, let's hear it.}
-{203}{}{I happen to have the coordinates for one of Metzger's largest slaver camps. It's way northwest of here, a couple days journey from the Den.}
-{204}{}{Are you serious? Our northern Rangers have been trying to track down Metzger's slaver camps forever. This is excellent news, now we just need
- to destroy that horrible place. Do you know how well guarded it is?}
-{205}{}{The only things guarding that place now are corpses. I already wiped out the whole camp.}
-{206}{}{It looked like it had about a dozen guards.}
+{200}{}{Parabéns, agora você é um Ranger. É seu dever jurado combater a escravidão onde quer que ela apareça. Cuide-se meu amigo.}
+{201}{}{Antes de ir, tenho algumas informações que podem te interessar.}
+{202}{}{Tudo bem, vamos ouvi-lo.}
+{203}{}{Acontece que tenho as coordenadas de um dos maiores campos de escravos de Metzger. Fica bem a noroeste daqui, a alguns dias de viagem de Den.}
+{204}{}{Você está falando sério? Nossos Rangers do norte têm tentado rastrear os campos de escravos de Metzger desde sempre. Essa noticia é fantastica, agora
+ só precisamos acabar com aquele lugar terrivel. Você sabe o quão bem guardado é?}
+{205}{}{As únicas coisas que protegem aquele lugar agora são cadáveres. Eu já limpei todo o acampamento.}
+{206}{}{Parecia que tinha cerca de uma dúzia de guardas.}
 {207}{}{Eu não poderia te dizer--ainda nem fui lá.}
 {208}{}{You have? That's amazing! I'll have to spread the word out to the other Rangers. Now's the time for us to rise up and strike while they're
  busy licking their wounds. I can't thank you enough. We are truly in your debt.}

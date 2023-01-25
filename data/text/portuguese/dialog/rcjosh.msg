@@ -1,49 +1,49 @@
-{100}{}{You see a tall, thin man looking at you appraisingly.}
-{101}{}{You see Josh Laurance, owner of the Last Gasp Saloon.}
-{102}{}{You see a man looking you over, as though he's taking your measurements.}
-{103}{}{Get on out of here.}
-{104}{}{What the heck are you doing here, idjit?}
-{105}{}{This place ain't for you.}
-{106}{}{Go on now. Git, ya dang idjit!}
-{107}{}{Get out before you mess up the floor.}
-{108}{}{Hello there, friend. Name's Josh Laurance. I own this place.}
+{100}{}{Você vê um homem alto e magro te avaliando.}
+{101}{}{Você vê Josh Laurance, dono do Salão Ultimo Suspiro.}
+{102}{}{Você vê um homem olhando para você, como se estivesse tirando suas medidas.}
+{103}{}{Desapareça daqui.}
+{104}{}{Mas que raios você está fazendo aqui, idiota?}
+{105}{}{Este lugar não é para você.}
+{106}{}{Saia daqui. Vamos, seu maldito idiota!}
+{107}{}{Saia daqui antes que estrague o chão.}
+{108}{}{Olá amigo. Meu nome é Josh Laurance, sou dono este lugar.}
 {109}{}{O que posso fazer por você?}
-{110}{}{What is this place, exactly?}
-{111}{}{I'd like to buy a drink.}
-{112}{}{I'd like to buy a round for everyone here.}
-{113}{}{I'd like to buy a round of drinks for my close friends here.}
-{114}{}{What's going on in town lately?}
-{115}{}{Nothing, right now. I was just passing through. Goodbye.}
-{116}{}{I ain't servin' that.}
-{117}{}{Take your *friend* outside.}
-{118}{}{This ain't no damn freak-show. Get that out of here.}
-{119}{}{That ain't coming into my place.}
-{120}{}{We don't serve that kind here. Get out.}
-{121}{}{This is the Last Gasp Saloon and Funeral Parlor. A full service establishment. Bottle to Grave
- is our motto.}
-{122}{}{That seems like a bizarre combination, Josh.}
-{123}{}{You'd do Lucretia Borgia proud, Josh.}
-{124}{}{What do I have to do to buy a coffin?}
-{125}{}{How do I arrange for funeral services?}
-{126}{}{I'll make sure to stay away from your bathtub gin.}
-{127}{}{Certainly. That'll be $5.}
+{110}{}{O que é esse lugar, exatamente?}
+{111}{}{Eu gostaria de comprar uma bebida.}
+{112}{}{Eu gostaria de pagar uma rodada para todos aqui.}
+{113}{}{Eu gostaria de pagar uma rodada de bebidas para meus amigos aqui.}
+{114}{}{O que está acontecendo na cidade ultimamente?}
+{115}{}{Nada, agora. Eu estava apenas de passagem. Adeus.}
+{116}{}{Eu não sirvo a "isso".}
+{117}{}{Leve seu *amigo* para fora.}
+{118}{}{Isso não é um maldito show de horrores. Tire isso daqui.}
+{119}{}{Isso não vai entrar no meu lugar.}
+{120}{}{Não servimos a esse tipo aqui. Saia.}
+{121}{}{Este é o Salão e Funerária "Ultimo Suspiro". Um estabelecimento de serviço completo. "De uma
+ garrafa para o tumulo" é o nosso lema.}
+{122}{}{Parece uma combinação bizarra, Josh.}
+{123}{}{Você deixaria Lucretia Borgia orgulhosa, Josh.}
+{124}{}{O que devo fazer para comprar um caixão?}
+{125}{}{Como faço para providenciar serviços funerários?}
+{126}{}{Vou lembrar de ficar longe do seu gim na banheira.}
+{127}{}{Certamente. Isso vai ser $ 5.}
 {128}{}{Aqui está o seu dinheiro.}
-{129}{}{I guess I don't want a beer right now after all. Let me ask you about something, though.}
-{130}{}{That's generous of you. That'll be $50 for a round of beer for everyone here. Hey, I'm a poet
- and didn't know it.}
-{131}{}{Ouch. Puns kill, Josh. Just a friendly warning. Here's your money.}
-{132}{}{Hmm, that pun seems to have taken all the fun out of the idea. Let me ask you something instead.}
-{133}{}{Ain't you the kind of friend a feller needs. That'll be }
-{134}{}{It's worth it. Here you go.}
-{135}{}{On second thought, I better keep everyone sober. Let me ask you something instead.}
-{136}{}{Things are looking up for me with you drumming up business. Keep up the good work. Give me
- something else to do, anyhow.}
-{137}{}{Well, not a whole lot that I pay attention too. Mostly my business is kinda quiet. Still as the
- grave, you might say. Although, lately, that don't mean so much.}
-{138}{}{Huh? What do you mean?}
-{139}{}{That it is. But I couldn't make ends meet just burying people - you might say business was dead.
- Oh, it was a grave matter. So I undertook the job of fixing up my place to sell drinks, too.}
-{140}{}{Uh-huh. I'm almost afraid to ask you anything else now. But I guess I will anyway.}
+{129}{}{Acho que não quero uma cerveja agora. Mas eu gostaria de te perguntar sobre algo.}
+{130}{}{Isso é generoso de sua parte. Vai te custar $50 por uma rodada de cerveja por todas as cabeças. Ei,
+ eu sou um poeta e não sabia disso.}
+{131}{}{Ei, trocadilhos matam, Josh. Apenas um aviso amigável. Aqui está o seu dinheiro.}
+{132}{}{Hmm, esse trocadilho acabou com a diversão. Em vez disso, Deixe eu te perguntar uma coisa.}
+{133}{}{Não parece ser o tipo de colega que precisa desses caras. Vai te custar }
+{134}{}{Vale a pena. Aqui está.}
+{135}{}{Pensando bem, é melhor eu deixar todos sóbrios. Em vez disso, deixe eu te perguntar uma coisa.}
+{136}{}{As coisas estão melhorando para mim com você promovendo o negócio. Continue com o bom trabalho. De
+ qualquer forma, me dê algo para fazer.}
+{137}{}{Bem, não que eu tenha que prestar muita atenção. Meu negócio é quase sempre muito tranquilo,
+ parece até com um tumulo. Embora, ultimamente, isso não signifique muito.}
+{138}{}{Huh? O que você quer dizer?}
+{139}{}{Isso é. Mas não conseguiria sobreviver só enterrando pessoas: você poderia até dizer que o negócio estaria morto.
+ Ah, era um problema sério. Então me encarreguei de montar um local para vender bebidas também.}
+{140}{}{Uh-huh. Estou quase com medo de perguntar mais alguma coisa agora. Mas acho que vou de qualquer maneira.}
 {141}{}{Uh, doesn't it throw people off their feed to see all the stiffs in here?}
 {142}{}{I don't think I can stand another pun. I'm leaving. Goodbye.}
 {143}{}{Well, it would, if they was all real. But they ain't. Not all of 'em, anyway. 'Sides, the

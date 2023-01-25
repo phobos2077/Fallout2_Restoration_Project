@@ -1,2 +1,2 @@
-{100}{}{You see the vault door terminal.}
-{101}{}{This looks to be the computer that controls a door nearby.}
+{100}{}{Você vê o terminal da porta da Vault.}
+{101}{}{Este parece ser o computador que controla uma porta próxima.}

@@ -1,36 +1,36 @@
-{100}{}{You see an old, kindly looking fellow.}
-{101}{}{It's Doc Jubilee.}
-{102}{}{He's an old man with a snow-white beard and a slightly blank stare.}
-{103}{}{I'm Doc Jubilee. What's wrong, young man?}
-{104}{}{What's wrong, young man?}
+{100}{}{Você vê um sujeito velho e de aparência bondosa.}
+{101}{}{É o Doutor Jubilee.}
+{102}{}{Ele é um velho com uma barba branca como a neve e um olhar ligeiramente vazio.}
+{103}{}{Eu sou o Doutor Jubilee. O que há de errado, jovem?}
+{104}{}{O que há de errado, jovem?}
 {105}{}{Estou ferido.}
 {106}{}{Eu preciso de um médico.}
-{107}{}{Can't you just take some pills or something and stop bothering me with this twaddle?}
-{108}{}{Hell, you're hardly bleeding.}
-{109}{}{I don't know. Don't think I can save it. We may have to cut that leg off.}
-{110}{}{You're kidding.}
+{107}{}{Você não pode simplesmente tomar umas pílulas ou qualquer coisa e parar de me incomodar com essa bobagem?}
+{108}{}{Inferno, você nem está sangrando.}
+{109}{}{Não sei. Não pense que posso salvá-lo, talvez teremos que cortar essa perna fora.}
+{110}{}{Você está brincando.}
 {111}{}{Ha-ha.}
-{112}{}{There you are, sonny.}
+{112}{}{Aí está você, filho.}
 {113}{}{Novamente.}
-{114}{}{Thanks, Doc. Maybe you can help me out with some answers.}
+{114}{}{Obrigado, doutor. Talvez você possa me ajudar com algumas respostas.}
 {115}{}{Adeus.}
-{116}{}{It'll cost you $50.}
-{117}{}{Just heal me.}
-{118}{}{I'm not staying here.}
-{119}{}{You make better.}
+{116}{}{Vai custar $ 50.}
+{117}{}{Só me curar.}
+{118}{}{Eu não vou ficar aqui.}
+{119}{}{Você parece melhor.}
 {120}{}{Eu vou agora.}
-{121}{}{Nope. Never joke. Best I cut that leg off before gangrene sets in.}
-{122}{}{No way you're cutting anything off, understand?}
-{123}{}{That's it, I'm leaving.}
-{124}{}{Well, if it festers, don't blame me.}
-{125}{}{I don't run a charity hospital. You'll need to get some cash before I do anything.}
-{126}{}{So what can I do for you?}
+{121}{}{Não, nunca brinco. Melhor eu cortar essa perna antes que a gangrena comece.}
+{122}{}{De jeito nenhum, você nao vai cortar nada, entendeu?}
+{123}{}{Ja chega, vou embora.}
+{124}{}{Bem, se infeccionar, não me culpe.}
+{125}{}{Não dirijo um hospital de caridade. Você vai precisar de dinheiro antes de eu fazer qualquer coisa.}
+{126}{}{Então o que posso fazer por você?}
 {127}{}{Manda.}
 {128}{}{Vault 13?}
-{129}{}{Know where I could find Vault 13?}
-{130}{}{I heard somebody saying Mr. Westin's not well. That true? I'm worried something might happen to him. He owes me money.}
-{131}{}{There's this Saltbeef fellow says you stole a map from him. What's the deal?}
-{132}{}{I'm looking for a job. Know of any?}
+{129}{}{Sabe onde posso encontrar a Vault 13?}
+{130}{}{Ouvi alguém dizendo que o Sr. Westin não está bem. Isso é verdade? Me preocupo que algo possa acontecer com ele. Ele esta me devendo.}
+{131}{}{Aquele tal de Bob Carne Seca disse que você roubou um mapa dele. Qual é o problema?}
+{132}{}{Estou à procura de trabalho. Conhece algum?}
 {133}{}{Doc, you wouldn't know anything about a group that's fighting those evil slavers, would you?}
 {134}{}{Well you shouldn't worry, son. As long as he doesn't tax his system, he'll probably outlast us all. 'Course that's if he'd ever mind my doctoring or his medicine.}
 {135}{}{Well, that's good to know. There's something else I was wondering.}
@@ -138,14 +138,14 @@
 {302}{}{ mulher, }
 {303}{}{so listen close: I am a doctor of the NCR. It's a solemn duty, and it came with a solemn oath. You ask me one more time to piss on that oath, the ONLY part of it that's going out the window is "first, do no harm." You got me?}
 {304}{}{Alright, screw it. If you're as great as you seem to think you are, maybe you'll be able to sew yourself back together after this.}
-{305}{}{Whoa, now. Didn't mean to step on any toes, doc. I'll just leave you be for awhile.}
-{310}{}{Say, doc, I was wondering about those heart pills you've got up there on the shelf.}
-{311}{}{Are you sure you can't reconsider selling me some of those pills?}
+{305}{}{Uau, agora. Não queria pisar no pé de ninguém, doutor. Vou deixar você em paz por um tempo.}
+{310}{}{Diga, doutor, eu estava pensando sobre aquelas pílulas para o coração que você tem aí na prateleira.}
+{311}{}{Tem certeza que não pode pensar de novo em me vender algumas dessas pílulas?}
 {320}{}{Desculpe, o pessoal do vereador Westin deve buscá-los em }
 {321}{}{ dias, }
 {322}{}{ dia, }
 {323}{}{e estou muito ocupado para misturar outro lote em tempo.}
-{324}{}{(Mutters to himself.) Where the hell did I put those pills for Mr. Westin. His heart aint gonna last long without 'em. (He looks up.)
- Oh, sorry. What can I do for you today?}
-{325}{}{I couldn't help overhearing what you said about heart pills. I was actually going to ask you about such medicine.}
-{330}{}{(Mutters to himself.) I can't believe Mr. Westin's dead. Couldn't have been my fault, I measured out those pills precisely. (He looks up) Oh, sorry. What can I do for you today?}
+{324}{}{(Mutters falando para si mesmo.) Onde eu coloquei essas malditas pílulas para o Sr. Westin? O coração dele não aguenta muito
+ sem elas. (Ele olha para cima.) Oh, desculpe. O que eu posso fazer por você hoje?}
+{325}{}{Não pude deixar de ouvir o que você disse sobre pílulas para o coração. Na verdade, eu ia perguntar sobre esse remédio.}
+{330}{}{(Mutters falando para si mesmo.) Eu não acredito que o Sr. Westin está morto. Não pode ser minha culpa, eu calculei tudo com precisão. (Ele olha para cima) Oh, desculpe. O que eu posso fazer por você hoje?}

@@ -255,7 +255,7 @@
 {355}{}{Prateleiras}
 {356}{}{Raider}
 {357}{}{Campones}
-{358}{}{Merchant}
+{358}{}{Comerciante}
 {359}{}{Guarda}
 {360}{}{Cliente de Rawhide}
 {361}{}{Piso}
@@ -740,7 +740,7 @@
 {840}{}{Smoke}
 {841}{}{Comerciante}
 {842}{}{Carniceiro}
-{843}{}{Merchant}
+{843}{}{Comerciante}
 {844}{}{Campones}
 {845}{}{Templo de Arroyo}
 {846}{}{Trabalhador do Porto}
@@ -933,7 +933,7 @@
 {1033}{}{Escravo}
 {1034}{}{Traficante de escravos}
 {1035}{}{Chip}
-{1036}{}{Reactor}
+{1036}{}{Reator}
 {1037}{}{Computador do Reator}
 {1038}{}{Caixa eletrônico}
 {1039}{}{Cofre}
@@ -1097,7 +1097,7 @@
 {1197}{}{Mapa dos Raiders}
 {1198}{}{Pariah Dog}
 {1199}{}{Klaxon}
-{1200}{}{Mine}
+{1200}{}{Mina}
 {1201}{}{Cova}
 {1202}{}{Cal}
 {1203}{}{Slim}
@@ -1271,7 +1271,7 @@
 {1371}{}{Roteiro do mapa}
 {1372}{}{Roteiro do mapa}
 {1373}{}{Máquina de Nuka-Cola}
-{1374}{}{Dock}
+{1374}{}{Doca}
 {1375}{}{Porta}
 {1376}{}{Mina}
 {1377}{}{Mina}
@@ -1297,7 +1297,7 @@
 {1397}{}{Carny Kid}
 {1398}{}{}
 {1399}{}{}
-{1400}{}{Mine}
+{1400}{}{Mina}
 {1401}{}{Armário}
 {1402}{}{Porta}
 {1403}{}{}
@@ -1318,8 +1318,8 @@
 {1418}{}{Doutor Abbey}
 {1419}{}{Irmão John}
 {1420}{}{Irmão Max}
-{1421}{}{Merchant}
-{1422}{}{Merchant}
+{1421}{}{Comerciante}
+{1422}{}{Comerciante}
 {1423}{}{Guarda do comerciante}
 {1424}{}{Senhora Peterson}
 {1425}{}{Cidadão Abbey}
@@ -1503,7 +1503,7 @@
 {1603}{}{Mijando}
 {1604}{}{Roteiro do mapa}
 {1605}{}{Roteiro do mapa}
-{1606}{}{Merchant}
+{1606}{}{Comerciante}
 {1607}{}{Guarda do comerciante}
 {1608}{}{Guarda do comerciante}
 {1609}{}{Mapa do comerciante}

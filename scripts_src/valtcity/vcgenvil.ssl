@@ -83,7 +83,10 @@ procedure Node001;
 
 /* Local variables which do not need to be saved between map changes. */
 variable Only_Once:=0;
+
 variable the_temp := 0;
+
+
 
 
 procedure start begin
@@ -98,68 +101,69 @@ end
    set_self_ai(AI_COWARD);
 end*/
 
-procedure map_enter_p_proc begin
-   variable gun;
-   Only_Once := 0;
-   if (map_first_run) then begin
-      set_local_var(LVAR_Home_Tile,self_tile);
-      if ( (local_var(LVAR_Home_Tile) == 21315) or (local_var(LVAR_Home_Tile) == 23107) or (local_var(LVAR_Home_Tile) == 18680) ) then begin
-         set_local_var(LVAR_Can_Use_Rifle,1);
-      end
-   end
+procedure map_enter_p_proc
+begin
+  variable gun;
+  Only_Once := 0;
+  if (map_first_run) then begin
+     set_local_var(LVAR_Home_Tile,self_tile);
+     if ( (local_var(LVAR_Home_Tile) == 21718) or (local_var(LVAR_Home_Tile) == 24311) or (local_var(LVAR_Home_Tile) == 19284) ) then begin
+      set_local_var(LVAR_Can_Use_Rifle,1);
+     end
+  end
 
 //these guys get assault rifles if you give connar the weapons
-   if (local_var(LVAR_Can_Use_Rifle)) then begin
-      if (global_var(GVAR_QUEST_VAULT_VILLAGE) == VILLAGE_QUEST_DELIVERED_GUNS) then begin
-         if (local_var(LVAR_Made_Guns) == 0) then begin
-            set_local_var(LVAR_Made_Guns,1);
-            gun:=create_object(PID_ASSAULT_RIFLE,0,0);
-            add_obj_to_inven(self_obj,gun);
-         end
-         if (self_is_armed == false) then begin
-            arm_obj(self_obj, PID_ASSAULT_RIFLE, 1, 0, 1)
-         end
+ if (local_var(LVAR_Can_Use_Rifle)) then begin
+   if (global_var(GVAR_QUEST_VAULT_VILLAGE) == VILLAGE_QUEST_DELIVERED_GUNS) then begin
+      if (local_var(LVAR_Made_Guns) == 0) then begin
+         set_local_var(LVAR_Made_Guns,1);
+         gun:=create_object(PID_ASSAULT_RIFLE,0,0);
+         add_obj_to_inven(self_obj,gun);
+      end
+      if (self_is_armed == false) then begin
+         arm_obj(self_obj, PID_ASSAULT_RIFLE, 1, 0, 1)
       end
    end
+ end
 
-   if ( (global_var(GVAR_VAULT_SERVANT) == SERVANT_FINISHED_VIOLENT) or (((game_time - global_var(GVAR_SERVANT_RAID_DATE)) >= ONE_GAME_MONTH) and (((global_var(GVAR_QUEST_VAULT_VILLAGE) < VILLAGE_QUEST_DELIVERED_GUNS) and (global_var(GVAR_QUEST_VAULT_VILLAGE) > 0)) or (global_var(GVAR_QUEST_VAULT_SERVANT) > 0) and (global_var(GVAR_VAULT_SERVANT) != SERVANT_FINISHED_DIPLOMATIC) and (global_var(GVAR_QUEST_VAULT_VILLAGE) < VILLAGE_QUEST_DELIVERED_GUNS))) ) then begin
+ if ( (global_var(GVAR_VAULT_SERVANT) == SERVANT_FINISHED_VIOLENT) or (((game_time - global_var(GVAR_SERVANT_RAID_DATE)) >= ONE_GAME_MONTH) and (((global_var(GVAR_QUEST_VAULT_VILLAGE) < VILLAGE_QUEST_DELIVERED_GUNS) and (global_var(GVAR_QUEST_VAULT_VILLAGE) > 0)) or (global_var(GVAR_QUEST_VAULT_SERVANT) > 0) and (global_var(GVAR_VAULT_SERVANT) != SERVANT_FINISHED_DIPLOMATIC) and (global_var(GVAR_QUEST_VAULT_VILLAGE) < VILLAGE_QUEST_DELIVERED_GUNS))) )  then begin
       //destroy_object(self_obj);
       set_self_invisible;
-   end else begin
+ end else begin
 
-      if (global_var(GVAR_QUEST_VAULT_VILLAGE) >= VILLAGE_QUEST_FINISHED_DIPLOMATIC) or (global_var(GVAR_QUEST_VAULT_VILLAGE) == VILLAGE_QUEST_DELIVERED_GUNS) then begin
-      //if ( ((global_var(GVAR_VAULT_SERVANT) == 3) and (global_var(GVAR_VAULT_VILLAGE) != 4) and ((game_time - global_var(GVAR_SERVANT_RAID_DATE)) >= ONE_GAME_MONTH) ) or (global_var(GVAR_VAULT_SERVANT) == 4)) then begin
-         if (local_var(LVAR_Home_Tile) == 21315) then
-            critter_attempt_placement(self_obj, 21487, dude_elevation);
-         else if (local_var(LVAR_Home_Tile) == 20502) then
-            critter_attempt_placement(self_obj, 22102, dude_elevation);
-         else if (local_var(LVAR_Home_Tile) == 19499) then
-            critter_attempt_placement(self_obj, 19705, dude_elevation);
-         else if (local_var(LVAR_Home_Tile) == 18680) then
-            critter_attempt_placement(self_obj, 18280, dude_elevation);
-         else if (local_var(LVAR_Home_Tile) == 18079) then
-            critter_attempt_placement(self_obj, 20099, dude_elevation);
-         //else if (local_var(LVAR_Home_Tile) == 19890) then // Ann's position
-         //   critter_attempt_placement(self_obj, 23496, dude_elevation);
-         else if (local_var(LVAR_Home_Tile) == 23107) then
-            critter_attempt_placement(self_obj, 23107, dude_elevation);
-         else if (local_var(LVAR_Home_Tile) == 23492) then
-            critter_attempt_placement(self_obj, 21911, dude_elevation);
-         else
-            critter_attempt_placement(self_obj, self_tile, dude_elevation);
-      //end
-      end
-      set_self_team(TEAM_VAULT_VILLAGERS);
+  if (global_var(GVAR_QUEST_VAULT_VILLAGE) >= VILLAGE_QUEST_FINISHED_DIPLOMATIC) or (global_var(GVAR_QUEST_VAULT_VILLAGE) == VILLAGE_QUEST_DELIVERED_GUNS) then begin
+  //if ( ((global_var(GVAR_VAULT_SERVANT) == 3) and (global_var(GVAR_VAULT_VILLAGE) != 4) and ((game_time - global_var(GVAR_SERVANT_RAID_DATE)) >= ONE_GAME_MONTH) ) or (global_var(GVAR_VAULT_SERVANT) == 4)) then begin
+    if (local_var(LVAR_Home_Tile) == 21718) then
+      critter_attempt_placement(self_obj, 23890, dude_elevation);
+    else if (local_var(LVAR_Home_Tile) == 21306) then
+      critter_attempt_placement(self_obj, 22906, dude_elevation);
+    else if (local_var(LVAR_Home_Tile) == 20303) then
+      critter_attempt_placement(self_obj, 20509, dude_elevation);
+    else if (local_var(LVAR_Home_Tile) == 19284) then
+      critter_attempt_placement(self_obj, 18884, dude_elevation);
+    else if (local_var(LVAR_Home_Tile) == 18883) then
+      critter_attempt_placement(self_obj, 21103, dude_elevation);
+    else if (local_var(LVAR_Home_Tile) == 20694) then
+      critter_attempt_placement(self_obj, 24100, dude_elevation);
+    else if (local_var(LVAR_Home_Tile) == 24311) then
+      critter_attempt_placement(self_obj, 24311, dude_elevation);
+    else if (local_var(LVAR_Home_Tile) == 24296) then
+      critter_attempt_placement(self_obj, 22715, dude_elevation);
+    else
+      critter_attempt_placement(self_obj, self_tile, dude_elevation);
+  //end
+  end
+  set_self_team(TEAM_VAULT_VILLAGERS);
       //set_local_var(7, tile_num(self_obj));
-      //if ((tile_num(self_obj) == 23107) and (tile_num(self_obj) != 23900)) then
-      if ( (local_var(LVAR_Home_Tile) == 20502) or (local_var(LVAR_Home_Tile) == 19499) or (local_var(LVAR_Home_Tile) == 18680) or (local_var(LVAR_Home_Tile) == 18079) ) then
-         add_timer_event(self_obj, 50, 1);
-      //if (global_var(GVAR_VAULT_VILLAGE) == 5) then
+      //if ((tile_num(self_obj) == 24311) and (tile_num(self_obj) != 23900)) then
+   if ( (local_var(LVAR_Home_Tile) == 21306) or (local_var(LVAR_Home_Tile) == 20303) or (local_var(LVAR_Home_Tile) == 19284) or (local_var(LVAR_Home_Tile) == 18883) ) then
+      add_timer_event(self_obj, 50, 1);
+     // if (global_var(GVAR_VAULT_VILLAGE) == 5) then
       //   critter_attempt_placement(self_obj, tile_num(self_obj), 1);
       //if (global_var(GVAR_VAULT_VILLAGE) == 6) then
       //   critter_attempt_placement(self_obj, tile_num(self_obj), 2);
 
-   end
+ end
 end
 
 /* Every heartbeat that the critter gets, this procedure will be called. Anything from
@@ -172,8 +176,8 @@ procedure critter_p_proc begin
    this as well. */
 
    if ( ((local_var(LVAR_Hostile) == 2) or (global_var(GVAR_ENEMY_VAULT_VILLAGE))) and (self_can_see_dude)) then begin
-      set_local_var(LVAR_Hostile,1);
-      attack(dude_obj);
+       set_local_var(LVAR_Hostile,1);
+       attack(dude_obj);
    end
 
 end
@@ -193,11 +197,13 @@ end
    //end
 //end
 
-procedure damage_p_proc begin
-   if (source_obj == dude_obj) then begin
-      set_local_var(LVAR_Hostile, 2);
-      set_global_var(GVAR_ENEMY_VAULT_VILLAGE,1);
-   end
+procedure damage_p_proc
+begin
+  if (source_obj == dude_obj) then
+  begin
+    set_local_var(LVAR_Hostile, 2);
+    set_global_var(GVAR_ENEMY_VAULT_VILLAGE,1);
+  end
 end
 
 /* Any time that the player is caught stealing from this critter, Pickup_proc will be called.
@@ -205,7 +211,7 @@ end
    will be remembered. */
 procedure pickup_p_proc begin
    if (source_obj == dude_obj) then begin
-      set_local_var(LVAR_Hostile,2);
+       set_local_var(LVAR_Hostile,2);
    end
 end
 
@@ -223,7 +229,7 @@ end
 
    if (global_var(GVAR_VAULT_MONSTER_COUNT) == 0) then
       float_msg(self_obj, message_str(SCRIPT_VCGENVIL, 109), FLOAT_MSG_YELLOW);
-   else if (self_tile == 23107) then
+   else if (self_tile == 24311) then
       float_msg(self_obj, message_str(SCRIPT_VCGENVIL, 115), FLOAT_MSG_YELLOW);
    else begin if ((global_var(GVAR_VAULT_VILLAGE) == 4) and (global_var(GVAR_VAULT_SERVANT) == 3)) then
       float_msg(self_obj, message_str(SCRIPT_VCGENVIL, random(116, 118)), FLOAT_MSG_YELLOW);
@@ -243,29 +249,30 @@ end
  end
 end*/
 
-procedure talk_p_proc begin
-   /*Evil_Critter := 0;
-   Slavery_Tolerant := 2;
-   Karma_Perception := 10;
-   CheckKarma;
-   GetReaction;*/
-   if (global_var(GVAR_VAULT_MONSTER_COUNT) == 0) then
-      float_msg(self_obj, message_str(SCRIPT_VCGENVIL, 109), FLOAT_MSG_YELLOW);
-   else if (self_tile == 23107) then
-      float_msg(self_obj, message_str(SCRIPT_VCGENVIL, 115), FLOAT_MSG_YELLOW);
-   else
-   begin
-      if ((global_var(GVAR_QUEST_VAULT_VILLAGE) == VILLAGE_QUEST_DELIVERED_GUNS) and (((game_time - global_var(GVAR_SERVANT_RAID_DATE)) >= ONE_GAME_MONTH))) then
-         float_msg(self_obj, message_str(SCRIPT_VCGENVIL, random(116, 118)), FLOAT_MSG_YELLOW);
-      if ( (global_var(GVAR_QUEST_VAULT_VILLAGE) == VILLAGE_QUEST_DELIVERED_GUNS) or (global_var(GVAR_VAULT_SERVANT) >= SERVANT_BRAIN_AGREEMENT)) then
-         float_msg(self_obj, message_str(SCRIPT_VCGENVIL, random(112, 114)), FLOAT_MSG_YELLOW);
-      //else if (global_var(GVAR_VAULT_VILLAGE) == 2) then
-      //   float_msg(self_obj, message_str(SCRIPT_VCGENVIL, random(110, 111)), FLOAT_MSG_YELLOW);
-      else if (global_var(GVAR_QUEST_VAULT_VILLAGE) == VILLAGE_QUEST_GET_GUNS) then
-         float_msg(self_obj, message_str(SCRIPT_VCGENVIL, random(102, 108)), FLOAT_MSG_YELLOW);
-      else
-         float_msg(self_obj, message_str(SCRIPT_VCGENVIL, random(102, 106)), FLOAT_MSG_YELLOW);
-   end
+procedure talk_p_proc
+begin
+  /*Evil_Critter := 0;
+  Slavery_Tolerant := 2;
+  Karma_Perception := 10;
+  CheckKarma;
+  GetReaction;*/
+  if (global_var(GVAR_VAULT_MONSTER_COUNT) == 0) then
+    float_msg(self_obj, message_str(SCRIPT_VCGENVIL, 109), FLOAT_MSG_YELLOW);
+  else if (self_tile == 24311) then
+    float_msg(self_obj, message_str(SCRIPT_VCGENVIL, 115), FLOAT_MSG_YELLOW);
+  else
+  begin
+    if ((global_var(GVAR_QUEST_VAULT_VILLAGE) == VILLAGE_QUEST_DELIVERED_GUNS) and (((game_time - global_var(GVAR_SERVANT_RAID_DATE)) >= ONE_GAME_MONTH))) then
+      float_msg(self_obj, message_str(SCRIPT_VCGENVIL, random(116, 118)), FLOAT_MSG_YELLOW);
+    if ( (global_var(GVAR_QUEST_VAULT_VILLAGE) == VILLAGE_QUEST_DELIVERED_GUNS) or (global_var(GVAR_VAULT_SERVANT) >= SERVANT_BRAIN_AGREEMENT)) then
+      float_msg(self_obj, message_str(SCRIPT_VCGENVIL, random(112, 114)), FLOAT_MSG_YELLOW);
+    //else if (global_var(GVAR_VAULT_VILLAGE) == 2) then
+    //  float_msg(self_obj, message_str(SCRIPT_VCGENVIL, random(110, 111)), FLOAT_MSG_YELLOW);
+    else if (global_var(GVAR_QUEST_VAULT_VILLAGE) == VILLAGE_QUEST_GET_GUNS) then
+      float_msg(self_obj, message_str(SCRIPT_VCGENVIL, random(102, 108)), FLOAT_MSG_YELLOW);
+    else
+      float_msg(self_obj, message_str(SCRIPT_VCGENVIL, random(102, 106)), FLOAT_MSG_YELLOW);
+  end
 end
 
 
@@ -321,22 +328,22 @@ procedure Node001 begin
 end
 
 procedure timed_event_p_proc begin
-   if (anim_busy(self_obj) == 0) then begin
-      if (random(1, 2) == 1) then begin
-         if (tile_distance(self_tile, local_var(7)) >= 8) then
-            the_temp := tile_num_in_direction(self_tile, rotation_to_tile(self_tile, local_var(7)), random(2, 5));
-         else
-            the_temp := tile_num_in_direction(self_tile, random(0, 5), random(2, 5));
-         self_walk_to_tile(the_temp);
-         if (self_tile != local_var(7)) then
-            self_walk_to_tile(local_var(7));
-         else if (random(1, 5) == 1) then
-            self_walk_to_tile(tile_num_in_direction(self_tile, random(0, 5), random(1, 4)));
-         else
-            self_walk_to_tile(tile_num_in_direction(self_tile, (self_cur_rot + 3) % 6, random(1, 4)));
-      end
-   end
-   add_timer_event(self_obj, random(70,100), 1);
+  if (anim_busy(self_obj) == 0) then begin
+    if (random(1, 2) == 1) then begin
+      if (tile_distance(self_tile, local_var(7)) >= 8) then
+        the_temp := tile_num_in_direction(self_tile, rotation_to_tile(self_tile, local_var(7)), random(2, 5));
+      else
+        the_temp := tile_num_in_direction(self_tile, random(0, 5), random(2, 5));
+      self_walk_to_tile(the_temp);
+      if (self_tile != local_var(7)) then
+        self_walk_to_tile(local_var(7));
+      else if (random(1, 5) == 1) then
+        self_walk_to_tile(tile_num_in_direction(self_tile, random(0, 5), random(1, 4)));
+      else
+        self_walk_to_tile(tile_num_in_direction(self_tile, (self_cur_rot + 3) % 6, random(1, 4)));
+    end
+  end
+  add_timer_event(self_obj, random(70,100), 1);
 end
 
 //xxxxxxxxxxxxxxxxxxxx

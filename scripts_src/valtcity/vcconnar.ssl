@@ -163,7 +163,8 @@ end
    set_self_ai(AI_COWARD);
 end*/
 
-procedure map_enter_p_proc begin
+procedure map_enter_p_proc
+begin
    Only_Once := 0;
    set_self_team(TEAM_VAULT_VILLAGERS);
    if ( (global_var(GVAR_VAULT_SERVANT) == SERVANT_FINISHED_VIOLENT) or (((game_time - global_var(GVAR_SERVANT_RAID_DATE)) >= ONE_GAME_MONTH) and (((global_var(GVAR_QUEST_VAULT_VILLAGE) < VILLAGE_QUEST_DELIVERED_GUNS) and (global_var(GVAR_QUEST_VAULT_VILLAGE) > 0)) or (global_var(GVAR_QUEST_VAULT_SERVANT) > 0) and (global_var(GVAR_VAULT_SERVANT) != SERVANT_FINISHED_DIPLOMATIC) and (global_var(GVAR_QUEST_VAULT_VILLAGE) < VILLAGE_QUEST_DELIVERED_GUNS))) )  then begin
@@ -180,7 +181,7 @@ procedure map_enter_p_proc begin
       if (cur_map_index == MAP_VAULTCITY_DOWNTOWN) then begin
          set_self_invisible; // go invis
       end
-      critter_attempt_placement(self_obj, 23707, dude_elevation);
+      critter_attempt_placement(self_obj, 24911, dude_elevation);
    end
 
 end
@@ -244,7 +245,8 @@ end
   // end
 //end
 
-procedure damage_p_proc begin
+procedure damage_p_proc
+begin
    if (cur_map_index == MAP_VAULT_VILLAGE) then begin
       if (source_obj == dude_obj) then begin
          set_local_var(LVAR_Hostile, 2);
@@ -277,25 +279,27 @@ procedure talk_p_proc begin
    set_local_var(LVAR_From_Node_11,0);
 
    if (map_var(0) == 1) then
-      set_local_var(LVAR_Herebefore, 1);
+     set_local_var(LVAR_Herebefore, 1);
 
-   if (cur_map_index == MAP_VAULTCITY_DOWNTOWN) then begin
-      if (town_known(AREA_VAULT_VILLAGE) == MARK_STATE_VISITED) then begin
-         start_gdialog(SCRIPT_VCCONNAR, self_obj, 4, -1, -1);
-         gsay_start;
-            call Node022;
-         gsay_end;
-         end_dialogue;
-      end else begin
-         floater(500);
-      end
-   end
-   else if (global_var(GVAR_VAULT_MONSTER_COUNT) == 0) then begin
-      start_gdialog(SCRIPT_VCCONNAR, self_obj, 4, -1, -1);
-      gsay_start;
-         call Node005;
-      gsay_end;
-      end_dialogue;
+   if (cur_map_index == MAP_VAULTCITY_DOWNTOWN) then
+   begin
+     if (town_known(AREA_VAULT_VILLAGE) == MARK_STATE_VISITED) then begin
+        start_gdialog(SCRIPT_VCCONNAR, self_obj, 4, -1, -1);
+        gsay_start;
+         call Node022;
+        gsay_end;
+        end_dialogue;
+     end else begin
+        floater(500);
+     end
+   end else
+   if (global_var(GVAR_VAULT_MONSTER_COUNT) == 0) then
+   begin
+     start_gdialog(SCRIPT_VCCONNAR, self_obj, 4, -1, -1);
+     gsay_start;
+      call Node005;
+     gsay_end;
+     end_dialogue;
    end else
    //if (local_var(LVAR_Initiated_Talk) == 1) then begin
    //    set_local_var(LVAR_Initiated_Talk,2);
@@ -303,21 +307,21 @@ procedure talk_p_proc begin
    //end
 
    if (global_var(GVAR_VAULT_VILLAGE) == VILLAGE_SCREWED) then begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
-      gSay_Start;
-         call Node012;
-      gSay_End;
-      end_dialogue;
+       start_gdialog(NAME,self_obj,4,-1,-1);
+       gSay_Start;
+           call Node012;
+       gSay_End;
+       end_dialogue;
    end else
 
    if (local_var(LVAR_Herebefore) == 0) then begin
-      set_local_var(LVAR_Herebefore,1);
-      set_map_var(0, 1);
-      start_gdialog(NAME,self_obj,4,-1,-1);
-      gSay_Start;
-         call Node002;
-      gSay_End;
-      end_dialogue;
+       set_local_var(LVAR_Herebefore,1);
+       set_map_var(0, 1);
+       start_gdialog(NAME,self_obj,4,-1,-1);
+       gSay_Start;
+           call Node002;
+       gSay_End;
+       end_dialogue;
    end
    else if ( (local_var(LVAR_Has_Weapons_But_Didnt_Give)) and (global_var(GVAR_QUEST_VAULT_VILLAGE) < VILLAGE_QUEST_DELIVERED_GUNS) ) then begin
       start_gdialog(SCRIPT_VCCONNAR, self_obj, 4, -1, -1);
@@ -333,42 +337,43 @@ procedure talk_p_proc begin
       gsay_end;
       end_dialogue;
    end
-   else if ((local_var(LVAR_Herebefore) == 1) and (global_var(GVAR_QUEST_VAULT_VILLAGE) == 0)) then begin
-      start_gdialog(SCRIPT_VCCONNAR, self_obj, 4, -1, -1);
-      gsay_start;
-         call Node007; //ISSUES - killap
-      gsay_end;
-      end_dialogue;
+   else if ((local_var(LVAR_Herebefore) == 1) and (global_var(GVAR_QUEST_VAULT_VILLAGE) == 0)) then
+   begin
+     start_gdialog(SCRIPT_VCCONNAR, self_obj, 4, -1, -1);
+     gsay_start;
+      call Node007; //ISSUES - killap
+     gsay_end;
+     end_dialogue;
    end
 
    else if ( (global_var(GVAR_QUEST_VAULT_VILLAGE) >= VILLAGE_QUEST_GET_GUNS) and (global_var(GVAR_QUEST_VAULT_VILLAGE) <= VILLAGE_QUEST_GOT_GUNS) )  then begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
-      gSay_Start;
-         call Node013;
-      gSay_End;
-      end_dialogue;
+       start_gdialog(NAME,self_obj,4,-1,-1);
+       gSay_Start;
+           call Node013;
+       gSay_End;
+       end_dialogue;
    end
    else if (global_var(GVAR_QUEST_VAULT_VILLAGE) == VILLAGE_QUEST_DELIVERED_GUNS) then begin
-      //if (game_time - (local_var(LVAR_Time_Delivered))  >= ONE_GAME_MONTH) then begin
-      //   call Node017;
-      //end
-      //else begin
-         call Node016;
-      //end
+       //if (game_time - (local_var(LVAR_Time_Delivered))  >= ONE_GAME_MONTH) then begin
+       //    call Node017;
+       //end
+       //else begin
+           call Node016;
+       //end
    end
    else if ( (global_var(GVAR_QUEST_VAULT_VILLAGE) == VILLAGE_QUEST_FINISHED_DIPLOMATIC) and (global_var(GVAR_VAULT_VILLAGE) < VILLAGE_STAGE_ONE) ) then begin
       call Node017;
    end
    else if (global_var(GVAR_VAULT_VILLAGE) == VILLAGE_STAGE_ONE) then begin
-      //if (game_time - (local_var(LVAR_Time_Delivered))  >= ONE_GAME_MONTH) then begin
-      //   call Node019;
-      //end
-      //else begin
-         call Node018;
-      //end
+       //if (game_time - (local_var(LVAR_Time_Delivered))  >= ONE_GAME_MONTH) then begin
+       //    call Node019;
+       //end
+       //else begin
+           call Node018;
+       //end
    end
    else begin
-      call Node020;
+       call Node020;
    end
 
 end
@@ -440,22 +445,22 @@ procedure Node003 begin
    Reply(107);
 
    if (global_var(GVAR_VAULT_MONSTER_COUNT) == 0) then
-      NOption(108,Node005,004);
+       NOption(108,Node005,004);
    if (global_var(GVAR_VAULT_MONSTER_COUNT) > 0) then
-      NOption(109,Node004,004);
+       NOption(109,Node004,004);
    if (global_var(GVAR_VAULT_MONSTER_COUNT) > 0) then
-      BOption(110,Node004,004);
+       BOption(110,Node004,004);
 end
 
 procedure Node004 begin
    Reply(111);
 
    if (global_var(GVAR_VAULT_MONSTER_COUNT) > 0) then
-      BOption(112,Node006,004);
+       BOption(112,Node006,004);
    if (global_var(GVAR_VAULT_MONSTER_COUNT) > 0) then
-      NOption(113,Node009,004);
+       NOption(113,Node009,004);
    if (global_var(GVAR_VAULT_MONSTER_COUNT) == 0) then
-      NOption(114,Node005,004);
+       NOption(114,Node005,004);
 end
 
 procedure Node005 begin
@@ -516,8 +521,9 @@ procedure Node011a begin
    set_global_var(GVAR_VAULT_VILLAGE,VILLAGE_GET_GUNS);
 end*/
 
-procedure Node011 begin
-   //item_caps_adjust(dude_obj, 10000);
+procedure Node011
+begin
+  //item_caps_adjust(dude_obj, 10000);
    set_global_var(GVAR_QUEST_VAULT_VILLAGE, VILLAGE_QUEST_GET_GUNS);
    gsay_reply(SCRIPT_VCCONNAR, 128);
    if ( ((dude_item_count(PID_SHOTGUN)) > 0) and ((dude_item_count(PID_ASSAULT_RIFLE)) >= 4) ) then begin
@@ -535,10 +541,11 @@ procedure Node011 begin
    set_local_var(LVAR_From_Node_11,1);
 end
 
-procedure Node011a begin
-   dude_caps_adjust(5000);
-   gsay_reply(SCRIPT_VCCONNAR, 152);
-   giq_option(4, SCRIPT_VCCONNAR, 153, Node999, NEUTRAL_REACTION);
+procedure Node011a
+begin
+  dude_caps_adjust(5000);
+  gsay_reply(SCRIPT_VCCONNAR, 152);
+  giq_option(4, SCRIPT_VCCONNAR, 153, Node999, NEUTRAL_REACTION);
 end
 
 
@@ -556,31 +563,32 @@ procedure Node013 begin
    NOption(136,Node013a,004);
 end*/
 
-procedure Node013 begin
-   gsay_reply(SCRIPT_VCCONNAR, 134);
-   if not( ((dude_item_count(PID_SHOTGUN)) > 0) and ((dude_item_count(PID_ASSAULT_RIFLE)) >= 4) ) then
-       giq_option(4, SCRIPT_VCCONNAR, 135, Node014, NEUTRAL_REACTION);
-   //if (global_var(GVAR_ENEMY_VAULT_VILLAGE) == 8) then
+procedure Node013
+begin
+  gsay_reply(SCRIPT_VCCONNAR, 134);
+  if not( ((dude_item_count(PID_SHOTGUN)) > 0) and ((dude_item_count(PID_ASSAULT_RIFLE)) >= 4) ) then
+      giq_option(4, SCRIPT_VCCONNAR, 135, Node014, NEUTRAL_REACTION);
+  //if (global_var(GVAR_ENEMY_VAULT_VILLAGE) == 8) then
 
-   if ( ((dude_item_count(PID_SHOTGUN)) > 0) and ((dude_item_count(PID_ASSAULT_RIFLE)) >= 4) ) then //edit by killap
+  if ( ((dude_item_count(PID_SHOTGUN)) > 0) and ((dude_item_count(PID_ASSAULT_RIFLE)) >= 4) ) then //edit by killap
       giq_option(4, SCRIPT_VCCONNAR, 136, Node013a, NEUTRAL_REACTION);
-   else
+  else
       giq_option(4, SCRIPT_VCCONNAR, 173, Node999, NEUTRAL_REACTION);
-   giq_option(4, SCRIPT_VCCONNAR, 154, Node023, NEUTRAL_REACTION);
-   if (((global_var(GVAR_VAULT_SERVANT) == SERVANT_BRAIN_AGREEMENT) or (global_var(GVAR_VAULT_SERVANT) == SERVANT_FINISHED_DIPLOMATIC)) and /*(global_var(GVAR_ENEMY_VAULT_VILLAGE) == 8)*/ ((dude_item_count(PID_SHOTGUN)) > 0) and ((dude_item_count(PID_ASSAULT_RIFLE)) >= 4) ) then
+  giq_option(4, SCRIPT_VCCONNAR, 154, Node023, NEUTRAL_REACTION);
+  if (((global_var(GVAR_VAULT_SERVANT) == SERVANT_BRAIN_AGREEMENT) or (global_var(GVAR_VAULT_SERVANT) == SERVANT_FINISHED_DIPLOMATIC)) and /*(global_var(GVAR_ENEMY_VAULT_VILLAGE) == 8)*/ ((dude_item_count(PID_SHOTGUN)) > 0) and ((dude_item_count(PID_ASSAULT_RIFLE)) >= 4) ) then
       giq_option(4, SCRIPT_VCCONNAR, 170, Node026, NEUTRAL_REACTION);
-   else if (global_var(GVAR_VAULT_SERVANT) == SERVANT_BRAIN_AGREEMENT) or (global_var(GVAR_VAULT_SERVANT) == SERVANT_FINISHED_DIPLOMATIC) then
+  else if (global_var(GVAR_VAULT_SERVANT) == SERVANT_BRAIN_AGREEMENT) or (global_var(GVAR_VAULT_SERVANT) == SERVANT_FINISHED_DIPLOMATIC) then
       giq_option(4, SCRIPT_VCCONNAR, 162, Node026, NEUTRAL_REACTION);
-   //if (global_var(GVAR_ENEMY_VAULT_VILLAGE) != 8) then
+  //if (global_var(GVAR_ENEMY_VAULT_VILLAGE) != 8) then
 
 end
 
 
 procedure Node013a begin
    if ( ((dude_item_count(PID_SHOTGUN)) > 0) and ((dude_item_count(PID_ASSAULT_RIFLE)) >= 4) ) then
-      call Node015;
+       call Node015;
    else
-      call Node014;
+       call Node014;
 end
 
 procedure Node014 begin
@@ -616,29 +624,30 @@ procedure Node015 begin
 end
 */
 
-procedure Node015 begin
-   variable LVar1 := 0;
-   variable LVar2 := 0;
-   variable LVar3 := 0;
-   set_map_var(MVAR_Building_Time,game_time); //edit by killap
-   LVar2 := dude_item(PID_SHOTGUN);
-   LVar3 := dude_item(PID_ASSAULT_RIFLE);
-   LVar1 := rm_mult_objs_from_inven(dude_obj, LVar2, 1);
-   //destroy_object(LVar2);
-   LVar1 := rm_mult_objs_from_inven(dude_obj, LVar3, 4);
-   //destroy_object(LVar3);
-   add_mult_objs_to_inven(self_obj, LVar2, 1);
-   //add_mult_objs_to_inven(self_obj, LVar3, 3);
-   set_global_var(GVAR_PLAYER_REPUTATION, global_var(GVAR_PLAYER_REPUTATION) + 20);
-   ndebug("Player gains " + 20 + " Karma Points.");
-   CheckKarma;
-   set_global_var(GVAR_QUEST_VAULT_VILLAGE, VILLAGE_QUEST_DELIVERED_GUNS);
-   //set_local_var(LVAR_Time_Delivered,game_time);
-   //set_map_var(MVAR_Building_Time,game_time); //edit by killap
-   give_xp(800);
-   //display_msg(message_str(SCRIPT_GENERIC, 100) + 800 + message_str(SCRIPT_GENERIC, 101));
-   gsay_reply(SCRIPT_VCCONNAR, 139);
-   giq_option(4, SCRIPT_VCCONNAR, 140, Node999, NEUTRAL_REACTION);
+procedure Node015
+begin
+  variable LVar1 := 0;
+  variable LVar2 := 0;
+  variable LVar3 := 0;
+  set_map_var(MVAR_Building_Time,game_time); //edit by killap
+  LVar2 := dude_item(PID_SHOTGUN);
+  LVar3 := dude_item(PID_ASSAULT_RIFLE);
+  LVar1 := rm_mult_objs_from_inven(dude_obj, LVar2, 1);
+  //destroy_object(LVar2);
+  LVar1 := rm_mult_objs_from_inven(dude_obj, LVar3, 4);
+  //destroy_object(LVar3);
+  add_mult_objs_to_inven(self_obj, LVar2, 1);
+  //add_mult_objs_to_inven(self_obj, LVar3, 3);
+  set_global_var(GVAR_PLAYER_REPUTATION, global_var(GVAR_PLAYER_REPUTATION) + 20);
+  ndebug("Player gains " + 20 + " Karma Points.");
+  CheckKarma;
+  set_global_var(GVAR_QUEST_VAULT_VILLAGE, VILLAGE_QUEST_DELIVERED_GUNS);
+  //set_local_var(LVAR_Time_Delivered,game_time);
+  //set_map_var(MVAR_Building_Time,game_time); //edit by killap
+  give_xp(800);
+  //display_msg(message_str(SCRIPT_GENERIC, 100) + 800 + message_str(SCRIPT_GENERIC, 101));
+  gsay_reply(SCRIPT_VCCONNAR, 139);
+  giq_option(4, SCRIPT_VCCONNAR, 140, Node999, NEUTRAL_REACTION);
 end
 
 procedure Node016 begin
@@ -654,6 +663,9 @@ procedure Node016 begin
    end else begin
       call Node020;
    end
+
+
+
 end
 
 /*
@@ -674,37 +686,43 @@ procedure Node019 begin
 end
 */
 
-procedure Node017 begin
-   //if (global_var(GVAR_VAULT_VILLAGE) != VILLAGE_STAGE_ONE) then begin
-   //   set_local_var(LVAR_Time_Delivered,game_time);
-   //   set_global_var(GVAR_VAULT_VILLAGE, VILLAGE_STAGE_ONE);
-   //end
-   //if (elevation(self_obj) == 0) then
-      float_msg(self_obj, message_str(SCRIPT_VCCONNAR, 141), FLOAT_MSG_YELLOW);
-   //else
-   //   float_msg(self_obj, message_str(SCRIPT_VCCONNAR, 142), FLOAT_MSG_YELLOW);
+procedure Node017
+begin
+  //if (global_var(GVAR_VAULT_VILLAGE) != VILLAGE_STAGE_ONE) then
+  //begin
+  //  set_local_var(LVAR_Time_Delivered,game_time);
+  //  set_global_var(GVAR_VAULT_VILLAGE, VILLAGE_STAGE_ONE);
+  //end
+  //if (elevation(self_obj) == 0) then
+    float_msg(self_obj, message_str(SCRIPT_VCCONNAR, 141), FLOAT_MSG_YELLOW);
+  //else
+  //  float_msg(self_obj, message_str(SCRIPT_VCCONNAR, 142), FLOAT_MSG_YELLOW);
 end
 
-procedure Node018 begin
-   //if (global_var(GVAR_VAULT_SERVANT) >= SERVANT_FINISHED) then
-   //   float_msg(self_obj, message_str(SCRIPT_VCCONNAR, 144), FLOAT_MSG_YELLOW);
-   //else
-      float_msg(self_obj, message_str(SCRIPT_VCCONNAR, 143), FLOAT_MSG_YELLOW);
+procedure Node018
+begin
+  //if (global_var(GVAR_VAULT_SERVANT) >= SERVANT_FINISHED) then
+  //  float_msg(self_obj, message_str(SCRIPT_VCCONNAR, 144), FLOAT_MSG_YELLOW);
+  //else
+    float_msg(self_obj, message_str(SCRIPT_VCCONNAR, 143), FLOAT_MSG_YELLOW);
 end
 
-procedure Node019 begin
-   if (global_var(GVAR_VAULT_VILLAGE) != VILLAGE_STAGE_TWO) then begin
-      set_local_var(LVAR_Time_Delivered,game_time);
-      set_global_var(GVAR_VAULT_VILLAGE, VILLAGE_STAGE_TWO);
-   end
-   if (self_elevation == 1) then begin
-      if (global_var(GVAR_VAULT_SERVANT) > SERVANT_BRAIN_AGREEMENT) then
-         float_msg(self_obj, message_str(SCRIPT_VCCONNAR, 144), FLOAT_MSG_YELLOW);
-      else
-         float_msg(self_obj, message_str(SCRIPT_VCCONNAR, 143), FLOAT_MSG_YELLOW);
-   end
-   else
+procedure Node019
+begin
+  if (global_var(GVAR_VAULT_VILLAGE) != VILLAGE_STAGE_TWO) then
+  begin
+    set_local_var(LVAR_Time_Delivered,game_time);
+    set_global_var(GVAR_VAULT_VILLAGE, VILLAGE_STAGE_TWO);
+  end
+  if (self_elevation == 1) then
+  begin
+    if (global_var(GVAR_VAULT_SERVANT) > SERVANT_BRAIN_AGREEMENT) then
       float_msg(self_obj, message_str(SCRIPT_VCCONNAR, 144), FLOAT_MSG_YELLOW);
+    else
+      float_msg(self_obj, message_str(SCRIPT_VCCONNAR, 143), FLOAT_MSG_YELLOW);
+  end
+  else
+    float_msg(self_obj, message_str(SCRIPT_VCCONNAR, 144), FLOAT_MSG_YELLOW);
 end
 
 procedure Node020 begin
@@ -715,78 +733,86 @@ procedure Node021 begin
    NMessage(146);
 end
 
-procedure Node022 begin
-   gsay_reply(SCRIPT_VCCONNAR, 147);
-   giq_option(4, SCRIPT_VCCONNAR, 148, Node999, NEUTRAL_REACTION);
+procedure Node022
+begin
+  gsay_reply(SCRIPT_VCCONNAR, 147);
+  giq_option(4, SCRIPT_VCCONNAR, 148, Node999, NEUTRAL_REACTION);
 end
 
-procedure timed_event_p_proc begin
-   float_msg(self_obj, message_str(SCRIPT_VCCONNAR, random(149, 151)), FLOAT_MSG_YELLOW);
+procedure timed_event_p_proc
+begin
+  float_msg(self_obj, message_str(SCRIPT_VCCONNAR, random(149, 151)), FLOAT_MSG_YELLOW);
 end
 
-procedure Node023 begin
-   gsay_reply(SCRIPT_VCCONNAR, 155);
+procedure Node023
+begin
+  gsay_reply(SCRIPT_VCCONNAR, 155);
 
-   if ( (global_var(GVAR_QUEST_VAULT_VILLAGE) < VILLAGE_QUEST_JOE_SPOKE) and (local_var(LVAR_From_Node_11) != 1) ) then
-      giq_option(4, SCRIPT_VCCONNAR, 600, Node038, NEUTRAL_REACTION);
-   if (local_var(LVAR_Gave_Amulet) != 1) then
+  if ( (global_var(GVAR_QUEST_VAULT_VILLAGE) < VILLAGE_QUEST_JOE_SPOKE) and (local_var(LVAR_From_Node_11) != 1) ) then
+     giq_option(4, SCRIPT_VCCONNAR, 600, Node038, NEUTRAL_REACTION);
+  if (local_var(LVAR_Gave_Amulet) != 1) then
       giq_option(4, SCRIPT_VCCONNAR, 156, Node024, NEUTRAL_REACTION);
-   if (local_var(LVAR_From_Node_11) != 1) then
+  if (local_var(LVAR_From_Node_11) != 1) then
       giq_option(4, SCRIPT_VCCONNAR, 157, Node999, NEUTRAL_REACTION);
 end
 
-procedure Node024 begin
-   gsay_reply(SCRIPT_VCCONNAR, 158);
-   giq_option(4, SCRIPT_VCCONNAR, 159, Node025, NEUTRAL_REACTION);
+procedure Node024
+begin
+  gsay_reply(SCRIPT_VCCONNAR, 158);
+  giq_option(4, SCRIPT_VCCONNAR, 159, Node025, NEUTRAL_REACTION);
 end
 
-procedure Node025 begin
-   variable LVar1 := 0;
+procedure Node025
+begin
+  variable LVar1 := 0;
 
-   LVar1 := create_object(PID_TALISMAN, 0, 0);
-   add_obj_to_inven(dude_obj, LVar1);
-   gsay_reply(SCRIPT_VCCONNAR, 160);
-   if (local_var(LVAR_From_Node_11) == 1) then begin
+  LVar1 := create_object(PID_TALISMAN, 0, 0);
+  add_obj_to_inven(dude_obj, LVar1);
+  gsay_reply(SCRIPT_VCCONNAR, 160);
+  if (local_var(LVAR_From_Node_11) == 1) then begin
       giq_option(4, SCRIPT_VCCONNAR, 161, Node011a, NEUTRAL_REACTION);
       set_local_var(LVAR_From_Node_11,0);
-   end else
+  end else
       giq_option(4, SCRIPT_VCCONNAR, 161, Node999, NEUTRAL_REACTION);
 
-   set_local_var(LVAR_Gave_Amulet,1);
-   set_mole_rat_origin_amulet;
-   //set_global_var(GVAR_VAULT_VILLAGE_MOLERAT_ORIGIN_KNOWN,GAVE_AMULET);
+  set_local_var(LVAR_Gave_Amulet,1);
+  set_mole_rat_origin_amulet;
+  //set_global_var(GVAR_VAULT_VILLAGE_MOLERAT_ORIGIN_KNOWN,GAVE_AMULET);
 end
 
-procedure Node026 begin
-   gsay_reply(SCRIPT_VCCONNAR, 163);
-   giq_option(4, SCRIPT_VCCONNAR, 164, Node027, NEUTRAL_REACTION);
+procedure Node026
+begin
+  gsay_reply(SCRIPT_VCCONNAR, 163);
+  giq_option(4, SCRIPT_VCCONNAR, 164, Node027, NEUTRAL_REACTION);
 end
 
-procedure Node027 begin
-   gsay_reply(SCRIPT_VCCONNAR, 165);
-   giq_option(4, SCRIPT_VCCONNAR, dude_name + ".", Node028, NEUTRAL_REACTION);
+procedure Node027
+begin
+  gsay_reply(SCRIPT_VCCONNAR, 165);
+  giq_option(4, SCRIPT_VCCONNAR, dude_name + ".", Node028, NEUTRAL_REACTION);
 end
 
-procedure Node028 begin
-   //set_local_var(LVAR_Time_Delivered,game_time);
-   set_map_var(MVAR_Building_Time,game_time); //edit by killap
-   set_global_var(GVAR_QUEST_VAULT_VILLAGE,VILLAGE_QUEST_FINISHED_DIPLOMATIC);
-   //set_global_var(GVAR_QUEST_VAULT_VILLAGE, VILLAGE_QUEST_DELIVERED_GUNS);
-   set_global_var(GVAR_PLAYER_REPUTATION, global_var(GVAR_PLAYER_REPUTATION) + 20 + 5);
-   CheckKarma;
-   give_xp(1200);
-   //set_global_var(GVAR_VAULT_VILLAGE, VILLAGE_DELIVERED_GUNS);
-   if (local_var(LVAR_Diplomatic_Approach) > 0) then begin
-      Reply(169);
-      giq_option(4, SCRIPT_VCCONNAR, 174, Node999, NEUTRAL_REACTION);
-   end else begin
-      gsay_reply(SCRIPT_VCCONNAR, message_str(SCRIPT_VCCONNAR, 167) + dude_name + message_str(SCRIPT_VCCONNAR, 168));
-      if (dude_caps >= 5000) then
-         giq_option(4, SCRIPT_VCCONNAR, 700, Node028a, NEUTRAL_REACTION);
-      giq_option(4, SCRIPT_VCCONNAR, 701, Node028b, NEUTRAL_REACTION);
-      giq_option(4, SCRIPT_VCCONNAR, 702, Node028c, NEUTRAL_REACTION);
-   end
-   set_local_var(LVAR_Diplomatic_Approach,2);
+procedure Node028
+begin
+  //set_local_var(LVAR_Time_Delivered,game_time);
+  set_map_var(MVAR_Building_Time,game_time); //edit by killap
+  set_global_var(GVAR_QUEST_VAULT_VILLAGE,VILLAGE_QUEST_FINISHED_DIPLOMATIC);
+  //set_global_var(GVAR_QUEST_VAULT_VILLAGE, VILLAGE_QUEST_DELIVERED_GUNS);
+  set_global_var(GVAR_PLAYER_REPUTATION, global_var(GVAR_PLAYER_REPUTATION) + 20 + 5);
+  CheckKarma;
+  give_xp(1200);
+  //set_global_var(GVAR_VAULT_VILLAGE, VILLAGE_DELIVERED_GUNS);
+  if (local_var(LVAR_Diplomatic_Approach) > 0) then begin
+    Reply(169);
+    giq_option(4, SCRIPT_VCCONNAR, 174, Node999, NEUTRAL_REACTION);
+  end else begin
+    gsay_reply(SCRIPT_VCCONNAR, message_str(SCRIPT_VCCONNAR, 167) + dude_name + message_str(SCRIPT_VCCONNAR, 168));
+    if (dude_caps >= 5000) then
+      giq_option(4, SCRIPT_VCCONNAR, 700, Node028a, NEUTRAL_REACTION);
+    giq_option(4, SCRIPT_VCCONNAR, 701, Node028b, NEUTRAL_REACTION);
+    giq_option(4, SCRIPT_VCCONNAR, 702, Node028c, NEUTRAL_REACTION);
+  end
+  set_local_var(LVAR_Diplomatic_Approach,2);
 end
 
 procedure Node028a begin
@@ -821,12 +847,12 @@ procedure Node028e begin
 end
 
 procedure Node029 begin
-   Reply(210);
-   if (has_skill(dude_obj,SKILL_SPEECH) > 80) then
+  Reply(210);
+  if (has_skill(dude_obj,SKILL_SPEECH) > 80) then
       GOption(217, Node037, 004);
-   NOption(212, Node991, 004);
-   NOption(213, Node992, 004);
-   NOption(214, Node990, 004);
+  NOption(212, Node991, 004);
+  NOption(213, Node992, 004);
+  NOption(214, Node990, 004);
 end
 
 procedure Node030 begin
@@ -849,26 +875,26 @@ procedure Node032 begin
 end
 
 procedure Node033 begin
-   variable LVar1 := 0;
-   variable LVar2 := 0;
-   variable LVar3 := 0;
+  variable LVar1 := 0;
+  variable LVar2 := 0;
+  variable LVar3 := 0;
 
-   set_map_var(MVAR_Building_Time,game_time); //edit by killap
-   LVar2 := dude_item(PID_SHOTGUN);
-   LVar3 := dude_item(PID_ASSAULT_RIFLE);
-   LVar1 := rm_mult_objs_from_inven(dude_obj, LVar2, 1);
-   //destroy_object(LVar2);
-   LVar1 := rm_mult_objs_from_inven(dude_obj, LVar3, 4);
-   //destroy_object(LVar3);
-   add_mult_objs_to_inven(self_obj, LVar2, 1);
-   //add_mult_objs_to_inven(self_obj, LVar3, 3);
-   set_global_var(GVAR_PLAYER_REPUTATION, global_var(GVAR_PLAYER_REPUTATION) + 20);
-   CheckKarma;
-   set_global_var(GVAR_QUEST_VAULT_VILLAGE, VILLAGE_QUEST_DELIVERED_GUNS);
-   //set_local_var(LVAR_Time_Delivered,game_time);
-   give_xp(800);
-   //display_msg(message_str(SCRIPT_GENERIC, 100) + 800 + message_str(SCRIPT_GENERIC, 101));
-   dude_caps_adjust(6000);
+  set_map_var(MVAR_Building_Time,game_time); //edit by killap
+  LVar2 := dude_item(PID_SHOTGUN);
+  LVar3 := dude_item(PID_ASSAULT_RIFLE);
+  LVar1 := rm_mult_objs_from_inven(dude_obj, LVar2, 1);
+  //destroy_object(LVar2);
+  LVar1 := rm_mult_objs_from_inven(dude_obj, LVar3, 4);
+  //destroy_object(LVar3);
+  add_mult_objs_to_inven(self_obj, LVar2, 1);
+  //add_mult_objs_to_inven(self_obj, LVar3, 3);
+  set_global_var(GVAR_PLAYER_REPUTATION, global_var(GVAR_PLAYER_REPUTATION) + 20);
+  CheckKarma;
+  set_global_var(GVAR_QUEST_VAULT_VILLAGE, VILLAGE_QUEST_DELIVERED_GUNS);
+  //set_local_var(LVAR_Time_Delivered,game_time);
+  give_xp(800);
+  //display_msg(message_str(SCRIPT_GENERIC, 100) + 800 + message_str(SCRIPT_GENERIC, 101));
+  dude_caps_adjust(6000);
 end
 
 procedure Node034 begin
@@ -895,36 +921,36 @@ procedure Node036 begin
 end
 
 procedure Node990 begin
-   if ( is_success(roll_vs_skill( dude_obj, SKILL_SPEECH, -10 )) ) then
+   if( is_success(roll_vs_skill( dude_obj, SKILL_SPEECH, -10 )) ) then
       call Node032;
    else
       call Node031;
 end
 
 procedure Node991 begin
-   variable LVar1 := 0;
-   variable LVar2 := 0;
-   variable LVar3 := 0;
+  variable LVar1 := 0;
+  variable LVar2 := 0;
+  variable LVar3 := 0;
 
-   set_map_var(MVAR_Building_Time,game_time); //edit by killap
-   LVar2 := dude_item(PID_SHOTGUN);
-   LVar3 := dude_item(PID_ASSAULT_RIFLE);
-   LVar1 := rm_mult_objs_from_inven(dude_obj, LVar2, 1);
-   //destroy_object(LVar2);
-   LVar1 := rm_mult_objs_from_inven(dude_obj, LVar3, 4);
-   //destroy_object(LVar3);
-   add_mult_objs_to_inven(self_obj, LVar2, 1);
-   //add_mult_objs_to_inven(self_obj, LVar3, 3);
-   set_global_var(GVAR_PLAYER_REPUTATION, global_var(GVAR_PLAYER_REPUTATION) + 20);
-   ndebug("Player gains " + 20 + " Karma Points.");
-   CheckKarma;
-   set_global_var(GVAR_QUEST_VAULT_VILLAGE, VILLAGE_QUEST_DELIVERED_GUNS);
-   //set_local_var(LVAR_Time_Delivered,game_time);
-   give_xp(800);
-   //display_msg(message_str(SCRIPT_GENERIC, 100) + 800 + message_str(SCRIPT_GENERIC, 101));
-   Reply(225);
-   NOption(226, Node999, 004);
-   dude_caps_adjust(5000);
+  set_map_var(MVAR_Building_Time,game_time); //edit by killap
+  LVar2 := dude_item(PID_SHOTGUN);
+  LVar3 := dude_item(PID_ASSAULT_RIFLE);
+  LVar1 := rm_mult_objs_from_inven(dude_obj, LVar2, 1);
+  //destroy_object(LVar2);
+  LVar1 := rm_mult_objs_from_inven(dude_obj, LVar3, 4);
+  //destroy_object(LVar3);
+  add_mult_objs_to_inven(self_obj, LVar2, 1);
+  //add_mult_objs_to_inven(self_obj, LVar3, 3);
+  set_global_var(GVAR_PLAYER_REPUTATION, global_var(GVAR_PLAYER_REPUTATION) + 20);
+  ndebug("Player gains " + 20 + " Karma Points.");
+  CheckKarma;
+  set_global_var(GVAR_QUEST_VAULT_VILLAGE, VILLAGE_QUEST_DELIVERED_GUNS);
+  //set_local_var(LVAR_Time_Delivered,game_time);
+  give_xp(800);
+  //display_msg(message_str(SCRIPT_GENERIC, 100) + 800 + message_str(SCRIPT_GENERIC, 101));
+  Reply(225);
+  NOption(226, Node999, 004);
+  dude_caps_adjust(5000);
 end
 
 procedure Node992 begin
@@ -934,7 +960,7 @@ end
 
 procedure Node993 begin
    //set_map_var(MVAR_Failed_Swindle,1);
-   //rudeness about money. He won't talk again.
+ //rudeness about money. He won't talk again.
 end
 
 procedure Node994 begin

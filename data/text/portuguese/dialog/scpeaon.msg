@@ -1,9 +1,9 @@
-{100}{}{You see a town inhabitant.}
-{101}{}{You see the local one of the local folk.}
-{102}{}{There is nothing mentionable about the way this person looks.}
-{103}{}{Ahhh, leave me.}
-{104}{}{I am sorry. I won't do it again.}
-{105}{}{I was just leaving.}
+{100}{}{Você vê um habitante da cidade.}
+{101}{}{Você vê um local dos tipicos habitantes locais.}
+{102}{}{Não há nada mencionável sobre a aparência dessa pessoa.}
+{103}{}{Ahhh, me deixa.}
+{104}{}{Sinto muito. Eu não vou fazer isso de novo.}
+{105}{}{Eu estava saindo.}
 {106}{}{Guardas, ele está de volta!}
 {107}{}{Por favor, me deixe em paz.}
 {108}{}{Olha, eu também não quero ficar perto de você.}

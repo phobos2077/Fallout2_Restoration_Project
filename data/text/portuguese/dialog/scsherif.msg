@@ -47,8 +47,8 @@
 {146}{}{What's this about President Tandi?}
 {147}{}{Thanks for the info.}
 {148}{}{President of NCR, who else? Things have got her so worried she even asked to borrow one of my deputies for a special mission. Hated to turn her down, but I can't spare the manpower.}
-{149}{}{How about me? Maybe you could recommend me.}
-{150}{}{Hmm. Tough life, I guess.}
+{149}{}{E quanto a mim? Talvez você possa me recomendar.}
+{150}{}{Hum. Vida difícil, eu acho.}
 {151}{}{You? Hmmm....I couldn't. Don't even know you - but she's looking to hire somebody so you can go talk to her yourself. Her office is in the Hall of Congress.}
 {152}{}{Obrigado. Irei fazer isso.}
 {153}{}{Know anything about a GECK?}

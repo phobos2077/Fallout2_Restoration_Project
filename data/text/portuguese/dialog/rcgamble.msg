@@ -1,54 +1,54 @@
 {100}{}{Você vê um jogador.}
-{101}{}{You see a gambler hoping to make some money.}
-{102}{}{You see a nervously excited person gambling.}
-{103}{}{Come on, baby needs new shoes.}
-{104}{}{Yeah, that's the ticket!}
+{101}{}{Você vê um jogador esperando ganhar algum dinheiro.}
+{102}{}{Você vê uma pessoa nervosamente jogando.}
+{103}{}{Vamos, meu bebê precisa de sapatos novos.}
+{104}{}{Sim, essa é a hora!}
 {105}{}{Merda!}
 {106}{}{Por que eu?}
-{107}{}{Can anyone spare me some change?}
-{108}{}{I've got a sure thing this time.}
-{109}{}{My system always works.}
-{110}{}{This system stinks!}
-{111}{}{This game is rigged!}
-{112}{}{I'm the luckiest person alive!}
-{113}{}{What did I do to deserve this?}
-{114}{}{Crap!}
-{115}{}{Yeee-haaaawww!}
-{116}{}{Yippeeee!}
-{117}{}{I've never seen anyone get that lucky before.}
-{118}{}{That *seems* too good to be true.}
-{119}{}{You better not win again.}
-{120}{}{What's the house limit?}
-{121}{}{House rules really say that?}
-{122}{}{Yeah, you betcha.}
-{123}{}{Let it ride.}
-{124}{}{I'm going to double-up next time.}
-{125}{}{Go baby, go baby...}
-{126}{}{There goes my house.}
-{127}{}{There goes my land.}
-{128}{}{I just need a little more credit.}
-{129}{}{My luck's about to change; I can feel it.}
-{130}{}{Where's my lucky gecko-foot when I need it?}
+{107}{}{Alguém pode me dar algum troco?}
+{108}{}{Eu tenho a coisa certa agora.}
+{109}{}{Meu método sempre funciona.}
+{110}{}{Este método não presta!}
+{111}{}{Isso aqui é pegadinha!}
+{112}{}{Eu sou a pessoa viva mais sortuda!}
+{113}{}{O que eu fiz para merecer isso?}
+{114}{}{Merda!}
+{115}{}{Iiiihhhh-haaaaaaaa!}
+{116}{}{Opaaaaaa!}
+{117}{}{Nunca vi ninguém ter tanta sorte antes.}
+{118}{}{Isso *parece* bom demais para ser verdade.}
+{119}{}{É melhor não ganhar de novo.}
+{120}{}{Qual é o limite da casa?}
+{121}{}{As regras da casa realmente dizem isso?}
+{122}{}{Sim, pode apostar.}
+{123}{}{Deixe que siga.}
+{124}{}{Vou dobrar da próxima vez.}
+{125}{}{Vai amor, vai amor...}
+{126}{}{Lá vai minha casa.}
+{127}{}{Lá se vai minha terra.}
+{128}{}{Só preciso de um pouco mais de crédito.}
+{129}{}{Minha sorte está prestes a mudar; uu posso sentir isso.}
+{130}{}{Cadê meu pé de gecko da sorte quando preciso dele?}
 {131}{}{O que você quer?}
-{132}{}{Back off, bub.}
-{133}{}{Hey, don't jinx me.}
-{134}{}{Are you giving me the evil eye?}
-{135}{}{Hey, you're good luck.}
-{136}{}{Can I pat your head for luck?}
-{137}{}{Blow on these dice, will ya pal?}
-{138}{}{Play or blow.}
-{139}{}{This isn't a spectator sport, pal.}
-{140}{}{I hope you don't change the odds.}
-{141}{}{This table's unlucky.}
-{142}{}{This table's lucky.}
-{143}{}{Just a few more bucks and I'm going to walk away. I mean it this time.}
-{144}{}{Don't crowd me here.}
-{145}{}{Did you see that?}
-{146}{}{I just can't believe that luck.}
-{147}{}{Nice game, isn't it?}
-{148}{}{I feel lucky today.}
-{149}{}{This time's going to be different.}
-{150}{}{Didn't know you folks were much for games of chance.}
-{151}{}{It's all skill, I tell ya.}
-{152}{}{Stand back and watch it happen.}
-{153}{}{We're going to break the bank here, I just know it.}
+{132}{}{Saia daqui, cara.}
+{133}{}{Ei, não me dê azar.}
+{134}{}{Você está me passando mau olhado?}
+{135}{}{Ei, boa sorte.}
+{136}{}{Posso dar um tapinha na sua cabeça para dar sorte?}
+{137}{}{Pode soprar nestes dados, colega?}
+{138}{}{Jogar ou soprar.}
+{139}{}{Este não é um esporte para espectadores, amigo.}
+{140}{}{Espero que não mude a sorte.}
+{141}{}{Essa mesa não tem sorte.}
+{142}{}{Esta mesa me da boa sorte.}
+{143}{}{Só mais um dinheiro e vou embora. To falando sério.}
+{144}{}{Não me pressione.}
+{145}{}{Você viu isso?}
+{146}{}{Eu não consigo acreditar na sorte.}
+{147}{}{Belo jogo, não é?}
+{148}{}{Eu me sinto com sorte hoje.}
+{149}{}{Dessa vez vai ser diferente.}
+{150}{}{Não sabia que vocês gostavam tanto de jogos de azar.}
+{151}{}{É tudo habilidade, te juro.}
+{152}{}{Se afaste e veja acontecer.}
+{153}{}{Nós vamos quebrar a banca, eu sei disso.}

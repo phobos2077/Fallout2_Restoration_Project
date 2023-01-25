@@ -1,1 +1,1 @@
-{100}{}{You see a rat.}
+{100}{}{Você vê um rato.}

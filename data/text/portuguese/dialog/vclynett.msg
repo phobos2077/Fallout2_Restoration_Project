@@ -50,7 +50,7 @@
 {139}{}{Hunh?}
 {140}{}{Valt! Valt!}
 {141}{}{Hed funneee.}
-{142}{}{Bye-bye}
+{142}{}{Tchauzinho}
 {143}{}{Isn't this the Vault my ancestor originally came from?}
 {144}{}{I don't know. I come from a village in the west.}
 {145}{}{I don't know. I'm trying to find the Vault my ancestor came from... can you help me?}
@@ -334,7 +334,7 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {383}{}{Hunh?}
 {384}{}{Valt! Valt!}
 {385}{}{Funnneee eyes!}
-{386}{}{Bye-bye}
+{386}{}{Tchauzinho}
 {387}{}{I had some questions I wanted to ask you.}
 {388}{}{I had some questions I wanted to ask you.}
 {389}{}{How does one become a Citizen of Vault City?}
@@ -806,14 +806,14 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {799}{}{Northeast}
 {800}{}{Southwest}
 {801}{}{Southeast}
-{802}{}{To the North}
-{803}{}{To the South}
+{802}{}{Ao Norte}
+{803}{}{Ao Sul}
 {804}{}{To the East}
-{805}{}{To the West}
-{806}{}{To the Northwest}
-{807}{}{To the Northeast}
-{808}{}{To the Southwest}
-{809}{}{To the Southeast}
+{805}{}{Ao Oeste}
+{806}{}{Ao Noroeste}
+{807}{}{Ao Nordeste}
+{808}{}{Ao Sudoeste}
+{809}{}{Ao Sudeste}
 {810}{}{I don't want that.}
 {811}{}{Obrigado.}
 {812}{}{Thanks for your time.}

@@ -144,8 +144,8 @@ retornar para a humanidade, ele deve primeiro provar ter subido acima de sua ten
 {1100}{}{Eu estava lá mais cedo. Eu vi alguns cadáveres, então eu acho que um deles pertencia ao seu monge desaparecido. E se
   Isso faz você se sentir melhor, matei o responsável por sua morte.}
 {1110}{}{Ah ... então é como eu temia. O Irmão Thomas será muito desapontador. Você tem meus agradecimentos por livrar-nos de qualquer coisa
- que se escondia lá embaixo. No entanto, eu ... eu suponho que você encontrou um livro enquanto você estava lá. Isso é muito
- importante que foi visto pela última vez na posse do irmão Thomas.}
+ que se escondia lá embaixo. No entanto, eu... suponho que você encontrou um livro enquanto você estava lá. Isso é muito
+ importante, foi visto pela última vez na posse do irmão Thomas.}
 {1111}{}{Não, mas eu suponho que eu poderia voltar e verificar.}
 {1112}{}{Você quer dizer esse livro?}
 {1113}{}{Antes de eu ir, deixe-me perguntar-lhe algo mais.}

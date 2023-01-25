@@ -35,7 +35,7 @@
 {134}{}{I am the ASSISTANT to the First Citizen. I schedule her appointments, administer the Citizenship test to potential applicants, and update all the lists on the Vault City server. No small task, I assure you.}
 {135}{}{The Citizenship test?}
 {136}{}{Speaking of the Citizenship test, I want to take it again.}
-{137}{}{Can I ask you some questions?}
+{137}{}{Posso te fazer algumas perguntas?}
 {138}{}{I see. Well, I have to be going.}
 {139}{}{Yes, there is the RIGHT way... you can become a Citizen by taking the Citizenship test.}
 {140}{}{Yes, I am responsible for administering the Citizenship test to anyone who wishes to become a Citizen of Vault City.}
@@ -81,47 +81,47 @@
 {180}{}{All right, time's up. Let's see your form.}
 {181}{}{Already did. Here.}
 {182}{}{Wait! Just a minute more... oh, forget it. Here.}
-{183}{}{Hmmm... no, no... that's wrong... that's not right, either... a divide by zero error here... hmmm... needed to carry the two... oh my, your vocabulary is sadly lacking as well, I see.}
-{184}{}{Let's see... I see you missed spotting the sub-derivative equation... and you missed the essential meaning of paragraph seven, both parts...  and the pyramid in this diagram can be crossed eight times, not three.}
-{185}{}{Well, the answers you DID manage to put down seem fine... it's the timeliness in which you took the test... and the glaring grammatical errors and...}
-{186}{}{So...?}
-{187}{}{Well, I regret to inform you I cannot grant you Citizenship at this time.}
-{188}{}{Frankly, you don't seem to have the intelligence necessary to grasp higher mathematics. }
-{189}{}{If I may say so, your grasp of spatial relations borders on imperceptive.}
-{190}{}{If I may say so, you don't seem to test well. Perhaps you'll have better luck next time.}
-{191}{}{Maybe some other time then.}
-{192}{}{Well, let's take a look... first, let's see if... oh, very good, I see you got that one, how about... why yes, you carried the two, very clever, very clever... but why did you... oh, you applied the derivative to #5... brilliant!}
-{193}{}{Of COURSE it was brilliant.}
-{194}{}{Why... you've passed! Congratulations.}
-{195}{}{Great. So I'm a Citizen?}
-{196}{}{Well, we still have to perform the physical examination. Fortunately, I have all the equipment right here. You might want to take off your boots.}
+{183}{}{Hmmm... não, não... isso está errado... também não está certo... um erro de divisão por zero aqui... hmmm... precisava carregar os dois... nossa, seu vocabulário é escasso pelo que vejo.}
+{184}{}{Vejamos... Vejo que você errou em identificar a equação da subderivada... e perdeu o significado essencial do parágrafo sete, ambas as partes...  e a pirâmide neste diagrama pode ser cruzada oito vezes, não três.}
+{185}{}{Bem, as respostas que você conseguiu anotar parecem boas... é a pontualidade em que você fez o teste... e os erros gramaticais gritantes e...}
+{186}{}{E...?}
+{187}{}{Bem, lamento informar que não posso lhe conceder a cidadania neste momento.}
+{188}{}{Francamente, você não parece ter a inteligência necessária para entender a matemática superior. }
+{189}{}{Se assim posso dizer, sua compreensão das relações espaciais beira o imperceptível.}
+{190}{}{Se me permite dizer, parece que você não se saiu muito bem no teste.. Talvez você tenha mais sorte da próxima vez.}
+{191}{}{Talvez outra hora então.}
+{192}{}{Bem, vamos dar uma olhada... primeiro, vamos ver se... ah, muito bem, vejo que você pegou esse, que tal... ora, sim, você carregou os dois, muito esperto, muito esperto... mas por que você... ah, você aplicou a derivada em #5... brilhante!}
+{193}{}{Mas é CLARO que fui brilhante.}
+{194}{}{Bem... você passou! Parabéns.}
+{195}{}{Excelente. Então eu sou um cidadão?}
+{196}{}{Bem, ainda temos que fazer o exame físico. Felizmente, tenho todo o equipamento aqui. Seria melhor você tirar suas botas.}
 {197}{}{Tudo bem.}
-{198}{}{You... you have a sixth toe! You're a mutant! How dare you even TRY to become one of us... you... you abomination! Get out! Out! And never come back!}
-{199}{}{Here comes the part when I lose my patience and kill every Citizen in Vault City for the fun of it. Starting with you.}
-{200}{}{I'm leaving, I'm leaving!}
+{198}{}{Você... você tem um sexto dedo! Você é um mutante! Como você ousa TENTAR se tornar um de nós... sua... sua abominação! Saia! Fora! E nunca mais volte!}
+{199}{}{Aí vem a parte em que perco a paciência e mato todos os cidadãos em Vault City para me divertir. Começando por você.}
+{200}{}{Vou embora, vou embora!}
 {201}{}{Your blood pressure looks good, no communicable diseases that I can find... congratulations, Citizen. Welcome to Vault City.}
 {202}{}{Thanks. It's good to be here.}
 {203}{}{You again. Can I help you?}
 {204}{}{I suppose... what is it you would like to know?}
-{205}{}{What is it you do here again?}
-{206}{}{Can I take the Citizenship test?}
-{207}{}{Can I take the Citizenship test again?}
-{208}{}{What can you tell me about Gecko?}
-{209}{}{Never mind. Maybe we'll talk again later.}
+{205}{}{O que você faz aqui de novo?}
+{206}{}{Posso fazer o teste de Cidadania?}
+{207}{}{Posso fazer o teste de Cidadania novamente?}
+{208}{}{O que você pode me dizer sobre Gecko?}
+{209}{}{Deixa para lá. Talvez conversemos mais tarde.}
 {210}{}{Well, if you finish that task for the First Citizen she will give you your Citizenship, not that you'd deserve it. I suppose she has her reasons.}
-{211}{}{Is there another way to become a Citizen?}
+{211}{}{Existe outra forma de se tornar Cidadão?}
 {212}{}{You disapprove of her offering me Citizenship for that?}
 {213}{}{Posso fazer mais algumas perguntas?}
-{214}{}{Hmm. Goodbye.}
-{215}{}{It is not my place to question the First Citizen's actions.}
-{216}{}{Is there another way to become a Citizen?}
+{214}{}{Hum. Adeus.}
+{215}{}{Não é minha função questionar as ações do Primeiro Cidadão.}
+{216}{}{Existe outra forma de se tornar Cidadão?}
 {217}{}{Posso fazer mais algumas perguntas?}
-{218}{}{Never mind then.}
-{219}{}{Gecko? It's a filthy shantytown to the north, inhabited by those creatures, those... "ghouls." They're responsible for poisoning our groundwater, you know! It's an obvious act of terrorism against Vault City!}
-{220}{}{How are they poisoning the water?}
+{218}{}{Deixa pra lá então.}
+{219}{}{Gecko? É uma favela imunda ao norte, habitada por aquelas criaturas, aqueles... "ghouls". Eles são responsáveis por envenenar nossas águas subterrâneas, sabe! É um nitidamente um ato de terrorismo contra Vault City!}
+{220}{}{Como eles estão envenenando a água?}
 {221}{}{Hmmm. Can I ask you some other questions?}
 {222}{}{Obrigado, adeus.}
-{223}{}{Their shantytown is built around the remains of an old atomic power plant... a plant they SOMEHOW started up again and that is now leaking radiation! Those creatures need to be driven out and that plant shut down!}
+{223}{}{A favela deles foi construída em torno dos restos de uma antiga usina de energia atômica... uma usina que eles DE ALGUMA FORMA começaram de novo e que agora está vazando radiação! Essas criaturas precisam ser expulsas e aquela fábrica fechada!}
 {224}{}{Hmmm. Can I ask you some other questions?}
 {225}{}{Obrigado pela informação. Adeus.}
-{226}{}{You have passed the Citizenship test and become a Citizen of Vault City.}
+{226}{}{Você passou no teste de cidadania e se tornou um cidadão de Vault City.}

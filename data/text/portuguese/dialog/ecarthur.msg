@@ -1,7 +1,7 @@
 {100}{}{Um homem em armadura de energia.}
 {101}{}{Arthur, filho de Uther Pendragon.}
 {102}{}{Seu vôo é baixo.}
-{103}{}{Salve, viajantes. Meu nome é Arthur, filho de Uther Pendragon, da Brotherhood of Steel. Nós
+{103}{}{Salve, viajantes. Meu nome é Arthur, filho de Uther Pendragon, da Irmandade do Aço. Nós
   estão em busca da Granada de mão sagrada de Antioquia. Você viu isso?}
 {104}{}{Santo o que de quem?}
 {105}{}{Resposta do jogador}

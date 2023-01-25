@@ -344,7 +344,9 @@ procedure Node011 begin
 
    toy := dude_item( PID_MR_NIXON_DOLL);
    rm_obj_from_inven( dude_obj, toy );
-   add_obj_to_inven( self_obj, toy );
+   // Destroy it, so that Nixon can't be stolen again.
+   // It doesn't make sense for Curtis to be happy if he has no doll.
+   destroy_object(toy);
 
    inc_general_rep( REP_BONUS_RETURNED_NIXON );
    set_local_var( LVAR_Nixon_Quest, NIXON_RETURNED );

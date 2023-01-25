@@ -145,30 +145,30 @@
 {321}{}{This place looks worse than Vault City.}
 {322}{}{Good thing I checked my weapons before I came in here.}
 {323}{}{If I kick the bucket, don't bury me here.}
-{324}{}{Watch yourself around here. The locals ain't too friendly.}
-{325}{}{Heh. Never thought I'd see San Francisco.}
-{326}{}{Never thought you'd keep an old timer like me 'round this long. Let's get this job done and go home.}
-{327}{}{Redding's a mining town. Gold, mostly. A lot of caravans came to Vault City from here.}
-{328}{}{Broken Hills is a mining town... mostly uranium ore. It can be a rough place, so watch yourself.}
-{329}{}{I got some poison runnin' through my system. Got any antidote?}
-{330}{}{I'm glowing like a neon sign over here. Got any anti-radiation drugs?}
-{331}{}{I'm hurting pretty bad over here. Got any stims?}
-{332}{}{You keep your nose clean, Myron. I'm watching you.}
-{333}{}{Step outta line, Myron, and I'm gonna cut you.}
-{334}{}{Dammit, Lenny, you need a bath. Or some disinfectant.}
-{335}{}{Ghoul-boy, you better keep your damn distance. Shoooo-weee, do you stink.}
-{336}{}{That's the meanest-looking dog I've ever seen.}
-{337}{}{Easy, pooch. Cassidy's your friend, all right?}
-{338}{}{Wonder what that cyberdog eats. Humans, probably.}
-{339}{}{If that cyberdog starts humping my leg, I'm gonna put it down.}
-{340}{}{Ahhhh. Boy, am I glad they made millions of these things before the bomb dropped.}
+{324}{}{Cuidado por aqui. Os locais não são muito amigáveis.}
+{325}{}{Hehe. Nunca pensei que veria São Francisco.}
+{326}{}{Nunca pensei que você manteria um veterano como eu por tanto tempo. Vamos fazer este trabalho e ir para casa.}
+{327}{}{Redding é uma cidade mineira. Ouro, principalmente. Muitas caravanas vieram para Vault City daqui.}
+{328}{}{Broken Hills é uma cidade mineira... principalmente minério de urânio. Pode ser um lugar difícil, então tome cuidado.}
+{329}{}{Eu tenho algum veneno pelo meu corpo. Tem algum antídoto?}
+{330}{}{Estou brilhando como um letreiro de néon aqui. Tem algum remedio anti-radiação?}
+{331}{}{Estou sofrendo muito aqui. Tem algum stimpack?}
+{332}{}{Fique longe de problemas, Myron. Estou te vigilando.}
+{333}{}{Saia da linha, Myron, e eu te quebro.}
+{334}{}{Droga, Lenny, você precisa de um banho. Ou algum desinfetante.}
+{335}{}{Ghoulzinho do céu, fica mais longe, vai. Porque, meu amigo, você fede.}
+{336}{}{Esse é o cachorro mais feio que eu já vi.}
+{337}{}{Calma, cachorrinho. Cassidy é sua amigo, certo?}
+{338}{}{Me pergunto o que esse cachorro robô come. Humanos, provavelmente.}
+{339}{}{Se esse cachorro robô começar a trepar com a minha perna, vou mata-lo.}
+{340}{}{Ahhhh. Rapaz, estou feliz que eles fizeram milhões dessas coisas antes da bomba cair.}
 {341}{}{Muito obrigado, amigo.}
-{342}{}{Hope takin' these stims don't hurt my heart none...}
-{343}{}{What th--?! No, my heart! I...*hrrrkkk*}
-{344}{}{Sorry, I was just admirin' the view.}
-{345}{}{Hell, I'll just stand over here, then.}
-{346}{}{My apologies, friend. Didn't mean to block your way.}
-{347}{}{Ahhhhh. That hit the spot. Thank you kindly.}
+{342}{}{Espero que tomar esses stimpacks não machuque meu coração...}
+{343}{}{O que...?! Não, meu coração! Eu... *hrrrkk*}
+{344}{}{Desculpe, só estava admirando a vista.}
+{345}{}{Maldição, eu vou ficar aqui, então.}
+{346}{}{Perdão, amigo. Não quis bloquear seu caminho.}
+{347}{}{Ahhhh. Isso atingiu o alvo. Muito obrigado.}
 {348}{}{*Hic* Heh-heh. Nothing like some good ol' firewater to get the blood pumping.}
 {349}{}{Thanks. Hell, you should take a swig, too.}
 {350}{}{That's the Vault. Big friggin' thing, innit?}

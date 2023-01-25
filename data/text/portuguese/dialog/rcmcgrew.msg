@@ -12,7 +12,7 @@
 {110}{}{What do you mine here?}
 {111}{}{Você já ouviu falar de uma coisa chamada Garden of Eden Creation Kit?}
 {112}{}{Why do they call you *Dangerous* Dan McGrew?}
-{113}{}{What's going on here in town lately?}
+{113}{}{O que está acontecendo aqui na cidade ultimamente?}
 {114}{}{I was just moving through. Goodbye.}
 {115}{}{We mine gold. Everybody wants it, too. Send it all the way to Vault City, New Reno, and even
  down to the NCR. You might say that Redding has something for everybody - that's what keeps us
@@ -76,23 +76,23 @@
 {154}{}{Everyone's just about rolling in Jet lately. Seems as though most fellers just can't get enough
  of it. Makes for happy workers, though, so I can't complain. Lined up two deep in front of Doc
  Johnson's, they are. If there was much more, though, I'd start to worry.}
-{155}{}{Who's Doc Johnson?}
+{155}{}{Quem é o Dr. Johnson?}
 {156}{}{Interesting. Let me ask you about something else, Dan.}
 {157}{}{I better be moseying, Dan. Goodbye.}
 {158}{}{Damn; there's just too much Jet in this town. We're drowning in the stuff. Nobody wants to work;
  they just want to get high. I can't make my ore quotas with half my damn miners flying high on Jet.
  Goddamn that Doc Johnson.}
-{159}{}{Who's Doc Johnson?}
+{159}{}{Quem é o Dr. Johnson?}
 {160}{}{Sounds like a problem. Let me ask you about something else, Dan.}
 {161}{}{I better be traveling, Dan. Goodbye.}
 {162}{}{Most of the miners that were real Jet Jockeys have crashed hard. That last batch that Doc
  Johnson sold must have been real bad, somehow.}
-{163}{}{Who's Doc Johnson?}
+{163}{}{Quem é o Dr. Johnson?}
 {164}{}{Interesting. Let me ask you about something else, Dan.}
 {165}{}{I better be hiking on, Dan. Goodbye.}
 {166}{}{I don't know what happened, but most of the Jet Jocks got real sick on that last batch - and
  now they can't go near Jet without getting sick. Doc Johnson's looking into it, I heard.}
-{167}{}{Who's Doc Johnson?}
+{167}{}{Quem é o Dr. Johnson?}
 {168}{}{Interesting. Let me ask you about something else, Dan.}
 {169}{}{I better be Trekking, Dan. Goodbye.}
 {170}{}{Cause I'm nothing but the biggest, toughest, mine-crawling, gullywumpin', snake-eatin' buck
@@ -159,21 +159,21 @@
 {218}{}{Why's it better for me to sell it to you than her?}
 {219}{}{I'll think about it. Let me ask you about something else going on in town.}
 {220}{}{We'll just have to see about that. Goodbye.}
-{221}{}{I just want to thank you for selling the chip to the right party.}
-{222}{}{Not a problem. Let me ask you about other stuff going on in town.}
-{223}{}{You got it. That thousand bucks did most of your convincing for you. Let me ask you something.}
-{224}{}{No problem. Bye for now.}
-{225}{}{Thanks for breaking up that bar fight without having to lock anyone up. The miners need to let
- off steam now and then, but they don't mean nothing by it.}
-{226}{}{I could see that. Let me ask you about something else going on here in town.}
-{227}{}{Someone needed to break it up was all. Let me ask you about something else.}
+{221}{}{Só quero agradecer por vender o chip para a pessoa certa.}
+{222}{}{Não é problema. Deixe eu perguntar sobre outras coisas acontecendo na cidade.}
+{223}{}{Você entendeu. Esses mil dólares foram muito convincentes. Deixe me perguntar algo.}
+{224}{}{Sem problemas. Tchau por agora.}
+{225}{}{Obrigado por acabar com aquela briga de bar sem ter que prender ninguém. Os mineiros precisam
+ desabafar de vez em quando, mas nada acontece.}
+{226}{}{Entendo isso. Deixe eu perguntar sobre outra coisa acontecendo aqui na cidade.}
+{227}{}{Alguém precisava acabar com isso. Deixe eu perguntar sobre outra coisa.}
 {228}{}{Sem problemas. Adeus.}
-{229}{}{I sure wish you hadn't put my miners behind bars like that. They were just letting off some
- steam.}
-{230}{}{They started the fight; I had to end it. Let me ask you about something else going on here
- in town.}
-{231}{}{They needed some time to cool off. You can get them in a few days. Let me ask you about
- something else.}
+{229}{}{Eu gostaria que você não tivesse colocado meus mineiros na cadeia assim. Eles estavam só
+ desabafando.}
+{230}{}{Eles começaram a luta; eu precisei acabar com isso. Deixe eu perguntar sobre outra coisa
+ acontecendo aqui na cidade.}
+{231}{}{Eles precisavam de um tempo para se acalmar, você pode recuperá-los em alguns dias.
+ Deixe eu perguntar outra coisa.}
 {232}{}{I think I need to let off some steam myself. Goodbye.}
 {233}{}{Thanks for putting those Kokoweef thugs away for picking a fight with my lads. Those
  Kokoweefers need to be put away for good.}
@@ -239,7 +239,7 @@
  Ascorti. He's the deed-holder now.}
 {280}{}{Take care of yourself. I really need that chip.}
 {281}{}{Let me ask you about some other stuff going on in town.}
-{282}{}{Thanks for the tip. Goodbye.}
+{282}{}{Obrigado pela dica. Tchau.}
 {283}{}{"Painless" Doc Johnson is our town quack. Oh, I suppose he knows something about doctoring, but
  I don't guess he knows too much. He's on the west side of Downtown. Anyhow, he usually sells all the
  medicine and drugs that we get here in town.}

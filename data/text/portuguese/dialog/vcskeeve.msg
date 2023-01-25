@@ -52,43 +52,43 @@
 {150}{}{Hide the goods on your slaves... your "Servants." You see, Vault City mentality is this:
 They don't seem to catch on that anyone would let Servants carry anything important... or questionable. Go figure.}
 {151}{}{Any other options?}
-{152}{}{All right, then. Thanks.}
-{153}{}{Well, you CAN become a Citizen... unofficially.}
+{152}{}{Tudo bem, então. Obrigado.}
+{153}{}{Bem, você PODE se tornar um Cidadão... não oficialmente.}
 {154}{}{Do que você está falando?}
 {155}{}{Never mind. Maybe we'll talk some other time.}
-{156}{}{If you got the cash, then I'll go into detail. Otherwise...}
-{157}{}{I've got the money. What are you selling?}
+{156}{}{Se você tem o dinheiro, então entrarei em detalhes. Do contrario...}
+{157}{}{Eu tenho o dinheiro. O que você está vendendo?}
 {158}{}{Nevermind. Maybe we'll talk some other time.}
-{159}{}{$200, and the papers are yours.}
-{160}{}{For two hundred bucks, I can make you a full-fledged Citizen. You'll have free passage through
- the gate, no hassles. I can print out the papers, register your serial number, and have you on your way
- in five minutes.}
-{161}{}{What if I told somebody that you were peddling Citizenship papers?}
-{162}{}{Sounds good. Here's $200.}
-{163}{}{Well, two hundred's pretty steep. I only got $150 on me.}
-{164}{}{I don't have that kind of cash on me. Maybe some other time.}
-{165}{}{No thanks. Maybe some other time.}
-{166}{}{Simple. They wouldn't BELIEVE you. You're an Outsider, I'm a Citizen. Guess whose word they're going to believe?}
-{167}{}{I'll take the Citizenship papers, then.}
-{168}{}{I'll take the Citizenship papers... but for $150, not $200.}
-{169}{}{Well, $200's too steep for me. I might be back if I get some more money.}
+{159}{}{$200, e os papéis são seus.}
+{160}{}{Por duzentos dólares, posso te tornar um cidadão com pleno direito. Você terá passagem livre
+ pelo portão, sem aborrecimentos. Posso imprimir os papéis, registrar seu número de série e deixar tudo
+ pronto em cinco minutos.}
+{161}{}{E se eu contasse a alguém que você está vendendo documentos de Cidadania?}
+{162}{}{Parece bom. Aqui estão $200.}
+{163}{}{Bem, duzentos é bem alto. Eu só tenho $150 comigo.}
+{164}{}{Eu não esse tanto de dinheiro comigo. Talvez outra hora.}
+{165}{}{Não, obrigado. Talvez outra hora.}
+{166}{}{Simples. Eles não acreditariam em você, você é um estranho, eu sou um cidadão. Adivinha em quem eles vão acreditar?}
+{167}{}{Vou levar os papéis da Cidadania, então.}
+{168}{}{Aceito os papéis da Cidadania... mas por $150, não $200.}
+{169}{}{Bem, $200 é muito caro para mim. Talvez eu volte se conseguir mais algum dinheiro.}
 {170}{}{Never mind. Maybe we'll talk some other time.}
-{171}{}{Hmmm. Well, all right... I'm feeling charitable today. But don't tell any of your other Outsider
- friends you got them so cheap.}
+{171}{}{Hmmm. Bem, tudo bem... Estou me sentindo caridoso hoje, mas não diga para nenhum de
+ seus outros amigos forasteiros que você os comprou tão barato.}
 {172}{}{Tudo certo.}
-{173}{}{Just give me the damn papers.}
-{174}{}{All right, they're all done printing. Here you are..."Citizen." And don't tell anyone about this,
- ESPECIALLY Wallace, all right?}
-{175}{}{No problem. I would never think of doing such a thing to an upstanding Citizen such as
- yourself, especially when I have proof of your illegal activities sitting right here in my pocket.}
-{176}{}{Got it. No problem.}
-{177}{}{What th-?! Nobody's gonna believe you, Outsider! It'll be your word over mine!}
-{178}{}{Normally, it would be. But these fake papers speak for themselves. And they will,
- unless you can pay for their silence.}
-{179}{}{Of course it will. See you.}
-{180}{}{I... wh... you dirty...}
-{181}{}{Careful... I'd watch your tongue if I were you.}
-{182}{}{Sweet talking me isn't going to help, Skeev.}
+{173}{}{Me da logo esses malditos papéis.}
+{174}{}{Tudo bem, eles terminaram de imprimir. Aqui está..."Cidadão." E não conte a ninguém sobre
+ isso, ESPECIALMENTE Wallace, certo?}
+{175}{}{Sem problemas. Eu nunca pensaria em fazer uma coisa dessas com um cidadão honesto
+ como você, especialmente quando tenho provas de suas atividades ilegais bem aqui no meu bolso.}
+{176}{}{Entendi. Sem problemas.}
+{177}{}{Mas que po...?! Ninguém vai acreditar em você, Forasteiro! Será a sua palavra sobre a minha!}
+{178}{}{Normalmente, seria, mas esses papéis falsos já falam por mim. E eles vão, a menos
+ que você possa pagar para que eles fiquem quietinhos.}
+{179}{}{Claro que vai. Nos vemos por ai.}
+{180}{}{Eu... mas... maldito...}
+{181}{}{Cuidado... Eu tomaria cuidado com essa língua se eu fosse você.}
+{182}{}{Falar comigo não vai ajudar, Skeev.}
 {183}{}{All right, I got a LITTLE cash stashed away. Here. Take it... three hundred bucks.
  Now, you gonna keep quiet?}
 {184}{}{As far as you know. See you.}
@@ -150,8 +150,8 @@ They don't seem to catch on that anyone would let Servants carry anything import
 {237}{}{Oh, I think he will once he sees the fake citizenship papers you gave me. Of course, if you
  happen to have some cash on you, it can be our little secret.}
 {238}{}{We'll see about that.}
-{239}{}{I'll take the Citizenship papers, then.}
-{240}{}{Well, $200's too steep for me. I might be back if I get some more money.}
+{239}{}{Vou levar os papéis da Cidadania, então.}
+{240}{}{Bem, $200 é muito caro para mim. Talvez eu volte se conseguir mais algum dinheiro.}
 {241}{}{Não, valeu. Talvez outra hora.}
 {242}{}{What does it take to become a real Citizen?}
 {243}{}{Hmmmm. How much for the Citizenship papers again?}

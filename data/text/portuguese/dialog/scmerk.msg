@@ -1,6 +1,6 @@
-{100}{}{You see a well-dressed, heavy set man who moves with deliberate slowness.}
-{101}{}{It's Merk - folks call him The Man around here.}
-{102}{}{This fellow's got an air of arrogant coldness to him, like he cares for you no more than the fly he just squished between his fingers.}
+{100}{}{Você vê um homem corpulento e bem vestido se movendo com lentidão deliberada.}
+{101}{}{É Merk - as pessoas por aqui o chamam de O Homem.}
+{102}{}{Esse sujeito tem um ar de frieza e arrogancia, como se ele não visse diferença entre você e a mosca que acabou de esmagar entre os dedos.}
 {103}{}{Hey, I've seen you in the movies! Come to show me some action, have you?}
 {104}{}{Whaddya mean, disturbing my peace like this? Get outta here.}
 {105}{}{Excuse me, I got business to conduct.}
@@ -8,35 +8,35 @@
 {107}{}{I've seen you on the silver screen, ain't I? You got impressive, uh, credentials.}
 {108}{}{You got that certain look in your eyes. Stop by the Rawhide - I could always use somebody like you.}
 {109}{}{Shit, what's that smell? Something just walked into the room.}
-{110}{}{Go fetch me another whiskey - quick now.}
-{111}{}{Got no time right now.}
-{112}{}{I'm a guest here. Stop bothering me.}
-{113}{}{Hey baby, nice tracts you got. Carlson's taste's improving.}
-{114}{}{I don't do business here.}
-{115}{}{I don't know you. I'm a respectable businessman.}
-{116}{}{Well, if it ain't the wuss. Go on and leave me alone.}
-{117}{}{So, decided to look me up after all, eh baby?}
-{118}{}{I don't know nothing about nothing, understand.}
-{119}{}{The veep's not gonna like you bothering his guests.}
-{120}{}{Damn fine booze the man serves here.}
-{121}{}{Get outta my way!}
-{122}{}{You wanna talk to somebody, go buy yourself a friend.}
-{123}{}{I don't give directions and I don't pass out change. Bug off.}
-{124}{}{What is this - social hour?}
-{125}{}{I'm Merk. Whattya want?}
+{110}{}{Vá buscar outro uísque, e rápido.}
+{111}{}{Não tenho tempo agora.}
+{112}{}{Eu sou um convidado aqui, pare de me incomodar.}
+{113}{}{Ei, boneca, você é muito gostosinha. O gosto de Carlson está melhorando.}
+{114}{}{Eu não faço negócios aqui.}
+{115}{}{Eu não te conheço. Sou um homem de negócios respeitável.}
+{116}{}{Ora, se não é o covarde. Vá em frente e me deixe em paz.}
+{117}{}{Então, resolveu me procurar afinal, né, amor?}
+{118}{}{Eu não sei nada sobre nada, entenda.}
+{119}{}{O Veep não vai gostar que você incomode os convidados dele.}
+{120}{}{Excelente licor que é servido aqui.}
+{121}{}{Saia do meu caminho!}
+{122}{}{Se queres falar com alguém, compre um amigo na Shopee.}
+{123}{}{Não dou instruções nem devolvo o troco. Saia.}
+{124}{}{O que é isso? Hora de socializar?}
+{125}{}{Eu sou Merk. O que você quer?}
 {126}{}{Você novamente?}
-{127}{}{Well, keep it polite, punk, or this could get ugly.}
+{127}{}{Bem, seja educado, punk, ou isso pode ficar feio.}
 {128}{}{Oort.}
 {129}{}{Estou procurando trabalho.}
-{130}{}{Informed sources say you're the man to see about doing business, if you know what I mean.}
-{131}{}{They say you're the man who ripped off my car.}
+{130}{}{Segundo as fontes, você é o homem certo para fazer negócios, se é que me entende.}
+{131}{}{Dizem que você é o homem que roubou meu carro.}
 {132}{}{Estou buscando informação.}
-{133}{}{Some say you might know a thing or two about, oh say, stuff missing from cars.}
-{134}{}{You again? So's the job done?}
+{133}{}{Alguns dizem que você pode saber algumas coisinhas sobre, vejamos, coisas que faltam em carros.}
+{134}{}{Você de novo? O trabalho está feito?}
 {135}{}{Glub.}
 {136}{}{Não.}
 {137}{}{Eu tenho algumas perguntas.}
-{138}{}{Hmm... Strong. Dumb... If you want a job, talk to Mira. Understand? Mi-ra. Over there.}
+{138}{}{Hum... Forte. Burro... Se você quer um emprego, fale com Mira. Entende? Mi-ra. Por ali.}
 {139}{}{Like making noises? Will somebody get this brahmin turd out of here?}
 {140}{}{Are you that stupid? You think I'm just gonna hire anybody? You work for me, you got to prove you're good for something.}
 {141}{}{How about I just shoot Lenny, there? He deserves it.}

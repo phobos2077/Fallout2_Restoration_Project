@@ -1,2 +1,2 @@
-{100}{}{The book contains TONS of inside information on Fallout 2, more than enough
- to modify yourself for the better.}
+{100}{}{O livro contém TONELADAS de informações privilegiadas sobre Fallout 2, mas
+ isso não faz uma tradução sair mais rápido.}

@@ -65,10 +65,10 @@
 {164}{}{Is this the Shadeesands the Elder speaks of?}
 {165}{}{That's all for now. I'll be going.}
 {166}{tand8}{It's just east of here, an underground shelter from the war. Most families in NCR came from it, so it's rightfully ours.}
-{167}{}{Tell more.}
+{167}{}{Conte mais.}
 {168}{}{Continue.}
 {169}{tand9}{A couple of years ago some squatters moved in and built a shantytown on the surface. They call it 'The Squat.' They're nothing but dogs in the manger. They can't get into the vault but they keep us out.}
-{170}{}{Me got more questions.}
+{170}{}{Eu tenho mais perguntas.}
 {171}{}{I see. I need to ask you about a few other things.}
 {172}{tand10}{I tried. I sent some people down there but, after the first few, they stopped coming back. I can't prove the squatters are responsible either. My boys managed to capture one of 'em but he won't talk. Got 'em locked up downtown.}
 {173}{}{Need know more.}
@@ -140,64 +140,64 @@
 {239}{tand28}{Yes... there's a resemblance - you've got the same fire, too. I was always afraid that he was nothing but a skeleton somewhere in the desert.}
 {240}{}{Me want hear you story.}
 {241}{}{I'd like to hear your story.}
-{242}{tand29}{Figures. (sigh) Well, I was pretty young when we met. There was a gang of raiders - The Khans - Who'd gotten hold of me. Things were looking pretty bad when, all of a sudden, this stranger shows up and rescues me. Your Vault Dweller.}
-{243}{}{Vaultdweller have many adventures.}
-{244}{}{The Vault Dweller had many such adventures.}
-{245}{tand30}{I used to envy 'em that. I wanted a life of adventure, but I stayed here and took over as mayor when my dad died. Been running this place and building NCR ever since. Guess it turned out to be a pretty big life after all.}
-{246}{}{Elder be happy know you still alive. Sorry, but me need ask more.}
-{247}{}{The Elder will be happy to know that you are still alive. I'm sorry but I need to know more.}
-{248}{tand31}{Was Shady Sands; Most folks call it NCR now. New California Republic - pretty impressive name, huh?}
-{249}{}{Tell about NCR.}
-{250}{}{Me ask about something else.}
-{251}{}{Tell me about the NCR please.}
+{242}{tand29}{Figuras. (suspiro) Bem, eu era bem jovem quando nos conhecemos. Havia uma gangue de invasores - Os Khans - eles me pegaram. As coisas pareciam muito ruins quando, de repente, esse estranho apareceu e me resgatou. Seu Morador da Vault.}
+{243}{}{Morador tem muitas aventuras.}
+{244}{}{O Morador da Vault teve muitas dessas aventuras.}
+{245}{tand30}{Eu costumava invejá-lo por isso. Eu queria uma vida de aventura, mas fiquei aqui e assumi o cargo de prefeita quando meu pai morreu. Tenho administrado esse lugar e construído a NCR desde então. Acho que acabou por ser uma grande vida depois de tudo.}
+{246}{}{Elder fique feliz por saber que você ainda está vivo. Desculpe, mas eu tenho mais perguntas.}
+{247}{}{A Anciã ficará feliz em saber que você ainda está viva. Sinto muito, mas gostaria de saber mais.}
+{248}{tand31}{Era Shady Sands; A maioria das pessoas chama de NCR agora. Republica da Nova California - nome bastante impressionante, não eh?}
+{249}{}{Me diga sobre a NCR.}
+{250}{}{Eu pergunto sobre outra coisa.}
+{251}{}{Me diga sobre a NCR, por favor.}
 {252}{}{Deixe-me perguntar-lhe algo mais.}
-{253}{tand32}{Lord, I could talk about that forever and I just don't have the time. Here's a holodisk on the NCR. We make 'em to spread the good word.}
+{253}{tand32}{Deus, eu poderia falar sobre isso para sempre e infelizmente não tenho tempo. Aqui está um holodisco da NCR. Nós sempre fazemos para espalhar a boa palavra.}
 {254}{}{Hã, valeu.}
-{255}{tand33}{So, they finally got reasonable. I can bull the Congress into sending supplies and techs. You sure we can get into the vault?}
-{256}{}{Me sure. Lowlifes there but me kick ass.}
-{257}{}{Quite sure. There were some lowlifes there but I kicked their ass.}
-{258}{tand34}{I've always believed in fair pay for fair work. My assistant will square things up.}
-{259}{}{Me find problem. You look disk. There spy at NCR.}
-{260}{}{Me need know one more thing. What if me found Vault 13?}
-{261}{}{I'm afraid you have another problem. If you'll look at this holodisk you'll see that you have a spy in the NCR.}
-{262}{}{Just one more thing. What if I told you that I found Vault 13?}
+{255}{tand33}{Então eles finalmente forma razoaveis. Posso convencer o Congresso a enviar suprimentos e técnicos. Tem certeza de que podemos entrar na Vault?}
+{256}{}{Tenho. Tinha bandidos mas eu chutei o cu deles.}
+{257}{}{Com certeza. Havia alguns bandidos lá, mas eu chutei o traseiro deles.}
+{258}{tand34}{Sempre acreditei em pagamento justo por trabalho justo. Meu assistente vai resolver as coisas.}
+{259}{}{Problema encontrado. Você olha disco. Há um espião na NCR.}
+{260}{}{Eu preciso saber mais uma coisa. E se eu encontrasse a Vault 13?}
+{261}{}{Receio que você tenha outro problema. Se você olhar para este holodisco, verá que tem um espião na NCR.}
+{262}{}{Só mais uma coisa. E se eu te contasse que encontrei a Vault 13?}
 {263}{}{Obrigado.}
-{264}{tand35}{Damn, the only person who knew all this was Feargus! I'm not suggesting anything, but maybe Gunther should know about this.}
-{265}{}{Me tell. Me go now.}
-{266}{}{Me need know one more thing. What if me found Vault 13?}
-{267}{}{Just one more thing. What if I told you that I found Vault 13?}
-{268}{}{I'll talk to him. Bye.}
-{269}{tand36}{It's all business, huh? Fine. Five hundred, when it's done. I don't haggle, so take it or don't waste my time.}
+{264}{tand35}{Porra, a única pessoa que sabia de tudo isso era Feargus! Não estou sugerindo nada, mas talvez Gunther saiba disso.}
+{265}{}{Eu digo. Eu vou agora.}
+{266}{}{Eu preciso saber mais uma coisa. E se eu encontrasse a Vault 13?}
+{267}{}{Só mais uma coisa. E se eu te contasse que encontrei a Vault 13?}
+{268}{}{Eu vou falar com ele. Tchau.}
+{269}{tand36}{É tudo negócio, eh? De acordo. Quinhentos, quando terminar. Eu não pechincho, então pegue ou não perca meu tempo.}
 {270}{}{Eu levo, mas preciso fazer perguntas.}
-{271}{}{Me not interested.}
-{272}{}{I'll take it but I need some information.}
+{271}{}{Eu não estou interessado.}
+{272}{}{Vou levar, mas preciso de algumas informações.}
 {273}{}{Não interessado.}
-{274}{tand37a}{I'm Tandi, president of the NCR. So you whupped my boy, Hoss, over at Dusty's? Maybe you're the right man at the right time. Interested in some work?}
-{275}{tand37b}{I'm Tandi, president of the NCR. So you're the girl who whupped my boy Hoss? I should've had such a daughter! I've got a job you might want. Interested?}
-{276}{}{Maybe. What job?}
-{277}{}{I might be, what's the job?}
-{278}{tand38}{I'm Tandi, president of the New California Republic. Welcome to Shady Sands. I hear some pretty impressive things about you. No point in dancing. Got some business I want to discuss.}
+{274}{tand37a}{Sou Tandi, presidente da NCR. Então você espancou meu garoto, Hoss, no Dusty's? Talvez você seja o homem certo na hora certa. Interessado em algum trabalho?}
+{275}{tand37b}{Sou Tandi, presidente da NCR. Então você é a garota que espancou meu garoto Hoss? Eu deveria ter tido uma filha assim! Eu tenho um trabalho que você pode querer. Interessada?}
+{276}{}{Pode ser. Que trabalho?}
+{277}{}{Pode ser, qual é o trabalho?}
+{278}{tand38}{Sou Tandi, presidente da Republica da Nova California. Bem-vindo a Shady Sands. Eu ouço algumas coisas impressionantes sobre você. Vou ser direta: tenho alguns negócios que quero discutir.}
 {279}{}{Hã, certo.}
-{280}{}{Fine, what can I do for you?}
-{281}{tand39}{You're back. So, you interested in a job or not?}
+{280}{}{Tudo bem, o que posso fazer por você?}
+{281}{tand39}{Você voltou. Então, você está interessado em um emprego ou não?}
 {282}{}{Não.}
 {283}{}{Ok.}
-{284}{tand40}{Back, are you stranger? So's the job done? Do we have access to the vault?}
-{285}{}{Me working on it. Bye.}
+{284}{tand40}{De volta, Estranho? O trabalho está feito? Temos o acesso a Vault?}
+{285}{}{Eu trabalhando nisso. Tchau.}
 {286}{}{Me been there. Squatters want deal. You teach, you help, they give you vault.}
 {287}{}{Me been there. Me got parts.}
 {288}{}{Me been there. Squatters want deal. You teach, you help, they give you vault. Here parts also.}
-{289}{}{I'm still working on it. I'll see ya.}
+{289}{}{Ainda estou trabalhando nisso. Até mais.}
 {290}{}{I've handled most of this already. The squatters want a deal. You help them become self sufficient and they'll give you access to the vault.}
 {291}{}{Eu estive lá e tenho as peças que você está procurando.}
 {292}{}{I've handled this already. The squatters want a deal. You help them become self sufficient and they'll give you the vault. Also, here are the parts.}
-{293}{tand41}{Hell and thunder! Then stop wasting my time!}
+{293}{tand41}{Raios e trovões! Então pare de desperdiçar meu tempo!}
 {294}{}{Sinto.}
-{295}{tand42}{Vault 13 - you found it? That solves all of our problems! Where is it?}
-{296}{}{Uh, before me tell, there be one problem with vault.}
-{297}{}{Me draw map. Here.}
-{298}{}{Before I tell you, there is one small problem with the vault.}
-{299}{}{I've drawn up a map. It's yours.}
+{295}{tand42}{A Vault 13, você encontrou? Isso resolve todos os nossos problemas! Onde esta?}
+{296}{}{Uh, antes que eu continue, há um problema com a vault.}
+{297}{}{Desenho no mapa. Aqui.}
+{298}{}{Antes que eu continue, há um pequeno problema com a vault.}
+{299}{}{Desenhei um mapa. É seu.}
 {300}{}{I'm not one to just hand over a gold mine for free. I want 20 grand or you can forget it.}
 {301}{tand43}{What?}
 {302}{}{It full of D'claws. Smart ones. They talk.}

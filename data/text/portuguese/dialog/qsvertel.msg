@@ -1,3 +1,3 @@
-{100}{}{Choose a ship level.}
-{101}{}{Vertibird Unloading Pad.}
-{102}{}{Entry Hall.}
+{100}{}{Escolha um nível do navio.}
+{101}{}{Bloco de download Vertibird.}
+{102}{}{Sala de entrada.}

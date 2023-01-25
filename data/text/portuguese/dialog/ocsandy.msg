@@ -41,7 +41,7 @@
  e não tem tempo para brincar, mas sempre brinca comigo quando peço. Só não conto mais para a mamãe.}
 {132}{}{Cavalinho... (Olhar de cachorrinho confuso)}
 {133}{}{Eu vou.}
-{134}{}{That's nice.}
+{134}{}{Muito legal.}
 {135}{}{Ok, entendi.}
 {136}{}{Sim. Mamãe cuida de mim e Valdis não deixaria ninguém me machucar. Estou segura aqui.}
 {137}{}{OK. Eu vou agora.}

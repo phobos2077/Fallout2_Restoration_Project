@@ -10,14 +10,14 @@
 {130}{}{Heard about the good deeds you been doing. See I was wrong about you. Forgive me for being a rude man, fren. Go on in and peep the big man. He be waiting for you.}
 {131}{}{Heard about the good deeds you been doing, fren. Go on in and peep the big man. He be waiting for you.}
 {132}{}{Obrigado.}
-{133}{}{Thankee.}
-{140}{}{Greetings, fren.}
-{141}{}{How goes things, warrior?}
+{133}{}{Valeeeu.}
+{140}{}{Saudações, amigo.}
+{141}{}{Como vão as coisas, guerreiro?}
 {142}{}{Vá em frente.}
-{143}{}{Well met, warrior.}
-{144}{}{Good to peep you again, fren.}
-{260}{}{Me kill slaver!}
-{300}{}{You see a strong looking tribal}
-{301}{}{You see the guardian of the tribe leader.}
-{302}{}{This man is watching you with a piercing gaze. Clearly, he is guarding someone important.}
-{500}{}{You always be welcome here, hero.}
+{143}{}{Muito bem, guerreiro.}
+{144}{}{Bom espiar de novo, amigo.}
+{260}{}{Eu mato escravista!}
+{300}{}{Você vê um tribal de aparência forte}
+{301}{}{Você vê o guardião do líder da tribo.}
+{302}{}{Este homem está observando você com um olhar penetrante. Claramente, ele está protegendo alguém importante.}
+{500}{}{Seja sempre bem-vindo aqui, herói.}
