@@ -6,6 +6,7 @@
 *.log
 *.tmp
 *.zip
+**/.tmp.ssl
 
 translations/*/text
 translations/*.dat
