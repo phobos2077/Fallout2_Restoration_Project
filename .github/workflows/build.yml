@@ -10,8 +10,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: devopsx/gha-focal-i386-fix@master
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
 
       - name: Run tests
         run: |
@@ -30,14 +29,14 @@ jobs:
         run: ./extra/full.sh
 
       - name: Upload artifacts - exe
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v3
         if: "!startsWith(github.ref, 'refs/tags/')"
         with:
           name: rpu.exe
           path: rpu*.exe
 
       - name: Upload artifacts - translations zip
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v3
         if: "!startsWith(github.ref, 'refs/tags/')"
         with:
           name: rpu_translations.zip
@@ -49,7 +48,7 @@ jobs:
         run: rm -f rpu*_translations.zip
 
       - name: Upload artifacts - main zip
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v3
         if: "!startsWith(github.ref, 'refs/tags/')"
         with:
           name: rpu.zip
