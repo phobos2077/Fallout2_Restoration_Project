@@ -132,8 +132,8 @@ procedure critter_p_proc begin
    this as well. */
 
    if ( ((local_var(LVAR_Hostile) == 2) or (global_var(GVAR_ENEMY_VAULT_VILLAGE))) and (self_can_see_dude)) then begin
-       set_local_var(LVAR_Hostile,1);
-       attack(dude_obj);
+      set_local_var(LVAR_Hostile,1);
+      attack(dude_obj);
    end
 
 end
@@ -143,10 +143,9 @@ end
 ******************************************************************************************/
 
 procedure damage_p_proc begin
-  if (source_obj == dude_obj) then
-  begin
-    set_local_var(LVAR_Hostile, 2);
-    set_global_var(GVAR_ENEMY_VAULT_VILLAGE,1);
+  if (source_obj == dude_obj) then begin
+     set_local_var(LVAR_Hostile, 2);
+     set_global_var(GVAR_ENEMY_VAULT_VILLAGE,1);
   end
 end
 
@@ -168,7 +167,7 @@ procedure map_enter_p_proc begin
       destroy_object(self_obj);
    end else begin
       if (global_var(GVAR_VAULT_VILLAGE) >= VILLAGE_STAGE_ONE) then begin
-         critter_attempt_placement(self_obj, 24100, dude_elevation);
+         critter_attempt_placement(self_obj, 23296, dude_elevation);
       end
       set_self_team(TEAM_VAULT_VILLAGERS);
 
@@ -179,7 +178,7 @@ procedure map_enter_p_proc begin
    end else begin
       //if ( ((global_var(GVAR_VAULT_SERVANT) == 3) and (global_var(GVAR_VAULT_VILLAGE) != 4) and ((game_time - global_var(GVAR_SERVANT_RAID_DATE)) >= ONE_GAME_MONTH) ) or (global_var(GVAR_VAULT_SERVANT) == 4)) then
       if (global_var(GVAR_QUEST_VAULT_SERVANT) > SERVANT_BRAIN_AGREEMENT) then
-         critter_attempt_placement(self_obj, 24100, dude_elevation);
+         critter_attempt_placement(self_obj, 23296, dude_elevation);
 
       set_self_team(TEAM_VAULT_VILLAGERS);
    end*/
@@ -204,51 +203,51 @@ end
 **************************************************************************************/
 
 procedure talk_p_proc begin
-      if (global_var(GVAR_FOOD_QUEST_VAULT_VILLAGE) == 6) then begin
-         floater(403);
-      end else if (global_var(GVAR_FOOD_QUEST_VAULT_VILLAGE) == 5) then begin
-         floater(402);
-      end else if (global_var(GVAR_FOOD_QUEST_VAULT_VILLAGE) == 4) then begin
-         start_gdialog(NAME,self_obj,4,-1,-1);
-         gSay_Start;
-            call Node009;
-         gSay_End;
-         end_dialogue;
-      end else if (global_var(GVAR_FOOD_QUEST_VAULT_VILLAGE) == 3) then begin
-         start_gdialog(NAME,self_obj,4,-1,-1);
-         gSay_Start;
-            call Node007;
-         gSay_End;
-         end_dialogue;
-      end else if (global_var(GVAR_FOOD_QUEST_VAULT_VILLAGE) == 2) then begin
-         start_gdialog(NAME,self_obj,4,-1,-1);
-         gSay_Start;
-            call Node005;
-         gSay_End;
-         end_dialogue;
-      end else if ( (global_var(GVAR_QUEST_VAULT_VILLAGE) < VILLAGE_QUEST_DELIVERED_GUNS) or  (global_var(GVAR_QUEST_VAULT_VILLAGE) == VILLAGE_QUEST_SPEAK_WITH_COUNCIL) ) then begin
-         floater(random(400,401));
-      end else if ( (global_var(GVAR_QUEST_VAULT_VILLAGE) == VILLAGE_QUEST_DELIVERED_GUNS) or ( (global_var(GVAR_QUEST_VAULT_VILLAGE) == VILLAGE_QUEST_FINISHED_DIPLOMATIC) and (global_var(GVAR_VAULT_VILLAGE) < VILLAGE_STAGE_ONE) ) ) then begin
-         if (global_var(GVAR_QUEST_VAULT_VILLAGE) == VILLAGE_QUEST_FINISHED_DIPLOMATIC) then
-            floater(406);
+   if (global_var(GVAR_FOOD_QUEST_VAULT_VILLAGE) == 6) then begin
+      floater(403);
+   end else if (global_var(GVAR_FOOD_QUEST_VAULT_VILLAGE) == 5) then begin
+      floater(402);
+   end else if (global_var(GVAR_FOOD_QUEST_VAULT_VILLAGE) == 4) then begin
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+         call Node009;
+      gSay_End;
+      end_dialogue;
+   end else if (global_var(GVAR_FOOD_QUEST_VAULT_VILLAGE) == 3) then begin
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+         call Node007;
+      gSay_End;
+      end_dialogue;
+   end else if (global_var(GVAR_FOOD_QUEST_VAULT_VILLAGE) == 2) then begin
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+         call Node005;
+      gSay_End;
+      end_dialogue;
+   end else if ( (global_var(GVAR_QUEST_VAULT_VILLAGE) < VILLAGE_QUEST_DELIVERED_GUNS) or  (global_var(GVAR_QUEST_VAULT_VILLAGE) == VILLAGE_QUEST_SPEAK_WITH_COUNCIL) ) then begin
+      floater(random(400,401));
+   end else if ( (global_var(GVAR_QUEST_VAULT_VILLAGE) == VILLAGE_QUEST_DELIVERED_GUNS) or ( (global_var(GVAR_QUEST_VAULT_VILLAGE) == VILLAGE_QUEST_FINISHED_DIPLOMATIC) and (global_var(GVAR_VAULT_VILLAGE) < VILLAGE_STAGE_ONE) ) ) then begin
+      if (global_var(GVAR_QUEST_VAULT_VILLAGE) == VILLAGE_QUEST_FINISHED_DIPLOMATIC) then
+         floater(406);
+      else
+         floater(random(404,405));
+   end else if (local_var(LVAR_Quest_Wait) == 1) then begin
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+         call Node004;
+      gSay_End;
+      end_dialogue;
+   end else begin
+      start_gdialog(NAME,self_obj,4,-1,-1);
+      gSay_Start;
+         if (local_var(LVAR_Herebefore) == 0) then
+            call Node001;
          else
-            floater(random(404,405));
-      end else if (local_var(LVAR_Quest_Wait) == 1) then begin
-         start_gdialog(NAME,self_obj,4,-1,-1);
-         gSay_Start;
-            call Node004;
-         gSay_End;
-         end_dialogue;
-      end else begin
-         start_gdialog(NAME,self_obj,4,-1,-1);
-         gSay_Start;
-            if (local_var(LVAR_Herebefore) == 0) then
-               call Node001;
-            else
-               call Node008;
-         gSay_End;
-         end_dialogue;
-      end
+            call Node008;
+      gSay_End;
+      end_dialogue;
+   end
 end
 
 procedure Node001 begin
