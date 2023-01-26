@@ -1,13 +1,13 @@
 {100}{}{You see a short, burly, miner with curly black hair.}
 {101}{}{You see Caminetto, a brawling miner for the Kokoweef Mine.}
 {102}{}{You see a thick-set man with the air of a confident fighter.}
-{103}{}{Caminetto, your Kokoweef miners are all show and no go.}
-{104}{}{I'll show you where to go, Blasphemous Bette.}
-{105}{}{You couldn't show me where to go with a roadmap.}
-{106}{}{Just 'cause I wouldn't wanna get that close to ya.}
-{107}{}{Don't flatter yourself, you little runt.}
-{108}{}{You'd be lucky to get a runt instead of that drilling machine you normally use.}
-{109}{}{Well, at least my drill lasts more than thirty seconds.}
+{103}{}{Caminetto, seus mineiros de Kokoweef são só aparência.}
+{104}{}{Vou te dizer onde você pode ir, Bette Blasfemia.}
+{105}{}{Você não poderia me dizer nem com um roteiro.}
+{106}{}{Só porque eu não gostaria de chegar tão perto de você.}
+{107}{}{Não se iluda, seu nanico.}
+{108}{}{Você teria sorte se conseguisse um nanico em vez daquela furadeira que normalmente você usa.}
+{109}{}{Bem, pelo menos minha furadeira dura mais de trinta segundos.}
 {110}{}{Não é de admirar que a maquinaria da Morningstar esteja sempre quebrando.}
 {111}{}{Eu vou te mostrar como se quebra, com meus punhos!}
 {112}{}{Seus punhos? Seu bafo ja é ruim o suficiente.}
@@ -54,24 +54,24 @@
 {152}{}{Bem, isso parece um problema. Tudo bem, não te culpo. Boa sorte.}
 {153}{}{Oh yeah? How're you gonna stop us?}
 {154}{}{Eu mato a primeira pessoa que levantar a mão.}
-{155}{}{I'm just going to ask you real nice like. Then I'm going to load up my weapons and wait for some
- target practice.}
+{155}{}{Vou te pedir muito gentilmente. Depois, carregarei minhas armas e esperarei uma chance de praticar
+ tiro ao alvo.}
 {156}{}{The Sheriff asked me to help him out while he's laid up with a bum leg. I've got to keep my word
  to him.}
 {157}{}{Well, OK... for the Sheriff's sake I 'spose we can hold off a bit.}
-{158}{}{Thanks. I was hoping you'd see things that way. Goodbye.}
+{158}{}{Obrigado. Eu esperava que você entendesse as coisas assim. Adeus.}
 {159}{}{Well, aren't you a goody-two-shoes. I don't think I like your tone, pal.}
-{160}{}{You don't have to like it. You're going to walk with me to the Jail or I'm gonna drag your
- corpse there. Your choice.}
-{161}{}{Oh, I'm sorry. I certainly didn't mean to be rude. I'll be leaving now. Goodbye.}
+{160}{}{Você não precisa gostar. Você vem comigo até a cadeia ou eu arrasto seu cadáver até lá.
+ Pode escolher.}
+{161}{}{Oh, me desculpe, nunca quis ser grosseiro. Estou indo embora agora. Adeus.}
 {162}{}{All right, all right. I'll go if you jail Bette, too. That sounds like a fair deal.}
-{163}{}{You're not in a position to make deals.}
-{164}{}{That's not a bad idea. Putting some bars between the two of you should cool things off a bit.
- Come along, you two.}
+{163}{}{Você não está em posição de fazer negócios.}
+{164}{}{Isso não é uma má ideia. Colocar algumas barreiras entre vocês dois deve aliviar um pouco
+ as coisas. Venham, vocês dois.}
 {165}{}{Aren't you tough. I don't think you can take us without people getting killed. You think the
  Sheriff is gonna like that?}
-{166}{}{No, I guess he wouldn't.}
-{167}{}{Doesn't matter to me. It won't be *my* blood that's spilled.}
+{166}{}{Não, acho que não.}
+{167}{}{Tanto faz. Não será *meu* sangue que vai ser derramado.}
 {168}{}{I guess you got me there. Okay, I'll come quietly. (to the others) Go on back to the mine, lads.
  I'll see you tomorrow.}
 {169}{}{Good choice.}

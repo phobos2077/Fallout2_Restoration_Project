@@ -75,28 +75,28 @@
 {174}{}{Actually, I was looking for some information.}
 {175}{}{Nada mais por hoje, valeu.}
 {176}{}{The Auto-Docs within Vault City can brew synthetic substitutes for otherwise addictive substances. As I understand it, these synthetics were used as placebos for drug addicts before the war.}
-{177}{}{You seem to know a great deal about these synthetics.}
+{177}{}{Você parece saber muito sobre esses sintéticos.}
 {178}{}{Uh, do you have any real drinks?}
-{179}{}{Oh. Well, I'd just like some water then.}
-{180}{}{Hmmm. I'll try some of that alcohol-Z.}
-{181}{}{Interesting. Say, I was looking for some information...}
-{182}{}{I see. Thanks for the information. Good-bye.}
-{183}{}{I was a servant to Dr. Troy for a few months before being re-assigned here. He required that I be fluent with the Vault City medical database.}
-{184}{}{"Fluent?" Can he legally ask you to do that to a computer?}
-{185}{}{Medical database?}
-{186}{}{Interesting. Say, I was looking for some information...}
-{187}{}{I see. Thanks for the information. Good-bye.}
-{188}{}{Uh..."fluent" means proficient, skilled, well-learned.}
-{189}{}{Huh. Well, if that makes you feel better to put it that way, fine. What was this about a medical database?}
-{190}{}{I was looking for some other information...}
-{191}{}{If denial makes you feel better, I understand. I'll talk to you later.}
-{192}{}{Yes, several of the computers on the first floor of the Vault contain a vast array of medical information. It's all quite fascinating, though the jargon can be confusing if you don't have medical training.}
-{193}{}{Jargon? Is he the one in charge of the computers?}
-{194}{}{Interesting. Say, I was looking for some information...}
-{195}{}{Hmmmm. Maybe I'll go check them out, then.}
-{196}{}{Uh, no. "Jargon" refers to lingo, terminology, usually related to a particular profession.}
-{197}{}{Uh, sure it does, sure it does. Just testing you. Say, I was looking for some information...}
-{198}{}{If you say so. Just let this Jargon guy know that I'll be speaking to him, all right? Goodbye.}
+{179}{}{Oh. Bem, eu só gostaria de um pouco de água então.}
+{180}{}{Hmmm. Vou experimentar um pouco desse álcool-Z.}
+{181}{}{Interessante. Olha, eu estava procurando algumas informações...}
+{182}{}{Entendo. Obrigado pela informação, adeus.}
+{183}{}{Fui criado do Dr. Troy por alguns meses antes de ser designado para cá. Ele exigiu que eu fosse fluente com o banco de dados médico de Vault City.}
+{184}{}{"Experiente?" Ele pode pedir legalmente para você fazer isso em um computador?}
+{185}{}{Banco de dados médico?}
+{186}{}{Interessante. Olha, eu estava procurando algumas informações...}
+{187}{}{Entendo. Obrigado pela informação, adeus.}
+{188}{}{Uh..."fluente" significa proficiente, habilidoso, bem aprendido.}
+{189}{}{Huh. Bem, se isso faz você se sentir melhor colocando dessa forma, tudo bem. O que era isso sobre um banco de dados médico?}
+{190}{}{Estava procurando outras informações...}
+{191}{}{Se a negação faz você se sentir melhor, eu entendo. Falo com você mais tarde.}
+{192}{}{Sim, vários dos computadores no primeiro andar da Vault contêm uma vasta gama de informações médicas. É tudo muito fascinante, embora o jargão possa ser confuso se você não tiver formação médica.}
+{193}{}{Jargão? Ele é o responsável pelos computadores?}
+{194}{}{Interessante. Olha, eu estava procurando algumas informações...}
+{195}{}{Hmmmm. Talvez eu de uma olhada neles, então.}
+{196}{}{Oh não. "Jargão" refere-se a linguagem, terminologia, geralmente relacionada a uma determinada profissão.}
+{197}{}{Uh, claro que sim, claro que sim. Estava só te testando. Olha, eu estava procurando algumas informações...}
+{198}{}{Se você diz. Avise esse jargão que falarei com ele, certo? Adeus.}
 {199}{}{If you mean what passes for alcohol in the wastes, then no.}
 {200}{}{We have never felt the need to poison our systems with those bacterial-ridden mixtures. The bar in the Courtyard might be less... discriminating.}
 {201}{}{I'll just have some water, then.}

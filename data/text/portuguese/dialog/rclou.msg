@@ -8,56 +8,56 @@
 {106}{}{You're still a damn idiot. But life goes on, for the rest of us. Now just what the hell do you
  want?}
 {107}{}{Remember what I said. Too much money ain't good for that gal. Now whattya need?}
-{108}{}{Hello there. I'm Lou. Owner of the Malamute Saloon, finest house north of San Fran.}
+{108}{}{Olá, eu sou o Lou. Proprietário do Salão Malamute, o melhor local ao norte de San Fran.}
 {109}{}{O que agora?}
 {110}{}{Ooo?}
-{111}{}{Hello, Lou. I'm interested in getting something here.}
+{111}{}{Olá, Lou. Estou interessado em conseguir algo aqui.}
 {112}{}{Você já ouviu falar de algo chamado Kit de Criação do Jardim do Éden?}
-{113}{}{Hello, Lou. What's going on in this town?}
-{114}{}{What's a Malamute?}
-{115}{}{Where's San Fran from here?}
-{116}{}{I'm helping out the Sheriff. He told me you had one of your girls get all cut up?}
-{117}{}{Sorry, I don't have much time or patience for stupid people. What do you want?}
-{118}{}{Grink?}
-{119}{}{Room?}
+{113}{}{Olá, Lu. O que está acontecendo aqui na cidade?}
+{114}{}{O que é um Malamute?}
+{115}{}{Onde fica San Fran daqui?}
+{116}{}{Estou ajudando o xerife. Ele me disse algo sobre uma de suas garotas ter sido roubada?}
+{117}{}{Desculpe, não tenho muito tempo ou paciência para pessoas estúpidas. O que você quer?}
+{118}{}{Bebida?}
+{119}{}{Quarto?}
 {120}{}{Tchau tchau.}
-{121}{}{A drink huh? Well that'll be $25 for a nice cold bottle of beer. I'm giving you the special
- discount price too, 'cause I have a soft spot in my heart for the simple.}
-{122}{}{Grink? (you hold out your purse in your hand)}
-{123}{}{Room?}
-{124}{}{No grink. Bye bye.}
-{125}{}{You want a room, huh? Well I might have some room somewhere for you. It'll cost you $50 for a
- cozy spot.}
-{126}{}{Room. (you hold out your purse in your hand)}
-{127}{}{Grink?}
-{128}{}{No room. Bye bye.}
-{129}{}{You can come in here, but your traveling freak show stays outside.}
-{130}{}{Didn't you hear me? No freaks in my saloon.}
-{131}{}{Those *things* aren't coming into my saloon. Leave them outside.}
-{132}{}{Cain't rightly say that I've heard of one of those afore. What is it?}
-{133}{}{Well it's a device used to... uh, hmm. It's just something that I'm looking for. Tell me something
- else.}
-{134}{}{Nothing important. Well, I better be on my way.}
-{135}{}{Well, mostly we mine gold ore here and trade it to other areas.}
-{136}{}{You mine gold ore here?}
-{137}{}{Where do you trade the ore?}
-{138}{}{That's interesting. Tell me something else, though.}
-{139}{}{Yup. Just in the north part of town alone there are two working gold mines.}
-{140}{}{You said that you trade the ore?}
-{141}{}{Interesting. Let me ask you about something else, though.}
-{142}{}{Well, we trade gold ore to Vault City in return for medical supplies. We trade ore to the New
- California Republic in return for fresh brahmin and other victuals, and we trade gold to New Reno for
- drugs and booze.}
-{143}{}{You mine the gold here?}
-{144}{}{Interesting. Let me ask you about something else, though.}
-{145}{}{Jist a big dog.}
-{146}{}{Oh, I see. Hmm, let me ask you about something else.}
+{121}{}{Uma bebida eh? Bem, isso custará $25 por uma boa garrafa de cerveja geladinha. Estou
+ te dando um desconto especial também, porque tenho uma queda por tontos.}
+{122}{}{Bebida? (você segura sua bolsa na mão)}
+{123}{}{Quarto?}
+{124}{}{Sem bebida. Tchau tchau.}
+{125}{}{Você quer um quarto, eh? Bem, posso ter algum canto em algum lugar para você. Vai custar $50
+ por um local aconchegante.}
+{126}{}{Quarto. (você segura sua bolsa na mão)}
+{127}{}{Bebida?}
+{128}{}{Sem quarto. Tchau tchau.}
+{129}{}{Você pode entrar, mas deixe seu circo de esquisitos para fora.}
+{130}{}{Você não me ouviu? Nada de aberrações no meu salão.}
+{131}{}{Essas *coisas* não vão entrar no meu salão. Deixe todos para fora.}
+{132}{}{Não posso dizer que já ouvi falar de tal coisa antes. O que é?}
+{133}{}{Bem, é um dispositivo usado para... uh, hmm. É somente algo que estou procurando. Me diga
+ sobre outra coisa.}
+{134}{}{Nada importante. Bem, é melhor eu ir embora.}
+{135}{}{Bem, na maioria das vezes, garimpamos ouro e o negociamos.}
+{136}{}{Você extrai minério de ouro aqui?}
+{137}{}{Onde você comercializa o minério?}
+{138}{}{Isso é interessante. Me diga outra coisa.}
+{139}{}{Sim. Apenas na parte norte da cidade existem duas minas de ouro em funcionamento.}
+{140}{}{Você disse que negocia o minério?}
+{141}{}{Interessante. Me deixe perguntar sobre outra coisa agora.}
+{142}{}{Bem, nós trocamos minério de ouro em Vault City em troca de suprimentos médicos.
+ Comercializamos minério com a República da Nova Califórnia em troca de brahmins frescos e outros
+ mantimentos, e trocamos ouro com New Reno por drogas e bebida.}
+{143}{}{Você extrai o ouro aqui?}
+{144}{}{Interessante. Me deixe perguntar sobre outra coisa agora.}
+{145}{}{É só um cachorro grande.}
+{146}{}{Oh, Entendo. Hmm, deixe eu te perguntar sobre outra coisa.}
 {147}{}{Of course. That's all I really wanted to know. Thanks. Goodbye.}
 {148}{}{San Francisco is quite a ways south of here. You're a long ways from there. South and jist a
  tich to the west. It's right next to the ocean, don'tcha know. Here, I'll mark it on your map. Don't
  know why any sane person'd want to go there for, though.}
 {149}{}{Why? Is it dangerous?}
-{150}{}{Interesting. Let me ask you about something else, though.}
+{150}{}{Interessante. Me deixe perguntar sobre outra coisa agora.}
 {151}{}{Obrigado pela informação. Adeus.}
 {152}{}{Well, I hear all kinds of things about the whole city bein' full o' nuthin' but crazy followers
  of some kind of kooky religion.}

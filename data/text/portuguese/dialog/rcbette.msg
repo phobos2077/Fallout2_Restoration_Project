@@ -1,13 +1,13 @@
-{100}{}{You see a burly female miner.}
-{101}{}{You see Blasphemous Bette, a miner for the Morningstar Mine.}
-{102}{}{You see a well-muscled woman bristling with confidence.}
-{103}{}{Caminetto, your Kokoweef miners are all show and no go.}
-{104}{}{I'll show you where to go, Blasphemous Bette.}
-{105}{}{You couldn't show me where to go with a roadmap.}
-{106}{}{Just 'cause I wouldn't wanna get that close to ya.}
-{107}{}{Don't flatter yourself, you little runt.}
-{108}{}{You'd be lucky to get a runt instead of that drilling machine you normally use.}
-{109}{}{Well, at least my drill lasts more than thirty seconds.}
+{100}{}{Você vê uma mineira corpulenta.}
+{101}{}{Você vê Bette Blasfemia, uma mineradora da Mina Morningstar.}
+{102}{}{Você vê uma mulher bem musculosa e cheia de confiança.}
+{103}{}{Caminetto, seus mineiros de Kokoweef são só aparência.}
+{104}{}{Vou te dizer onde você pode ir, Bette Blasfemia.}
+{105}{}{Você não poderia me dizer nem com um roteiro.}
+{106}{}{Só porque eu não gostaria de chegar tão perto de você.}
+{107}{}{Não se iluda, seu nanico.}
+{108}{}{Você teria sorte se conseguisse um nanico em vez daquela furadeira que normalmente você usa.}
+{109}{}{Bem, pelo menos minha furadeira dura mais de trinta segundos.}
 {110}{}{Não é de admirar que a maquinaria da Morningstar esteja sempre quebrando.}
 {111}{}{Eu vou te mostrar como se quebra, com meus punhos!}
 {112}{}{Seus punhos? Seu bafo ja é ruim o suficiente.}
@@ -55,26 +55,26 @@
 {152}{}{Bem, isso parece um problema. Tudo bem, não te culpo. Boa sorte.}
 {153}{}{O que pensa fazer sobre isso, seu bunda mole?}
 {154}{}{Eu mato a primeira pessoa que levantar a mão.}
-{155}{}{I'm just going to ask you real nice like. Then I'm going to load up my weapons and wait for some
- target practice.}
-{156}{}{The Sheriff asked me to help him out while he's laid up with a bum leg. I've got to keep my
- word to him.}
-{157}{}{Yeah? That Marion's kinda cute. Okay, for him I'll give those Kokoweef pansies a rain-check for an
- ass-kicking.}
-{158}{}{Thanks. I was hoping you'd see things that way. Goodbye.}
-{159}{}{Don't you think you're some kind of shit-hot asphalt cowboy. I don't think I like your fucking
- attitude.}
-{160}{}{You don't have to like it. You're going to walk with me to the Jail or I'm gonna drag your
- corpse there. Your choice.}
-{161}{}{Oh, I'm sorry. I certainly didn't mean to be rude. I'll be leaving now. Goodbye.}
-{162}{}{Yeah? Well, I tell you what. I'll go if you jail that asswipe Caminetto, too.}
-{163}{}{You're not in a position to make deals.}
-{164}{}{That's not a bad idea. Putting some bars between the two of you should cool things off a bit.
- Come along, you two.}
-{165}{}{Are you suffering from a cranial-rectal inversion? If you try anything we'll all jump you just
- for a warmup. Then there's gonna be blood. Think the Sheriff'll like the job you're doin' then?}
-{166}{}{No, I guess he wouldn't.}
-{167}{}{Doesn't matter to me. It won't be *my* blood that's spilled.}
+{155}{}{Vou te pedir muito gentilmente. Depois, carregarei minhas armas e esperarei uma chance de praticar
+ tiro ao alvo.}
+{156}{}{O xerife me pediu para ajudá-lo enquanto ele está com uma perna machucada. Eu tenho que
+ manter minha palavra.}
+{157}{}{Sim? Essa Marion é uma gracinha. Ok, por ele eu vou dar aqueles viadinhos de Kokoweef um cheque
+ de adiantamento para um chute no traseiro.}
+{158}{}{Obrigado. Eu esperava que você entendesse as coisas assim. Adeus.}
+{159}{}{Você acha que é algum tipo de cowboy do asfalto? E essa porra de atitude sua não me agrada
+ em nada.}
+{160}{}{Você não precisa gostar. Você vem comigo até a cadeia ou eu arrasto seu cadáver até lá.
+ Pode escolher.}
+{161}{}{Oh, me desculpe, nunca quis ser grosseiro. Estou indo embora agora. Adeus.}
+{162}{}{Ah eh? Bem, vou te dizer uma coisa. Eu irei se você prender aquele idiota do Caminetto também.}
+{163}{}{Você não está em posição de fazer negócios.}
+{164}{}{Isso não é uma má ideia. Colocar algumas barreiras entre vocês dois deve aliviar um pouco
+ as coisas. Venham, vocês dois.}
+{165}{}{Você está sofrendo de alguma inversão crânio-retal? Se você tentar fazer algo, todos nós
+ pularíamos em você só como aquecimento. E teremos sangue. Acha que o xerife vai gostar do trabalho que você está fazendo?}
+{166}{}{Não, acho que não.}
+{167}{}{Tanto faz. Não será *meu* sangue que vai ser derramado.}
 {168}{}{Well, maybe I could use a fucking rest. I've been working my goddamn ass off lately. (to the
  others) Break it up, gang. I'll be back at work tomorrow.}
 {169}{}{Good choice.}
