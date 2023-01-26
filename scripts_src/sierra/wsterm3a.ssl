@@ -122,7 +122,7 @@ procedure Node010 begin
    Reply(mstr(119)+mstr(120));
 
    NOption(121,Node011,004);
-   NOption( mstr(122) + dude_name + '.',Node012,004);
+   NOption(mstr(122) + dude_name + ".", Node012, 004);
    NOption(123,Node013,004);
    NOption(124,Node999,004);
 end
