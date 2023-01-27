@@ -1,5 +1,5 @@
-{100}{}{Yet another guard. Somebody must breed them, since they all look alike.}
-{101}{}{Still a guard. Probably doesn't like you.}
+{100}{}{Só outro guarda. Alguém deve estar clonando, todos parecem iguais.}
+{101}{}{Só mais outro guarda. Provavelmente não gosta de você.}
 {102}{}{You look at him closely and you're convinced he's a guard.}
 {103}{}{You're not authorized to be here.}
 {104}{}{Can I see your pass?}

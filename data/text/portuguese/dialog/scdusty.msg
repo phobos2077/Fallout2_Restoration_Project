@@ -27,6 +27,6 @@
 {126}{}{Com certeza.}
 {127}{}{Não.}
 {128}{}{Deixe eu te pagar uma bebida! Eu tenho vontade de bater nele por anos!}
-{129}{}{I've got some questions.}
+{129}{}{Eu tenho algumas perguntas.}
 {130}{}{Bom! Adeus.}
 {131}{}{Rapaz, você com certeza deu uma surra da boa no Hoss! O que posso pegar para você?}

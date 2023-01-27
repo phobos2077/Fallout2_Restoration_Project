@@ -59,7 +59,7 @@
 {158}{}{Você sabe onde é o Vault 13?}
 {159}{}{I'm looking for a GECK. Would you happen to have one?}
 {160}{}{What can you tell me about New Reno?}
-{161}{}{What can you tell me about Roger Westin?}
+{161}{}{O que você pode me dizer sobre Roger Westin?}
 {162}{}{What you can tell me about Carlson?}
 {163}{}{The Elder tells a story about the Vault Dweller and someone named Tandi. Are you that Tandi?}
 {164}{}{Is this the Shadeesands the Elder speaks of?}

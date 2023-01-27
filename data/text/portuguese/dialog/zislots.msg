@@ -149,6 +149,6 @@
 {3002}{}{! Daddy needs a new plasma rifle!}
 {4000}{}{There seems to be someone blocking the machine.}
 {5000}{}{Jinx the machine into giving you all its money.}
-{5001}{}{The machine appears to freeze and then you hear a faint rumble as an avalanche of coins begin to fall from the
- dispenser.}
-{5002}{}{[Collect money and walk away.]}
+{5001}{}{A máquina parece congelar e então você ouve um leve estrondo quando uma avalanche de moedas começa a cair
+ do dispensador.}
+{5002}{}{[Recolhe o dinheiro e vá embora.]}

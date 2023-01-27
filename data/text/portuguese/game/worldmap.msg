@@ -28,12 +28,12 @@
 {253}{}{Túneis de acesso}
 {260}{}{Centro da Cidade}
 {261}{}{Zona residencial}
-{270}{}{Virgin Street}
-{271}{}{2nd Street}
-{272}{}{Commercial Row}
+{270}{}{Rua Virgem}
+{271}{}{Segunda Rua}
+{272}{}{Linha Comercial}
 {273}{}{Zona Leste}
 {274}{}{Chop Shop}
-{275}{}{Boxing Arena}
+{275}{}{Arena de Boxe}
 {276}{}{Area de Vertibird}
 {280}{}{Campo de batalha}
 {281}{}{Depósito Nível 1: Pessoal}
@@ -41,23 +41,23 @@
 {283}{}{Depósito Nível 1: Laboratorio de Robotica}
 {284}{}{Depósito Nível 4: Laboratorio de Pesquisas Biologicas}
 {290}{}{Dependencias}
-{291}{}{Squatters}
-{292}{}{Squatters}
+{291}{}{Invasores}
+{292}{}{Invasores}
 {293}{}{Vault 15}
-{294}{}{East Entrance}
-{300}{}{Bazaar}
+{294}{}{Entrada leste}
+{300}{}{Bazar}
 {301}{}{Conselho 2}
 {302}{}{Centro da Cidade}
-{303}{}{Council Hall}
-{304}{}{Westin Ranch}
-{305}{}{Grazing Lands}
+{303}{}{Salão do Conselho}
+{304}{}{Rancho Westin}
+{305}{}{Pastagens}
 {310}{}{Entrada da caverna}
 {311}{}{Vault 13}
 {320}{}{Entrada}
-{321}{}{Level 1}
-{322}{}{Level 2}
-{323}{}{Level 3}
-{324}{}{Level 4}
+{321}{}{Nivel 1}
+{322}{}{Nivel 2}
+{323}{}{Nivel 3}
+{324}{}{Nivel 4}
 {330}{}{Centro da Cidade}
 {331}{}{Grande Mina Wanamingo}
 {332}{}{Mina Wanamingo}
@@ -95,8 +95,8 @@
 {402}{}{Lago subterraneo}
 {410}{}{Car outta power}
 {420}{}{Ponte destruída}
-{430}{}{Toxic Caves}
-{440}{}{Den Slave Run}
+{430}{}{Cavernas Tóxicas}
+{440}{}{A Invasão de Escravos de Den}
 {450}{}{Poço}
 {451}{}{Cliff}
 {452}{}{Entry Cave}
@@ -138,9 +138,9 @@
 {497}{}{Litoral}
 {498}{}{Litoral}
 {499}{}{Litoral}
-{500}{}{Golgotha}
+{500}{}{Golgota}
 {510}{}{Smashed Whale Guts}
-{520}{}{Tin Woodsman}
+{520}{}{Homem de Lata}
 {521}{}{Cabeça Grande}
 {530}{}{Crash Site}
 {540}{}{Deserto}
@@ -167,9 +167,9 @@
 {668}{}{Deserto}
 {670}{}{Stables}
 {680}{}{Vila}
-{690}{}{Umbra Tribe}
-{700}{}{Umbra Tribe}
-{710}{}{Umbra Tribe}
+{690}{}{Tribo Umbra}
+{700}{}{Tribo Umbra}
+{710}{}{Tribo Umbra}
 {1000}{}{Deserto}
 {1001}{}{Montanhas}
 {1002}{}{Cidade}

@@ -351,14 +351,14 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {400}{lyn054b}{Of course. What can I help you with, Captain?}
 {401}{}{What can you tell me about these Raider attacks on our city?}
 {402}{}{I ran into this Citizen downtown, Thomas Moore. Who is he?}
-{403}{}{Do you have a GECK?}
+{403}{}{Você tem um GECK?}
 {404}{}{I'm looking for Vault 13.}
 {405}{}{This is Vault City? Why don't you live in a vault?}
 {406}{}{Why is it you condone slavery?}
 {407}{}{Nada por hoje, valeu.}
 {408}{lyn055}{For a non-Citizen, you certainly demand a great deal of my time.}
 {409}{}{But I AM a Citizen.}
-{410}{}{Do you have a GECK?}
+{410}{}{Você tem um GECK?}
 {411}{}{I'm looking for Vault 13.}
 {412}{}{What do I need to do to become a Citizen?}
 {413}{}{This is Vault City? Why don't you live in a vault?}

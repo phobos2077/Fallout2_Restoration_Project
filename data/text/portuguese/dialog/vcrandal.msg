@@ -60,7 +60,7 @@
 {159}{}{Nothing today, actually.}
 {160}{}{This is the Amenities Office. Got your typical stock... basic living necessities, some books, "how to" manuals, some tools, stimpacks, medical supplies, this and that.}
 {161}{}{Sounds great. Can I see what you have in stock?}
-{162}{}{Do you have a GECK?}
+{162}{}{Você tem um GECK?}
 {163}{}{Valerie over at the maintenance shed could use a new wrench and some pliers.}
 {164}{}{Councilor McClure said you'd have a... uh, hydro-magneto-thingie that I could have for the Gecko power plant.}
 {165}{}{Councilor McClure said you'd have a hydroelectric magnetosphere regulator in stock that I could have.}

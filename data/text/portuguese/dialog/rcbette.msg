@@ -86,10 +86,10 @@
 {174}{}{Hmm, acho que precisam de mim em outro lugar agora. Agora mesmo. Adeus.}
 {175}{}{Acho que você é mais inteligente do que parece. Agora, aproveite que esta ai de pé com cara de
  tonto, corra para a casa da mamãe e diga que você não teve coragem de fazer nada.}
-{176}{}{That's it. I've had enough of your mouth. One last chance: Go quietly or I'll tear you apart.}
-{177}{}{Maybe I'll do that. I sure don't want to hurt anyone. Goodbye.}
-{178}{}{I see how this is going, you little piece of shit. OK, you can take me in, and Caminetto too.
- (to Caminetto) Right, my little fuckface?}
+{176}{}{É isso, já cansei dessa conversa. Última chance: vá embora quietinho ou eu vou acabar com você.}
+{177}{}{Talvez eu faça isso. Tenho certeza que não quero machucar ninguém. Adeus.}
+{178}{}{Eu vejo como isso vai indo, seu pedação de merda. OK, você pode me levar, e Caminetto
+ também. (para Caminetto) Certo, meu pequeno filho da puta?}
 {179}{}{Assim que se fala.}
-{180}{}{Nope. Too late now. I'm gonna have to open up a can of whoop-ass on you two. }
-{181}{}{I guess I'll just kick Caminetto's ass another day.}
+{180}{}{Não, é tarde demais agora. Vou ter que acabar com vocês dois. }
+{181}{}{Acho que vou chutar a bunda de Caminetto outro dia.}
