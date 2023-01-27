@@ -74,7 +74,7 @@
 {167}{}{Tanto faz. Não será *meu* sangue que vai ser derramado.}
 {168}{}{I guess you got me there. Okay, I'll come quietly. (to the others) Go on back to the mine, lads.
  I'll see you tomorrow.}
-{169}{}{Good choice.}
+{169}{}{Boa escolha.}
 {170}{}{Don't worry, I'm bringing Bette along to keep you company. Right, Bette?}
 {171}{}{I don't think it's going down like that. I think you just put yourself in the middle and now
  we're going to both take you apart.}

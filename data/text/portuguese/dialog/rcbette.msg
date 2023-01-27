@@ -75,17 +75,17 @@
  pularíamos em você só como aquecimento. E teremos sangue. Acha que o xerife vai gostar do trabalho que você está fazendo?}
 {166}{}{Não, acho que não.}
 {167}{}{Tanto faz. Não será *meu* sangue que vai ser derramado.}
-{168}{}{Well, maybe I could use a fucking rest. I've been working my goddamn ass off lately. (to the
- others) Break it up, gang. I'll be back at work tomorrow.}
-{169}{}{Good choice.}
-{170}{}{Don't worry; I'm bringing Caminetto along to keep you company. Right, Caminetto?}
-{171}{}{You just don't fucking get it, do you? You try to mix it up with us and both me and that
- weasel-dick Caminetto are gonna lay into you.}
-{172}{}{Then I'll just have to jail both you and Caminetto.}
-{173}{}{Then I'll just have to kill both you and Caminetto.}
-{174}{}{Hmm, I think I'm needed in another part of town. Right away. Goodbye.}
-{175}{}{I guess you're brighter than you look. But then you must be; you're standing erect. Just run on
- home to mommy and say there wasn't anything you had enough guts to do.}
+{168}{}{Bem, talvez eu precise só de um descanso. Eu to trabalhando pra caramba ultimamente.
+ (para os outros) Vamos acabar com isso, galera. Voltarei ao trabalho amanhã.}
+{169}{}{Boa escolha.}
+{170}{}{Não se preocupe; trarei Caminetto para te fazer companhia. Certo, Caminetto?}
+{171}{}{Você não entende nada, não é? Nem tente se encrespar com nós, se não eu e aquele
+ idiota do Caminetto vamos partir pra cima.}
+{172}{}{Então terei que prender você e Caminetto.}
+{173}{}{Então terei que matar você e Caminetto.}
+{174}{}{Hmm, acho que precisam de mim em outro lugar agora. Agora mesmo. Adeus.}
+{175}{}{Acho que você é mais inteligente do que parece. Agora, aproveite que esta ai de pé com cara de
+ tonto, corra para a casa da mamãe e diga que você não teve coragem de fazer nada.}
 {176}{}{That's it. I've had enough of your mouth. One last chance: Go quietly or I'll tear you apart.}
 {177}{}{Maybe I'll do that. I sure don't want to hurt anyone. Goodbye.}
 {178}{}{I see how this is going, you little piece of shit. OK, you can take me in, and Caminetto too.
