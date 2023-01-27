@@ -772,27 +772,27 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {771}{lyn133}{In addition, report to Randal, the Chief Amenities Officer. Tell him I sent you, and
  receive your reward. We are in your debt... Captain.}
 {772}{}{Before I go, I had some other questions...}
-{773}{}{All right. Reward, here I come!}
+{773}{}{Tudo bem. Recompensa, aí vou eu!}
 {774}{}{Thank you, First Citizen. Good day.}
-{775}{lyn134}{You lost it?! That correspondence was extremely important! Very well... here's your
- payment for delivery of the disk. Now, if you'll excuse me... }
-{776}{}{Hold on a minute. Before I go, I had some other questions...}
-{777}{}{See you later.}
+{775}{lyn134}{Você perdeu?! Essa correspondência era extremamente importante! Muito bem...
+ aqui está o seu pagamento pela entrega do disco. Agora, se me der licença... }
+{776}{}{Espere um minuto. Antes de ir, tenho outras perguntas...}
+{777}{}{Até logo.}
 {778}{}{Good day, First Citizen.}
-{779}{lyn135}{He didn't give you anything? Strange... in any event, here's your payment for delivering
- the disk. Now, if you'll excuse me...}
-{780}{}{Hold on a minute. Before I go, I had some other questions...}
-{781}{}{See you later.}
+{779}{lyn135}{Ele não te deu nada? Estranho... de qualquer forma, aqui está o seu pagamento pela
+ entrega do disco. Agora, se me der licença...}
+{780}{}{Espere um minuto. Antes de ir, tenho outras perguntas...}
+{781}{}{Até logo.}
 {782}{}{Good day, First Citizen.}
-{783}{lyn136}{What is it?}
-{784}{}{I found this holodisc in Bishop's safe. HE was hired by NCR to get Vault City to join the
- Republic. When you refused his initial offer, he hired the mercenaries to attack you so you would ask
- NCR for help.}
+{783}{lyn136}{O que é isso?}
+{784}{}{Encontrei este holodisco no cofre de Bishop. ELE foi contratado pela NCR para fazer
+ com que Vault City se juntasse à República. Quando você recusou sua oferta inicial, ele contratou os
+ mercenários para atacá-lo para que você pedisse ajuda ao NCR.}
 {785}{lyn099}{What do you mean?}
 {786}{}{Moore's actually working for the New California Republic.}
-{787}{lyn138}{A spy for NCR? That... that... would explain a great many things. Thank you for exposing
- this, Citizen. THAT problem I can take care of immediately.}
-{788}{}{About the NCR problem... is there anything I could do to help?}
+{787}{lyn138}{Um espião da NCR? Isso... isso... explicaria muitas coisas. Obrigado por expor isso, Cidadão.
+ ESSE problema eu posso resolver imediatamente.}
+{788}{}{Sobre o problema da NCR... há algo que eu possa fazer para ajudar?}
 {789}{}{That's good to hear. Anyway, for finding out all that stuff about Reno and NCR, I was wondering if there was a rew -- }
 {790}{}{Guardas!}
 {791}{}{Please go see the Proconsul. He will have what you need.}
