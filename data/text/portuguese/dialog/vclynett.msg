@@ -801,63 +801,63 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {794}{}{Norte}
 {795}{}{Sul}
 {796}{}{Leste}
-{797}{}{West}
-{798}{}{Northwest}
-{799}{}{Northeast}
-{800}{}{Southwest}
-{801}{}{Southeast}
+{797}{}{Oeste}
+{798}{}{Noroeste}
+{799}{}{Nordeste}
+{800}{}{Sudoeste}
+{801}{}{Sudeste}
 {802}{}{Ao Norte}
 {803}{}{Ao Sul}
-{804}{}{To the East}
+{804}{}{Para o Leste}
 {805}{}{Ao Oeste}
 {806}{}{Ao Noroeste}
 {807}{}{Ao Nordeste}
 {808}{}{Ao Sudoeste}
 {809}{}{Ao Sudeste}
-{810}{}{I don't want that.}
+{810}{}{Eu não quero isso.}
 {811}{}{Obrigado.}
-{812}{}{Thanks for your time.}
+{812}{}{Obrigado pelo seu tempo.}
 {813}{}{Guardas!}
-{814}{}{I love Scott Rodenhiser.}
-{815}{}{My little dreadlocks are cute.}
-{816}{}{T-Ray thinks a little too highly of himself.}
-{817}{}{This is good news.}
+{814}{}{Eu amo Scott Rodenhiser.}
+{815}{}{Meus dreadlocks são fofos.}
+{816}{}{T-Ray tem muita alto estima.}
+{817}{}{Esta é uma boa notícia.}
 {818}{}{Muito bem.}
 {819}{}{Bom dia.}
 {820}{}{Bom dia, Citizen.}
-{821}{}{I'll take that.}
-{822}{}{Give me that.}
+{821}{}{Eu vou levar isso.}
+{822}{}{Me dê isso.}
 {823}{}{Eu não sei nada sobre isso.}
 {824}{}{Eu não sei.}
 {825}{}{Sim.}
 {826}{}{Não.}
-{827}{}{Certainly.}
+{827}{}{Certamente.}
 {828}{}{Claro.}
-{829}{}{Correct.}
-{830}{}{Exactly.}
+{829}{}{Correto.}
+{830}{}{Exato.}
 {831}{}{Certo.}
 {832}{}{Hmpphhh.}
-{833}{}{Explain to me again why Fallout 2 doesn't have any black hero models?}
-{834}{}{Vault City prevails. }
+{833}{}{Me fale de novo, por que Fallout 2 não tem nenhum modelo de herói negro?}
+{834}{}{Vault City prevalece. }
 {835}{}{Vault City prevails, Citizen.}
-{836}{}{Oh, boy! Sleep! That's where I'm a Viking!}
-{837}{}{Degenerate!}
-{838}{}{Outsider}
-{839}{}{Outsider filth...}
-{840}{}{*Snorts*}
+{836}{}{Oh, garoto! Dorme! É aí que eu sou um viking!}
+{837}{}{Degenerado!}
+{838}{}{Forasteiro}
+{839}{}{Estrangeiro sujo...}
+{840}{}{*Ronca*}
 {841}{}{*Zzzzzzzzzzz*}
-{842}{}{What is contained on the disk should put a stop to them; the raiders have been exposed, and if
- the contents of the disk were to get out to NCR's outer districts they would never be trusted again.}
-{843}{}{My sources at Gecko assure me that there are still ghouls within the city. Your Citizenship
- depends on resolving this situation... completely. Am I making myself clear?}
-{844}{}{Sorry, thought I'd killed them all.}
-{845}{}{That's a good start, but our ground water is still being contaminated. You need to disable
- their plant.}
-{846}{}{That does help, but that doesn't stop our primary problem: the contamination of the groundwater.
- You need to stop the plant from leaking radiation.}
-{847}{}{The Elder of my village gave me a water flask, but I don't have it with me. Still, the stories
- the Elder told us said that my ancestor was from a Vault.}
-{848}{}{You mean the ghouls? Yeah, I found out what's wrong with their plant.}
+{842}{}{O que está contido no disco deve acabar com eles; os invasores foram expostos e, se o conteúdo
+ do disco fosse para os distritos externos da NCR, eles nunca seriam confiáveis novamente.}
+{843}{}{Minhas fontes em Gecko me garantem que ainda existem ghouls na cidade. A sua Cidadania
+ depende de resolver esta situação... completamente. Estou sendo claro?}
+{844}{}{Desculpe, pensei que tinha matado todos eles.}
+{845}{}{É um bom começo, mas nossa água subterrânea ainda está sendo contaminada. Você
+ precisa desativar a central deles.}
+{846}{}{Isso ajuda, mas não elimina nosso problema principal: a contaminação das águas subterrâneas.
+ Você precisa impedir que a usina vaze radiação.}
+{847}{}{A Anciã da minha aldeia me deu um cantil de água, mas não tenho aqui comigo. Ainda assim,
+ as histórias que a Anciã nos contou diziam que meu ancestral era de ums Vault.}
+{848}{}{Você quer dizer dos ghouls? Sim, descobri o que há de errado com a central deles.}
 {849}{}{The plant needs a hydro-magnet, uh, thingie to make it work. The ghouls
  said you had one here, so I just need that, and they can make the plant clean.}
 {850}{}{They need a hydroelectric magnetosphere regulator to fix the plant and
