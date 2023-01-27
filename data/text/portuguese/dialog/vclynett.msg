@@ -793,14 +793,14 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {787}{lyn138}{Um espião da NCR? Isso... isso... explicaria muitas coisas. Obrigado por expor isso, Cidadão.
  ESSE problema eu posso resolver imediatamente.}
 {788}{}{Sobre o problema da NCR... há algo que eu possa fazer para ajudar?}
-{789}{}{That's good to hear. Anyway, for finding out all that stuff about Reno and NCR, I was wondering if there was a rew -- }
+{789}{}{Isso é bom de ouvir. De qualquer forma, para descobrir todas essas coisas sobre Reno e NCR, Eu queria saber se haveria uma recomp -- }
 {790}{}{Guardas!}
-{791}{}{Please go see the Proconsul. He will have what you need.}
-{792}{}{Please go see Senior Councilman McClure. He will have what you need.}
-{793}{}{Please go see my assistant. He will have what you need.}
-{794}{}{North}
-{795}{}{South}
-{796}{}{East}
+{791}{}{Por favor, procure o Procônsul. Ele terá o que você precisa.}
+{792}{}{Por favor, vá ver o conselheiro sênior McClure. Ele terá o que você precisa.}
+{793}{}{Por favor, vá ver meu assistente. Ele terá o que você precisa.}
+{794}{}{Norte}
+{795}{}{Sul}
+{796}{}{Leste}
 {797}{}{West}
 {798}{}{Northwest}
 {799}{}{Northeast}
