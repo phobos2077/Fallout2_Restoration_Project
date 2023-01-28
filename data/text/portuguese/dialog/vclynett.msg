@@ -351,14 +351,14 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {400}{lyn054b}{Of course. What can I help you with, Captain?}
 {401}{}{What can you tell me about these Raider attacks on our city?}
 {402}{}{I ran into this Citizen downtown, Thomas Moore. Who is he?}
-{403}{}{Do you have a GECK?}
+{403}{}{Você tem um GECK?}
 {404}{}{I'm looking for Vault 13.}
 {405}{}{This is Vault City? Why don't you live in a vault?}
 {406}{}{Why is it you condone slavery?}
 {407}{}{Nada por hoje, valeu.}
 {408}{lyn055}{For a non-Citizen, you certainly demand a great deal of my time.}
 {409}{}{But I AM a Citizen.}
-{410}{}{Do you have a GECK?}
+{410}{}{Você tem um GECK?}
 {411}{}{I'm looking for Vault 13.}
 {412}{}{What do I need to do to become a Citizen?}
 {413}{}{This is Vault City? Why don't you live in a vault?}
@@ -772,92 +772,92 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {771}{lyn133}{In addition, report to Randal, the Chief Amenities Officer. Tell him I sent you, and
  receive your reward. We are in your debt... Captain.}
 {772}{}{Before I go, I had some other questions...}
-{773}{}{All right. Reward, here I come!}
+{773}{}{Tudo bem. Recompensa, aí vou eu!}
 {774}{}{Thank you, First Citizen. Good day.}
-{775}{lyn134}{You lost it?! That correspondence was extremely important! Very well... here's your
- payment for delivery of the disk. Now, if you'll excuse me... }
-{776}{}{Hold on a minute. Before I go, I had some other questions...}
-{777}{}{See you later.}
+{775}{lyn134}{Você perdeu?! Essa correspondência era extremamente importante! Muito bem...
+ aqui está o seu pagamento pela entrega do disco. Agora, se me der licença... }
+{776}{}{Espere um minuto. Antes de ir, tenho outras perguntas...}
+{777}{}{Até logo.}
 {778}{}{Good day, First Citizen.}
-{779}{lyn135}{He didn't give you anything? Strange... in any event, here's your payment for delivering
- the disk. Now, if you'll excuse me...}
-{780}{}{Hold on a minute. Before I go, I had some other questions...}
-{781}{}{See you later.}
+{779}{lyn135}{Ele não te deu nada? Estranho... de qualquer forma, aqui está o seu pagamento pela
+ entrega do disco. Agora, se me der licença...}
+{780}{}{Espere um minuto. Antes de ir, tenho outras perguntas...}
+{781}{}{Até logo.}
 {782}{}{Good day, First Citizen.}
-{783}{lyn136}{What is it?}
-{784}{}{I found this holodisc in Bishop's safe. HE was hired by NCR to get Vault City to join the
- Republic. When you refused his initial offer, he hired the mercenaries to attack you so you would ask
- NCR for help.}
+{783}{lyn136}{O que é isso?}
+{784}{}{Encontrei este holodisco no cofre de Bishop. ELE foi contratado pela NCR para fazer
+ com que Vault City se juntasse à República. Quando você recusou sua oferta inicial, ele contratou os
+ mercenários para atacá-lo para que você pedisse ajuda ao NCR.}
 {785}{lyn099}{What do you mean?}
 {786}{}{Moore's actually working for the New California Republic.}
-{787}{lyn138}{A spy for NCR? That... that... would explain a great many things. Thank you for exposing
- this, Citizen. THAT problem I can take care of immediately.}
-{788}{}{About the NCR problem... is there anything I could do to help?}
-{789}{}{That's good to hear. Anyway, for finding out all that stuff about Reno and NCR, I was wondering if there was a rew -- }
+{787}{lyn138}{Um espião da NCR? Isso... isso... explicaria muitas coisas. Obrigado por expor isso, Cidadão.
+ ESSE problema eu posso resolver imediatamente.}
+{788}{}{Sobre o problema da NCR... há algo que eu possa fazer para ajudar?}
+{789}{}{Isso é bom de ouvir. De qualquer forma, para descobrir todas essas coisas sobre Reno e NCR, Eu queria saber se haveria uma recomp -- }
 {790}{}{Guardas!}
-{791}{}{Please go see the Proconsul. He will have what you need.}
-{792}{}{Please go see Senior Councilman McClure. He will have what you need.}
-{793}{}{Please go see my assistant. He will have what you need.}
-{794}{}{North}
-{795}{}{South}
-{796}{}{East}
-{797}{}{West}
-{798}{}{Northwest}
-{799}{}{Northeast}
-{800}{}{Southwest}
-{801}{}{Southeast}
+{791}{}{Por favor, procure o Procônsul. Ele terá o que você precisa.}
+{792}{}{Por favor, vá ver o conselheiro sênior McClure. Ele terá o que você precisa.}
+{793}{}{Por favor, vá ver meu assistente. Ele terá o que você precisa.}
+{794}{}{Norte}
+{795}{}{Sul}
+{796}{}{Leste}
+{797}{}{Oeste}
+{798}{}{Noroeste}
+{799}{}{Nordeste}
+{800}{}{Sudoeste}
+{801}{}{Sudeste}
 {802}{}{Ao Norte}
 {803}{}{Ao Sul}
-{804}{}{To the East}
+{804}{}{Para o Leste}
 {805}{}{Ao Oeste}
 {806}{}{Ao Noroeste}
 {807}{}{Ao Nordeste}
 {808}{}{Ao Sudoeste}
 {809}{}{Ao Sudeste}
-{810}{}{I don't want that.}
+{810}{}{Eu não quero isso.}
 {811}{}{Obrigado.}
-{812}{}{Thanks for your time.}
+{812}{}{Obrigado pelo seu tempo.}
 {813}{}{Guardas!}
-{814}{}{I love Scott Rodenhiser.}
-{815}{}{My little dreadlocks are cute.}
-{816}{}{T-Ray thinks a little too highly of himself.}
-{817}{}{This is good news.}
+{814}{}{Eu amo Scott Rodenhiser.}
+{815}{}{Meus dreadlocks são fofos.}
+{816}{}{T-Ray tem muita alto estima.}
+{817}{}{Esta é uma boa notícia.}
 {818}{}{Muito bem.}
 {819}{}{Bom dia.}
 {820}{}{Bom dia, Citizen.}
-{821}{}{I'll take that.}
-{822}{}{Give me that.}
+{821}{}{Eu vou levar isso.}
+{822}{}{Me dê isso.}
 {823}{}{Eu não sei nada sobre isso.}
 {824}{}{Eu não sei.}
 {825}{}{Sim.}
 {826}{}{Não.}
-{827}{}{Certainly.}
+{827}{}{Certamente.}
 {828}{}{Claro.}
-{829}{}{Correct.}
-{830}{}{Exactly.}
+{829}{}{Correto.}
+{830}{}{Exato.}
 {831}{}{Certo.}
 {832}{}{Hmpphhh.}
-{833}{}{Explain to me again why Fallout 2 doesn't have any black hero models?}
-{834}{}{Vault City prevails. }
+{833}{}{Me fale de novo, por que Fallout 2 não tem nenhum modelo de herói negro?}
+{834}{}{Vault City prevalece. }
 {835}{}{Vault City prevails, Citizen.}
-{836}{}{Oh, boy! Sleep! That's where I'm a Viking!}
-{837}{}{Degenerate!}
-{838}{}{Outsider}
-{839}{}{Outsider filth...}
-{840}{}{*Snorts*}
+{836}{}{Oh, garoto! Dorme! É aí que eu sou um viking!}
+{837}{}{Degenerado!}
+{838}{}{Forasteiro}
+{839}{}{Estrangeiro sujo...}
+{840}{}{*Ronca*}
 {841}{}{*Zzzzzzzzzzz*}
-{842}{}{What is contained on the disk should put a stop to them; the raiders have been exposed, and if
- the contents of the disk were to get out to NCR's outer districts they would never be trusted again.}
-{843}{}{My sources at Gecko assure me that there are still ghouls within the city. Your Citizenship
- depends on resolving this situation... completely. Am I making myself clear?}
-{844}{}{Sorry, thought I'd killed them all.}
-{845}{}{That's a good start, but our ground water is still being contaminated. You need to disable
- their plant.}
-{846}{}{That does help, but that doesn't stop our primary problem: the contamination of the groundwater.
- You need to stop the plant from leaking radiation.}
-{847}{}{The Elder of my village gave me a water flask, but I don't have it with me. Still, the stories
- the Elder told us said that my ancestor was from a Vault.}
-{848}{}{You mean the ghouls? Yeah, I found out what's wrong with their plant.}
+{842}{}{O que está contido no disco deve acabar com eles; os invasores foram expostos e, se o conteúdo
+ do disco fosse para os distritos externos da NCR, eles nunca seriam confiáveis novamente.}
+{843}{}{Minhas fontes em Gecko me garantem que ainda existem ghouls na cidade. A sua Cidadania
+ depende de resolver esta situação... completamente. Estou sendo claro?}
+{844}{}{Desculpe, pensei que tinha matado todos eles.}
+{845}{}{É um bom começo, mas nossa água subterrânea ainda está sendo contaminada. Você
+ precisa desativar a central deles.}
+{846}{}{Isso ajuda, mas não elimina nosso problema principal: a contaminação das águas subterrâneas.
+ Você precisa impedir que a usina vaze radiação.}
+{847}{}{A Anciã da minha aldeia me deu um cantil de água, mas não tenho aqui comigo. Ainda assim,
+ as histórias que a Anciã nos contou diziam que meu ancestral era de ums Vault.}
+{848}{}{Você quer dizer dos ghouls? Sim, descobri o que há de errado com a central deles.}
 {849}{}{The plant needs a hydro-magnet, uh, thingie to make it work. The ghouls
  said you had one here, so I just need that, and they can make the plant clean.}
 {850}{}{They need a hydroelectric magnetosphere regulator to fix the plant and

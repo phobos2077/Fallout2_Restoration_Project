@@ -7,7 +7,7 @@
 {106}{}{Well, spit it out.}
 {107}{}{Urrrgh.}
 {108}{}{I'm looking for Vault 13. Do you know where it is?}
-{109}{}{Do you have a GECK?}
+{109}{}{Você tem um GECK?}
 {110}{}{I'm looking for some honest work. Can you help me?}
 {111}{}{Oh, fine. Everything's been just peachy.}
 {112}{}{Primitive, eh? You. Questions? Ask me. Okay?}

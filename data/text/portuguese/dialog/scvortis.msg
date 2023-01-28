@@ -17,7 +17,7 @@
 {116}{}{Fuck this.}
 {117}{}{Bem?}
 {118}{}{I'm looking for Vault 13.}
-{119}{}{Do you have a GECK?}
+{119}{}{Você tem um GECK?}
 {120}{}{O que você pode me dizer sobre essa cidade?}
 {121}{}{You're slaver scum! Why shouldn't I kill you?}
 {122}{}{I heard there's these guys - New California Rangers. They been giving you any trouble?}
