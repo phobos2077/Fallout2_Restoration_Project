@@ -5,7 +5,8 @@
 {202}{}{Vamos a comerciar.}
 {203}{}{He oído que eres el hombre con quien hablar de las caravanas.}
 {204}{}{No importa. Adiós.}
-{210}{}{Digamos, que he notado que se han acumulado muchos equipos y objetos viejos aquí en la Abadía. ¿Supongo que no has encontrado nada ... especial, durante tu tiempo aquí?}
+{210}{}{Digamos, que he notado que se han acumulado muchos equipos y objetos viejos aquí en la Abadía.
+¿Supongo que no has encontrado nada ... especial, durante tu tiempo aquí?}
 {211}{}{Heh, entonces lo notaste, ¿eh? Sí, la gente de Abbey tiene un poco de fascinación con cualquier cosa antes de la guerra,
   especialmente si está relacionado con la tecnología. Han formado una especie de religión extravagante a su alrededor. No lo entiendo del todo,
   yo mismo, pero son buenas personas y pagan un buen dinero por cualquier cosa antes de la guerra que logré tener en mis manos. Pero de todos modos,
