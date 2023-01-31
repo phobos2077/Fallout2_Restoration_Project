@@ -1,6 +1,8 @@
 {100}{}{Ves una puerta de madera.}
 {101}{}{Ves una puerta metálica.}
-{102}{}{Ves una robusta puerta con una cerradura, que puede ser abierta con una ganzúa, y una trampa explosiva en el marco, que podrías ser capaz de forzar.}
+{102}{}{Ves una robusta puerta con una cerradura, que puede ser abierta con
+una ganzúa, y una trampa explosiva en el marco, que podrías
+ser capaz de forzar.}
 {103}{}{Ves una puerta robusta, con una cerradura y una trampa
  altamente explosiva en el marco, la cual puedes ser capaz de
  forzar.}
@@ -10,14 +12,18 @@
 {105}{}{Ves una puerta robusta, con una vieja y oxidada cerradura y una
  trampa altamente explosiva en el marco, la cual puedes ser capaz
  de forzar.}
-{106}{}{Ves una robusta puerta con una cerradura (que puede ser abierta con una ganzúa) y una trampa en el marco, que podrías ser capaz de forzar.}
+{106}{}{Ves una robusta puerta con una cerradura (que puede ser abierta
+con una ganzúa) y una trampa en el marco, que podrías ser capaz
+de forzar.}
 {107}{}{Ves una puerta robusta, con una cerradura y una trampa en
  el marco, la cual puedes ser capaz de forzar.}
 {108}{}{Ves una puerta robusta, aparentemente sin cerradura y
  con una trampa en el marco, la cual puedes ser capaz de forzar.}
 {109}{}{Ves una puerta robusta, con una vieja y oxidada cerradura y una
  trampa en el marco, la cual puedes ser capaz de forzar.}
-{110}{}{Ves una robusta puerta con una cerradura, que puede ser abierta con una ganzúa, y un cable cortado en el marco, que podrías ser capaz de forzar.}
+{110}{}{Ves una robusta puerta con una cerradura, que puede ser abierta con
+una ganzúa, y un cable cortado en el marco, que podrías ser capaz
+de forzar.}
 {111}{}{Ves una puerta robusta, con una cerradura y un cable roto
  en el marco, la cual puedes ser capaz de forzar.}
 {112}{}{Ves una puerta robusta, aparentemente sin cerradura, y
@@ -25,85 +31,98 @@
  forzar.}
 {113}{}{Ves una puerta robusta, con una vieja y oxidada cerradura y un
  cable cortado en el marco, la cual puedes ser capaz de forzar.}
-{114}{}{Ves una robusta puerta con una cerradura (que puede ser abierta con una ganzúa), que podrías ser capaz de forzar.}
+{114}{}{Ves una robusta puerta con una cerradura (que puede ser abierta con 
+una ganzúa), que podrías ser capaz de forzar.}
 {115}{}{Ves una puerta robusta con una cerradura, la cual puedes ser
  capaz de abrir.}
 {116}{}{Ves una puerta robusta, aparentemente sin cerradura,
  la cual puedes ser capaz de abrir.}
 {117}{}{Ves una puerta robusta, con una vieja y oxidada cerradura, la
  cual puedes ser capaz de abrir.}
-{118}{}{Ves una robusta puerta con una cerradura, que puede ser abierta con una ganzúa, y una trampa explosiva en el marco.}
+{118}{}{Ves una robusta puerta con una cerradura, que puede ser abierta con
+una ganzúa, y una trampa explosiva en el marco.}
 {119}{}{Ves una puerta robusta, con una cerradura y con una trampa
  altamente explosiva en el marco.}
 {120}{}{Ves una puerta robusta, aparentemente sin cerradura, y con
  una trampa altamente explosiva en el marco.}
 {121}{}{Ves una puerta robusta, con una vieja y oxidada cerradura y una
  trampa altamente explosiva en el marco.}
-{122}{}{Ves una robusta puerta con una cerradura, que puede ser abierta con una ganzúa, y una trampa en el marco.}
+{122}{}{Ves una robusta puerta con una cerradura, que puede ser abierta con
+una ganzúa, y una trampa en el marco.}
 {123}{}{Ves una puerta robusta, con una cerradura y con una trampa
  en el marco.}
 {124}{}{Ves una puerta robusta, aparentemente sin cerradura, y con
  una trampa en el marco.}
 {125}{}{Ves una puerta robusta, con una vieja y oxidada cerradura y
  una trampa en el marco.}
-{126}{}{Ves una robusta puerta con una cerradura, que puede ser abierta con una ganzúa, y un cable cortado en el marco.}
+{126}{}{Ves una robusta puerta con una cerradura, que puede ser abierta con
+una ganzúa, y un cable cortado en el marco.}
 {127}{}{Ves una puerta robusta, con una cerradura y un cable roto
  en el marco.}
 {128}{}{Ves una puerta robusta, aparentemente sin cerradura y con
  un cable roto en el marco.}
 {129}{}{Ves una puerta robusta, con una vieja y oxidada cerradura y un
  cable cortado en el marco.}
-{130}{}{Ves una robusta puerta con una cerradura, que puede ser abierta con una ganzúa.}
+{130}{}{Ves una robusta puerta con una cerradura, que puede ser abierta con
+una ganzúa.}
 {131}{}{Ves una puerta robusta con una cerradura.}
 {132}{}{Ves una puerta robusta, aparentemente sin cerradura.}
 {133}{}{Ves una puerta robusta, con una vieja y oxidada cerradura.}
-{134}{}{Ves una puerta dañada con una cerradura, que puede ser abierta con una ganzúa, y una trampa explosiva en el marco.}
+{134}{}{Ves una puerta dañada con una cerradura, que puede ser abierta con
+una ganzúa, y una trampa explosiva en el marco.}
 {135}{}{Ves una puerta dañada, con una cerradura y con una trampa
  altamente explosiva en el marco.}
 {136}{}{Ves una puerta dañada, aparentemente sin cerradura, y
  con una trampa altamente explosiva en el marco.}
 {137}{}{Ves una puerta dañada, con una vieja y oxidada cerradura y una
  trampa altamente explosiva en el marco.}
-{138}{}{Ves una puerta dañada con una cerradura, que puede ser abierta con una ganzúa, y una trampa en el marco.}
+{138}{}{Ves una puerta dañada con una cerradura, que puede ser abierta con
+una ganzúa, y una trampa en el marco.}
 {139}{}{Ves una puerta dañada, con una cerradura y con una trampa
  en el marco.}
 {140}{}{Ves una puerta dañada, aparentemente sin cerradura, y con
  una trampa en el marco.}
 {141}{}{Ves una puerta dañada, con una vieja y oxidada cerradura y una
  trampa en el marco.}
-{142}{}{Ves una puerta dañada con una cerradura, que puede ser abierta con una ganzúa, y un cable cortado en el marco.}
+{142}{}{Ves una puerta dañada con una cerradura, que puede ser abierta con
+una ganzúa, y un cable cortado en el marco.}
 {143}{}{Ves una puerta dañada con una cerradura, y un cable roto
  en el marco.}
 {144}{}{Ves una puerta dañada, aparentemente sin cerradura, y
  con un cable roto en el marco.}
 {145}{}{Ves una puerta dañada, con una vieja y oxidada cerradura y un
  cable cortado en el marco.}
-{146}{}{Ves una puerta dañada con una cerradura, que puede ser abierta con una ganzúa.}
+{146}{}{Ves una puerta dañada con una cerradura, que puede ser abierta
+con una ganzúa.}
 {147}{}{Ves una puerta dañada, con una cerradura.}
 {148}{}{Ves una puerta dañada, aparentemente sin cerradura.}
 {149}{}{Ves una puerta dañada, con una vieja y oxidada cerradura.}
-{150}{}{Ves una vieja puerta con una cerradura, que puede ser abierta con una ganzúa, y una trampa explosiva en el marco.}
+{150}{}{Ves una vieja puerta con una cerradura, que puede ser abierta con
+una ganzúa, y una trampa explosiva en el marco.}
 {151}{}{Ves una vieja puerta, con una cerradura y una trampa
  explosiva en el marco.}
 {152}{}{Ves una vieja puerta, aparentemente sin cerradura, y
  con una trampa altamente explosiva en el marco.}
 {153}{}{Ves una vieja puerta, con una vieja y oxidada cerradura y una trampa
  altamente explosiva en el marco.}
-{154}{}{Ves una vieja puerta con una cerradura, que puede ser abierta con una ganzúa, y una trampa en el marco.}
+{154}{}{Ves una vieja puerta con una cerradura, que puede ser abierta con
+una ganzúa, y una trampa en el marco.}
 {155}{}{Ves una vieja puerta, con una cerradura y una trampa
  en el marco.}
 {156}{}{Ves una vieja puerta, aparentemente sin cerradura, y
  una trampa en el marco.}
 {157}{}{Ves una vieja puerta, con una vieja y oxidada cerradura y una
  trampa en el marco.}
-{158}{}{Ves una vieja puerta con una cerradura, que puede ser abierta con una ganzúa, y un cable cortado en el marco.}
+{158}{}{Ves una vieja puerta con una cerradura, que puede ser abierta con
+una ganzúa, y un cable cortado en el marco.}
 {159}{}{Ves una vieja puerta, con una cerradura y un cable roto
  en el marco.}
 {160}{}{Ves una vieja puerta, aparentemente sin cerradura y con
  un cable roto en el marco.}
 {161}{}{Ves una vieja puerta, con una vieja y oxidada cerradura y un
  cable cortado en el marco.}
-{162}{}{Ves una vieja puerta con una cerradura, que puede ser abierta con una ganzúa.}
+{162}{}{Ves una vieja puerta con una cerradura, que puede ser abierta
+con una ganzúa.}
 {163}{}{Ves una vieja puerta con una cerradura.}
 {164}{}{Ves una vieja puerta aparentemente sin cerradura.}
 {165}{}{Ves una vieja puerta, con una vieja y oxidada cerradura.}
@@ -165,7 +184,8 @@
 {320}{}{No hay forma de cerrar la puerta.}
 {330}{}{La puerta está atascada.}
 {400}{}{Abres la puerta.}
-{414}{}{Ves una robusta puerta con una cerradura (que puede ser abierta con una ganzúa), que podrías ser capaz de forzar.}
+{414}{}{Ves una robusta puerta con una cerradura (que puede ser abierta con 
+una ganzúa), que podrías ser capaz de forzar.}
 {415}{}{Ves una puerta robusta con una cerradura, la cual puedes ser
  capaz de abrir.}
 {416}{}{Ves una puerta robusta, aparentemente sin cerradura,

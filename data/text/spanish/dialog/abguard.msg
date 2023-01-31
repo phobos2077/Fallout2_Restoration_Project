@@ -1,8 +1,10 @@
 {100}{}{Ves a un guardia fuerte.}
-{101}{}{Ves a un guardia impresionantemente musculoso, pero envejecido con la piel quemada por el sol. Debe haber sido algo en su mejor momento. Su penetrante mirada parece seguirte a todos lados.}
+{101}{}{Ves a un guardia impresionantemente musculoso, pero envejecido con la piel quemada por el sol. Debe haber sido algo en su
+mejor momento. Su penetrante mirada parece seguirte a todos lados.}
 {200}{}{Hola, viajero. Bienvenido a la Abadía. No metas las narices donde no te llaman y nos llevaremos bien.}
 {201}{}{Te estoy mirando, esclavista. Un movimiento equivocado y estarás contaminando nuestro cementerio por el resto de la eternidad.
-  No me gustaría eso contigo, y estoy bastante seguro de que tampoco disfrutarías eso, así que no te hagas ideas raras en ese cerebro deformado tuyo.}
+No me gustaría eso contigo, y estoy bastante seguro de que tampoco disfrutarías eso, así que no te hagas ideas raras en ese
+cerebro deformado tuyo.}
 {202}{}{¿Quién eres?}
 {203}{}{¿Dónde puedo negociar por algunos suministros?}
 {204}{}{Alguien está cavando tumbas, ¿por qué no haces nada al respecto?}

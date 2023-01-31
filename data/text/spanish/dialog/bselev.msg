@@ -10,7 +10,9 @@
 {105}{}{Ves una puerta robusta, con una vieja y oxidada cerradura y una
  trampa altamente explosiva en el marco, la cual puedes ser capaz
  de forzar.}
-{106}{}{Ves una robusta puerta con una cerradura (que puede ser abierta con una ganzúa) y una trampa en el marco, que podrías ser capaz de forzar.}
+{106}{}{Ves una robusta puerta con una cerradura (que puede ser abierta
+con una ganzúa) y una trampa en el marco, que podrías ser capaz
+de forzar.}
 {107}{}{Ves una puerta robusta, con una cerradura y una trampa en
  el marco, la cual puedes ser capaz de forzar.}
 {108}{}{Ves una puerta robusta, aparentemente sin cerradura y
@@ -25,7 +27,8 @@
  forzar.}
 {113}{}{Ves una puerta robusta, con una vieja y oxidada cerradura y un
  cable cortado en el marco, la cual puedes ser capaz de forzar.}
-{114}{}{Ves una robusta puerta con una cerradura (que puede ser abierta con una ganzúa), que podrías ser capaz de forzar.}
+{114}{}{Ves una robusta puerta con una cerradura (que puede ser abierta con 
+una ganzúa), que podrías ser capaz de forzar.}
 {115}{}{Ves una puerta robusta con una cerradura, la cual puedes ser
  capaz de abrir.}
 {116}{}{Ves una puerta robusta, aparentemente sin cerradura,
