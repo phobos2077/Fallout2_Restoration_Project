@@ -44,10 +44,10 @@
 {163}{}{}
 {164}{}{Iniciar secuencia de arranque}
 {165}{}{                                   Nivel de energía - nominal}
-{166}{}{                                                Índice de sincronización - 75%}
+{166}{}{                                              Índice de sincronización - 75%}
 {167}{}{                                               Unidad operativa}
-{170}{}{                                                Índice de sincronización - 50%}
-{174}{}{                                                Índice de sincronización - 10%}
+{170}{}{                                              Índice de sincronización - 50%}
+{174}{}{                                              Índice de sincronización - 10%}
 {176}{}{Salir.}
 {200}{}{ es incapaz de leer lo que pone en el monitor.}
 {300}{}{La computadora parece tener alguna especie de mecanismo de defensa.}

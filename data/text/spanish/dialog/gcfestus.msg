@@ -79,7 +79,8 @@
 {350}{}{Sorprendido? Te dije que lo sé todo sobre plantas de energía atómica. Deberías haberme escuchado.}
 {351}{}{Bueno, pues ya que sabes lo que es, sabrás cómo instalarlo.}
 {352}{}{Creo que ya te he escuchado demasiado. Adiós.}
-{360}{}{Por supuesto que sí. Es algo sencillísimo para alguien de mi experiencia y talento. Me destetaron con reguladores magnetosféricos, ¿sabes?}
+{360}{}{Por supuesto que sí. Es algo sencillísimo para alguien de mi experiencia y talento.
+Me destetaron con reguladores magnetosféricos, ¿sabes?}
 {361}{}{Pues qué bien. ¿Lo puedes instalar por mí?}
 {370}{}{Bien, supongo que podría instalarlo. Ciertamente soy el único que puede hacerlo bien. Instalar un regulador hidroeléctrico magnetosférico es bastante complicado.}
 {371}{}{Aquí está el regulador. Sabía que podía contar contigo.}

@@ -74,7 +74,8 @@
 {305}{}{Sí, la Angela con la que tú *dormiste*. Seguro que te acuerdas. (Te mira con desprecio). *Espero* que
  usases un preservativo. Sus hormonas están tan descontroladas que con sólo usar la palabra esperma se podría quedar
  embarazada.}
-{306}{}{Sí, mi hija, Angela. Se ha adaptado bien, la pequeña zorra. (Sonríe tristemente). La hija, igual que la madre… (suspira irritada). Bien, ¿eso es *todo*?}
+{306}{}{Sí, mi hija, Angela. Se ha adaptado bien, la pequeña zorra. (Sonríe tristemente). La hija,
+igual que la madre… (suspira irritada). Bien, ¿eso es *todo*?}
 {308}{}{Eh, ¿pre... preserv-lo-qué...? Eh, bueno, creo que usamos un... lo que sea. ¿Sabes qué? Creo que
  voy a ir a comprobarlo ahora mismo.}
 {309}{}{Eh, ¿preservativo? Por supuesto. Eso creo. Quiero decir, estoy bastante seguro. Quizá debería ir a comprobarlo ahora mismo.}

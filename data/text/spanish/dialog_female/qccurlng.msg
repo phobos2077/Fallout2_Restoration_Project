@@ -147,7 +147,7 @@
 {246}{}{Cuando las estrellas arrojaron sus lanzas,}
 {247}{}{                      y mojaron el cielo con sus lágrimas,}
 {248}{}{                            ¿sonrió al contemplar su obra?}
-{249}{}{¿Aquel que hizo al cordero, te hizo a ti?}
+{249}{}{                                  ¿Aquel que hizo al cordero, te hizo a ti?}
 {250}{}{¿Eh?}
 {251}{}{Oh, sólo es algo que he recordado de un poeta muerto hace mucho. Me estaba preguntando si todavía hay un lugar para aquellos que trabajaron en un camino tan oscuro por tanto tiempo. Se acabó nuestro tiempo, el vuestro acaba de comenzar. ¡Vete!}
 {252}{}{Oh, de acuerdo, gracias por toda tu ayuda. Eres un hombre valiente.}

@@ -1,6 +1,6 @@
 {100}{}{Ves a un gángster.}
 {101}{}{Bien, bien. ¿Qué tenemos aquí?}
-{102}{}{Simples viajeros, ¿eh? No sois eso. Necesitáis ayuda con vuestras pertenencias de valor?}
+{102}{}{Simples viajeros, ¿eh? No hay tal cosa. ¿Necesitas ayuda con alguno de tus objetos de valor?}
 {103}{}{Mira por donde andas en Reno, o te vas a hacer pupa. Quítate de mi camino.}
 {104}{}{Hola, }
 {105}{}{.}

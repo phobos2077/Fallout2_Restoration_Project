@@ -159,7 +159,8 @@
 {500}{}{Oh, esa es la iglesia del pueblo. La gente de Modoc la construyó para demostrar su fe. Últimamente, no ha habido mucho que agradecer, así que ya nadie acude a los sermones.}
 {600}{}{Queridos hermanos: Estamos aquí reunidos...}
 {602}{}{[Jo pasa algunas páginas de su libro]}
-{603}{}{Vale, em... Si hay alguien en esta sala que conozca una razón para que estas dos personas no deban unirse en sagrado matrimonio que hable ahora o calle para siempre.}
+{603}{}{Vale, em... Si hay alguien en esta sala que conozca una razón para que estas dos personas
+no deban unirse en sagrado matrimonio que hable ahora o calle para siempre.}
 {604}{}{Tú, }
 {605}{}{ ¿quieres a }
 {606}{}{ cómo tu legitimo/a }

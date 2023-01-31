@@ -55,7 +55,7 @@
 {293}{}{Oh, DE VERAS... bien, ¿sabes qué va a pasar ahora, Cody? El hombre malo que robó el coche de }
 {294}{}{Oh, ¿de verdad? Bien, ya trataré con él más tarde. ¿Puedes llevarme hasta el coche ahora?}
 {300}{}{(Cody se encoge de hombros).}
-{301}{}{ ¿Puedes llevarme hasta el coche ahora?}
+{301}{}{¿Puedes llevarme hasta el coche ahora?}
 {302}{}{Bien, sólo era curiosidad. Adiós.}
 {310}{}{(Cody asiente de nuevo, y se larga corriendo).}
 {311}{}{(Corres tras él).}

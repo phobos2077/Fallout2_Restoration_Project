@@ -17,8 +17,7 @@
 {240}{}{¡Hurgar! Usted Pissnelke! ¿Cómo te atreves a desacreditar el nombre de la APA de esta manera? ¡Nadie quita un pedazo de papel de este edificio sin que yo lo diga! Sin embargo, haber ingresado tan lejos en la APA requeriría algo de habilidad ... tal vez podría encontrar un uso para usted después de todo.}
 {241}{}{¿Eh?}
 {242}{}{No, creo que buscaré algo más y me iré. ¡Adiós!}
-{250}{}{¡Insolencia! ¡Qué insolencia de un Blödes Arschloch! Cuando comencé mi entrenamiento, la insolencia debía ser castigada. ¡Y castigados estábamos! Marca mis palabras scheisskopf, esa lengua bífida tuya algún día será tu muerte.
-}
+{250}{}{¡Insolencia! ¡Qué insolencia de un Blödes Arschloch! Cuando comencé mi entrenamiento, la insolencia debía ser castigada. ¡Y castigados estábamos! Marca mis palabras scheisskopf, esa lengua bífida tuya algún día será tu muerte.}
 {251}{}{Tal vez lo hará, tal vez lo hará. Y si ese día llegara, lo trataré allí mismo. Lo cierto es que no vendrá de ti. Eres un don nadie. No tiene nada más que gobernar, por eso cubre su tristeza con ira. ¿Cuánto tiempo han fallado los robots para responderte?}
 {260}{}{Bueno, como ya habrás adivinado, los robots ya no funcionan aquí en la APA. Las consolas de la computadora ya no registran mis comandos verbales y no tengo un cuerpo para activar la consola. Yo ... no puedo asegurar nada adecuadamente. ¿Podrías arreglarme la computadora de control del robot? Necesito la habilidad de mandar a los robots para ... bueno, para cosas.}
 {261}{}{Bien, ¿por qué no? Veré lo que puedo hacer.}
