@@ -47,7 +47,7 @@
 {263}{}{ quiere unir gremio.}
 {264}{}{Na.}
 {265}{}{Estuve mirando a los esclavos que tienes allí, pero ya ves, tengo muy, eh ... * gustos selectivos, y ninguno de
-  ellos son bastante como lo que estoy buscando. ¿Son estos todos los esclavos que tienes para ofrecer?}
+ ellos son bastante como lo que estoy buscando. ¿Son estos todos los esclavos que tienes para ofrecer?}
 {270}{}{¿Crees que podrás soportarlo? No suelo aceptar a cualquiera... qué demonios. Si la jodes, te vendo como esclavo. Tendremos que hacerte un tatuaje en la frente que te identifique ante todo el mundo como esclavista. Es permanente, así que piénsatelo bien.}
 {271}{}{Así que nuestra delicada florecilla ha vuelto... Entonces, ¿has cambiado de idea? ¿Te harás el tatuaje después de todo?}
 {272}{}{Sí, quizás puedas hacerlo... No hace falta mucho cerebro para ir de cacería. Si la jodes, te venderé como esclavo. Si crees que puedes hacerlo tendremos que hacerte un tatuaje en la frente que te identifique como esclavista ante todo el mundo.}

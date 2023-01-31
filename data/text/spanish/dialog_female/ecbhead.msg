@@ -29,7 +29,7 @@
 {128}{}{¡¿QUIÉN SE ATREVE A ACERCARSE A LA SAGRADA CABEZA DEL MORADOR DEL REFUGIO?!}
 {129}{}{Soy yo, la Elegida.}
 {130}{}{¡HA HA HA HA HA HA!}
-{131}{}{¡¿*TÚ*?! ¿LA ELEGIDA?}
+{131}{}{¡¿*TÚ*?! ¡¿LA ELEGIDA?!}
 {132}{}{¡NO ERES MÁS GRANDE QUE MI DEDO!}
 {133}{}{TÚ NO *ERES* LA ELEGIDA.}
 {134}{}{Sí, lo soy.}

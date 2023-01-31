@@ -53,7 +53,7 @@
 {206}{}{Está justo aquí [señalándola en el mapa].}
 {220}{}{Maldición. Eso estuvo cerca, pero necesito la radio de mi choza de Klamath. Sé que tiene las piezas que me hacen falta.}
 {300}{}{Sí, probablemente pueda ayudarte, pero primero tienes que sacarme de aquí.}
-{301}{}{Te lo dije.  Si me sacas de aquí, te ayudaré con lo que quieras.}
+{301}{}{Te lo dije. Si me sacas de aquí, te ayudaré con lo que quieras.}
 {302}{}{¿Y cómo hacemos eso?}
 {303}{}{Entonces estás sólo.}
 {304}{}{Vale, veré lo que puedo hacer.}

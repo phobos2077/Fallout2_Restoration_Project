@@ -13,8 +13,7 @@
 {112}{}{Fuera de aquí, o avisaré a tu sargento.}
 {113}{}{Muévete, soldado.}
 {114}{}{No he informado de ningún problema por aquí.}
-{115}{}{Bienvenido a la Unidad de Guerra Química, soldado. Soy el teniente coronel doctor Charles
- Curling, y ahora que nos conocemos... ¡fuera de aquí!}
+{115}{}{Bienvenido a la Unidad de Guerra Química, soldado. Soy el teniente coronel doctor Charles Curling, y ahora que nos conocemos... ¡fuera de aquí!}
 {116}{}{No soy quien tú crees. Soy }
 {117}{}{ de Arroyo, y tenemos que hablar.}
 {118}{}{Lo siento, señor. Me equivocado. Adiós.}

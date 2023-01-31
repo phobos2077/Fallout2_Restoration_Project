@@ -9,7 +9,7 @@
 {108}{}{Esa morena sólo entró en el juego porque se tiró a TODO el departamento de diseño artístico del estudio.}
 {109}{}{Y a los programadores.}
 {110}{}{Y al líder del proyecto. Son taaan fáciles de engatusar. Les enseñas un poquito, y ya se ponen hechos un flan.}
-{111}{}{Así que me cambiaron y acabe siendo parte de los NPC 'de relleno' del Refugio 13.  Jesucrrristo. Encasillada en ese papel.}
+{111}{}{Así que me cambiaron y acabe siendo parte de los NPC 'de relleno' del Refugio 13. Jesucrrristo. Encasillada en ese papel.}
 {112}{}{Me sorprende que renderizaran a esa golfa con ropa.}
 {113}{}{Quiero decir, no es que la llevará puesta MUCHO tiempo durante el proceso de filmación.}
 {114}{}{*Suspiro*}
