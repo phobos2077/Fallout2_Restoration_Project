@@ -47,7 +47,7 @@
 {194}{}{Aquí está la copa. ¿Algo más?}
 {195}{}{¿Una pregunta?}
 {196}{}{Seh, y si tú y yo...}
-{197}{}{No.}
+{197}{}{Nop.}
 {198}{}{Eh, no tienes para pagar esta copa. ¡Eres incluso más pobre que estos bobos!}
 {199}{}{Lo siento.}
 {200}{}{Hmm, volveré.}

@@ -59,7 +59,7 @@
 {158}{}{Sabes, hablar contigo me hace cuestionarme eso de que el tiempo no puede malgastarse. Me largo de aquí.}
 {159}{}{Si tan sólo tuviera tu sapiencia, sabio. Perdóname. Por supuesto, me ocuparé de ellas por ti.}
 {160}{hak012}{Puede que lleves contigo el manto de la Elegida, pero tu alma impía grita desde tu interior.}
-{161}{}{Te suplico tu perdón, santo. ¿Cómo puedo limpiar mi alma?}
+{161}{}{Suplico por tu perdón, santa. ¿Cómo puedo limpiar mi alma?}
 {162}{}{Es cierto, Hakunin, y serás un hombre realmente sabio si no lo olvidas.}
 {163}{}{Me duele la cabeza desde el interior de escucharte. Me largo.}
 {164}{}{¡Booka!}
