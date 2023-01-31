@@ -10,7 +10,7 @@
 {109}{}{¿Puedo ayudarte en algo?}
 {110}{}{¿Qué es este lugar?}
 {111}{}{¿Cuál es tu trabajo?}
-{112}{}{¿Donde hay base p-principal de Enclave?}
+{112}{}{¿Dónde se encuentra la base principal de Enclave?}
 {113}{}{Busco planos de v-vertibird. ¿Dónde encuentro yo?}
 {117}{}{Tengo que marchar.}
 {118}{}{¿Qué lugar es éste?}

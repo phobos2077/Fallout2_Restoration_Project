@@ -99,7 +99,7 @@
 {248}{}{No, gracias.}
 {249}{}{¡Quiero más dinero!}
 {250}{}{De acuerdo, te lo daré }
-{251}{}{, ¡pero no más!}
+{251}{}{ ¡pero no más!}
 {252}{}{¡Vendido!}
 {253}{}{No es suficiente.}
 {254}{}{Eso es muy poco. Me marcho.}

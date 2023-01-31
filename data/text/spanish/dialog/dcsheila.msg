@@ -61,7 +61,7 @@
 {211}{}{Adiós.}
 {212}{}{Adiós.}
 {213}{}{Te costará }
-{214}{}{dólares por una sesión. Primero paga.}
+{214}{}{ por una sesión. Primero paga.}
 {215}{}{Sígueme.}
 {216}{}{Estoy esperando.}
 {217}{}{No voy a quedarme parada en esta habitación todo el día.}

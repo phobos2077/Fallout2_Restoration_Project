@@ -13,7 +13,9 @@
 {112}{}{Quincy dice que tú gilipollas. Que no tienes huevos de ver él.}
 {113}{}{Bien.}
 {114}{}{Quincy dice que eres un gilipollas y que no tienes cojones de ir a verle.}
-{115}{}{Eh, amigo, a Raúl nadie le toma el pelo. ¿Ves a Quincy trabajando en estos pájaros? No, amigo. Sólo Raúl trabaja en estas monadas. ¿Sabes por qué? Porque Quincy no sabe un carajo, amigo, ¡por eso es!}
+{115}{}{ Eh, amigo, a Raúl nadie le toma el pelo. ¿Ves a Quincy trabajando en estos pájaros?
+No, amigo. Sólo Raúl trabaja en estas monadas. ¿Sabes por qué? Porque
+Quincy no sabe un carajo, amigo, ¡por eso es!}
 {116}{}{Eh...}
 {117}{}{Bueno...}
 {118}{}{Eh, perdona, amigo. Raúl no debería haberte gritado, ¿sabes? No es culpa tuya; sólo eres el mensajero. Eh, amigo, ¿estás ocupado?}

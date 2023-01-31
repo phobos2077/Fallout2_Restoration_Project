@@ -107,7 +107,7 @@
 {423}{}{Nuestras cosechas se pierden, los brahmines mueren, todo el mundo está hambriento. Los llantos de los niños no dejan dormir a nadie por la noche. Nos hemos vuelto un pueblo sin esperanza.}
 {424}{}{Aún busco y sigo.}
 {425}{}{Haré lo que pueda.}
-{426}{}{Vuelves otra vez con nosotros, Elegido. Espero que sin las manos vacías.}
+{426}{}{Vuelves otra vez con nosotros, Elegido. No con las manos vacías, espero.}
 {427}{}{Yo siento, no encuentro GECK aún.}
 {428}{}{Lo siento, todavía no he encontrado el GECK.}
 {429}{}{Ya he tenido suficiente.}

@@ -134,7 +134,7 @@ con una ganzúa.}
 {171}{}{Tu falta de habilidad ha atascado la cerradura de esta puerta.}
 {172}{}{No consigues abrir la cerradura de la puerta.}
 {173}{}{ abre hábilmente la cerradura de la puerta.}
-{174}{}{ ha atascado la cerradura de la puerta por su falta de habilidad.}
+{174}{}{Ha atascado la cerradura de la puerta por su falta de habilidad.}
 {175}{}{ no consigue abrir la cerradura de esta puerta.}
 {176}{}{Rompes la cerradura de la puerta.}
 {177}{}{Fuerzas la espalda mientras intentas romper la cerradura y
@@ -197,6 +197,6 @@ una ganzúa), que podrías ser capaz de forzar.}
 {503}{}{Parece que necesitas un aparato eléctrico para abrir esta cerradura.}
 {601}{}{Está abierto, idiota.}
 {610}{}{Fallas espectacularmente, y el explosivo detona prematuramente.}
-{611}{}{Fallas espectacularmente, y el explosivo detona prematuramente.}
+{611}{}{ Fallas espectacularmente, y el explosivo detona prematuramente.}
 {620}{}{Doblas la palanca más allá de sus límites. Ahora no sirve para nada.}
 {621}{}{ dobla la palanca más allá de sus límites. Ahora no sirve para nada.}

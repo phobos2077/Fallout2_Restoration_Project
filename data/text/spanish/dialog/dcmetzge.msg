@@ -242,16 +242,16 @@ Tal vez si vuelves más tarde, tendré algo que te haga gracia, pero en su mayor
 {1365}{}{?}
 {1496}{}{.}
 {1540}{}{. Un gran trabajo, joder.}
-{1541}{}{ dólares. Has estado genial. Sigue así.}
+{1541}{}{. Has estado genial. Sigue así.}
 {1542}{}{.}
 {1543}{}{. }
 {1544}{}{ no es que sea poco dinero, pero no te mereces mucho más que eso.}
 {1545}{}{ dólares esta vez. Muy buen trabajo.}
 {1546}{}{.}
-{1547}{}{ dólares? No está mal.}
-{1548}{}{ dólares? Puedes hacerlo mejor que eso.}
+{1547}{}{? No está mal.}
+{1548}{}{? Puedes hacerlo mejor que eso.}
 {1549}{}{.}
-{1550}{}{ dólares! ¡Esto es una puta miseria! Hazlo mejor o te daré una paliza.}
+{1550}{}{! ¡Esto es una puta miseria! Hazlo mejor o te daré una paliza.}
 {1551}{}{ dólares y fuera de aquí.}
 {2540}{}{.}
 {2543}{}{.}
