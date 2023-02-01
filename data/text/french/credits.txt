@@ -1,3 +1,200 @@
+
+#FALLOUT 2 UNOFFICIAL PATCH
+
+@réalisé par
+killap
+
+@aide aditionnelle
+Haenlomal
+Darek
+Seraph
+Per
+Everyone who posted bug reports
+
+
+
+#FALLOUT 2 RESTORATION PROJECT
+
+@réalisé par
+killap
+
+
+#PROGRAMMATION
+
+@Responsable de programmation
+killap
+
+@Programmeurs
+Darek
+Chris Parks
+MIB88
+
+
+#ECRITURE
+
+@ECRIVAIN EN CHEF
+Adam Dravean
+
+@ECRIVAINS
+killap
+encinodude
+Minigun Jim
+Yamu
+Mikael Grizzly
+SuAside
+Bofast
+
+
+#CREATION ARTISTIQUE
+
+@Lead Artist
+Pixote
+
+@Additional Art
+Continuum
+Josan12
+x'il
+Jotisz
+Wild-Qwerty
+Grayswandir
+Makers of Mutants Rising
+Makers of Fallout: Between Good & Evil
+killap
+Lich
+Crowley
+Nikki
+
+
+#CONCEPTEURS DE NIVEAUX
+
+@Lead Mapper
+Pixote
+
+@Additional Mapping
+killap
+Chris Parks
+Skynet
+Deadlus
+
+
+#MUSIQUE
+hologram
+
+
+#Comédiens de doublage
+@Cassidy
+Adam Dravean
+
+
+#Synchronisation labiale
+Aguirre
+Agris
+Josan12
+tobecooper
+Ardent
+
+
+#TRADUCTEURS
+
+@Traduction Russe
+aliet
+Magnat
+rj rl
+DominionZ
+BaD3uM
+Tschumann
+vindicator
+Drobovik
+
+
+Additional Editing
+
+Drobovik
+SeregaTopor
+Russian Fallout Community
+
+Beta Testers
+
+9in
+Aleksey Kluchnikov aka General Maxon
+Tschumann
+vindicator
+2FARAON
+SuperBul
+IRaven
+vlad2204
+Nickolas
+trisem
+Trephs
+
+@Traduction Polonaise
+Mad Ivan
+Kryspin013
+szczypiorofix
+tibrion
+Johny8888
+Semietiev
+Juraszka
+Chad669
+Fallout "Trzynasty Schron" Polish Community
+
+@Traduction Allemande
+Mr. Wolna
+The FalloutNow! Community
+
+@Traduction Française
+HawK-EyE
+Slipenacier
+Jello44
+Veliocasse
+Jared
+WIlly1009
+
+
+#CONTENU SUPPLEMENTAIRE
+ART
+Continuum
+Corpse
+Glovz
+Haenlomal
+Josan12
+Lisac2k
+Mash
+pelicano
+
+
+#SUPPORT TECHNIQUE
+Darek
+NovaRain
+Morticia
+Tomten
+Timeslip
+Mash
+gracul
+Slowhand
+GanymeDes
+Nevill
+Ochrei
+Petrell
+Hootl
+aboniks
+memetics
+FallMan
+The No Mutants Allowed Community
+Anyone else I forgot
+
+
+
+#FALLOUT 2 HIGH RESOLUTION PATCH
+
+@réalisé par
+Mash
+
+
+
+
+#FALLOUT 2 DEVELOPMENT TEAM
+
 #PROGRAMMATION
 
 @Responsable de programmation
@@ -14,6 +211,7 @@ Dan Spitzley
 @Programmation supplementaire
 Tim Cain
 John Price
+Michael Bernstein
 
 @Technologie cinematographique
 Paul Edelstein
