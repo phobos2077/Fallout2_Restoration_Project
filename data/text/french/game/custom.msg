@@ -18,7 +18,7 @@
 {203}{}{Si tu ne te sens pas bien.}
 {204}{}{Si tu as besoin d'un garrot.}
 {205}{}{Jamais !}
-{300}{}{Aucune préférence.}
+{300}{}{Aucune}
 {301}{}{De Rixe.}
 {302}{}{De Rixe plutôt que longue portée.}
 {303}{}{Longue portée plutôt que de Rixe.}

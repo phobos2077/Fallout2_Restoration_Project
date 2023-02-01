@@ -27,7 +27,7 @@
 {254}{}{électrique}
 {255}{}{emp}
 {256}{}{explosion}
-{300}{}{Aucune préférence.}
+{300}{}{Aucune}
 {301}{}{Roquette}
 {302}{}{Combustible pour lance-flammes}
 {303}{}{Cellule énergétique C}
