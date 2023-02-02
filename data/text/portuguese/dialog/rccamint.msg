@@ -58,34 +58,34 @@
  tiro ao alvo.}
 {156}{}{O xerife me pediu para ajudá-lo enquanto ele está com uma perna machucada. Eu tenho que
  manter minha palavra para ele.}
-{157}{}{Well, OK... for the Sheriff's sake I 'spose we can hold off a bit.}
+{157}{}{Bem, ok... pelo bem do xerife, acho que podemos esperar um pouco.}
 {158}{}{Obrigado. Eu esperava que você entendesse as coisas assim. Adeus.}
-{159}{}{Well, aren't you a goody-two-shoes. I don't think I like your tone, pal.}
+{159}{}{Bem, você não é nenhum bom samaritano. Esse seu tom não me agrada, amigo.}
 {160}{}{Você não precisa gostar. Você vem comigo até a cadeia ou eu arrasto seu cadáver até lá.
  Pode escolher.}
 {161}{}{Oh, me desculpe, nunca quis ser grosseiro. Estou indo embora agora. Adeus.}
-{162}{}{All right, all right. I'll go if you jail Bette, too. That sounds like a fair deal.}
+{162}{}{Tudo bem, tudo bem. Eu irei se você prender Bette também, isso parece um acordo justo.}
 {163}{}{Você não está em posição de fazer negócios.}
 {164}{}{Isso não é uma má ideia. Colocar algumas barreiras entre vocês dois deve aliviar um pouco
  as coisas. Venham, vocês dois.}
-{165}{}{Aren't you tough. I don't think you can take us without people getting killed. You think the
- Sheriff is gonna like that?}
+{165}{}{Você não é durão? Eu não acho que você conseguir levar ninguém sem que as pessoas sejam
+ mortas. Acha que o xerife vai gostar disso?}
 {166}{}{Não, acho que não.}
 {167}{}{Tanto faz. Não será *meu* sangue que vai ser derramado.}
-{168}{}{I guess you got me there. Okay, I'll come quietly. (to the others) Go on back to the mine, lads.
- I'll see you tomorrow.}
+{168}{}{Parece que você me pegou lá. Ok, eu irei tranquilamente. (para os outros) Voltem para a mina,
+ rapazes. Vejo vocês amanha.}
 {169}{}{Boa escolha.}
-{170}{}{Don't worry, I'm bringing Bette along to keep you company. Right, Bette?}
-{171}{}{I don't think it's going down like that. I think you just put yourself in the middle and now
- we're going to both take you apart.}
-{172}{}{Then I'll just have to jail both you and Bette.}
-{173}{}{Then I'll just have to kill both you and Bette.}
-{174}{}{Hmm, I think I'm needed in another part of Redding. Right away. Goodbye.}
-{175}{}{You bet he wouldn't. Why don't you just go back and tell him that there wasn't anything you could do?}
+{170}{}{Não se preocupe, vou trazer Bette para te fazer companhia. Certo, Bette?}
+{171}{}{Eu não acho que isso vai acabar assim. Acho que você se meteu no caminho e agora vamos
+ acabar com você.}
+{172}{}{Então terei que prender você e Bette.}
+{173}{}{Então terei que matar você e Bette.}
+{174}{}{Hmm, acho que estão precisando de mim em outro lugar agora mesmo. Adeus.}
+{175}{}{Pode apostar que não. Por que você simplesmente não volta e fala pra ele que não tinha nada que você pudesse fazer?}
 {176}{}{É isso, já cansei dessa conversa. Última chance: vá embora quietinho ou eu vou acabar com você.}
 {177}{}{Talvez eu faça isso. Tenho certeza que não quero machucar ninguém. Adeus.}
-{178}{}{All right, I think we can see the writing on the wall - right, Bette? (she nods) You got us.
- Take us in, Sheriff.}
+{178}{}{Tudo bem, acho que ficou bem claro agora, certo, Bette? (ela concorda) Você nos pegou.
+ Nos leve, Xerife.}
 {179}{}{Assim que se fala.}
-{180}{}{Nope, too late now. I'm gonna have to open up a can of whoop-ass on you two. }
-{181}{}{Don't worry; I won't be startin' any trouble tonight.}
+{180}{}{Não, agora é tarde demais. Eu vou ter que abrir alguns buracos em vocês dois. }
+{181}{}{Não se preocupe; não vou criar problemas esta noite.}
