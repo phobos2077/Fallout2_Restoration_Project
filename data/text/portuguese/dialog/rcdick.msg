@@ -1,36 +1,36 @@
-{100}{}{You see a scruffy-looking man with a large beard.}
-{101}{}{You see Athabaska Dick.}
-{102}{}{This man looks like a miner who would know his way around a pit.}
-{103}{}{You're too dumb for mine-work.}
+{100}{}{Você vê um homem de aparência desalinhada e com uma grande barba.}
+{101}{}{Voce ve Athabaska Dick.}
+{102}{}{Este homem parece um mineiro que sabe se virar sozinho.}
+{103}{}{Você é burro demais para trabalhar nas minas.}
 {104}{}{Saudações da cidade grande.}
-{105}{}{Your skylight leaks a little, don't it?}
-{106}{}{You're 'bout as smart as bait.}
-{107}{}{I've used shovels with more brains 'an you.}
-{108}{}{Same old thing, mostly. All of us miners working jist enough to get our next flight on Jet.}
+{105}{}{Sua clarabóia vaza um pouco, não é?}
+{106}{}{Você é tão esperto quanto uma minhoca.}
+{107}{}{Já usei pas com mais cérebro do que você.}
+{108}{}{A mesma velha coisa, principalmente. Todos nós, mineiros, trabalhamos o suficiente só para pegar nossa próxima fumada de Jet.}
 {109}{}{Deixe-me perguntar-lhe algo mais.}
-{110}{}{Jet? What's Jet?}
+{110}{}{Jet? O que é Jet?}
 {111}{}{Entendo, adeus.}
-{112}{}{Well, most of us are workin' our asses off to get enough Jet. Damn price's going up all the
- time now. Hate the way I feel when I'm not flyin' Jet.}
+{112}{}{Bem, a maioria de nós está trabalhando duro para conseguir o suficiente de Jet, esse preço
+ desgraçado sobe toda hora agora. Odeio como me sinto quando não consigo usar o jet.}
 {113}{}{Deixe-me perguntar-lhe algo mais.}
-{114}{}{Jet? What's Jet?}
+{114}{}{Jet? O que é Jet?}
 {115}{}{Entendo, adeus.}
-{116}{}{Cain't hardly work enough to get the Jet I need to feel good. Mebbe' we can work somethin' out
- with New Reno, direct like. I heard that Ascorti might be workin' on that.}
+{116}{}{Nem consigo trabalhar o suficiente para conseguir o jet que preciso para me sentir bem. Talvez
+ possamos tentar algo com New Reno. Ouvi dizer que Ascorti pode estar trabalhando nisso.}
 {117}{}{Deixe-me perguntar-lhe algo mais.}
-{118}{}{Asctorti? Who's that?}
-{119}{}{Jet? What's Jet?}
+{118}{}{Asctorti? Quem é esse?}
+{119}{}{Jet? O que é Jet?}
 {120}{}{Entendo, adeus.}
-{121}{}{I don't feel so good lately, and it seems like I ain't alone, neither. I tried to fly more Jet
- but it shore don't seem to help none. I think it's jist makin' me feel worse than ever. I feel lower'n a snake's belly-jist like most of the miners.}
+{121}{}{Não me sinto muito bem ultimamente, e parece que também não sou o unico. Eu tentei
+ fumar mais Jet, mas isso não parece ajudar em nada. Acho que só está fazendo me sentir pior a cada vez. Me sinto mais baixo do que a barriga de uma cobra, como a maioria dos mineiros.}
 {122}{}{Deixe-me perguntar-lhe algo mais.}
-{123}{}{Jet? What's Jet?}
+{123}{}{Jet? O que é Jet?}
 {124}{}{Entendo, adeus.}
 {125}{}{I don't know what happened, but most everyone gave up on Jet after that last batch. I felt like
  we were going to fly Jet to that big airport in the sky. Nobody has much interest in takin' it no more.
  Jist the idea makes us sick.}
 {126}{}{Deixe-me perguntar-lhe algo mais.}
-{127}{}{Jet? What's Jet?}
+{127}{}{Jet? O que é Jet?}
 {128}{}{Entendo, adeus.}
 {129}{}{Howdy. My name's Athabaska Dick. Mostly people just call me Dick. 'Course, there's some what
  calls me Athabaska. Mostly they just call me Dick, though.}

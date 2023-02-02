@@ -37,24 +37,24 @@
  replace the tried and true method of Man toiling against the unforgiving Earth -- forging his own existence though sweat
  and blood. But if you truly believe such a device is your only hope, then I suggest you seek out the Old One's underground Vaults.
  I've traveled far and wide, but I've never found one myself. But then, I wasn't exactly looking.}
-{231}{}{My village Elder is certain that finding the GECK is the best chance we've got. That's what I've been tasked with,
- so that's what I intend to do. Anyway, thanks for the tip.}
-{232}{}{Look for a Vault, you say? Wow, that's *great* advice, if only I had known that before. Thanks a lot for the tip,
- big guy.}
-{240}{}{[He laughs heartily, then, with a speed that seems impossible for a man of his impressive bulk, he brings his spear
- up and takes combat stance.] Chosen One, eh? If a fool like you is the best your tribe has to offer, then their doom seems
- inevitable. Now, either take up your weapon so I can split your skull, or be gone from my sight.}
-{241}{}{[He laughs heartily, then gives your rear a playful slap with a hand that feels capable of crushing boulders.] You've got a fire
- in you, girl. I like that. Perhaps we could put that fire to good use while you're here. What do you say?}
-{242}{}{Alright, fine, I'm going.}
-{243}{}{No one threatens me, asshole!}
-{244}{}{To hell with you. I'm leaving. Bye.}
+{231}{}{A anciã da minha aldeia tem certeza de que encontrar o GECK é a melhor chance que temos. É para isso que me
+ incumbiram, então é isso que pretendo fazer. De qualquer forma, obrigado pela dica.}
+{232}{}{Procura uma Vault, você diz? Uau, isso é *ótimo* conselho, se eu soubesse disso antes. Muito obrigado pela
+ dica, grandão.}
+{240}{}{[Ele ri com entusiasmo, então, com uma velocidade que parece impossível para um homem de seu tamanho
+ impressionante, ele levanta sua lança e assume a postura de combate.] Escolhido, eh? Se um tolo como você é o melhor
+ que sua tribo tem a oferecer, então seu destino parece inevitável. Agora, pegue sua arma para que eu possa dividir seu crânio, ou desapareça de minha vista.}
+{241}{}{[Ele ri muito, então dá um tapa brincalhão em seu traseiro com uma mão que parece capaz de esmagar pedras.] Você tem
+ fogo dentro de você, garota. Eu gosto disso. Talvez possamos fazer bom uso desse fogo enquanto você estiver aqui. O que você acha?}
+{242}{}{Tudo bem, tudo bem, estou indo.}
+{243}{}{Ninguém me ameaça, idiota!}
+{244}{}{Você que se foda, estou indo embora. Tchau.}
 {245}{}{No one touches me, asshole! [Attack.]}
 {246}{}{If you keep your hands to yourself, then I just *might* consider helping.}
 {247}{}{That all depends. [Smile seductively.] What have you got in mind, big guy? [Wink.]}
 {250}{}{I'm well versed in the art of sarcasm. Go take your smart tongue elsewhere before I rip it from your mouth.}
-{251}{}{Alright, fine, I'm going.}
-{252}{}{No one threatens me, asshole!}
+{251}{}{Tudo bem, tudo bem, estou indo.}
+{252}{}{Ninguém me ameaça, idiota!}
 {260}{}{You're a stubborn one. By the Gods, I think I could get to like you. [He grins and slaps you on the back with a
  hand that seems capable of crushing boulders.] While you're here, perhaps you could assist us with a thing or two. What
  do you say?}

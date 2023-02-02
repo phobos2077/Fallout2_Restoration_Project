@@ -7,4 +7,4 @@
 {106}{}{Eu vou indo.}
 {107}{}{Mais alguma coisa?}
 {108}{}{Tenho mais algumas coisas para negociar.}
-{109}{}{want mor shinies.}
+{109}{}{Quero mais coisas que brilham.}
