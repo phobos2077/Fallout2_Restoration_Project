@@ -94,25 +94,25 @@
 {173}{}{Eu poderia comprar? Vale alguma coisa?}
 {174}{}{Quem é Ascorti?}
 {175}{}{Parece muito perigoso para mim. Adeus.}
-{176}{}{Well, not right now it ain't. Haven't you heard anything I've said? It's filled with them damn
- Wanamingos. But if'n someone was to clean the place out - well that'd be a brahmin of a differ'nt
- color. Heck, you wouldn't even have to kill all of 'em.}
+{176}{}{Bem, não agora não é. Você não ouviu nada do que eu disse? Está cheio dos malditos Wanamingos.
+ Mas se alguém fosse limpasse aquela zona... outro brahmin cantaria. Caramba, bastaria que matasse
+ todos eles.}
 {177}{}{O que você quer dizer?}
-{178}{}{Brahmin of a different color? Is that like a pink pachyderm? I'm going to leave you and your
- delirium alone now. Goodbye.}
-{179}{}{Well, there's some stuff in there that the owners of the Morningstar and the Kokoweef mines here
- in town would sure pay a pretty penny for.}
-{180}{}{What kind of stuff?}
-{181}{}{Money. Hmm. Well, I've got to be going. Goodbye.}
-{182}{}{Well, ya see, mines used to be dug out by big machines. Heck, those machines are built to last.
- Both mines got big diggers. But - an' here's the money question - the dang little control chips weren't
- made so tough. Neither mine's got a chip that works. Heh-hee.}
-{183}{}{I'm not sure I understand what you're getting at here.}
-{184}{}{The more parts there are, the more there is to break. Thanks for the info. Goodbye.}
-{185}{}{Well, what I'm saying is that either mine owner would pay for one of these digger-control-chips.
- Heck, if they had a workin' machine and the other mine doesn't, they'd shut the other mine down - or
- buy 'em out - in no time.}
-{186}{}{Too bad nobody knows where to get one of those chips, then.}
+{178}{}{Outro brahmin cantaria? Um tipo de paquiderme cantor? Vou deixar você e seu delírio em
+ paz agora. Adeus.}
+{179}{}{Bem, tem algumas coisas lá que fariam os proprietários das minas Morningstar e Kokoweef aqui na
+ cidade certamente pagar uma boa nota.}
+{180}{}{Que tipo de coisas?}
+{181}{}{Dinheiro. Hum. Bem, eu tenho que ir. Adeus.}
+{182}{}{Olha, veja bem, as minas costumavam ser escavadas por grandes máquinas. Porra, essas máquinas
+ são construídas para durar. Ambas as minas têm grandes escavadores. E é aqui que entra a questão do
+ dinheiro, os malditos chips que os controlam não foram construídos muito resistentes. Nenhuma das minas tem chip funcionando. Hahaha.}
+{183}{}{Não tenho certeza se entendi o que você esta querendo dizer.}
+{184}{}{Quanto mais peças houver, mais haverá para quebrar. Obrigado pela informação, adeus.}
+{185}{}{Bem, o que estou dizendo é que qualquer um dos meus proprietários pagaria bem por um desses
+ chips de controle de escavadeira. Caramba, se houvesse uma máquina funcionando e a outra não, eles
+ não iriam fechar a minha ou comprá-la tão cedo.}
+{186}{}{Pena que ninguém sabe onde conseguir um desses chips.}
 {187}{}{Terei que ver quanto eles pagariam por um chip desses. Obrigado, adeus.}
 {188}{}{Aperte suas malditas orelhas! Eu te disse onde procurar a bosta do chip. Você não está ouvindo
  uma palavra do que eu disse? A mina Wanamingo tinha máquinas, e elas estavam trabalhando até a
@@ -155,12 +155,12 @@ tipo, era... (passa um tempo)... Com enormes presas que ele usa para... (mais te
  disso para sobreviver. Droga, não me sinto bem com ele, mas sem ele me sinto pior ainda.}
 {215}{}{Deixe-me perguntar-lhe algo mais.}
 {216}{}{Interessante. Obrigado e adeus.}
-{217}{}{The Jet's bad, man. Everyone who's using got all sick like they're gonna die. I think I better...
-(bends over and dry heaves a bit)...sorry. Say pardner, can we talk about something else?}
-{218}{}{Sure, sorry. Let me ask you something else.}
+{217}{}{O jet está ruim, cara. Todo mundo que está usando ficou doente até quase morrer. Acho melhor...
+ (curva-se e vomita um pouco)...desculpe. Olha, parceiro, podemos falar sobre outra coisa?}
+{218}{}{Claro, desculpe. Deixe eu te perguntar outra coisa.}
 {219}{}{Interessante. Obrigado e adeus.}
-{220}{}{I don't never want to hear about that god-damn Jet again. That stuff'll kill ya. Damn-sight
- worse'n Radscorp venom. I cain't believe that I ever liked that stuff. That last time... I
- thought I was a goner.}
+{220}{}{Nunca mais quero ouvir falar daquele maldito jet, essa bosta vai nos matar. Negócio maldito
+ pior do que o veneno da Radscorpion. Eu não posso acreditar que eu já gostei dessa
+ coisa. Da última vez... eu pensei que era um caso perdido.}
 {221}{}{Deixe-me perguntar-lhe algo mais.}
 {222}{}{Interessante. Obrigado e adeus.}

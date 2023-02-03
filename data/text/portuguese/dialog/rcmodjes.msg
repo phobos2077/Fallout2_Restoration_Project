@@ -157,7 +157,7 @@
 {223}{}{Jet used to be the thing. Now it's turning my guts around and around like a worn-out washing
  machine. I wouldn't recommend any of the current batch. This Jet has run out of fuel and crashed,
  darling.}
-{224}{}{Sure, sorry. Let me ask you something else.}
+{224}{}{Claro, desculpe. Deixe eu te perguntar outra coisa.}
 {225}{}{Interesting. Thanks, and goodbye.}
 {226}{}{Something was desperately wrong with the last batch of Jet that went through town. It crashed
  and burned on take-off. I think I'm through flying. Now, drinking - there's something that you can

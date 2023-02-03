@@ -1,9 +1,9 @@
-{100}{}{You see a thin, nervous-looking man.}
-{101}{}{You see Painless Doc Johnson, Redding's Resident Physician.}
-{102}{}{You see a cadaverous, nervous fellow with bulging eyes.}
-{103}{}{Your head is larger than I would think.}
-{104}{}{Your beetling brow confirms my suspicions.}
-{105}{}{You have a very well developed sagittal crest.}
+{100}{}{Você vê um homem magro e de aparência nervosa.}
+{101}{}{Você vê o Indolor Dr. Johnson, médico residente de Redding.}
+{102}{}{Você vê um sujeito cadavérico e nervoso com olhos esbugalhados.}
+{103}{}{Sua cabeça é maior do que eu pensava.}
+{104}{}{Sua testa franzida confirma minhas suspeitas.}
+{105}{}{Você tem uma crista sagital muito bem desenvolvida.}
 {106}{}{I wonder if it was long exposure to radiation that so reduced your cranial capacity.}
 {107}{}{No food here. Go away!}
 {108}{}{Shoo, shoo!}
