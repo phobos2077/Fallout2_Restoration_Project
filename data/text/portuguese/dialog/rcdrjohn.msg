@@ -4,14 +4,13 @@
 {103}{}{Sua cabeça é maior do que eu pensava.}
 {104}{}{Sua testa franzida confirma minhas suspeitas.}
 {105}{}{Você tem uma crista sagital muito bem desenvolvida.}
-{106}{}{I wonder if it was long exposure to radiation that so reduced your cranial capacity.}
-{107}{}{No food here. Go away!}
-{108}{}{Shoo, shoo!}
-{109}{}{Go back to the wilderness, you savage.}
-{110}{}{If only tribals were as passive as brahmin, they could be just as useful.}
-{111}{}{Looks like you came to the right person. I'm Doc Johnson and I can patch you up.}
-{112}{}{Hello there. You brought your friend to be patched up? I'm Painless Doc Johnson, and I'll
- take care of 'em.}
+{106}{}{Eu me pergunto se foi uma longa exposição à radiação que reduziu tanto sua capacidade craniana.}
+{107}{}{Não tem comida aqui. Vá embora!}
+{108}{}{Xoooo, xoooo, saia!}
+{109}{}{Volte para a selva, selvagem.}
+{110}{}{Se os tribais fossem tão passivos quanto os brahmins, eles poderiam ser tão úteis quanto.}
+{111}{}{Parece que você veio para a pessoa certa. Sou o Dr. Johnson e posso te ajeitar.}
+{112}{}{Olá. Você trouxe seu amigo para ser curado? Sou o Dr. Johnson e cuidarei deles.}
 {113}{}{Looks like you fellers got caught on the short end of the stick. I'm Doc Johnson, and I can
  patch you up if you want.}
 {114}{}{Hello, I'm Doc Johnson, and my professional opinion is that you're looking a mite poorly. Need
