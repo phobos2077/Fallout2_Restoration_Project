@@ -11,46 +11,46 @@
 {110}{}{Se os tribais fossem tão passivos quanto os brahmins, eles poderiam ser tão úteis quanto.}
 {111}{}{Parece que você veio para a pessoa certa. Sou o Dr. Johnson e posso te ajeitar.}
 {112}{}{Olá. Você trouxe seu amigo para ser curado? Sou o Dr. Johnson e cuidarei deles.}
-{113}{}{Looks like you fellers got caught on the short end of the stick. I'm Doc Johnson, and I can
- patch you up if you want.}
-{114}{}{Hello, I'm Doc Johnson, and my professional opinion is that you're looking a mite poorly. Need
- me to fix you up?}
-{115}{}{Hello, I'm Doc Johnson. I'll have to take a closer look at your friend if you want me to fix 'em
- up. They don't look too good.}
-{116}{}{Whatever you fellers caught, I'm sure I can fix it. I'm Doc Johnson.}
-{117}{}{Got yourself all scraped up, huh? Well, let Doc Johnson take a look at that. Easy now, I'm a
- professional.}
-{118}{}{What have you folks been getting yourselves into? Let old Doc Johnson take a look at ya.}
-{119}{}{Thanks, Doc. How much will this cost?}
-{120}{}{I just wanted to try to buy some supplies.}
-{121}{}{I don't need healing right now so much as some answers to some questions.}
-{122}{}{Nice to meet you, but I don't think any healing's needed right now. Thanks anyway, Doc. Goodbye.}
-{123}{}{It's going to cost $50 to patch you up good as new.}
-{124}{}{It'll cost you $50 to have your friend all patched up. Good as new, I guarantee it.}
-{125}{}{Here's your money, Doc.}
-{126}{}{I guess I can't afford that right now. Sorry, Doc; maybe another time.}
-{127}{}{$50, huh? Maybe I'll have that done later. Goodbye, Doc.}
-{128}{}{Tell you what; I'll give you a group rate seeing as how you're all broken up. $100 to patch up
- the lot of you.}
-{129}{}{Here's your money, Doc. Fix us up.}
-{130}{}{I guess we can't afford that right now. Sorry, Doc; maybe another time.}
+{113}{}{Parece que seus amigos foram escolhidos por causa da ponta curta da vareta. Sou o Dr.
+ Johnson e posso te ajeitar se quiser.}
+{114}{}{Olá, sou Dr. Johnson, e minha opinião profissional diz que você está parecendo um pouco mal.
+ Precisa que eu te ajeite?}
+{115}{}{Olá, sou o Dr. Johnson. Terei que dar uma olhada em seu amigo se quiser que ajeite ele. Eles
+ não parecem muito bem.}
+{116}{}{O que quer que vocês tenham pego, tenho certeza que posso consertar. Eu sou o Dr. Johnson.}
+{117}{}{Ficou todo arranhado, hein? Bem, deixe o Dr. Johnson dar uma olhada nisso. Calma agora,
+ eu sou um profissional.}
+{118}{}{No que vocês têm se metido? Deixe o velho Dr. Johnson dar uma olhada em você.}
+{119}{}{Obrigado, doutor. Quanto isso vai custar?}
+{120}{}{Eu só queria comprar alguns suprimentos.}
+{121}{}{Eu não preciso me curem tanto agora, só preciso de algumas respostas.}
+{122}{}{Prazer em conhecê-lo, mas não acho que preciso de cura agora. Obrigado mesmo assim, doutor. Adeus.}
+{123}{}{Vai custar $50 para te remendar como novo.}
+{124}{}{Vai custar $50 para remendar totalmente seu amigo. Vai ficar novinho, eu garanto.}
+{125}{}{Aqui está o seu dinheiro, Dr.}
+{126}{}{Acho que não posso pagar isso agora. Desculpe, doutor; talvez outra hora.}
+{127}{}{$50, eh? Talvez eu faça isso mais tarde. Adeus, doutor.}
+{128}{}{É o seguinte; vou te fazer um preço pelo grupo, visto que vocês estão todos estropiados. $100
+ para ajeitar todos vocês.}
+{129}{}{Aqui está o seu dinheiro, doutor. Nos ajeite.}
+{130}{}{Acho que não podemos pagar isso agora. Desculpe, doutor; talvez outra hora.}
 {131}{}{$100, eh? Talvez façamos isso mais tarde. Adeus, doutor.}
-{132}{}{Looks like you're not doing too well there. I can cure what ails you for $100. You want me to
- try?}
-{133}{}{Your pal's not doing too well. I think I can cure what ails 'em for $100. You want me to try?}
-{134}{}{I hope you can do better than try, Doc. Here's your money.}
-{135}{}{I guess I can't afford that right now. Sorry, Doc; maybe another time.}
-{136}{}{$100, huh? Maybe I'll have that done later. Goodbye, Doc.}
-{137}{}{What a bunch of sick pups. Well, I can try to fix you up and cure what ails you, but it's going
- to cost you $150. Want me to have at it?}
-{138}{}{Yes, please. Here's your money, Doc.}
-{139}{}{We can't afford that right now. Sorry, Doc; maybe another time.}
-{140}{}{$150, huh? Maybe I'll have that done later. Goodbye, Doc.}
-{141}{}{I'd sure like to help you, but you don't have enough to cover your bill. Medical supplies cost
- money.}
-{142}{}{Aww, come on, Doc. We sure need your help.}
-{143}{}{I'll come back when I have more money. Goodbye. }
-{144}{}{Well, okay. I'll do it this once - but you better have the money to pay me next time.}
+{132}{}{Parece que você não está indo muito bem aí. Eu posso ajeitar seus problemas por $100. Você
+ quer que eu tente?}
+{133}{}{Seu amigo não está indo muito bem. Acho que posso ajeitar seus problemas por $100. Você quer que eu tente?}
+{134}{}{Espero que você faça e não só tente, doutor. Aqui está o seu dinheiro.}
+{135}{}{Acho que não posso pagar isso agora. Desculpe, doutor; talvez outra hora.}
+{136}{}{$ 100, eh? Talvez eu faça isso mais tarde. Adeus, doutor.}
+{137}{}{Que bando de cachorros doentes. Bem, posso tentar ajeita-lo e resolver seus problemas, mas
+ vai custar $ 50. Quer que eu faça isso?}
+{138}{}{Sim, por favor. Aqui está o seu dinheiro, doutor.}
+{139}{}{Não podemos pagar isso agora. Desculpe, doutor; talvez outra hora.}
+{140}{}{$150, eh? Talvez eu faça isso mais tarde. Adeus, doutor.}
+{141}{}{Eu gostaria de te ajudar, mas você não tem o suficiente para pagar sua conta. Suprimentos
+ médicos custam dinheiro.}
+{142}{}{Ah, vamos lá, doutor. Com certeza precisamos da sua ajuda.}
+{143}{}{Voltarei quando tiver mais dinheiro. Adeus. }
+{144}{}{Bem, tudo bem. Farei isso uma vez. Mas é melhor você ter dinheiro para me pagar da próxima vez.}
 {145}{}{That worked... once. Just like I told you. This time I need the money. You aren't going to get
  anything in this world for free - my services included.}
 {146}{}{Thanks, Doc. I sure appreciate it. Next time I'll have cash. I promise.}
