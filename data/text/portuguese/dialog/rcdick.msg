@@ -87,13 +87,13 @@
  a Mina Wanamingo, a oeste da cidade, alguns anos atrás.}
 {169}{}{A mina Wanamingo?}
 {170}{}{Muito legal. Bem, é melhor eu ir, velho. Obrigado pela história, adeus.}
-{171}{}{Yup. And the Great Wanamingo was the richest strike in these here parts, too. But now,
- nobody'll go near it. Heck, you could even buy it from Ascorti if you wanted to. But nobody will.}
-{172}{}{Like I was saying. The Great Wanamingo used to be the richest mine around, but now you could buy
- it for a song.}
-{173}{}{I could buy it? Is it worth anything?}
-{174}{}{Who's Ascorti?}
-{175}{}{Sounds too dangerous for me. Goodbye.}
+{171}{}{Sim. E a Grande Wanamingo também era o lugar mais próspero por aqui. Mas agora,
+ ninguém consegue chegar perto dela. Caramba, você pode até comprá-la da Ascorti, se quiser, mas ninguém vai.}
+{172}{}{Como eu estava dizendo. A Grande Wanamingo costumava ser a mina mais rica da região, mas agora
+ você pode comprá-la por uma mixaria.}
+{173}{}{Eu poderia comprar? Vale alguma coisa?}
+{174}{}{Quem é Ascorti?}
+{175}{}{Parece muito perigoso para mim. Adeus.}
 {176}{}{Well, not right now it ain't. Haven't you heard anything I've said? It's filled with them damn
  Wanamingos. But if'n someone was to clean the place out - well that'd be a brahmin of a differ'nt
  color. Heck, you wouldn't even have to kill all of 'em.}
