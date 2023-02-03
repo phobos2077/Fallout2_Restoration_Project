@@ -1,42 +1,41 @@
-{100}{}{You see a warrior.}
-{101}{}{You see Krom, the Head Warrior of the tribe.}
-{102}{}{You see a giant, heavily muscled warrior. His bronze skin carries the scars of countless battles.}
-{200}{}{[This sun bronzed giant looks as if his corded muscles were carved out of granite. Beneath a mane of black hair,
- his smoldering blue eyes pierce into you.] I'm Krom, the head warrior of this tribe. Who are you, and what brings you here?}
-{201}{}{[This sun bronzed giant looks as if his corded muscles were carved out of granite. Beneath a mane of black hair,
- his smoldering blue eyes roam unabashedly over your body.] I'm Krom, the head warrior of this tribe. By the Gods, girl,
- your beauty could drive a man mad.}
+{100}{}{Você vê um guerreiro.}
+{101}{}{Você vê Krom, o Guerreiro Chefe da tribo.}
+{102}{}{Você vê um guerreiro gigante e musculoso. Sua pele de bronze carrega as cicatrizes de inúmeras batalhas.}
+{200}{}{[Este gigante bronzeado pelo sol parece que seus músculos foram esculpidos em granito. Sob uma juba de cabelo
+ preto, seus olhos azuis ardentes perfuram você.] Eu sou Krom, o guerreiro chefe desta tribo. Quem é você e o que o traz aqui?}
+{201}{}{[Este gigante bronzeado pelo sol parece que seus músculos foram esculpidos em granito. Sob uma juba de cabelo
+ preto, seus olhos azuis ardentes vagam descaradamente sobre seu corpo.] Eu sou Krom, o guerreiro chefe desta tribo.
+ Pelos deuses, garota, sua beleza poderia enlouquecer um homem.}
 {202}{}{Eu sou }
-{203}{}{, and I'm on a holy quest to save my village, Arroyo, from certain destruction.}
+{203}{}{, e estou em uma missão sagrada para salvar minha vila, Arroyo, da destruição.}
 {204}{}{Eu sou }
-{205}{}{, and I've been on a holy quest to save my village, Arroyo, from certain destruction. I found what I needed though.}
-{206}{}{I'm a simple wanderer -- nothing more. I'll be moving on now.}
-{207}{}{[Smile.] Thank you, Krom.}
-{208}{}{Thanks, but how 'bout you keep your eyes focused up here. Alright, big guy?}
-{209}{}{Spare me the compliments, alright, creep? I have no intention of sleeping with you. Hell, I don't even want to talk
- with you. Bye.}
-{210}{}{Arroyo, yes, one of the northern tribes. But what of this "certain destruction" you speak of? Your village is well
- fortified by a large canyon, is it not? Surely, you can defend against enemy tribes or raiders.}
-{211}{}{It's not an outside force that threatens us. My tribe is dying from within. We've suffered a terrible drought
- and it seems my village is doomed to wither and die unless I can find the holy GECK in time.}
-{212}{}{It's not an outside force that threatens us. My tribe is dying from within. We've suffered a terrible drought
- and it seems my village is doomed to wither and die unless we make use of the GECK I have found.}
-{220}{}{Ah, a Garden of Eden Creation Kit, I've read of them in the old texts. [He smiles grimly.] It's unfortunate
- that your tribe has fallen on hard times, but it's foolish to place all your hope on finding some "magical artifact"
- from before the Great Silence. Are you sure your tribe didn't send you on a fool's errand simply to be rid of you?}
-{221}{}{Ah, a Garden of Eden Creation Kit, I've read of them in the old texts. [He smiles grimly.] It's unfortunate
- that your tribe has fallen on hard times, but it's foolish to place all your hope on finding some "magical artifact"
- from before the Great Silence. How can you be so sure the device you found will save your people?}
-{222}{}{Of course not. I successfully conquered the Temple of Trials and earned the highly respected title of the Chosen One.
- That's why I've been given this quest -- because I've proved myself to be the most qualified. Now, what have you read of the
- GECK?}
-{223}{}{Are you trying to insult me? I'll have you know I'm the Chosen One. Apologize, or I'll put you in your place.}
-{224}{}{I don't know for certain, but I've risked too much to stop now. I will do whatever it takes to save my tribe no
- matter how insane and dangerous it might sound.}
-{230}{}{[He dismissively shrugs his mighty shoulders.] Just another of the Old One's lazy scientific baubles, meant to
- replace the tried and true method of Man toiling against the unforgiving Earth -- forging his own existence though sweat
- and blood. But if you truly believe such a device is your only hope, then I suggest you seek out the Old One's underground Vaults.
- I've traveled far and wide, but I've never found one myself. But then, I wasn't exactly looking.}
+{205}{}{, e estou em uma missão sagrada para salvar minha vila, Arroyo, da destruição. Mas eu encontrei o que precisava.}
+{206}{}{Sou um simples andarilho, nada mais. Eu vou seguir em frente agora.}
+{207}{}{[Sorriso.] Obrigada, Krom.}
+{208}{}{Obrigada, mas que tal você manter seus olhos focados aqui em cima. Tudo bem, grandão?}
+{209}{}{Me poupe dos elogios, está bem, canalha? Não tenho intenção em dormir com você. Inferno, eu nem quero falar
+ com você. Tchau.}
+{210}{}{Arroyo, sim, uma das tribos do norte. Mas e essa "destruição" de que você fala? Sua aldeia é bem fortificada por
+ um grande desfiladeiro, não é? Certamente, você pode se defender contra tribos ou invasores inimigos.}
+{211}{}{Não é uma força externa que nos ameaça, minha tribo está morrendo por dentro. Sofremos uma seca terrível
+ e parece que minha aldeia está condenada a apodrecer e morrer, a menos que eu encontre o sagrado GECK a tempo.}
+{212}{}{Não é uma força externa que nos ameaça, minha tribo está morrendo por dentro. Sofremos uma seca terrível
+ e parece que minha aldeia está condenada a apodrecer e morrer, a menos que usemos o sagrado GECK que eu achei.}
+{220}{}{Ah, um Kit de Criação do Jardim do Éden, li sobre eles nos textos antigos. [Ele sorri sombriamente.]
+ É lamentável que sua tribo tenha passado por tempos difíceis, mas é tolice colocar toda a sua esperança em
+ encontrar algum "artefato mágico" antes do Grande Silêncio. Tem certeza de que sua tribo não o enviou em uma missão tola simplesmente para se livrar de você?}
+{221}{}{Ah, um Kit de Criação do Jardim do Éden, li sobre eles nos textos antigos. [Ele sorri sombriamente.] É
+ lamentável que sua tribo tenha passado por tempos difíceis, mas é tolice colocar toda a sua esperança em encontrar
+ algum "artefato mágico" antes do Grande Silêncio. Como você pode ter certeza de que o dispositivo que encontrou salvará seu povo?}
+{222}{}{Claro que não. Conquistei com sucesso o Templo das Provações e ganhei o título altamente respeitado de Escolhido.
+ É por isso que recebi esta missão, porque provei que sou o mais qualificado. Agora, o que você leu sobre o GECK?}
+{223}{}{Você está tentando me insultar? Quero que saiba que sou o Escolhido. Peça desculpas, ou te coloco no lugar.}
+{224}{}{Não sei ao certo, mas arrisquei muito para parar agora. Farei o que for preciso para salvar minha tribo, não
+ importa o quão insano e perigoso possa parecer.}
+{230}{}{[Ele dá de ombros com desdém.] Apenas mais uma das bugigangas científicas preguiçosas antigas, destinadas
+ a substituir o método testado e verdadeiro do homem labutando contra a implacável terra - forjando sua própria existência
+ por meio de suor e sangue. Mas se você realmente acredita que tal dispositivo é sua única esperança, sugiro que procure os Vaults
+ subterrâneos do Ancião. Eu viajei por toda parte, mas nunca encontrei um para mim. Mas eu não estava exatamente procurando.}
 {231}{}{A anciã da minha aldeia tem certeza de que encontrar o GECK é a melhor chance que temos. É para isso que me
  incumbiram, então é isso que pretendo fazer. De qualquer forma, obrigado pela dica.}
 {232}{}{Procura uma Vault, você diz? Uau, isso é *ótimo* conselho, se eu soubesse disso antes. Muito obrigado pela
@@ -49,34 +48,34 @@
 {242}{}{Tudo bem, tudo bem, estou indo.}
 {243}{}{Ninguém me ameaça, idiota!}
 {244}{}{Você que se foda, estou indo embora. Tchau.}
-{245}{}{No one touches me, asshole! [Attack.]}
-{246}{}{If you keep your hands to yourself, then I just *might* consider helping.}
-{247}{}{That all depends. [Smile seductively.] What have you got in mind, big guy? [Wink.]}
-{250}{}{I'm well versed in the art of sarcasm. Go take your smart tongue elsewhere before I rip it from your mouth.}
+{245}{}{Ninguém me toca, idiota! [Ataque.]}
+{246}{}{Se você mantiver suas mãos no seu lugar, então eu *poderia* considerar ajudar.}
+{247}{}{Isso tudo depende. [Sorri sedutoramente.] O que você tem em mente, garotão? [Piscadela.]}
+{250}{}{Sou bem versado na arte do sarcasmo. Vá levar sua língua esperta para outro lugar antes que eu a arranque de sua boca.}
 {251}{}{Tudo bem, tudo bem, estou indo.}
 {252}{}{Ninguém me ameaça, idiota!}
-{260}{}{You're a stubborn one. By the Gods, I think I could get to like you. [He grins and slaps you on the back with a
- hand that seems capable of crushing boulders.] While you're here, perhaps you could assist us with a thing or two. What
- do you say?}
-{261}{}{You're a stubborn one. By the Gods, I think I could get to like you, girl. [He grins and slaps you on the rear
- with a hand that seems capable of crushing boulders.] While you're here, perhaps you could assist us with a thing or two.
- What do you say?}
-{262}{}{Sure, I suppose I could help out a bit before I go. What would you like me to do?}
-{263}{}{Sorry, but I just don't have the time. In fact, I should really be moving along now. Bye.}
-{264}{}{Sure, I suppose I could help out a bit before I go. What would you like me to do?}
-{265}{}{If you keep your hands to yourself, then I just *might* consider helping.}
-{266}{}{Sorry, but I just don't have the time. In fact, I should really be moving along now. Bye.}
-{267}{}{No one touches me, asshole! [Attack.]}
-{268}{}{That all depends. [Smile seductively.] What have you got in mind, big guy? [Wink.]}
-{270}{}{[He grins wolfishly. Despite his scarred and rough appearance, he possesses a rugged handsomeness.] Tell me, girl,
- what's your name, and what brings you to our village?}
-{280}{}{[Gladly. [He looks into your eyes and grins wolfishly. Despite his scarred and rough appearance, he possesses a rugged handsomeness.]
- Tell me, girl, what's your name, and what brings you to our village?}
-{290}{}{[Krom gives a wolfish grin, then takes you into his mighty arms.]}
-{291}{}{[Get to it.]}
-{292}{}{Whoa! Let me go, you got the wrong idea!}
-{300}{}{To hell with you, temptress! Go bring your teasing elsewhere. I have no time to waste on you.}
-{301}{}{Yeah, well fuck you too. Bye.}
+{260}{}{Você é teimoso. Pelos deuses, acho que poderia gostar de você. [Ele sorri e dá um tapa nas suas costas com
+ uma mão que parece capaz de esmagar pedras.] Enquanto você estiver aqui, talvez você possa nos ajudar com uma coisa
+ ou outra. O que você diz?}
+{261}{}{Você é teimosa. Pelos deuses, acho que poderia gostar de você, garota. [Ele sorri e dá um tapa no seu
+ traseiro com uma mão que parece capaz de esmagar pedras.] Enquanto você estiver aqui, talvez possa nos ajudar com uma
+ coisa ou outra. O que você disse?}
+{262}{}{Claro, acho que posso ajudar um pouco antes de ir. O que você gostaria que eu fizesse?}
+{263}{}{Desculpe, mas simplesmente não tenho tempo. Na verdade, eu realmente deveria estar seguindo meu caminho agora. Tchau.}
+{264}{}{Claro, acho que posso ajudar um pouco antes de ir. O que você gostaria que eu fizesse?}
+{265}{}{Se você mantiver suas mãos no seu lugar, então eu *poderia* considerar ajudar.}
+{266}{}{Desculpe, mas simplesmente não tenho tempo. Na verdade, eu realmente deveria estar seguindo meu caminho agora. Tchau.}
+{267}{}{Ninguém me toca, idiota! [Ataque.]}
+{268}{}{Isso tudo depende. [Sorri sedutoramente.] O que você tem em mente, garotão? [Piscadela.]}
+{270}{}{[Ele sorri como um lobo. Apesar de sua aparência áspera e cheia de cicatrizes, ele possui uma beleza robusta.] Me diga,
+ garota, qual é o seu nome e o que a traz à nossa aldeia?}
+{280}{}{[Com prazer. [Ele olha em seus olhos e sorri como um lobo. Apesar de sua aparência áspera e cheia de cicatrizes, ele possui uma beleza robusta.] Me diga,
+ garota, qual é o seu nome e o que a traz à nossa aldeia?}
+{290}{}{[Krom dá um sorriso de lobo, então leva você em seus braços poderosos.]}
+{291}{}{[Vem até ela.]}
+{292}{}{Hey! Me deixe ir, você entendeu errado!}
+{300}{}{Va para o inferno, sedutora! Vá trazer sua provocação para outro lugar. Não tenho tempo para perder com você.}
+{301}{}{Sim, foda-se você também. Tchau.}
 {302}{}{Seja o que for. Tchau.}
 {310}{}{[Several hours pass by in a haze of sweaty, brutal passion. Finally, you lay on the floor of Krom's hut, exhausted.
  Krom lies at your side, his eyes devouring the contours of your body.] By the Gods, girl, you're incredible!}

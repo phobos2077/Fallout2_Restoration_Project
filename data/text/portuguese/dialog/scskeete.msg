@@ -34,51 +34,51 @@
 {133}{}{Bom. Cala boca.}
 {134}{}{Se você não tem dinheiro, saia daqui! Eu tenho coisas muito mais importantes para fazer.}
 {135}{}{Ei cara, Doofus te avisou.}
-{136}{}{Fuck you. I am not answering your questions.}
+{136}{}{Foda-se. Eu não estou respondendo suas perguntas.}
 {137}{}{O que é este lugar?}
 {138}{}{Adeus.}
 {139}{}{Tchau-tchau.}
-{140}{}{Whoa, thought communication! I'm picking up mental vibes! Okay, let me try... uhhh.... Uhhh...}
+{140}{}{Uau, pensamento de comunicação! Estou captando vibrações mentais! Ok, vou tentar... uhhh.... Uhhh...}
 {141}{}{Sim?}
 {142}{}{No?}
-{143}{}{You are a goddamn head case! I'm out of here.}
-{144}{}{This is the NCR - the high, mighty, righteous, absolutely and always correct New California Republic. They are the ones who will lead people like us out of the wasteland and into the new and perfect future. Can you dig it?}
-{145}{}{Let's get this business finished.}
-{146}{}{Yeah, thanks. Goodbye.}
+{143}{}{Você é um louco do caralho! Eu vou sair daqui.}
+{144}{}{Esta é a NCR - a alta, poderosa, justa, absoluta e sempre correta República da Nova Califórnia. São eles que conduzirão pessoas como nós para fora do deserto e para um futuro novo e perfeito. Você entendeu?}
+{145}{}{Vamos terminar esse negócio.}
+{146}{}{Sim, obrigado. Adeus.}
 {147}{}{Gurg, ladal spaf!}
 {148}{}{TAK!}
 {149}{}{Doof? Ganya kulk zar!}
-{150}{}{Right - obey the giant, man. It's the way things are supposed to be. What should I do, giant?}
-{151}{}{Man that's a lot. Giant, I'm Doofus and I'm a car hop and I'm supposed to watch cars that people bring here, but, you know, I got this... thing, see, and sometimes I need a little extra money and stuff, see?}
-{152}{}{Yeah, right. So like sometimes I'm a little short and I got my needs, understand, like when I start feeling sick, so I gotta score me some caps or something, so I'll go talk to Merk.}
-{153}{}{Man, Merk's the man. He's got action and stuff. Sometimes he'll let me get sleep at the Rawhide after closing. But then he wants me to do little favors.}
-{154}{}{I'm getting to that - wow, the colors, man! Merk he sometimes wants stuff from cars I watch. But I fool him!}
-{155}{}{See I only take from the cars I ain't paid to watch. He thinks I'm jacking my customers, but I don't do that. Man, I got to quit talking. I'm like seeing things... oh, man, the glow. It's all about glowing.}
-{156}{}{Give me all your stuff.}
-{157}{}{Tell me what you know.}
-{158}{}{That's enough, I can't take any more.}
-{159}{}{Oh, just shut up you dumb shit!}
+{150}{}{Certo, obedeça ao gigante, cara. É assim que as coisas devem ser. O que devo fazer, gigante?}
+{151}{}{Cara, é muito. Gigante, eu sou o Doofus e sou que deve vigiar os carros que as pessoas trazem para cá, mas, você sabe, eu tenho essa... coisa, veja, e às vezes eu preciso de um pouco de dinheiro extra e coisas, viu?}
+{152}{}{Okay, certo. Então, às vezes, fico um pouco baixo e tenho minhas necessidades, entenda, como quando começo a me sentir mal, então tenho que conseguir algumas tampas e tudo mais, então vou falar com Merk.}
+{153}{}{Cara, Merk é o cara. Ele tem tudo que você precisa. Às vezes ele me deixa dormir no Rawhide depois de fechar. Mas então ele quer que eu faça pequenos favores.}
+{154}{}{Estou chegando lá... uau, as cores, cara! Merk, ele às vezes quer coisas dos carros que vigio. Mas eu o engano!}
+{155}{}{Olha, eu só tiro dos carros que não sou pago para vigiar. Ele acha que estou roubando meus clientes, mas não faço isso. Cara, tenho que parar de falar. Eu gosto de ver coisas... oh, cara, é o brilho. É tudo uma questão de brilhar.}
+{156}{}{Me de todas as suas coisas.}
+{157}{}{Me diga o que você sabe.}
+{158}{}{Já chega, não aguento mais.}
+{159}{}{Ah, cala a boca seu idiota!}
 {160}{}{Tchau-tchau.}
-{161}{}{Oh, you know. Sometimes I hear things. I hear a lot; can't always remember it right.}
-{162}{}{$50 bucks says you remember it right.}
-{163}{}{Remember or I blow your fucking head off.}
-{164}{}{Screw this. I don't have time to waste with a junkie.}
-{165}{}{That's right, man. Go see Merk. He's always got things that need doing.}
-{166}{}{Go bye-bye!}
-{167}{}{Oh man, you blew it! Merk's not going to be happy when he hears this.}
+{161}{}{Ah, voce sabe. Às vezes eu ouço coisas. Eu ouço muito; nem sempre consigo me lembrar direito.}
+{162}{}{$50 dólares dizem que você se lembra bem.}
+{163}{}{Trate de se lembrar ou eu estouro essa cabeça estupida.}
+{164}{}{Foda-se isso. Não posso perder tempo com um drogado.}
+{165}{}{Isso mesmo, cara, vá ver Merk. Ele sempre tem coisas que precisam ser feitas.}
+{166}{}{Vou, tchau!}
+{167}{}{Cara, você estragou tudo! Merk não vai ficar feliz quando ouvir isso.}
 {168}{}{Tchau seu nóia. }
-{169}{}{Okay! Look, it was Merk's crew. They were jacking cars last night. Ask around and you might find them.}
-{170}{}{You lie, me kill.}
-{171}{}{Don't be lying. I'll be back if you are.}
-{172}{}{Sure. You've got me terrified.}
-{173}{}{$50 bucks says you remember it right.}
-{174}{}{Bite me, little man.}
-{175}{}{Bite me. I'm out of here.}
-{176}{}{Need a car watched? No problem. I can do that.}
-{177}{}{Yeah, I WatCH cars, yeah, CARS... CARS..yeah, cars...!}
-{178}{}{LA LA LA LA CARS, hey gimme a Car and I'LL WATCH IT..}
-{179}{}{WATCH watch watch WATCH watch WATch WHHAATCH watch}
-{180}{}{Wrote a song about it, wanna hear it? Here it goes...}
+{169}{}{Ok! Olha, era a equipe de Merk. Eles estavam roubando carros ontem à noite. Pergunte ao redor e você pode encontrá-los.}
+{170}{}{Voce mente, eu mato.}
+{171}{}{É bom não mentir. Eu voltarei se descobrir.}
+{172}{}{Certo. Você me deixou apavorado.}
+{173}{}{$50 dólares dizem que você se lembra bem.}
+{174}{}{Foda-se, idiota.}
+{175}{}{Foda-se. Vou sair daqui.}
+{176}{}{Precisa que alguem vigie o carro? Sem problemas, eu posso fazer isso.}
+{177}{}{Sim, eu vigio carros, sim, CARROS... CARROS..sim, carros...!}
+{178}{}{LA LA LA LA CARROS, ei, me dê um carro e eu vou vigiar..}
+{179}{}{VIGIAR vigiar vigiar VIGIAR vigiar VIGIAR VIGIAAAAAR vigiar}
+{180}{}{Escrevi uma música sobre isso, quer ouvir? Aqui vai...}
 {181}{}{Cars CARRS CARS Cars KARS KKKARS Cars CATS}
 {182}{}{Kats?! Yeah, I can watch cats too. Anyone have a CAT!!}
 {183}{}{I LIKE CATS THE WORD SOUNDS LIKE CAR AND THATS WHAT I WATCH!}

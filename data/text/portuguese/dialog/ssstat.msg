@@ -1,1 +1,1 @@
-{100}{}{There's a plaque at the base. It reads, "To the Stranger and Vault 13: What doesn't exist, we must sometimes dream and let our dreams inspire us to greater heights. So it was with the Stranger and his belief in the legend of Vault 13.}
+{100}{}{Tem uma placa na base. Diz: "Para o Estranho e a Vault 13: O que não existe, às vezes devemos sonhar e deixar nossos sonhos nos inspirarem a alturas maiores. Assim foi com o Estranho e sua crença na lenda da Vault 13.}

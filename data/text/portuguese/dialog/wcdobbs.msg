@@ -8,20 +8,20 @@
 {107}{}{Adeus.}
 {108}{}{I was in a battle. Yes, a battle. There was gunfire and explosions everywhere. People dying. I was scared but I had to keep on fighting. Then there was this blinding flash.}
 {109}{}{What happened next?}
-{110}{}{Bye,}
-{111}{}{The next thing I remember was seeing my body as if I was looking down at it from above. I heard the doctors say I was dead and then they threw my body onto a pile of other bodies.}
-{112}{}{And then what?}
+{110}{}{Tchau,}
+{111}{}{A próxima coisa de que me lembro foi de ver meu corpo como se estivesse olhando para ele de cima. Ouvi os médicos dizerem que eu estava morto e então jogaram meu corpo em uma pilha de outros corpos.}
+{112}{}{E depois?}
 {113}{}{Adeus.}
-{114}{}{Some men came by and took my body to a laboratory. I heard them say something about trying to regenerate my body by immersing it in something called Biomed Gel.}
-{115}{}{What else?}
+{114}{}{Alguns homens passaram e levaram meu corpo para um laboratório. Eu os ouvi dizer algo sobre tentar regenerar meu corpo imergindo em algo chamado Gel Biomédico.}
+{115}{}{O que mais?}
 {116}{}{Adeus.}
-{117}{}{And then I woke up here. I have to go! I have to get back to my unit.}
+{117}{}{E então eu acordei aqui. Eu tenho que ir! Tenho que voltar para minha unidade.}
 {118}{}{Adeus.}
 {200}{}{Onde estou?}
-{201}{}{My head hurts.}
-{202}{}{Why am I covered in goo?}
-{300}{}{I have to rejoin my unit.}
-{301}{}{Oh no! I'm AWOL!}
-{302}{}{Which way to the front line?}
+{201}{}{Minha cabeça doi.}
+{202}{}{Por que estou coberto de gosma?}
+{300}{}{Tenho de voltar à minha unidade.}
+{301}{}{Oh não! Estou AUSENTE!}
+{302}{}{Qual caminho para a linha de frente?}
 {303}{}{This is for you, Jonny.}
 {400}{}{Private Dobbs experiences Post-Cryogenic Syndrome.}

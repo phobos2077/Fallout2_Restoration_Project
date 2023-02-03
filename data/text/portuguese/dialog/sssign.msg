@@ -24,7 +24,7 @@
 {123}{}{(Back)}
 {124}{}{I've read enough of this.}
 {125}{}{Teaching these guys some respect is gaining priority on your list of things to do.}
-{126}{}{It's a little blunt, but it does get the point across.}
+{126}{}{É um pouco contundente, mas dá conta do recado.}
 {127}{}{(Back)}
 {128}{}{I've read enough of this.}
-{130}{}{My head hurt. Too much readie.}
+{130}{}{Minha cabeça dói. Leitura demais.}
