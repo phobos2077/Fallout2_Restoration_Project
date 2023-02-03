@@ -42,18 +42,18 @@
 {135}{}{What can the Madame do for you?}
 {136}{}{What do you do here Madame Modjeska?}
 {137}{}{Looks as though a lot of people here are drug-users. What's going on in town lately?}
-{138}{}{Hear any interesting rumors?}
+{138}{}{Ouviu algum boato interessante?}
 {139}{}{Why do they call you Madame Modjeska?}
 {140}{}{Qual é o problema com você?}
-{141}{}{What happened to you?}
+{141}{}{O que aconteceu com você?}
 {142}{}{Lately, I don't do much at all. I used to run part of Lou's operation at the Malamute Saloon -
  but we had a falling out, so I quit.}
 {143}{}{Deixa eu te perguntar outra coisa, então.}
-{144}{}{I understand. Well, that's all I needed to know. Goodbye.}
+{144}{}{Eu entendo. Bem, isso é tudo que eu precisava saber. Adeus.}
 {145}{}{All I hear about are politics. That always seems to be the big stir in discussion.}
 {146}{}{Politics? What do you mean?}
-{147}{}{Of course. Let me ask you about something else.}
-{148}{}{Well, that's all I needed to know. Goodbye.}
+{147}{}{É claro. Deixe eu te perguntar sobre outra coisa.}
+{148}{}{Bem, isso é tudo que eu precisava saber. Adeus.}
 {149}{}{I used to work in the Malamute Saloon. As part of that job, people called me Madame. The name
  just stuck, even though I don't work there any more.}
 {150}{}{Where do you work now?}
@@ -61,18 +61,18 @@
 {152}{}{Acho que é tudo que preciso saber. Adeus.}
 {153}{}{I flew a bit of Jet a few days back and it made me feel quite unwell. Must have been a tainted
  batch. I 'm not eager to try that again. Oh well, back to the bottle, I suppose.}
-{154}{}{Sounds bad. Let me ask you something else, then.}
-{155}{}{I understand. Well, that's all I needed to know. Goodbye.}
+{154}{}{Parece ruim. Deixe eu te perguntar outra coisa, então.}
+{155}{}{Eu entendo. Bem, isso é tudo que eu precisava saber. Adeus.}
 {156}{}{I feel better than I look. Not by much, but enough.}
-{157}{}{What do you mean? What happened?}
+{157}{}{O que você quer dizer? O que aconteceu?}
 {158}{}{Have you ever seen a greased brahmin contest?}
 {159}{}{Sure I have. Uh, plenty of times. Let me ask you something else.}
-{160}{}{Nope, never heard of anything like that. Tell me about them.}
+{160}{}{Não, nunca ouvi falar de nada parecido. me conte sobre eles.}
 {161}{}{I don't know what that has to do with local politics, and I don't think I want to know. Goodbye.}
 {162}{}{After that last tainted batch of Jet, I've sworn off the stuff. Maybe when I feel better I'll
  get drunk instead. (she laughs)}
-{163}{}{Well, good for you, I guess. Let me ask you something.}
-{164}{}{Interesting. Well, I'll leave you to your recovery. Goodbye.}
+{163}{}{Ta, bom para você, eu acho. Deixe eu te perguntar algo.}
+{164}{}{Interessante. Bem, vou te deixar com sua recuperação. Adeus.}
 {165}{}{What they do is grease up a brahmin calf, and then everyone in the crowd tries to catch the
  calf. If you can't catch it yourself, you make damn sure nobody else can, either.}
 {166}{}{I don't see what that has to do with politics.}

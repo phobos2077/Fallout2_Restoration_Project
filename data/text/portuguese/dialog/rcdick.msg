@@ -26,67 +26,67 @@
 {122}{}{Deixe-me perguntar-lhe algo mais.}
 {123}{}{Jet? O que é Jet?}
 {124}{}{Entendo, adeus.}
-{125}{}{I don't know what happened, but most everyone gave up on Jet after that last batch. I felt like
- we were going to fly Jet to that big airport in the sky. Nobody has much interest in takin' it no more.
- Jist the idea makes us sick.}
+{125}{}{Não sei o que aconteceu, mas quase todo mundo desistiu de jet depois daquele último lote. Eu
+ senti como se todo mundo estivesse indo de avião para aquele grande aeroporto no céu. Ninguém
+ ficou com interesse em tomar mais uma vez, só a ideia ja enjoa.}
 {126}{}{Deixe-me perguntar-lhe algo mais.}
 {127}{}{Jet? O que é Jet?}
 {128}{}{Entendo, adeus.}
-{129}{}{Howdy. My name's Athabaska Dick. Mostly people just call me Dick. 'Course, there's some what
- calls me Athabaska. Mostly they just call me Dick, though.}
-{130}{}{Hey there. What can old Athabaska Dick do you for?}
-{131}{}{Got to hurry. Faster, faster! Well? What are you waiting for? If you want to talk to Athabaska
- Dick you need to talk quicker'n that.}
-{132}{}{Wha', what do you want? Cain'tcha see I'm busy. (mutters to himself) must stay busy all the
- time... busy... busy...}
-{133}{}{(groans) What do you want of old Athabaska Dick? (to himself) I feel like I been kicked in the
- head by a mule.}
-{134}{}{I'm feelin' mighty poorly. Whatcha wanna bother ole Dick with?}
-{135}{}{Hello, my name's Athabaska Dick. I used to spend all my time taking Jet. But I'm not doing that
- shit anymore.}
-{136}{}{I ain't never felt so washed up and raggedy in all my born days.}
-{137}{}{Dick, what do you do here?}
+{129}{}{Olá, meu nome é Athabaska Dick. A maioria das pessoas me chama de Dick. Claro, tem que me
+ chamam de Athabaska. Mas na maioria das vezes eles me chamam de Dick mesmo.}
+{130}{}{Ei. O que o velho Athabaska Dick pode fazer por você?}
+{131}{}{Tem que se apressar. Rápido, vamos! Nós iremos? O que está esperando? Se você quiser falar
+ com Athabaska Dick, você precisa falar mais rápido.}
+{132}{}{O que você quer? Não esta vendo que estou ocupado. (murmura para si mesmo) devo ficar
+ ocupado o tempo todo... ocupado... muito ocupado...}
+{133}{}{(grunhidos) O que você quer do velho Athabaska Dick? (para si mesmo) Sinto como se tivesse
+ levado um coice de mula na cabeça.}
+{134}{}{Estou me sentindo muito mal. Com o que você quer incomodar o velho Dick?}
+{135}{}{Olá, meu nome é Athabaska Dick. Eu costumava passar todo o meu tempo tomando jet. Mas eu
+ não estou mais fazendo essa merda.}
+{136}{}{Nunca me senti tão desgastado e cansado em todos os meus dias desde que nasci.}
+{137}{}{Dick, o que você faz aqui?}
 {138}{}{Ei Dick... o que está acontecendo na cidade ultimamente?}
-{139}{}{Hear any interesting rumors?}
-{140}{}{What's At-the-basket mean?}
+{139}{}{Ouviu algum boato interessante?}
+{140}{}{O que quer dizer com "Al Tabasco"?}
 {141}{}{Qual é o problema com você?}
-{142}{}{What happened to you?}
-{143}{}{I work a spell now and then here at the Morningstar. They can always use experienced help.}
+{142}{}{O que aconteceu com você?}
+{143}{}{De vez em quando, trabalho uma temporada no Morningstar. Eles sempre costumam pegar uma ajuda mais experiente.}
 {144}{}{Deixa eu te perguntar outra coisa, então.}
-{145}{}{I understand. Well, that's all I needed to know. Goodbye.}
-{146}{}{Well, not much lately except about them goll-dang Wanamingos.}
-{147}{}{Want-a-mongols? What the heck is that?}
-{148}{}{Of course. Let me ask you about something else.}
-{149}{}{Well, that's all I needed to know. Goodbye.}
-{150}{}{Atha-baska, Athabaska. That's not so dang hard to say, is it? Criminy. That's just my nickname.
- Do you really want to know how I got my nickname?}
-{151}{}{Uh, not really. Let me ask you something else.}
+{145}{}{Eu entendo. Bem, isso é tudo que eu precisava saber. Adeus.}
+{146}{}{Bem, nada ultimamente, exceto sobre aqueles malditos Wanamingos.}
+{147}{}{Quer-um-mongóis? Que raio é isso?}
+{148}{}{É claro. Deixe eu te perguntar sobre outra coisa.}
+{149}{}{Bem, isso é tudo que eu precisava saber. Adeus.}
+{150}{}{Atha-baska, Athabaska. Isso não é tão difícil de dizer, é? Esse é só o meu apelido. Esta interessado
+ em saber como eu ganhei meu apelido?}
+{151}{}{Na verdade não. Deixe eu te perguntar sobre outra coisa.}
 {152}{}{Acho que é tudo que preciso saber. Adeus.}
-{153}{}{Key-rist! I'm sicker 'an a dog and I've been yelling at my feet for days now... ever since I had
- that last hit of Jet. Something must've gone bad with that batch. If'n I survive this, I ain't never
- gonna have Jet again.}
-{154}{}{Sounds bad. Let me ask you something else, then.}
-{155}{}{I understand. Well, that's all I needed to know. Goodbye.}
-{156}{}{I did it. Don't feel real great about it, yet. But I reckon that I'll be better off for it.}
-{157}{}{What do you mean? What happened?}
-{158}{}{You're tellin' me you ain't never heard of the Wanamingos?}
-{159}{}{Uh, well, um. Sure I've heard about the Wanamingos. Let me ask you something else.}
-{160}{}{Nope, never heard of anything like that. Tell me about them.}
-{161}{}{I've never heard about Wana-whatchamacallits, and I don't have time to waste on your fairytale
- now. Goodbye.}
-{162}{}{I kicked the habit - that's what happened. I ain't never having Jet again. That last batch
- nearly killed me. I found I didn't want it so much after that. I ain't wanted none since.}
-{163}{}{Well, good for you, I guess. Let me ask you something.}
-{164}{}{Interesting. Well, I'll leave you to your recovery. Goodbye.}
-{165}{}{Well, some say they were here before the A-bombs, H-bombs, and all-what-else hit. Others say
- they were jean-eti-cally injuneered as weapons. An' then there's some what says that they're from a
- whole differ'nt planet. }
-{166}{}{What are *they*? Who cares where they came from, just tell me what *they* are.}
-{167}{}{Yeah, sure. I've heard enough, old-timer. Goodbye.}
-{168}{}{Well, I don't rightly know what they are 'zactly. But I kin tell you this: they shut down the
- Wanamingo Mine just west of town a few years back.}
-{169}{}{The Wanamingo mine?}
-{170}{}{That's nice. Well, I better be going, old-timer. Thanks for the story. Goodbye.}
+{153}{}{Que merda! Estou mais doente que um cachorro e fico gemendo há dias... desde que tomei
+ essa última dose de Jet. Esse último lote deve ter saido mal. Se eu sobreviver a isso, nunca mais
+ tomarei jet.}
+{154}{}{Parece ruim. Deixe eu te perguntar outra coisa, então.}
+{155}{}{Eu entendo. Bem, isso é tudo que eu precisava saber. Adeus.}
+{156}{}{Eu fiz. Ainda não me sinto muito bem com isso. Mas acho que vou ficar melhor.}
+{157}{}{O que você quer dizer? O que aconteceu?}
+{158}{}{Você está me dizendo que nunca ouviu falar dos Wanamingos?}
+{159}{}{Bem, hum. Claro que já ouvi falar dos Wanamingos. Deixe eu te perguntar outra coisa.}
+{160}{}{Não, nunca ouvi falar de nada parecido. me conte sobre eles.}
+{161}{}{Nunca ouvi falar de "Anal-de-amigos" e não tenho tempo para perder com seu conto de fadas agora.
+ Adeus.}
+{162}{}{Larguei o vicio, foi o que aconteceu, nunca mais vou tomar jet. Esse último lote quase
+ me matou. Descobri que não queria tanto depois disso, não quis mais nenhum depois disso.}
+{163}{}{Ta, bom para você, eu acho. Deixe eu te perguntar algo.}
+{164}{}{Interessante. Bem, vou te deixar com sua recuperação. Adeus.}
+{165}{}{Bem, alguns dizem que eles estavam aqui antes das bombas atômicas, bombas H e tudo mais.
+ Outros dizem que eles foram geneticamente manipulados para serem armas. E tem alguns que dizem
+ que eles são de um planeta totalmente diferente. }
+{166}{}{O que eles *são*? Quem se importa de onde eles vieram, apenas me diga o que *eles* são.}
+{167}{}{Sim, claro. Já ouvi o suficiente, velho. Adeus.}
+{168}{}{Bem, eu não sei exatamente o que eles são. Mas posso te dizer uma coisa: eles fecharam
+ a Mina Wanamingo, a oeste da cidade, alguns anos atrás.}
+{169}{}{A mina Wanamingo?}
+{170}{}{Muito legal. Bem, é melhor eu ir, velho. Obrigado pela história, adeus.}
 {171}{}{Yup. And the Great Wanamingo was the richest strike in these here parts, too. But now,
  nobody'll go near it. Heck, you could even buy it from Ascorti if you wanted to. But nobody will.}
 {172}{}{Like I was saying. The Great Wanamingo used to be the richest mine around, but now you could buy

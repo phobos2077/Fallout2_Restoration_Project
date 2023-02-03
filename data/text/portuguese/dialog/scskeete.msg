@@ -28,12 +28,12 @@
 {127}{}{Whoa, man, I warned you. Bad place. Bad folks around here. Heard stuff from your transport got jacked.}
 {128}{}{Brak?}
 {129}{}{How did you know?}
-{130}{}{Great. Thanks. Fine.}
-{131}{}{Doofus will perform, man. Not even a fly is gonna land his shit on your au-to-mo-bile!}
+{130}{}{Excelente, obrigado. Bem.}
+{131}{}{Doofus fará isso, amigo. Nem uma mosca vai jogar merda no seu au-to-mo-vel!}
 {132}{}{O que é este lugar?}
-{133}{}{Good. Shut up.}
-{134}{}{If you ain't got the jack, just get the fuck out of here! I got important things to do.}
-{135}{}{Hey man, Doofus warned you.}
+{133}{}{Bom. Cala boca.}
+{134}{}{Se você não tem dinheiro, saia daqui! Eu tenho coisas muito mais importantes para fazer.}
+{135}{}{Ei cara, Doofus te avisou.}
 {136}{}{Fuck you. I am not answering your questions.}
 {137}{}{O que é este lugar?}
 {138}{}{Adeus.}
