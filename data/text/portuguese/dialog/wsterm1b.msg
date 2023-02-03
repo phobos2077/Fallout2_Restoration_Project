@@ -29,43 +29,43 @@
 {114}{}{Execute o programa de autodiagnóstico.}
 {115}{}{Sair}
 {116}{}{Arg! [Você bate seu punho no teclado frustrado]}
-{118}{}{Skynet Security Systems
-                                          Access to this terminal is denied.}
+{118}{}{Sistemas de Segurança Skynet
+                                                    O acesso a este terminal é negado.}
 {120}{}{Sair}
-{122}{}{Error 29
-                                                             Unable to contact server
-                                           Please reboot}
+{122}{}{Erro 29
+                                                                            Incapaz de contactar o servidor
+                                                      Por favor reinicie}
 {124}{}{Sair}
-{125}{}{Analyzing Command Please Wait..
-                                    Granted
-                                                             Terminating Alarm Systems Level 1}
-{126}{}{[With security as shoddy as this, it's no wonder they blew themselves up.] Exit}
-{127}{}{[A menu appears]
-                                                   To Deactivate Alarm Press - 1
-                                     For Diagnostic check Press - 2
-                                   To Exit Press - 3}
-{128}{}{Press 1}
-{129}{}{Press 2}
-{130}{}{Press 3}
-{131}{}{Warning! This program works best if you shut down all programs. Do you wish to do so now?}
+{125}{}{Analisando o comando Aguarde..
+                                             Valido
+                                                                             Encerrando Sistemas de Alarme Nível 1}
+{126}{}{[Com uma segurança tão ruim quanto essa, não é de se admirar que eles se explodiram.] Sair}
+{127}{}{[Um menu aparece]
+                                                                Para Desativar o Alarme Pressione - 1
+                                               Para verificação de diagnóstico, pressione - 2
+                                             Para Sair Pressione - 3}
+{128}{}{Pressione 1}
+{129}{}{Pressione 2}
+{130}{}{Pressione 3}
+{131}{}{Aviso! Este programa funciona melhor se você desligar todos os programas. Deseja fazer agora?}
 {132}{}{Sim}
 {133}{}{Não}
 {134}{}{Sair}
-{135}{}{Shutting down all programs
-                                  Shutting down Skynet Security Program - Level 1
-        Last time system was diagnosed Oct. 15 1990
-        Analyzing System...
-                                             Estimated time to completion 99:24:60:60}
-{136}{}{[You don't think this is going to be done any time soon.] Exit.}
-{137}{}{Access Denied
-                                                 Access Denied
-                                                 Jzaedd Denied
-                                                       Quada Adjfjef
-                                                 Access Granted
-                                                 Terminating Alarm Systems Level 1}
+{135}{}{Desligando todos os programas
+                                           Desligando o Programa de Segurança Skynet - Nível 1
+           A última vez que o sistema foi diagnosticado foi em 15 de outubro de 1990
+           Analisando sistema...
+                                                        Tempo estimado para conclusão 99:24:60:60}
+{136}{}{[Você acha que isso não vai acontecer tão cedo.] Sair.}
+{137}{}{Acesso negado
+                                                             Acesso negado
+                                                            Jzaedd negado
+                                                                  Quada Adjfjef
+                                                              Acesso concedido
+                                                             Encerrando Sistemas de Alarme Nível 1}
 {138}{}{Sair}
-{139}{}{Unauthorized Access
-                                            Initiating Security Lockout of remote terminal
-                  User Access to this Terminal is TERMINATED}
+{139}{}{Acesso não autorizado
+                                                       Iniciando bloqueio de segurança do terminal remoto
+                      O acesso do usuário a este terminal foi TERMINADO}
 {140}{}{Sair}
-{200}{}{Computer in diagnostic mode. Please wait until diagnostic routine is finished.}
+{200}{}{Computador em modo de diagnóstico. Aguarde até que a rotina de diagnóstico seja concluída.}

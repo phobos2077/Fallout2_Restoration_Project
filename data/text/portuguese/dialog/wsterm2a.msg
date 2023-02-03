@@ -40,9 +40,9 @@
 {129}{}{To Deactivate Alarm Press - 1
                                     To Run Diagnostic Program Press - 2
                              To Exit Press - 3}
-{130}{}{Press 1}
-{131}{}{Press 2}
-{132}{}{Press 3}
+{130}{}{Pressione 1}
+{131}{}{Pressione 2}
+{132}{}{Pressione 3}
 {133}{}{Sair}
 {134}{}{Warning! This program works best if you shut down all
  programs. Do you wish to do so now?}

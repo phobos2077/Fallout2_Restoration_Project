@@ -83,4 +83,4 @@
 {166}{}{Sair}
 {200}{}{[Esse terminal não funciona mais.]}
 {300}{}{Você desativou as placas de choque.}
-{400}{}{Computer in diagnostic mode. Please wait until diagnostic routine is finished.}
+{400}{}{Computador em modo de diagnóstico. Aguarde até que a rotina de diagnóstico seja concluída.}

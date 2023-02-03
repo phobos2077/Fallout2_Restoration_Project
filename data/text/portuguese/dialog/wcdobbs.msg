@@ -23,5 +23,5 @@
 {300}{}{Tenho de voltar à minha unidade.}
 {301}{}{Oh não! Estou AUSENTE!}
 {302}{}{Qual caminho para a linha de frente?}
-{303}{}{This is for you, Jonny.}
-{400}{}{Private Dobbs experiences Post-Cryogenic Syndrome.}
+{303}{}{Isto é para voce, Johnny.}
+{400}{}{O soldado Dobbs experimenta a síndrome pós-criogênica.}
