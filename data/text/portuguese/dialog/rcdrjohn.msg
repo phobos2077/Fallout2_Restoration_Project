@@ -51,22 +51,22 @@
 {142}{}{Ah, vamos lá, doutor. Com certeza precisamos da sua ajuda.}
 {143}{}{Voltarei quando tiver mais dinheiro. Adeus. }
 {144}{}{Bem, tudo bem. Farei isso uma vez. Mas é melhor você ter dinheiro para me pagar da próxima vez.}
-{145}{}{That worked... once. Just like I told you. This time I need the money. You aren't going to get
- anything in this world for free - my services included.}
-{146}{}{Thanks, Doc. I sure appreciate it. Next time I'll have cash. I promise.}
-{147}{}{I feel kind of guilty imposing on you like that. I better come back when I have money to pay
- you.}
-{148}{}{Okay, sorry. But before I go, let me ask you about something.}
-{149}{}{Okay, okay. I'll be on my way, then. Goodbye, Doc.}
-{150}{}{Sorry. No money, no service. I can't give meds away to everyone who asks for them. I'd be broke
- inside of a week. You'll have to come back when you've got money to pay my fee.}
-{151}{}{I don't have cash, but I have stuff to barter. Can I trade you something for your services?}
-{152}{}{Before I go, let me ask you something.}
-{153}{}{OK, I'll try to raise some cash. Goodbye.}
+{145}{}{Isso funcionou... uma vez, assim como eu te disse. Dessa vez eu preciso do dinheiro. Você
+ não vai conseguir nada neste mundo de graça, meus serviços estão incluídos.}
+{146}{}{Obrigado, doutor, a gradeço por isso. Da próxima vez eu vou ter o dinheiro. Prometo.}
+{147}{}{Eu me sinto meio culpado por te pressionar a isso. É melhor eu voltar quando tiver dinheiro
+ o suficiente.}
+{148}{}{OK, desculpe. Mas antes de ir, deixe eu te perguntar uma coisa.}
+{149}{}{Está bem, está bem. Vou indo, então. Adeus, doutor.}
+{150}{}{Desculpe, sem dinheiro, sem serviço. Não posso dar remédios a todos que os pedem, eu quebraria
+ em menos de uma semana. Você terá que voltar quando tiver dinheiro para pagar minha conta.}
+{151}{}{Não tenho dinheiro, mas tenho coisas para trocar. Posso trocar algo por seus serviços?}
+{152}{}{Antes de ir, deixe eu te perguntar uma coisa.}
+{153}{}{OK, vou tentar conseguir algum dinheiro. Adeus.}
 {154}{}{O que você gostaria de saber?}
 {155}{}{O que agora?}
-{156}{}{I think I have a solution for the Jet problem that you have here.}
-{157}{}{I hear that Redding has been having a problem here with its exports lately.}
+{156}{}{Acho que tenho uma solução para esse problema que você tem aqui com jet.}
+{157}{}{Ouvi dizer que Redding tem tido problemas recentes com suas exportações.}
 {158}{}{I could sure use some healing.}
 {159}{}{I'm just wondering about what's going on here in town.}
 {160}{}{Why do they call you Painless Doc Johnson?}
