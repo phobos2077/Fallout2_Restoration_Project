@@ -12,68 +12,68 @@
 {111}{}{I am the First Citizen! I must have my sleep!}
 {112}{}{Leave!}
 {113}{}{Cai fora!}
-{114}{}{Out! Out! Out!}
-{115}{}{I admire your persistence. I would like to admire it from a distance.}
-{116}{}{Is this some sort of clumsy attempt to let me know that you are attracted to me?}
-{117}{}{Do you like my little dreadlocks? I think Scott Rodenhizer has a strange sense of humor.}
-{118}{lyn002}{Word of your brave deed has traveled quickly. Is it true? Was the government still waging the war?}
-{119}{}{Wahr? Wahr whar?}
-{120}{}{Yes. They were going to use a virus to exterminate all life. They planned to start over... at
- the cost of all that you've built here.}
-{121}{}{You heard incorrectly. I am just a traveler, nothing more... and certainly no hero. Now I only
- wish to be left in peace, allowed to wander the wastes in search of my place in this new world. Goodbye, First Citizen... forever.}
-{122}{lyn003}{From the simplest things - and that certainly is you - even greatness may grow.
- Take care, my sweet imbecile... all Vault City thanks you.}
-{123}{}{(Hug her.)}
-{124}{}{Oo. Bye-bye.}
-{125}{lyn004}{Awwwww... there, there. Anytime you need a hug, you come see Aunt Lynette, all right?}
-{126}{}{Okeee-dokeee.}
+{114}{}{Fora! Fora! Fora!}
+{115}{}{Admiro sua persistência. Gostaria de admirá-la à distância.}
+{116}{}{Isso é algum tipo de tentativa desajeitada de me deixar saber que você está atraído por mim?}
+{117}{}{Você gosta dos meus pequenos dreadlocks? Acho que Scott Rodenhizer tem um estranho senso de humor.}
+{118}{lyn002}{A notícia de sua ação corajosa se espalhou rapidamente. É verdade? O governo ainda estava travando uma guerra?}
+{119}{}{Ghu? Guer-rra?}
+{120}{}{Sim. Eles iam usar um vírus para exterminar toda a vida. Eles planejaram recomeçar a
+ terra... custando tudo que você construiu aqui.}
+{121}{}{Você ouviu errado. Sou apenas um viajante, nada mais... e com certeza nenhum herói. Agora
+ eu só gostaria de ser deixado em paz e vagar pelos desertos em busca do meu lugar neste novo mundo. Adeus, Primeira Cidadã... para sempre.}
+{122}{lyn003}{Mesmo nas coisas mais simples (e você certamente é) a grandeza pode surgir.
+ Tenha cuidado, meu doce idiota... toda Vault City agradece.}
+{123}{}{(Te abraça.)}
+{124}{}{Oh. Tchauzinho.}
+{125}{lyn004}{Awwwwww... lá, lá. Sempre que precisar de um abraço, venha ver a tia Lynette, certo?}
+{126}{}{Oookay.}
 {127}{}{Tchau-tchau.}
-{128}{lyn005}{How callous! How cruel! Were they not aware of the community we had built here?}
-{129}{}{Perhaps an important lesson can be learned here, Lynette. Isolated from the world, the
- government was prepared to destroy you without even recognizing the value of your community. Perhaps
- Vault City should take another look at the outside world... and its place in it.}
-{130}{}{Callous, cruel... maybe. All I know is that I had superior firepower. Goodbye, First Citizen.}
-{131}{lyn006}{That may be a valid point. Next time, we should make a stronger effort to find these remnants
- of the government and ally ourselves with them. I hear they have great power armor.}
-{132}{}{But... oh, forget it. Good luck, First Citizen.}
-{133}{}{You don't know the half of it, First Citizen! Power steering, body fluid recycling, menacing
- exterior... pretty damn cool.}
-{134}{}{Goodbye, First Citizen. I must return to the outside world... and find my place in it.}
-{135}{lyn007}{Please, call me Lynette. Travel carefully... my friend. We shall never forget you.
- You shall always have a home here within the walls of Vault City.}
-{136}{}{Thanks... Lynette.}
-{137}{}{Yeah, well, I BETTER have a home here. With these new duds and my superior firepower, it would
- take five seconds for me to slaughter everyone in this backwater dystopia. Sleep easy, Lynette. Ha Ha Ha Ha Ha.}
-{138}{lyn008}{You're wearing a vault suit! I never imagined I would meet an inhabitant of another vault.
- This Vault 13... where is it located?}
+{128}{lyn005}{Que insensível! Que cruel! Eles não sabiam da comunidade que construímos aqui?}
+{129}{}{Talvez uma importante lição possa ser aprendida aqui, Lynette. Isolado do mundo, o
+ governo estava preparado para os destruir sem ao menos reconhecer o valor de sua comunidade. Talvez
+ Vault City devesse dar outra olhada no mundo exterior... e seu lugar nele.}
+{130}{}{Insensível, cruel... talvez. Tudo o que sei é que eu tinha poder de fogo superior. Adeus, Primeira Cidadã.}
+{131}{lyn006}{Isso pode ser um bom argumento. Da próxima vez, devemos fazer um esforço maior para
+ encontrar esses remanescentes do governo e nos aliar a eles. Ouvi dizer que eles têm uma grande e forte armadura.}
+{132}{}{Mas que po... oh, esquece. Boa sorte, Primeira Cidadã.}
+{133}{}{Você não sabe nem a metade, Primeira Cidadã! Direção hidráulica, reciclagem de fluidos
+ corporais, exterior ameaçador... muito legal.}
+{134}{}{Adeus, Primeira Cidadã. Devo retornar ao mundo exterior... e encontrar meu lugar nele.}
+{135}{lyn007}{Por favor, me chame de Lynette. Viaje com cuidado... meu amigo, nunca te
+ esqueceremos. Você sempre terá um lar aqui dentro dos muros de Vault City.}
+{136}{}{Obrigado... Lynette.}
+{137}{}{Sim, bem, é melhor eu ter uma casa aqui. Com essas roupinhas novas e meu poder de fogo superior,
+ levaria cinco segundos para eu massacrar todos nesta distopia atrasada. Durma tranquila, Lynette. Ha Ha Ha Ha.}
+{138}{lyn008}{Você está vestindo uma roupa da Vault! Nunca imaginei que encontraria um habitante de
+ outra Vault. Este Vault 13... onde está localizado?}
 {139}{}{Hunh?}
 {140}{}{Valt! Valt!}
-{141}{}{Hed funneee.}
+{141}{}{Eh divertiiido.}
 {142}{}{Tchauzinho}
-{143}{}{Isn't this the Vault my ancestor originally came from?}
-{144}{}{I don't know. I come from a village in the west.}
-{145}{}{I don't know. I'm trying to find the Vault my ancestor came from... can you help me?}
-{146}{}{I don't have time to explain the whole story right now. Good day.}
-{147}{lyn009}{That must be your IQ on your jumpsuit, not a Vault number.}
+{143}{}{Não é esta a Vault de onde meu ancestral originalmente veio?}
+{144}{}{Não sei. Venho de uma aldeia no oeste.}
+{145}{}{Não sei. Estou tentando encontrar a Vault de onde meu ancestral veio... você pode me ajudar?}
+{146}{}{Não tenho tempo para explicar toda a história agora. Bom dia.}
+{147}{lyn009}{Esse deve ser o seu QI no seu macacão, não o número da Vault.}
 {148}{}{Hrnnnn?}
-{149}{}{Nooom-ber}
-{150}{}{Har funeee!}
+{149}{}{Nuuuumero}
+{150}{}{Eh Leeegal!}
 {151}{}{Desliga}
-{152}{lyn010}{I don't know how you mustered the brain power to get inside the city, but I'll make sure
- you don't wander in here again... guards! Escort this imbecile outside the walls!}
-{153}{}{NO!}
-{154}{}{ go with metal people}
-{155}{lyn011}{Good day to you, stranger. I am First Citizen Lynette. May I inquire as to your business here?}
-{156}{}{Bizzzness? Bzzzzz-neff?}
+{152}{lyn010}{Eu não sei como você reuniu cérebro suficiente para entrar na cidade, mas vou me certificar
+ de que você não fique vagando por aqui novamente... guardas! Escolte esse imbecil para fora dos muros!}
+{153}{}{NÃO!}
+{154}{}{ ir com pessoas de metal}
+{155}{lyn011}{Bom dia para você, estranho. Eu sou a Primeira Cidadã, Lynette. Posso perguntar sobre quais negócios te trazem aqui?}
+{156}{}{Neeegocios? Neeego-cios?}
 {157}{}{Eer!}
 {158}{}{Tchau-tchau.}
-{159}{}{I am looking for a Garden of Eden Creation Kit. Do you have one?}
-{160}{}{I am in search of a Garden of Eden Creation Kit, First Citizen. Does your city have one I might purchase?}
-{161}{}{Are you the... Overseer of this vault?}
-{162}{}{Excuse my ignorance, First Citizen... does the title "First Citizen" mean you are the Overseer of this vault?}
-{163}{}{This is Vault City? Why don't you live in a vault?}
-{164}{}{No business today. Maybe another time.}
+{159}{}{Estou procurando um Kit de Criação do Jardim do Éden. Você tem um?}
+{160}{}{Estou em busca de um Kit de Criação do Jardim do Éden, Primeira Cidadã. Sua cidade tem algum que eu possa comprar?}
+{161}{}{Você é a... Supervisora desta Vault?}
+{162}{}{Desculpe minha ignorância, Primeira Cidadã... o título "Primeira Cidadã" significa que você é o Supervisora desta vault?}
+{163}{}{Aqui é Vault City? Por que você não mora em uma vault?}
+{164}{}{Nenhum negócio hoje. Talvez outra hora.}
 {165}{}{Nothing today. My apologies for disturbing you, First Citizen. Good day.}
 {166}{lyn012a}{Where did one such as YOU hear of a Garden of Eden Creation Kit?}
 {167}{lyn012b}{Such technology is not meant for Outsiders.}
@@ -203,7 +203,7 @@
 {275}{}{120 anos atrás? Isso foi 70 anos antes do Morador da Vault parar o Mestre. Essa não pode ser a vault
  que estou procurando.}
 {276}{}{Estou vendo. Bom dia.}
-{277}{lyn032}{Correto... Eu sou o Primeiro Cidadão de Vault City.}
+{277}{lyn032}{Correto... Eu sou o Primeira Cidadã de Vault City.}
 {278}{}{First Citizen, I have an urgent request: My village is in dire need of a Garden of Eden Creation
  Kit. Do you possess one that I may have?}
 {279}{}{Then you are who I seek. I have come on behalf of the people of Arroyo to claim what is
@@ -353,7 +353,7 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {402}{}{I ran into this Citizen downtown, Thomas Moore. Who is he?}
 {403}{}{Você tem um GECK?}
 {404}{}{I'm looking for Vault 13.}
-{405}{}{This is Vault City? Why don't you live in a vault?}
+{405}{}{Aqui é Vault City? Por que você não mora em uma vault?}
 {406}{}{Why is it you condone slavery?}
 {407}{}{Nada por hoje, valeu.}
 {408}{lyn055}{For a non-Citizen, you certainly demand a great deal of my time.}
@@ -361,7 +361,7 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {410}{}{Você tem um GECK?}
 {411}{}{I'm looking for Vault 13.}
 {412}{}{What do I need to do to become a Citizen?}
-{413}{}{This is Vault City? Why don't you live in a vault?}
+{413}{}{Aqui é Vault City? Por que você não mora em uma vault?}
 {414}{}{Why is it you condone slavery?}
 {415}{}{Nevermind then. Good day.}
 {416}{lyn056}{What is it?! I don't have time for your nonsense!}

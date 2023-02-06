@@ -113,7 +113,7 @@
 {212}{}{You disapprove of her offering me Citizenship for that?}
 {213}{}{Posso fazer mais algumas perguntas?}
 {214}{}{Hum. Adeus.}
-{215}{}{Não é minha função questionar as ações do Primeiro Cidadão.}
+{215}{}{Não é minha função questionar as ações da Primeira Cidadã.}
 {216}{}{Existe outra forma de se tornar Cidadão?}
 {217}{}{Posso fazer mais algumas perguntas?}
 {218}{}{Deixa pra lá então.}

@@ -95,7 +95,7 @@
 {194}{}{Vaultdweller real. Me descendant.}
 {195}{}{Me need know more.}
 {196}{}{The Vault Dweller was real. I'm one of his descendants.}
-{197}{}{I see. Let me ask you about something else.}
+{197}{}{Entendo. Deixe eu te perguntar sobre outra coisa.}
 {198}{tand17}{A geck? Like the lizard? We got them all over.}
 {199}{}{Not lizard... never mind. Me ask question.}
 {200}{}{No, not the damn lizards... never mind. I need to ask you something else.}

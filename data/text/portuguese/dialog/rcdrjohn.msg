@@ -67,48 +67,48 @@
 {155}{}{O que agora?}
 {156}{}{Acho que tenho uma solução para esse problema que você tem aqui com jet.}
 {157}{}{Ouvi dizer que Redding tem tido problemas recentes com suas exportações.}
-{158}{}{I could sure use some healing.}
-{159}{}{I'm just wondering about what's going on here in town.}
-{160}{}{Why do they call you Painless Doc Johnson?}
-{161}{}{Got any medical supplies I could trade for?}
-{162}{}{I was just looking around. Goodbye, Doc.}
-{163}{}{What does this look like to you? A general store? No, I don't barter for medical services. I
- just want payment in honest gold dollars, thank you very much. Come back when you have some.}
-{164}{}{All right. I get the picture. Goodbye.}
-{165}{}{I might be able to provide you with some supplies; let's see what you've got in trade.}
-{166}{}{Okay, Doc.}
-{167}{}{I didn't mean right now. I was just wondering if you had stuff to trade. I have some questions,
- though.}
-{168}{}{Oh, I don't need anything right now. See you later, Doc.}
-{169}{}{Did you get everything you need?}
-{170}{}{Well? Did that do it for you?}
-{171}{}{Actually, let me take one more look at your stuff.}
-{172}{}{Thanks, Doc. Let me ask you something.}
-{173}{}{I sure did, Doc. Thanks. Goodbye for now.}
-{174}{}{There you go. All better. That do it for you?}
-{175}{}{Actually, I had some questions I wanted to ask you.}
-{176}{}{That'll do it. Thanks, Doc.}
-{177}{}{Wouldn't let that go too long. Some wounds fester and start oozing puss. Then there's always
- gangrene. Course, lately, I haven't used my knives as much as I'd like. Getting a bit rusty. Tell you
- what: Go ahead and let it go as long as you want. Maybe I can get some practice later on.}
-{178}{}{I see. While I'm festering, let me ask you about something.}
-{179}{}{Uh, yeah, well I'll think about that. Goodbye, Doc.}
-{180}{}{Lately, it seems as though more miners are spending their time flying on Jet than mining. If this
- keeps up, Redding's gold production will come to a halt. New Reno doesn't seem to mind, though.}
-{181}{}{All of the miners here are only working enough to get their next hit of Jet. Production here has
- really slowed down. If this keeps up, New Reno's going to own Redding.}
-{182}{}{All miners are doing here lately is getting high. Hardly anyone's mining for gold any more. I'm
- worried that New Reno's going to own this town. I sure wish there was a way to stop this Jet addiction.}
-{183}{}{What does New Reno have to do with it?}
+{158}{}{Não faria mal se eles me curassem um pouco.}
+{159}{}{Estava me perguntando o que está acontecendo aqui na cidade.}
+{160}{}{Por que eles te chamam de o "Indolor" Dr. Johnson?}
+{161}{}{Tem algum material médico que eu possa trocar?}
+{162}{}{Eu estava apenas dando uma olhada. Adeus, doutor.}
+{163}{}{O que isso parece para você? Um armazem geral? Não, eu não troco por serviços médicos.
+ Eu só quero o pagamento em dólares honestos, muito obrigado. Volte quando tiver algum.}
+{164}{}{Tudo bem, entendi. Adeus.}
+{165}{}{Talvez eu possa te fornecer alguns suprimentos; vamos ver o que você tem pra negociar.}
+{166}{}{Ok, Doutor.}
+{167}{}{Eu não quis dizer agora mesmo, só queria saber se você tem coisas para negociar. Aliás, tenho
+ algumas perguntas.}
+{168}{}{Oh, eu não preciso de nada agora. Até logo, doutor.}
+{169}{}{Você conseguiu tudo o que precisa?}
+{170}{}{Bem? Isso te serviu?}
+{171}{}{Na verdade, deixe eu dar mais uma olhada nas suas coisas.}
+{172}{}{Obrigado, doutor. Deixe me perguntar algo.}
+{173}{}{Claro que sim, doutor. Obrigado, até logo.}
+{174}{}{Ai está, tudo melhor. Isso te serviu?}
+{175}{}{Na verdade, eu tinha algumas perguntas que queria te fazer.}
+{176}{}{Servirá. Obrigado, doutor.}
+{177}{}{Não deixe isso passar muito tempo, algumas feridas infeccionam e começam a vazar pus. Então
+ acontece a gangrena. Bom, ultimamente, não tenho usado minhas facas tanto quanto gostaria,
+ estão ficando um pouco enferrujado. Vou te dizer uma coisa: vá em frente e deixe passar o tempo que quiser. Talvez eu possa praticar um pouco depois.}
+{178}{}{Entendo. Enquanto estou apodrecendo, deixe eu te perguntar uma coisa.}
+{179}{}{Uh, sim, bem, vou pensar sobre isso. Adeus, doutor.}
+{180}{}{Ultimamente, parece que os mineradores estão gastando seu tempo chapados em jet do que
+ minerando. Se isso continuar, a produção de ouro de Redding será interrompida. No entendo, New Reno não parece se importar.}
+{181}{}{Todos os mineiros aqui estão trabalhando somente o suficiente para pegar a proxima carga de
+ Jet. A produção aqui realmente desacelerou. Se isso continuar, New Reno será dono de Redding.}
+{182}{}{Tudo o que os mineiros estão fazendo aqui ultimamente é ficarem chapados, quase ninguém
+ mais está minerando ouro. Estou preocupado que New Reno seja dona desta cidade. Eu gostaria muito que houvesse uma maneira de acabar com esse vício do Jet.}
+{183}{}{O que New Reno tem a ver com isso?}
 {184}{}{De onde vem o Jet?}
-{185}{}{I see. Let me ask you about something else.}
-{186}{}{Thanks for the information. I'll see you around, Doc. Goodbye.}
-{187}{}{Hello there. I'm Painless Doc Johnson. What can I do for you?}
-{188}{}{What can old Doc Johnson do for you this time?}
-{189}{}{Hey, Doc. I just had some questions to ask you.}
-{190}{}{I was wondering if you had any meds I could trade for.}
-{191}{}{Doc, I heard about some special armor implants. Do you know anything about that?}
-{192}{}{I was just looking around, Doc. Nice to meet you. Goodbye.}
+{185}{}{Entendo. Deixe eu te perguntar sobre outra coisa.}
+{186}{}{Obrigado pela informação. Vejo você por aí, doutor. Adeus.}
+{187}{}{Olá. Eu sou o Indolor Doc Johnson. O que posso fazer por você?}
+{188}{}{O que o velho Dr. Johnson pode fazer por você desta vez?}
+{189}{}{Ei, doutor. Eu só tinha algumas perguntas para te fazer.}
+{190}{}{Eu queria saber se você tem algum remédio para negociar.}
+{191}{}{Doutor, ouvi falar de alguns implantes especiais de armadura. Você sabe alguma coisa sobre isso?}
+{192}{}{Eu só estava dando uma olhada, doutor. Prazer em conhecê-lo. Adeus.}
 {193}{}{Thanks to you, I'm turning this Jet problem around. That antidote of yours that I slipped into
  the Jet supply is doing a great job of grounding all those Jet Jockeys.}
 {194}{}{I'm glad it's working. Let me ask you about something else.}
@@ -138,7 +138,7 @@
  in bulk packages, and then I process it into user-ampoules... so I end up selling all of it right here.}
 {214}{}{You must make a tidy profit out of that.}
 {215}{}{You must be real chummy with New Reno, then.}
-{216}{}{I see. Let me ask you about something else.}
+{216}{}{Entendo. Deixe eu te perguntar sobre outra coisa.}
 {217}{}{Have any Jet that I could have, then?}
 {218}{}{Not really. I guess they're so used to me processing the bulk batches of Jet into user-ampoules
  that they haven't even thought twice about it. I've been doing it for quite a while before this, and

@@ -108,76 +108,76 @@
 {207}{}{Posso te fazer outra pergunta?}
 {208}{}{Deixe pra lá então.}
 {209}{}{You wish to become a Citizen? Well, we would be pleased to have you. All you need to do is talk to Proconsul Gregory and he will give you the Citizenship test.}
-{210}{}{Where can I find Proconsul Gregory?}
+{210}{}{Onde posso encontrar o Procônsul Gregório?}
 {211}{}{Posso te fazer outra pergunta?}
-{212}{}{Thanks. I'll go find him now. Goodbye.}
-{213}{}{Very well. All you need do is talk to Proconsul Gregory and he will give you the Citizenship test.}
-{214}{}{Where can I find Proconsul Gregory?}
+{212}{}{Obrigado. Vou encontrá-lo agora. Adeus.}
+{213}{}{Muito bem. Basta falar com o Procônsul Gregório e ele fará o teste de Cidadania.}
+{214}{}{Onde posso encontrar o Procônsul Gregório?}
 {215}{}{Posso te fazer outra pergunta?}
-{216}{}{All right. I'll go speak to the Proconsul now.}
-{217}{}{You'll find him in the East Wing. His office is across from the First Citizen's.}
+{216}{}{Tudo bem. Vou falar com o Proconsul agora.}
+{217}{}{Você o encontrará na ala leste. Seu escritório fica em frente ao da Primeira Cidadã.}
 {218}{}{Posso te fazer outra pergunta?}
 {219}{}{Thanks for your time. Goodbye.}
-{220}{}{Things have been tough these last two years. The NCR has been getting more aggressive in their attempts to get Vault City to join the Republic.}
-{221}{}{They tell us that if we were to join, they would be able to defend us from the raider attacks on our city. As of late, these raider attacks have become more brutal.}
-{222}{}{On top of all of this, we have ghouls in Gecko contaminating our groundwater.}
+{220}{}{As coisas têm sido difíceis nos últimos dois anos. A NCR está ficando mais agressiva em suas tentativas de fazer com que Vault City se junte à República.}
+{221}{}{Eles nos dizem que se nos juntarmos, eles seriam capazes de nos defender dos ataques invasores em nossa cidade. Ultimamente, esses ataques de invasores se tornaram mais brutais.}
+{222}{}{Além de tudo isso, temos ghouls em Gecko contaminando nossas águas subterrâneas.}
 {223}{}{Where is Gecko?}
 {224}{}{What is Gecko?}
-{225}{}{Trying times, indeed. Can I ask you another question?}
-{226}{}{Sorry to hear it. Thanks for your time. Goodbye.}
-{227}{}{It is just northeast of here, but if you are planning on going there, I would advise you to purchase some anti-radiation drugs. If they are contaminating our water, it is likely their town itself is irradiated.}
+{225}{}{Tempos difíceis, de fato. Posso te fazer outra pergunta?}
+{226}{}{Desculpe ouvir isso. Obrigado pelo seu tempo. Adeus.}
+{227}{}{Fica logo a nordeste daqui, mas se você está planejando ir para lá, te aconselho a comprar alguns medicamentos anti-radiação. Se eles estão contaminando nossa água, é provável que a própria cidade deles seja irradiada.}
 {228}{}{What is Gecko?}
 {229}{}{Posso te fazer outra pergunta?}
-{230}{}{Thanks for the warning. Goodbye.}
-{231}{}{It is a forsaken place, a shantytown built around the remnants of an old atomic power plant.}
-{232}{}{Where is Gecko located?}
+{230}{}{Obrigado pelo aviso. Adeus.}
+{231}{}{É um lugar abandonado, uma favela construída em torno dos restos de uma antiga usina atômica.}
+{232}{}{Onde Gecko fica localizada?}
 {233}{}{Posso te fazer outra pergunta?}
 {234}{}{Thanks for your time. Goodbye.}
-{235}{}{No. I don't understand it at all. We are willing to pay top dollar for their ore, but whenever we try to talk to them about it, they become evasive. If only I knew what was going on...}
-{236}{}{I could go check it out for you.}
+{235}{}{Não, eu não entendo nada disso. Estamos dispostos a pagar muito caro pelo minério deles, mas sempre que tentamos falar com eles sobre isso, eles se tornam evasivos. Se eu soubesse o que está acontecendo...}
+{236}{}{Eu poderia ir verificar isso para você.}
 {237}{}{Where is Redding?}
 {238}{}{Thanks for your time. Goodbye.}
-{239}{}{You will? It is not in my power to pay you, but your aid will be much appreciated.}
+{239}{}{Você irá? Não está em meu poder te pagar, mas sua ajuda será muito apreciada.}
 {240}{}{Where is Redding?}
-{241}{}{No problem. I'll check it out and return when I find out what's wrong.}
-{242}{}{Redding is a week or so west of here. I've never been there. Never been outside Vault City, for that matter. As I understand it, Redding is supposed to be one of the more pleasant settlements in the wastes.}
-{243}{}{Do you have any idea what's causing the shipments to drop off?}
+{241}{}{Sem problemas. Vou verificar e retorno quando descobrir o que há de errado.}
+{242}{}{Redding fica a cerca de uma semana a oeste daqui. Eu nunca estive lá, nunca estive fora de Vault City, aliás. Pelo que entendi, Redding é considerado um dos assentamentos mais agradáveis dos desertos.}
+{243}{}{Você tem alguma ideia do que está causando a queda das remessas?}
 {244}{}{Entendo. Obrigado pela informação.}
-{245}{}{What is it? Anything you could tell me would be a great help.}
+{245}{}{O que é? Qualquer coisa que você pudesse me dizer seria uma grande ajuda.}
 {246}{}{O que você pode me dizer sobre Redding?}
-{247}{}{I found that a large part of Redding is addicted to a drug called Jet. The miners are trading most of their ore to New Reno just to keep supplied.}
-{248}{}{Dr. Troy has created an antidote for Jet.}
-{249}{}{I delivered the antidote to Redding.}
-{250}{}{What is this "Jet" that they are all addicted to?}
-{251}{}{I'll tell you later when I find out more.}
-{252}{}{It's a drug with a 100% addiction rate, and severe withdrawals.}
-{253}{}{Please keep me posted.}
+{247}{}{Descobri que grande parte de Redding é viciada em uma droga chamada jet. Os mineradores estão comercializando a maior parte de seu minério para New Reno apenas para se manterem abastecidos.}
+{248}{}{Dr. Troy criou um antídoto para jet.}
+{249}{}{Entreguei o antídoto para Redding.}
+{250}{}{O que é esse "jet" em que todos estão viciados?}
+{251}{}{Volto a te informar quando descobrir mais.}
+{252}{}{É uma droga com taxa de dependência de 100% e abstinência severa.}
+{253}{}{Por favor, mantenha-me informado.}
 {254}{}{Posso fazer mais algumas perguntas?}
 {255}{}{Com certeza.}
-{256}{}{This is sad news, we need to find a way to put a stop to this. If this keeps up, our ore supplies will dwindle to nothing. Please help us.}
+{256}{}{Esta é uma triste notícia, precisamos encontrar uma maneira de acabar com isso. Se isso continuar, nossos suprimentos de minério serão reduzidos a nada. Por favor, nos ajude.}
 {257}{}{Eu vou ver o que posso fazer.}
-{258}{}{He has? Well then, what are you doing here? Take it to Doc Johnson in Redding! He should be able to find a way to administer it to the miners.}
-{259}{}{I know, you already told me. Please take it to Redding and see if you can help them.}
-{260}{}{Before I go, can I ask you some other questions?}
+{258}{}{Ele tem? Bem, então, o que você está fazendo aqui? Leve-o para Dr. Johnson em Redding! Ele deve ser capaz de encontrar uma maneira de administrá-lo aos mineiros.}
+{259}{}{Eu sei, você já me disse. Por favor, leve para Redding e veja se você pode ajudá-los.}
+{260}{}{Antes de ir, posso fazer mais algumas perguntas?}
 {261}{}{Esta bem, adeus.}
-{262}{}{Thank you! Now all we can do is wait. Hopefully, this fixes our problem. Thank you again for all of your assistance.}
-{263}{}{You're welcome. I was glad to be of service.}
-{264}{}{Not a problem. Could I ask you some other questions?}
-{265}{}{Whoa... don't I get anything for my troubles?}
-{266}{}{If it is money you want, money you will receive. Here's $500 for your troubles. Now good day.}
-{267}{}{THANK you.}
-{268}{}{Five hun --? You better cough up some more and fast, or your life won't be worth $2.}
+{262}{}{Obrigado! Agora tudo o que podemos fazer é esperar. Esperançosamente, isso corrige nosso problema. Obrigado novamente por toda a sua ajuda.}
+{263}{}{De nada. Fiquei feliz em ser útil.}
+{264}{}{Não é um problema. Posso te fazer outras perguntas?}
+{265}{}{Uau... não ganho nada pelos meus esforços?}
+{266}{}{Se é dinheiro que você quer, dinheiro você receberá. Aqui estão $500 para seus esforços. Agora, bom dia.}
+{267}{}{OBRIGADO.}
+{268}{}{Quinh...? É melhor vomitar um pouco mais e rápido, ou sua vida não valerá $2.}
 {269}{}{O que você quer dizer?}
-{270}{}{If I had a hydroelectric magnetosphere regulator, I could make their plant run clean.}
-{271}{}{Oh, nothing. Sorry to trouble you.}
-{272}{}{That's an acceptable solution. Stopping the radiation poisoning is all I care about.}
-{273}{}{I'm worried that Lynette will withhold my Citizenship if I fix the plant.}
-{274}{}{Great! Where can I get the part?}
-{275}{}{I'll keep that in mind.}
-{276}{}{If you fix their plant, I'll give you Citizenship, and there's not a damn thing she can do about it.}
-{277}{}{Excellent! Where can I get the part?}
-{278}{}{Go see Randal, the Chief Amenities Officer. He should have the part in stock.}
-{279}{}{Thanks. I'll go see him right now.}
+{270}{}{Se eu tivesse um regulador hidroelétrico de magnetosfera, poderia fazer a usina funcionar sem problemas.}
+{271}{}{Oh, nada. Desculpe incomodá-lo.}
+{272}{}{Essa é uma solução aceitável. Parar o envenenamento por radiação é tudo o que me importa.}
+{273}{}{Estou preocupado que Lynette retenha minha cidadania se eu consertar a fábrica.}
+{274}{}{Ótimo! Onde posso conseguir a peça?}
+{275}{}{Vou manter isso em mente.}
+{276}{}{Se você consertar a central deles, eu te dou a Cidadania, e ela não pode fazer absolutamente nada.}
+{277}{}{Excelente! Onde posso conseguir a peça?}
+{278}{}{Vá ver Randal, o Diretor de Serviços. Ele deve ter a peça em estoque.}
+{279}{}{Obrigado. Vou vê-lo agora.}
 {280}{}{There's one other thing. You might find this economic data disk interesting.}
 {281}{}{Excellent! I was worried that the radiation build-up might force us to relocate. You are to be commended on a job well done.}
 {282}{}{Vault City prevails, Citizen.}
