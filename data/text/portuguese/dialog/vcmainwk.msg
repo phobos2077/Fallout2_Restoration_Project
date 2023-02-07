@@ -216,19 +216,19 @@
 {313}{}{3 Segundos}
 {314}{}{O q-?! O que você diz!}
 {315}{}{2 Segundos}
-{316}{}{Let's ask your "boss."}
+{316}{}{Vamos perguntar ao seu "chefe".}
 {317}{}{2 Segundos}
-{318}{}{Well... he can fix radios. And stuff.}
-{319}{}{Ub nuwb ub}
+{318}{}{Bem... ele consegue consertar rádios. E outras coisas.}
+{319}{}{Pão de batata}
 {320}{}{2 Segundos}
-{321}{}{If you give him ALL the parts, right?}
-{322}{}{I see you're traveling with people slightly smarter than you are.}
+{321}{}{Se você der a ele TODAS as peças, certo?}
+{322}{}{Vejo que está viajando com pessoas um pouco mais espertas do que você.}
 {323}{}{2 Segundos}
 {324}{}{Bem, sim.}
-{325}{}{Ub nuwm ub?}
+{325}{}{Pão de batata?}
 {326}{}{2 Segundos}
-{327}{}{Ha! I knew it. Sloppy, sloppy.}
-{328}{}{Your "boss" is probably better at fixing things than you are.}
+{327}{}{Ha! Eu sabia. Descuidado, descuidado.}
+{328}{}{Seu "chefe" provavelmente é melhor em consertar as coisas do que você.}
 {329}{}{2 Segundos}
 {330}{}{Well, Val, last I saw you, you could barely tell a lug nut from a wrench.}
 {331}{}{2 Segundos}
