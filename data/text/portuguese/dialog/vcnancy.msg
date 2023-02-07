@@ -79,12 +79,12 @@
 {178}{}{Thanks for your time. Goodbye.}
 {179}{}{}
 {180}{}{}
-{181}{}{Are you certain? That doesn't sound like Dr. Troy at all. Still... he HAS been working hard lately... no, no, that's impossible. You must be mistaken.}
-{182}{}{I don't think so. He was very clear about what he wanted.}
-{183}{}{Hmmmm. Can I ask you another question?}
+{181}{}{Está certo disso? Isso não parece nada com o Dr. Troy. Ainda assim... ele tem trabalhado duro ultimamente... não, não, isso é impossível. Você deve estar enganado.}
+{182}{}{Eu não acho. Ele foi muito claro sobre o que queria.}
+{183}{}{Hmmmm. Posso te fazer outra pergunta?}
 {184}{}{Deixa pra lá então.}
-{185}{}{I would be VERY careful about what you say about Dr. Troy in Vault City. He is a respected member of our community.}
-{186}{}{All right, then. Can I ask you another question?}
+{185}{}{Eu teria MUITO cuidado com o que você diz sobre o Dr. Troy em Vault City. Ele é um membro respeitado da nossa comunidade.}
+{186}{}{Tudo bem então. Posso te fazer outra pergunta?}
 {187}{}{Thanks for the warning. Maybe I should go talk to someone else.}
 {188}{}{It's down on the 3rd level, if I remember correctly. Haven't been down there in ages.}
 {189}{}{Por que não?}

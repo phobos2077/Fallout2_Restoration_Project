@@ -3,23 +3,23 @@
 {102}{}{He has a stick and lots of chips. You could try your luck with him.}
 {103}{}{Place your bets. We have another roller.}
 {104}{}{How much will you bet on the PASSLINE?}
-{105}{}{How much will you bet on the DON'T PASSLINE?}
-{106}{}{How much will you bet on the COMELINE?}
-{107}{}{How much will you bet on the DON'T COMELINE?}
-{108}{}{How much will you bet on the FIELD?}
-{109}{}{Point's on}
-{110}{}{Pass line.}
-{111}{}{Don't Pass line.}
-{112}{}{Come line.}
-{113}{}{Don't Come line.}
-{114}{}{Proposition bets...}
-{115}{}{Place bets...}
-{116}{}{Place Field bet}
-{118}{}{Roll}
-{119}{}{Pass line bet set at:}
-{120}{}{Don't pass line bet set at:}
-{121}{}{Come line bet set at:}
-{122}{}{Don't come line set at:}
+{105}{}{Quanto você vai apostar na "SEM LINHA DE PASSE"?}
+{106}{}{Quanto você vai apostar no "LINHA DE CHEGADA"?}
+{107}{}{Quanto você vai apostar no "FORA DA LINHA DE CHEGADA"?}
+{108}{}{Quanto você vai apostar no "CAMPO"?}
+{109}{}{Ponto em}
+{110}{}{Linha de passe}
+{111}{}{Fora da linha de passe.}
+{112}{}{Linha de chegada.}
+{113}{}{Fora da Linha de chegada.}
+{114}{}{Apostas de proposição...}
+{115}{}{Faça apostas...}
+{116}{}{Aposta de preposição de campo.}
+{118}{}{Lance os dados}
+{119}{}{Aposta da linha de passe definida em:}
+{120}{}{Aposta fora da linha de passe definida em:}
+{121}{}{Aposta da Linha de Chegada definida em:}
+{122}{}{Aposta fora da Linha de Chegada definida em:}
 {123}{}{7:}
 {124}{}{d3s:}
 {125}{}{d4s:}
@@ -29,25 +29,25 @@
 {129}{}{5&6:}
 {130}{}{1&1:}
 {131}{}{6&6:}
-{132}{}{Craps:}
+{132}{}{Dados:}
 {133}{}{Pls 4:}
 {134}{}{Pls 5:}
 {135}{}{Pls 6:}
 {136}{}{Pls 8:}
 {137}{}{Pls 9:}
 {138}{}{Pls 10:}
-{139}{}{On 4:}
-{140}{}{On 5:}
-{141}{}{On 6:}
-{142}{}{On 8:}
-{143}{}{On 9:}
-{144}{}{On 10:}
-{145}{}{Odds 4:}
-{146}{}{Odds 5:}
-{147}{}{Odds 6:}
-{148}{}{Odds 8:}
-{149}{}{Odds 9:}
-{150}{}{Odds 10:}
+{139}{}{Em 4:}
+{140}{}{Em 5:}
+{141}{}{Em 6:}
+{142}{}{Em 8:}
+{143}{}{Em 9:}
+{144}{}{Em 10:}
+{145}{}{Vantagem 4:}
+{146}{}{Vantagem 5:}
+{147}{}{Vantagem 6:}
+{148}{}{Vantagem 8:}
+{149}{}{Vantagem 9:}
+{150}{}{Vantagem 10:}
 {151}{}{Field bet set at:}
 {152}{}{Which PROPOSITION BET?}
 {153}{}{Quanto?}
