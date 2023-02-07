@@ -156,59 +156,59 @@
  Estou certo disso.}
 {226}{}{Vault City cuida bem de seus cidadãos, mas eles tratam os não-cidadãos como lixo.}
 {227}{}{Entendo, doutor. Isso faz um certo sentido.}
-{228}{}{They'll realize the benefits soon enough. I'm certain that they'll welcome Vault City's
- administration with open arms, uh, eventually.}
-{229}{}{I see. Well, let me ask you about something other than politics.}
-{230}{}{Hmm, I don't know about that. Goodbye.}
-{231}{}{That's nonsense. Vault City does extend special privileges to citizens, but only because they're
- better qualified to enjoy those things than brutish non-citizens. Besides, everyone can qualify for
- Vault City citizenship if they pass the tests.}
-{232}{}{I'm not sure how the people here in Redding would react to rule by Vault City.}
-{233}{}{Yeah, no doubt. Goodbye, Doc.}
-{234}{}{I fill the user-ampoules with Jet and then distribute it purely as a service to the people of
- Redding. I don't make a profit doing it. If I didn't do it, then some other quack would be preparing
- the drug with germ-encrusted, rusty equipment. I'd never get this population disease-free after that.}
-{235}{}{What a nice guy you are, Doc. That's great. Let me ask you about something else, then.}
-{236}{}{How *noble* of you, Doctor.}
-{237}{}{That's interesting. I'll see you later, Doc. Goodbye.}
-{238}{}{I'll thank you not to use such heavy sarcasm when you say that. Call it nobility if you like; I
- prefer practicality. The mine owners pay me a stipend to keep the miners relatively healthy and able to
- work. If I let someone else work with the Jet, I'd never be able to do the job I'm paid to do.}
-{239}{}{I see. Well, let me ask you about something else, then. }
-{240}{}{Hmm, thanks for telling me that. Goodbye, Doc.}
-{241}{}{Dr. Troy? I know him. A wonderfully talented physician. We worked together when I was in Vault
- City. Tell me about this antidote.}
-{242}{}{You worked in Vault City?}
-{243}{}{Dr. Troy said that I should bring the antidote to you, and that you'd know what to do with it.}
-{244}{}{Yes, that's where I received my medical training. I'm a Vault City citizen. I found that there
- are many places in the world that needed my medical expertise more than Vault City. So here I am. Now,
- about that antidote...}
-{245}{}{Dr. Troy said that I should bring the antidote to you, and that you'd know what to do with it.}
-{246}{}{Indeed I will. Let me have it, then.}
-{247}{}{Here it is, Doc.}
-{248}{}{Not so fast Doc. What's it worth to you?}
-{249}{}{I don't think I'm ready to hand it over just yet. See you around, Doc. Goodbye.}
-{250}{}{What's it worth to me? Why, you little weasel! I oughta...}
-{251}{}{Easy there, Doc; that kind of talk makes me feel so bad that I get all shaky. I could drop
- things... like this antidote bottle.}
-{252}{}{Okay, okay. Hey, I was just kidding. Here it is.}
-{253}{}{Thank you. I'll make sure the miners get a little something *extra* with the next batch of
- Jet that they pick up.}
-{254}{}{Aren't they going to be suspicious of you, Doc?}
-{255}{}{I'm glad I could help. Let me ask you about something else, Doc.}
-{256}{}{Good. I hate seeing all those damn Jet Pilots flying around all the time. Goodbye, Doc, and
- good luck to you.}
-{257}{}{Okay, you've got me. I'll give you $2,000 for it. That's all I've got.}
-{258}{}{I guess that will have to do. Okay, here it is, Doc.}
-{259}{}{I think I'll hold on to it for a while yet. Goodbye, Doc.}
-{260}{}{You can do that, but you won't get a better price from me. That's really all I have.}
-{261}{}{Well, okay, I guess I'll take the $2,000. Here's the antidote, Doc.}
-{262}{}{We'll see. Goodbye, Doc.}
-{263}{}{I know McClure. He's on the Vault City council. What did he tell you?}
-{264}{}{That mine production is way down and gold prices are way up.}
-{265}{}{I'm not sure I should tell you.}
-{266}{}{Oh? And what did this rumor say?}
-{267}{}{That mine production is way down and gold prices are way up.}
+{228}{}{Eles perceberão os benefícios em breve. Tenho certeza de que eles receberão a
+ administração de Vault City de braços abertos, uh, no final.}
+{229}{}{Entendo. Bem, deixe eu te perguntar sobre outra coisa que não seja política.}
+{230}{}{Hum, eu não sei sobre isso. Adeus.}
+{231}{}{Isso não faz sentido. Vault City estende privilégios especiais aos cidadãos, mas apenas porque
+ eles são mais qualificados para desfrutar dessas coisas do que não-cidadãos. Além disso, todos
+ podem se qualificar para a cidadania de Vault City se passarem nos testes.}
+{232}{}{Não tenho certeza de como as pessoas aqui em Redding reagiriam ao governo de Vault City.}
+{233}{}{Sim, sem dúvida. Adeus, doutor.}
+{234}{}{Eu encho as ampolas do usuário com jet e depois distribuo apenas como um serviço para
+ o povo de Redding. Não ganho lucro fazendo isso. Se eu não fizesse isso, algum outro charlatão
+ estaria preparando a droga com um equipamento enferrujado e incrustado de germes. Eu nunca poderia manter essa população longe de doenças depois disso.}
+{235}{}{Que cara legal você é, doutor, isso é ótimo. Deixe eu te perguntar sobre outra coisa, então.}
+{236}{}{Que *nobre* da sua parte, Doutor.}
+{237}{}{É interessante. Vejo você mais tarde, doutor. Adeus.}
+{238}{}{Agradeço se não usar tanto sarcasmo quando diz isso. Chame isso de nobreza, se quiser;
+ prefiro a praticidade. Os donos das minas me pagam um estipêndio para manter os mineiros relativamente
+ saudáveis e capazes de trabalhar. Se eu deixar outra pessoa trabalhar com o jet, nunca poderei fazer o trabalho para o qual sou pago.}
+{239}{}{Entendo. Bem, deixe eu te perguntar sobre outra coisa, então. }
+{240}{}{Hmm, obrigado por me dizer isso. Adeus, doutor.}
+{241}{}{Dr. Troy? Eu o conheço, um médico maravilhosamente talentoso. Trabalhamos juntos quando
+ eu estava em Vault City. Me diga sobre este antídoto.}
+{242}{}{Você trabalhou em Vault City?}
+{243}{}{Dr. Troy disse que eu deveria trazer o antídoto para você, e que você saberia o que fazer com ele.}
+{244}{}{Sim, foi lá que recebi minha formação médica. Sou cidadão de Vault City. Descobri que há
+ muitos lugares no mundo que precisam mais da minha experiência médica do que Vault City, então aqui
+ estou. Agora, sobre aquele antídoto...}
+{245}{}{Dr. Troy disse que eu deveria trazer o antídoto para você, e que você saberia o que fazer com ele.}
+{246}{}{Suponho que sim. Deixe comigo, então.}
+{247}{}{Aqui está, doutor.}
+{248}{}{Não tão rápido, doutor. Quanto isso vale para você?}
+{249}{}{Acho que ainda não estou disposto a entregá-lo. Vejo você por aí, doutor. Adeus.}
+{250}{}{Quanto vale para mim? Ora, seu pequeno crapula! eu deveria...}
+{251}{}{Calma aí, doutor; esse tipo de conversa me deixa meio mal, me da até tremedeira. As
+ vezes eu deixo cair coisas... Tipo este frasco de antídoto.}
+{252}{}{Está bem, está bem. Ei, era só pegadinha. Aqui está.}
+{253}{}{Obrigado. Vou garantir que os mineradores recebam algo *extra* com o próximo lote de
+ Jet que pegarem.}
+{254}{}{Eles não vão suspeitar de você, doutor?}
+{255}{}{Fico feliz em poder ajudar. Deixe eu te perguntar sobre outra coisa, doutor.}
+{256}{}{Bom, eu odeio ver todos aqueles noias chapados em jet o tempo todo. Adeus, doutor, e boa
+ sorte para você.}
+{257}{}{Ok, você me pegou. Te dou 2.000 dólares por ela. Isso é tudo que eu tenho.}
+{258}{}{Acho que isso vai ter que servir. Ok, aqui está, doutor.}
+{259}{}{Acho que ainda vou ficar por um tempo. Adeus, doutor.}
+{260}{}{Você pode fazer isso, mas não conseguirá um preço melhor de mim. Isso é realmente tudo que eu tenho.}
+{261}{}{Bem, ok, acho que vou ficar com os $2.000. Aqui está o antídoto, doutor.}
+{262}{}{Veremos. Adeus, doutor.}
+{263}{}{Eu conheço McClure, ele está no conselho de Vault City. O que ele te falou?}
+{264}{}{A produção da mina está muito baixa e os preços do ouro estão muito altos.}
+{265}{}{Não tenho certeza se devo contar a você.}
+{266}{}{Oh? E o que esse boato dizia?}
+{267}{}{A produção da mina está muito baixa e os preços do ouro estão muito altos.}
 {268}{}{Oh, apenas o lixo de sempre. Ei, me deixe perguntar sobre outra coisa, Doc.}
 {269}{}{Isso é verdade. Os mineiros aqui estão todos ficando chapados com jet em vez de trabalhar, portanto, as
  exportações caíram e os preços subiram. Esta situação não pode durar.}
@@ -277,42 +277,42 @@
 {307}{}{Voltarei quando tiver mais dinheiro, doutor. Tchau.}
 {308}{}{Voltarei quando arrumar um conjunto de Armadura de Combate, doutor. Tchau.}
 {309}{}{Acho que não quero fazer isso agora, na verdade. Adeus, doutor.}
-{310}{}{According to the reports, Phoenix Armor Implants give you 5% resistance to thermal damage (fire,
- laser, and plasma) - over and above any other armor you're wearing. The operation takes a few days, one
- suit of Combat Armor (for the thermal-dissipative membranes), and it will cost you $8,000. Not to worry,
- though; this operation *should* create only minimal scarring - at least that's what I read.}
-{311}{}{That sounds great, Doc. I sure won't have to worry about extra sunscreen after this.}
+{310}{}{De acordo com os relatórios, os Os Implantes de Armadura de Fenix oferecem 5% de resistência a
+ danos térmicos (fogo, laser e plasma) - além de qualquer outra armadura que você esteja usando. A operação
+ leva alguns dias, uma armadura de combate (para as membranas termo-dissipativas) e custará US$ 8.000.
+ Não se preocupe, porém; esta operação *deve* criar apenas cicatrizes mínimas - pelo menos é o que eu li.}
+{311}{}{Parece ótimo, doutor. Com certeza não terei que me preocupar com protetor solar extra depois disso.}
 {312}{}{Deixe eu te perguntar sobre uma das outras operações, Doc.}
 {313}{}{Voltarei quando tiver mais dinheiro, doutor. Tchau.}
 {314}{}{Voltarei quando arrumar um conjunto de Armadura de Combate, doutor. Tchau.}
 {315}{}{Acho que não quero fazer isso agora, na verdade. Adeus, doutor.}
-{316}{}{You need to have the Phoenix Armor Implants before I can give you the Assault Enhancement. But
- I'll tell you what it should do. The Assault Enhancement should give you a total of 10% resistance to
- thermal damage (fire, laser, and plasma) - over and above any other armor you're wearing. The operation
- takes a few days and it'll cost you $48,000. In addition, you're not going to be too charismatic after
- I finish. Layering all those thermal dissipaters under your skin is going to make you look a bit lumpy,
- sort of like an overstuffed burrito.}
-{317}{}{The Assault Enhancement of the Phoenix Armor Implants should give you a total of 10% resistance
- to thermal damage (fire, laser, and plasma) - over and above any other armor you're wearing. The
- operation takes a few days and it'll cost you $48,000. In addition, you're not going to be too
- Charismatic after I finish. Cramming all those impact plates under your skin is going to make you look
- a bit lumpy, sort of like an overstuffed burrito. Ready to begin?}
-{318}{}{That sounds great, Doc. Let's do it.}
+{316}{}{Você precisa ter os Implantes de Armadura da Fênix antes que eu possa lhe dar o Aprimoramento
+ de Ataque. Mas eu vou te dizer o que deve fazer. O Aprimoramento de Assalto deve dar a você um total
+ de 10% de resistência a danos térmicos (fogo, laser e plasma) - além de qualquer outra armadura que você
+ esteja usando. A operação leva alguns dias e custará US$ 48.000. Além disso, você não vai ser muito
+ carismático depois que eu terminar. Colocar todos esses dissipadores térmicos em camadas sob a pele
+ fará com que você pareça um pouco irregular, como um burrito recheado demais.}
+{317}{}{O Aprimoramento de Assauto dos Implantes de Armadura da Fenix deve dar a você um total de 10%
+ de resistência a danos térmicos (fogo, laser e plasma) - além de qualquer outra armadura que você
+ esteja usando. A operação leva alguns dias e custará US$ 48.000. Além disso, você não ficará
+ muito carismático depois que eu terminar. Enfiar todas aquelas placas de impacto sob a pele vai fazer
+ você parecer um pouco irregular, como um burrito recheado demais. Pronto para começar?}
+{318}{}{Parece ótimo, doutor. Vamos fazer.}
 {319}{}{Deixe eu te perguntar sobre uma das outras operações, Doc.}
 {320}{}{Voltarei quando tiver mais dinheiro, doutor. Tchau.}
 {321}{}{Voltarei quando arrumar um conjunto de Armadura de Combate, doutor. Tchau.}
 {322}{}{Acho que não quero fazer isso agora, na verdade. Adeus, doutor.}
-{323}{}{There, that should do it. The operation was a success. You shouldn't have to worry about bumps
- and bruises so much anymore. That swelling and tenderness will go down in a few days.}
-{324}{}{I wouldn't have thought that your skin could accommodate so many of those impact plates, but
- you're ready for action now. You not only look sort of like Frankenstein, but you should be as tough as
- him as well. Uh, try to stay out of the sun until most of the scabs slough off.}
-{325}{}{That turned out rather well, I think. The Phoenix Armor implanted much more neatly than I would
- have thought it would. That burning and itching feeling will probably go away in a few weeks... once your
- innards get used to the fibers.}
-{326}{}{Coming around, are we? You're just jam-packed with thermal-dissipaters and dissipative membranes.
- You won't look quite so lumpy in a few weeks, but you won't be winning any beauty pageants again,
- either. Try not to pick at the pus-crusts near the drainage incisions until they stop suppurating.}
-{327}{}{Thanks for the advice, Doc. This is great. Hey, let me ask you about something else.}
-{328}{}{Thanks for your handiwork, Doc. I better be moving on now. Goodbye.}
-{329}{}{You deliver the Jet antidote to Doc Johnson.}
+{323}{}{Pronto, deve servir. A operação foi um sucesso. Você não deveria se preocupar com solavancos
+ e certas contusões. Esse inchaço e sensibilidade diminuirão em alguns dias.}
+{324}{}{Eu não teria pensado que sua pele poderia acomodar tantas dessas placas de impacto, mas você
+ está pronto para a ação agora. Você não só se parece com Frankenstein, mas também deve ser tão duro
+ quanto ele. Uh, tente ficar longe do sol até que a maioria das crostas desapareçam.}
+{325}{}{Isso acabou muito bem, eu acho. A Armadura da Fênix foi implantada com muito mais precisão
+ do que eu pensava. Essa sensação de queimação e coceira provavelmente desaparecerá em algumas
+ semanas... assim que suas entranhas se acostumarem com as fibras.}
+{326}{}{Nós recuperamos a consciência, eh? Você está repleto de dissipadores térmicos e membranas dissipativas.
+ Você não parecerá tão irregular em algumas semanas, mas também não vai ganhar mais nenhum
+ concurso de beleza. Tente não cutucar as crostas de pus perto das incisões de drenagem até que parem de supurar.}
+{327}{}{Obrigado pelo conselho, doutor. Isso é ótimo. Ei, deixe eu te perguntar sobre outra coisa.}
+{328}{}{Obrigado pelo seu trabalho, doutor. É melhor eu seguir em frente agora. Adeus.}
+{329}{}{Você entrega o antídoto Jet para o Dr. Johnson.}

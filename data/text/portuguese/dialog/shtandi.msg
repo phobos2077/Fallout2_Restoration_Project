@@ -43,35 +43,35 @@
 {142}{}{All right. I'm off.}
 {143}{}{Gostaria de fazer alguns perguntas.}
 {144}{tand7a}{Well, I got a little time to spare.}
-{145}{tand7b}{What do you want to know?}
-{146}{}{What you tell about Vault 15?}
-{147}{}{Why no make deal with squatters?}
-{148}{}{You know where Vault 13?}
-{149}{}{Me look for geck. You have?}
-{150}{}{What you tell about New Reno?}
-{151}{}{What you tell about Roger Westin?}
-{152}{}{What you tell about Carlson?}
-{153}{}{Elder tell story. Talk about Vaultdweller, Tandi. You that Tandi?}
-{154}{}{This Shadeesans Elder talk about?}
-{155}{}{That all. Me go now.}
-{156}{}{What can you tell me about Vault 15?}
-{157}{}{Why haven't you made a deal with the squatters?}
+{145}{tand7b}{O que você quer saber?}
+{146}{}{O que você pode me dizer sobre a Vault 15?}
+{147}{}{Por que não fazer acordo com posseiros?}
+{148}{}{Você sabe onde fica a Vault 13?}
+{149}{}{Eu procuro geck. Você tem?}
+{150}{}{O que você pode dizer sobre New Reno?}
+{151}{}{O que você pode dizer sobre Roger Westin?}
+{152}{}{O que você pode dizer sobre Carlson?}
+{153}{}{Anciã conta a história. Fala sobre Morador de Vault, fala de Tandi. Você é aquela Tandi?}
+{154}{}{Essa é Chad Sand que a Anciã fala?}
+{155}{}{Isso tudo. Eu vou agora.}
+{156}{}{O que você pode me dizer sobre a Vault 15?}
+{157}{}{Por que você não fez um acordo com os posseiros?}
 {158}{}{Você sabe onde é o Vault 13?}
-{159}{}{I'm looking for a GECK. Would you happen to have one?}
+{159}{}{Estou procurando um GECK. Por acaso você teria um?}
 {160}{}{What can you tell me about New Reno?}
 {161}{}{O que você pode me dizer sobre Roger Westin?}
-{162}{}{What you can tell me about Carlson?}
-{163}{}{The Elder tells a story about the Vault Dweller and someone named Tandi. Are you that Tandi?}
-{164}{}{Is this the Shadeesands the Elder speaks of?}
-{165}{}{That's all for now. I'll be going.}
-{166}{tand8}{It's just east of here, an underground shelter from the war. Most families in NCR came from it, so it's rightfully ours.}
+{162}{}{O que você pode me dizer sobre Carlson?}
+{163}{}{A Anciã conta uma história sobre o Morador da Vault e alguém chamado Tandi. Você é aquela Tandi?}
+{164}{}{Esta é Shadeesands que a Anciã fala?}
+{165}{}{É tudo por agora. eu vou indo.}
+{166}{tand8}{Fica a leste daqui, um abrigo subterrâneo da guerra. A maioria das famílias da NCR vieram dela, então é nossa por direito.}
 {167}{}{Conte mais.}
 {168}{}{Continue.}
-{169}{tand9}{A couple of years ago some squatters moved in and built a shantytown on the surface. They call it 'The Squat.' They're nothing but dogs in the manger. They can't get into the vault but they keep us out.}
+{169}{tand9}{Alguns anos atrás, alguns posseiros se mudaram e construíram uma favela na superfície. Eles chamam isso de 'A Ocupação'. Não passam de cachorros na manjedoura. Eles não podem entrar na Vault, mas nos mantêm longe.}
 {170}{}{Eu tenho mais perguntas.}
-{171}{}{I see. I need to ask you about a few other things.}
-{172}{tand10}{I tried. I sent some people down there but, after the first few, they stopped coming back. I can't prove the squatters are responsible either. My boys managed to capture one of 'em but he won't talk. Got 'em locked up downtown.}
-{173}{}{Need know more.}
+{171}{}{Entendo. Eu preciso te perguntar sobre algumas outras coisas.}
+{172}{tand10}{Tentei. Mandei algumas pessoas para lá, mas depois das primeiras que mandei, eles pararam de voltar. Também não posso provar que os invasores são os responsáveis. Meus rapazes conseguiram capturar um deles, mas ele não fala. Os prendi no centro da cidade.}
+{173}{}{Preciso saber mais.}
 {174}{}{Mais algumas perguntas, por favor.}
 {175}{tand11}{Vai rápido, não posso passar o dia com você.}
 {176}{}{Ok, estou com pressa.}
@@ -84,41 +84,41 @@
 {183}{tand14a}{Isso mesmo. Para assustar os invasores. Eles se mantiveram afastados de Shady Sands depois que conseguimos tempo para nos prepararmos. Fizemos dele um herói... mesmo que não acreditássemos em uma palavra sobre ele vir da Vault 13.}
 {184}{}{Me lembro. Mais pergunta?}
 {185}{}{Vou me lembrar. Posso te perguntar mais alguma coisa?}
-{186}{tand15}{Vault 13? Why are you asking?}
-{187}{}{Me curious.}
-{188}{}{Me Chosen One. Me descendant Vaultdweller.}
-{189}{}{Not matter. Me ask questions.}
-{190}{}{I've heard stories and I'm curious.}
-{191}{}{I'm the Chosen One of my village. I am a descendant of the Vault Dweller.}
-{192}{}{Never mind. I was just curious.}
-{193}{tand16}{It's just a damn myth like lost uranium mines. I did meet a stranger once who claimed to be from there. Lot of folks died trying to find that vault afterward.}
-{194}{}{Vaultdweller real. Me descendant.}
-{195}{}{Me need know more.}
-{196}{}{The Vault Dweller was real. I'm one of his descendants.}
+{186}{tand15}{Vault 13? Por que você pergunta?}
+{187}{}{Eu curioso.}
+{188}{}{Eu O Escolhido. Descendente de Morador de Vault.}
+{189}{}{Não importa. Eu faço perguntas.}
+{190}{}{Já ouvi histórias e estou curioso.}
+{191}{}{Eu sou o Escolhido da minha aldeia. Eu sou o descendente do Morador da Vault.}
+{192}{}{Deixa para lá. Eu só estava curioso.}
+{193}{tand16}{É apenas um maldito mito como minas de urânio perdidas. Eu conheci um estranho uma vez que dizia ser de lá. Muitas pessoas morreram tentando encontrar aquela Vault.}
+{194}{}{Morador de Vault real. Eu descendente.}
+{195}{}{Eu preciso saber mais.}
+{196}{}{O Morador da Vault era real. Eu sou um de seus descendentes.}
 {197}{}{Entendo. Deixe eu te perguntar sobre outra coisa.}
-{198}{tand17}{A geck? Like the lizard? We got them all over.}
-{199}{}{Not lizard... never mind. Me ask question.}
-{200}{}{No, not the damn lizards... never mind. I need to ask you something else.}
-{201}{tand18}{New Reno? A damn bucket of brahmin spit. Got every vice there is. We've gotta be tough with them if we're going to unify this land. Congress has got to understand that.}
-{202}{}{What know about Bishop?}
-{203}{}{Tell about congress?}
+{198}{tand17}{Um Geck? Como os lagartos? Nós os pegamos.}
+{199}{}{Lagarto não... deixa quieto. Faço uma pergunta.}
+{200}{}{Não, não igual esses lagartos... esqueça. Eu preciso te perguntar outra coisa.}
+{201}{tand18}{Novo Reno? Um maldito balde de cuspe de brahmin. Ali se encontra todos os vícios que existem. Temos que ser duros com eles se quisermos unificar esta terra. O Congresso tem que entender isso.}
+{202}{}{O que sabe sobre Bishop?}
+{203}{}{Fala sobre congresso?}
 {204}{}{Eu peço mais.}
-{205}{}{What about the Bishops?}
-{206}{}{Tell me about the congress.}
-{207}{}{I see. Can you tell me some more?}
-{208}{tand19}{Well, I'll talk to a snake, but don't expect me to hug him. If you see 'em, you can tell 'em that too.}
-{209}{}{Me hear NCR make deal with Bishop.}
-{210}{}{Ok. Me need know more.}
-{211}{}{Rumor has it that the NCR is making a deal with the Bishops.}
-{212}{}{Ok, on to other things.}
-{213}{tand20}{No point trying to keep secrets around here. We're negotiating with New Reno for membership in the NCR. They should have some pull with places like Vault City.}
+{205}{}{O que voce sabe sobre os Bishops?}
+{206}{}{Me diga sobre o congresso.}
+{207}{}{Entendo. Você pode me contar mais?}
+{208}{tand19}{Bem, eu posso falar com uma cobra, mas não espere que eu a abrace. Se você os vir, pode dizer isso a eles também.}
+{209}{}{Ouço a NCR fazer um acordo com Bishop.}
+{210}{}{OK. Eu preciso saber mais.}
+{211}{}{Há rumores de que a NCR está fazendo um acordo com os Bishops.}
+{212}{}{Ok, vamos para outras coisas.}
+{213}{tand20}{Não adianta tentar guardar segredos por aqui. Estamos negociando com New Reno para se tornar membro da NCR. Eles devem ter alguma influência em lugares como Vault City.}
 {214}{}{Eu vejo.}
 {215}{}{Tudo certo.}
-{216}{tand21}{Most figure we've got to work with New Reno one way or another. But folks like Westin and the ranchers blame New Reno for rustling the cattle drives between here and Redding.}
+{216}{tand21}{A maioria acha que temos que trabalhar com New Reno de uma forma ou de outra. Mas pessoas como Westin e os fazendeiros culpam New Reno por roubar as movimentações de gado entre aqui e Redding.}
 {217}{}{Humph.}
-{218}{}{Who Westin?}
+{218}{}{Quem Westin?}
 {219}{}{Eu vejo.}
-{220}{}{Who is this Westin person?}
+{220}{}{Quem é esse Westin?}
 {221}{tand22}{Congressman Westin? One of the biggest brahmin ranchers around. His spreads on the west side of town. Just don't bring up New Reno if you talk to him - it gets him going. If you're looking for a steady job... but you aren't that type, are you?}
 {222}{}{Não, obrigado.}
 {223}{tand23}{Stubborn as a mule... but a good man. Why?}

@@ -140,81 +140,81 @@
 {237}{}{How about $1350 for upgrading the assault rifle?}
 {238}{}{Instale essa visão noturna no FN FAL.}
 {239}{}{How about $3100 for the low-light scope?}
-{240}{}{Could you upgrade one of my other weapons?}
-{241}{}{Never mind. I wanted something else...}
+{240}{}{Você poderia melhorar uma das minhas outras armas?}
+{241}{}{Deixa para lá. queria outra coisa...}
 {242}{}{Na verdade, nenhuma delas. Preciso ir.}
-{243}{}{I'll be back when I have more cash to spare.}
-{244}{}{I suppose I could juice up that cattleprod for you. It'll cost you $750.}
+{243}{}{Voltarei quando tiver mais dinheiro sobrando.}
+{244}{}{Acho que posso dar um gás naquele bastão de gado para você. Vai custar $750.}
 {245}{}{Está bem. }
-{246}{}{How about $650 instead?}
-{247}{}{Actually, could you upgrade one of my other weapons instead?}
+{246}{}{O que me diz de $650?}
+{247}{}{Na verdade, você poderia melhorar uma das minhas outras armas?}
 {248}{}{Esqueçe. Eu queria outra coisa...}
 {249}{}{Na verdade, nenhuma delas. Preciso ir.}
 {250}{}{É muita grana pro meu bolso. Volto quando tiver mais dinheiro.}
-{251}{}{I see you've picked up some tricks from my cheapskate father. Give me about an hour, and it'll be good to go...}
-{252}{}{All right, all right. You sound just like my cheapskate Dad. Give me about an hour, and it'll be good to go...}
-{253}{}{All right, give me about an hour, and it'll be good to go...}
+{251}{}{Vejo que aprendeu alguns truques com os turcos. Me de uma hora e estará pronto...}
+{252}{}{Tudo bem, tudo bem. Você parece muito com meu pai mão de vaca. Me de uma hora e estara pronto...}
+{253}{}{Tudo bem, me de uma hora e estara pronto...}
 {254}{}{Tudo certo.}
 {255}{}{Não que você vá. Mais alguma coisa?}
 {256}{}{Eu tenho mais algumas perguntas...}
-{257}{}{Can you upgrade anything else I have?}
-{258}{}{Nothing more, today. Thanks.}
-{259}{}{What do you... uh... Dad?}
-{260}{}{I'm sorry?}
-{261}{}{Uh, no, I'm not. I mean, I don't think so.}
-{262}{}{Dad?!}
+{257}{}{Você pode melhorar qualquer outra coisa que eu tenha?}
+{258}{}{Nada mais, hoje. Obrigado.}
+{259}{}{O que você... uh... Pai?}
+{260}{}{Perdão?}
+{261}{}{Não, não sou. Bom, acho que não.}
+{262}{}{Papai?!}
 {263}{}{2 Segundos}
-{264}{}{Valerie?! Honey, is that you?}
+{264}{}{Valéria?! Docinho, é você?}
 {265}{}{2 Segundos}
-{266}{}{Where the hell have you been?! Still running around the wastes, selling shiny junk to tribals?}
-{267}{}{4 Seconds}
-{268}{}{Uh, heh-heh... ignore her, Boss, she doesn't know what she's saying... Val, honey... you see, there were slavers and...}
-{269}{}{4 Seconds}
-{270}{}{Cut the crap, Dad. Are you STILL calling everybody you meet "Boss?" I always hated that about you.}
-{271}{}{4 Seconds}
-{272}{}{Valerie, honey, please... let me explain... you see...}
-{273}{}{2 Seconds, then Fade Out}
-{274}{}{... and that's how we got out of the Den.}
+{266}{}{Onde você se enfiou?! Ainda andando por aí, vendendo porcarias brilhantes para os tribais?}
+{267}{}{4 segundos}
+{268}{}{Uh, heh-heh... ignore ela, chefe, ela não sabe o que está dizendo... Val, querida... veja, havia alguns escravistas e...}
+{269}{}{4 segundos}
+{270}{}{Pare com essa besteira, pai. Você AINDA está chamando todo mundo que conhece de "Chefe?" Sempre odiei isso em você.}
+{271}{}{4 segundos}
+{272}{}{Valerie, meu bem, por favor... me deixe explicar... veja...}
+{273}{}{2 segundos, e depois desligado}
+{274}{}{... e foi assim que saímos de Den.}
 {275}{}{2 Segundos}
-{276}{}{What a load of brahmin crap.}
+{276}{}{Isso parece um monte de merda de brahmin.}
 {277}{}{2 Segundos}
-{278}{}{It's the truth!}
+{278}{}{Isso é a verdade!}
 {279}{}{2 Segundos}
-{280}{}{Don't you start. I'm glad Mom isn't here to hear this.}
+{280}{}{Não comece. Estou feliz que mamãe não está aqui para ouvir isso.}
 {281}{}{2 Segundos}
-{282}{}{What? What happened to your mother?}
+{282}{}{O que? O que aconteceu com sua mãe?}
 {283}{}{2 Segundos}
-{284}{}{Brain fever. Caught it out on the wastes. Probably looking for YOU.}
+{284}{}{Encefalite, pegou no ermo. Provavelmente procurando por VOCÊ.}
 {285}{}{2 Segundos}
-{286}{}{Oh. I... uh... I'm sorry, Val.}
+{286}{}{Oh. Eu... uh... me desculpe, Val.}
 {287}{}{2 Segundos}
-{288}{}{I'm just kidding.}
+{288}{}{Estou brincando.}
 {289}{}{2 Segundos}
-{290}{}{Wh -?!}
+{290}{}{O q?!}
 {291}{}{2 Segundos}
-{292}{}{She actually died of radiation poisoning. She drank some of the unfiltered water from the courtyard well.}
-{293}{}{4 Seconds}
-{294}{}{Wha... what?!}
+{292}{}{Na verdade ela morreu contaminada por radiação. Ela bebeu um pouco da água não filtrada do poço do pátio.}
+{293}{}{4 segundos}
+{294}{}{Que.. o que?!}
 {295}{}{2 Segundos}
-{296}{}{Wasn't your fault. She had too many rads running through her system for Dr. Troy to save her. She was glowing like a lamp.}
+{296}{}{Não foi sua culpa. Ela tinha excesso de radiação correndo por seu sistema para o Dr. Troy salvá-la. Ela estava brilhando como uma lâmpada.}
 {297}{}{2 Segundos}
-{298}{}{Oh. I... well, I...}
+{298}{}{Oh. eu... bem, eu...}
 {299}{}{2 Segundos}
-{300}{}{Don't worry. She was pretty batty before that, anyway. It was only a matter of time.}
+{300}{}{Não se preocupe. Ela era muito maluca antes disso, de qualquer forma. Era apenas uma questão de tempo.}
 {301}{}{3 Segundos}
-{302}{}{I'm still sorry I didn't get a chance to see her again.}
+{302}{}{Ainda sinto muito por não ter tido a chance de a ver novamente.}
 {303}{}{2 Segundos}
-{304}{}{No, you aren't. You used to call her the 'desert viper,' didn't you?}
+{304}{}{Não sei Você costumava chamá-la de 'víbora do deserto', não é?}
 {305}{}{2 Segundos}
-{306}{}{Well... yes. But you shouldn't call your mother th--}
+{306}{}{Bem... sim. Mas você não deveria chamar sua mãe de...}
 {307}{}{2 Segundos}
-{308}{}{Why not? It was true. She could be an awful bitch when she wanted to be.}
+{308}{}{Por que não? Era verdade. Ela poderia ser uma cadela terrível quando ela queria ser.}
 {309}{}{3 Segundos}
-{310}{}{Uh... you look like you've done well for yourself. Inherited your father's knack for repairing stuff, it seems.}
-{311}{}{4 Seconds}
-{312}{}{Dad... you can barely tie your shoelaces, much less repair anything with moving parts.}
+{310}{}{Uh... parece que você se saiu bem. Ao que parece, herdou do seu pai o talento para consertar coisas.}
+{311}{}{4 segundos}
+{312}{}{Pai... você mal consegue amarrar os cadarços, muito menos consertar qualquer coisa com peças móveis.}
 {313}{}{3 Segundos}
-{314}{}{Wh-?! The devil you say!}
+{314}{}{O q-?! O que você diz!}
 {315}{}{2 Segundos}
 {316}{}{Let's ask your "boss."}
 {317}{}{2 Segundos}
