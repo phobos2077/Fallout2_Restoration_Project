@@ -41,6 +41,6 @@
 {238}{}{Sim, nós SABEMOS que a Bethesta tem serios problemas de escrita.}
 {239}{}{Se você vender Bessie para os açougueiros em Modoc, poderá libertá-la novamente.}
 {240}{}{Preste atenção no que Curtis diz depois de devolver o Sr. Nixon para ele em Vault City.}
-{241}{}{With the feuding couple in Broken Hills, the wife really did throw the Cat's Paw in the trash.}
+{241}{}{Com o casal rival em Broken Hills, a esposa realmente jogou a Garra da Gato no lixo.}
 {242}{}{You need a high STR *and* a high END to have a chance of beating Francis in the arm-wrestling contest.}
 {243}{}{The code to activate the first terminal in the Vault in Vault City is 3PCF186.}

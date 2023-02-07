@@ -109,53 +109,53 @@
 {190}{}{Eu queria saber se você tem algum remédio para negociar.}
 {191}{}{Doutor, ouvi falar de alguns implantes especiais de armadura. Você sabe alguma coisa sobre isso?}
 {192}{}{Eu só estava dando uma olhada, doutor. Prazer em conhecê-lo. Adeus.}
-{193}{}{Thanks to you, I'm turning this Jet problem around. That antidote of yours that I slipped into
- the Jet supply is doing a great job of grounding all those Jet Jockeys.}
-{194}{}{I'm glad it's working. Let me ask you about something else.}
-{195}{}{Aren't people suspicious about getting sick on the Jet that you sold them?}
-{196}{}{Glad it's working, Doc. I guess I'll be on my way. Goodbye.}
-{197}{}{Thanks to the antidote that you brought me, Redding's problems with Jet are at an end. It looks
- as though New Reno will have to find another way to try and take over here.}
-{198}{}{I'm happy I was able to help. Let me ask you something else.}
-{199}{}{Weren't people suspicious about getting sick on the Jet that you sold them?}
-{200}{}{What did New Reno have to do with it?}
-{201}{}{Glad it worked, Doc. Goodbye for now.}
-{202}{}{A solution? What do you mean?}
-{203}{}{I mean that I have an antidote to Jet. Dr. Troy in Vault City made it, and it should solve the
- Jet-addiction problem that you have here.}
-{204}{}{Oh, nothing. Let me ask you about something else, Doc.}
-{205}{}{We sure do. Too much Jet, not enough work... but where did you hear about that?}
-{206}{}{McClure in Vault City told me.}
-{207}{}{I just heard a rumor, that's all.}
-{208}{}{It's not really important. Let me ask you about something else.}
-{209}{}{New Reno sells Jet pretty cheap. Jet's real addictive, like nothing you've ever seen before.
- They figure that if they get enough people in an area using it, those people will do anything to get
- more. That gives them de facto control of an area - like Redding.}
-{210}{}{I see. Let me ask you about something else, Doc.}
-{211}{}{So if you don't want New Reno to control Redding, just who do you want in charge here?}
-{212}{}{Thanks for explaining that to me, Doc. Goodbye.}
-{213}{}{All of the Jet here in town is shipped here from the Mordino family in New Reno. It comes mostly
- in bulk packages, and then I process it into user-ampoules... so I end up selling all of it right here.}
-{214}{}{You must make a tidy profit out of that.}
-{215}{}{You must be real chummy with New Reno, then.}
+{193}{}{Graças a você, estou resolvendo esse problema do jet. Aquele seu antídoto que coloquei no
+ suprimento de jet está fazendo um ótimo trabalho em acabar com todo esses viciados em jet.}
+{194}{}{Estou feliz que esteja funcionando. Deixe eu te perguntar sobre outra coisa.}
+{195}{}{As pessoas não suspeitam em passar mal com Jet que você vendeu?}
+{196}{}{Que bom que está funcionando, doutor. Acho que vou indo. Adeus.}
+{197}{}{Graças ao antídoto que você me trouxe, os problemas de Redding com jet acabaram. Parece que
+ New Reno terá que encontrar outra forma de tentar dominar aqui.}
+{198}{}{Estou feliz por ter ajudado. Deixe eu te perguntar outra coisa.}
+{199}{}{As pessoas não suspeitam de adoecer com o Jet que você vendeu?}
+{200}{}{O que New Reno tem a ver com isso?}
+{201}{}{Que bom que funcionou, doutor. Até logo.}
+{202}{}{Uma solução? O que você quer dizer?}
+{203}{}{Quero dizer que tenho um antídoto para o jet. Foi o Dr. Troy de Vault City que fez isso, e
+ deve resolver o problema do vício em jet que você tem aqui.}
+{204}{}{Oh, nada. Deixe eu te perguntar sobre outra coisa, doutor.}
+{205}{}{Com certeza. Muito Jet, pouco trabalho... mas onde você ouviu falar disso?}
+{206}{}{McClure em Vault City me contou.}
+{207}{}{Acabei de ouvir um boato, só isso.}
+{208}{}{Não é realmente importante. Deixe eu te perguntar sobre outra coisa.}
+{209}{}{New Reno vende jet bem barato. Jet é muito viciante, mais do que qualquer coisa que você
+ já viu antes. Eles imaginam que, se conseguirem viciar um número suficiente de pessoas em uma
+ área, essas pessoas farão qualquer coisa para conseguir mais. Isso lhes dá o controle total de uma área, como Redding.}
+{210}{}{Entendo. Deixe eu te perguntar sobre outra coisa, doutor.}
+{211}{}{Então, se você não quer que New Reno controle Redding, quem você quer no comando aqui?}
+{212}{}{Obrigado por me explicar isso, doutor. Adeus.}
+{213}{}{Todo o jet aqui da cidade é enviado pela família Mordino de New Reno. Ele vem normalmente em
+ embalagens a granel, e então eu o processo em ampolas individuais... então acabo vendendo tudo aqui mesmo.}
+{214}{}{Você deve ter um bom lucro com isso.}
+{215}{}{Você deve ser muito amigo de New Reno, então.}
 {216}{}{Entendo. Deixe eu te perguntar sobre outra coisa.}
-{217}{}{Have any Jet that I could have, then?}
-{218}{}{Not really. I guess they're so used to me processing the bulk batches of Jet into user-ampoules
- that they haven't even thought twice about it. I've been doing it for quite a while before this, and
- I've been the doctor here for a long time.}
-{219}{}{I'm glad that you're not in trouble. Let me ask you about something else, Doc.}
-{220}{}{Good. I bet things would get ugly if they ever suspected. Well, goodbye, Doc.}
-{221}{}{Well, everyone wants a part of the gold here in Redding, so we're going to be controlled
- by someone, eventually. I just want us to have the master that's going to do the best job for Redding.}
-{222}{}{And who do you think that is?}
-{223}{}{The way I see it, Redding's best chance is with Vault City controlling things here. That's where
- I'm from - so I might be biased - but I really do think that Vault City can do a better job of helping
- the citizens of Redding.}
+{217}{}{Então, voce tem algum jet que eu possa tomar?}
+{218}{}{Na verdade. Acho que eles estão tão acostumados comigo processando os lotes de jet em
+ ampolas individuais que nem pensaram muito sobre isso. Eu tenho feito isso por um bom tempo
+ antes disso, e eu sou o médico aqui há muito tempo.}
+{219}{}{Estou feliz que você não está com problemas. Deixe eu te perguntar sobre outra coisa, doutor.}
+{220}{}{Bom. Aposto que as coisas ficariam feias se eles suspeitassem. Bem, adeus, doutor.}
+{221}{}{Bem, todo mundo quer uma parte do ouro aqui de Redding, de uma hora ou outra seremos
+ controlados por alguém. Só quero que tenhamos alguém que fará o melhor trabalho para Redding.}
+{222}{}{E quem você acha que é?}
+{223}{}{A meu ver, a melhor chance de Redding é com Vault City controlando as coisas por aqui. É de
+ onde eu sou , posso parecer tendencioso, mas realmente acho que Vault City pode fazer um trabalho
+ melhor para ajudar os cidadãos de Redding.}
 {224}{}{Por que isso?}
-{225}{}{Because they handle Vault City in a just and humane manner. They would do the same for Redding.
- I'm sure of it.}
-{226}{}{Vault City takes care of their citizens all right, but they treat non-citizens like dirt.}
-{227}{}{I see, Doctor. That makes a certain kind of sense.}
+{225}{}{Porque eles comandam Vault City de maneira justa e humana. Eles fariam o mesmo por Redding.
+ Estou certo disso.}
+{226}{}{Vault City cuida bem de seus cidadãos, mas eles tratam os não-cidadãos como lixo.}
+{227}{}{Entendo, doutor. Isso faz um certo sentido.}
 {228}{}{They'll realize the benefits soon enough. I'm certain that they'll welcome Vault City's
  administration with open arms, uh, eventually.}
 {229}{}{I see. Well, let me ask you about something other than politics.}

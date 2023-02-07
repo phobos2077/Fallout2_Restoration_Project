@@ -79,38 +79,38 @@
 {601}{}{Eleven pay the lines.}
 {602}{}{Two, craps loose the lines.}
 {603}{}{Three, craps loose the lines.}
-{604}{}{Twelve, craps loose the lines.}
-{610}{}{Seven loose the don't lines, point off.}
-{611}{}{Eleven loose the don't lines.}
-{612}{}{Two, craps pay the don't lines.}
-{613}{}{Three, craps pay the don't lines.}
-{614}{}{Twelve, craps push the don't lines.}
-{620}{}{Prop bet 7}
-{621}{}{Prop bet double 3s}
-{622}{}{Prop bet double 4s}
-{623}{}{Prop bet double 5s}
-{624}{}{Prop bet double 2s}
-{625}{}{Prop bet 1 and 2}
-{626}{}{Prop bet 5 and 6}
-{627}{}{Prop bet 1 and 1}
-{628}{}{Prop bet 6 and 6}
-{629}{}{Prop bet Craps 2,3,12}
-{630}{}{Loses!}
-{631}{}{Wins!}
-{650}{}{Place bet 4}
-{651}{}{Place bet 5}
-{652}{}{Place bet 6}
-{653}{}{Place bet 8}
-{654}{}{Place bet 9}
-{655}{}{Place bet 10}
-{660}{}{Field bet 2 wins double.}
-{661}{}{Field bet 3 wins.}
-{662}{}{Field bet 4 wins.}
-{663}{}{Field bet 9 wins.}
-{664}{}{Field bet 10 wins.}
-{665}{}{Field bet 11 wins.}
-{666}{}{Field bet 12 wins triple.}
-{667}{}{Field bet loses.}
+{604}{}{Doze, dados soltam as linhas.}
+{610}{}{Sete. Aposta finalizada.}
+{611}{}{Onze. Aposta finalizada.}
+{612}{}{Dois, dados pagam, as linhas não.}
+{613}{}{Três, dados pagam, as linhas não.}
+{614}{}{Doze, dados empurram, as linhas não.}
+{620}{}{Apostar em 7}
+{621}{}{Aposte no duplo 3s}
+{622}{}{Aposte no duplo 4}
+{623}{}{Aposte no duplo 5s}
+{624}{}{Aposte no duplo 2s}
+{625}{}{Aposte em 1 e 2}
+{626}{}{Aposte em 5 e 6}
+{627}{}{Aposte em 1 e 1}
+{628}{}{Aposte em 6 e 6}
+{629}{}{Aposte dados 2,3,12}
+{630}{}{Perdeu!}
+{631}{}{Ganhou!}
+{650}{}{Aposte 4}
+{651}{}{Aposte 5}
+{652}{}{Aposte 6}
+{653}{}{Aposte 8}
+{654}{}{Aposte 9}
+{655}{}{Aposte 10}
+{660}{}{A aposta de campo 2 ganha o dobro.}
+{661}{}{Aposta de campo 3 ganha.}
+{662}{}{Aposta de campo 4 ganha.}
+{663}{}{Aposta de campo 9 ganha.}
+{664}{}{Aposta de campo 10 ganha.}
+{665}{}{Aposta de campo 11 ganha.}
+{666}{}{Aposta de campo 12 ganha o triplo.}
+{667}{}{A aposta de campo perde.}
 {670}{}{Aposta em 4}
 {671}{}{Aposta em 5}
 {672}{}{Aposta em 6}
@@ -128,19 +128,19 @@
 {702}{}{Não}
 {710}{}{Dado 1:}
 {711}{}{Dado 2:}
-{712}{}{Sorry, I have to leave.}
-{713}{}{Sorry, I don't want to make this bet.}
-{714}{}{Point's off.}
-{800}{}{Take Odds on Play Numbers.}
-{801}{}{Choose odds multiplier. Odds on:}
-{802}{}{x's odds.}
-{803}{}{currently at:}
-{804}{}{Odds bet on 4.}
-{805}{}{Odds bet on 5.}
-{806}{}{Odds bet on 6.}
-{807}{}{Odds bet on 8.}
-{808}{}{Odds bet on 9.}
-{809}{}{Odds bet on 10.}
-{810}{}{Bet on what number?}
-{1100}{}{You see a woman with a sharp eye, and a business attitude.}
+{712}{}{Desculpe, eu tenho que sair.}
+{713}{}{Desculpe, não quero fazer esta aposta.}
+{714}{}{Ponto em 0.}
+{800}{}{Escolha vantagens sobre números de jogadores.}
+{801}{}{Escolha o multiplicador de probabilidades. Probabilidades em:}
+{802}{}{Vantagens de x.}
+{803}{}{Atualmente em:}
+{804}{}{Aposte nas probabilidades de 4.}
+{805}{}{Aposte nas probabilidades de 5.}
+{806}{}{Aposte nas probabilidades de 6.}
+{807}{}{Aposte nas probabilidades de 8.}
+{808}{}{Aposte nas probabilidades de 9.}
+{809}{}{Aposte nas probabilidades de 10.}
+{810}{}{Apostar em qual número?}
+{1100}{}{Você vê uma mulher com um olhar aguçado e uma atitude de negócios.}
 {1102}{}{Ela tem um bastão e muitas tampas. Você pode tentar a sorte com ela.}
