@@ -30,17 +30,17 @@
 {125}{}{That was one of the worst caravans I've had in years. I'm not making money on it, so guess
  what? Neither are you. Get out of my sight.}
 {126}{}{Yeah? I'd like to see you try that, you cheap bastard. Goodbye.}
-{127}{}{Well, sometimes you just get luckier than others. This was one of the unlucky times. Goodbye.}
+{127}{}{Bem, as vezes você tem mais sorte do que outros. Este foi um dos momentos de azar. Adeus.}
 {128}{}{Fuck. My ass is really in a sling here. We lost so much stuff this run. I knew I shoulda'
  hired pros. Here's $500 for your time, you worthless sack of shit.}
-{129}{}{Well, something is better than nothing, I guess. Goodbye.}
+{129}{}{Bem, isso é melhor do que nada, eu acho. Adeus.}
 {130}{}{You lousy bastard! Nobody could have done a better job. Goodbye.}
 {131}{}{That's the ticket. That run went smooth as shit through a goose. Here's your $1500, pal.}
-{132}{}{I don't think I ever want to spend so much time looking at the ass-end of a brahmin again. Goodbye.}
+{132}{}{Acho que nunca mais quero passar tanto tempo olhando para a bunda de um brahmin. Adeus.}
 {133}{}{Thanks. See you later. Goodbye.}
 {134}{}{That's the way a caravan run should go. Smooth as a baby's silky bottom. Here's your $1500, and
  I'll even throw in an extra $200 for the smooth service.}
-{135}{}{Nice to find someone who appreciates quality when he sees it. See you around, maybe. Goodbye.}
+{135}{}{É bom encontrar alguém que aprecie a qualidade quando vê. Vejo você por aí, talvez. Adeus.}
 {136}{}{Thanks for the extra change, Savinelli. Goodbye.}
 {137}{}{I'm not sure how long it's going to take these damn dirt-grubbers to get my gold shipment
  together. We'll be ready to go on the 21st, no matter what. Check back with me if you still want a job.}

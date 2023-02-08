@@ -7,24 +7,24 @@
 {106}{}{Tem alguém em casa?}
 {107}{}{Você não é inteligente o suficiente para grunhir, não é?}
 {108}{}{Vamos, está tudo bem. Apenas saia daqui.}
-{109}{}{I ain't got time for no stupids.}
-{110}{}{I hear that you had some trouble with some of your caravans. Everyone has trouble sometimes -
- just don't make a habit of it.}
-{111}{}{I hear you did some caravan work already. That's good. There's always room for good caravan guards.}
+{109}{}{Não tenho tempo para idiotas.}
+{110}{}{Ouvi dizer que você teve alguns problemas com algumas de suas caravanas. Todo mundo tem
+ problemas às vezes... só não faça que isso vire um hábito.}
+{111}{}{Ouvi dizer que você já fez alguns trabalhos de caravana. Isso é bom, sempre há espaço para bons guardas de caravana.}
 {112}{}{Quem é você?}
-{113}{}{Are there any caravans ready to go out now?}
-{114}{}{Where do the caravans from Redding usually go?}
-{115}{}{Hear any news around town lately?}
-{116}{}{Have you ever heard about something called a Garden of Eden Creation Kit?}
-{117}{}{Thanks for letting me know. Goodbye.}
-{118}{}{Hello there, I'm James Hoffy. But usually people call me Jimmy. I organize the caravans
- around here.}
-{119}{}{What do ya want, Pally?}
-{120}{}{Are there any caravans ready to go out now?}
-{121}{}{Where do the caravans from Redding usually go?}
-{122}{}{Hear any news around town lately?}
-{123}{}{Have you ever heard about something called a Garden of Eden Creation Kit?}
-{124}{}{I was just looking around, Jimmy. Thanks. Goodbye.}
+{113}{}{Há alguma caravana pronta para sair agora?}
+{114}{}{Para onde costumam ir as caravanas de Redding?}
+{115}{}{Ouviu alguma notícia pela cidade ultimamente?}
+{116}{}{Você já ouviu falar de algo chamado Kit de Criação do Jardim do Éden?}
+{117}{}{Obrigado por me avisar. Adeus.}
+{118}{}{Olá, sou James Hoffy, mas geralmente as pessoas me chamam de Jimmy. Eu organizo as
+ caravanas por aqui.}
+{119}{}{O que você quer, colega?}
+{120}{}{Há alguma caravana pronta para sair agora?}
+{121}{}{Para onde costumam ir as caravanas de Redding?}
+{122}{}{Ouviu alguma notícia pela cidade ultimamente?}
+{123}{}{Você já ouviu falar de algo chamado Kit de Criação do Jardim do Éden?}
+{124}{}{Eu só estava dando uma olhada, Jimmy. Obrigado e adeus.}
 {125}{}{That I don't know. You'd have to ask the caravan drivers. You can usually find a caravan here
  on the 1st, 11th, and 21st of each month. If they are not here on those days, then that means the caravan is on its way
  to arrive at Redding rather than leave it. Real neat and tidy that way. You see here, this is the way

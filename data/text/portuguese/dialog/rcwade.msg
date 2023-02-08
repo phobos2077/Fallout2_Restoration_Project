@@ -25,22 +25,22 @@
 {121}{}{You left the caravan. Now leave here, as well.}
 {122}{}{You're nothing but a thief. You've probably already taken your cut - now get out.}
 {123}{}{A thief? I resemble that remark, you damn ingrate. I'm leaving. Goodbye.}
-{124}{}{Someday soon, you'll regret crossing me. Goodbye.}
+{124}{}{Algum dia em breve, você vai se arrepender de ter cruzado comigo. Adeus.}
 {125}{}{If you had done your job and guarded my caravan, then I'd have enough money to pay you. As it
  is... well, you reap what you sow. You get nothing.}
-{126}{}{You cheap bastard! You'll pay for stiffing me. Goodbye.}
-{127}{}{Well, sometimes you just get luckier than others. This was one of the unlucky times. Goodbye.}
+{126}{}{Seu safado asqueroso! Vai pagar caro por me enganar. Adeus.}
+{127}{}{Bem, as vezes você tem mais sorte do que outros. Este foi um dos momentos de azar. Adeus.}
 {128}{}{That was a bad trip. I can only give you $500 - and even that will leave me broke. Sorry.}
-{129}{}{Well, something is better than nothing, I guess. Goodbye.}
+{129}{}{Bem, isso é melhor do que nada, eu acho. Adeus.}
 {130}{}{You lousy bastard! Nobody could have done a better job. You'll regret stiffing me. Goodbye.}
 {131}{}{That caravan was a success. Here's your $1000. Pleasure working with you. Hope to see you again
  sometime.}
-{132}{}{I don't think I ever want to spend so much time looking at the ass-end of a brahmin again. Goodbye.}
-{133}{}{That wasn't too bad at all. See you later. Goodbye.}
+{132}{}{Acho que nunca mais quero passar tanto tempo olhando para a bunda de um brahmin. Adeus.}
+{133}{}{Isso não foi tão ruim assim. Até mais.}
 {134}{}{Hoo-wee! Foi uma ótima corrida. $1.000 para você e outros $200 como bônus. Você deve ser algum tipo de amuleto
  da sorte. Volte com nós se formos ao mesmo lugar.}
-{135}{}{Nice to find someone who appreciates quality when he sees it. See you around, maybe. Goodbye.}
-{136}{}{Always glad to make some extra money. Thanks, and goodbye.}
+{135}{}{É bom encontrar alguém que aprecie a qualidade quando vê. Vejo você por aí, talvez. Adeus.}
+{136}{}{Sempre fico feliz em ganhar algum dinheiro extra. Obrigado e adeus.}
 {137}{}{Difícil dizer, na verdade. Acho que depende de quanto tempo leva para reunir minério suficiente. Não
  sou mineiro, mas acho que não vai demorar mais do que algumas semanas.}
 {138}{}{Well, because I'm not exactly sure how long it will take to get all the medical supplies together. Probably not much

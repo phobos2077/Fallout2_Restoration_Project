@@ -27,22 +27,22 @@
 {122}{}{Did you really think that I'd reward a thief? You're lucky I didn't lynch you on the trail.
  I'm certainly not paying you anything. Now get out.}
 {123}{}{A thief? I resemble that remark, you damn ingrate. I'm leaving. Goodbye.}
-{124}{}{Someday soon, you'll regret crossing me. Goodbye.}
+{124}{}{Algum dia em breve, você vai se arrepender de ter cruzado comigo. Adeus.}
 {125}{}{We got so torn up out there that I don't have enough money to pay you. Of course, if you'd done
  your job better, things would be different.}
-{126}{}{You cheap bastard! You'll pay for stiffing me. Goodbye.}
-{127}{}{Well, sometimes you just get luckier than others. This was one of the unlucky times. Goodbye.}
+{126}{}{Seu safado asqueroso! Vai pagar caro por me enganar. Adeus.}
+{127}{}{Bem, as vezes você tem mais sorte do que outros. Este foi um dos momentos de azar. Adeus.}
 {128}{}{We didn't quite lose everything we had... but we lost more than I can afford. If you'd done your
  job right, you'd be getting more than this $500.}
-{129}{}{Well, something is better than nothing, I guess. Goodbye.}
+{129}{}{Bem, isso é melhor do que nada, eu acho. Adeus.}
 {130}{}{You lousy bastard! Nobody could have done a better job. You'll regret stiffing me. Goodbye.}
 {131}{}{That wasn't too bad at all. Here's your $2000. Come on back if you need more work sometime.}
-{132}{}{I don't think I ever want to spend so much time looking at the ass-end of a brahmin again. Goodbye.}
-{133}{}{That wasn't too bad at all. See you later. Goodbye.}
+{132}{}{Acho que nunca mais quero passar tanto tempo olhando para a bunda de um brahmin. Adeus.}
+{133}{}{Isso não foi tão ruim assim. Até mais.}
 {134}{}{That was a good run. Might not have worked out that way if you weren't along. Here's your $2000,
  plus a $500 bonus for the great job. Thanks again.}
-{135}{}{Nice to find someone who appreciates quality when he sees it. See you around, maybe. Goodbye.}
-{136}{}{Always glad to make some extra money. Thanks, and goodbye.}
+{135}{}{É bom encontrar alguém que aprecie a qualidade quando vê. Vejo você por aí, talvez. Adeus.}
+{136}{}{Sempre fico feliz em ganhar algum dinheiro extra. Obrigado e adeus.}
 {137}{}{I can't leave until we get a full load of ore. It'll all be ready to move on the 11th. Early in
  the day is best. Stop back then if you want a job.}
 {138}{}{We need to get the brahmin in from the outlying settlements before we can get going. We'll be
