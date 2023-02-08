@@ -1,9 +1,9 @@
-{100}{}{You see a nervous-looking fellow in a jumpsuit.}
-{101}{}{You see Ferndown, the Vault City merchant agent.}
-{102}{}{You see a frail and edgy-looking fellow in a dirty vaultsuit.}
-{103}{}{I'm afraid that we can't pay you for abandoning the caravan. I'm sure that's what got Ben killed.}
-{104}{}{Did you really think that I'd reward a thief? You're lucky that you weren't lynched on the
- trail. I won't pay you anything. Now get out.}
+{100}{}{Você vê um sujeito de aparência nervosa em um macacão.}
+{101}{}{Você vê Ferndown, o agente mercante de Vault City.}
+{102}{}{Você vê um sujeito frágil e de aparência nervosa em um macacão sujo.}
+{103}{}{Receio que não possamos pagá-lo por abandonar o trailer. Tenho certeza de que foi isso que matou Ben.}
+{104}{}{Você realmente achou que eu recompensaria um ladrão? Você tem sorte de não ter sido
+ linchado na trilha. Eu não vou te pagar nada. Agora saia.}
 {105}{}{A thief? I resemble that remark, you damn ingrate! I'm leaving. Goodbye.}
 {106}{}{Someday soon, you'll regret crossing me. Goodbye.}
 {107}{}{Your caravan had so many losses that I can't think you really did your job. We can't reward that
