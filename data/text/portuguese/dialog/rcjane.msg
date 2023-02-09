@@ -1,29 +1,29 @@
-{100}{}{You see a gruff-looking woman with a big smile.}
-{101}{}{You see Jackpot Jane, the manager of the creature fights.}
-{102}{}{You see a capable-looking woman with a shrewdly appraising eye for detail. }
-{103}{}{Hello there, friend. Come to see the critter contests?}
-{104}{}{Oooh. Furry.}
-{105}{}{Pretty fur.}
-{106}{}{Ah, I see. You must be new in town. Well, I tell you what. I'll make a special bet for you during tomorrow's fights. Would you like me to do that for you?}
+{100}{}{Você vê uma mulher de aparência rude com um grande sorriso.}
+{101}{}{Você vê Jackpot Jane, a gerente das lutas de criaturas.}
+{102}{}{Você vê uma mulher de aparência capaz e com um olhar perspicaz para avaliar os detalhes. }
+{103}{}{Olá amigo. Veio ver os concursos de criaturas?}
+{104}{}{Oooh. Fofinho.}
+{105}{}{Peludo bonito.}
+{106}{}{Entendo, você deve ser novo na cidade. Ok, eu vou te dizer o que vamos fazer, farei uma aposta especial para você nas lutas de amanhã. Você gostaria que eu fizesse isso?}
 {107}{}{(Você concorda) Ook, ook. (e segure sua bolsa)}
-{108}{}{Mook? Gaga. Bye furry.}
-{109}{}{Good idea. You come back here tomorrow and if your critter won in the fights, I'll give you your money. Okay?}
-{110}{}{OK, good move. I'll make sure you get a real special bet with that. See you later.}
-{111}{}{Win?}
-{112}{}{Okay... bye bye.}
-{113}{}{No, I'm afraid not. But I've got a real good feeling about the next time. Want to place another special bet?}
-{114}{}{Okay. Danku. (you nod and hold out your purse).}
-{115}{}{Booo? Bye.}
-{116}{}{I'm real sorry, but you ain't got nothing there to bet with. Come on back when you've got a bit of a grubstake together.}
-{117}{}{Okay, pretty pretty. Bye.}
-{118}{}{Show up at the corral right around noon ever-dang-day.}
-{119}{}{No fights right now, show up at the corral at noon.}
-{120}{}{Nothing happening here right now.}
-{121}{}{Wait until noon for the fights. Right now leave me alone.}
-{122}{}{Hey there! See you at the corral, otherwise get outta here.}
-{123}{}{This looks promising, folks. They're really sizing each other up.}
-{124}{}{A few good moves there, you can tell these two have done this before!}
-{125}{}{Good round, good round. There's a lot of hate in that corral.}
+{108}{}{Mook? Gagá. Tchau peludo.}
+{109}{}{Boa ideia. Você volta aqui amanhã e se o seu bicho ganhou nas lutas, eu te dou o seu dinheiro. OK?}
+{110}{}{OK, boa decisão. Vou garantir que você faça uma aposta especial. Até mais.}
+{111}{}{Ganho?}
+{112}{}{Certo, tchau tchau.}
+{113}{}{Não, receio que não. Mas tenho um pressentimento muito bom sobre a próxima vez. Quer fazer outra aposta especial?}
+{114}{}{OK. Brigado. (você acena com a cabeça e estende sua bolsa).}
+{115}{}{Booo? Tchau.}
+{116}{}{Sinto muito, mas você não tem nada para apostar. Volte quando tiver um pouco mais de grana.}
+{117}{}{Ok, muito bem. Tchau.}
+{118}{}{Apareça no curral por volta do meio-dia todos os dias.}
+{119}{}{Sem brigas agora, apareça no curral ao meio-dia.}
+{120}{}{Nada acontecendo aqui agora.}
+{121}{}{Espere até o meio-dia para as lutas. Agora me deixe em paz.}
+{122}{}{Olá! Vejo você no curral, pode sair daqui.}
+{123}{}{Isso parece promissor, pessoal. Eles estão realmente se estudando.}
+{124}{}{Alguns bons movimentos aqui, é claro que esses dois já fizeram isso antes!}
+{125}{}{Boa volta, boa volta. Tem muito ódio naquele curral.}
 {126}{}{Can you believe the stamina of these two? They can really dish it out as well as take it.}
 {127}{}{What an undercut there, that had to hurt!}
 {128}{}{Oh yeah! Body blow! Body blow!}

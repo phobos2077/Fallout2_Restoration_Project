@@ -58,7 +58,7 @@
 {157}{}{Por que você não fez um acordo com os posseiros?}
 {158}{}{Você sabe onde é o Vault 13?}
 {159}{}{Estou procurando um GECK. Por acaso você teria um?}
-{160}{}{What can you tell me about New Reno?}
+{160}{}{O que você pode me dizer sobre New Reno?}
 {161}{}{O que você pode me dizer sobre Roger Westin?}
 {162}{}{O que você pode me dizer sobre Carlson?}
 {163}{}{A Anciã conta uma história sobre o Morador da Vault e alguém chamado Tandi. Você é aquela Tandi?}

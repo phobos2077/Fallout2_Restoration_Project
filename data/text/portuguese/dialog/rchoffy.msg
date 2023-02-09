@@ -25,54 +25,52 @@
 {122}{}{Ouviu alguma notícia pela cidade ultimamente?}
 {123}{}{Você já ouviu falar de algo chamado Kit de Criação do Jardim do Éden?}
 {124}{}{Eu só estava dando uma olhada, Jimmy. Obrigado e adeus.}
-{125}{}{That I don't know. You'd have to ask the caravan drivers. You can usually find a caravan here
- on the 1st, 11th, and 21st of each month. If they are not here on those days, then that means the caravan is on its way
- to arrive at Redding rather than leave it. Real neat and tidy that way. You see here, this is the way
- it works: When a caravan's in town and looking for help, the caravan master has his tent set up
- here just south of my castle. Real neat and tidy that way.}
+{125}{}{Isso eu não sei, você teria que perguntar aos condutores de caravana. Normalmente, você pode
+ encontrar uma caravana aqui nos dias 1, 11 e 21 de cada mês. Se eles não estiverem aqui nesses dias, isso significa
+ que a caravana está a caminho de Redding. Ordem acima de tudo. Como se pode ver, é assim que
+ funciona: quando uma caravana está na cidade e procurando ajuda, o mestre da caravana tem
+ sua tenda armada aqui ao sul do meu castelo. Tudo muito bem limpo e arrumado.}
 {126}{}{Seu castelo? O que você quer dizer?}
-{127}{}{I see. I guess I'll talk to them, then. Thanks. Goodbye.}
-{128}{}{We run caravans all over the fricking place. Let me tell you: We've got gold ore going out to
- Vault City, we've got some going out to New Reno (ooo-la-la, if ya know what I mean), and we've even
- got some going to those prissy bastards in the NCR.}
-{129}{}{What can you tell me about Vault City?}
-{130}{}{What can you tell me about New Reno?}
-{131}{}{What can you tell me about the NCR?}
+{127}{}{Entendo, acho que vou falar com eles, então. Obrigado. Adeus.}
+{128}{}{Enviamos caravanas para qualquer maldito lugar. Deixe que eu explique: temos minério de
+ ouro saindo para Vault City, temos algum indo para New Reno (ooo-la-la, se é que você me entende), e
+ ainda temos alguns indo para aqueles engomadinhos da NCR.}
+{129}{}{O que você pode me dizer sobre Vault City?}
+{130}{}{O que você pode me dizer sobre New Reno?}
+{131}{}{O que você pode me dizer sobre a NCR?}
 {132}{}{Deixa eu te perguntar outra coisa.}
-{133}{}{That's all I need to know for now. Thanks, Goodbye.}
-{134}{}{What else is a man's home? Sheesh, were you brought up in a tent or something?}
-{135}{}{Actually... I was.}
-{136}{}{I've heard enough from you, damn bigot. Goodbye.}
-{137}{}{Oh, yeah. Well, I guess that explains things, then. A lot of things. Heh, heh.}
-{138}{}{Now that we've straightened that out, let me ask you something else.}
-{139}{}{Yeah, I bet it has. Goodbye.}
-{140}{}{Vault City (Jimmy spits disdainfully). Yeah, I'll tell you about those sons-of-bitches. Fucking
- bastards are too good for the rest of us. They only trade medicine to us because they need our gold.
- Otherwise they'd just let us all rot. I wouldn't spend too much time there, kid. But if you want to see
- it, Ben Wade heads out from here on the 1st of every month.}
-{141}{}{What can you tell me about New Reno?}
-{142}{}{What can you tell me about the NCR?}
-{143}{}{Thanks. Let me ask you about something else.}
+{133}{}{Isso é tudo que preciso saber por enquanto. Obrigado, adeus.}
+{134}{}{O que mais é a casa de um homem? Cristo, você foi criado em uma tenda ou algo assim?}
+{135}{}{Na verdade... sim.}
+{136}{}{Já ouvi o bastante de você, maldito fanático. Adeus.}
+{137}{}{Oh sim. Bem, acho que isso explica as coisas, então. Muitas coisas. Heh heh.}
+{138}{}{Agora que esclarecemos isso, deixe eu te perguntar outra coisa.}
+{139}{}{Sim, aposto que sim. Adeus.}
+{140}{}{Vault City (Jimmy cospe com desdém). Sim, vou falar sobre esses filhos da puta. Cretinos de
+ merda são bons demais para o resto de nós. Eles só trocam remédios conosco porque precisam do
+ nosso ouro, caso contrário, eles nos deixariam apodrecer. Eu não passaria muito tempo lá, garoto. Mas
+ se você quiser ir, Ben Wade sai daqui no primeiro dia de cada mês.}
+{141}{}{O que você pode me dizer sobre New Reno?}
+{142}{}{O que você pode me dizer sobre a NCR?}
+{143}{}{Obrigado. Deixe eu te perguntar sobre outra coisa.}
 {144}{}{É tudo o que eu queria saber agora. Tchau.}
-{145}{}{Now that's a town. Just make sure you keep your wits about you and your gun handy. Lots of
- fighting going on there. If those families ever worked together on something, then New Reno'd really be
- a power to be reckoned with. The way it is though... Pffft. You want to get there, join up with Savinelli -
- he leaves here on the 21st of each month.}
-{146}{}{What can you tell me about Vault City?}
-{147}{}{What can you tell me about the NCR?}
-{148}{}{Thanks. Let me ask you about something else.}
+{145}{}{Isso agora é uma cidade. Apenas se certifique de andar com juízo e deixar sua arma a mão. Muita
+ luta acontece lá. Se essas famílias quisessem trabalhar juntas, New Reno teria um poder consideravel.
+ Do jeito que é... Pffft. Se quiser chegar lá, junte-se ao Savinelli - ele sai daqui todo dia 21 de cada mês.}
+{146}{}{O que você pode me dizer sobre Vault City?}
+{147}{}{O que você pode me dizer sobre a NCR?}
+{148}{}{Obrigado. Deixe eu te perguntar sobre outra coisa.}
 {149}{}{É tudo o que eu queria saber agora. Tchau.}
-{150}{}{The New California Republic is just full of self-righteous sons-of-bitches. They've got
- everything down their way all straightened out all right. A little too straight. They're as self
- righteous a bunch as you could ever meet. Stanwell runs a caravan from here to the NCR on the 11th of
- each month.}
-{151}{}{What can you tell me about Vault City?}
-{152}{}{What can you tell me about New Reno?}
-{153}{}{Thanks. Let me ask you about something else.}
+{150}{}{A República da Nova Califórnia está cheia de filhos da puta hipócritas. Eles têm tudo
+ em seu caminho, tudo bem endireitado, direito até demais. Eles são o bando mais hipócrita
+ que você poderia conhecer. Stanwell vai com uma caravana daqui até a NCR no dia 11 de cada mês.}
+{151}{}{O que você pode me dizer sobre Vault City?}
+{152}{}{O que você pode me dizer sobre New Reno?}
+{153}{}{Obrigado. Deixe eu te perguntar sobre outra coisa.}
 {154}{}{É tudo o que eu queria saber agora. Tchau.}
-{155}{}{A Garden of Eden Creation Kit? I don't know for certain, 'cept I know we don't have one of them
- here. Hmm. You might try a vault. They're supposed to have all kinds of teck-no-logical stuff, ain't
- they?}
+{155}{}{Um Kit de Criação do Jardim do Éden? Não tenho certeza, só sei que não temos nenhum deles
+ aqui. Hum. Você pode tentar em uma vault. Eles deveriam ter todos os tipos de coisas tec-no-lógicas,
+ não é mesmo?}
 {156}{}{Acho que vou ter que tentar isso. Deixe eu te perguntar outra coisa.}
 {157}{}{Obrigado pela dica. Tchau.}
 {158}{}{Sim, ouvi dizer que eles arranjaram um novato para vasculhar a mina Wanamingo e procurar e
@@ -86,15 +84,15 @@
 {165}{}{Não, não há problema algum. Você sabe que está brincando com política, não é?}
 {166}{}{O que você quer dizer?}
 {167}{}{Sim, claro. Tchau.}
-{168}{}{Well, whichever mine owner you give the chip to is gonna do real well with it. Well enough to
- put the other mine outta business.}
+{168}{}{Bem, seja qual for o dono da mina que você der o chip, vai se dar muito bem com ele. Bem o
+ suficiente para colocar a outra mina fora do negocio.}
 {169}{}{E…?}
-{170}{}{That's called capitalism, my friend. Goodbye.}
-{171}{}{Well, if the mine you give the chip to happens to be the Kokoweef Mine, then we're gonna get a
- lot of those NCR pukes nosing around. If you give the chip to Dan McGrew over at the Morningstar, then 
- we're going to see a lot more Jet in town, instead. Either way, someone wins an' someone loses.}
-{172}{}{If I didn't do it, someone else would. Tell me about something else.}
-{173}{}{That's the way of the world, isn't it? Goodbye.}
-{174}{}{As long as it's not me, pally. Long as it's not me.}
+{170}{}{Isso se chama capitalismo, meu amigo. Adeus.}
+{171}{}{Bem, se a mina para que você der o chip for a Kokoweef, então teremos muitos desses da NCR
+ vomitando por aí. Se você der o chip para Dan McGrew na Morningstar, veremos muito mais jet na cidade.
+ De qualquer maneira, alguém ganha e alguém perde.}
+{172}{}{Se eu não fizesse isso, outra pessoa faria. Vamos falar sobre outra coisa.}
+{173}{}{É assim que funciona o mundo, não é? Adeus.}
+{174}{}{Contanto que não seja eu, amigo. Desde que não seja eu.}
 {175}{}{Deixe eu perguntar uma coisa.}
-{176}{}{Just checking. Goodbye for now.}
+{176}{}{Apenas checando. Até logo.}

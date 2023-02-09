@@ -218,59 +218,59 @@
 {286}{}{That is unfortunate. Good day.}
 {287}{lyn034a}{You may speak with Proconsul Gregory. He has authority to administer the Citizenship
  test. He can be found in the meeting room down the corridor.}
-{288}{lyn034b}{Or... there IS another way to become a Citizen...}
-{289}{}{Another way? What is it?}
-{290}{}{I think I'll just go speak to the Proconsul. Goodbye.}
-{291}{}{I'll go talk to the Proconsul, then.}
-{292}{}{I will go speak with Gregory. Thanks for your time, First Citizen.}
-{293}{lyn035}{Quite impossible. In the century we have lived outside the Vault, no one has ever chosen
- to leave. Although there were two Citizens exiled from our city long ago... as punishment for their crimes.}
-{294}{}{You are the ones who KICKED OUT the Vault Dweller! I've come for what is rightfully mine!}
-{295}{}{What did these Citizens do?}
-{296}{}{If this is not the right Vault, then I must find the one my ancestor came from.}
-{297}{}{I have to be going. Good day.}
-{298}{lyn036a}{Village? But you are wearing a Vault suit... wh-what is this village you speak of? Speak
- plainly: my patience is wearing thin.}
-{299}{lyn036b}{Village? First you tell me you are from a vault, now from a village. Which is it?! My
- patience for your double-talk is wearing thin.}
-{300}{}{Wait, you misunderstand me. The Vault Dweller was the founder of my village.}
-{301}{}{My patience for YOU is wearing thin, woman. Fetch someone else... someone who can help me.}
-{302}{}{My patience for YOU is wearing thin. Fetch someone else... someone who can help me.}
-{303}{}{I think I'll just come back later. Good day.}
-{304}{lyn037}{Oh... now I understand. But what proof do you have that your Ancestor was from a Vault?}
-{305}{}{Stories, passed down by the Elder of my Village.}
-{306}{}{I have the sacred artifacts of the Vault Dweller... this Vault suit, and this holy flask.}
-{307}{}{I have this Vault jumpsuit, and this canteen. They belonged to my ancestor.}
-{308}{}{I grow tired of your questions. I'm going to go find someone else who can help me.}
-{309}{}{I have to be going. Good day.}
-{310}{lyn038}{Hmm... perhaps some mention of your Vault is in our computer archives.}
-{311}{}{Well, can we check?}
-{312}{}{First Citizen, it's very important to me that I find out the location of my ancestor's Vault.
- If I could check the archives, I would be grateful.}
-{313}{}{Hmmmm. Thanks for the information. Good day.}
-{314}{lyn039}{I'm sorry, but we used ours to start Vault City. I do not believe there were any spares,
- but you could check the Acquisitions Office. It is located by the entrance to our vault.}
+{288}{lyn034b}{Ou... existe OUTRA forma de se tornar um Cidadão...}
+{289}{}{Outra forma? Como?}
+{290}{}{Acho que vou falar com o Proconsul. Adeus.}
+{291}{}{Vou falar com o Proconsul então.}
+{292}{}{Vou falar com Gregory. Obrigado pelo seu tempo, Primeira Cidadã.}
+{293}{lyn035}{Completamente impossível. No século em que vivemos fora da Vault, ninguém jamais
+ escolheu sair. Embora houvesse dois Cidadãos exilados de nossa cidade há muito tempo... como punição por seus crimes.}
+{294}{}{Vocês são aqueles que expulsaram o Morador da Vault! Eu vim pelo que é meu por direito!}
+{295}{}{O que esses cidadãos fizeram?}
+{296}{}{Se este não é a Vault certo, devo encontrar aquele de onde meu ancestral veio.}
+{297}{}{Eu tenho que ir. Bom dia.}
+{298}{lyn036a}{Vila? Mas você está vestindo um traje da Vault... o que é essa vila de que você fala? Fale
+ claramente: minha paciência está se esgotando.}
+{299}{lyn036b}{Vila? Primeiro você me diz que é de uma vault, agora de uma vila. O que é isso?!
+ Minha paciência para sua conversa dupla está se esgotando.}
+{300}{}{Espere, você me entendeu mal. O Morador da Vault foi o fundador da minha vila.}
+{301}{}{Minha paciência com VOCÊ está se esgotando, mulher. Chame outra pessoa... alguém que possa me ajudar.}
+{302}{}{Minha paciência com VOCÊ está se esgotando. Chame outra pessoa... alguém que possa me ajudar.}
+{303}{}{Acho que vou voltar mais tarde. Bom dia.}
+{304}{lyn037}{Ah agora eu entendo. Mas que prova você tem de que seu ancestral veio de uma Vault?}
+{305}{}{Histórias, transmitidas pela Anciã da minha Aldeia.}
+{306}{}{Eu tenho os artefatos sagrados do Morador da Vault... esta roupa da Vault, e este frasco sagrado.}
+{307}{}{Eu tenho esse uniforme da Vault e esse cantil. Eles pertenciam ao meu ancestral.}
+{308}{}{Estou cansado de suas perguntas. Vou procurar outra pessoa que possa me ajudar.}
+{309}{}{Eu tenho que ir. Bom dia.}
+{310}{lyn038}{Hmm... talvez alguma menção a sua Vault esteja em nossos arquivos de computador.}
+{311}{}{Bem, podemos verificar?}
+{312}{}{Primeira Cidadã, é muito importante para mim descobrir a localização da Vault do meu
+ ancestral. Se eu pudesse verificar os arquivos, ficaria grato.}
+{313}{}{Hmmmm. Obrigado pela informação. Bom dia.}
+{314}{lyn039}{Desculpe, mas usamos o nosso para começar Vault City. Não acredito que tenha
+ sobressalente, mas você pode verificar no Escritório de Aquisições. Ele está localizado na entrada do nosso cofre.}
 {315}{}{Obrigado. Eu tenho algumas outras questões...}
-{316}{}{Would you know where Vault 13 is located?}
-{317}{}{Great! I'll go there then. Good day.}
-{318}{lyn040}{A dirty vault suit and a battered canteen? That is your proof? Who knows where you
- scavenged those "relics" from... or who you killed to steal them.}
-{319}{}{Please... look at them again. They're genuine.}
-{320}{}{I've traveled all this way. At least LOOK at them, woman!}
-{321}{}{I've traveled all this way. At least LOOK at them!}
-{322}{}{If they aren't enough to convince you, then there's nothing more to be said. Good day.}
-{323}{lyn041a}{Do you have any conception of how busy I am? I run this city, and I have precious little
- time to waste with you and your wild claims.}
-{324}{lyn041b}{Do you have any conception of how busy I am? I run this city, and I have precious little
- time to waste with you.}
-{325}{lyn041c}{Now leave at once, or I shall call the guards.}
-{326}{}{Go ahead and call them. They won't get here in time to save your life.}
+{316}{}{Você sabe onde fica a Vault 13?}
+{317}{}{Ótimo! Eu vou lá então. Bom dia.}
+{318}{lyn040}{Um macacão sujo e um cantil surrado? Essa é a sua prova? Quem sabe de onde você
+ tirou essas "relíquias"... ou quem você matou para roubá-las.}
+{319}{}{Por favor... olhe para eles novamente. Eles são genuínos.}
+{320}{}{Eu viajei por todo esse caminho. Pelo menos OLHE para eles, mulher!}
+{321}{}{Eu viajei por todo esse caminho. Pelo menos OLHE para eles!}
+{322}{}{Se eles não são suficientes para te convencer, então não há mais nada a ser dito. Bom dia.}
+{323}{lyn041a}{Você tem alguma ideia de como estou ocupada? Eu administro esta cidade e tenho pouco
+ tempo para perder com você e suas reivindicações selvagens.}
+{324}{lyn041b}{Você tem alguma ideia de como estou ocupada? Eu administro esta cidade e tenho
+ pouco tempo para perder com você.}
+{325}{lyn041c}{Agora saia imediatamente, ou chamarei os guardas.}
+{326}{}{Vá em frente e ligue para eles. Eles não chegarão aqui a tempo de salvar sua vida.}
 {327}{}{Fine. I'm leaving.}
 {328}{}{Very well, First Citizen. Good day.}
 {329}{lyn042}{A tribal legend? You'll need something more substantial than some... tribal MYTH if you
  want anyone to believe your claim.}
 {330}{}{But I have the sacred artifacts of the Vault Dweller... this Vault suit, and this holy flask.}
-{331}{}{I have this Vault jumpsuit, and this canteen. They belonged to my ancestor.}
+{331}{}{Eu tenho esse uniforme da Vault e esse cantil. Eles pertenciam ao meu ancestral.}
 {332}{}{What do I have to do to prove my heritage, if you will not believe my word?!}
 {333}{}{Fine. I'm leaving.}
 {334}{}{Very well, then we have nothing more to discuss. Good day, First Citizen.}
@@ -288,7 +288,7 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {344}{}{No thanks, I really should be going. Good day, First Citizen.}
 {345}{lyn045}{Murderers, both of them. Boyarsky was exiled ten years ago, and Richard Moreau was exiled
  shortly after we left the Vault. Citizenship is a sacred trust -- crime is not tolerated within our walls.}
-{346}{}{If this is not the right Vault, then I must find the one my ancestor came from.}
+{346}{}{Se este não é a Vault certo, devo encontrar aquele de onde meu ancestral veio.}
 {347}{}{How does a person become a Citizen?}
 {348}{}{I've heard enough. I have to be going.}
 {349}{}{I see. Well, thanks for your time, First Citizen. Good day.}
@@ -880,7 +880,7 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {862}{}{Never mind. Maybe I can find someone else to help me.}
 {863}{}{Very well. Sorry to disturb you, First Citizen.}
 {864}{lyn017b}{You barge into my chambers and then have the audacity to make demands of ME, Lynette, First Citizen of Vault City?!}
-{865}{lyn041c}{Now leave at once, or I shall call the guards.}
+{865}{lyn041c}{Agora saia imediatamente, ou chamarei os guardas.}
 {866}{}{That does it. You're in bad need of a painful lesson.}
 {867}{}{Never mind. Maybe I can find someone else to help me.}
 {868}{}{Sorry for disturbing you, First Citizen.}
