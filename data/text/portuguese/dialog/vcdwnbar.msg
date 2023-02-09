@@ -97,62 +97,62 @@
 {196}{}{Me fale sobre Broken Hills.}
 {197}{}{Tell me about New Reno.}
 {198}{}{Me fale sobre Redding.}
-{199}{}{Tell me about Gecko.}
+{199}{}{Me conte sobre Geco.}
 {200}{}{I wanted to know something else...}
 {201}{}{Obrigado pela informação.}
-{202}{}{It's a mining community like Redding, except it's located to the far South. We get many of our uranium shipments from there.}
+{202}{}{É uma comunidade mineira como Redding, exceto que está localizada no extremo sul. Recebemos muitos de nossos carregamentos de urânio de lá.}
 {203}{}{Tell me about New Reno.}
 {204}{}{Me fale sobre Redding.}
-{205}{}{Tell me about Gecko.}
+{205}{}{Me conte sobre Geco.}
 {206}{}{I wanted to know something else...}
 {207}{}{Obrigado pela informação.}
-{208}{}{It's a ways to the southwest. I hear conflicting reports about Reno. Some merchants, especially the slavers, really love it there. Other merchants... don't. City with a lot of glitter... and a lot of trouble, I hear.}
+{208}{}{É um caminho para o sudoeste, eu ouço relatos conflitantes sobre Reno. Alguns comerciantes, especialmente os escravistas, realmente adoram lá. Outros comerciantes... não. Cidade com muito brilho... e muita confusão, ouvi dizer.}
 {209}{}{Me fale sobre Broken Hills.}
 {210}{}{Me fale sobre Redding.}
-{211}{}{Tell me about Gecko.}
+{211}{}{Me conte sobre Geco.}
 {212}{}{I wanted to know something else...}
 {213}{}{Obrigado pela informação.}
-{214}{}{It's a mining town far to the west. We haven't seen too many caravans from them recently, and it's got some of the high-ups a little worried. Senior Councilman McClure especially.}
+{214}{}{É uma cidade mineira bem a oeste. Não vimos muitas caravanas deles recentemente, e alguns dos chefões ficaram um pouco preocupados. Especialmente o conselheiro sênior McClure.}
 {215}{}{Me fale sobre Broken Hills.}
 {216}{}{Tell me about New Reno.}
-{217}{}{Tell me about Gecko.}
+{217}{}{Me conte sobre Geco.}
 {218}{}{I wanted to know something else...}
 {219}{}{Obrigado pela informação.}
-{220}{}{A town of ghouls less than a day's travel to the northeast, as I understand it. Rumor is they prey on any travelers that enter their territory. Best stay away.}
+{220}{}{Uma cidade de ghouls a menos de um dia de viagem para o nordeste, pelo que entendi. Há rumores de que eles atacam qualquer viajante que entra em seu território. Melhor ficar longe.}
 {221}{}{Me fale sobre Broken Hills.}
 {222}{}{Tell me about New Reno.}
 {223}{}{Me fale sobre Redding.}
 {224}{}{I wanted to know something else...}
 {225}{}{Obrigado pela informação.}
-{226}{}{Why? You looking for something with some more kick than these synthetic drinks?}
-{227}{}{Perhaps. Drinking synthetic alcohol can't really compare to the real thing.}
-{228}{}{Not really. I was looking for some information instead...}
+{226}{}{Por que? Você está procurando algo com um pouco mais de força do que essas bebidas sintéticas?}
+{227}{}{Talvez. Beber álcool sintético não pode ser comparado ao real.}
+{228}{}{Na verdade. Eu estava procurando algumas informações em vez disso...}
 {229}{}{Hoje não.}
-{230}{}{That's for sure. I used to have a... well, I used to know this merchant who had a bottle of Maddog 30/30. Bitter stuff... couldn't feel my tongue afterwards, but it was refreshingly different.}
-{231}{}{What happened to this "merchant's" stash?}
+{230}{}{Isso é certeza. Eu costumava ter um... bem, eu conhecia um comerciante que tinha uma garrafa de Maddog 30/30. Coisas amargas... não consegui sentir minha língua depois, mas foi refrescantemente diferente.}
+{231}{}{O que aconteceu com o esconderijo desse "comerciante"?}
 {232}{}{I was looking for some information.}
-{233}{}{I see. Well, it was good talking to you.}
-{234}{}{It got drunk. Or so I heard. There were a few other "friends" here in Vault City who helped this merchant friend drink the stash. They were willing to pay a good price to have the real stuff for a change.}
-{235}{}{I'll bet. You know, I could probably get some more of the real stuff, easy. I've been traveling the wastes a lot, and getting a hold of alcohol is no big deal.}
+{233}{}{Entendo. Bem, foi bom falar com você.}
+{234}{}{Estava bêbado. Ou então eu ouvi. Havia alguns outros "amigos" aqui em Vault City que ajudaram este amigo comerciante a beber o estoque. Eles estavam dispostos a pagar um bom preço para ter o material real para negociar.}
+{235}{}{Aposto. Você sabe, eu provavelmente poderia pegar mais coisas reais, fácil. Eu tenho viajado muito pelo deserto, e conseguir álcool não é grande coisa.}
 {236}{}{I was looking for some information.}
-{237}{}{I see. Well, it was good talking to you.}
-{238}{}{Is that so? Well, if you happened to be looking to relieve yourself of some real alcohol, then I could make it worth your while. If you could keep quiet about our deal. And get the contraband past the gate.}
-{239}{}{How much real alcohol would you need?}
-{240}{}{Say, a case of ten bottles of premium alcohol, and ten bottles of beer. And none of that radioactive stuff I hear comes out of Gecko. Just good old "booze," all right?}
-{241}{}{I happen to have just that amount right here.}
-{242}{}{I might be able to get you some. Say, I was looking for some information...}
-{243}{}{Hmmmm. I'll think about it and get back to you.}
-{244}{}{Excellent! Here's something for you... that amount's double the price the cases are worth. And this transaction never happened, all right?}
-{245}{}{No problem. Hey, I was looking for some information...}
-{246}{}{Thanks. Pleasure doing business with you.}
-{247}{}{No, those wasteland concoctions they call alcohol are illegal here in Vault City. I don't even want to know how they brew them. Now did you want something to drink, Captain...?}
-{248}{}{Nothing wrong with a little real alcohol now and then. Sure, your perception suffers, but it can when you have too much healing powder, too.}
-{249}{}{I'll just have something else, then.}
-{250}{}{Nevermind then. I was looking for some information...}
-{251}{}{I see. Thanks anyway.}
-{252}{}{I wouldn't know anything about that. I only serve synthetic alcohol here. If any real alcohol were to enter Vault City, I wouldn't know anything about it.}
-{253}{}{Never mind then. I was looking for some information...}
-{254}{}{I see. Thanks anyway.}
+{237}{}{Entendo. Bem, foi bom falar com você.}
+{238}{}{É assim mesmo? Bem, se por acaso você está procurando se livrar de um pouco de álcool de verdade, então eu posso fazer valer a pena. Se você pudesse ficar quieto sobre o nosso acordo. E faça o contrabando passar pelo portão.}
+{239}{}{Quanto álcool real você precisaria?}
+{240}{}{Digamos, uma caixa com dez garrafas de álcool premium e dez garrafas de cerveja. E nenhuma daquelas coisas radioativas que ouço que vem de Gecko. Apenas o bom e velho alcool, certo?}
+{241}{}{Acontece que eu tenho exatamente essa quantia aqui.}
+{242}{}{Talvez eu consiga alguns para você. Olha, eu estava procurando algumas informações...}
+{243}{}{Hmmmm. Vou pensar a respeito e te retorno.}
+{244}{}{Excelente! Aqui está uma coisa para você... esse valor é o dobro do valor das caixas. E essa transação nunca aconteceu, certo?}
+{245}{}{Sem problemas. Olha, estava procurando uma informação...}
+{246}{}{Obrigado. Prazer em fazer negócios com você.}
+{247}{}{Não, essas misturas do deserto que eles chamam de álcool são ilegais aqui em Vault City. Eu nem quero saber como eles os preparam. Agora você quer algo para beber, capitão...?}
+{248}{}{Nada de errado com um pouco de álcool de vez em quando. Claro, sua percepção sofre, mas pode usar quando tiver mais pó de cura também.}
+{249}{}{Vou querer outra coisa, então.}
+{250}{}{Deixa pra lá então. Estava procurando algumas informações...}
+{251}{}{Entendo. Obrigado de qualquer maneira.}
+{252}{}{Eu não sei nada sobre isso, eu só sirvo álcool sintético aqui. Se algum álcool de verdade entrasse em Vault City, eu não saberia nada sobre isso.}
+{253}{}{Deixa pra lá, então. Estava procurando algumas informações...}
+{254}{}{Entendo. Obrigado de qualquer maneira.}
 {255}{}{Eu... vejo. Bem, uh, tome cuidado agora. OK?}
 {256}{}{Thankie wankie my stankie}
 {257}{}{Desliga}

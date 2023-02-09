@@ -24,63 +24,63 @@
 {123}{}{Isso parece promissor, pessoal. Eles estão realmente se estudando.}
 {124}{}{Alguns bons movimentos aqui, é claro que esses dois já fizeram isso antes!}
 {125}{}{Boa volta, boa volta. Tem muito ódio naquele curral.}
-{126}{}{Can you believe the stamina of these two? They can really dish it out as well as take it.}
-{127}{}{What an undercut there, that had to hurt!}
-{128}{}{Oh yeah! Body blow! Body blow!}
-{129}{}{I don't think he even saw that one coming, lucky move.}
-{130}{}{Ouch! That just hadda hurt!}
-{131}{}{This is the real punishment coming up now, folks.}
-{132}{}{Nice move, good paw-work there.}
-{133}{}{Working the body. Good moves here today, folks!}
-{134}{}{Nice combination! This one's a natural champ in the making!}
-{135}{}{Oh yeah, one-two combination, that's got his opponent reeling!}
-{136}{}{These two slugger-naughts are really working up a froth now!}
-{137}{}{Look at all that blood, and they're still going at it. What a fight!}
-{138}{}{This is the type of action you folks have come here to see. Classic moves, classic moves.}
-{139}{}{Yeah, raked him right across the jowls! That's gonna be a bleeder-wound too!}
+{126}{}{Você viu a resistência daqueles dois? Eles podem dar uma surra e receber da mesma forma.}
+{127}{}{Que golpe baixo, deve doer!}
+{128}{}{Oh sim! Porrada! Porrada!}
+{129}{}{Acho que ele nem viu aquele movimento, golpe de sorte.}
+{130}{}{Ai! Isso com certeza doeu!}
+{131}{}{Esta é o verdadeiro castigo chegando agora, pessoal.}
+{132}{}{Bom golpe, bom trabalho com as mãos lá.}
+{133}{}{Bom trabalho com o corpo. Bons golpes aqui hoje, pessoal!}
+{134}{}{Combinação legal! Temos um campeão aqui em formação!}
+{135}{}{Oh sim, combinação um-dois, vai deixar seu oponente cambaleando!}
+{136}{}{Esses dois malucos endiabrados estão se atracando agora!}
+{137}{}{Olhe para todo aquele sangue, e ainda continuam. Que luta!}
+{138}{}{Este é o tipo de ação que vocês vieram aqui para ver. Movimentos clássicos, movimentos clássicos.}
+{139}{}{Sim, uma patada bem no queixo! Isso vai abrir uma ferida também!}
 {140}{}{Você viu como aquele sangue respingou longe?! Uau, que poder!}
 {141}{}{Se move como um bagre ensaboado! Veja como toda aquela carne rasgada sai!}
 {142}{}{Basta olhar para os pedaços de carne voando pra todo lugar! Esses dois têm o que é preciso!}
-{143}{}{Hello there. I'm Jackpot Jane and I run the beast fights here in town. Here to place a bet on the outcome of one of our primal struggles? Beast against beast in its rawest form?}
-{144}{}{Step right up, place your bets. What'll it be?}
-{145}{}{Uh, what happens here?}
-{146}{}{I'm ready to place my bet.}
-{147}{}{I think these fights are rigged.}
-{148}{}{I was just looking around. Goodbye.}
-{149}{}{Quite simple, really: Two of the fearsome beasts that you can take a close look at, no tricks here, I assure you, will be herded into the ring. Seconds later you'll be treated to a display of the raw power of Mother Nature.}
-{150}{}{What does Mother Nature have to do with this?}
-{151}{}{And I can make money on this somehow?}
-{152}{}{Come one, come all, see the STRUGGLE of the CENTURY!}
-{153}{}{Step right up to place your money on the WINNER!}
-{154}{}{See the titanic struggle of beasts!}
-{155}{}{Place your money before betting's closed! Don't hesitate, don't miss out!}
-{156}{}{Beware splattering blood and viscera. The management assumes no responsibility for stains.}
-{157}{}{Thousands of dollars handed out daily!}
-{158}{}{Make your own goldmine of money right here! Right now!}
-{159}{}{Come and see the duel of the day!}
-{160}{}{Wild creatures struggle while you win money! YOU'LL LOVE IT!}
-{161}{}{Bring full purses and fuller expectations! RIGHT THIS WAY!}
+{143}{}{Olá. Sou Jane Jackpot e comando as lutas de feras aqui na cidade. Esta aqui para apostar no resultado de uma de nossas lutas primitivas? Besta contra besta em sua forma mais crua?}
+{144}{}{Suba, faça suas apostas. O que será?}
+{145}{}{O que acontece aqui?}
+{146}{}{Estou pronto para fazer minha aposta.}
+{147}{}{Acho que essas lutas são manipuladas.}
+{148}{}{Eu estava apenas dando uma olhada. Adeus.}
+{149}{}{Muito simples, na verdade: duas das terriveis feras que você pode observar aqui, sem truques, garanto, serão reunidas no ringue. Segundos depois, você será presenteado com uma demonstração do poder brutal da Mãe Natureza.}
+{150}{}{O que a Mãe Natureza tem a ver com isso?}
+{151}{}{E posso ganhar algum dinheiro com isso?}
+{152}{}{Venha um, venha todos, veja a LUTA do SÉCULO!}
+{153}{}{Avance para apostar seu dinheiro no VENCEDOR!}
+{154}{}{Veja a luta titânica das feras!}
+{155}{}{Coloque seu dinheiro antes que as apostas sejam encerradas! Não hesite, não perca!}
+{156}{}{Cuidado com respingos de sangue e vísceras. A gerência não assume nenhuma responsabilidade por manchas.}
+{157}{}{Milhares de dólares distribuídos diariamente!}
+{158}{}{Faça sua própria mina de ouro aqui! Agora mesmo!}
+{159}{}{Venha ver o duelo do dia!}
+{160}{}{Criaturas selvagens lutam enquanto você ganha dinheiro! VOCÊ VAI AMAR!}
+{161}{}{Traga bolsas cheias e expectativas completas! POR AQUI!}
 {162}{}{Caia fora daqui.}
-{163}{}{I don't need your kind of business.}
-{164}{}{Take it somewhere's else.}
-{165}{}{Just stay away from my corral.}
-{166}{}{I ain't interested in your money.}
-{167}{}{Well, as I was saying, the two creatures will hurl themselves against one another in an explosion of ferocity-the likes of which haven't been seen since the great machines roamed the earth.}
-{168}{}{Great machines?}
-{169}{}{Uh, yeah, and then what?}
-{170}{}{OK, listen, pal, would it help if I said - The likes of which haven't been seen since the great thunder lizards roamed the earth. Is that what tweaks your twinky? So you in or out? (aside) Jeez, everyone's a critic these days.}
-{171}{}{Uh, I'm in. I guess.}
-{172}{}{Big lizards scare me. I better stay out of this. Thanks for the warning. Goodbye. (you think to yourself) *Phew, that was close.*}
-{173}{}{The sportin' part is the bet on the outcome of the fight. Here's how it works. You come up to me and say you want to place a bet. I tell you which two critters are fightin' next and you tell me which one you're putting your money on.}
+{163}{}{Eu não preciso do seu tipo de negócio.}
+{164}{}{Terá que ser outra pessoa.}
+{165}{}{Agora fique longe do meu curral.}
+{166}{}{Não estou interessado no seu dinheiro.}
+{167}{}{Bem, como eu estava dizendo, as duas criaturas vão se atracar uma contra a outra em uma explosão de ferocidade, como não se via desde que as grandes máquinas vagavam pela terra.}
+{168}{}{Grandes máquinas?}
+{169}{}{Uh, sim, e depois?}
+{170}{}{Certo, cara, ajudaria se eu dissesse "como nunca foi visto desde que os grandes lagartos do trovão vagaram pela terra"? Isso acende uma lâmpada ai? Então dá ou não? (resmunga) Caramba, todo mundo é crítico hoje em dia.}
+{171}{}{Uh, está bem. Eu acho.}
+{172}{}{Lagartos grandes me assustam, é melhor eu ficar por fora. Obrigado pelo aviso, adeus. (você pensa consigo mesmo) *Ufa, essa foi por pouco.*}
+{173}{}{A parte esportiva é a aposta no resultado da luta. Veja como funciona, você vem até mim e diz que quer fazer uma aposta. Eu digo quais são os dois bichos que vão lutar a seguir e você me diz em qual deles está apostando.}
 {174}{}{Então o que ?}
-{175}{}{Simple, if your critter wins you double your money. TRIPLE in the event of a first-round takedown! If your critter loses, then your money belongs to me. There are usually several fights each day. Until the stock of critters runs low, you can bet on all of 'em. But just one bet per fight. Oh, yeah, just to keep things nice an' easy, all bets are $100.}
-{176}{}{OK. I get it. Let me try it.}
-{177}{}{I see. Hmm, I think I'll try this another time. Goodbye.}
-{178}{}{This one's gonna be a slugfest. }
-{179}{}{ is up against }
-{180}{}{ and they just hate each other. What's your bet?}
-{181}{}{This one's a real grudge-match. The best of the best }
-{182}{}{ against }
+{175}{}{Simples, se o seu bicho ganhar você dobra o seu dinheiro. TRIPLO em caso de queda no primeiro round! Se seu bicho perder, seu dinheiro volta para mim. Geralmente há várias lutas a cada dia, até que o estoque de bichos acabe, você pode apostar em todos eles. Mas apenas uma aposta por luta. Oh, sim, só para manter as coisas boas e fáceis, todas as apostas são $100.}
+{176}{}{OK. Entendo. Me deixe tentar.}
+{177}{}{Entendo. Hmm, acho que vou tentar isso outra vez. Adeus.}
+{178}{}{Vai ser um festival de porrada. }
+{179}{}{ luta contra }
+{180}{}{ e eles se odeiam mortalmente. Qual é a sua aposta?}
+{181}{}{Este é um autentico rancor. O melhor dos melhores }
+{182}{}{ contra }
 {183}{}{. Onde você coloca seu dinheiro?}
 {184}{}{Eu nunca fiz esse emparelhamento. }
 {185}{}{ luta }

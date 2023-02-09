@@ -231,7 +231,7 @@
 {330}{}{This intelligence looks good. Well done. Here's your payment... three hundred dollars.}
 {331}{}{Tudo bem então... você tem mais trabalho para mim?}
 {332}{}{Great. I had some other questions...}
-{333}{}{Thanks. Pleasure doing business with you.}
+{333}{}{Obrigado. Prazer em fazer negócios com você.}
 {334}{}{Yeah, actually... I need someone to travel to NCR. Lately, I've been hearing reports that
  the Republic might be building up military strength. True or not, I need someone to plot a route to NCR and report back.}
 {335}{}{No problem. Already done.}

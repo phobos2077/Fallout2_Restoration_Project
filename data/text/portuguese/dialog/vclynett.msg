@@ -349,50 +349,50 @@
 {398}{}{Nada. Me desculpe por perturbar você.}
 {399}{lyn054a}{Of course. What can I help you with, Citizen?}
 {400}{lyn054b}{Of course. What can I help you with, Captain?}
-{401}{}{What can you tell me about these Raider attacks on our city?}
-{402}{}{I ran into this Citizen downtown, Thomas Moore. Who is he?}
+{401}{}{O que você pode me dizer sobre esses ataques de saqueados em nossa cidade?}
+{402}{}{Encontrei um Cidadão no centro da cidade, Thomas Moore. Quem é ele?}
 {403}{}{Você tem um GECK?}
 {404}{}{I'm looking for Vault 13.}
 {405}{}{Aqui é Vault City? Por que você não mora em uma vault?}
-{406}{}{Why is it you condone slavery?}
+{406}{}{Por que você tolera a escravidão?}
 {407}{}{Nada por hoje, valeu.}
-{408}{lyn055}{For a non-Citizen, you certainly demand a great deal of my time.}
-{409}{}{But I AM a Citizen.}
+{408}{lyn055}{Para um não cidadão, você certamente exige muito do meu tempo.}
+{409}{}{Mas EU SOU um Cidadão.}
 {410}{}{Você tem um GECK?}
 {411}{}{I'm looking for Vault 13.}
-{412}{}{What do I need to do to become a Citizen?}
+{412}{}{O que preciso fazer para me tornar um Cidadão?}
 {413}{}{Aqui é Vault City? Por que você não mora em uma vault?}
-{414}{}{Why is it you condone slavery?}
-{415}{}{Nevermind then. Good day.}
-{416}{lyn056}{What is it?! I don't have time for your nonsense!}
-{417}{}{I was hoping I could ask you another question.}
-{418}{}{I apologize for my earlier comments, First Citizen. I was
- hoping I could ask you some questions about Vault City.}
-{419}{}{You know, there are decaffeinated brands that taste just as good as the real thing.}
+{414}{}{Por que você tolera a escravidão?}
+{415}{}{Deixa pra lá então. Bom dia.}
+{416}{lyn056}{O que é?! Não tenho tempo para suas bobagens!}
+{417}{}{Gostaria de te fazer outra pergunta.}
+{418}{}{Peço desculpas por meus comentários anteriores, Primeira
+ Cidadã. Eu esperava poder fazer algumas perguntas sobre Vault City.}
+{419}{}{Você sabe, existem marcas descafeinadas que têm um sabor tão bom quanto o real.}
 {420}{}{Deixa pra lá.}
-{421}{}{My apologies, First Citizen. Sorry to disturb you.}
-{422}{lyn057}{What is it? Didn't you already take care of them?}
-{423}{}{It's a little more complicated than that. You see these guys weren't a roving band of raiders...
- they were mercenaries.}
+{421}{}{Minhas desculpas, Primeira Cidadã. Lamento perturbá-la.}
+{422}{lyn057}{O que é? Você já não cuidou deles?}
+{423}{}{É um pouco mais complicado do que isso. Entenda, esses caras não eram qualquer bando de
+ invasores... eles eram mercenários.}
 {424}{}{Deixa pra lá. Adeus.}
-{425}{lyn058}{I do not remember your induction. Let me see your papers.}
-{426}{}{Here you go. Everything should be in order.}
-{427}{}{Umm... I don't have my papers with me.}
-{428}{}{My papers? They haven't been processed yet. They should be coming across your desk any day now.}
-{429}{}{My papers? They haven't been processed yet. They should be coming across your desk any day now.}
-{430}{lyn059}{Do not toy with me, "Citizen," or I will make sure you never walk Vault City's streets again. Now leave.}
+{425}{lyn058}{Não me lembro do seu recrutamento. Me deixe ver seus documentos.}
+{426}{}{Aqui você os tem. Tudo deve estar em ordem.}
+{427}{}{Umm... Eu não tenho meus papéis comigo.}
+{428}{}{Meus papéis? Eles ainda não foram processados. Eles devem aparecer em sua mesa a qualquer momento.}
+{429}{}{Meus papéis? Eles ainda não foram processados. Eles devem aparecer em sua mesa a qualquer momento.}
+{430}{lyn059}{Não brinque comigo, "Cidadão", ou vou garantir que você nunca mais ande pelas ruas de Vault City. Agora saia.}
 {431}{}{Sem problemas... Já estou indo. Adeus.}
-{432}{}{Good day, First Citizen.}
-{433}{lyn060}{Do you take me for a FOOL? If anyone would know these were fakes, it would be me! Who
- gave you these papers?! If you tell me, I will allow you to keep your Day Pass.}
-{434}{}{It was a Citizen named Skeev at the front gate.}
-{435}{}{I, uh, don't remember.}
-{436}{}{You'll have to catch me first.}
-{437}{lyn061}{Hmmmm... very well. But do not appear again until you have your Citizenship papers. Good day.}
+{432}{}{Bom dia, Primeira Cidadã.}
+{433}{lyn060}{Você acha que sou ESTUPIDA? Se alguém sabe o que são falsificações, sou eu! Quem te deu
+ esses papéis?! Se você me disser, permitirei que você mantenha seu passe diário.}
+{434}{}{Era um Cidadão chamado Skeev no portão da frente.}
+{435}{}{Eu, uh, não me lembro.}
+{436}{}{Você vai ter que me pegar primeiro.}
+{437}{lyn061}{Hummm... muito bem. Mas não apareça novamente até que você tenha seus documentos de cidadania. Bom dia.}
 {438}{}{Adeus.}
-{439}{}{Good day, First Citizen.}
-{440}{lyn062}{Oh, really? That confirms my suspicions. Your Vault City access is now revoked. Hand
- over your Day Pass and go with my guards to the front gate.}
+{439}{}{Bom dia, Primeira Cidadã.}
+{440}{lyn062}{Oh sério? Isso confirma minhas suspeitas. Seu acesso à Vault City foi revogado, entregue
+ seu passe diário e vá com meus guardas até o portão da frente.}
 {441}{}{What? You said you'd let me keep my Day Pass!}
 {442}{}{I'm not going anywhere. You want this Day Pass, you come GET it.}
 {443}{}{All right, I'm going. I don't want any trouble.}
@@ -441,7 +441,7 @@
 {480}{}{Good-day, First Citizen.}
 {481}{lyn071}{Do not toy with me, or I will make certain you never walk Vault City's streets again.}
 {482}{}{You watch yourself, "First Citizen." Goodbye.}
-{483}{}{Good day, First Citizen.}
+{483}{}{Bom dia, Primeira Cidadã.}
 {484}{lyn072a}{You did it! Excellent! You have performed a valuable service for Vault City. Please
  accept this as a token of our appreciation. To think a band of RAIDERS was causing so much trouble...}
 {485}{lyn072b}{Excellent. No more than they deserved. To think a band of RAIDERS was causing so much trouble...}
@@ -460,7 +460,7 @@
 {497}{}{Mess with me, Lynette, and Vault City will need a new First Citizen. Understand?}
 {498}{}{So? I'll just get McClure to get my Citizenship back. He seems like real First Citizen material.}
 {499}{}{I'll come back later when you've calmed down.}
-{500}{}{Good day, First Citizen.}
+{500}{}{Bom dia, Primeira Cidadã.}
 {501}{lyn076a}{Excellent. You have conducted yourself as a true Vault Citizen.}
 {502}{lyn076b}{It is my pleasure to grant you Citizenship, complete with privileges and access to our facilities.}
 {503}{}{Hey, I was hoping to get some monetary compensation.}
@@ -778,12 +778,12 @@
  aqui está o seu pagamento pela entrega do disco. Agora, se me der licença... }
 {776}{}{Espere um minuto. Antes de ir, tenho outras perguntas...}
 {777}{}{Até logo.}
-{778}{}{Good day, First Citizen.}
+{778}{}{Bom dia, Primeira Cidadã.}
 {779}{lyn135}{Ele não te deu nada? Estranho... de qualquer forma, aqui está o seu pagamento pela
  entrega do disco. Agora, se me der licença...}
 {780}{}{Espere um minuto. Antes de ir, tenho outras perguntas...}
 {781}{}{Até logo.}
-{782}{}{Good day, First Citizen.}
+{782}{}{Bom dia, Primeira Cidadã.}
 {783}{lyn136}{O que é isso?}
 {784}{}{Encontrei este holodisco no cofre de Bishop. ELE foi contratado pela NCR para fazer
  com que Vault City se juntasse à República. Quando você recusou sua oferta inicial, ele contratou os
