@@ -393,37 +393,37 @@
 {439}{}{Bom dia, Primeira Cidadã.}
 {440}{lyn062}{Oh sério? Isso confirma minhas suspeitas. Seu acesso à Vault City foi revogado, entregue
  seu passe diário e vá com meus guardas até o portão da frente.}
-{441}{}{What? You said you'd let me keep my Day Pass!}
-{442}{}{I'm not going anywhere. You want this Day Pass, you come GET it.}
-{443}{}{All right, I'm going. I don't want any trouble.}
-{444}{lyn063}{You have? So you will stop Gecko from contaminating our water? By ANY means necessary?}
-{445}{}{Yes, I will -- in exchange for Citizenship and access to your Vault computers.}
-{446}{}{No, not really. I was just checking if the offer was still open.}
-{447}{lyn064}{Very well then. Report back to me when the job is finished, and I will grant you Citizenship.}
+{441}{}{O que? Você disse que me deixaria ficar com meu passe diário!}
+{442}{}{Eu vou a lugar nenhum. Você quer esse Passe Diario, venha pegar.}
+{443}{}{Tudo bem, estou indo. Eu não quero nenhum problema.}
+{444}{lyn063}{Sim? Então você vai impedir que o Gecko contamine nossa água? Por QUALQUER meio necessário?}
+{445}{}{Sim, eu vou - em troca de Cidadania e acesso aos seus computadores Vault.}
+{446}{}{Não, na verdade não. Só estava verificando se a oferta ainda estava aberta.}
+{447}{lyn064}{Muito bem então. Me informe quando o trabalho estiver concluído e eu lhe concederei a cidadania.}
 {448}{}{Posso te fazer outra pergunta antes de ir?}
-{449}{}{All right. I'll return when the situation's been taken care of.}
-{450}{lyn065}{Have you resolved the situation?}
-{451}{}{I found out all they need to get their plant running clean is a hydroelectric magnetosphere regulator.}
-{452}{}{The power plant's been destroyed. If I were you, I'd make sure your brahmin graze to the southwest from now on.}
-{453}{}{I took care of Gecko's power plant. You shouldn't have any more trouble with it leaking radiation.}
-{454}{}{No, not yet. I'm still working on it.}
-{455}{lyn066}{Then do not waste my time. Return when you have something to report.}
-{456}{}{All right. I'll be back later.}
-{457}{}{Very well. Good day, First Citizen.}
-{458}{lyn067a}{So you HAVEN'T taken care of the problem?}
-{459}{lyn067b}{If you still want Citizenship, you had better handle it.}
-{460}{}{As I understand it, you have the part here in Vault City to fix their plant.}
-{461}{}{All right. I'll be back later.}
-{462}{}{Very well. Good day, First Citizen.}
-{463}{lyn068}{What if we do? That is only a temporary solution. Please FIX the problem, NOT their power
- plant. Am I making myself clear?}
-{464}{}{First Citizen, I mean no disrespect, but there's a way to solve your problem without killing the ghouls
- or shutting down their reactor. Now, if I could just get the part...?}
-{465}{}{You said you wanted me to fix the plant, not massacre Gecko.}
-{466}{}{Crystal. I'll be back later.}
-{467}{}{Yes. Good day, First Citizen.}
-{468}{lyn069a}{What is this... creature... you have with you?! Such... things are not permitted inside
- Vault City! Guards! Escort these intruders to the front gate at once!}
+{449}{}{Tudo bem. Voltarei quando a situação estiver resolvida.}
+{450}{lyn065}{Você resolveu a situação?}
+{451}{}{Descobri que tudo o que eles precisam para manter a usina funcionando de forma limpa é um regulador hidroelétrico de magnetosfera.}
+{452}{}{A usina foi destruída. Se eu fosse você, garantiria que seu brahmin pastasse a sudoeste de agora em diante.}
+{453}{}{Eu cuidei da usina de energia do Gecko. Você não deve ter mais problemas com o vazamento de radiação.}
+{454}{}{Não, ainda não. Ainda estou trabalhando nisso.}
+{455}{lyn066}{Então não perca meu tempo. Volte quando tiver algo de importante.}
+{456}{}{Tudo bem. Voltarei mais tarde.}
+{457}{}{Muito bem. Bom dia, Primeira Cidadã.}
+{458}{lyn067a}{Então você NÃO cuidou do problema?}
+{459}{lyn067b}{Se você ainda quer a Cidadania, é melhor lidar com isso.}
+{460}{}{Pelo que entendi, aqui em Vault City você tem a peça para consertar a usina deles.}
+{461}{}{Tudo bem. Voltarei mais tarde.}
+{462}{}{Muito bem. Bom dia, Primeira Cidadã.}
+{463}{lyn068}{E dai? Essa é apenas uma solução temporária. RESOLVA o problema, NÃO a usina elétrica.
+ Estou me fazendo claro?}
+{464}{}{Primeiro Cidadão, sem desrespeito, mas há uma maneira de resolver o seu problema sem matar os
+ ghouls ou desligar o reator deles. Agora, se eu pudesse conseguir o papel...?}
+{465}{}{Você disse que queria que eu consertasse a planta, não massacrasse Gecko.}
+{466}{}{Claro como cristal. Voltarei mais tarde.}
+{467}{}{Sim. Bom dia, Primeira Cidadã.}
+{468}{lyn069a}{O que é essa... criatura... que você tem com você?! Tais... coisas não são permitidas
+ dentro de Vault City! Guardas! Escolte esses intrusos até o portão da frente imediatamente!}
 {469}{lyn069b}{Oh, did I? I seem to recall you claiming that you were a Citizen. You are no longer
  permitted inside Vault City. My guards will escort you to the front gate.}
 {470}{lyn069c}{I've had enough of your foolishness! You are no longer permitted inside Vault City. My
@@ -655,7 +655,7 @@
 {669}{lyn109}{Very well. If you'll excuse me, I am also very busy. You can find your own way out.}
 {670}{}{I had some other questions I wanted to ask you first...}
 {671}{}{Muito bem, estou saindo.}
-{672}{}{Very well. Good day, First Citizen.}
+{672}{}{Muito bem. Bom dia, Primeira Cidadã.}
 {673}{lyn110a}{Mercenaries? Who hired them?}
 {674}{lyn110b}{Yes, I believe you mentioned that before. Do you know who hired them?}
 {675}{}{I'm betting it was the Bishop Family in New Reno. }
