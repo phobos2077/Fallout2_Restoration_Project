@@ -5,47 +5,47 @@
 {104}{}{Ah, yeah. It's been a while. What have you been doing?}
 {105}{}{Well, it has been a while. What have you been up to?}
 {106}{}{This and that. Where do you know me from?}
-{107}{}{Look, old man, I don't know who the hell you are.}
-{108}{}{Sure has. Well, I've been around; finally ended up here in this god-forsaken place. Not like the
- good old days. No sir.}
-{109}{}{Yeah, the good old days. Remember that time we...}
-{110}{}{It hasn't been the same lately, that's for sure. Now... what did we do together?}
-{111}{}{Don't remember me, do you? Well, you do seem to be a bit young.}
-{112}{}{What are you trying to tell me?}
-{113}{}{You look so familiar, though. Ah, must be my old eyes. Well, good day to you.}
-{114}{}{Uh, yeah... goodbye.}
-{115}{}{Yeah, we sure gave the Master hell, didn't we? Shit fell apart after you left, though. Had to
- move around and change my name. Where'd you end up?}
-{116}{}{I've been living up in a small village.}
-{117}{}{Well, you better be careful around here. Things ain't as clear as they once were. You best watch
- your back.}
+{107}{}{Olha, velho, não sei que demonio você é.}
+{108}{}{Claro que sim. Bem, eu estive por aí; finalmente acabei neste lugar esquecido por Deus. Não
+ como nos bons velhos tempos, não senhor.}
+{109}{}{Sim, os bons velhos tempos. Lembra daquela vez que a gente...}
+{110}{}{Não tem sido o mesmo ultimamente, com certeza. Agora... o que fizemos juntos?}
+{111}{}{Não se lembra de mim, não é? Bem, você parece ser um pouco jovem.}
+{112}{}{O que você está tentando me dizer?}
+{113}{}{Você parece tão familiar, no entanto. Ah, devem ser meus velhos olhos. Bem, bom dia para você.}
+{114}{}{Uh, sim... adeus.}
+{115}{}{Sim, com certeza fizemos um inferno com o Mestre, não foi? Depois toda a merda desmoronou
+ depois que você saiu. Tive que me mudar e mudar meu nome. Onde você foi parar?}
+{116}{}{Tenho vivido numa pequena aldeia.}
+{117}{}{Bem, é melhor você ter cuidado por aqui, as coisas não são tão claras quanto antes. É melhor
+ você ficar de olho.}
 {118}{}{Ok, obrigado.}
-{119}{}{Yeah, I looked for your Vault for a while, but never found it. So you got any good stories for
- your old friend Ian?}
+{119}{}{Sim, procurei sua Vault por um tempo, mas nunca a encontrei. Tens boas histórias para o
+ teu velho amigo Ian?}
 {120}{}{Ian?}
-{121}{}{Yeah, Ian. Don't you remember me? It's been a bunch of years. You'd think someone wouldn't
- forget his best buddy. Well... except for the shooting in the back thing. Sorry about that again.}
-{122}{}{I am sorry, but you must think I am the Vault Dweller. My village was founded by the one who
- came from the Vault.}
-{123}{}{Well, that makes a bit more sense. Well, it's good to hear my friend did well. Well, old Ian's
- got some advice for you. You be careful out there. This place ain't as peachy as it seems. }
+{121}{}{Sim, Ian. Você não se lembra de mim? Já se passaram muitos anos. Eu pensei que alguém não
+ esqueceria seu melhor amigo. Bem... exceto pelos tiros errados nas costas. Culpa desse negócio de probabilidade em RPG.}
+{122}{}{Sinto muito, mas você deve pensar que sou o Morador na Vault. Minha aldeia foi fundada por
+ aquele que veio da Vault.}
+{123}{}{Bem, isso faz um mais sentido. É bom saber que meu amigo se saiu bem. Bem, o velho Ian
+ tem um conselho para você, tenha cuidado lá fora, este lugar não é tão bom quanto parece. }
 {124}{}{O que está acontecendo aqui?}
-{125}{}{Well, the Vault Citizens think very highly of their bloodline and don't care much for
- people like me and you. You take this. It'll protect you if things get a little out of control.
- You probably shouldn't be seen talking with this crazy old man. Best get on your way.}
-{126}{}{Thanks for your help. Bye.}
-{127}{}{Let an old man rest.}
-{128}{}{So familiar...}
-{129}{}{Leave me be now.}
-{130}{}{You better get going.}
-{131}{}{They'll get suspicious if we talk anymore.}
-{132}{}{Go on, get. Make my old friend proud.}
-{133}{}{Thanks. One more thing though. I'm trying to help this little village that's north-east of here. A guy there named Connar told me to seek you out and speak with you.}
-{134}{}{Connar, huh? He's a good guy. I've been keeping my eye on things for him. So what exactly does Connar want, now?}
-{135}{}{He's trying to get his hands on some weapons. He thinks if they had some firepower, they'd be able to keep the Vault City patrols at bay.}
-{136}{}{Ah, so that's his new plan, eh? Well, head over to Happy Harry's general store. Tell Harry Connar sent you, and he should be able to fix you up -- I believe he's got some guns stashed away for just such an occasion. But if you ask me, I'm not sure this is the best way to handle things.}
-{137}{}{I'm off to speak with Harry then. Take care ol' friend.}
-{138}{}{Why, what do you mean?}
+{125}{}{Bem, os Cidadãos da Vault pensam muito bem de sua linhagem e não se importam
+ muito com pessoas como eu e você. Pegue isso, te protegera se as coisas ficarem um pouco
+ fora de controle. Você provavelmente não deveria ser visto conversando com esse velho maluco. Melhor seguir seu caminho.}
+{126}{}{Obrigado pela ajuda. Tchau.}
+{127}{}{Deixe um velho descansar.}
+{128}{}{Tão familiar...}
+{129}{}{Agora vou ir.}
+{130}{}{É melhor você ir.}
+{131}{}{Eles vão ficar desconfiados se falarmos mais.}
+{132}{}{Vá em frente, pegue. Deixe meu velho amigo orgulhoso.}
+{133}{}{Obrigado. Só mais uma coisa, estou tentando ajudar esta pequena aldeia a nordeste daqui. Um cara chamado Connar me disse para procurá-lo e falar com você.}
+{134}{}{Conar, eh? Ele é um cara legal, tenho estado de olho nas coisas para ele. Então, o que exatamente Connar quer agora?}
+{135}{}{Ele está tentando conseguir algumas armas. Ele acha que se eles tivessem algum poder de fogo, eles seriam capazes de manter as patrulhas de Vault City afastadas.}
+{136}{}{Ah, então esse é o novo plano dele, eh? Bem, va até o armazém geral do Harry Alegre. Diga a Harry Connar que o enviou, e ele deve conseguir consertar você - acredito que ele tenha algumas armas escondidas exatamente para essa ocasião. Mas se você me perguntar, não tenho certeza se essa é a melhor maneira de lidar com as coisas.}
+{137}{}{Vou falar com Harry então. Cuide-se amigo.}
+{138}{}{Por que, o que você quer dizer?}
 {139}{}{Connar and his people have that strong fighting spirit, but it won't be enough in this case. Vault City have nearly unlimited resources, and eventually, they'll win out. Sometimes, it's best to talk things out and try to reason with people. That's a lesson I learned from my old friend, the Vault Dweller. Senior Council Member McClure has shown to be a reasonable man. Perhaps some agreement can be made with him?}
 {140}{}{Hmm... eu poderia levar isso em consideração. Obrigado por tudo, tchau.}
 {141}{}{Perhaps I'll go speak with him then. However, I was curious about the mole rats that are guarding the village.}

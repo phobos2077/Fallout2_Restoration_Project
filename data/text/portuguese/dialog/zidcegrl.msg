@@ -1,23 +1,23 @@
-{100}{}{You see a dealer.}
-{101}{}{You see a dice table.}
-{110}{}{You see a girl.}
-{111}{}{You see a table.}
-{140}{}{You see a table for playing dice games.}
-{141}{}{You see a table with stuff on it.}
+{100}{}{Voce ve um croupier.}
+{101}{}{Você vê uma mesa de dados.}
+{110}{}{Você vê uma garota.}
+{111}{}{Voce ve uma mesa.}
+{140}{}{Você vê uma mesa para jogar jogos de dados.}
+{141}{}{Você vê uma mesa com coisas sobre ela.}
 {150}{}{Você vê um dos crupiês do cassino.}
 {151}{}{Você vê uma das crupiês do cassino. Ela gesticula para que você venha brincar.}
 {152}{}{Você vê uma das crupiês do cassino. Seu vestido mal cobre seu corpo.}
 {153}{}{Você vê uma das crupiês do cassino. Ela tem um monumental par de coxas.}
 {154}{}{Você vê uma das crupiês do cassino. Ela pisca para você.}
 {155}{}{Você vê uma das crupiês do cassino. Ela é muito cheirosa.}
-{160}{}{You see a pretty woman.}
-{161}{}{She's waving for you to come over.}
-{162}{}{Her dress is kinda small.}
-{163}{}{She's got some nice gams.}
-{164}{}{She winks at you.}
-{165}{}{She smells reeally nice.}
-{175}{}{NO DICE!!!}
-{176}{}{TOO MANY DICE!!!}
+{160}{}{Você vê uma mulher bonita.}
+{161}{}{Ela está acenando para você vir.}
+{162}{}{O vestido dela é meio pequeno.}
+{163}{}{Ela tem alguns jogos legais.}
+{164}{}{Ela pisca para você.}
+{165}{}{Ela cheira muito bem.}
+{175}{}{FALTAM DADOS!!!}
+{176}{}{DADOS DEMAIS!!!}
 {177}{}{The odds seem right ever since you switched the dice.}
 {178}{}{As chances não são boas.}
 {179}{}{Você não consegue calcular suas chances com certeza.}

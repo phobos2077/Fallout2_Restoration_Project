@@ -265,27 +265,27 @@
  pouco tempo para perder com você.}
 {325}{lyn041c}{Agora saia imediatamente, ou chamarei os guardas.}
 {326}{}{Vá em frente e ligue para eles. Eles não chegarão aqui a tempo de salvar sua vida.}
-{327}{}{Fine. I'm leaving.}
-{328}{}{Very well, First Citizen. Good day.}
-{329}{lyn042}{A tribal legend? You'll need something more substantial than some... tribal MYTH if you
- want anyone to believe your claim.}
-{330}{}{But I have the sacred artifacts of the Vault Dweller... this Vault suit, and this holy flask.}
+{327}{}{Bem. Estou indo embora.}
+{328}{}{Muito bem, Primeira Cidadã. Bom dia.}
+{329}{lyn042}{Uma lenda tribal? Você precisará de algo mais substancial do que algum... MITO tribal
+ se quiser que alguém acredite em sua afirmação.}
+{330}{}{Mas eu tenho os artefatos sagrados do Morador da Vault... este uniforme da Vault, e este frasco sagrado.}
 {331}{}{Eu tenho esse uniforme da Vault e esse cantil. Eles pertenciam ao meu ancestral.}
-{332}{}{What do I have to do to prove my heritage, if you will not believe my word?!}
-{333}{}{Fine. I'm leaving.}
-{334}{}{Very well, then we have nothing more to discuss. Good day, First Citizen.}
-{335}{lyn043}{We could check the Vault computers. They would probably have the information you seek.
- But only Citizens are allowed to access the archives.}
+{332}{}{O que devo fazer para provar minha herança, se você não acredita em minha palavra?!}
+{333}{}{Bem. Estou indo embora.}
+{334}{}{Muito bem, então não temos mais nada a discutir. Bom dia, Primeira Cidadã.}
+{335}{lyn043}{Poderíamos verificar os computadores da Vault. Eles provavelmente teriam as informações
+ que você procura. Mas apenas os cidadãos têm permissão para acessar os arquivos.}
 {336}{}{But I am a Citizen.}
-{337}{}{Is there some way I could become a Citizen?}
-{338}{}{Guess I'm out of luck, then. Good day.}
-{339}{lyn044}{Rather than taking the test, you could prove your commitment to the Vaults in a more...
-substantial way. As an Outsider, you are in a unique position to resolve a difficult... situation for us.}
-{340}{}{What kind of situation?}
-{341}{}{Of course. Whatever the vaults need, it is my duty to deliver.}
-{342}{}{I don't know... isn't the Citizenship test standard procedure?}
-{343}{}{I don't think I'm the one for the job... goodbye.}
-{344}{}{No thanks, I really should be going. Good day, First Citizen.}
+{337}{}{Existe alguma maneira de eu me tornar um Cidadão?}
+{338}{}{Acho que estou sem sorte, então. Bom dia.}
+{339}{lyn044}{Em vez de fazer o teste, você pode provar seu compromisso com as Vaults de uma forma
+ mais... substancial. Como um estranho, você está em uma posição única para resolver uma situação difícil para nós.}
+{340}{}{Que tipo de situação?}
+{341}{}{Claro. O que quer que as vaults precisem, é meu dever entregar.}
+{342}{}{Não sei... o teste de Cidadania não é procedimento padrão?}
+{343}{}{Acho que não sou a pessoa certa para o trabalho... adeus.}
+{344}{}{Não, obrigado, eu realmente deveria ir. Bom dia, Primeira Cidadã.}
 {345}{lyn045}{Murderers, both of them. Boyarsky was exiled ten years ago, and Richard Moreau was exiled
  shortly after we left the Vault. Citizenship is a sacred trust -- crime is not tolerated within our walls.}
 {346}{}{Se este não é a Vault certo, devo encontrar aquele de onde meu ancestral veio.}
@@ -321,7 +321,7 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
  wish. But resolving this situation for us may prove more rewarding. Do you understand me?}
 {372}{}{All right then. What kind of situation?}
 {373}{}{I understand. Whatever the vaults need, it is my duty to deliver.}
-{374}{}{I don't think I'm the one for the job... goodbye.}
+{374}{}{Acho que não sou a pessoa certa para o trabalho... adeus.}
 {375}{}{I think I really should be going. Good day, First Citizen.}
 {376}{lyn052}{Oh... that's right. The Proconsul mentioned we had gained a new Citizen. Welcome,
  Citizen. As for the archives, yes... they are located inside our Vault. Peruse them at your leisure.}
@@ -472,7 +472,7 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {509}{lyn077b}{Citizenship is its own reward.}
 {510}{}{Like hell! Some money better change hands right now, or Vault City's going to need a new First Citizen.}
 {511}{}{No problem... I was just curious. Goodbye.}
-{512}{}{Very well, First Citizen. Good day.}
+{512}{}{Muito bem, Primeira Cidadã. Bom dia.}
 {513}{lyn077_a}{Absolutely not.}
 {514}{}{I wonder who'll take over after you're dead... in about a minute from now.}
 {515}{}{No problem... Thought I'd give it a try. Goodbye.}
@@ -610,7 +610,7 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {631}{}{Look, 'murder' is such an ugly word. I could arrange some sort of accident. . . a drug overdose,
  mauled by a brahmin... any of a number of things can happen in this dangerous world.}
 {632}{}{Tudo bem. Estou saindo.}
-{633}{}{Very well, First Citizen. Good day.}
+{633}{}{Muito bem, Primeira Cidadã. Bom dia.}
 {634}{lyn101}{This is not conduct of a Citizen! I am revoking your Citizenship. My guards will show you to the front gate.}
 {635}{}{Your guards won't get here in time to save your life... "First Citizen."}
 {636}{}{No need for the guards. I'll leave peacefully.}

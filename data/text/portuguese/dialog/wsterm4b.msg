@@ -77,8 +77,8 @@
 {180}{}{Brain }
 {181}{}{Heart }
 {182}{}{Kidney }
-{183}{}{Liver }
-{184}{}{Lung }
-{185}{}{Appendix }
+{183}{}{Fígado }
+{184}{}{Pulmão }
+{185}{}{Apêndice }
 {186}{}{Colono }
 {200}{}{ é incapaz de ler o que está no monitor.}

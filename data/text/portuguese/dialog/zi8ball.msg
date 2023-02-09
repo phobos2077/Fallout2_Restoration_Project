@@ -42,5 +42,5 @@
 {239}{}{Se você vender Bessie para os açougueiros em Modoc, poderá libertá-la novamente.}
 {240}{}{Preste atenção no que Curtis diz depois de devolver o Sr. Nixon para ele em Vault City.}
 {241}{}{Com o casal rival em Broken Hills, a esposa realmente jogou a Garra da Gato no lixo.}
-{242}{}{You need a high STR *and* a high END to have a chance of beating Francis in the arm-wrestling contest.}
-{243}{}{The code to activate the first terminal in the Vault in Vault City is 3PCF186.}
+{242}{}{Você precisa de uma FOR alta *e* uma alta RES para ter uma chance de derrotar Francis na disputa de queda de braço.}
+{243}{}{O código para ativar o primeiro terminal na Vault em Vault City é 3PCF186.}

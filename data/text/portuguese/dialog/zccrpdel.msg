@@ -1,8 +1,8 @@
-{100}{}{You see a man with a sharp eye, and a business attitude.}
-{101}{}{You see a craps dealer.}
-{102}{}{He has a stick and lots of chips. You could try your luck with him.}
-{103}{}{Place your bets. We have another roller.}
-{104}{}{How much will you bet on the PASSLINE?}
+{100}{}{Você vê um homem com um olhar aguçado e uma atitude de negócios.}
+{101}{}{Você vê um croupier.}
+{102}{}{Ele tem um bastão e muitas fichas. Você pode tentar a sorte com ele.}
+{103}{}{Faça suas apostas. Temos outro rolo.}
+{104}{}{Quanto você vai apostar na LINHA DE PASSE?}
 {105}{}{Quanto você vai apostar na "SEM LINHA DE PASSE"?}
 {106}{}{Quanto você vai apostar no "LINHA DE CHEGADA"?}
 {107}{}{Quanto você vai apostar no "FORA DA LINHA DE CHEGADA"?}
@@ -48,37 +48,37 @@
 {148}{}{Vantagem 8:}
 {149}{}{Vantagem 9:}
 {150}{}{Vantagem 10:}
-{151}{}{Field bet set at:}
-{152}{}{Which PROPOSITION BET?}
+{151}{}{Aposta de campo definida em:}
+{152}{}{Qual APOSTA DE PROPOSIÇÃO?}
 {153}{}{Quanto?}
-{154}{}{Single Roll bets...}
-{155}{}{Hardway bets...}
-{156}{}{What type of bet?}
-{157}{}{How much will you bet on your PLACEBET?}
-{200}{}{roll 7 (5 to 1 pay off)}
-{201}{}{double 3s (10 to 1 pay off)}
-{202}{}{double 4s (10 to 1 pay off)}
-{203}{}{double 5s (8 to 1 pay off)}
-{204}{}{double 2s (8 to 1 pay off)}
-{205}{}{1 & 2 (15 to 1 pay off)}
-{206}{}{5 & 6 (15 to 1 pay off)}
-{207}{}{1 & 1 (30 to 1 pay off)}
-{208}{}{6 & 6 (30 to 1 pay off)}
-{209}{}{Any Craps (8 to 1 pay off)}
-{299}{}{Which PLACE BET?}
-{300}{}{on 4 (1.8 pay off)}
-{301}{}{on 5 (1.4 pay off)}
-{302}{}{on 6 (1.16 pay off)}
-{303}{}{on 8 (1.16 pay off)}
-{304}{}{on 9 (1.4 pay off)}
-{305}{}{on 10 (1.8 pay off)}
-{400}{}{Back...}
+{154}{}{Apostas de rolo único...}
+{155}{}{Apostas difíceis...}
+{156}{}{Que tipo de aposta?}
+{157}{}{Quanto você vai apostar na sua FAZER APOSTAS?}
+{200}{}{soma de 7 (paga 5 para 1)}
+{201}{}{duplo 3 (paga 10 para 1)}
+{202}{}{duplo 4s (pagamento de 10 para 1)}
+{203}{}{duplo 5 (paga 8 para 1)}
+{204}{}{duplo 2 (você paga 8 para 1)}
+{205}{}{1 e 2 (paga 15 a 1)}
+{206}{}{5 e 6 (paga 15 a 1)}
+{207}{}{1 e 1 (paga 30 a 1)}
+{208}{}{6 y 6 (se paga 30 a 1)}
+{209}{}{Qualquer Dado (pagamento de 8 para 1)}
+{299}{}{Qual apostas você quer fazer?}
+{300}{}{em 4 (1,8)}
+{301}{}{en 5 (1.4)}
+{302}{}{en 6 (1.16)}
+{303}{}{en 8 (1.16)}
+{304}{}{en 9 (1.4)}
+{305}{}{en 10 (1.8)}
+{400}{}{voltar...}
 {500}{}{$}
 {501}{}{.}
-{600}{}{Seven pay the lines, point off.}
-{601}{}{Eleven pay the lines.}
-{602}{}{Two, craps loose the lines.}
-{603}{}{Three, craps loose the lines.}
+{600}{}{Sete. Aposta finalizada.}
+{601}{}{Onze. Aposta finalizada.}
+{602}{}{Dois, dados soltam as linhas.}
+{603}{}{Três, os dados soltam as linhas.}
 {604}{}{Doze, dados soltam as linhas.}
 {610}{}{Sete. Aposta finalizada.}
 {611}{}{Onze. Aposta finalizada.}

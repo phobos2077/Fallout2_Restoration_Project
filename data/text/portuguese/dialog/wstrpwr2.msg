@@ -1,2 +1,2 @@
-{100}{}{You set off the trip wire.}
-{101}{}{ sets off the trip wire.}
+{100}{}{Você acionou o fio de disparo.}
+{101}{}{ desencadeia o fio de disparo.}
