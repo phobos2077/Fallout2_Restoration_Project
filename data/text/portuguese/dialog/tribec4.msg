@@ -26,23 +26,23 @@
 {261}{}{Like I said before, it's not my problem. Bye.}
 {262}{}{Eh, I suppose I could look into it. I'll let you know what I find out.}
 {270}{}{You're back. Did you discover anything about the lost spirit?}
-{271}{}{I'm working on it. I'll get back to you.}
-{272}{}{I spoke to--er, listened to--the spirit. It seems she was betrayed and murdered by her lover, someone named Thorg.}
-{280}{}{Thorg?! He was the shaman that I served as an apprentice under. Wow, I knew he was a bit of an asshole, but I didn't take him for a slayer of pretty young girls. Hmm, I suppose a guilty conscience helps to explain that drunken midnight swim that lead to his death. So Thorg is a murderer... how 'bout that...}
-{281}{}{So what now?}
-{290}{}{[Heavy sigh.] Now I suppose I have to send her into the mists. I think I'll be able to do it, but I need you to come with me. There's just no way I'd be able to face her alone and none of the others in the village will go--they believe it's an ill omen for a non-shaman to encounter a lost spirit.}
-{291}{}{Nah. I've already done too much for you. You're on your own.}
-{292}{}{Don't worry, I'll help you get through this.}
-{293}{}{Okay, I'll do it. But only because it'll be fun to watch you squirm.}
-{300}{}{Please tell me you've reconsidered. You'll come with me to take care of the lost spirit, right?}
-{301}{}{Wrong. You're on your own. Bye.}
-{302}{}{Okay, I'll do it. But only because it'll be fun to watch you squirm.}
-{310}{}{Oh, shit... oh, shit... No, I can do this... Okay. Nessa?}
-{311}{}{Ohhh... So cold and alone...}
-{312}{}{Nessa, you must hear my voice. I am calling to you from the mortal world.}
-{313}{}{I... I hear someone! Who is there? }
-{314}{}{I am the shaman of this village. You must enter the mists. There, you will find peace.}
-{315}{}{Yes! Yes I see the mists now. I see spirits beckoning to me.}
+{271}{}{Eu estou trabalhando nisso. Eu voltarei aqui.}
+{272}{}{Eu falei com - er, ouvi - o espírito. Parece que ela foi traída e assassinada por seu amante, alguém chamado Thorg.}
+{280}{}{Thor?! Ele era o xamã quando servi como aprendiz. Nossa, eu sabia que ele era meio idiota, mas não nunca ia pensar em um assassino de garotas bonitas. Hmm, acho que um pouco de culpa ajuda a explicar por que um mergulho bêbado à meia-noite levou à sua própria morte. Então Thorg é um assassino... uau...}
+{281}{}{E agora o que?}
+{290}{}{[Suspiro pesado.] Agora suponho que devo mandá-la para as névoas. Acho que vou conseguir, mas preciso que você venha comigo. Não consigo enfrentá-la sozinho e nenhum dos outros na aldeia irá - eles acreditam que é um mau presságio para um não-xamã encontrar um espírito perdido.}
+{291}{}{Não. Eu já fiz muito por você. Você esta por sua conta.}
+{292}{}{Não se preocupe, eu vou te ajudar a superar isso.}
+{293}{}{Ok, eu vou fazer isso. Mas só porque vai ser divertido ver você se contorcer.}
+{300}{}{Por favor, me diga que reconsiderou. Você virá comigo para cuidar do espírito perdido, certo?}
+{301}{}{Errado, você esta por sua conta. Tchau.}
+{302}{}{Ok, eu vou fazer isso. Mas só porque vai ser divertido ver você se contorcer.}
+{310}{}{Oh, merda... oh, merda... Não, eu posso fazer isso... Ok. Nessa?}
+{311}{}{Ohhh... Tão frio e sozinho...}
+{312}{}{Nessa, você deve ouvir minha voz. Estou chamando você do mundo mortal.}
+{313}{}{Eu... eu ouço alguém! Quem está aí? }
+{314}{}{Eu sou o xamã desta aldeia. Você deve entrar nas nevoas, lá, você encontrará a paz.}
+{315}{}{Sim! Sim, eu vejo as névoas agora. Eu vejo espíritos acenando para mim.}
 {316}{}{Vá até eles, Nessa. Vá para as brumas e junte-se aos seus ancestrais.}
 {317}{}{Eu não estou mais sozinho.}
 {320}{}{Obrigado por nos ajudar a resgatar Serin. Dei algumas ervas para ajudá-lo a descansar e aliviar sua dor. Se os espíritos quiserem, ele deve estar de volta depois de alguns dias.}
@@ -51,7 +51,7 @@
 {401}{}{::Vira para fora, então gira rapidamente para trás:: Booh!}
 {410}{}{Ah! Droga! Saia daqui! Vai!}
 {411}{}{Hu-hu! Tchau!}
-{420}{}{I told you before, Simple One, go on and leave me be.}
+{420}{}{Eu te disse antes, Simples, vá em frente e me deixe em paz.}
 {500}{}{You've given me the courage I need to serve this village. I can't thank you enough.}
 {501}{}{I will forever be in your debt.}
 {600}{}{Thank you for helping us rescue Serin. I gave him some herbs to help him rest and ease his pain. He should be back up and about after a couple days.}

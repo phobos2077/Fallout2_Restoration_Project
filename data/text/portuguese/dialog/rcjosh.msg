@@ -44,39 +44,39 @@
 {139}{}{Isso é. Mas não conseguiria sobreviver só enterrando pessoas: você poderia até dizer que o negócio estaria morto.
  Ah, era um problema sério. Então me encarreguei de montar um local para vender bebidas também.}
 {140}{}{Uh-huh. Estou quase com medo de perguntar mais alguma coisa agora. Mas acho que vou de qualquer maneira.}
-{141}{}{Uh, doesn't it throw people off their feed to see all the stiffs in here?}
-{142}{}{I don't think I can stand another pun. I'm leaving. Goodbye.}
-{143}{}{Well, it would, if they was all real. But they ain't. Not all of 'em, anyway. 'Sides, the
- miners kinda like it. Makes 'em feel lucky to be alive.}
-{144}{}{I think it's creepy. You're a very disturbed individual.}
-{145}{}{I see. Well, let me ask you something else.}
-{146}{}{I guess some people might feel that way. But I'm not one of them. It just makes me feel kind of
- queasy. Goodbye.}
-{147}{}{You call *me* creepy? Why, I hear that tribals eat their damn dead.}
-{148}{}{How else could we grok their essence?}
-{149}{}{Hey, back off. We cook them first. We're not savages, you know.}
-{150}{}{That's ridiculous. Where'd you hear that?}
-{151}{}{I dunno 'xactly. But it's a fact sure as fiddlin'. Why else would you all file your teeth into
- points? Huh? Answer me that!}
+{141}{}{Ei, ver todos aqueles cadáveres por aqui não faz as pessoas vomitarem?}
+{142}{}{Acho que não aguento outro trocadilho. Preciso ir embora. Adeus.}
+{143}{}{Sim, se todos fossem reais, mas não são. Nem todos eles, na verdade. Além disso,
+ os mineiros meio que gostam disso, faz com que se sintam sortudos por estarem vivos.}
+{144}{}{Eu acho isso repugnante. Você é um indivíduo muito perturbado.}
+{145}{}{Entendo. Bem, deixe eu perguntar outra coisa.}
+{146}{}{Acho que algumas pessoas podem se sentir assim, mas eu não sou uma delas. Isso só me faz
+ sentir meio enjoado. Adeus.}
+{147}{}{Você me chama de assustador? Ora, ouvi dizer que os tribais comem até cadaveres.}
+{148}{}{De que outra forma poderíamos absorver sua essência?}
+{149}{}{Ei, não pense muito, primeiro nós os cozinhamos. Afinal, não somos selvagens.}
+{150}{}{Isso é ridículo. Onde você ouviu isso?}
+{151}{}{Não sei exatamente, mas é o que se espalham por ai. Por que mais vocês lixariam seus
+ dentes em pontas? Huh? Me ressponda isso!}
 {152}{}{Eu não lixei meus dentes em... Oh, esquece. Deixe-me perguntar sobre outra coisa.}
-{153}{}{Thankee kindly. Anything else for you?}
-{154}{}{Actually, there was something else.}
-{155}{}{Nope, that'll do it for now. Thanks, Josh.}
-{156}{}{What do ya mean by that?}
-{157}{}{I just meant that it seems like a rather, hmm, *unusual* combination.}
-{158}{}{Nothing, nothing at all. Let me ask you something else, Josh.}
-{159}{}{I just mean that I'll be drinking someplace a little less stiff. Uh, I mean more informal, of
- course. Goodbye.}
-{160}{}{I've been spending time reburying people in the graveyard next door. Someone - or something - keeps
- diggin' 'em up. Dunno why. I mean, it ain't like they have anything valuable on 'em.}
-{161}{}{The graves are being excavated?}
-{162}{}{How do you know that they don't have anything valuable on them?}
-{163}{}{Probably just rats. Let me ask you about something else.}
-{164}{}{Well, I don't know fer certain like... Uh, um. I was just guessin'. Yeah, that's it. Hey, have a
- free beer.}
-{165}{}{I don't know what you're implyin' but I don't like it.}
-{166}{}{Thanks for the beer. What do you mean that something's digging them up?}
-{167}{}{Well, tell me what you mean when you say that something's digging them up.}
+{153}{}{Agradeço muito. Mais alguma coisa por você?}
+{154}{}{Na verdade, havia algo mais.}
+{155}{}{Não, isso é tudo por agora. Obrigado, Josh.}
+{156}{}{O que você quer dizer com isso?}
+{157}{}{Eu só quis dizer que parece uma combinação um tanto, hmm, *incomum*.}
+{158}{}{Nada, absolutamente nada. Deixe eu te perguntar outra coisa, Josh.}
+{159}{}{Só quero dizer que vou beber em algum lugar um pouco menos forte. Uh, quero dizer
+ mais informal, claro. Adeus.}
+{160}{}{Tenho passado um tempo enterrando pessoas no cemitério ao lado. Alguém - ou algo - continua os esta
+ desenterrando. Não sei porquê. Quero dizer, que eu saiba eles não tem nada valioso com eles.}
+{161}{}{As sepulturas estão sendo violadas?}
+{162}{}{Como você sabe que eles não têm nada valioso com eles?}
+{163}{}{Provavelmente são apenas ratos. Deixe eu te perguntar sobre outra coisa.}
+{164}{}{Bem, eu não sei ao certo como... Uh, um. Eu só estava supondo. Sim, é isso. Ei, tome uma
+ cerveja grátis.}
+{165}{}{Eu não sei o que você está insinuando, mas eu não gosto disso.}
+{166}{}{Obrigado pela cerveja. O que quer dizer com algo que os está desenterrando?}
+{167}{}{Bem, me diga o que quer dizer quando fala que algo os está desenterrando.}
 {168}{}{Well, I ain't never seen nothin' but every week or so, one or another of the graves is all
  pawed and half dug-up like. Don't rightly know what would do that.}
 {169}{}{That's strange.}

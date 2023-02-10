@@ -107,13 +107,13 @@
 {206}{}{ derrubou }
 {207}{}{ logo no primeiro assalto! Impressionante!}
 {208}{}{Uau, passou raspando, mas }
-{209}{}{ won this, last battle of the day. I'll pay everyone off, but come on back tomorrow for more great action.}
-{210}{}{What a gore-fest! I can't remember ever seeing a fight like that. The winner is }
-{211}{}{. Let me pay everyone off and we'll start the next round.}
-{212}{}{ wins this round hands, err, claws down! Let me pay everyone off and we'll start the next round.}
+{209}{}{ ganhou a última batalha do dia. Pagarei a todos, mas volte amanhã para mais grandes ações.}
+{210}{}{Que festival sangrento! Não me lembro de ter visto uma luta assim. O vencedor é }
+{211}{}{. Deixe eu pagar todos e começaremos a próxima rodada.}
+{212}{}{ ganha esta rodada de mãos abaixadas, err, garras abaixadas! Deixe eu pagar a todos e começaremos a próxima rodada.}
 {213}{}{E o ganhador é...}
-{214}{}{ by a blood-soaked claw. Let me pay everyone off and we'll start the next round.}
-{215}{}{I just wanted to say that Ascorti's is going to be running a special on, uh, *steaks* tonight. It'll be just a moment while we drag the loser from the field. }
+{214}{}{ por uma garra encharcada de sangue. Deixe eu pagar a todos e começaremos a próxima rodada.}
+{215}{}{Eu só queria dizer que o Ascorti's vai fazer um especial sobre, uh, *bifes* esta noite. Daqui a pouco, quando arrastarmos o perdedor para fora da arena. }
 {216}{}{ ganha essa luta! Deixe eu pagar a todos e começaremos a próxima rodada.}
 {217}{}{Parece que }
 {218}{}{ ganhou. Nunca vi uma surra assim. Deixe eu pagar a todos e começaremos a próxima rodada.}

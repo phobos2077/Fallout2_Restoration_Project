@@ -111,50 +111,50 @@
 {210}{}{Nope. I've got some more questions, though.}
 {211}{}{That's all I needed to know.}
 {212}{}{Those bastards? Best stay out of my place or I'll put a hole in them.}
-{213}{}{Well, that was informative. Another question.}
+{213}{}{Bem, isso foi informativo. Outra pergunta.}
 {214}{}{That's all I needed to know.}
-{215}{}{The rancher, eh? Came in here one time, about croaked. Town doc had to rush over with some pills - seems Westin's got a heart condition. Ruined business for the rest of the night.}
-{216}{}{Thanks for the info. I've got some more questions.}
+{215}{}{O fazendeiro, hein? Veio aqui uma vez, quase batendo as botas. O médico da cidade teve que correr com alguns comprimidos - parece que Westin tem um problema cardíaco. Isso arruinou os negócios pelo resto da noite.}
+{216}{}{Obrigado pela informação. Eu tenho mais algumas perguntas.}
 {217}{}{That's all I needed to know.}
-{218}{}{As a good citizen, I applaud Carlson's opposition to any New Reno influence around here. Now that Westin's dead, I've been helping out with security for the Vice President.}
-{219}{}{Oh, well, I guess I'll never get to meet the man. I've heard a lot about him, too.}
+{218}{}{Como um bom cidadão, aplaudo a oposição de Carlson a qualquer influência de New Reno por aqui. Agora que Westin está morto, tenho ajudado na segurança do vice-presidente.}
+{219}{}{Oh, bem, acho que nunca vou conhecer o homem. Também já ouvi falar muito dele.}
 {220}{}{That's all I needed to know.}
-{221}{}{That all?}
+{221}{}{Isso é tudo?}
 {222}{}{Não, eu tenho mais algumas perguntas.}
-{223}{}{Yeah, that's it for now.}
-{224}{}{Hey, a man's got to try. Vault 13's practically a religion around here. They've even built a statue to some chump who supposedly came from there. That's all I know.}
-{225}{}{I sold you a map for it. Try using it.}
-{226}{}{That map didn't pan out? Sorry. The guy swore it was genuine. How was I to know? I don't know where Vault 13 is.}
-{227}{}{I've got some more questions.}
-{228}{}{That's all I need to know.}
-{229}{}{Tell you what. I like your work and Carlson could use another guard. Give a little time and there'll be a job waiting for you down there.}
-{230}{}{I'm on it, Merk.}
-{231}{}{I don't need a job. Thanks anyway.}
-{232}{}{Excellent. Come back when you're done.}
-{233}{}{That is very troubling. Boys, kill him and recover this evidence.}
-{234}{}{Your feeble attempts to intimidate me are almost amusing, but now I suggest you leave before I tire of this game.}
-{235}{}{Ah, I've heard the news. You still interested in a job?}
-{236}{}{Yeah, I'm tired of freebies. I could use the work.}
+{223}{}{Sim, por enquanto é isso.}
+{224}{}{Ei, um homem tem que tentar. A Vault 13 é praticamente uma religião por aqui, eles até construíram uma estátua para algum otario que supostamente veio de lá. Isso é tudo que eu sei.}
+{225}{}{Eu vendi um mapa para você. Tente usá-lo.}
+{226}{}{Esse mapa não serviu? Desculpe, o cara jurou que era genuíno. Como eu poderia saber? Não sei onde fica a Vault 13.}
+{227}{}{Eu tenho mais algumas perguntas.}
+{228}{}{Isso é tudo que eu preciso saber.}
+{229}{}{É o seguinte. Eu gosto do seu trabalho e Carlson precisa de outro guarda. Dê um tempinho e haverá um trabalho esperando por você lá embaixo.}
+{230}{}{Estou nisso, Merk.}
+{231}{}{Eu não preciso de um emprego. Obrigado de qualquer maneira.}
+{232}{}{Excelente. Volte quando terminar.}
+{233}{}{Isso é muito preocupante. Rapazes, o matem e recuperem esta prova.}
+{234}{}{Suas patéticas tentativas de me intimidar são quase divertidas, mas agora sugiro que saia antes que eu me canse deste joguinho.}
+{235}{}{Ah, eu ouvi a notícia. Você ainda está interessado em um emprego?}
+{236}{}{Sim, estou cansado de regalias. Poderia fazer o trabalho.}
 {237}{}{Não.}
-{238}{}{What the hell you doing in my place?}
-{239}{}{I was out of line before. I won't do it again. I just want a little of your time.}
-{240}{}{I'll do what I want, you weasel.}
-{241}{}{Get out of here, you warthog!}
-{242}{}{Then what're you doing here you dumb shit? You wanna impress me, then get things done!}
-{243}{}{I'm not talking to you until the job's done!}
-{244}{}{That disappoints me. I normally remove things that disappoint me. However, in your case I can be generous. Just leave and don't come back and I'll forget all about it.}
-{245}{}{So, is that little business with Dr. Henry done?}
-{246}{}{Yeah, I got the papers you want.}
+{238}{}{O que voce pensa que está fazendo no meu lugar?}
+{239}{}{Antes de eu cruzar a linha, não voltarei a fazer. Só preciso de um pouco do seu tempo.}
+{240}{}{Eu farei o que eu quiser, sua doninha.}
+{241}{}{Saia daqui, javali!}
+{242}{}{Então o que você está fazendo aqui seu idiota? Se você quer me impressionar, faça direito!}
+{243}{}{Não falo com você até que o trabalho esteja feito!}
+{244}{}{Isso me decepciona, eu normalmente me livro de coisas que me decepcionam. No entanto, no seu caso, posso ser generoso. Apenas saia e não volte e eu vou esquecer tudo sobre isso.}
+{245}{}{Então, aquele pequeno negócio com o Dr. Henry está feito?}
+{246}{}{Sim, tenho os papéis que você quer.}
 {247}{}{Não.}
-{248}{}{Days like this make me so happy. Well, let's conclude our business.}
-{249}{}{It has come to my attention that the ingenious doctor expired during your visit. That was against my orders. To recoup future losses I think it will be necessary to receive a refund.}
-{250}{}{Look, I'll just give you 500 bucks and we'll forget the whole deal.}
+{248}{}{Dias assim me deixam muito feliz. Bem, vamos concluir nossos negócios.}
+{249}{}{Chegou ao meu conhecimento que o engenhoso médico expirou durante a sua visita. Isso foi contra minhas ordens. Para recuperar perdas futuras, acho que será necessário receber um reembolso.}
+{250}{}{Olha, vou te dar 500 dólares e esquecemos tudo.}
 {251}{}{Que se dane.}
-{252}{}{Well, success in your ventures. I see no reason for us to talk again.}
+{252}{}{Bem, boa sorte em suas aventuras. Não vejo razão para conversarmos de novo.}
 {253}{}{Bem por mim.}
-{254}{}{Deal - but only because I like you. I suggest you don't come back any time soon.}
-{255}{}{I think I'll just kill you, get my money back, and collect a reward. After all, that's what being a good citizen is all about.}
-{256}{}{You again! DIE!}
+{254}{}{Trato feito, mas só porque eu gosto de você. Sugiro que não volte tão cedo.}
+{255}{}{Acho que vou matar você, pegar meu dinheiro de volta e receber uma recompensa. Afinal, ser um bom cidadão é isso.}
+{256}{}{Você novamente! MORRA!}
 {257}{}{I thought I said don't bother me anymore.}
 {258}{}{ and I'm a badass mofo. Just ask anybody.}
 {259}{}{ guy.}
