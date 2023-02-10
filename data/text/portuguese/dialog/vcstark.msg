@@ -135,19 +135,19 @@
 {234}{}{Eu estava apenas curioso.}
 {235}{}{Never mind. I had some questions...}
 {236}{}{Forget it. Maybe we'll talk some other time.}
-{237}{}{What, you some kind of good Samaritan? I don't buy it.}
-{238}{}{I am not a Samaritan. I'm actually a native of Arroyo - it's a village to the west.}
-{239}{}{I'd like to help if I could.}
-{240}{}{Look, I've seen enough of the world to know that helping out people seems to come back and help me in the end.}
+{237}{}{O quê, você é algum tipo de bom samaritano? Eu não engulo.}
+{238}{}{Eu não sou um samaritano. Na verdade, sou natural de Arroyo - é uma vila a oeste.}
+{239}{}{Gostaria de ajudar se pudesse.}
+{240}{}{Olha, eu já vi o suficiente no mundo para saber que ajudar as pessoas compensa no final quando você recebe ajuda.}
 {241}{}{Never mind. I had some questions...}
 {242}{}{Forget it. Maybe we'll talk some other time.}
-{243}{}{What, you come in here to be a smartass? That it?}
-{244}{}{Oh, yeah? Well, tackling this band of raiders may be more than you can handle.}
-{245}{}{No, but if you need help, I'm willing to help you out.}
-{246}{}{I'd still like to try and help.}
-{247}{}{Never mind then. I had some questions...}
+{243}{}{O que, você veio aqui para ser um espertinho? É Isso?}
+{244}{}{Oh sim? Bem, enfrentar esse bando de invasores pode ser mais do que você pode suportar.}
+{245}{}{Não, mas se precisar de ajuda, estou à disposição.}
+{246}{}{Eu ainda gostaria de tentar ajudar.}
+{247}{}{Deixa pra lá então. Eu tinha algumas perguntas...}
 {248}{}{Forget it. Maybe we'll talk some other time.}
-{249}{}{Hmmm. Well, I ain't going to turn down any help at this point. You find their base, or even better, wipe them out, go tell the First Citizen.}
+{249}{}{Hmmm. Bem, não vou recusar nenhuma ajuda neste momento. Você encontra a base deles, ou melhor ainda, os elimine, vá contar a Primeira Cidadã.}
 {250}{}{Actually, I already found their base.}
 {251}{}{Actually, I wiped them out already.}
 {252}{}{Any idea where these raiders are striking from?}

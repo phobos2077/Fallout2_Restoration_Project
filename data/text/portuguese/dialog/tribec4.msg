@@ -52,16 +52,16 @@
 {410}{}{Ah! Droga! Saia daqui! Vai!}
 {411}{}{Hu-hu! Tchau!}
 {420}{}{Eu te disse antes, Simples, vá em frente e me deixe em paz.}
-{500}{}{You've given me the courage I need to serve this village. I can't thank you enough.}
-{501}{}{I will forever be in your debt.}
-{600}{}{Thank you for helping us rescue Serin. I gave him some herbs to help him rest and ease his pain. He should be back up and about after a couple days.}
-{601}{}{That's good to hear. Anything else I can do?}
-{602}{}{I'm glad Serin will make it. Take care.}
-{610}{}{Actually, yes, I suppose there is something. Healing Serin has exhausted most of my herb supply. If you could fetch me five Xander Roots and three Broc Flowers, I'd be most grateful.}
-{611}{}{Five Xander Roots and three Broc Flowers, got it. I'll return once I've found them for you.}
-{612}{}{Looks like today's your lucky day. I already have what you're looking for right here. Take em, they're yours.}
-{613}{}{Sorry, but I'm far too busy to go gallivanting through the woods, gathering herbs for you.}
-{614}{}{Why such an exact amount?}
+{500}{}{Você me deu a coragem de que preciso para servir esta aldeia. Não tenho como te agradecer.}
+{501}{}{Estarei eternamente em dívida com você.}
+{600}{}{Obrigado por nos ajudar a resgatar Serin. Ele me deu algumas ervas para ajudá-lo a descansar e aliviar sua dor.. Ele deve estar de volta depois de alguns dias.}
+{601}{}{Isso é bom de ouvir. Mais alguma coisa que eu possa fazer?}
+{602}{}{Estou feliz que Serin vai conseguir. Tome cuidado.}
+{610}{}{Na verdade, sim, suponho que haja algo. Curar Serin esgotou a maior parte do meu suprimento de ervas. Se você pudesse me trazer cinco Raizes de Xander e três Flores de Broc, eu ficaria muito grato.}
+{611}{}{Cinco Raizes de Xander e três Flores de Bro, entendi. Voltarei assim que encontrar para você.}
+{612}{}{Parece que hoje é seu dia de sorte. Eu já tenho o que você está procurando aqui. Pode pegar, são seus.}
+{613}{}{Desculpe, mas estou muito ocupado para sair perambulando pela floresta, colhendo ervas para você.}
+{614}{}{Por que uma quantia tão exata?}
 {620}{}{Because, I'm very... particular about things. It's all about balance, certain numbers... [He frowns.] Look, I
  don't expect you to understand, but that's just the way I am. I need five Xander Roots and three Broc Flowers, no more,
  no less. Will you help me?}

@@ -212,12 +212,12 @@
 {281}{lyn033}{Corrupt?! The Overseer was a great man and a flawless leader. His teachings and wisdom
  still comprise much of our schooling.}
 {282}{}{This doesn't sound like Overseer the Vault Dweller knew.}
-{283}{}{After saving the Vault, the Vault Dweller was banished by the Overseer. What kind of lesson is that?}
-{284}{}{Then you have been raised a fool. Waste no more of my time, woman. Fetch someone who can help me.}
-{285}{}{Then you have been raised a fool. Waste no more of my time. Fetch someone who can help me.}
-{286}{}{That is unfortunate. Good day.}
-{287}{lyn034a}{You may speak with Proconsul Gregory. He has authority to administer the Citizenship
- test. He can be found in the meeting room down the corridor.}
+{283}{}{Depois de salvar a Vault, o Morador da Vault foi banido pelo Supervisor. Que tipo de lição é essa?}
+{284}{}{Então você foi criado como uma tonta. Não perca mais meu tempo, mulher, vhame alguém que possa me ajudar.}
+{285}{}{Então você foi criado como um tonto. Não perca mais meu tempo, chame alguém que possa me ajudar.}
+{286}{}{Isso é uma pena. Bom dia.}
+{287}{lyn034a}{Você pode falar com o Proconsul Gregory. Ele tem autoridade para administrar o teste
+ de Cidadania. Ele pode ser encontrado na sala de reuniões no final do corredor.}
 {288}{lyn034b}{Ou... existe OUTRA forma de se tornar um Cidadão...}
 {289}{}{Outra forma? Como?}
 {290}{}{Acho que vou falar com o Proconsul. Adeus.}
@@ -286,41 +286,41 @@
 {342}{}{Não sei... o teste de Cidadania não é procedimento padrão?}
 {343}{}{Acho que não sou a pessoa certa para o trabalho... adeus.}
 {344}{}{Não, obrigado, eu realmente deveria ir. Bom dia, Primeira Cidadã.}
-{345}{lyn045}{Murderers, both of them. Boyarsky was exiled ten years ago, and Richard Moreau was exiled
- shortly after we left the Vault. Citizenship is a sacred trust -- crime is not tolerated within our walls.}
+{345}{lyn045}{Assassinos, os dois. Boyarsky foi exilado há dez anos, e Richard Moreau foi exilado pouco
+ depois de deixarmos a Vault. Cidadania é uma confiança sagrada, o crime não é tolerado dentro de nossas paredes.}
 {346}{}{Se este não é a Vault certo, devo encontrar aquele de onde meu ancestral veio.}
-{347}{}{How does a person become a Citizen?}
-{348}{}{I've heard enough. I have to be going.}
-{349}{}{I see. Well, thanks for your time, First Citizen. Good day.}
-{350}{lyn046}{What are you talking about? You must be mistaken. Whatever... "Vault Dweller" YOU'RE
- speaking of must be from some other Vault.}
-{351}{}{If that is true, then I need to find this other Vault.}
-{352}{}{You lie! THIS is the Vault my ancestor is from!}
-{353}{}{Perhaps so. Thanks for speaking with me. Goodbye.}
-{354}{lyn047}{There's a town... if you could call it that... to the northeast of our city. It is filled
- with... creatures that are polluting the groundwater with dangerous radiation.}
-{355}{}{How are they poisoning the groundwater?}
-{356}{}{What do you want me to do about it?}
-{357}{}{On second thought, this doesn't sound like something I'd be interested in. Goodbye.}
-{358}{lyn048}{Disable their plant, permanently, so that they cannot cause any more damage.}
-{359}{}{Sounds easy enough. I'll be back when the situation's... "resolved."}
-{360}{}{How exactly is this plant releasing radiation?}
-{361}{}{Let me think about it. I'll get back to you.}
-{362}{lyn049}{Those... things... are operating a damaged atomic power plant. You see, THEY are
- immune to radiation... they don't care that they are slowly killing us with their poisons.}
-{363}{}{I'll take care of the problem. I'll be back when the situation's... "resolved."}
-{364}{}{Sounds like they're doing the world a service. Find some other "Outsider" to do your dirty work.}
-{365}{}{I'll have to think about it. I'll get back to you.}
-{366}{lyn050}{Very well, let me see... These... these are authentic! Unbelievable... you ARE a
- survivor from another vault! Welcome to our City... you must have suffered much in the outside world.}
-{367}{}{I need to find the Vault my people came from.}
-{368}{}{I need a Garden of Eden Kit. Do you have one?}
-{369}{}{Oh, so now I'm welcome in your city? Forget this... I'm outta here.}
-{370}{}{You have no idea... but I'll tell you about the Temple of Trials some other time. Goodbye.}
-{371}{lyn051}{I'm giving you an opportunity few Outsiders ever receive. You may take the test, if you
- wish. But resolving this situation for us may prove more rewarding. Do you understand me?}
-{372}{}{All right then. What kind of situation?}
-{373}{}{I understand. Whatever the vaults need, it is my duty to deliver.}
+{347}{}{Como uma pessoa se torna Cidadão?}
+{348}{}{Já ouvi o suficiente. Eu tenho que ir.}
+{349}{}{Entendo. Bem, obrigado pelo seu tempo, Primeira Cidadã. Bom dia.}
+{350}{lyn046}{O que você está falando? Você deve estar enganado. Tanto faz... "Morador da Vault" de
+ que VOCÊ está falando deve ser de alguma outra Vault.}
+{351}{}{Se isso for verdade, preciso encontrar essa outra Vault.}
+{352}{}{MENTIRA! ESTA é a Vault de onde meu ancestral veio!}
+{353}{}{Pode ser assim. Obrigado por falar comigo. Tchau.}
+{354}{lyn047}{Há uma cidade... se é que se pode chamar assim... a nordeste da nossa cidade.
+ Está cheio de... criaturas que estão poluindo as águas subterrâneas com radiação perigosa.}
+{355}{}{Como eles estão envenenando as águas subterrâneas?}
+{356}{}{O que você quer que eu faça sobre isso?}
+{357}{}{Pensando bem, isso não parece algo que me interesse. Adeus.}
+{358}{lyn048}{Desative sua usina, permanentemente, para que não causem mais danos.}
+{359}{}{Parece fácil. Voltarei quando a situação estiver... "resolvida".}
+{360}{}{Como exatamente esta usina está liberando radiação?}
+{361}{}{Deixe-me pensar sobre isso. Eu voltarei aqui.}
+{362}{lyn049}{Essas... coisas... estão operando uma usina de energia atômica danificada. Veja bem,
+ ELES são imunes à radiação... eles não se importam que estejam nos matando lentamente com seus venenos.}
+{363}{}{Eu cuidarei do problema. Voltarei quando a situação estiver... "resolvida".}
+{364}{}{Parece que eles estão prestando um serviço a humanidade. Encontre algum outro "Forasteiro" para fazer seu trabalho sujo.}
+{365}{}{Eu vou ter que pensar sobre isso. Eu voltarei aqui.}
+{366}{lyn050}{Muito bem, deixe eu ver... Estes... estes são autênticos! Inacreditável... você É
+ um sobrevivente de outra vault! Bem-vindo à nossa cidade... você deve ter sofrido muito no mundo exterior.}
+{367}{}{Preciso encontrar o Vault de onde meu povo veio.}
+{368}{}{Preciso de um Kit Jardim do Éden. Você tem um?}
+{369}{}{Ah, então agora sou bem-vindo em sua cidade? Esqueça isso... Vou sair daqui.}
+{370}{}{Você não faz ideia... mas em outro momento te falarei sobre o Templo das Provações. Adeus.}
+{371}{lyn051}{Estou te dando uma oportunidade que poucos Renegados tiveram. Você pode fazer o
+ teste, se quiser. Mas resolver essa situação para nós pode ser mais gratificante. Entendeu?}
+{372}{}{Tudo bem então. Que tipo de situação?}
+{373}{}{Eu entendo. O que quer que as vaults precisem, é meu dever conseguir.}
 {374}{}{Acho que não sou a pessoa certa para o trabalho... adeus.}
 {375}{}{I think I really should be going. Good day, First Citizen.}
 {376}{lyn052}{Oh... that's right. The Proconsul mentioned we had gained a new Citizen. Welcome,
