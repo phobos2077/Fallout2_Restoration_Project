@@ -19,7 +19,7 @@
 {212}{}{Alright Sulik, it's time for your plan. Time to take out the trash.}
 {213}{}{[You put the key in the lock and unlock the gate, it screeches as it opens.]}
 {214}{}{Any luck, fren? Please hurry.}
-{215}{}{Not yet. I'm still working on it.}
+{215}{}{Ainda não. Ainda estou trabalhando nisso.}
 {216}{}{I got the keys. Time to get you out of here.}
 {217}{}{Why there be so much commotion out there? Ah, I sense many have gone to join the spirits. Who be... Sulik? Do the spirits be teasing, or is that really you, brother?}
 {218}{}{Why there be so much commotion out there? Ah, I sense many have gone to join the spirits. And I sense you be the one sending em. What you be needin', Ghost-maker?}

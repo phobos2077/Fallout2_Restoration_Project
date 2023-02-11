@@ -98,13 +98,13 @@
 {181}{}{Malditos marcianos. E eu te confundi com um maldito tribal. Bem, eu não me sinto
  estúpido. No final, canibais são sempre canibais na minha opinião.}
 {182}{}{Ei, nós os cozinhamos primeiro. Não somos selvagens.}
-{183}{}{Let go of my leg, you cannibal! I need it for a good long while to come still. You find yourself
- another snack.}
-{184}{}{Relax, you look kind of tough and stringy anyhow. Heh, heh. Just kidding... mostly. Let me ask you
- something else, Josh.}
-{185}{}{Well, I'll look around. But if I don't find anything better, I'll be back. Goodbye... for now.}
-{186}{}{Need to buy the farm first. Planning on buying some real estate anytime soon?}
-{187}{}{Uh, not any farms anyhow. Let me ask you something else.}
+{183}{}{Solte minha perna, seu canibal! Eu preciso disso por um bom tempo de vida ainda. Vai encontrar
+ outro lanche.}
+{184}{}{Relaxe, você parece meio duro e pegajoso mesmo. Heh heh. Brincadeira... mais ou mesmo. Deixe eu
+ te perguntar outra coisa, Josh.}
+{185}{}{Bem, vou dar uma olhada. Mas se eu não encontrar nada melhor, volto. Até logo.}
+{186}{}{Precisa comprar a fazenda primeiro. Planejando comprar algum imóvel em breve?}
+{187}{}{Ei, nada de fazendas, de qualquer jeito. Deixe eu te perguntar outra coisa.}
 {188}{}{Might help someone else, or two, to buy a farm hereabouts. See you later, Josh.}
 {189}{}{Well, I guess you'd start by croaking someone. But I'd advise against it. Sheriff Marion isn't
  real keen on that kind of behavior.}

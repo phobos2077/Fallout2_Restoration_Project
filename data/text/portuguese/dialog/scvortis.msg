@@ -75,40 +75,40 @@
 {174}{}{All right, I get the hint.}
 {175}{}{What the fuck? Guards! We got an intruder!}
 {176}{}{Go in there and I'll blow your head off. Understand?}
-{177}{}{It's late and we're closed. Come back in the morning.}
-{200}{}{Good work. One more thing though. You're a slaver, right? How 'bout you lend a hand and wipe out those safe houses for me. I could
- pay you for the job - say $1000.}
-{201}{}{Good work. One more thing though. You look like a mean sonuvabith. How 'bout you wipe out those safe houses for me. There's a reward for it - say $1000.}
+{177}{}{Já é tarde e estamos fechados. Volte pela manhã.}
+{200}{}{Bom trabalho. Só mais uma coisa, você é um escravista, certo? Que tal você dar uma mão e limpar esses esconderijos para mim. Eu
+ poderia pagar pelo trabalho... digamos, $1.000.}
+{201}{}{Bom trabalho. Só mais uma coisa, você parece um cretino muito mau. Que tal você acabar com esses esconderijos para mim. Tem uma recompensa por isso... digamos $1.000.}
 {202}{}{Com certeza.}
 {203}{}{Não interessado.}
-{204}{}{Excellent. Here, let me mark these coordinates on your map thingy. Report back when you're done.}
-{205}{}{Your loss. Now you best make yourself scarce, in case those Rangers ever wise up.}
+{204}{}{Excelente. Aqui, deixe eu marcar essas coordenadas no seu mapa. Reporte quando terminar.}
+{205}{}{Perda sua. Agora é melhor você sumir, no caso dos sempre Rangers aparecerem.}
 {206}{}{Tudo bem. Tchau.}
-{207}{}{Actually, do you think you could send some of your men along with me? It'd make things go a hell of a lot faster, and further guarantee success.}
-{210}{}{You're back. Did you wipe out the Rangers' safe houses?}
-{211}{}{Hell yeah I did. Piece of cake.}
-{212}{}{Not yet. I'm still working on it.}
-{215}{}{Really? Hot damn. This is the best news I've heard yet. This will be quite a blow to the Rangers. Good work. Here's your pay. Now you best make yourself scarce, the Rangers in town are sure to be looking for you.}
-{216}{}{Let em look -- I'm not afraid. Thanks for the money.}
-{217}{}{I better get out of town then. See you later.}
-{218}{}{It seems everything I do manages to piss someone off. I'm used to it now. Bye.}
-{220}{}{Hell no. I'm not rounding up any guys for this. If you feel you can't handle it, then leave.}
-{221}{}{I never said I couldn't handle it. I just thought your men would like to join in on the fun. But whatever, I'll handle it on my own, no problem. I'll report back when I'm done.}
-{222}{}{Fine, you can count me out, asshole. I'm not gonna be your dog. Bye.}
-{223}{}{You calling me chicken? No one calls me that and lives!}
-{225}{}{Well, alright. I think I can round up some boys to aid you in this. They'll meet you on the way. You ready to start
- now?}
-{226}{}{Give me some time. I'll be back when I am ready.}
-{227}{}{I was born ready. Let's rumble.}
+{207}{}{Na verdade, você acha que poderia enviar alguns de seus homens comigo? Isso tornaria as coisas muito mais rápidas e garantiria muito mais chances de sucesso.}
+{210}{}{Você voltou. Você destruiu os esconderijos dos Rangers?}
+{211}{}{Inferno, sim, e como fiz.}
+{212}{}{Ainda não. Ainda estou trabalhando nisso.}
+{215}{}{Realmente? Cacete. Esta é a melhor notícia que já ouvi. Isso será um grande golpe para os Rangers, bom trabalho. Aqui está o seu pagamento. Agora é melhor você sumir, os Rangers da cidade certamente estarão procurando por você.}
+{216}{}{Deixe que olhem, não estou com medo. Obrigado pelo dinheiro.}
+{217}{}{É melhor eu sair da cidade então. Até mais.}
+{218}{}{Parece que tudo o que faço irrita alguém. Já me acostumei, tchau.}
+{220}{}{De jeito nenhum, não estou chamando nenhum cara para isso. Se você sente que não consegue lidar com isso, saia.}
+{221}{}{Eu nunca disse que não poderia lidar com isso, só pensei que seus homens gostariam de participar da festa. Mas seja o que for, eu cuido disso sozinho, sem problemas. Voltarei quando terminar.}
+{222}{}{Tudo bem, você pode contar comigo, idiota. Eu não vou ser seu cachorro. Tchau.}
+{223}{}{Você está me chamando de galinha? Ninguém me chama assim e vive!}
+{225}{}{Bem, tudo bem. Acho que posso reunir alguns garotos para ajudá-lo nisso, eles vão encontrá-lo no caminho. E
+ agora, esta pronto para começar?}
+{226}{}{Me dê um tempo. Voltarei quando estiver pronto.}
+{227}{}{Eu nasci pronto. Vamos destruir.}
 {228}{}{I'm ready. Let's go.}
-{229}{}{I think I'll pass on all this. I've lost interest. Bye.}
-{230}{}{You ready for the raid, or are you here to waste more of my time?}
-{231}{}{I need more time.}
+{229}{}{Acho que vou deixar passar, perdi o interesse. Tchau.}
+{230}{}{Você está pronto para o ataque ou está aqui para desperdiçar mais do meu tempo?}
+{231}{}{Preciso de mais tempo.}
 {232}{}{I'm ready. Let's go.}
-{240}{}{You wipe out the Rangers' safe houses. This deals quite a blow to the Rangers in their fight against slavery.}
-{241}{}{I'm looking to buy some slaves.}
-{250}{}{Well that's fuckin nice. We don't sell here. Metzger up north in the Den can help you with that.}
-{251}{}{I've been there and his stock wasn't up to my standards.}
+{240}{}{Você acaba com os esconderijos dos Rangers. Isso é um grande golpe para os Rangers em sua luta contra a escravidão.}
+{241}{}{Estou querendo comprar alguns escravos.}
+{250}{}{Bem, isso é legal pra caralho, não vendemos aqui. Metzger, ao norte, no Den, pode ajudá-lo com isso.}
+{251}{}{Eu estive lá e seu estoque não estava de acordo com meus padrões.}
 {252}{}{Seeing how I killed Metzger, I don't know how that's going to be useful to me. I think I'll kill you instead.}
 {260}{}{Well aren't you a picky fuck. You do realize that his stock isn't limited to just the Den, right? He's got his own holding pen where slaves are dropped off.}
 {261}{}{Interesting. How would I get to this other location?}

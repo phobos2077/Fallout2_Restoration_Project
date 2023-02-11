@@ -881,10 +881,10 @@
 {4479}{}{King Arthur's Knights.}
 {4480}{}{A tin woodsman.}
 {4481}{}{The Unwashed Villagers hunting a spammer.}
-{4500}{}{Some cannibals.}
-{4501}{}{Some wilders.}
+{4500}{}{Alguns canibais.}
+{4501}{}{Alguns selvagens.}
 {4502}{}{Um grupo de guerra.}
-{4503}{}{Some outcasts.}
+{4503}{}{Alguns foras da lei.}
 {4504}{}{Um grupo de caçadores de recompensa.}
 {4505}{}{Um grupo de caçadores de recompensa.}
 {4506}{}{Um grupo de caçadores de recompensa.}
@@ -895,15 +895,15 @@
 {4511}{}{Um grupo de caçadores de recompensa.}
 {4512}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
 {4513}{}{A family of radscorpions.}
-{4514}{}{Some molerats.}
-{4515}{}{Some fishermen fending off some cannibals.}
-{4516}{}{Some cannibals battling some wilders.}
-{4517}{}{Some radscorpions attacking some wilders.}
-{4518}{}{Some fishermen.}
+{4514}{}{Alguns ratos toupeira.}
+{4515}{}{Alguns pescadores se defendendo de alguns canibais.}
+{4516}{}{Alguns canibais lutando contra alguns selvagens.}
+{4517}{}{Alguns radscorpions atacando alguns selvagens.}
+{4518}{}{Alguns pescadores.}
 {4550}{}{Toxic waste dump.}
 {4551}{}{A lone surviving dog.}
 {4552}{}{A herd of brahmin.}
-{4553}{}{Some cannibals.}
+{4553}{}{Alguns canibais.}
 {4554}{}{Um grupo de caçadores de recompensa.}
 {4555}{}{Um grupo de caçadores de recompensa.}
 {4556}{}{Um grupo de caçadores de recompensa.}
@@ -913,18 +913,18 @@
 {4560}{}{Um grupo de caçadores de recompensa.}
 {4561}{}{Um grupo de caçadores de recompensa.}
 {4562}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
-{4563}{}{Some outcasts.}
-{4564}{}{Some wilders.}
+{4563}{}{Alguns foras da lei.}
+{4564}{}{Alguns selvagens.}
 {4565}{}{Um grupo de guerra.}
-{4566}{}{Some geckos hiding in some spore plants.}
-{4567}{}{Some geckos and some radscorpions.}
+{4566}{}{Alguns geckos escondidos em algumas plantas de esporos.}
+{4567}{}{Alguns geckos e alguns radscorpions.}
 {4568}{}{Some geckos.}
-{4569}{}{Some radscorpions hiding in some spore plants.}
+{4569}{}{Alguns radscorpions escondidos em algumas plantas de esporos.}
 {4570}{}{Some radscorpions.}
-{4571}{}{Some geckos attacking some outcasts.}
-{4572}{}{Some geckos fighting some wilders.}
-{4573}{}{Some radscorpions fighting some cannibals.}
-{4574}{}{Some radscorpions attacking a hermit.}
+{4571}{}{Alguns geckos atacando alguns foras da lei.}
+{4572}{}{Alguns geckos lutando contra alguns selvagens.}
+{4573}{}{Alguns radscorpions lutando contra alguns canibais.}
+{4574}{}{Alguns radscorpions atacando um eremita.}
 {4575}{}{A hermit.}
 {4576}{}{The remains of a whale.}
 {4577}{}{A giant stone head.}
@@ -933,9 +933,9 @@
 {4580}{}{King Arthur's Knights.}
 {4581}{}{A tin woodsman.}
 {4582}{}{The Unwashed Villagers hunting a spammer.}
-{4600}{}{Some cannibals.}
-{4601}{}{Some outcasts.}
-{4602}{}{Some wilders.}
+{4600}{}{Alguns canibais.}
+{4601}{}{Alguns foras da lei.}
+{4602}{}{Alguns selvagens.}
 {4603}{}{Um grupo de guerra.}
 {4604}{}{Um grupo de caçadores de recompensa.}
 {4605}{}{Um grupo de caçadores de recompensa.}
@@ -946,22 +946,22 @@
 {4610}{}{Um grupo de caçadores de recompensa.}
 {4611}{}{Um grupo de caçadores de recompensa.}
 {4612}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
-{4613}{}{Some geckos hiding in some spore plants.}
-{4614}{}{Some geckos and some radscorpions.}
+{4613}{}{Alguns geckos escondidos em algumas plantas de esporos.}
+{4614}{}{Alguns geckos e alguns radscorpions.}
 {4615}{}{Some geckos.}
-{4616}{}{Some radscorpions hiding in some spore plants.}
+{4616}{}{Alguns radscorpions escondidos em algumas plantas de esporos.}
 {4617}{}{Some radscorpions.}
-{4618}{}{Some geckos attacking some outcasts.}
-{4619}{}{Some geckos fighting some wilders.}
-{4620}{}{Some radscorpions fighting some cannibals.}
-{4621}{}{Some radscorpions attacking a hermit.}
+{4618}{}{Alguns geckos atacando alguns foras da lei.}
+{4619}{}{Alguns geckos lutando contra alguns selvagens.}
+{4620}{}{Alguns radscorpions lutando contra alguns canibais.}
+{4621}{}{Alguns radscorpions atacando um eremita.}
 {4622}{}{A hermit.}
 {4623}{}{Um homem guardando uma ponte.}
 {4624}{}{King Arthur's Knights fighting a rat.}
 {4650}{}{Toxic waste dump.}
 {4651}{}{A lone surviving dog.}
 {4652}{}{A herd of brahmin.}
-{4653}{}{A Den caravan.}
+{4653}{}{Uma caravana de Den.}
 {4654}{}{Um grupo de caçadores de recompensa.}
 {4655}{}{Um grupo de caçadores de recompensa.}
 {4656}{}{Um grupo de caçadores de recompensa.}
@@ -974,14 +974,14 @@
 {4663}{}{Alguns salteadores e assaltantes.}
 {4664}{}{Alguns salteadores.}
 {4665}{}{Alguns ladrões.}
-{4666}{}{A Redding caravan fending off highwaymen.}
-{4667}{}{A New Reno caravan fending off robbers.}
-{4668}{}{A Den caravan fending off highwaymen.}
-{4669}{}{Some robbers ambushing a caravan.}
-{4670}{}{A Den caravan attacking a Vault City caravan.}
-{4671}{}{Some highwaymen fighting some robbers.}
-{4672}{}{A Vault City caravan.}
-{4673}{}{A Den caravan.}
+{4666}{}{Uma caravana de Redding afastando salteadores.}
+{4667}{}{Uma caravana de New Reno afastando ladrões.}
+{4668}{}{Uma caravana de Den afastando salteadores.}
+{4669}{}{Alguns ladrões emboscando uma caravana.}
+{4670}{}{Uma caravana de Den atacando uma caravana de Vault City.}
+{4671}{}{Alguns salteadores lutando contra alguns assaltantes.}
+{4672}{}{Uma caravana de Vault City.}
+{4673}{}{Uma caravana de Den.}
 {4674}{}{The remains of a whale.}
 {4675}{}{A giant stone head.}
 {4676}{}{A crashed shuttle.}
@@ -989,7 +989,7 @@
 {4678}{}{King Arthur's Knights.}
 {4679}{}{A tin woodsman.}
 {4680}{}{The Unwashed Villagers hunting a spammer.}
-{4700}{}{A Den caravan.}
+{4700}{}{Uma caravana de Den.}
 {4701}{}{Alguns salteadores e assaltantes.}
 {4702}{}{Alguns salteadores.}
 {4703}{}{Alguns ladrões.}
@@ -1002,20 +1002,20 @@
 {4710}{}{Um grupo de caçadores de recompensa.}
 {4711}{}{Um grupo de caçadores de recompensa.}
 {4712}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
-{4713}{}{A Redding caravan fending off highwaymen.}
-{4714}{}{A New Reno caravan fending off robbers.}
-{4715}{}{A Den caravan fending off highwaymen.}
-{4716}{}{Some robbers ambushing a caravan.}
-{4717}{}{A Den caravan attacking a Vault City caravan.}
-{4718}{}{Some highwaymen fighting some robbers.}
-{4719}{}{A Vault City caravan.}
-{4720}{}{A Den caravan.}
+{4713}{}{Uma caravana de Redding afastando salteadores.}
+{4714}{}{Uma caravana de New Reno afastando ladrões.}
+{4715}{}{Uma caravana de Den afastando salteadores.}
+{4716}{}{Alguns ladrões emboscando uma caravana.}
+{4717}{}{Uma caravana de Den atacando uma caravana de Vault City.}
+{4718}{}{Alguns salteadores lutando contra alguns assaltantes.}
+{4719}{}{Uma caravana de Vault City.}
+{4720}{}{Uma caravana de Den.}
 {4721}{}{Um homem guardando uma ponte.}
 {4722}{}{King Arthur's Knights fighting a rat.}
 {4750}{}{Toxic waste dump.}
 {4751}{}{A lone surviving dog.}
 {4752}{}{A herd of brahmin.}
-{4753}{}{Some geckos and some wolves.}
+{4753}{}{Alguns geckos e alguns lobos.}
 {4754}{}{Um grupo de caçadores de recompensa.}
 {4755}{}{Um grupo de caçadores de recompensa.}
 {4756}{}{Um grupo de caçadores de recompensa.}
@@ -1025,17 +1025,17 @@
 {4760}{}{Um grupo de caçadores de recompensa.}
 {4761}{}{Um grupo de caçadores de recompensa.}
 {4762}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
-{4763}{}{Some claim jumpers.}
-{4764}{}{Some wolves.}
+{4763}{}{Alguns invasores.}
+{4764}{}{Alguns lobos.}
 {4765}{}{Some golden geckos.}
-{4766}{}{Some prospectors fighting some claim jumpers.}
-{4767}{}{Some trappers fighting some Golden geckos.}
-{4768}{}{Some bootleggers fighting some wolves.}
-{4769}{}{Some homesteaders fighting some claim jumpers.}
-{4770}{}{Some homesteaders fending off some wolves.}
-{4771}{}{Some bootleggers.}
+{4766}{}{Alguns garimpeiros lutando contra alguns salteadores.}
+{4767}{}{Alguns caçadores lutando contra alguns geckos dourados.}
+{4768}{}{Alguns contrabandistas lutando contra alguns lobos.}
+{4769}{}{Alguns colonos lutando contra alguns salteadores.}
+{4770}{}{Alguns colonos afastando alguns lobos.}
+{4771}{}{Alguns contrabandistas.}
 {4772}{}{Some trappers.}
-{4773}{}{Some prospectors.}
+{4773}{}{Alguns garimpeiros.}
 {4774}{}{The remains of a whale.}
 {4775}{}{A giant stone head.}
 {4776}{}{A crashed shuttle.}
@@ -1043,9 +1043,9 @@
 {4778}{}{King Arthur's Knights.}
 {4779}{}{A tin woodsman.}
 {4780}{}{The Unwashed Villagers hunting a spammer.}
-{4800}{}{Some golden geckos and some wolves.}
-{4801}{}{Some claim jumpers.}
-{4802}{}{Some wolves.}
+{4800}{}{Alguns geckos dourados e alguns lobos.}
+{4801}{}{Alguns invasores.}
+{4802}{}{Alguns lobos.}
 {4803}{}{Some golden geckos.}
 {4804}{}{Um grupo de caçadores de recompensa.}
 {4805}{}{Um grupo de caçadores de recompensa.}
@@ -1056,19 +1056,19 @@
 {4810}{}{Um grupo de caçadores de recompensa.}
 {4811}{}{Um grupo de caçadores de recompensa.}
 {4812}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
-{4813}{}{Some prospectors fighting some claim jumpers.}
-{4814}{}{Some trappers fighting some golden geckos.}
-{4815}{}{Some bootleggers fighting some wolves.}
-{4816}{}{Some homesteaders fighting some claim jumpers.}
-{4817}{}{Some homesteaders fending off some wolves.}
-{4818}{}{Some bootleggers.}
+{4813}{}{Alguns garimpeiros lutando contra alguns salteadores.}
+{4814}{}{Alguns caçadores lutando contra alguns geckos dourados.}
+{4815}{}{Alguns contrabandistas lutando contra alguns lobos.}
+{4816}{}{Alguns colonos lutando contra alguns salteadores.}
+{4817}{}{Alguns colonos afastando alguns lobos.}
+{4818}{}{Alguns contrabandistas.}
 {4819}{}{Some trappers.}
-{4820}{}{Some prospectors.}
+{4820}{}{Alguns garimpeiros.}
 {4821}{}{Um homem guardando uma ponte.}
 {4822}{}{King Arthur's Knights fighting a rat.}
-{4850}{}{A pack of wolves and some molerats.}
-{4851}{}{Some radscorpions and some wolves.}
-{4852}{}{Some mutated molerats and some radscorpions.}
+{4850}{}{Uma matilha de lobos e alguns ratos toupeira.}
+{4851}{}{Alguns radscorpions e alguns lobos.}
+{4852}{}{Alguns ratos toupeira mutantes e alguns radscorpions.}
 {4853}{}{A pack of golden geckos.}
 {4854}{}{Um grupo de caçadores de recompensa.}
 {4855}{}{Um grupo de caçadores de recompensa.}
@@ -1079,18 +1079,18 @@
 {4860}{}{Um grupo de caçadores de recompensa.}
 {4861}{}{Um grupo de caçadores de recompensa.}
 {4862}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
-{4863}{}{A pack of wolves.}
-{4864}{}{A pack of mutated molerats.}
-{4865}{}{A pack of radscorpions}
-{4866}{}{A pack of wolves and some golden geckos.}
-{4867}{}{Some mutated molerats fighting some golden geckos.}
-{4868}{}{Some molerats fighting some radscorpions.}
+{4863}{}{Uma matilha de lobos.}
+{4864}{}{Um bando de ratos toupeira mutantes.}
+{4865}{}{Um grupo de radscorpions}
+{4866}{}{Uma matilha de lobos e alguns geckos dourados.}
+{4867}{}{Alguns ratos toupeira mutantes lutando contra alguns geckos dourados.}
+{4868}{}{Alguns ratos toupeira lutando contra alguns radscorpions.}
 {4869}{}{Um homem guardando uma ponte.}
 {4870}{}{King Arthur's Knights fighting a rat.}
-{4900}{}{A band of raiders.}
-{4901}{}{Some wolves.}
-{4902}{}{A caravan fending off some raiders.}
-{4903}{}{A caravan fending off some raiders.}
+{4900}{}{Um bando de saqueadores.}
+{4901}{}{Alguns lobos.}
+{4902}{}{Uma caravana afastando alguns invasores.}
+{4903}{}{Uma caravana afastando alguns invasores.}
 {4904}{}{Um grupo de caçadores de recompensa.}
 {4905}{}{Um grupo de caçadores de recompensa.}
 {4906}{}{Um grupo de caçadores de recompensa.}
@@ -1100,19 +1100,19 @@
 {4910}{}{Um grupo de caçadores de recompensa.}
 {4911}{}{Um grupo de caçadores de recompensa.}
 {4912}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
-{4913}{}{A caravan fending off some raiders.}
-{4914}{}{A caravan fending off some raiders.}
+{4913}{}{Uma caravana afastando alguns invasores.}
+{4914}{}{Uma caravana afastando alguns invasores.}
 {4915}{}{A caravan.}
 {4916}{}{A caravan.}
 {4917}{}{A caravan.}
 {4918}{}{A caravan.}
 {4919}{}{Um homem guardando uma ponte.}
 {4920}{}{King Arthur's Knights fighting a rat.}
-{4921}{}{A band of angry raiders.}
+{4921}{}{Um bando de saqueadores furiosos.}
 {4950}{}{Toxic waste dump.}
 {4951}{}{A lone surviving dog.}
 {4952}{}{A herd of brahmin.}
-{4953}{}{A band of raiders.}
+{4953}{}{Um bando de saqueadores.}
 {4954}{}{Um grupo de caçadores de recompensa.}
 {4955}{}{Um grupo de caçadores de recompensa.}
 {4956}{}{Um grupo de caçadores de recompensa.}
@@ -1122,11 +1122,11 @@
 {4960}{}{Um grupo de caçadores de recompensa.}
 {4961}{}{Um grupo de caçadores de recompensa.}
 {4962}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
-{4963}{}{Some wolves.}
-{4964}{}{A caravan fending off some raiders.}
-{4965}{}{A caravan fending off some raiders.}
-{4966}{}{A caravan fending off some raiders.}
-{4967}{}{A caravan fending off some raiders.}
+{4963}{}{Alguns lobos.}
+{4964}{}{Uma caravana afastando alguns invasores.}
+{4965}{}{Uma caravana afastando alguns invasores.}
+{4966}{}{Uma caravana afastando alguns invasores.}
+{4967}{}{Uma caravana afastando alguns invasores.}
 {4968}{}{A caravan.}
 {4969}{}{A caravan.}
 {4970}{}{A caravan.}
@@ -1138,11 +1138,11 @@
 {4976}{}{King Arthur's Knights.}
 {4977}{}{A tin woodsman.}
 {4978}{}{The Unwashed Villagers hunting a spammer.}
-{4979}{}{A band of angry raiders.}
-{5000}{}{A band of raiders leading some wolves.}
-{5001}{}{Some spore plants and some wolves.}
-{5002}{}{A band of raiders.}
-{5003}{}{A pack of wolves.}
+{4979}{}{Um bando de saqueadores furiosos.}
+{5000}{}{Um bando de invasores guiando alguns lobos.}
+{5001}{}{Algumas plantas de esporos e alguns lobos.}
+{5002}{}{Um bando de saqueadores.}
+{5003}{}{Uma matilha de lobos.}
 {5004}{}{Um grupo de caçadores de recompensa.}
 {5005}{}{Um grupo de caçadores de recompensa.}
 {5006}{}{Um grupo de caçadores de recompensa.}
@@ -1156,11 +1156,11 @@
 {5014}{}{Uma matilha de lobos lutando contra alguns raiders.}
 {5015}{}{Um homem guardando uma ponte.}
 {5016}{}{King Arthur's Knights fighting a rat.}
-{5017}{}{A band of angry raiders.}
+{5017}{}{Um bando de saqueadores furiosos.}
 {5050}{}{Toxic waste dump.}
 {5051}{}{A lone surviving dog.}
 {5052}{}{A herd of brahmin.}
-{5053}{}{A band of raiders leading some wolves.}
+{5053}{}{Um bando de invasores guiando alguns lobos.}
 {5054}{}{Um grupo de caçadores de recompensa.}
 {5055}{}{Um grupo de caçadores de recompensa.}
 {5056}{}{Um grupo de caçadores de recompensa.}
@@ -1170,9 +1170,9 @@
 {5060}{}{Um grupo de caçadores de recompensa.}
 {5061}{}{Um grupo de caçadores de recompensa.}
 {5062}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
-{5063}{}{Some spore plants and some wolves.}
-{5064}{}{A band of raiders.}
-{5065}{}{A pack of wolves.}
+{5063}{}{Algumas plantas de esporos e alguns lobos.}
+{5064}{}{Um bando de saqueadores.}
+{5065}{}{Uma matilha de lobos.}
 {5066}{}{Um bando de radscorpions.}
 {5067}{}{Uma matilha de lobos lutando contra alguns raiders.}
 {5068}{}{The remains of a whale.}
@@ -1182,7 +1182,7 @@
 {5072}{}{King Arthur's Knights.}
 {5073}{}{A tin woodsman.}
 {5074}{}{The Unwashed Villagers hunting a spammer.}
-{5075}{}{A band of angry raiders.}
+{5075}{}{Um bando de saqueadores furiosos.}
 {5100}{}{Toxic waste dump.}
 {5101}{}{A lone surviving dog.}
 {5102}{}{A herd of brahmin.}
@@ -1412,7 +1412,7 @@
 {5661}{}{Um grupo de caçadores de recompensa.}
 {5662}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
 {5663}{}{Uma gangue.}
-{5664}{}{A pack of wolves.}
+{5664}{}{Uma matilha de lobos.}
 {5665}{}{Alguns mafiosos lutando contra alguns yakuzas.}
 {5666}{}{Alguns mafiosos lutando contra uma gangue.}
 {5667}{}{Alguns mafiosos.}
@@ -1427,7 +1427,7 @@
 {5676}{}{Cafe of Broken Dreams.}
 {5700}{}{Alguns da Yakuza.}
 {5701}{}{Uma gangue.}
-{5702}{}{A pack of wolves.}
+{5702}{}{Uma matilha de lobos.}
 {5703}{}{Alguns mafiosos lutando contra alguns yakuzas.}
 {5704}{}{Um grupo de caçadores de recompensa.}
 {5705}{}{Um grupo de caçadores de recompensa.}
@@ -1445,7 +1445,7 @@
 {5717}{}{King Arthur's Knights fighting a rat.}
 {5750}{}{Alguns da Yakuza.}
 {5751}{}{Uma gangue.}
-{5752}{}{A pack of wolves.}
+{5752}{}{Uma matilha de lobos.}
 {5753}{}{Alguns mafiosos lutando contra alguns yakuzas.}
 {5754}{}{Um grupo de caçadores de recompensa.}
 {5755}{}{Um grupo de caçadores de recompensa.}
@@ -1473,7 +1473,7 @@
 {5811}{}{Um grupo de caçadores de recompensa.}
 {5812}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
 {5813}{}{Um bando de bandidos.}
-{5814}{}{A pack of wolves.}
+{5814}{}{Uma matilha de lobos.}
 {5815}{}{Um bando de radscorpions.}
 {5816}{}{Uma floresta de plantas de esporos.}
 {5817}{}{Uma patrulha da Unity lutando contra alguns bandidos.}
@@ -1488,7 +1488,7 @@
 {5826}{}{The Unwashed Villagers hunting a spammer.}
 {5850}{}{Um bando de bandidos e alguns lobos.}
 {5851}{}{Um bando de bandidos.}
-{5852}{}{A pack of wolves.}
+{5852}{}{Uma matilha de lobos.}
 {5853}{}{Um bando de radscorpions.}
 {5854}{}{Um grupo de caçadores de recompensa.}
 {5855}{}{Um grupo de caçadores de recompensa.}
@@ -1727,7 +1727,7 @@
 {6364}{}{A caravan.}
 {6365}{}{Um homem guardando uma ponte.}
 {6366}{}{King Arthur's Knights fighting a rat.}
-{6400}{}{A pack of wolves.}
+{6400}{}{Uma matilha de lobos.}
 {6401}{}{A swarm of mantis.}
 {6402}{}{A family of radscorpions.}
 {6403}{}{Um grupo de caçadores de recompensa.}
@@ -1744,7 +1744,7 @@
 {6450}{}{Toxic waste dump.}
 {6451}{}{A lone surviving dog.}
 {6452}{}{A herd of brahmin.}
-{6453}{}{A pack of wolves.}
+{6453}{}{Uma matilha de lobos.}
 {6454}{}{Um grupo de caçadores de recompensa.}
 {6455}{}{Um grupo de caçadores de recompensa.}
 {6456}{}{Um grupo de caçadores de recompensa.}
@@ -1777,7 +1777,7 @@
 {6510}{}{Um grupo de caçadores de recompensa.}
 {6511}{}{Um grupo de caçadores de recompensa.}
 {6512}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
-{6513}{}{A pack of wolves.}
+{6513}{}{Uma matilha de lobos.}
 {6514}{}{Um bando de radscorpions.}
 {6515}{}{Uma caravana se defendendo de saqueadores.}
 {6516}{}{Uma caravana se defendendo de saqueadores.}
@@ -1798,7 +1798,7 @@
 {6531}{}{Cafe of Broken Dreams.}
 {6532}{}{Um bando de saqueadores com raiva.}
 {6550}{}{Um bando de saqueadores.}
-{6551}{}{A pack of wolves.}
+{6551}{}{Uma matilha de lobos.}
 {6552}{}{Um bando de radscorpions.}
 {6553}{}{Uma caravana se defendendo de saqueadores.}
 {6554}{}{Um grupo de caçadores de recompensa.}
@@ -1873,7 +1873,7 @@
 {6700}{}{Remanescentes do exercito do Mestre lutando contra ratos toupeira mutantes.}
 {6701}{}{Remanescentes do exército do Mestre.}
 {6702}{}{A swarm of mantis.}
-{6703}{}{A pack of mutated molerats.}
+{6703}{}{Um bando de ratos toupeira mutantes.}
 {6704}{}{Um grupo de caçadores de recompensa.}
 {6705}{}{Um grupo de caçadores de recompensa.}
 {6706}{}{Um grupo de caçadores de recompensa.}
@@ -1901,7 +1901,7 @@
 {6762}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
 {6763}{}{Remanescentes do exército do Mestre.}
 {6764}{}{A swarm of mantis.}
-{6765}{}{A pack of mutated molerats.}
+{6765}{}{Um bando de ratos toupeira mutantes.}
 {6766}{}{Um bando de radscorpions.}
 {6767}{}{The remains of a whale.}
 {6768}{}{A giant stone head.}
