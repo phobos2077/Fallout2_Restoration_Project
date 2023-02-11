@@ -105,9 +105,9 @@
 {185}{}{Bem, vou dar uma olhada. Mas se eu não encontrar nada melhor, volto. Até logo.}
 {186}{}{Precisa comprar a fazenda primeiro. Planejando comprar algum imóvel em breve?}
 {187}{}{Ei, nada de fazendas, de qualquer jeito. Deixe eu te perguntar outra coisa.}
-{188}{}{Might help someone else, or two, to buy a farm hereabouts. See you later, Josh.}
-{189}{}{Well, I guess you'd start by croaking someone. But I'd advise against it. Sheriff Marion isn't
- real keen on that kind of behavior.}
-{190}{}{I'll try to behave myself. Let me ask you something else, Josh.}
-{191}{}{I see... well, at least I know who to talk to if there are any unfortunate *accidents*. Goodbye,
+{188}{}{Pode ajudar um par de pessoas a comprar uma fazenda por aqui. Até logo, Josh.}
+{189}{}{Bem, acho que você vai começar dando o passaporte a alguém. Mas eu te aviso, o xerife
+ Marion não gosta desse tipo de comportamento.}
+{190}{}{Vou tentar me comportar. Deixe e te perguntar outra coisa, Josh.}
+{191}{}{Entendo... bem, pelo menos sei com quem falar se houver algum *acidente* infeliz. Adeus,
  Josh.}

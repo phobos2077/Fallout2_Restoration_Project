@@ -1,6 +1,6 @@
-{100}{}{You see a tired woman who might have been quite a looker when she was younger.}
-{101}{}{You see Lou, the owner of the Malamute Saloon.}
-{102}{}{You see an older woman wearing quite a bit of rouge.}
+{100}{}{Você vê uma mulher cansada que poderia ter sido muito bonita quando era mais jovem.}
+{101}{}{Você vê Lou, o dono do Salão Malamute.}
+{102}{}{Você vê uma mulher mais velha usando um pouco de rouge.}
 {103}{}{I just want you to know that I'm thankful for what you did. How can I help you?}
 {104}{}{Jail's too good for what that bastard done.}
 {105}{}{I cain't rightly believe that you let the bastard that cut my gal go free. You've got some nerve
