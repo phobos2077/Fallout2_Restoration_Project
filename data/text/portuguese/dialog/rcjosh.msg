@@ -77,27 +77,27 @@
 {165}{}{Eu não sei o que você está insinuando, mas eu não gosto disso.}
 {166}{}{Obrigado pela cerveja. O que quer dizer com algo que os está desenterrando?}
 {167}{}{Bem, me diga o que quer dizer quando fala que algo os está desenterrando.}
-{168}{}{Well, I ain't never seen nothin' but every week or so, one or another of the graves is all
- pawed and half dug-up like. Don't rightly know what would do that.}
-{169}{}{That's strange.}
-{170}{}{Disturbin' is what it is. Now miners are tellin' me that they'd rather rest out their final days
- here inside, rather than get planted only to be pulled back up like an overripe turnip. Hell, I wouldn't
- mind saving the cute ones inside, but not everyone. I don't know what all to do about it.}
-{171}{}{What a pleasant image that is. I'm sure that I'll wake up in cold sweat thinking about that
- one. Let me ask you something else.}
-{172}{}{It's a mystery, all right. Well, I'll see you around, Josh. Goodbye.}
-{173}{}{Well, I guess as long as you cook... Hold on a gol-darned minute. That's still cannibalism! You're
- one sick little unit, even for a tribal.}
-{174}{}{Relax, Josh. I was just kidding. Heh, heh. Heck, we just cook parts of them.}
-{175}{}{Parts, huh? Which parts 'xactly?}
-{176}{}{Who cares? (you shrug) Parts are parts.}
-{177}{}{I was just pulling your leg, Josh. Let me ask you about something else.}
-{178}{}{Yeah, well I guess that makes a kind of sense.}
-{179}{}{Sure it does. Hey, let me ask you about something else.}
-{180}{}{Speaking of which, I'm getting hungry. See you later, Josh. Goodbye.}
-{181}{}{God-damn Martians. And I mistook you for a damn tribal. Well, don't I feel stupid. Well,
- cannibals is cannibals in my book.}
-{182}{}{Hey, we cook them first. We're not savages, you know.}
+{168}{}{Bem, eu nunca vi na hora, mas quase toda semana, uma ou outra sepultura é escavada
+ e um pouco desenterrada. Não sei direito quem que faria isso.}
+{169}{}{Isso é estranho.}
+{170}{}{Isso é perturbante. Agora os mineiros estão me dizendo que preferem descansar seus últimos
+ dias aqui dentro mesmo, em vez de serem enterrados só para serem puxados de volta como um nabo
+ maduro. Inferno, eu não me importaria de manter alguns lá dentro, mas não todos. Eu não sei o que fazer sobre isso.}
+{171}{}{Que imagem mais agradável, tenho certeza que vou acordar suando frio pensando nisso.
+ Deixe eu te perguntar outra coisa.}
+{172}{}{É um mistério, isso sim. Bem, te vejo por aí, Josh. Adeus.}
+{173}{}{Bem, eu acho que se cozinha-los... Ei, espere um minuto. Isso ainda é canibalismo! Você é um
+ doente mental, até mesmo para um tribal.}
+{174}{}{Relaxe, Josh. Eu estava só de brincadeira. Heh heh. Heck, nós apenas cozinhamos algumas partes.}
+{175}{}{Peças, eh? Quais partes exatamente?}
+{176}{}{Por que se importa? (você dá de ombros) Partes são partes.}
+{177}{}{Só estava brincando com você, Josh. Deixe eu te perguntar sobre outra coisa.}
+{178}{}{Sim, bem, acho que isso faz algum sentido.}
+{179}{}{Claro que sim. Ei, deixe eu te perguntar sobre outra coisa.}
+{180}{}{Falando nisso, ta me batendo uma fome. Até logo, Josh. Adeus.}
+{181}{}{Malditos marcianos. E eu te confundi com um maldito tribal. Bem, eu não me sinto
+ estúpido. No final, canibais são sempre canibais na minha opinião.}
+{182}{}{Ei, nós os cozinhamos primeiro. Não somos selvagens.}
 {183}{}{Let go of my leg, you cannibal! I need it for a good long while to come still. You find yourself
  another snack.}
 {184}{}{Relax, you look kind of tough and stringy anyhow. Heh, heh. Just kidding... mostly. Let me ask you
