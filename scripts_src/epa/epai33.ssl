@@ -26,8 +26,8 @@ procedure start;
 procedure use_obj_on_p_proc;
 procedure map_enter_p_proc;
 
-#define EPA_BAD_PLANT_HEX     (23069)
-#define EPA_GOOD_PLANT_HEX    (23070)
+#define EPA_BAD_PLANT_HEX     (20465)
+#define EPA_GOOD_PLANT_HEX    (20466)
 #define GROW_HEX_OFFSET       (201)
 
 #define LVAR_Grow_Time        (0)
