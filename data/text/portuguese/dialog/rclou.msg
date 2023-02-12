@@ -1,13 +1,13 @@
 {100}{}{Você vê uma mulher cansada que poderia ter sido muito bonita quando era mais jovem.}
 {101}{}{Você vê Lou, o dono do Salão Malamute.}
 {102}{}{Você vê uma mulher mais velha usando um pouco de rouge.}
-{103}{}{I just want you to know that I'm thankful for what you did. How can I help you?}
-{104}{}{Jail's too good for what that bastard done.}
-{105}{}{I cain't rightly believe that you let the bastard that cut my gal go free. You've got some nerve
- coming back in here. What the hell do you want?}
-{106}{}{You're still a damn idiot. But life goes on, for the rest of us. Now just what the hell do you
- want?}
-{107}{}{Remember what I said. Too much money ain't good for that gal. Now whattya need?}
+{103}{}{Só quero que saiba que sou grato pelo que você fez. Como posso ajudá-lo?}
+{104}{}{A prisão é boa demais para o que aquele desgraçado fez.}
+{105}{}{Não acredito que você deixou o desgraçado que cortou minha garota ir embora, e ainda tem
+ coragem de voltar aqui. O que você quer agora?}
+{106}{}{Você ainda é um puta de um idiota, mas a vida continua, para o resto. Agora, o que você
+ quer agora?}
+{107}{}{Lembre-se do que eu disse, muito dinheiro não é bom para aquela garota. Agora, o que você precisa?}
 {108}{}{Olá, eu sou o Lou. Proprietário do Salão Malamute, o melhor local ao norte de San Fran.}
 {109}{}{O que agora?}
 {110}{}{Ooo?}
@@ -52,16 +52,16 @@
 {144}{}{Interessante. Me deixe perguntar sobre outra coisa agora.}
 {145}{}{É só um cachorro grande.}
 {146}{}{Oh, Entendo. Hmm, deixe eu te perguntar sobre outra coisa.}
-{147}{}{Of course. That's all I really wanted to know. Thanks. Goodbye.}
-{148}{}{San Francisco is quite a ways south of here. You're a long ways from there. South and jist a
- tich to the west. It's right next to the ocean, don'tcha know. Here, I'll mark it on your map. Don't
- know why any sane person'd want to go there for, though.}
-{149}{}{Why? Is it dangerous?}
+{147}{}{Claro ,isso é tudo que eu precisava saber. Obrigado e adeus.}
+{148}{}{São Francisco fica bem ao sul daqui, você está muito longe de lá. O Sul fica apenas um pouco
+ ao oeste. É bem próximo ao oceano, sabe? Aqui, vou marcar em seu mapa. Não sei por que qualquer
+ pessoa sã gostaria de ir para lá, no verdade.}
+{149}{}{Por que? É perigoso?}
 {150}{}{Interessante. Me deixe perguntar sobre outra coisa agora.}
 {151}{}{Obrigado pela informação. Adeus.}
-{152}{}{Well, I hear all kinds of things about the whole city bein' full o' nuthin' but crazy followers
- of some kind of kooky religion.}
-{153}{}{Crazed followers?}
+{152}{}{Bem, eu ouço todo tipo de coisa sobre a cidade inteira estar cheia de nada e alguns
+ seguidores malucos de algum tipo de religião excêntrica.}
+{153}{}{Seguidores malucos?}
 {154}{}{Some things haven't changed as much as others. Thanks. Goodbye.}
 {155}{}{Yup. That's right. I aheard that they're buildin' some huge device that'll let them get in touch
  with their gods. Or sumthin' like that. Don't know much for certain. It's a long ways off.}
