@@ -167,15 +167,15 @@
 {230}{}{E que diabos seria isso?}
 {231}{}{Vai tirar o vício do sistema dela. Da próxima vez que ela pedir uma bebida, coloque isso dentro dela.}
 {232}{}{Bem... tudo bem. Agora, há mais alguma coisa que você queria?}
-{233}{}{I'm interested in getting something here.}
-{234}{}{What's going on in this town?}
-{300}{}{You helped cure Fannie's addiction.}
+{233}{}{Estou interessado em obter algo aqui.}
+{234}{}{O que está acontecendo nesta cidade?}
+{300}{}{Você ajudou a curar o vício de Fannie.}
 {301}{}{Adeus.}
-{310}{}{I may have something that can help Fannie. [Give Lou the Jet antidote]}
-{1103}{}{Hello there. I'm Lou. Owner of the Malamute Saloon, finest house north of San Fran.
- I just want you to know that I'm thankful for what you did. How can I help you?}
-{1104}{}{I'm Lou. Owner of the Malamute Saloon, finest house north of San Fran.
- Jail's too good for what that bastard done.}
+{310}{}{Posso ter algo que possa ajudar Fannie. [Dê a Lou o antídoto Jet]}
+{1103}{}{Olá, eu sou o Lou. Proprietário do Salão Malamute, a melhor casa ao norte de San
+ Francisco. Só quero que saiba que sou grato pelo que você fez. Como posso ajudá-lo?}
+{1104}{}{Eu sou o Lou. Proprietário do Salão Malamute, a melhor casa ao norte
+ de San Francisco. A prisão é boa demais para o que aquele desgraçado fez.}
 {1105}{}{I'm Lou. Owner of the Malamute Saloon, finest house north of San Fran. I cain't rightly believe
  that you let the bastard that cut my gal go free. You've got some nerve coming back in here. What the hell
  do you want?}
