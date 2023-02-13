@@ -53,21 +53,21 @@
 {152}{}{Mais algumas perguntas...}
 {153}{}{Bem, obrigado. Vou me lembrar disso.}
 {154}{}{Ya another one them whackos looking for lost treasure? Ya ought to go see Saltbeef Bob over at Westin's Ranch. He's always talking about treasure. Ya may have to wet his whistle though.}
-{155}{}{Saltbeef? Me go.}
+{155}{}{Batata? Eu vou.}
 {156}{}{Mais algumas perguntas...}
 {157}{}{Bem, obrigado. Vou me lembrar disso.}
-{158}{}{Ya tell me how to mix it and I'll pour it for ya.}
-{159}{}{No drink. GECK is....GECK.}
-{160}{}{It's not a drink. It's a Garden of Eden Creation Kit.}
+{158}{}{Você me diz como fazer a mistura e eu faço para você.}
+{159}{}{Sem bebida. GECK é.... GECK.}
+{160}{}{Não é uma bebida. É um Kit de Criação do Jardim do Éden.}
 {161}{}{Mais algumas perguntas...}
 {162}{}{Bem, obrigado. Vou me lembrar disso.}
-{163}{}{He's a great guy. He's my boss. What ya expect me to say?}
+{163}{}{Ele é um cara legal, é meu chefe. O que você espera que eu diga?}
 {164}{}{Mais algumas perguntas...}
 {165}{}{Bem, obrigado. Vou me lembrar disso.}
-{166}{}{That bastard....It was just a messy divorce, that's all.}
-{167}{}{Well, how about we talk about something else?}
-{168}{}{Well, I guess I'll be going.}
-{169}{}{Oh, very informative. Look, ya might try Dr. Henry in town, but I got other things to do, Dumbo.}
+{166}{}{Esse idiota... Foi apenas um divórcio conturbado, só isso.}
+{167}{}{Bem, que tal falarmos de outra coisa?}
+{168}{}{Bem, acho que vou indo.}
+{169}{}{Ah, muito informativo. Olha, você pode tentar o Dr. Henry na cidade, mas eu tenho outras coisas para fazer, Dumbo.}
 {170}{}{Garden of Eden Creation Kit? Sounds technical. Ya might try looking up Dorothy, the city engineer. }
 {171}{}{Mais algumas perguntas...}
 {172}{}{Bem, obrigado. Vou me lembrar disso.}

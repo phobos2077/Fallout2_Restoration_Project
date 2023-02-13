@@ -62,48 +62,48 @@
 {152}{}{Bem, eu ouço todo tipo de coisa sobre a cidade inteira estar cheia de nada e alguns
  seguidores malucos de algum tipo de religião excêntrica.}
 {153}{}{Seguidores malucos?}
-{154}{}{Some things haven't changed as much as others. Thanks. Goodbye.}
-{155}{}{Yup. That's right. I aheard that they're buildin' some huge device that'll let them get in touch
- with their gods. Or sumthin' like that. Don't know much for certain. It's a long ways off.}
-{156}{}{Seems like monuments to gods always seem to have some sort of trouble at the heart of them. Tell
- me about something else.}
-{157}{}{That's all I need to know for now. Thanks. Goodbye.}
-{158}{}{That's right. She's in a bad way. Used to be such a perty thing, too. I sure hope you take care
- of this quick. It's bad for business to let those miners think they can get away with something like this.}
-{159}{}{Can I see the girl?}
-{160}{}{Do you know who did it?}
-{161}{}{Do you know what happened?}
-{162}{}{Sounds like a problem, all right. Let me ask you about something else, though.}
-{163}{}{I sent her away. She wasn't going to be no good in this business any more. Not that anybody'd
- want to be with her after that bastard finished with her. I gave her some money and let her go.}
-{164}{}{Do you know who did it?}
-{165}{}{Do you know what happened?}
+{154}{}{Algumas coisas não mudaram tanto quanto outras. Obrigado. Adeus.}
+{155}{}{Sim, isso mesmo. Ouvi dizer que eles estão construindo um enorme dispositivo que os deixará
+ entrar em contato com seus deuses. Alguma coisa assim, não tenho muita certeza. É bem longe daqui.}
+{156}{}{Parece que os monumentos aos deuses sempre parecem ter algum tipo de problema envolvendo
+ eles. Me conte sobre outra coisa.}
+{157}{}{Isso é tudo que preciso saber por enquanto. Obrigado e adeus.}
+{158}{}{Isso mesmo, ela está mal. Costumava ser uma tão linda, espero que você cuide disso rápido.
+ É ruim para os negócios deixar esses mineiros pensarem que podem se safar com algo assim.}
+{159}{}{Posso ver a garota?}
+{160}{}{Você sabe quem fez isso?}
+{161}{}{Sabe o que aconteceu?}
+{162}{}{Parece um problema, tudo bem. Deixe eu te perguntar sobre outra coisa.}
+{163}{}{Eu a mandei embora, ela não seria mais boa para esse negócio. Não que alguém quisesse ficar
+ com ela depois que aquele babaca terminasse com ela. Eu dei um dinheiro e deixei ela ir.}
+{164}{}{Você sabe quem fez isso?}
+{165}{}{Sabe o que aconteceu?}
 {166}{}{Deixe-me perguntar-lhe algo mais.}
-{167}{}{I'll sort this out for you. You can count on me. Goodbye.}
-{168}{}{I don't know 'xactly who did it, but she had a Morningstar Mine pay scrip in her hand when we
- found her, and it was a miner who was with her last.}
-{169}{}{Can I see the girl?}
-{170}{}{Do you know what happened?}
-{171}{}{A Morningstar Mine pay scrip? What's that?}
+{167}{}{Vou resolver isso para você, pode contar comigo. Adeus.}
+{168}{}{Eu não sei exatamente quem fez isso, mas ela tinha um recibo de pagamento da Mina Morningstar
+ na mão quando a encontramos, e foi um mineiro que estava com ela a última vez.}
+{169}{}{Posso ver a garota?}
+{170}{}{Sabe o que aconteceu?}
+{171}{}{Um recibo de pagamento da Mina Morningstar? O que é isso?}
 {172}{}{Deixe-me perguntar-lhe algo mais.}
-{173}{}{I'll sort this out for you. You can count on me. Goodbye.}
-{174}{}{Well, there was some screaming and carrying on and so I went to the room. When I got there, the
- bastard who did it was already gone and my girl was in a bad way. So I called the doc and then the
- Sheriff. You know the rest.}
-{175}{}{Do you know who did it?}
-{176}{}{Can I see the girl?}
+{173}{}{Vou resolver isso para você, pode contar comigo. Adeus.}
+{174}{}{Bem, tiveram alguns gritos e corri para o quarto ver. Quando cheguei lá, o desgraçado que fez
+ isso já tinha ido sumido e minha garota estava muito mal. Então liguei para o médico e depois para
+ o xerife. Você sabe o resto.}
+{175}{}{Você sabe quem fez isso?}
+{176}{}{Posso ver a garota?}
 {177}{}{Deixe-me perguntar-lhe algo mais.}
-{178}{}{I'll sort this out for you. You can count on me. Goodbye.}
-{179}{}{In the north part of town Dan McGrew runs the Morningstar mine. Usually the miners get paid on
- account or with chits from each mine... you know, scrip. Well, my girl was found with one of those
- pieces of scrip in her hand. Here it is. Look for yourself. (She hands you the scrip)}
-{180}{}{Oh, I see. Can I see the girl?}
-{181}{}{Oh, I see. Do you know what happened?}
+{178}{}{Vou resolver isso para você, pode contar comigo. Adeus.}
+{179}{}{Na parte norte da cidade, Dan McGrew comanda a mina Morningstar. Normalmente os mineiros
+ são pagos por conta ou com fichas de cada mina... você sabe, cartas de pagamento. Bem, minha
+ garota foi encontrada com um daqueles pedaços de papel na mão. Aqui está, pode procurar. (Te entrega a carteira)}
+{180}{}{Oh, entendo. Posso ver a garota?}
+{181}{}{Oh, entendo. Sabe o que aconteceu?}
 {182}{}{Deixe-me perguntar-lhe algo mais.}
-{183}{}{I'll sort this out for you. You can count on me. Goodbye.}
-{184}{}{Well, I'm sure glad that someone's workin' on it. This type of thing is just bad all the way
- around. I sure hope you make the bastard pay for what he did to my girl. Make sure he cain't never do
- that to no one ever again.}
+{183}{}{Vou resolver isso para você, pode contar comigo. Adeus.}
+{184}{}{Bem, estou feliz que alguém esteja trabalhando nisso. Esse tipo de coisa é ruim sempre
+ que acontece. Espero que você faça o desgraçado pagar pelo que ele fez com a minha garota. Certifique-se
+ de que ele nunca mais faça isso com ninguém.}
 {185}{}{Bem, farei o que puder. Deixe eu te perguntar outra coisa.}
 {186}{}{Verei o que posso fazer. Adeus.}
 {187}{}{O que posso fazer por você? Você quer uma cama livre, uma cama de casal? Talvez um pouco de licor ou algo mais?}
@@ -158,15 +158,15 @@
  dinheiro para comprar jet pra caralho, ela vai ter uma overdose um dia desses se você continuar dando dinheiro pra ela.}
 {223}{}{Hum, vou ter que pensar nisso.}
 {224}{}{Vou pensar nisso. Adeus.}
-{225}{}{You can think whatever you like. I just thought I'd try to tell you what the straight scoop
- really is. Your choice whether you want to listen or not.}
-{226}{}{I've heard it all before. Let's get down to other business.}
-{227}{}{Thanks, I'll think about what you've told me. Let me ask you about something else, though.}
-{228}{}{I'll have to think this over. Goodbye.}
-{229}{}{Hmmm... I may have a solution to that. [Give Lou the Jet antidote]}
-{230}{}{What the hell's this stuff?}
-{231}{}{It'll get the addiction out of her system. The next time she orders a drink, slip this into it.}
-{232}{}{Well... alright. Now, is there anything else you wanted?}
+{225}{}{Pode pensar o que quiser, só pensei em contar a verdade honesta sobre o que você faz.
+ É sua escolha ouvir ou não.}
+{226}{}{Eu já ouvi isso antes, vamos falar de outra coisa.}
+{227}{}{Obrigado, vou pensar sobre o que você me disse. Deixe eu te perguntar sobre outra coisa.}
+{228}{}{Vou ter que pensar sobre isso. Adeus.}
+{229}{}{Hmmm... Posso ter uma solução para isso. [Dê a Lou o antídoto de jet]}
+{230}{}{E que diabos seria isso?}
+{231}{}{Vai tirar o vício do sistema dela. Da próxima vez que ela pedir uma bebida, coloque isso dentro dela.}
+{232}{}{Bem... tudo bem. Agora, há mais alguma coisa que você queria?}
 {233}{}{I'm interested in getting something here.}
 {234}{}{What's going on in this town?}
 {300}{}{You helped cure Fannie's addiction.}
