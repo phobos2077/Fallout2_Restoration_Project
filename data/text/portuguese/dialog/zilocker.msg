@@ -1,14 +1,14 @@
-{100}{}{You successfully disable the lock.}
-{101}{}{You fail to disable the lock.}
-{102}{}{You successfully lock the object.}
-{103}{}{You fail to lock the object.}
-{200}{}{ successfully disabled the lock.}
-{201}{}{ fails to disable the lock.}
-{202}{}{ successfully locked the object.}
-{203}{}{ fails to lock the object.}
-{300}{}{The explosion destroys the lock on the object.}
-{301}{}{The explosion fails to remove the lock from the object.}
-{400}{}{You successfully pry open the lock on the object.}
+{100}{}{Você desativou o fechadura com sucesso.}
+{101}{}{Você falha ao desbloquear a fechadura.}
+{102}{}{Você bloqueou o objeto com sucesso.}
+{103}{}{Você falha ao bloquear o objeto.}
+{200}{}{ desbloqueou a fechadura com sucesso.}
+{201}{}{ falha ao desbloquear a fechadura.}
+{202}{}{ bloqueou com sucesso o objeto.}
+{203}{}{ falha ao bloquear o objeto.}
+{300}{}{A explosão destrói a fechadura no objeto.}
+{301}{}{A explosão não consegue remover a fechadura do objeto.}
+{400}{}{Você abriu com sucesso a fechadura do objeto.}
 {401}{}{You fail to pry the lock on the object open.}
 {500}{}{ successfully pried open the lock on the object.}
 {501}{}{ fails to pry the lock on the object open.}

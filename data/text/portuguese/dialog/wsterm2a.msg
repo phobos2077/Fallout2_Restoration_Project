@@ -9,9 +9,9 @@
                                               Intruso Nível 2
                                                          Ativando Contramedidas Nível 2
                                    Tentativa de redirecionar energia para geradores de campo}
-{105}{}{Skynet Security Systems
-                                 Intruder Level 2
-                                                 Activating Counter Measures Level 2}
+{105}{}{Sistemas de Segurança Skynet
+                                         Intruso Nível 2
+                                                             Ativando Contramedidas Nível 2}
 {106}{}{Terminate Alarm Level 2 - False Alarm}
 {107}{}{[You notice a button on the keyboard labeled help.] Push key.}
 {108}{}{"Hackear" o sistema de segurança}
