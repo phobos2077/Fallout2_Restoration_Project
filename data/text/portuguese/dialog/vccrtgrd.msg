@@ -4,7 +4,7 @@
 {103}{}{I think it's about time for you to leave.}
 {104}{}{I don't like the looks of you.}
 {105}{}{Tenha cuidado.}
-{106}{}{Hello, Citizen.}
+{106}{}{Ola, cidadão.}
 {107}{}{Nice to see you, Citizen.}
 {108}{}{Busy day, Citizen?}
 {109}{}{After you, Citizen.}

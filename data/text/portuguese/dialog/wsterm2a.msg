@@ -1,14 +1,14 @@
 {100}{}{Um terminal de computador.}
 {101}{}{O protetor de tela está ativo.}
-{103}{}{Skynet Security Systems
-                                  Intruder Level 2
-                                                   Activating Counter Measures Level 2
-                        Counter Measures - Stopped Transmitting
-                        Activating Automated Repair System}
-{104}{}{Skynet Security Systems
-                                     Intruder Level 2
-                                             Activating Counter Measures Level 2
-                            Attempting to reroute power to field generators}
+{103}{}{Sistemas de Segurança Skynet
+                                           Intruso Nível 2
+                                                               Ativando Contramedidas Nível 2
+                              Contramedidas - Transmissão interrompida
+                              Ativando o sistema de reparo automatizado}
+{104}{}{Sistemas de Segurança Skynet
+                                              Intruso Nível 2
+                                                         Ativando Contramedidas Nível 2
+                                   Tentativa de redirecionar energia para geradores de campo}
 {105}{}{Skynet Security Systems
                                  Intruder Level 2
                                                  Activating Counter Measures Level 2}

@@ -3,14 +3,14 @@
 {102}{}{Door no move.}
 {103}{}{This door's stuck. It'd take a very strong person to open it.}
 {104}{}{*Hrnnnnnn*... *hfff*... *hfff*}
-{105}{}{Even with the crowbar, you still aren't strong enough to force the door.}
+{105}{}{Mesmo com o pé de cabra, você ainda não é forte o suficiente para forçar a porta.}
 {106}{}{*Hrnnnnnn*}
-{107}{}{With the help of the crowbar, you force open the door.}
+{107}{}{Com a ajuda do pé de cabra, você força a abertura da porta.}
 {108}{}{*Hrnnnnn*}
-{109}{}{Using your raw physical strength, you force open the door.}
-{110}{}{Wow. That didn't even scratch it.}
-{111}{}{BOOM no hurt door.}
-{112}{}{The door's stuck, not locked.}
+{109}{}{Usando sua força física bruta, você abre a porta à força.}
+{110}{}{Uau. Isso nem arranhou.}
+{111}{}{BOOM nenhuma porta ferida.}
+{112}{}{A porta está emperrada, não fechada.}
 {113}{}{Porta emperrada, não bloqueada.}
-{114}{}{The door won't close. It's jammed.}
+{114}{}{A porta não fecha. Está emperrada.}
 {115}{}{Door no move.}

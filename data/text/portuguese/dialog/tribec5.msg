@@ -5,19 +5,19 @@
 {104}{}{Como ele pode fazer isso comigo?}
 {105}{}{O sangue... Tanto sangue...}
 {110}{}{Ele disse que me amava, que poderíamos recomeçar juntos. Como ele pôde fazer isso?}
-{111}{}{Who did this to you? Can you hear me?}
-{120}{}{It's all a lie. He doesn't love me at all. Oh, he's got a knife! It hurts! The look in his eyes, so cold, so...}
-{121}{}{If you can hear me, tell me who's hurting you. Who did this?}
-{122}{}{That's it--that's enough for me. I'm outta here.}
-{130}{}{He's walking away now. He's leaving me here to die alone. How could this happen?}
-{131}{}{Please, just give me a name. Give me something more to work with.}
-{140}{}{It wasn't supposed to be like this. You said you wanted to start a family with me. Oh, it's so cold... I think I'm dying... No! This isn't real! You would never do this to me, Thorg! I love you! Nessa will always love you...}
-{141}{}{Thank you, Nessa. That's all I needed to hear.}
-{150}{}{It's so lonely in the dark... So very lonely.}
+{111}{}{Quem fez isto com voce? Você pode me ouvir?}
+{120}{}{É tudo mentira, ele não me ama de nenhuma maneira. Oh, ele tem uma faca! Isso dói! O olhar em seus olhos, tão frio, tão...}
+{121}{}{Se você pode me ouvir, me diga quem está te machucando. Quem fez isto?}
+{122}{}{É isso, ja é suficiente para mim. Estou fora daqui.}
+{130}{}{Ele está indo embora agora, está me deixando aqui para morrer sozinha. Como isso pôde acontecer?}
+{131}{}{Por favor, me dê um nome. Me de algo mais para trabalhar.}
+{140}{}{Não era para ser assim, você disse que queria começar uma família comigo. Oh, está tão frio... Acho que estou morrendo... Não! Isso não é real! Você nunca faria isso comigo, Thorg! Eu te amo! Nessa sempre vai te amar...}
+{141}{}{Obrigado, Nessa. Isso é tudo que eu precisava ouvir.}
+{150}{}{Estou tão solitária no escuro... É tão solitário.}
 {151}{}{[Feito]}
-{160}{}{The blood, it never stops flowing... why won't this pain end?}
-{161}{}{Don't worry, Nessa, I'm going to help you find peace soon.}
-{300}{}{Uh... You talkin' to me, glow-lady?}
-{310}{}{Where dah knife man at? I don' see no knife man. Wat you talkin' 'bout? Why yu glow like dat enywey? Yu dicted to gamma gulp?}
-{320}{}{Lissen glow-lady, der is NO KNIFE MAN! He not walk no-place cuz ders no one but yu 'n me!}
-{330}{}{I tink yu pretty, glow-lady, but yu too crazy to be gud fit fer me. Sumtime yu not even makin no sense! Yu need help, but I dun' no how tuh give. So, uh... I go now, kay? Bu-bye!}
+{160}{}{O sangue, nunca para de correr... por que essa dor não acaba?}
+{161}{}{Não se preocupe, Nessa, vou ajudá-la a encontrar a paz em breve.}
+{300}{}{Uh... Você está falando comigo, moça brilhante?}
+{310}{}{Onde está o homem da faca? Eu não vejo nenhum homem de faca. Do que você está falando? Por que você brilha como aquele enywey? Oce dite bebida gamma?}
+{320}{}{Oça moça-brilha, der NÃO É HOMEM DE FACAS! Ele não anda sem lugar, porque o espírito não é de um, mas de você e de mim!}
+{330}{}{Eu acho você bonita, moça brilhante, mas você é louca demais ficar comigo. Negocio oce niem mesmo fazendo sentido! Ce pcisa de ajuda, mas não sei como fzer. Então, uh... eu vou agora, ok? Tchau!}

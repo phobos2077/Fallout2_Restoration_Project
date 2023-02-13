@@ -80,4 +80,4 @@
 {174}{}{Hello, Captain.}
 {175}{}{Vault City prevails, Citizen.}
 {176}{}{Citizen.}
-{177}{}{Hello, Citizen.}
+{177}{}{Ola, cidadão.}
