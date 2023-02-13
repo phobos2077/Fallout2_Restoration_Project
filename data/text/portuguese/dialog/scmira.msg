@@ -68,29 +68,29 @@
 {167}{}{Bem, que tal falarmos de outra coisa?}
 {168}{}{Bem, acho que vou indo.}
 {169}{}{Ah, muito informativo. Olha, você pode tentar o Dr. Henry na cidade, mas eu tenho outras coisas para fazer, Dumbo.}
-{170}{}{Garden of Eden Creation Kit? Sounds technical. Ya might try looking up Dorothy, the city engineer. }
+{170}{}{Kit de Criação do Jardim do Éden? Parece técnico. Tente procurar Dorothy, a engenheira da cidade. }
 {171}{}{Mais algumas perguntas...}
 {172}{}{Bem, obrigado. Vou me lembrar disso.}
-{173}{}{Hmm -- work? Want job? Help Mira?}
+{173}{}{Hum... trabalho? Quer emprego? Ajudar Mira?}
 {174}{}{Sim.}
 {175}{}{Não.}
-{176}{}{Listen -bad man hurt Mira. Bad man name Jack. Hurt bad man. Mira like ya, give ya nice gun. Good?}
+{176}{}{Ouça: homem mau machucou Mira. Homem mau chamado Jack. Você machuca homem mau. Mira é como você e te dá uma bela arma. Bom?}
 {177}{}{Sim.}
 {178}{}{Não.}
-{179}{}{Good! Mira have rope over wall. Go night. Find rope. Sneak in. Go big place by gate. Find Jack. Hurt Jack. Mira give ya gun.}
-{180}{}{Go night. Find rope. Sneak in. Go big place by gate. Find Jack. Hurt Jack. Mira give ya gun. Now go away. Me be seen with ya - not good. Help Mira and come back. Understand?}
-{181}{}{Mira hear Jack got hurt. Good work, Dumbo. Here gun, ya take. Thanks.}
-{182}{}{Screw ya, too. I'm never gonna be free of that bastard.}
-{183}{}{You need to talk to Merk, but he's not here. Come back at night. That's more his time.}
-{184}{}{I don't know what you did to Lenny, but I wouldn't hang around here. It ain't gonna make you to popular.}
-{185}{}{Hey, I warned you. Oh, well. ..}
-{186}{}{You're Mira, right? Some cop was saying something about you.}
-{187}{}{You Mira? Bad Jack say things.}
-{188}{}{That bastard Jack? What'd he say now?}
-{189}{}{Jack dead. Go boom.}
-{190}{}{Me kill. Him bad man.}
-{191}{}{I wouldn't worry about it. He's dead. Blew himself up at the power station.}
-{192}{}{Not much now. I killed him.}
+{179}{}{Bom! Mira tem corda na parede. Vai a noite, você encontra a corda. Você se esgueira, vai para o lugar grande pelo portão. Você encontra Jack, você machuca Jack. Mira te dá uma arma.}
+{180}{}{Você vai a noite e encontra a corda. Você vai escondido para o lugar grande pelo portão. Você encontra Jack. Você machuca Jack. Mira te dá uma arma. Agora vá embora. Me ver com você... não é bom. Você ajuda Mira e volta. Entendido?}
+{181}{}{Mira ouviu que Jack se machucou. Bom trabalho, Dumbo. Aqui arma, você pega. Obrigado.}
+{182}{}{Que se foda você também. Nunca vou me livrar daquele desgraçado.}
+{183}{}{Você precisa falar com Merk, mas ele não está aqui. Volte a noite, ele tem mais tempo.}
+{184}{}{Não sei o que você fez com Lenny, mas eu não ficaria por aqui. Isso não vai te deixar muito popular.}
+{185}{}{Ei, eu avisei. Ah bem...}
+{186}{}{Você é Mira, certo? Tem um policial que estava dizendo algo sobre você.}
+{187}{}{Você Mira? Jack mau diz coisas.}
+{188}{}{Aquele desgraçado do Jack? O que ele disse agora?}
+{189}{}{Jack morto. Fez boom.}
+{190}{}{Eu mato. Ele homem mau.}
+{191}{}{Eu não me importaria com isso, ele está morto. Se explodiu na estação de energia.}
+{192}{}{Agora não muito. Eu o matei.}
 {193}{}{You're kidding? That's the best news I've had all day! I hope his brains made nice wallpaper. Damn psycho deserved it. Have a Rad-a-Waster on me.}
 {194}{}{Me like.}
 {195}{}{Eu vou agora.}
