@@ -91,14 +91,14 @@
 {190}{}{Eu mato. Ele homem mau.}
 {191}{}{Eu não me importaria com isso, ele está morto. Se explodiu na estação de energia.}
 {192}{}{Agora não muito. Eu o matei.}
-{193}{}{You're kidding? That's the best news I've had all day! I hope his brains made nice wallpaper. Damn psycho deserved it. Have a Rad-a-Waster on me.}
-{194}{}{Me like.}
+{193}{}{Tá brincando? Essa é a melhor notícia que recebi no dia! Espero que seu cérebro tenha pintado toda a parece, esse maldito psicopata mereceu. Pegue um Rad-a-Waster por minha conta.}
+{194}{}{Gosto.}
 {195}{}{Eu vou agora.}
-{196}{}{Thanks - I guess. Say, got time for a question?}
-{197}{}{Thanks. Just figured you ought to know.}
-{198}{}{You did what? Oh, if I wasn't on duty, I'd climb over this bar and... well, kiss you. The little prick deserved it. In fact, don't tell anyone but I was hoping to get some stupid ox to do the job for me. Had a little reward all set aside. It's yours now - as far as I'm concerned you earned it.}
-{199}{}{Thanks - I guess. Say, got time for a question?}
-{200}{}{Thanks. Just figured you ought to know.}
+{196}{}{Obrigado, eu acho. Diga, tem tempo para uma pergunta?}
+{197}{}{Obrigado. Achei que você deveria saber.}
+{198}{}{Você fez o que? Ah, se eu não estivesse de plantão, eu fecharia esse bar e... bom, te beijaria. Esse idiota mereceu. Na verdade, não conte a ninguém, mas eu esperava conseguir algum capanga estúpido para fazer o trabalho para mim. Tinha uma pequena recompensa reservada para isso, é sua agora. No que me diz respeito, você merece.}
+{199}{}{Obrigado, eu acho. Diga, tem tempo para uma pergunta?}
+{200}{}{Obrigado. Achei que você deveria saber.}
 {201}{}{Dumbo, you've made me the happiest woman around! I got a little present for you, right here behind the bar. It's all yours.}
 {202}{}{Me like Mira.}
 {203}{}{Me like gun. Me go bye bye.}

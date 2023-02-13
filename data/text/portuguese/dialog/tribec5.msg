@@ -1,10 +1,10 @@
-{100}{}{You see a lost spirit.}
-{101}{}{You see Nessa, the lost spirit.}
-{102}{}{You see the spirit of a pretty young girl, illuminated by the cold glow of the moon.}
-{103}{}{I'm betrayed. Betrayed and alone.}
+{100}{}{Você vê um espírito perdido.}
+{101}{}{Você vê Nessa, o espírito perdido.}
+{102}{}{Você vê o espírito de uma linda jovem, iluminada pelo brilho frio da lua.}
+{103}{}{Me sinto traída. Traída e sozinha.}
 {104}{}{Como ele pode fazer isso comigo?}
-{105}{}{The blood... So much blood...}
-{110}{}{He said that he loved me. That we could start over together. How could he do this?}
+{105}{}{O sangue... Tanto sangue...}
+{110}{}{Ele disse que me amava, que poderíamos recomeçar juntos. Como ele pôde fazer isso?}
 {111}{}{Who did this to you? Can you hear me?}
 {120}{}{It's all a lie. He doesn't love me at all. Oh, he's got a knife! It hurts! The look in his eyes, so cold, so...}
 {121}{}{If you can hear me, tell me who's hurting you. Who did this?}
