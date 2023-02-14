@@ -16,7 +16,7 @@
 {115}{}{Salve, sono Doc Johnson. Dovro' dare un'occhiata piu' attenta ai tuoi amici, se vuoi che li curi. Non sembrano stare molto bene.}
 {116}{}{Qualsiasi cosa voi ragazzi abbiate contratto, sono sicuro di poterla curare. Io sono Doc Johnson.}
 {117}{}{Cosa sono tutte queste sbucciature, eh? Beh, lascia che Doc Johnson ci dia un'occhiata. Calma, sono un professionista.}
-{118}{}{In quali guai vi siete cacciati, ragazzi? Lasciate che il vecchio Doc Johnson vi dia  un'occhiata.}
+{118}{}{In quali guai vi siete cacciati, ragazzi? Lasciate che il vecchio Doc Johnson vi dia un'occhiata.}
 {119}{}{Grazie, Doc. Quanto ti devo?}
 {120}{}{Volevo solo sapere se potevo comprare delle medicine.}
 {121}{}{Al momento ho piu' bisogno di risposte alle mie domande che di cure.}

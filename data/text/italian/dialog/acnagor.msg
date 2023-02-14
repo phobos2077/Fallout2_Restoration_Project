@@ -1,6 +1,6 @@
 {100}{}{Vedi il tuo giovane cugino, Nagor. Non vedi da nessuna parte il suo cane, Smoke.}
 {101}{}{Conosci Nagor da quando e' nato e lo hai sempre aiutato, quando possibile.}
-{102}{}{Cugina, sono felice di vederti!  Mi serve il tuo aiuto.}
+{102}{}{Cugina, sono felice di vederti! Mi serve il tuo aiuto.}
 {103}{}{Scusa, ma non ho tempo.}
 {104}{}{Cosa ti serve?}
 {105}{}{Allora me ne andro' nella foresta da solo!}
@@ -62,4 +62,4 @@
  qui. La gente e' malata, i brahmin stanno morendo e... io... il mio cane Smoke e' morto - Morlis l'ha
  cucinato. Mi manca tanto. Scusa, non ce la faccio a parlare...}
 {300}{}{Vedi Nagor.}
-{302}{}{Cugina, sono felice di vederti!  Mi serve il tuo aiuto.}
+{302}{}{Cugina, sono felice di vederti! Mi serve il tuo aiuto.}

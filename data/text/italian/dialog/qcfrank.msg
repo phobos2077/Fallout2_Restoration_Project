@@ -6,8 +6,8 @@
 {105}{}{Sporco mutante rosso!}
 {106}{}{Hai distrutto tutti noi.}
 {107}{}{Pagherai per quel che hai fatto.}
-{108}{ssa2}{You (cough), you haven't won here. You and your mutie-bastard friends are gonna join me in a big ol' mushroom cloud sendoff. I just triggered the self-destruct. (Heh, heh; cough, cough...) The work will go on. You didn't do nothing here, 'cept seal your own death warrants. Duty, (cough) honor... courage... Semper Fiiiii...}
-{109}{ssa2}{You (cough), you haven't won here. You and your mutie-bastard friends are gonna join me in a big ol' mushroom cloud sendoff. I just triggered the self-destruct. (Heh, heh; cough, cough...) The work will go on. You didn't do nothing here, 'cept seal your own death warrants. Duty, (cough) honor... courage... Semper Fiiiii...}
+{108}{ssa2}{Tu (cough)... tu non hai vinto. Tu e quei bastardi dei tuoi amici mutanti mi raggiungerete presto all'inferno in una vecchia, cara nube nucleare. Ho appena attivato l'autodistruzione. Eh, eh (cough, cough...) Il Progetto andra' avanti. Non avete fatto nulla qui, se non firmare le vostre stesse condanne a morte. Dovere, (cough) onore... coraggio... Semper Fiiiii...}
+{109}{ssa2}{Tu (cough)... tu non hai vinto. Tu e quei bastardi dei tuoi amici mutanti mi raggiungerete presto all'inferno in una vecchia, cara nube nucleare. Ho appena attivato l'autodistruzione. Eh, eh (cough, cough...) Il Progetto andra' avanti. Non avete fatto nulla qui, se non firmare le vostre stesse condanne a morte. Dovere, (cough) onore... coraggio... Semper Fiiiii...}
 {110}{}{Uh-oh. Cose brutte succedere qui. Me corre subito a nave.}
 {111}{}{Sara' meglio raggiungere in fretta la nave e tagliare la corda il piu' presto possibile.}
 {112}{ssa3alt}{Sei arrivato piu' lontano di quanto avresti dovuto; d'altronde non avevi ancora incontrato Frank Horrigan. La tua corsa finisce qui, mutante. E' tempo di morire.}

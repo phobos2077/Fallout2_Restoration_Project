@@ -178,7 +178,7 @@
 {355}{}{Potrei anche andare a fumarmi una sigarettina...}
 {356}{}{Mio padre mi ha dato questo nome ispirandosi a un qualche personaggio dei fumetti degli anni prima della guerra. Ha detto anche che si trattava di un gran figlio di puttana.}
 {357}{}{E' bello viaggiare di nuovo. Vivere a Vault City mi stava facendo venire l'ulcera.}
-{358}{}{Spero che il mio cuore non mi  tradisca proprio mentre stiamo viaggiando...}
+{358}{}{Spero che il mio cuore non mi tradisca proprio mentre stiamo viaggiando...}
 {359}{}{Mi farei volentieri una bevuta.}
 {360}{}{Faro' meglio a controllare di nuovo il mio equipaggiamento.}
 {361}{}{Maledetta artrite...}

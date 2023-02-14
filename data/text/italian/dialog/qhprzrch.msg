@@ -120,7 +120,7 @@
 {219}{}{E noi con lei.}
 {220}{prs34}{Beh, no. No... non proprio. Vedi, avevamo gia' pianificato tutto. Eravamo pronti. }
 {221}{}{Che cosa vuoi dire?}
-{222}{prs35}{Noi avevamo dei rifugi che avrebbero permesso alla gloriosa civilta' americana di sopravvivere. Tali installazioni - i vault  - facevano parte del grande progetto.}
+{222}{prs35}{Noi avevamo dei rifugi che avrebbero permesso alla gloriosa civilta' americana di sopravvivere. Tali installazioni - i vault - facevano parte del grande progetto.}
 {223}{}{Quei dannati vault non funzionarono come avrebbero dovuto! Un sacco di gente e' morta!}
 {224}{prs36}{Veramente hanno funzionato esattamente come avrebbero dovuto. Lo si puo' chiamare un esperimento sociale su larga scala.}
 {225}{}{Un esperimento?}

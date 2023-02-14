@@ -1,4 +1,4 @@
-{100}{}{Tipo grosso - pistola  -- di pattuglia. Guardia.}
+{100}{}{Tipo grosso - pistola -- di pattuglia. Guardia.}
 {101}{}{Vedi sempre una guardia.}
 {102}{}{Ha un tatuaggio da schiavista sulla fronte, il che non lo fa sembrare piu' sveglio.}
 {103}{}{Parla con Mr. Vortis, non con me.}

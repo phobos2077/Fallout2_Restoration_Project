@@ -1,5 +1,5 @@
 {100}{}{Vedi un capitano mercenario.}
-{150}{}{Vedi un uomo dall'aspetto rude, vestito con un'armatura da combattimento. La sua  armatura e le sue armi sembrano ben tenute, quasi nuove.}
+{150}{}{Vedi un uomo dall'aspetto rude, vestito con un'armatura da combattimento. La sua armatura e le sue armi sembrano ben tenute, quasi nuove.}
 {151}{}{Vedi un capitano mercenario. Sta controllando la zona e accarezza la sua arma.}
 {200}{}{Beh, non si puo' dire che questo figlio di puttana non abbia le palle...}
 {201}{}{Contatto!}

@@ -77,7 +77,7 @@
 {176}{}{Cos-? Chi sei TU per accusare un Cittadino di Vault City?}
 {177}{}{Beh, mi ha venduto un falso attestato di Cittadinanza. Ecco, guardi qua.}
 {178}{}{Come non detto. Devo essermi sbagliato.}
-{179}{}{Coloro i quali hanno la necessita' di trattare direttamente con i mercanti o con il Primo Cittadino vengono forniti di un Pass Giornaliero. Solo chi e' in possesso di tale Pass  puo' entrare in citta'.}
+{179}{}{Coloro i quali hanno la necessita' di trattare direttamente con i mercanti o con il Primo Cittadino vengono forniti di un Pass Giornaliero. Solo chi e' in possesso di tale Pass puo' entrare in citta'.}
 {180}{}{Magnifico! Lei sembra proprio essere la persona che stavo cercando. Devo parlare con il Primo Cittadino. E' urgente.}
 {181}{}{Bene, devo parlare con il Primo Cittadino.}
 {182}{}{Chi e' il Primo Cittadino?}
