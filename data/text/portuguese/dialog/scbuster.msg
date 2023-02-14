@@ -1,5 +1,5 @@
-{100}{}{You see a little grease-stained guy.}
-{101}{}{You're looking at Buster, the gun guy.}
+{100}{}{Você vê um carinha manchado de graxa.}
+{101}{}{Você está olhando para Buster, o cara das armas.}
 {102}{}{As roupas desse cara estão esfarrapadas e ele tem manchas azuis nas mãos, braços e rosto. Ainda assim, ele parece bem alegre.}
 {103}{}{Ei, bem-vindo ao Empório de Armamento da Buster! Eu sou o Buster e é só eu mesmo. Tenho alguns produtos finissimos a venda aqui. E se você não encontrar algo de que goste, de uma olhada em minhas prateleiras e ver meus produtos adicionais. Te garanto que tenho algo que lhe agrade.}
 {104}{}{Ei, de volta? O que posso fazer por você?}

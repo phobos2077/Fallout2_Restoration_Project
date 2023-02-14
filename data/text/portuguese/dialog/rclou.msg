@@ -176,10 +176,10 @@
  Francisco. Só quero que saiba que sou grato pelo que você fez. Como posso ajudá-lo?}
 {1104}{}{Eu sou o Lou. Proprietário do Salão Malamute, a melhor casa ao norte
  de San Francisco. A prisão é boa demais para o que aquele desgraçado fez.}
-{1105}{}{I'm Lou. Owner of the Malamute Saloon, finest house north of San Fran. I cain't rightly believe
- that you let the bastard that cut my gal go free. You've got some nerve coming back in here. What the hell
- do you want?}
-{1106}{}{You're still a damn idiot. But life goes on, for the rest of us. I'm Lou. Owner of the Malamute
- Saloon, finest house north of San Fran. Now just what the hell do you want?}
-{1107}{}{I'm Lou. Owner of the Malamute Saloon, finest house north of San Fran. Just remember,
- too much money ain't good for that gal. Now whattya need?}
+{1105}{}{Eu sou o Lou. Proprietário do Salão Malamute, a melhor casa ao norte de San Fran. Não acredito
+ que você deixou o bastardo que cortou minha garota ir embora e ainda tem coragem de voltar aqui. O que
+ você quer?}
+{1106}{}{Você ainda é puta idiota. Mas a vida continua, para o resto de nós. Eu sou o Lou., proprietário
+ do Salão Malamute, a melhor casa ao norte de San Fran. Agora, o que você quer?}
+{1107}{}{Eu sou o Lou, proprietário do Salão Malamute, a melhor casa ao norte de San Fran. Mas
+ lembre-se, muito dinheiro não é bom para essa garota. O que você precisa?}

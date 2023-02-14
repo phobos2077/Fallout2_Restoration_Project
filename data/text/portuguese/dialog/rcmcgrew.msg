@@ -43,57 +43,57 @@
  bowing and scraping to those bigots isn't my idea of any kind of life.}
 {132}{}{How's New Reno any different?}
 {133}{}{Thanks for clueing me in to what's going on here. Goodbye.}
-{134}{}{New Reno's strong enough to protect Redding from the other two. Since New Reno's divvied up
- amongst different gang-families, it's divided enough to give us our best chance for autonomy. In New
- Reno, they don't care how we run things - as long as they get their gold.}
-{135}{}{That doesn't sound so great, either.}
-{136}{}{Bummer. Later.}
-{137}{}{This ain't a perfect world, chum. Sometimes you've got to make the best of a bad situation. Just
- turns out that bad people may be best bet for Redding. Not everyone sees it that way, though.}
-{138}{}{So what do you think is going to happen?}
-{139}{}{Opinions are like assholes, Dan - everyone's got 'em and they all stink. Goodbye.}
-{140}{}{Not everyone sees it your way, huh? I can't imagine that. Goodbye, Dan.}
-{141}{}{Don't know for sure, but things are heating up. Whatever city has the strongest backers here in
- Redding is gonna get the whole pie. I'm just doing my damnedest to make sure it's New Reno that wins.
- The way I see it, that's Redding's only chance.}
-{142}{}{How can you help New Reno to take over?}
-{143}{}{Somebody wins, somebody loses. Bye, Dan.}
-{144}{}{Best thing to do is just to make my mine prosper and make sure my miners know who's paying the
- bills. The fact that they get all their happy-sauce from New Reno makes the place a lot more popular,
- too.}
-{145}{}{Happy sauce?}
-{146}{}{Everybody needs a little sunshine in their lives from time to time. Goodbye, Dan.}
-{147}{}{Booze, drugs, all sorts of chemical recreation. You name it and New Reno supplies it. It's just
- about the only thing that some of my miners work for. Be hell to pay if something ever happened to
- that.}
-{148}{}{How's your Jet supply lately?}
-{149}{}{I bet. Let me ask you about something else.}
-{150}{}{Thanks for the information. I'll see you around, Dan. Goodbye.}
-{151}{}{Right now we don't get hardly enough Jet in town to keep everyone happy. I sure hope those next
- few caravans get through all right.}
-{152}{}{Interesting. Let me ask you about something else, Dan.}
-{153}{}{I better be rambling, Dan. Goodbye.}
-{154}{}{Everyone's just about rolling in Jet lately. Seems as though most fellers just can't get enough
- of it. Makes for happy workers, though, so I can't complain. Lined up two deep in front of Doc
- Johnson's, they are. If there was much more, though, I'd start to worry.}
+{134}{}{New Reno é forte o suficiente para proteger Redding dos outros dois. Já que New Reno está dividida
+ entre diferentes famílias de gangues, é dividida o suficiente para nos dar nossa melhor chance de
+ autonomia. Em New Reno, eles não se importam como administramos as coisas, contanto que consigam seu ouro.}
+{135}{}{Isso também não parece muito bom.}
+{136}{}{Que merda hein. Até depois.}
+{137}{}{Este não é um mundo perfeito, amigo. Às vezes você precisa tirar o melhor proveito de uma situação
+ ruim. E acontece que pessoas más podem ser a melhor aposta para Redding. Mas nem todo mundo vê dessa forma.}
+{138}{}{Então, o que você acha que vai acontecer?}
+{139}{}{Opiniões são como bunda, Dan... todo mundo tem a sua e todas fedem. Adeus.}
+{140}{}{Nem todo mundo vê do seu jeito, né? Eu nem imagino porquê. Adeus, Dan.}
+{141}{}{Não sei ao certo, mas as coisas estão esquentando. Qualquer que seja a cidade que tenha mais
+ popularidade aqui em Redding, vai ficar com o bolo inteiro. Estou apenas fazendo o possível para garantir
+ que New Reno vença. A meu ver, essa é a única chance de Redding.}
+{142}{}{Como você pode ajudar New Reno a assumir o controle?}
+{143}{}{Alguém ganha, alguém perde. Tchau, Dan.}
+{144}{}{A melhor coisa a fazer é apenas fazer minha mina prosperar e garantir que meus mineiros saibam
+ quem está pagando as contas. Além disso, o fato de receberem o molho feliz de New Reno deixa o
+ lugar muito mais popular.}
+{145}{}{Molho feliz?}
+{146}{}{Todo mundo precisa de um pouco de alegria em suas vidas de vez em quando. Adeus, Dan.}
+{147}{}{Bebidas, drogas, todo tipo de divertimento químico. Você escolhe e New Reno fornece. É
+ praticamente a única coisa que alguns dos meus mineiros trabalham. Seria um inferno pagar se algo
+ acontecesse com isso.}
+{148}{}{Como está o abastecimento de Jet ultimamente?}
+{149}{}{Aposto que sim. Deixe eu te perguntar outra coisa.}
+{150}{}{Obrigado pela informação. Vejo você por aí, Dan. Adeus.}
+{151}{}{No momento, quase não temos jet suficiente na cidade para deixar todos alegres. Espero que as
+ próximas caravanas venham com eles.}
+{152}{}{Interessante. Deixe eu te perguntar sobre outra coisa, Dan.}
+{153}{}{É melhor eu ir andando, Dan. Até mais.}
+{154}{}{Todo mundo está se enfiando no jet ultimamente. Parece que a maioria dos caras não conseguem
+ se cansar disso. Isso os deixa felizes no trabalho, então não posso reclamar. Fazem fila na frente
+ do Dr. Johnson. Se aumentassem mais a dose, eu começaria a me preocupar.}
 {155}{}{Quem é o Dr. Johnson?}
-{156}{}{Interesting. Let me ask you about something else, Dan.}
-{157}{}{I better be moseying, Dan. Goodbye.}
-{158}{}{Damn; there's just too much Jet in this town. We're drowning in the stuff. Nobody wants to work;
- they just want to get high. I can't make my ore quotas with half my damn miners flying high on Jet.
- Goddamn that Doc Johnson.}
+{156}{}{Interessante. Deixe eu te perguntar sobre outra coisa, Dan.}
+{157}{}{É melhor eu ir andando, Dan. Adeus.}
+{158}{}{Droga; tem muito Jet nesta cidade, estamos nos afogando nessa coisa. Ninguém quer trabalhar;
+ eles só querem ficar chapados. Não posso fazer minhas cotas de minério com metade das merdas dos
+ mineiros se chapando totalmente em jet. Maldito seja o Doutor Johnson.}
 {159}{}{Quem é o Dr. Johnson?}
-{160}{}{Sounds like a problem. Let me ask you about something else, Dan.}
-{161}{}{I better be traveling, Dan. Goodbye.}
-{162}{}{Most of the miners that were real Jet Jockeys have crashed hard. That last batch that Doc
- Johnson sold must have been real bad, somehow.}
+{160}{}{Parece um problema. Deixe eu te perguntar sobre outra coisa, Dan.}
+{161}{}{É melhor eu ir andando, Dan. Adeus.}
+{162}{}{A maioria dos mineiros que estavam enfiados no jet. O último lote que o Dr. Johnson vendeu
+ deve ter sido muito ruim, de alguma forma.}
 {163}{}{Quem é o Dr. Johnson?}
-{164}{}{Interesting. Let me ask you about something else, Dan.}
-{165}{}{I better be hiking on, Dan. Goodbye.}
+{164}{}{Interessante. Deixe eu te perguntar sobre outra coisa, Dan.}
+{165}{}{É melhor eu ir andando, Dan. Adeus.}
 {166}{}{I don't know what happened, but most of the Jet Jocks got real sick on that last batch - and
  now they can't go near Jet without getting sick. Doc Johnson's looking into it, I heard.}
 {167}{}{Quem é o Dr. Johnson?}
-{168}{}{Interesting. Let me ask you about something else, Dan.}
+{168}{}{Interessante. Deixe eu te perguntar sobre outra coisa, Dan.}
 {169}{}{I better be Trekking, Dan. Goodbye.}
 {170}{}{Cause I'm nothing but the biggest, toughest, mine-crawling, gullywumpin', snake-eatin' buck
  in these here parts. *Dangerous* Dan McGrew; that's me, all right.}
@@ -155,7 +155,7 @@
 {215}{}{I'm glad that I was there to do what needed to be done to that worm. Goodbye.}
 {216}{}{You know what's going on with that Excavator Chip. I want it, and I bet you're smart enough to
  realize that Marge LeBarge wants it, too. But it'd be best all the way around if you sell it to me.}
-{217}{}{How much is it worth to you?}
+{217}{}{Quanto vale para você?}
 {218}{}{Why's it better for me to sell it to you than her?}
 {219}{}{I'll think about it. Let me ask you about something else going on in town.}
 {220}{}{We'll just have to see about that. Goodbye.}

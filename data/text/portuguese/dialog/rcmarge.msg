@@ -1,32 +1,32 @@
-{100}{}{You see a burly, middle-aged woman covered with rock-dust.}
-{101}{}{You see Marge LeBarge, owner of the Kokoweef Mine.}
-{102}{}{You see a strong, durable woman with an air of authority.}
-{103}{}{Sorry, I don't have time for charity cases right now.}
-{104}{}{Come back when that head-wound heals up.}
-{105}{}{I'm surprised that you can walk and talk at the same time.}
-{106}{}{Looks like your belt doesn't go through all the loops.}
-{107}{}{You're just a few clowns short of a circus, aren't you?}
-{108}{}{You aren't exactly my favorite person right now.}
-{109}{}{Hey, thanks for getting me that excavator chip. Things are really going smooth for the Kokoweef
- Mine now.}
-{110}{}{I'll give you $1,000 for that excavator chip.}
-{111}{}{Have any luck getting that excavator chip?}
-{112}{}{Yeah, well, sorry about that. But you can't please all of the people all of the time.}
-{113}{}{Always happy to get a job that pays that well. Let me ask you about something else.}
-{114}{}{How'd you know that I had the excavator chip on me?}
-{115}{}{How much is it worth to you?}
-{116}{}{If I had it, you'd be among the first to know.}
-{117}{}{I think I'll be moving on now. Goodbye.}
-{118}{}{Hey, thanks for breaking up that brawl. Sometimes my miners get a little out of line, but they're
- a good sort when they're not all Jetted up.}
-{119}{}{Thanks for putting those Morningstar troublemakers behind bars. That's where they belong. How
- can I help you?}
-{120}{}{I can't believe you'd put any of my boys in jail. I'm sure that those damn Morningstar thugs
- started that fight. Now what do you want?}
-{121}{}{I sure wish you hadn't jailed my miners like that. Just jailing those Morningstar hooligans
- would have kept the peace in town. What do you want?}
-{122}{}{You sure know how to spank a baby with an axe, don't you? Nobody needed to die over a bar-brawl.
- Just what the hell do you want from me, anyway?}
+{100}{}{Você vê uma mulher corpulenta de meia-idade coberta de poeira de pedras.}
+{101}{}{Você vê Marge LeBarge, proprietária da Mina Kokoweef.}
+{102}{}{Você vê uma mulher forte e com um ar de autoridade.}
+{103}{}{Desculpe, não tenho tempo para casos de caridade agora.}
+{104}{}{Volte quando o ferimento na cabeça sarar.}
+{105}{}{Estou surpreso que você possa andar e falar ao mesmo tempo.}
+{106}{}{Parece que seu cinto não consegue dar uma volta inteira.}
+{107}{}{Vocês são apenas alguns palhaços que escaparam de um circo, certo?}
+{108}{}{Você não é exatamente minha pessoa favorita agora.}
+{109}{}{Ei, obrigado por me dar aquele chip de escavadeira. As coisas estão indo muito bem com a Mina
+ Kokoweef agora.}
+{110}{}{Te dou $1.000 pelo chip da escavadora.}
+{111}{}{Teve alguma sorte com aquele chip de escavadeira?}
+{112}{}{Sim, bem, desculpe por isso. Mas você não pode agradar todas as pessoas ao tempo todo.}
+{113}{}{Sempre satisfeito em conseguir um emprego que paga tão bem. Deixe eu te perguntar sobre outra coisa.}
+{114}{}{Como você sabia que eu tinha o chip da escavadeira comigo?}
+{115}{}{Quanto vale para você?}
+{116}{}{Se eu tivesse, você seria uns dos primeiros a saber.}
+{117}{}{Acho que vou seguir em frente agora. Adeus.}
+{118}{}{Ei, obrigado por acabar com aquela briga. Às vezes, meus mineradores são meio fora do cabo,
+ mas eles são boa gente quando não estão com jet na cabeça.}
+{119}{}{Obrigado por colocar aqueles encrenqueiros da Morningstar atrás das grades, é lá que eles pertencem.
+ Como posso te ajudar?}
+{120}{}{Não acredito que você colocou algum dos meus meninos na cadeia. Tenho certeza de que
+ aqueles malditos capangas da Morningstar começaram a luta. O que você quer agora?}
+{121}{}{Eu gostaria que você não tivesse prendido meus mineiros assim. Só de prender aqueles
+ retardados Morningstar ja manteria a paz na cidade. O que você quer?}
+{122}{}{Você é muito bom em apagar um incêndio com gasolina, não é? Ninguém precisava morrer por causa
+ de uma briga de bar. E agora, o que você quer de mim?}
 {123}{}{Quem é você?}
 {124}{}{I wanted to ask you about something.}
 {125}{}{I was just walking past. I think I'll keep walking. Goodbye.}
