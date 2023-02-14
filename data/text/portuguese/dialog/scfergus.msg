@@ -56,5 +56,5 @@
 {155}{}{What a rel-I mean, I'm glad it's all over. Go right on in.}
 {500}{}{Excuse me, but you cannot enter there without permission.}
 {501}{}{I have to ask you to stop tampering with that.}
-{502}{}{This is your last warning - leave or be dealt with.}
-{503}{}{Security, please remove our "guest".}
+{502}{}{Este é o seu último aviso... saia ou sofra as consequencias.}
+{503}{}{Segurança, por favor, remova nosso "convidado".}

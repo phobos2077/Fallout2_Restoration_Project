@@ -38,13 +38,13 @@
 {301}{}{Centro da Cidade}
 {302}{}{Biblioteca}
 {303}{}{Fortaleza}
-{304}{}{Warehouse}
+{304}{}{Armazem}
 {310}{}{Entrada}
 {311}{}{Interior}
-{500}{}{You gained 10,000 experience points!}
+{500}{}{Você ganhou 10.000 pontos de experiência!}
 {501}{}{Ruínas}
 {1000}{}{Deserto}
 {1001}{}{Montanhas}
 {1002}{}{Cidade}
 {1003}{}{Costa}
-{1004}{}{Unknown}
+{1004}{}{Desconhecido}

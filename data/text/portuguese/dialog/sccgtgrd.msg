@@ -1,9 +1,9 @@
 {100}{}{Só outro guarda. Alguém deve estar clonando, todos parecem iguais.}
 {101}{}{Só mais outro guarda. Provavelmente não gosta de você.}
-{102}{}{You look at him closely and you're convinced he's a guard.}
-{103}{}{You're not authorized to be here.}
-{104}{}{Can I see your pass?}
-{105}{}{This is government property. Move on, stranger.}
+{102}{}{Você olha para ele de perto e está convencido de que ele é um guarda.}
+{103}{}{Você não está autorizado a estar aqui.}
+{104}{}{Posso ver seu passe?}
+{105}{}{Isso é propriedade do governo. Siga em frente, estranho.}
 {106}{}{You're the one Merk talked about? Okay, let him through, boys.}
 {107}{}{This checks out. Stand aside, boys.}
 {108}{}{Okay, you're clear. Open the gate, boys.}

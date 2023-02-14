@@ -8,7 +8,7 @@
 {107}{}{Well, my name's Duppo. Ranch supplies and hiring hall, all done right here. Gotta say, you don't look like a brahmin puncher. How are you with a gun?}
 {108}{}{Still looking for some guards, if you're interested.}
 {109}{}{Heh. Kill.}
-{110}{}{Good enough.}
+{110}{}{Muito bem.}
 {111}{}{I'm not into violence.}
 {112}{}{Well, here's my stock. Make sure to look at all my tables for more inventories. If you don't like what I got, get your ass to that shyster Buster. Of course, he'll rob you blind.}
 {113}{}{Well, sounds like you'll do. We're looking for guards for a brahmin drive up to Redding. Pay's $2000 minus any stock lost before you get there. If you're interested, be at the gate to Westin's place tomorrow. If you don't show, you don't go. Deal?}

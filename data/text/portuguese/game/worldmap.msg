@@ -84,22 +84,22 @@
 {380}{}{Bosque}
 {381}{}{Tribo}
 {390}{}{Entrada}
-{391}{}{Ducts}
-{392}{}{Utilities}
+{391}{}{Dutos}
+{392}{}{Utilidades}
 {393}{}{Nivel Um}
 {394}{}{Nivel Dois}
 {395}{}{Nivel Tres}
-{396}{}{Warehouse}
-{400}{}{The Ghost Town}
-{401}{}{Main Cavern}
+{396}{}{Armazem}
+{400}{}{A Cidade Fantasma}
+{401}{}{Caverna Principal}
 {402}{}{Lago subterraneo}
-{410}{}{Car outta power}
+{410}{}{Carro sem combustivel}
 {420}{}{Ponte destruída}
 {430}{}{Cavernas Tóxicas}
 {440}{}{A Invasão de Escravos de Den}
 {450}{}{Poço}
-{451}{}{Cliff}
-{452}{}{Entry Cave}
+{451}{}{Precipicio}
+{452}{}{Entrada da Caverna}
 {460}{}{Deserto}
 {461}{}{Deserto}
 {462}{}{Deserto}
@@ -139,10 +139,10 @@
 {498}{}{Litoral}
 {499}{}{Litoral}
 {500}{}{Golgota}
-{510}{}{Smashed Whale Guts}
+{510}{}{Tripas esmagadas de baleia}
 {520}{}{Homem de Lata}
 {521}{}{Cabeça Grande}
-{530}{}{Crash Site}
+{530}{}{Local do acidente}
 {540}{}{Deserto}
 {550}{}{Ponte}
 {560}{}{Café dos Sonhos Desfeitos}
@@ -151,10 +151,10 @@
 {590}{}{Guardião para Sempre}
 {600}{}{Deposito de lixo tóxico}
 {610}{}{Deserto}
-{620}{}{Herd of Brahmin}
+{620}{}{Rebanho de brahmins}
 {630}{}{Deserto}
 {631}{}{Montanha}
-{640}{}{Vault 13 Cavern}
+{640}{}{Caverna da Vault 13}
 {650}{}{Caverna}
 {660}{}{Litoral}
 {661}{}{Litoral}
@@ -174,34 +174,34 @@
 {1001}{}{Montanhas}
 {1002}{}{Cidade}
 {1003}{}{Costa}
-{1004}{}{Unknown}
-{1500}{}{You gained 10,000 experience points!}
+{1004}{}{Desconhecido}
+{1500}{}{Você ganhou 10.000 pontos de experiência!}
 {1501}{}{Ruínas}
-{1502}{}{The car is out of power.}
-{1503}{}{This is a car. It doesn't look like it's running.}
-{2998}{}{You encounter:}
-{2999}{}{Do you wish to encounter:}
-{3000}{}{A party of raiders.}
-{3001}{}{Some radscorpions.}
-{3002}{}{Giant rats.}
-{3003}{}{A merchant party.}
-{3004}{}{<Special>}
-{3050}{}{A party of raiders.}
-{3051}{}{Some manti.}
+{1502}{}{O carro está sem energia.}
+{1503}{}{Este é um carro. Não parece que está rodando.}
+{2998}{}{Você encontra:}
+{2999}{}{Você deseja encontrar:}
+{3000}{}{Um grupo de saqueadores.}
+{3001}{}{Alguns radscorpions.}
+{3002}{}{Ratos gigantes.}
+{3003}{}{Um grupo de comerciantes.}
+{3004}{}{<Especial>}
+{3050}{}{Um grupo de saqueadores.}
+{3051}{}{Alguns louva a Deus.}
 {3052}{}{Um grupo de geckos.}
 {3053}{}{Um grupo de ratos toupeira.}
 {3054}{}{Um grupo de radscorpions.}
 {3055}{}{Um grupo de ratos gigantes.}
-{3056}{}{A merchant party.}
-{3057}{}{<Special>}
-{3100}{}{A party of raiders.}
+{3056}{}{Um grupo de comerciantes.}
+{3057}{}{<Especial>}
+{3100}{}{Um grupo de saqueadores.}
 {3101}{}{Um grupo de radscorpions.}
 {3102}{}{Um grupo de ratos gigantes.}
-{3103}{}{A merchant party.}
-{3104}{}{<Special>}
-{3150}{}{A party of raiders.}
-{3200}{}{A party of raiders.}
-{3250}{}{A party of raiders.}
+{3103}{}{Um grupo de comerciantes.}
+{3104}{}{<Especial>}
+{3150}{}{Um grupo de saqueadores.}
+{3200}{}{Um grupo de saqueadores.}
+{3250}{}{Um grupo de saqueadores.}
 {3300}{}{Um grupo de guerra.}
 {3301}{}{Um grupo de canibais.}
 {3302}{}{Um grupo de plantes esporo e alguns geckos prateados.}
@@ -228,11 +228,11 @@
 {3323}{}{Um grupo de caçadores.}
 {3324}{}{Um grupo de nômades.}
 {3325}{}{Um homem guardando uma ponte.}
-{3326}{}{King Arthur's Knights fighting a rat.}
-{3327}{}{A band of angry outcasts.}
-{3350}{}{Toxic waste dump.}
-{3351}{}{A lone surviving dog.}
-{3352}{}{A herd of brahmin.}
+{3326}{}{Os Cavaleiros do Rei Arthur lutando contra um rato.}
+{3327}{}{Um bando de foras da lei furiosos.}
+{3350}{}{Depósito de lixo tóxico.}
+{3351}{}{Um solitário cachorro sobrevivente.}
+{3352}{}{Um rebanho de brahmins.}
 {3353}{}{Um grupo de guerra.}
 {3354}{}{Um grupo de caçadores de recompensa.}
 {3355}{}{Um grupo de caçadores de recompensa.}
@@ -258,14 +258,14 @@
 {3375}{}{Um pequeno grupo de formigas.}
 {3376}{}{Um grupo de caçadores.}
 {3377}{}{Um grupo de nômades.}
-{3378}{}{The remains of a whale.}
-{3379}{}{A giant stone head.}
-{3380}{}{A crashed shuttle.}
-{3381}{}{A Guardian Portal.}
-{3382}{}{King Arthur's Knights.}
-{3383}{}{A tin woodsman.}
-{3384}{}{The Unwashed Villagers hunting a spammer.}
-{3385}{}{A band of angry outcasts.}
+{3378}{}{Os restos de uma baleia.}
+{3379}{}{Uma cabeça gigante de pedra.}
+{3380}{}{Uma nave acidentada.}
+{3381}{}{O Guardião do Portal.}
+{3382}{}{Cavaleiros do Rei Arthur.}
+{3383}{}{Um lenhador de lata.}
+{3384}{}{Aldeões cobertos de terra caçando carne.}
+{3385}{}{Um bando de foras da lei furiosos.}
 {3400}{}{Um grupo de guerra.}
 {3401}{}{Um grupo de canibais.}
 {3402}{}{Um grupo de plantes esporo e alguns geckos prateados.}
@@ -291,10 +291,10 @@
 {3422}{}{Um pequeno grupo de formigas.}
 {3423}{}{Um grupo de caçadores.}
 {3424}{}{Um grupo de nômades.}
-{3425}{}{A band of angry outcasts.}
-{3450}{}{Toxic waste dump.}
-{3451}{}{A lone surviving dog.}
-{3452}{}{A herd of brahmin.}
+{3425}{}{Um bando de foras da lei furiosos.}
+{3450}{}{Depósito de lixo tóxico.}
+{3451}{}{Um solitário cachorro sobrevivente.}
+{3452}{}{Um rebanho de brahmins.}
 {3453}{}{A band of outcasts.}
 {3454}{}{Um grupo de caçadores de recompensa.}
 {3455}{}{Um grupo de caçadores de recompensa.}
@@ -314,14 +314,14 @@
 {3469}{}{Um grupo de ratos toupeira.}
 {3470}{}{A group of holy people staving off a war party.}
 {3471}{}{A band of nomads.}
-{3472}{}{The remains of a whale.}
-{3473}{}{A giant stone head.}
-{3474}{}{A crashed shuttle.}
-{3475}{}{A Guardian Portal.}
-{3476}{}{King Arthur's Knights.}
-{3477}{}{A tin woodsman.}
-{3478}{}{The Unwashed Villagers hunting a spammer.}
-{3479}{}{A band of angry outcasts.}
+{3472}{}{Os restos de uma baleia.}
+{3473}{}{Uma cabeça gigante de pedra.}
+{3474}{}{Uma nave acidentada.}
+{3475}{}{O Guardião do Portal.}
+{3476}{}{Cavaleiros do Rei Arthur.}
+{3477}{}{Um lenhador de lata.}
+{3478}{}{Aldeões cobertos de terra caçando carne.}
+{3479}{}{Um bando de foras da lei furiosos.}
 {3500}{}{A band of outcasts.}
 {3501}{}{A group of holy people.}
 {3502}{}{Um grupo de caçadores de recompensa.}
@@ -342,11 +342,11 @@
 {3517}{}{A group of holy people staving off a war party.}
 {3518}{}{A band of nomads.}
 {3519}{}{Um homem guardando uma ponte.}
-{3520}{}{King Arthur's Knights fighting a rat.}
-{3521}{}{A band of angry outcasts.}
+{3520}{}{Os Cavaleiros do Rei Arthur lutando contra um rato.}
+{3521}{}{Um bando de foras da lei furiosos.}
 {3550}{}{Toxic waste dump}
-{3551}{}{A lone surviving dog.}
-{3552}{}{A herd of brahmin.}
+{3551}{}{Um solitário cachorro sobrevivente.}
+{3552}{}{Um rebanho de brahmins.}
 {3553}{}{A pack of golden geckos and a family of radscorpions.}
 {3554}{}{Some bandits.}
 {3555}{}{A group of homeless people.}
@@ -377,13 +377,13 @@
 {3580}{}{Some farmers rooting out an infestation of pig rats.}
 {3581}{}{Some farmers.}
 {3582}{}{A group of trappers.}
-{3583}{}{The remains of a whale.}
-{3584}{}{A giant stone head.}
-{3585}{}{A crashed shuttle.}
-{3586}{}{A Guardian Portal.}
-{3587}{}{King Arthur's Knights.}
+{3583}{}{Os restos de uma baleia.}
+{3584}{}{Uma cabeça gigante de pedra.}
+{3585}{}{Uma nave acidentada.}
+{3586}{}{O Guardião do Portal.}
+{3587}{}{Cavaleiros do Rei Arthur.}
 {3588}{}{A tin woodsman}
-{3589}{}{The Unwashed Villagers hunting a spammer.}
+{3589}{}{Aldeões cobertos de terra caçando carne.}
 {3600}{}{A pack of golden geckos and a family of radscorpions.}
 {3601}{}{Some bandits.}
 {3602}{}{A group of homeless people.}
@@ -415,11 +415,11 @@
 {3628}{}{Some farmers.}
 {3629}{}{A group of trappers.}
 {3630}{}{Um homem guardando uma ponte.}
-{3631}{}{King Arthur's Knights fighting a rat.}
-{3632}{}{A band of angry outcasts.}
-{3650}{}{Toxic waste dump.}
-{3651}{}{A lone surviving dog.}
-{3652}{}{A herd of brahmin.}
+{3631}{}{Os Cavaleiros do Rei Arthur lutando contra um rato.}
+{3632}{}{Um bando de foras da lei furiosos.}
+{3650}{}{Depósito de lixo tóxico.}
+{3651}{}{Um solitário cachorro sobrevivente.}
+{3652}{}{Um rebanho de brahmins.}
 {3653}{}{A merchant and some guards.}
 {3654}{}{Um grupo de caçadores de recompensa.}
 {3655}{}{Um grupo de caçadores de recompensa.}
@@ -445,17 +445,17 @@
 {3675}{}{Some golden geckos.}
 {3676}{}{Some trappers fighting some molerats and pig rats.}
 {3677}{}{A merchant party fending off some molerats and pig rats.}
-{3678}{}{The remains of a whale.}
-{3679}{}{A giant stone head.}
-{3680}{}{A crashed shuttle.}
-{3681}{}{A Guardian Portal.}
-{3682}{}{King Arthur's Knights.}
-{3683}{}{A tin woodsman.}
-{3684}{}{The Unwashed Villagers hunting a spammer.}
-{3685}{}{A band of angry outcasts.}
-{3700}{}{Toxic waste dump.}
-{3701}{}{A lone surviving dog.}
-{3702}{}{A herd of brahmin.}
+{3678}{}{Os restos de uma baleia.}
+{3679}{}{Uma cabeça gigante de pedra.}
+{3680}{}{Uma nave acidentada.}
+{3681}{}{O Guardião do Portal.}
+{3682}{}{Cavaleiros do Rei Arthur.}
+{3683}{}{Um lenhador de lata.}
+{3684}{}{Aldeões cobertos de terra caçando carne.}
+{3685}{}{Um bando de foras da lei furiosos.}
+{3700}{}{Depósito de lixo tóxico.}
+{3701}{}{Um solitário cachorro sobrevivente.}
+{3702}{}{Um rebanho de brahmins.}
 {3703}{}{A band of highwaymen.}
 {3704}{}{Um grupo de caçadores de recompensa.}
 {3705}{}{Um grupo de caçadores de recompensa.}
@@ -479,13 +479,13 @@
 {3723}{}{Um grupo de mercadores se defendendo de alguns radscorpions.}
 {3724}{}{Um grupo de geckos dourados lutando contra alguns radscorpions.}
 {3725}{}{Um comerciante com alguns guardas.}
-{3726}{}{The remains of a whale.}
-{3727}{}{A giant stone head.}
-{3728}{}{A crashed shuttle.}
-{3729}{}{A Guardian Portal.}
-{3730}{}{King Arthur's Knights.}
-{3731}{}{A tin woodsman.}
-{3732}{}{The Unwashed Villagers hunting a spammer.}
+{3726}{}{Os restos de uma baleia.}
+{3727}{}{Uma cabeça gigante de pedra.}
+{3728}{}{Uma nave acidentada.}
+{3729}{}{O Guardião do Portal.}
+{3730}{}{Cavaleiros do Rei Arthur.}
+{3731}{}{Um lenhador de lata.}
+{3732}{}{Aldeões cobertos de terra caçando carne.}
 {3750}{}{A band of highwaymen.}
 {3751}{}{A band of robbers.}
 {3752}{}{A band of robbers and highwaymen.}
@@ -510,10 +510,10 @@
 {3771}{}{Um grupo de geckos dourados lutando contra alguns radscorpions.}
 {3772}{}{Um comerciante com alguns guardas.}
 {3773}{}{Um homem guardando uma ponte.}
-{3774}{}{King Arthur's Knights fighting a rat.}
-{3800}{}{Toxic waste dump.}
-{3801}{}{A lone surviving dog.}
-{3802}{}{A herd of brahmin.}
+{3774}{}{Os Cavaleiros do Rei Arthur lutando contra um rato.}
+{3800}{}{Depósito de lixo tóxico.}
+{3801}{}{Um solitário cachorro sobrevivente.}
+{3802}{}{Um rebanho de brahmins.}
 {3803}{}{Um grupo de escravistas e escravos.}
 {3804}{}{Um grupo de caçadores de recompensa.}
 {3805}{}{Um grupo de caçadores de recompensa.}
@@ -536,13 +536,13 @@
 {3822}{}{Um grupo de escravistas e escravos se defendendo de alguns geckos dourados.}
 {3823}{}{Alguns radscorpions invadindo uma festa Rave.}
 {3824}{}{Uma festa Rave.}
-{3825}{}{The remains of a whale.}
-{3826}{}{A giant stone head.}
-{3827}{}{A crashed shuttle.}
-{3828}{}{A Guardian Portal.}
-{3829}{}{King Arthur's Knights.}
-{3830}{}{A tin woodsman.}
-{3831}{}{The Unwashed Villagers hunting a spammer.}
+{3825}{}{Os restos de uma baleia.}
+{3826}{}{Uma cabeça gigante de pedra.}
+{3827}{}{Uma nave acidentada.}
+{3828}{}{O Guardião do Portal.}
+{3829}{}{Cavaleiros do Rei Arthur.}
+{3830}{}{Um lenhador de lata.}
+{3831}{}{Aldeões cobertos de terra caçando carne.}
 {3850}{}{Um grupo de escravistas e escravos.}
 {3851}{}{Um grupo de salteadores.}
 {3852}{}{A band of robbers.}
@@ -564,7 +564,7 @@
 {3868}{}{Um grupo de escravistas e escravos se defendendo de alguns ladrões.}
 {3869}{}{Um grupo de escravistas e escravos se defendendo de alguns geckos dourados.}
 {3870}{}{Um homem guardando uma ponte.}
-{3871}{}{King Arthur's Knights fighting a rat.}
+{3871}{}{Os Cavaleiros do Rei Arthur lutando contra um rato.}
 {3900}{}{Alguns salteadores e assaltantes.}
 {3901}{}{Alguns salteadores.}
 {3902}{}{Um grande grupo de geckos dourados.}
@@ -583,9 +583,9 @@
 {3915}{}{Um grupo de mercadores atacado por salteadores.}
 {3916}{}{Um grupo de mercadores emboscado por ladrões.}
 {3917}{}{Alguns salteadores atacados por algumas plantas de esporos.}
-{3918}{}{A merchant party.}
+{3918}{}{Um grupo de comerciantes.}
 {3919}{}{Um homem guardando uma ponte.}
-{3920}{}{King Arthur's Knights fighting a rat.}
+{3920}{}{Os Cavaleiros do Rei Arthur lutando contra um rato.}
 {3921}{}{Alguns bandidos furiosos.}
 {3950}{}{Alguns salteadores.}
 {3951}{}{Alguns ladrões.}
@@ -601,7 +601,7 @@
 {3961}{}{Um grupo de caçadores de recompensa.}
 {3962}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
 {3963}{}{Alguns brahmins selvagens.}
-{3964}{}{Some radscorpions.}
+{3964}{}{Alguns radscorpions.}
 {3965}{}{Alguns destiladores atacados por alguns bandidos.}
 {3966}{}{Alguns bandidos atacando alguns mendigos.}
 {3967}{}{Alguns destiladores e fazendeiros.}
@@ -611,9 +611,9 @@
 {3971}{}{Some mantis attacking some molerats.}
 {3972}{}{Some moonshiners.}
 {3973}{}{Some farmers.}
-{3974}{}{A herd of brahmin.}
+{3974}{}{Um rebanho de brahmins.}
 {3975}{}{Um homem guardando uma ponte.}
-{3976}{}{King Arthur's Knights fighting a rat.}
+{3976}{}{Os Cavaleiros do Rei Arthur lutando contra um rato.}
 {3977}{}{Alguns bandidos furiosos.}
 {4000}{}{Some highwaymen tracking with wild dogs.}
 {4001}{}{Some robbers searching with wild dogs.}
@@ -638,10 +638,10 @@
 {4020}{}{A caravan ambushed by highwaymen.}
 {4021}{}{A caravan.}
 {4022}{}{Um homem guardando uma ponte.}
-{4023}{}{King Arthur's Knights fighting a rat.}
-{4050}{}{Toxic waste dump.}
-{4051}{}{A lone surviving dog.}
-{4052}{}{A herd of brahmin.}
+{4023}{}{Os Cavaleiros do Rei Arthur lutando contra um rato.}
+{4050}{}{Depósito de lixo tóxico.}
+{4051}{}{Um solitário cachorro sobrevivente.}
+{4052}{}{Um rebanho de brahmins.}
 {4053}{}{Some highwaymen tracking with wild dogs.}
 {4054}{}{Um grupo de caçadores de recompensa.}
 {4055}{}{Um grupo de caçadores de recompensa.}
@@ -664,16 +664,16 @@
 {4072}{}{A caravan ambushed by robbers.}
 {4073}{}{A caravan ambushed by highwaymen.}
 {4074}{}{A caravan.}
-{4075}{}{The remains of a whale.}
-{4076}{}{A giant stone head.}
-{4077}{}{A crashed shuttle.}
-{4078}{}{A Guardian Portal.}
-{4079}{}{King Arthur's Knights.}
-{4080}{}{A tin woodsman.}
-{4081}{}{The Unwashed Villagers hunting a spammer.}
+{4075}{}{Os restos de uma baleia.}
+{4076}{}{Uma cabeça gigante de pedra.}
+{4077}{}{Uma nave acidentada.}
+{4078}{}{O Guardião do Portal.}
+{4079}{}{Cavaleiros do Rei Arthur.}
+{4080}{}{Um lenhador de lata.}
+{4081}{}{Aldeões cobertos de terra caçando carne.}
 {4100}{}{Some golden geckos.}
 {4101}{}{A swarm of mantis.}
-{4102}{}{Some radscorpions.}
+{4102}{}{Alguns radscorpions.}
 {4103}{}{Alguns brahmins selvagens.}
 {4104}{}{Um grupo de caçadores de recompensa.}
 {4105}{}{Um grupo de caçadores de recompensa.}
@@ -691,11 +691,11 @@
 {4117}{}{Some radscorpions butchering some wild brahmin.}
 {4118}{}{A trader and guards.}
 {4119}{}{Um homem guardando uma ponte.}
-{4120}{}{King Arthur's Knights fighting a rat.}
+{4120}{}{Os Cavaleiros do Rei Arthur lutando contra um rato.}
 {4121}{}{Alguns bandidos furiosos.}
-{4150}{}{Toxic waste dump.}
-{4151}{}{A lone surviving dog.}
-{4152}{}{A herd of brahmin.}
+{4150}{}{Depósito de lixo tóxico.}
+{4151}{}{Um solitário cachorro sobrevivente.}
+{4152}{}{Um rebanho de brahmins.}
 {4153}{}{Some golden geckos.}
 {4154}{}{Um grupo de caçadores de recompensa.}
 {4155}{}{Um grupo de caçadores de recompensa.}
@@ -707,7 +707,7 @@
 {4161}{}{Um grupo de caçadores de recompensa.}
 {4162}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
 {4163}{}{A swarm of mantis.}
-{4164}{}{Some radscorpions.}
+{4164}{}{Alguns radscorpions.}
 {4165}{}{Alguns brahmins selvagens.}
 {4166}{}{A trader and guards fighting golden geckos.}
 {4167}{}{A swarm of mantis massacring a trading band.}
@@ -715,17 +715,17 @@
 {4169}{}{Some radscorpions feasting on mantis.}
 {4170}{}{Some radscorpions butchering some wild brahmin.}
 {4171}{}{A trader and guards.}
-{4172}{}{The remains of a whale.}
-{4173}{}{A giant stone head.}
-{4174}{}{A crashed shuttle.}
-{4175}{}{A Guardian Portal.}
-{4176}{}{King Arthur's Knights.}
-{4177}{}{A tin woodsman.}
-{4178}{}{The Unwashed Villagers hunting a spammer.}
+{4172}{}{Os restos de uma baleia.}
+{4173}{}{Uma cabeça gigante de pedra.}
+{4174}{}{Uma nave acidentada.}
+{4175}{}{O Guardião do Portal.}
+{4176}{}{Cavaleiros do Rei Arthur.}
+{4177}{}{Um lenhador de lata.}
+{4178}{}{Aldeões cobertos de terra caçando carne.}
 {4179}{}{Alguns bandidos furiosos.}
-{4200}{}{Toxic waste dump.}
-{4201}{}{A lone surviving dog.}
-{4202}{}{A herd of brahmin.}
+{4200}{}{Depósito de lixo tóxico.}
+{4201}{}{Um solitário cachorro sobrevivente.}
+{4202}{}{Um rebanho de brahmins.}
 {4203}{}{Some mutated molerats.}
 {4204}{}{Um grupo de caçadores de recompensa.}
 {4205}{}{Um grupo de caçadores de recompensa.}
@@ -746,13 +746,13 @@
 {4220}{}{Some mutated molerats fighting some spore plants.}
 {4221}{}{Some mutated pig rats fighting some wild dogs.}
 {4222}{}{A hermit.}
-{4223}{}{The remains of a whale.}
-{4224}{}{A giant stone head.}
-{4225}{}{A crashed shuttle.}
-{4226}{}{A Guardian Portal.}
-{4227}{}{King Arthur's Knights.}
-{4228}{}{A tin woodsman.}
-{4229}{}{The Unwashed Villagers hunting a spammer.}
+{4223}{}{Os restos de uma baleia.}
+{4224}{}{Uma cabeça gigante de pedra.}
+{4225}{}{Uma nave acidentada.}
+{4226}{}{O Guardião do Portal.}
+{4227}{}{Cavaleiros do Rei Arthur.}
+{4228}{}{Um lenhador de lata.}
+{4229}{}{Aldeões cobertos de terra caçando carne.}
 {4250}{}{Some mutated molerats.}
 {4251}{}{Some mutated pig rats.}
 {4252}{}{Some spore plants.}
@@ -774,7 +774,7 @@
 {4268}{}{Some mutated pig rats fighting some wild dogs.}
 {4269}{}{A hermit.}
 {4270}{}{Um homem guardando uma ponte.}
-{4271}{}{King Arthur's Knights fighting a rat.}
+{4271}{}{Os Cavaleiros do Rei Arthur lutando contra um rato.}
 {4300}{}{A band of slavers and some dogs.}
 {4301}{}{A band of slavers.}
 {4302}{}{Some golden geckos.}
@@ -795,10 +795,10 @@
 {4317}{}{A patrol unit fending off wild dogs.}
 {4318}{}{A patrol unit.}
 {4319}{}{Um homem guardando uma ponte.}
-{4320}{}{King Arthur's Knights fighting a rat.}
-{4350}{}{Toxic waste dump.}
-{4351}{}{A lone surviving dog.}
-{4352}{}{A herd of brahmin.}
+{4320}{}{Os Cavaleiros do Rei Arthur lutando contra um rato.}
+{4350}{}{Depósito de lixo tóxico.}
+{4351}{}{Um solitário cachorro sobrevivente.}
+{4352}{}{Um rebanho de brahmins.}
 {4353}{}{A band of slavers and some dogs.}
 {4354}{}{Um grupo de caçadores de recompensa.}
 {4355}{}{Um grupo de caçadores de recompensa.}
@@ -818,13 +818,13 @@
 {4369}{}{A patrol unit battling some golden geckos.}
 {4370}{}{A patrol unit fending off wild dogs.}
 {4371}{}{A patrol unit.}
-{4372}{}{The remains of a whale.}
-{4373}{}{A giant stone head.}
-{4374}{}{A crashed shuttle.}
-{4375}{}{A Guardian Portal.}
-{4376}{}{King Arthur's Knights.}
-{4377}{}{A tin woodsman.}
-{4378}{}{The Unwashed Villagers hunting a spammer.}
+{4372}{}{Os restos de uma baleia.}
+{4373}{}{Uma cabeça gigante de pedra.}
+{4374}{}{Uma nave acidentada.}
+{4375}{}{O Guardião do Portal.}
+{4376}{}{Cavaleiros do Rei Arthur.}
+{4377}{}{Um lenhador de lata.}
+{4378}{}{Aldeões cobertos de terra caçando carne.}
 {4400}{}{A slew of scavengers.}
 {4401}{}{Some ghoul scavengers.}
 {4402}{}{A bunch of crazies.}
@@ -848,10 +848,10 @@
 {4420}{}{Some geckos fighting some crazies.}
 {4421}{}{Some mutated rats infesting some ghoul scavengers.}
 {4422}{}{Um homem guardando uma ponte.}
-{4423}{}{King Arthur's Knights fighting a rat.}
-{4450}{}{Toxic waste dump.}
-{4451}{}{A lone surviving dog.}
-{4452}{}{A herd of brahmin.}
+{4423}{}{Os Cavaleiros do Rei Arthur lutando contra um rato.}
+{4450}{}{Depósito de lixo tóxico.}
+{4451}{}{Um solitário cachorro sobrevivente.}
+{4452}{}{Um rebanho de brahmins.}
 {4453}{}{A slew of scavengers.}
 {4454}{}{Um grupo de caçadores de recompensa.}
 {4455}{}{Um grupo de caçadores de recompensa.}
@@ -874,13 +874,13 @@
 {4472}{}{Some ghoul scavengers fending off some crazies}
 {4473}{}{Some geckos fighting some crazies.}
 {4474}{}{Some mutated rats infesting some ghoul scavengers.}
-{4475}{}{The remains of a whale.}
-{4476}{}{A giant stone head.}
-{4477}{}{A crashed shuttle.}
-{4478}{}{A Guardian Portal.}
-{4479}{}{King Arthur's Knights.}
-{4480}{}{A tin woodsman.}
-{4481}{}{The Unwashed Villagers hunting a spammer.}
+{4475}{}{Os restos de uma baleia.}
+{4476}{}{Uma cabeça gigante de pedra.}
+{4477}{}{Uma nave acidentada.}
+{4478}{}{O Guardião do Portal.}
+{4479}{}{Cavaleiros do Rei Arthur.}
+{4480}{}{Um lenhador de lata.}
+{4481}{}{Aldeões cobertos de terra caçando carne.}
 {4500}{}{Alguns canibais.}
 {4501}{}{Alguns selvagens.}
 {4502}{}{Um grupo de guerra.}
@@ -900,9 +900,9 @@
 {4516}{}{Alguns canibais lutando contra alguns selvagens.}
 {4517}{}{Alguns radscorpions atacando alguns selvagens.}
 {4518}{}{Alguns pescadores.}
-{4550}{}{Toxic waste dump.}
-{4551}{}{A lone surviving dog.}
-{4552}{}{A herd of brahmin.}
+{4550}{}{Depósito de lixo tóxico.}
+{4551}{}{Um solitário cachorro sobrevivente.}
+{4552}{}{Um rebanho de brahmins.}
 {4553}{}{Alguns canibais.}
 {4554}{}{Um grupo de caçadores de recompensa.}
 {4555}{}{Um grupo de caçadores de recompensa.}
@@ -920,19 +920,19 @@
 {4567}{}{Alguns geckos e alguns radscorpions.}
 {4568}{}{Some geckos.}
 {4569}{}{Alguns radscorpions escondidos em algumas plantas de esporos.}
-{4570}{}{Some radscorpions.}
+{4570}{}{Alguns radscorpions.}
 {4571}{}{Alguns geckos atacando alguns foras da lei.}
 {4572}{}{Alguns geckos lutando contra alguns selvagens.}
 {4573}{}{Alguns radscorpions lutando contra alguns canibais.}
 {4574}{}{Alguns radscorpions atacando um eremita.}
 {4575}{}{A hermit.}
-{4576}{}{The remains of a whale.}
-{4577}{}{A giant stone head.}
-{4578}{}{A crashed shuttle.}
-{4579}{}{A Guardian Portal.}
-{4580}{}{King Arthur's Knights.}
-{4581}{}{A tin woodsman.}
-{4582}{}{The Unwashed Villagers hunting a spammer.}
+{4576}{}{Os restos de uma baleia.}
+{4577}{}{Uma cabeça gigante de pedra.}
+{4578}{}{Uma nave acidentada.}
+{4579}{}{O Guardião do Portal.}
+{4580}{}{Cavaleiros do Rei Arthur.}
+{4581}{}{Um lenhador de lata.}
+{4582}{}{Aldeões cobertos de terra caçando carne.}
 {4600}{}{Alguns canibais.}
 {4601}{}{Alguns foras da lei.}
 {4602}{}{Alguns selvagens.}
@@ -950,17 +950,17 @@
 {4614}{}{Alguns geckos e alguns radscorpions.}
 {4615}{}{Some geckos.}
 {4616}{}{Alguns radscorpions escondidos em algumas plantas de esporos.}
-{4617}{}{Some radscorpions.}
+{4617}{}{Alguns radscorpions.}
 {4618}{}{Alguns geckos atacando alguns foras da lei.}
 {4619}{}{Alguns geckos lutando contra alguns selvagens.}
 {4620}{}{Alguns radscorpions lutando contra alguns canibais.}
 {4621}{}{Alguns radscorpions atacando um eremita.}
 {4622}{}{A hermit.}
 {4623}{}{Um homem guardando uma ponte.}
-{4624}{}{King Arthur's Knights fighting a rat.}
-{4650}{}{Toxic waste dump.}
-{4651}{}{A lone surviving dog.}
-{4652}{}{A herd of brahmin.}
+{4624}{}{Os Cavaleiros do Rei Arthur lutando contra um rato.}
+{4650}{}{Depósito de lixo tóxico.}
+{4651}{}{Um solitário cachorro sobrevivente.}
+{4652}{}{Um rebanho de brahmins.}
 {4653}{}{Uma caravana de Den.}
 {4654}{}{Um grupo de caçadores de recompensa.}
 {4655}{}{Um grupo de caçadores de recompensa.}
@@ -982,13 +982,13 @@
 {4671}{}{Alguns salteadores lutando contra alguns assaltantes.}
 {4672}{}{Uma caravana de Vault City.}
 {4673}{}{Uma caravana de Den.}
-{4674}{}{The remains of a whale.}
-{4675}{}{A giant stone head.}
-{4676}{}{A crashed shuttle.}
-{4677}{}{A Guardian Portal.}
-{4678}{}{King Arthur's Knights.}
-{4679}{}{A tin woodsman.}
-{4680}{}{The Unwashed Villagers hunting a spammer.}
+{4674}{}{Os restos de uma baleia.}
+{4675}{}{Uma cabeça gigante de pedra.}
+{4676}{}{Uma nave acidentada.}
+{4677}{}{O Guardião do Portal.}
+{4678}{}{Cavaleiros do Rei Arthur.}
+{4679}{}{Um lenhador de lata.}
+{4680}{}{Aldeões cobertos de terra caçando carne.}
 {4700}{}{Uma caravana de Den.}
 {4701}{}{Alguns salteadores e assaltantes.}
 {4702}{}{Alguns salteadores.}
@@ -1011,10 +1011,10 @@
 {4719}{}{Uma caravana de Vault City.}
 {4720}{}{Uma caravana de Den.}
 {4721}{}{Um homem guardando uma ponte.}
-{4722}{}{King Arthur's Knights fighting a rat.}
-{4750}{}{Toxic waste dump.}
-{4751}{}{A lone surviving dog.}
-{4752}{}{A herd of brahmin.}
+{4722}{}{Os Cavaleiros do Rei Arthur lutando contra um rato.}
+{4750}{}{Depósito de lixo tóxico.}
+{4751}{}{Um solitário cachorro sobrevivente.}
+{4752}{}{Um rebanho de brahmins.}
 {4753}{}{Alguns geckos e alguns lobos.}
 {4754}{}{Um grupo de caçadores de recompensa.}
 {4755}{}{Um grupo de caçadores de recompensa.}
@@ -1036,13 +1036,13 @@
 {4771}{}{Alguns contrabandistas.}
 {4772}{}{Some trappers.}
 {4773}{}{Alguns garimpeiros.}
-{4774}{}{The remains of a whale.}
-{4775}{}{A giant stone head.}
-{4776}{}{A crashed shuttle.}
-{4777}{}{A Guardian Portal.}
-{4778}{}{King Arthur's Knights.}
-{4779}{}{A tin woodsman.}
-{4780}{}{The Unwashed Villagers hunting a spammer.}
+{4774}{}{Os restos de uma baleia.}
+{4775}{}{Uma cabeça gigante de pedra.}
+{4776}{}{Uma nave acidentada.}
+{4777}{}{O Guardião do Portal.}
+{4778}{}{Cavaleiros do Rei Arthur.}
+{4779}{}{Um lenhador de lata.}
+{4780}{}{Aldeões cobertos de terra caçando carne.}
 {4800}{}{Alguns geckos dourados e alguns lobos.}
 {4801}{}{Alguns invasores.}
 {4802}{}{Alguns lobos.}
@@ -1065,7 +1065,7 @@
 {4819}{}{Some trappers.}
 {4820}{}{Alguns garimpeiros.}
 {4821}{}{Um homem guardando uma ponte.}
-{4822}{}{King Arthur's Knights fighting a rat.}
+{4822}{}{Os Cavaleiros do Rei Arthur lutando contra um rato.}
 {4850}{}{Uma matilha de lobos e alguns ratos toupeira.}
 {4851}{}{Alguns radscorpions e alguns lobos.}
 {4852}{}{Alguns ratos toupeira mutantes e alguns radscorpions.}
@@ -1086,7 +1086,7 @@
 {4867}{}{Alguns ratos toupeira mutantes lutando contra alguns geckos dourados.}
 {4868}{}{Alguns ratos toupeira lutando contra alguns radscorpions.}
 {4869}{}{Um homem guardando uma ponte.}
-{4870}{}{King Arthur's Knights fighting a rat.}
+{4870}{}{Os Cavaleiros do Rei Arthur lutando contra um rato.}
 {4900}{}{Um bando de saqueadores.}
 {4901}{}{Alguns lobos.}
 {4902}{}{Uma caravana afastando alguns invasores.}
@@ -1107,11 +1107,11 @@
 {4917}{}{A caravan.}
 {4918}{}{A caravan.}
 {4919}{}{Um homem guardando uma ponte.}
-{4920}{}{King Arthur's Knights fighting a rat.}
+{4920}{}{Os Cavaleiros do Rei Arthur lutando contra um rato.}
 {4921}{}{Um bando de saqueadores furiosos.}
-{4950}{}{Toxic waste dump.}
-{4951}{}{A lone surviving dog.}
-{4952}{}{A herd of brahmin.}
+{4950}{}{Depósito de lixo tóxico.}
+{4951}{}{Um solitário cachorro sobrevivente.}
+{4952}{}{Um rebanho de brahmins.}
 {4953}{}{Um bando de saqueadores.}
 {4954}{}{Um grupo de caçadores de recompensa.}
 {4955}{}{Um grupo de caçadores de recompensa.}
@@ -1131,13 +1131,13 @@
 {4969}{}{A caravan.}
 {4970}{}{A caravan.}
 {4971}{}{A caravan.}
-{4972}{}{The remains of a whale.}
-{4973}{}{A giant stone head.}
-{4974}{}{A crashed shuttle.}
-{4975}{}{A Guardian Portal.}
-{4976}{}{King Arthur's Knights.}
-{4977}{}{A tin woodsman.}
-{4978}{}{The Unwashed Villagers hunting a spammer.}
+{4972}{}{Os restos de uma baleia.}
+{4973}{}{Uma cabeça gigante de pedra.}
+{4974}{}{Uma nave acidentada.}
+{4975}{}{O Guardião do Portal.}
+{4976}{}{Cavaleiros do Rei Arthur.}
+{4977}{}{Um lenhador de lata.}
+{4978}{}{Aldeões cobertos de terra caçando carne.}
 {4979}{}{Um bando de saqueadores furiosos.}
 {5000}{}{Um bando de invasores guiando alguns lobos.}
 {5001}{}{Algumas plantas de esporos e alguns lobos.}
@@ -1155,11 +1155,11 @@
 {5013}{}{Um bando de radscorpions.}
 {5014}{}{Uma matilha de lobos lutando contra alguns raiders.}
 {5015}{}{Um homem guardando uma ponte.}
-{5016}{}{King Arthur's Knights fighting a rat.}
+{5016}{}{Os Cavaleiros do Rei Arthur lutando contra um rato.}
 {5017}{}{Um bando de saqueadores furiosos.}
-{5050}{}{Toxic waste dump.}
-{5051}{}{A lone surviving dog.}
-{5052}{}{A herd of brahmin.}
+{5050}{}{Depósito de lixo tóxico.}
+{5051}{}{Um solitário cachorro sobrevivente.}
+{5052}{}{Um rebanho de brahmins.}
 {5053}{}{Um bando de invasores guiando alguns lobos.}
 {5054}{}{Um grupo de caçadores de recompensa.}
 {5055}{}{Um grupo de caçadores de recompensa.}
@@ -1175,17 +1175,17 @@
 {5065}{}{Uma matilha de lobos.}
 {5066}{}{Um bando de radscorpions.}
 {5067}{}{Uma matilha de lobos lutando contra alguns raiders.}
-{5068}{}{The remains of a whale.}
-{5069}{}{A giant stone head.}
-{5070}{}{A crashed shuttle.}
-{5071}{}{A Guardian Portal.}
-{5072}{}{King Arthur's Knights.}
-{5073}{}{A tin woodsman.}
-{5074}{}{The Unwashed Villagers hunting a spammer.}
+{5068}{}{Os restos de uma baleia.}
+{5069}{}{Uma cabeça gigante de pedra.}
+{5070}{}{Uma nave acidentada.}
+{5071}{}{O Guardião do Portal.}
+{5072}{}{Cavaleiros do Rei Arthur.}
+{5073}{}{Um lenhador de lata.}
+{5074}{}{Aldeões cobertos de terra caçando carne.}
 {5075}{}{Um bando de saqueadores furiosos.}
-{5100}{}{Toxic waste dump.}
-{5101}{}{A lone surviving dog.}
-{5102}{}{A herd of brahmin.}
+{5100}{}{Depósito de lixo tóxico.}
+{5101}{}{Um solitário cachorro sobrevivente.}
+{5102}{}{Um rebanho de brahmins.}
 {5103}{}{Uma patrulha da Enclave.}
 {5104}{}{Um grupo de caçadores de recompensa.}
 {5105}{}{Um grupo de caçadores de recompensa.}
@@ -1196,13 +1196,13 @@
 {5110}{}{Um grupo de caçadores de recompensa.}
 {5111}{}{Um grupo de caçadores de recompensa.}
 {5112}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
-{5113}{}{The remains of a whale.}
-{5114}{}{A giant stone head.}
-{5115}{}{A crashed shuttle.}
-{5116}{}{A Guardian Portal.}
-{5117}{}{King Arthur's Knights.}
-{5118}{}{A tin woodsman.}
-{5119}{}{The Unwashed Villagers hunting a spammer.}
+{5113}{}{Os restos de uma baleia.}
+{5114}{}{Uma cabeça gigante de pedra.}
+{5115}{}{Uma nave acidentada.}
+{5116}{}{O Guardião do Portal.}
+{5117}{}{Cavaleiros do Rei Arthur.}
+{5118}{}{Um lenhador de lata.}
+{5119}{}{Aldeões cobertos de terra caçando carne.}
 {5120}{}{Cafe of Broken Dreams.}
 {5150}{}{Uma patrulha da Enclave.}
 {5151}{}{Um grupo de caçadores de recompensa.}
@@ -1215,7 +1215,7 @@
 {5158}{}{Um grupo de caçadores de recompensa.}
 {5159}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
 {5160}{}{Um homem guardando uma ponte.}
-{5161}{}{King Arthur's Knights fighting a rat.}
+{5161}{}{Os Cavaleiros do Rei Arthur lutando contra um rato.}
 {5200}{}{Uma patrulha da Enclave.}
 {5201}{}{Um grupo de caçadores de recompensa.}
 {5202}{}{Um grupo de caçadores de recompensa.}
@@ -1226,9 +1226,9 @@
 {5207}{}{Um grupo de caçadores de recompensa.}
 {5208}{}{Um grupo de caçadores de recompensa.}
 {5209}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
-{5250}{}{Toxic waste dump.}
-{5251}{}{A lone surviving dog.}
-{5252}{}{A herd of brahmin.}
+{5250}{}{Depósito de lixo tóxico.}
+{5251}{}{Um solitário cachorro sobrevivente.}
+{5252}{}{Um rebanho de brahmins.}
 {5253}{}{Alguns aliens e deathclaws}
 {5254}{}{Um grupo de caçadores de recompensa.}
 {5255}{}{Um grupo de caçadores de recompensa.}
@@ -1247,13 +1247,13 @@
 {5268}{}{Alguns aliens.}
 {5269}{}{Um grupo de centauros.}
 {5270}{}{Um enxame de flutuadores.}
-{5271}{}{The remains of a whale.}
-{5272}{}{A giant stone head.}
-{5273}{}{A crashed shuttle.}
-{5274}{}{A Guardian Portal.}
-{5275}{}{King Arthur's Knights.}
-{5276}{}{A tin woodsman.}
-{5277}{}{The Unwashed Villagers hunting a spammer.}
+{5271}{}{Os restos de uma baleia.}
+{5272}{}{Uma cabeça gigante de pedra.}
+{5273}{}{Uma nave acidentada.}
+{5274}{}{O Guardião do Portal.}
+{5275}{}{Cavaleiros do Rei Arthur.}
+{5276}{}{Um lenhador de lata.}
+{5277}{}{Aldeões cobertos de terra caçando carne.}
 {5278}{}{Cafe of Broken Dreams.}
 {5279}{}{Uma reunião de indivíduos com aparência importante.}
 {5300}{}{Alguns aliens e deathclaws.}
@@ -1275,7 +1275,7 @@
 {5316}{}{Um grupo de centauros.}
 {5317}{}{Um enxame de flutuadores.}
 {5318}{}{Um homem guardando uma ponte.}
-{5319}{}{King Arthur's Knights fighting a rat.}
+{5319}{}{Os Cavaleiros do Rei Arthur lutando contra um rato.}
 {5320}{}{Uma reunião de indivíduos com aparência importante.}
 {5350}{}{Alguns aliens e deathclaws.}
 {5351}{}{Um exército de flutuadores e centauros.}
@@ -1296,9 +1296,9 @@
 {5366}{}{Um grupo de centauros.}
 {5367}{}{Um enxame de flutuadores.}
 {5368}{}{Uma reunião de indivíduos com aparência importante.}
-{5400}{}{Toxic waste dump.}
-{5401}{}{A lone surviving dog.}
-{5402}{}{A herd of brahmin.}
+{5400}{}{Depósito de lixo tóxico.}
+{5401}{}{Um solitário cachorro sobrevivente.}
+{5402}{}{Um rebanho de brahmins.}
 {5403}{}{Um grupo de geckos de fogo.}
 {5404}{}{Um grupo de caçadores de recompensa.}
 {5405}{}{Um grupo de caçadores de recompensa.}
@@ -1311,13 +1311,13 @@
 {5412}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
 {5413}{}{Um grupo de geckos de fogo.}
 {5414}{}{Um grande grupo de geckos dourados.}
-{5415}{}{The remains of a whale.}
-{5416}{}{A giant stone head.}
-{5417}{}{A crashed shuttle.}
-{5418}{}{A Guardian Portal.}
-{5419}{}{King Arthur's Knights.}
-{5420}{}{A tin woodsman.}
-{5421}{}{The Unwashed Villagers hunting a spammer.}
+{5415}{}{Os restos de uma baleia.}
+{5416}{}{Uma cabeça gigante de pedra.}
+{5417}{}{Uma nave acidentada.}
+{5418}{}{O Guardião do Portal.}
+{5419}{}{Cavaleiros do Rei Arthur.}
+{5420}{}{Um lenhador de lata.}
+{5421}{}{Aldeões cobertos de terra caçando carne.}
 {5422}{}{Cafe of Broken Dreams.}
 {5423}{}{Uma reunião de indivíduos com aparência importante.}
 {5450}{}{Um grupo de geckos de fogo.}
@@ -1333,7 +1333,7 @@
 {5460}{}{Um grupo de caçadores de recompensa.}
 {5461}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
 {5462}{}{Um homem guardando uma ponte.}
-{5463}{}{King Arthur's Knights fighting a rat.}
+{5463}{}{Os Cavaleiros do Rei Arthur lutando contra um rato.}
 {5464}{}{Uma reunião de indivíduos com aparência importante.}
 {5500}{}{Um grupo de geckos de fogo.}
 {5501}{}{Um grupo de geckos de fogo.}
@@ -1348,9 +1348,9 @@
 {5510}{}{Um grupo de caçadores de recompensa.}
 {5511}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
 {5512}{}{Uma reunião de indivíduos com aparência importante.}
-{5550}{}{Toxic waste dump.}
-{5551}{}{A lone surviving dog.}
-{5552}{}{A herd of brahmin.}
+{5550}{}{Depósito de lixo tóxico.}
+{5551}{}{Um solitário cachorro sobrevivente.}
+{5552}{}{Um rebanho de brahmins.}
 {5553}{}{Um grupo de deathclaws.}
 {5554}{}{Um grupo de caçadores de recompensa.}
 {5555}{}{Um grupo de caçadores de recompensa.}
@@ -1370,13 +1370,13 @@
 {5569}{}{A caravan.}
 {5570}{}{A caravan.}
 {5571}{}{A caravan.}
-{5572}{}{The remains of a whale.}
-{5573}{}{A giant stone head.}
-{5574}{}{A crashed shuttle.}
-{5575}{}{A Guardian Portal.}
-{5576}{}{King Arthur's Knights.}
-{5577}{}{A tin woodsman.}
-{5578}{}{The Unwashed Villagers hunting a spammer.}
+{5572}{}{Os restos de uma baleia.}
+{5573}{}{Uma cabeça gigante de pedra.}
+{5574}{}{Uma nave acidentada.}
+{5575}{}{O Guardião do Portal.}
+{5576}{}{Cavaleiros do Rei Arthur.}
+{5577}{}{Um lenhador de lata.}
+{5578}{}{Aldeões cobertos de terra caçando carne.}
 {5600}{}{Um grupo de deathclaws.}
 {5601}{}{Um grupo de geckos de fogo.}
 {5602}{}{Uma caravana de defendendo de deathclaws.}
@@ -1397,10 +1397,10 @@
 {5617}{}{A caravan.}
 {5618}{}{A caravan.}
 {5619}{}{Um homem guardando uma ponte.}
-{5620}{}{King Arthur's Knights fighting a rat.}
-{5650}{}{Toxic waste dump.}
-{5651}{}{A lone surviving dog.}
-{5652}{}{A herd of brahmin.}
+{5620}{}{Os Cavaleiros do Rei Arthur lutando contra um rato.}
+{5650}{}{Depósito de lixo tóxico.}
+{5651}{}{Um solitário cachorro sobrevivente.}
+{5652}{}{Um rebanho de brahmins.}
 {5653}{}{Alguns da Yakuza.}
 {5654}{}{Um grupo de caçadores de recompensa.}
 {5655}{}{Um grupo de caçadores de recompensa.}
@@ -1417,13 +1417,13 @@
 {5666}{}{Alguns mafiosos lutando contra uma gangue.}
 {5667}{}{Alguns mafiosos.}
 {5668}{}{Um viajante.}
-{5669}{}{The remains of a whale.}
-{5670}{}{A giant stone head.}
-{5671}{}{A crashed shuttle.}
-{5672}{}{A Guardian Portal.}
-{5673}{}{King Arthur's Knights.}
-{5674}{}{A tin woodsman.}
-{5675}{}{The Unwashed Villagers hunting a spammer.}
+{5669}{}{Os restos de uma baleia.}
+{5670}{}{Uma cabeça gigante de pedra.}
+{5671}{}{Uma nave acidentada.}
+{5672}{}{O Guardião do Portal.}
+{5673}{}{Cavaleiros do Rei Arthur.}
+{5674}{}{Um lenhador de lata.}
+{5675}{}{Aldeões cobertos de terra caçando carne.}
 {5676}{}{Cafe of Broken Dreams.}
 {5700}{}{Alguns da Yakuza.}
 {5701}{}{Uma gangue.}
@@ -1442,7 +1442,7 @@
 {5714}{}{Alguns mafiosos.}
 {5715}{}{Um viajante.}
 {5716}{}{Um homem guardando uma ponte.}
-{5717}{}{King Arthur's Knights fighting a rat.}
+{5717}{}{Os Cavaleiros do Rei Arthur lutando contra um rato.}
 {5750}{}{Alguns da Yakuza.}
 {5751}{}{Uma gangue.}
 {5752}{}{Uma matilha de lobos.}
@@ -1459,9 +1459,9 @@
 {5763}{}{Alguns mafiosos lutando contra uma gangue.}
 {5764}{}{Alguns mafiosos.}
 {5765}{}{Um viajante.}
-{5800}{}{Toxic waste dump.}
-{5801}{}{A lone surviving dog.}
-{5802}{}{A herd of brahmin.}
+{5800}{}{Depósito de lixo tóxico.}
+{5801}{}{Um solitário cachorro sobrevivente.}
+{5802}{}{Um rebanho de brahmins.}
 {5803}{}{Um bando de bandidos e alguns lobos.}
 {5804}{}{Um grupo de caçadores de recompensa.}
 {5805}{}{Um grupo de caçadores de recompensa.}
@@ -1479,13 +1479,13 @@
 {5817}{}{Uma patrulha da Unity lutando contra alguns bandidos.}
 {5818}{}{Uma patrulha da Unity lutando contra alguns lobos.}
 {5819}{}{Uma patrulha da Unity.}
-{5820}{}{The remains of a whale.}
-{5821}{}{A giant stone head.}
-{5822}{}{A crashed shuttle.}
-{5823}{}{A Guardian Portal.}
-{5824}{}{King Arthur's Knights.}
-{5825}{}{A tin woodsman.}
-{5826}{}{The Unwashed Villagers hunting a spammer.}
+{5820}{}{Os restos de uma baleia.}
+{5821}{}{Uma cabeça gigante de pedra.}
+{5822}{}{Uma nave acidentada.}
+{5823}{}{O Guardião do Portal.}
+{5824}{}{Cavaleiros do Rei Arthur.}
+{5825}{}{Um lenhador de lata.}
+{5826}{}{Aldeões cobertos de terra caçando carne.}
 {5850}{}{Um bando de bandidos e alguns lobos.}
 {5851}{}{Um bando de bandidos.}
 {5852}{}{Uma matilha de lobos.}
@@ -1504,7 +1504,7 @@
 {5865}{}{Uma patrulha da Unity lutando contra alguns lobos.}
 {5866}{}{Uma patrulha da Unity.}
 {5867}{}{Um homem guardando uma ponte.}
-{5868}{}{King Arthur's Knights fighting a rat.}
+{5868}{}{Os Cavaleiros do Rei Arthur lutando contra um rato.}
 {5900}{}{Um bando de mercenários.}
 {5901}{}{Uma gangue de assaltantes.}
 {5902}{}{Uma manada de deathclaws.}
@@ -1542,7 +1542,7 @@
 {5965}{}{Hubologistas se defendendo contra assaltantes.}
 {5966}{}{Hubologistas.}
 {5967}{}{Um homem guardando uma ponte.}
-{5968}{}{King Arthur's Knights fighting a rat.}
+{5968}{}{Os Cavaleiros do Rei Arthur lutando contra um rato.}
 {5969}{}{Um bando de mercenários furiosos.}
 {5970}{}{Uma reunião de indivíduos com aparência importante.}
 {6000}{}{Um bando de mercenários.}
@@ -1564,9 +1564,9 @@
 {6016}{}{Hubologistas.}
 {6017}{}{Um bando de mercenários furiosos.}
 {6018}{}{Uma reunião de indivíduos com aparência importante.}
-{6050}{}{Toxic waste dump.}
-{6051}{}{A lone surviving dog.}
-{6052}{}{A herd of brahmin.}
+{6050}{}{Depósito de lixo tóxico.}
+{6051}{}{Um solitário cachorro sobrevivente.}
+{6052}{}{Um rebanho de brahmins.}
 {6053}{}{Um bando de mercenários.}
 {6054}{}{Um grupo de caçadores de recompensa.}
 {6055}{}{Um grupo de caçadores de recompensa.}
@@ -1584,19 +1584,19 @@
 {6067}{}{Hubologistas lutando contra mercenarios.}
 {6068}{}{Hubologistas se defendendo contra assaltantes.}
 {6069}{}{Hubologistas.}
-{6070}{}{The remains of a whale.}
-{6071}{}{A giant stone head.}
-{6072}{}{A crashed shuttle.}
-{6073}{}{A Guardian Portal.}
-{6074}{}{King Arthur's Knights.}
-{6075}{}{A tin woodsman.}
-{6076}{}{The Unwashed Villagers hunting a spammer.}
+{6070}{}{Os restos de uma baleia.}
+{6071}{}{Uma cabeça gigante de pedra.}
+{6072}{}{Uma nave acidentada.}
+{6073}{}{O Guardião do Portal.}
+{6074}{}{Cavaleiros do Rei Arthur.}
+{6075}{}{Um lenhador de lata.}
+{6076}{}{Aldeões cobertos de terra caçando carne.}
 {6077}{}{Cafe of Broken Dreams.}
 {6078}{}{Um bando de mercenários furiosos.}
 {6079}{}{Uma reunião de indivíduos com aparência importante.}
-{6100}{}{Toxic waste dump.}
-{6101}{}{A lone surviving dog.}
-{6102}{}{A herd of brahmin.}
+{6100}{}{Depósito de lixo tóxico.}
+{6101}{}{Um solitário cachorro sobrevivente.}
+{6102}{}{Um rebanho de brahmins.}
 {6103}{}{Um bando de mercenários.}
 {6104}{}{Um grupo de caçadores de recompensa.}
 {6105}{}{Um grupo de caçadores de recompensa.}
@@ -1616,13 +1616,13 @@
 {6119}{}{Uma caravana se defendendo contra aliens.}
 {6120}{}{A caravan.}
 {6121}{}{A caravan.}
-{6122}{}{The remains of a whale.}
-{6123}{}{A giant stone head.}
-{6124}{}{A crashed shuttle.}
-{6125}{}{A Guardian Portal.}
-{6126}{}{King Arthur's Knights.}
-{6127}{}{A tin woodsman.}
-{6128}{}{The Unwashed Villagers hunting a spammer.}
+{6122}{}{Os restos de uma baleia.}
+{6123}{}{Uma cabeça gigante de pedra.}
+{6124}{}{Uma nave acidentada.}
+{6125}{}{O Guardião do Portal.}
+{6126}{}{Cavaleiros do Rei Arthur.}
+{6127}{}{Um lenhador de lata.}
+{6128}{}{Aldeões cobertos de terra caçando carne.}
 {6129}{}{Cafe of Broken Dreams.}
 {6130}{}{Um bando de mercenários furiosos.}
 {6150}{}{Um bando de mercenários.}
@@ -1645,9 +1645,9 @@
 {6167}{}{A caravan.}
 {6168}{}{A caravan.}
 {6169}{}{Um bando de mercenários furiosos.}
-{6200}{}{Toxic waste dump.}
-{6201}{}{A lone surviving dog.}
-{6202}{}{A herd of brahmin.}
+{6200}{}{Depósito de lixo tóxico.}
+{6201}{}{Um solitário cachorro sobrevivente.}
+{6202}{}{Um rebanho de brahmins.}
 {6203}{}{Uma patrulha da Enclave.}
 {6204}{}{Um grupo de caçadores de recompensa.}
 {6205}{}{Um grupo de caçadores de recompensa.}
@@ -1661,13 +1661,13 @@
 {6213}{}{Remanescentes do exército do Mestre.}
 {6214}{}{Um grupo de deathclaws.}
 {6215}{}{A swarm of mantis.}
-{6216}{}{The remains of a whale.}
-{6217}{}{A giant stone head.}
-{6218}{}{A crashed shuttle.}
-{6219}{}{A Guardian Portal.}
-{6220}{}{King Arthur's Knights.}
-{6221}{}{A tin woodsman.}
-{6222}{}{The Unwashed Villagers hunting a spammer.}
+{6216}{}{Os restos de uma baleia.}
+{6217}{}{Uma cabeça gigante de pedra.}
+{6218}{}{Uma nave acidentada.}
+{6219}{}{O Guardião do Portal.}
+{6220}{}{Cavaleiros do Rei Arthur.}
+{6221}{}{Um lenhador de lata.}
+{6222}{}{Aldeões cobertos de terra caçando carne.}
 {6223}{}{Cafe of Broken Dreams.}
 {6250}{}{Uma patrulha da Enclave.}
 {6251}{}{Remanescentes do exército do Mestre.}
@@ -1683,10 +1683,10 @@
 {6261}{}{Um grupo de caçadores de recompensa.}
 {6262}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
 {6263}{}{Um homem guardando uma ponte.}
-{6264}{}{King Arthur's Knights fighting a rat.}
-{6300}{}{Toxic waste dump.}
-{6301}{}{A lone surviving dog.}
-{6302}{}{A herd of brahmin.}
+{6264}{}{Os Cavaleiros do Rei Arthur lutando contra um rato.}
+{6300}{}{Depósito de lixo tóxico.}
+{6301}{}{Um solitário cachorro sobrevivente.}
+{6302}{}{Um rebanho de brahmins.}
 {6303}{}{Uma caravana se defendendo dos remanescentes do exercito do Mestre.}
 {6304}{}{Um grupo de caçadores de recompensa.}
 {6305}{}{Um grupo de caçadores de recompensa.}
@@ -1702,13 +1702,13 @@
 {6315}{}{A caravan.}
 {6316}{}{A caravan.}
 {6317}{}{A caravan.}
-{6318}{}{The remains of a whale.}
-{6319}{}{A giant stone head.}
-{6320}{}{A crashed shuttle.}
-{6321}{}{A Guardian Portal.}
-{6322}{}{King Arthur's Knights.}
-{6323}{}{A tin woodsman.}
-{6324}{}{The Unwashed Villagers hunting a spammer.}
+{6318}{}{Os restos de uma baleia.}
+{6319}{}{Uma cabeça gigante de pedra.}
+{6320}{}{Uma nave acidentada.}
+{6321}{}{O Guardião do Portal.}
+{6322}{}{Cavaleiros do Rei Arthur.}
+{6323}{}{Um lenhador de lata.}
+{6324}{}{Aldeões cobertos de terra caçando carne.}
 {6325}{}{Cafe of Broken Dreams.}
 {6350}{}{Uma caravana se defendendo dos remanescentes do exercito do Mestre.}
 {6351}{}{Uma caravana se defendendo dos remanescentes do exercito do Mestre.}
@@ -1726,7 +1726,7 @@
 {6363}{}{A caravan.}
 {6364}{}{A caravan.}
 {6365}{}{Um homem guardando uma ponte.}
-{6366}{}{King Arthur's Knights fighting a rat.}
+{6366}{}{Os Cavaleiros do Rei Arthur lutando contra um rato.}
 {6400}{}{Uma matilha de lobos.}
 {6401}{}{A swarm of mantis.}
 {6402}{}{A family of radscorpions.}
@@ -1740,10 +1740,10 @@
 {6410}{}{Um grupo de caçadores de recompensa.}
 {6411}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
 {6412}{}{Um homem guardando uma ponte.}
-{6413}{}{King Arthur's Knights fighting a rat.}
-{6450}{}{Toxic waste dump.}
-{6451}{}{A lone surviving dog.}
-{6452}{}{A herd of brahmin.}
+{6413}{}{Os Cavaleiros do Rei Arthur lutando contra um rato.}
+{6450}{}{Depósito de lixo tóxico.}
+{6451}{}{Um solitário cachorro sobrevivente.}
+{6452}{}{Um rebanho de brahmins.}
 {6453}{}{Uma matilha de lobos.}
 {6454}{}{Um grupo de caçadores de recompensa.}
 {6455}{}{Um grupo de caçadores de recompensa.}
@@ -1756,17 +1756,17 @@
 {6462}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
 {6463}{}{A swarm of mantis.}
 {6464}{}{A family of radscorpions.}
-{6465}{}{The remains of a whale.}
-{6466}{}{A giant stone head.}
-{6467}{}{A crashed shuttle.}
-{6468}{}{A Guardian Portal.}
-{6469}{}{King Arthur's Knights.}
-{6470}{}{A tin woodsman.}
-{6471}{}{The Unwashed Villagers hunting a spammer.}
+{6465}{}{Os restos de uma baleia.}
+{6466}{}{Uma cabeça gigante de pedra.}
+{6467}{}{Uma nave acidentada.}
+{6468}{}{O Guardião do Portal.}
+{6469}{}{Cavaleiros do Rei Arthur.}
+{6470}{}{Um lenhador de lata.}
+{6471}{}{Aldeões cobertos de terra caçando carne.}
 {6472}{}{Cafe of Broken Dreams.}
-{6500}{}{Toxic waste dump.}
-{6501}{}{A lone surviving dog.}
-{6502}{}{A herd of brahmin.}
+{6500}{}{Depósito de lixo tóxico.}
+{6501}{}{Um solitário cachorro sobrevivente.}
+{6502}{}{Um rebanho de brahmins.}
 {6503}{}{Um bando de saqueadores.}
 {6504}{}{Um grupo de caçadores de recompensa.}
 {6505}{}{Um grupo de caçadores de recompensa.}
@@ -1788,13 +1788,13 @@
 {6521}{}{A caravan.}
 {6522}{}{A caravan.}
 {6523}{}{Um viajante.}
-{6524}{}{The remains of a whale.}
-{6525}{}{A giant stone head.}
-{6526}{}{A crashed shuttle.}
-{6527}{}{A Guardian Portal.}
-{6528}{}{King Arthur's Knights.}
-{6529}{}{A tin woodsman.}
-{6530}{}{The Unwashed Villagers hunting a spammer.}
+{6524}{}{Os restos de uma baleia.}
+{6525}{}{Uma cabeça gigante de pedra.}
+{6526}{}{Uma nave acidentada.}
+{6527}{}{O Guardião do Portal.}
+{6528}{}{Cavaleiros do Rei Arthur.}
+{6529}{}{Um lenhador de lata.}
+{6530}{}{Aldeões cobertos de terra caçando carne.}
 {6531}{}{Cafe of Broken Dreams.}
 {6532}{}{Um bando de saqueadores com raiva.}
 {6550}{}{Um bando de saqueadores.}
@@ -1819,7 +1819,7 @@
 {6569}{}{A caravan.}
 {6570}{}{Um viajante.}
 {6571}{}{Um homem guardando uma ponte.}
-{6572}{}{King Arthur's Knights fighting a rat.}
+{6572}{}{Os Cavaleiros do Rei Arthur lutando contra um rato.}
 {6573}{}{Um bando de saqueadores com raiva.}
 {6600}{}{Um destacamento do exercito do Mestre.}
 {6601}{}{Um bando de saqueadores.}
@@ -1839,11 +1839,11 @@
 {6615}{}{Um destacamento de rangers da NCR.}
 {6616}{}{Some farmers.}
 {6617}{}{Um homem guardando uma ponte.}
-{6618}{}{King Arthur's Knights fighting a rat.}
+{6618}{}{Os Cavaleiros do Rei Arthur lutando contra um rato.}
 {6619}{}{Um bando de saqueadores com raiva.}
-{6650}{}{Toxic waste dump.}
-{6651}{}{A lone surviving dog.}
-{6652}{}{A herd of brahmin.}
+{6650}{}{Depósito de lixo tóxico.}
+{6651}{}{Um solitário cachorro sobrevivente.}
+{6652}{}{Um rebanho de brahmins.}
 {6653}{}{Um destacamento do exercito do Mestre.}
 {6654}{}{Um grupo de caçadores de recompensa.}
 {6655}{}{Um grupo de caçadores de recompensa.}
@@ -1861,13 +1861,13 @@
 {6667}{}{Alguns fazendeiros se defendendo de saqueadores.}
 {6668}{}{Um destacamento de rangers da NCR.}
 {6669}{}{Some farmers.}
-{6670}{}{The remains of a whale.}
-{6671}{}{A giant stone head.}
-{6672}{}{A crashed shuttle.}
-{6673}{}{A Guardian Portal.}
-{6674}{}{King Arthur's Knights.}
-{6675}{}{A tin woodsman.}
-{6676}{}{The Unwashed Villagers hunting a spammer.}
+{6670}{}{Os restos de uma baleia.}
+{6671}{}{Uma cabeça gigante de pedra.}
+{6672}{}{Uma nave acidentada.}
+{6673}{}{O Guardião do Portal.}
+{6674}{}{Cavaleiros do Rei Arthur.}
+{6675}{}{Um lenhador de lata.}
+{6676}{}{Aldeões cobertos de terra caçando carne.}
 {6677}{}{Cafe of Broken Dreams.}
 {6678}{}{Um bando de saqueadores com raiva.}
 {6700}{}{Remanescentes do exercito do Mestre lutando contra ratos toupeira mutantes.}
@@ -1885,10 +1885,10 @@
 {6712}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
 {6713}{}{Um bando de radscorpions.}
 {6714}{}{Um homem guardando uma ponte.}
-{6715}{}{King Arthur's Knights fighting a rat.}
-{6750}{}{Toxic waste dump.}
-{6751}{}{A lone surviving dog.}
-{6752}{}{A herd of brahmin.}
+{6715}{}{Os Cavaleiros do Rei Arthur lutando contra um rato.}
+{6750}{}{Depósito de lixo tóxico.}
+{6751}{}{Um solitário cachorro sobrevivente.}
+{6752}{}{Um rebanho de brahmins.}
 {6753}{}{Remanescentes do exercito do Mestre lutando contra ratos toupeira mutantes.}
 {6754}{}{Um grupo de caçadores de recompensa.}
 {6755}{}{Um grupo de caçadores de recompensa.}
@@ -1903,11 +1903,11 @@
 {6764}{}{A swarm of mantis.}
 {6765}{}{Um bando de ratos toupeira mutantes.}
 {6766}{}{Um bando de radscorpions.}
-{6767}{}{The remains of a whale.}
-{6768}{}{A giant stone head.}
-{6769}{}{A crashed shuttle.}
-{6770}{}{A Guardian Portal.}
-{6771}{}{King Arthur's Knights.}
-{6772}{}{A tin woodsman.}
-{6773}{}{The Unwashed Villagers hunting a spammer.}
+{6767}{}{Os restos de uma baleia.}
+{6768}{}{Uma cabeça gigante de pedra.}
+{6769}{}{Uma nave acidentada.}
+{6770}{}{O Guardião do Portal.}
+{6771}{}{Cavaleiros do Rei Arthur.}
+{6772}{}{Um lenhador de lata.}
+{6773}{}{Aldeões cobertos de terra caçando carne.}
 {6774}{}{Cafe of Broken Dreams.}
