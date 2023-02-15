@@ -16,7 +16,7 @@
 {115}{}{Oh, look - the goody two-shoes, lollipop kid. Boys, escort this hypocritical paragon of saintly virtue out of my sight!}
 {116}{}{Fuck this.}
 {117}{}{Bem?}
-{118}{}{I'm looking for Vault 13.}
+{118}{}{Estou procurando a Vault 13.}
 {119}{}{Você tem um GECK?}
 {120}{}{O que você pode me dizer sobre essa cidade?}
 {121}{}{You're slaver scum! Why shouldn't I kill you?}

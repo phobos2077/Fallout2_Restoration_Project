@@ -22,10 +22,10 @@
  when we'll get someone else to run this damn caravan, but if we do, you'll have a job if you want it.}
 {117}{}{É bom encontrar alguém que aprecie a qualidade quando vê. Vejo você por aí, talvez. Adeus.}
 {118}{}{Sempre fico feliz em ganhar algum dinheiro extra. Obrigado e adeus.}
-{119}{}{Savinelli must have really been losing it before he bought the farm. I don't know why he'd let
- a throwback like you tag along otherwise. Get out of here.}
+{119}{}{Savinelli devia estar perdendo muito antes de comprar a fazenda. Não sei por que ele deixaria
+ um retrocesso como você acompanha-lo. Saia daqui.}
 {120}{}{Ook?}
-{121}{}{Savinelli got killed. Shit, I still don't believe it. I'm Velani. I'll settle up for what we owe.}
+{121}{}{Savinelli foi morto, merda, ainda não acredito. Eu sou Velani, vou pagar o que devemos.}
 {122}{}{Hã, valeu.}
-{123}{}{Shit, I still can't believe Savinelli got killed.}
-{200}{}{Why don't we settle up right now? Prepare to die, asshole.}
+{123}{}{Merda, ainda não consigo acreditar que Savinelli foi morto.}
+{200}{}{Por que não acertamos as contas agora? Prepare-se para morrer, idiota.}

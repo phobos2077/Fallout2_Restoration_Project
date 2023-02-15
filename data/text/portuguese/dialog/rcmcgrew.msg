@@ -9,7 +9,7 @@
 {108}{}{Hello there. My name's Dangerous Dan McGrew. I run the Morningstar Mine here. What can I do
  for you?}
 {109}{}{What do you need from me?}
-{110}{}{What do you mine here?}
+{110}{}{O que você extrai na mina aqui?}
 {111}{}{Você já ouviu falar de uma coisa chamada Garden of Eden Creation Kit?}
 {112}{}{Why do they call you *Dangerous* Dan McGrew?}
 {113}{}{O que está acontecendo aqui na cidade ultimamente?}
@@ -137,28 +137,28 @@
 {203}{}{Shit happens. See you around, maybe.}
 {204}{}{I can't believe that you let that bastard Hakeswill go free. My miners seem happy about it, but
  I'm not sure I am.}
-{205}{}{It was a tough call, and I made it the best I could. Let me ask you about something else going
- on in town.}
-{206}{}{Uh, I wasn't sure he was guilty. But let me ask you about something else.}
-{207}{}{I don't really care what you think. Goodbye.}
-{208}{}{You did the right thing by putting that bastard Hakeswill in jail. He bullied and intimidated my
- miners, but they still didn't want to see him killed out of hand. It'll be better to see him hung all
- legal and proper.}
-{209}{}{It was a tough call, and I made it the best I could. Let me ask you about something else going
- on in town.}
-{210}{}{Justice must be served. Let me ask you about something else.}
-{211}{}{Things don't always happen the way you'd like them to. Goodbye.}
-{212}{}{Thanks to your killing that idiot Hakeswill, my miners are ready to go on a rampage.}
-{213}{}{It was a tough call, and I made it the best I could. Let me ask you about something else going
- on in town.}
-{214}{}{That bastard needed a good killing. Let's talk about something else.}
-{215}{}{I'm glad that I was there to do what needed to be done to that worm. Goodbye.}
-{216}{}{You know what's going on with that Excavator Chip. I want it, and I bet you're smart enough to
- realize that Marge LeBarge wants it, too. But it'd be best all the way around if you sell it to me.}
+{205}{}{Foi uma decisão difícil e fiz o melhor que pude. Deixe eu te perguntar sobre outra coisa acontecendo
+ na cidade.}
+{206}{}{Uh, eu não tinha certeza se ele era culpado. Mas deixe eu te perguntar sobre outra coisa.}
+{207}{}{Na verdade eu estou cagando para o que você pensa. Adeus.}
+{208}{}{Você fez a coisa certa colocando aquele bundão do Hakeswill na cadeia. Ele ficava intimidando
+ meus mineiros, mas eles não queriam que ele morresse assim de imediato. Será melhor vê-lo
+ enforcado de forma mais legal e adequada.}
+{209}{}{Foi uma decisão difícil e fiz o melhor que pude. Deixe eu te perguntar sobre outra coisa acontecendo
+ na cidade.}
+{210}{}{A justiça deve ser feita. Deixe eu te perguntar sobre outra coisa.}
+{211}{}{As coisas nem sempre acontecem do jeito que você gostaria. Adeus.}
+{212}{}{Graças a você ter matado aquele idiota do Hakeswill, meus mineiros estão prontos para entrar com fúria.}
+{213}{}{Foi uma decisão difícil e fiz o melhor que pude. Deixe eu te perguntar sobre outra coisa acontecendo
+ na cidade.}
+{214}{}{Aquele idiota precisava mesmo morrer. Vamos falar de outra coisa.}
+{215}{}{Estou feliz por ir lá fazer o que precisava ser feito com aquele verme. Adeus.}
+{216}{}{Você sabe o que está acontecendo com o Chip da Escavadeira. Eu quero, e aposto que você é
+ inteligente o suficiente para perceber que Marge LeBarge também quer. Mas seria melhor se você o vendesse para mim.}
 {217}{}{Quanto vale para você?}
-{218}{}{Why's it better for me to sell it to you than her?}
-{219}{}{I'll think about it. Let me ask you about something else going on in town.}
-{220}{}{We'll just have to see about that. Goodbye.}
+{218}{}{Por que é melhor eu vender para você do que para ela?}
+{219}{}{Vou pensar sobre isso. Deixe eu te perguntar sobre outra coisa acontecendo na cidade.}
+{220}{}{Vamos ter que ver sobre isso. Adeus.}
 {221}{}{Só quero agradecer por vender o chip para a pessoa certa.}
 {222}{}{Não é problema. Deixe eu perguntar sobre outras coisas acontecendo na cidade.}
 {223}{}{Você entendeu. Esses mil dólares foram muito convincentes. Deixe me perguntar algo.}
@@ -174,29 +174,29 @@
  acontecendo aqui na cidade.}
 {231}{}{Eles precisavam de um tempo para se acalmar, você pode recuperá-los em alguns dias.
  Deixe eu perguntar outra coisa.}
-{232}{}{I think I need to let off some steam myself. Goodbye.}
-{233}{}{Thanks for putting those Kokoweef thugs away for picking a fight with my lads. Those
- Kokoweefers need to be put away for good.}
-{234}{}{I don't know about that. They were just letting off steam. Let me ask you about something else
- going on here in town.}
-{235}{}{I think that's a bit too extreme. Just let 'em cool off for a few days. Let me ask you about
- something else.}
-{236}{}{Just keep an eye on your own miners too from now on. Goodbye.}
-{237}{}{Didja have to lock up every damn miner in town? Who the hell's gonna work my mine?}
-{238}{}{You should have thought about that before you let them get out of hand. Let me ask you about
- something else going on here in town.}
-{239}{}{They went too far this time. Maybe it's best that all of you should have some time to think
- things over. Let me ask you about something else.}
-{240}{}{Good question. Maybe I should see about going into the mining business for myself. Goodbye.}
-{241}{}{You let that tin badge go to your head. You had no call to be killing anyone over a damn bar
- fight.}
-{242}{}{Things got a little out of hand. Let me ask you about something else going on here in town.}
-{243}{}{Shit happens. Now let me ask you about something else.}
-{244}{}{They should have known better than to start a fight with me as Sheriff. Goodbye.}
-{245}{}{Selling the chip to Marge makes her backers look better. The NCR backs Marge, and if they take
- over here in Redding, we're in trouble. Much better to back me and my pals in New Reno.}
-{246}{}{Trouble? What do you mean?}
-{247}{}{I don't have time for a political lesson. Goodbye.}
+{232}{}{Acho que preciso desabafar um pouco. Adeus.}
+{233}{}{Obrigado por prender aqueles capangas Kokoweef por arranjarem briga com meus rapazes.
+ Esses Kokoweefers precisam sumir de uma vez.}
+{234}{}{Eu não sei sobre isso, eles só estavam desabafando. Deixe eu te perguntar sobre outra coisa
+ acontecendo aqui na cidade.}
+{235}{}{Eu acho que isso é um pouco extremo demais. Deixe eles esfriarem a cabeça alguns dias.
+ Deixe eu te perguntar sobre outra coisa.}
+{236}{}{Fique de olho apenas em seus mineradores a partir de agora. Adeus.}
+{237}{}{Você teve que prender todos as porras dos mineiros da cidade? Então quem vai trabalhar na minha mina?}
+{238}{}{Você deveria ter pensado nisso antes de deixá-los sair do controle. Deixe eu te perguntar sobre
+ outra coisa acontecendo aqui na cidade.}
+{239}{}{Eles foram longe demais desta vez. Talvez seja melhor que todos vocês tenham algum
+ tempo para pensar sobre as coisas. Deixe eu te perguntar sobre outra coisa.}
+{240}{}{Boa pergunta. Talvez eu devesse pensar em entrar no negócio de mineração por conta própria. Adeus.}
+{241}{}{Você deixou aquele distintivo de latão subir à sua cabeça. Você não tinha vocação nenhuma
+ para matar alguém por uma maldita briga de bar.}
+{242}{}{As coisas saíram um pouco do controle. Deixe eu te perguntar sobre outra coisa acontecendo aqui na cidade.}
+{243}{}{Merdas acontecem. Agora deixe eu te perguntar sobre outra coisa.}
+{244}{}{Eles deveriam ter pensado bem antes de começar uma briga comigo como xerife. Adeus.}
+{245}{}{Vender o chip para Marge melhora a imagem para seus apoiadores. A NCR apóia Marge, e se eles
+ assumirem aqui em Redding, estaremos em apuros. Muito melhor apoiar a mim e meus amigos em New Reno.}
+{246}{}{Problemas? O que você quer dizer?}
+{247}{}{Não tenho tempo para aula de política. Adeus.}
 {248}{}{Everyone wants what Redding's got. Some folks are going to be nicer about how they get it out
  of us, though. Let me explain the situation.}
 {249}{}{Vá em frente.}

@@ -117,14 +117,14 @@
 {376}{}{Ainda não.}
 {377}{}{Tudo bem. Vamos fazer isso.}
 {380}{}{A decisão é sua.}
-{390}{}{[Krom examines one of the tribe's newly acquired stimpaks.] These should prove to be quite useful. [He brings
- the stimpak to his nose, sniffs, and frowns. He squirts a little of the crimson fluid onto his hand and tentatively
- tastes it.] Curse the gods! They're filled with brahmin blood! That one-eyed bastard fucked us over. Right now he's
- probably having a good laugh at us as he revels in his new golden pelts.}
-{391}{}{Sorry about that. I had no idea they were fake.}
-{392}{}{Oh well. Live and learn.}
-{400}{}{If I ever see that cheating dog again, I'll take great pleasure in cleaving his ugly skull. Now, if you'll excuse
- me, I've got some vials of brahmin blood to dispose of. Perhaps the shaman would have some use for it.}
+{390}{}{[Krom examina um dos stimpaks recém-adquiridos da tribo.] Estes devem ser bastante úteis. [Ele leva o stimpak
+ ao nariz, cheira e franze a testa. Ele esguicha um pouco do fluido carmesim em sua mão e experimenta.] Malditos
+ sejam os deuses! Eles estão cheios de sangue brahmin! Aquele bastardo de um olho só nos fodeu. Agora ele
+ provavelmente está rindo muito de nós enquanto se deleita em suas novas peles douradas.}
+{391}{}{Desculpe por isso. Eu não tinha ideia de que eram falsos.}
+{392}{}{Ah bem. Vivendo e aprendendo.}
+{400}{}{Se eu ver aquele vigarista trapaceiro de novo, terei grande prazer em cortar seu crânio nojento. Agora, se
+ me der licença, tenho alguns frascos de sangue de brahmin para descartar. Talvez o xamã tenha alguma utilidade para isso.}
 {410}{}{I didn't care for the ugly bastard, but by the gods, I didn't plan on butchering him. Sure, now his goods are free
  for the taking, but if word gets out that he came to trade with us and never returned, we'll be blacklisted among the traders.}
 {411}{}{I didn't care for the ugly bastard, but by the gods girl, I didn't plan on butchering him. Sure, now his goods are free

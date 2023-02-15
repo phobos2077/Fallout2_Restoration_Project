@@ -94,7 +94,7 @@
 {193}{}{Sorry, I don't get involved in religious wars.}
 {194}{}{Well, I am a learned man. What's your question?}
 {195}{}{Pergunte a distância.}
-{196}{}{I'm looking for Vault 13.}
+{196}{}{Estou procurando a Vault 13.}
 {197}{}{Já ouviu falar de um GECK?}
 {198}{}{What do you know about some outfit called the Rangers?}
 {199}{}{What can you tell me about some guy named Westin?}

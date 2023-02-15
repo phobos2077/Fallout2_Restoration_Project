@@ -48,7 +48,7 @@
  quality, ya' know. Should be ready to go on the 21st. Come back then if you still want a job.}
 {139}{}{What do you usually transport?}
 {140}{}{Deixe-me perguntar-lhe algo mais.}
-{141}{}{Thanks, I'll do that. Goodbye.}
+{141}{}{Obrigado, vou fazer isso. Adeus.}
 {142}{}{We're usually looking for caravan guards, but I ain't ready to go just yet. I'll be ready to
  head out on the 21st. Come back then if you want a job.}
 {143}{}{Why on the 21st?}

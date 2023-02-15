@@ -4,45 +4,45 @@
 {103}{}{What can I do for you, stranger?}
 {104}{}{Você novamente?}
 {105}{}{Nyeh.}
-{106}{}{The sheriff told me to come by - said Mr. Westin might have a job for me.}
-{107}{}{I'm here to see the boss.}
+{106}{}{O xerife me disse para passar aqui, disse que o Sr. Westin pode ter um trabalho para mim.}
+{107}{}{Estou aqui para ver o chefe.}
 {108}{}{Estou procurando trabalho.}
-{109}{}{I'm looking for Vault 13.}
+{109}{}{Estou procurando a Vault 13.}
 {110}{}{Apenas olhando por aí.}
-{111}{}{Great, another idiot. I suppose you want to see the boss?}
+{111}{}{Ótimo, outro idiota. Eu suponho que você quer ver o chefe?}
 {112}{}{Uh-huh.}
-{113}{}{Nooo.}
-{114}{}{Fine. Go on in.}
-{115}{}{It's late. Come back in the morning.}
-{116}{}{Well then, get on out of here.}
-{117}{}{Dumont, eh? Well, that's good enough for me. Mr. Westin's inside.}
-{118}{}{That's nice. Mr. Westin don't just see anybody. You got any cause?}
-{119}{}{I'm looking for Vault 13.}
-{120}{}{What if I said Bishop in New Reno sent me to kill him?}
+{113}{}{Nããão.}
+{114}{}{Tudo bem, entre.}
+{115}{}{Está tarde, volte pela manhã.}
+{116}{}{Bem, então, saia daqui.}
+{117}{}{Dumont, né? Bem, isso ja é o suficiente para mim. O Sr. Westin está lá dentro.}
+{118}{}{Esta bem, o Sr. Westin não vê qualquer um. Você tem algum motivo?}
+{119}{}{Estou procurando a Vault 13.}
+{120}{}{E se eu disser que Bishop em New Reno me enviou para matá-lo?}
 {121}{}{Uh, não.}
-{122}{}{Hah! Another crackpot. You ought to go talk to Saltbeef. You and he'd get along fine.}
+{122}{}{Ha! Outro maluco. Você deveria ir falar com Carne Seca, se dariam muito bem.}
 {123}{}{Quem?}
 {124}{}{To caindo fora daqui.}
-{125}{}{Saltbeef Bob - over in the stables. Mr. Westin lets him stay there. Now stop wasting my time.}
-{126}{}{Oh, thanks.}
-{127}{}{Then I guess we got to kill you.}
-{128}{}{Done with your meeting?}
-{129}{}{Westin. Job. Me}
+{125}{}{Bob Carne Seca está nos estábulos, o Sr. Westin permite que ele fique por lá. Agora pare de desperdiçar meu tempo.}
+{126}{}{Oh, obrigado.}
+{127}{}{Então acho que temos que matar você.}
+{128}{}{Terminou sua reunião?}
+{129}{}{Westin. Trabalho. Meu}
 {130}{}{Eu vou.}
-{131}{}{Fine, he wants you to have a job; I got a job for you. Someone, or something, kill moo-moos. You come me. You guard. Keep moo-moos safe. Make boss happy. Okay?}
+{131}{}{Tudo bem, ele quer que você tenha um trabalho; eu tenho um trabalho para você. Alguém, ou alguma coisa, mata moo-moos. Você vem comigo. Você protege, deixa moo-moos seguros. Chefe fica feliz. OK?}
 {132}{}{Tudo bem.}
-{133}{}{No. Me no kill.}
-{134}{}{Back again, are you? Job done?}
+{133}{}{Não, eu não mato.}
+{134}{}{De volta, certo? Trabalho feito?}
 {135}{}{Sim.}
 {136}{}{Não.}
-{137}{}{Yeah, he left orders. He's been expecting you.}
-{138}{}{HEY YOU! Get away from there!}
+{137}{}{Sim, ele deixou certas ordens. Ele está te esperando.}
+{138}{}{EI VOCÊ! Afaste-se daí!}
 {139}{}{Tudo bem.}
-{140}{}{Fuck you!}
-{141}{}{Yeah. He said to see you about some problem with the brahmin.}
-{142}{}{Yes. I'm out of here.}
-{143}{}{Right. Someone, or something, has been killing brahmin on the west pasture. I'll take you out there and you take care of it. Let's go.}
-{144}{}{Forget that!}
+{140}{}{Vai se fuder!}
+{141}{}{Sim. Ele disse para vê-lo sobre algum problema com os brahmins.}
+{142}{}{Sim. Estou saindo daqui.}
+{143}{}{Certo. Alguém, ou alguma coisa, tem matado brahmins no pasto oeste. Eu levo você lá para cuidar disso. Vamos.}
+{144}{}{Esqueça isso!}
 {145}{}{Mr. Westin is waiting for you.}
 {146}{}{Well, we were having a problem with varmints, but they stopped hassling us. You can see Westin if you want.}
 {147}{}{I'm here on business from Vault City.}

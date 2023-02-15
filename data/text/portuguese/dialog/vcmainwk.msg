@@ -17,7 +17,7 @@
 {116}{}{I'm surrounded by idiots...}
 {117}{}{If I just had the right tools!}
 {118}{}{I'm going to kill that bald-headed monkey in the Purchasing Office...}
-{119}{}{It's late. Come back in the morning.}
+{119}{}{Está tarde, volte pela manhã.}
 {120}{}{Shop's closed. After I finish this list for the First Citizen, I'm heading home.}
 {121}{}{I'm busy. Come back in a day or so, and I should be finished.}
 {122}{}{I have a whole backlog of stuff that needs fixing. Come back in a day or two.}

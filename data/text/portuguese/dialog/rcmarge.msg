@@ -28,40 +28,40 @@
 {122}{}{Você é muito bom em apagar um incêndio com gasolina, não é? Ninguém precisava morrer por causa
  de uma briga de bar. E agora, o que você quer de mim?}
 {123}{}{Quem é você?}
-{124}{}{I wanted to ask you about something.}
-{125}{}{I was just walking past. I think I'll keep walking. Goodbye.}
-{126}{}{Hello there. I'm Marge. Marge LeBarge, and I run this mine.}
-{127}{}{What can Marge do you for?}
-{128}{}{What do you mine here?}
+{124}{}{Eu queria te perguntar sobre uma coisa.}
+{125}{}{Eu estava apenas passando. Acho que vou continuar seguindo, adeus.}
+{126}{}{Olá. Eu sou a Marge, Marge LeBarge, e eu comando esta mina.}
+{127}{}{O que Marge pode fazer por você?}
+{128}{}{O que você extrai na mina aqui?}
 {129}{}{Você já ouviu falar de uma coisa chamada Garden of Eden Creation Kit?}
-{130}{}{Are you a Redding native?}
-{131}{}{Know about any jobs or anything else going on here?}
-{132}{}{I was just looking around a bit. Goodbye.}
-{133}{}{Gold, of course. We mine it right here at the Kokoweef, and then ship it to Vault City, New Reno,
- and the New California Republic.}
-{134}{}{You send it all over the place?}
-{135}{}{Why did you call your mine Kokoweef?}
+{130}{}{Você é nativa de Redding?}
+{131}{}{Sabe sobre algum trabalho ou qualquer outra coisa que esta acontecendo aqui?}
+{132}{}{Eu estava apenas dando uma olhada nas coisas aqui. Adeus.}
+{133}{}{Ouro, é claro. Nós extraímos aqui na Kokoweef e depois o enviamos para Vault City, New Reno e
+ na NCR.}
+{134}{}{Você envia para todos os lugares?}
+{135}{}{Por que você chamou sua mina de Kokoweef?}
 {136}{}{Deixe-me perguntar-lhe algo mais.}
-{137}{}{I see. Thanks. That's all I need to know for now. Goodbye.}
-{138}{}{Sure do. Everyone likes gold. You should talk to the caravan master, James Hoffy, if you're real
- curious about it.}
+{137}{}{Entendo, obrigado. Isso é tudo que preciso saber por enquanto. Adeus.}
+{138}{}{Claro que sim, todo mundo gosta de ouro. Você deveria falar com o mestre da caravana, James
+ Hoffy, se tiver mais curiosidade sobre isso.}
 {139}{}{Deixe-me perguntar-lhe algo mais.}
-{140}{}{Thanks, I'll do that. Goodbye.}
-{141}{}{A Garden of Eden Creation Kit, huh? Sounds pretty impressive. If I had something like that you
- sure wouldn't find me grubbing around in the dirt to make ends meet, now would you?}
-{142}{}{I guess not. Let me ask you something else.}
-{143}{}{I just thought I'd ask. Goodbye.}
-{144}{}{Heck no. I was born way up north. Right on the edge of a lake. Lake LeBarge, it was.}
-{145}{}{I've never heard of that. Let me ask you something else.}
-{146}{}{Sounds nice. Maybe I'll go hunt that place down. Goodbye for now.}
-{147}{}{Just some rumors is all.}
-{148}{}{Well, there's always rumors... but I do have something that needs doing.}
-{149}{}{I'll get back to that. Let me ask you about something else first, though.}
-{150}{}{Tell me about the rumors.}
+{140}{}{Obrigado, vou fazer isso. Adeus.}
+{141}{}{Um Kit de Criação do Jardim do Éden, eh? Parece bem impressionante. Se eu tivesse algo assim,
+ você com certeza não me encontraria cavoucando terra para pagar as contas, né não?}
+{142}{}{Eu acho que não. Deixe- eu te perguntar outra coisa.}
+{143}{}{Só gostaria de perguntar. Adeus.}
+{144}{}{Caramba, não, eu nasci bem no norte. Bem na beira de um lago, o Lago LeBarge.}
+{145}{}{Eu nunca ouvi falar disso. Deixe eu te perguntar outra coisa.}
+{146}{}{Parece bom, talvez eu de uma procurada naquele lugar. Até logo.}
+{147}{}{Só alguns rumores.}
+{148}{}{Bem, tem sempre uns rumores... mas tenho algo que precisa ser feito.}
+{149}{}{Voltarei sobre isso. Deixe eu te perguntar sobre outra coisa primeiro.}
+{150}{}{Me conte sobre os rumores.}
 {151}{}{O que é isso?}
-{152}{}{I bet you do. Sorry, but I'm too busy right now. Goodbye.}
-{153}{}{I've got a great big ol' digger machine down in my mine. Problem is that the control chip for it
- don't work anymore. I need a new one if I want to expand my operations.}
+{152}{}{Eu aposto que sim. Desculpe, mas estou muito ocupado agora. Adeus.}
+{153}{}{Eu tenho uma grande e velha escavadeira na minha mina. O problema é que o chip de controle
+ dela não funciona mais. Preciso de um novo para conseguir expandir minhas operações.}
 {154}{}{That's interesting, but how do I fit in?}
 {155}{}{The Great Wanamingo Mine, just west of town, should have one of those same excavator machines.
  It's been abandoned for quite a while, so I'm guessing that they still have a working chip in their

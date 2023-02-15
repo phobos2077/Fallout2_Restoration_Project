@@ -1,11 +1,11 @@
-{100}{}{Big guy - gun -- standing around. Guard.}
-{101}{}{You still see a guard.}
-{102}{}{He's got a slaver tattoo on his forehead, which doesn't make him look any brighter.}
-{103}{}{Talk to Mr. Vortis, not me.}
+{100}{}{Cara grande, arma, parado em seu lugar. Guarda.}
+{101}{}{Você ainda vê um guarda.}
+{102}{}{Ele tem uma tatuagem de escravista na testa, o que não o deixa mais inteligente.}
+{103}{}{Fale com o Sr. Vortis, não comigo.}
 {104}{}{Uhh...}
-{105}{}{You got questions? Talk to Vortis.}
+{105}{}{Você tem perguntas? Fale com Vortis.}
 {106}{}{You give us trouble, that's what I'm here for. Understand?}
-{107}{}{Well, we got ourselves an intruder.}
-{108}{}{Sound the alarm. Intruder on the premises!}
-{109}{}{Mr. Vortis - raiders!}
-{110}{}{Oh, you've made a big mistake.}
+{107}{}{Bem, temos um intruso.}
+{108}{}{Toquem o alarme. Intruso no local!}
+{109}{}{Sr. Vortis, saqueadores!}
+{110}{}{Ah, você cometeu um grande erro.}

@@ -79,10 +79,10 @@
 {178}{}{LA LA LA LA CARROS, ei, me dê um carro e eu vou vigiar..}
 {179}{}{VIGIAR vigiar vigiar VIGIAR vigiar VIGIAR VIGIAAAAAR vigiar}
 {180}{}{Escrevi uma música sobre isso, quer ouvir? Aqui vai...}
-{181}{}{Cars CARRS CARS Cars KARS KKKARS Cars CATS}
-{182}{}{Kats?! Yeah, I can watch cats too. Anyone have a CAT!!}
-{183}{}{I LIKE CATS THE WORD SOUNDS LIKE CAR AND THATS WHAT I WATCH!}
-{184}{}{You like cars I WATCH'EM like a hawk with litty beady eyes.}
-{185}{}{Never get out ub my site I be watchen em somtimes people talk but I just keep watchn}
+{181}{}{Carros CARROS CARROS Carros CARROS KKKAROS Carros GATOS}
+{182}{}{Gatos?! Sim, também posso vigiar gatos. Alguém tem um GATO!!}
+{183}{}{EU GOSTO DE GATOS A PALAVRA PARECE CARRO E É ISSO QUE EU VIGIO!}
+{184}{}{Você tem carros, eu os observo como um falcão com olhos pequenos e redondos.}
+{185}{}{Nunca saio daqui, observo e as vezes converso com as pessoas mas sempre observo}
 {186}{}{Sim, estou bem. SIM, ESTOU BEM, sim.}
 {187}{}{Claro, cara, pegue tudo.}

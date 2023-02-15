@@ -352,14 +352,14 @@
 {401}{}{O que você pode me dizer sobre esses ataques de saqueados em nossa cidade?}
 {402}{}{Encontrei um Cidadão no centro da cidade, Thomas Moore. Quem é ele?}
 {403}{}{Você tem um GECK?}
-{404}{}{I'm looking for Vault 13.}
+{404}{}{Estou procurando a Vault 13.}
 {405}{}{Aqui é Vault City? Por que você não mora em uma vault?}
 {406}{}{Por que você tolera a escravidão?}
 {407}{}{Nada por hoje, valeu.}
 {408}{lyn055}{Para um não cidadão, você certamente exige muito do meu tempo.}
 {409}{}{Mas EU SOU um Cidadão.}
 {410}{}{Você tem um GECK?}
-{411}{}{I'm looking for Vault 13.}
+{411}{}{Estou procurando a Vault 13.}
 {412}{}{O que preciso fazer para me tornar um Cidadão?}
 {413}{}{Aqui é Vault City? Por que você não mora em uma vault?}
 {414}{}{Por que você tolera a escravidão?}
