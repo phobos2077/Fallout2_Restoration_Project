@@ -125,66 +125,66 @@
 {392}{}{Ah bem. Vivendo e aprendendo.}
 {400}{}{Se eu ver aquele vigarista trapaceiro de novo, terei grande prazer em cortar seu crânio nojento. Agora, se
  me der licença, tenho alguns frascos de sangue de brahmin para descartar. Talvez o xamã tenha alguma utilidade para isso.}
-{410}{}{I didn't care for the ugly bastard, but by the gods, I didn't plan on butchering him. Sure, now his goods are free
- for the taking, but if word gets out that he came to trade with us and never returned, we'll be blacklisted among the traders.}
-{411}{}{I didn't care for the ugly bastard, but by the gods girl, I didn't plan on butchering him. Sure, now his goods are free
- for the taking, but if word gets out that he came to trade with us and never returned, we'll be blacklisted among the traders.}
-{412}{}{Sorry, I guess I got carried away.}
-{413}{}{He was civilized scum and deserved death.}
+{410}{}{Eu não me importava com o desgraçado feioso, mas pelos deuses, eu não planejava matá-lo. Claro, agora os bens
+ dele estão livres para serem levados, mas se a notícia se espalhar de que ele veio negociar com nós e nunca mais voltou, estaremos na lista negra entre os comerciantes.}
+{411}{}{Eu não me importava com o desgraçado feioso, mas pelos deuses, garota, eu não planejava matá-lo. Claro, agora os
+ bens dele estão livres para serem levados, mas se a notícia se espalhar de que ele veio negociar com nós e nunca mais voltou, estaremos na lista negra entre os comerciantes.}
+{412}{}{Desculpe, acho que me empolguei.}
+{413}{}{Ele era escória civilizada e merecia a morte.}
 {414}{}{Oops.}
-{420}{}{I see now that it was a mistake to task you with this. I'll be keeping a close eye on you during your time at our
- village. Now come, let us take care of this mess and be on our way.}
-{430}{}{The lying bastard got what he deserved. Let his fate be a lesson to any trader who thinks they can cheat our valuables from us.
- You did well in spotting his deceit. I see I made a wise choice in trusting you. You're welcome to stay among us, and treat our tribe
- as your own. However, I may call on your aid again in the future. Now come, let us leave these corpses to rot in the sun.}
-{431}{}{The lying bastard got what he deserved. Let his fate be a lesson to any trader who thinks they can trick our valuables from us.
- You did well in spotting his deceit. Beautiful, perceptive, and deadly -- by Gods, girl, you've got it all. You're welcome to stay among
- us, and treat our tribe as your own. However, I may call on your aid again in the future. Now come, let us leave these corpses to rot in the sun.}
-{440}{}{I don't blame you for not making the trade. I had a bad feeling about the deal as well. I admit those stimpaks
- would have proven useful, but we've been getting by without them, and we'll continue to do so. Now, you're welcome to
- stay among us, and treat our tribe as your own. However, I may call on your aid again in the future. Thanks for your help.}
-{441}{}{I don't blame you for not making the trade. I had bad feeling about the deal as well. I admit those stimpaks would
- have proven useful, but we've been getting by without them, and we'll continue to do so. You're welcome to stay among us
- girl, and treat our tribe as your own. However, I may call on your aid again in the future. Thanks for your help.}
+{420}{}{Vejo agora que foi um erro te incumbir disso. Estarei de olho em você durante seu tempo em nossa aldeia. Agora
+ venha, vamos cuidar dessa bagunça e seguir nosso caminho.}
+{430}{}{O desgraçado mentiroso teve o que merecia. Deixe seu destino ser uma lição para qualquer comerciante que pensa que pode
+ enganar nossos valores. Você fez bem em detectar sua farsa, vejo que fiz uma escolha sábia ao confiar em você. Você é bem-vindo
+ para ficar entre nós e tratar nossa tribo como se fosse sua. No entanto, posso pedir sua ajuda novamente no futuro. Agora venha, vamos deixar esses cadáveres apodrecendo ao sol.}
+{431}{}{O desgraçado mentiroso teve o que merecia. Deixe seu destino ser uma lição para qualquer comerciante que pensa que pode
+ enganar nossos valores. Linda, perspicaz e mortal... Por Deus, garota, você tem tudo. Você é bem-vinda para ficar entre nós, e trate
+ nossa tribo como se fosse sua. No entanto, posso pedir sua ajuda novamente no futuro. Agora venha, vamos deixar esses cadáveres apodrecendo ao sol.}
+{440}{}{Não te culpo por não ter feito a troca, eu também tive um mau pressentimento sobre esse negócio. Admito
+ que esses stimpaks seriam muito úteis, mas estamos indo bem sem eles e continuaremos dessa forma. Agora, você pode
+ ficar entre nós e tratar nossa tribo como se fosse sua. No entanto, posso pedir sua ajuda novamente no futuro. Obrigado pela ajuda.}
+{441}{}{Não te culpo por não ter feito a troca, eu também tive um mau pressentimento sobre esse negócio. Admito
+ que esses stimpaks seriam muito úteis, mas estamos indo bem sem eles e continuaremos dessa forma. Você é bem-vinda para
+ ficar entre nós, garota, e tratar nossa tribo como se fosse sua. No entanto, posso pedir sua ajuda novamente no futuro. Obrigado pela ajuda.}
 {442}{}{Não há problema.}
-{443}{}{My pleasure.}
+{443}{}{O prazer é meu.}
 {444}{}{Seja o que for. Tchau.}
-{450}{}{If I ever see that cheating dog again, I'll take great pleasure in cleaving his ugly skull. However, you did well
- in spotting his deceit. I see I made a wise choice in trusting you. You're welcome to stay among us, and treat our tribe
- as your own. However, I may call on your aid again in the future. Thanks for your help.}
-{451}{}{If I ever see that cheating dog again, I'll take great pleasure in cleaving his ugly skull. However, you did well
- in spotting his deceit. I see I made a wise choice in trusting you, girl. You're welcome to stay among us, and treat our
- tribe as your own. However, I may call on your aid again in the future. Thanks for your help.}
+{450}{}{Se eu ver aquele cachorro trapaceiro de novo, terei grande prazer em cortar seu crânio feioso. No entanto,
+ você fez bem em detectar sua farsa. Vejo que fiz uma escolha sábia ao confiar em você. Você é bem-vindo para ficar entre
+ nós e tratar nossa tribo como se fosse sua. No entanto, posso pedir sua ajuda novamente no futuro. Obrigado pela ajuda.}
+{451}{}{Se eu ver aquele cachorro trapaceiro de novo, terei grande prazer em cortar seu crânio feioso. No entanto,
+ você fez bem em detectar sua farsa. Vejo que fiz uma escolha sábia ao confiar em você, garota. Você é bem-vinda para
+ ficar entre nós e tratar nossa tribo como se fosse sua. No entanto, posso pedir sua ajuda novamente no futuro. Obrigado pela ajuda.}
 {452}{}{Não há problema.}
-{453}{}{My pleasure.}
+{453}{}{O prazer é meu.}
 {454}{}{Seja o que for. Tchau.}
-{460}{}{[The giant warrior nods a greeting as you approach.] Welcome back, friend. Do you need something?}
-{461}{}{[The giant warrior grins as he watches you approach.] By the God's, I nearly forgot how gorgeous you are. Do you
- need something, girl?}
-{462}{}{I was wondering if I could ask you a couple questions.}
-{463}{}{No, sorry, I thought this was a different tent. I'll be going now.}
-{464}{}{[[Smile seductively] Yeah, big guy. I need something, alright. [Wink.]}
+{460}{}{[O gigante guerreiro acena com a cabeça enquanto você se aproxima.] Bem-vindo de volta, amigo. Você precisa de algo?}
+{461}{}{[O guerreiro gigante sorri enquanto observa você se aproximar.] Por Deus, quase esqueci o quão linda você é. Você
+ precisa de alguma coisa, garota?}
+{462}{}{Eu queria saber se posso te fazer algumas perguntas.}
+{463}{}{Não, desculpe, pensei que esta era outra tenda. Eu vou indo agora.}
+{464}{}{[[Sorrir sedutoramente] Sim, garotão. Eu preciso de algo, tudo bom. [Pisca.]}
 {470}{}{Claro.}
-{471}{}{You look like you've been through a lot. I was wondering what your story is.}
-{472}{}{What could you tell me about this village?}
-{473}{}{Is there anything going on here I could help you with?}
-{474}{}{Huh, that's strange. It seems I forgot what I wanted to ask you. I'll come back if I remember. Bye.}
-{480}{}{[He chuckles.] Yes, I suppose I've been through a lot. I come from a tribe far to the north. When I was fifteen,
- we were attacked by savages. I awoke that day as a boy, but by the time the sun set on that grim scene, I had slayed my
- way to manhood. Every man, woman, and child was dead, except for me. Ah, but what's life without battle and strife? It
- either breaks a man, or it forges him into steel. I wear my scars with pride.}
-{481}{}{So what'd you do then?}
-{482}{}{Alright, I think I've heard enough. Let me ask you something else.}
-{490}{}{I piled the bodies and watched them burn into the night. Then gathered what I could and went wandering. Spent
- time with various tribes; fought many battles. Spent a little time amongst the "civilized" men, but I tired of them quickly.
- Too many honorless dogs hiding behind their guns. I'd rather enjoy a good battle of flesh and steel. I'm not a complicated man.
- Give me battles and feasts, wine and women. What else matters in this grim world?}
-{491}{}{So how'd you end up here?}
-{500}{}{I came here a couple years ago. This tribe took me in and treated me well. They offered to make me their head warrior,
- which I obviously accepted. I've enjoyed it here, next to the Great Salt Water. But I feel the wanderlust growing within me.
- Someday soon, I believe I'll move on and see what the Gods have in store for me next.}
-{501}{}{Thanks for the story. Could I ask you something else?}
-{502}{}{Thanks for the story. Bye.}
+{471}{}{Parece que você já passou por muita coisa. Eu queria saber qual é a sua história.}
+{472}{}{O que você poderia me dizer sobre esta aldeia?}
+{473}{}{Há algo acontecendo aqui em que eu possa ser de ajuda?}
+{474}{}{Isso é estranho, parece que esqueci o que queria te perguntar. Voltarei se eu me lembrar. Tchau.}
+{480}{}{[Ele ri.] Sim, acho que já passei por muita coisa. Vim de uma tribo distante ao norte. Quando eu tinha quinze
+ anos, fomos atacados por selvagens. Acordei naquele dia como um menino, mas quando o sol se pôs naquela cena sombria,
+ eu havia matado meu caminho para a vida adulta, todos os homens, mulheres e crianças estavam mortos, exceto eu. Ah,
+ mas o que é a vida sem batalhas e conflitos? Ou destroi um homem, ou o forja em aço. Eu uso minhas cicatrizes com orgulho.}
+{481}{}{Então o que você fez?}
+{482}{}{Tudo bem, acho que já ouvi o suficiente. Deixe eu te perguntar outra coisa.}
+{490}{}{Empilhei os corpos e os observei queimar na noite. Então juntei o que pude e fui vagando. Passei um tempo com
+ várias tribos; travei muitas batalhas. Passei algum tempo entre os homens "civilizados", mas cansei deles rapidamente. Muitos
+ cães sem honra se escondendo atrás de suas armas, prefiro desfrutar de uma boa batalha de carne e aço. Eu não sou um homem
+ complicado. Me de batalhas, festas, vinho e mulheres. O que mais importa neste mundo sombrio?}
+{491}{}{Então, como você veio parar aqui?}
+{500}{}{Eu vim aqui alguns anos atrás, essa tribo me acolheu e me tratou bem. Eles se ofereceram para me tornar seu guerreiro
+ chefe, o que eu obviamente aceitei. Tenho gostado daqui, junto à Grande Água Salgada. Mas sinto o desejo de viajar crescendo
+ dentro de mim. Em breve, acredito que seguirei em frente e verei o que os Deuses têm reservado para mim a seguir.}
+{501}{}{Obrigado pela história. Posso te perguntar outra coisa?}
+{502}{}{Obrigado pela história. Tchau.}
 {510}{}{Let's see... Most members of this village actually hail from three smaller tribes that decided to unite many
  years ago in order to keep from dying off. It creates an interesting mix of customs and dialects. More importantly, it
  creates a good mix of women. Beyond that, there's not much to say. It's a simple village where we struggle to forge a
