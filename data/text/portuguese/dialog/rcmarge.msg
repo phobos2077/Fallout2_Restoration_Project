@@ -62,23 +62,23 @@
 {152}{}{Eu aposto que sim. Desculpe, mas estou muito ocupado agora. Adeus.}
 {153}{}{Eu tenho uma grande e velha escavadeira na minha mina. O problema é que o chip de controle
  dela não funciona mais. Preciso de um novo para conseguir expandir minhas operações.}
-{154}{}{That's interesting, but how do I fit in?}
-{155}{}{The Great Wanamingo Mine, just west of town, should have one of those same excavator machines.
- It's been abandoned for quite a while, so I'm guessing that they still have a working chip in their
- machine.}
-{156}{}{Sounds pretty easy. How come you haven't done it already?}
-{157}{}{It isn't as easy as all that. You see, the Great Wanamingo Mine's haunted. People go there and
- they don't come back. That's the big reason it's been shut down. Used to be a high-roller type place.
- Not any more, though.}
-{158}{}{So, you want me to get the digging machine chip out of this mine. What's it worth to you?}
-{159}{}{I'll give you $1,000 for that chip. McGrew over at the Morningstar'd probably give you the same,
- but he's all for those damn New Reno thugs. I can't stand those violent bastards. So let me give you the
- money, okay?}
-{160}{}{We'll see. One thing, though... that's good money. That mine must be pretty dangerous.}
-{161}{}{Well, it isn't a cakewalk, sweetheart. But you look like someone who can take care of
- themselves. Anyhow, you bring me the chip and you get the cash. Interested?}
-{162}{}{Yeah. I'm interested. Sign me up.}
-{163}{}{Well, I'll think about it. Goodbye for now.}
+{154}{}{Isso é interessante, mas como me encaixo?}
+{155}{}{A Grande Mina Wanamingo, a oeste da cidade, deveria ter uma dessas mesmas máquinas escavadoras.
+ Está abandonado há um bom tempo, então acho que eles ainda têm um chip funcionando em sua
+ máquina.}
+{156}{}{Parece muito fácil. Como é que você ainda não fez isso?}
+{157}{}{Não é tão fácil assim. Entenda, a Grande Mina Wanamingo é assombrada, as pessoas vão lá e
+ não voltam. Esse é o principal motivo de ter sido desativada. Costumava ser um lugar bem produtivo,
+ mas agora não mais.}
+{158}{}{Então, você quer que eu pegue o chip da máquina de escavação desta mina. Quanto isso vale pra você?}
+{159}{}{Te dou $1.000 por esse chip. McGrew na Morningstar provavelmente daria o mesmo, mas ele é
+ totalmente a favor daqueles bandidos canalhas de New Reno. Não suporto aqueles desgraçados violentos.
+ Então deixe que eu te dou o dinheiro, ok?}
+{160}{}{Veremos. Mais uma coisa... essa é uma boa grana. Essa mina deve ser bem perigosa.}
+{161}{}{Bem, não é brincadeirinha, meu bem. Mas você parece alguém que pode cuidar de si
+ mesmo. De qualquer forma, você me traz o chip e recebe o dinheiro. Te interessa?}
+{162}{}{Sim, me interessa. Estou dentro.}
+{163}{}{Bem, vou pensar sobre isso. Até logo.}
 {164}{}{Great. The sooner you get back here with the excavator chip, the better.}
 {165}{}{I'll see what I can do. First, let me ask you about something else.}
 {166}{}{Okay, I'll see you around. Goodbye.}

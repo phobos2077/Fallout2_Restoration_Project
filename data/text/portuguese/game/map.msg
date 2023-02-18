@@ -637,12 +637,12 @@
 {1547}{}{Random Encounter}
 {1548}{}{Stables}
 {1549}{}{Vila}
-{1550}{}{Slaver Camp}
-{1551}{}{Hubologist Stash}
-{1552}{}{Safe House}
-{1553}{}{Safe House}
-{1554}{}{Safe House}
-{1555}{}{RP Easter Egg Encounter}
+{1550}{}{Campo de Escravista}
+{1551}{}{Estoque Hubologista}
+{1552}{}{Casa Segura}
+{1553}{}{Casa Segura}
+{1554}{}{Casa Segura}
+{1555}{}{RP Encontro de Easter Egg}
 {1556}{}{Comerciante}
 {1557}{}{Comerciante}
 {1558}{}{Submarino Shi}
