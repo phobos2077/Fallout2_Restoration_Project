@@ -75,11 +75,11 @@
 {351}{}{Portao Principal}
 {360}{}{Doca}
 {361}{}{Centro de Detenção}
-{362}{}{End Boss}
+{362}{}{Chefão Final}
 {363}{}{Barracas}
 {364}{}{Área Presidencial}
 {365}{}{Reator}
-{366}{}{Trap Room}
+{366}{}{Armadilha}
 {370}{}{Entrada}
 {380}{}{Bosque}
 {381}{}{Tribo}
@@ -263,7 +263,7 @@
 {3380}{}{Uma nave acidentada.}
 {3381}{}{O Guardião do Portal.}
 {3382}{}{Cavaleiros do Rei Arthur.}
-{3383}{}{Um lenhador de lata.}
+{3383}{}{O Homem de Lata.}
 {3384}{}{Aldeões cobertos de terra caçando carne.}
 {3385}{}{Um bando de foras da lei furiosos.}
 {3400}{}{Um grupo de guerra.}
@@ -295,7 +295,7 @@
 {3450}{}{Depósito de lixo tóxico.}
 {3451}{}{Um solitário cachorro sobrevivente.}
 {3452}{}{Um rebanho de brahmins.}
-{3453}{}{A band of outcasts.}
+{3453}{}{Um bando de foras da lei.}
 {3454}{}{Um grupo de caçadores de recompensa.}
 {3455}{}{Um grupo de caçadores de recompensa.}
 {3456}{}{Um grupo de caçadores de recompensa.}
@@ -305,25 +305,25 @@
 {3460}{}{Um grupo de caçadores de recompensa.}
 {3461}{}{Um grupo de caçadores de recompensa.}
 {3462}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
-{3463}{}{A group of holy people.}
-{3464}{}{Some geckos hiding amongst spore plants.}
-{3465}{}{Some geckos.}
-{3466}{}{Some radscorpions hiding amongst spore plants.}
-{3467}{}{Some spore plants.}
-{3468}{}{A family of radscorpions.}
+{3463}{}{Um grupo de santos.}
+{3464}{}{Alguns geckos escondidos entre as plantas de esporos.}
+{3465}{}{Alguns geckos.}
+{3466}{}{Alguns radscorpions escondidos entre as plantas esporos.}
+{3467}{}{Algumas plantas de esporos.}
+{3468}{}{Uma familia de radscorpions.}
 {3469}{}{Um grupo de ratos toupeira.}
-{3470}{}{A group of holy people staving off a war party.}
-{3471}{}{A band of nomads.}
+{3470}{}{Um grupo de santos evitando um grupo de guerra.}
+{3471}{}{Um bando de nômades.}
 {3472}{}{Os restos de uma baleia.}
 {3473}{}{Uma cabeça gigante de pedra.}
 {3474}{}{Uma nave acidentada.}
 {3475}{}{O Guardião do Portal.}
 {3476}{}{Cavaleiros do Rei Arthur.}
-{3477}{}{Um lenhador de lata.}
+{3477}{}{O Homem de Lata.}
 {3478}{}{Aldeões cobertos de terra caçando carne.}
 {3479}{}{Um bando de foras da lei furiosos.}
-{3500}{}{A band of outcasts.}
-{3501}{}{A group of holy people.}
+{3500}{}{Um bando de foras da lei.}
+{3501}{}{Um grupo de santos.}
 {3502}{}{Um grupo de caçadores de recompensa.}
 {3503}{}{Um grupo de caçadores de recompensa.}
 {3504}{}{Um grupo de caçadores de recompensa.}
@@ -333,24 +333,24 @@
 {3508}{}{Um grupo de caçadores de recompensa.}
 {3509}{}{Um grupo de caçadores de recompensa.}
 {3510}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
-{3511}{}{Some silver geckos hiding amongst spore plants.}
-{3512}{}{Some geckos.}
-{3513}{}{Some radscorpions hiding amongst spore plants.}
-{3514}{}{Some spore plants.}
-{3515}{}{A family of radscorpions.}
+{3511}{}{Alguns geckos prateados escondidos entre as plantas esporos.}
+{3512}{}{Alguns geckos.}
+{3513}{}{Alguns radscorpions escondidos entre as plantas esporos.}
+{3514}{}{Algumas plantas de esporos.}
+{3515}{}{Uma familia de radscorpions.}
 {3516}{}{Um grupo de ratos toupeira.}
-{3517}{}{A group of holy people staving off a war party.}
-{3518}{}{A band of nomads.}
+{3517}{}{Um grupo de santos evitando um grupo de guerra.}
+{3518}{}{Um bando de nômades.}
 {3519}{}{Um homem guardando uma ponte.}
 {3520}{}{Os Cavaleiros do Rei Arthur lutando contra um rato.}
 {3521}{}{Um bando de foras da lei furiosos.}
-{3550}{}{Toxic waste dump}
+{3550}{}{Monte de lixo toxico}
 {3551}{}{Um solitário cachorro sobrevivente.}
 {3552}{}{Um rebanho de brahmins.}
-{3553}{}{A pack of golden geckos and a family of radscorpions.}
-{3554}{}{Some bandits.}
-{3555}{}{A group of homeless people.}
-{3556}{}{A pack of golden geckos.}
+{3553}{}{Um bando de geckos dourados e uma familia de radscorpions.}
+{3554}{}{Alguns bandidos.}
+{3555}{}{Um grupo de mendigos.}
+{3556}{}{Um bando de geckos dourados.}
 {3557}{}{Um grupo de caçadores de recompensa.}
 {3558}{}{Um grupo de caçadores de recompensa.}
 {3559}{}{Um grupo de caçadores de recompensa.}
@@ -360,34 +360,34 @@
 {3563}{}{Um grupo de caçadores de recompensa.}
 {3564}{}{Um grupo de caçadores de recompensa.}
 {3565}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
-{3566}{}{A family of radscorpions.}
-{3567}{}{Some spore plants.}
-{3568}{}{Some bandits attacked by some golden geckos.}
-{3569}{}{Some farmers defending against some geckos.}
-{3570}{}{Some farmers fending off some golden geckos.}
-{3571}{}{Some trappers battling some golden geckos.}
-{3572}{}{Some trappers fending off some bandits.}
-{3573}{}{A group of trappers subduing some geckos.}
-{3574}{}{Some bandits ambushing some homeless people.}
-{3575}{}{Some homeless people butchering some farmers.}
-{3576}{}{Some bandits attacking some farmers.}
-{3577}{}{Some farmers fending off some radscorpions.}
-{3578}{}{Some trappers fighting some radscorpions.}
-{3579}{}{Some trappers attacking some pig rats.}
-{3580}{}{Some farmers rooting out an infestation of pig rats.}
-{3581}{}{Some farmers.}
-{3582}{}{A group of trappers.}
+{3566}{}{Uma familia de radscorpions.}
+{3567}{}{Algumas plantas de esporos.}
+{3568}{}{Alguns bandidos atacados por alguns geckos dourados.}
+{3569}{}{Alguns fazendeiros se defendendo de alguns geckos.}
+{3570}{}{Alguns fazendeiros se defendendo de alguns geckos dourados.}
+{3571}{}{Alguns caçadores lutando contra alguns geckos dourados.}
+{3572}{}{Alguns caçadores afastando alguns bandidos.}
+{3573}{}{Um grupo de caçadores subjugando alguns geckos.}
+{3574}{}{Alguns bandidos emboscando alguns mendigos.}
+{3575}{}{Alguns mendigos massacrando alguns fazendeiros.}
+{3576}{}{Alguns bandidos atacando alguns fazendeiros.}
+{3577}{}{Alguns fazendeiros afastando alguns radscorpions.}
+{3578}{}{Alguns caçadores lutando contra alguns radscorpions.}
+{3579}{}{Alguns caçadores atacando alguns ratos toupeira.}
+{3580}{}{Alguns fazendeiros eliminando uma infestação de ratos toupeira.}
+{3581}{}{Alguns fazendeiros.}
+{3582}{}{Um grupo de caçadores.}
 {3583}{}{Os restos de uma baleia.}
 {3584}{}{Uma cabeça gigante de pedra.}
 {3585}{}{Uma nave acidentada.}
 {3586}{}{O Guardião do Portal.}
 {3587}{}{Cavaleiros do Rei Arthur.}
-{3588}{}{A tin woodsman}
+{3588}{}{O Homem de Lata.}
 {3589}{}{Aldeões cobertos de terra caçando carne.}
-{3600}{}{A pack of golden geckos and a family of radscorpions.}
-{3601}{}{Some bandits.}
-{3602}{}{A group of homeless people.}
-{3603}{}{A pack of golden geckos.}
+{3600}{}{Um bando de geckos dourados e uma familia de radscorpions.}
+{3601}{}{Alguns bandidos.}
+{3602}{}{Um grupo de mendigos.}
+{3603}{}{Um bando de geckos dourados.}
 {3604}{}{Um grupo de caçadores de recompensa.}
 {3605}{}{Um grupo de caçadores de recompensa.}
 {3606}{}{Um grupo de caçadores de recompensa.}
@@ -397,30 +397,30 @@
 {3610}{}{Um grupo de caçadores de recompensa.}
 {3611}{}{Um grupo de caçadores de recompensa.}
 {3612}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
-{3613}{}{A family of radscorpions.}
-{3614}{}{Some spore plants.}
-{3615}{}{Some bandits attacked by some golden geckos.}
-{3616}{}{Some farmers defending against some geckos.}
-{3617}{}{Some farmers fending off some golden geckos.}
-{3618}{}{Some trappers battling some golden geckos.}
-{3619}{}{Some trappers fending off some bandits.}
-{3620}{}{A group of trappers subduing some geckos.}
-{3621}{}{Some bandits ambushing some homeless people.}
-{3622}{}{Some homeless people butchering some farmers.}
-{3623}{}{Some bandits attacking some farmers.}
-{3624}{}{Some farmers fending off some radscorpions.}
-{3625}{}{Some trappers fighting some radscorpions.}
-{3626}{}{Some trappers attacking some pig rats.}
-{3627}{}{Some farmers rooting out an infestation of pig rats.}
-{3628}{}{Some farmers.}
-{3629}{}{A group of trappers.}
+{3613}{}{Uma familia de radscorpions.}
+{3614}{}{Algumas plantas de esporos.}
+{3615}{}{Alguns bandidos atacados por alguns geckos dourados.}
+{3616}{}{Alguns fazendeiros se defendendo de alguns geckos.}
+{3617}{}{Alguns fazendeiros se defendendo de alguns geckos dourados.}
+{3618}{}{Alguns caçadores lutando contra alguns geckos dourados.}
+{3619}{}{Alguns caçadores afastando alguns bandidos.}
+{3620}{}{Um grupo de caçadores subjugando alguns geckos.}
+{3621}{}{Alguns bandidos emboscando alguns mendigos.}
+{3622}{}{Alguns mendigos massacrando alguns fazendeiros.}
+{3623}{}{Alguns bandidos atacando alguns fazendeiros.}
+{3624}{}{Alguns fazendeiros afastando alguns radscorpions.}
+{3625}{}{Alguns caçadores lutando contra alguns radscorpions.}
+{3626}{}{Alguns caçadores atacando alguns ratos toupeira.}
+{3627}{}{Alguns fazendeiros eliminando uma infestação de ratos toupeira.}
+{3628}{}{Alguns fazendeiros.}
+{3629}{}{Um grupo de caçadores.}
 {3630}{}{Um homem guardando uma ponte.}
 {3631}{}{Os Cavaleiros do Rei Arthur lutando contra um rato.}
 {3632}{}{Um bando de foras da lei furiosos.}
 {3650}{}{Depósito de lixo tóxico.}
 {3651}{}{Um solitário cachorro sobrevivente.}
 {3652}{}{Um rebanho de brahmins.}
-{3653}{}{A merchant and some guards.}
+{3653}{}{Um comerciante e alguns guardas.}
 {3654}{}{Um grupo de caçadores de recompensa.}
 {3655}{}{Um grupo de caçadores de recompensa.}
 {3656}{}{Um grupo de caçadores de recompensa.}
@@ -430,33 +430,33 @@
 {3660}{}{Um grupo de caçadores de recompensa.}
 {3661}{}{Um grupo de caçadores de recompensa.}
 {3662}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
-{3663}{}{Some trappers.}
-{3664}{}{Some bandits attacking a merchant party.}
-{3665}{}{Some bandits ambushing some trappers.}
-{3666}{}{A family of radscorpions attacking a merchant party.}
-{3667}{}{Some trappers trying to catch radscorpions.}
+{3663}{}{Alguns Caçadores.}
+{3664}{}{Alguns bandidos atacando um grupo de mercadores.}
+{3665}{}{Alguns bandidos emboscando alguns caçadores.}
+{3666}{}{Uma família de radscorpions atacando um grupo de comerciantes.}
+{3667}{}{Alguns caçadores tentando pegar radscorpions.}
 {3668}{}{Um grupo de radscorpions.}
-{3669}{}{A family of molerats.}
-{3670}{}{Some bandits.}
-{3671}{}{A band of trappers trying to catch some golden geckos.}
-{3672}{}{Some radscorpions fighting some golden geckos.}
-{3673}{}{Some radscorpions attacking some molerats and pig rats.}
-{3674}{}{Some trappers and a merchant party fending off bandits.}
-{3675}{}{Some golden geckos.}
-{3676}{}{Some trappers fighting some molerats and pig rats.}
-{3677}{}{A merchant party fending off some molerats and pig rats.}
+{3669}{}{Uma familia de ratos toupeira.}
+{3670}{}{Alguns bandidos.}
+{3671}{}{Um bando de caçadores tentando pegar alguns geckos dourados.}
+{3672}{}{Alguns radscorpions lutando contra alguns geckos dourados.}
+{3673}{}{Alguns radscorpions atacando alguns ratos toureira.}
+{3674}{}{Alguns caçadores e um grupo de comerciantes afastando bandidos.}
+{3675}{}{Alguns geckos dourados.}
+{3676}{}{Alguns caçadores lutando contra alguns ratos toupeira.}
+{3677}{}{Um grupo de comerciantes afastando alguns ratos toupeira.}
 {3678}{}{Os restos de uma baleia.}
 {3679}{}{Uma cabeça gigante de pedra.}
 {3680}{}{Uma nave acidentada.}
 {3681}{}{O Guardião do Portal.}
 {3682}{}{Cavaleiros do Rei Arthur.}
-{3683}{}{Um lenhador de lata.}
+{3683}{}{O Homem de Lata.}
 {3684}{}{Aldeões cobertos de terra caçando carne.}
 {3685}{}{Um bando de foras da lei furiosos.}
 {3700}{}{Depósito de lixo tóxico.}
 {3701}{}{Um solitário cachorro sobrevivente.}
 {3702}{}{Um rebanho de brahmins.}
-{3703}{}{A band of highwaymen.}
+{3703}{}{Um bando de salteadores.}
 {3704}{}{Um grupo de caçadores de recompensa.}
 {3705}{}{Um grupo de caçadores de recompensa.}
 {3706}{}{Um grupo de caçadores de recompensa.}
@@ -466,11 +466,11 @@
 {3710}{}{Um grupo de caçadores de recompensa.}
 {3711}{}{Um grupo de caçadores de recompensa.}
 {3712}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
-{3713}{}{A band of robbers.}
-{3714}{}{A band of robbers and highwaymen.}
-{3715}{}{Some golden geckos and some radscorpions.}
-{3716}{}{A family of golden geckos.}
-{3717}{}{A family of molerats.}
+{3713}{}{Um bando de ladrões.}
+{3714}{}{Um bando de ladrões e salteadores.}
+{3715}{}{Alguns geckos dourados e alguns radscorpions.}
+{3716}{}{Uma família de geckos dourados.}
+{3717}{}{Uma familia de ratos toupeira.}
 {3718}{}{Um grande grupo de radscorpions.}
 {3719}{}{Uma grande infestação de plantas de esporos.}
 {3720}{}{Um bando de ladrões contestando um grupo de salteadores.}
@@ -484,12 +484,12 @@
 {3728}{}{Uma nave acidentada.}
 {3729}{}{O Guardião do Portal.}
 {3730}{}{Cavaleiros do Rei Arthur.}
-{3731}{}{Um lenhador de lata.}
+{3731}{}{O Homem de Lata.}
 {3732}{}{Aldeões cobertos de terra caçando carne.}
-{3750}{}{A band of highwaymen.}
-{3751}{}{A band of robbers.}
-{3752}{}{A band of robbers and highwaymen.}
-{3753}{}{Some golden geckos and some radscorpions.}
+{3750}{}{Um bando de salteadores.}
+{3751}{}{Um bando de ladrões.}
+{3752}{}{Um bando de ladrões e salteadores.}
+{3753}{}{Alguns geckos dourados e alguns radscorpions.}
 {3754}{}{Um grupo de caçadores de recompensa.}
 {3755}{}{Um grupo de caçadores de recompensa.}
 {3756}{}{Um grupo de caçadores de recompensa.}
@@ -499,8 +499,8 @@
 {3760}{}{Um grupo de caçadores de recompensa.}
 {3761}{}{Um grupo de caçadores de recompensa.}
 {3762}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
-{3763}{}{A family of golden geckos.}
-{3764}{}{A family of molerats.}
+{3763}{}{Uma família de geckos dourados.}
+{3764}{}{Uma familia de ratos toupeira.}
 {3765}{}{Um grande grupo de radscorpions.}
 {3766}{}{Uma grande infestação de plantas de esporos.}
 {3767}{}{Um bando de ladrões contestando um grupo de salteadores.}
@@ -525,7 +525,7 @@
 {3811}{}{Um grupo de caçadores de recompensa.}
 {3812}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
 {3813}{}{Um grupo de salteadores.}
-{3814}{}{A band of robbers.}
+{3814}{}{Um bando de ladrões.}
 {3815}{}{Alguns geckos dourados escondidas entre um grande número de plantas de esporos.}
 {3816}{}{Um bando de radscorpions e alguns ratos toupeiras.}
 {3817}{}{Um bando de radscorpions.}
@@ -541,11 +541,11 @@
 {3827}{}{Uma nave acidentada.}
 {3828}{}{O Guardião do Portal.}
 {3829}{}{Cavaleiros do Rei Arthur.}
-{3830}{}{Um lenhador de lata.}
+{3830}{}{O Homem de Lata.}
 {3831}{}{Aldeões cobertos de terra caçando carne.}
 {3850}{}{Um grupo de escravistas e escravos.}
 {3851}{}{Um grupo de salteadores.}
-{3852}{}{A band of robbers.}
+{3852}{}{Um bando de ladrões.}
 {3853}{}{Alguns geckos dourados escondidas entre um grande número de plantas de esporos.}
 {3854}{}{Um grupo de caçadores de recompensa.}
 {3855}{}{Um grupo de caçadores de recompensa.}
@@ -606,19 +606,19 @@
 {3966}{}{Alguns bandidos atacando alguns mendigos.}
 {3967}{}{Alguns destiladores e fazendeiros.}
 {3968}{}{Alguns louva-a-deus atacando alguns fazendeiros.}
-{3969}{}{Some moonshiners battling some farmers.}
-{3970}{}{Some brahmin fending off some mantis.}
-{3971}{}{Some mantis attacking some molerats.}
-{3972}{}{Some moonshiners.}
-{3973}{}{Some farmers.}
+{3969}{}{Alguns destiladores lutando contra alguns fazendeiros.}
+{3970}{}{Algum brahmins se defendendo de alguns louva-a-deus.}
+{3971}{}{Alguns louva-a-deus atacando alguns ratos toupeira.}
+{3972}{}{Alguns destiladores.}
+{3973}{}{Alguns fazendeiros.}
 {3974}{}{Um rebanho de brahmins.}
 {3975}{}{Um homem guardando uma ponte.}
 {3976}{}{Os Cavaleiros do Rei Arthur lutando contra um rato.}
 {3977}{}{Alguns bandidos furiosos.}
-{4000}{}{Some highwaymen tracking with wild dogs.}
-{4001}{}{Some robbers searching with wild dogs.}
-{4002}{}{A band of robbers.}
-{4003}{}{A band of highwaymen.}
+{4000}{}{Alguns salteadores rastreando com cães selvagens.}
+{4001}{}{Alguns ladrões procurando com cães selvagens.}
+{4002}{}{Um bando de ladrões.}
+{4003}{}{Um bando de salteadores.}
 {4004}{}{Um grupo de caçadores de recompensa.}
 {4005}{}{Um grupo de caçadores de recompensa.}
 {4006}{}{Um grupo de caçadores de recompensa.}
@@ -628,21 +628,21 @@
 {4010}{}{Um grupo de caçadores de recompensa.}
 {4011}{}{Um grupo de caçadores de recompensa.}
 {4012}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
-{4013}{}{A swarm of mantis infesting some spore plants.}
-{4014}{}{A pack of wild dogs amongst some spore plants.}
-{4015}{}{A swarm of mantis.}
-{4016}{}{A pack of wild dogs.}
-{4017}{}{Some robbers fending off some wild dogs.}
-{4018}{}{A caravan attacked by wild dogs.}
-{4019}{}{A caravan ambushed by robbers.}
-{4020}{}{A caravan ambushed by highwaymen.}
-{4021}{}{A caravan.}
+{4013}{}{Um enxame de louva-a-deus infestando algumas plantas esporos.}
+{4014}{}{Uma matilha de cães selvagens entre algumas plantas esporos.}
+{4015}{}{Um enxame de louva-a-deus.}
+{4016}{}{Uma matilha de cães selvagens.}
+{4017}{}{Alguns ladrões afastando alguns cães selvagens.}
+{4018}{}{Uma caravana atacada por cães selvagens.}
+{4019}{}{Uma caravana emboscada por ladrões.}
+{4020}{}{Uma caravana emboscada por salteadores.}
+{4021}{}{Uma caravana.}
 {4022}{}{Um homem guardando uma ponte.}
 {4023}{}{Os Cavaleiros do Rei Arthur lutando contra um rato.}
 {4050}{}{Depósito de lixo tóxico.}
 {4051}{}{Um solitário cachorro sobrevivente.}
 {4052}{}{Um rebanho de brahmins.}
-{4053}{}{Some highwaymen tracking with wild dogs.}
+{4053}{}{Alguns salteadores rastreando com cães selvagens.}
 {4054}{}{Um grupo de caçadores de recompensa.}
 {4055}{}{Um grupo de caçadores de recompensa.}
 {4056}{}{Um grupo de caçadores de recompensa.}
@@ -652,27 +652,27 @@
 {4060}{}{Um grupo de caçadores de recompensa.}
 {4061}{}{Um grupo de caçadores de recompensa.}
 {4062}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
-{4063}{}{Some robbers searching with wild dogs.}
-{4064}{}{A band of robbers.}
-{4065}{}{A band of highwaymen.}
-{4066}{}{A swarm of mantis infesting some spore plants.}
-{4067}{}{A pack of wild dogs amongst some spore plants.}
-{4068}{}{A swarm of mantis.}
-{4069}{}{A pack of wild dogs.}
-{4070}{}{Some robbers fending off some wild dogs.}
-{4071}{}{A caravan attacked by wild dogs.}
-{4072}{}{A caravan ambushed by robbers.}
-{4073}{}{A caravan ambushed by highwaymen.}
-{4074}{}{A caravan.}
+{4063}{}{Alguns ladrões procurando com cães selvagens.}
+{4064}{}{Um bando de ladrões.}
+{4065}{}{Um bando de salteadores.}
+{4066}{}{Um enxame de louva-a-deus infestando algumas plantas esporos.}
+{4067}{}{Uma matilha de cães selvagens entre algumas plantas esporos.}
+{4068}{}{Um enxame de louva-a-deus.}
+{4069}{}{Uma matilha de cães selvagens.}
+{4070}{}{Alguns ladrões afastando alguns cães selvagens.}
+{4071}{}{Uma caravana atacada por cães selvagens.}
+{4072}{}{Uma caravana emboscada por ladrões.}
+{4073}{}{Uma caravana emboscada por salteadores.}
+{4074}{}{Uma caravana.}
 {4075}{}{Os restos de uma baleia.}
 {4076}{}{Uma cabeça gigante de pedra.}
 {4077}{}{Uma nave acidentada.}
 {4078}{}{O Guardião do Portal.}
 {4079}{}{Cavaleiros do Rei Arthur.}
-{4080}{}{Um lenhador de lata.}
+{4080}{}{O Homem de Lata.}
 {4081}{}{Aldeões cobertos de terra caçando carne.}
-{4100}{}{Some golden geckos.}
-{4101}{}{A swarm of mantis.}
+{4100}{}{Alguns geckos dourados.}
+{4101}{}{Um enxame de louva-a-deus.}
 {4102}{}{Alguns radscorpions.}
 {4103}{}{Alguns brahmins selvagens.}
 {4104}{}{Um grupo de caçadores de recompensa.}
@@ -684,19 +684,19 @@
 {4110}{}{Um grupo de caçadores de recompensa.}
 {4111}{}{Um grupo de caçadores de recompensa.}
 {4112}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
-{4113}{}{A trader and guards fighting golden geckos.}
-{4114}{}{A swarm of mantis massacring a trading band.}
-{4115}{}{A swarm of mantis fighting wild brahmin.}
-{4116}{}{Some radscorpions feasting on mantis.}
-{4117}{}{Some radscorpions butchering some wild brahmin.}
-{4118}{}{A trader and guards.}
+{4113}{}{Um comerciante e guardas lutando contra geckos dourados.}
+{4114}{}{Um enxame de louva-a-deus massacrando um grupo de comerciantes.}
+{4115}{}{Um enxame de louva-a-deus lutando contra brahmins selvagens.}
+{4116}{}{Alguns radscorpions devorando alguns louva-a-deus.}
+{4117}{}{Alguns radscorpions massacrando alguns brahmins selvagens.}
+{4118}{}{Um comerciante e guardas.}
 {4119}{}{Um homem guardando uma ponte.}
 {4120}{}{Os Cavaleiros do Rei Arthur lutando contra um rato.}
 {4121}{}{Alguns bandidos furiosos.}
 {4150}{}{Depósito de lixo tóxico.}
 {4151}{}{Um solitário cachorro sobrevivente.}
 {4152}{}{Um rebanho de brahmins.}
-{4153}{}{Some golden geckos.}
+{4153}{}{Alguns geckos dourados.}
 {4154}{}{Um grupo de caçadores de recompensa.}
 {4155}{}{Um grupo de caçadores de recompensa.}
 {4156}{}{Um grupo de caçadores de recompensa.}
@@ -706,27 +706,27 @@
 {4160}{}{Um grupo de caçadores de recompensa.}
 {4161}{}{Um grupo de caçadores de recompensa.}
 {4162}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
-{4163}{}{A swarm of mantis.}
+{4163}{}{Um enxame de louva-a-deus.}
 {4164}{}{Alguns radscorpions.}
 {4165}{}{Alguns brahmins selvagens.}
-{4166}{}{A trader and guards fighting golden geckos.}
-{4167}{}{A swarm of mantis massacring a trading band.}
-{4168}{}{A swarm of mantis fighting wild brahmin.}
-{4169}{}{Some radscorpions feasting on mantis.}
-{4170}{}{Some radscorpions butchering some wild brahmin.}
-{4171}{}{A trader and guards.}
+{4166}{}{Um comerciante e guardas lutando contra geckos dourados.}
+{4167}{}{Um enxame de louva-a-deus massacrando um grupo de comerciantes.}
+{4168}{}{Um enxame de louva-a-deus lutando contra brahmins selvagens.}
+{4169}{}{Alguns radscorpions devorando alguns louva-a-deus.}
+{4170}{}{Alguns radscorpions massacrando alguns brahmins selvagens.}
+{4171}{}{Um comerciante e guardas.}
 {4172}{}{Os restos de uma baleia.}
 {4173}{}{Uma cabeça gigante de pedra.}
 {4174}{}{Uma nave acidentada.}
 {4175}{}{O Guardião do Portal.}
 {4176}{}{Cavaleiros do Rei Arthur.}
-{4177}{}{Um lenhador de lata.}
+{4177}{}{O Homem de Lata.}
 {4178}{}{Aldeões cobertos de terra caçando carne.}
 {4179}{}{Alguns bandidos furiosos.}
 {4200}{}{Depósito de lixo tóxico.}
 {4201}{}{Um solitário cachorro sobrevivente.}
 {4202}{}{Um rebanho de brahmins.}
-{4203}{}{Some mutated molerats.}
+{4203}{}{Alguns ratos toupeira mutantes.}
 {4204}{}{Um grupo de caçadores de recompensa.}
 {4205}{}{Um grupo de caçadores de recompensa.}
 {4206}{}{Um grupo de caçadores de recompensa.}
@@ -736,27 +736,27 @@
 {4210}{}{Um grupo de caçadores de recompensa.}
 {4211}{}{Um grupo de caçadores de recompensa.}
 {4212}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
-{4213}{}{Some mutated pig rats.}
-{4214}{}{Some spore plants.}
-{4215}{}{A hermit and some dogs fighting mutated molerats.}
-{4216}{}{A hermit fending off some wild dogs.}
-{4217}{}{A hermit fending off some mutated pig rats.}
-{4218}{}{A hermit with some dogs fighting mutated molerats.}
-{4219}{}{Some mutated molerats fighting some mutated pig rats.}
-{4220}{}{Some mutated molerats fighting some spore plants.}
-{4221}{}{Some mutated pig rats fighting some wild dogs.}
-{4222}{}{A hermit.}
+{4213}{}{Alguns ratos toupeira mutantes.}
+{4214}{}{Algumas plantas de esporos.}
+{4215}{}{Um eremita e alguns cães lutando contra ratos toupeira mutantes.}
+{4216}{}{Um eremita afastando alguns cães selvagens.}
+{4217}{}{Um eremita afastando alguns ratos toupeira mutantes.}
+{4218}{}{Um eremita com alguns cães lutando contra ratos toupeira mutantes.}
+{4219}{}{Alguns ratos toupeira mutantes lutando contra outros ratos toupeira mutantes.}
+{4220}{}{Alguns ratos toupeira mutantes lutando contra algumas plantas esporos.}
+{4221}{}{Alguns ratos toupeira mutantes lutando contra alguns cães selvagens.}
+{4222}{}{Um eremita.}
 {4223}{}{Os restos de uma baleia.}
 {4224}{}{Uma cabeça gigante de pedra.}
 {4225}{}{Uma nave acidentada.}
 {4226}{}{O Guardião do Portal.}
 {4227}{}{Cavaleiros do Rei Arthur.}
-{4228}{}{Um lenhador de lata.}
+{4228}{}{O Homem de Lata.}
 {4229}{}{Aldeões cobertos de terra caçando carne.}
-{4250}{}{Some mutated molerats.}
-{4251}{}{Some mutated pig rats.}
-{4252}{}{Some spore plants.}
-{4253}{}{A hermit and some dogs fighting mutated molerats.}
+{4250}{}{Alguns ratos toupeira mutantes.}
+{4251}{}{Alguns ratos toupeira mutantes.}
+{4252}{}{Algumas plantas de esporos.}
+{4253}{}{Um eremita e alguns cães lutando contra ratos toupeira mutantes.}
 {4254}{}{Um grupo de caçadores de recompensa.}
 {4255}{}{Um grupo de caçadores de recompensa.}
 {4256}{}{Um grupo de caçadores de recompensa.}
@@ -766,19 +766,19 @@
 {4260}{}{Um grupo de caçadores de recompensa.}
 {4261}{}{Um grupo de caçadores de recompensa.}
 {4262}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
-{4263}{}{A hermit fending off some wild dogs.}
-{4264}{}{A hermit fending off some mutated pig rats.}
-{4265}{}{A hermit with some dogs fighting mutated molerats.}
-{4266}{}{Some mutated molerats fighting some mutated pig rats.}
-{4267}{}{Some mutated molerats fighting some spore plants.}
-{4268}{}{Some mutated pig rats fighting some wild dogs.}
-{4269}{}{A hermit.}
+{4263}{}{Um eremita afastando alguns cães selvagens.}
+{4264}{}{Um eremita afastando alguns ratos toupeira mutantes.}
+{4265}{}{Um eremita com alguns cães lutando contra ratos toupeira mutantes.}
+{4266}{}{Alguns ratos toupeira mutantes lutando contra outros ratos toupeira mutantes.}
+{4267}{}{Alguns ratos toupeira mutantes lutando contra algumas plantas esporos.}
+{4268}{}{Alguns ratos toupeira mutantes lutando contra alguns cães selvagens.}
+{4269}{}{Um eremita.}
 {4270}{}{Um homem guardando uma ponte.}
 {4271}{}{Os Cavaleiros do Rei Arthur lutando contra um rato.}
-{4300}{}{A band of slavers and some dogs.}
-{4301}{}{A band of slavers.}
-{4302}{}{Some golden geckos.}
-{4303}{}{A pack of wild dogs.}
+{4300}{}{Um bando de escravistas e alguns cachorros.}
+{4301}{}{Um bando de escravistas.}
+{4302}{}{Alguns geckos dourados.}
+{4303}{}{Uma matilha de cães selvagens.}
 {4304}{}{Um grupo de caçadores de recompensa.}
 {4305}{}{Um grupo de caçadores de recompensa.}
 {4306}{}{Um grupo de caçadores de recompensa.}
@@ -788,18 +788,18 @@
 {4310}{}{Um grupo de caçadores de recompensa.}
 {4311}{}{Um grupo de caçadores de recompensa.}
 {4312}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
-{4313}{}{A patrol unit and dogs subduing slavers}
-{4314}{}{A band of slavers fending off some golden geckos.}
-{4315}{}{A patrol unit fighting some slavers.}
-{4316}{}{A patrol unit battling some golden geckos.}
-{4317}{}{A patrol unit fending off wild dogs.}
-{4318}{}{A patrol unit.}
+{4313}{}{Uma patrulha com cães subjugando escravistas.}
+{4314}{}{Um bando de escravistas afastando alguns geckos dourados.}
+{4315}{}{Uma patrulha lutando contra alguns escravistas.}
+{4316}{}{Uma patrulha lutando contra alguns geckos dourados.}
+{4317}{}{Uma patrulha afastando cães selvagens.}
+{4318}{}{Uma patrulha.}
 {4319}{}{Um homem guardando uma ponte.}
 {4320}{}{Os Cavaleiros do Rei Arthur lutando contra um rato.}
 {4350}{}{Depósito de lixo tóxico.}
 {4351}{}{Um solitário cachorro sobrevivente.}
 {4352}{}{Um rebanho de brahmins.}
-{4353}{}{A band of slavers and some dogs.}
+{4353}{}{Um bando de escravistas e alguns cachorros.}
 {4354}{}{Um grupo de caçadores de recompensa.}
 {4355}{}{Um grupo de caçadores de recompensa.}
 {4356}{}{Um grupo de caçadores de recompensa.}
@@ -809,26 +809,26 @@
 {4360}{}{Um grupo de caçadores de recompensa.}
 {4361}{}{Um grupo de caçadores de recompensa.}
 {4362}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
-{4363}{}{A band of slavers.}
-{4364}{}{Some golden geckos.}
-{4365}{}{A pack of wild dogs.}
-{4366}{}{A patrol unit and dogs subduing slavers}
-{4367}{}{A band of slavers fending off some golden geckos.}
-{4368}{}{A patrol unit fighting some slavers.}
-{4369}{}{A patrol unit battling some golden geckos.}
-{4370}{}{A patrol unit fending off wild dogs.}
-{4371}{}{A patrol unit.}
+{4363}{}{Um bando de escravistas.}
+{4364}{}{Alguns geckos dourados.}
+{4365}{}{Uma matilha de cães selvagens.}
+{4366}{}{Uma patrulha com cães subjugando escravistas.}
+{4367}{}{Um bando de escravistas afastando alguns geckos dourados.}
+{4368}{}{Uma patrulha lutando contra alguns escravistas.}
+{4369}{}{Uma patrulha lutando contra alguns geckos dourados.}
+{4370}{}{Uma patrulha afastando cães selvagens.}
+{4371}{}{Uma patrulha.}
 {4372}{}{Os restos de uma baleia.}
 {4373}{}{Uma cabeça gigante de pedra.}
 {4374}{}{Uma nave acidentada.}
 {4375}{}{O Guardião do Portal.}
 {4376}{}{Cavaleiros do Rei Arthur.}
-{4377}{}{Um lenhador de lata.}
+{4377}{}{O Homem de Lata.}
 {4378}{}{Aldeões cobertos de terra caçando carne.}
-{4400}{}{A slew of scavengers.}
-{4401}{}{Some ghoul scavengers.}
-{4402}{}{A bunch of crazies.}
-{4403}{}{Some ghoul crazies.}
+{4400}{}{Um monte de catadores.}
+{4401}{}{Alguns ghouls catadores.}
+{4402}{}{um bando de loucos.}
+{4403}{}{Alguns ghouls loucos. }
 {4404}{}{Um grupo de caçadores de recompensa.}
 {4405}{}{Um grupo de caçadores de recompensa.}
 {4406}{}{Um grupo de caçadores de recompensa.}
@@ -838,21 +838,21 @@
 {4410}{}{Um grupo de caçadores de recompensa.}
 {4411}{}{Um grupo de caçadores de recompensa.}
 {4412}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
-{4413}{}{Some geckos.}
-{4414}{}{A pack of wild dogs.}
-{4415}{}{A family of radscorpions.}
-{4416}{}{A bunch of mutated pig rats.}
-{4417}{}{A pack of mutated rats.}
-{4418}{}{Some scavengers battling a bunch of crazies.}
-{4419}{}{Some ghoul scavengers fending off some crazies.}
-{4420}{}{Some geckos fighting some crazies.}
-{4421}{}{Some mutated rats infesting some ghoul scavengers.}
+{4413}{}{Alguns geckos.}
+{4414}{}{Uma matilha de cães selvagens.}
+{4415}{}{Uma familia de radscorpions.}
+{4416}{}{Um monte de ratos toupeira mutantes.}
+{4417}{}{Um monte de ratos mutantes.}
+{4418}{}{Alguns catadores lutando contra um bando de malucos.}
+{4419}{}{Alguns ghouls catadores afastando alguns malucos.}
+{4420}{}{Algumas geckos lutando contra alguns malucos.}
+{4421}{}{Alguns ratos mutantes infestando alguns ghouls catadores.}
 {4422}{}{Um homem guardando uma ponte.}
 {4423}{}{Os Cavaleiros do Rei Arthur lutando contra um rato.}
 {4450}{}{Depósito de lixo tóxico.}
 {4451}{}{Um solitário cachorro sobrevivente.}
 {4452}{}{Um rebanho de brahmins.}
-{4453}{}{A slew of scavengers.}
+{4453}{}{Um monte de catadores.}
 {4454}{}{Um grupo de caçadores de recompensa.}
 {4455}{}{Um grupo de caçadores de recompensa.}
 {4456}{}{Um grupo de caçadores de recompensa.}
@@ -862,24 +862,24 @@
 {4460}{}{Um grupo de caçadores de recompensa.}
 {4461}{}{Um grupo de caçadores de recompensa.}
 {4462}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
-{4463}{}{Some ghoul scavengers.}
-{4464}{}{A bunch of crazies.}
-{4465}{}{Some ghoul crazies.}
-{4466}{}{Some geckos.}
-{4467}{}{A pack of wild dogs.}
-{4468}{}{A family of radscorpions.}
-{4469}{}{A bunch of mutated pig rats.}
-{4470}{}{A pack of mutated rats.}
-{4471}{}{Some scavengers battling a bunch of crazies.}
-{4472}{}{Some ghoul scavengers fending off some crazies}
-{4473}{}{Some geckos fighting some crazies.}
-{4474}{}{Some mutated rats infesting some ghoul scavengers.}
+{4463}{}{Alguns ghouls catadores.}
+{4464}{}{um bando de loucos.}
+{4465}{}{Alguns ghouls loucos. }
+{4466}{}{Alguns geckos.}
+{4467}{}{Uma matilha de cães selvagens.}
+{4468}{}{Uma familia de radscorpions.}
+{4469}{}{Um monte de ratos toupeira mutantes.}
+{4470}{}{Um monte de ratos mutantes.}
+{4471}{}{Alguns catadores lutando contra um bando de malucos.}
+{4472}{}{Alguns ghouls catadores afastando alguns malucos}
+{4473}{}{Algumas geckos lutando contra alguns malucos.}
+{4474}{}{Alguns ratos mutantes infestando alguns ghouls catadores.}
 {4475}{}{Os restos de uma baleia.}
 {4476}{}{Uma cabeça gigante de pedra.}
 {4477}{}{Uma nave acidentada.}
 {4478}{}{O Guardião do Portal.}
 {4479}{}{Cavaleiros do Rei Arthur.}
-{4480}{}{Um lenhador de lata.}
+{4480}{}{O Homem de Lata.}
 {4481}{}{Aldeões cobertos de terra caçando carne.}
 {4500}{}{Alguns canibais.}
 {4501}{}{Alguns selvagens.}
@@ -894,7 +894,7 @@
 {4510}{}{Um grupo de caçadores de recompensa.}
 {4511}{}{Um grupo de caçadores de recompensa.}
 {4512}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
-{4513}{}{A family of radscorpions.}
+{4513}{}{Uma familia de radscorpions.}
 {4514}{}{Alguns ratos toupeira.}
 {4515}{}{Alguns pescadores se defendendo de alguns canibais.}
 {4516}{}{Alguns canibais lutando contra alguns selvagens.}
@@ -918,20 +918,20 @@
 {4565}{}{Um grupo de guerra.}
 {4566}{}{Alguns geckos escondidos em algumas plantas de esporos.}
 {4567}{}{Alguns geckos e alguns radscorpions.}
-{4568}{}{Some geckos.}
+{4568}{}{Alguns geckos.}
 {4569}{}{Alguns radscorpions escondidos em algumas plantas de esporos.}
 {4570}{}{Alguns radscorpions.}
 {4571}{}{Alguns geckos atacando alguns foras da lei.}
 {4572}{}{Alguns geckos lutando contra alguns selvagens.}
 {4573}{}{Alguns radscorpions lutando contra alguns canibais.}
 {4574}{}{Alguns radscorpions atacando um eremita.}
-{4575}{}{A hermit.}
+{4575}{}{Um eremita.}
 {4576}{}{Os restos de uma baleia.}
 {4577}{}{Uma cabeça gigante de pedra.}
 {4578}{}{Uma nave acidentada.}
 {4579}{}{O Guardião do Portal.}
 {4580}{}{Cavaleiros do Rei Arthur.}
-{4581}{}{Um lenhador de lata.}
+{4581}{}{O Homem de Lata.}
 {4582}{}{Aldeões cobertos de terra caçando carne.}
 {4600}{}{Alguns canibais.}
 {4601}{}{Alguns foras da lei.}
@@ -948,14 +948,14 @@
 {4612}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
 {4613}{}{Alguns geckos escondidos em algumas plantas de esporos.}
 {4614}{}{Alguns geckos e alguns radscorpions.}
-{4615}{}{Some geckos.}
+{4615}{}{Alguns geckos.}
 {4616}{}{Alguns radscorpions escondidos em algumas plantas de esporos.}
 {4617}{}{Alguns radscorpions.}
 {4618}{}{Alguns geckos atacando alguns foras da lei.}
 {4619}{}{Alguns geckos lutando contra alguns selvagens.}
 {4620}{}{Alguns radscorpions lutando contra alguns canibais.}
 {4621}{}{Alguns radscorpions atacando um eremita.}
-{4622}{}{A hermit.}
+{4622}{}{Um eremita.}
 {4623}{}{Um homem guardando uma ponte.}
 {4624}{}{Os Cavaleiros do Rei Arthur lutando contra um rato.}
 {4650}{}{Depósito de lixo tóxico.}
@@ -987,7 +987,7 @@
 {4676}{}{Uma nave acidentada.}
 {4677}{}{O Guardião do Portal.}
 {4678}{}{Cavaleiros do Rei Arthur.}
-{4679}{}{Um lenhador de lata.}
+{4679}{}{O Homem de Lata.}
 {4680}{}{Aldeões cobertos de terra caçando carne.}
 {4700}{}{Uma caravana de Den.}
 {4701}{}{Alguns salteadores e assaltantes.}
@@ -1027,26 +1027,26 @@
 {4762}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
 {4763}{}{Alguns invasores.}
 {4764}{}{Alguns lobos.}
-{4765}{}{Some golden geckos.}
+{4765}{}{Alguns geckos dourados.}
 {4766}{}{Alguns garimpeiros lutando contra alguns salteadores.}
 {4767}{}{Alguns caçadores lutando contra alguns geckos dourados.}
 {4768}{}{Alguns contrabandistas lutando contra alguns lobos.}
 {4769}{}{Alguns colonos lutando contra alguns salteadores.}
 {4770}{}{Alguns colonos afastando alguns lobos.}
 {4771}{}{Alguns contrabandistas.}
-{4772}{}{Some trappers.}
+{4772}{}{Alguns Caçadores.}
 {4773}{}{Alguns garimpeiros.}
 {4774}{}{Os restos de uma baleia.}
 {4775}{}{Uma cabeça gigante de pedra.}
 {4776}{}{Uma nave acidentada.}
 {4777}{}{O Guardião do Portal.}
 {4778}{}{Cavaleiros do Rei Arthur.}
-{4779}{}{Um lenhador de lata.}
+{4779}{}{O Homem de Lata.}
 {4780}{}{Aldeões cobertos de terra caçando carne.}
 {4800}{}{Alguns geckos dourados e alguns lobos.}
 {4801}{}{Alguns invasores.}
 {4802}{}{Alguns lobos.}
-{4803}{}{Some golden geckos.}
+{4803}{}{Alguns geckos dourados.}
 {4804}{}{Um grupo de caçadores de recompensa.}
 {4805}{}{Um grupo de caçadores de recompensa.}
 {4806}{}{Um grupo de caçadores de recompensa.}
@@ -1062,14 +1062,14 @@
 {4816}{}{Alguns colonos lutando contra alguns salteadores.}
 {4817}{}{Alguns colonos afastando alguns lobos.}
 {4818}{}{Alguns contrabandistas.}
-{4819}{}{Some trappers.}
+{4819}{}{Alguns Caçadores.}
 {4820}{}{Alguns garimpeiros.}
 {4821}{}{Um homem guardando uma ponte.}
 {4822}{}{Os Cavaleiros do Rei Arthur lutando contra um rato.}
 {4850}{}{Uma matilha de lobos e alguns ratos toupeira.}
 {4851}{}{Alguns radscorpions e alguns lobos.}
 {4852}{}{Alguns ratos toupeira mutantes e alguns radscorpions.}
-{4853}{}{A pack of golden geckos.}
+{4853}{}{Um bando de geckos dourados.}
 {4854}{}{Um grupo de caçadores de recompensa.}
 {4855}{}{Um grupo de caçadores de recompensa.}
 {4856}{}{Um grupo de caçadores de recompensa.}
@@ -1102,10 +1102,10 @@
 {4912}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
 {4913}{}{Uma caravana afastando alguns invasores.}
 {4914}{}{Uma caravana afastando alguns invasores.}
-{4915}{}{A caravan.}
-{4916}{}{A caravan.}
-{4917}{}{A caravan.}
-{4918}{}{A caravan.}
+{4915}{}{Uma caravana.}
+{4916}{}{Uma caravana.}
+{4917}{}{Uma caravana.}
+{4918}{}{Uma caravana.}
 {4919}{}{Um homem guardando uma ponte.}
 {4920}{}{Os Cavaleiros do Rei Arthur lutando contra um rato.}
 {4921}{}{Um bando de saqueadores furiosos.}
@@ -1127,16 +1127,16 @@
 {4965}{}{Uma caravana afastando alguns invasores.}
 {4966}{}{Uma caravana afastando alguns invasores.}
 {4967}{}{Uma caravana afastando alguns invasores.}
-{4968}{}{A caravan.}
-{4969}{}{A caravan.}
-{4970}{}{A caravan.}
-{4971}{}{A caravan.}
+{4968}{}{Uma caravana.}
+{4969}{}{Uma caravana.}
+{4970}{}{Uma caravana.}
+{4971}{}{Uma caravana.}
 {4972}{}{Os restos de uma baleia.}
 {4973}{}{Uma cabeça gigante de pedra.}
 {4974}{}{Uma nave acidentada.}
 {4975}{}{O Guardião do Portal.}
 {4976}{}{Cavaleiros do Rei Arthur.}
-{4977}{}{Um lenhador de lata.}
+{4977}{}{O Homem de Lata.}
 {4978}{}{Aldeões cobertos de terra caçando carne.}
 {4979}{}{Um bando de saqueadores furiosos.}
 {5000}{}{Um bando de invasores guiando alguns lobos.}
@@ -1180,7 +1180,7 @@
 {5070}{}{Uma nave acidentada.}
 {5071}{}{O Guardião do Portal.}
 {5072}{}{Cavaleiros do Rei Arthur.}
-{5073}{}{Um lenhador de lata.}
+{5073}{}{O Homem de Lata.}
 {5074}{}{Aldeões cobertos de terra caçando carne.}
 {5075}{}{Um bando de saqueadores furiosos.}
 {5100}{}{Depósito de lixo tóxico.}
@@ -1201,7 +1201,7 @@
 {5115}{}{Uma nave acidentada.}
 {5116}{}{O Guardião do Portal.}
 {5117}{}{Cavaleiros do Rei Arthur.}
-{5118}{}{Um lenhador de lata.}
+{5118}{}{O Homem de Lata.}
 {5119}{}{Aldeões cobertos de terra caçando carne.}
 {5120}{}{Cafe of Broken Dreams.}
 {5150}{}{Uma patrulha da Enclave.}
@@ -1252,7 +1252,7 @@
 {5273}{}{Uma nave acidentada.}
 {5274}{}{O Guardião do Portal.}
 {5275}{}{Cavaleiros do Rei Arthur.}
-{5276}{}{Um lenhador de lata.}
+{5276}{}{O Homem de Lata.}
 {5277}{}{Aldeões cobertos de terra caçando carne.}
 {5278}{}{Cafe of Broken Dreams.}
 {5279}{}{Uma reunião de indivíduos com aparência importante.}
@@ -1316,7 +1316,7 @@
 {5417}{}{Uma nave acidentada.}
 {5418}{}{O Guardião do Portal.}
 {5419}{}{Cavaleiros do Rei Arthur.}
-{5420}{}{Um lenhador de lata.}
+{5420}{}{O Homem de Lata.}
 {5421}{}{Aldeões cobertos de terra caçando carne.}
 {5422}{}{Cafe of Broken Dreams.}
 {5423}{}{Uma reunião de indivíduos com aparência importante.}
@@ -1366,16 +1366,16 @@
 {5565}{}{Uma caravana de defendendo de deathclaws.}
 {5566}{}{Uma caravana se defendendo de geckos de fogo.}
 {5567}{}{Uma caravana se defendendo de geckos de fogo.}
-{5568}{}{A caravan.}
-{5569}{}{A caravan.}
-{5570}{}{A caravan.}
-{5571}{}{A caravan.}
+{5568}{}{Uma caravana.}
+{5569}{}{Uma caravana.}
+{5570}{}{Uma caravana.}
+{5571}{}{Uma caravana.}
 {5572}{}{Os restos de uma baleia.}
 {5573}{}{Uma cabeça gigante de pedra.}
 {5574}{}{Uma nave acidentada.}
 {5575}{}{O Guardião do Portal.}
 {5576}{}{Cavaleiros do Rei Arthur.}
-{5577}{}{Um lenhador de lata.}
+{5577}{}{O Homem de Lata.}
 {5578}{}{Aldeões cobertos de terra caçando carne.}
 {5600}{}{Um grupo de deathclaws.}
 {5601}{}{Um grupo de geckos de fogo.}
@@ -1392,10 +1392,10 @@
 {5612}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
 {5613}{}{Uma caravana se defendendo de geckos de fogo.}
 {5614}{}{Uma caravana se defendendo de geckos de fogo.}
-{5615}{}{A caravan.}
-{5616}{}{A caravan.}
-{5617}{}{A caravan.}
-{5618}{}{A caravan.}
+{5615}{}{Uma caravana.}
+{5616}{}{Uma caravana.}
+{5617}{}{Uma caravana.}
+{5618}{}{Uma caravana.}
 {5619}{}{Um homem guardando uma ponte.}
 {5620}{}{Os Cavaleiros do Rei Arthur lutando contra um rato.}
 {5650}{}{Depósito de lixo tóxico.}
@@ -1422,7 +1422,7 @@
 {5671}{}{Uma nave acidentada.}
 {5672}{}{O Guardião do Portal.}
 {5673}{}{Cavaleiros do Rei Arthur.}
-{5674}{}{Um lenhador de lata.}
+{5674}{}{O Homem de Lata.}
 {5675}{}{Aldeões cobertos de terra caçando carne.}
 {5676}{}{Cafe of Broken Dreams.}
 {5700}{}{Alguns da Yakuza.}
@@ -1484,7 +1484,7 @@
 {5822}{}{Uma nave acidentada.}
 {5823}{}{O Guardião do Portal.}
 {5824}{}{Cavaleiros do Rei Arthur.}
-{5825}{}{Um lenhador de lata.}
+{5825}{}{O Homem de Lata.}
 {5826}{}{Aldeões cobertos de terra caçando carne.}
 {5850}{}{Um bando de bandidos e alguns lobos.}
 {5851}{}{Um bando de bandidos.}
@@ -1589,7 +1589,7 @@
 {6072}{}{Uma nave acidentada.}
 {6073}{}{O Guardião do Portal.}
 {6074}{}{Cavaleiros do Rei Arthur.}
-{6075}{}{Um lenhador de lata.}
+{6075}{}{O Homem de Lata.}
 {6076}{}{Aldeões cobertos de terra caçando carne.}
 {6077}{}{Cafe of Broken Dreams.}
 {6078}{}{Um bando de mercenários furiosos.}
@@ -1614,14 +1614,14 @@
 {6117}{}{Uma caravana se defendendo contra mercenarios.}
 {6118}{}{Uma caravana se defendendo de geckos de fogo.}
 {6119}{}{Uma caravana se defendendo contra aliens.}
-{6120}{}{A caravan.}
-{6121}{}{A caravan.}
+{6120}{}{Uma caravana.}
+{6121}{}{Uma caravana.}
 {6122}{}{Os restos de uma baleia.}
 {6123}{}{Uma cabeça gigante de pedra.}
 {6124}{}{Uma nave acidentada.}
 {6125}{}{O Guardião do Portal.}
 {6126}{}{Cavaleiros do Rei Arthur.}
-{6127}{}{Um lenhador de lata.}
+{6127}{}{O Homem de Lata.}
 {6128}{}{Aldeões cobertos de terra caçando carne.}
 {6129}{}{Cafe of Broken Dreams.}
 {6130}{}{Um bando de mercenários furiosos.}
@@ -1642,8 +1642,8 @@
 {6164}{}{Uma caravana se defendendo contra mercenarios.}
 {6165}{}{Uma caravana se defendendo de geckos de fogo.}
 {6166}{}{Uma caravana se defendendo contra aliens.}
-{6167}{}{A caravan.}
-{6168}{}{A caravan.}
+{6167}{}{Uma caravana.}
+{6168}{}{Uma caravana.}
 {6169}{}{Um bando de mercenários furiosos.}
 {6200}{}{Depósito de lixo tóxico.}
 {6201}{}{Um solitário cachorro sobrevivente.}
@@ -1660,19 +1660,19 @@
 {6212}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
 {6213}{}{Remanescentes do exército do Mestre.}
 {6214}{}{Um grupo de deathclaws.}
-{6215}{}{A swarm of mantis.}
+{6215}{}{Um enxame de louva-a-deus.}
 {6216}{}{Os restos de uma baleia.}
 {6217}{}{Uma cabeça gigante de pedra.}
 {6218}{}{Uma nave acidentada.}
 {6219}{}{O Guardião do Portal.}
 {6220}{}{Cavaleiros do Rei Arthur.}
-{6221}{}{Um lenhador de lata.}
+{6221}{}{O Homem de Lata.}
 {6222}{}{Aldeões cobertos de terra caçando carne.}
 {6223}{}{Cafe of Broken Dreams.}
 {6250}{}{Uma patrulha da Enclave.}
 {6251}{}{Remanescentes do exército do Mestre.}
 {6252}{}{Um grupo de deathclaws.}
-{6253}{}{A swarm of mantis.}
+{6253}{}{Um enxame de louva-a-deus.}
 {6254}{}{Um grupo de caçadores de recompensa.}
 {6255}{}{Um grupo de caçadores de recompensa.}
 {6256}{}{Um grupo de caçadores de recompensa.}
@@ -1699,21 +1699,21 @@
 {6312}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
 {6313}{}{Uma caravana se defendendo dos remanescentes do exercito do Mestre.}
 {6314}{}{Uma caravana se defendendo dos deathclaws.}
-{6315}{}{A caravan.}
-{6316}{}{A caravan.}
-{6317}{}{A caravan.}
+{6315}{}{Uma caravana.}
+{6316}{}{Uma caravana.}
+{6317}{}{Uma caravana.}
 {6318}{}{Os restos de uma baleia.}
 {6319}{}{Uma cabeça gigante de pedra.}
 {6320}{}{Uma nave acidentada.}
 {6321}{}{O Guardião do Portal.}
 {6322}{}{Cavaleiros do Rei Arthur.}
-{6323}{}{Um lenhador de lata.}
+{6323}{}{O Homem de Lata.}
 {6324}{}{Aldeões cobertos de terra caçando carne.}
 {6325}{}{Cafe of Broken Dreams.}
 {6350}{}{Uma caravana se defendendo dos remanescentes do exercito do Mestre.}
 {6351}{}{Uma caravana se defendendo dos remanescentes do exercito do Mestre.}
 {6352}{}{Uma caravana se defendendo dos deathclaws.}
-{6353}{}{A caravan.}
+{6353}{}{Uma caravana.}
 {6354}{}{Um grupo de caçadores de recompensa.}
 {6355}{}{Um grupo de caçadores de recompensa.}
 {6356}{}{Um grupo de caçadores de recompensa.}
@@ -1723,13 +1723,13 @@
 {6360}{}{Um grupo de caçadores de recompensa.}
 {6361}{}{Um grupo de caçadores de recompensa.}
 {6362}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
-{6363}{}{A caravan.}
-{6364}{}{A caravan.}
+{6363}{}{Uma caravana.}
+{6364}{}{Uma caravana.}
 {6365}{}{Um homem guardando uma ponte.}
 {6366}{}{Os Cavaleiros do Rei Arthur lutando contra um rato.}
 {6400}{}{Uma matilha de lobos.}
-{6401}{}{A swarm of mantis.}
-{6402}{}{A family of radscorpions.}
+{6401}{}{Um enxame de louva-a-deus.}
+{6402}{}{Uma familia de radscorpions.}
 {6403}{}{Um grupo de caçadores de recompensa.}
 {6404}{}{Um grupo de caçadores de recompensa.}
 {6405}{}{Um grupo de caçadores de recompensa.}
@@ -1754,14 +1754,14 @@
 {6460}{}{Um grupo de caçadores de recompensa.}
 {6461}{}{Um grupo de caçadores de recompensa.}
 {6462}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
-{6463}{}{A swarm of mantis.}
-{6464}{}{A family of radscorpions.}
+{6463}{}{Um enxame de louva-a-deus.}
+{6464}{}{Uma familia de radscorpions.}
 {6465}{}{Os restos de uma baleia.}
 {6466}{}{Uma cabeça gigante de pedra.}
 {6467}{}{Uma nave acidentada.}
 {6468}{}{O Guardião do Portal.}
 {6469}{}{Cavaleiros do Rei Arthur.}
-{6470}{}{Um lenhador de lata.}
+{6470}{}{O Homem de Lata.}
 {6471}{}{Aldeões cobertos de terra caçando carne.}
 {6472}{}{Cafe of Broken Dreams.}
 {6500}{}{Depósito de lixo tóxico.}
@@ -1783,17 +1783,17 @@
 {6516}{}{Uma caravana se defendendo de saqueadores.}
 {6517}{}{Uma caravana se defendendo de lobos.}
 {6518}{}{Uma caravana se defendendo de radscorpions.}
-{6519}{}{A caravan.}
-{6520}{}{A caravan.}
-{6521}{}{A caravan.}
-{6522}{}{A caravan.}
+{6519}{}{Uma caravana.}
+{6520}{}{Uma caravana.}
+{6521}{}{Uma caravana.}
+{6522}{}{Uma caravana.}
 {6523}{}{Um viajante.}
 {6524}{}{Os restos de uma baleia.}
 {6525}{}{Uma cabeça gigante de pedra.}
 {6526}{}{Uma nave acidentada.}
 {6527}{}{O Guardião do Portal.}
 {6528}{}{Cavaleiros do Rei Arthur.}
-{6529}{}{Um lenhador de lata.}
+{6529}{}{O Homem de Lata.}
 {6530}{}{Aldeões cobertos de terra caçando carne.}
 {6531}{}{Cafe of Broken Dreams.}
 {6532}{}{Um bando de saqueadores com raiva.}
@@ -1813,10 +1813,10 @@
 {6563}{}{Uma caravana se defendendo de saqueadores.}
 {6564}{}{Uma caravana se defendendo de lobos.}
 {6565}{}{Uma caravana se defendendo de radscorpions.}
-{6566}{}{A caravan.}
-{6567}{}{A caravan.}
-{6568}{}{A caravan.}
-{6569}{}{A caravan.}
+{6566}{}{Uma caravana.}
+{6567}{}{Uma caravana.}
+{6568}{}{Uma caravana.}
+{6569}{}{Uma caravana.}
 {6570}{}{Um viajante.}
 {6571}{}{Um homem guardando uma ponte.}
 {6572}{}{Os Cavaleiros do Rei Arthur lutando contra um rato.}
@@ -1837,7 +1837,7 @@
 {6613}{}{Alguns fazendeiros se defendendo contra uma parte do exercito do Mestre.}
 {6614}{}{Alguns fazendeiros se defendendo de saqueadores.}
 {6615}{}{Um destacamento de rangers da NCR.}
-{6616}{}{Some farmers.}
+{6616}{}{Alguns fazendeiros.}
 {6617}{}{Um homem guardando uma ponte.}
 {6618}{}{Os Cavaleiros do Rei Arthur lutando contra um rato.}
 {6619}{}{Um bando de saqueadores com raiva.}
@@ -1860,19 +1860,19 @@
 {6666}{}{Alguns fazendeiros se defendendo contra uma parte do exercito do Mestre.}
 {6667}{}{Alguns fazendeiros se defendendo de saqueadores.}
 {6668}{}{Um destacamento de rangers da NCR.}
-{6669}{}{Some farmers.}
+{6669}{}{Alguns fazendeiros.}
 {6670}{}{Os restos de uma baleia.}
 {6671}{}{Uma cabeça gigante de pedra.}
 {6672}{}{Uma nave acidentada.}
 {6673}{}{O Guardião do Portal.}
 {6674}{}{Cavaleiros do Rei Arthur.}
-{6675}{}{Um lenhador de lata.}
+{6675}{}{O Homem de Lata.}
 {6676}{}{Aldeões cobertos de terra caçando carne.}
 {6677}{}{Cafe of Broken Dreams.}
 {6678}{}{Um bando de saqueadores com raiva.}
 {6700}{}{Remanescentes do exercito do Mestre lutando contra ratos toupeira mutantes.}
 {6701}{}{Remanescentes do exército do Mestre.}
-{6702}{}{A swarm of mantis.}
+{6702}{}{Um enxame de louva-a-deus.}
 {6703}{}{Um bando de ratos toupeira mutantes.}
 {6704}{}{Um grupo de caçadores de recompensa.}
 {6705}{}{Um grupo de caçadores de recompensa.}
@@ -1900,7 +1900,7 @@
 {6761}{}{Um grupo de caçadores de recompensa.}
 {6762}{}{Um bando de gigolôs liderados por um dos irmãos Morton.}
 {6763}{}{Remanescentes do exército do Mestre.}
-{6764}{}{A swarm of mantis.}
+{6764}{}{Um enxame de louva-a-deus.}
 {6765}{}{Um bando de ratos toupeira mutantes.}
 {6766}{}{Um bando de radscorpions.}
 {6767}{}{Os restos de uma baleia.}
@@ -1908,6 +1908,6 @@
 {6769}{}{Uma nave acidentada.}
 {6770}{}{O Guardião do Portal.}
 {6771}{}{Cavaleiros do Rei Arthur.}
-{6772}{}{Um lenhador de lata.}
+{6772}{}{O Homem de Lata.}
 {6773}{}{Aldeões cobertos de terra caçando carne.}
 {6774}{}{Cafe of Broken Dreams.}

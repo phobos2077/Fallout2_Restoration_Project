@@ -2920,7 +2920,7 @@
 {193500}{}{Poço do elevador}
 {193501}{}{O buraco tem uma corda pendurada na porta.}
 {193600}{}{Poço do elevador}
-{193601}{}{The shaft has a broken elevator and rope.}
+{193601}{}{O poço tem um elevador e uma corda quebrados.}
 {193700}{}{Poço do elevador}
 {193701}{}{O poço esta sem o Elevador. Muito Perigoso!}
 {193800}{}{Canos}

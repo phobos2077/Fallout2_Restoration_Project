@@ -98,7 +98,7 @@
 {198}{}{Anatomia Vital}
 {199}{}{Personalidade Magnetica}
 {200}{}{Negociador}
-{201}{}{Pack Rat}
+{201}{}{Acumulador}
 {202}{}{Piromaniaco}
 {203}{}{Recuperaçao Rapida}
 {204}{}{Vendedor}

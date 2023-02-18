@@ -647,4 +647,4 @@
 {1557}{}{Comerciante}
 {1558}{}{Submarino Shi}
 {1559}{}{Casa Abandonada}
-{1560}{}{Gecko Enclave Patrol}
+{1560}{}{Patrulha da Enclave de Gecko}
