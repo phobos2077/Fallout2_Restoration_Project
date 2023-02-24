@@ -77,7 +77,7 @@
 {176}{}{Water Chips, a hundred or so. I don't know why they sent so many... we have never needed to replace ours. We have had the same water chip since the day our people lived underground in the Vault.}
 {177}{}{What happened to the GECK that broke down?}
 {178}{}{Posso te fazer outra pergunta?}
-{179}{}{Interesting. Thanks for your time.}
+{179}{}{Interessante. Obrigado pelo seu tempo.}
 {180}{}{The irony is razor sharp. Maybe we'll talk later after I stop the bleeding.}
 {181}{}{It was disassembled, and its parts were used for other applications.}
 {182}{}{What was in the shipment meant for Vault 13?}

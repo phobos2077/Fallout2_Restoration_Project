@@ -40,23 +40,23 @@
 {139}{}{Yes, there is the RIGHT way... you can become a Citizen by taking the Citizenship test.}
 {140}{}{Yes, I am responsible for administering the Citizenship test to anyone who wishes to become a Citizen of Vault City.}
 {141}{}{What is the test, exactly?}
-{142}{}{I want to take the test again.}
-{143}{}{What are the benefits of being a Citizen?}
+{142}{}{Quero fazer o teste novamente.}
+{143}{}{Quais as vantagens de ser Cidadão?}
 {144}{}{Posso fazer mais algumas perguntas?}
-{145}{}{I see. Maybe we'll talk again later.}
-{146}{}{Benefits? Why, look around you... Vault City is the safest, richest city in all the wastes. Citizens receive free medical treatment, food and water is plentiful, and there is no crime or disease to speak of.}
-{147}{}{What is the test exactly?}
-{148}{}{Sounds good. I'd like to take the test again.}
+{145}{}{Entendo. Talvez conversaremos mais tarde.}
+{146}{}{Benefícios? Ora, olhe ao seu redor... Vault City é a cidade mais segura e rica de todos o deserto. Os cidadãos recebem tratamento médico gratuito, comida e água são abundantes e não há crime ou doença que se poderia mencionar.}
+{147}{}{Qual é o teste exatamente?}
+{148}{}{Parece bom. Gostaria de fazer o teste novamente.}
 {149}{}{Posso fazer mais algumas perguntas?}
-{150}{}{I see. Maybe we'll talk again later.}
-{151}{}{It is a comprehensive exam, divided into several parts... advanced mathematics, spatial relations, deductive reasoning, language comprehension... oh, and there is also a thorough physical examination.}
-{152}{}{Wh... advanced math-ma-what? Uh, isn't there some object I can get or someone I can fight to get Citizenship?}
-{153}{}{Sounds... complicated. Uh, can I take the test?}
-{154}{}{Sounds difficult. I'd like to take the test, if I can.}
-{155}{}{Sounds elementary. I'd like to take this Citizenship Test.}
-{156}{}{You aren't testing the subject's visual acuity or logic skills? Hmmm. Well, perhaps you would consider revising this test in the future... after I take it.}
-{157}{}{I see. Can I ask you some other questions?}
-{158}{}{Interesting. Thanks for your time.}
+{150}{}{Entendo. Talvez conversaremos mais tarde.}
+{151}{}{É um exame abrangente, dividido em várias partes... matemática avançada, relações espaciais, raciocínio dedutivo, compreensão da linguagem... ah, e também há um exame físico minucioso.}
+{152}{}{O que... mate avançada-ma-tem... o quê? Ei, não há algum item que eu possa obter ou alguém com quem eu possa lutar para obter a cidadania?}
+{153}{}{Parece... complicado. Ué, posso fazer o teste?}
+{154}{}{Parece difícil. Gostaria de fazer o teste, se possível.}
+{155}{}{Parece elementar. Eu gostaria de fazer este Teste de Cidadania.}
+{156}{}{Você não está testando a acuidade visual ou as habilidades lógicas do sujeito? Hmmm. Bem, talvez você considere revisar este teste no futuro... depois que eu o fizer.}
+{157}{}{Entendo. Posso te fazer algumas outras perguntas?}
+{158}{}{Interessante. Obrigado pelo seu tempo.}
 {159}{}{Well, if you finish that task for the First Citizen she will give you your Citizenship, not that you'd deserve it. I suppose she has her reasons.}
 {160}{}{No. If you wish to become a Citizen, you must take the test.}
 {161}{}{You disapprove of her offering me Citizenship for that?}

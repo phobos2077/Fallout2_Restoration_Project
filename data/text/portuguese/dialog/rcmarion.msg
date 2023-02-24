@@ -59,35 +59,35 @@
  você é que você me entende. Para realmente *qualquer coisa* que te atrapalhe.}
 {148}{}{Parece um cara útil para se ter por perto. Onde ele está aqui na cidade?}
 {149}{}{Interessante. Deixe eu te perguntar outra coisa, Xerife Marion.}
-{150}{}{Thanks. I'll see you around. Goodbye.}
-{151}{}{Yeah, I sure could use some help with a couple of things. Just part-time like. It pays real good
- and you'd be doing a good thing for the town of Redding, too.}
-{152}{}{Real good? How good is real good?}
-{153}{}{How can I help out?}
-{154}{}{As a Ranger, I could do no less than help you out in your time of need.}
-{155}{}{I don't think I can help you out right now, Sheriff. Maybe another time. Goodbye.}
-{156}{}{I wouldn't get any bright ideas. I can still whoop any two of you, with or without a good leg.}
-{157}{}{Hey, I was just kidding. Let me ask you something else.}
-{158}{}{Yeah, you and what army?}
-{159}{}{I was just pulling your leg. Uh, what I mean to say is... uh. Goodbye, Sheriff.}
-{160}{}{The Doc's office is at the west end of downtown here. He's just about always happy to see new
- patients.}
+{150}{}{Obrigado, eu te vejo por aí. Adeus.}
+{151}{}{Sim, com certeza preciso de ajuda com algumas coisas, só por um tempo. O pagamento é bom
+ e você estaria fazendo uma boa coisa para Redding também.}
+{152}{}{Bem mesmo? O quanto é realmente bom?}
+{153}{}{Como posso ajudar?}
+{154}{}{Como um Ranger, eu não poderia fazer menos do que ajudá-lo em seu momento de necessidade.}
+{155}{}{Acho que não posso ajudá-lo agora, xerife. Talvez outra hora. Adeus.}
+{156}{}{Eu não teria nenhuma boa ideia. Mas ainda posso vencer qualquer um de vocês, com ou sem uma perna boa.}
+{157}{}{Ei, eu só estava brincando. Deixe eu te perguntar outra coisa.}
+{158}{}{Sim, você e que exército?}
+{159}{}{Eu só estava brincando com você. Uh, eu queria dizer que... uh. Adeus, xerife.}
+{160}{}{O escritório do doutor fica no extremo oeste do centro da cidade. Ele fica sempre feliz em ter
+ novos pacientes.}
 {161}{}{Eu vejo. Deixe-me perguntar-lhe algo mais.}
-{162}{}{Maybe I'll go visit with him for a while. Goodbye, Sheriff.}
-{163}{}{We all have a respect of the need for law and order, of course. And we also have some concerns
- regarding the future of Redding.}
-{164}{}{The future of Redding?}
-{165}{}{That makes sense, what with you being the Sheriff. Say, what does the Sheriff do here in town?}
-{166}{}{Sure. Redding can't stand alone forever. At some point we're going to need a friend. I just want
- to make sure we've got a friend when we need one. The *right* friend.}
-{167}{}{There are wrong friends?}
-{168}{}{You bet there are. New Reno would just gut Redding for our gold, and Vault City would keep us
- as second class citizens rather than make us real partners.}
-{169}{}{You think the NCR would be different?}
-{170}{}{I know it would be. The NCR is the future of the wastes. Working together for a bigger tomorrow.
- Just like their posters say. They want us to join them, not submit to them.}
-{171}{}{I see. How can you influence Redding, though?}
-{172}{}{Everyone's got an angle, all right. Goodbye, Sheriff.}
+{162}{}{Talvez eu faça uma visita alguma hora. Adeus, xerife.}
+{163}{}{Todos respeitamos a necessidade da lei e da ordem, é claro. E também temos algumas preocupações
+ em relação ao futuro de Redding.}
+{164}{}{O futuro de Redding?}
+{165}{}{Isso faz sentido, já que você é o xerife. Diga, o que o xerife faz aqui na cidade?}
+{166}{}{Claro, Redding não pode ficar sozinha para sempre. Em algum momento vamos precisar de um
+ amigo, só quero ter certeza de que teremos um amigo quando precisarmos. O amigo *certo*.}
+{167}{}{Existem amigos errados?}
+{168}{}{Pode apostar que existem. New Reno destruiria Redding pelo nosso ouro, e Vault City nos manteria
+ como cidadãos de segunda classe em vez de nos tornar parceiros de verdade.}
+{169}{}{Você acha que o NCR seria diferente?}
+{170}{}{Eu sei que seria, a NCR é o futuro do deserto. Trabalhando juntos para um amanhã maior, assim
+ como seus cartazes dizem. Eles querem que nos juntemos a eles, não nos submetamos a eles.}
+{171}{}{Entendo. Mas como você pode influenciar Redding?}
+{172}{}{Todo mundo tem um ponto de vista, esta bem. Adeus, xerife.}
 {173}{}{Well, the time's not right yet for a real move. But I let people know who they'll be able to
  count on when push comes to shove. That's enough... for now.}
 {174}{}{Interessante. Deixe-me perguntar outra coisa.}

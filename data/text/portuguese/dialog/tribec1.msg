@@ -193,20 +193,20 @@
 {512}{}{Alright, thanks. Bye.}
 {520}{}{Actually, Marli looks like he's having some trouble with the well. If you feel like helping, maybe you could go see what his problem is.}
 {521}{}{Alright, thanks. Bye.}
-{522}{}{Alright, maybe I'll do that. But first, could I ask you something else?}
-{530}{}{Good to see you, friend. If you've got a moment, I could use your assistance again.}
-{531}{}{Good to see you again, girl. If you've got a moment, I could use your assistance.}
+{522}{}{Tudo bem, talvez eu faça isso. Mas primeiro, posso te perguntar outra coisa?}
+{530}{}{Bom ver você, amigo. Se você tiver um momento, eu poderia precisar de sua ajuda de novo.}
+{531}{}{Bom ver você de novo, moça. Se você tiver um momento, eu poderia precisar de sua ajuda.}
 {532}{}{Com certeza. O que você precisa?}
-{533}{}{Sorry, I'm busy now. Perhaps later.}
-{540}{}{Two of our hunters, Serin and Jerem, have not yet returned from the hunting ground and some people are starting to worry. They're two of our best warriors, and I'd hate to think something has happened to them. I'd go search for them myself, but if the villagers saw me take such a personal interest in the matter, I fear they'd assume the worst. I'd rather not get people riled up until I know what's going on. So, will you seek them out for me?}
-{541}{}{Alright, but where should I look?}
-{542}{}{Sorry, but I don't have time to look for them. Besides, I'm sure they'll turn up soon. Bye.}
-{543}{}{I'm not here to babysit your warriors. Bye.}
-{550}{}{Check the hunting grounds, to the north. The quickest way to get there is through the cave to the west, next to the Great Salt Water. Normally, I wouldn't advise taking that route, since it's in danger of collapsing, but it's important that you make haste. Just tread carefully through the cave, and you should be fine.}
-{551}{}{Alright, I'll hurry and try to find them.}
-{552}{}{Wait, you want me to pass through a cave that's about to collapse? Hmm... Shit, I just remembered! I have to go save my tribe! Sorry, gotta run.}
-{560}{}{Do you bring news of the lost hunters?}
-{561}{}{Not yet. I'll keep looking.}
+{533}{}{Desculpe, estou ocupado agora. Talvez mais tarde.}
+{540}{}{Dois de nossos caçadores, Serin e Jerem, ainda não voltaram do campo de caça e algumas pessoas estão começando a se preocupar. Eles são dois dos nossos melhores guerreiros, e eu odiaria pensar que algo aconteceu com eles. Eu mesmo iria procurá-los, mas se os aldeões me vissem tão interessado no assunto, temo que presumiriam o pior. Prefiro não ansiar as pessoas até saber o que está acontecendo. Então, você pode procurá-los para mim?}
+{541}{}{Certo, mas onde devo procurar?}
+{542}{}{Desculpe, mas não tenho tempo para procurá-los. Além disso, tenho certeza de que eles aparecerão em breve. Tchau.}
+{543}{}{Não estou aqui para tomar conta de seus guerreiros. Tchau.}
+{550}{}{Verifique os campos de caça, ao norte. A forma mais rápida de lá chegar é através da gruta a oeste, junto à Grande Água Salgada. Normalmente, eu não aconselharia fazer esse caminho, pois corre o risco de desabar, mas é importante que você se apresse. Apenas pise com cuidado pela caverna e você ficará bem.}
+{551}{}{Tudo bem, vou me apressar e tentar encontrá-los.}
+{552}{}{Espere, você quer que eu passe por uma caverna que está prestes a desabar? Hmm... Merda, acabei de me lembrar! Eu tenho que ir salvar minha tribo! Desculpe, tenho que ir.}
+{560}{}{Você traz notícias dos caçadores perdidos?}
+{561}{}{Ainda não, vou continuar procurando.}
 {562}{}{Yeah, I found them in the cave. They're both dead.}
 {570}{}{[Krom nods, his face grim.] How?}
 {571}{}{There was a cave-in. One had been crushed by the falling rocks; the other was pinned down by the rubble, then eaten alive by a gecko. It was pretty brutal.}
