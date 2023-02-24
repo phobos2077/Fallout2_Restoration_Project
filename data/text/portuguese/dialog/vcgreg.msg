@@ -57,30 +57,30 @@
 {156}{}{Você não está testando a acuidade visual ou as habilidades lógicas do sujeito? Hmmm. Bem, talvez você considere revisar este teste no futuro... depois que eu o fizer.}
 {157}{}{Entendo. Posso te fazer algumas outras perguntas?}
 {158}{}{Interessante. Obrigado pelo seu tempo.}
-{159}{}{Well, if you finish that task for the First Citizen she will give you your Citizenship, not that you'd deserve it. I suppose she has her reasons.}
-{160}{}{No. If you wish to become a Citizen, you must take the test.}
-{161}{}{You disapprove of her offering me Citizenship for that?}
-{162}{}{I'll give the test a shot then.}
-{163}{}{I'll give the test again, then.}
-{164}{}{Hmmm. Can I ask you some other questions?}
+{159}{}{Bem, se você terminar essa tarefa para a Primeira Cidadã, ela te dará sua Cidadania, não que você mereça. Suponho que ela tenha seus motivos.}
+{160}{}{Não. Se deseja tornar-se Cidadão, deve fazer o teste.}
+{161}{}{Você desaprova que ela me ofereça cidadania por isso?}
+{162}{}{Vou fazer o teste então.}
+{163}{}{Vou fazer o teste de novo, então.}
+{164}{}{Hmmm. Posso te fazer algumas outras perguntas?}
 {165}{}{Thanks for your time. Goodbye.}
-{166}{}{You wish to take the test? Excellent, excellent! Nothing pleases me more than testing potential applicants... but I must warn you, the test is several hours long. Do you wish to take it now?}
-{167}{}{Well, anyone may take the test. I think in your case, however, it would be a waste of time... for both of us. Someone of your caliber is simply not Citizen material.}
+{166}{}{Você deseja fazer o teste? Excelente, excelente! Nada me agrada mais do que testar candidatos em potencial... mas devo avisá-lo, o teste dura várias horas. Deseja faze-lo agora?}
+{167}{}{Bem, qualquer um pode fazer o teste. Acho que no seu caso, porém, seria uma perda de tempo... para nós dois. Alguém do seu calibre simplesmente não tem potencial para cidadão.}
 {168}{}{Com certeza.}
-{169}{}{Not now. Can I ask you some other questions?}
+{169}{}{Agora não. Posso te fazer algumas outras perguntas?}
 {170}{}{Talvez alguma outra hora.}
-{171}{}{I'd like to take the test anyway.}
-{172}{}{Just give me the damn test.}
-{173}{}{Forget it then. Can I ask you some other questions?}
+{171}{}{Eu gostaria de fazer o teste de qualquer modo.}
+{172}{}{Me dá logo esse maldito teste.}
+{173}{}{Esqueça, então. Posso te fazer algumas outras perguntas?}
 {174}{}{Tanto faz. Estou saindo daqui.}
 {175}{}{Muito bem.}
-{176}{}{Hmmm. Well, that is your right, though I doubt it will matter.}
-{177}{}{Here are forms 5028, 6112, and the Pip-Boy answer console. Please be sure to fill in each circle COMPLETELY. Now, if you would take a seat over here...}
+{176}{}{Hmmm. Bem, esse é seu direito, embora eu duvide que isso importe.}
+{177}{}{Aqui estão os formulários 5028, 6112 e o console de respostas do Pip-Boy. Certifique-se de preencher cada círculo COMPLETAMENTE. Agora, se você puder se sentar aqui...}
 {178}{}{Tudo certo.}
-{179}{}{Finished already? Are you certain you don't want to double-check your answers?}
-{180}{}{All right, time's up. Let's see your form.}
-{181}{}{Already did. Here.}
-{182}{}{Wait! Just a minute more... oh, forget it. Here.}
+{179}{}{Já terminou? Tem certeza de que não deseja verificar novamente suas respostas?}
+{180}{}{Tudo bem, acabou o tempo. Vamos ver o seu formulário.}
+{181}{}{Já fiz. Esta aqui.}
+{182}{}{Espere! Só mais um minuto... oh, esqueça. Aqui.}
 {183}{}{Hmmm... não, não... isso está errado... também não está certo... um erro de divisão por zero aqui... hmmm... precisava carregar os dois... nossa, seu vocabulário é escasso pelo que vejo.}
 {184}{}{Vejamos... Vejo que você errou em identificar a equação da subderivada... e perdeu o significado essencial do parágrafo sete, ambas as partes...  e a pirâmide neste diagrama pode ser cruzada oito vezes, não três.}
 {185}{}{Bem, as respostas que você conseguiu anotar parecem boas... é a pontualidade em que você fez o teste... e os erros gramaticais gritantes e...}
@@ -99,18 +99,18 @@
 {198}{}{Você... você tem um sexto dedo! Você é um mutante! Como você ousa TENTAR se tornar um de nós... sua... sua abominação! Saia! Fora! E nunca mais volte!}
 {199}{}{Aí vem a parte em que perco a paciência e mato todos os cidadãos em Vault City para me divertir. Começando por você.}
 {200}{}{Vou embora, vou embora!}
-{201}{}{Your blood pressure looks good, no communicable diseases that I can find... congratulations, Citizen. Welcome to Vault City.}
-{202}{}{Thanks. It's good to be here.}
-{203}{}{You again. Can I help you?}
-{204}{}{I suppose... what is it you would like to know?}
+{201}{}{Sua pressão arterial parece boa, sem doenças transmissíveis que eu possa encontrar... parabéns, Cidadão. Bem-vindo à Vault City.}
+{202}{}{Obrigado. É bom estar aqui.}
+{203}{}{Você novamente. Posso ajudar?}
+{204}{}{Suponho... o que você gostaria de saber?}
 {205}{}{O que você faz aqui de novo?}
 {206}{}{Posso fazer o teste de Cidadania?}
 {207}{}{Posso fazer o teste de Cidadania novamente?}
 {208}{}{O que você pode me dizer sobre Gecko?}
 {209}{}{Deixa para lá. Talvez conversemos mais tarde.}
-{210}{}{Well, if you finish that task for the First Citizen she will give you your Citizenship, not that you'd deserve it. I suppose she has her reasons.}
+{210}{}{Bem, se você terminar essa tarefa para a Primeira Cidadã, ela te dará sua Cidadania, não que você mereça. Suponho que ela tenha seus motivos.}
 {211}{}{Existe outra forma de se tornar Cidadão?}
-{212}{}{You disapprove of her offering me Citizenship for that?}
+{212}{}{Você desaprova que ela me ofereça cidadania por isso?}
 {213}{}{Posso fazer mais algumas perguntas?}
 {214}{}{Hum. Adeus.}
 {215}{}{Não é minha função questionar as ações da Primeira Cidadã.}
@@ -119,9 +119,9 @@
 {218}{}{Deixa pra lá então.}
 {219}{}{Gecko? É uma favela imunda ao norte, habitada por aquelas criaturas, aqueles... "ghouls". Eles são responsáveis por envenenar nossas águas subterrâneas, sabe! É um nitidamente um ato de terrorismo contra Vault City!}
 {220}{}{Como eles estão envenenando a água?}
-{221}{}{Hmmm. Can I ask you some other questions?}
+{221}{}{Hmmm. Posso te fazer algumas outras perguntas?}
 {222}{}{Obrigado, adeus.}
 {223}{}{A favela deles foi construída em torno dos restos de uma antiga usina de energia atômica... uma usina que eles DE ALGUMA FORMA começaram de novo e que agora está vazando radiação! Essas criaturas precisam ser expulsas e aquela fábrica fechada!}
-{224}{}{Hmmm. Can I ask you some other questions?}
+{224}{}{Hmmm. Posso te fazer algumas outras perguntas?}
 {225}{}{Obrigado pela informação. Adeus.}
 {226}{}{Você passou no teste de cidadania e se tornou um cidadão de Vault City.}

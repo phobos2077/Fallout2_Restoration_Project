@@ -6,27 +6,27 @@
 {151}{}{The grave site has been uncovered.}
 {200}{}{You see a headstone.}
 {201}{}{Você verá uma lápide.}
-{250}{}{There are no markings on this headstone.}
-{251}{}{The name on the headstone has been scratched out.}
-{252}{}{The name on the headstone reads John Doe.}
+{250}{}{Não há marcas nesta lápide.}
+{251}{}{O nome na lápide foi riscado.}
+{252}{}{O nome na lápide diz John Doe.}
 {253}{}{O nome e a data desta lápide foram desgastadas pelo clima.}
 {260}{}{Não existem marcações sobre esta lápide.}
-{261}{}{The name on the grave marker has been scratched out.}
+{261}{}{O nome na lápide foi riscado.}
 {262}{}{O nome na lápide lê-João da Silva.}
 {263}{}{O nome e a data desta lápide foram desgastadas pelo clima.}
-{275}{}{The headstone reads: }
+{275}{}{A lápide diz: }
 {276}{}{A lápide lê-se: }
-{300}{}{"Here lies Chris Avellone, King of the Dance Floor."}
-{301}{}{"Chris Jones. Nightwing."}
-{302}{}{"Christopher Michael Holland, aka 'Chris Holland', aka 'Chris': There are two and a half reasons to read this headstone... Normally you would expect those reasons to be listed."}
-{303}{}{"Colin McComb: Another pointless life."}
-{304}{}{"David Hendee: the loudest among the dead. May he rest in peace, quietly."}
-{305}{}{"Ed Hyland. He told the world to 'suck it.'"}
-{306}{}{"Eric Demilt. The TRUE Combat Boy."}
-{307}{}{"Feargus Urquhart: Made just one damn list too many."}
-{308}{}{"Fred Hatch. Died getting Myron's voice recorded."}
-{309}{}{"Gary Platner. Killed for not making more Vault Citizen models."}
-{310}{}{"Jason Anderson: no longer a living god."}
+{300}{}{"Aqui jaz Chris Avellone, Rei da Pista de Dança."}
+{301}{}{"Chris Jones. Asa Noturna."}
+{302}{}{"Christopher Michael Holland, também conhecido como 'Chris Holland', também conhecido como 'Chris': há duas razões e meia para ler esta lápide... Normalmente, você esperaria que essas razões fossem listadas."}
+{303}{}{"Colin McComb: Outra vida sem sentido."}
+{304}{}{"David Hendee: o mais barulhento entre os mortos. Que ele descanse em paz, em silêncio."}
+{305}{}{"Ed Hyland. Ele disse ao mundo para 'me chupar'."}
+{306}{}{"Eric Demilt. O VERDADEIRO Combatente."}
+{307}{}{"Feargus Urquhart: Fiz uma maldita lista demais."}
+{308}{}{"Fred Hatch. Morreu gravando a voz de Myron."}
+{309}{}{"Gary Platner. Morto por não fazer mais modelos dos cidadãos das Vaults."}
+{310}{}{"Jason Anderson: não é mais um deus entre os vivos."}
 {311}{}{"Jason G. Suinn."}
 {312}{}{"Jason Taylor."}
 {313}{}{"Jeremy Barnes. O macaco careca da Ilha Negra."}
@@ -83,10 +83,10 @@
 {364}{}{"Aqui jaz Lester Moore, quatro balas de .44, nem menos, nem mais."}
 {365}{}{"Eu disse que estava doente!"}
 {366}{}{"Leitor, se você precisa de dinheiro para cavar 4 pés de profundidade e encontrará um centavo."}
-{367}{}{"She always said her feet were killing her but nobody believed her."}
-{368}{}{"On the 22nd of June - Jonathan Fiddle - Went out of tune."}
-{369}{}{"Here lies the body of our Anna done to death by a banana. It wasn't the fruit that laid her low but the skin of the thing that made her go."}
-{370}{}{"Gone away Owen Moore than he could afford."}
+{367}{}{"Ela sempre disse que seus pés a estavam matando, mas ninguém acreditava nela."}
+{368}{}{"No dia 22 de junho - Jonathan Fiddle - saiu do tom."}
+{369}{}{"Aqui jaz o corpo de nossa Anna morto por uma banana. Não foi a fruta que a derrubou, mas a casca da coisa que a fez morrer."}
+{370}{}{"Se foi Owen More... aqui tinha uma piada que só funciona em inglês."}
 {371}{}{"Em memória do pequeno Chris Wood. Aqui jaz um Bosque envolto em madeira, um Bosque dentro do outro. A lenha externa é muito boa, embora não possamos elogiar o outro.}
 {372}{}{"Sob o gramado e sob as árvores jaz o corpo de Jonathan Pease. Ele não está aqui, há apenas a vagem: Pease descascou e foi para Deus."}
 {373}{}{"Que foi mortalmente queimado em 21 de março de 1870 pela explosão de uma lâmpada cheia de "R.E. Fluido ardente não explosivo de Danforth".}

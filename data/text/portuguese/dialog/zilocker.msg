@@ -9,6 +9,6 @@
 {300}{}{A explosão destrói a fechadura no objeto.}
 {301}{}{A explosão não consegue remover a fechadura do objeto.}
 {400}{}{Você abriu com sucesso a fechadura do objeto.}
-{401}{}{You fail to pry the lock on the object open.}
-{500}{}{ successfully pried open the lock on the object.}
-{501}{}{ fails to pry the lock on the object open.}
+{401}{}{Falha ao tentar arrombar a trava do objeto.}
+{500}{}{ abriu com sucesso o bloqueio no objeto.}
+{501}{}{ falha ao forçar a fechadura no objeto.}

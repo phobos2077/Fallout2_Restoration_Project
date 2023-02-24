@@ -1,12 +1,12 @@
-{100}{}{You see a strange machine. }
-{101}{}{You see a slot machine. }
-{102}{}{You see a glittering slot machine. }
-{103}{}{You see a gleaming slot machine. }
-{130}{}{It has three eyes and one arm.}
-{140}{}{The minimum bet is $}
+{100}{}{Você vê uma máquina estranha. }
+{101}{}{Você vê uma máquina caça-níqueis. }
+{102}{}{Você vê uma máquina caça-níqueis brilhante. }
+{103}{}{Você vê uma máquina caça-níqueis brilhante. }
+{130}{}{Tem três olhos e um braço.}
+{140}{}{A aposta mínima é $}
 {141}{}{.}
-{150}{}{You swear you can see it looking at you out of the corner of your eye. }
-{151}{}{Its shiny frame and golden handle gleam seductively beneath the lights. }
+{150}{}{Você jura que pode vê-lo olhando para você com o canto do olho. }
+{151}{}{Sua moldura brilhante e alça dourada brilham sedutoramente sob as luzes. }
 {165}{}{Destina-se aos grandes apostadores. }
 {180}{}{Seu alto premio parece muito atraente. }
 {200}{}{(Sua mão treme enquanto você pega suas moedas. A máquina continua a sussurrar para você.) *Vamos, doçura... é isso...
@@ -84,8 +84,8 @@
 {2136}{}{Você ser um water chip?}
 {2137}{}{Sair; procurar por mais coisas brilhantes}
 {2138}{}{(Vai embora.)}
-{2151}{}{You grab its arm and shake it warmly. As you do, there is a *bzzzzzzz,* and the box
- speaks! "Please... insert... money."}
+{2151}{}{Você agarra seu braço e o sacode com força. Ao fazer isso, há um *bzzzzzzz* e a caixa
+ fala! "Por favor... insira... dinheiro."}
 {2152}{}{Ahhhhh! Robô! Robô! Corrrran}
 {2153}{}{(Vai embora.)}
 {2175}{}{(You stare at the slot machine realizing you don't have enough to play, and you curse your poverty. Perhaps another time...)}
