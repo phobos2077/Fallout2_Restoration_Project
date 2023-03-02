@@ -249,18 +249,18 @@
  him to do it. Makes a big show about it being all clean and all. Simple remedies for simple minds, I say.}
 {287}{}{Ahh. Let me ask you about something else, then.}
 {288}{}{Thanks for the information, Dan. Goodbye.}
-{289}{}{Mister, you ain't getting but two things from me. Jack and shit, and Jack's left town. Now get
- out of my sight.}
-{290}{}{Little Missy, you ain't getting but two things from me. Jack and shit, and Jack's left town. Now
- get out of my sight.}
-{291}{}{Ah, come on. I'm sorry. Just tell me what I need to know.}
-{292}{}{You want some of me? Come get some.}
-{293}{}{I'm leaving, and happy to do it. Goodbye.}
-{294}{}{You should have thought about that before you made things get out of hand. Fuck you, and get
- out of my office.}
-{295}{}{You sure talk tough.}
-{296}{}{I'm leaving. Don't get all lathered up over it. Goodbye.}
-{297}{}{Nobody says that to Dan McGrew and walks away from it.}
-{298}{}{Watch me.}
-{299}{}{Yeah, I bet..."Dangerous Dan."}
-{300}{}{Sorry, Dan; I didn't mean anything by it. I was just k-kidding. Yeah, that's it. Goodbye.}
+{289}{}{Senhor, você só vai receber duas coisas de mim. Jack e merda, e Jack deixou a cidade. Agora
+ saia da minha frente.}
+{290}{}{Senhorita, você só vai receber duas coisas de mim. Jack e merda, e Jack deixou a cidade. Agora
+ saia da minha frente.}
+{291}{}{Ah, vamos, desculpe. Só me diga o que eu preciso saber.}
+{292}{}{Você quer algo de mim? Venha pegar um pouco.}
+{293}{}{Estou saindo, e feliz em fazer. Adeus.}
+{294}{}{Você deveria ter pensado nisso antes de fazer as coisas saírem do controle. Foda-se e saia do
+ meu escritório.}
+{295}{}{Você fala duro.}
+{296}{}{Estou indo embora. Não fique nervoso com isso. Adeus.}
+{297}{}{Ninguém diz isso para Dan McGrew e se afasta dele.}
+{298}{}{Me veja.}
+{299}{}{Sim, aposto... "Perigoso Dan."}
+{300}{}{Desculpe, Dan; Eu não quis dizer nada com isso, era só brincadeira. Sim, é isso. Adeus.}

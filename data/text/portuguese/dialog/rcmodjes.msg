@@ -1,47 +1,47 @@
-{100}{}{You see Madame Modjeska.}
-{101}{}{You see Madame Modjeska.}
-{102}{}{I want to be alone.}
-{103}{}{Please just go away.}
+{100}{}{Você vê Madame Modjeska.}
+{101}{}{Você vê Madame Modjeska.}
+{102}{}{Quero ficar sozinha.}
+{103}{}{Por favor, vá embora.}
 {104}{}{Não me incomode.}
-{105}{}{Please leave me.}
-{106}{}{I have no tolerance for the simple.}
-{107}{}{Most of the rabble are just working to get enough Jet. They need something to take their minds
- off this place.}
+{105}{}{Por favor, me deixe.}
+{106}{}{Não tenho tolerância com tontos.}
+{107}{}{A maioria da ralé só trabalha para conseguir jet suficiente. Eles precisam de algo para tirar suas
+ mentes deste lugar.}
 {108}{}{Deixe-me perguntar-lhe algo mais.}
 {109}{}{Jet? O que é Jet?}
 {110}{}{Entendo, adeus.}
-{111}{}{Jet does have its uses. It tends to make one care somewhat less about the surrounding squalor.}
+{111}{}{Jet tem seus usos. Isso normalmente faz com que a pessoa se importe um pouco menos com a miséria ao redor.}
 {112}{}{Deixe-me perguntar-lhe algo mais.}
 {113}{}{Jet? O que é Jet?}
 {114}{}{Entendo, adeus.}
-{115}{}{Jet is so expensive lately. It's just criminal. Speaking of which... I hear that our cherished
- Mayor Ascorti is working to get us more Jet. Always a champion of the masses, that man is.}
+{115}{}{Jet ficou tão caro ultimamente, é algo criminoso. Falando nisso... Ouvi dizer que nosso
+ querido Prefeito Ascorti está trabalhando para conseguir mais jet para nós. Esse homem é um campeão das massas.}
 {116}{}{Deixe-me perguntar-lhe algo mais.}
-{117}{}{Mayor Asctorti? Who is that exactly?}
+{117}{}{Prefeito Asctorti? Quem é exatamente?}
 {118}{}{Jet? O que é Jet?}
 {119}{}{Entendo, adeus.}
-{120}{}{Seems like everyone's sick. That last batch of Jet had everyone swearing off the stuff. My
- guess is that they'll be back on Jet soon enough, though.}
+{120}{}{Parece que todos estão doentes, aquele último lote de jet fez todo mundo xingar esse material.
+ Meu palpite é que eles voltarão para o jet em breve.}
 {121}{}{Deixe-me perguntar-lhe algo mais.}
 {122}{}{Jet? O que é Jet?}
 {123}{}{Entendo, adeus.}
-{124}{}{Looks like I was wrong. Most of the people who were real Jet pilots have sworn off the stuff.
- After that last bad batch, most of us can't so much as smell the stuff without getting sick to our
- stomachs.}
+{124}{}{Parece que eu estava errado. A maioria das pessoas que eram verdadeiros vidrados em jet
+ juraram nuca mais fazer isso. Depois daquele último lote terrivel, a maioria de nós não consegue
+ nem cheirar essa coisa sem ficar enjoado.}
 {125}{}{Deixe-me perguntar-lhe algo mais.}
 {126}{}{Jet? O que é Jet?}
 {127}{}{Entendo, adeus.}
-{128}{}{I am... Madame Modjeska. What do you wish of me?}
+{128}{}{Eu sou... Madame Modjeska. O que você deseja de mim?}
 {129}{}{Com o que posso ajudar?}
-{130}{}{I don't have time to waste. What do you want of Madame Modjeska?}
-{131}{}{I can hardly be bothered with this now. What do you want?}
-{132}{}{Madame Modjeska feels indisposed today. What do you want of her?}
-{133}{}{My head feels as though it must surely split in twain. What do you want of me?}
-{134}{}{I'm Madame Modjeska. One time Jet user, amongst other things. Now I only dabble in other things.
- I find that Jet no longer agrees with me.}
-{135}{}{What can the Madame do for you?}
-{136}{}{What do you do here Madame Modjeska?}
-{137}{}{Looks as though a lot of people here are drug-users. What's going on in town lately?}
+{130}{}{Não tenho tempo a perder. O que você quer de Madame Modjeska?}
+{131}{}{Eu não posso me incomodar com isso agora. O que você quer?}
+{132}{}{Madame Modjeska se sente indisposta hoje. O que você quer dela?}
+{133}{}{Minha cabeça parece que está querendo se partir em duas. O que você quer de mim?}
+{134}{}{Eu sou Madame Modjeska. Uma vez usuária de jet, entre outras coisas, mas agora só me interesso por
+ outras coisas. Acho que jet não me agrada mais.}
+{135}{}{O que a Madame pode fazer por você?}
+{136}{}{O que você faz aqui, Madame Modjeska?}
+{137}{}{Parece que muita gente aqui é usuária de drogas. O que está acontecendo na cidade ultimamente?}
 {138}{}{Ouviu algum boato interessante?}
 {139}{}{Why do they call you Madame Modjeska?}
 {140}{}{Qual é o problema com você?}
