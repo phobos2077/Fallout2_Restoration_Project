@@ -1,12 +1,12 @@
-{100}{}{You see trader Bill.}
-{101}{}{You see an older looking merchant.}
-{200}{}{Hello there, traveler. Name's Bill. What can I get for you?}
-{201}{}{Welcome back. Need something else?}
-{202}{}{Let's barter.}
-{203}{}{I hear you're the man to talk to about caravans.}
-{204}{}{Nevermind. Bye.}
-{210}{}{Say, I've noticed a lot of old equipment and items have been collected here at the Abbey.
- I don't suppose you've found anything... special, during your time here?}
+{100}{}{Du ser handlare Bill.}
+{101}{}{Du ser en äldre köpman.}
+{200}{}{Hallå där, resenär. Jag heter Bill. Vad kan jag ta fram åt dig?}
+{201}{}{Välkommen tillbaka. Behöver du något annat?}
+{202}{}{Låt oss förhandla.}
+{203}{}{Jag har hört att du är mannen man ska prata med om karavaner.}
+{204}{}{Det är inte viktigt. Hej då.}
+{210}{}{Säg, jag har märkt att en hel del gammal utrustning och föremål har samlats in här i Klostret.
+ Jag antar att du inte har hittat något speciellt under din tid här?}
 {211}{}{Heh, so you noticed that, huh? Yeah, the Abbey folks have a bit of a fascination with anything pre-war,
  especially if it's tech related. They've formed some kind of kooky religion around it. I don't quite understand it,
  myself, but they're nice people and they pay good money for anything pre-war I manage to get my hands on. But anyway,
