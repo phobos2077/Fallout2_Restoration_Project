@@ -50,32 +50,32 @@
 {149}{}{Eu faço o SEU trabalho, senhor.}
 {150}{}{I run the Corrections Center. And obey your orders, sir.}
 {151}{}{I run the Corrections Center. Keep the Outworlders in line. Make sure the Servants behave. Organize patrols. Try and protect the city from raiders.}
-{152}{}{You got a problem, Sergeant?}
-{153}{}{You the one who busted up Cassidy's bar?}
-{154}{}{Have you heard of a servant named Joshua?}
-{155}{}{Patrols?}
-{156}{}{Raiders?}
-{157}{}{About those Raiders...}
+{152}{}{Algum problema, sargento?}
+{153}{}{Você quem invadiu o bar de Cassidy?}
+{154}{}{Você já ouviu falar de um servo chamado Joshua?}
+{155}{}{Patrulhas?}
+{156}{}{Saqueadores?}
+{157}{}{Sobre os saqueadores...}
 {158}{}{Posso te fazer algumas perguntas?}
 {159}{}{Obrigado. Adeus.}
-{160}{}{Permission to speak freely, sir.}
-{161}{}{Granted.}
-{162}{}{No. I had some other questions for you, first.}
-{163}{}{Not today, Sergeant.}
-{164}{}{You don't DESERVE your post. I have lived in Vault City all my life. The men and women under MY command trust me and respect me, not you... sir.}
-{165}{}{That's why I need you at your post, Sergeant. There is no doubt that you are capable and know Vault City better than I do. Nevertheless, I have shown RESULTS where you have NOT. Never forget that.}
-{166}{}{Noted, Sergeant. Now I have some questions for you.}
-{167}{}{Noted, Sergeant. I suggest you swallow your attitude and get on with doing your job. Good day.}
-{168}{}{Understood, sir.}
-{169}{}{Now I have some questions for you.}
-{170}{}{Carry on then, Sergeant.}
-{171}{}{Yes, sir. I conducted an authorized raid on Mr. Cassidy's establishment.}
-{172}{}{Maybe your friend Cassidy there didn't tell you that he had illegal substances on the premises, and his license for alcohol distribution had expired. You forget to tell your friend here that, Cassidy?}
-{173}{}{Cassidy says he was all paid up and you raided his place anyway.}
+{160}{}{Permissão para falar livremente, senhor.}
+{161}{}{Concedido.}
+{162}{}{Não. Eu tinha algumas outras perguntas primeiro.}
+{163}{}{Hoje não, sargento.}
+{164}{}{Você não MERECE o seu posto. Eu vivi em Vault City toda a minha vida. Os homens e mulheres sob MEU comando confiam em mim e me respeitam, não você... senhor.}
+{165}{}{É por isso que preciso de você em seu posto, sargento. Não há dúvida de que você é capaz e conhece Vault City melhor do que eu. No entanto, obtive RESULTADOS e você NÃO. Nunca esqueça disso.}
+{166}{}{Anotado, Sargento. Agora eu tenho algumas perguntas para você.}
+{167}{}{Anotado, Sargento. Sugiro que engula sua atitude e continue fazendo seu trabalho. Bom dia.}
+{168}{}{Entendido, senhor.}
+{169}{}{Agora eu tenho algumas perguntas para você.}
+{170}{}{Continue então, sargento.}
+{171}{}{Sim, senhor. Conduzi uma batida autorizada no estabelecimento do Sr. Cassidy.}
+{172}{}{Talvez seu amigo Cassidy não tenha te contado que tinha substâncias ilegais no local e que sua licença para distribuição de álcool havia expirado. Você se esqueceu de dizer isso ao seu amigo aqui, Cassidy?}
+{173}{}{Cassidy disse que ele estava tudo pago e você invadiu a casa dele de qualquer forma.}
 {174}{}{Esqueça. Eu tinha outras perguntas...}
-{175}{}{Never mind then. Goodbye.}
-{176}{}{No, sir. Mr. Cassidy had not paid his licensing fee for alcohol for the month, yet was still selling it on the premises. His list of payments are logged in the computer.}
-{177}{}{Cassidy was guilty of possession without a license. He doesn't like it, he can leave Vault City. That simple.}
+{175}{}{Deixa pra lá então. Adeus.}
+{176}{}{Não, senhor. O Sr. Cassidy não pagou sua taxa de licenciamento de álcool no mês, mas ainda estava vendendo no local. Sua lista de pagamentos está registrada no computador.}
+{177}{}{Cassidy era culpado de posse sem licença. Se não gostar, pode sair de Vault City. Simples assim.}
 {178}{}{I believe you, Sergeant. Well done. Now listen to me: I want you to pardon Mr. Cassidy, wipe his record clean, and pay him restitution for the damages you caused his establishment.}
 {179}{}{You know, I think my fist and your face are about to have a conversation.}
 {180}{}{Esqueça. Eu tinha outras perguntas...}
@@ -200,16 +200,16 @@
 {299}{}{Recon-o-what?}
 {300}{}{I do a lot of traveling. Anything I can help with?}
 {301}{}{Lamento ouvir isso. Eu tinha outras perguntas...}
-{302}{}{Never mind then. Goodbye.}
+{302}{}{Deixa pra lá então. Adeus.}
 {303}{}{Scouting.}
 {304}{}{O que você quer dizer?}
 {305}{}{I could do some recon for you if you're short-handed.}
 {306}{}{Esqueça. Eu tinha outras perguntas...}
-{307}{}{Never mind then. Goodbye.}
+{307}{}{Deixa pra lá então. Adeus.}
 {308}{}{No, you'd need a Pip-Boy to get the job done right, and I can't spare one right now.}
 {309}{}{I already got a Pip-Boy. It's old... and cranky... and seems to have wires and buttons yanked out everywhere... but it works.}
 {310}{}{Well, all right. I had some other questions...}
-{311}{}{Never mind then. Goodbye.}
+{311}{}{Deixa pra lá então. Adeus.}
 {312}{}{Yeah? Has it got a Northern California world map installed?}
 {313}{}{Yes. Well, at least from what I can see through the fog of war on the damn thing.}
 {314}{}{I got a job for you, then. I need someone to scout the terrain around Gecko... that ghoul encampment to the northeast. Hit the eight sectors on the world map around the town, then report back.}
@@ -223,12 +223,12 @@
 {322}{}{Now do you want the job or not?}
 {323}{}{Yes. I've already scouted out the area, though.}
 {324}{}{I'll take the job. I'll report back when I'm done.}
-{325}{}{I'll take the job. I had some questions first, though...}
+{325}{}{Eu aceito o trabalho. Mas eu tinha algumas perguntas primeiro...}
 {326}{}{Não, obrigado. Talvez outra hora.}
-{327}{}{That so? Heh. Well... all right then.}
-{328}{}{Good job. Download the information into my Pip-Boy, and I'll log it into the patrol computers.}
+{327}{}{Isso mesmo? Hehe. Bem... tudo bem então.}
+{328}{}{Bom trabalho. Transfira a informação para o meu Pip-Boy, e vou registrá-la nos computadores da patrulha.}
 {329}{}{Tudo bem...}
-{330}{}{This intelligence looks good. Well done. Here's your payment... three hundred dollars.}
+{330}{}{Essa informação parece boa, bom trabalho. Aqui está o seu pagamento... trezentos dólares.}
 {331}{}{Tudo bem então... você tem mais trabalho para mim?}
 {332}{}{Great. I had some other questions...}
 {333}{}{Obrigado. Prazer em fazer negócios com você.}
@@ -263,14 +263,14 @@
 {361}{}{Hep-Hep Schlep-Bep}
 {362}{}{Desliga}
 {363}{}{You got some kind of problem, Sergeant?}
-{364}{}{You the one who busted up Cassidy's bar?}
+{364}{}{Você quem invadiu o bar de Cassidy?}
 {365}{}{Have you heard of a Servant named Joshua?}
 {366}{}{O que você faz aqui?}
 {367}{}{Você pode me dizer onde fica a Vault?}
 {368}{}{I surveyed the area around Gecko for you.}
 {369}{}{Got any more recon work for me?}
 {370}{}{I plotted that route to NCR for you.}
-{371}{}{About those Raiders...}
+{371}{}{Sobre os saqueadores...}
 {372}{}{Never mind. Goodbye.}
 {373}{}{Bom dia... senhora.}
 {374}{}{Vault City prevails... ma'am.}
