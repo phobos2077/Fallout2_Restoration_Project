@@ -230,34 +230,34 @@
 {329}{}{Tudo bem...}
 {330}{}{Essa informação parece boa, bom trabalho. Aqui está o seu pagamento... trezentos dólares.}
 {331}{}{Tudo bem então... você tem mais trabalho para mim?}
-{332}{}{Great. I had some other questions...}
+{332}{}{Ótimo. Eu tinha algumas outras perguntas...}
 {333}{}{Obrigado. Prazer em fazer negócios com você.}
-{334}{}{Yeah, actually... I need someone to travel to NCR. Lately, I've been hearing reports that
- the Republic might be building up military strength. True or not, I need someone to plot a route to NCR and report back.}
-{335}{}{No problem. Already done.}
-{336}{}{Just travel to NCR, then come back?}
+{334}{}{Sim, na verdade... Preciso de alguém para viajar para a NCR. Ultimamente, tenho ouvido
+ relatos de que a República pode estar aumentando o poderio militar. Verdade ou não, preciso de alguém para traçar uma rota até a NCR e relatar.}
+{335}{}{Sem problemas. Já está feito.}
+{336}{}{Basta viajar para a NCR e depois voltar?}
 {337}{}{Esqueça. Eu tinha outras perguntas...}
 {338}{}{No thanks. Goodbye.}
-{339}{}{That's all I need. I'm more interested in the route than the Republic itself, but I'll still need you to enter the city once you get there.}
-{340}{}{No problem. Already done.}
+{339}{}{Isso é tudo que preciso. Estou mais interessado na rota do que na própria República, mas ainda precisarei que você entre na cidade assim que chegar lá.}
+{340}{}{Sem problemas. Já está feito.}
 {341}{}{I'll take the job. I'll report back when I'm done.}
-{342}{}{I'll take the job. I had some questions before I left, however...}
-{343}{}{No thanks. I had some other questions, though...}
-{344}{}{I don't think I want this job. Maybe some other time.}
-{345}{}{That so? Heh.}
-{346}{}{All right then. Download the information into my Pip-Boy, and I'll log it into the patrol computers.}
+{342}{}{Eu aceito o trabalho. Eu tinha algumas perguntas antes de sair...}
+{343}{}{Não, obrigado. Eu tinha algumas outras perguntas...}
+{344}{}{Acho que não quero esse trabalho. Talvez outra hora.}
+{345}{}{Isso mesmo? Hehe.}
+{346}{}{Tudo bem, então. Transfira a informação para o meu Pip-Boy, e vou registrá-la nos computadores da patrulha.}
 {347}{}{Tudo certo.}
-{348}{}{This intelligence looks good. Well done. Here's payment for your services, five hundred dollars... plus, you might find this useful.}
+{348}{}{Essa informação parece boa, bom trabalho. Aqui está o pagamento por seus serviços, quinhentos dólares... Além disso, você pode achar isso útil.}
 {349}{}{O que é?}
-{350}{}{It's a Vault-Tec Motion sensor. We were going to strip it for parts, since it's too old for our Pip-Boys, but it looks like it's compatible with your model.}
-{351}{}{How does it work?}
-{352}{}{Keep it in your hand and it IDs hostiles in your immediate area when you use it. Or you can call up the Pip-Boy automap as normal, then just click the "scanner" button and they're lit up like a neon sign.}
-{353}{}{Thanks, this could be useful. Say, can I ask you some other questions?}
-{354}{}{Much appreciated. I'll go try it out.}
-{355}{}{Hello... Captain. Did you want something?}
-{356}{}{Hello again, Citizen. Something I can help you with?}
-{357}{}{You're back again? You lost, or do you need something?}
-{358}{}{Like what... sir?}
+{350}{}{É um sensor de movimento Vault-Tec. Íamos desmontá-lo por partes, já que é muito velho para os nossos Pip-Boys, mas parece que é compatível com o seu modelo.}
+{351}{}{Como funciona?}
+{352}{}{Mantenha em sua mão e ele identificará os inimigos em sua área imediata ao usá-lo. Ou você pode ativar o automapa do Pip-Boy normalmente, então basta clicar no botão "scanner" e eles serão iluminados como um letreiro de néon.}
+{353}{}{Obrigado, isso pode ser útil. Então, posso te fazer algumas outras perguntas?}
+{354}{}{Te agradeço muito. Eu vou tentar.}
+{355}{}{Olá... Capitão. Você queria alguma coisa?}
+{356}{}{Olá novamente, Cidadão. Algo em que posso ajudá-lo?}
+{357}{}{Você está de volta? Está perdido, ou precisa de alguma coisa?}
+{358}{}{Como o que... senhor?}
 {359}{}{Yes, Citizen. What did you want to know?}
 {360}{}{Como o quê?}
 {361}{}{Hep-Hep Schlep-Bep}

@@ -2,40 +2,40 @@
  and is carrying an assault rifle.}
 {101}{}{You see a Vault City guard.}
 {102}{}{Yes? What is it?}
-{103}{}{Me go inta big HOL in side of hill}
-{104}{}{I'd like to enter the Vault.}
-{105}{}{Nothing, sorry to bother you.}
-{106}{}{It is past 6 PM. You need to leave.}
-{107}{}{Okay. I'm leaving.}
-{108}{}{Okay. I just need another minute.}
-{109}{}{I got things to do. I'll go when I'm ready to.}
+{103}{}{Eu estou indo para um GRANDE buraco ao lado de uma montanha}
+{104}{}{Eu gostaria de entrar na Vault.}
+{105}{}{Nada, desculpe incomodar.}
+{106}{}{Já passa das 18h. Você precisa sair.}
+{107}{}{OK. Estou indo embora.}
+{108}{}{OK. Só preciso de mais um minuto.}
+{109}{}{Eu tenho coisas para fazer, irei quando estiver pronto.}
 {110}{}{Umag Nak!?! Umag NAK!}
-{111}{}{I will summon some of the guards to escort you out.}
+{111}{}{Vou chamar alguns dos guardas para escoltá-lo para fora.}
 {112}{}{Okay. Let's go.}
 {113}{}{Brog Frup}
-{114}{}{Don't bother. I can find my own way.}
-{115}{}{I apologize, but these are my orders.}
-{116}{}{Okay... but I'm not happy about it. I may be forced to file a formal
- complain--}
-{117}{}{Well, I'm staying.}
-{118}{}{I do not want to use force, but I will if necessary. Do not make this any
- more difficult than this has to be.}
-{119}{}{Okay, fine, fine... I'll go.}
-{120}{}{You so much as touch me, and you'll be wearing your ass as a hat.}
-{121}{}{Hello, Citizen. May I help you?}
-{122}{}{I'd like to enter the Vault.}
-{123}{}{Me go inta HOL in side of hill}
-{124}{}{Nothing right now.}
-{125}{}{I'm sorry, only Citizens are permitted to enter the Vault. I'm sure you
- understand.}
-{126}{}{Only Citizens may enter. Now leave.}
+{114}{}{Não se preocupe. Eu posso encontrar meu próprio caminho.}
+{115}{}{Peço desculpas, mas estas são as minhas ordens.}
+{116}{}{Ok... mas não estou feliz com isso. Posso ser forçado a apresentar
+ uma reclamação formal...}
+{117}{}{Bem, eu vou ficar.}
+{118}{}{Não quero usar a força, mas farei se necessário. Não torne isso mais difícil
+ do que tem que ser.}
+{119}{}{Ok, tudo bem, tudo bem... Eu vou.}
+{120}{}{Ao me tocar, você vai usar sua bunda como chapéu.}
+{121}{}{Olá, Cidadão. Posso te ajudar?}
+{122}{}{Eu gostaria de entrar na Vault.}
+{123}{}{Eu entro em um GRANDE buraco ao lado de uma montanha}
+{124}{}{Nada agora.}
+{125}{}{Sinto muito, apenas Cidadãos podem entrar na Vault. Tenho certeza
+ que você entende.}
+{126}{}{Só podem entrar Cidadãos. Agora saia.}
 {127}{}{Tudo bem.}
 {128}{}{Umgh}
-{129}{}{Of course. Please pass through.}
+{129}{}{Claro. Por favor, passe.}
 {130}{}{Thankee!}
 {131}{}{Obrigado.}
 {132}{}{Yes? May I help you?}
-{133}{}{I'd like to enter the Vault.}
+{133}{}{Eu gostaria de entrar na Vault.}
 {134}{}{Nothing, sorry to disturb you.}
 {135}{}{I apologize, but only Citizens may enter the Vault.}
 {136}{}{I *am* a Citizen.}
