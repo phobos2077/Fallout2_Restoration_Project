@@ -149,54 +149,54 @@
  próximo trabalho? Eu com certeza poderia ter sua ajuda.}
 {217}{}{Me diga sobre o próximo trabalho.}
 {218}{}{Eu acho que não. Adeus, xerife.}
-{219}{}{You did a real nice thing for the Widow Rooney. Made friends all around and kept the peace.
- Thanks. You ready for another job? I think you've got a real knack for it.}
+{219}{}{Você fez uma coisa muito boa para a viúva Rooney, fez amizade em todos os lugares e manteve
+ a paz. Obrigado. Pronto para outro trabalho? Acho que você tem um talento especial para isso.}
 {220}{}{Me diga sobre o próximo trabalho.}
-{221}{}{Not right now, Sheriff. Goodbye.}
-{222}{}{You got way out of line with the Widow Rooney. She was a little old widow lady, for chrissakes.
- Why'd you have to go and kill her for? Here's your money, but you better watch that hair-trigger on the
- next job.}
+{221}{}{Não agora, xerife. Adeus.}
+{222}{}{Você saiu da linha com a Viúva Rooney, ela era uma viúva velhinha já, pelo amor de Deus. Como
+ você teve coragem de ir lá e mata-la? Aqui está o seu dinheiro, mas é melhor você abaixar esse gatilho no
+ próximo trabalho.}
 {223}{}{Me diga sobre o próximo trabalho.}
-{224}{}{I don't think I want another job right now, Sheriff. Goodbye.}
-{225}{}{You sure didn't do much of a job in breaking up that bar fight. Can't pay you for something you
- didn't rightly do. But I've still got a bum leg. You ready for another job?}
+{224}{}{Acho que não quero outro emprego agora, xerife. Adeus.}
+{225}{}{Com certeza não foi um bom trabalho para separando aquela briga de bar. Não posso pagar por
+ algo que você não fez corretamente. Mas minha perna continua ruim. Você está pronto para outro trabalho?}
 {226}{}{Me diga sobre o próximo trabalho.}
-{227}{}{I don't think I want another job right now, Sheriff. Goodbye.}
-{228}{}{Putting those Morningstar miners in jail seemed to work, but Dan McGrew, their boss, isn't going
- to be too happy about it. Here's your money. Ready for your next job?}
+{227}{}{Acho que não quero outro emprego agora, xerife. Adeus.}
+{228}{}{Colocar aqueles mineiros da Morningstar na prisão parecia funcionar, mas Dan McGrew, o chefe
+ deles, não vai ficar nada feliz com isso. Aqui está o seu dinheiro. Pronto para o seu próximo trabalho?}
 {229}{}{Me diga sobre o próximo trabalho.}
-{230}{}{I don't think I want another job right now, Sheriff. Goodbye.}
-{231}{}{Marge is gonna be real ticked off with you for putting her miners in the pokey. It worked, though.
- Here's your money. Ready for another job?}
+{230}{}{Acho que não quero outro emprego agora, xerife. Adeus.}
+{231}{}{Marge vai ficar muito puta com você por colocar os mineiros dela naquele buraco. Mas pelo menos
+ funcionou, aqui está o seu dinheiro. Pronto para outro trabalho?}
 {232}{}{Me diga sobre o próximo trabalho.}
-{233}{}{I don't think I want another job right now, Sheriff. Goodbye.}
-{234}{}{I'm not sure that putting every damn miner in town into my jail was the best way to solve that
- problem. I guess it worked, though. Here's your money. Ready for your next job?}
+{233}{}{Acho que não quero outro emprego agora, xerife. Adeus.}
+{234}{}{Não sei se enfiar todos esses malditos mineiros da cidade na minha prisão foi a melhor forma
+ de resolver esse problema. Bom, mas parece que funcionou. Aqui está o seu dinheiro. Pronto para o seu próximo trabalho?}
 {235}{}{Me diga sobre o próximo trabalho.}
-{236}{}{I don't think I want another job right now, Sheriff. Goodbye.}
-{237}{}{Talk about spanking a baby with an axe. You went overboard with that one. You're only getting
- half-pay for that. Maybe it'll learn you something. Nobody needs to get killed over a bar brawl. You
- better do better on the next job. You ready?}
+{236}{}{Acho que não quero outro emprego agora, xerife. Adeus.}
+{237}{}{Você deve matar moscas usando um tiro de canhão, que coisa exagerada. Vou te pagar só a metade
+ por isso, talvez aprenda alguma coisa a respeito. Ninguém precisa ser morto por causa de uma briga
+ de bar. É melhor que o próximo trabalho seja bom, esta pronto?}
 {238}{}{Me diga sobre o próximo trabalho.}
-{239}{}{I don't think I want another job right now, Sheriff. Goodbye.}
-{240}{}{Hello there. I'm sure glad that you're taking care of that bad business with one of Lou's gals
- gettin' all cut up. Come on back when you've wrapped up the case.}
-{241}{}{I'm working on it right now, Sheriff. Goodbye.}
-{242}{}{I'll make sure and do that. Yeah, right away. Goodbye.}
-{243}{}{You let that bastard who cut that girl go free? What kind of idiot are you, anyway? I'll give
- you another job, but I ain't paying you for this one.}
-{244}{}{I'll tell you about idiots, you damn tin-starred, flat-footed greenhorn!}
+{239}{}{Acho que não quero outro emprego agora, xerife. Adeus.}
+{240}{}{Olá. Fico muito feliz por você estar cuidando desse negócio péssimo da garota de Lou que foi
+ cortada. Volte quando tiver encerrado o caso.}
+{241}{}{Estou trabalhando nisso agora, Xerife. Adeus.}
+{242}{}{Vou me certificar e fazer isso. Sim, imediatamente. Tchau.}
+{243}{}{Você deixou aquele vagabundo que cortou a garota ir embora? Mas que tipo de retardado
+ você é? Vou te dar outro trabalho, mas não vou te pagar por este.}
+{244}{}{Vou te dizer sobre esse retardado, seu maldito novato de pés chatos e com estrela de lata!}
 {245}{}{Me diga sobre o próximo trabalho.}
-{246}{}{I don't think I want another job right now, Sheriff. Goodbye.}
+{246}{}{Acho que não quero outro emprego agora, xerife. Adeus.}
 {247}{}{Thank god you put that murdering bastard Hakeswill away. We'll show him a bit of justice - and
  then we'll hang him. Well done. Here's your money. Ready for one more job?}
 {248}{}{Me diga sobre o próximo trabalho.}
-{249}{}{I don't think I want another job right now, Sheriff. Goodbye.}
+{249}{}{Acho que não quero outro emprego agora, xerife. Adeus.}
 {250}{}{I don't doubt that the bastard that cut that gal deserved what you gave him, but you sure didn't
  make any friends with the miners by killing him. They do so enjoy seeing a good trial afore a nice
  hangin'. Still, you got the job done. Here's your money. Ready for the next job?}
 {251}{}{Me diga sobre o próximo trabalho.}
-{252}{}{I don't think I want another job right now, Sheriff. Goodbye.}
+{252}{}{Acho que não quero outro emprego agora, xerife. Adeus.}
 {253}{}{You know about Frog Morton. Well, we need to clear him out of here. He's too dangerous to let him
  set up shop right near town. I'll give you $1000 to go out to the Great Wanamingo Mine, just west of
  town, and kill Frog and his gang. He's one bad hombre, though, so watch yourself.}
