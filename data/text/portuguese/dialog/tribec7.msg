@@ -43,31 +43,31 @@
 {511}{}{Não se preocupe, estou aqui para os ajudar. Tenho uma chave e permissão para te tirar daqui.}
 {512}{}{Alright, let me try and lockpick this door.}
 {530}{}{Esta seguro? Você enviou os escravistas aos espíritos?}
-{531}{}{Yes, it's safe. We can go to your village now.}
-{532}{}{Yes, but let me free all the slaves here first before we go.}
-{533}{}{No, not yet. I'll be back when it's safe.}
-{600}{}{Praise the spirits, we be home at last! Thank you so much, fren.}
-{601}{}{You're welcome. So, how exactly were you captured?}
-{602}{}{Was trading in nearby village. Slavers came. Much bloodshed and chaos. Then, everything go dark. Awoke in packed cage reeking of shit. Soon moved to smaller cage, with ones they like to be keeping. Peeped many slaves come and go. Sad to see people be treated like cattle.}
-{603}{}{Yeah, slavery is certainly a horrible thing. I'm sorry you had to go through that, Kurisu. So, what are you gonna do now?}
-{604}{}{Slavers hurt me, but I far from broken. The spirits guided you to ensure my freedom. Clearly, the spirits be planning something big for me. Spirits got big plans for you, too. And brother Sulik. He will be much missed, but the spirits say his place is walking by-and-by with you. Hell, even Grampy Bone like you, so I know Sulik in good hands. You take care.}
-{605}{}{Thank you, Kurisu, see you around.}
-{606}{}{Slavers hurt me, but I far from broken. The spirits guided you to ensure my freedom. Clearly, the spirits be planning something big for me. Soon, I think I be going to hunt down brother. Knowing Sulik, he prolly got in trouble, trying to come help me. Now, perhaps I be the one helping him.}
-{607}{}{Actually, I think I've seen your brother. Face full of tattoos and a big bone in the nose, right?}
-{608}{}{That be Sulik alright! And Grampy Bone, too! Please, could you go bring Sulik home? I be missing that man so much.}
-{609}{}{No problem, I'll bring him here. See you around, Kurisu.}
-{610}{}{I don't think I can do that. You see, Sulik is dead.}
-{611}{}{Sulik... dead? Truly, this be a dark day. I know he be with Grampy now, but Sulik... he will be much missed. [She looks away as tears fill her eyes.] Please... I need being alone now. Thank you... for bringing me home.}
-{650}{}{Hello, fren. Any lu-- Sulik!}
+{531}{}{Sim, é seguro. Podemos ir para a sua aldeia agora.}
+{532}{}{Sim, mas deixe eu libertar todos os escravos aqui antes de irmos.}
+{533}{}{Não, ainda não. Voltarei quando for seguro.}
+{600}{}{Louvado seja o espírito, estamos finalmente em casa! Muito obrigado, amigo.}
+{601}{}{imagina. Então, como exatamente você foi capturado?}
+{602}{}{Estava negociando em vila próxima. Escravistas vieram, muito derramamento de sangue e caos. Então, tudo escurece. Acordei em uma jaula lotada fedendo merda. Logo tiraram os menores da jaula, junto com os que gostam de guardar. Ele espiou muitos dos escravos indo e vindo. É triste ver as pessoas sendo tratadas como gado.}
+{603}{}{Sim, a escravidão é certamente uma coisa horrível. Lamento que você tenha passado por isso, Kurisu. Então, o que você vai fazer agora?}
+{604}{}{Escravistas me machucam, mas estou longe de estar mal. Os espíritos te guiaram para dar minha liberdade. Claramente, os espíritos estão planejando algo grande para mim. Os espíritos também têm grandes planos para você, e o irmão Sulik. Ele fará muita falta, mas os espíritos dizem que o lugar dele é caminhar com você. Inferno, até o Vovô Bone gosta de você, então sei que Sulik está em boas mãos. Você se cuida.}
+{605}{}{Obrigado, Kurisu, vejo você por aí.}
+{606}{}{Escravistas me machucam, mas estou longe de estar mal. Os espíritos te guiaram para dar minha liberdade. Claramente, os espíritos estão planejando algo grande para mim. Em breve, acho que ele vai caçar seu irmão. Conhecendo Sulik, ele provavelmente teve problemas, tentando vir me ajudar. Agora, talvez eu seja o único a ajudá-lo.}
+{607}{}{Na verdade, acho que vi seu irmão. Rosto cheio de tatuagens e um osso grande no nariz, certo?}
+{608}{}{Isso é Sulik, sim! E Vovô Bone também! Por favor, você poderia trazer Sulik para casa? Eu sinto tanto a falta daquele homem.}
+{609}{}{Sem problemas, vou trazê-lo aqui. Vejo você por aí, Kurisu.}
+{610}{}{Eu não acho que posso fazer isso. Entenda, Sulik está morto.}
+{611}{}{Sulik... morto? Verdadeiramente, este será um dia sombrio. Eu sei que ele está com o vovô agora, mas Sulik... ele fará muita falta. [Ela desvia o olhar enquanto as lágrimas enchem seus olhos.] Por favor... eu preciso ficar sozinha agora. Obrigado... por me trazer para casa.}
+{650}{}{Olá, amigo. Qualquer lu -- Sulik!}
 {651}{}{[MAIS]}
-{652}{}{[Kurisu rushes to Sulik, who sweeps her up into an embrace. You turn away to give them some privacy during their emotional reunion. Several moments later, Kurisu turns to you with a grin as she wipes tears from her eyes.] Thank you, fren, for finding brother. Spirits got big plans for you and Sulik. He will be much missed, but the spirits say his place is walking by-and-by with you. Hell, even Grampy Bone like you, so I know Sulik in good hands. You take care.}
-{653}{}{Hello, fren. You be having luck finding brother Sulik?}
-{654}{}{No, still looking. I'll be back when I find him.}
-{700}{}{Thanks again, fren. May the spirits bless you.}
-{701}{}{Brother Sulik will be much missed.}
-{800}{}{Evil spirits walk with you! Be away!}
-{810}{}{Get back in the building, Kurisu! I'll handle this.}
-{820}{}{Please, don't be letting them hurt us.}
+{652}{}{[Kurisu corre para Sulik, que a abraça. Você se afasta para dar a eles um pouco de privacidade durante o reencontro emocional. Vários momentos depois, Kurisu se vira para você com um sorriso enquanto enxuga as lágrimas de seus olhos.] Obrigado, amigo, por encontrar o irmão. Os espíritos têm grandes planos para você e Sulik. Ele fará muita falta, mas os espíritos dizem que o lugar dele é caminhar com você. Inferno, até mesmo Vovô Bone como você, então eu sei que Sulik esta em boas mãos. Você se cuida.}
+{653}{}{Olá, amigo. Você está tendo sorte em encontrar o irmão Sulik?}
+{654}{}{Não, ainda estou procurando. Voltarei quando o encontrar.}
+{700}{}{Obrigado novamente, amigo. Que os espíritos os abençoem.}
+{701}{}{O irmão Sulik fará muita falta.}
+{800}{}{Espíritos malignos andam com você! Esteja longe!}
+{810}{}{Volte para o prédio, Kurisu! Eu cuido disso.}
+{820}{}{Por favor, não deixe que eles nos machuquem.}
 {900}{}{Me? No, me Chosen One. You talk Sulik?}
 {910}{}{Yes, bad men dead.}
 {920}{}{I got key.}
