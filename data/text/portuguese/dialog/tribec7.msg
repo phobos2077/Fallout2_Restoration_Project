@@ -36,13 +36,13 @@
 {410}{}{[You turn to Kurisu.] Wait, I don't want to leave here until I free the slaves in the other holding pens. You wait
  here until I free everyone from this camp. [To the other slaves.] Keep quiet and head for the woods. I'll handle the guards.}
 {500}{}{If you be choosin' me for a lay, you best expect a fight -- wait, you don't be having the demon mark on your head. Who you be?}
-{501}{}{I'm the "Chosen One" and who are you?}
+{501}{}{Eu sou o "Escolhido" e quem é você?}
 {502}{}{Meu nome é }
 {503}{}{. Quem é você?}
-{510}{}{My name be Kurisu. I come from tribe to south west, sits next to the Great Salt Water. Slavers got me. Got others too, but they been sent on. They say they ain't done with me. Be keeping me around for their wicked pleasure. Please, you needin' to get us out of cage and away from de evil men.}
-{511}{}{Don't worry I'm here to get you out. I got a key and permission to take you out of here.}
+{510}{}{Meu nome é Kurisu. Venho de uma tribo do sudoeste, fica perto da Grande Água Salgada. Os escravistas me pegaram, tenho outros, mas já foi enviado. Eles dizer que não acabou comigo, isso me deixa perto de prazer perverso. Por favor, você precisa tirar nós da gaiola para ficar longe de homens perversos.}
+{511}{}{Não se preocupe, estou aqui para os ajudar. Tenho uma chave e permissão para te tirar daqui.}
 {512}{}{Alright, let me try and lockpick this door.}
-{530}{}{It be safe yet? You sent the slavers to the spirits?}
+{530}{}{Esta seguro? Você enviou os escravistas aos espíritos?}
 {531}{}{Yes, it's safe. We can go to your village now.}
 {532}{}{Yes, but let me free all the slaves here first before we go.}
 {533}{}{No, not yet. I'll be back when it's safe.}

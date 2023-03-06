@@ -188,59 +188,59 @@
 {244}{}{Vou te dizer sobre esse retardado, seu maldito novato de pés chatos e com estrela de lata!}
 {245}{}{Me diga sobre o próximo trabalho.}
 {246}{}{Acho que não quero outro emprego agora, xerife. Adeus.}
-{247}{}{Thank god you put that murdering bastard Hakeswill away. We'll show him a bit of justice - and
- then we'll hang him. Well done. Here's your money. Ready for one more job?}
+{247}{}{Graças a Deus você prendeu aquele desgraçado assassino do Hakeswill. Vamos mostrar a ele um
+ pouco de justiça e depois enforcá-lo. Bom trabalho, aqui está o seu dinheiro. Pronto para mais um trabalho?}
 {248}{}{Me diga sobre o próximo trabalho.}
 {249}{}{Acho que não quero outro emprego agora, xerife. Adeus.}
-{250}{}{I don't doubt that the bastard that cut that gal deserved what you gave him, but you sure didn't
- make any friends with the miners by killing him. They do so enjoy seeing a good trial afore a nice
- hangin'. Still, you got the job done. Here's your money. Ready for the next job?}
+{250}{}{Não duvido que o maldito que cortou aquela garota merecia o que você fez com ele, mas com
+ certeza você não ficou bem com os mineiros ao fazer isso. Eles gostam de ver um bom julgamento
+ antes de um bom enforcamento. Ainda assim, o trabalho está feito, aqui está o seu dinheiro. Pronto para o próximo trabalho?}
 {251}{}{Me diga sobre o próximo trabalho.}
 {252}{}{Acho que não quero outro emprego agora, xerife. Adeus.}
-{253}{}{You know about Frog Morton. Well, we need to clear him out of here. He's too dangerous to let him
- set up shop right near town. I'll give you $1000 to go out to the Great Wanamingo Mine, just west of
- town, and kill Frog and his gang. He's one bad hombre, though, so watch yourself.}
-{254}{}{Sounds good to me. I'm on it.}
-{255}{}{I don't think I'm up to taking on a whole gang. Sorry, this isn't for me. Goodbye.}
-{256}{}{You did it. You killed Frog. Great job, great job. Here's $1000 in reward money. Of course his
- brothers aren't gonna be too happy with you when they hear about it - but heck, that's all part of the
- job.}
-{257}{}{Brothers? You didn't tell me that Frog had brothers.}
-{258}{}{Didn't I? Must have plum darn slipped my mind. Yup, that's what it did. Well, he's got three
- older brothers... even meaner than he was, from what I hear. Let's see... Toad, Newt and Snake Morton, if
- I remember aright. Heck, you know how tall tales can get. By the way, keep that badge I gave you. You
- earned it... Sheriff. (He smiles.)}
-{259}{}{Uh, yeah. Sure. Well, I better be moving on. I have an appointment, someplace else. Someplace
- far away from Redding. Goodbye.}
-{260}{}{Just three more notches on my gun. No problem. So long, Sheriff.}
-{261}{}{I'm sorry to hear that; I sure could use the help. Well, if you change your mind, come on back
- right away.}
-{262}{}{I'll do that, Sheriff. Goodbye.}
+{253}{}{Você conhece Sapo Morton. Bem, precisamos tirar ele daqui. Ele é muito perigoso para que deixemos
+ ele abrir uma loja perto da cidade. Vou te dar $1000 para ir até a Mina Wanamingo, a oeste da cidade,
+ e matar Sapo e sua gangue. Ele é um homem bem ruim, então tome cuidado.}
+{254}{}{Parece bom para mim. Aceito.}
+{255}{}{Acho que não estou a fim de enfrentar uma gangue inteira. Desculpe, isso não é para mim. Adeus.}
+{256}{}{Você fez bem, matou o Sapo. Ótimo trabalho, ótimo trabalho. Aqui estão seus $1000 como
+ recompensa. claro que o irmãos dele não vão ficar muito felizes com você quando souberem disso...
+ mas, porra, isso faz parte do trabalho.}
+{257}{}{Irmãos? Você não me disse que o Sapo tinha irmãos.}
+{258}{}{Não disse? Deve ter me dado um branco aqui, acho que foi isso. Bem, ele tem três irmãos
+ mais velhos... ainda mais maus do que ele, pelo que ouvi. Tem os... Rã, Salamandra e Cobra Morton, que
+ me lembro. Ha ha, você sabe até onde essas histórias chegam. A propósito, guarde o distintivo que te
+ dei. Você merece... Xerife. (Ele sorri.)}
+{259}{}{Sim, claro. Bem, é melhor eu seguir em frente, eu tenho um compromisso em outro lugar. Em algum
+ lugar longe de Redding. Adeus.}
+{260}{}{Só mais três entalhes na minha arma, sem problemas. Adeus, xerife.}
+{261}{}{Sinto muito por ouvir isso; Eu com certeza poderia ter sua ajuda. Bem, se mudar de ideia, volte
+ aqui.}
+{262}{}{Farei isso, xerife. Adeus.}
 {263}{}{Vou pensar sobre isso. Adeus.}
-{264}{}{I hear that the miners from both the Morningstar and Kokoweef mines here in town are fixin' to
- stir up a ruckus at Lou's Malamute Saloon. I'll pay you $300 to break it up. You get over there right
- away. It's right across the street and down towards the west side of town here.}
-{265}{}{I'll get right on it, Sheriff. Goodbye.}
-{266}{}{I don't think I want to become involved in fisticuffs. I bruise easily. Goodbye, Sheriff.}
-{267}{}{Somebody cut up a whore over at Lou's Malamute Saloon. Just across the street here in downtown.
- Go find out who did it and bring them in. I'll pay you $500 for doing it. That kind of thing is bad for
- business, just bad all the way around.}
-{268}{}{I'll catch whoever did it. No problem. Goodbye, Sheriff.}
-{269}{}{Not my cup of tea, really. I'd best be moving on. Goodbye, Sheriff.}
-{270}{}{There's a bandit, name o' Frog Morton, that's taken up lodgings over in the ruins of the Great
- Wanamingo Mine just west of town. I need you to exterminate him. But be careful. He's crafty and he's
- bound to have some of his gang with him. I'll give you $1000 to get rid o' the varmint.}
+{264}{}{Ouvi dizer que os mineiros das minas Morningstar e Kokoweef aqui na cidade estão se preparando
+ para provocar um tumulto no Bar Malamute do Lou. Te pago 300 dólares para acabar com isso, vá
+ lá imediatamente. É do outro lado da rua e descendo em direção ao lado oeste da cidade aqui.}
+{265}{}{Vou cuidar disso, Xerife. Adeus.}
+{266}{}{Acho que não quero me envolver em brigas, fico machucado facilmente. Adeus, xerife.}
+{267}{}{Alguém matou uma prostituta no Bar Malamute, do outro lado da rua aqui no centro. Vá descobrir
+ quem fez isso e os traga aqui. Te pago $500 pelo serviço. Esse tipo de coisa é ruim para os negócios,
+ ruim em todos os aspectos.}
+{268}{}{Vou pegar quem fez isso, sem problemas. Adeus, xerife.}
+{269}{}{Na verdade, isso não é muito do meu interesse. É melhor eu ir, adeus, xerife.}
+{270}{}{Tem um bandido, chamado Sapo Morton, que tem um alojamento nas ruínas da Grande Mina
+ Wanamingo, a oeste da cidade. Preciso que você o elimine. Mas tenha cuidado, ele é astuto e com certeza
+ terá alguns membros de sua gangue com ele. Te dou $1000 para se livrar desse verme.}
 {271}{}{Por que esse nome idiota de Sapo Morton?}
-{272}{}{Sure thing, Sheriff.}
-{273}{}{Dash it all, but that just isn't my sort of soiree, mon frere. Goodbye.}
-{274}{}{His name's Morton, and they call him Frog 'cause he croaks people. Ready to go get 'im?}
-{275}{}{Ohhhh. Ouch. That's terrible. The pain, the pain...}
+{272}{}{Claro, xerife.}
+{273}{}{Bem, desculpe, mas esse não é o meu hobby favorito. Tchau.}
+{274}{}{O nome dele é Morton, e eles o chamam de Sapo porque ele é nojento como um. Pronto para ir atrás dele?}
+{275}{}{Ohhhh. Ai. Isso é terrível. A dor, a dor...}
 {276}{}{Eu faço.}
-{277}{}{I don't think I want to risk getting croaked, Sheriff. Goodbye.}
-{278}{}{Hey, I didn't make that one up - he did. With puns that bad, I'd say that gives you just one
- more reason to kill 'im. You up for it?}
-{279}{}{On my way, Sheriff. Will do.}
-{280}{}{Sounds a little too dangerous to me. Goodbye.}
+{277}{}{Acho que não lido muito bem com bichos saltitantes, xerife. Tchau.}
+{278}{}{Ei, eu não dei apelido nenhum, isso foi ele mesmo que inventou. Com apelidos tão ruins, eu
+ acredito que isso é mais um motivo para matá-lo. Está pronto para isto?}
+{279}{}{Estou a caminho, xerife. Vou fazer.}
+{280}{}{Me parece um pouco perigoso demais para mim. Adeus.}
 {281}{}{You go break up that bar brawl yet? Well, get to it. People are gonna get hurt unless you get
  your ass moving. Now git!}
 {282}{}{Uh, sure thing, Sheriff.}
