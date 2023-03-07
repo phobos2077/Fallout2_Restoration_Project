@@ -1,34 +1,34 @@
-{100}{}{You see a short, barrel-chested man with a full, dark, beard. He's covered in rock-dust.}
-{101}{}{You see Dangerous Dan McGrew, the owner of the Morningstar Mine.}
-{102}{}{You see a heavily muscled man with a scar on his face. He looks tough and confident.}
-{103}{}{If you had a brain, I think it'd just up and die of loneliness.}
-{104}{}{I'll be damned. I guess evolution can go in reverse.}
-{105}{}{You ain't got all your dogs on one leash, do you?}
-{106}{}{I don't have time for you. I reckon you're just a few peas short of a casserole.}
-{107}{}{Just a couple of clowns short of a circus, aren't you?}
-{108}{}{Hello there. My name's Dangerous Dan McGrew. I run the Morningstar Mine here. What can I do
- for you?}
-{109}{}{What do you need from me?}
+{100}{}{Você vê um homem baixo, de peito largo, com uma barba cheia e escura. Ele está coberto de pó de pedra.}
+{101}{}{Você vê o Perigoso Dan McGrew, o dono da Mina Morningstar.}
+{102}{}{Você vê um homem musculoso com uma cicatriz no rosto. Ele parece forte e confiante.}
+{103}{}{Se você tinha um cérebro, acho que ele saiu andando e morreu sozinho.}
+{104}{}{Posso estar enganado, mas acho que a evolução pode retroceder.}
+{105}{}{Você não deixa todos os seus cachorros na mesma coleira, não é?}
+{106}{}{Eu não tenho tempo para você. Eu acho que você tem um tico e teco a menos.}
+{107}{}{Só alguns palhaços tampinhas de algum circo, não é?}
+{108}{}{Olá. Meu nome é Dan McGrew. Eu comendo essa Mina Morningstar aqui. O que posso fazer para
+ você?}
+{109}{}{O que você precisa de mim?}
 {110}{}{O que você extrai na mina aqui?}
 {111}{}{Você já ouviu falar de uma coisa chamada Garden of Eden Creation Kit?}
-{112}{}{Why do they call you *Dangerous* Dan McGrew?}
+{112}{}{Por que eles chamam você de *Perigoso* Dan McGrew?}
 {113}{}{O que está acontecendo aqui na cidade ultimamente?}
-{114}{}{I was just moving through. Goodbye.}
-{115}{}{We mine gold. Everybody wants it, too. Send it all the way to Vault City, New Reno, and even
- down to the NCR. You might say that Redding has something for everybody - that's what keeps us
- independent.}
-{116}{}{Nice to be so well liked. Let me ask you about something else.}
-{117}{}{I'd think that someone would try to control Redding.}
+{114}{}{Eu estava apenas passando. Adeus.}
+{115}{}{Nós mineramos ouro, e isso todo mundo quer. Nós enviamos para Vault City, New Reno e até
+ mesmo para a NCR. Você pode dizer que Redding tem um pouco para todos - é isso que nos mantém
+ independentes.}
+{116}{}{É bom ser tão querido. Deixe eu perguntar sobre outra coisa.}
+{117}{}{É de se supor que alguém poderia tentar controlar Redding.}
 {118}{}{Obrigado pela informação. Adeus.}
-{119}{}{What makes you think they haven't? Everybody would like to have Redding under their belt. My
- guess is that someone will get us pretty soon. About the only thing we can do is choose our master, if
- we want to survive.}
+{119}{}{E você está pensando certo, todo mundo gostaria de ter Redding em seu currículo. Meu palpite é
+ que alguém vai nos pegar logo. A única coisa que podemos fazer é escolher nosso comandante, se
+ quisermos sobreviver.}
 {120}{}{O que você quer dizer?}
-{121}{}{I guess that makes sense. Well, good-luck and goodbye.}
-{122}{}{I mean that we're going to be put under someone's thumb. Only a fool thinks otherwise. Our
- choice is to pick the lightest thumb.}
-{123}{}{Which you've done, of course.}
-{124}{}{Happy thumb hunting, then. Goodbye.}
+{121}{}{Acho que isso faz sentido. Bem, boa sorte e adeus.}
+{122}{}{Quero dizer que seremos colocados sob o controle de alguém, só um tonto pensa o contrário.
+ Nossa escolha é escolher a chicotada mais leve.}
+{123}{}{O que você fez, é claro.}
+{124}{}{Que caça ao chicote, então. Adeus.}
 {125}{}{You bet I have. If we don't ally ourselves with one of the families in New Reno, you can just
  kiss Redding goodbye. At least any type of Redding that I'd want to live in.}
 {126}{}{O que você quer dizer?}

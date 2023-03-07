@@ -241,16 +241,16 @@
  acredito que isso é mais um motivo para matá-lo. Está pronto para isto?}
 {279}{}{Estou a caminho, xerife. Vou fazer.}
 {280}{}{Me parece um pouco perigoso demais para mim. Adeus.}
-{281}{}{You go break up that bar brawl yet? Well, get to it. People are gonna get hurt unless you get
- your ass moving. Now git!}
-{282}{}{Uh, sure thing, Sheriff.}
-{283}{}{I'll see what I can do. Goodbye, Sheriff.}
-{284}{}{Hey there, you've got a job to do. Come on back when you've croaked that Frog for us.}
-{285}{}{I was just resupplying. I'm on it. Goodbye.}
-{286}{}{On my way out there right now, Sheriff. Goodbye.}
-{287}{}{Well, I don't know how you did it, but that's the quietest I've ever heard the Malamute Saloon.
- Here's your money. Ready for your next job?}
-{300}{}{This job may be a bit too tough for you. Come back when you've got a bit more
- experience under your belt.}
-{301}{}{Okay, Sheriff.}
-{302}{}{There is nothing more that can be done with this leg. Only time will heal it.}
+{281}{}{Você vai lá acabar com aquela briga de bar? Bem, vá depressa. As pessoas vão se machucar,
+ a menos que você se mexa. Agora vai!}
+{282}{}{Com certeza, xerife.}
+{283}{}{Verei o que posso fazer. Adeus, xerife.}
+{284}{}{Ei, você tem um trabalho a fazer. Volte quando tiver colado a boca daquele sapo.}
+{285}{}{Estava dando só uma reabastecida. Estou trabalhando nisso, tchau.}
+{286}{}{Estou indo para lá agora, xerife. Adeus.}
+{287}{}{Bem, não sei como você fez isso, mas esse Salão Malamute mais silencioso que já vi. Aqui está o
+ seu dinheiro. Pronto para o seu próximo trabalho?}
+{300}{}{Este trabalho pode ser um pouco mais difícil que o normal pra você. Volte quando
+ tiver um pouco mais de experiência.}
+{301}{}{Ok, xerife.}
+{302}{}{Não tem mais nada que possa ser feito com essa perna. Só o tempo pra curar.}
