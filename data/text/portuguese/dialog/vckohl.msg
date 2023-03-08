@@ -1,9 +1,9 @@
-{100}{}{You see Chief Librarian Kohl.}
-{101}{}{You see a gentle-looking man in a Vault City uniform.}
-{102}{}{You see Chief Librarian Kohl.}
-{103}{}{You see a gentle-looking man in a Vault City uniform.}
-{104}{}{I shall make certain that your heroic feats are recorded in the Vault City archives, }
-{105}{}{My word! An intruder! Help! Guards!}
+{100}{}{Você vê o bibliotecário-chefe Kohl.}
+{101}{}{Você vê um homem de aparência gentil em um uniforme de Vault City.}
+{102}{}{Você vê o bibliotecário-chefe Kohl.}
+{103}{}{Você vê um homem de aparência gentil em um uniforme de Vault City.}
+{104}{}{Vou garantir que seus feitos heróicos sejam registrados nos arquivos de Vault City, }
+{105}{}{Meu Deus! Um intruso! Socorro! Guardas!}
 {106}{}{Misericórdia! Um mutante em Vault City! Guardas! Guardas!}
 {107}{}{Misericórdia! Um ghoul em Vault City! Guardas! Guardas!}
 {108}{}{O Gabinete de Informação está fechado à noite. Volte pela manhã.}
@@ -17,14 +17,14 @@
 {116}{}{Desliga}
 {117}{}{O que é este lugar?}
 {118}{}{Nada. Me desculpe por perturbar você.}
-{119}{}{Uh... pardon me?}
+{119}{}{Uh... Perdão?}
 {120}{}{Cripple-cripple creep}
 {121}{}{Desliga}
-{122}{}{Oh my, you must be one of the Servants. You should REALLY head back to Master Barkus at once, or he'll be quite irate!}
+{122}{}{Nossa, você deve ser um dos Servos. Você deve REALMENTE voltar para o Mestre Barkus imediatamente, ou ele ficará muito furioso!}
 {123}{}{Beleza!}
-{124}{}{This is the Information Center for Vault City. Is this the place you were looking for?}
-{125}{}{Yes, actually. I had some questions maybe you can answer.}
-{126}{}{Information Center? Do you have any books or manuals?}
+{124}{}{Este é o Centro de Informações de Vault City. Este é o lugar que você procura?}
+{125}{}{Sim, isso mesmo. Eu tinha algumas perguntas que talvez você possa responder.}
+{126}{}{Centro de Informações? Você tem algum livro ou manual?}
 {127}{}{Not really. Sorry to disturb you.}
 {128}{}{Unfortunately, our books are currently being transcribed into electronic format. The extras are being shipped to the
  Amenities Offices down the street. You might try there.}

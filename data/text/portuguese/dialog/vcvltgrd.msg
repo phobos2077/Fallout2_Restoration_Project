@@ -11,7 +11,7 @@
 {109}{}{Eu tenho coisas para fazer, irei quando estiver pronto.}
 {110}{}{Umag Nak!?! Umag NAK!}
 {111}{}{Vou chamar alguns dos guardas para escoltá-lo para fora.}
-{112}{}{Okay. Let's go.}
+{112}{}{Ok, vamos lá.}
 {113}{}{Brog Frup}
 {114}{}{Não se preocupe. Eu posso encontrar meu próprio caminho.}
 {115}{}{Peço desculpas, mas estas são as minhas ordens.}
@@ -49,23 +49,23 @@
 {143}{}{You there! What is that ghoul doing here in Vault City?!}
 {144}{}{You there! What is that mutant doing here in Vault City?!}
 {145}{}{Breep-oop foop foop}
-{146}{}{A ghoul? Where?}
-{147}{}{A mutant? Where?}
-{148}{}{He's with me.}
-{149}{}{He's traveling with me. If any of you racists have a problem with that, maybe we should settle it right here and now.}
+{146}{}{Um ghoul? Onde?}
+{147}{}{Um mutante? Onde?}
+{148}{}{Está comigo.}
+{149}{}{Ele viajam comigo. Se algum de vocês, racistas, tem algum problema com isso, talvez devêssemos resolver isso aqui e agora.}
 {150}{}{If that creature is with you, then you both belong back out in the Courtyard, not in the Vault City streets.}
-{151}{}{All right, we'll go peacefully.}
-{152}{}{Why don't you try to escort us out of here? I guarantee it'll be an educational experience.}
+{151}{}{Tudo bem, iremos pacificamente.}
+{152}{}{Por que você não nos escolta para fora daqui? Te asseguro que será uma experiência muito educativa.}
 {153}{}{How do these Outworlders get in here in the first place...?}
 {154}{}{That creature there.}
 {155}{}{You both belong back out in the Courtyard, not in the Vault City streets.}
-{156}{}{ME NO GOH HIM FREN! U NO FREN!}
-{157}{}{We go we go quiet-lee}
-{158}{}{All right, we'll go peacefully.}
-{159}{}{He's traveling with me. If any of you racists have a problem with that, maybe we should settle it right here and now.}
+{156}{}{EU NÃO, ELE AMIGO! VOCÊ NÃO AMIGO!}
+{157}{}{Nós vamos nós vamos quietinhos}
+{158}{}{Tudo bem, iremos pacificamente.}
+{159}{}{Ele viajam comigo. Se algum de vocês, racistas, tem algum problema com isso, talvez devêssemos resolver isso aqui e agora.}
 {160}{}{Guards! Intruders in the City!}
 {161}{}{Hrnghhhhhhhh!}
-{162}{}{You're going to be dead before those friends of yours show up.}
+{162}{}{Você estará morto antes que esses seus amigos apareçam.}
 {163}{}{Hey! You're the one who defeated the Enclave!}
 {164}{}{Look, it's the one who defeated the Enclave!}
 {165}{}{Welcome to Vault City.}
@@ -74,7 +74,7 @@
 {168}{}{Is it true that the U.S. was still fighting the war?}
 {169}{}{You should catalog your travels in the Vault City computer.}
 {170}{}{You're welcome to stay in Vault City as long as you want.}
-{171}{}{You should catalog your exploits against the Enclave and put it up on the List Server.}
+{171}{}{Você deve catalogar suas façanhas contra a Enclave e adicioná-las as Lista no Servidor.}
 {172}{}{Captain.}
 {173}{}{Vault City prevails, Capitão.}
 {174}{}{Hello, Captain.}

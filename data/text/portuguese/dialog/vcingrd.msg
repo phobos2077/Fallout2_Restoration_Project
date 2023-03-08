@@ -2,68 +2,67 @@
 {101}{}{I think it's about time for you to leave.}
 {102}{}{I don't like the looks of you.}
 {103}{}{Keep your nose clean, or I'll take that Pass away.}
-{104}{}{It's past 6 PM. Time for you to return to the courtyard.}
+{104}{}{Já passa das 18h. Hora de você voltar para o pátio.}
 {105}{}{OK. Estou indo agora.}
 {106}{}{OK. Eu vou em um minuto.}
 {107}{}{Tenho coisas para fazer. Eu irei quando estiver pronto.}
 {108}{}{Umag Nak!?! Umag NAK!}
-{109}{}{Well, I'll just make sure you get to the courtyard safe and sound. C'mon, let's
- go.}
-{110}{}{Okay. Let's go.}
+{109}{}{Bem, vou garantir que você chegue ao pátio sã e salvo. Vamos, vamos.}
+{110}{}{Ok, vamos lá.}
 {111}{}{Brog Frup}
-{112}{}{I can find my own way.}
+{112}{}{Eu posso ir por conta própria.}
 {113}{}{Desculpe, tenho minhas ordens. Precisarei acompanhá-lo até o outro lado do portão.}
-{114}{}{Okay... but I'm not happy about it. I may file a formal compla --}
+{114}{}{Ok... mas não estou feliz com isso. Posso apresentar uma reclamação formal --}
 {115}{}{Desculpe, tenho *minhas* ordens. Vou ficar.}
-{116}{}{(Leans in.) Look, it's been a *long* day, friend. Come with me, don't cause any trouble,
- and this day won't get any worse for either one of us. Understand?}
+{116}{}{(Inclina-se.) Olha, foi um dia *longo*, amigo. Venha comigo, não cause nenhum problema,
+ e este dia não ficará pior para nenhum de nós. Entende?}
 {117}{}{Ok, certo. Eu irei.}
-{118}{}{Over my dead body!}
+{118}{}{Por cima do meu cadáver!}
 {119}{}{Vault City prevails, Citizen.}
 {120}{}{Nice to see you, Citizen.}
 {121}{}{Busy day, Citizen?}
 {122}{}{After you, Citizen.}
 {123}{}{Olá, viajante.}
 {124}{}{Be about your business, Outworlder.}
-{125}{}{Remember, you have until 6 PM.}
-{126}{}{You're out of here after 6 PM.}
-{127}{}{Look, I'm a Citizen.}
+{125}{}{Lembre-se, você tem até as 18h.}
+{126}{}{Você deve sair depois das 18h.}
+{127}{}{Olha, eu sou um cidadão.}
 {128}{}{Nothing to report, Captain.}
 {129}{}{Just keeping an eye on things here, Captain.}
 {130}{}{Vault City prevails, Capitão.}
 {131}{}{Bom dia, Capitão.}
-{132}{}{You there! Halt! What is that ghoul doing here in Vault City?!}
-{133}{}{You there! Halt! What is that mutant doing here in Vault City?!}
+{132}{}{Você aí! Pare! O que aquele ghoul está fazendo aqui em Vault City?!}
+{133}{}{Você aí! Pare! O que aquele mutante está fazendo aqui em Vault City?!}
 {134}{}{Breep-oop foop foop}
-{135}{}{A ghoul? Where?}
-{136}{}{A mutant? Where?}
-{137}{}{He's with me.}
-{138}{}{He's traveling with me. If any of you racists have a problem with that, maybe we should settle it right here and now.}
-{139}{}{He's with you? Then you're coming with us. We're going back to the Courtyard where you... and that thing... belong.}
-{140}{}{All right, we'll go peacefully.}
-{141}{}{Why don't you try to escort us out of here? I guarantee it'll be an educational experience.}
-{142}{}{Great, looks like we got us a pair of idiots. All right, dim.}
-{143}{}{Very funny.}
-{144}{}{You're coming with us. We're going back to the Courtyard where you... and that thing... belong.}
-{145}{}{ME NO GOH HIM FREN! U NO FREN!}
-{146}{}{We go we go quiet-lee}
-{147}{}{All right, we'll go peacefully.}
-{148}{}{He's traveling with me. Any of you assholes have a problem with that, we can get down to shedding blood right now.}
-{149}{}{You want to do this the hard way? Fine. Guards! Intruders!}
+{135}{}{Um ghoul? Onde?}
+{136}{}{Um mutante? Onde?}
+{137}{}{Está comigo.}
+{138}{}{Ele viajam comigo. Se algum de vocês, racistas, tem algum problema com isso, talvez devêssemos resolver isso aqui e agora.}
+{139}{}{Ele está com você? Então você vem conosco. Vamos voltar para o Pátio, onde você... e aquela coisa... devem ficar.}
+{140}{}{Tudo bem, iremos pacificamente.}
+{141}{}{Por que você não nos escolta para fora daqui? Te asseguro que será uma experiência muito educativa.}
+{142}{}{Ótimo, parece que temos alguns idiotas aqui. Muito bom, tontão.}
+{143}{}{Muito divertido.}
+{144}{}{Você vem conosco. Vamos voltar para o Pátio, onde você... e aquela coisa... devem ficar.}
+{145}{}{EU NÃO, ELE AMIGO! VOCÊ NÃO AMIGO!}
+{146}{}{Nós vamos nós vamos quietinhos}
+{147}{}{Tudo bem, iremos pacificamente.}
+{148}{}{Ele viajam comigo. E se qualquer um de vocês, idiotas, tiver qualquer problema com isso, poderemos derramar algum sangue agora.}
+{149}{}{Você quer fazer isso da maneira mais difícil? Tudo bem. Guardas! Intrusos!}
 {150}{}{Hrnghhhhhhhhhh!}
-{151}{}{You're going to be dead before those friends of yours show up.}
-{152}{}{Hey! It's the one who defeated the Enclave!}
-{153}{}{Hey, congratulations on defeating the Enclave!}
-{154}{}{Welcome to Vault City, hero!}
+{151}{}{Você estará morto antes que esses seus amigos apareçam.}
+{152}{}{Ei! É aquele que derrotou a Enclave!}
+{153}{}{Ei, parabéns por derrotar a Enclave!}
+{154}{}{Bem-vindo a Vault City, herói!}
 {155}{}{Sua batalha contra a Enclave impressionou até mesmo a Primeira Cidadã.}
 {156}{}{I heard you've traveled as far south as San Francisco. Is that true?}
 {157}{}{Is it true that the U.S. was still fighting the war?}
 {158}{}{You should catalog your travels in the Vault City computer.}
 {159}{}{You're welcome to stay in Vault City as long as you want.}
-{160}{}{You should catalog your exploits against the Enclave and put it up on the List Server.}
-{161}{}{I don't recognize you. Where's your papers?}
-{162}{}{Here they are, "officer." I think you'll find everything in order.}
-{163}{}{I don't have them on me at the moment, but --}
-{164}{}{Hmmmm. All right, everything seems to be in order. Sorry to disturb you, Citizen. Vault City prevails.}
-{165}{}{Yes. Vault City prevails.}
-{166}{}{You're lucky I don't report you. Get out of here.}
+{160}{}{Você deve catalogar suas façanhas contra a Enclave e adicioná-las as Lista no Servidor.}
+{161}{}{Eu não reconheço você. Onde estão seus documentos?}
+{162}{}{Aqui estão eles, "oficial". Acho que vai encontrar tudo em ordem.}
+{163}{}{Eu não os tenho comigo no momento, mas...}
+{164}{}{Hmmmm. Pronto, parece que está tudo em ordem. Desculpe incomodá-lo, Cidadão. Vault City prevalece.}
+{165}{}{Sim. Vault City prevalece.}
+{166}{}{Você tem sorte de eu não denunciá-lo. Saia daqui.}
