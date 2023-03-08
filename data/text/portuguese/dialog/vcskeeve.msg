@@ -110,34 +110,34 @@ They don't seem to catch on that anyone would let Servants carry anything import
 {199}{}{Decidi denunciá-lo por vender documentos falsos para cidadania.}
 {200}{}{Since you're a part of customs and all, I was wondering if you had any 'advice' on how to bring certain items within the city.}
 {201}{}{Não importa.}
-{202}{}{Look, dim, get out of here, or I'll call the guards.}
-{203}{}{Look, dim, get out of h -- Mmmm. Wait a minute. Maybe...}
+{202}{}{Olha, idiota, saia daqui ou eu chamo os guardas.}
+{203}{}{Olhe, desgraça, saia daq... Mmmm. Espere um minuto. Talvez...}
 {204}{}{Hurnh?}
 {205}{}{Desliga}
-{206}{}{Come with me a second, dim. I got somebody you gotta meet.}
-{207}{}{Okee-dokeee}
-{208}{}{Nuh-uh ME STAY}
-{209}{}{Found this Outsider wandering in the wastes, Barkus. Looks like good Servant material.}
-{210}{}{Found this bunch wandering in the wastes, Barkus. This one Outsider here looks like good Servant material.}
+{206}{}{Venha comigo um segundo, idiota. Tenho alguém que você precisa conhecer.}
+{207}{}{Taaaa bom}
+{208}{}{Nãoooo EU FICO}
+{209}{}{Encontrei esse Forasteiro vagando pelos desertos, Barkus. Parece um bom material para serviçal.}
+{210}{}{Encontrei este bando vagando pelos desertos, Barkus. Este Forasteiro aqui parece um bom material para serviçal.}
 {211}{}{2 Segundos}
-{212}{}{You HAVE to be kidding. It's obviously retarded.}
-{213}{}{1 Second, don't remove Barkus' float yet.}
-{214}{}{Re-tar-dead! Pooooo!}
+{212}{}{Você só PODE estar brincando. É obviamente um retardado.}
+{213}{}{1 Segundo, não remova o flutuador de Barkus ainda.}
+{214}{}{Re-tra-dado! Ooohhh!}
 {215}{}{2 Segundos}
-{216}{}{C'mon. You need someone to work the Vault, don't you?}
-{217}{}{1 Second, don't remove Barkus' float yet.}
-{218}{}{Valt! Gechkk!}
+{216}{}{Ah, vamos. Você precisa de alguém para trabalhar na Vault, não é?}
+{217}{}{1 Segundo, não remova o flutuador de Barkus ainda.}
+{218}{}{Vauti! Gechkk!}
 {219}{}{2 Segundos}
-{220}{}{Well... hmmm. I suppose you'll be expecting a finder's fee?}
+{220}{}{Bem... hum. Suponho que você espera uma comissão, certo?}
 {221}{}{2 Segundos}
-{222}{}{Do Outsiders eat their own feces? Of COURSE I want a finder's fee.}
-{223}{}{1 Second, Don't remove Skeev's float}
-{224}{}{Feeee? Peeeeeeee!}
+{222}{}{Os forasteiros comem suas próprias fezes? Claro que eu quero uma comissão.}
+{223}{}{1 segundo, não remova o flutuador de Skeev}
+{224}{}{Comssão? Siiiiiiii!}
 {225}{}{1 Second}
-{226}{}{Very well. I'll send it off to the Vault then. MAYBE it can clear up the storerooms.}
-{227}{}{Whoa. How did you escape?}
-{228}{}{Whoa. How did you escape? You better get back inside before Barkus gets mad. C'mon...}
-{229}{}{Oh-keeee}
+{226}{}{Muito bem. Vou mandá-lo para a Vault então. TALVEZ possa limpar os armazéns.}
+{227}{}{Uau. Como você escapou?}
+{228}{}{Uau. Como você escapou? É melhor voltar para dentro antes que o Barkus fique furioso. Vamos lá...}
+{229}{}{Okeeeee}
 {230}{}{Desliga}
 {231}{}{Like I said before, I can make you a full-fledged Citizen for $200. You'll have free passage
  through the gate, no hassles. I can print out the papers, register your serial number,
