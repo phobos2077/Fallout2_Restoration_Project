@@ -524,47 +524,47 @@
 {556}{}{Before I go, I had some more questions...}
 {557}{}{Tudo bem. Estou saindo.}
 {558}{lyn087}{Moore? He's a troublemaker. THAT'S what he is.}
-{559}{}{You're right. He's got... outside interests.}
-{560}{}{Why do you say he's a troublemaker?}
+{559}{}{Você tem razão. Ele tem... interesses no exterior.}
+{560}{}{Por que você diz que ele é um encrenqueiro?}
 {561}{}{Posso te fazer outra pergunta?}
-{562}{}{I spoke with him... and a lot of what he says makes sense.}
+{562}{}{Falei com ele... e muito do que ele diz faz sentido.}
 {563}{}{Concordo. Você quer que eu... cuide dele?}
-{564}{}{You should revoke his Citizenship, then.}
-{565}{}{I see. I'll be sure to stay clear of him then. Good day.}
-{566}{lyn088}{He constantly seeks to convince the Citizens to turn Vault City into a..."democracy,"
- as he calls it, with everyone having a say in laws and decision-making. *I* call it mob rule.}
-{567}{}{"Democracy?"}
-{568}{}{How does he try and convince the Citizens?}
-{569}{}{He sounds like a problem. How about I... take care of him?}
-{570}{}{Can't you just kick him out?}
+{564}{}{Você deveria revogar a cidadania dele, então.}
+{565}{}{Entendo. Vou me certificar de ficar longe dele então. Bom dia.}
+{566}{lyn088}{Ele constantemente procura convencer os Cidadãos a transformar Vault City em uma...
+ "democracia", como ele chama, com todos tendo voz nas leis e na tomada de decisões. *Eu* chamo isso de regra da máfia.}
+{567}{}{"Democracia?"}
+{568}{}{Como ele tenta convencer os Cidadãos?}
+{569}{}{Ele parece um problema. Que tal eu... cuidar dele?}
+{570}{}{Você não pode simplesmente expulsá-lo?}
 {571}{}{Eu tenho mais algumas perguntas...}
-{572}{}{Oh. Well, thanks for the information. Good day.}
-{573}{lyn089}{The archives state that many old world nations had such a government. We know where THAT
- got them. Can you imagine how long it would take to get anything done in such a society? It's inconceivable.}
-{574}{}{Inconceivable? Why?}
-{575}{}{How does Moore try and convince the Citizens?}
+{572}{}{Oh. Bem, obrigado pela informação. Bom dia.}
+{573}{lyn089}{Os arquivos afirmam que muitas nações do velho mundo tiveram tal governo, e nós sabemos
+ onde ISSO as levou. Você pode imaginar quanto tempo levaria para fazer qualquer coisa em tal sociedade? É inconcebível.}
+{574}{}{Inconcebível? Por que?}
+{575}{}{Como Moore tenta convencer os Cidadãos?}
 {576}{}{Eu tenho mais algumas perguntas...}
-{577}{}{I suppose so. I have to be going.}
-{578}{}{Thanks for your time, First Citizen. Good day.}
-{579}{lyn090}{A government needs a strong, capable leader who can make decisions quickly and has the
- power to enforce them. Government by committee is no kind of government at all.}
-{580}{}{How does Moore try and convince the Citizens that Vault City should be a democracy?}
+{577}{}{Eu suponho que sim. Preciso ir.}
+{578}{}{Obrigado pelo seu tempo, Primeira Cidadã. Bom dia.}
+{579}{lyn090}{Um governo precisa de um líder forte e capaz, que possa tomar decisões rapidamente e
+ tenha o poder de aplicá-las. Governo por comitê não é nenhum tipo de governo.}
+{580}{}{Como Moore tenta convencer os cidadãos de que Vault City deveria ser uma democracia?}
 {581}{}{Eu tenho mais algumas perguntas...}
-{582}{}{I suppose so. I have to be going.}
-{583}{}{Thanks for your time, First Citizen. Good day.}
-{584}{lyn091}{Mostly by ranting in public and making a fool of himself. He plays on our sympathies with
- tales of a plague in the NCR, as if WE could take care of the whole world.}
-{585}{}{Sounds like a real problem. Do you want me to... take care of him?}
-{586}{}{You know he's right: you probably could. Your medical technology IS pretty impressive.}
-{587}{}{Can't you just kick him out?}
-{588}{}{Oh. Well, I was just curious about him. Good day.}
-{589}{lyn092}{You, too? A Citizen is free to his own beliefs, but this... THIS! Perhaps you are incapable
- of handling the responsibility of Citizenship!}
-{590}{}{Whoa... sorry! Look, never mind... I had some other questions I wanted to ask you...}
-{591}{}{If it means agreeing blindly with you, then maybe YOU'RE the one incapable of handling the responsibility of Citizenship.}
-{592}{}{Thomas Moore is a Citizen, and he is the leader of this movement.}
-{593}{}{This is a new era, it is time for change.}
-{594}{}{I'm sorry you feel this way. Bye.}
+{582}{}{Eu suponho que sim. Preciso ir.}
+{583}{}{Obrigado pelo seu tempo, Primeira Cidadã. Bom dia.}
+{584}{lyn091}{Principalmente reclamando em público e fazendo papel de bobo. Ele joga com nossas
+ simpatias com histórias de uma praga na NCR, como se NÓS pudéssemos cuidar do mundo inteiro.}
+{585}{}{Parece um problema real. Você quer que eu... cuide dele?}
+{586}{}{Você sabe que ele está certo: você provavelmente poderia. Sua tecnologia médica é bastante impressionante.}
+{587}{}{Você não pode simplesmente expulsá-lo?}
+{588}{}{Oh. Bem, eu estava apenas curioso sobre ele. Bom dia.}
+{589}{lyn092}{Você também? Um Cidadão é livre para suas próprias crenças, mas isso... ISSO! Talvez
+ você seja incapaz de lidar com a responsabilidade da Cidadania!}
+{590}{}{Eh... desculpe! Olha, deixa pra lá... Eu tinha outras perguntas que queria te fazer...}
+{591}{}{Se isso significa concordar cegamente com você, então talvez VOCÊ seja a única incapaz de lidar com a responsabilidade da Cidadania.}
+{592}{}{Thomas Moore é um cidadão, e ele é o líder deste movimento.}
+{593}{}{Esta é uma nova era, é hora de mudança.}
+{594}{}{Lamento que você se sinta assim. Tchau.}
 {595}{lyn093}{No. He is not a TRUE Citizen... not anymore. When he came to us two years ago, he seemed
  everything we would want in a Citizen. But just a year later he... changed. He turned against us.}
 {596}{}{You know, that would explain a few things. Moore was probably just playing a role for a while.}
@@ -587,7 +587,7 @@
 {609}{}{I'm sure your slaves would disagree.}
 {610}{}{But... you buy and sell human beings like brahmin. Doesn't keeping slaves bother you?}
 {611}{}{Já ouvi o suficiente. Tchau.}
-{612}{}{Thanks for your time, First Citizen. Good day.}
+{612}{}{Obrigado pelo seu tempo, Primeira Cidadã. Bom dia.}
 {613}{lyn097}{They are not slaves, they are our "servants." We have given them homes, food, clothing,
  and a purpose. We have given them a life.}
 {614}{}{Sure. Why be free when they could be laboring for you?}

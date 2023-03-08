@@ -102,12 +102,12 @@ They don't seem to catch on that anyone would let Servants carry anything import
 {191}{}{If that's what it takes...}
 {192}{}{You reconsider?}
 {193}{}{You again. What do you want?}
-{194}{}{Vant? Vant!}
+{194}{}{Vauti? Vauti!}
 {195}{}{Desliga}
 {196}{}{O que é este lugar?}
-{197}{}{I'd like to get inside the city.}
-{198}{}{I'd like to buy those fake Citizenship papers you were offering before.}
-{199}{}{I've decided to turn you in for selling fake Citizenship papers.}
+{197}{}{Eu gostaria de entrar na cidade.}
+{198}{}{Eu gostaria de comprar aqueles documentos falsos de Cidadania que você estava oferecendo.}
+{199}{}{Decidi denunciá-lo por vender documentos falsos para cidadania.}
 {200}{}{Since you're a part of customs and all, I was wondering if you had any 'advice' on how to bring certain items within the city.}
 {201}{}{Não importa.}
 {202}{}{Look, dim, get out of here, or I'll call the guards.}
