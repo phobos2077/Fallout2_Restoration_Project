@@ -29,20 +29,20 @@
  Nossa escolha é escolher a chicotada mais leve.}
 {123}{}{O que você fez, é claro.}
 {124}{}{Que caça ao chicote, então. Adeus.}
-{125}{}{You bet I have. If we don't ally ourselves with one of the families in New Reno, you can just
- kiss Redding goodbye. At least any type of Redding that I'd want to live in.}
+{125}{}{Pode apostar que sim. Se não nos aliarmos a uma das famílias de New Reno, podes dizer
+ adeus ao Redding. Pelo menos algum tipo de Redding em que eu gostaria de viver.}
 {126}{}{O que você quer dizer?}
-{127}{}{I see. Well, goodbye.}
-{128}{}{If the NCR takes over, Redding's going to be put under the thumb, hard. They aren't real big on
- personal freedom. They're going to turn Redding into another splotch on the New California Republic map.
- The Redding I know will be gone forever.}
-{129}{}{Hmm, what about Vault City, then?}
-{130}{}{Interesting. Goodbye.}
-{131}{}{Vault City? (he laughs) Those bigots would turn Redding into a slave-labor camp. They don't see
- anyone who's not one of their precious Citizens as being worth a warm bucket of spit. Spending my life
- bowing and scraping to those bigots isn't my idea of any kind of life.}
-{132}{}{How's New Reno any different?}
-{133}{}{Thanks for clueing me in to what's going on here. Goodbye.}
+{127}{}{Entendo. Bem, adeus.}
+{128}{}{Se a NCR assumir, Redding será colocado sob o controle, na base da força, eles não são muito
+ adeptos da liberdade pessoal. Vão transformar Redding em outra mancha no mapa da República da Nova
+ Califórnia. Essa Redding que conheço desaparecerá para sempre.}
+{129}{}{Hmm, e quanto a Vault City, então?}
+{130}{}{Interessante. Adeus.}
+{131}{}{Vault City? (Risada) Aqueles fanáticos transformariam Redding em um campo de trabalho escravo.
+ Eles não veem ninguém que não seja um de seus preciosos Cidadãos como digno nem de lamber o cuspe
+ deles. Passar minha vida me curvando e rastejando para aqueles fanáticos não é a minha ideia para uma vida ideal.}
+{132}{}{E como New Reno seria diferente?}
+{133}{}{Obrigado por me informar sobre o que está acontecendo aqui. Adeus.}
 {134}{}{New Reno é forte o suficiente para proteger Redding dos outros dois. Já que New Reno está dividida
  entre diferentes famílias de gangues, é dividida o suficiente para nos dar nossa melhor chance de
  autonomia. Em New Reno, eles não se importam como administramos as coisas, contanto que consigam seu ouro.}
@@ -90,29 +90,29 @@
 {163}{}{Quem é o Dr. Johnson?}
 {164}{}{Interessante. Deixe eu te perguntar sobre outra coisa, Dan.}
 {165}{}{É melhor eu ir andando, Dan. Adeus.}
-{166}{}{I don't know what happened, but most of the Jet Jocks got real sick on that last batch - and
- now they can't go near Jet without getting sick. Doc Johnson's looking into it, I heard.}
+{166}{}{Não sei o que aconteceu, mas a maioria dos viciados em jet ficaram muito doentes por causa
+ do último lote, e agora eles não podem chegar nem perto de jet sem passar mal. Dr. Johnson está investigando, é o que ouvi dizer.}
 {167}{}{Quem é o Dr. Johnson?}
 {168}{}{Interessante. Deixe eu te perguntar sobre outra coisa, Dan.}
-{169}{}{I better be Trekking, Dan. Goodbye.}
-{170}{}{Cause I'm nothing but the biggest, toughest, mine-crawling, gullywumpin', snake-eatin' buck
- in these here parts. *Dangerous* Dan McGrew; that's me, all right.}
-{171}{}{I see; let me ask you something else, Dangerous Dan.}
-{172}{}{You don't look so damn tough to me.}
-{173}{}{Sounds like you're quite a guy. Well, I don't want to take anymore of your valuable time, Mr.
- Dangerous. Goodbye.}
-{174}{}{Them's fightin' words in these here parts. You ready to back that up?}
-{175}{}{Yes, I am. You've opened your big yap once too many times. Draw... pilgrim.}
-{176}{}{I could if I thought you'd give me enough satisfaction to pay for the ammo it'd take to kill you.}
-{177}{}{I could, if I wanted too. But I'm too busy to mess with you right now.}
-{178}{}{Yeah, that's what I thought. (pause) You're yellow.}
-{179}{}{I'll show you yellow... when I cut out your spleen. I'm a-callin' you out.}
-{180}{}{We'll just see about that, someday. Goodbye for now.}
-{181}{}{A Garden of Eden Creation Kit? Never heard of something like that. I tend to find my Eden in
- Lou's sweet arms.}
-{182}{}{Isn't Lou a guy's name?}
-{183}{}{I see. Let me ask you something else, then.}
-{184}{}{The search continues. Goodbye.}
+{169}{}{É melhor eu sair daqui, Dan. Tchau.}
+{170}{}{Porque eu sou o maior, mais durão, mais assustador, forte e maior casca grossa por esses lados.
+ *Perigoso* Dan McGrew; sou eu, entenda.}
+{171}{}{Entendo; deixe eu perguntar outra coisa, Perigoso Dan.}
+{172}{}{Você não me parece tão durão.}
+{173}{}{Parece que você é um cara forte. Bem, não quero tomar mais do seu precioso tempo, Sr.
+ Perigoso. Adeus.}
+{174}{}{Essas são palavras ofensivas por aqui. Você está pronto para apoiar?}
+{175}{}{Sim, eu sou. Você já latiu muito por aqui. Saque a arma... peregrino.}
+{176}{}{Até faria isso, mas só se eu visse que matar você valeria o preço da munição que vou gastar.}
+{177}{}{Eu faria isso, se eu quisesse também. Mas estou muito ocupado para fazer isso com você agora.}
+{178}{}{Sim, foi o que pensei. (pausa) Você é um amarelão.}
+{179}{}{Eu vou te mostrar o amarelão... quando eu cortar você no meio. Vamos logo.}
+{180}{}{Veremos isso, algum dia. Até logo.}
+{181}{}{Um Kit de Criação do Jardim do Éden? Nunca ouvi falar de algo assim. Costumo encontrar
+ meu Éden nos doces braços de Lou.}
+{182}{}{Lou não é nome de homem?}
+{183}{}{Entendo. Deixe eu te perguntar outra coisa, então.}
+{184}{}{A busca continua. Adeus.}
 {185}{}{It is when it isn't short for Louisa, like my Lou's is. She runs the Malamute Saloon here in
  town. Hey, just what are you getting at, anyway?}
 {186}{}{Uh... nada, Dan. Nada. Deixe eu te perguntar outra coisa.}
