@@ -162,15 +162,15 @@ They don't seem to catch on that anyone would let Servants carry anything import
 {248}{}{Se não nasce como cidadão, tem que fazer um teste para se tornar cidadão. Número de
  forasteiros que fizeram o teste e se tornaram Cidadãos? Zero. Suas chances? Menos que zero.}
 {249}{}{What is this test?}
-{250}{}{I see. How much for those papers again?}
+{250}{}{Entendo. Quanto é mesmo por esses documentos?}
 {251}{}{Never mind. Maybe we'll talk some other time.}
-{252}{}{Gregory, the Proconsul, gives a "test" to any Outsiders who want to become Citizens. It
- measures their intelligence and perception, and you have to be damned lucky to pass it, too.
- Most Citizens would have trouble with it.}
+{252}{}{Gregory, o Procônsul, faz um "teste" para qualquer Forasteiro que queira se tornar Cidadão.
+ Ele mede a inteligência e a percepção deles, e você também precisa ter muita sorte para passar.
+ A maioria dos cidadãos teria problemas com isso.}
 {253}{}{So what makes it so hard?}
-{254}{}{I see. How much for those papers again?}
-{255}{}{Hmmmm. Maybe we'll talk some other time.}
-{256}{}{Since most Outsiders can't read, do trigonometry, or spell "Australopithecus," you figure it
- out. It's just an excuse to keep Outsiders from becoming Citizens.}
-{257}{}{I see. How much for those papers again?}
-{258}{}{Hmmm. Maybe we'll talk some other time.}
+{254}{}{Entendo. Quanto é mesmo por esses documentos?}
+{255}{}{Hmmmm. Talvez conversemos outra hora.}
+{256}{}{Como a maioria dos Forasteiros não sabe ler, fazer trigonometria ou soletrar "Australopithecus",
+ como você deve saber. É apenas uma desculpa para impedir que os Forasteiros se tornem Cidadãos.}
+{257}{}{Entendo. Quanto é mesmo por esses documentos?}
+{258}{}{Hmmm. Talvez a conversemos outra hora.}
