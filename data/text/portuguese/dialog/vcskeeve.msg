@@ -145,22 +145,22 @@ They don't seem to catch on that anyone would let Servants carry anything import
 {232}{}{What does it take to become a real Citizen?}
 {233}{}{And what if I do? I could go tell him right now that you're selling fake Citizenship papers.}
 {234}{}{I sure hope so. I can be pretty persuasive.}
-{235}{}{We'll see about that.}
-{236}{}{Ha! I'd like to see you try. Wallace'll never believe you.}
-{237}{}{Oh, I think he will once he sees the fake citizenship papers you gave me. Of course, if you
- happen to have some cash on you, it can be our little secret.}
-{238}{}{We'll see about that.}
+{235}{}{Veremos isso.}
+{236}{}{Ha! Eu gostaria de ver você tentar. Wallace nunca vai acreditar em você.}
+{237}{}{Ah, acho que ele vai, assim que vir os papéis falsos de cidadania que você me deu. Claro,
+ se você tiver algum dinheiro sobrando, isso pode ser nosso segredinho.}
+{238}{}{Veremos isso.}
 {239}{}{Vou levar os papéis da Cidadania, então.}
 {240}{}{Bem, $200 é muito caro para mim. Talvez eu volte se conseguir mais algum dinheiro.}
 {241}{}{Não, valeu. Talvez outra hora.}
 {242}{}{What does it take to become a real Citizen?}
-{243}{}{Hmmmm. How much for the Citizenship papers again?}
-{244}{}{If I have to pry it from his dead fingers, I will.}
-{245}{}{How do you become a real Citizen?}
+{243}{}{Hmmmm. Quanto custa mesmo os documentos da Cidadania?}
+{244}{}{Se eu tiver que arrancar de seus dedos mortos, farei.}
+{245}{}{Como você se torna um cidadão de verdade?}
 {246}{}{Nada, esquece.}
 {247}{}{Não, valeu. Talvez outra hora.}
-{248}{}{If you're not born a Citizen, then you have to take a test to become a Citizen. Number of
- Outsiders that have taken the test and become Citizens? Zero. Your chances? LESS than zero.}
+{248}{}{Se não nasce como cidadão, tem que fazer um teste para se tornar cidadão. Número de
+ forasteiros que fizeram o teste e se tornaram Cidadãos? Zero. Suas chances? Menos que zero.}
 {249}{}{What is this test?}
 {250}{}{I see. How much for those papers again?}
 {251}{}{Never mind. Maybe we'll talk some other time.}
