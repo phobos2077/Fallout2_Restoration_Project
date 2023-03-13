@@ -113,30 +113,30 @@
 {182}{}{Lou não é nome de homem?}
 {183}{}{Entendo. Deixe eu te perguntar outra coisa, então.}
 {184}{}{A busca continua. Adeus.}
-{185}{}{It is when it isn't short for Louisa, like my Lou's is. She runs the Malamute Saloon here in
- town. Hey, just what are you getting at, anyway?}
+{185}{}{O nome mesmo é Louisa, a forma abreviada que é Lou. Ela comanda o Malamute Saloon aqui na
+ cidade. Ei, o que você quer insinuar, afinal?}
 {186}{}{Uh... nada, Dan. Nada. Deixe eu te perguntar outra coisa.}
-{187}{}{Nothing. Just figuring out something, that's all. Goodbye, sweet-pea.}
-{188}{}{My mistake. Well, I better be rambling along. Goodbye.}
-{189}{}{Well, one thing's for sure: I could sure use a new Control Chip for my Excavator machine.}
-{190}{}{A new Excavator Chip? What's that?}
-{191}{}{Let me ask you about something else, Dan.}
-{192}{}{I see. Well, I'll let you know If I find one. Goodbye.}
-{193}{}{Funny you of all people should ask that. There's all kinds of things going on here in town
- lately.}
-{194}{}{Like I said, you should know if anything's going on here in town if anyone does.}
-{195}{}{Do you mean the Excavator Chip for the mining machine?}
-{196}{}{Do you mean that whole thing about the cut-up whore?}
-{197}{}{Do you mean the bar brawl that I settled?}
-{198}{}{I'm just naturally active, I guess. Let me ask you something else.}
-{199}{}{I'm not sure what you mean, but I don't have time to find out right now. Goodbye.}
-{200}{}{Yeah, I mean the Excavator Chip that you sold to Marge LeBarge over at the Kokoweef Mine. That
- was a real mistake... not just for me, but for Redding.}
+{187}{}{Nada. Apenas descobrindo algumas coisas, isso é tudo. Adeus.}
+{188}{}{Erro meu. Bem, é melhor eu ir saindo. Adeus.}
+{189}{}{Bem, uma coisa eu te asseguro: eu poderia usar um novo chip de controle na minha máquina escavadeira.}
+{190}{}{Um novo chip de escavadeira? O que é isso?}
+{191}{}{Deixe eu te perguntar sobre outra coisa, Dan.}
+{192}{}{Entendo. Bem, se eu encontrar um te avisarei. Adeus.}
+{193}{}{É engraçado que todos vocês perguntem a mesma coisa. Ultimamente, todos os tipos de
+ coisas acontecem na cidade.}
+{194}{}{Como eu disse, você deve saber se está acontecendo alguma coisa na cidade.}
+{195}{}{Você quer dizer o chip da escavadeira para a máquina de mineração?}
+{196}{}{Você quer dizer aquele assunto sobre a prostituta que foi mutilada?}
+{197}{}{Você quer dizer a briga de bar que resolvi?}
+{198}{}{Eu sou naturalmente ativo, eu acho. Deixe eu te perguntar outra coisa.}
+{199}{}{Não tenho certeza do que você quer dizer, mas não tenho tempo para descobrir isso agora. Adeus.}
+{200}{}{Sim, me refiro ao Chip da Escavadeira que você vendeu para Marge LeBarge da Mina Kokoweef.
+ Isso foi um grande erro... não apenas para mim, mas para Redding.}
 {201}{}{O que você quer dizer com isso?}
-{202}{}{Those are the breaks, pal. Let me ask you about something else going on in town.}
-{203}{}{Shit happens. See you around, maybe.}
-{204}{}{I can't believe that you let that bastard Hakeswill go free. My miners seem happy about it, but
- I'm not sure I am.}
+{202}{}{As coisas são como elas pintam, amigo. Deixe eu te perguntar mais alguma coisa que está acontecendo na cidade.}
+{203}{}{Merdas acontecem. Vejo você por aí, talvez.}
+{204}{}{Eu não posso acreditar que você deixou aquele desgraçado do Hakeswill sair livre. Meus mineiros
+ parecem felizes com isso, mas eu não consigo ficar.}
 {205}{}{Foi uma decisão difícil e fiz o melhor que pude. Deixe eu te perguntar sobre outra coisa acontecendo
  na cidade.}
 {206}{}{Uh, eu não tinha certeza se ele era culpado. Mas deixe eu te perguntar sobre outra coisa.}
@@ -197,29 +197,29 @@
  assumirem aqui em Redding, estaremos em apuros. Muito melhor apoiar a mim e meus amigos em New Reno.}
 {246}{}{Problemas? O que você quer dizer?}
 {247}{}{Não tenho tempo para aula de política. Adeus.}
-{248}{}{Everyone wants what Redding's got. Some folks are going to be nicer about how they get it out
- of us, though. Let me explain the situation.}
+{248}{}{Todo mundo quer o que Redding pode oferecer. Mas algumas pessoas podem ser mais legais
+ sobre como vão tirar isso de nós. Deixe eu te explicar a situação.}
 {249}{}{Vá em frente.}
 {250}{}{Já ouvi o suficiente de sua explicação. Adeus.}
-{251}{}{I'll pay you $1,000 for that Excavator Chip.}
-{252}{}{That sounds good to me. Where do I find it?}
-{253}{}{Sounds good to me. Here's your chip.}
-{254}{}{I think I'll hold on to it for now. Goodbye.}
-{255}{}{If I find one, I'll let you know. Goodbye.}
-{256}{}{It's in the Great Wanamingo Mine just west of town. Down inside the mine there's a great big
- mining machine. You can hardly miss it. The chip's in that machine. You just need to yank it out and
- bring it to me.}
-{257}{}{Let me ask you about some other stuff going on in town.}
-{258}{}{If you need it so bad, how come you haven't gone to get it yourself?}
-{259}{}{Will do. Goodbye for now.}
-{260}{}{I've got a big pre-war Excavator all ready to run, but it's got a problem. No brains.}
-{261}{}{I'd like to say that it's got plenty of company in this town, but instead I'll say: What do
- you mean?}
-{262}{}{I'm not exactly picky, but I don't like the sound of looking for *more brains*. Goodbye.}
+{251}{}{Te pago $1.000 pelo Chip da Escavadeira.}
+{252}{}{Isso parece bom para mim. Onde posso encontrá-lo?}
+{253}{}{Parece bom para mim. Aqui está seu chip.}
+{254}{}{Acho que vou ficar com ele por enquanto. Adeus.}
+{255}{}{Se eu encontrar um, te avisarei. Adeus.}
+{256}{}{Fica na Grande Mina Wanamingo, a oeste da cidade. Dentro da mina tem uma grande máquina
+ de mineração, você dificilmente pode passar sem perceber, o chip está naquela máquina. Você só
+ precisa tirar e trazê-lo para mim.}
+{257}{}{Deixe eu te perguntar sobre algumas coisas que estão acontecendo na cidade.}
+{258}{}{Se você precisa tanto dele, por que não foi buscar você mesmo?}
+{259}{}{Vou fazer. Até logo.}
+{260}{}{Eu tenho uma grande escavadeira pré-guerra pronta para funcionar, mas ela tem um problema: falta o cérebro.}
+{261}{}{Eu diria que ele tem muita companhia nesta cidade, mas em vez disso direi: como
+ assim?}
+{262}{}{Não sou exatamente exigente, mas não gosto desse negócio de procurar *mais cérebros*. Adeus.}
 {263}{}{Its control chip burnt out, and it's not like I can order a new one. But I know where one is.
  Be willing to pay $1,000 for it, too.}
 {264}{}{Where is it?}
-{265}{}{If you need it so bad, how come you haven't gone to get it yourself?}
+{265}{}{Se você precisa tanto dele, por que não foi buscar você mesmo?}
 {266}{}{I'm packed to the gills with quests already. Sorry, pal. Goodbye.}
 {267}{}{Plenty of reasons, most of 'em hungry and nasty. Wanamingo mine's just chock-full of hungry
  Wanamingos.}
@@ -230,7 +230,7 @@
 {271}{}{Yeah, right. I'll think about it. Goodbye.}
 {272}{}{That sounds scary. I don't think that's a job for me. My knees are knocking.}
 {273}{}{You do that. $1,000 isn't chump-change, pal.}
-{274}{}{Let me ask you about some other stuff going on in town.}
+{274}{}{Deixe eu te perguntar sobre algumas coisas que estão acontecendo na cidade.}
 {275}{}{I'll think it over. I can always use some extra cash.}
 {276}{}{I guess I was wrong when I thought you had what it takes. Get out of here; you're waistin' my time.}
 {277}{}{Ye', yes, sir. I'm leaving now, sir.}
@@ -238,7 +238,7 @@
 {279}{}{Heck... if I were you, I'd buy the deed to the place, clear it out, and sell it back to Mayor
  Ascorti. He's the deed-holder now.}
 {280}{}{Take care of yourself. I really need that chip.}
-{281}{}{Let me ask you about some other stuff going on in town.}
+{281}{}{Deixe eu te perguntar sobre algumas coisas que estão acontecendo na cidade.}
 {282}{}{Obrigado pela dica. Tchau.}
 {283}{}{"Painless" Doc Johnson is our town quack. Oh, I suppose he knows something about doctoring, but
  I don't guess he knows too much. He's on the west side of Downtown. Anyhow, he usually sells all the

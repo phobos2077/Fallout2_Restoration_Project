@@ -1,35 +1,35 @@
-{100}{}{You see an elderly woman, lean and weathered.}
-{101}{}{You see Tandi, president of the NCR.}
-{102}{}{You see a tough, self-confident woman. It's clear that she is used to the respect of others.}
-{103}{tand1}{I'm Tandi, president of NCR. My boys tell me you're looking for work. What are you handy at?}
-{104}{}{Me good gun. One of best.}
-{105}{}{Me good talk people.}
-{106}{}{Me good fighter. Kick ass.}
-{107}{}{Me sneaky. Get where want. No see or hear.}
-{108}{}{Me got many talents.}
-{109}{}{Uh, just stuff.}
-{110}{}{I'm good with a gun. One of the best.}
-{111}{}{I've been told, Madame President, that I have a way with words.}
-{112}{}{I'm good at unarmed combat, up close and personal.}
-{113}{}{I'm good at getting to where I need to go without being seen or heard.}
-{114}{}{I have many talents, and they are all at your disposal.}
-{115}{}{Just stuff I guess.}
-{116}{tand2}{Hmmm. You're not quite what I'm looking for. Sure you can handle yourself?}
-{117}{}{Me not know. What job?}
-{118}{}{Me believe in self. Me can do!}
-{119}{}{That depends on the job you're offering.}
-{120}{}{Yes, I'm confident in my abilities and myself.}
-{121}{tand3}{You sound like just what's needed.}
-{122}{}{Good. How me help?}
-{123}{}{Excellent, how can I help you?}
-{124}{tand4}{We need some computer parts from our old base - Vault 15. Problem is there's squatters there who won't let anybody by. Somebody has to convince 'em to let us in - or just bring back the parts. Up for the job?}
-{125}{}{Me no like. Me go.}
-{126}{}{Me do for you.}
-{127}{}{Me been there. Squatters want deal. You teach, you help, they give you vault.}
-{128}{}{Me been there. Me got parts.}
-{129}{}{Me been there. Squatters want deal. You teach, you help, they give you vault. Here parts also.}
-{130}{}{Sorry, this doesn't sound like my line of work.}
-{131}{}{I'd be happy to help you out.}
+{100}{}{Você vê uma mulher idosa, magra e envelhecida.}
+{101}{}{Você vê Tandi, presidente da NCR.}
+{102}{}{Você vê uma mulher forte e autoconfiante. É claro que ela está acostumada com o respeito dos outros.}
+{103}{tand1}{Sou Tandi, presidente da NCR. Meus homens me disseram que você está procurando trabalho. Em que você é útil?}
+{104}{}{Sou bom com armas. Um dos melhores.}
+{105}{}{Sou bom em conversar com pessoas.}
+{106}{}{Sou bom lutador. Arrebento.}
+{107}{}{Sou sorrateiro. Chego onde quiser sem ninguém ver ou ouvir.}
+{108}{}{Eu tenho muitos talentos.}
+{109}{}{Uh, algumas coisas.}
+{110}{}{Eu sou bom com uma arma. Um dos melhores.}
+{111}{}{Me disseram, senhora presidente, que levo jeito com as palavras.}
+{112}{}{Sou bom em combate desarmado, no corpo a corpo.}
+{113}{}{Sou bom em chegar aonde preciso sem ser visto ou ouvido.}
+{114}{}{Tenho muitos talentos e todos estão à sua disposição.}
+{115}{}{Apenas coisas, eu acho.}
+{116}{tand2}{Hmmm, você não é bem o que estou procurando. Tem certeza que você pode cuidar de si mesmo?}
+{117}{}{Eu não sei. Que trabalho?}
+{118}{}{Eu acredito em mim mesmo. Eu posso fazer!}
+{119}{}{Isso depende do trabalho que você está oferecendo.}
+{120}{}{Sim, sou confiante em minhas habilidades e em mim mesmo.}
+{121}{tand3}{Você parece exatamente o que precisamos.}
+{122}{}{Bom. Como posso ajudar?}
+{123}{}{Excelente, como posso te ajudar?}
+{124}{tand4}{Precisamos de algumas peças de computador de nossa antiga base, a Vault 15. O problema é que há invasores lá que não deixam ninguém passar. Alguém tem que convencê-los a nos deixar entrar, ou apenas trazer de volta as peças. Pronto para o trabalho?}
+{125}{}{Não gosto, eu vou.}
+{126}{}{Eu faço por você.}
+{127}{}{Eu tive lá, invasores querem acordo. Você ensina, você ajuda, eles te dão Vauti.}
+{128}{}{Eu estive lá. Eu tenho peças.}
+{129}{}{Eu estive lá, invasores querem acordo. Você ensina, você ajuda, eles te dão Vauti. Aqui peças também.}
+{130}{}{Desculpe, isso não parece meu tipo de trabalho.}
+{131}{}{Ficarei feliz em ajudá-la.}
 {132}{}{I'm interested, but what's the job pay?}
 {133}{}{I've handled most of this already. The squatters want a deal. You help them become self sufficient and they'll give you access to the vault.}
 {134}{}{Eu estive lá e tenho as peças que você está procurando.}
@@ -184,9 +184,9 @@
 {283}{}{Ok.}
 {284}{tand40}{De volta, Estranho? O trabalho está feito? Temos o acesso a Vault?}
 {285}{}{Eu trabalhando nisso. Tchau.}
-{286}{}{Me been there. Squatters want deal. You teach, you help, they give you vault.}
-{287}{}{Me been there. Me got parts.}
-{288}{}{Me been there. Squatters want deal. You teach, you help, they give you vault. Here parts also.}
+{286}{}{Eu tive lá, invasores querem acordo. Você ensina, você ajuda, eles te dão Vauti.}
+{287}{}{Eu estive lá. Eu tenho peças.}
+{288}{}{Eu estive lá, invasores querem acordo. Você ensina, você ajuda, eles te dão Vauti. Aqui peças também.}
 {289}{}{Ainda estou trabalhando nisso. Até mais.}
 {290}{}{I've handled most of this already. The squatters want a deal. You help them become self sufficient and they'll give you access to the vault.}
 {291}{}{Eu estive lá e tenho as peças que você está procurando.}

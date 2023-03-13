@@ -1,22 +1,22 @@
-{100}{}{You see a dirty but strong-looking man.}
-{101}{}{You see Connar.}
-{102}{}{Hey you! What're you doing here?!}
-{103}{}{Stay where you are for now, wanderer. What are you doing here?}
-{104}{}{I'm killing off all these mole rats.}
-{105}{}{Why, what's it to you?}
-{106}{}{Why you Yell!}
-{107}{}{I bet those bastards at Vault City sent you. Well, you best be off, and leave everything else alive.}
-{108}{}{Well, it's a little late for that.}
+{100}{}{Você vê um homem sujo, mas de aparência forte.}
+{101}{}{Você vê Connar.}
+{102}{}{Ei você! O que está fazendo aqui?!}
+{103}{}{Fique onde está por enquanto, andarilho. O que você está fazendo aqui?}
+{104}{}{Estou matando todos esses ratos toupeira.}
+{105}{}{Por que, o que é isso?}
+{106}{}{Você grita muito!}
+{107}{}{Aposto que aqueles cretinos em Vault City te enviaram. Bem, é melhor você ir embora e deixar todo o resto vivo.}
+{108}{}{Bem, é um pouco tarde para isso.}
 {109}{}{Por quê?}
-{110}{}{Sorry, I have a job to do.}
-{111}{}{Those creatures are the only thing stopping Vault City from making us their so-called "servants".}
+{110}{}{Desculpe, tenho um trabalho a fazer.}
+{111}{}{Essas criaturas são a única coisa que impede Vault City de nos tornar seus chamados "servos".}
 {112}{}{Olha, eles estão me pagando para me livrar dessas feras, então é isso que vou fazer.}
 {113}{}{Eles não me disseram isso.}
 {114}{}{Eles estão me pagando para me livrar deles, e o trabalho está feito.}
 {115}{}{Seu idiota! Por que você fez isso!}
 {116}{}{Precisava do dinheiro.}
-{117}{}{They'll come for us if you do that, you know.}
-{118}{}{Not my problem.}
+{117}{}{Eles virão atrás de nós se você fizer isso, entenda.}
+{118}{}{Não é problema meu.}
 {119}{}{Well I hope you choke on it. They'll be here for us soon.}
 {120}{}{I didn't know this was why they wanted the job done.}
 {121}{}{Yeah, well, I don't deal with trash like you anyway.}
