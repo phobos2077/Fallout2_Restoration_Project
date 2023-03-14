@@ -90,13 +90,13 @@
 {205}{}{As únicas coisas que protegem aquele lugar agora são cadáveres. Eu já limpei todo o acampamento.}
 {206}{}{Parecia que tinha cerca de uma dúzia de guardas.}
 {207}{}{Eu não poderia te dizer--ainda nem fui lá.}
-{208}{}{You have? That's amazing! I'll have to spread the word out to the other Rangers. Now's the time for us to rise up and strike while they're
- busy licking their wounds. I can't thank you enough. We are truly in your debt.}
-{209}{}{Your thanks is all I need. Take care.}
-{210}{}{If you're so pleased with my handiwork, how 'bout a little cash reward?}
-{211}{}{We must attack them at once. Wanna take down these scumbags for us?}
-{212}{}{I think I've done enough for the day. Goodbye.}
-{213}{}{As a Ranger it is my sworn duty. Of course I'll help.}
+{208}{}{Você tem? Isso é incrível! Vou precisar espalhar a notícia para os outros Rangers. Agora é a hora de nos levantarmos e atacarmos enquanto eles estão
+ ocupados lambendo suas feridas. Não posso nem agradecer o suficiente, estamos verdadeiramente em dívida com você.}
+{209}{}{Seu agradecimento é tudo que eu preciso. Tome cuidado.}
+{210}{}{Se está tão feliz com o meu trabalho, que tal uma pequena recompensa em dinheiro?}
+{211}{}{Devemos atacá-los imediatamente. Quer derrubar esses canalhas para nós?}
+{212}{}{Acho que já fiz o suficiente por hoje. Adeus.}
+{213}{}{Como um Ranger, é meu dever jurado. Claro que vou ajudar.}
 {214}{}{Excellent! Please report back when you have wiped out the camp.}
 {215}{}{Give me some time. I will return when I am ready.}
 {216}{}{Of course. See you soon.}
@@ -133,7 +133,7 @@
 {270}{}{That was a fine thing you did and I just want to shake your hand.}
 {271}{}{Not at all. In fact, I'd like to shake your hand.}
 {272}{}{Because that was a fine thing you did and I just want to shake your hand.}
-{273}{}{If you're so pleased with my handiwork, how 'bout a little cash reward?}
+{273}{}{Se está tão feliz com o meu trabalho, que tal uma pequena recompensa em dinheiro?}
 {274}{}{You're welcome. Now why don't you tell me who you are?}
 {280}{}{We don't have a lot of funds to spare, but you *did* do us a great service so I suppose we could part with some. Here's $1000.}
 {281}{}{Obrigado. Tchau.}

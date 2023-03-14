@@ -10,11 +10,11 @@
 {109}{}{Adeus.}
 {110}{}{Esse é Hoss, o filho da presidente Tandi. É um problema quando está bebendo, então eu ficaria longe dele se eu fosse você.}
 {111}{}{Era Hoss, filho da presidente Tandi. Rapaz, você com certeza ama a bunda dele!}
-{112}{}{President Tandi?}
-{113}{}{Tough guy, eh? Thanks.}
+{112}{}{Presidente Tandi?}
+{113}{}{Cara durão, é? Obrigado.}
 {114}{}{Não muito. Se você está procurando problemas, vá beber em outro lugar, como o Rawhide. Se você está procurando trabalho, há a Westin Place a oeste da cidade. Ouvi algumas coisas sobre a presidente Tandi procurando um especialista também.}
 {115}{}{Especialista?}
-{116}{}{President Tandi?}
+{116}{}{Presidente Tandi?}
 {117}{}{Obrigado.}
 {118}{}{Filha do presidente Aradesh, o homem que fundou a NCR. Ela é presidente há anos e faz um bom trabalho também.}
 {119}{}{E ela está procurando um especialista? Que tipo?}

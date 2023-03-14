@@ -43,15 +43,15 @@
 {136}{}{O que você faz aqui, Madame Modjeska?}
 {137}{}{Parece que muita gente aqui é usuária de drogas. O que está acontecendo na cidade ultimamente?}
 {138}{}{Ouviu algum boato interessante?}
-{139}{}{Why do they call you Madame Modjeska?}
+{139}{}{Por que eles te chamam de Madame Modjeska?}
 {140}{}{Qual é o problema com você?}
 {141}{}{O que aconteceu com você?}
-{142}{}{Lately, I don't do much at all. I used to run part of Lou's operation at the Malamute Saloon -
- but we had a falling out, so I quit.}
+{142}{}{Ultimamente, eu não faço muito. Eu costumava comandar parte da operação de Lou no Salão
+ Malamute... mas tivemos um desentendimento, então pedi demissão.}
 {143}{}{Deixa eu te perguntar outra coisa, então.}
 {144}{}{Eu entendo. Bem, isso é tudo que eu precisava saber. Adeus.}
-{145}{}{All I hear about are politics. That always seems to be the big stir in discussion.}
-{146}{}{Politics? What do you mean?}
+{145}{}{Só ouço falar de política. Isso sempre parece ser o grande motivo de discussão.}
+{146}{}{Política? Como assim?}
 {147}{}{É claro. Deixe eu te perguntar sobre outra coisa.}
 {148}{}{Bem, isso é tudo que eu precisava saber. Adeus.}
 {149}{}{I used to work in the Malamute Saloon. As part of that job, people called me Madame. The name

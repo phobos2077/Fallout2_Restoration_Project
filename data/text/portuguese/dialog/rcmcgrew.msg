@@ -216,39 +216,39 @@
 {261}{}{Eu diria que ele tem muita companhia nesta cidade, mas em vez disso direi: como
  assim?}
 {262}{}{Não sou exatamente exigente, mas não gosto desse negócio de procurar *mais cérebros*. Adeus.}
-{263}{}{Its control chip burnt out, and it's not like I can order a new one. But I know where one is.
- Be willing to pay $1,000 for it, too.}
-{264}{}{Where is it?}
+{263}{}{Seu chip de controle queimou e não tem como pedir um novo, mas eu sei onde tem um.
+ Eu estou disposto a pagar $ 1.000 por ele.}
+{264}{}{Onde está?}
 {265}{}{Se você precisa tanto dele, por que não foi buscar você mesmo?}
-{266}{}{I'm packed to the gills with quests already. Sorry, pal. Goodbye.}
-{267}{}{Plenty of reasons, most of 'em hungry and nasty. Wanamingo mine's just chock-full of hungry
- Wanamingos.}
-{268}{}{What the hell is a Wanna-mingle?}
-{269}{}{Oh, I see. Well, that explains it then. I'll think about it. Goodbye.}
-{270}{}{It's just the orneriest, nastiest, most vicious critter I think I've ever seen. It's got teeth
- four inches long. Oh, I mean four-teen inches long. But I think you can handle it.}
-{271}{}{Yeah, right. I'll think about it. Goodbye.}
-{272}{}{That sounds scary. I don't think that's a job for me. My knees are knocking.}
-{273}{}{You do that. $1,000 isn't chump-change, pal.}
+{266}{}{Já estou cheio de trabalhos. Desculpe, amigo, tchau.}
+{267}{}{Por muitas razões, quase todas famintas e nojentas. A mina Wanamingo está lotada de wanamingos
+ famintos.}
+{268}{}{Mas que diabo é um Uana-amigo?}
+{269}{}{Oh, entendo. Bem, está explicado, vou pensar sobre isso. Adeus.}
+{270}{}{É só o bicho mais casca grossa, nojento e perverso que já vi. Tem dentes de dez centímetros
+ de comprimento. Oh, na verdade são dezoito centímetros de comprimento. Mas acho que você pode encarar isso.}
+{271}{}{Ok, certo. Vou pensar sobre isso, tchau.}
+{272}{}{Parece assustador. Acho que isso não é trabalho para mim, meus joelhos até tremem.}
+{273}{}{Deixa comigo. $1.000 não é pouca coisa, cara.}
 {274}{}{Deixe eu te perguntar sobre algumas coisas que estão acontecendo na cidade.}
-{275}{}{I'll think it over. I can always use some extra cash.}
-{276}{}{I guess I was wrong when I thought you had what it takes. Get out of here; you're waistin' my time.}
-{277}{}{Ye', yes, sir. I'm leaving now, sir.}
-{278}{}{We all make mistakes, bub. Goodbye.}
-{279}{}{Heck... if I were you, I'd buy the deed to the place, clear it out, and sell it back to Mayor
- Ascorti. He's the deed-holder now.}
-{280}{}{Take care of yourself. I really need that chip.}
+{275}{}{Vou pensar sobre isso. É sempre bom ter um dinheiro a mais.}
+{276}{}{Acho que me enganei quando achei que você tinha o que precisava. Saia daqui; você está desperdiçando meu tempo.}
+{277}{}{Sim, sim, senhor. Estou saindo agora, senhor.}
+{278}{}{Erra é humano, cara. Adeus.}
+{279}{}{Caramba... se eu fosse você, compraria a escritura desse lugar, limparia e venderia de
+ volta para o prefeito Ascorti. Ele é o titular da escritura agora.}
+{280}{}{Cuide-se. Eu realmente preciso desse chip.}
 {281}{}{Deixe eu te perguntar sobre algumas coisas que estão acontecendo na cidade.}
 {282}{}{Obrigado pela dica. Tchau.}
-{283}{}{"Painless" Doc Johnson is our town quack. Oh, I suppose he knows something about doctoring, but
- I don't guess he knows too much. He's on the west side of Downtown. Anyhow, he usually sells all the
- medicine and drugs that we get here in town.}
-{284}{}{He sells all of it?}
-{285}{}{I'll see you later, Dan. Goodbye.}
-{286}{}{Yeah, well, when we get Jet in it's often sent in bulk, and so he fills the ampoules. Folks trust
- him to do it. Makes a big show about it being all clean and all. Simple remedies for simple minds, I say.}
-{287}{}{Ahh. Let me ask you about something else, then.}
-{288}{}{Thanks for the information, Dan. Goodbye.}
+{283}{}{O "Indolor" Dr. Johnson é o nosso charlatão local. Bem, suponho que ele saiba alguma coisa sobre
+ medicina, mas não deve saber muito. Ele fica no lado oeste de Downtown. De qualquer forma, ele costuma
+ vender todos os remédios e drogas que a gente consegue aqui na cidade.}
+{284}{}{Ele vende tudo isso?}
+{285}{}{Te vejo mais tarde, Dan. Adeus.}
+{286}{}{Sim, bem, quando recebemos jet, geralmente é enviado a granel, então ele enche as ampolas.
+ As pessoas confiam nele para fazer isso. Fala bastante sobre tudo estar muito limpo. Remédios simples para mentes simples, isso é o que eu digo.}
+{287}{}{Ahh. Deixe eu te perguntar sobre outra coisa, então.}
+{288}{}{Obrigado pela informação, Dan. Adeus.}
 {289}{}{Senhor, você só vai receber duas coisas de mim. Jack e merda, e Jack deixou a cidade. Agora
  saia da minha frente.}
 {290}{}{Senhorita, você só vai receber duas coisas de mim. Jack e merda, e Jack deixou a cidade. Agora
