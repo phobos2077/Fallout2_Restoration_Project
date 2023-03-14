@@ -1,10 +1,10 @@
-{100}{}{You see a grave.}
-{101}{}{You see an uncovered grave.}
-{102}{}{This is a grave site.}
-{103}{}{This grave site has been uncovered.}
-{150}{}{The grave site has been covered.}
-{151}{}{The grave site has been uncovered.}
-{200}{}{You see a headstone.}
+{100}{}{Você vê uma sepultura.}
+{101}{}{Você vê uma sepultura aberta.}
+{102}{}{Este é um túmulo.}
+{103}{}{Este túmulo foi aberto.}
+{150}{}{O local da sepultura foi coberto.}
+{151}{}{O local da sepultura foi descoberto.}
+{200}{}{Você vê uma lápide.}
 {201}{}{Você verá uma lápide.}
 {250}{}{Não há marcas nesta lápide.}
 {251}{}{O nome na lápide foi riscado.}

@@ -54,8 +54,8 @@
 {146}{}{Política? Como assim?}
 {147}{}{É claro. Deixe eu te perguntar sobre outra coisa.}
 {148}{}{Bem, isso é tudo que eu precisava saber. Adeus.}
-{149}{}{I used to work in the Malamute Saloon. As part of that job, people called me Madame. The name
- just stuck, even though I don't work there any more.}
+{149}{}{Eu costumava trabalhar no Salão Malamute. Como parte desse trabalho, as pessoas me chamavam
+ de Madame. O nome pegou, embora eu não trabalhe mais lá.}
 {150}{}{Where do you work now?}
 {151}{}{Deixe-me perguntar-lhe algo mais.}
 {152}{}{Acho que é tudo que preciso saber. Adeus.}

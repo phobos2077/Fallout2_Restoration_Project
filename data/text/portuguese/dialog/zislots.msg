@@ -88,13 +88,13 @@
  fala! "Por favor... insira... dinheiro."}
 {2152}{}{Ahhhhh! Robô! Robô! Corrrran}
 {2153}{}{(Vai embora.)}
-{2175}{}{(You stare at the slot machine realizing you don't have enough to play, and you curse your poverty. Perhaps another time...)}
+{2175}{}{(Você olha para a máquina caça-níqueis percebendo que não tem o suficiente para jogar e amaldiçoa sua pobreza. Talvez outra hora...)}
 {2176}{}{Deixar.}
-{2185}{}{(The "OUT OF SERVICE" light on the slot machine is flashing on and off.)}
+{2185}{}{(A luz "FORA DE SERVIÇO" na máquina caça-níqueis está piscando).}
 {2186}{}{Deixar.}
-{2200}{}{(You can hear her laughing at you.)}
-{2201}{}{*Hehehe, why don't you just give up sweetie.*}
-{2202}{}{*Maybe you should let someone else pull my handle.*}
+{2200}{}{(Você pode ouvi-la rindo de você.)}
+{2201}{}{*Hehehe, por que você simplesmente não desiste, docinho.*}
+{2202}{}{*Talvez você devesse deixar outra pessoa puxar meu controle.*}
 {2203}{}{(A faint maniacal laugh emanates from the machine.)}
 {2204}{}{(You hear the slot machine laughing at you.)}
 {2205}{}{(The slot machine chuckles at you.)}

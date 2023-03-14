@@ -71,7 +71,7 @@
 {279}{}{Quer dançar essa noite?}
 {290}{}{Ei, querida. Você quer gastar algumas tampas?}
 {291}{}{Hey, sweetie...[winks]...you looking to gamble?}
-{292}{}{Hey, sweetie...[smiles]...wanna take a chance?}
+{292}{}{Ei, docinho... [sorri]... quer arriscar?}
 {293}{}{Se você quer ganhar algumas tampas, veio ao lugar certo.}
 {294}{}{Dona Sorte está em casa esta noite... Somente vencedores!}
 {295}{}{Vamos lá, ganhe algumas tampas.}
@@ -81,48 +81,48 @@
 {299}{}{Ei, docinho. Você quer gastar algumas fichas?}
 {300}{}{Quer jogar, docinho?}
 {301}{}{Bem vindo ao cassino, docinho.}
-{320}{}{[The dealer looks at you nervously, then chews her lip.] Um, place your bets... minimum bet $}
-{321}{}{Place your bet, sir. Minimum bet $}
-{322}{}{Place your bet, ma'am. Minimum bet $}
-{323}{}{Place your bets, minimum bet $}
+{320}{}{[O croupier olha para você nervosamente, então morde o lábio.] Hum, façam suas apostas... aposta mínima $}
+{321}{}{Faça sua aposta, senhor. Aposta mínima $}
+{322}{}{Faça sua aposta, senhora. Aposta mínima $}
+{323}{}{Façam suas apostas, aposta mínima $}
 {324}{}{Eu meior que oce}
 {325}{}{Eu jogo minha calça}
-{326}{}{What this game? Can you bet gecko skin? Me got geck... ooooh... pretty lights! [Wander off.]}
-{327}{}{[You have $}
-{328}{}{Bet $}
-{329}{}{Whoa, too rich for my blood.}
+{326}{}{O que é esse jogo? Posso apostar pele de gecko? Eu tenho geck... ooooh... lindas luzes! [Afasta-se.]}
+{327}{}{[Você tem $}
+{328}{}{Aposta $}
+{329}{}{Whoa, muita coisa para o meu gosto.}
 {330}{}{Sem apostas hoje, obrigado.}
-{331}{}{Uhhh, sorry, I don't know how to play these crazy games.}
+{331}{}{Uhhh, desculpe, eu não sei como jogar esses jogos malucos.}
 {340}{}{Hum… Ouvi dizer que estão dando cérebros lá atrás. Talvez você devesse dar uma olhada.}
 {341}{}{Muito bem, senhor. Volte logo.}
 {342}{}{Muito bem, senhora. Volte logo.}
 {343}{}{Tchaaaaau}
 {344}{}{Diaaaaa. }
-{345}{}{Uh... brains... what them?! Me go see!}
+{345}{}{Uh… cérebro… o quê?! Eu vou ver!}
 {350}{}{Muito bem, senhor. Volte logo.}
 {351}{}{Muito bem, senhora. Volte logo.}
-{352}{}{[Dealer raises an eyebrow.] $}
+{352}{}{[A croupier levanta uma sobrancelha.] $}
 {354}{}{Eu vou, obrigado.}
-{355}{}{Maybe so.}
+{355}{}{Talvez sim.}
 {400}{}{Desculpe, mais sorte da próxima vez.}
 {401}{}{Desculpe, senhor. Mais sorte da próxima vez.}
 {402}{}{Desculpe, senhora. Mais sorte da próxima vez.}
-{410}{}{Match.}
-{411}{}{Match. Try again sir?}
-{412}{}{Match. Try again ma'am?}
+{410}{}{Empate.}
+{411}{}{Empate. Gostaria de tentar novamente, senhor?}
+{412}{}{Empate. Gostaria de tentar novamente, senhora?}
 {420}{}{Vencedor! Você dobrou seu dinheiro!}
 {421}{}{Vencedor! Você dobrou seu dinheiro! Muito bem, senhor!}
 {422}{}{Vencedora! Você dobrou seu dinheiro! Muito bem, senhora!}
 {430}{}{Vencedor! Você triplicou seu dinheiro!}
 {431}{}{Vencedor! Você triplicou seu dinheiro! A sorte está na casa esta noite! Muito bem, senhor!}
-{432}{}{Winner! You've tripled your money! Luck is in the house tonight! Well done, ma'am!}
+{432}{}{Vencedor! Você triplicou seu dinheiro! A sorte está em casa esta noite! Muito bem, senhora!}
 {440}{}{Liga-o por um dia.}
 {441}{}{Isso que é noite.}
-{450}{}{Sorry, this table has been closed. Someone has been tampering with the dice.}
-{451}{}{Sorry sir, this table has been closed. Someone has been tampering with the dice.}
-{452}{}{Sorry ma'am, this table has been closed. Someone has been tampering with the dice.}
+{450}{}{Desculpe, esta mesa foi fechada. Alguém tem manipulado os dados.}
+{451}{}{Desculpe, senhor, esta mesa foi fechada. Alguém tem manipulado os dados.}
+{452}{}{Desculpe, senhora, esta mesa foi fechada. Alguém tem manipulado os dados.}
 {453}{}{Uhhh, OK.}
-{454}{}{Sorry to hear that. Thanks.}
+{454}{}{Lamento ouvir isso. Obrigado.}
 {2203}{}{! Bem-vindo ao cassino, herói!}
 {2215}{}{. Posso te ajudar com *alguma coisa?*}
 {2219}{}{.}
@@ -135,6 +135,6 @@
 {2321}{}{. faça suas apostas...}
 {2327}{}{.] }
 {2328}{}{.}
-{2344}{}{ could always use new inventory item [Leave.]}
-{2352}{}{? 'Too rich for your blood?' [Scoffs.] Pal, you're in the wrong town.}
-{2353}{}{? 'Too rich for your blood?' [Scoffs.] Girl, you're in the wrong town.}
+{2344}{}{ sempre pode usar novo item de inventário [Sair.]}
+{2352}{}{? 'Muita coisa para o seu gosto?' [Zomba.] Amigo, você está na cidade errada.}
+{2353}{}{? 'Muita coisa para o seu gosto?' [Zomba.] Meu bem, você está na cidade errada.}

@@ -97,34 +97,34 @@
 {211}{}{Devemos atacá-los imediatamente. Quer derrubar esses canalhas para nós?}
 {212}{}{Acho que já fiz o suficiente por hoje. Adeus.}
 {213}{}{Como um Ranger, é meu dever jurado. Claro que vou ajudar.}
-{214}{}{Excellent! Please report back when you have wiped out the camp.}
-{215}{}{Give me some time. I will return when I am ready.}
-{216}{}{Of course. See you soon.}
-{217}{}{I'm a spontaneous individual. I don't need to prepare. Let's get this show on the road.}
-{218}{}{Actually, I changed my mind. I'm sure you and the other Rangers can do just fine without me. Good luck.}
-{219}{}{Actually, I think it would be better if some Rangers came with me. It would guarantee greater success on both my end
- and the general fight against slavery.}
-{220}{}{No, I am sorry. I don't have the resources to pull some men together. This is something you will have to do on your own.}
-{221}{}{Alright, I'll do it alone. I'll report back when I have finished.}
-{222}{}{Alright, I'll do it alone. I need time to prepare though. I'll be back.}
-{223}{}{I'll have to decline then. Goodbye.}
-{224}{}{You're right. I'll get a small group together and send them with you. Are you ready to go now?}
-{225}{}{I need time to prepare. I'll be back.}
+{214}{}{Excelente! Por favor, volte a informar quando tiver eliminado o acampamento.}
+{215}{}{Me dê um tempo, voltarei quando estiver pronto.}
+{216}{}{Claro. Vejo você em breve.}
+{217}{}{Eu não preciso pensar muito, nem preciso me preparar. Vamos colocar esse show na estrada.}
+{218}{}{Na verdade, mudei de ideia. Tenho certeza que você e os outros Rangers podem se sair bem sem mim. Boa sorte.}
+{219}{}{Na verdade, acho que seria melhor se alguns Rangers viessem comigo. Isso garantiria maior sucesso tanto para mim
+ quanto para essa luta geral contra a escravidão.}
+{220}{}{Não, eu sinto muito, não tenho recursos para reunir alguns homens. Isso é algo que você terá que fazer por conta própria.}
+{221}{}{Tudo bem, eu vou fazer isso sozinho. Voltarei a informar quando terminar.}
+{222}{}{Tudo bem, eu faço isso sozinho. Preciso de tempo para me preparar. Eu voltarei.}
+{223}{}{Vou ter que recusar então. Adeus.}
+{224}{}{Você tem razão, vou reunir um pequeno grupo e mandá-los com você. Você está pronto para ir agora?}
+{225}{}{Preciso de tempo para me preparar. Eu voltarei.}
 {226}{}{I'm ready. Let's go.}
-{227}{}{Money? Well, I suppose it is the least we could do. Here, $1000 for your trouble. Thank you again.}
-{228}{}{My pleasure. Goodbye.}
-{229}{}{Are you ready to attack the slaver camp?}
+{227}{}{Dinheiro? Bem, suponho que é o mínimo que podemos fazer. Aqui, $1000 pelo seu problema. Obrigado novamente.}
+{228}{}{O prazer é meu. Adeus.}
+{229}{}{Você está pronto para atacar o acampamento de escravos?}
 {230}{}{Eu preciso de mais tempo.}
-{231}{}{I am ready to go. Let's do it.}
-{232}{}{Your fellow Rangers will meet up with you along the way. Best of luck to you.}
+{231}{}{Estou pronto para ir. Vamos fazê-lo.}
+{232}{}{Seus companheiros Rangers se encontrarão com você ao longo do caminho. Boa sorte para você.}
 {233}{}{[FIM]}
-{234}{}{I've heard the news. Thank you so much for your help. This will surely deal quite a blow to the slavers. We are truly in your debt.}
-{235}{}{Please, don't delay too long. This attack is critical in our fight against slavery.}
-{236}{}{You aid the Rangers in their continual struggle against slavery.}
+{234}{}{Eu ouvi as notícias, muito obrigado pela ajuda. Isso com certeza será um grande golpe para os escravistas. Estamos verdadeiramente em dívida com você.}
+{235}{}{Por favor, não demore muito. Este ataque é fundamental em nossa luta contra a escravidão.}
+{236}{}{Você ajuda os Rangers em sua luta contínua contra a escravidão.}
 {240}{}{Obrigado. Adeus.}
-{250}{}{Actually, one more thing. You look like someone to be trusted. Someone who doesn't take a liking to Slavers.}
-{251}{}{Well, I did just wipe out an entire camp of them. What do you have in mind?}
-{252}{}{I think I've done enough for humanity today. See you around.}
+{250}{}{Na verdade, mais uma coisa. Você parece alguém confiável, alguém que não gosta de escravistas.}
+{251}{}{Bem, acabei de eliminar um acampamento inteiro deles. O que você tem em mente?}
+{252}{}{Acho que já fiz o suficiente pela humanidade hoje. Vejo você por aí.}
 {260}{}{What are you doing here? This is a private -- Hey, wait a minute, I think I've heard of you. Aren't you the one that took out one of Metzger's slave camps?}
 {261}{}{Yep. That was me.}
 {262}{}{I sure as hell did. You got a problem with that? }
