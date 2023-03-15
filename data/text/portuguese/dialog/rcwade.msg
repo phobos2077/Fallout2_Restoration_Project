@@ -52,8 +52,8 @@
  free to check back with me, though.}
 {143}{}{When on the 1st?}
 {144}{}{What does this caravan transport?}
-{145}{}{Okay, thanks. Goodbye.}
-{146}{}{Sorry, pal, we've already got enough throwbacks working in this caravan.}
+{145}{}{Ok, obrigado. Adeus.}
+{146}{}{Desculpe, amigo, já tivemos muitas experiências ruins trabalhando nesta caravana.}
 {147}{}{Ah, tudo bem.}
 {148}{}{Well, we pick up mostly medical supplies in Vault City, and trade it to Redding in exchange for
  gold ore.}

@@ -59,61 +59,61 @@
 {150}{}{Onde você trabalha agora?}
 {151}{}{Deixe-me perguntar-lhe algo mais.}
 {152}{}{Acho que é tudo que preciso saber. Adeus.}
-{153}{}{I flew a bit of Jet a few days back and it made me feel quite unwell. Must have been a tainted
- batch. I 'm not eager to try that again. Oh well, back to the bottle, I suppose.}
+{153}{}{Eu chapei um pouco no jet alguns dias e comecei a me sentir muito mal. Deve ter sido um todo
+ lote contaminado. Não estou afim de tentar novamente. Oh, bem, de volta à garrafa, eu acho.}
 {154}{}{Parece ruim. Deixe eu te perguntar outra coisa, então.}
 {155}{}{Eu entendo. Bem, isso é tudo que eu precisava saber. Adeus.}
-{156}{}{I feel better than I look. Not by much, but enough.}
+{156}{}{Eu me sinto melhor do que pareço. Não muito, mas já está bom.}
 {157}{}{O que você quer dizer? O que aconteceu?}
-{158}{}{Have you ever seen a greased brahmin contest?}
-{159}{}{Sure I have. Uh, plenty of times. Let me ask you something else.}
+{158}{}{Você já viu um concurso de brahmin engraxado?}
+{159}{}{Claro que sim, muitas vezes. Deixe eu te perguntar outra coisa.}
 {160}{}{Não, nunca ouvi falar de nada parecido. me conte sobre eles.}
-{161}{}{I don't know what that has to do with local politics, and I don't think I want to know. Goodbye.}
-{162}{}{After that last tainted batch of Jet, I've sworn off the stuff. Maybe when I feel better I'll
- get drunk instead. (she laughs)}
+{161}{}{Não sei o que isso tem a ver com a política local e acho que nem quero saber. Adeus.}
+{162}{}{Depois daquele último lote contaminado de jet, acabei com essa merda. Talvez, quando
+ me sentir melhor, encho a cara. (ela ri)}
 {163}{}{Ta, bom para você, eu acho. Deixe eu te perguntar algo.}
 {164}{}{Interessante. Bem, vou te deixar com sua recuperação. Adeus.}
-{165}{}{What they do is grease up a brahmin calf, and then everyone in the crowd tries to catch the
- calf. If you can't catch it yourself, you make damn sure nobody else can, either.}
-{166}{}{I don't see what that has to do with politics.}
-{167}{}{Yeah, sure. I've heard enough, Madame Modjeska. Goodbye.}
-{168}{}{In this game, Redding is the greased brahmin - and a golden one at that. New Reno, the New
- California Republic, and Vault City are all trying to catch us... or at least keep the others from
- catching us.}
+{165}{}{O que eles fazem é engraxar um bezerro brahmin, e todo mundo na multidão tentam pegar
+ o bezerro. Se você não conseguir pegá-lo, tente pelo menos fazer com que ninguém consiga também.}
+{166}{}{Não vejo o que isso tem a ver com política.}
+{167}{}{Sim, claro. Já ouvi o bastante, madame Modjeska. Adeus.}
+{168}{}{Neste jogo, Redding é o brahmin engraxado, e um bem valioso. New Reno, República da Nova
+ Califórnia e Vault City estão todos tentando nos pegar... ou pelo menos evitar que os outros
+ nos peguem.}
 {169}{}{O que você quer dizer?}
-{170}{}{That's nice. Well, I better be going, Madame. Thanks for the insight. Goodbye.}
-{171}{}{Here in Redding we mine gold. Then we ship it to New Reno, the NCR, and Vault City in return for
- goods. Each of those places would like to have the gold - and the trade - all to themselves.}
-{172}{}{Why don't they just attack you and take it, then?}
-{173}{}{Who wouldn't? I think I'll try to find some of that gold myself. Thanks, and goodbye.}
-{174}{}{We're big enough, and far enough away, to make a take-over expensive as well as dangerous. Much
- more efficient to have us join willingly.}
+{170}{}{Muito interessante. Bem, é melhor eu ir, madame, obrigado pela compreensão. Adeus.}
+{171}{}{Aqui em Redding extraímos ouro. Em seguida, nós o enviamos para New Reno, NCR e Vault City
+ em troca de mercadorias. Cada um desses lugares gostaria de ter o ouro, e o comércio, mas para eles mesmos.}
+{172}{}{Por que eles simplesmente não atacam vocês e o pegam?}
+{173}{}{Quem não gostaria? Acho que vou tentar encontrar um pouco desse ouro eu mesmo. Obrigado e adeus.}
+{174}{}{Somos grandes e ficamos longe o suficiente para sermos uma aquisição bem cara e perigosa. É muito
+ mais eficiente nos juntarmos voluntariamente.}
 {175}{}{O que você quer dizer?}
-{176}{}{That makes sense. Thanks for clueing me in. Goodbye.}
-{177}{}{The three powers are trying to get Redding to choose which side to ally themselves with. They've
- all got powerful allies in town, and it looks like things are coming to a head. Soon, Redding's going to
- have to make a choice.}
-{178}{}{A choice?}
-{179}{}{Who's working for whom?}
-{180}{}{Money. Hmm. Well I've got to be going. Goodbye.}
-{181}{}{The grease on this Brahmin calf is getting a bit thin. Soon, one of the powers is going to have
- to make a major play to take Redding before the others do. When that happens, people are going to get
- hurt. A lot of people.}
-{182}{}{Who's working for whom?}
-{183}{}{Why are people going to get hurt?}
-{184}{}{Thanks for the info. Goodbye.}
-{185}{}{I'm not altogether sure, but I think the lineup's like this: Dan McGrew's all for New Reno,
- Marge LeBarge's for the NCR, Doc Johnson's for Vault City, and I don't know yet who Mayor Ascorti's for.}
-{186}{}{How can those people help a takeover?}
-{187}{}{Who's Marge LeBarge?}
-{188}{}{Who's Dan McGrew?}
+{176}{}{Isso faz sentido. Obrigado por me informar, adeus.}
+{177}{}{As três potências estão tentando fazer com que Redding escolha de qual lado se aliar. Todos eles
+ têm aliados poderosos na cidade e parece que as coisas estão chegando no limite. Em breve, Redding
+ terá que fazer uma escolha.}
+{178}{}{Uma escolha?}
+{179}{}{Quem está trabalhando para quem?}
+{180}{}{Dinheiro. Hmm, bem, eu tenho que ir. Adeus.}
+{181}{}{A graxa desse bezerro brahmin está ficando um pouco fina. Em breve, um dos grandes terá
+ que fazer uma grande jogada para capturar Redding antes que algum outro faça. Quando isso acontecer,
+ as pessoas vão se machucar. Muitas pessoas.}
+{182}{}{Quem está trabalhando para quem?}
+{183}{}{Por que as pessoas vão se machucar?}
+{184}{}{Obrigado pela informação. Adeus.}
+{185}{}{Não tenho certeza, mas acho que a escalação é assim: Dan McGrew é amiguinho de New
+ Reno, Marge LeBarge da NCR e Dr. Johnson está com Vault City. Só não sei quem o prefeito Ascorti vai favorecer.}
+{186}{}{Como essas pessoas podem tomar o poder?}
+{187}{}{Quem é Marge LeBarge?}
+{188}{}{Quem é Dan McGrew?}
 {189}{}{Quem é o Dr. Johnson?}
-{190}{}{Who's Mayor Ascorti?}
-{191}{}{Thanks for the info. Goodbye.}
-{192}{}{People are going to get hurt because this kind of change doesn't come easy. Those that think
- they're not going to get the prize get it in their mind to not let anyone else get it, either. The
- only way to avoid that is if we decide to go with one of the powers and make a quick alliance before
- the others catch on.}
+{190}{}{Quem é o prefeito Ascorti?}
+{191}{}{Obrigado pela informação. Adeus.}
+{192}{}{As pessoas vão se machucar porque esse tipo de mudança não é fácil. Aqueles que acharem
+ que não vão ganhar o prêmio colocam na cabeça que também não devem deixar ninguém
+ ganhar. A única maneira de evitar isso é se decidirmos ir com um dos grandes e fazer uma aliança
+ rápida antes que os outros percebam.}
 {193}{}{O que você acha que acontecerá?}
 {194}{}{Entendo. Obrigado, tchau.}
 {195}{}{I think that the folks here will follow Mayor Ascorti's lead. He's a crook, but people trust
@@ -125,19 +125,19 @@
 {198}{}{Marge LeBarge is the owner of the Kokoweef Mine. It and the Morningstar Mine are the only two
  working mines left in Redding. I think that Marge's more of an NCR type. I don't think she likes their
  prudishness, but she recognizes power when she sees it.}
-{199}{}{Who's Dan McGrew?}
+{199}{}{Quem é Dan McGrew?}
 {200}{}{Quem é o Dr. Johnson?}
-{201}{}{Who's Mayor Ascorti?}
+{201}{}{Quem é o prefeito Ascorti?}
 {202}{}{How can these people help a takeover?}
-{203}{}{Thanks for the info. Goodbye.}
+{203}{}{Obrigado pela informação. Adeus.}
 {204}{}{Dangerous Dan McGrew, ah, yes. He's the owner of the Morningstar Mine. It and the Kokoweef Mine
  are the only two working mines left in Redding. I think Dan is leaning more towards New Reno, if I had
  to guess. He likes his miners doped up and happy.}
-{205}{}{Who's Marge LeBarge?}
+{205}{}{Quem é Marge LeBarge?}
 {206}{}{Quem é o Dr. Johnson?}
-{207}{}{Who's Mayor Ascorti?}
+{207}{}{Quem é o prefeito Ascorti?}
 {208}{}{How can these people help a takeover?}
-{209}{}{Thanks for the info. Goodbye.}
+{209}{}{Obrigado pela informação. Adeus.}
 {210}{}{Ascorti's the Mayor. He runs Ascorti's Ace downtown. He takes care of buying and selling a lot
  of stuff. He's right in the middle of all kinds o' thangs.}
 {211}{}{Ascorti é o prefeito de Redding. Mas não sei direito onde ele está, faz um bom tempo que não
@@ -168,15 +168,15 @@
  M.D., all right. Only place he'd get training like that is Vault City. I'm betting he's been planted
  here to further their interests. He must've pissed off someone there to get the assignment, though;
  those VC'ers don't like the outside much.}
-{230}{}{Who's Marge LeBarge?}
-{231}{}{Who's Dan McGrew?}
-{232}{}{Who's Mayor Ascorti?}
+{230}{}{Quem é Marge LeBarge?}
+{231}{}{Quem é Dan McGrew?}
+{232}{}{Quem é o prefeito Ascorti?}
 {233}{}{How can these people help a takeover?}
-{234}{}{Thanks for the info. Goodbye.}
+{234}{}{Obrigado pela informação. Adeus.}
 {235}{}{The Mayor's a man that knows how to play both sides while he's stealing the middle. He's got a
  few scruples left, but mostly he'll do what's right for Redding in order to keep his own interests safe.}
-{236}{}{Who's Marge LeBarge?}
-{237}{}{Who's Dan McGrew?}
+{236}{}{Quem é Marge LeBarge?}
+{237}{}{Quem é Dan McGrew?}
 {238}{}{Quem é o Dr. Johnson?}
 {239}{}{How can these people help a takeover?}
-{240}{}{Thanks for the info. Goodbye.}
+{240}{}{Obrigado pela informação. Adeus.}

@@ -1,65 +1,65 @@
-{100}{}{You see a man dressed in armor. He looks at you speculatively.}
-{101}{}{You see Stanwell, the caravan master for the Redding-NCR run.}
-{102}{}{You see a tall, muscular man in armor. His gear looks worn but well maintained.}
-{103}{}{The NCR doesn't take kindly to quitters. Get out of here.}
-{104}{}{You know what I think about your kind. Just get out of my sight.}
-{105}{}{Hee-yah! Head 'em out.}
+{100}{}{Você vê um homem vestido com uma armadura. Ele olha para você especulativamente.}
+{101}{}{Você vê Stanwell, o mestre da caravana da corrida Redding - NCR.}
+{102}{}{Você vê um homem alto e musculoso usando armadura. Seu equipamento parece gasto, mas bem conservado.}
+{103}{}{A NCR não aceita bem os desertores. Saia daqui.}
+{104}{}{Você sabe o que eu penso sobre o seu tipo. Saia logo da minha frente.}
+{105}{}{Hee-yah! Os jogue para fora.}
 {106}{}{Ok, bora lá.}
-{107}{}{I'm Stanwell. I run the caravan between Redding and the New California Republic. Brahmin for
- gold. We could use an extra guard, and we're ready to leave right now. }
-{108}{}{People call me Stanwell. I run the caravan between Redding and the New California Republic.
- Brahmin for gold. Can usually use an extra hand or two. We leave town on the 11th day of every month.
- If you want to sign on, make sure you're here then.}
-{109}{}{Something else?}
+{107}{}{Eu sou Stanwell. Me encarrego da caravana entre Redding e a República da Nova Califórnia.
+ Brahmin por ouro. Precisamos de um guarda extra e estamos prontos para sair agora.}
+{108}{}{As pessoas me chamam de Stanwell, me encarrego da caravana entre Redding e a República da
+ Nova Califórnia. Brahmin por ouro. Geralmente posso usar uma ajuda extra. Deixamos a cidade no dia 11
+ de cada mês, se você quiser ir, certifique-se de estar aqui.}
+{109}{}{Algo mais?}
 {110}{}{Moo-moos?}
 {111}{}{You need a guard, huh?}
 {112}{}{What does this caravan transport?}
-{113}{}{Why are you waiting until the 11th?}
+{113}{}{Por que você está esperando até o dia 11?}
 {114}{}{Não acho que isso seja pra mim. Tchau.}
-{115}{}{Damn. I hate it when that happens.}
-{116}{}{Same job. Different day.}
-{117}{}{Nothing's ever easy.}
-{118}{}{Where's a Ranger when you need one?}
-{119}{}{Every damn trip these days.}
-{120}{}{You're the worst excuse for a guard I've ever seen. You couldn't keep your word if your life
- depended on it.}
-{121}{}{Get the hell out of here. You should know better.}
-{122}{}{Did you really think that I'd reward a thief? You're lucky I didn't lynch you on the trail.
- I'm certainly not paying you anything. Now get out.}
+{115}{}{Droga. Eu odeio quando isso acontece.}
+{116}{}{Mesmo trabalho. Dia diferente.}
+{117}{}{Não existe nada fácil.}
+{118}{}{Onde está um Ranger quando você precisa de um?}
+{119}{}{Cada maldita viagem hoje em dia.}
+{120}{}{Você é a pior paródia de um guarda que eu já vi. Você não conseguiria fazer seu serviço nem
+ se sua vida dependesse disso.}
+{121}{}{Fora daqui. Você já deve saber.}
+{122}{}{Você acha que eu recompensaria um ladrão? Você tem sorte de ele não ter te linchado
+ durante a viagem, é óbvio que não vou pagar nada. Agora sai daqui.}
 {123}{}{A thief? I resemble that remark, you damn ingrate. I'm leaving. Goodbye.}
 {124}{}{Algum dia em breve, você vai se arrepender de ter cruzado comigo. Adeus.}
-{125}{}{We got so torn up out there that I don't have enough money to pay you. Of course, if you'd done
- your job better, things would be different.}
+{125}{}{Ficamos tão fodidos lá que não tenho dinheiro suficiente para pagar você. Claro, se você tivesse
+ feito melhor o seu trabalho, as coisas seriam diferentes.}
 {126}{}{Seu safado asqueroso! Vai pagar caro por me enganar. Adeus.}
 {127}{}{Bem, as vezes você tem mais sorte do que outros. Este foi um dos momentos de azar. Adeus.}
-{128}{}{We didn't quite lose everything we had... but we lost more than I can afford. If you'd done your
- job right, you'd be getting more than this $500.}
+{128}{}{Não perdemos tudo o que tínhamos... mas perdemos mais do que posso pagar. Se você tivesse
+ feito seu trabalho direito, estaria recebendo mais do que esses US$500.}
 {129}{}{Bem, isso é melhor do que nada, eu acho. Adeus.}
 {130}{}{You lousy bastard! Nobody could have done a better job. You'll regret stiffing me. Goodbye.}
-{131}{}{That wasn't too bad at all. Here's your $2000. Come on back if you need more work sometime.}
+{131}{}{Isso não foi nada mal, aqui estão seus $2.000. Volte se precisar de mais trabalho algum dia.}
 {132}{}{Acho que nunca mais quero passar tanto tempo olhando para a bunda de um brahmin. Adeus.}
 {133}{}{Isso não foi tão ruim assim. Até mais.}
-{134}{}{That was a good run. Might not have worked out that way if you weren't along. Here's your $2000,
- plus a $500 bonus for the great job. Thanks again.}
+{134}{}{Foi uma boa viagem. Poderia não ter sido boa assim se você não estivesse junto. Aqui estão seus
+ $2.000, mais um bônus de $500 pelo ótimo trabalho. Obrigado novamente.}
 {135}{}{É bom encontrar alguém que aprecie a qualidade quando vê. Vejo você por aí, talvez. Adeus.}
 {136}{}{Sempre fico feliz em ganhar algum dinheiro extra. Obrigado e adeus.}
-{137}{}{I can't leave until we get a full load of ore. It'll all be ready to move on the 11th. Early in
- the day is best. Stop back then if you want a job.}
-{138}{}{We need to get the brahmin in from the outlying settlements before we can get going. We'll be
- ready to move early on the 11th. Stop back on then if you want a job.}
-{139}{}{What did you say you usually transport?}
+{137}{}{Não posso sair até que tenhamos uma carga completa de minério. Estará tudo pronto
+ para a irmos no dia 11. No início do dia é melhor, venha na hora certa se quiser emprego.}
+{138}{}{Precisamos pegar os brahmins dos assentamentos vizinhos antes de partirmos. Estaremos prontos
+ para partir no dia 11. Venha no dia certo se quiser um emprego.}
+{139}{}{O que você disse que transporta normalmente?}
 {140}{}{Deixe-me perguntar-lhe algo mais.}
-{141}{}{Thanks, I'll do that. Goodbye}
-{142}{}{We're usually looking for caravan guards but, like I said, we won't be ready to go until the 11th
- of the month. If you still want a job with us, come back then.}
-{143}{}{When on the 11th?}
+{141}{}{Obrigado, eu farei isso. Adeus}
+{142}{}{Normalmente procuramos guardas de caravanas mas, como disse, só estaremos prontos para
+ partir no dia 11 do mês. Se você ainda quer um emprego aqui, volte no dia certo.}
+{143}{}{Quando no dia 11?}
 {144}{}{What does this caravan transport?}
-{145}{}{Okay, thanks. Goodbye.}
-{146}{}{Sorry, pal, we've already got enough throwbacks working in this caravan.}
+{145}{}{Ok, obrigado. Adeus.}
+{146}{}{Desculpe, amigo, já tivemos muitas experiências ruins trabalhando nesta caravana.}
 {147}{}{Ah, tudo bem.}
-{148}{}{We trade NCR's best brahmin for gold ore in Redding. Straight and simple - just the way I like
- things.}
-{149}{}{Gotcha. You said you're looking for guards?}
+{148}{}{Trocamos os melhores brahmins da NCR por minério de ouro em Redding. Direto e simples, do
+ jeito que eu gosto das coisas.}
+{149}{}{Entendido. Você disse que está procurando por guardas?}
 {150}{}{Deixe-me perguntar-lhe algo mais.}
 {151}{}{Oh, okay. Goodbye.}
 {152}{}{You came along at a good time. We're ready to go right now. The job pays $2000, but I'm only

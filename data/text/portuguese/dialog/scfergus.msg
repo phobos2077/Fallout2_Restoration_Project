@@ -42,19 +42,19 @@
 {141}{}{Isso não parece bom. Agora com licença, tenho trabalho a fazer.}
 {142}{}{Eu tenho que dizer algo a ela.}
 {143}{}{Bem. Diga a ela que há um espião em seu escritório.}
-{144}{}{You just tell her I want to see her. Understand?}
-{145}{}{Well then, I can't help you with that.}
+{144}{}{Apenas diga a ela que quero vê-la. Entendeu?}
+{145}{}{Bem, então, não posso ajudá-lo com isso.}
 {146}{}{(Continue)}
-{147}{}{Oh, nothing. My mistake. You said 13, right? Well, I don't know anything about that.}
+{147}{}{Oh nada, erro meu. Você disse 13, certo? Bem, eu não sei nada sobre isso.}
 {148}{}{(Continue)}
-{149}{}{Me fix problem. Kill bad guy. Want money.}
-{150}{}{Tell her I solved her squatter problem.}
-{151}{}{Darion's dead? Oh, excuse me. Go right on in.}
-{152}{}{You did? Well... I'm sure that's wonderful news. Did you learn anything else?}
+{149}{}{Resolvo problema. Mato cara mau. Quero dinheiro.}
+{150}{}{Diga a ele que resolvi seu problema da ocupação.}
+{151}{}{Darion está morto? Oh, perdão, entre direto.}
+{152}{}{É sério? Bem... tenho certeza que são notícias maravilhosas. Você descobriu mais alguma coisa?}
 {153}{}{Não.}
-{154}{}{Yeah, there's something else -- something about a spy.}
-{155}{}{What a rel-I mean, I'm glad it's all over. Go right on in.}
-{500}{}{Excuse me, but you cannot enter there without permission.}
-{501}{}{I have to ask you to stop tampering with that.}
+{154}{}{Sim, tem algo mais, tem algo sobre um espião.}
+{155}{}{Talvez eu devesse... Quero dizer, estou feliz que tudo acabou. Entre direto.}
+{500}{}{Me desculpe, mas você não pode entrar lá sem permissão.}
+{501}{}{Eu preciso pedir para você parar de mexer nisso.}
 {502}{}{Este é o seu último aviso... saia ou sofra as consequencias.}
 {503}{}{Segurança, por favor, remova nosso "convidado".}

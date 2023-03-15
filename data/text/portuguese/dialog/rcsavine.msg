@@ -68,5 +68,5 @@
 {155}{}{I don't think I want to be a caravan guard. I'll see you around. Goodbye.}
 {156}{}{You were an entertaining little monkey, but now I'm tired of you. Get out of here, you dumb-ass.}
 {157}{}{Numb-ass? Bye bye.}
-{158}{}{Grrr! Me kill!}
+{158}{}{Grrr! Eu mato!}
 {200}{}{Pode vir!}
