@@ -5,14 +5,14 @@
 {104}{}{Bem-vindo à NCR, capital da República da Nova Califórnia, comandada pela presidente Tandi.}
 {105}{}{Saudações, estranho. Venho fazer negócios com a NCR, não é?}
 {106}{}{A NCR lhe dá as boas-vindas. Contanto que você não crie problemas.}
-{107}{}{Hey you, put your weapons away. NCR don't welcome that kind of trouble.}
-{108}{}{Stranger, NCR's got laws and one of them's "No weapons."  Put it away and there'll be no trouble.}
-{109}{}{Read the sign on the way in? "No weapons," and we mean it. Understand?}
-{110}{}{You drifters are all alike. This is a peaceful town - that means we don't need you toting hardware. Put your weapons away and there'll be no trouble.}
-{111}{}{Gate's closed for the night. If you got pressing business, take it to the guardhouse.}
-{112}{}{You gotta talk to the guard captain if you want through the gate.}
-{113}{}{Kinda late for coming to town. Go see the captain; maybe she'll let you in.}
-{114}{}{I'd turn and walk away real fast if I were you.}
-{115}{}{You and your kind ain't welcome in NCR.}
-{116}{}{Come any closer and you'll regret it.}
-{117}{}{We've been warned about you, so just leave peacefully. Understand?}
+{107}{}{Ei você, guarde suas armas. A NCR não aceita esse tipo de problema.}
+{108}{}{Forasteiro, a NCR tem leis e uma delas é "Sem armas".  Guarde-as e não teremos problemas.}
+{109}{}{Leu a placa ao entrar? "Sem armas", isso é realmente sério. Entende?}
+{110}{}{Vocês vagabundos são todos iguais. Esta é uma cidade pacífica, isso significa que não precisamos de você carregando equipamento. Guarde suas armas e não teremos problemas.}
+{111}{}{O portão está fechado durante a noite. Se você tem negócios urgentes, fale na guarita.}
+{112}{}{Você tem que falar com o capitão da guarda se quiser passar pelo portão.}
+{113}{}{Meio tarde para vir para a cidade. Vá ver o capitão; talvez ela o deixe entrar.}
+{114}{}{Eu me viraria e iria embora bem rápido se fosse você.}
+{115}{}{Vocês da sua espécie não são bem-vindos na NCR.}
+{116}{}{Chegue mais perto e você vai se arrepender.}
+{117}{}{Fomos avisados sobre você, então saia em pacificamente. Entendeu?}

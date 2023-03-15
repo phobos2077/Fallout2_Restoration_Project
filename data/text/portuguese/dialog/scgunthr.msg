@@ -1,23 +1,23 @@
-{100}{}{You see a slender young man wearing glasses.}
-{101}{}{It's Gunther, aide to President Tandi. At least that's what the sign on the door said.}
-{102}{}{He looks officious and busy, the type born to be a bureaucrat that other folks hate.}
+{100}{}{Você vê um jovem magro usando óculos.}
+{101}{}{É Gunther, assessor da presidente Tandi. Pelo menos era o que dizia a placa na porta.}
+{102}{}{Ele parece intrometido e ocupado, o tipo nascido para ser o burocrata que todo mundo odeia.}
 {103}{}{Posso te ajudar?}
 {104}{}{Você novamente?}
-{105}{}{Uhhhh - work. Work Tandi.}
+{105}{}{Uhhhh - trabalho. Trabalho com Tandi eu.}
 {106}{}{Quem é você?}
-{107}{}{I'm here to see President Tandi about a job.}
-{108}{}{Sorry, wrong office.}
-{109}{}{You want job?}
-{110}{}{Let's try this again. You help Tandi? Do job for Tandi?}
-{111}{}{Yesyesyesyes!}
-{112}{}{Tandi job. Me want.}
+{107}{}{Estou aqui para falar com o Presidente Tandi sobre um trabalho.}
+{108}{}{Desculpe, escritório errado.}
+{109}{}{Você quer trabalho?}
+{110}{}{Vamos começar de novo. Você ajuda Tandi? Fazer trabalho para Tandi?}
+{111}{}{Simsimsim!}
+{112}{}{Tandi trabalho. Eu quero.}
 {113}{}{O que você faz?}
-{114}{}{Uhhhh... me kill, me kill big!}
-{115}{}{Uhhhh... me smart. Elder say I got brain-of-child. I got 2 brain. Me smart.}
-{116}{}{You can't take the president's job!}
-{117}{}{No?}
-{118}{}{Oh. Okay.}
-{119}{}{Right. I'm not sure that's what she's looking for. Oh well, she said send them all in. You go. Talk Tandi now.}
+{114}{}{Uhhhh... eu mato, eu mato muita coisa!}
+{115}{}{Uhhhh... eu inteligente. Anciãos dizem que tenho cérebro de criança. Tenho 2 cérebros. Eu inteligente.}
+{116}{}{Você não pode assumir o cargo de presidente!}
+{117}{}{Não?}
+{118}{}{Oh, ok.}
+{119}{}{OK. Não tenho certeza se é isso que você está procurando. De qualquer forma, ela disse para mandar todos entrarem, pode ir. Fale com Tandi agora.}
 {120}{}{NO! You are dumb. President must be smart, talk in two-syllable words! You no president.}
 {121}{}{Oh. What me do?}
 {122}{}{Me no like you. You yell. Bad man.}

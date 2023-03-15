@@ -40,7 +40,7 @@
 {139}{}{Tchau-tchau.}
 {140}{}{Uau, pensamento de comunicação! Estou captando vibrações mentais! Ok, vou tentar... uhhh.... Uhhh...}
 {141}{}{Sim?}
-{142}{}{No?}
+{142}{}{Não?}
 {143}{}{Você é um louco do caralho! Eu vou sair daqui.}
 {144}{}{Esta é a NCR - a alta, poderosa, justa, absoluta e sempre correta República da Nova Califórnia. São eles que conduzirão pessoas como nós para fora do deserto e para um futuro novo e perfeito. Você entendeu?}
 {145}{}{Vamos terminar esse negócio.}

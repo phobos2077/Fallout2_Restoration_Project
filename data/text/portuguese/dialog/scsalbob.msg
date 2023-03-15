@@ -19,7 +19,7 @@
 {118}{}{Grrrg!}
 {119}{}{Easy, pardner! Can't blame a man fer asking, can ya? I'll just leave you be then.}
 {120}{}{(Gulp, gulp, gulp) Aaaahhhh! That's right fine of you, stranger! Fine person, indeed. Kind a man should have as his pardner. (Gulp) Did I ever tell you about the time I made my big strike?}
-{121}{}{No?}
+{121}{}{Não?}
 {122}{}{Hey, quit drinking all my booze!}
 {123}{}{Rahhhg!}
 {124}{}{It was back in '78 and me and Bessie - best 'bot a man ever had - we was u-ra-ni-um prospecting west o' here. We hadn't turned up a rad's worth o' beans when all of a sudden five - no, I'm sure it was ten - deathclaws jumped us.}
