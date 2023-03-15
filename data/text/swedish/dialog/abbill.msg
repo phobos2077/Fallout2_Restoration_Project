@@ -29,11 +29,11 @@
  stole it off the bones of some long dead mutie they'd stumbled upon in the wastes, but who knows? Anyway, they weren't
  eager to keep lugging the heavy thing around, so they offered it to me for dirt cheap. I didn't know what I'd ever do
  with it, but I figured a deals a deal.}
-{219}{}{Well, I'm sure Marcus here could benefit from this. How much for it?}
-{220}{}{That's interesting. Well, Marcus here is tough enough. I don't think we'll be needing that item. Let me ask you
- something else.}
-{221}{}{Well, this bad boy could easily be melted down to make three or four sets of metal armor. Let's say $3000.}
-{222}{}{I've got enough for that.}
+{219}{}{Jag är säker på att Marcus här kan dra nytta av detta. Hur mycket kostar det?}
+{220}{}{Det var intressant. Marcus här är tuff nog. Jag tror inte att vi behöver den där. Låt mig fråga dig
+något annat.}
+{221}{}{Den här rackaren kan lätt smältas ner för att göra tre eller fyra uppsättningar metallrustningar. Låt oss säga 3 000 dollar.}
+{222}{}{Jag har råd med det.}
 {223}{}{I think I'll pass for right now. Let me ask you something else.}
 {224}{}{Alright then. This is going to take two of us to move this thing, so let me help you fit it to your friend here.}
 {225}{}{[Färdig]}
