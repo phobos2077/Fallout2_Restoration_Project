@@ -56,7 +56,7 @@
 {148}{}{Bem, isso é tudo que eu precisava saber. Adeus.}
 {149}{}{Eu costumava trabalhar no Salão Malamute. Como parte desse trabalho, as pessoas me chamavam
  de Madame. O nome pegou, embora eu não trabalhe mais lá.}
-{150}{}{Where do you work now?}
+{150}{}{Onde você trabalha agora?}
 {151}{}{Deixe-me perguntar-lhe algo mais.}
 {152}{}{Acho que é tudo que preciso saber. Adeus.}
 {153}{}{I flew a bit of Jet a few days back and it made me feel quite unwell. Must have been a tainted
