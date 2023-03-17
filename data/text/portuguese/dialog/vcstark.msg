@@ -96,14 +96,14 @@
 {195}{}{Hmmm. I'll head over there now.}
 {196}{}{The Vault's right outside the door... sir.}
 {197}{}{The Vault's right outside the door. Just tell the guards you're a Citizen, and they'll let you through.}
-{198}{}{The Vault's right outside the door. Only Citizens are allowed in there, so I don't want to catch you bothering the guards.}
+{198}{}{O Vault do outro lado da porta. Só cidadãos podem entrar lá, então não quero pegar você incomodando os guardas.}
 {199}{}{Posso pedir mais uma coisa?}
 {200}{}{But I am a Citizen.}
-{201}{}{How do you become a citizen?}
+{201}{}{Como você se torna um cidadão?}
 {202}{}{Obrigado. Adeus.}
-{203}{}{That so? I don't recognize you, and I know every Citizen in Vault City.}
-{204}{}{Here's my papers. I think you'll find everything in order.}
-{205}{}{Uh, never mind. I had some other questions...}
+{203}{}{Isso mesmo? Não te reconheço, e conheço todos os Cidadãos de Vault City.}
+{204}{}{Aqui estão meus documentos. Acho que você vai encontrar tudo em ordem.}
+{205}{}{Uh, não importa. Eu tinha outras perguntas...}
 {206}{}{É melhor eu ir.}
 {207}{}{Well, well, if it isn't those papers that were stolen last month. Looks like I finally found the culprit. Come with me, Outsider.}
 {208}{}{Touch me, and you'll regret it.}

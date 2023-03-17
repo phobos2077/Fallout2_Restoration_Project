@@ -20,20 +20,20 @@
 {114}{}{Selecionar Canino}
 {115}{}{Selecionar Felino}
 {116}{}{Selecionar Papa-léguas}
-{117}{}{Select Rodent}
-{118}{}{Select Human}
-{119}{}{[Scratch a new name onto console.]}
+{117}{}{Selecionar Roedor}
+{118}{}{Selecionar Humano}
+{119}{}{[Arranha um novo nome no console.]}
 {120}{}{Sair.}
-{121}{}{[You pick up a scrap piece of metal and ponder on what to scratch onto the console.]}
-{122}{}{Carve the word 'Mutant' onto console.}
-{123}{}{Carve the word 'Deathclaw' onto console.}
+{121}{}{[Você pega um pedaço de metal e pensa no que escrever no console.]}
+{122}{}{Grava a palavra 'Mutante' no console.}
+{123}{}{Grava a palavra 'Deathclaw' no console.}
 {124}{}{Sair.}
-{125}{}{Current Selection: }
-{126}{}{Species: }
-{127}{}{Organ: }
+{125}{}{Seleção atual: }
+{126}{}{Espécie: }
+{127}{}{Órgão: }
 {128}{}{Selecione espécie}
 {129}{}{Selecione Orgão}
-{130}{}{Proceed with extraction.}
+{130}{}{Prossiga com a extração.}
 {131}{}{Sair.}
 {132}{}{The dial has the following organs listed:
                           Heart
