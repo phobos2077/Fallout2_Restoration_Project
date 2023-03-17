@@ -23,4 +23,4 @@
  the floor. So much for using this terminal.]}
 {119}{}{Sair}
 {120}{}{You already shut down the automated repair system.}
-{121}{}{I can't access the terminal. Someone broke the keyboard.}
+{121}{}{Não consigo acessar o terminal. Alguém quebrou o teclado.}

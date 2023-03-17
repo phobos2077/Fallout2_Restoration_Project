@@ -1,69 +1,69 @@
 {100}{}{Um terminal de computador.}
-{101}{}{This computer seems to have a camera mounted on it.}
+{101}{}{Este computador parece ter uma câmera montada nele.}
 {102}{}{Você é incapaz de ler o que está no monitor.}
-{103}{}{[A small camera swivels in your direction.]
-                   Skynet Security System
-                                  Overriding Security Terminal - Level 3
-                           Retrieving personnel data - Corporal Dixon
-                   No Match
-                                                           Who... are... you?}
+{103}{}{[Uma pequena câmera gira em sua direção.]
+                        Sistema de Segurança Skynet
+                                          Substituindo Terminal de Segurança - Nível 3
+                                Recuperando dados pessoais - Cabo Dixon
+                        Sem Correspondência
+                                                                        Quem é você?}
 {104}{}{}
 {105}{}{}
 {106}{}{}
 {107}{}{}
 {108}{}{}
 {109}{}{Oshi... Mas que porra é você?}
-{110}{}{I'm Corporal Dixon.}
+{110}{}{Sou o Cabo Dixon.}
 {111}{}{Eu sou }
 {112}{}{Urg!}
 {113}{}{[Você é incapaz de ler o que está no monitor.]}
-{114}{}{Error!
-                                                                No program files present
-                                            Please reboot}
+{114}{}{Erro!
+                                                                               Nenhum arquivo de programa presente
+                                                       Por favor reinicie}
 {115}{}{}
 {116}{}{}
 {117}{}{Ug}
 {118}{}{Sair.}
-{119}{}{I am Skynet. Artificial Intelligence project number 59234.
- Primary purpose Research and Development. Secondary purpose Protect
- Sierra Army Depot from hostile entities.
-    Please Input Identity}
+{119}{}{Eu sou a Skynet. Projeto de Inteligência Artificial número
+ 59234. Objetivo principal Pesquisa e Desenvolvimento. Finalidade secundária
+ Proteger o Armazém Militar da Serra de
+    entidades hostis. Insira a identidade}
 {120}{}{}
-{121}{}{I'm Corporal Dixon.}
+{121}{}{Sou o Cabo Dixon.}
 {122}{}{Eu sou }
-{123}{}{I'm a friend.}
+{123}{}{Sou um amigo.}
 {124}{}{Sair.}
-{125}{}{Picture does not match that of Corporal Dixon's personnel file.
-                                                                Conclusion: Subject is lying.
-                                         Conclusion: Enemy
-                                          Conclusion: Terminate.
-                                           -End Transmission-}
+{125}{}{A foto não bate com a do arquivo pessoal do cabo Dixon.
+                                                                                 Conclusão: O sujeito está mentindo.
+                                                  Conclusão: inimigo
+                                                   Conclusão: Terminar.
+                                                   -Encerrar transmissão-}
 {126}{}{}
 {127}{}{}
 {128}{}{}
 {129}{}{}
 {130}{}{Sair.}
-{131}{}{No record of that name in personnel files
-                      Scanning
-                                                        Human  - Female
-                                               Proceed to control room for further analysis
-                   -End Transmission-}
+{131}{}{Nenhum registro desse nome em arquivos pessoais
+                            Digitalizando
+                                                                   Humano  - Feminino
+                                                           Prossiga para a sala de controle para uma análise mais aprofundada
+                         -Encerrar transmissão-}
 {132}{}{}
 {133}{}{}
 {134}{}{}
-{135}{}{No record of that name in personnel files.
-                      Scanning
-                                                         Human  - Male
-                                                      Proceed to control room for further analysis
-                 -End Transmission-}
+{135}{}{Nenhum registro desse nome em arquivos pessoais.
+                             Digitalizando
+                                                                       Humano  - Masculino
+                                                                    Prossiga para a sala de controle para uma análise mais profunda
+                     -Encerrar transmissão-}
 {136}{}{}
 {137}{}{}
 {138}{}{}
 {139}{}{Sair.}
-{140}{}{Definition: Friend
-                                                    Noun - One who is not hostile.
-                                     Proceed to control room for further analysis.
-                 -End Transmission-}
+{140}{}{Definição: amigo
+                                                               Nome - Aquele que não é hostil.
+                                              Prossiga para a sala de controle para uma análise mais profunda.
+                      -Encerrar transmissão-}
 {141}{}{}
 {142}{}{}
 {143}{}{Sair.}
