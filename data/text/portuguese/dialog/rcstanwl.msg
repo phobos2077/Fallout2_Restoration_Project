@@ -35,7 +35,7 @@
 {128}{}{Não perdemos tudo o que tínhamos... mas perdemos mais do que posso pagar. Se você tivesse
  feito seu trabalho direito, estaria recebendo mais do que esses US$500.}
 {129}{}{Bem, isso é melhor do que nada, eu acho. Adeus.}
-{130}{}{You lousy bastard! Nobody could have done a better job. You'll regret stiffing me. Goodbye.}
+{130}{}{Seu cretino miserável! Ninguém poderia ter feito um trabalho melhor. Você vai se arrepender de não me pagar. Adeus.}
 {131}{}{Isso não foi nada mal, aqui estão seus $2.000. Volte se precisar de mais trabalho algum dia.}
 {132}{}{Acho que nunca mais quero passar tanto tempo olhando para a bunda de um brahmin. Adeus.}
 {133}{}{Isso não foi tão ruim assim. Até mais.}

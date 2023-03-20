@@ -13,7 +13,7 @@
 {109}{}{Bem, as vezes você tem mais sorte do que outros. Este foi um dos momentos de azar. Adeus.}
 {110}{}{I'll pay you for the half-ass job you did. Here's $50. Now get out of here.}
 {111}{}{Bem, isso é melhor do que nada, eu acho. Adeus.}
-{112}{}{You lousy bastard! Nobody could have done a better job. You'll regret stiffing me. Goodbye.}
+{112}{}{Seu cretino miserável! Ninguém poderia ter feito um trabalho melhor. Você vai se arrepender de não me pagar. Adeus.}
 {113}{}{Well, most of the caravan made it, even if Savinelli didn't. Here's your $100. I don't know when
  we'll get someone else to run the caravan, though.}
 {114}{}{Acho que nunca mais quero passar tanto tempo olhando para a bunda de um brahmin. Adeus.}

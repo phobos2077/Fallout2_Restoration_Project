@@ -1,6 +1,6 @@
-{100}{}{You see a bedraggled wretch.}
-{101}{}{You see Rattray, Doc Johnson's hunchbacked assistant.}
-{102}{}{You see a bedraggled, hunchbacked, crippled wretch-with a bad case of dandruff.}
+{100}{}{Você vê um miserável deformado.}
+{101}{}{Você vê Rattray, o assistente corcunda do Dr. Johnson.}
+{102}{}{Você vê um miserável, torto, corcunda e aleijado e com um caso grave de caspa.}
 {103}{}{Ratt clean real good, Doctor.}
 {104}{}{You worthless lump of flesh. }
 {105}{}{Ratt try real hard to help.}

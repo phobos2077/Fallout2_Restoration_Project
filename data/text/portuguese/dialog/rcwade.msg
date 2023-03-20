@@ -32,7 +32,7 @@
 {127}{}{Bem, as vezes você tem mais sorte do que outros. Este foi um dos momentos de azar. Adeus.}
 {128}{}{Essa foi uma viagem ruim. Só posso te dar $500... e ainda sim vai me dar um prejuízo. Desculpe.}
 {129}{}{Bem, isso é melhor do que nada, eu acho. Adeus.}
-{130}{}{You lousy bastard! Nobody could have done a better job. You'll regret stiffing me. Goodbye.}
+{130}{}{Seu cretino miserável! Ninguém poderia ter feito um trabalho melhor. Você vai se arrepender de não me pagar. Adeus.}
 {131}{}{Essa caravana foi um sucesso, aqui estão seus $1.000. Foi um prazer em trabalhar com você. Espero
  te ver novamente em algum momento.}
 {132}{}{Acho que nunca mais quero passar tanto tempo olhando para a bunda de um brahmin. Adeus.}

@@ -57,7 +57,7 @@
 {156}{}{Desculpe, não tenho tempo para falar agora.}
 {157}{}{Por que, de todos os...! Eu NUNCA conheci alguém de classe baixa como você. Eu sugiro que você saia. Agora.}
 {158}{}{Sugiro que tome cuidado com esse seu tom, ou haverá problemas.}
-{159}{}{Whatever. I'm done talking to you anyway.}
+{159}{}{Que seja. Eu já me cansei de falar com você.}
 {160}{}{Guardas! Doutor Tróia! Socorro!}
 {161}{}{Então é assim que vai ser, eh? Tudo bem então...}
 {162}{}{Sou a Assistente Médica Residente. Eu trabalho para o Dr. Troy.}

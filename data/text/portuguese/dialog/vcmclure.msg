@@ -33,49 +33,49 @@
 {132}{}{How does one become a Citizen?}
 {133}{}{I think you might have a part that could fix Gecko's power plant.}
 {134}{}{I repaired Gecko's plant.}
-{135}{}{I have an economic data disk here you might find interesting.}
-{136}{}{I found a way to optimize the Gecko reactor.}
-{137}{}{Here's the Gecko reactor disk. Can you optimize it?}
+{135}{}{Tenho um disco de dados econômicos aqui que você pode achar interessante.}
+{136}{}{Encontrei uma maneira de otimizar o reator de Gecko.}
+{137}{}{Aqui está o disco do reator de Gecko. Você pode otimizá-lo?}
 {138}{}{Nada por hoje, valeu.}
-{139}{}{I am Senior Councilor McClure. And you are...?}
+{139}{}{Eu sou o Conselheiro Sênior McClure. E você é...?}
 {140}{}{Não é da sua conta.}
-{141}{}{. Pleased to meet you.}
-{142}{}{I really have to run. Maybe we can do introductions some other time.}
-{143}{}{I expect that kind of rudeness from an Outworlder, not a Citizen. I am a member of the Vault City Council, and you will show me the proper respect, or I will have your Citizenship revoked. Do you understand me?}
-{144}{}{Screw you, old man.}
-{145}{}{Whatever. I'm done talking to you anyway.}
-{146}{}{Sorry. Didn't mean to offend you.}
-{147}{}{Well, this is the rudeness I've come to expect from Outworlders! Give me your Day Pass and go with the guards. There is no place for your kind in our city.}
-{148}{}{I'm not giving you anything. You want it? You come get it.}
-{149}{}{I'm NOT an Outworlder. I'm a Citizen.}
-{150}{}{Okay, okay, I'm going.}
-{151}{}{I find that hard to believe. Let me see your papers.}
-{152}{}{Here, take them!}
-{153}{}{You want them? You come get them.}
-{154}{}{I don't know how someone of your inferior breeding became a Citizen but these papers seem to be in order. Strange... I don't recall seeing you around before. No matter, I shall honor your Citizenship.}
-{155}{}{You're damn right you'll honor my Citizenship!}
-{156}{}{Yeah, right. I'm outta here.}
-{157}{}{Don't ever speak to me again. If you do, I will have your Citizenship revoked. Good day.}
+{141}{}{. Prazer em conhecê-lo.}
+{142}{}{Eu realmente tenho que ir. Talvez possamos fazer as apresentações em outro momento.}
+{143}{}{Espero esse tipo de grosseria de um forasteiro, não de um cidadão. Sou membro do Conselho da Cidade de Vault, e você me mostrará o devido respeito, ou terá sua cidadania revogada. Está entendendo?}
+{144}{}{Foda-se, velho broxa.}
+{145}{}{Que seja. Eu já me cansei de falar com você.}
+{146}{}{Desculpe, não quis ofendê-lo.}
+{147}{}{Ah, esta é a grosseria que eu esperava dos forasteiros! Me dê seu passe diário e vá com os guardas. Não há lugar para sua espécie em nossa cidade.}
+{148}{}{Não vou te dar nada. Você quer isso? Você aqui pegar.}
+{149}{}{Eu NÃO sou um forasteiro. Eu sou um Cidadão.}
+{150}{}{Ok, ok, estou indo.}
+{151}{}{Acho isso difícil de acreditar. Deixe-me ver seus documentos.}
+{152}{}{Estão aqui, pegue!}
+{153}{}{Você quer? Vem aqui mesmo pegar.}
+{154}{}{Não sei como alguém de sua linhagem inferior se tornou cidadão, mas esses papéis parecem estar em ordem. Estranho... Não me lembro de ter visto você antes. Não importa, honrarei sua cidadania.}
+{155}{}{Você está certo, você vai honrar minha cidadania!}
+{156}{}{Ok, certo. Estou saindo daqui.}
+{157}{}{Nunca mais fale comigo. Se fizer, terá sua cidadania revogada. Bom dia.}
 {158}{}{Bom dia.}
-{159}{}{You try and revoke my Citizenship, you'll regret it.}
-{160}{}{Your powers are weak, old man. You are no match for me.}
-{161}{}{That's it! Citizen or not, you're out of here. Guards, show this degenerate to the gates!}
-{162}{}{I'm going. This place sucked anyway.}
+{159}{}{Se tentar revogar minha cidadania, vai se arrepender.}
+{160}{}{Você é fraco, velhote. Não dá nem pro cheiro.}
+{161}{}{É isso! Cidadão ou não, você sairá daqui. Guardas, levem esse degenerado aos portões!}
+{162}{}{Estou indo, este lugar é mesmo um lixo.}
 {163}{}{Eu não estou indo a lugar algum.}
 {164}{}{O que posso fazer por você?}
-{165}{}{I don't know, old man. What CAN you do for me?}
+{165}{}{Não sei, velho. O que você PODE fazer por mim?}
 {166}{}{Estou procurando um Kit de Criação do Jardim do Éden.}
 {167}{}{Posso te fazer algumas perguntas?}
-{168}{}{Nothing today. I was just taking a tour of the council building.}
-{169}{}{A GECK? As I understand it, we only had one. I read that it lasted a long time but it broke down a number of years before I was even born. We were supposed to have two...}
-{170}{}{Supposed to?}
-{171}{}{... but apparently the old government messed up the shipments and we received a shipment that was meant to go to a Vault number... thirteen, I think it was. They probably received our other GECK.}
-{172}{}{What was in the shipment that was meant for Vault 13?}
-{173}{}{What happened to the GECK that broke down?}
+{168}{}{Nada hoje. Eu estava apenas fazendo um tour pelo prédio do conselho.}
+{169}{}{UM GECK? Pelo que entendi, só tínhamos um. Li que durou muito tempo, mas quebrou alguns anos antes de eu nascer. Deveríamos ter dois...}
+{170}{}{Suposto?}
+{171}{}{... mas aparentemente o antigo governo bagunçou as remessas e recebemos uma remessa que era para ir à Vault número... treze, acho que é isso. Eles provavelmente receberam nosso outro GECK.}
+{172}{}{O que havia na remessa destinada à Vault 13?}
+{173}{}{O que aconteceu com o GECK que quebrou?}
 {174}{}{Posso te fazer outra pergunta?}
 {175}{}{Entendo. Obrigado pela informação.}
 {176}{}{Water Chips, a hundred or so. I don't know why they sent so many... we have never needed to replace ours. We have had the same water chip since the day our people lived underground in the Vault.}
-{177}{}{What happened to the GECK that broke down?}
+{177}{}{O que aconteceu com o GECK que quebrou?}
 {178}{}{Posso te fazer outra pergunta?}
 {179}{}{Interessante. Obrigado pelo seu tempo.}
 {180}{}{The irony is razor sharp. Maybe we'll talk later after I stop the bleeding.}
