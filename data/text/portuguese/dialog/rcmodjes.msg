@@ -116,67 +116,66 @@
  rápida antes que os outros percebam.}
 {193}{}{O que você acha que acontecerá?}
 {194}{}{Entendo. Obrigado, tchau.}
-{195}{}{I think that the folks here will follow Mayor Ascorti's lead. He's a crook, but people trust
- that. He'll go with whoever's strongest. You see, whatever's good for Ascorti is also going to be good
- for Redding. I think he just hasn't figured out who's closest to being on top yet. But he's got to
- choose soon.}
+{195}{}{Acho que o pessoal aqui vai seguir o exemplo do prefeito Ascorti. Ele é um vigarista, mas
+ as pessoas confiam nele, e ele vai com quem for mais forte. Veja bem, o que for bom para Ascorti
+ também será bom para Redding. Mas acho que ele ainda não descobriu quem seria o mais
+ indicado, só que ele precisa escolher logo.}
 {196}{}{Deixa eu te perguntar outra coisa.}
-{197}{}{Thanks for letting me know what's going on here. Goodbye.}
-{198}{}{Marge LeBarge is the owner of the Kokoweef Mine. It and the Morningstar Mine are the only two
- working mines left in Redding. I think that Marge's more of an NCR type. I don't think she likes their
- prudishness, but she recognizes power when she sees it.}
+{197}{}{Obrigado por me informar sobre o que está acontecendo aqui. Adeus.}
+{198}{}{Marge LeBarge é a proprietária da Mina Kokoweef. Ela e a Mina Morningstar são as únicas duas
+ minas em funcionamento que restam em Redding. Acho que Marge vai para o lado da NCR, ela nem
+ deve gostar do puritanismo deles, mas reconhece poder quando o vê.}
 {199}{}{Quem é Dan McGrew?}
 {200}{}{Quem é o Dr. Johnson?}
 {201}{}{Quem é o prefeito Ascorti?}
-{202}{}{How can these people help a takeover?}
+{202}{}{Como eles podem ajudar a tomar o poder?}
 {203}{}{Obrigado pela informação. Adeus.}
-{204}{}{Dangerous Dan McGrew, ah, yes. He's the owner of the Morningstar Mine. It and the Kokoweef Mine
- are the only two working mines left in Redding. I think Dan is leaning more towards New Reno, if I had
- to guess. He likes his miners doped up and happy.}
+{204}{}{O Perigoso Dan McGrew, ah, sim, ele é dono da Mina Morningstar. Ela e a Mina Kokoweef são as únicas
+ duas minas em funcionamento que restam em Redding. Acho que Dan vai mais para o lado de New Reno,
+ pelo menos o que acha. Ele gosta de seus mineiros chapados e felizes.}
 {205}{}{Quem é Marge LeBarge?}
 {206}{}{Quem é o Dr. Johnson?}
 {207}{}{Quem é o prefeito Ascorti?}
-{208}{}{How can these people help a takeover?}
+{208}{}{Como eles podem ajudar a tomar o poder?}
 {209}{}{Obrigado pela informação. Adeus.}
-{210}{}{Ascorti's the Mayor. He runs Ascorti's Ace downtown. He takes care of buying and selling a lot
- of stuff. He's right in the middle of all kinds o' thangs.}
+{210}{}{Ascorti é o prefeito, ele comanda o Ás de Ascorti's lá no centro, ele compra e vende um monte
+ de coisas. Ele sempre está metido no meio de todo tipo de coisa.}
 {211}{}{Ascorti é o prefeito de Redding. Mas não sei direito onde ele está, faz um bom tempo que não
  o vejo por aí.}
 {212}{}{Deixa eu te perguntar outra coisa.}
 {213}{}{Acho que já ouvi você o suficiente. Adeus.}
-{214}{}{Jet is a wonderful drug that helps me to take the edge of this miserable existence, darling.}
+{214}{}{Jet é uma droga maravilhosa que me ajuda a superar essa existência miserável, meu bem.}
 {215}{}{Deixe-me perguntar-lhe algo mais.}
 {216}{}{Interessante. Obrigado e adeus.}
-{217}{}{Jet's a drug that helps me to feel truly alive. I'm a real sky-pilot with Jet.}
+{217}{}{Jet é uma droga que me ajuda a me sentir verdadeiramente viva. Eu sou uma verdadeira pilota quando tenho jet.}
 {218}{}{Deixe-me perguntar-lhe algo mais.}
-{219}{}{Interesting. Thanks, and goodbye.}
-{220}{}{Mmmm, I'll tell you what Jet is. It's delicious, that's what it is. Jet has something for
- everybody.}
+{219}{}{Interessante. Obrigado e adeus.}
+{220}{}{Mmmm, vou te dizer o que é jet. É delicioso, isso que é. Jet tem alguma coisa para
+ qualquer um.}
 {221}{}{Deixe-me perguntar-lhe algo mais.}
-{222}{}{Interesting. Thanks, and goodbye.}
-{223}{}{Jet used to be the thing. Now it's turning my guts around and around like a worn-out washing
- machine. I wouldn't recommend any of the current batch. This Jet has run out of fuel and crashed,
- darling.}
+{222}{}{Interessante. Obrigado e adeus.}
+{223}{}{Jet costumava ser o melhor, agora ele está revirando minhas entranhas como uma máquina
+ de lavar. Eu não recomendo nenhum do lote mais recente. Este jato ficou sem combustível e caiu,
+ meu bem.}
 {224}{}{Claro, desculpe. Deixe eu te perguntar outra coisa.}
-{225}{}{Interesting. Thanks, and goodbye.}
-{226}{}{Something was desperately wrong with the last batch of Jet that went through town. It crashed
- and burned on take-off. I think I'm through flying. Now, drinking - there's something that you can
- depend on.}
+{225}{}{Interessante. Obrigado e adeus.}
+{226}{}{Algo estava totalmente errado com esse último lote de jet que veio na cidade, ele queimou e
+ caiu na decolagem. Me cansei dessa coisa de chapar, agora, só bebo, é algo que você pode confiar.}
 {227}{}{Deixe-me perguntar-lhe algo mais.}
-{228}{}{Interesting. Thanks, and goodbye.}
-{229}{}{Painless Doc Johnson's sort of a mystery man. I don't know where he came from, but he's a real
- M.D., all right. Only place he'd get training like that is Vault City. I'm betting he's been planted
- here to further their interests. He must've pissed off someone there to get the assignment, though;
- those VC'ers don't like the outside much.}
+{228}{}{Interessante. Obrigado e adeus.}
+{229}{}{O Indolor Dr. Johnson é um tipo de homem misterioso. Não sei de onde ele veio, mas ele é um
+ médico autêntico. O único lugar onde ele teria um treinamento assim é Vault City. Aposto que
+ ele foi colocado aqui para promover seus interesses. Ele deve ter chateado alguém por lá para que
+ fosse mandado aqui; aqueles cidadãos não gostam muito do lado de fora.}
 {230}{}{Quem é Marge LeBarge?}
 {231}{}{Quem é Dan McGrew?}
 {232}{}{Quem é o prefeito Ascorti?}
-{233}{}{How can these people help a takeover?}
+{233}{}{Como eles podem ajudar a tomar o poder?}
 {234}{}{Obrigado pela informação. Adeus.}
-{235}{}{The Mayor's a man that knows how to play both sides while he's stealing the middle. He's got a
- few scruples left, but mostly he'll do what's right for Redding in order to keep his own interests safe.}
+{235}{}{O prefeito é um homem que sabe jogar dos dois lados enquanto rouba o meio. Ele não tem
+ muitos escrúpulos, apesar disso, fará o que é certo para Redding, o que coincide com a segurança de seus próprios interesses.}
 {236}{}{Quem é Marge LeBarge?}
 {237}{}{Quem é Dan McGrew?}
 {238}{}{Quem é o Dr. Johnson?}
-{239}{}{How can these people help a takeover?}
+{239}{}{Como eles podem ajudar a tomar o poder?}
 {240}{}{Obrigado pela informação. Adeus.}
