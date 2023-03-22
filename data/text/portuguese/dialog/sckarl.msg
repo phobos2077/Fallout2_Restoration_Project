@@ -1,6 +1,6 @@
-{100}{}{You see a young man wearing the badge of the NCR police.}
-{101}{}{It's Karl, the town deputy.}
-{102}{}{You see a young man barely out of his teens. He looks eager to please.}
+{100}{}{Você vê um jovem usando o distintivo da polícia da NCR.}
+{101}{}{É Karl, o deputado da cidade.}
+{102}{}{Você vê um jovem que mal saiu da adolescência. Ele parece ansioso para agradar alguém.}
 {103}{}{Welcome, stranger. I'm Deputy Karl. What can I do for you?}
 {104}{}{Como?}
 {105}{}{Uh... nugh..}

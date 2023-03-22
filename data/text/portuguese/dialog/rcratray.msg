@@ -1,38 +1,38 @@
 {100}{}{Você vê um miserável deformado.}
 {101}{}{Você vê Rattray, o assistente corcunda do Dr. Johnson.}
 {102}{}{Você vê um miserável, torto, corcunda e aleijado e com um caso grave de caspa.}
-{103}{}{Ratt clean real good, Doctor.}
-{104}{}{You worthless lump of flesh. }
-{105}{}{Ratt try real hard to help.}
-{106}{}{I don't know why I put up with your incompetence.}
-{107}{}{Ratt real sorry, Ratt act better.}
-{108}{}{You just better, or you'll find yourself out on the street again-I'm just too kind.}
-{109}{}{No Doctor, no put Ratt out! Ratt be good. Ratt promise.}
-{110}{}{Well, just see that you clean up your act then. I'm warning you.}
-{111}{}{Ratt be very good. Ratt no trouble. }
-{112}{}{Yes, well, see that your chores get done.}
-{113}{}{Ratt clean and clean. Eat all bad bugs. Keep house clean.}
-{114}{}{And that's another thing, I don't want to see you constantly eating those beetles, or roaches, or whatnot.}
-{115}{}{Doctor not want Ratt to get rid of bugs? Okay, Ratt save nice bugs for Doctor to eat.}
-{116}{}{I don't want to eat them, you fool! I just don't want to watch you eat them.}
-{117}{}{Ratt not eat bugs?}
-{118}{}{That's right, DON'T EAT BUGS IN FRONT OF ME. I don't care for that nasty crunching sound.}
-{119}{}{Ratt just suck on crunchy shells then?}
-{120}{}{NO! I don't want you chewing bugs, sucking on them, licking them, or anything else.}
-{121}{}{Ratt no eat bugs. Ratt take good care of Doctor's bugs.}
-{122}{}{Well, now that we've got that settled. Did you clean the shelves?}
-{123}{}{Yes, Doctor, Ratt clean all nice Doctor's pretty, pretty shelves. Nice shelves all clean.}
-{124}{}{Very well then. What about the floor? It looks dirty.}
-{125}{}{Ratt, scrub floor again for nice Doctor. No want dirty floor for clean Doctor.}
-{126}{}{Hmm, I suppose you think you can just lay about now. Is that it?}
-{127}{}{No Doctor, no. Ratt not do that again. Ratt remember.}
-{128}{}{Just see that you keep yourself busy, or I'll whip you again. }
-{129}{}{NO! Doctor, no whip Ratt. Ratt be good now.}
-{130}{}{Mind you, I don't enjoy it. But you need the discipline, Rattray. You certainly do.}
-{131}{}{Yes, Doctor. Doctor always know best for Ratt.}
-{132}{}{As long as you remember that, Rattray. God knows why I take such pains with you.}
-{133}{}{Doctor nice man, very nice man.}
-{134}{}{Yes, well I suppose that I am, at that.}
+{103}{}{Ratt limpa muito bem, doutor.}
+{104}{}{Seu pedaço de carne desprezível. }
+{105}{}{Ratt tenta ajudar muito.}
+{106}{}{Não sei por que tolero sua incompetência.}
+{107}{}{Ratt sente muito, Ratt ser melhor.}
+{108}{}{Que seja melhor, ou você vai pra rua novamente... estou sendo muito gentil.}
+{109}{}{Não Doutor, não coloque Ratt para fora! Rat ser bom. Ratt promete.}
+{110}{}{Ok, então eu quero ver você limpando tudo. Estou te avisando.}
+{111}{}{Ratt ser muito bom. Rat não tem problemas. }
+{112}{}{Sim, bem, cuide para que suas tarefas sejam feitas.}
+{113}{}{Ratt limpa e limpa. Come todos os insetos ruins. Deixa casa limpa.}
+{114}{}{E mais uma coisa, não quero ver você toda hora comendo esses besouros, ou baratas, ou sei lá o quê.}
+{115}{}{O doutor não quer que Ratt se livre dos insetos? Ok, Ratt guarda bons insetos para o Doutor comer.}
+{116}{}{Eu não quero comê-los, idiota! Só não quero ver você comê-los.}
+{117}{}{Ratt não comer bichos?}
+{118}{}{Isso mesmo, NÃO COMA INSETOS NA MINHA FRENTE. Eu não suporto mais essa coisa asquerosa.}
+{119}{}{Ratt só chupa casquinhas crocantes então?}
+{120}{}{NÃO! Não quero você mastigando insetos, chupando, lambendo ou qualquer outra coisa.}
+{121}{}{Ratt não come insetos. Ratt cuida bem dos insetos do Doutor.}
+{122}{}{Bem, agora que resolvemos isso... você limpou as prateleiras?}
+{123}{}{Sim, doutor, Ratt limpa todas as prateleiras bonitas do doutor. Boas prateleiras, todas limpas.}
+{124}{}{Muito bem, então. E o chão? Parece sujo.}
+{125}{}{Ratt esfrega o chão de novo para o bom doutor. Não quero chão sujo para médico limpo.}
+{126}{}{Hmm, suponho que você pensa que pode ficar deitado agora. É isso?}
+{127}{}{Não Doutor, não, Ratt não faz isso de novo. Rat lembra.}
+{128}{}{Apenas cuide para se manter ocupado, ou vou chicoteá-lo novamente. }
+{129}{}{NÃO! Doutor, nada de chicote em Ratt. Ratt ser bom agora.}
+{130}{}{Entenda isso: eu não gosto disso, mas você precisa de disciplina, Rattray. E precisa muito.}
+{131}{}{Sim, doutor. O médico sempre sabe o melhor para Ratt.}
+{132}{}{Contanto que você se lembre disso, Rattray. Deus sabe por que me preocupo tanto com você.}
+{133}{}{Doutor bom homem, muito bom homem.}
+{134}{}{Sim, suponho que sim, sem dúvida.}
 {135}{}{I works 'ere for the Doctor.}
 {136}{}{I clean up. Hokay?}
 {137}{}{Heh, heh, heh. I found something to eat.}

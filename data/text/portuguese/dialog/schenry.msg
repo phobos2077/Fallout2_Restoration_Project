@@ -62,8 +62,8 @@
 {161}{}{Bom dia a puta que te pariu, e eu falo isso com toda a cortesia. Entregue esses papéis ou vou começar a arrancar seus dedos. Vamos ver que bom médico você é então.}
 {162}{}{Tudo bem, eu vou te dizer.}
 {163}{}{Uh... Ok, the papers are in my desk over there. Take them; just don't hurt my hands. Ok?}
-{164}{}{Kiss my ass, you cretin! Guards! Guards!}
-{165}{}{Now you're being reasonable. I'll let Mr. Merk know.}
-{166}{}{You'll regret that, Doc.}
-{167}{}{Hey! You have exactly ten seconds to put those papers back before I call the guards.}
-{168}{}{Caught you again, huh? Fine, I'll let the law deal with you. Guards! Guards!}
+{164}{}{Vai se fuder, vagabundo de merda! Guardas! Guardas!}
+{165}{}{Agora você está sendo razoável. Vou avisar o Sr. Merk.}
+{166}{}{Você vai se arrepender disso, doutor.}
+{167}{}{Ei! Você tem exatamente dez segundos para colocar esses papéis de volta antes que eu chame os guardas.}
+{168}{}{Peguei você de novo, eh? Tudo bem, vou deixar a lei lidar com você. Guardas! Guardas!}
