@@ -33,20 +33,20 @@
 {132}{}{Contanto que você se lembre disso, Rattray. Deus sabe por que me preocupo tanto com você.}
 {133}{}{Doutor bom homem, muito bom homem.}
 {134}{}{Sim, suponho que sim, sem dúvida.}
-{135}{}{I works 'ere for the Doctor.}
-{136}{}{I clean up. Hokay?}
-{137}{}{Heh, heh, heh. I found something to eat.}
-{138}{}{I found a roach. Yummy.}
-{139}{}{You want yummy roach to eat too? Ratt share.}
-{140}{}{Doctor take good care of Ratt.}
-{141}{}{Ratt bad but nice Doctor take good care of him anyway.}
-{142}{}{Ratt always so stupid. Why me so stupid?}
-{143}{}{Ratt sorry. Me no understand what you want.}
-{144}{}{Doctor say Ratt not to talk to visitors.}
-{145}{}{Ratt not say anything.}
-{146}{}{Ratt not get in way. Ratt want help.}
-{147}{}{You know where Doc go?}
-{148}{}{Ratt not see Doc in longtime.}
-{149}{}{Doc gone, Ratt sad.}
-{150}{}{Who take care of Ratt now?}
+{135}{}{Eu trabalho aqui para o Doutor.}
+{136}{}{Eu limpo. Ta bem?}
+{137}{}{He, he, he. Achei algo para comer.}
+{138}{}{Achei uma barata. Deliciosa.}
+{139}{}{Você quer barata boa pra comer também? Rat dá.}
+{140}{}{Doutor cuida bem de Ratt.}
+{141}{}{Ratt ruim, mas legal. Doutor, cuida bem dele até.}
+{142}{}{Ratt sempre bem estúpido. Por que eu tão estúpido?}
+{143}{}{Rat desculpa. Não entende o que você quer.}
+{144}{}{O doutor diz a Ratt para não falar com os visitantes.}
+{145}{}{Ratt não diz nada.}
+{146}{}{Ratt não atrapalha. Ratt quer ajudar.}
+{147}{}{Você sabe onde foi doutor?}
+{148}{}{Ratt não vê doutor há muito tempo.}
+{149}{}{Doc se foi, Ratt triste.}
+{150}{}{Quem cuida de Ratt agora?}
 {151}{}{Ratt keep house nice until Doctor back.}
