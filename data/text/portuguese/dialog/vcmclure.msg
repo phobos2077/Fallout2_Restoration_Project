@@ -199,17 +199,17 @@
 {298}{}{Very well. Give me a moment...}
 {299}{}{Tudo certo.}
 {300}{}{Hmmm. How did you come by this disk?}
-{301}{}{I... found it.}
-{302}{}{I found it while searching some of the archives in the Vault City library.}
-{303}{}{I got it from someone in Gecko.}
-{304}{}{I received it from a ghoul in Gecko. His name is Gordon Gecko. He's interested in optimizing the power plant and sharing the energy with Vault City... in exchange for Vault City's medical technology.}
-{305}{}{I... see. So. What does this have to do with me?}
-{306}{}{Well, as I understand it, Vault City's power generator can only support so many people. In fact, it's already nearing its limit.}
-{307}{}{I'm not going to ask you how you came by that information, but if it were true, what are you proposing?}
-{308}{}{Once the Gecko power plant is fixed, the disk indicates it's possible it could produce enough energy for Vault City, too. It looks like the reactor would need to be optimized first, though.}
-{309}{}{The disk shows that Gecko's power plant... if it were optimized... could produce a great deal of energy. Far more than Gecko needs. Vault City could use that energy.}
-{310}{}{Are you suggesting we SEIZE Gecko and take their power plant? I will NOT lis --}
-{311}{}{No, no... if Gecko could receive the optimization data for their plant, I'm betting they would be willing to trade their excess power for medical assistance.}
+{301}{}{Eu... encontrei.}
+{302}{}{Eu o encontrei enquanto procurava alguns dos arquivos na biblioteca de Vault City.}
+{303}{}{Peguei de alguém em Gecko.}
+{304}{}{Eu recebi de um ghoul em Gecko, o nome dele é Gordon Gecko. Ele está interessado em otimizar a usina e compartilhar a energia com Vault City... em troca da tecnologia médica de Vault City.}
+{305}{}{Entendo. Então, o que isso tem a ver comigo?}
+{306}{}{Bem, pelo que sei, o gerador de energia de Vault City só pode suportar um certo número de habitantes. Na verdade, quase atingiu seu limite.}
+{307}{}{Não vou perguntar como você conseguiu essa informação, mas se fosse verdade, o que você está propondo?}
+{308}{}{Assim que a usina Gecko for consertada, o disco indica que é possível que ela também possa produzir energia suficiente para Vault City. Mas, parece que o reator precisaria ser otimizado primeiro.}
+{309}{}{O disco mostra que a usina de Gecko... se fosse otimizada... poderia produzir uma grande quantidade de energia. Muito mais do que Gecko precisa. Vault City poderia usar essa energia.}
+{310}{}{Você está sugerindo que nos APODEREMOS de Gecko e sua usina? Eu NÃO ouvi --}
+{311}{}{Não, não... se Gecko pudesse receber os dados de otimização para sua central, aposto que eles estariam dispostos a trocar seu excesso de energia por assistência médica.}
 {312}{}{Hmmm. As far as medical assistance goes, I'm not unsympathetic to the plight of the ghouls. They have certainly suffered enough... but how could we optimize their plant?}
 {313}{}{I don't know. Maybe there's someone I can talk to once the plant is repaired.}
 {314}{}{I don't know. Maybe there's someone I can talk to at the plant.}

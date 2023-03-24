@@ -49,4 +49,4 @@
 {148}{}{Ratt não vê doutor há muito tempo.}
 {149}{}{Doc se foi, Ratt triste.}
 {150}{}{Quem cuida de Ratt agora?}
-{151}{}{Ratt keep house nice until Doctor back.}
+{151}{}{Ratt deixa casa em ordem até volta do Doutor.}

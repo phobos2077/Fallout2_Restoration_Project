@@ -1,34 +1,34 @@
-{100}{}{You see a thin old woman who's seen better times.}
-{101}{}{You see the Widow Rooney.}
-{102}{}{You see a thin old woman with warts and a very furry upper lip.}
+{100}{}{Você vê uma velha magra que já teve tempos melhores.}
+{101}{}{Você vê a viúva Rooney.}
+{102}{}{Você vê uma velha magra com verrugas e um lábio superior muito peludo.}
 {103}{}{Fique longe de mim.}
-{104}{}{Haven't you done me enough harm to me for one lifetime?}
-{105}{}{Why don't you just kill me this time?}
-{106}{}{Get your kicks evicting old women, do you?}
-{107}{}{Come to look at the results of your handiwork?}
-{108}{}{Thanks for helping me to keep my home. I sure couldn't have done it without you. Now why don't
- you let Widow Rooney give you a great big kiss.}
-{109}{}{Are you back for another one of Widow Rooney's thank you kisses? I just can't get enough of
- thanking you.}
-{110}{}{Uh, well, if you must. I was curious about that well you have outside.}
-{111}{}{Uh, that's okay. I was happy to help out. Goodbye.}
-{112}{}{The well? Well, well... heh, heh. Nothing much to tell about it really. It's been dry for a good
- long time now. I could swear that I hear noises coming from it late at night, but my hearing ain't
- what it used to be.}
-{113}{}{Noises? What kind of noises?}
-{114}{}{Well, thanks for the information. Goodbye.}
-{115}{}{I'm probably just hearing things anyhow, but it seems sort of like a scratching or digging
- sound. Probably just dogs or something.}
-{116}{}{Hmm, maybe so. Well, thanks. Goodbye.}
-{117}{}{Hello there, young fella. What can old Widow Rooney do fer ya?}
-{118}{}{Hello there, young lady. What can old Widow Rooney do for ya?}
-{119}{}{Are you my mommy?}
-{120}{}{Well, I've got some bad news for you, Widow Rooney.}
-{121}{}{I was just looking around and wondered who lived here. Nice to meet you, Widow Rooney.}
-{123}{}{Oh, nothing, really. I was just looking around. Goodbye.}
-{124}{}{I'm not your dang mommy. I already have one brahmin to take care of and I sure as hellfire
- don't need another. Shoo now, get out.}
-{125}{}{Bye bye. Mommy.}
+{104}{}{Você não me fez mal o suficiente para resto da minha vida?}
+{105}{}{Por que você simplesmente não me mata de uma vez?}
+{106}{}{Se diverte expulsando mulheres idosas, não é?}
+{107}{}{Você veio para conferir o resultado do seu trabalho?}
+{108}{}{Obrigado por me ajudar a ficar em minha casa, com certeza não teria conseguido sem você. Agora,
+ por que você não me deixa te dar uma beijoca.}
+{109}{}{Você está de volta para outro das beijocas de agradecimento da viúva Rooney? Eu nunca me
+ canso de agradecer.}
+{110}{}{Uh, bem, se for necessário... Eu estava curioso sobre aquele poço que a senhora tem lá fora.}
+{111}{}{Tudo bem, fico feliz em ajudar. Adeus.}
+{112}{}{O poço? Bem, bem... eh, eh. Nada muito a dizer sobre isso, já tem um bom tempo que está
+ seco. Eu poderia até jurar que ouço barulhos vindo dele de madrugada, mas minha audição já não
+ é mais das melhores.}
+{113}{}{Barulhos? Que tipo de barulhos?}
+{114}{}{Bem, obrigado pela informação. Adeus.}
+{115}{}{Provavelmente estou apenas ouvindo coisas sem importância, mas parece um tipo de
+ arranhão ou som de escavação. Provavelmente só cachorros ou coisa parecida.}
+{116}{}{Hum, talvez sim. Bem, obrigado, adeus.}
+{117}{}{Olá, jovem. O que a viúva Rooney pode fazer para você?}
+{118}{}{Olá, senhorita. O que a viúva Rooney pode fazer para você?}
+{119}{}{Você é minha mamãe?}
+{120}{}{Bem, tenho más notícias para você, viúva Rooney.}
+{121}{}{Eu estava só olhando em volta e fiquei curioso para ver quem mora aqui. Prazer em te conhecer, viúva Rooney.}
+{123}{}{Oh, nada, realmente. Eu estava apenas olhando por aqui. Adeus.}
+{124}{}{Eu não sou sua maldita mamãe. Eu já tenho um brahmins suficiente para cuidar e com certeza
+ não preciso de outro. Shoo, sai daqui.}
+{125}{}{Adeus, mamãe.}
 {126}{}{I see. So, you're the one doing Ascorti's dirty work now. What are you going to do? Kill me?
  Kick me out into the cold?}
 {127}{}{I hope that eases what serves you for a conscience.}
