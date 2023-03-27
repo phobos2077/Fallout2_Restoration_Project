@@ -39,7 +39,7 @@
 {131}{}{Prazer em te conhecer, não costumo receber esse tipo de cortesia. A maioria tenta sempre
  ameaçar uma pobre idosa.}
 {132}{}{As pessoas estão te ameaçando? Por que?}
-{133}{}{Well, some people get their kicks in mysterious ways, I guess. Nice talking to you.}
+{133}{}{Bem, algumas pessoas se divertem de maneiras estranhas, eu acho. Prazer em falar com você.}
 {134}{}{Well, I owe Ascorti six months in back rent. $120 for this flea hostel. I just don't have it.
  Some of my brahmin took sick and died, and I couldn't pay. If I don't get him the money soon, he's
  gonna have the Sheriff evict me.}
