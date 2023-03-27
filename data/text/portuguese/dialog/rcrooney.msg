@@ -43,16 +43,16 @@
 {134}{}{Bem, devo ao Ascorti seis meses de aluguel atrasado. $ 20 por este depósito de pulgas.
  Eu não tenho nada. Alguns dos meus brahmins adoeceram e morreram, e eu não consegui pagar. Se
  eu não conseguir o dinheiro logo, ele vai pedir ao xerife para me despejar.}
-{135}{}{Well, actually... I'm supposed to be doing the Sheriff's job for him. I'm the one that's supposed
- to kick you out now.}
-{136}{}{Evict a harmless old crone like you? That's not nice. Who would do that?}
-{137}{}{I'd hate to see you kicked out. Why don't you let me pay your back rent for you? I have little
- use for money. I'm the Chosen One.}
-{138}{}{That's terrible. I'd love to help, but I don't have any liquid assets. Uh, I better be going
- now. Goodbye.}
-{139}{}{Threatening a frail old woman with Gross Bodily Harm? You and Ascorti are cut from the same
- cloth. All right. I'll leave, but I'll leave you a little extra something from my gypsy ancestors.
- (She makes a sign with her hands.) There; you have the evil eye on you now. I hope you like it.}
+{135}{}{Bem, na verdade... eu que estou fazendo o trabalho de xerife agora. Sou eu quem deveria te
+ expulsar agora.}
+{136}{}{Despejar uma idosa inofensiva como a senhora? Isso não esta certo. Quem faria isso?}
+{137}{}{Eu odiaria te ver sendo expulsa. Por que você não me deixa pagar o aluguel atrasado no seu
+ lugar? O dinheiro para mim tem pouca utilidade, eu sou o Escolhido.}
+{138}{}{Isso é terrível. Adoraria ajudar, mas não tenho dinheiro sobrando. É melhor eu ir agora,
+ adeus.}
+{139}{}{Ameaçar uma velha frágil de agressão? Você e Ascorti são farinha do mesmo saco. Tudo bem,
+ eu vou embora, mas vou deixar para vocês uma coisinha especial dos meus ancestrais ciganos.
+ (Ela faz um sinal com as mãos.) Pronto; você tem o mau-olhado agora. Espero que você goste.}
 {140}{}{Eu tenho alguns gestos que você vai gostar também. Aqui estão eles! [Você faz uns gestos aleatórios.]
  Agora saia!}
 {141}{}{Ciganos, eh? Bem, se você é algum tipo de bruxa, acho que devemos te queimar. Saia daqui.}
