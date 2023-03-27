@@ -29,16 +29,16 @@
 {124}{}{Eu não sou sua maldita mamãe. Eu já tenho um brahmins suficiente para cuidar e com certeza
  não preciso de outro. Shoo, sai daqui.}
 {125}{}{Adeus, mamãe.}
-{126}{}{I see. So, you're the one doing Ascorti's dirty work now. What are you going to do? Kill me?
- Kick me out into the cold?}
-{127}{}{I hope that eases what serves you for a conscience.}
-{128}{}{Ascorti? Who's that?}
-{129}{}{The outside air will be good for you. Move it, granny, if you know what's good for you.}
-{130}{}{I can't stand the idea of anybody kicking an old lady like you out. How much do you owe in
- back rent?}
-{131}{}{Nice to meet you, too. Not often I have polite callers. Mostly they just come in to threaten a
- frail old lady.}
-{132}{}{People are threatening you? Why?}
+{126}{}{Entendo. Então, é você quem está fazendo o trabalho sujo de Ascorti agora. O que você vai
+ fazer? Me matar? Me chutar para fora?}
+{127}{}{Espero que isso facilite para você ficar com a consciência tranquila.}
+{128}{}{Ascorti? Quem é esse?}
+{129}{}{Um ar fresco fará bem para você. Vaza, vovó, se sabe o que é bom para você.}
+{130}{}{Não suporto a ideia de alguém expulsar uma velha como a senhora.. Quanto está devendo
+ de aluguel atrasado?}
+{131}{}{Prazer em te conhecer, não costumo receber esse tipo de cortesia. A maioria tenta sempre
+ ameaçar uma pobre idosa.}
+{132}{}{As pessoas estão te ameaçando? Por que?}
 {133}{}{Well, some people get their kicks in mysterious ways, I guess. Nice talking to you.}
 {134}{}{Well, I owe Ascorti six months in back rent. $120 for this flea hostel. I just don't have it.
  Some of my brahmin took sick and died, and I couldn't pay. If I don't get him the money soon, he's
