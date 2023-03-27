@@ -40,9 +40,9 @@
  ameaçar uma pobre idosa.}
 {132}{}{As pessoas estão te ameaçando? Por que?}
 {133}{}{Bem, algumas pessoas se divertem de maneiras estranhas, eu acho. Prazer em falar com você.}
-{134}{}{Well, I owe Ascorti six months in back rent. $120 for this flea hostel. I just don't have it.
- Some of my brahmin took sick and died, and I couldn't pay. If I don't get him the money soon, he's
- gonna have the Sheriff evict me.}
+{134}{}{Bem, devo ao Ascorti seis meses de aluguel atrasado. $ 20 por este depósito de pulgas.
+ Eu não tenho nada. Alguns dos meus brahmins adoeceram e morreram, e eu não consegui pagar. Se
+ eu não conseguir o dinheiro logo, ele vai pedir ao xerife para me despejar.}
 {135}{}{Well, actually... I'm supposed to be doing the Sheriff's job for him. I'm the one that's supposed
  to kick you out now.}
 {136}{}{Evict a harmless old crone like you? That's not nice. Who would do that?}
