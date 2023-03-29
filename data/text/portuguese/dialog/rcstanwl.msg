@@ -11,8 +11,8 @@
  Nova Califórnia. Brahmin por ouro. Geralmente posso usar uma ajuda extra. Deixamos a cidade no dia 11
  de cada mês, se você quiser ir, certifique-se de estar aqui.}
 {109}{}{Algo mais?}
-{110}{}{Moo-moos?}
-{111}{}{You need a guard, huh?}
+{110}{}{Muu-muus?}
+{111}{}{Precisa de um guarda, é?}
 {112}{}{What does this caravan transport?}
 {113}{}{Por que você está esperando até o dia 11?}
 {114}{}{Não acho que isso seja pra mim. Tchau.}
@@ -61,11 +61,11 @@
  jeito que eu gosto das coisas.}
 {149}{}{Entendido. Você disse que está procurando por guardas?}
 {150}{}{Deixe-me perguntar-lhe algo mais.}
-{151}{}{Oh, okay. Goodbye.}
+{151}{}{Oh, ok. Adeus.}
 {152}{}{You came along at a good time. We're ready to go right now. The job pays $2000, but I'm only
  paying you for the job since I only need one more guard. Ready to join us?}
 {153}{}{You came along at a good time. We're ready to go right now. The job pays $2000. Ready to join us?}
-{154}{}{Sounds great. I'm ready. Let's go.}
+{154}{}{Parece bom, estou pronto. Vamos.}
 {155}{}{I can come up with better ways to spend my time than eating brahmin dust all day. Goodbye.}
 {156}{}{Well, you got free eats and a safe trip here. Now get out of here, you moron.}
 {157}{}{Gerg? Bye bye.}

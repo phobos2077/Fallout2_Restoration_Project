@@ -57,18 +57,18 @@
  Agora saia!}
 {141}{}{Ciganos, eh? Bem, se você é algum tipo de bruxa, acho que devemos te queimar. Saia daqui.}
 {142}{}{Apenas fazendo meu trabalho, senhorita. Você não quer que eu tenha que ser duro com você. Agora saia. Por favor?}
-{143}{}{Ascorti... Ascorti's nobody but the greediest, most conniving, slipperiest, low-down,
- weasel-crawling, gutless, slimeball in this here town. He's the Mayor as well as my landlord.}
-{144}{}{Oh, *that* Ascorti. Well, why didn't you say so?}
-{145}{}{I'd hate to take money from someone touched in the head. Uh, Mr. Chosen One.}
-{146}{}{I'd hate to take money from someone touched in the head. Uh, Miss Chosen One.}
+{143}{}{Ascorti... Ascorti é só mais um ganancioso, inconveniente, sujo, baixo, verme
+ rastejante, covarde e canalha nessa cidade. Ele é o prefeito, assim como meu senhorio.}
+{144}{}{Oh, *esse* Ascorti. Bem, por que você não disse logo?}
+{145}{}{Eu odiaria aceitar dinheiro de alguém com a cabeça quebrada. Uh, Sr. Escolhido.}
+{146}{}{Eu odiaria aceitar dinheiro de alguém com a cabeça quebrada. Uh, Sra. Escolhida.}
 {147}{}{Não é nada. Fico feliz em fazer. Aqui estão os $120 que você precisa.}
 {148}{}{Veja, eu me sinto meio tonto depois daquela última luta. Talvez eu devesse pensar um pouco
  mais sobre isso. Até.}
-{149}{}{Thank you so much. You ARE the Chosen One! Thank you. I just can't wait to see the look on that
- Ascorti's puss when I give him the money.}
+{149}{}{Muito obrigado. Você é o escolhido! Obrigado. Mal posso esperar para ver a cara desse Ascorti quando
+ eu pagar todo o dinheiro.}
 {150}{}{Fiquei feliz em te ajudar. Adeus.}
-{151}{}{Material things mean little to me. I'm glad I was able to use the money for good.}
-{152}{}{Looks like your heart is bigger than your means. Well, I thank you for the thought, anyhow.}
+{151}{}{As coisas materiais significam pouco para mim. Estou feliz por poder usar o dinheiro para o bem.}
+{152}{}{Parece que seu coração é maior que seus recursos. Bem, de qualquer maneira, agradeço a você pelos bons modos.}
 {153}{}{Tentarei voltar mais tarde com mais dinheiro. Adeus.}
 {154}{}{Eu sinto muito, gostaria de poder ajudar. Boa sorte.}

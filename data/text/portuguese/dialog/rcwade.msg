@@ -11,8 +11,8 @@
  City. Normalmente, posso usar uma ou duas guardas extras. Saímos da cidade no dia 1º de cada mês.
  Se você quiser participar, certifique-se de estar aqui.}
 {109}{}{O que você quer agora?}
-{110}{}{Moo-moos?}
-{111}{}{You need a guard, huh?}
+{110}{}{Muu-muus?}
+{111}{}{Precisa de um guarda, é?}
 {112}{}{What does this caravan transport?}
 {113}{}{Por que você está esperando até o dia 1°?}
 {114}{}{Não acho que isso seja pra mim. Tchau.}
@@ -45,7 +45,7 @@
  sou mineiro, mas acho que não vai demorar mais do que algumas semanas.}
 {138}{}{Well, because I'm not exactly sure how long it will take to get all the medical supplies together. Probably not much
  longer than a couple of weeks. Then we can go. Just keep checking back with me.}
-{139}{}{What do you usually transport?}
+{139}{}{O que você costuma transportar?}
 {140}{}{Deixe-me perguntar-lhe algo mais.}
 {141}{}{Obrigado, vou fazer isso. Adeus.}
 {142}{}{We're usually looking for caravan guards, but this caravan won't be ready for a while yet. Feel
@@ -57,14 +57,14 @@
 {147}{}{Ah, tudo bem.}
 {148}{}{Well, we pick up mostly medical supplies in Vault City, and trade it to Redding in exchange for
  gold ore.}
-{149}{}{That's interesting. You said you're looking for guards?}
+{149}{}{Interessante. Você disse que está procurando por guardas?}
 {150}{}{Deixe-me perguntar-lhe algo mais.}
-{151}{}{Oh, okay. Goodbye.}
+{151}{}{Oh, ok. Adeus.}
 {152}{}{You came along at a good time. We're ready to go right now. The job pays $1000, but I'm only
  paying you for the job since I only need one more guard. Ready to join us?}
 {153}{}{You came along at a good time. We're ready to go right now. The job pays $1000. Ready to join us?}
-{154}{}{Sounds great. I'm ready. Let's go.}
-{155}{}{I don't think I want to be a caravan guard. I'll see you around. Goodbye.}
+{154}{}{Parece bom, estou pronto. Vamos.}
+{155}{}{Não estou a fim de ser guarda de caravana. Te vejo por aí, adeus.}
 {156}{}{You got safe transport and three hot meals a day. Now get out of here, you moron.}
 {157}{}{Oooo? Bye bye.}
 {158}{}{Arrrrrr! Me kill!}
