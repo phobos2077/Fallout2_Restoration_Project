@@ -1,41 +1,41 @@
-{100}{}{You see a tribal woman.}
-{101}{}{You see Kurisu, Sulik's sister.}
-{102}{}{You see a young, full figured tribal woman with several piercings and tattoos.}
+{100}{}{Você vê uma mulher tribal.}
+{101}{}{Você vê Kurisu, a irmã de Sulik.}
+{102}{}{Você vê uma mulher tribal jovem e com vários piercings e tatuagens cobrindo seu corpo.}
 {150}{}{[FIM]}
-{200}{}{Sulik! [She catches herself and begins to whisper.] Do the spirits be teasing, or is that really you, brother?}
-{201}{}{Me? No, I'm the Chosen One. You must be thinking of old bone nose here.}
-{202}{}{[Sulik rushes to the gate door and clasps the outstretched hands of his sister. You turn away to give some privacy to their emotional reunion. Moments later, a twig snaps outside the building. Sulik lets go of his sister and reaches for his weapon as he glances at the door. No more sounds come from outside.]}
+{200}{}{Sulik! [Ela se segura e começa a sussurrar.] Os espíritos estão brincando, ou é mesmo você, irmão?}
+{201}{}{Meu? Não, eu sou o Escolhido. Você deve estar pensando no velho nariz de osso aqui.}
+{202}{}{[Sulik corre para a porta do portão e aperta as mãos estendidas de sua irmã. Você se afasta para dar um pouco de privacidade ao reencontro emocional deles. Momentos depois, um galho estala do lado de fora do prédio. Sulik solta sua irmã e pega sua arma enquanto olha para a porta. Nenhum outro som vem de fora.]}
 {203}{}{[MAIS]}
-{204}{}{[Sulik's sister turns to you.] Bonespirits say you be leading Sulik. Name's Kurisu, but now not the time for proper greetin'. Please, you needin' to get us out of cage and away from de wicked men ruled by spirits of lust. [She sneers and spits in the dirt.] Filthy dogs will not be laying hands on us again. [Upon hearing this, Sulik's eyes widen as his face contorts with rage. He reaches for his weapon.]}
-{205}{}{Hold on there, Sulik, we're outnumbered here. Let me see if I can lockpick this door and we can sneak our way
- out of here.}
+{204}{}{[A irmã de Sulik se vira para você.] Espiritos dos Ossos dizem que você está liderando Sulik. O nome é Kurisu, mas agora não é hora para cumprimentos apropriados. Por favor, você precisa nos tirar da jaula e longe dos homens perversos governados por espíritos de luxúria. [Ela zomba e cospe na terra.] Cães imundos não colocarão as mãos em nós novamente. [Ao ouvir isso, os olhos de Sulik se arregalam enquanto seu rosto se contorce de raiva. Ele pega sua arma.]}
+{205}{}{Espere aí, Sulik, estamos em menor número aqui. Vamos ver se consigo trancar esta porta e podemos escapar
+ daqui.}
 {206}{}{Hold on there, Sulik, we're outnumbered here. I got the key to this door. Let's keep it quiet and we'll sneak our
  way out of here.}
 {207}{}{[You nod at Sulik] These bastards will pay. Lock and load ol' buddy.}
 {208}{}{[A few minutes pass by and you finally hear a click from the lock. The door swings open.]}
 {209}{}{[You turn to Kurisu.] Alright, stay close and keep your head down. [To the other slaves.] Keep quiet and head for the woods.}
-{210}{}{[A few minutes pass by and you are unsuccessful at unlocking the door.]}
-{211}{}{There must be another way to unlock this door. Let me see if I can get a key somehow. Wait here, I'll be back for you.}
-{212}{}{Alright Sulik, it's time for your plan. Time to take out the trash.}
-{213}{}{[You put the key in the lock and unlock the gate, it screeches as it opens.]}
-{214}{}{Any luck, fren? Please hurry.}
+{210}{}{[Alguns minutos se passam e você não consegue destrancar a porta.]}
+{211}{}{Deve haver outra maneira de destrancar esta porta. Vamos ver se consigo algum tipo de chave. Espere aqui, eu voltarei.}
+{212}{}{Tudo bem, Sulik, é hora do seu plano. Hora de varrer o lixo.}
+{213}{}{[Você coloca a chave na fechadura e destranca a porta, ela range ao abrir.]}
+{214}{}{Alguma sorte, amigo? Mais depressa, por favor.}
 {215}{}{Ainda não. Ainda estou trabalhando nisso.}
-{216}{}{I got the keys. Time to get you out of here.}
+{216}{}{Eu tenho as chaves. Hora de tirar você daqui.}
 {217}{}{Why there be so much commotion out there? Ah, I sense many have gone to join the spirits. Who be... Sulik? Do the spirits be teasing, or is that really you, brother?}
 {218}{}{Why there be so much commotion out there? Ah, I sense many have gone to join the spirits. And I sense you be the one sending em. What you be needin', Ghost-maker?}
 {219}{}{Eu vim para te resgatar.}
-{221}{}{Praise the spirits! Please, you needin' to get us out of cage. Away from this evil place.}
-{222}{}{Spirits praise you! Now I must go and return to my people. Long have I been missed. Please, stop by my village. It be near the Great Salt Water, a few days south west of here. Thank you, fren.}
-{223}{}{[Sulik rushes to the gate door and clasps the outstretched hands of his sister. You turn away to give some privacy to their emotional reunion. Moments later, his sister turns to you.] Bonespirits say you be leading Sulik. Name's Kurisu, but now not the time for proper greetin'. The Slavers, they be dead, yes?}
-{224}{}{Yes, the slavers are dead.}
+{221}{}{Louvado seja os espíritos! Por favor, você precisa nos tirar da jaula. Longe deste lugar maligno.}
+{222}{}{Louvamos aos espíritos! Agora devo ir e voltar ao meu povo, há muito tempo que sinto falta. Por favor, passe na minha aldeia. Fica perto da Grande Água Salgada, alguns dias a sudoeste daqui. Obrigado, amigo.}
+{223}{}{[Sulik corre para próximo do portão e aperta as mãos estendidas de sua irmã. Você se afasta para dar um pouco de privacidade ao reencontro emocional deles. Momentos depois, a irmã dele se vira para você.] Espíritos dos Ossos dizem que você está liderando Sulik. O nome é Kurisu, mas agora não é hora para cumprimentos apropriados. Os escravistas estão mortos, sim?}
+{224}{}{Sim, os escravistas estão mortos.}
 {225}{}{Praise the spirits! Please, unlock this door. We eager to go from this evil place.}
 {226}{}{Don't worry. I got a key.}
 {227}{}{Alright, let me try and lockpick this door.}
 {400}{}{Let's keep moving.}
-{401}{}{Please, I wantin' to be home.}
+{401}{}{Por favor, eu quero estar em casa.}
 {410}{}{[You turn to Kurisu.] Wait, I don't want to leave here until I free the slaves in the other holding pens. You wait
  here until I free everyone from this camp. [To the other slaves.] Keep quiet and head for the woods. I'll handle the guards.}
-{500}{}{If you be choosin' me for a lay, you best expect a fight -- wait, you don't be having the demon mark on your head. Who you be?}
+{500}{}{Se você está me escolhendo para um leigo, é melhor esperar por uma luta - espere, a menos que o demônio esteja marcado em sua cabeça. Quem é você?}
 {501}{}{Eu sou o "Escolhido" e quem é você?}
 {502}{}{Meu nome é }
 {503}{}{. Quem é você?}
