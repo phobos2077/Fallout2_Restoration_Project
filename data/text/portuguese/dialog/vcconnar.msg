@@ -76,7 +76,7 @@
 {165}{}{Obrigado do fundo do meu coração... em... A propósito, ainda não sei o seu nome.}
 {166}{}{Meu nome é - }
 {167}{}{Obrigado, }
-{168}{}{, but what about the money I gave you to buy the guns?}
+{168}{}{, mas e o dinheiro que te dei para comprar as armas?}
 {169}{}{Você é sempre bem vindo aqui! Adeus.}
 {170}{}{Sim, mas acho que não vai precisar deles. Pelo menos não contra Vault City. Veja, convenci o conselho de Vault City a não tocar em sua vila.}
 {171}{}{Vou fazer isso. Eu tenho algumas perguntas antes de ir embora.}
