@@ -54,7 +54,7 @@
  database, they'd lose all that work. I think something like that might shock them back to their senses and we might finally
  give up this stupid way of life. So, what do you say?}
 {271}{}{I say that's a terrible idea and that I'm done talking to you.}
-{272}{}{Erase hundreds of years of someone else's hard work? Sounds fun. I'll do it.}
+{272}{}{Radera hundratals år av någon annans hårda arbete? Låter kul. Jag gör det.}
 {273}{}{Why don't you format it yourself?}
 {274}{}{If you hate it here, why don't you just leave?}
 {280}{}{Are you kidding me? They'd crucify me if I did that. You however, you're an experienced adventurer. Hell, I bet

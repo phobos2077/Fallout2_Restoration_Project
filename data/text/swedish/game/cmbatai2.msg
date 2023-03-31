@@ -112,7 +112,7 @@
 {1333}{}{I like the pain!}
 {1334}{}{I love the sound of cracking ribs!}
 {1335}{}{That ain't nothing!}
-{1336}{}{Arg!}
+{1336}{}{Argh!}
 {1360}{}{I love the sound of bones crunching.}
 {1361}{}{}
 {1362}{}{You broke my leg, but I'll break your neck!}
