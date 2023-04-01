@@ -44,7 +44,7 @@
 {133}{}{No credit.}
 {134}{}{Go away, I'm busy.}
 {135}{}{Not a smart move.}
-{136}{}{Bastard!}
+{136}{}{Din jävel!}
 {137}{}{Is this supposed to get me to lower my prices?}
 {138}{}{All right, I'll lower the prices.}
 {139}{}{How about a 20% discount?}

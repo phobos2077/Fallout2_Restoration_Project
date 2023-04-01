@@ -128,7 +128,7 @@
 {542}{}{Did you hear Metzger died? I don't know what to do now.}
 {543}{}{What's going to happen to the Den now? Maybe something better.}
 {544}{}{This could actually be for the better.}
-{550}{}{Bastard!}
+{550}{}{Din jävel!}
 {551}{}{Subba!}
 {560}{}{Thanks. Here's your money and $100 extra.}
 {570}{}{Did you kill Tyler and his guards? How are we supposed to prove ourselves to Metzger? He'll never hire us now. That was our only chance.}
