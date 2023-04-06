@@ -13,8 +13,8 @@
 {213}{}{If you don't believe, then how do you tend to the spiritual needs of the village?}
 {220}{}{Oh, I don't blame you. In fact, I disgust myself quite thoroughly. I don't know why I thought you might help me. I certainly don't deserve to be helped. I got myself into this situation, so it's up to me to get myself out of it. Now if you'll excuse me...}
 {221}{}{Hold on there, Captain Pity. Why don't you tell me how exactly you thought I could help you?}
-{222}{}{No. I'm not going to excuse you--I'm going to eliminate you and purge the world of your pathetic existence!}
-{230}{}{Well, up until just recently I was merely the underling of the village shaman. That was easy, I just had to follow his lead. Then he went for a drunken midnight swim in the Great Salt Water and, well, I suddenly found myself promoted. I didn't think it would be so bad. I figured I could just spout off some mystical mumbo-jumbo and everyone would be happy. But no. The very day that I acquire the title of shaman I find myself dealing with something that's way over my head.}
+{222}{}{Não, não vou desculpá-lo, vou eliminá-lo e purgar o mundo de sua existência patética!}
+{230}{}{Bem, até recentemente eu era apenas o subalterno do xamã da aldeia. Isso foi fácil, eu apenas tive que seguir sua liderança. Então ele foi dar um mergulho bêbado à meia-noite na Grande Água Salgada e, bem, de repente fui promovido. Não pensei que seria tão ruim. Imaginei que poderia apenas falar alguma besteira mística e todo mundo ficaria feliz. Mas não, no mesmo dia em que adquiro o título de xamã, me vejo lidando com algo que está muito além da minha cabeça.}
 {231}{}{O que aconteceu?}
 {240}{}{There's an *actual* lost spirit roaming the woods just south of the village! It's true, I've seen her with my own eyes--a pretty girl with the blank look of the dead. The sight chilled me to the very core. The moment I saw her I pissed myself and ran as fast as I could. The others expect me to go back and guide her into the mists, but how can I? I'm too petrified to go near her again.}
 {241}{}{So what could I do to help?}

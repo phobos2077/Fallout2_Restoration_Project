@@ -48,33 +48,33 @@
 {147}{}{Bem, você deve saber que algumas pessoas os veem como um problema em potencial. Seria extremamente útil se tivéssemos um mapa de seus esconderijos ao norte, New Reno, Klamath, onde quer que seja. Eu estaria disposto a pagar, digamos, $500 por algo desse tipo. Você acha que poderia conseguir isso para mim?}
 {148}{}{Com certeza.}
 {149}{}{Acho que não.}
-{150}{}{Let me tell you, then. These Rangers have got it in their heads to wipe out slavery and slavers - by force. They've been creating a lot of trouble for hard working folks.}
-{151}{}{They work in secret, especially up north.}
-{152}{}{Jeez, I got to spell this out for you? They raid slavers, drive off the stock, and smuggle 'em down south to NCR lands where slavery's illegal. So you interested?}
-{153}{}{There is no "and"! You want the job or not?}
+{150}{}{Então deixe-me te dizer: Esses Rangers têm a vontade de acabar com a escravidão e os escravistas, tudo usando a força. Eles têm criado muitos problemas para as pessoas que trabalham duro.}
+{151}{}{Eles trabalham em segredo, especialmente no norte.}
+{152}{}{Caramba, eu tenho que soletrar isso para você? Eles atacam escravistas, liberam o estoque e os dirigem ao sul, para as terras da NCR, onde a escravidão é ilegal. Te interessa então?}
+{153}{}{Não existe "e"! Você quer o emprego ou não?}
 {154}{}{E?}
-{155}{}{So what you want me to do?}
-{156}{}{Fine. When you get me a map, I'll be here.}
-{157}{}{Where am I going to find a map?}
-{158}{}{Okay, I got some other questions, though.}
-{159}{}{I'm on it. I'll see you then.}
-{160}{}{How the hell should I know!? If I knew, I'd have it, wouldn't I? Look, there's supposed to be a cell in town. Find them and see what you can do.}
-{161}{}{Just a few more questions.}
-{162}{}{Alright. I'll be back.}
-{163}{}{You're back again. Did you get that map?}
+{155}{}{Então, o que você quer que eu faça?}
+{156}{}{Certo. Quando eu conseguir um mapa, virei aqui.}
+{157}{}{Onde vou encontrar um mapa?}
+{158}{}{Ok, mas eu tenho algumas outras perguntas.}
+{159}{}{Eu estou trabalhando nisso. Vejo você por ai.}
+{160}{}{E como eu deveria saber!? Se eu soubesse já teria um, não é? Olha, deve ter uma cela na cidade. Encontre e veja o que você pode fazer.}
+{161}{}{Só mais algumas perguntas.}
+{162}{}{Tudo bem. Eu voltarei.}
+{163}{}{Já voltou. Você conseguiu esse mapa?}
 {164}{}{Sim.}
 {165}{}{Não.}
-{166}{}{I'm still waiting for you to finish the first job!}
-{167}{}{Oh yeah, I forgot.}
-{168}{}{Not since you did your job. Thanks.}
-{169}{}{Just a question or two.}
+{166}{}{Ainda estou esperando você terminar o primeiro trabalho!}
+{167}{}{Ah sim, esqueci.}
+{168}{}{Não desde que você fez o seu trabalho. Obrigado.}
+{169}{}{Só uma ou outra pergunta.}
 {170}{}{Não há problema. Tchau.}
-{171}{}{Good work. Now you best make yourself scarce, in case those Rangers ever wise up.}
+{171}{}{Bom trabalho. Agora é melhor você sumir, para o caso daqueles Rangers descobrirem.}
 {172}{}{Prazer fazer negócios.}
-{173}{}{Well don't hang around here, you moron! Somebody'll get suspicious.}
-{174}{}{All right, I get the hint.}
-{175}{}{What the fuck? Guards! We got an intruder!}
-{176}{}{Go in there and I'll blow your head off. Understand?}
+{173}{}{Bem, não fique por aqui, seu idiota! Alguém vai desconfiar.}
+{174}{}{Tudo bem, entendi a dica.}
+{175}{}{Mas que merda! Guardas! Temos um intruso!}
+{176}{}{Entre lá e eu vou explodir sua cabeça. Entendeu?}
 {177}{}{Já é tarde e estamos fechados. Volte pela manhã.}
 {200}{}{Bom trabalho. Só mais uma coisa, você é um escravista, certo? Que tal você dar uma mão e limpar esses esconderijos para mim. Eu
  poderia pagar pelo trabalho... digamos, $1.000.}
