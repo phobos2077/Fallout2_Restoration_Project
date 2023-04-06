@@ -1,10 +1,10 @@
 {100}{}{Você vê algum tipo de balconista de aparência oleosa.}
-{101}{}{You see Velani, the Mordino merchant.}
-{102}{}{You see a suave looking, well-manicured man.}
-{103}{}{You're pathetic. If I had more muscle with me, you wouldn't live to abandon another caravan. Now
- get out of here.}
-{104}{}{You made a big mistake to steal from the Mordino family. You'll pay for that - with interest.
- For now, just get out of my sight.}
+{101}{}{Você vê Velani, o comerciante de Mordino.}
+{102}{}{Você vê um homem de aparência suave e bem cuidada.}
+{103}{}{Você é patético. Se eu fosse mais forte, você não viveria para abandonar outra caravana. Agora saia
+ daqui.}
+{104}{}{Você cometeu um grande erro ao roubar da família Mordino. Você pagará por isso, e com
+ juros. Por enquanto, apenas saia da minha frente.}
 {105}{}{Um ladrão? É isso que eu pareço? Maldito ingrato. Vou ir embora, adeus.}
 {106}{}{Algum dia em breve, você vai se arrepender de ter cruzado comigo. Adeus.}
 {107}{}{That caravan was a disgrace. I'm glad Savinelli didn't survive. I can't believe that you think

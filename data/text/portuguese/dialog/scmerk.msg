@@ -71,43 +71,43 @@
 {170}{}{No, I can't do that to a friend.}
 {171}{}{Looks like we can do business, friend. Here's the deal - there's a loopy scientist in town - Dr. Henry. He's got some papers I'd like. I'll pay $1000 for them. Oh, and I don't want no harm to come to Dr Henry. He's useful alive. Interested? }
 {172}{}{Eu estou trabalhando nisso.}
-{173}{}{Nope, not my style.}
-{174}{}{Knowledge costs you. Am I clear?}
-{175}{}{"The price of wisdom is above rubies."}
-{176}{}{Here's $50.}
+{173}{}{Não, não faz o meu estilo.}
+{174}{}{Conhecimento custa dinheiro. Fui claro?}
+{175}{}{"O preço da sabedoria é superior ao dos rubis."}
+{176}{}{Tenho aqui $50.}
 {177}{}{Esqueça.}
-{178}{}{Oh, you're that person.}
+{178}{}{Ah, você é essa pessoa.}
 {179}{}{Continuar}
-{180}{}{Well, as far as I'm concerned, here you're just a pile of dung.}
-{181}{}{I had you figured for a wuss.}
-{182}{}{Okay. No problem. I don't want no trouble. I'll tell you what, I'll even have my boys put the stuff right back where they found it.}
-{183}{}{It better be, or I'll be back.}
-{184}{}{Don't give me this bs!}
-{185}{}{Such a person just might be able to.}
-{186}{}{Now, I suggest you leave.}
-{187}{}{By all means, call in the officers. Of course, I assume you have evidence to back up your wild accusation.}
+{180}{}{Bem, no que me diz respeito, você é apenas um monte de esterco.}
+{181}{}{Eu imaginei que você fosse um covarde.}
+{182}{}{OK, sem problemas. Eu não quero nenhum problema. Vou te falar uma coisa, vou até mandar meus homens colocarem as coisas de volta onde as encontraram.}
+{183}{}{É melhor assim, ou eu voltarei.}
+{184}{}{Não me venha com essas histórias!}
+{185}{}{Tal pessoa pode ser capaz de fazer.}
+{186}{}{Agora, sugiro que saia.}
+{187}{}{Por favor, chame os oficiais. Claro, suponho que você tenha evidências para apoiar essa acusação absurda.}
 {188}{}{Sim, com certeza.}
 {189}{}{Não importa.}
-{190}{}{Such as there's a damn Hubologist in town who has irritated me. Once this itch is scratched, come back and talk to me.}
-{191}{}{Consider it done. I got just the backscratcher for him but... what's a Hubologist and where do I find him?}
-{192}{}{How dare you speak against the true belief!}
-{193}{}{Sorry, I don't get involved in religious wars.}
-{194}{}{Well, I am a learned man. What's your question?}
+{190}{}{Como se houvesse um maldito Hubologista na cidade que me irritou. Assim que coçarem isso de novo, volte e fale comigo.}
+{191}{}{Considere feito, eu tenho o coçador certo para ele, mas... o que é um Hubologista e onde posso encontrar um?}
+{192}{}{Como você ousa falar contra a crença verdadeira!}
+{193}{}{Desculpe, não me envolvo em guerras religiosas.}
+{194}{}{Bem, eu sou um homem instruído. Qual é a sua pergunta?}
 {195}{}{Pergunte a distância.}
 {196}{}{Estou procurando a Vault 13.}
 {197}{}{Já ouviu falar de um GECK?}
-{198}{}{What do you know about some outfit called the Rangers?}
-{199}{}{What can you tell me about some guy named Westin?}
-{200}{}{I'm looking for info on Vice-President Carlson.}
+{198}{}{O que você sabe sobre um grupo chamado Rangers?}
+{199}{}{O que você pode me dizer sobre um cara chamado Westin?}
+{200}{}{Procuro informações sobre o vice-presidente Carlson.}
 {201}{}{É isso.}
-{202}{}{Your payment gets you one question. Another costs you another $50.}
-{203}{}{Okay, here.}
-{204}{}{I've got all the facts I need.}
-{205}{}{Just so happens, I've got a map to Vault 13. It's only 1000 bucks. You interested?}
-{206}{}{Sure. I'll take it.}
-{207}{}{And I'll bet you've got a bridge to sell, too.}
+{202}{}{Seu pagamento permite uma pergunta. Outra te custará mais $50.}
+{203}{}{Ok, aqui.}
+{204}{}{Tenho todos os dados de que preciso.}
+{205}{}{Acontece que eu tenho um mapa para o Vault 13, custa apenas 1.000 dólares. Está interessado?}
+{206}{}{Claro. Eu vou levar.}
+{207}{}{E aposto que você também vende gelo pra esquimó.}
 {208}{}{Talvez mais tarde.}
-{209}{}{Is it some kind of drug out of New Reno? I've never heard of it.}
+{209}{}{É algum tipo de droga de New Reno? Eu nunca ouvi sobre isso.}
 {210}{}{Nope. I've got some more questions, though.}
 {211}{}{That's all I needed to know.}
 {212}{}{Those bastards? Best stay out of my place or I'll put a hole in them.}

@@ -35,17 +35,17 @@
 {134}{}{Well, thanks for nothing.}
 {135}{}{New California Republic - nothing but temperance types and merchants. Got a bug about slavers and slavery, but what the hell, it makes my business.}
 {136}{}{Another question...}
-{137}{}{Thanks, got to go.}
-{138}{}{Somebody steered you wrong. I don't have no trouble with nobody - especially not no Rangers. I'm all legal, so there ain't nothing on me.}
+{137}{}{Obrigado, tenho que ir.}
+{138}{}{Alguém te guiou errado. Não tenho problemas com ninguém, especialmente com nenhum Ranger. Eu tenho todos os requisitos legais, eles não têm nada contra mim.}
 {139}{}{Another question...}
-{140}{}{Whatever you say. I'll be going.}
-{141}{}{Yeah, I may have some feelings about the Rangers. You looking for work?}
+{140}{}{Diga o que quiser. Vou embora.}
+{141}{}{Sim, posso ter algumas opiniões sobre os Rangers. Você está procurando trabalho?}
 {142}{}{Sim.}
 {143}{}{Não.}
-{144}{}{No, you may not go nosing around, shit-for-brains! This ain't a museum!}
+{144}{}{Não, você não pode ficar bisbilhotando, idiota! Isso não é um museu!}
 {145}{}{Another question...}
-{146}{}{You're too touchy for me. I'm leaving.}
-{147}{}{Well then, you should know some folks see them as a potential problem. It would be extremely useful if we had a map of their safe houses through the north - New Reno, Klamath, wherever. I'd be willing to pay, oh say, $500 for something like that. You think you could get that for me?}
+{146}{}{Você é muito sensível para o meu gosto. Vou embora.}
+{147}{}{Bem, você deve saber que algumas pessoas os veem como um problema em potencial. Seria extremamente útil se tivéssemos um mapa de seus esconderijos ao norte, New Reno, Klamath, onde quer que seja. Eu estaria disposto a pagar, digamos, $500 por algo desse tipo. Você acha que poderia conseguir isso para mim?}
 {148}{}{Com certeza.}
 {149}{}{Acho que não.}
 {150}{}{Let me tell you, then. These Rangers have got it in their heads to wipe out slavery and slavers - by force. They've been creating a lot of trouble for hard working folks.}
