@@ -1,11 +1,11 @@
-{100}{}{You see an oily-looking salesman of some type.}
+{100}{}{Você vê algum tipo de balconista de aparência oleosa.}
 {101}{}{You see Velani, the Mordino merchant.}
 {102}{}{You see a suave looking, well-manicured man.}
 {103}{}{You're pathetic. If I had more muscle with me, you wouldn't live to abandon another caravan. Now
  get out of here.}
 {104}{}{You made a big mistake to steal from the Mordino family. You'll pay for that - with interest.
  For now, just get out of my sight.}
-{105}{}{A thief? I resemble that remark, you damn ingrate. I'm leaving. Goodbye.}
+{105}{}{Um ladrão? É isso que eu pareço? Maldito ingrato. Vou ir embora, adeus.}
 {106}{}{Algum dia em breve, você vai se arrepender de ter cruzado comigo. Adeus.}
 {107}{}{That caravan was a disgrace. I'm glad Savinelli didn't survive. I can't believe that you think
  you'd get paid for that failure. Get out of here.}

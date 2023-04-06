@@ -13,7 +13,7 @@
 {109}{}{Algo mais?}
 {110}{}{Muu-muus?}
 {111}{}{Precisa de um guarda, é?}
-{112}{}{What does this caravan transport?}
+{112}{}{O que esta caravana transporta?}
 {113}{}{Por que você está esperando até o dia 11?}
 {114}{}{Não acho que isso seja pra mim. Tchau.}
 {115}{}{Droga. Eu odeio quando isso acontece.}
@@ -26,7 +26,7 @@
 {121}{}{Fora daqui. Você já deve saber.}
 {122}{}{Você acha que eu recompensaria um ladrão? Você tem sorte de ele não ter te linchado
  durante a viagem, é óbvio que não vou pagar nada. Agora sai daqui.}
-{123}{}{A thief? I resemble that remark, you damn ingrate. I'm leaving. Goodbye.}
+{123}{}{Um ladrão? É isso que eu pareço? Maldito ingrato. Vou ir embora, adeus.}
 {124}{}{Algum dia em breve, você vai se arrepender de ter cruzado comigo. Adeus.}
 {125}{}{Ficamos tão fodidos lá que não tenho dinheiro suficiente para pagar você. Claro, se você tivesse
  feito melhor o seu trabalho, as coisas seriam diferentes.}
@@ -53,7 +53,7 @@
 {142}{}{Normalmente procuramos guardas de caravanas mas, como disse, só estaremos prontos para
  partir no dia 11 do mês. Se você ainda quer um emprego aqui, volte no dia certo.}
 {143}{}{Quando no dia 11?}
-{144}{}{What does this caravan transport?}
+{144}{}{O que esta caravana transporta?}
 {145}{}{Ok, obrigado. Adeus.}
 {146}{}{Desculpe, amigo, já tivemos muitas experiências ruins trabalhando nesta caravana.}
 {147}{}{Ah, tudo bem.}
@@ -62,11 +62,11 @@
 {149}{}{Entendido. Você disse que está procurando por guardas?}
 {150}{}{Deixe-me perguntar-lhe algo mais.}
 {151}{}{Oh, ok. Adeus.}
-{152}{}{You came along at a good time. We're ready to go right now. The job pays $2000, but I'm only
- paying you for the job since I only need one more guard. Ready to join us?}
-{153}{}{You came along at a good time. We're ready to go right now. The job pays $2000. Ready to join us?}
+{152}{}{Você veio em boa hora, estamos prontos para ir. Estou pagando $2.000, mas só estou pagando
+ a você pelo trabalho, pois só preciso de mais um guarda. Gostaria de se juntar a nós?}
+{153}{}{Você veio em boa hora, estamos prontos para ir. Estou pagando $2.000. Gostaria de se juntar a nós?}
 {154}{}{Parece bom, estou pronto. Vamos.}
-{155}{}{I can come up with better ways to spend my time than eating brahmin dust all day. Goodbye.}
-{156}{}{Well, you got free eats and a safe trip here. Now get out of here, you moron.}
-{157}{}{Gerg? Bye bye.}
-{158}{}{Grrrr! Me want blood!}
+{155}{}{Posso achar maneiras melhores de passar meu tempo do que comer pó de brahmin o dia todo. Adeus.}
+{156}{}{Bem, aqui tem comida grátis e uma viagem segura. Agora saia daqui, imbecil.}
+{157}{}{Becil? Tchau.}
+{158}{}{Grrrr! Eu quero sangue!}

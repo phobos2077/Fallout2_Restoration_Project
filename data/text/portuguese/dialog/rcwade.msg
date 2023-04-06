@@ -13,7 +13,7 @@
 {109}{}{O que você quer agora?}
 {110}{}{Muu-muus?}
 {111}{}{Precisa de um guarda, é?}
-{112}{}{What does this caravan transport?}
+{112}{}{O que esta caravana transporta?}
 {113}{}{Por que você está esperando até o dia 1°?}
 {114}{}{Não acho que isso seja pra mim. Tchau.}
 {115}{}{Parece que fica mais difícil a cada viagem. }
@@ -24,7 +24,7 @@
 {120}{}{Você não é um guarda, você é um vigarista. Saia daqui, seu covarde.}
 {121}{}{Você deixou a caravana. Agora saia daqui também.}
 {122}{}{Você não passa de um ladrão. Provavelmente até já pegou sua parte. Agora saia.}
-{123}{}{A thief? I resemble that remark, you damn ingrate. I'm leaving. Goodbye.}
+{123}{}{Um ladrão? É isso que eu pareço? Maldito ingrato. Vou ir embora, adeus.}
 {124}{}{Algum dia em breve, você vai se arrepender de ter cruzado comigo. Adeus.}
 {125}{}{Se você tivesse feito seu trabalho e protegido minha caravana, então eu teria dinheiro suficiente
  para pagá-lo. Do jeito que foi... bem, você colhe o que planta. Não vai ganhar nada.}
@@ -51,7 +51,7 @@
 {142}{}{We're usually looking for caravan guards, but this caravan won't be ready for a while yet. Feel
  free to check back with me, though.}
 {143}{}{When on the 1st?}
-{144}{}{What does this caravan transport?}
+{144}{}{O que esta caravana transporta?}
 {145}{}{Ok, obrigado. Adeus.}
 {146}{}{Desculpe, amigo, já tivemos muitas experiências ruins trabalhando nesta caravana.}
 {147}{}{Ah, tudo bem.}
