@@ -1,17 +1,17 @@
-{100}{}{You see a sharp-dressed guy hawking lizard kebabs.}
-{101}{}{It's the lizard-on-a-stick vendor.}
-{102}{}{For a lizard-on-a-stick vendor, this guy's got style. He's clean, well-dressed and runs a pretty spotless little operation.}
-{103}{}{Hungry, stranger? I got the best lizard around. Ask anybody!}
+{100}{}{Você vê um cara bem vestido vendendo espetinhos de iguana.}
+{101}{}{É o vendedor de espetinhos de iguana.}
+{102}{}{Para um vendedor de espetinhos de iguana, esse cara tem estilo. Ele é limpo, bem vestido e comanda um pequeno negócio impecável.}
+{103}{}{Com fome, forasteiro? Eu tenho a melhor iguana da região. Pode perguntar a qualquer um!}
 {104}{}{What can I get you?}
-{105}{}{Gimme meat.}
-{106}{}{I'll take one.}
+{105}{}{Quero carne.}
+{106}{}{Vou levar uma.}
 {107}{}{O que você pode me dizer sobre essa cidade?}
 {108}{}{Adeus.}
-{109}{}{Enjoy, stranger!}
-{110}{}{There's mustard and onions over there.}
-{111}{}{Hey, buddy.}
-{112}{}{Yeah, bye.}
-{113}{}{Next!}
+{109}{}{Aproveite, forasteiro!}
+{110}{}{Tem mostarda e cebola ali.}
+{111}{}{Ei, carinha.}
+{112}{}{Sim, adeus.}
+{113}{}{Próximo!}
 {114}{}{Look, I got a rule. I don't say nothing about nobody. It's a good rule, because if I keep my mouth shut, I keep out of trouble. Capiche?}
 {115}{}{I don't hear nothing, I don't see nothing, and I especially don't say nothing. Now, stop bothering me about that.}
 {116}{}{Fine. Look, I'm hungry.}

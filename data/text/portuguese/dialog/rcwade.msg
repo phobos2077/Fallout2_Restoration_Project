@@ -43,28 +43,28 @@
 {136}{}{Sempre fico feliz em ganhar algum dinheiro extra. Obrigado e adeus.}
 {137}{}{Difícil dizer, na verdade. Acho que depende de quanto tempo leva para reunir minério suficiente. Não
  sou mineiro, mas acho que não vai demorar mais do que algumas semanas.}
-{138}{}{Well, because I'm not exactly sure how long it will take to get all the medical supplies together. Probably not much
- longer than a couple of weeks. Then we can go. Just keep checking back with me.}
+{138}{}{Bem, porque não tenho certeza quanto tempo demoramos para reunir todos os suprimentos médicos. Provavelmente
+ não muito mais do que algumas semanas, então podemos ir. Pode continuar perguntando por novidades.}
 {139}{}{O que você costuma transportar?}
 {140}{}{Deixe-me perguntar-lhe algo mais.}
 {141}{}{Obrigado, vou fazer isso. Adeus.}
-{142}{}{We're usually looking for caravan guards, but this caravan won't be ready for a while yet. Feel
- free to check back with me, though.}
-{143}{}{When on the 1st?}
+{142}{}{Normalmente procuramos por guardas de caravana, mas essa caravana não ficará pronta por
+ um tempo. Mas pode vir me perguntar quando quiser.}
+{143}{}{Que horas no dia 1°?}
 {144}{}{O que esta caravana transporta?}
 {145}{}{Ok, obrigado. Adeus.}
 {146}{}{Desculpe, amigo, já tivemos muitas experiências ruins trabalhando nesta caravana.}
 {147}{}{Ah, tudo bem.}
-{148}{}{Well, we pick up mostly medical supplies in Vault City, and trade it to Redding in exchange for
- gold ore.}
+{148}{}{Bem, pegamos normalmente suprimentos médicos em Vault City e os trocamos com Redding
+ por minério de ouro.}
 {149}{}{Interessante. Você disse que está procurando por guardas?}
 {150}{}{Deixe-me perguntar-lhe algo mais.}
 {151}{}{Oh, ok. Adeus.}
-{152}{}{You came along at a good time. We're ready to go right now. The job pays $1000, but I'm only
- paying you for the job since I only need one more guard. Ready to join us?}
-{153}{}{You came along at a good time. We're ready to go right now. The job pays $1000. Ready to join us?}
+{152}{}{Você veio em boa hora, estamos prontos para ir. Te pago $1.000 pelo trabalho. Mas estou
+ pagando apenas pelo trabalho, só preciso de mais um guarda. Gostaria de se juntar a nós?}
+{153}{}{Você veio em boa hora, estamos prontos para ir. Te pago $1000 pelo trabalho. Gostaria de se juntar a nós?}
 {154}{}{Parece bom, estou pronto. Vamos.}
 {155}{}{Não estou a fim de ser guarda de caravana. Te vejo por aí, adeus.}
-{156}{}{You got safe transport and three hot meals a day. Now get out of here, you moron.}
-{157}{}{Oooo? Bye bye.}
-{158}{}{Arrrrrr! Me kill!}
+{156}{}{Você tem transporte seguro e três refeições quentes por dia. Agora saia daqui, babaca.}
+{157}{}{Bacaca? Tchau.}
+{158}{}{Arrrrrr! Eu mato!}

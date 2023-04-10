@@ -1,1 +1,1 @@
-{100}{}{You have entered the mining community of Redding.}
+{100}{}{Você entrou na comunidade mineira de Redding.}

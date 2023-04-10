@@ -1,4 +1,4 @@
-{100}{}{You see a wanamingo.}
-{101}{}{The wanamingo really does not look too happy at having unexpected guests.}
-{102}{}{You see the queen wanamingo.}
-{103}{}{The queen really does not look too happy at having unexpected guests.}
+{100}{}{Você vê um wanamingo.}
+{101}{}{O wanamingo com certeza não parece muito feliz em ver convidados inesperados.}
+{102}{}{Você vê a rainha wanamingo.}
+{103}{}{A rainha wanamingo com certeza não parece muito feliz em ver convidados inesperados.}

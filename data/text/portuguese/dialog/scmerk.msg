@@ -110,7 +110,7 @@
 {209}{}{É algum tipo de droga de New Reno? Eu nunca ouvi sobre isso.}
 {210}{}{Nope. I've got some more questions, though.}
 {211}{}{That's all I needed to know.}
-{212}{}{Those bastards? Best stay out of my place or I'll put a hole in them.}
+{212}{}{Aqueles malditos? Melhor ficar fora da minha casa ou vou abrir um buraco neles.}
 {213}{}{Bem, isso foi informativo. Outra pergunta.}
 {214}{}{That's all I needed to know.}
 {215}{}{O fazendeiro, hein? Veio aqui uma vez, quase batendo as botas. O médico da cidade teve que correr com alguns comprimidos - parece que Westin tem um problema cardíaco. Isso arruinou os negócios pelo resto da noite.}
@@ -155,21 +155,21 @@
 {254}{}{Trato feito, mas só porque eu gosto de você. Sugiro que não volte tão cedo.}
 {255}{}{Acho que vou matar você, pegar meu dinheiro de volta e receber uma recompensa. Afinal, ser um bom cidadão é isso.}
 {256}{}{Você novamente! MORRA!}
-{257}{}{I thought I said don't bother me anymore.}
-{258}{}{ and I'm a badass mofo. Just ask anybody.}
-{259}{}{ guy.}
-{260}{}{ chick.}
-{261}{}{A Hubologist is a nut-case religious fanatic. It can be found at the church in town.}
+{257}{}{Achei que tinha dito para não me incomodar mais.}
+{258}{}{ e eu sou muito perigoso. Vá perguntar a outro.}
+{259}{}{ cara.}
+{260}{}{ garota.}
+{261}{}{Um Hubologista é um fanático religioso maluco. Pode ser encontrado na igreja da cidade.}
 {262}{}{Eu estou no meu caminho.}
-{263}{}{I'm not talking to you until the job's done! I need those papers from Dr. Henry's place, pronto.}
-{264}{}{No, but I need some information.}
-{265}{}{I know Lenny's death ain't no accident, you bastard.}
-{266}{}{Hey, that map was a fake.}
-{267}{}{Well, what about the money I gave you.}
-{268}{}{Like I said sorry it didn't pan out for you.}
-{269}{}{Well how bout you eat this bullet for my trouble.}
+{263}{}{Não falo com você até que o trabalho esteja feito! Preciso dos papéis da casa do Dr. Henry, imediatamente.}
+{264}{}{Não, mas preciso de algumas informações.}
+{265}{}{Eu sei que a morte de Lenny não foi um acidente, seu desgraçado.}
+{266}{}{Ei, aquele mapa era falso.}
+{267}{}{Bem, e quanto ao dinheiro que te dei.}
+{268}{}{Como eu disse, não deu certo para você.}
+{269}{}{Bem, você pode comer esta bala pelo problema.}
 {270}{}{Hmmphf.}
-{271}{}{You have "taken care of" the Hubologist for Merk.}
-{272}{}{You retrieved Dr. Henry's papers.}
-{300}{}{Where the hell do you think you are going?! Try that again and I'll kick your ass.}
+{271}{}{Você "cuidou" do Hubologista para Merk.}
+{272}{}{Você recuperou os papéis do Dr. Henry.}
+{300}{}{Onde você pensa que está indo?! Tente isso de novo e eu te chuto daqui.}
 {301}{}{Eu avisei a você!}

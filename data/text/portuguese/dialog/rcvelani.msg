@@ -7,19 +7,19 @@
  juros. Por enquanto, apenas saia da minha frente.}
 {105}{}{Um ladrão? É isso que eu pareço? Maldito ingrato. Vou ir embora, adeus.}
 {106}{}{Algum dia em breve, você vai se arrepender de ter cruzado comigo. Adeus.}
-{107}{}{That caravan was a disgrace. I'm glad Savinelli didn't survive. I can't believe that you think
- you'd get paid for that failure. Get out of here.}
+{107}{}{Aquela caravana era uma desgraça, ainda bem que Savinelli não sobreviveu. E você acha
+ que vai ser pago por esse fracasso? Saia daqui.}
 {108}{}{Seu safado asqueroso! Vai pagar caro por me enganar. Adeus.}
 {109}{}{Bem, as vezes você tem mais sorte do que outros. Este foi um dos momentos de azar. Adeus.}
-{110}{}{I'll pay you for the half-ass job you did. Here's $50. Now get out of here.}
+{110}{}{Eu te pago pelo seu trabalho meia-boca. Aqui estão $50. Agora saia daqui.}
 {111}{}{Bem, isso é melhor do que nada, eu acho. Adeus.}
 {112}{}{Seu cretino miserável! Ninguém poderia ter feito um trabalho melhor. Você vai se arrepender de não me pagar. Adeus.}
-{113}{}{Well, most of the caravan made it, even if Savinelli didn't. Here's your $100. I don't know when
- we'll get someone else to run the caravan, though.}
+{113}{}{Bem, a maior parte da caravana prosseguiu, ainda que Savinelli não. Aqui estão seus $100. Mas
+ não sei quando vamos arranjar outra pessoa para comandar a caravana.}
 {114}{}{Acho que nunca mais quero passar tanto tempo olhando para a bunda de um brahmin. Adeus.}
 {115}{}{Isso não foi tão ruim assim. Até mais.}
-{116}{}{Good run. You can take Savinelli's cut since he won't be needing it. $150 for you. I don't know
- when we'll get someone else to run this damn caravan, but if we do, you'll have a job if you want it.}
+{116}{}{Boa corrida. Você pode pegar a parte de Savinelli, já que ele não vai precisar. Toma $150. Não
+ sei quando arranjaremos outra pessoa para comandar esta porra de caravana, mas se acharmos, você pode ficar com o trabalho, se quiser.}
 {117}{}{É bom encontrar alguém que aprecie a qualidade quando vê. Vejo você por aí, talvez. Adeus.}
 {118}{}{Sempre fico feliz em ganhar algum dinheiro extra. Obrigado e adeus.}
 {119}{}{Savinelli devia estar perdendo muito antes de comprar a fazenda. Não sei por que ele deixaria

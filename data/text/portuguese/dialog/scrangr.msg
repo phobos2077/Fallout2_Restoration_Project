@@ -1,7 +1,7 @@
-{100}{}{You see a man dressed in combat armor.}
-{101}{}{You see a woman dressed in combat armor.}
-{102}{}{He is wearing a badge that says NCR Ranger.}
-{103}{}{She is wearing a badge that says NCR Ranger.}
+{100}{}{Você vê um homem vestido com armadura de combate.}
+{101}{}{Você vê uma mulher vestida com armadura de combate.}
+{102}{}{Ele está usando um distintivo que diz Ranger da NCR.}
+{103}{}{Ela está usando um distintivo que diz Ranger da NCR.}
 {200}{}{Olá, amigo Ranger. Quer passar a noite aqui?}
 {201}{}{Matar escravistas hoje?}
 {202}{}{Libertamos uma dúzia de escravos hoje.}

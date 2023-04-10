@@ -1,5 +1,5 @@
-{100}{}{You see a man dressed in combat armor.}
-{101}{}{You see a woman dressed in combat armor.}
-{102}{}{He is wearing a badge that says NCR Ranger.}
-{103}{}{She is wearing a badge that says NCR Ranger.}
-{200}{}{Thanks for your help fellow Ranger. Report back to NCR and tell them the good news.}
+{100}{}{Você vê um homem vestido com armadura de combate.}
+{101}{}{Você vê uma mulher vestida com armadura de combate.}
+{102}{}{Ele está usando um distintivo que diz Ranger da NCR.}
+{103}{}{Ela está usando um distintivo que diz Ranger da NCR.}
+{200}{}{Obrigado pela ajuda companheiro Ranger. Reporte-se a NCR e conte as boas novas.}
