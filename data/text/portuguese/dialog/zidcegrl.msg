@@ -37,7 +37,7 @@
 {220}{}{Fale bem de mim pro chefe, beleza?}
 {221}{}{Olá, madame. Se eu puder ajudar em algo é só me dizer.}
 {222}{}{Quer jogar, senhorita?}
-{223}{}{She looks so...[shivers]...dangerous.}
+{223}{}{Ela parece tão... [calafrios]... perigosa.}
 {235}{}{Parece que este já está jogando com a vida.}
 {236}{}{Uh, eu acho que ele entrou no cassino errado...}
 {237}{}{Se ele não sair antes que os rapazes o vejam...}
@@ -46,8 +46,8 @@
 {240}{}{Uh, eu acho que ela entrou no cassino errado...}
 {241}{}{Se ela não sair antes que os rapazes a vejam...}
 {250}{}{Ei, músculos. Você quer gastar algumas tampas?}
-{251}{}{Hey, champ...[winks]...you looking to gamble?}
-{252}{}{Hey, champ...[smiles]...wanna take a chance?}
+{251}{}{Ei, campeão... [pisca]... Quer jogar?}
+{252}{}{Ei, campeão... [sorri]... quer arriscar?}
 {253}{}{Se precisar de companhia mais tarde...}
 {254}{}{Me pergunto se eu deveria falar com ele...}
 {255}{}{Ei, }
@@ -67,7 +67,7 @@
 {275}{}{Adiante, }
 {276}{}{Precisa de outra bebida?}
 {277}{}{Bem vindo ao cassino, }
-{278}{}{Hey there, Ms. Movie Star. Looking to spend a paycheck?}
+{278}{}{Olá, Srta. Estrela de Cinema. Gostaria de apostar um dinheiro?}
 {279}{}{Quer dançar essa noite?}
 {290}{}{Ei, querida. Você quer gastar algumas tampas?}
 {291}{}{Hey, sweetie...[winks]...you looking to gamble?}
