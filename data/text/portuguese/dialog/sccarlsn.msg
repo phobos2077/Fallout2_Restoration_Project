@@ -1,9 +1,9 @@
 {100}{}{Você vê um ancião, parece frágil.}
-{101}{}{It's Vice-President Carlson.}
-{102}{}{Though physically weak, his eyes reveal a powerful moral strength. This is a determined man.}
-{103}{}{What are you doing here? Guards!}
-{104}{}{You're not one of my men. Guards!}
-{105}{}{Get out of here!}
-{106}{}{I'm incredibly busy. Please come back another time.}
-{107}{}{Look, I don't mean to be rude, but I need more time to work.}
+{101}{}{É o vice-presidente Carlson.}
+{102}{}{Embora fisicamente fraco, seus olhos revelam uma poderosa força moral. Este é um homem determinado.}
+{103}{}{O que você está fazendo aqui? Guardas!}
+{104}{}{Você não é um dos meus homens. Guardas!}
+{105}{}{Saia daqui!}
+{106}{}{Estou incrivelmente ocupado. Por favor, volte outra hora.}
+{107}{}{Olha, não quero ser rude, mas preciso de mais tempo para trabalhar.}
 {108}{}{Sorry, I don't have time to meet with you right now.}

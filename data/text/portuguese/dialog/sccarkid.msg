@@ -28,10 +28,10 @@
 {127}{}{Notícias sobre o Sr. Mishop. OK?}
 {128}{}{Muito bem.}
 {129}{}{Papai diz que não pode te ver.}
-{130}{}{I told Daddy that. I think he doesn't like you.}
-{131}{}{Daddy says you can come in the house.}
-{132}{}{I told Daddy you were a bad man.}
-{133}{}{That's right, I'm the boogy man! And I'm gonna eat you.}
-{134}{}{You got me wrong, kid.}
-{135}{}{I'm not supposed to talk to you anymore.}
-{136}{}{My daddy's dead. Why didn't you save him?}
+{130}{}{Eu disse isso ao papai. Acho que ele não gosta de você.}
+{131}{}{Papai disse que você pode entrar em casa.}
+{132}{}{Eu disse ao papai que você era um homem mau.}
+{133}{}{É isso mesmo, eu sou o bicho-papão! E eu vou comer você.}
+{134}{}{Você me entendeu errado, garoto.}
+{135}{}{Não devo mais falar com você.}
+{136}{}{Meu pai está morto. Por que você não o salvou?}
