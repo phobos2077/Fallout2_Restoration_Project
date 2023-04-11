@@ -100,11 +100,11 @@
  agora, esta pronto para começar?}
 {226}{}{Me dê um tempo. Voltarei quando estiver pronto.}
 {227}{}{Eu nasci pronto. Vamos destruir.}
-{228}{}{I'm ready. Let's go.}
+{228}{}{Estou pronto. Vamos.}
 {229}{}{Acho que vou deixar passar, perdi o interesse. Tchau.}
 {230}{}{Você está pronto para o ataque ou está aqui para desperdiçar mais do meu tempo?}
 {231}{}{Preciso de mais tempo.}
-{232}{}{I'm ready. Let's go.}
+{232}{}{Estou pronto. Vamos.}
 {240}{}{Você acaba com os esconderijos dos Rangers. Isso é um grande golpe para os Rangers em sua luta contra a escravidão.}
 {241}{}{Estou querendo comprar alguns escravos.}
 {250}{}{Bem, isso é legal pra caralho, não vendemos aqui. Metzger, ao norte, no Den, pode ajudá-lo com isso.}

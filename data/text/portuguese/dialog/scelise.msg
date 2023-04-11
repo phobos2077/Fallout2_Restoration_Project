@@ -110,7 +110,7 @@
 {223}{}{Vou ter que recusar então. Adeus.}
 {224}{}{Você tem razão, vou reunir um pequeno grupo e mandá-los com você. Você está pronto para ir agora?}
 {225}{}{Preciso de tempo para me preparar. Eu voltarei.}
-{226}{}{I'm ready. Let's go.}
+{226}{}{Estou pronto. Vamos.}
 {227}{}{Dinheiro? Bem, suponho que é o mínimo que podemos fazer. Aqui, $1000 pelo seu problema. Obrigado novamente.}
 {228}{}{O prazer é meu. Adeus.}
 {229}{}{Você está pronto para atacar o acampamento de escravos?}
