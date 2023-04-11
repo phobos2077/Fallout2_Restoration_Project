@@ -31,8 +31,8 @@
 {130}{}{Ouvi alguém dizendo que o Sr. Westin não está bem. Isso é verdade? Me preocupo que algo possa acontecer com ele. Ele esta me devendo.}
 {131}{}{Aquele tal de Bob Carne Seca disse que você roubou um mapa dele. Qual é o problema?}
 {132}{}{Estou à procura de trabalho. Conhece algum?}
-{133}{}{Doc, you wouldn't know anything about a group that's fighting those evil slavers, would you?}
-{134}{}{Well you shouldn't worry, son. As long as he doesn't tax his system, he'll probably outlast us all. 'Course that's if he'd ever mind my doctoring or his medicine.}
+{133}{}{Doutor, você não saberia nada sobre um grupo que está lutando contra esses escravistas do mal, saberia?}
+{134}{}{Bem, você não deve se preocupar, filho. Contanto que você não teste seu sistema, ele provavelmente sobreviverá a todos nós. Claro, se você decidir entre meus cuidados médicos ou seus medicamentos.}
 {135}{}{Well, that's good to know. There's something else I was wondering.}
 {136}{}{Thanks, doc.}
 {137}{}{That old drunk! The only thing I ever got from him was my "Velvet Elvii" painting - in lieu of cash.}

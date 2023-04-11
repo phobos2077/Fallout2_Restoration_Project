@@ -6,4 +6,4 @@
 {105}{}{Saia daqui!}
 {106}{}{Estou incrivelmente ocupado. Por favor, volte outra hora.}
 {107}{}{Olha, não quero ser rude, mas preciso de mais tempo para trabalhar.}
-{108}{}{Sorry, I don't have time to meet with you right now.}
+{108}{}{Desculpe, não tenho tempo para um encontro com você agora.}
