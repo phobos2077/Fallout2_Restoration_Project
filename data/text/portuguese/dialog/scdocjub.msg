@@ -33,15 +33,15 @@
 {132}{}{Estou à procura de trabalho. Conhece algum?}
 {133}{}{Doutor, você não saberia nada sobre um grupo que está lutando contra esses escravistas do mal, saberia?}
 {134}{}{Bem, você não deve se preocupar, filho. Contanto que você não teste seu sistema, ele provavelmente sobreviverá a todos nós. Claro, se você decidir entre meus cuidados médicos ou seus medicamentos.}
-{135}{}{Well, that's good to know. There's something else I was wondering.}
-{136}{}{Thanks, doc.}
-{137}{}{That old drunk! The only thing I ever got from him was my "Velvet Elvii" painting - in lieu of cash.}
-{138}{}{A Velvet Elvii? Could I see it?}
-{139}{}{Not exactly a map, eh? Well, let me pick your brains on some other things.}
-{140}{}{Well, I've got to get on.}
-{141}{}{I ain't heard that mentioned since old Saltbeef was brought in here. Sunstroke. Burned with fever for three days, all the time ranting how he'd found Vault 13, his mother lode.}
-{142}{}{Mother Lode?}
-{143}{}{So where is it?}
+{135}{}{Bem, é bom saber disso. Tinha outra coisa que eu estava pensando.}
+{136}{}{Obrigado, doutor.}
+{137}{}{Aquele velho bêbado! A única coisa que recebi dele foi meu quadro "Velvet Elvis" em vez de dinheiro.}
+{138}{}{O "Velvet Elvis"? Eu poderia ver?}
+{139}{}{Não é exatamente um mapa, eh? Bem, deixe-me usar seu cérebro em outra coisa.}
+{140}{}{Bem, preciso ir andando.}
+{141}{}{Não ouço falar disso desde que o velho Carne Seca foi trazido para cá. Uma insolação, queimou de febre por três dias, ficava delirando o tempo todo sobre como havia encontrado o Vault 13, seu filão.}
+{142}{}{Filão?}
+{143}{}{Então onde está?}
 {144}{}{Where vault?}
 {145}{}{Couldn't tell you. Saltbeef always claimed he had a map, but nobody's ever seen it.}
 {146}{}{Saltbeef?}
