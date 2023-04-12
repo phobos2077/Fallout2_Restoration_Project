@@ -133,8 +133,8 @@
 {217}{}{O sinal de "tudo limpo"? De onde?}
 {218}{}{Onde estão esses arquivos?}
 {219}{}{Onde está o Supervisor? Devo falar com ele.}
-{220}{}{Well, OUR tribal legend states the Vault was closed for years... and no "all-clear" signal ever came.}
-{221}{}{You lie! The all-clear never came!}
+{220}{}{Bem, NOSSA lenda tribal afirma que a Vault foi fechado por anos... e nenhum sinal de "tudo limpo" jamais veio.}
+{221}{}{Você mente! O tudo limpo nunca veio!}
 {222}{}{Entendo. Obrigado pela informação, bom dia.}
 {223}{lyn021}{Why... from surface monitors, I suppose. I am certain there were sensors monitoring
  the environment. How else would the Overseer have known when it was safe to leave?}
