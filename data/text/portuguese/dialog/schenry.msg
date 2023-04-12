@@ -16,11 +16,11 @@
 {115}{}{Right. You're mad as a hatter. Goodbye.}
 {116}{}{Oh my, I've said more than I should already. Never mind, and if anybody asks I didn't say anything.}
 {117}{}{Something about extreme sociological conditioning. Mind you, I thought it was all so much mumbo-jumbo, no real science in it at all. But I did hear something about 13 having to be improvised during the course of the experiment. Sloppy work, I'd say.}
-{118}{}{Experiment? What experiment?}
-{119}{}{What's this about cyber-genetics?}
-{120}{}{You expect me to believe any of this? You are a loon.}
-{121}{}{Oh, it's a whole new field - very exciting. Why I'm working on some projects right now - a radical new concept for the mutant problem. You see, it's really quite simple - mutantcy isn't absolute. It can be cured.}
-{122}{}{Of course, my simple-minded colleagues were just trying to solve the whole problem the crudest way possible. Purification, indeed. I'll admit there were some early problems, but I've got them worked out now... I think.}
+{118}{}{Experimento? Que experimento?}
+{119}{}{O que é isso sobre ciber-genética?}
+{120}{}{Você espera que eu acredite em um dessas coisas? Você é um maluco.}
+{121}{}{Oh, é um campo totalmente novo, muito excitante. Por que estou trabalhando em alguns projetos agora, um novo conceito radical para o problema mutante. Veja, é realmente muito simples, a mutação não é irreversível, pode ser curada.}
+{122}{}{Claro, meus colegas ingênuos estavam apenas tentando resolver todo o problema da maneira mais grosseira possível. Purificação, de fato. Admito que houve alguns problemas iniciais, mas agora os resolvi... eu acho.}
 {123}{}{}
 {124}{}{Continuar}
 {125}{}{Na verdade, você poderia me ajudar a realizar o teste de campo. Interessado?}
@@ -61,7 +61,7 @@
 {160}{}{, o Escolhido. Estou procurando a Vault 13.}
 {161}{}{Bom dia a puta que te pariu, e eu falo isso com toda a cortesia. Entregue esses papéis ou vou começar a arrancar seus dedos. Vamos ver que bom médico você é então.}
 {162}{}{Tudo bem, eu vou te dizer.}
-{163}{}{Uh... Ok, the papers are in my desk over there. Take them; just don't hurt my hands. Ok?}
+{163}{}{Uh... Ok, os papéis estão na minha mesa ali. Pegue eles; só não machuque minhas mãos. OK?}
 {164}{}{Vai se fuder, vagabundo de merda! Guardas! Guardas!}
 {165}{}{Agora você está sendo razoável. Vou avisar o Sr. Merk.}
 {166}{}{Você vai se arrepender disso, doutor.}

@@ -158,65 +158,65 @@
 {257}{}{I don't know anything. That's why I'm asking you.}
 {258}{}{Never mind. I had some questions...}
 {259}{}{Forget it. Maybe we'll talk some other time.}
-{260}{}{Don't know anything? Maybe I'll keep you here in the Corrections Center until you REMEMBER something.}
+{260}{}{Não sabe de nada? Talvez eu te deixe aqui no Centro Correcional até você LEMBRAR de algo.}
 {261}{}{I'd like to try and find their base, maybe stop the attacks if I can.}
-{262}{}{You got me. I'm obviously in league with the raiders. Arrest me.}
-{263}{}{Look, I'm walking out of here right now. If you try and stop me, there's going to be trouble.}
-{264}{}{You're already in trouble. You looking to make it worse?}
-{265}{}{No, I'd like to try and find their base, maybe stop the attacks if I can.}
-{266}{}{You got me. I'm obviously in league with the raiders. Arrest me.}
-{267}{}{I'm leaving. You want to stop me? Go ahead.}
+{262}{}{Você me pegou. Obviamente sou cumplice dos invasores, me prenda.}
+{263}{}{Olha, estou saindo daqui agora. Se você tentar me impedir, teremos problemas.}
+{264}{}{Você já está com problemas. Quer piorar ainda mais?}
+{265}{}{Não, gostaria de tentar encontrar a base deles, talvez parar os ataques se puder.}
+{266}{}{Você me pegou. Obviamente sou cumplice dos invasores, me prenda.}
+{267}{}{Estou indo embora. Você quer me parar? Vá em frente.}
 {268}{}{Tudo bem, então...}
-{269}{}{Whoa! Whoa! I didn't --}
-{270}{}{Bring it on, dead man.}
-{271}{}{I don't think we'll be dropping the subject quite that easily. Now... what do you know about the raiders?}
+{269}{}{Hei! Hei! Eu não --}
+{270}{}{Viva com isso, homem morto.}
+{271}{}{Acho que não vamos abandonar o assunto tão facilmente. Agora... o que você sabe sobre os invasores?}
 {272}{}{I'd like to try and find their base, maybe stop the attacks if I can.}
 {273}{}{Eu estava apenas curioso.}
-{274}{}{Look, I'm walking out of here right now. If you try and stop me, there's going to be trouble.}
-{275}{}{I don't know. These raiders don't make much sense. IF they are raiders.}
+{274}{}{Olha, estou saindo daqui agora. Se você tentar me impedir, teremos problemas.}
+{275}{}{Não sei, esses invasores não fazem muito sentido. SE eles são invasores.}
 {276}{}{O que você quer dizer?}
 {277}{}{Eu tenho mais algumas perguntas...}
 {278}{}{Tenho que ir.}
-{279}{}{They've got heavy firepower. Expensive firepower. They know military tactics. They stay in formation. They never cross their lines of fire. And they always stop short of breaking through our defenses.}
-{280}{}{Uh... they stop short of breaking through the defenses?}
+{279}{}{Eles têm poder de fogo pesado, armamento caro. Eles conhecem táticas militares, ficam em formação. Eles nunca cruzam suas linhas de fogo, e sempre param de romper nossas defesas.}
+{280}{}{Uh... eles param de romper as defesas?}
 {281}{}{Eu tenho mais algumas perguntas...}
 {282}{}{Tenho que ir.}
-{283}{}{I've seen them do it. The last attack, they disabled a laser turret on the western perimeter. They had a clear shot into the city. Then I saw one of their "captains" ORDER them to fall back. Makes no sense.}
-{284}{}{Any idea where they're coming from?}
+{283}{}{Eu os vi fazer isso. No último ataque, eles desativaram uma torreta laser no perímetro oeste. Eles tinham uma visão clara da cidade. Então eu vi um de seus "capitães" ORDENAR que eles recuassem. Não faz sentido.}
+{284}{}{Alguma ideia de onde eles estão vindo?}
 {285}{}{Hmmm. Eu tenho outras perguntas…}
-{286}{}{Interesting. I have to be going.}
-{287}{}{No. That's the most frustrating part. They keep retreating south. I can't spare any men to go and scout the area. I think the raiders have some native guide that leads them through the southern canyons.}
-{288}{}{What's the deal with the south?}
+{286}{}{Interessante. Eu tenho que ir.}
+{287}{}{Não, essa é a parte mais frustrante. Eles continuam recuando para o sul. Não posso dispensar homens para patrulhar a área. Acho que os invasores têm algum guia nativo que os conduz pelos desfiladeiros do sul.}
+{288}{}{Algum problema com o sul?}
 {289}{}{Hmmm. Eu tenho outras perguntas…}
-{290}{}{Interesting. I have to be going.}
-{291}{}{Plenty of places to hide if you don't know where to look. The place is riddled with caves.}
-{292}{}{I could probably find them.}
+{290}{}{Interessante. Eu tenho que ir.}
+{291}{}{Muitos lugares para se esconder se você não souber onde procurar. Esse lugar é lotado de cavernas.}
+{292}{}{Eu provavelmente poderia encontrá-los.}
 {293}{}{Eu tenho mais algumas perguntas...}
-{294}{}{Hmmm. I'll keep that in mind. Goodbye.}
-{295}{}{Go ahead and try. I'm betting the only way they'd let us find them is by giving us a map.}
+{294}{}{Hmmm. Vou me lembrar disso. Adeus.}
+{295}{}{Vá em frente e tente, aposto que a única maneira de encontrá-los é se eles nos derem um mapa.}
 {296}{}{Eu tenho mais algumas perguntas...}
 {297}{}{Se for necessário... obrigado pela informação.}
-{298}{}{Yeah, we have a small group of patrols. Can barely spare the men to protect Vault City, much less do all the reconnaissance that needs to be done.}
-{299}{}{Recon-o-what?}
-{300}{}{I do a lot of traveling. Anything I can help with?}
+{298}{}{Sim, temos um pequeno grupo de patrulhas. Mal posso dispensar os homens para proteger Vault City, muito menos fazer todo o reconhecimento que precisa ser feito.}
+{299}{}{Recon-o-que?}
+{300}{}{Eu viajo muito. Posso ajudar em alguma coisa?}
 {301}{}{Lamento ouvir isso. Eu tinha outras perguntas...}
 {302}{}{Deixa pra lá então. Adeus.}
-{303}{}{Scouting.}
+{303}{}{Exploração.}
 {304}{}{O que você quer dizer?}
-{305}{}{I could do some recon for you if you're short-handed.}
+{305}{}{Eu poderia fazer algum reconhecimento se você estiver com falta de pessoal.}
 {306}{}{Esqueça. Eu tinha outras perguntas...}
 {307}{}{Deixa pra lá então. Adeus.}
-{308}{}{No, you'd need a Pip-Boy to get the job done right, and I can't spare one right now.}
-{309}{}{I already got a Pip-Boy. It's old... and cranky... and seems to have wires and buttons yanked out everywhere... but it works.}
-{310}{}{Well, all right. I had some other questions...}
+{308}{}{Não, você precisaria de um Pip-Boy para fazer o trabalho direito, e não posso emprestar um agora.}
+{309}{}{Eu já tenho um Pip-Boy. É velho... e mal-humorado... e parece ter fios e botões arrancados por toda parte... mas funciona.}
+{310}{}{Bem, tudo bem. Eu tinha outras perguntas...}
 {311}{}{Deixa pra lá então. Adeus.}
-{312}{}{Yeah? Has it got a Northern California world map installed?}
-{313}{}{Yes. Well, at least from what I can see through the fog of war on the damn thing.}
-{314}{}{I got a job for you, then. I need someone to scout the terrain around Gecko... that ghoul encampment to the northeast. Hit the eight sectors on the world map around the town, then report back.}
+{312}{}{Sim? Tem um mapa-múndi do norte da Califórnia instalado?}
+{313}{}{Sim. Bem, pelo menos o que você pode ver por causa da incerteza com que ele mostra todo esse maldito lixo.}
+{314}{}{Eu tenho um trabalho para você, então. Preciso de alguém para explorar o terreno ao redor de Gecko... aquele acampamento ghoul a nordeste. Inspecione os oito setores no mapa ao redor da cidade e depois reporte.}
 {315}{}{Por quê?}
-{316}{}{No problem. I've already scouted out the area.}
-{317}{}{All right. I'll come back when I've scouted the area.}
-{318}{}{On second thought, count me out. Goodbye.}
+{316}{}{Sem problemas. Eu já explorei a área.}
+{317}{}{Tudo bem. Voltarei quando tiver feito o reconhecimento da área.}
+{318}{}{Pensando bem, conte comigo. Adeus.}
 {319}{}{If they keep poisoning our groundwater, we may be forced to take military action.}
 {320}{}{I want to see how much damage the plant meltdown caused to the area.}
 {321}{}{We may be forced to take military action against them in the future, especially if they start poisoning the groundwater again.}

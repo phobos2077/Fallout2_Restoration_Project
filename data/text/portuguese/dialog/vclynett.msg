@@ -113,29 +113,29 @@
 {198}{}{Nothing, never mind. We'll continue this conversation later.}
 {199}{lyn017a}{You barge into my chambers and then have the audacity to insult me, Lynette, First Citizen of Vault City?!}
 {200}{lyn017b}{You barge into my chambers and then have the audacity to make demands of me, Lynette, First Citizen of Vault City?!}
-{201}{lyn017c}{Leave. You are no longer welcome in this city.}
-{202}{}{I'm NOT leaving until I get some answers.}
-{203}{}{I'll go... for now.}
-{204}{lyn018}{No, no, we do not live in the vault. They were a temporary measure to protect a chosen
- few from the war and aid them in the subsequent construction of a new world.}
-{205}{}{How did you know when to leave the vault? I heard the vaults were isolated from the outside world.}
-{206}{}{It is important that I speak with the Overseer. Can you take me to him?}
-{207}{}{I'm wasting precious time talking with you. Fetch the Overseer at once, woman.}
+{201}{lyn017c}{Saia, você não é mais bem-vindo nesta cidade.}
+{202}{}{Eu NÃO vou embora até conseguir algumas respostas.}
+{203}{}{Eu vou... por enquanto.}
+{204}{lyn018}{Não, não, não vivemos na vault. Elas eram uma medida temporária para proteger alguns
+ poucos escolhidos antes da guerra e ajudá-los na construção subsequente de um novo mundo.}
+{205}{}{Como você sabia quando era para deixar a vault? Ouvi dizer que as vaults estavam isoladas do mundo exterior.}
+{206}{}{É importante que eu fale com o Supervisor. Você pode me levar até ele?}
+{207}{}{Estou perdendo um tempo precioso conversando com você. Chame o Supervisor imediatamente, mulher.}
 {208}{}{I'm wasting precious time talking with you. Fetch the Overseer at once.}
 {209}{}{Já ouvi o suficiente. Tchau.}
-{210}{}{Thank you for your time, First Citizen. Good day.}
-{211}{lyn019}{There is no "Overseer." When we came to the surface, we formed a new government. The Overseer position was superfluous.}
-{212}{}{New government? Tell me about it.}
-{213}{}{So you're the leader of the former vault dwellers?}
-{214}{}{Smart. Get rid of the corrupt Overseer.}
-{215}{}{I see. Thanks for the information. Good day.}
-{216}{lyn020}{What you heard was incorrect. Our archives are quite clear: our vault received the all-clear signal two years after being sealed.}
-{217}{}{The "all-clear" signal? From where?}
-{218}{}{Where are these archives?}
-{219}{}{Where is the Overseer? I must speak with him.}
+{210}{}{Obrigado pelo seu tempo, Primeira Cidadã. Bom dia.}
+{211}{lyn019}{Não há "supervisor". Quando viemos à superfície, formamos um novo governo. A posição de Supervisor era supérflua.}
+{212}{}{Novo governo? Me conte sobre isso.}
+{213}{}{Então você é a líder dos antigos habitantes da Vault?}
+{214}{}{Inteligente. Se livrou do Supervisor corrupto.}
+{215}{}{Entendo. Obrigado pela informação, bom dia.}
+{216}{lyn020}{O que você ouviu estava incorreto. Nossos arquivos são bastante claros: nossa vault recebeu o sinal de "tudo limpo" dois anos depois de ser lacrada.}
+{217}{}{O sinal de "tudo limpo"? De onde?}
+{218}{}{Onde estão esses arquivos?}
+{219}{}{Onde está o Supervisor? Devo falar com ele.}
 {220}{}{Well, OUR tribal legend states the Vault was closed for years... and no "all-clear" signal ever came.}
 {221}{}{You lie! The all-clear never came!}
-{222}{}{I see. Thanks for the information. Good day.}
+{222}{}{Entendo. Obrigado pela informação, bom dia.}
 {223}{lyn021}{Why... from surface monitors, I suppose. I am certain there were sensors monitoring
  the environment. How else would the Overseer have known when it was safe to leave?}
 {224}{}{Do these monitors still exist? Can I see them?}
@@ -147,18 +147,18 @@
 {230}{}{Hmmm. But the Overseer was the one who gave the order to leave the vault?}
 {231}{}{Where is the Overseer? I must speak with him about this.}
 {232}{}{I don't believe you. I'm telling you, the all-clear signal never came!}
-{233}{}{I see. Thanks for the information. Good day.}
+{233}{}{Entendo. Obrigado pela informação, bom dia.}
 {234}{lyn023}{Yes... at least, that's what I remember from the archives. However, I am certain many
  Citizens were responsible for monitoring the surface sensors.}
 {235}{}{Any idea where these surface sensors are now?}
-{236}{}{Where are these archives?}
-{237}{}{Where is the Overseer? I must speak with him.}
+{236}{}{Onde estão esses arquivos?}
+{237}{}{Onde está o Supervisor? Devo falar com ele.}
 {238}{}{You lie! The all-clear signal never came!}
-{239}{}{I see. Thanks for the information. Good day.}
+{239}{}{Entendo. Obrigado pela informação, bom dia.}
 {240}{lyn024}{If you were capable of examining your argument, the flaw would quickly become apparent.
  The archives do not allow for the same form of corruption your... "tribal legends" do.}
-{241}{}{Where are these archives?}
-{242}{}{Where is the Overseer? I must speak with him.}
+{241}{}{Onde estão esses arquivos?}
+{242}{}{Onde está o Supervisor? Devo falar com ele.}
 {243}{}{Look, I'm telling you... the all-clear signal never came!}
 {244}{}{I've heard enough. Good day.}
 {245}{lyn025}{You have the audacity to accuse me, Lynette, the First Citizen of Vault City, of LYING?!

@@ -28,22 +28,22 @@
 {127}{}{Fuck you. Boys, escort this annoying crud out of my sight.}
 {128}{}{Bite me!}
 {129}{}{Vault 13! Get outta here. Damn place is a myth. Vault 13, my ass.}
-{130}{}{Another question...}
+{130}{}{Outra pergunta...}
 {131}{}{Well, thanks for nothing.}
 {132}{}{A what? Well, whatever it is, I ain't got it.}
-{133}{}{Another question...}
+{133}{}{Outra pergunta...}
 {134}{}{Well, thanks for nothing.}
 {135}{}{New California Republic - nothing but temperance types and merchants. Got a bug about slavers and slavery, but what the hell, it makes my business.}
-{136}{}{Another question...}
+{136}{}{Outra pergunta...}
 {137}{}{Obrigado, tenho que ir.}
 {138}{}{Alguém te guiou errado. Não tenho problemas com ninguém, especialmente com nenhum Ranger. Eu tenho todos os requisitos legais, eles não têm nada contra mim.}
-{139}{}{Another question...}
+{139}{}{Outra pergunta...}
 {140}{}{Diga o que quiser. Vou embora.}
 {141}{}{Sim, posso ter algumas opiniões sobre os Rangers. Você está procurando trabalho?}
 {142}{}{Sim.}
 {143}{}{Não.}
 {144}{}{Não, você não pode ficar bisbilhotando, idiota! Isso não é um museu!}
-{145}{}{Another question...}
+{145}{}{Outra pergunta...}
 {146}{}{Você é muito sensível para o meu gosto. Vou embora.}
 {147}{}{Bem, você deve saber que algumas pessoas os veem como um problema em potencial. Seria extremamente útil se tivéssemos um mapa de seus esconderijos ao norte, New Reno, Klamath, onde quer que seja. Eu estaria disposto a pagar, digamos, $500 por algo desse tipo. Você acha que poderia conseguir isso para mim?}
 {148}{}{Com certeza.}

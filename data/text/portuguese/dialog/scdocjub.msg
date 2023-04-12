@@ -42,42 +42,42 @@
 {141}{}{Não ouço falar disso desde que o velho Carne Seca foi trazido para cá. Uma insolação, queimou de febre por três dias, ficava delirando o tempo todo sobre como havia encontrado o Vault 13, seu filão.}
 {142}{}{Filão?}
 {143}{}{Então onde está?}
-{144}{}{Where vault?}
-{145}{}{Couldn't tell you. Saltbeef always claimed he had a map, but nobody's ever seen it.}
-{146}{}{Saltbeef?}
-{147}{}{Ask more.}
-{148}{}{Well, that's more than what I had before.}
-{149}{}{The big one. Saltbeef's an old uranium prospector - more accurately, a drunk. Lives out on the Westin spread these days.}
-{150}{}{Another question...}
+{144}{}{Onde vault?}
+{145}{}{Não poderia te dizer. Carne Seca sempre afirmou que tinha um mapa, mas ninguém nunca viu.}
+{146}{}{Carne Seca?}
+{147}{}{Perguntar mais.}
+{148}{}{Bem, já é mais do que eu tinha antes.}
+{149}{}{O cara. Saltbeef é um velho garimpeiro de urânio, mais precisamente, um bêbado. Ele agora mora nos arredores do rancho Westin.}
+{150}{}{Outra pergunta...}
 {151}{}{Obrigado pela história.}
-{152}{}{Well, I was really hoping to get some money for it. I'll let it go for $}
-{153}{}{Maybe later, another question...}
-{154}{}{Maybe later, I have to go.}
-{155}{}{Saltbeef's an old uranium prospector. Lives out on the Westin spread these days.}
-{156}{}{Another question...}
+{152}{}{Bem, eu esperava ganhar algum dinheiro com isso. Te deixo por $}
+{153}{}{Talvez mais tarde, outra pergunta...}
+{154}{}{Talvez mais tarde, preciso ir.}
+{155}{}{Carne Seca é um velho garimpeiro de urânio. Ele agora mora nos arredores do rancho Westin.}
+{156}{}{Outra pergunta...}
 {157}{}{Obrigado pela história.}
-{158}{}{You best go talk to President Tandi. I've heard she's looking for a special type of person.}
-{159}{}{Another question...}
+{158}{}{É melhor ir falar com a Presidente Tandi. Ouvi dizer que ela está procurando algum tipo de pessoa especial.}
+{159}{}{Outra pergunta...}
 {160}{}{Obrigado.}
-{161}{}{I might... There is a group set against slavery and- well, most the other vices, too. You can sometimes find them over at the big shop, working on some automobile.}
-{162}{}{Another question...}
+{161}{}{Poderia... Existe um grupo contra a escravidão e... bem, a maioria dos outros vícios também. Às vezes você pode encontrá-los na grande loja, trabalhando em algum carro.}
+{162}{}{Outra pergunta...}
 {163}{}{Obrigado.}
-{164}{}{Hey, get your hands off that, punk!}
-{165}{}{Careful there! Just takes tiny amount to expose yourself.}
-{166}{}{Put that back! You could seriously hurt yourself with that stuff.}
-{167}{}{Those meds are for Mr. Westin, not you. Put them back.}
-{168}{}{Get away from that. Got to be careful, see. Wouldn't want Mr. Westin getting the wrong meds now.}
-{169}{}{Watch it! I just measured out Mr. Westin's dose.}
-{170}{}{I'm Doc Jubilee. What's wrong, young miss?}
-{171}{}{What's wrong, young miss?}
-{172}{}{There you are, miss.}
-{173}{}{Well you shouldn't worry, miss. As long as he doesn't tax his system, he'll probably outlast us all. 'Course that's if he'd ever mind my doctoring or his medicine.}
-{174}{}{Sure. Here's the $}
-{175}{}{Thanks, I've been trying to get the money out of Saltbeef, but that bum never had any.}
+{164}{}{Ei, tire as mãos disso, vagabundo!}
+{165}{}{Cuidado com isso! Leva apenas uma pequena quantidade para se expor.}
+{166}{}{Coloque isso de volta! Você pode se machucar gravemente com isso.}
+{167}{}{Esses remédios são para o Sr. Westin, não para você. Devolva.}
+{168}{}{Se afaste disso. Precisa de cuidado, não gostaria que o Sr. Westin tomasse os remédios errados.}
+{169}{}{Cuidado! Acabei de medir a dose do Sr. Westin.}
+{170}{}{Eu sou o Doutor Jubilee. O que há de errado, senhorita?}
+{171}{}{O que há de errado, senhorita?}
+{172}{}{Aí está você, senhorita.}
+{173}{}{Bem, você não deve se preocupar, senhorita. Contanto que você não sobrecarregue seu sistema, ele provavelmente sobreviverá a todos. Claro, se você decidir entre meus cuidados médicos ou seus medicamentos.}
+{174}{}{Claro. Aqui estão os $}
+{175}{}{Obrigado, Já tentei tirar o dinheiro daquele Carne Seca, mas o condenado nunca tem nada.}
 {176}{}{.}
-{200}{}{Whoa there, }
-{201}{}{son! }
-{202}{}{missy! }
+{200}{}{Uau lááá, }
+{201}{}{filho! }
+{202}{}{senhorita! }
 {203}{}{You can't be messing with that stuff! I just measured out Mr. Westin's dose and we wouldn't want him getting the wrong meds now. What in blazes do you think you're doing?}
 {204}{}{I was just trying to get a look at those pills you have on the shelf there.}
 {205}{}{Oh, don't mind me. I was just window shopping.}
