@@ -78,41 +78,41 @@
 {200}{}{Uau lááá, }
 {201}{}{filho! }
 {202}{}{senhorita! }
-{203}{}{You can't be messing with that stuff! I just measured out Mr. Westin's dose and we wouldn't want him getting the wrong meds now. What in blazes do you think you're doing?}
-{204}{}{I was just trying to get a look at those pills you have on the shelf there.}
-{205}{}{Oh, don't mind me. I was just window shopping.}
-{206}{}{Sorry. I've just always had this irresistible compulsion to dig around in other people's stuff that I've never been able to shake.}
-{207}{}{Honestly? Not expecting you to be that observant. I guess I'm going to have to improvise.}
-{210}{}{Were you, now? (Doc Jubilee regards you coolly.) I'd guess you were a mite young to be suffering from a bum ticker.}
-{211}{}{And you'd be right. I'm asking for my friend Cassidy. Older fella. He's got a bad heart, and traveling the wastes is getting kind of rough on him.}
-{212}{}{And I'd wish you were right. I got it from my pa. Or so they tell me.}
-{213}{}{Oh, nothing like that. I'm just overbearingly inquisitive, I guess.}
-{220}{}{Well, you can't. This is a private practice, not a drugstore. You might want to try Duppo's, a tetch north of here.}
-{221}{}{Sounds like just what I'm looking for. Bye.}
-{222}{}{I'll check 'em out. In the meantime, though, do you mind if I ask you a few things?}
-{223}{}{No, I think I came to the right place. I can see you're doing good work here. I thought I might offer a donation.}
-{230}{}{(The doctor blinks. He blinks again.) You should probably talk to somebody about that. Unfortunately,
- I ain't the right kind of doctor. All's you need to know about that shelf is that if you mix up or taint any of those
- prescriptions, some poor fella's liable to end up in a world of hurt, if they're still in this world at all. Best keep
- your hands to yourself.}
-{231}{}{Will do, doc. But, uh, say-- I've got a buddy who could really use some of those heart pills you've got there.
- Think you'd be willing to sell me some?}
+{203}{}{Você não pode ficar mexendo com essas coisas! Acabei de medir a dose do Sr. Westin e não queremos que ele receba os remédios errados agora. Que diabo você pensa que está fazendo?}
+{204}{}{Eu só estava querendo dar uma olhada naquelas pílulas que você tem na prateleira aí.}
+{205}{}{Ah, não se importe comigo. Só estava dando uma olhada nas vitrines.}
+{206}{}{Desculpe. Eu sempre tive essa compulsão irresistível de vasculhar as coisas dos outros que nunca consegui me livrar.}
+{207}{}{Honestamente? Não esperava que você fosse tão observador. Acho que vou ter que improvisar.}
+{210}{}{Você, agora? (Dr. Jubilee olha para você friamente.) Eu acho que você era um pouco jovem para estar sofrendo de um tique nervoso.}
+{211}{}{E você estaria certo, estou perguntando pelo meu amigo Cassidy. Um cara mais velho. Ele tem um coração ruim, e viajar pelos desertos está ficando meio difícil para ele.}
+{212}{}{E eu gostaria que eles estivessem certos. Eu tenho isso do meu pai, pelo menos é o que me dizem.}
+{213}{}{Ah, nada disso. Eu sou apenas arrogantemente curioso, acho.}
+{220}{}{Bem, você não pode. Este é um consultório particular, não uma farmácia. Talvez você queira experimentar Duppo's, um tetch ao norte daqui.}
+{221}{}{Parece exatamente o que estou procurando. Tchau.}
+{222}{}{Vou dar uma olhada. Enquanto isso, se não for incomodo, posso te fazer algumas perguntas?}
+{223}{}{Não, acho que vim ao lugar certo. Eu posso ver que você está fazendo um bom trabalho aqui. Pensei que poderia oferecer uma doação.}
+{230}{}{(O médico pisca. Ele pisca novamente.) Você provavelmente deveria conversar com alguém sobre isso.
+ Infelizmente, não sou o tipo certo de médico. Tudo o que você precisa saber sobre essa prateleira é que, se você
+ misturar ou estragar qualquer uma dessas receitas, algum pobre coitado pode acabar em um mundo de dor,
+ se é que ainda continuará neste mundo. Melhor manter suas mãos com você mesmo.}
+{231}{}{Vou fazer, doutor. Mas, uh, diga... Eu tenho um amigo que realmente precisa de algumas dessas pílulas para
+ o coração que você tem aí. Estaria disposto a me vender algumas?}
 {240}{}{Awww, }
 {241}{}{filho, }
 {242}{}{miss, }
-{243}{}{I wish I could help you, but I'm not taking on any new patients right now. Council's got me on retainer. Can't sell you no pills, neither-- Councilman Westin's people are supposed to pick those ones up in }
+{243}{}{Eu gostaria de poder ajudá-lo, mas não estou atendendo nenhum paciente novo no momento. O conselho me contratou. Também não posso te vender pílulas... O pessoal do vereador Westin deveria pegar essas pílulas em }
 {244}{}{ dias, }
 {245}{}{ dia, }
-{246}{}{and just ain't no way I'm going to have time to mix up another batch before then.}
-{247}{}{I understand, doc. Maybe I'll find a decent pharmacist somewhere else. If it's not too much to ask, though, is there any advice you could give me on the subject? You don't find medicine like that too often.}
-{248}{}{Those are the breaks, I guess. Anyway, I should be alright. I've picked up *tons* about cardamomagy from old comic books. Cut the hard chems back to twice a day, TOPS, make sure to get your exercise in short, strenuous bursts so your heart doesn't have time to act up, all kinds of good stuff.}
-{250}{}{I feel for you, friend, but I'm afraid those pills are for Councilman Westin, and I ain't taking on any new patients right now so I wouldn't be able to write you up a script. Now please, don't go messing around on that shelf anymore. Those prescriptions get mixed up, someone could wind up in a pretty bad way.}
+{246}{}{e não vou ter tempo de misturar outro lote antes disso.}
+{247}{}{Eu entendo, doutor. Talvez eu encontre um farmacêutico decente em outro lugar. Se não for pedir muito, há alguma dica que você possa me dar sobre o assunto? Não se encontra remédios assim com muita frequência.}
+{248}{}{Essas são as pausas, eu acho. De qualquer forma, eu deveria estar bem. Eu peguei *toneladas* sobre cardamomagia de histórias em quadrinhos antigas. Corte os chems duros de volta para duas vezes por dia, TOPS, certifique-se de fazer seu exercício em rajadas curtas e extenuantes para que seu coração não tenha tempo para agir, todos os tipos de coisas boas.}
+{250}{}{Sinto muito por você, amigo, mas temo que essas pílulas sejam para o vereador Westin, e não estou aceitando nenhum paciente novo agora, então não poderia prescrever nada para você. Agora, por favor, não fique mais mexendo nessa prateleira. Essas prescrições se misturam, alguém pode acabar em uma situação muito ruim.}
 {260}{}{Vamos ser claros aqui, }
 {261}{}{senhor. }
 {262}{}{senhorita. }
 {263}{}{O que exatamente você quer dizer com "doação?"}
-{264}{}{A charitable contribution, in furtherance of your service to the public, say... $150? You can count it out in the back room. Should only take a minute, right?}
-{265}{}{Uh, actually, I think I'd better check with my accountant before I do anything rash. See you later, doc.}
+{264}{}{Uma contribuição de caridade, em prol do seu serviço ao público, digamos... de US$150? Você pode contar na sala dos fundos. Deve levar apenas um minuto, certo?}
+{265}{}{Na verdade, acho melhor consultar meu contador antes de fazer algo precipitado. Até logo, doutor.}
 {270}{}{Eu temo que isso não pode ser feito. Esses são para o vereador do Westin. Seu povo deve pegar em }
 {271}{}{ dias, }
 {272}{}{ dia, }
