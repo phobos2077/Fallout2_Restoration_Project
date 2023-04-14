@@ -34,12 +34,12 @@
 {133}{}{Apenas dando uma olhada, obrigado.}
 {134}{}{Eu sou o ASSISTENTE da Primeira Cidadã. Eu agendo suas consultas, administro o teste de Cidadania para candidatos em potencial e atualizo todas as listas no servidor de Vault City. Garanto que não é uma tarefa pequena.}
 {135}{}{Teste de Cidadania?}
-{136}{}{Speaking of the Citizenship test, I want to take it again.}
+{136}{}{Por falar em prova de Cidadania, quero fazer de novo.}
 {137}{}{Posso te fazer algumas perguntas?}
-{138}{}{I see. Well, I have to be going.}
-{139}{}{Yes, there is the RIGHT way... you can become a Citizen by taking the Citizenship test.}
-{140}{}{Yes, I am responsible for administering the Citizenship test to anyone who wishes to become a Citizen of Vault City.}
-{141}{}{What is the test, exactly?}
+{138}{}{Entendo. Bem, eu tenho que ir.}
+{139}{}{Sim, existe o jeito CERTO... você pode se tornar um Cidadão fazendo o teste de Cidadania.}
+{140}{}{Sim, sou responsável por aplicar o teste de Cidadania a todos que desejam se tornar Cidadãos de Vault City.}
+{141}{}{Como é o teste, exatamente?}
 {142}{}{Quero fazer o teste novamente.}
 {143}{}{Quais as vantagens de ser Cidadão?}
 {144}{}{Posso fazer mais algumas perguntas?}

@@ -27,7 +27,7 @@
 {126}{}{500? Droga, espero ser reembolsado por isso. Tudo bem, aqui está o dinheiro.}
 {127}{}{Obrigado pelo negócio. Se cuida.}
 {128}{}{Adeus.}
-{129}{}{Connar sent me for the goods.}
+{129}{}{Connar me mandou buscar as mercadorias.}
 {130}{}{[Harry's eyes dart around quickly, he seems a bit nervous] Yes, sure. Just a moment...}
 {131}{}{[Harry brings you the rifles.] Here, take em. That'll be ten thousand, and let's make this snappy.}
 {132}{}{Of course, here's the money.}
