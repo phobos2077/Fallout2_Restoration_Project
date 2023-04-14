@@ -45,6 +45,6 @@
 {144}{}{Não perca tempo! Ele está falando sério.}
 {145}{}{Você tem que fazer algo agora!}
 {146}{}{Não fique aí parado, o detenha!}
-{147}{}{Just get out of here, brahmin dung.}
-{148}{}{Don't talk to me, you coward.}
-{149}{}{What use are you!?}
+{147}{}{Saia logo daqui, estrume de brahmin.}
+{148}{}{Não fale comigo, covarde.}
+{149}{}{Para que você serve!?}

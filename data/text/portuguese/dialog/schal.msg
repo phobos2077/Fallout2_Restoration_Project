@@ -11,9 +11,9 @@
 {110}{}{Great. Let's roll out. Head 'em out for Redding boys!}
 {111}{}{Well then, leave me alone. I got 500 head of brahmin to get on the trail.}
 {112}{}{You again? Go away.}
-{113}{}{Well, that was the crapper! Afraid there's no money in this run for any of us. Just be happy you're alive.}
-{114}{}{Well, the ranchers are none too happy - it's only a $1000 run. Tough luck.}
+{113}{}{Bem, foi tudo uma merda! Receio que não pegamos dinheiro nesta viagem para nenhum de nós. Agradeça por estar vivo.}
+{114}{}{Bem, os fazendeiros não estão muito felizes. Vão nos dar $1.000 por essa viagem. Sorte difícil.}
 {115}{}{Well, we had little string of bad luck but did all right. Here's the $2000 you signed on for.}
-{116}{}{Hot damn, you were just fine! There's a $1000 bonus in it for you. That and $2000 makes your pay. Redding better watch out tonight!}
+{116}{}{Caramba, foi muito bem! Pegue um bônus de $1.000 para você, isso e mais $2.000 no seu pagamento. Redding, melhor tomar cuidado esta noite!}
 {117}{}{You're on your own. Good travelling with you.}
-{118}{}{You're the worst excuse for a guard I've ever seen. Get the hell out of here.}
+{118}{}{Você é o pior projeto de guarda que eu já vi. Saia agora daqui.}
