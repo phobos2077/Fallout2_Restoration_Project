@@ -1,6 +1,6 @@
-{100}{}{You see Proconsul Gregory.}
+{100}{}{Você vê o Proconsul Gregory.}
 {101}{}{You see a grim-looking bureaucrat with a narrow face and thick eyebrows.}
-{102}{}{You see Proconsul Gregory.}
+{102}{}{Você vê o Proconsul Gregory.}
 {103}{}{You see a grim-looking bureaucrat with a narrow face and thick eyebrows.}
 {104}{}{For your act of bravery, you have been granted full access to Vault City. Oh... the First Citizen said she wanted to see you.}
 {105}{}{An intruder! Guards! Guards!}

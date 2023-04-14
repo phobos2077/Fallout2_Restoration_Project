@@ -1,5 +1,5 @@
-{100}{}{You see a red-faced, friendly looking man.}
-{101}{}{It's Duppo. He runs the Stockman's Association.}
+{100}{}{Você vê um homem de rosto vermelho e aparência amigável.}
+{101}{}{É Duppo. Ele comanda a Associação de Vaqueiros.}
 {102}{}{He's a stocky fellow and with constantly flushed face and shock of thin blond hair. He walks with a slight limp.}
 {103}{}{Greetings, stranger. Don't know you from these parts, so that means you're not a rancher. You come looking for work or are you here to buy?}
 {104}{}{What'll it be, stranger?}

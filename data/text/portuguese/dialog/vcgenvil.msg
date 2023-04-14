@@ -12,8 +12,8 @@
 {111}{}{Get the hell out of here!}
 {112}{}{We are safe now.}
 {113}{}{You have our gratitude.}
-{114}{}{God be with you, stranger.}
-{115}{}{Go speak to Connar.}
-{116}{}{Ha! You should have seen them run!}
-{117}{}{The City Patrol ran with their tails between their legs. Ha, we showed them!}
-{118}{}{Who'd a thought them Vault City boys would turn out to be such cowards!}
+{114}{}{Deus te acompanhe, estranho.}
+{115}{}{Vá falar com Connar.}
+{116}{}{Ha! Você deveria tê-los visto correr!}
+{117}{}{A Patrulha da Cidade correndo com o rabo entre as pernas. Ha, nós mostramos a eles!}
+{118}{}{Quem diria que os caras de Vault City seriam tão covardes!}
