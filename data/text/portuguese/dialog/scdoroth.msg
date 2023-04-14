@@ -43,8 +43,8 @@
 {142}{}{Ei, olha, Toto. É o estranho que nos ajudou. Obrigado novamente, moça.}
 {143}{}{Você o convenceu a desistir? Isso é incrível! A cidade te deve muito, moça. Olha, não é muito, mas aqui estão alguns manuais que tenho colecionado. Talvez você possa vender ou algo assim.}
 {144}{}{Não perca tempo! Ele está falando sério.}
-{145}{}{You've got to do something right now!}
-{146}{}{Don't just stand there -- stop him!}
+{145}{}{Você tem que fazer algo agora!}
+{146}{}{Não fique aí parado, o detenha!}
 {147}{}{Just get out of here, brahmin dung.}
 {148}{}{Don't talk to me, you coward.}
 {149}{}{What use are you!?}

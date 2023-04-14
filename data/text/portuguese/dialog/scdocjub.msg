@@ -118,26 +118,26 @@
 {272}{}{ dia, }
 {273}{}{e eu não vou ter tempo para misturar outro lote antes disso. Tenho certeza que você pode encontrar um farmacêutico com menos trabalho.}
 {274}{}{Tudo bem, obrigado de qualquer maneira.}
-{280}{}{(Doc Jubilee gapes at you for a moment.) Aw, you're puttin' me on, right? You've gotta be puttin' me on. (Glances at you again, shakes head, blows out cheeks.) Hooo, boy. Either way, I wouldn't be no kind of doctor if I let you walk out of here without a few pointers, at least.}
+{280}{}{(Dr. Jubilee fica boquiaberto por um momento.) Ah, você está me enganando, certo? Você deve estar me enganando. (Olha para você de novo, balança a cabeça, incha as bochechas.) Hooo, garoto. De qualquer forma, eu não seria nenhum tipo de médico se deixasse você sair daqui sem pelo menos algumas dicas.}
 {281}{}{Vamos ver... para começar, você provavelmente deveria parar de fazer... bem, quase tudo deveria cobrir isso. Nada de beber, fumar, carne vermelha, drogas. Tente fazer meia hora por dia de exercícios leves, e vá com calma. A vida não é uma corrida, muito menos do tipo em que você quer ser o primeiro a terminar. Verdade dita, ninguém nunca ouve essas coisas, mas pelo menos poderei descansar com a cabeça leve esta noite.}
 {282}{}{Mais importante, você precisa encontrar um químico meio decente e dizer a eles que você precisa ter um suprimento regular de Triproxinil. Tri-prox-i-nil. O estoque dos desertos não vai ser tão chique quanto o que eu tenho na prateleira lá, mas quimicamente, é tudo a mesma coisa quando você chega ao ponto. 30 miligramas, duas vezes ao dia.}
-{283}{}{Now, you gotta be sure to drink plenty of water while you're on this stuff. And for criminy sakes, you stay *as far as you can* from those pecker pills like they got up in New Reno, understand? They don't play nice together. Fella takes one while he's on the other, his John Thomas ain't nearly the only part of him going stiff that day, if you follow.}
-{284}{}{(To yourself) Hmm, that could work. Yeah. Maybe something in the way of a PDE-5 inhibitor compound...}
-{285}{}{Oh-- And if you *do* go through one of them Reno hucksters, they might go tellin' you that this stuff'll proof your heart against just about any pusher's poison you'd care to try. I ain't gonna lie to you-- there's prob'ly some truth to that. Still don't make bein' a junkie any more glamorous. You're grown and out of britches, so I ain't gonna lecture, but there it is.}
+{283}{}{Agora, tenha certeza de beber bastante água enquanto estiver tomando essas coisas. E pelo bem do crime, fique *o mais longe que puder* daquelas pílulas de pica que surgiram em New Reno, entendeu? Eles não funcionam bem juntos. Se o cara tomar um enquanto ainda está com outro no corpo, o pinto não vai ser a única coisa dura que ele vai ter naquele dia, se é que você me entende.}
+{284}{}{(Para si mesmo) Hmm, isso pode funcionar. Sim. Talvez algo na forma de um composto inibidor de PDE-5...}
+{285}{}{Ah, se você *passar* por um desses charlatões de Reno, eles podem até falar que essa coisa vai proteger seu coração contra praticamente qualquer veneno que algum traficante de lá te der. Não vou mentir para você... provavelmente tem alguma verdade nisso. Mesmo assim, não torna esse vício mais glamoroso. Bom, mas você já crescido, não vou te dar sermão. Isso é tudo.}
 {286}{}{Muito obrigado mesmo, doutor. Você não tem ideia da ajuda que me deu. Se cuide.}
 {287}{}{Tri-prox-i-nil, sem bo-ner-pílula. Heh heh. Vou me lembrar disso. Vejo você por aí, doutor.}
 {290}{}{Você acha que está lidando com alguns malandros de bartertown, }
 {291}{}{filho, }
 {292}{}{garotas, }
-{293}{}{is that it? Don't. I am a trained and accredited NCR medical professional, and that's worth a lot more than that pocketful o' chump change.}
+{293}{}{É isso? Não. Sou um profissional médico da NCR treinado e credenciado, isso vale muito mais do que esse trocado.}
 {294}{}{Minhas desculpas. Obviamente, um profissional de seu calibre não cobra doações inferiores a US$ 250.}
 {295}{}{(Abaixe a cabeça.) Olha, eu sinto muito. Não estou orgulhoso de mim mesmo e normalmente nunca teria tentado algo assim, mas vou ser honesto com você: eu estava desesperado por essas pílulas.}
 {296}{}{Desculpe por todo o incomodo. Acho melhor ir antes quem cavem um buraco maior.}
-{300}{}{(Doc Jubilee begins to turn red.) I don't think you heard me the first time,}
+{300}{}{(Dr. Jubilee começa a ficar vermelho.) Acho que você não me ouviu da primeira vez,}
 {301}{}{ menino, }
 {302}{}{ mulher, }
-{303}{}{so listen close: I am a doctor of the NCR. It's a solemn duty, and it came with a solemn oath. You ask me one more time to piss on that oath, the ONLY part of it that's going out the window is "first, do no harm." You got me?}
-{304}{}{Alright, screw it. If you're as great as you seem to think you are, maybe you'll be able to sew yourself back together after this.}
+{303}{}{presta atenção: eu sou um médico da NCR. É um dever solene junto com um juramento solene. Me peça mais uma vez para cagar em cima juramento, e a ÚNICA parte dele que eu vou ignorar é "primeiro, não faça mal". Entendeu?}
+{304}{}{Tudo bem, foda-se. Se você é tão bom quanto parece pensar que é, talvez consiga se recompor depois disso.}
 {305}{}{Uau, agora. Não queria pisar no pé de ninguém, doutor. Vou deixar você em paz por um tempo.}
 {310}{}{Diga, doutor, eu estava pensando sobre aquelas pílulas para o coração que você tem aí na prateleira.}
 {311}{}{Tem certeza que não pode pensar de novo em me vender algumas dessas pílulas?}
