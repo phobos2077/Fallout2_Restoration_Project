@@ -5,7 +5,7 @@
 {104}{}{Congratulations, }
 {105}{}{Way to put those Enclave assh-... er, jerks, in their place!}
 {106}{}{Ouvi dizer que você chutou alguns traseiros importante no sul. Muito bem.}
-{107}{}{An intruder! Guards! Guards!}
+{107}{}{Um intruso! Guardas! Guardas!}
 {108}{}{O qu?! Um mutante! Guardas!}
 {109}{}{O qu?! Um ghoul! Guardas!}
 {110}{}{Bom dia, Capitão.}

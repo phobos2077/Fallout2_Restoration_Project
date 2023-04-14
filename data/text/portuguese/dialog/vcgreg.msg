@@ -1,11 +1,11 @@
 {100}{}{Você vê o Proconsul Gregory.}
-{101}{}{You see a grim-looking bureaucrat with a narrow face and thick eyebrows.}
+{101}{}{Você vê um burocrata de aparência sombria, rosto estreito e sobrancelhas grossas.}
 {102}{}{Você vê o Proconsul Gregory.}
-{103}{}{You see a grim-looking bureaucrat with a narrow face and thick eyebrows.}
-{104}{}{For your act of bravery, you have been granted full access to Vault City. Oh... the First Citizen said she wanted to see you.}
-{105}{}{An intruder! Guards! Guards!}
+{103}{}{Você vê um burocrata de aparência sombria, rosto estreito e sobrancelhas grossas.}
+{104}{}{Por seu ato de bravura, você recebeu acesso total a Vault City. Oh... a Primeira Cidadã disse que queria ver você.}
+{105}{}{Um intruso! Guardas! Guardas!}
 {106}{}{Qu-e?! Um Mutante! GUARDAS! GUARDAS!}
-{107}{}{Wh-? A ghoul! GUARDS! GUARDS!}
+{107}{}{Que-? Um ghoul! GUARDAS! GUARDAS!}
 {108}{}{Bom dia, Capitão.}
 {109}{}{Vault City prevails, Capitão.}
 {110}{}{Bom dia, Citizen.}
@@ -14,26 +14,26 @@
 {113}{}{Compile o formulário 5632 no servidor de listas...}
 {114}{}{Faça uma lista das listas 43A a 121B... e as insira no Arquivo de Listas...}
 {115}{}{É um belo dia para compilar listas.}
-{116}{}{Still need to finish these lists before I retire for the evening...}
-{117}{}{Come back in the morning. I should be done with these lists by then.}
-{118}{}{Filthy mutant...}
-{119}{}{I don't know how you became a Citizen. You're nothing but a mutant to me. If only someone would believe me...}
-{120}{}{I don't know how you became Captain. You're nothing but a mutant to me. If only someone would believe me...}
-{121}{}{I'm sorry... can I help you?}
-{122}{}{Hep yew.}
+{116}{}{Ainda preciso terminar essas listas antes de ir embora essa noite...}
+{117}{}{Volte pela manhã. Até lá eu vou ter terminado essas listas.}
+{118}{}{Mutante asqueroso...}
+{119}{}{Não sei como você se tornou Cidadão. Você não passa de um mutante. Se ao menos alguém acreditasse em mim...}
+{120}{}{Não sei como você se tornou capitão. Você não passa de um mutante. Se ao menos alguém acreditasse em mim...}
+{121}{}{Me desculpe... posso te ajudar?}
+{122}{}{Ajuda eu.}
 {123}{}{Desliga}
 {124}{}{Quem é você?}
-{125}{}{Just looking around, thanks.}
-{126}{}{Yet ANOTHER Servant that has strayed from his rounds?! I'll put Barkus on report if he keeps letting them wander about... now, you... Shoo! Shoo!}
-{127}{}{SHOOT yew? Ok-ay.}
+{125}{}{Apenas dando uma olhada, obrigado.}
+{126}{}{OUTRO lacaio que se desviou do curso?! Vou relatar a Barkus se ele continuar os deixando vagar por aí... agora, você... Xô! Xô!}
+{127}{}{ATIRAR voce? oook.}
 {128}{}{Desliga}
-{129}{}{*Tchh* Those Servants seem to get stupider every day.}
-{130}{}{I am Proconsul Gregory. Is this the office you were looking for, or...?}
-{131}{}{"Proconsul?" What the hell is a "Proconsul?"}
+{129}{}{*Tchh* Esses servos parecem ficar mais estúpidos a cada dia.}
+{130}{}{Eu sou o Procônsul Gregory. Este é o escritório que você estava procurando, ou...?}
+{131}{}{"Procônsul?" O que diabos é um "Procônsul?"}
 {132}{}{O que você faz aqui?}
-{133}{}{Just looking around, thanks.}
-{134}{}{I am the ASSISTANT to the First Citizen. I schedule her appointments, administer the Citizenship test to potential applicants, and update all the lists on the Vault City server. No small task, I assure you.}
-{135}{}{The Citizenship test?}
+{133}{}{Apenas dando uma olhada, obrigado.}
+{134}{}{Eu sou o ASSISTENTE da Primeira Cidadã. Eu agendo suas consultas, administro o teste de Cidadania para candidatos em potencial e atualizo todas as listas no servidor de Vault City. Garanto que não é uma tarefa pequena.}
+{135}{}{Teste de Cidadania?}
 {136}{}{Speaking of the Citizenship test, I want to take it again.}
 {137}{}{Posso te fazer algumas perguntas?}
 {138}{}{I see. Well, I have to be going.}
